@@ -1,0 +1,937 @@
+Alex Reyes|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|96
+Alex Reyes|R|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|8|95
+Alex Reyes|R|Lorenzo Cain|R|Strikeout|S|Slider|2|0|2|0|14|86
+Alex Reyes|R|Christian Yelich|L|Single|B|Four-Seam Fastball|3|0|0|1|13|96
+Alex Reyes|R|Christian Yelich|L|Single|C|Four-Seam Fastball|4|1|0|1|11|96
+Alex Reyes|R|Christian Yelich|L|Single|B|Four-Seam Fastball|5|1|1|1|14|96
+Alex Reyes|R|Christian Yelich|L|Single|D|Changeup|6|2|1|1|8|90
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|S|Slider|7|0|0|1|14|85
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|B|Two-Seam Fastball|8|0|1|1|13|97
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|B|Slider|9|1|1|1|14|87
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|10|2|1|1|8|97
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|B|Curveball|11|2|2|1|11|79
+Alex Reyes|R|Jesus Aguilar|R|Strikeout|S|Slider|12|3|2|1|14|87
+Alex Reyes|R|Travis Shaw|L|Walk|F|Two-Seam Fastball|13|0|0|2|2|94
+Alex Reyes|R|Travis Shaw|L|Walk|C|Curveball|14|0|1|2|13|77
+Alex Reyes|R|Travis Shaw|L|Walk|F|Changeup|15|0|2|2|13|88
+Alex Reyes|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|16|0|2|2|12|96
+Alex Reyes|R|Travis Shaw|L|Walk|B|Curveball|17|1|2|2|11|78
+Alex Reyes|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|18|2|2|2|12|95
+Alex Reyes|R|Travis Shaw|L|Walk|F|Changeup|19|3|2|2|2|89
+Alex Reyes|R|Travis Shaw|L|Walk|B|Changeup|20|3|2|2|11|89
+Alex Reyes|R|Domingo Santana|R|Single|C|Slider|21|0|0|2|14|84
+Alex Reyes|R|Domingo Santana|R|Single|F|Four-Seam Fastball|22|0|1|2|8|95
+Alex Reyes|R|Domingo Santana|R|Single|D|Curveball|23|0|2|2|6|79
+Alex Reyes|R|Jonathan Villar|L|Grounded Into DP|B|Two-Seam Fastball|24|0|0|2|14|95
+Alex Reyes|R|Jonathan Villar|L|Grounded Into DP|L|Four-Seam Fastball|25|1|0|2|14|93
+Alex Reyes|R|Jonathan Villar|L|Grounded Into DP|X|Curveball|26|1|1|2|6|78
+Alex Reyes|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|27|0|0|1|14|95
+Alex Reyes|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|28|1|0|1|12|94
+Alex Reyes|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|29|2|0|1|13|95
+Alex Reyes|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|30|3|0|1|9|93
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|*B|Slider|31|0|0|1|14|86
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|C|Two-Seam Fastball|32|1|0|1|11|95
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|C|Four-Seam Fastball|33|1|1|1|5|95
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|F|Slider|34|1|2|1|14|87
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|F|Curveball|35|1|2|1|4|79
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|F|Slider|36|1|2|1|14|86
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|B|Four-Seam Fastball|37|1|2|1|14|96
+Alex Reyes|R|Erik Kratz|R|Hit By Pitch|H|Curveball|38|2|2|1|11|78
+Alex Reyes|R|Junior Guerra|R|Lineout|F|Slider|39|0|0|1|7|83
+Alex Reyes|R|Junior Guerra|R|Lineout|X|Slider|40|0|1|1|1|83
+Alex Reyes|R|Lorenzo Cain|R|Single|C|Four-Seam Fastball|41|0|0|2|5|93
+Alex Reyes|R|Lorenzo Cain|R|Single|C|Slider|42|0|1|2|3|83
+Alex Reyes|R|Lorenzo Cain|R|Single|F|Four-Seam Fastball|43|0|2|2|6|95
+Alex Reyes|R|Lorenzo Cain|R|Single|F|Slider|44|0|2|2|7|85
+Alex Reyes|R|Lorenzo Cain|R|Single|B|Slider|45|0|2|2|14|84
+Alex Reyes|R|Lorenzo Cain|R|Single|D|Four-Seam Fastball|46|1|2|2|11|96
+Alex Reyes|R|Christian Yelich|L|Groundout|F|Four-Seam Fastball|47|0|0|2|5|92
+Alex Reyes|R|Christian Yelich|L|Groundout|C|Two-Seam Fastball|48|0|1|2|13|93
+Alex Reyes|R|Christian Yelich|L|Groundout|B|Slider|49|0|2|2|13|83
+Alex Reyes|R|Christian Yelich|L|Groundout|F|Four-Seam Fastball|50|1|2|2|4|94
+Alex Reyes|R|Christian Yelich|L|Groundout|B|Two-Seam Fastball|51|1|2|2|13|94
+Alex Reyes|R|Christian Yelich|L|Groundout|*B|Changeup|52|2|2|2|14|88
+Alex Reyes|R|Christian Yelich|L|Groundout|X|Two-Seam Fastball|53|3|2|2|4|95
+Alex Reyes|R|Jesus Aguilar|R|Flyout|B|Slider|54|0|0|0|14|83
+Alex Reyes|R|Jesus Aguilar|R|Flyout|B|Four-Seam Fastball|55|1|0|0|12|92
+Alex Reyes|R|Jesus Aguilar|R|Flyout|C|Two-Seam Fastball|56|2|0|0|6|93
+Alex Reyes|R|Jesus Aguilar|R|Flyout|B|Slider|57|2|1|0|14|84
+Alex Reyes|R|Jesus Aguilar|R|Flyout|X|Four-Seam Fastball|58|3|1|0|11|93
+Alex Reyes|R|Travis Shaw|L|Flyout|B|Curveball|59|0|0|1|14|74
+Alex Reyes|R|Travis Shaw|L|Flyout|B|Four-Seam Fastball|60|1|0|1|12|91
+Alex Reyes|R|Travis Shaw|L|Flyout|X|Two-Seam Fastball|61|2|0|1|11|92
+Alex Reyes|R|Domingo Santana|R|Lineout|C|Four-Seam Fastball|62|0|0|2|2|92
+Alex Reyes|R|Domingo Santana|R|Lineout|B|Slider|63|0|1|2|14|82
+Alex Reyes|R|Domingo Santana|R|Lineout|B|Slider|64|1|1|2|14|85
+Alex Reyes|R|Domingo Santana|R|Lineout|X|Four-Seam Fastball|65|2|1|2|14|92
+Alex Reyes|R|Jonathan Villar|L|Lineout|B|Four-Seam Fastball|66|0|0|0|12|92
+Alex Reyes|R|Jonathan Villar|L|Lineout|B|Changeup|67|1|0|0|12|91
+Alex Reyes|R|Jonathan Villar|L|Lineout|C|Four-Seam Fastball|68|2|0|0|9|92
+Alex Reyes|R|Jonathan Villar|L|Lineout|B|Two-Seam Fastball|69|2|1|0|13|96
+Alex Reyes|R|Jonathan Villar|L|Lineout|F|Four-Seam Fastball|70|3|1|0|5|95
+Alex Reyes|R|Jonathan Villar|L|Lineout|F|Four-Seam Fastball|71|3|2|0|5|96
+Alex Reyes|R|Jonathan Villar|L|Lineout|X|Four-Seam Fastball|72|3|2|0|4|95
+Alex Reyes|R|Francisco Cervelli|R|Single|D|Four-Seam Fastball|0|0|0|0|3|96
+Alex Reyes|R|Josh Bell|L|Lineout|X|Two-Seam Fastball|1|0|0|0|8|97
+Alex Reyes|R|Jung Ho Kang|R|Walk|*B|Slider|2|0|0|1|14|88
+Alex Reyes|R|Jung Ho Kang|R|Walk|B|Slider|3|1|0|1|12|87
+Alex Reyes|R|Jung Ho Kang|R|Walk|B|Slider|4|2|0|1|14|87
+Alex Reyes|R|Jung Ho Kang|R|Walk|C|Two-Seam Fastball|5|3|0|1|5|96
+Alex Reyes|R|Jung Ho Kang|R|Walk|C|Slider|6|3|1|1|9|88
+Alex Reyes|R|Jung Ho Kang|R|Walk|B|Four-Seam Fastball|7|3|2|1|7|97
+Alex Reyes|R|Colin Moran|L|Walk|F|Two-Seam Fastball|8|0|0|1|4|96
+Alex Reyes|R|Colin Moran|L|Walk|*B|Changeup|9|0|1|1|14|89
+Alex Reyes|R|Colin Moran|L|Walk|B|Changeup|10|1|1|1|13|90
+Alex Reyes|R|Colin Moran|L|Walk|B|Slider|11|2|1|1|12|85
+Alex Reyes|R|Colin Moran|L|Walk|*B|Changeup|12|3|1|1|14|90
+Alex Reyes|R|Manny Machado|R|Walk|C|Four-Seam Fastball|0|0|0|0|7|96
+Alex Reyes|R|Manny Machado|R|Walk|C|Curveball|1|0|1|0|6|80
+Alex Reyes|R|Manny Machado|R|Walk|B|Curveball|2|0|2|0|14|80
+Alex Reyes|R|Manny Machado|R|Walk|B|Four-Seam Fastball|3|1|2|0|12|97
+Alex Reyes|R|Manny Machado|R|Walk|B|Curveball|4|2|2|0|3|81
+Alex Reyes|R|Manny Machado|R|Walk|F|Two-Seam Fastball|5|3|2|0|1|96
+Alex Reyes|R|Manny Machado|R|Walk|F|Four-Seam Fastball|6|3|2|0|3|97
+Alex Reyes|R|Manny Machado|R|Walk|*B|Curveball|7|3|2|0|14|81
+Alex Reyes|R|Franmil Reyes|R|Walk|F|Two-Seam Fastball|8|0|0|0|11|96
+Alex Reyes|R|Franmil Reyes|R|Walk|B|Curveball|9|0|1|0|12|79
+Alex Reyes|R|Franmil Reyes|R|Walk|*B|Curveball|10|1|1|0|14|79
+Alex Reyes|R|Franmil Reyes|R|Walk|B|Slider|11|2|1|0|14|87
+Alex Reyes|R|Franmil Reyes|R|Walk|B|Two-Seam Fastball|12|3|1|0|3|96
+Alex Reyes|R|Wil Myers|R|Groundout|S|Two-Seam Fastball|13|0|0|0|14|96
+Alex Reyes|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|14|0|1|0|12|96
+Alex Reyes|R|Wil Myers|R|Groundout|B|Slider|15|1|1|0|14|88
+Alex Reyes|R|Wil Myers|R|Groundout|F|Changeup|16|2|1|0|2|88
+Alex Reyes|R|Wil Myers|R|Groundout|X|Curveball|17|2|2|0|14|80
+Alex Reyes|R|Franchy Cordero|L|Sac Fly|B|Slider|18|0|0|1|11|79
+Alex Reyes|R|Franchy Cordero|L|Sac Fly|E|Four-Seam Fastball|19|1|0|1|6|95
+Alex Reyes|R|Fernando Tatis Jr.|R|Home Run|E|Two-Seam Fastball|20|0|0|2|11|97
+Alex Reyes|R|Francisco Mejia|L|Walk|B|Two-Seam Fastball|21|0|0|2|11|96
+Alex Reyes|R|Francisco Mejia|L|Walk|B|Four-Seam Fastball|22|1|0|2|11|95
+Alex Reyes|R|Francisco Mejia|L|Walk|B|Changeup|23|2|0|2|13|88
+Alex Reyes|R|Francisco Mejia|L|Walk|B|Two-Seam Fastball|24|3|0|2|12|94
+Alex Reyes|R|Greg Garcia|L|Groundout|X|Four-Seam Fastball|25|0|0|2|2|92
+Alex Reyes|R|Orlando Arcia|R|Flyout|X|Four-Seam Fastball|0|0|0|0|11|98
+Alex Reyes|R|Ben Gamel|L|Groundout|B|Four-Seam Fastball|1|0|0|1|13|98
+Alex Reyes|R|Ben Gamel|L|Groundout|B|Four-Seam Fastball|2|1|0|1|11|97
+Alex Reyes|R|Ben Gamel|L|Groundout|S|Two-Seam Fastball|3|2|0|1|13|96
+Alex Reyes|R|Ben Gamel|L|Groundout|S|Two-Seam Fastball|4|2|1|1|13|96
+Alex Reyes|R|Ben Gamel|L|Groundout|B|Changeup|5|2|2|1|13|90
+Alex Reyes|R|Ben Gamel|L|Groundout|X|Two-Seam Fastball|6|3|2|1|13|96
+Alex Reyes|R|Lorenzo Cain|R|Lineout|B|Four-Seam Fastball|7|0|0|2|14|97
+Alex Reyes|R|Lorenzo Cain|R|Lineout|B|Four-Seam Fastball|8|1|0|2|11|96
+Alex Reyes|R|Lorenzo Cain|R|Lineout|C|Four-Seam Fastball|9|2|0|2|6|96
+Alex Reyes|R|Lorenzo Cain|R|Lineout|F|Four-Seam Fastball|10|2|1|2|11|97
+Alex Reyes|R|Lorenzo Cain|R|Lineout|X|Slider|11|2|2|2|6|87
+Alex Reyes|R|Manny Pina|R|Walk|C|Four-Seam Fastball|0|0|0|0|1|96
+Alex Reyes|R|Manny Pina|R|Walk|C|Curveball|1|0|1|0|14|80
+Alex Reyes|R|Manny Pina|R|Walk|F|Changeup|2|0|2|0|14|90
+Alex Reyes|R|Manny Pina|R|Walk|F|Four-Seam Fastball|3|0|2|0|5|98
+Alex Reyes|R|Manny Pina|R|Walk|F|Curveball|4|0|2|0|14|81
+Alex Reyes|R|Manny Pina|R|Walk|B|Slider|5|0|2|0|14|89
+Alex Reyes|R|Manny Pina|R|Walk|B|Changeup|6|1|2|0|14|90
+Alex Reyes|R|Manny Pina|R|Walk|B|Changeup|7|2|2|0|14|89
+Alex Reyes|R|Manny Pina|R|Walk|F|Four-Seam Fastball|8|3|2|0|5|98
+Alex Reyes|R|Manny Pina|R|Walk|*B|Four-Seam Fastball|9|3|2|0|14|98
+Alex Reyes|R|Eric Thames|L|Strikeout|C|Curveball|10|0|0|0|11|79
+Alex Reyes|R|Eric Thames|L|Strikeout|F|Two-Seam Fastball|11|0|1|0|3|97
+Alex Reyes|R|Eric Thames|L|Strikeout|B|Two-Seam Fastball|12|0|2|0|13|96
+Alex Reyes|R|Eric Thames|L|Strikeout|S|Two-Seam Fastball|13|1|2|0|13|97
+Alex Reyes|R|Lorenzo Cain|R|Flyout|C|Two-Seam Fastball|14|0|0|1|7|96
+Alex Reyes|R|Lorenzo Cain|R|Flyout|B|Two-Seam Fastball|15|0|1|1|11|95
+Alex Reyes|R|Lorenzo Cain|R|Flyout|B|Two-Seam Fastball|16|1|1|1|13|95
+Alex Reyes|R|Lorenzo Cain|R|Flyout|B|Four-Seam Fastball|17|2|1|1|12|96
+Alex Reyes|R|Lorenzo Cain|R|Flyout|C|Four-Seam Fastball|18|3|1|1|8|96
+Alex Reyes|R|Lorenzo Cain|R|Flyout|X|Two-Seam Fastball|19|3|2|1|1|96
+Alex Reyes|R|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|14|96
+Alex Reyes|R|Adam Duvall|R|Strikeout|C|Four-Seam Fastball|1|1|0|2|4|98
+Alex Reyes|R|Adam Duvall|R|Strikeout|C|Curveball|2|1|1|2|13|79
+Alex Reyes|R|Adam Duvall|R|Strikeout|T|Two-Seam Fastball|3|1|2|2|3|101
+Alex Reyes|R|Tony Renda|R|Groundout|C|Four-Seam Fastball|4|0|0|0|8|98
+Alex Reyes|R|Tony Renda|R|Groundout|F|Four-Seam Fastball|5|0|1|0|11|99
+Alex Reyes|R|Tony Renda|R|Groundout|X|Two-Seam Fastball|6|0|2|0|2|101
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|B|Two-Seam Fastball|7|0|0|1|14|99
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|F|Four-Seam Fastball|8|1|0|1|4|97
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|B|Curveball|9|1|1|1|13|79
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|X|Two-Seam Fastball|10|2|1|1|9|99
+Alex Reyes|R|Dexter Fowler|L|Single|B|Two-Seam Fastball|0|0|0|0|13|95
+Alex Reyes|R|Dexter Fowler|L|Single|F|Two-Seam Fastball|1|1|0|0|13|95
+Alex Reyes|R|Dexter Fowler|L|Single|C|Curveball|2|1|1|0|13|77
+Alex Reyes|R|Dexter Fowler|L|Single|D|Four-Seam Fastball|3|1|2|0|5|97
+Alex Reyes|R|Kris Bryant|R|Strikeout|F|Two-Seam Fastball|4|0|0|0|9|96
+Alex Reyes|R|Kris Bryant|R|Strikeout|C|Two-Seam Fastball|5|0|1|0|6|97
+Alex Reyes|R|Kris Bryant|R|Strikeout|S|Changeup|6|0|2|0|9|88
+Alex Reyes|R|Anthony Rizzo|L|Lineout|B|Four-Seam Fastball|7|0|0|1|14|96
+Alex Reyes|R|Anthony Rizzo|L|Lineout|F|Two-Seam Fastball|8|1|0|1|13|96
+Alex Reyes|R|Anthony Rizzo|L|Lineout|F|Four-Seam Fastball|9|1|1|1|4|96
+Alex Reyes|R|Anthony Rizzo|L|Lineout|X|Changeup|10|1|2|1|13|86
+Alex Reyes|R|Ben Zobrist|L|Caught Stealing 2B|B|Four-Seam Fastball|11|0|0|2|14|97
+Alex Reyes|R|Ben Zobrist|L|Caught Stealing 2B|B|Two-Seam Fastball|12|1|0|2|13|96
+Alex Reyes|R|Ben Zobrist|L|Caught Stealing 2B|F|Four-Seam Fastball|13|2|0|2|14|96
+Alex Reyes|R|Ben Zobrist|L|Caught Stealing 2B|F|Two-Seam Fastball|14|2|1|2|11|96
+Alex Reyes|R|Ben Zobrist|L|Caught Stealing 2B|B|Changeup|15|2|2|2|11|87
+Alex Reyes|R|Ben Zobrist|L|Lineout|B|Curveball|16|0|0|0|11|76
+Alex Reyes|R|Ben Zobrist|L|Lineout|C|Four-Seam Fastball|17|1|0|0|6|97
+Alex Reyes|R|Ben Zobrist|L|Lineout|B|Four-Seam Fastball|18|1|1|0|12|98
+Alex Reyes|R|Ben Zobrist|L|Lineout|C|Two-Seam Fastball|19|2|1|0|13|96
+Alex Reyes|R|Ben Zobrist|L|Lineout|B|Two-Seam Fastball|20|2|2|0|13|99
+Alex Reyes|R|Ben Zobrist|L|Lineout|X|Two-Seam Fastball|21|3|2|0|5|96
+Alex Reyes|R|Addison Russell|R|Walk|B|Four-Seam Fastball|22|0|0|1|14|98
+Alex Reyes|R|Addison Russell|R|Walk|B|Four-Seam Fastball|23|1|0|1|14|97
+Alex Reyes|R|Addison Russell|R|Walk|F|Four-Seam Fastball|24|2|0|1|6|97
+Alex Reyes|R|Addison Russell|R|Walk|B|Four-Seam Fastball|25|2|1|1|12|98
+Alex Reyes|R|Addison Russell|R|Walk|B|Four-Seam Fastball|26|3|1|1|11|97
+Alex Reyes|R|Jason Heyward|L|Double Play|B|Two-Seam Fastball|27|0|0|1|12|98
+Alex Reyes|R|Jason Heyward|L|Double Play|C|Two-Seam Fastball|28|1|0|1|3|96
+Alex Reyes|R|Jason Heyward|L|Double Play|F|Two-Seam Fastball|29|1|1|1|13|96
+Alex Reyes|R|Jason Heyward|L|Double Play|B|Four-Seam Fastball|30|1|2|1|12|98
+Alex Reyes|R|Jason Heyward|L|Double Play|X|Four-Seam Fastball|31|2|2|1|3|96
+Alex Reyes|R|Willson Contreras|R|Strikeout|C|Four-Seam Fastball|32|0|0|0|3|97
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Two-Seam Fastball|33|0|1|0|12|97
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|34|1|1|0|12|98
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|35|2|1|0|12|98
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|36|3|1|0|7|96
+Alex Reyes|R|Willson Contreras|R|Strikeout|F|Two-Seam Fastball|37|3|2|0|12|98
+Alex Reyes|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|38|3|2|0|9|99
+Alex Reyes|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|39|3|2|0|14|98
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Changeup|40|3|2|0|9|89
+Alex Reyes|R|Javier Baez|R|Strikeout|C|Four-Seam Fastball|41|0|0|1|9|99
+Alex Reyes|R|Javier Baez|R|Strikeout|B|Two-Seam Fastball|42|0|1|1|12|99
+Alex Reyes|R|Javier Baez|R|Strikeout|B|Two-Seam Fastball|43|1|1|1|13|97
+Alex Reyes|R|Javier Baez|R|Strikeout|F|Four-Seam Fastball|44|2|1|1|2|98
+Alex Reyes|R|Javier Baez|R|Strikeout|C|Two-Seam Fastball|45|2|2|1|5|100
+Alex Reyes|R|Matt Szczur|R|Groundout|F|Two-Seam Fastball|46|0|0|2|6|97
+Alex Reyes|R|Matt Szczur|R|Groundout|C|Curveball|47|0|1|2|12|77
+Alex Reyes|R|Matt Szczur|R|Groundout|B|Two-Seam Fastball|48|0|2|2|12|99
+Alex Reyes|R|Matt Szczur|R|Groundout|B|Two-Seam Fastball|49|1|2|2|12|99
+Alex Reyes|R|Matt Szczur|R|Groundout|X|Two-Seam Fastball|50|2|2|2|2|97
+Alex Reyes|R|Jake Marisnick|R|Strikeout|S|Curveball|0|0|0|0|14|75
+Alex Reyes|R|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|96
+Alex Reyes|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|3|96
+Alex Reyes|R|Jake Marisnick|R|Strikeout|S|Changeup|3|1|2|0|9|86
+Alex Reyes|R|George Springer|R|Walk|B|Four-Seam Fastball|4|0|0|1|12|96
+Alex Reyes|R|George Springer|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|97
+Alex Reyes|R|George Springer|R|Walk|B|Two-Seam Fastball|6|2|0|1|14|97
+Alex Reyes|R|George Springer|R|Walk|B|Two-Seam Fastball|7|3|0|1|12|95
+Alex Reyes|R|Alex Bregman|R|Strikeout|S|Two-Seam Fastball|8|0|0|1|5|95
+Alex Reyes|R|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|9|0|1|1|12|96
+Alex Reyes|R|Alex Bregman|R|Strikeout|F|Two-Seam Fastball|10|1|1|1|8|95
+Alex Reyes|R|Alex Bregman|R|Strikeout|C|Changeup|11|1|2|1|11|86
+Alex Reyes|R|Jose Altuve|R|Lineout|F|Four-Seam Fastball|12|0|0|2|2|97
+Alex Reyes|R|Jose Altuve|R|Lineout|F|Two-Seam Fastball|13|0|1|2|11|96
+Alex Reyes|R|Jose Altuve|R|Lineout|B|Two-Seam Fastball|14|0|2|2|11|98
+Alex Reyes|R|Jose Altuve|R|Lineout|X|Four-Seam Fastball|15|1|2|2|6|97
+Alex Reyes|R|Carlos Correa|R|Single|B|Curveball|16|0|0|0|11|74
+Alex Reyes|R|Carlos Correa|R|Single|C|Curveball|17|1|0|0|9|76
+Alex Reyes|R|Carlos Correa|R|Single|B|Changeup|18|1|1|0|11|87
+Alex Reyes|R|Carlos Correa|R|Single|F|Four-Seam Fastball|19|2|1|0|3|97
+Alex Reyes|R|Carlos Correa|R|Single|D|Four-Seam Fastball|20|2|2|0|12|98
+Alex Reyes|R|Marwin Gonzalez|L|Forceout|C|Four-Seam Fastball|21|0|0|0|12|95
+Alex Reyes|R|Marwin Gonzalez|L|Forceout|S|Two-Seam Fastball|22|0|1|0|11|95
+Alex Reyes|R|Marwin Gonzalez|L|Forceout|X|Changeup|23|0|2|0|11|86
+Alex Reyes|R|Evan Gattis|R|Strikeout|B|Four-Seam Fastball|24|0|0|1|12|97
+Alex Reyes|R|Evan Gattis|R|Strikeout|F|Two-Seam Fastball|25|1|0|1|5|94
+Alex Reyes|R|Evan Gattis|R|Strikeout|B|Curveball|26|1|1|1|12|76
+Alex Reyes|R|Evan Gattis|R|Strikeout|C|Changeup|27|2|1|1|7|86
+Alex Reyes|R|Evan Gattis|R|Strikeout|B|Curveball|28|2|2|1|12|76
+Alex Reyes|R|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|29|3|2|1|12|97
+Alex Reyes|R|Evan Gattis|R|Strikeout|C|Four-Seam Fastball|30|3|2|1|8|95
+Alex Reyes|R|AJ Reed|L|Strikeout|S|Four-Seam Fastball|31|0|0|2|6|96
+Alex Reyes|R|AJ Reed|L|Strikeout|B|Changeup|32|0|1|2|11|86
+Alex Reyes|R|AJ Reed|L|Strikeout|B|Changeup|33|1|1|2|14|87
+Alex Reyes|R|AJ Reed|L|Strikeout|C|Changeup|34|2|1|2|11|86
+Alex Reyes|R|AJ Reed|L|Strikeout|B|Four-Seam Fastball|35|2|2|2|12|97
+Alex Reyes|R|AJ Reed|L|Strikeout|S|Two-Seam Fastball|36|3|2|2|11|97
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|1|98
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|C|Two-Seam Fastball|1|0|1|0|6|100
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|F|Four-Seam Fastball|2|0|2|0|12|100
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|B|Four-Seam Fastball|3|0|2|0|11|100
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|F|Two-Seam Fastball|4|1|2|0|11|98
+Alex Reyes|R|Carlos Ruiz|R|Strikeout|S|Changeup|5|1|2|0|14|90
+Alex Reyes|R|Peter Bourjos|R|Lineout|B|Two-Seam Fastball|6|0|0|1|12|98
+Alex Reyes|R|Peter Bourjos|R|Lineout|B|Four-Seam Fastball|7|1|0|1|14|98
+Alex Reyes|R|Peter Bourjos|R|Lineout|X|Two-Seam Fastball|8|2|0|1|8|97
+Alex Reyes|R|Emmanuel Burriss|L|Single|B|Curveball|9|0|0|2|12|76
+Alex Reyes|R|Emmanuel Burriss|L|Single|D|Two-Seam Fastball|10|1|0|2|6|99
+Alex Reyes|R|Tyler Goeddel|R|Walk|B|Four-Seam Fastball|11|0|0|2|14|97
+Alex Reyes|R|Tyler Goeddel|R|Walk|F|Two-Seam Fastball|12|1|0|2|5|97
+Alex Reyes|R|Tyler Goeddel|R|Walk|B|Two-Seam Fastball|13|1|1|2|11|97
+Alex Reyes|R|Tyler Goeddel|R|Walk|S|Two-Seam Fastball|14|2|1|2|5|97
+Alex Reyes|R|Tyler Goeddel|R|Walk|B|Two-Seam Fastball|15|2|2|2|8|100
+Alex Reyes|R|Tyler Goeddel|R|Walk|B|Four-Seam Fastball|16|3|2|2|12|100
+Alex Reyes|R|Odubel Herrera|L|Groundout|F|Changeup|17|0|0|2|2|89
+Alex Reyes|R|Odubel Herrera|L|Groundout|F|Two-Seam Fastball|18|0|1|2|14|99
+Alex Reyes|R|Odubel Herrera|L|Groundout|F|Two-Seam Fastball|19|0|2|2|12|98
+Alex Reyes|R|Odubel Herrera|L|Groundout|F|Two-Seam Fastball|20|0|2|2|13|99
+Alex Reyes|R|Odubel Herrera|L|Groundout|X|Changeup|21|0|2|2|8|90
+Alex Reyes|R|Yoenis Cespedes|R|Single|D|Four-Seam Fastball|0|0|0|0|5|97
+Alex Reyes|R|Wilmer Flores|R|Strikeout|F|Two-Seam Fastball|1|0|0|0|6|97
+Alex Reyes|R|Wilmer Flores|R|Strikeout|B|Two-Seam Fastball|2|0|1|0|11|97
+Alex Reyes|R|Wilmer Flores|R|Strikeout|B|Changeup|3|1|1|0|11|88
+Alex Reyes|R|Wilmer Flores|R|Strikeout|S|Two-Seam Fastball|4|2|1|0|2|97
+Alex Reyes|R|Wilmer Flores|R|Strikeout|F|Two-Seam Fastball|5|2|2|0|2|98
+Alex Reyes|R|Wilmer Flores|R|Strikeout|B|Two-Seam Fastball|6|2|2|0|13|96
+Alex Reyes|R|Wilmer Flores|R|Strikeout|S|Two-Seam Fastball|7|3|2|0|11|97
+Alex Reyes|R|Jay Bruce|L|Forceout|S|Curveball|8|0|0|1|5|78
+Alex Reyes|R|Jay Bruce|L|Forceout|X|Changeup|9|0|1|1|11|87
+Alex Reyes|R|T.J. Rivera|R|Groundout|F|Two-Seam Fastball|10|0|0|2|11|96
+Alex Reyes|R|T.J. Rivera|R|Groundout|F|Two-Seam Fastball|11|0|1|2|11|96
+Alex Reyes|R|T.J. Rivera|R|Groundout|X|Two-Seam Fastball|12|0|2|2|11|98
+Alex Reyes|R|Justin Ruggiano|R|Strikeout|C|Curveball|13|0|0|0|7|76
+Alex Reyes|R|Justin Ruggiano|R|Strikeout|B|Curveball|14|0|1|0|14|80
+Alex Reyes|R|Justin Ruggiano|R|Strikeout|B|Curveball|15|1|1|0|11|78
+Alex Reyes|R|Justin Ruggiano|R|Strikeout|C|Two-Seam Fastball|16|2|1|0|8|97
+Alex Reyes|R|Justin Ruggiano|R|Strikeout|S|Two-Seam Fastball|17|2|2|0|6|99
+Alex Reyes|R|Travis d'Arnaud|R|Strikeout|C|Two-Seam Fastball|18|0|0|1|3|98
+Alex Reyes|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|19|0|1|1|3|97
+Alex Reyes|R|Travis d'Arnaud|R|Strikeout|B|Curveball|20|0|2|1|11|78
+Alex Reyes|R|Travis d'Arnaud|R|Strikeout|S|Changeup|21|1|2|1|13|89
+Alex Reyes|R|Kelly Johnson|L|Groundout|B|Two-Seam Fastball|22|0|0|2|14|95
+Alex Reyes|R|Kelly Johnson|L|Groundout|X|Two-Seam Fastball|23|1|0|2|4|96
+Alex Reyes|R|Jose Reyes|L|Strikeout|T|Two-Seam Fastball|24|0|0|0|4|96
+Alex Reyes|R|Jose Reyes|L|Strikeout|F|Two-Seam Fastball|25|0|1|0|13|96
+Alex Reyes|R|Jose Reyes|L|Strikeout|W|Changeup|26|0|2|0|13|90
+Alex Reyes|R|Asdrubal Cabrera|L|Double|C|Two-Seam Fastball|27|0|0|1|13|97
+Alex Reyes|R|Asdrubal Cabrera|L|Double|D|Two-Seam Fastball|28|0|1|1|5|97
+Alex Reyes|R|Yoenis Cespedes|R|Intent Walk|I|Intentional Ball|29|0|0|1|12|82
+Alex Reyes|R|Yoenis Cespedes|R|Intent Walk|I|Intentional Ball|30|0|1|1|12|84
+Alex Reyes|R|Yoenis Cespedes|R|Intent Walk|I|Intentional Ball|31|0|2|1|12|83
+Alex Reyes|R|Yoenis Cespedes|R|Intent Walk|I|Intentional Ball|32|0|2|1|12|85
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|96
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|97
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Four-Seam Fastball|2|2|0|0|12|96
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Two-Seam Fastball|3|3|0|0|12|95
+Alex Reyes|R|Marcus Semien|R|Flyout|C|Two-Seam Fastball|4|0|0|0|11|95
+Alex Reyes|R|Marcus Semien|R|Flyout|F|Two-Seam Fastball|5|0|1|0|2|96
+Alex Reyes|R|Marcus Semien|R|Flyout|B|Two-Seam Fastball|6|0|2|0|11|97
+Alex Reyes|R|Marcus Semien|R|Flyout|X|Two-Seam Fastball|7|1|2|0|3|97
+Alex Reyes|R|Yonder Alonso|L|Strikeout|F|Two-Seam Fastball|8|0|0|1|11|96
+Alex Reyes|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|9|0|1|1|11|97
+Alex Reyes|R|Yonder Alonso|L|Strikeout|S|Changeup|10|0|2|1|9|87
+Alex Reyes|R|Khris Davis|R|Pop Out|B|Four-Seam Fastball|11|0|0|2|14|96
+Alex Reyes|R|Khris Davis|R|Pop Out|B|Two-Seam Fastball|12|1|0|2|11|96
+Alex Reyes|R|Khris Davis|R|Pop Out|C|Four-Seam Fastball|13|2|0|2|12|97
+Alex Reyes|R|Khris Davis|R|Pop Out|S|Four-Seam Fastball|14|2|1|2|5|97
+Alex Reyes|R|Khris Davis|R|Pop Out|F|Changeup|15|2|2|2|13|88
+Alex Reyes|R|Khris Davis|R|Pop Out|X|Changeup|16|2|2|2|4|89
+Alex Reyes|R|Ryon Healy|R|Strikeout|B|Curveball|17|0|0|0|14|78
+Alex Reyes|R|Ryon Healy|R|Strikeout|C|Curveball|18|1|0|0|11|76
+Alex Reyes|R|Ryon Healy|R|Strikeout|C|Curveball|19|1|1|0|2|77
+Alex Reyes|R|Ryon Healy|R|Strikeout|S|Four-Seam Fastball|20|1|2|0|2|98
+Alex Reyes|R|Max Muncy|L|Flyout|B|Two-Seam Fastball|21|0|0|1|13|94
+Alex Reyes|R|Max Muncy|L|Flyout|X|Two-Seam Fastball|22|1|0|1|8|94
+Alex Reyes|R|Brett Eibner|R|Single|C|Two-Seam Fastball|23|0|0|2|8|98
+Alex Reyes|R|Brett Eibner|R|Single|B|Four-Seam Fastball|24|0|1|2|14|99
+Alex Reyes|R|Brett Eibner|R|Single|S|Changeup|25|1|1|2|14|90
+Alex Reyes|R|Brett Eibner|R|Single|F|Four-Seam Fastball|26|1|2|2|4|99
+Alex Reyes|R|Brett Eibner|R|Single|F|Four-Seam Fastball|27|1|2|2|5|99
+Alex Reyes|R|Brett Eibner|R|Single|D|Two-Seam Fastball|28|1|2|2|4|97
+Alex Reyes|R|Bruce Maxwell|L|Walk|B|Curveball|29|0|0|2|12|77
+Alex Reyes|R|Bruce Maxwell|L|Walk|B|Changeup|30|1|0|2|12|86
+Alex Reyes|R|Bruce Maxwell|L|Walk|*B|Changeup|31|2|0|2|13|88
+Alex Reyes|R|Bruce Maxwell|L|Walk|B|Two-Seam Fastball|32|3|0|2|14|96
+Alex Reyes|R|Zach Neal|R|Groundout|C|Two-Seam Fastball|33|0|0|2|3|96
+Alex Reyes|R|Zach Neal|R|Groundout|C|Two-Seam Fastball|34|0|1|2|9|96
+Alex Reyes|R|Zach Neal|R|Groundout|B|Two-Seam Fastball|35|0|2|2|12|98
+Alex Reyes|R|Zach Neal|R|Groundout|X|Two-Seam Fastball|36|1|2|2|11|97
+Alex Reyes|R|Jake Smolinski|R|Walk|C|Curveball|37|0|0|0|5|76
+Alex Reyes|R|Jake Smolinski|R|Walk|C|Curveball|38|0|1|0|14|77
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Four-Seam Fastball|39|0|2|0|12|99
+Alex Reyes|R|Jake Smolinski|R|Walk|F|Two-Seam Fastball|40|1|2|0|12|97
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Changeup|41|1|2|0|11|89
+Alex Reyes|R|Jake Smolinski|R|Walk|F|Changeup|42|2|2|0|5|89
+Alex Reyes|R|Jake Smolinski|R|Walk|F|Four-Seam Fastball|43|2|2|0|5|99
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Curveball|44|2|2|0|12|79
+Alex Reyes|R|Jake Smolinski|R|Walk|B|Two-Seam Fastball|45|3|2|0|14|98
+Alex Reyes|R|Marcus Semien|R|Flyout|B|Two-Seam Fastball|46|0|0|0|11|96
+Alex Reyes|R|Marcus Semien|R|Flyout|B|Changeup|47|1|0|0|11|86
+Alex Reyes|R|Marcus Semien|R|Flyout|B|Two-Seam Fastball|48|2|0|0|12|96
+Alex Reyes|R|Marcus Semien|R|Flyout|C|Two-Seam Fastball|49|3|0|0|1|96
+Alex Reyes|R|Marcus Semien|R|Flyout|X|Two-Seam Fastball|50|3|1|0|12|96
+Alex Reyes|R|Yonder Alonso|L|Flyout|X|Two-Seam Fastball|51|0|0|1|2|96
+Alex Reyes|R|Khris Davis|R|Flyout|F|Four-Seam Fastball|52|0|0|2|6|96
+Alex Reyes|R|Khris Davis|R|Flyout|B|Curveball|53|0|1|2|14|78
+Alex Reyes|R|Khris Davis|R|Flyout|F|Curveball|54|1|1|2|5|77
+Alex Reyes|R|Khris Davis|R|Flyout|B|Four-Seam Fastball|55|1|2|2|12|99
+Alex Reyes|R|Khris Davis|R|Flyout|B|Changeup|56|2|2|2|12|89
+Alex Reyes|R|Khris Davis|R|Flyout|X|Curveball|57|3|2|2|14|79
+Alex Reyes|R|Ryon Healy|R|Groundout|B|Four-Seam Fastball|58|0|0|0|14|96
+Alex Reyes|R|Ryon Healy|R|Groundout|B|Four-Seam Fastball|59|1|0|0|12|96
+Alex Reyes|R|Ryon Healy|R|Groundout|B|Changeup|60|2|0|0|11|86
+Alex Reyes|R|Ryon Healy|R|Groundout|C|Four-Seam Fastball|61|3|0|0|7|95
+Alex Reyes|R|Ryon Healy|R|Groundout|F|Four-Seam Fastball|62|3|1|0|5|96
+Alex Reyes|R|Ryon Healy|R|Groundout|X|Changeup|63|3|2|0|12|87
+Alex Reyes|R|Max Muncy|L|Strikeout|C|Two-Seam Fastball|64|0|0|1|11|94
+Alex Reyes|R|Max Muncy|L|Strikeout|S|Changeup|65|0|1|1|4|88
+Alex Reyes|R|Max Muncy|L|Strikeout|S|Changeup|66|0|2|1|5|90
+Alex Reyes|R|Brett Eibner|R|Strikeout|B|Four-Seam Fastball|67|0|0|2|11|96
+Alex Reyes|R|Brett Eibner|R|Strikeout|B|Curveball|68|1|0|2|14|77
+Alex Reyes|R|Brett Eibner|R|Strikeout|S|Changeup|69|2|0|2|12|88
+Alex Reyes|R|Brett Eibner|R|Strikeout|C|Four-Seam Fastball|70|2|1|2|13|96
+Alex Reyes|R|Brett Eibner|R|Strikeout|B|Curveball|71|2|2|2|14|80
+Alex Reyes|R|Brett Eibner|R|Strikeout|S|Changeup|72|3|2|2|6|88
+Alex Reyes|R|Bruce Maxwell|L|Single|B|Two-Seam Fastball|73|0|0|0|11|93
+Alex Reyes|R|Bruce Maxwell|L|Single|B|Changeup|74|1|0|0|14|86
+Alex Reyes|R|Bruce Maxwell|L|Single|T|Changeup|75|2|0|0|9|86
+Alex Reyes|R|Bruce Maxwell|L|Single|C|Two-Seam Fastball|76|2|1|0|9|93
+Alex Reyes|R|Bruce Maxwell|L|Single|F|Two-Seam Fastball|77|2|2|0|6|97
+Alex Reyes|R|Bruce Maxwell|L|Single|D|Curveball|78|2|2|0|2|77
+Alex Reyes|R|Zach Neal|R|Bunt Pop Out|B|Two-Seam Fastball|79|0|0|0|12|94
+Alex Reyes|R|Zach Neal|R|Bunt Pop Out|L|Two-Seam Fastball|80|1|0|0|3|93
+Alex Reyes|R|Zach Neal|R|Bunt Pop Out|X|Changeup|81|1|1|0|12|92
+Alex Reyes|R|Jake Smolinski|R|Flyout|X|Two-Seam Fastball|82|0|0|1|12|97
+Alex Reyes|R|Marcus Semien|R|Walk|B|Two-Seam Fastball|83|0|0|2|12|98
+Alex Reyes|R|Marcus Semien|R|Walk|B|Two-Seam Fastball|84|1|0|2|12|95
+Alex Reyes|R|Marcus Semien|R|Walk|F|Two-Seam Fastball|85|2|0|2|2|95
+Alex Reyes|R|Marcus Semien|R|Walk|C|Changeup|86|2|1|2|14|88
+Alex Reyes|R|Marcus Semien|R|Walk|B|Changeup|87|2|2|2|12|89
+Alex Reyes|R|Marcus Semien|R|Walk|B|Changeup|88|3|2|2|11|88
+Alex Reyes|R|Billy Hamilton|L|Single|D|Changeup|0|0|0|0|5|92
+Alex Reyes|R|Zack Cozart|R|Strikeout|F|Four-Seam Fastball|1|0|0|0|8|96
+Alex Reyes|R|Zack Cozart|R|Strikeout|B|Changeup|2|0|1|0|14|87
+Alex Reyes|R|Zack Cozart|R|Strikeout|S|Changeup|3|1|1|0|9|86
+Alex Reyes|R|Zack Cozart|R|Strikeout|S|Two-Seam Fastball|4|1|2|0|12|98
+Alex Reyes|R|Brandon Phillips|R|Fielders Choice Out|B|Four-Seam Fastball|5|0|0|1|12|97
+Alex Reyes|R|Brandon Phillips|R|Fielders Choice Out|S|Changeup|6|1|0|1|13|86
+Alex Reyes|R|Brandon Phillips|R|Fielders Choice Out|F|Four-Seam Fastball|7|1|1|1|4|97
+Alex Reyes|R|Brandon Phillips|R|Fielders Choice Out|X|Changeup|8|1|2|1|1|86
+Alex Reyes|R|Adam Duvall|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|11|96
+Alex Reyes|R|Adam Duvall|R|Strikeout|C|Four-Seam Fastball|10|0|1|2|9|97
+Alex Reyes|R|Adam Duvall|R|Strikeout|T|Four-Seam Fastball|11|0|2|2|6|99
+Alex Reyes|R|Scott Schebler|L|Pop Out|B|N/A|12|0|0|0|0|0
+Alex Reyes|R|Scott Schebler|L|Pop Out|F|N/A|13|1|0|0|0|0
+Alex Reyes|R|Scott Schebler|L|Pop Out|X|N/A|14|1|1|0|0|0
+Alex Reyes|R|Eugenio Suarez|R|Pop Out|B|Four-Seam Fastball|15|0|0|1|14|97
+Alex Reyes|R|Eugenio Suarez|R|Pop Out|S|N/A|16|1|0|1|0|0
+Alex Reyes|R|Eugenio Suarez|R|Pop Out|C|Four-Seam Fastball|17|1|1|1|9|97
+Alex Reyes|R|Eugenio Suarez|R|Pop Out|X|Four-Seam Fastball|18|1|2|1|2|99
+Alex Reyes|R|Tucker Barnhart|L|Groundout|X|Changeup|19|0|0|2|7|94
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|C|Four-Seam Fastball|20|0|0|0|9|95
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|B|Four-Seam Fastball|21|0|1|0|12|97
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|S|Four-Seam Fastball|22|1|1|0|2|96
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|B|Four-Seam Fastball|23|1|2|0|14|98
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|B|Four-Seam Fastball|24|2|2|0|14|99
+Alex Reyes|R|Ivan De Jesus Jr.|R|Lineout|X|Four-Seam Fastball|25|3|2|0|13|97
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|B|Curveball|26|0|0|1|14|76
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|C|Four-Seam Fastball|27|1|0|1|8|96
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|B|Curveball|28|1|1|1|14|78
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|S|Four-Seam Fastball|29|2|1|1|5|96
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|S|Four-Seam Fastball|30|2|2|1|2|97
+Alex Reyes|R|Billy Hamilton|L|Walk|B|Changeup|31|0|0|2|14|95
+Alex Reyes|R|Billy Hamilton|L|Walk|C|Two-Seam Fastball|32|1|0|2|1|95
+Alex Reyes|R|Billy Hamilton|L|Walk|C|Two-Seam Fastball|33|1|1|2|8|96
+Alex Reyes|R|Billy Hamilton|L|Walk|B|Changeup|34|1|2|2|14|90
+Alex Reyes|R|Billy Hamilton|L|Walk|F|Two-Seam Fastball|35|2|2|2|1|98
+Alex Reyes|R|Billy Hamilton|L|Walk|F|Changeup|36|2|2|2|8|89
+Alex Reyes|R|Billy Hamilton|L|Walk|B|Two-Seam Fastball|37|2|2|2|11|99
+Alex Reyes|R|Billy Hamilton|L|Walk|B|Two-Seam Fastball|38|3|2|2|11|97
+Alex Reyes|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|39|0|0|2|12|96
+Alex Reyes|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|40|1|0|2|12|95
+Alex Reyes|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|41|2|0|2|12|96
+Alex Reyes|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|42|3|0|2|13|95
+Alex Reyes|R|Brandon Phillips|R|Strikeout|C|Four-Seam Fastball|43|0|0|2|2|96
+Alex Reyes|R|Brandon Phillips|R|Strikeout|B|Four-Seam Fastball|44|0|1|2|14|96
+Alex Reyes|R|Brandon Phillips|R|Strikeout|F|Four-Seam Fastball|45|1|1|2|1|96
+Alex Reyes|R|Brandon Phillips|R|Strikeout|S|Changeup|46|1|2|2|14|88
+Alex Reyes|R|Adam Duvall|R|Groundout|C|Curveball|47|0|0|0|5|78
+Alex Reyes|R|Adam Duvall|R|Groundout|S|Changeup|48|0|1|0|1|88
+Alex Reyes|R|Adam Duvall|R|Groundout|B|Changeup|49|0|2|0|14|89
+Alex Reyes|R|Adam Duvall|R|Groundout|X|Changeup|50|1|2|0|2|88
+Alex Reyes|R|Scott Schebler|L|Single|B|Curveball|51|0|0|1|12|76
+Alex Reyes|R|Scott Schebler|L|Single|D|Changeup|52|1|0|1|11|87
+Alex Reyes|R|Eugenio Suarez|R|Double|B|Curveball|53|0|0|1|11|74
+Alex Reyes|R|Eugenio Suarez|R|Double|S|Four-Seam Fastball|54|1|0|1|14|97
+Alex Reyes|R|Eugenio Suarez|R|Double|F|Two-Seam Fastball|55|1|1|1|1|97
+Alex Reyes|R|Eugenio Suarez|R|Double|D|Changeup|56|1|2|1|9|89
+Alex Reyes|R|Tucker Barnhart|L|Flyout|C|Two-Seam Fastball|57|0|0|2|6|97
+Alex Reyes|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|58|0|1|2|12|97
+Alex Reyes|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|59|1|1|2|14|97
+Alex Reyes|R|Tucker Barnhart|L|Flyout|*B|Changeup|60|2|1|2|14|88
+Alex Reyes|R|Tucker Barnhart|L|Flyout|X|Changeup|61|3|1|2|1|86
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|C|Four-Seam Fastball|62|0|0|0|6|94
+Alex Reyes|R|Ivan De Jesus Jr.|R|Groundout|X|Curveball|63|0|1|0|14|76
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|B|Four-Seam Fastball|64|0|0|1|12|95
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|S|Changeup|65|1|0|1|6|94
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|C|Two-Seam Fastball|66|1|1|1|9|95
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|F|Changeup|67|1|2|1|6|86
+Alex Reyes|R|Anthony DeSclafani|R|Strikeout|S|Four-Seam Fastball|68|1|2|1|11|96
+Alex Reyes|R|Billy Hamilton|L|Strikeout|C|Two-Seam Fastball|69|0|0|2|2|93
+Alex Reyes|R|Billy Hamilton|L|Strikeout|C|Changeup|70|0|1|2|5|87
+Alex Reyes|R|Billy Hamilton|L|Strikeout|B|Curveball|71|0|2|2|14|80
+Alex Reyes|R|Billy Hamilton|L|Strikeout|C|Curveball|72|1|2|2|1|76
+Alex Reyes|R|Zack Cozart|R|Single|C|Curveball|73|0|0|0|5|76
+Alex Reyes|R|Zack Cozart|R|Single|B|Changeup|74|0|1|0|14|87
+Alex Reyes|R|Zack Cozart|R|Single|D|Changeup|75|1|1|0|6|86
+Alex Reyes|R|Brandon Phillips|R|Double|B|Four-Seam Fastball|76|0|0|0|12|97
+Alex Reyes|R|Brandon Phillips|R|Double|B|Four-Seam Fastball|77|1|0|0|12|95
+Alex Reyes|R|Brandon Phillips|R|Double|C|Two-Seam Fastball|78|2|0|0|2|95
+Alex Reyes|R|Brandon Phillips|R|Double|F|Two-Seam Fastball|79|2|1|0|2|95
+Alex Reyes|R|Brandon Phillips|R|Double|B|Two-Seam Fastball|80|2|2|0|12|97
+Alex Reyes|R|Brandon Phillips|R|Double|F|Two-Seam Fastball|81|3|2|0|13|94
+Alex Reyes|R|Brandon Phillips|R|Double|F|Changeup|82|3|2|0|8|87
+Alex Reyes|R|Brandon Phillips|R|Double|D|Changeup|83|3|2|0|1|86
+Alex Reyes|R|Adam Duvall|R|Sac Fly|S|Two-Seam Fastball|84|0|0|0|4|95
+Alex Reyes|R|Adam Duvall|R|Sac Fly|B|Four-Seam Fastball|85|0|1|0|14|97
+Alex Reyes|R|Adam Duvall|R|Sac Fly|S|Four-Seam Fastball|86|1|1|0|4|97
+Alex Reyes|R|Adam Duvall|R|Sac Fly|B|Changeup|87|1|2|0|14|88
+Alex Reyes|R|Adam Duvall|R|Sac Fly|B|Changeup|88|2|2|0|14|87
+Alex Reyes|R|Adam Duvall|R|Sac Fly|E|Changeup|89|3|2|0|2|87
+Alex Reyes|R|Scott Schebler|L|Single|C|Four-Seam Fastball|90|0|0|1|8|96
+Alex Reyes|R|Scott Schebler|L|Single|W|Changeup|91|0|1|1|13|89
+Alex Reyes|R|Scott Schebler|L|Single|E|Changeup|92|0|2|1|13|87
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|*B|Four-Seam Fastball|93|0|0|1|14|96
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|94|1|0|1|12|96
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|F|Changeup|95|2|0|1|2|95
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|96|2|1|1|1|93
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|C|Changeup|97|2|2|1|9|86
+Alex Reyes|R|Tucker Barnhart|L|Flyout|B|Curveball|98|0|0|2|14|77
+Alex Reyes|R|Tucker Barnhart|L|Flyout|S|Changeup|99|1|0|2|6|85
+Alex Reyes|R|Tucker Barnhart|L|Flyout|S|Two-Seam Fastball|100|1|1|2|8|96
+Alex Reyes|R|Tucker Barnhart|L|Flyout|F|Four-Seam Fastball|101|1|2|2|4|98
+Alex Reyes|R|Tucker Barnhart|L|Flyout|X|Two-Seam Fastball|102|1|2|2|11|97
+Alex Reyes|R|Jung Ho Kang|R|Groundout|B|Changeup|0|0|0|1|13|88
+Alex Reyes|R|Jung Ho Kang|R|Groundout|*B|Changeup|1|1|0|1|14|90
+Alex Reyes|R|Jung Ho Kang|R|Groundout|C|Changeup|2|2|0|1|8|88
+Alex Reyes|R|Jung Ho Kang|R|Groundout|F|Four-Seam Fastball|3|2|1|1|11|97
+Alex Reyes|R|Jung Ho Kang|R|Groundout|X|Two-Seam Fastball|4|2|2|1|2|97
+Alex Reyes|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|5|0|0|2|12|98
+Alex Reyes|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|6|1|0|2|2|97
+Alex Reyes|R|Francisco Cervelli|R|Flyout|X|Four-Seam Fastball|7|0|0|0|11|97
+Alex Reyes|R|Jordy Mercer|R|Strikeout|B|Four-Seam Fastball|8|0|0|1|14|98
+Alex Reyes|R|Jordy Mercer|R|Strikeout|C|Two-Seam Fastball|9|1|0|1|13|96
+Alex Reyes|R|Jordy Mercer|R|Strikeout|C|Curveball|10|1|1|1|5|80
+Alex Reyes|R|Jordy Mercer|R|Strikeout|B|Changeup|11|1|2|1|14|91
+Alex Reyes|R|Jordy Mercer|R|Strikeout|S|Four-Seam Fastball|12|2|2|1|12|100
+Alex Reyes|R|Adam Frazier|L|Double|B|Curveball|13|0|0|2|11|77
+Alex Reyes|R|Adam Frazier|L|Double|C|Changeup|14|1|0|2|2|88
+Alex Reyes|R|Adam Frazier|L|Double|B|Curveball|15|1|1|2|11|79
+Alex Reyes|R|Adam Frazier|L|Double|S|Changeup|16|2|1|2|13|89
+Alex Reyes|R|Adam Frazier|L|Double|B|Two-Seam Fastball|17|2|2|2|9|100
+Alex Reyes|R|Adam Frazier|L|Double|F|Two-Seam Fastball|18|3|2|2|4|98
+Alex Reyes|R|Adam Frazier|L|Double|D|Two-Seam Fastball|19|3|2|2|8|98
+Alex Reyes|R|Josh Harrison|R|Strikeout|B|Two-Seam Fastball|20|0|0|2|11|98
+Alex Reyes|R|Josh Harrison|R|Strikeout|F|Four-Seam Fastball|21|1|0|2|8|98
+Alex Reyes|R|Josh Harrison|R|Strikeout|F|Changeup|22|1|1|2|7|89
+Alex Reyes|R|Josh Harrison|R|Strikeout|B|Changeup|23|1|2|2|12|90
+Alex Reyes|R|Josh Harrison|R|Strikeout|T|Four-Seam Fastball|24|2|2|2|6|99
+Alex Reyes|R|David Freese|R|Groundout|C|Two-Seam Fastball|25|0|0|0|7|96
+Alex Reyes|R|David Freese|R|Groundout|X|Two-Seam Fastball|26|0|1|0|6|96
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|C|Curveball|27|0|0|1|9|78
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|B|Changeup|28|0|1|1|14|90
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|F|Four-Seam Fastball|29|1|1|1|5|99
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|B|Four-Seam Fastball|30|1|2|1|12|100
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|F|Changeup|31|2|2|1|13|90
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|F|Four-Seam Fastball|32|2|2|1|12|99
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|F|Four-Seam Fastball|33|2|2|1|4|97
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|B|Four-Seam Fastball|34|2|2|1|14|99
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|F|Changeup|35|3|2|1|11|90
+Alex Reyes|R|Andrew McCutchen|R|Strikeout|S|Four-Seam Fastball|36|3|2|1|9|98
+Alex Reyes|R|Gregory Polanco|L|Strikeout|C|Curveball|37|0|0|2|9|79
+Alex Reyes|R|Gregory Polanco|L|Strikeout|B|Changeup|38|0|1|2|14|90
+Alex Reyes|R|Gregory Polanco|L|Strikeout|F|Changeup|39|1|1|2|14|89
+Alex Reyes|R|Gregory Polanco|L|Strikeout|B|Changeup|40|1|2|2|14|90
+Alex Reyes|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|41|2|2|2|14|99
+Alex Reyes|R|Gregory Polanco|L|Strikeout|S|Changeup|42|2|2|2|7|90
+Alex Reyes|R|Jung Ho Kang|R|Home Run|B|Curveball|43|0|0|0|13|76
+Alex Reyes|R|Jung Ho Kang|R|Home Run|S|Changeup|44|1|0|0|14|88
+Alex Reyes|R|Jung Ho Kang|R|Home Run|C|Two-Seam Fastball|45|1|1|0|9|97
+Alex Reyes|R|Jung Ho Kang|R|Home Run|F|Changeup|46|1|2|0|8|89
+Alex Reyes|R|Jung Ho Kang|R|Home Run|E|Four-Seam Fastball|47|1|2|0|2|98
+Alex Reyes|R|John Jaso|L|Groundout|F|Four-Seam Fastball|48|0|0|0|2|98
+Alex Reyes|R|John Jaso|L|Groundout|B|Four-Seam Fastball|49|0|1|0|14|99
+Alex Reyes|R|John Jaso|L|Groundout|B|Changeup|50|1|1|0|14|90
+Alex Reyes|R|John Jaso|L|Groundout|X|Changeup|51|2|1|0|14|89
+Alex Reyes|R|Francisco Cervelli|R|Strikeout|B|Four-Seam Fastball|52|0|0|1|12|98
+Alex Reyes|R|Francisco Cervelli|R|Strikeout|C|Four-Seam Fastball|53|1|0|1|12|97
+Alex Reyes|R|Francisco Cervelli|R|Strikeout|S|Changeup|54|1|1|1|4|89
+Alex Reyes|R|Francisco Cervelli|R|Strikeout|C|Changeup|55|1|2|1|14|89
+Alex Reyes|R|Jordy Mercer|R|Strikeout|S|Four-Seam Fastball|56|0|0|2|2|97
+Alex Reyes|R|Jordy Mercer|R|Strikeout|B|Changeup|57|0|1|2|14|89
+Alex Reyes|R|Jordy Mercer|R|Strikeout|F|Changeup|58|1|1|2|9|89
+Alex Reyes|R|Jordy Mercer|R|Strikeout|B|Four-Seam Fastball|59|1|2|2|12|99
+Alex Reyes|R|Jordy Mercer|R|Strikeout|B|Four-Seam Fastball|60|2|2|2|14|99
+Alex Reyes|R|Jordy Mercer|R|Strikeout|F|Changeup|61|3|2|2|14|90
+Alex Reyes|R|Jordy Mercer|R|Strikeout|F|Four-Seam Fastball|62|3|2|2|4|99
+Alex Reyes|R|Jordy Mercer|R|Strikeout|C|Changeup|63|3|2|2|2|89
+Alex Reyes|R|Kris Bryant|R|Strikeout|S|Two-Seam Fastball|0|0|0|2|4|96
+Alex Reyes|R|Kris Bryant|R|Strikeout|F|Changeup|1|0|1|2|8|87
+Alex Reyes|R|Kris Bryant|R|Strikeout|B|Two-Seam Fastball|2|0|2|2|14|97
+Alex Reyes|R|Kris Bryant|R|Strikeout|S|Two-Seam Fastball|3|1|2|2|11|97
+Alex Reyes|R|Anthony Rizzo|L|Pop Out|B|Curveball|4|0|0|0|13|77
+Alex Reyes|R|Anthony Rizzo|L|Pop Out|B|Two-Seam Fastball|5|1|0|0|12|96
+Alex Reyes|R|Anthony Rizzo|L|Pop Out|F|Changeup|6|2|0|0|5|86
+Alex Reyes|R|Anthony Rizzo|L|Pop Out|X|Two-Seam Fastball|7|2|1|0|5|97
+Alex Reyes|R|Jorge Soler|R|Walk|B|Curveball|8|0|0|1|12|78
+Alex Reyes|R|Jorge Soler|R|Walk|C|Curveball|9|1|0|1|7|78
+Alex Reyes|R|Jorge Soler|R|Walk|B|Changeup|10|1|1|1|11|88
+Alex Reyes|R|Jorge Soler|R|Walk|B|Two-Seam Fastball|11|2|1|1|12|97
+Alex Reyes|R|Jorge Soler|R|Walk|B|Two-Seam Fastball|12|3|1|1|12|97
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Two-Seam Fastball|13|0|0|1|14|95
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Changeup|14|1|0|1|12|86
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Two-Seam Fastball|15|2|0|1|11|95
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Two-Seam Fastball|16|3|0|1|12|95
+Alex Reyes|R|Addison Russell|R|Flyout|C|Four-Seam Fastball|17|0|0|1|14|96
+Alex Reyes|R|Addison Russell|R|Flyout|B|Four-Seam Fastball|18|0|1|1|12|97
+Alex Reyes|R|Addison Russell|R|Flyout|S|Changeup|19|1|1|1|9|87
+Alex Reyes|R|Addison Russell|R|Flyout|B|Two-Seam Fastball|20|1|2|1|14|96
+Alex Reyes|R|Addison Russell|R|Flyout|F|Two-Seam Fastball|21|2|2|1|2|96
+Alex Reyes|R|Addison Russell|R|Flyout|X|Two-Seam Fastball|22|2|2|1|12|97
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Two-Seam Fastball|23|0|0|2|12|96
+Alex Reyes|R|Jason Heyward|L|Pop Out|C|Two-Seam Fastball|24|1|0|2|2|97
+Alex Reyes|R|Jason Heyward|L|Pop Out|X|Two-Seam Fastball|25|1|1|2|5|97
+Alex Reyes|R|Willson Contreras|R|Walk|B|Two-Seam Fastball|26|0|0|0|12|95
+Alex Reyes|R|Willson Contreras|R|Walk|B|Changeup|27|1|0|0|12|87
+Alex Reyes|R|Willson Contreras|R|Walk|B|Four-Seam Fastball|28|2|0|0|14|95
+Alex Reyes|R|Willson Contreras|R|Walk|C|Two-Seam Fastball|29|3|0|0|5|95
+Alex Reyes|R|Willson Contreras|R|Walk|T|Two-Seam Fastball|30|3|1|0|9|96
+Alex Reyes|R|Willson Contreras|R|Walk|B|Two-Seam Fastball|31|3|2|0|12|96
+Alex Reyes|R|Jason Hammel|R|Sac Bunt|X|Two-Seam Fastball|32|0|0|0|13|93
+Alex Reyes|R|Dexter Fowler|L|Walk|B|Curveball|33|0|0|1|14|77
+Alex Reyes|R|Dexter Fowler|L|Walk|B|Changeup|34|1|0|1|11|86
+Alex Reyes|R|Dexter Fowler|L|Walk|B|Changeup|35|2|0|1|13|87
+Alex Reyes|R|Dexter Fowler|L|Walk|B|Two-Seam Fastball|36|3|0|1|12|97
+Alex Reyes|R|Kris Bryant|R|Flyout|C|Changeup|37|0|0|1|1|87
+Alex Reyes|R|Kris Bryant|R|Flyout|B|Two-Seam Fastball|38|0|1|1|14|97
+Alex Reyes|R|Kris Bryant|R|Flyout|F|Two-Seam Fastball|39|1|1|1|2|97
+Alex Reyes|R|Kris Bryant|R|Flyout|X|Changeup|40|1|2|1|9|88
+Alex Reyes|R|Anthony Rizzo|L|Walk|B|Changeup|41|0|0|2|11|86
+Alex Reyes|R|Anthony Rizzo|L|Walk|B|Changeup|42|1|0|2|11|86
+Alex Reyes|R|Anthony Rizzo|L|Walk|C|Changeup|43|2|0|2|11|87
+Alex Reyes|R|Anthony Rizzo|L|Walk|B|Two-Seam Fastball|44|2|1|2|12|97
+Alex Reyes|R|Anthony Rizzo|L|Walk|B|Two-Seam Fastball|45|3|1|2|12|96
+Alex Reyes|R|Jorge Soler|R|Flyout|X|Two-Seam Fastball|46|0|0|2|2|96
+Alex Reyes|R|Ben Zobrist|L|Groundout|F|Two-Seam Fastball|47|0|0|0|11|94
+Alex Reyes|R|Ben Zobrist|L|Groundout|S|Changeup|48|0|1|0|14|85
+Alex Reyes|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|49|0|2|0|11|96
+Alex Reyes|R|Ben Zobrist|L|Groundout|X|Changeup|50|1|2|0|11|87
+Alex Reyes|R|Addison Russell|R|Strikeout|C|Curveball|51|0|0|1|1|78
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Curveball|52|0|1|1|14|85
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Curveball|53|1|1|1|9|84
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Two-Seam Fastball|54|1|2|1|12|97
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Four-Seam Fastball|55|2|2|1|4|98
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Curveball|56|2|2|1|7|84
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Changeup|57|2|2|1|11|89
+Alex Reyes|R|Addison Russell|R|Strikeout|S|Changeup|58|3|2|1|13|88
+Alex Reyes|R|Jason Heyward|L|Walk|B|Curveball|59|0|0|2|14|77
+Alex Reyes|R|Jason Heyward|L|Walk|B|Changeup|60|1|0|2|13|88
+Alex Reyes|R|Jason Heyward|L|Walk|B|Four-Seam Fastball|61|2|0|2|12|95
+Alex Reyes|R|Jason Heyward|L|Walk|B|Two-Seam Fastball|62|3|0|2|12|95
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Two-Seam Fastball|63|0|0|2|12|97
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Changeup|64|1|0|2|12|86
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Changeup|65|2|0|2|13|87
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Two-Seam Fastball|66|2|1|2|14|94
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Two-Seam Fastball|67|3|1|2|11|96
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Changeup|68|3|2|2|6|87
+Alex Reyes|R|Jason Hammel|R|Flyout|B|Four-Seam Fastball|69|0|0|0|13|94
+Alex Reyes|R|Jason Hammel|R|Flyout|C|Four-Seam Fastball|70|1|0|0|1|95
+Alex Reyes|R|Jason Hammel|R|Flyout|B|Four-Seam Fastball|71|1|1|0|2|95
+Alex Reyes|R|Jason Hammel|R|Flyout|C|Two-Seam Fastball|72|2|1|0|13|94
+Alex Reyes|R|Jason Hammel|R|Flyout|F|Four-Seam Fastball|73|2|2|0|1|95
+Alex Reyes|R|Jason Hammel|R|Flyout|F|Two-Seam Fastball|74|2|2|0|6|95
+Alex Reyes|R|Jason Hammel|R|Flyout|X|Two-Seam Fastball|75|2|2|0|7|97
+Alex Reyes|R|Dexter Fowler|L|Strikeout|S|Two-Seam Fastball|76|0|0|1|2|95
+Alex Reyes|R|Dexter Fowler|L|Strikeout|F|Two-Seam Fastball|77|0|1|1|1|96
+Alex Reyes|R|Dexter Fowler|L|Strikeout|C|Changeup|78|0|2|1|13|88
+Alex Reyes|R|Kris Bryant|R|Single|F|Four-Seam Fastball|79|0|0|2|1|96
+Alex Reyes|R|Kris Bryant|R|Single|D|Two-Seam Fastball|80|0|1|2|1|97
+Alex Reyes|R|Anthony Rizzo|L|Flyout|F|Two-Seam Fastball|81|0|0|2|6|97
+Alex Reyes|R|Anthony Rizzo|L|Flyout|B|Changeup|82|0|1|2|11|87
+Alex Reyes|R|Anthony Rizzo|L|Flyout|B|Changeup|83|1|1|2|11|87
+Alex Reyes|R|Anthony Rizzo|L|Flyout|X|Changeup|84|2|1|2|11|87
+Alex Reyes|R|Denard Span|L|Flyout|B|Two-Seam Fastball|0|0|0|0|11|93
+Alex Reyes|R|Denard Span|L|Flyout|C|Two-Seam Fastball|1|1|0|0|12|93
+Alex Reyes|R|Denard Span|L|Flyout|X|Two-Seam Fastball|2|1|1|0|5|95
+Alex Reyes|R|Angel Pagan|L|Groundout|C|Two-Seam Fastball|3|0|0|1|2|95
+Alex Reyes|R|Angel Pagan|L|Groundout|X|Changeup|4|0|1|1|11|88
+Alex Reyes|R|Brandon Crawford|L|Flyout|X|Two-Seam Fastball|5|0|0|2|3|95
+Alex Reyes|R|Hunter Pence|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|11|95
+Alex Reyes|R|Hunter Pence|R|Strikeout|B|Curveball|7|0|1|2|14|82
+Alex Reyes|R|Hunter Pence|R|Strikeout|F|Changeup|8|1|1|2|13|87
+Alex Reyes|R|Hunter Pence|R|Strikeout|B|Four-Seam Fastball|9|1|2|2|12|97
+Alex Reyes|R|Hunter Pence|R|Strikeout|S|Curveball|10|2|2|2|12|83
+Alex Reyes|R|Brandon Belt|L|Groundout|C|Two-Seam Fastball|11|0|0|0|11|95
+Alex Reyes|R|Brandon Belt|L|Groundout|B|Curveball|12|0|1|0|14|84
+Alex Reyes|R|Brandon Belt|L|Groundout|X|Changeup|13|1|1|0|13|89
+Alex Reyes|R|Eduardo Nunez|R|Single|D|Four-Seam Fastball|14|0|0|1|14|96
+Alex Reyes|R|Joe Panik|L|Walk|B|Two-Seam Fastball|15|0|0|1|11|93
+Alex Reyes|R|Joe Panik|L|Walk|B|Changeup|16|1|0|1|11|92
+Alex Reyes|R|Joe Panik|L|Walk|B|Changeup|17|2|0|1|9|84
+Alex Reyes|R|Joe Panik|L|Walk|B|Two-Seam Fastball|18|3|0|1|11|92
+Alex Reyes|R|Trevor Brown|R|Pop Out|C|Four-Seam Fastball|19|0|0|1|2|95
+Alex Reyes|R|Trevor Brown|R|Pop Out|X|Four-Seam Fastball|20|0|1|1|1|95
+Alex Reyes|R|Albert Suarez|R|Groundout|C|Four-Seam Fastball|21|0|0|2|2|94
+Alex Reyes|R|Albert Suarez|R|Groundout|C|Four-Seam Fastball|22|0|1|2|14|94
+Alex Reyes|R|Albert Suarez|R|Groundout|X|Two-Seam Fastball|23|0|2|2|12|95
+Alex Reyes|R|Denard Span|L|Strikeout|B|Changeup|24|0|0|0|11|92
+Alex Reyes|R|Denard Span|L|Strikeout|S|Changeup|25|1|0|0|14|87
+Alex Reyes|R|Denard Span|L|Strikeout|C|Four-Seam Fastball|26|1|1|0|9|95
+Alex Reyes|R|Denard Span|L|Strikeout|S|Changeup|27|1|2|0|14|88
+Alex Reyes|R|Angel Pagan|L|Groundout|C|Curveball|28|0|0|1|3|76
+Alex Reyes|R|Angel Pagan|L|Groundout|B|Two-Seam Fastball|29|0|1|1|14|97
+Alex Reyes|R|Angel Pagan|L|Groundout|F|Two-Seam Fastball|30|1|1|1|6|96
+Alex Reyes|R|Angel Pagan|L|Groundout|X|Two-Seam Fastball|31|1|2|1|3|98
+Alex Reyes|R|Brandon Crawford|L|Pop Out|B|Curveball|32|0|0|2|12|75
+Alex Reyes|R|Brandon Crawford|L|Pop Out|X|Two-Seam Fastball|33|1|0|2|3|94
+Alex Reyes|R|Hunter Pence|R|Flyout|C|Two-Seam Fastball|34|0|0|0|9|95
+Alex Reyes|R|Hunter Pence|R|Flyout|S|Four-Seam Fastball|35|0|1|0|5|97
+Alex Reyes|R|Hunter Pence|R|Flyout|B|Curveball|36|0|2|0|14|82
+Alex Reyes|R|Hunter Pence|R|Flyout|X|Changeup|37|1|2|0|6|88
+Alex Reyes|R|Brandon Belt|L|Strikeout|S|Two-Seam Fastball|38|0|0|1|11|95
+Alex Reyes|R|Brandon Belt|L|Strikeout|F|Two-Seam Fastball|39|0|1|1|11|97
+Alex Reyes|R|Brandon Belt|L|Strikeout|F|Curveball|40|0|2|1|8|81
+Alex Reyes|R|Brandon Belt|L|Strikeout|C|Changeup|41|0|2|1|4|88
+Alex Reyes|R|Eduardo Nunez|R|Single|F|Four-Seam Fastball|42|0|0|2|12|94
+Alex Reyes|R|Eduardo Nunez|R|Single|B|Two-Seam Fastball|43|0|1|2|11|93
+Alex Reyes|R|Eduardo Nunez|R|Single|B|Two-Seam Fastball|44|1|1|2|11|94
+Alex Reyes|R|Eduardo Nunez|R|Single|F|Four-Seam Fastball|45|2|1|2|12|96
+Alex Reyes|R|Eduardo Nunez|R|Single|D|Changeup|46|2|2|2|9|88
+Alex Reyes|R|Joe Panik|L|Flyout|F|Two-Seam Fastball|47|0|0|2|7|95
+Alex Reyes|R|Joe Panik|L|Flyout|F|Changeup|48|0|1|2|6|87
+Alex Reyes|R|Joe Panik|L|Flyout|*B|Changeup|49|0|2|2|13|88
+Alex Reyes|R|Joe Panik|L|Flyout|X|Changeup|50|1|2|2|4|86
+Alex Reyes|R|Trevor Brown|R|Flyout|X|Two-Seam Fastball|51|0|0|0|4|95
+Alex Reyes|R|Conor Gillaspie|L|Pop Out|X|Changeup|52|0|0|1|11|86
+Alex Reyes|R|Denard Span|L|Single|S|Changeup|53|0|0|2|14|84
+Alex Reyes|R|Denard Span|L|Single|D|Changeup|54|0|1|2|7|85
+Alex Reyes|R|Angel Pagan|L|Strikeout|S|Changeup|55|0|0|2|3|94
+Alex Reyes|R|Angel Pagan|L|Strikeout|F|Two-Seam Fastball|56|0|1|2|3|95
+Alex Reyes|R|Angel Pagan|L|Strikeout|S|Changeup|57|0|2|2|13|87
+Alex Reyes|R|Brandon Crawford|L|Single|B|Changeup|58|0|0|0|13|86
+Alex Reyes|R|Brandon Crawford|L|Single|B|Two-Seam Fastball|59|1|0|0|13|94
+Alex Reyes|R|Brandon Crawford|L|Single|B|Changeup|60|2|0|0|13|84
+Alex Reyes|R|Brandon Crawford|L|Single|F|Changeup|61|3|0|0|5|93
+Alex Reyes|R|Brandon Crawford|L|Single|S|Changeup|62|3|1|0|6|85
+Alex Reyes|R|Brandon Crawford|L|Single|D|Two-Seam Fastball|63|3|2|0|11|97
+Alex Reyes|R|Hunter Pence|R|Strikeout|S|Curveball|64|0|0|0|14|82
+Alex Reyes|R|Hunter Pence|R|Strikeout|F|Four-Seam Fastball|65|0|1|0|11|97
+Alex Reyes|R|Hunter Pence|R|Strikeout|B|Curveball|66|0|2|0|14|84
+Alex Reyes|R|Hunter Pence|R|Strikeout|W|Curveball|67|1|2|0|14|83
+Alex Reyes|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|68|0|0|1|14|98
+Alex Reyes|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|69|1|0|1|14|98
+Alex Reyes|R|Brandon Belt|L|Walk|F|Four-Seam Fastball|70|2|0|1|14|97
+Alex Reyes|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|71|2|1|1|7|97
+Alex Reyes|R|Brandon Belt|L|Walk|S|Changeup|72|3|1|1|14|87
+Alex Reyes|R|Brandon Belt|L|Walk|B|Changeup|73|3|2|1|14|89
+Alex Reyes|R|Eduardo Nunez|R|Flyout|X|Curveball|74|0|0|1|6|80
+Alex Reyes|R|Joe Panik|L|Groundout|C|Changeup|75|0|0|2|6|91
+Alex Reyes|R|Joe Panik|L|Groundout|X|Two-Seam Fastball|76|0|1|2|5|95
+Alex Reyes|R|Trevor Brown|R|Flyout|B|Changeup|77|0|0|0|12|92
+Alex Reyes|R|Trevor Brown|R|Flyout|B|Four-Seam Fastball|78|1|0|0|14|95
+Alex Reyes|R|Trevor Brown|R|Flyout|X|Changeup|79|2|0|0|2|93
+Alex Reyes|R|Jarrett Parker|L|Strikeout|B|Four-Seam Fastball|80|0|0|1|14|95
+Alex Reyes|R|Jarrett Parker|L|Strikeout|F|Changeup|81|1|0|1|8|95
+Alex Reyes|R|Jarrett Parker|L|Strikeout|F|Four-Seam Fastball|82|1|1|1|9|97
+Alex Reyes|R|Jarrett Parker|L|Strikeout|C|Changeup|83|1|2|1|11|85
+Alex Reyes|R|Dexter Fowler|L|Single|B|Two-Seam Fastball|0|0|0|0|14|93
+Alex Reyes|R|Dexter Fowler|L|Single|S|Changeup|1|1|0|0|2|93
+Alex Reyes|R|Dexter Fowler|L|Single|D|Four-Seam Fastball|2|1|1|0|6|96
+Alex Reyes|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|3|0|0|0|12|95
+Alex Reyes|R|Kris Bryant|R|Walk|*B|Curveball|4|1|0|0|14|84
+Alex Reyes|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|5|2|0|0|13|93
+Alex Reyes|R|Kris Bryant|R|Walk|C|Four-Seam Fastball|6|3|0|0|9|94
+Alex Reyes|R|Kris Bryant|R|Walk|F|Four-Seam Fastball|7|3|1|0|4|95
+Alex Reyes|R|Kris Bryant|R|Walk|F|Four-Seam Fastball|8|3|2|0|4|95
+Alex Reyes|R|Kris Bryant|R|Walk|*B|Changeup|9|3|2|0|14|87
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|C|Two-Seam Fastball|10|0|0|0|7|95
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|S|Two-Seam Fastball|11|0|1|0|12|95
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|F|Four-Seam Fastball|12|0|2|0|11|97
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|B|Changeup|13|0|2|0|14|88
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|S|Changeup|14|1|2|0|14|87
+Alex Reyes|R|Ben Zobrist|L|Triple|B|Two-Seam Fastball|15|0|0|1|11|94
+Alex Reyes|R|Ben Zobrist|L|Triple|E|Four-Seam Fastball|16|1|0|1|6|96
+Alex Reyes|R|Addison Russell|R|Strikeout|S|Four-Seam Fastball|17|0|0|1|1|96
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Curveball|18|0|1|1|14|84
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Changeup|19|1|1|1|6|87
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Four-Seam Fastball|20|1|2|1|11|97
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Curveball|21|2|2|1|14|82
+Alex Reyes|R|Addison Russell|R|Strikeout|S|Four-Seam Fastball|22|3|2|1|6|96
+Alex Reyes|R|Jason Heyward|L|Pop Out|X|Four-Seam Fastball|23|0|0|2|5|96
+Alex Reyes|R|Jorge Soler|R|Walk|F|Two-Seam Fastball|24|0|0|0|4|95
+Alex Reyes|R|Jorge Soler|R|Walk|S|Changeup|25|0|1|0|14|86
+Alex Reyes|R|Jorge Soler|R|Walk|B|Four-Seam Fastball|26|0|2|0|12|97
+Alex Reyes|R|Jorge Soler|R|Walk|B|Curveball|27|1|2|0|14|83
+Alex Reyes|R|Jorge Soler|R|Walk|B|Four-Seam Fastball|28|2|2|0|14|97
+Alex Reyes|R|Jorge Soler|R|Walk|F|Four-Seam Fastball|29|3|2|0|1|95
+Alex Reyes|R|Jorge Soler|R|Walk|F|Changeup|30|3|2|0|5|88
+Alex Reyes|R|Jorge Soler|R|Walk|B|Two-Seam Fastball|31|3|2|0|14|98
+Alex Reyes|R|Willson Contreras|R|Strikeout|B|Two-Seam Fastball|32|0|0|0|11|93
+Alex Reyes|R|Willson Contreras|R|Strikeout|C|Changeup|33|1|0|0|9|87
+Alex Reyes|R|Willson Contreras|R|Strikeout|F|Two-Seam Fastball|34|1|1|0|12|95
+Alex Reyes|R|Willson Contreras|R|Strikeout|F|Changeup|35|1|2|0|14|86
+Alex Reyes|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|36|1|2|0|12|97
+Alex Reyes|R|Jason Hammel|R|Single|D|Two-Seam Fastball|37|0|0|1|7|93
+Alex Reyes|R|Dexter Fowler|L|Double|S|Changeup|38|0|0|1|8|86
+Alex Reyes|R|Dexter Fowler|L|Double|B|Two-Seam Fastball|39|0|1|1|13|94
+Alex Reyes|R|Dexter Fowler|L|Double|F|Changeup|40|1|1|1|6|87
+Alex Reyes|R|Dexter Fowler|L|Double|B|Two-Seam Fastball|41|1|2|1|12|96
+Alex Reyes|R|Dexter Fowler|L|Double|F|Four-Seam Fastball|42|2|2|1|6|95
+Alex Reyes|R|Dexter Fowler|L|Double|E|Changeup|43|2|2|1|8|87
+Alex Reyes|R|Kris Bryant|R|Pop Out|C|Curveball|44|0|0|1|9|79
+Alex Reyes|R|Kris Bryant|R|Pop Out|X|Changeup|45|0|1|1|11|86
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|B|Two-Seam Fastball|46|0|0|2|11|95
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|C|Four-Seam Fastball|47|1|0|2|9|95
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|48|1|1|2|14|96
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|F|Four-Seam Fastball|49|2|1|2|5|95
+Alex Reyes|R|Anthony Rizzo|L|Strikeout|S|Changeup|50|2|2|2|13|87
+Alex Reyes|R|Ben Zobrist|L|Groundout|C|Two-Seam Fastball|51|0|0|0|3|93
+Alex Reyes|R|Ben Zobrist|L|Groundout|F|Curveball|52|0|1|0|2|76
+Alex Reyes|R|Ben Zobrist|L|Groundout|B|Curveball|53|0|2|0|14|79
+Alex Reyes|R|Ben Zobrist|L|Groundout|F|Changeup|54|1|2|0|5|88
+Alex Reyes|R|Ben Zobrist|L|Groundout|X|Changeup|55|1|2|0|11|86
+Alex Reyes|R|Addison Russell|R|Single|C|Curveball|56|0|0|1|6|80
+Alex Reyes|R|Addison Russell|R|Single|B|Changeup|57|0|1|1|14|86
+Alex Reyes|R|Addison Russell|R|Single|C|Four-Seam Fastball|58|1|1|1|14|96
+Alex Reyes|R|Addison Russell|R|Single|B|Two-Seam Fastball|59|1|2|1|13|96
+Alex Reyes|R|Addison Russell|R|Single|B|Curveball|60|2|2|1|14|82
+Alex Reyes|R|Addison Russell|R|Single|D|Changeup|61|3|2|1|14|87
+Alex Reyes|R|Jason Heyward|L|Pop Out|C|Two-Seam Fastball|62|0|0|1|5|94
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Changeup|63|0|1|1|12|85
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Four-Seam Fastball|64|1|1|1|14|94
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Changeup|65|2|1|1|14|85
+Alex Reyes|R|Jason Heyward|L|Pop Out|X|Two-Seam Fastball|66|3|1|1|11|95
+Alex Reyes|R|Jorge Soler|R|Flyout|B|Four-Seam Fastball|67|0|0|2|12|95
+Alex Reyes|R|Jorge Soler|R|Flyout|B|Changeup|68|1|0|2|14|86
+Alex Reyes|R|Jorge Soler|R|Flyout|F|Four-Seam Fastball|69|2|0|2|1|96
+Alex Reyes|R|Jorge Soler|R|Flyout|X|Four-Seam Fastball|70|2|1|2|14|96
+Alex Reyes|R|Willson Contreras|R|Groundout|C|Curveball|71|0|0|0|11|76
+Alex Reyes|R|Willson Contreras|R|Groundout|F|Changeup|72|0|1|0|9|85
+Alex Reyes|R|Willson Contreras|R|Groundout|F|Two-Seam Fastball|73|0|2|0|12|97
+Alex Reyes|R|Willson Contreras|R|Groundout|B|Curveball|74|0|2|0|14|84
+Alex Reyes|R|Willson Contreras|R|Groundout|X|Two-Seam Fastball|75|1|2|0|12|94
+Alex Reyes|R|Tommy La Stella|L|Groundout|B|Two-Seam Fastball|76|0|0|1|11|93
+Alex Reyes|R|Tommy La Stella|L|Groundout|C|Changeup|77|1|0|1|1|92
+Alex Reyes|R|Tommy La Stella|L|Groundout|F|Two-Seam Fastball|78|1|1|1|2|94
+Alex Reyes|R|Tommy La Stella|L|Groundout|F|Changeup|79|1|2|1|2|88
+Alex Reyes|R|Tommy La Stella|L|Groundout|X|Curveball|80|1|2|1|5|78
+Alex Reyes|R|Dexter Fowler|L|Triple|C|Curveball|81|0|0|2|3|76
+Alex Reyes|R|Dexter Fowler|L|Triple|D|Changeup|82|0|1|2|4|87
+Alex Reyes|R|Kris Bryant|R|Strikeout|B|Four-Seam Fastball|83|0|0|2|11|97
+Alex Reyes|R|Kris Bryant|R|Strikeout|S|Two-Seam Fastball|84|1|0|2|11|96
+Alex Reyes|R|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|85|1|1|2|9|97
+Alex Reyes|R|Kris Bryant|R|Strikeout|B|Four-Seam Fastball|86|1|2|2|12|98
+Alex Reyes|R|Kris Bryant|R|Strikeout|F|Four-Seam Fastball|87|2|2|2|12|98
+Alex Reyes|R|Kris Bryant|R|Strikeout|B|Changeup|88|2|2|2|14|90
+Alex Reyes|R|Kris Bryant|R|Strikeout|F|Changeup|89|3|2|2|11|88
+Alex Reyes|R|Kris Bryant|R|Strikeout|C|Curveball|90|3|2|2|3|81
+Alex Reyes|R|Anthony Rizzo|L|Lineout|C|Two-Seam Fastball|91|0|0|0|11|92
+Alex Reyes|R|Anthony Rizzo|L|Lineout|S|Two-Seam Fastball|92|0|1|0|1|95
+Alex Reyes|R|Anthony Rizzo|L|Lineout|B|Four-Seam Fastball|93|0|2|0|11|97
+Alex Reyes|R|Anthony Rizzo|L|Lineout|F|Two-Seam Fastball|94|1|2|0|6|96
+Alex Reyes|R|Anthony Rizzo|L|Lineout|X|Changeup|95|1|2|0|13|88
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Curveball|96|0|0|1|11|75
+Alex Reyes|R|Ben Zobrist|L|Walk|C|Changeup|97|1|0|1|2|86
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Curveball|98|1|1|1|11|75
+Alex Reyes|R|Ben Zobrist|L|Walk|F|Two-Seam Fastball|99|2|1|1|12|94
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Changeup|100|2|2|1|13|89
+Alex Reyes|R|Ben Zobrist|L|Walk|B|Changeup|101|3|2|1|11|86
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Four-Seam Fastball|102|0|0|1|14|95
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Two-Seam Fastball|103|1|0|1|14|95
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Two-Seam Fastball|104|2|0|1|2|95
+Alex Reyes|R|Addison Russell|R|Strikeout|F|Four-Seam Fastball|105|2|1|1|5|94
+Alex Reyes|R|Addison Russell|R|Strikeout|B|Curveball|106|2|2|1|11|79
+Alex Reyes|R|Addison Russell|R|Strikeout|S|Two-Seam Fastball|107|3|2|1|2|95
+Alex Reyes|R|Jason Heyward|L|Pop Out|C|Two-Seam Fastball|108|0|0|2|3|96
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Two-Seam Fastball|109|0|1|2|12|96
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Two-Seam Fastball|110|1|1|2|11|95
+Alex Reyes|R|Jason Heyward|L|Pop Out|B|Four-Seam Fastball|111|2|1|2|11|94
+Alex Reyes|R|Jason Heyward|L|Pop Out|C|Two-Seam Fastball|112|3|1|2|9|94
+Alex Reyes|R|Jason Heyward|L|Pop Out|F|Four-Seam Fastball|113|3|2|2|2|96
+Alex Reyes|R|Jason Heyward|L|Pop Out|X|Two-Seam Fastball|114|3|2|2|6|95
+Alex Reyes|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|0|0|0|0|2|97
+Alex Reyes|R|Hernan Iribarren|L|Groundout|B|Two-Seam Fastball|1|0|0|1|14|95
+Alex Reyes|R|Hernan Iribarren|L|Groundout|B|Two-Seam Fastball|2|1|0|1|11|95
+Alex Reyes|R|Hernan Iribarren|L|Groundout|C|Two-Seam Fastball|3|2|0|1|5|95
+Alex Reyes|R|Hernan Iribarren|L|Groundout|B|Two-Seam Fastball|4|2|1|1|11|95
+Alex Reyes|R|Hernan Iribarren|L|Groundout|X|Two-Seam Fastball|5|3|1|1|8|94
+Alex Reyes|R|Joey Votto|L|Groundout|B|Two-Seam Fastball|6|0|0|2|11|95
+Alex Reyes|R|Joey Votto|L|Groundout|B|Changeup|7|1|0|2|11|88
+Alex Reyes|R|Joey Votto|L|Groundout|B|Changeup|8|2|0|2|14|88
+Alex Reyes|R|Joey Votto|L|Groundout|C|Two-Seam Fastball|9|3|0|2|11|94
+Alex Reyes|R|Joey Votto|L|Groundout|F|Changeup|10|3|1|2|2|87
+Alex Reyes|R|Joey Votto|L|Groundout|X|Changeup|11|3|2|2|13|90
+Alex Reyes|R|Adam Duvall|R|Double|C|Two-Seam Fastball|12|0|0|0|6|96
+Alex Reyes|R|Adam Duvall|R|Double|D|Curveball|13|0|1|0|8|78
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|C|Two-Seam Fastball|14|0|0|0|6|96
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|15|0|1|0|2|95
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|16|0|2|0|14|97
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|*B|Curveball|17|1|2|0|14|86
+Alex Reyes|R|Eugenio Suarez|R|Strikeout|S|Curveball|18|2|2|0|8|84
+Alex Reyes|R|Ivan De Jesus Jr.|R|Pop Out|X|Two-Seam Fastball|19|0|0|1|11|96
+Alex Reyes|R|Tucker Barnhart|L|Single|C|Four-Seam Fastball|20|0|0|2|11|97
+Alex Reyes|R|Tucker Barnhart|L|Single|B|Two-Seam Fastball|21|0|1|2|11|98
+Alex Reyes|R|Tucker Barnhart|L|Single|E|Two-Seam Fastball|22|1|1|2|1|96
+Alex Reyes|R|Tony Renda|R|Strikeout|C|Four-Seam Fastball|23|0|0|2|4|97
+Alex Reyes|R|Tony Renda|R|Strikeout|B|Curveball|24|0|1|2|14|84
+Alex Reyes|R|Tony Renda|R|Strikeout|B|Two-Seam Fastball|25|1|1|2|11|97
+Alex Reyes|R|Tony Renda|R|Strikeout|F|Four-Seam Fastball|26|2|1|2|1|95
+Alex Reyes|R|Tony Renda|R|Strikeout|C|Curveball|27|2|2|2|9|84
+Alex Reyes|R|Dan Straily|R|Strikeout|C|Changeup|28|0|0|0|13|93
+Alex Reyes|R|Dan Straily|R|Strikeout|S|Four-Seam Fastball|29|0|1|0|12|95
+Alex Reyes|R|Dan Straily|R|Strikeout|B|Curveball|30|0|2|0|14|81
+Alex Reyes|R|Dan Straily|R|Strikeout|F|Two-Seam Fastball|31|1|2|0|5|96
+Alex Reyes|R|Dan Straily|R|Strikeout|S|Two-Seam Fastball|32|1|2|0|2|97
+Alex Reyes|R|Jose Peraza|R|Single|C|Two-Seam Fastball|33|0|0|1|2|96
+Alex Reyes|R|Jose Peraza|R|Single|F|Curveball|34|0|1|1|11|82
+Alex Reyes|R|Jose Peraza|R|Single|F|Two-Seam Fastball|35|0|2|1|12|98
+Alex Reyes|R|Jose Peraza|R|Single|F|Changeup|36|0|2|1|2|90
+Alex Reyes|R|Jose Peraza|R|Single|D|Two-Seam Fastball|37|0|2|1|6|97
+Alex Reyes|R|Hernan Iribarren|L|Groundout|P|Pitchout|38|0|0|1|11|91
+Alex Reyes|R|Hernan Iribarren|L|Groundout|F|Two-Seam Fastball|39|0|1|1|13|95
+Alex Reyes|R|Hernan Iribarren|L|Groundout|X|Changeup|40|0|2|1|14|90
+Alex Reyes|R|Joey Votto|L|Single|F|Two-Seam Fastball|41|0|0|2|4|92
+Alex Reyes|R|Joey Votto|L|Single|F|Two-Seam Fastball|42|0|1|2|1|97
+Alex Reyes|R|Joey Votto|L|Single|B|Curveball|43|0|2|2|9|83
+Alex Reyes|R|Joey Votto|L|Single|D|Curveball|44|1|2|2|9|83
+Alex Reyes|R|Adam Duvall|R|Strikeout|F|Two-Seam Fastball|45|0|0|2|2|97
+Alex Reyes|R|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|46|0|1|2|7|96
+Alex Reyes|R|Adam Duvall|R|Strikeout|S|Two-Seam Fastball|47|1|1|2|7|96
+Alex Reyes|R|Adam Duvall|R|Strikeout|*B|Curveball|48|1|2|2|14|84
+Alex Reyes|R|Adam Duvall|R|Strikeout|B|Curveball|49|2|2|2|12|82
+Alex Reyes|R|Adam Duvall|R|Strikeout|F|Changeup|50|3|2|2|1|88
+Alex Reyes|R|Adam Duvall|R|Strikeout|C|Two-Seam Fastball|51|3|2|2|8|97
+Alex Reyes|R|Eugenio Suarez|R|Forceout|X|Two-Seam Fastball|52|0|0|0|8|94
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|C|Two-Seam Fastball|53|0|0|1|4|95
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|F|Two-Seam Fastball|54|0|1|1|11|95
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|F|Two-Seam Fastball|55|0|2|1|9|95
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|B|Two-Seam Fastball|56|0|2|1|12|95
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|B|Curveball|57|1|2|1|14|83
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|*B|Curveball|58|2|2|1|13|82
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|D|Two-Seam Fastball|59|3|2|1|1|94
+Alex Reyes|R|Tucker Barnhart|L|Pop Out|B|Changeup|60|0|0|1|11|87
+Alex Reyes|R|Tucker Barnhart|L|Pop Out|X|Two-Seam Fastball|61|1|0|1|3|93
+Alex Reyes|R|Tony Renda|R|Walk|B|Two-Seam Fastball|62|0|0|2|12|92
+Alex Reyes|R|Tony Renda|R|Walk|B|Two-Seam Fastball|63|1|0|2|12|94
+Alex Reyes|R|Tony Renda|R|Walk|B|Two-Seam Fastball|64|2|0|2|12|91
+Alex Reyes|R|Tony Renda|R|Walk|B|Two-Seam Fastball|65|3|0|2|14|93
+Alex Reyes|R|Dan Straily|R|Strikeout|B|Two-Seam Fastball|66|0|0|2|12|92
+Alex Reyes|R|Dan Straily|R|Strikeout|L|Changeup|67|1|0|2|12|92
+Alex Reyes|R|Dan Straily|R|Strikeout|B|Two-Seam Fastball|68|1|1|2|11|92
+Alex Reyes|R|Dan Straily|R|Strikeout|B|Two-Seam Fastball|69|2|1|2|11|93
+Alex Reyes|R|Dan Straily|R|Strikeout|L|Two-Seam Fastball|70|3|1|2|2|94
+Alex Reyes|R|Dan Straily|R|Strikeout|C|Changeup|71|3|2|2|8|94
+Alex Reyes|R|Jose Peraza|R|Grounded Into DP|*B|Four-Seam Fastball|72|0|0|0|14|95
+Alex Reyes|R|Jose Peraza|R|Grounded Into DP|C|Changeup|73|1|0|0|12|94
+Alex Reyes|R|Jose Peraza|R|Grounded Into DP|X|Two-Seam Fastball|74|1|1|0|13|93
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|C|Two-Seam Fastball|75|0|0|2|4|93
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|B|Two-Seam Fastball|76|0|1|2|11|93
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|F|Changeup|77|1|1|2|3|94
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|B|Changeup|78|1|2|2|13|87
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|F|Changeup|79|2|2|2|14|87
+Alex Reyes|R|Hernan Iribarren|L|Strikeout|S|Changeup|80|2|2|2|8|87
+Alex Reyes|R|Joey Votto|L|Single|C|Two-Seam Fastball|81|0|0|0|11|95
+Alex Reyes|R|Joey Votto|L|Single|D|Changeup|82|0|1|0|4|87
+Alex Reyes|R|Adam Duvall|R|Flyout|B|Two-Seam Fastball|83|0|0|0|12|95
+Alex Reyes|R|Adam Duvall|R|Flyout|B|Changeup|84|1|0|0|12|93
+Alex Reyes|R|Adam Duvall|R|Flyout|C|Changeup|85|2|0|0|12|84
+Alex Reyes|R|Adam Duvall|R|Flyout|X|Two-Seam Fastball|86|2|1|0|11|93
+Alex Reyes|R|Eugenio Suarez|R|Walk|B|Two-Seam Fastball|87|0|0|1|13|92
+Alex Reyes|R|Eugenio Suarez|R|Walk|C|Changeup|88|1|0|1|2|91
+Alex Reyes|R|Eugenio Suarez|R|Walk|B|Changeup|89|1|1|1|14|84
+Alex Reyes|R|Eugenio Suarez|R|Walk|S|Changeup|90|2|1|1|14|84
+Alex Reyes|R|Eugenio Suarez|R|Walk|B|Changeup|91|2|2|1|12|84
+Alex Reyes|R|Eugenio Suarez|R|Walk|B|Changeup|92|3|2|1|12|84
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|B|Curveball|93|0|0|1|11|78
+Alex Reyes|R|Ivan De Jesus Jr.|R|Single|D|Two-Seam Fastball|94|1|0|1|11|92
+Alex Reyes|R|Tucker Barnhart|L|Groundout|C|Changeup|95|0|0|1|3|83
+Alex Reyes|R|Tucker Barnhart|L|Groundout|B|Changeup|96|0|1|1|12|82
+Alex Reyes|R|Tucker Barnhart|L|Groundout|S|Changeup|97|1|1|1|5|84
+Alex Reyes|R|Tucker Barnhart|L|Groundout|X|Two-Seam Fastball|98|1|2|1|1|93

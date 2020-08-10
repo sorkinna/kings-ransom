@@ -1,0 +1,901 @@
+Tim Melville|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|0|0|0|0|5|89
+Tim Melville|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|1|0|0|1|13|88
+Tim Melville|R|Ketel Marte|L|Flyout|C|Four-Seam Fastball|2|1|0|1|7|89
+Tim Melville|R|Ketel Marte|L|Flyout|S|Slider|3|1|1|1|14|84
+Tim Melville|R|Ketel Marte|L|Flyout|F|Slider|4|1|2|1|11|84
+Tim Melville|R|Ketel Marte|L|Flyout|F|Four-Seam Fastball|5|1|2|1|11|90
+Tim Melville|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|6|1|2|1|11|92
+Tim Melville|R|Ketel Marte|L|Flyout|X|Slider|7|2|2|1|14|83
+Tim Melville|R|Eduardo Escobar|L|Double|C|Four-Seam Fastball|8|0|0|2|11|90
+Tim Melville|R|Eduardo Escobar|L|Double|B|Four-Seam Fastball|9|0|1|2|12|89
+Tim Melville|R|Eduardo Escobar|L|Double|D|Four-Seam Fastball|10|1|1|2|4|90
+Tim Melville|R|David Peralta|L|Walk|B|Slider|11|0|0|2|11|79
+Tim Melville|R|David Peralta|L|Walk|B|Slider|12|1|0|2|14|83
+Tim Melville|R|David Peralta|L|Walk|B|Four-Seam Fastball|13|2|0|2|11|90
+Tim Melville|R|David Peralta|L|Walk|C|Four-Seam Fastball|14|3|0|2|5|89
+Tim Melville|R|David Peralta|L|Walk|*B|Four-Seam Fastball|15|3|1|2|13|90
+Tim Melville|R|Jake Lamb|L|Flyout|C|Slider|16|0|0|2|5|83
+Tim Melville|R|Jake Lamb|L|Flyout|B|Four-Seam Fastball|17|0|1|2|12|89
+Tim Melville|R|Jake Lamb|L|Flyout|B|Slider|18|1|1|2|13|85
+Tim Melville|R|Jake Lamb|L|Flyout|S|Slider|19|2|1|2|14|85
+Tim Melville|R|Jake Lamb|L|Flyout|F|Slider|20|2|2|2|13|85
+Tim Melville|R|Jake Lamb|L|Flyout|B|Slider|21|2|2|2|11|84
+Tim Melville|R|Jake Lamb|L|Flyout|X|Slider|22|3|2|2|7|84
+Tim Melville|R|Josh Rojas|L|Pop Out|C|Slider|23|0|0|0|8|80
+Tim Melville|R|Josh Rojas|L|Pop Out|X|Changeup|24|0|1|0|7|82
+Tim Melville|R|Nick Ahmed|R|Lineout|C|Slider|25|0|0|1|9|80
+Tim Melville|R|Nick Ahmed|R|Lineout|B|Four-Seam Fastball|26|0|1|1|13|88
+Tim Melville|R|Nick Ahmed|R|Lineout|S|Four-Seam Fastball|27|1|1|1|11|89
+Tim Melville|R|Nick Ahmed|R|Lineout|X|Four-Seam Fastball|28|1|2|1|8|90
+Tim Melville|R|Alex Avila|L|Strikeout|C|Curveball|29|0|0|2|9|72
+Tim Melville|R|Alex Avila|L|Strikeout|S|Slider|30|0|1|2|9|82
+Tim Melville|R|Alex Avila|L|Strikeout|S|Slider|31|0|2|2|9|83
+Tim Melville|R|Mike Leake|R|Groundout|C|Changeup|32|0|0|0|4|84
+Tim Melville|R|Mike Leake|R|Groundout|C|Slider|33|0|1|0|6|79
+Tim Melville|R|Mike Leake|R|Groundout|B|Slider|34|0|2|0|14|83
+Tim Melville|R|Mike Leake|R|Groundout|X|Four-Seam Fastball|35|1|2|0|14|88
+Tim Melville|R|Jarrod Dyson|L|Pop Out|C|Four-Seam Fastball|36|0|0|1|5|88
+Tim Melville|R|Jarrod Dyson|L|Pop Out|X|Changeup|37|0|1|1|13|83
+Tim Melville|R|Ketel Marte|L|Strikeout|F|Slider|38|0|0|2|13|82
+Tim Melville|R|Ketel Marte|L|Strikeout|B|Changeup|39|0|1|2|11|81
+Tim Melville|R|Ketel Marte|L|Strikeout|S|Changeup|40|1|1|2|13|82
+Tim Melville|R|Ketel Marte|L|Strikeout|S|Slider|41|1|2|2|14|83
+Tim Melville|R|Eduardo Escobar|L|Groundout|C|Curveball|42|0|0|0|6|72
+Tim Melville|R|Eduardo Escobar|L|Groundout|F|Changeup|43|0|1|0|11|82
+Tim Melville|R|Eduardo Escobar|L|Groundout|B|Slider|44|0|2|0|11|79
+Tim Melville|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|45|1|2|0|12|88
+Tim Melville|R|Eduardo Escobar|L|Groundout|F|Slider|46|2|2|0|14|82
+Tim Melville|R|Eduardo Escobar|L|Groundout|X|Changeup|47|2|2|0|13|81
+Tim Melville|R|David Peralta|L|Pop Out|C|Four-Seam Fastball|48|0|0|1|8|88
+Tim Melville|R|David Peralta|L|Pop Out|F|Four-Seam Fastball|49|0|1|1|9|90
+Tim Melville|R|David Peralta|L|Pop Out|F|Slider|50|0|2|1|8|82
+Tim Melville|R|David Peralta|L|Pop Out|F|Curveball|51|0|2|1|4|79
+Tim Melville|R|David Peralta|L|Pop Out|B|Four-Seam Fastball|52|0|2|1|12|88
+Tim Melville|R|David Peralta|L|Pop Out|B|Slider|53|1|2|1|14|84
+Tim Melville|R|David Peralta|L|Pop Out|X|Slider|54|2|2|1|6|82
+Tim Melville|R|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|55|0|0|2|11|90
+Tim Melville|R|Jake Lamb|L|Strikeout|C|Slider|56|1|0|2|11|81
+Tim Melville|R|Jake Lamb|L|Strikeout|B|Changeup|57|1|1|2|14|83
+Tim Melville|R|Jake Lamb|L|Strikeout|S|Slider|58|2|1|2|14|83
+Tim Melville|R|Jake Lamb|L|Strikeout|F|Changeup|59|2|2|2|13|82
+Tim Melville|R|Jake Lamb|L|Strikeout|S|Slider|60|2|2|2|14|82
+Tim Melville|R|Josh Rojas|L|Pop Out|B|Four-Seam Fastball|61|0|0|0|14|89
+Tim Melville|R|Josh Rojas|L|Pop Out|B|Slider|62|1|0|0|14|83
+Tim Melville|R|Josh Rojas|L|Pop Out|X|Four-Seam Fastball|63|2|0|0|2|88
+Tim Melville|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|64|0|0|1|11|87
+Tim Melville|R|Nick Ahmed|R|Walk|C|Slider|65|1|0|1|11|81
+Tim Melville|R|Nick Ahmed|R|Walk|B|Changeup|66|1|1|1|13|83
+Tim Melville|R|Nick Ahmed|R|Walk|S|Slider|67|2|1|1|14|82
+Tim Melville|R|Nick Ahmed|R|Walk|F|Slider|68|2|2|1|6|83
+Tim Melville|R|Nick Ahmed|R|Walk|B|Curveball|69|2|2|1|14|74
+Tim Melville|R|Nick Ahmed|R|Walk|F|Four-Seam Fastball|70|3|2|1|11|89
+Tim Melville|R|Nick Ahmed|R|Walk|F|Slider|71|3|2|1|7|82
+Tim Melville|R|Nick Ahmed|R|Walk|F|Slider|72|3|2|1|9|82
+Tim Melville|R|Nick Ahmed|R|Walk|B|Slider|73|3|2|1|14|83
+Tim Melville|R|Alex Avila|L|Strikeout|S|Slider|74|0|0|1|7|79
+Tim Melville|R|Alex Avila|L|Strikeout|B|Changeup|75|0|1|1|13|79
+Tim Melville|R|Alex Avila|L|Strikeout|C|Slider|76|1|1|1|1|80
+Tim Melville|R|Alex Avila|L|Strikeout|S|Slider|77|1|2|1|14|83
+Tim Melville|R|Christian Walker|R|Flyout|B|Slider|78|0|0|2|14|81
+Tim Melville|R|Christian Walker|R|Flyout|X|Four-Seam Fastball|79|1|0|2|4|88
+Tim Melville|R|Jarrod Dyson|L|Flyout|B|Curveball|80|0|0|0|11|68
+Tim Melville|R|Jarrod Dyson|L|Flyout|X|Slider|81|1|0|0|13|80
+Tim Melville|R|Ketel Marte|L|Home Run|C|Four-Seam Fastball|82|0|0|1|13|89
+Tim Melville|R|Ketel Marte|L|Home Run|E|Four-Seam Fastball|83|0|1|1|9|88
+Tim Melville|R|Eduardo Escobar|L|Groundout|B|Slider|84|0|0|1|11|79
+Tim Melville|R|Eduardo Escobar|L|Groundout|X|Slider|85|1|0|1|14|81
+Tim Melville|R|David Peralta|L|Flyout|B|Slider|86|0|0|2|11|78
+Tim Melville|R|David Peralta|L|Flyout|B|Changeup|87|1|0|2|11|81
+Tim Melville|R|David Peralta|L|Flyout|S|Slider|88|2|0|2|14|81
+Tim Melville|R|David Peralta|L|Flyout|X|Four-Seam Fastball|89|2|1|2|7|87
+Tim Melville|R|Jake Lamb|L|Flyout|C|Four-Seam Fastball|90|0|0|0|13|88
+Tim Melville|R|Jake Lamb|L|Flyout|X|Slider|91|0|1|0|5|82
+Tim Melville|R|Josh Rojas|L|Lineout|B|Slider|92|0|0|1|11|78
+Tim Melville|R|Josh Rojas|L|Lineout|B|Slider|93|1|0|1|14|82
+Tim Melville|R|Josh Rojas|L|Lineout|X|Four-Seam Fastball|94|2|0|1|1|88
+Tim Melville|R|Nick Ahmed|R|Groundout|B|Slider|95|0|0|2|11|79
+Tim Melville|R|Nick Ahmed|R|Groundout|B|Changeup|96|1|0|2|11|79
+Tim Melville|R|Nick Ahmed|R|Groundout|C|Four-Seam Fastball|97|2|0|2|12|89
+Tim Melville|R|Nick Ahmed|R|Groundout|F|Slider|98|2|1|2|6|82
+Tim Melville|R|Nick Ahmed|R|Groundout|B|Slider|99|2|2|2|14|81
+Tim Melville|R|Nick Ahmed|R|Groundout|X|Four-Seam Fastball|100|3|2|2|6|89
+Tim Melville|R|Ronald Acuna Jr.|R|Groundout|F|Four-Seam Fastball|0|0|0|0|7|87
+Tim Melville|R|Ronald Acuna Jr.|R|Groundout|S|Four-Seam Fastball|1|0|1|0|14|91
+Tim Melville|R|Ronald Acuna Jr.|R|Groundout|X|Slider|2|0|2|0|14|85
+Tim Melville|R|Ozzie Albies|L|Double|F|Four-Seam Fastball|3|0|0|1|7|90
+Tim Melville|R|Ozzie Albies|L|Double|D|Changeup|4|0|1|1|13|84
+Tim Melville|R|Freddie Freeman|L|Strikeout|C|Slider|5|0|0|1|13|84
+Tim Melville|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|6|0|1|1|13|89
+Tim Melville|R|Freddie Freeman|L|Strikeout|F|Slider|7|1|1|1|8|85
+Tim Melville|R|Freddie Freeman|L|Strikeout|S|Slider|8|1|2|1|8|85
+Tim Melville|R|Josh Donaldson|R|Strikeout|*B|Slider|9|0|0|2|14|80
+Tim Melville|R|Josh Donaldson|R|Strikeout|S|Slider|10|1|0|2|4|85
+Tim Melville|R|Josh Donaldson|R|Strikeout|B|Four-Seam Fastball|11|1|1|2|13|91
+Tim Melville|R|Josh Donaldson|R|Strikeout|S|Slider|12|2|1|2|14|84
+Tim Melville|R|Josh Donaldson|R|Strikeout|S|Four-Seam Fastball|13|2|2|2|13|90
+Tim Melville|R|Matt Joyce|L|Single|B|Curveball|14|0|0|0|14|75
+Tim Melville|R|Matt Joyce|L|Single|C|Slider|15|1|0|0|1|82
+Tim Melville|R|Matt Joyce|L|Single|F|Slider|16|1|1|0|4|80
+Tim Melville|R|Matt Joyce|L|Single|B|Slider|17|1|2|0|14|82
+Tim Melville|R|Matt Joyce|L|Single|B|Four-Seam Fastball|18|2|2|0|12|90
+Tim Melville|R|Matt Joyce|L|Single|F|Slider|19|3|2|0|14|83
+Tim Melville|R|Matt Joyce|L|Single|F|Four-Seam Fastball|20|3|2|0|4|91
+Tim Melville|R|Matt Joyce|L|Single|F|Four-Seam Fastball|21|3|2|0|4|90
+Tim Melville|R|Matt Joyce|L|Single|D|Slider|22|3|2|0|6|84
+Tim Melville|R|Dansby Swanson|R|Flyout|W|Slider|23|0|0|0|14|84
+Tim Melville|R|Dansby Swanson|R|Flyout|X|Four-Seam Fastball|24|0|1|0|5|89
+Tim Melville|R|Francisco Cervelli|R|Grounded Into DP|S|Slider|25|0|0|1|9|77
+Tim Melville|R|Francisco Cervelli|R|Grounded Into DP|B|Four-Seam Fastball|26|0|1|1|11|89
+Tim Melville|R|Francisco Cervelli|R|Grounded Into DP|C|Slider|27|1|1|1|13|80
+Tim Melville|R|Francisco Cervelli|R|Grounded Into DP|X|Slider|28|1|2|1|14|85
+Tim Melville|R|Rafael Ortega|L|Single|B|Four-Seam Fastball|29|0|0|0|11|90
+Tim Melville|R|Rafael Ortega|L|Single|D|Four-Seam Fastball|30|1|0|0|4|89
+Tim Melville|R|Julio Teheran|R|Sac Bunt|C|Four-Seam Fastball|31|0|0|0|14|87
+Tim Melville|R|Julio Teheran|R|Sac Bunt|X|Four-Seam Fastball|32|0|1|0|5|87
+Tim Melville|R|Ronald Acuna Jr.|R|Groundout|S|Slider|33|0|0|1|14|84
+Tim Melville|R|Ronald Acuna Jr.|R|Groundout|X|Slider|34|0|1|1|14|79
+Tim Melville|R|Ozzie Albies|L|Strikeout|F|Slider|35|0|0|2|14|82
+Tim Melville|R|Ozzie Albies|L|Strikeout|B|Four-Seam Fastball|36|0|1|2|11|89
+Tim Melville|R|Ozzie Albies|L|Strikeout|B|Slider|37|1|1|2|11|82
+Tim Melville|R|Ozzie Albies|L|Strikeout|F|Slider|38|2|1|2|5|84
+Tim Melville|R|Ozzie Albies|L|Strikeout|T|Slider|39|2|2|2|3|84
+Tim Melville|R|Freddie Freeman|L|Walk|B|Curveball|40|0|0|0|12|67
+Tim Melville|R|Freddie Freeman|L|Walk|B|Changeup|41|1|0|0|13|82
+Tim Melville|R|Freddie Freeman|L|Walk|F|Slider|42|2|0|0|7|81
+Tim Melville|R|Freddie Freeman|L|Walk|B|Four-Seam Fastball|43|2|1|0|14|90
+Tim Melville|R|Freddie Freeman|L|Walk|F|Four-Seam Fastball|44|3|1|0|11|88
+Tim Melville|R|Freddie Freeman|L|Walk|F|Slider|45|3|2|0|13|83
+Tim Melville|R|Freddie Freeman|L|Walk|B|Curveball|46|3|2|0|11|77
+Tim Melville|R|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|47|0|0|0|7|88
+Tim Melville|R|Josh Donaldson|R|Strikeout|B|Four-Seam Fastball|48|0|1|0|13|90
+Tim Melville|R|Josh Donaldson|R|Strikeout|S|Slider|49|1|1|0|9|84
+Tim Melville|R|Josh Donaldson|R|Strikeout|B|Slider|50|1|2|0|14|78
+Tim Melville|R|Josh Donaldson|R|Strikeout|B|Slider|51|2|2|0|14|85
+Tim Melville|R|Josh Donaldson|R|Strikeout|C|Slider|52|3|2|0|14|85
+Tim Melville|R|Matt Joyce|L|Single|C|Slider|53|0|0|1|7|79
+Tim Melville|R|Matt Joyce|L|Single|B|Four-Seam Fastball|54|0|1|1|14|91
+Tim Melville|R|Matt Joyce|L|Single|*B|Slider|55|1|1|1|14|84
+Tim Melville|R|Matt Joyce|L|Single|B|Slider|56|2|1|1|14|84
+Tim Melville|R|Matt Joyce|L|Single|C|Four-Seam Fastball|57|3|1|1|7|91
+Tim Melville|R|Matt Joyce|L|Single|F|Slider|58|3|2|1|1|84
+Tim Melville|R|Matt Joyce|L|Single|X|Four-Seam Fastball|59|3|2|1|11|91
+Tim Melville|R|Dansby Swanson|R|Strikeout|F|Slider|60|0|0|2|9|83
+Tim Melville|R|Dansby Swanson|R|Strikeout|B|Slider|61|0|1|2|14|81
+Tim Melville|R|Dansby Swanson|R|Strikeout|F|Changeup|62|1|1|2|11|82
+Tim Melville|R|Dansby Swanson|R|Strikeout|S|Slider|63|1|2|2|2|82
+Tim Melville|R|Francisco Cervelli|R|Double|C|Slider|64|0|0|0|9|80
+Tim Melville|R|Francisco Cervelli|R|Double|C|Slider|65|0|1|0|1|81
+Tim Melville|R|Francisco Cervelli|R|Double|B|Slider|66|0|2|0|14|84
+Tim Melville|R|Francisco Cervelli|R|Double|B|Curveball|67|1|2|0|14|79
+Tim Melville|R|Francisco Cervelli|R|Double|D|Four-Seam Fastball|68|2|2|0|5|91
+Tim Melville|R|Rafael Ortega|L|Flyout|C|Slider|69|0|0|0|5|81
+Tim Melville|R|Rafael Ortega|L|Flyout|*B|Slider|70|0|1|0|14|85
+Tim Melville|R|Rafael Ortega|L|Flyout|B|Changeup|71|1|1|0|14|80
+Tim Melville|R|Rafael Ortega|L|Flyout|S|Slider|72|2|1|0|13|82
+Tim Melville|R|Rafael Ortega|L|Flyout|X|Slider|73|2|2|0|8|84
+Tim Melville|R|Julio Teheran|R|Strikeout|B|Slider|74|0|0|1|11|82
+Tim Melville|R|Julio Teheran|R|Strikeout|F|Four-Seam Fastball|75|1|0|1|6|90
+Tim Melville|R|Julio Teheran|R|Strikeout|S|Slider|76|1|1|1|14|83
+Tim Melville|R|Julio Teheran|R|Strikeout|*B|Slider|77|1|2|1|14|83
+Tim Melville|R|Julio Teheran|R|Strikeout|S|Slider|78|2|2|1|14|84
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|T|Slider|79|0|0|2|5|83
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|C|Four-Seam Fastball|80|0|1|2|7|91
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|*B|Slider|81|0|2|2|14|85
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|F|Four-Seam Fastball|82|1|2|2|4|89
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|F|Four-Seam Fastball|83|1|2|2|5|89
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|F|Slider|84|1|2|2|14|84
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|B|Slider|85|1|2|2|11|79
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|B|Slider|86|2|2|2|14|84
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|F|Slider|87|3|2|2|4|83
+Tim Melville|R|Ronald Acuna Jr.|R|Walk|B|Slider|88|3|2|2|11|84
+Tim Melville|R|Ozzie Albies|L|Walk|F|Slider|89|0|0|2|1|83
+Tim Melville|R|Ozzie Albies|L|Walk|F|Slider|90|0|1|2|1|84
+Tim Melville|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|91|0|2|2|12|91
+Tim Melville|R|Ozzie Albies|L|Walk|*B|Slider|92|1|2|2|14|83
+Tim Melville|R|Ozzie Albies|L|Walk|F|Slider|93|2|2|2|14|84
+Tim Melville|R|Ozzie Albies|L|Walk|B|Slider|94|2|2|2|13|83
+Tim Melville|R|Ozzie Albies|L|Walk|B|Slider|95|3|2|2|11|82
+Tim Melville|R|Freddie Freeman|L|Groundout|*B|Slider|96|0|0|2|13|84
+Tim Melville|R|Freddie Freeman|L|Groundout|*B|Slider|97|1|0|2|14|84
+Tim Melville|R|Freddie Freeman|L|Groundout|S|Slider|98|2|0|2|13|81
+Tim Melville|R|Freddie Freeman|L|Groundout|X|Four-Seam Fastball|99|2|1|2|2|90
+Tim Melville|R|Kevin Newman|R|Home Run|E|Four-Seam Fastball|0|0|0|0|5|89
+Tim Melville|R|Bryan Reynolds|L|Single|C|Slider|1|0|0|0|11|83
+Tim Melville|R|Bryan Reynolds|L|Single|B|Changeup|2|0|1|0|11|82
+Tim Melville|R|Bryan Reynolds|L|Single|F|Slider|3|1|1|0|5|84
+Tim Melville|R|Bryan Reynolds|L|Single|D|Changeup|4|1|2|0|1|82
+Tim Melville|R|Starling Marte|R|Lineout|B|Slider|5|0|0|0|14|83
+Tim Melville|R|Starling Marte|R|Lineout|S|Slider|6|1|0|0|14|86
+Tim Melville|R|Starling Marte|R|Lineout|B|Four-Seam Fastball|7|1|1|0|11|89
+Tim Melville|R|Starling Marte|R|Lineout|F|Slider|8|2|1|0|14|80
+Tim Melville|R|Starling Marte|R|Lineout|X|Slider|9|2|2|0|6|84
+Tim Melville|R|Josh Bell|L|Single|F|Four-Seam Fastball|10|0|0|1|13|91
+Tim Melville|R|Josh Bell|L|Single|D|Four-Seam Fastball|11|0|1|1|11|90
+Tim Melville|R|Colin Moran|L|Sac Fly|F|Slider|12|0|0|1|3|84
+Tim Melville|R|Colin Moran|L|Sac Fly|B|Slider|13|0|1|1|11|85
+Tim Melville|R|Colin Moran|L|Sac Fly|B|Four-Seam Fastball|14|1|1|1|12|90
+Tim Melville|R|Colin Moran|L|Sac Fly|S|Slider|15|2|1|1|14|85
+Tim Melville|R|Colin Moran|L|Sac Fly|E|Slider|16|2|2|1|8|83
+Tim Melville|R|Jose Osuna|R|Forceout|X|Slider|17|0|0|2|6|85
+Tim Melville|R|Adam Frazier|L|Single|C|Four-Seam Fastball|18|0|0|0|13|89
+Tim Melville|R|Adam Frazier|L|Single|F|Slider|19|0|1|0|5|82
+Tim Melville|R|Adam Frazier|L|Single|B|Four-Seam Fastball|20|0|2|0|11|91
+Tim Melville|R|Adam Frazier|L|Single|B|Four-Seam Fastball|21|1|2|0|11|90
+Tim Melville|R|Adam Frazier|L|Single|B|Slider|22|2|2|0|11|83
+Tim Melville|R|Adam Frazier|L|Single|D|Slider|23|3|2|0|5|85
+Tim Melville|R|Jacob Stallings|R|Single|S|Slider|24|0|0|0|14|83
+Tim Melville|R|Jacob Stallings|R|Single|D|Four-Seam Fastball|25|0|1|0|12|89
+Tim Melville|R|Joe Musgrove|R|Strikeout|S|Slider|26|0|0|0|14|83
+Tim Melville|R|Joe Musgrove|R|Strikeout|S|Slider|27|0|1|0|14|84
+Tim Melville|R|Joe Musgrove|R|Strikeout|*B|Slider|28|0|2|0|14|83
+Tim Melville|R|Joe Musgrove|R|Strikeout|S|Slider|29|1|2|0|14|83
+Tim Melville|R|Kevin Newman|R|Single|E|Slider|30|0|0|1|9|85
+Tim Melville|R|Bryan Reynolds|L|Double|F|Slider|31|0|0|1|2|83
+Tim Melville|R|Bryan Reynolds|L|Double|B|Four-Seam Fastball|32|0|1|1|11|90
+Tim Melville|R|Bryan Reynolds|L|Double|B|Four-Seam Fastball|33|1|1|1|11|89
+Tim Melville|R|Bryan Reynolds|L|Double|F|Slider|34|2|1|1|5|85
+Tim Melville|R|Bryan Reynolds|L|Double|E|Slider|35|2|2|1|8|84
+Tim Melville|R|Starling Marte|R|Walk|B|Four-Seam Fastball|36|0|0|1|13|87
+Tim Melville|R|Starling Marte|R|Walk|C|Slider|37|1|0|1|13|83
+Tim Melville|R|Starling Marte|R|Walk|B|Four-Seam Fastball|38|1|1|1|11|87
+Tim Melville|R|Starling Marte|R|Walk|*B|Slider|39|2|1|1|14|84
+Tim Melville|R|Starling Marte|R|Walk|B|Four-Seam Fastball|40|3|1|1|12|88
+Tim Melville|R|Josh Bell|L|Forceout|C|Slider|41|0|0|1|11|83
+Tim Melville|R|Josh Bell|L|Forceout|S|Slider|42|0|1|1|13|83
+Tim Melville|R|Josh Bell|L|Forceout|*B|Slider|43|0|2|1|14|83
+Tim Melville|R|Josh Bell|L|Forceout|B|Four-Seam Fastball|44|1|2|1|11|89
+Tim Melville|R|Josh Bell|L|Forceout|X|Slider|45|2|2|1|13|84
+Tim Melville|R|Colin Moran|L|Walk|B|Four-Seam Fastball|46|0|0|2|11|89
+Tim Melville|R|Colin Moran|L|Walk|C|Slider|47|1|0|2|9|80
+Tim Melville|R|Colin Moran|L|Walk|B|Four-Seam Fastball|48|1|1|2|13|88
+Tim Melville|R|Colin Moran|L|Walk|B|Four-Seam Fastball|49|2|1|2|13|89
+Tim Melville|R|Colin Moran|L|Walk|B|Four-Seam Fastball|50|3|1|2|13|89
+Tim Melville|R|Jose Osuna|R|Groundout|*B|Slider|51|0|0|2|14|82
+Tim Melville|R|Jose Osuna|R|Groundout|B|Slider|52|1|0|2|14|83
+Tim Melville|R|Jose Osuna|R|Groundout|C|Slider|53|2|0|2|6|83
+Tim Melville|R|Jose Osuna|R|Groundout|F|Slider|54|2|1|2|4|84
+Tim Melville|R|Jose Osuna|R|Groundout|F|Slider|55|2|2|2|14|84
+Tim Melville|R|Jose Osuna|R|Groundout|F|Slider|56|2|2|2|14|83
+Tim Melville|R|Jose Osuna|R|Groundout|X|Curveball|57|2|2|2|13|75
+Tim Melville|R|Dexter Fowler|L|Home Run|E|Four-Seam Fastball|0|0|0|0|14|89
+Tim Melville|R|Kolten Wong|L|Home Run|C|Slider|1|0|0|0|4|82
+Tim Melville|R|Kolten Wong|L|Home Run|F|Slider|2|0|1|0|14|83
+Tim Melville|R|Kolten Wong|L|Home Run|B|Slider|3|0|2|0|14|84
+Tim Melville|R|Kolten Wong|L|Home Run|E|Four-Seam Fastball|4|1|2|0|4|89
+Tim Melville|R|Paul DeJong|R|Groundout|C|Slider|5|0|0|0|8|84
+Tim Melville|R|Paul DeJong|R|Groundout|S|Slider|6|0|1|0|14|84
+Tim Melville|R|Paul DeJong|R|Groundout|B|Slider|7|0|2|0|13|86
+Tim Melville|R|Paul DeJong|R|Groundout|B|Slider|8|1|2|0|14|84
+Tim Melville|R|Paul DeJong|R|Groundout|X|Changeup|9|2|2|0|11|84
+Tim Melville|R|Marcell Ozuna|R|Strikeout|C|Slider|10|0|0|1|2|84
+Tim Melville|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|11|0|1|1|4|88
+Tim Melville|R|Marcell Ozuna|R|Strikeout|S|Slider|12|0|2|1|14|83
+Tim Melville|R|Matt Carpenter|L|Groundout|C|Slider|13|0|0|2|13|83
+Tim Melville|R|Matt Carpenter|L|Groundout|B|Changeup|14|0|1|2|13|84
+Tim Melville|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|15|1|1|2|12|89
+Tim Melville|R|Matt Carpenter|L|Groundout|F|Slider|16|2|1|2|13|82
+Tim Melville|R|Matt Carpenter|L|Groundout|X|Four-Seam Fastball|17|2|2|2|2|88
+Tim Melville|R|Rangel Ravelo|R|Home Run|C|Slider|18|0|0|0|2|83
+Tim Melville|R|Rangel Ravelo|R|Home Run|B|Four-Seam Fastball|19|0|1|0|14|89
+Tim Melville|R|Rangel Ravelo|R|Home Run|B|Changeup|20|1|1|0|11|82
+Tim Melville|R|Rangel Ravelo|R|Home Run|E|Slider|21|2|1|0|2|84
+Tim Melville|R|Andrew Knizner|R|Single|B|Four-Seam Fastball|22|0|0|0|11|89
+Tim Melville|R|Andrew Knizner|R|Single|S|Slider|23|1|0|0|14|83
+Tim Melville|R|Andrew Knizner|R|Single|B|Slider|24|1|1|0|11|83
+Tim Melville|R|Andrew Knizner|R|Single|D|Slider|25|2|1|0|6|82
+Tim Melville|R|Harrison Bader|R|Walk|*B|Slider|26|0|0|0|13|83
+Tim Melville|R|Harrison Bader|R|Walk|C|Slider|27|1|0|0|4|83
+Tim Melville|R|Harrison Bader|R|Walk|B|Slider|28|1|1|0|11|83
+Tim Melville|R|Harrison Bader|R|Walk|B|Slider|29|2|1|0|11|82
+Tim Melville|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|30|3|1|0|11|87
+Tim Melville|R|Miles Mikolas|R|Forceout|X|Changeup|31|0|0|0|11|84
+Tim Melville|R|Dexter Fowler|L|Walk|S|Slider|32|0|0|1|14|84
+Tim Melville|R|Dexter Fowler|L|Walk|*B|Slider|33|0|1|1|13|83
+Tim Melville|R|Dexter Fowler|L|Walk|B|Changeup|34|1|1|1|11|84
+Tim Melville|R|Dexter Fowler|L|Walk|B|Slider|35|2|1|1|13|81
+Tim Melville|R|Dexter Fowler|L|Walk|F|Four-Seam Fastball|36|3|1|1|7|88
+Tim Melville|R|Dexter Fowler|L|Walk|B|Slider|37|3|2|1|11|84
+Tim Melville|R|Kolten Wong|L|Sac Fly|C|Slider|38|0|0|1|11|85
+Tim Melville|R|Kolten Wong|L|Sac Fly|E|Four-Seam Fastball|39|0|1|1|2|89
+Tim Melville|R|Paul DeJong|R|Groundout|F|Slider|40|0|0|2|9|84
+Tim Melville|R|Paul DeJong|R|Groundout|X|Slider|41|0|1|2|14|85
+Tim Melville|R|Marcell Ozuna|R|Home Run|B|Curveball|42|0|0|0|12|71
+Tim Melville|R|Marcell Ozuna|R|Home Run|B|Slider|43|1|0|0|14|81
+Tim Melville|R|Marcell Ozuna|R|Home Run|S|Slider|44|2|0|0|13|82
+Tim Melville|R|Marcell Ozuna|R|Home Run|F|Slider|45|2|1|0|6|84
+Tim Melville|R|Marcell Ozuna|R|Home Run|E|Changeup|46|2|2|0|14|84
+Tim Melville|R|Matt Carpenter|L|Pop Out|C|Slider|47|0|0|0|4|82
+Tim Melville|R|Matt Carpenter|L|Pop Out|C|Slider|48|0|1|0|7|83
+Tim Melville|R|Matt Carpenter|L|Pop Out|B|Four-Seam Fastball|49|0|2|0|11|88
+Tim Melville|R|Matt Carpenter|L|Pop Out|F|Slider|50|1|2|0|13|85
+Tim Melville|R|Matt Carpenter|L|Pop Out|X|Slider|51|1|2|0|5|85
+Tim Melville|R|Rangel Ravelo|R|Lineout|C|Slider|52|0|0|1|1|83
+Tim Melville|R|Rangel Ravelo|R|Lineout|X|Slider|53|0|1|1|14|84
+Tim Melville|R|Andrew Knizner|R|Groundout|X|Curveball|54|0|0|2|14|70
+Tim Melville|R|Brandon Nimmo|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|90
+Tim Melville|R|Brandon Nimmo|L|Groundout|F|Four-Seam Fastball|1|1|0|0|9|89
+Tim Melville|R|Brandon Nimmo|L|Groundout|B|Curveball|2|1|1|0|14|77
+Tim Melville|R|Brandon Nimmo|L|Groundout|F|Four-Seam Fastball|3|2|1|0|5|90
+Tim Melville|R|Brandon Nimmo|L|Groundout|F|Slider|4|2|2|0|5|86
+Tim Melville|R|Brandon Nimmo|L|Groundout|B|Four-Seam Fastball|5|2|2|0|14|90
+Tim Melville|R|Brandon Nimmo|L|Groundout|X|Four-Seam Fastball|6|3|2|0|13|89
+Tim Melville|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|7|0|0|1|13|90
+Tim Melville|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|8|1|0|1|12|89
+Tim Melville|R|Jeff McNeil|L|Walk|S|Slider|9|2|0|1|13|85
+Tim Melville|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|10|2|1|1|14|89
+Tim Melville|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|11|3|1|1|5|89
+Tim Melville|R|Jeff McNeil|L|Walk|F|Slider|12|3|2|1|9|85
+Tim Melville|R|Jeff McNeil|L|Walk|B|Slider|13|3|2|1|14|86
+Tim Melville|R|Pete Alonso|R|Grounded Into DP|B|Slider|14|0|0|1|14|84
+Tim Melville|R|Pete Alonso|R|Grounded Into DP|*B|Slider|15|1|0|1|14|85
+Tim Melville|R|Pete Alonso|R|Grounded Into DP|*B|Slider|16|2|0|1|14|85
+Tim Melville|R|Pete Alonso|R|Grounded Into DP|C|Four-Seam Fastball|17|3|0|1|6|90
+Tim Melville|R|Pete Alonso|R|Grounded Into DP|X|Four-Seam Fastball|18|3|1|1|9|91
+Tim Melville|R|Robinson Cano|L|Flyout|X|Four-Seam Fastball|19|0|0|0|1|88
+Tim Melville|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|20|0|0|1|9|89
+Tim Melville|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|21|0|1|1|1|89
+Tim Melville|R|Wilson Ramos|R|Strikeout|B|Curveball|22|0|2|1|14|78
+Tim Melville|R|Wilson Ramos|R|Strikeout|S|Slider|23|1|2|1|14|84
+Tim Melville|R|Michael Conforto|L|Groundout|C|Slider|24|0|0|2|7|84
+Tim Melville|R|Michael Conforto|L|Groundout|B|Curveball|25|0|1|2|14|76
+Tim Melville|R|Michael Conforto|L|Groundout|X|Four-Seam Fastball|26|1|1|2|8|90
+Tim Melville|R|Todd Frazier|R|Groundout|C|Four-Seam Fastball|27|0|0|0|2|88
+Tim Melville|R|Todd Frazier|R|Groundout|X|Slider|28|0|1|0|5|83
+Tim Melville|R|Amed Rosario|R|Single|B|Curveball|29|0|0|1|14|72
+Tim Melville|R|Amed Rosario|R|Single|C|Slider|30|1|0|1|2|82
+Tim Melville|R|Amed Rosario|R|Single|F|Slider|31|1|1|1|14|84
+Tim Melville|R|Amed Rosario|R|Single|D|Curveball|32|1|2|1|9|78
+Tim Melville|R|Marcus Stroman|R|Grounded Into DP|X|Four-Seam Fastball|33|0|0|1|12|88
+Tim Melville|R|Brandon Nimmo|L|Strikeout|S|Slider|34|0|0|0|14|81
+Tim Melville|R|Brandon Nimmo|L|Strikeout|B|Four-Seam Fastball|35|0|1|0|14|88
+Tim Melville|R|Brandon Nimmo|L|Strikeout|B|Slider|36|1|1|0|11|84
+Tim Melville|R|Brandon Nimmo|L|Strikeout|B|Slider|37|2|1|0|11|83
+Tim Melville|R|Brandon Nimmo|L|Strikeout|F|Slider|38|3|1|0|11|83
+Tim Melville|R|Brandon Nimmo|L|Strikeout|F|Slider|39|3|2|0|11|83
+Tim Melville|R|Brandon Nimmo|L|Strikeout|S|Four-Seam Fastball|40|3|2|0|11|89
+Tim Melville|R|Jeff McNeil|L|Groundout|F|Slider|41|0|0|1|8|84
+Tim Melville|R|Jeff McNeil|L|Groundout|F|Changeup|42|0|1|1|13|83
+Tim Melville|R|Jeff McNeil|L|Groundout|F|Slider|43|0|2|1|14|83
+Tim Melville|R|Jeff McNeil|L|Groundout|X|Slider|44|0|2|1|13|84
+Tim Melville|R|Pete Alonso|R|Groundout|X|Four-Seam Fastball|45|0|0|2|9|89
+Tim Melville|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|46|0|0|0|13|88
+Tim Melville|R|Robinson Cano|L|Groundout|C|Slider|47|1|0|0|11|82
+Tim Melville|R|Robinson Cano|L|Groundout|B|Slider|48|1|1|0|13|84
+Tim Melville|R|Robinson Cano|L|Groundout|B|Changeup|49|2|1|0|13|82
+Tim Melville|R|Robinson Cano|L|Groundout|X|Slider|50|3|1|0|13|84
+Tim Melville|R|Wilson Ramos|R|Single|S|Slider|51|0|0|1|7|82
+Tim Melville|R|Wilson Ramos|R|Single|F|Curveball|52|0|1|1|3|75
+Tim Melville|R|Wilson Ramos|R|Single|D|Four-Seam Fastball|53|0|2|1|12|89
+Tim Melville|R|Michael Conforto|L|Double Play|B|Slider|54|0|0|1|11|82
+Tim Melville|R|Michael Conforto|L|Double Play|B|Slider|55|1|0|1|13|82
+Tim Melville|R|Michael Conforto|L|Double Play|X|Four-Seam Fastball|56|2|0|1|13|89
+Tim Melville|R|Todd Frazier|R|Single|B|Slider|57|0|0|0|14|82
+Tim Melville|R|Todd Frazier|R|Single|C|Slider|58|1|0|0|8|83
+Tim Melville|R|Todd Frazier|R|Single|B|Slider|59|1|1|0|14|84
+Tim Melville|R|Todd Frazier|R|Single|D|Four-Seam Fastball|60|2|1|0|5|88
+Tim Melville|R|Amed Rosario|R|Home Run|C|Four-Seam Fastball|61|0|0|0|7|88
+Tim Melville|R|Amed Rosario|R|Home Run|B|Slider|62|0|1|0|13|82
+Tim Melville|R|Amed Rosario|R|Home Run|E|Slider|63|1|1|0|1|77
+Tim Melville|R|Marcus Stroman|R|Groundout|S|Slider|64|0|0|0|14|83
+Tim Melville|R|Marcus Stroman|R|Groundout|B|Four-Seam Fastball|65|0|1|0|14|90
+Tim Melville|R|Marcus Stroman|R|Groundout|S|Slider|66|1|1|0|14|82
+Tim Melville|R|Marcus Stroman|R|Groundout|X|Four-Seam Fastball|67|1|2|0|6|90
+Tim Melville|R|Brandon Nimmo|L|Home Run|E|Slider|68|0|0|1|4|84
+Tim Melville|R|Jeff McNeil|L|Flyout|B|Four-Seam Fastball|69|0|0|1|12|88
+Tim Melville|R|Jeff McNeil|L|Flyout|F|Slider|70|1|0|1|13|83
+Tim Melville|R|Jeff McNeil|L|Flyout|B|Curveball|71|1|1|1|14|73
+Tim Melville|R|Jeff McNeil|L|Flyout|X|Slider|72|2|1|1|6|83
+Tim Melville|R|Pete Alonso|R|Home Run|B|Four-Seam Fastball|73|0|0|2|14|88
+Tim Melville|R|Pete Alonso|R|Home Run|B|Slider|74|1|0|2|14|84
+Tim Melville|R|Pete Alonso|R|Home Run|B|Slider|75|2|0|2|14|85
+Tim Melville|R|Pete Alonso|R|Home Run|E|Four-Seam Fastball|76|3|0|2|5|89
+Tim Melville|R|Greg Garcia|L|Walk|C|Four-Seam Fastball|0|0|0|0|5|88
+Tim Melville|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|1|0|1|0|14|88
+Tim Melville|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|2|1|1|0|14|88
+Tim Melville|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|3|2|1|0|11|87
+Tim Melville|R|Greg Garcia|L|Walk|C|Four-Seam Fastball|4|3|1|0|11|86
+Tim Melville|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|90
+Tim Melville|R|Nick Martini|L|Single|C|Four-Seam Fastball|6|0|0|0|1|88
+Tim Melville|R|Nick Martini|L|Single|C|Slider|7|0|1|0|11|83
+Tim Melville|R|Nick Martini|L|Single|D|N/A|8|0|2|0|0|0
+Tim Melville|R|Manny Machado|R|Double Play|B|Slider|9|0|0|0|14|83
+Tim Melville|R|Manny Machado|R|Double Play|C|Slider|10|1|0|0|5|84
+Tim Melville|R|Manny Machado|R|Double Play|*B|Slider|11|1|1|0|14|85
+Tim Melville|R|Manny Machado|R|Double Play|F|Four-Seam Fastball|12|2|1|0|14|89
+Tim Melville|R|Manny Machado|R|Double Play|X|Slider|13|2|2|0|4|83
+Tim Melville|R|Eric Hosmer|L|Strikeout|C|Slider|14|0|0|2|7|82
+Tim Melville|R|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|15|0|1|2|13|91
+Tim Melville|R|Eric Hosmer|L|Strikeout|W|Slider|16|0|2|2|14|85
+Tim Melville|R|Josh Naylor|L|Pop Out|C|Four-Seam Fastball|17|0|0|0|8|89
+Tim Melville|R|Josh Naylor|L|Pop Out|X|Curveball|18|0|1|0|8|77
+Tim Melville|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|19|0|0|1|12|89
+Tim Melville|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|20|0|1|1|11|89
+Tim Melville|R|Wil Myers|R|Strikeout|S|Slider|21|1|1|1|9|85
+Tim Melville|R|Wil Myers|R|Strikeout|B|Slider|22|1|2|1|12|84
+Tim Melville|R|Wil Myers|R|Strikeout|F|Four-Seam Fastball|23|2|2|1|11|91
+Tim Melville|R|Wil Myers|R|Strikeout|S|Slider|24|2|2|1|6|83
+Tim Melville|R|Austin Allen|L|Single|F|Slider|25|0|0|2|5|83
+Tim Melville|R|Austin Allen|L|Single|D|Curveball|26|0|1|2|7|76
+Tim Melville|R|Luis Urias|R|Walk|B|Four-Seam Fastball|27|0|0|2|12|89
+Tim Melville|R|Luis Urias|R|Walk|B|Slider|28|1|0|2|13|84
+Tim Melville|R|Luis Urias|R|Walk|B|Slider|29|2|0|2|13|82
+Tim Melville|R|Luis Urias|R|Walk|B|Four-Seam Fastball|30|3|0|2|12|89
+Tim Melville|R|Dinelson Lamet|R|Strikeout|*B|Slider|31|0|0|2|14|82
+Tim Melville|R|Dinelson Lamet|R|Strikeout|B|Four-Seam Fastball|32|1|0|2|11|86
+Tim Melville|R|Dinelson Lamet|R|Strikeout|T|Slider|33|2|0|2|8|82
+Tim Melville|R|Dinelson Lamet|R|Strikeout|C|Slider|34|2|1|2|1|83
+Tim Melville|R|Dinelson Lamet|R|Strikeout|C|Slider|35|2|2|2|8|85
+Tim Melville|R|Greg Garcia|L|Hit By Pitch|H|Four-Seam Fastball|36|0|0|0|14|88
+Tim Melville|R|Nick Martini|L|Double|C|Four-Seam Fastball|37|0|0|0|13|88
+Tim Melville|R|Nick Martini|L|Double|D|Four-Seam Fastball|38|0|1|0|14|90
+Tim Melville|R|Manny Machado|R|Strikeout|C|Slider|39|0|0|0|2|84
+Tim Melville|R|Manny Machado|R|Strikeout|*B|Slider|40|0|1|0|14|86
+Tim Melville|R|Manny Machado|R|Strikeout|B|Four-Seam Fastball|41|1|1|0|11|88
+Tim Melville|R|Manny Machado|R|Strikeout|S|Slider|42|2|1|0|14|82
+Tim Melville|R|Manny Machado|R|Strikeout|W|Slider|43|2|2|0|14|84
+Tim Melville|R|Eric Hosmer|L|Single|F|Four-Seam Fastball|44|0|0|1|11|89
+Tim Melville|R|Eric Hosmer|L|Single|E|Four-Seam Fastball|45|0|1|1|7|89
+Tim Melville|R|Josh Naylor|L|Flyout|*B|Curveball|46|0|0|1|14|75
+Tim Melville|R|Josh Naylor|L|Flyout|B|Slider|47|1|0|1|13|82
+Tim Melville|R|Josh Naylor|L|Flyout|*B|Slider|48|2|0|1|14|84
+Tim Melville|R|Josh Naylor|L|Flyout|T|Four-Seam Fastball|49|3|0|1|11|88
+Tim Melville|R|Josh Naylor|L|Flyout|F|Four-Seam Fastball|50|3|1|1|11|89
+Tim Melville|R|Josh Naylor|L|Flyout|X|Slider|51|3|2|1|5|84
+Tim Melville|R|Wil Myers|R|Strikeout|S|Slider|52|0|0|2|14|83
+Tim Melville|R|Wil Myers|R|Strikeout|C|Slider|53|0|1|2|14|84
+Tim Melville|R|Wil Myers|R|Strikeout|*B|Slider|54|0|2|2|14|84
+Tim Melville|R|Wil Myers|R|Strikeout|S|Slider|55|1|2|2|5|86
+Tim Melville|R|Austin Allen|L|Flyout|C|Four-Seam Fastball|56|0|0|0|6|88
+Tim Melville|R|Austin Allen|L|Flyout|B|Curveball|57|0|1|0|11|76
+Tim Melville|R|Austin Allen|L|Flyout|F|Curveball|58|1|1|0|8|76
+Tim Melville|R|Austin Allen|L|Flyout|F|Four-Seam Fastball|59|1|2|0|2|89
+Tim Melville|R|Austin Allen|L|Flyout|X|Curveball|60|1|2|0|13|78
+Tim Melville|R|Luis Urias|R|Groundout|B|Slider|61|0|0|1|11|83
+Tim Melville|R|Luis Urias|R|Groundout|C|Slider|62|1|0|1|11|83
+Tim Melville|R|Luis Urias|R|Groundout|X|Four-Seam Fastball|63|1|1|1|6|88
+Tim Melville|R|Dinelson Lamet|R|Groundout|C|Four-Seam Fastball|64|0|0|2|3|87
+Tim Melville|R|Dinelson Lamet|R|Groundout|F|Slider|65|0|1|2|13|80
+Tim Melville|R|Dinelson Lamet|R|Groundout|X|Slider|66|0|2|2|6|82
+Tim Melville|R|Greg Garcia|L|Strikeout|C|Slider|67|0|0|0|4|82
+Tim Melville|R|Greg Garcia|L|Strikeout|B|Slider|68|0|1|0|14|83
+Tim Melville|R|Greg Garcia|L|Strikeout|B|Four-Seam Fastball|69|1|1|0|13|89
+Tim Melville|R|Greg Garcia|L|Strikeout|C|Slider|70|2|1|0|1|83
+Tim Melville|R|Greg Garcia|L|Strikeout|C|Slider|71|2|2|0|9|83
+Tim Melville|R|Nick Martini|L|Groundout|B|Curveball|72|0|0|1|13|75
+Tim Melville|R|Nick Martini|L|Groundout|C|Four-Seam Fastball|73|1|0|1|8|89
+Tim Melville|R|Nick Martini|L|Groundout|B|Changeup|74|1|1|1|14|81
+Tim Melville|R|Nick Martini|L|Groundout|F|Slider|75|2|1|1|11|81
+Tim Melville|R|Nick Martini|L|Groundout|X|Slider|76|2|2|1|14|81
+Tim Melville|R|Manny Machado|R|Strikeout|C|Four-Seam Fastball|77|0|0|2|6|90
+Tim Melville|R|Manny Machado|R|Strikeout|B|Four-Seam Fastball|78|0|1|2|14|90
+Tim Melville|R|Manny Machado|R|Strikeout|S|Changeup|79|1|1|2|14|82
+Tim Melville|R|Manny Machado|R|Strikeout|B|Slider|80|1|2|2|14|84
+Tim Melville|R|Manny Machado|R|Strikeout|S|Slider|81|2|2|2|14|83
+Tim Melville|R|Eric Hosmer|L|Strikeout|S|Curveball|82|0|0|0|13|73
+Tim Melville|R|Eric Hosmer|L|Strikeout|B|Slider|83|0|1|0|14|81
+Tim Melville|R|Eric Hosmer|L|Strikeout|S|Slider|84|1|1|0|2|80
+Tim Melville|R|Eric Hosmer|L|Strikeout|T|Slider|85|1|2|0|14|83
+Tim Melville|R|Josh Naylor|L|Groundout|C|Slider|86|0|0|1|13|81
+Tim Melville|R|Josh Naylor|L|Groundout|F|Changeup|87|0|1|1|13|82
+Tim Melville|R|Josh Naylor|L|Groundout|B|Curveball|88|0|2|1|14|76
+Tim Melville|R|Josh Naylor|L|Groundout|F|Four-Seam Fastball|89|1|2|1|6|87
+Tim Melville|R|Josh Naylor|L|Groundout|F|Slider|90|1|2|1|14|82
+Tim Melville|R|Josh Naylor|L|Groundout|F|Changeup|91|1|2|1|13|83
+Tim Melville|R|Josh Naylor|L|Groundout|X|Slider|92|1|2|1|5|82
+Tim Melville|R|Wil Myers|R|Single|F|Slider|93|0|0|2|8|80
+Tim Melville|R|Wil Myers|R|Single|B|Four-Seam Fastball|94|0|1|2|12|88
+Tim Melville|R|Wil Myers|R|Single|B|Slider|95|1|1|2|14|83
+Tim Melville|R|Wil Myers|R|Single|B|Slider|96|2|1|2|11|82
+Tim Melville|R|Wil Myers|R|Single|D|Four-Seam Fastball|97|3|1|2|5|89
+Tim Melville|R|Brandon Crawford|L|Strikeout|S|Slider|0|0|0|0|14|82
+Tim Melville|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|88
+Tim Melville|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|11|86
+Tim Melville|R|Brandon Crawford|L|Strikeout|C|Slider|3|2|1|0|1|82
+Tim Melville|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|14|89
+Tim Melville|R|Brandon Crawford|L|Strikeout|F|Four-Seam Fastball|5|3|2|0|13|89
+Tim Melville|R|Brandon Crawford|L|Strikeout|S|Slider|6|3|2|0|14|84
+Tim Melville|R|Mike Yastrzemski|L|Pop Out|F|Four-Seam Fastball|7|0|0|1|2|86
+Tim Melville|R|Mike Yastrzemski|L|Pop Out|F|Curveball|8|0|1|1|9|77
+Tim Melville|R|Mike Yastrzemski|L|Pop Out|X|Slider|9|0|2|1|13|83
+Tim Melville|R|Kevin Pillar|R|Groundout|B|Four-Seam Fastball|10|0|0|2|12|88
+Tim Melville|R|Kevin Pillar|R|Groundout|F|Slider|11|1|0|2|14|82
+Tim Melville|R|Kevin Pillar|R|Groundout|X|Slider|12|1|1|2|8|82
+Tim Melville|R|Stephen Vogt|L|Single|C|Four-Seam Fastball|13|0|0|0|2|86
+Tim Melville|R|Stephen Vogt|L|Single|F|Four-Seam Fastball|14|0|1|0|12|89
+Tim Melville|R|Stephen Vogt|L|Single|F|Curveball|15|0|2|0|13|77
+Tim Melville|R|Stephen Vogt|L|Single|D|Slider|16|0|2|0|13|82
+Tim Melville|R|Cristhian Adames|L|Strikeout|B|Four-Seam Fastball|17|0|0|0|14|87
+Tim Melville|R|Cristhian Adames|L|Strikeout|B|Four-Seam Fastball|18|1|0|0|11|87
+Tim Melville|R|Cristhian Adames|L|Strikeout|F|Four-Seam Fastball|19|2|0|0|8|87
+Tim Melville|R|Cristhian Adames|L|Strikeout|F|Four-Seam Fastball|20|2|1|0|14|89
+Tim Melville|R|Cristhian Adames|L|Strikeout|B|Slider|21|2|2|0|13|81
+Tim Melville|R|Cristhian Adames|L|Strikeout|S|Slider|22|3|2|0|13|83
+Tim Melville|R|Chris Shaw|L|Groundout|S|Four-Seam Fastball|23|0|0|1|8|88
+Tim Melville|R|Chris Shaw|L|Groundout|S|Slider|24|0|1|1|7|82
+Tim Melville|R|Chris Shaw|L|Groundout|B|Slider|25|0|2|1|13|81
+Tim Melville|R|Chris Shaw|L|Groundout|F|Slider|26|1|2|1|13|81
+Tim Melville|R|Chris Shaw|L|Groundout|B|Curveball|27|1|2|1|13|76
+Tim Melville|R|Chris Shaw|L|Groundout|B|Slider|28|2|2|1|13|82
+Tim Melville|R|Chris Shaw|L|Groundout|X|Slider|29|3|2|1|7|83
+Tim Melville|R|Jaylin Davis|R|Groundout|X|Slider|30|0|0|2|13|82
+Tim Melville|R|Mauricio Dubon|R|Single|D|Slider|31|0|0|0|14|78
+Tim Melville|R|Jeff Samardzija|R|Sac Bunt|B|Slider|32|0|0|0|14|79
+Tim Melville|R|Jeff Samardzija|R|Sac Bunt|L|Slider|33|1|0|0|7|78
+Tim Melville|R|Jeff Samardzija|R|Sac Bunt|X|Slider|34|1|1|0|5|80
+Tim Melville|R|Brandon Crawford|L|Groundout|X|Slider|35|0|0|1|8|80
+Tim Melville|R|Mike Yastrzemski|L|Walk|B|Slider|36|0|0|2|13|82
+Tim Melville|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|37|1|0|2|13|89
+Tim Melville|R|Mike Yastrzemski|L|Walk|*B|Slider|38|2|0|2|14|87
+Tim Melville|R|Mike Yastrzemski|L|Walk|B|Slider|39|3|0|2|11|82
+Tim Melville|R|Kevin Pillar|R|Single|C|Slider|40|0|0|2|14|82
+Tim Melville|R|Kevin Pillar|R|Single|E|Slider|41|0|1|2|6|82
+Tim Melville|R|Stephen Vogt|L|Groundout|F|Four-Seam Fastball|42|0|0|2|12|88
+Tim Melville|R|Stephen Vogt|L|Groundout|B|Slider|43|0|1|2|11|80
+Tim Melville|R|Stephen Vogt|L|Groundout|X|Slider|44|1|1|2|13|83
+Tim Melville|R|Cristhian Adames|L|Groundout|C|Four-Seam Fastball|45|0|0|0|2|86
+Tim Melville|R|Cristhian Adames|L|Groundout|X|Slider|46|0|1|0|13|80
+Tim Melville|R|Chris Shaw|L|Groundout|F|Four-Seam Fastball|47|0|0|1|4|86
+Tim Melville|R|Chris Shaw|L|Groundout|X|Curveball|48|0|1|1|13|76
+Tim Melville|R|Jaylin Davis|R|Groundout|B|Four-Seam Fastball|49|0|0|2|14|89
+Tim Melville|R|Jaylin Davis|R|Groundout|B|Four-Seam Fastball|50|1|0|2|14|87
+Tim Melville|R|Jaylin Davis|R|Groundout|B|Four-Seam Fastball|51|2|0|2|14|88
+Tim Melville|R|Jaylin Davis|R|Groundout|C|Slider|52|3|0|2|8|79
+Tim Melville|R|Jaylin Davis|R|Groundout|X|Four-Seam Fastball|53|3|1|2|14|88
+Tim Melville|R|Mauricio Dubon|R|Single|B|Changeup|54|0|0|0|11|81
+Tim Melville|R|Mauricio Dubon|R|Single|B|Curveball|55|1|0|0|14|75
+Tim Melville|R|Mauricio Dubon|R|Single|B|Slider|56|2|0|0|14|82
+Tim Melville|R|Mauricio Dubon|R|Single|C|Four-Seam Fastball|57|3|0|0|1|86
+Tim Melville|R|Mauricio Dubon|R|Single|F|Slider|58|3|1|0|5|82
+Tim Melville|R|Mauricio Dubon|R|Single|D|Four-Seam Fastball|59|3|2|0|3|88
+Tim Melville|R|Jeff Samardzija|R|Bunt Pop Out|F|Slider|60|0|0|0|11|80
+Tim Melville|R|Jeff Samardzija|R|Bunt Pop Out|B|Slider|61|0|1|0|14|82
+Tim Melville|R|Jeff Samardzija|R|Bunt Pop Out|X|Slider|62|1|1|0|11|82
+Tim Melville|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|63|0|0|1|11|88
+Tim Melville|R|Brandon Crawford|L|Walk|B|Slider|64|1|0|1|13|82
+Tim Melville|R|Brandon Crawford|L|Walk|C|Slider|65|2|0|1|11|81
+Tim Melville|R|Brandon Crawford|L|Walk|*B|Slider|66|2|1|1|13|82
+Tim Melville|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|67|3|1|1|11|89
+Tim Melville|R|Mike Yastrzemski|L|Flyout|B|Four-Seam Fastball|68|0|0|1|12|87
+Tim Melville|R|Mike Yastrzemski|L|Flyout|B|Four-Seam Fastball|69|1|0|1|11|88
+Tim Melville|R|Mike Yastrzemski|L|Flyout|F|Slider|70|2|0|1|8|80
+Tim Melville|R|Mike Yastrzemski|L|Flyout|F|Changeup|71|2|1|1|5|82
+Tim Melville|R|Mike Yastrzemski|L|Flyout|X|Four-Seam Fastball|72|2|2|1|11|88
+Tim Melville|R|Kevin Pillar|R|Lineout|C|Four-Seam Fastball|73|0|0|2|9|89
+Tim Melville|R|Kevin Pillar|R|Lineout|X|Changeup|74|0|1|2|12|77
+Tim Melville|R|John Jaso|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|90
+Tim Melville|R|John Jaso|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|89
+Tim Melville|R|John Jaso|L|Walk|B|Slider|2|2|0|0|14|84
+Tim Melville|R|John Jaso|L|Walk|C|Four-Seam Fastball|3|3|0|0|7|90
+Tim Melville|R|John Jaso|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Tim Melville|R|Andrew McCutchen|R|Walk|*B|Slider|5|0|0|0|14|85
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|6|1|0|0|14|88
+Tim Melville|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|7|2|0|0|11|89
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Slider|8|2|1|0|14|85
+Tim Melville|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|9|3|1|0|7|89
+Tim Melville|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|10|3|2|0|11|92
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Curveball|11|3|2|0|13|77
+Tim Melville|R|David Freese|R|Lineout|C|Four-Seam Fastball|12|0|0|0|11|91
+Tim Melville|R|David Freese|R|Lineout|B|Four-Seam Fastball|13|0|1|0|13|91
+Tim Melville|R|David Freese|R|Lineout|S|Four-Seam Fastball|14|1|1|0|5|92
+Tim Melville|R|David Freese|R|Lineout|F|Four-Seam Fastball|15|1|2|0|5|91
+Tim Melville|R|David Freese|R|Lineout|B|Slider|16|1|2|0|14|84
+Tim Melville|R|David Freese|R|Lineout|B|Slider|17|2|2|0|13|83
+Tim Melville|R|David Freese|R|Lineout|F|Four-Seam Fastball|18|3|2|0|4|91
+Tim Melville|R|David Freese|R|Lineout|X|Four-Seam Fastball|19|3|2|0|2|90
+Tim Melville|R|Starling Marte|R|Strikeout|S|Four-Seam Fastball|20|0|0|1|11|91
+Tim Melville|R|Starling Marte|R|Strikeout|F|Four-Seam Fastball|21|0|1|1|12|91
+Tim Melville|R|Starling Marte|R|Strikeout|B|Four-Seam Fastball|22|0|2|1|12|91
+Tim Melville|R|Starling Marte|R|Strikeout|F|Curveball|23|1|2|1|14|81
+Tim Melville|R|Starling Marte|R|Strikeout|F|Slider|24|1|2|1|14|85
+Tim Melville|R|Starling Marte|R|Strikeout|W|Curveball|25|1|2|1|14|78
+Tim Melville|R|Gregory Polanco|L|Walk|S|Four-Seam Fastball|26|0|0|2|7|90
+Tim Melville|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|27|0|1|2|11|89
+Tim Melville|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|28|1|1|2|11|91
+Tim Melville|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|29|2|1|2|13|90
+Tim Melville|R|Gregory Polanco|L|Walk|C|Four-Seam Fastball|30|3|1|2|13|91
+Tim Melville|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|31|3|2|2|13|92
+Tim Melville|R|Josh Harrison|R|Forceout|B|Four-Seam Fastball|32|0|0|2|13|91
+Tim Melville|R|Josh Harrison|R|Forceout|F|Four-Seam Fastball|33|1|0|2|13|90
+Tim Melville|R|Josh Harrison|R|Forceout|F|Slider|34|1|1|2|8|85
+Tim Melville|R|Josh Harrison|R|Forceout|*B|Curveball|35|1|2|2|13|78
+Tim Melville|R|Josh Harrison|R|Forceout|X|Slider|36|2|2|2|14|83
+Tim Melville|R|Jordy Mercer|R|Strikeout|C|Four-Seam Fastball|37|0|0|0|7|90
+Tim Melville|R|Jordy Mercer|R|Strikeout|C|Curveball|38|0|1|0|9|79
+Tim Melville|R|Jordy Mercer|R|Strikeout|F|Four-Seam Fastball|39|0|2|0|11|91
+Tim Melville|R|Jordy Mercer|R|Strikeout|B|Changeup|40|0|2|0|14|85
+Tim Melville|R|Jordy Mercer|R|Strikeout|S|Curveball|41|1|2|0|13|80
+Tim Melville|R|Chris Stewart|R|Home Run|C|Four-Seam Fastball|42|0|0|1|5|91
+Tim Melville|R|Chris Stewart|R|Home Run|F|Four-Seam Fastball|43|0|1|1|1|91
+Tim Melville|R|Chris Stewart|R|Home Run|B|Slider|44|0|2|1|14|86
+Tim Melville|R|Chris Stewart|R|Home Run|B|Slider|45|1|2|1|14|84
+Tim Melville|R|Chris Stewart|R|Home Run|E|Four-Seam Fastball|46|2|2|1|1|91
+Tim Melville|R|Jeff Locke|L|Strikeout|C|Four-Seam Fastball|47|0|0|1|9|90
+Tim Melville|R|Jeff Locke|L|Strikeout|B|Curveball|48|0|1|1|13|78
+Tim Melville|R|Jeff Locke|L|Strikeout|F|Four-Seam Fastball|49|1|1|1|6|88
+Tim Melville|R|Jeff Locke|L|Strikeout|C|Slider|50|1|2|1|8|84
+Tim Melville|R|John Jaso|L|Single|C|Curveball|51|0|0|2|13|79
+Tim Melville|R|John Jaso|L|Single|D|Curveball|52|0|1|2|5|81
+Tim Melville|R|Andrew McCutchen|R|Double|B|Slider|53|0|0|2|14|83
+Tim Melville|R|Andrew McCutchen|R|Double|C|Slider|54|1|0|2|14|82
+Tim Melville|R|Andrew McCutchen|R|Double|D|Four-Seam Fastball|55|1|1|2|7|90
+Tim Melville|R|David Freese|R|Strikeout|C|Four-Seam Fastball|56|0|0|2|6|91
+Tim Melville|R|David Freese|R|Strikeout|F|Four-Seam Fastball|57|0|1|2|13|90
+Tim Melville|R|David Freese|R|Strikeout|T|Four-Seam Fastball|58|0|2|2|4|89
+Tim Melville|R|Starling Marte|R|Single|C|Four-Seam Fastball|59|0|0|0|4|91
+Tim Melville|R|Starling Marte|R|Single|F|Slider|60|0|1|0|14|83
+Tim Melville|R|Starling Marte|R|Single|B|Four-Seam Fastball|61|0|2|0|11|90
+Tim Melville|R|Starling Marte|R|Single|B|Curveball|62|1|2|0|14|80
+Tim Melville|R|Starling Marte|R|Single|B|Curveball|63|2|2|0|14|80
+Tim Melville|R|Starling Marte|R|Single|D|Slider|64|3|2|0|14|84
+Tim Melville|R|Gregory Polanco|L|Sac Bunt|X|Four-Seam Fastball|65|0|0|0|14|90
+Tim Melville|R|Josh Harrison|R|Groundout|B|Slider|66|0|0|1|14|84
+Tim Melville|R|Josh Harrison|R|Groundout|F|Slider|67|1|0|1|14|84
+Tim Melville|R|Josh Harrison|R|Groundout|X|Curveball|68|1|1|1|14|78
+Tim Melville|R|Jordy Mercer|R|Strikeout|C|Four-Seam Fastball|69|0|0|2|6|90
+Tim Melville|R|Jordy Mercer|R|Strikeout|B|Four-Seam Fastball|70|0|1|2|11|90
+Tim Melville|R|Jordy Mercer|R|Strikeout|*B|Slider|71|1|1|2|14|83
+Tim Melville|R|Jordy Mercer|R|Strikeout|C|Four-Seam Fastball|72|2|1|2|14|92
+Tim Melville|R|Jordy Mercer|R|Strikeout|C|Four-Seam Fastball|73|2|2|2|8|92
+Tim Melville|R|Chris Stewart|R|Single|B|Four-Seam Fastball|74|0|0|0|14|89
+Tim Melville|R|Chris Stewart|R|Single|D|Four-Seam Fastball|75|1|0|0|5|90
+Tim Melville|R|Jeff Locke|L|Sac Bunt|B|Four-Seam Fastball|76|0|0|0|14|87
+Tim Melville|R|Jeff Locke|L|Sac Bunt|X|Four-Seam Fastball|77|1|0|0|6|88
+Tim Melville|R|John Jaso|L|Groundout|B|Four-Seam Fastball|78|0|0|1|11|90
+Tim Melville|R|John Jaso|L|Groundout|B|Four-Seam Fastball|79|1|0|1|11|90
+Tim Melville|R|John Jaso|L|Groundout|F|Four-Seam Fastball|80|2|0|1|4|91
+Tim Melville|R|John Jaso|L|Groundout|F|Four-Seam Fastball|81|2|1|1|1|91
+Tim Melville|R|John Jaso|L|Groundout|X|Four-Seam Fastball|82|2|2|1|11|91
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|83|0|0|2|1|90
+Tim Melville|R|Andrew McCutchen|R|Walk|C|Four-Seam Fastball|84|1|0|2|14|90
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|85|1|1|2|11|90
+Tim Melville|R|Andrew McCutchen|R|Walk|S|Slider|86|2|1|2|8|83
+Tim Melville|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|87|2|2|2|2|90
+Tim Melville|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|88|2|2|2|13|89
+Tim Melville|R|Andrew McCutchen|R|Walk|*B|Slider|89|3|2|2|14|84
+Tim Melville|R|David Freese|R|Groundout|C|Slider|90|0|0|2|4|84
+Tim Melville|R|David Freese|R|Groundout|X|Four-Seam Fastball|91|0|1|2|13|91
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|92
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|91
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|2|2|0|0|3|91
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|3|3|0|0|13|91
+Tim Melville|R|Jeremy Hazelbaker|L|Walk|B|Four-Seam Fastball|4|0|0|0|11|90
+Tim Melville|R|Jeremy Hazelbaker|L|Walk|B|Four-Seam Fastball|5|1|0|0|11|90
+Tim Melville|R|Jeremy Hazelbaker|L|Walk|B|Slider|6|2|0|0|13|85
+Tim Melville|R|Jeremy Hazelbaker|L|Walk|B|Four-Seam Fastball|7|3|0|0|13|91
+Tim Melville|R|Matt Holliday|R|Home Run|B|Slider|8|0|0|0|13|84
+Tim Melville|R|Matt Holliday|R|Home Run|C|Four-Seam Fastball|9|1|0|0|14|92
+Tim Melville|R|Matt Holliday|R|Home Run|E|Four-Seam Fastball|10|1|1|0|4|91
+Tim Melville|R|Stephen Piscotty|R|Strikeout|C|Four-Seam Fastball|11|0|0|0|7|93
+Tim Melville|R|Stephen Piscotty|R|Strikeout|B|Slider|12|0|1|0|12|83
+Tim Melville|R|Stephen Piscotty|R|Strikeout|F|Four-Seam Fastball|13|1|1|0|5|90
+Tim Melville|R|Stephen Piscotty|R|Strikeout|S|Slider|14|1|2|0|14|86
+Tim Melville|R|Randal Grichuk|R|Field Error|C|Four-Seam Fastball|15|0|0|1|9|93
+Tim Melville|R|Randal Grichuk|R|Field Error|B|Four-Seam Fastball|16|0|1|1|11|93
+Tim Melville|R|Randal Grichuk|R|Field Error|D|Four-Seam Fastball|17|1|1|1|11|93
+Tim Melville|R|Yadier Molina|R|Single|C|Curveball|18|0|0|1|8|78
+Tim Melville|R|Yadier Molina|R|Single|B|Four-Seam Fastball|19|0|1|1|11|92
+Tim Melville|R|Yadier Molina|R|Single|B|Curveball|20|1|1|1|9|78
+Tim Melville|R|Yadier Molina|R|Single|E|Four-Seam Fastball|21|2|1|1|6|91
+Tim Melville|R|Kolten Wong|L|Flyout|B|Four-Seam Fastball|22|0|0|1|11|92
+Tim Melville|R|Kolten Wong|L|Flyout|F|Four-Seam Fastball|23|1|0|1|11|90
+Tim Melville|R|Kolten Wong|L|Flyout|B|Slider|24|1|1|1|12|84
+Tim Melville|R|Kolten Wong|L|Flyout|X|Four-Seam Fastball|25|2|1|1|1|91
+Tim Melville|R|Aledmys Diaz|R|Field Error|F|Four-Seam Fastball|26|0|0|2|11|90
+Tim Melville|R|Aledmys Diaz|R|Field Error|*B|Slider|27|0|1|2|14|86
+Tim Melville|R|Aledmys Diaz|R|Field Error|B|Four-Seam Fastball|28|1|1|2|13|90
+Tim Melville|R|Aledmys Diaz|R|Field Error|F|Four-Seam Fastball|29|2|1|2|11|92
+Tim Melville|R|Aledmys Diaz|R|Field Error|D|Slider|30|2|2|2|14|85
+Tim Melville|R|Carlos Martinez|R|Groundout|F|Slider|31|0|0|2|14|83
+Tim Melville|R|Carlos Martinez|R|Groundout|*B|Curveball|32|0|1|2|14|79
+Tim Melville|R|Carlos Martinez|R|Groundout|B|Four-Seam Fastball|33|1|1|2|11|92
+Tim Melville|R|Carlos Martinez|R|Groundout|X|Four-Seam Fastball|34|2|1|2|13|91
+Tim Melville|R|Matt Carpenter|L|Walk|B|Curveball|35|0|0|0|14|78
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|36|1|0|0|11|90
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|37|2|0|0|11|92
+Tim Melville|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|38|3|0|0|11|90
+Tim Melville|R|Jeremy Hazelbaker|L|Strikeout|B|Curveball|39|0|0|0|14|78
+Tim Melville|R|Jeremy Hazelbaker|L|Strikeout|C|Four-Seam Fastball|40|1|0|0|13|91
+Tim Melville|R|Jeremy Hazelbaker|L|Strikeout|F|Curveball|41|1|1|0|5|78
+Tim Melville|R|Jeremy Hazelbaker|L|Strikeout|S|Curveball|42|1|2|0|14|80
+Tim Melville|R|Matt Holliday|R|Hit By Pitch|F|Four-Seam Fastball|43|0|0|1|7|91
+Tim Melville|R|Matt Holliday|R|Hit By Pitch|*B|Curveball|44|0|1|1|14|80
+Tim Melville|R|Matt Holliday|R|Hit By Pitch|H|Four-Seam Fastball|45|1|1|1|11|91
+Tim Melville|R|Stephen Piscotty|R|Grounded Into DP|B|Slider|46|0|0|1|3|84
+Tim Melville|R|Stephen Piscotty|R|Grounded Into DP|F|Four-Seam Fastball|47|1|0|1|1|90
+Tim Melville|R|Stephen Piscotty|R|Grounded Into DP|X|Curveball|48|1|1|1|14|80
+Tim Melville|R|Randal Grichuk|R|Pop Out|X|Slider|49|0|0|0|4|86
+Tim Melville|R|Yadier Molina|R|Double|C|Four-Seam Fastball|50|0|0|1|14|93
+Tim Melville|R|Yadier Molina|R|Double|B|Four-Seam Fastball|51|0|1|1|13|93
+Tim Melville|R|Yadier Molina|R|Double|B|Curveball|52|1|1|1|11|81
+Tim Melville|R|Yadier Molina|R|Double|D|Four-Seam Fastball|53|2|1|1|7|92
+Tim Melville|R|Kolten Wong|L|Single|*B|Slider|54|0|0|1|14|85
+Tim Melville|R|Kolten Wong|L|Single|C|Four-Seam Fastball|55|1|0|1|4|91
+Tim Melville|R|Kolten Wong|L|Single|D|Slider|56|1|1|1|14|84
+Tim Melville|R|Aledmys Diaz|R|Home Run|E|Slider|57|0|0|1|4|83
+Tim Melville|R|Carlos Martinez|R|Single|D|Four-Seam Fastball|58|0|0|1|5|92
+Tim Melville|R|Matt Carpenter|L|Flyout|C|Curveball|59|0|0|1|8|79
+Tim Melville|R|Matt Carpenter|L|Flyout|X|Curveball|60|0|1|1|8|80
+Tim Melville|R|Jeremy Hazelbaker|L|Groundout|X|Curveball|61|0|0|2|13|79
+Tim Melville|R|Anthony Rizzo|L|Groundout|C|Curveball|0|0|0|2|11|78
+Tim Melville|R|Anthony Rizzo|L|Groundout|C|Four-Seam Fastball|1|0|1|2|13|92
+Tim Melville|R|Anthony Rizzo|L|Groundout|X|Slider|2|0|2|2|13|85
+Tim Melville|R|Jorge Soler|R|Flyout|F|Four-Seam Fastball|3|0|0|0|7|92
+Tim Melville|R|Jorge Soler|R|Flyout|B|Changeup|4|0|1|0|11|84
+Tim Melville|R|Jorge Soler|R|Flyout|F|Slider|5|1|1|0|5|84
+Tim Melville|R|Jorge Soler|R|Flyout|B|Curveball|6|1|2|0|13|80
+Tim Melville|R|Jorge Soler|R|Flyout|X|Slider|7|2|2|0|9|85
+Tim Melville|R|Ben Zobrist|L|Single|C|Curveball|8|0|0|1|4|79
+Tim Melville|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|9|0|1|1|5|92
+Tim Melville|R|Addison Russell|R|Lineout|S|Four-Seam Fastball|10|0|0|1|4|92
+Tim Melville|R|Addison Russell|R|Lineout|S|Four-Seam Fastball|11|0|1|1|6|92
+Tim Melville|R|Addison Russell|R|Lineout|B|Four-Seam Fastball|12|0|2|1|14|92
+Tim Melville|R|Addison Russell|R|Lineout|B|Slider|13|1|2|1|12|84
+Tim Melville|R|Addison Russell|R|Lineout|X|Curveball|14|2|2|1|9|81
+Tim Melville|R|David Ross|R|Home Run|C|Four-Seam Fastball|15|0|0|2|14|91
+Tim Melville|R|David Ross|R|Home Run|B|Four-Seam Fastball|16|0|1|2|14|92
+Tim Melville|R|David Ross|R|Home Run|S|Slider|17|1|1|2|1|84
+Tim Melville|R|David Ross|R|Home Run|B|Four-Seam Fastball|18|1|2|2|14|91
+Tim Melville|R|David Ross|R|Home Run|E|Slider|19|2|2|2|8|87
+Tim Melville|R|Jake Arrieta|R|Strikeout|B|Four-Seam Fastball|20|0|0|2|14|93
+Tim Melville|R|Jake Arrieta|R|Strikeout|S|Slider|21|1|0|2|13|86
+Tim Melville|R|Jake Arrieta|R|Strikeout|C|Slider|22|1|1|2|9|85
+Tim Melville|R|Jake Arrieta|R|Strikeout|F|Four-Seam Fastball|23|1|2|2|8|90
+Tim Melville|R|Jake Arrieta|R|Strikeout|F|Curveball|24|1|2|2|13|79
+Tim Melville|R|Jake Arrieta|R|Strikeout|F|Slider|25|1|2|2|9|86
+Tim Melville|R|Jake Arrieta|R|Strikeout|S|Curveball|26|1|2|2|8|81
+Tim Melville|R|Dexter Fowler|L|Walk|C|Curveball|27|0|0|0|7|82
+Tim Melville|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|28|0|1|0|9|92
+Tim Melville|R|Dexter Fowler|L|Walk|B|Slider|29|1|1|0|11|85
+Tim Melville|R|Dexter Fowler|L|Walk|S|Curveball|30|2|1|0|8|79
+Tim Melville|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|31|2|2|0|14|92
+Tim Melville|R|Dexter Fowler|L|Walk|B|Curveball|32|3|2|0|13|77
+Tim Melville|R|Jason Heyward|L|Lineout|X|Four-Seam Fastball|33|0|0|0|13|92
+Tim Melville|R|Kris Bryant|R|Single|C|Four-Seam Fastball|34|0|0|1|9|92
+Tim Melville|R|Kris Bryant|R|Single|B|Four-Seam Fastball|35|0|1|1|14|92
+Tim Melville|R|Kris Bryant|R|Single|D|Slider|36|1|1|1|12|83
+Tim Melville|R|Anthony Rizzo|L|Home Run|B|Four-Seam Fastball|37|0|0|1|14|90
+Tim Melville|R|Anthony Rizzo|L|Home Run|B|Changeup|38|1|0|1|13|82
+Tim Melville|R|Anthony Rizzo|L|Home Run|F|Curveball|39|2|0|1|4|80
+Tim Melville|R|Anthony Rizzo|L|Home Run|S|Changeup|40|2|1|1|13|83
+Tim Melville|R|Anthony Rizzo|L|Home Run|E|Changeup|41|2|2|1|7|83
+Tim Melville|R|Jorge Soler|R|Double|D|Slider|42|0|0|1|4|85
+Tim Melville|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|43|0|0|1|13|92
+Tim Melville|R|Ben Zobrist|L|Walk|B|Changeup|44|1|0|1|11|83
+Tim Melville|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|45|2|0|1|14|92
+Tim Melville|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|46|3|0|1|13|89
+Tim Melville|R|Addison Russell|R|Lineout|B|Four-Seam Fastball|47|0|0|1|13|91
+Tim Melville|R|Addison Russell|R|Lineout|X|Curveball|48|1|0|1|13|78
+Tim Melville|R|Leury Garcia|L|Groundout|C|Four-Seam Fastball|0|0|0|0|13|94
+Tim Melville|R|Leury Garcia|L|Groundout|B|Four-Seam Fastball|1|0|1|0|11|94
+Tim Melville|R|Leury Garcia|L|Groundout|B|Four-Seam Fastball|2|1|1|0|14|94
+Tim Melville|R|Leury Garcia|L|Groundout|F|Four-Seam Fastball|3|2|1|0|11|94
+Tim Melville|R|Leury Garcia|L|Groundout|B|Four-Seam Fastball|4|2|2|0|14|95
+Tim Melville|R|Leury Garcia|L|Groundout|X|Four-Seam Fastball|5|3|2|0|11|94
+Tim Melville|R|Yoan Moncada|L|Walk|B|Changeup|6|0|0|1|13|88
+Tim Melville|R|Yoan Moncada|L|Walk|F|Changeup|7|1|0|1|13|89
+Tim Melville|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|8|1|1|1|13|95
+Tim Melville|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|9|2|1|1|11|95
+Tim Melville|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|10|3|1|1|11|95
+Tim Melville|R|Jose Abreu|R|Double|*B|Four-Seam Fastball|11|0|0|1|13|92
+Tim Melville|R|Jose Abreu|R|Double|F|Slider|12|1|0|1|12|87
+Tim Melville|R|Jose Abreu|R|Double|F|Four-Seam Fastball|13|1|1|1|7|94
+Tim Melville|R|Jose Abreu|R|Double|B|Slider|14|1|2|1|14|86
+Tim Melville|R|Jose Abreu|R|Double|F|Slider|15|2|2|1|12|88
+Tim Melville|R|Jose Abreu|R|Double|B|Four-Seam Fastball|16|2|2|1|11|95
+Tim Melville|R|Jose Abreu|R|Double|D|Slider|17|3|2|1|12|86
+Tim Melville|R|Nicky Delmonico|L|Groundout|C|Four-Seam Fastball|18|0|0|1|5|94
+Tim Melville|R|Nicky Delmonico|L|Groundout|B|Four-Seam Fastball|19|0|1|1|14|94
+Tim Melville|R|Nicky Delmonico|L|Groundout|X|Four-Seam Fastball|20|1|1|1|6|94
+Tim Melville|R|Avisail Garcia|R|Single|E|Four-Seam Fastball|21|0|0|2|13|94
+Tim Melville|R|Yolmer Sanchez|L|Flyout|X|Four-Seam Fastball|22|0|0|2|5|95
+Tim Melville|R|Tim Anderson|R|Groundout|C|Curveball|23|0|0|0|11|80
+Tim Melville|R|Tim Anderson|R|Groundout|B|Slider|24|0|1|0|14|86
+Tim Melville|R|Tim Anderson|R|Groundout|S|Slider|25|1|1|0|9|86
+Tim Melville|R|Tim Anderson|R|Groundout|F|Four-Seam Fastball|26|1|2|0|12|95
+Tim Melville|R|Tim Anderson|R|Groundout|X|Four-Seam Fastball|27|1|2|0|5|95
+Tim Melville|R|Omar Narvaez|L|Groundout|B|Changeup|28|0|0|1|13|87
+Tim Melville|R|Omar Narvaez|L|Groundout|B|Changeup|29|1|0|1|13|88
+Tim Melville|R|Omar Narvaez|L|Groundout|F|Four-Seam Fastball|30|2|0|1|1|94
+Tim Melville|R|Omar Narvaez|L|Groundout|X|Four-Seam Fastball|31|2|1|1|9|95
+Tim Melville|R|Adam Engel|R|Pop Out|B|Four-Seam Fastball|32|0|0|2|14|95
+Tim Melville|R|Adam Engel|R|Pop Out|F|Four-Seam Fastball|33|1|0|2|11|94
+Tim Melville|R|Adam Engel|R|Pop Out|X|Slider|34|1|1|2|5|88
+Tim Melville|R|Leury Garcia|L|Strikeout|F|Four-Seam Fastball|35|0|0|0|8|93
+Tim Melville|R|Leury Garcia|L|Strikeout|F|Curveball|36|0|1|0|7|81
+Tim Melville|R|Leury Garcia|L|Strikeout|B|Four-Seam Fastball|37|0|2|0|11|94
+Tim Melville|R|Leury Garcia|L|Strikeout|F|Four-Seam Fastball|38|1|2|0|11|94
+Tim Melville|R|Leury Garcia|L|Strikeout|W|Curveball|39|1|2|0|14|82
+Tim Melville|R|Yoan Moncada|L|Strikeout|B|Curveball|40|0|0|1|11|80
+Tim Melville|R|Yoan Moncada|L|Strikeout|S|Changeup|41|1|0|1|4|88
+Tim Melville|R|Yoan Moncada|L|Strikeout|F|Curveball|42|1|1|1|8|82
+Tim Melville|R|Yoan Moncada|L|Strikeout|W|Curveball|43|1|2|1|14|83
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|44|0|0|2|5|94
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Curveball|45|0|1|2|14|83
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Slider|46|0|2|2|14|87
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|47|0|2|2|12|94
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Curveball|48|0|2|2|14|82
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Curveball|49|0|2|2|13|83
+Tim Melville|R|Jose Abreu|R|Strikeout|B|Four-Seam Fastball|50|0|2|2|14|96
+Tim Melville|R|Jose Abreu|R|Strikeout|B|Curveball|51|1|2|2|14|83
+Tim Melville|R|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|52|2|2|2|5|95
+Tim Melville|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|53|2|2|2|12|94
+Tim Melville|R|Nicky Delmonico|L|Walk|B|Four-Seam Fastball|54|0|0|0|14|94
+Tim Melville|R|Nicky Delmonico|L|Walk|C|Curveball|55|1|0|0|5|81
+Tim Melville|R|Nicky Delmonico|L|Walk|F|Four-Seam Fastball|56|1|1|0|12|94
+Tim Melville|R|Nicky Delmonico|L|Walk|F|Curveball|57|1|2|0|13|83
+Tim Melville|R|Nicky Delmonico|L|Walk|B|Four-Seam Fastball|58|1|2|0|12|94
+Tim Melville|R|Nicky Delmonico|L|Walk|B|Curveball|59|2|2|0|14|81
+Tim Melville|R|Nicky Delmonico|L|Walk|B|Curveball|60|3|2|0|14|80
+Tim Melville|R|Avisail Garcia|R|Single|F|Four-Seam Fastball|61|0|0|0|1|94
+Tim Melville|R|Avisail Garcia|R|Single|B|Four-Seam Fastball|62|0|1|0|13|93
+Tim Melville|R|Avisail Garcia|R|Single|B|Slider|63|1|1|0|14|85
+Tim Melville|R|Avisail Garcia|R|Single|F|Four-Seam Fastball|64|2|1|0|11|94
+Tim Melville|R|Avisail Garcia|R|Single|D|Slider|65|2|2|0|9|86
+Tim Melville|R|Yolmer Sanchez|L|Home Run|B|Four-Seam Fastball|66|0|0|0|13|93
+Tim Melville|R|Yolmer Sanchez|L|Home Run|E|Four-Seam Fastball|67|1|0|0|3|93
+Tim Melville|R|Tim Anderson|R|Strikeout|S|Slider|68|0|0|0|14|84
+Tim Melville|R|Tim Anderson|R|Strikeout|F|Slider|69|0|1|0|12|84
+Tim Melville|R|Tim Anderson|R|Strikeout|B|Four-Seam Fastball|70|0|2|0|14|94
+Tim Melville|R|Tim Anderson|R|Strikeout|W|Curveball|71|1|2|0|14|80
+Tim Melville|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|72|0|0|1|11|93
+Tim Melville|R|Omar Narvaez|L|Walk|B|Changeup|73|1|0|1|11|87
+Tim Melville|R|Omar Narvaez|L|Walk|C|Four-Seam Fastball|74|2|0|1|13|93
+Tim Melville|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|75|2|1|1|11|93
+Tim Melville|R|Omar Narvaez|L|Walk|F|Four-Seam Fastball|76|3|1|1|13|93
+Tim Melville|R|Omar Narvaez|L|Walk|F|Four-Seam Fastball|77|3|2|1|14|93
+Tim Melville|R|Omar Narvaez|L|Walk|F|Four-Seam Fastball|78|3|2|1|13|94
+Tim Melville|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|79|3|2|1|11|94
+Tim Melville|R|Adam Engel|R|Hit By Pitch|F|Four-Seam Fastball|80|0|0|1|4|93
+Tim Melville|R|Adam Engel|R|Hit By Pitch|H|Four-Seam Fastball|81|0|1|1|11|92
+Tim Melville|R|Daniel Descalso|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|12|94
+Tim Melville|R|Daniel Descalso|L|Pop Out|X|Four-Seam Fastball|1|1|0|0|3|92
+Tim Melville|R|Jake Lamb|L|Walk|B|Slider|2|0|0|1|1|84
+Tim Melville|R|Jake Lamb|L|Walk|B|Slider|3|1|0|1|14|84
+Tim Melville|R|Jake Lamb|L|Walk|B|Four-Seam Fastball|4|2|0|1|11|92
+Tim Melville|R|Jake Lamb|L|Walk|B|Four-Seam Fastball|5|3|0|1|13|93
+Tim Melville|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|6|0|0|1|14|94
+Tim Melville|R|A.J. Pollock|R|Walk|B|Curveball|7|1|0|1|12|79
+Tim Melville|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|8|2|0|1|12|94
+Tim Melville|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|9|3|0|1|11|94
+Tim Melville|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|94
+Tim Melville|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|95
+Tim Melville|R|Joc Pederson|L|Strikeout|C|Slider|2|1|1|0|8|87
+Tim Melville|R|Joc Pederson|L|Strikeout|C|Curveball|3|1|2|0|8|82
+Tim Melville|R|Cody Bellinger|L|Walk|C|Slider|4|0|0|1|4|86
+Tim Melville|R|Cody Bellinger|L|Walk|C|Four-Seam Fastball|5|0|1|1|7|95
+Tim Melville|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|6|0|2|1|11|95
+Tim Melville|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|7|1|2|1|11|95
+Tim Melville|R|Cody Bellinger|L|Walk|B|Slider|8|1|2|1|14|88
+Tim Melville|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|9|2|2|1|14|96
+Tim Melville|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|10|3|2|1|12|96
+Tim Melville|R|Cody Bellinger|L|Walk|*B|Four-Seam Fastball|11|3|2|1|14|97
+Tim Melville|R|Logan Forsythe|R|Single|*B|Four-Seam Fastball|12|0|0|1|14|94
+Tim Melville|R|Logan Forsythe|R|Single|F|Four-Seam Fastball|13|1|0|1|2|94
+Tim Melville|R|Logan Forsythe|R|Single|B|Slider|14|1|1|1|14|86
+Tim Melville|R|Logan Forsythe|R|Single|C|Slider|15|2|1|1|2|86
+Tim Melville|R|Logan Forsythe|R|Single|F|Slider|16|2|2|1|2|87
+Tim Melville|R|Logan Forsythe|R|Single|B|Slider|17|2|2|1|14|87
+Tim Melville|R|Logan Forsythe|R|Single|D|Four-Seam Fastball|18|3|2|1|8|94
+Tim Melville|R|Austin Barnes|R|Grounded Into DP|B|Four-Seam Fastball|19|0|0|1|14|94
+Tim Melville|R|Austin Barnes|R|Grounded Into DP|X|Slider|20|1|0|1|8|85
+Tim Melville|R|Yasmani Grandal|L|Double|F|Four-Seam Fastball|21|0|0|0|3|92
+Tim Melville|R|Yasmani Grandal|L|Double|D|Curveball|22|0|1|0|4|79
+Tim Melville|R|Rob Segedin|R|Single|C|Slider|23|0|0|0|5|83
+Tim Melville|R|Rob Segedin|R|Single|E|Four-Seam Fastball|24|0|1|0|14|93
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|25|0|0|0|14|93
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|26|1|0|0|13|94
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|27|1|1|0|12|94
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|28|1|2|0|11|93
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|B|Curveball|29|2|2|0|11|79
+Tim Melville|R|Adrian Gonzalez|L|Strikeout|T|Four-Seam Fastball|30|3|2|0|11|93
+Tim Melville|R|Alex Verdugo|L|Strikeout|B|Four-Seam Fastball|31|0|0|1|11|92
+Tim Melville|R|Alex Verdugo|L|Strikeout|S|Four-Seam Fastball|32|1|0|1|2|93
+Tim Melville|R|Alex Verdugo|L|Strikeout|F|Four-Seam Fastball|33|1|1|1|11|93
+Tim Melville|R|Alex Verdugo|L|Strikeout|B|Slider|34|1|2|1|11|84
+Tim Melville|R|Alex Verdugo|L|Strikeout|S|Four-Seam Fastball|35|2|2|1|1|93
+Tim Melville|R|Charlie Culberson|R|Flyout|B|Four-Seam Fastball|36|0|0|2|11|94
+Tim Melville|R|Charlie Culberson|R|Flyout|C|Slider|37|1|0|2|2|83
+Tim Melville|R|Charlie Culberson|R|Flyout|B|Four-Seam Fastball|38|1|1|2|12|94
+Tim Melville|R|Charlie Culberson|R|Flyout|T|Four-Seam Fastball|39|2|1|2|11|93
+Tim Melville|R|Charlie Culberson|R|Flyout|F|Four-Seam Fastball|40|2|2|2|2|94
+Tim Melville|R|Charlie Culberson|R|Flyout|X|Four-Seam Fastball|41|2|2|2|2|93

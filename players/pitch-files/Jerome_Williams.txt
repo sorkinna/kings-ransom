@@ -1,0 +1,2269 @@
+Jerome Williams|R|Michael A. Taylor|R|Home Run|B|Four-Seam Fastball|0|0|0|0|13|89
+Jerome Williams|R|Michael A. Taylor|R|Home Run|C|Four-Seam Fastball|1|1|0|0|14|90
+Jerome Williams|R|Michael A. Taylor|R|Home Run|B|Sinker|2|1|1|0|14|89
+Jerome Williams|R|Michael A. Taylor|R|Home Run|S|Sinker|3|2|1|0|8|90
+Jerome Williams|R|Michael A. Taylor|R|Home Run|F|Sinker|4|2|2|0|13|90
+Jerome Williams|R|Michael A. Taylor|R|Home Run|B|Four-Seam Fastball|5|2|2|0|12|90
+Jerome Williams|R|Michael A. Taylor|R|Home Run|F|Sinker|6|3|2|0|7|90
+Jerome Williams|R|Michael A. Taylor|R|Home Run|E|Sinker|7|3|2|0|11|91
+Jerome Williams|R|Yunel Escobar|R|Groundout|F|Cutter|8|0|0|0|14|88
+Jerome Williams|R|Yunel Escobar|R|Groundout|S|Cutter|9|0|1|0|14|89
+Jerome Williams|R|Yunel Escobar|R|Groundout|B|Four-Seam Fastball|10|0|2|0|14|89
+Jerome Williams|R|Yunel Escobar|R|Groundout|B|Four-Seam Fastball|11|1|2|0|14|91
+Jerome Williams|R|Yunel Escobar|R|Groundout|B|Changeup|12|2|2|0|14|85
+Jerome Williams|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|13|3|2|0|14|89
+Jerome Williams|R|Bryce Harper|L|Single|D|Sinker|14|0|0|1|7|91
+Jerome Williams|R|Ryan Zimmerman|R|Flyout|C|Four-Seam Fastball|15|0|0|1|9|89
+Jerome Williams|R|Ryan Zimmerman|R|Flyout|B|Cutter|16|0|1|1|14|86
+Jerome Williams|R|Ryan Zimmerman|R|Flyout|X|Cutter|17|1|1|1|6|84
+Jerome Williams|R|Wilson Ramos|R|Single|B|Slider|18|0|0|2|14|78
+Jerome Williams|R|Wilson Ramos|R|Single|B|Sinker|19|1|0|2|14|88
+Jerome Williams|R|Wilson Ramos|R|Single|B|Sinker|20|2|0|2|14|89
+Jerome Williams|R|Wilson Ramos|R|Single|C|Sinker|21|3|0|2|4|89
+Jerome Williams|R|Wilson Ramos|R|Single|S|Cutter|22|3|1|2|8|87
+Jerome Williams|R|Wilson Ramos|R|Single|F|Cutter|23|3|2|2|8|87
+Jerome Williams|R|Wilson Ramos|R|Single|D|Four-Seam Fastball|24|3|2|2|6|87
+Jerome Williams|R|Ian Desmond|R|Flyout|B|Sinker|25|0|0|2|14|89
+Jerome Williams|R|Ian Desmond|R|Flyout|X|Cutter|26|1|0|2|1|86
+Jerome Williams|R|Dan Uggla|R|Strikeout|C|Four-Seam Fastball|27|0|0|0|6|88
+Jerome Williams|R|Dan Uggla|R|Strikeout|C|Slider|28|0|1|0|14|77
+Jerome Williams|R|Dan Uggla|R|Strikeout|W|Slider|29|0|2|0|14|79
+Jerome Williams|R|Tyler Moore|R|Pop Out|B|Cutter|30|0|0|1|14|85
+Jerome Williams|R|Tyler Moore|R|Pop Out|B|Four-Seam Fastball|31|1|0|1|14|89
+Jerome Williams|R|Tyler Moore|R|Pop Out|B|Cutter|32|2|0|1|14|87
+Jerome Williams|R|Tyler Moore|R|Pop Out|C|Four-Seam Fastball|33|3|0|1|8|89
+Jerome Williams|R|Tyler Moore|R|Pop Out|F|Sinker|34|3|1|1|4|90
+Jerome Williams|R|Tyler Moore|R|Pop Out|X|Sinker|35|3|2|1|1|89
+Jerome Williams|R|Gio Gonzalez|R|Groundout|C|Sinker|36|0|0|2|9|90
+Jerome Williams|R|Gio Gonzalez|R|Groundout|S|Four-Seam Fastball|37|0|1|2|14|88
+Jerome Williams|R|Gio Gonzalez|R|Groundout|X|Cutter|38|0|2|2|6|86
+Jerome Williams|R|Michael A. Taylor|R|Lineout|B|Sinker|39|0|0|0|14|89
+Jerome Williams|R|Michael A. Taylor|R|Lineout|X|Sinker|40|1|0|0|6|89
+Jerome Williams|R|Yunel Escobar|R|Groundout|B|Sinker|41|0|0|1|14|90
+Jerome Williams|R|Yunel Escobar|R|Groundout|S|Cutter|42|1|0|1|14|86
+Jerome Williams|R|Yunel Escobar|R|Groundout|S|Cutter|43|1|1|1|12|87
+Jerome Williams|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|44|1|2|1|9|90
+Jerome Williams|R|Bryce Harper|L|Strikeout|F|Curveball|45|0|0|2|5|75
+Jerome Williams|R|Bryce Harper|L|Strikeout|B|Changeup|46|0|1|2|13|83
+Jerome Williams|R|Bryce Harper|L|Strikeout|F|Cutter|47|1|1|2|12|88
+Jerome Williams|R|Bryce Harper|L|Strikeout|B|Sinker|48|1|2|2|11|87
+Jerome Williams|R|Bryce Harper|L|Strikeout|S|Changeup|49|2|2|2|13|83
+Jerome Williams|R|Ryan Zimmerman|R|Walk|C|Curveball|50|0|0|0|6|72
+Jerome Williams|R|Ryan Zimmerman|R|Walk|B|Slider|51|0|1|0|14|77
+Jerome Williams|R|Ryan Zimmerman|R|Walk|B|Sinker|52|1|1|0|14|88
+Jerome Williams|R|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|53|2|1|0|14|89
+Jerome Williams|R|Ryan Zimmerman|R|Walk|S|Cutter|54|3|1|0|14|87
+Jerome Williams|R|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|55|3|2|0|14|88
+Jerome Williams|R|Wilson Ramos|R|Strikeout|B|Sinker|56|0|0|0|14|90
+Jerome Williams|R|Wilson Ramos|R|Strikeout|T|Cutter|57|1|0|0|14|85
+Jerome Williams|R|Wilson Ramos|R|Strikeout|F|Sinker|58|1|1|0|13|89
+Jerome Williams|R|Wilson Ramos|R|Strikeout|W|Cutter|59|1|2|0|14|82
+Jerome Williams|R|Ian Desmond|R|Single|X|Cutter|60|0|0|1|4|86
+Jerome Williams|R|Dan Uggla|R|Strikeout|B|Four-Seam Fastball|61|0|0|2|11|90
+Jerome Williams|R|Dan Uggla|R|Strikeout|C|Sinker|62|1|0|2|11|89
+Jerome Williams|R|Dan Uggla|R|Strikeout|F|Cutter|63|1|1|2|5|87
+Jerome Williams|R|Dan Uggla|R|Strikeout|B|Cutter|64|1|2|2|13|83
+Jerome Williams|R|Dan Uggla|R|Strikeout|S|Changeup|65|2|2|2|14|83
+Jerome Williams|R|Tyler Moore|R|Groundout|B|Cutter|66|0|0|0|14|85
+Jerome Williams|R|Tyler Moore|R|Groundout|C|Sinker|67|1|0|0|14|87
+Jerome Williams|R|Tyler Moore|R|Groundout|X|Sinker|68|1|1|0|9|87
+Jerome Williams|R|Gio Gonzalez|R|Strikeout|C|Sinker|69|0|0|1|9|87
+Jerome Williams|R|Gio Gonzalez|R|Strikeout|B|Sinker|70|0|1|1|14|88
+Jerome Williams|R|Gio Gonzalez|R|Strikeout|F|Cutter|71|1|1|1|14|85
+Jerome Williams|R|Gio Gonzalez|R|Strikeout|F|Sinker|72|1|2|1|5|89
+Jerome Williams|R|Gio Gonzalez|R|Strikeout|C|Curveball|73|1|2|1|11|73
+Jerome Williams|R|Michael A. Taylor|R|Lineout|B|Sinker|74|0|0|2|13|89
+Jerome Williams|R|Michael A. Taylor|R|Lineout|B|Sinker|75|1|0|2|13|90
+Jerome Williams|R|Michael A. Taylor|R|Lineout|S|Changeup|76|2|0|2|14|83
+Jerome Williams|R|Michael A. Taylor|R|Lineout|B|Changeup|77|2|1|2|13|83
+Jerome Williams|R|Michael A. Taylor|R|Lineout|S|Cutter|78|3|1|2|14|86
+Jerome Williams|R|Michael A. Taylor|R|Lineout|X|Cutter|79|3|2|2|9|88
+Jerome Williams|R|Yunel Escobar|R|Flyout|C|Four-Seam Fastball|80|0|0|0|14|88
+Jerome Williams|R|Yunel Escobar|R|Flyout|B|Sinker|81|0|1|0|11|88
+Jerome Williams|R|Yunel Escobar|R|Flyout|X|Cutter|82|1|1|0|6|85
+Jerome Williams|R|Bryce Harper|L|Strikeout|B|Changeup|83|0|0|1|14|83
+Jerome Williams|R|Bryce Harper|L|Strikeout|F|Sinker|84|1|0|1|13|89
+Jerome Williams|R|Bryce Harper|L|Strikeout|S|Cutter|85|1|1|1|12|87
+Jerome Williams|R|Bryce Harper|L|Strikeout|S|Sinker|86|1|2|1|11|89
+Jerome Williams|R|Ryan Zimmerman|R|Single|C|Sinker|87|0|0|2|2|88
+Jerome Williams|R|Ryan Zimmerman|R|Single|D|Slider|88|0|1|2|5|77
+Jerome Williams|R|Wilson Ramos|R|Forceout|B|Sinker|89|0|0|2|14|88
+Jerome Williams|R|Wilson Ramos|R|Forceout|F|Changeup|90|1|0|2|1|83
+Jerome Williams|R|Wilson Ramos|R|Forceout|T|Changeup|91|1|1|2|13|83
+Jerome Williams|R|Wilson Ramos|R|Forceout|X|Sinker|92|1|2|2|5|88
+Jerome Williams|R|Curtis Granderson|L|Flyout|B|Sinker|0|0|0|0|11|88
+Jerome Williams|R|Curtis Granderson|L|Flyout|C|Sinker|1|1|0|0|7|87
+Jerome Williams|R|Curtis Granderson|L|Flyout|X|Four-Seam Fastball|2|1|1|0|11|88
+Jerome Williams|R|Travis d'Arnaud|R|Single|C|Four-Seam Fastball|3|0|0|1|8|88
+Jerome Williams|R|Travis d'Arnaud|R|Single|S|Changeup|4|0|1|1|14|86
+Jerome Williams|R|Travis d'Arnaud|R|Single|B|Cutter|5|0|2|1|14|86
+Jerome Williams|R|Travis d'Arnaud|R|Single|D|Sinker|6|1|2|1|14|89
+Jerome Williams|R|Lucas Duda|L|Flyout|X|Sinker|7|0|0|1|13|88
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|B|Four-Seam Fastball|8|0|0|2|14|88
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|B|Sinker|9|1|0|2|13|88
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|C|Cutter|10|2|0|2|5|86
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|C|Cutter|11|2|1|2|1|86
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|F|Sinker|12|2|2|2|13|89
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|F|Cutter|13|2|2|2|5|86
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|F|Cutter|14|2|2|2|5|87
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|*B|Slider|15|2|2|2|13|80
+Jerome Williams|R|Michael Cuddyer|R|Strikeout|S|Cutter|16|3|2|2|14|86
+Jerome Williams|R|Daniel Murphy|L|Flyout|C|Four-Seam Fastball|17|0|0|0|5|88
+Jerome Williams|R|Daniel Murphy|L|Flyout|X|Changeup|18|0|1|0|13|80
+Jerome Williams|R|Eric Campbell|R|Single|C|Four-Seam Fastball|19|0|0|1|7|88
+Jerome Williams|R|Eric Campbell|R|Single|S|Cutter|20|0|1|1|14|86
+Jerome Williams|R|Eric Campbell|R|Single|D|Cutter|21|0|2|1|4|85
+Jerome Williams|R|Juan Lagares|R|Single|C|Cutter|22|0|0|1|8|84
+Jerome Williams|R|Juan Lagares|R|Single|B|Sinker|23|0|1|1|14|88
+Jerome Williams|R|Juan Lagares|R|Single|F|Cutter|24|1|1|1|5|87
+Jerome Williams|R|Juan Lagares|R|Single|*B|Slider|25|1|2|1|13|80
+Jerome Williams|R|Juan Lagares|R|Single|E|Four-Seam Fastball|26|2|2|1|4|90
+Jerome Williams|R|Ruben Tejada|R|Single|B|Sinker|27|0|0|1|11|87
+Jerome Williams|R|Ruben Tejada|R|Single|D|Four-Seam Fastball|28|1|0|1|9|87
+Jerome Williams|R|Jonathon Niese|L|Forceout|B|Sinker|29|0|0|1|13|87
+Jerome Williams|R|Jonathon Niese|L|Forceout|X|Sinker|30|1|0|1|8|87
+Jerome Williams|R|Curtis Granderson|L|Lineout|B|Changeup|31|0|0|2|13|83
+Jerome Williams|R|Curtis Granderson|L|Lineout|B|Sinker|32|1|0|2|14|88
+Jerome Williams|R|Curtis Granderson|L|Lineout|B|Sinker|33|2|0|2|11|88
+Jerome Williams|R|Curtis Granderson|L|Lineout|C|Sinker|34|3|0|2|1|89
+Jerome Williams|R|Curtis Granderson|L|Lineout|X|Sinker|35|3|1|2|13|89
+Jerome Williams|R|Travis d'Arnaud|R|Home Run|B|Sinker|36|0|0|0|14|88
+Jerome Williams|R|Travis d'Arnaud|R|Home Run|C|Curveball|37|1|0|0|8|75
+Jerome Williams|R|Travis d'Arnaud|R|Home Run|E|Curveball|38|1|1|0|13|75
+Jerome Williams|R|Lucas Duda|L|Groundout|B|Sinker|39|0|0|0|13|87
+Jerome Williams|R|Lucas Duda|L|Groundout|X|Changeup|40|1|0|0|13|82
+Jerome Williams|R|Michael Cuddyer|R|Groundout|F|Sinker|41|0|0|1|4|88
+Jerome Williams|R|Michael Cuddyer|R|Groundout|T|Sinker|42|0|1|1|13|89
+Jerome Williams|R|Michael Cuddyer|R|Groundout|X|Four-Seam Fastball|43|0|2|1|12|90
+Jerome Williams|R|Daniel Murphy|L|Lineout|B|Changeup|44|0|0|2|13|83
+Jerome Williams|R|Daniel Murphy|L|Lineout|B|Sinker|45|1|0|2|11|88
+Jerome Williams|R|Daniel Murphy|L|Lineout|X|Sinker|46|2|0|2|13|88
+Jerome Williams|R|Eric Campbell|R|Lineout|X|Four-Seam Fastball|47|0|0|0|5|89
+Jerome Williams|R|Juan Lagares|R|Single|C|Sinker|48|0|0|1|9|88
+Jerome Williams|R|Juan Lagares|R|Single|F|Cutter|49|0|1|1|14|87
+Jerome Williams|R|Juan Lagares|R|Single|B|Sinker|50|0|2|1|11|89
+Jerome Williams|R|Juan Lagares|R|Single|D|Four-Seam Fastball|51|1|2|1|6|89
+Jerome Williams|R|Ruben Tejada|R|Groundout|C|Cutter|52|0|0|1|6|86
+Jerome Williams|R|Ruben Tejada|R|Groundout|X|Cutter|53|0|1|1|5|86
+Jerome Williams|R|Jonathon Niese|L|Single|B|Changeup|54|0|0|2|14|81
+Jerome Williams|R|Jonathon Niese|L|Single|E|Sinker|55|1|0|2|13|89
+Jerome Williams|R|Curtis Granderson|L|Single|S|Changeup|56|0|0|2|13|83
+Jerome Williams|R|Curtis Granderson|L|Single|D|Cutter|57|0|1|2|14|86
+Jerome Williams|R|Travis d'Arnaud|R|Forceout|X|Sinker|58|0|0|2|5|88
+Jerome Williams|R|Lucas Duda|L|Home Run|E|Sinker|59|0|0|0|4|88
+Jerome Williams|R|Michael Cuddyer|R|Double|B|Sinker|60|0|0|0|14|88
+Jerome Williams|R|Michael Cuddyer|R|Double|B|Cutter|61|1|0|0|14|87
+Jerome Williams|R|Michael Cuddyer|R|Double|C|Sinker|62|2|0|0|6|88
+Jerome Williams|R|Michael Cuddyer|R|Double|F|Cutter|63|2|1|0|6|85
+Jerome Williams|R|Michael Cuddyer|R|Double|F|Changeup|64|2|2|0|13|82
+Jerome Williams|R|Michael Cuddyer|R|Double|F|Cutter|65|2|2|0|6|87
+Jerome Williams|R|Michael Cuddyer|R|Double|D|Slider|66|2|2|0|13|79
+Jerome Williams|R|Daniel Murphy|L|Groundout|X|Sinker|67|0|0|0|13|89
+Jerome Williams|R|Eric Campbell|R|Fielders Choice|B|Sinker|68|0|0|1|11|89
+Jerome Williams|R|Eric Campbell|R|Fielders Choice|F|Cutter|69|1|0|1|13|88
+Jerome Williams|R|Eric Campbell|R|Fielders Choice|T|Cutter|70|1|1|1|6|88
+Jerome Williams|R|Eric Campbell|R|Fielders Choice|E|Cutter|71|1|2|1|14|87
+Jerome Williams|R|Juan Lagares|R|Flyout|C|Slider|72|0|0|1|2|77
+Jerome Williams|R|Juan Lagares|R|Flyout|B|Changeup|73|0|1|1|13|81
+Jerome Williams|R|Juan Lagares|R|Flyout|F|Cutter|74|1|1|1|4|86
+Jerome Williams|R|Juan Lagares|R|Flyout|X|Four-Seam Fastball|75|1|2|1|4|89
+Jerome Williams|R|Ruben Tejada|R|Intent Walk|I|Intentional Ball|76|0|0|2|12|62
+Jerome Williams|R|Ruben Tejada|R|Intent Walk|I|Intentional Ball|77|0|1|2|12|64
+Jerome Williams|R|Ruben Tejada|R|Intent Walk|I|Intentional Ball|78|0|2|2|12|60
+Jerome Williams|R|Ruben Tejada|R|Intent Walk|I|Intentional Ball|79|0|2|2|12|59
+Jerome Williams|R|Jonathon Niese|L|Groundout|C|Four-Seam Fastball|80|0|0|2|5|88
+Jerome Williams|R|Jonathon Niese|L|Groundout|X|Changeup|81|0|1|2|14|82
+Jerome Williams|R|Dee Gordon|L|Groundout|C|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Dee Gordon|L|Groundout|B|Slider|1|0|1|0|14|78
+Jerome Williams|R|Dee Gordon|L|Groundout|F|Sinker|2|1|1|0|11|89
+Jerome Williams|R|Dee Gordon|L|Groundout|X|Sinker|3|1|2|0|5|89
+Jerome Williams|R|Martin Prado|R|Strikeout|C|Sinker|4|0|0|1|13|90
+Jerome Williams|R|Martin Prado|R|Strikeout|S|Four-Seam Fastball|5|0|1|1|14|88
+Jerome Williams|R|Martin Prado|R|Strikeout|B|Changeup|6|0|2|1|13|85
+Jerome Williams|R|Martin Prado|R|Strikeout|B|Cutter|7|1|2|1|14|84
+Jerome Williams|R|Martin Prado|R|Strikeout|S|Changeup|8|2|2|1|13|84
+Jerome Williams|R|Giancarlo Stanton|R|Single|B|Sinker|9|0|0|2|11|91
+Jerome Williams|R|Giancarlo Stanton|R|Single|C|Cutter|10|1|0|2|14|86
+Jerome Williams|R|Giancarlo Stanton|R|Single|B|Changeup|11|1|1|2|13|83
+Jerome Williams|R|Giancarlo Stanton|R|Single|D|Sinker|12|2|1|2|14|91
+Jerome Williams|R|Michael Morse|R|Strikeout|C|Cutter|13|0|0|2|5|84
+Jerome Williams|R|Michael Morse|R|Strikeout|B|Sinker|14|0|1|2|11|89
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Sinker|15|1|1|2|7|89
+Jerome Williams|R|Michael Morse|R|Strikeout|*B|Cutter|16|1|2|2|14|86
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Changeup|17|2|2|2|9|83
+Jerome Williams|R|Michael Morse|R|Strikeout|W|Slider|18|2|2|2|14|80
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|B|Cutter|19|0|0|0|14|85
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|B|Changeup|20|1|0|0|13|84
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|C|Cutter|21|2|0|0|13|85
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|F|Sinker|22|2|1|0|2|90
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|C|Sinker|23|2|2|0|9|90
+Jerome Williams|R|Ichiro Suzuki|L|Lineout|B|Sinker|24|0|0|1|14|91
+Jerome Williams|R|Ichiro Suzuki|L|Lineout|B|Sinker|25|1|0|1|13|90
+Jerome Williams|R|Ichiro Suzuki|L|Lineout|X|Sinker|26|2|0|1|7|90
+Jerome Williams|R|J.T. Realmuto|R|Groundout|X|Sinker|27|0|0|2|8|90
+Jerome Williams|R|Adeiny Hechavarria|R|Flyout|B|Sinker|28|0|0|0|11|90
+Jerome Williams|R|Adeiny Hechavarria|R|Flyout|X|Sinker|29|1|0|0|13|89
+Jerome Williams|R|Dan Haren|R|Flyout|B|Four-Seam Fastball|30|0|0|1|14|90
+Jerome Williams|R|Dan Haren|R|Flyout|C|Four-Seam Fastball|31|1|0|1|1|89
+Jerome Williams|R|Dan Haren|R|Flyout|X|Cutter|32|1|1|1|5|87
+Jerome Williams|R|Dee Gordon|L|Single|C|Sinker|33|0|0|2|13|89
+Jerome Williams|R|Dee Gordon|L|Single|C|Cutter|34|0|1|2|13|87
+Jerome Williams|R|Dee Gordon|L|Single|B|Cutter|35|0|2|2|13|85
+Jerome Williams|R|Dee Gordon|L|Single|D|Changeup|36|1|2|2|13|83
+Jerome Williams|R|Martin Prado|R|Pickoff 1B|P|Pitchout|37|0|0|2|12|84
+Jerome Williams|R|Martin Prado|R|Pickoff 1B|C|Cutter|38|0|1|2|14|86
+Jerome Williams|R|Martin Prado|R|Pickoff 1B|C|Cutter|39|0|2|2|7|84
+Jerome Williams|R|Martin Prado|R|Flyout|X|Sinker|40|0|0|0|4|89
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|C|Cutter|41|0|0|1|6|83
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|B|Sinker|42|0|1|1|13|89
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|B|Sinker|43|1|1|1|13|90
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|C|Cutter|44|2|1|1|14|84
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|B|Slider|45|2|2|1|14|78
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|F|Sinker|46|3|2|1|8|90
+Jerome Williams|R|Giancarlo Stanton|R|Home Run|E|Cutter|47|3|2|1|12|84
+Jerome Williams|R|Michael Morse|R|Strikeout|C|Four-Seam Fastball|48|0|0|1|9|91
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Four-Seam Fastball|49|0|1|1|9|90
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Four-Seam Fastball|50|0|2|1|5|90
+Jerome Williams|R|Michael Morse|R|Strikeout|S|Curveball|51|0|2|1|13|75
+Jerome Williams|R|Marcell Ozuna|R|Lineout|S|Changeup|52|0|0|2|13|83
+Jerome Williams|R|Marcell Ozuna|R|Lineout|X|Sinker|53|0|1|2|11|90
+Jerome Williams|R|Ichiro Suzuki|L|Single|B|Cutter|54|0|0|0|11|84
+Jerome Williams|R|Ichiro Suzuki|L|Single|B|Changeup|55|1|0|0|13|82
+Jerome Williams|R|Ichiro Suzuki|L|Single|D|Sinker|56|2|0|0|11|87
+Jerome Williams|R|J.T. Realmuto|R|Single|B|Cutter|57|0|0|0|14|85
+Jerome Williams|R|J.T. Realmuto|R|Single|D|Sinker|58|1|0|0|13|88
+Jerome Williams|R|Adeiny Hechavarria|R|Single|B|Curveball|59|0|0|0|13|74
+Jerome Williams|R|Adeiny Hechavarria|R|Single|C|Cutter|60|1|0|0|8|86
+Jerome Williams|R|Adeiny Hechavarria|R|Single|E|Sinker|61|1|1|0|11|90
+Jerome Williams|R|Dan Haren|R|Grounded Into DP|X|Cutter|62|0|0|0|9|84
+Jerome Williams|R|Dee Gordon|L|Field Error|B|Sinker|63|0|0|2|13|89
+Jerome Williams|R|Dee Gordon|L|Field Error|F|Cutter|64|1|0|2|12|87
+Jerome Williams|R|Dee Gordon|L|Field Error|E|Slider|65|1|1|2|13|79
+Jerome Williams|R|Martin Prado|R|Walk|B|Sinker|66|0|0|2|14|88
+Jerome Williams|R|Martin Prado|R|Walk|*B|Changeup|67|1|0|2|14|81
+Jerome Williams|R|Martin Prado|R|Walk|C|Cutter|68|2|0|2|4|86
+Jerome Williams|R|Martin Prado|R|Walk|*B|Slider|69|2|1|2|14|79
+Jerome Williams|R|Martin Prado|R|Walk|B|Four-Seam Fastball|70|3|1|2|11|89
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|71|0|0|2|14|90
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|B|Sinker|72|1|0|2|11|90
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|C|Cutter|73|2|0|2|13|85
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|F|Changeup|74|2|1|2|13|83
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|W|Curveball|75|2|2|2|13|72
+Jerome Williams|R|Michael Morse|R|Single|F|Sinker|76|0|0|0|13|89
+Jerome Williams|R|Michael Morse|R|Single|B|Curveball|77|0|1|0|13|72
+Jerome Williams|R|Michael Morse|R|Single|T|Cutter|78|1|1|0|4|86
+Jerome Williams|R|Michael Morse|R|Single|D|Cutter|79|1|2|0|13|85
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|C|Cutter|80|0|0|0|13|86
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|B|Sinker|81|0|1|0|14|88
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|W|Changeup|82|1|1|0|13|82
+Jerome Williams|R|Marcell Ozuna|R|Strikeout|W|Changeup|83|1|2|0|13|83
+Jerome Williams|R|Ichiro Suzuki|L|Single|F|Cutter|84|0|0|1|3|86
+Jerome Williams|R|Ichiro Suzuki|L|Single|B|Four-Seam Fastball|85|0|1|1|14|87
+Jerome Williams|R|Ichiro Suzuki|L|Single|D|Sinker|86|1|1|1|6|89
+Jerome Williams|R|J.T. Realmuto|R|Pop Out|B|Changeup|87|0|0|1|13|82
+Jerome Williams|R|J.T. Realmuto|R|Pop Out|X|Four-Seam Fastball|88|1|0|1|5|88
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|B|Four-Seam Fastball|89|0|0|2|14|89
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|B|Four-Seam Fastball|90|1|0|2|14|89
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|C|Cutter|91|2|0|2|9|87
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|S|Curveball|92|2|1|2|4|72
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|X|Changeup|93|2|2|2|7|86
+Jerome Williams|R|Nick Markakis|L|Walk|B|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Nick Markakis|L|Walk|C|Four-Seam Fastball|1|1|0|0|8|88
+Jerome Williams|R|Nick Markakis|L|Walk|F|Cutter|2|1|1|0|6|88
+Jerome Williams|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|3|1|2|0|12|90
+Jerome Williams|R|Nick Markakis|L|Walk|B|Changeup|4|2|2|0|13|84
+Jerome Williams|R|Nick Markakis|L|Walk|F|Sinker|5|3|2|0|1|90
+Jerome Williams|R|Nick Markakis|L|Walk|*B|Four-Seam Fastball|6|3|2|0|14|88
+Jerome Williams|R|Andrelton Simmons|R|Lineout|B|Sinker|7|0|0|0|14|87
+Jerome Williams|R|Andrelton Simmons|R|Lineout|B|Changeup|8|1|0|0|14|85
+Jerome Williams|R|Andrelton Simmons|R|Lineout|X|Sinker|9|2|0|0|5|87
+Jerome Williams|R|Freddie Freeman|L|Pop Out|X|Sinker|10|0|0|1|4|88
+Jerome Williams|R|Kelly Johnson|L|Walk|B|Sinker|11|0|0|2|13|86
+Jerome Williams|R|Kelly Johnson|L|Walk|*B|Sinker|12|1|0|2|13|87
+Jerome Williams|R|Kelly Johnson|L|Walk|B|Sinker|13|2|0|2|1|88
+Jerome Williams|R|Kelly Johnson|L|Walk|C|Sinker|14|3|0|2|13|88
+Jerome Williams|R|Kelly Johnson|L|Walk|B|Sinker|15|3|1|2|13|88
+Jerome Williams|R|Jonny Gomes|R|Single|C|Cutter|16|0|0|2|5|87
+Jerome Williams|R|Jonny Gomes|R|Single|D|Cutter|17|0|1|2|14|87
+Jerome Williams|R|Jace Peterson|L|Single|C|Sinker|18|0|0|2|11|90
+Jerome Williams|R|Jace Peterson|L|Single|E|Changeup|19|0|1|2|7|83
+Jerome Williams|R|Christian Bethancourt|R|Flyout|B|Sinker|20|0|0|2|14|89
+Jerome Williams|R|Christian Bethancourt|R|Flyout|F|Sinker|21|1|0|2|13|90
+Jerome Williams|R|Christian Bethancourt|R|Flyout|B|Cutter|22|1|1|2|14|87
+Jerome Williams|R|Christian Bethancourt|R|Flyout|X|Sinker|23|2|1|2|13|90
+Jerome Williams|R|Eric Young Jr.|L|Single|C|Sinker|24|0|0|0|13|89
+Jerome Williams|R|Eric Young Jr.|L|Single|S|Sinker|25|0|1|0|13|89
+Jerome Williams|R|Eric Young Jr.|L|Single|D|Cutter|26|0|2|0|12|86
+Jerome Williams|R|Trevor Cahill|R|Strikeout|L|Sinker|27|0|0|0|8|86
+Jerome Williams|R|Trevor Cahill|R|Strikeout|F|Four-Seam Fastball|28|0|1|0|11|86
+Jerome Williams|R|Trevor Cahill|R|Strikeout|M|Sinker|29|0|2|0|11|88
+Jerome Williams|R|Nick Markakis|L|Grounded Into DP|B|Sinker|30|0|0|1|13|87
+Jerome Williams|R|Nick Markakis|L|Grounded Into DP|B|Sinker|31|1|0|1|13|87
+Jerome Williams|R|Nick Markakis|L|Grounded Into DP|C|Sinker|32|2|0|1|13|87
+Jerome Williams|R|Nick Markakis|L|Grounded Into DP|B|Sinker|33|2|1|1|13|88
+Jerome Williams|R|Nick Markakis|L|Grounded Into DP|X|Sinker|34|3|1|1|7|89
+Jerome Williams|R|Andrelton Simmons|R|Groundout|F|Sinker|35|0|0|0|11|89
+Jerome Williams|R|Andrelton Simmons|R|Groundout|F|Cutter|36|0|1|0|5|88
+Jerome Williams|R|Andrelton Simmons|R|Groundout|F|Slider|37|0|2|0|13|77
+Jerome Williams|R|Andrelton Simmons|R|Groundout|B|Curveball|38|0|2|0|14|69
+Jerome Williams|R|Andrelton Simmons|R|Groundout|B|Four-Seam Fastball|39|1|2|0|8|90
+Jerome Williams|R|Andrelton Simmons|R|Groundout|X|Sinker|40|2|2|0|7|91
+Jerome Williams|R|Freddie Freeman|L|Double|C|Sinker|41|0|0|1|13|90
+Jerome Williams|R|Freddie Freeman|L|Double|D|Changeup|42|0|1|1|13|84
+Jerome Williams|R|Kelly Johnson|L|Double|C|Changeup|43|0|0|1|13|82
+Jerome Williams|R|Kelly Johnson|L|Double|E|Sinker|44|0|1|1|6|90
+Jerome Williams|R|Jonny Gomes|R|Pop Out|B|Sinker|45|0|0|1|11|89
+Jerome Williams|R|Jonny Gomes|R|Pop Out|X|Sinker|46|1|0|1|1|90
+Jerome Williams|R|Jace Peterson|L|Flyout|X|Four-Seam Fastball|47|0|0|2|5|88
+Jerome Williams|R|Christian Bethancourt|R|Single|C|Sinker|48|0|0|2|6|89
+Jerome Williams|R|Christian Bethancourt|R|Single|D|Cutter|49|0|1|2|9|87
+Jerome Williams|R|Eric Young Jr.|L|Groundout|F|Sinker|50|0|0|2|13|87
+Jerome Williams|R|Eric Young Jr.|L|Groundout|S|Changeup|51|0|1|2|13|83
+Jerome Williams|R|Eric Young Jr.|L|Groundout|B|Changeup|52|0|2|2|13|80
+Jerome Williams|R|Eric Young Jr.|L|Groundout|X|Sinker|53|1|2|2|14|89
+Jerome Williams|R|Trevor Cahill|R|Lineout|X|Sinker|54|0|0|0|1|89
+Jerome Williams|R|Nick Markakis|L|Strikeout|*B|Changeup|55|0|0|1|14|82
+Jerome Williams|R|Nick Markakis|L|Strikeout|B|Sinker|56|1|0|1|11|89
+Jerome Williams|R|Nick Markakis|L|Strikeout|B|Sinker|57|2|0|1|11|89
+Jerome Williams|R|Nick Markakis|L|Strikeout|C|Sinker|58|3|0|1|13|89
+Jerome Williams|R|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|59|3|1|1|5|87
+Jerome Williams|R|Nick Markakis|L|Strikeout|T|Sinker|60|3|2|1|13|90
+Jerome Williams|R|Andrelton Simmons|R|Groundout|S|Curveball|61|0|0|2|6|74
+Jerome Williams|R|Andrelton Simmons|R|Groundout|S|Changeup|62|0|1|2|14|81
+Jerome Williams|R|Andrelton Simmons|R|Groundout|B|Sinker|63|0|2|2|11|89
+Jerome Williams|R|Andrelton Simmons|R|Groundout|B|Cutter|64|1|2|2|14|82
+Jerome Williams|R|Andrelton Simmons|R|Groundout|X|Sinker|65|2|2|2|4|90
+Jerome Williams|R|Freddie Freeman|L|Double|C|Changeup|66|0|0|0|6|82
+Jerome Williams|R|Freddie Freeman|L|Double|B|Sinker|67|0|1|0|14|90
+Jerome Williams|R|Freddie Freeman|L|Double|D|Four-Seam Fastball|68|1|1|0|2|88
+Jerome Williams|R|Kelly Johnson|L|Groundout|X|Sinker|69|0|0|0|13|88
+Jerome Williams|R|Jonny Gomes|R|Lineout|*B|Slider|70|0|0|1|14|77
+Jerome Williams|R|Jonny Gomes|R|Lineout|C|Sinker|71|1|0|1|14|90
+Jerome Williams|R|Jonny Gomes|R|Lineout|X|Cutter|72|1|1|1|6|87
+Jerome Williams|R|Jace Peterson|L|Flyout|B|Sinker|73|0|0|2|11|88
+Jerome Williams|R|Jace Peterson|L|Flyout|C|Changeup|74|1|0|2|4|80
+Jerome Williams|R|Jace Peterson|L|Flyout|X|Four-Seam Fastball|75|1|1|2|6|86
+Jerome Williams|R|Christian Bethancourt|R|Flyout|X|Four-Seam Fastball|76|0|0|0|6|90
+Jerome Williams|R|Eric Young Jr.|L|Flyout|S|Sinker|77|0|0|1|13|88
+Jerome Williams|R|Eric Young Jr.|L|Flyout|F|Sinker|78|0|1|1|13|88
+Jerome Williams|R|Eric Young Jr.|L|Flyout|X|Changeup|79|0|2|1|7|81
+Jerome Williams|R|Phil Gosselin|R|Groundout|C|Four-Seam Fastball|80|0|0|2|5|87
+Jerome Williams|R|Phil Gosselin|R|Groundout|C|Curveball|81|0|1|2|14|72
+Jerome Williams|R|Phil Gosselin|R|Groundout|X|Slider|82|0|2|2|9|77
+Jerome Williams|R|Nick Markakis|L|Pop Out|C|Changeup|83|0|0|0|7|80
+Jerome Williams|R|Nick Markakis|L|Pop Out|B|Changeup|84|0|1|0|13|78
+Jerome Williams|R|Nick Markakis|L|Pop Out|F|Cutter|85|1|1|0|12|85
+Jerome Williams|R|Nick Markakis|L|Pop Out|B|Changeup|86|1|2|0|13|79
+Jerome Williams|R|Nick Markakis|L|Pop Out|F|Cutter|87|2|2|0|13|82
+Jerome Williams|R|Nick Markakis|L|Pop Out|B|Sinker|88|2|2|0|11|89
+Jerome Williams|R|Nick Markakis|L|Pop Out|F|Changeup|89|3|2|0|13|80
+Jerome Williams|R|Nick Markakis|L|Pop Out|X|Sinker|90|3|2|0|2|89
+Jerome Williams|R|Andrelton Simmons|R|Single|D|Changeup|91|0|0|1|14|81
+Jerome Williams|R|Dee Gordon|L|Lineout|C|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Dee Gordon|L|Lineout|B|Sinker|1|0|1|0|11|89
+Jerome Williams|R|Dee Gordon|L|Lineout|B|Four-Seam Fastball|2|1|1|0|12|89
+Jerome Williams|R|Dee Gordon|L|Lineout|F|Sinker|3|2|1|0|11|88
+Jerome Williams|R|Dee Gordon|L|Lineout|X|Slider|4|2|2|0|13|77
+Jerome Williams|R|Martin Prado|R|Groundout|C|Changeup|5|0|0|1|13|82
+Jerome Williams|R|Martin Prado|R|Groundout|X|Four-Seam Fastball|6|0|1|1|12|89
+Jerome Williams|R|Giancarlo Stanton|R|Groundout|B|Sinker|7|0|0|2|13|90
+Jerome Williams|R|Giancarlo Stanton|R|Groundout|B|Changeup|8|1|0|2|13|82
+Jerome Williams|R|Giancarlo Stanton|R|Groundout|B|Four-Seam Fastball|9|2|0|2|11|90
+Jerome Williams|R|Giancarlo Stanton|R|Groundout|X|Cutter|10|3|0|2|8|84
+Jerome Williams|R|Marcell Ozuna|R|Double|C|Cutter|11|0|0|0|5|84
+Jerome Williams|R|Marcell Ozuna|R|Double|C|Changeup|12|0|1|0|13|82
+Jerome Williams|R|Marcell Ozuna|R|Double|D|Sinker|13|0|2|0|2|89
+Jerome Williams|R|Michael Morse|R|Groundout|F|Sinker|14|0|0|0|11|90
+Jerome Williams|R|Michael Morse|R|Groundout|B|Four-Seam Fastball|15|0|1|0|11|90
+Jerome Williams|R|Michael Morse|R|Groundout|C|Four-Seam Fastball|16|1|1|0|13|90
+Jerome Williams|R|Michael Morse|R|Groundout|B|Changeup|17|1|2|0|13|84
+Jerome Williams|R|Michael Morse|R|Groundout|B|Four-Seam Fastball|18|2|2|0|14|89
+Jerome Williams|R|Michael Morse|R|Groundout|F|Cutter|19|3|2|0|5|88
+Jerome Williams|R|Michael Morse|R|Groundout|X|Changeup|20|3|2|0|11|82
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|F|Cutter|21|0|0|1|6|87
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|B|Four-Seam Fastball|22|0|1|1|11|90
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|C|Four-Seam Fastball|23|1|1|1|9|90
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|B|Sinker|24|1|2|1|13|90
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|F|Changeup|25|2|2|1|13|84
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|*B|Slider|26|2|2|1|14|81
+Jerome Williams|R|J.T. Realmuto|R|Sac Fly|E|Sinker|27|3|2|1|6|90
+Jerome Williams|R|Ichiro Suzuki|L|Single|B|Four-Seam Fastball|28|0|0|2|12|90
+Jerome Williams|R|Ichiro Suzuki|L|Single|F|Four-Seam Fastball|29|1|0|2|14|88
+Jerome Williams|R|Ichiro Suzuki|L|Single|F|Sinker|30|1|1|2|6|90
+Jerome Williams|R|Ichiro Suzuki|L|Single|B|Changeup|31|1|2|2|11|83
+Jerome Williams|R|Ichiro Suzuki|L|Single|D|Slider|32|2|2|2|8|77
+Jerome Williams|R|Adeiny Hechavarria|R|Groundout|F|Cutter|33|0|0|2|9|86
+Jerome Williams|R|Adeiny Hechavarria|R|Groundout|X|Cutter|34|0|1|2|14|86
+Jerome Williams|R|Tom Koehler|R|Groundout|C|Four-Seam Fastball|35|0|0|0|1|89
+Jerome Williams|R|Tom Koehler|R|Groundout|S|Cutter|36|0|1|0|4|86
+Jerome Williams|R|Tom Koehler|R|Groundout|X|Cutter|37|0|2|0|2|87
+Jerome Williams|R|Dee Gordon|L|Single|B|Sinker|38|0|0|1|13|89
+Jerome Williams|R|Dee Gordon|L|Single|D|Changeup|39|1|0|1|14|82
+Jerome Williams|R|Martin Prado|R|Groundout|C|Sinker|40|0|0|1|8|90
+Jerome Williams|R|Martin Prado|R|Groundout|F|Sinker|41|0|1|1|13|89
+Jerome Williams|R|Martin Prado|R|Groundout|B|Four-Seam Fastball|42|0|2|1|13|87
+Jerome Williams|R|Martin Prado|R|Groundout|F|Changeup|43|1|2|1|13|83
+Jerome Williams|R|Martin Prado|R|Groundout|B|Changeup|44|1|2|1|13|82
+Jerome Williams|R|Martin Prado|R|Groundout|X|Cutter|45|2|2|1|14|87
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|S|Changeup|46|0|0|2|13|83
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|B|Changeup|47|0|1|2|13|83
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|C|Four-Seam Fastball|48|1|1|2|8|89
+Jerome Williams|R|Giancarlo Stanton|R|Strikeout|W|Slider|49|1|2|2|14|81
+Jerome Williams|R|Marcell Ozuna|R|Double|B|N/A|50|0|0|0|0|0
+Jerome Williams|R|Marcell Ozuna|R|Double|B|Sinker|51|1|0|0|14|89
+Jerome Williams|R|Marcell Ozuna|R|Double|B|Cutter|52|2|0|0|11|85
+Jerome Williams|R|Marcell Ozuna|R|Double|C|Sinker|53|3|0|0|13|88
+Jerome Williams|R|Marcell Ozuna|R|Double|F|Sinker|54|3|1|0|13|90
+Jerome Williams|R|Marcell Ozuna|R|Double|D|Sinker|55|3|2|0|7|91
+Jerome Williams|R|Michael Morse|R|Field Error|F|Cutter|56|0|0|0|14|86
+Jerome Williams|R|Michael Morse|R|Field Error|S|Changeup|57|0|1|0|13|82
+Jerome Williams|R|Michael Morse|R|Field Error|*B|Slider|58|0|2|0|13|81
+Jerome Williams|R|Michael Morse|R|Field Error|F|Slider|59|1|2|0|9|77
+Jerome Williams|R|Michael Morse|R|Field Error|B|Sinker|60|1|2|0|13|91
+Jerome Williams|R|Michael Morse|R|Field Error|D|Changeup|61|2|2|0|8|82
+Jerome Williams|R|J.T. Realmuto|R|Flyout|X|Sinker|62|0|0|0|7|90
+Jerome Williams|R|Ichiro Suzuki|L|Grounded Into DP|B|Cutter|63|0|0|1|14|87
+Jerome Williams|R|Ichiro Suzuki|L|Grounded Into DP|S|Cutter|64|1|0|1|14|87
+Jerome Williams|R|Ichiro Suzuki|L|Grounded Into DP|B|Cutter|65|1|1|1|14|87
+Jerome Williams|R|Ichiro Suzuki|L|Grounded Into DP|B|Sinker|66|2|1|1|11|89
+Jerome Williams|R|Ichiro Suzuki|L|Grounded Into DP|X|Sinker|67|3|1|1|8|89
+Jerome Williams|R|Adeiny Hechavarria|R|Flyout|L|Cutter|68|0|0|0|2|86
+Jerome Williams|R|Adeiny Hechavarria|R|Flyout|X|Changeup|69|0|1|0|8|81
+Jerome Williams|R|Reid Brignac|L|Walk|F|Changeup|70|0|0|1|5|79
+Jerome Williams|R|Reid Brignac|L|Walk|B|Sinker|71|0|1|1|14|87
+Jerome Williams|R|Reid Brignac|L|Walk|B|Sinker|72|1|1|1|1|89
+Jerome Williams|R|Reid Brignac|L|Walk|F|Changeup|73|2|1|1|8|82
+Jerome Williams|R|Reid Brignac|L|Walk|B|Four-Seam Fastball|74|2|2|1|11|90
+Jerome Williams|R|Reid Brignac|L|Walk|F|Sinker|75|3|2|1|13|90
+Jerome Williams|R|Reid Brignac|L|Walk|B|Four-Seam Fastball|76|3|2|1|11|90
+Jerome Williams|R|Dee Gordon|L|Single|D|Sinker|77|0|0|1|13|88
+Jerome Williams|R|Martin Prado|R|Single|B|Cutter|78|0|0|1|13|88
+Jerome Williams|R|Martin Prado|R|Single|B|Cutter|79|1|0|1|13|87
+Jerome Williams|R|Martin Prado|R|Single|E|Sinker|80|2|0|1|8|90
+Jerome Williams|R|Giancarlo Stanton|R|Double|B|Four-Seam Fastball|81|0|0|1|11|89
+Jerome Williams|R|Giancarlo Stanton|R|Double|B|Sinker|82|1|0|1|11|90
+Jerome Williams|R|Giancarlo Stanton|R|Double|E|Changeup|83|2|0|1|4|83
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|84|0|0|1|12|67
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|85|0|1|1|12|65
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|86|0|2|1|12|66
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|87|0|2|1|12|64
+Jerome Williams|R|Michael Morse|R|Strikeout|C|Four-Seam Fastball|88|0|0|1|12|90
+Jerome Williams|R|Michael Morse|R|Strikeout|B|Sinker|89|0|1|1|14|89
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Sinker|90|1|1|1|13|90
+Jerome Williams|R|Michael Morse|R|Strikeout|B|Four-Seam Fastball|91|1|2|1|14|91
+Jerome Williams|R|Michael Morse|R|Strikeout|F|Cutter|92|2|2|1|9|87
+Jerome Williams|R|Michael Morse|R|Strikeout|S|Sinker|93|2|2|1|5|90
+Jerome Williams|R|J.T. Realmuto|R|Groundout|X|Four-Seam Fastball|94|0|0|2|4|88
+Jerome Williams|R|Nick Markakis|L|Flyout|B|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Nick Markakis|L|Flyout|C|Sinker|1|1|0|0|13|89
+Jerome Williams|R|Nick Markakis|L|Flyout|F|Four-Seam Fastball|2|1|1|0|7|89
+Jerome Williams|R|Nick Markakis|L|Flyout|F|Cutter|3|1|2|0|14|88
+Jerome Williams|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|4|1|2|0|13|90
+Jerome Williams|R|Nick Markakis|L|Flyout|F|Sinker|5|2|2|0|13|90
+Jerome Williams|R|Nick Markakis|L|Flyout|X|Sinker|6|2|2|0|11|90
+Jerome Williams|R|Andrelton Simmons|R|Home Run|B|Sinker|7|0|0|1|13|90
+Jerome Williams|R|Andrelton Simmons|R|Home Run|E|Four-Seam Fastball|8|1|0|1|5|89
+Jerome Williams|R|Freddie Freeman|L|Flyout|B|Sinker|9|0|0|1|14|90
+Jerome Williams|R|Freddie Freeman|L|Flyout|B|Sinker|10|1|0|1|13|89
+Jerome Williams|R|Freddie Freeman|L|Flyout|X|Sinker|11|2|0|1|5|90
+Jerome Williams|R|Kelly Johnson|L|Groundout|B|Sinker|12|0|0|2|13|90
+Jerome Williams|R|Kelly Johnson|L|Groundout|B|Sinker|13|1|0|2|14|90
+Jerome Williams|R|Kelly Johnson|L|Groundout|F|Four-Seam Fastball|14|2|0|2|13|89
+Jerome Williams|R|Kelly Johnson|L|Groundout|C|Changeup|15|2|1|2|13|83
+Jerome Williams|R|Kelly Johnson|L|Groundout|X|Cutter|16|2|2|2|14|89
+Jerome Williams|R|Alberto Callaspo|L|Lineout|B|Sinker|17|0|0|0|13|89
+Jerome Williams|R|Alberto Callaspo|L|Lineout|F|Sinker|18|1|0|0|1|88
+Jerome Williams|R|Alberto Callaspo|L|Lineout|X|Changeup|19|1|1|0|11|82
+Jerome Williams|R|Christian Bethancourt|R|Strikeout|F|Four-Seam Fastball|20|0|0|1|1|90
+Jerome Williams|R|Christian Bethancourt|R|Strikeout|C|Four-Seam Fastball|21|0|1|1|14|90
+Jerome Williams|R|Christian Bethancourt|R|Strikeout|S|Four-Seam Fastball|22|0|2|1|14|91
+Jerome Williams|R|Jace Peterson|L|Flyout|X|Changeup|23|0|0|2|4|85
+Jerome Williams|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|24|0|0|0|14|90
+Jerome Williams|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|25|1|0|0|12|90
+Jerome Williams|R|Cameron Maybin|R|Groundout|X|Sinker|26|2|0|0|8|90
+Jerome Williams|R|Mike Foltynewicz|R|Strikeout|F|Four-Seam Fastball|27|0|0|1|2|90
+Jerome Williams|R|Mike Foltynewicz|R|Strikeout|F|Cutter|28|0|1|1|9|87
+Jerome Williams|R|Mike Foltynewicz|R|Strikeout|S|Cutter|29|0|2|1|14|87
+Jerome Williams|R|Nick Markakis|L|Lineout|B|Sinker|30|0|0|2|13|89
+Jerome Williams|R|Nick Markakis|L|Lineout|C|Changeup|31|1|0|2|13|84
+Jerome Williams|R|Nick Markakis|L|Lineout|B|Cutter|32|1|1|2|12|87
+Jerome Williams|R|Nick Markakis|L|Lineout|F|Sinker|33|2|1|2|13|90
+Jerome Williams|R|Nick Markakis|L|Lineout|B|Four-Seam Fastball|34|2|2|2|12|90
+Jerome Williams|R|Nick Markakis|L|Lineout|F|Changeup|35|3|2|2|13|84
+Jerome Williams|R|Nick Markakis|L|Lineout|X|Changeup|36|3|2|2|13|84
+Jerome Williams|R|Andrelton Simmons|R|Double|B|Curveball|37|0|0|0|13|68
+Jerome Williams|R|Andrelton Simmons|R|Double|B|Cutter|38|1|0|0|14|86
+Jerome Williams|R|Andrelton Simmons|R|Double|C|Sinker|39|2|0|0|9|87
+Jerome Williams|R|Andrelton Simmons|R|Double|S|Cutter|40|2|1|0|14|85
+Jerome Williams|R|Andrelton Simmons|R|Double|D|Four-Seam Fastball|41|2|2|0|13|90
+Jerome Williams|R|Freddie Freeman|L|Double|*B|Sinker|42|0|0|0|13|90
+Jerome Williams|R|Freddie Freeman|L|Double|F|Four-Seam Fastball|43|1|0|0|8|90
+Jerome Williams|R|Freddie Freeman|L|Double|B|Cutter|44|1|1|0|14|87
+Jerome Williams|R|Freddie Freeman|L|Double|B|Sinker|45|2|1|0|11|89
+Jerome Williams|R|Freddie Freeman|L|Double|S|Changeup|46|3|1|0|13|81
+Jerome Williams|R|Freddie Freeman|L|Double|E|Cutter|47|3|2|0|5|87
+Jerome Williams|R|Kelly Johnson|L|Strikeout|B|Sinker|48|0|0|0|13|88
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Cutter|49|1|0|0|9|87
+Jerome Williams|R|Kelly Johnson|L|Strikeout|B|Sinker|50|1|1|0|11|89
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Sinker|51|2|1|0|13|88
+Jerome Williams|R|Kelly Johnson|L|Strikeout|B|Cutter|52|2|2|0|11|86
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Four-Seam Fastball|53|3|2|0|8|87
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Changeup|54|3|2|0|14|82
+Jerome Williams|R|Kelly Johnson|L|Strikeout|C|Sinker|55|3|2|0|14|90
+Jerome Williams|R|Alberto Callaspo|L|Single|C|Changeup|56|0|0|1|4|83
+Jerome Williams|R|Alberto Callaspo|L|Single|D|Changeup|57|0|1|1|13|81
+Jerome Williams|R|Christian Bethancourt|R|Grounded Into DP|X|Cutter|58|0|0|1|14|86
+Jerome Williams|R|Jace Peterson|L|Single|B|Sinker|59|0|0|0|13|88
+Jerome Williams|R|Jace Peterson|L|Single|C|Sinker|60|1|0|0|11|88
+Jerome Williams|R|Jace Peterson|L|Single|C|Curveball|61|1|1|0|1|68
+Jerome Williams|R|Jace Peterson|L|Single|D|Changeup|62|1|2|0|13|81
+Jerome Williams|R|Cameron Maybin|R|Single|B|Cutter|63|0|0|0|14|84
+Jerome Williams|R|Cameron Maybin|R|Single|D|Sinker|64|1|0|0|7|87
+Jerome Williams|R|Mike Foltynewicz|R|Sac Fly|B|Sinker|65|0|0|0|13|87
+Jerome Williams|R|Mike Foltynewicz|R|Sac Fly|E|Four-Seam Fastball|66|1|0|0|4|90
+Jerome Williams|R|Nick Markakis|L|Single|C|Cutter|67|0|0|1|9|87
+Jerome Williams|R|Nick Markakis|L|Single|F|Four-Seam Fastball|68|0|1|1|9|90
+Jerome Williams|R|Nick Markakis|L|Single|E|Slider|69|0|2|1|13|80
+Jerome Williams|R|Andrelton Simmons|R|Single|B|Curveball|70|0|0|1|14|73
+Jerome Williams|R|Andrelton Simmons|R|Single|D|Sinker|71|1|0|1|11|87
+Jerome Williams|R|Gregory Polanco|L|Groundout|X|Sinker|0|0|0|0|13|89
+Jerome Williams|R|Neil Walker|L|Hit By Pitch|C|Sinker|1|0|0|1|8|89
+Jerome Williams|R|Neil Walker|L|Hit By Pitch|B|Sinker|2|0|1|1|13|88
+Jerome Williams|R|Neil Walker|L|Hit By Pitch|H|Four-Seam Fastball|3|1|1|1|12|90
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|S|Sinker|4|0|0|1|13|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|S|Sinker|5|0|1|1|14|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|F|Sinker|6|0|2|1|13|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|S|Cutter|7|0|2|1|14|85
+Jerome Williams|R|Starling Marte|R|Strikeout|*B|Cutter|8|0|0|2|14|86
+Jerome Williams|R|Starling Marte|R|Strikeout|S|Cutter|9|1|0|2|8|85
+Jerome Williams|R|Starling Marte|R|Strikeout|F|Sinker|10|1|1|2|13|88
+Jerome Williams|R|Starling Marte|R|Strikeout|B|Sinker|11|1|2|2|14|88
+Jerome Williams|R|Starling Marte|R|Strikeout|W|Changeup|12|2|2|2|13|83
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|C|Changeup|13|0|0|0|7|83
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|B|Cutter|14|0|1|0|12|87
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|C|Cutter|15|1|1|0|8|84
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|B|Changeup|16|1|2|0|13|82
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|B|Sinker|17|2|2|0|13|90
+Jerome Williams|R|Pedro Alvarez|L|Strikeout|S|Changeup|18|3|2|0|13|84
+Jerome Williams|R|Jung Ho Kang|R|Double|C|Cutter|19|0|0|1|7|86
+Jerome Williams|R|Jung Ho Kang|R|Double|B|Changeup|20|0|1|1|13|84
+Jerome Williams|R|Jung Ho Kang|R|Double|B|Sinker|21|1|1|1|11|89
+Jerome Williams|R|Jung Ho Kang|R|Double|D|Four-Seam Fastball|22|2|1|1|14|90
+Jerome Williams|R|Jordy Mercer|R|Groundout|B|Sinker|23|0|0|1|13|90
+Jerome Williams|R|Jordy Mercer|R|Groundout|*B|Sinker|24|1|0|1|14|91
+Jerome Williams|R|Jordy Mercer|R|Groundout|C|Cutter|25|2|0|1|7|87
+Jerome Williams|R|Jordy Mercer|R|Groundout|S|Changeup|26|2|1|1|7|83
+Jerome Williams|R|Jordy Mercer|R|Groundout|X|Changeup|27|2|2|1|13|84
+Jerome Williams|R|Chris Stewart|R|Groundout|C|Four-Seam Fastball|28|0|0|2|9|88
+Jerome Williams|R|Chris Stewart|R|Groundout|B|Sinker|29|0|1|2|13|90
+Jerome Williams|R|Chris Stewart|R|Groundout|X|Cutter|30|1|1|2|7|86
+Jerome Williams|R|Gerrit Cole|R|Groundout|C|Sinker|31|0|0|0|4|89
+Jerome Williams|R|Gerrit Cole|R|Groundout|B|Sinker|32|0|1|0|13|89
+Jerome Williams|R|Gerrit Cole|R|Groundout|S|Cutter|33|1|1|0|14|86
+Jerome Williams|R|Gerrit Cole|R|Groundout|X|Cutter|34|1|2|0|14|86
+Jerome Williams|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|35|0|0|1|13|89
+Jerome Williams|R|Gregory Polanco|L|Walk|C|Changeup|36|1|0|1|13|83
+Jerome Williams|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|37|1|1|1|14|88
+Jerome Williams|R|Gregory Polanco|L|Walk|B|Sinker|38|2|1|1|1|89
+Jerome Williams|R|Gregory Polanco|L|Walk|C|Sinker|39|3|1|1|13|89
+Jerome Williams|R|Gregory Polanco|L|Walk|B|Four-Seam Fastball|40|3|2|1|14|91
+Jerome Williams|R|Neil Walker|L|Flyout|X|Sinker|41|0|0|1|7|87
+Jerome Williams|R|Andrew McCutchen|R|Walk|C|Sinker|42|0|0|2|8|88
+Jerome Williams|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|43|0|1|2|14|88
+Jerome Williams|R|Andrew McCutchen|R|Walk|B|Cutter|44|1|1|2|14|86
+Jerome Williams|R|Andrew McCutchen|R|Walk|B|Sinker|45|2|1|2|13|89
+Jerome Williams|R|Andrew McCutchen|R|Walk|B|Cutter|46|3|1|2|13|86
+Jerome Williams|R|Starling Marte|R|Home Run|F|Changeup|47|0|0|2|8|83
+Jerome Williams|R|Starling Marte|R|Home Run|F|Cutter|48|0|1|2|14|86
+Jerome Williams|R|Starling Marte|R|Home Run|F|Four-Seam Fastball|49|0|2|2|11|88
+Jerome Williams|R|Starling Marte|R|Home Run|B|Sinker|50|0|2|2|11|90
+Jerome Williams|R|Starling Marte|R|Home Run|F|Changeup|51|1|2|2|14|84
+Jerome Williams|R|Starling Marte|R|Home Run|E|Curveball|52|1|2|2|8|74
+Jerome Williams|R|Pedro Alvarez|L|Flyout|B|Four-Seam Fastball|53|0|0|2|14|88
+Jerome Williams|R|Pedro Alvarez|L|Flyout|C|Sinker|54|1|0|2|14|89
+Jerome Williams|R|Pedro Alvarez|L|Flyout|X|Sinker|55|1|1|2|6|89
+Jerome Williams|R|Jung Ho Kang|R|Groundout|B|Sinker|56|0|0|0|11|89
+Jerome Williams|R|Jung Ho Kang|R|Groundout|B|Cutter|57|1|0|0|14|87
+Jerome Williams|R|Jung Ho Kang|R|Groundout|B|Cutter|58|2|0|0|14|87
+Jerome Williams|R|Jung Ho Kang|R|Groundout|C|Four-Seam Fastball|59|3|0|0|9|89
+Jerome Williams|R|Jung Ho Kang|R|Groundout|X|Sinker|60|3|1|0|5|90
+Jerome Williams|R|Jordy Mercer|R|Lineout|X|Sinker|61|0|0|1|8|90
+Jerome Williams|R|Chris Stewart|R|Double|C|Four-Seam Fastball|62|0|0|2|7|89
+Jerome Williams|R|Chris Stewart|R|Double|C|Sinker|63|0|1|2|14|90
+Jerome Williams|R|Chris Stewart|R|Double|F|Cutter|64|0|2|2|14|88
+Jerome Williams|R|Chris Stewart|R|Double|B|Cutter|65|0|2|2|14|85
+Jerome Williams|R|Chris Stewart|R|Double|D|Sinker|66|1|2|2|11|90
+Jerome Williams|R|Gerrit Cole|R|Groundout|F|Cutter|67|0|0|2|5|87
+Jerome Williams|R|Gerrit Cole|R|Groundout|X|Sinker|68|0|1|2|4|89
+Jerome Williams|R|Gregory Polanco|L|Groundout|C|Changeup|69|0|0|0|14|83
+Jerome Williams|R|Gregory Polanco|L|Groundout|X|Sinker|70|0|1|0|7|88
+Jerome Williams|R|Neil Walker|L|Double|B|Sinker|71|0|0|1|11|87
+Jerome Williams|R|Neil Walker|L|Double|F|Sinker|72|1|0|1|11|87
+Jerome Williams|R|Neil Walker|L|Double|B|Changeup|73|1|1|1|13|82
+Jerome Williams|R|Neil Walker|L|Double|C|Sinker|74|2|1|1|14|88
+Jerome Williams|R|Neil Walker|L|Double|D|Changeup|75|2|2|1|13|83
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|F|Sinker|76|0|0|1|4|88
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|B|Sinker|77|0|1|1|13|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|S|Sinker|78|1|1|1|14|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|F|Sinker|79|1|2|1|13|89
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|B|Cutter|80|1|2|1|13|86
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|F|Changeup|81|2|2|1|13|82
+Jerome Williams|R|Andrew McCutchen|R|Strikeout|C|Cutter|82|2|2|1|8|86
+Jerome Williams|R|Starling Marte|R|Lineout|F|Sinker|83|0|0|2|13|89
+Jerome Williams|R|Starling Marte|R|Lineout|X|Cutter|84|0|1|2|6|86
+Jerome Williams|R|Ender Inciarte|L|Groundout|B|Sinker|0|0|0|0|13|90
+Jerome Williams|R|Ender Inciarte|L|Groundout|F|Sinker|1|1|0|0|13|90
+Jerome Williams|R|Ender Inciarte|L|Groundout|L|Changeup|2|1|1|0|1|85
+Jerome Williams|R|Ender Inciarte|L|Groundout|F|Cutter|3|1|2|0|12|88
+Jerome Williams|R|Ender Inciarte|L|Groundout|B|Sinker|4|1|2|0|12|91
+Jerome Williams|R|Ender Inciarte|L|Groundout|X|Changeup|5|2|2|0|4|84
+Jerome Williams|R|Mark Trumbo|R|Groundout|C|Four-Seam Fastball|6|0|0|1|14|90
+Jerome Williams|R|Mark Trumbo|R|Groundout|X|Cutter|7|0|1|1|6|88
+Jerome Williams|R|Paul Goldschmidt|R|Groundout|C|Four-Seam Fastball|8|0|0|2|14|90
+Jerome Williams|R|Paul Goldschmidt|R|Groundout|X|Sinker|9|0|1|2|7|90
+Jerome Williams|R|David Peralta|L|Flyout|C|Changeup|10|0|0|0|7|83
+Jerome Williams|R|David Peralta|L|Flyout|T|Changeup|11|0|1|0|4|83
+Jerome Williams|R|David Peralta|L|Flyout|B|Four-Seam Fastball|12|0|2|0|12|89
+Jerome Williams|R|David Peralta|L|Flyout|X|Sinker|13|1|2|0|6|91
+Jerome Williams|R|Yasmany Tomas|R|Single|F|Four-Seam Fastball|14|0|0|1|13|88
+Jerome Williams|R|Yasmany Tomas|R|Single|B|Sinker|15|0|1|1|14|91
+Jerome Williams|R|Yasmany Tomas|R|Single|S|Sinker|16|1|1|1|13|91
+Jerome Williams|R|Yasmany Tomas|R|Single|B|Sinker|17|1|2|1|14|91
+Jerome Williams|R|Yasmany Tomas|R|Single|F|Changeup|18|2|2|1|13|85
+Jerome Williams|R|Yasmany Tomas|R|Single|B|Cutter|19|2|2|1|12|88
+Jerome Williams|R|Yasmany Tomas|R|Single|D|Changeup|20|3|2|1|8|84
+Jerome Williams|R|Chris Owings|R|Single|B|Sinker|21|0|0|1|14|90
+Jerome Williams|R|Chris Owings|R|Single|F|Sinker|22|1|0|1|14|89
+Jerome Williams|R|Chris Owings|R|Single|S|Cutter|23|1|1|1|9|86
+Jerome Williams|R|Chris Owings|R|Single|D|Sinker|24|1|2|1|11|91
+Jerome Williams|R|Tuffy Gosewisch|R|Strikeout|B|Cutter|25|0|0|1|14|88
+Jerome Williams|R|Tuffy Gosewisch|R|Strikeout|S|Changeup|26|1|0|1|9|84
+Jerome Williams|R|Tuffy Gosewisch|R|Strikeout|C|Four-Seam Fastball|27|1|1|1|5|88
+Jerome Williams|R|Tuffy Gosewisch|R|Strikeout|S|Sinker|28|1|2|1|13|91
+Jerome Williams|R|Nick Ahmed|R|Strikeout|S|Changeup|29|0|0|2|13|84
+Jerome Williams|R|Nick Ahmed|R|Strikeout|F|Sinker|30|0|1|2|8|90
+Jerome Williams|R|Nick Ahmed|R|Strikeout|F|Changeup|31|0|2|2|13|85
+Jerome Williams|R|Nick Ahmed|R|Strikeout|B|Cutter|32|0|2|2|14|88
+Jerome Williams|R|Nick Ahmed|R|Strikeout|B|Cutter|33|1|2|2|14|89
+Jerome Williams|R|Nick Ahmed|R|Strikeout|S|Sinker|34|2|2|2|13|92
+Jerome Williams|R|Archie Bradley|R|Strikeout|C|Cutter|35|0|0|0|13|86
+Jerome Williams|R|Archie Bradley|R|Strikeout|B|Sinker|36|0|1|0|11|89
+Jerome Williams|R|Archie Bradley|R|Strikeout|S|Changeup|37|1|1|0|4|83
+Jerome Williams|R|Archie Bradley|R|Strikeout|S|Cutter|38|1|2|0|9|87
+Jerome Williams|R|Ender Inciarte|L|Groundout|F|Cutter|39|0|0|1|14|87
+Jerome Williams|R|Ender Inciarte|L|Groundout|F|Cutter|40|0|1|1|12|88
+Jerome Williams|R|Ender Inciarte|L|Groundout|X|Sinker|41|0|2|1|8|90
+Jerome Williams|R|Mark Trumbo|R|Single|B|Four-Seam Fastball|42|0|0|2|14|91
+Jerome Williams|R|Mark Trumbo|R|Single|D|Sinker|43|1|0|2|7|91
+Jerome Williams|R|Paul Goldschmidt|R|Forceout|S|Cutter|44|0|0|2|13|87
+Jerome Williams|R|Paul Goldschmidt|R|Forceout|X|Cutter|45|0|1|2|9|86
+Jerome Williams|R|David Peralta|L|Groundout|B|Sinker|46|0|0|0|13|90
+Jerome Williams|R|David Peralta|L|Groundout|C|Four-Seam Fastball|47|1|0|0|8|89
+Jerome Williams|R|David Peralta|L|Groundout|X|Cutter|48|1|1|0|9|87
+Jerome Williams|R|Yasmany Tomas|R|Pop Out|X|Cutter|49|0|0|1|8|86
+Jerome Williams|R|Chris Owings|R|Single|C|Four-Seam Fastball|50|0|0|2|1|90
+Jerome Williams|R|Chris Owings|R|Single|D|Sinker|51|0|1|2|8|90
+Jerome Williams|R|Tuffy Gosewisch|R|Field Error|D|Cutter|52|0|0|2|8|86
+Jerome Williams|R|Nick Ahmed|R|Single|F|Cutter|53|0|0|2|14|87
+Jerome Williams|R|Nick Ahmed|R|Single|S|Sinker|54|0|1|2|7|91
+Jerome Williams|R|Nick Ahmed|R|Single|E|Sinker|55|0|2|2|13|92
+Jerome Williams|R|Aaron Hill|R|Flyout|X|Cutter|56|0|0|2|5|87
+Jerome Williams|R|Ender Inciarte|L|Single|B|Curveball|57|0|0|0|13|68
+Jerome Williams|R|Ender Inciarte|L|Single|C|Sinker|58|1|0|0|13|88
+Jerome Williams|R|Ender Inciarte|L|Single|B|Changeup|59|1|1|0|14|81
+Jerome Williams|R|Ender Inciarte|L|Single|D|Sinker|60|2|1|0|11|89
+Jerome Williams|R|Mark Trumbo|R|Strikeout|B|Cutter|61|0|0|0|14|86
+Jerome Williams|R|Mark Trumbo|R|Strikeout|B|Four-Seam Fastball|62|1|0|0|14|88
+Jerome Williams|R|Mark Trumbo|R|Strikeout|B|Cutter|63|2|0|0|14|86
+Jerome Williams|R|Mark Trumbo|R|Strikeout|C|Sinker|64|3|0|0|13|88
+Jerome Williams|R|Mark Trumbo|R|Strikeout|S|Sinker|65|3|1|0|7|86
+Jerome Williams|R|Mark Trumbo|R|Strikeout|F|Changeup|66|3|2|0|13|86
+Jerome Williams|R|Mark Trumbo|R|Strikeout|S|Cutter|67|3|2|0|14|84
+Jerome Williams|R|Paul Goldschmidt|R|Home Run|E|Sinker|68|0|0|1|4|86
+Jerome Williams|R|David Peralta|L|Groundout|B|Sinker|69|0|0|1|13|89
+Jerome Williams|R|David Peralta|L|Groundout|S|Changeup|70|1|0|1|13|81
+Jerome Williams|R|David Peralta|L|Groundout|X|Sinker|71|1|1|1|14|89
+Jerome Williams|R|Yasmany Tomas|R|Groundout|B|Sinker|72|0|0|2|14|88
+Jerome Williams|R|Yasmany Tomas|R|Groundout|C|Cutter|73|1|0|2|9|87
+Jerome Williams|R|Yasmany Tomas|R|Groundout|X|Sinker|74|1|1|2|11|89
+Jerome Williams|R|Charlie Blackmon|L|Single|B|Sinker|0|0|0|0|14|88
+Jerome Williams|R|Charlie Blackmon|L|Single|F|Sinker|1|1|0|0|5|89
+Jerome Williams|R|Charlie Blackmon|L|Single|D|Sinker|2|1|1|0|7|90
+Jerome Williams|R|DJ LeMahieu|R|Lineout|L|Sinker|3|0|0|0|7|89
+Jerome Williams|R|DJ LeMahieu|R|Lineout|F|Sinker|4|0|1|0|8|90
+Jerome Williams|R|DJ LeMahieu|R|Lineout|X|Cutter|5|0|2|0|12|87
+Jerome Williams|R|Carlos Gonzalez|L|Forceout|S|Changeup|6|0|0|1|13|83
+Jerome Williams|R|Carlos Gonzalez|L|Forceout|B|Four-Seam Fastball|7|0|1|1|14|89
+Jerome Williams|R|Carlos Gonzalez|L|Forceout|S|Cutter|8|1|1|1|14|88
+Jerome Williams|R|Carlos Gonzalez|L|Forceout|X|Changeup|9|1|2|1|13|84
+Jerome Williams|R|Troy Tulowitzki|R|Flyout|B|Cutter|10|0|0|2|14|88
+Jerome Williams|R|Troy Tulowitzki|R|Flyout|X|Four-Seam Fastball|11|1|0|2|5|91
+Jerome Williams|R|Ben Paulsen|L|Groundout|B|Sinker|12|0|0|0|13|88
+Jerome Williams|R|Ben Paulsen|L|Groundout|X|Changeup|13|1|0|0|14|84
+Jerome Williams|R|Michael McKenry|R|Walk|B|Four-Seam Fastball|14|0|0|1|14|90
+Jerome Williams|R|Michael McKenry|R|Walk|B|Sinker|15|1|0|1|13|90
+Jerome Williams|R|Michael McKenry|R|Walk|C|Cutter|16|2|0|1|8|87
+Jerome Williams|R|Michael McKenry|R|Walk|B|Cutter|17|2|1|1|14|89
+Jerome Williams|R|Michael McKenry|R|Walk|F|Sinker|18|3|1|1|8|90
+Jerome Williams|R|Michael McKenry|R|Walk|F|Sinker|19|3|2|1|6|90
+Jerome Williams|R|Michael McKenry|R|Walk|B|Cutter|20|3|2|1|11|87
+Jerome Williams|R|Brandon Barnes|R|Single|C|Sinker|21|0|0|1|6|90
+Jerome Williams|R|Brandon Barnes|R|Single|D|Sinker|22|0|1|1|7|89
+Jerome Williams|R|Daniel Descalso|L|Groundout|C|Sinker|23|0|0|1|6|88
+Jerome Williams|R|Daniel Descalso|L|Groundout|X|Cutter|24|0|1|1|3|90
+Jerome Williams|R|Jorge De La Rosa|L|Groundout|X|Changeup|25|0|0|2|8|84
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|B|Changeup|26|0|0|0|13|82
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|B|Sinker|27|1|0|0|14|90
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|S|Changeup|28|2|0|0|13|84
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|F|Cutter|29|2|1|0|12|88
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|F|Changeup|30|2|2|0|13|83
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|H|Sinker|31|2|2|0|14|91
+Jerome Williams|R|DJ LeMahieu|R|Single|F|Sinker|32|0|0|0|7|90
+Jerome Williams|R|DJ LeMahieu|R|Single|D|Changeup|33|0|1|0|7|82
+Jerome Williams|R|Carlos Gonzalez|L|Walk|B|Sinker|34|0|0|0|13|90
+Jerome Williams|R|Carlos Gonzalez|L|Walk|B|Sinker|35|1|0|0|14|91
+Jerome Williams|R|Carlos Gonzalez|L|Walk|*B|Sinker|36|2|0|0|14|90
+Jerome Williams|R|Carlos Gonzalez|L|Walk|C|Sinker|37|3|0|0|8|90
+Jerome Williams|R|Carlos Gonzalez|L|Walk|F|Sinker|38|3|1|0|11|87
+Jerome Williams|R|Carlos Gonzalez|L|Walk|F|Sinker|39|3|2|0|11|89
+Jerome Williams|R|Carlos Gonzalez|L|Walk|B|Changeup|40|3|2|0|13|82
+Jerome Williams|R|Troy Tulowitzki|R|Single|C|Cutter|41|0|0|0|4|88
+Jerome Williams|R|Troy Tulowitzki|R|Single|B|Cutter|42|0|1|0|14|88
+Jerome Williams|R|Troy Tulowitzki|R|Single|E|Sinker|43|1|1|0|9|91
+Jerome Williams|R|Ben Paulsen|L|Lineout|X|Changeup|44|0|0|0|9|84
+Jerome Williams|R|Michael McKenry|R|Walk|C|Sinker|45|0|0|1|9|89
+Jerome Williams|R|Michael McKenry|R|Walk|*B|Cutter|46|0|1|1|14|88
+Jerome Williams|R|Michael McKenry|R|Walk|B|Sinker|47|1|1|1|13|90
+Jerome Williams|R|Michael McKenry|R|Walk|*B|Four-Seam Fastball|48|2|1|1|14|88
+Jerome Williams|R|Michael McKenry|R|Walk|B|Sinker|49|3|1|1|14|91
+Jerome Williams|R|Brandon Barnes|R|Single|F|Sinker|50|0|0|1|13|90
+Jerome Williams|R|Brandon Barnes|R|Single|E|Cutter|51|0|1|1|9|88
+Jerome Williams|R|Daniel Descalso|L|Groundout|X|Sinker|52|0|0|2|7|88
+Jerome Williams|R|Jorge De La Rosa|L|Field Error|C|Sinker|53|0|0|0|7|89
+Jerome Williams|R|Jorge De La Rosa|L|Field Error|D|Sinker|54|0|1|0|13|88
+Jerome Williams|R|Charlie Blackmon|L|Lineout|C|Sinker|55|0|0|0|13|87
+Jerome Williams|R|Charlie Blackmon|L|Lineout|X|Four-Seam Fastball|56|0|1|0|14|87
+Jerome Williams|R|DJ LeMahieu|R|Lineout|X|Sinker|57|0|0|1|7|88
+Jerome Williams|R|Carlos Gonzalez|L|Groundout|F|Changeup|58|0|0|2|7|82
+Jerome Williams|R|Carlos Gonzalez|L|Groundout|X|Changeup|59|0|1|2|14|86
+Jerome Williams|R|Troy Tulowitzki|R|Lineout|C|Sinker|60|0|0|0|6|88
+Jerome Williams|R|Troy Tulowitzki|R|Lineout|X|Sinker|61|0|1|0|13|87
+Jerome Williams|R|Ben Paulsen|L|Single|D|Cutter|62|0|0|1|9|86
+Jerome Williams|R|Michael McKenry|R|Home Run|*B|Sinker|63|0|0|1|14|87
+Jerome Williams|R|Michael McKenry|R|Home Run|C|Sinker|64|1|0|1|13|87
+Jerome Williams|R|Michael McKenry|R|Home Run|E|Changeup|65|1|1|1|7|86
+Jerome Williams|R|Brandon Barnes|R|Double|D|Four-Seam Fastball|66|0|0|1|8|89
+Jerome Williams|R|Daniel Descalso|L|Groundout|C|Changeup|67|0|0|1|8|82
+Jerome Williams|R|Daniel Descalso|L|Groundout|F|Changeup|68|0|1|1|8|82
+Jerome Williams|R|Daniel Descalso|L|Groundout|X|Cutter|69|0|2|1|6|88
+Jerome Williams|R|Wilin Rosario|R|Pop Out|C|Cutter|70|0|0|2|8|86
+Jerome Williams|R|Wilin Rosario|R|Pop Out|B|Cutter|71|0|1|2|14|87
+Jerome Williams|R|Wilin Rosario|R|Pop Out|F|Sinker|72|1|1|2|13|89
+Jerome Williams|R|Wilin Rosario|R|Pop Out|F|Cutter|73|1|2|2|14|87
+Jerome Williams|R|Wilin Rosario|R|Pop Out|X|Changeup|74|1|2|2|13|84
+Jerome Williams|R|Curtis Granderson|L|Groundout|B|Sinker|0|0|0|0|13|89
+Jerome Williams|R|Curtis Granderson|L|Groundout|X|Sinker|1|1|0|0|13|89
+Jerome Williams|R|Juan Lagares|R|Walk|B|Four-Seam Fastball|2|0|0|1|14|91
+Jerome Williams|R|Juan Lagares|R|Walk|B|Sinker|3|1|0|1|11|91
+Jerome Williams|R|Juan Lagares|R|Walk|F|Sinker|4|2|0|1|11|90
+Jerome Williams|R|Juan Lagares|R|Walk|T|Changeup|5|2|1|1|13|84
+Jerome Williams|R|Juan Lagares|R|Walk|F|Cutter|6|2|2|1|9|88
+Jerome Williams|R|Juan Lagares|R|Walk|F|Sinker|7|2|2|1|11|91
+Jerome Williams|R|Juan Lagares|R|Walk|F|Four-Seam Fastball|8|2|2|1|11|91
+Jerome Williams|R|Juan Lagares|R|Walk|B|Sinker|9|2|2|1|13|86
+Jerome Williams|R|Juan Lagares|R|Walk|B|Cutter|10|3|2|1|11|88
+Jerome Williams|R|Lucas Duda|L|Strikeout|B|Changeup|11|0|0|1|11|84
+Jerome Williams|R|Lucas Duda|L|Strikeout|F|Changeup|12|1|0|1|11|84
+Jerome Williams|R|Lucas Duda|L|Strikeout|S|Cutter|13|1|1|1|14|88
+Jerome Williams|R|Lucas Duda|L|Strikeout|S|Changeup|14|1|2|1|13|84
+Jerome Williams|R|Daniel Murphy|L|Flyout|B|Sinker|15|0|0|2|14|90
+Jerome Williams|R|Daniel Murphy|L|Flyout|C|Cutter|16|1|0|2|8|88
+Jerome Williams|R|Daniel Murphy|L|Flyout|X|Sinker|17|1|1|2|4|89
+Jerome Williams|R|Michael Cuddyer|R|Groundout|B|Sinker|18|0|0|0|11|90
+Jerome Williams|R|Michael Cuddyer|R|Groundout|B|Cutter|19|1|0|0|14|86
+Jerome Williams|R|Michael Cuddyer|R|Groundout|F|Four-Seam Fastball|20|2|0|0|5|89
+Jerome Williams|R|Michael Cuddyer|R|Groundout|S|Changeup|21|2|1|0|13|84
+Jerome Williams|R|Michael Cuddyer|R|Groundout|B|Changeup|22|2|2|0|13|84
+Jerome Williams|R|Michael Cuddyer|R|Groundout|X|Cutter|23|3|2|0|9|89
+Jerome Williams|R|Wilmer Flores|R|Lineout|C|Sinker|24|0|0|1|1|92
+Jerome Williams|R|Wilmer Flores|R|Lineout|C|Cutter|25|0|1|1|8|90
+Jerome Williams|R|Wilmer Flores|R|Lineout|B|Changeup|26|0|2|1|13|85
+Jerome Williams|R|Wilmer Flores|R|Lineout|X|Sinker|27|1|2|1|4|92
+Jerome Williams|R|Eric Campbell|R|Strikeout|C|Cutter|28|0|0|2|8|88
+Jerome Williams|R|Eric Campbell|R|Strikeout|F|Sinker|29|0|1|2|11|91
+Jerome Williams|R|Eric Campbell|R|Strikeout|B|Sinker|30|0|2|2|11|91
+Jerome Williams|R|Eric Campbell|R|Strikeout|B|Cutter|31|1|2|2|14|88
+Jerome Williams|R|Eric Campbell|R|Strikeout|C|Cutter|32|2|2|2|8|86
+Jerome Williams|R|Kevin Plawecki|R|Single|C|Four-Seam Fastball|33|0|0|0|6|91
+Jerome Williams|R|Kevin Plawecki|R|Single|D|Sinker|34|0|1|0|2|91
+Jerome Williams|R|Jacob deGrom|L|Forceout|L|Sinker|35|0|0|0|13|89
+Jerome Williams|R|Jacob deGrom|L|Forceout|C|Curveball|36|0|1|0|13|74
+Jerome Williams|R|Jacob deGrom|L|Forceout|X|Changeup|37|0|2|0|7|83
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Sinker|38|0|0|1|13|89
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Changeup|39|1|0|1|11|83
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Sinker|40|2|0|1|11|89
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Sinker|41|3|0|1|14|88
+Jerome Williams|R|Juan Lagares|R|Forceout|B|Cutter|42|0|0|1|14|87
+Jerome Williams|R|Juan Lagares|R|Forceout|F|Cutter|43|1|0|1|6|87
+Jerome Williams|R|Juan Lagares|R|Forceout|X|Sinker|44|1|1|1|13|89
+Jerome Williams|R|Lucas Duda|L|Single|B|Sinker|45|0|0|2|13|89
+Jerome Williams|R|Lucas Duda|L|Single|E|Sinker|46|1|0|2|13|89
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Cutter|47|0|0|2|14|88
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|48|1|0|2|14|90
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Changeup|49|2|0|2|13|83
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Sinker|50|3|0|2|11|90
+Jerome Williams|R|Michael Cuddyer|R|Single|C|Cutter|51|0|0|2|14|87
+Jerome Williams|R|Michael Cuddyer|R|Single|C|Four-Seam Fastball|52|0|1|2|14|90
+Jerome Williams|R|Michael Cuddyer|R|Single|E|Sinker|53|0|2|2|11|90
+Jerome Williams|R|Wilmer Flores|R|Lineout|B|Changeup|54|0|0|2|13|85
+Jerome Williams|R|Wilmer Flores|R|Lineout|B|Cutter|55|1|0|2|14|88
+Jerome Williams|R|Wilmer Flores|R|Lineout|B|Four-Seam Fastball|56|2|0|2|14|90
+Jerome Williams|R|Wilmer Flores|R|Lineout|F|Four-Seam Fastball|57|3|0|2|5|90
+Jerome Williams|R|Wilmer Flores|R|Lineout|F|Cutter|58|3|1|2|8|87
+Jerome Williams|R|Wilmer Flores|R|Lineout|X|Cutter|59|3|2|2|7|88
+Jerome Williams|R|Eric Campbell|R|Walk|C|Cutter|60|0|0|0|13|85
+Jerome Williams|R|Eric Campbell|R|Walk|B|Changeup|61|0|1|0|13|84
+Jerome Williams|R|Eric Campbell|R|Walk|B|Four-Seam Fastball|62|1|1|0|14|88
+Jerome Williams|R|Eric Campbell|R|Walk|S|Cutter|63|2|1|0|14|87
+Jerome Williams|R|Eric Campbell|R|Walk|B|Slider|64|2|2|0|14|79
+Jerome Williams|R|Eric Campbell|R|Walk|B|Sinker|65|3|2|0|11|91
+Jerome Williams|R|Kevin Plawecki|R|Single|C|Cutter|66|0|0|0|4|83
+Jerome Williams|R|Kevin Plawecki|R|Single|D|Sinker|67|0|1|0|7|89
+Jerome Williams|R|Jacob deGrom|L|Grounded Into DP|B|Sinker|68|0|0|0|14|88
+Jerome Williams|R|Jacob deGrom|L|Grounded Into DP|X|Sinker|69|1|0|0|13|88
+Jerome Williams|R|Curtis Granderson|L|Flyout|B|Four-Seam Fastball|70|0|0|2|11|91
+Jerome Williams|R|Curtis Granderson|L|Flyout|F|Cutter|71|1|0|2|7|86
+Jerome Williams|R|Curtis Granderson|L|Flyout|X|Cutter|72|1|1|2|9|88
+Jerome Williams|R|Juan Lagares|R|Strikeout|C|Curveball|73|0|0|0|7|73
+Jerome Williams|R|Juan Lagares|R|Strikeout|C|Changeup|74|0|1|0|13|83
+Jerome Williams|R|Juan Lagares|R|Strikeout|F|Cutter|75|0|2|0|14|87
+Jerome Williams|R|Juan Lagares|R|Strikeout|B|Cutter|76|0|2|0|14|87
+Jerome Williams|R|Juan Lagares|R|Strikeout|S|Cutter|77|1|2|0|14|85
+Jerome Williams|R|Lucas Duda|L|Lineout|B|Cutter|78|0|0|1|11|84
+Jerome Williams|R|Lucas Duda|L|Lineout|X|Changeup|79|1|0|1|13|83
+Jerome Williams|R|Daniel Murphy|L|Groundout|B|Cutter|80|0|0|2|11|85
+Jerome Williams|R|Daniel Murphy|L|Groundout|X|Sinker|81|1|0|2|7|89
+Jerome Williams|R|Michael Cuddyer|R|Single|D|Sinker|82|0|0|0|1|88
+Jerome Williams|R|Wilmer Flores|R|Double Play|B|Sinker|83|0|0|0|13|87
+Jerome Williams|R|Wilmer Flores|R|Double Play|B|Cutter|84|1|0|0|14|84
+Jerome Williams|R|Wilmer Flores|R|Double Play|F|Sinker|85|2|0|0|4|88
+Jerome Williams|R|Wilmer Flores|R|Double Play|B|Cutter|86|2|1|0|11|86
+Jerome Williams|R|Wilmer Flores|R|Double Play|F|Cutter|87|3|1|0|8|84
+Jerome Williams|R|Wilmer Flores|R|Double Play|F|Sinker|88|3|2|0|4|87
+Jerome Williams|R|Wilmer Flores|R|Double Play|F|Cutter|89|3|2|0|6|87
+Jerome Williams|R|Wilmer Flores|R|Double Play|X|Cutter|90|3|2|0|8|85
+Jerome Williams|R|Eric Campbell|R|Strikeout|C|Curveball|91|0|0|2|7|74
+Jerome Williams|R|Eric Campbell|R|Strikeout|F|Sinker|92|0|1|2|1|90
+Jerome Williams|R|Eric Campbell|R|Strikeout|B|Changeup|93|0|2|2|13|83
+Jerome Williams|R|Eric Campbell|R|Strikeout|S|Cutter|94|1|2|2|14|86
+Jerome Williams|R|Charlie Blackmon|L|Pop Out|C|Sinker|0|0|0|0|13|91
+Jerome Williams|R|Charlie Blackmon|L|Pop Out|B|Four-Seam Fastball|1|0|1|0|14|91
+Jerome Williams|R|Charlie Blackmon|L|Pop Out|X|Sinker|2|1|1|0|14|92
+Jerome Williams|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|3|0|0|1|9|91
+Jerome Williams|R|DJ LeMahieu|R|Single|D|Four-Seam Fastball|4|0|1|1|11|92
+Jerome Williams|R|Nolan Arenado|R|Home Run|E|Sinker|5|0|0|1|8|90
+Jerome Williams|R|Carlos Gonzalez|L|Groundout|S|Changeup|6|0|0|1|7|85
+Jerome Williams|R|Carlos Gonzalez|L|Groundout|X|Changeup|7|0|1|1|7|85
+Jerome Williams|R|Wilin Rosario|R|Groundout|B|Cutter|8|0|0|2|14|88
+Jerome Williams|R|Wilin Rosario|R|Groundout|X|Sinker|9|1|0|2|14|91
+Jerome Williams|R|Ben Paulsen|L|Lineout|F|Sinker|10|0|0|0|9|90
+Jerome Williams|R|Ben Paulsen|L|Lineout|X|Cutter|11|0|1|0|14|89
+Jerome Williams|R|Nick Hundley|R|Strikeout|C|Four-Seam Fastball|12|0|0|1|14|91
+Jerome Williams|R|Nick Hundley|R|Strikeout|B|Four-Seam Fastball|13|0|1|1|14|92
+Jerome Williams|R|Nick Hundley|R|Strikeout|B|Sinker|14|1|1|1|13|91
+Jerome Williams|R|Nick Hundley|R|Strikeout|B|Cutter|15|2|1|1|14|87
+Jerome Williams|R|Nick Hundley|R|Strikeout|S|Sinker|16|3|1|1|13|90
+Jerome Williams|R|Nick Hundley|R|Strikeout|C|Four-Seam Fastball|17|3|2|1|14|91
+Jerome Williams|R|Daniel Descalso|L|Single|B|Sinker|18|0|0|2|13|91
+Jerome Williams|R|Daniel Descalso|L|Single|D|Sinker|19|1|0|2|7|86
+Jerome Williams|R|Jordan Lyles|R|Strikeout|C|Sinker|20|0|0|2|4|90
+Jerome Williams|R|Jordan Lyles|R|Strikeout|C|Cutter|21|0|1|2|14|87
+Jerome Williams|R|Jordan Lyles|R|Strikeout|C|Cutter|22|0|2|2|14|88
+Jerome Williams|R|Charlie Blackmon|L|Strikeout|C|Cutter|23|0|0|0|5|88
+Jerome Williams|R|Charlie Blackmon|L|Strikeout|T|Cutter|24|0|1|0|14|88
+Jerome Williams|R|Charlie Blackmon|L|Strikeout|B|Sinker|25|0|2|0|11|91
+Jerome Williams|R|Charlie Blackmon|L|Strikeout|C|Sinker|26|1|2|0|6|91
+Jerome Williams|R|DJ LeMahieu|R|Single|B|Four-Seam Fastball|27|0|0|1|14|91
+Jerome Williams|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|28|1|0|1|3|91
+Jerome Williams|R|DJ LeMahieu|R|Single|B|Cutter|29|1|1|1|14|87
+Jerome Williams|R|DJ LeMahieu|R|Single|D|Sinker|30|2|1|1|13|91
+Jerome Williams|R|Nolan Arenado|R|Grounded Into DP|B|Cutter|31|0|0|1|14|87
+Jerome Williams|R|Nolan Arenado|R|Grounded Into DP|C|Cutter|32|1|0|1|14|87
+Jerome Williams|R|Nolan Arenado|R|Grounded Into DP|*B|Changeup|33|1|1|1|14|84
+Jerome Williams|R|Nolan Arenado|R|Grounded Into DP|S|Changeup|34|2|1|1|13|83
+Jerome Williams|R|Nolan Arenado|R|Grounded Into DP|X|Four-Seam Fastball|35|2|2|1|14|90
+Jerome Williams|R|Carlos Gonzalez|L|Single|C|Cutter|36|0|0|0|14|87
+Jerome Williams|R|Carlos Gonzalez|L|Single|B|Sinker|37|0|1|0|12|91
+Jerome Williams|R|Carlos Gonzalez|L|Single|C|Sinker|38|1|1|0|13|90
+Jerome Williams|R|Carlos Gonzalez|L|Single|B|Four-Seam Fastball|39|1|2|0|13|91
+Jerome Williams|R|Carlos Gonzalez|L|Single|B|Cutter|40|2|2|0|13|87
+Jerome Williams|R|Carlos Gonzalez|L|Single|F|Changeup|41|3|2|0|9|85
+Jerome Williams|R|Carlos Gonzalez|L|Single|D|Changeup|42|3|2|0|14|84
+Jerome Williams|R|Wilin Rosario|R|Single|D|Sinker|43|0|0|0|13|89
+Jerome Williams|R|Brandon Barnes|R|Lineout|F|Sinker|44|0|0|0|5|91
+Jerome Williams|R|Brandon Barnes|R|Lineout|S|Sinker|45|0|1|0|6|91
+Jerome Williams|R|Brandon Barnes|R|Lineout|X|Cutter|46|0|2|0|9|90
+Jerome Williams|R|Nick Hundley|R|Flyout|S|Changeup|47|0|0|1|13|84
+Jerome Williams|R|Nick Hundley|R|Flyout|F|Changeup|48|0|1|1|13|83
+Jerome Williams|R|Nick Hundley|R|Flyout|X|Sinker|49|0|2|1|4|91
+Jerome Williams|R|Daniel Descalso|L|Strikeout|B|Sinker|50|0|0|2|13|88
+Jerome Williams|R|Daniel Descalso|L|Strikeout|S|Sinker|51|1|0|2|4|89
+Jerome Williams|R|Daniel Descalso|L|Strikeout|F|Cutter|52|1|1|2|14|88
+Jerome Williams|R|Daniel Descalso|L|Strikeout|C|Sinker|53|1|2|2|3|91
+Jerome Williams|R|Chris Rusin|L|Groundout|B|Sinker|54|0|0|0|14|89
+Jerome Williams|R|Chris Rusin|L|Groundout|X|Sinker|55|1|0|0|5|87
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|C|Four-Seam Fastball|56|0|0|1|6|90
+Jerome Williams|R|Charlie Blackmon|L|Hit By Pitch|H|Cutter|57|0|1|1|14|88
+Jerome Williams|R|DJ LeMahieu|R|Home Run|C|Sinker|58|0|0|1|5|89
+Jerome Williams|R|DJ LeMahieu|R|Home Run|E|Changeup|59|0|1|1|13|82
+Jerome Williams|R|Nolan Arenado|R|Flyout|F|Cutter|60|0|0|1|3|88
+Jerome Williams|R|Nolan Arenado|R|Flyout|B|Four-Seam Fastball|61|0|1|1|14|88
+Jerome Williams|R|Nolan Arenado|R|Flyout|X|Sinker|62|1|1|1|11|92
+Jerome Williams|R|Carlos Gonzalez|L|Double|D|Changeup|63|0|0|2|8|85
+Jerome Williams|R|Wilin Rosario|R|Flyout|X|Sinker|64|0|0|2|9|90
+Jerome Williams|R|Gregor Blanco|L|Strikeout|C|Sinker|0|0|0|0|7|90
+Jerome Williams|R|Gregor Blanco|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|91
+Jerome Williams|R|Gregor Blanco|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|14|91
+Jerome Williams|R|Gregor Blanco|L|Strikeout|F|Sinker|3|1|2|0|1|91
+Jerome Williams|R|Gregor Blanco|L|Strikeout|S|Cutter|4|1|2|0|14|89
+Jerome Williams|R|Joe Panik|L|Hit By Pitch|C|Sinker|5|0|0|1|5|91
+Jerome Williams|R|Joe Panik|L|Hit By Pitch|H|Cutter|6|0|1|1|14|89
+Jerome Williams|R|Angel Pagan|L|Single|B|Sinker|7|0|0|1|13|90
+Jerome Williams|R|Angel Pagan|L|Single|B|Sinker|8|1|0|1|13|90
+Jerome Williams|R|Angel Pagan|L|Single|D|Sinker|9|2|0|1|7|89
+Jerome Williams|R|Buster Posey|R|Pop Out|S|Cutter|10|0|0|1|14|87
+Jerome Williams|R|Buster Posey|R|Pop Out|B|Cutter|11|0|1|1|14|86
+Jerome Williams|R|Buster Posey|R|Pop Out|C|Sinker|12|1|1|1|14|90
+Jerome Williams|R|Buster Posey|R|Pop Out|X|Cutter|13|1|2|1|14|86
+Jerome Williams|R|Brandon Belt|L|Flyout|B|Sinker|14|0|0|2|13|88
+Jerome Williams|R|Brandon Belt|L|Flyout|S|Changeup|15|1|0|2|14|82
+Jerome Williams|R|Brandon Belt|L|Flyout|S|Cutter|16|1|1|2|2|88
+Jerome Williams|R|Brandon Belt|L|Flyout|F|Four-Seam Fastball|17|1|2|2|12|92
+Jerome Williams|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|18|1|2|2|14|89
+Jerome Williams|R|Brandon Crawford|L|Pop Out|C|Sinker|19|0|0|0|5|89
+Jerome Williams|R|Brandon Crawford|L|Pop Out|B|Changeup|20|0|1|0|14|84
+Jerome Williams|R|Brandon Crawford|L|Pop Out|B|Changeup|21|1|1|0|13|83
+Jerome Williams|R|Brandon Crawford|L|Pop Out|F|Cutter|22|2|1|0|12|86
+Jerome Williams|R|Brandon Crawford|L|Pop Out|B|Four-Seam Fastball|23|2|2|0|12|91
+Jerome Williams|R|Brandon Crawford|L|Pop Out|X|Sinker|24|3|2|0|3|91
+Jerome Williams|R|Matt Duffy|R|Home Run|B|Four-Seam Fastball|25|0|0|1|12|91
+Jerome Williams|R|Matt Duffy|R|Home Run|C|Four-Seam Fastball|26|1|0|1|9|91
+Jerome Williams|R|Matt Duffy|R|Home Run|E|Cutter|27|1|1|1|9|88
+Jerome Williams|R|Justin Maxwell|R|Single|C|Four-Seam Fastball|28|0|0|1|14|91
+Jerome Williams|R|Justin Maxwell|R|Single|B|Sinker|29|0|1|1|13|92
+Jerome Williams|R|Justin Maxwell|R|Single|B|Changeup|30|1|1|1|14|85
+Jerome Williams|R|Justin Maxwell|R|Single|B|Four-Seam Fastball|31|2|1|1|14|91
+Jerome Williams|R|Justin Maxwell|R|Single|S|Cutter|32|3|1|1|14|87
+Jerome Williams|R|Justin Maxwell|R|Single|D|Four-Seam Fastball|33|3|2|1|14|91
+Jerome Williams|R|Tim Lincecum|L|Grounded Into DP|C|Sinker|34|0|0|1|9|90
+Jerome Williams|R|Tim Lincecum|L|Grounded Into DP|X|Sinker|35|0|1|1|8|89
+Jerome Williams|R|Gregor Blanco|L|Strikeout|C|Sinker|36|0|0|0|13|90
+Jerome Williams|R|Gregor Blanco|L|Strikeout|F|Changeup|37|0|1|0|4|84
+Jerome Williams|R|Gregor Blanco|L|Strikeout|S|Four-Seam Fastball|38|0|2|0|8|91
+Jerome Williams|R|Joe Panik|L|Double|C|Changeup|39|0|0|1|4|85
+Jerome Williams|R|Joe Panik|L|Double|B|Four-Seam Fastball|40|0|1|1|12|91
+Jerome Williams|R|Joe Panik|L|Double|B|Sinker|41|1|1|1|13|90
+Jerome Williams|R|Joe Panik|L|Double|D|Cutter|42|2|1|1|14|88
+Jerome Williams|R|Angel Pagan|L|Lineout|C|Changeup|43|0|0|1|13|84
+Jerome Williams|R|Angel Pagan|L|Lineout|X|Sinker|44|0|1|1|5|91
+Jerome Williams|R|Buster Posey|R|Groundout|C|Four-Seam Fastball|45|0|0|2|6|91
+Jerome Williams|R|Buster Posey|R|Groundout|B|Cutter|46|0|1|2|12|88
+Jerome Williams|R|Buster Posey|R|Groundout|*B|Sinker|47|1|1|2|14|91
+Jerome Williams|R|Buster Posey|R|Groundout|X|Sinker|48|2|1|2|5|91
+Jerome Williams|R|Brandon Belt|L|Flyout|C|Four-Seam Fastball|49|0|0|0|8|89
+Jerome Williams|R|Brandon Belt|L|Flyout|B|Curveball|50|0|1|0|11|70
+Jerome Williams|R|Brandon Belt|L|Flyout|S|Sinker|51|1|1|0|14|90
+Jerome Williams|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|52|1|2|0|13|88
+Jerome Williams|R|Brandon Belt|L|Flyout|B|Changeup|53|2|2|0|13|84
+Jerome Williams|R|Brandon Belt|L|Flyout|X|Changeup|54|3|2|0|8|84
+Jerome Williams|R|Brandon Crawford|L|Lineout|C|Sinker|55|0|0|1|7|90
+Jerome Williams|R|Brandon Crawford|L|Lineout|C|Curveball|56|0|1|1|11|70
+Jerome Williams|R|Brandon Crawford|L|Lineout|F|Cutter|57|0|2|1|12|89
+Jerome Williams|R|Brandon Crawford|L|Lineout|X|Sinker|58|0|2|1|8|91
+Jerome Williams|R|Matt Duffy|R|Single|B|Four-Seam Fastball|59|0|0|2|14|91
+Jerome Williams|R|Matt Duffy|R|Single|C|Sinker|60|1|0|2|14|92
+Jerome Williams|R|Matt Duffy|R|Single|D|Sinker|61|1|1|2|8|91
+Jerome Williams|R|Justin Maxwell|R|Home Run|E|Cutter|62|0|0|2|5|88
+Jerome Williams|R|Tim Lincecum|L|Double|F|Sinker|63|0|0|2|5|90
+Jerome Williams|R|Tim Lincecum|L|Double|S|Changeup|64|0|1|2|8|83
+Jerome Williams|R|Tim Lincecum|L|Double|B|Changeup|65|0|2|2|13|84
+Jerome Williams|R|Tim Lincecum|L|Double|B|Sinker|66|1|2|2|11|91
+Jerome Williams|R|Tim Lincecum|L|Double|F|Four-Seam Fastball|67|2|2|2|11|90
+Jerome Williams|R|Tim Lincecum|L|Double|D|Sinker|68|2|2|2|5|90
+Jerome Williams|R|Gregor Blanco|L|Groundout|X|Changeup|69|0|0|2|7|84
+Jerome Williams|R|Joe Panik|L|Single|C|Four-Seam Fastball|70|0|0|0|7|91
+Jerome Williams|R|Joe Panik|L|Single|C|Sinker|71|0|1|0|7|90
+Jerome Williams|R|Joe Panik|L|Single|B|Sinker|72|0|2|0|14|90
+Jerome Williams|R|Joe Panik|L|Single|F|Changeup|73|1|2|0|13|85
+Jerome Williams|R|Joe Panik|L|Single|B|Changeup|74|1|2|0|13|84
+Jerome Williams|R|Joe Panik|L|Single|B|Cutter|75|2|2|0|14|88
+Jerome Williams|R|Joe Panik|L|Single|D|Four-Seam Fastball|76|3|2|0|2|91
+Jerome Williams|R|Angel Pagan|L|Lineout|F|Changeup|77|0|0|0|9|83
+Jerome Williams|R|Angel Pagan|L|Lineout|X|Sinker|78|0|1|0|2|89
+Jerome Williams|R|Buster Posey|R|Single|F|Cutter|79|0|0|1|7|86
+Jerome Williams|R|Buster Posey|R|Single|D|Changeup|80|0|1|1|14|82
+Jerome Williams|R|Zack Cozart|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Jerome Williams|R|Zack Cozart|R|Groundout|C|Four-Seam Fastball|1|1|0|0|7|90
+Jerome Williams|R|Zack Cozart|R|Groundout|X|Four-Seam Fastball|2|1|1|0|8|90
+Jerome Williams|R|Joey Votto|L|Single|C|Cutter|3|0|0|1|5|88
+Jerome Williams|R|Joey Votto|L|Single|D|Changeup|4|0|1|1|13|83
+Jerome Williams|R|Todd Frazier|R|Single|B|Cutter|5|0|0|1|14|87
+Jerome Williams|R|Todd Frazier|R|Single|B|Cutter|6|1|0|1|14|86
+Jerome Williams|R|Todd Frazier|R|Single|D|N/A|7|2|0|1|0|0
+Jerome Williams|R|Jay Bruce|L|Flyout|S|Changeup|8|0|0|1|9|85
+Jerome Williams|R|Jay Bruce|L|Flyout|B|Four-Seam Fastball|9|0|1|1|14|90
+Jerome Williams|R|Jay Bruce|L|Flyout|X|Sinker|10|1|1|1|4|90
+Jerome Williams|R|Brayan Pena|L|Single|B|Cutter|11|0|0|2|14|89
+Jerome Williams|R|Brayan Pena|L|Single|B|Sinker|12|1|0|2|13|90
+Jerome Williams|R|Brayan Pena|L|Single|E|Four-Seam Fastball|13|2|0|2|2|91
+Jerome Williams|R|Ivan De Jesus Jr.|R|Home Run|B|Four-Seam Fastball|14|0|0|2|14|91
+Jerome Williams|R|Ivan De Jesus Jr.|R|Home Run|C|Sinker|15|1|0|2|7|91
+Jerome Williams|R|Ivan De Jesus Jr.|R|Home Run|E|Four-Seam Fastball|16|1|1|2|13|91
+Jerome Williams|R|Skip Schumaker|L|Groundout|C|Cutter|17|0|0|2|3|88
+Jerome Williams|R|Skip Schumaker|L|Groundout|B|Sinker|18|0|1|2|11|90
+Jerome Williams|R|Skip Schumaker|L|Groundout|B|Changeup|19|1|1|2|13|85
+Jerome Williams|R|Skip Schumaker|L|Groundout|T|Cutter|20|2|1|2|12|88
+Jerome Williams|R|Skip Schumaker|L|Groundout|X|Cutter|21|2|2|2|6|89
+Jerome Williams|R|Kristopher Negron|R|Lineout|C|Four-Seam Fastball|22|0|0|0|9|90
+Jerome Williams|R|Kristopher Negron|R|Lineout|F|Cutter|23|0|1|0|14|90
+Jerome Williams|R|Kristopher Negron|R|Lineout|X|Four-Seam Fastball|24|0|2|0|11|91
+Jerome Williams|R|Jon Moscot|R|Strikeout|C|Four-Seam Fastball|25|0|0|1|12|92
+Jerome Williams|R|Jon Moscot|R|Strikeout|S|Cutter|26|0|1|1|14|88
+Jerome Williams|R|Jon Moscot|R|Strikeout|F|Cutter|27|0|2|1|14|89
+Jerome Williams|R|Jon Moscot|R|Strikeout|S|Four-Seam Fastball|28|0|2|1|12|91
+Jerome Williams|R|Brennan Boesch|L|Groundout|C|Sinker|29|0|0|2|7|92
+Jerome Williams|R|Brennan Boesch|L|Groundout|B|Cutter|30|0|1|2|14|90
+Jerome Williams|R|Brennan Boesch|L|Groundout|F|Changeup|31|1|1|2|14|85
+Jerome Williams|R|Brennan Boesch|L|Groundout|X|Sinker|32|1|2|2|12|91
+Jerome Williams|R|Joey Votto|L|Groundout|F|Sinker|33|0|0|0|8|91
+Jerome Williams|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|34|0|1|0|14|91
+Jerome Williams|R|Joey Votto|L|Groundout|B|Cutter|35|1|1|0|12|89
+Jerome Williams|R|Joey Votto|L|Groundout|C|Changeup|36|2|1|0|13|83
+Jerome Williams|R|Joey Votto|L|Groundout|B|Cutter|37|2|2|0|14|90
+Jerome Williams|R|Joey Votto|L|Groundout|F|Sinker|38|3|2|0|8|92
+Jerome Williams|R|Joey Votto|L|Groundout|X|Sinker|39|3|2|0|9|93
+Jerome Williams|R|Todd Frazier|R|Pop Out|B|Sinker|40|0|0|1|11|93
+Jerome Williams|R|Todd Frazier|R|Pop Out|X|Cutter|41|1|0|1|9|89
+Jerome Williams|R|Jay Bruce|L|Walk|B|Curveball|42|0|0|2|13|75
+Jerome Williams|R|Jay Bruce|L|Walk|B|Sinker|43|1|0|2|13|92
+Jerome Williams|R|Jay Bruce|L|Walk|B|Changeup|44|2|0|2|11|84
+Jerome Williams|R|Jay Bruce|L|Walk|B|Sinker|45|3|0|2|13|91
+Jerome Williams|R|Brayan Pena|L|Single|C|Sinker|46|0|0|2|4|90
+Jerome Williams|R|Brayan Pena|L|Single|B|Cutter|47|0|1|2|14|89
+Jerome Williams|R|Brayan Pena|L|Single|D|Cutter|48|1|1|2|3|87
+Jerome Williams|R|Ivan De Jesus Jr.|R|Flyout|C|Cutter|49|0|0|2|6|90
+Jerome Williams|R|Ivan De Jesus Jr.|R|Flyout|X|Four-Seam Fastball|50|0|1|2|2|92
+Jerome Williams|R|Skip Schumaker|L|Lineout|B|Sinker|51|0|0|0|13|90
+Jerome Williams|R|Skip Schumaker|L|Lineout|F|Sinker|52|1|0|0|14|89
+Jerome Williams|R|Skip Schumaker|L|Lineout|B|Cutter|53|1|1|0|11|84
+Jerome Williams|R|Skip Schumaker|L|Lineout|X|Cutter|54|2|1|0|14|88
+Jerome Williams|R|Kristopher Negron|R|Single|B|Cutter|55|0|0|1|14|89
+Jerome Williams|R|Kristopher Negron|R|Single|C|Four-Seam Fastball|56|1|0|1|12|91
+Jerome Williams|R|Kristopher Negron|R|Single|D|Cutter|57|1|1|1|9|88
+Jerome Williams|R|Jon Moscot|R|Strikeout|L|Sinker|58|0|0|1|6|88
+Jerome Williams|R|Jon Moscot|R|Strikeout|L|Cutter|59|0|1|1|14|87
+Jerome Williams|R|Jon Moscot|R|Strikeout|L|Cutter|60|0|2|1|14|88
+Jerome Williams|R|Brennan Boesch|L|Single|F|Sinker|61|0|0|2|7|89
+Jerome Williams|R|Brennan Boesch|L|Single|S|Four-Seam Fastball|62|0|1|2|14|90
+Jerome Williams|R|Brennan Boesch|L|Single|D|Cutter|63|0|2|2|3|89
+Jerome Williams|R|Joey Votto|L|Flyout|C|Cutter|64|0|0|2|9|90
+Jerome Williams|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|65|0|1|2|2|92
+Jerome Williams|R|Joey Votto|L|Flyout|C|Cutter|66|1|1|2|14|90
+Jerome Williams|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|67|1|2|2|13|92
+Jerome Williams|R|Joey Votto|L|Flyout|F|Sinker|68|2|2|2|13|91
+Jerome Williams|R|Joey Votto|L|Flyout|F|Cutter|69|2|2|2|14|90
+Jerome Williams|R|Joey Votto|L|Flyout|X|Changeup|70|2|2|2|8|84
+Jerome Williams|R|Todd Frazier|R|Strikeout|C|Sinker|71|0|0|0|14|91
+Jerome Williams|R|Todd Frazier|R|Strikeout|F|Cutter|72|0|1|0|14|88
+Jerome Williams|R|Todd Frazier|R|Strikeout|B|N/A|73|0|2|0|0|0
+Jerome Williams|R|Todd Frazier|R|Strikeout|F|Changeup|74|1|2|0|4|83
+Jerome Williams|R|Todd Frazier|R|Strikeout|S|Four-Seam Fastball|75|1|2|0|14|92
+Jerome Williams|R|Jay Bruce|L|Groundout|F|Sinker|76|0|0|1|9|92
+Jerome Williams|R|Jay Bruce|L|Groundout|B|Four-Seam Fastball|77|0|1|1|13|92
+Jerome Williams|R|Jay Bruce|L|Groundout|F|Changeup|78|1|1|1|8|84
+Jerome Williams|R|Jay Bruce|L|Groundout|X|Sinker|79|1|2|1|2|91
+Jerome Williams|R|Brayan Pena|L|Single|B|Changeup|80|0|0|2|14|83
+Jerome Williams|R|Brayan Pena|L|Single|F|Changeup|81|1|0|2|9|82
+Jerome Williams|R|Brayan Pena|L|Single|D|Cutter|82|1|1|2|5|89
+Jerome Williams|R|Ivan De Jesus Jr.|R|Forceout|B|Four-Seam Fastball|83|0|0|2|14|91
+Jerome Williams|R|Ivan De Jesus Jr.|R|Forceout|S|Sinker|84|1|0|2|9|90
+Jerome Williams|R|Ivan De Jesus Jr.|R|Forceout|F|Four-Seam Fastball|85|1|1|2|5|92
+Jerome Williams|R|Ivan De Jesus Jr.|R|Forceout|B|Four-Seam Fastball|86|1|2|2|14|91
+Jerome Williams|R|Ivan De Jesus Jr.|R|Forceout|X|Sinker|87|2|2|2|6|92
+Jerome Williams|R|Skip Schumaker|L|Groundout|C|Sinker|88|0|0|0|8|89
+Jerome Williams|R|Skip Schumaker|L|Groundout|B|Cutter|89|0|1|0|11|88
+Jerome Williams|R|Skip Schumaker|L|Groundout|X|Cutter|90|1|1|0|3|87
+Jerome Williams|R|Kristopher Negron|R|Groundout|C|Four-Seam Fastball|91|0|0|1|8|91
+Jerome Williams|R|Kristopher Negron|R|Groundout|B|Curveball|92|0|1|1|14|74
+Jerome Williams|R|Kristopher Negron|R|Groundout|B|Cutter|93|1|1|1|14|89
+Jerome Williams|R|Kristopher Negron|R|Groundout|S|Four-Seam Fastball|94|2|1|1|6|92
+Jerome Williams|R|Kristopher Negron|R|Groundout|F|Four-Seam Fastball|95|2|2|1|14|92
+Jerome Williams|R|Kristopher Negron|R|Groundout|X|Four-Seam Fastball|96|2|2|1|6|92
+Jerome Williams|R|Jon Moscot|R|Single|D|Cutter|97|0|0|2|14|88
+Jerome Williams|R|Brennan Boesch|L|Groundout|C|Sinker|98|0|0|2|1|89
+Jerome Williams|R|Brennan Boesch|L|Groundout|B|Changeup|99|0|1|2|13|83
+Jerome Williams|R|Brennan Boesch|L|Groundout|F|Changeup|100|1|1|2|4|80
+Jerome Williams|R|Brennan Boesch|L|Groundout|X|Cutter|101|1|2|2|6|89
+Jerome Williams|R|Manny Machado|R|Home Run|F|Four-Seam Fastball|0|0|0|0|7|91
+Jerome Williams|R|Manny Machado|R|Home Run|E|Four-Seam Fastball|1|0|1|0|11|90
+Jerome Williams|R|Travis Snider|L|Walk|C|Sinker|2|0|0|0|7|90
+Jerome Williams|R|Travis Snider|L|Walk|B|Changeup|3|0|1|0|13|84
+Jerome Williams|R|Travis Snider|L|Walk|B|Four-Seam Fastball|4|1|1|0|14|91
+Jerome Williams|R|Travis Snider|L|Walk|B|Sinker|5|2|1|0|13|90
+Jerome Williams|R|Travis Snider|L|Walk|F|Four-Seam Fastball|6|3|1|0|3|89
+Jerome Williams|R|Travis Snider|L|Walk|F|Sinker|7|3|2|0|13|90
+Jerome Williams|R|Travis Snider|L|Walk|B|Four-Seam Fastball|8|3|2|0|13|90
+Jerome Williams|R|Jimmy Paredes|L|Flyout|X|Sinker|9|0|0|0|13|89
+Jerome Williams|R|Chris Davis|L|Walk|B|Changeup|10|0|0|1|13|82
+Jerome Williams|R|Chris Davis|L|Walk|B|Sinker|11|1|0|1|11|89
+Jerome Williams|R|Chris Davis|L|Walk|B|Changeup|12|2|0|1|13|82
+Jerome Williams|R|Chris Davis|L|Walk|B|Four-Seam Fastball|13|3|0|1|13|89
+Jerome Williams|R|Chris Parmelee|L|Single|D|Sinker|14|0|0|1|13|89
+Jerome Williams|R|J.J. Hardy|R|Single|C|Four-Seam Fastball|15|0|0|1|1|89
+Jerome Williams|R|J.J. Hardy|R|Single|*B|Changeup|16|0|1|1|13|83
+Jerome Williams|R|J.J. Hardy|R|Single|E|Cutter|17|1|1|1|6|88
+Jerome Williams|R|Ryan Flaherty|L|Single|B|Slider|18|0|0|1|13|76
+Jerome Williams|R|Ryan Flaherty|L|Single|S|Changeup|19|1|0|1|13|84
+Jerome Williams|R|Ryan Flaherty|L|Single|F|Four-Seam Fastball|20|1|1|1|8|88
+Jerome Williams|R|Ryan Flaherty|L|Single|B|Changeup|21|1|2|1|13|84
+Jerome Williams|R|Ryan Flaherty|L|Single|B|Cutter|22|2|2|1|14|88
+Jerome Williams|R|Ryan Flaherty|L|Single|E|Sinker|23|3|2|1|5|90
+Jerome Williams|R|Caleb Joseph|R|Flyout|C|Changeup|24|0|0|1|13|84
+Jerome Williams|R|Caleb Joseph|R|Flyout|X|Cutter|25|0|1|1|9|89
+Dustin McGowan|R|David Lough|L|Strikeout|W|Slider|26|0|0|2|14|76
+Dustin McGowan|R|David Lough|L|Strikeout|S|Sinker|27|0|1|2|13|90
+Dustin McGowan|R|David Lough|L|Strikeout|B|Changeup|28|0|2|2|13|83
+Dustin McGowan|R|David Lough|L|Strikeout|B|Cutter|29|1|2|2|14|82
+Jerome Williams|R|Dexter Fowler|L|Groundout|X|Sinker|0|0|0|0|13|90
+Jerome Williams|R|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|9|90
+Jerome Williams|R|Kris Bryant|R|Strikeout|S|Cutter|2|0|1|1|14|85
+Jerome Williams|R|Kris Bryant|R|Strikeout|B|Cutter|3|0|2|1|14|87
+Jerome Williams|R|Kris Bryant|R|Strikeout|S|Changeup|4|1|2|1|8|85
+Jerome Williams|R|Anthony Rizzo|L|Single|F|Sinker|5|0|0|2|13|91
+Jerome Williams|R|Anthony Rizzo|L|Single|B|Four-Seam Fastball|6|0|1|2|3|92
+Jerome Williams|R|Anthony Rizzo|L|Single|F|Four-Seam Fastball|7|1|1|2|6|91
+Jerome Williams|R|Anthony Rizzo|L|Single|F|Sinker|8|1|2|2|1|91
+Jerome Williams|R|Anthony Rizzo|L|Single|D|Changeup|9|1|2|2|13|84
+Jerome Williams|R|Jorge Soler|R|Groundout|S|Cutter|10|0|0|2|14|87
+Jerome Williams|R|Jorge Soler|R|Groundout|B|Cutter|11|0|1|2|14|86
+Jerome Williams|R|Jorge Soler|R|Groundout|F|Four-Seam Fastball|12|1|1|2|5|90
+Jerome Williams|R|Jorge Soler|R|Groundout|B|Changeup|13|1|2|2|13|84
+Jerome Williams|R|Jorge Soler|R|Groundout|B|Cutter|14|2|2|2|14|87
+Jerome Williams|R|Jorge Soler|R|Groundout|F|Four-Seam Fastball|15|3|2|2|4|91
+Jerome Williams|R|Jorge Soler|R|Groundout|X|Cutter|16|3|2|2|9|87
+Jerome Williams|R|Chris Coghlan|L|Walk|B|Sinker|17|0|0|0|13|89
+Jerome Williams|R|Chris Coghlan|L|Walk|B|Sinker|18|1|0|0|13|88
+Jerome Williams|R|Chris Coghlan|L|Walk|B|Sinker|19|2|0|0|13|89
+Jerome Williams|R|Chris Coghlan|L|Walk|C|Four-Seam Fastball|20|3|0|0|4|88
+Jerome Williams|R|Chris Coghlan|L|Walk|B|Sinker|21|3|1|0|11|87
+Jerome Williams|R|Starlin Castro|R|Groundout|B|Cutter|22|0|0|0|14|85
+Jerome Williams|R|Starlin Castro|R|Groundout|C|Cutter|23|1|0|0|2|86
+Jerome Williams|R|Starlin Castro|R|Groundout|*B|Changeup|24|1|1|0|14|81
+Jerome Williams|R|Starlin Castro|R|Groundout|X|Four-Seam Fastball|25|2|1|0|6|90
+Jerome Williams|R|David Ross|R|Groundout|X|Sinker|26|0|0|1|6|90
+Jerome Williams|R|Jon Lester|L|Strikeout|C|Sinker|27|0|0|2|8|91
+Jerome Williams|R|Jon Lester|L|Strikeout|S|Sinker|28|0|1|2|13|91
+Jerome Williams|R|Jon Lester|L|Strikeout|S|Sinker|29|0|2|2|13|90
+Jerome Williams|R|Addison Russell|R|Strikeout|F|Sinker|30|0|0|0|9|90
+Jerome Williams|R|Addison Russell|R|Strikeout|F|Sinker|31|0|1|0|13|90
+Jerome Williams|R|Addison Russell|R|Strikeout|C|Sinker|32|0|2|0|11|90
+Jerome Williams|R|Dexter Fowler|L|Groundout|C|Changeup|33|0|0|1|13|84
+Jerome Williams|R|Dexter Fowler|L|Groundout|B|Sinker|34|0|1|1|14|91
+Jerome Williams|R|Dexter Fowler|L|Groundout|X|Cutter|35|1|1|1|6|88
+Jerome Williams|R|Kris Bryant|R|Home Run|F|Four-Seam Fastball|36|0|0|2|13|90
+Jerome Williams|R|Kris Bryant|R|Home Run|B|Sinker|37|0|1|2|13|91
+Jerome Williams|R|Kris Bryant|R|Home Run|B|Changeup|38|1|1|2|13|83
+Jerome Williams|R|Kris Bryant|R|Home Run|S|Changeup|39|2|1|2|14|82
+Jerome Williams|R|Kris Bryant|R|Home Run|E|Four-Seam Fastball|40|2|2|2|6|92
+Jerome Williams|R|Anthony Rizzo|L|Pop Out|F|Cutter|41|0|0|2|12|89
+Jerome Williams|R|Anthony Rizzo|L|Pop Out|X|Four-Seam Fastball|42|0|1|2|6|90
+Jerome Williams|R|Jorge Soler|R|Single|D|Cutter|43|0|0|0|14|86
+Jerome Williams|R|Chris Coghlan|L|Home Run|S|Sinker|44|0|0|0|13|89
+Jerome Williams|R|Chris Coghlan|L|Home Run|E|Sinker|45|0|1|0|6|88
+Jerome Williams|R|Starlin Castro|R|Groundout|B|Four-Seam Fastball|46|0|0|0|14|90
+Jerome Williams|R|Starlin Castro|R|Groundout|F|Cutter|47|1|0|0|6|87
+Jerome Williams|R|Starlin Castro|R|Groundout|F|Four-Seam Fastball|48|1|1|0|11|90
+Jerome Williams|R|Starlin Castro|R|Groundout|X|Cutter|49|1|2|0|14|87
+Jerome Williams|R|David Ross|R|Single|C|Sinker|50|0|0|1|1|90
+Jerome Williams|R|David Ross|R|Single|B|Cutter|51|0|1|1|14|87
+Jerome Williams|R|David Ross|R|Single|D|Cutter|52|1|1|1|12|86
+Jerome Williams|R|Jon Lester|L|Groundout|M|Sinker|53|0|0|1|5|88
+Jerome Williams|R|Jon Lester|L|Groundout|L|Sinker|54|0|1|1|8|89
+Jerome Williams|R|Jon Lester|L|Groundout|B|Sinker|55|0|2|1|11|89
+Jerome Williams|R|Jon Lester|L|Groundout|X|Sinker|56|1|2|1|13|89
+Jerome Williams|R|Addison Russell|R|Groundout|S|Cutter|57|0|0|2|14|88
+Jerome Williams|R|Addison Russell|R|Groundout|B|Cutter|58|0|1|2|14|86
+Jerome Williams|R|Addison Russell|R|Groundout|F|Changeup|59|1|1|2|8|83
+Jerome Williams|R|Addison Russell|R|Groundout|F|Cutter|60|1|2|2|5|87
+Jerome Williams|R|Addison Russell|R|Groundout|B|Sinker|61|1|2|2|13|90
+Jerome Williams|R|Addison Russell|R|Groundout|X|Cutter|62|2|2|2|14|86
+Jerome Williams|R|Dexter Fowler|L|Groundout|X|Sinker|63|0|0|0|8|89
+Jerome Williams|R|Kris Bryant|R|Flyout|C|Cutter|64|0|0|1|9|86
+Jerome Williams|R|Kris Bryant|R|Flyout|B|Four-Seam Fastball|65|0|1|1|13|91
+Jerome Williams|R|Kris Bryant|R|Flyout|F|Sinker|66|1|1|1|13|90
+Jerome Williams|R|Kris Bryant|R|Flyout|B|Cutter|67|1|2|1|14|87
+Jerome Williams|R|Kris Bryant|R|Flyout|X|Cutter|68|2|2|1|14|88
+Jerome Williams|R|Anthony Rizzo|L|Groundout|B|Changeup|69|0|0|2|13|83
+Jerome Williams|R|Anthony Rizzo|L|Groundout|C|Cutter|70|1|0|2|6|88
+Jerome Williams|R|Anthony Rizzo|L|Groundout|F|Curveball|71|1|1|2|13|75
+Jerome Williams|R|Anthony Rizzo|L|Groundout|X|Sinker|72|1|2|2|5|90
+Jerome Williams|R|Jorge Soler|R|Flyout|X|Sinker|73|0|0|0|9|89
+Jerome Williams|R|Chris Coghlan|L|Single|C|Sinker|74|0|0|1|4|87
+Jerome Williams|R|Chris Coghlan|L|Single|S|Changeup|75|0|1|1|13|82
+Jerome Williams|R|Chris Coghlan|L|Single|D|Four-Seam Fastball|76|0|2|1|11|89
+Jerome Williams|R|Starlin Castro|R|Flyout|B|Cutter|77|0|0|1|14|84
+Jerome Williams|R|Starlin Castro|R|Flyout|X|Cutter|78|1|0|1|9|84
+Jerome Williams|R|David Ross|R|Strikeout|F|Cutter|79|0|0|2|5|87
+Jerome Williams|R|David Ross|R|Strikeout|C|Cutter|80|0|1|2|13|85
+Jerome Williams|R|David Ross|R|Strikeout|P|Pitchout|81|0|2|2|12|78
+Jerome Williams|R|David Ross|R|Strikeout|S|Cutter|82|0|2|2|1|84
+Jerome Williams|R|Troy Tulowitzki|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|90
+Jerome Williams|R|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|9|90
+Jerome Williams|R|Troy Tulowitzki|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|90
+Jerome Williams|R|Troy Tulowitzki|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|2|90
+Jerome Williams|R|Troy Tulowitzki|R|Strikeout|S|Slider|4|2|2|0|13|78
+Jerome Williams|R|Josh Donaldson|R|Groundout|C|Curveball|5|0|0|1|5|70
+Jerome Williams|R|Josh Donaldson|R|Groundout|C|Four-Seam Fastball|6|0|1|1|8|90
+Jerome Williams|R|Josh Donaldson|R|Groundout|B|Four-Seam Fastball|7|0|2|1|12|90
+Jerome Williams|R|Josh Donaldson|R|Groundout|X|Changeup|8|1|2|1|13|85
+Jerome Williams|R|Jose Bautista|R|Pop Out|B|Cutter|9|0|0|2|14|88
+Jerome Williams|R|Jose Bautista|R|Pop Out|B|Four-Seam Fastball|10|1|0|2|14|90
+Jerome Williams|R|Jose Bautista|R|Pop Out|X|Four-Seam Fastball|11|2|0|2|14|91
+Jerome Williams|R|Chris Colabello|R|Single|B|Cutter|12|0|0|0|14|85
+Jerome Williams|R|Chris Colabello|R|Single|F|Cutter|13|1|0|0|5|86
+Jerome Williams|R|Chris Colabello|R|Single|B|Sinker|14|1|1|0|13|90
+Jerome Williams|R|Chris Colabello|R|Single|B|Sinker|15|2|1|0|14|91
+Jerome Williams|R|Chris Colabello|R|Single|D|Four-Seam Fastball|16|3|1|0|11|90
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|C|Slider|17|0|0|0|8|78
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|F|Sinker|18|0|1|0|11|88
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|B|Cutter|19|0|2|0|14|85
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|B|Changeup|20|1|2|0|14|84
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|X|Sinker|21|2|2|0|8|90
+Jerome Williams|R|Danny Valencia|R|Single|C|Cutter|22|0|0|2|8|86
+Jerome Williams|R|Danny Valencia|R|Single|D|Four-Seam Fastball|23|0|1|2|9|90
+Jerome Williams|R|Ezequiel Carrera|L|Single|D|Sinker|24|0|0|2|13|89
+Jerome Williams|R|Kevin Pillar|R|Lineout|B|Cutter|25|0|0|2|14|87
+Jerome Williams|R|Kevin Pillar|R|Lineout|C|Four-Seam Fastball|26|1|0|2|9|90
+Jerome Williams|R|Kevin Pillar|R|Lineout|X|Four-Seam Fastball|27|1|1|2|8|90
+Jerome Williams|R|Ryan Goins|L|Single|B|Sinker|28|0|0|0|13|89
+Jerome Williams|R|Ryan Goins|L|Single|D|Changeup|29|1|0|0|8|84
+Jerome Williams|R|Troy Tulowitzki|R|Home Run|C|Four-Seam Fastball|30|0|0|0|6|88
+Jerome Williams|R|Troy Tulowitzki|R|Home Run|C|Sinker|31|0|1|0|13|88
+Jerome Williams|R|Troy Tulowitzki|R|Home Run|E|Sinker|32|0|2|0|2|88
+Jerome Williams|R|Josh Donaldson|R|Single|F|Cutter|33|0|0|0|9|87
+Jerome Williams|R|Josh Donaldson|R|Single|F|Four-Seam Fastball|34|0|1|0|2|90
+Jerome Williams|R|Josh Donaldson|R|Single|B|Slider|35|0|2|0|14|80
+Jerome Williams|R|Josh Donaldson|R|Single|B|Cutter|36|1|2|0|14|89
+Jerome Williams|R|Josh Donaldson|R|Single|F|Slider|37|2|2|0|14|79
+Jerome Williams|R|Josh Donaldson|R|Single|D|Sinker|38|2|2|0|13|91
+Jerome Williams|R|Jose Bautista|R|Field Error|D|Cutter|39|0|0|0|9|87
+Jerome Williams|R|Chris Colabello|R|Forceout|B|Cutter|40|0|0|0|14|86
+Jerome Williams|R|Chris Colabello|R|Forceout|C|Sinker|41|1|0|0|9|89
+Jerome Williams|R|Chris Colabello|R|Forceout|T|Sinker|42|1|1|0|11|90
+Jerome Williams|R|Chris Colabello|R|Forceout|X|Four-Seam Fastball|43|1|2|0|14|90
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|B|Changeup|44|0|0|1|14|83
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|*B|Cutter|45|1|0|1|14|87
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|F|Sinker|46|2|0|1|3|89
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|*B|Slider|47|2|1|1|14|79
+Jerome Williams|R|Russell Martin|R|Grounded Into DP|X|Cutter|48|3|1|1|13|87
+Jerome Williams|R|Danny Valencia|R|Single|D|Four-Seam Fastball|49|0|0|0|6|89
+Jerome Williams|R|Ezequiel Carrera|L|Sac Bunt|S|Sinker|50|0|0|0|11|88
+Jerome Williams|R|Ezequiel Carrera|L|Sac Bunt|X|Sinker|51|0|1|0|13|88
+Jerome Williams|R|Kevin Pillar|R|Groundout|B|Sinker|52|0|0|1|11|88
+Jerome Williams|R|Kevin Pillar|R|Groundout|C|Cutter|53|1|0|1|5|86
+Jerome Williams|R|Kevin Pillar|R|Groundout|B|Changeup|54|1|1|1|13|82
+Jerome Williams|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|55|2|1|1|8|89
+Jerome Williams|R|Kevin Pillar|R|Groundout|X|Slider|56|2|2|1|14|79
+Jerome Williams|R|Ryan Goins|L|Groundout|C|Cutter|57|0|0|2|13|86
+Jerome Williams|R|Ryan Goins|L|Groundout|F|Cutter|58|0|1|2|5|86
+Jerome Williams|R|Ryan Goins|L|Groundout|B|Sinker|59|0|2|2|14|91
+Jerome Williams|R|Ryan Goins|L|Groundout|B|Sinker|60|1|2|2|13|90
+Jerome Williams|R|Ryan Goins|L|Groundout|X|Four-Seam Fastball|61|2|2|2|7|87
+Jerome Williams|R|Troy Tulowitzki|R|Double|D|Cutter|62|0|0|0|5|86
+Jerome Williams|R|Josh Donaldson|R|Flyout|F|Changeup|63|0|0|0|13|82
+Jerome Williams|R|Josh Donaldson|R|Flyout|C|Four-Seam Fastball|64|0|1|0|14|89
+Jerome Williams|R|Josh Donaldson|R|Flyout|B|Sinker|65|0|2|0|14|90
+Jerome Williams|R|Josh Donaldson|R|Flyout|X|Cutter|66|1|2|0|7|86
+Jerome Williams|R|Jose Bautista|R|Single|B|Curveball|67|0|0|1|14|75
+Jerome Williams|R|Jose Bautista|R|Single|C|Curveball|68|1|0|1|9|75
+Jerome Williams|R|Jose Bautista|R|Single|E|Sinker|69|1|1|1|7|91
+Jerome Williams|R|Chris Colabello|R|Groundout|S|Curveball|70|0|0|1|8|74
+Jerome Williams|R|Chris Colabello|R|Groundout|X|Cutter|71|0|1|1|14|85
+Jerome Williams|R|Russell Martin|R|Double|B|Sinker|72|0|0|2|1|89
+Jerome Williams|R|Russell Martin|R|Double|B|Sinker|73|1|0|2|11|89
+Jerome Williams|R|Russell Martin|R|Double|E|Four-Seam Fastball|74|2|0|2|5|89
+Jerome Williams|R|Jimmy Rollins|L|Strikeout|C|Changeup|0|0|0|0|2|84
+Jerome Williams|R|Jimmy Rollins|L|Strikeout|B|Cutter|1|0|1|0|13|87
+Jerome Williams|R|Jimmy Rollins|L|Strikeout|F|Cutter|2|1|1|0|5|88
+Jerome Williams|R|Jimmy Rollins|L|Strikeout|B|Sinker|3|1|2|0|11|91
+Jerome Williams|R|Jimmy Rollins|L|Strikeout|S|Curveball|4|2|2|0|13|76
+Jerome Williams|R|Howie Kendrick|R|Strikeout|C|Sinker|5|0|0|1|13|91
+Jerome Williams|R|Howie Kendrick|R|Strikeout|S|Cutter|6|0|1|1|14|87
+Jerome Williams|R|Howie Kendrick|R|Strikeout|S|Cutter|7|0|2|1|8|85
+Jerome Williams|R|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|8|0|0|2|11|90
+Jerome Williams|R|Adrian Gonzalez|L|Walk|C|Sinker|9|1|0|2|13|90
+Jerome Williams|R|Adrian Gonzalez|L|Walk|B|Curveball|10|1|1|2|13|69
+Jerome Williams|R|Adrian Gonzalez|L|Walk|B|Sinker|11|2|1|2|13|90
+Jerome Williams|R|Adrian Gonzalez|L|Walk|B|Sinker|12|3|1|2|13|89
+Jerome Williams|R|Andre Ethier|L|Flyout|C|Sinker|13|0|0|2|7|90
+Jerome Williams|R|Andre Ethier|L|Flyout|S|Changeup|14|0|1|2|13|84
+Jerome Williams|R|Andre Ethier|L|Flyout|X|Changeup|15|0|2|2|7|84
+Jerome Williams|R|Yasmani Grandal|L|Groundout|C|Sinker|16|0|0|0|11|90
+Jerome Williams|R|Yasmani Grandal|L|Groundout|B|Changeup|17|0|1|0|13|84
+Jerome Williams|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|18|1|1|0|14|88
+Jerome Williams|R|Yasmani Grandal|L|Groundout|F|Changeup|19|2|1|0|4|83
+Jerome Williams|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|20|2|2|0|13|90
+Jerome Williams|R|Yasmani Grandal|L|Groundout|B|Slider|21|2|2|0|14|77
+Jerome Williams|R|Yasmani Grandal|L|Groundout|F|Sinker|22|3|2|0|2|91
+Jerome Williams|R|Yasmani Grandal|L|Groundout|X|Changeup|23|3|2|0|4|83
+Jerome Williams|R|Yasiel Puig|R|Groundout|B|Sinker|24|0|0|1|13|91
+Jerome Williams|R|Yasiel Puig|R|Groundout|B|Four-Seam Fastball|25|1|0|1|3|91
+Jerome Williams|R|Yasiel Puig|R|Groundout|C|Changeup|26|2|0|1|7|83
+Jerome Williams|R|Yasiel Puig|R|Groundout|B|Cutter|27|2|1|1|13|87
+Jerome Williams|R|Yasiel Puig|R|Groundout|X|Sinker|28|3|1|1|9|92
+Jerome Williams|R|Joc Pederson|L|Walk|B|Sinker|29|0|0|2|13|91
+Jerome Williams|R|Joc Pederson|L|Walk|F|Changeup|30|1|0|2|13|84
+Jerome Williams|R|Joc Pederson|L|Walk|B|Sinker|31|1|1|2|13|90
+Jerome Williams|R|Joc Pederson|L|Walk|B|Slider|32|2|1|2|14|76
+Jerome Williams|R|Joc Pederson|L|Walk|B|Changeup|33|3|1|2|13|83
+Jerome Williams|R|Alex Guerrero|R|Strikeout|W|Cutter|34|0|0|2|14|87
+Jerome Williams|R|Alex Guerrero|R|Strikeout|C|Sinker|35|0|1|2|6|88
+Jerome Williams|R|Alex Guerrero|R|Strikeout|B|Sinker|36|0|2|2|12|90
+Jerome Williams|R|Alex Guerrero|R|Strikeout|S|Changeup|37|1|2|2|14|81
+Jerome Williams|R|Alex Wood|R|Single|B|Sinker|38|0|0|0|2|90
+Jerome Williams|R|Alex Wood|R|Single|C|Sinker|39|1|0|0|8|90
+Jerome Williams|R|Alex Wood|R|Single|C|Four-Seam Fastball|40|1|1|0|14|90
+Jerome Williams|R|Alex Wood|R|Single|F|Sinker|41|1|2|0|9|90
+Jerome Williams|R|Alex Wood|R|Single|B|Cutter|42|1|2|0|14|87
+Jerome Williams|R|Alex Wood|R|Single|B|Sinker|43|2|2|0|14|91
+Jerome Williams|R|Alex Wood|R|Single|D|Sinker|44|3|2|0|1|91
+Jerome Williams|R|Jimmy Rollins|L|Fan Interference|D|Changeup|45|0|0|0|7|82
+Jerome Williams|R|Howie Kendrick|R|Groundout|B|Sinker|46|0|0|0|13|89
+Jerome Williams|R|Howie Kendrick|R|Groundout|T|Changeup|47|1|0|0|7|83
+Jerome Williams|R|Howie Kendrick|R|Groundout|F|Changeup|48|1|1|0|8|83
+Jerome Williams|R|Howie Kendrick|R|Groundout|X|Changeup|49|1|2|0|4|81
+Jerome Williams|R|Adrian Gonzalez|L|Strikeout|F|Sinker|50|0|0|1|13|89
+Jerome Williams|R|Adrian Gonzalez|L|Strikeout|S|Slider|51|0|1|1|9|80
+Jerome Williams|R|Adrian Gonzalez|L|Strikeout|B|Changeup|52|0|2|1|13|83
+Jerome Williams|R|Adrian Gonzalez|L|Strikeout|F|Changeup|53|1|2|1|14|84
+Jerome Williams|R|Adrian Gonzalez|L|Strikeout|W|Slider|54|1|2|1|14|79
+Jerome Williams|R|Andre Ethier|L|Groundout|C|Cutter|55|0|0|2|11|87
+Jerome Williams|R|Andre Ethier|L|Groundout|B|Cutter|56|0|1|2|13|86
+Jerome Williams|R|Andre Ethier|L|Groundout|B|Changeup|57|1|1|2|13|83
+Jerome Williams|R|Andre Ethier|L|Groundout|X|Cutter|58|2|1|2|6|88
+Jerome Williams|R|Yasmani Grandal|L|Single|B|Curveball|59|0|0|0|14|72
+Jerome Williams|R|Yasmani Grandal|L|Single|C|Sinker|60|1|0|0|9|89
+Jerome Williams|R|Yasmani Grandal|L|Single|B|Sinker|61|1|1|0|14|90
+Jerome Williams|R|Yasmani Grandal|L|Single|F|Sinker|62|2|1|0|1|89
+Jerome Williams|R|Yasmani Grandal|L|Single|F|Cutter|63|2|2|0|11|86
+Jerome Williams|R|Yasmani Grandal|L|Single|B|Sinker|64|2|2|0|11|91
+Jerome Williams|R|Yasmani Grandal|L|Single|F|Sinker|65|3|2|0|13|90
+Jerome Williams|R|Yasmani Grandal|L|Single|F|Four-Seam Fastball|66|3|2|0|4|90
+Jerome Williams|R|Yasmani Grandal|L|Single|D|Cutter|67|3|2|0|13|87
+Jerome Williams|R|Yasiel Puig|R|Single|B|Changeup|68|0|0|0|13|82
+Jerome Williams|R|Yasiel Puig|R|Single|D|Cutter|69|1|0|0|14|87
+Jerome Williams|R|Joc Pederson|L|Walk|C|Curveball|70|0|0|0|7|75
+Jerome Williams|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|71|0|1|0|14|90
+Jerome Williams|R|Joc Pederson|L|Walk|S|Cutter|72|1|1|0|14|88
+Jerome Williams|R|Joc Pederson|L|Walk|*B|Slider|73|1|2|0|14|81
+Jerome Williams|R|Joc Pederson|L|Walk|B|Changeup|74|2|2|0|13|82
+Jerome Williams|R|Joc Pederson|L|Walk|B|Changeup|75|3|2|0|11|81
+Jerome Williams|R|Alex Guerrero|R|Strikeout|C|Cutter|76|0|0|0|14|87
+Jerome Williams|R|Alex Guerrero|R|Strikeout|F|Changeup|77|0|1|0|7|83
+Jerome Williams|R|Alex Guerrero|R|Strikeout|W|Slider|78|0|2|0|14|81
+Jerome Williams|R|Alex Wood|R|Grounded Into DP|X|Cutter|79|0|0|1|4|86
+Jerome Williams|R|Jimmy Rollins|L|Single|C|Changeup|80|0|0|0|6|83
+Jerome Williams|R|Jimmy Rollins|L|Single|B|Sinker|81|0|1|0|11|88
+Jerome Williams|R|Jimmy Rollins|L|Single|F|Sinker|82|1|1|0|5|89
+Jerome Williams|R|Jimmy Rollins|L|Single|D|Sinker|83|1|2|0|6|90
+Jerome Williams|R|Howie Kendrick|R|Forceout|F|Cutter|84|0|0|0|8|87
+Jerome Williams|R|Howie Kendrick|R|Forceout|B|Sinker|85|0|1|0|14|89
+Jerome Williams|R|Howie Kendrick|R|Forceout|F|Sinker|86|1|1|0|11|90
+Jerome Williams|R|Howie Kendrick|R|Forceout|X|Slider|87|1|2|0|14|78
+Jerome Williams|R|Adrian Gonzalez|L|Single|B|Sinker|88|0|0|1|13|89
+Jerome Williams|R|Adrian Gonzalez|L|Single|B|Sinker|89|1|0|1|13|90
+Jerome Williams|R|Adrian Gonzalez|L|Single|C|Changeup|90|2|0|1|13|83
+Jerome Williams|R|Adrian Gonzalez|L|Single|D|Sinker|91|2|1|1|13|89
+Jerome Williams|R|Andre Ethier|L|Single|B|Sinker|92|0|0|1|14|90
+Jerome Williams|R|Andre Ethier|L|Single|E|Sinker|93|1|0|1|13|91
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|B|Cutter|94|0|0|1|11|88
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|B|Cutter|95|1|0|1|11|88
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|C|Sinker|96|2|0|1|13|89
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|F|Sinker|97|2|1|1|7|90
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|*B|Slider|98|2|2|1|14|78
+Jerome Williams|R|Yasmani Grandal|L|Strikeout|S|Sinker|99|3|2|1|13|89
+Jerome Williams|R|Yasiel Puig|R|Flyout|F|Sinker|100|0|0|2|1|91
+Jerome Williams|R|Yasiel Puig|R|Flyout|X|Slider|101|0|1|2|14|77
+Jerome Williams|R|Alexi Amarista|L|Lineout|C|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Alexi Amarista|L|Lineout|B|Four-Seam Fastball|1|0|1|0|13|87
+Jerome Williams|R|Alexi Amarista|L|Lineout|F|Cutter|2|1|1|0|14|86
+Jerome Williams|R|Alexi Amarista|L|Lineout|F|Changeup|3|1|2|0|13|84
+Jerome Williams|R|Alexi Amarista|L|Lineout|F|Four-Seam Fastball|4|1|2|0|13|89
+Jerome Williams|R|Alexi Amarista|L|Lineout|X|Changeup|5|1|2|0|13|83
+Jerome Williams|R|Yangervis Solarte|L|Lineout|B|Sinker|6|0|0|1|13|89
+Jerome Williams|R|Yangervis Solarte|L|Lineout|C|Changeup|7|1|0|1|13|83
+Jerome Williams|R|Yangervis Solarte|L|Lineout|B|Slider|8|1|1|1|11|77
+Jerome Williams|R|Yangervis Solarte|L|Lineout|X|Sinker|9|2|1|1|11|89
+Jerome Williams|R|Matt Kemp|R|Single|C|Four-Seam Fastball|10|0|0|2|5|89
+Jerome Williams|R|Matt Kemp|R|Single|D|Four-Seam Fastball|11|0|1|2|6|90
+Jerome Williams|R|Justin Upton|R|Groundout|*B|Cutter|12|0|0|2|14|85
+Jerome Williams|R|Justin Upton|R|Groundout|X|Four-Seam Fastball|13|1|0|2|9|88
+Jerome Williams|R|Yonder Alonso|L|Lineout|F|Sinker|14|0|0|0|13|89
+Jerome Williams|R|Yonder Alonso|L|Lineout|B|Four-Seam Fastball|15|0|1|0|11|89
+Jerome Williams|R|Yonder Alonso|L|Lineout|X|Sinker|16|1|1|0|13|89
+Jerome Williams|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|17|0|0|1|2|89
+Jerome Williams|R|Derek Norris|R|Lineout|C|Four-Seam Fastball|18|0|0|2|8|89
+Jerome Williams|R|Derek Norris|R|Lineout|B|Cutter|19|0|1|2|14|87
+Jerome Williams|R|Derek Norris|R|Lineout|S|Changeup|20|1|1|2|13|83
+Jerome Williams|R|Derek Norris|R|Lineout|F|Changeup|21|1|2|2|13|83
+Jerome Williams|R|Derek Norris|R|Lineout|B|Cutter|22|1|2|2|14|87
+Jerome Williams|R|Derek Norris|R|Lineout|F|Four-Seam Fastball|23|2|2|2|3|91
+Jerome Williams|R|Derek Norris|R|Lineout|F|Changeup|24|2|2|2|13|82
+Jerome Williams|R|Derek Norris|R|Lineout|B|Four-Seam Fastball|25|2|2|2|13|91
+Jerome Williams|R|Derek Norris|R|Lineout|F|Four-Seam Fastball|26|3|2|2|7|91
+Jerome Williams|R|Derek Norris|R|Lineout|F|Four-Seam Fastball|27|3|2|2|5|91
+Jerome Williams|R|Derek Norris|R|Lineout|F|Changeup|28|3|2|2|7|83
+Jerome Williams|R|Derek Norris|R|Lineout|X|Cutter|29|3|2|2|5|87
+Jerome Williams|R|Will Venable|L|Pop Out|B|Sinker|30|0|0|0|13|88
+Jerome Williams|R|Will Venable|L|Pop Out|X|Sinker|31|1|0|0|8|87
+Jerome Williams|R|Andrew Cashner|R|Single|B|Four-Seam Fastball|32|0|0|1|14|89
+Jerome Williams|R|Andrew Cashner|R|Single|B|Sinker|33|1|0|1|14|89
+Jerome Williams|R|Andrew Cashner|R|Single|C|Four-Seam Fastball|34|2|0|1|5|89
+Jerome Williams|R|Andrew Cashner|R|Single|C|Cutter|35|2|1|1|4|85
+Jerome Williams|R|Andrew Cashner|R|Single|D|Sinker|36|2|2|1|5|89
+Jerome Williams|R|Alexi Amarista|L|Groundout|X|Changeup|37|0|0|1|13|83
+Jerome Williams|R|Yangervis Solarte|L|Groundout|B|Sinker|38|0|0|2|13|88
+Jerome Williams|R|Yangervis Solarte|L|Groundout|C|Sinker|39|1|0|2|7|90
+Jerome Williams|R|Yangervis Solarte|L|Groundout|S|Cutter|40|1|1|2|14|88
+Jerome Williams|R|Yangervis Solarte|L|Groundout|X|Cutter|41|1|2|2|8|88
+Jerome Williams|R|Matt Kemp|R|Groundout|C|Cutter|42|0|0|0|9|87
+Jerome Williams|R|Matt Kemp|R|Groundout|F|Four-Seam Fastball|43|0|1|0|11|88
+Jerome Williams|R|Matt Kemp|R|Groundout|X|Cutter|44|0|2|0|14|88
+Jerome Williams|R|Justin Upton|R|Groundout|C|Cutter|45|0|0|1|4|87
+Jerome Williams|R|Justin Upton|R|Groundout|B|Cutter|46|0|1|1|9|86
+Jerome Williams|R|Justin Upton|R|Groundout|B|Changeup|47|1|1|1|14|82
+Jerome Williams|R|Justin Upton|R|Groundout|X|Sinker|48|2|1|1|4|90
+Jerome Williams|R|Yonder Alonso|L|Groundout|X|Changeup|49|0|0|2|11|81
+Jerome Williams|R|Jedd Gyorko|R|Groundout|C|Cutter|50|0|0|0|4|84
+Jerome Williams|R|Jedd Gyorko|R|Groundout|B|Four-Seam Fastball|51|0|1|0|12|88
+Jerome Williams|R|Jedd Gyorko|R|Groundout|S|Sinker|52|1|1|0|13|88
+Jerome Williams|R|Jedd Gyorko|R|Groundout|B|Changeup|53|1|2|0|13|83
+Jerome Williams|R|Jedd Gyorko|R|Groundout|X|Four-Seam Fastball|54|2|2|0|8|90
+Jerome Williams|R|Derek Norris|R|Flyout|C|Sinker|55|0|0|1|13|89
+Jerome Williams|R|Derek Norris|R|Flyout|C|Curveball|56|0|1|1|9|70
+Jerome Williams|R|Derek Norris|R|Flyout|B|Changeup|57|0|2|1|14|84
+Jerome Williams|R|Derek Norris|R|Flyout|X|Four-Seam Fastball|58|1|2|1|3|89
+Jerome Williams|R|Will Venable|L|Single|C|Curveball|59|0|0|2|5|74
+Jerome Williams|R|Will Venable|L|Single|B|Sinker|60|0|1|2|13|88
+Jerome Williams|R|Will Venable|L|Single|F|Cutter|61|1|1|2|6|86
+Jerome Williams|R|Will Venable|L|Single|B|Sinker|62|1|2|2|14|90
+Jerome Williams|R|Will Venable|L|Single|B|Four-Seam Fastball|63|2|2|2|11|89
+Jerome Williams|R|Will Venable|L|Single|D|Four-Seam Fastball|64|3|2|2|13|88
+Jerome Williams|R|Andrew Cashner|R|Field Error|F|Cutter|65|0|0|2|14|85
+Jerome Williams|R|Andrew Cashner|R|Field Error|D|Cutter|66|0|1|2|5|84
+Jerome Williams|R|Alexi Amarista|L|Lineout|C|Curveball|67|0|0|2|4|72
+Jerome Williams|R|Alexi Amarista|L|Lineout|S|Cutter|68|0|1|2|14|85
+Jerome Williams|R|Alexi Amarista|L|Lineout|F|Cutter|69|0|2|2|14|86
+Jerome Williams|R|Alexi Amarista|L|Lineout|X|Slider|70|0|2|2|13|78
+Jerome Williams|R|Yangervis Solarte|L|Strikeout|B|Changeup|71|0|0|0|13|81
+Jerome Williams|R|Yangervis Solarte|L|Strikeout|C|Changeup|72|1|0|0|13|86
+Jerome Williams|R|Yangervis Solarte|L|Strikeout|F|Changeup|73|1|1|0|13|80
+Jerome Williams|R|Yangervis Solarte|L|Strikeout|B|Sinker|74|1|2|0|12|88
+Jerome Williams|R|Yangervis Solarte|L|Strikeout|S|Cutter|75|2|2|0|14|85
+Jerome Williams|R|Matt Kemp|R|Strikeout|B|Cutter|76|0|0|1|14|83
+Jerome Williams|R|Matt Kemp|R|Strikeout|B|Cutter|77|1|0|1|3|81
+Jerome Williams|R|Matt Kemp|R|Strikeout|F|Cutter|78|2|0|1|2|87
+Jerome Williams|R|Matt Kemp|R|Strikeout|F|Four-Seam Fastball|79|2|1|1|13|88
+Jerome Williams|R|Matt Kemp|R|Strikeout|S|Changeup|80|2|2|1|13|80
+Jerome Williams|R|Justin Upton|R|Home Run|B|Changeup|81|0|0|2|13|81
+Jerome Williams|R|Justin Upton|R|Home Run|B|Cutter|82|1|0|2|14|85
+Jerome Williams|R|Justin Upton|R|Home Run|T|Cutter|83|2|0|2|5|85
+Jerome Williams|R|Justin Upton|R|Home Run|F|Four-Seam Fastball|84|2|1|2|11|88
+Jerome Williams|R|Justin Upton|R|Home Run|B|Sinker|85|2|2|2|13|89
+Jerome Williams|R|Justin Upton|R|Home Run|E|Four-Seam Fastball|86|3|2|2|2|89
+Jerome Williams|R|Yonder Alonso|L|Groundout|B|Sinker|87|0|0|2|13|88
+Jerome Williams|R|Yonder Alonso|L|Groundout|X|Sinker|88|1|0|2|13|87
+Jerome Williams|R|Jedd Gyorko|R|Groundout|S|Changeup|89|0|0|0|7|80
+Jerome Williams|R|Jedd Gyorko|R|Groundout|B|Changeup|90|0|1|0|13|81
+Jerome Williams|R|Jedd Gyorko|R|Groundout|F|Cutter|91|1|1|0|4|83
+Jerome Williams|R|Jedd Gyorko|R|Groundout|X|Sinker|92|1|2|0|11|87
+Jerome Williams|R|Derek Norris|R|Lineout|B|Sinker|93|0|0|1|13|87
+Jerome Williams|R|Derek Norris|R|Lineout|F|Sinker|94|1|0|1|7|87
+Jerome Williams|R|Derek Norris|R|Lineout|X|Sinker|95|1|1|1|13|87
+Jerome Williams|R|Will Venable|L|Single|C|Sinker|96|0|0|2|11|88
+Jerome Williams|R|Will Venable|L|Single|B|Cutter|97|0|1|2|14|87
+Jerome Williams|R|Will Venable|L|Single|D|Changeup|98|1|1|2|13|83
+Jerome Williams|R|Brett Wallace|L|Strikeout|S|Changeup|99|0|0|2|13|80
+Jerome Williams|R|Brett Wallace|L|Strikeout|S|Changeup|100|0|1|2|13|81
+Jerome Williams|R|Brett Wallace|L|Strikeout|S|Changeup|101|0|2|2|13|80
+Jerome Williams|R|Shane Peterson|L|Groundout|B|Sinker|0|0|0|0|13|89
+Jerome Williams|R|Shane Peterson|L|Groundout|B|Sinker|1|1|0|0|13|89
+Jerome Williams|R|Shane Peterson|L|Groundout|X|Sinker|2|2|0|0|7|89
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|3|0|0|1|5|90
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|F|Cutter|4|0|1|1|14|86
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|B|Cutter|5|0|2|1|12|88
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|F|Changeup|6|1|2|1|14|83
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|X|Slider|7|1|2|1|7|78
+Jerome Williams|R|Ryan Braun|R|Flyout|X|Four-Seam Fastball|8|0|0|2|1|90
+Jerome Williams|R|Adam Lind|L|Groundout|C|Sinker|9|0|0|0|1|89
+Jerome Williams|R|Adam Lind|L|Groundout|B|Cutter|10|0|1|0|13|86
+Jerome Williams|R|Adam Lind|L|Groundout|F|Four-Seam Fastball|11|1|1|0|3|89
+Jerome Williams|R|Adam Lind|L|Groundout|F|Cutter|12|1|2|0|14|87
+Jerome Williams|R|Adam Lind|L|Groundout|X|Cutter|13|1|2|0|7|86
+Jerome Williams|R|Khris Davis|R|Groundout|C|Cutter|14|0|0|1|5|88
+Jerome Williams|R|Khris Davis|R|Groundout|X|Cutter|15|0|1|1|6|87
+Jerome Williams|R|Scooter Gennett|L|Single|C|Sinker|16|0|0|2|13|90
+Jerome Williams|R|Scooter Gennett|L|Single|B|Four-Seam Fastball|17|0|1|2|11|90
+Jerome Williams|R|Scooter Gennett|L|Single|D|Curveball|18|1|1|2|13|75
+Jerome Williams|R|Jean Segura|R|Groundout|F|Cutter|19|0|0|2|6|86
+Jerome Williams|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|20|0|1|2|14|89
+Jerome Williams|R|Jean Segura|R|Groundout|X|Sinker|21|1|1|2|9|89
+Jerome Williams|R|Elian Herrera|L|Strikeout|C|Sinker|22|0|0|0|7|89
+Jerome Williams|R|Elian Herrera|L|Strikeout|S|Cutter|23|0|1|0|14|87
+Jerome Williams|R|Elian Herrera|L|Strikeout|B|Cutter|24|0|2|0|14|88
+Jerome Williams|R|Elian Herrera|L|Strikeout|F|Changeup|25|1|2|0|8|84
+Jerome Williams|R|Elian Herrera|L|Strikeout|T|Cutter|26|1|2|0|12|87
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|T|Four-Seam Fastball|27|0|0|1|11|90
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|C|Four-Seam Fastball|28|0|1|1|14|91
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|C|Curveball|29|0|2|1|5|76
+Jerome Williams|R|Shane Peterson|L|Groundout|B|Sinker|30|0|0|2|11|91
+Jerome Williams|R|Shane Peterson|L|Groundout|C|Sinker|31|1|0|2|1|91
+Jerome Williams|R|Shane Peterson|L|Groundout|C|Changeup|32|1|1|2|13|83
+Jerome Williams|R|Shane Peterson|L|Groundout|X|Cutter|33|1|2|2|14|87
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|C|Cutter|34|0|0|0|8|85
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|B|Changeup|35|0|1|0|13|83
+Jerome Williams|R|Jonathan Lucroy|R|Groundout|X|Sinker|36|1|1|0|8|89
+Jerome Williams|R|Ryan Braun|R|Strikeout|B|Cutter|37|0|0|1|14|86
+Jerome Williams|R|Ryan Braun|R|Strikeout|C|Cutter|38|1|0|1|11|86
+Jerome Williams|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|39|1|1|1|14|91
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|40|2|1|1|12|91
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Cutter|41|2|2|1|4|87
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Slider|42|2|2|1|13|81
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Changeup|43|2|2|1|7|83
+Jerome Williams|R|Ryan Braun|R|Strikeout|B|Sinker|44|2|2|1|11|91
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Cutter|45|3|2|1|8|87
+Jerome Williams|R|Ryan Braun|R|Strikeout|F|Cutter|46|3|2|1|6|87
+Jerome Williams|R|Ryan Braun|R|Strikeout|S|Changeup|47|3|2|1|13|82
+Jerome Williams|R|Adam Lind|L|Lineout|C|Cutter|48|0|0|2|4|87
+Jerome Williams|R|Adam Lind|L|Lineout|T|Changeup|49|0|1|2|13|82
+Jerome Williams|R|Adam Lind|L|Lineout|X|Slider|50|0|2|2|14|80
+Jerome Williams|R|Khris Davis|R|Double|D|Cutter|51|0|0|0|12|84
+Jerome Williams|R|Scooter Gennett|L|Single|E|Sinker|52|0|0|0|7|88
+Jerome Williams|R|Jean Segura|R|Fielders Choice Out|S|Changeup|53|0|0|0|13|81
+Jerome Williams|R|Jean Segura|R|Fielders Choice Out|X|Changeup|54|0|1|0|13|81
+Jerome Williams|R|Elian Herrera|L|Single|S|Changeup|55|0|0|1|14|81
+Jerome Williams|R|Elian Herrera|L|Single|F|Cutter|56|0|1|1|14|87
+Jerome Williams|R|Elian Herrera|L|Single|B|Changeup|57|0|2|1|11|83
+Jerome Williams|R|Elian Herrera|L|Single|B|Sinker|58|1|2|1|11|88
+Jerome Williams|R|Elian Herrera|L|Single|E|Sinker|59|2|2|1|12|89
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|B|Curveball|60|0|0|1|14|72
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|S|Cutter|61|1|0|1|14|86
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|S|Cutter|62|1|1|1|14|85
+Jerome Williams|R|Jimmy Nelson|R|Strikeout|S|Cutter|63|1|2|1|6|86
+Jerome Williams|R|Shane Peterson|L|Groundout|S|Changeup|64|0|0|2|13|81
+Jerome Williams|R|Shane Peterson|L|Groundout|B|Changeup|65|0|1|2|11|81
+Jerome Williams|R|Shane Peterson|L|Groundout|B|Changeup|66|1|1|2|13|83
+Jerome Williams|R|Shane Peterson|L|Groundout|X|Cutter|67|2|1|2|3|88
+Jerome Williams|R|Jonathan Lucroy|R|Double|D|Changeup|68|0|0|0|5|87
+Jerome Williams|R|Ryan Braun|R|Fielders Choice Out|S|Changeup|69|0|0|0|8|81
+Jerome Williams|R|Ryan Braun|R|Fielders Choice Out|X|Slider|70|0|1|0|8|77
+Jerome Williams|R|Adam Lind|L|Groundout|X|Sinker|71|0|0|1|7|86
+Jerome Williams|R|Khris Davis|R|Groundout|B|Changeup|72|0|0|2|13|80
+Jerome Williams|R|Khris Davis|R|Groundout|F|Changeup|73|1|0|2|5|80
+Jerome Williams|R|Khris Davis|R|Groundout|B|Cutter|74|1|1|2|14|85
+Jerome Williams|R|Khris Davis|R|Groundout|F|Four-Seam Fastball|75|2|1|2|3|88
+Jerome Williams|R|Khris Davis|R|Groundout|*B|Slider|76|2|2|2|14|82
+Jerome Williams|R|Khris Davis|R|Groundout|F|Changeup|77|3|2|2|13|80
+Jerome Williams|R|Khris Davis|R|Groundout|X|Changeup|78|3|2|2|13|80
+Jerome Williams|R|Dee Gordon|L|Single|C|Sinker|0|0|0|0|7|88
+Jerome Williams|R|Dee Gordon|L|Single|B|Cutter|1|0|1|0|14|87
+Jerome Williams|R|Dee Gordon|L|Single|D|Four-Seam Fastball|2|1|1|0|7|89
+Jerome Williams|R|Ichiro Suzuki|L|Single|C|Sinker|3|0|0|0|7|88
+Jerome Williams|R|Ichiro Suzuki|L|Single|D|Four-Seam Fastball|4|0|1|0|5|89
+Jerome Williams|R|Martin Prado|R|Walk|B|Cutter|5|0|0|0|14|87
+Jerome Williams|R|Martin Prado|R|Walk|F|Cutter|6|1|0|0|6|86
+Jerome Williams|R|Martin Prado|R|Walk|B|Changeup|7|1|1|0|11|82
+Jerome Williams|R|Martin Prado|R|Walk|F|Four-Seam Fastball|8|2|1|0|8|90
+Jerome Williams|R|Martin Prado|R|Walk|B|Cutter|9|2|2|0|13|88
+Jerome Williams|R|Martin Prado|R|Walk|F|Four-Seam Fastball|10|3|2|0|2|90
+Jerome Williams|R|Martin Prado|R|Walk|*B|Cutter|11|3|2|0|14|87
+Jerome Williams|R|Justin Bour|L|Groundout|C|Slider|12|0|0|0|13|78
+Jerome Williams|R|Justin Bour|L|Groundout|S|Slider|13|0|1|0|13|80
+Jerome Williams|R|Justin Bour|L|Groundout|F|Slider|14|0|2|0|13|77
+Jerome Williams|R|Justin Bour|L|Groundout|B|Changeup|15|0|2|0|13|83
+Jerome Williams|R|Justin Bour|L|Groundout|B|Changeup|16|1|2|0|14|84
+Jerome Williams|R|Justin Bour|L|Groundout|F|Slider|17|2|2|0|8|80
+Jerome Williams|R|Justin Bour|L|Groundout|E|Cutter|18|2|2|0|9|88
+Jerome Williams|R|Derek Dietrich|L|Sac Fly|E|Sinker|19|0|0|1|4|91
+Jerome Williams|R|Marcell Ozuna|R|Single|D|Four-Seam Fastball|20|0|0|2|7|91
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Cutter|21|0|0|2|14|86
+Jerome Williams|R|J.T. Realmuto|R|Walk|F|Four-Seam Fastball|22|1|0|2|5|90
+Jerome Williams|R|J.T. Realmuto|R|Walk|F|Changeup|23|1|1|2|13|83
+Jerome Williams|R|J.T. Realmuto|R|Walk|*B|Cutter|24|1|2|2|14|86
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Cutter|25|2|2|2|13|86
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Changeup|26|3|2|2|13|84
+Jerome Williams|R|Adeiny Hechavarria|R|Single|B|Cutter|27|0|0|2|14|87
+Jerome Williams|R|Adeiny Hechavarria|R|Single|F|Cutter|28|1|0|2|4|88
+Jerome Williams|R|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|29|1|1|2|11|90
+Jerome Williams|R|Adeiny Hechavarria|R|Single|E|Cutter|30|1|2|2|5|87
+Jerome Williams|R|Brad Hand|L|Groundout|S|Sinker|31|0|0|2|13|86
+Jerome Williams|R|Brad Hand|L|Groundout|F|Slider|32|0|1|2|5|80
+Jerome Williams|R|Brad Hand|L|Groundout|B|Changeup|33|0|2|2|11|82
+Jerome Williams|R|Brad Hand|L|Groundout|F|Sinker|34|1|2|2|2|90
+Jerome Williams|R|Brad Hand|L|Groundout|B|Slider|35|1|2|2|13|78
+Jerome Williams|R|Brad Hand|L|Groundout|B|Cutter|36|2|2|2|14|88
+Jerome Williams|R|Brad Hand|L|Groundout|X|Sinker|37|3|2|2|13|89
+Jerome Williams|R|Dee Gordon|L|Walk|B|Four-Seam Fastball|38|0|0|0|11|89
+Jerome Williams|R|Dee Gordon|L|Walk|B|Changeup|39|1|0|0|13|83
+Jerome Williams|R|Dee Gordon|L|Walk|B|Changeup|40|2|0|0|11|83
+Jerome Williams|R|Dee Gordon|L|Walk|C|Four-Seam Fastball|41|3|0|0|13|90
+Jerome Williams|R|Dee Gordon|L|Walk|B|Sinker|42|3|1|0|11|90
+Jerome Williams|R|Ichiro Suzuki|L|Lineout|B|Curveball|43|0|0|0|14|72
+Jerome Williams|R|Ichiro Suzuki|L|Lineout|X|Sinker|44|1|0|0|4|90
+Jerome Williams|R|Martin Prado|R|Home Run|C|Cutter|45|0|0|1|13|86
+Jerome Williams|R|Martin Prado|R|Home Run|B|Sinker|46|0|1|1|13|90
+Jerome Williams|R|Martin Prado|R|Home Run|B|Four-Seam Fastball|47|1|1|1|14|89
+Jerome Williams|R|Martin Prado|R|Home Run|F|Four-Seam Fastball|48|2|1|1|3|91
+Jerome Williams|R|Martin Prado|R|Home Run|F|Sinker|49|2|2|1|11|91
+Jerome Williams|R|Martin Prado|R|Home Run|B|Changeup|50|2|2|1|13|84
+Jerome Williams|R|Martin Prado|R|Home Run|F|Sinker|51|3|2|1|13|89
+Jerome Williams|R|Martin Prado|R|Home Run|E|Sinker|52|3|2|1|4|90
+Jerome Williams|R|Justin Bour|L|Single|D|Changeup|53|0|0|1|13|84
+Jerome Williams|R|Derek Dietrich|L|Strikeout|C|Curveball|54|0|0|1|4|76
+Jerome Williams|R|Derek Dietrich|L|Strikeout|C|Cutter|55|0|1|1|13|86
+Jerome Williams|R|Derek Dietrich|L|Strikeout|F|Sinker|56|0|2|1|4|90
+Jerome Williams|R|Derek Dietrich|L|Strikeout|C|Cutter|57|0|2|1|13|87
+Jerome Williams|R|Marcell Ozuna|R|Home Run|E|Changeup|58|0|0|2|7|83
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Sinker|59|0|0|2|11|91
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Slider|60|1|0|2|14|79
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|61|2|0|2|14|89
+Jerome Williams|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|62|3|0|2|14|90
+Jerome Williams|R|Adeiny Hechavarria|R|Single|B|Sinker|63|0|0|2|14|91
+Jerome Williams|R|Adeiny Hechavarria|R|Single|C|Sinker|64|1|0|2|13|90
+Jerome Williams|R|Adeiny Hechavarria|R|Single|*B|Changeup|65|1|1|2|13|84
+Jerome Williams|R|Adeiny Hechavarria|R|Single|F|Cutter|66|2|1|2|9|89
+Jerome Williams|R|Adeiny Hechavarria|R|Single|D|Cutter|67|2|2|2|14|83
+Jerome Williams|R|Curtis Granderson|L|Field Error|B|Four-Seam Fastball|0|0|0|0|11|91
+Jerome Williams|R|Curtis Granderson|L|Field Error|C|Four-Seam Fastball|1|1|0|0|5|91
+Jerome Williams|R|Curtis Granderson|L|Field Error|F|Sinker|2|1|1|0|7|90
+Jerome Williams|R|Curtis Granderson|L|Field Error|D|Sinker|3|1|2|0|9|88
+Jerome Williams|R|Yoenis Cespedes|R|Home Run|B|Sinker|4|0|0|0|11|91
+Jerome Williams|R|Yoenis Cespedes|R|Home Run|F|Sinker|5|1|0|0|9|91
+Jerome Williams|R|Yoenis Cespedes|R|Home Run|S|Four-Seam Fastball|6|1|1|0|6|88
+Jerome Williams|R|Yoenis Cespedes|R|Home Run|E|Cutter|7|1|2|0|6|87
+Jerome Williams|R|Daniel Murphy|L|Groundout|B|Sinker|8|0|0|0|12|91
+Jerome Williams|R|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|9|1|0|0|14|92
+Jerome Williams|R|Daniel Murphy|L|Groundout|X|Sinker|10|2|0|0|7|91
+Jerome Williams|R|David Wright|R|Lineout|B|Changeup|11|0|0|1|13|86
+Jerome Williams|R|David Wright|R|Lineout|B|Cutter|12|1|0|1|14|89
+Jerome Williams|R|David Wright|R|Lineout|S|Cutter|13|2|0|1|14|89
+Jerome Williams|R|David Wright|R|Lineout|F|Changeup|14|2|1|1|14|84
+Jerome Williams|R|David Wright|R|Lineout|X|Sinker|15|2|2|1|5|92
+Jerome Williams|R|Kelly Johnson|L|Strikeout|B|Changeup|16|0|0|2|13|85
+Jerome Williams|R|Kelly Johnson|L|Strikeout|B|Sinker|17|1|0|2|11|92
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Changeup|18|2|0|2|11|84
+Jerome Williams|R|Kelly Johnson|L|Strikeout|F|Slider|19|2|1|2|4|78
+Jerome Williams|R|Kelly Johnson|L|Strikeout|C|Cutter|20|2|2|2|13|87
+Jerome Williams|R|Wilmer Flores|R|Groundout|B|Cutter|21|0|0|0|14|87
+Jerome Williams|R|Wilmer Flores|R|Groundout|B|Sinker|22|1|0|0|13|91
+Jerome Williams|R|Wilmer Flores|R|Groundout|X|Four-Seam Fastball|23|2|0|0|9|88
+Jerome Williams|R|Michael Conforto|L|Groundout|X|Sinker|24|0|0|1|7|91
+Jerome Williams|R|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|25|0|0|2|14|89
+Jerome Williams|R|Travis d'Arnaud|R|Single|B|Sinker|26|1|0|2|14|92
+Jerome Williams|R|Travis d'Arnaud|R|Single|F|Four-Seam Fastball|27|2|0|2|4|91
+Jerome Williams|R|Travis d'Arnaud|R|Single|B|Changeup|28|2|1|2|13|83
+Jerome Williams|R|Travis d'Arnaud|R|Single|D|Cutter|29|3|1|2|9|87
+Jerome Williams|R|Noah Syndergaard|L|Double|B|Changeup|30|0|0|2|11|83
+Jerome Williams|R|Noah Syndergaard|L|Double|C|Sinker|31|1|0|2|2|91
+Jerome Williams|R|Noah Syndergaard|L|Double|B|Sinker|32|1|1|2|12|91
+Jerome Williams|R|Noah Syndergaard|L|Double|F|Sinker|33|2|1|2|6|91
+Jerome Williams|R|Noah Syndergaard|L|Double|B|Sinker|34|2|2|2|12|92
+Jerome Williams|R|Noah Syndergaard|L|Double|E|Sinker|35|3|2|2|6|90
+Jerome Williams|R|Curtis Granderson|L|Strikeout|C|Changeup|36|0|0|2|1|85
+Jerome Williams|R|Curtis Granderson|L|Strikeout|C|Sinker|37|0|1|2|4|91
+Jerome Williams|R|Curtis Granderson|L|Strikeout|F|Four-Seam Fastball|38|0|2|2|2|91
+Jerome Williams|R|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|39|0|2|2|11|89
+Jerome Williams|R|Curtis Granderson|L|Strikeout|S|Sinker|40|1|2|2|6|92
+Jerome Williams|R|Yoenis Cespedes|R|Groundout|B|Four-Seam Fastball|41|0|0|0|14|91
+Jerome Williams|R|Yoenis Cespedes|R|Groundout|X|Changeup|42|1|0|0|9|84
+Jerome Williams|R|Daniel Murphy|L|Groundout|C|Curveball|43|0|0|1|8|71
+Jerome Williams|R|Daniel Murphy|L|Groundout|B|Slider|44|0|1|1|14|80
+Jerome Williams|R|Daniel Murphy|L|Groundout|X|Changeup|45|1|1|1|4|87
+Jerome Williams|R|David Wright|R|Groundout|S|Changeup|46|0|0|2|9|82
+Jerome Williams|R|David Wright|R|Groundout|B|Slider|47|0|1|2|14|79
+Jerome Williams|R|David Wright|R|Groundout|B|Four-Seam Fastball|48|1|1|2|11|91
+Jerome Williams|R|David Wright|R|Groundout|X|Sinker|49|2|1|2|14|90
+Jerome Williams|R|Kelly Johnson|L|Single|B|Sinker|50|0|0|0|13|88
+Jerome Williams|R|Kelly Johnson|L|Single|B|Sinker|51|1|0|0|11|89
+Jerome Williams|R|Kelly Johnson|L|Single|F|Sinker|52|2|0|0|5|88
+Jerome Williams|R|Kelly Johnson|L|Single|D|Sinker|53|2|1|0|8|89
+Jerome Williams|R|Wilmer Flores|R|Grounded Into DP|B|Sinker|54|0|0|0|14|88
+Jerome Williams|R|Wilmer Flores|R|Grounded Into DP|*B|Sinker|55|1|0|0|14|89
+Jerome Williams|R|Wilmer Flores|R|Grounded Into DP|F|Four-Seam Fastball|56|2|0|0|8|87
+Jerome Williams|R|Wilmer Flores|R|Grounded Into DP|S|Changeup|57|2|1|0|9|81
+Jerome Williams|R|Wilmer Flores|R|Grounded Into DP|X|Sinker|58|2|2|0|3|89
+Jerome Williams|R|Michael Conforto|L|Groundout|C|Changeup|59|0|0|2|8|82
+Jerome Williams|R|Michael Conforto|L|Groundout|B|Four-Seam Fastball|60|0|1|2|14|92
+Jerome Williams|R|Michael Conforto|L|Groundout|C|Sinker|61|1|1|2|14|92
+Jerome Williams|R|Michael Conforto|L|Groundout|B|Slider|62|1|2|2|14|81
+Jerome Williams|R|Michael Conforto|L|Groundout|B|Changeup|63|2|2|2|13|81
+Jerome Williams|R|Michael Conforto|L|Groundout|X|Sinker|64|3|2|2|13|90
+Jerome Williams|R|Travis d'Arnaud|R|Groundout|X|Changeup|65|0|0|0|9|81
+Jerome Williams|R|Noah Syndergaard|L|Strikeout|B|Sinker|66|0|0|1|13|88
+Jerome Williams|R|Noah Syndergaard|L|Strikeout|S|Changeup|67|1|0|1|13|81
+Jerome Williams|R|Noah Syndergaard|L|Strikeout|S|Curveball|68|1|1|1|14|74
+Jerome Williams|R|Noah Syndergaard|L|Strikeout|B|Changeup|69|1|2|1|14|81
+Jerome Williams|R|Noah Syndergaard|L|Strikeout|C|Cutter|70|2|2|1|7|86
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Curveball|71|0|0|2|13|72
+Jerome Williams|R|Curtis Granderson|L|Walk|F|Sinker|72|1|0|2|7|91
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Changeup|73|1|1|2|13|85
+Jerome Williams|R|Curtis Granderson|L|Walk|F|Changeup|74|2|1|2|13|82
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Slider|75|2|2|2|13|81
+Jerome Williams|R|Curtis Granderson|L|Walk|B|Sinker|76|3|2|2|13|90
+Jerome Williams|R|Yoenis Cespedes|R|Strikeout|C|Changeup|77|0|0|2|8|83
+Jerome Williams|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|78|0|1|2|5|89
+Jerome Williams|R|Yoenis Cespedes|R|Strikeout|S|Changeup|79|0|2|2|3|85
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Changeup|80|0|0|0|9|81
+Jerome Williams|R|Daniel Murphy|L|Walk|F|Sinker|81|1|0|0|4|87
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|82|1|1|0|14|89
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Changeup|83|2|1|0|14|82
+Jerome Williams|R|Daniel Murphy|L|Walk|B|Sinker|84|3|1|0|11|89
+Jerome Williams|R|David Wright|R|Strikeout|F|Four-Seam Fastball|85|0|0|0|8|85
+Jerome Williams|R|David Wright|R|Strikeout|B|Sinker|86|0|1|0|11|90
+Jerome Williams|R|David Wright|R|Strikeout|C|Cutter|87|1|1|0|5|86
+Jerome Williams|R|David Wright|R|Strikeout|S|Cutter|88|1|2|0|14|86
+Jerome Williams|R|Kelly Johnson|L|Single|B|Sinker|89|0|0|1|13|89
+Jerome Williams|R|Kelly Johnson|L|Single|D|Changeup|90|1|0|1|13|82
+Jerome Williams|R|Clint Barmes|R|Lineout|F|Four-Seam Fastball|0|0|0|0|6|91
+Jerome Williams|R|Clint Barmes|R|Lineout|F|Slider|1|0|1|0|8|79
+Jerome Williams|R|Clint Barmes|R|Lineout|F|Sinker|2|0|2|0|11|92
+Jerome Williams|R|Clint Barmes|R|Lineout|X|Cutter|3|0|2|0|9|89
+Jerome Williams|R|Travis Jankowski|L|Bunt Groundout|X|Cutter|4|0|0|1|12|89
+Jerome Williams|R|B.J. Upton|R|Lineout|C|Cutter|5|0|0|2|14|89
+Jerome Williams|R|B.J. Upton|R|Lineout|B|Cutter|6|0|1|2|14|89
+Jerome Williams|R|B.J. Upton|R|Lineout|X|Sinker|7|1|1|2|6|91
+Jerome Williams|R|Yangervis Solarte|L|Groundout|B|Sinker|8|0|0|0|13|89
+Jerome Williams|R|Yangervis Solarte|L|Groundout|B|Sinker|9|1|0|0|13|89
+Jerome Williams|R|Yangervis Solarte|L|Groundout|C|Sinker|10|2|0|0|13|90
+Jerome Williams|R|Yangervis Solarte|L|Groundout|X|Sinker|11|2|1|0|8|89
+Jerome Williams|R|Justin Upton|R|Strikeout|B|Sinker|12|0|0|1|14|90
+Jerome Williams|R|Justin Upton|R|Strikeout|B|Cutter|13|1|0|1|14|87
+Jerome Williams|R|Justin Upton|R|Strikeout|F|Four-Seam Fastball|14|2|0|1|14|90
+Jerome Williams|R|Justin Upton|R|Strikeout|S|Changeup|15|2|1|1|14|83
+Jerome Williams|R|Justin Upton|R|Strikeout|S|Changeup|16|2|2|1|7|84
+Jerome Williams|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|17|0|0|2|2|91
+Jerome Williams|R|B.J. Upton|R|Flyout|X|Cutter|0|0|0|1|2|87
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|C|Sinker|1|0|0|2|3|90
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|C|Cutter|2|0|1|2|5|88
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|B|Four-Seam Fastball|3|0|2|2|11|91
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|F|Cutter|4|1|2|2|14|87
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|F|Changeup|5|1|2|2|14|84
+Jerome Williams|R|Clint Barmes|R|Hit By Pitch|H|Sinker|6|1|2|2|11|91
+Jerome Williams|R|Brett Wallace|L|Single|B|Sinker|7|0|0|2|13|89
+Jerome Williams|R|Brett Wallace|L|Single|B|Changeup|8|1|0|2|13|83
+Jerome Williams|R|Brett Wallace|L|Single|S|Changeup|9|2|0|2|7|84
+Jerome Williams|R|Brett Wallace|L|Single|D|Sinker|10|2|1|2|13|90
+Jerome Williams|R|Yangervis Solarte|L|Flyout|C|Changeup|11|0|0|2|4|83
+Jerome Williams|R|Yangervis Solarte|L|Flyout|X|Four-Seam Fastball|12|0|1|2|3|88
+Jerome Williams|R|Juan Uribe|R|Groundout|B|Cutter|0|0|0|0|14|86
+Jerome Williams|R|Juan Uribe|R|Groundout|C|Four-Seam Fastball|1|1|0|0|14|90
+Jerome Williams|R|Juan Uribe|R|Groundout|X|Sinker|2|1|1|0|11|89
+Jerome Williams|R|Eric Campbell|R|Double|D|Sinker|3|0|0|1|13|90
+Jerome Williams|R|Juan Lagares|R|Single|S|Cutter|4|0|0|1|8|87
+Jerome Williams|R|Juan Lagares|R|Single|T|Cutter|5|0|1|1|9|86
+Jerome Williams|R|Juan Lagares|R|Single|F|Sinker|6|0|2|1|5|91
+Jerome Williams|R|Juan Lagares|R|Single|D|Sinker|7|0|2|1|13|91
+Jerome Williams|R|Michael Conforto|L|Sac Fly|F|Sinker|8|0|0|1|13|90
+Jerome Williams|R|Michael Conforto|L|Sac Fly|E|Changeup|9|0|1|1|9|80
+Jerome Williams|R|Michael Cuddyer|R|Flyout|F|Slider|10|0|0|2|14|77
+Jerome Williams|R|Michael Cuddyer|R|Flyout|X|Cutter|11|0|1|2|5|87
+Jerome Williams|R|David Ortiz|L|Home Run|B|Sinker|0|0|0|2|13|90
+Jerome Williams|R|David Ortiz|L|Home Run|C|Changeup|1|1|0|2|2|80
+Jerome Williams|R|David Ortiz|L|Home Run|E|Cutter|2|1|1|2|3|88
+Jerome Williams|R|Travis Shaw|L|Flyout|C|Cutter|3|0|0|2|13|86
+Jerome Williams|R|Travis Shaw|L|Flyout|B|Changeup|4|0|1|2|1|80
+Jerome Williams|R|Travis Shaw|L|Flyout|X|Changeup|5|1|1|2|13|82
+Jerome Williams|R|Rusney Castillo|R|Groundout|B|Four-Seam Fastball|6|0|0|0|14|89
+Jerome Williams|R|Rusney Castillo|R|Groundout|X|Cutter|7|1|0|0|14|86
+Jerome Williams|R|Blake Swihart|L|Double|B|Sinker|8|0|0|1|13|88
+Jerome Williams|R|Blake Swihart|L|Double|C|Four-Seam Fastball|9|1|0|1|3|90
+Jerome Williams|R|Blake Swihart|L|Double|B|Changeup|10|1|1|1|13|82
+Jerome Williams|R|Blake Swihart|L|Double|F|Four-Seam Fastball|11|2|1|1|4|89
+Jerome Williams|R|Blake Swihart|L|Double|F|Cutter|12|2|2|1|7|86
+Jerome Williams|R|Blake Swihart|L|Double|D|Sinker|13|2|2|1|5|90
+Jerome Williams|R|Josh Rutledge|R|Single|B|Cutter|14|0|0|1|14|87
+Jerome Williams|R|Josh Rutledge|R|Single|B|Changeup|15|1|0|1|13|83
+Jerome Williams|R|Josh Rutledge|R|Single|C|Four-Seam Fastball|16|2|0|1|1|90
+Jerome Williams|R|Josh Rutledge|R|Single|D|Four-Seam Fastball|17|2|1|1|5|89
+Jerome Williams|R|Jackie Bradley Jr.|L|Grounded Into DP|X|Cutter|18|0|0|1|6|88
+Jerome Williams|R|Mookie Betts|R|Groundout|B|Sinker|19|0|0|0|11|89
+Jerome Williams|R|Mookie Betts|R|Groundout|X|Cutter|20|1|0|0|9|85
+Jerome Williams|R|Brock Holt|L|Double|C|Cutter|21|0|0|1|7|87
+Jerome Williams|R|Brock Holt|L|Double|B|Cutter|22|0|1|1|13|84
+Jerome Williams|R|Brock Holt|L|Double|B|Four-Seam Fastball|23|1|1|1|14|91
+Jerome Williams|R|Brock Holt|L|Double|B|Sinker|24|2|1|1|14|89
+Jerome Williams|R|Brock Holt|L|Double|C|Four-Seam Fastball|25|3|1|1|13|89
+Jerome Williams|R|Brock Holt|L|Double|D|Four-Seam Fastball|26|3|2|1|13|89
+Jerome Williams|R|Xander Bogaerts|R|Groundout|C|Four-Seam Fastball|27|0|0|1|8|90
+Jerome Williams|R|Xander Bogaerts|R|Groundout|B|Sinker|28|0|1|1|13|90
+Jerome Williams|R|Xander Bogaerts|R|Groundout|B|Cutter|29|1|1|1|14|87
+Jerome Williams|R|Xander Bogaerts|R|Groundout|X|Four-Seam Fastball|30|2|1|1|13|90
+Jerome Williams|R|David Ortiz|L|Groundout|C|Cutter|31|0|0|2|7|86
+Jerome Williams|R|David Ortiz|L|Groundout|B|Sinker|32|0|1|2|13|90
+Jerome Williams|R|David Ortiz|L|Groundout|X|Cutter|33|1|1|2|13|86
+Jerome Williams|R|Travis Shaw|L|Groundout|S|Sinker|34|0|0|0|13|87
+Jerome Williams|R|Travis Shaw|L|Groundout|B|Changeup|35|0|1|0|13|81
+Jerome Williams|R|Travis Shaw|L|Groundout|B|Curveball|36|1|1|0|14|72
+Jerome Williams|R|Travis Shaw|L|Groundout|X|Cutter|37|2|1|0|8|87
+Jerome Williams|R|Rusney Castillo|R|Groundout|B|Sinker|38|0|0|1|13|89
+Jerome Williams|R|Rusney Castillo|R|Groundout|B|Four-Seam Fastball|39|1|0|1|14|89
+Jerome Williams|R|Rusney Castillo|R|Groundout|B|Cutter|40|2|0|1|14|86
+Jerome Williams|R|Rusney Castillo|R|Groundout|C|Four-Seam Fastball|41|3|0|1|5|89
+Jerome Williams|R|Rusney Castillo|R|Groundout|X|Cutter|42|3|1|1|8|86
+Jerome Williams|R|Blake Swihart|L|Strikeout|S|Sinker|43|0|0|2|11|89
+Jerome Williams|R|Blake Swihart|L|Strikeout|F|Sinker|44|0|1|2|13|89
+Jerome Williams|R|Blake Swihart|L|Strikeout|B|Four-Seam Fastball|45|0|2|2|12|90
+Jerome Williams|R|Blake Swihart|L|Strikeout|C|Four-Seam Fastball|46|1|2|2|7|90
+Jerome Williams|R|Jace Peterson|L|Grounded Into DP|B|Changeup|0|0|0|1|14|84
+Jerome Williams|R|Jace Peterson|L|Grounded Into DP|X|Sinker|1|1|0|1|13|90
+Jerome Williams|R|Andrelton Simmons|R|Single|D|Sinker|2|0|0|0|9|89
+Jerome Williams|R|Christian Bethancourt|R|Lineout|C|Slider|3|0|0|0|5|78
+Jerome Williams|R|Christian Bethancourt|R|Lineout|F|Four-Seam Fastball|4|0|1|0|13|89
+Jerome Williams|R|Christian Bethancourt|R|Lineout|X|Cutter|5|0|2|0|14|86
+Jerome Williams|R|Michael Bourn|L|Single|C|Cutter|6|0|0|1|5|86
+Jerome Williams|R|Michael Bourn|L|Single|B|Cutter|7|0|1|1|14|86
+Jerome Williams|R|Michael Bourn|L|Single|B|Sinker|8|1|1|1|13|90
+Jerome Williams|R|Michael Bourn|L|Single|D|Cutter|9|2|1|1|5|86
+Jerome Williams|R|Julio Teheran|R|Sac Bunt|X|Cutter|10|0|0|1|14|87
+Jerome Williams|R|Nick Markakis|L|Intent Walk|I|Intentional Ball|11|0|0|2|11|63
+Jerome Williams|R|Nick Markakis|L|Intent Walk|I|Intentional Ball|12|0|1|2|11|63
+Jerome Williams|R|Nick Markakis|L|Intent Walk|I|Intentional Ball|13|0|2|2|11|63
+Jerome Williams|R|Nick Markakis|L|Intent Walk|I|Intentional Ball|14|0|2|2|11|60
+Jerome Williams|R|Hector Olivera|R|Flyout|X|Cutter|15|0|0|2|14|87
+Jerome Williams|R|Miguel Montero|L|Flyout|X|Sinker|0|0|0|0|8|91
+Jerome Williams|R|Starlin Castro|R|Groundout|B|Cutter|1|0|0|1|14|88
+Jerome Williams|R|Starlin Castro|R|Groundout|B|Cutter|2|1|0|1|14|88
+Jerome Williams|R|Starlin Castro|R|Groundout|C|Four-Seam Fastball|3|2|0|1|14|92
+Jerome Williams|R|Starlin Castro|R|Groundout|B|Four-Seam Fastball|4|2|1|1|14|92
+Jerome Williams|R|Starlin Castro|R|Groundout|X|Cutter|5|3|1|1|3|87
+Jerome Williams|R|Austin Jackson|R|Strikeout|C|Cutter|6|0|0|2|4|87
+Jerome Williams|R|Austin Jackson|R|Strikeout|F|Cutter|7|0|1|2|14|87
+Jerome Williams|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|8|0|2|2|14|92
+Jerome Williams|R|Austin Jackson|R|Strikeout|B|Slider|9|1|2|2|14|80
+Jerome Williams|R|Austin Jackson|R|Strikeout|F|Cutter|10|2|2|2|14|88
+Jerome Williams|R|Austin Jackson|R|Strikeout|B|Cutter|11|2|2|2|14|88
+Jerome Williams|R|Austin Jackson|R|Strikeout|S|Changeup|12|3|2|2|7|84
+Jerome Williams|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|90
+Jerome Williams|R|Ian Desmond|R|Strikeout|S|Slider|1|0|1|0|2|79
+Jerome Williams|R|Ian Desmond|R|Strikeout|B|Slider|2|0|2|0|14|81
+Jerome Williams|R|Ian Desmond|R|Strikeout|S|Cutter|3|1|2|0|14|87
+Jerome Williams|R|Wilson Ramos|R|Walk|B|Cutter|4|0|0|1|14|87
+Jerome Williams|R|Wilson Ramos|R|Walk|C|Four-Seam Fastball|5|1|0|1|14|90
+Jerome Williams|R|Wilson Ramos|R|Walk|B|Cutter|6|1|1|1|14|88
+Jerome Williams|R|Wilson Ramos|R|Walk|S|Changeup|7|2|1|1|9|84
+Jerome Williams|R|Wilson Ramos|R|Walk|F|Sinker|8|2|2|1|9|91
+Jerome Williams|R|Wilson Ramos|R|Walk|B|Slider|9|2|2|1|14|80
+Jerome Williams|R|Wilson Ramos|R|Walk|B|Changeup|10|3|2|1|11|84
+Jerome Williams|R|Michael A. Taylor|R|Lineout|S|Cutter|11|0|0|1|14|86
+Jerome Williams|R|Michael A. Taylor|R|Lineout|P|Pitchout|12|0|1|1|12|84
+Jerome Williams|R|Michael A. Taylor|R|Lineout|B|Cutter|13|0|2|1|7|87
+Jerome Williams|R|Michael A. Taylor|R|Lineout|F|Changeup|14|1|2|1|5|84
+Jerome Williams|R|Michael A. Taylor|R|Lineout|X|Cutter|15|1|2|1|9|88
+Jerome Williams|R|Nick Markakis|L|Single|B|Sinker|0|0|0|0|13|90
+Jerome Williams|R|Nick Markakis|L|Single|B|Cutter|1|1|0|0|13|86
+Jerome Williams|R|Nick Markakis|L|Single|C|Four-Seam Fastball|2|2|0|0|13|90
+Jerome Williams|R|Nick Markakis|L|Single|B|Sinker|3|2|1|0|13|89
+Jerome Williams|R|Nick Markakis|L|Single|D|Changeup|4|3|1|0|8|83
+Jerome Williams|R|Hector Olivera|R|Walk|B|Cutter|5|0|0|0|14|87
+Jerome Williams|R|Hector Olivera|R|Walk|C|Cutter|6|1|0|0|13|88
+Jerome Williams|R|Hector Olivera|R|Walk|B|Sinker|7|1|1|0|13|91
+Jerome Williams|R|Hector Olivera|R|Walk|F|Changeup|8|2|1|0|4|82
+Jerome Williams|R|Hector Olivera|R|Walk|B|Cutter|9|2|2|0|13|89
+Jerome Williams|R|Hector Olivera|R|Walk|B|Four-Seam Fastball|10|3|2|0|14|90
+Jerome Williams|R|Freddie Freeman|L|Double|C|Cutter|11|0|0|0|7|87
+Jerome Williams|R|Freddie Freeman|L|Double|B|Cutter|12|0|1|0|13|86
+Jerome Williams|R|Freddie Freeman|L|Double|B|Cutter|13|1|1|0|14|90
+Jerome Williams|R|Freddie Freeman|L|Double|B|Sinker|14|2|1|0|13|90
+Jerome Williams|R|Freddie Freeman|L|Double|F|Sinker|15|3|1|0|8|90
+Jerome Williams|R|Freddie Freeman|L|Double|E|Sinker|16|3|2|0|5|92
+Jerome Williams|R|Tomas Telis|L|Lineout|C|Four-Seam Fastball|0|0|0|0|6|91
+Jerome Williams|R|Tomas Telis|L|Lineout|T|Cutter|1|0|1|0|14|89
+Jerome Williams|R|Tomas Telis|L|Lineout|X|Slider|2|0|2|0|14|80
+Jerome Williams|R|J.T. Realmuto|R|Flyout|B|Cutter|3|0|0|1|13|87
+Jerome Williams|R|J.T. Realmuto|R|Flyout|B|Four-Seam Fastball|4|1|0|1|14|91
+Jerome Williams|R|J.T. Realmuto|R|Flyout|X|Four-Seam Fastball|5|2|0|1|8|91
+Jerome Williams|R|Miguel Rojas|R|Single|C|Cutter|6|0|0|2|7|88
+Jerome Williams|R|Miguel Rojas|R|Single|F|Cutter|7|0|1|2|9|87
+Jerome Williams|R|Miguel Rojas|R|Single|B|Slider|8|0|2|2|14|81
+Jerome Williams|R|Miguel Rojas|R|Single|F|Four-Seam Fastball|9|1|2|2|9|91
+Jerome Williams|R|Miguel Rojas|R|Single|F|Sinker|10|1|2|2|13|92
+Jerome Williams|R|Miguel Rojas|R|Single|B|Changeup|11|1|2|2|14|86
+Jerome Williams|R|Miguel Rojas|R|Single|F|Changeup|12|2|2|2|13|85
+Jerome Williams|R|Miguel Rojas|R|Single|B|Cutter|13|2|2|2|14|89
+Jerome Williams|R|Miguel Rojas|R|Single|D|Four-Seam Fastball|14|3|2|2|5|91
+Jerome Williams|R|Ichiro Suzuki|L|Walk|B|Changeup|15|0|0|2|13|83
+Jerome Williams|R|Ichiro Suzuki|L|Walk|B|Sinker|16|1|0|2|11|90
+Jerome Williams|R|Ichiro Suzuki|L|Walk|F|Sinker|17|2|0|2|8|90
+Jerome Williams|R|Ichiro Suzuki|L|Walk|F|Changeup|18|2|1|2|8|83
+Jerome Williams|R|Ichiro Suzuki|L|Walk|B|Cutter|19|2|2|2|11|87
+Jerome Williams|R|Ichiro Suzuki|L|Walk|F|Sinker|20|3|2|2|13|89
+Jerome Williams|R|Ichiro Suzuki|L|Walk|F|Sinker|21|3|2|2|13|89
+Jerome Williams|R|Ichiro Suzuki|L|Walk|B|Cutter|22|3|2|2|14|88
+Jerome Williams|R|Dee Gordon|L|Double|T|Cutter|23|0|0|2|14|88
+Jerome Williams|R|Dee Gordon|L|Double|E|Changeup|24|0|1|2|8|84
+Jerome Williams|R|Anthony Rendon|R|Walk|C|Four-Seam Fastball|0|0|0|0|12|89
+Jerome Williams|R|Anthony Rendon|R|Walk|B|Cutter|1|0|1|0|14|87
+Jerome Williams|R|Anthony Rendon|R|Walk|B|Cutter|2|1|1|0|14|87
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Sinker|3|2|1|0|9|89
+Jerome Williams|R|Anthony Rendon|R|Walk|B|Slider|4|2|2|0|14|81
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Cutter|5|3|2|0|1|88
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Cutter|6|3|2|0|14|87
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Cutter|7|3|2|0|14|87
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Changeup|8|3|2|0|13|83
+Jerome Williams|R|Anthony Rendon|R|Walk|F|Cutter|9|3|2|0|9|88
+Jerome Williams|R|Anthony Rendon|R|Walk|B|Sinker|10|3|2|0|11|91
+Jerome Williams|R|Yunel Escobar|R|Flyout|F|Sinker|11|0|0|0|8|90
+Jerome Williams|R|Yunel Escobar|R|Flyout|X|Cutter|12|0|1|0|2|86
+Jerome Williams|R|Bryce Harper|L|Strikeout|S|Changeup|13|0|0|1|13|83
+Jerome Williams|R|Bryce Harper|L|Strikeout|B|Changeup|14|0|1|1|13|84
+Jerome Williams|R|Bryce Harper|L|Strikeout|F|Sinker|15|1|1|1|13|90
+Jerome Williams|R|Bryce Harper|L|Strikeout|S|Changeup|16|1|2|1|13|84
+Jerome Williams|R|Jayson Werth|R|Groundout|C|Cutter|17|0|0|2|14|87
+Jerome Williams|R|Jayson Werth|R|Groundout|B|Four-Seam Fastball|18|0|1|2|14|90
+Jerome Williams|R|Jayson Werth|R|Groundout|X|Changeup|19|1|1|2|14|84
+Jerome Williams|R|Clint Robinson|L|Lineout|C|Sinker|20|0|0|0|13|90
+Jerome Williams|R|Clint Robinson|L|Lineout|X|Changeup|21|0|1|0|13|83
+Jerome Williams|R|Ian Desmond|R|Single|D|Cutter|22|0|0|1|3|86
+Jerome Williams|R|Matthew den Dekker|L|Pop Out|B|Sinker|23|0|0|1|11|88
+Jerome Williams|R|Matthew den Dekker|L|Pop Out|C|Sinker|24|1|0|1|1|89
+Jerome Williams|R|Matthew den Dekker|L|Pop Out|S|Changeup|25|1|1|1|13|83
+Jerome Williams|R|Matthew den Dekker|L|Pop Out|B|Sinker|26|1|2|1|12|91
+Jerome Williams|R|Matthew den Dekker|L|Pop Out|X|Cutter|27|2|2|1|3|87
+Jerome Williams|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|28|0|0|2|14|89
+Jerome Williams|R|Wilson Ramos|R|Strikeout|S|Cutter|29|1|0|2|14|87
+Jerome Williams|R|Wilson Ramos|R|Strikeout|S|Cutter|30|1|1|2|14|86
+Jerome Williams|R|Wilson Ramos|R|Strikeout|S|Changeup|31|1|2|2|13|84
+Jerome Williams|R|Kirk Nieuwenhuis|L|Groundout|B|Changeup|0|0|0|0|11|82
+Jerome Williams|R|Kirk Nieuwenhuis|L|Groundout|B|Sinker|1|1|0|0|13|90
+Jerome Williams|R|Kirk Nieuwenhuis|L|Groundout|X|Sinker|2|2|0|0|13|88
+Jerome Williams|R|Lucas Duda|L|Strikeout|B|Sinker|3|0|0|1|13|89
+Jerome Williams|R|Lucas Duda|L|Strikeout|C|Changeup|4|1|0|1|14|82
+Jerome Williams|R|Lucas Duda|L|Strikeout|B|Changeup|5|1|1|1|13|81
+Jerome Williams|R|Lucas Duda|L|Strikeout|F|Sinker|6|2|1|1|13|91
+Jerome Williams|R|Lucas Duda|L|Strikeout|B|Cutter|7|2|2|1|14|82
+Jerome Williams|R|Lucas Duda|L|Strikeout|F|Sinker|8|3|2|1|2|93
+Jerome Williams|R|Lucas Duda|L|Strikeout|S|Changeup|9|3|2|1|8|85
+Jerome Williams|R|Travis d'Arnaud|R|Strikeout|C|Four-Seam Fastball|10|0|0|2|2|88
+Jerome Williams|R|Travis d'Arnaud|R|Strikeout|B|Slider|11|0|1|2|14|78
+Jerome Williams|R|Travis d'Arnaud|R|Strikeout|C|Four-Seam Fastball|12|1|1|2|8|89
+Jerome Williams|R|Travis d'Arnaud|R|Strikeout|C|Changeup|13|1|2|2|9|83
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|B|Sinker|0|0|0|0|11|88
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|5|89
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|S|Changeup|2|1|1|0|13|82
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|F|Changeup|3|1|2|0|13|79
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|B|Cutter|4|1|2|0|11|86
+Jerome Williams|R|Eric Young Jr.|L|Strikeout|C|Sinker|5|2|2|0|11|90
+Jerome Williams|R|Kelly Johnson|L|Lineout|C|Sinker|6|0|0|1|13|88
+Jerome Williams|R|Kelly Johnson|L|Lineout|B|Cutter|7|0|1|1|14|87
+Jerome Williams|R|Kelly Johnson|L|Lineout|F|Four-Seam Fastball|8|1|1|1|4|90
+Jerome Williams|R|Kelly Johnson|L|Lineout|F|Slider|9|1|2|1|13|78
+Jerome Williams|R|Kelly Johnson|L|Lineout|B|Slider|10|1|2|1|14|79
+Jerome Williams|R|Kelly Johnson|L|Lineout|X|Changeup|11|2|2|1|13|81
+Jerome Williams|R|Ruben Tejada|R|Single|S|Curveball|12|0|0|2|9|69
+Jerome Williams|R|Ruben Tejada|R|Single|D|Changeup|13|0|1|2|4|82
+Jerome Williams|R|Dilson Herrera|R|Groundout|C|Cutter|14|0|0|2|13|87
+Jerome Williams|R|Dilson Herrera|R|Groundout|B|Slider|15|0|1|2|13|76
+Jerome Williams|R|Dilson Herrera|R|Groundout|B|Sinker|16|1|1|2|14|91
+Jerome Williams|R|Dilson Herrera|R|Groundout|S|Cutter|17|2|1|2|14|87
+Jerome Williams|R|Dilson Herrera|R|Groundout|X|Cutter|18|2|2|2|9|88
+Jerome Williams|R|Chris Johnson|R|Flyout|C|Four-Seam Fastball|0|0|0|0|5|90
+Jerome Williams|R|Chris Johnson|R|Flyout|S|Cutter|1|0|1|0|12|86
+Jerome Williams|R|Chris Johnson|R|Flyout|B|Sinker|2|0|2|0|13|90
+Jerome Williams|R|Chris Johnson|R|Flyout|F|Cutter|3|1|2|0|12|87
+Jerome Williams|R|Chris Johnson|R|Flyout|B|Slider|4|1|2|0|14|81
+Jerome Williams|R|Chris Johnson|R|Flyout|X|Cutter|5|2|2|0|6|87
+Jerome Williams|R|Jeff Mathis|R|Single|F|Cutter|6|0|0|1|7|87
+Jerome Williams|R|Jeff Mathis|R|Single|B|Sinker|7|0|1|1|11|90
+Jerome Williams|R|Jeff Mathis|R|Single|D|Cutter|8|1|1|1|14|86
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|C|Four-Seam Fastball|9|0|0|1|7|89
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|X|Four-Seam Fastball|10|0|1|1|8|89
+Jerome Williams|R|David Phelps|R|Groundout|C|Four-Seam Fastball|11|0|0|2|5|89
+Jerome Williams|R|David Phelps|R|Groundout|F|Four-Seam Fastball|12|0|1|2|12|89
+Jerome Williams|R|David Phelps|R|Groundout|F|Slider|13|0|2|2|2|78
+Jerome Williams|R|David Phelps|R|Groundout|B|Cutter|14|0|2|2|14|85
+Jerome Williams|R|David Phelps|R|Groundout|F|Four-Seam Fastball|15|1|2|2|6|90
+Jerome Williams|R|David Phelps|R|Groundout|F|Cutter|16|1|2|2|6|85
+Jerome Williams|R|David Phelps|R|Groundout|X|Cutter|17|1|2|2|14|86
+Jerome Williams|R|Dee Gordon|L|Field Error|B|Four-Seam Fastball|18|0|0|0|14|89
+Jerome Williams|R|Dee Gordon|L|Field Error|B|Sinker|19|1|0|0|11|89
+Jerome Williams|R|Dee Gordon|L|Field Error|S|Changeup|20|2|0|0|11|83
+Jerome Williams|R|Dee Gordon|L|Field Error|F|Cutter|21|2|1|0|12|87
+Jerome Williams|R|Dee Gordon|L|Field Error|B|Sinker|22|2|2|0|14|89
+Jerome Williams|R|Dee Gordon|L|Field Error|D|Changeup|23|3|2|0|11|84
+Jerome Williams|R|Martin Prado|R|Flyout|C|Cutter|24|0|0|0|5|87
+Jerome Williams|R|Martin Prado|R|Flyout|B|Cutter|25|0|1|0|14|85
+Jerome Williams|R|Martin Prado|R|Flyout|X|Changeup|26|1|1|0|7|83
+Jerome Williams|R|Christian Yelich|L|Double|B|Sinker|27|0|0|1|13|88
+Jerome Williams|R|Christian Yelich|L|Double|C|Sinker|28|1|0|1|13|88
+Jerome Williams|R|Christian Yelich|L|Double|S|Cutter|29|1|1|1|14|86
+Jerome Williams|R|Christian Yelich|L|Double|B|Changeup|30|1|2|1|13|83
+Jerome Williams|R|Christian Yelich|L|Double|D|Cutter|31|2|2|1|7|85
+Jerome Williams|R|Ichiro Suzuki|L|Groundout|B|Slider|32|0|0|1|13|77
+Jerome Williams|R|Ichiro Suzuki|L|Groundout|S|Cutter|33|1|0|1|14|86
+Jerome Williams|R|Ichiro Suzuki|L|Groundout|X|Changeup|34|1|1|1|7|84
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|B|Cutter|35|0|0|2|14|86
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|B|Four-Seam Fastball|36|1|0|2|14|89
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|37|2|0|2|12|71
+Jerome Williams|R|Marcell Ozuna|R|Intent Walk|I|Intentional Ball|38|2|1|2|12|66
+Jerome Williams|R|Chris Johnson|R|Hit By Pitch|B|Sinker|39|0|0|2|11|89
+Jerome Williams|R|Chris Johnson|R|Hit By Pitch|B|Four-Seam Fastball|40|1|0|2|14|90
+Jerome Williams|R|Chris Johnson|R|Hit By Pitch|F|Cutter|41|2|0|2|6|86
+Jerome Williams|R|Chris Johnson|R|Hit By Pitch|H|Changeup|42|2|1|2|11|82
+Jerome Williams|R|Jeff Mathis|R|Single|E|Cutter|43|0|0|2|6|85
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|C|Sinker|44|0|0|2|11|89
+Jerome Williams|R|Adeiny Hechavarria|R|Lineout|X|Sinker|45|0|1|2|11|88
+Jerome Williams|R|Miguel Rojas|R|Strikeout|B|Four-Seam Fastball|46|0|0|0|14|89
+Jerome Williams|R|Miguel Rojas|R|Strikeout|S|Sinker|47|1|0|0|13|89
+Jerome Williams|R|Miguel Rojas|R|Strikeout|B|Curveball|48|1|1|0|11|73
+Jerome Williams|R|Miguel Rojas|R|Strikeout|F|Sinker|49|2|1|0|7|88
+Jerome Williams|R|Miguel Rojas|R|Strikeout|C|Sinker|50|2|2|0|14|89
+Jerome Williams|R|Dee Gordon|L|Flyout|X|Curveball|51|0|0|1|8|70
+Jerome Williams|R|Kyle Barraclough|R|Strikeout|C|Four-Seam Fastball|52|0|0|2|8|89
+Jerome Williams|R|Kyle Barraclough|R|Strikeout|C|Sinker|53|0|1|2|9|88
+Jerome Williams|R|Kyle Barraclough|R|Strikeout|C|Sinker|54|0|2|2|9|89
+Jerome Williams|R|Christian Yelich|L|Lineout|B|Sinker|55|0|0|0|13|87
+Jerome Williams|R|Christian Yelich|L|Lineout|C|Sinker|56|1|0|0|13|87
+Jerome Williams|R|Christian Yelich|L|Lineout|C|Sinker|57|1|1|0|14|87
+Jerome Williams|R|Christian Yelich|L|Lineout|X|Cutter|58|1|2|0|9|86
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|C|Slider|59|0|0|1|14|77
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|B|Changeup|60|0|1|1|13|83
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|C|Sinker|61|1|1|1|12|89
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|F|Changeup|62|1|2|1|11|82
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|B|Changeup|63|1|2|1|13|82
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|B|Cutter|64|2|2|1|11|83
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|F|Sinker|65|3|2|1|13|90
+Jerome Williams|R|Ichiro Suzuki|L|Flyout|X|Changeup|66|3|2|1|7|83
+Jerome Williams|R|Marcell Ozuna|R|Pop Out|B|Sinker|67|0|0|2|13|89
+Jerome Williams|R|Marcell Ozuna|R|Pop Out|X|Four-Seam Fastball|68|1|0|2|5|88
+Jerome Williams|R|Brandon Phillips|R|Groundout|C|Cutter|0|0|0|0|5|88
+Jerome Williams|R|Brandon Phillips|R|Groundout|F|Changeup|1|0|1|0|8|84
+Jerome Williams|R|Brandon Phillips|R|Groundout|X|Sinker|2|0|2|0|2|89
+Jerome Williams|R|Tony Renda|R|Groundout|B|Four-Seam Fastball|3|0|0|1|14|89
+Jerome Williams|R|Tony Renda|R|Groundout|B|Four-Seam Fastball|4|1|0|1|14|90
+Jerome Williams|R|Tony Renda|R|Groundout|S|Cutter|5|2|0|1|14|85
+Jerome Williams|R|Tony Renda|R|Groundout|X|Cutter|6|2|1|1|7|86
+Jerome Williams|R|Eugenio Suarez|R|Double|B|Sinker|7|0|0|2|14|90
+Jerome Williams|R|Eugenio Suarez|R|Double|B|Sinker|8|1|0|2|12|90
+Jerome Williams|R|Eugenio Suarez|R|Double|C|Sinker|9|2|0|2|7|90
+Jerome Williams|R|Eugenio Suarez|R|Double|F|Cutter|10|2|1|2|8|86
+Jerome Williams|R|Eugenio Suarez|R|Double|B|Slider|11|2|2|2|14|81
+Jerome Williams|R|Eugenio Suarez|R|Double|F|Changeup|12|3|2|2|7|85
+Jerome Williams|R|Eugenio Suarez|R|Double|D|Cutter|13|3|2|2|9|86
+Jerome Williams|R|Ramon Cabrera|L|Strikeout|B|Changeup|14|0|0|2|13|84
+Jerome Williams|R|Ramon Cabrera|L|Strikeout|B|Sinker|15|1|0|2|11|90
+Jerome Williams|R|Ramon Cabrera|L|Strikeout|S|Changeup|16|2|0|2|9|84
+Jerome Williams|R|Ramon Cabrera|L|Strikeout|F|Sinker|17|2|1|2|11|89
+Jerome Williams|R|Ramon Cabrera|L|Strikeout|S|Four-Seam Fastball|18|2|2|2|12|90
+Jerome Williams|R|Adonis Garcia|R|Double|B|Sinker|0|0|0|1|13|89
+Jerome Williams|R|Adonis Garcia|R|Double|B|Sinker|1|1|0|1|13|89
+Jerome Williams|R|Adonis Garcia|R|Double|D|Cutter|2|2|0|1|8|85
+Jerome Williams|R|Jace Peterson|L|Field Error|B|Changeup|3|0|0|1|14|84
+Jerome Williams|R|Jace Peterson|L|Field Error|D|Sinker|4|1|0|1|13|90
+Jerome Williams|R|A.J. Pierzynski|L|Forceout|B|Sinker|5|0|0|1|12|90
+Jerome Williams|R|A.J. Pierzynski|L|Forceout|B|Sinker|6|1|0|1|13|89
+Jerome Williams|R|A.J. Pierzynski|L|Forceout|X|Sinker|7|2|0|1|13|89
+Jerome Williams|R|Chase d'Arnaud|R|Double|S|Cutter|8|0|0|2|7|87
+Jerome Williams|R|Chase d'Arnaud|R|Double|E|Sinker|9|0|1|2|13|90
+Jerome Williams|R|Ender Inciarte|L|Groundout|B|Changeup|10|0|0|2|13|83
+Jerome Williams|R|Ender Inciarte|L|Groundout|C|Sinker|11|1|0|2|13|89
+Jerome Williams|R|Ender Inciarte|L|Groundout|F|Cutter|12|1|1|2|14|88
+Jerome Williams|R|Ender Inciarte|L|Groundout|*B|Slider|13|1|2|2|14|81
+Jerome Williams|R|Ender Inciarte|L|Groundout|X|Sinker|14|2|2|2|7|90
+Jerome Williams|R|Erick Aybar|L|Groundout|C|Sinker|0|0|0|0|13|88
+Jerome Williams|R|Erick Aybar|L|Groundout|S|Cutter|1|0|1|0|14|87
+Jerome Williams|R|Erick Aybar|L|Groundout|X|Changeup|2|0|2|0|13|83
+Jerome Williams|R|Freddie Freeman|L|Strikeout|B|Cutter|3|0|0|1|14|86
+Jerome Williams|R|Freddie Freeman|L|Strikeout|B|Cutter|4|1|0|1|14|85
+Jerome Williams|R|Freddie Freeman|L|Strikeout|F|Changeup|5|2|0|1|7|84
+Jerome Williams|R|Freddie Freeman|L|Strikeout|F|Cutter|6|2|1|1|6|86
+Jerome Williams|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|7|2|2|1|13|89
+Jerome Williams|R|Freddie Freeman|L|Strikeout|B|Cutter|8|2|2|1|14|87
+Jerome Williams|R|Freddie Freeman|L|Strikeout|F|Changeup|9|3|2|1|7|83
+Jerome Williams|R|Freddie Freeman|L|Strikeout|C|Sinker|10|3|2|1|14|89
+Jerome Williams|R|Matt Kemp|R|Single|C|Cutter|11|0|0|2|5|86
+Jerome Williams|R|Matt Kemp|R|Single|S|Cutter|12|0|1|2|14|85
+Jerome Williams|R|Matt Kemp|R|Single|B|Sinker|13|0|2|2|14|90
+Jerome Williams|R|Matt Kemp|R|Single|F|Sinker|14|1|2|2|5|89
+Jerome Williams|R|Matt Kemp|R|Single|B|Sinker|15|1|2|2|14|89
+Jerome Williams|R|Matt Kemp|R|Single|D|Cutter|16|2|2|2|14|87
+Jerome Williams|R|Nick Markakis|L|Groundout|B|Sinker|17|0|0|2|13|88
+Jerome Williams|R|Nick Markakis|L|Groundout|C|Changeup|18|1|0|2|5|84
+Jerome Williams|R|Nick Markakis|L|Groundout|B|Cutter|19|1|1|2|12|86
+Jerome Williams|R|Nick Markakis|L|Groundout|X|Sinker|20|2|1|2|5|89
+Jerome Williams|R|Adonis Garcia|R|Groundout|F|Cutter|21|0|0|0|5|87
+Jerome Williams|R|Adonis Garcia|R|Groundout|B|Cutter|22|0|1|0|14|85
+Jerome Williams|R|Adonis Garcia|R|Groundout|X|Cutter|23|1|1|0|13|84
+Jerome Williams|R|Jace Peterson|L|Lineout|C|Sinker|24|0|0|1|13|89
+Jerome Williams|R|Jace Peterson|L|Lineout|B|Sinker|25|0|1|1|13|88
+Jerome Williams|R|Jace Peterson|L|Lineout|C|Changeup|26|1|1|1|13|81
+Jerome Williams|R|Jace Peterson|L|Lineout|X|Changeup|27|1|2|1|13|83
+Jerome Williams|R|Anthony Recker|R|Single|S|Cutter|28|0|0|2|9|84
+Jerome Williams|R|Anthony Recker|R|Single|D|Sinker|29|0|1|2|9|88
+Jerome Williams|R|Jeff Francoeur|R|Strikeout|C|Sinker|30|0|0|2|8|89
+Jerome Williams|R|Jeff Francoeur|R|Strikeout|F|Sinker|31|0|1|2|5|89
+Jerome Williams|R|Jeff Francoeur|R|Strikeout|B|Cutter|32|0|2|2|14|84
+Jerome Williams|R|Jeff Francoeur|R|Strikeout|S|Cutter|33|1|2|2|9|84
+Jerome Williams|R|Matt Szczur|R|Home Run|F|Sinker|0|0|0|0|7|89
+Jerome Williams|R|Matt Szczur|R|Home Run|B|Sinker|1|0|1|0|11|88
+Jerome Williams|R|Matt Szczur|R|Home Run|E|Cutter|2|1|1|0|9|84
+Jerome Williams|R|Kris Bryant|R|Strikeout|C|Sinker|3|0|0|0|13|90
+Jerome Williams|R|Kris Bryant|R|Strikeout|S|Changeup|4|0|1|0|13|83
+Jerome Williams|R|Kris Bryant|R|Strikeout|B|Changeup|5|0|2|0|13|83
+Jerome Williams|R|Kris Bryant|R|Strikeout|B|Sinker|6|1|2|0|13|90
+Jerome Williams|R|Kris Bryant|R|Strikeout|S|Changeup|7|2|2|0|13|83
+Jerome Williams|R|Anthony Rizzo|L|Pop Out|B|Four-Seam Fastball|8|0|0|1|14|90
+Jerome Williams|R|Anthony Rizzo|L|Pop Out|F|Cutter|9|1|0|1|14|87
+Jerome Williams|R|Anthony Rizzo|L|Pop Out|X|Changeup|10|1|1|1|13|84
+Jerome Williams|R|Jorge Soler|R|Home Run|F|Sinker|11|0|0|2|13|90
+Jerome Williams|R|Jorge Soler|R|Home Run|B|Sinker|12|0|1|2|14|89
+Jerome Williams|R|Jorge Soler|R|Home Run|E|Sinker|13|1|1|2|4|90
+Jerome Williams|R|Addison Russell|R|Strikeout|B|Cutter|14|0|0|2|13|86
+Jerome Williams|R|Addison Russell|R|Strikeout|S|Cutter|15|1|0|2|14|87
+Jerome Williams|R|Addison Russell|R|Strikeout|B|Changeup|16|1|1|2|14|84
+Jerome Williams|R|Addison Russell|R|Strikeout|F|Changeup|17|2|1|2|13|84
+Jerome Williams|R|Addison Russell|R|Strikeout|B|Slider|18|2|2|2|14|81
+Jerome Williams|R|Addison Russell|R|Strikeout|F|Changeup|19|3|2|2|13|82
+Jerome Williams|R|Addison Russell|R|Strikeout|S|Changeup|20|3|2|2|8|82
+Jerome Williams|R|Willson Contreras|R|Single|S|Cutter|21|0|0|0|9|85
+Jerome Williams|R|Willson Contreras|R|Single|B|Four-Seam Fastball|22|0|1|0|14|89
+Jerome Williams|R|Willson Contreras|R|Single|F|Sinker|23|1|1|0|13|90
+Jerome Williams|R|Willson Contreras|R|Single|D|Slider|24|1|2|0|4|79
+Jerome Williams|R|Miguel Montero|L|Flyout|B|Sinker|25|0|0|0|13|87
+Jerome Williams|R|Miguel Montero|L|Flyout|X|Changeup|26|1|0|0|13|82
+Jerome Williams|R|Javier Baez|R|Home Run|C|Changeup|27|0|0|1|8|83
+Jerome Williams|R|Javier Baez|R|Home Run|B|Sinker|28|0|1|1|14|90
+Jerome Williams|R|Javier Baez|R|Home Run|S|Cutter|29|1|1|1|14|87
+Jerome Williams|R|Javier Baez|R|Home Run|B|Cutter|30|1|2|1|14|85
+Jerome Williams|R|Javier Baez|R|Home Run|E|Changeup|31|2|2|1|8|86
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|F|Sinker|32|0|0|1|7|90
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|B|Four-Seam Fastball|33|0|1|1|14|90
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|B|Sinker|34|1|1|1|13|90
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|B|Changeup|35|2|1|1|14|84
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|F|Sinker|36|3|1|1|7|90
+Jerome Williams|R|Chris Coghlan|L|Hit By Pitch|H|Cutter|37|3|2|1|14|88
+Jerome Williams|R|Matt Szczur|R|Home Run|C|Sinker|38|0|0|1|5|90
+Jerome Williams|R|Matt Szczur|R|Home Run|E|Sinker|39|0|1|1|13|90
+Jerome Williams|R|Kris Bryant|R|Single|D|Sinker|40|0|0|1|5|90
+Jerome Williams|R|Anthony Rizzo|L|Flyout|C|Sinker|41|0|0|1|13|89
+Jerome Williams|R|Anthony Rizzo|L|Flyout|F|Cutter|42|0|1|1|14|86
+Jerome Williams|R|Anthony Rizzo|L|Flyout|X|Changeup|43|0|2|1|13|84
+Jerome Williams|R|Jorge Soler|R|Walk|F|Cutter|44|0|0|2|6|87
+Jerome Williams|R|Jorge Soler|R|Walk|B|Cutter|45|0|1|2|14|86
+Jerome Williams|R|Jorge Soler|R|Walk|S|Cutter|46|1|1|2|9|86
+Jerome Williams|R|Jorge Soler|R|Walk|B|Cutter|47|1|2|2|14|87
+Jerome Williams|R|Jorge Soler|R|Walk|B|Cutter|48|2|2|2|14|87
+Jerome Williams|R|Jorge Soler|R|Walk|B|Changeup|49|3|2|2|14|84
+Jerome Williams|R|Addison Russell|R|Groundout|X|Cutter|50|0|0|2|14|88
+Jerome Williams|R|Willson Contreras|R|Groundout|C|Four-Seam Fastball|51|0|0|0|6|89
+Jerome Williams|R|Willson Contreras|R|Groundout|S|Cutter|52|0|1|0|14|85
+Jerome Williams|R|Willson Contreras|R|Groundout|X|Cutter|53|0|2|0|6|85
+Jerome Williams|R|Miguel Montero|L|Groundout|X|Sinker|54|0|0|1|8|88
+Jerome Williams|R|Javier Baez|R|Pop Out|C|Sinker|55|0|0|2|14|89
+Jerome Williams|R|Javier Baez|R|Pop Out|B|Cutter|56|0|1|2|14|87
+Jerome Williams|R|Javier Baez|R|Pop Out|X|Cutter|57|1|1|2|8|87
+Jerome Williams|R|Odubel Herrera|L|Single|F|Sinker|0|0|0|0|13|89
+Jerome Williams|R|Odubel Herrera|L|Single|B|Four-Seam Fastball|1|0|1|0|13|89
+Jerome Williams|R|Odubel Herrera|L|Single|D|Four-Seam Fastball|2|1|1|0|13|89
+Jerome Williams|R|Emmanuel Burriss|L|Grounded Into DP|B|Sinker|3|0|0|0|13|89
+Jerome Williams|R|Emmanuel Burriss|L|Grounded Into DP|F|Sinker|4|1|0|0|11|89
+Jerome Williams|R|Emmanuel Burriss|L|Grounded Into DP|*B|Cutter|5|1|1|0|14|87
+Jerome Williams|R|Emmanuel Burriss|L|Grounded Into DP|*B|Changeup|6|2|1|0|14|83
+Jerome Williams|R|Emmanuel Burriss|L|Grounded Into DP|X|Sinker|7|3|1|0|11|89
+Jerome Williams|R|Peter Bourjos|R|Lineout|X|Four-Seam Fastball|8|0|0|2|6|89
+Jerome Williams|R|Yoenis Cespedes|R|Grounded Into DP|F|Cutter|0|0|0|1|9|87
+Jerome Williams|R|Yoenis Cespedes|R|Grounded Into DP|B|Sinker|1|0|1|1|13|90
+Jerome Williams|R|Yoenis Cespedes|R|Grounded Into DP|X|Sinker|2|1|1|1|8|91
+Jerome Williams|R|Tyler Holt|R|Bunt Groundout|S|Cutter|0|0|0|0|14|85
+Jerome Williams|R|Tyler Holt|R|Bunt Groundout|X|Cutter|1|0|1|0|14|85
+Jerome Williams|R|Ivan De Jesus Jr.|R|Double|C|Sinker|2|0|0|1|6|89
+Jerome Williams|R|Ivan De Jesus Jr.|R|Double|D|Four-Seam Fastball|3|0|1|1|13|89
+Jerome Williams|R|Billy Hamilton|L|Walk|B|Sinker|4|0|0|1|11|90
+Jerome Williams|R|Billy Hamilton|L|Walk|B|Sinker|5|1|0|1|11|90
+Jerome Williams|R|Billy Hamilton|L|Walk|*B|Changeup|6|2|0|1|13|82
+Jerome Williams|R|Billy Hamilton|L|Walk|C|Sinker|7|3|0|1|7|89
+Jerome Williams|R|Billy Hamilton|L|Walk|B|Sinker|8|3|1|1|13|90
+Jerome Williams|R|Zack Cozart|R|Walk|B|Sinker|9|0|0|1|14|89
+Jerome Williams|R|Zack Cozart|R|Walk|B|Cutter|10|1|0|1|14|87
+Jerome Williams|R|Zack Cozart|R|Walk|S|Cutter|11|2|0|1|14|86
+Jerome Williams|R|Zack Cozart|R|Walk|*B|Cutter|12|2|1|1|14|88
+Jerome Williams|R|Zack Cozart|R|Walk|C|Cutter|13|3|1|1|9|85
+Jerome Williams|R|Zack Cozart|R|Walk|B|Cutter|14|3|2|1|14|87
+Jerome Williams|R|Joey Votto|L|Walk|B|Cutter|15|0|0|1|14|86
+Jerome Williams|R|Joey Votto|L|Walk|B|Sinker|16|1|0|1|13|90
+Jerome Williams|R|Joey Votto|L|Walk|B|Sinker|17|2|0|1|11|90
+Jerome Williams|R|Joey Votto|L|Walk|F|Sinker|18|3|0|1|8|88
+Jerome Williams|R|Joey Votto|L|Walk|B|Sinker|19|3|1|1|11|88
+Jerome Williams|R|Adam Duvall|R|Sac Fly|B|Cutter|20|0|0|1|14|86
+Jerome Williams|R|Adam Duvall|R|Sac Fly|E|Sinker|21|1|0|1|11|90
+Jerome Williams|R|Scott Schebler|L|Walk|C|Changeup|22|0|0|2|8|84
+Jerome Williams|R|Scott Schebler|L|Walk|B|Sinker|23|0|1|2|11|88
+Jerome Williams|R|Scott Schebler|L|Walk|B|Changeup|24|1|1|2|14|84
+Jerome Williams|R|Scott Schebler|L|Walk|B|Changeup|25|2|1|2|13|84
+Jerome Williams|R|Scott Schebler|L|Walk|B|Sinker|26|3|1|2|14|89
+Jerome Williams|R|Jose Peraza|R|Single|E|Sinker|27|0|0|2|13|89
+Jerome Williams|R|Tucker Barnhart|L|Double|E|Sinker|28|0|0|2|8|90
+Jerome Williams|R|Tyler Holt|R|Flyout|C|Cutter|29|0|0|2|4|86
+Jerome Williams|R|Tyler Holt|R|Flyout|X|Cutter|30|0|1|2|8|85
+Jerome Williams|R|Hernan Perez|R|Single|C|Four-Seam Fastball|0|0|0|2|2|89
+Jerome Williams|R|Hernan Perez|R|Single|D|Changeup|1|0|1|2|7|84
+Jerome Williams|R|Chris Carter|R|Single|B|Cutter|2|0|0|2|14|86
+Jerome Williams|R|Chris Carter|R|Single|D|Cutter|3|1|0|2|14|86
+Jerome Williams|R|Domingo Santana|R|Forceout|B|Sinker|4|0|0|2|13|90
+Jerome Williams|R|Domingo Santana|R|Forceout|C|Sinker|5|1|0|2|13|91
+Jerome Williams|R|Domingo Santana|R|Forceout|B|Changeup|6|1|1|2|11|84
+Jerome Williams|R|Domingo Santana|R|Forceout|S|Cutter|7|2|1|2|9|87
+Jerome Williams|R|Domingo Santana|R|Forceout|F|Changeup|8|2|2|2|14|85
+Jerome Williams|R|Domingo Santana|R|Forceout|X|Four-Seam Fastball|9|2|2|2|8|90
+Jerome Williams|R|Orlando Arcia|R|Grounded Into DP|F|Sinker|10|0|0|0|11|91
+Jerome Williams|R|Orlando Arcia|R|Grounded Into DP|B|Changeup|11|0|1|0|13|85
+Jerome Williams|R|Orlando Arcia|R|Grounded Into DP|S|Cutter|12|1|1|0|14|87
+Jerome Williams|R|Orlando Arcia|R|Grounded Into DP|X|Sinker|13|1|2|0|8|90
+Jerome Williams|R|Andrew Susac|R|Lineout|T|Four-Seam Fastball|14|0|0|2|3|89
+Jerome Williams|R|Andrew Susac|R|Lineout|B|Cutter|15|0|1|2|14|86
+Jerome Williams|R|Andrew Susac|R|Lineout|B|Sinker|16|1|1|2|13|89
+Jerome Williams|R|Andrew Susac|R|Lineout|S|Changeup|17|2|1|2|13|84
+Jerome Williams|R|Andrew Susac|R|Lineout|X|Changeup|18|2|2|2|11|84
+Jerome Williams|R|Scooter Gennett|L|Groundout|B|Sinker|19|0|0|0|11|89
+Jerome Williams|R|Scooter Gennett|L|Groundout|B|Changeup|20|1|0|0|14|84
+Jerome Williams|R|Scooter Gennett|L|Groundout|X|Changeup|21|2|0|0|5|83
+Jerome Williams|R|Yadiel Rivera|R|Lineout|X|Cutter|22|0|0|1|8|86
+Jerome Williams|R|Willson Contreras|R|Single|B|Four-Seam Fastball|0|0|0|0|12|90
+Jerome Williams|R|Willson Contreras|R|Single|S|Four-Seam Fastball|1|1|0|0|12|89
+Jerome Williams|R|Willson Contreras|R|Single|B|Four-Seam Fastball|2|1|1|0|14|90
+Jerome Williams|R|Willson Contreras|R|Single|F|Cutter|3|2|1|0|9|87
+Jerome Williams|R|Willson Contreras|R|Single|B|Sinker|4|2|2|0|14|91
+Jerome Williams|R|Willson Contreras|R|Single|F|Sinker|5|3|2|0|4|91
+Jerome Williams|R|Willson Contreras|R|Single|D|Cutter|6|3|2|0|9|87
+Jerome Williams|R|Dexter Fowler|L|Flyout|F|Sinker|7|0|0|0|7|89
+Jerome Williams|R|Dexter Fowler|L|Flyout|B|Sinker|8|0|1|0|13|89
+Jerome Williams|R|Dexter Fowler|L|Flyout|B|Four-Seam Fastball|9|1|1|0|12|89
+Jerome Williams|R|Dexter Fowler|L|Flyout|X|Changeup|10|2|1|0|11|83
+Jerome Williams|R|Kris Bryant|R|Flyout|C|Cutter|11|0|0|1|3|87
+Jerome Williams|R|Kris Bryant|R|Flyout|B|Sinker|12|0|1|1|13|90
+Jerome Williams|R|Kris Bryant|R|Flyout|B|Sinker|13|1|1|1|13|89
+Jerome Williams|R|Kris Bryant|R|Flyout|S|Sinker|14|2|1|1|14|90
+Jerome Williams|R|Kris Bryant|R|Flyout|*B|Cutter|15|2|2|1|14|87
+Jerome Williams|R|Kris Bryant|R|Flyout|X|Cutter|16|3|2|1|5|85
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|C|Sinker|17|0|0|2|4|90
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|F|Sinker|18|0|1|2|4|90
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|B|Sinker|19|0|2|2|14|91
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|20|1|2|2|12|90
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|F|Cutter|21|2|2|2|6|87
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|F|Changeup|22|2|2|2|13|83
+Jerome Williams|R|Anthony Rizzo|L|Strikeout|T|Changeup|23|2|2|2|4|84
+Jerome Williams|R|Tony Renda|R|Groundout|X|Four-Seam Fastball|0|0|0|0|6|89
+Jerome Williams|R|Adam Duvall|R|Pop Out|B|Four-Seam Fastball|1|0|0|1|11|89
+Jerome Williams|R|Adam Duvall|R|Pop Out|X|Four-Seam Fastball|2|1|0|1|2|89
+Jerome Williams|R|Ivan De Jesus Jr.|R|Single|B|Four-Seam Fastball|3|0|0|2|14|90
+Jerome Williams|R|Ivan De Jesus Jr.|R|Single|D|Four-Seam Fastball|4|1|0|2|14|90
+Jerome Williams|R|Hernan Iribarren|L|Groundout|X|Sinker|5|0|0|2|5|90

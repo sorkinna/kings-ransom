@@ -1,0 +1,576 @@
+Chad Billingsley|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|91
+Chad Billingsley|R|Nick Markakis|L|Groundout|S|Two-Seam Fastball|1|1|0|0|13|89
+Chad Billingsley|R|Nick Markakis|L|Groundout|F|Two-Seam Fastball|2|1|1|0|13|91
+Chad Billingsley|R|Nick Markakis|L|Groundout|X|Four-Seam Fastball|3|1|2|0|13|92
+Chad Billingsley|R|Andrelton Simmons|R|Single|B|Two-Seam Fastball|4|0|0|1|11|91
+Chad Billingsley|R|Andrelton Simmons|R|Single|C|Four-Seam Fastball|5|1|0|1|9|91
+Chad Billingsley|R|Andrelton Simmons|R|Single|B|Four-Seam Fastball|6|1|1|1|13|92
+Chad Billingsley|R|Andrelton Simmons|R|Single|D|Four-Seam Fastball|7|2|1|1|6|92
+Chad Billingsley|R|Freddie Freeman|L|Home Run|C|Two-Seam Fastball|8|0|0|1|5|89
+Chad Billingsley|R|Freddie Freeman|L|Home Run|E|Four-Seam Fastball|9|0|1|1|9|91
+Chad Billingsley|R|A.J. Pierzynski|L|Groundout|B|Two-Seam Fastball|10|0|0|1|11|91
+Chad Billingsley|R|A.J. Pierzynski|L|Groundout|S|Changeup|11|1|0|1|11|84
+Chad Billingsley|R|A.J. Pierzynski|L|Groundout|B|Changeup|12|1|1|1|13|86
+Chad Billingsley|R|A.J. Pierzynski|L|Groundout|X|Two-Seam Fastball|13|2|1|1|5|91
+Chad Billingsley|R|Jonny Gomes|R|Pop Out|C|Cutter|14|0|0|2|8|89
+Chad Billingsley|R|Jonny Gomes|R|Pop Out|B|Two-Seam Fastball|15|0|1|2|8|90
+Chad Billingsley|R|Jonny Gomes|R|Pop Out|C|Two-Seam Fastball|16|1|1|2|13|89
+Chad Billingsley|R|Jonny Gomes|R|Pop Out|B|Slider|17|1|2|2|11|77
+Chad Billingsley|R|Jonny Gomes|R|Pop Out|X|Cutter|18|2|2|2|8|87
+Chad Billingsley|R|Kelly Johnson|L|Lineout|C|Two-Seam Fastball|19|0|0|0|7|89
+Chad Billingsley|R|Kelly Johnson|L|Lineout|F|Four-Seam Fastball|20|0|1|0|5|91
+Chad Billingsley|R|Kelly Johnson|L|Lineout|B|Four-Seam Fastball|21|0|2|0|12|91
+Chad Billingsley|R|Kelly Johnson|L|Lineout|X|Changeup|22|1|2|0|13|84
+Chad Billingsley|R|Jace Peterson|L|Strikeout|C|Four-Seam Fastball|23|0|0|1|11|92
+Chad Billingsley|R|Jace Peterson|L|Strikeout|B|Changeup|24|0|1|1|11|84
+Chad Billingsley|R|Jace Peterson|L|Strikeout|F|Two-Seam Fastball|25|1|1|1|13|91
+Chad Billingsley|R|Jace Peterson|L|Strikeout|C|Slider|26|1|2|1|6|76
+Chad Billingsley|R|Cameron Maybin|R|Groundout|X|Cutter|27|0|0|2|14|87
+Chad Billingsley|R|Shelby Miller|R|Flyout|C|Four-Seam Fastball|28|0|0|0|6|91
+Chad Billingsley|R|Shelby Miller|R|Flyout|X|Two-Seam Fastball|29|0|1|0|2|90
+Chad Billingsley|R|Nick Markakis|L|Single|B|Two-Seam Fastball|30|0|0|1|13|92
+Chad Billingsley|R|Nick Markakis|L|Single|C|Changeup|31|1|0|1|13|85
+Chad Billingsley|R|Nick Markakis|L|Single|B|Cutter|32|1|1|1|14|87
+Chad Billingsley|R|Nick Markakis|L|Single|D|Changeup|33|2|1|1|7|84
+Chad Billingsley|R|Andrelton Simmons|R|Grounded Into DP|X|Two-Seam Fastball|34|0|0|1|5|90
+Chad Billingsley|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|35|0|0|0|13|91
+Chad Billingsley|R|Freddie Freeman|L|Single|B|Slider|36|1|0|0|13|76
+Chad Billingsley|R|Freddie Freeman|L|Single|D|Four-Seam Fastball|37|2|0|0|7|91
+Chad Billingsley|R|A.J. Pierzynski|L|Single|C|Four-Seam Fastball|38|0|0|0|9|93
+Chad Billingsley|R|A.J. Pierzynski|L|Single|D|Cutter|39|0|1|0|8|85
+Chad Billingsley|R|Jonny Gomes|R|Field Error|B|Two-Seam Fastball|40|0|0|0|8|90
+Chad Billingsley|R|Jonny Gomes|R|Field Error|E|Cutter|41|1|0|0|9|87
+Chad Billingsley|R|Kelly Johnson|L|Home Run|B|Two-Seam Fastball|42|0|0|0|13|90
+Chad Billingsley|R|Kelly Johnson|L|Home Run|B|Two-Seam Fastball|43|1|0|0|11|90
+Chad Billingsley|R|Kelly Johnson|L|Home Run|S|Changeup|44|2|0|0|13|85
+Chad Billingsley|R|Kelly Johnson|L|Home Run|F|Two-Seam Fastball|45|2|1|0|13|92
+Chad Billingsley|R|Kelly Johnson|L|Home Run|B|Cutter|46|2|2|0|11|86
+Chad Billingsley|R|Kelly Johnson|L|Home Run|E|Four-Seam Fastball|47|3|2|0|9|92
+Chad Billingsley|R|Jace Peterson|L|Flyout|B|Four-Seam Fastball|48|0|0|0|14|92
+Chad Billingsley|R|Jace Peterson|L|Flyout|X|Two-Seam Fastball|49|1|0|0|2|90
+Chad Billingsley|R|Cameron Maybin|R|Single|B|Four-Seam Fastball|50|0|0|1|14|93
+Chad Billingsley|R|Cameron Maybin|R|Single|B|Two-Seam Fastball|51|1|0|1|14|90
+Chad Billingsley|R|Cameron Maybin|R|Single|F|Cutter|52|2|0|1|9|86
+Chad Billingsley|R|Cameron Maybin|R|Single|B|Cutter|53|2|1|1|14|87
+Chad Billingsley|R|Cameron Maybin|R|Single|D|Cutter|54|3|1|1|14|86
+Chad Billingsley|R|Shelby Miller|R|Sac Bunt|X|Cutter|55|0|0|1|4|85
+Chad Billingsley|R|Nick Markakis|L|Strikeout|C|Curveball|56|0|0|2|11|70
+Chad Billingsley|R|Nick Markakis|L|Strikeout|B|Four-Seam Fastball|57|0|1|2|13|91
+Chad Billingsley|R|Nick Markakis|L|Strikeout|S|Four-Seam Fastball|58|1|1|2|2|91
+Chad Billingsley|R|Nick Markakis|L|Strikeout|B|Two-Seam Fastball|59|1|2|2|12|89
+Chad Billingsley|R|Nick Markakis|L|Strikeout|F|Four-Seam Fastball|60|2|2|2|11|91
+Chad Billingsley|R|Nick Markakis|L|Strikeout|S|Cutter|61|2|2|2|11|86
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|B|Cutter|62|0|0|0|14|88
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|B|Cutter|63|1|0|0|14|87
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|64|2|0|0|9|89
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|B|Two-Seam Fastball|65|2|1|0|12|91
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|66|3|1|0|2|91
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|67|3|2|0|8|90
+Chad Billingsley|R|Andrelton Simmons|R|Pop Out|X|Four-Seam Fastball|68|3|2|0|11|92
+Chad Billingsley|R|Freddie Freeman|L|Single|D|Changeup|69|0|0|1|11|85
+Chad Billingsley|R|A.J. Pierzynski|L|Walk|B|Two-Seam Fastball|70|0|0|1|13|89
+Chad Billingsley|R|A.J. Pierzynski|L|Walk|B|Two-Seam Fastball|71|1|0|1|13|88
+Chad Billingsley|R|A.J. Pierzynski|L|Walk|F|Changeup|72|2|0|1|11|85
+Chad Billingsley|R|A.J. Pierzynski|L|Walk|B|Curveball|73|2|1|1|11|68
+Chad Billingsley|R|A.J. Pierzynski|L|Walk|B|Four-Seam Fastball|74|3|1|1|11|91
+Chad Billingsley|R|Jonny Gomes|R|Grounded Into DP|B|Four-Seam Fastball|75|0|0|1|12|92
+Chad Billingsley|R|Jonny Gomes|R|Grounded Into DP|X|Changeup|76|1|0|1|1|81
+Chad Billingsley|R|Curtis Granderson|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|13|91
+Chad Billingsley|R|Curtis Granderson|L|Strikeout|C|Two-Seam Fastball|1|0|1|0|13|92
+Chad Billingsley|R|Curtis Granderson|L|Strikeout|F|Two-Seam Fastball|2|0|2|0|3|92
+Chad Billingsley|R|Curtis Granderson|L|Strikeout|C|Two-Seam Fastball|3|0|2|0|3|92
+Chad Billingsley|R|Juan Lagares|R|Groundout|C|Two-Seam Fastball|4|0|0|1|4|92
+Chad Billingsley|R|Juan Lagares|R|Groundout|X|Two-Seam Fastball|5|0|1|1|9|92
+Chad Billingsley|R|Daniel Murphy|L|Single|D|Two-Seam Fastball|6|0|0|2|7|92
+Chad Billingsley|R|Lucas Duda|L|Groundout|X|Two-Seam Fastball|7|0|0|2|13|90
+Chad Billingsley|R|Wilmer Flores|R|Pop Out|C|Two-Seam Fastball|8|0|0|0|4|89
+Chad Billingsley|R|Wilmer Flores|R|Pop Out|B|Curveball|9|0|1|0|14|64
+Chad Billingsley|R|Wilmer Flores|R|Pop Out|X|Two-Seam Fastball|10|1|1|0|4|92
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Strikeout|C|Two-Seam Fastball|11|0|0|1|7|90
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Strikeout|S|Changeup|12|0|1|1|14|83
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Strikeout|F|Changeup|13|0|2|1|11|83
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Strikeout|B|Two-Seam Fastball|14|0|2|1|14|91
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|15|1|2|1|14|92
+Chad Billingsley|R|Anthony Recker|R|Pop Out|C|Four-Seam Fastball|16|0|0|2|5|93
+Chad Billingsley|R|Anthony Recker|R|Pop Out|B|Four-Seam Fastball|17|0|1|2|14|89
+Chad Billingsley|R|Anthony Recker|R|Pop Out|B|Curveball|18|1|1|2|11|67
+Chad Billingsley|R|Anthony Recker|R|Pop Out|X|Four-Seam Fastball|19|2|1|2|5|93
+Chad Billingsley|R|Ruben Tejada|R|Flyout|B|Two-Seam Fastball|20|0|0|0|14|88
+Chad Billingsley|R|Ruben Tejada|R|Flyout|X|Four-Seam Fastball|21|1|0|0|5|90
+Chad Billingsley|R|Bartolo Colon|R|Groundout|C|Two-Seam Fastball|22|0|0|1|9|91
+Chad Billingsley|R|Bartolo Colon|R|Groundout|X|Two-Seam Fastball|23|0|1|1|6|90
+Chad Billingsley|R|Curtis Granderson|L|Single|C|Two-Seam Fastball|24|0|0|2|7|90
+Chad Billingsley|R|Curtis Granderson|L|Single|D|Slider|25|0|1|2|6|77
+Chad Billingsley|R|Juan Lagares|R|Flyout|B|Cutter|26|0|0|2|14|86
+Chad Billingsley|R|Juan Lagares|R|Flyout|X|Two-Seam Fastball|27|1|0|2|5|90
+Chad Billingsley|R|Daniel Murphy|L|Flyout|B|Two-Seam Fastball|28|0|0|0|11|91
+Chad Billingsley|R|Daniel Murphy|L|Flyout|C|Changeup|29|1|0|0|2|84
+Chad Billingsley|R|Daniel Murphy|L|Flyout|B|Changeup|30|1|1|0|14|84
+Chad Billingsley|R|Daniel Murphy|L|Flyout|C|Four-Seam Fastball|31|2|1|0|11|91
+Chad Billingsley|R|Daniel Murphy|L|Flyout|F|Slider|32|2|2|0|11|76
+Chad Billingsley|R|Daniel Murphy|L|Flyout|F|Two-Seam Fastball|33|2|2|0|11|93
+Chad Billingsley|R|Daniel Murphy|L|Flyout|X|Two-Seam Fastball|34|2|2|0|4|91
+Chad Billingsley|R|Lucas Duda|L|Double|B|Changeup|35|0|0|1|13|85
+Chad Billingsley|R|Lucas Duda|L|Double|D|Changeup|36|1|0|1|4|85
+Chad Billingsley|R|Wilmer Flores|R|Single|C|Slider|37|0|0|1|9|72
+Chad Billingsley|R|Wilmer Flores|R|Single|B|Four-Seam Fastball|38|0|1|1|13|92
+Chad Billingsley|R|Wilmer Flores|R|Single|E|Four-Seam Fastball|39|1|1|1|6|92
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Flyout|X|Two-Seam Fastball|40|0|0|1|1|91
+Chad Billingsley|R|Anthony Recker|R|Groundout|X|Two-Seam Fastball|41|0|0|2|14|88
+Chad Billingsley|R|Ruben Tejada|R|Walk|C|Two-Seam Fastball|42|0|0|0|6|91
+Chad Billingsley|R|Ruben Tejada|R|Walk|B|Cutter|43|0|1|0|12|87
+Chad Billingsley|R|Ruben Tejada|R|Walk|B|Four-Seam Fastball|44|1|1|0|13|90
+Chad Billingsley|R|Ruben Tejada|R|Walk|B|Two-Seam Fastball|45|2|1|0|14|91
+Chad Billingsley|R|Ruben Tejada|R|Walk|F|Two-Seam Fastball|46|3|1|0|1|91
+Chad Billingsley|R|Ruben Tejada|R|Walk|B|Four-Seam Fastball|47|3|2|0|11|92
+Chad Billingsley|R|Bartolo Colon|R|Bunt Pop Out|L|Two-Seam Fastball|48|0|0|0|9|91
+Chad Billingsley|R|Bartolo Colon|R|Bunt Pop Out|B|Two-Seam Fastball|49|0|1|0|12|91
+Chad Billingsley|R|Bartolo Colon|R|Bunt Pop Out|L|Four-Seam Fastball|50|1|1|0|2|91
+Chad Billingsley|R|Bartolo Colon|R|Bunt Pop Out|X|Slider|51|1|2|0|8|77
+Chad Billingsley|R|Curtis Granderson|L|Home Run|C|Two-Seam Fastball|52|0|0|1|8|90
+Chad Billingsley|R|Curtis Granderson|L|Home Run|*B|Changeup|53|0|1|1|13|84
+Chad Billingsley|R|Curtis Granderson|L|Home Run|B|Cutter|54|1|1|1|14|89
+Chad Billingsley|R|Curtis Granderson|L|Home Run|C|Two-Seam Fastball|55|2|1|1|11|90
+Chad Billingsley|R|Curtis Granderson|L|Home Run|F|Slider|56|2|2|1|5|77
+Chad Billingsley|R|Curtis Granderson|L|Home Run|F|Four-Seam Fastball|57|2|2|1|5|93
+Chad Billingsley|R|Curtis Granderson|L|Home Run|B|Two-Seam Fastball|58|2|2|1|3|91
+Chad Billingsley|R|Curtis Granderson|L|Home Run|E|Two-Seam Fastball|59|3|2|1|8|91
+Chad Billingsley|R|Juan Lagares|R|Groundout|B|Four-Seam Fastball|60|0|0|1|12|92
+Chad Billingsley|R|Juan Lagares|R|Groundout|F|Two-Seam Fastball|61|1|0|1|6|92
+Chad Billingsley|R|Juan Lagares|R|Groundout|B|Changeup|62|1|1|1|14|86
+Chad Billingsley|R|Juan Lagares|R|Groundout|C|Four-Seam Fastball|63|2|1|1|1|91
+Chad Billingsley|R|Juan Lagares|R|Groundout|B|Curveball|64|2|2|1|13|66
+Chad Billingsley|R|Juan Lagares|R|Groundout|F|Cutter|65|3|2|1|14|87
+Chad Billingsley|R|Juan Lagares|R|Groundout|X|Four-Seam Fastball|66|3|2|1|9|92
+Chad Billingsley|R|Daniel Murphy|L|Single|B|Cutter|67|0|0|2|11|87
+Chad Billingsley|R|Daniel Murphy|L|Single|C|Two-Seam Fastball|68|1|0|2|13|91
+Chad Billingsley|R|Daniel Murphy|L|Single|D|Changeup|69|1|1|2|7|85
+Chad Billingsley|R|Lucas Duda|L|Strikeout|B|Two-Seam Fastball|70|0|0|2|14|91
+Chad Billingsley|R|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|71|1|0|2|5|92
+Chad Billingsley|R|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|72|1|1|2|4|91
+Chad Billingsley|R|Lucas Duda|L|Strikeout|B|Two-Seam Fastball|73|1|2|2|11|91
+Chad Billingsley|R|Lucas Duda|L|Strikeout|C|Slider|74|2|2|2|11|77
+Chad Billingsley|R|Wilmer Flores|R|Double|F|Two-Seam Fastball|75|0|0|0|11|90
+Chad Billingsley|R|Wilmer Flores|R|Double|D|Curveball|76|0|1|0|8|69
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Double|B|Two-Seam Fastball|77|0|0|0|11|90
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Double|B|Two-Seam Fastball|78|1|0|0|11|92
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Double|F|Two-Seam Fastball|79|2|0|0|5|90
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Double|F|Slider|80|2|1|0|7|76
+Chad Billingsley|R|Kirk Nieuwenhuis|L|Double|E|Two-Seam Fastball|81|2|2|0|2|90
+Chad Billingsley|R|Ender Inciarte|L|Single|C|Two-Seam Fastball|0|0|0|0|13|90
+Chad Billingsley|R|Ender Inciarte|L|Single|D|Four-Seam Fastball|1|0|1|0|6|91
+Chad Billingsley|R|A.J. Pollock|R|Flyout|C|Two-Seam Fastball|2|0|0|0|9|90
+Chad Billingsley|R|A.J. Pollock|R|Flyout|S|Cutter|3|0|1|0|14|88
+Chad Billingsley|R|A.J. Pollock|R|Flyout|*B|Cutter|4|0|2|0|14|86
+Chad Billingsley|R|A.J. Pollock|R|Flyout|B|Two-Seam Fastball|5|1|2|0|14|90
+Chad Billingsley|R|A.J. Pollock|R|Flyout|X|Four-Seam Fastball|6|2|2|0|12|92
+Chad Billingsley|R|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|7|0|0|1|12|91
+Chad Billingsley|R|Paul Goldschmidt|R|Flyout|X|Two-Seam Fastball|8|1|0|1|4|90
+Chad Billingsley|R|David Peralta|L|Groundout|B|Two-Seam Fastball|9|0|0|2|13|89
+Chad Billingsley|R|David Peralta|L|Groundout|F|Changeup|10|1|0|2|7|84
+Chad Billingsley|R|David Peralta|L|Groundout|X|Slider|11|1|1|2|7|77
+Chad Billingsley|R|Chris Owings|R|Single|D|Two-Seam Fastball|12|0|0|0|11|89
+Chad Billingsley|R|Cliff Pennington|L|Lineout|C|Two-Seam Fastball|13|0|0|0|1|88
+Chad Billingsley|R|Cliff Pennington|L|Lineout|X|Two-Seam Fastball|14|0|1|0|7|86
+Chad Billingsley|R|Tuffy Gosewisch|R|Lineout|B|Cutter|15|0|0|1|14|87
+Chad Billingsley|R|Tuffy Gosewisch|R|Lineout|X|Two-Seam Fastball|16|1|0|1|4|90
+Chad Billingsley|R|Nick Ahmed|R|Lineout|L|Four-Seam Fastball|17|0|0|2|3|92
+Chad Billingsley|R|Nick Ahmed|R|Lineout|B|Four-Seam Fastball|18|0|1|2|14|91
+Chad Billingsley|R|Nick Ahmed|R|Lineout|B|Cutter|19|1|1|2|14|85
+Chad Billingsley|R|Nick Ahmed|R|Lineout|X|Two-Seam Fastball|20|2|1|2|9|90
+Chad Billingsley|R|Chase Anderson|R|Lineout|C|Four-Seam Fastball|21|0|0|0|2|90
+Chad Billingsley|R|Chase Anderson|R|Lineout|X|Four-Seam Fastball|22|0|1|0|12|91
+Chad Billingsley|R|Ender Inciarte|L|Strikeout|C|Four-Seam Fastball|23|0|0|1|4|91
+Chad Billingsley|R|Ender Inciarte|L|Strikeout|F|Cutter|24|0|1|1|6|87
+Chad Billingsley|R|Ender Inciarte|L|Strikeout|B|Cutter|25|0|2|1|13|86
+Chad Billingsley|R|Ender Inciarte|L|Strikeout|B|Slider|26|1|2|1|14|78
+Chad Billingsley|R|Ender Inciarte|L|Strikeout|S|Two-Seam Fastball|27|2|2|1|13|90
+Chad Billingsley|R|A.J. Pollock|R|Groundout|X|Four-Seam Fastball|28|0|0|2|9|91
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|B|Cutter|29|0|0|0|14|87
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|B|Cutter|30|1|0|0|11|87
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|S|Cutter|31|2|0|0|7|84
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|C|Changeup|32|2|1|0|2|82
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|B|Two-Seam Fastball|33|2|2|0|11|90
+Chad Billingsley|R|Paul Goldschmidt|R|Pop Out|X|Four-Seam Fastball|34|3|2|0|4|91
+Chad Billingsley|R|David Peralta|L|Groundout|B|Changeup|35|0|0|1|11|85
+Chad Billingsley|R|David Peralta|L|Groundout|C|Two-Seam Fastball|36|1|0|1|13|89
+Chad Billingsley|R|David Peralta|L|Groundout|C|Four-Seam Fastball|37|1|1|1|8|91
+Chad Billingsley|R|David Peralta|L|Groundout|X|Changeup|38|1|2|1|13|85
+Chad Billingsley|R|Chris Owings|R|Single|C|Four-Seam Fastball|39|0|0|2|8|92
+Chad Billingsley|R|Chris Owings|R|Single|C|Two-Seam Fastball|40|0|1|2|13|89
+Chad Billingsley|R|Chris Owings|R|Single|F|Four-Seam Fastball|41|0|2|2|14|92
+Chad Billingsley|R|Chris Owings|R|Single|D|Cutter|42|0|2|2|14|85
+Chad Billingsley|R|Cliff Pennington|L|Flyout|B|Curveball|43|0|0|2|13|66
+Chad Billingsley|R|Cliff Pennington|L|Flyout|B|Four-Seam Fastball|44|1|0|2|14|90
+Chad Billingsley|R|Cliff Pennington|L|Flyout|X|Four-Seam Fastball|45|2|0|2|3|89
+Chad Billingsley|R|Tuffy Gosewisch|R|Groundout|F|Cutter|46|0|0|0|12|86
+Chad Billingsley|R|Tuffy Gosewisch|R|Groundout|F|Two-Seam Fastball|47|0|1|0|13|89
+Chad Billingsley|R|Tuffy Gosewisch|R|Groundout|F|Two-Seam Fastball|48|0|2|0|3|91
+Chad Billingsley|R|Tuffy Gosewisch|R|Groundout|F|Two-Seam Fastball|49|0|2|0|11|87
+Chad Billingsley|R|Tuffy Gosewisch|R|Groundout|X|Slider|50|0|2|0|14|75
+Chad Billingsley|R|Nick Ahmed|R|Groundout|X|Cutter|51|0|0|1|9|85
+Chad Billingsley|R|Chase Anderson|R|Single|B|Four-Seam Fastball|52|0|0|2|12|90
+Chad Billingsley|R|Chase Anderson|R|Single|B|Four-Seam Fastball|53|1|0|2|14|90
+Chad Billingsley|R|Chase Anderson|R|Single|C|Four-Seam Fastball|54|2|0|2|5|89
+Chad Billingsley|R|Chase Anderson|R|Single|D|Four-Seam Fastball|55|2|1|2|3|90
+Chad Billingsley|R|Ender Inciarte|L|Single|C|Two-Seam Fastball|56|0|0|2|2|88
+Chad Billingsley|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|57|0|1|2|4|89
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|C|Two-Seam Fastball|58|0|0|2|13|88
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|F|Changeup|59|0|1|2|11|84
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|B|Cutter|60|0|2|2|14|83
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|61|1|2|2|14|91
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|F|Changeup|62|2|2|2|13|83
+Chad Billingsley|R|A.J. Pollock|R|Strikeout|C|Slider|63|2|2|2|1|76
+Chad Billingsley|R|Paul Goldschmidt|R|Flyout|F|Two-Seam Fastball|64|0|0|0|11|87
+Chad Billingsley|R|Paul Goldschmidt|R|Flyout|X|Two-Seam Fastball|65|0|1|0|13|88
+Chad Billingsley|R|David Peralta|L|Double|D|Curveball|66|0|0|1|14|66
+Chad Billingsley|R|Chris Owings|R|Flyout|C|Four-Seam Fastball|67|0|0|1|3|91
+Chad Billingsley|R|Chris Owings|R|Flyout|X|Four-Seam Fastball|68|0|1|1|11|89
+Chad Billingsley|R|Cliff Pennington|L|Groundout|F|Changeup|69|0|0|2|4|83
+Chad Billingsley|R|Cliff Pennington|L|Groundout|B|Four-Seam Fastball|70|0|1|2|12|91
+Chad Billingsley|R|Cliff Pennington|L|Groundout|B|Four-Seam Fastball|71|1|1|2|12|92
+Chad Billingsley|R|Cliff Pennington|L|Groundout|B|Cutter|72|2|1|2|12|86
+Chad Billingsley|R|Cliff Pennington|L|Groundout|C|Cutter|73|3|1|2|4|84
+Chad Billingsley|R|Cliff Pennington|L|Groundout|F|Two-Seam Fastball|74|3|2|2|8|92
+Chad Billingsley|R|Cliff Pennington|L|Groundout|X|Two-Seam Fastball|75|3|2|2|6|90
+Chad Billingsley|R|Tuffy Gosewisch|R|Walk|B|Slider|76|0|0|0|13|73
+Chad Billingsley|R|Tuffy Gosewisch|R|Walk|B|Two-Seam Fastball|77|1|0|0|11|88
+Chad Billingsley|R|Tuffy Gosewisch|R|Walk|B|Cutter|78|2|0|0|14|86
+Chad Billingsley|R|Tuffy Gosewisch|R|Walk|C|Four-Seam Fastball|79|3|0|0|1|88
+Chad Billingsley|R|Tuffy Gosewisch|R|Walk|B|Four-Seam Fastball|80|3|1|0|11|89
+Chad Billingsley|R|Nick Ahmed|R|Single|B|Cutter|81|0|0|0|12|85
+Chad Billingsley|R|Nick Ahmed|R|Single|B|Two-Seam Fastball|82|1|0|0|14|89
+Chad Billingsley|R|Nick Ahmed|R|Single|L|Cutter|83|2|0|0|8|88
+Chad Billingsley|R|Nick Ahmed|R|Single|D|Cutter|84|2|1|0|3|84
+Chad Billingsley|R|Gerardo Parra|L|Walk|F|Four-Seam Fastball|0|0|0|0|14|91
+Chad Billingsley|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|1|0|1|0|13|92
+Chad Billingsley|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|2|1|1|0|11|91
+Chad Billingsley|R|Gerardo Parra|L|Walk|F|Two-Seam Fastball|3|2|1|0|4|91
+Chad Billingsley|R|Gerardo Parra|L|Walk|B|Slider|4|2|2|0|14|80
+Chad Billingsley|R|Gerardo Parra|L|Walk|F|Two-Seam Fastball|5|3|2|0|11|91
+Chad Billingsley|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|6|3|2|0|13|93
+Chad Billingsley|R|Jonathan Lucroy|R|Single|B|Four-Seam Fastball|7|0|0|0|11|91
+Chad Billingsley|R|Jonathan Lucroy|R|Single|C|Two-Seam Fastball|8|1|0|0|5|91
+Chad Billingsley|R|Jonathan Lucroy|R|Single|C|Cutter|9|1|1|0|9|88
+Chad Billingsley|R|Jonathan Lucroy|R|Single|F|Two-Seam Fastball|10|1|2|0|9|91
+Chad Billingsley|R|Jonathan Lucroy|R|Single|D|Cutter|11|1|2|0|14|86
+Chad Billingsley|R|Ryan Braun|R|Single|E|Two-Seam Fastball|12|0|0|0|4|92
+Chad Billingsley|R|Adam Lind|L|Single|B|Four-Seam Fastball|13|0|0|0|14|88
+Chad Billingsley|R|Adam Lind|L|Single|C|Two-Seam Fastball|14|1|0|0|11|91
+Chad Billingsley|R|Adam Lind|L|Single|B|Four-Seam Fastball|15|1|1|0|13|93
+Chad Billingsley|R|Adam Lind|L|Single|F|Cutter|16|2|1|0|9|88
+Chad Billingsley|R|Adam Lind|L|Single|E|Slider|17|2|2|0|13|79
+Chad Billingsley|R|Carlos Gomez|R|Forceout|X|Cutter|18|0|0|0|6|88
+Chad Billingsley|R|Aramis Ramirez|R|Sac Fly|S|Cutter|19|0|0|1|14|88
+Chad Billingsley|R|Aramis Ramirez|R|Sac Fly|E|Cutter|20|0|1|1|5|88
+Chad Billingsley|R|Jean Segura|R|Flyout|X|Two-Seam Fastball|21|0|0|2|4|90
+Chad Billingsley|R|Scooter Gennett|L|Walk|B|Four-Seam Fastball|22|0|0|0|11|89
+Chad Billingsley|R|Scooter Gennett|L|Walk|F|Cutter|23|1|0|0|12|88
+Chad Billingsley|R|Scooter Gennett|L|Walk|B|Changeup|24|1|1|0|14|85
+Chad Billingsley|R|Scooter Gennett|L|Walk|B|Two-Seam Fastball|25|2|1|0|11|90
+Chad Billingsley|R|Scooter Gennett|L|Walk|B|Two-Seam Fastball|26|3|1|0|11|90
+Chad Billingsley|R|Matt Garza|R|Sac Bunt|X|Two-Seam Fastball|27|0|0|0|6|90
+Chad Billingsley|R|Gerardo Parra|L|Double|E|Two-Seam Fastball|28|0|0|1|9|92
+Chad Billingsley|R|Jonathan Lucroy|R|Single|D|Curveball|29|0|0|1|8|69
+Chad Billingsley|R|Ryan Braun|R|Grounded Into DP|F|Cutter|30|0|0|1|5|88
+Chad Billingsley|R|Ryan Braun|R|Grounded Into DP|C|Four-Seam Fastball|31|0|1|1|13|90
+Chad Billingsley|R|Ryan Braun|R|Grounded Into DP|X|Four-Seam Fastball|32|0|2|1|13|91
+Chad Billingsley|R|Adam Lind|L|Groundout|C|Cutter|33|0|0|0|6|88
+Chad Billingsley|R|Adam Lind|L|Groundout|B|Slider|34|0|1|0|11|76
+Chad Billingsley|R|Adam Lind|L|Groundout|B|Four-Seam Fastball|35|1|1|0|12|92
+Chad Billingsley|R|Adam Lind|L|Groundout|B|Two-Seam Fastball|36|2|1|0|11|89
+Chad Billingsley|R|Adam Lind|L|Groundout|X|Four-Seam Fastball|37|3|1|0|8|90
+Chad Billingsley|R|Carlos Gomez|R|Groundout|X|Two-Seam Fastball|38|0|0|1|11|91
+Chad Billingsley|R|Aramis Ramirez|R|Single|B|Cutter|39|0|0|2|11|86
+Chad Billingsley|R|Aramis Ramirez|R|Single|C|Four-Seam Fastball|40|1|0|2|5|92
+Chad Billingsley|R|Aramis Ramirez|R|Single|F|Slider|41|1|1|2|4|76
+Chad Billingsley|R|Aramis Ramirez|R|Single|B|Slider|42|1|2|2|14|78
+Chad Billingsley|R|Aramis Ramirez|R|Single|B|Two-Seam Fastball|43|2|2|2|11|90
+Chad Billingsley|R|Aramis Ramirez|R|Single|D|Cutter|44|3|2|2|6|86
+Chad Billingsley|R|Jean Segura|R|Single|B|Four-Seam Fastball|45|0|0|2|11|90
+Chad Billingsley|R|Jean Segura|R|Single|C|Two-Seam Fastball|46|1|0|2|14|89
+Chad Billingsley|R|Jean Segura|R|Single|L|Cutter|47|1|1|2|14|88
+Chad Billingsley|R|Jean Segura|R|Single|D|Slider|48|1|2|2|14|75
+Chad Billingsley|R|Scooter Gennett|L|Single|B|Four-Seam Fastball|49|0|0|2|11|91
+Chad Billingsley|R|Scooter Gennett|L|Single|F|Changeup|50|1|0|2|13|84
+Chad Billingsley|R|Scooter Gennett|L|Single|E|Changeup|51|1|1|2|4|84
+Chad Billingsley|R|Matt Garza|R|Groundout|S|Four-Seam Fastball|52|0|0|2|5|90
+Chad Billingsley|R|Matt Garza|R|Groundout|X|Cutter|53|0|1|2|14|86
+Chad Billingsley|R|Gerardo Parra|L|Single|B|Cutter|54|0|0|0|14|85
+Chad Billingsley|R|Gerardo Parra|L|Single|C|Four-Seam Fastball|55|1|0|0|14|91
+Chad Billingsley|R|Gerardo Parra|L|Single|F|Cutter|56|1|1|0|14|87
+Chad Billingsley|R|Gerardo Parra|L|Single|D|Slider|57|1|2|0|4|77
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|C|Two-Seam Fastball|58|0|0|0|7|88
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|F|Two-Seam Fastball|59|0|1|0|7|91
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|B|Four-Seam Fastball|60|0|2|0|11|90
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|F|Two-Seam Fastball|61|1|2|0|2|90
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|F|Changeup|62|1|2|0|13|83
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|B|Two-Seam Fastball|63|1|2|0|14|90
+Chad Billingsley|R|Jonathan Lucroy|R|Lineout|X|Cutter|64|2|2|0|6|87
+Chad Billingsley|R|Ryan Braun|R|Flyout|C|Cutter|65|0|0|1|7|86
+Chad Billingsley|R|Ryan Braun|R|Flyout|S|Cutter|66|0|1|1|14|86
+Chad Billingsley|R|Ryan Braun|R|Flyout|X|Four-Seam Fastball|67|0|2|1|4|91
+Chad Billingsley|R|Adam Lind|L|Field Error|B|Two-Seam Fastball|68|0|0|2|13|89
+Chad Billingsley|R|Adam Lind|L|Field Error|C|Four-Seam Fastball|69|1|0|2|13|91
+Chad Billingsley|R|Adam Lind|L|Field Error|F|Cutter|70|1|1|2|9|88
+Chad Billingsley|R|Adam Lind|L|Field Error|B|Two-Seam Fastball|71|1|2|2|14|90
+Chad Billingsley|R|Adam Lind|L|Field Error|D|Slider|72|2|2|2|6|77
+Chad Billingsley|R|Carlos Gomez|R|Walk|S|Cutter|73|0|0|2|2|86
+Chad Billingsley|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|74|0|1|2|12|91
+Chad Billingsley|R|Carlos Gomez|R|Walk|F|Cutter|75|1|1|2|14|87
+Chad Billingsley|R|Carlos Gomez|R|Walk|B|Cutter|76|1|2|2|14|83
+Chad Billingsley|R|Carlos Gomez|R|Walk|*B|Slider|77|2|2|2|14|79
+Chad Billingsley|R|Carlos Gomez|R|Walk|B|Cutter|78|3|2|2|11|86
+Chad Billingsley|R|Aramis Ramirez|R|Groundout|B|Two-Seam Fastball|79|0|0|2|2|88
+Chad Billingsley|R|Aramis Ramirez|R|Groundout|X|Cutter|80|1|0|2|3|86
+Chad Billingsley|R|Jean Segura|R|Single|C|Four-Seam Fastball|81|0|0|0|13|91
+Chad Billingsley|R|Jean Segura|R|Single|B|Two-Seam Fastball|82|0|1|0|11|89
+Chad Billingsley|R|Jean Segura|R|Single|E|Cutter|83|1|1|0|14|88
+Chad Billingsley|R|Scooter Gennett|L|Flyout|B|Four-Seam Fastball|84|0|0|0|11|90
+Chad Billingsley|R|Scooter Gennett|L|Flyout|F|Cutter|85|1|0|0|12|86
+Chad Billingsley|R|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|86|1|1|0|12|90
+Chad Billingsley|R|Matt Garza|R|Strikeout|F|Four-Seam Fastball|87|0|0|1|3|90
+Chad Billingsley|R|Matt Garza|R|Strikeout|F|Four-Seam Fastball|88|0|1|1|1|91
+Chad Billingsley|R|Matt Garza|R|Strikeout|B|Slider|89|0|2|1|12|75
+Chad Billingsley|R|Matt Garza|R|Strikeout|F|Four-Seam Fastball|90|1|2|1|14|89
+Chad Billingsley|R|Matt Garza|R|Strikeout|W|Slider|91|1|2|1|14|76
+Chad Billingsley|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|90
+Chad Billingsley|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|90
+Chad Billingsley|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|90
+Chad Billingsley|R|Joc Pederson|L|Strikeout|B|Slider|3|1|2|0|14|77
+Chad Billingsley|R|Joc Pederson|L|Strikeout|B|Slider|4|2|2|0|14|77
+Chad Billingsley|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|5|3|2|0|7|92
+Chad Billingsley|R|Howie Kendrick|R|Hit By Pitch|C|Four-Seam Fastball|6|0|0|1|4|92
+Chad Billingsley|R|Howie Kendrick|R|Hit By Pitch|F|Cutter|7|0|1|1|9|88
+Chad Billingsley|R|Howie Kendrick|R|Hit By Pitch|B|Two-Seam Fastball|8|0|2|1|14|90
+Chad Billingsley|R|Howie Kendrick|R|Hit By Pitch|H|Four-Seam Fastball|9|1|2|1|11|92
+Chad Billingsley|R|Justin Turner|R|Single|B|Two-Seam Fastball|10|0|0|1|14|89
+Chad Billingsley|R|Justin Turner|R|Single|B|Two-Seam Fastball|11|1|0|1|14|90
+Chad Billingsley|R|Justin Turner|R|Single|B|Two-Seam Fastball|12|2|0|1|14|90
+Chad Billingsley|R|Justin Turner|R|Single|C|Four-Seam Fastball|13|3|0|1|8|90
+Chad Billingsley|R|Justin Turner|R|Single|D|Four-Seam Fastball|14|3|1|1|9|92
+Chad Billingsley|R|Adrian Gonzalez|L|Double Play|X|Changeup|15|0|0|1|7|84
+Chad Billingsley|R|Yasmani Grandal|L|Walk|C|Two-Seam Fastball|16|0|0|0|9|89
+Chad Billingsley|R|Yasmani Grandal|L|Walk|B|Cutter|17|0|1|0|12|88
+Chad Billingsley|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|18|1|1|0|14|91
+Chad Billingsley|R|Yasmani Grandal|L|Walk|B|Two-Seam Fastball|19|2|1|0|13|89
+Chad Billingsley|R|Yasmani Grandal|L|Walk|C|Two-Seam Fastball|20|3|1|0|7|90
+Chad Billingsley|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|21|3|2|0|13|91
+Chad Billingsley|R|Yasiel Puig|R|Single|C|Slider|22|0|0|0|3|75
+Chad Billingsley|R|Yasiel Puig|R|Single|X|Two-Seam Fastball|23|0|1|0|4|89
+Chad Billingsley|R|Andre Ethier|L|Single|D|Two-Seam Fastball|24|0|0|1|7|90
+Chad Billingsley|R|Jimmy Rollins|L|Groundout|C|Changeup|25|0|0|1|4|85
+Chad Billingsley|R|Jimmy Rollins|L|Groundout|X|Cutter|26|0|1|1|5|88
+Chad Billingsley|R|Brett Anderson|L|Strikeout|S|Two-Seam Fastball|27|0|0|2|6|92
+Chad Billingsley|R|Brett Anderson|L|Strikeout|B|Two-Seam Fastball|28|0|1|2|13|92
+Chad Billingsley|R|Brett Anderson|L|Strikeout|S|Two-Seam Fastball|29|1|1|2|13|89
+Chad Billingsley|R|Brett Anderson|L|Strikeout|*B|Two-Seam Fastball|30|1|2|2|14|91
+Chad Billingsley|R|Brett Anderson|L|Strikeout|F|Four-Seam Fastball|31|2|2|2|4|92
+Chad Billingsley|R|Brett Anderson|L|Strikeout|W|Slider|32|2|2|2|14|78
+Chad Billingsley|R|Joc Pederson|L|Field Error|B|Two-Seam Fastball|33|0|0|0|13|88
+Chad Billingsley|R|Joc Pederson|L|Field Error|C|Changeup|34|1|0|0|11|84
+Chad Billingsley|R|Joc Pederson|L|Field Error|D|Changeup|35|1|1|0|13|84
+Chad Billingsley|R|Howie Kendrick|R|Grounded Into DP|B|Two-Seam Fastball|36|0|0|0|14|89
+Chad Billingsley|R|Howie Kendrick|R|Grounded Into DP|B|Four-Seam Fastball|37|1|0|0|14|91
+Chad Billingsley|R|Howie Kendrick|R|Grounded Into DP|B|Two-Seam Fastball|38|2|0|0|14|88
+Chad Billingsley|R|Howie Kendrick|R|Grounded Into DP|C|Four-Seam Fastball|39|3|0|0|3|90
+Chad Billingsley|R|Howie Kendrick|R|Grounded Into DP|X|Four-Seam Fastball|40|3|1|0|12|91
+Chad Billingsley|R|Justin Turner|R|Lineout|B|Cutter|41|0|0|2|14|88
+Chad Billingsley|R|Justin Turner|R|Lineout|X|Cutter|42|1|0|2|9|88
+Chad Billingsley|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|43|0|0|0|13|90
+Chad Billingsley|R|Adrian Gonzalez|L|Groundout|B|Two-Seam Fastball|44|1|0|0|11|90
+Chad Billingsley|R|Adrian Gonzalez|L|Groundout|C|Four-Seam Fastball|45|2|0|0|7|91
+Chad Billingsley|R|Adrian Gonzalez|L|Groundout|S|Cutter|46|2|1|0|12|88
+Chad Billingsley|R|Adrian Gonzalez|L|Groundout|X|Four-Seam Fastball|47|2|2|0|7|93
+Chad Billingsley|R|Yasmani Grandal|L|Single|B|Cutter|48|0|0|1|11|88
+Chad Billingsley|R|Yasmani Grandal|L|Single|B|Changeup|49|1|0|1|13|85
+Chad Billingsley|R|Yasmani Grandal|L|Single|D|Two-Seam Fastball|50|2|0|1|1|89
+Chad Billingsley|R|Yasiel Puig|R|Flyout|B|Two-Seam Fastball|51|0|0|1|12|89
+Chad Billingsley|R|Yasiel Puig|R|Flyout|F|Cutter|52|1|0|1|8|86
+Chad Billingsley|R|Yasiel Puig|R|Flyout|*B|Curveball|53|1|1|1|14|62
+Chad Billingsley|R|Yasiel Puig|R|Flyout|X|Cutter|54|2|1|1|6|88
+Chad Billingsley|R|Andre Ethier|L|Pop Out|F|Changeup|55|0|0|2|7|84
+Chad Billingsley|R|Andre Ethier|L|Pop Out|X|Cutter|56|0|1|2|12|87
+Chad Billingsley|R|Jimmy Rollins|L|Groundout|B|Four-Seam Fastball|57|0|0|0|13|89
+Chad Billingsley|R|Jimmy Rollins|L|Groundout|S|Two-Seam Fastball|58|1|0|0|11|90
+Chad Billingsley|R|Jimmy Rollins|L|Groundout|X|Changeup|59|1|1|0|4|83
+Chad Billingsley|R|Enrique Hernandez|R|Strikeout|C|Cutter|60|0|0|1|4|86
+Chad Billingsley|R|Enrique Hernandez|R|Strikeout|S|Curveball|61|0|1|1|14|63
+Chad Billingsley|R|Enrique Hernandez|R|Strikeout|S|Slider|62|0|2|1|14|77
+Chad Billingsley|R|Joc Pederson|L|Lineout|C|Changeup|63|0|0|2|13|83
+Chad Billingsley|R|Joc Pederson|L|Lineout|B|Cutter|64|0|1|2|12|87
+Chad Billingsley|R|Joc Pederson|L|Lineout|B|Two-Seam Fastball|65|1|1|2|12|90
+Chad Billingsley|R|Joc Pederson|L|Lineout|X|Changeup|66|2|1|2|11|83
+Chad Billingsley|R|Howie Kendrick|R|Groundout|C|Two-Seam Fastball|67|0|0|0|7|89
+Chad Billingsley|R|Howie Kendrick|R|Groundout|X|Cutter|68|0|1|0|14|85
+Chad Billingsley|R|Justin Turner|R|Flyout|C|Curveball|69|0|0|1|2|64
+Chad Billingsley|R|Justin Turner|R|Flyout|B|Curveball|70|0|1|1|14|61
+Chad Billingsley|R|Justin Turner|R|Flyout|B|Four-Seam Fastball|71|1|1|1|13|90
+Chad Billingsley|R|Justin Turner|R|Flyout|F|Cutter|72|2|1|1|5|87
+Chad Billingsley|R|Justin Turner|R|Flyout|F|Four-Seam Fastball|73|2|2|1|12|91
+Chad Billingsley|R|Justin Turner|R|Flyout|X|Cutter|74|2|2|1|5|87
+Chad Billingsley|R|Adrian Gonzalez|L|Single|F|Cutter|75|0|0|2|5|87
+Chad Billingsley|R|Adrian Gonzalez|L|Single|D|Cutter|76|0|1|2|11|87
+Chad Billingsley|R|Yasmani Grandal|L|Home Run|C|Two-Seam Fastball|77|0|0|2|4|89
+Chad Billingsley|R|Yasmani Grandal|L|Home Run|E|Changeup|78|0|1|2|4|83
+Chad Billingsley|R|Yasiel Puig|R|Groundout|S|Four-Seam Fastball|79|0|0|2|5|92
+Chad Billingsley|R|Yasiel Puig|R|Groundout|F|Slider|80|0|1|2|14|77
+Chad Billingsley|R|Yasiel Puig|R|Groundout|B|Four-Seam Fastball|81|0|2|2|11|91
+Chad Billingsley|R|Yasiel Puig|R|Groundout|X|Cutter|82|1|2|2|9|85
+Chad Billingsley|R|Angel Pagan|L|Flyout|F|Four-Seam Fastball|0|0|0|0|5|88
+Chad Billingsley|R|Angel Pagan|L|Flyout|B|Two-Seam Fastball|1|0|1|0|11|88
+Chad Billingsley|R|Angel Pagan|L|Flyout|X|Changeup|2|1|1|0|11|81
+Chad Billingsley|R|Joe Panik|L|Lineout|C|Four-Seam Fastball|3|0|0|1|11|91
+Chad Billingsley|R|Joe Panik|L|Lineout|B|Cutter|4|0|1|1|12|87
+Chad Billingsley|R|Joe Panik|L|Lineout|B|Four-Seam Fastball|5|1|1|1|14|90
+Chad Billingsley|R|Joe Panik|L|Lineout|X|Two-Seam Fastball|6|2|1|1|7|88
+Chad Billingsley|R|Matt Duffy|R|Groundout|B|Four-Seam Fastball|7|0|0|2|14|91
+Chad Billingsley|R|Matt Duffy|R|Groundout|C|Two-Seam Fastball|8|1|0|2|5|88
+Chad Billingsley|R|Matt Duffy|R|Groundout|X|Four-Seam Fastball|9|1|1|2|3|88
+Chad Billingsley|R|Buster Posey|R|Single|C|Four-Seam Fastball|10|0|0|2|9|89
+Chad Billingsley|R|Buster Posey|R|Single|B|Slider|11|0|1|2|14|77
+Chad Billingsley|R|Buster Posey|R|Single|B|Slider|12|1|1|2|14|71
+Chad Billingsley|R|Buster Posey|R|Single|B|Two-Seam Fastball|13|2|1|2|12|89
+Chad Billingsley|R|Buster Posey|R|Single|D|Four-Seam Fastball|14|3|1|2|12|89
+Chad Billingsley|R|Hunter Pence|R|Grounded Into DP|X|Cutter|15|0|0|2|6|85
+Chad Billingsley|R|Brandon Belt|L|Single|B|Cutter|16|0|0|1|12|85
+Chad Billingsley|R|Brandon Belt|L|Single|B|Changeup|17|1|0|1|13|82
+Chad Billingsley|R|Brandon Belt|L|Single|F|Two-Seam Fastball|18|2|0|1|4|87
+Chad Billingsley|R|Brandon Belt|L|Single|D|Cutter|19|2|1|1|3|87
+Chad Billingsley|R|Brandon Crawford|L|Flyout|F|Cutter|20|0|0|1|14|85
+Chad Billingsley|R|Brandon Crawford|L|Flyout|F|Four-Seam Fastball|21|0|1|1|2|89
+Chad Billingsley|R|Brandon Crawford|L|Flyout|B|Four-Seam Fastball|22|0|2|1|11|91
+Chad Billingsley|R|Brandon Crawford|L|Flyout|B|Cutter|23|1|2|1|14|85
+Chad Billingsley|R|Brandon Crawford|L|Flyout|B|Four-Seam Fastball|24|2|2|1|11|92
+Chad Billingsley|R|Brandon Crawford|L|Flyout|X|Four-Seam Fastball|25|3|2|1|6|91
+Chad Billingsley|R|Andrew Susac|R|Strikeout|F|Four-Seam Fastball|26|0|0|2|2|89
+Chad Billingsley|R|Andrew Susac|R|Strikeout|B|Curveball|27|0|1|2|14|65
+Chad Billingsley|R|Andrew Susac|R|Strikeout|S|Cutter|28|1|1|2|3|85
+Chad Billingsley|R|Andrew Susac|R|Strikeout|B|Slider|29|1|2|2|14|77
+Chad Billingsley|R|Andrew Susac|R|Strikeout|B|Four-Seam Fastball|30|2|2|2|14|91
+Chad Billingsley|R|Andrew Susac|R|Strikeout|S|Four-Seam Fastball|31|3|2|2|4|90
+Chad Billingsley|R|Chris Heston|R|Flyout|T|Four-Seam Fastball|32|0|0|0|1|89
+Chad Billingsley|R|Chris Heston|R|Flyout|X|Cutter|33|0|1|0|9|84
+Chad Billingsley|R|Angel Pagan|L|Single|B|Two-Seam Fastball|34|0|0|1|11|88
+Chad Billingsley|R|Angel Pagan|L|Single|B|Four-Seam Fastball|35|1|0|1|11|90
+Chad Billingsley|R|Angel Pagan|L|Single|C|Two-Seam Fastball|36|2|0|1|1|88
+Chad Billingsley|R|Angel Pagan|L|Single|D|Changeup|37|2|1|1|13|82
+Chad Billingsley|R|Joe Panik|L|Lineout|F|Cutter|38|0|0|1|3|86
+Chad Billingsley|R|Joe Panik|L|Lineout|X|Two-Seam Fastball|39|0|1|1|5|88
+Chad Billingsley|R|Matt Duffy|R|Pop Out|S|Cutter|40|0|0|2|14|83
+Chad Billingsley|R|Matt Duffy|R|Pop Out|F|Four-Seam Fastball|41|0|1|2|13|89
+Chad Billingsley|R|Matt Duffy|R|Pop Out|X|Curveball|42|0|2|2|14|66
+Chad Billingsley|R|Buster Posey|R|Single|D|Two-Seam Fastball|43|0|0|0|11|88
+Chad Billingsley|R|Hunter Pence|R|Single|C|Four-Seam Fastball|44|0|0|0|11|88
+Chad Billingsley|R|Hunter Pence|R|Single|C|Cutter|45|0|1|0|9|86
+Chad Billingsley|R|Hunter Pence|R|Single|D|Four-Seam Fastball|46|0|2|0|12|89
+Chad Billingsley|R|Brandon Belt|L|Forceout|F|Four-Seam Fastball|47|0|0|0|3|90
+Chad Billingsley|R|Brandon Belt|L|Forceout|B|Slider|48|0|1|0|13|76
+Chad Billingsley|R|Brandon Belt|L|Forceout|B|Changeup|49|1|1|0|13|83
+Chad Billingsley|R|Brandon Belt|L|Forceout|F|Cutter|50|2|1|0|2|87
+Chad Billingsley|R|Brandon Belt|L|Forceout|F|Two-Seam Fastball|51|2|2|0|3|90
+Chad Billingsley|R|Brandon Belt|L|Forceout|B|Cutter|52|2|2|0|13|86
+Chad Billingsley|R|Brandon Belt|L|Forceout|X|Four-Seam Fastball|53|3|2|0|7|91
+Chad Billingsley|R|Brandon Crawford|L|Single|F|Two-Seam Fastball|54|0|0|1|7|88
+Chad Billingsley|R|Brandon Crawford|L|Single|*B|Cutter|55|0|1|1|14|86
+Chad Billingsley|R|Brandon Crawford|L|Single|E|Cutter|56|1|1|1|5|86
+Chad Billingsley|R|Andrew Susac|R|Home Run|S|Cutter|57|0|0|1|9|84
+Chad Billingsley|R|Andrew Susac|R|Home Run|S|Cutter|58|0|1|1|14|85
+Chad Billingsley|R|Andrew Susac|R|Home Run|B|Four-Seam Fastball|59|0|2|1|12|93
+Chad Billingsley|R|Andrew Susac|R|Home Run|B|Slider|60|1|2|1|14|79
+Chad Billingsley|R|Andrew Susac|R|Home Run|E|Cutter|61|2|2|1|9|83
+Chad Billingsley|R|Chris Heston|R|Strikeout|S|Four-Seam Fastball|62|0|0|1|12|90
+Chad Billingsley|R|Chris Heston|R|Strikeout|B|Cutter|63|0|1|1|14|84
+Chad Billingsley|R|Chris Heston|R|Strikeout|S|Four-Seam Fastball|64|1|1|1|14|91
+Chad Billingsley|R|Chris Heston|R|Strikeout|B|Four-Seam Fastball|65|1|2|1|14|90
+Chad Billingsley|R|Chris Heston|R|Strikeout|B|Four-Seam Fastball|66|2|2|1|12|90
+Chad Billingsley|R|Chris Heston|R|Strikeout|S|Four-Seam Fastball|67|3|2|1|14|89
+Chad Billingsley|R|Angel Pagan|L|Single|B|Slider|68|0|0|2|14|75
+Chad Billingsley|R|Angel Pagan|L|Single|C|Four-Seam Fastball|69|1|0|2|13|88
+Chad Billingsley|R|Angel Pagan|L|Single|B|Cutter|70|1|1|2|12|85
+Chad Billingsley|R|Angel Pagan|L|Single|C|Two-Seam Fastball|71|2|1|2|11|88
+Chad Billingsley|R|Angel Pagan|L|Single|D|Slider|72|2|2|2|13|77
+Chad Billingsley|R|Joe Panik|L|Forceout|C|Cutter|73|0|0|2|6|85
+Chad Billingsley|R|Joe Panik|L|Forceout|X|Changeup|74|0|1|2|13|83
+Chad Billingsley|R|Matt Duffy|R|Grounded Into DP|X|Two-Seam Fastball|75|0|0|0|14|87
+Chad Billingsley|R|Buster Posey|R|Single|B|Slider|76|0|0|2|13|75
+Chad Billingsley|R|Buster Posey|R|Single|B|Changeup|77|1|0|2|14|84
+Chad Billingsley|R|Buster Posey|R|Single|B|Four-Seam Fastball|78|2|0|2|12|91
+Chad Billingsley|R|Buster Posey|R|Single|C|Four-Seam Fastball|79|3|0|2|9|90
+Chad Billingsley|R|Buster Posey|R|Single|D|Cutter|80|3|1|2|8|83
+Chad Billingsley|R|Hunter Pence|R|Single|F|Cutter|81|0|0|2|14|86
+Chad Billingsley|R|Hunter Pence|R|Single|S|Cutter|82|0|1|2|9|85
+Chad Billingsley|R|Hunter Pence|R|Single|F|Slider|83|0|2|2|5|77
+Chad Billingsley|R|Hunter Pence|R|Single|*B|Slider|84|0|2|2|14|77
+Chad Billingsley|R|Hunter Pence|R|Single|F|Changeup|85|1|2|2|6|83
+Chad Billingsley|R|Hunter Pence|R|Single|D|Four-Seam Fastball|86|1|2|2|6|92
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|91
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|B|Two-Seam Fastball|1|0|1|0|11|90
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|B|Four-Seam Fastball|2|1|1|0|12|91
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|F|Two-Seam Fastball|3|2|1|0|4|90
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|B|Two-Seam Fastball|4|2|2|0|11|90
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|X|Four-Seam Fastball|5|3|2|0|3|91
+Chad Billingsley|R|Martin Prado|R|Lineout|C|Two-Seam Fastball|6|0|0|1|3|90
+Chad Billingsley|R|Martin Prado|R|Lineout|S|Four-Seam Fastball|7|0|1|1|12|92
+Chad Billingsley|R|Martin Prado|R|Lineout|F|Four-Seam Fastball|8|0|2|1|12|92
+Chad Billingsley|R|Martin Prado|R|Lineout|B|Slider|9|0|2|1|11|75
+Chad Billingsley|R|Martin Prado|R|Lineout|X|Slider|10|1|2|1|4|75
+Chad Billingsley|R|Christian Yelich|L|Lineout|S|Four-Seam Fastball|11|0|0|2|7|90
+Chad Billingsley|R|Christian Yelich|L|Lineout|F|Four-Seam Fastball|12|0|1|2|4|90
+Chad Billingsley|R|Christian Yelich|L|Lineout|B|Four-Seam Fastball|13|0|2|2|13|91
+Chad Billingsley|R|Christian Yelich|L|Lineout|B|Changeup|14|1|2|2|13|85
+Chad Billingsley|R|Christian Yelich|L|Lineout|B|Slider|15|2|2|2|11|76
+Chad Billingsley|R|Christian Yelich|L|Lineout|X|Two-Seam Fastball|16|3|2|2|4|90
+Chad Billingsley|R|Justin Bour|L|Groundout|B|Two-Seam Fastball|17|0|0|0|11|88
+Chad Billingsley|R|Justin Bour|L|Groundout|B|Four-Seam Fastball|18|1|0|0|13|89
+Chad Billingsley|R|Justin Bour|L|Groundout|C|Changeup|19|2|0|0|7|83
+Chad Billingsley|R|Justin Bour|L|Groundout|X|Two-Seam Fastball|20|2|1|0|11|88
+Chad Billingsley|R|Adeiny Hechavarria|R|Single|S|Four-Seam Fastball|21|0|0|1|2|90
+Chad Billingsley|R|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|22|0|1|1|2|91
+Chad Billingsley|R|Adeiny Hechavarria|R|Single|B|Four-Seam Fastball|23|0|2|1|11|92
+Chad Billingsley|R|Adeiny Hechavarria|R|Single|D|Two-Seam Fastball|24|1|2|1|12|89
+Chad Billingsley|R|Derek Dietrich|L|Grounded Into DP|B|Changeup|25|0|0|1|11|83
+Chad Billingsley|R|Derek Dietrich|L|Grounded Into DP|B|Two-Seam Fastball|26|1|0|1|13|89
+Chad Billingsley|R|Derek Dietrich|L|Grounded Into DP|C|Two-Seam Fastball|27|2|0|1|13|88
+Chad Billingsley|R|Derek Dietrich|L|Grounded Into DP|X|Two-Seam Fastball|28|2|1|1|2|89
+Chad Billingsley|R|J.T. Realmuto|R|Double|B|Four-Seam Fastball|29|0|0|0|12|90
+Chad Billingsley|R|J.T. Realmuto|R|Double|C|Two-Seam Fastball|30|1|0|0|6|90
+Chad Billingsley|R|J.T. Realmuto|R|Double|B|Four-Seam Fastball|31|1|1|0|12|89
+Chad Billingsley|R|J.T. Realmuto|R|Double|D|Four-Seam Fastball|32|2|1|0|5|90
+Chad Billingsley|R|Cole Gillespie|R|Double Play|C|Two-Seam Fastball|33|0|0|0|9|90
+Chad Billingsley|R|Cole Gillespie|R|Double Play|*B|Curveball|34|0|1|0|14|67
+Chad Billingsley|R|Cole Gillespie|R|Double Play|F|Two-Seam Fastball|35|1|1|0|11|90
+Chad Billingsley|R|Cole Gillespie|R|Double Play|X|Changeup|36|1|2|0|5|85
+Chad Billingsley|R|Tom Koehler|R|Strikeout|F|Two-Seam Fastball|37|0|0|2|5|90
+Chad Billingsley|R|Tom Koehler|R|Strikeout|B|Four-Seam Fastball|38|0|1|2|11|91
+Chad Billingsley|R|Tom Koehler|R|Strikeout|B|Two-Seam Fastball|39|1|1|2|11|90
+Chad Billingsley|R|Tom Koehler|R|Strikeout|F|Four-Seam Fastball|40|2|1|2|11|90
+Chad Billingsley|R|Tom Koehler|R|Strikeout|B|Four-Seam Fastball|41|2|2|2|12|91
+Chad Billingsley|R|Tom Koehler|R|Strikeout|S|Four-Seam Fastball|42|3|2|2|11|88
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|B|Two-Seam Fastball|43|0|0|0|11|87
+Chad Billingsley|R|Ichiro Suzuki|L|Groundout|X|Changeup|44|1|0|0|13|83
+Chad Billingsley|R|Martin Prado|R|Double|B|Four-Seam Fastball|45|0|0|1|11|90
+Chad Billingsley|R|Martin Prado|R|Double|C|Changeup|46|1|0|1|4|82
+Chad Billingsley|R|Martin Prado|R|Double|D|Curveball|47|1|1|1|1|63
+Chad Billingsley|R|Christian Yelich|L|Flyout|F|Four-Seam Fastball|48|0|0|1|6|91
+Chad Billingsley|R|Christian Yelich|L|Flyout|B|Four-Seam Fastball|49|0|1|1|12|91
+Chad Billingsley|R|Christian Yelich|L|Flyout|F|Two-Seam Fastball|50|1|1|1|14|88
+Chad Billingsley|R|Christian Yelich|L|Flyout|*B|Changeup|51|1|2|1|14|83
+Chad Billingsley|R|Christian Yelich|L|Flyout|X|Slider|52|2|2|1|4|75
+Chad Billingsley|R|Justin Bour|L|Flyout|C|Changeup|53|0|0|2|13|84
+Chad Billingsley|R|Justin Bour|L|Flyout|S|Four-Seam Fastball|54|0|1|2|1|92
+Chad Billingsley|R|Justin Bour|L|Flyout|X|Changeup|55|0|2|2|13|83
+Chad Billingsley|R|Adeiny Hechavarria|R|Groundout|X|Slider|56|0|0|0|5|73
+Chad Billingsley|R|Derek Dietrich|L|Double|B|Two-Seam Fastball|57|0|0|1|11|86
+Chad Billingsley|R|Derek Dietrich|L|Double|F|Four-Seam Fastball|58|1|0|1|4|89
+Chad Billingsley|R|Derek Dietrich|L|Double|B|Changeup|59|1|1|1|11|83
+Chad Billingsley|R|Derek Dietrich|L|Double|D|Two-Seam Fastball|60|2|1|1|11|89
+Chad Billingsley|R|J.T. Realmuto|R|Flyout|X|Two-Seam Fastball|61|0|0|1|5|89
+Chad Billingsley|R|Cole Gillespie|R|Walk|B|Slider|62|0|0|2|14|76
+Chad Billingsley|R|Cole Gillespie|R|Walk|B|Curveball|63|1|0|2|14|68
+Chad Billingsley|R|Cole Gillespie|R|Walk|B|Slider|64|2|0|2|13|74
+Chad Billingsley|R|Cole Gillespie|R|Walk|B|Four-Seam Fastball|65|3|0|2|14|89
+Chad Billingsley|R|Tom Koehler|R|Strikeout|S|Four-Seam Fastball|66|0|0|2|3|89
+Chad Billingsley|R|Tom Koehler|R|Strikeout|S|Slider|67|0|1|2|14|75
+Chad Billingsley|R|Tom Koehler|R|Strikeout|B|Slider|68|0|2|2|14|75
+Chad Billingsley|R|Tom Koehler|R|Strikeout|C|Four-Seam Fastball|69|1|2|2|12|90

@@ -1,0 +1,677 @@
+Frank Garces|L|Scott Van Slyke|R|Intent Walk|B|Four-Seam Fastball|0|0|0|2|12|92
+Frank Garces|L|Scott Van Slyke|R|Intent Walk|B|Four-Seam Fastball|1|1|0|2|14|89
+Frank Garces|L|Scott Van Slyke|R|Intent Walk|I|Intentional Ball|2|2|0|2|12|61
+Frank Garces|L|Scott Van Slyke|R|Intent Walk|I|Intentional Ball|3|2|1|2|12|57
+Frank Garces|L|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|0|0|0|1|11|91
+Frank Garces|L|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|1|1|0|1|13|89
+Frank Garces|L|Adrian Gonzalez|L|Single|C|Curveball|2|2|0|1|4|76
+Frank Garces|L|Adrian Gonzalez|L|Single|B|Curveball|3|2|1|1|11|79
+Frank Garces|L|Adrian Gonzalez|L|Single|E|Curveball|4|3|1|1|3|76
+Frank Garces|L|Howie Kendrick|R|Groundout|B|Changeup|5|0|0|1|14|80
+Frank Garces|L|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|6|1|0|1|8|92
+Frank Garces|L|Yasmani Grandal|R|Lineout|F|Four-Seam Fastball|7|0|0|2|6|91
+Frank Garces|L|Yasmani Grandal|R|Lineout|B|Curveball|8|0|1|2|8|78
+Frank Garces|L|Yasmani Grandal|R|Lineout|X|Four-Seam Fastball|9|1|1|2|8|91
+Frank Garces|L|Carl Crawford|L|Strikeout|B|Curveball|10|0|0|0|13|79
+Frank Garces|L|Carl Crawford|L|Strikeout|B|Four-Seam Fastball|11|1|0|0|13|92
+Frank Garces|L|Carl Crawford|L|Strikeout|B|Curveball|12|2|0|0|13|78
+Frank Garces|L|Carl Crawford|L|Strikeout|C|Four-Seam Fastball|13|3|0|0|1|92
+Frank Garces|L|Carl Crawford|L|Strikeout|C|Four-Seam Fastball|14|3|1|0|6|92
+Frank Garces|L|Carl Crawford|L|Strikeout|F|Four-Seam Fastball|15|3|2|0|11|93
+Frank Garces|L|Carl Crawford|L|Strikeout|F|Four-Seam Fastball|16|3|2|0|11|93
+Frank Garces|L|Carl Crawford|L|Strikeout|S|Four-Seam Fastball|17|3|2|0|3|92
+Frank Garces|L|Scott Van Slyke|R|Groundout|X|Four-Seam Fastball|18|0|0|1|4|93
+Frank Garces|L|Norichika Aoki|L|Single|F|Four-Seam Fastball|0|0|0|2|2|91
+Frank Garces|L|Norichika Aoki|L|Single|B|Curveball|1|0|1|2|11|79
+Frank Garces|L|Norichika Aoki|L|Single|C|Curveball|2|1|1|2|5|76
+Frank Garces|L|Norichika Aoki|L|Single|F|Four-Seam Fastball|3|1|2|2|11|92
+Frank Garces|L|Norichika Aoki|L|Single|B|Curveball|4|1|2|2|13|80
+Frank Garces|L|Norichika Aoki|L|Single|F|Curveball|5|2|2|2|5|78
+Frank Garces|L|Norichika Aoki|L|Single|F|Four-Seam Fastball|6|2|2|2|2|93
+Frank Garces|L|Norichika Aoki|L|Single|F|Curveball|7|2|2|2|11|79
+Frank Garces|L|Norichika Aoki|L|Single|D|Four-Seam Fastball|8|2|2|2|11|92
+Frank Garces|L|Joe Panik|L|Flyout|C|Four-Seam Fastball|9|0|0|2|11|91
+Frank Garces|L|Joe Panik|L|Flyout|C|Four-Seam Fastball|10|0|1|2|13|92
+Frank Garces|L|Joe Panik|L|Flyout|F|Curveball|11|0|2|2|13|80
+Frank Garces|L|Joe Panik|L|Flyout|X|Curveball|12|0|2|2|1|78
+Frank Garces|L|Justin Maxwell|R|Double|E|Four-Seam Fastball|13|0|0|0|4|92
+Frank Garces|L|Buster Posey|R|Flyout|X|Four-Seam Fastball|14|0|0|0|5|91
+Frank Garces|L|Joaquin Arias|R|Groundout|B|Four-Seam Fastball|15|0|0|1|13|91
+Frank Garces|L|Joaquin Arias|R|Groundout|*B|Changeup|16|1|0|1|14|81
+Frank Garces|L|Joaquin Arias|R|Groundout|X|Four-Seam Fastball|17|2|0|1|8|92
+Frank Garces|L|David Peralta|L|Strikeout|B|Curveball|0|0|0|2|12|74
+Frank Garces|L|David Peralta|L|Strikeout|C|Curveball|1|1|0|2|12|72
+Frank Garces|L|David Peralta|L|Strikeout|B|Four-Seam Fastball|2|1|1|2|13|92
+Frank Garces|L|David Peralta|L|Strikeout|B|Four-Seam Fastball|3|2|1|2|13|92
+Frank Garces|L|David Peralta|L|Strikeout|C|Four-Seam Fastball|4|3|1|2|13|90
+Frank Garces|L|David Peralta|L|Strikeout|W|Curveball|5|3|2|2|13|74
+Frank Garces|L|Nick Ahmed|R|Lineout|C|Four-Seam Fastball|6|0|0|0|3|90
+Frank Garces|L|Nick Ahmed|R|Lineout|C|Changeup|7|0|1|0|8|81
+Frank Garces|L|Nick Ahmed|R|Lineout|X|Four-Seam Fastball|8|0|2|0|12|90
+Frank Garces|L|Jake Lamb|L|Walk|B|Four-Seam Fastball|9|0|0|1|13|92
+Frank Garces|L|Jake Lamb|L|Walk|B|Curveball|10|1|0|1|13|76
+Frank Garces|L|Jake Lamb|L|Walk|B|Four-Seam Fastball|11|2|0|1|11|90
+Frank Garces|L|Jake Lamb|L|Walk|C|Four-Seam Fastball|12|3|0|1|7|89
+Frank Garces|L|Jake Lamb|L|Walk|S|Four-Seam Fastball|13|3|1|1|12|91
+Frank Garces|L|Jake Lamb|L|Walk|B|Curveball|14|3|2|1|12|75
+Frank Garces|L|Aaron Hill|R|Strikeout|B|Changeup|15|0|0|1|13|80
+Frank Garces|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|16|1|0|1|7|90
+Frank Garces|L|Aaron Hill|R|Strikeout|B|Changeup|17|1|1|1|13|81
+Frank Garces|L|Aaron Hill|R|Strikeout|F|Four-Seam Fastball|18|2|1|1|13|90
+Frank Garces|L|Aaron Hill|R|Strikeout|S|Curveball|19|2|2|1|13|77
+Frank Garces|L|Tuffy Gosewisch|R|Pop Out|C|Curveball|20|0|0|2|4|76
+Frank Garces|L|Tuffy Gosewisch|R|Pop Out|B|Four-Seam Fastball|21|0|1|2|11|91
+Frank Garces|L|Tuffy Gosewisch|R|Pop Out|X|Four-Seam Fastball|22|1|1|2|13|90
+Frank Garces|L|Charlie Blackmon|L|Groundout|B|Two-Seam Fastball|0|0|0|2|12|90
+Frank Garces|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|1|1|0|2|11|89
+Frank Garces|L|Charlie Blackmon|L|Groundout|F|Two-Seam Fastball|2|2|0|2|11|91
+Frank Garces|L|Charlie Blackmon|L|Groundout|B|Two-Seam Fastball|3|2|1|2|12|91
+Frank Garces|L|Charlie Blackmon|L|Groundout|X|Two-Seam Fastball|4|3|1|2|1|90
+Frank Garces|L|Drew Stubbs|R|Pop Out|B|Four-Seam Fastball|5|0|0|0|12|90
+Frank Garces|L|Drew Stubbs|R|Pop Out|B|Curveball|6|1|0|0|13|76
+Frank Garces|L|Drew Stubbs|R|Pop Out|F|Four-Seam Fastball|7|2|0|0|6|89
+Frank Garces|L|Drew Stubbs|R|Pop Out|X|Four-Seam Fastball|8|2|1|0|2|90
+Frank Garces|L|Wilin Rosario|R|Double|B|Curveball|9|0|0|1|14|78
+Frank Garces|L|Wilin Rosario|R|Double|F|Four-Seam Fastball|10|1|0|1|4|91
+Frank Garces|L|Wilin Rosario|R|Double|B|Curveball|11|1|1|1|13|77
+Frank Garces|L|Wilin Rosario|R|Double|D|Four-Seam Fastball|12|2|1|1|4|92
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|13|0|0|1|1|93
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|14|1|0|1|4|92
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|15|1|1|1|13|93
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|F|Four-Seam Fastball|16|2|1|1|13|92
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|F|Four-Seam Fastball|17|2|2|1|3|93
+Frank Garces|L|Carlos Gonzalez|L|Strikeout|S|Curveball|18|2|2|1|13|80
+Frank Garces|L|Michael McKenry|R|Walk|*B|Curveball|19|0|0|2|13|79
+Frank Garces|L|Michael McKenry|R|Walk|B|Four-Seam Fastball|20|1|0|2|13|93
+Frank Garces|L|Michael McKenry|R|Walk|*B|Changeup|21|2|0|2|14|84
+Frank Garces|L|Michael McKenry|R|Walk|C|Four-Seam Fastball|22|3|0|2|6|91
+Frank Garces|L|Michael McKenry|R|Walk|*B|Changeup|23|3|1|2|13|82
+Frank Garces|L|DJ LeMahieu|R|Flyout|X|Two-Seam Fastball|24|0|0|2|1|91
+Frank Garces|L|Jimmy Rollins|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|89
+Frank Garces|L|Jimmy Rollins|R|Flyout|B|Changeup|1|1|0|0|13|80
+Frank Garces|L|Jimmy Rollins|R|Flyout|F|Four-Seam Fastball|2|2|0|0|5|90
+Frank Garces|L|Jimmy Rollins|R|Flyout|X|Four-Seam Fastball|3|2|1|0|5|91
+Frank Garces|L|Andre Ethier|L|Single|C|Curveball|4|0|0|1|8|77
+Frank Garces|L|Andre Ethier|L|Single|B|Four-Seam Fastball|5|0|1|1|11|92
+Frank Garces|L|Andre Ethier|L|Single|B|Curveball|6|1|1|1|13|77
+Frank Garces|L|Andre Ethier|L|Single|B|Four-Seam Fastball|7|2|1|1|12|92
+Frank Garces|L|Andre Ethier|L|Single|S|Four-Seam Fastball|8|3|1|1|5|91
+Frank Garces|L|Andre Ethier|L|Single|D|Four-Seam Fastball|9|3|2|1|9|92
+Frank Garces|L|Adrian Gonzalez|L|Pop Out|F|Four-Seam Fastball|10|0|0|1|8|92
+Frank Garces|L|Adrian Gonzalez|L|Pop Out|S|Four-Seam Fastball|11|0|1|1|13|93
+Frank Garces|L|Adrian Gonzalez|L|Pop Out|X|Curveball|12|0|2|1|8|77
+Frank Garces|L|Gregor Blanco|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|89
+Frank Garces|L|Gregor Blanco|L|Strikeout|F|Curveball|1|0|1|0|4|77
+Frank Garces|L|Gregor Blanco|L|Strikeout|F|Curveball|2|0|2|0|13|80
+Frank Garces|L|Gregor Blanco|L|Strikeout|W|Curveball|3|0|2|0|13|75
+Frank Garces|L|Brandon Belt|L|Walk|B|Curveball|4|0|0|1|13|75
+Frank Garces|L|Brandon Belt|L|Walk|F|Four-Seam Fastball|5|1|0|1|7|92
+Frank Garces|L|Brandon Belt|L|Walk|C|Four-Seam Fastball|6|1|1|1|12|92
+Frank Garces|L|Brandon Belt|L|Walk|B|Four-Seam Fastball|7|1|2|1|11|92
+Frank Garces|L|Brandon Belt|L|Walk|F|Curveball|8|2|2|1|1|76
+Frank Garces|L|Brandon Belt|L|Walk|B|Curveball|9|2|2|1|13|78
+Frank Garces|L|Brandon Belt|L|Walk|B|Four-Seam Fastball|10|3|2|1|13|90
+Frank Garces|L|Joaquin Arias|R|Pop Out|F|Changeup|11|0|0|1|13|80
+Frank Garces|L|Joaquin Arias|R|Pop Out|F|Four-Seam Fastball|12|0|1|1|6|91
+Frank Garces|L|Joaquin Arias|R|Pop Out|X|Four-Seam Fastball|13|0|2|1|11|89
+Frank Garces|L|Justin Maxwell|R|Groundout|B|Four-Seam Fastball|14|0|0|2|13|93
+Frank Garces|L|Justin Maxwell|R|Groundout|B|Four-Seam Fastball|15|1|0|2|13|90
+Frank Garces|L|Justin Maxwell|R|Groundout|X|Four-Seam Fastball|16|2|0|2|9|91
+Frank Garces|L|Ender Inciarte|L|Walk|B|Curveball|0|0|0|1|12|72
+Frank Garces|L|Ender Inciarte|L|Walk|F|Curveball|1|1|0|1|3|72
+Frank Garces|L|Ender Inciarte|L|Walk|S|Curveball|2|1|1|1|13|74
+Frank Garces|L|Ender Inciarte|L|Walk|B|N/A|3|1|2|1|0|0
+Frank Garces|L|Ender Inciarte|L|Walk|B|Four-Seam Fastball|4|2|2|1|0|0
+Frank Garces|L|Ender Inciarte|L|Walk|F|N/A|5|3|2|1|0|0
+Frank Garces|L|Ender Inciarte|L|Walk|B|Curveball|6|3|2|1|12|74
+Frank Garces|L|Logan Morrison|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|90
+Frank Garces|L|Logan Morrison|L|Walk|C|Four-Seam Fastball|1|1|0|0|11|90
+Frank Garces|L|Logan Morrison|L|Walk|B|Curveball|2|1|1|0|13|78
+Frank Garces|L|Logan Morrison|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|93
+Frank Garces|L|Logan Morrison|L|Walk|F|Four-Seam Fastball|4|3|1|0|5|90
+Frank Garces|L|Logan Morrison|L|Walk|F|Four-Seam Fastball|5|3|2|0|12|91
+Frank Garces|L|Logan Morrison|L|Walk|B|Curveball|6|3|2|0|13|76
+Frank Garces|L|Dustin Ackley|L|Sac Bunt|X|Curveball|7|0|0|0|13|77
+Frank Garces|L|Mike Zunino|R|Home Run|C|Curveball|8|0|0|1|4|78
+Frank Garces|L|Mike Zunino|R|Home Run|B|Four-Seam Fastball|9|0|1|1|11|92
+Frank Garces|L|Mike Zunino|R|Home Run|S|Curveball|10|1|1|1|13|79
+Frank Garces|L|Mike Zunino|R|Home Run|E|Curveball|11|1|2|1|1|79
+Frank Garces|L|Chris Taylor|R|Lineout|X|Four-Seam Fastball|12|0|0|1|9|91
+Frank Garces|L|Justin Ruggiano|R|Home Run|F|Four-Seam Fastball|13|0|0|2|7|92
+Frank Garces|L|Justin Ruggiano|R|Home Run|B|Changeup|14|0|1|2|13|85
+Frank Garces|L|Justin Ruggiano|R|Home Run|E|Four-Seam Fastball|15|1|1|2|4|92
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|F|Four-Seam Fastball|16|0|0|2|7|90
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|B|Curveball|17|0|1|2|13|81
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|C|Four-Seam Fastball|18|1|1|2|9|92
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|F|Curveball|19|1|2|2|13|79
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|B|Curveball|20|1|2|2|13|79
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|B|Four-Seam Fastball|21|2|2|2|12|92
+Frank Garces|L|Rickie Weeks Jr.|R|Strikeout|C|Four-Seam Fastball|22|3|2|2|8|89
+Frank Garces|L|Willie Bloomquist|R|Lineout|B|Curveball|23|0|0|0|13|76
+Frank Garces|L|Willie Bloomquist|R|Lineout|X|Four-Seam Fastball|24|1|0|0|11|91
+Frank Garces|L|Nelson Cruz|R|Home Run|B|Four-Seam Fastball|25|0|0|1|12|91
+Frank Garces|L|Nelson Cruz|R|Home Run|E|Four-Seam Fastball|26|1|0|1|4|91
+Frank Garces|L|Kyle Seager|L|Flyout|C|Four-Seam Fastball|27|0|0|1|5|91
+Frank Garces|L|Kyle Seager|L|Flyout|F|Curveball|28|0|1|1|8|79
+Frank Garces|L|Kyle Seager|L|Flyout|X|Four-Seam Fastball|29|0|2|1|4|93
+Frank Garces|L|Logan Morrison|L|Flyout|B|Changeup|30|0|0|2|14|83
+Frank Garces|L|Logan Morrison|L|Flyout|B|Four-Seam Fastball|31|1|0|2|13|92
+Frank Garces|L|Logan Morrison|L|Flyout|X|Four-Seam Fastball|32|2|0|2|13|92
+Frank Garces|L|Denard Span|L|Groundout|F|Four-Seam Fastball|0|0|0|0|4|88
+Frank Garces|L|Denard Span|L|Groundout|B|Four-Seam Fastball|1|0|1|0|12|91
+Frank Garces|L|Denard Span|L|Groundout|C|Curveball|2|1|1|0|11|73
+Frank Garces|L|Denard Span|L|Groundout|B|Curveball|3|1|2|0|11|78
+Frank Garces|L|Denard Span|L|Groundout|X|Four-Seam Fastball|4|2|2|0|11|91
+Frank Garces|L|Yunel Escobar|R|Single|D|Four-Seam Fastball|5|0|0|1|8|92
+Frank Garces|L|Tyler Moore|R|Single|B|Four-Seam Fastball|6|0|0|1|12|91
+Frank Garces|L|Tyler Moore|R|Single|C|Changeup|7|1|0|1|6|80
+Frank Garces|L|Tyler Moore|R|Single|D|Four-Seam Fastball|8|1|1|1|13|89
+Frank Garces|L|Bryce Harper|L|Walk|*B|Curveball|9|0|0|1|13|76
+Frank Garces|L|Bryce Harper|L|Walk|B|Curveball|10|1|0|1|13|76
+Frank Garces|L|Bryce Harper|L|Walk|B|Four-Seam Fastball|11|2|0|1|13|90
+Frank Garces|L|Bryce Harper|L|Walk|B|Four-Seam Fastball|12|3|0|1|13|90
+Frank Garces|L|Ryan Zimmerman|R|Sac Fly|S|Curveball|13|0|0|1|13|78
+Frank Garces|L|Ryan Zimmerman|R|Sac Fly|C|Curveball|14|0|1|1|6|79
+Frank Garces|L|Ryan Zimmerman|R|Sac Fly|*B|Curveball|15|0|2|1|13|79
+Frank Garces|L|Ryan Zimmerman|R|Sac Fly|E|Four-Seam Fastball|16|1|2|1|8|92
+Frank Garces|L|Wilson Ramos|R|Forceout|C|Changeup|17|0|0|2|9|84
+Frank Garces|L|Wilson Ramos|R|Forceout|X|Four-Seam Fastball|18|0|1|2|11|92
+Frank Garces|L|Ian Desmond|R|Flyout|C|Curveball|19|0|0|0|3|73
+Frank Garces|L|Ian Desmond|R|Flyout|B|Four-Seam Fastball|20|0|1|0|13|90
+Frank Garces|L|Ian Desmond|R|Flyout|B|Changeup|21|1|1|0|13|82
+Frank Garces|L|Ian Desmond|R|Flyout|F|Four-Seam Fastball|22|2|1|0|4|89
+Frank Garces|L|Ian Desmond|R|Flyout|X|Curveball|23|2|2|0|14|77
+Frank Garces|L|Danny Espinosa|R|Single|D|Four-Seam Fastball|24|0|0|1|9|91
+Frank Garces|L|Dan Uggla|R|Strikeout|C|Four-Seam Fastball|25|0|0|1|11|89
+Frank Garces|L|Dan Uggla|R|Strikeout|B|Changeup|26|0|1|1|8|83
+Frank Garces|L|Dan Uggla|R|Strikeout|S|Changeup|27|1|1|1|14|82
+Frank Garces|L|Dan Uggla|R|Strikeout|B|Four-Seam Fastball|28|1|2|1|13|92
+Frank Garces|L|Dan Uggla|R|Strikeout|S|Curveball|29|2|2|1|4|80
+Frank Garces|L|Denard Span|L|Single|E|Curveball|30|0|0|2|8|76
+Frank Garces|L|Yunel Escobar|R|Strikeout|C|Changeup|31|0|0|2|12|84
+Frank Garces|L|Yunel Escobar|R|Strikeout|*B|Changeup|32|0|1|2|13|84
+Frank Garces|L|Yunel Escobar|R|Strikeout|C|Curveball|33|1|1|2|13|76
+Frank Garces|L|Yunel Escobar|R|Strikeout|S|Curveball|34|1|2|2|13|80
+Frank Garces|L|Tyler Moore|R|Pop Out|B|Changeup|35|0|0|0|8|81
+Frank Garces|L|Tyler Moore|R|Pop Out|X|Four-Seam Fastball|36|1|0|0|7|92
+Frank Garces|L|Bryce Harper|L|Single|B|Four-Seam Fastball|37|0|0|1|13|92
+Frank Garces|L|Bryce Harper|L|Single|B|Four-Seam Fastball|38|1|0|1|11|92
+Frank Garces|L|Bryce Harper|L|Single|C|Four-Seam Fastball|39|2|0|1|1|91
+Frank Garces|L|Bryce Harper|L|Single|F|Four-Seam Fastball|40|2|1|1|12|91
+Frank Garces|L|Bryce Harper|L|Single|D|Four-Seam Fastball|41|2|2|1|1|92
+Frank Garces|L|Michael A. Taylor|R|Grounded Into DP|X|Changeup|42|0|0|1|5|82
+Frank Garces|L|Bryce Harper|L|Single|C|Curveball|0|0|0|0|7|73
+Frank Garces|L|Bryce Harper|L|Single|B|Curveball|1|0|1|0|13|78
+Frank Garces|L|Bryce Harper|L|Single|C|Curveball|2|1|1|0|9|76
+Frank Garces|L|Bryce Harper|L|Single|B|Curveball|3|1|2|0|11|78
+Frank Garces|L|Bryce Harper|L|Single|E|Curveball|4|2|2|0|8|78
+Frank Garces|L|Joc Pederson|L|Strikeout|B|Curveball|0|0|0|0|13|75
+Frank Garces|L|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|8|91
+Frank Garces|L|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|4|92
+Frank Garces|L|Joc Pederson|L|Strikeout|S|Curveball|3|1|2|0|13|79
+Frank Garces|L|Jimmy Rollins|R|Pop Out|B|Changeup|4|0|0|1|12|80
+Frank Garces|L|Jimmy Rollins|R|Pop Out|B|Four-Seam Fastball|5|1|0|1|14|88
+Frank Garces|L|Jimmy Rollins|R|Pop Out|S|Four-Seam Fastball|6|2|0|1|2|92
+Frank Garces|L|Jimmy Rollins|R|Pop Out|B|Four-Seam Fastball|7|2|1|1|13|91
+Frank Garces|L|Jimmy Rollins|R|Pop Out|X|Four-Seam Fastball|8|3|1|1|6|88
+Frank Garces|L|Howie Kendrick|R|Flyout|B|Curveball|9|0|0|2|13|78
+Frank Garces|L|Howie Kendrick|R|Flyout|B|Four-Seam Fastball|10|1|0|2|12|91
+Frank Garces|L|Howie Kendrick|R|Flyout|C|Four-Seam Fastball|11|2|0|2|6|90
+Frank Garces|L|Howie Kendrick|R|Flyout|X|Curveball|12|2|1|2|9|72
+Frank Garces|L|Kole Calhoun|L|Groundout|B|Curveball|0|0|0|0|12|76
+Frank Garces|L|Kole Calhoun|L|Groundout|C|Four-Seam Fastball|1|1|0|0|7|93
+Frank Garces|L|Kole Calhoun|L|Groundout|S|Curveball|2|1|1|0|13|76
+Frank Garces|L|Kole Calhoun|L|Groundout|X|Curveball|3|1|2|0|13|80
+Frank Garces|L|Corey Hart|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|90
+Frank Garces|L|Corey Hart|R|Lineout|B|Changeup|1|1|0|0|13|81
+Frank Garces|L|Corey Hart|R|Lineout|B|Four-Seam Fastball|2|2|0|0|14|91
+Frank Garces|L|Corey Hart|R|Lineout|C|Four-Seam Fastball|3|3|0|0|9|88
+Frank Garces|L|Corey Hart|R|Lineout|X|Four-Seam Fastball|4|3|1|0|11|90
+Frank Garces|L|Gregory Polanco|L|Pop Out|B|Four-Seam Fastball|5|0|0|1|13|91
+Frank Garces|L|Gregory Polanco|L|Pop Out|B|Curveball|6|1|0|1|13|76
+Frank Garces|L|Gregory Polanco|L|Pop Out|X|Four-Seam Fastball|7|2|0|1|8|91
+Frank Garces|L|Francisco Cervelli|R|Single|D|Four-Seam Fastball|8|0|0|2|5|91
+Frank Garces|L|Sean Rodriguez|R|Forceout|S|Changeup|9|0|0|2|5|81
+Frank Garces|L|Sean Rodriguez|R|Forceout|B|Changeup|10|0|1|2|13|83
+Frank Garces|L|Sean Rodriguez|R|Forceout|S|Four-Seam Fastball|11|1|1|2|5|91
+Frank Garces|L|Sean Rodriguez|R|Forceout|F|Four-Seam Fastball|12|1|2|2|11|91
+Frank Garces|L|Sean Rodriguez|R|Forceout|F|Curveball|13|1|2|2|1|78
+Frank Garces|L|Sean Rodriguez|R|Forceout|X|Changeup|14|1|2|2|14|83
+Frank Garces|L|Gregory Polanco|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|88
+Frank Garces|L|Gregory Polanco|L|Groundout|F|Curveball|1|0|1|0|13|75
+Frank Garces|L|Gregory Polanco|L|Groundout|B|Curveball|2|0|2|0|2|75
+Frank Garces|L|Gregory Polanco|L|Groundout|X|Two-Seam Fastball|3|1|2|0|1|90
+Frank Garces|L|Neil Walker|R|Groundout|F|Changeup|4|0|0|1|9|80
+Frank Garces|L|Neil Walker|R|Groundout|X|Changeup|5|0|1|1|14|83
+Frank Garces|L|Neil Walker|R|Flyout|F|Changeup|0|0|0|2|9|81
+Frank Garces|L|Neil Walker|R|Flyout|B|Two-Seam Fastball|1|0|1|2|11|90
+Frank Garces|L|Neil Walker|R|Flyout|X|Changeup|2|1|1|2|14|79
+Frank Garces|L|Pedro Alvarez|L|Strikeout|C|Four-Seam Fastball|3|0|0|0|7|90
+Frank Garces|L|Pedro Alvarez|L|Strikeout|C|Four-Seam Fastball|4|0|1|0|13|92
+Frank Garces|L|Pedro Alvarez|L|Strikeout|F|Curveball|5|0|2|0|11|78
+Frank Garces|L|Pedro Alvarez|L|Strikeout|S|Curveball|6|0|2|0|13|78
+Frank Garces|L|Lucas Duda|L|Strikeout|C|Curveball|0|0|0|1|13|75
+Frank Garces|L|Lucas Duda|L|Strikeout|C|Curveball|1|0|1|1|13|76
+Frank Garces|L|Lucas Duda|L|Strikeout|S|Curveball|2|0|2|1|13|76
+Frank Garces|L|Skip Schumaker|L|Double|B|Curveball|0|0|0|2|13|76
+Frank Garces|L|Skip Schumaker|L|Double|C|Four-Seam Fastball|1|1|0|2|13|92
+Frank Garces|L|Skip Schumaker|L|Double|C|Four-Seam Fastball|2|1|1|2|7|91
+Frank Garces|L|Skip Schumaker|L|Double|D|Curveball|3|1|2|2|1|80
+Frank Garces|L|Tucker Barnhart|R|Lineout|S|Changeup|4|0|0|2|8|83
+Frank Garces|L|Tucker Barnhart|R|Lineout|X|Changeup|5|0|1|2|13|84
+Frank Garces|L|Brayan Pena|R|Groundout|X|Four-Seam Fastball|6|0|0|0|8|92
+Frank Garces|L|Billy Hamilton|R|Lineout|C|Changeup|7|0|0|1|9|86
+Frank Garces|L|Billy Hamilton|R|Lineout|B|Changeup|8|0|1|1|13|85
+Frank Garces|L|Billy Hamilton|R|Lineout|F|Four-Seam Fastball|9|1|1|1|11|90
+Frank Garces|L|Billy Hamilton|R|Lineout|X|Curveball|10|1|2|1|14|78
+Frank Garces|L|Chris Johnson|R|Single|S|Changeup|0|0|0|0|14|82
+Frank Garces|L|Chris Johnson|R|Single|D|Four-Seam Fastball|1|0|1|0|7|91
+Frank Garces|L|Jace Peterson|L|Single|B|Four-Seam Fastball|2|0|0|0|13|90
+Frank Garces|L|Jace Peterson|L|Single|L|Four-Seam Fastball|3|1|0|0|4|89
+Frank Garces|L|Jace Peterson|L|Single|L|Curveball|4|1|1|0|13|77
+Frank Garces|L|Jace Peterson|L|Single|F|Curveball|5|1|2|0|2|77
+Frank Garces|L|Jace Peterson|L|Single|D|Four-Seam Fastball|6|1|2|0|4|91
+Frank Garces|L|Cameron Maybin|R|Grounded Into DP|X|Changeup|7|0|0|0|14|82
+Frank Garces|L|Freddie Freeman|L|Walk|B|Curveball|8|0|0|2|13|79
+Frank Garces|L|Freddie Freeman|L|Walk|*B|Curveball|9|1|0|2|13|76
+Frank Garces|L|Freddie Freeman|L|Walk|S|Four-Seam Fastball|10|2|0|2|13|91
+Frank Garces|L|Freddie Freeman|L|Walk|C|Curveball|11|2|1|2|13|78
+Frank Garces|L|Freddie Freeman|L|Walk|B|Curveball|12|2|2|2|13|78
+Frank Garces|L|Freddie Freeman|L|Walk|B|Four-Seam Fastball|13|3|2|2|13|92
+Frank Garces|L|Nick Markakis|L|Walk|F|Four-Seam Fastball|14|0|0|2|4|91
+Frank Garces|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|15|0|1|2|13|91
+Frank Garces|L|Nick Markakis|L|Walk|B|Curveball|16|1|1|2|13|77
+Frank Garces|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|17|2|1|2|13|91
+Frank Garces|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|18|3|1|2|13|91
+Frank Garces|L|Freddie Freeman|L|Flyout|C|Curveball|0|0|0|1|13|75
+Frank Garces|L|Freddie Freeman|L|Flyout|X|Curveball|1|0|1|1|13|77
+Frank Garces|L|Nick Markakis|L|Flyout|X|Curveball|2|0|0|2|9|77
+Frank Garces|L|Freddie Freeman|L|Pickoff Caught Stealing 2B|S|Four-Seam Fastball|0|0|0|2|7|91
+Frank Garces|L|Freddie Freeman|L|Pickoff Caught Stealing 2B|*B|Curveball|1|0|1|2|13|77
+Frank Garces|L|Freddie Freeman|L|Pickoff Caught Stealing 2B|C|Four-Seam Fastball|2|1|1|2|13|92
+Frank Garces|L|Joc Pederson|L|Walk|S|Curveball|0|0|0|0|13|73
+Frank Garces|L|Joc Pederson|L|Walk|B|Curveball|1|0|1|0|11|76
+Frank Garces|L|Joc Pederson|L|Walk|*B|Curveball|2|1|1|0|13|75
+Frank Garces|L|Joc Pederson|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|92
+Frank Garces|L|Joc Pederson|L|Walk|*B|Four-Seam Fastball|4|3|1|0|13|90
+Frank Garces|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|5|0|0|0|13|89
+Frank Garces|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|6|1|0|0|13|88
+Frank Garces|L|Yasiel Puig|R|Walk|B|Changeup|7|2|0|0|13|80
+Frank Garces|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|8|3|0|0|13|88
+Frank Garces|L|Adrian Gonzalez|L|Grounded Into DP|C|Curveball|9|0|0|0|13|76
+Frank Garces|L|Adrian Gonzalez|L|Grounded Into DP|S|Curveball|10|0|1|0|13|77
+Frank Garces|L|Adrian Gonzalez|L|Grounded Into DP|X|Curveball|11|0|2|0|13|79
+Frank Garces|L|Adrian Gonzalez|L|Flyout|X|Four-Seam Fastball|0|0|0|1|4|91
+Frank Garces|L|Howie Kendrick|R|Single|B|Four-Seam Fastball|1|0|0|2|13|90
+Frank Garces|L|Howie Kendrick|R|Single|B|Four-Seam Fastball|2|1|0|2|12|88
+Frank Garces|L|Howie Kendrick|R|Single|C|Four-Seam Fastball|3|2|0|2|14|87
+Frank Garces|L|Howie Kendrick|R|Single|D|Changeup|4|2|1|2|9|79
+Frank Garces|L|Yasmani Grandal|R|Grounded Into DP|X|Four-Seam Fastball|5|0|0|2|13|91
+Frank Garces|L|Andre Ethier|L|Groundout|S|Curveball|6|0|0|1|13|78
+Frank Garces|L|Andre Ethier|L|Groundout|S|Curveball|7|0|1|1|13|79
+Frank Garces|L|Andre Ethier|L|Groundout|X|Curveball|8|0|2|1|7|78
+Frank Garces|L|Eric Sogard|L|Walk|C|Four-Seam Fastball|0|0|0|0|11|89
+Frank Garces|L|Eric Sogard|L|Walk|B|Curveball|1|0|1|0|13|76
+Frank Garces|L|Eric Sogard|L|Walk|C|Four-Seam Fastball|2|1|1|0|13|90
+Frank Garces|L|Eric Sogard|L|Walk|B|Curveball|3|1|2|0|13|76
+Frank Garces|L|Eric Sogard|L|Walk|B|Four-Seam Fastball|4|2|2|0|13|90
+Frank Garces|L|Eric Sogard|L|Walk|B|Four-Seam Fastball|5|3|2|0|13|88
+Frank Garces|L|Billy Burns|R|Single|C|Four-Seam Fastball|6|0|0|0|13|88
+Frank Garces|L|Billy Burns|R|Single|*B|Curveball|7|0|1|0|13|75
+Frank Garces|L|Billy Burns|R|Single|F|Changeup|8|1|1|0|14|80
+Frank Garces|L|Billy Burns|R|Single|D|Changeup|9|1|2|0|14|82
+Frank Garces|L|Marcus Semien|R|Sac Fly|C|Changeup|10|0|0|0|14|83
+Frank Garces|L|Marcus Semien|R|Sac Fly|E|Four-Seam Fastball|11|0|1|0|13|91
+Frank Garces|L|Josh Reddick|L|Pop Out|B|Curveball|12|0|0|1|13|77
+Frank Garces|L|Josh Reddick|L|Pop Out|C|Four-Seam Fastball|13|1|0|1|13|91
+Frank Garces|L|Josh Reddick|L|Pop Out|X|Curveball|14|1|1|1|13|79
+Frank Garces|L|Ben Zobrist|R|Double|C|Four-Seam Fastball|15|0|0|2|14|92
+Frank Garces|L|Ben Zobrist|R|Double|*B|Changeup|16|0|1|2|14|85
+Frank Garces|L|Ben Zobrist|R|Double|F|Four-Seam Fastball|17|1|1|2|14|92
+Frank Garces|L|Ben Zobrist|R|Double|B|Four-Seam Fastball|18|1|2|2|14|91
+Frank Garces|L|Ben Zobrist|R|Double|E|Four-Seam Fastball|19|2|2|2|5|92
+Frank Garces|L|Stephen Vogt|L|Single|B|Curveball|20|0|0|2|13|80
+Frank Garces|L|Stephen Vogt|L|Single|*B|Curveball|21|1|0|2|13|79
+Frank Garces|L|Stephen Vogt|L|Single|C|Four-Seam Fastball|22|2|0|2|6|91
+Frank Garces|L|Stephen Vogt|L|Single|S|Four-Seam Fastball|23|2|1|2|5|91
+Frank Garces|L|Stephen Vogt|L|Single|F|Four-Seam Fastball|24|2|2|2|7|92
+Frank Garces|L|Stephen Vogt|L|Single|B|Four-Seam Fastball|25|2|2|2|11|91
+Frank Garces|L|Stephen Vogt|L|Single|F|Four-Seam Fastball|26|3|2|2|1|89
+Frank Garces|L|Stephen Vogt|L|Single|E|Four-Seam Fastball|27|3|2|2|13|90
+Frank Garces|L|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|13|90
+Frank Garces|L|Jake Lamb|L|Strikeout|B|Curveball|1|0|1|2|13|77
+Frank Garces|L|Jake Lamb|L|Strikeout|S|Curveball|2|1|1|2|13|75
+Frank Garces|L|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|3|1|2|2|13|91
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|C|Four-Seam Fastball|4|0|0|0|3|91
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|B|Changeup|5|0|1|0|13|84
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|F|Four-Seam Fastball|6|1|1|0|14|92
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|F|Curveball|7|1|2|0|11|79
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|F|Curveball|8|1|2|0|11|78
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|B|Four-Seam Fastball|9|1|2|0|12|93
+Frank Garces|L|Paul Goldschmidt|R|Catcher Interference|F|Four-Seam Fastball|10|2|2|0|12|92
+Frank Garces|L|David Peralta|L|Strikeout|S|Curveball|11|0|0|0|13|77
+Frank Garces|L|David Peralta|L|Strikeout|*B|Curveball|12|0|1|0|13|77
+Frank Garces|L|David Peralta|L|Strikeout|S|Curveball|13|1|1|0|13|76
+Frank Garces|L|David Peralta|L|Strikeout|T|Curveball|14|1|2|0|13|78
+Frank Garces|L|Danny Dorn|L|Lineout|B|Four-Seam Fastball|15|0|0|1|13|92
+Frank Garces|L|Danny Dorn|L|Lineout|S|Curveball|16|1|0|1|13|76
+Frank Garces|L|Danny Dorn|L|Lineout|*B|Curveball|17|1|1|1|13|76
+Frank Garces|L|Danny Dorn|L|Lineout|X|Four-Seam Fastball|18|2|1|1|4|91
+Frank Garces|L|Yasmany Tomas|R|Groundout|X|Four-Seam Fastball|0|0|0|0|6|90
+Frank Garces|L|Jake Lamb|L|Lineout|F|Four-Seam Fastball|1|0|0|1|7|90
+Frank Garces|L|Jake Lamb|L|Lineout|B|Curveball|2|0|1|1|13|76
+Frank Garces|L|Jake Lamb|L|Lineout|B|Curveball|3|1|1|1|13|75
+Frank Garces|L|Jake Lamb|L|Lineout|X|Four-Seam Fastball|4|2|1|1|13|90
+Frank Garces|L|Chris Owings|R|Flyout|B|Changeup|5|0|0|2|13|82
+Frank Garces|L|Chris Owings|R|Flyout|X|Four-Seam Fastball|6|1|0|2|2|92
+Frank Garces|L|Jarrod Saltalamacchia|R|Groundout|C|Four-Seam Fastball|7|0|0|0|6|88
+Frank Garces|L|Jarrod Saltalamacchia|R|Groundout|S|Changeup|8|0|1|0|14|82
+Frank Garces|L|Jarrod Saltalamacchia|R|Groundout|X|Changeup|9|0|2|0|14|84
+Frank Garces|L|Nick Ahmed|R|Pop Out|C|Curveball|10|0|0|1|9|72
+Frank Garces|L|Nick Ahmed|R|Pop Out|S|Changeup|11|0|1|1|14|84
+Frank Garces|L|Nick Ahmed|R|Pop Out|X|Four-Seam Fastball|12|0|2|1|11|90
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|B|Four-Seam Fastball|13|0|0|2|12|91
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|C|Four-Seam Fastball|14|1|0|2|12|88
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|C|Changeup|15|1|1|2|2|80
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|B|Four-Seam Fastball|16|1|2|2|13|89
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|F|Changeup|17|2|2|2|8|83
+Frank Garces|L|Jeremy Hellickson|R|Strikeout|W|Curveball|18|2|2|2|13|77
+Frank Garces|L|Brandon Belt|L|Strikeout|S|Curveball|0|0|0|2|2|73
+Frank Garces|L|Brandon Belt|L|Strikeout|F|Curveball|1|0|1|2|4|72
+Frank Garces|L|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|2|0|2|2|11|91
+Frank Garces|L|Brandon Belt|L|Strikeout|F|Curveball|3|1|2|2|6|73
+Frank Garces|L|Brandon Belt|L|Strikeout|S|Four-Seam Fastball|4|1|2|2|11|91
+Frank Garces|L|Brandon Crawford|L|Groundout|C|Four-Seam Fastball|5|0|0|0|11|91
+Frank Garces|L|Brandon Crawford|L|Groundout|X|Curveball|6|0|1|0|6|75
+Frank Garces|L|Gregor Blanco|L|Single|E|Curveball|7|0|0|1|8|74
+Frank Garces|L|Justin Maxwell|R|Strikeout|B|Changeup|8|0|0|1|13|81
+Frank Garces|L|Justin Maxwell|R|Strikeout|F|Four-Seam Fastball|9|1|0|1|2|90
+Frank Garces|L|Justin Maxwell|R|Strikeout|F|Changeup|10|1|1|1|14|82
+Frank Garces|L|Justin Maxwell|R|Strikeout|S|Curveball|11|1|2|1|13|78
+Frank Garces|L|Jake Lamb|L|Home Run|C|Curveball|0|0|0|2|14|73
+Frank Garces|L|Jake Lamb|L|Home Run|S|Curveball|1|0|1|2|8|75
+Frank Garces|L|Jake Lamb|L|Home Run|B|Curveball|2|0|2|2|12|76
+Frank Garces|L|Jake Lamb|L|Home Run|E|Four-Seam Fastball|3|1|2|2|5|90
+Frank Garces|L|Aaron Hill|R|Single|B|Changeup|4|0|0|2|14|82
+Frank Garces|L|Aaron Hill|R|Single|B|Four-Seam Fastball|5|1|0|2|12|88
+Frank Garces|L|Aaron Hill|R|Single|C|Four-Seam Fastball|6|2|0|2|6|87
+Frank Garces|L|Aaron Hill|R|Single|B|Changeup|7|2|1|2|13|80
+Frank Garces|L|Aaron Hill|R|Single|F|Four-Seam Fastball|8|3|1|2|4|88
+Frank Garces|L|Aaron Hill|R|Single|D|Four-Seam Fastball|9|3|2|2|3|88
+Frank Garces|L|Logan Morrison|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|91
+Frank Garces|L|Logan Morrison|L|Flyout|B|Four-Seam Fastball|1|1|0|0|11|91
+Frank Garces|L|Logan Morrison|L|Flyout|C|Four-Seam Fastball|2|2|0|0|13|90
+Frank Garces|L|Logan Morrison|L|Flyout|X|Four-Seam Fastball|3|2|1|0|4|90
+Frank Garces|L|Robinson Cano|L|Groundout|S|Curveball|4|0|0|1|13|78
+Frank Garces|L|Robinson Cano|L|Groundout|B|Four-Seam Fastball|5|0|1|1|13|92
+Frank Garces|L|Robinson Cano|L|Groundout|B|Curveball|6|1|1|1|13|77
+Frank Garces|L|Robinson Cano|L|Groundout|X|Four-Seam Fastball|7|2|1|1|4|90
+Frank Garces|L|Kyle Seager|L|Flyout|C|Curveball|8|0|0|2|8|78
+Frank Garces|L|Kyle Seager|L|Flyout|C|Curveball|9|0|1|2|4|76
+Frank Garces|L|Kyle Seager|L|Flyout|X|Curveball|10|0|2|2|7|77
+Frank Garces|L|Robinson Cano|L|Single|B|Curveball|0|0|0|2|12|74
+Frank Garces|L|Robinson Cano|L|Single|C|Four-Seam Fastball|1|1|0|2|4|90
+Frank Garces|L|Robinson Cano|L|Single|*B|Curveball|2|1|1|2|13|75
+Frank Garces|L|Robinson Cano|L|Single|E|Four-Seam Fastball|3|2|1|2|13|91
+Frank Garces|L|Francisco Liriano|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|90
+Frank Garces|L|Francisco Liriano|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|3|91
+Frank Garces|L|Francisco Liriano|L|Strikeout|B|Curveball|2|0|2|0|13|75
+Frank Garces|L|Francisco Liriano|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|13|92
+Frank Garces|L|Francisco Liriano|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|13|92
+Frank Garces|L|Francisco Liriano|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|13|89
+Frank Garces|L|Gregory Polanco|L|Walk|B|Curveball|6|0|0|1|13|75
+Frank Garces|L|Gregory Polanco|L|Walk|B|Four-Seam Fastball|7|1|0|1|13|93
+Frank Garces|L|Gregory Polanco|L|Walk|C|Four-Seam Fastball|8|2|0|1|13|91
+Frank Garces|L|Gregory Polanco|L|Walk|B|Four-Seam Fastball|9|2|1|1|13|91
+Frank Garces|L|Gregory Polanco|L|Walk|B|Four-Seam Fastball|10|3|1|1|13|91
+Frank Garces|L|Neil Walker|R|Forceout|F|Four-Seam Fastball|11|0|0|1|13|90
+Frank Garces|L|Neil Walker|R|Forceout|B|Four-Seam Fastball|12|0|1|1|11|90
+Frank Garces|L|Neil Walker|R|Forceout|*B|Changeup|13|1|1|1|13|82
+Frank Garces|L|Neil Walker|R|Forceout|F|Four-Seam Fastball|14|2|1|1|5|89
+Frank Garces|L|Neil Walker|R|Forceout|X|Four-Seam Fastball|15|2|2|1|5|91
+Frank Garces|L|Andrew McCutchen|R|Double|F|Four-Seam Fastball|16|0|0|2|14|93
+Frank Garces|L|Andrew McCutchen|R|Double|S|Changeup|17|0|1|2|14|86
+Frank Garces|L|Andrew McCutchen|R|Double|B|Four-Seam Fastball|18|0|2|2|13|87
+Frank Garces|L|Andrew McCutchen|R|Double|E|Four-Seam Fastball|19|1|2|2|12|93
+Frank Garces|L|Jung Ho Kang|R|Hit By Pitch|H|Curveball|20|0|0|2|13|76
+Frank Garces|L|Jordy Mercer|R|Single|C|Changeup|21|0|0|2|9|85
+Frank Garces|L|Jordy Mercer|R|Single|B|Four-Seam Fastball|22|0|1|2|14|92
+Frank Garces|L|Jordy Mercer|R|Single|F|Changeup|23|1|1|2|14|84
+Frank Garces|L|Jordy Mercer|R|Single|D|Four-Seam Fastball|24|1|2|2|13|91
+Frank Garces|L|Pedro Alvarez|L|Strikeout|C|Curveball|25|0|0|2|13|77
+Frank Garces|L|Pedro Alvarez|L|Strikeout|B|Changeup|26|0|1|2|13|85
+Frank Garces|L|Pedro Alvarez|L|Strikeout|B|Four-Seam Fastball|27|1|1|2|13|92
+Frank Garces|L|Pedro Alvarez|L|Strikeout|F|Changeup|28|2|1|2|14|84
+Frank Garces|L|Pedro Alvarez|L|Strikeout|S|Four-Seam Fastball|29|2|2|2|11|93
+Frank Garces|L|Sean Rodriguez|R|Groundout|B|Four-Seam Fastball|30|0|0|0|12|89
+Frank Garces|L|Sean Rodriguez|R|Groundout|B|Changeup|31|1|0|0|11|82
+Frank Garces|L|Sean Rodriguez|R|Groundout|F|Four-Seam Fastball|32|2|0|0|13|89
+Frank Garces|L|Sean Rodriguez|R|Groundout|B|Four-Seam Fastball|33|2|1|0|12|89
+Frank Garces|L|Sean Rodriguez|R|Groundout|C|Four-Seam Fastball|34|3|1|0|1|87
+Frank Garces|L|Sean Rodriguez|R|Groundout|X|Changeup|35|3|2|0|6|81
+Frank Garces|L|Chris Stewart|R|Single|B|Curveball|36|0|0|1|13|76
+Frank Garces|L|Chris Stewart|R|Single|D|Changeup|37|1|0|1|5|84
+Frank Garces|L|Francisco Liriano|L|Bunt Pop Out|L|Four-Seam Fastball|38|0|0|1|4|88
+Frank Garces|L|Francisco Liriano|L|Bunt Pop Out|B|Four-Seam Fastball|39|0|1|1|12|91
+Frank Garces|L|Francisco Liriano|L|Bunt Pop Out|X|Four-Seam Fastball|40|1|1|1|8|87
+Frank Garces|L|Gregory Polanco|L|Lineout|B|Four-Seam Fastball|41|0|0|2|12|91
+Frank Garces|L|Gregory Polanco|L|Lineout|X|Four-Seam Fastball|42|1|0|2|11|89
+Frank Garces|L|Ryan Howard|L|Strikeout|C|Curveball|0|0|0|1|8|74
+Frank Garces|L|Ryan Howard|L|Strikeout|B|Four-Seam Fastball|1|0|1|1|2|92
+Frank Garces|L|Ryan Howard|L|Strikeout|C|Curveball|2|1|1|1|7|76
+Frank Garces|L|Ryan Howard|L|Strikeout|S|Curveball|3|1|2|1|5|76
+Frank Garces|L|Domonic Brown|L|Walk|B|Four-Seam Fastball|4|0|0|2|13|93
+Frank Garces|L|Domonic Brown|L|Walk|F|Four-Seam Fastball|5|1|0|2|11|92
+Frank Garces|L|Domonic Brown|L|Walk|B|Four-Seam Fastball|6|1|1|2|11|91
+Frank Garces|L|Domonic Brown|L|Walk|S|Four-Seam Fastball|7|2|1|2|4|91
+Frank Garces|L|Domonic Brown|L|Walk|F|Curveball|8|2|2|2|12|75
+Frank Garces|L|Domonic Brown|L|Walk|B|Four-Seam Fastball|9|2|2|2|11|92
+Frank Garces|L|Domonic Brown|L|Walk|F|Four-Seam Fastball|10|3|2|2|11|90
+Frank Garces|L|Domonic Brown|L|Walk|B|Four-Seam Fastball|11|3|2|2|11|92
+Frank Garces|L|Cody Asche|L|Pop Out|F|Four-Seam Fastball|12|0|0|2|1|90
+Frank Garces|L|Cody Asche|L|Pop Out|*B|Curveball|13|0|1|2|13|74
+Frank Garces|L|Cody Asche|L|Pop Out|X|Four-Seam Fastball|14|1|1|2|6|89
+Frank Garces|L|Todd Frazier|R|Home Run|F|Changeup|0|0|0|0|14|82
+Frank Garces|L|Todd Frazier|R|Home Run|B|Four-Seam Fastball|1|0|1|0|12|91
+Frank Garces|L|Todd Frazier|R|Home Run|F|Curveball|2|1|1|0|5|73
+Frank Garces|L|Todd Frazier|R|Home Run|B|Four-Seam Fastball|3|1|2|0|12|89
+Frank Garces|L|Todd Frazier|R|Home Run|B|Four-Seam Fastball|4|2|2|0|12|90
+Frank Garces|L|Todd Frazier|R|Home Run|F|Curveball|5|3|2|0|7|72
+Frank Garces|L|Todd Frazier|R|Home Run|E|Four-Seam Fastball|6|3|2|0|5|90
+Frank Garces|L|Jay Bruce|L|Pop Out|B|Four-Seam Fastball|7|0|0|0|13|90
+Frank Garces|L|Jay Bruce|L|Pop Out|X|Curveball|8|1|0|0|4|72
+Frank Garces|L|Ivan De Jesus Jr.|R|Lineout|B|Changeup|9|0|0|1|14|83
+Frank Garces|L|Ivan De Jesus Jr.|R|Lineout|C|Changeup|10|1|0|1|7|83
+Frank Garces|L|Ivan De Jesus Jr.|R|Lineout|B|Curveball|11|1|1|1|14|76
+Frank Garces|L|Ivan De Jesus Jr.|R|Lineout|X|Changeup|12|2|1|1|12|82
+Frank Garces|L|Tucker Barnhart|R|Single|D|Four-Seam Fastball|13|0|0|2|7|91
+Frank Garces|L|Jason Bourgeois|R|Home Run|C|Changeup|14|0|0|2|14|82
+Frank Garces|L|Jason Bourgeois|R|Home Run|E|Curveball|15|0|1|2|4|75
+Frank Garces|L|Billy Hamilton|R|Field Error|F|Four-Seam Fastball|16|0|0|2|5|92
+Frank Garces|L|Billy Hamilton|R|Field Error|B|Curveball|17|0|1|2|13|75
+Frank Garces|L|Billy Hamilton|R|Field Error|F|Four-Seam Fastball|18|1|1|2|7|90
+Frank Garces|L|Billy Hamilton|R|Field Error|D|Four-Seam Fastball|19|1|2|2|4|91
+Frank Garces|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|20|0|0|2|13|91
+Frank Garces|L|Brandon Phillips|R|Walk|B|Changeup|21|1|0|2|13|81
+Frank Garces|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|22|2|0|2|13|90
+Frank Garces|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|23|3|0|2|13|90
+Frank Garces|L|Skip Schumaker|L|Groundout|C|Four-Seam Fastball|24|0|0|2|7|90
+Frank Garces|L|Skip Schumaker|L|Groundout|B|Curveball|25|0|1|2|13|75
+Frank Garces|L|Skip Schumaker|L|Groundout|C|Curveball|26|1|1|2|13|76
+Frank Garces|L|Skip Schumaker|L|Groundout|X|Curveball|27|1|2|2|13|77
+Frank Garces|L|Billy Hamilton|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|88
+Frank Garces|L|Billy Hamilton|R|Flyout|B|Changeup|1|1|0|0|12|77
+Frank Garces|L|Billy Hamilton|R|Flyout|X|Four-Seam Fastball|2|2|0|0|5|86
+Frank Garces|L|Eugenio Suarez|R|Single|B|Four-Seam Fastball|3|0|0|1|12|91
+Frank Garces|L|Eugenio Suarez|R|Single|C|Changeup|4|1|0|1|6|81
+Frank Garces|L|Eugenio Suarez|R|Single|F|Changeup|5|1|1|1|14|81
+Frank Garces|L|Eugenio Suarez|R|Single|B|Four-Seam Fastball|6|1|2|1|12|90
+Frank Garces|L|Eugenio Suarez|R|Single|B|Curveball|7|2|2|1|13|74
+Frank Garces|L|Eugenio Suarez|R|Single|F|Changeup|8|3|2|1|2|81
+Frank Garces|L|Eugenio Suarez|R|Single|F|Four-Seam Fastball|9|3|2|1|11|89
+Frank Garces|L|Eugenio Suarez|R|Single|F|Four-Seam Fastball|10|3|2|1|11|88
+Frank Garces|L|Eugenio Suarez|R|Single|D|Changeup|11|3|2|1|2|80
+Frank Garces|L|Joey Votto|L|Home Run|C|Four-Seam Fastball|12|0|0|1|4|90
+Frank Garces|L|Joey Votto|L|Home Run|C|Curveball|13|0|1|1|13|74
+Frank Garces|L|Joey Votto|L|Home Run|B|Four-Seam Fastball|14|0|2|1|11|91
+Frank Garces|L|Joey Votto|L|Home Run|B|Curveball|15|1|2|1|13|76
+Frank Garces|L|Joey Votto|L|Home Run|F|Four-Seam Fastball|16|2|2|1|4|90
+Frank Garces|L|Joey Votto|L|Home Run|*B|Curveball|17|2|2|1|13|73
+Frank Garces|L|Joey Votto|L|Home Run|E|Four-Seam Fastball|18|3|2|1|1|87
+Frank Garces|L|Todd Frazier|R|Strikeout|B|Four-Seam Fastball|19|0|0|1|13|88
+Frank Garces|L|Todd Frazier|R|Strikeout|S|Four-Seam Fastball|20|1|0|1|11|88
+Frank Garces|L|Todd Frazier|R|Strikeout|F|Curveball|21|1|1|1|13|74
+Frank Garces|L|Todd Frazier|R|Strikeout|F|Curveball|22|1|2|1|14|75
+Frank Garces|L|Todd Frazier|R|Strikeout|S|Four-Seam Fastball|23|1|2|1|14|89
+Frank Garces|L|Jay Bruce|L|Groundout|X|Curveball|24|0|0|2|13|74
+Frank Garces|L|Adrian Gonzalez|L|Groundout|X|Four-Seam Fastball|0|0|0|0|11|91
+Frank Garces|L|Chase Utley|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|4|92
+Frank Garces|L|Chase Utley|L|Strikeout|B|Curveball|2|0|1|1|11|77
+Frank Garces|L|Chase Utley|L|Strikeout|S|Four-Seam Fastball|3|1|1|1|1|91
+Frank Garces|L|Chase Utley|L|Strikeout|C|Curveball|4|1|2|1|2|76
+Frank Garces|L|Corey Seager|L|Single|F|Four-Seam Fastball|5|0|0|2|7|92
+Frank Garces|L|Corey Seager|L|Single|F|Four-Seam Fastball|6|0|1|2|5|92
+Frank Garces|L|Corey Seager|L|Single|B|Four-Seam Fastball|7|0|2|2|11|91
+Frank Garces|L|Corey Seager|L|Single|B|Curveball|8|1|2|2|12|77
+Frank Garces|L|Corey Seager|L|Single|B|Curveball|9|2|2|2|13|75
+Frank Garces|L|Corey Seager|L|Single|D|Four-Seam Fastball|10|3|2|2|13|90
+Frank Garces|L|Yasmani Grandal|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|11|89
+Frank Garces|L|Yasmani Grandal|R|Strikeout|F|Curveball|12|0|1|2|8|73
+Frank Garces|L|Yasmani Grandal|R|Strikeout|B|Two-Seam Fastball|13|0|2|2|11|90
+Frank Garces|L|Yasmani Grandal|R|Strikeout|T|Four-Seam Fastball|14|1|2|2|1|89
+Frank Garces|L|Adrian Gonzalez|L|Walk|B|Curveball|0|0|0|0|13|75
+Frank Garces|L|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|89
+Frank Garces|L|Adrian Gonzalez|L|Walk|C|Four-Seam Fastball|2|2|0|0|7|89
+Frank Garces|L|Adrian Gonzalez|L|Walk|F|Four-Seam Fastball|3|2|1|0|13|89
+Frank Garces|L|Adrian Gonzalez|L|Walk|F|Four-Seam Fastball|4|2|2|0|4|90
+Frank Garces|L|Adrian Gonzalez|L|Walk|B|Curveball|5|2|2|0|11|74
+Frank Garces|L|Adrian Gonzalez|L|Walk|B|Curveball|6|3|2|0|13|73
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|7|0|0|0|5|88
+Frank Garces|L|Justin Turner|R|Strikeout|B|Four-Seam Fastball|8|0|1|0|2|88
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|9|1|1|0|2|88
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|10|1|2|0|6|89
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|11|1|2|0|2|90
+Frank Garces|L|Justin Turner|R|Strikeout|B|Curveball|12|1|2|0|13|75
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|13|2|2|0|2|89
+Frank Garces|L|Justin Turner|R|Strikeout|B|Curveball|14|2|2|0|12|75
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|15|3|2|0|4|86
+Frank Garces|L|Justin Turner|R|Strikeout|F|Changeup|16|3|2|0|6|79
+Frank Garces|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|17|3|2|0|4|88
+Frank Garces|L|Justin Turner|R|Strikeout|T|Changeup|18|3|2|0|14|80
+Frank Garces|L|Chris Heisey|R|Strikeout|B|Curveball|19|0|0|1|11|73
+Frank Garces|L|Chris Heisey|R|Strikeout|B|Changeup|20|1|0|1|12|80
+Frank Garces|L|Chris Heisey|R|Strikeout|S|Four-Seam Fastball|21|2|0|1|5|89
+Frank Garces|L|Chris Heisey|R|Strikeout|B|Changeup|22|2|1|1|12|81
+Frank Garces|L|Chris Heisey|R|Strikeout|S|Four-Seam Fastball|23|3|1|1|4|87
+Frank Garces|L|Chris Heisey|R|Strikeout|F|Four-Seam Fastball|24|3|2|1|2|87
+Frank Garces|L|Chris Heisey|R|Strikeout|S|Four-Seam Fastball|25|3|2|1|5|87
+Frank Garces|L|Corey Seager|L|Groundout|B|Curveball|26|0|0|2|13|75
+Frank Garces|L|Corey Seager|L|Groundout|S|Four-Seam Fastball|27|1|0|2|13|90
+Frank Garces|L|Corey Seager|L|Groundout|X|Four-Seam Fastball|28|1|1|2|7|91
+Frank Garces|L|Buster Posey|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Frank Garces|L|Buster Posey|R|Groundout|C|Curveball|1|1|0|0|14|72
+Frank Garces|L|Buster Posey|R|Groundout|B|Curveball|2|1|1|0|14|74
+Frank Garces|L|Buster Posey|R|Groundout|X|Two-Seam Fastball|3|2|1|0|14|89
+Frank Garces|L|Brandon Belt|L|Home Run|F|Four-Seam Fastball|4|0|0|1|8|92
+Frank Garces|L|Brandon Belt|L|Home Run|B|Curveball|5|0|1|1|13|77
+Frank Garces|L|Brandon Belt|L|Home Run|E|Curveball|6|1|1|1|14|76
+Frank Garces|L|Marlon Byrd|R|Walk|B|Four-Seam Fastball|7|0|0|1|13|91
+Frank Garces|L|Marlon Byrd|R|Walk|F|Four-Seam Fastball|8|1|0|1|7|89
+Frank Garces|L|Marlon Byrd|R|Walk|B|Changeup|9|1|1|1|14|85
+Frank Garces|L|Marlon Byrd|R|Walk|S|Changeup|10|2|1|1|14|84
+Frank Garces|L|Marlon Byrd|R|Walk|B|Four-Seam Fastball|11|2|2|1|13|91
+Frank Garces|L|Marlon Byrd|R|Walk|B|Changeup|12|3|2|1|13|83
+Frank Garces|L|Kelby Tomlinson|R|Groundout|X|Four-Seam Fastball|13|0|0|1|5|88
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Four-Seam Fastball|14|0|0|2|13|91
+Frank Garces|L|Ehire Adrianza|R|Walk|*B|Changeup|15|1|0|2|13|82
+Frank Garces|L|Ehire Adrianza|R|Walk|F|Four-Seam Fastball|16|2|0|2|4|88
+Frank Garces|L|Ehire Adrianza|R|Walk|*B|Curveball|17|2|1|2|13|75
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Four-Seam Fastball|18|3|1|2|13|88
+Frank Garces|L|Madison Bumgarner|R|Strikeout|W|Curveball|19|0|0|2|13|75
+Frank Garces|L|Madison Bumgarner|R|Strikeout|C|Curveball|20|0|1|2|8|75
+Frank Garces|L|Madison Bumgarner|R|Strikeout|S|Curveball|21|0|2|2|9|77
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|86
+Frank Garces|L|Ehire Adrianza|R|Walk|C|Four-Seam Fastball|1|1|0|0|6|87
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Four-Seam Fastball|2|1|1|0|11|86
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Changeup|3|2|1|0|14|80
+Frank Garces|L|Ehire Adrianza|R|Walk|F|Four-Seam Fastball|4|3|1|0|8|86
+Frank Garces|L|Ehire Adrianza|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|89
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|B|Changeup|6|0|0|0|14|80
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|B|Four-Seam Fastball|7|1|0|0|12|88
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|F|Four-Seam Fastball|8|2|0|0|8|86
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|F|Four-Seam Fastball|9|2|1|0|13|87
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|F|Four-Seam Fastball|10|2|2|0|14|89
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|B|Curveball|11|2|2|0|13|72
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|F|Four-Seam Fastball|12|3|2|0|8|87
+Frank Garces|L|Juan Carlo Perez|R|Strikeout|S|Four-Seam Fastball|13|3|2|0|6|88
+Frank Garces|L|Angel Pagan|R|Single|B|Curveball|14|0|0|1|13|77
+Frank Garces|L|Angel Pagan|R|Single|B|Four-Seam Fastball|15|1|0|1|12|90
+Frank Garces|L|Angel Pagan|R|Single|C|Four-Seam Fastball|16|2|0|1|3|89
+Frank Garces|L|Angel Pagan|R|Single|E|Four-Seam Fastball|17|2|1|1|11|90
+Frank Garces|L|Alejandro De Aza|L|Lineout|X|Four-Seam Fastball|18|0|0|1|7|89
+Frank Garces|L|Matt Duffy|R|Single|*B|Changeup|19|0|0|2|13|82
+Frank Garces|L|Matt Duffy|R|Single|B|Four-Seam Fastball|20|1|0|2|12|90
+Frank Garces|L|Matt Duffy|R|Single|E|Changeup|21|2|0|2|6|81
+Frank Garces|L|Buster Posey|R|Walk|*B|Four-Seam Fastball|22|0|0|2|14|89
+Frank Garces|L|Buster Posey|R|Walk|B|Four-Seam Fastball|23|1|0|2|14|89
+Frank Garces|L|Buster Posey|R|Walk|C|Four-Seam Fastball|24|2|0|2|9|89
+Frank Garces|L|Buster Posey|R|Walk|B|Four-Seam Fastball|25|2|1|2|14|89
+Frank Garces|L|Buster Posey|R|Walk|C|Four-Seam Fastball|26|3|1|2|9|88
+Frank Garces|L|Buster Posey|R|Walk|B|Four-Seam Fastball|27|3|2|2|14|91
+Frank Garces|L|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|28|0|0|2|13|90
+Frank Garces|L|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|29|1|0|2|13|90
+Frank Garces|L|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|30|1|1|2|13|90
+Frank Garces|L|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|31|1|2|2|11|89
+Frank Garces|L|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|32|2|2|2|13|91
+Frank Garces|L|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|33|3|2|2|13|90
+Frank Garces|L|Brandon Belt|L|Strikeout|S|Four-Seam Fastball|34|3|2|2|4|91
+Frank Garces|L|Logan Schafer|L|Groundout|X|Four-Seam Fastball|0|0|0|1|4|88
+Frank Garces|L|Adam Lind|L|Lineout|C|Four-Seam Fastball|1|0|0|2|2|90
+Frank Garces|L|Adam Lind|L|Lineout|X|Curveball|2|0|1|2|5|75
+Frank Garces|L|Khris Davis|R|Single|B|Four-Seam Fastball|3|0|0|0|12|91
+Frank Garces|L|Khris Davis|R|Single|F|Four-Seam Fastball|4|1|0|0|2|90
+Frank Garces|L|Khris Davis|R|Single|D|Changeup|5|1|1|0|14|84
+Frank Garces|L|Shane Peterson|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|13|90
+Frank Garces|L|Shane Peterson|L|Strikeout|B|Curveball|7|1|0|0|14|73
+Frank Garces|L|Shane Peterson|L|Strikeout|C|Four-Seam Fastball|8|2|0|0|5|89
+Frank Garces|L|Shane Peterson|L|Strikeout|C|Four-Seam Fastball|9|2|1|0|13|90
+Frank Garces|L|Shane Peterson|L|Strikeout|T|Four-Seam Fastball|10|2|2|0|5|91
+Frank Garces|L|Carl Crawford|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|88
+Frank Garces|L|Carl Crawford|L|Groundout|B|Four-Seam Fastball|1|1|0|0|13|89
+Frank Garces|L|Carl Crawford|L|Groundout|C|Four-Seam Fastball|2|2|0|0|5|87
+Frank Garces|L|Carl Crawford|L|Groundout|F|Four-Seam Fastball|3|2|1|0|6|89
+Frank Garces|L|Carl Crawford|L|Groundout|X|Four-Seam Fastball|4|2|2|0|4|90
+Frank Garces|L|Chase Utley|L|Walk|B|Four-Seam Fastball|5|0|0|1|13|90
+Frank Garces|L|Chase Utley|L|Walk|B|Changeup|6|1|0|1|13|81
+Frank Garces|L|Chase Utley|L|Walk|B|Four-Seam Fastball|7|2|0|1|13|90
+Frank Garces|L|Chase Utley|L|Walk|C|Four-Seam Fastball|8|3|0|1|8|89
+Frank Garces|L|Chase Utley|L|Walk|F|Four-Seam Fastball|9|3|1|1|8|90
+Frank Garces|L|Chase Utley|L|Walk|F|Curveball|10|3|2|1|11|73
+Frank Garces|L|Chase Utley|L|Walk|B|Curveball|11|3|2|1|13|75
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|B|Curveball|12|0|0|1|14|74
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|13|1|0|1|5|89
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|S|Curveball|14|1|1|1|8|74
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|F|Curveball|15|1|2|1|8|76
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|F|Curveball|16|1|2|1|6|74
+Frank Garces|L|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|17|1|2|1|11|89
+Frank Garces|L|Andre Ethier|L|Strikeout|C|Four-Seam Fastball|18|0|0|2|13|91
+Frank Garces|L|Andre Ethier|L|Strikeout|S|Four-Seam Fastball|19|0|1|2|4|92
+Frank Garces|L|Andre Ethier|L|Strikeout|F|Four-Seam Fastball|20|0|2|2|13|92
+Frank Garces|L|Andre Ethier|L|Strikeout|S|Curveball|21|0|2|2|13|77
+Frank Garces|L|Corey Seager|L|Single|F|Curveball|22|0|0|0|2|73
+Frank Garces|L|Corey Seager|L|Single|C|Four-Seam Fastball|23|0|1|0|6|90
+Frank Garces|L|Corey Seager|L|Single|D|Curveball|24|0|2|0|5|75
+Frank Garces|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|25|0|0|0|11|87
+Frank Garces|L|A.J. Ellis|R|Walk|B|Changeup|26|1|0|0|13|81
+Frank Garces|L|A.J. Ellis|R|Walk|F|Four-Seam Fastball|27|2|0|0|13|88
+Frank Garces|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|28|2|1|0|12|89
+Frank Garces|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|29|3|1|0|11|85
+Frank Garces|L|Alex Guerrero|R|Double Play|X|Curveball|30|0|0|0|7|74
+Frank Garces|L|Joc Pederson|L|Home Run|B|Curveball|31|0|0|2|13|76
+Frank Garces|L|Joc Pederson|L|Home Run|S|Four-Seam Fastball|32|1|0|2|7|91
+Frank Garces|L|Joc Pederson|L|Home Run|B|Curveball|33|1|1|2|13|76
+Frank Garces|L|Joc Pederson|L|Home Run|S|Curveball|34|2|1|2|13|73
+Frank Garces|L|Joc Pederson|L|Home Run|F|Curveball|35|2|2|2|13|74
+Frank Garces|L|Joc Pederson|L|Home Run|E|Curveball|36|2|2|2|6|73
+Frank Garces|L|Clayton Kershaw|L|Groundout|C|Four-Seam Fastball|37|0|0|2|5|89
+Frank Garces|L|Clayton Kershaw|L|Groundout|X|Curveball|38|0|1|2|13|74

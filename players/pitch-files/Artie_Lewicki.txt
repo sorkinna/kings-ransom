@@ -1,0 +1,851 @@
+Artie Lewicki|R|Jordy Mercer|R|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+Artie Lewicki|R|Jordy Mercer|R|Single|B|Slider|1|1|0|0|14|84
+Artie Lewicki|R|Jordy Mercer|R|Single|D|Four-Seam Fastball|2|2|0|0|8|91
+Artie Lewicki|R|Starling Marte|R|Lineout|*B|Slider|3|0|0|0|14|84
+Artie Lewicki|R|Starling Marte|R|Lineout|B|Four-Seam Fastball|4|1|0|0|14|92
+Artie Lewicki|R|Starling Marte|R|Lineout|S|Slider|5|2|0|0|14|86
+Artie Lewicki|R|Starling Marte|R|Lineout|S|Slider|6|2|1|0|12|84
+Artie Lewicki|R|Starling Marte|R|Lineout|F|Slider|7|2|2|0|3|86
+Artie Lewicki|R|Starling Marte|R|Lineout|X|Four-Seam Fastball|8|2|2|0|4|92
+Artie Lewicki|R|Josh Bell|L|Flyout|B|Four-Seam Fastball|9|0|0|1|14|92
+Artie Lewicki|R|Josh Bell|L|Flyout|*B|Curveball|10|1|0|1|14|78
+Artie Lewicki|R|Josh Bell|L|Flyout|X|Slider|11|2|0|1|5|85
+Artie Lewicki|R|David Freese|R|Double|S|Slider|12|0|0|2|2|86
+Artie Lewicki|R|David Freese|R|Double|S|Slider|13|0|1|2|6|88
+Artie Lewicki|R|David Freese|R|Double|F|Four-Seam Fastball|14|0|2|2|12|93
+Artie Lewicki|R|David Freese|R|Double|F|Four-Seam Fastball|15|0|2|2|8|93
+Artie Lewicki|R|David Freese|R|Double|F|Slider|16|0|2|2|14|87
+Artie Lewicki|R|David Freese|R|Double|F|Slider|17|0|2|2|12|87
+Artie Lewicki|R|David Freese|R|Double|E|Four-Seam Fastball|18|0|2|2|12|93
+Artie Lewicki|R|Colin Moran|L|Single|C|Four-Seam Fastball|19|0|0|2|6|92
+Artie Lewicki|R|Colin Moran|L|Single|*B|Curveball|20|0|1|2|14|79
+Artie Lewicki|R|Colin Moran|L|Single|C|Four-Seam Fastball|21|1|1|2|5|92
+Artie Lewicki|R|Colin Moran|L|Single|F|Slider|22|1|2|2|12|85
+Artie Lewicki|R|Colin Moran|L|Single|F|Four-Seam Fastball|23|1|2|2|2|91
+Artie Lewicki|R|Colin Moran|L|Single|E|Curveball|24|1|2|2|13|80
+Artie Lewicki|R|Elias Diaz|R|Single|B|Four-Seam Fastball|25|0|0|2|14|92
+Artie Lewicki|R|Elias Diaz|R|Single|B|Four-Seam Fastball|26|1|0|2|13|93
+Artie Lewicki|R|Elias Diaz|R|Single|S|Four-Seam Fastball|27|2|0|2|3|92
+Artie Lewicki|R|Elias Diaz|R|Single|C|Four-Seam Fastball|28|2|1|2|13|92
+Artie Lewicki|R|Elias Diaz|R|Single|F|Slider|29|2|2|2|9|86
+Artie Lewicki|R|Elias Diaz|R|Single|F|Four-Seam Fastball|30|2|2|2|5|93
+Artie Lewicki|R|Elias Diaz|R|Single|D|Curveball|31|2|2|2|5|80
+Artie Lewicki|R|Max Moroff|L|Walk|B|Four-Seam Fastball|32|0|0|2|11|92
+Artie Lewicki|R|Max Moroff|L|Walk|C|Four-Seam Fastball|33|1|0|2|5|93
+Artie Lewicki|R|Max Moroff|L|Walk|B|Slider|34|1|1|2|11|86
+Artie Lewicki|R|Max Moroff|L|Walk|S|Four-Seam Fastball|35|2|1|2|2|92
+Artie Lewicki|R|Max Moroff|L|Walk|F|Four-Seam Fastball|36|2|2|2|1|93
+Artie Lewicki|R|Max Moroff|L|Walk|F|Four-Seam Fastball|37|2|2|2|8|92
+Artie Lewicki|R|Max Moroff|L|Walk|F|Slider|38|2|2|2|3|87
+Artie Lewicki|R|Max Moroff|L|Walk|B|Four-Seam Fastball|39|2|2|2|11|92
+Artie Lewicki|R|Max Moroff|L|Walk|B|Slider|40|3|2|2|11|84
+Artie Lewicki|R|Corey Dickerson|L|Pop Out|S|Four-Seam Fastball|41|0|0|2|3|91
+Artie Lewicki|R|Corey Dickerson|L|Pop Out|S|Slider|42|0|1|2|11|86
+Artie Lewicki|R|Corey Dickerson|L|Pop Out|X|Four-Seam Fastball|43|0|2|2|3|91
+Artie Lewicki|R|Erik Gonzalez|R|Pop Out|S|Four-Seam Fastball|0|0|0|0|7|93
+Artie Lewicki|R|Erik Gonzalez|R|Pop Out|B|Four-Seam Fastball|1|0|1|0|12|92
+Artie Lewicki|R|Erik Gonzalez|R|Pop Out|B|Slider|2|1|1|0|14|85
+Artie Lewicki|R|Erik Gonzalez|R|Pop Out|X|Four-Seam Fastball|3|2|1|0|11|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|4|0|0|1|13|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|C|Four-Seam Fastball|5|1|0|1|11|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|B|Curveball|6|1|1|1|11|77
+Artie Lewicki|R|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|7|2|1|1|11|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|T|Four-Seam Fastball|8|3|1|1|5|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|F|Four-Seam Fastball|9|3|2|1|9|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|F|Four-Seam Fastball|10|3|2|1|4|94
+Artie Lewicki|R|Jason Kipnis|L|Flyout|F|Four-Seam Fastball|11|3|2|1|11|93
+Artie Lewicki|R|Jason Kipnis|L|Flyout|X|Changeup|12|3|2|1|11|83
+Artie Lewicki|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|13|0|0|2|14|94
+Artie Lewicki|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|14|1|0|2|11|93
+Artie Lewicki|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|15|2|0|2|12|93
+Artie Lewicki|R|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|16|3|0|2|3|92
+Artie Lewicki|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|17|3|1|2|11|92
+Artie Lewicki|R|Roberto Perez|R|Strikeout|F|Four-Seam Fastball|18|3|2|2|2|93
+Artie Lewicki|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|19|3|2|2|12|94
+Artie Lewicki|R|Rajai Davis|R|Groundout|B|Four-Seam Fastball|20|0|0|0|14|92
+Artie Lewicki|R|Rajai Davis|R|Groundout|X|Four-Seam Fastball|21|1|0|0|4|92
+Artie Lewicki|R|Michael Brantley|L|Lineout|C|Curveball|22|0|0|1|2|75
+Artie Lewicki|R|Michael Brantley|L|Lineout|B|Four-Seam Fastball|23|0|1|1|11|93
+Artie Lewicki|R|Michael Brantley|L|Lineout|X|Changeup|24|1|1|1|13|84
+Artie Lewicki|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|25|0|0|2|13|93
+Artie Lewicki|R|Jose Ramirez|L|Walk|B|Curveball|26|1|0|2|14|76
+Artie Lewicki|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|27|2|0|2|11|92
+Artie Lewicki|R|Jose Ramirez|L|Walk|C|Four-Seam Fastball|28|3|0|2|2|92
+Artie Lewicki|R|Jose Ramirez|L|Walk|F|Four-Seam Fastball|29|3|1|2|5|92
+Artie Lewicki|R|Jose Ramirez|L|Walk|B|Slider|30|3|2|2|12|85
+Artie Lewicki|R|Francisco Lindor|L|Flyout|B|Slider|31|0|0|2|14|84
+Artie Lewicki|R|Francisco Lindor|L|Flyout|F|Four-Seam Fastball|32|1|0|2|11|93
+Artie Lewicki|R|Francisco Lindor|L|Flyout|B|Four-Seam Fastball|33|1|1|2|12|93
+Artie Lewicki|R|Francisco Lindor|L|Flyout|B|Slider|34|2|1|2|12|86
+Artie Lewicki|R|Francisco Lindor|L|Flyout|X|Four-Seam Fastball|35|3|1|2|11|93
+Artie Lewicki|R|Brandon Guyer|R|Lineout|C|Slider|36|0|0|0|1|82
+Artie Lewicki|R|Brandon Guyer|R|Lineout|F|Four-Seam Fastball|37|0|1|0|7|91
+Artie Lewicki|R|Brandon Guyer|R|Lineout|B|Slider|38|0|2|0|14|84
+Artie Lewicki|R|Brandon Guyer|R|Lineout|F|Four-Seam Fastball|39|1|2|0|2|92
+Artie Lewicki|R|Brandon Guyer|R|Lineout|B|Slider|40|1|2|0|14|85
+Artie Lewicki|R|Brandon Guyer|R|Lineout|X|Four-Seam Fastball|41|2|2|0|9|94
+Artie Lewicki|R|Yonder Alonso|L|Strikeout|F|Slider|42|0|0|1|3|83
+Artie Lewicki|R|Yonder Alonso|L|Strikeout|S|Slider|43|0|1|1|11|86
+Artie Lewicki|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|44|0|2|1|13|93
+Artie Lewicki|R|Yonder Alonso|L|Strikeout|C|Four-Seam Fastball|45|0|2|1|9|93
+Artie Lewicki|R|Erik Gonzalez|R|Single|D|Curveball|46|0|0|2|6|76
+Artie Lewicki|R|Jason Kipnis|L|Strikeout|B|Four-Seam Fastball|47|0|0|2|14|93
+Artie Lewicki|R|Jason Kipnis|L|Strikeout|F|Four-Seam Fastball|48|1|0|2|12|92
+Artie Lewicki|R|Jason Kipnis|L|Strikeout|B|Changeup|49|1|1|2|11|83
+Artie Lewicki|R|Jason Kipnis|L|Strikeout|F|Four-Seam Fastball|50|2|1|2|2|92
+Artie Lewicki|R|Jason Kipnis|L|Strikeout|C|Four-Seam Fastball|51|2|2|2|14|94
+Artie Lewicki|R|Roberto Perez|R|Groundout|C|Slider|52|0|0|0|14|82
+Artie Lewicki|R|Roberto Perez|R|Groundout|C|Curveball|53|0|1|0|2|75
+Artie Lewicki|R|Roberto Perez|R|Groundout|X|Four-Seam Fastball|54|0|2|0|12|92
+Artie Lewicki|R|Rajai Davis|R|Groundout|B|Four-Seam Fastball|55|0|0|1|11|92
+Artie Lewicki|R|Rajai Davis|R|Groundout|B|Slider|56|1|0|1|14|85
+Artie Lewicki|R|Rajai Davis|R|Groundout|B|Four-Seam Fastball|57|2|0|1|13|92
+Artie Lewicki|R|Rajai Davis|R|Groundout|C|Four-Seam Fastball|58|3|0|1|3|91
+Artie Lewicki|R|Rajai Davis|R|Groundout|F|Four-Seam Fastball|59|3|1|1|5|92
+Artie Lewicki|R|Rajai Davis|R|Groundout|F|Four-Seam Fastball|60|3|2|1|8|93
+Artie Lewicki|R|Rajai Davis|R|Groundout|X|Four-Seam Fastball|61|3|2|1|1|93
+Artie Lewicki|R|Michael Brantley|L|Single|D|Four-Seam Fastball|62|0|0|2|4|93
+Artie Lewicki|R|Jose Ramirez|L|Single|F|Slider|63|0|0|2|6|84
+Artie Lewicki|R|Jose Ramirez|L|Single|D|Four-Seam Fastball|64|0|1|2|2|92
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|B|Slider|65|0|0|2|12|84
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|F|Slider|66|1|0|2|9|86
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|B|Four-Seam Fastball|67|1|1|2|12|92
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|F|Slider|68|2|1|2|12|82
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|F|Four-Seam Fastball|69|2|2|2|2|93
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|F|Four-Seam Fastball|70|2|2|2|12|94
+Artie Lewicki|R|Francisco Lindor|L|Strikeout|S|Curveball|71|2|2|2|6|76
+Artie Lewicki|R|Ryon Healy|R|Single|B|Slider|0|0|0|2|14|82
+Artie Lewicki|R|Ryon Healy|R|Single|B|Four-Seam Fastball|1|1|0|2|12|92
+Artie Lewicki|R|Ryon Healy|R|Single|C|Four-Seam Fastball|2|2|0|2|5|92
+Artie Lewicki|R|Ryon Healy|R|Single|D|Four-Seam Fastball|3|2|1|2|6|92
+Artie Lewicki|R|Ben Gamel|L|Flyout|M|Curveball|4|0|0|2|9|74
+Artie Lewicki|R|Ben Gamel|L|Flyout|F|Four-Seam Fastball|5|0|1|2|3|93
+Artie Lewicki|R|Ben Gamel|L|Flyout|B|Four-Seam Fastball|6|0|2|2|12|93
+Artie Lewicki|R|Ben Gamel|L|Flyout|X|Four-Seam Fastball|7|1|2|2|3|93
+Artie Lewicki|R|Mike Zunino|R|Single|B|Curveball|8|0|0|0|14|77
+Artie Lewicki|R|Mike Zunino|R|Single|B|Four-Seam Fastball|9|1|0|0|7|92
+Artie Lewicki|R|Mike Zunino|R|Single|E|Four-Seam Fastball|10|2|0|0|14|93
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Slider|11|0|0|0|12|93
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Slider|12|1|0|0|13|92
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|13|2|0|0|13|92
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|14|3|0|0|14|92
+Artie Lewicki|R|Dee Gordon|L|Double|F|Slider|15|0|0|0|12|84
+Artie Lewicki|R|Dee Gordon|L|Double|E|Slider|16|0|1|0|9|86
+Artie Lewicki|R|Jean Segura|R|Sac Fly|F|Curveball|17|0|0|0|5|77
+Artie Lewicki|R|Jean Segura|R|Sac Fly|S|Four-Seam Fastball|18|0|1|0|8|93
+Artie Lewicki|R|Jean Segura|R|Sac Fly|E|Four-Seam Fastball|19|0|2|0|2|93
+Artie Lewicki|R|Mitch Haniger|R|Strikeout|F|Curveball|20|0|0|1|8|76
+Artie Lewicki|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|21|0|1|1|11|93
+Artie Lewicki|R|Mitch Haniger|R|Strikeout|F|Slider|22|1|1|1|3|85
+Artie Lewicki|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|23|1|2|1|11|93
+Artie Lewicki|R|Mitch Haniger|R|Strikeout|S|Curveball|24|2|2|1|14|78
+Artie Lewicki|R|Nelson Cruz|R|Groundout|C|Four-Seam Fastball|25|0|0|2|14|92
+Artie Lewicki|R|Nelson Cruz|R|Groundout|F|Slider|26|0|1|2|12|85
+Artie Lewicki|R|Nelson Cruz|R|Groundout|B|Four-Seam Fastball|27|0|2|2|12|92
+Artie Lewicki|R|Nelson Cruz|R|Groundout|X|Curveball|28|1|2|2|7|78
+Artie Lewicki|R|Kyle Seager|L|Strikeout|B|Curveball|29|0|0|0|11|75
+Artie Lewicki|R|Kyle Seager|L|Strikeout|C|Four-Seam Fastball|30|1|0|0|3|92
+Artie Lewicki|R|Kyle Seager|L|Strikeout|S|Changeup|31|1|1|0|11|85
+Artie Lewicki|R|Kyle Seager|L|Strikeout|B|Four-Seam Fastball|32|1|2|0|11|92
+Artie Lewicki|R|Kyle Seager|L|Strikeout|S|Curveball|33|2|2|0|12|78
+Artie Lewicki|R|Ryon Healy|R|Flyout|C|Curveball|34|0|0|1|6|79
+Artie Lewicki|R|Ryon Healy|R|Flyout|F|Slider|35|0|1|1|14|87
+Artie Lewicki|R|Ryon Healy|R|Flyout|B|Curveball|36|0|2|1|14|79
+Artie Lewicki|R|Ryon Healy|R|Flyout|B|Slider|37|1|2|1|12|84
+Artie Lewicki|R|Ryon Healy|R|Flyout|X|Slider|38|2|2|1|14|86
+Artie Lewicki|R|Ben Gamel|L|Double|B|Curveball|39|0|0|2|11|74
+Artie Lewicki|R|Ben Gamel|L|Double|F|Four-Seam Fastball|40|1|0|2|5|92
+Artie Lewicki|R|Ben Gamel|L|Double|B|Changeup|41|1|1|2|11|85
+Artie Lewicki|R|Ben Gamel|L|Double|F|Four-Seam Fastball|42|2|1|2|9|92
+Artie Lewicki|R|Ben Gamel|L|Double|D|Four-Seam Fastball|43|2|2|2|4|93
+Artie Lewicki|R|Mike Zunino|R|Strikeout|C|Curveball|44|0|0|2|8|76
+Artie Lewicki|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|45|0|1|2|14|92
+Artie Lewicki|R|Mike Zunino|R|Strikeout|W|Slider|46|1|1|2|14|84
+Artie Lewicki|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|47|1|2|2|12|92
+Artie Lewicki|R|Mike Zunino|R|Strikeout|F|Curveball|48|2|2|2|14|76
+Artie Lewicki|R|Mike Zunino|R|Strikeout|S|Curveball|49|2|2|2|11|77
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|50|0|0|0|12|92
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|51|1|0|0|14|92
+Artie Lewicki|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|52|2|0|0|14|92
+Artie Lewicki|R|Guillermo Heredia|R|Walk|*B|Four-Seam Fastball|53|3|0|0|14|91
+Artie Lewicki|R|Dee Gordon|L|Lineout|C|Curveball|54|0|0|0|9|76
+Artie Lewicki|R|Dee Gordon|L|Lineout|*B|Slider|55|0|1|0|14|86
+Artie Lewicki|R|Dee Gordon|L|Lineout|X|Slider|56|1|1|0|9|84
+Artie Lewicki|R|Jean Segura|R|Groundout|F|Four-Seam Fastball|57|0|0|1|2|92
+Artie Lewicki|R|Jean Segura|R|Groundout|B|Curveball|58|0|1|1|14|78
+Artie Lewicki|R|Jean Segura|R|Groundout|X|Curveball|59|1|1|1|5|78
+Artie Lewicki|R|Jose Abreu|R|Double|B|Four-Seam Fastball|0|0|0|0|12|91
+Artie Lewicki|R|Jose Abreu|R|Double|C|Curveball|1|1|0|0|4|74
+Artie Lewicki|R|Jose Abreu|R|Double|D|Four-Seam Fastball|2|1|1|0|8|92
+Artie Lewicki|R|Jose Rondon|R|Strikeout|*B|Four-Seam Fastball|3|0|0|0|14|91
+Artie Lewicki|R|Jose Rondon|R|Strikeout|T|Four-Seam Fastball|4|1|0|0|3|92
+Artie Lewicki|R|Jose Rondon|R|Strikeout|F|Slider|5|1|1|0|9|82
+Artie Lewicki|R|Jose Rondon|R|Strikeout|B|Four-Seam Fastball|6|1|2|0|12|93
+Artie Lewicki|R|Jose Rondon|R|Strikeout|S|Four-Seam Fastball|7|2|2|0|3|92
+Artie Lewicki|R|Daniel Palka|L|Single|B|Changeup|8|0|0|1|11|83
+Artie Lewicki|R|Daniel Palka|L|Single|E|Four-Seam Fastball|9|1|0|1|4|92
+Artie Lewicki|R|Yoan Moncada|L|Flyout|X|Four-Seam Fastball|10|0|0|1|2|91
+Artie Lewicki|R|Adam Engel|R|Pop Out|C|Four-Seam Fastball|11|0|0|2|14|92
+Artie Lewicki|R|Adam Engel|R|Pop Out|B|Four-Seam Fastball|12|0|1|2|14|92
+Artie Lewicki|R|Adam Engel|R|Pop Out|X|Slider|13|1|1|2|14|82
+Artie Lewicki|R|Trayce Thompson|R|Single|B|Slider|14|0|0|0|14|91
+Artie Lewicki|R|Trayce Thompson|R|Single|F|Four-Seam Fastball|15|1|0|0|2|92
+Artie Lewicki|R|Trayce Thompson|R|Single|B|Four-Seam Fastball|16|1|1|0|12|91
+Artie Lewicki|R|Trayce Thompson|R|Single|F|Slider|17|2|1|0|12|91
+Artie Lewicki|R|Trayce Thompson|R|Single|D|Curveball|18|2|2|0|11|77
+Artie Lewicki|R|Alfredo Gonzalez|R|Strikeout|F|Four-Seam Fastball|19|0|0|0|12|92
+Artie Lewicki|R|Alfredo Gonzalez|R|Strikeout|B|Slider|20|0|1|0|14|82
+Artie Lewicki|R|Alfredo Gonzalez|R|Strikeout|F|Slider|21|1|1|0|6|83
+Artie Lewicki|R|Alfredo Gonzalez|R|Strikeout|S|Four-Seam Fastball|22|1|2|0|11|93
+Artie Lewicki|R|Tim Anderson|R|Strikeout|B|Four-Seam Fastball|23|0|0|1|12|92
+Artie Lewicki|R|Tim Anderson|R|Strikeout|F|Four-Seam Fastball|24|1|0|1|2|91
+Artie Lewicki|R|Tim Anderson|R|Strikeout|F|Curveball|25|1|1|1|7|77
+Artie Lewicki|R|Tim Anderson|R|Strikeout|S|Four-Seam Fastball|26|1|2|1|2|92
+Artie Lewicki|R|Yolmer Sanchez|L|Forceout|C|Changeup|27|0|0|2|11|84
+Artie Lewicki|R|Yolmer Sanchez|L|Forceout|S|Four-Seam Fastball|28|0|1|2|11|92
+Artie Lewicki|R|Yolmer Sanchez|L|Forceout|B|Four-Seam Fastball|29|0|2|2|14|93
+Artie Lewicki|R|Yolmer Sanchez|L|Forceout|X|Four-Seam Fastball|30|1|2|2|6|93
+Artie Lewicki|R|Jose Abreu|R|Single|B|Curveball|31|0|0|0|11|72
+Artie Lewicki|R|Jose Abreu|R|Single|B|Slider|32|1|0|0|14|83
+Artie Lewicki|R|Jose Abreu|R|Single|F|Slider|33|2|0|0|14|83
+Artie Lewicki|R|Jose Abreu|R|Single|F|Slider|34|2|1|0|14|84
+Artie Lewicki|R|Jose Abreu|R|Single|D|Curveball|35|2|2|0|9|77
+Artie Lewicki|R|Jose Rondon|R|Flyout|B|Four-Seam Fastball|36|0|0|0|14|92
+Artie Lewicki|R|Jose Rondon|R|Flyout|B|Four-Seam Fastball|37|1|0|0|14|92
+Artie Lewicki|R|Jose Rondon|R|Flyout|F|Slider|38|2|0|0|14|83
+Artie Lewicki|R|Jose Rondon|R|Flyout|S|Slider|39|2|1|0|14|84
+Artie Lewicki|R|Jose Rondon|R|Flyout|F|Slider|40|2|2|0|9|85
+Artie Lewicki|R|Jose Rondon|R|Flyout|F|Four-Seam Fastball|41|2|2|0|12|92
+Artie Lewicki|R|Jose Rondon|R|Flyout|X|Curveball|42|2|2|0|6|75
+Artie Lewicki|R|Daniel Palka|L|Flyout|X|Changeup|43|0|0|1|11|84
+Artie Lewicki|R|Yoan Moncada|L|Groundout|C|Curveball|44|0|0|2|4|76
+Artie Lewicki|R|Yoan Moncada|L|Groundout|X|Four-Seam Fastball|45|0|1|2|6|93
+Artie Lewicki|R|Zack Cozart|R|Grounded Into DP|C|Four-Seam Fastball|0|0|0|0|6|91
+Artie Lewicki|R|Zack Cozart|R|Grounded Into DP|B|Slider|1|0|1|0|14|84
+Artie Lewicki|R|Zack Cozart|R|Grounded Into DP|F|Curveball|2|1|1|0|13|73
+Artie Lewicki|R|Zack Cozart|R|Grounded Into DP|X|Slider|3|1|2|0|9|81
+Artie Lewicki|R|Mike Trout|R|Groundout|X|Four-Seam Fastball|4|0|0|2|14|92
+Artie Lewicki|R|Justin Upton|R|Flyout|B|Four-Seam Fastball|5|0|0|0|14|92
+Artie Lewicki|R|Justin Upton|R|Flyout|X|Slider|6|1|0|0|12|83
+Artie Lewicki|R|Albert Pujols|R|Single|C|Slider|7|0|0|1|2|84
+Artie Lewicki|R|Albert Pujols|R|Single|B|Curveball|8|0|1|1|13|77
+Artie Lewicki|R|Albert Pujols|R|Single|F|Slider|9|1|1|1|12|84
+Artie Lewicki|R|Albert Pujols|R|Single|D|Four-Seam Fastball|10|1|2|1|12|93
+Artie Lewicki|R|Andrelton Simmons|R|Pop Out|B|Four-Seam Fastball|11|0|0|1|12|93
+Artie Lewicki|R|Andrelton Simmons|R|Pop Out|X|Four-Seam Fastball|12|1|0|1|11|91
+Artie Lewicki|R|Luis Valbuena|L|Flyout|B|Curveball|13|0|0|2|14|75
+Artie Lewicki|R|Luis Valbuena|L|Flyout|C|Changeup|14|1|0|2|3|83
+Artie Lewicki|R|Luis Valbuena|L|Flyout|F|Curveball|15|1|1|2|9|76
+Artie Lewicki|R|Luis Valbuena|L|Flyout|B|Four-Seam Fastball|16|1|2|2|12|93
+Artie Lewicki|R|Luis Valbuena|L|Flyout|F|Four-Seam Fastball|17|2|2|2|1|93
+Artie Lewicki|R|Luis Valbuena|L|Flyout|F|Four-Seam Fastball|18|2|2|2|11|93
+Artie Lewicki|R|Luis Valbuena|L|Flyout|B|Changeup|19|2|2|2|14|84
+Artie Lewicki|R|Luis Valbuena|L|Flyout|F|Changeup|20|3|2|2|2|83
+Artie Lewicki|R|Luis Valbuena|L|Flyout|X|Four-Seam Fastball|21|3|2|2|11|93
+Artie Lewicki|R|Ian Kinsler|R|Single|C|Four-Seam Fastball|22|0|0|0|11|92
+Artie Lewicki|R|Ian Kinsler|R|Single|B|Four-Seam Fastball|23|0|1|0|12|93
+Artie Lewicki|R|Ian Kinsler|R|Single|C|Four-Seam Fastball|24|1|1|0|1|93
+Artie Lewicki|R|Ian Kinsler|R|Single|B|Four-Seam Fastball|25|1|2|0|12|92
+Artie Lewicki|R|Ian Kinsler|R|Single|F|Four-Seam Fastball|26|2|2|0|11|93
+Artie Lewicki|R|Ian Kinsler|R|Single|F|Slider|27|2|2|0|14|85
+Artie Lewicki|R|Ian Kinsler|R|Single|F|Slider|28|2|2|0|12|86
+Artie Lewicki|R|Ian Kinsler|R|Single|D|Curveball|29|2|2|0|6|78
+Artie Lewicki|R|Martin Maldonado|R|Single|F|Slider|30|0|0|0|3|83
+Artie Lewicki|R|Martin Maldonado|R|Single|F|Slider|31|0|1|0|2|85
+Artie Lewicki|R|Martin Maldonado|R|Single|E|Four-Seam Fastball|32|0|2|0|1|93
+Artie Lewicki|R|Kole Calhoun|L|Groundout|B|Changeup|33|0|0|1|11|84
+Artie Lewicki|R|Kole Calhoun|L|Groundout|B|Four-Seam Fastball|34|1|0|1|12|93
+Artie Lewicki|R|Kole Calhoun|L|Groundout|B|Four-Seam Fastball|35|2|0|1|13|92
+Artie Lewicki|R|Kole Calhoun|L|Groundout|C|Four-Seam Fastball|36|3|0|1|2|92
+Artie Lewicki|R|Kole Calhoun|L|Groundout|C|Four-Seam Fastball|37|3|1|1|8|93
+Artie Lewicki|R|Kole Calhoun|L|Groundout|X|Four-Seam Fastball|38|3|2|1|9|93
+Artie Lewicki|R|Zack Cozart|R|Groundout|C|Slider|39|0|0|2|3|90
+Artie Lewicki|R|Zack Cozart|R|Groundout|X|Four-Seam Fastball|40|0|1|2|1|91
+Artie Lewicki|R|Mike Trout|R|Walk|B|Curveball|41|0|0|0|14|76
+Artie Lewicki|R|Mike Trout|R|Walk|B|Slider|42|1|0|0|12|83
+Artie Lewicki|R|Mike Trout|R|Walk|B|Four-Seam Fastball|43|2|0|0|1|91
+Artie Lewicki|R|Mike Trout|R|Walk|B|Four-Seam Fastball|44|3|0|0|12|91
+Artie Lewicki|R|Justin Upton|R|Strikeout|C|Four-Seam Fastball|45|0|0|0|5|91
+Artie Lewicki|R|Justin Upton|R|Strikeout|T|Four-Seam Fastball|46|0|1|0|2|91
+Artie Lewicki|R|Justin Upton|R|Strikeout|B|Four-Seam Fastball|47|0|2|0|11|93
+Artie Lewicki|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|48|1|2|0|12|93
+Artie Lewicki|R|Albert Pujols|R|Strikeout|C|Slider|49|0|0|1|9|84
+Artie Lewicki|R|Albert Pujols|R|Strikeout|B|Four-Seam Fastball|50|0|1|1|12|91
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Four-Seam Fastball|51|1|1|1|11|93
+Artie Lewicki|R|Albert Pujols|R|Strikeout|B|Slider|52|1|2|1|14|87
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Four-Seam Fastball|53|2|2|1|8|93
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Slider|54|2|2|1|9|84
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Four-Seam Fastball|55|2|2|1|9|93
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Curveball|56|2|2|1|12|76
+Artie Lewicki|R|Albert Pujols|R|Strikeout|S|Four-Seam Fastball|57|2|2|1|3|93
+Artie Lewicki|R|Devon Travis|R|Groundout|C|Slider|0|0|0|2|9|82
+Artie Lewicki|R|Devon Travis|R|Groundout|C|Four-Seam Fastball|1|0|1|2|12|91
+Artie Lewicki|R|Devon Travis|R|Groundout|X|Four-Seam Fastball|2|0|2|2|6|92
+Artie Lewicki|R|Andrew Benintendi|L|Single|F|Four-Seam Fastball|0|0|0|0|2|90
+Artie Lewicki|R|Andrew Benintendi|L|Single|D|Slider|1|0|1|0|14|84
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|C|Slider|2|0|0|0|8|83
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|3|0|1|0|13|90
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|F|Four-Seam Fastball|4|1|1|0|4|90
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|S|Slider|5|1|2|0|6|83
+Artie Lewicki|R|J.D. Martinez|R|Home Run|B|Four-Seam Fastball|6|0|0|1|11|91
+Artie Lewicki|R|J.D. Martinez|R|Home Run|B|Four-Seam Fastball|7|1|0|1|11|91
+Artie Lewicki|R|J.D. Martinez|R|Home Run|F|Four-Seam Fastball|8|2|0|1|5|91
+Artie Lewicki|R|J.D. Martinez|R|Home Run|F|Slider|9|2|1|1|5|84
+Artie Lewicki|R|J.D. Martinez|R|Home Run|B|Four-Seam Fastball|10|2|2|1|11|91
+Artie Lewicki|R|J.D. Martinez|R|Home Run|E|Four-Seam Fastball|11|3|2|1|5|91
+Artie Lewicki|R|Mitch Moreland|L|Groundout|F|Four-Seam Fastball|12|0|0|1|1|91
+Artie Lewicki|R|Mitch Moreland|L|Groundout|X|Curveball|13|0|1|1|5|76
+Artie Lewicki|R|Eduardo Nunez|R|Groundout|B|Four-Seam Fastball|14|0|0|2|14|90
+Artie Lewicki|R|Eduardo Nunez|R|Groundout|B|Slider|15|1|0|2|14|84
+Artie Lewicki|R|Eduardo Nunez|R|Groundout|X|Four-Seam Fastball|16|2|0|2|6|90
+Artie Lewicki|R|Brock Holt|L|Groundout|B|Slider|17|0|0|0|12|89
+Artie Lewicki|R|Brock Holt|L|Groundout|C|Four-Seam Fastball|18|1|0|0|1|90
+Artie Lewicki|R|Brock Holt|L|Groundout|X|Slider|19|1|1|0|11|83
+Artie Lewicki|R|Rafael Devers|L|Groundout|X|Curveball|20|0|0|1|11|75
+Artie Lewicki|R|Christian Vazquez|R|Groundout|C|Four-Seam Fastball|21|0|0|2|4|91
+Artie Lewicki|R|Christian Vazquez|R|Groundout|B|Curveball|22|0|1|2|11|75
+Artie Lewicki|R|Christian Vazquez|R|Groundout|B|Slider|23|1|1|2|14|84
+Artie Lewicki|R|Christian Vazquez|R|Groundout|F|Four-Seam Fastball|24|2|1|2|14|90
+Artie Lewicki|R|Christian Vazquez|R|Groundout|B|Four-Seam Fastball|25|2|2|2|11|90
+Artie Lewicki|R|Christian Vazquez|R|Groundout|F|Four-Seam Fastball|26|3|2|2|11|91
+Artie Lewicki|R|Christian Vazquez|R|Groundout|X|Four-Seam Fastball|27|3|2|2|14|90
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|C|Four-Seam Fastball|28|0|0|0|8|89
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|F|Curveball|29|0|1|0|11|72
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|30|0|2|0|12|90
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|B|Curveball|31|1|2|0|13|76
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|F|Changeup|32|2|2|0|1|81
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|B|Changeup|33|2|2|0|13|83
+Artie Lewicki|R|Jackie Bradley Jr.|L|Single|D|Four-Seam Fastball|34|3|2|0|5|92
+Artie Lewicki|R|Andrew Benintendi|L|Groundout|F|Slider|35|0|0|0|9|84
+Artie Lewicki|R|Andrew Benintendi|L|Groundout|F|Four-Seam Fastball|36|0|1|0|12|90
+Artie Lewicki|R|Andrew Benintendi|L|Groundout|X|Curveball|37|0|2|0|8|77
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|S|Slider|38|0|0|1|9|84
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|C|Curveball|39|0|1|1|9|77
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|B|Slider|40|0|2|1|14|84
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|B|Slider|41|1|2|1|14|91
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|F|Curveball|42|2|2|1|5|75
+Artie Lewicki|R|Xander Bogaerts|R|Strikeout|W|Slider|43|2|2|1|14|84
+Artie Lewicki|R|J.D. Martinez|R|Field Error|B|Slider|44|0|0|2|14|83
+Artie Lewicki|R|J.D. Martinez|R|Field Error|S|Slider|45|1|0|2|14|84
+Artie Lewicki|R|J.D. Martinez|R|Field Error|F|Four-Seam Fastball|46|1|1|2|5|91
+Artie Lewicki|R|J.D. Martinez|R|Field Error|D|Curveball|47|1|2|2|4|77
+Artie Lewicki|R|Mitch Moreland|L|Single|B|Curveball|48|0|0|2|11|74
+Artie Lewicki|R|Mitch Moreland|L|Single|C|Changeup|49|1|0|2|13|83
+Artie Lewicki|R|Mitch Moreland|L|Single|B|Slider|50|1|1|2|14|87
+Artie Lewicki|R|Mitch Moreland|L|Single|F|Curveball|51|2|1|2|8|75
+Artie Lewicki|R|Mitch Moreland|L|Single|D|Four-Seam Fastball|52|2|2|2|9|91
+Artie Lewicki|R|Eduardo Nunez|R|Single|B|Slider|53|0|0|2|12|82
+Artie Lewicki|R|Eduardo Nunez|R|Single|E|Four-Seam Fastball|54|1|0|2|11|90
+Artie Lewicki|R|Brock Holt|L|Walk|B|Slider|55|0|0|2|14|85
+Artie Lewicki|R|Brock Holt|L|Walk|B|Changeup|56|1|0|2|13|83
+Artie Lewicki|R|Brock Holt|L|Walk|B|Four-Seam Fastball|57|2|0|2|14|91
+Artie Lewicki|R|Brock Holt|L|Walk|C|Four-Seam Fastball|58|3|0|2|8|91
+Artie Lewicki|R|Brock Holt|L|Walk|B|Four-Seam Fastball|59|3|1|2|13|91
+Artie Lewicki|R|Rafael Devers|L|Grounded Into DP|C|Slider|60|0|0|2|14|86
+Artie Lewicki|R|Rafael Devers|L|Grounded Into DP|E|Slider|61|0|1|2|9|85
+Artie Lewicki|R|Christian Vazquez|R|Walk|B|Four-Seam Fastball|62|0|0|1|14|91
+Artie Lewicki|R|Christian Vazquez|R|Walk|B|Slider|63|1|0|1|14|86
+Artie Lewicki|R|Christian Vazquez|R|Walk|B|Four-Seam Fastball|64|2|0|1|14|91
+Artie Lewicki|R|Christian Vazquez|R|Walk|B|Four-Seam Fastball|65|3|0|1|14|90
+Artie Lewicki|R|Jackie Bradley Jr.|L|Walk|B|Slider|66|0|0|1|14|86
+Artie Lewicki|R|Jackie Bradley Jr.|L|Walk|C|Four-Seam Fastball|67|1|0|1|14|90
+Artie Lewicki|R|Jackie Bradley Jr.|L|Walk|B|Slider|68|1|1|1|14|85
+Artie Lewicki|R|Jackie Bradley Jr.|L|Walk|B|Slider|69|2|1|1|14|85
+Artie Lewicki|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|70|3|1|1|13|90
+Artie Lewicki|R|Greg Allen|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|91
+Artie Lewicki|R|Greg Allen|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|4|90
+Artie Lewicki|R|Greg Allen|L|Strikeout|C|Slider|2|1|1|0|2|83
+Artie Lewicki|R|Greg Allen|L|Strikeout|F|Slider|3|1|2|0|11|84
+Artie Lewicki|R|Greg Allen|L|Strikeout|W|Curveball|4|1|2|0|13|79
+Artie Lewicki|R|Michael Brantley|L|Groundout|C|Four-Seam Fastball|5|0|0|1|3|91
+Artie Lewicki|R|Michael Brantley|L|Groundout|F|Four-Seam Fastball|6|0|1|1|2|91
+Artie Lewicki|R|Michael Brantley|L|Groundout|X|Slider|7|0|2|1|6|87
+Artie Lewicki|R|Jose Ramirez|L|Groundout|C|Slider|8|0|0|2|7|85
+Artie Lewicki|R|Jose Ramirez|L|Groundout|F|Four-Seam Fastball|9|0|1|2|11|92
+Artie Lewicki|R|Jose Ramirez|L|Groundout|B|Slider|10|0|2|2|14|86
+Artie Lewicki|R|Jose Ramirez|L|Groundout|X|Four-Seam Fastball|11|1|2|2|11|92
+Artie Lewicki|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|12|0|0|0|12|91
+Artie Lewicki|R|Francisco Lindor|L|Single|C|Four-Seam Fastball|13|1|0|0|7|90
+Artie Lewicki|R|Francisco Lindor|L|Single|D|Slider|14|1|1|0|5|86
+Artie Lewicki|R|Yonder Alonso|L|Double|B|Four-Seam Fastball|15|0|0|0|13|90
+Artie Lewicki|R|Yonder Alonso|L|Double|B|Four-Seam Fastball|16|1|0|0|11|90
+Artie Lewicki|R|Yonder Alonso|L|Double|F|Four-Seam Fastball|17|2|0|0|6|91
+Artie Lewicki|R|Yonder Alonso|L|Double|E|Slider|18|2|1|0|4|84
+Artie Lewicki|R|Lonnie Chisenhall|L|Groundout|X|Four-Seam Fastball|19|0|0|0|2|90
+Artie Lewicki|R|Melky Cabrera|L|Sac Fly|F|Four-Seam Fastball|20|0|0|1|14|91
+Artie Lewicki|R|Melky Cabrera|L|Sac Fly|F|Slider|21|0|1|1|11|86
+Artie Lewicki|R|Melky Cabrera|L|Sac Fly|E|Four-Seam Fastball|22|0|2|1|2|91
+Artie Lewicki|R|Roberto Perez|R|Strikeout|F|Four-Seam Fastball|23|0|0|2|6|91
+Artie Lewicki|R|Roberto Perez|R|Strikeout|C|Curveball|24|0|1|2|6|78
+Artie Lewicki|R|Roberto Perez|R|Strikeout|B|Curveball|25|0|2|2|9|79
+Artie Lewicki|R|Roberto Perez|R|Strikeout|B|Slider|26|1|2|2|14|85
+Artie Lewicki|R|Roberto Perez|R|Strikeout|T|Four-Seam Fastball|27|2|2|2|12|91
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|C|Curveball|28|0|0|0|5|75
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|B|Four-Seam Fastball|29|0|1|0|14|90
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|S|Slider|30|1|1|0|14|86
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|B|Slider|31|1|2|0|14|85
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|B|Four-Seam Fastball|32|2|2|0|14|92
+Artie Lewicki|R|Erik Gonzalez|R|Strikeout|S|Slider|33|3|2|0|14|86
+Artie Lewicki|R|Greg Allen|L|Pop Out|B|Four-Seam Fastball|34|0|0|1|1|92
+Artie Lewicki|R|Greg Allen|L|Pop Out|B|Four-Seam Fastball|35|1|0|1|14|92
+Artie Lewicki|R|Greg Allen|L|Pop Out|C|Four-Seam Fastball|36|2|0|1|7|92
+Artie Lewicki|R|Greg Allen|L|Pop Out|X|Slider|37|2|1|1|6|86
+Artie Lewicki|R|Michael Brantley|L|Pop Out|C|Curveball|38|0|0|2|11|77
+Artie Lewicki|R|Michael Brantley|L|Pop Out|B|Four-Seam Fastball|39|0|1|2|12|91
+Artie Lewicki|R|Michael Brantley|L|Pop Out|C|Curveball|40|1|1|2|6|79
+Artie Lewicki|R|Michael Brantley|L|Pop Out|F|Slider|41|1|2|2|7|86
+Artie Lewicki|R|Michael Brantley|L|Pop Out|X|Four-Seam Fastball|42|1|2|2|3|91
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|C|Curveball|43|0|0|0|13|76
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|B|Four-Seam Fastball|44|0|1|0|14|90
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|B|Four-Seam Fastball|45|1|1|0|14|90
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|C|Curveball|46|2|1|0|5|73
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|B|Slider|47|2|2|0|14|88
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|F|Slider|48|3|2|0|14|86
+Artie Lewicki|R|Jose Ramirez|L|Strikeout|C|Curveball|49|3|2|0|11|74
+Artie Lewicki|R|Francisco Lindor|L|Single|C|Four-Seam Fastball|50|0|0|1|4|91
+Artie Lewicki|R|Francisco Lindor|L|Single|D|Four-Seam Fastball|51|0|1|1|5|91
+Artie Lewicki|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|52|0|0|1|11|90
+Artie Lewicki|R|Yonder Alonso|L|Walk|B|Curveball|53|1|0|1|11|74
+Artie Lewicki|R|Yonder Alonso|L|Walk|B|Changeup|54|2|0|1|11|89
+Artie Lewicki|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|55|3|0|1|13|91
+Artie Lewicki|R|Lonnie Chisenhall|L|Single|B|Changeup|56|0|0|1|13|90
+Artie Lewicki|R|Lonnie Chisenhall|L|Single|F|Four-Seam Fastball|57|1|0|1|7|90
+Artie Lewicki|R|Lonnie Chisenhall|L|Single|S|Curveball|58|1|1|1|14|76
+Artie Lewicki|R|Lonnie Chisenhall|L|Single|D|Four-Seam Fastball|59|1|2|1|12|91
+Artie Lewicki|R|Melky Cabrera|L|Sac Fly|E|Four-Seam Fastball|60|0|0|1|11|92
+Artie Lewicki|R|Roberto Perez|R|Field Error|C|Curveball|61|0|0|2|3|76
+Artie Lewicki|R|Roberto Perez|R|Field Error|B|Curveball|62|0|1|2|8|78
+Artie Lewicki|R|Roberto Perez|R|Field Error|B|Four-Seam Fastball|63|1|1|2|14|90
+Artie Lewicki|R|Roberto Perez|R|Field Error|D|Slider|64|2|1|2|6|84
+Artie Lewicki|R|Erik Gonzalez|R|Groundout|C|Curveball|65|0|0|2|1|77
+Artie Lewicki|R|Erik Gonzalez|R|Groundout|F|Curveball|66|0|1|2|4|77
+Artie Lewicki|R|Erik Gonzalez|R|Groundout|F|Four-Seam Fastball|67|0|2|2|1|91
+Artie Lewicki|R|Erik Gonzalez|R|Groundout|X|Slider|68|0|2|2|12|85
+Artie Lewicki|R|Greg Allen|L|Single|D|Four-Seam Fastball|69|0|0|0|14|90
+Artie Lewicki|R|Michael Brantley|L|Double Play|B|Four-Seam Fastball|70|0|0|0|12|89
+Artie Lewicki|R|Michael Brantley|L|Double Play|F|Four-Seam Fastball|71|1|0|0|11|91
+Artie Lewicki|R|Michael Brantley|L|Double Play|X|Curveball|72|1|1|0|2|77
+Artie Lewicki|R|Jose Ramirez|L|Triple|B|Four-Seam Fastball|73|0|0|2|12|90
+Artie Lewicki|R|Jose Ramirez|L|Triple|C|Slider|74|1|0|2|1|84
+Artie Lewicki|R|Jose Ramirez|L|Triple|D|Slider|75|1|1|2|8|86
+Artie Lewicki|R|Francisco Lindor|L|Flyout|C|Curveball|76|0|0|2|1|77
+Artie Lewicki|R|Francisco Lindor|L|Flyout|X|Curveball|77|0|1|2|5|79
+Artie Lewicki|R|Michael Brantley|L|Single|C|Four-Seam Fastball|0|0|0|0|7|91
+Artie Lewicki|R|Michael Brantley|L|Single|D|Four-Seam Fastball|1|0|1|0|12|91
+Artie Lewicki|R|Jose Ramirez|L|Single|B|Four-Seam Fastball|2|0|0|0|13|91
+Artie Lewicki|R|Jose Ramirez|L|Single|C|Four-Seam Fastball|3|1|0|0|7|92
+Artie Lewicki|R|Jose Ramirez|L|Single|D|Four-Seam Fastball|4|1|1|0|2|90
+Artie Lewicki|R|Edwin Encarnacion|R|Grounded Into DP|C|Slider|5|0|0|0|7|85
+Artie Lewicki|R|Edwin Encarnacion|R|Grounded Into DP|X|Four-Seam Fastball|6|0|1|0|6|91
+Artie Lewicki|R|Lonnie Chisenhall|L|Groundout|B|Four-Seam Fastball|7|0|0|2|14|91
+Artie Lewicki|R|Lonnie Chisenhall|L|Groundout|C|Four-Seam Fastball|8|1|0|2|8|92
+Artie Lewicki|R|Lonnie Chisenhall|L|Groundout|X|Curveball|9|1|1|2|9|77
+Artie Lewicki|R|Yonder Alonso|L|Flyout|B|Changeup|10|0|0|0|13|85
+Artie Lewicki|R|Yonder Alonso|L|Flyout|F|Changeup|11|1|0|0|14|85
+Artie Lewicki|R|Yonder Alonso|L|Flyout|X|Four-Seam Fastball|12|1|1|0|8|92
+Artie Lewicki|R|Yan Gomes|R|Flyout|C|Four-Seam Fastball|13|0|0|1|12|92
+Artie Lewicki|R|Yan Gomes|R|Flyout|S|Slider|14|0|1|1|12|85
+Artie Lewicki|R|Yan Gomes|R|Flyout|B|Curveball|15|0|2|1|14|80
+Artie Lewicki|R|Yan Gomes|R|Flyout|X|Slider|16|1|2|1|12|86
+Artie Lewicki|R|Jason Kipnis|L|Single|C|Changeup|17|0|0|2|4|85
+Artie Lewicki|R|Jason Kipnis|L|Single|D|Curveball|18|0|1|2|4|78
+Artie Lewicki|R|Tyler Naquin|L|Pop Out|C|Four-Seam Fastball|19|0|0|2|8|92
+Artie Lewicki|R|Tyler Naquin|L|Pop Out|X|Slider|20|0|1|2|6|86
+Artie Lewicki|R|Francisco Lindor|L|Groundout|B|Four-Seam Fastball|21|0|0|0|14|91
+Artie Lewicki|R|Francisco Lindor|L|Groundout|X|Four-Seam Fastball|22|1|0|0|13|91
+Artie Lewicki|R|Michael Brantley|L|Lineout|B|Four-Seam Fastball|23|0|0|1|12|91
+Artie Lewicki|R|Michael Brantley|L|Lineout|B|Changeup|24|1|0|1|13|85
+Artie Lewicki|R|Michael Brantley|L|Lineout|F|Four-Seam Fastball|25|2|0|1|11|91
+Artie Lewicki|R|Michael Brantley|L|Lineout|B|Four-Seam Fastball|26|2|1|1|11|92
+Artie Lewicki|R|Michael Brantley|L|Lineout|C|Four-Seam Fastball|27|3|1|1|2|92
+Artie Lewicki|R|Michael Brantley|L|Lineout|X|Four-Seam Fastball|28|3|2|1|5|91
+Artie Lewicki|R|Jose Ramirez|L|Home Run|C|Curveball|29|0|0|2|1|78
+Artie Lewicki|R|Jose Ramirez|L|Home Run|E|Four-Seam Fastball|30|0|1|2|6|92
+Artie Lewicki|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|31|0|0|2|6|92
+Artie Lewicki|R|Edwin Encarnacion|R|Strikeout|C|Curveball|32|0|1|2|9|79
+Artie Lewicki|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|33|0|2|2|14|92
+Artie Lewicki|R|Edwin Encarnacion|R|Strikeout|S|Four-Seam Fastball|34|1|2|2|12|93
+Artie Lewicki|R|Lonnie Chisenhall|L|Single|D|Four-Seam Fastball|35|0|0|0|6|91
+Artie Lewicki|R|Yonder Alonso|L|Pop Out|*B|Four-Seam Fastball|36|0|0|0|14|91
+Artie Lewicki|R|Yonder Alonso|L|Pop Out|X|Changeup|37|1|0|0|4|84
+Artie Lewicki|R|Yan Gomes|R|Double Play|C|Four-Seam Fastball|38|0|0|1|9|91
+Artie Lewicki|R|Yan Gomes|R|Double Play|X|Slider|39|0|1|1|9|85
+Artie Lewicki|R|Jason Kipnis|L|Home Run|B|Curveball|40|0|0|0|9|76
+Artie Lewicki|R|Jason Kipnis|L|Home Run|F|Changeup|41|1|0|0|6|85
+Artie Lewicki|R|Jason Kipnis|L|Home Run|E|Four-Seam Fastball|42|1|1|0|5|91
+Artie Lewicki|R|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|43|0|0|0|11|91
+Artie Lewicki|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|44|1|0|0|2|91
+Artie Lewicki|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|45|1|1|0|7|92
+Artie Lewicki|R|Tyler Naquin|L|Strikeout|S|Curveball|46|1|2|0|14|81
+Artie Lewicki|R|Francisco Lindor|L|Single|C|Curveball|47|0|0|1|8|78
+Artie Lewicki|R|Francisco Lindor|L|Single|D|Four-Seam Fastball|48|0|1|1|13|93
+Artie Lewicki|R|Michael Brantley|L|Double|B|Four-Seam Fastball|49|0|0|1|13|92
+Artie Lewicki|R|Michael Brantley|L|Double|D|Four-Seam Fastball|50|1|0|1|4|92
+Artie Lewicki|R|Jose Ramirez|L|Intent Walk|V|N/A|51|0|0|1|0|0
+Artie Lewicki|R|Jose Ramirez|L|Intent Walk|V|N/A|52|0|1|1|0|0
+Artie Lewicki|R|Jose Ramirez|L|Intent Walk|V|N/A|53|0|2|1|0|0
+Artie Lewicki|R|Jose Ramirez|L|Intent Walk|V|N/A|54|0|2|1|0|0
+Artie Lewicki|R|Edwin Encarnacion|R|Home Run|*B|Four-Seam Fastball|55|0|0|1|14|92
+Artie Lewicki|R|Edwin Encarnacion|R|Home Run|E|Slider|56|1|0|1|6|86
+Artie Lewicki|R|David Bote|R|Groundout|C|Four-Seam Fastball|0|0|0|0|12|92
+Artie Lewicki|R|David Bote|R|Groundout|X|Curveball|1|0|1|0|13|78
+Artie Lewicki|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|2|0|0|1|12|93
+Artie Lewicki|R|Jason Heyward|L|Groundout|C|Curveball|3|1|0|1|2|76
+Artie Lewicki|R|Jason Heyward|L|Groundout|X|Four-Seam Fastball|4|1|1|1|12|93
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|C|Curveball|5|0|0|2|7|77
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|6|0|1|2|12|92
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|7|1|1|2|12|94
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|C|Curveball|8|2|1|2|5|77
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|B|Slider|9|2|2|2|14|89
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|F|Slider|10|3|2|2|6|87
+Artie Lewicki|R|Anthony Rizzo|L|Groundout|X|Curveball|11|3|2|2|5|77
+Artie Lewicki|R|Nomar Mazara|L|Lineout|C|Four-Seam Fastball|0|0|0|0|4|91
+Artie Lewicki|R|Nomar Mazara|L|Lineout|B|Curveball|1|0|1|0|14|78
+Artie Lewicki|R|Nomar Mazara|L|Lineout|B|Four-Seam Fastball|2|1|1|0|11|92
+Artie Lewicki|R|Nomar Mazara|L|Lineout|C|Four-Seam Fastball|3|2|1|0|5|93
+Artie Lewicki|R|Nomar Mazara|L|Lineout|X|Curveball|4|2|2|0|11|78
+Artie Lewicki|R|Adrian Beltre|R|Strikeout|F|Four-Seam Fastball|5|0|0|1|5|93
+Artie Lewicki|R|Adrian Beltre|R|Strikeout|C|Slider|6|0|1|1|14|86
+Artie Lewicki|R|Adrian Beltre|R|Strikeout|S|Slider|7|0|2|1|14|84
+Artie Lewicki|R|Rougned Odor|L|Walk|B|Four-Seam Fastball|8|0|0|2|12|92
+Artie Lewicki|R|Rougned Odor|L|Walk|B|Curveball|9|1|0|2|11|75
+Artie Lewicki|R|Rougned Odor|L|Walk|B|Four-Seam Fastball|10|2|0|2|14|92
+Artie Lewicki|R|Rougned Odor|L|Walk|B|Four-Seam Fastball|11|3|0|2|11|92
+Artie Lewicki|R|Jurickson Profar|L|Groundout|C|Four-Seam Fastball|12|0|0|2|4|91
+Artie Lewicki|R|Jurickson Profar|L|Groundout|B|Four-Seam Fastball|13|0|1|2|14|92
+Artie Lewicki|R|Jurickson Profar|L|Groundout|F|Slider|14|1|1|2|7|84
+Artie Lewicki|R|Jurickson Profar|L|Groundout|X|Slider|15|1|2|2|12|85
+Artie Lewicki|R|Joey Gallo|L|Groundout|F|Four-Seam Fastball|16|0|0|0|3|92
+Artie Lewicki|R|Joey Gallo|L|Groundout|B|Four-Seam Fastball|17|0|1|0|12|92
+Artie Lewicki|R|Joey Gallo|L|Groundout|F|Curveball|18|1|1|0|1|76
+Artie Lewicki|R|Joey Gallo|L|Groundout|F|Four-Seam Fastball|19|1|2|0|12|91
+Artie Lewicki|R|Joey Gallo|L|Groundout|X|Curveball|20|1|2|0|14|77
+Artie Lewicki|R|Isiah Kiner-Falefa|R|Single|B|Four-Seam Fastball|21|0|0|1|12|91
+Artie Lewicki|R|Isiah Kiner-Falefa|R|Single|D|Four-Seam Fastball|22|1|0|1|3|92
+Artie Lewicki|R|Ronald Guzman|L|Flyout|B|Four-Seam Fastball|23|0|0|1|14|92
+Artie Lewicki|R|Ronald Guzman|L|Flyout|B|Slider|24|1|0|1|13|84
+Artie Lewicki|R|Ronald Guzman|L|Flyout|W|Slider|25|2|0|1|14|85
+Artie Lewicki|R|Ronald Guzman|L|Flyout|X|Slider|26|2|1|1|7|84
+Artie Lewicki|R|Delino DeShields|R|Strikeout|C|Curveball|27|0|0|2|1|75
+Artie Lewicki|R|Delino DeShields|R|Strikeout|C|Curveball|28|0|1|2|12|78
+Artie Lewicki|R|Delino DeShields|R|Strikeout|S|Slider|29|0|2|2|14|86
+Artie Lewicki|R|Jefry Marte|R|Double|B|Slider|0|0|0|0|14|83
+Artie Lewicki|R|Jefry Marte|R|Double|B|Slider|1|1|0|0|7|85
+Artie Lewicki|R|Jefry Marte|R|Double|D|Four-Seam Fastball|2|2|0|0|1|92
+Artie Lewicki|R|Jose Briceno|R|Single|B|Four-Seam Fastball|3|0|0|0|12|92
+Artie Lewicki|R|Jose Briceno|R|Single|F|Slider|4|1|0|0|5|84
+Artie Lewicki|R|Jose Briceno|R|Single|E|Four-Seam Fastball|5|1|1|0|14|92
+Artie Lewicki|R|Kaleb Cowart|L|Strikeout|C|Four-Seam Fastball|6|0|0|0|13|93
+Artie Lewicki|R|Kaleb Cowart|L|Strikeout|F|Curveball|7|0|1|0|8|79
+Artie Lewicki|R|Kaleb Cowart|L|Strikeout|F|Four-Seam Fastball|8|0|2|0|12|93
+Artie Lewicki|R|Kaleb Cowart|L|Strikeout|S|Slider|9|0|2|0|4|86
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|B|Curveball|10|0|0|1|12|76
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|B|Curveball|11|1|0|1|11|75
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|F|Four-Seam Fastball|12|2|0|1|2|90
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|B|Four-Seam Fastball|13|2|1|1|14|89
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|F|Four-Seam Fastball|14|3|1|1|5|90
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|F|Four-Seam Fastball|15|3|2|1|8|91
+Artie Lewicki|R|Eric Young Jr.|L|Strikeout Double Play|S|Four-Seam Fastball|16|3|2|1|1|94
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|F|Changeup|17|0|0|0|7|83
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|B|Slider|18|0|1|0|14|86
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|S|Changeup|19|1|1|0|1|83
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|B|Four-Seam Fastball|20|1|2|0|12|92
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|F|Slider|21|2|2|0|14|85
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|F|Four-Seam Fastball|22|2|2|0|2|94
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|B|Curveball|23|2|2|0|13|80
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|F|Changeup|24|3|2|0|11|83
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|F|Four-Seam Fastball|25|3|2|0|1|94
+Artie Lewicki|R|Kole Calhoun|L|Strikeout|S|Slider|26|3|2|0|14|86
+Artie Lewicki|R|David Fletcher|R|Pop Out|C|Slider|27|0|0|1|5|86
+Artie Lewicki|R|David Fletcher|R|Pop Out|X|Four-Seam Fastball|28|0|1|1|11|90
+Artie Lewicki|R|Justin Upton|R|Strikeout|C|Four-Seam Fastball|29|0|0|2|2|94
+Artie Lewicki|R|Justin Upton|R|Strikeout|B|Four-Seam Fastball|30|0|1|2|12|93
+Artie Lewicki|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|31|1|1|2|1|93
+Artie Lewicki|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|32|1|2|2|6|94
+Artie Lewicki|R|Albert Pujols|R|Strikeout|C|Curveball|33|0|0|0|3|76
+Artie Lewicki|R|Albert Pujols|R|Strikeout|B|Slider|34|0|1|0|14|85
+Artie Lewicki|R|Albert Pujols|R|Strikeout|F|Slider|35|1|1|0|11|83
+Artie Lewicki|R|Albert Pujols|R|Strikeout|S|Four-Seam Fastball|36|1|2|0|14|93
+Artie Lewicki|R|Andrelton Simmons|R|Single|B|Slider|37|0|0|1|8|87
+Artie Lewicki|R|Andrelton Simmons|R|Single|C|Four-Seam Fastball|38|1|0|1|6|93
+Artie Lewicki|R|Andrelton Simmons|R|Single|B|Slider|39|1|1|1|14|88
+Artie Lewicki|R|Andrelton Simmons|R|Single|F|Changeup|40|2|1|1|11|84
+Artie Lewicki|R|Andrelton Simmons|R|Single|F|Slider|41|2|2|1|6|86
+Artie Lewicki|R|Andrelton Simmons|R|Single|F|Four-Seam Fastball|42|2|2|1|12|94
+Artie Lewicki|R|Andrelton Simmons|R|Single|F|Changeup|43|2|2|1|14|85
+Artie Lewicki|R|Andrelton Simmons|R|Single|D|Slider|44|2|2|1|8|86
+Artie Lewicki|R|Jefry Marte|R|Grounded Into DP|X|Four-Seam Fastball|45|0|0|1|4|90
+Artie Lewicki|R|Nicky Delmonico|L|Groundout|F|Four-Seam Fastball|0|0|0|0|4|92
+Artie Lewicki|R|Nicky Delmonico|L|Groundout|B|Four-Seam Fastball|1|0|1|0|12|91
+Artie Lewicki|R|Nicky Delmonico|L|Groundout|X|Four-Seam Fastball|2|1|1|0|3|92
+Artie Lewicki|R|Yolmer Sanchez|L|Double|B|Changeup|3|0|0|1|11|88
+Artie Lewicki|R|Yolmer Sanchez|L|Double|C|Four-Seam Fastball|4|1|0|1|3|92
+Artie Lewicki|R|Yolmer Sanchez|L|Double|D|Changeup|5|1|1|1|4|88
+Artie Lewicki|R|Jose Abreu|R|Lineout|C|Four-Seam Fastball|6|0|0|1|13|90
+Artie Lewicki|R|Jose Abreu|R|Lineout|*B|Slider|7|0|1|1|14|85
+Artie Lewicki|R|Jose Abreu|R|Lineout|B|Slider|8|1|1|1|12|83
+Artie Lewicki|R|Jose Abreu|R|Lineout|B|Four-Seam Fastball|9|2|1|1|11|92
+Artie Lewicki|R|Jose Abreu|R|Lineout|X|Four-Seam Fastball|10|3|1|1|11|91
+Artie Lewicki|R|Daniel Palka|L|Strikeout|B|Changeup|11|0|0|2|11|82
+Artie Lewicki|R|Daniel Palka|L|Strikeout|C|Changeup|12|1|0|2|5|83
+Artie Lewicki|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|13|1|1|2|2|92
+Artie Lewicki|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|14|1|2|2|12|93
+Artie Lewicki|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|15|2|2|2|13|93
+Artie Lewicki|R|Daniel Palka|L|Strikeout|S|Changeup|16|3|2|2|11|84
+Artie Lewicki|R|Avisail Garcia|R|Walk|B|Four-Seam Fastball|17|0|0|0|12|92
+Artie Lewicki|R|Avisail Garcia|R|Walk|B|Slider|18|1|0|0|14|86
+Artie Lewicki|R|Avisail Garcia|R|Walk|B|Four-Seam Fastball|19|2|0|0|11|91
+Artie Lewicki|R|Avisail Garcia|R|Walk|C|Four-Seam Fastball|20|3|0|0|8|93
+Artie Lewicki|R|Avisail Garcia|R|Walk|F|Four-Seam Fastball|21|3|1|0|7|90
+Artie Lewicki|R|Avisail Garcia|R|Walk|B|Four-Seam Fastball|22|3|2|0|11|93
+Artie Lewicki|R|Omar Narvaez|L|Walk|B|Changeup|23|0|0|0|11|90
+Artie Lewicki|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|24|1|0|0|11|91
+Artie Lewicki|R|Omar Narvaez|L|Walk|B|Changeup|25|2|0|0|11|90
+Artie Lewicki|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|26|3|0|0|12|91
+Artie Lewicki|R|Tim Anderson|R|Pop Out|C|Changeup|27|0|0|0|4|89
+Artie Lewicki|R|Tim Anderson|R|Pop Out|X|Four-Seam Fastball|28|0|1|0|1|89
+Artie Lewicki|R|Yoan Moncada|L|Strikeout|B|Curveball|29|0|0|1|11|77
+Artie Lewicki|R|Yoan Moncada|L|Strikeout|B|Changeup|30|1|0|1|11|84
+Artie Lewicki|R|Yoan Moncada|L|Strikeout|S|Four-Seam Fastball|31|2|0|1|4|92
+Artie Lewicki|R|Yoan Moncada|L|Strikeout|S|Changeup|32|2|1|1|4|83
+Artie Lewicki|R|Yoan Moncada|L|Strikeout|C|Changeup|33|2|2|1|6|85
+Artie Lewicki|R|Adam Engel|R|Double|B|Four-Seam Fastball|34|0|0|2|11|91
+Artie Lewicki|R|Adam Engel|R|Double|D|Four-Seam Fastball|35|1|0|2|9|91
+Artie Lewicki|R|Nicky Delmonico|L|Hit By Pitch|C|Changeup|36|0|0|2|8|83
+Artie Lewicki|R|Nicky Delmonico|L|Hit By Pitch|B|Four-Seam Fastball|37|0|1|2|12|92
+Artie Lewicki|R|Nicky Delmonico|L|Hit By Pitch|H|Four-Seam Fastball|38|1|1|2|12|91
+Artie Lewicki|R|Yolmer Sanchez|L|Single|D|Four-Seam Fastball|39|0|0|2|3|91
+Artie Lewicki|R|Jose Abreu|R|Sac Fly|E|Slider|40|0|0|2|14|85
+Artie Lewicki|R|Daniel Palka|L|Single|B|Changeup|41|0|0|0|13|89
+Artie Lewicki|R|Daniel Palka|L|Single|B|Changeup|42|1|0|0|11|82
+Artie Lewicki|R|Daniel Palka|L|Single|F|Four-Seam Fastball|43|2|0|0|4|91
+Artie Lewicki|R|Daniel Palka|L|Single|S|Changeup|44|2|1|0|6|82
+Artie Lewicki|R|Daniel Palka|L|Single|E|Changeup|45|2|2|0|11|83
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|S|Slider|46|0|0|0|14|87
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|B|Slider|47|0|1|0|14|85
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|F|Four-Seam Fastball|48|1|1|0|7|92
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|F|Slider|49|1|2|0|14|86
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|F|Four-Seam Fastball|50|1|2|0|11|92
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|F|Curveball|51|1|2|0|12|78
+Artie Lewicki|R|Avisail Garcia|R|Sac Fly|E|Slider|52|1|2|0|9|87
+Artie Lewicki|R|Omar Narvaez|L|Lineout|B|Four-Seam Fastball|53|0|0|1|12|91
+Artie Lewicki|R|Omar Narvaez|L|Lineout|C|Four-Seam Fastball|54|1|0|1|6|91
+Artie Lewicki|R|Omar Narvaez|L|Lineout|F|Changeup|55|1|1|1|9|84
+Artie Lewicki|R|Omar Narvaez|L|Lineout|X|Four-Seam Fastball|56|1|2|1|14|91
+Artie Lewicki|R|Tim Anderson|R|Groundout|C|Curveball|57|0|0|2|14|75
+Artie Lewicki|R|Tim Anderson|R|Groundout|S|Four-Seam Fastball|58|0|1|2|13|90
+Artie Lewicki|R|Tim Anderson|R|Groundout|X|Four-Seam Fastball|59|0|2|2|3|90
+Artie Lewicki|R|Yoan Moncada|L|Walk|B|Curveball|60|0|0|0|12|74
+Artie Lewicki|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|61|1|0|0|12|91
+Artie Lewicki|R|Yoan Moncada|L|Walk|S|Four-Seam Fastball|62|2|0|0|2|89
+Artie Lewicki|R|Yoan Moncada|L|Walk|B|Curveball|63|2|1|0|14|76
+Artie Lewicki|R|Yoan Moncada|L|Walk|*B|Four-Seam Fastball|64|3|1|0|14|91
+Artie Lewicki|R|Adam Engel|R|Pop Out|B|Slider|65|0|0|0|12|82
+Artie Lewicki|R|Adam Engel|R|Pop Out|F|Curveball|66|1|0|0|6|76
+Artie Lewicki|R|Adam Engel|R|Pop Out|F|Slider|67|1|1|0|2|83
+Artie Lewicki|R|Adam Engel|R|Pop Out|P|Pitchout|68|1|2|0|12|91
+Artie Lewicki|R|Adam Engel|R|Pop Out|X|Curveball|69|1|2|0|1|79
+Artie Lewicki|R|Nicky Delmonico|L|Single|D|Four-Seam Fastball|70|0|0|1|4|90
+Artie Lewicki|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|71|0|0|1|6|90
+Artie Lewicki|R|Yolmer Sanchez|L|Strikeout|S|Four-Seam Fastball|72|0|1|1|1|91
+Artie Lewicki|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|73|0|2|1|12|92
+Artie Lewicki|R|Jose Abreu|R|Lineout|F|Four-Seam Fastball|74|0|0|2|7|91
+Artie Lewicki|R|Jose Abreu|R|Lineout|B|Four-Seam Fastball|75|0|1|2|11|91
+Artie Lewicki|R|Jose Abreu|R|Lineout|X|Four-Seam Fastball|76|1|1|2|5|91
+Artie Lewicki|R|Daniel Palka|L|Single|B|Slider|77|0|0|0|13|83
+Artie Lewicki|R|Daniel Palka|L|Single|F|Four-Seam Fastball|78|1|0|0|13|91
+Artie Lewicki|R|Daniel Palka|L|Single|F|Slider|79|1|1|0|1|85
+Artie Lewicki|R|Daniel Palka|L|Single|B|Four-Seam Fastball|80|1|2|0|12|92
+Artie Lewicki|R|Daniel Palka|L|Single|D|Four-Seam Fastball|81|2|2|0|6|92
+Artie Lewicki|R|Whit Merrifield|R|Single|C|Four-Seam Fastball|0|0|0|0|5|92
+Artie Lewicki|R|Whit Merrifield|R|Single|B|Four-Seam Fastball|1|0|1|0|11|93
+Artie Lewicki|R|Whit Merrifield|R|Single|B|Curveball|2|1|1|0|11|76
+Artie Lewicki|R|Whit Merrifield|R|Single|D|Four-Seam Fastball|3|2|1|0|12|91
+Artie Lewicki|R|Lorenzo Cain|R|Flyout|X|Changeup|4|0|0|0|5|87
+Artie Lewicki|R|Melky Cabrera|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|92
+Artie Lewicki|R|Melky Cabrera|L|Groundout|X|Four-Seam Fastball|6|1|0|1|12|92
+Artie Lewicki|R|Eric Hosmer|L|Single|C|Curveball|7|0|0|2|5|77
+Artie Lewicki|R|Eric Hosmer|L|Single|E|Four-Seam Fastball|8|0|1|2|5|89
+Artie Lewicki|R|Salvador Perez|R|Flyout|C|Four-Seam Fastball|9|0|0|2|5|94
+Artie Lewicki|R|Salvador Perez|R|Flyout|S|Slider|10|0|1|2|14|85
+Artie Lewicki|R|Salvador Perez|R|Flyout|F|Four-Seam Fastball|11|0|2|2|12|93
+Artie Lewicki|R|Salvador Perez|R|Flyout|B|Four-Seam Fastball|12|0|2|2|11|93
+Artie Lewicki|R|Salvador Perez|R|Flyout|F|Curveball|13|1|2|2|11|78
+Artie Lewicki|R|Salvador Perez|R|Flyout|X|Curveball|14|1|2|2|8|79
+Artie Lewicki|R|Mike Moustakas|L|Single|D|Four-Seam Fastball|15|0|0|0|13|90
+Artie Lewicki|R|Brandon Moss|L|Grounded Into DP|S|Four-Seam Fastball|16|0|0|0|2|90
+Artie Lewicki|R|Brandon Moss|L|Grounded Into DP|B|Four-Seam Fastball|17|0|1|0|11|91
+Artie Lewicki|R|Brandon Moss|L|Grounded Into DP|X|Curveball|18|1|1|0|4|77
+Artie Lewicki|R|Alcides Escobar|R|Single|F|Four-Seam Fastball|19|0|0|2|12|93
+Artie Lewicki|R|Alcides Escobar|R|Single|D|Slider|20|0|1|2|6|88
+Artie Lewicki|R|Alex Gordon|L|Strikeout|C|Four-Seam Fastball|21|0|0|2|7|92
+Artie Lewicki|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|22|0|1|2|14|93
+Artie Lewicki|R|Alex Gordon|L|Strikeout|F|Four-Seam Fastball|23|1|1|2|12|92
+Artie Lewicki|R|Alex Gordon|L|Strikeout|F|Four-Seam Fastball|24|1|2|2|12|93
+Artie Lewicki|R|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|25|1|2|2|11|92
+Artie Lewicki|R|Whit Merrifield|R|Single|B|Slider|26|0|0|0|14|86
+Artie Lewicki|R|Whit Merrifield|R|Single|F|Slider|27|1|0|0|12|86
+Artie Lewicki|R|Whit Merrifield|R|Single|D|Four-Seam Fastball|28|1|1|0|12|92
+Artie Lewicki|R|Lorenzo Cain|R|Single|C|Slider|29|0|0|0|6|86
+Artie Lewicki|R|Lorenzo Cain|R|Single|D|Four-Seam Fastball|30|0|1|0|2|92
+Artie Lewicki|R|Melky Cabrera|L|Double|F|Four-Seam Fastball|31|0|0|0|1|92
+Artie Lewicki|R|Melky Cabrera|L|Double|B|Four-Seam Fastball|32|0|1|0|12|92
+Artie Lewicki|R|Melky Cabrera|L|Double|E|Curveball|33|1|1|0|8|76
+Artie Lewicki|R|Eric Hosmer|L|Home Run|B|Changeup|34|0|0|0|11|83
+Artie Lewicki|R|Eric Hosmer|L|Home Run|E|Changeup|35|1|0|0|1|82
+Artie Lewicki|R|Salvador Perez|R|Flyout|C|Slider|36|0|0|0|14|87
+Artie Lewicki|R|Salvador Perez|R|Flyout|X|Slider|37|0|1|0|12|87
+Artie Lewicki|R|Mike Moustakas|L|Lineout|F|Four-Seam Fastball|38|0|0|1|4|92
+Artie Lewicki|R|Mike Moustakas|L|Lineout|X|Four-Seam Fastball|39|0|1|1|2|91
+Artie Lewicki|R|Brandon Moss|L|Single|B|Curveball|40|0|0|2|11|77
+Artie Lewicki|R|Brandon Moss|L|Single|B|Four-Seam Fastball|41|1|0|2|11|92
+Artie Lewicki|R|Brandon Moss|L|Single|B|Four-Seam Fastball|42|2|0|2|11|91
+Artie Lewicki|R|Brandon Moss|L|Single|C|Four-Seam Fastball|43|3|0|2|7|91
+Artie Lewicki|R|Brandon Moss|L|Single|F|Four-Seam Fastball|44|3|1|2|5|91
+Artie Lewicki|R|Brandon Moss|L|Single|D|Four-Seam Fastball|45|3|2|2|6|93
+Artie Lewicki|R|Alcides Escobar|R|Lineout|X|Changeup|46|0|0|2|5|87
+Artie Lewicki|R|Alex Gordon|L|Single|B|Four-Seam Fastball|47|0|0|0|11|91
+Artie Lewicki|R|Alex Gordon|L|Single|F|Curveball|48|1|0|0|1|77
+Artie Lewicki|R|Alex Gordon|L|Single|D|Curveball|49|1|1|0|3|77
+Artie Lewicki|R|Whit Merrifield|R|Flyout|X|Curveball|50|0|0|0|4|77
+Artie Lewicki|R|Lorenzo Cain|R|Single|B|Slider|51|0|0|1|14|86
+Artie Lewicki|R|Lorenzo Cain|R|Single|F|Slider|52|1|0|1|3|88
+Artie Lewicki|R|Lorenzo Cain|R|Single|F|Curveball|53|1|1|1|7|76
+Artie Lewicki|R|Lorenzo Cain|R|Single|F|Four-Seam Fastball|54|1|2|1|12|92
+Artie Lewicki|R|Lorenzo Cain|R|Single|F|Slider|55|1|2|1|2|86
+Artie Lewicki|R|Lorenzo Cain|R|Single|D|Curveball|56|1|2|1|6|79
+Artie Lewicki|R|Melky Cabrera|L|Forceout|F|Four-Seam Fastball|57|0|0|1|12|92
+Artie Lewicki|R|Melky Cabrera|L|Forceout|X|Slider|58|0|1|1|12|86
+Artie Lewicki|R|Eric Hosmer|L|Walk|B|Slider|59|0|0|2|14|89
+Artie Lewicki|R|Eric Hosmer|L|Walk|B|Slider|60|1|0|2|14|90
+Artie Lewicki|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|61|2|0|2|12|92
+Artie Lewicki|R|Eric Hosmer|L|Walk|C|Slider|62|3|0|2|3|87
+Artie Lewicki|R|Eric Hosmer|L|Walk|S|Changeup|63|3|1|2|4|87
+Artie Lewicki|R|Eric Hosmer|L|Walk|F|Slider|64|3|2|2|11|86
+Artie Lewicki|R|Eric Hosmer|L|Walk|B|Curveball|65|3|2|2|11|74
+Artie Lewicki|R|Salvador Perez|R|Flyout|X|Four-Seam Fastball|66|0|0|2|11|93
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|B|Changeup|67|0|0|0|11|81
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|B|Slider|68|1|0|0|14|86
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|B|Changeup|69|2|0|0|12|86
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|F|Four-Seam Fastball|70|3|0|0|3|91
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|S|Four-Seam Fastball|71|3|1|0|6|92
+Artie Lewicki|R|Mike Moustakas|L|Pop Out|X|Four-Seam Fastball|72|3|2|0|2|92
+Artie Lewicki|R|Brandon Moss|L|Flyout|S|Four-Seam Fastball|73|0|0|1|11|93
+Artie Lewicki|R|Brandon Moss|L|Flyout|F|Four-Seam Fastball|74|0|1|1|12|93
+Artie Lewicki|R|Brandon Moss|L|Flyout|B|Four-Seam Fastball|75|0|2|1|11|92
+Artie Lewicki|R|Brandon Moss|L|Flyout|B|Four-Seam Fastball|76|1|2|1|11|92
+Artie Lewicki|R|Brandon Moss|L|Flyout|X|Curveball|77|2|2|1|2|79
+Artie Lewicki|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|78|0|0|2|9|93
+Artie Lewicki|R|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|79|0|1|2|1|93
+Artie Lewicki|R|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|80|0|2|2|12|94
+Artie Lewicki|R|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|81|0|2|2|2|92
+Artie Lewicki|R|Alcides Escobar|R|Groundout|F|Slider|82|0|2|2|3|87
+Artie Lewicki|R|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|83|0|2|2|12|93
+Artie Lewicki|R|Alcides Escobar|R|Groundout|X|Curveball|84|0|2|2|6|79
+Artie Lewicki|R|Jose Bautista|R|Single|B|Four-Seam Fastball|0|0|0|2|12|92
+Artie Lewicki|R|Jose Bautista|R|Single|D|Four-Seam Fastball|1|1|0|2|9|92
+Artie Lewicki|R|Justin Smoak|L|Flyout|C|Curveball|2|0|0|2|6|76
+Artie Lewicki|R|Justin Smoak|L|Flyout|F|Curveball|3|0|1|2|13|77
+Artie Lewicki|R|Justin Smoak|L|Flyout|B|Four-Seam Fastball|4|0|2|2|14|93
+Artie Lewicki|R|Justin Smoak|L|Flyout|F|Four-Seam Fastball|5|1|2|2|12|93
+Artie Lewicki|R|Justin Smoak|L|Flyout|B|Slider|6|1|2|2|14|88
+Artie Lewicki|R|Justin Smoak|L|Flyout|F|Curveball|7|2|2|2|13|76
+Artie Lewicki|R|Justin Smoak|L|Flyout|X|Four-Seam Fastball|8|2|2|2|3|93
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|C|Four-Seam Fastball|9|0|0|0|4|93
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|C|Four-Seam Fastball|10|0|1|0|4|92
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|B|Four-Seam Fastball|11|0|2|0|12|92
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|B|N/A|12|1|2|0|0|0
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|F|Curveball|13|2|2|0|13|79
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|F|Slider|14|2|2|0|5|87
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|*B|Curveball|15|2|2|0|14|79
+Artie Lewicki|R|Kendrys Morales|L|Strikeout|S|Four-Seam Fastball|16|3|2|0|11|93
+Artie Lewicki|R|Kevin Pillar|R|Flyout|C|Curveball|17|0|0|1|5|76
+Artie Lewicki|R|Kevin Pillar|R|Flyout|F|Slider|18|0|1|1|14|88
+Artie Lewicki|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|19|0|2|1|4|93
+Artie Lewicki|R|Ryan Goins|L|Groundout|C|Curveball|20|0|0|2|11|77
+Artie Lewicki|R|Ryan Goins|L|Groundout|X|Slider|21|0|1|2|12|89
+Artie Lewicki|R|Teoscar Hernandez|R|Single|C|Four-Seam Fastball|22|0|0|0|5|94
+Artie Lewicki|R|Teoscar Hernandez|R|Single|S|Slider|23|0|1|0|2|88
+Artie Lewicki|R|Teoscar Hernandez|R|Single|B|Curveball|24|0|2|0|14|80
+Artie Lewicki|R|Teoscar Hernandez|R|Single|B|Slider|25|1|2|0|14|86
+Artie Lewicki|R|Teoscar Hernandez|R|Single|D|Curveball|26|2|2|0|9|77
+Artie Lewicki|R|Darwin Barney|R|Single|C|Four-Seam Fastball|27|0|0|0|6|93
+Artie Lewicki|R|Darwin Barney|R|Single|S|Slider|28|0|1|0|12|86
+Artie Lewicki|R|Darwin Barney|R|Single|B|Slider|29|0|2|0|12|87
+Artie Lewicki|R|Darwin Barney|R|Single|D|Four-Seam Fastball|30|1|2|0|12|93
+Artie Lewicki|R|Luke Maile|R|Strikeout|F|Curveball|31|0|0|0|7|77
+Artie Lewicki|R|Luke Maile|R|Strikeout|B|Slider|32|0|1|0|12|89
+Artie Lewicki|R|Luke Maile|R|Strikeout|*B|Curveball|33|1|1|0|14|78
+Artie Lewicki|R|Luke Maile|R|Strikeout|B|Four-Seam Fastball|34|2|1|0|12|92
+Artie Lewicki|R|Luke Maile|R|Strikeout|S|Changeup|35|3|1|0|13|88
+Artie Lewicki|R|Luke Maile|R|Strikeout|S|Four-Seam Fastball|36|3|2|0|12|94
+Artie Lewicki|R|Richard Urena|L|Strikeout|B|Four-Seam Fastball|37|0|0|1|11|94
+Artie Lewicki|R|Richard Urena|L|Strikeout|*B|Curveball|38|1|0|1|13|78
+Artie Lewicki|R|Richard Urena|L|Strikeout|B|Four-Seam Fastball|39|2|0|1|11|93
+Artie Lewicki|R|Richard Urena|L|Strikeout|C|Four-Seam Fastball|40|3|0|1|1|92
+Artie Lewicki|R|Richard Urena|L|Strikeout|S|Four-Seam Fastball|41|3|1|1|4|93
+Artie Lewicki|R|Richard Urena|L|Strikeout|S|Four-Seam Fastball|42|3|2|1|4|93
+Artie Lewicki|R|Matt Chapman|R|Lineout|C|Curveball|0|0|0|2|5|77
+Artie Lewicki|R|Matt Chapman|R|Lineout|X|Curveball|1|0|1|2|6|77
+Artie Lewicki|R|Bruce Maxwell|L|Single|C|Four-Seam Fastball|2|0|0|0|7|91
+Artie Lewicki|R|Bruce Maxwell|L|Single|F|Curveball|3|0|1|0|6|79
+Artie Lewicki|R|Bruce Maxwell|L|Single|B|Curveball|4|0|2|0|14|79
+Artie Lewicki|R|Bruce Maxwell|L|Single|F|Four-Seam Fastball|5|1|2|0|2|91
+Artie Lewicki|R|Bruce Maxwell|L|Single|B|Four-Seam Fastball|6|1|2|0|14|91
+Artie Lewicki|R|Bruce Maxwell|L|Single|D|Slider|7|2|2|0|14|89
+Artie Lewicki|R|Marcus Semien|R|Single|C|Slider|8|0|0|0|14|85
+Artie Lewicki|R|Marcus Semien|R|Single|B|Changeup|9|0|1|0|13|88
+Artie Lewicki|R|Marcus Semien|R|Single|F|Four-Seam Fastball|10|1|1|0|2|89
+Artie Lewicki|R|Marcus Semien|R|Single|D|Curveball|11|1|2|0|5|78
+Artie Lewicki|R|Matt Joyce|L|Single|D|Curveball|12|0|0|0|4|79
+Artie Lewicki|R|Jed Lowrie|L|Walk|B|Slider|13|0|0|0|14|87
+Artie Lewicki|R|Jed Lowrie|L|Walk|B|Slider|14|1|0|0|14|88
+Artie Lewicki|R|Jed Lowrie|L|Walk|B|Changeup|15|2|0|0|11|88
+Artie Lewicki|R|Jed Lowrie|L|Walk|B|Four-Seam Fastball|16|3|0|0|11|92
+Artie Lewicki|R|Khris Davis|R|Grounded Into DP|C|Four-Seam Fastball|17|0|0|0|3|91
+Artie Lewicki|R|Khris Davis|R|Grounded Into DP|F|Four-Seam Fastball|18|0|1|0|2|92
+Artie Lewicki|R|Khris Davis|R|Grounded Into DP|B|Curveball|19|0|2|0|11|79
+Artie Lewicki|R|Khris Davis|R|Grounded Into DP|E|Changeup|20|1|2|0|14|88
+Artie Lewicki|R|Matt Olson|L|Walk|B|Curveball|21|0|0|2|13|81
+Artie Lewicki|R|Matt Olson|L|Walk|S|Curveball|22|1|0|2|2|80
+Artie Lewicki|R|Matt Olson|L|Walk|B|Four-Seam Fastball|23|1|1|2|11|92
+Artie Lewicki|R|Matt Olson|L|Walk|*B|Curveball|24|2|1|2|14|78
+Artie Lewicki|R|Matt Olson|L|Walk|B|Slider|25|3|1|2|14|88
+Artie Lewicki|R|Ryon Healy|R|Flyout|B|Slider|26|0|0|2|14|86
+Artie Lewicki|R|Ryon Healy|R|Flyout|B|Slider|27|1|0|2|14|85
+Artie Lewicki|R|Ryon Healy|R|Flyout|X|Four-Seam Fastball|28|2|0|2|3|91
+Artie Lewicki|R|Chad Pinder|R|Groundout|X|Four-Seam Fastball|29|0|0|0|6|89
+Artie Lewicki|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|30|0|0|1|11|90
+Artie Lewicki|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|31|1|0|1|14|89
+Artie Lewicki|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|32|2|0|1|11|89
+Artie Lewicki|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|33|3|0|1|11|89
+Artie Lewicki|R|Bruce Maxwell|L|Flyout|B|Changeup|34|0|0|1|13|88
+Artie Lewicki|R|Bruce Maxwell|L|Flyout|C|Four-Seam Fastball|35|1|0|1|11|90
+Artie Lewicki|R|Bruce Maxwell|L|Flyout|*B|Changeup|36|1|1|1|14|87
+Artie Lewicki|R|Bruce Maxwell|L|Flyout|X|Four-Seam Fastball|37|2|1|1|4|90
+Artie Lewicki|R|Marcus Semien|R|Strikeout|C|Slider|38|0|0|2|6|87
+Artie Lewicki|R|Marcus Semien|R|Strikeout|S|Four-Seam Fastball|39|0|1|2|11|90
+Artie Lewicki|R|Marcus Semien|R|Strikeout|B|Four-Seam Fastball|40|0|2|2|14|91
+Artie Lewicki|R|Marcus Semien|R|Strikeout|F|Slider|41|1|2|2|12|87
+Artie Lewicki|R|Marcus Semien|R|Strikeout|B|Curveball|42|1|2|2|12|79
+Artie Lewicki|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|43|2|2|2|1|91
+Artie Lewicki|R|Eddie Rosario|L|Lineout|C|Four-Seam Fastball|0|0|0|0|6|92
+Artie Lewicki|R|Eddie Rosario|L|Lineout|F|Four-Seam Fastball|1|0|1|0|12|92
+Artie Lewicki|R|Eddie Rosario|L|Lineout|B|Four-Seam Fastball|2|0|2|0|12|93
+Artie Lewicki|R|Eddie Rosario|L|Lineout|B|Four-Seam Fastball|3|1|2|0|12|93
+Artie Lewicki|R|Eddie Rosario|L|Lineout|X|Changeup|4|2|2|0|4|84
+Artie Lewicki|R|Eduardo Escobar|L|Lineout|C|Four-Seam Fastball|5|0|0|1|12|93
+Artie Lewicki|R|Eduardo Escobar|L|Lineout|X|Curveball|6|0|1|1|4|79
+Artie Lewicki|R|Byron Buxton|R|Single|B|Four-Seam Fastball|7|0|0|2|14|94
+Artie Lewicki|R|Byron Buxton|R|Single|F|Four-Seam Fastball|8|1|0|2|14|93
+Artie Lewicki|R|Byron Buxton|R|Single|D|Curveball|9|1|1|2|4|78
+Artie Lewicki|R|Kennys Vargas|L|Single|C|Four-Seam Fastball|10|0|0|2|5|93
+Artie Lewicki|R|Kennys Vargas|L|Single|D|Four-Seam Fastball|11|0|1|2|5|93
+Artie Lewicki|R|Mitch Garver|R|Strikeout|B|Slider|12|0|0|2|12|87
+Artie Lewicki|R|Mitch Garver|R|Strikeout|B|Four-Seam Fastball|13|1|0|2|14|93
+Artie Lewicki|R|Mitch Garver|R|Strikeout|B|Four-Seam Fastball|14|2|0|2|12|94
+Artie Lewicki|R|Mitch Garver|R|Strikeout|C|Four-Seam Fastball|15|3|0|2|1|93
+Artie Lewicki|R|Mitch Garver|R|Strikeout|C|Four-Seam Fastball|16|3|1|2|6|94
+Artie Lewicki|R|Mitch Garver|R|Strikeout|F|Four-Seam Fastball|17|3|2|2|5|94
+Artie Lewicki|R|Mitch Garver|R|Strikeout|F|Four-Seam Fastball|18|3|2|2|6|94
+Artie Lewicki|R|Mitch Garver|R|Strikeout|S|Four-Seam Fastball|19|3|2|2|11|94

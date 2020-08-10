@@ -1,0 +1,379 @@
+Travis Bergen|L|Alex Avila|L|Groundout|B|Curveball|0|0|0|0|13|78
+Travis Bergen|L|Alex Avila|L|Groundout|F|Four-Seam Fastball|1|1|0|0|14|89
+Travis Bergen|L|Alex Avila|L|Groundout|B|Four-Seam Fastball|2|1|1|0|13|90
+Travis Bergen|L|Alex Avila|L|Groundout|X|Four-Seam Fastball|3|2|1|0|7|90
+Travis Bergen|L|Wilmer Flores|R|Double|C|Four-Seam Fastball|4|0|0|1|14|89
+Travis Bergen|L|Wilmer Flores|R|Double|F|Four-Seam Fastball|5|0|1|1|2|89
+Travis Bergen|L|Wilmer Flores|R|Double|B|Curveball|6|0|2|1|13|80
+Travis Bergen|L|Wilmer Flores|R|Double|F|Curveball|7|1|2|1|13|79
+Travis Bergen|L|Wilmer Flores|R|Double|D|Four-Seam Fastball|8|1|2|1|1|91
+Travis Bergen|L|Jimmie Sherfy|R|Strikeout|F|Four-Seam Fastball|9|0|0|1|3|90
+Travis Bergen|L|Jimmie Sherfy|R|Strikeout|S|Curveball|10|0|1|1|13|79
+Travis Bergen|L|Jimmie Sherfy|R|Strikeout|B|Curveball|11|0|2|1|13|79
+Travis Bergen|L|Jimmie Sherfy|R|Strikeout|B|Curveball|12|1|2|1|13|79
+Travis Bergen|L|Jimmie Sherfy|R|Strikeout|C|Four-Seam Fastball|13|2|2|1|9|92
+Travis Bergen|L|Eduardo Escobar|R|Lineout|C|Curveball|14|0|0|2|3|78
+Travis Bergen|L|Eduardo Escobar|R|Lineout|B|Curveball|15|0|1|2|12|78
+Travis Bergen|L|Eduardo Escobar|R|Lineout|T|Four-Seam Fastball|16|1|1|2|5|92
+Travis Bergen|L|Eduardo Escobar|R|Lineout|F|Curveball|17|1|2|2|13|79
+Travis Bergen|L|Eduardo Escobar|R|Lineout|X|Curveball|18|1|2|2|5|78
+Travis Bergen|L|Adam Jones|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|88
+Travis Bergen|L|Adam Jones|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|89
+Travis Bergen|L|Adam Jones|R|Walk|F|Four-Seam Fastball|2|2|0|0|8|89
+Travis Bergen|L|Adam Jones|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|90
+Travis Bergen|L|Adam Jones|R|Walk|F|Four-Seam Fastball|4|3|1|0|9|89
+Travis Bergen|L|Adam Jones|R|Walk|F|Four-Seam Fastball|5|3|2|0|11|90
+Travis Bergen|L|Adam Jones|R|Walk|*B|Curveball|6|3|2|0|13|78
+Travis Bergen|L|Carson Kelly|R|Strikeout|C|Four-Seam Fastball|7|0|0|0|12|89
+Travis Bergen|L|Carson Kelly|R|Strikeout|*B|Curveball|8|0|1|0|13|78
+Travis Bergen|L|Carson Kelly|R|Strikeout|S|Four-Seam Fastball|9|1|1|0|6|90
+Travis Bergen|L|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|10|1|2|0|6|91
+Travis Bergen|L|Carson Kelly|R|Strikeout|S|Curveball|11|1|2|0|7|78
+Travis Bergen|L|Nick Ahmed|R|Home Run|E|Four-Seam Fastball|12|0|0|1|9|90
+Travis Bergen|L|Alex Avila|L|Lineout|B|Curveball|13|0|0|1|13|76
+Travis Bergen|L|Alex Avila|L|Lineout|C|Four-Seam Fastball|14|1|0|1|13|89
+Travis Bergen|L|Alex Avila|L|Lineout|B|Curveball|15|1|1|1|14|77
+Travis Bergen|L|Alex Avila|L|Lineout|B|Four-Seam Fastball|16|2|1|1|14|90
+Travis Bergen|L|Alex Avila|L|Lineout|X|Four-Seam Fastball|17|3|1|1|4|90
+Travis Bergen|L|Joey Votto|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|11|89
+Travis Bergen|L|Joey Votto|L|Strikeout|B|Four-Seam Fastball|1|1|0|1|11|90
+Travis Bergen|L|Joey Votto|L|Strikeout|C|Four-Seam Fastball|2|2|0|1|7|89
+Travis Bergen|L|Joey Votto|L|Strikeout|C|Curveball|3|2|1|1|13|79
+Travis Bergen|L|Joey Votto|L|Strikeout|S|Four-Seam Fastball|4|2|2|1|11|90
+Travis Bergen|L|Nick Senzel|R|Flyout|B|Four-Seam Fastball|5|0|0|2|12|90
+Travis Bergen|L|Nick Senzel|R|Flyout|*B|Changeup|6|1|0|2|13|85
+Travis Bergen|L|Nick Senzel|R|Flyout|X|Four-Seam Fastball|7|2|0|2|5|90
+Travis Bergen|L|Jesse Winker|L|Groundout|C|Curveball|8|0|0|0|13|80
+Travis Bergen|L|Jesse Winker|L|Groundout|B|Curveball|9|0|1|0|11|79
+Travis Bergen|L|Jesse Winker|L|Groundout|X|Four-Seam Fastball|10|1|1|0|3|90
+Travis Bergen|L|Yasiel Puig|R|Single|S|Four-Seam Fastball|11|0|0|1|12|89
+Travis Bergen|L|Yasiel Puig|R|Single|B|Four-Seam Fastball|12|0|1|1|11|90
+Travis Bergen|L|Yasiel Puig|R|Single|S|Four-Seam Fastball|13|1|1|1|6|91
+Travis Bergen|L|Yasiel Puig|R|Single|F|Four-Seam Fastball|14|1|2|1|3|91
+Travis Bergen|L|Yasiel Puig|R|Single|F|Four-Seam Fastball|15|1|2|1|12|92
+Travis Bergen|L|Yasiel Puig|R|Single|D|Curveball|16|1|2|1|13|81
+Travis Bergen|L|Derek Dietrich|L|Single|C|Four-Seam Fastball|17|0|0|1|11|92
+Travis Bergen|L|Derek Dietrich|L|Single|D|Four-Seam Fastball|18|0|1|1|2|91
+Travis Bergen|L|Nick Senzel|R|Walk|B|Curveball|0|0|0|0|13|79
+Travis Bergen|L|Nick Senzel|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|90
+Travis Bergen|L|Nick Senzel|R|Walk|B|Four-Seam Fastball|2|2|0|0|12|89
+Travis Bergen|L|Nick Senzel|R|Walk|C|Four-Seam Fastball|3|3|0|0|2|90
+Travis Bergen|L|Nick Senzel|R|Walk|C|Four-Seam Fastball|4|3|1|0|3|90
+Travis Bergen|L|Nick Senzel|R|Walk|B|Four-Seam Fastball|5|3|2|0|12|91
+Travis Bergen|L|Jose Peraza|R|Lineout|C|Four-Seam Fastball|6|0|0|0|2|90
+Travis Bergen|L|Jose Peraza|R|Lineout|B|Four-Seam Fastball|7|0|1|0|12|90
+Travis Bergen|L|Jose Peraza|R|Lineout|B|Changeup|8|1|1|0|13|85
+Travis Bergen|L|Jose Peraza|R|Lineout|C|Four-Seam Fastball|9|2|1|0|3|88
+Travis Bergen|L|Jose Peraza|R|Lineout|*B|Curveball|10|2|2|0|13|79
+Travis Bergen|L|Jose Peraza|R|Lineout|X|Four-Seam Fastball|11|3|2|0|4|90
+Travis Bergen|L|Cody Reed|L|Strikeout|C|Four-Seam Fastball|12|0|0|1|2|89
+Travis Bergen|L|Cody Reed|L|Strikeout|L|Four-Seam Fastball|13|0|1|1|11|90
+Travis Bergen|L|Cody Reed|L|Strikeout|B|Four-Seam Fastball|14|0|2|1|11|89
+Travis Bergen|L|Cody Reed|L|Strikeout|L|Four-Seam Fastball|15|1|2|1|6|90
+Travis Bergen|L|Tucker Barnhart|R|Flyout|B|Four-Seam Fastball|16|0|0|2|11|90
+Travis Bergen|L|Tucker Barnhart|R|Flyout|X|Changeup|17|1|0|2|5|86
+Travis Bergen|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|89
+Travis Bergen|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|90
+Travis Bergen|L|Yasiel Puig|R|Walk|F|Four-Seam Fastball|2|2|0|0|5|90
+Travis Bergen|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|3|2|1|0|11|91
+Travis Bergen|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Travis Bergen|L|Kyle Farmer|R|Forceout|C|Curveball|5|0|0|0|3|77
+Travis Bergen|L|Kyle Farmer|R|Forceout|F|Curveball|6|0|1|0|5|80
+Travis Bergen|L|Kyle Farmer|R|Forceout|F|Four-Seam Fastball|7|0|2|0|2|92
+Travis Bergen|L|Kyle Farmer|R|Forceout|X|Four-Seam Fastball|8|0|2|0|6|92
+Travis Bergen|L|Jose Iglesias|R|Groundout|C|Curveball|9|0|0|1|1|78
+Travis Bergen|L|Jose Iglesias|R|Groundout|F|Curveball|10|0|1|1|13|79
+Travis Bergen|L|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|11|0|2|1|11|91
+Travis Bergen|L|Jose Iglesias|R|Groundout|X|Curveball|12|1|2|1|5|79
+Travis Bergen|L|Curt Casali|R|Flyout|B|Curveball|13|0|0|2|12|78
+Travis Bergen|L|Curt Casali|R|Flyout|C|Curveball|14|1|0|2|9|78
+Travis Bergen|L|Curt Casali|R|Flyout|B|Changeup|15|1|1|2|14|87
+Travis Bergen|L|Curt Casali|R|Flyout|X|Four-Seam Fastball|16|2|1|2|4|92
+Travis Bergen|L|Raimel Tapia|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|89
+Travis Bergen|L|Raimel Tapia|L|Strikeout|T|Four-Seam Fastball|1|0|1|0|1|89
+Travis Bergen|L|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|13|90
+Travis Bergen|L|Raimel Tapia|L|Strikeout|W|Curveball|3|1|2|0|13|79
+Travis Bergen|L|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|4|0|0|1|3|90
+Travis Bergen|L|Ian Desmond|R|Strikeout|S|Changeup|5|0|1|1|14|86
+Travis Bergen|L|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|6|0|2|1|12|90
+Travis Bergen|L|Ian Desmond|R|Strikeout|B|Curveball|7|1|2|1|13|78
+Travis Bergen|L|Ian Desmond|R|Strikeout|S|Four-Seam Fastball|8|2|2|1|1|90
+Travis Bergen|L|Ryan McMahon|L|Pop Out|C|Curveball|9|0|0|2|6|77
+Travis Bergen|L|Ryan McMahon|L|Pop Out|F|Four-Seam Fastball|10|0|1|2|4|89
+Travis Bergen|L|Ryan McMahon|L|Pop Out|B|Four-Seam Fastball|11|0|2|2|11|89
+Travis Bergen|L|Ryan McMahon|L|Pop Out|B|Curveball|12|1|2|2|13|77
+Travis Bergen|L|Ryan McMahon|L|Pop Out|B|Four-Seam Fastball|13|2|2|2|12|89
+Travis Bergen|L|Ryan McMahon|L|Pop Out|X|Four-Seam Fastball|14|3|2|2|4|89
+Travis Bergen|L|Cody Bellinger|L|Groundout|C|Curveball|0|0|0|0|2|78
+Travis Bergen|L|Cody Bellinger|L|Groundout|X|Four-Seam Fastball|1|0|1|0|2|91
+Travis Bergen|L|Chris Taylor|R|Flyout|B|Four-Seam Fastball|2|0|0|1|11|91
+Travis Bergen|L|Chris Taylor|R|Flyout|B|Curveball|3|1|0|1|12|78
+Travis Bergen|L|Chris Taylor|R|Flyout|F|Four-Seam Fastball|4|2|0|1|5|91
+Travis Bergen|L|Chris Taylor|R|Flyout|B|Four-Seam Fastball|5|2|1|1|12|91
+Travis Bergen|L|Chris Taylor|R|Flyout|X|Four-Seam Fastball|6|3|1|1|2|91
+Travis Bergen|L|Max Muncy|L|Strikeout|B|Four-Seam Fastball|7|0|0|2|11|91
+Travis Bergen|L|Max Muncy|L|Strikeout|B|Curveball|8|1|0|2|14|79
+Travis Bergen|L|Max Muncy|L|Strikeout|S|Four-Seam Fastball|9|2|0|2|13|91
+Travis Bergen|L|Max Muncy|L|Strikeout|C|Curveball|10|2|1|2|14|79
+Travis Bergen|L|Max Muncy|L|Strikeout|C|Four-Seam Fastball|11|2|2|2|11|92
+Travis Bergen|L|Adam Eaton|L|Lineout|L|Four-Seam Fastball|0|0|0|0|11|89
+Travis Bergen|L|Adam Eaton|L|Lineout|F|Four-Seam Fastball|1|0|1|0|12|88
+Travis Bergen|L|Adam Eaton|L|Lineout|X|Curveball|2|0|2|0|8|77
+Travis Bergen|L|Anthony Rendon|R|Intent Walk|C|Four-Seam Fastball|3|0|0|1|8|90
+Travis Bergen|L|Anthony Rendon|R|Intent Walk|*B|Curveball|4|0|1|1|14|77
+Travis Bergen|L|Anthony Rendon|R|Intent Walk|V|N/A|5|1|1|1|0|0
+Travis Bergen|L|Anthony Rendon|R|Intent Walk|V|N/A|6|1|2|1|0|0
+Travis Bergen|L|Anthony Rendon|R|Intent Walk|V|N/A|7|1|2|1|0|0
+Travis Bergen|L|Juan Soto|L|Flyout|X|Curveball|8|0|0|1|4|78
+Travis Bergen|L|Matt Adams|L|Home Run|B|Four-Seam Fastball|9|0|0|2|11|89
+Travis Bergen|L|Matt Adams|L|Home Run|S|Four-Seam Fastball|10|1|0|2|7|91
+Travis Bergen|L|Matt Adams|L|Home Run|F|Four-Seam Fastball|11|1|1|2|12|91
+Travis Bergen|L|Matt Adams|L|Home Run|F|Four-Seam Fastball|12|1|2|2|11|91
+Travis Bergen|L|Matt Adams|L|Home Run|E|Four-Seam Fastball|13|1|2|2|1|91
+Travis Bergen|L|Howie Kendrick|R|Single|B|Curveball|14|0|0|2|13|78
+Travis Bergen|L|Howie Kendrick|R|Single|C|Curveball|15|1|0|2|7|79
+Travis Bergen|L|Howie Kendrick|R|Single|C|Four-Seam Fastball|16|1|1|2|12|90
+Travis Bergen|L|Howie Kendrick|R|Single|B|Curveball|17|1|2|2|12|77
+Travis Bergen|L|Howie Kendrick|R|Single|F|Curveball|18|2|2|2|2|78
+Travis Bergen|L|Howie Kendrick|R|Single|F|Four-Seam Fastball|19|2|2|2|2|91
+Travis Bergen|L|Howie Kendrick|R|Single|D|Four-Seam Fastball|20|2|2|2|5|90
+Travis Bergen|L|Kurt Suzuki|R|Home Run|E|Curveball|21|0|0|2|5|78
+Travis Bergen|L|Wilmer Difo|R|Groundout|C|Curveball|22|0|0|2|4|78
+Travis Bergen|L|Wilmer Difo|R|Groundout|B|Four-Seam Fastball|23|0|1|2|14|90
+Travis Bergen|L|Wilmer Difo|R|Groundout|S|Four-Seam Fastball|24|1|1|2|11|90
+Travis Bergen|L|Wilmer Difo|R|Groundout|F|Four-Seam Fastball|25|1|2|2|11|91
+Travis Bergen|L|Wilmer Difo|R|Groundout|B|Four-Seam Fastball|26|1|2|2|14|91
+Travis Bergen|L|Wilmer Difo|R|Groundout|X|Curveball|27|2|2|2|3|78
+Travis Bergen|L|Brian Dozier|R|Double|C|Four-Seam Fastball|0|0|0|2|3|90
+Travis Bergen|L|Brian Dozier|R|Double|B|Curveball|1|0|1|2|12|78
+Travis Bergen|L|Brian Dozier|R|Double|C|Curveball|2|1|1|2|2|78
+Travis Bergen|L|Brian Dozier|R|Double|B|Four-Seam Fastball|3|1|2|2|12|91
+Travis Bergen|L|Brian Dozier|R|Double|B|Four-Seam Fastball|4|2|2|2|12|91
+Travis Bergen|L|Brian Dozier|R|Double|F|Four-Seam Fastball|5|3|2|2|11|90
+Travis Bergen|L|Brian Dozier|R|Double|D|Four-Seam Fastball|6|3|2|2|2|91
+Travis Bergen|L|Wilmer Difo|R|Walk|B|Four-Seam Fastball|7|0|0|2|12|91
+Travis Bergen|L|Wilmer Difo|R|Walk|B|Four-Seam Fastball|8|1|0|2|11|91
+Travis Bergen|L|Wilmer Difo|R|Walk|*B|Curveball|9|2|0|2|13|80
+Travis Bergen|L|Wilmer Difo|R|Walk|B|Four-Seam Fastball|10|3|0|2|11|90
+Travis Bergen|L|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|0|0|0|2|11|89
+Travis Bergen|L|Ian Kinsler|R|Groundout|C|Curveball|1|1|0|2|1|77
+Travis Bergen|L|Ian Kinsler|R|Groundout|C|Four-Seam Fastball|2|1|1|2|13|90
+Travis Bergen|L|Ian Kinsler|R|Groundout|F|Curveball|3|1|2|2|9|78
+Travis Bergen|L|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|4|1|2|2|12|90
+Travis Bergen|L|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|5|2|2|2|12|90
+Travis Bergen|L|Ian Kinsler|R|Groundout|F|Four-Seam Fastball|6|3|2|2|1|90
+Travis Bergen|L|Ian Kinsler|R|Groundout|F|Four-Seam Fastball|7|3|2|2|11|91
+Travis Bergen|L|Ian Kinsler|R|Groundout|X|Curveball|8|3|2|2|7|78
+Travis Bergen|L|Eric Hosmer|L|Double|B|Four-Seam Fastball|0|0|0|0|12|89
+Travis Bergen|L|Eric Hosmer|L|Double|E|Four-Seam Fastball|1|1|0|0|3|89
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|C|Curveball|0|0|0|1|3|77
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|S|Four-Seam Fastball|1|0|1|1|5|91
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|F|Four-Seam Fastball|2|0|2|1|1|90
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|F|Curveball|3|0|2|1|5|77
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|B|Four-Seam Fastball|4|0|2|1|11|91
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|F|Four-Seam Fastball|5|1|2|1|7|90
+Travis Bergen|L|Kevin Kiermaier|L|Forceout|X|Curveball|6|1|2|1|13|79
+Travis Bergen|L|Willy Adames|R|Flyout|B|Four-Seam Fastball|7|0|0|2|11|89
+Travis Bergen|L|Willy Adames|R|Flyout|F|Four-Seam Fastball|8|1|0|2|5|90
+Travis Bergen|L|Willy Adames|R|Flyout|S|Four-Seam Fastball|9|1|1|2|12|90
+Travis Bergen|L|Willy Adames|R|Flyout|B|Four-Seam Fastball|10|1|2|2|12|90
+Travis Bergen|L|Willy Adames|R|Flyout|F|Curveball|11|2|2|2|2|79
+Travis Bergen|L|Willy Adames|R|Flyout|B|Four-Seam Fastball|12|2|2|2|13|91
+Travis Bergen|L|Willy Adames|R|Flyout|X|Four-Seam Fastball|13|3|2|2|12|91
+Travis Bergen|L|Michael Perez|L|Double|B|Four-Seam Fastball|14|0|0|0|14|90
+Travis Bergen|L|Michael Perez|L|Double|B|Curveball|15|1|0|0|13|78
+Travis Bergen|L|Michael Perez|L|Double|F|Four-Seam Fastball|16|2|0|0|5|90
+Travis Bergen|L|Michael Perez|L|Double|C|Four-Seam Fastball|17|2|1|0|4|89
+Travis Bergen|L|Michael Perez|L|Double|F|Four-Seam Fastball|18|2|2|0|1|90
+Travis Bergen|L|Michael Perez|L|Double|D|Four-Seam Fastball|19|2|2|0|6|91
+Travis Bergen|L|Avisail Garcia|R|Flyout|B|Four-Seam Fastball|0|0|0|2|13|88
+Travis Bergen|L|Avisail Garcia|R|Flyout|C|Curveball|1|1|0|2|13|77
+Travis Bergen|L|Avisail Garcia|R|Flyout|*B|Curveball|2|1|1|2|13|79
+Travis Bergen|L|Avisail Garcia|R|Flyout|F|Four-Seam Fastball|3|2|1|2|1|89
+Travis Bergen|L|Avisail Garcia|R|Flyout|X|Four-Seam Fastball|4|2|2|2|6|90
+Travis Bergen|L|Chris Iannetta|R|Strikeout|C|Curveball|0|0|0|2|5|76
+Travis Bergen|L|Chris Iannetta|R|Strikeout|C|Four-Seam Fastball|1|0|1|2|8|90
+Travis Bergen|L|Chris Iannetta|R|Strikeout|B|Curveball|2|0|2|2|14|78
+Travis Bergen|L|Chris Iannetta|R|Strikeout|B|Curveball|3|1|2|2|12|79
+Travis Bergen|L|Chris Iannetta|R|Strikeout|C|Four-Seam Fastball|4|2|2|2|7|91
+Travis Bergen|L|Pat Valaika|R|Strikeout|C|Curveball|5|0|0|0|7|78
+Travis Bergen|L|Pat Valaika|R|Strikeout|F|Four-Seam Fastball|6|0|1|0|11|90
+Travis Bergen|L|Pat Valaika|R|Strikeout|B|Four-Seam Fastball|7|0|2|0|12|90
+Travis Bergen|L|Pat Valaika|R|Strikeout|B|Four-Seam Fastball|8|1|2|0|11|91
+Travis Bergen|L|Pat Valaika|R|Strikeout|C|Curveball|9|2|2|0|3|78
+Travis Bergen|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|10|0|0|1|12|89
+Travis Bergen|L|Charlie Blackmon|L|Groundout|C|Four-Seam Fastball|11|1|0|1|5|90
+Travis Bergen|L|Charlie Blackmon|L|Groundout|X|Four-Seam Fastball|12|1|1|1|13|90
+Travis Bergen|L|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|13|0|0|2|14|89
+Travis Bergen|L|Garrett Hampson|R|Strikeout|B|Curveball|14|0|1|2|12|77
+Travis Bergen|L|Garrett Hampson|R|Strikeout|C|Curveball|15|1|1|2|3|77
+Travis Bergen|L|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|16|1|2|2|1|91
+Travis Bergen|L|Garrett Hampson|R|Strikeout|S|Four-Seam Fastball|17|1|2|2|11|91
+Travis Bergen|L|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|18|0|0|0|12|90
+Travis Bergen|L|Nolan Arenado|R|Strikeout|C|Four-Seam Fastball|19|1|0|0|14|90
+Travis Bergen|L|Nolan Arenado|R|Strikeout|B|Curveball|20|1|1|0|12|78
+Travis Bergen|L|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|21|2|1|0|12|91
+Travis Bergen|L|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|22|2|2|0|12|91
+Travis Bergen|L|Nolan Arenado|R|Strikeout|S|Four-Seam Fastball|23|3|2|0|9|90
+Travis Bergen|L|Trevor Story|R|Strikeout|F|Four-Seam Fastball|24|0|0|1|3|90
+Travis Bergen|L|Trevor Story|R|Strikeout|B|Four-Seam Fastball|25|0|1|1|11|90
+Travis Bergen|L|Trevor Story|R|Strikeout|B|Four-Seam Fastball|26|1|1|1|12|90
+Travis Bergen|L|Trevor Story|R|Strikeout|F|Curveball|27|2|1|1|8|78
+Travis Bergen|L|Trevor Story|R|Strikeout|F|Four-Seam Fastball|28|2|2|1|2|90
+Travis Bergen|L|Trevor Story|R|Strikeout|C|Four-Seam Fastball|29|2|2|1|12|90
+Travis Bergen|L|Tony Wolters|L|Groundout|C|Four-Seam Fastball|0|0|0|0|11|89
+Travis Bergen|L|Tony Wolters|L|Groundout|B|Curveball|1|0|1|0|14|77
+Travis Bergen|L|Tony Wolters|L|Groundout|B|Four-Seam Fastball|2|1|1|0|12|88
+Travis Bergen|L|Tony Wolters|L|Groundout|F|Four-Seam Fastball|3|2|1|0|5|89
+Travis Bergen|L|Tony Wolters|L|Groundout|F|Four-Seam Fastball|4|2|2|0|6|90
+Travis Bergen|L|Tony Wolters|L|Groundout|F|Four-Seam Fastball|5|2|2|0|14|90
+Travis Bergen|L|Tony Wolters|L|Groundout|X|Curveball|6|2|2|0|7|77
+Travis Bergen|L|Charlie Blackmon|L|Groundout|C|Four-Seam Fastball|7|0|0|1|2|90
+Travis Bergen|L|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|8|0|1|1|4|91
+Travis Bergen|L|Charlie Blackmon|L|Groundout|X|Curveball|9|0|2|1|13|78
+Travis Bergen|L|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|11|90
+Travis Bergen|L|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|11|1|0|2|1|90
+Travis Bergen|L|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|12|1|1|2|11|89
+Travis Bergen|L|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|13|2|1|2|12|91
+Travis Bergen|L|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|14|2|2|2|14|91
+Travis Bergen|L|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|15|3|2|2|1|91
+Travis Bergen|L|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|16|3|2|2|1|90
+Travis Bergen|L|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|17|3|2|2|12|89
+Travis Bergen|L|Gleyber Torres|R|Double|C|Curveball|0|0|0|0|14|78
+Travis Bergen|L|Gleyber Torres|R|Double|B|Four-Seam Fastball|1|0|1|0|11|90
+Travis Bergen|L|Gleyber Torres|R|Double|B|Four-Seam Fastball|2|1|1|0|11|91
+Travis Bergen|L|Gleyber Torres|R|Double|B|Four-Seam Fastball|3|2|1|0|12|90
+Travis Bergen|L|Gleyber Torres|R|Double|X|Four-Seam Fastball|4|3|1|0|1|90
+Travis Bergen|L|Gio Urshela|R|Double|C|Four-Seam Fastball|5|0|0|1|6|90
+Travis Bergen|L|Gio Urshela|R|Double|S|Four-Seam Fastball|6|0|1|1|3|91
+Travis Bergen|L|Gio Urshela|R|Double|F|Four-Seam Fastball|7|0|2|1|2|90
+Travis Bergen|L|Gio Urshela|R|Double|F|Four-Seam Fastball|8|0|2|1|2|91
+Travis Bergen|L|Gio Urshela|R|Double|B|Curveball|9|0|2|1|13|79
+Travis Bergen|L|Gio Urshela|R|Double|D|Curveball|10|1|2|1|6|79
+Travis Bergen|L|Brett Gardner|L|Walk|B|Four-Seam Fastball|11|0|0|1|13|88
+Travis Bergen|L|Brett Gardner|L|Walk|B|Curveball|12|1|0|1|13|80
+Travis Bergen|L|Brett Gardner|L|Walk|B|Four-Seam Fastball|13|2|0|1|12|88
+Travis Bergen|L|Brett Gardner|L|Walk|B|Four-Seam Fastball|14|3|0|1|12|90
+Travis Bergen|L|Cameron Maybin|R|Walk|B|Four-Seam Fastball|15|0|0|1|12|90
+Travis Bergen|L|Cameron Maybin|R|Walk|B|Curveball|16|1|0|1|12|77
+Travis Bergen|L|Cameron Maybin|R|Walk|F|Four-Seam Fastball|17|2|0|1|8|90
+Travis Bergen|L|Cameron Maybin|R|Walk|B|Four-Seam Fastball|18|2|1|1|14|90
+Travis Bergen|L|Cameron Maybin|R|Walk|F|Four-Seam Fastball|19|3|1|1|2|90
+Travis Bergen|L|Cameron Maybin|R|Walk|B|Four-Seam Fastball|20|3|2|1|11|91
+Travis Bergen|L|Mike Tauchman|L|Grounded Into DP|B|Curveball|21|0|0|1|11|78
+Travis Bergen|L|Mike Tauchman|L|Grounded Into DP|B|Four-Seam Fastball|22|1|0|1|12|90
+Travis Bergen|L|Mike Tauchman|L|Grounded Into DP|C|Four-Seam Fastball|23|2|0|1|1|90
+Travis Bergen|L|Mike Tauchman|L|Grounded Into DP|F|Four-Seam Fastball|24|2|1|1|4|90
+Travis Bergen|L|Mike Tauchman|L|Grounded Into DP|X|Four-Seam Fastball|25|2|2|1|5|90
+Travis Bergen|L|Luis Cessa|R|Strikeout|B|Four-Seam Fastball|26|0|0|0|12|89
+Travis Bergen|L|Luis Cessa|R|Strikeout|B|Four-Seam Fastball|27|1|0|0|12|89
+Travis Bergen|L|Luis Cessa|R|Strikeout|S|Four-Seam Fastball|28|2|0|0|5|89
+Travis Bergen|L|Luis Cessa|R|Strikeout|S|Four-Seam Fastball|29|2|1|0|5|90
+Travis Bergen|L|Luis Cessa|R|Strikeout|S|Four-Seam Fastball|30|2|2|0|11|89
+Travis Bergen|L|DJ LeMahieu|R|Lineout|B|Changeup|31|0|0|1|12|86
+Travis Bergen|L|DJ LeMahieu|R|Lineout|X|Changeup|32|1|0|1|6|85
+Travis Bergen|L|Luke Voit|R|Groundout|B|Curveball|33|0|0|2|13|81
+Travis Bergen|L|Luke Voit|R|Groundout|X|Changeup|34|1|0|2|3|85
+Travis Bergen|L|David Freese|R|Flyout|B|Four-Seam Fastball|0|0|0|1|13|89
+Travis Bergen|L|David Freese|R|Flyout|X|Four-Seam Fastball|1|1|0|1|11|89
+Travis Bergen|L|Max Muncy|L|Groundout|X|Four-Seam Fastball|2|0|0|2|2|90
+Travis Bergen|L|Nick Senzel|R|Flyout|C|Four-Seam Fastball|0|0|0|0|3|89
+Travis Bergen|L|Nick Senzel|R|Flyout|B|Four-Seam Fastball|1|0|1|0|12|89
+Travis Bergen|L|Nick Senzel|R|Flyout|X|Four-Seam Fastball|2|1|1|0|4|88
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|C|Four-Seam Fastball|3|0|0|1|4|89
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|B|Curveball|4|0|1|1|13|77
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|C|Four-Seam Fastball|5|1|1|1|7|89
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|B|Four-Seam Fastball|6|1|2|1|11|90
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|B|Four-Seam Fastball|7|2|2|1|11|91
+Travis Bergen|L|Joey Votto|L|Hit By Pitch|H|Four-Seam Fastball|8|3|2|1|12|91
+Travis Bergen|L|Eugenio Suarez|R|Single|D|Four-Seam Fastball|9|0|0|1|4|90
+Travis Bergen|L|Jesse Winker|L|Groundout|X|Four-Seam Fastball|10|0|0|1|13|89
+Travis Bergen|L|Yasiel Puig|R|Single|B|Four-Seam Fastball|11|0|0|2|11|90
+Travis Bergen|L|Yasiel Puig|R|Single|B|Four-Seam Fastball|12|1|0|2|12|90
+Travis Bergen|L|Yasiel Puig|R|Single|S|Four-Seam Fastball|13|2|0|2|5|90
+Travis Bergen|L|Yasiel Puig|R|Single|F|Four-Seam Fastball|14|2|1|2|5|91
+Travis Bergen|L|Yasiel Puig|R|Single|E|Four-Seam Fastball|15|2|2|2|4|91
+Travis Bergen|L|Kyle Farmer|R|Single|*B|Curveball|16|0|0|2|13|78
+Travis Bergen|L|Kyle Farmer|R|Single|E|Four-Seam Fastball|17|1|0|2|12|90
+Travis Bergen|L|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|18|0|0|2|12|89
+Travis Bergen|L|Jose Iglesias|R|Groundout|B|Changeup|19|1|0|2|13|85
+Travis Bergen|L|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|20|2|0|2|11|90
+Travis Bergen|L|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|21|3|0|2|13|90
+Travis Bergen|L|Jose Iglesias|R|Groundout|F|Four-Seam Fastball|22|3|1|2|2|90
+Travis Bergen|L|Jose Iglesias|R|Groundout|X|Four-Seam Fastball|23|3|2|2|1|90
+Travis Bergen|L|Billy McKinney|L|Field Error|B|Four-Seam Fastball|0|0|0|0|11|90
+Travis Bergen|L|Billy McKinney|L|Field Error|C|Curveball|1|1|0|0|2|78
+Travis Bergen|L|Billy McKinney|L|Field Error|B|Curveball|2|1|1|0|12|77
+Travis Bergen|L|Billy McKinney|L|Field Error|D|Four-Seam Fastball|3|2|1|0|4|90
+Travis Bergen|L|Jonathan Davis|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|11|90
+Travis Bergen|L|Jonathan Davis|R|Strikeout|B|Four-Seam Fastball|5|0|1|0|11|90
+Travis Bergen|L|Jonathan Davis|R|Strikeout|S|Changeup|6|1|1|0|8|85
+Travis Bergen|L|Jonathan Davis|R|Strikeout|T|Four-Seam Fastball|7|1|2|0|11|91
+Travis Bergen|L|Danny Jansen|R|Walk|B|Four-Seam Fastball|8|0|0|1|12|91
+Travis Bergen|L|Danny Jansen|R|Walk|B|Four-Seam Fastball|9|1|0|1|11|91
+Travis Bergen|L|Danny Jansen|R|Walk|B|Four-Seam Fastball|10|2|0|1|11|90
+Travis Bergen|L|Danny Jansen|R|Walk|B|Four-Seam Fastball|11|3|0|1|12|91
+Travis Bergen|L|Teoscar Hernandez|R|Strikeout|C|Curveball|12|0|0|1|5|78
+Travis Bergen|L|Teoscar Hernandez|R|Strikeout|C|Changeup|13|0|1|1|1|85
+Travis Bergen|L|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|14|0|2|1|12|91
+Travis Bergen|L|Teoscar Hernandez|R|Strikeout|S|Curveball|15|1|2|1|3|80
+Travis Bergen|L|Eric Sogard|L|Pickoff Caught Stealing Home|C|Four-Seam Fastball|16|0|0|2|1|91
+Travis Bergen|L|Eric Sogard|L|Pickoff Caught Stealing Home|C|Four-Seam Fastball|17|0|1|2|7|92
+Travis Bergen|L|Eric Sogard|L|Pickoff Caught Stealing Home|B|Four-Seam Fastball|18|0|2|2|11|92
+Travis Bergen|L|Eric Sogard|L|Pickoff Caught Stealing Home|F|Curveball|19|1|2|2|13|80
+Travis Bergen|L|Eric Sogard|L|Pickoff Caught Stealing Home|B|Four-Seam Fastball|20|1|2|2|13|91
+Travis Bergen|L|Eric Sogard|L|Pop Out|X|Four-Seam Fastball|21|0|0|0|8|90
+Travis Bergen|L|Vladimir Guerrero Jr.|R|Groundout|C|Curveball|22|0|0|1|6|79
+Travis Bergen|L|Vladimir Guerrero Jr.|R|Groundout|B|Four-Seam Fastball|23|0|1|1|12|91
+Travis Bergen|L|Vladimir Guerrero Jr.|R|Groundout|X|Curveball|24|1|1|1|5|78
+Travis Bergen|L|Justin Smoak|R|Lineout|F|Curveball|25|0|0|2|7|81
+Travis Bergen|L|Justin Smoak|R|Lineout|B|Four-Seam Fastball|26|0|1|2|11|90
+Travis Bergen|L|Justin Smoak|R|Lineout|B|Changeup|27|1|1|2|13|86
+Travis Bergen|L|Justin Smoak|R|Lineout|B|Four-Seam Fastball|28|2|1|2|12|90
+Travis Bergen|L|Justin Smoak|R|Lineout|X|Four-Seam Fastball|29|3|1|2|3|90
+Travis Bergen|L|Rhys Hoskins|R|Pop Out|F|Four-Seam Fastball|0|0|0|2|2|90
+Travis Bergen|L|Rhys Hoskins|R|Pop Out|X|Four-Seam Fastball|1|0|1|2|5|90
+Travis Bergen|L|Corey Dickerson|L|Groundout|C|Curveball|2|0|0|0|2|75
+Travis Bergen|L|Corey Dickerson|L|Groundout|F|Four-Seam Fastball|3|0|1|0|2|90
+Travis Bergen|L|Corey Dickerson|L|Groundout|B|Curveball|4|0|2|0|13|78
+Travis Bergen|L|Corey Dickerson|L|Groundout|F|Four-Seam Fastball|5|1|2|0|1|91
+Travis Bergen|L|Corey Dickerson|L|Groundout|X|Curveball|6|1|2|0|13|76
+Travis Bergen|L|Jean Segura|R|Fan Interference|B|Curveball|7|0|0|1|12|76
+Travis Bergen|L|Jean Segura|R|Fan Interference|F|Four-Seam Fastball|8|1|0|1|5|90
+Travis Bergen|L|Jean Segura|R|Fan Interference|D|Four-Seam Fastball|9|1|1|1|7|90
+Travis Bergen|L|J.T. Realmuto|R|Intent Walk|F|Four-Seam Fastball|10|0|0|1|14|90
+Travis Bergen|L|J.T. Realmuto|R|Intent Walk|B|Four-Seam Fastball|11|0|1|1|14|90
+Travis Bergen|L|J.T. Realmuto|R|Intent Walk|B|Four-Seam Fastball|12|1|1|1|12|90
+Travis Bergen|L|J.T. Realmuto|R|Intent Walk|B|Curveball|13|2|1|1|13|77
+Travis Bergen|L|J.T. Realmuto|R|Intent Walk|V|N/A|14|3|1|1|0|0
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|B|Four-Seam Fastball|15|0|0|1|11|90
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|B|Four-Seam Fastball|16|1|0|1|12|90
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|17|2|0|1|12|89
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|18|2|1|1|4|90
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|B|Curveball|19|2|2|1|13|77
+Travis Bergen|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|20|3|2|1|12|89
+Travis Bergen|L|Chris Herrmann|L|Single|C|Four-Seam Fastball|0|0|0|0|3|88
+Travis Bergen|L|Chris Herrmann|L|Single|C|Curveball|1|0|1|0|3|75
+Travis Bergen|L|Chris Herrmann|L|Single|F|Curveball|2|0|2|0|2|84
+Travis Bergen|L|Chris Herrmann|L|Single|B|Four-Seam Fastball|3|0|2|0|11|90
+Travis Bergen|L|Chris Herrmann|L|Single|F|Curveball|4|1|2|0|2|77
+Travis Bergen|L|Chris Herrmann|L|Single|D|Curveball|5|1|2|0|13|78
+Travis Bergen|L|Homer Bailey|R|Strikeout|F|Four-Seam Fastball|6|0|0|0|4|90
+Travis Bergen|L|Homer Bailey|R|Strikeout|L|Four-Seam Fastball|7|0|1|0|1|89
+Travis Bergen|L|Homer Bailey|R|Strikeout|S|Four-Seam Fastball|8|0|2|0|12|91
+Travis Bergen|L|Marcus Semien|R|Pop Out|F|Four-Seam Fastball|9|0|0|1|4|90
+Travis Bergen|L|Marcus Semien|R|Pop Out|B|Four-Seam Fastball|10|0|1|1|12|90
+Travis Bergen|L|Marcus Semien|R|Pop Out|B|Curveball|11|1|1|1|11|76
+Travis Bergen|L|Marcus Semien|R|Pop Out|C|Four-Seam Fastball|12|2|1|1|12|90
+Travis Bergen|L|Marcus Semien|R|Pop Out|*B|Curveball|13|2|2|1|13|79
+Travis Bergen|L|Marcus Semien|R|Pop Out|X|Four-Seam Fastball|14|3|2|1|12|90
+Travis Bergen|L|Robbie Grossman|R|Home Run|F|Four-Seam Fastball|15|0|0|2|1|91
+Travis Bergen|L|Robbie Grossman|R|Home Run|B|Four-Seam Fastball|16|0|1|2|12|91
+Travis Bergen|L|Robbie Grossman|R|Home Run|C|Four-Seam Fastball|17|1|1|2|12|90
+Travis Bergen|L|Robbie Grossman|R|Home Run|F|Curveball|18|1|2|2|4|78
+Travis Bergen|L|Robbie Grossman|R|Home Run|B|Curveball|19|1|2|2|13|78
+Travis Bergen|L|Robbie Grossman|R|Home Run|E|Four-Seam Fastball|20|2|2|2|11|91
+Travis Bergen|L|Matt Chapman|R|Flyout|C|Curveball|21|0|0|2|5|78
+Travis Bergen|L|Matt Chapman|R|Flyout|B|Curveball|22|0|1|2|13|78
+Travis Bergen|L|Matt Chapman|R|Flyout|F|Four-Seam Fastball|23|1|1|2|3|91
+Travis Bergen|L|Matt Chapman|R|Flyout|X|Curveball|24|1|2|2|2|78

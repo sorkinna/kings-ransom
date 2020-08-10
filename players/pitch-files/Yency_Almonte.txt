@@ -1,0 +1,859 @@
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|S|Four-Seam Fastball|0|0|0|0|1|95
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|F|Four-Seam Fastball|1|0|1|0|12|96
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|F|Four-Seam Fastball|2|0|2|0|2|96
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|F|Four-Seam Fastball|3|0|2|0|1|95
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|F|Four-Seam Fastball|4|0|2|0|12|96
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|B|Slider|5|0|2|0|11|86
+Yency Almonte|R|Wilmer Flores|R|Sac Fly|E|Four-Seam Fastball|6|1|2|0|12|96
+Yency Almonte|R|Devin Mesoraco|R|Grounded Into DP|B|Four-Seam Fastball|7|0|0|1|14|95
+Yency Almonte|R|Devin Mesoraco|R|Grounded Into DP|B|Four-Seam Fastball|8|1|0|1|11|96
+Yency Almonte|R|Devin Mesoraco|R|Grounded Into DP|C|Four-Seam Fastball|9|2|0|1|1|96
+Yency Almonte|R|Devin Mesoraco|R|Grounded Into DP|S|Four-Seam Fastball|10|2|1|1|11|96
+Yency Almonte|R|Devin Mesoraco|R|Grounded Into DP|X|Four-Seam Fastball|11|2|2|1|4|96
+Yency Almonte|R|J.T. Realmuto|R|Field Error|B|Four-Seam Fastball|0|0|0|0|14|96
+Yency Almonte|R|J.T. Realmuto|R|Field Error|B|Four-Seam Fastball|1|1|0|0|14|95
+Yency Almonte|R|J.T. Realmuto|R|Field Error|D|Four-Seam Fastball|2|2|0|0|6|96
+Yency Almonte|R|Justin Bour|L|Walk|B|Four-Seam Fastball|3|0|0|0|13|96
+Yency Almonte|R|Justin Bour|L|Walk|B|Four-Seam Fastball|4|1|0|0|13|96
+Yency Almonte|R|Justin Bour|L|Walk|B|Four-Seam Fastball|5|2|0|0|13|95
+Yency Almonte|R|Justin Bour|L|Walk|B|Four-Seam Fastball|6|3|0|0|11|96
+Yency Almonte|R|Starlin Castro|R|Forceout|X|Four-Seam Fastball|7|0|0|0|5|96
+Yency Almonte|R|JT Riddle|L|Groundout|B|Changeup|8|0|0|1|11|89
+Yency Almonte|R|JT Riddle|L|Groundout|E|Changeup|9|1|0|1|7|89
+Yency Almonte|R|Miguel Rojas|R|Single|B|Four-Seam Fastball|10|0|0|2|14|96
+Yency Almonte|R|Miguel Rojas|R|Single|D|Four-Seam Fastball|11|1|0|2|1|97
+Yency Almonte|R|Lewis Brinson|R|Strikeout|C|Slider|12|0|0|2|2|88
+Yency Almonte|R|Lewis Brinson|R|Strikeout|S|Slider|13|0|1|2|14|88
+Yency Almonte|R|Lewis Brinson|R|Strikeout|F|Slider|14|0|2|2|7|90
+Yency Almonte|R|Lewis Brinson|R|Strikeout|*B|Slider|15|0|2|2|14|90
+Yency Almonte|R|Lewis Brinson|R|Strikeout|F|Four-Seam Fastball|16|1|2|2|12|97
+Yency Almonte|R|Lewis Brinson|R|Strikeout|B|Slider|17|1|2|2|14|88
+Yency Almonte|R|Lewis Brinson|R|Strikeout|S|Four-Seam Fastball|18|2|2|2|1|96
+Yency Almonte|R|Alex Avila|L|Lineout|C|Four-Seam Fastball|0|0|0|0|4|93
+Yency Almonte|R|Alex Avila|L|Lineout|B|Changeup|1|0|1|0|11|85
+Yency Almonte|R|Alex Avila|L|Lineout|X|Four-Seam Fastball|2|1|1|0|9|94
+Yency Almonte|R|Chris Owings|R|Lineout|B|Four-Seam Fastball|3|0|0|1|12|95
+Yency Almonte|R|Chris Owings|R|Lineout|X|Four-Seam Fastball|4|1|0|1|9|95
+Yency Almonte|R|Jon Jay|L|Groundout|B|Four-Seam Fastball|5|0|0|2|11|94
+Yency Almonte|R|Jon Jay|L|Groundout|X|Four-Seam Fastball|6|1|0|2|13|95
+Yency Almonte|R|John Ryan Murphy|R|Groundout|B|Four-Seam Fastball|7|0|0|0|14|93
+Yency Almonte|R|John Ryan Murphy|R|Groundout|B|Four-Seam Fastball|8|1|0|0|14|95
+Yency Almonte|R|John Ryan Murphy|R|Groundout|X|Four-Seam Fastball|9|2|0|0|8|95
+Yency Almonte|R|Jake Lamb|L|Single|B|Four-Seam Fastball|10|0|0|1|13|95
+Yency Almonte|R|Jake Lamb|L|Single|B|Four-Seam Fastball|11|1|0|1|13|94
+Yency Almonte|R|Jake Lamb|L|Single|C|Four-Seam Fastball|12|2|0|1|7|95
+Yency Almonte|R|Jake Lamb|L|Single|F|Four-Seam Fastball|13|2|1|1|7|95
+Yency Almonte|R|Jake Lamb|L|Single|D|Slider|14|2|2|1|13|88
+Yency Almonte|R|Jeff Mathis|R|Grounded Into DP|X|Four-Seam Fastball|15|0|0|1|12|95
+Yency Almonte|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|0|0|0|1|13|95
+Yency Almonte|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|1|1|0|1|11|94
+Yency Almonte|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|2|2|0|1|11|96
+Yency Almonte|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|3|3|0|1|11|94
+Yency Almonte|R|Jeff Mathis|R|Single|B|Four-Seam Fastball|4|0|0|1|11|95
+Yency Almonte|R|Jeff Mathis|R|Single|E|Four-Seam Fastball|5|1|0|1|4|96
+Yency Almonte|R|Zack Greinke|R|Grounded Into DP|X|Four-Seam Fastball|6|0|0|1|13|95
+Yency Almonte|R|David Peralta|L|Double|F|Four-Seam Fastball|7|0|0|0|4|93
+Yency Almonte|R|David Peralta|L|Double|F|Four-Seam Fastball|8|0|1|0|4|93
+Yency Almonte|R|David Peralta|L|Double|B|Slider|9|0|2|0|13|88
+Yency Almonte|R|David Peralta|L|Double|D|Four-Seam Fastball|10|1|2|0|5|95
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|F|Four-Seam Fastball|11|0|0|0|8|96
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|12|0|1|0|12|94
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|T|Slider|13|1|1|0|7|89
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|F|Four-Seam Fastball|14|1|2|0|14|96
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|*B|Slider|15|1|2|0|14|87
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|B|Slider|16|2|2|0|14|87
+Yency Almonte|R|Paul Goldschmidt|R|Flyout|X|Slider|17|3|2|0|2|89
+Yency Almonte|R|A.J. Pollock|R|Strikeout|S|Slider|18|0|0|1|14|87
+Yency Almonte|R|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|19|0|1|1|14|94
+Yency Almonte|R|A.J. Pollock|R|Strikeout|S|Four-Seam Fastball|20|1|1|1|6|96
+Yency Almonte|R|A.J. Pollock|R|Strikeout|F|Four-Seam Fastball|21|1|2|1|5|96
+Yency Almonte|R|A.J. Pollock|R|Strikeout|S|Slider|22|1|2|1|14|88
+Yency Almonte|R|Steven Souza Jr.|R|Groundout|C|Four-Seam Fastball|23|0|0|2|5|96
+Yency Almonte|R|Steven Souza Jr.|R|Groundout|T|Four-Seam Fastball|24|0|1|2|9|95
+Yency Almonte|R|Steven Souza Jr.|R|Groundout|B|Slider|25|0|2|2|14|88
+Yency Almonte|R|Steven Souza Jr.|R|Groundout|F|Four-Seam Fastball|26|1|2|2|11|96
+Yency Almonte|R|Steven Souza Jr.|R|Groundout|X|Slider|27|1|2|2|14|88
+Yency Almonte|R|Alex Bregman|R|Double|C|Four-Seam Fastball|0|0|0|0|11|93
+Yency Almonte|R|Alex Bregman|R|Double|B|Slider|1|0|1|0|13|88
+Yency Almonte|R|Alex Bregman|R|Double|F|Four-Seam Fastball|2|1|1|0|8|93
+Yency Almonte|R|Alex Bregman|R|Double|D|Four-Seam Fastball|3|1|2|0|2|95
+Yency Almonte|R|Jose Altuve|R|Single|B|Slider|4|0|0|0|11|87
+Yency Almonte|R|Jose Altuve|R|Single|C|Slider|5|1|0|0|8|88
+Yency Almonte|R|Jose Altuve|R|Single|B|Four-Seam Fastball|6|1|1|0|12|95
+Yency Almonte|R|Jose Altuve|R|Single|C|Slider|7|2|1|0|4|87
+Yency Almonte|R|Jose Altuve|R|Single|F|Four-Seam Fastball|8|2|2|0|13|95
+Yency Almonte|R|Jose Altuve|R|Single|F|Slider|9|2|2|0|8|88
+Yency Almonte|R|Jose Altuve|R|Single|*B|Four-Seam Fastball|10|2|2|0|14|95
+Yency Almonte|R|Jose Altuve|R|Single|D|Four-Seam Fastball|11|3|2|0|9|96
+Yency Almonte|R|Yuli Gurriel|R|Single|E|Four-Seam Fastball|12|0|0|0|13|96
+Yency Almonte|R|Josh Reddick|L|Grounded Into DP|C|Four-Seam Fastball|13|0|0|0|4|96
+Yency Almonte|R|Josh Reddick|L|Grounded Into DP|B|Four-Seam Fastball|14|0|1|0|13|94
+Yency Almonte|R|Josh Reddick|L|Grounded Into DP|B|Slider|15|1|1|0|13|89
+Yency Almonte|R|Josh Reddick|L|Grounded Into DP|X|Four-Seam Fastball|16|2|1|0|4|95
+Yency Almonte|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|0|0|0|1|1|92
+Yency Almonte|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|1|0|1|1|14|94
+Yency Almonte|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|2|1|1|1|1|95
+Yency Almonte|R|Paul DeJong|R|Strikeout|F|Slider|3|1|2|1|5|85
+Yency Almonte|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|4|1|2|1|5|96
+Yency Almonte|R|Paul DeJong|R|Strikeout|F|Slider|5|1|2|1|8|85
+Yency Almonte|R|Paul DeJong|R|Strikeout|W|Slider|6|1|2|1|14|86
+Yency Almonte|R|Marcell Ozuna|R|Single|F|Slider|7|0|0|2|3|87
+Yency Almonte|R|Marcell Ozuna|R|Single|S|Slider|8|0|1|2|14|85
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|9|0|2|2|12|97
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|10|1|2|2|14|95
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Slider|11|2|2|2|13|88
+Yency Almonte|R|Marcell Ozuna|R|Single|E|Slider|12|3|2|2|11|87
+Yency Almonte|R|Greg Garcia|L|Groundout|B|Four-Seam Fastball|13|0|0|2|11|97
+Yency Almonte|R|Greg Garcia|L|Groundout|F|Four-Seam Fastball|14|1|0|2|7|95
+Yency Almonte|R|Greg Garcia|L|Groundout|B|Changeup|15|1|1|2|11|88
+Yency Almonte|R|Greg Garcia|L|Groundout|X|Four-Seam Fastball|16|2|1|2|13|94
+Yency Almonte|R|Josh Harrison|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|92
+Yency Almonte|R|Josh Harrison|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|3|94
+Yency Almonte|R|Josh Harrison|R|Strikeout|S|Four-Seam Fastball|2|2|0|0|1|94
+Yency Almonte|R|Josh Harrison|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|12|94
+Yency Almonte|R|Josh Harrison|R|Strikeout|S|Slider|4|2|2|0|14|84
+Yency Almonte|R|Jordy Mercer|R|Strikeout|S|Slider|5|0|0|1|8|84
+Yency Almonte|R|Jordy Mercer|R|Strikeout|S|Slider|6|0|1|1|8|87
+Yency Almonte|R|Jordy Mercer|R|Strikeout|B|Slider|7|0|2|1|14|84
+Yency Almonte|R|Jordy Mercer|R|Strikeout|F|Four-Seam Fastball|8|1|2|1|11|95
+Yency Almonte|R|Jordy Mercer|R|Strikeout|B|Slider|9|1|2|1|13|84
+Yency Almonte|R|Jordy Mercer|R|Strikeout|F|Slider|10|2|2|1|6|86
+Yency Almonte|R|Jordy Mercer|R|Strikeout|B|Four-Seam Fastball|11|2|2|1|14|96
+Yency Almonte|R|Jordy Mercer|R|Strikeout|S|Slider|12|3|2|1|14|88
+Yency Almonte|R|Jameson Taillon|R|Groundout|X|Four-Seam Fastball|13|0|0|2|5|95
+Yency Almonte|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|14|0|0|0|5|91
+Yency Almonte|R|Corey Dickerson|L|Strikeout|B|Changeup|15|0|1|0|11|86
+Yency Almonte|R|Corey Dickerson|L|Strikeout|T|Four-Seam Fastball|16|1|1|0|3|94
+Yency Almonte|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|17|1|2|0|12|95
+Yency Almonte|R|Corey Dickerson|L|Strikeout|F|Slider|18|1|2|0|7|86
+Yency Almonte|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|19|1|2|0|12|96
+Yency Almonte|R|Corey Dickerson|L|Strikeout|F|Changeup|20|1|2|0|5|86
+Yency Almonte|R|Corey Dickerson|L|Strikeout|S|Slider|21|1|2|0|14|89
+Yency Almonte|R|Starling Marte|R|Groundout|S|Slider|22|0|0|1|14|86
+Yency Almonte|R|Starling Marte|R|Groundout|B|Four-Seam Fastball|23|0|1|1|12|95
+Yency Almonte|R|Starling Marte|R|Groundout|S|Slider|24|1|1|1|6|87
+Yency Almonte|R|Starling Marte|R|Groundout|X|Slider|25|1|2|1|8|86
+Yency Almonte|R|Gregory Polanco|L|Strikeout|B|Slider|26|0|0|2|14|87
+Yency Almonte|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|27|1|0|2|3|95
+Yency Almonte|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|28|2|0|2|14|95
+Yency Almonte|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|29|2|1|2|14|95
+Yency Almonte|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|30|3|1|2|11|95
+Yency Almonte|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|31|3|2|2|12|96
+Yency Almonte|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|32|3|2|2|9|96
+Yency Almonte|R|Gregory Polanco|L|Strikeout|F|Slider|33|3|2|2|14|89
+Yency Almonte|R|Gregory Polanco|L|Strikeout|S|Four-Seam Fastball|34|3|2|2|11|96
+Yency Almonte|R|Hunter Pence|R|Groundout|B|Slider|0|0|0|1|11|85
+Yency Almonte|R|Hunter Pence|R|Groundout|F|Four-Seam Fastball|1|1|0|1|4|94
+Yency Almonte|R|Hunter Pence|R|Groundout|F|Four-Seam Fastball|2|1|1|1|11|96
+Yency Almonte|R|Hunter Pence|R|Groundout|F|Slider|3|1|2|1|4|86
+Yency Almonte|R|Hunter Pence|R|Groundout|X|Slider|4|1|2|1|9|88
+Yency Almonte|R|Gorkys Hernandez|R|Strikeout|B|Slider|5|0|0|2|11|89
+Yency Almonte|R|Gorkys Hernandez|R|Strikeout|S|Slider|6|1|0|2|9|87
+Yency Almonte|R|Gorkys Hernandez|R|Strikeout|F|Four-Seam Fastball|7|1|1|2|2|96
+Yency Almonte|R|Gorkys Hernandez|R|Strikeout|W|Slider|8|1|2|2|14|86
+Yency Almonte|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|14|94
+Yency Almonte|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|1|1|0|1|3|95
+Yency Almonte|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|2|1|1|1|12|95
+Yency Almonte|R|Evan Longoria|R|Strikeout|B|Slider|3|1|2|1|11|87
+Yency Almonte|R|Evan Longoria|R|Strikeout|S|Slider|4|2|2|1|14|86
+Yency Almonte|R|Brandon Belt|L|Lineout|B|Four-Seam Fastball|5|0|0|2|12|95
+Yency Almonte|R|Brandon Belt|L|Lineout|C|Four-Seam Fastball|6|1|0|2|12|95
+Yency Almonte|R|Brandon Belt|L|Lineout|X|Four-Seam Fastball|7|1|1|2|3|95
+Yency Almonte|R|Alex Verdugo|L|Field Error|F|Slider|0|0|0|2|9|85
+Yency Almonte|R|Alex Verdugo|L|Field Error|C|Slider|1|0|1|2|11|86
+Yency Almonte|R|Alex Verdugo|L|Field Error|E|Four-Seam Fastball|2|0|2|2|11|96
+Yency Almonte|R|Yasiel Puig|R|Single|S|Slider|3|0|0|2|14|90
+Yency Almonte|R|Yasiel Puig|R|Single|E|Four-Seam Fastball|4|0|1|2|14|96
+Yency Almonte|R|Clayton Kershaw|L|Caught Stealing 2B|B|Slider|5|0|0|2|14|88
+Yency Almonte|R|Clayton Kershaw|L|Caught Stealing 2B|C|Four-Seam Fastball|6|1|0|2|8|96
+Yency Almonte|R|Clayton Kershaw|L|Double|C|Four-Seam Fastball|7|0|0|0|8|92
+Yency Almonte|R|Clayton Kershaw|L|Double|D|Slider|8|0|1|0|2|86
+Yency Almonte|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|9|0|0|0|5|95
+Yency Almonte|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|10|0|1|0|12|96
+Yency Almonte|R|Joc Pederson|L|Strikeout|F|Slider|11|1|1|0|14|88
+Yency Almonte|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|12|1|2|0|12|96
+Yency Almonte|R|Joc Pederson|L|Strikeout|F|Slider|13|2|2|0|14|89
+Yency Almonte|R|Joc Pederson|L|Strikeout|W|Slider|14|2|2|0|14|88
+Yency Almonte|R|Justin Turner|R|Lineout|S|Slider|15|0|0|1|11|88
+Yency Almonte|R|Justin Turner|R|Lineout|B|Slider|16|0|1|1|14|85
+Yency Almonte|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|17|1|1|1|12|96
+Yency Almonte|R|Justin Turner|R|Lineout|X|Four-Seam Fastball|18|2|1|1|12|96
+Yency Almonte|R|Manny Machado|R|Flyout|X|Slider|19|0|0|2|3|87
+Yency Almonte|R|Cody Bellinger|L|Walk|B|Slider|0|0|0|0|11|85
+Yency Almonte|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|1|1|0|0|2|94
+Yency Almonte|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|2|1|1|0|12|94
+Yency Almonte|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|3|2|1|0|11|95
+Yency Almonte|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|4|3|1|0|12|95
+Yency Almonte|R|Justin Turner|R|Home Run|C|Slider|5|0|0|0|12|87
+Yency Almonte|R|Justin Turner|R|Home Run|*B|Slider|6|0|1|0|14|86
+Yency Almonte|R|Justin Turner|R|Home Run|E|Four-Seam Fastball|7|1|1|0|6|95
+Yency Almonte|R|Manny Machado|R|Pop Out|B|Slider|8|0|0|0|14|85
+Yency Almonte|R|Manny Machado|R|Pop Out|C|Slider|9|1|0|0|7|86
+Yency Almonte|R|Manny Machado|R|Pop Out|B|Four-Seam Fastball|10|1|1|0|13|95
+Yency Almonte|R|Manny Machado|R|Pop Out|F|Slider|11|2|1|0|2|87
+Yency Almonte|R|Manny Machado|R|Pop Out|B|Four-Seam Fastball|12|2|2|0|12|96
+Yency Almonte|R|Manny Machado|R|Pop Out|X|Slider|13|3|2|0|4|86
+Yency Almonte|R|Matt Kemp|R|Single|B|Slider|14|0|0|1|14|86
+Yency Almonte|R|Matt Kemp|R|Single|C|Slider|15|1|0|1|11|87
+Yency Almonte|R|Matt Kemp|R|Single|S|Slider|16|1|1|1|14|87
+Yency Almonte|R|Matt Kemp|R|Single|F|Slider|17|1|2|1|8|87
+Yency Almonte|R|Matt Kemp|R|Single|B|Slider|18|1|2|1|7|86
+Yency Almonte|R|Matt Kemp|R|Single|D|Slider|19|2|2|1|5|86
+Yency Almonte|R|David Freese|R|Groundout|B|Four-Seam Fastball|20|0|0|1|14|95
+Yency Almonte|R|David Freese|R|Groundout|B|Slider|21|1|0|1|12|89
+Yency Almonte|R|David Freese|R|Groundout|B|Slider|22|2|0|1|14|87
+Yency Almonte|R|David Freese|R|Groundout|C|Four-Seam Fastball|23|3|0|1|14|95
+Yency Almonte|R|David Freese|R|Groundout|X|Four-Seam Fastball|24|3|1|1|9|95
+Yency Almonte|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|25|0|0|2|14|95
+Yency Almonte|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|26|1|0|2|11|95
+Yency Almonte|R|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|27|1|1|2|12|96
+Yency Almonte|R|Chris Taylor|R|Strikeout|C|Four-Seam Fastball|28|1|2|2|3|95
+Yency Almonte|R|Ketel Marte|L|Double|C|Four-Seam Fastball|0|0|0|1|6|91
+Yency Almonte|R|Ketel Marte|L|Double|B|Four-Seam Fastball|1|0|1|1|14|92
+Yency Almonte|R|Ketel Marte|L|Double|B|Four-Seam Fastball|2|1|1|1|14|94
+Yency Almonte|R|Ketel Marte|L|Double|E|Four-Seam Fastball|3|2|1|1|5|94
+Yency Almonte|R|Ildemaro Vargas|L|Strikeout|S|Four-Seam Fastball|4|0|0|1|9|94
+Yency Almonte|R|Ildemaro Vargas|L|Strikeout|S|Slider|5|0|1|1|14|86
+Yency Almonte|R|Ildemaro Vargas|L|Strikeout|B|Slider|6|0|2|1|14|84
+Yency Almonte|R|Ildemaro Vargas|L|Strikeout|F|Four-Seam Fastball|7|1|2|1|12|96
+Yency Almonte|R|Ildemaro Vargas|L|Strikeout|S|Slider|8|1|2|1|9|86
+Yency Almonte|R|Socrates Brito|L|Strikeout|C|Four-Seam Fastball|9|0|0|2|4|95
+Yency Almonte|R|Socrates Brito|L|Strikeout|F|Slider|10|0|1|2|14|87
+Yency Almonte|R|Socrates Brito|L|Strikeout|C|Four-Seam Fastball|11|0|2|2|1|96
+Yency Almonte|R|Gorkys Hernandez|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|94
+Yency Almonte|R|Gorkys Hernandez|R|Pop Out|C|Four-Seam Fastball|1|1|0|0|14|94
+Yency Almonte|R|Gorkys Hernandez|R|Pop Out|B|Slider|2|1|1|0|14|85
+Yency Almonte|R|Gorkys Hernandez|R|Pop Out|B|Four-Seam Fastball|3|2|1|0|14|94
+Yency Almonte|R|Gorkys Hernandez|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|7|95
+Yency Almonte|R|Chris Shaw|L|Groundout|B|Four-Seam Fastball|5|0|0|1|14|93
+Yency Almonte|R|Chris Shaw|L|Groundout|F|Four-Seam Fastball|6|1|0|1|3|95
+Yency Almonte|R|Chris Shaw|L|Groundout|B|Four-Seam Fastball|7|1|1|1|14|95
+Yency Almonte|R|Chris Shaw|L|Groundout|X|Four-Seam Fastball|8|2|1|1|8|95
+Yency Almonte|R|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|9|0|0|2|13|94
+Yency Almonte|R|Gregor Blanco|L|Flyout|X|Four-Seam Fastball|10|1|0|2|9|93
+Yency Almonte|R|Dylan Cozens|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|94
+Yency Almonte|R|Dylan Cozens|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|14|93
+Yency Almonte|R|Dylan Cozens|L|Strikeout|T|Four-Seam Fastball|2|2|0|0|11|94
+Yency Almonte|R|Dylan Cozens|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|9|94
+Yency Almonte|R|Dylan Cozens|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|5|95
+Yency Almonte|R|Dylan Cozens|L|Strikeout|T|Four-Seam Fastball|5|2|2|0|3|95
+Yency Almonte|R|Scott Kingery|R|Double|C|Slider|6|0|0|1|2|87
+Yency Almonte|R|Scott Kingery|R|Double|F|Slider|7|0|1|1|7|87
+Yency Almonte|R|Scott Kingery|R|Double|B|Slider|8|0|2|1|14|86
+Yency Almonte|R|Scott Kingery|R|Double|B|Four-Seam Fastball|9|1|2|1|14|96
+Yency Almonte|R|Scott Kingery|R|Double|D|Slider|10|2|2|1|5|86
+Yency Almonte|R|Jose Bautista|R|Walk|C|Four-Seam Fastball|11|0|0|1|12|95
+Yency Almonte|R|Jose Bautista|R|Walk|C|Four-Seam Fastball|12|0|1|1|14|95
+Yency Almonte|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|13|0|2|1|14|95
+Yency Almonte|R|Jose Bautista|R|Walk|B|Slider|14|1|2|1|14|85
+Yency Almonte|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|15|2|2|1|12|96
+Yency Almonte|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|16|3|2|1|14|95
+Yency Almonte|R|Roman Quinn|L|Single|D|Four-Seam Fastball|17|0|0|1|6|95
+Yency Almonte|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|11|95
+Yency Almonte|R|Christian Walker|R|Strikeout|W|Slider|1|1|0|2|14|87
+Yency Almonte|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|2|1|1|2|11|96
+Yency Almonte|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|3|2|1|2|7|96
+Yency Almonte|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|4|2|2|2|1|97
+Yency Almonte|R|Christian Walker|R|Strikeout|C|Slider|5|2|2|2|4|86
+Yency Almonte|R|Wilmer Flores|R|Walk|S|Slider|6|0|0|0|6|84
+Yency Almonte|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|7|0|1|0|12|94
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Four-Seam Fastball|8|1|1|0|2|95
+Yency Almonte|R|Wilmer Flores|R|Walk|B|Slider|9|1|2|0|14|87
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Slider|10|2|2|0|4|84
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Slider|11|2|2|0|9|85
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Four-Seam Fastball|12|2|2|0|3|96
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Four-Seam Fastball|13|2|2|0|12|96
+Yency Almonte|R|Wilmer Flores|R|Walk|F|Slider|14|2|2|0|11|84
+Yency Almonte|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|15|2|2|0|11|97
+Yency Almonte|R|Wilmer Flores|R|Walk|B|Slider|16|3|2|0|11|83
+Yency Almonte|R|Adam Jones|R|Pop Out|X|Four-Seam Fastball|17|0|0|0|13|96
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|S|Four-Seam Fastball|18|0|0|1|11|96
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|P|Four-Seam Fastball|19|0|1|1|12|93
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|B|Four-Seam Fastball|20|0|2|1|14|96
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|F|Four-Seam Fastball|21|1|2|1|5|96
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|B|Four-Seam Fastball|22|1|2|1|12|97
+Yency Almonte|R|Nick Ahmed|R|Strikeout Double Play|S|Slider|23|2|2|1|14|85
+Yency Almonte|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|0|0|0|2|14|92
+Yency Almonte|R|Joc Pederson|L|Lineout|X|Two-Seam Fastball|1|1|0|2|5|93
+Yency Almonte|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|2|0|0|0|5|93
+Yency Almonte|R|Justin Turner|R|Strikeout|S|Slider|3|0|1|0|6|87
+Yency Almonte|R|Justin Turner|R|Strikeout|S|Slider|4|0|2|0|12|86
+Yency Almonte|R|Corey Seager|L|Double|B|Four-Seam Fastball|5|0|0|1|14|95
+Yency Almonte|R|Corey Seager|L|Double|B|Four-Seam Fastball|6|1|0|1|12|94
+Yency Almonte|R|Corey Seager|L|Double|F|Four-Seam Fastball|7|2|0|1|4|94
+Yency Almonte|R|Corey Seager|L|Double|B|Four-Seam Fastball|8|2|1|1|14|96
+Yency Almonte|R|Corey Seager|L|Double|F|Four-Seam Fastball|9|3|1|1|8|95
+Yency Almonte|R|Corey Seager|L|Double|D|Four-Seam Fastball|10|3|2|1|3|95
+Yency Almonte|R|A.J. Pollock|R|Pop Out|B|Four-Seam Fastball|11|0|0|1|14|95
+Yency Almonte|R|A.J. Pollock|R|Pop Out|C|Four-Seam Fastball|12|1|0|1|9|95
+Yency Almonte|R|A.J. Pollock|R|Pop Out|F|Four-Seam Fastball|13|1|1|1|6|95
+Yency Almonte|R|A.J. Pollock|R|Pop Out|B|Slider|14|1|2|1|14|86
+Yency Almonte|R|A.J. Pollock|R|Pop Out|F|Slider|15|2|2|1|14|89
+Yency Almonte|R|A.J. Pollock|R|Pop Out|B|Four-Seam Fastball|16|2|2|1|12|96
+Yency Almonte|R|A.J. Pollock|R|Pop Out|X|Slider|17|3|2|1|14|86
+Yency Almonte|R|Cody Bellinger|L|Field Error|B|Four-Seam Fastball|18|0|0|2|14|96
+Yency Almonte|R|Cody Bellinger|L|Field Error|B|Slider|19|1|0|2|11|86
+Yency Almonte|R|Cody Bellinger|L|Field Error|E|Four-Seam Fastball|20|2|0|2|2|96
+Yency Almonte|R|Max Muncy|L|Flyout|B|Four-Seam Fastball|21|0|0|2|11|96
+Yency Almonte|R|Max Muncy|L|Flyout|X|Four-Seam Fastball|22|1|0|2|4|96
+Yency Almonte|R|Enrique Hernandez|R|Walk|C|Slider|23|0|0|0|6|87
+Yency Almonte|R|Enrique Hernandez|R|Walk|B|Slider|24|0|1|0|14|85
+Yency Almonte|R|Enrique Hernandez|R|Walk|S|Slider|25|1|1|0|14|86
+Yency Almonte|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|26|1|2|0|14|95
+Yency Almonte|R|Enrique Hernandez|R|Walk|B|Slider|27|2|2|0|14|89
+Yency Almonte|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|28|3|2|0|14|95
+Yency Almonte|R|Austin Barnes|R|Walk|B|Four-Seam Fastball|29|0|0|0|14|94
+Yency Almonte|R|Austin Barnes|R|Walk|B|Four-Seam Fastball|30|1|0|0|14|94
+Yency Almonte|R|Austin Barnes|R|Walk|F|Four-Seam Fastball|31|2|0|0|4|94
+Yency Almonte|R|Austin Barnes|R|Walk|C|Four-Seam Fastball|32|2|1|0|12|93
+Yency Almonte|R|Austin Barnes|R|Walk|B|Four-Seam Fastball|33|2|2|0|12|95
+Yency Almonte|R|Austin Barnes|R|Walk|B|Four-Seam Fastball|34|3|2|0|2|94
+Yency Almonte|R|Joe Kelly|R|Sac Bunt|M|Four-Seam Fastball|35|0|0|0|8|93
+Yency Almonte|R|Joe Kelly|R|Sac Bunt|X|Four-Seam Fastball|36|0|1|0|1|91
+Yency Almonte|R|Ozzie Albies|L|Double|B|Slider|0|0|0|0|13|87
+Yency Almonte|R|Ozzie Albies|L|Double|B|Four-Seam Fastball|1|1|0|0|12|94
+Yency Almonte|R|Ozzie Albies|L|Double|F|Four-Seam Fastball|2|2|0|0|4|93
+Yency Almonte|R|Ozzie Albies|L|Double|B|Changeup|3|2|1|0|11|87
+Yency Almonte|R|Ozzie Albies|L|Double|D|Four-Seam Fastball|4|3|1|0|13|94
+Yency Almonte|R|Tyler Flowers|R|Groundout|F|Slider|5|0|0|0|9|87
+Yency Almonte|R|Tyler Flowers|R|Groundout|B|Slider|6|0|1|0|14|88
+Yency Almonte|R|Tyler Flowers|R|Groundout|X|Slider|7|1|1|0|9|86
+Yency Almonte|R|Charlie Culberson|R|Double|F|Slider|8|0|0|1|5|86
+Yency Almonte|R|Charlie Culberson|R|Double|C|Four-Seam Fastball|9|0|1|1|6|95
+Yency Almonte|R|Charlie Culberson|R|Double|B|Slider|10|0|2|1|8|89
+Yency Almonte|R|Charlie Culberson|R|Double|B|Slider|11|1|2|1|14|88
+Yency Almonte|R|Charlie Culberson|R|Double|E|Slider|12|2|2|1|7|86
+Yency Almonte|R|Ender Inciarte|L|Groundout|F|Four-Seam Fastball|13|0|0|1|1|95
+Yency Almonte|R|Ender Inciarte|L|Groundout|S|Four-Seam Fastball|14|0|1|1|2|95
+Yency Almonte|R|Ender Inciarte|L|Groundout|B|Four-Seam Fastball|15|0|2|1|12|95
+Yency Almonte|R|Ender Inciarte|L|Groundout|X|Slider|16|1|2|1|6|87
+Yency Almonte|R|Josh Donaldson|R|Pop Out|S|Four-Seam Fastball|17|0|0|2|3|95
+Yency Almonte|R|Josh Donaldson|R|Pop Out|B|Four-Seam Fastball|18|0|1|2|11|96
+Yency Almonte|R|Josh Donaldson|R|Pop Out|B|Four-Seam Fastball|19|1|1|2|12|95
+Yency Almonte|R|Josh Donaldson|R|Pop Out|X|Slider|20|2|1|2|7|89
+Yency Almonte|R|Eduardo Escobar|L|Groundout|C|Four-Seam Fastball|0|0|0|0|3|94
+Yency Almonte|R|Eduardo Escobar|L|Groundout|S|Four-Seam Fastball|1|0|1|0|11|94
+Yency Almonte|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|2|0|2|0|11|95
+Yency Almonte|R|Eduardo Escobar|L|Groundout|B|Slider|3|1|2|0|13|88
+Yency Almonte|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|4|2|2|0|1|96
+Yency Almonte|R|Eduardo Escobar|L|Groundout|X|Slider|5|2|2|0|5|89
+Yency Almonte|R|David Peralta|L|Single|F|Four-Seam Fastball|6|0|0|1|7|94
+Yency Almonte|R|David Peralta|L|Single|S|Four-Seam Fastball|7|0|1|1|11|95
+Yency Almonte|R|David Peralta|L|Single|D|Changeup|8|0|2|1|11|90
+Yency Almonte|R|Christian Walker|R|Strikeout|C|Slider|9|0|0|1|6|87
+Yency Almonte|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|10|0|1|1|13|96
+Yency Almonte|R|Christian Walker|R|Strikeout|T|Slider|11|1|1|1|5|88
+Yency Almonte|R|Christian Walker|R|Strikeout|W|Slider|12|1|2|1|14|88
+Yency Almonte|R|Wilmer Flores|R|Flyout|F|Four-Seam Fastball|13|0|0|2|1|96
+Yency Almonte|R|Wilmer Flores|R|Flyout|C|Four-Seam Fastball|14|0|1|2|6|96
+Yency Almonte|R|Wilmer Flores|R|Flyout|B|Slider|15|0|2|2|14|87
+Yency Almonte|R|Wilmer Flores|R|Flyout|*B|Slider|16|1|2|2|14|88
+Yency Almonte|R|Wilmer Flores|R|Flyout|F|Four-Seam Fastball|17|2|2|2|14|97
+Yency Almonte|R|Wilmer Flores|R|Flyout|X|Four-Seam Fastball|18|2|2|2|5|97
+Yency Almonte|R|Nick Ahmed|R|Lineout|C|Four-Seam Fastball|19|0|0|0|9|95
+Yency Almonte|R|Nick Ahmed|R|Lineout|F|Slider|20|0|1|0|4|87
+Yency Almonte|R|Nick Ahmed|R|Lineout|F|Slider|21|0|2|0|6|87
+Yency Almonte|R|Nick Ahmed|R|Lineout|X|Slider|22|0|2|0|5|84
+Yency Almonte|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|23|0|0|1|14|95
+Yency Almonte|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|24|1|0|1|14|94
+Yency Almonte|R|Carson Kelly|R|Walk|C|Four-Seam Fastball|25|2|0|1|14|95
+Yency Almonte|R|Carson Kelly|R|Walk|B|Slider|26|2|1|1|11|87
+Yency Almonte|R|Carson Kelly|R|Walk|F|Four-Seam Fastball|27|3|1|1|2|96
+Yency Almonte|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|28|3|2|1|12|96
+Yency Almonte|R|Blake Swihart|L|Strikeout|C|Four-Seam Fastball|29|0|0|1|7|94
+Yency Almonte|R|Blake Swihart|L|Strikeout|B|Changeup|30|0|1|1|13|89
+Yency Almonte|R|Blake Swihart|L|Strikeout|F|Four-Seam Fastball|31|1|1|1|14|95
+Yency Almonte|R|Blake Swihart|L|Strikeout|F|Slider|32|1|2|1|13|86
+Yency Almonte|R|Blake Swihart|L|Strikeout|B|Four-Seam Fastball|33|1|2|1|11|96
+Yency Almonte|R|Blake Swihart|L|Strikeout|S|Slider|34|2|2|1|14|87
+Yency Almonte|R|Tim Locastro|R|Pop Out|F|Four-Seam Fastball|35|0|0|2|6|95
+Yency Almonte|R|Tim Locastro|R|Pop Out|S|Two-Seam Fastball|36|0|1|2|13|95
+Yency Almonte|R|Tim Locastro|R|Pop Out|F|Slider|37|0|2|2|13|85
+Yency Almonte|R|Tim Locastro|R|Pop Out|X|Slider|38|0|2|2|14|86
+Yency Almonte|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|0|0|0|2|14|93
+Yency Almonte|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|1|1|0|2|14|93
+Yency Almonte|R|Evan Longoria|R|Walk|F|Four-Seam Fastball|2|2|0|2|14|94
+Yency Almonte|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|3|2|1|2|14|94
+Yency Almonte|R|Evan Longoria|R|Walk|F|Four-Seam Fastball|4|3|1|2|6|95
+Yency Almonte|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|5|3|2|2|14|95
+Yency Almonte|R|Mac Williamson|R|Single|C|Four-Seam Fastball|6|0|0|2|3|96
+Yency Almonte|R|Mac Williamson|R|Single|F|Four-Seam Fastball|7|0|1|2|6|96
+Yency Almonte|R|Mac Williamson|R|Single|B|Four-Seam Fastball|8|0|2|2|12|96
+Yency Almonte|R|Mac Williamson|R|Single|E|Four-Seam Fastball|9|1|2|2|12|95
+Yency Almonte|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|10|0|0|2|11|96
+Yency Almonte|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|11|1|0|2|12|95
+Yency Almonte|R|Brandon Crawford|L|Walk|S|Four-Seam Fastball|12|2|0|2|2|94
+Yency Almonte|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|13|2|1|2|13|94
+Yency Almonte|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|14|3|1|2|13|95
+Yency Almonte|R|Kevin Pillar|R|Groundout|C|Slider|15|0|0|2|2|88
+Yency Almonte|R|Kevin Pillar|R|Groundout|B|Four-Seam Fastball|16|0|1|2|14|95
+Yency Almonte|R|Kevin Pillar|R|Groundout|B|Four-Seam Fastball|17|1|1|2|14|95
+Yency Almonte|R|Kevin Pillar|R|Groundout|X|Slider|18|2|1|2|5|88
+Yency Almonte|R|Joe Panik|L|Flyout|C|Slider|0|0|0|1|14|84
+Yency Almonte|R|Joe Panik|L|Flyout|F|Four-Seam Fastball|1|0|1|1|11|94
+Yency Almonte|R|Joe Panik|L|Flyout|*B|Slider|2|0|2|1|14|83
+Yency Almonte|R|Joe Panik|L|Flyout|X|Four-Seam Fastball|3|1|2|1|6|95
+Yency Almonte|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|4|0|0|2|12|95
+Yency Almonte|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|5|1|0|2|14|95
+Yency Almonte|R|Jeff Samardzija|R|Strikeout|F|Four-Seam Fastball|6|2|0|2|5|94
+Yency Almonte|R|Jeff Samardzija|R|Strikeout|C|Slider|7|2|1|2|2|85
+Yency Almonte|R|Jeff Samardzija|R|Strikeout|S|Four-Seam Fastball|8|2|2|2|11|96
+Yency Almonte|R|Tyler Austin|R|Flyout|B|Slider|9|0|0|0|14|83
+Yency Almonte|R|Tyler Austin|R|Flyout|C|Four-Seam Fastball|10|1|0|0|9|95
+Yency Almonte|R|Tyler Austin|R|Flyout|X|Slider|11|1|1|0|6|86
+Yency Almonte|R|Buster Posey|R|Groundout|S|Slider|12|0|0|1|14|86
+Yency Almonte|R|Buster Posey|R|Groundout|B|Slider|13|0|1|1|14|84
+Yency Almonte|R|Buster Posey|R|Groundout|B|Four-Seam Fastball|14|1|1|1|12|96
+Yency Almonte|R|Buster Posey|R|Groundout|B|Slider|15|2|1|1|11|87
+Yency Almonte|R|Buster Posey|R|Groundout|X|Four-Seam Fastball|16|3|1|1|9|95
+Yency Almonte|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|17|0|0|2|14|96
+Yency Almonte|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|18|1|0|2|13|95
+Yency Almonte|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|19|2|0|2|14|95
+Yency Almonte|R|Donovan Solano|R|Walk|C|Four-Seam Fastball|20|3|0|2|8|95
+Yency Almonte|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|21|3|1|2|14|95
+Yency Almonte|R|Alex Dickerson|L|Groundout|B|Slider|22|0|0|2|14|86
+Yency Almonte|R|Alex Dickerson|L|Groundout|B|Four-Seam Fastball|23|1|0|2|13|95
+Yency Almonte|R|Alex Dickerson|L|Groundout|B|Four-Seam Fastball|24|2|0|2|13|95
+Yency Almonte|R|Alex Dickerson|L|Groundout|C|Four-Seam Fastball|25|3|0|2|9|96
+Yency Almonte|R|Alex Dickerson|L|Groundout|X|Four-Seam Fastball|26|3|1|2|8|96
+Yency Almonte|R|Brandon Crawford|L|Groundout|C|Four-Seam Fastball|27|0|0|0|4|94
+Yency Almonte|R|Brandon Crawford|L|Groundout|X|Slider|28|0|1|0|4|85
+Yency Almonte|R|Mike Yastrzemski|L|Single|B|Four-Seam Fastball|29|0|0|1|11|94
+Yency Almonte|R|Mike Yastrzemski|L|Single|C|Four-Seam Fastball|30|1|0|1|12|96
+Yency Almonte|R|Mike Yastrzemski|L|Single|B|Slider|31|1|1|1|14|88
+Yency Almonte|R|Mike Yastrzemski|L|Single|B|Slider|32|2|1|1|14|86
+Yency Almonte|R|Mike Yastrzemski|L|Single|D|Four-Seam Fastball|33|3|1|1|2|96
+Yency Almonte|R|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|34|0|0|1|9|95
+Yency Almonte|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|35|0|1|1|9|94
+Yency Almonte|R|Joe Panik|L|Double|B|Slider|36|0|0|2|14|87
+Yency Almonte|R|Joe Panik|L|Double|C|Four-Seam Fastball|37|1|0|2|1|95
+Yency Almonte|R|Joe Panik|L|Double|B|Four-Seam Fastball|38|1|1|2|11|96
+Yency Almonte|R|Joe Panik|L|Double|F|Four-Seam Fastball|39|2|1|2|2|96
+Yency Almonte|R|Joe Panik|L|Double|F|Slider|40|2|2|2|4|84
+Yency Almonte|R|Joe Panik|L|Double|E|Four-Seam Fastball|41|2|2|2|14|96
+Yency Almonte|R|Austin Slater|R|Groundout|X|Slider|42|0|0|2|14|86
+Yency Almonte|R|Franmil Reyes|R|Strikeout|F|Four-Seam Fastball|0|0|0|2|6|95
+Yency Almonte|R|Franmil Reyes|R|Strikeout|S|Slider|1|0|1|2|14|87
+Yency Almonte|R|Franmil Reyes|R|Strikeout|*B|Slider|2|0|2|2|14|87
+Yency Almonte|R|Franmil Reyes|R|Strikeout|T|Slider|3|1|2|2|14|83
+Yency Almonte|R|Manny Machado|R|Pop Out|X|Slider|4|0|0|0|14|85
+Yency Almonte|R|Eric Hosmer|L|Single|B|Changeup|5|0|0|1|2|87
+Yency Almonte|R|Eric Hosmer|L|Single|B|Four-Seam Fastball|6|1|0|1|14|94
+Yency Almonte|R|Eric Hosmer|L|Single|D|Four-Seam Fastball|7|2|0|1|8|94
+Yency Almonte|R|Hunter Renfroe|R|Flyout|X|Four-Seam Fastball|8|0|0|1|7|95
+Yency Almonte|R|Ty France|R|Flyout|X|Four-Seam Fastball|9|0|0|2|5|94
+Yency Almonte|R|Martin Prado|R|Lineout|B|Four-Seam Fastball|0|0|0|0|13|95
+Yency Almonte|R|Martin Prado|R|Lineout|X|Four-Seam Fastball|1|1|0|0|9|96
+Yency Almonte|R|Curtis Granderson|L|Walk|B|Four-Seam Fastball|2|0|0|1|13|95
+Yency Almonte|R|Curtis Granderson|L|Walk|B|Four-Seam Fastball|3|1|0|1|14|95
+Yency Almonte|R|Curtis Granderson|L|Walk|C|Four-Seam Fastball|4|2|0|1|11|94
+Yency Almonte|R|Curtis Granderson|L|Walk|B|Four-Seam Fastball|5|2|1|1|11|96
+Yency Almonte|R|Curtis Granderson|L|Walk|S|Four-Seam Fastball|6|3|1|1|14|95
+Yency Almonte|R|Curtis Granderson|L|Walk|B|Four-Seam Fastball|7|3|2|1|13|95
+Yency Almonte|R|Jorge Alfaro|R|Single|D|Four-Seam Fastball|8|0|0|1|14|96
+Yency Almonte|R|Lewis Brinson|R|Lineout|B|Slider|9|0|0|1|14|86
+Yency Almonte|R|Lewis Brinson|R|Lineout|B|Slider|10|1|0|1|14|88
+Yency Almonte|R|Lewis Brinson|R|Lineout|S|Four-Seam Fastball|11|2|0|1|14|97
+Yency Almonte|R|Lewis Brinson|R|Lineout|F|Four-Seam Fastball|12|2|1|1|14|96
+Yency Almonte|R|Lewis Brinson|R|Lineout|F|Slider|13|2|2|1|2|83
+Yency Almonte|R|Lewis Brinson|R|Lineout|X|Four-Seam Fastball|14|2|2|1|14|96
+Yency Almonte|R|Bryan Holaday|R|Single|B|Four-Seam Fastball|15|0|0|2|14|96
+Yency Almonte|R|Bryan Holaday|R|Single|C|Four-Seam Fastball|16|1|0|2|1|96
+Yency Almonte|R|Bryan Holaday|R|Single|E|Four-Seam Fastball|17|1|1|2|9|97
+Yency Almonte|R|Jon Berti|R|Groundout|B|Four-Seam Fastball|18|0|0|2|12|96
+Yency Almonte|R|Jon Berti|R|Groundout|C|Four-Seam Fastball|19|1|0|2|8|96
+Yency Almonte|R|Jon Berti|R|Groundout|B|Slider|20|1|1|2|12|87
+Yency Almonte|R|Jon Berti|R|Groundout|S|Four-Seam Fastball|21|2|1|2|3|96
+Yency Almonte|R|Jon Berti|R|Groundout|X|Slider|22|2|2|2|8|85
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|C|Slider|0|0|0|0|4|84
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|1|0|1|0|12|96
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|C|Four-Seam Fastball|2|1|1|0|3|96
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|3|1|2|0|12|97
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|F|Slider|4|2|2|0|7|85
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|B|Slider|5|2|2|0|14|84
+Yency Almonte|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|6|3|2|0|11|98
+Yency Almonte|R|Chris Owings|R|Grounded Into DP|B|Slider|7|0|0|0|9|84
+Yency Almonte|R|Chris Owings|R|Grounded Into DP|B|Four-Seam Fastball|8|1|0|0|14|95
+Yency Almonte|R|Chris Owings|R|Grounded Into DP|C|Four-Seam Fastball|9|2|0|0|6|97
+Yency Almonte|R|Chris Owings|R|Grounded Into DP|B|Slider|10|2|1|0|14|85
+Yency Almonte|R|Chris Owings|R|Grounded Into DP|X|Four-Seam Fastball|11|3|1|0|6|96
+Yency Almonte|R|Mookie Betts|R|Flyout|B|Four-Seam Fastball|12|0|0|2|12|97
+Yency Almonte|R|Mookie Betts|R|Flyout|X|Four-Seam Fastball|13|1|0|2|4|98
+Yency Almonte|R|Bryan Reynolds|L|Groundout|X|Four-Seam Fastball|0|0|0|2|7|93
+Yency Almonte|R|Starling Marte|R|Groundout|B|Four-Seam Fastball|1|0|0|0|13|93
+Yency Almonte|R|Starling Marte|R|Groundout|B|Four-Seam Fastball|2|1|0|0|14|94
+Yency Almonte|R|Starling Marte|R|Groundout|X|Four-Seam Fastball|3|2|0|0|14|95
+Yency Almonte|R|Josh Bell|L|Strikeout|C|Four-Seam Fastball|4|0|0|1|14|93
+Yency Almonte|R|Josh Bell|L|Strikeout|B|Changeup|5|0|1|1|13|88
+Yency Almonte|R|Josh Bell|L|Strikeout|B|Changeup|6|1|1|1|13|88
+Yency Almonte|R|Josh Bell|L|Strikeout|C|Four-Seam Fastball|7|2|1|1|13|94
+Yency Almonte|R|Josh Bell|L|Strikeout|S|Slider|8|2|2|1|14|86
+Yency Almonte|R|Colin Moran|L|Single|B|Four-Seam Fastball|9|0|0|2|13|95
+Yency Almonte|R|Colin Moran|L|Single|S|Slider|10|1|0|2|14|85
+Yency Almonte|R|Colin Moran|L|Single|C|Changeup|11|1|1|2|13|89
+Yency Almonte|R|Colin Moran|L|Single|B|Four-Seam Fastball|12|1|2|2|14|97
+Yency Almonte|R|Colin Moran|L|Single|D|Slider|13|2|2|2|9|84
+Yency Almonte|R|Jose Osuna|R|Double|S|Slider|14|0|0|2|8|85
+Yency Almonte|R|Jose Osuna|R|Double|*B|Slider|15|0|1|2|14|86
+Yency Almonte|R|Jose Osuna|R|Double|C|Slider|16|1|1|2|1|84
+Yency Almonte|R|Jose Osuna|R|Double|B|Four-Seam Fastball|17|1|2|2|14|96
+Yency Almonte|R|Jose Osuna|R|Double|B|Slider|18|2|2|2|14|85
+Yency Almonte|R|Jose Osuna|R|Double|E|Four-Seam Fastball|19|3|2|2|9|97
+Yency Almonte|R|Adam Frazier|L|Single|E|Four-Seam Fastball|20|0|0|2|2|97
+Yency Almonte|R|Jacob Stallings|R|Strikeout|B|Slider|21|0|0|2|14|85
+Yency Almonte|R|Jacob Stallings|R|Strikeout|*B|Four-Seam Fastball|22|1|0|2|14|96
+Yency Almonte|R|Jacob Stallings|R|Strikeout|C|Four-Seam Fastball|23|2|0|2|13|97
+Yency Almonte|R|Jacob Stallings|R|Strikeout|S|Slider|24|2|1|2|2|86
+Yency Almonte|R|Jacob Stallings|R|Strikeout|S|Slider|25|2|2|2|14|85
+Yency Almonte|R|Trevor Williams|R|Groundout|C|Four-Seam Fastball|26|0|0|0|8|95
+Yency Almonte|R|Trevor Williams|R|Groundout|F|Four-Seam Fastball|27|0|1|0|8|95
+Yency Almonte|R|Trevor Williams|R|Groundout|X|Slider|28|0|2|0|11|83
+Yency Almonte|R|Kevin Newman|R|Double|B|Four-Seam Fastball|29|0|0|1|14|95
+Yency Almonte|R|Kevin Newman|R|Double|F|Slider|30|1|0|1|9|87
+Yency Almonte|R|Kevin Newman|R|Double|F|Four-Seam Fastball|31|1|1|1|7|95
+Yency Almonte|R|Kevin Newman|R|Double|D|Slider|32|1|2|1|4|85
+Yency Almonte|R|Bryan Reynolds|L|Flyout|B|Four-Seam Fastball|33|0|0|1|14|96
+Yency Almonte|R|Bryan Reynolds|L|Flyout|X|Slider|34|1|0|1|9|85
+Yency Almonte|R|Starling Marte|R|Flyout|C|Slider|35|0|0|2|5|88
+Yency Almonte|R|Starling Marte|R|Flyout|B|Slider|36|0|1|2|13|85
+Yency Almonte|R|Starling Marte|R|Flyout|X|Four-Seam Fastball|37|1|1|2|5|97
+Yency Almonte|R|Josh Bell|L|Groundout|B|Slider|38|0|0|0|13|84
+Yency Almonte|R|Josh Bell|L|Groundout|B|Four-Seam Fastball|39|1|0|0|13|93
+Yency Almonte|R|Josh Bell|L|Groundout|B|Four-Seam Fastball|40|2|0|0|11|95
+Yency Almonte|R|Josh Bell|L|Groundout|X|Four-Seam Fastball|41|3|0|0|11|95
+Yency Almonte|R|Colin Moran|L|Lineout|B|Four-Seam Fastball|42|0|0|1|13|95
+Yency Almonte|R|Colin Moran|L|Lineout|X|Four-Seam Fastball|43|1|0|1|9|95
+Yency Almonte|R|Jose Osuna|R|Home Run|E|Four-Seam Fastball|44|0|0|2|13|96
+Yency Almonte|R|Adam Frazier|L|Single|C|Four-Seam Fastball|45|0|0|2|11|95
+Yency Almonte|R|Adam Frazier|L|Single|D|Slider|46|0|1|2|14|86
+Yency Almonte|R|Jacob Stallings|R|Strikeout|B|Slider|47|0|0|2|11|87
+Yency Almonte|R|Jacob Stallings|R|Strikeout|C|Slider|48|1|0|2|13|86
+Yency Almonte|R|Jacob Stallings|R|Strikeout|S|Slider|49|1|1|2|14|86
+Yency Almonte|R|Jacob Stallings|R|Strikeout|W|Slider|50|1|2|2|14|85
+Yency Almonte|R|Andrew Knizner|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|95
+Yency Almonte|R|Andrew Knizner|R|Strikeout|B|Slider|1|1|0|0|13|87
+Yency Almonte|R|Andrew Knizner|R|Strikeout|C|Four-Seam Fastball|2|2|0|0|7|95
+Yency Almonte|R|Andrew Knizner|R|Strikeout|S|Slider|3|2|1|0|13|85
+Yency Almonte|R|Andrew Knizner|R|Strikeout|W|Slider|4|2|2|0|14|84
+Yency Almonte|R|Harrison Bader|R|Strikeout|C|Slider|5|0|0|1|4|85
+Yency Almonte|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|6|0|1|1|6|96
+Yency Almonte|R|Harrison Bader|R|Strikeout|B|Slider|7|0|2|1|14|85
+Yency Almonte|R|Harrison Bader|R|Strikeout|T|Slider|8|1|2|1|14|84
+Yency Almonte|R|Paul Goldschmidt|R|Double|C|Slider|9|0|0|2|8|84
+Yency Almonte|R|Paul Goldschmidt|R|Double|D|Slider|10|0|1|2|9|85
+Yency Almonte|R|Josh Naylor|L|Single|F|Four-Seam Fastball|0|0|0|0|7|95
+Yency Almonte|R|Josh Naylor|L|Single|B|Four-Seam Fastball|1|0|1|0|13|94
+Yency Almonte|R|Josh Naylor|L|Single|B|Changeup|2|1|1|0|13|88
+Yency Almonte|R|Josh Naylor|L|Single|D|Four-Seam Fastball|3|2|1|0|13|94
+Yency Almonte|R|Luis Urias|R|Flyout|X|Four-Seam Fastball|4|0|0|0|4|96
+Yency Almonte|R|Austin Hedges|R|Strikeout|C|Slider|5|0|0|1|5|89
+Yency Almonte|R|Austin Hedges|R|Strikeout|B|Slider|6|0|1|1|14|86
+Yency Almonte|R|Austin Hedges|R|Strikeout|B|Slider|7|1|1|1|13|84
+Yency Almonte|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|8|2|1|1|8|96
+Yency Almonte|R|Austin Hedges|R|Strikeout|T|Slider|9|2|2|1|14|86
+Yency Almonte|R|Seth Mejias-Brean|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|11|95
+Yency Almonte|R|Seth Mejias-Brean|R|Strikeout|F|Four-Seam Fastball|11|1|0|2|4|96
+Yency Almonte|R|Seth Mejias-Brean|R|Strikeout|C|Four-Seam Fastball|12|1|1|2|6|95
+Yency Almonte|R|Seth Mejias-Brean|R|Strikeout|S|Slider|13|1|2|2|14|86
+Yency Almonte|R|Eric Hosmer|L|Single|D|Four-Seam Fastball|0|0|0|0|2|95
+Yency Almonte|R|Wil Myers|R|Home Run|B|Four-Seam Fastball|1|0|0|0|12|95
+Yency Almonte|R|Wil Myers|R|Home Run|E|Four-Seam Fastball|2|1|0|0|13|95
+Yency Almonte|R|Ty France|R|Pop Out|B|Four-Seam Fastball|3|0|0|0|14|95
+Yency Almonte|R|Ty France|R|Pop Out|S|Slider|4|1|0|0|9|86
+Yency Almonte|R|Ty France|R|Pop Out|S|Slider|5|1|1|0|14|84
+Yency Almonte|R|Ty France|R|Pop Out|B|Slider|6|1|2|0|14|85
+Yency Almonte|R|Ty France|R|Pop Out|F|Slider|7|2|2|0|14|83
+Yency Almonte|R|Ty France|R|Pop Out|B|Slider|8|2|2|0|14|83
+Yency Almonte|R|Ty France|R|Pop Out|F|Four-Seam Fastball|9|3|2|0|14|95
+Yency Almonte|R|Ty France|R|Pop Out|F|Four-Seam Fastball|10|3|2|0|3|96
+Yency Almonte|R|Ty France|R|Pop Out|X|Slider|11|3|2|0|14|85
+Yency Almonte|R|Luis Urias|R|Double|C|Four-Seam Fastball|12|0|0|1|12|95
+Yency Almonte|R|Luis Urias|R|Double|B|Four-Seam Fastball|13|0|1|1|12|94
+Yency Almonte|R|Luis Urias|R|Double|S|Slider|14|1|1|1|14|85
+Yency Almonte|R|Luis Urias|R|Double|D|Slider|15|1|2|1|5|82
+Yency Almonte|R|Wilson Ramos|R|Strikeout|C|Slider|0|0|0|2|9|84
+Yency Almonte|R|Wilson Ramos|R|Strikeout|S|Slider|1|0|1|2|14|82
+Yency Almonte|R|Wilson Ramos|R|Strikeout|S|Slider|2|0|2|2|14|83
+Yency Almonte|R|Amed Rosario|R|Pop Out|C|Slider|0|0|0|1|14|84
+Yency Almonte|R|Amed Rosario|R|Pop Out|X|Slider|1|0|1|1|6|83
+Yency Almonte|R|Rene Rivera|R|Groundout|C|Slider|2|0|0|2|11|84
+Yency Almonte|R|Rene Rivera|R|Groundout|F|Slider|3|0|1|2|11|83
+Yency Almonte|R|Rene Rivera|R|Groundout|*B|Slider|4|0|2|2|14|84
+Yency Almonte|R|Rene Rivera|R|Groundout|*B|Slider|5|1|2|2|14|84
+Yency Almonte|R|Rene Rivera|R|Groundout|F|Slider|6|2|2|2|8|83
+Yency Almonte|R|Rene Rivera|R|Groundout|B|Slider|7|2|2|2|11|83
+Yency Almonte|R|Rene Rivera|R|Groundout|X|Slider|8|3|2|2|14|85
+Yency Almonte|R|Orlando Arcia|R|Double|C|Slider|0|0|0|2|7|83
+Yency Almonte|R|Orlando Arcia|R|Double|E|Four-Seam Fastball|1|0|1|2|8|95
+Yency Almonte|R|Travis Shaw|L|Strikeout|S|Slider|2|0|0|2|14|84
+Yency Almonte|R|Travis Shaw|L|Strikeout|*B|Slider|3|0|1|2|13|83
+Yency Almonte|R|Travis Shaw|L|Strikeout|C|Slider|4|1|1|2|13|82
+Yency Almonte|R|Travis Shaw|L|Strikeout|C|Four-Seam Fastball|5|1|2|2|13|96
+Yency Almonte|R|Keston Hiura|R|Strikeout|F|Slider|0|0|0|0|9|86
+Yency Almonte|R|Keston Hiura|R|Strikeout|S|Slider|1|0|1|0|1|84
+Yency Almonte|R|Keston Hiura|R|Strikeout|S|Slider|2|0|2|0|13|84
+Yency Almonte|R|Tyler Austin|R|Flyout|X|Slider|3|0|0|1|11|85
+Yency Almonte|R|Cory Spangenberg|L|Field Error|D|Four-Seam Fastball|4|0|0|2|1|96
+Yency Almonte|R|Orlando Arcia|R|Flyout|F|Slider|5|0|0|2|11|87
+Yency Almonte|R|Orlando Arcia|R|Flyout|P|Four-Seam Fastball|6|0|1|2|12|93
+Yency Almonte|R|Orlando Arcia|R|Flyout|X|Slider|7|0|2|2|14|86
+Yency Almonte|R|Ben Gamel|L|Walk|B|Slider|8|0|0|0|14|84
+Yency Almonte|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|9|1|0|0|13|95
+Yency Almonte|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|10|2|0|0|11|94
+Yency Almonte|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|11|3|0|0|11|96
+Yency Almonte|R|Tyrone Taylor|R|Double|B|Slider|12|0|0|0|12|87
+Yency Almonte|R|Tyrone Taylor|R|Double|C|Slider|13|1|0|0|13|85
+Yency Almonte|R|Tyrone Taylor|R|Double|B|Slider|14|1|1|0|14|87
+Yency Almonte|R|Tyrone Taylor|R|Double|D|Four-Seam Fastball|15|2|1|0|4|96
+Yency Almonte|R|Jacob Nottingham|R|Hit By Pitch|B|Slider|16|0|0|0|14|87
+Yency Almonte|R|Jacob Nottingham|R|Hit By Pitch|H|Four-Seam Fastball|17|1|0|0|11|98
+Yency Almonte|R|Will Smith|R|Strikeout|B|Slider|0|0|0|2|14|83
+Yency Almonte|R|Will Smith|R|Strikeout|C|Slider|1|1|0|2|7|84
+Yency Almonte|R|Will Smith|R|Strikeout|B|Four-Seam Fastball|2|1|1|2|14|96
+Yency Almonte|R|Will Smith|R|Strikeout|F|Four-Seam Fastball|3|2|1|2|9|96
+Yency Almonte|R|Will Smith|R|Strikeout|F|Four-Seam Fastball|4|2|2|2|9|97
+Yency Almonte|R|Will Smith|R|Strikeout|F|Slider|5|2|2|2|14|85
+Yency Almonte|R|Will Smith|R|Strikeout|T|Slider|6|2|2|2|14|83
+Yency Almonte|R|Gavin Lux|L|Double|C|Slider|7|0|0|0|5|85
+Yency Almonte|R|Gavin Lux|L|Double|B|Slider|8|0|1|0|14|82
+Yency Almonte|R|Gavin Lux|L|Double|C|Four-Seam Fastball|9|1|1|0|7|96
+Yency Almonte|R|Gavin Lux|L|Double|B|Changeup|10|1|2|0|13|88
+Yency Almonte|R|Gavin Lux|L|Double|B|Slider|11|2|2|0|14|84
+Yency Almonte|R|Gavin Lux|L|Double|D|Four-Seam Fastball|12|3|2|0|7|97
+Yency Almonte|R|Walker Buehler|R|Walk|B|Four-Seam Fastball|13|0|0|0|14|95
+Yency Almonte|R|Walker Buehler|R|Walk|B|Slider|14|1|0|0|11|83
+Yency Almonte|R|Walker Buehler|R|Walk|B|Four-Seam Fastball|15|2|0|0|14|96
+Yency Almonte|R|Walker Buehler|R|Walk|C|Four-Seam Fastball|16|3|0|0|6|96
+Yency Almonte|R|Walker Buehler|R|Walk|B|Four-Seam Fastball|17|3|1|0|14|96
+Yency Almonte|R|Joc Pederson|L|Home Run|B|Four-Seam Fastball|18|0|0|0|12|96
+Yency Almonte|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|19|1|0|0|2|96
+Yency Almonte|R|Corey Seager|L|Flyout|S|Slider|20|0|0|0|9|85
+Yency Almonte|R|Corey Seager|L|Flyout|B|Four-Seam Fastball|21|0|1|0|14|96
+Yency Almonte|R|Corey Seager|L|Flyout|S|Slider|22|1|1|0|14|85
+Yency Almonte|R|Corey Seager|L|Flyout|F|Slider|23|1|2|0|9|85
+Yency Almonte|R|Corey Seager|L|Flyout|F|Four-Seam Fastball|24|1|2|0|3|96
+Yency Almonte|R|Corey Seager|L|Flyout|B|Slider|25|1|2|0|14|84
+Yency Almonte|R|Corey Seager|L|Flyout|X|Four-Seam Fastball|26|2|2|0|5|96
+Yency Almonte|R|A.J. Pollock|R|Groundout|S|Slider|27|0|0|1|9|86
+Yency Almonte|R|A.J. Pollock|R|Groundout|X|Four-Seam Fastball|28|0|1|1|4|95
+Yency Almonte|R|Cody Bellinger|L|Lineout|B|Four-Seam Fastball|29|0|0|2|11|96
+Yency Almonte|R|Cody Bellinger|L|Lineout|C|Slider|30|1|0|2|13|86
+Yency Almonte|R|Cody Bellinger|L|Lineout|B|Four-Seam Fastball|31|1|1|2|13|96
+Yency Almonte|R|Cody Bellinger|L|Lineout|S|Slider|32|2|1|2|8|86
+Yency Almonte|R|Cody Bellinger|L|Lineout|F|Four-Seam Fastball|33|2|2|2|1|96
+Yency Almonte|R|Cody Bellinger|L|Lineout|X|Slider|34|2|2|2|13|85
+Yency Almonte|R|Chris Taylor|R|Home Run|E|Four-Seam Fastball|35|0|0|0|8|95
+Yency Almonte|R|Matt Beaty|L|Lineout|B|Four-Seam Fastball|36|0|0|0|13|94
+Yency Almonte|R|Matt Beaty|L|Lineout|B|Changeup|37|1|0|0|13|89
+Yency Almonte|R|Matt Beaty|L|Lineout|X|Four-Seam Fastball|38|2|0|0|14|94
+Yency Almonte|R|Will Smith|R|Strikeout|S|Slider|39|0|0|1|14|85
+Yency Almonte|R|Will Smith|R|Strikeout|C|Four-Seam Fastball|40|0|1|1|14|94
+Yency Almonte|R|Will Smith|R|Strikeout|S|Four-Seam Fastball|41|0|2|1|12|95
+Yency Almonte|R|Gavin Lux|L|Flyout|B|Four-Seam Fastball|42|0|0|2|11|95
+Yency Almonte|R|Gavin Lux|L|Flyout|F|Slider|43|1|0|2|6|86
+Yency Almonte|R|Gavin Lux|L|Flyout|B|Slider|44|1|1|2|11|84
+Yency Almonte|R|Gavin Lux|L|Flyout|F|Slider|45|2|1|2|8|84
+Yency Almonte|R|Gavin Lux|L|Flyout|F|Slider|46|2|2|2|14|85
+Yency Almonte|R|Gavin Lux|L|Flyout|X|Slider|47|2|2|2|13|81
+Yency Almonte|R|A.J. Pollock|R|Groundout|X|Four-Seam Fastball|0|0|0|1|7|94
+Yency Almonte|R|Matt Beaty|L|Walk|F|Four-Seam Fastball|1|0|0|2|7|94
+Yency Almonte|R|Matt Beaty|L|Walk|F|Slider|2|0|1|2|8|85
+Yency Almonte|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|3|0|2|2|11|95
+Yency Almonte|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|4|1|2|2|11|96
+Yency Almonte|R|Matt Beaty|L|Walk|B|Slider|5|2|2|2|13|84
+Yency Almonte|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|6|3|2|2|11|95
+Yency Almonte|R|Will Smith|R|Groundout|S|Slider|7|0|0|2|8|84
+Yency Almonte|R|Will Smith|R|Groundout|B|Slider|8|0|1|2|14|83
+Yency Almonte|R|Will Smith|R|Groundout|B|Four-Seam Fastball|9|1|1|2|13|96
+Yency Almonte|R|Will Smith|R|Groundout|X|Slider|10|2|1|2|13|85
+Yency Almonte|R|Josh Bell|L|Strikeout|S|Slider|0|0|0|0|4|86
+Yency Almonte|R|Josh Bell|L|Strikeout|S|Slider|1|0|1|0|14|86
+Yency Almonte|R|Josh Bell|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|95
+Yency Almonte|R|Josh Bell|L|Strikeout|S|Slider|3|1|2|0|14|87
+Yency Almonte|R|Jake Elmore|R|Flyout|C|Slider|4|0|0|1|3|87
+Yency Almonte|R|Jake Elmore|R|Flyout|X|Slider|5|0|1|1|9|85
+Yency Almonte|R|Colin Moran|L|Strikeout|B|Slider|6|0|0|2|14|85
+Yency Almonte|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|7|1|0|2|6|96
+Yency Almonte|R|Colin Moran|L|Strikeout|F|Changeup|8|1|1|2|5|89
+Yency Almonte|R|Colin Moran|L|Strikeout|B|Slider|9|1|2|2|14|88
+Yency Almonte|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|10|2|2|2|5|96
+Yency Almonte|R|Colin Moran|L|Strikeout|S|Slider|11|2|2|2|14|88
+Yency Almonte|R|Wil Myers|R|Single|F|Four-Seam Fastball|0|0|0|1|6|94
+Yency Almonte|R|Wil Myers|R|Single|E|Four-Seam Fastball|1|0|1|1|13|95
+Yency Almonte|R|Erik Kratz|R|Groundout|B|Four-Seam Fastball|0|0|0|2|12|93
+Yency Almonte|R|Erik Kratz|R|Groundout|B|Four-Seam Fastball|1|1|0|2|14|94
+Yency Almonte|R|Erik Kratz|R|Groundout|F|Four-Seam Fastball|2|2|0|2|12|94
+Yency Almonte|R|Erik Kratz|R|Groundout|F|Four-Seam Fastball|3|2|1|2|6|95
+Yency Almonte|R|Erik Kratz|R|Groundout|X|Four-Seam Fastball|4|2|2|2|12|95
+Yency Almonte|R|Buster Posey|R|Groundout|B|Four-Seam Fastball|5|0|0|0|14|95
+Yency Almonte|R|Buster Posey|R|Groundout|C|Four-Seam Fastball|6|1|0|0|9|94
+Yency Almonte|R|Buster Posey|R|Groundout|F|Four-Seam Fastball|7|1|1|0|1|95
+Yency Almonte|R|Buster Posey|R|Groundout|X|Slider|8|1|2|0|14|86
+Yency Almonte|R|Steven Duggar|L|Flyout|F|Four-Seam Fastball|9|0|0|1|7|94
+Yency Almonte|R|Steven Duggar|L|Flyout|X|Four-Seam Fastball|10|0|1|1|8|93
+Yency Almonte|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|11|0|0|2|7|95
+Yency Almonte|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|12|0|1|2|11|95
+Yency Almonte|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|13|1|1|2|13|94
+Yency Almonte|R|Joe Panik|L|Groundout|X|Four-Seam Fastball|14|1|2|2|13|95
+Yency Almonte|R|Evan Longoria|R|Single|B|Four-Seam Fastball|15|0|0|0|14|95
+Yency Almonte|R|Evan Longoria|R|Single|B|Four-Seam Fastball|16|1|0|0|12|96
+Yency Almonte|R|Evan Longoria|R|Single|F|Four-Seam Fastball|17|2|0|0|14|94
+Yency Almonte|R|Evan Longoria|R|Single|D|Four-Seam Fastball|18|2|1|0|3|95
+Yency Almonte|R|Brandon Belt|L|Flyout|F|Four-Seam Fastball|19|0|0|0|1|94
+Yency Almonte|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|20|0|1|0|2|95
+Yency Almonte|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|21|1|1|0|7|95
+Yency Almonte|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|94
+Yency Almonte|R|Mike Yastrzemski|L|Strikeout|B|Slider|1|0|1|0|13|85
+Yency Almonte|R|Mike Yastrzemski|L|Strikeout|C|Slider|2|1|1|0|13|83
+Yency Almonte|R|Mike Yastrzemski|L|Strikeout|W|Slider|3|1|2|0|14|85
+Yency Almonte|R|Buster Posey|R|Single|B|Four-Seam Fastball|4|0|0|1|14|95
+Yency Almonte|R|Buster Posey|R|Single|D|Four-Seam Fastball|5|1|0|1|1|95
+Yency Almonte|R|Brandon Belt|L|Double|*B|Slider|6|0|0|1|13|85
+Yency Almonte|R|Brandon Belt|L|Double|D|Four-Seam Fastball|7|1|0|1|14|94
+Yency Almonte|R|Evan Longoria|R|Sac Fly|T|Slider|8|0|0|1|4|86
+Yency Almonte|R|Evan Longoria|R|Sac Fly|B|Four-Seam Fastball|9|0|1|1|14|97
+Yency Almonte|R|Evan Longoria|R|Sac Fly|E|Slider|10|1|1|1|13|84
+Yency Almonte|R|Kevin Pillar|R|Strikeout|B|Four-Seam Fastball|11|0|0|2|14|96
+Yency Almonte|R|Kevin Pillar|R|Strikeout|C|Four-Seam Fastball|12|1|0|2|9|96
+Yency Almonte|R|Kevin Pillar|R|Strikeout|B|Slider|13|1|1|2|13|84
+Yency Almonte|R|Kevin Pillar|R|Strikeout|F|Slider|14|2|1|2|13|86
+Yency Almonte|R|Kevin Pillar|R|Strikeout|S|Four-Seam Fastball|15|2|2|2|12|97
+Yency Almonte|R|Jaylin Davis|R|Single|D|Four-Seam Fastball|0|0|0|0|13|95
+Yency Almonte|R|Mauricio Dubon|R|Forceout|C|Slider|1|0|0|0|8|86
+Yency Almonte|R|Mauricio Dubon|R|Forceout|F|Slider|2|0|1|0|9|85
+Yency Almonte|R|Mauricio Dubon|R|Forceout|F|Four-Seam Fastball|3|0|2|0|11|96
+Yency Almonte|R|Mauricio Dubon|R|Forceout|F|Slider|4|0|2|0|6|83
+Yency Almonte|R|Mauricio Dubon|R|Forceout|*B|Slider|5|0|2|0|14|85
+Yency Almonte|R|Mauricio Dubon|R|Forceout|B|Four-Seam Fastball|6|1|2|0|12|93
+Yency Almonte|R|Mauricio Dubon|R|Forceout|X|Slider|7|2|2|0|14|84
+Yency Almonte|R|Matt Carpenter|L|Walk|B|Slider|0|0|0|0|11|83
+Yency Almonte|R|Matt Carpenter|L|Walk|B|Slider|1|1|0|0|14|84
+Yency Almonte|R|Matt Carpenter|L|Walk|F|Four-Seam Fastball|2|2|0|0|5|95
+Yency Almonte|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|95
+Yency Almonte|R|Matt Carpenter|L|Walk|F|Four-Seam Fastball|4|3|1|0|13|94
+Yency Almonte|R|Matt Carpenter|L|Walk|F|Slider|5|3|2|0|13|85
+Yency Almonte|R|Matt Carpenter|L|Walk|F|Four-Seam Fastball|6|3|2|0|1|95
+Yency Almonte|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|7|3|2|0|14|96
+Yency Almonte|R|Dexter Fowler|L|Home Run|B|Slider|8|0|0|0|13|85
+Yency Almonte|R|Dexter Fowler|L|Home Run|B|Four-Seam Fastball|9|1|0|0|13|96
+Yency Almonte|R|Dexter Fowler|L|Home Run|E|Four-Seam Fastball|10|2|0|0|5|96
+Yency Almonte|R|Kolten Wong|L|Strikeout|S|Four-Seam Fastball|11|0|0|0|14|96
+Yency Almonte|R|Kolten Wong|L|Strikeout|B|Changeup|12|0|1|0|13|89
+Yency Almonte|R|Kolten Wong|L|Strikeout|T|Four-Seam Fastball|13|1|1|0|11|96
+Yency Almonte|R|Kolten Wong|L|Strikeout|W|Slider|14|1|2|0|13|85
+Yency Almonte|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|15|0|0|1|14|95
+Yency Almonte|R|Paul Goldschmidt|R|Groundout|F|Four-Seam Fastball|16|1|0|1|7|95
+Yency Almonte|R|Paul Goldschmidt|R|Groundout|X|Slider|17|1|1|1|12|85
+Yency Almonte|R|Marcell Ozuna|R|Strikeout|C|Slider|18|0|0|2|9|85
+Yency Almonte|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|19|0|1|2|11|95
+Yency Almonte|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|20|0|2|2|2|95
+Yency Almonte|R|Marcell Ozuna|R|Strikeout|C|Slider|21|0|2|2|2|84
+Yency Almonte|R|Matt Carpenter|L|Groundout|F|Four-Seam Fastball|0|0|0|0|4|94
+Yency Almonte|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|1|0|1|0|11|93
+Yency Almonte|R|Matt Carpenter|L|Groundout|F|Two-Seam Fastball|2|1|1|0|11|94
+Yency Almonte|R|Matt Carpenter|L|Groundout|F|Slider|3|1|2|0|12|84
+Yency Almonte|R|Matt Carpenter|L|Groundout|F|Slider|4|1|2|0|14|85
+Yency Almonte|R|Matt Carpenter|L|Groundout|B|Slider|5|1|2|0|14|83
+Yency Almonte|R|Matt Carpenter|L|Groundout|X|Four-Seam Fastball|6|2|2|0|12|95
+Yency Almonte|R|Paul Goldschmidt|R|Home Run|E|Four-Seam Fastball|7|0|0|1|1|95
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|8|0|0|1|14|95
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|9|1|0|1|14|94
+Yency Almonte|R|Marcell Ozuna|R|Single|F|Four-Seam Fastball|10|2|0|1|14|95
+Yency Almonte|R|Marcell Ozuna|R|Single|B|Slider|11|2|1|1|14|85
+Yency Almonte|R|Marcell Ozuna|R|Single|D|Four-Seam Fastball|12|3|1|1|8|95
+Yency Almonte|R|Paul DeJong|R|Strikeout|C|Slider|13|0|0|1|8|83
+Yency Almonte|R|Paul DeJong|R|Strikeout|B|Slider|14|0|1|1|13|84
+Yency Almonte|R|Paul DeJong|R|Strikeout|W|Four-Seam Fastball|15|1|1|1|14|94
+Yency Almonte|R|Paul DeJong|R|Strikeout|S|Changeup|16|1|2|1|14|89
+Yency Almonte|R|Yadier Molina|R|Single|B|Four-Seam Fastball|17|0|0|2|14|94
+Yency Almonte|R|Yadier Molina|R|Single|F|Four-Seam Fastball|18|1|0|2|9|95
+Yency Almonte|R|Yadier Molina|R|Single|B|Changeup|19|1|1|2|11|90
+Yency Almonte|R|Yadier Molina|R|Single|D|Four-Seam Fastball|20|2|1|2|14|94
+Yency Almonte|R|Tommy Edman|L|Pop Out|F|Four-Seam Fastball|21|0|0|2|5|95
+Yency Almonte|R|Tommy Edman|L|Pop Out|X|Changeup|22|0|1|2|4|89
+Yency Almonte|R|Harrison Bader|R|Lineout|B|Four-Seam Fastball|23|0|0|0|14|94
+Yency Almonte|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|24|1|0|0|12|93
+Yency Almonte|R|Harrison Bader|R|Lineout|C|Four-Seam Fastball|25|1|1|0|9|95
+Yency Almonte|R|Harrison Bader|R|Lineout|X|Slider|26|1|2|0|13|83
+Yency Almonte|R|Lane Thomas|R|Lineout|F|Four-Seam Fastball|27|0|0|1|5|95
+Yency Almonte|R|Lane Thomas|R|Lineout|C|Four-Seam Fastball|28|0|1|1|8|95
+Yency Almonte|R|Lane Thomas|R|Lineout|X|Changeup|29|0|2|1|5|89
+Yency Almonte|R|Yairo Munoz|R|Strikeout|F|Four-Seam Fastball|30|0|0|2|2|96
+Yency Almonte|R|Yairo Munoz|R|Strikeout|B|Four-Seam Fastball|31|0|1|2|11|95
+Yency Almonte|R|Yairo Munoz|R|Strikeout|F|Four-Seam Fastball|32|1|1|2|6|95
+Yency Almonte|R|Yairo Munoz|R|Strikeout|W|Slider|33|1|2|2|14|84
+Yency Almonte|R|Maikel Franco|R|Flyout|B|Slider|0|0|0|0|11|84
+Yency Almonte|R|Maikel Franco|R|Flyout|F|Four-Seam Fastball|1|1|0|0|1|95
+Yency Almonte|R|Maikel Franco|R|Flyout|C|Slider|2|1|1|0|11|85
+Yency Almonte|R|Maikel Franco|R|Flyout|X|Four-Seam Fastball|3|1|2|0|11|95
+Yency Almonte|R|Scott Kingery|R|Walk|B|Slider|4|0|0|1|11|85
+Yency Almonte|R|Scott Kingery|R|Walk|B|Slider|5|1|0|1|12|87
+Yency Almonte|R|Scott Kingery|R|Walk|B|Four-Seam Fastball|6|2|0|1|11|95
+Yency Almonte|R|Scott Kingery|R|Walk|B|Four-Seam Fastball|7|3|0|1|11|94
+Yency Almonte|R|Andrew Knapp|L|Strikeout|F|Four-Seam Fastball|8|0|0|1|5|94
+Yency Almonte|R|Andrew Knapp|L|Strikeout|F|Four-Seam Fastball|9|0|1|1|4|93
+Yency Almonte|R|Andrew Knapp|L|Strikeout|B|Four-Seam Fastball|10|0|2|1|11|95
+Yency Almonte|R|Andrew Knapp|L|Strikeout|B|Slider|11|1|2|1|13|86
+Yency Almonte|R|Andrew Knapp|L|Strikeout|F|Four-Seam Fastball|12|2|2|1|2|96
+Yency Almonte|R|Andrew Knapp|L|Strikeout|F|Four-Seam Fastball|13|2|2|1|3|94
+Yency Almonte|R|Andrew Knapp|L|Strikeout|F|Changeup|14|2|2|1|11|89
+Yency Almonte|R|Andrew Knapp|L|Strikeout|S|Four-Seam Fastball|15|2|2|1|14|95
+Yency Almonte|R|Odubel Herrera|L|Lineout|X|Four-Seam Fastball|16|0|0|2|1|95
+Yency Almonte|R|Andrew McCutchen|R|Flyout|C|Four-Seam Fastball|17|0|0|0|5|94
+Yency Almonte|R|Andrew McCutchen|R|Flyout|F|Slider|18|0|1|0|4|86
+Yency Almonte|R|Andrew McCutchen|R|Flyout|B|Slider|19|0|2|0|14|84
+Yency Almonte|R|Andrew McCutchen|R|Flyout|F|Slider|20|1|2|0|14|85
+Yency Almonte|R|Andrew McCutchen|R|Flyout|F|Four-Seam Fastball|21|1|2|0|1|95
+Yency Almonte|R|Andrew McCutchen|R|Flyout|B|Slider|22|1|2|0|14|86
+Yency Almonte|R|Andrew McCutchen|R|Flyout|X|Slider|23|2|2|0|6|85
+Yency Almonte|R|Jean Segura|R|Groundout|B|Slider|24|0|0|1|14|86
+Yency Almonte|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|25|1|0|1|11|95
+Yency Almonte|R|Jean Segura|R|Groundout|S|Slider|26|2|0|1|14|86
+Yency Almonte|R|Jean Segura|R|Groundout|X|Slider|27|2|1|1|9|85
+Yency Almonte|R|Bryce Harper|L|Strikeout|B|Slider|28|0|0|2|8|87
+Yency Almonte|R|Bryce Harper|L|Strikeout|B|Changeup|29|1|0|2|13|88
+Yency Almonte|R|Bryce Harper|L|Strikeout|C|Slider|30|2|0|2|1|87
+Yency Almonte|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|31|2|1|2|1|97
+Yency Almonte|R|Bryce Harper|L|Strikeout|T|Four-Seam Fastball|32|2|2|2|11|96
+Yency Almonte|R|Gary Sanchez|R|Groundout|S|Slider|0|0|0|0|12|88
+Yency Almonte|R|Gary Sanchez|R|Groundout|S|Slider|1|0|1|0|14|87
+Yency Almonte|R|Gary Sanchez|R|Groundout|B|Slider|2|0|2|0|14|88
+Yency Almonte|R|Gary Sanchez|R|Groundout|X|Four-Seam Fastball|3|1|2|0|5|97
+Yency Almonte|R|Edwin Encarnacion|R|Flyout|C|Four-Seam Fastball|4|0|0|1|14|98
+Yency Almonte|R|Edwin Encarnacion|R|Flyout|X|Slider|5|0|1|1|5|86
+Yency Almonte|R|Aaron Hicks|L|Single|B|Four-Seam Fastball|6|0|0|2|14|96
+Yency Almonte|R|Aaron Hicks|L|Single|C|Four-Seam Fastball|7|1|0|2|13|97
+Yency Almonte|R|Aaron Hicks|L|Single|B|Slider|8|1|1|2|14|87
+Yency Almonte|R|Aaron Hicks|L|Single|C|Four-Seam Fastball|9|2|1|2|13|97
+Yency Almonte|R|Aaron Hicks|L|Single|D|Four-Seam Fastball|10|2|2|2|6|97
+Yency Almonte|R|Luke Voit|R|Single|C|Slider|11|0|0|2|1|88
+Yency Almonte|R|Luke Voit|R|Single|S|Slider|12|0|1|2|14|87
+Yency Almonte|R|Luke Voit|R|Single|D|Slider|13|0|2|2|14|86
+Yency Almonte|R|Gleyber Torres|R|Flyout|B|Four-Seam Fastball|14|0|0|2|9|97
+Yency Almonte|R|Gleyber Torres|R|Flyout|F|Four-Seam Fastball|15|1|0|2|6|97
+Yency Almonte|R|Gleyber Torres|R|Flyout|B|Slider|16|1|1|2|14|88
+Yency Almonte|R|Gleyber Torres|R|Flyout|B|Four-Seam Fastball|17|2|1|2|13|97
+Yency Almonte|R|Gleyber Torres|R|Flyout|X|Four-Seam Fastball|18|3|1|2|2|97
+Yency Almonte|R|Gio Urshela|R|Flyout|B|Four-Seam Fastball|19|0|0|0|11|96
+Yency Almonte|R|Gio Urshela|R|Flyout|C|Slider|20|1|0|0|12|86
+Yency Almonte|R|Gio Urshela|R|Flyout|F|Slider|21|1|1|0|4|87
+Yency Almonte|R|Gio Urshela|R|Flyout|X|Four-Seam Fastball|22|1|2|0|3|96
+Yency Almonte|R|Mike Tauchman|L|Single|B|Four-Seam Fastball|23|0|0|1|11|95
+Yency Almonte|R|Mike Tauchman|L|Single|F|Four-Seam Fastball|24|1|0|1|8|96
+Yency Almonte|R|Mike Tauchman|L|Single|B|Four-Seam Fastball|25|1|1|1|12|96
+Yency Almonte|R|Mike Tauchman|L|Single|D|Four-Seam Fastball|26|2|1|1|4|96
+Yency Almonte|R|DJ LeMahieu|R|Fielders Choice|C|Four-Seam Fastball|27|0|0|1|7|95
+Yency Almonte|R|DJ LeMahieu|R|Fielders Choice|E|Four-Seam Fastball|28|0|1|1|2|96
+Yency Almonte|R|Aaron Judge|R|Home Run|C|Four-Seam Fastball|29|0|0|1|14|96
+Yency Almonte|R|Aaron Judge|R|Home Run|B|Four-Seam Fastball|30|0|1|1|14|96
+Yency Almonte|R|Aaron Judge|R|Home Run|B|Slider|31|1|1|1|12|84
+Yency Almonte|R|Aaron Judge|R|Home Run|E|Four-Seam Fastball|32|2|1|1|5|96
+Yency Almonte|R|Gary Sanchez|R|Pop Out|S|Slider|33|0|0|1|14|88
+Yency Almonte|R|Gary Sanchez|R|Pop Out|S|Slider|34|0|1|1|14|86
+Yency Almonte|R|Gary Sanchez|R|Pop Out|B|Slider|35|0|2|1|14|86
+Yency Almonte|R|Gary Sanchez|R|Pop Out|B|Slider|36|1|2|1|14|86
+Yency Almonte|R|Gary Sanchez|R|Pop Out|F|Four-Seam Fastball|37|2|2|1|2|97
+Yency Almonte|R|Gary Sanchez|R|Pop Out|X|Slider|38|2|2|1|9|87
+Yency Almonte|R|Edwin Encarnacion|R|Pop Out|B|Four-Seam Fastball|39|0|0|2|11|97
+Yency Almonte|R|Edwin Encarnacion|R|Pop Out|C|Slider|40|1|0|2|9|86
+Yency Almonte|R|Edwin Encarnacion|R|Pop Out|X|Four-Seam Fastball|41|1|1|2|5|96

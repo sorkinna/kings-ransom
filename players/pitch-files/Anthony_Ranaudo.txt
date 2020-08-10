@@ -1,0 +1,917 @@
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|C|Four-Seam Fastball|0|0|0|0|4|89
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|B|Four-Seam Fastball|1|0|1|0|11|91
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|F|Four-Seam Fastball|2|1|1|0|11|91
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|F|Curveball|3|1|2|0|1|77
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|B|Four-Seam Fastball|4|1|2|0|13|91
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|F|Four-Seam Fastball|5|2|2|0|11|91
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|B|Slider|6|2|2|0|14|81
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|X|Four-Seam Fastball|7|3|2|0|7|90
+Anthony Ranaudo|R|Mike Trout|R|Single|C|Four-Seam Fastball|8|0|0|1|7|92
+Anthony Ranaudo|R|Mike Trout|R|Single|C|Curveball|9|0|1|1|1|79
+Anthony Ranaudo|R|Mike Trout|R|Single|B|Four-Seam Fastball|10|0|2|1|11|93
+Anthony Ranaudo|R|Mike Trout|R|Single|D|Slider|11|1|2|1|1|83
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|C|Four-Seam Fastball|12|0|0|1|11|91
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|S|Four-Seam Fastball|13|0|1|1|11|91
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|B|Four-Seam Fastball|14|0|2|1|12|92
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|F|Four-Seam Fastball|15|1|2|1|13|91
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|*B|Curveball|16|1|2|1|14|79
+Anthony Ranaudo|R|Albert Pujols|R|Pop Out|X|Four-Seam Fastball|17|2|2|1|13|90
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|18|0|0|2|11|90
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|19|1|0|2|11|90
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|C|Four-Seam Fastball|20|2|0|2|4|90
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|F|Four-Seam Fastball|21|2|1|2|5|91
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|F|Curveball|22|2|2|2|9|78
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|B|Curveball|23|2|2|2|11|78
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|F|Curveball|24|3|2|2|9|77
+Anthony Ranaudo|R|Matt Joyce|L|Strikeout|T|Four-Seam Fastball|25|3|2|2|11|90
+Anthony Ranaudo|R|David Freese|R|Single|C|Four-Seam Fastball|26|0|0|0|6|90
+Anthony Ranaudo|R|David Freese|R|Single|S|Four-Seam Fastball|27|0|1|0|11|90
+Anthony Ranaudo|R|David Freese|R|Single|D|Four-Seam Fastball|28|0|2|0|11|91
+Anthony Ranaudo|R|Chris Iannetta|R|Double|B|Four-Seam Fastball|29|0|0|0|11|90
+Anthony Ranaudo|R|Chris Iannetta|R|Double|F|Four-Seam Fastball|30|1|0|0|1|90
+Anthony Ranaudo|R|Chris Iannetta|R|Double|B|Four-Seam Fastball|31|1|1|0|11|90
+Anthony Ranaudo|R|Chris Iannetta|R|Double|F|Slider|32|2|1|0|12|80
+Anthony Ranaudo|R|Chris Iannetta|R|Double|F|Four-Seam Fastball|33|2|2|0|2|90
+Anthony Ranaudo|R|Chris Iannetta|R|Double|*B|Curveball|34|2|2|0|14|76
+Anthony Ranaudo|R|Chris Iannetta|R|Double|D|Four-Seam Fastball|35|3|2|0|11|89
+Anthony Ranaudo|R|Efren Navarro|L|Strikeout|B|Slider|36|0|0|0|12|81
+Anthony Ranaudo|R|Efren Navarro|L|Strikeout|F|Four-Seam Fastball|37|1|0|0|11|90
+Anthony Ranaudo|R|Efren Navarro|L|Strikeout|*B|Curveball|38|1|1|0|14|79
+Anthony Ranaudo|R|Efren Navarro|L|Strikeout|F|Slider|39|2|1|0|5|81
+Anthony Ranaudo|R|Efren Navarro|L|Strikeout|C|Four-Seam Fastball|40|2|2|0|8|90
+Anthony Ranaudo|R|Collin Cowgill|R|Walk|*B|Curveball|41|0|0|1|14|79
+Anthony Ranaudo|R|Collin Cowgill|R|Walk|B|Curveball|42|1|0|1|11|78
+Anthony Ranaudo|R|Collin Cowgill|R|Walk|B|Four-Seam Fastball|43|2|0|1|12|91
+Anthony Ranaudo|R|Collin Cowgill|R|Walk|B|Four-Seam Fastball|44|3|0|1|12|90
+Anthony Ranaudo|R|Johnny Giavotella|R|Single|C|Four-Seam Fastball|45|0|0|1|6|91
+Anthony Ranaudo|R|Johnny Giavotella|R|Single|B|Four-Seam Fastball|46|0|1|1|12|92
+Anthony Ranaudo|R|Johnny Giavotella|R|Single|F|Four-Seam Fastball|47|1|1|1|12|90
+Anthony Ranaudo|R|Johnny Giavotella|R|Single|E|Four-Seam Fastball|48|1|2|1|11|91
+Anthony Ranaudo|R|Erick Aybar|L|Sac Bunt|B|Curveball|49|0|0|1|8|77
+Anthony Ranaudo|R|Erick Aybar|L|Sac Bunt|S|Four-Seam Fastball|50|1|0|1|11|90
+Anthony Ranaudo|R|Erick Aybar|L|Sac Bunt|E|Curveball|51|1|1|1|2|77
+Anthony Ranaudo|R|Mike Trout|R|Walk|B|Four-Seam Fastball|52|0|0|2|11|90
+Anthony Ranaudo|R|Mike Trout|R|Walk|B|Four-Seam Fastball|53|1|0|2|11|89
+Anthony Ranaudo|R|Mike Trout|R|Walk|B|Curveball|54|2|0|2|7|75
+Anthony Ranaudo|R|Mike Trout|R|Walk|B|Four-Seam Fastball|55|3|0|2|14|90
+Anthony Ranaudo|R|Albert Pujols|R|Single|B|Four-Seam Fastball|56|0|0|2|11|90
+Anthony Ranaudo|R|Albert Pujols|R|Single|C|Slider|57|1|0|2|2|81
+Anthony Ranaudo|R|Albert Pujols|R|Single|C|Four-Seam Fastball|58|1|1|2|2|89
+Anthony Ranaudo|R|Albert Pujols|R|Single|F|Curveball|59|1|2|2|6|76
+Anthony Ranaudo|R|Albert Pujols|R|Single|E|Four-Seam Fastball|60|1|2|2|12|90
+Anthony Ranaudo|R|Matt Joyce|L|Double|E|Four-Seam Fastball|61|0|0|2|2|90
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|90
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|2|91
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|B|Slider|2|1|1|0|14|84
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|3|2|1|0|12|91
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|4|3|1|0|5|91
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|5|3|2|0|6|91
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|6|3|2|0|1|91
+Anthony Ranaudo|R|Joc Pederson|L|Strikeout|T|Four-Seam Fastball|7|3|2|0|2|92
+Anthony Ranaudo|R|Yasiel Puig|R|Triple|C|Curveball|8|0|0|1|2|78
+Anthony Ranaudo|R|Yasiel Puig|R|Triple|F|Changeup|9|0|1|1|11|86
+Anthony Ranaudo|R|Yasiel Puig|R|Triple|D|Four-Seam Fastball|10|0|2|1|13|93
+Anthony Ranaudo|R|Adrian Gonzalez|L|Groundout|X|Four-Seam Fastball|11|0|0|1|14|91
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|C|Four-Seam Fastball|12|0|0|2|6|91
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|X|Four-Seam Fastball|13|0|1|2|6|92
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|14|0|0|0|11|90
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|C|Four-Seam Fastball|15|1|0|0|6|90
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|C|Changeup|16|1|1|0|2|84
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|17|1|2|0|12|93
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|C|Curveball|18|2|2|0|12|77
+Anthony Ranaudo|R|Andre Ethier|L|Pop Out|B|Four-Seam Fastball|19|0|0|1|14|92
+Anthony Ranaudo|R|Andre Ethier|L|Pop Out|X|Four-Seam Fastball|20|1|0|1|14|91
+Anthony Ranaudo|R|Alberto Callaspo|L|Walk|C|Four-Seam Fastball|21|0|0|2|5|92
+Anthony Ranaudo|R|Alberto Callaspo|L|Walk|B|Slider|22|0|1|2|14|86
+Anthony Ranaudo|R|Alberto Callaspo|L|Walk|B|Four-Seam Fastball|23|1|1|2|12|91
+Anthony Ranaudo|R|Alberto Callaspo|L|Walk|B|Four-Seam Fastball|24|2|1|2|14|92
+Anthony Ranaudo|R|Alberto Callaspo|L|Walk|B|Four-Seam Fastball|25|3|1|2|11|91
+Anthony Ranaudo|R|Jimmy Rollins|L|Flyout|X|Four-Seam Fastball|26|0|0|2|11|91
+Anthony Ranaudo|R|Zack Greinke|R|Groundout|C|Four-Seam Fastball|27|0|0|0|9|90
+Anthony Ranaudo|R|Zack Greinke|R|Groundout|C|Curveball|28|0|1|0|12|77
+Anthony Ranaudo|R|Zack Greinke|R|Groundout|X|Curveball|29|0|2|0|14|79
+Anthony Ranaudo|R|Joc Pederson|L|Flyout|C|Curveball|30|0|0|1|1|76
+Anthony Ranaudo|R|Joc Pederson|L|Flyout|F|Changeup|31|0|1|1|11|84
+Anthony Ranaudo|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|32|0|2|1|12|93
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Changeup|33|0|0|2|11|83
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|S|Changeup|34|1|0|2|4|83
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|S|Four-Seam Fastball|35|1|1|2|4|91
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Four-Seam Fastball|36|1|2|2|11|91
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|F|Four-Seam Fastball|37|2|2|2|13|91
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Curveball|38|2|2|2|14|78
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|X|Four-Seam Fastball|39|3|2|2|14|91
+Anthony Ranaudo|R|Adrian Gonzalez|L|Lineout|B|Four-Seam Fastball|40|0|0|0|11|90
+Anthony Ranaudo|R|Adrian Gonzalez|L|Lineout|C|Four-Seam Fastball|41|1|0|0|2|89
+Anthony Ranaudo|R|Adrian Gonzalez|L|Lineout|B|Slider|42|1|1|0|14|81
+Anthony Ranaudo|R|Adrian Gonzalez|L|Lineout|F|Slider|43|2|1|0|6|84
+Anthony Ranaudo|R|Adrian Gonzalez|L|Lineout|X|Slider|44|2|2|0|6|81
+Anthony Ranaudo|R|Howie Kendrick|R|Single|C|Curveball|45|0|0|1|4|78
+Anthony Ranaudo|R|Howie Kendrick|R|Single|F|Slider|46|0|1|1|14|84
+Anthony Ranaudo|R|Howie Kendrick|R|Single|D|Slider|47|0|2|1|12|84
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|48|0|0|1|11|90
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|49|1|0|1|2|90
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|50|1|1|1|8|91
+Anthony Ranaudo|R|Yasmani Grandal|L|Strikeout|C|Curveball|51|1|2|1|12|78
+Anthony Ranaudo|R|Andre Ethier|L|Flyout|B|Four-Seam Fastball|52|0|0|2|11|91
+Anthony Ranaudo|R|Andre Ethier|L|Flyout|F|Four-Seam Fastball|53|1|0|2|8|90
+Anthony Ranaudo|R|Andre Ethier|L|Flyout|B|Four-Seam Fastball|54|1|1|2|14|91
+Anthony Ranaudo|R|Andre Ethier|L|Flyout|B|Changeup|55|2|1|2|11|81
+Anthony Ranaudo|R|Andre Ethier|L|Flyout|X|Four-Seam Fastball|56|3|1|2|5|89
+Anthony Ranaudo|R|Alberto Callaspo|L|Single|D|Four-Seam Fastball|57|0|0|0|1|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Strikeout|F|Four-Seam Fastball|58|0|0|0|2|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Strikeout|B|Four-Seam Fastball|59|0|1|0|11|90
+Anthony Ranaudo|R|Jimmy Rollins|L|Strikeout|F|Four-Seam Fastball|60|1|1|0|5|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Strikeout|F|Four-Seam Fastball|61|1|2|0|1|90
+Anthony Ranaudo|R|Jimmy Rollins|L|Strikeout|S|Slider|62|1|2|0|14|82
+Anthony Ranaudo|R|Zack Greinke|R|Sac Bunt|C|Curveball|63|0|0|1|12|75
+Anthony Ranaudo|R|Zack Greinke|R|Sac Bunt|X|Four-Seam Fastball|64|0|1|1|13|91
+Anthony Ranaudo|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|65|0|0|2|14|91
+Anthony Ranaudo|R|Joc Pederson|L|Walk|F|Changeup|66|1|0|2|2|81
+Anthony Ranaudo|R|Joc Pederson|L|Walk|B|Slider|67|1|1|2|12|80
+Anthony Ranaudo|R|Joc Pederson|L|Walk|B|Slider|68|2|1|2|12|79
+Anthony Ranaudo|R|Joc Pederson|L|Walk|B|Slider|69|3|1|2|12|81
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Changeup|70|0|0|2|11|81
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Changeup|71|1|0|2|12|80
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|B|Four-Seam Fastball|72|2|0|2|11|90
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|C|Four-Seam Fastball|73|3|0|2|12|89
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|F|Four-Seam Fastball|74|3|1|2|3|90
+Anthony Ranaudo|R|Yasiel Puig|R|Lineout|X|Four-Seam Fastball|75|3|2|2|2|89
+Anthony Ranaudo|R|Adrian Gonzalez|L|Flyout|C|Curveball|76|0|0|0|1|76
+Anthony Ranaudo|R|Adrian Gonzalez|L|Flyout|B|Slider|77|0|1|0|12|82
+Anthony Ranaudo|R|Adrian Gonzalez|L|Flyout|S|Slider|78|1|1|0|14|82
+Anthony Ranaudo|R|Adrian Gonzalez|L|Flyout|B|Four-Seam Fastball|79|1|2|0|14|92
+Anthony Ranaudo|R|Adrian Gonzalez|L|Flyout|X|Slider|80|2|2|0|8|81
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|C|Slider|81|0|0|1|14|82
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|B|Four-Seam Fastball|82|0|1|1|11|91
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|S|Four-Seam Fastball|83|1|1|1|3|91
+Anthony Ranaudo|R|Howie Kendrick|R|Lineout|X|Four-Seam Fastball|84|1|2|1|3|92
+Anthony Ranaudo|R|Yasmani Grandal|L|Lineout|S|Changeup|85|0|0|2|14|84
+Anthony Ranaudo|R|Yasmani Grandal|L|Lineout|X|Slider|86|0|1|2|6|84
+Anthony Ranaudo|R|Andre Ethier|L|Single|B|Four-Seam Fastball|87|0|0|0|11|89
+Anthony Ranaudo|R|Andre Ethier|L|Single|C|Four-Seam Fastball|88|1|0|0|5|89
+Anthony Ranaudo|R|Andre Ethier|L|Single|F|Slider|89|1|1|0|14|82
+Anthony Ranaudo|R|Andre Ethier|L|Single|D|Slider|90|1|2|0|9|81
+Anthony Ranaudo|R|Alberto Callaspo|L|Lineout|X|Four-Seam Fastball|91|0|0|0|5|90
+Anthony Ranaudo|R|Jimmy Rollins|L|Single|*B|Changeup|92|0|0|1|13|84
+Anthony Ranaudo|R|Jimmy Rollins|L|Single|C|Four-Seam Fastball|93|1|0|1|3|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Single|D|Curveball|94|1|1|1|12|76
+Anthony Ranaudo|R|Justin Turner|R|Flyout|B|Changeup|95|0|0|1|12|80
+Anthony Ranaudo|R|Justin Turner|R|Flyout|S|Four-Seam Fastball|96|1|0|1|3|89
+Anthony Ranaudo|R|Justin Turner|R|Flyout|F|Four-Seam Fastball|97|1|1|1|3|90
+Anthony Ranaudo|R|Justin Turner|R|Flyout|B|Four-Seam Fastball|98|1|2|1|11|90
+Anthony Ranaudo|R|Justin Turner|R|Flyout|X|Four-Seam Fastball|99|2|2|1|11|89
+Anthony Ranaudo|R|Chris Iannetta|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|91
+Anthony Ranaudo|R|Chris Iannetta|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|91
+Anthony Ranaudo|R|Chris Iannetta|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|91
+Anthony Ranaudo|R|Chris Iannetta|R|Walk|B|Four-Seam Fastball|3|3|0|0|12|91
+Anthony Ranaudo|R|Johnny Giavotella|R|Forceout|X|Curveball|4|0|0|0|5|78
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|B|Slider|5|0|0|1|11|85
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|B|Changeup|6|1|0|1|11|83
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|C|Four-Seam Fastball|7|2|0|1|11|91
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|B|Four-Seam Fastball|8|2|1|1|13|91
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|F|Four-Seam Fastball|9|3|1|1|4|91
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|F|Four-Seam Fastball|10|3|2|1|7|91
+Anthony Ranaudo|R|Kole Calhoun|L|Home Run|E|Four-Seam Fastball|11|3|2|1|4|91
+Anthony Ranaudo|R|Mike Trout|R|Groundout|C|Four-Seam Fastball|12|0|0|1|14|92
+Anthony Ranaudo|R|Mike Trout|R|Groundout|X|Slider|13|0|1|1|2|85
+Anthony Ranaudo|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|14|0|0|2|2|93
+Anthony Ranaudo|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|15|0|1|2|13|92
+Anthony Ranaudo|R|Albert Pujols|R|Groundout|X|Curveball|16|0|2|2|2|80
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|X|Four-Seam Fastball|17|0|0|0|6|91
+Anthony Ranaudo|R|David Freese|R|Pop Out|B|Four-Seam Fastball|18|0|0|1|12|91
+Anthony Ranaudo|R|David Freese|R|Pop Out|B|Four-Seam Fastball|19|1|0|1|14|91
+Anthony Ranaudo|R|David Freese|R|Pop Out|F|Four-Seam Fastball|20|2|0|1|3|90
+Anthony Ranaudo|R|David Freese|R|Pop Out|F|Four-Seam Fastball|21|2|1|1|5|92
+Anthony Ranaudo|R|David Freese|R|Pop Out|B|Curveball|22|2|2|1|11|78
+Anthony Ranaudo|R|David Freese|R|Pop Out|F|Four-Seam Fastball|23|3|2|1|13|90
+Anthony Ranaudo|R|David Freese|R|Pop Out|F|Four-Seam Fastball|24|3|2|1|4|91
+Anthony Ranaudo|R|David Freese|R|Pop Out|X|Four-Seam Fastball|25|3|2|1|1|90
+Anthony Ranaudo|R|Matt Joyce|L|Lineout|X|Changeup|26|0|0|2|13|84
+Anthony Ranaudo|R|C.J. Cron|R|Single|C|Curveball|27|0|0|0|7|76
+Anthony Ranaudo|R|C.J. Cron|R|Single|B|Four-Seam Fastball|28|0|1|0|14|91
+Anthony Ranaudo|R|C.J. Cron|R|Single|B|Curveball|29|1|1|0|14|78
+Anthony Ranaudo|R|C.J. Cron|R|Single|F|Four-Seam Fastball|30|2|1|0|6|90
+Anthony Ranaudo|R|C.J. Cron|R|Single|B|Four-Seam Fastball|31|2|2|0|14|91
+Anthony Ranaudo|R|C.J. Cron|R|Single|D|Four-Seam Fastball|32|3|2|0|4|89
+Anthony Ranaudo|R|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|33|0|0|0|14|91
+Anthony Ranaudo|R|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|34|0|1|0|6|92
+Anthony Ranaudo|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|35|0|2|0|12|91
+Anthony Ranaudo|R|Chris Iannetta|R|Flyout|*B|Curveball|36|1|2|0|14|80
+Anthony Ranaudo|R|Chris Iannetta|R|Flyout|X|Four-Seam Fastball|37|2|2|0|1|90
+Anthony Ranaudo|R|Johnny Giavotella|R|Groundout|B|Curveball|38|0|0|1|9|79
+Anthony Ranaudo|R|Johnny Giavotella|R|Groundout|X|Four-Seam Fastball|39|1|0|1|11|91
+Anthony Ranaudo|R|Kole Calhoun|L|Flyout|C|Four-Seam Fastball|40|0|0|2|5|91
+Anthony Ranaudo|R|Kole Calhoun|L|Flyout|F|Curveball|41|0|1|2|6|80
+Anthony Ranaudo|R|Kole Calhoun|L|Flyout|X|Four-Seam Fastball|42|0|2|2|5|92
+Anthony Ranaudo|R|Mike Trout|R|Strikeout|B|Four-Seam Fastball|43|0|0|0|14|90
+Anthony Ranaudo|R|Mike Trout|R|Strikeout|C|Four-Seam Fastball|44|1|0|0|3|90
+Anthony Ranaudo|R|Mike Trout|R|Strikeout|B|Four-Seam Fastball|45|1|1|0|11|89
+Anthony Ranaudo|R|Mike Trout|R|Strikeout|F|Four-Seam Fastball|46|2|1|0|2|90
+Anthony Ranaudo|R|Mike Trout|R|Strikeout|T|Curveball|47|2|2|0|11|78
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|B|Curveball|48|0|0|1|11|77
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|F|Slider|49|1|0|1|7|82
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|B|Slider|50|1|1|1|14|84
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|B|Slider|51|2|1|1|14|82
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|C|Four-Seam Fastball|52|3|1|1|9|92
+Anthony Ranaudo|R|Albert Pujols|R|Lineout|X|Four-Seam Fastball|53|3|2|1|8|91
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|F|Slider|54|0|0|2|1|85
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|B|Slider|55|0|1|2|12|84
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|B|Changeup|56|1|1|2|13|84
+Anthony Ranaudo|R|Erick Aybar|L|Flyout|X|Changeup|57|2|1|2|5|84
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|C|Curveball|0|0|0|0|11|78
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|B|Four-Seam Fastball|1|0|1|0|14|91
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|C|Curveball|2|1|1|0|4|78
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|F|Four-Seam Fastball|3|1|2|0|9|92
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|F|Four-Seam Fastball|4|1|2|0|6|92
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|F|Curveball|5|1|2|0|13|78
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|F|Curveball|6|1|2|0|11|79
+Anthony Ranaudo|R|Evan Gattis|R|Hit By Pitch|H|Changeup|7|1|2|0|11|83
+Anthony Ranaudo|R|Luis Valbuena|L|Single|B|Curveball|8|0|0|0|11|78
+Anthony Ranaudo|R|Luis Valbuena|L|Single|B|Slider|9|1|0|0|11|83
+Anthony Ranaudo|R|Luis Valbuena|L|Single|F|Four-Seam Fastball|10|2|0|0|11|90
+Anthony Ranaudo|R|Luis Valbuena|L|Single|F|Four-Seam Fastball|11|2|1|0|13|90
+Anthony Ranaudo|R|Luis Valbuena|L|Single|E|Curveball|12|2|2|0|7|79
+Anthony Ranaudo|R|Jon Singleton|L|Flyout|C|Four-Seam Fastball|13|0|0|0|4|91
+Anthony Ranaudo|R|Jon Singleton|L|Flyout|X|Four-Seam Fastball|14|0|1|0|3|91
+Anthony Ranaudo|R|Jake Marisnick|R|Walk|C|Four-Seam Fastball|15|0|0|1|6|91
+Anthony Ranaudo|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|16|0|1|1|13|91
+Anthony Ranaudo|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|17|1|1|1|12|91
+Anthony Ranaudo|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|18|2|1|1|14|89
+Anthony Ranaudo|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|19|3|1|1|13|89
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|20|0|0|1|11|90
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|B|Curveball|21|1|0|1|11|77
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|22|2|0|1|5|90
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|23|2|1|1|11|90
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|24|2|2|1|13|90
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|25|0|0|2|14|92
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|26|1|0|2|7|91
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|C|Curveball|27|1|1|2|2|79
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|28|1|2|2|11|91
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|29|2|2|2|8|91
+Anthony Ranaudo|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|30|2|2|2|3|92
+Anthony Ranaudo|R|Preston Tucker|L|Single|F|Four-Seam Fastball|31|0|0|0|8|90
+Anthony Ranaudo|R|Preston Tucker|L|Single|D|Changeup|32|0|1|0|7|84
+Anthony Ranaudo|R|Carlos Correa|R|Walk|B|Curveball|33|0|0|0|11|78
+Anthony Ranaudo|R|Carlos Correa|R|Walk|F|Four-Seam Fastball|34|1|0|0|2|90
+Anthony Ranaudo|R|Carlos Correa|R|Walk|F|Four-Seam Fastball|35|1|1|0|7|90
+Anthony Ranaudo|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|36|1|2|0|13|90
+Anthony Ranaudo|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|37|2|2|0|14|90
+Anthony Ranaudo|R|Carlos Correa|R|Walk|F|Four-Seam Fastball|38|3|2|0|13|90
+Anthony Ranaudo|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|39|3|2|0|11|90
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|F|Four-Seam Fastball|40|0|0|0|4|91
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|B|Curveball|41|0|1|0|11|79
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|B|Curveball|42|1|1|0|11|76
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|F|Four-Seam Fastball|43|2|1|0|13|90
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|S|Four-Seam Fastball|44|2|2|0|4|90
+Anthony Ranaudo|R|Evan Gattis|R|Walk|C|Curveball|45|0|0|1|12|78
+Anthony Ranaudo|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|46|0|1|1|12|91
+Anthony Ranaudo|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|47|1|1|1|14|91
+Anthony Ranaudo|R|Evan Gattis|R|Walk|B|Curveball|48|2|1|1|11|77
+Anthony Ranaudo|R|Evan Gattis|R|Walk|S|Four-Seam Fastball|49|3|1|1|9|90
+Anthony Ranaudo|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|50|3|2|1|14|90
+Anthony Ranaudo|R|Luis Valbuena|L|Single|E|Changeup|51|0|0|1|1|84
+Anthony Ranaudo|R|Jon Singleton|L|Sac Fly|B|Four-Seam Fastball|52|0|0|1|14|91
+Anthony Ranaudo|R|Jon Singleton|L|Sac Fly|E|Four-Seam Fastball|53|1|0|1|11|90
+Anthony Ranaudo|R|Jake Marisnick|R|Lineout|X|Four-Seam Fastball|54|0|0|2|2|90
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|F|Changeup|55|0|0|0|2|83
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|B|Curveball|56|0|1|0|13|77
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|B|Changeup|57|1|1|0|14|83
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|58|2|1|0|9|90
+Anthony Ranaudo|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|59|2|2|0|11|90
+Anthony Ranaudo|R|Jose Altuve|R|Double|B|Curveball|60|0|0|1|14|78
+Anthony Ranaudo|R|Jose Altuve|R|Double|B|Curveball|61|1|0|1|11|77
+Anthony Ranaudo|R|Jose Altuve|R|Double|D|Four-Seam Fastball|62|2|0|1|5|90
+Anthony Ranaudo|R|Preston Tucker|L|Home Run|E|Four-Seam Fastball|63|0|0|1|4|90
+Anthony Ranaudo|R|Carlos Correa|R|Groundout|C|Four-Seam Fastball|64|0|0|1|4|91
+Anthony Ranaudo|R|Carlos Correa|R|Groundout|B|Four-Seam Fastball|65|0|1|1|13|90
+Anthony Ranaudo|R|Carlos Correa|R|Groundout|S|Curveball|66|1|1|1|14|78
+Anthony Ranaudo|R|Carlos Correa|R|Groundout|B|Curveball|67|1|2|1|14|78
+Anthony Ranaudo|R|Carlos Correa|R|Groundout|X|Four-Seam Fastball|68|2|2|1|7|90
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|C|Curveball|69|0|0|2|4|77
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|B|Curveball|70|0|1|2|13|78
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|F|Four-Seam Fastball|71|1|1|2|3|90
+Anthony Ranaudo|R|Colby Rasmus|L|Strikeout|S|Curveball|72|1|2|2|14|79
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Strikeout|F|Four-Seam Fastball|0|1|0|2|8|92
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Strikeout|S|Four-Seam Fastball|1|1|1|2|11|92
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Strikeout|S|Four-Seam Fastball|2|1|2|2|11|92
+Anthony Ranaudo|R|Anthony Gose|L|Walk|F|Four-Seam Fastball|3|0|0|0|8|93
+Anthony Ranaudo|R|Anthony Gose|L|Walk|B|Curveball|4|0|1|0|11|79
+Anthony Ranaudo|R|Anthony Gose|L|Walk|B|Slider|5|1|1|0|14|80
+Anthony Ranaudo|R|Anthony Gose|L|Walk|F|Four-Seam Fastball|6|2|1|0|7|91
+Anthony Ranaudo|R|Anthony Gose|L|Walk|B|Curveball|7|2|2|0|14|77
+Anthony Ranaudo|R|Anthony Gose|L|Walk|B|Four-Seam Fastball|8|3|2|0|11|91
+Anthony Ranaudo|R|Jose Iglesias|R|Sac Bunt|X|Four-Seam Fastball|9|0|0|0|2|92
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|B|Slider|10|0|0|1|12|81
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|B|Four-Seam Fastball|11|1|0|1|11|91
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|E|Four-Seam Fastball|12|2|0|1|1|91
+Anthony Ranaudo|R|J.D. Martinez|R|Groundout|F|Curveball|13|0|0|1|5|80
+Anthony Ranaudo|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|14|0|1|1|13|93
+Anthony Ranaudo|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|15|1|1|1|13|93
+Anthony Ranaudo|R|J.D. Martinez|R|Groundout|B|Curveball|16|2|1|1|14|81
+Anthony Ranaudo|R|J.D. Martinez|R|Groundout|X|Four-Seam Fastball|17|3|1|1|11|92
+Anthony Ranaudo|R|Miguel Cabrera|R|Single|C|Curveball|18|0|0|2|6|81
+Anthony Ranaudo|R|Miguel Cabrera|R|Single|D|Four-Seam Fastball|19|0|1|2|7|94
+Anthony Ranaudo|R|Victor Martinez|L|Groundout|C|Changeup|20|0|0|2|6|85
+Anthony Ranaudo|R|Victor Martinez|L|Groundout|B|Curveball|21|0|1|2|12|81
+Anthony Ranaudo|R|Victor Martinez|L|Groundout|B|Four-Seam Fastball|22|1|1|2|14|92
+Anthony Ranaudo|R|Victor Martinez|L|Groundout|X|Changeup|23|2|1|2|13|85
+Anthony Ranaudo|R|Justin Upton|R|Walk|F|Four-Seam Fastball|24|0|0|0|4|92
+Anthony Ranaudo|R|Justin Upton|R|Walk|B|Curveball|25|0|1|0|14|81
+Anthony Ranaudo|R|Justin Upton|R|Walk|B|Slider|26|1|1|0|12|82
+Anthony Ranaudo|R|Justin Upton|R|Walk|B|Four-Seam Fastball|27|2|1|0|11|92
+Anthony Ranaudo|R|Justin Upton|R|Walk|B|Four-Seam Fastball|28|3|1|0|11|91
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|F|Four-Seam Fastball|29|0|0|0|11|91
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|F|Four-Seam Fastball|30|0|1|0|11|92
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|B|Four-Seam Fastball|31|0|2|0|12|92
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|B|Curveball|32|1|2|0|11|80
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|B|Curveball|33|2|2|0|14|81
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|F|Four-Seam Fastball|34|3|2|0|11|90
+Anthony Ranaudo|R|Nicholas Castellanos|R|Walk|B|Four-Seam Fastball|35|3|2|0|11|90
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Flyout|F|Four-Seam Fastball|36|0|0|0|1|91
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Flyout|X|Curveball|37|0|1|0|8|81
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|C|Changeup|38|0|0|1|11|84
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|C|Curveball|39|0|1|1|6|81
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|B|Four-Seam Fastball|40|0|2|1|11|92
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|B|Curveball|41|1|2|1|14|82
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|F|Changeup|42|2|2|1|11|83
+Anthony Ranaudo|R|Anthony Gose|L|Flyout|X|Four-Seam Fastball|43|2|2|1|1|91
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|C|Curveball|44|0|0|2|3|80
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|F|Four-Seam Fastball|45|0|1|2|11|91
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|F|Four-Seam Fastball|46|0|2|2|11|91
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|B|Four-Seam Fastball|47|0|2|2|11|91
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|B|Curveball|48|1|2|2|12|79
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|F|Curveball|49|2|2|2|11|78
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|F|Four-Seam Fastball|50|2|2|2|12|91
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|F|Four-Seam Fastball|51|2|2|2|11|90
+Anthony Ranaudo|R|Jose Iglesias|R|Strikeout|T|Slider|52|2|2|2|11|83
+Anthony Ranaudo|R|Avisail Garcia|R|Groundout|X|Curveball|0|0|0|1|14|79
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|C|Four-Seam Fastball|1|0|0|2|7|90
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|S|Four-Seam Fastball|2|0|1|2|2|91
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|F|Four-Seam Fastball|3|0|2|2|2|90
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|*B|Curveball|4|0|2|2|14|81
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|B|Slider|5|1|2|2|12|82
+Anthony Ranaudo|R|Dioner Navarro|L|Flyout|X|Four-Seam Fastball|6|2|2|2|2|91
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|C|Four-Seam Fastball|7|0|0|0|4|91
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|C|Four-Seam Fastball|8|0|1|0|5|92
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|B|Curveball|9|0|2|0|14|81
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|B|Curveball|10|1|2|0|14|78
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|B|Four-Seam Fastball|11|2|2|0|11|93
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|F|Four-Seam Fastball|12|3|2|0|2|91
+Anthony Ranaudo|R|Austin Jackson|R|Flyout|X|Four-Seam Fastball|13|3|2|0|6|89
+Anthony Ranaudo|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|14|0|0|1|12|92
+Anthony Ranaudo|R|Adam Eaton|L|Walk|B|Changeup|15|1|0|1|11|81
+Anthony Ranaudo|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|16|2|0|1|12|90
+Anthony Ranaudo|R|Adam Eaton|L|Walk|C|Four-Seam Fastball|17|3|0|1|11|90
+Anthony Ranaudo|R|Adam Eaton|L|Walk|S|Four-Seam Fastball|18|3|1|1|12|90
+Anthony Ranaudo|R|Adam Eaton|L|Walk|F|Four-Seam Fastball|19|3|2|1|11|91
+Anthony Ranaudo|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|20|3|2|1|12|90
+Anthony Ranaudo|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|21|0|0|1|11|90
+Anthony Ranaudo|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|22|1|0|1|11|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|23|2|0|1|12|89
+Anthony Ranaudo|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|24|3|0|1|11|90
+Anthony Ranaudo|R|Jose Abreu|R|Flyout|B|Four-Seam Fastball|25|0|0|1|12|90
+Anthony Ranaudo|R|Jose Abreu|R|Flyout|C|Curveball|26|1|0|1|6|78
+Anthony Ranaudo|R|Jose Abreu|R|Flyout|B|Curveball|27|1|1|1|11|78
+Anthony Ranaudo|R|Jose Abreu|R|Flyout|X|Four-Seam Fastball|28|2|1|1|14|90
+Anthony Ranaudo|R|Todd Frazier|R|Walk|B|Curveball|29|0|0|2|14|79
+Anthony Ranaudo|R|Todd Frazier|R|Walk|C|Curveball|30|1|0|2|6|79
+Anthony Ranaudo|R|Todd Frazier|R|Walk|B|Slider|31|1|1|2|14|82
+Anthony Ranaudo|R|Todd Frazier|R|Walk|B|Curveball|32|2|1|2|12|78
+Anthony Ranaudo|R|Todd Frazier|R|Walk|B|Slider|33|3|1|2|11|80
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|F|Curveball|34|0|0|2|14|78
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|B|Four-Seam Fastball|35|0|1|2|11|90
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|F|Curveball|36|1|1|2|11|78
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|F|Four-Seam Fastball|37|1|2|2|2|91
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|*B|Curveball|38|1|2|2|14|80
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|B|Four-Seam Fastball|39|2|2|2|11|89
+Anthony Ranaudo|R|Melky Cabrera|L|Walk|B|Four-Seam Fastball|40|3|2|2|11|88
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|B|Curveball|41|0|0|2|12|80
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|S|Four-Seam Fastball|42|1|0|2|1|89
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|B|Curveball|43|1|1|2|13|79
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|F|Four-Seam Fastball|44|2|1|2|11|90
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|*B|Curveball|45|2|2|2|14|79
+Anthony Ranaudo|R|Brett Lawrie|R|Walk|B|Four-Seam Fastball|46|3|2|2|11|89
+Anthony Ranaudo|R|Drew Butera|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|92
+Anthony Ranaudo|R|Drew Butera|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|1|91
+Anthony Ranaudo|R|Drew Butera|R|Strikeout|C|Slider|2|1|1|0|3|84
+Anthony Ranaudo|R|Drew Butera|R|Strikeout|F|Slider|3|1|2|0|14|86
+Anthony Ranaudo|R|Drew Butera|R|Strikeout|C|Four-Seam Fastball|4|1|2|0|14|93
+Anthony Ranaudo|R|Billy Burns|L|Single|D|Four-Seam Fastball|5|0|0|1|5|93
+Anthony Ranaudo|R|Whit Merrifield|R|Strikeout|C|Curveball|6|0|0|1|2|81
+Anthony Ranaudo|R|Whit Merrifield|R|Strikeout|F|Four-Seam Fastball|7|0|1|1|13|92
+Anthony Ranaudo|R|Whit Merrifield|R|Strikeout|S|Slider|8|0|2|1|6|84
+Anthony Ranaudo|R|Eric Hosmer|L|Groundout|B|Changeup|9|0|0|2|11|85
+Anthony Ranaudo|R|Eric Hosmer|L|Groundout|B|Changeup|10|1|0|2|13|85
+Anthony Ranaudo|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|11|2|0|2|6|92
+Anthony Ranaudo|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|91
+Anthony Ranaudo|R|Dexter Fowler|L|Walk|B|Slider|1|1|0|0|14|83
+Anthony Ranaudo|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|92
+Anthony Ranaudo|R|Dexter Fowler|L|Walk|C|Four-Seam Fastball|3|3|0|0|13|91
+Anthony Ranaudo|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Anthony Ranaudo|R|Kris Bryant|R|Pop Out|B|Slider|5|0|0|0|14|85
+Anthony Ranaudo|R|Kris Bryant|R|Pop Out|X|Four-Seam Fastball|6|1|0|0|11|92
+Anthony Ranaudo|R|Anthony Rizzo|L|Walk|B|Changeup|7|0|0|1|11|84
+Anthony Ranaudo|R|Anthony Rizzo|L|Walk|*B|Curveball|8|1|0|1|14|82
+Anthony Ranaudo|R|Anthony Rizzo|L|Walk|B|Changeup|9|2|0|1|11|82
+Anthony Ranaudo|R|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|10|3|0|1|11|91
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|C|Four-Seam Fastball|11|0|0|1|13|91
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|12|0|1|1|13|91
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|B|Slider|13|1|1|1|13|82
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|F|Four-Seam Fastball|14|2|1|1|5|91
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|F|Curveball|15|2|2|1|8|80
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|X|Four-Seam Fastball|16|2|2|1|7|92
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|B|Slider|17|0|0|2|12|83
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|B|Curveball|18|1|0|2|11|80
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|X|Changeup|19|2|0|2|4|84
+Anthony Ranaudo|R|Addison Russell|R|Flyout|C|Four-Seam Fastball|20|0|0|0|11|91
+Anthony Ranaudo|R|Addison Russell|R|Flyout|X|Four-Seam Fastball|21|0|1|0|13|91
+Anthony Ranaudo|R|Jason Heyward|L|Lineout|C|Curveball|22|0|0|1|2|77
+Anthony Ranaudo|R|Jason Heyward|L|Lineout|X|Four-Seam Fastball|23|0|1|1|7|91
+Anthony Ranaudo|R|Javier Baez|R|Groundout|C|Slider|24|0|0|2|4|84
+Anthony Ranaudo|R|Javier Baez|R|Groundout|F|Curveball|25|0|1|2|14|79
+Anthony Ranaudo|R|Javier Baez|R|Groundout|B|Four-Seam Fastball|26|0|2|2|12|92
+Anthony Ranaudo|R|Javier Baez|R|Groundout|F|Curveball|27|1|2|2|11|78
+Anthony Ranaudo|R|Javier Baez|R|Groundout|B|Four-Seam Fastball|28|1|2|2|14|92
+Anthony Ranaudo|R|Javier Baez|R|Groundout|X|Four-Seam Fastball|29|2|2|2|11|90
+Anthony Ranaudo|R|Jason Hammel|R|Groundout|C|Four-Seam Fastball|30|0|0|0|4|91
+Anthony Ranaudo|R|Jason Hammel|R|Groundout|C|Four-Seam Fastball|31|0|1|0|5|92
+Anthony Ranaudo|R|Jason Hammel|R|Groundout|X|Curveball|32|0|2|0|8|80
+Anthony Ranaudo|R|Dexter Fowler|L|Strikeout|B|Curveball|33|0|0|1|12|79
+Anthony Ranaudo|R|Dexter Fowler|L|Strikeout|C|Curveball|34|1|0|1|14|79
+Anthony Ranaudo|R|Dexter Fowler|L|Strikeout|S|Curveball|35|1|1|1|14|80
+Anthony Ranaudo|R|Dexter Fowler|L|Strikeout|F|Four-Seam Fastball|36|1|2|1|5|92
+Anthony Ranaudo|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|37|1|2|1|5|92
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|B|Four-Seam Fastball|38|0|0|2|11|92
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|F|Curveball|39|1|0|2|2|80
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|B|Curveball|40|1|1|2|11|79
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|C|Curveball|41|2|1|2|6|78
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|F|Four-Seam Fastball|42|2|2|2|1|91
+Anthony Ranaudo|R|Kris Bryant|R|Groundout|X|Changeup|43|2|2|2|4|84
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|B|Curveball|44|0|0|0|11|77
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|C|Curveball|45|1|0|0|11|76
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|46|1|1|0|11|90
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|B|Slider|47|2|1|0|14|81
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|C|Four-Seam Fastball|48|3|1|0|4|90
+Anthony Ranaudo|R|Anthony Rizzo|L|Strikeout|T|Four-Seam Fastball|49|3|2|0|11|89
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|C|Four-Seam Fastball|50|0|0|1|13|91
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|B|Slider|51|0|1|1|11|83
+Anthony Ranaudo|R|Ben Zobrist|L|Groundout|X|Four-Seam Fastball|52|1|1|1|4|91
+Anthony Ranaudo|R|Miguel Montero|L|Walk|C|Four-Seam Fastball|53|0|0|2|1|92
+Anthony Ranaudo|R|Miguel Montero|L|Walk|B|Four-Seam Fastball|54|0|1|2|11|92
+Anthony Ranaudo|R|Miguel Montero|L|Walk|B|Four-Seam Fastball|55|1|1|2|11|91
+Anthony Ranaudo|R|Miguel Montero|L|Walk|B|Curveball|56|2|1|2|14|80
+Anthony Ranaudo|R|Miguel Montero|L|Walk|S|Four-Seam Fastball|57|3|1|2|4|90
+Anthony Ranaudo|R|Miguel Montero|L|Walk|B|Curveball|58|3|2|2|12|78
+Anthony Ranaudo|R|Addison Russell|R|Pop Out|F|Four-Seam Fastball|59|0|0|2|11|91
+Anthony Ranaudo|R|Addison Russell|R|Pop Out|B|Slider|60|0|1|2|14|83
+Anthony Ranaudo|R|Addison Russell|R|Pop Out|C|Curveball|61|1|1|2|9|78
+Anthony Ranaudo|R|Addison Russell|R|Pop Out|B|Four-Seam Fastball|62|1|2|2|14|92
+Anthony Ranaudo|R|Addison Russell|R|Pop Out|X|Four-Seam Fastball|63|2|2|2|6|89
+Anthony Ranaudo|R|Jason Heyward|L|Groundout|B|Curveball|64|0|0|0|11|78
+Anthony Ranaudo|R|Jason Heyward|L|Groundout|C|Curveball|65|1|0|0|14|77
+Anthony Ranaudo|R|Jason Heyward|L|Groundout|X|Four-Seam Fastball|66|1|1|0|2|91
+Anthony Ranaudo|R|Javier Baez|R|Lineout|S|Slider|67|0|0|1|6|82
+Anthony Ranaudo|R|Javier Baez|R|Lineout|X|Curveball|68|0|1|1|13|78
+Anthony Ranaudo|R|Jason Hammel|R|Strikeout|F|Four-Seam Fastball|69|0|0|2|7|90
+Anthony Ranaudo|R|Jason Hammel|R|Strikeout|S|Curveball|70|0|1|2|13|80
+Anthony Ranaudo|R|Jason Hammel|R|Strikeout|S|Curveball|71|0|2|2|14|80
+Anthony Ranaudo|R|Dexter Fowler|L|Flyout|X|Four-Seam Fastball|72|0|0|0|5|90
+Anthony Ranaudo|R|Kris Bryant|R|Home Run|B|Four-Seam Fastball|73|0|0|1|11|90
+Anthony Ranaudo|R|Kris Bryant|R|Home Run|B|Four-Seam Fastball|74|1|0|1|14|89
+Anthony Ranaudo|R|Kris Bryant|R|Home Run|F|Changeup|75|2|0|1|4|82
+Anthony Ranaudo|R|Kris Bryant|R|Home Run|B|Four-Seam Fastball|76|2|1|1|14|87
+Anthony Ranaudo|R|Kris Bryant|R|Home Run|E|Curveball|77|3|1|1|7|78
+Anthony Ranaudo|R|Anthony Rizzo|L|Flyout|F|Four-Seam Fastball|78|0|0|1|1|90
+Anthony Ranaudo|R|Anthony Rizzo|L|Flyout|F|Four-Seam Fastball|79|0|1|1|4|91
+Anthony Ranaudo|R|Anthony Rizzo|L|Flyout|F|Four-Seam Fastball|80|0|2|1|1|91
+Anthony Ranaudo|R|Anthony Rizzo|L|Flyout|B|Changeup|81|0|2|1|13|84
+Anthony Ranaudo|R|Anthony Rizzo|L|Flyout|X|Curveball|82|1|2|1|9|79
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|C|Curveball|83|0|0|2|2|79
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|B|Changeup|84|0|1|2|11|84
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|B|Four-Seam Fastball|85|1|1|2|11|91
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|C|Curveball|86|2|1|2|6|79
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|F|Curveball|87|2|2|2|5|78
+Anthony Ranaudo|R|Ben Zobrist|L|Flyout|X|Four-Seam Fastball|88|2|2|2|2|91
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|C|Four-Seam Fastball|89|0|0|0|11|89
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|B|Four-Seam Fastball|90|0|1|0|11|91
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|S|Four-Seam Fastball|91|1|1|0|4|89
+Anthony Ranaudo|R|Miguel Montero|L|Groundout|X|Four-Seam Fastball|92|1|2|0|11|89
+Anthony Ranaudo|R|Addison Russell|R|Groundout|C|Curveball|93|0|0|1|2|80
+Anthony Ranaudo|R|Addison Russell|R|Groundout|X|Curveball|94|0|1|1|8|79
+Anthony Ranaudo|R|Jason Heyward|L|Walk|C|Curveball|95|0|0|2|11|78
+Anthony Ranaudo|R|Jason Heyward|L|Walk|F|Four-Seam Fastball|96|0|1|2|11|89
+Anthony Ranaudo|R|Jason Heyward|L|Walk|B|Four-Seam Fastball|97|0|2|2|12|91
+Anthony Ranaudo|R|Jason Heyward|L|Walk|B|Four-Seam Fastball|98|1|2|2|11|90
+Anthony Ranaudo|R|Jason Heyward|L|Walk|B|Curveball|99|2|2|2|14|79
+Anthony Ranaudo|R|Jason Heyward|L|Walk|B|Curveball|100|3|2|2|14|79
+Anthony Ranaudo|R|Javier Baez|R|Home Run|B|Four-Seam Fastball|101|0|0|2|12|90
+Anthony Ranaudo|R|Javier Baez|R|Home Run|B|Four-Seam Fastball|102|1|0|2|12|88
+Anthony Ranaudo|R|Javier Baez|R|Home Run|S|Slider|103|2|0|2|14|79
+Anthony Ranaudo|R|Javier Baez|R|Home Run|F|Four-Seam Fastball|104|2|1|2|11|88
+Anthony Ranaudo|R|Javier Baez|R|Home Run|B|Four-Seam Fastball|105|2|2|2|11|88
+Anthony Ranaudo|R|Javier Baez|R|Home Run|E|Curveball|106|3|2|2|8|76
+Anthony Ranaudo|R|Carlos Santana|L|Groundout|B|Four-Seam Fastball|0|0|0|0|12|90
+Anthony Ranaudo|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|1|1|0|0|8|89
+Anthony Ranaudo|R|Jason Kipnis|L|Flyout|C|Four-Seam Fastball|2|0|0|1|2|91
+Anthony Ranaudo|R|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|3|0|1|1|11|90
+Anthony Ranaudo|R|Jason Kipnis|L|Flyout|B|Changeup|4|1|1|1|14|86
+Anthony Ranaudo|R|Jason Kipnis|L|Flyout|X|Four-Seam Fastball|5|2|1|1|6|90
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|C|Four-Seam Fastball|6|0|0|2|3|91
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|C|Four-Seam Fastball|7|0|1|2|2|92
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|B|Four-Seam Fastball|8|0|2|2|12|91
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|B|Curveball|9|1|2|2|11|81
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|X|Curveball|10|2|2|2|12|81
+Anthony Ranaudo|R|Mike Napoli|R|Flyout|B|Slider|11|0|0|0|12|83
+Anthony Ranaudo|R|Mike Napoli|R|Flyout|F|Four-Seam Fastball|12|1|0|0|2|90
+Anthony Ranaudo|R|Mike Napoli|R|Flyout|C|Four-Seam Fastball|13|1|1|0|3|91
+Anthony Ranaudo|R|Mike Napoli|R|Flyout|B|Four-Seam Fastball|14|1|2|0|12|92
+Anthony Ranaudo|R|Mike Napoli|R|Flyout|X|Curveball|15|2|2|0|2|80
+Anthony Ranaudo|R|Jose Ramirez|L|Double|B|Four-Seam Fastball|16|0|0|1|12|92
+Anthony Ranaudo|R|Jose Ramirez|L|Double|C|Curveball|17|1|0|1|11|79
+Anthony Ranaudo|R|Jose Ramirez|L|Double|F|Four-Seam Fastball|18|1|1|1|6|90
+Anthony Ranaudo|R|Jose Ramirez|L|Double|F|Four-Seam Fastball|19|1|2|1|11|92
+Anthony Ranaudo|R|Jose Ramirez|L|Double|D|Four-Seam Fastball|20|1|2|1|3|90
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Home Run|B|Curveball|21|0|0|1|12|81
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Home Run|F|Four-Seam Fastball|22|1|0|1|14|91
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Home Run|E|Four-Seam Fastball|23|1|1|1|14|91
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|C|Four-Seam Fastball|24|0|0|1|6|91
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|S|Slider|25|0|1|1|4|87
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|26|0|2|1|12|91
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|27|1|2|1|5|91
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|F|Curveball|28|1|2|1|6|81
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|29|1|2|1|3|91
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|B|Slider|30|1|2|1|11|84
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|B|Curveball|31|2|2|1|12|80
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|C|Curveball|32|3|2|1|3|79
+Anthony Ranaudo|R|Brandon Guyer|R|Single|B|Four-Seam Fastball|33|0|0|2|14|92
+Anthony Ranaudo|R|Brandon Guyer|R|Single|C|Curveball|34|1|0|2|3|79
+Anthony Ranaudo|R|Brandon Guyer|R|Single|D|Four-Seam Fastball|35|1|1|2|6|90
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|X|Four-Seam Fastball|36|0|0|2|5|90
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|B|Curveball|37|0|0|0|11|78
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|B|Curveball|38|1|0|0|14|78
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|F|Four-Seam Fastball|39|2|0|0|1|89
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|B|Curveball|40|2|1|0|14|80
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|F|Four-Seam Fastball|41|3|1|0|8|89
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|F|Four-Seam Fastball|42|3|2|0|9|89
+Anthony Ranaudo|R|Carlos Santana|L|Home Run|E|Four-Seam Fastball|43|3|2|0|12|90
+Anthony Ranaudo|R|Jason Kipnis|L|Groundout|C|Four-Seam Fastball|44|0|0|0|11|90
+Anthony Ranaudo|R|Jason Kipnis|L|Groundout|B|Curveball|45|0|1|0|11|80
+Anthony Ranaudo|R|Jason Kipnis|L|Groundout|X|Curveball|46|1|1|0|3|80
+Anthony Ranaudo|R|Francisco Lindor|L|Single|S|Four-Seam Fastball|47|0|0|1|1|90
+Anthony Ranaudo|R|Francisco Lindor|L|Single|F|Four-Seam Fastball|48|0|1|1|5|91
+Anthony Ranaudo|R|Francisco Lindor|L|Single|F|Four-Seam Fastball|49|0|2|1|11|91
+Anthony Ranaudo|R|Francisco Lindor|L|Single|D|Curveball|50|0|2|1|1|80
+Anthony Ranaudo|R|Mike Napoli|R|Walk|B|Curveball|51|0|0|1|12|79
+Anthony Ranaudo|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|52|1|0|1|6|90
+Anthony Ranaudo|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|53|1|1|1|14|91
+Anthony Ranaudo|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|54|2|1|1|14|90
+Anthony Ranaudo|R|Mike Napoli|R|Walk|B|Slider|55|3|1|1|12|83
+Anthony Ranaudo|R|Jose Ramirez|L|Flyout|B|Curveball|56|0|0|1|11|79
+Anthony Ranaudo|R|Jose Ramirez|L|Flyout|B|Four-Seam Fastball|57|1|0|1|13|89
+Anthony Ranaudo|R|Jose Ramirez|L|Flyout|C|Curveball|58|2|0|1|4|79
+Anthony Ranaudo|R|Jose Ramirez|L|Flyout|X|Four-Seam Fastball|59|2|1|1|6|90
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Single|F|Curveball|60|0|0|2|13|80
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Single|F|Curveball|61|0|1|2|8|81
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Single|B|Four-Seam Fastball|62|0|2|2|11|90
+Anthony Ranaudo|R|Lonnie Chisenhall|L|Single|E|Curveball|63|1|2|2|2|80
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|64|0|0|2|5|90
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|65|0|1|2|2|90
+Anthony Ranaudo|R|Tyler Naquin|L|Strikeout|T|Four-Seam Fastball|66|0|2|2|8|90
+Anthony Ranaudo|R|Brandon Guyer|R|Single|C|Four-Seam Fastball|67|0|0|0|6|89
+Anthony Ranaudo|R|Brandon Guyer|R|Single|C|Curveball|68|0|1|0|6|79
+Anthony Ranaudo|R|Brandon Guyer|R|Single|B|Four-Seam Fastball|69|0|2|0|12|90
+Anthony Ranaudo|R|Brandon Guyer|R|Single|D|Four-Seam Fastball|70|1|2|0|2|90
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|F|Four-Seam Fastball|71|0|0|0|12|90
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|C|Four-Seam Fastball|72|0|1|0|5|89
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|F|Four-Seam Fastball|73|0|2|0|2|90
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|B|Four-Seam Fastball|74|0|2|0|12|91
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|*B|Curveball|75|1|2|0|14|80
+Anthony Ranaudo|R|Roberto Perez|R|Groundout|X|Four-Seam Fastball|76|2|2|0|14|88
+Anthony Ranaudo|R|Carlos Santana|L|Single|C|Curveball|77|0|0|1|1|79
+Anthony Ranaudo|R|Carlos Santana|L|Single|C|Curveball|78|0|1|1|13|80
+Anthony Ranaudo|R|Carlos Santana|L|Single|D|Four-Seam Fastball|79|0|2|1|13|90
+Anthony Ranaudo|R|Jason Kipnis|L|Sac Fly|F|Four-Seam Fastball|80|0|0|1|3|90
+Anthony Ranaudo|R|Jason Kipnis|L|Sac Fly|F|Four-Seam Fastball|81|0|1|1|11|89
+Anthony Ranaudo|R|Jason Kipnis|L|Sac Fly|E|Curveball|82|0|2|1|4|80
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|C|Curveball|83|0|0|2|2|79
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|B|Four-Seam Fastball|84|0|1|2|12|89
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|F|Four-Seam Fastball|85|1|1|2|9|89
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|F|Four-Seam Fastball|86|1|2|2|6|90
+Anthony Ranaudo|R|Francisco Lindor|L|Groundout|X|Changeup|87|1|2|2|13|85
+Anthony Ranaudo|R|Norichika Aoki|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|90
+Anthony Ranaudo|R|Norichika Aoki|L|Walk|B|Four-Seam Fastball|1|1|0|0|14|91
+Anthony Ranaudo|R|Norichika Aoki|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|91
+Anthony Ranaudo|R|Norichika Aoki|L|Walk|C|Four-Seam Fastball|3|3|0|0|2|91
+Anthony Ranaudo|R|Norichika Aoki|L|Walk|B|Four-Seam Fastball|4|3|1|0|8|91
+Anthony Ranaudo|R|Seth Smith|L|Double|B|Four-Seam Fastball|5|0|0|0|11|92
+Anthony Ranaudo|R|Seth Smith|L|Double|B|Curveball|6|1|0|0|11|80
+Anthony Ranaudo|R|Seth Smith|L|Double|S|Four-Seam Fastball|7|2|0|0|4|91
+Anthony Ranaudo|R|Seth Smith|L|Double|S|Four-Seam Fastball|8|2|1|0|12|91
+Anthony Ranaudo|R|Seth Smith|L|Double|E|Curveball|9|2|2|0|4|82
+Anthony Ranaudo|R|Robinson Cano|L|Flyout|C|Four-Seam Fastball|10|0|0|0|4|91
+Anthony Ranaudo|R|Robinson Cano|L|Flyout|B|Slider|11|0|1|0|11|85
+Anthony Ranaudo|R|Robinson Cano|L|Flyout|B|Four-Seam Fastball|12|1|1|0|14|92
+Anthony Ranaudo|R|Robinson Cano|L|Flyout|F|Curveball|13|2|1|0|3|79
+Anthony Ranaudo|R|Robinson Cano|L|Flyout|X|Four-Seam Fastball|14|2|2|0|3|91
+Anthony Ranaudo|R|Nelson Cruz|R|Sac Fly|E|Slider|15|0|0|1|6|86
+Anthony Ranaudo|R|Adam Lind|L|Groundout|C|Four-Seam Fastball|16|0|0|2|7|92
+Anthony Ranaudo|R|Adam Lind|L|Groundout|B|Curveball|17|0|1|2|11|82
+Anthony Ranaudo|R|Adam Lind|L|Groundout|F|Curveball|18|1|1|2|8|80
+Anthony Ranaudo|R|Adam Lind|L|Groundout|B|Curveball|19|1|2|2|14|82
+Anthony Ranaudo|R|Adam Lind|L|Groundout|B|Four-Seam Fastball|20|2|2|2|13|91
+Anthony Ranaudo|R|Adam Lind|L|Groundout|X|Curveball|21|3|2|2|12|80
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|B|Curveball|22|0|0|0|11|80
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|C|Four-Seam Fastball|23|1|0|0|3|90
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|S|Changeup|24|1|1|0|11|84
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|25|1|2|0|14|91
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|26|2|2|0|12|90
+Anthony Ranaudo|R|Leonys Martin|L|Groundout|C|Four-Seam Fastball|27|0|0|1|2|92
+Anthony Ranaudo|R|Leonys Martin|L|Groundout|F|Four-Seam Fastball|28|0|1|1|8|92
+Anthony Ranaudo|R|Leonys Martin|L|Groundout|X|Four-Seam Fastball|29|0|2|1|11|92
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|C|Curveball|30|0|0|2|6|79
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|B|Curveball|31|0|1|2|14|82
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|F|Four-Seam Fastball|32|1|1|2|6|92
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|F|Four-Seam Fastball|33|1|2|2|5|92
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|B|Four-Seam Fastball|34|1|2|2|11|92
+Anthony Ranaudo|R|Shawn O'Malley|L|Strikeout|S|Four-Seam Fastball|35|2|2|2|3|91
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|C|Four-Seam Fastball|36|0|0|0|4|91
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|37|0|1|0|13|91
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|B|Curveball|38|1|1|0|11|78
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|F|Four-Seam Fastball|39|2|1|0|9|90
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|F|Slider|40|2|2|0|11|81
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|F|Four-Seam Fastball|41|2|2|0|11|90
+Anthony Ranaudo|R|Ketel Marte|L|Groundout|X|Curveball|42|2|2|0|2|77
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|B|Four-Seam Fastball|43|0|0|1|14|91
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|C|Curveball|44|1|0|1|2|78
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|C|Curveball|45|1|1|1|6|78
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|F|Four-Seam Fastball|46|1|2|1|1|91
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|B|Four-Seam Fastball|47|1|2|1|14|92
+Anthony Ranaudo|R|Norichika Aoki|L|Groundout|X|Curveball|48|2|2|1|2|79
+Anthony Ranaudo|R|Seth Smith|L|Groundout|B|Curveball|49|0|0|2|14|78
+Anthony Ranaudo|R|Seth Smith|L|Groundout|X|Curveball|50|1|0|2|7|78
+Anthony Ranaudo|R|Robinson Cano|L|Home Run|B|Four-Seam Fastball|51|0|0|0|11|90
+Anthony Ranaudo|R|Robinson Cano|L|Home Run|C|Four-Seam Fastball|52|1|0|0|9|90
+Anthony Ranaudo|R|Robinson Cano|L|Home Run|B|Four-Seam Fastball|53|1|1|0|13|89
+Anthony Ranaudo|R|Robinson Cano|L|Home Run|E|Changeup|54|2|1|0|1|83
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|55|0|0|0|14|91
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|56|0|1|0|6|92
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|57|0|2|0|3|92
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|58|0|2|0|12|92
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|F|Curveball|59|1|2|0|11|78
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|F|Curveball|60|1|2|0|9|80
+Anthony Ranaudo|R|Nelson Cruz|R|Strikeout|S|Curveball|61|1|2|0|7|79
+Anthony Ranaudo|R|Adam Lind|L|Flyout|B|Four-Seam Fastball|62|0|0|1|14|90
+Anthony Ranaudo|R|Adam Lind|L|Flyout|B|Four-Seam Fastball|63|1|0|1|14|89
+Anthony Ranaudo|R|Adam Lind|L|Flyout|X|Four-Seam Fastball|64|2|0|1|5|89
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|S|Curveball|65|0|0|2|14|81
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|C|Curveball|66|0|1|2|12|80
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|B|Curveball|67|0|2|2|14|79
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|F|Four-Seam Fastball|68|1|2|2|6|91
+Anthony Ranaudo|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|69|1|2|2|12|92
+Anthony Ranaudo|R|Leonys Martin|L|Pop Out|C|Curveball|70|0|0|0|1|78
+Anthony Ranaudo|R|Leonys Martin|L|Pop Out|X|Four-Seam Fastball|71|0|1|0|14|91
+Anthony Ranaudo|R|Shawn O'Malley|L|Pop Out|C|Four-Seam Fastball|72|0|0|1|9|90
+Anthony Ranaudo|R|Shawn O'Malley|L|Pop Out|X|Four-Seam Fastball|73|0|1|1|3|91
+Anthony Ranaudo|R|Ketel Marte|L|Single|C|Four-Seam Fastball|74|0|0|2|6|91
+Anthony Ranaudo|R|Ketel Marte|L|Single|B|Four-Seam Fastball|75|0|1|2|11|91
+Anthony Ranaudo|R|Ketel Marte|L|Single|D|Curveball|76|1|1|2|5|79
+Anthony Ranaudo|R|Norichika Aoki|L|Forceout|B|Four-Seam Fastball|77|0|0|2|11|91
+Anthony Ranaudo|R|Norichika Aoki|L|Forceout|X|Four-Seam Fastball|78|1|0|2|2|91
+Anthony Ranaudo|R|Seth Smith|L|Lineout|C|Curveball|79|0|0|0|2|78
+Anthony Ranaudo|R|Seth Smith|L|Lineout|B|Four-Seam Fastball|80|0|1|0|14|90
+Anthony Ranaudo|R|Seth Smith|L|Lineout|B|Four-Seam Fastball|81|1|1|0|12|90
+Anthony Ranaudo|R|Seth Smith|L|Lineout|X|Four-Seam Fastball|82|2|1|0|4|88
+Anthony Ranaudo|R|Robinson Cano|L|Single|D|Four-Seam Fastball|83|0|0|1|9|90
+Anthony Ranaudo|R|Nelson Cruz|R|Single|C|Four-Seam Fastball|84|0|0|1|9|91
+Anthony Ranaudo|R|Nelson Cruz|R|Single|B|Four-Seam Fastball|85|0|1|1|12|92
+Anthony Ranaudo|R|Nelson Cruz|R|Single|B|Four-Seam Fastball|86|1|1|1|12|91
+Anthony Ranaudo|R|Nelson Cruz|R|Single|F|Four-Seam Fastball|87|2|1|1|9|90
+Anthony Ranaudo|R|Nelson Cruz|R|Single|D|Four-Seam Fastball|88|2|2|1|14|91
+Anthony Ranaudo|R|Adam Lind|L|Single|E|Curveball|89|0|0|1|12|79
+Anthony Ranaudo|R|Mike Zunino|R|Walk|B|Four-Seam Fastball|90|0|0|1|14|90
+Anthony Ranaudo|R|Mike Zunino|R|Walk|B|Curveball|91|1|0|1|14|79
+Anthony Ranaudo|R|Mike Zunino|R|Walk|C|Four-Seam Fastball|92|2|0|1|14|91
+Anthony Ranaudo|R|Mike Zunino|R|Walk|F|Curveball|93|2|1|1|14|80
+Anthony Ranaudo|R|Mike Zunino|R|Walk|*B|Curveball|94|2|2|1|14|81
+Anthony Ranaudo|R|Mike Zunino|R|Walk|B|Four-Seam Fastball|95|3|2|1|14|90
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|90
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|F|Four-Seam Fastball|1|1|0|0|4|90
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|T|Slider|2|1|1|0|2|83
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|F|Curveball|3|1|2|0|11|79
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|B|Four-Seam Fastball|4|1|2|0|13|91
+Anthony Ranaudo|R|Ian Kinsler|R|Pop Out|X|Four-Seam Fastball|5|2|2|0|1|90
+Anthony Ranaudo|R|Tyler Collins|L|Groundout|B|Four-Seam Fastball|6|0|0|1|14|92
+Anthony Ranaudo|R|Tyler Collins|L|Groundout|X|Changeup|7|1|0|1|13|85
+Anthony Ranaudo|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|8|0|0|2|5|91
+Anthony Ranaudo|R|Miguel Cabrera|R|Groundout|X|Four-Seam Fastball|9|0|1|2|13|92
+Anthony Ranaudo|R|Victor Martinez|L|Flyout|B|Four-Seam Fastball|10|0|0|0|11|90
+Anthony Ranaudo|R|Victor Martinez|L|Flyout|C|Changeup|11|1|0|0|11|83
+Anthony Ranaudo|R|Victor Martinez|L|Flyout|C|Changeup|12|1|1|0|7|85
+Anthony Ranaudo|R|Victor Martinez|L|Flyout|X|Four-Seam Fastball|13|1|2|0|12|91
+Anthony Ranaudo|R|J.D. Martinez|R|Double|C|Curveball|14|0|0|1|5|79
+Anthony Ranaudo|R|J.D. Martinez|R|Double|D|Slider|15|0|1|1|6|86
+Anthony Ranaudo|R|Justin Upton|R|Groundout|B|Four-Seam Fastball|16|0|0|1|14|92
+Anthony Ranaudo|R|Justin Upton|R|Groundout|F|Four-Seam Fastball|17|1|0|1|6|91
+Anthony Ranaudo|R|Justin Upton|R|Groundout|C|Curveball|18|1|1|1|5|81
+Anthony Ranaudo|R|Justin Upton|R|Groundout|X|Curveball|19|1|2|1|14|80
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|20|0|0|2|14|92
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|S|Four-Seam Fastball|21|1|0|2|7|90
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|22|1|1|2|12|93
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|F|Four-Seam Fastball|23|2|1|2|14|91
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Changeup|24|2|2|2|13|85
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|F|Four-Seam Fastball|25|3|2|2|6|91
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Curveball|26|3|2|2|14|80
+Anthony Ranaudo|R|JaCoby Jones|R|Groundout|F|Four-Seam Fastball|27|0|0|2|4|91
+Anthony Ranaudo|R|JaCoby Jones|R|Groundout|X|Curveball|28|0|1|2|8|81
+Anthony Ranaudo|R|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|29|0|0|0|11|90
+Anthony Ranaudo|R|Jose Iglesias|R|Groundout|X|Four-Seam Fastball|30|1|0|0|1|90
+Anthony Ranaudo|R|Ian Kinsler|R|Flyout|C|Curveball|31|0|0|1|9|78
+Anthony Ranaudo|R|Ian Kinsler|R|Flyout|C|Curveball|32|0|1|1|3|79
+Anthony Ranaudo|R|Ian Kinsler|R|Flyout|B|Four-Seam Fastball|33|0|2|1|11|91
+Anthony Ranaudo|R|Ian Kinsler|R|Flyout|X|Curveball|34|1|2|1|8|79
+Anthony Ranaudo|R|Tyler Collins|L|Strikeout|B|Curveball|35|0|0|2|11|77
+Anthony Ranaudo|R|Tyler Collins|L|Strikeout|C|Four-Seam Fastball|36|1|0|2|9|91
+Anthony Ranaudo|R|Tyler Collins|L|Strikeout|B|Changeup|37|1|1|2|11|85
+Anthony Ranaudo|R|Tyler Collins|L|Strikeout|T|Four-Seam Fastball|38|2|1|2|1|89
+Anthony Ranaudo|R|Tyler Collins|L|Strikeout|C|Four-Seam Fastball|39|2|2|2|6|90
+Anthony Ranaudo|R|Miguel Cabrera|R|Groundout|C|Curveball|40|0|0|0|3|80
+Anthony Ranaudo|R|Miguel Cabrera|R|Groundout|B|Four-Seam Fastball|41|0|1|0|11|90
+Anthony Ranaudo|R|Miguel Cabrera|R|Groundout|X|Curveball|42|1|1|0|14|80
+Anthony Ranaudo|R|Victor Martinez|L|Strikeout|C|Changeup|43|0|0|1|1|84
+Anthony Ranaudo|R|Victor Martinez|L|Strikeout|B|Changeup|44|0|1|1|13|86
+Anthony Ranaudo|R|Victor Martinez|L|Strikeout|B|Changeup|45|1|1|1|11|84
+Anthony Ranaudo|R|Victor Martinez|L|Strikeout|C|Four-Seam Fastball|46|2|1|1|9|91
+Anthony Ranaudo|R|Victor Martinez|L|Strikeout|C|Changeup|47|2|2|1|7|85
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|F|Curveball|48|0|0|2|4|79
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|B|Four-Seam Fastball|49|0|1|2|11|91
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|C|Four-Seam Fastball|50|1|1|2|13|91
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|F|Curveball|51|1|2|2|8|81
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|F|Four-Seam Fastball|52|1|2|2|13|91
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|B|Four-Seam Fastball|53|1|2|2|13|91
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|B|Four-Seam Fastball|54|2|2|2|14|91
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|F|Four-Seam Fastball|55|3|2|2|14|90
+Anthony Ranaudo|R|J.D. Martinez|R|Walk|B|Curveball|56|3|2|2|14|79
+Anthony Ranaudo|R|Justin Upton|R|Flyout|B|Curveball|57|0|0|2|2|79
+Anthony Ranaudo|R|Justin Upton|R|Flyout|S|Slider|58|1|0|2|14|83
+Anthony Ranaudo|R|Justin Upton|R|Flyout|*B|Curveball|59|1|1|2|14|81
+Anthony Ranaudo|R|Justin Upton|R|Flyout|S|Four-Seam Fastball|60|2|1|2|2|91
+Anthony Ranaudo|R|Justin Upton|R|Flyout|F|Four-Seam Fastball|61|2|2|2|5|91
+Anthony Ranaudo|R|Justin Upton|R|Flyout|F|Slider|62|2|2|2|2|85
+Anthony Ranaudo|R|Justin Upton|R|Flyout|X|Four-Seam Fastball|63|2|2|2|2|91
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|C|Curveball|64|0|0|0|4|77
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|65|0|1|0|12|88
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|66|1|1|0|14|89
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|67|2|1|0|11|88
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|F|Four-Seam Fastball|68|3|1|0|2|88
+Anthony Ranaudo|R|Jarrod Saltalamacchia|L|Walk|B|Changeup|69|3|2|0|11|81
+Anthony Ranaudo|R|JaCoby Jones|R|Pop Out|C|Four-Seam Fastball|70|0|0|0|4|90
+Anthony Ranaudo|R|JaCoby Jones|R|Pop Out|B|Slider|71|0|1|0|14|84
+Anthony Ranaudo|R|JaCoby Jones|R|Pop Out|X|Slider|72|1|1|0|3|83
+Anthony Ranaudo|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|73|0|0|1|11|90
+Anthony Ranaudo|R|Jose Iglesias|R|Pop Out|F|Curveball|74|0|1|1|9|80
+Anthony Ranaudo|R|Jose Iglesias|R|Pop Out|*B|Curveball|75|0|2|1|14|81
+Anthony Ranaudo|R|Jose Iglesias|R|Pop Out|X|Curveball|76|1|2|1|14|81
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|C|Four-Seam Fastball|77|0|0|2|14|92
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|F|Changeup|78|0|1|2|2|85
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|B|Four-Seam Fastball|79|0|2|2|12|91
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|F|Four-Seam Fastball|80|1|2|2|11|91
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|F|Four-Seam Fastball|81|1|2|2|1|92
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|F|Curveball|82|1|2|2|14|81
+Anthony Ranaudo|R|Ian Kinsler|R|Home Run|E|Curveball|83|1|2|2|9|80
+Anthony Ranaudo|R|Tyler Collins|L|Single|F|Four-Seam Fastball|84|0|0|2|6|90
+Anthony Ranaudo|R|Tyler Collins|L|Single|F|Four-Seam Fastball|85|0|1|2|12|90
+Anthony Ranaudo|R|Tyler Collins|L|Single|D|Changeup|86|0|2|2|13|85
+Anthony Ranaudo|R|Miguel Cabrera|R|Single|D|Four-Seam Fastball|87|0|0|2|5|91
+Anthony Ranaudo|R|Victor Martinez|L|Pop Out|F|Changeup|88|0|0|2|11|83
+Anthony Ranaudo|R|Victor Martinez|L|Pop Out|B|Changeup|89|0|1|2|11|84
+Anthony Ranaudo|R|Victor Martinez|L|Pop Out|F|Four-Seam Fastball|90|1|1|2|12|90
+Anthony Ranaudo|R|Victor Martinez|L|Pop Out|X|Four-Seam Fastball|91|1|2|2|2|90
+Anthony Ranaudo|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|92|0|0|0|8|89
+Anthony Ranaudo|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|93|0|1|0|11|89
+Anthony Ranaudo|R|J.D. Martinez|R|Double|B|Slider|94|0|2|0|3|85
+Anthony Ranaudo|R|J.D. Martinez|R|Double|F|Slider|95|1|2|0|14|81
+Anthony Ranaudo|R|J.D. Martinez|R|Double|B|Four-Seam Fastball|96|1|2|0|13|90
+Anthony Ranaudo|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|97|2|2|0|5|89
+Anthony Ranaudo|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|98|2|2|0|1|89
+Anthony Ranaudo|R|J.D. Martinez|R|Double|D|Four-Seam Fastball|99|2|2|0|13|89
+Anthony Ranaudo|R|Brian Dozier|R|Groundout|F|Four-Seam Fastball|0|0|0|0|11|90
+Anthony Ranaudo|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|1|0|1|0|11|90
+Anthony Ranaudo|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|2|1|1|0|2|90
+Anthony Ranaudo|R|Brian Dozier|R|Groundout|X|Slider|3|1|2|0|6|82
+Anthony Ranaudo|R|Jorge Polanco|L|Flyout|C|Four-Seam Fastball|4|0|0|1|1|91
+Anthony Ranaudo|R|Jorge Polanco|L|Flyout|X|Slider|5|0|1|1|12|83
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|C|Four-Seam Fastball|6|0|0|2|5|89
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|B|Curveball|7|0|1|2|13|79
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|F|Slider|8|1|1|2|1|81
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|B|Curveball|9|1|2|2|13|79
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|B|Four-Seam Fastball|10|2|2|2|14|89
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|F|Four-Seam Fastball|11|3|2|2|4|89
+Anthony Ranaudo|R|Joe Mauer|L|Groundout|X|Four-Seam Fastball|12|3|2|2|11|89
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|C|Four-Seam Fastball|13|0|0|0|1|88
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|B|Slider|14|0|1|0|12|81
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|B|Slider|15|1|1|0|12|81
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|F|Four-Seam Fastball|16|2|1|0|1|88
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|B|Four-Seam Fastball|17|2|2|0|7|90
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|F|Four-Seam Fastball|18|3|2|0|13|88
+Anthony Ranaudo|R|Trevor Plouffe|R|Walk|B|Four-Seam Fastball|19|3|2|0|11|89
+Anthony Ranaudo|R|Max Kepler|L|Single|B|Four-Seam Fastball|20|0|0|0|12|91
+Anthony Ranaudo|R|Max Kepler|L|Single|F|Four-Seam Fastball|21|1|0|0|4|89
+Anthony Ranaudo|R|Max Kepler|L|Single|D|Changeup|22|1|1|0|7|83
+Anthony Ranaudo|R|Miguel Sano|R|Single|C|Slider|23|0|0|0|14|83
+Anthony Ranaudo|R|Miguel Sano|R|Single|D|Four-Seam Fastball|24|0|1|0|5|91
+Anthony Ranaudo|R|Eddie Rosario|L|Strikeout|C|Curveball|25|0|0|0|2|79
+Anthony Ranaudo|R|Eddie Rosario|L|Strikeout|S|Slider|26|0|1|0|3|83
+Anthony Ranaudo|R|Eddie Rosario|L|Strikeout|F|Slider|27|0|2|0|6|82
+Anthony Ranaudo|R|Eddie Rosario|L|Strikeout|S|Four-Seam Fastball|28|0|2|0|11|91
+Anthony Ranaudo|R|John Ryan Murphy|R|Flyout|F|Four-Seam Fastball|29|0|0|1|2|92
+Anthony Ranaudo|R|John Ryan Murphy|R|Flyout|*B|Four-Seam Fastball|30|0|1|1|13|91
+Anthony Ranaudo|R|John Ryan Murphy|R|Flyout|X|Four-Seam Fastball|31|1|1|1|5|89
+Anthony Ranaudo|R|Byron Buxton|R|Home Run|S|Slider|32|0|0|2|14|83
+Anthony Ranaudo|R|Byron Buxton|R|Home Run|B|Curveball|33|0|1|2|14|80
+Anthony Ranaudo|R|Byron Buxton|R|Home Run|B|Slider|34|1|1|2|14|83
+Anthony Ranaudo|R|Byron Buxton|R|Home Run|E|Four-Seam Fastball|35|2|1|2|2|90
+Anthony Ranaudo|R|Brian Dozier|R|Single|S|Four-Seam Fastball|36|0|0|2|8|91
+Anthony Ranaudo|R|Brian Dozier|R|Single|D|Slider|37|0|1|2|3|85
+Anthony Ranaudo|R|Jorge Polanco|L|Flyout|X|Four-Seam Fastball|38|0|0|2|9|90
+Anthony Ranaudo|R|Joe Mauer|L|Double|B|Four-Seam Fastball|39|0|0|0|13|88
+Anthony Ranaudo|R|Joe Mauer|L|Double|D|Slider|40|1|0|0|14|83
+Anthony Ranaudo|R|Trevor Plouffe|R|Lineout|C|Four-Seam Fastball|41|0|0|0|14|89
+Anthony Ranaudo|R|Trevor Plouffe|R|Lineout|X|Slider|42|0|1|0|5|83
+Anthony Ranaudo|R|Max Kepler|L|Strikeout|C|Curveball|43|0|0|1|11|79
+Anthony Ranaudo|R|Max Kepler|L|Strikeout|B|Four-Seam Fastball|44|0|1|1|14|90
+Anthony Ranaudo|R|Max Kepler|L|Strikeout|F|Slider|45|1|1|1|3|81
+Anthony Ranaudo|R|Max Kepler|L|Strikeout|B|Four-Seam Fastball|46|1|2|1|12|90
+Anthony Ranaudo|R|Max Kepler|L|Strikeout|S|Curveball|47|2|2|1|14|80
+Anthony Ranaudo|R|Miguel Sano|R|Single|B|Curveball|48|0|0|1|14|80
+Anthony Ranaudo|R|Miguel Sano|R|Single|E|Slider|49|1|0|1|5|81
+Anthony Ranaudo|R|Eddie Rosario|L|Pop Out|B|Slider|50|0|0|1|14|83
+Anthony Ranaudo|R|Eddie Rosario|L|Pop Out|C|Curveball|51|1|0|1|11|79
+Anthony Ranaudo|R|Eddie Rosario|L|Pop Out|X|Curveball|52|1|1|1|9|78
+Anthony Ranaudo|R|John Ryan Murphy|R|Single|B|Four-Seam Fastball|53|0|0|2|13|89
+Anthony Ranaudo|R|John Ryan Murphy|R|Single|E|Slider|54|1|0|2|5|80
+Anthony Ranaudo|R|Byron Buxton|R|Pop Out|B|Curveball|55|0|0|2|9|78
+Anthony Ranaudo|R|Byron Buxton|R|Pop Out|X|Slider|56|1|0|2|6|82
+Anthony Ranaudo|R|Brian Dozier|R|Home Run|B|Curveball|57|0|0|0|11|75
+Anthony Ranaudo|R|Brian Dozier|R|Home Run|C|Four-Seam Fastball|58|1|0|0|9|89
+Anthony Ranaudo|R|Brian Dozier|R|Home Run|E|Slider|59|1|1|0|2|81
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|F|Four-Seam Fastball|60|0|0|0|4|91
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|F|Slider|61|0|1|0|14|85
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|B|Curveball|62|0|2|0|14|80
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|F|Slider|63|1|2|0|2|83
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|B|Curveball|64|1|2|0|14|80
+Anthony Ranaudo|R|Jorge Polanco|L|Lineout|X|Curveball|65|2|2|0|13|78
+Anthony Ranaudo|R|Joe Mauer|L|Double|C|Four-Seam Fastball|66|0|0|1|7|90
+Anthony Ranaudo|R|Joe Mauer|L|Double|B|Four-Seam Fastball|67|0|1|1|13|90
+Anthony Ranaudo|R|Joe Mauer|L|Double|F|Changeup|68|1|1|1|4|84
+Anthony Ranaudo|R|Joe Mauer|L|Double|D|Slider|69|1|2|1|12|84
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|B|Curveball|70|0|0|1|9|79
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|C|Four-Seam Fastball|71|1|0|1|3|89
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|F|Curveball|72|1|1|1|8|78
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|B|Four-Seam Fastball|73|1|2|1|11|90
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|F|Four-Seam Fastball|74|2|2|1|3|89
+Anthony Ranaudo|R|Trevor Plouffe|R|Flyout|X|Curveball|75|2|2|1|2|81
+Anthony Ranaudo|R|Max Kepler|L|Flyout|C|Curveball|76|0|0|2|6|79
+Anthony Ranaudo|R|Max Kepler|L|Flyout|B|Four-Seam Fastball|77|0|1|2|12|90
+Anthony Ranaudo|R|Max Kepler|L|Flyout|F|Four-Seam Fastball|78|1|1|2|13|90
+Anthony Ranaudo|R|Max Kepler|L|Flyout|*B|Curveball|79|1|2|2|14|80
+Anthony Ranaudo|R|Max Kepler|L|Flyout|*B|Four-Seam Fastball|80|2|2|2|13|90
+Anthony Ranaudo|R|Max Kepler|L|Flyout|X|Four-Seam Fastball|81|3|2|2|4|89
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|B|Curveball|82|0|0|0|14|76
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|C|Slider|83|1|0|0|6|79
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|84|1|1|0|13|89
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|B|Curveball|85|1|2|0|14|78
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|B|Changeup|86|2|2|0|11|82
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|87|3|2|0|5|89
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|88|3|2|0|11|88
+Anthony Ranaudo|R|Miguel Sano|R|Strikeout|S|Curveball|89|3|2|0|11|79
+Anthony Ranaudo|R|Eddie Rosario|L|Groundout|F|Slider|90|0|0|1|9|83
+Anthony Ranaudo|R|Eddie Rosario|L|Groundout|X|Curveball|91|0|1|1|14|81
+Anthony Ranaudo|R|John Ryan Murphy|R|Home Run|B|Four-Seam Fastball|92|0|0|2|14|90
+Anthony Ranaudo|R|John Ryan Murphy|R|Home Run|F|Four-Seam Fastball|93|1|0|2|4|89
+Anthony Ranaudo|R|John Ryan Murphy|R|Home Run|B|Curveball|94|1|1|2|14|80
+Anthony Ranaudo|R|John Ryan Murphy|R|Home Run|E|Four-Seam Fastball|95|2|1|2|13|89
+Anthony Ranaudo|R|Byron Buxton|R|Double|D|Slider|96|0|0|2|2|84
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|11|92
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|F|Curveball|1|0|1|0|14|83
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|F|Four-Seam Fastball|2|0|2|0|8|93
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|F|Curveball|3|0|2|0|14|84
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|B|Four-Seam Fastball|4|0|2|0|13|88
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|B|Curveball|5|1|2|0|14|83
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|B|Slider|6|2|2|0|14|85
+Anthony Ranaudo|R|Andres Blanco|L|Pop Out|X|Four-Seam Fastball|7|3|2|0|5|92
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|F|Four-Seam Fastball|8|0|0|1|6|93
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|B|Four-Seam Fastball|9|0|1|1|14|93
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|B|Four-Seam Fastball|10|1|1|1|13|87
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|B|Four-Seam Fastball|11|2|1|1|11|92
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|F|Four-Seam Fastball|12|3|1|1|4|92
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|F|Four-Seam Fastball|13|3|2|1|7|92
+Anthony Ranaudo|R|Cesar Hernandez|L|Pop Out|X|Four-Seam Fastball|14|3|2|1|6|92
+Anthony Ranaudo|R|Roman Quinn|L|Walk|B|Four-Seam Fastball|15|0|0|2|14|94
+Anthony Ranaudo|R|Roman Quinn|L|Walk|B|Four-Seam Fastball|16|1|0|2|14|92
+Anthony Ranaudo|R|Roman Quinn|L|Walk|B|Four-Seam Fastball|17|2|0|2|14|93
+Anthony Ranaudo|R|Roman Quinn|L|Walk|B|Four-Seam Fastball|18|3|0|2|14|92
+Anthony Ranaudo|R|Maikel Franco|R|Single|B|Four-Seam Fastball|19|0|0|2|14|93
+Anthony Ranaudo|R|Maikel Franco|R|Single|F|Four-Seam Fastball|20|1|0|2|1|92
+Anthony Ranaudo|R|Maikel Franco|R|Single|D|Four-Seam Fastball|21|1|1|2|5|93
+Anthony Ranaudo|R|Tommy Joseph|R|Lineout|B|Four-Seam Fastball|22|0|0|2|14|92
+Anthony Ranaudo|R|Tommy Joseph|R|Lineout|X|Four-Seam Fastball|23|1|0|2|9|91

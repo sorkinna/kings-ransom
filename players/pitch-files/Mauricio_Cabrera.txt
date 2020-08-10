@@ -1,0 +1,644 @@
+Mauricio Cabrera|R|Addison Russell|R|Grounded Into DP|B|Four-Seam Fastball|0|0|0|0|11|98
+Mauricio Cabrera|R|Addison Russell|R|Grounded Into DP|S|Four-Seam Fastball|1|1|0|0|13|101
+Mauricio Cabrera|R|Addison Russell|R|Grounded Into DP|X|Four-Seam Fastball|2|1|1|0|9|99
+Mauricio Cabrera|R|Jeimer Candelario|L|Flyout|B|Slider|3|0|0|2|9|85
+Mauricio Cabrera|R|Jeimer Candelario|L|Flyout|F|Four-Seam Fastball|4|1|0|2|13|101
+Mauricio Cabrera|R|Jeimer Candelario|L|Flyout|B|Four-Seam Fastball|5|1|1|2|11|100
+Mauricio Cabrera|R|Jeimer Candelario|L|Flyout|X|Changeup|6|2|1|2|7|91
+Mauricio Cabrera|R|Carlos Santana|L|Single|B|Four-Seam Fastball|0|0|0|1|1|100
+Mauricio Cabrera|R|Carlos Santana|L|Single|E|Four-Seam Fastball|1|1|0|1|6|101
+Mauricio Cabrera|R|Rajai Davis|R|Sac Bunt|L|Four-Seam Fastball|2|0|0|1|12|100
+Mauricio Cabrera|R|Rajai Davis|R|Sac Bunt|D|Four-Seam Fastball|3|0|1|1|5|99
+Mauricio Cabrera|R|Jason Kipnis|L|Lineout|X|Four-Seam Fastball|4|0|0|1|6|101
+Mauricio Cabrera|R|Francisco Lindor|L|Grounded Into DP|B|Slider|5|0|0|2|13|83
+Mauricio Cabrera|R|Francisco Lindor|L|Grounded Into DP|X|Four-Seam Fastball|6|1|0|2|12|101
+Mauricio Cabrera|R|Mike Napoli|R|Flyout|B|Four-Seam Fastball|0|0|0|1|11|100
+Mauricio Cabrera|R|Mike Napoli|R|Flyout|F|Four-Seam Fastball|1|1|0|1|1|100
+Mauricio Cabrera|R|Mike Napoli|R|Flyout|B|Four-Seam Fastball|2|1|1|1|14|101
+Mauricio Cabrera|R|Mike Napoli|R|Flyout|X|Slider|3|2|1|1|6|82
+Mauricio Cabrera|R|Jose Ramirez|L|Flyout|S|Four-Seam Fastball|4|0|0|2|14|103
+Mauricio Cabrera|R|Jose Ramirez|L|Flyout|F|Four-Seam Fastball|5|0|1|2|14|102
+Mauricio Cabrera|R|Jose Ramirez|L|Flyout|F|Four-Seam Fastball|6|0|2|2|2|102
+Mauricio Cabrera|R|Jose Ramirez|L|Flyout|X|Slider|7|0|2|2|14|86
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|B|Four-Seam Fastball|0|0|0|2|11|100
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|C|Four-Seam Fastball|1|1|0|2|2|101
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|F|Four-Seam Fastball|2|1|1|2|1|101
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|B|Four-Seam Fastball|3|1|2|2|12|102
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|B|Slider|4|2|2|2|12|85
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|X|Four-Seam Fastball|5|3|2|2|11|100
+Mauricio Cabrera|R|Chris Johnson|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|99
+Mauricio Cabrera|R|Chris Johnson|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|99
+Mauricio Cabrera|R|Chris Johnson|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|100
+Mauricio Cabrera|R|Chris Johnson|R|Walk|*B|Four-Seam Fastball|3|3|0|0|13|98
+Mauricio Cabrera|R|J.T. Realmuto|R|Single|B|Four-Seam Fastball|4|0|0|0|12|99
+Mauricio Cabrera|R|J.T. Realmuto|R|Single|C|Slider|5|1|0|0|6|81
+Mauricio Cabrera|R|J.T. Realmuto|R|Single|B|Four-Seam Fastball|6|1|1|0|11|99
+Mauricio Cabrera|R|J.T. Realmuto|R|Single|B|Slider|7|2|1|0|14|84
+Mauricio Cabrera|R|J.T. Realmuto|R|Single|D|Four-Seam Fastball|8|3|1|0|8|100
+Mauricio Cabrera|R|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|9|0|0|0|11|98
+Mauricio Cabrera|R|Derek Dietrich|L|Strikeout|S|Four-Seam Fastball|10|0|1|0|11|99
+Mauricio Cabrera|R|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|11|0|2|0|11|99
+Mauricio Cabrera|R|Derek Dietrich|L|Strikeout|F|Changeup|12|1|2|0|13|89
+Mauricio Cabrera|R|Derek Dietrich|L|Strikeout|S|Changeup|13|1|2|0|8|90
+Mauricio Cabrera|R|Miguel Rojas|R|Groundout|C|Four-Seam Fastball|14|0|0|1|3|100
+Mauricio Cabrera|R|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|15|0|1|1|13|100
+Mauricio Cabrera|R|Miguel Rojas|R|Groundout|X|Slider|16|1|1|1|8|83
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|B|Four-Seam Fastball|17|0|0|2|14|100
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|*B|Slider|18|1|0|2|14|82
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|F|Four-Seam Fastball|19|2|0|2|6|100
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|C|Four-Seam Fastball|20|2|1|2|4|99
+Mauricio Cabrera|R|Cole Gillespie|R|Lineout|X|Slider|21|2|2|2|14|83
+Mauricio Cabrera|R|Peter Bourjos|R|Single|B|Four-Seam Fastball|0|0|0|0|11|99
+Mauricio Cabrera|R|Peter Bourjos|R|Single|F|Four-Seam Fastball|1|1|0|0|4|100
+Mauricio Cabrera|R|Peter Bourjos|R|Single|B|Slider|2|1|1|0|2|83
+Mauricio Cabrera|R|Peter Bourjos|R|Single|B|Four-Seam Fastball|3|2|1|0|12|100
+Mauricio Cabrera|R|Peter Bourjos|R|Single|D|Four-Seam Fastball|4|3|1|0|8|100
+Mauricio Cabrera|R|Cody Asche|L|Pop Out|B|Four-Seam Fastball|5|0|0|0|11|100
+Mauricio Cabrera|R|Cody Asche|L|Pop Out|X|Changeup|6|1|0|0|4|88
+Mauricio Cabrera|R|Maikel Franco|R|Pop Out|C|Slider|7|0|0|1|3|85
+Mauricio Cabrera|R|Maikel Franco|R|Pop Out|B|Four-Seam Fastball|8|0|1|1|11|100
+Mauricio Cabrera|R|Maikel Franco|R|Pop Out|X|Slider|9|1|1|1|14|82
+Mauricio Cabrera|R|Cameron Rupp|R|Walk|B|Slider|10|0|0|2|11|83
+Mauricio Cabrera|R|Cameron Rupp|R|Walk|B|Slider|11|1|0|2|14|84
+Mauricio Cabrera|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|12|2|0|2|12|99
+Mauricio Cabrera|R|Cameron Rupp|R|Walk|C|Four-Seam Fastball|13|3|0|2|11|99
+Mauricio Cabrera|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|14|3|1|2|14|100
+Mauricio Cabrera|R|Tommy Joseph|R|Single|C|Four-Seam Fastball|15|0|0|2|5|99
+Mauricio Cabrera|R|Tommy Joseph|R|Single|C|Four-Seam Fastball|16|0|1|2|9|99
+Mauricio Cabrera|R|Tommy Joseph|R|Single|B|Slider|17|0|2|2|14|82
+Mauricio Cabrera|R|Tommy Joseph|R|Single|B|Slider|18|1|2|2|14|84
+Mauricio Cabrera|R|Tommy Joseph|R|Single|*B|Slider|19|2|2|2|14|84
+Mauricio Cabrera|R|Tommy Joseph|R|Single|E|Four-Seam Fastball|20|3|2|2|1|100
+Mauricio Cabrera|R|Freddy Galvis|L|Groundout|X|Changeup|21|0|0|2|13|90
+Mauricio Cabrera|R|Jose Abreu|R|Single|B|Four-Seam Fastball|0|0|0|1|11|100
+Mauricio Cabrera|R|Jose Abreu|R|Single|B|Four-Seam Fastball|1|1|0|1|11|99
+Mauricio Cabrera|R|Jose Abreu|R|Single|B|Four-Seam Fastball|2|2|0|1|14|98
+Mauricio Cabrera|R|Jose Abreu|R|Single|S|Four-Seam Fastball|3|3|0|1|2|99
+Mauricio Cabrera|R|Jose Abreu|R|Single|F|Four-Seam Fastball|4|3|1|1|5|100
+Mauricio Cabrera|R|Jose Abreu|R|Single|F|Four-Seam Fastball|5|3|2|1|1|101
+Mauricio Cabrera|R|Jose Abreu|R|Single|D|Four-Seam Fastball|6|3|2|1|9|101
+Mauricio Cabrera|R|Melky Cabrera|L|Single|D|Four-Seam Fastball|7|0|0|1|9|101
+Mauricio Cabrera|R|Todd Frazier|R|Grounded Into DP|*B|Slider|8|0|0|1|14|84
+Mauricio Cabrera|R|Todd Frazier|R|Grounded Into DP|F|Four-Seam Fastball|9|1|0|1|5|100
+Mauricio Cabrera|R|Todd Frazier|R|Grounded Into DP|*B|Slider|10|1|1|1|14|83
+Mauricio Cabrera|R|Todd Frazier|R|Grounded Into DP|E|Four-Seam Fastball|11|2|1|1|9|101
+Mauricio Cabrera|R|Brett Lawrie|R|Single|C|Slider|12|0|0|0|9|84
+Mauricio Cabrera|R|Brett Lawrie|R|Single|C|Slider|13|0|1|0|2|83
+Mauricio Cabrera|R|Brett Lawrie|R|Single|D|Four-Seam Fastball|14|0|2|0|6|100
+Mauricio Cabrera|R|Dioner Navarro|L|Flyout|*B|Changeup|15|0|0|0|14|92
+Mauricio Cabrera|R|Dioner Navarro|L|Flyout|C|Four-Seam Fastball|16|1|0|0|3|100
+Mauricio Cabrera|R|Dioner Navarro|L|Flyout|X|Slider|17|1|1|0|2|85
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|B|Four-Seam Fastball|0|0|0|2|11|99
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|B|Four-Seam Fastball|1|1|0|2|12|101
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|C|Slider|2|2|0|2|2|83
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|F|Slider|3|2|1|2|9|84
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|F|Four-Seam Fastball|4|2|2|2|5|101
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|F|Slider|5|2|2|2|14|86
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|F|Four-Seam Fastball|6|2|2|2|5|100
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|B|Four-Seam Fastball|7|2|2|2|14|102
+Mauricio Cabrera|R|Mark Reynolds|R|Flyout|X|Slider|8|3|2|2|2|83
+Mauricio Cabrera|R|Nick Hundley|R|Strikeout|F|Slider|9|0|0|0|1|81
+Mauricio Cabrera|R|Nick Hundley|R|Strikeout|B|Four-Seam Fastball|10|0|1|0|14|99
+Mauricio Cabrera|R|Nick Hundley|R|Strikeout|C|Slider|11|1|1|0|2|83
+Mauricio Cabrera|R|Nick Hundley|R|Strikeout|S|Slider|12|1|2|0|8|85
+Mauricio Cabrera|R|Brandon Barnes|R|Pop Out|B|Four-Seam Fastball|13|0|0|1|14|101
+Mauricio Cabrera|R|Brandon Barnes|R|Pop Out|B|Slider|14|1|0|1|11|81
+Mauricio Cabrera|R|Brandon Barnes|R|Pop Out|C|Four-Seam Fastball|15|2|0|1|14|99
+Mauricio Cabrera|R|Brandon Barnes|R|Pop Out|C|Slider|16|2|1|1|6|83
+Mauricio Cabrera|R|Brandon Barnes|R|Pop Out|X|Slider|17|2|2|1|2|86
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|18|0|0|2|6|99
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|B|Changeup|19|0|1|2|14|92
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|B|Changeup|20|1|1|2|14|91
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|S|Four-Seam Fastball|21|2|1|2|12|99
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|22|2|2|2|7|100
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|B|Changeup|23|2|2|2|14|91
+Mauricio Cabrera|R|Charlie Blackmon|L|Strikeout|T|Four-Seam Fastball|24|3|2|2|13|99
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|B|Four-Seam Fastball|0|0|0|0|12|101
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|S|Four-Seam Fastball|1|1|0|0|14|100
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|F|Four-Seam Fastball|2|1|1|0|4|101
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|X|Slider|3|1|2|0|2|86
+Mauricio Cabrera|R|Tyler Holt|R|Walk|B|Four-Seam Fastball|4|0|0|1|12|101
+Mauricio Cabrera|R|Tyler Holt|R|Walk|B|Slider|5|1|0|1|14|85
+Mauricio Cabrera|R|Tyler Holt|R|Walk|C|Slider|6|2|0|1|9|85
+Mauricio Cabrera|R|Tyler Holt|R|Walk|F|Four-Seam Fastball|7|2|1|1|1|101
+Mauricio Cabrera|R|Tyler Holt|R|Walk|B|Four-Seam Fastball|8|2|2|1|14|103
+Mauricio Cabrera|R|Tyler Holt|R|Walk|B|Slider|9|3|2|1|12|85
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|B|Four-Seam Fastball|10|0|0|1|1|100
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|F|Four-Seam Fastball|11|1|0|1|7|99
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|S|Slider|12|1|1|1|14|85
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|S|Slider|13|1|2|1|14|85
+Mauricio Cabrera|R|Billy Hamilton|L|Groundout|F|Four-Seam Fastball|14|0|0|2|8|101
+Mauricio Cabrera|R|Billy Hamilton|L|Groundout|B|Four-Seam Fastball|15|0|1|2|14|101
+Mauricio Cabrera|R|Billy Hamilton|L|Groundout|C|Four-Seam Fastball|16|1|1|2|3|100
+Mauricio Cabrera|R|Billy Hamilton|L|Groundout|F|Slider|17|1|2|2|4|85
+Mauricio Cabrera|R|Billy Hamilton|L|Groundout|X|Four-Seam Fastball|18|1|2|2|5|101
+Mauricio Cabrera|R|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|101
+Mauricio Cabrera|R|Adam Duvall|R|Strikeout|W|Slider|1|1|0|0|13|82
+Mauricio Cabrera|R|Adam Duvall|R|Strikeout|W|Slider|2|1|1|0|14|84
+Mauricio Cabrera|R|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|102
+Mauricio Cabrera|R|Adam Duvall|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|8|100
+Mauricio Cabrera|R|Brandon Phillips|R|Groundout|X|Four-Seam Fastball|5|0|0|1|9|101
+Mauricio Cabrera|R|Eugenio Suarez|R|Flyout|B|Four-Seam Fastball|6|0|0|2|11|100
+Mauricio Cabrera|R|Eugenio Suarez|R|Flyout|F|Four-Seam Fastball|7|1|0|2|5|99
+Mauricio Cabrera|R|Eugenio Suarez|R|Flyout|S|Four-Seam Fastball|8|1|1|2|7|99
+Mauricio Cabrera|R|Eugenio Suarez|R|Flyout|B|Four-Seam Fastball|9|1|2|2|12|101
+Mauricio Cabrera|R|Eugenio Suarez|R|Flyout|X|Slider|10|2|2|2|6|83
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|B|Four-Seam Fastball|11|0|0|0|11|98
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|C|Slider|12|1|0|0|8|82
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|S|Four-Seam Fastball|13|1|1|0|13|98
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|B|Four-Seam Fastball|14|1|2|0|12|100
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|B|Slider|15|2|2|0|12|84
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|F|Four-Seam Fastball|16|3|2|0|14|100
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|F|Four-Seam Fastball|17|3|2|0|13|100
+Mauricio Cabrera|R|Ivan De Jesus Jr.|R|Single|D|Four-Seam Fastball|18|3|2|0|5|100
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|F|Four-Seam Fastball|19|0|0|0|1|100
+Mauricio Cabrera|R|Tucker Barnhart|L|Lineout|X|Four-Seam Fastball|20|0|1|0|2|98
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|B|Slider|21|0|0|1|11|81
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|C|Four-Seam Fastball|22|1|0|1|9|99
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|F|Four-Seam Fastball|23|1|1|1|14|100
+Mauricio Cabrera|R|Zack Cozart|R|Strikeout|S|Four-Seam Fastball|24|1|2|1|14|101
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|C|Four-Seam Fastball|0|0|0|0|1|99
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|B|Slider|1|0|1|0|12|84
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|B|Four-Seam Fastball|2|1|1|0|14|99
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|F|Four-Seam Fastball|3|2|1|0|3|99
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|B|Four-Seam Fastball|4|2|2|0|11|100
+Mauricio Cabrera|R|Trevor Story|R|Hit By Pitch|H|Four-Seam Fastball|5|3|2|0|11|98
+Mauricio Cabrera|R|Daniel Descalso|L|Walk|B|Four-Seam Fastball|6|0|0|0|11|98
+Mauricio Cabrera|R|Daniel Descalso|L|Walk|F|Four-Seam Fastball|7|1|0|0|2|98
+Mauricio Cabrera|R|Daniel Descalso|L|Walk|B|Four-Seam Fastball|8|1|1|0|14|98
+Mauricio Cabrera|R|Daniel Descalso|L|Walk|*B|Changeup|9|2|1|0|14|89
+Mauricio Cabrera|R|Daniel Descalso|L|Walk|B|Four-Seam Fastball|10|3|1|0|13|100
+Mauricio Cabrera|R|Brandon Barnes|R|Sac Bunt|C|Four-Seam Fastball|11|0|0|0|3|98
+Mauricio Cabrera|R|Brandon Barnes|R|Sac Bunt|X|Four-Seam Fastball|12|0|1|0|4|98
+Mauricio Cabrera|R|Nick Hundley|R|Single|W|Slider|13|0|0|1|13|84
+Mauricio Cabrera|R|Nick Hundley|R|Single|B|Four-Seam Fastball|14|0|1|1|11|99
+Mauricio Cabrera|R|Nick Hundley|R|Single|E|Slider|15|1|1|1|9|83
+Mauricio Cabrera|R|Cristhian Adames|L|Groundout|X|Four-Seam Fastball|16|0|0|1|7|99
+Mauricio Cabrera|R|Tony Wolters|L|Double|E|Four-Seam Fastball|17|0|0|2|4|100
+Mauricio Cabrera|R|Brandon Barnes|R|Strikeout|S|Four-Seam Fastball|0|0|0|1|13|99
+Mauricio Cabrera|R|Brandon Barnes|R|Strikeout|L|Slider|1|0|1|1|2|84
+Mauricio Cabrera|R|Brandon Barnes|R|Strikeout|S|Four-Seam Fastball|2|0|2|1|2|100
+Mauricio Cabrera|R|Charlie Blackmon|L|Groundout|S|Changeup|3|0|0|2|14|90
+Mauricio Cabrera|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|4|0|1|2|11|100
+Mauricio Cabrera|R|Charlie Blackmon|L|Groundout|F|Changeup|5|1|1|2|8|90
+Mauricio Cabrera|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|6|1|2|2|13|101
+Mauricio Cabrera|R|Charlie Blackmon|L|Groundout|X|Four-Seam Fastball|7|2|2|2|13|101
+Mauricio Cabrera|R|DJ LeMahieu|R|Groundout|B|Slider|8|0|0|0|11|82
+Mauricio Cabrera|R|DJ LeMahieu|R|Groundout|C|Four-Seam Fastball|9|1|0|0|4|98
+Mauricio Cabrera|R|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|10|1|1|0|7|98
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|C|Four-Seam Fastball|11|0|0|1|5|100
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|B|Slider|12|0|1|1|14|87
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|S|Four-Seam Fastball|13|1|1|1|13|100
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|B|Changeup|14|1|2|1|14|91
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|F|Slider|15|2|2|1|12|85
+Mauricio Cabrera|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|16|2|2|1|6|100
+Mauricio Cabrera|R|Carlos Gonzalez|L|Groundout|C|Four-Seam Fastball|17|0|0|2|7|100
+Mauricio Cabrera|R|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|18|0|1|2|11|100
+Mauricio Cabrera|R|Carlos Gonzalez|L|Groundout|X|Changeup|19|1|1|2|9|91
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|11|100
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|B|Four-Seam Fastball|1|0|1|2|11|99
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|F|Changeup|2|1|1|2|12|91
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|B|Four-Seam Fastball|3|1|2|2|11|100
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|F|Changeup|4|2|2|2|8|91
+Mauricio Cabrera|R|Eddie Rosario|L|Strikeout|S|Changeup|5|2|2|2|8|92
+Mauricio Cabrera|R|Kurt Suzuki|R|Double|F|Four-Seam Fastball|6|0|0|0|4|100
+Mauricio Cabrera|R|Kurt Suzuki|R|Double|D|Four-Seam Fastball|7|0|1|0|7|100
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|B|Four-Seam Fastball|8|0|0|0|7|101
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|*B|Slider|9|1|0|0|14|85
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|C|Four-Seam Fastball|10|2|0|0|11|100
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|F|Four-Seam Fastball|11|2|1|0|7|100
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|B|Slider|12|2|2|0|14|86
+Mauricio Cabrera|R|Byron Buxton|R|Strikeout|S|Slider|13|3|2|0|14|84
+Mauricio Cabrera|R|Eduardo Nunez|R|Flyout|C|Slider|14|0|0|1|5|85
+Mauricio Cabrera|R|Eduardo Nunez|R|Flyout|X|Four-Seam Fastball|15|0|1|1|11|99
+Mauricio Cabrera|R|Miguel Sano|R|Strikeout|C|Slider|0|0|0|2|6|84
+Mauricio Cabrera|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|1|0|1|2|7|100
+Mauricio Cabrera|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|2|0|2|2|6|100
+Mauricio Cabrera|R|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|3|0|2|2|12|100
+Mauricio Cabrera|R|Brian Dozier|R|Flyout|B|Four-Seam Fastball|4|0|0|0|11|97
+Mauricio Cabrera|R|Brian Dozier|R|Flyout|C|Four-Seam Fastball|5|1|0|0|12|97
+Mauricio Cabrera|R|Brian Dozier|R|Flyout|X|Slider|6|1|1|0|11|83
+Mauricio Cabrera|R|Kennys Vargas|L|Strikeout|C|Four-Seam Fastball|7|0|0|1|11|99
+Mauricio Cabrera|R|Kennys Vargas|L|Strikeout|F|Changeup|8|0|1|1|13|91
+Mauricio Cabrera|R|Kennys Vargas|L|Strikeout|B|Four-Seam Fastball|9|0|2|1|11|99
+Mauricio Cabrera|R|Kennys Vargas|L|Strikeout|W|Changeup|10|1|2|1|14|91
+Mauricio Cabrera|R|Eddie Rosario|L|Single|S|Four-Seam Fastball|11|0|0|2|1|99
+Mauricio Cabrera|R|Eddie Rosario|L|Single|S|Changeup|12|0|1|2|13|91
+Mauricio Cabrera|R|Eddie Rosario|L|Single|F|Changeup|13|0|2|2|8|91
+Mauricio Cabrera|R|Eddie Rosario|L|Single|B|Four-Seam Fastball|14|0|2|2|11|98
+Mauricio Cabrera|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|15|1|2|2|11|98
+Mauricio Cabrera|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|16|1|2|2|7|99
+Mauricio Cabrera|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|17|1|2|2|5|100
+Mauricio Cabrera|R|Eddie Rosario|L|Single|D|Four-Seam Fastball|18|1|2|2|14|100
+Mauricio Cabrera|R|Robbie Grossman|L|Strikeout|B|Four-Seam Fastball|19|0|0|2|14|99
+Mauricio Cabrera|R|Robbie Grossman|L|Strikeout|S|Four-Seam Fastball|20|1|0|2|14|99
+Mauricio Cabrera|R|Robbie Grossman|L|Strikeout|S|Changeup|21|1|1|2|7|89
+Mauricio Cabrera|R|Robbie Grossman|L|Strikeout|C|Changeup|22|1|2|2|5|89
+Mauricio Cabrera|R|Maikel Franco|R|Flyout|X|Four-Seam Fastball|0|0|0|2|5|101
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|C|Four-Seam Fastball|1|0|0|0|8|100
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|2|0|1|0|11|99
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|3|1|1|0|14|98
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|4|2|1|0|14|100
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|5|3|1|0|14|100
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|B|Four-Seam Fastball|6|0|0|0|2|99
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|S|Four-Seam Fastball|7|1|0|0|7|99
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|F|Four-Seam Fastball|8|1|1|0|9|99
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|B|Slider|9|1|2|0|14|84
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|B|Slider|10|2|2|0|14|85
+Mauricio Cabrera|R|Aaron Altherr|R|Forceout|X|Four-Seam Fastball|11|3|2|0|13|99
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|C|Four-Seam Fastball|12|0|0|1|8|101
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|*B|Four-Seam Fastball|13|0|1|1|13|100
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|B|Slider|14|1|1|1|11|83
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|S|Four-Seam Fastball|15|2|1|1|11|99
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|S|Four-Seam Fastball|16|2|2|1|3|101
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|11|98
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|S|Four-Seam Fastball|1|1|0|1|1|98
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|2|1|1|1|5|100
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|B|Four-Seam Fastball|3|1|2|1|12|100
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|S|Four-Seam Fastball|4|2|2|1|9|100
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|S|Four-Seam Fastball|5|0|0|2|1|99
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|6|0|1|2|14|100
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|7|1|1|2|12|99
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|8|2|1|2|14|98
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|C|Four-Seam Fastball|9|3|1|2|14|98
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|F|Four-Seam Fastball|10|3|2|2|6|99
+Mauricio Cabrera|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|11|3|2|2|14|100
+Mauricio Cabrera|R|Cody Asche|L|Pop Out|F|Four-Seam Fastball|12|0|0|2|2|99
+Mauricio Cabrera|R|Cody Asche|L|Pop Out|C|Four-Seam Fastball|13|0|1|2|11|99
+Mauricio Cabrera|R|Cody Asche|L|Pop Out|X|Changeup|14|0|2|2|5|91
+Mauricio Cabrera|R|Freddy Galvis|L|Lineout|B|Four-Seam Fastball|15|0|0|0|11|100
+Mauricio Cabrera|R|Freddy Galvis|L|Lineout|B|Changeup|16|1|0|0|12|89
+Mauricio Cabrera|R|Freddy Galvis|L|Lineout|F|Four-Seam Fastball|17|2|0|0|3|100
+Mauricio Cabrera|R|Freddy Galvis|L|Lineout|S|Four-Seam Fastball|18|2|1|0|13|100
+Mauricio Cabrera|R|Freddy Galvis|L|Lineout|X|Changeup|19|2|2|0|13|92
+Mauricio Cabrera|R|Gregory Polanco|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|99
+Mauricio Cabrera|R|Gregory Polanco|L|Groundout|B|Changeup|1|1|0|0|14|92
+Mauricio Cabrera|R|Gregory Polanco|L|Groundout|S|Four-Seam Fastball|2|2|0|0|5|101
+Mauricio Cabrera|R|Gregory Polanco|L|Groundout|F|Four-Seam Fastball|3|2|1|0|1|102
+Mauricio Cabrera|R|Gregory Polanco|L|Groundout|X|Four-Seam Fastball|4|2|2|0|2|101
+Mauricio Cabrera|R|Jung Ho Kang|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|9|101
+Mauricio Cabrera|R|Jung Ho Kang|R|Strikeout|F|Four-Seam Fastball|6|0|1|1|11|101
+Mauricio Cabrera|R|Jung Ho Kang|R|Strikeout|B|Four-Seam Fastball|7|0|2|1|14|102
+Mauricio Cabrera|R|Jung Ho Kang|R|Strikeout|C|Slider|8|1|2|1|12|86
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|C|Slider|9|0|0|2|11|84
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|F|Four-Seam Fastball|10|0|1|2|8|101
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|B|Four-Seam Fastball|11|0|2|2|14|101
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|F|Slider|12|1|2|2|14|84
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|F|Four-Seam Fastball|13|1|2|2|12|101
+Mauricio Cabrera|R|Starling Marte|R|Strikeout|S|Four-Seam Fastball|14|1|2|2|13|101
+Mauricio Cabrera|R|Stephen Piscotty|R|Groundout|S|Four-Seam Fastball|0|0|0|0|11|101
+Mauricio Cabrera|R|Stephen Piscotty|R|Groundout|X|Four-Seam Fastball|1|0|1|0|9|101
+Mauricio Cabrera|R|Brandon Moss|L|Strikeout|C|Four-Seam Fastball|2|0|0|1|5|101
+Mauricio Cabrera|R|Brandon Moss|L|Strikeout|B|Changeup|3|0|1|1|9|92
+Mauricio Cabrera|R|Brandon Moss|L|Strikeout|B|Four-Seam Fastball|4|1|1|1|11|100
+Mauricio Cabrera|R|Brandon Moss|L|Strikeout|T|Changeup|5|2|1|1|14|92
+Mauricio Cabrera|R|Brandon Moss|L|Strikeout|C|Four-Seam Fastball|6|2|2|1|13|101
+Mauricio Cabrera|R|Matt Holliday|R|Flyout|C|Four-Seam Fastball|7|0|0|2|14|101
+Mauricio Cabrera|R|Matt Holliday|R|Flyout|B|Four-Seam Fastball|8|0|1|2|14|102
+Mauricio Cabrera|R|Matt Holliday|R|Flyout|F|Four-Seam Fastball|9|1|1|2|6|100
+Mauricio Cabrera|R|Matt Holliday|R|Flyout|B|Four-Seam Fastball|10|1|2|2|11|101
+Mauricio Cabrera|R|Matt Holliday|R|Flyout|X|Slider|11|2|2|2|9|87
+Mauricio Cabrera|R|Matt Holliday|R|Single|C|Four-Seam Fastball|0|0|0|0|9|99
+Mauricio Cabrera|R|Matt Holliday|R|Single|S|Slider|1|0|1|0|14|86
+Mauricio Cabrera|R|Matt Holliday|R|Single|D|Slider|2|0|2|0|7|85
+Mauricio Cabrera|R|Jhonny Peralta|R|Single|F|Four-Seam Fastball|3|0|0|0|13|100
+Mauricio Cabrera|R|Jhonny Peralta|R|Single|B|Four-Seam Fastball|4|0|1|0|11|100
+Mauricio Cabrera|R|Jhonny Peralta|R|Single|*B|Slider|5|1|1|0|14|84
+Mauricio Cabrera|R|Jhonny Peralta|R|Single|D|Four-Seam Fastball|6|2|1|0|9|100
+Mauricio Cabrera|R|Matt Adams|L|Double|S|Four-Seam Fastball|7|0|0|0|14|101
+Mauricio Cabrera|R|Matt Adams|L|Double|E|Four-Seam Fastball|8|0|1|0|5|99
+Mauricio Cabrera|R|Jedd Gyorko|R|Flyout|*B|Slider|9|0|0|0|14|86
+Mauricio Cabrera|R|Jedd Gyorko|R|Flyout|F|Four-Seam Fastball|10|1|0|0|9|102
+Mauricio Cabrera|R|Jedd Gyorko|R|Flyout|X|Slider|11|1|1|0|1|85
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|B|Four-Seam Fastball|12|0|0|1|14|101
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|S|Four-Seam Fastball|13|1|0|1|3|101
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|S|Four-Seam Fastball|14|1|1|1|12|100
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|F|Four-Seam Fastball|15|1|2|1|9|102
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|B|Slider|16|1|2|1|11|85
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|B|Four-Seam Fastball|17|2|2|1|11|100
+Mauricio Cabrera|R|Tommy Pham|R|Groundout|E|Four-Seam Fastball|18|3|2|1|6|101
+Mauricio Cabrera|R|Kolten Wong|L|Strikeout|C|Four-Seam Fastball|19|0|0|2|6|100
+Mauricio Cabrera|R|Kolten Wong|L|Strikeout|S|Changeup|20|0|1|2|13|90
+Mauricio Cabrera|R|Kolten Wong|L|Strikeout|S|Changeup|21|0|2|2|5|92
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|0|0|0|0|11|99
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|1|1|0|0|11|98
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|C|Four-Seam Fastball|2|2|0|0|2|98
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|X|Four-Seam Fastball|3|2|1|0|3|98
+Mauricio Cabrera|R|Chris Carter|R|Flyout|F|Four-Seam Fastball|4|0|0|1|3|101
+Mauricio Cabrera|R|Chris Carter|R|Flyout|B|Slider|5|0|1|1|14|88
+Mauricio Cabrera|R|Chris Carter|R|Flyout|F|Four-Seam Fastball|6|1|1|1|3|100
+Mauricio Cabrera|R|Chris Carter|R|Flyout|X|Four-Seam Fastball|7|1|2|1|3|101
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|8|0|0|2|9|101
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|9|0|1|2|12|101
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|F|Four-Seam Fastball|10|1|1|2|9|99
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|11|1|2|2|14|102
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|F|Four-Seam Fastball|12|2|2|2|12|101
+Mauricio Cabrera|R|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|13|2|2|2|11|100
+Mauricio Cabrera|R|Ryan Braun|R|Groundout|S|Four-Seam Fastball|0|0|0|0|11|100
+Mauricio Cabrera|R|Ryan Braun|R|Groundout|F|Four-Seam Fastball|1|0|1|0|1|100
+Mauricio Cabrera|R|Ryan Braun|R|Groundout|F|Slider|2|0|2|0|6|83
+Mauricio Cabrera|R|Ryan Braun|R|Groundout|B|Four-Seam Fastball|3|0|2|0|14|102
+Mauricio Cabrera|R|Ryan Braun|R|Groundout|X|Four-Seam Fastball|4|1|2|0|8|100
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|T|Four-Seam Fastball|5|0|0|1|5|101
+Mauricio Cabrera|R|Hernan Perez|R|Groundout|X|Four-Seam Fastball|6|0|1|1|9|100
+Mauricio Cabrera|R|Kirk Nieuwenhuis|L|Strikeout|C|Four-Seam Fastball|7|0|0|2|5|100
+Mauricio Cabrera|R|Kirk Nieuwenhuis|L|Strikeout|B|Four-Seam Fastball|8|0|1|2|11|99
+Mauricio Cabrera|R|Kirk Nieuwenhuis|L|Strikeout|F|Four-Seam Fastball|9|1|1|2|9|101
+Mauricio Cabrera|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|10|1|2|2|11|102
+Mauricio Cabrera|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|99
+Mauricio Cabrera|R|Anthony Rendon|R|Groundout|X|Four-Seam Fastball|1|0|1|0|6|100
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|X|Four-Seam Fastball|2|0|0|1|6|100
+Mauricio Cabrera|R|Wilmer Difo|L|Single|B|Four-Seam Fastball|3|0|0|2|14|101
+Mauricio Cabrera|R|Wilmer Difo|L|Single|D|Four-Seam Fastball|4|1|0|2|1|99
+Mauricio Cabrera|R|Ben Revere|L|Flyout|B|Four-Seam Fastball|5|0|0|2|14|101
+Mauricio Cabrera|R|Ben Revere|L|Flyout|B|Four-Seam Fastball|6|1|0|2|12|101
+Mauricio Cabrera|R|Ben Revere|L|Flyout|X|Four-Seam Fastball|7|2|0|2|2|99
+Mauricio Cabrera|R|Danny Santana|L|Walk|B|Four-Seam Fastball|0|0|0|2|14|99
+Mauricio Cabrera|R|Danny Santana|L|Walk|B|Four-Seam Fastball|1|1|0|2|14|99
+Mauricio Cabrera|R|Danny Santana|L|Walk|B|Four-Seam Fastball|2|2|0|2|14|99
+Mauricio Cabrera|R|Danny Santana|L|Walk|B|Four-Seam Fastball|3|3|0|2|12|99
+Mauricio Cabrera|R|Brian Dozier|R|Strikeout|C|Four-Seam Fastball|4|0|0|2|4|98
+Mauricio Cabrera|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|5|0|1|2|14|99
+Mauricio Cabrera|R|Brian Dozier|R|Strikeout|T|Four-Seam Fastball|6|1|1|2|13|99
+Mauricio Cabrera|R|Brian Dozier|R|Strikeout|S|Four-Seam Fastball|7|1|2|2|12|99
+Mauricio Cabrera|R|Jorge Polanco|L|Single|C|Four-Seam Fastball|8|0|0|0|7|100
+Mauricio Cabrera|R|Jorge Polanco|L|Single|F|Changeup|9|0|1|0|2|90
+Mauricio Cabrera|R|Jorge Polanco|L|Single|D|Four-Seam Fastball|10|0|2|0|13|101
+Mauricio Cabrera|R|Joe Mauer|L|Single|C|Four-Seam Fastball|11|0|0|0|4|100
+Mauricio Cabrera|R|Joe Mauer|L|Single|B|Four-Seam Fastball|12|0|1|0|13|99
+Mauricio Cabrera|R|Joe Mauer|L|Single|B|Changeup|13|1|1|0|13|92
+Mauricio Cabrera|R|Joe Mauer|L|Single|T|Changeup|14|2|1|0|1|91
+Mauricio Cabrera|R|Joe Mauer|L|Single|F|Changeup|15|2|2|0|13|92
+Mauricio Cabrera|R|Joe Mauer|L|Single|B|Four-Seam Fastball|16|2|2|0|14|101
+Mauricio Cabrera|R|Joe Mauer|L|Single|D|Changeup|17|3|2|0|13|91
+Mauricio Cabrera|R|Trevor Plouffe|R|Single|F|Four-Seam Fastball|18|0|0|0|4|99
+Mauricio Cabrera|R|Trevor Plouffe|R|Single|F|Four-Seam Fastball|19|0|1|0|11|101
+Mauricio Cabrera|R|Trevor Plouffe|R|Single|E|Four-Seam Fastball|20|0|2|0|4|101
+Mauricio Cabrera|R|Max Kepler|L|Walk|B|Changeup|21|0|0|1|11|90
+Mauricio Cabrera|R|Max Kepler|L|Walk|B|Four-Seam Fastball|22|1|0|1|12|100
+Mauricio Cabrera|R|Max Kepler|L|Walk|C|Four-Seam Fastball|23|2|0|1|6|100
+Mauricio Cabrera|R|Max Kepler|L|Walk|*B|Changeup|24|2|1|1|14|91
+Mauricio Cabrera|R|Max Kepler|L|Walk|F|Four-Seam Fastball|25|3|1|1|5|99
+Mauricio Cabrera|R|Max Kepler|L|Walk|F|Four-Seam Fastball|26|3|2|1|4|100
+Mauricio Cabrera|R|Max Kepler|L|Walk|F|Changeup|27|3|2|1|8|91
+Mauricio Cabrera|R|Max Kepler|L|Walk|F|Four-Seam Fastball|28|3|2|1|3|100
+Mauricio Cabrera|R|Max Kepler|L|Walk|F|Four-Seam Fastball|29|3|2|1|6|101
+Mauricio Cabrera|R|Max Kepler|L|Walk|B|Four-Seam Fastball|30|3|2|1|11|100
+Mauricio Cabrera|R|Clint Robinson|L|Single|S|Four-Seam Fastball|0|0|0|0|2|100
+Mauricio Cabrera|R|Clint Robinson|L|Single|E|Four-Seam Fastball|1|0|1|0|14|100
+Mauricio Cabrera|R|Danny Espinosa|L|Walk|*B|Slider|2|0|0|0|14|84
+Mauricio Cabrera|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|3|1|0|0|11|99
+Mauricio Cabrera|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|4|2|0|0|11|97
+Mauricio Cabrera|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|5|3|0|0|14|99
+Mauricio Cabrera|R|Pedro Severino|R|Field Error|C|Slider|6|0|0|0|5|82
+Mauricio Cabrera|R|Pedro Severino|R|Field Error|B|Four-Seam Fastball|7|0|1|0|14|100
+Mauricio Cabrera|R|Pedro Severino|R|Field Error|F|Four-Seam Fastball|8|1|1|0|12|99
+Mauricio Cabrera|R|Pedro Severino|R|Field Error|F|Four-Seam Fastball|9|1|2|0|3|100
+Mauricio Cabrera|R|Pedro Severino|R|Field Error|D|Four-Seam Fastball|10|1|2|0|6|100
+Mauricio Cabrera|R|Wilmer Difo|L|Flyout|X|Four-Seam Fastball|11|0|0|0|5|100
+Mauricio Cabrera|R|Trea Turner|R|Sac Fly|B|Slider|12|0|0|1|11|83
+Mauricio Cabrera|R|Trea Turner|R|Sac Fly|E|Four-Seam Fastball|13|1|0|1|11|99
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|B|Four-Seam Fastball|14|0|0|2|1|99
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|B|Four-Seam Fastball|15|1|0|2|14|100
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|C|Four-Seam Fastball|16|2|0|2|14|98
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|C|Four-Seam Fastball|17|2|1|2|9|98
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|F|Four-Seam Fastball|18|2|2|2|2|100
+Mauricio Cabrera|R|Chris Heisey|R|Pop Out|X|Four-Seam Fastball|19|2|2|2|3|100
+Mauricio Cabrera|R|Danny Espinosa|L|Flyout|C|Four-Seam Fastball|0|0|0|0|6|99
+Mauricio Cabrera|R|Danny Espinosa|L|Flyout|X|Changeup|1|0|1|0|9|91
+Mauricio Cabrera|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|2|0|0|1|13|100
+Mauricio Cabrera|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|3|1|0|1|14|98
+Mauricio Cabrera|R|Daniel Murphy|L|Walk|C|Changeup|4|2|0|1|9|91
+Mauricio Cabrera|R|Daniel Murphy|L|Walk|B|Changeup|5|2|1|1|9|91
+Mauricio Cabrera|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|6|3|1|1|14|99
+Mauricio Cabrera|R|Bryce Harper|L|Strikeout|T|Four-Seam Fastball|7|0|0|1|4|100
+Mauricio Cabrera|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|8|0|1|1|11|100
+Mauricio Cabrera|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|9|0|2|1|14|101
+Mauricio Cabrera|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|10|1|2|1|11|100
+Mauricio Cabrera|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|5|99
+Mauricio Cabrera|R|Wilson Ramos|R|Strikeout|B|Slider|12|0|1|2|14|83
+Mauricio Cabrera|R|Wilson Ramos|R|Strikeout|C|Slider|13|1|1|2|2|82
+Mauricio Cabrera|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|14|1|2|2|9|100
+Mauricio Cabrera|R|Wilson Ramos|R|Strikeout|S|Four-Seam Fastball|15|1|2|2|11|99
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|99
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|11|99
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|B|Four-Seam Fastball|2|2|0|0|12|98
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|C|Four-Seam Fastball|3|3|0|0|4|98
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|S|Four-Seam Fastball|4|3|1|0|13|97
+Mauricio Cabrera|R|Brandon Drury|R|Strikeout|T|Four-Seam Fastball|5|3|2|0|12|99
+Mauricio Cabrera|R|Welington Castillo|R|Strikeout|C|Slider|6|0|0|1|1|82
+Mauricio Cabrera|R|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|7|0|1|1|11|99
+Mauricio Cabrera|R|Welington Castillo|R|Strikeout|S|Slider|8|1|1|1|14|84
+Mauricio Cabrera|R|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|9|1|2|1|6|100
+Mauricio Cabrera|R|Jake Lamb|L|Double|C|Four-Seam Fastball|10|0|0|2|13|98
+Mauricio Cabrera|R|Jake Lamb|L|Double|F|Slider|11|0|1|2|14|85
+Mauricio Cabrera|R|Jake Lamb|L|Double|D|Four-Seam Fastball|12|0|2|2|9|100
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|C|Four-Seam Fastball|13|0|0|2|3|100
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|14|0|1|2|12|100
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|15|1|1|2|13|98
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|16|1|2|2|14|100
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|F|Slider|17|2|2|2|4|83
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|*B|Four-Seam Fastball|18|2|2|2|14|100
+Mauricio Cabrera|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|19|3|2|2|14|100
+Mauricio Cabrera|R|Chris Owings|R|Single|B|Slider|0|0|0|0|14|83
+Mauricio Cabrera|R|Chris Owings|R|Single|D|Four-Seam Fastball|1|1|0|0|9|99
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|B|Four-Seam Fastball|2|0|0|0|12|99
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|F|Four-Seam Fastball|3|1|0|0|6|99
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|S|Four-Seam Fastball|4|1|1|0|8|98
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|F|Four-Seam Fastball|5|1|2|0|11|99
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|F|Four-Seam Fastball|6|1|2|0|4|98
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|F|Four-Seam Fastball|7|1|2|0|9|100
+Mauricio Cabrera|R|Mitch Haniger|R|Flyout|X|Four-Seam Fastball|8|1|2|0|8|99
+Mauricio Cabrera|R|Brandon Drury|R|Lineout|S|Four-Seam Fastball|9|0|0|1|7|99
+Mauricio Cabrera|R|Brandon Drury|R|Lineout|B|Four-Seam Fastball|10|0|1|1|13|100
+Mauricio Cabrera|R|Brandon Drury|R|Lineout|F|Four-Seam Fastball|11|1|1|1|6|100
+Mauricio Cabrera|R|Brandon Drury|R|Lineout|F|Four-Seam Fastball|12|1|2|1|5|100
+Mauricio Cabrera|R|Brandon Drury|R|Lineout|X|Four-Seam Fastball|13|1|2|1|9|99
+Mauricio Cabrera|R|Tuffy Gosewisch|R|Groundout|X|Four-Seam Fastball|14|0|0|2|4|98
+Mauricio Cabrera|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|0|0|0|2|11|99
+Mauricio Cabrera|R|Joe Panik|L|Groundout|C|Changeup|1|1|0|2|14|90
+Mauricio Cabrera|R|Joe Panik|L|Groundout|X|Four-Seam Fastball|2|1|1|2|8|99
+Mauricio Cabrera|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|0|0|0|0|11|102
+Mauricio Cabrera|R|Wil Myers|R|Groundout|F|Four-Seam Fastball|1|1|0|0|2|101
+Mauricio Cabrera|R|Wil Myers|R|Groundout|X|Four-Seam Fastball|2|1|1|0|9|101
+Mauricio Cabrera|R|Yangervis Solarte|L|Groundout|B|Four-Seam Fastball|3|0|0|1|11|101
+Mauricio Cabrera|R|Yangervis Solarte|L|Groundout|F|Four-Seam Fastball|4|1|0|1|1|100
+Mauricio Cabrera|R|Yangervis Solarte|L|Groundout|F|Four-Seam Fastball|5|1|1|1|4|101
+Mauricio Cabrera|R|Yangervis Solarte|L|Groundout|X|Four-Seam Fastball|6|1|2|1|8|102
+Mauricio Cabrera|R|Alex Dickerson|L|Groundout|B|Four-Seam Fastball|7|0|0|2|14|102
+Mauricio Cabrera|R|Alex Dickerson|L|Groundout|B|Changeup|8|1|0|2|14|92
+Mauricio Cabrera|R|Alex Dickerson|L|Groundout|X|Four-Seam Fastball|9|2|0|2|9|99
+Mauricio Cabrera|R|Maikel Franco|R|Single|F|Four-Seam Fastball|0|0|0|0|1|100
+Mauricio Cabrera|R|Maikel Franco|R|Single|B|Slider|1|0|1|0|11|81
+Mauricio Cabrera|R|Maikel Franco|R|Single|B|Four-Seam Fastball|2|1|1|0|14|99
+Mauricio Cabrera|R|Maikel Franco|R|Single|D|Four-Seam Fastball|3|2|1|0|2|99
+Mauricio Cabrera|R|Ryan Howard|L|Single|C|Four-Seam Fastball|4|0|0|0|13|100
+Mauricio Cabrera|R|Ryan Howard|L|Single|S|Changeup|5|0|1|0|14|90
+Mauricio Cabrera|R|Ryan Howard|L|Single|D|Four-Seam Fastball|6|0|2|0|14|101
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|C|Slider|7|0|0|0|2|82
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|S|Four-Seam Fastball|8|0|1|0|13|99
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|9|0|2|0|13|99
+Mauricio Cabrera|R|Aaron Altherr|R|Strikeout|S|Four-Seam Fastball|10|0|2|0|14|103
+Mauricio Cabrera|R|Darin Ruf|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|13|99
+Mauricio Cabrera|R|Darin Ruf|R|Strikeout|C|Slider|12|1|0|1|9|83
+Mauricio Cabrera|R|Darin Ruf|R|Strikeout|S|Four-Seam Fastball|13|1|1|1|5|100
+Mauricio Cabrera|R|Darin Ruf|R|Strikeout|W|Slider|14|1|2|1|14|85
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|*B|Four-Seam Fastball|15|0|0|2|14|101
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|B|Changeup|16|1|0|2|11|90
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|*B|Four-Seam Fastball|17|2|0|2|14|99
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|18|3|0|2|5|99
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|F|Changeup|19|3|1|2|1|88
+Mauricio Cabrera|R|Freddy Galvis|L|Strikeout|S|Four-Seam Fastball|20|3|2|2|9|102
+Mauricio Cabrera|R|Cesar Hernandez|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|11|97
+Mauricio Cabrera|R|Cesar Hernandez|L|Pop Out|X|Four-Seam Fastball|1|0|1|0|1|99
+Mauricio Cabrera|R|Aaron Altherr|R|Groundout|C|Four-Seam Fastball|2|0|0|1|4|99
+Mauricio Cabrera|R|Aaron Altherr|R|Groundout|B|Slider|3|0|1|1|14|84
+Mauricio Cabrera|R|Aaron Altherr|R|Groundout|S|Slider|4|1|1|1|14|84
+Mauricio Cabrera|R|Aaron Altherr|R|Groundout|B|Four-Seam Fastball|5|1|2|1|14|101
+Mauricio Cabrera|R|Aaron Altherr|R|Groundout|X|Slider|6|2|2|1|12|84
+Mauricio Cabrera|R|Maikel Franco|R|Lineout|B|Slider|7|0|0|2|13|85
+Mauricio Cabrera|R|Maikel Franco|R|Lineout|B|Slider|8|1|0|2|14|86
+Mauricio Cabrera|R|Maikel Franco|R|Lineout|C|Four-Seam Fastball|9|2|0|2|13|100
+Mauricio Cabrera|R|Maikel Franco|R|Lineout|S|Four-Seam Fastball|10|2|1|2|13|99
+Mauricio Cabrera|R|Maikel Franco|R|Lineout|X|Four-Seam Fastball|11|2|2|2|5|101
+Mauricio Cabrera|R|Wilson Ramos|R|Flyout|S|Four-Seam Fastball|0|0|0|1|12|99
+Mauricio Cabrera|R|Wilson Ramos|R|Flyout|X|Slider|1|0|1|1|1|83
+Mauricio Cabrera|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|2|0|0|2|14|99
+Mauricio Cabrera|R|Ryan Zimmerman|R|Strikeout|F|Four-Seam Fastball|3|1|0|2|8|100
+Mauricio Cabrera|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|4|1|1|2|11|100
+Mauricio Cabrera|R|Ryan Zimmerman|R|Strikeout|F|Slider|5|2|1|2|1|83
+Mauricio Cabrera|R|Ryan Zimmerman|R|Strikeout|S|Four-Seam Fastball|6|2|2|2|5|100
+Mauricio Cabrera|R|Danny Espinosa|L|Flyout|C|Changeup|7|0|0|0|13|89
+Mauricio Cabrera|R|Danny Espinosa|L|Flyout|X|Four-Seam Fastball|8|0|1|0|8|99
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|B|Changeup|9|0|0|1|14|92
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|S|Changeup|10|1|0|1|6|91
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|F|Changeup|11|1|1|1|6|92
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|F|Four-Seam Fastball|12|1|2|1|13|101
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|F|Four-Seam Fastball|13|1|2|1|12|100
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|F|Four-Seam Fastball|14|1|2|1|14|100
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|B|Four-Seam Fastball|15|1|2|1|12|100
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|F|Changeup|16|2|2|1|3|91
+Mauricio Cabrera|R|Clint Robinson|L|Groundout|X|Changeup|17|2|2|1|7|92
+Mauricio Cabrera|R|Stephen Drew|L|Single|B|Four-Seam Fastball|18|0|0|2|14|99
+Mauricio Cabrera|R|Stephen Drew|L|Single|D|Four-Seam Fastball|19|1|0|2|9|98
+Mauricio Cabrera|R|Trea Turner|R|Lineout|*B|Four-Seam Fastball|20|0|0|2|13|100
+Mauricio Cabrera|R|Trea Turner|R|Lineout|F|Four-Seam Fastball|21|1|0|2|11|98
+Mauricio Cabrera|R|Trea Turner|R|Lineout|B|Four-Seam Fastball|22|1|1|2|14|99
+Mauricio Cabrera|R|Trea Turner|R|Lineout|F|Changeup|23|2|1|2|2|90
+Mauricio Cabrera|R|Trea Turner|R|Lineout|X|Four-Seam Fastball|24|2|2|2|12|101
+Mauricio Cabrera|R|Alejandro De Aza|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|99
+Mauricio Cabrera|R|Alejandro De Aza|L|Walk|C|Four-Seam Fastball|1|1|0|0|13|98
+Mauricio Cabrera|R|Alejandro De Aza|L|Walk|B|Changeup|2|1|1|0|11|90
+Mauricio Cabrera|R|Alejandro De Aza|L|Walk|B|Four-Seam Fastball|3|2|1|0|11|98
+Mauricio Cabrera|R|Alejandro De Aza|L|Walk|B|Four-Seam Fastball|4|3|1|0|12|99
+Mauricio Cabrera|R|Jose Reyes|L|Field Error|C|Four-Seam Fastball|5|0|0|0|11|97
+Mauricio Cabrera|R|Jose Reyes|L|Field Error|D|Four-Seam Fastball|6|0|1|0|11|96
+Mauricio Cabrera|R|Asdrubal Cabrera|L|Walk|B|Four-Seam Fastball|7|0|0|0|6|98
+Mauricio Cabrera|R|Asdrubal Cabrera|L|Walk|B|Four-Seam Fastball|8|1|0|0|13|99
+Mauricio Cabrera|R|Asdrubal Cabrera|L|Walk|F|Four-Seam Fastball|9|2|0|0|9|98
+Mauricio Cabrera|R|Asdrubal Cabrera|L|Walk|*B|Four-Seam Fastball|10|2|1|0|13|99
+Mauricio Cabrera|R|Asdrubal Cabrera|L|Walk|B|Four-Seam Fastball|11|3|1|0|12|99
+Mauricio Cabrera|R|Yoenis Cespedes|R|Sac Fly|C|Four-Seam Fastball|12|0|0|0|14|99
+Mauricio Cabrera|R|Yoenis Cespedes|R|Sac Fly|*B|Four-Seam Fastball|13|0|1|0|14|100
+Mauricio Cabrera|R|Yoenis Cespedes|R|Sac Fly|F|Slider|14|1|1|0|2|83
+Mauricio Cabrera|R|Yoenis Cespedes|R|Sac Fly|E|Four-Seam Fastball|15|1|2|0|12|100
+Mauricio Cabrera|R|Curtis Granderson|L|Single|C|Four-Seam Fastball|16|0|0|1|4|96
+Mauricio Cabrera|R|Curtis Granderson|L|Single|E|Changeup|17|0|1|1|13|89
+Mauricio Cabrera|R|Kelly Johnson|L|Double|B|Four-Seam Fastball|18|0|0|1|13|97
+Mauricio Cabrera|R|Kelly Johnson|L|Double|E|Changeup|19|1|0|1|4|89
+Mauricio Cabrera|R|Jay Bruce|L|Intent Walk|I|Intentional Ball|20|0|0|1|11|73
+Mauricio Cabrera|R|Jay Bruce|L|Intent Walk|I|Intentional Ball|21|0|1|1|11|78
+Mauricio Cabrera|R|Jay Bruce|L|Intent Walk|I|Intentional Ball|22|0|2|1|11|78
+Mauricio Cabrera|R|Jay Bruce|L|Intent Walk|I|Intentional Ball|23|0|2|1|11|79
+Mauricio Cabrera|R|Tomas Telis|L|Single|C|Four-Seam Fastball|0|0|0|0|2|97
+Mauricio Cabrera|R|Tomas Telis|L|Single|B|Four-Seam Fastball|1|0|1|0|14|98
+Mauricio Cabrera|R|Tomas Telis|L|Single|D|Changeup|2|1|1|0|1|90
+Mauricio Cabrera|R|Justin Bour|L|Lineout|C|Four-Seam Fastball|3|0|0|0|8|97
+Mauricio Cabrera|R|Justin Bour|L|Lineout|X|Four-Seam Fastball|4|0|1|0|4|97
+Mauricio Cabrera|R|J.T. Realmuto|R|Grounded Into DP|C|Slider|5|0|0|1|14|79
+Mauricio Cabrera|R|J.T. Realmuto|R|Grounded Into DP|S|Four-Seam Fastball|6|0|1|1|14|97
+Mauricio Cabrera|R|J.T. Realmuto|R|Grounded Into DP|X|Four-Seam Fastball|7|0|2|1|14|97
+Mauricio Cabrera|R|Martin Prado|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|98
+Mauricio Cabrera|R|Martin Prado|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|97
+Mauricio Cabrera|R|Martin Prado|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|96
+Mauricio Cabrera|R|Martin Prado|R|Walk|C|Four-Seam Fastball|3|3|0|0|3|95
+Mauricio Cabrera|R|Martin Prado|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|97
+Mauricio Cabrera|R|Christian Yelich|L|Strikeout|C|Changeup|5|0|0|0|5|88
+Mauricio Cabrera|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|6|0|1|0|6|98
+Mauricio Cabrera|R|Christian Yelich|L|Strikeout|F|Slider|7|0|2|0|4|82
+Mauricio Cabrera|R|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|8|0|2|0|14|99
+Mauricio Cabrera|R|Marcell Ozuna|R|Single|W|Slider|9|0|0|1|14|84
+Mauricio Cabrera|R|Marcell Ozuna|R|Single|*B|Four-Seam Fastball|10|0|1|1|14|99
+Mauricio Cabrera|R|Marcell Ozuna|R|Single|B|Slider|11|1|1|1|3|82
+Mauricio Cabrera|R|Marcell Ozuna|R|Single|B|Changeup|12|2|1|1|11|89
+Mauricio Cabrera|R|Marcell Ozuna|R|Single|E|Four-Seam Fastball|13|3|1|1|9|100
+Mauricio Cabrera|R|Justin Bour|L|Grounded Into DP|F|Changeup|14|0|0|1|5|89
+Mauricio Cabrera|R|Justin Bour|L|Grounded Into DP|B|Changeup|15|0|1|1|11|88
+Mauricio Cabrera|R|Justin Bour|L|Grounded Into DP|X|Four-Seam Fastball|16|1|1|1|13|98
+Mauricio Cabrera|R|Michael Conforto|L|Lineout|C|Four-Seam Fastball|0|0|0|0|12|98
+Mauricio Cabrera|R|Michael Conforto|L|Lineout|B|Four-Seam Fastball|1|0|1|0|11|99
+Mauricio Cabrera|R|Michael Conforto|L|Lineout|F|Changeup|2|1|1|0|5|92
+Mauricio Cabrera|R|Michael Conforto|L|Lineout|X|Four-Seam Fastball|3|1|2|0|3|100
+Mauricio Cabrera|R|James Loney|L|Single|C|Slider|4|0|0|1|14|84
+Mauricio Cabrera|R|James Loney|L|Single|T|Four-Seam Fastball|5|0|1|1|13|100
+Mauricio Cabrera|R|James Loney|L|Single|D|Slider|6|0|2|1|14|85
+Mauricio Cabrera|R|Alejandro De Aza|L|Lineout|F|Four-Seam Fastball|7|0|0|1|13|99
+Mauricio Cabrera|R|Alejandro De Aza|L|Lineout|B|Four-Seam Fastball|8|0|1|1|11|98
+Mauricio Cabrera|R|Alejandro De Aza|L|Lineout|B|Changeup|9|1|1|1|11|90
+Mauricio Cabrera|R|Alejandro De Aza|L|Lineout|X|Four-Seam Fastball|10|2|1|1|4|99
+Mauricio Cabrera|R|Brandon Nimmo|L|Flyout|B|Four-Seam Fastball|11|0|0|2|11|100
+Mauricio Cabrera|R|Brandon Nimmo|L|Flyout|C|Changeup|12|1|0|2|14|91
+Mauricio Cabrera|R|Brandon Nimmo|L|Flyout|X|Changeup|13|1|1|2|6|91
+Mauricio Cabrera|R|J.T. Realmuto|R|Walk|B|Slider|0|0|0|2|14|81
+Mauricio Cabrera|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|1|1|0|2|12|99
+Mauricio Cabrera|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|2|2|0|2|13|98
+Mauricio Cabrera|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|3|3|0|2|13|98
+Mauricio Cabrera|R|Adeiny Hechavarria|R|Forceout|C|Four-Seam Fastball|4|0|0|2|7|98
+Mauricio Cabrera|R|Adeiny Hechavarria|R|Forceout|X|Four-Seam Fastball|5|0|1|2|9|99
+Mauricio Cabrera|R|Ichiro Suzuki|L|Forceout|C|Four-Seam Fastball|6|0|0|0|7|99
+Mauricio Cabrera|R|Ichiro Suzuki|L|Forceout|B|Changeup|7|0|1|0|12|91
+Mauricio Cabrera|R|Ichiro Suzuki|L|Forceout|X|Four-Seam Fastball|8|1|1|0|4|99
+Mauricio Cabrera|R|Dee Gordon|L|Forceout|B|Four-Seam Fastball|9|0|0|1|11|99
+Mauricio Cabrera|R|Dee Gordon|L|Forceout|C|Four-Seam Fastball|10|1|0|1|6|99
+Mauricio Cabrera|R|Dee Gordon|L|Forceout|X|Four-Seam Fastball|11|1|1|1|12|100
+Mauricio Cabrera|R|Christian Yelich|L|Groundout|C|Four-Seam Fastball|0|0|0|0|8|98
+Mauricio Cabrera|R|Christian Yelich|L|Groundout|B|Changeup|1|0|1|0|14|91
+Mauricio Cabrera|R|Christian Yelich|L|Groundout|B|Four-Seam Fastball|2|1|1|0|11|100
+Mauricio Cabrera|R|Christian Yelich|L|Groundout|B|Four-Seam Fastball|3|2|1|0|14|99
+Mauricio Cabrera|R|Christian Yelich|L|Groundout|X|Four-Seam Fastball|4|3|1|0|12|98
+Mauricio Cabrera|R|Jeff Francoeur|R|Walk|B|Four-Seam Fastball|5|0|0|1|14|98
+Mauricio Cabrera|R|Jeff Francoeur|R|Walk|B|Four-Seam Fastball|6|1|0|1|14|99
+Mauricio Cabrera|R|Jeff Francoeur|R|Walk|B|Four-Seam Fastball|7|2|0|1|14|99
+Mauricio Cabrera|R|Jeff Francoeur|R|Walk|B|Four-Seam Fastball|8|3|0|1|12|99
+Mauricio Cabrera|R|Justin Bour|L|Lineout|C|Four-Seam Fastball|9|0|0|1|8|98
+Mauricio Cabrera|R|Justin Bour|L|Lineout|B|Changeup|10|0|1|1|13|89
+Mauricio Cabrera|R|Justin Bour|L|Lineout|F|Four-Seam Fastball|11|1|1|1|13|99
+Mauricio Cabrera|R|Justin Bour|L|Lineout|X|Four-Seam Fastball|12|1|2|1|11|100
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|C|Slider|0|0|0|2|11|81
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|1|0|1|2|14|100
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Slider|2|1|1|2|14|84
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|S|Slider|3|2|1|2|9|84
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|4|2|2|2|14|100
+Mauricio Cabrera|R|Tommy Joseph|R|Walk|B|Four-Seam Fastball|5|3|2|2|14|100
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|4|98
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|C|Slider|7|0|1|2|6|83
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|B|Four-Seam Fastball|8|0|2|2|14|100
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|F|Slider|9|1|2|2|12|83
+Mauricio Cabrera|R|Cameron Rupp|R|Strikeout|S|Four-Seam Fastball|10|1|2|2|14|100
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|B|Four-Seam Fastball|0|0|0|2|14|96
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|B|Slider|1|1|0|2|12|80
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|C|Slider|2|2|0|2|3|82
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|S|Slider|3|2|1|2|14|84
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|F|Four-Seam Fastball|4|2|2|2|11|98
+Mauricio Cabrera|R|Tommy Joseph|R|Lineout|X|Four-Seam Fastball|5|2|2|2|5|98
+Mauricio Cabrera|R|Erick Aybar|L|Double|C|Changeup|0|0|0|0|3|90
+Mauricio Cabrera|R|Erick Aybar|L|Double|D|Changeup|1|0|1|0|5|91
+Mauricio Cabrera|R|Ian Kinsler|R|Walk|B|Four-Seam Fastball|2|0|0|0|12|99
+Mauricio Cabrera|R|Ian Kinsler|R|Walk|B|Slider|3|1|0|0|14|84
+Mauricio Cabrera|R|Ian Kinsler|R|Walk|B|Four-Seam Fastball|4|2|0|0|3|100
+Mauricio Cabrera|R|Ian Kinsler|R|Walk|B|Four-Seam Fastball|5|3|0|0|12|99
+Mauricio Cabrera|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|6|0|0|0|14|100
+Mauricio Cabrera|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|7|1|0|0|13|100
+Mauricio Cabrera|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|8|2|0|0|13|100
+Mauricio Cabrera|R|Cameron Maybin|R|Walk|C|Four-Seam Fastball|9|3|0|0|5|100
+Mauricio Cabrera|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|10|3|1|0|3|100

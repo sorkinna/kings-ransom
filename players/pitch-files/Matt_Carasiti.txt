@@ -1,0 +1,492 @@
+Matt Carasiti|R|Justin Upton|R|Walk|B|Sinker|0|0|0|0|14|95
+Matt Carasiti|R|Justin Upton|R|Walk|C|Sinker|1|1|0|0|3|95
+Matt Carasiti|R|Justin Upton|R|Walk|S|Forkball|2|1|1|0|14|80
+Matt Carasiti|R|Justin Upton|R|Walk|F|Forkball|3|1|2|0|5|80
+Matt Carasiti|R|Justin Upton|R|Walk|B|Forkball|4|1|2|0|1|80
+Matt Carasiti|R|Justin Upton|R|Walk|B|Sinker|5|2|2|0|14|95
+Matt Carasiti|R|Justin Upton|R|Walk|B|Forkball|6|3|2|0|11|80
+Matt Carasiti|R|Andrelton Simmons|R|Grounded Into DP|C|Cutter|7|0|0|0|9|90
+Matt Carasiti|R|Andrelton Simmons|R|Grounded Into DP|B|Sinker|8|0|1|0|14|95
+Matt Carasiti|R|Andrelton Simmons|R|Grounded Into DP|*B|Forkball|9|1|1|0|14|79
+Matt Carasiti|R|Andrelton Simmons|R|Grounded Into DP|X|Cutter|10|2|1|0|12|89
+Matt Carasiti|R|Albert Pujols|R|Flyout|S|Cutter|11|0|0|2|9|89
+Matt Carasiti|R|Albert Pujols|R|Flyout|S|Forkball|12|0|1|2|4|81
+Matt Carasiti|R|Albert Pujols|R|Flyout|X|Forkball|13|0|2|2|13|80
+Matt Carasiti|R|David Fletcher|R|Walk|B|Sinker|0|0|0|0|14|94
+Matt Carasiti|R|David Fletcher|R|Walk|B|Sinker|1|1|0|0|14|93
+Matt Carasiti|R|David Fletcher|R|Walk|C|Cutter|2|2|0|0|9|90
+Matt Carasiti|R|David Fletcher|R|Walk|B|Cutter|3|2|1|0|14|90
+Matt Carasiti|R|David Fletcher|R|Walk|B|Sinker|4|3|1|0|14|93
+Matt Carasiti|R|Andrelton Simmons|R|Walk|B|Cutter|5|0|0|0|14|90
+Matt Carasiti|R|Andrelton Simmons|R|Walk|C|Sinker|6|1|0|0|14|94
+Matt Carasiti|R|Andrelton Simmons|R|Walk|B|Sinker|7|1|1|0|14|94
+Matt Carasiti|R|Andrelton Simmons|R|Walk|B|Sinker|8|2|1|0|14|94
+Matt Carasiti|R|Andrelton Simmons|R|Walk|B|Cutter|9|3|1|0|14|91
+Matt Carasiti|R|Shohei Ohtani|L|Sac Fly|C|Sinker|10|0|0|0|8|94
+Matt Carasiti|R|Shohei Ohtani|L|Sac Fly|E|Forkball|11|0|1|0|7|80
+Matt Carasiti|R|Justin Upton|R|Strikeout|C|Cutter|12|0|0|1|8|91
+Matt Carasiti|R|Justin Upton|R|Strikeout|C|Cutter|13|0|1|1|8|89
+Matt Carasiti|R|Justin Upton|R|Strikeout|F|Forkball|14|0|2|1|4|81
+Matt Carasiti|R|Justin Upton|R|Strikeout|B|Forkball|15|0|2|1|11|78
+Matt Carasiti|R|Justin Upton|R|Strikeout|B|Forkball|16|1|2|1|11|79
+Matt Carasiti|R|Justin Upton|R|Strikeout|F|Cutter|17|2|2|1|3|89
+Matt Carasiti|R|Justin Upton|R|Strikeout|F|Forkball|18|2|2|1|8|81
+Matt Carasiti|R|Justin Upton|R|Strikeout|S|Sinker|19|2|2|1|11|95
+Matt Carasiti|R|Albert Pujols|R|Groundout|B|Cutter|20|0|0|2|14|89
+Matt Carasiti|R|Albert Pujols|R|Groundout|B|Sinker|21|1|0|2|12|94
+Matt Carasiti|R|Albert Pujols|R|Groundout|F|Cutter|22|2|0|2|12|89
+Matt Carasiti|R|Albert Pujols|R|Groundout|C|Sinker|23|2|1|2|8|94
+Matt Carasiti|R|Albert Pujols|R|Groundout|X|Sinker|24|2|2|2|12|95
+Matt Carasiti|R|George Springer|R|Strikeout|B|Sinker|0|0|0|0|14|96
+Matt Carasiti|R|George Springer|R|Strikeout|S|Cutter|1|1|0|0|14|91
+Matt Carasiti|R|George Springer|R|Strikeout|S|Sinker|2|1|1|0|3|96
+Matt Carasiti|R|George Springer|R|Strikeout|B|Forkball|3|1|2|0|14|83
+Matt Carasiti|R|George Springer|R|Strikeout|B|Cutter|4|2|2|0|12|91
+Matt Carasiti|R|George Springer|R|Strikeout|F|Cutter|5|3|2|0|6|91
+Matt Carasiti|R|George Springer|R|Strikeout|S|Sinker|6|3|2|0|12|97
+Matt Carasiti|R|Jose Altuve|R|Groundout|B|Cutter|7|0|0|1|12|92
+Matt Carasiti|R|Jose Altuve|R|Groundout|C|Sinker|8|1|0|1|3|96
+Matt Carasiti|R|Jose Altuve|R|Groundout|L|Cutter|9|1|1|1|3|92
+Matt Carasiti|R|Jose Altuve|R|Groundout|B|Forkball|10|1|2|1|14|82
+Matt Carasiti|R|Jose Altuve|R|Groundout|X|Forkball|11|2|2|1|14|82
+Matt Carasiti|R|Alex Bregman|R|Single|C|Sinker|12|0|0|2|2|96
+Matt Carasiti|R|Alex Bregman|R|Single|B|Sinker|13|0|1|2|12|96
+Matt Carasiti|R|Alex Bregman|R|Single|S|Forkball|14|1|1|2|8|81
+Matt Carasiti|R|Alex Bregman|R|Single|B|Sinker|15|1|2|2|12|97
+Matt Carasiti|R|Alex Bregman|R|Single|F|Cutter|16|2|2|2|3|90
+Matt Carasiti|R|Alex Bregman|R|Single|D|Forkball|17|2|2|2|12|82
+Matt Carasiti|R|Michael Brantley|L|Single|F|Sinker|18|0|0|2|2|95
+Matt Carasiti|R|Michael Brantley|L|Single|*B|Changeup|19|0|1|2|14|87
+Matt Carasiti|R|Michael Brantley|L|Single|B|Sinker|20|1|1|2|11|94
+Matt Carasiti|R|Michael Brantley|L|Single|D|Sinker|21|2|1|2|13|94
+Matt Carasiti|R|Yuli Gurriel|R|Pop Out|B|Cutter|22|0|0|2|11|90
+Matt Carasiti|R|Yuli Gurriel|R|Pop Out|X|Cutter|23|1|0|2|5|89
+Matt Carasiti|R|Richie Martin|R|Strikeout|C|Sinker|0|0|0|0|1|95
+Matt Carasiti|R|Richie Martin|R|Strikeout|B|Sinker|1|0|1|0|14|95
+Matt Carasiti|R|Richie Martin|R|Strikeout|F|Cutter|2|1|1|0|2|91
+Matt Carasiti|R|Richie Martin|R|Strikeout|S|Forkball|3|1|2|0|9|81
+Matt Carasiti|R|Hanser Alberto|R|Double|D|Cutter|4|0|0|1|8|90
+Matt Carasiti|R|Rio Ruiz|L|Strikeout|F|Sinker|5|0|0|1|3|96
+Matt Carasiti|R|Rio Ruiz|L|Strikeout|S|Cutter|6|0|1|1|12|89
+Matt Carasiti|R|Rio Ruiz|L|Strikeout|B|Forkball|7|0|2|1|13|82
+Matt Carasiti|R|Rio Ruiz|L|Strikeout|*B|Forkball|8|1|2|1|14|81
+Matt Carasiti|R|Rio Ruiz|L|Strikeout|S|Sinker|9|2|2|1|11|95
+Matt Carasiti|R|Pedro Severino|R|Strikeout|B|Sinker|10|0|0|2|11|94
+Matt Carasiti|R|Pedro Severino|R|Strikeout|C|Sinker|11|1|0|2|9|94
+Matt Carasiti|R|Pedro Severino|R|Strikeout|S|Cutter|12|1|1|2|9|91
+Matt Carasiti|R|Pedro Severino|R|Strikeout|B|Cutter|13|1|2|2|14|90
+Matt Carasiti|R|Pedro Severino|R|Strikeout|S|Forkball|14|2|2|2|13|83
+Matt Carasiti|R|Yairo Munoz|R|Lineout|F|Cutter|0|0|0|0|3|89
+Matt Carasiti|R|Yairo Munoz|R|Lineout|B|Forkball|1|0|1|0|14|81
+Matt Carasiti|R|Yairo Munoz|R|Lineout|B|Sinker|2|1|1|0|14|95
+Matt Carasiti|R|Yairo Munoz|R|Lineout|X|Sinker|3|2|1|0|8|95
+Matt Carasiti|R|Jose Martinez|R|Home Run|C|Sinker|4|0|0|1|9|96
+Matt Carasiti|R|Jose Martinez|R|Home Run|E|Forkball|5|0|1|1|5|81
+Matt Carasiti|R|Paul DeJong|R|Single|C|Sinker|6|0|0|1|6|95
+Matt Carasiti|R|Paul DeJong|R|Single|D|Sinker|7|0|1|1|5|96
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|F|Sinker|8|0|0|1|2|94
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|*B|Forkball|9|0|1|1|14|81
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|B|Forkball|10|1|1|1|14|80
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|B|Cutter|11|2|1|1|14|89
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|C|Sinker|12|3|1|1|6|94
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout Double Play|T|Sinker|13|3|2|1|5|94
+Matt Carasiti|R|Tommy Edman|L|Strikeout|C|Sinker|0|0|0|0|5|94
+Matt Carasiti|R|Tommy Edman|L|Strikeout|C|Sinker|1|0|1|0|9|93
+Matt Carasiti|R|Tommy Edman|L|Strikeout|F|Sinker|2|0|2|0|11|95
+Matt Carasiti|R|Tommy Edman|L|Strikeout|B|Forkball|3|0|2|0|14|81
+Matt Carasiti|R|Tommy Edman|L|Strikeout|T|Sinker|4|1|2|0|11|95
+Matt Carasiti|R|Jose Martinez|R|Single|C|Sinker|5|0|0|1|9|95
+Matt Carasiti|R|Jose Martinez|R|Single|D|Sinker|6|0|1|1|4|95
+Matt Carasiti|R|Paul DeJong|R|Flyout|F|Sinker|7|0|0|1|3|95
+Matt Carasiti|R|Paul DeJong|R|Flyout|B|Sinker|8|0|1|1|12|93
+Matt Carasiti|R|Paul DeJong|R|Flyout|F|Cutter|9|1|1|1|6|90
+Matt Carasiti|R|Paul DeJong|R|Flyout|X|Forkball|10|1|2|1|14|79
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout|C|Sinker|11|0|0|2|3|95
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout|S|Sinker|12|0|1|2|11|94
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout|B|Sinker|13|0|2|2|11|94
+Matt Carasiti|R|Paul Goldschmidt|R|Strikeout|S|Sinker|14|1|2|2|12|95
+Matt Carasiti|R|Marcus Semien|R|Single|C|Sinker|0|0|0|0|8|94
+Matt Carasiti|R|Marcus Semien|R|Single|B|Sinker|1|0|1|0|13|94
+Matt Carasiti|R|Marcus Semien|R|Single|B|Sinker|2|1|1|0|14|95
+Matt Carasiti|R|Marcus Semien|R|Single|D|Sinker|3|2|1|0|13|95
+Matt Carasiti|R|Robbie Grossman|L|Walk|B|Sinker|4|0|0|0|13|94
+Matt Carasiti|R|Robbie Grossman|L|Walk|F|Sinker|5|1|0|0|11|93
+Matt Carasiti|R|Robbie Grossman|L|Walk|B|Sinker|6|1|1|0|11|94
+Matt Carasiti|R|Robbie Grossman|L|Walk|B|Sinker|7|2|1|0|11|94
+Matt Carasiti|R|Robbie Grossman|L|Walk|B|Sinker|8|3|1|0|11|94
+Matt Carasiti|R|Matt Olson|L|Home Run|B|Sinker|9|0|0|0|14|95
+Matt Carasiti|R|Matt Olson|L|Home Run|C|Sinker|10|1|0|0|11|95
+Matt Carasiti|R|Matt Olson|L|Home Run|S|Forkball|11|1|1|0|13|81
+Matt Carasiti|R|Matt Olson|L|Home Run|F|Forkball|12|1|2|0|13|80
+Matt Carasiti|R|Matt Olson|L|Home Run|B|Sinker|13|1|2|0|12|95
+Matt Carasiti|R|Matt Olson|L|Home Run|E|Forkball|14|2|2|0|7|80
+Matt Carasiti|R|Khris Davis|R|Strikeout|T|Sinker|15|0|0|0|2|95
+Matt Carasiti|R|Khris Davis|R|Strikeout|B|Sinker|16|0|1|0|12|95
+Matt Carasiti|R|Khris Davis|R|Strikeout|C|Cutter|17|1|1|0|7|91
+Matt Carasiti|R|Khris Davis|R|Strikeout|F|Forkball|18|1|2|0|3|81
+Matt Carasiti|R|Khris Davis|R|Strikeout|B|Sinker|19|1|2|0|11|95
+Matt Carasiti|R|Khris Davis|R|Strikeout|C|Sinker|20|2|2|0|5|94
+Matt Carasiti|R|Mark Canha|R|Double|D|Sinker|21|0|0|1|3|95
+Matt Carasiti|R|Ramon Laureano|R|Single|B|Cutter|22|0|0|1|12|90
+Matt Carasiti|R|Ramon Laureano|R|Single|S|Sinker|23|1|0|1|11|94
+Matt Carasiti|R|Ramon Laureano|R|Single|B|Sinker|24|1|1|1|9|94
+Matt Carasiti|R|Ramon Laureano|R|Single|B|Cutter|25|2|1|1|12|90
+Matt Carasiti|R|Ramon Laureano|R|Single|C|Sinker|26|3|1|1|6|94
+Matt Carasiti|R|Ramon Laureano|R|Single|D|Sinker|27|3|2|1|14|94
+Matt Carasiti|R|Justin Upton|R|Groundout|B|Sinker|0|0|0|2|14|94
+Matt Carasiti|R|Justin Upton|R|Groundout|B|Sinker|1|1|0|2|14|95
+Matt Carasiti|R|Justin Upton|R|Groundout|C|Sinker|2|2|0|2|14|94
+Matt Carasiti|R|Justin Upton|R|Groundout|S|Cutter|3|2|1|2|12|91
+Matt Carasiti|R|Justin Upton|R|Groundout|B|Forkball|4|2|2|2|14|84
+Matt Carasiti|R|Justin Upton|R|Groundout|X|Sinker|5|3|2|2|8|96
+Matt Carasiti|R|Shin-Soo Choo|L|Groundout|B|Cutter|0|0|0|0|14|92
+Matt Carasiti|R|Shin-Soo Choo|L|Groundout|X|Sinker|1|1|0|0|7|96
+Matt Carasiti|R|Elvis Andrus|R|Groundout|B|Sinker|2|0|0|1|12|96
+Matt Carasiti|R|Elvis Andrus|R|Groundout|B|Sinker|3|1|0|1|14|95
+Matt Carasiti|R|Elvis Andrus|R|Groundout|C|Sinker|4|2|0|1|6|96
+Matt Carasiti|R|Elvis Andrus|R|Groundout|B|Sinker|5|2|1|1|14|97
+Matt Carasiti|R|Elvis Andrus|R|Groundout|C|Sinker|6|3|1|1|2|96
+Matt Carasiti|R|Elvis Andrus|R|Groundout|X|Sinker|7|3|2|1|12|96
+Matt Carasiti|R|Nomar Mazara|L|Flyout|B|Sinker|8|0|0|2|9|96
+Matt Carasiti|R|Nomar Mazara|L|Flyout|F|Cutter|9|1|0|2|3|92
+Matt Carasiti|R|Nomar Mazara|L|Flyout|X|Changeup|10|1|1|2|13|88
+Matt Carasiti|R|Brandon Dixon|R|Single|B|Cutter|0|0|0|0|14|91
+Matt Carasiti|R|Brandon Dixon|R|Single|B|Sinker|1|1|0|0|14|96
+Matt Carasiti|R|Brandon Dixon|R|Single|F|Sinker|2|2|0|0|4|96
+Matt Carasiti|R|Brandon Dixon|R|Single|F|Sinker|3|2|1|0|1|96
+Matt Carasiti|R|Brandon Dixon|R|Single|D|Sinker|4|2|2|0|4|97
+Matt Carasiti|R|Christin Stewart|L|Double Play|X|Sinker|5|0|0|0|8|95
+Matt Carasiti|R|Jeimer Candelario|L|Strikeout|S|Sinker|6|0|0|2|13|97
+Matt Carasiti|R|Jeimer Candelario|L|Strikeout|B|Cutter|7|0|1|2|12|91
+Matt Carasiti|R|Jeimer Candelario|L|Strikeout|S|Changeup|8|1|1|2|13|89
+Matt Carasiti|R|Jeimer Candelario|L|Strikeout|S|Forkball|9|1|2|2|14|83
+Matt Carasiti|R|Jordy Mercer|R|Groundout|B|Sinker|10|0|0|2|12|95
+Matt Carasiti|R|Jordy Mercer|R|Groundout|C|Sinker|11|1|0|2|2|94
+Matt Carasiti|R|Jordy Mercer|R|Groundout|F|Cutter|12|1|1|2|6|91
+Matt Carasiti|R|Jordy Mercer|R|Groundout|*B|Forkball|13|1|2|2|14|83
+Matt Carasiti|R|Jordy Mercer|R|Groundout|X|Sinker|14|2|2|2|2|95
+Matt Carasiti|R|Yasmani Grandal|L|Walk|C|Sinker|0|0|0|0|8|96
+Matt Carasiti|R|Yasmani Grandal|L|Walk|B|Sinker|1|0|1|0|13|95
+Matt Carasiti|R|Yasmani Grandal|L|Walk|B|Cutter|2|1|1|0|12|91
+Matt Carasiti|R|Yasmani Grandal|L|Walk|B|Sinker|3|2|1|0|13|95
+Matt Carasiti|R|Yasmani Grandal|L|Walk|B|Sinker|4|3|1|0|14|95
+Matt Carasiti|R|Christian Yelich|L|Forceout|C|Sinker|5|0|0|0|5|95
+Matt Carasiti|R|Christian Yelich|L|Forceout|B|Cutter|6|0|1|0|12|91
+Matt Carasiti|R|Christian Yelich|L|Forceout|X|Sinker|7|1|1|0|13|94
+Matt Carasiti|R|Mike Moustakas|L|Flyout|B|Sinker|8|0|0|1|12|96
+Matt Carasiti|R|Mike Moustakas|L|Flyout|T|Sinker|9|1|0|1|3|94
+Matt Carasiti|R|Mike Moustakas|L|Flyout|F|Sinker|10|1|1|1|6|95
+Matt Carasiti|R|Mike Moustakas|L|Flyout|F|Forkball|11|1|2|1|9|82
+Matt Carasiti|R|Mike Moustakas|L|Flyout|*B|Forkball|12|1|2|1|14|81
+Matt Carasiti|R|Mike Moustakas|L|Flyout|B|Sinker|13|2|2|1|11|96
+Matt Carasiti|R|Mike Moustakas|L|Flyout|X|Sinker|14|3|2|1|2|95
+Matt Carasiti|R|Ryan Braun|R|Forceout|C|Sinker|15|0|0|2|5|95
+Matt Carasiti|R|Ryan Braun|R|Forceout|B|Sinker|16|0|1|2|11|95
+Matt Carasiti|R|Ryan Braun|R|Forceout|X|Sinker|17|1|1|2|2|95
+Matt Carasiti|R|Peter Bourjos|R|Flyout|B|Two-Seam Fastball|0|0|0|0|14|95
+Matt Carasiti|R|Peter Bourjos|R|Flyout|B|Four-Seam Fastball|1|1|0|0|14|93
+Matt Carasiti|R|Peter Bourjos|R|Flyout|X|Two-Seam Fastball|2|2|0|0|11|96
+Matt Carasiti|R|Taylor Featherston|R|Lineout|X|Two-Seam Fastball|3|0|0|1|5|96
+Matt Carasiti|R|Cesar Hernandez|L|Single|C|Four-Seam Fastball|4|0|0|2|13|95
+Matt Carasiti|R|Cesar Hernandez|L|Single|B|Forkball|5|0|1|2|13|81
+Matt Carasiti|R|Cesar Hernandez|L|Single|C|Forkball|6|1|1|2|7|81
+Matt Carasiti|R|Cesar Hernandez|L|Single|D|Four-Seam Fastball|7|1|2|2|6|95
+Matt Carasiti|R|Odubel Herrera|L|Field Error|B|Two-Seam Fastball|8|0|0|2|11|96
+Matt Carasiti|R|Odubel Herrera|L|Field Error|D|Two-Seam Fastball|9|1|0|2|9|95
+Matt Carasiti|R|Aaron Altherr|R|Single|E|Four-Seam Fastball|10|0|0|2|13|93
+Matt Carasiti|R|Maikel Franco|R|Strikeout|B|Four-Seam Fastball|11|0|0|2|14|97
+Matt Carasiti|R|Maikel Franco|R|Strikeout|W|Changeup|12|1|0|2|13|86
+Matt Carasiti|R|Maikel Franco|R|Strikeout|S|Forkball|13|1|1|2|2|81
+Matt Carasiti|R|Maikel Franco|R|Strikeout|F|Forkball|14|1|2|2|9|81
+Matt Carasiti|R|Maikel Franco|R|Strikeout|C|Forkball|15|1|2|2|11|81
+Matt Carasiti|R|Ryan Howard|L|Single|B|Forkball|16|0|0|0|14|81
+Matt Carasiti|R|Ryan Howard|L|Single|D|Two-Seam Fastball|17|1|0|0|13|95
+Matt Carasiti|R|Cameron Rupp|R|Single|B|Four-Seam Fastball|18|0|0|0|11|95
+Matt Carasiti|R|Cameron Rupp|R|Single|D|Two-Seam Fastball|19|1|0|0|8|96
+Matt Carasiti|R|Freddy Galvis|L|Walk|F|Four-Seam Fastball|20|0|0|0|9|95
+Matt Carasiti|R|Freddy Galvis|L|Walk|F|Forkball|21|0|1|0|13|79
+Matt Carasiti|R|Freddy Galvis|L|Walk|B|Four-Seam Fastball|22|0|2|0|12|96
+Matt Carasiti|R|Freddy Galvis|L|Walk|B|Forkball|23|1|2|0|11|81
+Matt Carasiti|R|Freddy Galvis|L|Walk|B|Forkball|24|2|2|0|11|79
+Matt Carasiti|R|Freddy Galvis|L|Walk|B|Forkball|25|3|2|0|11|81
+Matt Carasiti|R|Peter Bourjos|R|Grounded Into DP|E|Two-Seam Fastball|26|0|0|0|5|95
+Matt Carasiti|R|Jimmy Paredes|L|Strikeout|B|Forkball|27|0|0|2|13|81
+Matt Carasiti|R|Jimmy Paredes|L|Strikeout|F|Four-Seam Fastball|28|1|0|2|14|94
+Matt Carasiti|R|Jimmy Paredes|L|Strikeout|S|Forkball|29|1|1|2|13|82
+Matt Carasiti|R|Jimmy Paredes|L|Strikeout|F|Forkball|30|1|2|2|14|81
+Matt Carasiti|R|Jimmy Paredes|L|Strikeout|C|Two-Seam Fastball|31|1|2|2|12|96
+Matt Carasiti|R|Brian Goodwin|L|Walk|C|Changeup|0|0|0|0|1|84
+Matt Carasiti|R|Brian Goodwin|L|Walk|B|Forkball|1|0|1|0|11|78
+Matt Carasiti|R|Brian Goodwin|L|Walk|S|Four-Seam Fastball|2|1|1|0|1|93
+Matt Carasiti|R|Brian Goodwin|L|Walk|B|Forkball|3|1|2|0|14|79
+Matt Carasiti|R|Brian Goodwin|L|Walk|F|Forkball|4|2|2|0|4|78
+Matt Carasiti|R|Brian Goodwin|L|Walk|B|Four-Seam Fastball|5|2|2|0|11|92
+Matt Carasiti|R|Brian Goodwin|L|Walk|F|Two-Seam Fastball|6|3|2|0|12|93
+Matt Carasiti|R|Brian Goodwin|L|Walk|B|Forkball|7|3|2|0|9|79
+Matt Carasiti|R|Trea Turner|R|Forceout|F|Four-Seam Fastball|8|0|0|0|5|94
+Matt Carasiti|R|Trea Turner|R|Forceout|B|Four-Seam Fastball|9|0|1|0|12|93
+Matt Carasiti|R|Trea Turner|R|Forceout|X|Changeup|10|1|1|0|9|84
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|B|Four-Seam Fastball|11|0|0|1|14|93
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|C|Four-Seam Fastball|12|1|0|1|5|94
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|B|Forkball|13|1|1|1|11|79
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|S|Forkball|14|2|1|1|13|78
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|B|Two-Seam Fastball|15|2|2|1|12|94
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|F|Forkball|16|3|2|1|7|79
+Matt Carasiti|R|Jayson Werth|R|Hit By Pitch|H|Forkball|17|3|2|1|11|80
+Matt Carasiti|R|Anthony Rendon|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|4|95
+Matt Carasiti|R|Anthony Rendon|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|91
+Matt Carasiti|R|Anthony Rendon|R|Strikeout|S|Changeup|2|1|1|0|13|85
+Matt Carasiti|R|Anthony Rendon|R|Strikeout|W|Forkball|3|1|2|0|14|79
+Matt Carasiti|R|Pedro Severino|R|Home Run|B|Cutter|4|0|0|1|11|92
+Matt Carasiti|R|Pedro Severino|R|Home Run|B|Four-Seam Fastball|5|1|0|1|14|92
+Matt Carasiti|R|Pedro Severino|R|Home Run|E|Four-Seam Fastball|6|2|0|1|2|93
+Matt Carasiti|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|7|0|0|1|11|93
+Matt Carasiti|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|8|1|0|1|14|93
+Matt Carasiti|R|Danny Espinosa|L|Walk|F|Four-Seam Fastball|9|2|0|1|6|94
+Matt Carasiti|R|Danny Espinosa|L|Walk|F|Four-Seam Fastball|10|2|1|1|7|93
+Matt Carasiti|R|Danny Espinosa|L|Walk|B|Changeup|11|2|2|1|11|85
+Matt Carasiti|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|12|3|2|1|11|93
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|C|Four-Seam Fastball|13|0|0|1|11|93
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|F|Changeup|14|0|1|1|13|85
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|B|Forkball|15|0|2|1|11|79
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|B|Forkball|16|1|2|1|13|78
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|F|Two-Seam Fastball|17|2|2|1|6|93
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|B|Four-Seam Fastball|18|2|2|1|14|94
+Matt Carasiti|R|Ben Revere|L|Grounded Into DP|X|Four-Seam Fastball|19|3|2|1|3|93
+Matt Carasiti|R|Matt Szczur|R|Lineout|F|Four-Seam Fastball|0|0|0|0|3|93
+Matt Carasiti|R|Matt Szczur|R|Lineout|C|Four-Seam Fastball|1|0|1|0|14|91
+Matt Carasiti|R|Matt Szczur|R|Lineout|X|Forkball|2|0|2|0|8|79
+Matt Carasiti|R|Willson Contreras|R|Single|B|Four-Seam Fastball|3|0|0|1|11|92
+Matt Carasiti|R|Willson Contreras|R|Single|B|Forkball|4|1|0|1|14|79
+Matt Carasiti|R|Willson Contreras|R|Single|S|Four-Seam Fastball|5|2|0|1|11|90
+Matt Carasiti|R|Willson Contreras|R|Single|B|Four-Seam Fastball|6|2|1|1|13|92
+Matt Carasiti|R|Willson Contreras|R|Single|D|Four-Seam Fastball|7|3|1|1|7|92
+Matt Carasiti|R|Javier Baez|R|Strikeout|C|Four-Seam Fastball|8|0|0|1|14|93
+Matt Carasiti|R|Javier Baez|R|Strikeout|B|Four-Seam Fastball|9|0|1|1|13|91
+Matt Carasiti|R|Javier Baez|R|Strikeout|F|Four-Seam Fastball|10|1|1|1|14|93
+Matt Carasiti|R|Javier Baez|R|Strikeout|W|Forkball|11|1|2|1|14|79
+Matt Carasiti|R|Ben Zobrist|L|Walk|B|Forkball|12|0|0|2|13|78
+Matt Carasiti|R|Ben Zobrist|L|Walk|*B|Four-Seam Fastball|13|1|0|2|14|93
+Matt Carasiti|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|14|2|0|2|13|92
+Matt Carasiti|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|15|3|0|2|13|93
+Matt Carasiti|R|Dexter Fowler|L|Single|C|Four-Seam Fastball|16|0|0|2|2|90
+Matt Carasiti|R|Dexter Fowler|L|Single|B|Four-Seam Fastball|17|0|1|2|12|91
+Matt Carasiti|R|Dexter Fowler|L|Single|E|Four-Seam Fastball|18|1|1|2|3|90
+Matt Carasiti|R|Kris Bryant|R|Lineout|*B|Changeup|19|0|0|2|13|84
+Matt Carasiti|R|Kris Bryant|R|Lineout|B|Two-Seam Fastball|20|1|0|2|14|94
+Matt Carasiti|R|Kris Bryant|R|Lineout|X|Two-Seam Fastball|21|2|0|2|9|93
+Matt Carasiti|R|Kris Bryant|R|Single|B|Four-Seam Fastball|0|0|0|0|14|94
+Matt Carasiti|R|Kris Bryant|R|Single|F|Four-Seam Fastball|1|1|0|0|11|94
+Matt Carasiti|R|Kris Bryant|R|Single|D|Four-Seam Fastball|2|1|1|0|8|93
+Matt Carasiti|R|Anthony Rizzo|L|Single|C|Changeup|3|0|0|0|13|85
+Matt Carasiti|R|Anthony Rizzo|L|Single|F|Two-Seam Fastball|4|0|1|0|13|93
+Matt Carasiti|R|Anthony Rizzo|L|Single|D|Forkball|5|0|2|0|13|79
+Matt Carasiti|R|Ben Zobrist|L|Single|C|Two-Seam Fastball|6|0|0|0|5|93
+Matt Carasiti|R|Ben Zobrist|L|Single|B|Changeup|7|0|1|0|13|86
+Matt Carasiti|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|8|1|1|0|13|94
+Matt Carasiti|R|Ben Zobrist|L|Single|E|Two-Seam Fastball|9|2|1|0|14|94
+Matt Carasiti|R|Jorge Soler|R|Pop Out|E|Two-Seam Fastball|10|0|0|1|11|95
+Matt Carasiti|R|Willson Contreras|R|Lineout|B|Changeup|11|0|0|2|13|84
+Matt Carasiti|R|Willson Contreras|R|Lineout|C|Changeup|12|1|0|2|14|84
+Matt Carasiti|R|Willson Contreras|R|Lineout|B|Changeup|13|1|1|2|14|86
+Matt Carasiti|R|Willson Contreras|R|Lineout|F|Cutter|14|2|1|2|12|91
+Matt Carasiti|R|Willson Contreras|R|Lineout|X|Forkball|15|2|2|2|3|79
+Matt Carasiti|R|Kirk Nieuwenhuis|L|Walk|B|Four-Seam Fastball|0|0|0|0|14|95
+Matt Carasiti|R|Kirk Nieuwenhuis|L|Walk|L|Changeup|1|1|0|0|13|85
+Matt Carasiti|R|Kirk Nieuwenhuis|L|Walk|B|Four-Seam Fastball|2|1|1|0|14|94
+Matt Carasiti|R|Kirk Nieuwenhuis|L|Walk|B|Changeup|3|2|1|0|13|86
+Matt Carasiti|R|Kirk Nieuwenhuis|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|94
+Matt Carasiti|R|Keon Broxton|R|Strikeout|F|Four-Seam Fastball|5|0|0|0|11|94
+Matt Carasiti|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|6|0|1|0|13|94
+Matt Carasiti|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|7|1|1|0|14|96
+Matt Carasiti|R|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|8|2|1|0|4|95
+Matt Carasiti|R|Keon Broxton|R|Strikeout|C|Forkball|9|2|2|0|14|81
+Matt Carasiti|R|Martin Maldonado|R|Double|B|Four-Seam Fastball|10|0|0|1|11|91
+Matt Carasiti|R|Martin Maldonado|R|Double|D|Four-Seam Fastball|11|1|0|1|8|94
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|C|Forkball|12|0|0|1|14|79
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|B|Four-Seam Fastball|13|0|1|1|14|93
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|F|Four-Seam Fastball|14|1|1|1|13|95
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|F|Forkball|15|1|2|1|2|80
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|B|Forkball|16|1|2|1|14|81
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|B|Forkball|17|2|2|1|14|79
+Matt Carasiti|R|Domingo Santana|R|Sac Fly|E|Two-Seam Fastball|18|3|2|1|4|94
+Matt Carasiti|R|Jonathan Villar|L|Pop Out|C|Two-Seam Fastball|19|0|0|2|12|95
+Matt Carasiti|R|Jonathan Villar|L|Pop Out|B|Four-Seam Fastball|20|0|1|2|12|95
+Matt Carasiti|R|Jonathan Villar|L|Pop Out|X|Four-Seam Fastball|21|1|1|2|12|91
+Matt Carasiti|R|Trea Turner|R|Single|S|Changeup|0|0|0|0|13|86
+Matt Carasiti|R|Trea Turner|R|Single|S|Changeup|1|0|1|0|13|85
+Matt Carasiti|R|Trea Turner|R|Single|D|Forkball|2|0|2|0|9|81
+Matt Carasiti|R|Jayson Werth|R|Double|B|Four-Seam Fastball|3|0|0|0|14|95
+Matt Carasiti|R|Jayson Werth|R|Double|C|Two-Seam Fastball|4|1|0|0|7|94
+Matt Carasiti|R|Jayson Werth|R|Double|B|Two-Seam Fastball|5|1|1|0|13|94
+Matt Carasiti|R|Jayson Werth|R|Double|F|Two-Seam Fastball|6|2|1|0|13|94
+Matt Carasiti|R|Jayson Werth|R|Double|B|Forkball|7|2|2|0|11|79
+Matt Carasiti|R|Jayson Werth|R|Double|E|Two-Seam Fastball|8|3|2|0|7|95
+Matt Carasiti|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|9|0|0|0|14|93
+Matt Carasiti|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|10|1|0|0|14|95
+Matt Carasiti|R|Daniel Murphy|L|Walk|*B|Changeup|11|2|0|0|13|86
+Matt Carasiti|R|Daniel Murphy|L|Walk|C|Two-Seam Fastball|12|3|0|0|4|95
+Matt Carasiti|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|13|3|1|0|12|94
+Matt Carasiti|R|Bryce Harper|L|Triple|B|Four-Seam Fastball|14|0|0|0|12|95
+Matt Carasiti|R|Bryce Harper|L|Triple|E|Four-Seam Fastball|15|1|0|0|5|95
+Matt Carasiti|R|Anthony Rendon|R|Sac Fly|C|Four-Seam Fastball|16|0|0|0|1|92
+Matt Carasiti|R|Anthony Rendon|R|Sac Fly|E|Changeup|17|0|1|0|9|86
+Matt Carasiti|R|Ryan Zimmerman|R|Strikeout|F|Two-Seam Fastball|18|0|0|1|9|96
+Matt Carasiti|R|Ryan Zimmerman|R|Strikeout|S|Forkball|19|0|1|1|6|80
+Matt Carasiti|R|Ryan Zimmerman|R|Strikeout|S|Forkball|20|0|2|1|4|79
+Matt Carasiti|R|Danny Espinosa|L|Single|B|Four-Seam Fastball|21|0|0|2|12|95
+Matt Carasiti|R|Danny Espinosa|L|Single|F|Two-Seam Fastball|22|1|0|2|4|95
+Matt Carasiti|R|Danny Espinosa|L|Single|D|Changeup|23|1|1|2|13|85
+Matt Carasiti|R|Jose Lobaton|L|Lineout|B|Two-Seam Fastball|24|0|0|2|11|94
+Matt Carasiti|R|Jose Lobaton|L|Lineout|S|Two-Seam Fastball|25|1|0|2|7|94
+Matt Carasiti|R|Jose Lobaton|L|Lineout|X|Two-Seam Fastball|26|1|1|2|7|94
+Matt Carasiti|R|Chris Heisey|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|5|93
+Matt Carasiti|R|Chris Heisey|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|7|93
+Matt Carasiti|R|Chris Heisey|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|14|92
+Matt Carasiti|R|Chris Heisey|R|Strikeout|S|Forkball|3|1|2|0|14|80
+Matt Carasiti|R|Danny Espinosa|L|Single|S|Changeup|4|0|0|1|13|85
+Matt Carasiti|R|Danny Espinosa|L|Single|S|Changeup|5|0|1|1|13|85
+Matt Carasiti|R|Danny Espinosa|L|Single|D|Forkball|6|0|2|1|8|80
+Matt Carasiti|R|Ben Revere|L|Single|B|Two-Seam Fastball|7|0|0|1|13|94
+Matt Carasiti|R|Ben Revere|L|Single|C|Two-Seam Fastball|8|1|0|1|4|93
+Matt Carasiti|R|Ben Revere|L|Single|D|Two-Seam Fastball|9|1|1|1|9|92
+Matt Carasiti|R|Trea Turner|R|Strikeout|C|Two-Seam Fastball|10|0|0|1|5|94
+Matt Carasiti|R|Trea Turner|R|Strikeout|C|Two-Seam Fastball|11|0|1|1|8|93
+Matt Carasiti|R|Trea Turner|R|Strikeout|C|Two-Seam Fastball|12|0|2|1|14|96
+Matt Carasiti|R|Jayson Werth|R|Strikeout|C|Changeup|13|0|0|2|7|86
+Matt Carasiti|R|Jayson Werth|R|Strikeout|B|Two-Seam Fastball|14|0|1|2|14|94
+Matt Carasiti|R|Jayson Werth|R|Strikeout|F|Two-Seam Fastball|15|1|1|2|8|95
+Matt Carasiti|R|Jayson Werth|R|Strikeout|C|Two-Seam Fastball|16|1|2|2|14|94
+Matt Carasiti|R|Rob Segedin|R|Groundout|C|Two-Seam Fastball|0|0|0|0|14|95
+Matt Carasiti|R|Rob Segedin|R|Groundout|B|Changeup|1|0|1|0|14|85
+Matt Carasiti|R|Rob Segedin|R|Groundout|B|Two-Seam Fastball|2|1|1|0|13|93
+Matt Carasiti|R|Rob Segedin|R|Groundout|F|Two-Seam Fastball|3|2|1|0|11|94
+Matt Carasiti|R|Rob Segedin|R|Groundout|B|Forkball|4|2|2|0|14|79
+Matt Carasiti|R|Rob Segedin|R|Groundout|X|Two-Seam Fastball|5|3|2|0|3|93
+Matt Carasiti|R|Andrew Toles|L|Triple|B|Two-Seam Fastball|6|0|0|1|13|94
+Matt Carasiti|R|Andrew Toles|L|Triple|D|Two-Seam Fastball|7|1|0|1|7|94
+Matt Carasiti|R|Charlie Culberson|R|Groundout|E|Two-Seam Fastball|8|0|0|1|11|95
+Matt Carasiti|R|Howie Kendrick|R|Walk|S|Changeup|9|0|0|2|9|85
+Matt Carasiti|R|Howie Kendrick|R|Walk|B|Changeup|10|0|1|2|14|85
+Matt Carasiti|R|Howie Kendrick|R|Walk|B|Four-Seam Fastball|11|1|1|2|13|92
+Matt Carasiti|R|Howie Kendrick|R|Walk|B|Two-Seam Fastball|12|2|1|2|14|93
+Matt Carasiti|R|Howie Kendrick|R|Walk|B|Two-Seam Fastball|13|3|1|2|14|93
+Matt Carasiti|R|Corey Seager|L|Flyout|C|Two-Seam Fastball|14|0|0|2|9|94
+Matt Carasiti|R|Corey Seager|L|Flyout|*B|Forkball|15|0|1|2|14|81
+Matt Carasiti|R|Corey Seager|L|Flyout|B|Changeup|16|1|1|2|11|84
+Matt Carasiti|R|Corey Seager|L|Flyout|X|Changeup|17|2|1|2|14|84
+Matt Carasiti|R|Justin Turner|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|94
+Matt Carasiti|R|Justin Turner|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|91
+Matt Carasiti|R|Justin Turner|R|Groundout|B|Changeup|2|1|1|0|11|84
+Matt Carasiti|R|Justin Turner|R|Groundout|B|Two-Seam Fastball|3|2|1|0|14|94
+Matt Carasiti|R|Justin Turner|R|Groundout|F|Four-Seam Fastball|4|3|1|0|14|93
+Matt Carasiti|R|Justin Turner|R|Groundout|X|Two-Seam Fastball|5|3|2|0|9|94
+Matt Carasiti|R|Adrian Gonzalez|L|Double|F|Changeup|6|0|0|1|14|85
+Matt Carasiti|R|Adrian Gonzalez|L|Double|S|Forkball|7|0|1|1|14|80
+Matt Carasiti|R|Adrian Gonzalez|L|Double|D|Four-Seam Fastball|8|0|2|1|14|94
+Matt Carasiti|R|Yasmani Grandal|L|Double|C|Two-Seam Fastball|9|0|0|1|1|94
+Matt Carasiti|R|Yasmani Grandal|L|Double|B|Two-Seam Fastball|10|0|1|1|13|93
+Matt Carasiti|R|Yasmani Grandal|L|Double|S|Forkball|11|1|1|1|9|79
+Matt Carasiti|R|Yasmani Grandal|L|Double|E|Forkball|12|1|2|1|7|80
+Matt Carasiti|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|13|0|0|1|13|93
+Matt Carasiti|R|Josh Reddick|L|Walk|F|Four-Seam Fastball|14|1|0|1|8|93
+Matt Carasiti|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|15|1|1|1|12|91
+Matt Carasiti|R|Josh Reddick|L|Walk|B|Changeup|16|2|1|1|13|84
+Matt Carasiti|R|Josh Reddick|L|Walk|*B|Two-Seam Fastball|17|3|1|1|14|95
+Matt Carasiti|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|95
+Matt Carasiti|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|14|95
+Matt Carasiti|R|Wil Myers|R|Strikeout|F|Changeup|2|1|1|0|4|86
+Matt Carasiti|R|Wil Myers|R|Strikeout|B|Forkball|3|1|2|0|11|80
+Matt Carasiti|R|Wil Myers|R|Strikeout|F|Forkball|4|2|2|0|13|78
+Matt Carasiti|R|Wil Myers|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|2|94
+Matt Carasiti|R|Wil Myers|R|Strikeout|S|Forkball|6|2|2|0|4|79
+Matt Carasiti|R|Yangervis Solarte|L|Double|B|Forkball|7|0|0|1|11|84
+Matt Carasiti|R|Yangervis Solarte|L|Double|D|Four-Seam Fastball|8|1|0|1|9|93
+Matt Carasiti|R|Alex Dickerson|L|Single|C|Four-Seam Fastball|9|0|0|1|14|94
+Matt Carasiti|R|Alex Dickerson|L|Single|S|Forkball|10|0|1|1|13|78
+Matt Carasiti|R|Alex Dickerson|L|Single|B|Four-Seam Fastball|11|0|2|1|12|93
+Matt Carasiti|R|Alex Dickerson|L|Single|B|Two-Seam Fastball|12|1|2|1|14|94
+Matt Carasiti|R|Alex Dickerson|L|Single|D|Forkball|13|2|2|1|13|79
+Matt Carasiti|R|Ryan Schimpf|L|Double|E|Four-Seam Fastball|14|0|0|1|4|94
+Matt Carasiti|R|Derek Norris|R|Hit By Pitch|H|Forkball|15|0|0|1|11|84
+Matt Carasiti|R|Luis Sardinas|L|Walk|F|Four-Seam Fastball|16|0|0|1|8|94
+Matt Carasiti|R|Luis Sardinas|L|Walk|B|Two-Seam Fastball|17|0|1|1|14|93
+Matt Carasiti|R|Luis Sardinas|L|Walk|F|Four-Seam Fastball|18|1|1|1|4|94
+Matt Carasiti|R|Luis Sardinas|L|Walk|B|Forkball|19|1|2|1|13|80
+Matt Carasiti|R|Luis Sardinas|L|Walk|F|Forkball|20|2|2|1|13|79
+Matt Carasiti|R|Luis Sardinas|L|Walk|*B|Forkball|21|2|2|1|13|79
+Matt Carasiti|R|Luis Sardinas|L|Walk|*B|Two-Seam Fastball|22|3|2|1|14|93
+Matt Carasiti|R|Jake Lamb|L|Walk|B|Two-Seam Fastball|0|0|0|2|14|94
+Matt Carasiti|R|Jake Lamb|L|Walk|B|Changeup|1|1|0|2|12|85
+Matt Carasiti|R|Jake Lamb|L|Walk|B|Changeup|2|2|0|2|13|84
+Matt Carasiti|R|Jake Lamb|L|Walk|B|Four-Seam Fastball|3|3|0|2|13|93
+Matt Carasiti|R|Brandon Drury|R|Strikeout|C|Four-Seam Fastball|4|0|0|2|8|91
+Matt Carasiti|R|Brandon Drury|R|Strikeout|B|Forkball|5|0|1|2|14|81
+Matt Carasiti|R|Brandon Drury|R|Strikeout|C|Four-Seam Fastball|6|1|1|2|14|94
+Matt Carasiti|R|Brandon Drury|R|Strikeout|S|Forkball|7|1|2|2|8|79
+Matt Carasiti|R|Chris Owings|R|Lineout|X|Four-Seam Fastball|0|0|0|2|4|94
+Matt Carasiti|R|Brandon Moss|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|14|95
+Matt Carasiti|R|Brandon Moss|L|Strikeout|F|Two-Seam Fastball|1|1|0|0|14|94
+Matt Carasiti|R|Brandon Moss|L|Strikeout|B|Changeup|2|1|1|0|14|86
+Matt Carasiti|R|Brandon Moss|L|Strikeout|S|Changeup|3|2|1|0|7|86
+Matt Carasiti|R|Brandon Moss|L|Strikeout|F|Forkball|4|2|2|0|14|80
+Matt Carasiti|R|Brandon Moss|L|Strikeout|S|Forkball|5|2|2|0|13|81
+Matt Carasiti|R|Yadier Molina|R|Groundout|C|Changeup|6|0|0|1|5|86
+Matt Carasiti|R|Yadier Molina|R|Groundout|F|Forkball|7|0|1|1|5|80
+Matt Carasiti|R|Yadier Molina|R|Groundout|X|Forkball|8|0|2|1|14|80
+Matt Carasiti|R|Matt Adams|L|Flyout|X|Two-Seam Fastball|9|0|0|2|7|94
+Matt Carasiti|R|Alberto Rosario|R|Groundout|X|Four-Seam Fastball|0|0|0|0|6|94
+Matt Carasiti|R|Matt Adams|L|Double|S|Two-Seam Fastball|1|0|0|1|14|94
+Matt Carasiti|R|Matt Adams|L|Double|B|Changeup|2|0|1|1|13|84
+Matt Carasiti|R|Matt Adams|L|Double|B|Changeup|3|1|1|1|13|85
+Matt Carasiti|R|Matt Adams|L|Double|B|Four-Seam Fastball|4|2|1|1|13|94
+Matt Carasiti|R|Matt Adams|L|Double|D|Two-Seam Fastball|5|3|1|1|7|95
+Matt Carasiti|R|Brayan Pena|L|Groundout|X|Changeup|6|0|0|1|1|85
+Matt Carasiti|R|Aledmys Diaz|R|Groundout|C|Two-Seam Fastball|7|0|0|2|14|95
+Matt Carasiti|R|Aledmys Diaz|R|Groundout|*B|Forkball|8|0|1|2|14|80
+Matt Carasiti|R|Aledmys Diaz|R|Groundout|B|Forkball|9|1|1|2|14|79
+Matt Carasiti|R|Aledmys Diaz|R|Groundout|B|Two-Seam Fastball|10|2|1|2|14|93
+Matt Carasiti|R|Aledmys Diaz|R|Groundout|X|Two-Seam Fastball|11|3|1|2|6|94
+Matt Carasiti|R|Chase Utley|L|Groundout|C|Changeup|0|0|0|2|13|86
+Matt Carasiti|R|Chase Utley|L|Groundout|B|Changeup|1|0|1|2|11|86
+Matt Carasiti|R|Chase Utley|L|Groundout|B|Four-Seam Fastball|2|1|1|2|11|94
+Matt Carasiti|R|Chase Utley|L|Groundout|X|Two-Seam Fastball|3|2|1|2|7|95
+Matt Carasiti|R|Joe Panik|L|Hit By Pitch|C|Four-Seam Fastball|0|0|0|1|13|93
+Matt Carasiti|R|Joe Panik|L|Hit By Pitch|S|Four-Seam Fastball|1|0|1|1|14|93
+Matt Carasiti|R|Joe Panik|L|Hit By Pitch|H|Forkball|2|0|2|1|14|82
+Matt Carasiti|R|Conor Gillaspie|L|Flyout|F|Four-Seam Fastball|3|0|0|1|5|94
+Matt Carasiti|R|Conor Gillaspie|L|Flyout|*B|Changeup|4|0|1|1|13|85
+Matt Carasiti|R|Conor Gillaspie|L|Flyout|X|Four-Seam Fastball|5|1|1|1|8|95
+Matt Carasiti|R|Matt Moore|L|Strikeout|F|Four-Seam Fastball|6|0|0|2|4|94
+Matt Carasiti|R|Matt Moore|L|Strikeout|B|Four-Seam Fastball|7|0|1|2|14|93
+Matt Carasiti|R|Matt Moore|L|Strikeout|S|Four-Seam Fastball|8|1|1|2|11|95
+Matt Carasiti|R|Matt Moore|L|Strikeout|B|Forkball|9|1|2|2|14|81
+Matt Carasiti|R|Matt Moore|L|Strikeout|C|Four-Seam Fastball|10|2|2|2|8|94
+Matt Carasiti|R|Martin Maldonado|R|Lineout|B|Two-Seam Fastball|0|0|0|0|11|93
+Matt Carasiti|R|Martin Maldonado|R|Lineout|B|Four-Seam Fastball|1|1|0|0|13|94
+Matt Carasiti|R|Martin Maldonado|R|Lineout|F|Changeup|2|2|0|0|5|86
+Matt Carasiti|R|Martin Maldonado|R|Lineout|C|Two-Seam Fastball|3|2|1|0|11|94
+Matt Carasiti|R|Martin Maldonado|R|Lineout|F|Forkball|4|2|2|0|14|80
+Matt Carasiti|R|Martin Maldonado|R|Lineout|X|Forkball|5|2|2|0|14|80
+Matt Carasiti|R|Scooter Gennett|L|Single|F|Four-Seam Fastball|6|0|0|1|6|95
+Matt Carasiti|R|Scooter Gennett|L|Single|D|Two-Seam Fastball|7|0|1|1|12|93
+Matt Carasiti|R|Manny Pina|R|Strikeout|F|Two-Seam Fastball|8|0|0|1|13|95
+Matt Carasiti|R|Manny Pina|R|Strikeout|S|Changeup|9|0|1|1|13|84
+Matt Carasiti|R|Manny Pina|R|Strikeout|S|Forkball|10|0|2|1|6|80
+Matt Carasiti|R|Jonathan Villar|L|Strikeout|C|Two-Seam Fastball|11|0|0|2|12|94
+Matt Carasiti|R|Jonathan Villar|L|Strikeout|F|Two-Seam Fastball|12|0|1|2|14|94
+Matt Carasiti|R|Jonathan Villar|L|Strikeout|C|Two-Seam Fastball|13|0|2|2|14|95
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|93
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|F|Two-Seam Fastball|1|1|0|0|4|94
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|93
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|B|Two-Seam Fastball|3|2|1|0|14|94
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|F|Two-Seam Fastball|4|3|1|0|14|94
+Matt Carasiti|R|Josmil Pinto|R|Strikeout|S|Forkball|5|3|2|0|14|79
+Matt Carasiti|R|Jonathan Villar|L|Walk|B|Two-Seam Fastball|6|0|0|1|14|95
+Matt Carasiti|R|Jonathan Villar|L|Walk|B|Changeup|7|1|0|1|14|86
+Matt Carasiti|R|Jonathan Villar|L|Walk|S|Changeup|8|2|0|1|9|85
+Matt Carasiti|R|Jonathan Villar|L|Walk|B|Changeup|9|2|1|1|13|85
+Matt Carasiti|R|Jonathan Villar|L|Walk|B|Two-Seam Fastball|10|3|1|1|14|94
+Matt Carasiti|R|Scooter Gennett|L|Strikeout|S|Changeup|11|0|0|1|13|85
+Matt Carasiti|R|Scooter Gennett|L|Strikeout|S|Changeup|12|0|1|1|13|85
+Matt Carasiti|R|Scooter Gennett|L|Strikeout|S|Forkball|13|0|2|1|8|81

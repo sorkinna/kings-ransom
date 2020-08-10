@@ -1,0 +1,2777 @@
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|7|92
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|S|Four-Seam Fastball|1|0|1|0|1|93
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|S|Four-Seam Fastball|2|0|2|0|3|94
+Pablo Lopez|R|Jose Bautista|R|Home Run|E|Four-Seam Fastball|3|0|0|1|12|91
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|X|Two-Seam Fastball|4|0|0|1|13|92
+Pablo Lopez|R|Michael Conforto|L|Single|C|Two-Seam Fastball|5|0|0|2|1|92
+Pablo Lopez|R|Michael Conforto|L|Single|B|Changeup|6|0|1|2|13|87
+Pablo Lopez|R|Michael Conforto|L|Single|B|Changeup|7|1|1|2|13|86
+Pablo Lopez|R|Michael Conforto|L|Single|D|Two-Seam Fastball|8|2|1|2|13|93
+Pablo Lopez|R|Wilmer Flores|R|Lineout|B|Curveball|9|0|0|2|11|78
+Pablo Lopez|R|Wilmer Flores|R|Lineout|X|Two-Seam Fastball|10|1|0|2|5|92
+Pablo Lopez|R|Todd Frazier|R|Groundout|B|Two-Seam Fastball|11|0|0|0|13|92
+Pablo Lopez|R|Todd Frazier|R|Groundout|F|Two-Seam Fastball|12|1|0|0|11|92
+Pablo Lopez|R|Todd Frazier|R|Groundout|B|Curveball|13|1|1|0|13|79
+Pablo Lopez|R|Todd Frazier|R|Groundout|X|Two-Seam Fastball|14|2|1|0|5|92
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Two-Seam Fastball|15|0|0|1|7|92
+Pablo Lopez|R|Devin Mesoraco|R|Single|B|Changeup|16|0|1|1|13|88
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Two-Seam Fastball|17|1|1|1|11|92
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Curveball|18|1|2|1|12|80
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Changeup|19|1|2|1|13|87
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Two-Seam Fastball|20|1|2|1|5|92
+Pablo Lopez|R|Devin Mesoraco|R|Single|F|Four-Seam Fastball|21|1|2|1|6|94
+Pablo Lopez|R|Devin Mesoraco|R|Single|D|Two-Seam Fastball|22|1|2|1|8|92
+Pablo Lopez|R|Amed Rosario|R|Single|F|Four-Seam Fastball|23|0|0|1|4|94
+Pablo Lopez|R|Amed Rosario|R|Single|F|Two-Seam Fastball|24|0|1|1|13|92
+Pablo Lopez|R|Amed Rosario|R|Single|F|Changeup|25|0|2|1|13|85
+Pablo Lopez|R|Amed Rosario|R|Single|F|Four-Seam Fastball|26|0|2|1|11|93
+Pablo Lopez|R|Amed Rosario|R|Single|F|Four-Seam Fastball|27|0|2|1|5|93
+Pablo Lopez|R|Amed Rosario|R|Single|D|Curveball|28|0|2|1|5|79
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|L|Two-Seam Fastball|29|0|0|1|7|91
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|B|Four-Seam Fastball|30|0|1|1|11|91
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|L|Two-Seam Fastball|31|1|1|1|4|91
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|F|Curveball|32|1|2|1|14|80
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|F|Changeup|33|1|2|1|11|84
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|B|Two-Seam Fastball|34|1|2|1|11|91
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|F|Two-Seam Fastball|35|2|2|1|13|92
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|B|Four-Seam Fastball|36|2|2|1|14|92
+Pablo Lopez|R|Jacob deGrom|L|Sac Bunt|X|Two-Seam Fastball|37|3|2|1|7|91
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|C|Curveball|38|0|0|2|9|77
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|T|Changeup|39|0|1|2|11|85
+Pablo Lopez|R|Brandon Nimmo|L|Strikeout|S|Four-Seam Fastball|40|0|2|2|3|92
+Pablo Lopez|R|Jose Bautista|R|Groundout|B|Two-Seam Fastball|41|0|0|2|11|91
+Pablo Lopez|R|Jose Bautista|R|Groundout|C|Changeup|42|1|0|2|1|84
+Pablo Lopez|R|Jose Bautista|R|Groundout|C|Curveball|43|1|1|2|14|78
+Pablo Lopez|R|Jose Bautista|R|Groundout|B|Changeup|44|1|2|2|14|87
+Pablo Lopez|R|Jose Bautista|R|Groundout|B|Changeup|45|2|2|2|14|85
+Pablo Lopez|R|Jose Bautista|R|Groundout|X|Two-Seam Fastball|46|3|2|2|11|92
+Pablo Lopez|R|Asdrubal Cabrera|L|Strikeout|C|Four-Seam Fastball|47|0|0|0|8|94
+Pablo Lopez|R|Asdrubal Cabrera|L|Strikeout|B|Four-Seam Fastball|48|0|1|0|11|92
+Pablo Lopez|R|Asdrubal Cabrera|L|Strikeout|B|Curveball|49|1|1|0|13|78
+Pablo Lopez|R|Asdrubal Cabrera|L|Strikeout|F|Four-Seam Fastball|50|2|1|0|7|93
+Pablo Lopez|R|Asdrubal Cabrera|L|Strikeout|S|Four-Seam Fastball|51|2|2|0|12|92
+Pablo Lopez|R|Michael Conforto|L|Groundout|C|Curveball|52|0|0|1|8|79
+Pablo Lopez|R|Michael Conforto|L|Groundout|S|Changeup|53|0|1|1|14|86
+Pablo Lopez|R|Michael Conforto|L|Groundout|F|Four-Seam Fastball|54|0|2|1|12|92
+Pablo Lopez|R|Michael Conforto|L|Groundout|X|Changeup|55|0|2|1|13|86
+Pablo Lopez|R|Wilmer Flores|R|Double|B|Two-Seam Fastball|56|0|0|2|11|89
+Pablo Lopez|R|Wilmer Flores|R|Double|C|Curveball|57|1|0|2|11|77
+Pablo Lopez|R|Wilmer Flores|R|Double|C|Four-Seam Fastball|58|1|1|2|3|92
+Pablo Lopez|R|Wilmer Flores|R|Double|D|Curveball|59|1|2|2|7|78
+Pablo Lopez|R|Todd Frazier|R|Groundout|C|Two-Seam Fastball|60|0|0|2|13|92
+Pablo Lopez|R|Todd Frazier|R|Groundout|X|Two-Seam Fastball|61|0|1|2|13|91
+Pablo Lopez|R|Devin Mesoraco|R|Groundout|C|Two-Seam Fastball|62|0|0|0|13|92
+Pablo Lopez|R|Devin Mesoraco|R|Groundout|*B|Changeup|63|0|1|0|14|86
+Pablo Lopez|R|Devin Mesoraco|R|Groundout|C|Two-Seam Fastball|64|1|1|0|8|91
+Pablo Lopez|R|Devin Mesoraco|R|Groundout|X|Two-Seam Fastball|65|1|2|0|13|92
+Pablo Lopez|R|Amed Rosario|R|Intent Walk|V|N/A|66|0|0|1|0|0
+Pablo Lopez|R|Amed Rosario|R|Intent Walk|V|N/A|67|0|1|1|0|0
+Pablo Lopez|R|Amed Rosario|R|Intent Walk|V|N/A|68|0|2|1|0|0
+Pablo Lopez|R|Amed Rosario|R|Intent Walk|V|N/A|69|0|2|1|0|0
+Pablo Lopez|R|Jacob deGrom|L|Flyout|T|Curveball|70|0|0|1|8|78
+Pablo Lopez|R|Jacob deGrom|L|Flyout|B|Four-Seam Fastball|71|0|1|1|13|93
+Pablo Lopez|R|Jacob deGrom|L|Flyout|F|Four-Seam Fastball|72|1|1|1|4|92
+Pablo Lopez|R|Jacob deGrom|L|Flyout|X|Changeup|73|1|2|1|7|85
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|B|Changeup|74|0|0|2|13|84
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|B|Changeup|75|1|0|2|13|84
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|X|Two-Seam Fastball|76|2|0|2|7|91
+Pablo Lopez|R|Jose Bautista|R|Strikeout|F|Changeup|77|0|0|0|13|86
+Pablo Lopez|R|Jose Bautista|R|Strikeout|B|Two-Seam Fastball|78|0|1|0|13|92
+Pablo Lopez|R|Jose Bautista|R|Strikeout|C|Curveball|79|1|1|0|14|79
+Pablo Lopez|R|Jose Bautista|R|Strikeout|B|Four-Seam Fastball|80|1|2|0|12|92
+Pablo Lopez|R|Jose Bautista|R|Strikeout|B|Changeup|81|2|2|0|13|86
+Pablo Lopez|R|Jose Bautista|R|Strikeout|C|Curveball|82|3|2|0|6|79
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|F|Curveball|83|0|0|1|8|78
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|T|Changeup|84|0|1|1|13|85
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|X|Changeup|85|0|2|1|13|86
+Pablo Lopez|R|Michael Conforto|L|Strikeout|B|Curveball|86|0|0|2|11|77
+Pablo Lopez|R|Michael Conforto|L|Strikeout|F|Two-Seam Fastball|87|1|0|2|7|90
+Pablo Lopez|R|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|88|1|1|2|12|90
+Pablo Lopez|R|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|89|1|2|2|11|91
+Pablo Lopez|R|Michael Conforto|L|Strikeout|B|Changeup|90|1|2|2|13|86
+Pablo Lopez|R|Michael Conforto|L|Strikeout|S|Two-Seam Fastball|91|2|2|2|13|91
+Pablo Lopez|R|Wilmer Flores|R|Flyout|B|Four-Seam Fastball|92|0|0|0|11|92
+Pablo Lopez|R|Wilmer Flores|R|Flyout|C|Four-Seam Fastball|93|1|0|0|14|92
+Pablo Lopez|R|Wilmer Flores|R|Flyout|S|Curveball|94|1|1|0|9|79
+Pablo Lopez|R|Wilmer Flores|R|Flyout|B|Four-Seam Fastball|95|1|2|0|11|91
+Pablo Lopez|R|Wilmer Flores|R|Flyout|X|Curveball|96|2|2|0|7|78
+Pablo Lopez|R|Todd Frazier|R|Home Run|C|Four-Seam Fastball|97|0|0|1|12|91
+Pablo Lopez|R|Todd Frazier|R|Home Run|C|Curveball|98|0|1|1|8|78
+Pablo Lopez|R|Todd Frazier|R|Home Run|E|Two-Seam Fastball|99|0|2|1|5|91
+Pablo Lopez|R|Devin Mesoraco|R|Flyout|X|Four-Seam Fastball|100|0|0|1|2|91
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|92
+Pablo Lopez|R|Trea Turner|R|Groundout|X|Four-Seam Fastball|1|1|0|0|2|90
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Four-Seam Fastball|2|0|0|1|14|93
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Four-Seam Fastball|3|1|0|1|14|92
+Pablo Lopez|R|Juan Soto|L|Groundout|F|Two-Seam Fastball|4|2|0|1|4|91
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Two-Seam Fastball|5|2|1|1|13|92
+Pablo Lopez|R|Juan Soto|L|Groundout|X|Two-Seam Fastball|6|3|1|1|5|91
+Pablo Lopez|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|7|0|0|2|14|92
+Pablo Lopez|R|Anthony Rendon|R|Groundout|B|Curveball|8|0|1|2|13|76
+Pablo Lopez|R|Anthony Rendon|R|Groundout|F|Curveball|9|1|1|2|4|77
+Pablo Lopez|R|Anthony Rendon|R|Groundout|B|Four-Seam Fastball|10|1|2|2|11|92
+Pablo Lopez|R|Anthony Rendon|R|Groundout|F|Four-Seam Fastball|11|2|2|2|12|93
+Pablo Lopez|R|Anthony Rendon|R|Groundout|X|Four-Seam Fastball|12|2|2|2|12|93
+Pablo Lopez|R|Bryce Harper|L|Flyout|B|Two-Seam Fastball|13|0|0|0|11|91
+Pablo Lopez|R|Bryce Harper|L|Flyout|F|Two-Seam Fastball|14|1|0|0|4|91
+Pablo Lopez|R|Bryce Harper|L|Flyout|B|Curveball|15|1|1|0|13|74
+Pablo Lopez|R|Bryce Harper|L|Flyout|S|Changeup|16|2|1|0|7|84
+Pablo Lopez|R|Bryce Harper|L|Flyout|B|Changeup|17|2|2|0|9|85
+Pablo Lopez|R|Bryce Harper|L|Flyout|X|Two-Seam Fastball|18|3|2|0|8|91
+Pablo Lopez|R|Matt Adams|L|Single|D|Two-Seam Fastball|19|0|0|1|6|92
+Pablo Lopez|R|Daniel Murphy|L|Grounded Into DP|B|Two-Seam Fastball|20|0|0|1|14|91
+Pablo Lopez|R|Daniel Murphy|L|Grounded Into DP|C|Four-Seam Fastball|21|1|0|1|14|91
+Pablo Lopez|R|Daniel Murphy|L|Grounded Into DP|F|Four-Seam Fastball|22|1|1|1|11|91
+Pablo Lopez|R|Daniel Murphy|L|Grounded Into DP|X|Four-Seam Fastball|23|1|2|1|9|92
+Pablo Lopez|R|Michael A. Taylor|R|Groundout|F|Four-Seam Fastball|24|0|0|0|5|91
+Pablo Lopez|R|Michael A. Taylor|R|Groundout|B|Two-Seam Fastball|25|0|1|0|11|92
+Pablo Lopez|R|Michael A. Taylor|R|Groundout|B|Curveball|26|1|1|0|13|76
+Pablo Lopez|R|Michael A. Taylor|R|Groundout|S|Two-Seam Fastball|27|2|1|0|13|90
+Pablo Lopez|R|Michael A. Taylor|R|Groundout|X|Four-Seam Fastball|28|2|2|0|12|92
+Pablo Lopez|R|Pedro Severino|R|Lineout|C|Two-Seam Fastball|29|0|0|1|13|93
+Pablo Lopez|R|Pedro Severino|R|Lineout|B|Two-Seam Fastball|30|0|1|1|13|92
+Pablo Lopez|R|Pedro Severino|R|Lineout|B|Two-Seam Fastball|31|1|1|1|13|91
+Pablo Lopez|R|Pedro Severino|R|Lineout|S|Two-Seam Fastball|32|2|1|1|11|92
+Pablo Lopez|R|Pedro Severino|R|Lineout|F|Two-Seam Fastball|33|2|2|1|11|90
+Pablo Lopez|R|Pedro Severino|R|Lineout|X|Curveball|34|2|2|1|1|76
+Pablo Lopez|R|Jeremy Hellickson|R|Strikeout|C|Four-Seam Fastball|35|0|0|2|8|92
+Pablo Lopez|R|Jeremy Hellickson|R|Strikeout|S|Curveball|36|0|1|2|14|77
+Pablo Lopez|R|Jeremy Hellickson|R|Strikeout|F|Four-Seam Fastball|37|0|2|2|12|94
+Pablo Lopez|R|Jeremy Hellickson|R|Strikeout|C|Two-Seam Fastball|38|0|2|2|7|91
+Pablo Lopez|R|Trea Turner|R|Home Run|B|Curveball|39|0|0|0|14|75
+Pablo Lopez|R|Trea Turner|R|Home Run|E|Four-Seam Fastball|40|1|0|0|6|92
+Pablo Lopez|R|Juan Soto|L|Lineout|F|Four-Seam Fastball|41|0|0|0|5|93
+Pablo Lopez|R|Juan Soto|L|Lineout|X|Changeup|42|0|1|0|4|86
+Pablo Lopez|R|Anthony Rendon|R|Groundout|F|Four-Seam Fastball|43|0|0|1|1|93
+Pablo Lopez|R|Anthony Rendon|R|Groundout|S|Two-Seam Fastball|44|0|1|1|13|94
+Pablo Lopez|R|Anthony Rendon|R|Groundout|X|Two-Seam Fastball|45|0|2|1|1|92
+Pablo Lopez|R|Bryce Harper|L|Groundout|X|Curveball|46|0|0|2|1|77
+Pablo Lopez|R|Matt Adams|L|Single|D|Four-Seam Fastball|47|0|0|0|6|93
+Pablo Lopez|R|Daniel Murphy|L|Walk|B|Changeup|48|0|0|0|14|85
+Pablo Lopez|R|Daniel Murphy|L|Walk|B|Two-Seam Fastball|49|1|0|0|13|92
+Pablo Lopez|R|Daniel Murphy|L|Walk|B|Four-Seam Fastball|50|2|0|0|14|93
+Pablo Lopez|R|Daniel Murphy|L|Walk|C|Two-Seam Fastball|51|3|0|0|8|92
+Pablo Lopez|R|Daniel Murphy|L|Walk|B|Two-Seam Fastball|52|3|1|0|14|92
+Pablo Lopez|R|Michael A. Taylor|R|Single|C|Changeup|53|0|0|0|5|86
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Two-Seam Fastball|54|0|1|0|11|92
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Changeup|55|0|2|0|11|86
+Pablo Lopez|R|Michael A. Taylor|R|Single|B|Four-Seam Fastball|56|0|2|0|11|94
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Two-Seam Fastball|57|1|2|0|11|92
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Changeup|58|1|2|0|7|87
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Curveball|59|1|2|0|11|78
+Pablo Lopez|R|Michael A. Taylor|R|Single|F|Changeup|60|1|2|0|13|86
+Pablo Lopez|R|Michael A. Taylor|R|Single|D|Four-Seam Fastball|61|1|2|0|6|93
+Pablo Lopez|R|Pedro Severino|R|Strikeout|F|Two-Seam Fastball|62|0|0|0|11|92
+Pablo Lopez|R|Pedro Severino|R|Strikeout|F|Two-Seam Fastball|63|0|1|0|11|93
+Pablo Lopez|R|Pedro Severino|R|Strikeout|F|Two-Seam Fastball|64|0|2|0|4|94
+Pablo Lopez|R|Pedro Severino|R|Strikeout|F|Changeup|65|0|2|0|7|86
+Pablo Lopez|R|Pedro Severino|R|Strikeout|S|Four-Seam Fastball|66|0|2|0|11|95
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|67|0|0|1|12|93
+Pablo Lopez|R|Adam Eaton|L|Walk|S|Changeup|68|1|0|1|5|86
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Two-Seam Fastball|69|1|1|1|13|94
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|70|2|1|1|14|93
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Two-Seam Fastball|71|3|1|1|11|91
+Pablo Lopez|R|Trea Turner|R|Forceout|C|Two-Seam Fastball|72|0|0|1|11|93
+Pablo Lopez|R|Trea Turner|R|Forceout|B|Changeup|73|0|1|1|13|86
+Pablo Lopez|R|Trea Turner|R|Forceout|S|Changeup|74|1|1|1|13|87
+Pablo Lopez|R|Trea Turner|R|Forceout|F|Two-Seam Fastball|75|1|2|1|7|93
+Pablo Lopez|R|Trea Turner|R|Forceout|E|Four-Seam Fastball|76|1|2|1|12|95
+Pablo Lopez|R|Juan Soto|L|Double|E|Four-Seam Fastball|77|0|0|2|6|91
+Pablo Lopez|R|Anthony Rendon|R|Strikeout|C|Curveball|78|0|0|2|4|77
+Pablo Lopez|R|Anthony Rendon|R|Strikeout|B|Changeup|79|0|1|2|1|84
+Pablo Lopez|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|80|1|1|2|6|94
+Pablo Lopez|R|Anthony Rendon|R|Strikeout|B|Curveball|81|1|2|2|14|77
+Pablo Lopez|R|Anthony Rendon|R|Strikeout|S|Two-Seam Fastball|82|2|2|2|14|94
+Pablo Lopez|R|Eric Thames|L|Single|C|Two-Seam Fastball|0|0|0|0|8|92
+Pablo Lopez|R|Eric Thames|L|Single|D|Two-Seam Fastball|1|0|1|0|13|93
+Pablo Lopez|R|Christian Yelich|L|Double|D|Two-Seam Fastball|2|0|0|0|4|92
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Curveball|3|0|0|0|14|78
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Two-Seam Fastball|4|1|0|0|13|93
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Changeup|5|2|0|0|13|86
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|6|3|0|0|11|94
+Pablo Lopez|R|Travis Shaw|L|Forceout|*B|Curveball|7|0|0|0|14|78
+Pablo Lopez|R|Travis Shaw|L|Forceout|E|Two-Seam Fastball|8|1|0|0|11|92
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|C|Four-Seam Fastball|9|0|0|1|7|93
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|B|Four-Seam Fastball|10|0|1|1|12|94
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|S|Curveball|11|1|1|1|14|77
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|F|Curveball|12|1|2|1|14|78
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|F|Two-Seam Fastball|13|1|2|1|4|92
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|F|Changeup|14|1|2|1|11|85
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|F|Four-Seam Fastball|15|1|2|1|6|94
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|F|Curveball|16|1|2|1|14|78
+Pablo Lopez|R|Tyler Saladino|R|Strikeout|S|Four-Seam Fastball|17|1|2|1|3|92
+Pablo Lopez|R|Brad Miller|L|Strikeout|B|Curveball|18|0|0|2|11|77
+Pablo Lopez|R|Brad Miller|L|Strikeout|B|Four-Seam Fastball|19|1|0|2|11|93
+Pablo Lopez|R|Brad Miller|L|Strikeout|C|Changeup|20|2|0|2|11|84
+Pablo Lopez|R|Brad Miller|L|Strikeout|S|Changeup|21|2|1|2|7|86
+Pablo Lopez|R|Brad Miller|L|Strikeout|F|Four-Seam Fastball|22|2|2|2|5|94
+Pablo Lopez|R|Brad Miller|L|Strikeout|B|Curveball|23|2|2|2|4|78
+Pablo Lopez|R|Brad Miller|L|Strikeout|S|Changeup|24|3|2|2|9|85
+Pablo Lopez|R|Keon Broxton|R|Single|B|Four-Seam Fastball|25|0|0|0|14|89
+Pablo Lopez|R|Keon Broxton|R|Single|C|Four-Seam Fastball|26|1|0|0|13|90
+Pablo Lopez|R|Keon Broxton|R|Single|D|Curveball|27|1|1|0|9|74
+Pablo Lopez|R|Erik Kratz|R|Groundout|B|Two-Seam Fastball|28|0|0|0|13|90
+Pablo Lopez|R|Erik Kratz|R|Groundout|F|Four-Seam Fastball|29|1|0|0|8|92
+Pablo Lopez|R|Erik Kratz|R|Groundout|B|Two-Seam Fastball|30|1|1|0|13|91
+Pablo Lopez|R|Erik Kratz|R|Groundout|X|Two-Seam Fastball|31|2|1|0|11|91
+Pablo Lopez|R|Jhoulys Chacin|R|Fielders Choice Out|C|Four-Seam Fastball|32|0|0|1|9|91
+Pablo Lopez|R|Jhoulys Chacin|R|Fielders Choice Out|S|Curveball|33|0|1|1|5|76
+Pablo Lopez|R|Jhoulys Chacin|R|Fielders Choice Out|B|Curveball|34|0|2|1|13|77
+Pablo Lopez|R|Jhoulys Chacin|R|Fielders Choice Out|X|Four-Seam Fastball|35|1|2|1|9|93
+Pablo Lopez|R|Eric Thames|L|Double|D|Four-Seam Fastball|36|0|0|2|3|92
+Pablo Lopez|R|Christian Yelich|L|Single|B|Curveball|37|0|0|2|14|78
+Pablo Lopez|R|Christian Yelich|L|Single|E|Changeup|38|1|0|2|13|84
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|39|0|0|2|14|93
+Pablo Lopez|R|Jesus Aguilar|R|Walk|C|Changeup|40|1|0|2|13|84
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Two-Seam Fastball|41|1|1|2|13|92
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Two-Seam Fastball|42|2|1|2|14|93
+Pablo Lopez|R|Jesus Aguilar|R|Walk|C|Changeup|43|3|1|2|5|85
+Pablo Lopez|R|Jesus Aguilar|R|Walk|F|Changeup|44|3|2|2|7|84
+Pablo Lopez|R|Jesus Aguilar|R|Walk|F|Four-Seam Fastball|45|3|2|2|11|92
+Pablo Lopez|R|Jesus Aguilar|R|Walk|F|Curveball|46|3|2|2|7|77
+Pablo Lopez|R|Jesus Aguilar|R|Walk|B|Changeup|47|3|2|2|11|84
+Pablo Lopez|R|Travis Shaw|L|Intent Walk|B|Curveball|48|0|0|2|14|77
+Pablo Lopez|R|Travis Shaw|L|Intent Walk|V|N/A|49|1|0|2|0|0
+Pablo Lopez|R|Travis Shaw|L|Intent Walk|V|N/A|50|1|1|2|0|0
+Pablo Lopez|R|Travis Shaw|L|Intent Walk|V|N/A|51|1|2|2|0|0
+Pablo Lopez|R|Tyler Saladino|R|Single|C|Two-Seam Fastball|52|0|0|2|8|92
+Pablo Lopez|R|Tyler Saladino|R|Single|E|Changeup|53|0|1|2|4|84
+Pablo Lopez|R|Brad Miller|L|Groundout|X|Two-Seam Fastball|54|0|0|0|1|89
+Pablo Lopez|R|Keon Broxton|R|Strikeout|C|Two-Seam Fastball|55|0|0|1|2|90
+Pablo Lopez|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|56|0|1|1|12|92
+Pablo Lopez|R|Keon Broxton|R|Strikeout|B|Changeup|57|1|1|1|14|84
+Pablo Lopez|R|Keon Broxton|R|Strikeout|F|Two-Seam Fastball|58|2|1|1|7|90
+Pablo Lopez|R|Keon Broxton|R|Strikeout|B|Curveball|59|2|2|1|11|77
+Pablo Lopez|R|Keon Broxton|R|Strikeout|F|Two-Seam Fastball|60|3|2|1|13|90
+Pablo Lopez|R|Keon Broxton|R|Strikeout|C|Two-Seam Fastball|61|3|2|1|14|91
+Pablo Lopez|R|Erik Kratz|R|Groundout|C|Two-Seam Fastball|62|0|0|2|14|90
+Pablo Lopez|R|Erik Kratz|R|Groundout|S|Two-Seam Fastball|63|0|1|2|13|91
+Pablo Lopez|R|Erik Kratz|R|Groundout|B|Four-Seam Fastball|64|0|2|2|12|91
+Pablo Lopez|R|Erik Kratz|R|Groundout|F|Two-Seam Fastball|65|1|2|2|7|91
+Pablo Lopez|R|Erik Kratz|R|Groundout|F|Curveball|66|1|2|2|13|76
+Pablo Lopez|R|Erik Kratz|R|Groundout|X|Curveball|67|1|2|2|14|76
+Pablo Lopez|R|Jhoulys Chacin|R|Pop Out|B|Two-Seam Fastball|68|0|0|0|11|88
+Pablo Lopez|R|Jhoulys Chacin|R|Pop Out|F|Two-Seam Fastball|69|1|0|0|11|89
+Pablo Lopez|R|Jhoulys Chacin|R|Pop Out|X|Curveball|70|1|1|0|4|74
+Pablo Lopez|R|Eric Thames|L|Groundout|C|Curveball|71|0|0|1|3|75
+Pablo Lopez|R|Eric Thames|L|Groundout|X|Changeup|72|0|1|1|13|84
+Pablo Lopez|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|73|0|0|2|6|92
+Pablo Lopez|R|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|74|0|1|2|11|91
+Pablo Lopez|R|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|75|0|2|2|11|91
+Pablo Lopez|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|76|1|2|2|9|92
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|B|Curveball|77|0|0|0|14|74
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|F|Four-Seam Fastball|78|1|0|0|1|91
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|B|Four-Seam Fastball|79|1|1|0|11|91
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|C|Four-Seam Fastball|80|2|1|0|12|92
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|B|Two-Seam Fastball|81|2|2|0|13|92
+Pablo Lopez|R|Jesus Aguilar|R|Pop Out|X|Curveball|82|3|2|0|9|76
+Pablo Lopez|R|Travis Shaw|L|Field Error|B|Four-Seam Fastball|83|0|0|1|11|93
+Pablo Lopez|R|Travis Shaw|L|Field Error|B|Curveball|84|1|0|1|14|76
+Pablo Lopez|R|Travis Shaw|L|Field Error|S|Changeup|85|2|0|1|13|84
+Pablo Lopez|R|Travis Shaw|L|Field Error|S|Changeup|86|2|1|1|13|82
+Pablo Lopez|R|Travis Shaw|L|Field Error|D|Changeup|87|2|2|1|13|84
+Pablo Lopez|R|Tyler Saladino|R|Forceout|C|Four-Seam Fastball|88|0|0|1|14|92
+Pablo Lopez|R|Tyler Saladino|R|Forceout|*B|Curveball|89|0|1|1|14|76
+Pablo Lopez|R|Tyler Saladino|R|Forceout|X|Curveball|90|1|1|1|5|76
+Pablo Lopez|R|Brad Miller|L|Caught Stealing 2B|C|Changeup|91|0|0|2|13|82
+Pablo Lopez|R|Brad Miller|L|Caught Stealing 2B|S|Four-Seam Fastball|92|0|1|2|12|93
+Pablo Lopez|R|Brad Miller|L|Strikeout|C|N/A|93|0|0|0|0|0
+Pablo Lopez|R|Brad Miller|L|Strikeout|C|Changeup|94|0|1|0|9|84
+Pablo Lopez|R|Brad Miller|L|Strikeout|F|Four-Seam Fastball|95|0|2|0|3|92
+Pablo Lopez|R|Brad Miller|L|Strikeout|S|Four-Seam Fastball|96|0|2|0|12|92
+Pablo Lopez|R|Keon Broxton|R|Flyout|S|Curveball|97|0|0|1|13|76
+Pablo Lopez|R|Keon Broxton|R|Flyout|B|Curveball|98|0|1|1|14|78
+Pablo Lopez|R|Keon Broxton|R|Flyout|B|Two-Seam Fastball|99|1|1|1|13|93
+Pablo Lopez|R|Keon Broxton|R|Flyout|X|Four-Seam Fastball|100|2|1|1|1|91
+Pablo Lopez|R|Erik Kratz|R|Strikeout|C|Curveball|101|0|0|2|8|77
+Pablo Lopez|R|Erik Kratz|R|Strikeout|S|Two-Seam Fastball|102|0|1|2|13|92
+Pablo Lopez|R|Erik Kratz|R|Strikeout|B|Two-Seam Fastball|103|0|2|2|13|93
+Pablo Lopez|R|Erik Kratz|R|Strikeout|F|Four-Seam Fastball|104|1|2|2|2|92
+Pablo Lopez|R|Erik Kratz|R|Strikeout|T|Changeup|105|1|2|2|13|83
+Pablo Lopez|R|Joey Wendle|L|Groundout|F|Two-Seam Fastball|0|0|0|0|13|92
+Pablo Lopez|R|Joey Wendle|L|Groundout|F|Four-Seam Fastball|1|0|1|0|12|95
+Pablo Lopez|R|Joey Wendle|L|Groundout|F|Four-Seam Fastball|2|0|2|0|11|94
+Pablo Lopez|R|Joey Wendle|L|Groundout|F|Changeup|3|0|2|0|13|88
+Pablo Lopez|R|Joey Wendle|L|Groundout|X|Four-Seam Fastball|4|0|2|0|1|94
+Pablo Lopez|R|Daniel Robertson|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|5|94
+Pablo Lopez|R|Daniel Robertson|R|Strikeout|F|Two-Seam Fastball|6|0|1|1|1|93
+Pablo Lopez|R|Daniel Robertson|R|Strikeout|F|Two-Seam Fastball|7|0|2|1|11|95
+Pablo Lopez|R|Daniel Robertson|R|Strikeout|S|Two-Seam Fastball|8|0|2|1|13|94
+Pablo Lopez|R|Jake Bauers|L|Strikeout|B|Two-Seam Fastball|9|0|0|2|13|94
+Pablo Lopez|R|Jake Bauers|L|Strikeout|B|Two-Seam Fastball|10|1|0|2|11|94
+Pablo Lopez|R|Jake Bauers|L|Strikeout|F|Changeup|11|2|0|2|13|88
+Pablo Lopez|R|Jake Bauers|L|Strikeout|C|Four-Seam Fastball|12|2|1|2|5|95
+Pablo Lopez|R|Jake Bauers|L|Strikeout|S|Changeup|13|2|2|2|13|88
+Pablo Lopez|R|C.J. Cron|R|Groundout|C|Four-Seam Fastball|14|0|0|0|5|92
+Pablo Lopez|R|C.J. Cron|R|Groundout|X|Curveball|15|0|1|0|4|80
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|S|Two-Seam Fastball|16|0|0|1|7|93
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|B|Changeup|17|0|1|1|11|87
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|B|Changeup|18|1|1|1|11|86
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|F|Four-Seam Fastball|19|2|1|1|4|94
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|B|Changeup|20|2|2|1|14|87
+Pablo Lopez|R|Ji-Man Choi|L|Groundout|X|Four-Seam Fastball|21|3|2|1|3|94
+Pablo Lopez|R|Carlos Gomez|R|Groundout|F|Two-Seam Fastball|22|0|0|2|4|94
+Pablo Lopez|R|Carlos Gomez|R|Groundout|S|Four-Seam Fastball|23|0|1|2|14|95
+Pablo Lopez|R|Carlos Gomez|R|Groundout|B|Four-Seam Fastball|24|0|2|2|14|95
+Pablo Lopez|R|Carlos Gomez|R|Groundout|X|Two-Seam Fastball|25|1|2|2|14|93
+Pablo Lopez|R|Mallex Smith|L|Strikeout|F|Four-Seam Fastball|26|0|0|0|5|93
+Pablo Lopez|R|Mallex Smith|L|Strikeout|B|Four-Seam Fastball|27|0|1|0|11|92
+Pablo Lopez|R|Mallex Smith|L|Strikeout|B|Changeup|28|1|1|0|11|86
+Pablo Lopez|R|Mallex Smith|L|Strikeout|S|Four-Seam Fastball|29|2|1|0|11|93
+Pablo Lopez|R|Mallex Smith|L|Strikeout|S|Four-Seam Fastball|30|2|2|0|2|92
+Pablo Lopez|R|Adeiny Hechavarria|R|Pop Out|B|Curveball|31|0|0|1|11|79
+Pablo Lopez|R|Adeiny Hechavarria|R|Pop Out|B|Four-Seam Fastball|32|1|0|1|11|93
+Pablo Lopez|R|Adeiny Hechavarria|R|Pop Out|X|Four-Seam Fastball|33|2|0|1|12|93
+Pablo Lopez|R|Jesus Sucre|R|Strikeout|C|Four-Seam Fastball|34|0|0|2|2|94
+Pablo Lopez|R|Jesus Sucre|R|Strikeout|S|Two-Seam Fastball|35|0|1|2|13|93
+Pablo Lopez|R|Jesus Sucre|R|Strikeout|S|Four-Seam Fastball|36|0|2|2|12|92
+Pablo Lopez|R|Joey Wendle|L|Home Run|B|Four-Seam Fastball|37|0|0|0|11|91
+Pablo Lopez|R|Joey Wendle|L|Home Run|F|Changeup|38|1|0|0|11|85
+Pablo Lopez|R|Joey Wendle|L|Home Run|B|Changeup|39|1|1|0|13|86
+Pablo Lopez|R|Joey Wendle|L|Home Run|E|Four-Seam Fastball|40|2|1|0|1|93
+Pablo Lopez|R|Daniel Robertson|R|Groundout|S|Two-Seam Fastball|41|0|0|0|5|92
+Pablo Lopez|R|Daniel Robertson|R|Groundout|B|Curveball|42|0|1|0|14|80
+Pablo Lopez|R|Daniel Robertson|R|Groundout|S|Two-Seam Fastball|43|1|1|0|11|93
+Pablo Lopez|R|Daniel Robertson|R|Groundout|B|Two-Seam Fastball|44|1|2|0|9|93
+Pablo Lopez|R|Daniel Robertson|R|Groundout|X|Two-Seam Fastball|45|2|2|0|11|92
+Pablo Lopez|R|Jake Bauers|L|Strikeout|C|Curveball|46|0|0|1|7|80
+Pablo Lopez|R|Jake Bauers|L|Strikeout|B|Changeup|47|0|1|1|13|86
+Pablo Lopez|R|Jake Bauers|L|Strikeout|B|Changeup|48|1|1|1|13|86
+Pablo Lopez|R|Jake Bauers|L|Strikeout|F|Four-Seam Fastball|49|2|1|1|11|93
+Pablo Lopez|R|Jake Bauers|L|Strikeout|F|Changeup|50|2|2|1|13|87
+Pablo Lopez|R|Jake Bauers|L|Strikeout|C|Changeup|51|2|2|1|14|87
+Pablo Lopez|R|C.J. Cron|R|Walk|C|Curveball|52|0|0|2|8|80
+Pablo Lopez|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|53|0|1|2|11|93
+Pablo Lopez|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|54|1|1|2|14|94
+Pablo Lopez|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|55|2|1|2|12|93
+Pablo Lopez|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|56|3|1|2|12|92
+Pablo Lopez|R|Ji-Man Choi|L|Strikeout|C|Changeup|57|0|0|2|9|85
+Pablo Lopez|R|Ji-Man Choi|L|Strikeout|B|Four-Seam Fastball|58|0|1|2|14|93
+Pablo Lopez|R|Ji-Man Choi|L|Strikeout|*B|Curveball|59|1|1|2|14|80
+Pablo Lopez|R|Ji-Man Choi|L|Strikeout|S|Changeup|60|2|1|2|13|86
+Pablo Lopez|R|Ji-Man Choi|L|Strikeout|C|Four-Seam Fastball|61|2|2|2|1|91
+Pablo Lopez|R|Carlos Gomez|R|Hit By Pitch|C|Four-Seam Fastball|62|0|0|0|4|93
+Pablo Lopez|R|Carlos Gomez|R|Hit By Pitch|H|Curveball|63|0|1|0|13|79
+Pablo Lopez|R|Mallex Smith|L|Flyout|X|Four-Seam Fastball|64|0|0|0|5|93
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|C|Four-Seam Fastball|65|0|0|1|3|93
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|B|Two-Seam Fastball|66|0|1|1|13|91
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|C|Curveball|67|1|1|1|5|81
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|F|Four-Seam Fastball|68|1|2|1|2|92
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|B|Curveball|69|1|2|1|11|77
+Pablo Lopez|R|Adeiny Hechavarria|R|Fielders Choice Out|X|Four-Seam Fastball|70|2|2|1|11|91
+Pablo Lopez|R|Jesus Sucre|R|Flyout|B|Two-Seam Fastball|71|0|0|2|14|92
+Pablo Lopez|R|Jesus Sucre|R|Flyout|B|Four-Seam Fastball|72|1|0|2|13|93
+Pablo Lopez|R|Jesus Sucre|R|Flyout|X|Four-Seam Fastball|73|2|0|2|6|93
+Pablo Lopez|R|Joey Wendle|L|Lineout|B|Curveball|74|0|0|0|11|77
+Pablo Lopez|R|Joey Wendle|L|Lineout|C|Two-Seam Fastball|75|1|0|0|13|91
+Pablo Lopez|R|Joey Wendle|L|Lineout|B|Changeup|76|1|1|0|13|85
+Pablo Lopez|R|Joey Wendle|L|Lineout|F|Changeup|77|2|1|0|11|86
+Pablo Lopez|R|Joey Wendle|L|Lineout|F|Changeup|78|2|2|0|13|86
+Pablo Lopez|R|Joey Wendle|L|Lineout|F|Four-Seam Fastball|79|2|2|0|11|93
+Pablo Lopez|R|Joey Wendle|L|Lineout|B|Four-Seam Fastball|80|2|2|0|12|92
+Pablo Lopez|R|Joey Wendle|L|Lineout|X|Changeup|81|3|2|0|7|86
+Pablo Lopez|R|Daniel Robertson|R|Double|C|Curveball|82|0|0|1|7|78
+Pablo Lopez|R|Daniel Robertson|R|Double|B|Four-Seam Fastball|83|0|1|1|14|94
+Pablo Lopez|R|Daniel Robertson|R|Double|D|Two-Seam Fastball|84|1|1|1|11|90
+Pablo Lopez|R|Jake Bauers|L|Groundout|X|Changeup|85|0|0|1|13|86
+Pablo Lopez|R|C.J. Cron|R|Pop Out|C|Four-Seam Fastball|86|0|0|2|5|93
+Pablo Lopez|R|C.J. Cron|R|Pop Out|B|Four-Seam Fastball|87|0|1|2|11|90
+Pablo Lopez|R|C.J. Cron|R|Pop Out|X|Curveball|88|1|1|2|5|79
+Pablo Lopez|R|Adam Eaton|L|Lineout|B|Two-Seam Fastball|0|0|0|0|13|91
+Pablo Lopez|R|Adam Eaton|L|Lineout|B|Two-Seam Fastball|1|1|0|0|13|91
+Pablo Lopez|R|Adam Eaton|L|Lineout|C|Two-Seam Fastball|2|2|0|0|9|92
+Pablo Lopez|R|Adam Eaton|L|Lineout|X|Four-Seam Fastball|3|2|1|0|9|94
+Pablo Lopez|R|Trea Turner|R|Double|C|Four-Seam Fastball|4|0|0|1|9|94
+Pablo Lopez|R|Trea Turner|R|Double|C|Two-Seam Fastball|5|0|1|1|7|94
+Pablo Lopez|R|Trea Turner|R|Double|B|Two-Seam Fastball|6|0|2|1|13|94
+Pablo Lopez|R|Trea Turner|R|Double|B|Changeup|7|1|2|1|13|88
+Pablo Lopez|R|Trea Turner|R|Double|D|Four-Seam Fastball|8|2|2|1|9|93
+Pablo Lopez|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|9|0|0|1|7|94
+Pablo Lopez|R|Bryce Harper|L|Strikeout|F|Two-Seam Fastball|10|0|1|1|13|94
+Pablo Lopez|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|11|0|2|1|11|93
+Pablo Lopez|R|Bryce Harper|L|Strikeout|S|Curveball|12|1|2|1|1|79
+Pablo Lopez|R|Matt Adams|L|Single|E|Two-Seam Fastball|13|0|0|2|4|92
+Pablo Lopez|R|Juan Soto|L|Home Run|T|Two-Seam Fastball|14|0|0|0|13|93
+Pablo Lopez|R|Juan Soto|L|Home Run|B|Four-Seam Fastball|15|0|1|0|12|93
+Pablo Lopez|R|Juan Soto|L|Home Run|B|Curveball|16|1|1|0|14|81
+Pablo Lopez|R|Juan Soto|L|Home Run|S|Changeup|17|2|1|0|13|87
+Pablo Lopez|R|Juan Soto|L|Home Run|E|Four-Seam Fastball|18|2|2|0|6|94
+Pablo Lopez|R|Daniel Murphy|L|Lineout|B|Two-Seam Fastball|19|0|0|0|11|94
+Pablo Lopez|R|Daniel Murphy|L|Lineout|B|Two-Seam Fastball|20|1|0|0|13|94
+Pablo Lopez|R|Daniel Murphy|L|Lineout|C|Two-Seam Fastball|21|2|0|0|9|93
+Pablo Lopez|R|Daniel Murphy|L|Lineout|X|Two-Seam Fastball|22|2|1|0|4|93
+Pablo Lopez|R|Mark Reynolds|R|Flyout|X|Four-Seam Fastball|23|0|0|1|5|94
+Pablo Lopez|R|Matt Wieters|L|Groundout|C|Four-Seam Fastball|24|0|0|2|9|94
+Pablo Lopez|R|Matt Wieters|L|Groundout|C|Curveball|25|0|1|2|11|81
+Pablo Lopez|R|Matt Wieters|L|Groundout|F|Curveball|26|0|2|2|14|81
+Pablo Lopez|R|Matt Wieters|L|Groundout|B|Four-Seam Fastball|27|0|2|2|11|93
+Pablo Lopez|R|Matt Wieters|L|Groundout|B|Four-Seam Fastball|28|1|2|2|14|93
+Pablo Lopez|R|Matt Wieters|L|Groundout|X|Changeup|29|2|2|2|13|86
+Pablo Lopez|R|Max Scherzer|R|Single|C|Four-Seam Fastball|30|0|0|0|14|92
+Pablo Lopez|R|Max Scherzer|R|Single|D|Curveball|31|0|1|0|14|80
+Pablo Lopez|R|Adam Eaton|L|Double|B|Four-Seam Fastball|32|0|0|0|14|94
+Pablo Lopez|R|Adam Eaton|L|Double|B|Two-Seam Fastball|33|1|0|0|14|93
+Pablo Lopez|R|Adam Eaton|L|Double|D|Two-Seam Fastball|34|2|0|0|6|93
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Curveball|35|0|0|0|14|80
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Two-Seam Fastball|36|1|0|0|13|93
+Pablo Lopez|R|Trea Turner|R|Groundout|C|Two-Seam Fastball|37|2|0|0|4|94
+Pablo Lopez|R|Trea Turner|R|Groundout|X|Changeup|38|2|1|0|9|86
+Pablo Lopez|R|Bryce Harper|L|Sac Fly|B|Curveball|39|0|0|1|14|80
+Pablo Lopez|R|Bryce Harper|L|Sac Fly|E|Changeup|40|1|0|1|13|85
+Pablo Lopez|R|Matt Adams|L|Single|B|Curveball|41|0|0|2|11|79
+Pablo Lopez|R|Matt Adams|L|Single|B|Changeup|42|1|0|2|13|85
+Pablo Lopez|R|Matt Adams|L|Single|B|Two-Seam Fastball|43|2|0|2|14|93
+Pablo Lopez|R|Matt Adams|L|Single|D|Two-Seam Fastball|44|3|0|2|8|92
+Pablo Lopez|R|Juan Soto|L|Groundout|X|Changeup|45|0|0|2|7|85
+Pablo Lopez|R|Daniel Murphy|L|Single|D|Four-Seam Fastball|46|0|0|0|2|92
+Pablo Lopez|R|Mark Reynolds|R|Walk|B|Curveball|47|0|0|0|13|78
+Pablo Lopez|R|Mark Reynolds|R|Walk|B|Four-Seam Fastball|48|1|0|0|14|94
+Pablo Lopez|R|Mark Reynolds|R|Walk|B|Four-Seam Fastball|49|2|0|0|14|92
+Pablo Lopez|R|Mark Reynolds|R|Walk|C|Four-Seam Fastball|50|3|0|0|9|92
+Pablo Lopez|R|Mark Reynolds|R|Walk|B|Four-Seam Fastball|51|3|1|0|12|91
+Pablo Lopez|R|Matt Wieters|L|Forceout|S|Changeup|52|0|0|0|8|85
+Pablo Lopez|R|Matt Wieters|L|Forceout|X|Changeup|53|0|1|0|7|85
+Pablo Lopez|R|Max Scherzer|R|Grounded Into DP|C|Two-Seam Fastball|54|0|0|1|8|92
+Pablo Lopez|R|Max Scherzer|R|Grounded Into DP|B|Two-Seam Fastball|55|0|1|1|13|91
+Pablo Lopez|R|Max Scherzer|R|Grounded Into DP|B|Two-Seam Fastball|56|1|1|1|14|92
+Pablo Lopez|R|Max Scherzer|R|Grounded Into DP|B|Two-Seam Fastball|57|2|1|1|11|91
+Pablo Lopez|R|Max Scherzer|R|Grounded Into DP|X|Four-Seam Fastball|58|3|1|1|7|90
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Changeup|59|0|0|0|14|84
+Pablo Lopez|R|Adam Eaton|L|Walk|C|Changeup|60|1|0|0|4|83
+Pablo Lopez|R|Adam Eaton|L|Walk|S|Four-Seam Fastball|61|1|1|0|1|92
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|62|1|2|0|11|91
+Pablo Lopez|R|Adam Eaton|L|Walk|F|Changeup|63|2|2|0|14|85
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Curveball|64|2|2|0|11|78
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|65|3|2|0|11|90
+Pablo Lopez|R|Trea Turner|R|Strikeout|F|Changeup|66|0|0|0|4|83
+Pablo Lopez|R|Trea Turner|R|Strikeout|S|Two-Seam Fastball|67|0|1|0|13|92
+Pablo Lopez|R|Trea Turner|R|Strikeout|S|Four-Seam Fastball|68|0|2|0|11|91
+Pablo Lopez|R|Bryce Harper|L|Single|C|Two-Seam Fastball|69|0|0|1|6|92
+Pablo Lopez|R|Bryce Harper|L|Single|F|Four-Seam Fastball|70|0|1|1|2|91
+Pablo Lopez|R|Bryce Harper|L|Single|D|Changeup|71|0|2|1|7|85
+Pablo Lopez|R|Matt Adams|L|Flyout|C|Changeup|72|0|0|1|13|84
+Pablo Lopez|R|Matt Adams|L|Flyout|B|Four-Seam Fastball|73|0|1|1|11|91
+Pablo Lopez|R|Matt Adams|L|Flyout|B|Two-Seam Fastball|74|1|1|1|13|91
+Pablo Lopez|R|Matt Adams|L|Flyout|T|Four-Seam Fastball|75|2|1|1|1|92
+Pablo Lopez|R|Matt Adams|L|Flyout|X|Curveball|76|2|2|1|6|77
+Pablo Lopez|R|Juan Soto|L|Groundout|C|Changeup|77|0|0|2|5|84
+Pablo Lopez|R|Juan Soto|L|Groundout|*B|Four-Seam Fastball|78|0|1|2|14|93
+Pablo Lopez|R|Juan Soto|L|Groundout|X|Changeup|79|1|1|2|4|84
+Pablo Lopez|R|Daniel Murphy|L|Double|F|Four-Seam Fastball|80|0|0|0|2|90
+Pablo Lopez|R|Daniel Murphy|L|Double|S|Curveball|81|0|1|0|14|79
+Pablo Lopez|R|Daniel Murphy|L|Double|F|Curveball|82|0|2|0|14|79
+Pablo Lopez|R|Daniel Murphy|L|Double|F|Four-Seam Fastball|83|0|2|0|11|92
+Pablo Lopez|R|Daniel Murphy|L|Double|B|Curveball|84|0|2|0|14|81
+Pablo Lopez|R|Daniel Murphy|L|Double|B|Changeup|85|1|2|0|14|85
+Pablo Lopez|R|Daniel Murphy|L|Double|D|Four-Seam Fastball|86|2|2|0|7|91
+Pablo Lopez|R|Mark Reynolds|R|Groundout|C|Changeup|87|0|0|0|9|84
+Pablo Lopez|R|Mark Reynolds|R|Groundout|B|Two-Seam Fastball|88|0|1|0|13|91
+Pablo Lopez|R|Mark Reynolds|R|Groundout|B|Changeup|89|1|1|0|11|83
+Pablo Lopez|R|Mark Reynolds|R|Groundout|X|Changeup|90|2|1|0|8|84
+Pablo Lopez|R|Matt Wieters|L|Strikeout|B|Four-Seam Fastball|91|0|0|1|14|92
+Pablo Lopez|R|Matt Wieters|L|Strikeout|F|Changeup|92|1|0|1|14|84
+Pablo Lopez|R|Matt Wieters|L|Strikeout|F|Changeup|93|1|1|1|7|84
+Pablo Lopez|R|Matt Wieters|L|Strikeout|S|Four-Seam Fastball|94|1|2|1|11|90
+Pablo Lopez|R|Max Scherzer|R|Hit By Pitch|S|Four-Seam Fastball|95|0|0|2|2|91
+Pablo Lopez|R|Max Scherzer|R|Hit By Pitch|H|Four-Seam Fastball|96|0|1|2|11|90
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Four-Seam Fastball|0|0|0|0|13|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|F|Four-Seam Fastball|1|1|0|0|5|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Two-Seam Fastball|2|1|1|0|13|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Changeup|3|2|1|0|11|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|E|Four-Seam Fastball|4|3|1|0|5|93
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Two-Seam Fastball|5|0|0|0|4|93
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Four-Seam Fastball|6|0|1|0|6|94
+Pablo Lopez|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|7|0|2|0|11|92
+Pablo Lopez|R|Ozzie Albies|L|Flyout|X|Changeup|8|1|2|0|13|86
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|9|0|0|1|14|93
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|10|1|0|1|12|93
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|C|Two-Seam Fastball|11|2|0|1|7|92
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|S|Changeup|12|2|1|1|13|86
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|13|2|2|1|8|93
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|B|Two-Seam Fastball|14|2|2|1|12|92
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|S|Four-Seam Fastball|15|3|2|1|9|92
+Pablo Lopez|R|Nick Markakis|L|Groundout|C|Two-Seam Fastball|16|0|0|2|4|92
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|17|0|1|2|12|91
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Curveball|18|1|1|2|1|79
+Pablo Lopez|R|Nick Markakis|L|Groundout|F|Two-Seam Fastball|19|2|1|2|8|91
+Pablo Lopez|R|Nick Markakis|L|Groundout|X|Changeup|20|2|2|2|13|85
+Pablo Lopez|R|Johan Camargo|L|Groundout|C|Two-Seam Fastball|21|0|0|0|5|91
+Pablo Lopez|R|Johan Camargo|L|Groundout|B|Changeup|22|0|1|0|14|85
+Pablo Lopez|R|Johan Camargo|L|Groundout|S|Changeup|23|1|1|0|14|85
+Pablo Lopez|R|Johan Camargo|L|Groundout|B|Four-Seam Fastball|24|1|2|0|12|91
+Pablo Lopez|R|Johan Camargo|L|Groundout|X|Changeup|25|2|2|0|13|85
+Pablo Lopez|R|Ender Inciarte|L|Single|B|Four-Seam Fastball|26|0|0|1|14|94
+Pablo Lopez|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|27|1|0|1|11|92
+Pablo Lopez|R|Kurt Suzuki|R|Lineout|B|Two-Seam Fastball|28|0|0|1|13|91
+Pablo Lopez|R|Kurt Suzuki|R|Lineout|X|Two-Seam Fastball|29|1|0|1|6|92
+Pablo Lopez|R|Charlie Culberson|R|Pop Out|B|Four-Seam Fastball|30|0|0|2|12|93
+Pablo Lopez|R|Charlie Culberson|R|Pop Out|S|Two-Seam Fastball|31|1|0|2|13|91
+Pablo Lopez|R|Charlie Culberson|R|Pop Out|F|Changeup|32|1|1|2|4|86
+Pablo Lopez|R|Charlie Culberson|R|Pop Out|B|Four-Seam Fastball|33|1|2|2|12|90
+Pablo Lopez|R|Charlie Culberson|R|Pop Out|X|Two-Seam Fastball|34|2|2|2|1|90
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|B|Four-Seam Fastball|35|0|0|0|13|91
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|C|Four-Seam Fastball|36|1|0|0|14|91
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|B|Curveball|37|1|1|0|11|76
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|F|Four-Seam Fastball|38|2|1|0|13|91
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|C|Curveball|39|2|2|0|5|78
+Pablo Lopez|R|Ronald Acuna Jr.|R|Walk|B|Two-Seam Fastball|40|0|0|1|14|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Walk|S|Changeup|41|1|0|1|13|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Walk|B|Changeup|42|1|1|1|11|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Walk|B|Two-Seam Fastball|43|2|1|1|13|91
+Pablo Lopez|R|Ronald Acuna Jr.|R|Walk|B|Changeup|44|3|1|1|13|85
+Pablo Lopez|R|Ozzie Albies|L|Pop Out|F|Changeup|45|0|0|1|5|84
+Pablo Lopez|R|Ozzie Albies|L|Pop Out|X|Four-Seam Fastball|46|0|1|1|12|91
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|47|0|0|2|12|90
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|F|Changeup|48|1|0|2|14|84
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|F|Two-Seam Fastball|49|1|1|2|8|92
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|50|1|2|2|12|89
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|51|1|2|2|14|90
+Pablo Lopez|R|Freddie Freeman|L|Strikeout|S|Changeup|52|2|2|2|13|83
+Pablo Lopez|R|Nick Markakis|L|Double|B|Two-Seam Fastball|53|0|0|0|14|91
+Pablo Lopez|R|Nick Markakis|L|Double|S|Curveball|54|1|0|0|14|77
+Pablo Lopez|R|Nick Markakis|L|Double|D|Curveball|55|1|1|0|4|78
+Pablo Lopez|R|Johan Camargo|L|Double|*B|Curveball|56|0|0|0|14|78
+Pablo Lopez|R|Johan Camargo|L|Double|W|Changeup|57|1|0|0|13|83
+Pablo Lopez|R|Johan Camargo|L|Double|B|Four-Seam Fastball|58|1|1|0|3|90
+Pablo Lopez|R|Johan Camargo|L|Double|F|Changeup|59|2|1|0|13|83
+Pablo Lopez|R|Johan Camargo|L|Double|E|Four-Seam Fastball|60|2|2|0|5|92
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|L|Four-Seam Fastball|61|0|0|0|12|92
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|S|Changeup|62|0|1|0|4|83
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|S|Curveball|63|0|2|0|13|79
+Pablo Lopez|R|Kurt Suzuki|R|Groundout|B|Two-Seam Fastball|64|0|0|1|11|89
+Pablo Lopez|R|Kurt Suzuki|R|Groundout|S|Changeup|65|1|0|1|14|84
+Pablo Lopez|R|Kurt Suzuki|R|Groundout|X|Four-Seam Fastball|66|1|1|1|4|90
+Pablo Lopez|R|Charlie Culberson|R|Intent Walk|V|N/A|67|0|0|2|0|0
+Pablo Lopez|R|Charlie Culberson|R|Intent Walk|V|N/A|68|0|1|2|0|0
+Pablo Lopez|R|Charlie Culberson|R|Intent Walk|V|N/A|69|0|2|2|0|0
+Pablo Lopez|R|Charlie Culberson|R|Intent Walk|V|N/A|70|0|2|2|0|0
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|W|Curveball|71|0|0|2|14|79
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|W|Curveball|72|0|1|2|14|79
+Pablo Lopez|R|Touki Toussaint|R|Strikeout|S|Curveball|73|0|2|2|14|78
+Pablo Lopez|R|Ronald Acuna Jr.|R|Field Error|B|Curveball|74|0|0|0|13|78
+Pablo Lopez|R|Ronald Acuna Jr.|R|Field Error|C|Four-Seam Fastball|75|1|0|0|9|91
+Pablo Lopez|R|Ronald Acuna Jr.|R|Field Error|D|Two-Seam Fastball|76|1|1|0|13|89
+Pablo Lopez|R|Ozzie Albies|L|Groundout|B|Curveball|77|0|0|0|13|78
+Pablo Lopez|R|Ozzie Albies|L|Groundout|B|Two-Seam Fastball|78|1|0|0|13|91
+Pablo Lopez|R|Ozzie Albies|L|Groundout|X|Changeup|79|2|0|0|7|84
+Pablo Lopez|R|Freddie Freeman|L|Sac Fly|F|Four-Seam Fastball|80|0|0|1|6|90
+Pablo Lopez|R|Freddie Freeman|L|Sac Fly|B|Four-Seam Fastball|81|0|1|1|12|90
+Pablo Lopez|R|Freddie Freeman|L|Sac Fly|F|Four-Seam Fastball|82|1|1|1|1|90
+Pablo Lopez|R|Freddie Freeman|L|Sac Fly|F|Changeup|83|1|2|1|13|85
+Pablo Lopez|R|Freddie Freeman|L|Sac Fly|E|Four-Seam Fastball|84|1|2|1|11|90
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Changeup|85|0|0|2|13|84
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Changeup|86|1|0|2|14|84
+Pablo Lopez|R|Nick Markakis|L|Groundout|X|Two-Seam Fastball|87|2|0|2|6|90
+Pablo Lopez|R|Johan Camargo|L|Double|C|Curveball|88|0|0|0|8|75
+Pablo Lopez|R|Johan Camargo|L|Double|B|Changeup|89|0|1|0|14|82
+Pablo Lopez|R|Johan Camargo|L|Double|S|Changeup|90|1|1|0|7|82
+Pablo Lopez|R|Johan Camargo|L|Double|D|Changeup|91|1|2|0|8|82
+Pablo Lopez|R|Ender Inciarte|L|Groundout|B|Curveball|92|0|0|0|14|79
+Pablo Lopez|R|Ender Inciarte|L|Groundout|B|Two-Seam Fastball|93|1|0|0|14|89
+Pablo Lopez|R|Ender Inciarte|L|Groundout|X|Two-Seam Fastball|94|2|0|0|14|89
+Pablo Lopez|R|Kurt Suzuki|R|Hit By Pitch|B|Changeup|95|0|0|1|14|84
+Pablo Lopez|R|Kurt Suzuki|R|Hit By Pitch|H|Changeup|96|1|0|1|11|83
+Pablo Lopez|R|Charlie Culberson|R|Double|F|Two-Seam Fastball|97|0|0|1|13|88
+Pablo Lopez|R|Charlie Culberson|R|Double|F|Two-Seam Fastball|98|0|1|1|11|91
+Pablo Lopez|R|Charlie Culberson|R|Double|E|Two-Seam Fastball|99|0|2|1|1|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|C|Two-Seam Fastball|0|0|0|0|7|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|X|Four-Seam Fastball|1|0|1|0|6|94
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|B|Four-Seam Fastball|2|0|0|1|13|94
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|B|Two-Seam Fastball|3|1|0|1|11|93
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|C|Four-Seam Fastball|4|2|0|1|8|94
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|X|Four-Seam Fastball|5|2|1|1|9|93
+Pablo Lopez|R|Odubel Herrera|L|Single|B|Four-Seam Fastball|6|0|0|2|14|94
+Pablo Lopez|R|Odubel Herrera|L|Single|B|Two-Seam Fastball|7|1|0|2|8|93
+Pablo Lopez|R|Odubel Herrera|L|Single|C|Two-Seam Fastball|8|2|0|2|1|91
+Pablo Lopez|R|Odubel Herrera|L|Single|S|Changeup|9|2|1|2|8|86
+Pablo Lopez|R|Odubel Herrera|L|Single|B|Four-Seam Fastball|10|2|2|2|12|94
+Pablo Lopez|R|Odubel Herrera|L|Single|D|Four-Seam Fastball|11|3|2|2|6|93
+Pablo Lopez|R|Carlos Santana|L|Pickoff 1B|C|Two-Seam Fastball|12|0|0|2|4|92
+Pablo Lopez|R|Carlos Santana|L|Pickoff 1B|B|Four-Seam Fastball|13|0|1|2|14|94
+Pablo Lopez|R|Carlos Santana|L|Pickoff 1B|F|Four-Seam Fastball|14|1|1|2|6|92
+Pablo Lopez|R|Carlos Santana|L|Single|F|Two-Seam Fastball|15|0|0|0|4|89
+Pablo Lopez|R|Carlos Santana|L|Single|C|Curveball|16|0|1|0|4|77
+Pablo Lopez|R|Carlos Santana|L|Single|F|Four-Seam Fastball|17|0|2|0|3|93
+Pablo Lopez|R|Carlos Santana|L|Single|D|Curveball|18|0|2|0|5|79
+Pablo Lopez|R|Asdrubal Cabrera|L|Grounded Into DP|X|Two-Seam Fastball|19|0|0|0|13|92
+Pablo Lopez|R|Nick Williams|L|Groundout|C|Two-Seam Fastball|20|0|0|2|6|92
+Pablo Lopez|R|Nick Williams|L|Groundout|B|Four-Seam Fastball|21|0|1|2|11|92
+Pablo Lopez|R|Nick Williams|L|Groundout|X|Four-Seam Fastball|22|1|1|2|6|91
+Pablo Lopez|R|Maikel Franco|R|Groundout|C|Curveball|23|0|0|2|8|76
+Pablo Lopez|R|Maikel Franco|R|Groundout|B|Two-Seam Fastball|24|0|1|2|13|91
+Pablo Lopez|R|Maikel Franco|R|Groundout|B|Two-Seam Fastball|25|1|1|2|11|90
+Pablo Lopez|R|Maikel Franco|R|Groundout|C|Four-Seam Fastball|26|2|1|2|14|92
+Pablo Lopez|R|Maikel Franco|R|Groundout|B|Two-Seam Fastball|27|2|2|2|13|92
+Pablo Lopez|R|Maikel Franco|R|Groundout|X|Four-Seam Fastball|28|3|2|2|14|92
+Pablo Lopez|R|Jorge Alfaro|R|Groundout|S|Four-Seam Fastball|29|0|0|0|2|91
+Pablo Lopez|R|Jorge Alfaro|R|Groundout|X|Two-Seam Fastball|30|0|1|0|4|93
+Pablo Lopez|R|Nick Pivetta|R|Strikeout|C|Four-Seam Fastball|31|0|0|1|1|91
+Pablo Lopez|R|Nick Pivetta|R|Strikeout|B|Four-Seam Fastball|32|0|1|1|11|92
+Pablo Lopez|R|Nick Pivetta|R|Strikeout|F|Four-Seam Fastball|33|1|1|1|5|91
+Pablo Lopez|R|Nick Pivetta|R|Strikeout|C|Curveball|34|1|2|1|5|78
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Two-Seam Fastball|35|0|0|2|13|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Two-Seam Fastball|36|1|0|2|11|90
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|C|Two-Seam Fastball|37|2|0|2|2|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|F|Changeup|38|2|1|2|4|85
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Four-Seam Fastball|39|2|2|2|11|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|X|Four-Seam Fastball|40|3|2|2|3|92
+Pablo Lopez|R|Rhys Hoskins|R|Single|B|Two-Seam Fastball|41|0|0|0|11|92
+Pablo Lopez|R|Rhys Hoskins|R|Single|B|Curveball|42|1|0|0|11|78
+Pablo Lopez|R|Rhys Hoskins|R|Single|B|Two-Seam Fastball|43|2|0|0|11|92
+Pablo Lopez|R|Rhys Hoskins|R|Single|C|Two-Seam Fastball|44|3|0|0|8|92
+Pablo Lopez|R|Rhys Hoskins|R|Single|D|Two-Seam Fastball|45|3|1|0|8|91
+Pablo Lopez|R|Odubel Herrera|L|Flyout|S|Curveball|46|0|0|0|9|78
+Pablo Lopez|R|Odubel Herrera|L|Flyout|F|Changeup|47|0|1|0|11|85
+Pablo Lopez|R|Odubel Herrera|L|Flyout|F|Four-Seam Fastball|48|0|2|0|11|93
+Pablo Lopez|R|Odubel Herrera|L|Flyout|F|Four-Seam Fastball|49|0|2|0|2|92
+Pablo Lopez|R|Odubel Herrera|L|Flyout|X|Curveball|50|0|2|0|1|78
+Pablo Lopez|R|Carlos Santana|L|Strikeout|C|Two-Seam Fastball|51|0|0|1|11|91
+Pablo Lopez|R|Carlos Santana|L|Strikeout|B|Four-Seam Fastball|52|0|1|1|12|91
+Pablo Lopez|R|Carlos Santana|L|Strikeout|S|Four-Seam Fastball|53|1|1|1|6|91
+Pablo Lopez|R|Carlos Santana|L|Strikeout|C|Changeup|54|1|2|1|1|84
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|B|Two-Seam Fastball|55|0|0|2|11|88
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|C|Two-Seam Fastball|56|1|0|2|1|89
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|B|Curveball|57|1|1|2|11|76
+Pablo Lopez|R|Asdrubal Cabrera|L|Groundout|X|Four-Seam Fastball|58|2|1|2|2|92
+Pablo Lopez|R|Nick Williams|L|Single|S|Curveball|59|0|0|0|14|75
+Pablo Lopez|R|Nick Williams|L|Single|B|Curveball|60|0|1|0|14|77
+Pablo Lopez|R|Nick Williams|L|Single|B|Two-Seam Fastball|61|1|1|0|14|91
+Pablo Lopez|R|Nick Williams|L|Single|D|Four-Seam Fastball|62|2|1|0|5|92
+Pablo Lopez|R|Maikel Franco|R|Strikeout|F|Two-Seam Fastball|63|0|0|0|7|90
+Pablo Lopez|R|Maikel Franco|R|Strikeout|F|Changeup|64|0|1|0|13|83
+Pablo Lopez|R|Maikel Franco|R|Strikeout|C|Four-Seam Fastball|65|0|2|0|13|93
+Pablo Lopez|R|Jorge Alfaro|R|Strikeout|F|Curveball|66|0|0|1|6|75
+Pablo Lopez|R|Jorge Alfaro|R|Strikeout|F|Changeup|67|0|1|1|13|85
+Pablo Lopez|R|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|68|0|2|1|12|92
+Pablo Lopez|R|Roman Quinn|L|Groundout|C|Curveball|69|0|0|2|1|76
+Pablo Lopez|R|Roman Quinn|L|Groundout|F|Four-Seam Fastball|70|0|1|2|12|90
+Pablo Lopez|R|Roman Quinn|L|Groundout|B|Curveball|71|0|2|2|14|80
+Pablo Lopez|R|Roman Quinn|L|Groundout|X|Changeup|72|1|2|2|4|84
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|F|Two-Seam Fastball|73|0|0|0|1|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Four-Seam Fastball|74|0|1|0|12|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Curveball|75|1|1|0|11|77
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Two-Seam Fastball|76|2|1|0|13|91
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|C|Two-Seam Fastball|77|3|1|0|9|90
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|X|Two-Seam Fastball|78|3|2|0|2|90
+Pablo Lopez|R|Rhys Hoskins|R|Home Run|C|Four-Seam Fastball|79|0|0|1|8|94
+Pablo Lopez|R|Rhys Hoskins|R|Home Run|E|Two-Seam Fastball|80|0|1|1|4|93
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|B|Changeup|81|0|0|1|11|84
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|S|Changeup|82|1|0|1|13|85
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|C|Two-Seam Fastball|83|1|1|1|5|93
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|F|Changeup|84|1|2|1|4|87
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|F|Four-Seam Fastball|85|1|2|1|6|93
+Pablo Lopez|R|Odubel Herrera|L|Strikeout|T|Changeup|86|1|2|1|11|85
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|13|91
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|B|Two-Seam Fastball|1|1|0|0|13|91
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|C|Two-Seam Fastball|2|2|0|0|13|92
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|S|Changeup|3|2|1|0|7|85
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|14|93
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|S|Changeup|5|3|2|0|13|86
+Pablo Lopez|R|Yadier Molina|R|Groundout|F|Two-Seam Fastball|6|0|0|1|13|93
+Pablo Lopez|R|Yadier Molina|R|Groundout|B|Changeup|7|0|1|1|14|87
+Pablo Lopez|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|8|1|1|1|12|93
+Pablo Lopez|R|Yadier Molina|R|Groundout|F|Four-Seam Fastball|9|2|1|1|13|92
+Pablo Lopez|R|Yadier Molina|R|Groundout|F|Four-Seam Fastball|10|2|2|1|2|92
+Pablo Lopez|R|Yadier Molina|R|Groundout|X|Two-Seam Fastball|11|2|2|1|13|93
+Pablo Lopez|R|Jose Martinez|R|Strikeout|F|Four-Seam Fastball|12|0|0|2|8|93
+Pablo Lopez|R|Jose Martinez|R|Strikeout|B|Curveball|13|0|1|2|11|80
+Pablo Lopez|R|Jose Martinez|R|Strikeout|F|Four-Seam Fastball|14|1|1|2|2|92
+Pablo Lopez|R|Jose Martinez|R|Strikeout|C|Four-Seam Fastball|15|1|2|2|14|93
+Pablo Lopez|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|16|0|0|0|14|92
+Pablo Lopez|R|Marcell Ozuna|R|Single|S|Curveball|17|1|0|0|14|78
+Pablo Lopez|R|Marcell Ozuna|R|Single|F|Curveball|18|1|1|0|5|79
+Pablo Lopez|R|Marcell Ozuna|R|Single|D|Four-Seam Fastball|19|1|2|0|8|93
+Pablo Lopez|R|Jedd Gyorko|R|Flyout|B|Curveball|20|0|0|0|14|79
+Pablo Lopez|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|21|1|0|0|9|92
+Pablo Lopez|R|Paul DeJong|R|Lineout|B|Two-Seam Fastball|22|0|0|1|13|91
+Pablo Lopez|R|Paul DeJong|R|Lineout|X|Four-Seam Fastball|23|1|0|1|9|91
+Pablo Lopez|R|Kolten Wong|L|Groundout|C|Two-Seam Fastball|24|0|0|2|13|92
+Pablo Lopez|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|25|0|1|2|12|92
+Pablo Lopez|R|Kolten Wong|L|Groundout|S|Curveball|26|1|1|2|9|80
+Pablo Lopez|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|27|1|2|2|9|91
+Pablo Lopez|R|Kolten Wong|L|Groundout|B|Changeup|28|1|2|2|13|84
+Pablo Lopez|R|Kolten Wong|L|Groundout|B|Curveball|29|2|2|2|13|80
+Pablo Lopez|R|Kolten Wong|L|Groundout|X|Two-Seam Fastball|30|3|2|2|13|92
+Pablo Lopez|R|Harrison Bader|R|Pop Out|F|Four-Seam Fastball|31|0|0|0|5|90
+Pablo Lopez|R|Harrison Bader|R|Pop Out|C|Two-Seam Fastball|32|0|1|0|5|91
+Pablo Lopez|R|Harrison Bader|R|Pop Out|F|Curveball|33|0|2|0|5|79
+Pablo Lopez|R|Harrison Bader|R|Pop Out|X|Curveball|34|0|2|0|4|79
+Pablo Lopez|R|Miles Mikolas|R|Single|C|Four-Seam Fastball|35|0|0|1|5|91
+Pablo Lopez|R|Miles Mikolas|R|Single|B|Curveball|36|0|1|1|11|79
+Pablo Lopez|R|Miles Mikolas|R|Single|C|Curveball|37|1|1|1|13|78
+Pablo Lopez|R|Miles Mikolas|R|Single|B|Four-Seam Fastball|38|1|2|1|14|92
+Pablo Lopez|R|Miles Mikolas|R|Single|D|Four-Seam Fastball|39|2|2|1|9|90
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|B|Curveball|40|0|0|1|14|79
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|C|Changeup|41|1|0|1|11|84
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|C|Changeup|42|1|1|1|4|85
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|F|Changeup|43|1|2|1|13|85
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|44|1|2|1|12|91
+Pablo Lopez|R|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|45|2|2|1|9|92
+Pablo Lopez|R|Yadier Molina|R|Flyout|F|Curveball|46|0|0|2|5|78
+Pablo Lopez|R|Yadier Molina|R|Flyout|B|Changeup|47|0|1|2|13|84
+Pablo Lopez|R|Yadier Molina|R|Flyout|X|Four-Seam Fastball|48|1|1|2|8|92
+Pablo Lopez|R|Jose Martinez|R|Groundout|B|Four-Seam Fastball|49|0|0|0|12|91
+Pablo Lopez|R|Jose Martinez|R|Groundout|B|Four-Seam Fastball|50|1|0|0|14|92
+Pablo Lopez|R|Jose Martinez|R|Groundout|X|Four-Seam Fastball|51|2|0|0|6|91
+Pablo Lopez|R|Marcell Ozuna|R|Groundout|C|Four-Seam Fastball|52|0|0|1|14|92
+Pablo Lopez|R|Marcell Ozuna|R|Groundout|F|Curveball|53|0|1|1|13|79
+Pablo Lopez|R|Marcell Ozuna|R|Groundout|X|Two-Seam Fastball|54|0|2|1|8|92
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|F|Four-Seam Fastball|55|0|0|2|8|91
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|B|Changeup|56|0|1|2|7|86
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|S|Curveball|57|1|1|2|14|79
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|B|Curveball|58|1|2|2|14|80
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|B|Curveball|59|2|2|2|11|77
+Pablo Lopez|R|Jedd Gyorko|R|Strikeout|C|Four-Seam Fastball|60|3|2|2|9|90
+Pablo Lopez|R|Paul DeJong|R|Double|B|Curveball|61|0|0|0|14|77
+Pablo Lopez|R|Paul DeJong|R|Double|B|Four-Seam Fastball|62|1|0|0|14|91
+Pablo Lopez|R|Paul DeJong|R|Double|D|Four-Seam Fastball|63|2|0|0|8|91
+Pablo Lopez|R|Kolten Wong|L|Groundout|S|Curveball|64|0|0|0|14|78
+Pablo Lopez|R|Kolten Wong|L|Groundout|B|Curveball|65|0|1|0|14|79
+Pablo Lopez|R|Kolten Wong|L|Groundout|*B|Two-Seam Fastball|66|1|1|0|13|91
+Pablo Lopez|R|Kolten Wong|L|Groundout|X|Two-Seam Fastball|67|2|1|0|13|90
+Pablo Lopez|R|Harrison Bader|R|Pop Out|S|Changeup|68|0|0|1|7|84
+Pablo Lopez|R|Harrison Bader|R|Pop Out|X|Four-Seam Fastball|69|0|1|1|11|91
+Pablo Lopez|R|Miles Mikolas|R|Strikeout|F|Curveball|70|0|0|2|14|78
+Pablo Lopez|R|Miles Mikolas|R|Strikeout|S|Two-Seam Fastball|71|0|1|2|7|90
+Pablo Lopez|R|Miles Mikolas|R|Strikeout|B|Curveball|72|0|2|2|14|79
+Pablo Lopez|R|Miles Mikolas|R|Strikeout|S|Curveball|73|1|2|2|14|79
+Pablo Lopez|R|Matt Carpenter|L|Groundout|B|Changeup|74|0|0|0|13|84
+Pablo Lopez|R|Matt Carpenter|L|Groundout|B|Two-Seam Fastball|75|1|0|0|13|91
+Pablo Lopez|R|Matt Carpenter|L|Groundout|X|Two-Seam Fastball|76|2|0|0|13|90
+Pablo Lopez|R|Yadier Molina|R|Groundout|C|Curveball|77|0|0|1|4|80
+Pablo Lopez|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|78|0|1|1|9|94
+Pablo Lopez|R|Yadier Molina|R|Groundout|F|Four-Seam Fastball|79|1|1|1|14|93
+Pablo Lopez|R|Yadier Molina|R|Groundout|X|Changeup|80|1|2|1|13|86
+Pablo Lopez|R|Jose Martinez|R|Groundout|B|Changeup|81|0|0|2|13|84
+Pablo Lopez|R|Jose Martinez|R|Groundout|C|Four-Seam Fastball|82|1|0|2|6|92
+Pablo Lopez|R|Jose Martinez|R|Groundout|B|Four-Seam Fastball|83|1|1|2|11|90
+Pablo Lopez|R|Jose Martinez|R|Groundout|F|Four-Seam Fastball|84|2|1|2|13|92
+Pablo Lopez|R|Jose Martinez|R|Groundout|F|Four-Seam Fastball|85|2|2|2|1|91
+Pablo Lopez|R|Jose Martinez|R|Groundout|B|Curveball|86|2|2|2|13|77
+Pablo Lopez|R|Jose Martinez|R|Groundout|X|Four-Seam Fastball|87|3|2|2|3|91
+Pablo Lopez|R|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|88|0|0|0|14|91
+Pablo Lopez|R|Marcell Ozuna|R|Flyout|S|Curveball|89|1|0|0|14|78
+Pablo Lopez|R|Marcell Ozuna|R|Flyout|S|Curveball|90|1|1|0|14|79
+Pablo Lopez|R|Marcell Ozuna|R|Flyout|B|Curveball|91|1|2|0|14|79
+Pablo Lopez|R|Marcell Ozuna|R|Flyout|X|Curveball|92|2|2|0|8|77
+Pablo Lopez|R|Jedd Gyorko|R|Walk|B|Curveball|93|0|0|1|8|79
+Pablo Lopez|R|Jedd Gyorko|R|Walk|B|Changeup|94|1|0|1|13|84
+Pablo Lopez|R|Jedd Gyorko|R|Walk|B|Four-Seam Fastball|95|2|0|1|14|91
+Pablo Lopez|R|Jedd Gyorko|R|Walk|C|Four-Seam Fastball|96|3|0|1|6|89
+Pablo Lopez|R|Jedd Gyorko|R|Walk|B|Two-Seam Fastball|97|3|1|1|13|90
+Pablo Lopez|R|Paul DeJong|R|Home Run|C|Two-Seam Fastball|98|0|0|1|4|89
+Pablo Lopez|R|Paul DeJong|R|Home Run|E|Curveball|99|0|1|1|7|78
+Pablo Lopez|R|Kolten Wong|L|Groundout|B|Changeup|100|0|0|1|13|83
+Pablo Lopez|R|Kolten Wong|L|Groundout|C|Two-Seam Fastball|101|1|0|1|13|90
+Pablo Lopez|R|Kolten Wong|L|Groundout|X|Two-Seam Fastball|102|1|1|1|5|91
+Pablo Lopez|R|Harrison Bader|R|Lineout|B|Four-Seam Fastball|103|0|0|2|12|91
+Pablo Lopez|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|104|1|0|2|4|91
+Pablo Lopez|R|Harrison Bader|R|Lineout|B|Two-Seam Fastball|105|1|1|2|13|90
+Pablo Lopez|R|Harrison Bader|R|Lineout|B|Changeup|106|2|1|2|13|85
+Pablo Lopez|R|Harrison Bader|R|Lineout|X|Four-Seam Fastball|107|3|1|2|4|89
+Pablo Lopez|R|Brett Gardner|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|11|91
+Pablo Lopez|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|13|93
+Pablo Lopez|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|6|92
+Pablo Lopez|R|Brett Gardner|L|Strikeout|S|Curveball|3|1|2|0|14|79
+Pablo Lopez|R|Giancarlo Stanton|R|Single|C|Four-Seam Fastball|4|0|0|1|5|95
+Pablo Lopez|R|Giancarlo Stanton|R|Single|B|Four-Seam Fastball|5|0|1|1|11|93
+Pablo Lopez|R|Giancarlo Stanton|R|Single|B|Four-Seam Fastball|6|1|1|1|13|93
+Pablo Lopez|R|Giancarlo Stanton|R|Single|C|Curveball|7|2|1|1|14|81
+Pablo Lopez|R|Giancarlo Stanton|R|Single|D|Four-Seam Fastball|8|2|2|1|7|95
+Pablo Lopez|R|Aaron Hicks|L|Double Play|X|Two-Seam Fastball|9|0|0|1|7|93
+Pablo Lopez|R|Miguel Andujar|R|Flyout|X|Four-Seam Fastball|10|0|0|2|9|93
+Pablo Lopez|R|Greg Bird|L|Strikeout|C|Two-Seam Fastball|11|0|0|0|13|93
+Pablo Lopez|R|Greg Bird|L|Strikeout|C|Four-Seam Fastball|12|0|1|0|11|92
+Pablo Lopez|R|Greg Bird|L|Strikeout|S|Four-Seam Fastball|13|0|2|0|12|92
+Pablo Lopez|R|Gleyber Torres|R|Single|C|Four-Seam Fastball|14|0|0|1|3|94
+Pablo Lopez|R|Gleyber Torres|R|Single|C|Curveball|15|0|1|1|8|80
+Pablo Lopez|R|Gleyber Torres|R|Single|D|Two-Seam Fastball|16|0|2|1|6|93
+Pablo Lopez|R|Neil Walker|L|Single|D|Two-Seam Fastball|17|0|0|1|6|93
+Pablo Lopez|R|Austin Romine|R|Groundout|B|Curveball|18|0|0|1|11|79
+Pablo Lopez|R|Austin Romine|R|Groundout|S|Curveball|19|1|0|1|14|79
+Pablo Lopez|R|Austin Romine|R|Groundout|B|Four-Seam Fastball|20|1|1|1|14|94
+Pablo Lopez|R|Austin Romine|R|Groundout|*B|Curveball|21|2|1|1|14|81
+Pablo Lopez|R|Austin Romine|R|Groundout|S|Curveball|22|3|1|1|14|80
+Pablo Lopez|R|Austin Romine|R|Groundout|F|Four-Seam Fastball|23|3|2|1|3|92
+Pablo Lopez|R|Austin Romine|R|Groundout|X|Curveball|24|3|2|1|8|79
+Pablo Lopez|R|Masahiro Tanaka|R|Groundout|C|Four-Seam Fastball|25|0|0|2|7|91
+Pablo Lopez|R|Masahiro Tanaka|R|Groundout|B|Curveball|26|0|1|2|14|80
+Pablo Lopez|R|Masahiro Tanaka|R|Groundout|X|Four-Seam Fastball|27|1|1|2|8|92
+Pablo Lopez|R|Brett Gardner|L|Walk|B|Two-Seam Fastball|28|0|0|0|11|92
+Pablo Lopez|R|Brett Gardner|L|Walk|C|Two-Seam Fastball|29|1|0|0|7|91
+Pablo Lopez|R|Brett Gardner|L|Walk|C|Changeup|30|1|1|0|2|85
+Pablo Lopez|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|31|1|2|0|11|92
+Pablo Lopez|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|32|2|2|0|14|94
+Pablo Lopez|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|33|3|2|0|11|92
+Pablo Lopez|R|Giancarlo Stanton|R|Strikeout|F|Four-Seam Fastball|34|0|0|0|5|91
+Pablo Lopez|R|Giancarlo Stanton|R|Strikeout|*B|Curveball|35|0|1|0|14|80
+Pablo Lopez|R|Giancarlo Stanton|R|Strikeout|S|Changeup|36|1|1|0|13|86
+Pablo Lopez|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|37|1|2|0|11|91
+Pablo Lopez|R|Giancarlo Stanton|R|Strikeout|S|Curveball|38|2|2|0|14|80
+Pablo Lopez|R|Aaron Hicks|L|Strikeout|C|Changeup|39|0|0|1|7|84
+Pablo Lopez|R|Aaron Hicks|L|Strikeout|B|Four-Seam Fastball|40|0|1|1|14|92
+Pablo Lopez|R|Aaron Hicks|L|Strikeout|F|Changeup|41|1|1|1|13|85
+Pablo Lopez|R|Aaron Hicks|L|Strikeout|C|Four-Seam Fastball|42|1|2|1|14|93
+Pablo Lopez|R|Miguel Andujar|R|Single|C|Curveball|43|0|0|2|8|77
+Pablo Lopez|R|Miguel Andujar|R|Single|F|Four-Seam Fastball|44|0|1|2|11|91
+Pablo Lopez|R|Miguel Andujar|R|Single|B|Changeup|45|0|2|2|14|86
+Pablo Lopez|R|Miguel Andujar|R|Single|D|Four-Seam Fastball|46|1|2|2|14|95
+Pablo Lopez|R|Greg Bird|L|Pop Out|C|Four-Seam Fastball|47|0|0|2|5|91
+Pablo Lopez|R|Greg Bird|L|Pop Out|B|Curveball|48|0|1|2|13|79
+Pablo Lopez|R|Greg Bird|L|Pop Out|B|Changeup|49|1|1|2|13|86
+Pablo Lopez|R|Greg Bird|L|Pop Out|X|Four-Seam Fastball|50|2|1|2|3|92
+Pablo Lopez|R|Gleyber Torres|R|Single|S|Curveball|51|0|0|0|14|79
+Pablo Lopez|R|Gleyber Torres|R|Single|*B|Curveball|52|0|1|0|14|80
+Pablo Lopez|R|Gleyber Torres|R|Single|D|Curveball|53|1|1|0|3|77
+Pablo Lopez|R|Neil Walker|L|Single|B|Four-Seam Fastball|54|0|0|0|14|92
+Pablo Lopez|R|Neil Walker|L|Single|B|Changeup|55|1|0|0|13|85
+Pablo Lopez|R|Neil Walker|L|Single|S|Changeup|56|2|0|0|13|85
+Pablo Lopez|R|Neil Walker|L|Single|B|Four-Seam Fastball|57|2|1|0|14|93
+Pablo Lopez|R|Neil Walker|L|Single|C|Four-Seam Fastball|58|3|1|0|7|92
+Pablo Lopez|R|Neil Walker|L|Single|E|Changeup|59|3|2|0|13|85
+Pablo Lopez|R|Austin Romine|R|Hit By Pitch|F|Four-Seam Fastball|60|0|0|0|2|93
+Pablo Lopez|R|Austin Romine|R|Hit By Pitch|H|Two-Seam Fastball|61|0|1|0|11|92
+Pablo Lopez|R|Masahiro Tanaka|R|Pop Out|F|Two-Seam Fastball|62|0|0|0|4|91
+Pablo Lopez|R|Masahiro Tanaka|R|Pop Out|M|Two-Seam Fastball|63|0|1|0|8|90
+Pablo Lopez|R|Masahiro Tanaka|R|Pop Out|X|Two-Seam Fastball|64|0|2|0|1|91
+Pablo Lopez|R|Brett Gardner|L|Flyout|B|Curveball|65|0|0|1|12|79
+Pablo Lopez|R|Brett Gardner|L|Flyout|B|Two-Seam Fastball|66|1|0|1|13|92
+Pablo Lopez|R|Brett Gardner|L|Flyout|C|Four-Seam Fastball|67|2|0|1|11|91
+Pablo Lopez|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|68|2|1|1|2|91
+Pablo Lopez|R|Giancarlo Stanton|R|Double|F|Curveball|69|0|0|2|13|79
+Pablo Lopez|R|Giancarlo Stanton|R|Double|F|Four-Seam Fastball|70|0|1|2|4|95
+Pablo Lopez|R|Giancarlo Stanton|R|Double|B|Changeup|71|0|2|2|11|87
+Pablo Lopez|R|Giancarlo Stanton|R|Double|D|Four-Seam Fastball|72|1|2|2|1|94
+Pablo Lopez|R|Aaron Hicks|L|Groundout|B|Two-Seam Fastball|73|0|0|2|13|92
+Pablo Lopez|R|Aaron Hicks|L|Groundout|X|Changeup|74|1|0|2|7|84
+Pablo Lopez|R|Miguel Andujar|R|Lineout|S|Changeup|75|0|0|0|13|84
+Pablo Lopez|R|Miguel Andujar|R|Lineout|X|Four-Seam Fastball|76|0|1|0|1|92
+Pablo Lopez|R|Greg Bird|L|Flyout|X|Curveball|77|0|0|1|6|79
+Pablo Lopez|R|Gleyber Torres|R|Groundout|B|Four-Seam Fastball|78|0|0|2|12|92
+Pablo Lopez|R|Gleyber Torres|R|Groundout|S|Curveball|79|1|0|2|8|77
+Pablo Lopez|R|Gleyber Torres|R|Groundout|F|Four-Seam Fastball|80|1|1|2|6|93
+Pablo Lopez|R|Gleyber Torres|R|Groundout|B|Four-Seam Fastball|81|1|2|2|12|91
+Pablo Lopez|R|Gleyber Torres|R|Groundout|X|Changeup|82|2|2|2|7|85
+Pablo Lopez|R|Neil Walker|L|Lineout|B|Curveball|83|0|0|0|13|78
+Pablo Lopez|R|Neil Walker|L|Lineout|F|Changeup|84|1|0|0|13|84
+Pablo Lopez|R|Neil Walker|L|Lineout|X|Four-Seam Fastball|85|1|1|0|6|93
+Pablo Lopez|R|Austin Romine|R|Groundout|B|Four-Seam Fastball|86|0|0|1|14|94
+Pablo Lopez|R|Austin Romine|R|Groundout|S|Curveball|87|1|0|1|14|79
+Pablo Lopez|R|Austin Romine|R|Groundout|X|Curveball|88|1|1|1|14|79
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|B|Curveball|0|0|0|0|11|77
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|B|Changeup|1|1|0|0|13|83
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|C|Four-Seam Fastball|2|2|0|0|13|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|F|Four-Seam Fastball|3|2|1|0|8|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|B|Four-Seam Fastball|4|2|2|0|12|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|D|Four-Seam Fastball|5|3|2|0|1|92
+Pablo Lopez|R|Ender Inciarte|L|Double|B|Two-Seam Fastball|6|0|0|0|11|91
+Pablo Lopez|R|Ender Inciarte|L|Double|F|Four-Seam Fastball|7|1|0|0|1|92
+Pablo Lopez|R|Ender Inciarte|L|Double|B|Two-Seam Fastball|8|1|1|0|11|91
+Pablo Lopez|R|Ender Inciarte|L|Double|B|Changeup|9|2|1|0|11|84
+Pablo Lopez|R|Ender Inciarte|L|Double|D|Two-Seam Fastball|10|3|1|0|4|92
+Pablo Lopez|R|Freddie Freeman|L|Groundout|S|Four-Seam Fastball|11|0|0|0|4|92
+Pablo Lopez|R|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|12|0|1|0|12|91
+Pablo Lopez|R|Freddie Freeman|L|Groundout|F|Changeup|13|1|1|0|4|84
+Pablo Lopez|R|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|14|1|2|0|11|92
+Pablo Lopez|R|Freddie Freeman|L|Groundout|X|Four-Seam Fastball|15|2|2|0|3|92
+Pablo Lopez|R|Nick Markakis|L|Intent Walk|V|N/A|16|0|0|1|0|0
+Pablo Lopez|R|Nick Markakis|L|Intent Walk|V|N/A|17|0|1|1|0|0
+Pablo Lopez|R|Nick Markakis|L|Intent Walk|V|N/A|18|0|2|1|0|0
+Pablo Lopez|R|Nick Markakis|L|Intent Walk|V|N/A|19|0|2|1|0|0
+Pablo Lopez|R|Johan Camargo|L|Flyout|C|Curveball|20|0|0|1|5|78
+Pablo Lopez|R|Johan Camargo|L|Flyout|X|Changeup|21|0|1|1|11|84
+Pablo Lopez|R|Charlie Culberson|R|Groundout|B|Curveball|22|0|0|2|14|80
+Pablo Lopez|R|Charlie Culberson|R|Groundout|S|Curveball|23|1|0|2|14|80
+Pablo Lopez|R|Charlie Culberson|R|Groundout|C|Four-Seam Fastball|24|1|1|2|14|93
+Pablo Lopez|R|Charlie Culberson|R|Groundout|*B|Curveball|25|1|2|2|14|79
+Pablo Lopez|R|Charlie Culberson|R|Groundout|B|Four-Seam Fastball|26|2|2|2|14|96
+Pablo Lopez|R|Charlie Culberson|R|Groundout|X|Four-Seam Fastball|27|3|2|2|14|93
+Pablo Lopez|R|Tyler Flowers|R|Single|C|Four-Seam Fastball|28|0|0|0|1|91
+Pablo Lopez|R|Tyler Flowers|R|Single|B|Four-Seam Fastball|29|0|1|0|12|93
+Pablo Lopez|R|Tyler Flowers|R|Single|T|Two-Seam Fastball|30|1|1|0|13|90
+Pablo Lopez|R|Tyler Flowers|R|Single|F|Curveball|31|1|2|0|13|78
+Pablo Lopez|R|Tyler Flowers|R|Single|B|Curveball|32|1|2|0|14|79
+Pablo Lopez|R|Tyler Flowers|R|Single|F|Four-Seam Fastball|33|2|2|0|5|93
+Pablo Lopez|R|Tyler Flowers|R|Single|D|Two-Seam Fastball|34|2|2|0|8|91
+Pablo Lopez|R|Dansby Swanson|R|Pop Out|C|Two-Seam Fastball|35|0|0|0|14|92
+Pablo Lopez|R|Dansby Swanson|R|Pop Out|F|Two-Seam Fastball|36|0|1|0|12|90
+Pablo Lopez|R|Dansby Swanson|R|Pop Out|X|Curveball|37|0|2|0|14|78
+Pablo Lopez|R|Kevin Gausman|L|Strikeout|C|Two-Seam Fastball|38|0|0|1|4|89
+Pablo Lopez|R|Kevin Gausman|L|Strikeout|C|Curveball|39|0|1|1|5|77
+Pablo Lopez|R|Kevin Gausman|L|Strikeout|B|Four-Seam Fastball|40|0|2|1|11|89
+Pablo Lopez|R|Kevin Gausman|L|Strikeout|M|Two-Seam Fastball|41|1|2|1|7|90
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|C|Changeup|42|0|0|2|14|84
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|F|Two-Seam Fastball|43|0|1|2|5|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|*B|Curveball|44|0|2|2|14|78
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|X|Curveball|45|1|2|2|14|76
+Pablo Lopez|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|46|0|0|0|1|90
+Pablo Lopez|R|Freddie Freeman|L|Grounded Into DP|X|Two-Seam Fastball|47|0|0|0|13|90
+Pablo Lopez|R|Nick Markakis|L|Flyout|C|Two-Seam Fastball|48|0|0|2|5|92
+Pablo Lopez|R|Nick Markakis|L|Flyout|B|Curveball|49|0|1|2|13|78
+Pablo Lopez|R|Nick Markakis|L|Flyout|X|Changeup|50|1|1|2|7|84
+Pablo Lopez|R|Johan Camargo|L|Flyout|B|Curveball|51|0|0|0|13|77
+Pablo Lopez|R|Johan Camargo|L|Flyout|S|Changeup|52|1|0|0|13|83
+Pablo Lopez|R|Johan Camargo|L|Flyout|C|Changeup|53|1|1|0|14|84
+Pablo Lopez|R|Johan Camargo|L|Flyout|X|Changeup|54|1|2|0|13|85
+Pablo Lopez|R|Charlie Culberson|R|Strikeout|C|Two-Seam Fastball|55|0|0|1|6|92
+Pablo Lopez|R|Charlie Culberson|R|Strikeout|B|Curveball|56|0|1|1|13|79
+Pablo Lopez|R|Charlie Culberson|R|Strikeout|F|Two-Seam Fastball|57|1|1|1|8|92
+Pablo Lopez|R|Charlie Culberson|R|Strikeout|S|Curveball|58|1|2|1|14|77
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Curveball|59|0|0|2|14|77
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|B|Four-Seam Fastball|60|0|1|2|2|93
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|C|Two-Seam Fastball|61|1|1|2|4|92
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|B|Curveball|62|1|2|2|14|77
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|B|Curveball|63|2|2|2|14|78
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Four-Seam Fastball|64|3|2|2|13|90
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Four-Seam Fastball|65|3|2|2|6|90
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|T|Two-Seam Fastball|66|3|2|2|7|90
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Curveball|67|0|0|0|11|74
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|C|Curveball|68|1|0|0|8|76
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Two-Seam Fastball|69|1|1|0|14|92
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Two-Seam Fastball|70|2|1|0|3|90
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Two-Seam Fastball|71|2|2|0|7|91
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|T|Changeup|72|2|2|0|13|84
+Pablo Lopez|R|Kevin Gausman|L|Groundout|S|Two-Seam Fastball|73|0|0|1|4|89
+Pablo Lopez|R|Kevin Gausman|L|Groundout|X|Two-Seam Fastball|74|0|1|1|1|91
+Pablo Lopez|R|Ronald Acuna Jr.|R|Single|D|Curveball|75|0|0|2|6|78
+Pablo Lopez|R|Ender Inciarte|L|Walk|B|Changeup|76|0|0|2|13|83
+Pablo Lopez|R|Ender Inciarte|L|Walk|F|Changeup|77|1|0|2|4|84
+Pablo Lopez|R|Ender Inciarte|L|Walk|B|Two-Seam Fastball|78|1|1|2|14|92
+Pablo Lopez|R|Ender Inciarte|L|Walk|B|Two-Seam Fastball|79|2|1|2|14|91
+Pablo Lopez|R|Ender Inciarte|L|Walk|B|Two-Seam Fastball|80|3|1|2|13|91
+Pablo Lopez|R|Freddie Freeman|L|Flyout|C|Two-Seam Fastball|81|0|0|2|13|91
+Pablo Lopez|R|Freddie Freeman|L|Flyout|X|Changeup|82|0|1|2|7|84
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|83|0|0|0|13|90
+Pablo Lopez|R|Nick Markakis|L|Walk|C|Curveball|84|1|0|0|9|76
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Changeup|85|1|1|0|11|83
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Changeup|86|2|1|0|13|83
+Pablo Lopez|R|Nick Markakis|L|Walk|C|Four-Seam Fastball|87|3|1|0|7|92
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Changeup|88|3|2|0|13|84
+Pablo Lopez|R|Johan Camargo|L|Groundout|X|Two-Seam Fastball|89|0|0|0|7|92
+Pablo Lopez|R|Charlie Culberson|R|Groundout|C|Curveball|90|0|0|1|3|77
+Pablo Lopez|R|Charlie Culberson|R|Groundout|S|Curveball|91|0|1|1|8|76
+Pablo Lopez|R|Charlie Culberson|R|Groundout|*B|Curveball|92|0|2|1|14|78
+Pablo Lopez|R|Charlie Culberson|R|Groundout|B|Changeup|93|1|2|1|14|83
+Pablo Lopez|R|Charlie Culberson|R|Groundout|F|Four-Seam Fastball|94|2|2|1|3|92
+Pablo Lopez|R|Charlie Culberson|R|Groundout|X|Curveball|95|2|2|1|14|77
+Pablo Lopez|R|Tyler Flowers|R|Single|C|Curveball|96|0|0|2|14|77
+Pablo Lopez|R|Tyler Flowers|R|Single|S|Four-Seam Fastball|97|0|1|2|3|93
+Pablo Lopez|R|Tyler Flowers|R|Single|B|Curveball|98|0|2|2|14|76
+Pablo Lopez|R|Tyler Flowers|R|Single|B|Curveball|99|1|2|2|14|78
+Pablo Lopez|R|Tyler Flowers|R|Single|E|Four-Seam Fastball|100|2|2|2|6|92
+Pablo Lopez|R|Dansby Swanson|R|Intent Walk|V|N/A|101|0|0|2|0|0
+Pablo Lopez|R|Dansby Swanson|R|Intent Walk|V|N/A|102|0|1|2|0|0
+Pablo Lopez|R|Dansby Swanson|R|Intent Walk|V|N/A|103|0|2|2|0|0
+Pablo Lopez|R|Dansby Swanson|R|Intent Walk|V|N/A|104|0|2|2|0|0
+Pablo Lopez|R|Rio Ruiz|L|Walk|B|Curveball|105|0|0|2|13|76
+Pablo Lopez|R|Rio Ruiz|L|Walk|B|Changeup|106|1|0|2|13|83
+Pablo Lopez|R|Rio Ruiz|L|Walk|B|Two-Seam Fastball|107|2|0|2|14|93
+Pablo Lopez|R|Rio Ruiz|L|Walk|B|Two-Seam Fastball|108|3|0|2|14|92
+Pablo Lopez|R|Wilmer Flores|R|Hit By Pitch|H|Four-Seam Fastball|0|0|0|0|11|91
+Pablo Lopez|R|Josh Rojas|L|Hit By Pitch|B|Two-Seam Fastball|1|0|0|0|13|93
+Pablo Lopez|R|Josh Rojas|L|Hit By Pitch|C|Four-Seam Fastball|2|1|0|0|4|92
+Pablo Lopez|R|Josh Rojas|L|Hit By Pitch|C|Two-Seam Fastball|3|1|1|0|13|92
+Pablo Lopez|R|Josh Rojas|L|Hit By Pitch|H|Curveball|4|1|2|0|14|81
+Pablo Lopez|R|Ketel Marte|L|Lineout|*B|Curveball|5|0|0|0|14|81
+Pablo Lopez|R|Ketel Marte|L|Lineout|B|Two-Seam Fastball|6|1|0|0|13|93
+Pablo Lopez|R|Ketel Marte|L|Lineout|T|Four-Seam Fastball|7|2|0|0|4|93
+Pablo Lopez|R|Ketel Marte|L|Lineout|F|Four-Seam Fastball|8|2|1|0|4|93
+Pablo Lopez|R|Ketel Marte|L|Lineout|X|Changeup|9|2|2|0|13|85
+Pablo Lopez|R|Eduardo Escobar|L|Single|B|Two-Seam Fastball|10|0|0|1|8|93
+Pablo Lopez|R|Eduardo Escobar|L|Single|D|Two-Seam Fastball|11|1|0|1|13|93
+Pablo Lopez|R|Jake Lamb|L|Hit By Pitch|F|Curveball|12|0|0|1|14|79
+Pablo Lopez|R|Jake Lamb|L|Hit By Pitch|H|Curveball|13|0|1|1|14|80
+Pablo Lopez|R|Adam Jones|R|Grounded Into DP|*B|Two-Seam Fastball|14|0|0|1|14|95
+Pablo Lopez|R|Adam Jones|R|Grounded Into DP|X|Four-Seam Fastball|15|1|0|1|14|94
+Pablo Lopez|R|Nick Ahmed|R|Flyout|C|Four-Seam Fastball|16|0|0|0|3|91
+Pablo Lopez|R|Nick Ahmed|R|Flyout|T|Four-Seam Fastball|17|0|1|0|5|93
+Pablo Lopez|R|Nick Ahmed|R|Flyout|F|Four-Seam Fastball|18|0|2|0|11|93
+Pablo Lopez|R|Nick Ahmed|R|Flyout|B|Four-Seam Fastball|19|0|2|0|13|94
+Pablo Lopez|R|Nick Ahmed|R|Flyout|B|Curveball|20|1|2|0|13|79
+Pablo Lopez|R|Nick Ahmed|R|Flyout|X|Four-Seam Fastball|21|2|2|0|5|94
+Pablo Lopez|R|Carson Kelly|R|Pop Out|C|Four-Seam Fastball|22|0|0|1|8|92
+Pablo Lopez|R|Carson Kelly|R|Pop Out|S|Two-Seam Fastball|23|0|1|1|13|92
+Pablo Lopez|R|Carson Kelly|R|Pop Out|B|Changeup|24|0|2|1|14|84
+Pablo Lopez|R|Carson Kelly|R|Pop Out|X|Four-Seam Fastball|25|1|2|1|4|92
+Pablo Lopez|R|Robbie Ray|L|Strikeout|C|Four-Seam Fastball|26|0|0|2|13|93
+Pablo Lopez|R|Robbie Ray|L|Strikeout|F|Four-Seam Fastball|27|0|1|2|4|92
+Pablo Lopez|R|Robbie Ray|L|Strikeout|S|Changeup|28|0|2|2|13|85
+Pablo Lopez|R|Wilmer Flores|R|Pop Out|C|Four-Seam Fastball|29|0|0|0|5|92
+Pablo Lopez|R|Wilmer Flores|R|Pop Out|B|Changeup|30|0|1|0|14|85
+Pablo Lopez|R|Wilmer Flores|R|Pop Out|X|Four-Seam Fastball|31|1|1|0|2|92
+Pablo Lopez|R|Josh Rojas|L|Single|D|Two-Seam Fastball|32|0|0|1|9|93
+Pablo Lopez|R|Ketel Marte|L|Double|B|Two-Seam Fastball|33|0|0|1|13|93
+Pablo Lopez|R|Ketel Marte|L|Double|B|Changeup|34|1|0|1|11|84
+Pablo Lopez|R|Ketel Marte|L|Double|B|Two-Seam Fastball|35|2|0|1|11|92
+Pablo Lopez|R|Ketel Marte|L|Double|E|Four-Seam Fastball|36|3|0|1|4|93
+Pablo Lopez|R|Eduardo Escobar|L|Groundout|B|Changeup|37|0|0|1|13|85
+Pablo Lopez|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|38|1|0|1|11|94
+Pablo Lopez|R|Eduardo Escobar|L|Groundout|S|Four-Seam Fastball|39|2|0|1|1|93
+Pablo Lopez|R|Eduardo Escobar|L|Groundout|X|Changeup|40|2|1|1|11|84
+Pablo Lopez|R|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|41|0|0|2|7|92
+Pablo Lopez|R|Jake Lamb|L|Strikeout|C|Curveball|42|0|1|2|2|80
+Pablo Lopez|R|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|43|0|2|2|1|93
+Pablo Lopez|R|Adam Jones|R|Strikeout|S|Two-Seam Fastball|44|0|0|0|13|91
+Pablo Lopez|R|Adam Jones|R|Strikeout|B|Two-Seam Fastball|45|0|1|0|14|92
+Pablo Lopez|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|46|1|1|0|9|93
+Pablo Lopez|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|47|1|2|0|9|93
+Pablo Lopez|R|Adam Jones|R|Strikeout|F|Changeup|48|1|2|0|13|84
+Pablo Lopez|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|49|1|2|0|6|93
+Pablo Lopez|R|Adam Jones|R|Strikeout|S|Curveball|50|1|2|0|14|79
+Pablo Lopez|R|Nick Ahmed|R|Groundout|C|Curveball|51|0|0|1|9|78
+Pablo Lopez|R|Nick Ahmed|R|Groundout|C|Two-Seam Fastball|52|0|1|1|13|93
+Pablo Lopez|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|53|0|2|1|12|93
+Pablo Lopez|R|Nick Ahmed|R|Groundout|F|Four-Seam Fastball|54|1|2|1|11|92
+Pablo Lopez|R|Nick Ahmed|R|Groundout|X|Curveball|55|1|2|1|5|80
+Pablo Lopez|R|Carson Kelly|R|Groundout|X|Curveball|56|0|0|2|9|79
+Pablo Lopez|R|Robbie Ray|L|Strikeout|B|Four-Seam Fastball|57|0|0|0|11|91
+Pablo Lopez|R|Robbie Ray|L|Strikeout|B|Four-Seam Fastball|58|1|0|0|13|92
+Pablo Lopez|R|Robbie Ray|L|Strikeout|C|Four-Seam Fastball|59|2|0|0|6|91
+Pablo Lopez|R|Robbie Ray|L|Strikeout|T|Four-Seam Fastball|60|2|1|0|7|91
+Pablo Lopez|R|Robbie Ray|L|Strikeout|C|Four-Seam Fastball|61|2|2|0|13|92
+Pablo Lopez|R|Wilmer Flores|R|Single|B|Two-Seam Fastball|62|0|0|1|9|94
+Pablo Lopez|R|Wilmer Flores|R|Single|D|Four-Seam Fastball|63|1|0|1|8|93
+Pablo Lopez|R|Josh Rojas|L|Strikeout|B|Changeup|64|0|0|1|11|84
+Pablo Lopez|R|Josh Rojas|L|Strikeout|C|Four-Seam Fastball|65|1|0|1|8|93
+Pablo Lopez|R|Josh Rojas|L|Strikeout|B|Changeup|66|1|1|1|11|83
+Pablo Lopez|R|Josh Rojas|L|Strikeout|S|Four-Seam Fastball|67|2|1|1|5|92
+Pablo Lopez|R|Josh Rojas|L|Strikeout|S|Four-Seam Fastball|68|2|2|1|7|93
+Pablo Lopez|R|Ketel Marte|L|Pop Out|F|Curveball|69|0|0|2|14|78
+Pablo Lopez|R|Ketel Marte|L|Pop Out|S|Changeup|70|0|1|2|14|85
+Pablo Lopez|R|Ketel Marte|L|Pop Out|F|Changeup|71|0|2|2|9|86
+Pablo Lopez|R|Ketel Marte|L|Pop Out|X|Four-Seam Fastball|72|0|2|2|6|94
+Pablo Lopez|R|Eduardo Escobar|L|Home Run|B|Curveball|73|0|0|0|11|76
+Pablo Lopez|R|Eduardo Escobar|L|Home Run|E|Changeup|74|1|0|0|1|83
+Pablo Lopez|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|75|0|0|0|4|93
+Pablo Lopez|R|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|76|0|1|0|11|91
+Pablo Lopez|R|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|77|0|2|0|1|93
+Pablo Lopez|R|Adam Jones|R|Groundout|X|Two-Seam Fastball|78|0|0|1|5|92
+Pablo Lopez|R|Nick Ahmed|R|Groundout|C|Four-Seam Fastball|79|0|0|2|12|93
+Pablo Lopez|R|Nick Ahmed|R|Groundout|C|Curveball|80|0|1|2|4|78
+Pablo Lopez|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|81|0|2|2|12|92
+Pablo Lopez|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|82|1|2|2|12|92
+Pablo Lopez|R|Nick Ahmed|R|Groundout|X|Changeup|83|2|2|2|8|84
+Pablo Lopez|R|Jesse Winker|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|94
+Pablo Lopez|R|Jesse Winker|L|Groundout|F|Four-Seam Fastball|1|1|0|0|7|93
+Pablo Lopez|R|Jesse Winker|L|Groundout|B|Curveball|2|1|1|0|14|82
+Pablo Lopez|R|Jesse Winker|L|Groundout|C|Four-Seam Fastball|3|2|1|0|11|93
+Pablo Lopez|R|Jesse Winker|L|Groundout|X|Changeup|4|2|2|0|13|85
+Pablo Lopez|R|Joey Votto|L|Strikeout|B|Two-Seam Fastball|5|0|0|1|11|93
+Pablo Lopez|R|Joey Votto|L|Strikeout|F|Four-Seam Fastball|6|1|0|1|5|94
+Pablo Lopez|R|Joey Votto|L|Strikeout|B|Changeup|7|1|1|1|13|85
+Pablo Lopez|R|Joey Votto|L|Strikeout|S|Changeup|8|2|1|1|7|86
+Pablo Lopez|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|9|2|2|1|11|94
+Pablo Lopez|R|Joey Votto|L|Strikeout|S|Changeup|10|3|2|1|13|85
+Pablo Lopez|R|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|11|0|0|2|6|95
+Pablo Lopez|R|Yasiel Puig|R|Strikeout|F|Curveball|12|0|1|2|9|81
+Pablo Lopez|R|Yasiel Puig|R|Strikeout|S|Four-Seam Fastball|13|0|2|2|5|95
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Four-Seam Fastball|14|0|0|2|14|93
+Pablo Lopez|R|Eugenio Suarez|R|Single|F|Changeup|15|1|0|2|7|83
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Four-Seam Fastball|16|1|1|2|11|94
+Pablo Lopez|R|Eugenio Suarez|R|Single|D|Four-Seam Fastball|17|2|1|2|11|95
+Pablo Lopez|R|Matt Kemp|R|Grounded Into DP|C|Four-Seam Fastball|18|0|0|2|5|95
+Pablo Lopez|R|Matt Kemp|R|Grounded Into DP|B|Four-Seam Fastball|19|0|1|2|11|93
+Pablo Lopez|R|Matt Kemp|R|Grounded Into DP|X|Changeup|20|1|1|2|5|85
+Pablo Lopez|R|Jose Peraza|R|Groundout|C|Four-Seam Fastball|21|0|0|1|9|96
+Pablo Lopez|R|Jose Peraza|R|Groundout|S|Curveball|22|0|1|1|14|80
+Pablo Lopez|R|Jose Peraza|R|Groundout|B|Curveball|23|0|2|1|14|81
+Pablo Lopez|R|Jose Peraza|R|Groundout|X|Changeup|24|1|2|1|5|86
+Pablo Lopez|R|Curt Casali|R|Flyout|B|Four-Seam Fastball|25|0|0|2|11|94
+Pablo Lopez|R|Curt Casali|R|Flyout|C|Four-Seam Fastball|26|1|0|2|6|94
+Pablo Lopez|R|Curt Casali|R|Flyout|X|Curveball|27|1|1|2|7|80
+Pablo Lopez|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|28|0|0|0|14|96
+Pablo Lopez|R|Jose Iglesias|R|Groundout|B|Changeup|29|0|1|0|14|86
+Pablo Lopez|R|Jose Iglesias|R|Groundout|F|Two-Seam Fastball|30|1|1|0|13|94
+Pablo Lopez|R|Jose Iglesias|R|Groundout|X|Changeup|31|1|2|0|9|86
+Pablo Lopez|R|Sonny Gray|R|Groundout|B|Four-Seam Fastball|32|0|0|1|11|94
+Pablo Lopez|R|Sonny Gray|R|Groundout|B|Four-Seam Fastball|33|1|0|1|14|94
+Pablo Lopez|R|Sonny Gray|R|Groundout|C|Four-Seam Fastball|34|2|0|1|5|93
+Pablo Lopez|R|Sonny Gray|R|Groundout|B|Four-Seam Fastball|35|2|1|1|14|94
+Pablo Lopez|R|Sonny Gray|R|Groundout|X|Four-Seam Fastball|36|3|1|1|5|92
+Pablo Lopez|R|Jesse Winker|L|Single|B|Curveball|37|0|0|2|11|79
+Pablo Lopez|R|Jesse Winker|L|Single|F|Changeup|38|1|0|2|13|84
+Pablo Lopez|R|Jesse Winker|L|Single|D|Four-Seam Fastball|39|1|1|2|14|94
+Pablo Lopez|R|Joey Votto|L|Single|C|Two-Seam Fastball|40|0|0|2|1|94
+Pablo Lopez|R|Joey Votto|L|Single|C|Four-Seam Fastball|41|0|1|2|6|94
+Pablo Lopez|R|Joey Votto|L|Single|F|Four-Seam Fastball|42|0|2|2|12|93
+Pablo Lopez|R|Joey Votto|L|Single|D|Changeup|43|0|2|2|9|85
+Pablo Lopez|R|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|44|0|0|2|14|96
+Pablo Lopez|R|Yasiel Puig|R|Flyout|B|Changeup|45|1|0|2|14|85
+Pablo Lopez|R|Yasiel Puig|R|Flyout|F|Two-Seam Fastball|46|2|0|2|14|93
+Pablo Lopez|R|Yasiel Puig|R|Flyout|X|Two-Seam Fastball|47|2|1|2|14|94
+Pablo Lopez|R|Eugenio Suarez|R|Single|C|Changeup|48|0|0|0|6|86
+Pablo Lopez|R|Eugenio Suarez|R|Single|*B|Curveball|49|0|1|0|14|81
+Pablo Lopez|R|Eugenio Suarez|R|Single|F|Four-Seam Fastball|50|1|1|0|6|94
+Pablo Lopez|R|Eugenio Suarez|R|Single|F|Four-Seam Fastball|51|1|2|0|11|94
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Changeup|52|1|2|0|14|87
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Changeup|53|2|2|0|11|86
+Pablo Lopez|R|Eugenio Suarez|R|Single|E|Two-Seam Fastball|54|3|2|0|4|93
+Pablo Lopez|R|Matt Kemp|R|Strikeout|*B|Curveball|55|0|0|0|14|83
+Pablo Lopez|R|Matt Kemp|R|Strikeout|W|Curveball|56|1|0|0|14|79
+Pablo Lopez|R|Matt Kemp|R|Strikeout|F|Changeup|57|1|1|0|8|86
+Pablo Lopez|R|Matt Kemp|R|Strikeout|F|Four-Seam Fastball|58|1|2|0|1|92
+Pablo Lopez|R|Matt Kemp|R|Strikeout|S|Curveball|59|1|2|0|13|80
+Pablo Lopez|R|Jose Peraza|R|Strikeout|*B|Curveball|60|0|0|1|14|81
+Pablo Lopez|R|Jose Peraza|R|Strikeout|F|Four-Seam Fastball|61|1|0|1|2|94
+Pablo Lopez|R|Jose Peraza|R|Strikeout|F|Four-Seam Fastball|62|1|1|1|6|95
+Pablo Lopez|R|Jose Peraza|R|Strikeout|W|Curveball|63|1|2|1|14|80
+Pablo Lopez|R|Curt Casali|R|Single|D|Two-Seam Fastball|64|0|0|2|4|93
+Pablo Lopez|R|Jose Iglesias|R|Flyout|C|Curveball|65|0|0|2|14|80
+Pablo Lopez|R|Jose Iglesias|R|Flyout|*B|Curveball|66|0|1|2|14|81
+Pablo Lopez|R|Jose Iglesias|R|Flyout|X|Four-Seam Fastball|67|1|1|2|4|94
+Pablo Lopez|R|Derek Dietrich|L|Strikeout|C|Curveball|68|0|0|0|13|81
+Pablo Lopez|R|Derek Dietrich|L|Strikeout|F|Changeup|69|0|1|0|9|87
+Pablo Lopez|R|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|70|0|2|0|11|94
+Pablo Lopez|R|Derek Dietrich|L|Strikeout|S|Four-Seam Fastball|71|1|2|0|11|93
+Pablo Lopez|R|Jesse Winker|L|Walk|B|Four-Seam Fastball|72|0|0|1|11|93
+Pablo Lopez|R|Jesse Winker|L|Walk|C|Changeup|73|1|0|1|3|86
+Pablo Lopez|R|Jesse Winker|L|Walk|*B|Curveball|74|1|1|1|14|81
+Pablo Lopez|R|Jesse Winker|L|Walk|B|Curveball|75|2|1|1|14|80
+Pablo Lopez|R|Jesse Winker|L|Walk|B|Four-Seam Fastball|76|3|1|1|11|92
+Pablo Lopez|R|Joey Votto|L|Single|E|Two-Seam Fastball|77|0|0|1|5|94
+Pablo Lopez|R|Yasiel Puig|R|Double|B|Curveball|78|0|0|1|14|80
+Pablo Lopez|R|Yasiel Puig|R|Double|B|Four-Seam Fastball|79|1|0|1|14|94
+Pablo Lopez|R|Yasiel Puig|R|Double|B|Changeup|80|2|0|1|14|86
+Pablo Lopez|R|Yasiel Puig|R|Double|S|Four-Seam Fastball|81|3|0|1|6|96
+Pablo Lopez|R|Yasiel Puig|R|Double|F|Four-Seam Fastball|82|3|1|1|4|94
+Pablo Lopez|R|Yasiel Puig|R|Double|E|Curveball|83|3|2|1|14|81
+Pablo Lopez|R|Francisco Lindor|L|Groundout|C|Two-Seam Fastball|0|0|0|0|4|92
+Pablo Lopez|R|Francisco Lindor|L|Groundout|B|Two-Seam Fastball|1|0|1|0|11|94
+Pablo Lopez|R|Francisco Lindor|L|Groundout|X|Curveball|2|1|1|0|7|79
+Pablo Lopez|R|Leonys Martin|L|Groundout|C|Two-Seam Fastball|3|0|0|1|13|94
+Pablo Lopez|R|Leonys Martin|L|Groundout|X|Curveball|4|0|1|1|13|82
+Pablo Lopez|R|Jose Ramirez|L|Groundout|C|Two-Seam Fastball|5|0|0|2|13|94
+Pablo Lopez|R|Jose Ramirez|L|Groundout|B|Changeup|6|0|1|2|14|86
+Pablo Lopez|R|Jose Ramirez|L|Groundout|X|Changeup|7|1|1|2|13|87
+Pablo Lopez|R|Carlos Santana|L|Groundout|B|Two-Seam Fastball|8|0|0|0|13|92
+Pablo Lopez|R|Carlos Santana|L|Groundout|X|Two-Seam Fastball|9|1|0|0|8|92
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|C|Curveball|10|0|0|1|13|79
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|S|Curveball|11|0|1|1|14|81
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|12|0|2|1|11|94
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|13|1|2|1|11|93
+Pablo Lopez|R|Jason Kipnis|L|Walk|B|Two-Seam Fastball|14|0|0|2|11|94
+Pablo Lopez|R|Jason Kipnis|L|Walk|B|Two-Seam Fastball|15|1|0|2|13|93
+Pablo Lopez|R|Jason Kipnis|L|Walk|C|Two-Seam Fastball|16|2|0|2|3|92
+Pablo Lopez|R|Jason Kipnis|L|Walk|B|Curveball|17|2|1|2|13|80
+Pablo Lopez|R|Jason Kipnis|L|Walk|F|Curveball|18|3|1|2|14|80
+Pablo Lopez|R|Jason Kipnis|L|Walk|F|Four-Seam Fastball|19|3|2|2|8|93
+Pablo Lopez|R|Jason Kipnis|L|Walk|B|Curveball|20|3|2|2|14|81
+Pablo Lopez|R|Roberto Perez|R|Strikeout|*B|Curveball|21|0|0|2|14|80
+Pablo Lopez|R|Roberto Perez|R|Strikeout|B|Curveball|22|1|0|2|14|81
+Pablo Lopez|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|23|2|0|2|12|94
+Pablo Lopez|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|24|3|0|2|2|93
+Pablo Lopez|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|25|3|1|2|5|93
+Pablo Lopez|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|26|3|2|2|6|93
+Pablo Lopez|R|Jake Bauers|L|Pop Out|B|Two-Seam Fastball|27|0|0|0|13|91
+Pablo Lopez|R|Jake Bauers|L|Pop Out|B|Two-Seam Fastball|28|1|0|0|11|92
+Pablo Lopez|R|Jake Bauers|L|Pop Out|C|Two-Seam Fastball|29|2|0|0|6|92
+Pablo Lopez|R|Jake Bauers|L|Pop Out|X|Changeup|30|2|1|0|8|84
+Pablo Lopez|R|Tyler Naquin|L|Lineout|C|Two-Seam Fastball|31|0|0|1|4|92
+Pablo Lopez|R|Tyler Naquin|L|Lineout|X|Curveball|32|0|1|1|13|80
+Pablo Lopez|R|Francisco Lindor|L|Field Error|B|Curveball|33|0|0|2|12|80
+Pablo Lopez|R|Francisco Lindor|L|Field Error|D|Two-Seam Fastball|34|1|0|2|5|92
+Pablo Lopez|R|Leonys Martin|L|Pop Out|F|Two-Seam Fastball|35|0|0|2|1|91
+Pablo Lopez|R|Leonys Martin|L|Pop Out|X|Four-Seam Fastball|36|0|1|2|2|92
+Pablo Lopez|R|Jose Ramirez|L|Groundout|B|Two-Seam Fastball|37|0|0|0|11|92
+Pablo Lopez|R|Jose Ramirez|L|Groundout|X|Two-Seam Fastball|38|1|0|0|13|92
+Pablo Lopez|R|Carlos Santana|L|Walk|B|Curveball|39|0|0|1|13|78
+Pablo Lopez|R|Carlos Santana|L|Walk|S|Changeup|40|1|0|1|8|84
+Pablo Lopez|R|Carlos Santana|L|Walk|B|Four-Seam Fastball|41|1|1|1|12|93
+Pablo Lopez|R|Carlos Santana|L|Walk|B|Changeup|42|2|1|1|14|85
+Pablo Lopez|R|Carlos Santana|L|Walk|B|Two-Seam Fastball|43|3|1|1|14|92
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|C|Two-Seam Fastball|44|0|0|1|9|93
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|F|Two-Seam Fastball|45|0|1|1|13|93
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|46|0|2|1|11|92
+Pablo Lopez|R|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|47|1|2|1|11|91
+Pablo Lopez|R|Jason Kipnis|L|Groundout|X|Two-Seam Fastball|48|0|0|2|7|92
+Pablo Lopez|R|Roberto Perez|R|Hit By Pitch|C|Four-Seam Fastball|49|0|0|0|14|93
+Pablo Lopez|R|Roberto Perez|R|Hit By Pitch|B|Curveball|50|0|1|0|13|76
+Pablo Lopez|R|Roberto Perez|R|Hit By Pitch|H|Curveball|51|1|1|0|11|75
+Pablo Lopez|R|Jake Bauers|L|Groundout|F|Two-Seam Fastball|52|0|0|0|4|92
+Pablo Lopez|R|Jake Bauers|L|Groundout|C|Four-Seam Fastball|53|0|1|0|6|93
+Pablo Lopez|R|Jake Bauers|L|Groundout|B|Four-Seam Fastball|54|0|2|0|11|92
+Pablo Lopez|R|Jake Bauers|L|Groundout|B|Curveball|55|1|2|0|14|79
+Pablo Lopez|R|Jake Bauers|L|Groundout|B|Four-Seam Fastball|56|2|2|0|14|93
+Pablo Lopez|R|Jake Bauers|L|Groundout|X|Two-Seam Fastball|57|3|2|0|8|92
+Pablo Lopez|R|Tyler Naquin|L|Groundout|*B|Curveball|58|0|0|1|14|80
+Pablo Lopez|R|Tyler Naquin|L|Groundout|X|Two-Seam Fastball|59|1|0|1|8|92
+Pablo Lopez|R|Francisco Lindor|L|Strikeout|F|Curveball|60|0|0|2|8|80
+Pablo Lopez|R|Francisco Lindor|L|Strikeout|B|Two-Seam Fastball|61|0|1|2|11|93
+Pablo Lopez|R|Francisco Lindor|L|Strikeout|F|Changeup|62|1|1|2|8|84
+Pablo Lopez|R|Francisco Lindor|L|Strikeout|B|Four-Seam Fastball|63|1|2|2|11|93
+Pablo Lopez|R|Francisco Lindor|L|Strikeout|S|Changeup|64|2|2|2|11|85
+Pablo Lopez|R|Leonys Martin|L|Strikeout|C|Curveball|65|0|0|0|13|77
+Pablo Lopez|R|Leonys Martin|L|Strikeout|F|Four-Seam Fastball|66|0|1|0|12|91
+Pablo Lopez|R|Leonys Martin|L|Strikeout|T|Four-Seam Fastball|67|0|2|0|12|91
+Pablo Lopez|R|Jose Ramirez|L|Single|C|Two-Seam Fastball|68|0|0|1|4|92
+Pablo Lopez|R|Jose Ramirez|L|Single|B|Four-Seam Fastball|69|0|1|1|11|92
+Pablo Lopez|R|Jose Ramirez|L|Single|F|Changeup|70|1|1|1|13|85
+Pablo Lopez|R|Jose Ramirez|L|Single|D|Two-Seam Fastball|71|1|2|1|5|92
+Pablo Lopez|R|Carlos Santana|L|Grounded Into DP|X|Two-Seam Fastball|72|0|0|1|5|91
+Pablo Lopez|R|Carlos Gonzalez|L|Single|B|Curveball|73|0|0|0|13|77
+Pablo Lopez|R|Carlos Gonzalez|L|Single|S|Changeup|74|1|0|0|13|85
+Pablo Lopez|R|Carlos Gonzalez|L|Single|S|Changeup|75|1|1|0|13|83
+Pablo Lopez|R|Carlos Gonzalez|L|Single|B|Four-Seam Fastball|76|1|2|0|11|92
+Pablo Lopez|R|Carlos Gonzalez|L|Single|D|Two-Seam Fastball|77|2|2|0|4|93
+Pablo Lopez|R|Jason Kipnis|L|Fielders Choice|C|Two-Seam Fastball|78|0|0|0|2|92
+Pablo Lopez|R|Jason Kipnis|L|Fielders Choice|B|Four-Seam Fastball|79|0|1|0|11|91
+Pablo Lopez|R|Jason Kipnis|L|Fielders Choice|D|Changeup|80|1|1|0|8|84
+Pablo Lopez|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|81|0|0|0|11|93
+Pablo Lopez|R|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|82|1|0|0|6|92
+Pablo Lopez|R|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|83|1|1|0|14|93
+Pablo Lopez|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|84|2|1|0|4|92
+Pablo Lopez|R|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|85|2|2|0|12|93
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Four-Seam Fastball|0|0|0|0|11|95
+Pablo Lopez|R|Trea Turner|R|Groundout|C|Four-Seam Fastball|1|1|0|0|7|94
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Curveball|2|1|1|0|14|81
+Pablo Lopez|R|Trea Turner|R|Groundout|X|Four-Seam Fastball|3|2|1|0|7|94
+Pablo Lopez|R|Adam Eaton|L|Home Run|B|Two-Seam Fastball|4|0|0|1|12|93
+Pablo Lopez|R|Adam Eaton|L|Home Run|B|Two-Seam Fastball|5|1|0|1|11|93
+Pablo Lopez|R|Adam Eaton|L|Home Run|C|Two-Seam Fastball|6|2|0|1|6|92
+Pablo Lopez|R|Adam Eaton|L|Home Run|E|Two-Seam Fastball|7|2|1|1|8|93
+Pablo Lopez|R|Anthony Rendon|R|Lineout|C|Four-Seam Fastball|8|0|0|1|14|95
+Pablo Lopez|R|Anthony Rendon|R|Lineout|B|Curveball|9|0|1|1|14|80
+Pablo Lopez|R|Anthony Rendon|R|Lineout|X|Two-Seam Fastball|10|1|1|1|9|94
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Curveball|11|0|0|2|13|80
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Curveball|12|1|0|2|13|80
+Pablo Lopez|R|Juan Soto|L|Groundout|C|Changeup|13|2|0|2|8|85
+Pablo Lopez|R|Juan Soto|L|Groundout|F|Changeup|14|2|1|2|1|86
+Pablo Lopez|R|Juan Soto|L|Groundout|F|Four-Seam Fastball|15|2|2|2|12|94
+Pablo Lopez|R|Juan Soto|L|Groundout|B|Curveball|16|2|2|2|14|80
+Pablo Lopez|R|Juan Soto|L|Groundout|X|Changeup|17|3|2|2|11|86
+Pablo Lopez|R|Matt Adams|L|Flyout|X|Four-Seam Fastball|18|0|0|0|8|92
+Pablo Lopez|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|19|0|0|1|4|93
+Pablo Lopez|R|Brian Dozier|R|Groundout|B|Curveball|20|0|1|1|14|79
+Pablo Lopez|R|Brian Dozier|R|Groundout|X|Changeup|21|1|1|1|5|85
+Pablo Lopez|R|Victor Robles|R|Lineout|X|Curveball|22|0|0|2|8|79
+Pablo Lopez|R|Yan Gomes|R|Lineout|F|Four-Seam Fastball|23|0|0|0|11|94
+Pablo Lopez|R|Yan Gomes|R|Lineout|B|Curveball|24|0|1|0|14|79
+Pablo Lopez|R|Yan Gomes|R|Lineout|X|Two-Seam Fastball|25|1|1|0|11|92
+Pablo Lopez|R|Kyle McGowin|R|Single|F|Four-Seam Fastball|26|0|0|1|1|93
+Pablo Lopez|R|Kyle McGowin|R|Single|D|Four-Seam Fastball|27|0|1|1|4|94
+Pablo Lopez|R|Trea Turner|R|Double|B|Two-Seam Fastball|28|0|0|1|13|94
+Pablo Lopez|R|Trea Turner|R|Double|D|Two-Seam Fastball|29|1|0|1|2|94
+Pablo Lopez|R|Adam Eaton|L|Groundout|B|Curveball|30|0|0|1|14|80
+Pablo Lopez|R|Adam Eaton|L|Groundout|C|Changeup|31|1|0|1|4|86
+Pablo Lopez|R|Adam Eaton|L|Groundout|B|Changeup|32|1|1|1|14|85
+Pablo Lopez|R|Adam Eaton|L|Groundout|C|Two-Seam Fastball|33|2|1|1|2|93
+Pablo Lopez|R|Adam Eaton|L|Groundout|B|Four-Seam Fastball|34|2|2|1|11|94
+Pablo Lopez|R|Adam Eaton|L|Groundout|E|Four-Seam Fastball|35|3|2|1|5|93
+Pablo Lopez|R|Anthony Rendon|R|Home Run|*B|Curveball|36|0|0|2|14|81
+Pablo Lopez|R|Anthony Rendon|R|Home Run|S|Changeup|37|1|0|2|7|86
+Pablo Lopez|R|Anthony Rendon|R|Home Run|B|Two-Seam Fastball|38|1|1|2|13|95
+Pablo Lopez|R|Anthony Rendon|R|Home Run|F|Changeup|39|2|1|2|14|85
+Pablo Lopez|R|Anthony Rendon|R|Home Run|B|Changeup|40|2|2|2|11|85
+Pablo Lopez|R|Anthony Rendon|R|Home Run|E|Two-Seam Fastball|41|3|2|2|7|93
+Pablo Lopez|R|Juan Soto|L|Single|B|Two-Seam Fastball|42|0|0|2|12|93
+Pablo Lopez|R|Juan Soto|L|Single|C|Changeup|43|1|0|2|7|85
+Pablo Lopez|R|Juan Soto|L|Single|B|Changeup|44|1|1|2|14|86
+Pablo Lopez|R|Juan Soto|L|Single|F|Two-Seam Fastball|45|2|1|2|4|92
+Pablo Lopez|R|Juan Soto|L|Single|F|Changeup|46|2|2|2|14|85
+Pablo Lopez|R|Juan Soto|L|Single|D|Changeup|47|2|2|2|7|85
+Pablo Lopez|R|Matt Adams|L|Single|S|Curveball|48|0|0|2|14|79
+Pablo Lopez|R|Matt Adams|L|Single|F|Curveball|49|0|1|2|14|80
+Pablo Lopez|R|Matt Adams|L|Single|B|Curveball|50|0|2|2|13|76
+Pablo Lopez|R|Matt Adams|L|Single|D|Four-Seam Fastball|51|1|2|2|12|93
+Pablo Lopez|R|Brian Dozier|R|Walk|C|Curveball|52|0|0|2|1|78
+Pablo Lopez|R|Brian Dozier|R|Walk|S|Changeup|53|0|1|2|2|84
+Pablo Lopez|R|Brian Dozier|R|Walk|F|Changeup|54|0|2|2|2|84
+Pablo Lopez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|55|0|2|2|12|92
+Pablo Lopez|R|Brian Dozier|R|Walk|B|Changeup|56|1|2|2|14|84
+Pablo Lopez|R|Brian Dozier|R|Walk|*B|Curveball|57|2|2|2|14|79
+Pablo Lopez|R|Brian Dozier|R|Walk|B|Changeup|58|3|2|2|14|84
+Pablo Lopez|R|Victor Robles|R|Strikeout|B|Two-Seam Fastball|59|0|0|2|14|93
+Pablo Lopez|R|Victor Robles|R|Strikeout|F|Changeup|60|1|0|2|5|84
+Pablo Lopez|R|Victor Robles|R|Strikeout|F|Changeup|61|1|1|2|4|85
+Pablo Lopez|R|Victor Robles|R|Strikeout|S|Four-Seam Fastball|62|1|2|2|12|92
+Pablo Lopez|R|Yan Gomes|R|Lineout|B|Curveball|63|0|0|0|13|76
+Pablo Lopez|R|Yan Gomes|R|Lineout|C|Changeup|64|1|0|0|8|84
+Pablo Lopez|R|Yan Gomes|R|Lineout|B|Changeup|65|1|1|0|14|84
+Pablo Lopez|R|Yan Gomes|R|Lineout|F|Four-Seam Fastball|66|2|1|0|6|93
+Pablo Lopez|R|Yan Gomes|R|Lineout|F|Changeup|67|2|2|0|13|84
+Pablo Lopez|R|Yan Gomes|R|Lineout|F|Four-Seam Fastball|68|2|2|0|2|92
+Pablo Lopez|R|Yan Gomes|R|Lineout|B|Curveball|69|2|2|0|11|77
+Pablo Lopez|R|Yan Gomes|R|Lineout|F|Changeup|70|3|2|0|13|84
+Pablo Lopez|R|Yan Gomes|R|Lineout|X|Four-Seam Fastball|71|3|2|0|9|92
+Pablo Lopez|R|Michael A. Taylor|R|Double|B|Curveball|72|0|0|1|14|78
+Pablo Lopez|R|Michael A. Taylor|R|Double|B|Changeup|73|1|0|1|14|85
+Pablo Lopez|R|Michael A. Taylor|R|Double|C|Four-Seam Fastball|74|2|0|1|14|93
+Pablo Lopez|R|Michael A. Taylor|R|Double|B|Changeup|75|2|1|1|13|84
+Pablo Lopez|R|Michael A. Taylor|R|Double|C|Four-Seam Fastball|76|3|1|1|5|92
+Pablo Lopez|R|Michael A. Taylor|R|Double|F|Four-Seam Fastball|77|3|2|1|14|91
+Pablo Lopez|R|Michael A. Taylor|R|Double|F|Four-Seam Fastball|78|3|2|1|1|92
+Pablo Lopez|R|Michael A. Taylor|R|Double|D|Four-Seam Fastball|79|3|2|1|2|91
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Curveball|80|0|0|1|13|79
+Pablo Lopez|R|Trea Turner|R|Groundout|X|Changeup|81|1|0|1|9|84
+Pablo Lopez|R|Trea Turner|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|7|95
+Pablo Lopez|R|Trea Turner|R|Pop Out|S|Two-Seam Fastball|1|0|1|0|13|95
+Pablo Lopez|R|Trea Turner|R|Pop Out|F|Four-Seam Fastball|2|0|2|0|1|94
+Pablo Lopez|R|Trea Turner|R|Pop Out|B|Two-Seam Fastball|3|0|2|0|13|95
+Pablo Lopez|R|Trea Turner|R|Pop Out|B|Changeup|4|1|2|0|14|87
+Pablo Lopez|R|Trea Turner|R|Pop Out|X|Four-Seam Fastball|5|2|2|0|4|94
+Pablo Lopez|R|Gerardo Parra|L|Groundout|X|Four-Seam Fastball|6|0|0|1|7|94
+Pablo Lopez|R|Anthony Rendon|R|Home Run|C|Four-Seam Fastball|7|0|0|2|6|96
+Pablo Lopez|R|Anthony Rendon|R|Home Run|S|Two-Seam Fastball|8|0|1|2|13|96
+Pablo Lopez|R|Anthony Rendon|R|Home Run|B|Changeup|9|0|2|2|14|87
+Pablo Lopez|R|Anthony Rendon|R|Home Run|F|Four-Seam Fastball|10|1|2|2|13|95
+Pablo Lopez|R|Anthony Rendon|R|Home Run|B|Changeup|11|1|2|2|13|86
+Pablo Lopez|R|Anthony Rendon|R|Home Run|F|Changeup|12|2|2|2|11|86
+Pablo Lopez|R|Anthony Rendon|R|Home Run|F|Four-Seam Fastball|13|2|2|2|14|94
+Pablo Lopez|R|Anthony Rendon|R|Home Run|B|Two-Seam Fastball|14|2|2|2|13|94
+Pablo Lopez|R|Anthony Rendon|R|Home Run|E|Four-Seam Fastball|15|3|2|2|6|93
+Pablo Lopez|R|Juan Soto|L|Home Run|C|Two-Seam Fastball|16|0|0|2|9|94
+Pablo Lopez|R|Juan Soto|L|Home Run|E|Changeup|17|0|1|2|4|87
+Pablo Lopez|R|Matt Adams|L|Pop Out|C|Curveball|18|0|0|2|8|79
+Pablo Lopez|R|Matt Adams|L|Pop Out|X|Four-Seam Fastball|19|0|1|2|6|94
+Pablo Lopez|R|Kurt Suzuki|R|Hit By Pitch|F|Four-Seam Fastball|20|0|0|0|1|92
+Pablo Lopez|R|Kurt Suzuki|R|Hit By Pitch|H|Two-Seam Fastball|21|0|1|0|11|93
+Pablo Lopez|R|Brian Dozier|R|Single|C|Four-Seam Fastball|22|0|0|0|1|93
+Pablo Lopez|R|Brian Dozier|R|Single|F|Two-Seam Fastball|23|0|1|0|11|93
+Pablo Lopez|R|Brian Dozier|R|Single|B|Two-Seam Fastball|24|0|2|0|8|94
+Pablo Lopez|R|Brian Dozier|R|Single|B|Changeup|25|1|2|0|14|87
+Pablo Lopez|R|Brian Dozier|R|Single|D|Four-Seam Fastball|26|2|2|0|2|93
+Pablo Lopez|R|Victor Robles|R|Lineout|F|Two-Seam Fastball|27|0|0|0|7|95
+Pablo Lopez|R|Victor Robles|R|Lineout|B|Four-Seam Fastball|28|0|1|0|14|94
+Pablo Lopez|R|Victor Robles|R|Lineout|X|Two-Seam Fastball|29|1|1|0|1|94
+Pablo Lopez|R|Stephen Strasburg|R|Single|C|Four-Seam Fastball|30|0|0|1|5|94
+Pablo Lopez|R|Stephen Strasburg|R|Single|E|Two-Seam Fastball|31|0|1|1|7|93
+Pablo Lopez|R|Trea Turner|R|Double Play|*B|Curveball|32|0|0|1|14|81
+Pablo Lopez|R|Trea Turner|R|Double Play|*B|Curveball|33|1|0|1|14|80
+Pablo Lopez|R|Trea Turner|R|Double Play|F|Four-Seam Fastball|34|2|0|1|1|94
+Pablo Lopez|R|Trea Turner|R|Double Play|F|Four-Seam Fastball|35|2|1|1|11|94
+Pablo Lopez|R|Trea Turner|R|Double Play|X|Curveball|36|2|2|1|14|80
+Pablo Lopez|R|Gerardo Parra|L|Pop Out|C|Four-Seam Fastball|37|0|0|0|5|92
+Pablo Lopez|R|Gerardo Parra|L|Pop Out|X|Four-Seam Fastball|38|0|1|0|3|93
+Pablo Lopez|R|Anthony Rendon|R|Hit By Pitch|C|Two-Seam Fastball|39|0|0|1|7|93
+Pablo Lopez|R|Anthony Rendon|R|Hit By Pitch|F|Four-Seam Fastball|40|0|1|1|5|94
+Pablo Lopez|R|Anthony Rendon|R|Hit By Pitch|B|Four-Seam Fastball|41|0|2|1|11|94
+Pablo Lopez|R|Anthony Rendon|R|Hit By Pitch|H|Curveball|42|1|2|1|11|77
+Pablo Lopez|R|Juan Soto|L|Double|F|Two-Seam Fastball|43|0|0|1|11|94
+Pablo Lopez|R|Juan Soto|L|Double|B|Four-Seam Fastball|44|0|1|1|12|93
+Pablo Lopez|R|Juan Soto|L|Double|B|Four-Seam Fastball|45|1|1|1|12|94
+Pablo Lopez|R|Juan Soto|L|Double|B|Changeup|46|2|1|1|13|86
+Pablo Lopez|R|Juan Soto|L|Double|C|Four-Seam Fastball|47|3|1|1|8|94
+Pablo Lopez|R|Juan Soto|L|Double|F|Four-Seam Fastball|48|3|2|1|5|93
+Pablo Lopez|R|Juan Soto|L|Double|F|Changeup|49|3|2|1|7|86
+Pablo Lopez|R|Juan Soto|L|Double|E|Four-Seam Fastball|50|3|2|1|2|93
+Pablo Lopez|R|Matt Adams|L|Strikeout|F|Four-Seam Fastball|51|0|0|1|1|93
+Pablo Lopez|R|Matt Adams|L|Strikeout|C|Four-Seam Fastball|52|0|1|1|9|92
+Pablo Lopez|R|Matt Adams|L|Strikeout|F|Changeup|53|0|2|1|14|87
+Pablo Lopez|R|Matt Adams|L|Strikeout|F|Four-Seam Fastball|54|0|2|1|11|93
+Pablo Lopez|R|Matt Adams|L|Strikeout|*B|N/A|55|0|2|1|0|0
+Pablo Lopez|R|Matt Adams|L|Strikeout|S|Changeup|56|1|2|1|13|86
+Pablo Lopez|R|Kurt Suzuki|R|Home Run|B|Curveball|57|0|0|2|14|79
+Pablo Lopez|R|Kurt Suzuki|R|Home Run|F|Two-Seam Fastball|58|1|0|2|13|93
+Pablo Lopez|R|Kurt Suzuki|R|Home Run|E|Four-Seam Fastball|59|1|1|2|4|93
+Pablo Lopez|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|60|0|0|2|3|95
+Pablo Lopez|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|61|0|1|2|14|94
+Pablo Lopez|R|Brian Dozier|R|Groundout|X|Four-Seam Fastball|62|1|1|2|8|94
+Pablo Lopez|R|Jeff McNeil|L|Single|D|Two-Seam Fastball|0|0|0|0|8|93
+Pablo Lopez|R|J.D. Davis|R|Single|X|Four-Seam Fastball|1|0|0|0|8|93
+Pablo Lopez|R|Robinson Cano|L|Single|*B|Two-Seam Fastball|2|0|0|1|14|93
+Pablo Lopez|R|Robinson Cano|L|Single|D|Two-Seam Fastball|3|1|0|1|11|92
+Pablo Lopez|R|Pete Alonso|R|Walk|B|Curveball|4|0|0|1|14|81
+Pablo Lopez|R|Pete Alonso|R|Walk|B|Curveball|5|1|0|1|14|80
+Pablo Lopez|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|6|2|0|1|13|94
+Pablo Lopez|R|Pete Alonso|R|Walk|F|Two-Seam Fastball|7|3|0|1|2|93
+Pablo Lopez|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|8|3|1|1|11|93
+Pablo Lopez|R|Michael Conforto|L|Single|C|Curveball|9|0|0|1|6|81
+Pablo Lopez|R|Michael Conforto|L|Single|B|Four-Seam Fastball|10|0|1|1|12|95
+Pablo Lopez|R|Michael Conforto|L|Single|D|Curveball|11|1|1|1|5|78
+Pablo Lopez|R|Wilson Ramos|R|Single|C|Two-Seam Fastball|12|0|0|1|5|94
+Pablo Lopez|R|Wilson Ramos|R|Single|B|Four-Seam Fastball|13|0|1|1|13|93
+Pablo Lopez|R|Wilson Ramos|R|Single|E|Changeup|14|1|1|1|5|85
+Pablo Lopez|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|15|0|0|1|12|94
+Pablo Lopez|R|Brandon Nimmo|L|Walk|B|Curveball|16|1|0|1|14|81
+Pablo Lopez|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|17|2|0|1|12|94
+Pablo Lopez|R|Brandon Nimmo|L|Walk|F|Four-Seam Fastball|18|3|0|1|5|93
+Pablo Lopez|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|19|3|1|1|11|93
+Pablo Lopez|R|Amed Rosario|R|Home Run|E|Curveball|20|0|0|1|5|80
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|S|Four-Seam Fastball|21|0|0|1|11|93
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|B|Four-Seam Fastball|22|0|1|1|11|93
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|M|Changeup|23|1|1|1|13|85
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|S|Changeup|24|1|2|1|13|85
+Pablo Lopez|R|Jeff McNeil|L|Hit By Pitch|H|Curveball|25|0|0|2|14|81
+Pablo Lopez|R|J.D. Davis|R|Single|F|Two-Seam Fastball|26|0|0|2|4|94
+Pablo Lopez|R|J.D. Davis|R|Single|F|Two-Seam Fastball|27|0|1|2|13|92
+Pablo Lopez|R|J.D. Davis|R|Single|D|Changeup|28|0|2|2|4|85
+Pablo Lopez|R|Robinson Cano|L|Single|C|Changeup|29|0|0|2|13|84
+Pablo Lopez|R|Robinson Cano|L|Single|E|Changeup|30|0|1|2|11|85
+Pablo Lopez|R|Pete Alonso|R|Forceout|F|Two-Seam Fastball|31|0|0|2|4|94
+Pablo Lopez|R|Pete Alonso|R|Forceout|F|Two-Seam Fastball|32|0|1|2|4|94
+Pablo Lopez|R|Pete Alonso|R|Forceout|B|Four-Seam Fastball|33|0|2|2|12|94
+Pablo Lopez|R|Pete Alonso|R|Forceout|B|Changeup|34|1|2|2|14|87
+Pablo Lopez|R|Pete Alonso|R|Forceout|X|Two-Seam Fastball|35|2|2|2|14|94
+Pablo Lopez|R|Michael Conforto|L|Home Run|B|Curveball|36|0|0|0|14|78
+Pablo Lopez|R|Michael Conforto|L|Home Run|S|Four-Seam Fastball|37|1|0|0|6|93
+Pablo Lopez|R|Michael Conforto|L|Home Run|B|Changeup|38|1|1|0|13|85
+Pablo Lopez|R|Michael Conforto|L|Home Run|B|Four-Seam Fastball|39|2|1|0|13|92
+Pablo Lopez|R|Michael Conforto|L|Home Run|F|Two-Seam Fastball|40|3|1|0|8|92
+Pablo Lopez|R|Michael Conforto|L|Home Run|E|Four-Seam Fastball|41|3|2|0|6|92
+Pablo Lopez|R|Wilson Ramos|R|Groundout|B|Curveball|42|0|0|0|14|80
+Pablo Lopez|R|Wilson Ramos|R|Groundout|X|Two-Seam Fastball|43|1|0|0|7|93
+Pablo Lopez|R|Brandon Nimmo|L|Lineout|C|Four-Seam Fastball|44|0|0|1|9|93
+Pablo Lopez|R|Brandon Nimmo|L|Lineout|B|Four-Seam Fastball|45|0|1|1|11|92
+Pablo Lopez|R|Brandon Nimmo|L|Lineout|C|Curveball|46|1|1|1|8|79
+Pablo Lopez|R|Brandon Nimmo|L|Lineout|X|Four-Seam Fastball|47|1|2|1|12|93
+Pablo Lopez|R|Amed Rosario|R|Strikeout|C|Two-Seam Fastball|48|0|0|2|6|93
+Pablo Lopez|R|Amed Rosario|R|Strikeout|S|Curveball|49|0|1|2|14|78
+Pablo Lopez|R|Amed Rosario|R|Strikeout|W|Curveball|50|0|2|2|14|79
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|B|Four-Seam Fastball|51|0|0|0|14|92
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|C|Four-Seam Fastball|52|1|0|0|13|91
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|C|Changeup|53|1|1|0|11|83
+Pablo Lopez|R|Zack Wheeler|L|Strikeout|C|Four-Seam Fastball|54|1|2|0|7|91
+Pablo Lopez|R|Jeff McNeil|L|Home Run|C|Curveball|55|0|0|1|8|78
+Pablo Lopez|R|Jeff McNeil|L|Home Run|E|Changeup|56|0|1|1|5|83
+Pablo Lopez|R|J.D. Davis|R|Groundout|X|Two-Seam Fastball|57|0|0|1|13|94
+Pablo Lopez|R|Robinson Cano|L|Groundout|B|Curveball|58|0|0|2|13|77
+Pablo Lopez|R|Robinson Cano|L|Groundout|F|Four-Seam Fastball|59|1|0|2|5|91
+Pablo Lopez|R|Robinson Cano|L|Groundout|B|Curveball|60|1|1|2|14|78
+Pablo Lopez|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|61|2|1|2|13|91
+Pablo Lopez|R|Andrew McCutchen|R|Flyout|C|Four-Seam Fastball|0|0|0|0|5|94
+Pablo Lopez|R|Andrew McCutchen|R|Flyout|X|Four-Seam Fastball|1|0|1|0|2|96
+Pablo Lopez|R|Jean Segura|R|Lineout|F|Four-Seam Fastball|2|0|0|1|11|96
+Pablo Lopez|R|Jean Segura|R|Lineout|B|Curveball|3|0|1|1|11|79
+Pablo Lopez|R|Jean Segura|R|Lineout|X|Curveball|4|1|1|1|2|79
+Pablo Lopez|R|Bryce Harper|L|Walk|L|Two-Seam Fastball|5|0|0|2|2|94
+Pablo Lopez|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|6|0|1|2|12|94
+Pablo Lopez|R|Bryce Harper|L|Walk|B|Changeup|7|1|1|2|11|83
+Pablo Lopez|R|Bryce Harper|L|Walk|S|Changeup|8|2|1|2|2|85
+Pablo Lopez|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|9|2|2|2|12|94
+Pablo Lopez|R|Bryce Harper|L|Walk|F|Changeup|10|3|2|2|11|85
+Pablo Lopez|R|Bryce Harper|L|Walk|F|Four-Seam Fastball|11|3|2|2|1|93
+Pablo Lopez|R|Bryce Harper|L|Walk|B|Two-Seam Fastball|12|3|2|2|12|93
+Pablo Lopez|R|Rhys Hoskins|R|Double|B|Curveball|13|0|0|2|14|82
+Pablo Lopez|R|Rhys Hoskins|R|Double|C|Two-Seam Fastball|14|1|0|2|5|95
+Pablo Lopez|R|Rhys Hoskins|R|Double|C|Changeup|15|1|1|2|6|87
+Pablo Lopez|R|Rhys Hoskins|R|Double|F|Four-Seam Fastball|16|1|2|2|4|95
+Pablo Lopez|R|Rhys Hoskins|R|Double|F|Changeup|17|1|2|2|4|87
+Pablo Lopez|R|Rhys Hoskins|R|Double|B|Changeup|18|1|2|2|11|85
+Pablo Lopez|R|Rhys Hoskins|R|Double|B|Four-Seam Fastball|19|2|2|2|14|96
+Pablo Lopez|R|Rhys Hoskins|R|Double|F|Two-Seam Fastball|20|3|2|2|13|94
+Pablo Lopez|R|Rhys Hoskins|R|Double|E|Two-Seam Fastball|21|3|2|2|8|94
+Pablo Lopez|R|Nick Williams|L|Strikeout|F|Curveball|22|0|0|2|9|80
+Pablo Lopez|R|Nick Williams|L|Strikeout|F|Four-Seam Fastball|23|0|1|2|11|92
+Pablo Lopez|R|Nick Williams|L|Strikeout|B|Four-Seam Fastball|24|0|2|2|11|93
+Pablo Lopez|R|Nick Williams|L|Strikeout|S|Changeup|25|1|2|2|11|85
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|F|Two-Seam Fastball|26|0|0|0|4|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Four-Seam Fastball|27|0|1|0|11|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|B|Changeup|28|1|1|0|14|83
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|F|Two-Seam Fastball|29|2|1|0|7|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|F|Four-Seam Fastball|30|2|2|0|2|92
+Pablo Lopez|R|Cesar Hernandez|L|Flyout|X|Four-Seam Fastball|31|2|2|0|2|94
+Pablo Lopez|R|Andrew Knapp|L|Pop Out|B|Two-Seam Fastball|32|0|0|1|13|92
+Pablo Lopez|R|Andrew Knapp|L|Pop Out|X|Changeup|33|1|0|1|5|85
+Pablo Lopez|R|Maikel Franco|R|Pop Out|B|Two-Seam Fastball|34|0|0|2|13|94
+Pablo Lopez|R|Maikel Franco|R|Pop Out|X|Two-Seam Fastball|35|1|0|2|5|93
+Pablo Lopez|R|Zach Eflin|R|Groundout|B|Four-Seam Fastball|36|0|0|0|11|91
+Pablo Lopez|R|Zach Eflin|R|Groundout|C|Four-Seam Fastball|37|1|0|0|9|93
+Pablo Lopez|R|Zach Eflin|R|Groundout|B|Four-Seam Fastball|38|1|1|0|14|92
+Pablo Lopez|R|Zach Eflin|R|Groundout|S|Four-Seam Fastball|39|2|1|0|2|91
+Pablo Lopez|R|Zach Eflin|R|Groundout|X|Four-Seam Fastball|40|2|2|0|5|93
+Pablo Lopez|R|Andrew McCutchen|R|Walk|C|Curveball|41|0|0|1|3|78
+Pablo Lopez|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|42|0|1|1|14|95
+Pablo Lopez|R|Andrew McCutchen|R|Walk|B|Changeup|43|1|1|1|13|85
+Pablo Lopez|R|Andrew McCutchen|R|Walk|S|Two-Seam Fastball|44|2|1|1|13|93
+Pablo Lopez|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|45|2|2|1|11|92
+Pablo Lopez|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|46|3|2|1|11|95
+Pablo Lopez|R|Jean Segura|R|Triple|E|Two-Seam Fastball|47|0|0|1|4|93
+Pablo Lopez|R|Bryce Harper|L|Groundout|S|Curveball|48|0|0|1|1|79
+Pablo Lopez|R|Bryce Harper|L|Groundout|E|Four-Seam Fastball|49|0|1|1|12|94
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|T|Four-Seam Fastball|50|0|0|2|2|95
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|B|Four-Seam Fastball|51|0|1|2|12|96
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|B|Changeup|52|1|1|2|2|86
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|B|Four-Seam Fastball|53|2|1|2|12|95
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|F|Four-Seam Fastball|54|3|1|2|12|94
+Pablo Lopez|R|Rhys Hoskins|R|Groundout|X|Changeup|55|3|2|2|6|85
+Pablo Lopez|R|Nick Williams|L|Groundout|C|Curveball|56|0|0|0|2|77
+Pablo Lopez|R|Nick Williams|L|Groundout|F|Four-Seam Fastball|57|0|1|0|8|93
+Pablo Lopez|R|Nick Williams|L|Groundout|X|Four-Seam Fastball|58|0|2|0|14|93
+Pablo Lopez|R|Cesar Hernandez|L|Lineout|C|Curveball|59|0|0|1|4|77
+Pablo Lopez|R|Cesar Hernandez|L|Lineout|S|Changeup|60|0|1|1|8|84
+Pablo Lopez|R|Cesar Hernandez|L|Lineout|X|Four-Seam Fastball|61|0|2|1|12|93
+Pablo Lopez|R|Andrew Knapp|L|Groundout|F|Two-Seam Fastball|62|0|0|2|7|92
+Pablo Lopez|R|Andrew Knapp|L|Groundout|B|Four-Seam Fastball|63|0|1|2|12|93
+Pablo Lopez|R|Andrew Knapp|L|Groundout|B|Changeup|64|1|1|2|12|85
+Pablo Lopez|R|Andrew Knapp|L|Groundout|T|Two-Seam Fastball|65|2|1|2|8|92
+Pablo Lopez|R|Andrew Knapp|L|Groundout|X|Curveball|66|2|2|2|9|79
+Pablo Lopez|R|Maikel Franco|R|Strikeout|S|Curveball|67|0|0|0|9|79
+Pablo Lopez|R|Maikel Franco|R|Strikeout|C|Two-Seam Fastball|68|0|1|0|5|92
+Pablo Lopez|R|Maikel Franco|R|Strikeout|S|Curveball|69|0|2|0|14|80
+Pablo Lopez|R|Zach Eflin|R|Strikeout|C|Four-Seam Fastball|70|0|0|1|9|93
+Pablo Lopez|R|Zach Eflin|R|Strikeout|C|Curveball|71|0|1|1|5|78
+Pablo Lopez|R|Zach Eflin|R|Strikeout|S|Curveball|72|0|2|1|14|79
+Pablo Lopez|R|Andrew McCutchen|R|Strikeout|C|Four-Seam Fastball|73|0|0|2|1|95
+Pablo Lopez|R|Andrew McCutchen|R|Strikeout|F|Curveball|74|0|1|2|6|79
+Pablo Lopez|R|Andrew McCutchen|R|Strikeout|B|Curveball|75|0|2|2|14|80
+Pablo Lopez|R|Andrew McCutchen|R|Strikeout|S|Four-Seam Fastball|76|1|2|2|11|92
+Pablo Lopez|R|Jean Segura|R|Single|B|Curveball|77|0|0|0|11|78
+Pablo Lopez|R|Jean Segura|R|Single|B|Curveball|78|1|0|0|11|75
+Pablo Lopez|R|Jean Segura|R|Single|C|Four-Seam Fastball|79|2|0|0|6|93
+Pablo Lopez|R|Jean Segura|R|Single|D|Four-Seam Fastball|80|2|1|0|1|93
+Pablo Lopez|R|Bryce Harper|L|Hit By Pitch|C|Two-Seam Fastball|81|0|0|0|13|93
+Pablo Lopez|R|Bryce Harper|L|Hit By Pitch|B|Changeup|82|0|1|0|12|85
+Pablo Lopez|R|Bryce Harper|L|Hit By Pitch|F|Four-Seam Fastball|83|1|1|0|3|92
+Pablo Lopez|R|Bryce Harper|L|Hit By Pitch|H|Curveball|84|1|2|0|14|79
+Pablo Lopez|R|Rhys Hoskins|R|Grounded Into DP|B|Two-Seam Fastball|85|0|0|0|6|93
+Pablo Lopez|R|Rhys Hoskins|R|Grounded Into DP|X|Two-Seam Fastball|86|1|0|0|7|91
+Pablo Lopez|R|Nick Williams|L|Walk|B|Curveball|87|0|0|2|11|78
+Pablo Lopez|R|Nick Williams|L|Walk|F|Four-Seam Fastball|88|1|0|2|2|92
+Pablo Lopez|R|Nick Williams|L|Walk|F|Four-Seam Fastball|89|1|1|2|11|92
+Pablo Lopez|R|Nick Williams|L|Walk|B|Changeup|90|1|2|2|6|85
+Pablo Lopez|R|Nick Williams|L|Walk|F|Two-Seam Fastball|91|2|2|2|11|92
+Pablo Lopez|R|Nick Williams|L|Walk|B|Curveball|92|2|2|2|14|79
+Pablo Lopez|R|Nick Williams|L|Walk|B|Four-Seam Fastball|93|3|2|2|11|93
+Pablo Lopez|R|Cesar Hernandez|L|Double|B|Four-Seam Fastball|0|0|0|0|14|94
+Pablo Lopez|R|Cesar Hernandez|L|Double|S|Two-Seam Fastball|1|1|0|0|13|94
+Pablo Lopez|R|Cesar Hernandez|L|Double|D|Four-Seam Fastball|2|1|1|0|4|93
+Pablo Lopez|R|Scott Kingery|R|Lineout|X|Four-Seam Fastball|3|0|0|0|13|95
+Pablo Lopez|R|Bryce Harper|L|Triple|B|Curveball|4|0|0|1|11|79
+Pablo Lopez|R|Bryce Harper|L|Triple|F|Curveball|5|1|0|1|14|80
+Pablo Lopez|R|Bryce Harper|L|Triple|E|Four-Seam Fastball|6|1|1|1|5|93
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|B|Four-Seam Fastball|7|0|0|1|14|94
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|B|Four-Seam Fastball|8|1|0|1|9|94
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|C|Changeup|9|2|0|1|1|86
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|F|Two-Seam Fastball|10|2|1|1|13|94
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|F|Changeup|11|2|2|1|7|87
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|F|Four-Seam Fastball|12|2|2|1|5|94
+Pablo Lopez|R|Rhys Hoskins|R|Sac Fly|E|Four-Seam Fastball|13|2|2|1|2|93
+Pablo Lopez|R|Brad Miller|L|Single|S|Four-Seam Fastball|14|0|0|2|2|93
+Pablo Lopez|R|Brad Miller|L|Single|C|Four-Seam Fastball|15|0|1|2|11|93
+Pablo Lopez|R|Brad Miller|L|Single|D|Changeup|16|0|2|2|13|86
+Pablo Lopez|R|Andrew Knapp|L|Groundout|B|Two-Seam Fastball|17|0|0|2|13|92
+Pablo Lopez|R|Andrew Knapp|L|Groundout|C|Four-Seam Fastball|18|1|0|2|13|92
+Pablo Lopez|R|Andrew Knapp|L|Groundout|S|Four-Seam Fastball|19|1|1|2|1|92
+Pablo Lopez|R|Andrew Knapp|L|Groundout|X|Four-Seam Fastball|20|1|2|2|5|91
+Pablo Lopez|R|Maikel Franco|R|Single|C|Two-Seam Fastball|21|0|0|0|7|93
+Pablo Lopez|R|Maikel Franco|R|Single|B|Curveball|22|0|1|0|14|80
+Pablo Lopez|R|Maikel Franco|R|Single|C|Changeup|23|1|1|0|12|84
+Pablo Lopez|R|Maikel Franco|R|Single|D|Four-Seam Fastball|24|1|2|0|5|92
+Pablo Lopez|R|Adam Haseley|L|Grounded Into DP|F|Four-Seam Fastball|25|0|0|0|1|92
+Pablo Lopez|R|Adam Haseley|L|Grounded Into DP|B|Curveball|26|0|1|0|11|78
+Pablo Lopez|R|Adam Haseley|L|Grounded Into DP|B|Curveball|27|1|1|0|11|78
+Pablo Lopez|R|Adam Haseley|L|Grounded Into DP|B|Four-Seam Fastball|28|2|1|0|12|92
+Pablo Lopez|R|Adam Haseley|L|Grounded Into DP|X|Four-Seam Fastball|29|3|1|0|2|92
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|B|Four-Seam Fastball|30|0|0|2|14|94
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|31|1|0|2|5|91
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|32|1|1|2|11|92
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|F|Curveball|33|1|2|2|14|79
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|B|Curveball|34|1|2|2|13|78
+Pablo Lopez|R|Vince Velasquez|R|Strikeout|S|Four-Seam Fastball|35|2|2|2|11|91
+Pablo Lopez|R|Cesar Hernandez|L|Groundout|C|Four-Seam Fastball|36|0|0|0|11|92
+Pablo Lopez|R|Cesar Hernandez|L|Groundout|C|Changeup|37|0|1|0|7|84
+Pablo Lopez|R|Cesar Hernandez|L|Groundout|B|Changeup|38|0|2|0|13|85
+Pablo Lopez|R|Cesar Hernandez|L|Groundout|X|Four-Seam Fastball|39|1|2|0|3|92
+Pablo Lopez|R|Scott Kingery|R|Strikeout|C|Curveball|40|0|0|1|9|78
+Pablo Lopez|R|Scott Kingery|R|Strikeout|B|Curveball|41|0|1|1|14|80
+Pablo Lopez|R|Scott Kingery|R|Strikeout|S|Changeup|42|1|1|1|13|85
+Pablo Lopez|R|Scott Kingery|R|Strikeout|B|Changeup|43|1|2|1|14|86
+Pablo Lopez|R|Scott Kingery|R|Strikeout|F|Four-Seam Fastball|44|2|2|1|5|94
+Pablo Lopez|R|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|45|2|2|1|11|92
+Pablo Lopez|R|Scott Kingery|R|Strikeout|S|Changeup|46|3|2|1|4|86
+Pablo Lopez|R|Bryce Harper|L|Double|C|Curveball|47|0|0|2|13|79
+Pablo Lopez|R|Bryce Harper|L|Double|B|Changeup|48|0|1|2|13|87
+Pablo Lopez|R|Bryce Harper|L|Double|F|Changeup|49|1|1|2|13|85
+Pablo Lopez|R|Bryce Harper|L|Double|D|Curveball|50|1|2|2|7|80
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|C|Changeup|51|0|0|2|11|85
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|B|Changeup|52|0|1|2|14|87
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|F|Four-Seam Fastball|53|1|1|2|11|93
+Pablo Lopez|R|Rhys Hoskins|R|Lineout|X|Changeup|54|1|2|2|13|86
+Pablo Lopez|R|Brad Miller|L|Single|D|Four-Seam Fastball|55|0|0|0|4|93
+Pablo Lopez|R|Andrew Knapp|L|Flyout|F|Two-Seam Fastball|56|0|0|0|11|92
+Pablo Lopez|R|Andrew Knapp|L|Flyout|F|Four-Seam Fastball|57|0|1|0|11|91
+Pablo Lopez|R|Andrew Knapp|L|Flyout|B|Changeup|58|0|2|0|11|85
+Pablo Lopez|R|Andrew Knapp|L|Flyout|F|Changeup|59|1|2|0|7|85
+Pablo Lopez|R|Andrew Knapp|L|Flyout|X|Four-Seam Fastball|60|1|2|0|9|93
+Pablo Lopez|R|Maikel Franco|R|Groundout|B|Two-Seam Fastball|61|0|0|1|11|92
+Pablo Lopez|R|Maikel Franco|R|Groundout|F|Changeup|62|1|0|1|11|82
+Pablo Lopez|R|Maikel Franco|R|Groundout|B|Four-Seam Fastball|63|1|1|1|13|93
+Pablo Lopez|R|Maikel Franco|R|Groundout|X|Two-Seam Fastball|64|2|1|1|4|91
+Pablo Lopez|R|Adam Haseley|L|Single|*B|Curveball|65|0|0|2|14|78
+Pablo Lopez|R|Adam Haseley|L|Single|B|Changeup|66|1|0|2|14|85
+Pablo Lopez|R|Adam Haseley|L|Single|S|Changeup|67|2|0|2|13|86
+Pablo Lopez|R|Adam Haseley|L|Single|B|Four-Seam Fastball|68|2|1|2|12|92
+Pablo Lopez|R|Adam Haseley|L|Single|C|Four-Seam Fastball|69|3|1|2|3|90
+Pablo Lopez|R|Adam Haseley|L|Single|F|Changeup|70|3|2|2|4|85
+Pablo Lopez|R|Adam Haseley|L|Single|F|Changeup|71|3|2|2|4|85
+Pablo Lopez|R|Adam Haseley|L|Single|F|Four-Seam Fastball|72|3|2|2|3|91
+Pablo Lopez|R|Adam Haseley|L|Single|F|Four-Seam Fastball|73|3|2|2|4|92
+Pablo Lopez|R|Adam Haseley|L|Single|F|Four-Seam Fastball|74|3|2|2|5|91
+Pablo Lopez|R|Adam Haseley|L|Single|F|Changeup|75|3|2|2|13|86
+Pablo Lopez|R|Adam Haseley|L|Single|E|Four-Seam Fastball|76|3|2|2|1|93
+Pablo Lopez|R|Logan Morrison|L|Strikeout|B|Changeup|77|0|0|2|14|86
+Pablo Lopez|R|Logan Morrison|L|Strikeout|S|Changeup|78|1|0|2|7|86
+Pablo Lopez|R|Logan Morrison|L|Strikeout|L|Four-Seam Fastball|79|1|1|2|5|92
+Pablo Lopez|R|Logan Morrison|L|Strikeout|F|Four-Seam Fastball|80|1|2|2|2|91
+Pablo Lopez|R|Logan Morrison|L|Strikeout|B|Curveball|81|1|2|2|14|80
+Pablo Lopez|R|Logan Morrison|L|Strikeout|B|Changeup|82|2|2|2|14|86
+Pablo Lopez|R|Logan Morrison|L|Strikeout|S|Four-Seam Fastball|83|3|2|2|1|91
+Pablo Lopez|R|Cesar Hernandez|L|Double|D|Two-Seam Fastball|84|0|0|0|13|91
+Pablo Lopez|R|Sean Rodriguez|R|Sac Bunt|X|Four-Seam Fastball|85|0|0|0|11|93
+Pablo Lopez|R|Ender Inciarte|L|Single|B|Two-Seam Fastball|0|0|0|0|13|93
+Pablo Lopez|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|1|1|0|0|13|92
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|C|Four-Seam Fastball|2|0|0|0|14|94
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|F|Curveball|3|0|1|0|8|82
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|B|Curveball|4|0|2|0|14|81
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|B|Four-Seam Fastball|5|1|2|0|14|96
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|C|Curveball|6|2|2|0|12|81
+Pablo Lopez|R|Freddie Freeman|L|Flyout|B|Four-Seam Fastball|7|0|0|1|14|95
+Pablo Lopez|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|8|1|0|1|9|94
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|C|N/A|9|0|0|2|0|0
+Pablo Lopez|R|Ronald Acuna Jr.|R|Groundout|X|N/A|10|0|1|2|0|0
+Pablo Lopez|R|Nick Markakis|L|Strikeout|F|Two-Seam Fastball|11|0|0|0|4|93
+Pablo Lopez|R|Nick Markakis|L|Strikeout|B|Curveball|12|0|1|0|11|81
+Pablo Lopez|R|Nick Markakis|L|Strikeout|C|Two-Seam Fastball|13|1|1|0|13|94
+Pablo Lopez|R|Nick Markakis|L|Strikeout|B|Curveball|14|1|2|0|14|81
+Pablo Lopez|R|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|15|2|2|0|9|94
+Pablo Lopez|R|Ozzie Albies|L|Groundout|B|Curveball|16|0|0|1|11|81
+Pablo Lopez|R|Ozzie Albies|L|Groundout|X|Changeup|17|1|0|1|5|85
+Pablo Lopez|R|Tyler Flowers|R|Single|C|Four-Seam Fastball|18|0|0|2|5|95
+Pablo Lopez|R|Tyler Flowers|R|Single|B|Curveball|19|0|1|2|14|81
+Pablo Lopez|R|Tyler Flowers|R|Single|D|Curveball|20|1|1|2|9|82
+Pablo Lopez|R|Dansby Swanson|R|Flyout|C|Curveball|21|0|0|2|2|80
+Pablo Lopez|R|Dansby Swanson|R|Flyout|*B|Curveball|22|0|1|2|14|82
+Pablo Lopez|R|Dansby Swanson|R|Flyout|C|Curveball|23|1|1|2|4|80
+Pablo Lopez|R|Dansby Swanson|R|Flyout|B|Four-Seam Fastball|24|1|2|2|12|95
+Pablo Lopez|R|Dansby Swanson|R|Flyout|X|Curveball|25|2|2|2|7|79
+Pablo Lopez|R|Kevin Gausman|L|Groundout|B|Two-Seam Fastball|26|0|0|0|14|93
+Pablo Lopez|R|Kevin Gausman|L|Groundout|B|Two-Seam Fastball|27|1|0|0|13|91
+Pablo Lopez|R|Kevin Gausman|L|Groundout|B|Two-Seam Fastball|28|2|0|0|14|91
+Pablo Lopez|R|Kevin Gausman|L|Groundout|C|Two-Seam Fastball|29|3|0|0|7|92
+Pablo Lopez|R|Kevin Gausman|L|Groundout|C|Two-Seam Fastball|30|3|1|0|1|90
+Pablo Lopez|R|Kevin Gausman|L|Groundout|X|Two-Seam Fastball|31|3|2|0|5|91
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|B|Curveball|32|0|0|1|11|80
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|S|Four-Seam Fastball|33|1|0|1|2|94
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|S|Changeup|34|1|1|1|13|86
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|B|Four-Seam Fastball|35|1|2|1|12|94
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|B|Four-Seam Fastball|36|2|2|1|14|94
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|S|Changeup|37|3|2|1|13|85
+Pablo Lopez|R|Josh Donaldson|R|Flyout|X|Curveball|38|0|0|2|4|81
+Pablo Lopez|R|Freddie Freeman|L|Single|B|Curveball|39|0|0|0|11|79
+Pablo Lopez|R|Freddie Freeman|L|Single|B|Changeup|40|1|0|0|13|83
+Pablo Lopez|R|Freddie Freeman|L|Single|F|Changeup|41|2|0|0|13|84
+Pablo Lopez|R|Freddie Freeman|L|Single|D|Four-Seam Fastball|42|2|1|0|4|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Four-Seam Fastball|43|0|0|0|14|95
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|C|Two-Seam Fastball|44|1|0|0|8|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Curveball|45|1|1|0|11|79
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|F|Changeup|46|2|1|0|9|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|B|Curveball|47|2|2|0|14|80
+Pablo Lopez|R|Ronald Acuna Jr.|R|Home Run|E|Changeup|48|3|2|0|9|85
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Two-Seam Fastball|49|0|0|0|14|94
+Pablo Lopez|R|Nick Markakis|L|Groundout|X|Changeup|50|1|0|0|13|85
+Pablo Lopez|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|51|0|0|1|14|94
+Pablo Lopez|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|52|1|0|1|5|94
+Pablo Lopez|R|Ozzie Albies|L|Groundout|X|Four-Seam Fastball|53|1|1|1|5|95
+Pablo Lopez|R|Tyler Flowers|R|Home Run|B|Curveball|54|0|0|2|11|80
+Pablo Lopez|R|Tyler Flowers|R|Home Run|C|Four-Seam Fastball|55|1|0|2|14|95
+Pablo Lopez|R|Tyler Flowers|R|Home Run|E|Curveball|56|1|1|2|4|80
+Pablo Lopez|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|57|0|0|2|14|94
+Pablo Lopez|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|58|1|0|2|14|93
+Pablo Lopez|R|Dansby Swanson|R|Walk|S|Changeup|59|2|0|2|13|85
+Pablo Lopez|R|Dansby Swanson|R|Walk|S|Changeup|60|2|1|2|14|87
+Pablo Lopez|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|61|2|2|2|14|93
+Pablo Lopez|R|Dansby Swanson|R|Walk|B|Changeup|62|3|2|2|11|84
+Pablo Lopez|R|Kevin Gausman|L|Single|B|Two-Seam Fastball|63|0|0|2|13|92
+Pablo Lopez|R|Kevin Gausman|L|Single|F|Two-Seam Fastball|64|1|0|2|13|91
+Pablo Lopez|R|Kevin Gausman|L|Single|F|Two-Seam Fastball|65|1|1|2|6|91
+Pablo Lopez|R|Kevin Gausman|L|Single|D|Four-Seam Fastball|66|1|2|2|4|91
+Pablo Lopez|R|Ender Inciarte|L|Single|B|Curveball|67|0|0|2|14|80
+Pablo Lopez|R|Ender Inciarte|L|Single|B|Changeup|68|1|0|2|11|84
+Pablo Lopez|R|Ender Inciarte|L|Single|E|Changeup|69|2|0|2|5|85
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|70|0|0|2|4|94
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|F|Two-Seam Fastball|71|0|1|2|8|94
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|F|Two-Seam Fastball|72|0|2|2|13|93
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|*B|Curveball|73|0|2|2|14|82
+Pablo Lopez|R|Josh Donaldson|R|Strikeout|S|Two-Seam Fastball|74|1|2|2|13|92
+Pablo Lopez|R|Freddie Freeman|L|Flyout|F|Two-Seam Fastball|75|0|0|0|8|92
+Pablo Lopez|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|76|0|1|0|2|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|77|0|0|1|12|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Curveball|78|1|0|1|14|79
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|F|Two-Seam Fastball|79|2|0|1|13|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|F|Two-Seam Fastball|80|2|1|1|9|92
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|81|2|2|1|11|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|C|Two-Seam Fastball|82|3|2|1|7|91
+Pablo Lopez|R|Nick Markakis|L|Groundout|C|Two-Seam Fastball|83|0|0|2|4|93
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|84|0|1|2|14|93
+Pablo Lopez|R|Nick Markakis|L|Groundout|F|Changeup|85|1|1|2|5|84
+Pablo Lopez|R|Nick Markakis|L|Groundout|F|Four-Seam Fastball|86|1|2|2|14|93
+Pablo Lopez|R|Nick Markakis|L|Groundout|B|Two-Seam Fastball|87|1|2|2|11|93
+Pablo Lopez|R|Nick Markakis|L|Groundout|X|Changeup|88|2|2|2|8|84
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|C|Two-Seam Fastball|0|0|0|0|1|93
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|1|0|1|0|5|94
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|2|0|2|0|12|94
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|F|Curveball|3|1|2|0|2|79
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|4|1|2|0|5|94
+Pablo Lopez|R|Charlie Blackmon|L|Groundout|X|Changeup|5|1|2|0|14|87
+Pablo Lopez|R|David Dahl|L|Strikeout|S|Four-Seam Fastball|6|0|0|1|5|94
+Pablo Lopez|R|David Dahl|L|Strikeout|B|Curveball|7|0|1|1|11|79
+Pablo Lopez|R|David Dahl|L|Strikeout|S|Changeup|8|1|1|1|13|86
+Pablo Lopez|R|David Dahl|L|Strikeout|B|Four-Seam Fastball|9|1|2|1|12|93
+Pablo Lopez|R|David Dahl|L|Strikeout|S|Four-Seam Fastball|10|2|2|1|14|95
+Pablo Lopez|R|Nolan Arenado|R|Lineout|C|Four-Seam Fastball|11|0|0|2|2|96
+Pablo Lopez|R|Nolan Arenado|R|Lineout|C|Curveball|12|0|1|2|13|81
+Pablo Lopez|R|Nolan Arenado|R|Lineout|X|Four-Seam Fastball|13|0|2|2|6|94
+Pablo Lopez|R|Trevor Story|R|Flyout|X|Four-Seam Fastball|14|0|0|0|4|94
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|S|Four-Seam Fastball|15|0|0|1|3|93
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|F|Curveball|16|0|1|1|14|79
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|F|Curveball|17|0|2|1|9|80
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|B|Four-Seam Fastball|18|0|2|1|12|94
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|F|Four-Seam Fastball|19|1|2|1|8|95
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|B|Changeup|20|1|2|1|13|86
+Pablo Lopez|R|Ryan McMahon|L|Strikeout|S|Changeup|21|2|2|1|13|86
+Pablo Lopez|R|Ian Desmond|R|Lineout|X|Curveball|22|0|0|2|6|80
+Pablo Lopez|R|Garrett Hampson|R|Single|B|Four-Seam Fastball|23|0|0|0|11|93
+Pablo Lopez|R|Garrett Hampson|R|Single|C|Four-Seam Fastball|24|1|0|0|6|92
+Pablo Lopez|R|Garrett Hampson|R|Single|D|Four-Seam Fastball|25|1|1|0|5|94
+Pablo Lopez|R|Chris Iannetta|R|Hit By Pitch|H|Two-Seam Fastball|26|0|0|0|11|93
+Pablo Lopez|R|Tyler Anderson|L|Pop Out|C|Four-Seam Fastball|27|0|0|0|12|94
+Pablo Lopez|R|Tyler Anderson|L|Pop Out|T|Four-Seam Fastball|28|0|1|0|6|93
+Pablo Lopez|R|Tyler Anderson|L|Pop Out|B|Four-Seam Fastball|29|0|2|0|12|91
+Pablo Lopez|R|Tyler Anderson|L|Pop Out|X|Changeup|30|1|2|0|11|85
+Pablo Lopez|R|Charlie Blackmon|L|Single|B|Four-Seam Fastball|31|0|0|1|12|94
+Pablo Lopez|R|Charlie Blackmon|L|Single|E|Changeup|32|1|0|1|5|85
+Pablo Lopez|R|David Dahl|L|Sac Fly|S|Changeup|33|0|0|1|8|84
+Pablo Lopez|R|David Dahl|L|Sac Fly|T|Four-Seam Fastball|34|0|1|1|1|93
+Pablo Lopez|R|David Dahl|L|Sac Fly|E|Four-Seam Fastball|35|0|2|1|2|93
+Pablo Lopez|R|Nolan Arenado|R|Flyout|X|Curveball|36|0|0|2|4|80
+Pablo Lopez|R|Trevor Story|R|Strikeout|C|Curveball|37|0|0|0|2|77
+Pablo Lopez|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|38|0|1|0|9|95
+Pablo Lopez|R|Trevor Story|R|Strikeout|B|Changeup|39|1|1|0|13|85
+Pablo Lopez|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|40|2|1|0|14|95
+Pablo Lopez|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|41|2|2|0|13|93
+Pablo Lopez|R|Trevor Story|R|Strikeout|S|Changeup|42|2|2|0|7|86
+Pablo Lopez|R|Ryan McMahon|L|Single|B|Curveball|43|0|0|1|14|77
+Pablo Lopez|R|Ryan McMahon|L|Single|S|Changeup|44|1|0|1|13|85
+Pablo Lopez|R|Ryan McMahon|L|Single|B|Four-Seam Fastball|45|1|1|1|12|94
+Pablo Lopez|R|Ryan McMahon|L|Single|B|Four-Seam Fastball|46|2|1|1|14|93
+Pablo Lopez|R|Ryan McMahon|L|Single|D|Two-Seam Fastball|47|3|1|1|14|92
+Pablo Lopez|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|48|0|0|1|13|94
+Pablo Lopez|R|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|49|0|1|1|14|95
+Pablo Lopez|R|Ian Desmond|R|Strikeout|*B|Changeup|50|1|1|1|14|86
+Pablo Lopez|R|Ian Desmond|R|Strikeout|S|Changeup|51|2|1|1|13|85
+Pablo Lopez|R|Ian Desmond|R|Strikeout|S|Four-Seam Fastball|52|2|2|1|3|93
+Pablo Lopez|R|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|53|0|0|2|11|92
+Pablo Lopez|R|Garrett Hampson|R|Strikeout|C|Changeup|54|1|0|2|11|85
+Pablo Lopez|R|Garrett Hampson|R|Strikeout|C|Curveball|55|1|1|2|1|78
+Pablo Lopez|R|Garrett Hampson|R|Strikeout|W|Curveball|56|1|2|2|14|78
+Pablo Lopez|R|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|57|0|0|0|13|94
+Pablo Lopez|R|Chris Iannetta|R|Groundout|F|Four-Seam Fastball|58|1|0|0|8|92
+Pablo Lopez|R|Chris Iannetta|R|Groundout|F|Changeup|59|1|1|0|11|84
+Pablo Lopez|R|Chris Iannetta|R|Groundout|B|Curveball|60|1|2|0|14|80
+Pablo Lopez|R|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|61|2|2|0|11|93
+Pablo Lopez|R|Chris Iannetta|R|Groundout|X|Four-Seam Fastball|62|3|2|0|1|91
+Pablo Lopez|R|Tyler Anderson|L|Strikeout|C|Two-Seam Fastball|63|0|0|1|13|91
+Pablo Lopez|R|Tyler Anderson|L|Strikeout|B|Four-Seam Fastball|64|0|1|1|14|93
+Pablo Lopez|R|Tyler Anderson|L|Strikeout|F|Two-Seam Fastball|65|1|1|1|5|90
+Pablo Lopez|R|Tyler Anderson|L|Strikeout|F|Changeup|66|1|2|1|13|84
+Pablo Lopez|R|Tyler Anderson|L|Strikeout|S|Four-Seam Fastball|67|1|2|1|1|90
+Pablo Lopez|R|Charlie Blackmon|L|Single|B|Two-Seam Fastball|68|0|0|2|1|93
+Pablo Lopez|R|Charlie Blackmon|L|Single|C|Two-Seam Fastball|69|1|0|2|9|92
+Pablo Lopez|R|Charlie Blackmon|L|Single|C|Curveball|70|1|1|2|7|77
+Pablo Lopez|R|Charlie Blackmon|L|Single|D|Four-Seam Fastball|71|1|2|2|2|93
+Pablo Lopez|R|David Dahl|L|Strikeout|B|Four-Seam Fastball|72|0|0|2|14|91
+Pablo Lopez|R|David Dahl|L|Strikeout|S|Changeup|73|1|0|2|14|84
+Pablo Lopez|R|David Dahl|L|Strikeout|F|Curveball|74|1|1|2|14|78
+Pablo Lopez|R|David Dahl|L|Strikeout|S|Changeup|75|1|2|2|13|83
+Pablo Lopez|R|Nolan Arenado|R|Single|D|Four-Seam Fastball|76|0|0|0|9|93
+Pablo Lopez|R|Trevor Story|R|Flyout|S|Curveball|77|0|0|0|14|79
+Pablo Lopez|R|Trevor Story|R|Flyout|S|Changeup|78|0|1|0|14|85
+Pablo Lopez|R|Trevor Story|R|Flyout|F|Four-Seam Fastball|79|0|2|0|14|93
+Pablo Lopez|R|Trevor Story|R|Flyout|*B|Curveball|80|0|2|0|14|78
+Pablo Lopez|R|Trevor Story|R|Flyout|B|Changeup|81|1|2|0|14|85
+Pablo Lopez|R|Trevor Story|R|Flyout|F|Two-Seam Fastball|82|2|2|0|11|92
+Pablo Lopez|R|Trevor Story|R|Flyout|B|Changeup|83|2|2|0|14|85
+Pablo Lopez|R|Trevor Story|R|Flyout|F|Four-Seam Fastball|84|3|2|0|6|92
+Pablo Lopez|R|Trevor Story|R|Flyout|F|Four-Seam Fastball|85|3|2|0|8|92
+Pablo Lopez|R|Trevor Story|R|Flyout|F|Changeup|86|3|2|0|13|85
+Pablo Lopez|R|Trevor Story|R|Flyout|X|Changeup|87|3|2|0|4|86
+Pablo Lopez|R|Daniel Descalso|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|13|93
+Pablo Lopez|R|Daniel Descalso|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|8|93
+Pablo Lopez|R|Daniel Descalso|L|Strikeout|B|Two-Seam Fastball|2|1|1|0|11|92
+Pablo Lopez|R|Daniel Descalso|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|5|93
+Pablo Lopez|R|Daniel Descalso|L|Strikeout|S|Curveball|4|2|2|0|11|78
+Pablo Lopez|R|Kris Bryant|R|Flyout|F|Four-Seam Fastball|5|0|0|1|11|94
+Pablo Lopez|R|Kris Bryant|R|Flyout|F|Four-Seam Fastball|6|0|1|1|2|94
+Pablo Lopez|R|Kris Bryant|R|Flyout|X|Four-Seam Fastball|7|0|2|1|11|94
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|B|Two-Seam Fastball|8|0|0|2|9|94
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|B|Curveball|9|1|0|2|9|79
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|C|Two-Seam Fastball|10|2|0|2|8|93
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|C|Four-Seam Fastball|11|2|1|2|7|93
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|X|Curveball|12|2|2|2|13|79
+Pablo Lopez|R|Javier Baez|R|Lineout|F|Four-Seam Fastball|13|0|0|0|1|94
+Pablo Lopez|R|Javier Baez|R|Lineout|F|Four-Seam Fastball|14|0|1|0|2|95
+Pablo Lopez|R|Javier Baez|R|Lineout|F|Four-Seam Fastball|15|0|2|0|3|93
+Pablo Lopez|R|Javier Baez|R|Lineout|X|Curveball|16|0|2|0|14|80
+Pablo Lopez|R|Jason Heyward|L|Strikeout|C|Curveball|17|0|0|1|7|79
+Pablo Lopez|R|Jason Heyward|L|Strikeout|C|Curveball|18|0|1|1|13|78
+Pablo Lopez|R|Jason Heyward|L|Strikeout|B|Curveball|19|0|2|1|14|79
+Pablo Lopez|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|20|1|2|1|12|94
+Pablo Lopez|R|Jason Heyward|L|Strikeout|S|Changeup|21|2|2|1|13|85
+Pablo Lopez|R|Willson Contreras|R|Strikeout|C|Four-Seam Fastball|22|0|0|2|2|96
+Pablo Lopez|R|Willson Contreras|R|Strikeout|B|Curveball|23|0|1|2|13|80
+Pablo Lopez|R|Willson Contreras|R|Strikeout|B|Curveball|24|1|1|2|14|80
+Pablo Lopez|R|Willson Contreras|R|Strikeout|C|Changeup|25|2|1|2|9|86
+Pablo Lopez|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|26|2|2|2|14|97
+Pablo Lopez|R|Willson Contreras|R|Strikeout|C|Changeup|27|3|2|2|6|87
+Pablo Lopez|R|David Bote|R|Double|B|Four-Seam Fastball|28|0|0|0|13|94
+Pablo Lopez|R|David Bote|R|Double|B|Curveball|29|1|0|0|11|77
+Pablo Lopez|R|David Bote|R|Double|D|Four-Seam Fastball|30|2|0|0|8|94
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|C|Curveball|31|0|0|0|4|79
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|B|Curveball|32|0|1|0|14|80
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|B|Curveball|33|1|1|0|14|80
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|*B|Two-Seam Fastball|34|2|1|0|13|94
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|F|Two-Seam Fastball|35|3|1|0|7|93
+Pablo Lopez|R|Albert Almora Jr.|R|Pop Out|X|Curveball|36|3|2|0|11|78
+Pablo Lopez|R|Jose Quintana|R|Strikeout|S|Curveball|37|0|0|1|14|79
+Pablo Lopez|R|Jose Quintana|R|Strikeout|B|Four-Seam Fastball|38|0|1|1|14|93
+Pablo Lopez|R|Jose Quintana|R|Strikeout|S|Two-Seam Fastball|39|1|1|1|13|91
+Pablo Lopez|R|Jose Quintana|R|Strikeout|B|Curveball|40|1|2|1|11|79
+Pablo Lopez|R|Jose Quintana|R|Strikeout|F|Curveball|41|2|2|1|14|78
+Pablo Lopez|R|Jose Quintana|R|Strikeout|C|Four-Seam Fastball|42|2|2|1|9|93
+Pablo Lopez|R|Daniel Descalso|L|Single|C|Curveball|43|0|0|2|11|78
+Pablo Lopez|R|Daniel Descalso|L|Single|B|Four-Seam Fastball|44|0|1|2|11|93
+Pablo Lopez|R|Daniel Descalso|L|Single|C|Four-Seam Fastball|45|1|1|2|14|92
+Pablo Lopez|R|Daniel Descalso|L|Single|E|Changeup|46|1|2|2|7|85
+Pablo Lopez|R|Kris Bryant|R|Groundout|*B|Two-Seam Fastball|47|0|0|2|14|92
+Pablo Lopez|R|Kris Bryant|R|Groundout|C|Two-Seam Fastball|48|1|0|2|7|90
+Pablo Lopez|R|Kris Bryant|R|Groundout|B|Two-Seam Fastball|49|1|1|2|13|93
+Pablo Lopez|R|Kris Bryant|R|Groundout|S|Changeup|50|2|1|2|5|85
+Pablo Lopez|R|Kris Bryant|R|Groundout|X|Four-Seam Fastball|51|2|2|2|11|92
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|C|Curveball|52|0|0|0|3|78
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|B|Curveball|53|0|1|0|13|78
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|F|Changeup|54|1|1|0|8|86
+Pablo Lopez|R|Anthony Rizzo|L|Groundout|X|Four-Seam Fastball|55|1|2|0|11|93
+Pablo Lopez|R|Javier Baez|R|Single|F|Four-Seam Fastball|56|0|0|1|12|95
+Pablo Lopez|R|Javier Baez|R|Single|D|Four-Seam Fastball|57|0|1|1|5|94
+Pablo Lopez|R|Jason Heyward|L|Single|D|Changeup|58|0|0|1|13|85
+Pablo Lopez|R|Willson Contreras|R|Hit By Pitch|T|Two-Seam Fastball|59|0|0|1|13|94
+Pablo Lopez|R|Willson Contreras|R|Hit By Pitch|*B|Two-Seam Fastball|60|0|1|1|13|92
+Pablo Lopez|R|Willson Contreras|R|Hit By Pitch|H|Two-Seam Fastball|61|1|1|1|11|92
+Pablo Lopez|R|David Bote|R|Groundout|B|Two-Seam Fastball|62|0|0|1|13|92
+Pablo Lopez|R|David Bote|R|Groundout|F|Two-Seam Fastball|63|1|0|1|4|93
+Pablo Lopez|R|David Bote|R|Groundout|C|Two-Seam Fastball|64|1|1|1|6|92
+Pablo Lopez|R|David Bote|R|Groundout|E|Two-Seam Fastball|65|1|2|1|13|92
+Pablo Lopez|R|Albert Almora Jr.|R|Intent Walk|V|N/A|66|0|0|2|0|0
+Pablo Lopez|R|Albert Almora Jr.|R|Intent Walk|V|N/A|67|0|1|2|0|0
+Pablo Lopez|R|Albert Almora Jr.|R|Intent Walk|V|N/A|68|0|2|2|0|0
+Pablo Lopez|R|Albert Almora Jr.|R|Intent Walk|V|N/A|69|0|2|2|0|0
+Pablo Lopez|R|Jose Quintana|R|Strikeout|C|Two-Seam Fastball|70|0|0|2|13|91
+Pablo Lopez|R|Jose Quintana|R|Strikeout|B|Two-Seam Fastball|71|0|1|2|11|90
+Pablo Lopez|R|Jose Quintana|R|Strikeout|S|Two-Seam Fastball|72|1|1|2|5|90
+Pablo Lopez|R|Jose Quintana|R|Strikeout|C|Two-Seam Fastball|73|1|2|2|7|90
+Pablo Lopez|R|Daniel Descalso|L|Double|C|Curveball|74|0|0|0|6|76
+Pablo Lopez|R|Daniel Descalso|L|Double|B|Changeup|75|0|1|0|14|83
+Pablo Lopez|R|Daniel Descalso|L|Double|S|Changeup|76|1|1|0|7|83
+Pablo Lopez|R|Daniel Descalso|L|Double|F|Four-Seam Fastball|77|1|2|0|8|92
+Pablo Lopez|R|Daniel Descalso|L|Double|D|Four-Seam Fastball|78|1|2|0|2|93
+Pablo Lopez|R|Kris Bryant|R|Double Play|C|Curveball|79|0|0|0|8|79
+Pablo Lopez|R|Kris Bryant|R|Double Play|B|Two-Seam Fastball|80|0|1|0|13|91
+Pablo Lopez|R|Kris Bryant|R|Double Play|F|Curveball|81|1|1|0|2|79
+Pablo Lopez|R|Kris Bryant|R|Double Play|B|Two-Seam Fastball|82|1|2|0|14|93
+Pablo Lopez|R|Kris Bryant|R|Double Play|F|Two-Seam Fastball|83|2|2|0|7|91
+Pablo Lopez|R|Kris Bryant|R|Double Play|X|Four-Seam Fastball|84|2|2|0|2|93
+Pablo Lopez|R|Anthony Rizzo|L|Strikeout|F|Two-Seam Fastball|85|0|0|2|1|93
+Pablo Lopez|R|Anthony Rizzo|L|Strikeout|S|Curveball|86|0|1|2|14|79
+Pablo Lopez|R|Anthony Rizzo|L|Strikeout|F|Four-Seam Fastball|87|0|2|2|11|92
+Pablo Lopez|R|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|88|0|2|2|14|92
+Pablo Lopez|R|Anthony Rizzo|L|Strikeout|S|Curveball|89|1|2|2|14|79
+Pablo Lopez|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|93
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Four-Seam Fastball|1|1|0|0|14|93
+Pablo Lopez|R|Ozzie Albies|L|Flyout|X|Changeup|2|1|1|0|1|86
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|14|95
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|4|1|0|1|14|94
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|S|Curveball|5|1|1|1|14|79
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Changeup|6|1|2|1|8|86
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|7|1|2|1|11|94
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|8|1|2|1|12|95
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|9|2|2|1|14|94
+Pablo Lopez|R|Freddie Freeman|L|Groundout|C|Curveball|10|0|0|2|11|80
+Pablo Lopez|R|Freddie Freeman|L|Groundout|X|Four-Seam Fastball|11|0|1|2|6|93
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|12|0|0|0|14|93
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Changeup|13|1|0|0|11|83
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|14|2|0|0|11|92
+Pablo Lopez|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|15|3|0|0|14|93
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|C|Four-Seam Fastball|16|0|0|0|6|94
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|B|Two-Seam Fastball|17|0|1|0|14|93
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|C|Curveball|18|1|1|0|8|79
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Four-Seam Fastball|19|1|2|0|8|94
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|S|Four-Seam Fastball|20|1|2|0|4|93
+Pablo Lopez|R|Johan Camargo|L|Forceout|C|Changeup|21|0|0|1|13|85
+Pablo Lopez|R|Johan Camargo|L|Forceout|B|Four-Seam Fastball|22|0|1|1|11|93
+Pablo Lopez|R|Johan Camargo|L|Forceout|X|Four-Seam Fastball|23|1|1|1|5|93
+Pablo Lopez|R|Matt Joyce|L|Groundout|B|Curveball|24|0|0|2|14|81
+Pablo Lopez|R|Matt Joyce|L|Groundout|C|Changeup|25|1|0|2|8|85
+Pablo Lopez|R|Matt Joyce|L|Groundout|X|Four-Seam Fastball|26|1|1|2|6|94
+Pablo Lopez|R|Ender Inciarte|L|Groundout|B|Two-Seam Fastball|27|0|0|0|14|92
+Pablo Lopez|R|Ender Inciarte|L|Groundout|F|Four-Seam Fastball|28|1|0|0|11|92
+Pablo Lopez|R|Ender Inciarte|L|Groundout|F|Curveball|29|1|1|0|5|78
+Pablo Lopez|R|Ender Inciarte|L|Groundout|X|Four-Seam Fastball|30|1|2|0|1|94
+Pablo Lopez|R|Julio Teheran|R|Strikeout|F|Four-Seam Fastball|31|0|0|1|6|94
+Pablo Lopez|R|Julio Teheran|R|Strikeout|S|Four-Seam Fastball|32|0|1|1|7|93
+Pablo Lopez|R|Julio Teheran|R|Strikeout|B|Curveball|33|0|2|1|14|79
+Pablo Lopez|R|Julio Teheran|R|Strikeout|B|Curveball|34|1|2|1|14|79
+Pablo Lopez|R|Julio Teheran|R|Strikeout|S|Two-Seam Fastball|35|2|2|1|13|92
+Pablo Lopez|R|Ozzie Albies|L|Strikeout|B|Curveball|36|0|0|2|13|79
+Pablo Lopez|R|Ozzie Albies|L|Strikeout|F|Changeup|37|1|0|2|9|85
+Pablo Lopez|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|38|1|1|2|14|94
+Pablo Lopez|R|Ozzie Albies|L|Strikeout|F|Changeup|39|1|2|2|13|86
+Pablo Lopez|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|40|1|2|2|11|93
+Pablo Lopez|R|Dansby Swanson|R|Single|B|Curveball|41|0|0|0|13|78
+Pablo Lopez|R|Dansby Swanson|R|Single|B|Four-Seam Fastball|42|1|0|0|14|93
+Pablo Lopez|R|Dansby Swanson|R|Single|F|Two-Seam Fastball|43|2|0|0|7|92
+Pablo Lopez|R|Dansby Swanson|R|Single|C|Changeup|44|2|1|0|13|84
+Pablo Lopez|R|Dansby Swanson|R|Single|D|Four-Seam Fastball|45|2|2|0|6|93
+Pablo Lopez|R|Freddie Freeman|L|Pop Out|C|Changeup|46|0|0|0|13|85
+Pablo Lopez|R|Freddie Freeman|L|Pop Out|B|Four-Seam Fastball|47|0|1|0|11|93
+Pablo Lopez|R|Freddie Freeman|L|Pop Out|X|Changeup|48|1|1|0|8|85
+Pablo Lopez|R|Nick Markakis|L|Single|B|Two-Seam Fastball|49|0|0|1|13|91
+Pablo Lopez|R|Nick Markakis|L|Single|B|Changeup|50|1|0|1|13|84
+Pablo Lopez|R|Nick Markakis|L|Single|C|Four-Seam Fastball|51|2|0|1|4|92
+Pablo Lopez|R|Nick Markakis|L|Single|B|Four-Seam Fastball|52|2|1|1|14|92
+Pablo Lopez|R|Nick Markakis|L|Single|F|Two-Seam Fastball|53|3|1|1|13|91
+Pablo Lopez|R|Nick Markakis|L|Single|F|Four-Seam Fastball|54|3|2|1|12|93
+Pablo Lopez|R|Nick Markakis|L|Single|D|Four-Seam Fastball|55|3|2|1|14|91
+Pablo Lopez|R|Tyler Flowers|R|Grounded Into DP|B|Curveball|56|0|0|1|14|80
+Pablo Lopez|R|Tyler Flowers|R|Grounded Into DP|B|Four-Seam Fastball|57|1|0|1|11|92
+Pablo Lopez|R|Tyler Flowers|R|Grounded Into DP|C|Four-Seam Fastball|58|2|0|1|12|93
+Pablo Lopez|R|Tyler Flowers|R|Grounded Into DP|B|Four-Seam Fastball|59|2|1|1|13|93
+Pablo Lopez|R|Tyler Flowers|R|Grounded Into DP|X|Two-Seam Fastball|60|3|1|1|5|91
+Pablo Lopez|R|Johan Camargo|L|Pop Out|B|Two-Seam Fastball|61|0|0|0|13|91
+Pablo Lopez|R|Johan Camargo|L|Pop Out|B|Changeup|62|1|0|0|14|82
+Pablo Lopez|R|Johan Camargo|L|Pop Out|B|Four-Seam Fastball|63|2|0|0|11|90
+Pablo Lopez|R|Johan Camargo|L|Pop Out|C|Four-Seam Fastball|64|3|0|0|11|91
+Pablo Lopez|R|Johan Camargo|L|Pop Out|X|Four-Seam Fastball|65|3|1|0|6|90
+Pablo Lopez|R|Matt Joyce|L|Double|B|Two-Seam Fastball|66|0|0|1|14|92
+Pablo Lopez|R|Matt Joyce|L|Double|C|Two-Seam Fastball|67|1|0|1|13|91
+Pablo Lopez|R|Matt Joyce|L|Double|B|Curveball|68|1|1|1|14|79
+Pablo Lopez|R|Matt Joyce|L|Double|D|Four-Seam Fastball|69|2|1|1|5|91
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|C|Four-Seam Fastball|70|0|0|1|6|92
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|T|Four-Seam Fastball|71|0|1|1|3|91
+Pablo Lopez|R|Ender Inciarte|L|Strikeout|T|Four-Seam Fastball|72|0|2|1|12|92
+Pablo Lopez|R|Julio Teheran|R|Strikeout|*B|Curveball|73|0|0|2|14|79
+Pablo Lopez|R|Julio Teheran|R|Strikeout|B|Two-Seam Fastball|74|1|0|2|11|90
+Pablo Lopez|R|Julio Teheran|R|Strikeout|B|Four-Seam Fastball|75|2|0|2|11|90
+Pablo Lopez|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|76|3|0|2|7|90
+Pablo Lopez|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|77|3|1|2|2|90
+Pablo Lopez|R|Julio Teheran|R|Strikeout|S|Two-Seam Fastball|78|3|2|2|8|91
+Pablo Lopez|R|Ozzie Albies|L|Pop Out|C|Changeup|79|0|0|0|11|83
+Pablo Lopez|R|Ozzie Albies|L|Pop Out|X|Four-Seam Fastball|80|0|1|0|1|92
+Pablo Lopez|R|Dansby Swanson|R|Groundout|B|Two-Seam Fastball|81|0|0|1|14|93
+Pablo Lopez|R|Dansby Swanson|R|Groundout|C|Changeup|82|1|0|1|14|85
+Pablo Lopez|R|Dansby Swanson|R|Groundout|F|Four-Seam Fastball|83|1|1|1|8|93
+Pablo Lopez|R|Dansby Swanson|R|Groundout|F|Four-Seam Fastball|84|1|2|1|7|92
+Pablo Lopez|R|Dansby Swanson|R|Groundout|F|Curveball|85|1|2|1|4|79
+Pablo Lopez|R|Dansby Swanson|R|Groundout|X|Curveball|86|1|2|1|13|79
+Pablo Lopez|R|Freddie Freeman|L|Groundout|X|Curveball|87|0|0|2|7|79
+Pablo Lopez|R|Jeff McNeil|L|Double|D|Two-Seam Fastball|0|0|0|0|7|93
+Pablo Lopez|R|Amed Rosario|R|Strikeout|B|Four-Seam Fastball|1|0|0|0|13|96
+Pablo Lopez|R|Amed Rosario|R|Strikeout|C|Two-Seam Fastball|2|1|0|0|6|95
+Pablo Lopez|R|Amed Rosario|R|Strikeout|F|Curveball|3|1|1|0|14|80
+Pablo Lopez|R|Amed Rosario|R|Strikeout|F|Curveball|4|1|2|0|14|80
+Pablo Lopez|R|Amed Rosario|R|Strikeout|F|Curveball|5|1|2|0|7|80
+Pablo Lopez|R|Amed Rosario|R|Strikeout|B|Two-Seam Fastball|6|1|2|0|12|96
+Pablo Lopez|R|Amed Rosario|R|Strikeout|S|Changeup|7|2|2|0|14|87
+Pablo Lopez|R|Robinson Cano|L|Strikeout|F|Two-Seam Fastball|8|0|0|1|7|95
+Pablo Lopez|R|Robinson Cano|L|Strikeout|F|Two-Seam Fastball|9|0|1|1|4|96
+Pablo Lopez|R|Robinson Cano|L|Strikeout|T|Four-Seam Fastball|10|0|2|1|11|96
+Pablo Lopez|R|Pete Alonso|R|Groundout|C|Two-Seam Fastball|11|0|0|2|5|96
+Pablo Lopez|R|Pete Alonso|R|Groundout|F|Two-Seam Fastball|12|0|1|2|13|96
+Pablo Lopez|R|Pete Alonso|R|Groundout|B|Changeup|13|0|2|2|14|89
+Pablo Lopez|R|Pete Alonso|R|Groundout|B|Two-Seam Fastball|14|1|2|2|14|97
+Pablo Lopez|R|Pete Alonso|R|Groundout|B|Changeup|15|2|2|2|14|88
+Pablo Lopez|R|Pete Alonso|R|Groundout|X|Changeup|16|3|2|2|8|88
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|F|Two-Seam Fastball|17|0|0|0|1|94
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|S|Four-Seam Fastball|18|0|1|0|11|94
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|19|0|2|0|7|95
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|F|Changeup|20|1|2|0|13|87
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|C|Two-Seam Fastball|21|1|2|0|5|94
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|B|Two-Seam Fastball|22|0|0|1|14|95
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|C|Four-Seam Fastball|23|1|0|1|8|93
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|F|Changeup|24|1|1|1|7|87
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|B|Four-Seam Fastball|25|1|2|1|14|96
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|B|Changeup|26|2|2|1|13|87
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|F|Changeup|27|3|2|1|8|87
+Pablo Lopez|R|Brandon Nimmo|L|Groundout|X|Four-Seam Fastball|28|3|2|1|5|92
+Pablo Lopez|R|Todd Frazier|R|Strikeout|C|Two-Seam Fastball|29|0|0|2|1|94
+Pablo Lopez|R|Todd Frazier|R|Strikeout|F|Two-Seam Fastball|30|0|1|2|11|93
+Pablo Lopez|R|Todd Frazier|R|Strikeout|B|Two-Seam Fastball|31|0|2|2|14|95
+Pablo Lopez|R|Todd Frazier|R|Strikeout|F|Changeup|32|1|2|2|5|87
+Pablo Lopez|R|Todd Frazier|R|Strikeout|B|Four-Seam Fastball|33|1|2|2|14|95
+Pablo Lopez|R|Todd Frazier|R|Strikeout|S|Changeup|34|2|2|2|14|86
+Pablo Lopez|R|Juan Lagares|R|Groundout|X|Two-Seam Fastball|35|0|0|0|4|94
+Pablo Lopez|R|Steven Matz|R|Groundout|B|Four-Seam Fastball|36|0|0|1|9|94
+Pablo Lopez|R|Steven Matz|R|Groundout|B|Four-Seam Fastball|37|1|0|1|14|94
+Pablo Lopez|R|Steven Matz|R|Groundout|C|Four-Seam Fastball|38|2|0|1|1|93
+Pablo Lopez|R|Steven Matz|R|Groundout|X|Four-Seam Fastball|39|2|1|1|4|94
+Pablo Lopez|R|Jeff McNeil|L|Flyout|C|Changeup|40|0|0|2|14|86
+Pablo Lopez|R|Jeff McNeil|L|Flyout|X|Changeup|41|0|1|2|4|86
+Pablo Lopez|R|Amed Rosario|R|Groundout|B|Two-Seam Fastball|42|0|0|0|13|93
+Pablo Lopez|R|Amed Rosario|R|Groundout|S|Two-Seam Fastball|43|1|0|0|13|93
+Pablo Lopez|R|Amed Rosario|R|Groundout|F|Two-Seam Fastball|44|1|1|0|13|94
+Pablo Lopez|R|Amed Rosario|R|Groundout|B|Changeup|45|1|2|0|14|87
+Pablo Lopez|R|Amed Rosario|R|Groundout|X|Changeup|46|2|2|0|6|87
+Pablo Lopez|R|Robinson Cano|L|Groundout|X|Two-Seam Fastball|47|0|0|1|2|94
+Pablo Lopez|R|Pete Alonso|R|Groundout|B|Two-Seam Fastball|48|0|0|2|13|94
+Pablo Lopez|R|Pete Alonso|R|Groundout|X|Two-Seam Fastball|49|1|0|2|11|94
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|B|Two-Seam Fastball|50|0|0|0|13|93
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|S|Two-Seam Fastball|51|1|0|0|13|93
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|F|Changeup|52|1|1|0|7|86
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|F|Changeup|53|1|2|0|14|87
+Pablo Lopez|R|Wilson Ramos|R|Strikeout|T|Two-Seam Fastball|54|1|2|0|13|93
+Pablo Lopez|R|Brandon Nimmo|L|Flyout|B|Two-Seam Fastball|55|0|0|1|13|93
+Pablo Lopez|R|Brandon Nimmo|L|Flyout|B|Changeup|56|1|0|1|13|87
+Pablo Lopez|R|Brandon Nimmo|L|Flyout|X|Two-Seam Fastball|57|2|0|1|5|93
+Pablo Lopez|R|Todd Frazier|R|Walk|B|Curveball|58|0|0|2|14|80
+Pablo Lopez|R|Todd Frazier|R|Walk|B|Changeup|59|1|0|2|11|85
+Pablo Lopez|R|Todd Frazier|R|Walk|F|Two-Seam Fastball|60|2|0|2|1|94
+Pablo Lopez|R|Todd Frazier|R|Walk|B|Changeup|61|2|1|2|11|86
+Pablo Lopez|R|Todd Frazier|R|Walk|B|Two-Seam Fastball|62|3|1|2|11|92
+Pablo Lopez|R|Juan Lagares|R|Strikeout|C|Two-Seam Fastball|63|0|0|2|11|93
+Pablo Lopez|R|Juan Lagares|R|Strikeout|F|Two-Seam Fastball|64|0|1|2|11|94
+Pablo Lopez|R|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|65|0|2|2|11|93
+Pablo Lopez|R|Juan Lagares|R|Strikeout|S|Changeup|66|1|2|2|14|86
+Pablo Lopez|R|Carlos Gomez|R|Strikeout|F|Two-Seam Fastball|67|0|0|0|8|93
+Pablo Lopez|R|Carlos Gomez|R|Strikeout|B|Changeup|68|0|1|0|13|85
+Pablo Lopez|R|Carlos Gomez|R|Strikeout|B|Changeup|69|1|1|0|14|86
+Pablo Lopez|R|Carlos Gomez|R|Strikeout|S|Two-Seam Fastball|70|2|1|0|13|92
+Pablo Lopez|R|Carlos Gomez|R|Strikeout|S|Changeup|71|2|2|0|4|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|C|Curveball|72|0|0|1|8|79
+Pablo Lopez|R|Jeff McNeil|L|Walk|B|Changeup|73|0|1|1|13|85
+Pablo Lopez|R|Jeff McNeil|L|Walk|B|Changeup|74|1|1|1|13|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|75|2|1|1|8|93
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Changeup|76|2|2|1|9|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|77|2|2|1|14|93
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Changeup|78|2|2|1|13|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Changeup|79|2|2|1|13|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|80|2|2|1|6|94
+Pablo Lopez|R|Jeff McNeil|L|Walk|F|Curveball|81|2|2|1|7|78
+Pablo Lopez|R|Jeff McNeil|L|Walk|B|Changeup|82|2|2|1|13|86
+Pablo Lopez|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|83|3|2|1|14|94
+Pablo Lopez|R|Amed Rosario|R|Grounded Into DP|F|Two-Seam Fastball|84|0|0|1|11|93
+Pablo Lopez|R|Amed Rosario|R|Grounded Into DP|X|Two-Seam Fastball|85|0|1|1|11|92
+Pablo Lopez|R|Robinson Cano|L|Lineout|C|Two-Seam Fastball|86|0|0|0|13|93
+Pablo Lopez|R|Robinson Cano|L|Lineout|S|Changeup|87|0|1|0|14|86
+Pablo Lopez|R|Robinson Cano|L|Lineout|X|Four-Seam Fastball|88|0|2|0|11|93
+Pablo Lopez|R|Pete Alonso|R|Lineout|B|Changeup|89|0|0|1|13|87
+Pablo Lopez|R|Pete Alonso|R|Lineout|X|Two-Seam Fastball|90|1|0|1|11|93
+Pablo Lopez|R|Wilson Ramos|R|Groundout|X|Two-Seam Fastball|91|0|0|2|13|95
+Pablo Lopez|R|Joe Panik|L|Single|B|Two-Seam Fastball|0|0|0|0|11|91
+Pablo Lopez|R|Joe Panik|L|Single|C|Four-Seam Fastball|1|1|0|0|11|92
+Pablo Lopez|R|Joe Panik|L|Single|F|Four-Seam Fastball|2|1|1|0|4|92
+Pablo Lopez|R|Joe Panik|L|Single|D|Four-Seam Fastball|3|1|2|0|2|92
+Pablo Lopez|R|Mike Yastrzemski|L|Groundout|F|Two-Seam Fastball|4|0|0|0|13|94
+Pablo Lopez|R|Mike Yastrzemski|L|Groundout|B|Four-Seam Fastball|5|0|1|0|11|94
+Pablo Lopez|R|Mike Yastrzemski|L|Groundout|X|Two-Seam Fastball|6|1|1|0|1|93
+Pablo Lopez|R|Buster Posey|R|Flyout|B|Curveball|7|0|0|1|14|80
+Pablo Lopez|R|Buster Posey|R|Flyout|X|Four-Seam Fastball|8|1|0|1|11|94
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|T|Four-Seam Fastball|9|0|0|2|11|94
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|10|0|1|2|1|94
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|11|0|2|2|11|93
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|B|Changeup|12|0|2|2|11|85
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|B|Changeup|13|1|2|2|11|85
+Pablo Lopez|R|Pablo Sandoval|L|Strikeout|S|Four-Seam Fastball|14|2|2|2|12|94
+Pablo Lopez|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|15|0|0|0|5|92
+Pablo Lopez|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|16|0|1|0|2|91
+Pablo Lopez|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|17|0|2|0|11|92
+Pablo Lopez|R|Brandon Belt|L|Strikeout|B|Changeup|18|1|2|0|13|84
+Pablo Lopez|R|Brandon Belt|L|Strikeout|B|Changeup|19|2|2|0|13|85
+Pablo Lopez|R|Brandon Belt|L|Strikeout|F|Changeup|20|3|2|0|13|85
+Pablo Lopez|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|21|3|2|0|11|92
+Pablo Lopez|R|Kevin Pillar|R|Flyout|C|Curveball|22|0|0|1|4|78
+Pablo Lopez|R|Kevin Pillar|R|Flyout|S|Curveball|23|0|1|1|14|78
+Pablo Lopez|R|Kevin Pillar|R|Flyout|X|Curveball|24|0|2|1|9|78
+Pablo Lopez|R|Brandon Crawford|L|Single|S|Four-Seam Fastball|25|0|0|2|2|93
+Pablo Lopez|R|Brandon Crawford|L|Single|D|Four-Seam Fastball|26|0|1|2|2|92
+Pablo Lopez|R|Steven Duggar|L|Double|F|Four-Seam Fastball|27|0|0|2|4|93
+Pablo Lopez|R|Steven Duggar|L|Double|B|Changeup|28|0|1|2|13|85
+Pablo Lopez|R|Steven Duggar|L|Double|L|Changeup|29|1|1|2|4|83
+Pablo Lopez|R|Steven Duggar|L|Double|D|Changeup|30|1|2|2|1|84
+Pablo Lopez|R|Madison Bumgarner|R|Walk|B|Curveball|31|0|0|2|11|80
+Pablo Lopez|R|Madison Bumgarner|R|Walk|S|Changeup|32|1|0|2|4|85
+Pablo Lopez|R|Madison Bumgarner|R|Walk|*B|Curveball|33|1|1|2|14|80
+Pablo Lopez|R|Madison Bumgarner|R|Walk|B|Four-Seam Fastball|34|2|1|2|14|94
+Pablo Lopez|R|Madison Bumgarner|R|Walk|B|Four-Seam Fastball|35|3|1|2|14|92
+Pablo Lopez|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|36|0|0|2|11|93
+Pablo Lopez|R|Joe Panik|L|Groundout|X|Changeup|37|0|1|2|13|85
+Pablo Lopez|R|Mike Yastrzemski|L|Pop Out|B|Curveball|38|0|0|0|11|76
+Pablo Lopez|R|Mike Yastrzemski|L|Pop Out|B|Curveball|39|1|0|0|13|77
+Pablo Lopez|R|Mike Yastrzemski|L|Pop Out|F|Four-Seam Fastball|40|2|0|0|1|92
+Pablo Lopez|R|Mike Yastrzemski|L|Pop Out|B|Changeup|41|2|1|0|14|86
+Pablo Lopez|R|Mike Yastrzemski|L|Pop Out|X|Four-Seam Fastball|42|3|1|0|3|92
+Pablo Lopez|R|Buster Posey|R|Strikeout|S|Curveball|43|0|0|1|14|79
+Pablo Lopez|R|Buster Posey|R|Strikeout|B|Changeup|44|0|1|1|14|84
+Pablo Lopez|R|Buster Posey|R|Strikeout|F|Four-Seam Fastball|45|1|1|1|2|93
+Pablo Lopez|R|Buster Posey|R|Strikeout|S|Four-Seam Fastball|46|1|2|1|8|93
+Pablo Lopez|R|Pablo Sandoval|L|Flyout|B|Four-Seam Fastball|47|0|0|2|11|93
+Pablo Lopez|R|Pablo Sandoval|L|Flyout|X|Changeup|48|1|0|2|1|85
+Pablo Lopez|R|Brandon Belt|L|Home Run|B|Changeup|49|0|0|0|9|84
+Pablo Lopez|R|Brandon Belt|L|Home Run|B|Changeup|50|1|0|0|12|84
+Pablo Lopez|R|Brandon Belt|L|Home Run|L|Four-Seam Fastball|51|2|0|0|4|92
+Pablo Lopez|R|Brandon Belt|L|Home Run|E|Changeup|52|2|1|0|5|83
+Pablo Lopez|R|Kevin Pillar|R|Groundout|C|Four-Seam Fastball|53|0|0|0|8|93
+Pablo Lopez|R|Kevin Pillar|R|Groundout|F|Curveball|54|0|1|0|14|79
+Pablo Lopez|R|Kevin Pillar|R|Groundout|B|Four-Seam Fastball|55|0|2|0|11|92
+Pablo Lopez|R|Kevin Pillar|R|Groundout|X|Curveball|56|1|2|0|8|77
+Pablo Lopez|R|Brandon Crawford|L|Groundout|B|Changeup|57|0|0|1|11|83
+Pablo Lopez|R|Brandon Crawford|L|Groundout|X|Changeup|58|1|0|1|13|85
+Pablo Lopez|R|Steven Duggar|L|Strikeout|L|Four-Seam Fastball|59|0|0|2|6|93
+Pablo Lopez|R|Steven Duggar|L|Strikeout|B|Changeup|60|0|1|2|13|84
+Pablo Lopez|R|Steven Duggar|L|Strikeout|F|Four-Seam Fastball|61|1|1|2|14|93
+Pablo Lopez|R|Steven Duggar|L|Strikeout|B|Four-Seam Fastball|62|1|2|2|13|93
+Pablo Lopez|R|Steven Duggar|L|Strikeout|C|Four-Seam Fastball|63|2|2|2|9|93
+Pablo Lopez|R|Madison Bumgarner|R|Groundout|X|Four-Seam Fastball|64|0|0|0|9|93
+Pablo Lopez|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|65|0|0|1|13|93
+Pablo Lopez|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|66|0|1|1|12|94
+Pablo Lopez|R|Joe Panik|L|Groundout|C|Changeup|67|1|1|1|9|86
+Pablo Lopez|R|Joe Panik|L|Groundout|X|Changeup|68|1|2|1|13|87
+Pablo Lopez|R|Mike Yastrzemski|L|Strikeout|B|Curveball|69|0|0|2|14|78
+Pablo Lopez|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|70|1|0|2|11|94
+Pablo Lopez|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|71|1|1|2|13|94
+Pablo Lopez|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|72|2|1|2|4|93
+Pablo Lopez|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|73|2|2|2|14|93
+Pablo Lopez|R|Buster Posey|R|Groundout|C|Four-Seam Fastball|74|0|0|0|2|95
+Pablo Lopez|R|Buster Posey|R|Groundout|F|Four-Seam Fastball|75|0|1|0|5|94
+Pablo Lopez|R|Buster Posey|R|Groundout|F|Four-Seam Fastball|76|0|2|0|12|93
+Pablo Lopez|R|Buster Posey|R|Groundout|B|Curveball|77|0|2|0|14|80
+Pablo Lopez|R|Buster Posey|R|Groundout|F|Four-Seam Fastball|78|1|2|0|4|93
+Pablo Lopez|R|Buster Posey|R|Groundout|F|Four-Seam Fastball|79|1|2|0|4|94
+Pablo Lopez|R|Buster Posey|R|Groundout|X|Changeup|80|1|2|0|9|87
+Pablo Lopez|R|Pablo Sandoval|L|Lineout|B|Curveball|81|0|0|1|13|80
+Pablo Lopez|R|Pablo Sandoval|L|Lineout|X|Changeup|82|1|0|1|7|86
+Pablo Lopez|R|Brandon Belt|L|Flyout|B|Curveball|83|0|0|2|13|80
+Pablo Lopez|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|84|1|0|2|13|94
+Pablo Lopez|R|Brandon Belt|L|Flyout|C|Four-Seam Fastball|85|2|0|2|13|94
+Pablo Lopez|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|86|2|1|2|14|93
+Pablo Lopez|R|Brandon Belt|L|Flyout|C|Four-Seam Fastball|87|3|1|2|9|93
+Pablo Lopez|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|88|3|2|2|7|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|94
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|9|94
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|F|Changeup|2|1|1|0|13|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|2|94
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|12|95
+Pablo Lopez|R|Dansby Swanson|R|Flyout|B|Four-Seam Fastball|5|0|0|1|12|95
+Pablo Lopez|R|Dansby Swanson|R|Flyout|C|Four-Seam Fastball|6|1|0|1|14|96
+Pablo Lopez|R|Dansby Swanson|R|Flyout|C|Curveball|7|1|1|1|7|81
+Pablo Lopez|R|Dansby Swanson|R|Flyout|X|Curveball|8|1|2|1|8|80
+Pablo Lopez|R|Freddie Freeman|L|Single|S|Four-Seam Fastball|9|0|0|2|4|94
+Pablo Lopez|R|Freddie Freeman|L|Single|D|Curveball|10|0|1|2|5|81
+Pablo Lopez|R|Josh Donaldson|R|Pop Out|B|Four-Seam Fastball|11|0|0|2|14|96
+Pablo Lopez|R|Josh Donaldson|R|Pop Out|S|Curveball|12|1|0|2|14|83
+Pablo Lopez|R|Josh Donaldson|R|Pop Out|X|Curveball|13|1|1|2|7|81
+Pablo Lopez|R|Austin Riley|R|Pop Out|B|Curveball|14|0|0|0|1|78
+Pablo Lopez|R|Austin Riley|R|Pop Out|X|Four-Seam Fastball|15|1|0|0|13|94
+Pablo Lopez|R|Ozzie Albies|L|Groundout|C|Curveball|16|0|0|1|6|81
+Pablo Lopez|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|17|0|1|1|4|94
+Pablo Lopez|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|18|0|2|1|12|93
+Pablo Lopez|R|Ozzie Albies|L|Groundout|X|Changeup|19|1|2|1|13|86
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|B|Four-Seam Fastball|20|0|0|2|14|95
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Two-Seam Fastball|21|1|0|2|11|94
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Curveball|22|1|1|2|7|81
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|S|Curveball|23|1|2|2|9|80
+Pablo Lopez|R|Matt Joyce|L|Double|B|Two-Seam Fastball|24|0|0|0|11|91
+Pablo Lopez|R|Matt Joyce|L|Double|C|Changeup|25|1|0|0|11|84
+Pablo Lopez|R|Matt Joyce|L|Double|B|Changeup|26|1|1|0|11|84
+Pablo Lopez|R|Matt Joyce|L|Double|D|Four-Seam Fastball|27|2|1|0|5|93
+Pablo Lopez|R|Max Fried|L|Double|C|Curveball|28|0|0|0|2|81
+Pablo Lopez|R|Max Fried|L|Double|E|Curveball|29|0|1|0|14|81
+Pablo Lopez|R|Ronald Acuna Jr.|R|Flyout|C|Four-Seam Fastball|30|0|0|0|6|95
+Pablo Lopez|R|Ronald Acuna Jr.|R|Flyout|X|Changeup|31|0|1|0|13|86
+Pablo Lopez|R|Dansby Swanson|R|Fielders Choice Out|*B|Curveball|32|0|0|1|14|84
+Pablo Lopez|R|Dansby Swanson|R|Fielders Choice Out|X|Two-Seam Fastball|33|1|0|1|7|95
+Pablo Lopez|R|Freddie Freeman|L|Groundout|B|Changeup|34|0|0|2|13|84
+Pablo Lopez|R|Freddie Freeman|L|Groundout|S|Changeup|35|1|0|2|13|86
+Pablo Lopez|R|Freddie Freeman|L|Groundout|C|Four-Seam Fastball|36|1|1|2|6|93
+Pablo Lopez|R|Freddie Freeman|L|Groundout|B|Changeup|37|1|2|2|13|86
+Pablo Lopez|R|Freddie Freeman|L|Groundout|X|Changeup|38|2|2|2|13|87
+Pablo Lopez|R|Josh Donaldson|R|Pop Out|F|Four-Seam Fastball|39|0|0|0|8|94
+Pablo Lopez|R|Josh Donaldson|R|Pop Out|X|Four-Seam Fastball|40|0|1|0|6|93
+Pablo Lopez|R|Austin Riley|R|Flyout|B|Curveball|41|0|0|1|14|80
+Pablo Lopez|R|Austin Riley|R|Flyout|X|Curveball|42|1|0|1|5|78
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Changeup|43|0|0|2|7|85
+Pablo Lopez|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|44|0|1|2|14|94
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Curveball|45|1|1|2|5|78
+Pablo Lopez|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|46|1|2|2|11|93
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Curveball|47|2|2|2|14|79
+Pablo Lopez|R|Ozzie Albies|L|Flyout|F|Changeup|48|2|2|2|13|85
+Pablo Lopez|R|Ozzie Albies|L|Flyout|X|Four-Seam Fastball|49|2|2|2|6|93
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|F|Curveball|50|0|0|0|5|78
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|C|Changeup|51|0|1|0|8|85
+Pablo Lopez|R|Tyler Flowers|R|Strikeout|S|Four-Seam Fastball|52|0|2|0|6|93
+Pablo Lopez|R|Matt Joyce|L|Groundout|C|Changeup|53|0|0|1|5|84
+Pablo Lopez|R|Matt Joyce|L|Groundout|B|Four-Seam Fastball|54|0|1|1|14|95
+Pablo Lopez|R|Matt Joyce|L|Groundout|B|Curveball|55|1|1|1|14|80
+Pablo Lopez|R|Matt Joyce|L|Groundout|F|Changeup|56|2|1|1|8|85
+Pablo Lopez|R|Matt Joyce|L|Groundout|X|Four-Seam Fastball|57|2|2|1|9|94
+Pablo Lopez|R|Max Fried|L|Strikeout|S|Four-Seam Fastball|58|0|0|2|2|94
+Pablo Lopez|R|Max Fried|L|Strikeout|B|Changeup|59|0|1|2|13|84
+Pablo Lopez|R|Max Fried|L|Strikeout|S|Four-Seam Fastball|60|1|1|2|11|92
+Pablo Lopez|R|Max Fried|L|Strikeout|B|Four-Seam Fastball|61|1|2|2|14|92
+Pablo Lopez|R|Max Fried|L|Strikeout|S|Changeup|62|2|2|2|13|85
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|63|0|0|0|14|94
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|B|Curveball|64|1|0|0|13|78
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|S|Changeup|65|2|0|0|13|83
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|66|2|1|0|12|93
+Pablo Lopez|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|67|2|2|0|3|93
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|C|Four-Seam Fastball|68|0|0|1|14|94
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Curveball|69|0|1|1|14|81
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|B|Changeup|70|1|1|1|13|84
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|71|2|1|1|2|93
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|72|2|2|1|5|93
+Pablo Lopez|R|Dansby Swanson|R|Strikeout|S|Changeup|73|2|2|1|14|85
+Pablo Lopez|R|Freddie Freeman|L|Double|B|Curveball|74|0|0|2|11|78
+Pablo Lopez|R|Freddie Freeman|L|Double|C|Four-Seam Fastball|75|1|0|2|11|93
+Pablo Lopez|R|Freddie Freeman|L|Double|C|Curveball|76|1|1|2|8|79
+Pablo Lopez|R|Freddie Freeman|L|Double|B|Four-Seam Fastball|77|1|2|2|12|93
+Pablo Lopez|R|Freddie Freeman|L|Double|D|Curveball|78|2|2|2|8|79
+Pablo Lopez|R|Josh Donaldson|R|Walk|B|Changeup|79|0|0|2|11|85
+Pablo Lopez|R|Josh Donaldson|R|Walk|C|Four-Seam Fastball|80|1|0|2|9|94
+Pablo Lopez|R|Josh Donaldson|R|Walk|*B|Curveball|81|1|1|2|14|80
+Pablo Lopez|R|Josh Donaldson|R|Walk|F|Changeup|82|2|1|2|11|85
+Pablo Lopez|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|83|2|2|2|12|94
+Pablo Lopez|R|Josh Donaldson|R|Walk|F|Four-Seam Fastball|84|3|2|2|8|93
+Pablo Lopez|R|Josh Donaldson|R|Walk|B|Curveball|85|3|2|2|14|79
+Pablo Lopez|R|Austin Riley|R|Strikeout|B|Four-Seam Fastball|86|0|0|2|14|93
+Pablo Lopez|R|Austin Riley|R|Strikeout|F|Changeup|87|1|0|2|8|85
+Pablo Lopez|R|Austin Riley|R|Strikeout|B|Four-Seam Fastball|88|1|1|2|11|92
+Pablo Lopez|R|Austin Riley|R|Strikeout|F|Changeup|89|2|1|2|14|85
+Pablo Lopez|R|Austin Riley|R|Strikeout|S|Changeup|90|2|2|2|6|86
+Pablo Lopez|R|Kevin Newman|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|1|93
+Pablo Lopez|R|Bryan Reynolds|L|Single|C|Four-Seam Fastball|1|0|0|1|7|93
+Pablo Lopez|R|Bryan Reynolds|L|Single|F|Four-Seam Fastball|2|0|1|1|12|93
+Pablo Lopez|R|Bryan Reynolds|L|Single|F|Four-Seam Fastball|3|0|2|1|12|94
+Pablo Lopez|R|Bryan Reynolds|L|Single|D|Changeup|4|0|2|1|13|86
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|B|Four-Seam Fastball|5|0|0|1|11|94
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|B|Curveball|6|1|0|1|11|79
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|S|Two-Seam Fastball|7|2|0|1|13|94
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|S|Changeup|8|2|1|1|7|86
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|B|Changeup|9|2|2|1|14|87
+Pablo Lopez|R|Starling Marte|R|Strikeout Double Play|T|Changeup|10|3|2|1|13|86
+Pablo Lopez|R|Josh Bell|L|Groundout|S|Four-Seam Fastball|11|0|0|0|11|92
+Pablo Lopez|R|Josh Bell|L|Groundout|X|Changeup|12|0|1|0|7|85
+Pablo Lopez|R|Colin Moran|L|Groundout|T|Curveball|13|0|0|1|14|81
+Pablo Lopez|R|Colin Moran|L|Groundout|B|Four-Seam Fastball|14|0|1|1|12|93
+Pablo Lopez|R|Colin Moran|L|Groundout|B|Changeup|15|1|1|1|13|85
+Pablo Lopez|R|Colin Moran|L|Groundout|B|Changeup|16|2|1|1|14|84
+Pablo Lopez|R|Colin Moran|L|Groundout|C|Four-Seam Fastball|17|3|1|1|4|93
+Pablo Lopez|R|Colin Moran|L|Groundout|X|Changeup|18|3|2|1|13|84
+Pablo Lopez|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|19|0|0|2|11|92
+Pablo Lopez|R|Corey Dickerson|L|Pop Out|C|Four-Seam Fastball|20|1|0|2|1|93
+Pablo Lopez|R|Corey Dickerson|L|Pop Out|X|Curveball|21|1|1|2|9|80
+Pablo Lopez|R|Elias Diaz|R|Double|B|Curveball|22|0|0|0|14|79
+Pablo Lopez|R|Elias Diaz|R|Double|B|Curveball|23|1|0|0|14|79
+Pablo Lopez|R|Elias Diaz|R|Double|C|Four-Seam Fastball|24|2|0|0|11|93
+Pablo Lopez|R|Elias Diaz|R|Double|B|Four-Seam Fastball|25|2|1|0|14|94
+Pablo Lopez|R|Elias Diaz|R|Double|S|Changeup|26|3|1|0|13|84
+Pablo Lopez|R|Elias Diaz|R|Double|D|Changeup|27|3|2|0|8|85
+Pablo Lopez|R|Adam Frazier|L|Groundout|B|Four-Seam Fastball|28|0|0|0|11|94
+Pablo Lopez|R|Adam Frazier|L|Groundout|S|Changeup|29|1|0|0|8|86
+Pablo Lopez|R|Adam Frazier|L|Groundout|X|Changeup|30|1|1|0|7|86
+Pablo Lopez|R|Dario Agrazal|R|Groundout|*B|Curveball|31|0|0|1|14|83
+Pablo Lopez|R|Dario Agrazal|R|Groundout|X|Four-Seam Fastball|32|1|0|1|5|92
+Pablo Lopez|R|Kevin Newman|R|Single|B|Changeup|33|0|0|2|13|85
+Pablo Lopez|R|Kevin Newman|R|Single|S|Changeup|34|1|0|2|7|84
+Pablo Lopez|R|Kevin Newman|R|Single|E|Two-Seam Fastball|35|1|1|2|4|94
+Pablo Lopez|R|Bryan Reynolds|L|Forceout|S|Changeup|36|0|0|2|13|85
+Pablo Lopez|R|Bryan Reynolds|L|Forceout|C|Four-Seam Fastball|37|0|1|2|9|94
+Pablo Lopez|R|Bryan Reynolds|L|Forceout|*B|Curveball|38|0|2|2|14|82
+Pablo Lopez|R|Bryan Reynolds|L|Forceout|F|Changeup|39|1|2|2|13|85
+Pablo Lopez|R|Bryan Reynolds|L|Forceout|X|Four-Seam Fastball|40|1|2|2|8|94
+Pablo Lopez|R|Starling Marte|R|Double|F|Curveball|41|0|0|0|11|76
+Pablo Lopez|R|Starling Marte|R|Double|C|Four-Seam Fastball|42|0|1|0|14|93
+Pablo Lopez|R|Starling Marte|R|Double|D|Curveball|43|0|2|0|13|78
+Pablo Lopez|R|Josh Bell|L|Single|F|Curveball|44|0|0|0|11|78
+Pablo Lopez|R|Josh Bell|L|Single|B|Changeup|45|0|1|0|14|86
+Pablo Lopez|R|Josh Bell|L|Single|B|Changeup|46|1|1|0|14|86
+Pablo Lopez|R|Josh Bell|L|Single|E|Four-Seam Fastball|47|2|1|0|7|93
+Pablo Lopez|R|Colin Moran|L|Fielders Choice Out|C|Changeup|48|0|0|0|9|86
+Pablo Lopez|R|Colin Moran|L|Fielders Choice Out|X|Changeup|49|0|1|0|13|86
+Pablo Lopez|R|Corey Dickerson|L|Double|B|Four-Seam Fastball|50|0|0|1|14|93
+Pablo Lopez|R|Corey Dickerson|L|Double|F|Changeup|51|1|0|1|7|85
+Pablo Lopez|R|Corey Dickerson|L|Double|E|Four-Seam Fastball|52|1|1|1|8|93
+Pablo Lopez|R|Elias Diaz|R|Groundout|C|Four-Seam Fastball|53|0|0|1|6|93
+Pablo Lopez|R|Elias Diaz|R|Groundout|X|Curveball|54|0|1|1|4|80
+Pablo Lopez|R|Adam Frazier|L|Intent Walk|V|N/A|55|0|0|2|0|0
+Pablo Lopez|R|Adam Frazier|L|Intent Walk|V|N/A|56|0|1|2|0|0
+Pablo Lopez|R|Adam Frazier|L|Intent Walk|V|N/A|57|0|2|2|0|0
+Pablo Lopez|R|Adam Frazier|L|Intent Walk|V|N/A|58|0|2|2|0|0
+Pablo Lopez|R|Dario Agrazal|R|Groundout|C|Four-Seam Fastball|59|0|0|2|8|94
+Pablo Lopez|R|Dario Agrazal|R|Groundout|S|Curveball|60|0|1|2|14|81
+Pablo Lopez|R|Dario Agrazal|R|Groundout|*B|Curveball|61|0|2|2|14|81
+Pablo Lopez|R|Dario Agrazal|R|Groundout|B|Four-Seam Fastball|62|1|2|2|14|94
+Pablo Lopez|R|Dario Agrazal|R|Groundout|X|Four-Seam Fastball|63|2|2|2|6|93
+Pablo Lopez|R|Kevin Newman|R|Groundout|F|Four-Seam Fastball|64|0|0|0|12|92
+Pablo Lopez|R|Kevin Newman|R|Groundout|B|Curveball|65|0|1|0|14|79
+Pablo Lopez|R|Kevin Newman|R|Groundout|B|Changeup|66|1|1|0|14|84
+Pablo Lopez|R|Kevin Newman|R|Groundout|X|Four-Seam Fastball|67|2|1|0|13|90
+Pablo Lopez|R|Bryan Reynolds|L|Groundout|B|Curveball|68|0|0|1|13|79
+Pablo Lopez|R|Bryan Reynolds|L|Groundout|B|Changeup|69|1|0|1|14|84
+Pablo Lopez|R|Bryan Reynolds|L|Groundout|X|Changeup|70|2|0|1|14|85
+Pablo Lopez|R|Starling Marte|R|Groundout|C|Four-Seam Fastball|71|0|0|2|5|94
+Pablo Lopez|R|Starling Marte|R|Groundout|X|Two-Seam Fastball|72|0|1|2|13|93
+Pablo Lopez|R|Josh Bell|L|Double|B|Curveball|73|0|0|0|11|76
+Pablo Lopez|R|Josh Bell|L|Double|B|Four-Seam Fastball|74|1|0|0|11|93
+Pablo Lopez|R|Josh Bell|L|Double|D|Changeup|75|2|0|0|7|83
+Pablo Lopez|R|Colin Moran|L|Double Play|B|Changeup|76|0|0|0|13|85
+Pablo Lopez|R|Colin Moran|L|Double Play|X|Changeup|77|1|0|0|7|85
+Pablo Lopez|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|78|0|0|2|13|94
+Pablo Lopez|R|Corey Dickerson|L|Strikeout|B|Four-Seam Fastball|79|0|1|2|11|94
+Pablo Lopez|R|Corey Dickerson|L|Strikeout|B|Four-Seam Fastball|80|1|1|2|13|93
+Pablo Lopez|R|Corey Dickerson|L|Strikeout|S|Changeup|81|2|1|2|7|85
+Pablo Lopez|R|Corey Dickerson|L|Strikeout|S|Changeup|82|2|2|2|14|85
+Pablo Lopez|R|Elias Diaz|R|Groundout|C|Curveball|83|0|0|0|14|78
+Pablo Lopez|R|Elias Diaz|R|Groundout|B|Curveball|84|0|1|0|14|78
+Pablo Lopez|R|Elias Diaz|R|Groundout|X|Four-Seam Fastball|85|1|1|0|13|94
+Pablo Lopez|R|Adam Frazier|L|Strikeout|C|Four-Seam Fastball|86|0|0|1|4|94
+Pablo Lopez|R|Adam Frazier|L|Strikeout|F|Changeup|87|0|1|1|13|84
+Pablo Lopez|R|Adam Frazier|L|Strikeout|S|Changeup|88|0|2|1|13|85
+Pablo Lopez|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|89|0|0|2|11|92
+Pablo Lopez|R|Gregory Polanco|L|Strikeout|T|Four-Seam Fastball|90|1|0|2|4|92
+Pablo Lopez|R|Gregory Polanco|L|Strikeout|S|Changeup|91|1|1|2|13|85
+Pablo Lopez|R|Gregory Polanco|L|Strikeout|B|Changeup|92|1|2|2|13|85
+Pablo Lopez|R|Gregory Polanco|L|Strikeout|S|Four-Seam Fastball|93|2|2|2|11|92
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|13|94
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|C|Four-Seam Fastball|1|1|0|0|6|94
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|B|Four-Seam Fastball|2|1|1|0|13|95
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|S|Changeup|3|2|1|0|5|86
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|F|Four-Seam Fastball|4|2|2|0|12|94
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|F|Changeup|5|2|2|0|13|87
+Pablo Lopez|R|Josh VanMeter|L|Pop Out|X|Four-Seam Fastball|6|2|2|0|3|94
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|T|Four-Seam Fastball|7|0|0|1|8|94
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|B|Curveball|8|0|1|1|14|82
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|9|1|1|1|12|94
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|10|2|1|1|11|93
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|B|Changeup|11|2|2|1|13|87
+Pablo Lopez|R|Freddy Galvis|L|Strikeout|S|Changeup|12|3|2|1|8|88
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|13|0|0|2|2|94
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|B|Curveball|14|0|1|2|14|82
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|15|1|1|2|12|94
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|B|Changeup|16|1|2|2|14|88
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|17|2|2|2|13|93
+Pablo Lopez|R|Eugenio Suarez|R|Strikeout|S|Changeup|18|2|2|2|13|87
+Pablo Lopez|R|Aristides Aquino|R|Single|F|Curveball|19|0|0|0|14|80
+Pablo Lopez|R|Aristides Aquino|R|Single|S|Four-Seam Fastball|20|0|1|0|7|95
+Pablo Lopez|R|Aristides Aquino|R|Single|F|Four-Seam Fastball|21|0|2|0|1|95
+Pablo Lopez|R|Aristides Aquino|R|Single|D|Four-Seam Fastball|22|0|2|0|5|95
+Pablo Lopez|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|23|0|0|0|13|94
+Pablo Lopez|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|24|1|0|0|5|94
+Pablo Lopez|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|25|0|0|1|9|95
+Pablo Lopez|R|Jose Iglesias|R|Groundout|X|Four-Seam Fastball|26|0|1|1|13|94
+Pablo Lopez|R|Derek Dietrich|L|Hit By Pitch|F|Four-Seam Fastball|27|0|0|2|3|94
+Pablo Lopez|R|Derek Dietrich|L|Hit By Pitch|B|Four-Seam Fastball|28|0|1|2|11|94
+Pablo Lopez|R|Derek Dietrich|L|Hit By Pitch|F|Changeup|29|1|1|2|13|87
+Pablo Lopez|R|Derek Dietrich|L|Hit By Pitch|B|Changeup|30|1|2|2|14|88
+Pablo Lopez|R|Derek Dietrich|L|Hit By Pitch|H|Two-Seam Fastball|31|2|2|2|3|94
+Pablo Lopez|R|Nick Senzel|R|Flyout|B|Curveball|32|0|0|2|14|81
+Pablo Lopez|R|Nick Senzel|R|Flyout|B|Four-Seam Fastball|33|1|0|2|14|95
+Pablo Lopez|R|Nick Senzel|R|Flyout|X|Four-Seam Fastball|34|2|0|2|4|94
+Pablo Lopez|R|Sonny Gray|R|Strikeout|B|Four-Seam Fastball|35|0|0|0|13|94
+Pablo Lopez|R|Sonny Gray|R|Strikeout|F|Four-Seam Fastball|36|1|0|0|4|94
+Pablo Lopez|R|Sonny Gray|R|Strikeout|C|Four-Seam Fastball|37|1|1|0|7|95
+Pablo Lopez|R|Sonny Gray|R|Strikeout|S|Curveball|38|1|2|0|14|79
+Pablo Lopez|R|Josh VanMeter|L|Triple|B|Curveball|39|0|0|1|14|81
+Pablo Lopez|R|Josh VanMeter|L|Triple|C|Four-Seam Fastball|40|1|0|1|6|94
+Pablo Lopez|R|Josh VanMeter|L|Triple|B|Changeup|41|1|1|1|14|86
+Pablo Lopez|R|Josh VanMeter|L|Triple|B|Changeup|42|2|1|1|13|87
+Pablo Lopez|R|Josh VanMeter|L|Triple|D|Four-Seam Fastball|43|3|1|1|6|93
+Pablo Lopez|R|Freddy Galvis|L|Fielders Choice|S|Curveball|44|0|0|1|13|81
+Pablo Lopez|R|Freddy Galvis|L|Fielders Choice|F|Four-Seam Fastball|45|0|1|1|3|94
+Pablo Lopez|R|Freddy Galvis|L|Fielders Choice|*B|Changeup|46|0|2|1|14|88
+Pablo Lopez|R|Freddy Galvis|L|Fielders Choice|E|Changeup|47|1|2|1|13|88
+Pablo Lopez|R|Eugenio Suarez|R|Single|F|Two-Seam Fastball|48|0|0|1|13|95
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Two-Seam Fastball|49|0|1|1|11|93
+Pablo Lopez|R|Eugenio Suarez|R|Single|B|Two-Seam Fastball|50|1|1|1|11|93
+Pablo Lopez|R|Eugenio Suarez|R|Single|D|Changeup|51|2|1|1|8|86
+Pablo Lopez|R|Aristides Aquino|R|Grounded Into DP|B|Curveball|52|0|0|1|14|80
+Pablo Lopez|R|Aristides Aquino|R|Grounded Into DP|*B|Two-Seam Fastball|53|1|0|1|13|95
+Pablo Lopez|R|Aristides Aquino|R|Grounded Into DP|X|Two-Seam Fastball|54|2|0|1|5|93
+Pablo Lopez|R|Tucker Barnhart|L|Groundout|B|Curveball|55|0|0|0|9|77
+Pablo Lopez|R|Tucker Barnhart|L|Groundout|C|Four-Seam Fastball|56|1|0|0|13|93
+Pablo Lopez|R|Tucker Barnhart|L|Groundout|B|Changeup|57|1|1|0|14|85
+Pablo Lopez|R|Tucker Barnhart|L|Groundout|X|Four-Seam Fastball|58|2|1|0|1|92
+Pablo Lopez|R|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|59|0|0|1|11|93
+Pablo Lopez|R|Jose Iglesias|R|Groundout|F|Four-Seam Fastball|60|1|0|1|7|94
+Pablo Lopez|R|Jose Iglesias|R|Groundout|F|Two-Seam Fastball|61|1|1|1|11|94
+Pablo Lopez|R|Jose Iglesias|R|Groundout|X|Four-Seam Fastball|62|1|2|1|13|94
+Pablo Lopez|R|Derek Dietrich|L|Lineout|X|Four-Seam Fastball|63|0|0|2|5|93
+Pablo Lopez|R|Nick Senzel|R|Single|B|Curveball|64|0|0|0|13|77
+Pablo Lopez|R|Nick Senzel|R|Single|F|Four-Seam Fastball|65|1|0|0|2|93
+Pablo Lopez|R|Nick Senzel|R|Single|F|Changeup|66|1|1|0|7|85
+Pablo Lopez|R|Nick Senzel|R|Single|D|Four-Seam Fastball|67|1|2|0|6|94
+Pablo Lopez|R|Sonny Gray|R|Sac Bunt|B|Four-Seam Fastball|68|0|0|0|14|92
+Pablo Lopez|R|Sonny Gray|R|Sac Bunt|L|Four-Seam Fastball|69|1|0|0|5|92
+Pablo Lopez|R|Sonny Gray|R|Sac Bunt|X|Four-Seam Fastball|70|1|1|0|11|92
+Pablo Lopez|R|Josh VanMeter|L|Walk|B|Curveball|71|0|0|1|11|78
+Pablo Lopez|R|Josh VanMeter|L|Walk|B|Changeup|72|1|0|1|14|86
+Pablo Lopez|R|Josh VanMeter|L|Walk|C|Four-Seam Fastball|73|2|0|1|5|93
+Pablo Lopez|R|Josh VanMeter|L|Walk|B|Four-Seam Fastball|74|2|1|1|13|93
+Pablo Lopez|R|Josh VanMeter|L|Walk|B|Four-Seam Fastball|75|3|1|1|13|92
+Pablo Lopez|R|Freddy Galvis|L|Home Run|E|Two-Seam Fastball|76|0|0|1|13|93
+Pablo Lopez|R|Eugenio Suarez|R|Lineout|F|Two-Seam Fastball|77|0|0|1|7|94
+Pablo Lopez|R|Eugenio Suarez|R|Lineout|S|Two-Seam Fastball|78|0|1|1|13|93
+Pablo Lopez|R|Eugenio Suarez|R|Lineout|X|Two-Seam Fastball|79|0|2|1|13|93
+Pablo Lopez|R|Aristides Aquino|R|Groundout|S|Curveball|80|0|0|2|14|80
+Pablo Lopez|R|Aristides Aquino|R|Groundout|B|Curveball|81|0|1|2|14|80
+Pablo Lopez|R|Aristides Aquino|R|Groundout|F|Two-Seam Fastball|82|1|1|2|8|93
+Pablo Lopez|R|Aristides Aquino|R|Groundout|F|Changeup|83|1|2|2|13|86
+Pablo Lopez|R|Aristides Aquino|R|Groundout|B|Curveball|84|1|2|2|14|81
+Pablo Lopez|R|Aristides Aquino|R|Groundout|X|Two-Seam Fastball|85|2|2|2|13|93
+Pablo Lopez|R|Whit Merrifield|R|Single|C|Four-Seam Fastball|0|0|0|0|8|95
+Pablo Lopez|R|Whit Merrifield|R|Single|B|Four-Seam Fastball|1|0|1|0|12|95
+Pablo Lopez|R|Whit Merrifield|R|Single|D|Two-Seam Fastball|2|1|1|0|13|94
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|F|Two-Seam Fastball|3|0|0|0|11|95
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|B|Four-Seam Fastball|4|0|1|0|14|95
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|S|Curveball|5|1|1|0|14|81
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|*B|Curveball|6|1|2|0|14|82
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|B|Four-Seam Fastball|7|2|2|0|14|95
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout Double Play|C|Four-Seam Fastball|8|3|2|0|13|95
+Pablo Lopez|R|Jorge Soler|R|Lineout|B|Four-Seam Fastball|9|0|0|2|1|96
+Pablo Lopez|R|Jorge Soler|R|Lineout|C|Four-Seam Fastball|10|1|0|2|3|95
+Pablo Lopez|R|Jorge Soler|R|Lineout|F|Two-Seam Fastball|11|1|1|2|13|94
+Pablo Lopez|R|Jorge Soler|R|Lineout|X|Curveball|12|1|2|2|5|81
+Pablo Lopez|R|Hunter Dozier|R|Single|D|Four-Seam Fastball|13|0|0|0|9|94
+Pablo Lopez|R|Alex Gordon|L|Double Play|B|Curveball|14|0|0|0|13|80
+Pablo Lopez|R|Alex Gordon|L|Double Play|C|Four-Seam Fastball|15|1|0|0|9|94
+Pablo Lopez|R|Alex Gordon|L|Double Play|B|Curveball|16|1|1|0|14|80
+Pablo Lopez|R|Alex Gordon|L|Double Play|X|Four-Seam Fastball|17|2|1|0|6|94
+Pablo Lopez|R|Ryan O'Hearn|L|Groundout|B|Four-Seam Fastball|18|0|0|2|14|95
+Pablo Lopez|R|Ryan O'Hearn|L|Groundout|X|Two-Seam Fastball|19|1|0|2|5|93
+Pablo Lopez|R|Meibrys Viloria|L|Single|C|Curveball|20|0|0|0|8|79
+Pablo Lopez|R|Meibrys Viloria|L|Single|B|Four-Seam Fastball|21|0|1|0|12|94
+Pablo Lopez|R|Meibrys Viloria|L|Single|D|Changeup|22|1|1|0|14|85
+Pablo Lopez|R|Brett Phillips|L|Strikeout|T|Four-Seam Fastball|23|0|0|0|4|94
+Pablo Lopez|R|Brett Phillips|L|Strikeout|C|Four-Seam Fastball|24|0|1|0|9|94
+Pablo Lopez|R|Brett Phillips|L|Strikeout|*B|Curveball|25|0|2|0|14|82
+Pablo Lopez|R|Brett Phillips|L|Strikeout|S|Four-Seam Fastball|26|1|2|0|5|95
+Pablo Lopez|R|Jorge Lopez|R|Sac Bunt|L|Four-Seam Fastball|27|0|0|1|4|93
+Pablo Lopez|R|Jorge Lopez|R|Sac Bunt|X|Four-Seam Fastball|28|0|1|1|7|93
+Pablo Lopez|R|Whit Merrifield|R|Single|C|Curveball|29|0|0|2|6|81
+Pablo Lopez|R|Whit Merrifield|R|Single|E|Four-Seam Fastball|30|0|1|2|13|94
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout|S|Curveball|31|0|0|2|7|79
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout|S|Changeup|32|0|1|2|13|87
+Pablo Lopez|R|Adalberto Mondesi|L|Strikeout|S|Changeup|33|0|2|2|8|87
+Pablo Lopez|R|Jorge Soler|R|Lineout|S|Curveball|34|0|0|0|14|80
+Pablo Lopez|R|Jorge Soler|R|Lineout|F|Two-Seam Fastball|35|0|1|0|11|95
+Pablo Lopez|R|Jorge Soler|R|Lineout|B|Changeup|36|0|2|0|13|86
+Pablo Lopez|R|Jorge Soler|R|Lineout|B|Four-Seam Fastball|37|1|2|0|12|93
+Pablo Lopez|R|Jorge Soler|R|Lineout|F|Changeup|38|2|2|0|7|86
+Pablo Lopez|R|Jorge Soler|R|Lineout|X|Four-Seam Fastball|39|2|2|0|9|95
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|B|Curveball|40|0|0|1|14|81
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|C|Changeup|41|1|0|1|9|86
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|C|Changeup|42|1|1|1|9|85
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|F|Four-Seam Fastball|43|1|2|1|12|93
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|B|Two-Seam Fastball|44|1|2|1|13|93
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|B|Curveball|45|2|2|1|11|77
+Pablo Lopez|R|Hunter Dozier|R|Strikeout|S|Changeup|46|3|2|1|13|85
+Pablo Lopez|R|Alex Gordon|L|Strikeout|F|Four-Seam Fastball|47|0|0|2|8|93
+Pablo Lopez|R|Alex Gordon|L|Strikeout|B|Changeup|48|0|1|2|14|86
+Pablo Lopez|R|Alex Gordon|L|Strikeout|C|Changeup|49|1|1|2|9|85
+Pablo Lopez|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|50|1|2|2|12|93
+Pablo Lopez|R|Alex Gordon|L|Strikeout|S|Curveball|51|2|2|2|14|80
+Pablo Lopez|R|Ryan O'Hearn|L|Single|B|Two-Seam Fastball|52|0|0|0|11|93
+Pablo Lopez|R|Ryan O'Hearn|L|Single|D|Four-Seam Fastball|53|1|0|0|8|93
+Pablo Lopez|R|Meibrys Viloria|L|Groundout|*B|Curveball|54|0|0|0|14|79
+Pablo Lopez|R|Meibrys Viloria|L|Groundout|X|Curveball|55|1|0|0|8|78
+Pablo Lopez|R|Brett Phillips|L|Strikeout|F|Curveball|56|0|0|1|9|78
+Pablo Lopez|R|Brett Phillips|L|Strikeout|S|Curveball|57|0|1|1|14|79
+Pablo Lopez|R|Brett Phillips|L|Strikeout|C|Four-Seam Fastball|58|0|2|1|3|94
+Pablo Lopez|R|Jorge Lopez|R|Pop Out|B|Curveball|59|0|0|2|14|79
+Pablo Lopez|R|Jorge Lopez|R|Pop Out|B|Four-Seam Fastball|60|1|0|2|14|94
+Pablo Lopez|R|Jorge Lopez|R|Pop Out|B|Four-Seam Fastball|61|2|0|2|14|93
+Pablo Lopez|R|Jorge Lopez|R|Pop Out|C|Four-Seam Fastball|62|3|0|2|9|93
+Pablo Lopez|R|Jorge Lopez|R|Pop Out|X|Four-Seam Fastball|63|3|1|2|11|92
+Pablo Lopez|R|Whit Merrifield|R|Field Error|B|Four-Seam Fastball|64|0|0|0|13|94
+Pablo Lopez|R|Whit Merrifield|R|Field Error|S|Curveball|65|1|0|0|8|79
+Pablo Lopez|R|Whit Merrifield|R|Field Error|F|Changeup|66|1|1|0|7|85
+Pablo Lopez|R|Whit Merrifield|R|Field Error|D|Changeup|67|1|2|0|13|85
+Pablo Lopez|R|Adalberto Mondesi|L|Single|D|Four-Seam Fastball|68|0|0|0|5|94
+Pablo Lopez|R|Jorge Soler|R|Pop Out|C|Four-Seam Fastball|69|0|0|0|13|94
+Pablo Lopez|R|Jorge Soler|R|Pop Out|B|Two-Seam Fastball|70|0|1|0|13|93
+Pablo Lopez|R|Jorge Soler|R|Pop Out|S|Changeup|71|1|1|0|13|86
+Pablo Lopez|R|Jorge Soler|R|Pop Out|X|Four-Seam Fastball|72|1|2|0|11|93
+Pablo Lopez|R|Hunter Dozier|R|Double Play|X|Four-Seam Fastball|73|0|0|1|7|92
+Pablo Lopez|R|Alex Gordon|L|Single|C|Curveball|74|0|0|0|13|78
+Pablo Lopez|R|Alex Gordon|L|Single|B|Changeup|75|0|1|0|14|84
+Pablo Lopez|R|Alex Gordon|L|Single|F|Four-Seam Fastball|76|1|1|0|11|92
+Pablo Lopez|R|Alex Gordon|L|Single|B|Four-Seam Fastball|77|1|2|0|12|93
+Pablo Lopez|R|Alex Gordon|L|Single|D|Curveball|78|2|2|0|5|78
+Pablo Lopez|R|Ryan O'Hearn|L|Double|B|Changeup|79|0|0|0|11|84
+Pablo Lopez|R|Ryan O'Hearn|L|Double|C|Changeup|80|1|0|0|5|85
+Pablo Lopez|R|Ryan O'Hearn|L|Double|B|Four-Seam Fastball|81|1|1|0|12|93
+Pablo Lopez|R|Ryan O'Hearn|L|Double|B|Four-Seam Fastball|82|2|1|0|14|93
+Pablo Lopez|R|Ryan O'Hearn|L|Double|F|Two-Seam Fastball|83|3|1|0|14|93
+Pablo Lopez|R|Ryan O'Hearn|L|Double|F|Four-Seam Fastball|84|3|2|0|7|92
+Pablo Lopez|R|Ryan O'Hearn|L|Double|E|Four-Seam Fastball|85|3|2|0|1|92
+Pablo Lopez|R|Meibrys Viloria|L|Flyout|B|Curveball|86|0|0|0|13|78
+Pablo Lopez|R|Meibrys Viloria|L|Flyout|B|Changeup|87|1|0|0|11|85
+Pablo Lopez|R|Meibrys Viloria|L|Flyout|C|Changeup|88|2|0|0|7|85
+Pablo Lopez|R|Meibrys Viloria|L|Flyout|S|Four-Seam Fastball|89|2|1|0|2|93
+Pablo Lopez|R|Meibrys Viloria|L|Flyout|X|Four-Seam Fastball|90|2|2|0|8|93
+Pablo Lopez|R|Trent Grisham|L|Home Run|B|Four-Seam Fastball|0|0|0|0|13|93
+Pablo Lopez|R|Trent Grisham|L|Home Run|C|Four-Seam Fastball|1|1|0|0|7|93
+Pablo Lopez|R|Trent Grisham|L|Home Run|B|Four-Seam Fastball|2|1|1|0|11|94
+Pablo Lopez|R|Trent Grisham|L|Home Run|C|Changeup|3|2|1|0|14|87
+Pablo Lopez|R|Trent Grisham|L|Home Run|B|Changeup|4|2|2|0|13|86
+Pablo Lopez|R|Trent Grisham|L|Home Run|F|Four-Seam Fastball|5|3|2|0|7|93
+Pablo Lopez|R|Trent Grisham|L|Home Run|E|Four-Seam Fastball|6|3|2|0|7|94
+Pablo Lopez|R|Yasmani Grandal|L|Walk|F|Four-Seam Fastball|7|0|0|0|1|94
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Curveball|8|0|1|0|11|81
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Curveball|9|1|1|0|11|80
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|10|2|1|0|11|94
+Pablo Lopez|R|Yasmani Grandal|L|Walk|F|Four-Seam Fastball|11|3|1|0|2|94
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|12|3|2|0|14|94
+Pablo Lopez|R|Mike Moustakas|L|Forceout|C|Curveball|13|0|0|0|5|79
+Pablo Lopez|R|Mike Moustakas|L|Forceout|F|Four-Seam Fastball|14|0|1|0|14|94
+Pablo Lopez|R|Mike Moustakas|L|Forceout|*B|Curveball|15|0|2|0|14|80
+Pablo Lopez|R|Mike Moustakas|L|Forceout|X|Changeup|16|1|2|0|7|86
+Pablo Lopez|R|Ryan Braun|R|Grounded Into DP|S|Two-Seam Fastball|17|0|0|1|13|95
+Pablo Lopez|R|Ryan Braun|R|Grounded Into DP|X|Changeup|18|0|1|1|5|87
+Pablo Lopez|R|Eric Thames|L|Groundout|B|Four-Seam Fastball|19|0|0|0|13|93
+Pablo Lopez|R|Eric Thames|L|Groundout|C|Changeup|20|1|0|0|12|86
+Pablo Lopez|R|Eric Thames|L|Groundout|X|Changeup|21|1|1|0|13|85
+Pablo Lopez|R|Ben Gamel|L|Flyout|B|Two-Seam Fastball|22|0|0|1|13|94
+Pablo Lopez|R|Ben Gamel|L|Flyout|F|Two-Seam Fastball|23|1|0|1|7|94
+Pablo Lopez|R|Ben Gamel|L|Flyout|B|Four-Seam Fastball|24|1|1|1|11|94
+Pablo Lopez|R|Ben Gamel|L|Flyout|C|Four-Seam Fastball|25|2|1|1|9|93
+Pablo Lopez|R|Ben Gamel|L|Flyout|B|Curveball|26|2|2|1|14|80
+Pablo Lopez|R|Ben Gamel|L|Flyout|F|Four-Seam Fastball|27|3|2|1|1|94
+Pablo Lopez|R|Ben Gamel|L|Flyout|X|Four-Seam Fastball|28|3|2|1|8|94
+Pablo Lopez|R|Hernan Perez|R|Groundout|S|Four-Seam Fastball|29|0|0|2|1|95
+Pablo Lopez|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|30|0|1|2|11|95
+Pablo Lopez|R|Hernan Perez|R|Groundout|X|Curveball|31|1|1|2|14|81
+Pablo Lopez|R|Cory Spangenberg|L|Single|C|Curveball|32|0|0|0|1|78
+Pablo Lopez|R|Cory Spangenberg|L|Single|D|Curveball|33|0|1|0|5|78
+Pablo Lopez|R|Zach Davies|R|Sac Bunt|X|Four-Seam Fastball|34|0|0|0|7|94
+Pablo Lopez|R|Trent Grisham|L|Groundout|X|Curveball|35|0|0|1|8|79
+Pablo Lopez|R|Yasmani Grandal|L|Walk|*B|Curveball|36|0|0|2|14|81
+Pablo Lopez|R|Yasmani Grandal|L|Walk|C|Four-Seam Fastball|37|1|0|2|6|95
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|38|1|1|2|14|94
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Curveball|39|2|1|2|14|81
+Pablo Lopez|R|Yasmani Grandal|L|Walk|B|Changeup|40|3|1|2|13|86
+Pablo Lopez|R|Mike Moustakas|L|Home Run|B|Curveball|41|0|0|2|14|81
+Pablo Lopez|R|Mike Moustakas|L|Home Run|B|Changeup|42|1|0|2|13|86
+Pablo Lopez|R|Mike Moustakas|L|Home Run|E|Changeup|43|2|0|2|7|86
+Pablo Lopez|R|Ryan Braun|R|Walk|B|Four-Seam Fastball|44|0|0|2|12|94
+Pablo Lopez|R|Ryan Braun|R|Walk|B|Four-Seam Fastball|45|1|0|2|12|94
+Pablo Lopez|R|Ryan Braun|R|Walk|B|Two-Seam Fastball|46|2|0|2|2|92
+Pablo Lopez|R|Ryan Braun|R|Walk|C|Four-Seam Fastball|47|3|0|2|11|94
+Pablo Lopez|R|Ryan Braun|R|Walk|S|Two-Seam Fastball|48|3|1|2|13|93
+Pablo Lopez|R|Ryan Braun|R|Walk|B|Two-Seam Fastball|49|3|2|2|11|93
+Pablo Lopez|R|Eric Thames|L|Flyout|B|Two-Seam Fastball|50|0|0|2|13|93
+Pablo Lopez|R|Eric Thames|L|Flyout|X|Two-Seam Fastball|51|1|0|2|4|92
+Pablo Lopez|R|Ben Gamel|L|Groundout|B|Four-Seam Fastball|52|0|0|0|14|93
+Pablo Lopez|R|Ben Gamel|L|Groundout|X|Four-Seam Fastball|53|1|0|0|6|92
+Pablo Lopez|R|Hernan Perez|R|Double|B|Four-Seam Fastball|54|0|0|1|14|93
+Pablo Lopez|R|Hernan Perez|R|Double|B|Four-Seam Fastball|55|1|0|1|14|93
+Pablo Lopez|R|Hernan Perez|R|Double|B|Four-Seam Fastball|56|2|0|1|14|93
+Pablo Lopez|R|Hernan Perez|R|Double|C|Four-Seam Fastball|57|3|0|1|7|93
+Pablo Lopez|R|Hernan Perez|R|Double|T|Four-Seam Fastball|58|3|1|1|8|92
+Pablo Lopez|R|Hernan Perez|R|Double|D|Four-Seam Fastball|59|3|2|1|8|92
+Pablo Lopez|R|Cory Spangenberg|L|Groundout|B|Four-Seam Fastball|60|0|0|1|14|93
+Pablo Lopez|R|Cory Spangenberg|L|Groundout|*B|Four-Seam Fastball|61|1|0|1|14|93
+Pablo Lopez|R|Cory Spangenberg|L|Groundout|B|Changeup|62|2|0|1|11|85
+Pablo Lopez|R|Cory Spangenberg|L|Groundout|C|Four-Seam Fastball|63|3|0|1|7|91
+Pablo Lopez|R|Cory Spangenberg|L|Groundout|X|Four-Seam Fastball|64|3|1|1|4|91
+Pablo Lopez|R|Zach Davies|R|Single|B|Curveball|65|0|0|2|13|78
+Pablo Lopez|R|Zach Davies|R|Single|E|Four-Seam Fastball|66|1|0|2|6|93
+Pablo Lopez|R|Trent Grisham|L|Strikeout|C|Curveball|67|0|0|2|13|79
+Pablo Lopez|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|68|0|1|2|14|93
+Pablo Lopez|R|Trent Grisham|L|Strikeout|C|Changeup|69|1|1|2|13|86
+Pablo Lopez|R|Trent Grisham|L|Strikeout|C|Four-Seam Fastball|70|1|2|2|3|93
+Pablo Lopez|R|Yasmani Grandal|L|Pop Out|B|Four-Seam Fastball|71|0|0|0|13|93
+Pablo Lopez|R|Yasmani Grandal|L|Pop Out|X|Four-Seam Fastball|72|1|0|0|2|92
+Pablo Lopez|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|73|0|0|1|14|93
+Pablo Lopez|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|74|1|0|1|14|92
+Pablo Lopez|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|75|2|0|1|12|91
+Pablo Lopez|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|76|3|0|1|13|92
+Pablo Lopez|R|Ryan Braun|R|Strikeout|B|Two-Seam Fastball|77|0|0|1|13|93
+Pablo Lopez|R|Ryan Braun|R|Strikeout|F|Changeup|78|1|0|1|13|85
+Pablo Lopez|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|79|1|1|1|13|92
+Pablo Lopez|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|80|2|1|1|13|92
+Pablo Lopez|R|Ryan Braun|R|Strikeout|W|Curveball|81|2|2|1|14|81
+Pablo Lopez|R|Eric Thames|L|Lineout|C|Curveball|82|0|0|2|8|77
+Pablo Lopez|R|Eric Thames|L|Lineout|X|Changeup|83|0|1|2|11|84
+Pablo Lopez|R|Trea Turner|R|Single|C|Four-Seam Fastball|0|0|0|0|1|93
+Pablo Lopez|R|Trea Turner|R|Single|B|Two-Seam Fastball|1|0|1|0|14|93
+Pablo Lopez|R|Trea Turner|R|Single|D|Four-Seam Fastball|2|1|1|0|13|93
+Pablo Lopez|R|Adam Eaton|L|Single|B|Four-Seam Fastball|3|0|0|0|9|93
+Pablo Lopez|R|Adam Eaton|L|Single|D|Four-Seam Fastball|4|1|0|0|14|92
+Pablo Lopez|R|Anthony Rendon|R|Single|B|Four-Seam Fastball|5|0|0|0|14|93
+Pablo Lopez|R|Anthony Rendon|R|Single|B|Four-Seam Fastball|6|1|0|0|14|92
+Pablo Lopez|R|Anthony Rendon|R|Single|B|Four-Seam Fastball|7|2|0|0|14|93
+Pablo Lopez|R|Anthony Rendon|R|Single|C|Four-Seam Fastball|8|3|0|0|5|93
+Pablo Lopez|R|Anthony Rendon|R|Single|F|Changeup|9|3|1|0|7|86
+Pablo Lopez|R|Anthony Rendon|R|Single|E|Changeup|10|3|2|0|8|85
+Pablo Lopez|R|Juan Soto|L|Grounded Into DP|F|Two-Seam Fastball|11|0|0|0|4|93
+Pablo Lopez|R|Juan Soto|L|Grounded Into DP|B|Changeup|12|0|1|0|11|85
+Pablo Lopez|R|Juan Soto|L|Grounded Into DP|B|Changeup|13|1|1|0|11|86
+Pablo Lopez|R|Juan Soto|L|Grounded Into DP|X|Four-Seam Fastball|14|2|1|0|3|93
+Pablo Lopez|R|Howie Kendrick|R|Flyout|C|Four-Seam Fastball|15|0|0|2|3|94
+Pablo Lopez|R|Howie Kendrick|R|Flyout|B|Four-Seam Fastball|16|0|1|2|12|94
+Pablo Lopez|R|Howie Kendrick|R|Flyout|F|Changeup|17|1|1|2|1|86
+Pablo Lopez|R|Howie Kendrick|R|Flyout|X|Changeup|18|1|2|2|8|87
+Pablo Lopez|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|19|0|0|0|14|92
+Pablo Lopez|R|Brian Dozier|R|Groundout|F|Four-Seam Fastball|20|1|0|0|2|92
+Pablo Lopez|R|Brian Dozier|R|Groundout|F|Curveball|21|1|1|0|8|78
+Pablo Lopez|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|22|1|2|0|12|93
+Pablo Lopez|R|Brian Dozier|R|Groundout|X|Changeup|23|2|2|0|8|85
+Pablo Lopez|R|Victor Robles|R|Groundout|B|Curveball|24|0|0|1|14|79
+Pablo Lopez|R|Victor Robles|R|Groundout|X|Two-Seam Fastball|25|1|0|1|8|92
+Pablo Lopez|R|Yan Gomes|R|Groundout|B|Four-Seam Fastball|26|0|0|2|14|93
+Pablo Lopez|R|Yan Gomes|R|Groundout|C|Four-Seam Fastball|27|1|0|2|14|93
+Pablo Lopez|R|Yan Gomes|R|Groundout|X|Two-Seam Fastball|28|1|1|2|8|94
+Pablo Lopez|R|Austin Voth|R|Strikeout|C|Four-Seam Fastball|29|0|0|0|6|91
+Pablo Lopez|R|Austin Voth|R|Strikeout|S|Four-Seam Fastball|30|0|1|0|6|93
+Pablo Lopez|R|Austin Voth|R|Strikeout|C|Four-Seam Fastball|31|0|2|0|14|92
+Pablo Lopez|R|Trea Turner|R|Groundout|B|Curveball|32|0|0|1|14|80
+Pablo Lopez|R|Trea Turner|R|Groundout|C|Two-Seam Fastball|33|1|0|1|8|93
+Pablo Lopez|R|Trea Turner|R|Groundout|X|Two-Seam Fastball|34|1|1|1|13|92
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Two-Seam Fastball|35|0|0|2|13|93
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|36|1|0|2|11|93
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|37|2|0|2|11|93
+Pablo Lopez|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|38|3|0|2|11|93
+Pablo Lopez|R|Anthony Rendon|R|Flyout|X|Four-Seam Fastball|39|0|0|2|1|93
+Pablo Lopez|R|Juan Soto|L|Walk|F|Four-Seam Fastball|40|0|0|0|1|92
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|41|0|1|0|12|91
+Pablo Lopez|R|Juan Soto|L|Walk|F|Changeup|42|1|1|0|11|85
+Pablo Lopez|R|Juan Soto|L|Walk|B|Changeup|43|1|2|0|13|85
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|44|2|2|0|11|93
+Pablo Lopez|R|Juan Soto|L|Walk|F|Changeup|45|3|2|0|4|85
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|46|3|2|0|12|93
+Pablo Lopez|R|Howie Kendrick|R|Single|C|Two-Seam Fastball|47|0|0|0|4|93
+Pablo Lopez|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|48|0|1|0|11|92
+Pablo Lopez|R|Howie Kendrick|R|Single|D|Two-Seam Fastball|49|0|2|0|13|92
+Pablo Lopez|R|Brian Dozier|R|Fielders Choice Out|B|Curveball|50|0|0|0|14|80
+Pablo Lopez|R|Brian Dozier|R|Fielders Choice Out|F|Four-Seam Fastball|51|1|0|0|6|93
+Pablo Lopez|R|Brian Dozier|R|Fielders Choice Out|F|Four-Seam Fastball|52|1|1|0|11|92
+Pablo Lopez|R|Brian Dozier|R|Fielders Choice Out|E|Changeup|53|1|2|0|5|85
+Pablo Lopez|R|Victor Robles|R|Groundout|F|Two-Seam Fastball|54|0|0|1|13|92
+Pablo Lopez|R|Victor Robles|R|Groundout|C|Two-Seam Fastball|55|0|1|1|2|92
+Pablo Lopez|R|Victor Robles|R|Groundout|*B|Curveball|56|0|2|1|14|78
+Pablo Lopez|R|Victor Robles|R|Groundout|F|Changeup|57|1|2|1|5|86
+Pablo Lopez|R|Victor Robles|R|Groundout|X|Two-Seam Fastball|58|1|2|1|13|92
+Pablo Lopez|R|Yan Gomes|R|Intent Walk|V|N/A|59|0|0|2|0|0
+Pablo Lopez|R|Yan Gomes|R|Intent Walk|V|N/A|60|0|1|2|0|0
+Pablo Lopez|R|Yan Gomes|R|Intent Walk|V|N/A|61|0|2|2|0|0
+Pablo Lopez|R|Yan Gomes|R|Intent Walk|V|N/A|62|0|2|2|0|0
+Pablo Lopez|R|Austin Voth|R|Single|B|Four-Seam Fastball|63|0|0|2|12|92
+Pablo Lopez|R|Austin Voth|R|Single|S|Four-Seam Fastball|64|1|0|2|12|92
+Pablo Lopez|R|Austin Voth|R|Single|S|Four-Seam Fastball|65|1|1|2|3|91
+Pablo Lopez|R|Austin Voth|R|Single|F|Four-Seam Fastball|66|1|2|2|12|91
+Pablo Lopez|R|Austin Voth|R|Single|E|Curveball|67|1|2|2|9|80
+Pablo Lopez|R|Trea Turner|R|Forceout|B|Curveball|68|0|0|2|14|79
+Pablo Lopez|R|Trea Turner|R|Forceout|F|Four-Seam Fastball|69|1|0|2|5|93
+Pablo Lopez|R|Trea Turner|R|Forceout|X|Changeup|70|1|1|2|8|85
+Pablo Lopez|R|Adam Eaton|L|Lineout|C|Two-Seam Fastball|71|0|0|0|13|91
+Pablo Lopez|R|Adam Eaton|L|Lineout|X|Curveball|72|0|1|0|13|79
+Pablo Lopez|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|73|0|0|1|5|93
+Pablo Lopez|R|Anthony Rendon|R|Groundout|S|Two-Seam Fastball|74|0|1|1|13|92
+Pablo Lopez|R|Anthony Rendon|R|Groundout|B|Changeup|75|0|2|1|14|88
+Pablo Lopez|R|Anthony Rendon|R|Groundout|X|Four-Seam Fastball|76|1|2|1|4|93
+Pablo Lopez|R|Juan Soto|L|Walk|C|Curveball|77|0|0|2|6|80
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|78|0|1|2|12|93
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|79|1|1|2|12|93
+Pablo Lopez|R|Juan Soto|L|Walk|B|Changeup|80|2|1|2|14|86
+Pablo Lopez|R|Juan Soto|L|Walk|C|Four-Seam Fastball|81|3|1|2|7|93
+Pablo Lopez|R|Juan Soto|L|Walk|F|Four-Seam Fastball|82|3|2|2|8|94
+Pablo Lopez|R|Juan Soto|L|Walk|B|Four-Seam Fastball|83|3|2|2|11|91
+Pablo Lopez|R|Howie Kendrick|R|Single|S|Four-Seam Fastball|84|0|0|2|11|92
+Pablo Lopez|R|Howie Kendrick|R|Single|S|Changeup|85|0|1|2|4|84
+Pablo Lopez|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|86|0|2|2|4|92
+Pablo Lopez|R|Howie Kendrick|R|Single|B|Four-Seam Fastball|87|0|2|2|12|92
+Pablo Lopez|R|Howie Kendrick|R|Single|D|Changeup|88|1|2|2|13|86
+Pablo Lopez|R|Brian Dozier|R|Forceout|B|Curveball|89|0|0|2|14|79
+Pablo Lopez|R|Brian Dozier|R|Forceout|B|Four-Seam Fastball|90|1|0|2|14|91
+Pablo Lopez|R|Brian Dozier|R|Forceout|S|Two-Seam Fastball|91|2|0|2|7|91
+Pablo Lopez|R|Brian Dozier|R|Forceout|X|Two-Seam Fastball|92|2|1|2|7|91
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|93
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|11|92
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|F|Curveball|2|1|1|0|2|76
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|S|Curveball|3|1|2|0|14|80
+Pablo Lopez|R|Christian Yelich|L|Single|C|Four-Seam Fastball|4|0|0|1|11|94
+Pablo Lopez|R|Christian Yelich|L|Single|B|Four-Seam Fastball|5|0|1|1|14|94
+Pablo Lopez|R|Christian Yelich|L|Single|D|Changeup|6|1|1|1|13|85
+Pablo Lopez|R|Ryan Braun|R|Flyout|C|Four-Seam Fastball|7|0|0|1|9|94
+Pablo Lopez|R|Ryan Braun|R|Flyout|B|Curveball|8|0|1|1|14|80
+Pablo Lopez|R|Ryan Braun|R|Flyout|F|Four-Seam Fastball|9|1|1|1|4|93
+Pablo Lopez|R|Ryan Braun|R|Flyout|*B|Curveball|10|1|2|1|14|80
+Pablo Lopez|R|Ryan Braun|R|Flyout|X|Four-Seam Fastball|11|2|2|1|11|94
+Pablo Lopez|R|Mike Moustakas|L|Flyout|*B|Four-Seam Fastball|12|0|0|2|11|94
+Pablo Lopez|R|Mike Moustakas|L|Flyout|X|Four-Seam Fastball|13|1|0|2|4|92
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|14|0|0|0|13|92
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Changeup|15|1|0|0|1|83
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Changeup|16|1|1|0|13|83
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|17|1|2|0|11|94
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Changeup|18|2|2|0|13|84
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|19|2|2|0|2|93
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Curveball|20|2|2|0|14|79
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|X|Changeup|21|2|2|0|8|85
+Pablo Lopez|R|Eric Thames|L|Lineout|X|Four-Seam Fastball|22|0|0|1|1|93
+Pablo Lopez|R|Travis Shaw|L|Single|B|Changeup|23|0|0|2|13|84
+Pablo Lopez|R|Travis Shaw|L|Single|B|Four-Seam Fastball|24|1|0|2|11|94
+Pablo Lopez|R|Travis Shaw|L|Single|C|Four-Seam Fastball|25|2|0|2|7|93
+Pablo Lopez|R|Travis Shaw|L|Single|D|Changeup|26|2|1|2|8|85
+Pablo Lopez|R|Orlando Arcia|R|Groundout|B|Four-Seam Fastball|27|0|0|2|14|94
+Pablo Lopez|R|Orlando Arcia|R|Groundout|S|Four-Seam Fastball|28|1|0|2|12|93
+Pablo Lopez|R|Orlando Arcia|R|Groundout|F|Four-Seam Fastball|29|1|1|2|11|93
+Pablo Lopez|R|Orlando Arcia|R|Groundout|B|Four-Seam Fastball|30|1|2|2|11|93
+Pablo Lopez|R|Orlando Arcia|R|Groundout|F|Curveball|31|2|2|2|5|80
+Pablo Lopez|R|Orlando Arcia|R|Groundout|X|Changeup|32|2|2|2|9|85
+Pablo Lopez|R|Chase Anderson|R|Strikeout|B|Four-Seam Fastball|33|0|0|0|11|91
+Pablo Lopez|R|Chase Anderson|R|Strikeout|C|Four-Seam Fastball|34|1|0|0|2|90
+Pablo Lopez|R|Chase Anderson|R|Strikeout|C|Four-Seam Fastball|35|1|1|0|14|92
+Pablo Lopez|R|Chase Anderson|R|Strikeout|F|Curveball|36|1|2|0|8|77
+Pablo Lopez|R|Chase Anderson|R|Strikeout|W|Curveball|37|1|2|0|14|78
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|C|Curveball|38|0|0|1|14|79
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|C|Two-Seam Fastball|39|0|1|1|11|92
+Pablo Lopez|R|Lorenzo Cain|R|Strikeout|C|Changeup|40|0|2|1|8|84
+Pablo Lopez|R|Christian Yelich|L|Walk|F|Curveball|41|0|0|2|4|79
+Pablo Lopez|R|Christian Yelich|L|Walk|B|Changeup|42|0|1|2|11|85
+Pablo Lopez|R|Christian Yelich|L|Walk|F|Changeup|43|1|1|2|11|85
+Pablo Lopez|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|44|1|2|2|12|93
+Pablo Lopez|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|45|2|2|2|12|93
+Pablo Lopez|R|Christian Yelich|L|Walk|B|Changeup|46|3|2|2|13|85
+Pablo Lopez|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|47|0|0|2|12|95
+Pablo Lopez|R|Ryan Braun|R|Strikeout|S|Changeup|48|1|0|2|11|85
+Pablo Lopez|R|Ryan Braun|R|Strikeout|S|Changeup|49|1|1|2|13|87
+Pablo Lopez|R|Ryan Braun|R|Strikeout|S|Changeup|50|1|2|2|8|87
+Pablo Lopez|R|Mike Moustakas|L|Groundout|B|Curveball|51|0|0|0|11|76
+Pablo Lopez|R|Mike Moustakas|L|Groundout|X|Changeup|52|1|0|0|5|83
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|S|Curveball|53|0|0|1|14|79
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|B|Curveball|54|0|1|1|13|79
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Changeup|55|1|1|1|1|84
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|56|1|2|1|12|93
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|B|Changeup|57|1|2|1|11|84
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|58|2|2|1|12|94
+Pablo Lopez|R|Yasmani Grandal|L|Groundout|X|Changeup|59|2|2|1|13|85
+Pablo Lopez|R|Eric Thames|L|Strikeout|C|Curveball|60|0|0|2|4|79
+Pablo Lopez|R|Eric Thames|L|Strikeout|F|Changeup|61|0|1|2|13|86
+Pablo Lopez|R|Eric Thames|L|Strikeout|B|Four-Seam Fastball|62|0|2|2|11|92
+Pablo Lopez|R|Eric Thames|L|Strikeout|B|Four-Seam Fastball|63|1|2|2|14|93
+Pablo Lopez|R|Eric Thames|L|Strikeout|F|Changeup|64|2|2|2|13|85
+Pablo Lopez|R|Eric Thames|L|Strikeout|F|Changeup|65|2|2|2|8|86
+Pablo Lopez|R|Eric Thames|L|Strikeout|B|Four-Seam Fastball|66|2|2|2|11|92
+Pablo Lopez|R|Eric Thames|L|Strikeout|S|Changeup|67|3|2|2|11|86
+Pablo Lopez|R|Travis Shaw|L|Groundout|C|Four-Seam Fastball|68|0|0|0|13|90
+Pablo Lopez|R|Travis Shaw|L|Groundout|B|Changeup|69|0|1|0|13|84
+Pablo Lopez|R|Travis Shaw|L|Groundout|F|Four-Seam Fastball|70|1|1|0|4|91
+Pablo Lopez|R|Travis Shaw|L|Groundout|X|Four-Seam Fastball|71|1|2|0|4|92
+Pablo Lopez|R|Orlando Arcia|R|Lineout|C|Two-Seam Fastball|72|0|0|1|11|94
+Pablo Lopez|R|Orlando Arcia|R|Lineout|B|Four-Seam Fastball|73|0|1|1|11|92
+Pablo Lopez|R|Orlando Arcia|R|Lineout|X|Changeup|74|1|1|1|8|83
+Pablo Lopez|R|Corbin Burnes|R|Strikeout|C|Four-Seam Fastball|75|0|0|2|8|94
+Pablo Lopez|R|Corbin Burnes|R|Strikeout|S|Four-Seam Fastball|76|0|1|2|12|94
+Pablo Lopez|R|Corbin Burnes|R|Strikeout|B|Curveball|77|0|2|2|14|79
+Pablo Lopez|R|Corbin Burnes|R|Strikeout|C|Curveball|78|1|2|2|4|79
+Pablo Lopez|R|Lorenzo Cain|R|Lineout|C|Four-Seam Fastball|79|0|0|0|2|95
+Pablo Lopez|R|Lorenzo Cain|R|Lineout|B|Curveball|80|0|1|0|14|79
+Pablo Lopez|R|Lorenzo Cain|R|Lineout|X|Changeup|81|1|1|0|8|85
+Pablo Lopez|R|Christian Yelich|L|Single|D|Four-Seam Fastball|82|0|0|1|2|93
+Pablo Lopez|R|Ryan Braun|R|Pop Out|B|Four-Seam Fastball|83|0|0|1|13|95
+Pablo Lopez|R|Ryan Braun|R|Pop Out|B|Two-Seam Fastball|84|1|0|1|13|94
+Pablo Lopez|R|Ryan Braun|R|Pop Out|B|Four-Seam Fastball|85|2|0|1|14|94
+Pablo Lopez|R|Ryan Braun|R|Pop Out|C|Four-Seam Fastball|86|3|0|1|13|94
+Pablo Lopez|R|Ryan Braun|R|Pop Out|X|Four-Seam Fastball|87|3|1|1|4|94
+Pablo Lopez|R|Mike Moustakas|L|Strikeout|C|Four-Seam Fastball|88|0|0|2|8|94
+Pablo Lopez|R|Mike Moustakas|L|Strikeout|F|Changeup|89|0|1|2|13|85
+Pablo Lopez|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|90|0|2|2|11|94
+Pablo Lopez|R|Mike Moustakas|L|Strikeout|S|Changeup|91|0|2|2|13|86

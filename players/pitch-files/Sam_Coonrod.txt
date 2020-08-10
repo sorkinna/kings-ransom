@@ -1,0 +1,455 @@
+Sam Coonrod|R|Carson Kelly|R|Strikeout|C|Sinker|0|0|0|2|9|95
+Sam Coonrod|R|Carson Kelly|R|Strikeout|F|Curveball|1|0|1|2|1|89
+Sam Coonrod|R|Carson Kelly|R|Strikeout|B|Changeup|2|0|2|2|14|88
+Sam Coonrod|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|3|1|2|2|11|96
+Sam Coonrod|R|Carson Kelly|R|Strikeout|C|Sinker|4|1|2|2|6|96
+Sam Coonrod|R|Wilmer Flores|R|Groundout|X|Sinker|5|0|0|0|2|96
+Sam Coonrod|R|Jarrod Dyson|L|Groundout|B|Four-Seam Fastball|6|0|0|1|11|97
+Sam Coonrod|R|Jarrod Dyson|L|Groundout|C|Sinker|7|1|0|1|4|95
+Sam Coonrod|R|Jarrod Dyson|L|Groundout|B|Changeup|8|1|1|1|14|89
+Sam Coonrod|R|Jarrod Dyson|L|Groundout|B|Sinker|9|2|1|1|11|95
+Sam Coonrod|R|Jarrod Dyson|L|Groundout|X|Sinker|10|3|1|1|13|95
+Sam Coonrod|R|Carson Kelly|R|Lineout|X|Sinker|0|0|0|0|11|96
+Sam Coonrod|R|Adam Jones|R|Home Run|E|Four-Seam Fastball|1|0|0|1|5|95
+Sam Coonrod|R|Ketel Marte|L|Groundout|S|Changeup|2|0|0|1|13|88
+Sam Coonrod|R|Ketel Marte|L|Groundout|X|Changeup|3|0|1|1|8|88
+Sam Coonrod|R|Wilmer Flores|R|Forceout|C|Curveball|0|0|0|2|1|87
+Sam Coonrod|R|Wilmer Flores|R|Forceout|B|Curveball|1|0|1|2|11|86
+Sam Coonrod|R|Wilmer Flores|R|Forceout|C|Sinker|2|1|1|2|9|96
+Sam Coonrod|R|Wilmer Flores|R|Forceout|X|Sinker|3|1|2|2|8|97
+Sam Coonrod|R|Renato Nunez|R|Pop Out|B|Sinker|0|0|0|0|11|96
+Sam Coonrod|R|Renato Nunez|R|Pop Out|X|Sinker|1|1|0|0|1|96
+Sam Coonrod|R|DJ Stewart|L|Groundout|F|Sinker|2|0|0|1|2|98
+Sam Coonrod|R|DJ Stewart|L|Groundout|F|Sinker|3|0|1|1|5|99
+Sam Coonrod|R|DJ Stewart|L|Groundout|B|Four-Seam Fastball|4|0|2|1|11|99
+Sam Coonrod|R|DJ Stewart|L|Groundout|F|Sinker|5|1|2|1|13|97
+Sam Coonrod|R|DJ Stewart|L|Groundout|F|Curveball|6|1|2|1|14|84
+Sam Coonrod|R|DJ Stewart|L|Groundout|B|Four-Seam Fastball|7|1|2|1|14|97
+Sam Coonrod|R|DJ Stewart|L|Groundout|X|Sinker|8|2|2|1|7|95
+Sam Coonrod|R|Stevie Wilkerson|L|Pop Out|C|Four-Seam Fastball|9|0|0|2|8|97
+Sam Coonrod|R|Stevie Wilkerson|L|Pop Out|X|Sinker|10|0|1|2|2|97
+Sam Coonrod|R|Xander Bogaerts|R|Pop Out|B|Sinker|0|0|0|2|11|97
+Sam Coonrod|R|Xander Bogaerts|R|Pop Out|C|Sinker|1|1|0|2|9|95
+Sam Coonrod|R|Xander Bogaerts|R|Pop Out|B|Curveball|2|1|1|2|14|86
+Sam Coonrod|R|Xander Bogaerts|R|Pop Out|B|Changeup|3|2|1|2|13|88
+Sam Coonrod|R|Xander Bogaerts|R|Pop Out|X|Sinker|4|3|1|2|11|95
+Sam Coonrod|R|Rafael Devers|L|Groundout|C|Curveball|5|0|0|0|1|87
+Sam Coonrod|R|Rafael Devers|L|Groundout|S|Changeup|6|0|1|0|8|89
+Sam Coonrod|R|Rafael Devers|L|Groundout|F|Four-Seam Fastball|7|0|2|0|11|99
+Sam Coonrod|R|Rafael Devers|L|Groundout|B|Changeup|8|0|2|0|13|89
+Sam Coonrod|R|Rafael Devers|L|Groundout|X|Four-Seam Fastball|9|1|2|0|11|97
+Sam Coonrod|R|Gorkys Hernandez|R|Single|B|Curveball|10|0|0|1|14|86
+Sam Coonrod|R|Gorkys Hernandez|R|Single|S|Changeup|11|1|0|1|13|87
+Sam Coonrod|R|Gorkys Hernandez|R|Single|B|Four-Seam Fastball|12|1|1|1|11|97
+Sam Coonrod|R|Gorkys Hernandez|R|Single|B|Sinker|13|2|1|1|11|95
+Sam Coonrod|R|Gorkys Hernandez|R|Single|C|Sinker|14|3|1|1|8|95
+Sam Coonrod|R|Gorkys Hernandez|R|Single|D|Sinker|15|3|2|1|5|95
+Sam Coonrod|R|Brock Holt|L|Intent Walk|B|Sinker|16|0|0|1|11|95
+Sam Coonrod|R|Brock Holt|L|Intent Walk|B|Sinker|17|1|0|1|11|95
+Sam Coonrod|R|Brock Holt|L|Intent Walk|B|Four-Seam Fastball|18|2|0|1|11|96
+Sam Coonrod|R|Brock Holt|L|Intent Walk|V|N/A|19|3|0|1|0|0
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|B|Sinker|0|0|0|0|14|94
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|B|Sinker|1|1|0|0|11|95
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|F|Four-Seam Fastball|2|2|0|0|2|95
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|C|Four-Seam Fastball|3|2|1|0|7|96
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|F|Four-Seam Fastball|4|2|2|0|11|96
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|B|Changeup|5|2|2|0|13|88
+Sam Coonrod|R|Xander Bogaerts|R|Flyout|X|Four-Seam Fastball|6|3|2|0|4|96
+Sam Coonrod|R|Brock Holt|L|Groundout|X|Changeup|7|0|0|1|14|88
+Sam Coonrod|R|Gorkys Hernandez|R|Groundout|B|Four-Seam Fastball|8|0|0|2|11|97
+Sam Coonrod|R|Gorkys Hernandez|R|Groundout|F|Sinker|9|1|0|2|11|96
+Sam Coonrod|R|Gorkys Hernandez|R|Groundout|C|Four-Seam Fastball|10|1|1|2|3|96
+Sam Coonrod|R|Gorkys Hernandez|R|Groundout|X|Sinker|11|1|2|2|5|96
+Sam Coonrod|R|Anthony Rizzo|L|Hit By Pitch|H|Four-Seam Fastball|0|0|0|0|12|97
+Sam Coonrod|R|Javier Baez|R|Lineout|*B|Curveball|1|0|0|0|14|88
+Sam Coonrod|R|Javier Baez|R|Lineout|F|Sinker|2|1|0|0|11|96
+Sam Coonrod|R|Javier Baez|R|Lineout|X|Sinker|3|1|1|0|13|96
+Sam Coonrod|R|Kyle Schwarber|L|Lineout|B|Changeup|4|0|0|1|14|89
+Sam Coonrod|R|Kyle Schwarber|L|Lineout|S|Four-Seam Fastball|5|1|0|1|11|96
+Sam Coonrod|R|Kyle Schwarber|L|Lineout|*B|Changeup|6|1|1|1|14|90
+Sam Coonrod|R|Kyle Schwarber|L|Lineout|X|Four-Seam Fastball|7|2|1|1|6|96
+Sam Coonrod|R|Ian Happ|L|Walk|S|Sinker|8|0|0|2|4|97
+Sam Coonrod|R|Ian Happ|L|Walk|F|Sinker|9|0|1|2|8|98
+Sam Coonrod|R|Ian Happ|L|Walk|B|Four-Seam Fastball|10|0|2|2|11|97
+Sam Coonrod|R|Ian Happ|L|Walk|F|Curveball|11|1|2|2|14|88
+Sam Coonrod|R|Ian Happ|L|Walk|B|Changeup|12|1|2|2|13|88
+Sam Coonrod|R|Ian Happ|L|Walk|B|Sinker|13|2|2|2|13|97
+Sam Coonrod|R|Ian Happ|L|Walk|B|Sinker|14|3|2|2|13|97
+Sam Coonrod|R|Victor Caratini|L|Single|E|Changeup|15|0|0|2|5|89
+Sam Coonrod|R|Yu Darvish|R|Groundout|F|Sinker|16|0|0|2|1|95
+Sam Coonrod|R|Yu Darvish|R|Groundout|B|Sinker|17|0|1|2|11|94
+Sam Coonrod|R|Yu Darvish|R|Groundout|X|Sinker|18|1|1|2|13|95
+Sam Coonrod|R|Ryan McMahon|L|Walk|C|Four-Seam Fastball|0|0|0|0|1|96
+Sam Coonrod|R|Ryan McMahon|L|Walk|F|Changeup|1|0|1|0|13|87
+Sam Coonrod|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|2|0|2|0|3|98
+Sam Coonrod|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|3|1|2|0|4|95
+Sam Coonrod|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|4|1|2|0|11|96
+Sam Coonrod|R|Ryan McMahon|L|Walk|B|Curveball|5|2|2|0|14|85
+Sam Coonrod|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|6|3|2|0|11|96
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|B|Four-Seam Fastball|7|0|0|0|13|97
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|B|Sinker|8|1|0|0|11|96
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|S|Sinker|9|2|0|0|13|96
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|B|Sinker|10|2|1|0|13|96
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|S|Four-Seam Fastball|11|3|1|0|2|97
+Sam Coonrod|R|Mark Reynolds|R|Strikeout|T|Four-Seam Fastball|12|3|2|0|8|96
+Sam Coonrod|R|Tony Wolters|L|Forceout|X|Sinker|13|0|0|1|11|96
+Sam Coonrod|R|Chris Iannetta|R|Forceout|X|Sinker|14|0|0|2|14|96
+Sam Coonrod|R|Trevor Story|R|Lineout|C|Four-Seam Fastball|0|0|0|0|14|96
+Sam Coonrod|R|Trevor Story|R|Lineout|S|Four-Seam Fastball|1|0|1|0|12|97
+Sam Coonrod|R|Trevor Story|R|Lineout|X|Four-Seam Fastball|2|0|2|0|2|97
+Sam Coonrod|R|Nolan Arenado|R|Flyout|B|Curveball|3|0|0|1|12|89
+Sam Coonrod|R|Nolan Arenado|R|Flyout|X|Four-Seam Fastball|4|1|0|1|4|96
+Sam Coonrod|R|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|5|0|0|2|12|96
+Sam Coonrod|R|Daniel Murphy|L|Groundout|C|Sinker|6|1|0|2|5|94
+Sam Coonrod|R|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|7|1|1|2|11|95
+Sam Coonrod|R|Daniel Murphy|L|Groundout|F|Changeup|8|1|2|2|4|88
+Sam Coonrod|R|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|9|1|2|2|6|96
+Sam Coonrod|R|Daniel Murphy|L|Groundout|X|Curveball|10|1|2|2|5|87
+Sam Coonrod|R|Justin Turner|R|Hit By Pitch|C|Curveball|0|0|0|1|9|85
+Sam Coonrod|R|Justin Turner|R|Hit By Pitch|B|Curveball|1|0|1|1|14|86
+Sam Coonrod|R|Justin Turner|R|Hit By Pitch|B|Sinker|2|1|1|1|14|97
+Sam Coonrod|R|Justin Turner|R|Hit By Pitch|H|Sinker|3|2|1|1|11|97
+Sam Coonrod|R|Mark Canha|R|Flyout|X|Curveball|0|0|0|1|8|86
+Sam Coonrod|R|Robbie Grossman|L|Groundout|F|Sinker|1|0|0|2|11|98
+Sam Coonrod|R|Robbie Grossman|L|Groundout|B|Sinker|2|0|1|2|11|98
+Sam Coonrod|R|Robbie Grossman|L|Groundout|B|Sinker|3|1|1|2|9|97
+Sam Coonrod|R|Robbie Grossman|L|Groundout|S|Sinker|4|2|1|2|13|97
+Sam Coonrod|R|Robbie Grossman|L|Groundout|X|Sinker|5|2|2|2|11|97
+Sam Coonrod|R|Chad Pinder|R|Grounded Into DP|B|Sinker|0|0|0|0|11|97
+Sam Coonrod|R|Chad Pinder|R|Grounded Into DP|X|Curveball|1|1|0|0|9|86
+Sam Coonrod|R|Josh Phegley|R|Strikeout|B|Sinker|2|0|0|2|12|97
+Sam Coonrod|R|Josh Phegley|R|Strikeout|C|Curveball|3|1|0|2|14|87
+Sam Coonrod|R|Josh Phegley|R|Strikeout|C|Curveball|4|1|1|2|9|86
+Sam Coonrod|R|Josh Phegley|R|Strikeout|W|Curveball|5|1|2|2|14|86
+Sam Coonrod|R|Hunter Renfroe|R|Strikeout|F|Sinker|0|0|0|0|1|95
+Sam Coonrod|R|Hunter Renfroe|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|96
+Sam Coonrod|R|Hunter Renfroe|R|Strikeout|C|Sinker|2|1|1|0|9|96
+Sam Coonrod|R|Hunter Renfroe|R|Strikeout|B|Curveball|3|1|2|0|14|87
+Sam Coonrod|R|Hunter Renfroe|R|Strikeout|T|Changeup|4|2|2|0|13|88
+Sam Coonrod|R|Wil Myers|R|Flyout|B|Sinker|5|0|0|1|13|96
+Sam Coonrod|R|Wil Myers|R|Flyout|C|Sinker|6|1|0|1|6|96
+Sam Coonrod|R|Wil Myers|R|Flyout|X|Changeup|7|1|1|1|13|88
+Sam Coonrod|R|Luis Urias|R|Walk|C|Sinker|8|0|0|2|7|97
+Sam Coonrod|R|Luis Urias|R|Walk|C|Changeup|9|0|1|2|4|89
+Sam Coonrod|R|Luis Urias|R|Walk|B|Changeup|10|0|2|2|14|90
+Sam Coonrod|R|Luis Urias|R|Walk|B|Four-Seam Fastball|11|1|2|2|12|98
+Sam Coonrod|R|Luis Urias|R|Walk|F|Sinker|12|2|2|2|1|95
+Sam Coonrod|R|Luis Urias|R|Walk|B|Changeup|13|2|2|2|11|89
+Sam Coonrod|R|Luis Urias|R|Walk|B|Sinker|14|3|2|2|14|96
+Sam Coonrod|R|Austin Hedges|R|Pop Out|F|Sinker|15|0|0|2|13|95
+Sam Coonrod|R|Austin Hedges|R|Pop Out|B|Sinker|16|0|1|2|14|94
+Sam Coonrod|R|Austin Hedges|R|Pop Out|F|Sinker|17|1|1|2|2|95
+Sam Coonrod|R|Austin Hedges|R|Pop Out|F|Changeup|18|1|2|2|7|88
+Sam Coonrod|R|Austin Hedges|R|Pop Out|B|Four-Seam Fastball|19|1|2|2|11|95
+Sam Coonrod|R|Austin Hedges|R|Pop Out|F|Changeup|20|2|2|2|11|87
+Sam Coonrod|R|Austin Hedges|R|Pop Out|X|Sinker|21|2|2|2|11|94
+Sam Coonrod|R|Blake Swihart|L|Lineout|F|Sinker|0|0|0|0|5|94
+Sam Coonrod|R|Blake Swihart|L|Lineout|B|Curveball|1|0|1|0|14|84
+Sam Coonrod|R|Blake Swihart|L|Lineout|B|Curveball|2|1|1|0|11|83
+Sam Coonrod|R|Blake Swihart|L|Lineout|B|Sinker|3|2|1|0|14|95
+Sam Coonrod|R|Blake Swihart|L|Lineout|S|Four-Seam Fastball|4|3|1|0|13|95
+Sam Coonrod|R|Blake Swihart|L|Lineout|X|Sinker|5|3|2|0|5|95
+Sam Coonrod|R|Carson Kelly|R|Groundout|C|Curveball|6|0|0|1|14|84
+Sam Coonrod|R|Carson Kelly|R|Groundout|B|Four-Seam Fastball|7|0|1|1|11|97
+Sam Coonrod|R|Carson Kelly|R|Groundout|C|Four-Seam Fastball|8|1|1|1|8|95
+Sam Coonrod|R|Carson Kelly|R|Groundout|B|Curveball|9|1|2|1|14|85
+Sam Coonrod|R|Carson Kelly|R|Groundout|F|Four-Seam Fastball|10|2|2|1|8|96
+Sam Coonrod|R|Carson Kelly|R|Groundout|B|Curveball|11|2|2|1|12|83
+Sam Coonrod|R|Carson Kelly|R|Groundout|X|Sinker|12|3|2|1|9|96
+Sam Coonrod|R|Kevin Cron|R|Strikeout|C|Curveball|13|0|0|2|9|85
+Sam Coonrod|R|Kevin Cron|R|Strikeout|C|Curveball|14|0|1|2|3|84
+Sam Coonrod|R|Kevin Cron|R|Strikeout|F|Four-Seam Fastball|15|0|2|2|5|97
+Sam Coonrod|R|Kevin Cron|R|Strikeout|B|Four-Seam Fastball|16|0|2|2|11|95
+Sam Coonrod|R|Kevin Cron|R|Strikeout|F|Four-Seam Fastball|17|1|2|2|9|94
+Sam Coonrod|R|Kevin Cron|R|Strikeout|T|Curveball|18|1|2|2|11|82
+Sam Coonrod|R|Javier Baez|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|97
+Sam Coonrod|R|Javier Baez|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|12|96
+Sam Coonrod|R|Javier Baez|R|Strikeout|F|Sinker|2|2|0|0|2|96
+Sam Coonrod|R|Javier Baez|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|12|96
+Sam Coonrod|R|Javier Baez|R|Strikeout|B|Curveball|4|2|2|0|14|86
+Sam Coonrod|R|Javier Baez|R|Strikeout|T|Four-Seam Fastball|5|3|2|0|11|96
+Sam Coonrod|R|Kris Bryant|R|Strikeout|C|Curveball|6|0|0|1|12|88
+Sam Coonrod|R|Kris Bryant|R|Strikeout|F|Four-Seam Fastball|7|0|1|1|12|98
+Sam Coonrod|R|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|8|0|2|1|12|99
+Sam Coonrod|R|Anthony Rizzo|L|Groundout|S|Changeup|9|0|0|2|13|89
+Sam Coonrod|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|10|0|1|2|11|99
+Sam Coonrod|R|Anthony Rizzo|L|Groundout|X|Changeup|11|1|1|2|13|89
+Sam Coonrod|R|David Bote|R|Flyout|S|Sinker|0|0|0|2|1|95
+Sam Coonrod|R|David Bote|R|Flyout|C|Curveball|1|0|1|2|2|88
+Sam Coonrod|R|David Bote|R|Flyout|X|Curveball|2|0|2|2|8|87
+Sam Coonrod|R|Kyle Schwarber|L|Field Error|D|Sinker|3|0|0|0|13|96
+Sam Coonrod|R|Javier Baez|R|Grounded Into DP|X|Sinker|4|0|0|0|9|96
+Sam Coonrod|R|Trea Turner|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|96
+Sam Coonrod|R|Trea Turner|R|Walk|B|Four-Seam Fastball|1|1|0|2|14|96
+Sam Coonrod|R|Trea Turner|R|Walk|B|Sinker|2|2|0|2|14|95
+Sam Coonrod|R|Trea Turner|R|Walk|B|Four-Seam Fastball|3|3|0|2|13|96
+Sam Coonrod|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|4|0|0|2|13|96
+Sam Coonrod|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|5|1|0|2|12|96
+Sam Coonrod|R|Adam Eaton|L|Walk|C|Four-Seam Fastball|6|2|0|2|2|96
+Sam Coonrod|R|Adam Eaton|L|Walk|T|Four-Seam Fastball|7|2|1|2|6|97
+Sam Coonrod|R|Adam Eaton|L|Walk|F|Four-Seam Fastball|8|2|2|2|11|96
+Sam Coonrod|R|Adam Eaton|L|Walk|B|Changeup|9|2|2|2|14|88
+Sam Coonrod|R|Adam Eaton|L|Walk|F|Four-Seam Fastball|10|3|2|2|8|96
+Sam Coonrod|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|11|3|2|2|11|95
+Sam Coonrod|R|Anthony Rendon|R|Groundout|F|Four-Seam Fastball|12|0|0|2|6|96
+Sam Coonrod|R|Anthony Rendon|R|Groundout|C|Changeup|13|0|1|2|5|89
+Sam Coonrod|R|Anthony Rendon|R|Groundout|B|Four-Seam Fastball|14|0|2|2|12|97
+Sam Coonrod|R|Anthony Rendon|R|Groundout|X|Curveball|15|1|2|2|9|87
+Sam Coonrod|R|Juan Soto|L|Walk|B|Four-Seam Fastball|16|0|0|0|14|96
+Sam Coonrod|R|Juan Soto|L|Walk|B|Four-Seam Fastball|17|1|0|0|11|96
+Sam Coonrod|R|Juan Soto|L|Walk|F|Four-Seam Fastball|18|2|0|0|11|96
+Sam Coonrod|R|Juan Soto|L|Walk|B|Four-Seam Fastball|19|2|1|0|11|95
+Sam Coonrod|R|Juan Soto|L|Walk|S|N/A|20|3|1|0|0|0
+Sam Coonrod|R|Juan Soto|L|Walk|B|Changeup|21|3|2|0|14|89
+Sam Coonrod|R|Matt Adams|L|Double|B|Changeup|22|0|0|0|13|89
+Sam Coonrod|R|Matt Adams|L|Double|S|Four-Seam Fastball|23|1|0|0|11|96
+Sam Coonrod|R|Matt Adams|L|Double|S|Four-Seam Fastball|24|1|1|0|4|97
+Sam Coonrod|R|Matt Adams|L|Double|B|Four-Seam Fastball|25|1|2|0|11|97
+Sam Coonrod|R|Matt Adams|L|Double|E|Four-Seam Fastball|26|2|2|0|4|96
+Sam Coonrod|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|27|0|0|0|11|97
+Sam Coonrod|R|Brian Dozier|R|Strikeout|C|Changeup|28|0|1|0|9|89
+Sam Coonrod|R|Brian Dozier|R|Strikeout|B|Sinker|29|0|2|0|14|95
+Sam Coonrod|R|Brian Dozier|R|Strikeout|B|Curveball|30|1|2|0|14|88
+Sam Coonrod|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|31|2|2|0|11|95
+Sam Coonrod|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|32|3|2|0|2|96
+Sam Coonrod|R|Brian Dozier|R|Strikeout|F|Changeup|33|3|2|0|9|87
+Sam Coonrod|R|Brian Dozier|R|Strikeout|S|Four-Seam Fastball|34|3|2|0|12|95
+Sam Coonrod|R|Kurt Suzuki|R|Strikeout|F|Four-Seam Fastball|35|0|0|1|2|95
+Sam Coonrod|R|Kurt Suzuki|R|Strikeout|B|Four-Seam Fastball|36|0|1|1|14|95
+Sam Coonrod|R|Kurt Suzuki|R|Strikeout|S|Changeup|37|1|1|1|13|88
+Sam Coonrod|R|Kurt Suzuki|R|Strikeout|S|Changeup|38|1|2|1|14|88
+Sam Coonrod|R|Yan Gomes|R|Single|B|Sinker|0|0|0|0|11|94
+Sam Coonrod|R|Yan Gomes|R|Single|X|Sinker|1|1|0|0|6|94
+Sam Coonrod|R|Joe Ross|R|Pop Out|C|Four-Seam Fastball|2|0|0|1|12|94
+Sam Coonrod|R|Joe Ross|R|Pop Out|B|Sinker|3|0|1|1|14|94
+Sam Coonrod|R|Joe Ross|R|Pop Out|X|Four-Seam Fastball|4|1|1|1|1|95
+Sam Coonrod|R|Trea Turner|R|Groundout|C|Sinker|5|0|0|2|7|95
+Sam Coonrod|R|Trea Turner|R|Groundout|S|Changeup|6|0|1|2|14|88
+Sam Coonrod|R|Trea Turner|R|Groundout|B|Changeup|7|0|2|2|14|87
+Sam Coonrod|R|Trea Turner|R|Groundout|B|Changeup|8|1|2|2|11|86
+Sam Coonrod|R|Trea Turner|R|Groundout|X|Sinker|9|2|2|2|4|95
+Sam Coonrod|R|Jean Segura|R|Groundout|C|Sinker|0|0|0|2|9|95
+Sam Coonrod|R|Jean Segura|R|Groundout|B|Sinker|1|0|1|2|14|96
+Sam Coonrod|R|Jean Segura|R|Groundout|X|Sinker|2|1|1|2|8|95
+Sam Coonrod|R|J.T. Realmuto|R|Single|C|Sinker|3|0|0|0|4|96
+Sam Coonrod|R|J.T. Realmuto|R|Single|F|Sinker|4|0|1|0|1|97
+Sam Coonrod|R|J.T. Realmuto|R|Single|F|Sinker|5|0|2|0|1|98
+Sam Coonrod|R|J.T. Realmuto|R|Single|B|Changeup|6|0|2|0|11|88
+Sam Coonrod|R|J.T. Realmuto|R|Single|D|Changeup|7|1|2|0|8|88
+Sam Coonrod|R|Cesar Hernandez|L|Lineout|X|Sinker|8|0|0|0|11|96
+Sam Coonrod|R|Scott Kingery|R|Pop Out|F|Sinker|9|0|0|1|5|96
+Sam Coonrod|R|Scott Kingery|R|Pop Out|B|Sinker|10|0|1|1|8|97
+Sam Coonrod|R|Scott Kingery|R|Pop Out|*B|Sinker|11|1|1|1|14|96
+Sam Coonrod|R|Scott Kingery|R|Pop Out|S|Sinker|12|2|1|1|1|96
+Sam Coonrod|R|Scott Kingery|R|Pop Out|X|Sinker|13|2|2|1|4|96
+Sam Coonrod|R|Mark Canha|R|Walk|*B|Sinker|0|0|0|0|14|95
+Sam Coonrod|R|Mark Canha|R|Walk|B|Sinker|1|1|0|0|14|95
+Sam Coonrod|R|Mark Canha|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|96
+Sam Coonrod|R|Mark Canha|R|Walk|B|Four-Seam Fastball|3|3|0|0|11|95
+Sam Coonrod|R|Stephen Piscotty|R|Grounded Into DP|C|Curveball|4|0|0|0|3|87
+Sam Coonrod|R|Stephen Piscotty|R|Grounded Into DP|*B|Sinker|5|0|1|0|14|96
+Sam Coonrod|R|Stephen Piscotty|R|Grounded Into DP|X|Four-Seam Fastball|6|1|1|0|11|97
+Sam Coonrod|R|Corban Joseph|L|Groundout|C|Four-Seam Fastball|7|0|0|2|5|97
+Sam Coonrod|R|Corban Joseph|L|Groundout|F|Four-Seam Fastball|8|0|1|2|4|97
+Sam Coonrod|R|Corban Joseph|L|Groundout|B|Four-Seam Fastball|9|0|2|2|11|98
+Sam Coonrod|R|Corban Joseph|L|Groundout|F|Four-Seam Fastball|10|1|2|2|1|96
+Sam Coonrod|R|Corban Joseph|L|Groundout|B|Changeup|11|1|2|2|11|88
+Sam Coonrod|R|Corban Joseph|L|Groundout|F|Changeup|12|2|2|2|13|87
+Sam Coonrod|R|Corban Joseph|L|Groundout|F|Four-Seam Fastball|13|2|2|2|11|96
+Sam Coonrod|R|Corban Joseph|L|Groundout|F|Sinker|14|2|2|2|11|96
+Sam Coonrod|R|Corban Joseph|L|Groundout|X|Changeup|15|2|2|2|8|87
+Sam Coonrod|R|Christian Walker|R|Single|B|Curveball|0|0|0|0|14|88
+Sam Coonrod|R|Christian Walker|R|Single|F|Sinker|1|1|0|0|13|97
+Sam Coonrod|R|Christian Walker|R|Single|D|Sinker|2|1|1|0|7|96
+Sam Coonrod|R|Jake Lamb|L|Single|C|Sinker|3|0|0|0|13|97
+Sam Coonrod|R|Jake Lamb|L|Single|C|Four-Seam Fastball|4|0|1|0|8|97
+Sam Coonrod|R|Jake Lamb|L|Single|F|Four-Seam Fastball|5|0|2|0|1|98
+Sam Coonrod|R|Jake Lamb|L|Single|D|Curveball|6|0|2|0|7|86
+Sam Coonrod|R|Adam Jones|R|Single|B|Sinker|7|0|0|0|14|96
+Sam Coonrod|R|Adam Jones|R|Single|E|Sinker|8|1|0|0|8|96
+Sam Coonrod|R|Nick Ahmed|R|Strikeout|C|N/A|9|0|0|0|0|0
+Sam Coonrod|R|Nick Ahmed|R|Strikeout|B|Curveball|10|0|1|0|14|89
+Sam Coonrod|R|Nick Ahmed|R|Strikeout|F|Sinker|11|1|1|0|5|97
+Sam Coonrod|R|Nick Ahmed|R|Strikeout|B|Changeup|12|1|2|0|14|88
+Sam Coonrod|R|Nick Ahmed|R|Strikeout|S|Changeup|13|2|2|0|7|88
+Sam Coonrod|R|Wil Myers|R|Strikeout|F|Sinker|0|0|0|0|11|97
+Sam Coonrod|R|Wil Myers|R|Strikeout|F|Sinker|1|0|1|0|13|98
+Sam Coonrod|R|Wil Myers|R|Strikeout|B|Changeup|2|0|2|0|14|89
+Sam Coonrod|R|Wil Myers|R|Strikeout|F|Changeup|3|1|2|0|13|89
+Sam Coonrod|R|Wil Myers|R|Strikeout|C|Sinker|4|1|2|0|9|98
+Sam Coonrod|R|Ty France|R|Hit By Pitch|H|Sinker|5|0|0|1|11|98
+Sam Coonrod|R|Luis Urias|R|Strikeout|B|Sinker|6|0|0|1|11|97
+Sam Coonrod|R|Luis Urias|R|Strikeout|B|Sinker|7|1|0|1|14|97
+Sam Coonrod|R|Luis Urias|R|Strikeout|S|Sinker|8|2|0|1|2|96
+Sam Coonrod|R|Luis Urias|R|Strikeout|F|Sinker|9|2|1|1|5|96
+Sam Coonrod|R|Luis Urias|R|Strikeout|F|Curveball|10|2|2|1|14|87
+Sam Coonrod|R|Luis Urias|R|Strikeout|F|Sinker|11|2|2|1|6|97
+Sam Coonrod|R|Luis Urias|R|Strikeout|B|Changeup|12|2|2|1|14|89
+Sam Coonrod|R|Luis Urias|R|Strikeout|F|Four-Seam Fastball|13|3|2|1|7|96
+Sam Coonrod|R|Luis Urias|R|Strikeout|C|Sinker|14|3|2|1|8|96
+Sam Coonrod|R|Manuel Margot|R|Grounded Into DP|B|Curveball|0|0|0|1|11|87
+Sam Coonrod|R|Manuel Margot|R|Grounded Into DP|F|Sinker|1|1|0|1|11|96
+Sam Coonrod|R|Manuel Margot|R|Grounded Into DP|F|Sinker|2|1|1|1|8|95
+Sam Coonrod|R|Manuel Margot|R|Grounded Into DP|X|Changeup|3|1|2|1|8|88
+Sam Coonrod|R|Kevin Kramer|L|Lineout|C|Curveball|0|0|0|0|6|84
+Sam Coonrod|R|Kevin Kramer|L|Lineout|B|Changeup|1|0|1|0|14|87
+Sam Coonrod|R|Kevin Kramer|L|Lineout|F|Sinker|2|1|1|0|13|96
+Sam Coonrod|R|Kevin Kramer|L|Lineout|F|Four-Seam Fastball|3|1|2|0|11|97
+Sam Coonrod|R|Kevin Kramer|L|Lineout|B|Four-Seam Fastball|4|1|2|0|11|98
+Sam Coonrod|R|Kevin Kramer|L|Lineout|F|Changeup|5|2|2|0|7|88
+Sam Coonrod|R|Kevin Kramer|L|Lineout|X|Four-Seam Fastball|6|2|2|0|8|97
+Sam Coonrod|R|Pablo Reyes|R|Groundout|B|Four-Seam Fastball|7|0|0|1|14|97
+Sam Coonrod|R|Pablo Reyes|R|Groundout|X|Sinker|8|1|0|1|9|96
+Sam Coonrod|R|Kevin Newman|R|Single|D|Sinker|9|0|0|2|7|96
+Sam Coonrod|R|Bryan Reynolds|L|Single|*B|Curveball|10|0|0|2|14|87
+Sam Coonrod|R|Bryan Reynolds|L|Single|D|Sinker|11|1|0|2|13|96
+Sam Coonrod|R|Bryan Reynolds|L|Flyout|F|Four-Seam Fastball|0|0|0|0|4|96
+Sam Coonrod|R|Bryan Reynolds|L|Flyout|X|Curveball|1|0|1|0|3|84
+Sam Coonrod|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|2|0|0|1|9|95
+Sam Coonrod|R|Colin Moran|L|Strikeout|B|Four-Seam Fastball|3|0|1|1|11|97
+Sam Coonrod|R|Colin Moran|L|Strikeout|S|Curveball|4|1|1|1|14|85
+Sam Coonrod|R|Colin Moran|L|Strikeout|S|Curveball|5|1|2|1|6|87
+Sam Coonrod|R|Josh Bell|L|Pop Out|S|Four-Seam Fastball|6|0|0|2|2|96
+Sam Coonrod|R|Josh Bell|L|Pop Out|B|Four-Seam Fastball|7|0|1|2|3|97
+Sam Coonrod|R|Josh Bell|L|Pop Out|C|Curveball|8|1|1|2|14|84
+Sam Coonrod|R|Josh Bell|L|Pop Out|B|Changeup|9|1|2|2|8|89
+Sam Coonrod|R|Josh Bell|L|Pop Out|B|Changeup|10|2|2|2|14|88
+Sam Coonrod|R|Josh Bell|L|Pop Out|X|Curveball|11|3|2|2|12|84
+Sam Coonrod|R|Nolan Arenado|R|Single|B|Curveball|0|0|0|0|14|87
+Sam Coonrod|R|Nolan Arenado|R|Single|C|Curveball|1|1|0|0|5|87
+Sam Coonrod|R|Nolan Arenado|R|Single|F|Curveball|2|1|1|0|7|87
+Sam Coonrod|R|Nolan Arenado|R|Single|D|Changeup|3|1|2|0|13|87
+Sam Coonrod|R|Trevor Story|R|Flyout|S|Curveball|0|0|0|2|14|84
+Sam Coonrod|R|Trevor Story|R|Flyout|B|Curveball|1|0|1|2|14|89
+Sam Coonrod|R|Trevor Story|R|Flyout|B|Sinker|2|1|1|2|13|97
+Sam Coonrod|R|Trevor Story|R|Flyout|X|Curveball|3|2|1|2|9|85
+Sam Coonrod|R|Sam Hilliard|L|Strikeout|C|Four-Seam Fastball|4|0|0|0|1|96
+Sam Coonrod|R|Sam Hilliard|L|Strikeout|B|Changeup|5|0|1|0|11|87
+Sam Coonrod|R|Sam Hilliard|L|Strikeout|F|Changeup|6|1|1|0|13|87
+Sam Coonrod|R|Sam Hilliard|L|Strikeout|S|Four-Seam Fastball|7|1|2|0|3|98
+Sam Coonrod|R|Raimel Tapia|L|Strikeout|C|Four-Seam Fastball|8|0|0|1|11|97
+Sam Coonrod|R|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|9|0|1|1|11|96
+Sam Coonrod|R|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|10|0|2|1|11|97
+Sam Coonrod|R|Raimel Tapia|L|Strikeout|T|Four-Seam Fastball|11|1|2|1|6|95
+Sam Coonrod|R|Yonathan Daza|R|Double|F|Curveball|12|0|0|2|7|88
+Sam Coonrod|R|Yonathan Daza|R|Double|D|Curveball|13|0|1|2|13|86
+Sam Coonrod|R|Drew Butera|R|Pop Out|C|Sinker|14|0|0|2|8|96
+Sam Coonrod|R|Drew Butera|R|Pop Out|B|Curveball|15|0|1|2|14|88
+Sam Coonrod|R|Drew Butera|R|Pop Out|X|Sinker|16|1|1|2|13|96
+Sam Coonrod|R|Jedd Gyorko|R|Flyout|X|Sinker|0|0|0|0|4|96
+Sam Coonrod|R|Matt Beaty|L|Walk|C|Four-Seam Fastball|1|0|0|1|6|97
+Sam Coonrod|R|Matt Beaty|L|Walk|B|Changeup|2|0|1|1|14|88
+Sam Coonrod|R|Matt Beaty|L|Walk|B|Changeup|3|1|1|1|14|88
+Sam Coonrod|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|4|2|1|1|12|96
+Sam Coonrod|R|Matt Beaty|L|Walk|B|Sinker|5|3|1|1|13|96
+Sam Coonrod|R|Kristopher Negron|R|Single|*B|Curveball|6|0|0|1|14|86
+Sam Coonrod|R|Kristopher Negron|R|Single|C|Curveball|7|1|0|1|9|85
+Sam Coonrod|R|Kristopher Negron|R|Single|B|Sinker|8|1|1|1|11|97
+Sam Coonrod|R|Kristopher Negron|R|Single|B|Sinker|9|2|1|1|11|96
+Sam Coonrod|R|Kristopher Negron|R|Single|F|Sinker|10|3|1|1|11|97
+Sam Coonrod|R|Kristopher Negron|R|Single|F|Sinker|11|3|2|1|13|94
+Sam Coonrod|R|Kristopher Negron|R|Single|D|Sinker|12|3|2|1|7|96
+Sam Coonrod|R|Will Smith|R|Hit By Pitch|H|Sinker|13|0|0|1|11|96
+Sam Coonrod|R|Gavin Lux|L|Walk|B|Four-Seam Fastball|14|0|0|1|11|96
+Sam Coonrod|R|Gavin Lux|L|Walk|*B|Curveball|15|1|0|1|14|85
+Sam Coonrod|R|Gavin Lux|L|Walk|B|Four-Seam Fastball|16|2|0|1|11|96
+Sam Coonrod|R|Gavin Lux|L|Walk|C|Four-Seam Fastball|17|3|0|1|13|96
+Sam Coonrod|R|Gavin Lux|L|Walk|S|Four-Seam Fastball|18|3|1|1|1|95
+Sam Coonrod|R|Gavin Lux|L|Walk|B|Four-Seam Fastball|19|3|2|1|14|96
+Sam Coonrod|R|Yadier Molina|R|Pop Out|B|Curveball|0|0|0|0|11|86
+Sam Coonrod|R|Yadier Molina|R|Pop Out|X|Sinker|1|1|0|0|8|96
+Sam Coonrod|R|Matt Carpenter|L|Single|D|Changeup|2|0|0|1|4|89
+Sam Coonrod|R|Randy Arozarena|R|Walk|B|Sinker|3|0|0|1|11|96
+Sam Coonrod|R|Randy Arozarena|R|Walk|C|Changeup|4|1|0|1|2|88
+Sam Coonrod|R|Randy Arozarena|R|Walk|F|Changeup|5|1|1|1|7|88
+Sam Coonrod|R|Randy Arozarena|R|Walk|*B|Curveball|6|1|2|1|14|88
+Sam Coonrod|R|Randy Arozarena|R|Walk|B|Sinker|7|2|2|1|11|96
+Sam Coonrod|R|Randy Arozarena|R|Walk|B|Changeup|8|3|2|1|14|87
+Sam Coonrod|R|Dakota Hudson|R|Sac Bunt|X|Four-Seam Fastball|9|0|0|1|7|95
+Sam Coonrod|R|Tommy Edman|L|Strikeout|C|Curveball|10|0|0|2|2|87
+Sam Coonrod|R|Tommy Edman|L|Strikeout|B|Four-Seam Fastball|11|0|1|2|12|96
+Sam Coonrod|R|Tommy Edman|L|Strikeout|B|Changeup|12|1|1|2|11|88
+Sam Coonrod|R|Tommy Edman|L|Strikeout|S|Changeup|13|2|1|2|4|88
+Sam Coonrod|R|Tommy Edman|L|Strikeout|F|Four-Seam Fastball|14|2|2|2|12|96
+Sam Coonrod|R|Tommy Edman|L|Strikeout|C|Four-Seam Fastball|15|2|2|2|12|96
+Sam Coonrod|R|Scott Kingery|R|Strikeout|B|Sinker|0|0|0|2|11|95
+Sam Coonrod|R|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|1|1|0|2|12|96
+Sam Coonrod|R|Scott Kingery|R|Strikeout|S|Four-Seam Fastball|2|2|0|2|1|95
+Sam Coonrod|R|Scott Kingery|R|Strikeout|C|Four-Seam Fastball|3|2|1|2|12|96
+Sam Coonrod|R|Scott Kingery|R|Strikeout|F|Changeup|4|2|2|2|11|89
+Sam Coonrod|R|Scott Kingery|R|Strikeout|T|Four-Seam Fastball|5|2|2|2|12|96
+Sam Coonrod|R|Jean Segura|R|Single|C|Four-Seam Fastball|6|0|0|0|6|97
+Sam Coonrod|R|Jean Segura|R|Single|D|Curveball|7|0|1|0|6|87
+Sam Coonrod|R|Bryce Harper|L|Walk|S|Four-Seam Fastball|8|0|0|0|11|96
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Sinker|9|0|1|0|11|97
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Changeup|10|1|1|0|11|88
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Sinker|11|2|1|0|11|96
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|12|3|1|0|11|96
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|C|Changeup|13|0|0|0|5|87
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|B|Changeup|14|0|1|0|14|89
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|15|1|1|0|11|95
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|C|Changeup|16|2|1|0|6|89
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|F|Sinker|17|2|2|0|1|95
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|F|Changeup|18|2|2|0|5|88
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|B|Changeup|19|2|2|0|14|90
+Sam Coonrod|R|Rhys Hoskins|R|Strikeout|S|Changeup|20|3|2|0|11|87
+Sam Coonrod|R|J.T. Realmuto|R|Pop Out|B|Four-Seam Fastball|21|0|0|1|11|95
+Sam Coonrod|R|J.T. Realmuto|R|Pop Out|B|Four-Seam Fastball|22|1|0|1|11|94
+Sam Coonrod|R|J.T. Realmuto|R|Pop Out|C|Four-Seam Fastball|23|2|0|1|6|97
+Sam Coonrod|R|J.T. Realmuto|R|Pop Out|B|Changeup|24|2|1|1|14|89
+Sam Coonrod|R|J.T. Realmuto|R|Pop Out|X|Four-Seam Fastball|25|3|1|1|13|96
+Sam Coonrod|R|Andrew Knapp|L|Groundout|T|Sinker|0|0|0|0|11|96
+Sam Coonrod|R|Andrew Knapp|L|Groundout|B|Four-Seam Fastball|1|0|1|0|14|97
+Sam Coonrod|R|Andrew Knapp|L|Groundout|S|Changeup|2|1|1|0|14|89
+Sam Coonrod|R|Andrew Knapp|L|Groundout|X|Changeup|3|1|2|0|13|91
+Sam Coonrod|R|Bryce Harper|L|Walk|S|Changeup|4|0|0|1|8|89
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Changeup|5|0|1|1|11|90
+Sam Coonrod|R|Bryce Harper|L|Walk|S|Four-Seam Fastball|6|1|1|1|11|97
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|7|1|2|1|11|98
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Sinker|8|2|2|1|13|97
+Sam Coonrod|R|Bryce Harper|L|Walk|F|Sinker|9|3|2|1|7|95
+Sam Coonrod|R|Bryce Harper|L|Walk|B|Changeup|10|3|2|1|11|89
+Sam Coonrod|R|J.T. Realmuto|R|Grounded Into DP|X|Sinker|11|0|0|1|13|97
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|B|Curveball|0|0|0|0|14|87
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|C|Curveball|1|1|0|0|2|85
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|F|Sinker|2|1|1|0|13|97
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|98
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|F|Changeup|4|2|2|0|1|85
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|B|Sinker|5|2|2|0|14|95
+Sam Coonrod|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|6|3|2|0|9|97
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|B|Curveball|7|0|0|1|14|86
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|8|1|0|1|11|95
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|C|Sinker|9|2|0|1|9|94
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|B|Sinker|10|2|1|1|14|94
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|11|3|1|1|8|96
+Sam Coonrod|R|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|12|3|2|1|14|97
+Sam Coonrod|R|Josh Donaldson|R|Flyout|X|Curveball|13|0|0|1|1|86
+Sam Coonrod|R|Adam Duvall|R|Home Run|C|Curveball|14|0|0|2|6|85
+Sam Coonrod|R|Adam Duvall|R|Home Run|E|Four-Seam Fastball|15|0|1|2|11|96
+Sam Coonrod|R|Francisco Cervelli|R|Strikeout|C|Curveball|16|0|0|2|9|87
+Sam Coonrod|R|Francisco Cervelli|R|Strikeout|F|Curveball|17|0|1|2|8|88
+Sam Coonrod|R|Francisco Cervelli|R|Strikeout|B|Changeup|18|0|2|2|13|87
+Sam Coonrod|R|Francisco Cervelli|R|Strikeout|F|Curveball|19|1|2|2|8|87
+Sam Coonrod|R|Francisco Cervelli|R|Strikeout|S|Changeup|20|1|2|2|7|87
+Sam Coonrod|R|Rosell Herrera|L|Home Run|B|Sinker|0|0|0|0|11|95
+Sam Coonrod|R|Rosell Herrera|L|Home Run|F|Sinker|1|1|0|0|14|95
+Sam Coonrod|R|Rosell Herrera|L|Home Run|C|Changeup|2|1|1|0|5|87
+Sam Coonrod|R|Rosell Herrera|L|Home Run|E|Four-Seam Fastball|3|1|2|0|6|96
+Sam Coonrod|R|Garrett Cooper|R|Groundout|C|Curveball|4|0|0|0|8|84
+Sam Coonrod|R|Garrett Cooper|R|Groundout|F|Sinker|5|0|1|0|13|96
+Sam Coonrod|R|Garrett Cooper|R|Groundout|B|Curveball|6|0|2|0|14|87
+Sam Coonrod|R|Garrett Cooper|R|Groundout|B|Four-Seam Fastball|7|1|2|0|13|96
+Sam Coonrod|R|Garrett Cooper|R|Groundout|X|Curveball|8|2|2|0|2|85
+Sam Coonrod|R|Brian Anderson|R|Single|B|Four-Seam Fastball|9|0|0|1|14|96
+Sam Coonrod|R|Brian Anderson|R|Single|B|Sinker|10|1|0|1|11|94
+Sam Coonrod|R|Brian Anderson|R|Single|C|Sinker|11|2|0|1|4|94
+Sam Coonrod|R|Brian Anderson|R|Single|B|Sinker|12|2|1|1|11|94
+Sam Coonrod|R|Brian Anderson|R|Single|D|Sinker|13|3|1|1|13|94
+Sam Coonrod|R|Neil Walker|L|Walk|B|Curveball|14|0|0|1|14|84
+Sam Coonrod|R|Neil Walker|L|Walk|B|Four-Seam Fastball|15|1|0|1|14|95
+Sam Coonrod|R|Neil Walker|L|Walk|B|Four-Seam Fastball|16|2|0|1|11|95
+Sam Coonrod|R|Neil Walker|L|Walk|B|Four-Seam Fastball|17|3|0|1|13|94
+Sam Coonrod|R|Starlin Castro|R|Grounded Into DP|F|Four-Seam Fastball|18|0|0|1|13|94
+Sam Coonrod|R|Starlin Castro|R|Grounded Into DP|S|Curveball|19|0|1|1|3|82
+Sam Coonrod|R|Starlin Castro|R|Grounded Into DP|B|Curveball|20|0|2|1|14|83
+Sam Coonrod|R|Starlin Castro|R|Grounded Into DP|X|Sinker|21|1|2|1|7|93

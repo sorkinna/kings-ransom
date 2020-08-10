@@ -1,0 +1,2342 @@
+Nick Kingham|R|Matt Carpenter|L|Flyout|C|Four-Seam Fastball|0|0|0|0|8|93
+Nick Kingham|R|Matt Carpenter|L|Flyout|C|Two-Seam Fastball|1|0|1|0|8|93
+Nick Kingham|R|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|2|0|2|0|12|93
+Nick Kingham|R|Matt Carpenter|L|Flyout|X|Slider|3|1|2|0|9|84
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Slider|4|0|0|1|5|83
+Nick Kingham|R|Tommy Pham|R|Strikeout|B|Two-Seam Fastball|5|0|1|1|13|94
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|6|1|1|1|1|93
+Nick Kingham|R|Tommy Pham|R|Strikeout|F|Knuckle Curve|7|1|2|1|4|81
+Nick Kingham|R|Tommy Pham|R|Strikeout|W|Slider|8|1|2|1|14|84
+Nick Kingham|R|Paul DeJong|R|Pop Out|C|Four-Seam Fastball|9|0|0|2|6|94
+Nick Kingham|R|Paul DeJong|R|Pop Out|S|Slider|10|0|1|2|14|84
+Nick Kingham|R|Paul DeJong|R|Pop Out|X|Slider|11|0|2|2|6|86
+Nick Kingham|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|12|0|0|0|9|93
+Nick Kingham|R|Marcell Ozuna|R|Strikeout|F|Two-Seam Fastball|13|0|1|0|13|93
+Nick Kingham|R|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|14|0|2|0|11|92
+Nick Kingham|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|15|1|2|0|13|93
+Nick Kingham|R|Yadier Molina|R|Strikeout|C|Four-Seam Fastball|16|0|0|1|8|93
+Nick Kingham|R|Yadier Molina|R|Strikeout|C|Four-Seam Fastball|17|0|1|1|6|94
+Nick Kingham|R|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|18|0|2|1|11|93
+Nick Kingham|R|Yadier Molina|R|Strikeout|F|Slider|19|0|2|1|14|84
+Nick Kingham|R|Yadier Molina|R|Strikeout|T|Slider|20|0|2|1|4|83
+Nick Kingham|R|Jedd Gyorko|R|Strikeout|B|Four-Seam Fastball|21|0|0|2|14|93
+Nick Kingham|R|Jedd Gyorko|R|Strikeout|S|Slider|22|1|0|2|14|84
+Nick Kingham|R|Jedd Gyorko|R|Strikeout|F|Four-Seam Fastball|23|1|1|2|12|93
+Nick Kingham|R|Jedd Gyorko|R|Strikeout|F|Knuckle Curve|24|1|2|2|2|82
+Nick Kingham|R|Jedd Gyorko|R|Strikeout|S|Slider|25|1|2|2|8|83
+Nick Kingham|R|Greg Garcia|L|Flyout|B|Two-Seam Fastball|26|0|0|0|11|91
+Nick Kingham|R|Greg Garcia|L|Flyout|X|Four-Seam Fastball|27|1|0|0|2|92
+Nick Kingham|R|Harrison Bader|R|Lineout|B|Four-Seam Fastball|28|0|0|1|14|92
+Nick Kingham|R|Harrison Bader|R|Lineout|B|Changeup|29|1|0|1|14|85
+Nick Kingham|R|Harrison Bader|R|Lineout|C|Four-Seam Fastball|30|2|0|1|14|93
+Nick Kingham|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|31|2|1|1|6|93
+Nick Kingham|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|32|2|2|1|13|93
+Nick Kingham|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|33|2|2|1|1|92
+Nick Kingham|R|Harrison Bader|R|Lineout|B|Slider|34|2|2|1|11|83
+Nick Kingham|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|35|3|2|1|4|92
+Nick Kingham|R|Harrison Bader|R|Lineout|F|Four-Seam Fastball|36|3|2|1|5|93
+Nick Kingham|R|Harrison Bader|R|Lineout|X|Four-Seam Fastball|37|3|2|1|9|93
+Nick Kingham|R|Luke Weaver|R|Strikeout|C|Four-Seam Fastball|38|0|0|2|9|93
+Nick Kingham|R|Luke Weaver|R|Strikeout|F|Two-Seam Fastball|39|0|1|2|5|92
+Nick Kingham|R|Luke Weaver|R|Strikeout|S|Slider|40|0|2|2|13|82
+Nick Kingham|R|Matt Carpenter|L|Strikeout|C|Two-Seam Fastball|41|0|0|0|13|91
+Nick Kingham|R|Matt Carpenter|L|Strikeout|F|Changeup|42|0|1|0|8|86
+Nick Kingham|R|Matt Carpenter|L|Strikeout|B|Changeup|43|0|2|0|13|85
+Nick Kingham|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|44|1|2|0|14|92
+Nick Kingham|R|Matt Carpenter|L|Strikeout|B|Knuckle Curve|45|2|2|0|14|82
+Nick Kingham|R|Matt Carpenter|L|Strikeout|F|Two-Seam Fastball|46|3|2|0|7|92
+Nick Kingham|R|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|47|3|2|0|13|93
+Nick Kingham|R|Tommy Pham|R|Flyout|B|Four-Seam Fastball|48|0|0|1|11|93
+Nick Kingham|R|Tommy Pham|R|Flyout|X|Two-Seam Fastball|49|1|0|1|5|92
+Nick Kingham|R|Paul DeJong|R|Flyout|S|Slider|50|0|0|2|14|84
+Nick Kingham|R|Paul DeJong|R|Flyout|B|Four-Seam Fastball|51|0|1|2|14|93
+Nick Kingham|R|Paul DeJong|R|Flyout|B|Slider|52|1|1|2|14|83
+Nick Kingham|R|Paul DeJong|R|Flyout|S|Slider|53|2|1|2|14|83
+Nick Kingham|R|Paul DeJong|R|Flyout|F|Slider|54|2|2|2|5|83
+Nick Kingham|R|Paul DeJong|R|Flyout|F|Four-Seam Fastball|55|2|2|2|5|92
+Nick Kingham|R|Paul DeJong|R|Flyout|F|Slider|56|2|2|2|5|83
+Nick Kingham|R|Paul DeJong|R|Flyout|B|Four-Seam Fastball|57|2|2|2|14|92
+Nick Kingham|R|Paul DeJong|R|Flyout|F|Slider|58|3|2|2|4|82
+Nick Kingham|R|Paul DeJong|R|Flyout|X|Four-Seam Fastball|59|3|2|2|6|93
+Nick Kingham|R|Marcell Ozuna|R|Groundout|S|Slider|60|0|0|0|14|83
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|61|0|1|0|11|91
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|62|1|1|0|14|91
+Nick Kingham|R|Marcell Ozuna|R|Groundout|S|Slider|63|2|1|0|8|83
+Nick Kingham|R|Marcell Ozuna|R|Groundout|X|Four-Seam Fastball|64|2|2|0|5|91
+Nick Kingham|R|Yadier Molina|R|Groundout|C|Slider|65|0|0|1|9|82
+Nick Kingham|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|66|0|1|1|14|92
+Nick Kingham|R|Yadier Molina|R|Groundout|X|Two-Seam Fastball|67|1|1|1|8|92
+Nick Kingham|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|68|0|0|2|12|93
+Nick Kingham|R|Greg Garcia|L|Pop Out|C|Two-Seam Fastball|69|0|0|0|11|91
+Nick Kingham|R|Greg Garcia|L|Pop Out|X|Slider|70|0|1|0|5|82
+Nick Kingham|R|Harrison Bader|R|Strikeout|C|Slider|71|0|0|1|4|82
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Knuckle Curve|72|0|1|1|14|80
+Nick Kingham|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|73|0|2|1|2|91
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Slider|74|0|2|1|9|85
+Nick Kingham|R|Luke Weaver|R|Strikeout|C|Slider|75|0|0|2|13|81
+Nick Kingham|R|Luke Weaver|R|Strikeout|B|Four-Seam Fastball|76|0|1|2|14|92
+Nick Kingham|R|Luke Weaver|R|Strikeout|F|Four-Seam Fastball|77|1|1|2|12|92
+Nick Kingham|R|Luke Weaver|R|Strikeout|S|Slider|78|1|2|2|7|83
+Nick Kingham|R|Matt Carpenter|L|Lineout|B|Two-Seam Fastball|79|0|0|0|13|91
+Nick Kingham|R|Matt Carpenter|L|Lineout|X|Changeup|80|1|0|0|8|84
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Slider|81|0|0|1|14|84
+Nick Kingham|R|Tommy Pham|R|Strikeout|B|Slider|82|0|1|1|14|86
+Nick Kingham|R|Tommy Pham|R|Strikeout|T|Two-Seam Fastball|83|1|1|1|8|92
+Nick Kingham|R|Tommy Pham|R|Strikeout|F|Slider|84|1|2|1|1|85
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Knuckle Curve|85|1|2|1|7|80
+Nick Kingham|R|Paul DeJong|R|Single|B|Slider|86|0|0|2|13|85
+Nick Kingham|R|Paul DeJong|R|Single|F|Four-Seam Fastball|87|1|0|2|14|92
+Nick Kingham|R|Paul DeJong|R|Single|S|Two-Seam Fastball|88|1|1|2|13|92
+Nick Kingham|R|Paul DeJong|R|Single|F|Four-Seam Fastball|89|1|2|2|3|93
+Nick Kingham|R|Paul DeJong|R|Single|B|Knuckle Curve|90|1|2|2|13|80
+Nick Kingham|R|Paul DeJong|R|Single|D|Slider|91|2|2|2|8|85
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Slider|92|0|0|2|14|84
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Two-Seam Fastball|93|1|0|2|14|92
+Nick Kingham|R|Marcell Ozuna|R|Groundout|C|Slider|94|2|0|2|14|83
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|95|2|1|2|14|90
+Nick Kingham|R|Marcell Ozuna|R|Groundout|S|Four-Seam Fastball|96|3|1|2|3|90
+Nick Kingham|R|Marcell Ozuna|R|Groundout|X|Slider|97|3|2|2|13|83
+Nick Kingham|R|Lorenzo Cain|R|Groundout|C|Four-Seam Fastball|0|0|0|0|14|92
+Nick Kingham|R|Lorenzo Cain|R|Groundout|B|Four-Seam Fastball|1|0|1|0|13|93
+Nick Kingham|R|Lorenzo Cain|R|Groundout|B|Two-Seam Fastball|2|1|1|0|13|93
+Nick Kingham|R|Lorenzo Cain|R|Groundout|X|Slider|3|2|1|0|6|83
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|4|0|0|1|14|93
+Nick Kingham|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|5|1|0|1|13|93
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Slider|6|1|1|1|14|84
+Nick Kingham|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|7|2|1|1|12|93
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Changeup|8|2|2|1|13|85
+Nick Kingham|R|Christian Yelich|L|Strikeout|F|Changeup|9|3|2|1|2|85
+Nick Kingham|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|10|3|2|1|7|93
+Nick Kingham|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|11|0|0|2|14|93
+Nick Kingham|R|Jesus Aguilar|R|Walk|B|Knuckle Curve|12|1|0|2|14|82
+Nick Kingham|R|Jesus Aguilar|R|Walk|C|Four-Seam Fastball|13|2|0|2|7|93
+Nick Kingham|R|Jesus Aguilar|R|Walk|B|Changeup|14|2|1|2|14|86
+Nick Kingham|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|15|3|1|2|14|92
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Four-Seam Fastball|16|0|0|2|14|92
+Nick Kingham|R|Travis Shaw|L|Groundout|C|Four-Seam Fastball|17|1|0|2|4|91
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Four-Seam Fastball|18|1|1|2|12|91
+Nick Kingham|R|Travis Shaw|L|Groundout|C|Knuckle Curve|19|2|1|2|2|79
+Nick Kingham|R|Travis Shaw|L|Groundout|X|Slider|20|2|2|2|6|82
+Nick Kingham|R|Domingo Santana|R|Strikeout|C|Knuckle Curve|21|0|0|0|7|80
+Nick Kingham|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|22|0|1|0|11|93
+Nick Kingham|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|23|1|1|0|13|93
+Nick Kingham|R|Domingo Santana|R|Strikeout|S|Two-Seam Fastball|24|2|1|0|8|93
+Nick Kingham|R|Domingo Santana|R|Strikeout|F|Slider|25|2|2|0|13|84
+Nick Kingham|R|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|26|2|2|0|14|93
+Nick Kingham|R|Manny Pina|R|Home Run|E|Four-Seam Fastball|27|0|0|1|5|93
+Nick Kingham|R|Eric Sogard|L|Lineout|B|Four-Seam Fastball|28|0|0|1|13|93
+Nick Kingham|R|Eric Sogard|L|Lineout|B|Four-Seam Fastball|29|1|0|1|13|92
+Nick Kingham|R|Eric Sogard|L|Lineout|X|Four-Seam Fastball|30|2|0|1|8|93
+Nick Kingham|R|Orlando Arcia|R|Strikeout|C|Knuckle Curve|31|0|0|2|8|80
+Nick Kingham|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|32|0|1|2|13|92
+Nick Kingham|R|Orlando Arcia|R|Strikeout|C|Four-Seam Fastball|33|1|1|2|13|93
+Nick Kingham|R|Orlando Arcia|R|Strikeout|S|Slider|34|1|2|2|14|83
+Nick Kingham|R|Junior Guerra|R|Pop Out|B|Four-Seam Fastball|35|0|0|0|14|90
+Nick Kingham|R|Junior Guerra|R|Pop Out|B|Four-Seam Fastball|36|1|0|0|14|92
+Nick Kingham|R|Junior Guerra|R|Pop Out|C|Four-Seam Fastball|37|2|0|0|8|91
+Nick Kingham|R|Junior Guerra|R|Pop Out|F|Four-Seam Fastball|38|2|1|0|2|90
+Nick Kingham|R|Junior Guerra|R|Pop Out|B|Knuckle Curve|39|2|2|0|14|80
+Nick Kingham|R|Junior Guerra|R|Pop Out|X|Four-Seam Fastball|40|3|2|0|6|91
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|C|Slider|41|0|0|1|13|82
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|42|0|1|1|6|92
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|43|0|2|1|14|92
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|44|1|2|1|13|92
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|B|Changeup|45|2|2|1|13|84
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|46|3|2|1|13|92
+Nick Kingham|R|Christian Yelich|L|Groundout|C|Changeup|47|0|0|2|13|85
+Nick Kingham|R|Christian Yelich|L|Groundout|X|Four-Seam Fastball|48|0|1|2|12|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Slider|49|0|0|0|14|82
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Four-Seam Fastball|50|1|0|0|13|91
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Four-Seam Fastball|51|1|1|0|7|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Two-Seam Fastball|52|1|2|0|14|91
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Four-Seam Fastball|53|2|2|0|13|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|S|Changeup|54|3|2|0|13|84
+Nick Kingham|R|Travis Shaw|L|Double|S|Changeup|55|0|0|1|13|85
+Nick Kingham|R|Travis Shaw|L|Double|D|Changeup|56|0|1|1|11|85
+Nick Kingham|R|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|57|0|0|1|7|91
+Nick Kingham|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|58|0|1|1|13|91
+Nick Kingham|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|59|1|1|1|14|91
+Nick Kingham|R|Domingo Santana|R|Strikeout|S|Knuckle Curve|60|2|1|1|9|80
+Nick Kingham|R|Domingo Santana|R|Strikeout|B|Changeup|61|2|2|1|14|84
+Nick Kingham|R|Domingo Santana|R|Strikeout|S|Changeup|62|3|2|1|7|84
+Nick Kingham|R|Manny Pina|R|Groundout|C|Four-Seam Fastball|63|0|0|2|4|91
+Nick Kingham|R|Manny Pina|R|Groundout|C|Four-Seam Fastball|64|0|1|2|11|91
+Nick Kingham|R|Manny Pina|R|Groundout|B|Knuckle Curve|65|0|2|2|14|81
+Nick Kingham|R|Manny Pina|R|Groundout|X|Four-Seam Fastball|66|1|2|2|9|92
+Nick Kingham|R|Eric Sogard|L|Lineout|C|Cutter|67|0|0|0|13|89
+Nick Kingham|R|Eric Sogard|L|Lineout|B|Four-Seam Fastball|68|0|1|0|14|91
+Nick Kingham|R|Eric Sogard|L|Lineout|B|Knuckle Curve|69|1|1|0|11|78
+Nick Kingham|R|Eric Sogard|L|Lineout|F|Two-Seam Fastball|70|2|1|0|7|90
+Nick Kingham|R|Eric Sogard|L|Lineout|X|Changeup|71|2|2|0|7|84
+Nick Kingham|R|Orlando Arcia|R|Groundout|X|Two-Seam Fastball|72|0|0|1|8|91
+Nick Kingham|R|Jonathan Villar|L|Single|B|Four-Seam Fastball|73|0|0|2|13|92
+Nick Kingham|R|Jonathan Villar|L|Single|C|Four-Seam Fastball|74|1|0|2|2|91
+Nick Kingham|R|Jonathan Villar|L|Single|B|Four-Seam Fastball|75|1|1|2|14|92
+Nick Kingham|R|Jonathan Villar|L|Single|D|Changeup|76|2|1|2|13|84
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|77|0|0|2|2|91
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|S|Four-Seam Fastball|78|0|1|2|14|90
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|79|0|2|2|14|90
+Nick Kingham|R|Lorenzo Cain|R|Strikeout|T|Cutter|80|1|2|2|14|90
+Nick Kingham|R|Christian Yelich|L|Double|C|Two-Seam Fastball|81|0|0|0|1|89
+Nick Kingham|R|Christian Yelich|L|Double|B|Four-Seam Fastball|82|0|1|0|13|91
+Nick Kingham|R|Christian Yelich|L|Double|D|Slider|83|1|1|0|8|82
+Nick Kingham|R|Jesus Aguilar|R|Single|S|Slider|84|0|0|0|6|80
+Nick Kingham|R|Jesus Aguilar|R|Single|B|Four-Seam Fastball|85|0|1|0|14|91
+Nick Kingham|R|Jesus Aguilar|R|Single|B|Four-Seam Fastball|86|1|1|0|13|90
+Nick Kingham|R|Jesus Aguilar|R|Single|E|Four-Seam Fastball|87|2|1|0|6|91
+Nick Kingham|R|Travis Shaw|L|Pop Out|X|Four-Seam Fastball|88|0|0|0|14|91
+Nick Kingham|R|Domingo Santana|R|Home Run|W|Slider|89|0|0|1|14|83
+Nick Kingham|R|Domingo Santana|R|Home Run|F|Four-Seam Fastball|90|0|1|1|8|90
+Nick Kingham|R|Domingo Santana|R|Home Run|E|Slider|91|0|2|1|5|82
+Nick Kingham|R|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|0|0|0|0|6|92
+Nick Kingham|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|1|0|0|1|13|93
+Nick Kingham|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|2|1|0|1|11|93
+Nick Kingham|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|3|2|0|1|11|92
+Nick Kingham|R|Eric Hosmer|L|Walk|C|Four-Seam Fastball|4|3|0|1|3|93
+Nick Kingham|R|Eric Hosmer|L|Walk|C|Slider|5|3|1|1|14|85
+Nick Kingham|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|6|3|2|1|13|94
+Nick Kingham|R|Franchy Cordero|L|Double|B|Four-Seam Fastball|7|0|0|1|12|92
+Nick Kingham|R|Franchy Cordero|L|Double|C|Four-Seam Fastball|8|1|0|1|7|92
+Nick Kingham|R|Franchy Cordero|L|Double|D|Four-Seam Fastball|9|1|1|1|12|91
+Nick Kingham|R|Jose Pirela|R|Double|B|Knuckle Curve|10|0|0|1|11|79
+Nick Kingham|R|Jose Pirela|R|Double|E|Two-Seam Fastball|11|1|0|1|7|92
+Nick Kingham|R|Christian Villanueva|R|Double|F|Slider|12|0|0|1|6|83
+Nick Kingham|R|Christian Villanueva|R|Double|B|Four-Seam Fastball|13|0|1|1|11|92
+Nick Kingham|R|Christian Villanueva|R|Double|E|Two-Seam Fastball|14|1|1|1|7|92
+Nick Kingham|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|15|0|0|1|11|92
+Nick Kingham|R|Freddy Galvis|L|Strikeout|B|Changeup|16|0|1|1|11|83
+Nick Kingham|R|Freddy Galvis|L|Strikeout|F|Changeup|17|1|1|1|1|83
+Nick Kingham|R|Freddy Galvis|L|Strikeout|F|Knuckle Curve|18|1|2|1|5|79
+Nick Kingham|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|19|1|2|1|12|91
+Nick Kingham|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|20|2|2|1|11|92
+Nick Kingham|R|Freddy Galvis|L|Strikeout|F|Changeup|21|3|2|1|13|84
+Nick Kingham|R|Freddy Galvis|L|Strikeout|T|Slider|22|3|2|1|11|81
+Nick Kingham|R|Franmil Reyes|R|Flyout|C|Four-Seam Fastball|23|0|0|2|13|92
+Nick Kingham|R|Franmil Reyes|R|Flyout|B|Four-Seam Fastball|24|0|1|2|13|92
+Nick Kingham|R|Franmil Reyes|R|Flyout|X|Four-Seam Fastball|25|1|1|2|8|92
+Nick Kingham|R|Raffy Lopez|L|Strikeout|F|Four-Seam Fastball|26|0|0|0|5|92
+Nick Kingham|R|Raffy Lopez|L|Strikeout|F|Four-Seam Fastball|27|0|1|0|12|92
+Nick Kingham|R|Raffy Lopez|L|Strikeout|S|Four-Seam Fastball|28|0|2|0|12|92
+Nick Kingham|R|Clayton Richard|L|Groundout|S|Four-Seam Fastball|29|0|0|1|14|93
+Nick Kingham|R|Clayton Richard|L|Groundout|X|Four-Seam Fastball|30|0|1|1|11|92
+Nick Kingham|R|Travis Jankowski|L|Single|C|Four-Seam Fastball|31|0|0|2|5|92
+Nick Kingham|R|Travis Jankowski|L|Single|C|Knuckle Curve|32|0|1|2|7|80
+Nick Kingham|R|Travis Jankowski|L|Single|F|Four-Seam Fastball|33|0|2|2|1|93
+Nick Kingham|R|Travis Jankowski|L|Single|D|Knuckle Curve|34|0|2|2|4|80
+Nick Kingham|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|35|0|0|2|14|91
+Nick Kingham|R|Eric Hosmer|L|Strikeout|F|Two-Seam Fastball|36|1|0|2|13|90
+Nick Kingham|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|37|1|1|2|6|90
+Nick Kingham|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|38|1|2|2|4|90
+Nick Kingham|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|39|1|2|2|12|90
+Nick Kingham|R|Eric Hosmer|L|Strikeout|B|Slider|40|2|2|2|14|82
+Nick Kingham|R|Eric Hosmer|L|Strikeout|S|Changeup|41|3|2|2|7|85
+Nick Kingham|R|Franchy Cordero|L|Strikeout|F|Changeup|42|0|0|0|13|84
+Nick Kingham|R|Franchy Cordero|L|Strikeout|B|Knuckle Curve|43|0|1|0|11|78
+Nick Kingham|R|Franchy Cordero|L|Strikeout|F|Changeup|44|1|1|0|13|84
+Nick Kingham|R|Franchy Cordero|L|Strikeout|F|Slider|45|1|2|0|6|83
+Nick Kingham|R|Franchy Cordero|L|Strikeout|B|Four-Seam Fastball|46|1|2|0|12|92
+Nick Kingham|R|Franchy Cordero|L|Strikeout|B|Four-Seam Fastball|47|2|2|0|13|92
+Nick Kingham|R|Franchy Cordero|L|Strikeout|S|Changeup|48|3|2|0|14|84
+Nick Kingham|R|Jose Pirela|R|Flyout|B|Slider|49|0|0|1|14|85
+Nick Kingham|R|Jose Pirela|R|Flyout|B|Four-Seam Fastball|50|1|0|1|14|93
+Nick Kingham|R|Jose Pirela|R|Flyout|S|Changeup|51|2|0|1|14|85
+Nick Kingham|R|Jose Pirela|R|Flyout|S|Slider|52|2|1|1|14|84
+Nick Kingham|R|Jose Pirela|R|Flyout|B|Changeup|53|2|2|1|14|85
+Nick Kingham|R|Jose Pirela|R|Flyout|X|Changeup|54|3|2|1|7|85
+Nick Kingham|R|Christian Villanueva|R|Strikeout|B|Knuckle Curve|55|0|0|2|14|81
+Nick Kingham|R|Christian Villanueva|R|Strikeout|F|Four-Seam Fastball|56|1|0|2|7|93
+Nick Kingham|R|Christian Villanueva|R|Strikeout|B|Changeup|57|1|1|2|13|86
+Nick Kingham|R|Christian Villanueva|R|Strikeout|F|Changeup|58|2|1|2|14|86
+Nick Kingham|R|Christian Villanueva|R|Strikeout|S|Knuckle Curve|59|2|2|2|14|80
+Nick Kingham|R|Freddy Galvis|L|Groundout|B|Slider|60|0|0|0|11|82
+Nick Kingham|R|Freddy Galvis|L|Groundout|C|Four-Seam Fastball|61|1|0|0|5|90
+Nick Kingham|R|Freddy Galvis|L|Groundout|X|Two-Seam Fastball|62|1|1|0|8|90
+Nick Kingham|R|Franmil Reyes|R|Single|C|Slider|63|0|0|1|14|84
+Nick Kingham|R|Franmil Reyes|R|Single|B|Four-Seam Fastball|64|0|1|1|14|91
+Nick Kingham|R|Franmil Reyes|R|Single|B|Knuckle Curve|65|1|1|1|13|80
+Nick Kingham|R|Franmil Reyes|R|Single|D|Slider|66|2|1|1|5|84
+Nick Kingham|R|Raffy Lopez|L|Flyout|X|Four-Seam Fastball|67|0|0|1|9|91
+Nick Kingham|R|Clayton Richard|L|Groundout|C|Four-Seam Fastball|68|0|0|2|4|91
+Nick Kingham|R|Clayton Richard|L|Groundout|S|Two-Seam Fastball|69|0|1|2|13|90
+Nick Kingham|R|Clayton Richard|L|Groundout|X|Four-Seam Fastball|70|0|2|2|8|91
+Nick Kingham|R|Travis Jankowski|L|Groundout|C|Four-Seam Fastball|71|0|0|0|4|90
+Nick Kingham|R|Travis Jankowski|L|Groundout|C|Changeup|72|0|1|0|7|84
+Nick Kingham|R|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|73|0|2|0|12|91
+Nick Kingham|R|Travis Jankowski|L|Groundout|F|Four-Seam Fastball|74|1|2|0|12|90
+Nick Kingham|R|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|75|1|2|0|13|93
+Nick Kingham|R|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|76|2|2|0|14|91
+Nick Kingham|R|Eric Hosmer|L|Groundout|B|Changeup|77|0|0|1|13|84
+Nick Kingham|R|Eric Hosmer|L|Groundout|B|Four-Seam Fastball|78|1|0|1|12|91
+Nick Kingham|R|Eric Hosmer|L|Groundout|B|Changeup|79|2|0|1|13|83
+Nick Kingham|R|Eric Hosmer|L|Groundout|C|Two-Seam Fastball|80|3|0|1|14|91
+Nick Kingham|R|Eric Hosmer|L|Groundout|C|Two-Seam Fastball|81|3|1|1|11|91
+Nick Kingham|R|Eric Hosmer|L|Groundout|F|Four-Seam Fastball|82|3|2|1|9|92
+Nick Kingham|R|Eric Hosmer|L|Groundout|X|Two-Seam Fastball|83|3|2|1|7|91
+Nick Kingham|R|Franchy Cordero|L|Groundout|S|Changeup|84|0|0|2|13|83
+Nick Kingham|R|Franchy Cordero|L|Groundout|B|Four-Seam Fastball|85|0|1|2|14|91
+Nick Kingham|R|Franchy Cordero|L|Groundout|X|Two-Seam Fastball|86|1|1|2|8|92
+Nick Kingham|R|Jose Pirela|R|Lineout|C|Two-Seam Fastball|87|0|0|0|9|92
+Nick Kingham|R|Jose Pirela|R|Lineout|F|Four-Seam Fastball|88|0|1|0|14|91
+Nick Kingham|R|Jose Pirela|R|Lineout|B|Four-Seam Fastball|89|0|2|0|12|91
+Nick Kingham|R|Jose Pirela|R|Lineout|B|Two-Seam Fastball|90|1|2|0|14|91
+Nick Kingham|R|Jose Pirela|R|Lineout|X|Slider|91|2|2|0|5|83
+Nick Kingham|R|Christian Villanueva|R|Groundout|B|Knuckle Curve|92|0|0|1|13|79
+Nick Kingham|R|Christian Villanueva|R|Groundout|B|Four-Seam Fastball|93|1|0|1|14|93
+Nick Kingham|R|Christian Villanueva|R|Groundout|X|Slider|94|2|0|1|9|84
+Nick Kingham|R|Freddy Galvis|L|Groundout|B|Two-Seam Fastball|95|0|0|2|13|91
+Nick Kingham|R|Freddy Galvis|L|Groundout|B|Changeup|96|1|0|2|14|84
+Nick Kingham|R|Freddy Galvis|L|Groundout|X|Two-Seam Fastball|97|2|0|2|13|91
+Nick Kingham|R|Ben Zobrist|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|93
+Nick Kingham|R|Ben Zobrist|L|Flyout|C|Two-Seam Fastball|1|1|0|0|4|93
+Nick Kingham|R|Ben Zobrist|L|Flyout|B|Changeup|2|1|1|0|13|84
+Nick Kingham|R|Ben Zobrist|L|Flyout|F|Two-Seam Fastball|3|2|1|0|8|92
+Nick Kingham|R|Ben Zobrist|L|Flyout|X|Two-Seam Fastball|4|2|2|0|6|93
+Nick Kingham|R|Kyle Schwarber|L|Groundout|C|Four-Seam Fastball|5|0|0|1|7|93
+Nick Kingham|R|Kyle Schwarber|L|Groundout|X|Four-Seam Fastball|6|0|1|1|12|94
+Nick Kingham|R|Kris Bryant|R|Single|B|Four-Seam Fastball|7|0|0|2|14|93
+Nick Kingham|R|Kris Bryant|R|Single|D|Two-Seam Fastball|8|1|0|2|5|93
+Nick Kingham|R|Anthony Rizzo|L|Double|B|Four-Seam Fastball|9|0|0|2|14|92
+Nick Kingham|R|Anthony Rizzo|L|Double|C|Changeup|10|1|0|2|9|85
+Nick Kingham|R|Anthony Rizzo|L|Double|D|Four-Seam Fastball|11|1|1|2|5|92
+Nick Kingham|R|Willson Contreras|R|Hit By Pitch|S|Slider|12|0|0|2|2|83
+Nick Kingham|R|Willson Contreras|R|Hit By Pitch|H|Four-Seam Fastball|13|0|1|2|11|92
+Nick Kingham|R|Ian Happ|L|Flyout|X|Four-Seam Fastball|14|0|0|2|5|93
+Nick Kingham|R|Addison Russell|R|Flyout|F|Four-Seam Fastball|15|0|0|0|12|92
+Nick Kingham|R|Addison Russell|R|Flyout|F|Four-Seam Fastball|16|0|1|0|4|92
+Nick Kingham|R|Addison Russell|R|Flyout|X|Knuckle Curve|17|0|2|0|12|81
+Nick Kingham|R|Jason Heyward|L|Single|B|Four-Seam Fastball|18|0|0|1|14|92
+Nick Kingham|R|Jason Heyward|L|Single|B|Four-Seam Fastball|19|1|0|1|11|93
+Nick Kingham|R|Jason Heyward|L|Single|D|Two-Seam Fastball|20|2|0|1|5|92
+Nick Kingham|R|Jon Lester|L|Strikeout Double Play|L|Four-Seam Fastball|21|0|0|1|11|92
+Nick Kingham|R|Jon Lester|L|Strikeout Double Play|C|Four-Seam Fastball|22|0|1|1|7|92
+Nick Kingham|R|Jon Lester|L|Strikeout Double Play|S|Slider|23|0|2|1|14|83
+Nick Kingham|R|Ben Zobrist|L|Strikeout|C|Slider|24|0|0|0|6|84
+Nick Kingham|R|Ben Zobrist|L|Strikeout|S|Changeup|25|0|1|0|8|84
+Nick Kingham|R|Ben Zobrist|L|Strikeout|B|Changeup|26|0|2|0|13|84
+Nick Kingham|R|Ben Zobrist|L|Strikeout|B|Slider|27|1|2|0|12|84
+Nick Kingham|R|Ben Zobrist|L|Strikeout|S|Four-Seam Fastball|28|2|2|0|14|93
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|C|Slider|29|0|0|1|6|84
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|30|0|1|1|11|93
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|S|Slider|31|1|1|1|8|85
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|32|1|2|1|13|93
+Nick Kingham|R|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|33|0|0|2|9|94
+Nick Kingham|R|Kris Bryant|R|Strikeout|B|Cutter|34|0|1|2|14|87
+Nick Kingham|R|Kris Bryant|R|Strikeout|B|Four-Seam Fastball|35|1|1|2|14|93
+Nick Kingham|R|Kris Bryant|R|Strikeout|S|Changeup|36|2|1|2|9|86
+Nick Kingham|R|Kris Bryant|R|Strikeout|F|Four-Seam Fastball|37|2|2|2|5|93
+Nick Kingham|R|Kris Bryant|R|Strikeout|B|Cutter|38|2|2|2|14|87
+Nick Kingham|R|Kris Bryant|R|Strikeout|S|Slider|39|3|2|2|11|84
+Nick Kingham|R|Anthony Rizzo|L|Pop Out|X|Changeup|40|0|0|0|11|84
+Nick Kingham|R|Willson Contreras|R|Walk|B|Four-Seam Fastball|41|0|0|1|12|92
+Nick Kingham|R|Willson Contreras|R|Walk|B|Slider|42|1|0|1|14|86
+Nick Kingham|R|Willson Contreras|R|Walk|B|Slider|43|2|0|1|14|85
+Nick Kingham|R|Willson Contreras|R|Walk|B|Two-Seam Fastball|44|3|0|1|8|92
+Nick Kingham|R|Ian Happ|L|Pop Out|C|Two-Seam Fastball|45|0|0|1|8|91
+Nick Kingham|R|Ian Happ|L|Pop Out|F|Two-Seam Fastball|46|0|1|1|5|91
+Nick Kingham|R|Ian Happ|L|Pop Out|B|Four-Seam Fastball|47|0|2|1|12|91
+Nick Kingham|R|Ian Happ|L|Pop Out|X|Slider|48|1|2|1|5|83
+Nick Kingham|R|Addison Russell|R|Flyout|B|Four-Seam Fastball|49|0|0|2|12|91
+Nick Kingham|R|Addison Russell|R|Flyout|S|Two-Seam Fastball|50|1|0|2|13|91
+Nick Kingham|R|Addison Russell|R|Flyout|X|Two-Seam Fastball|51|1|1|2|4|91
+Nick Kingham|R|Jason Heyward|L|Flyout|C|Slider|52|0|0|0|4|84
+Nick Kingham|R|Jason Heyward|L|Flyout|B|Four-Seam Fastball|53|0|1|0|12|91
+Nick Kingham|R|Jason Heyward|L|Flyout|B|Slider|54|1|1|0|13|84
+Nick Kingham|R|Jason Heyward|L|Flyout|S|Two-Seam Fastball|55|2|1|0|13|91
+Nick Kingham|R|Jason Heyward|L|Flyout|F|Four-Seam Fastball|56|2|2|0|1|91
+Nick Kingham|R|Jason Heyward|L|Flyout|B|Four-Seam Fastball|57|2|2|0|14|92
+Nick Kingham|R|Jason Heyward|L|Flyout|F|Two-Seam Fastball|58|3|2|0|11|92
+Nick Kingham|R|Jason Heyward|L|Flyout|F|Four-Seam Fastball|59|3|2|0|6|92
+Nick Kingham|R|Jason Heyward|L|Flyout|X|Slider|60|3|2|0|5|83
+Nick Kingham|R|Jon Lester|L|Single|B|Two-Seam Fastball|61|0|0|1|11|91
+Nick Kingham|R|Jon Lester|L|Single|D|Two-Seam Fastball|62|1|0|1|8|92
+Nick Kingham|R|Ben Zobrist|L|Home Run|F|Slider|63|0|0|1|6|85
+Nick Kingham|R|Ben Zobrist|L|Home Run|F|Four-Seam Fastball|64|0|1|1|12|92
+Nick Kingham|R|Ben Zobrist|L|Home Run|E|Slider|65|0|2|1|5|83
+Nick Kingham|R|Kyle Schwarber|L|Double|C|Four-Seam Fastball|66|0|0|1|13|91
+Nick Kingham|R|Kyle Schwarber|L|Double|B|Knuckle Curve|67|0|1|1|13|80
+Nick Kingham|R|Kyle Schwarber|L|Double|D|Four-Seam Fastball|68|1|1|1|5|92
+Nick Kingham|R|Kris Bryant|R|Pop Out|F|Slider|69|0|0|1|6|84
+Nick Kingham|R|Kris Bryant|R|Pop Out|X|Four-Seam Fastball|70|0|1|1|2|91
+Nick Kingham|R|Anthony Rizzo|L|Intent Walk|V|N/A|71|0|0|2|0|0
+Nick Kingham|R|Anthony Rizzo|L|Intent Walk|V|N/A|72|0|1|2|0|0
+Nick Kingham|R|Anthony Rizzo|L|Intent Walk|V|N/A|73|0|2|2|0|0
+Nick Kingham|R|Anthony Rizzo|L|Intent Walk|V|N/A|74|0|2|2|0|0
+Nick Kingham|R|Willson Contreras|R|Pop Out|X|Slider|75|0|0|2|6|83
+Nick Kingham|R|Ian Happ|L|Flyout|B|Two-Seam Fastball|76|0|0|0|11|90
+Nick Kingham|R|Ian Happ|L|Flyout|S|Changeup|77|1|0|0|13|83
+Nick Kingham|R|Ian Happ|L|Flyout|S|Changeup|78|1|1|0|13|83
+Nick Kingham|R|Ian Happ|L|Flyout|B|Four-Seam Fastball|79|1|2|0|12|91
+Nick Kingham|R|Ian Happ|L|Flyout|X|Changeup|80|2|2|0|5|84
+Nick Kingham|R|Addison Russell|R|Groundout|C|Two-Seam Fastball|81|0|0|1|13|91
+Nick Kingham|R|Addison Russell|R|Groundout|B|Four-Seam Fastball|82|0|1|1|1|91
+Nick Kingham|R|Addison Russell|R|Groundout|F|Two-Seam Fastball|83|1|1|1|13|91
+Nick Kingham|R|Addison Russell|R|Groundout|X|Slider|84|1|2|1|9|85
+Nick Kingham|R|Jason Heyward|L|Double|F|Two-Seam Fastball|85|0|0|2|7|91
+Nick Kingham|R|Jason Heyward|L|Double|D|Four-Seam Fastball|86|0|1|2|6|91
+Nick Kingham|R|Jon Lester|L|Single|E|Slider|87|0|0|2|8|83
+Nick Kingham|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|92
+Nick Kingham|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|93
+Nick Kingham|R|Matt Carpenter|L|Walk|C|Four-Seam Fastball|2|2|0|0|13|92
+Nick Kingham|R|Matt Carpenter|L|Walk|B|Slider|3|2|1|0|11|85
+Nick Kingham|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|4|3|1|0|13|92
+Nick Kingham|R|Tommy Pham|R|Single|C|Knuckle Curve|5|0|0|0|2|80
+Nick Kingham|R|Tommy Pham|R|Single|D|Two-Seam Fastball|6|0|1|0|8|93
+Nick Kingham|R|Jose Martinez|R|Field Error|D|Four-Seam Fastball|7|0|0|0|6|92
+Nick Kingham|R|Marcell Ozuna|R|Home Run|E|Slider|8|0|0|0|5|85
+Nick Kingham|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|9|0|0|0|4|94
+Nick Kingham|R|Harrison Bader|R|Strikeout|B|Four-Seam Fastball|10|0|1|0|13|93
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Changeup|11|1|1|0|13|86
+Nick Kingham|R|Harrison Bader|R|Strikeout|B|Changeup|12|1|2|0|13|84
+Nick Kingham|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|13|2|2|0|14|94
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Slider|14|2|2|0|14|85
+Nick Kingham|R|Yairo Munoz|R|Flyout|B|Knuckle Curve|15|0|0|1|14|82
+Nick Kingham|R|Yairo Munoz|R|Flyout|B|Four-Seam Fastball|16|1|0|1|13|93
+Nick Kingham|R|Yairo Munoz|R|Flyout|X|Four-Seam Fastball|17|2|0|1|3|93
+Nick Kingham|R|Kolten Wong|L|Flyout|X|Four-Seam Fastball|18|0|0|2|1|93
+Nick Kingham|R|Francisco Pena|R|Flyout|X|Four-Seam Fastball|19|0|0|0|3|92
+Nick Kingham|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|20|0|0|1|8|92
+Nick Kingham|R|Michael Wacha|R|Strikeout|B|Four-Seam Fastball|21|0|1|1|13|93
+Nick Kingham|R|Michael Wacha|R|Strikeout|F|Two-Seam Fastball|22|1|1|1|7|91
+Nick Kingham|R|Michael Wacha|R|Strikeout|B|Knuckle Curve|23|1|2|1|14|81
+Nick Kingham|R|Michael Wacha|R|Strikeout|B|Four-Seam Fastball|24|2|2|1|14|93
+Nick Kingham|R|Michael Wacha|R|Strikeout|S|Two-Seam Fastball|25|3|2|1|13|92
+Nick Kingham|R|Matt Carpenter|L|Flyout|C|Four-Seam Fastball|26|0|0|2|13|93
+Nick Kingham|R|Matt Carpenter|L|Flyout|B|Changeup|27|0|1|2|11|83
+Nick Kingham|R|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|28|1|1|2|3|93
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|29|0|0|0|5|91
+Nick Kingham|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|30|0|1|0|13|92
+Nick Kingham|R|Tommy Pham|R|Strikeout|T|Changeup|31|0|2|0|13|84
+Nick Kingham|R|Jose Martinez|R|Lineout|B|Four-Seam Fastball|32|0|0|1|13|93
+Nick Kingham|R|Jose Martinez|R|Lineout|B|Slider|33|1|0|1|14|85
+Nick Kingham|R|Jose Martinez|R|Lineout|S|Two-Seam Fastball|34|2|0|1|13|93
+Nick Kingham|R|Jose Martinez|R|Lineout|X|Four-Seam Fastball|35|2|1|1|14|93
+Nick Kingham|R|Marcell Ozuna|R|Flyout|C|Four-Seam Fastball|36|0|0|2|9|94
+Nick Kingham|R|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|37|0|1|2|13|93
+Nick Kingham|R|Marcell Ozuna|R|Flyout|S|Changeup|38|1|1|2|13|85
+Nick Kingham|R|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|39|1|2|2|12|92
+Nick Kingham|R|Marcell Ozuna|R|Flyout|B|Two-Seam Fastball|40|2|2|2|14|93
+Nick Kingham|R|Marcell Ozuna|R|Flyout|X|Changeup|41|3|2|2|7|85
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Slider|42|0|0|0|14|83
+Nick Kingham|R|Harrison Bader|R|Strikeout|S|Changeup|43|0|1|0|7|84
+Nick Kingham|R|Harrison Bader|R|Strikeout|F|Slider|44|0|2|0|14|84
+Nick Kingham|R|Harrison Bader|R|Strikeout|B|Slider|45|0|2|0|14|84
+Nick Kingham|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|46|1|2|0|12|92
+Nick Kingham|R|Harrison Bader|R|Strikeout|B|Changeup|47|1|2|0|13|85
+Nick Kingham|R|Harrison Bader|R|Strikeout|B|Changeup|48|2|2|0|14|85
+Nick Kingham|R|Harrison Bader|R|Strikeout|W|Slider|49|3|2|0|14|85
+Nick Kingham|R|Yairo Munoz|R|Strikeout|F|Two-Seam Fastball|50|0|0|1|7|93
+Nick Kingham|R|Yairo Munoz|R|Strikeout|B|Slider|51|0|1|1|14|84
+Nick Kingham|R|Yairo Munoz|R|Strikeout|F|Two-Seam Fastball|52|1|1|1|13|92
+Nick Kingham|R|Yairo Munoz|R|Strikeout|C|Changeup|53|1|2|1|11|85
+Nick Kingham|R|Kolten Wong|L|Single|C|Four-Seam Fastball|54|0|0|2|4|92
+Nick Kingham|R|Kolten Wong|L|Single|B|Four-Seam Fastball|55|0|1|2|14|92
+Nick Kingham|R|Kolten Wong|L|Single|B|Changeup|56|1|1|2|13|85
+Nick Kingham|R|Kolten Wong|L|Single|F|Changeup|57|2|1|2|11|83
+Nick Kingham|R|Kolten Wong|L|Single|B|Changeup|58|2|2|2|13|83
+Nick Kingham|R|Kolten Wong|L|Single|D|Four-Seam Fastball|59|3|2|2|3|92
+Nick Kingham|R|Francisco Pena|R|Groundout|B|Four-Seam Fastball|60|0|0|2|12|92
+Nick Kingham|R|Francisco Pena|R|Groundout|C|Two-Seam Fastball|61|1|0|2|14|91
+Nick Kingham|R|Francisco Pena|R|Groundout|X|Two-Seam Fastball|62|1|1|2|7|91
+Nick Kingham|R|Michael Wacha|R|Groundout|C|Four-Seam Fastball|63|0|0|0|5|91
+Nick Kingham|R|Michael Wacha|R|Groundout|B|Slider|64|0|1|0|14|83
+Nick Kingham|R|Michael Wacha|R|Groundout|C|Two-Seam Fastball|65|1|1|0|8|90
+Nick Kingham|R|Michael Wacha|R|Groundout|F|Four-Seam Fastball|66|1|2|0|5|90
+Nick Kingham|R|Michael Wacha|R|Groundout|B|Slider|67|1|2|0|14|83
+Nick Kingham|R|Michael Wacha|R|Groundout|X|Two-Seam Fastball|68|2|2|0|5|91
+Nick Kingham|R|Matt Carpenter|L|Pop Out|B|Two-Seam Fastball|69|0|0|1|14|91
+Nick Kingham|R|Matt Carpenter|L|Pop Out|B|Four-Seam Fastball|70|1|0|1|13|91
+Nick Kingham|R|Matt Carpenter|L|Pop Out|C|Four-Seam Fastball|71|2|0|1|13|91
+Nick Kingham|R|Matt Carpenter|L|Pop Out|X|Changeup|72|2|1|1|7|83
+Nick Kingham|R|Tommy Pham|R|Single|S|Slider|73|0|0|2|14|85
+Nick Kingham|R|Tommy Pham|R|Single|C|Changeup|74|0|1|2|13|84
+Nick Kingham|R|Tommy Pham|R|Single|D|Four-Seam Fastball|75|0|2|2|2|92
+Nick Kingham|R|Jose Martinez|R|Field Error|B|Two-Seam Fastball|76|0|0|2|14|90
+Nick Kingham|R|Jose Martinez|R|Field Error|*B|Two-Seam Fastball|77|1|0|2|14|91
+Nick Kingham|R|Jose Martinez|R|Field Error|D|Two-Seam Fastball|78|2|0|2|5|90
+Nick Kingham|R|Marcell Ozuna|R|Groundout|B|Two-Seam Fastball|79|0|0|2|14|91
+Nick Kingham|R|Marcell Ozuna|R|Groundout|X|Two-Seam Fastball|80|1|0|2|4|90
+Nick Kingham|R|Kris Bryant|R|Hit By Pitch|C|Four-Seam Fastball|0|0|0|0|2|93
+Nick Kingham|R|Kris Bryant|R|Hit By Pitch|H|Four-Seam Fastball|1|0|1|0|11|93
+Nick Kingham|R|Jason Heyward|L|Double|D|Two-Seam Fastball|2|0|0|0|4|92
+Nick Kingham|R|Ben Zobrist|L|Groundout|E|Four-Seam Fastball|3|0|0|0|12|92
+Nick Kingham|R|Anthony Rizzo|L|Sac Fly|C|Four-Seam Fastball|4|0|0|1|2|92
+Nick Kingham|R|Anthony Rizzo|L|Sac Fly|E|Slider|5|0|1|1|5|83
+Nick Kingham|R|Willson Contreras|R|Strikeout|C|Two-Seam Fastball|6|0|0|2|7|93
+Nick Kingham|R|Willson Contreras|R|Strikeout|C|Four-Seam Fastball|7|0|1|2|7|94
+Nick Kingham|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|8|0|2|2|11|93
+Nick Kingham|R|Kyle Schwarber|L|Walk|B|Knuckle Curve|9|0|0|0|11|77
+Nick Kingham|R|Kyle Schwarber|L|Walk|B|Changeup|10|1|0|0|11|84
+Nick Kingham|R|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|11|2|0|0|13|92
+Nick Kingham|R|Kyle Schwarber|L|Walk|F|Four-Seam Fastball|12|2|1|0|1|92
+Nick Kingham|R|Kyle Schwarber|L|Walk|F|Changeup|13|2|2|0|13|85
+Nick Kingham|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|14|2|2|0|12|93
+Nick Kingham|R|Kyle Schwarber|L|Walk|B|Two-Seam Fastball|15|3|2|0|11|92
+Nick Kingham|R|Ian Happ|L|Walk|C|Four-Seam Fastball|16|0|0|0|14|92
+Nick Kingham|R|Ian Happ|L|Walk|B|Four-Seam Fastball|17|0|1|0|14|92
+Nick Kingham|R|Ian Happ|L|Walk|B|Changeup|18|1|1|0|11|82
+Nick Kingham|R|Ian Happ|L|Walk|F|Slider|19|2|1|0|1|83
+Nick Kingham|R|Ian Happ|L|Walk|B|Four-Seam Fastball|20|2|2|0|12|92
+Nick Kingham|R|Ian Happ|L|Walk|B|Changeup|21|3|2|0|11|83
+Nick Kingham|R|Addison Russell|R|Strikeout|S|Knuckle Curve|22|0|0|0|14|78
+Nick Kingham|R|Addison Russell|R|Strikeout|S|Slider|23|0|1|0|14|84
+Nick Kingham|R|Addison Russell|R|Strikeout|F|Knuckle Curve|24|0|2|0|14|80
+Nick Kingham|R|Addison Russell|R|Strikeout|S|Changeup|25|0|2|0|13|83
+Nick Kingham|R|Jon Lester|L|Strikeout|B|Two-Seam Fastball|26|0|0|1|11|91
+Nick Kingham|R|Jon Lester|L|Strikeout|B|Two-Seam Fastball|27|1|0|1|11|91
+Nick Kingham|R|Jon Lester|L|Strikeout|C|Four-Seam Fastball|28|2|0|1|7|92
+Nick Kingham|R|Jon Lester|L|Strikeout|F|Two-Seam Fastball|29|2|1|1|7|91
+Nick Kingham|R|Jon Lester|L|Strikeout|B|Slider|30|2|2|1|14|83
+Nick Kingham|R|Jon Lester|L|Strikeout|S|Four-Seam Fastball|31|3|2|1|11|91
+Nick Kingham|R|Kris Bryant|R|Strikeout|B|Two-Seam Fastball|32|0|0|2|14|92
+Nick Kingham|R|Kris Bryant|R|Strikeout|S|Changeup|33|1|0|2|13|83
+Nick Kingham|R|Kris Bryant|R|Strikeout|B|Changeup|34|1|1|2|13|84
+Nick Kingham|R|Kris Bryant|R|Strikeout|F|Knuckle Curve|35|2|1|2|8|80
+Nick Kingham|R|Kris Bryant|R|Strikeout|F|Four-Seam Fastball|36|2|2|2|11|93
+Nick Kingham|R|Kris Bryant|R|Strikeout|C|Changeup|37|2|2|2|8|84
+Nick Kingham|R|Jason Heyward|L|Groundout|F|Changeup|38|0|0|0|8|84
+Nick Kingham|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|39|0|1|0|12|92
+Nick Kingham|R|Jason Heyward|L|Groundout|S|Four-Seam Fastball|40|1|1|0|2|92
+Nick Kingham|R|Jason Heyward|L|Groundout|B|Knuckle Curve|41|1|2|0|14|80
+Nick Kingham|R|Jason Heyward|L|Groundout|F|Four-Seam Fastball|42|2|2|0|3|93
+Nick Kingham|R|Jason Heyward|L|Groundout|X|Two-Seam Fastball|43|2|2|0|13|92
+Nick Kingham|R|Ben Zobrist|L|Single|F|Slider|44|0|0|1|8|78
+Nick Kingham|R|Ben Zobrist|L|Single|S|Changeup|45|0|1|1|13|84
+Nick Kingham|R|Ben Zobrist|L|Single|D|Changeup|46|0|2|1|13|84
+Nick Kingham|R|Anthony Rizzo|L|Flyout|F|Two-Seam Fastball|47|0|0|1|5|92
+Nick Kingham|R|Anthony Rizzo|L|Flyout|X|Changeup|48|0|1|1|8|83
+Nick Kingham|R|Willson Contreras|R|Groundout|X|Slider|49|0|0|2|14|84
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|S|Changeup|50|0|0|0|4|82
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|S|Changeup|51|0|1|0|11|83
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|F|Changeup|52|0|2|0|13|83
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|F|Four-Seam Fastball|53|0|2|0|12|91
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|B|Changeup|54|0|2|0|13|84
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|B|Slider|55|1|2|0|9|84
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|B|Changeup|56|2|2|0|13|84
+Nick Kingham|R|Kyle Schwarber|L|Strikeout|C|Changeup|57|3|2|0|13|83
+Nick Kingham|R|Ian Happ|L|Single|B|Two-Seam Fastball|58|0|0|1|13|91
+Nick Kingham|R|Ian Happ|L|Single|B|Changeup|59|1|0|1|13|84
+Nick Kingham|R|Ian Happ|L|Single|S|Slider|60|2|0|1|14|84
+Nick Kingham|R|Ian Happ|L|Single|C|Four-Seam Fastball|61|2|1|1|4|92
+Nick Kingham|R|Ian Happ|L|Single|D|Four-Seam Fastball|62|2|2|1|9|92
+Nick Kingham|R|Addison Russell|R|Flyout|C|Two-Seam Fastball|63|0|0|1|6|91
+Nick Kingham|R|Addison Russell|R|Flyout|F|Slider|64|0|1|1|14|83
+Nick Kingham|R|Addison Russell|R|Flyout|X|Four-Seam Fastball|65|0|2|1|11|90
+Nick Kingham|R|Jon Lester|L|Flyout|B|Four-Seam Fastball|66|0|0|2|11|90
+Nick Kingham|R|Jon Lester|L|Flyout|F|Four-Seam Fastball|67|1|0|2|7|91
+Nick Kingham|R|Jon Lester|L|Flyout|B|Changeup|68|1|1|2|13|82
+Nick Kingham|R|Jon Lester|L|Flyout|X|Four-Seam Fastball|69|2|1|2|1|90
+Nick Kingham|R|Kris Bryant|R|Flyout|B|Slider|70|0|0|0|14|84
+Nick Kingham|R|Kris Bryant|R|Flyout|X|Slider|71|1|0|0|6|84
+Nick Kingham|R|Jason Heyward|L|Lineout|C|Changeup|72|0|0|1|13|82
+Nick Kingham|R|Jason Heyward|L|Lineout|B|Four-Seam Fastball|73|0|1|1|14|91
+Nick Kingham|R|Jason Heyward|L|Lineout|B|Slider|74|1|1|1|13|83
+Nick Kingham|R|Jason Heyward|L|Lineout|X|Changeup|75|2|1|1|7|83
+Nick Kingham|R|Ben Zobrist|L|Flyout|C|Four-Seam Fastball|76|0|0|2|4|92
+Nick Kingham|R|Ben Zobrist|L|Flyout|B|Four-Seam Fastball|77|0|1|2|14|91
+Nick Kingham|R|Ben Zobrist|L|Flyout|F|Four-Seam Fastball|78|1|1|2|14|91
+Nick Kingham|R|Ben Zobrist|L|Flyout|B|Knuckle Curve|79|1|2|2|13|78
+Nick Kingham|R|Ben Zobrist|L|Flyout|X|Slider|80|2|2|2|8|83
+Nick Kingham|R|Anthony Rizzo|L|Groundout|B|Knuckle Curve|81|0|0|0|14|77
+Nick Kingham|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|82|1|0|0|14|92
+Nick Kingham|R|Anthony Rizzo|L|Groundout|S|Changeup|83|2|0|0|13|83
+Nick Kingham|R|Anthony Rizzo|L|Groundout|B|Changeup|84|2|1|0|13|83
+Nick Kingham|R|Anthony Rizzo|L|Groundout|C|Slider|85|3|1|0|13|83
+Nick Kingham|R|Anthony Rizzo|L|Groundout|X|Changeup|86|3|2|0|13|83
+Nick Kingham|R|Willson Contreras|R|Flyout|C|Slider|87|0|0|1|14|83
+Nick Kingham|R|Willson Contreras|R|Flyout|B|Two-Seam Fastball|88|0|1|1|11|91
+Nick Kingham|R|Willson Contreras|R|Flyout|B|Two-Seam Fastball|89|1|1|1|13|90
+Nick Kingham|R|Willson Contreras|R|Flyout|S|Slider|90|2|1|1|14|82
+Nick Kingham|R|Willson Contreras|R|Flyout|X|Slider|91|2|2|1|5|84
+Nick Kingham|R|Kyle Schwarber|L|Flyout|X|Two-Seam Fastball|92|0|0|2|4|91
+Nick Kingham|R|Ian Happ|L|Flyout|X|Knuckle Curve|93|0|0|0|5|77
+Nick Kingham|R|Addison Russell|R|Single|C|Two-Seam Fastball|94|0|0|1|8|90
+Nick Kingham|R|Addison Russell|R|Single|C|Slider|95|0|1|1|14|84
+Nick Kingham|R|Addison Russell|R|Single|B|Slider|96|0|2|1|14|85
+Nick Kingham|R|Addison Russell|R|Single|F|Four-Seam Fastball|97|1|2|1|6|91
+Nick Kingham|R|Addison Russell|R|Single|D|Two-Seam Fastball|98|1|2|1|7|91
+Nick Kingham|R|Joc Pederson|L|Groundout|C|Four-Seam Fastball|0|0|0|0|7|93
+Nick Kingham|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|1|0|1|0|13|94
+Nick Kingham|R|Joc Pederson|L|Groundout|B|Four-Seam Fastball|2|1|1|0|14|95
+Nick Kingham|R|Joc Pederson|L|Groundout|X|Changeup|3|2|1|0|4|86
+Nick Kingham|R|Max Muncy|L|Field Error|B|Four-Seam Fastball|4|0|0|1|14|95
+Nick Kingham|R|Max Muncy|L|Field Error|C|Four-Seam Fastball|5|1|0|1|4|95
+Nick Kingham|R|Max Muncy|L|Field Error|C|Four-Seam Fastball|6|1|1|1|14|95
+Nick Kingham|R|Max Muncy|L|Field Error|B|Knuckle Curve|7|1|2|1|11|82
+Nick Kingham|R|Max Muncy|L|Field Error|B|Four-Seam Fastball|8|2|2|1|14|95
+Nick Kingham|R|Max Muncy|L|Field Error|F|Two-Seam Fastball|9|3|2|1|4|94
+Nick Kingham|R|Max Muncy|L|Field Error|D|Two-Seam Fastball|10|3|2|1|6|94
+Nick Kingham|R|Justin Turner|R|Lineout|C|Four-Seam Fastball|11|0|0|1|13|94
+Nick Kingham|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|12|0|1|1|5|94
+Nick Kingham|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|13|0|2|1|11|94
+Nick Kingham|R|Justin Turner|R|Lineout|B|Cutter|14|1|2|1|14|87
+Nick Kingham|R|Justin Turner|R|Lineout|*B|Two-Seam Fastball|15|2|2|1|13|94
+Nick Kingham|R|Justin Turner|R|Lineout|X|Cutter|16|3|2|1|9|86
+Nick Kingham|R|Cody Bellinger|L|Single|B|Four-Seam Fastball|17|0|0|2|14|95
+Nick Kingham|R|Cody Bellinger|L|Single|B|Cutter|18|1|0|2|14|86
+Nick Kingham|R|Cody Bellinger|L|Single|S|Changeup|19|2|0|2|13|85
+Nick Kingham|R|Cody Bellinger|L|Single|C|Two-Seam Fastball|20|2|1|2|7|94
+Nick Kingham|R|Cody Bellinger|L|Single|F|Knuckle Curve|21|2|2|2|14|81
+Nick Kingham|R|Cody Bellinger|L|Single|B|Four-Seam Fastball|22|2|2|2|12|94
+Nick Kingham|R|Cody Bellinger|L|Single|E|Changeup|23|3|2|2|13|86
+Nick Kingham|R|Matt Kemp|R|Single|D|Four-Seam Fastball|24|0|0|2|9|94
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|25|0|0|2|12|93
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Changeup|26|1|0|2|13|84
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Two-Seam Fastball|27|2|0|2|11|92
+Nick Kingham|R|Yasmani Grandal|L|Walk|C|Four-Seam Fastball|28|3|0|2|13|93
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|29|3|1|2|11|93
+Nick Kingham|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|30|0|0|2|9|94
+Nick Kingham|R|Chris Taylor|R|Strikeout|S|Two-Seam Fastball|31|0|1|2|13|93
+Nick Kingham|R|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|32|0|2|2|11|93
+Nick Kingham|R|Yasiel Puig|R|Groundout|C|Four-Seam Fastball|33|0|0|0|6|92
+Nick Kingham|R|Yasiel Puig|R|Groundout|X|Slider|34|0|1|0|8|84
+Nick Kingham|R|Alex Wood|R|Single|B|Four-Seam Fastball|35|0|0|1|14|93
+Nick Kingham|R|Alex Wood|R|Single|C|Four-Seam Fastball|36|1|0|1|14|93
+Nick Kingham|R|Alex Wood|R|Single|D|Two-Seam Fastball|37|1|1|1|7|93
+Nick Kingham|R|Joc Pederson|L|Flyout|F|Two-Seam Fastball|38|0|0|1|7|92
+Nick Kingham|R|Joc Pederson|L|Flyout|L|Changeup|39|0|1|1|5|83
+Nick Kingham|R|Joc Pederson|L|Flyout|F|Four-Seam Fastball|40|0|2|1|12|92
+Nick Kingham|R|Joc Pederson|L|Flyout|F|Knuckle Curve|41|0|2|1|14|79
+Nick Kingham|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|42|0|2|1|12|92
+Nick Kingham|R|Max Muncy|L|Strikeout|C|Slider|43|0|0|2|3|84
+Nick Kingham|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|44|0|1|2|11|92
+Nick Kingham|R|Max Muncy|L|Strikeout|B|Knuckle Curve|45|0|2|2|13|80
+Nick Kingham|R|Max Muncy|L|Strikeout|S|Changeup|46|1|2|2|13|84
+Nick Kingham|R|Justin Turner|R|Flyout|C|Knuckle Curve|47|0|0|0|8|79
+Nick Kingham|R|Justin Turner|R|Flyout|B|Cutter|48|0|1|0|14|87
+Nick Kingham|R|Justin Turner|R|Flyout|X|Two-Seam Fastball|49|1|1|0|7|92
+Nick Kingham|R|Cody Bellinger|L|Home Run|B|Cutter|50|0|0|1|13|87
+Nick Kingham|R|Cody Bellinger|L|Home Run|B|Four-Seam Fastball|51|1|0|1|14|94
+Nick Kingham|R|Cody Bellinger|L|Home Run|B|Cutter|52|2|0|1|14|86
+Nick Kingham|R|Cody Bellinger|L|Home Run|E|Two-Seam Fastball|53|3|0|1|8|94
+Nick Kingham|R|Matt Kemp|R|Double|D|Two-Seam Fastball|54|0|0|1|7|92
+Nick Kingham|R|Yasmani Grandal|L|Walk|*B|Changeup|55|0|0|1|14|84
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Cutter|56|1|0|1|14|85
+Nick Kingham|R|Yasmani Grandal|L|Walk|*B|Changeup|57|2|0|1|14|84
+Nick Kingham|R|Yasmani Grandal|L|Walk|B|Two-Seam Fastball|58|3|0|1|13|92
+Nick Kingham|R|Chris Taylor|R|Walk|B|Cutter|59|0|0|1|14|85
+Nick Kingham|R|Chris Taylor|R|Walk|S|Cutter|60|1|0|1|14|87
+Nick Kingham|R|Chris Taylor|R|Walk|B|Two-Seam Fastball|61|1|1|1|13|92
+Nick Kingham|R|Chris Taylor|R|Walk|B|Cutter|62|2|1|1|14|86
+Nick Kingham|R|Chris Taylor|R|Walk|B|Knuckle Curve|63|3|1|1|14|79
+Nick Kingham|R|Yasiel Puig|R|Forceout|B|Cutter|64|0|0|1|14|86
+Nick Kingham|R|Yasiel Puig|R|Forceout|E|Cutter|65|1|0|1|14|86
+Nick Kingham|R|Alex Wood|R|Flyout|X|Four-Seam Fastball|66|0|0|2|5|92
+Nick Kingham|R|Joc Pederson|L|Home Run|B|Knuckle Curve|67|0|0|0|9|79
+Nick Kingham|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|68|1|0|0|3|92
+Nick Kingham|R|Max Muncy|L|Home Run|B|Four-Seam Fastball|69|0|0|0|13|93
+Nick Kingham|R|Max Muncy|L|Home Run|F|Changeup|70|1|0|0|5|84
+Nick Kingham|R|Max Muncy|L|Home Run|E|Cutter|71|1|1|0|6|85
+Nick Kingham|R|Justin Turner|R|Double|C|Two-Seam Fastball|72|0|0|0|14|92
+Nick Kingham|R|Justin Turner|R|Double|S|Changeup|73|0|1|0|13|84
+Nick Kingham|R|Justin Turner|R|Double|F|Four-Seam Fastball|74|0|2|0|8|93
+Nick Kingham|R|Justin Turner|R|Double|B|Cutter|75|0|2|0|14|87
+Nick Kingham|R|Justin Turner|R|Double|F|Changeup|76|1|2|0|4|84
+Nick Kingham|R|Justin Turner|R|Double|B|Four-Seam Fastball|77|1|2|0|14|93
+Nick Kingham|R|Justin Turner|R|Double|D|Two-Seam Fastball|78|2|2|0|9|93
+Nick Kingham|R|Andrew Knapp|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|91
+Nick Kingham|R|Andrew Knapp|L|Flyout|C|Four-Seam Fastball|1|1|0|0|2|91
+Nick Kingham|R|Andrew Knapp|L|Flyout|B|Changeup|2|1|1|0|13|84
+Nick Kingham|R|Andrew Knapp|L|Flyout|F|Two-Seam Fastball|3|2|1|0|4|91
+Nick Kingham|R|Andrew Knapp|L|Flyout|X|Four-Seam Fastball|4|2|2|0|2|92
+Nick Kingham|R|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|5|0|0|1|5|92
+Nick Kingham|R|Rhys Hoskins|R|Strikeout|B|Two-Seam Fastball|6|0|1|1|13|91
+Nick Kingham|R|Rhys Hoskins|R|Strikeout|C|Knuckle Curve|7|1|1|1|9|78
+Nick Kingham|R|Rhys Hoskins|R|Strikeout|S|Changeup|8|1|2|1|13|85
+Nick Kingham|R|Odubel Herrera|L|Single|D|Two-Seam Fastball|9|0|0|2|4|91
+Nick Kingham|R|Carlos Santana|L|Lineout|C|Four-Seam Fastball|10|0|0|2|4|91
+Nick Kingham|R|Carlos Santana|L|Lineout|B|Four-Seam Fastball|11|0|1|2|12|91
+Nick Kingham|R|Carlos Santana|L|Lineout|B|Changeup|12|1|1|2|14|84
+Nick Kingham|R|Carlos Santana|L|Lineout|X|Changeup|13|2|1|2|7|84
+Nick Kingham|R|Nick Williams|L|Groundout|X|Four-Seam Fastball|14|0|0|0|9|91
+Nick Kingham|R|Scott Kingery|R|Groundout|B|Four-Seam Fastball|15|0|0|1|14|91
+Nick Kingham|R|Scott Kingery|R|Groundout|S|Four-Seam Fastball|16|1|0|1|9|91
+Nick Kingham|R|Scott Kingery|R|Groundout|B|Slider|17|1|1|1|12|84
+Nick Kingham|R|Scott Kingery|R|Groundout|C|Slider|18|2|1|1|2|84
+Nick Kingham|R|Scott Kingery|R|Groundout|X|Two-Seam Fastball|19|2|2|1|1|92
+Nick Kingham|R|Jesmuel Valentin|L|Groundout|C|Four-Seam Fastball|20|0|0|2|5|92
+Nick Kingham|R|Jesmuel Valentin|L|Groundout|B|Changeup|21|0|1|2|13|84
+Nick Kingham|R|Jesmuel Valentin|L|Groundout|X|Changeup|22|1|1|2|7|85
+Nick Kingham|R|Maikel Franco|R|Single|D|Knuckle Curve|23|0|0|0|5|77
+Nick Kingham|R|Drew Anderson|R|Sac Bunt|B|Four-Seam Fastball|24|0|0|0|12|89
+Nick Kingham|R|Drew Anderson|R|Sac Bunt|L|Four-Seam Fastball|25|1|0|0|6|90
+Nick Kingham|R|Drew Anderson|R|Sac Bunt|X|Four-Seam Fastball|26|1|1|0|12|90
+Nick Kingham|R|Andrew Knapp|L|Flyout|*B|Changeup|27|0|0|1|13|83
+Nick Kingham|R|Andrew Knapp|L|Flyout|X|Changeup|28|1|0|1|4|83
+Nick Kingham|R|Rhys Hoskins|R|Hit By Pitch|B|Four-Seam Fastball|29|0|0|2|11|91
+Nick Kingham|R|Rhys Hoskins|R|Hit By Pitch|H|Two-Seam Fastball|30|1|0|2|11|90
+Nick Kingham|R|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|31|0|0|2|12|92
+Nick Kingham|R|Odubel Herrera|L|Strikeout|B|Changeup|32|1|0|2|11|83
+Nick Kingham|R|Odubel Herrera|L|Strikeout|F|Changeup|33|2|0|2|7|83
+Nick Kingham|R|Odubel Herrera|L|Strikeout|S|Slider|34|2|1|2|4|82
+Nick Kingham|R|Odubel Herrera|L|Strikeout|F|Four-Seam Fastball|35|2|2|2|12|92
+Nick Kingham|R|Odubel Herrera|L|Strikeout|F|Slider|36|2|2|2|11|83
+Nick Kingham|R|Odubel Herrera|L|Strikeout|W|Knuckle Curve|37|2|2|2|14|79
+Nick Kingham|R|Carlos Santana|L|Flyout|B|Changeup|38|0|0|0|13|83
+Nick Kingham|R|Carlos Santana|L|Flyout|T|Four-Seam Fastball|39|1|0|0|12|91
+Nick Kingham|R|Carlos Santana|L|Flyout|C|Slider|40|1|1|0|3|83
+Nick Kingham|R|Carlos Santana|L|Flyout|B|Knuckle Curve|41|1|2|0|14|79
+Nick Kingham|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|42|2|2|0|14|92
+Nick Kingham|R|Carlos Santana|L|Flyout|X|Slider|43|3|2|0|13|81
+Nick Kingham|R|Nick Williams|L|Home Run|B|Slider|44|0|0|1|13|81
+Nick Kingham|R|Nick Williams|L|Home Run|C|Changeup|45|1|0|1|6|84
+Nick Kingham|R|Nick Williams|L|Home Run|E|Changeup|46|1|1|1|9|84
+Nick Kingham|R|Scott Kingery|R|Groundout|F|Two-Seam Fastball|47|0|0|1|6|91
+Nick Kingham|R|Scott Kingery|R|Groundout|X|Two-Seam Fastball|48|0|1|1|5|91
+Nick Kingham|R|Jesmuel Valentin|L|Lineout|C|Four-Seam Fastball|49|0|0|2|7|90
+Nick Kingham|R|Jesmuel Valentin|L|Lineout|F|Four-Seam Fastball|50|0|1|2|2|91
+Nick Kingham|R|Jesmuel Valentin|L|Lineout|X|Four-Seam Fastball|51|0|2|2|2|92
+Nick Kingham|R|Maikel Franco|R|Groundout|C|Two-Seam Fastball|52|0|0|0|8|90
+Nick Kingham|R|Maikel Franco|R|Groundout|S|Slider|53|0|1|0|14|82
+Nick Kingham|R|Maikel Franco|R|Groundout|B|Changeup|54|0|2|0|13|84
+Nick Kingham|R|Maikel Franco|R|Groundout|X|Changeup|55|1|2|0|12|84
+Nick Kingham|R|Drew Anderson|R|Strikeout|B|Four-Seam Fastball|56|0|0|1|14|91
+Nick Kingham|R|Drew Anderson|R|Strikeout|S|Four-Seam Fastball|57|1|0|1|14|91
+Nick Kingham|R|Drew Anderson|R|Strikeout|F|Four-Seam Fastball|58|1|1|1|12|90
+Nick Kingham|R|Drew Anderson|R|Strikeout|S|Four-Seam Fastball|59|1|2|1|5|91
+Nick Kingham|R|Andrew Knapp|L|Groundout|S|Knuckle Curve|60|0|0|2|9|78
+Nick Kingham|R|Andrew Knapp|L|Groundout|X|Slider|61|0|1|2|13|83
+Nick Kingham|R|Rhys Hoskins|R|Single|B|Knuckle Curve|62|0|0|0|14|77
+Nick Kingham|R|Rhys Hoskins|R|Single|S|Slider|63|1|0|0|14|83
+Nick Kingham|R|Rhys Hoskins|R|Single|D|Two-Seam Fastball|64|1|1|0|5|90
+Nick Kingham|R|Odubel Herrera|L|Walk|B|Two-Seam Fastball|65|0|0|0|14|89
+Nick Kingham|R|Odubel Herrera|L|Walk|C|Four-Seam Fastball|66|1|0|0|3|89
+Nick Kingham|R|Odubel Herrera|L|Walk|B|Slider|67|1|1|0|13|80
+Nick Kingham|R|Odubel Herrera|L|Walk|B|Slider|68|2|1|0|13|80
+Nick Kingham|R|Odubel Herrera|L|Walk|S|Slider|69|3|1|0|13|81
+Nick Kingham|R|Odubel Herrera|L|Walk|F|Four-Seam Fastball|70|3|2|0|12|90
+Nick Kingham|R|Odubel Herrera|L|Walk|B|Four-Seam Fastball|71|3|2|0|12|91
+Nick Kingham|R|Carlos Santana|L|Pop Out|B|Changeup|72|0|0|0|11|82
+Nick Kingham|R|Carlos Santana|L|Pop Out|B|Two-Seam Fastball|73|1|0|0|11|90
+Nick Kingham|R|Carlos Santana|L|Pop Out|B|Slider|74|2|0|0|13|79
+Nick Kingham|R|Carlos Santana|L|Pop Out|S|Four-Seam Fastball|75|3|0|0|1|90
+Nick Kingham|R|Carlos Santana|L|Pop Out|X|Four-Seam Fastball|76|3|1|0|3|91
+Nick Kingham|R|Nick Williams|L|Strikeout|S|Knuckle Curve|77|0|0|1|14|78
+Nick Kingham|R|Nick Williams|L|Strikeout|B|Four-Seam Fastball|78|0|1|1|12|91
+Nick Kingham|R|Nick Williams|L|Strikeout|C|Two-Seam Fastball|79|1|1|1|13|90
+Nick Kingham|R|Nick Williams|L|Strikeout|W|Knuckle Curve|80|1|2|1|14|79
+Nick Kingham|R|Scott Kingery|R|Strikeout|C|Slider|81|0|0|2|14|83
+Nick Kingham|R|Scott Kingery|R|Strikeout|S|Slider|82|0|1|2|1|81
+Nick Kingham|R|Scott Kingery|R|Strikeout|W|Knuckle Curve|83|0|2|2|14|79
+Nick Kingham|R|Eric Thames|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|1|92
+Nick Kingham|R|Eric Thames|L|Strikeout|T|Changeup|1|0|1|0|8|85
+Nick Kingham|R|Eric Thames|L|Strikeout|C|Knuckle Curve|2|0|2|0|1|80
+Nick Kingham|R|Lorenzo Cain|R|Groundout|S|Four-Seam Fastball|3|0|0|1|12|92
+Nick Kingham|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|4|0|1|1|5|93
+Nick Kingham|R|Lorenzo Cain|R|Groundout|B|Changeup|5|0|2|1|13|85
+Nick Kingham|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|6|1|2|1|11|93
+Nick Kingham|R|Lorenzo Cain|R|Groundout|X|Knuckle Curve|7|1|2|1|14|80
+Nick Kingham|R|Christian Yelich|L|Groundout|B|Four-Seam Fastball|8|0|0|2|13|92
+Nick Kingham|R|Christian Yelich|L|Groundout|B|Changeup|9|1|0|2|14|85
+Nick Kingham|R|Christian Yelich|L|Groundout|X|Four-Seam Fastball|10|2|0|2|4|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Four-Seam Fastball|11|0|0|0|14|91
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Slider|12|1|0|0|5|84
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Changeup|13|1|1|0|13|85
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Two-Seam Fastball|14|2|1|0|13|93
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Four-Seam Fastball|15|3|1|0|12|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|S|Changeup|16|3|2|0|14|85
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Knuckle Curve|17|0|0|1|11|78
+Nick Kingham|R|Travis Shaw|L|Groundout|C|Knuckle Curve|18|1|0|1|9|78
+Nick Kingham|R|Travis Shaw|L|Groundout|X|Changeup|19|1|1|1|7|85
+Nick Kingham|R|Jonathan Villar|L|Groundout|X|Four-Seam Fastball|20|0|0|2|4|92
+Nick Kingham|R|Tyler Saladino|R|Single|C|Two-Seam Fastball|21|0|0|0|1|91
+Nick Kingham|R|Tyler Saladino|R|Single|D|Two-Seam Fastball|22|0|1|0|7|92
+Nick Kingham|R|Jacob Nottingham|R|Walk|B|Two-Seam Fastball|23|0|0|0|14|91
+Nick Kingham|R|Jacob Nottingham|R|Walk|F|Two-Seam Fastball|24|1|0|0|13|91
+Nick Kingham|R|Jacob Nottingham|R|Walk|B|Slider|25|1|1|0|11|82
+Nick Kingham|R|Jacob Nottingham|R|Walk|B|Two-Seam Fastball|26|2|1|0|14|92
+Nick Kingham|R|Jacob Nottingham|R|Walk|B|Two-Seam Fastball|27|3|1|0|14|92
+Nick Kingham|R|Junior Guerra|R|Strikeout|L|Four-Seam Fastball|28|0|0|0|4|92
+Nick Kingham|R|Junior Guerra|R|Strikeout|F|Four-Seam Fastball|29|0|1|0|11|91
+Nick Kingham|R|Junior Guerra|R|Strikeout|L|Four-Seam Fastball|30|0|2|0|2|92
+Nick Kingham|R|Hernan Perez|R|Single|E|Cutter|31|0|0|1|12|89
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|C|Two-Seam Fastball|32|0|0|1|7|93
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|T|Four-Seam Fastball|33|0|1|1|6|92
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|F|Four-Seam Fastball|34|0|2|1|14|93
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|F|Four-Seam Fastball|35|0|2|1|2|93
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|B|Changeup|36|0|2|1|13|85
+Nick Kingham|R|Lorenzo Cain|R|Grounded Into DP|X|Knuckle Curve|37|1|2|1|9|81
+Nick Kingham|R|Christian Yelich|L|Strikeout|C|Changeup|38|0|0|0|8|85
+Nick Kingham|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|39|0|1|0|12|92
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|40|0|2|0|12|90
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Slider|41|1|2|0|14|83
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Changeup|42|2|2|0|13|85
+Nick Kingham|R|Christian Yelich|L|Strikeout|T|Four-Seam Fastball|43|3|2|0|11|93
+Nick Kingham|R|Jesus Aguilar|R|Flyout|C|Knuckle Curve|44|0|0|1|14|79
+Nick Kingham|R|Jesus Aguilar|R|Flyout|X|Four-Seam Fastball|45|0|1|1|12|93
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Four-Seam Fastball|46|0|0|2|12|93
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Two-Seam Fastball|47|1|0|2|13|92
+Nick Kingham|R|Travis Shaw|L|Groundout|F|Changeup|48|2|0|2|8|85
+Nick Kingham|R|Travis Shaw|L|Groundout|X|Four-Seam Fastball|49|2|1|2|5|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|C|Four-Seam Fastball|50|0|0|0|2|90
+Nick Kingham|R|Jonathan Villar|L|Groundout|F|Knuckle Curve|51|0|1|0|5|76
+Nick Kingham|R|Jonathan Villar|L|Groundout|F|Four-Seam Fastball|52|0|2|0|12|91
+Nick Kingham|R|Jonathan Villar|L|Groundout|X|Changeup|53|0|2|0|13|83
+Nick Kingham|R|Tyler Saladino|R|Strikeout|B|Cutter|54|0|0|1|14|88
+Nick Kingham|R|Tyler Saladino|R|Strikeout|C|Knuckle Curve|55|1|0|1|2|75
+Nick Kingham|R|Tyler Saladino|R|Strikeout|B|Knuckle Curve|56|1|1|1|14|77
+Nick Kingham|R|Tyler Saladino|R|Strikeout|B|Four-Seam Fastball|57|2|1|1|14|91
+Nick Kingham|R|Tyler Saladino|R|Strikeout|C|Four-Seam Fastball|58|3|1|1|9|90
+Nick Kingham|R|Tyler Saladino|R|Strikeout|S|Four-Seam Fastball|59|3|2|1|12|91
+Nick Kingham|R|Jacob Nottingham|R|Strikeout|B|Two-Seam Fastball|60|0|0|2|14|92
+Nick Kingham|R|Jacob Nottingham|R|Strikeout|S|Cutter|61|1|0|2|14|87
+Nick Kingham|R|Jacob Nottingham|R|Strikeout|B|Cutter|62|1|1|2|14|88
+Nick Kingham|R|Jacob Nottingham|R|Strikeout|F|Two-Seam Fastball|63|2|1|2|8|92
+Nick Kingham|R|Jacob Nottingham|R|Strikeout|C|Four-Seam Fastball|64|2|2|2|9|93
+Nick Kingham|R|Brandon Woodruff|L|Home Run|F|Four-Seam Fastball|65|0|0|0|6|91
+Nick Kingham|R|Brandon Woodruff|L|Home Run|E|Four-Seam Fastball|66|0|1|0|6|91
+Nick Kingham|R|Hernan Perez|R|Strikeout|B|Cutter|67|0|0|0|11|87
+Nick Kingham|R|Hernan Perez|R|Strikeout|C|Slider|68|1|0|0|3|84
+Nick Kingham|R|Hernan Perez|R|Strikeout|B|Two-Seam Fastball|69|1|1|0|13|91
+Nick Kingham|R|Hernan Perez|R|Strikeout|F|Four-Seam Fastball|70|2|1|0|5|91
+Nick Kingham|R|Hernan Perez|R|Strikeout|S|Changeup|71|2|2|0|14|82
+Nick Kingham|R|Lorenzo Cain|R|Groundout|B|Knuckle Curve|72|0|0|1|14|78
+Nick Kingham|R|Lorenzo Cain|R|Groundout|X|Knuckle Curve|73|1|0|1|6|79
+Nick Kingham|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|74|0|0|2|7|91
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Cutter|75|0|1|2|12|87
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Changeup|76|1|1|2|13|84
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Changeup|77|2|1|2|13|84
+Nick Kingham|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|78|3|1|2|2|92
+Nick Kingham|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|79|3|2|2|7|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Two-Seam Fastball|80|0|0|0|13|91
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Four-Seam Fastball|81|1|0|0|3|90
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|T|Changeup|82|1|1|0|7|84
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|83|1|2|0|14|91
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|S|Changeup|84|1|2|0|14|85
+Nick Kingham|R|Travis Shaw|L|Home Run|B|Changeup|85|0|0|1|13|84
+Nick Kingham|R|Travis Shaw|L|Home Run|B|Knuckle Curve|86|1|0|1|14|80
+Nick Kingham|R|Travis Shaw|L|Home Run|F|Four-Seam Fastball|87|2|0|1|14|92
+Nick Kingham|R|Travis Shaw|L|Home Run|B|Changeup|88|2|1|1|11|83
+Nick Kingham|R|Travis Shaw|L|Home Run|C|Four-Seam Fastball|89|3|1|1|7|92
+Nick Kingham|R|Travis Shaw|L|Home Run|E|Four-Seam Fastball|90|3|2|1|8|91
+Nick Kingham|R|Jonathan Villar|L|Single|C|Changeup|91|0|0|1|1|84
+Nick Kingham|R|Jonathan Villar|L|Single|F|Changeup|92|0|1|1|11|84
+Nick Kingham|R|Jonathan Villar|L|Single|F|Four-Seam Fastball|93|0|2|1|12|91
+Nick Kingham|R|Jonathan Villar|L|Single|D|Four-Seam Fastball|94|0|2|1|6|91
+Nick Kingham|R|Jose Peraza|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|92
+Nick Kingham|R|Jose Peraza|R|Walk|S|Two-Seam Fastball|1|1|0|0|13|93
+Nick Kingham|R|Jose Peraza|R|Walk|B|Two-Seam Fastball|2|1|1|0|11|93
+Nick Kingham|R|Jose Peraza|R|Walk|F|Four-Seam Fastball|3|2|1|0|2|93
+Nick Kingham|R|Jose Peraza|R|Walk|B|Four-Seam Fastball|4|2|2|0|11|92
+Nick Kingham|R|Jose Peraza|R|Walk|B|Four-Seam Fastball|5|3|2|0|11|92
+Nick Kingham|R|Scooter Gennett|L|Walk|*B|Two-Seam Fastball|6|0|0|0|13|92
+Nick Kingham|R|Scooter Gennett|L|Walk|F|Two-Seam Fastball|7|1|0|0|13|93
+Nick Kingham|R|Scooter Gennett|L|Walk|F|Four-Seam Fastball|8|1|1|0|14|91
+Nick Kingham|R|Scooter Gennett|L|Walk|F|Cutter|9|1|2|0|14|89
+Nick Kingham|R|Scooter Gennett|L|Walk|B|Four-Seam Fastball|10|1|2|0|11|91
+Nick Kingham|R|Scooter Gennett|L|Walk|B|Knuckle Curve|11|2|2|0|11|75
+Nick Kingham|R|Scooter Gennett|L|Walk|F|Two-Seam Fastball|12|3|2|0|1|92
+Nick Kingham|R|Scooter Gennett|L|Walk|*B|Two-Seam Fastball|13|3|2|0|14|91
+Nick Kingham|R|Joey Votto|L|Grounded Into DP|B|Four-Seam Fastball|14|0|0|0|14|92
+Nick Kingham|R|Joey Votto|L|Grounded Into DP|B|Changeup|15|1|0|0|13|85
+Nick Kingham|R|Joey Votto|L|Grounded Into DP|X|Two-Seam Fastball|16|2|0|0|7|92
+Nick Kingham|R|Eugenio Suarez|R|Flyout|C|Two-Seam Fastball|17|0|0|2|13|92
+Nick Kingham|R|Eugenio Suarez|R|Flyout|B|Two-Seam Fastball|18|0|1|2|13|92
+Nick Kingham|R|Eugenio Suarez|R|Flyout|B|Four-Seam Fastball|19|1|1|2|14|92
+Nick Kingham|R|Eugenio Suarez|R|Flyout|B|Cutter|20|2|1|2|12|87
+Nick Kingham|R|Eugenio Suarez|R|Flyout|C|Cutter|21|3|1|2|12|88
+Nick Kingham|R|Eugenio Suarez|R|Flyout|X|Two-Seam Fastball|22|3|2|2|7|92
+Nick Kingham|R|Jesse Winker|L|Flyout|C|Two-Seam Fastball|23|0|0|0|6|91
+Nick Kingham|R|Jesse Winker|L|Flyout|X|Four-Seam Fastball|24|0|1|0|12|92
+Nick Kingham|R|Adam Duvall|R|Flyout|X|Four-Seam Fastball|25|0|0|1|6|93
+Nick Kingham|R|Curt Casali|R|Lineout|C|Four-Seam Fastball|26|0|0|2|8|93
+Nick Kingham|R|Curt Casali|R|Lineout|X|Four-Seam Fastball|27|0|1|2|12|92
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|C|Four-Seam Fastball|28|0|0|0|6|92
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|S|Two-Seam Fastball|29|0|1|0|13|93
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|S|Slider|30|0|2|0|14|84
+Nick Kingham|R|Billy Hamilton|L|Groundout|X|Two-Seam Fastball|31|0|0|1|8|93
+Nick Kingham|R|Jose Peraza|R|Double|C|Four-Seam Fastball|32|0|0|2|9|92
+Nick Kingham|R|Jose Peraza|R|Double|F|Four-Seam Fastball|33|0|1|2|12|93
+Nick Kingham|R|Jose Peraza|R|Double|D|Two-Seam Fastball|34|0|2|2|7|93
+Nick Kingham|R|Scooter Gennett|L|Groundout|*B|Two-Seam Fastball|35|0|0|2|14|92
+Nick Kingham|R|Scooter Gennett|L|Groundout|F|Changeup|36|1|0|2|8|83
+Nick Kingham|R|Scooter Gennett|L|Groundout|X|Four-Seam Fastball|37|1|1|2|12|92
+Nick Kingham|R|Joey Votto|L|Strikeout|T|Two-Seam Fastball|38|0|0|0|11|92
+Nick Kingham|R|Joey Votto|L|Strikeout|B|Two-Seam Fastball|39|0|1|0|13|92
+Nick Kingham|R|Joey Votto|L|Strikeout|C|Changeup|40|1|1|0|8|85
+Nick Kingham|R|Joey Votto|L|Strikeout|C|Knuckle Curve|41|1|2|0|3|79
+Nick Kingham|R|Eugenio Suarez|R|Groundout|C|Cutter|42|0|0|1|14|88
+Nick Kingham|R|Eugenio Suarez|R|Groundout|B|Four-Seam Fastball|43|0|1|1|14|90
+Nick Kingham|R|Eugenio Suarez|R|Groundout|X|Changeup|44|1|1|1|13|85
+Nick Kingham|R|Jesse Winker|L|Single|B|Changeup|45|0|0|2|11|84
+Nick Kingham|R|Jesse Winker|L|Single|B|Two-Seam Fastball|46|1|0|2|11|93
+Nick Kingham|R|Jesse Winker|L|Single|S|Cutter|47|2|0|2|14|88
+Nick Kingham|R|Jesse Winker|L|Single|F|Two-Seam Fastball|48|2|1|2|13|93
+Nick Kingham|R|Jesse Winker|L|Single|F|Cutter|49|2|2|2|3|89
+Nick Kingham|R|Jesse Winker|L|Single|D|Changeup|50|2|2|2|13|84
+Nick Kingham|R|Adam Duvall|R|Pop Out|B|Cutter|51|0|0|2|14|89
+Nick Kingham|R|Adam Duvall|R|Pop Out|B|Slider|52|1|0|2|14|82
+Nick Kingham|R|Adam Duvall|R|Pop Out|C|Four-Seam Fastball|53|2|0|2|8|91
+Nick Kingham|R|Adam Duvall|R|Pop Out|F|Four-Seam Fastball|54|2|1|2|2|92
+Nick Kingham|R|Adam Duvall|R|Pop Out|X|Knuckle Curve|55|2|2|2|7|76
+Nick Kingham|R|Curt Casali|R|Flyout|X|Four-Seam Fastball|56|0|0|0|3|90
+Nick Kingham|R|Michael Lorenzen|R|Field Error|S|Four-Seam Fastball|57|0|0|1|12|91
+Nick Kingham|R|Michael Lorenzen|R|Field Error|D|Cutter|58|0|1|1|14|89
+Nick Kingham|R|Billy Hamilton|L|Lineout|B|Two-Seam Fastball|59|0|0|1|14|92
+Nick Kingham|R|Billy Hamilton|L|Lineout|X|Four-Seam Fastball|60|1|0|1|13|92
+Nick Kingham|R|Jose Peraza|R|Groundout|*B|Four-Seam Fastball|61|0|0|2|12|92
+Nick Kingham|R|Jose Peraza|R|Groundout|X|Cutter|62|1|0|2|14|88
+Nick Kingham|R|Scooter Gennett|L|Groundout|X|Two-Seam Fastball|63|0|0|0|7|90
+Nick Kingham|R|Joey Votto|L|Flyout|X|Two-Seam Fastball|64|0|0|1|4|91
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|65|0|0|2|8|91
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|66|0|1|2|12|92
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Cutter|67|1|1|2|3|88
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|S|Knuckle Curve|68|1|2|2|14|78
+Nick Kingham|R|Jesse Winker|L|Single|D|Two-Seam Fastball|69|0|0|0|13|90
+Nick Kingham|R|Adam Duvall|R|Pop Out|B|Four-Seam Fastball|70|0|0|0|14|91
+Nick Kingham|R|Adam Duvall|R|Pop Out|X|Four-Seam Fastball|71|1|0|0|3|91
+Nick Kingham|R|Curt Casali|R|Home Run|C|Cutter|72|0|0|1|5|88
+Nick Kingham|R|Curt Casali|R|Home Run|S|Knuckle Curve|73|0|1|1|8|75
+Nick Kingham|R|Curt Casali|R|Home Run|*B|Knuckle Curve|74|0|2|1|14|80
+Nick Kingham|R|Curt Casali|R|Home Run|F|Two-Seam Fastball|75|1|2|1|11|92
+Nick Kingham|R|Curt Casali|R|Home Run|B|Cutter|76|1|2|1|12|88
+Nick Kingham|R|Curt Casali|R|Home Run|*B|Slider|77|2|2|1|14|81
+Nick Kingham|R|Curt Casali|R|Home Run|E|Four-Seam Fastball|78|3|2|1|2|91
+Nick Kingham|R|Amed Rosario|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|92
+Nick Kingham|R|Amed Rosario|R|Groundout|B|Two-Seam Fastball|1|0|1|0|13|93
+Nick Kingham|R|Amed Rosario|R|Groundout|B|Slider|2|1|1|0|12|86
+Nick Kingham|R|Amed Rosario|R|Groundout|C|Slider|3|2|1|0|9|82
+Nick Kingham|R|Amed Rosario|R|Groundout|X|Four-Seam Fastball|4|2|2|0|7|94
+Nick Kingham|R|Asdrubal Cabrera|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|92
+Nick Kingham|R|Asdrubal Cabrera|L|Groundout|X|Two-Seam Fastball|6|1|0|1|13|93
+Nick Kingham|R|Michael Conforto|L|Double|C|Four-Seam Fastball|7|0|0|2|5|92
+Nick Kingham|R|Michael Conforto|L|Double|S|Changeup|8|0|1|2|8|84
+Nick Kingham|R|Michael Conforto|L|Double|D|Changeup|9|0|2|2|4|84
+Nick Kingham|R|Wilmer Flores|R|Home Run|C|Cutter|10|0|0|2|14|88
+Nick Kingham|R|Wilmer Flores|R|Home Run|E|Changeup|11|0|1|2|13|84
+Nick Kingham|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|12|0|0|2|11|93
+Nick Kingham|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|13|1|0|2|13|92
+Nick Kingham|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|14|2|0|2|11|92
+Nick Kingham|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|15|3|0|2|12|92
+Nick Kingham|R|Jose Bautista|R|Single|C|Slider|16|0|0|2|3|85
+Nick Kingham|R|Jose Bautista|R|Single|B|Four-Seam Fastball|17|0|1|2|14|91
+Nick Kingham|R|Jose Bautista|R|Single|D|Cutter|18|1|1|2|8|86
+Nick Kingham|R|Jeff McNeil|L|Groundout|*B|Four-Seam Fastball|19|0|0|2|14|92
+Nick Kingham|R|Jeff McNeil|L|Groundout|S|Knuckle Curve|20|1|0|2|14|78
+Nick Kingham|R|Jeff McNeil|L|Groundout|X|Two-Seam Fastball|21|1|1|2|13|90
+Nick Kingham|R|Devin Mesoraco|R|Walk|B|Slider|22|0|0|0|14|80
+Nick Kingham|R|Devin Mesoraco|R|Walk|B|Two-Seam Fastball|23|1|0|0|13|92
+Nick Kingham|R|Devin Mesoraco|R|Walk|B|Four-Seam Fastball|24|2|0|0|14|91
+Nick Kingham|R|Devin Mesoraco|R|Walk|C|Four-Seam Fastball|25|3|0|0|6|92
+Nick Kingham|R|Devin Mesoraco|R|Walk|B|Slider|26|3|1|0|12|86
+Nick Kingham|R|Steven Matz|R|Lineout|B|Four-Seam Fastball|27|0|0|0|14|91
+Nick Kingham|R|Steven Matz|R|Lineout|L|Four-Seam Fastball|28|1|0|0|9|91
+Nick Kingham|R|Steven Matz|R|Lineout|L|Four-Seam Fastball|29|1|1|0|3|91
+Nick Kingham|R|Steven Matz|R|Lineout|B|Four-Seam Fastball|30|1|2|0|11|92
+Nick Kingham|R|Steven Matz|R|Lineout|X|Two-Seam Fastball|31|2|2|0|13|92
+Nick Kingham|R|Amed Rosario|R|Groundout|C|Knuckle Curve|32|0|0|1|1|77
+Nick Kingham|R|Amed Rosario|R|Groundout|B|Four-Seam Fastball|33|0|1|1|11|91
+Nick Kingham|R|Amed Rosario|R|Groundout|S|Cutter|34|1|1|1|9|87
+Nick Kingham|R|Amed Rosario|R|Groundout|X|Knuckle Curve|35|1|2|1|14|79
+Nick Kingham|R|Asdrubal Cabrera|L|Double|C|Changeup|36|0|0|2|13|83
+Nick Kingham|R|Asdrubal Cabrera|L|Double|T|Four-Seam Fastball|37|0|1|2|12|92
+Nick Kingham|R|Asdrubal Cabrera|L|Double|E|Knuckle Curve|38|0|2|2|8|78
+Nick Kingham|R|Michael Conforto|L|Groundout|F|Four-Seam Fastball|39|0|0|2|3|91
+Nick Kingham|R|Michael Conforto|L|Groundout|C|Four-Seam Fastball|40|0|1|2|1|91
+Nick Kingham|R|Michael Conforto|L|Groundout|B|Four-Seam Fastball|41|0|2|2|12|92
+Nick Kingham|R|Michael Conforto|L|Groundout|X|Four-Seam Fastball|42|1|2|2|14|91
+Nick Kingham|R|Wilmer Flores|R|Walk|C|Four-Seam Fastball|43|0|0|0|3|91
+Nick Kingham|R|Wilmer Flores|R|Walk|B|Two-Seam Fastball|44|0|1|0|14|92
+Nick Kingham|R|Wilmer Flores|R|Walk|B|Cutter|45|1|1|0|12|88
+Nick Kingham|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|46|2|1|0|14|92
+Nick Kingham|R|Wilmer Flores|R|Walk|C|Four-Seam Fastball|47|3|1|0|14|92
+Nick Kingham|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|48|3|2|0|14|93
+Nick Kingham|R|Brandon Nimmo|L|Double|S|Changeup|49|0|0|0|4|83
+Nick Kingham|R|Brandon Nimmo|L|Double|L|Four-Seam Fastball|50|0|1|0|1|91
+Nick Kingham|R|Brandon Nimmo|L|Double|B|Four-Seam Fastball|51|0|2|0|12|91
+Nick Kingham|R|Brandon Nimmo|L|Double|B|Changeup|52|1|2|0|11|83
+Nick Kingham|R|Brandon Nimmo|L|Double|F|Four-Seam Fastball|53|2|2|0|1|91
+Nick Kingham|R|Brandon Nimmo|L|Double|D|Four-Seam Fastball|54|2|2|0|13|91
+Nick Kingham|R|Jose Bautista|R|Strikeout|C|Knuckle Curve|55|0|0|0|2|79
+Nick Kingham|R|Jose Bautista|R|Strikeout|B|Four-Seam Fastball|56|0|1|0|11|91
+Nick Kingham|R|Jose Bautista|R|Strikeout|B|Two-Seam Fastball|57|1|1|0|14|91
+Nick Kingham|R|Jose Bautista|R|Strikeout|F|Changeup|58|2|1|0|13|84
+Nick Kingham|R|Jose Bautista|R|Strikeout|T|Changeup|59|2|2|0|6|84
+Nick Kingham|R|Jeff McNeil|L|Intent Walk|B|Four-Seam Fastball|60|0|0|1|11|91
+Nick Kingham|R|Jeff McNeil|L|Intent Walk|B|Four-Seam Fastball|61|1|0|1|12|91
+Nick Kingham|R|Jeff McNeil|L|Intent Walk|V|N/A|62|2|0|1|0|0
+Nick Kingham|R|Jeff McNeil|L|Intent Walk|V|N/A|63|2|1|1|0|0
+Nick Kingham|R|Devin Mesoraco|R|Sac Fly|S|Knuckle Curve|64|0|0|1|6|79
+Nick Kingham|R|Devin Mesoraco|R|Sac Fly|B|Four-Seam Fastball|65|0|1|1|12|91
+Nick Kingham|R|Devin Mesoraco|R|Sac Fly|B|Four-Seam Fastball|66|1|1|1|11|91
+Nick Kingham|R|Devin Mesoraco|R|Sac Fly|B|Knuckle Curve|67|2|1|1|14|79
+Nick Kingham|R|Devin Mesoraco|R|Sac Fly|E|Four-Seam Fastball|68|3|1|1|12|92
+Nick Kingham|R|Steven Matz|R|Groundout|C|Cutter|69|0|0|2|9|86
+Nick Kingham|R|Steven Matz|R|Groundout|*B|Two-Seam Fastball|70|0|1|2|13|91
+Nick Kingham|R|Steven Matz|R|Groundout|B|Four-Seam Fastball|71|1|1|2|14|91
+Nick Kingham|R|Steven Matz|R|Groundout|X|Two-Seam Fastball|72|2|1|2|13|91
+Nick Kingham|R|Amed Rosario|R|Single|D|Four-Seam Fastball|73|0|0|0|2|88
+Nick Kingham|R|Asdrubal Cabrera|L|Home Run|B|Four-Seam Fastball|74|0|0|0|11|88
+Nick Kingham|R|Asdrubal Cabrera|L|Home Run|E|Changeup|75|1|0|0|8|83
+Nick Kingham|R|Anthony Rizzo|L|Walk|B|Two-Seam Fastball|0|0|0|0|11|92
+Nick Kingham|R|Anthony Rizzo|L|Walk|C|Four-Seam Fastball|1|1|0|0|11|93
+Nick Kingham|R|Anthony Rizzo|L|Walk|B|Changeup|2|1|1|0|11|85
+Nick Kingham|R|Anthony Rizzo|L|Walk|B|Changeup|3|2|1|0|13|85
+Nick Kingham|R|Anthony Rizzo|L|Walk|F|Four-Seam Fastball|4|3|1|0|2|93
+Nick Kingham|R|Anthony Rizzo|L|Walk|F|Four-Seam Fastball|5|3|2|0|2|94
+Nick Kingham|R|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|6|3|2|0|11|93
+Nick Kingham|R|Ben Zobrist|L|Double|C|Four-Seam Fastball|7|0|0|0|7|92
+Nick Kingham|R|Ben Zobrist|L|Double|D|Four-Seam Fastball|8|0|1|0|12|91
+Nick Kingham|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|9|0|0|0|12|92
+Nick Kingham|R|Jason Heyward|L|Groundout|B|Knuckle Curve|10|1|0|0|11|79
+Nick Kingham|R|Jason Heyward|L|Groundout|C|Four-Seam Fastball|11|2|0|0|1|91
+Nick Kingham|R|Jason Heyward|L|Groundout|*B|Slider|12|2|1|0|14|82
+Nick Kingham|R|Jason Heyward|L|Groundout|E|Four-Seam Fastball|13|3|1|0|6|92
+Nick Kingham|R|Javier Baez|R|Field Error|B|Two-Seam Fastball|14|0|0|1|13|92
+Nick Kingham|R|Javier Baez|R|Field Error|F|Two-Seam Fastball|15|1|0|1|13|93
+Nick Kingham|R|Javier Baez|R|Field Error|F|Changeup|16|1|1|1|13|85
+Nick Kingham|R|Javier Baez|R|Field Error|F|Four-Seam Fastball|17|1|2|1|12|92
+Nick Kingham|R|Javier Baez|R|Field Error|*B|Changeup|18|1|2|1|14|86
+Nick Kingham|R|Javier Baez|R|Field Error|F|Changeup|19|2|2|1|13|85
+Nick Kingham|R|Javier Baez|R|Field Error|B|Two-Seam Fastball|20|2|2|1|13|94
+Nick Kingham|R|Javier Baez|R|Field Error|F|Cutter|21|3|2|1|6|86
+Nick Kingham|R|Javier Baez|R|Field Error|F|Changeup|22|3|2|1|13|86
+Nick Kingham|R|Javier Baez|R|Field Error|E|Two-Seam Fastball|23|3|2|1|14|93
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|B|Four-Seam Fastball|24|0|0|1|12|92
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|S|Four-Seam Fastball|25|1|0|1|1|92
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|F|Four-Seam Fastball|26|1|1|1|1|93
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|F|Four-Seam Fastball|27|1|2|1|1|92
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|F|Knuckle Curve|28|1|2|1|9|80
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|F|Four-Seam Fastball|29|1|2|1|14|93
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|B|Changeup|30|1|2|1|13|84
+Nick Kingham|R|Ian Happ|L|Hit By Pitch|H|Cutter|31|2|2|1|12|87
+Nick Kingham|R|Kyle Schwarber|L|Single|B|Changeup|32|0|0|1|13|85
+Nick Kingham|R|Kyle Schwarber|L|Single|S|Changeup|33|1|0|1|9|86
+Nick Kingham|R|Kyle Schwarber|L|Single|B|Four-Seam Fastball|34|1|1|1|14|92
+Nick Kingham|R|Kyle Schwarber|L|Single|*B|Slider|35|2|1|1|14|81
+Nick Kingham|R|Kyle Schwarber|L|Single|E|Changeup|36|3|1|1|7|84
+Nick Kingham|R|Willson Contreras|R|Single|C|Four-Seam Fastball|37|0|0|1|6|92
+Nick Kingham|R|Willson Contreras|R|Single|F|Two-Seam Fastball|38|0|1|1|14|93
+Nick Kingham|R|Willson Contreras|R|Single|D|Two-Seam Fastball|39|0|2|1|14|93
+Nick Kingham|R|Cole Hamels|L|Strikeout|S|Four-Seam Fastball|40|0|0|1|3|92
+Nick Kingham|R|Cole Hamels|L|Strikeout|F|Four-Seam Fastball|41|0|1|1|6|92
+Nick Kingham|R|Cole Hamels|L|Strikeout|S|Four-Seam Fastball|42|0|2|1|13|92
+Nick Kingham|R|Addison Russell|R|Pop Out|S|Four-Seam Fastball|43|0|0|2|12|92
+Nick Kingham|R|Addison Russell|R|Pop Out|B|Two-Seam Fastball|44|0|1|2|14|91
+Nick Kingham|R|Addison Russell|R|Pop Out|F|Cutter|45|1|1|2|12|88
+Nick Kingham|R|Addison Russell|R|Pop Out|B|Knuckle Curve|46|1|2|2|11|79
+Nick Kingham|R|Addison Russell|R|Pop Out|F|Two-Seam Fastball|47|2|2|2|7|93
+Nick Kingham|R|Addison Russell|R|Pop Out|B|Changeup|48|2|2|2|11|84
+Nick Kingham|R|Addison Russell|R|Pop Out|F|Four-Seam Fastball|49|3|2|2|12|92
+Nick Kingham|R|Addison Russell|R|Pop Out|X|Two-Seam Fastball|50|3|2|2|11|92
+Nick Kingham|R|Travis Shaw|L|Flyout|X|Two-Seam Fastball|0|0|0|2|2|92
+Nick Kingham|R|Ryan Braun|R|Lineout|B|Four-Seam Fastball|1|0|0|0|14|93
+Nick Kingham|R|Ryan Braun|R|Lineout|T|Four-Seam Fastball|2|1|0|0|3|93
+Nick Kingham|R|Ryan Braun|R|Lineout|X|Slider|3|1|1|0|7|84
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|4|0|0|1|2|93
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|5|0|1|1|12|93
+Nick Kingham|R|Mike Moustakas|L|Strikeout|B|Changeup|6|0|2|1|13|84
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|7|1|2|1|5|94
+Nick Kingham|R|Mike Moustakas|L|Strikeout|B|Knuckle Curve|8|1|2|1|11|80
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Changeup|9|2|2|1|13|86
+Nick Kingham|R|Mike Moustakas|L|Strikeout|B|Slider|10|2|2|1|11|82
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Changeup|11|3|2|1|11|85
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|12|3|2|1|14|94
+Nick Kingham|R|Mike Moustakas|L|Strikeout|S|Two-Seam Fastball|13|3|2|1|4|93
+Nick Kingham|R|Jonathan Schoop|R|Home Run|C|Two-Seam Fastball|14|0|0|2|14|92
+Nick Kingham|R|Jonathan Schoop|R|Home Run|B|Slider|15|0|1|2|14|83
+Nick Kingham|R|Jonathan Schoop|R|Home Run|E|Two-Seam Fastball|16|1|1|2|8|92
+Nick Kingham|R|Manny Pina|R|Field Error|C|Four-Seam Fastball|17|0|0|2|6|92
+Nick Kingham|R|Manny Pina|R|Field Error|D|Four-Seam Fastball|18|0|1|2|2|93
+Nick Kingham|R|Orlando Arcia|R|Sac Bunt|F|Four-Seam Fastball|19|0|0|2|9|90
+Nick Kingham|R|Orlando Arcia|R|Sac Bunt|X|Slider|20|0|1|2|2|81
+Nick Kingham|R|Lorenzo Cain|R|Flyout|C|Four-Seam Fastball|21|0|0|0|4|92
+Nick Kingham|R|Lorenzo Cain|R|Flyout|X|Slider|22|0|1|0|4|82
+Nick Kingham|R|Christian Yelich|L|Strikeout|B|Changeup|23|0|0|1|13|83
+Nick Kingham|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|24|1|0|1|13|92
+Nick Kingham|R|Christian Yelich|L|Strikeout|S|Changeup|25|1|1|1|13|83
+Nick Kingham|R|Christian Yelich|L|Strikeout|*B|Changeup|26|1|2|1|13|85
+Nick Kingham|R|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|27|2|2|1|12|92
+Nick Kingham|R|Harrison Bader|R|Lineout|C|Four-Seam Fastball|0|0|0|0|2|92
+Nick Kingham|R|Harrison Bader|R|Lineout|S|Cutter|1|0|1|0|14|87
+Nick Kingham|R|Harrison Bader|R|Lineout|B|Changeup|2|0|2|0|14|85
+Nick Kingham|R|Harrison Bader|R|Lineout|B|Changeup|3|1|2|0|14|86
+Nick Kingham|R|Harrison Bader|R|Lineout|X|Two-Seam Fastball|4|2|2|0|4|93
+Nick Kingham|R|Yairo Munoz|R|Groundout|B|Cutter|5|0|0|1|14|88
+Nick Kingham|R|Yairo Munoz|R|Groundout|B|Two-Seam Fastball|6|1|0|1|14|93
+Nick Kingham|R|Yairo Munoz|R|Groundout|C|Four-Seam Fastball|7|2|0|1|12|94
+Nick Kingham|R|Yairo Munoz|R|Groundout|X|Four-Seam Fastball|8|2|1|1|14|93
+Nick Kingham|R|Adolis Garcia|R|Flyout|X|Cutter|9|0|0|2|3|87
+Nick Kingham|R|Ronald Acuna Jr.|R|Home Run|B|Two-Seam Fastball|0|0|0|0|11|92
+Nick Kingham|R|Ronald Acuna Jr.|R|Home Run|E|Four-Seam Fastball|1|1|0|0|1|92
+Nick Kingham|R|Ender Inciarte|L|Single|C|Two-Seam Fastball|2|0|0|0|13|92
+Nick Kingham|R|Ender Inciarte|L|Single|B|Changeup|3|0|1|0|13|83
+Nick Kingham|R|Ender Inciarte|L|Single|S|Changeup|4|1|1|0|4|85
+Nick Kingham|R|Ender Inciarte|L|Single|D|Four-Seam Fastball|5|1|2|0|5|93
+Nick Kingham|R|Freddie Freeman|L|Flyout|X|Knuckle Curve|6|0|0|0|4|78
+Nick Kingham|R|Nick Markakis|L|Lineout|C|Two-Seam Fastball|7|0|0|1|7|89
+Nick Kingham|R|Nick Markakis|L|Lineout|*B|Slider|8|0|1|1|14|81
+Nick Kingham|R|Nick Markakis|L|Lineout|C|Changeup|9|1|1|1|11|83
+Nick Kingham|R|Nick Markakis|L|Lineout|*B|Changeup|10|1|2|1|13|83
+Nick Kingham|R|Nick Markakis|L|Lineout|X|Four-Seam Fastball|11|2|2|1|7|91
+Nick Kingham|R|Johan Camargo|L|Flyout|B|Four-Seam Fastball|12|0|0|2|12|91
+Nick Kingham|R|Johan Camargo|L|Flyout|S|Changeup|13|1|0|2|13|83
+Nick Kingham|R|Johan Camargo|L|Flyout|X|Changeup|14|1|1|2|7|83
+Nick Kingham|R|Ozzie Albies|L|Lineout|B|Knuckle Curve|15|0|0|0|14|78
+Nick Kingham|R|Ozzie Albies|L|Lineout|F|Two-Seam Fastball|16|1|0|0|13|91
+Nick Kingham|R|Ozzie Albies|L|Lineout|X|Two-Seam Fastball|17|1|1|0|14|91
+Nick Kingham|R|Tyler Flowers|R|Strikeout|B|Two-Seam Fastball|18|0|0|1|14|92
+Nick Kingham|R|Tyler Flowers|R|Strikeout|C|Four-Seam Fastball|19|1|0|1|14|93
+Nick Kingham|R|Tyler Flowers|R|Strikeout|T|Four-Seam Fastball|20|1|1|1|1|93
+Nick Kingham|R|Tyler Flowers|R|Strikeout|S|Cutter|21|1|2|1|14|86
+Nick Kingham|R|Dansby Swanson|R|Strikeout|F|Two-Seam Fastball|22|0|0|2|9|92
+Nick Kingham|R|Dansby Swanson|R|Strikeout|B|Cutter|23|0|1|2|14|88
+Nick Kingham|R|Dansby Swanson|R|Strikeout|B|Two-Seam Fastball|24|1|1|2|13|92
+Nick Kingham|R|Dansby Swanson|R|Strikeout|S|Changeup|25|2|1|2|13|84
+Nick Kingham|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|26|2|2|2|3|94
+Nick Kingham|R|Dansby Swanson|R|Strikeout|W|Knuckle Curve|27|2|2|2|14|81
+Nick Kingham|R|Julio Teheran|R|Strikeout|B|Four-Seam Fastball|28|0|0|0|12|91
+Nick Kingham|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|29|1|0|0|6|91
+Nick Kingham|R|Julio Teheran|R|Strikeout|S|Slider|30|1|1|0|14|83
+Nick Kingham|R|Julio Teheran|R|Strikeout|S|Slider|31|1|2|0|14|83
+Nick Kingham|R|Ronald Acuna Jr.|R|Double|S|Two-Seam Fastball|32|0|0|1|4|92
+Nick Kingham|R|Ronald Acuna Jr.|R|Double|S|Cutter|33|0|1|1|14|89
+Nick Kingham|R|Ronald Acuna Jr.|R|Double|D|Knuckle Curve|34|0|2|1|7|80
+Nick Kingham|R|Ender Inciarte|L|Lineout|B|Changeup|35|0|0|1|13|84
+Nick Kingham|R|Ender Inciarte|L|Lineout|B|Two-Seam Fastball|36|1|0|1|13|91
+Nick Kingham|R|Ender Inciarte|L|Lineout|F|Two-Seam Fastball|37|2|0|1|5|91
+Nick Kingham|R|Ender Inciarte|L|Lineout|*B|Changeup|38|2|1|1|13|83
+Nick Kingham|R|Ender Inciarte|L|Lineout|X|Two-Seam Fastball|39|3|1|1|4|91
+Nick Kingham|R|Freddie Freeman|L|Lineout|B|Changeup|40|0|0|2|13|84
+Nick Kingham|R|Freddie Freeman|L|Lineout|B|Changeup|41|1|0|2|13|84
+Nick Kingham|R|Freddie Freeman|L|Lineout|F|Cutter|42|2|0|2|9|89
+Nick Kingham|R|Freddie Freeman|L|Lineout|F|Four-Seam Fastball|43|2|1|2|9|92
+Nick Kingham|R|Freddie Freeman|L|Lineout|X|Four-Seam Fastball|44|2|2|2|6|92
+Nick Kingham|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|45|0|0|0|14|91
+Nick Kingham|R|Nick Markakis|L|Groundout|F|Four-Seam Fastball|46|1|0|0|12|91
+Nick Kingham|R|Nick Markakis|L|Groundout|B|Cutter|47|1|1|0|3|86
+Nick Kingham|R|Nick Markakis|L|Groundout|X|Two-Seam Fastball|48|2|1|0|7|92
+Nick Kingham|R|Johan Camargo|L|Flyout|B|Four-Seam Fastball|49|0|0|1|13|92
+Nick Kingham|R|Johan Camargo|L|Flyout|X|Changeup|50|1|0|1|13|86
+Nick Kingham|R|Ozzie Albies|L|Strikeout|F|Knuckle Curve|51|0|0|2|8|80
+Nick Kingham|R|Ozzie Albies|L|Strikeout|B|Four-Seam Fastball|52|0|1|2|12|92
+Nick Kingham|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|53|1|1|2|1|91
+Nick Kingham|R|Ozzie Albies|L|Strikeout|F|Four-Seam Fastball|54|1|2|2|1|93
+Nick Kingham|R|Ozzie Albies|L|Strikeout|S|Changeup|55|1|2|2|13|86
+Nick Kingham|R|Tyler Flowers|R|Groundout|B|Slider|56|0|0|0|14|84
+Nick Kingham|R|Tyler Flowers|R|Groundout|X|Two-Seam Fastball|57|1|0|0|9|91
+Nick Kingham|R|Dansby Swanson|R|Single|B|Knuckle Curve|58|0|0|1|14|80
+Nick Kingham|R|Dansby Swanson|R|Single|B|Two-Seam Fastball|59|1|0|1|14|91
+Nick Kingham|R|Dansby Swanson|R|Single|B|Two-Seam Fastball|60|2|0|1|14|92
+Nick Kingham|R|Dansby Swanson|R|Single|C|Four-Seam Fastball|61|3|0|1|5|91
+Nick Kingham|R|Dansby Swanson|R|Single|D|Four-Seam Fastball|62|3|1|1|14|91
+Nick Kingham|R|Julio Teheran|R|Sac Bunt|L|Four-Seam Fastball|63|0|0|1|14|90
+Nick Kingham|R|Julio Teheran|R|Sac Bunt|L|Cutter|64|0|1|1|3|89
+Nick Kingham|R|Julio Teheran|R|Sac Bunt|X|Cutter|65|0|2|1|14|87
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|B|Cutter|66|0|0|2|14|89
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|S|Cutter|67|1|0|2|14|89
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|F|Cutter|68|1|1|2|9|89
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|B|Four-Seam Fastball|69|1|2|2|11|92
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|F|Cutter|70|2|2|2|14|88
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|B|Changeup|71|2|2|2|13|84
+Nick Kingham|R|Ronald Acuna Jr.|R|Groundout|X|Cutter|72|3|2|2|14|90
+Nick Kingham|R|Rafael Ortega|L|Groundout|B|Four-Seam Fastball|0|0|0|2|12|92
+Nick Kingham|R|Rafael Ortega|L|Groundout|F|Four-Seam Fastball|1|1|0|2|11|92
+Nick Kingham|R|Rafael Ortega|L|Groundout|B|Slider|2|1|1|2|13|80
+Nick Kingham|R|Rafael Ortega|L|Groundout|F|Four-Seam Fastball|3|2|1|2|11|91
+Nick Kingham|R|Rafael Ortega|L|Groundout|F|Knuckle Curve|4|2|2|2|14|80
+Nick Kingham|R|Rafael Ortega|L|Groundout|X|Four-Seam Fastball|5|2|2|2|11|92
+Nick Kingham|R|Miguel Rojas|R|Walk|B|Cutter|6|0|0|0|14|89
+Nick Kingham|R|Miguel Rojas|R|Walk|C|Four-Seam Fastball|7|1|0|0|9|93
+Nick Kingham|R|Miguel Rojas|R|Walk|F|Cutter|8|1|1|0|14|87
+Nick Kingham|R|Miguel Rojas|R|Walk|B|Knuckle Curve|9|1|2|0|13|79
+Nick Kingham|R|Miguel Rojas|R|Walk|F|Knuckle Curve|10|2|2|0|11|79
+Nick Kingham|R|Miguel Rojas|R|Walk|B|Two-Seam Fastball|11|2|2|0|13|92
+Nick Kingham|R|Miguel Rojas|R|Walk|B|Four-Seam Fastball|12|3|2|0|14|93
+Nick Kingham|R|Starlin Castro|R|Double|*B|Two-Seam Fastball|13|0|0|0|13|91
+Nick Kingham|R|Starlin Castro|R|Double|D|Four-Seam Fastball|14|1|0|0|6|89
+Nick Kingham|R|Brian Anderson|R|Walk|F|Cutter|15|0|0|0|14|88
+Nick Kingham|R|Brian Anderson|R|Walk|*B|Knuckle Curve|16|0|1|0|14|78
+Nick Kingham|R|Brian Anderson|R|Walk|*B|Slider|17|1|1|0|14|86
+Nick Kingham|R|Brian Anderson|R|Walk|B|Two-Seam Fastball|18|2|1|0|13|91
+Nick Kingham|R|Brian Anderson|R|Walk|F|Four-Seam Fastball|19|3|1|0|5|91
+Nick Kingham|R|Brian Anderson|R|Walk|B|Cutter|20|3|2|0|14|89
+Nick Kingham|R|Lewis Brinson|R|Flyout|*B|Cutter|21|0|0|0|14|87
+Nick Kingham|R|Lewis Brinson|R|Flyout|*B|Changeup|22|1|0|0|13|84
+Nick Kingham|R|Lewis Brinson|R|Flyout|C|Four-Seam Fastball|23|2|0|0|7|91
+Nick Kingham|R|Lewis Brinson|R|Flyout|*B|Four-Seam Fastball|24|2|1|0|14|92
+Nick Kingham|R|Lewis Brinson|R|Flyout|X|Four-Seam Fastball|25|3|1|0|5|91
+Nick Kingham|R|Austin Dean|R|Pop Out|B|Cutter|26|0|0|1|14|88
+Nick Kingham|R|Austin Dean|R|Pop Out|C|Four-Seam Fastball|27|1|0|1|8|91
+Nick Kingham|R|Austin Dean|R|Pop Out|C|Cutter|28|1|1|1|9|88
+Nick Kingham|R|Austin Dean|R|Pop Out|B|Knuckle Curve|29|1|2|1|14|79
+Nick Kingham|R|Austin Dean|R|Pop Out|F|Four-Seam Fastball|30|2|2|1|8|92
+Nick Kingham|R|Austin Dean|R|Pop Out|B|Slider|31|2|2|1|13|79
+Nick Kingham|R|Austin Dean|R|Pop Out|X|Four-Seam Fastball|32|3|2|1|5|90
+Nick Kingham|R|Peter O'Brien|R|Double|C|Four-Seam Fastball|33|0|0|2|8|90
+Nick Kingham|R|Peter O'Brien|R|Double|B|Cutter|34|0|1|2|14|88
+Nick Kingham|R|Peter O'Brien|R|Double|S|Changeup|35|1|1|2|14|84
+Nick Kingham|R|Peter O'Brien|R|Double|B|Cutter|36|1|2|2|14|87
+Nick Kingham|R|Peter O'Brien|R|Double|B|Four-Seam Fastball|37|2|2|2|14|91
+Nick Kingham|R|Peter O'Brien|R|Double|D|Four-Seam Fastball|38|3|2|2|6|91
+Nick Kingham|R|Bryan Holaday|R|Pop Out|F|Four-Seam Fastball|39|0|0|2|1|90
+Nick Kingham|R|Bryan Holaday|R|Pop Out|S|Cutter|40|0|1|2|14|87
+Nick Kingham|R|Bryan Holaday|R|Pop Out|X|Cutter|41|0|2|2|14|88
+Nick Kingham|R|Isaac Galloway|R|Strikeout|*B|Four-Seam Fastball|42|0|0|0|14|91
+Nick Kingham|R|Isaac Galloway|R|Strikeout|*B|Changeup|43|1|0|0|13|83
+Nick Kingham|R|Isaac Galloway|R|Strikeout|F|Four-Seam Fastball|44|2|0|0|13|89
+Nick Kingham|R|Isaac Galloway|R|Strikeout|F|Four-Seam Fastball|45|2|1|0|8|89
+Nick Kingham|R|Isaac Galloway|R|Strikeout|F|Cutter|46|2|2|0|9|87
+Nick Kingham|R|Isaac Galloway|R|Strikeout|F|Knuckle Curve|47|2|2|0|7|77
+Nick Kingham|R|Isaac Galloway|R|Strikeout|S|Four-Seam Fastball|48|2|2|0|7|91
+Nick Kingham|R|Rafael Ortega|L|Strikeout|F|Four-Seam Fastball|49|0|0|1|2|89
+Nick Kingham|R|Rafael Ortega|L|Strikeout|F|Cutter|50|0|1|1|1|89
+Nick Kingham|R|Rafael Ortega|L|Strikeout|S|Four-Seam Fastball|51|0|2|1|11|89
+Nick Kingham|R|Curtis Granderson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|92
+Nick Kingham|R|Curtis Granderson|L|Strikeout|C|Knuckle Curve|1|0|1|0|9|79
+Nick Kingham|R|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|91
+Nick Kingham|R|Curtis Granderson|L|Strikeout|S|Cutter|3|1|2|0|14|88
+Nick Kingham|R|Christian Yelich|L|Single|C|Four-Seam Fastball|4|0|0|1|7|92
+Nick Kingham|R|Christian Yelich|L|Single|B|Four-Seam Fastball|5|0|1|1|14|93
+Nick Kingham|R|Christian Yelich|L|Single|S|Changeup|6|1|1|1|13|85
+Nick Kingham|R|Christian Yelich|L|Single|D|Four-Seam Fastball|7|1|2|1|2|92
+Nick Kingham|R|Lorenzo Cain|R|Single|D|Two-Seam Fastball|8|0|0|1|7|92
+Nick Kingham|R|Travis Shaw|L|Single|C|Cutter|9|0|0|1|6|88
+Nick Kingham|R|Travis Shaw|L|Single|S|Changeup|10|0|1|1|7|83
+Nick Kingham|R|Travis Shaw|L|Single|F|Knuckle Curve|11|0|2|1|9|80
+Nick Kingham|R|Travis Shaw|L|Single|B|Cutter|12|0|2|1|14|88
+Nick Kingham|R|Travis Shaw|L|Single|F|Changeup|13|1|2|1|13|84
+Nick Kingham|R|Travis Shaw|L|Single|D|Four-Seam Fastball|14|1|2|1|1|92
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Cutter|15|0|0|1|3|88
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|B|Two-Seam Fastball|16|0|1|1|13|93
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|S|Cutter|17|1|1|1|14|88
+Nick Kingham|R|Jesus Aguilar|R|Strikeout|C|Cutter|18|1|2|1|14|89
+Nick Kingham|R|Mike Moustakas|L|Hit By Pitch|B|Changeup|19|0|0|2|13|84
+Nick Kingham|R|Mike Moustakas|L|Hit By Pitch|F|Cutter|20|1|0|2|6|88
+Nick Kingham|R|Mike Moustakas|L|Hit By Pitch|F|Changeup|21|1|1|2|13|84
+Nick Kingham|R|Mike Moustakas|L|Hit By Pitch|B|Four-Seam Fastball|22|1|2|2|11|92
+Nick Kingham|R|Mike Moustakas|L|Hit By Pitch|H|Cutter|23|2|2|2|14|88
+Nick Kingham|R|Erik Kratz|R|Flyout|X|Cutter|24|0|0|2|6|89
+Nick Kingham|R|Orlando Arcia|R|Fan Interference|F|Cutter|25|0|0|0|14|87
+Nick Kingham|R|Orlando Arcia|R|Fan Interference|D|Two-Seam Fastball|26|0|1|0|13|90
+Nick Kingham|R|Wade Miley|L|Walk|B|Two-Seam Fastball|27|0|0|0|14|91
+Nick Kingham|R|Wade Miley|L|Walk|B|Four-Seam Fastball|28|1|0|0|8|90
+Nick Kingham|R|Wade Miley|L|Walk|B|Four-Seam Fastball|29|2|0|0|14|90
+Nick Kingham|R|Wade Miley|L|Walk|C|Four-Seam Fastball|30|3|0|0|11|91
+Nick Kingham|R|Wade Miley|L|Walk|B|Four-Seam Fastball|31|3|1|0|14|91
+Nick Kingham|R|Curtis Granderson|L|Lineout|C|Changeup|32|0|0|0|7|83
+Nick Kingham|R|Curtis Granderson|L|Lineout|B|Cutter|33|0|1|0|1|88
+Nick Kingham|R|Curtis Granderson|L|Lineout|B|Two-Seam Fastball|34|1|1|0|13|91
+Nick Kingham|R|Curtis Granderson|L|Lineout|X|Cutter|35|2|1|0|8|87
+Nick Kingham|R|Christian Yelich|L|Home Run|E|Cutter|36|0|0|1|8|88
+Nick Kingham|R|Lorenzo Cain|R|Field Error|F|Four-Seam Fastball|37|0|0|1|2|92
+Nick Kingham|R|Lorenzo Cain|R|Field Error|D|Knuckle Curve|38|0|1|1|9|80
+Nick Kingham|R|Travis Shaw|L|Home Run|E|Four-Seam Fastball|39|0|0|1|9|90
+Nick Kingham|R|Jesus Aguilar|R|Single|B|Cutter|40|0|0|1|14|89
+Nick Kingham|R|Jesus Aguilar|R|Single|S|Knuckle Curve|41|1|0|1|14|81
+Nick Kingham|R|Jesus Aguilar|R|Single|B|Four-Seam Fastball|42|1|1|1|14|91
+Nick Kingham|R|Jesus Aguilar|R|Single|D|Cutter|43|2|1|1|4|89
+Nick Kingham|R|Mike Moustakas|L|Walk|F|Changeup|44|0|0|1|7|85
+Nick Kingham|R|Mike Moustakas|L|Walk|B|Changeup|45|0|1|1|14|85
+Nick Kingham|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|46|1|1|1|11|90
+Nick Kingham|R|Mike Moustakas|L|Walk|F|Changeup|47|2|1|1|11|84
+Nick Kingham|R|Mike Moustakas|L|Walk|F|Cutter|48|2|2|1|5|88
+Nick Kingham|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|49|2|2|1|12|90
+Nick Kingham|R|Mike Moustakas|L|Walk|B|Changeup|50|3|2|1|11|83
+Nick Kingham|R|Scott Schebler|L|Single|D|Two-Seam Fastball|0|0|0|0|4|91
+Nick Kingham|R|Jose Peraza|R|Lineout|B|Four-Seam Fastball|1|0|0|0|11|91
+Nick Kingham|R|Jose Peraza|R|Lineout|F|Cutter|2|1|0|0|12|88
+Nick Kingham|R|Jose Peraza|R|Lineout|X|Cutter|3|1|1|0|4|88
+Nick Kingham|R|Joey Votto|L|Walk|B|Two-Seam Fastball|4|0|0|1|11|90
+Nick Kingham|R|Joey Votto|L|Walk|C|Changeup|5|1|0|1|13|85
+Nick Kingham|R|Joey Votto|L|Walk|F|Two-Seam Fastball|6|1|1|1|11|91
+Nick Kingham|R|Joey Votto|L|Walk|B|Knuckle Curve|7|1|2|1|13|79
+Nick Kingham|R|Joey Votto|L|Walk|B|Changeup|8|2|2|1|11|85
+Nick Kingham|R|Joey Votto|L|Walk|F|Changeup|9|3|2|1|13|84
+Nick Kingham|R|Joey Votto|L|Walk|B|Four-Seam Fastball|10|3|2|1|11|92
+Nick Kingham|R|Scooter Gennett|L|Strikeout|L|Two-Seam Fastball|11|0|0|1|7|91
+Nick Kingham|R|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|12|0|1|1|12|91
+Nick Kingham|R|Scooter Gennett|L|Strikeout|T|Cutter|13|1|1|1|3|88
+Nick Kingham|R|Scooter Gennett|L|Strikeout|*B|Knuckle Curve|14|1|2|1|14|80
+Nick Kingham|R|Scooter Gennett|L|Strikeout|S|Cutter|15|2|2|1|14|88
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Cutter|16|0|0|2|9|88
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|17|0|1|2|12|92
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Cutter|18|1|1|2|14|89
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|*B|Knuckle Curve|19|2|1|2|14|80
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Cutter|20|3|1|2|12|89
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|21|3|2|2|6|92
+Nick Kingham|R|Tucker Barnhart|L|Single|D|Two-Seam Fastball|22|0|0|0|7|90
+Nick Kingham|R|Phillip Ervin|R|Lineout|F|Four-Seam Fastball|23|0|0|0|3|92
+Nick Kingham|R|Phillip Ervin|R|Lineout|B|Two-Seam Fastball|24|0|1|0|13|90
+Nick Kingham|R|Phillip Ervin|R|Lineout|B|Cutter|25|1|1|0|12|88
+Nick Kingham|R|Phillip Ervin|R|Lineout|B|Cutter|26|2|1|0|13|87
+Nick Kingham|R|Phillip Ervin|R|Lineout|X|Four-Seam Fastball|27|3|1|0|6|91
+Nick Kingham|R|Anthony DeSclafani|R|Sac Bunt|C|Four-Seam Fastball|28|0|0|1|9|92
+Nick Kingham|R|Anthony DeSclafani|R|Sac Bunt|X|Four-Seam Fastball|29|0|1|1|6|92
+Nick Kingham|R|Billy Hamilton|L|Walk|B|Knuckle Curve|30|0|0|2|14|80
+Nick Kingham|R|Billy Hamilton|L|Walk|F|Changeup|31|1|0|2|7|84
+Nick Kingham|R|Billy Hamilton|L|Walk|B|Cutter|32|1|1|2|14|89
+Nick Kingham|R|Billy Hamilton|L|Walk|*B|Two-Seam Fastball|33|2|1|2|14|91
+Nick Kingham|R|Billy Hamilton|L|Walk|B|Cutter|34|3|1|2|11|89
+Nick Kingham|R|Scott Schebler|L|Groundout|*B|Knuckle Curve|35|0|0|2|14|80
+Nick Kingham|R|Scott Schebler|L|Groundout|F|Two-Seam Fastball|36|1|0|2|8|91
+Nick Kingham|R|Scott Schebler|L|Groundout|*B|Cutter|37|1|1|2|14|89
+Nick Kingham|R|Scott Schebler|L|Groundout|X|Two-Seam Fastball|38|2|1|2|7|90
+Nick Kingham|R|Jose Peraza|R|Pop Out|B|Cutter|39|0|0|0|14|89
+Nick Kingham|R|Jose Peraza|R|Pop Out|C|Four-Seam Fastball|40|1|0|0|12|90
+Nick Kingham|R|Jose Peraza|R|Pop Out|S|Changeup|41|1|1|0|9|83
+Nick Kingham|R|Jose Peraza|R|Pop Out|B|Cutter|42|1|2|0|14|87
+Nick Kingham|R|Jose Peraza|R|Pop Out|X|Four-Seam Fastball|43|2|2|0|3|90
+Nick Kingham|R|Joey Votto|L|Double|D|Two-Seam Fastball|44|0|0|1|8|89
+Nick Kingham|R|Scooter Gennett|L|Groundout|S|Changeup|45|0|0|1|4|84
+Nick Kingham|R|Scooter Gennett|L|Groundout|F|Four-Seam Fastball|46|0|1|1|11|90
+Nick Kingham|R|Scooter Gennett|L|Groundout|*B|Knuckle Curve|47|0|2|1|14|77
+Nick Kingham|R|Scooter Gennett|L|Groundout|B|Cutter|48|1|2|1|11|88
+Nick Kingham|R|Scooter Gennett|L|Groundout|F|Changeup|49|2|2|1|11|83
+Nick Kingham|R|Scooter Gennett|L|Groundout|X|Cutter|50|2|2|1|2|86
+Nick Kingham|R|Eugenio Suarez|R|Home Run|F|Knuckle Curve|51|0|0|2|13|77
+Nick Kingham|R|Eugenio Suarez|R|Home Run|F|Cutter|52|0|1|2|3|87
+Nick Kingham|R|Eugenio Suarez|R|Home Run|B|Cutter|53|0|2|2|11|88
+Nick Kingham|R|Eugenio Suarez|R|Home Run|B|Cutter|54|1|2|2|12|90
+Nick Kingham|R|Eugenio Suarez|R|Home Run|E|Cutter|55|2|2|2|6|87
+Nick Kingham|R|Tucker Barnhart|L|Triple|B|Changeup|56|0|0|2|14|83
+Nick Kingham|R|Tucker Barnhart|L|Triple|D|Two-Seam Fastball|57|1|0|2|1|89
+Nick Kingham|R|Phillip Ervin|R|Intent Walk|V|N/A|58|0|0|2|0|0
+Nick Kingham|R|Phillip Ervin|R|Intent Walk|V|N/A|59|0|1|2|0|0
+Nick Kingham|R|Phillip Ervin|R|Intent Walk|V|N/A|60|0|2|2|0|0
+Nick Kingham|R|Phillip Ervin|R|Intent Walk|V|N/A|61|0|2|2|0|0
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|*B|Cutter|62|0|0|2|14|88
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|F|Cutter|63|1|0|2|5|90
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|*B|Cutter|64|1|1|2|14|88
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|F|Cutter|65|2|1|2|4|88
+Nick Kingham|R|Anthony DeSclafani|R|Strikeout|S|Cutter|66|2|2|2|14|88
+Nick Kingham|R|Billy Hamilton|L|Single|C|Changeup|67|0|0|0|11|87
+Nick Kingham|R|Billy Hamilton|L|Single|D|Changeup|68|0|1|0|5|87
+Nick Kingham|R|Scott Schebler|L|Groundout|F|Cutter|69|0|0|0|11|87
+Nick Kingham|R|Scott Schebler|L|Groundout|C|Cutter|70|0|1|0|13|87
+Nick Kingham|R|Scott Schebler|L|Groundout|F|Cutter|71|0|2|0|11|87
+Nick Kingham|R|Scott Schebler|L|Groundout|F|Slider|72|0|2|0|14|85
+Nick Kingham|R|Scott Schebler|L|Groundout|B|Changeup|73|0|2|0|13|80
+Nick Kingham|R|Scott Schebler|L|Groundout|X|Knuckle Curve|74|1|2|0|13|76
+Nick Kingham|R|Jose Peraza|R|Flyout|B|Cutter|75|0|0|1|14|89
+Nick Kingham|R|Jose Peraza|R|Flyout|F|Cutter|76|1|0|1|13|88
+Nick Kingham|R|Jose Peraza|R|Flyout|F|Cutter|77|1|1|1|6|86
+Nick Kingham|R|Jose Peraza|R|Flyout|B|Knuckle Curve|78|1|2|1|11|77
+Nick Kingham|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|79|2|2|1|2|89
+Nick Kingham|R|Jarrod Dyson|L|Single|B|Two-Seam Fastball|0|0|0|0|13|91
+Nick Kingham|R|Jarrod Dyson|L|Single|C|Four-Seam Fastball|1|1|0|0|4|93
+Nick Kingham|R|Jarrod Dyson|L|Single|B|Cutter|2|1|1|0|14|92
+Nick Kingham|R|Jarrod Dyson|L|Single|C|Four-Seam Fastball|3|2|1|0|11|93
+Nick Kingham|R|Jarrod Dyson|L|Single|B|Four-Seam Fastball|4|2|2|0|11|93
+Nick Kingham|R|Jarrod Dyson|L|Single|D|Four-Seam Fastball|5|3|2|0|4|93
+Nick Kingham|R|Eduardo Escobar|L|Pop Out|B|Four-Seam Fastball|6|0|0|0|12|94
+Nick Kingham|R|Eduardo Escobar|L|Pop Out|C|Four-Seam Fastball|7|1|0|0|11|92
+Nick Kingham|R|Eduardo Escobar|L|Pop Out|B|Changeup|8|1|1|0|11|83
+Nick Kingham|R|Eduardo Escobar|L|Pop Out|C|Cutter|9|2|1|0|3|89
+Nick Kingham|R|Eduardo Escobar|L|Pop Out|X|Four-Seam Fastball|10|2|2|0|11|94
+Nick Kingham|R|David Peralta|L|Single|C|Four-Seam Fastball|11|0|0|1|8|94
+Nick Kingham|R|David Peralta|L|Single|F|Knuckle Curve|12|0|1|1|14|80
+Nick Kingham|R|David Peralta|L|Single|B|Four-Seam Fastball|13|0|2|1|12|94
+Nick Kingham|R|David Peralta|L|Single|F|Four-Seam Fastball|14|1|2|1|11|94
+Nick Kingham|R|David Peralta|L|Single|F|Changeup|15|1|2|1|13|86
+Nick Kingham|R|David Peralta|L|Single|F|Cutter|16|1|2|1|2|92
+Nick Kingham|R|David Peralta|L|Single|E|Knuckle Curve|17|1|2|1|7|82
+Nick Kingham|R|Adam Jones|R|Single|C|Cutter|18|0|0|1|6|92
+Nick Kingham|R|Adam Jones|R|Single|B|Two-Seam Fastball|19|0|1|1|14|91
+Nick Kingham|R|Adam Jones|R|Single|C|Cutter|20|1|1|1|4|92
+Nick Kingham|R|Adam Jones|R|Single|D|Four-Seam Fastball|21|1|2|1|13|94
+Nick Kingham|R|Ketel Marte|L|Double|C|Changeup|22|0|0|1|5|86
+Nick Kingham|R|Ketel Marte|L|Double|B|Changeup|23|0|1|1|14|86
+Nick Kingham|R|Ketel Marte|L|Double|B|Cutter|24|1|1|1|14|91
+Nick Kingham|R|Ketel Marte|L|Double|E|Two-Seam Fastball|25|2|1|1|13|91
+Nick Kingham|R|Christian Walker|R|Strikeout|F|Two-Seam Fastball|26|0|0|1|4|91
+Nick Kingham|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|27|0|1|1|12|93
+Nick Kingham|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|28|1|1|1|9|92
+Nick Kingham|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|29|1|2|1|11|92
+Nick Kingham|R|Christian Walker|R|Strikeout|F|Cutter|30|2|2|1|14|93
+Nick Kingham|R|Christian Walker|R|Strikeout|B|Knuckle Curve|31|2|2|1|14|83
+Nick Kingham|R|Christian Walker|R|Strikeout|F|Cutter|32|3|2|1|14|93
+Nick Kingham|R|Christian Walker|R|Strikeout|C|Changeup|33|3|2|1|1|87
+Nick Kingham|R|Nick Ahmed|R|Flyout|B|Cutter|34|0|0|2|14|92
+Nick Kingham|R|Nick Ahmed|R|Flyout|X|Two-Seam Fastball|35|1|0|2|8|89
+Nick Kingham|R|Alex Avila|L|Walk|B|Four-Seam Fastball|36|0|0|0|11|92
+Nick Kingham|R|Alex Avila|L|Walk|C|Changeup|37|1|0|0|1|84
+Nick Kingham|R|Alex Avila|L|Walk|B|Cutter|38|1|1|0|12|90
+Nick Kingham|R|Alex Avila|L|Walk|S|Two-Seam Fastball|39|2|1|0|8|90
+Nick Kingham|R|Alex Avila|L|Walk|B|Changeup|40|2|2|0|14|86
+Nick Kingham|R|Alex Avila|L|Walk|F|Two-Seam Fastball|41|3|2|0|7|90
+Nick Kingham|R|Alex Avila|L|Walk|F|Two-Seam Fastball|42|3|2|0|11|89
+Nick Kingham|R|Alex Avila|L|Walk|F|Cutter|43|3|2|0|9|91
+Nick Kingham|R|Alex Avila|L|Walk|B|Two-Seam Fastball|44|3|2|0|11|89
+Nick Kingham|R|Robbie Ray|L|Sac Bunt|X|Four-Seam Fastball|45|0|0|0|8|92
+Nick Kingham|R|Jarrod Dyson|L|Single|B|Changeup|46|0|0|1|14|86
+Nick Kingham|R|Jarrod Dyson|L|Single|B|Changeup|47|1|0|1|13|84
+Nick Kingham|R|Jarrod Dyson|L|Single|D|Four-Seam Fastball|48|2|0|1|6|93
+Nick Kingham|R|Eduardo Escobar|L|Triple|F|Four-Seam Fastball|49|0|0|1|6|92
+Nick Kingham|R|Eduardo Escobar|L|Triple|E|Cutter|50|0|1|1|14|89
+Nick Kingham|R|David Peralta|L|Double|B|Changeup|51|0|0|1|14|86
+Nick Kingham|R|David Peralta|L|Double|B|Four-Seam Fastball|52|1|0|1|12|93
+Nick Kingham|R|David Peralta|L|Double|E|Changeup|53|2|0|1|8|85
+Nick Kingham|R|Adam Jones|R|Flyout|B|Knuckle Curve|54|0|0|1|14|81
+Nick Kingham|R|Adam Jones|R|Flyout|X|Cutter|55|1|0|1|14|91
+Nick Kingham|R|Ketel Marte|L|Groundout|C|Changeup|56|0|0|2|4|86
+Nick Kingham|R|Ketel Marte|L|Groundout|B|Cutter|57|0|1|2|14|91
+Nick Kingham|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|58|1|1|2|12|92
+Nick Kingham|R|Ketel Marte|L|Groundout|F|Knuckle Curve|59|2|1|2|14|80
+Nick Kingham|R|Ketel Marte|L|Groundout|X|Changeup|60|2|2|2|13|84
+Nick Kingham|R|Christian Walker|R|Double|C|Knuckle Curve|61|0|0|0|14|80
+Nick Kingham|R|Christian Walker|R|Double|B|Cutter|62|0|1|0|14|90
+Nick Kingham|R|Christian Walker|R|Double|D|Knuckle Curve|63|1|1|0|9|81
+Nick Kingham|R|Nick Ahmed|R|Groundout|C|Two-Seam Fastball|64|0|0|0|8|90
+Nick Kingham|R|Nick Ahmed|R|Groundout|S|Cutter|65|0|1|0|5|90
+Nick Kingham|R|Nick Ahmed|R|Groundout|X|Cutter|66|0|2|0|9|89
+Nick Kingham|R|Alex Avila|L|Single|E|Changeup|67|0|0|1|7|85
+Nick Kingham|R|Robbie Ray|L|Sac Bunt|X|Four-Seam Fastball|68|0|0|1|9|92
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|F|Knuckle Curve|69|0|0|2|14|79
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|70|0|1|2|14|93
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|F|Cutter|71|1|1|2|5|89
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|72|1|2|2|14|91
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|F|Knuckle Curve|73|2|2|2|13|81
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|74|2|2|2|7|93
+Nick Kingham|R|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|75|2|2|2|14|92
+Nick Kingham|R|Eduardo Escobar|L|Home Run|C|Knuckle Curve|76|0|0|0|6|79
+Nick Kingham|R|Eduardo Escobar|L|Home Run|E|Changeup|77|0|1|0|5|84
+Nick Kingham|R|David Peralta|L|Groundout|F|Two-Seam Fastball|78|0|0|0|4|89
+Nick Kingham|R|David Peralta|L|Groundout|B|Cutter|79|0|1|0|14|90
+Nick Kingham|R|David Peralta|L|Groundout|X|Knuckle Curve|80|1|1|0|9|79
+Nick Kingham|R|Adam Jones|R|Groundout|B|Two-Seam Fastball|81|0|0|1|11|90
+Nick Kingham|R|Adam Jones|R|Groundout|F|Knuckle Curve|82|1|0|1|5|78
+Nick Kingham|R|Adam Jones|R|Groundout|T|Cutter|83|1|1|1|14|90
+Nick Kingham|R|Adam Jones|R|Groundout|X|Cutter|84|1|2|1|14|90
+Nick Kingham|R|Ketel Marte|L|Flyout|C|Knuckle Curve|85|0|0|2|13|80
+Nick Kingham|R|Ketel Marte|L|Flyout|B|Two-Seam Fastball|86|0|1|2|13|90
+Nick Kingham|R|Ketel Marte|L|Flyout|B|Cutter|87|1|1|2|14|91
+Nick Kingham|R|Ketel Marte|L|Flyout|F|Changeup|88|2|1|2|1|85
+Nick Kingham|R|Ketel Marte|L|Flyout|F|Knuckle Curve|89|2|2|2|14|81
+Nick Kingham|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|90|2|2|2|12|92
+Nick Kingham|R|Ketel Marte|L|Flyout|X|Knuckle Curve|91|3|2|2|13|78
+Nick Kingham|R|Chris Davis|L|Strikeout|B|Knuckle Curve|0|0|0|0|14|80
+Nick Kingham|R|Chris Davis|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|12|92
+Nick Kingham|R|Chris Davis|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|6|93
+Nick Kingham|R|Chris Davis|L|Strikeout|C|Changeup|3|2|1|0|14|86
+Nick Kingham|R|Chris Davis|L|Strikeout|F|Changeup|4|2|2|0|5|87
+Nick Kingham|R|Chris Davis|L|Strikeout|W|Knuckle Curve|5|2|2|0|13|81
+Nick Kingham|R|Richie Martin|R|Single|B|Four-Seam Fastball|6|0|0|1|14|94
+Nick Kingham|R|Richie Martin|R|Single|F|Four-Seam Fastball|7|1|0|1|13|94
+Nick Kingham|R|Richie Martin|R|Single|D|Knuckle Curve|8|1|1|1|4|80
+Nick Kingham|R|Jonathan Villar|L|Groundout|C|Four-Seam Fastball|9|0|0|1|3|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|B|Four-Seam Fastball|10|0|1|1|12|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|B|Cutter|11|1|1|1|14|90
+Nick Kingham|R|Jonathan Villar|L|Groundout|S|Changeup|12|2|1|1|5|85
+Nick Kingham|R|Jonathan Villar|L|Groundout|F|Four-Seam Fastball|13|2|2|1|5|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|F|Four-Seam Fastball|14|2|2|1|6|93
+Nick Kingham|R|Jonathan Villar|L|Groundout|F|Knuckle Curve|15|2|2|1|5|80
+Nick Kingham|R|Jonathan Villar|L|Groundout|X|Changeup|16|2|2|1|11|84
+Nick Kingham|R|Trey Mancini|R|Walk|C|Four-Seam Fastball|17|0|0|2|7|92
+Nick Kingham|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|18|0|1|2|14|91
+Nick Kingham|R|Trey Mancini|R|Walk|*B|Four-Seam Fastball|19|1|1|2|13|93
+Nick Kingham|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|20|2|1|2|13|92
+Nick Kingham|R|Trey Mancini|R|Walk|F|Knuckle Curve|21|3|1|2|7|78
+Nick Kingham|R|Trey Mancini|R|Walk|B|Changeup|22|3|2|2|14|86
+Nick Kingham|R|Anthony Santander|L|Groundout|*B|Knuckle Curve|23|0|0|2|14|79
+Nick Kingham|R|Anthony Santander|L|Groundout|X|Changeup|24|1|0|2|11|84
+Nick Kingham|R|Renato Nunez|R|Groundout|B|Knuckle Curve|25|0|0|0|14|80
+Nick Kingham|R|Renato Nunez|R|Groundout|C|Four-Seam Fastball|26|1|0|0|9|91
+Nick Kingham|R|Renato Nunez|R|Groundout|B|Changeup|27|1|1|0|13|85
+Nick Kingham|R|Renato Nunez|R|Groundout|F|Four-Seam Fastball|28|2|1|0|14|92
+Nick Kingham|R|Renato Nunez|R|Groundout|X|Knuckle Curve|29|2|2|0|14|81
+Nick Kingham|R|Jace Peterson|L|Strikeout|S|Changeup|30|0|0|1|7|85
+Nick Kingham|R|Jace Peterson|L|Strikeout|C|Knuckle Curve|31|0|1|1|4|81
+Nick Kingham|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|32|0|2|1|12|93
+Nick Kingham|R|Jace Peterson|L|Strikeout|F|Knuckle Curve|33|1|2|1|9|82
+Nick Kingham|R|Jace Peterson|L|Strikeout|B|Changeup|34|1|2|1|11|86
+Nick Kingham|R|Jace Peterson|L|Strikeout|F|Changeup|35|2|2|1|4|84
+Nick Kingham|R|Jace Peterson|L|Strikeout|S|Knuckle Curve|36|2|2|1|13|81
+Nick Kingham|R|Pedro Severino|R|Groundout|B|Knuckle Curve|37|0|0|2|14|82
+Nick Kingham|R|Pedro Severino|R|Groundout|C|Four-Seam Fastball|38|1|0|2|9|92
+Nick Kingham|R|Pedro Severino|R|Groundout|B|Four-Seam Fastball|39|1|1|2|14|92
+Nick Kingham|R|Pedro Severino|R|Groundout|B|Four-Seam Fastball|40|2|1|2|14|93
+Nick Kingham|R|Pedro Severino|R|Groundout|X|Four-Seam Fastball|41|3|1|2|6|93
+Nick Kingham|R|Chance Sisco|L|Flyout|B|Changeup|42|0|0|0|11|84
+Nick Kingham|R|Chance Sisco|L|Flyout|F|Four-Seam Fastball|43|1|0|0|7|91
+Nick Kingham|R|Chance Sisco|L|Flyout|T|Knuckle Curve|44|1|1|0|13|81
+Nick Kingham|R|Chance Sisco|L|Flyout|B|Four-Seam Fastball|45|1|2|0|11|92
+Nick Kingham|R|Chance Sisco|L|Flyout|F|Knuckle Curve|46|2|2|0|14|81
+Nick Kingham|R|Chance Sisco|L|Flyout|B|Knuckle Curve|47|2|2|0|14|80
+Nick Kingham|R|Chance Sisco|L|Flyout|X|Four-Seam Fastball|48|3|2|0|5|92
+Nick Kingham|R|Chris Davis|L|Groundout|S|Changeup|49|0|0|1|13|85
+Nick Kingham|R|Chris Davis|L|Groundout|F|Knuckle Curve|50|0|1|1|14|81
+Nick Kingham|R|Chris Davis|L|Groundout|F|Changeup|51|0|2|1|7|86
+Nick Kingham|R|Chris Davis|L|Groundout|B|Four-Seam Fastball|52|0|2|1|11|93
+Nick Kingham|R|Chris Davis|L|Groundout|X|Knuckle Curve|53|1|2|1|7|81
+Nick Kingham|R|Richie Martin|R|Single|D|Four-Seam Fastball|54|0|0|2|8|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|B|Four-Seam Fastball|55|0|0|2|14|92
+Nick Kingham|R|Jonathan Villar|L|Groundout|X|Four-Seam Fastball|56|1|0|2|14|93
+Nick Kingham|R|Michael Chavis|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|3|91
+Nick Kingham|R|Michael Chavis|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|91
+Nick Kingham|R|Michael Chavis|R|Strikeout|S|Cutter|2|1|1|0|11|91
+Nick Kingham|R|Michael Chavis|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|91
+Nick Kingham|R|Michael Chavis|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|14|92
+Nick Kingham|R|Michael Chavis|R|Strikeout|W|Knuckle Curve|5|2|2|0|13|80
+Nick Kingham|R|Eduardo Nunez|R|Groundout|C|Knuckle Curve|6|0|0|1|9|79
+Nick Kingham|R|Eduardo Nunez|R|Groundout|F|Four-Seam Fastball|7|0|1|1|12|91
+Nick Kingham|R|Eduardo Nunez|R|Groundout|B|Knuckle Curve|8|0|2|1|14|82
+Nick Kingham|R|Eduardo Nunez|R|Groundout|X|Cutter|9|1|2|1|12|90
+Nick Kingham|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|10|0|0|2|8|90
+Nick Kingham|R|Mookie Betts|R|Walk|B|Cutter|11|0|1|2|14|91
+Nick Kingham|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|12|1|1|2|3|91
+Nick Kingham|R|Mookie Betts|R|Walk|B|Cutter|13|1|2|2|12|90
+Nick Kingham|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|14|2|2|2|14|92
+Nick Kingham|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|15|3|2|2|11|90
+Nick Kingham|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|16|0|0|2|14|92
+Nick Kingham|R|Andrew Benintendi|L|Flyout|B|Changeup|17|1|0|2|14|85
+Nick Kingham|R|Andrew Benintendi|L|Flyout|X|Four-Seam Fastball|18|2|0|2|3|92
+Nick Kingham|R|Xander Bogaerts|R|Pop Out|B|Cutter|19|0|0|0|14|89
+Nick Kingham|R|Xander Bogaerts|R|Pop Out|B|Knuckle Curve|20|1|0|0|14|77
+Nick Kingham|R|Xander Bogaerts|R|Pop Out|C|Four-Seam Fastball|21|2|0|0|11|90
+Nick Kingham|R|Xander Bogaerts|R|Pop Out|X|Four-Seam Fastball|22|2|1|0|6|91
+Nick Kingham|R|J.D. Martinez|R|Strikeout|C|Four-Seam Fastball|23|0|0|1|14|91
+Nick Kingham|R|J.D. Martinez|R|Strikeout|B|Four-Seam Fastball|24|0|1|1|14|90
+Nick Kingham|R|J.D. Martinez|R|Strikeout|B|Four-Seam Fastball|25|1|1|1|14|92
+Nick Kingham|R|J.D. Martinez|R|Strikeout|C|Cutter|26|2|1|1|7|91
+Nick Kingham|R|J.D. Martinez|R|Strikeout|S|Changeup|27|2|2|1|14|84
+Nick Kingham|R|Brock Holt|L|Strikeout|F|Changeup|28|0|0|2|9|85
+Nick Kingham|R|Brock Holt|L|Strikeout|F|Changeup|29|0|1|2|2|84
+Nick Kingham|R|Brock Holt|L|Strikeout|B|Four-Seam Fastball|30|0|2|2|11|92
+Nick Kingham|R|Brock Holt|L|Strikeout|F|Cutter|31|1|2|2|5|92
+Nick Kingham|R|Brock Holt|L|Strikeout|S|Four-Seam Fastball|32|1|2|2|14|91
+Nick Kingham|R|Christian Vazquez|R|Single|X|Four-Seam Fastball|0|0|0|0|8|93
+Nick Kingham|R|Brock Holt|L|Single|B|Four-Seam Fastball|1|0|0|1|11|92
+Nick Kingham|R|Brock Holt|L|Single|B|Cutter|2|1|0|1|12|90
+Nick Kingham|R|Brock Holt|L|Single|B|Four-Seam Fastball|3|2|0|1|11|92
+Nick Kingham|R|Brock Holt|L|Single|C|Four-Seam Fastball|4|3|0|1|4|92
+Nick Kingham|R|Brock Holt|L|Single|D|Four-Seam Fastball|5|3|1|1|7|93
+Nick Kingham|R|Mookie Betts|R|Grounded Into DP|B|Changeup|6|0|0|1|14|85
+Nick Kingham|R|Mookie Betts|R|Grounded Into DP|C|Four-Seam Fastball|7|1|0|1|14|93
+Nick Kingham|R|Mookie Betts|R|Grounded Into DP|X|Four-Seam Fastball|8|1|1|1|14|90
+Nick Kingham|R|Rafael Devers|L|Groundout|C|Four-Seam Fastball|9|0|0|0|9|92
+Nick Kingham|R|Rafael Devers|L|Groundout|B|Cutter|10|0|1|0|14|91
+Nick Kingham|R|Rafael Devers|L|Groundout|F|Four-Seam Fastball|11|1|1|0|12|92
+Nick Kingham|R|Rafael Devers|L|Groundout|B|Knuckle Curve|12|1|2|0|11|79
+Nick Kingham|R|Rafael Devers|L|Groundout|X|Cutter|13|2|2|0|12|92
+Nick Kingham|R|Xander Bogaerts|R|Single|C|Knuckle Curve|14|0|0|1|14|79
+Nick Kingham|R|Xander Bogaerts|R|Single|B|Cutter|15|0|1|1|14|91
+Nick Kingham|R|Xander Bogaerts|R|Single|D|Four-Seam Fastball|16|1|1|1|5|92
+Nick Kingham|R|J.D. Martinez|R|Pop Out|C|Four-Seam Fastball|17|0|0|1|11|91
+Nick Kingham|R|J.D. Martinez|R|Pop Out|X|Four-Seam Fastball|18|0|1|1|1|91
+Nick Kingham|R|Andrew Benintendi|L|Double|D|Four-Seam Fastball|19|0|0|2|14|92
+Nick Kingham|R|Michael Chavis|R|Intent Walk|B|Four-Seam Fastball|20|0|0|2|12|93
+Nick Kingham|R|Michael Chavis|R|Intent Walk|B|Four-Seam Fastball|21|1|0|2|12|92
+Nick Kingham|R|Michael Chavis|R|Intent Walk|B|Four-Seam Fastball|22|2|0|2|12|93
+Nick Kingham|R|Michael Chavis|R|Intent Walk|V|N/A|23|3|0|2|0|0
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|C|Changeup|24|0|0|2|4|86
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|25|0|1|2|12|91
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|26|1|1|2|12|92
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|S|Changeup|27|2|1|2|8|84
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|F|Changeup|28|2|2|2|7|86
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|S|Changeup|29|2|2|2|13|86
+Nick Kingham|R|Nick Senzel|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|12|90
+Nick Kingham|R|Nick Senzel|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|11|89
+Nick Kingham|R|Nick Senzel|R|Strikeout|F|Cutter|2|1|1|0|3|90
+Nick Kingham|R|Nick Senzel|R|Strikeout|F|Knuckle Curve|3|1|2|0|6|79
+Nick Kingham|R|Nick Senzel|R|Strikeout|B|Knuckle Curve|4|1|2|0|14|80
+Nick Kingham|R|Nick Senzel|R|Strikeout|S|Four-Seam Fastball|5|2|2|0|5|92
+Nick Kingham|R|Joey Votto|L|Groundout|C|Two-Seam Fastball|6|0|0|1|13|90
+Nick Kingham|R|Joey Votto|L|Groundout|B|Changeup|7|0|1|1|13|84
+Nick Kingham|R|Joey Votto|L|Groundout|F|Changeup|8|1|1|1|8|84
+Nick Kingham|R|Joey Votto|L|Groundout|B|Changeup|9|1|2|1|13|85
+Nick Kingham|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|10|2|2|1|14|93
+Nick Kingham|R|Joey Votto|L|Groundout|X|Two-Seam Fastball|11|3|2|1|13|89
+Nick Kingham|R|Eugenio Suarez|R|Single|D|Four-Seam Fastball|12|0|0|2|14|91
+Nick Kingham|R|Derek Dietrich|L|Pop Out|*B|Two-Seam Fastball|13|0|0|2|13|89
+Nick Kingham|R|Derek Dietrich|L|Pop Out|B|Changeup|14|1|0|2|11|83
+Nick Kingham|R|Derek Dietrich|L|Pop Out|F|Changeup|15|2|0|2|4|84
+Nick Kingham|R|Derek Dietrich|L|Pop Out|X|Two-Seam Fastball|16|2|1|2|13|90
+Nick Kingham|R|Jesse Winker|L|Strikeout|C|Two-Seam Fastball|17|0|0|0|13|89
+Nick Kingham|R|Jesse Winker|L|Strikeout|B|Knuckle Curve|18|0|1|0|11|77
+Nick Kingham|R|Jesse Winker|L|Strikeout|F|Changeup|19|1|1|0|7|82
+Nick Kingham|R|Jesse Winker|L|Strikeout|B|Changeup|20|1|2|0|11|83
+Nick Kingham|R|Jesse Winker|L|Strikeout|B|Four-Seam Fastball|21|2|2|0|11|91
+Nick Kingham|R|Jesse Winker|L|Strikeout|S|Two-Seam Fastball|22|3|2|0|11|89
+Nick Kingham|R|Yasiel Puig|R|Groundout|C|Knuckle Curve|23|0|0|1|9|80
+Nick Kingham|R|Yasiel Puig|R|Groundout|S|Two-Seam Fastball|24|0|1|1|13|91
+Nick Kingham|R|Yasiel Puig|R|Groundout|B|Knuckle Curve|25|0|2|1|14|80
+Nick Kingham|R|Yasiel Puig|R|Groundout|X|Knuckle Curve|26|1|2|1|6|80
+Nick Kingham|R|Jose Iglesias|R|Pop Out|B|Four-Seam Fastball|27|0|0|2|11|91
+Nick Kingham|R|Jose Iglesias|R|Pop Out|C|Four-Seam Fastball|28|1|0|2|14|92
+Nick Kingham|R|Jose Iglesias|R|Pop Out|C|Knuckle Curve|29|1|1|2|12|79
+Nick Kingham|R|Jose Iglesias|R|Pop Out|B|Knuckle Curve|30|1|2|2|14|81
+Nick Kingham|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|31|2|2|2|3|92
+Nick Kingham|R|Jose Iglesias|R|Pop Out|F|Two-Seam Fastball|32|2|2|2|13|90
+Nick Kingham|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|33|2|2|2|12|93
+Nick Kingham|R|Jose Iglesias|R|Pop Out|X|Knuckle Curve|34|2|2|2|5|81
+Nick Kingham|R|Tucker Barnhart|L|Single|D|Two-Seam Fastball|35|0|0|0|4|90
+Nick Kingham|R|Luis Castillo|R|Strikeout|L|Four-Seam Fastball|36|0|0|0|12|91
+Nick Kingham|R|Luis Castillo|R|Strikeout|L|Four-Seam Fastball|37|0|1|0|12|91
+Nick Kingham|R|Luis Castillo|R|Strikeout|L|Knuckle Curve|38|0|2|0|8|80
+Nick Kingham|R|Nick Senzel|R|Single|B|Knuckle Curve|39|0|0|1|13|78
+Nick Kingham|R|Nick Senzel|R|Single|B|Four-Seam Fastball|40|1|0|1|14|90
+Nick Kingham|R|Nick Senzel|R|Single|F|Cutter|41|2|0|1|3|90
+Nick Kingham|R|Nick Senzel|R|Single|F|Four-Seam Fastball|42|2|1|1|9|89
+Nick Kingham|R|Nick Senzel|R|Single|B|Four-Seam Fastball|43|2|2|1|11|91
+Nick Kingham|R|Nick Senzel|R|Single|X|Knuckle Curve|44|3|2|1|14|77
+Nick Kingham|R|Joey Votto|L|Flyout|S|Two-Seam Fastball|45|0|0|2|13|88
+Nick Kingham|R|Joey Votto|L|Flyout|X|Changeup|46|0|1|2|4|83
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|47|0|0|0|14|88
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Changeup|48|1|0|0|9|83
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|49|1|1|0|13|89
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|S|Changeup|50|2|1|0|7|83
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|W|Knuckle Curve|51|2|2|0|14|79
+Nick Kingham|R|Derek Dietrich|L|Groundout|B|Two-Seam Fastball|52|0|0|1|11|88
+Nick Kingham|R|Derek Dietrich|L|Groundout|B|Changeup|53|1|0|1|11|83
+Nick Kingham|R|Derek Dietrich|L|Groundout|F|Knuckle Curve|54|2|0|1|9|79
+Nick Kingham|R|Derek Dietrich|L|Groundout|S|Changeup|55|2|1|1|5|84
+Nick Kingham|R|Derek Dietrich|L|Groundout|X|Four-Seam Fastball|56|2|2|1|2|92
+Nick Kingham|R|Jesse Winker|L|Walk|B|Two-Seam Fastball|57|0|0|2|11|89
+Nick Kingham|R|Jesse Winker|L|Walk|B|Knuckle Curve|58|1|0|2|14|79
+Nick Kingham|R|Jesse Winker|L|Walk|B|Changeup|59|2|0|2|11|82
+Nick Kingham|R|Jesse Winker|L|Walk|C|Two-Seam Fastball|60|3|0|2|1|89
+Nick Kingham|R|Jesse Winker|L|Walk|C|Four-Seam Fastball|61|3|1|2|8|90
+Nick Kingham|R|Jesse Winker|L|Walk|B|Four-Seam Fastball|62|3|2|2|14|91
+Nick Kingham|R|Yasiel Puig|R|Flyout|X|Cutter|63|0|0|2|6|88
+Nick Kingham|R|Jose Iglesias|R|Single|C|Cutter|64|0|0|0|3|88
+Nick Kingham|R|Jose Iglesias|R|Single|D|Knuckle Curve|65|0|1|0|9|78
+Nick Kingham|R|Tucker Barnhart|L|Strikeout|B|Four-Seam Fastball|66|0|0|0|11|89
+Nick Kingham|R|Tucker Barnhart|L|Strikeout|B|Changeup|67|1|0|0|11|81
+Nick Kingham|R|Tucker Barnhart|L|Strikeout|F|Two-Seam Fastball|68|2|0|0|4|87
+Nick Kingham|R|Tucker Barnhart|L|Strikeout|F|Two-Seam Fastball|69|2|1|0|13|88
+Nick Kingham|R|Tucker Barnhart|L|Strikeout|S|Knuckle Curve|70|2|2|0|9|78
+Nick Kingham|R|Luis Castillo|R|Sac Bunt|L|Four-Seam Fastball|71|0|0|1|14|90
+Nick Kingham|R|Luis Castillo|R|Sac Bunt|L|Four-Seam Fastball|72|0|1|1|14|89
+Nick Kingham|R|Luis Castillo|R|Sac Bunt|X|Knuckle Curve|73|0|2|1|8|79
+Nick Kingham|R|Nick Senzel|R|Double|C|Knuckle Curve|74|0|0|2|14|78
+Nick Kingham|R|Nick Senzel|R|Double|B|Four-Seam Fastball|75|0|1|2|13|92
+Nick Kingham|R|Nick Senzel|R|Double|F|Changeup|76|1|1|2|13|83
+Nick Kingham|R|Nick Senzel|R|Double|*B|Knuckle Curve|77|1|2|2|14|77
+Nick Kingham|R|Nick Senzel|R|Double|E|Four-Seam Fastball|78|2|2|2|12|91
+Nick Kingham|R|Joey Votto|L|Double|B|Two-Seam Fastball|79|0|0|2|13|88
+Nick Kingham|R|Joey Votto|L|Double|C|Knuckle Curve|80|1|0|2|4|78
+Nick Kingham|R|Joey Votto|L|Double|B|Four-Seam Fastball|81|1|1|2|14|91
+Nick Kingham|R|Joey Votto|L|Double|B|Two-Seam Fastball|82|2|1|2|13|89
+Nick Kingham|R|Joey Votto|L|Double|E|Changeup|83|3|1|2|14|83
+Nick Kingham|R|Eugenio Suarez|R|Double|F|Knuckle Curve|84|0|0|2|9|79
+Nick Kingham|R|Eugenio Suarez|R|Double|E|Cutter|85|0|1|2|6|87
+Nick Kingham|R|Josh Harrison|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|92
+Nick Kingham|R|Josh Harrison|R|Groundout|F|Cutter|1|0|1|0|6|90
+Nick Kingham|R|Josh Harrison|R|Groundout|F|Two-Seam Fastball|2|0|2|0|13|90
+Nick Kingham|R|Josh Harrison|R|Groundout|X|Knuckle Curve|3|0|2|0|7|79
+Nick Kingham|R|Nick Castellanos|R|Strikeout|F|Cutter|4|0|0|1|6|91
+Nick Kingham|R|Nick Castellanos|R|Strikeout|F|Four-Seam Fastball|5|0|1|1|11|92
+Nick Kingham|R|Nick Castellanos|R|Strikeout|F|Changeup|6|0|2|1|14|84
+Nick Kingham|R|Nick Castellanos|R|Strikeout|B|Changeup|7|0|2|1|14|85
+Nick Kingham|R|Nick Castellanos|R|Strikeout|S|Four-Seam Fastball|8|1|2|1|1|92
+Nick Kingham|R|Miguel Cabrera|R|Lineout|F|Two-Seam Fastball|9|0|0|2|13|90
+Nick Kingham|R|Miguel Cabrera|R|Lineout|S|Knuckle Curve|10|0|1|2|14|80
+Nick Kingham|R|Miguel Cabrera|R|Lineout|B|Four-Seam Fastball|11|0|2|2|11|92
+Nick Kingham|R|Miguel Cabrera|R|Lineout|B|Two-Seam Fastball|12|1|2|2|13|91
+Nick Kingham|R|Miguel Cabrera|R|Lineout|F|Four-Seam Fastball|13|2|2|2|3|92
+Nick Kingham|R|Miguel Cabrera|R|Lineout|B|Changeup|14|2|2|2|14|85
+Nick Kingham|R|Miguel Cabrera|R|Lineout|F|Four-Seam Fastball|15|3|2|2|9|92
+Nick Kingham|R|Miguel Cabrera|R|Lineout|F|Four-Seam Fastball|16|3|2|2|9|92
+Nick Kingham|R|Miguel Cabrera|R|Lineout|X|Cutter|17|3|2|2|9|90
+Nick Kingham|R|Josh Reddick|L|Home Run|E|Four-Seam Fastball|0|0|0|0|6|92
+Nick Kingham|R|Jack Mayfield|R|Double|B|Knuckle Curve|1|0|0|0|11|78
+Nick Kingham|R|Jack Mayfield|R|Double|S|Four-Seam Fastball|2|1|0|0|14|91
+Nick Kingham|R|Jack Mayfield|R|Double|D|Slider|3|1|1|0|14|81
+Nick Kingham|R|Garrett Stubbs|L|Strikeout|B|Four-Seam Fastball|4|0|0|0|14|93
+Nick Kingham|R|Garrett Stubbs|L|Strikeout|F|Four-Seam Fastball|5|1|0|0|14|93
+Nick Kingham|R|Garrett Stubbs|L|Strikeout|F|Changeup|6|1|1|0|1|85
+Nick Kingham|R|Garrett Stubbs|L|Strikeout|W|Knuckle Curve|7|1|2|0|14|79
+Nick Kingham|R|Myles Straw|R|Single|C|Knuckle Curve|8|0|0|1|11|79
+Nick Kingham|R|Myles Straw|R|Single|B|Slider|9|0|1|1|11|80
+Nick Kingham|R|Myles Straw|R|Single|E|Cutter|10|1|1|1|8|91
+Nick Kingham|R|Alex Bregman|R|Lineout|C|Slider|11|0|0|2|9|81
+Nick Kingham|R|Alex Bregman|R|Lineout|B|Cutter|12|0|1|2|12|92
+Nick Kingham|R|Alex Bregman|R|Lineout|B|Four-Seam Fastball|13|1|1|2|14|91
+Nick Kingham|R|Alex Bregman|R|Lineout|C|Slider|14|2|1|2|7|81
+Nick Kingham|R|Alex Bregman|R|Lineout|X|Slider|15|2|2|2|14|82
+Nick Kingham|R|Michael Brantley|L|Groundout|B|Knuckle Curve|16|0|0|0|14|80
+Nick Kingham|R|Michael Brantley|L|Groundout|B|Knuckle Curve|17|1|0|0|11|80
+Nick Kingham|R|Michael Brantley|L|Groundout|X|Four-Seam Fastball|18|2|0|0|1|91
+Nick Kingham|R|Yuli Gurriel|R|Groundout|B|Slider|19|0|0|1|14|82
+Nick Kingham|R|Yuli Gurriel|R|Groundout|F|Four-Seam Fastball|20|1|0|1|4|90
+Nick Kingham|R|Yuli Gurriel|R|Groundout|F|Four-Seam Fastball|21|1|1|1|6|92
+Nick Kingham|R|Yuli Gurriel|R|Groundout|X|Slider|22|1|2|1|9|81
+Nick Kingham|R|Yordan Alvarez|L|Single|D|Changeup|23|0|0|2|8|85
+Nick Kingham|R|Tyler White|R|Single|S|Two-Seam Fastball|24|0|0|2|13|89
+Nick Kingham|R|Tyler White|R|Single|D|Slider|25|0|1|2|13|80
+Nick Kingham|R|Josh Reddick|L|Groundout|B|Knuckle Curve|26|0|0|2|13|78
+Nick Kingham|R|Josh Reddick|L|Groundout|S|Changeup|27|1|0|2|7|84
+Nick Kingham|R|Josh Reddick|L|Groundout|B|Four-Seam Fastball|28|1|1|2|13|92
+Nick Kingham|R|Josh Reddick|L|Groundout|X|Changeup|29|2|1|2|7|85
+Nick Kingham|R|Justin Turner|R|Groundout|B|Cutter|0|0|0|0|14|90
+Nick Kingham|R|Justin Turner|R|Groundout|X|Two-Seam Fastball|1|1|0|0|9|88
+Nick Kingham|R|Cody Bellinger|L|Walk|B|Changeup|2|0|0|1|14|84
+Nick Kingham|R|Cody Bellinger|L|Walk|B|Changeup|3|1|0|1|14|86
+Nick Kingham|R|Cody Bellinger|L|Walk|S|Changeup|4|2|0|1|9|85
+Nick Kingham|R|Cody Bellinger|L|Walk|C|Four-Seam Fastball|5|2|1|1|4|92
+Nick Kingham|R|Cody Bellinger|L|Walk|B|Cutter|6|2|2|1|14|92
+Nick Kingham|R|Cody Bellinger|L|Walk|F|Knuckle Curve|7|3|2|1|8|79
+Nick Kingham|R|Cody Bellinger|L|Walk|F|Changeup|8|3|2|1|11|85
+Nick Kingham|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|9|3|2|1|1|92
+Nick Kingham|R|Cody Bellinger|L|Walk|B|Two-Seam Fastball|10|3|2|1|13|88
+Nick Kingham|R|A.J. Pollock|R|Strikeout|F|Changeup|11|0|0|1|5|84
+Nick Kingham|R|A.J. Pollock|R|Strikeout|C|Cutter|12|0|1|1|5|90
+Nick Kingham|R|A.J. Pollock|R|Strikeout|S|Changeup|13|0|2|1|13|83
+Nick Kingham|R|Max Muncy|L|Groundout|B|Changeup|14|0|0|2|6|84
+Nick Kingham|R|Max Muncy|L|Groundout|B|Two-Seam Fastball|15|1|0|2|13|88
+Nick Kingham|R|Max Muncy|L|Groundout|X|Changeup|16|2|0|2|8|84
+Nick Kingham|R|Enrique Hernandez|R|Strikeout|C|Knuckle Curve|17|0|0|0|5|78
+Nick Kingham|R|Enrique Hernandez|R|Strikeout|B|Changeup|18|0|1|0|14|85
+Nick Kingham|R|Enrique Hernandez|R|Strikeout|C|Cutter|19|1|1|0|9|90
+Nick Kingham|R|Enrique Hernandez|R|Strikeout|T|Four-Seam Fastball|20|1|2|0|11|90
+Nick Kingham|R|Austin Barnes|R|Groundout|B|Two-Seam Fastball|21|0|0|1|13|89
+Nick Kingham|R|Austin Barnes|R|Groundout|B|Four-Seam Fastball|22|1|0|1|12|91
+Nick Kingham|R|Austin Barnes|R|Groundout|T|Cutter|23|2|0|1|14|90
+Nick Kingham|R|Austin Barnes|R|Groundout|X|Cutter|24|2|1|1|14|90
+Nick Kingham|R|Hyun-Jin Ryu|R|Strikeout|B|Two-Seam Fastball|25|0|0|2|14|89
+Nick Kingham|R|Hyun-Jin Ryu|R|Strikeout|F|Cutter|26|1|0|2|3|91
+Nick Kingham|R|Hyun-Jin Ryu|R|Strikeout|F|Cutter|27|1|1|2|12|91
+Nick Kingham|R|Hyun-Jin Ryu|R|Strikeout|S|Knuckle Curve|28|1|2|2|14|77
+Nick Kingham|R|Yairo Munoz|R|Walk|B|Two-Seam Fastball|0|0|0|2|13|91
+Nick Kingham|R|Yairo Munoz|R|Walk|C|Two-Seam Fastball|1|1|0|2|7|90
+Nick Kingham|R|Yairo Munoz|R|Walk|B|Four-Seam Fastball|2|1|1|2|11|91
+Nick Kingham|R|Yairo Munoz|R|Walk|B|Cutter|3|2|1|2|14|90
+Nick Kingham|R|Yairo Munoz|R|Walk|B|Cutter|4|3|1|2|14|91
+Nick Kingham|R|Yasiel Puig|R|Flyout|B|Knuckle Curve|0|0|0|0|14|79
+Nick Kingham|R|Yasiel Puig|R|Flyout|X|Cutter|1|1|0|0|6|89
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Knuckle Curve|2|0|0|1|14|81
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|3|1|0|1|13|91
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Cutter|4|2|0|1|14|90
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Two-Seam Fastball|5|2|1|1|7|91
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Changeup|6|2|2|1|5|86
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Changeup|7|2|2|1|3|84
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|1|92
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|9|2|2|1|13|91
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Cutter|10|3|2|1|3|90
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Two-Seam Fastball|11|3|2|1|9|90
+Nick Kingham|R|Scott Schebler|L|Double|C|Cutter|12|0|0|2|14|89
+Nick Kingham|R|Scott Schebler|L|Double|B|Changeup|13|0|1|2|13|86
+Nick Kingham|R|Scott Schebler|L|Double|D|Knuckle Curve|14|1|1|2|6|80
+Nick Kingham|R|Jose Peraza|R|Flyout|X|Cutter|15|0|0|2|12|89
+Nick Kingham|R|Tucker Barnhart|L|Single|B|Changeup|16|0|0|0|14|84
+Nick Kingham|R|Tucker Barnhart|L|Single|C|Two-Seam Fastball|17|1|0|0|13|89
+Nick Kingham|R|Tucker Barnhart|L|Single|B|Knuckle Curve|18|1|1|0|14|80
+Nick Kingham|R|Tucker Barnhart|L|Single|S|Cutter|19|2|1|0|6|89
+Nick Kingham|R|Tucker Barnhart|L|Single|B|Cutter|20|2|2|0|13|88
+Nick Kingham|R|Tucker Barnhart|L|Single|D|Cutter|21|3|2|0|5|89
+Nick Kingham|R|Jose Iglesias|R|Strikeout|C|Two-Seam Fastball|22|0|0|0|7|90
+Nick Kingham|R|Jose Iglesias|R|Strikeout|B|Two-Seam Fastball|23|0|1|0|13|91
+Nick Kingham|R|Jose Iglesias|R|Strikeout|F|Two-Seam Fastball|24|1|1|0|13|90
+Nick Kingham|R|Jose Iglesias|R|Strikeout|F|Changeup|25|1|2|0|8|84
+Nick Kingham|R|Jose Iglesias|R|Strikeout|S|Two-Seam Fastball|26|1|2|0|13|90
+Nick Kingham|R|Derek Dietrich|L|Flyout|S|Cutter|27|0|0|1|3|88
+Nick Kingham|R|Derek Dietrich|L|Flyout|X|Changeup|28|0|1|1|13|84
+Nick Kingham|R|Jesse Winker|L|Groundout|X|Four-Seam Fastball|29|0|0|2|9|89
+Nick Kingham|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|92
+Nick Kingham|R|Jose Iglesias|R|Groundout|X|Knuckle Curve|1|0|1|0|14|80
+Nick Kingham|R|Curt Casali|R|Flyout|B|Cutter|2|0|0|1|14|90
+Nick Kingham|R|Curt Casali|R|Flyout|B|Two-Seam Fastball|3|1|0|1|14|92
+Nick Kingham|R|Curt Casali|R|Flyout|X|Four-Seam Fastball|4|2|0|1|12|92
+Nick Kingham|R|Jesse Winker|L|Strikeout|S|Changeup|5|0|0|2|7|85
+Nick Kingham|R|Jesse Winker|L|Strikeout|S|Four-Seam Fastball|6|0|1|2|11|92
+Nick Kingham|R|Jesse Winker|L|Strikeout|S|Knuckle Curve|7|0|2|2|7|80
+Nick Kingham|R|Matt Kemp|R|Single|C|Cutter|8|0|0|0|14|89
+Nick Kingham|R|Matt Kemp|R|Single|B|Knuckle Curve|9|0|1|0|14|80
+Nick Kingham|R|Matt Kemp|R|Single|S|Changeup|10|1|1|0|7|85
+Nick Kingham|R|Matt Kemp|R|Single|B|Knuckle Curve|11|1|2|0|14|81
+Nick Kingham|R|Matt Kemp|R|Single|B|Two-Seam Fastball|12|2|2|0|13|91
+Nick Kingham|R|Matt Kemp|R|Single|D|Two-Seam Fastball|13|3|2|0|7|89
+Nick Kingham|R|Scott Schebler|L|Strikeout|B|Changeup|14|0|0|0|11|82
+Nick Kingham|R|Scott Schebler|L|Strikeout|F|Two-Seam Fastball|15|1|0|0|13|89
+Nick Kingham|R|Scott Schebler|L|Strikeout|F|Cutter|16|1|1|0|12|88
+Nick Kingham|R|Scott Schebler|L|Strikeout|F|Cutter|17|1|2|0|11|90
+Nick Kingham|R|Scott Schebler|L|Strikeout|W|Knuckle Curve|18|1|2|0|13|81
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|19|0|0|1|11|89
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|20|1|0|1|7|90
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|C|Cutter|21|1|1|1|2|87
+Nick Kingham|R|Eugenio Suarez|R|Strikeout|S|Two-Seam Fastball|22|1|2|1|14|90
+Nick Kingham|R|Derek Dietrich|L|Home Run|F|Changeup|23|0|0|2|11|85
+Nick Kingham|R|Derek Dietrich|L|Home Run|E|Changeup|24|0|1|2|4|85
+Nick Kingham|R|Jose Peraza|R|Flyout|C|Two-Seam Fastball|25|0|0|2|13|91
+Nick Kingham|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|26|0|1|2|3|92
+Nick Kingham|R|Joe Panik|L|Pop Out|X|Four-Seam Fastball|0|0|0|2|5|92
+Nick Kingham|R|Pablo Sandoval|L|Double|B|Two-Seam Fastball|1|0|0|0|14|88
+Nick Kingham|R|Pablo Sandoval|L|Double|D|Changeup|2|1|0|0|11|84
+Nick Kingham|R|Steven Duggar|L|Groundout|B|Changeup|3|0|0|0|11|84
+Nick Kingham|R|Steven Duggar|L|Groundout|B|Four-Seam Fastball|4|1|0|0|11|92
+Nick Kingham|R|Steven Duggar|L|Groundout|C|Knuckle Curve|5|2|0|0|8|77
+Nick Kingham|R|Steven Duggar|L|Groundout|S|Changeup|6|2|1|0|13|83
+Nick Kingham|R|Steven Duggar|L|Groundout|F|Four-Seam Fastball|7|2|2|0|2|93
+Nick Kingham|R|Steven Duggar|L|Groundout|B|Knuckle Curve|8|2|2|0|11|78
+Nick Kingham|R|Steven Duggar|L|Groundout|X|Changeup|9|3|2|0|4|84
+Nick Kingham|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|10|0|0|1|11|91
+Nick Kingham|R|Gerardo Parra|L|Walk|B|Changeup|11|1|0|1|11|84
+Nick Kingham|R|Gerardo Parra|L|Walk|S|Two-Seam Fastball|12|2|0|1|7|89
+Nick Kingham|R|Gerardo Parra|L|Walk|B|Two-Seam Fastball|13|2|1|1|11|90
+Nick Kingham|R|Gerardo Parra|L|Walk|B|Changeup|14|3|1|1|11|83
+Nick Kingham|R|Buster Posey|R|Groundout|B|Two-Seam Fastball|15|0|0|1|13|90
+Nick Kingham|R|Buster Posey|R|Groundout|B|Cutter|16|1|0|1|12|89
+Nick Kingham|R|Buster Posey|R|Groundout|X|Cutter|17|2|0|1|1|88
+Nick Kingham|R|Wilmer Flores|R|Pop Out|B|Cutter|0|0|0|0|14|91
+Nick Kingham|R|Wilmer Flores|R|Pop Out|B|Two-Seam Fastball|1|1|0|0|14|89
+Nick Kingham|R|Wilmer Flores|R|Pop Out|X|Four-Seam Fastball|2|2|0|0|12|92
+Nick Kingham|R|Blake Swihart|L|Strikeout|C|Two-Seam Fastball|3|0|0|1|9|89
+Nick Kingham|R|Blake Swihart|L|Strikeout|S|Changeup|4|0|1|1|4|85
+Nick Kingham|R|Blake Swihart|L|Strikeout|C|Knuckle Curve|5|0|2|1|9|81
+Nick Kingham|R|Nick Ahmed|R|Groundout|B|Cutter|6|0|0|2|14|91
+Nick Kingham|R|Nick Ahmed|R|Groundout|B|Knuckle Curve|7|1|0|2|14|81
+Nick Kingham|R|Nick Ahmed|R|Groundout|S|Two-Seam Fastball|8|2|0|2|4|89
+Nick Kingham|R|Nick Ahmed|R|Groundout|X|Cutter|9|2|1|2|14|90
+Nick Kingham|R|Caleb Joseph|R|Single|D|Cutter|10|0|0|0|5|90
+Nick Kingham|R|Merrill Kelly|R|Sac Bunt|L|Four-Seam Fastball|11|0|0|0|12|90
+Nick Kingham|R|Merrill Kelly|R|Sac Bunt|B|Four-Seam Fastball|12|0|1|0|11|89
+Nick Kingham|R|Merrill Kelly|R|Sac Bunt|X|Four-Seam Fastball|13|1|1|0|4|91
+Nick Kingham|R|Ketel Marte|L|Groundout|T|Two-Seam Fastball|14|0|0|1|7|89
+Nick Kingham|R|Ketel Marte|L|Groundout|X|Changeup|15|0|1|1|13|84
+Nick Kingham|R|Eduardo Escobar|L|Walk|*B|Knuckle Curve|16|0|0|2|14|82
+Nick Kingham|R|Eduardo Escobar|L|Walk|B|Cutter|17|1|0|2|11|89
+Nick Kingham|R|Eduardo Escobar|L|Walk|B|Changeup|18|2|0|2|11|84
+Nick Kingham|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|19|3|0|2|11|90
+Nick Kingham|R|David Peralta|L|Double|B|Four-Seam Fastball|20|0|0|2|11|92
+Nick Kingham|R|David Peralta|L|Double|C|Changeup|21|1|0|2|4|83
+Nick Kingham|R|David Peralta|L|Double|B|Changeup|22|1|1|2|13|84
+Nick Kingham|R|David Peralta|L|Double|E|Four-Seam Fastball|23|2|1|2|6|91
+Nick Kingham|R|Christian Walker|R|Double|W|Knuckle Curve|24|0|0|2|14|81
+Nick Kingham|R|Christian Walker|R|Double|E|Cutter|25|0|1|2|8|91
+Nick Kingham|R|Wilmer Flores|R|Groundout|C|Two-Seam Fastball|26|0|0|2|4|90
+Nick Kingham|R|Wilmer Flores|R|Groundout|X|Knuckle Curve|27|0|1|2|8|80
+Nick Kingham|R|Ramon Laureano|R|Strikeout|C|Two-Seam Fastball|0|0|0|2|7|90
+Nick Kingham|R|Ramon Laureano|R|Strikeout|S|Cutter|1|0|1|2|14|90
+Nick Kingham|R|Ramon Laureano|R|Strikeout|S|Knuckle Curve|2|0|2|2|14|81
+Nick Kingham|R|Matt Chapman|R|Double|B|Cutter|3|0|0|0|14|91
+Nick Kingham|R|Matt Chapman|R|Double|B|Two-Seam Fastball|4|1|0|0|13|90
+Nick Kingham|R|Matt Chapman|R|Double|F|Cutter|5|2|0|0|8|91
+Nick Kingham|R|Matt Chapman|R|Double|B|Four-Seam Fastball|6|2|1|0|14|92
+Nick Kingham|R|Matt Chapman|R|Double|F|Four-Seam Fastball|7|3|1|0|8|94
+Nick Kingham|R|Matt Chapman|R|Double|D|Changeup|8|3|2|0|4|87
+Nick Kingham|R|Khris Davis|R|Walk|C|Cutter|9|0|0|0|5|92
+Nick Kingham|R|Khris Davis|R|Walk|B|Four-Seam Fastball|10|0|1|0|3|93
+Nick Kingham|R|Khris Davis|R|Walk|*B|Knuckle Curve|11|1|1|0|14|80
+Nick Kingham|R|Khris Davis|R|Walk|B|Knuckle Curve|12|2|1|0|14|81
+Nick Kingham|R|Khris Davis|R|Walk|C|Cutter|13|3|1|0|14|92
+Nick Kingham|R|Khris Davis|R|Walk|B|Cutter|14|3|2|0|14|92
+Nick Kingham|R|Stephen Piscotty|R|Lineout|F|Two-Seam Fastball|15|0|0|0|13|90
+Nick Kingham|R|Stephen Piscotty|R|Lineout|S|Cutter|16|0|1|0|11|91
+Nick Kingham|R|Stephen Piscotty|R|Lineout|B|Four-Seam Fastball|17|0|2|0|11|93
+Nick Kingham|R|Stephen Piscotty|R|Lineout|X|Knuckle Curve|18|1|2|0|11|80
+Nick Kingham|R|Kendrys Morales|L|Walk|B|Changeup|19|0|0|1|13|86
+Nick Kingham|R|Kendrys Morales|L|Walk|C|Four-Seam Fastball|20|1|0|1|6|92
+Nick Kingham|R|Kendrys Morales|L|Walk|*B|Changeup|21|1|1|1|13|86
+Nick Kingham|R|Kendrys Morales|L|Walk|B|Changeup|22|2|1|1|11|86
+Nick Kingham|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|23|3|1|1|13|90
+Nick Kingham|R|Jurickson Profar|L|Single|E|Two-Seam Fastball|24|0|0|1|13|90
+Nick Kingham|R|Josh Phegley|R|Double|E|Cutter|25|0|0|1|1|91
+Nick Kingham|R|Brett Anderson|L|Single|C|Four-Seam Fastball|26|0|0|1|11|93
+Nick Kingham|R|Brett Anderson|L|Single|*B|Two-Seam Fastball|27|0|1|1|14|90
+Nick Kingham|R|Brett Anderson|L|Single|C|Four-Seam Fastball|28|1|1|1|7|93
+Nick Kingham|R|Brett Anderson|L|Single|B|Knuckle Curve|29|1|2|1|14|79
+Nick Kingham|R|Brett Anderson|L|Single|X|Four-Seam Fastball|30|2|2|1|8|93
+Nick Kingham|R|Marcus Semien|R|Single|B|Cutter|31|0|0|2|14|90
+Nick Kingham|R|Marcus Semien|R|Single|*B|Two-Seam Fastball|32|1|0|2|14|90
+Nick Kingham|R|Marcus Semien|R|Single|F|Cutter|33|2|0|2|9|90
+Nick Kingham|R|Marcus Semien|R|Single|D|Four-Seam Fastball|34|2|1|2|2|91
+Nick Kingham|R|Ramon Laureano|R|Strikeout|C|Cutter|35|0|0|2|12|90
+Nick Kingham|R|Ramon Laureano|R|Strikeout|F|Knuckle Curve|36|0|1|2|11|80
+Nick Kingham|R|Ramon Laureano|R|Strikeout|*B|Knuckle Curve|37|0|2|2|14|81
+Nick Kingham|R|Ramon Laureano|R|Strikeout|F|Changeup|38|1|2|2|13|86
+Nick Kingham|R|Ramon Laureano|R|Strikeout|F|Four-Seam Fastball|39|1|2|2|6|93
+Nick Kingham|R|Ramon Laureano|R|Strikeout|B|Cutter|40|1|2|2|12|90
+Nick Kingham|R|Ramon Laureano|R|Strikeout|C|Four-Seam Fastball|41|2|2|2|13|92
+Nick Kingham|R|Matt Chapman|R|Groundout|B|Four-Seam Fastball|42|0|0|0|11|91
+Nick Kingham|R|Matt Chapman|R|Groundout|B|Two-Seam Fastball|43|1|0|0|13|90
+Nick Kingham|R|Matt Chapman|R|Groundout|F|Cutter|44|2|0|0|7|89
+Nick Kingham|R|Matt Chapman|R|Groundout|B|Knuckle Curve|45|2|1|0|11|80
+Nick Kingham|R|Matt Chapman|R|Groundout|F|Four-Seam Fastball|46|3|1|0|1|92
+Nick Kingham|R|Matt Chapman|R|Groundout|X|Cutter|47|3|2|0|6|89
+Nick Kingham|R|Khris Davis|R|Pop Out|B|Four-Seam Fastball|48|0|0|1|14|91
+Nick Kingham|R|Khris Davis|R|Pop Out|X|Four-Seam Fastball|49|1|0|1|5|91
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|C|Knuckle Curve|50|0|0|2|9|81
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|S|Four-Seam Fastball|51|0|1|2|11|91
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|B|Knuckle Curve|52|0|2|2|14|82
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|F|Four-Seam Fastball|53|1|2|2|2|92
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|F|Four-Seam Fastball|54|1|2|2|2|92
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|B|Changeup|55|1|2|2|13|84
+Nick Kingham|R|Stephen Piscotty|R|Strikeout|S|Changeup|56|2|2|2|13|86
+Nick Kingham|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|7|92
+Nick Kingham|R|Shin-Soo Choo|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|92
+Nick Kingham|R|Shin-Soo Choo|L|Strikeout|F|Cutter|2|1|1|0|9|91
+Nick Kingham|R|Shin-Soo Choo|L|Strikeout|S|Knuckle Curve|3|1|2|0|7|81
+Nick Kingham|R|Elvis Andrus|R|Single|D|Four-Seam Fastball|4|0|0|1|5|92
+Nick Kingham|R|Nomar Mazara|L|Walk|B|Two-Seam Fastball|5|0|0|1|13|89
+Nick Kingham|R|Nomar Mazara|L|Walk|C|Cutter|6|1|0|1|4|88
+Nick Kingham|R|Nomar Mazara|L|Walk|S|Cutter|7|1|1|1|14|90
+Nick Kingham|R|Nomar Mazara|L|Walk|F|Knuckle Curve|8|1|2|1|13|81
+Nick Kingham|R|Nomar Mazara|L|Walk|*B|Changeup|9|1|2|1|13|84
+Nick Kingham|R|Nomar Mazara|L|Walk|*B|Knuckle Curve|10|2|2|1|14|81
+Nick Kingham|R|Nomar Mazara|L|Walk|F|Four-Seam Fastball|11|3|2|1|9|92
+Nick Kingham|R|Nomar Mazara|L|Walk|F|Cutter|12|3|2|1|7|90
+Nick Kingham|R|Nomar Mazara|L|Walk|F|Cutter|13|3|2|1|14|91
+Nick Kingham|R|Nomar Mazara|L|Walk|*B|Knuckle Curve|14|3|2|1|14|80
+Nick Kingham|R|Joey Gallo|L|Walk|B|Changeup|15|0|0|1|11|85
+Nick Kingham|R|Joey Gallo|L|Walk|B|Four-Seam Fastball|16|1|0|1|11|92
+Nick Kingham|R|Joey Gallo|L|Walk|F|Cutter|17|2|0|1|9|91
+Nick Kingham|R|Joey Gallo|L|Walk|C|Four-Seam Fastball|18|2|1|1|3|91
+Nick Kingham|R|Joey Gallo|L|Walk|B|Knuckle Curve|19|2|2|1|13|81
+Nick Kingham|R|Joey Gallo|L|Walk|B|Changeup|20|3|2|1|13|85
+Nick Kingham|R|Asdrubal Cabrera|L|Pop Out|*B|Two-Seam Fastball|21|0|0|1|14|91
+Nick Kingham|R|Asdrubal Cabrera|L|Pop Out|B|Cutter|22|1|0|1|11|87
+Nick Kingham|R|Asdrubal Cabrera|L|Pop Out|B|Four-Seam Fastball|23|2|0|1|11|92
+Nick Kingham|R|Asdrubal Cabrera|L|Pop Out|C|Four-Seam Fastball|24|3|0|1|4|91
+Nick Kingham|R|Asdrubal Cabrera|L|Pop Out|X|Four-Seam Fastball|25|3|1|1|1|92
+Nick Kingham|R|Rougned Odor|L|Flyout|F|Four-Seam Fastball|26|0|0|2|12|93
+Nick Kingham|R|Rougned Odor|L|Flyout|*B|Changeup|27|0|1|2|13|86
+Nick Kingham|R|Rougned Odor|L|Flyout|B|Four-Seam Fastball|28|1|1|2|11|92
+Nick Kingham|R|Rougned Odor|L|Flyout|S|Four-Seam Fastball|29|2|1|2|11|93
+Nick Kingham|R|Rougned Odor|L|Flyout|F|Four-Seam Fastball|30|2|2|2|11|93
+Nick Kingham|R|Rougned Odor|L|Flyout|B|Knuckle Curve|31|2|2|2|11|80
+Nick Kingham|R|Rougned Odor|L|Flyout|X|Four-Seam Fastball|32|3|2|2|11|92
+Nick Kingham|R|Danny Santana|L|Groundout|C|Four-Seam Fastball|33|0|0|0|6|91
+Nick Kingham|R|Danny Santana|L|Groundout|F|Two-Seam Fastball|34|0|1|0|13|89
+Nick Kingham|R|Danny Santana|L|Groundout|X|Knuckle Curve|35|0|2|0|8|81
+Nick Kingham|R|Jeff Mathis|R|Strikeout|B|Four-Seam Fastball|36|0|0|1|12|91
+Nick Kingham|R|Jeff Mathis|R|Strikeout|B|Cutter|37|1|0|1|12|89
+Nick Kingham|R|Jeff Mathis|R|Strikeout|B|Two-Seam Fastball|38|2|0|1|9|89
+Nick Kingham|R|Jeff Mathis|R|Strikeout|C|Four-Seam Fastball|39|3|0|1|5|91
+Nick Kingham|R|Jeff Mathis|R|Strikeout|C|Four-Seam Fastball|40|3|1|1|8|91
+Nick Kingham|R|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|41|3|2|1|3|92
+Nick Kingham|R|Jeff Mathis|R|Strikeout|T|Four-Seam Fastball|42|3|2|1|6|92
+Nick Kingham|R|Shelby Miller|R|Walk|C|Four-Seam Fastball|43|0|0|2|3|91
+Nick Kingham|R|Shelby Miller|R|Walk|B|Four-Seam Fastball|44|0|1|2|14|93
+Nick Kingham|R|Shelby Miller|R|Walk|F|Four-Seam Fastball|45|1|1|2|5|92
+Nick Kingham|R|Shelby Miller|R|Walk|B|Knuckle Curve|46|1|2|2|14|81
+Nick Kingham|R|Shelby Miller|R|Walk|B|Knuckle Curve|47|2|2|2|13|80
+Nick Kingham|R|Shelby Miller|R|Walk|B|Four-Seam Fastball|48|3|2|2|14|92
+Nick Kingham|R|Shin-Soo Choo|L|Groundout|X|Four-Seam Fastball|49|0|0|2|9|91
+Nick Kingham|R|Elvis Andrus|R|Double|F|Cutter|50|0|0|0|6|89
+Nick Kingham|R|Elvis Andrus|R|Double|C|Four-Seam Fastball|51|0|1|0|13|91
+Nick Kingham|R|Elvis Andrus|R|Double|B|Four-Seam Fastball|52|0|2|0|13|91
+Nick Kingham|R|Elvis Andrus|R|Double|D|Knuckle Curve|53|1|2|0|11|80
+Nick Kingham|R|Nomar Mazara|L|Flyout|C|Four-Seam Fastball|54|0|0|0|7|91
+Nick Kingham|R|Nomar Mazara|L|Flyout|F|Cutter|55|0|1|0|14|87
+Nick Kingham|R|Nomar Mazara|L|Flyout|F|Four-Seam Fastball|56|0|2|0|3|92
+Nick Kingham|R|Nomar Mazara|L|Flyout|F|Changeup|57|0|2|0|13|84
+Nick Kingham|R|Nomar Mazara|L|Flyout|X|Four-Seam Fastball|58|0|2|0|2|91
+Nick Kingham|R|Joey Gallo|L|Home Run|B|Knuckle Curve|59|0|0|1|13|79
+Nick Kingham|R|Joey Gallo|L|Home Run|C|Changeup|60|1|0|1|7|86
+Nick Kingham|R|Joey Gallo|L|Home Run|F|Four-Seam Fastball|61|1|1|1|5|92
+Nick Kingham|R|Joey Gallo|L|Home Run|E|Cutter|62|1|2|1|14|91
+Nick Kingham|R|Asdrubal Cabrera|L|Flyout|B|Four-Seam Fastball|63|0|0|1|11|91
+Nick Kingham|R|Asdrubal Cabrera|L|Flyout|X|Two-Seam Fastball|64|1|0|1|13|89
+Nick Kingham|R|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|65|0|0|2|11|92
+Nick Kingham|R|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|66|0|1|2|4|92
+Nick Kingham|R|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|67|0|2|2|11|92
+Nick Kingham|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|68|0|2|2|11|91
+Nick Kingham|R|Rougned Odor|L|Strikeout|W|Knuckle Curve|69|1|2|2|14|81
+Nick Kingham|R|Danny Santana|L|Strikeout|S|Changeup|70|0|0|0|13|84
+Nick Kingham|R|Danny Santana|L|Strikeout|F|Changeup|71|0|1|0|13|85
+Nick Kingham|R|Danny Santana|L|Strikeout|S|Four-Seam Fastball|72|0|2|0|11|90
+Nick Kingham|R|Jeff Mathis|R|Lineout|X|Four-Seam Fastball|73|0|0|1|5|91
+Nick Kingham|R|Shelby Miller|R|Strikeout|F|Four-Seam Fastball|74|0|0|2|12|91
+Nick Kingham|R|Shelby Miller|R|Strikeout|S|Four-Seam Fastball|75|0|1|2|3|92
+Nick Kingham|R|Shelby Miller|R|Strikeout|B|Cutter|76|0|2|2|14|90
+Nick Kingham|R|Shelby Miller|R|Strikeout|C|Four-Seam Fastball|77|1|2|2|4|92
+Nick Kingham|R|Brendan Rodgers|R|Single|F|Four-Seam Fastball|0|0|0|2|3|92
+Nick Kingham|R|Brendan Rodgers|R|Single|C|Four-Seam Fastball|1|0|1|2|11|92
+Nick Kingham|R|Brendan Rodgers|R|Single|D|Knuckle Curve|2|0|2|2|14|80
+Nick Kingham|R|Tony Wolters|L|Groundout|B|Four-Seam Fastball|3|0|0|2|11|92
+Nick Kingham|R|Tony Wolters|L|Groundout|C|Changeup|4|1|0|2|11|84
+Nick Kingham|R|Tony Wolters|L|Groundout|X|Four-Seam Fastball|5|1|1|2|6|93
+Nick Kingham|R|Jon Gray|R|Strikeout|C|Four-Seam Fastball|6|0|0|0|2|91
+Nick Kingham|R|Jon Gray|R|Strikeout|S|Four-Seam Fastball|7|0|1|0|6|92
+Nick Kingham|R|Jon Gray|R|Strikeout|S|Knuckle Curve|8|0|2|0|9|80
+Nick Kingham|R|Charlie Blackmon|L|Groundout|X|Changeup|9|0|0|1|13|86
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|10|0|0|2|14|90
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|11|1|0|2|11|93
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|12|2|0|2|13|93
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|13|3|0|2|13|93
+Nick Kingham|R|Raimel Tapia|L|Groundout|B|Changeup|14|0|0|2|9|85
+Nick Kingham|R|Raimel Tapia|L|Groundout|C|Four-Seam Fastball|15|1|0|2|7|91
+Nick Kingham|R|Raimel Tapia|L|Groundout|B|Four-Seam Fastball|16|1|1|2|11|91
+Nick Kingham|R|Raimel Tapia|L|Groundout|B|Changeup|17|2|1|2|11|84
+Nick Kingham|R|Raimel Tapia|L|Groundout|S|Four-Seam Fastball|18|3|1|2|7|92
+Nick Kingham|R|Raimel Tapia|L|Groundout|F|Four-Seam Fastball|19|3|2|2|13|92
+Nick Kingham|R|Raimel Tapia|L|Groundout|F|Four-Seam Fastball|20|3|2|2|1|92
+Nick Kingham|R|Raimel Tapia|L|Groundout|X|Four-Seam Fastball|21|3|2|2|13|92
+Nick Kingham|R|Nolan Arenado|R|Single|B|Four-Seam Fastball|22|0|0|0|11|91
+Nick Kingham|R|Nolan Arenado|R|Single|F|Cutter|23|1|0|0|12|91
+Nick Kingham|R|Nolan Arenado|R|Single|S|Cutter|24|1|1|0|14|89
+Nick Kingham|R|Nolan Arenado|R|Single|B|Four-Seam Fastball|25|1|2|0|11|92
+Nick Kingham|R|Nolan Arenado|R|Single|B|Four-Seam Fastball|26|2|2|0|11|92
+Nick Kingham|R|Nolan Arenado|R|Single|D|Cutter|27|3|2|0|12|89
+Nick Kingham|R|Daniel Murphy|L|Pop Out|B|Four-Seam Fastball|28|0|0|0|11|91
+Nick Kingham|R|Daniel Murphy|L|Pop Out|X|Changeup|29|1|0|0|1|84
+Nick Kingham|R|Ian Desmond|R|Strikeout|C|Two-Seam Fastball|30|0|0|1|11|90
+Nick Kingham|R|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|31|0|1|1|14|90
+Nick Kingham|R|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|32|1|1|1|13|92
+Nick Kingham|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|33|2|1|1|6|90
+Nick Kingham|R|Ian Desmond|R|Strikeout|C|Knuckle Curve|34|2|2|1|1|80
+Nick Kingham|R|Brendan Rodgers|R|Single|B|Four-Seam Fastball|35|0|0|2|14|91
+Nick Kingham|R|Brendan Rodgers|R|Single|D|Four-Seam Fastball|36|1|0|2|14|90
+Nick Kingham|R|Tony Wolters|L|Home Run|C|Knuckle Curve|37|0|0|2|11|79
+Nick Kingham|R|Tony Wolters|L|Home Run|B|Changeup|38|0|1|2|13|86
+Nick Kingham|R|Tony Wolters|L|Home Run|S|Four-Seam Fastball|39|1|1|2|4|92
+Nick Kingham|R|Tony Wolters|L|Home Run|E|Four-Seam Fastball|40|1|2|2|3|91
+Nick Kingham|R|Jon Gray|R|Single|C|Four-Seam Fastball|41|0|0|2|5|92
+Nick Kingham|R|Jon Gray|R|Single|B|Four-Seam Fastball|42|0|1|2|11|91
+Nick Kingham|R|Jon Gray|R|Single|F|Two-Seam Fastball|43|1|1|2|11|89
+Nick Kingham|R|Jon Gray|R|Single|D|Cutter|44|1|2|2|3|90
+Nick Kingham|R|Charlie Blackmon|L|Flyout|B|Four-Seam Fastball|45|0|0|2|13|91
+Nick Kingham|R|Charlie Blackmon|L|Flyout|X|Changeup|46|1|0|2|11|84
+Nick Kingham|R|Trevor Story|R|Walk|F|Knuckle Curve|47|0|0|0|11|78
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|48|0|1|0|11|89
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|49|1|1|0|14|91
+Nick Kingham|R|Trevor Story|R|Walk|F|Knuckle Curve|50|2|1|0|8|78
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|51|2|2|0|14|89
+Nick Kingham|R|Trevor Story|R|Walk|B|Knuckle Curve|52|3|2|0|14|79
+Nick Kingham|R|Raimel Tapia|L|Strikeout|C|Four-Seam Fastball|53|0|0|0|7|90
+Nick Kingham|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|54|0|1|0|8|89
+Nick Kingham|R|Raimel Tapia|L|Strikeout|*B|Knuckle Curve|55|0|2|0|14|80
+Nick Kingham|R|Raimel Tapia|L|Strikeout|S|Changeup|56|1|2|0|5|84
+Nick Kingham|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|57|0|0|1|7|90
+Nick Kingham|R|Nolan Arenado|R|Walk|B|Cutter|58|1|0|1|14|89
+Nick Kingham|R|Nolan Arenado|R|Walk|B|Knuckle Curve|59|2|0|1|14|79
+Nick Kingham|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|60|3|0|1|14|91
+Nick Kingham|R|Daniel Murphy|L|Flyout|C|Two-Seam Fastball|61|0|0|2|11|89
+Nick Kingham|R|Daniel Murphy|L|Flyout|F|Changeup|62|0|1|2|2|84
+Nick Kingham|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|63|0|2|2|11|91
+Nick Kingham|R|Daniel Murphy|L|Flyout|F|Knuckle Curve|64|1|2|2|14|80
+Nick Kingham|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|65|1|2|2|11|90
+Nick Kingham|R|Daniel Murphy|L|Flyout|X|Four-Seam Fastball|66|2|2|2|6|91
+Nick Kingham|R|Ian Desmond|R|Double|F|Four-Seam Fastball|67|0|0|0|6|91
+Nick Kingham|R|Ian Desmond|R|Double|B|Four-Seam Fastball|68|0|1|0|13|90
+Nick Kingham|R|Ian Desmond|R|Double|D|Knuckle Curve|69|1|1|0|8|79
+Nick Kingham|R|Brendan Rodgers|R|Double|E|Four-Seam Fastball|70|0|0|0|7|90
+Nick Kingham|R|Tony Wolters|L|Single|B|Four-Seam Fastball|71|0|0|0|8|90
+Nick Kingham|R|Tony Wolters|L|Single|C|Changeup|72|1|0|0|2|82
+Nick Kingham|R|Tony Wolters|L|Single|B|Four-Seam Fastball|73|1|1|0|14|89
+Nick Kingham|R|Tony Wolters|L|Single|D|Four-Seam Fastball|74|2|1|0|13|90
+Nick Kingham|R|Jon Gray|R|Sac Bunt|L|Two-Seam Fastball|75|0|0|0|8|88
+Nick Kingham|R|Jon Gray|R|Sac Bunt|B|Four-Seam Fastball|76|0|1|0|14|87
+Nick Kingham|R|Jon Gray|R|Sac Bunt|B|Four-Seam Fastball|77|1|1|0|14|91
+Nick Kingham|R|Jon Gray|R|Sac Bunt|X|Two-Seam Fastball|78|2|1|0|7|88
+Nick Kingham|R|Charlie Blackmon|L|Single|C|Four-Seam Fastball|79|0|0|1|13|90
+Nick Kingham|R|Charlie Blackmon|L|Single|*B|Knuckle Curve|80|0|1|1|14|81
+Nick Kingham|R|Charlie Blackmon|L|Single|E|Four-Seam Fastball|81|1|1|1|2|91
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|82|0|0|1|14|91
+Nick Kingham|R|Trevor Story|R|Walk|F|Cutter|83|1|0|1|6|88
+Nick Kingham|R|Trevor Story|R|Walk|F|Four-Seam Fastball|84|1|1|1|11|91
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|85|1|2|1|13|91
+Nick Kingham|R|Trevor Story|R|Walk|F|Knuckle Curve|86|2|2|1|13|81
+Nick Kingham|R|Trevor Story|R|Walk|B|Four-Seam Fastball|87|2|2|1|14|89
+Nick Kingham|R|Trevor Story|R|Walk|B|Cutter|88|3|2|1|14|89
+Nick Kingham|R|Lorenzo Cain|R|Single|C|Four-Seam Fastball|0|0|0|0|5|92
+Nick Kingham|R|Lorenzo Cain|R|Single|C|Two-Seam Fastball|1|0|1|0|13|91
+Nick Kingham|R|Lorenzo Cain|R|Single|F|Four-Seam Fastball|2|0|2|0|11|93
+Nick Kingham|R|Lorenzo Cain|R|Single|B|Slider|3|0|2|0|14|82
+Nick Kingham|R|Lorenzo Cain|R|Single|B|Four-Seam Fastball|4|1|2|0|13|92
+Nick Kingham|R|Lorenzo Cain|R|Single|D|Four-Seam Fastball|5|2|2|0|12|93
+Nick Kingham|R|Christian Yelich|L|Triple|B|Two-Seam Fastball|6|0|0|0|11|90
+Nick Kingham|R|Christian Yelich|L|Triple|E|Four-Seam Fastball|7|1|0|0|1|91
+Nick Kingham|R|Ryan Braun|R|Groundout|B|Cutter|8|0|0|0|11|92
+Nick Kingham|R|Ryan Braun|R|Groundout|*B|Knuckle Curve|9|1|0|0|14|81
+Nick Kingham|R|Ryan Braun|R|Groundout|C|Slider|10|2|0|0|1|81
+Nick Kingham|R|Ryan Braun|R|Groundout|E|Four-Seam Fastball|11|2|1|0|11|90
+Nick Kingham|R|Mike Moustakas|L|Strikeout|C|Four-Seam Fastball|12|0|0|1|1|91
+Nick Kingham|R|Mike Moustakas|L|Strikeout|S|Four-Seam Fastball|13|0|1|1|11|92
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|14|0|2|1|1|92
+Nick Kingham|R|Mike Moustakas|L|Strikeout|F|Knuckle Curve|15|0|2|1|14|81
+Nick Kingham|R|Mike Moustakas|L|Strikeout|W|Changeup|16|0|2|1|14|85
+Nick Kingham|R|Yasmani Grandal|L|Single|C|Four-Seam Fastball|17|0|0|2|7|92
+Nick Kingham|R|Yasmani Grandal|L|Single|S|Changeup|18|0|1|2|7|86
+Nick Kingham|R|Yasmani Grandal|L|Single|B|Changeup|19|0|2|2|13|86
+Nick Kingham|R|Yasmani Grandal|L|Single|B|Changeup|20|1|2|2|13|86
+Nick Kingham|R|Yasmani Grandal|L|Single|D|Four-Seam Fastball|21|2|2|2|12|91
+Nick Kingham|R|Keston Hiura|R|Strikeout|C|Four-Seam Fastball|22|0|0|2|6|92
+Nick Kingham|R|Keston Hiura|R|Strikeout|B|Four-Seam Fastball|23|0|1|2|13|92
+Nick Kingham|R|Keston Hiura|R|Strikeout|T|Two-Seam Fastball|24|1|1|2|13|92
+Nick Kingham|R|Keston Hiura|R|Strikeout|*B|Knuckle Curve|25|1|2|2|14|80
+Nick Kingham|R|Keston Hiura|R|Strikeout|C|Four-Seam Fastball|26|2|2|2|7|92
+Nick Kingham|R|Eric Thames|L|Walk|B|Four-Seam Fastball|27|0|0|0|12|90
+Nick Kingham|R|Eric Thames|L|Walk|S|Changeup|28|1|0|0|11|84
+Nick Kingham|R|Eric Thames|L|Walk|C|Changeup|29|1|1|0|13|84
+Nick Kingham|R|Eric Thames|L|Walk|B|Changeup|30|1|2|0|13|85
+Nick Kingham|R|Eric Thames|L|Walk|B|Knuckle Curve|31|2|2|0|14|80
+Nick Kingham|R|Eric Thames|L|Walk|F|Changeup|32|3|2|0|13|85
+Nick Kingham|R|Eric Thames|L|Walk|B|Four-Seam Fastball|33|3|2|0|11|91
+Nick Kingham|R|Orlando Arcia|R|Home Run|E|Two-Seam Fastball|34|0|0|0|4|90
+Nick Kingham|R|Brandon Woodruff|L|Groundout|B|Two-Seam Fastball|35|0|0|0|11|90
+Nick Kingham|R|Brandon Woodruff|L|Groundout|F|Two-Seam Fastball|36|1|0|0|11|90
+Nick Kingham|R|Brandon Woodruff|L|Groundout|X|Changeup|37|1|1|0|13|85
+Nick Kingham|R|Lorenzo Cain|R|Lineout|B|Two-Seam Fastball|38|0|0|1|13|90
+Nick Kingham|R|Lorenzo Cain|R|Lineout|F|Changeup|39|1|0|1|8|85
+Nick Kingham|R|Lorenzo Cain|R|Lineout|F|Four-Seam Fastball|40|1|1|1|9|91
+Nick Kingham|R|Lorenzo Cain|R|Lineout|X|Changeup|41|1|2|1|7|85
+Nick Kingham|R|Christian Yelich|L|Walk|B|Two-Seam Fastball|42|0|0|2|13|90
+Nick Kingham|R|Christian Yelich|L|Walk|S|Changeup|43|1|0|2|13|85
+Nick Kingham|R|Christian Yelich|L|Walk|B|Changeup|44|1|1|2|11|86
+Nick Kingham|R|Christian Yelich|L|Walk|B|Changeup|45|2|1|2|14|85
+Nick Kingham|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|46|3|1|2|14|92
+Nick Kingham|R|Ryan Braun|R|Strikeout|F|Cutter|47|0|0|2|2|89
+Nick Kingham|R|Ryan Braun|R|Strikeout|F|Two-Seam Fastball|48|0|1|2|13|90
+Nick Kingham|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|49|0|2|2|13|92
+Nick Kingham|R|Ryan Braun|R|Strikeout|F|Knuckle Curve|50|1|2|2|9|80
+Nick Kingham|R|Ryan Braun|R|Strikeout|F|Knuckle Curve|51|1|2|2|14|80
+Nick Kingham|R|Ryan Braun|R|Strikeout|*B|Four-Seam Fastball|52|1|2|2|14|92
+Nick Kingham|R|Ryan Braun|R|Strikeout|C|Knuckle Curve|53|2|2|2|2|80
+Nick Kingham|R|Mike Moustakas|L|Home Run|B|Changeup|54|0|0|0|13|83
+Nick Kingham|R|Mike Moustakas|L|Home Run|C|Four-Seam Fastball|55|1|0|0|11|90
+Nick Kingham|R|Mike Moustakas|L|Home Run|F|Knuckle Curve|56|1|1|0|14|80
+Nick Kingham|R|Mike Moustakas|L|Home Run|F|Changeup|57|1|2|0|7|85
+Nick Kingham|R|Mike Moustakas|L|Home Run|F|Four-Seam Fastball|58|1|2|0|4|90
+Nick Kingham|R|Mike Moustakas|L|Home Run|F|Four-Seam Fastball|59|1|2|0|4|90
+Nick Kingham|R|Mike Moustakas|L|Home Run|E|Knuckle Curve|60|1|2|0|9|81
+Nick Kingham|R|Yasmani Grandal|L|Flyout|C|Four-Seam Fastball|61|0|0|0|1|89
+Nick Kingham|R|Yasmani Grandal|L|Flyout|X|Four-Seam Fastball|62|0|1|0|7|90
+Nick Kingham|R|Keston Hiura|R|Pop Out|B|Four-Seam Fastball|63|0|0|1|12|90
+Nick Kingham|R|Keston Hiura|R|Pop Out|S|Slider|64|1|0|1|14|81
+Nick Kingham|R|Keston Hiura|R|Pop Out|S|Four-Seam Fastball|65|1|1|1|13|90
+Nick Kingham|R|Keston Hiura|R|Pop Out|X|Cutter|66|1|2|1|2|90
+Nick Kingham|R|Eric Thames|L|Single|C|Four-Seam Fastball|67|0|0|2|1|89
+Nick Kingham|R|Eric Thames|L|Single|B|Four-Seam Fastball|68|0|1|2|11|90
+Nick Kingham|R|Eric Thames|L|Single|D|Changeup|69|1|1|2|13|84
+Nick Kingham|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|70|0|0|2|14|88
+Nick Kingham|R|Orlando Arcia|R|Strikeout|C|Knuckle Curve|71|1|0|2|7|77
+Nick Kingham|R|Orlando Arcia|R|Strikeout|F|Two-Seam Fastball|72|1|1|2|11|88
+Nick Kingham|R|Orlando Arcia|R|Strikeout|S|Knuckle Curve|73|1|2|2|14|77
+Nick Kingham|R|Wilfredo Tovar|R|Lineout|C|Four-Seam Fastball|0|0|0|0|14|91
+Nick Kingham|R|Wilfredo Tovar|R|Lineout|X|Four-Seam Fastball|1|0|1|0|9|92
+Nick Kingham|R|Tommy La Stella|L|Flyout|F|Knuckle Curve|2|0|0|1|14|80
+Nick Kingham|R|Tommy La Stella|L|Flyout|X|Changeup|3|0|1|1|13|84
+Nick Kingham|R|Mike Trout|R|Home Run|B|Slider|4|0|0|2|14|83
+Nick Kingham|R|Mike Trout|R|Home Run|E|Four-Seam Fastball|5|1|0|2|5|92
+Nick Kingham|R|Shohei Ohtani|L|Double|B|Knuckle Curve|6|0|0|2|14|81
+Nick Kingham|R|Shohei Ohtani|L|Double|B|Changeup|7|1|0|2|14|86
+Nick Kingham|R|Shohei Ohtani|L|Double|F|Four-Seam Fastball|8|2|0|2|3|91
+Nick Kingham|R|Shohei Ohtani|L|Double|F|Changeup|9|2|1|2|13|86
+Nick Kingham|R|Shohei Ohtani|L|Double|D|Slider|10|2|2|2|5|82
+Nick Kingham|R|Justin Upton|R|Walk|*B|Knuckle Curve|11|0|0|2|14|79
+Nick Kingham|R|Justin Upton|R|Walk|B|Two-Seam Fastball|12|1|0|2|13|89
+Nick Kingham|R|Justin Upton|R|Walk|*B|Two-Seam Fastball|13|2|0|2|14|90
+Nick Kingham|R|Justin Upton|R|Walk|B|Four-Seam Fastball|14|3|0|2|14|91
+Nick Kingham|R|Kole Calhoun|L|Strikeout|C|Four-Seam Fastball|15|0|0|2|6|92
+Nick Kingham|R|Kole Calhoun|L|Strikeout|F|Two-Seam Fastball|16|0|1|2|13|89
+Nick Kingham|R|Kole Calhoun|L|Strikeout|W|Knuckle Curve|17|0|2|2|14|80
+Nick Kingham|R|Tommy La Stella|L|Single|B|Knuckle Curve|0|0|0|0|11|78
+Nick Kingham|R|Tommy La Stella|L|Single|C|Knuckle Curve|1|1|0|0|8|80
+Nick Kingham|R|Tommy La Stella|L|Single|B|Changeup|2|1|1|0|11|85
+Nick Kingham|R|Tommy La Stella|L|Single|D|Changeup|3|2|1|0|11|85
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|B|Knuckle Curve|4|0|0|0|11|76
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|C|Cutter|5|1|0|0|4|90
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|F|Cutter|6|1|1|0|6|91
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|F|Knuckle Curve|7|1|2|0|5|79
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|F|Changeup|8|1|2|0|5|86
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|F|Knuckle Curve|9|1|2|0|14|80
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|B|Cutter|10|1|2|0|12|90
+Nick Kingham|R|Luis Rengifo|L|Grounded Into DP|X|Four-Seam Fastball|11|2|2|0|12|91
+Nick Kingham|R|Justin Bour|L|Groundout|B|Knuckle Curve|12|0|0|2|13|80
+Nick Kingham|R|Justin Bour|L|Groundout|F|Knuckle Curve|13|1|0|2|9|81
+Nick Kingham|R|Justin Bour|L|Groundout|X|Four-Seam Fastball|14|1|1|2|5|92
+Nick Kingham|R|Whit Merrifield|R|Forceout|B|Knuckle Curve|0|0|0|0|11|77
+Nick Kingham|R|Whit Merrifield|R|Forceout|C|Cutter|1|1|0|0|3|88
+Nick Kingham|R|Whit Merrifield|R|Forceout|X|Knuckle Curve|2|1|1|0|14|78
+Nick Kingham|R|Nicky Lopez|L|Forceout|B|Four-Seam Fastball|3|0|0|1|13|91
+Nick Kingham|R|Nicky Lopez|L|Forceout|S|Changeup|4|1|0|1|13|84
+Nick Kingham|R|Nicky Lopez|L|Forceout|F|Knuckle Curve|5|1|1|1|9|77
+Nick Kingham|R|Nicky Lopez|L|Forceout|F|Changeup|6|1|2|1|13|85
+Nick Kingham|R|Nicky Lopez|L|Forceout|F|Knuckle Curve|7|1|2|1|5|80
+Nick Kingham|R|Nicky Lopez|L|Forceout|F|Four-Seam Fastball|8|1|2|1|14|89
+Nick Kingham|R|Nicky Lopez|L|Forceout|X|Changeup|9|1|2|1|13|85
+Nick Kingham|R|Alex Gordon|L|Groundout|C|Knuckle Curve|10|0|0|2|7|77
+Nick Kingham|R|Alex Gordon|L|Groundout|X|Changeup|11|0|1|2|13|84
+Nick Kingham|R|Hunter Dozier|R|Flyout|X|Knuckle Curve|12|0|0|0|8|78
+Nick Kingham|R|Jorge Soler|R|Home Run|B|Knuckle Curve|13|0|0|1|14|78
+Nick Kingham|R|Jorge Soler|R|Home Run|B|Two-Seam Fastball|14|1|0|1|7|90
+Nick Kingham|R|Jorge Soler|R|Home Run|B|Four-Seam Fastball|15|2|0|1|12|91
+Nick Kingham|R|Jorge Soler|R|Home Run|E|Four-Seam Fastball|16|3|0|1|5|91
+Nick Kingham|R|Cheslor Cuthbert|R|Flyout|C|Four-Seam Fastball|17|0|0|1|6|91
+Nick Kingham|R|Cheslor Cuthbert|R|Flyout|B|Changeup|18|0|1|1|13|85
+Nick Kingham|R|Cheslor Cuthbert|R|Flyout|X|Four-Seam Fastball|19|1|1|1|9|90
+Nick Kingham|R|Lucas Duda|L|Flyout|C|Four-Seam Fastball|20|0|0|2|4|92
+Nick Kingham|R|Lucas Duda|L|Flyout|F|Cutter|21|0|1|2|14|91
+Nick Kingham|R|Lucas Duda|L|Flyout|X|Changeup|22|0|2|2|13|86
+Nick Kingham|R|Martin Maldonado|R|Strikeout|C|Knuckle Curve|23|0|0|0|1|79
+Nick Kingham|R|Martin Maldonado|R|Strikeout|F|Four-Seam Fastball|24|0|1|0|3|90
+Nick Kingham|R|Martin Maldonado|R|Strikeout|F|Knuckle Curve|25|0|2|0|14|79
+Nick Kingham|R|Martin Maldonado|R|Strikeout|S|Four-Seam Fastball|26|0|2|0|11|91
+Nick Kingham|R|Humberto Arteaga|R|Flyout|X|Four-Seam Fastball|27|0|0|1|11|92
+Nick Kingham|R|Whit Merrifield|R|Single|B|Cutter|28|0|0|2|14|90
+Nick Kingham|R|Whit Merrifield|R|Single|C|Four-Seam Fastball|29|1|0|2|4|91
+Nick Kingham|R|Whit Merrifield|R|Single|D|Changeup|30|1|1|2|14|84
+Nick Kingham|R|Nicky Lopez|L|Pop Out|B|Knuckle Curve|31|0|0|2|11|77
+Nick Kingham|R|Nicky Lopez|L|Pop Out|X|Cutter|32|1|0|2|12|88
+Nick Kingham|R|Alex Gordon|L|Groundout|C|Cutter|33|0|0|0|6|89
+Nick Kingham|R|Alex Gordon|L|Groundout|X|Knuckle Curve|34|0|1|0|4|79
+Nick Kingham|R|Hunter Dozier|R|Double|B|Knuckle Curve|35|0|0|1|8|79
+Nick Kingham|R|Hunter Dozier|R|Double|C|Four-Seam Fastball|36|1|0|1|12|91
+Nick Kingham|R|Hunter Dozier|R|Double|B|Changeup|37|1|1|1|14|85
+Nick Kingham|R|Hunter Dozier|R|Double|S|Four-Seam Fastball|38|2|1|1|11|91
+Nick Kingham|R|Hunter Dozier|R|Double|D|Knuckle Curve|39|2|2|1|14|80
+Nick Kingham|R|Eduardo Nunez|R|Pop Out|B|Knuckle Curve|0|0|0|0|11|78
+Nick Kingham|R|Eduardo Nunez|R|Pop Out|B|Knuckle Curve|1|1|0|0|14|80
+Nick Kingham|R|Eduardo Nunez|R|Pop Out|B|Cutter|2|2|0|0|12|91
+Nick Kingham|R|Eduardo Nunez|R|Pop Out|C|Cutter|3|3|0|0|5|91
+Nick Kingham|R|Eduardo Nunez|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|8|92
+Nick Kingham|R|Christian Vazquez|R|Groundout|B|Knuckle Curve|5|0|0|1|14|80
+Nick Kingham|R|Christian Vazquez|R|Groundout|T|Four-Seam Fastball|6|1|0|1|5|92
+Nick Kingham|R|Christian Vazquez|R|Groundout|C|Four-Seam Fastball|7|1|1|1|12|91
+Nick Kingham|R|Christian Vazquez|R|Groundout|B|Knuckle Curve|8|1|2|1|14|79
+Nick Kingham|R|Christian Vazquez|R|Groundout|F|Changeup|9|2|2|1|9|85
+Nick Kingham|R|Christian Vazquez|R|Groundout|B|Cutter|10|2|2|1|14|91
+Nick Kingham|R|Christian Vazquez|R|Groundout|X|Four-Seam Fastball|11|3|2|1|14|92
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|12|0|0|2|13|93
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|13|1|0|2|14|85
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|14|2|0|2|4|92
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|C|Changeup|15|2|1|2|1|85
+Nick Kingham|R|Jackie Bradley Jr.|L|Strikeout|S|Knuckle Curve|16|2|2|2|13|80
+Nick Kingham|R|Hanser Alberto|R|Lineout|X|Four-Seam Fastball|0|0|0|0|3|91
+Nick Kingham|R|Trey Mancini|R|Walk|C|Four-Seam Fastball|1|0|0|1|3|90
+Nick Kingham|R|Trey Mancini|R|Walk|F|Changeup|2|0|1|1|14|85
+Nick Kingham|R|Trey Mancini|R|Walk|B|Knuckle Curve|3|0|2|1|14|80
+Nick Kingham|R|Trey Mancini|R|Walk|F|Cutter|4|1|2|1|12|89
+Nick Kingham|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|5|1|2|1|11|91
+Nick Kingham|R|Trey Mancini|R|Walk|B|Two-Seam Fastball|6|2|2|1|14|87
+Nick Kingham|R|Trey Mancini|R|Walk|*B|Changeup|7|3|2|1|14|86
+Nick Kingham|R|Renato Nunez|R|Grounded Into DP|*B|Knuckle Curve|8|0|0|1|14|78
+Nick Kingham|R|Renato Nunez|R|Grounded Into DP|B|Cutter|9|1|0|1|14|89
+Nick Kingham|R|Renato Nunez|R|Grounded Into DP|X|Cutter|10|2|0|1|9|90
+Nick Kingham|R|Pedro Severino|R|Groundout|C|Four-Seam Fastball|11|0|0|0|9|91
+Nick Kingham|R|Pedro Severino|R|Groundout|S|Four-Seam Fastball|12|0|1|0|12|91
+Nick Kingham|R|Pedro Severino|R|Groundout|X|Four-Seam Fastball|13|0|2|0|3|92
+Nick Kingham|R|Jonathan Villar|L|Double|B|Four-Seam Fastball|14|0|0|1|14|92
+Nick Kingham|R|Jonathan Villar|L|Double|C|Four-Seam Fastball|15|1|0|1|13|92
+Nick Kingham|R|Jonathan Villar|L|Double|B|Four-Seam Fastball|16|1|1|1|14|92
+Nick Kingham|R|Jonathan Villar|L|Double|B|Knuckle Curve|17|2|1|1|14|80
+Nick Kingham|R|Jonathan Villar|L|Double|D|Four-Seam Fastball|18|3|1|1|9|92
+Nick Kingham|R|Anthony Santander|L|Single|C|Knuckle Curve|19|0|0|1|1|78
+Nick Kingham|R|Anthony Santander|L|Single|F|Knuckle Curve|20|0|1|1|8|78
+Nick Kingham|R|Anthony Santander|L|Single|B|Four-Seam Fastball|21|0|2|1|14|90
+Nick Kingham|R|Anthony Santander|L|Single|E|Four-Seam Fastball|22|1|2|1|12|91
+Nick Kingham|R|Keon Broxton|R|Grounded Into DP|B|Four-Seam Fastball|23|0|0|1|14|90
+Nick Kingham|R|Keon Broxton|R|Grounded Into DP|B|Four-Seam Fastball|24|1|0|1|14|90
+Nick Kingham|R|Keon Broxton|R|Grounded Into DP|C|Four-Seam Fastball|25|2|0|1|7|90
+Nick Kingham|R|Keon Broxton|R|Grounded Into DP|X|Cutter|26|2|1|1|3|88
+Nick Kingham|R|Stevie Wilkerson|L|Home Run|B|Knuckle Curve|27|0|0|0|14|79
+Nick Kingham|R|Stevie Wilkerson|L|Home Run|B|Changeup|28|1|0|0|11|82
+Nick Kingham|R|Stevie Wilkerson|L|Home Run|B|Four-Seam Fastball|29|2|0|0|11|90
+Nick Kingham|R|Stevie Wilkerson|L|Home Run|C|Four-Seam Fastball|30|3|0|0|5|90
+Nick Kingham|R|Stevie Wilkerson|L|Home Run|E|Four-Seam Fastball|31|3|1|0|12|90
+Nick Kingham|R|Richie Martin|R|Strikeout|S|Cutter|32|0|0|0|3|91
+Nick Kingham|R|Richie Martin|R|Strikeout|C|Knuckle Curve|33|0|1|0|12|79
+Nick Kingham|R|Richie Martin|R|Strikeout|F|Knuckle Curve|34|0|2|0|14|81
+Nick Kingham|R|Richie Martin|R|Strikeout|F|Four-Seam Fastball|35|0|2|0|12|91
+Nick Kingham|R|Richie Martin|R|Strikeout|C|Four-Seam Fastball|36|0|2|0|7|91
+Nick Kingham|R|Hanser Alberto|R|Lineout|C|Four-Seam Fastball|37|0|0|1|8|90
+Nick Kingham|R|Hanser Alberto|R|Lineout|F|Changeup|38|0|1|1|2|84
+Nick Kingham|R|Hanser Alberto|R|Lineout|F|Four-Seam Fastball|39|0|2|1|14|90
+Nick Kingham|R|Hanser Alberto|R|Lineout|F|Knuckle Curve|40|0|2|1|4|78
+Nick Kingham|R|Hanser Alberto|R|Lineout|F|Four-Seam Fastball|41|0|2|1|13|91
+Nick Kingham|R|Hanser Alberto|R|Lineout|X|Four-Seam Fastball|42|0|2|1|3|91
+Nick Kingham|R|Trey Mancini|R|Walk|C|Changeup|43|0|0|2|9|84
+Nick Kingham|R|Trey Mancini|R|Walk|B|Knuckle Curve|44|0|1|2|14|80
+Nick Kingham|R|Trey Mancini|R|Walk|B|Knuckle Curve|45|1|1|2|14|81
+Nick Kingham|R|Trey Mancini|R|Walk|F|Four-Seam Fastball|46|2|1|2|6|91
+Nick Kingham|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|47|2|2|2|14|91
+Nick Kingham|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|48|3|2|2|14|91
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|B|Knuckle Curve|0|0|0|1|9|80
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|C|Four-Seam Fastball|1|1|0|1|11|92
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|B|Cutter|2|1|1|1|14|92
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|X|Knuckle Curve|3|2|1|1|1|78
+Nick Kingham|R|Didi Gregorius|L|Single|B|Four-Seam Fastball|4|0|0|2|12|93
+Nick Kingham|R|Didi Gregorius|L|Single|D|Knuckle Curve|5|1|0|2|13|81
+Nick Kingham|R|Aaron Hicks|L|Walk|B|Knuckle Curve|6|0|0|2|11|76
+Nick Kingham|R|Aaron Hicks|L|Walk|B|Four-Seam Fastball|7|1|0|2|12|92
+Nick Kingham|R|Aaron Hicks|L|Walk|B|Cutter|8|2|0|2|12|92
+Nick Kingham|R|Aaron Hicks|L|Walk|F|Four-Seam Fastball|9|3|0|2|12|91
+Nick Kingham|R|Aaron Hicks|L|Walk|B|Knuckle Curve|10|3|1|2|11|76
+Nick Kingham|R|Gleyber Torres|R|Single|S|Cutter|11|0|0|2|12|91
+Nick Kingham|R|Gleyber Torres|R|Single|F|Four-Seam Fastball|12|0|1|2|12|93
+Nick Kingham|R|Gleyber Torres|R|Single|*B|Knuckle Curve|13|0|2|2|14|81
+Nick Kingham|R|Gleyber Torres|R|Single|B|Cutter|14|1|2|2|12|91
+Nick Kingham|R|Gleyber Torres|R|Single|E|Cutter|15|2|2|2|13|91
+Nick Kingham|R|Brett Gardner|L|Flyout|C|Four-Seam Fastball|0|0|0|2|8|91
+Nick Kingham|R|Brett Gardner|L|Flyout|B|Four-Seam Fastball|1|0|1|2|12|91
+Nick Kingham|R|Brett Gardner|L|Flyout|F|Four-Seam Fastball|2|1|1|2|12|90
+Nick Kingham|R|Brett Gardner|L|Flyout|X|Knuckle Curve|3|1|2|2|5|80
+Nick Kingham|R|DJ LeMahieu|R|Groundout|C|Knuckle Curve|4|0|0|0|9|80
+Nick Kingham|R|DJ LeMahieu|R|Groundout|S|Changeup|5|0|1|0|11|85
+Nick Kingham|R|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|6|0|2|0|12|93
+Nick Kingham|R|Aaron Judge|R|Single|D|Four-Seam Fastball|7|0|0|1|8|93
+Nick Kingham|R|Luke Voit|R|Walk|B|Knuckle Curve|8|0|0|1|14|80
+Nick Kingham|R|Luke Voit|R|Walk|T|Changeup|9|1|0|1|1|85
+Nick Kingham|R|Luke Voit|R|Walk|*B|Knuckle Curve|10|1|1|1|14|80
+Nick Kingham|R|Luke Voit|R|Walk|B|Knuckle Curve|11|2|1|1|11|78
+Nick Kingham|R|Luke Voit|R|Walk|B|Four-Seam Fastball|12|3|1|1|14|91
+Nick Kingham|R|Gary Sanchez|R|Lineout|B|Four-Seam Fastball|13|0|0|1|14|93
+Nick Kingham|R|Gary Sanchez|R|Lineout|X|Four-Seam Fastball|14|1|0|1|14|92
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|S|Knuckle Curve|15|0|0|2|2|78
+Nick Kingham|R|Edwin Encarnacion|R|Pop Out|X|Four-Seam Fastball|16|0|1|2|1|92
+Nick Kingham|R|Didi Gregorius|L|Strikeout|C|Knuckle Curve|17|0|0|0|4|79
+Nick Kingham|R|Didi Gregorius|L|Strikeout|S|Knuckle Curve|18|0|1|0|9|80
+Nick Kingham|R|Didi Gregorius|L|Strikeout|S|Four-Seam Fastball|19|0|2|0|11|92
+Nick Kingham|R|Aaron Hicks|L|Strikeout|B|Four-Seam Fastball|20|0|0|1|11|92
+Nick Kingham|R|Aaron Hicks|L|Strikeout|B|Four-Seam Fastball|21|1|0|1|11|92
+Nick Kingham|R|Aaron Hicks|L|Strikeout|C|Four-Seam Fastball|22|2|0|1|13|92
+Nick Kingham|R|Aaron Hicks|L|Strikeout|F|Cutter|23|2|1|1|12|92
+Nick Kingham|R|Aaron Hicks|L|Strikeout|S|Knuckle Curve|24|2|2|1|13|83
+Nick Kingham|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|25|0|0|2|5|91
+Nick Kingham|R|Gleyber Torres|R|Strikeout|B|Four-Seam Fastball|26|0|1|2|12|92
+Nick Kingham|R|Gleyber Torres|R|Strikeout|B|Changeup|27|1|1|2|9|85
+Nick Kingham|R|Gleyber Torres|R|Strikeout|C|Four-Seam Fastball|28|2|1|2|14|91
+Nick Kingham|R|Gleyber Torres|R|Strikeout|B|Four-Seam Fastball|29|2|2|2|12|92
+Nick Kingham|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|30|3|2|2|2|92
+Nick Kingham|R|Brett Gardner|L|Single|S|Changeup|31|0|0|0|4|84
+Nick Kingham|R|Brett Gardner|L|Single|B|Changeup|32|0|1|0|14|86
+Nick Kingham|R|Brett Gardner|L|Single|D|Knuckle Curve|33|1|1|0|8|81
+Nick Kingham|R|DJ LeMahieu|R|Lineout|B|Four-Seam Fastball|34|0|0|0|14|91
+Nick Kingham|R|DJ LeMahieu|R|Lineout|C|Changeup|35|1|0|0|2|83
+Nick Kingham|R|DJ LeMahieu|R|Lineout|F|Four-Seam Fastball|36|1|1|0|6|90
+Nick Kingham|R|DJ LeMahieu|R|Lineout|X|Changeup|37|1|2|0|4|84
+Nick Kingham|R|Eric Thames|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|91
+Nick Kingham|R|Eric Thames|L|Groundout|F|Four-Seam Fastball|1|1|0|0|1|91
+Nick Kingham|R|Eric Thames|L|Groundout|F|Changeup|2|1|1|0|11|84
+Nick Kingham|R|Eric Thames|L|Groundout|F|Knuckle Curve|3|1|2|0|11|79
+Nick Kingham|R|Eric Thames|L|Groundout|X|Four-Seam Fastball|4|1|2|0|3|91
+Nick Kingham|R|Travis Shaw|L|Groundout|C|Four-Seam Fastball|5|0|0|1|3|92
+Nick Kingham|R|Travis Shaw|L|Groundout|F|Changeup|6|0|1|1|13|85
+Nick Kingham|R|Travis Shaw|L|Groundout|B|Four-Seam Fastball|7|0|2|1|14|91
+Nick Kingham|R|Travis Shaw|L|Groundout|X|Four-Seam Fastball|8|1|2|1|11|92
+Nick Kingham|R|Orlando Arcia|R|Groundout|X|Four-Seam Fastball|9|0|0|2|7|93
+Nick Kingham|R|Jesus Aguilar|R|Double|B|Knuckle Curve|10|0|0|0|14|79
+Nick Kingham|R|Jesus Aguilar|R|Double|D|Four-Seam Fastball|11|1|0|0|1|90
+Nick Kingham|R|Lorenzo Cain|R|Fielders Choice Out|F|Four-Seam Fastball|12|0|0|0|6|90
+Nick Kingham|R|Lorenzo Cain|R|Fielders Choice Out|B|Four-Seam Fastball|13|0|1|0|11|91
+Nick Kingham|R|Lorenzo Cain|R|Fielders Choice Out|C|Four-Seam Fastball|14|1|1|0|11|90
+Nick Kingham|R|Lorenzo Cain|R|Fielders Choice Out|X|Four-Seam Fastball|15|1|2|0|8|91
+Nick Kingham|R|Christian Yelich|L|Single|B|Changeup|16|0|0|1|13|83
+Nick Kingham|R|Christian Yelich|L|Single|D|Changeup|17|1|0|1|11|84
+Nick Kingham|R|Ryan Braun|R|Home Run|B|Four-Seam Fastball|18|0|0|1|14|91
+Nick Kingham|R|Ryan Braun|R|Home Run|B|Four-Seam Fastball|19|1|0|1|13|91
+Nick Kingham|R|Ryan Braun|R|Home Run|B|Four-Seam Fastball|20|2|0|1|13|91
+Nick Kingham|R|Ryan Braun|R|Home Run|C|Four-Seam Fastball|21|3|0|1|4|91
+Nick Kingham|R|Ryan Braun|R|Home Run|C|Four-Seam Fastball|22|3|1|1|13|91
+Nick Kingham|R|Ryan Braun|R|Home Run|F|Four-Seam Fastball|23|3|2|1|6|91
+Nick Kingham|R|Ryan Braun|R|Home Run|F|Four-Seam Fastball|24|3|2|1|7|91
+Nick Kingham|R|Ryan Braun|R|Home Run|E|Four-Seam Fastball|25|3|2|1|13|92
+Nick Kingham|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|26|0|0|1|14|92
+Nick Kingham|R|Mike Moustakas|L|Groundout|F|Two-Seam Fastball|27|1|0|1|1|90
+Nick Kingham|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|28|1|1|1|14|91
+Nick Kingham|R|Mike Moustakas|L|Groundout|X|Changeup|29|2|1|1|8|84
+Nick Kingham|R|Yasmani Grandal|L|Groundout|C|Changeup|30|0|0|2|8|85
+Nick Kingham|R|Yasmani Grandal|L|Groundout|B|Changeup|31|0|1|2|11|84
+Nick Kingham|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|32|1|1|2|14|92
+Nick Kingham|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|33|2|1|2|14|90
+Nick Kingham|R|Yasmani Grandal|L|Groundout|F|Two-Seam Fastball|34|3|1|2|5|89
+Nick Kingham|R|Yasmani Grandal|L|Groundout|X|Knuckle Curve|35|3|2|2|9|78
+Nick Kingham|R|Eric Thames|L|Single|F|Knuckle Curve|36|0|0|0|14|79
+Nick Kingham|R|Eric Thames|L|Single|B|Knuckle Curve|37|0|1|0|11|80
+Nick Kingham|R|Eric Thames|L|Single|F|Four-Seam Fastball|38|1|1|0|6|91
+Nick Kingham|R|Eric Thames|L|Single|D|Four-Seam Fastball|39|1|2|0|12|90
+Nick Kingham|R|Travis Shaw|L|Single|C|Two-Seam Fastball|40|0|0|0|6|88
+Nick Kingham|R|Travis Shaw|L|Single|F|Changeup|41|0|1|0|13|83
+Nick Kingham|R|Travis Shaw|L|Single|F|Four-Seam Fastball|42|0|2|0|12|90
+Nick Kingham|R|Travis Shaw|L|Single|B|Knuckle Curve|43|0|2|0|13|78
+Nick Kingham|R|Travis Shaw|L|Single|E|Changeup|44|1|2|0|7|84
+Nick Kingham|R|Orlando Arcia|R|Double|C|Two-Seam Fastball|45|0|0|0|7|89
+Nick Kingham|R|Orlando Arcia|R|Double|B|Knuckle Curve|46|0|1|0|14|79
+Nick Kingham|R|Orlando Arcia|R|Double|*B|Knuckle Curve|47|1|1|0|14|79
+Nick Kingham|R|Orlando Arcia|R|Double|D|Two-Seam Fastball|48|2|1|0|7|88
+Nick Kingham|R|Ben Gamel|L|Flyout|B|Four-Seam Fastball|49|0|0|0|12|90
+Nick Kingham|R|Ben Gamel|L|Flyout|W|Four-Seam Fastball|50|1|0|0|14|90
+Nick Kingham|R|Ben Gamel|L|Flyout|B|Knuckle Curve|51|1|1|0|13|79
+Nick Kingham|R|Ben Gamel|L|Flyout|F|Four-Seam Fastball|52|2|1|0|14|91
+Nick Kingham|R|Ben Gamel|L|Flyout|X|Four-Seam Fastball|53|2|2|0|9|92

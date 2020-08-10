@@ -1,0 +1,2129 @@
+Tim Lincecum|R|Wil Myers|R|Flyout|X|Four-Seam Fastball|0|0|0|0|4|87
+Tim Lincecum|R|Cory Spangenberg|L|Single|C|Two-Seam Fastball|1|0|0|1|11|86
+Tim Lincecum|R|Cory Spangenberg|L|Single|F|Four-Seam Fastball|2|0|1|1|12|88
+Tim Lincecum|R|Cory Spangenberg|L|Single|B|Changeup|3|0|2|1|11|81
+Tim Lincecum|R|Cory Spangenberg|L|Single|B|Two-Seam Fastball|4|1|2|1|13|89
+Tim Lincecum|R|Cory Spangenberg|L|Single|F|Two-Seam Fastball|5|2|2|1|13|87
+Tim Lincecum|R|Cory Spangenberg|L|Single|D|Changeup|6|2|2|1|8|81
+Tim Lincecum|R|Matt Kemp|R|Groundout|B|Four-Seam Fastball|7|0|0|1|14|88
+Tim Lincecum|R|Matt Kemp|R|Groundout|F|Four-Seam Fastball|8|1|0|1|8|89
+Tim Lincecum|R|Matt Kemp|R|Groundout|F|Two-Seam Fastball|9|1|1|1|13|88
+Tim Lincecum|R|Matt Kemp|R|Groundout|X|Two-Seam Fastball|10|1|2|1|13|86
+Tim Lincecum|R|Justin Upton|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|2|88
+Tim Lincecum|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|12|0|1|2|3|87
+Tim Lincecum|R|Justin Upton|R|Strikeout|B|Two-Seam Fastball|13|0|2|2|11|87
+Tim Lincecum|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|14|1|2|2|11|87
+Tim Lincecum|R|Derek Norris|R|Walk|B|Four-Seam Fastball|15|0|0|0|12|86
+Tim Lincecum|R|Derek Norris|R|Walk|C|Slider|16|1|0|0|2|77
+Tim Lincecum|R|Derek Norris|R|Walk|F|Four-Seam Fastball|17|1|1|0|6|88
+Tim Lincecum|R|Derek Norris|R|Walk|B|Slider|18|1|2|0|14|78
+Tim Lincecum|R|Derek Norris|R|Walk|B|Changeup|19|2|2|0|13|79
+Tim Lincecum|R|Derek Norris|R|Walk|B|Four-Seam Fastball|20|3|2|0|13|87
+Tim Lincecum|R|Yonder Alonso|L|Grounded Into DP|F|Curveball|21|0|0|0|1|73
+Tim Lincecum|R|Yonder Alonso|L|Grounded Into DP|X|Changeup|22|0|1|0|4|80
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|C|Four-Seam Fastball|23|0|0|2|5|87
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|B|Four-Seam Fastball|24|0|1|2|11|86
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|F|Four-Seam Fastball|25|1|1|2|7|86
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|B|Curveball|26|1|2|2|14|74
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|S|Changeup|27|2|2|2|7|80
+Tim Lincecum|R|Alexi Amarista|L|Groundout|B|Four-Seam Fastball|28|0|0|0|7|85
+Tim Lincecum|R|Alexi Amarista|L|Groundout|B|Changeup|29|1|0|0|14|80
+Tim Lincecum|R|Alexi Amarista|L|Groundout|C|Changeup|30|2|0|0|8|85
+Tim Lincecum|R|Alexi Amarista|L|Groundout|B|Four-Seam Fastball|31|2|1|0|11|85
+Tim Lincecum|R|Alexi Amarista|L|Groundout|X|Four-Seam Fastball|32|3|1|0|4|84
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|S|Four-Seam Fastball|33|0|0|1|3|85
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|C|Curveball|34|0|1|1|14|73
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|B|Curveball|35|0|2|1|14|74
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|F|Four-Seam Fastball|36|1|2|1|12|87
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|B|Four-Seam Fastball|37|1|2|1|12|87
+Tim Lincecum|R|Brandon Morrow|R|Strikeout|C|Curveball|38|2|2|1|3|76
+Tim Lincecum|R|Wil Myers|R|Groundout|X|Curveball|39|0|0|2|5|72
+Tim Lincecum|R|Cory Spangenberg|L|Groundout|C|Four-Seam Fastball|40|0|0|0|1|86
+Tim Lincecum|R|Cory Spangenberg|L|Groundout|X|Changeup|41|0|1|0|13|80
+Tim Lincecum|R|Matt Kemp|R|Groundout|C|Changeup|42|0|0|1|6|80
+Tim Lincecum|R|Matt Kemp|R|Groundout|S|Four-Seam Fastball|43|0|1|1|11|87
+Tim Lincecum|R|Matt Kemp|R|Groundout|X|Changeup|44|0|2|1|8|82
+Tim Lincecum|R|Justin Upton|R|Lineout|S|Curveball|45|0|0|2|14|76
+Tim Lincecum|R|Justin Upton|R|Lineout|B|Slider|46|0|1|2|14|77
+Tim Lincecum|R|Justin Upton|R|Lineout|B|Four-Seam Fastball|47|1|1|2|11|88
+Tim Lincecum|R|Justin Upton|R|Lineout|B|Curveball|48|2|1|2|11|72
+Tim Lincecum|R|Justin Upton|R|Lineout|C|Changeup|49|3|1|2|5|80
+Tim Lincecum|R|Justin Upton|R|Lineout|X|Four-Seam Fastball|50|3|2|2|3|88
+Tim Lincecum|R|Derek Norris|R|Flyout|C|Curveball|51|0|0|0|9|73
+Tim Lincecum|R|Derek Norris|R|Flyout|X|Curveball|52|0|1|0|6|74
+Tim Lincecum|R|Yonder Alonso|L|Single|B|Changeup|53|0|0|1|11|80
+Tim Lincecum|R|Yonder Alonso|L|Single|F|Changeup|54|1|0|1|13|79
+Tim Lincecum|R|Yonder Alonso|L|Single|D|Four-Seam Fastball|55|1|1|1|1|87
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|C|Four-Seam Fastball|56|0|0|1|3|86
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|T|Four-Seam Fastball|57|0|1|1|12|87
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|*B|Curveball|58|0|2|1|13|75
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|F|Four-Seam Fastball|59|1|2|1|12|86
+Tim Lincecum|R|Jedd Gyorko|R|Strikeout|C|Slider|60|1|2|1|14|78
+Tim Lincecum|R|Alexi Amarista|L|Intent Walk|I|Intentional Ball|61|0|0|2|11|78
+Tim Lincecum|R|Alexi Amarista|L|Intent Walk|I|Intentional Ball|62|0|1|2|11|78
+Tim Lincecum|R|Alexi Amarista|L|Intent Walk|I|Intentional Ball|63|0|2|2|11|78
+Tim Lincecum|R|Alexi Amarista|L|Intent Walk|I|Intentional Ball|64|0|2|2|11|79
+Tim Lincecum|R|Brandon Morrow|R|Forceout|F|Four-Seam Fastball|65|0|0|2|3|88
+Tim Lincecum|R|Brandon Morrow|R|Forceout|B|Changeup|66|0|1|2|11|80
+Tim Lincecum|R|Brandon Morrow|R|Forceout|W|Curveball|67|1|1|2|14|74
+Tim Lincecum|R|Brandon Morrow|R|Forceout|X|Changeup|68|1|2|2|2|81
+Tim Lincecum|R|Wil Myers|R|Single|B|Curveball|69|0|0|2|11|75
+Tim Lincecum|R|Wil Myers|R|Single|C|Curveball|70|1|0|2|5|72
+Tim Lincecum|R|Wil Myers|R|Single|D|Four-Seam Fastball|71|1|1|2|5|85
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|B|Changeup|72|0|0|2|11|78
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|F|Changeup|73|1|0|2|11|80
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|F|Two-Seam Fastball|74|1|1|2|11|86
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|F|Four-Seam Fastball|75|1|2|2|12|87
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|F|Changeup|76|1|2|2|11|80
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|F|Curveball|77|1|2|2|11|74
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|B|Four-Seam Fastball|78|1|2|2|11|88
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|B|Four-Seam Fastball|79|2|2|2|13|87
+Tim Lincecum|R|Cory Spangenberg|L|Batter Interference|S|Changeup|80|3|2|2|13|79
+Tim Lincecum|R|Matt Kemp|R|Lineout|C|Changeup|81|0|0|0|1|78
+Tim Lincecum|R|Matt Kemp|R|Lineout|X|Four-Seam Fastball|82|0|1|0|2|87
+Tim Lincecum|R|Justin Upton|R|Single|B|Four-Seam Fastball|83|0|0|1|13|86
+Tim Lincecum|R|Justin Upton|R|Single|S|Curveball|84|1|0|1|14|73
+Tim Lincecum|R|Justin Upton|R|Single|B|Curveball|85|1|1|1|12|73
+Tim Lincecum|R|Justin Upton|R|Single|S|Curveball|86|2|1|1|14|77
+Tim Lincecum|R|Justin Upton|R|Single|D|Four-Seam Fastball|87|2|2|1|3|88
+Tim Lincecum|R|Derek Norris|R|Flyout|X|Four-Seam Fastball|88|0|0|1|5|88
+Tim Lincecum|R|Yonder Alonso|L|Intent Walk|B|Changeup|89|0|0|2|13|79
+Tim Lincecum|R|Yonder Alonso|L|Intent Walk|B|Changeup|90|1|0|2|13|81
+Tim Lincecum|R|Yonder Alonso|L|Intent Walk|I|Intentional Ball|91|2|0|2|11|78
+Tim Lincecum|R|Yonder Alonso|L|Intent Walk|I|Intentional Ball|92|2|1|2|11|78
+Tim Lincecum|R|Jedd Gyorko|R|Grounded Into DP|B|Curveball|93|0|0|2|12|74
+Tim Lincecum|R|Jedd Gyorko|R|Grounded Into DP|F|Changeup|94|1|0|2|2|79
+Tim Lincecum|R|Jedd Gyorko|R|Grounded Into DP|X|Four-Seam Fastball|95|1|1|2|4|85
+Tim Lincecum|R|Charlie Blackmon|L|Walk|B|Two-Seam Fastball|0|0|0|0|11|88
+Tim Lincecum|R|Charlie Blackmon|L|Walk|C|Two-Seam Fastball|1|1|0|0|1|88
+Tim Lincecum|R|Charlie Blackmon|L|Walk|S|Changeup|2|1|1|0|13|82
+Tim Lincecum|R|Charlie Blackmon|L|Walk|B|Changeup|3|1|2|0|13|83
+Tim Lincecum|R|Charlie Blackmon|L|Walk|B|Curveball|4|2|2|0|14|75
+Tim Lincecum|R|Charlie Blackmon|L|Walk|B|Two-Seam Fastball|5|3|2|0|11|87
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|C|Two-Seam Fastball|6|0|0|0|9|88
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|S|Changeup|7|0|1|0|5|80
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|B|Two-Seam Fastball|8|0|2|0|11|87
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|B|Two-Seam Fastball|9|1|2|0|11|88
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|F|Changeup|10|2|2|0|9|81
+Tim Lincecum|R|Carlos Gonzalez|L|Groundout|X|Changeup|11|2|2|0|13|80
+Tim Lincecum|R|Troy Tulowitzki|R|Single|B|Four-Seam Fastball|12|0|0|1|11|88
+Tim Lincecum|R|Troy Tulowitzki|R|Single|S|Slider|13|1|0|1|4|80
+Tim Lincecum|R|Troy Tulowitzki|R|Single|D|Four-Seam Fastball|14|1|1|1|8|88
+Tim Lincecum|R|Justin Morneau|L|Strikeout|B|Curveball|15|0|0|1|11|74
+Tim Lincecum|R|Justin Morneau|L|Strikeout|F|Changeup|16|1|0|1|14|81
+Tim Lincecum|R|Justin Morneau|L|Strikeout|C|Two-Seam Fastball|17|1|1|1|11|87
+Tim Lincecum|R|Justin Morneau|L|Strikeout|F|Curveball|18|1|2|1|4|74
+Tim Lincecum|R|Justin Morneau|L|Strikeout|S|Two-Seam Fastball|19|1|2|1|2|87
+Tim Lincecum|R|Nolan Arenado|R|Home Run|C|Curveball|20|0|0|2|4|72
+Tim Lincecum|R|Nolan Arenado|R|Home Run|W|Slider|21|0|1|2|14|79
+Tim Lincecum|R|Nolan Arenado|R|Home Run|E|Changeup|22|0|2|2|13|79
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|B|Two-Seam Fastball|23|0|0|2|13|87
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|C|Changeup|24|1|0|2|5|80
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|L|Curveball|25|1|1|2|11|73
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|F|Changeup|26|1|2|2|6|80
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|S|Two-Seam Fastball|27|1|2|2|2|87
+Tim Lincecum|R|Michael McKenry|R|Field Error|C|Four-Seam Fastball|28|0|0|0|7|87
+Tim Lincecum|R|Michael McKenry|R|Field Error|F|Four-Seam Fastball|29|0|1|0|3|88
+Tim Lincecum|R|Michael McKenry|R|Field Error|F|Curveball|30|0|2|0|6|75
+Tim Lincecum|R|Michael McKenry|R|Field Error|D|Changeup|31|0|2|0|6|81
+Tim Lincecum|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|32|0|0|0|2|88
+Tim Lincecum|R|DJ LeMahieu|R|Single|D|Changeup|33|0|1|0|7|80
+Tim Lincecum|R|Tyler Matzek|L|Sac Bunt|X|Two-Seam Fastball|34|0|0|0|7|87
+Tim Lincecum|R|Charlie Blackmon|L|Sac Fly|B|Changeup|35|0|0|1|11|80
+Tim Lincecum|R|Charlie Blackmon|L|Sac Fly|B|Changeup|36|1|0|1|14|81
+Tim Lincecum|R|Charlie Blackmon|L|Sac Fly|E|Changeup|37|2|0|1|5|79
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|*B|Curveball|38|0|0|2|13|74
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|C|Changeup|39|1|0|2|13|78
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|F|Four-Seam Fastball|40|1|1|2|5|87
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|41|1|2|2|11|85
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|W|Changeup|42|2|2|2|13|80
+Tim Lincecum|R|Troy Tulowitzki|R|Flyout|B|Four-Seam Fastball|43|0|0|0|14|86
+Tim Lincecum|R|Troy Tulowitzki|R|Flyout|F|Four-Seam Fastball|44|1|0|0|12|86
+Tim Lincecum|R|Troy Tulowitzki|R|Flyout|X|Two-Seam Fastball|45|1|1|0|5|86
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Curveball|46|0|0|1|5|72
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Four-Seam Fastball|47|0|1|1|8|87
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Changeup|48|0|2|1|13|80
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Two-Seam Fastball|49|0|2|1|7|87
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Two-Seam Fastball|50|0|2|1|12|86
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Curveball|51|0|2|1|9|75
+Tim Lincecum|R|Justin Morneau|L|Groundout|B|Changeup|52|0|2|1|14|81
+Tim Lincecum|R|Justin Morneau|L|Groundout|F|Two-Seam Fastball|53|1|2|1|11|87
+Tim Lincecum|R|Justin Morneau|L|Groundout|X|Two-Seam Fastball|54|1|2|1|2|88
+Tim Lincecum|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|55|0|0|2|6|87
+Tim Lincecum|R|Corey Dickerson|L|Groundout|X|Changeup|56|0|0|0|4|81
+Tim Lincecum|R|Michael McKenry|R|Single|C|Two-Seam Fastball|57|0|0|1|5|87
+Tim Lincecum|R|Michael McKenry|R|Single|B|Slider|58|0|1|1|14|79
+Tim Lincecum|R|Michael McKenry|R|Single|B|Two-Seam Fastball|59|1|1|1|12|88
+Tim Lincecum|R|Michael McKenry|R|Single|S|Changeup|60|2|1|1|13|80
+Tim Lincecum|R|Michael McKenry|R|Single|D|Changeup|61|2|2|1|5|81
+Tim Lincecum|R|DJ LeMahieu|R|Single|C|Two-Seam Fastball|62|0|0|1|11|86
+Tim Lincecum|R|DJ LeMahieu|R|Single|*B|Curveball|63|0|1|1|14|74
+Tim Lincecum|R|DJ LeMahieu|R|Single|B|Four-Seam Fastball|64|1|1|1|11|87
+Tim Lincecum|R|DJ LeMahieu|R|Single|D|Slider|65|2|1|1|13|78
+Tim Lincecum|R|Tyler Matzek|L|Lineout|B|Four-Seam Fastball|66|0|0|1|13|87
+Tim Lincecum|R|Tyler Matzek|L|Lineout|L|Changeup|67|1|0|1|14|79
+Tim Lincecum|R|Tyler Matzek|L|Lineout|L|Changeup|68|1|1|1|5|79
+Tim Lincecum|R|Tyler Matzek|L|Lineout|F|Slider|69|1|2|1|13|77
+Tim Lincecum|R|Tyler Matzek|L|Lineout|X|Changeup|70|1|2|1|4|79
+Tim Lincecum|R|Charlie Blackmon|L|Flyout|B|Changeup|71|0|0|2|13|79
+Tim Lincecum|R|Charlie Blackmon|L|Flyout|B|Changeup|72|1|0|2|13|80
+Tim Lincecum|R|Charlie Blackmon|L|Flyout|C|Four-Seam Fastball|73|2|0|2|13|86
+Tim Lincecum|R|Charlie Blackmon|L|Flyout|X|Changeup|74|2|1|2|13|80
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|F|Two-Seam Fastball|75|0|0|0|1|86
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|B|Slider|76|0|1|0|14|78
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|B|Slider|77|1|1|0|13|78
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|B|Two-Seam Fastball|78|2|1|0|11|86
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|S|Changeup|79|3|1|0|9|80
+Tim Lincecum|R|Carlos Gonzalez|L|Strikeout|S|Changeup|80|3|2|0|13|80
+Tim Lincecum|R|Troy Tulowitzki|R|Groundout|X|Curveball|81|0|0|1|2|74
+Tim Lincecum|R|Justin Morneau|L|Single|B|Changeup|82|0|0|2|11|85
+Tim Lincecum|R|Justin Morneau|L|Single|B|Two-Seam Fastball|83|1|0|2|12|86
+Tim Lincecum|R|Justin Morneau|L|Single|B|Changeup|84|2|0|2|13|81
+Tim Lincecum|R|Justin Morneau|L|Single|C|Two-Seam Fastball|85|3|0|2|2|85
+Tim Lincecum|R|Justin Morneau|L|Single|D|Two-Seam Fastball|86|3|1|2|6|86
+Tim Lincecum|R|Nolan Arenado|R|Lineout|X|Four-Seam Fastball|87|0|0|2|5|88
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|87
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|B|Two-Seam Fastball|1|1|0|0|13|86
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|C|Two-Seam Fastball|2|2|0|0|13|86
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|C|Two-Seam Fastball|3|2|1|0|13|86
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|X|Changeup|4|2|2|0|2|81
+Tim Lincecum|R|Yasiel Puig|R|Single|C|Slider|5|0|0|1|5|78
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Two-Seam Fastball|6|0|1|1|11|86
+Tim Lincecum|R|Yasiel Puig|R|Single|C|Four-Seam Fastball|7|1|1|1|9|88
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Changeup|8|1|2|1|9|80
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|9|1|2|1|14|88
+Tim Lincecum|R|Yasiel Puig|R|Single|D|Changeup|10|2|2|1|14|81
+Tim Lincecum|R|Adrian Gonzalez|L|Double Play|B|Two-Seam Fastball|11|0|0|1|3|86
+Tim Lincecum|R|Adrian Gonzalez|L|Double Play|C|Four-Seam Fastball|12|1|0|1|7|86
+Tim Lincecum|R|Adrian Gonzalez|L|Double Play|B|Four-Seam Fastball|13|1|1|1|14|87
+Tim Lincecum|R|Adrian Gonzalez|L|Double Play|X|Changeup|14|2|1|1|8|81
+Tim Lincecum|R|Howie Kendrick|R|Walk|B|Four-Seam Fastball|15|0|0|0|11|86
+Tim Lincecum|R|Howie Kendrick|R|Walk|B|Four-Seam Fastball|16|1|0|0|11|86
+Tim Lincecum|R|Howie Kendrick|R|Walk|B|Slider|17|2|0|0|14|78
+Tim Lincecum|R|Howie Kendrick|R|Walk|B|Four-Seam Fastball|18|3|0|0|12|85
+Tim Lincecum|R|Yasmani Grandal|L|Grounded Into DP|X|Changeup|19|0|0|0|9|81
+Tim Lincecum|R|Carl Crawford|L|Groundout|F|Changeup|20|0|0|2|13|81
+Tim Lincecum|R|Carl Crawford|L|Groundout|B|Slider|21|0|1|2|14|79
+Tim Lincecum|R|Carl Crawford|L|Groundout|X|Four-Seam Fastball|22|1|1|2|14|86
+Tim Lincecum|R|Juan Uribe|R|Strikeout|B|Four-Seam Fastball|23|0|0|0|14|86
+Tim Lincecum|R|Juan Uribe|R|Strikeout|C|Slider|24|1|0|0|12|76
+Tim Lincecum|R|Juan Uribe|R|Strikeout|B|Four-Seam Fastball|25|1|1|0|11|86
+Tim Lincecum|R|Juan Uribe|R|Strikeout|F|Four-Seam Fastball|26|2|1|0|9|86
+Tim Lincecum|R|Juan Uribe|R|Strikeout|C|Changeup|27|2|2|0|12|79
+Tim Lincecum|R|Joc Pederson|L|Single|B|Changeup|28|0|0|1|14|81
+Tim Lincecum|R|Joc Pederson|L|Single|S|Changeup|29|1|0|1|13|80
+Tim Lincecum|R|Joc Pederson|L|Single|C|Curveball|30|1|1|1|14|75
+Tim Lincecum|R|Joc Pederson|L|Single|D|Four-Seam Fastball|31|1|2|1|5|88
+Tim Lincecum|R|Brett Anderson|L|Walk|B|Four-Seam Fastball|32|0|0|1|13|87
+Tim Lincecum|R|Brett Anderson|L|Walk|S|Changeup|33|1|0|1|8|80
+Tim Lincecum|R|Brett Anderson|L|Walk|*B|Changeup|34|1|1|1|13|81
+Tim Lincecum|R|Brett Anderson|L|Walk|*B|Changeup|35|2|1|1|14|80
+Tim Lincecum|R|Brett Anderson|L|Walk|B|Four-Seam Fastball|36|3|1|1|14|86
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|*B|Two-Seam Fastball|37|0|0|1|14|86
+Tim Lincecum|R|Jimmy Rollins|L|Flyout|X|Changeup|38|1|0|1|4|80
+Tim Lincecum|R|Yasiel Puig|R|Pop Out|S|Slider|39|0|0|2|9|79
+Tim Lincecum|R|Yasiel Puig|R|Pop Out|F|Four-Seam Fastball|40|0|1|2|5|87
+Tim Lincecum|R|Yasiel Puig|R|Pop Out|X|Slider|41|0|2|2|5|77
+Tim Lincecum|R|Adrian Gonzalez|L|Walk|B|Changeup|42|0|0|0|11|79
+Tim Lincecum|R|Adrian Gonzalez|L|Walk|B|Changeup|43|1|0|0|13|78
+Tim Lincecum|R|Adrian Gonzalez|L|Walk|B|Slider|44|2|0|0|12|77
+Tim Lincecum|R|Adrian Gonzalez|L|Walk|C|Two-Seam Fastball|45|3|0|0|5|86
+Tim Lincecum|R|Adrian Gonzalez|L|Walk|B|Two-Seam Fastball|46|3|1|0|13|86
+Tim Lincecum|R|Howie Kendrick|R|Grounded Into DP|B|Changeup|47|0|0|0|13|79
+Tim Lincecum|R|Howie Kendrick|R|Grounded Into DP|B|Four-Seam Fastball|48|1|0|0|14|86
+Tim Lincecum|R|Howie Kendrick|R|Grounded Into DP|X|Two-Seam Fastball|49|2|0|0|4|86
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|C|Curveball|50|0|0|2|9|72
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|51|0|1|2|3|86
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|F|Changeup|52|1|1|2|8|80
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|B|Changeup|53|1|2|2|13|80
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|W|Slider|54|2|2|2|14|77
+Tim Lincecum|R|Carl Crawford|L|Flyout|B|Changeup|55|0|0|0|11|79
+Tim Lincecum|R|Carl Crawford|L|Flyout|F|Two-Seam Fastball|56|1|0|0|13|84
+Tim Lincecum|R|Carl Crawford|L|Flyout|B|Two-Seam Fastball|57|1|1|0|14|86
+Tim Lincecum|R|Carl Crawford|L|Flyout|F|Changeup|58|2|1|0|14|78
+Tim Lincecum|R|Carl Crawford|L|Flyout|X|Curveball|59|2|2|0|9|74
+Tim Lincecum|R|Juan Uribe|R|Double|S|Changeup|60|0|0|1|7|79
+Tim Lincecum|R|Juan Uribe|R|Double|B|Slider|61|0|1|1|14|77
+Tim Lincecum|R|Juan Uribe|R|Double|D|Slider|62|1|1|1|6|77
+Tim Lincecum|R|Joc Pederson|L|Strikeout|C|Changeup|63|0|0|1|7|80
+Tim Lincecum|R|Joc Pederson|L|Strikeout|S|Slider|64|0|1|1|14|78
+Tim Lincecum|R|Joc Pederson|L|Strikeout|*B|Slider|65|0|2|1|14|79
+Tim Lincecum|R|Joc Pederson|L|Strikeout|S|Changeup|66|1|2|1|13|81
+Tim Lincecum|R|Alex Guerrero|R|Double|B|Slider|67|0|0|2|14|78
+Tim Lincecum|R|Alex Guerrero|R|Double|C|Slider|68|1|0|2|3|78
+Tim Lincecum|R|Alex Guerrero|R|Double|E|Changeup|69|1|1|2|5|80
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|C|Four-Seam Fastball|70|0|0|2|4|86
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|F|Two-Seam Fastball|71|0|1|2|1|85
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|*B|Curveball|72|0|2|2|13|74
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|B|Slider|73|1|2|2|14|78
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|B|Changeup|74|2|2|2|14|80
+Tim Lincecum|R|Jimmy Rollins|L|Strikeout|S|Changeup|75|3|2|2|14|80
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|76|0|0|0|11|87
+Tim Lincecum|R|Yasiel Puig|R|Single|D|Slider|77|1|0|0|6|78
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|B|Changeup|78|0|0|0|1|79
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Two-Seam Fastball|79|1|0|0|8|85
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|B|Curveball|80|1|1|0|1|74
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|B|Two-Seam Fastball|81|2|1|0|13|86
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Changeup|82|3|1|0|11|80
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|T|Changeup|83|3|2|0|14|80
+Tim Lincecum|R|Howie Kendrick|R|Grounded Into DP|X|Slider|84|0|0|1|8|79
+Tim Lincecum|R|Jimmy Rollins|L|Walk|B|Two-Seam Fastball|0|0|0|0|13|87
+Tim Lincecum|R|Jimmy Rollins|L|Walk|B|Two-Seam Fastball|1|1|0|0|11|87
+Tim Lincecum|R|Jimmy Rollins|L|Walk|C|Two-Seam Fastball|2|2|0|0|7|88
+Tim Lincecum|R|Jimmy Rollins|L|Walk|B|Slider|3|2|1|0|13|79
+Tim Lincecum|R|Jimmy Rollins|L|Walk|S|Changeup|4|3|1|0|9|82
+Tim Lincecum|R|Jimmy Rollins|L|Walk|*B|Changeup|5|3|2|0|14|81
+Tim Lincecum|R|Andre Ethier|L|Double Play|*B|Two-Seam Fastball|6|0|0|0|14|87
+Tim Lincecum|R|Andre Ethier|L|Double Play|X|Slider|7|1|0|0|8|79
+Tim Lincecum|R|Adrian Gonzalez|L|Single|F|Curveball|8|0|0|2|8|75
+Tim Lincecum|R|Adrian Gonzalez|L|Single|B|Curveball|9|0|1|2|13|74
+Tim Lincecum|R|Adrian Gonzalez|L|Single|S|Two-Seam Fastball|10|1|1|2|11|88
+Tim Lincecum|R|Adrian Gonzalez|L|Single|D|Changeup|11|1|2|2|13|83
+Tim Lincecum|R|Howie Kendrick|R|Single|D|Slider|12|0|0|2|7|80
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|C|Changeup|13|0|0|2|4|81
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|B|Curveball|14|0|1|2|11|73
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|C|Two-Seam Fastball|15|1|1|2|7|88
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|X|Changeup|16|1|2|2|5|83
+Tim Lincecum|R|Carl Crawford|L|Triple|C|Curveball|17|0|0|0|14|73
+Tim Lincecum|R|Carl Crawford|L|Triple|F|Changeup|18|0|1|0|13|80
+Tim Lincecum|R|Carl Crawford|L|Triple|B|Two-Seam Fastball|19|0|2|0|14|88
+Tim Lincecum|R|Carl Crawford|L|Triple|F|Changeup|20|1|2|0|14|82
+Tim Lincecum|R|Carl Crawford|L|Triple|F|Changeup|21|1|2|0|11|82
+Tim Lincecum|R|Carl Crawford|L|Triple|F|Four-Seam Fastball|22|1|2|0|8|89
+Tim Lincecum|R|Carl Crawford|L|Triple|D|Changeup|23|1|2|0|9|82
+Tim Lincecum|R|Juan Uribe|R|Walk|F|Changeup|24|0|0|0|8|81
+Tim Lincecum|R|Juan Uribe|R|Walk|B|Slider|25|0|1|0|13|79
+Tim Lincecum|R|Juan Uribe|R|Walk|B|Two-Seam Fastball|26|1|1|0|11|88
+Tim Lincecum|R|Juan Uribe|R|Walk|B|Four-Seam Fastball|27|2|1|0|11|88
+Tim Lincecum|R|Juan Uribe|R|Walk|T|Changeup|28|3|1|0|13|81
+Tim Lincecum|R|Juan Uribe|R|Walk|*B|Slider|29|3|2|0|14|79
+Tim Lincecum|R|Joc Pederson|L|Pop Out|X|Changeup|30|0|0|0|11|81
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|L|Changeup|31|0|0|1|9|82
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|X|Curveball|32|0|1|1|8|75
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|F|Curveball|33|0|0|2|8|75
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|*B|Changeup|34|0|1|2|13|81
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|X|Curveball|35|1|1|2|4|74
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Curveball|36|0|0|0|11|72
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Two-Seam Fastball|37|1|0|0|11|87
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Changeup|38|2|0|0|14|81
+Tim Lincecum|R|Andre Ethier|L|Walk|C|Two-Seam Fastball|39|3|0|0|5|86
+Tim Lincecum|R|Andre Ethier|L|Walk|C|Two-Seam Fastball|40|3|1|0|13|87
+Tim Lincecum|R|Andre Ethier|L|Walk|*B|Changeup|41|3|2|0|14|82
+Tim Lincecum|R|Adrian Gonzalez|L|Single|B|Two-Seam Fastball|42|0|0|0|11|89
+Tim Lincecum|R|Adrian Gonzalez|L|Single|C|Curveball|43|1|0|0|14|74
+Tim Lincecum|R|Adrian Gonzalez|L|Single|F|Changeup|44|1|1|0|8|82
+Tim Lincecum|R|Adrian Gonzalez|L|Single|B|Two-Seam Fastball|45|1|2|0|14|89
+Tim Lincecum|R|Adrian Gonzalez|L|Single|D|Changeup|46|2|2|0|13|81
+Tim Lincecum|R|Howie Kendrick|R|Single|E|Two-Seam Fastball|47|0|0|0|11|88
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|C|Curveball|48|0|0|0|5|74
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|C|Four-Seam Fastball|49|0|1|0|12|88
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|*B|Changeup|50|0|2|0|14|83
+Tim Lincecum|R|Yasmani Grandal|L|Strikeout|S|Changeup|51|1|2|0|9|82
+Tim Lincecum|R|Scott Van Slyke|R|Single|D|Curveball|52|0|0|1|4|74
+Tim Lincecum|R|Juan Uribe|R|Single|E|Four-Seam Fastball|53|0|0|1|6|88
+Tim Lincecum|R|Joc Pederson|L|Double|S|Curveball|54|0|0|1|5|73
+Tim Lincecum|R|Joc Pederson|L|Double|*B|Changeup|55|0|1|1|13|81
+Tim Lincecum|R|Joc Pederson|L|Double|E|Changeup|56|1|1|1|3|80
+Tim Lincecum|R|Brett Anderson|L|Groundout|B|Curveball|57|0|0|1|11|73
+Tim Lincecum|R|Brett Anderson|L|Groundout|X|Two-Seam Fastball|58|1|0|1|9|87
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|B|Changeup|59|0|0|2|14|81
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|S|Changeup|60|1|0|2|8|81
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|B|Two-Seam Fastball|61|1|1|2|13|86
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|B|Two-Seam Fastball|62|2|1|2|11|87
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|F|Two-Seam Fastball|63|3|1|2|5|85
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|X|Two-Seam Fastball|64|3|2|2|7|86
+Tim Lincecum|R|Andre Ethier|L|Strikeout|B|Two-Seam Fastball|65|0|0|0|11|87
+Tim Lincecum|R|Andre Ethier|L|Strikeout|S|Slider|66|1|0|0|8|78
+Tim Lincecum|R|Andre Ethier|L|Strikeout|F|Two-Seam Fastball|67|1|1|0|1|88
+Tim Lincecum|R|Andre Ethier|L|Strikeout|W|Slider|68|1|2|0|14|80
+Tim Lincecum|R|Adrian Gonzalez|L|Groundout|B|Changeup|69|0|0|1|13|82
+Tim Lincecum|R|Adrian Gonzalez|L|Groundout|C|Two-Seam Fastball|70|1|0|1|9|87
+Tim Lincecum|R|Adrian Gonzalez|L|Groundout|S|Slider|71|1|1|1|14|80
+Tim Lincecum|R|Adrian Gonzalez|L|Groundout|X|Changeup|72|1|2|1|13|83
+Tim Lincecum|R|Howie Kendrick|R|Flyout|C|Four-Seam Fastball|73|0|0|2|4|90
+Tim Lincecum|R|Howie Kendrick|R|Flyout|F|Four-Seam Fastball|74|0|1|2|3|90
+Tim Lincecum|R|Howie Kendrick|R|Flyout|X|Slider|75|0|2|2|9|80
+Tim Lincecum|R|Erick Aybar|L|Groundout|X|Two-Seam Fastball|0|0|0|0|11|86
+Tim Lincecum|R|Mike Trout|R|Groundout|C|Two-Seam Fastball|1|0|0|1|1|88
+Tim Lincecum|R|Mike Trout|R|Groundout|S|Four-Seam Fastball|2|0|1|1|6|88
+Tim Lincecum|R|Mike Trout|R|Groundout|F|Two-Seam Fastball|3|0|2|1|6|89
+Tim Lincecum|R|Mike Trout|R|Groundout|F|Two-Seam Fastball|4|0|2|1|5|88
+Tim Lincecum|R|Mike Trout|R|Groundout|B|Changeup|5|0|2|1|13|84
+Tim Lincecum|R|Mike Trout|R|Groundout|X|Slider|6|1|2|1|14|78
+Tim Lincecum|R|Albert Pujols|R|Single|C|Slider|7|0|0|2|8|79
+Tim Lincecum|R|Albert Pujols|R|Single|B|Four-Seam Fastball|8|0|1|2|14|89
+Tim Lincecum|R|Albert Pujols|R|Single|D|Two-Seam Fastball|9|1|1|2|12|89
+Tim Lincecum|R|Kole Calhoun|L|Groundout|B|Two-Seam Fastball|10|0|0|2|13|87
+Tim Lincecum|R|Kole Calhoun|L|Groundout|X|Four-Seam Fastball|11|1|0|2|3|88
+Tim Lincecum|R|David Freese|R|Field Error|B|Four-Seam Fastball|12|0|0|0|11|87
+Tim Lincecum|R|David Freese|R|Field Error|C|Curveball|13|1|0|0|8|77
+Tim Lincecum|R|David Freese|R|Field Error|B|Curveball|14|1|1|0|11|73
+Tim Lincecum|R|David Freese|R|Field Error|F|Two-Seam Fastball|15|2|1|0|1|85
+Tim Lincecum|R|David Freese|R|Field Error|D|Changeup|16|2|2|0|4|82
+Tim Lincecum|R|Matt Joyce|L|Grounded Into DP|F|Four-Seam Fastball|17|0|0|0|5|87
+Tim Lincecum|R|Matt Joyce|L|Grounded Into DP|C|Four-Seam Fastball|18|0|1|0|12|88
+Tim Lincecum|R|Matt Joyce|L|Grounded Into DP|*B|Changeup|19|0|2|0|13|82
+Tim Lincecum|R|Matt Joyce|L|Grounded Into DP|X|Two-Seam Fastball|20|1|2|0|8|88
+Tim Lincecum|R|Johnny Giavotella|R|Groundout|B|Curveball|21|0|0|2|13|73
+Tim Lincecum|R|Johnny Giavotella|R|Groundout|C|Slider|22|1|0|2|6|78
+Tim Lincecum|R|Johnny Giavotella|R|Groundout|B|Slider|23|1|1|2|14|80
+Tim Lincecum|R|Johnny Giavotella|R|Groundout|X|Four-Seam Fastball|24|2|1|2|9|87
+Tim Lincecum|R|Jered Weaver|R|Strikeout|B|Four-Seam Fastball|25|0|0|0|14|86
+Tim Lincecum|R|Jered Weaver|R|Strikeout|C|Four-Seam Fastball|26|1|0|0|14|85
+Tim Lincecum|R|Jered Weaver|R|Strikeout|C|Curveball|27|1|1|0|3|71
+Tim Lincecum|R|Jered Weaver|R|Strikeout|S|Four-Seam Fastball|28|1|2|0|11|88
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Slider|29|0|0|1|14|79
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Slider|30|1|0|1|14|79
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|31|2|0|1|14|87
+Tim Lincecum|R|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|32|3|0|1|11|86
+Tim Lincecum|R|Chris Iannetta|R|Flyout|F|Four-Seam Fastball|33|3|1|1|8|86
+Tim Lincecum|R|Chris Iannetta|R|Flyout|F|Four-Seam Fastball|34|3|2|1|6|89
+Tim Lincecum|R|Chris Iannetta|R|Flyout|F|Four-Seam Fastball|35|3|2|1|11|88
+Tim Lincecum|R|Chris Iannetta|R|Flyout|F|Four-Seam Fastball|36|3|2|1|2|88
+Tim Lincecum|R|Chris Iannetta|R|Flyout|X|Slider|37|3|2|1|4|79
+Tim Lincecum|R|Erick Aybar|L|Single|B|Two-Seam Fastball|38|0|0|2|13|89
+Tim Lincecum|R|Erick Aybar|L|Single|B|Changeup|39|1|0|2|13|81
+Tim Lincecum|R|Erick Aybar|L|Single|C|Four-Seam Fastball|40|2|0|2|1|86
+Tim Lincecum|R|Erick Aybar|L|Single|D|Two-Seam Fastball|41|2|1|2|8|89
+Tim Lincecum|R|Mike Trout|R|Lineout|C|Four-Seam Fastball|42|0|0|2|4|88
+Tim Lincecum|R|Mike Trout|R|Lineout|X|Slider|43|0|1|2|14|78
+Tim Lincecum|R|Albert Pujols|R|Groundout|C|Four-Seam Fastball|44|0|0|0|9|88
+Tim Lincecum|R|Albert Pujols|R|Groundout|F|Slider|45|0|1|0|4|78
+Tim Lincecum|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|46|0|2|0|12|88
+Tim Lincecum|R|Albert Pujols|R|Groundout|X|Two-Seam Fastball|47|1|2|0|5|88
+Tim Lincecum|R|Kole Calhoun|L|Groundout|B|Two-Seam Fastball|48|0|0|1|13|88
+Tim Lincecum|R|Kole Calhoun|L|Groundout|C|Changeup|49|1|0|1|13|80
+Tim Lincecum|R|Kole Calhoun|L|Groundout|X|Curveball|50|1|1|1|11|73
+Tim Lincecum|R|David Freese|R|Strikeout|C|Four-Seam Fastball|51|0|0|2|3|88
+Tim Lincecum|R|David Freese|R|Strikeout|S|Curveball|52|0|1|2|14|74
+Tim Lincecum|R|David Freese|R|Strikeout|B|Two-Seam Fastball|53|0|2|2|11|86
+Tim Lincecum|R|David Freese|R|Strikeout|T|Changeup|54|1|2|2|7|81
+Tim Lincecum|R|Matt Joyce|L|Strikeout|S|Changeup|55|0|0|0|4|81
+Tim Lincecum|R|Matt Joyce|L|Strikeout|B|Changeup|56|0|1|0|14|81
+Tim Lincecum|R|Matt Joyce|L|Strikeout|B|Two-Seam Fastball|57|1|1|0|11|85
+Tim Lincecum|R|Matt Joyce|L|Strikeout|F|Two-Seam Fastball|58|2|1|0|4|87
+Tim Lincecum|R|Matt Joyce|L|Strikeout|W|Changeup|59|2|2|0|13|82
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|F|Two-Seam Fastball|60|0|0|1|11|88
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|F|Curveball|61|0|1|1|8|76
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|F|Four-Seam Fastball|62|0|2|1|5|88
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|B|Two-Seam Fastball|63|0|2|1|11|88
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|B|Curveball|64|1|2|1|8|75
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|F|Changeup|65|2|2|1|6|81
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|X|Four-Seam Fastball|66|2|2|1|2|88
+Tim Lincecum|R|Jered Weaver|R|Flyout|C|Four-Seam Fastball|67|0|0|2|9|87
+Tim Lincecum|R|Jered Weaver|R|Flyout|X|Changeup|68|0|1|2|2|84
+Tim Lincecum|R|Chris Iannetta|R|Single|F|Slider|69|0|0|0|4|77
+Tim Lincecum|R|Chris Iannetta|R|Single|D|Changeup|70|0|1|0|1|80
+Tim Lincecum|R|Erick Aybar|L|Walk|B|Two-Seam Fastball|71|0|0|0|13|86
+Tim Lincecum|R|Erick Aybar|L|Walk|C|Two-Seam Fastball|72|1|0|0|4|86
+Tim Lincecum|R|Erick Aybar|L|Walk|*B|Two-Seam Fastball|73|1|1|0|13|86
+Tim Lincecum|R|Erick Aybar|L|Walk|B|Two-Seam Fastball|74|2|1|0|11|85
+Tim Lincecum|R|Erick Aybar|L|Walk|B|Four-Seam Fastball|75|3|1|0|11|85
+Tim Lincecum|R|Mike Trout|R|Lineout|C|Two-Seam Fastball|76|0|0|0|11|86
+Tim Lincecum|R|Mike Trout|R|Lineout|B|Changeup|77|0|1|0|13|79
+Tim Lincecum|R|Mike Trout|R|Lineout|S|Four-Seam Fastball|78|1|1|0|5|86
+Tim Lincecum|R|Mike Trout|R|Lineout|X|Changeup|79|1|2|0|8|80
+Tim Lincecum|R|Albert Pujols|R|Groundout|C|Curveball|80|0|0|1|6|72
+Tim Lincecum|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|81|0|1|1|11|86
+Tim Lincecum|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|82|1|1|1|2|86
+Tim Lincecum|R|Albert Pujols|R|Groundout|X|Slider|83|1|2|1|12|77
+Tim Lincecum|R|Kole Calhoun|L|Lineout|W|Changeup|84|0|0|2|14|78
+Tim Lincecum|R|Kole Calhoun|L|Lineout|F|Two-Seam Fastball|85|0|1|2|12|86
+Tim Lincecum|R|Kole Calhoun|L|Lineout|B|Two-Seam Fastball|86|0|2|2|13|87
+Tim Lincecum|R|Kole Calhoun|L|Lineout|X|Four-Seam Fastball|87|1|2|2|3|87
+Tim Lincecum|R|David Freese|R|Groundout|X|Two-Seam Fastball|88|0|0|0|2|86
+Tim Lincecum|R|Matt Joyce|L|Strikeout|C|Curveball|89|0|0|1|11|70
+Tim Lincecum|R|Matt Joyce|L|Strikeout|S|Changeup|90|0|1|1|7|79
+Tim Lincecum|R|Matt Joyce|L|Strikeout|B|Slider|91|0|2|1|14|77
+Tim Lincecum|R|Matt Joyce|L|Strikeout|S|Four-Seam Fastball|92|1|2|1|12|86
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|B|Changeup|93|0|0|2|11|85
+Tim Lincecum|R|Johnny Giavotella|R|Lineout|X|Curveball|94|1|0|2|5|77
+Tim Lincecum|R|Taylor Featherston|R|Groundout|B|Curveball|95|0|0|0|13|70
+Tim Lincecum|R|Taylor Featherston|R|Groundout|C|Four-Seam Fastball|96|1|0|0|5|85
+Tim Lincecum|R|Taylor Featherston|R|Groundout|X|Curveball|97|1|1|0|14|76
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|98|0|0|1|11|88
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Curveball|99|1|0|1|14|72
+Tim Lincecum|R|Chris Iannetta|R|Flyout|F|Two-Seam Fastball|100|2|0|1|11|84
+Tim Lincecum|R|Chris Iannetta|R|Flyout|C|Changeup|101|2|1|1|2|85
+Tim Lincecum|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|102|2|2|1|12|86
+Tim Lincecum|R|Chris Iannetta|R|Flyout|X|Curveball|103|3|2|1|2|76
+Tim Lincecum|R|Erick Aybar|L|Flyout|B|Two-Seam Fastball|104|0|0|2|13|86
+Tim Lincecum|R|Erick Aybar|L|Flyout|X|Changeup|105|1|0|2|5|85
+Tim Lincecum|R|Christian Yelich|L|Strikeout|F|Two-Seam Fastball|0|0|0|0|13|88
+Tim Lincecum|R|Christian Yelich|L|Strikeout|B|Curveball|1|0|1|0|13|76
+Tim Lincecum|R|Christian Yelich|L|Strikeout|S|Changeup|2|1|1|0|13|82
+Tim Lincecum|R|Christian Yelich|L|Strikeout|C|Changeup|3|1|2|0|5|83
+Tim Lincecum|R|Martin Prado|R|Groundout|B|Two-Seam Fastball|4|0|0|1|11|87
+Tim Lincecum|R|Martin Prado|R|Groundout|C|Four-Seam Fastball|5|1|0|1|11|90
+Tim Lincecum|R|Martin Prado|R|Groundout|X|Two-Seam Fastball|6|1|1|1|11|88
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|B|Curveball|7|0|0|2|11|77
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|8|1|0|2|11|89
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|C|Slider|9|2|0|2|8|78
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|10|2|1|2|11|88
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|C|Slider|11|3|1|2|6|79
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|S|Four-Seam Fastball|12|3|2|2|3|87
+Tim Lincecum|R|Marcell Ozuna|R|Single|B|Curveball|13|0|0|0|13|73
+Tim Lincecum|R|Marcell Ozuna|R|Single|B|Curveball|14|1|0|0|13|77
+Tim Lincecum|R|Marcell Ozuna|R|Single|C|Two-Seam Fastball|15|2|0|0|6|87
+Tim Lincecum|R|Marcell Ozuna|R|Single|C|Four-Seam Fastball|16|2|1|0|9|87
+Tim Lincecum|R|Marcell Ozuna|R|Single|B|Changeup|17|2|2|0|14|82
+Tim Lincecum|R|Marcell Ozuna|R|Single|D|Curveball|18|3|2|0|3|77
+Tim Lincecum|R|J.T. Realmuto|R|Lineout|B|Two-Seam Fastball|19|0|0|0|13|88
+Tim Lincecum|R|J.T. Realmuto|R|Lineout|F|Two-Seam Fastball|20|1|0|0|3|88
+Tim Lincecum|R|J.T. Realmuto|R|Lineout|F|Two-Seam Fastball|21|1|1|0|11|89
+Tim Lincecum|R|J.T. Realmuto|R|Lineout|X|Slider|22|1|2|0|8|79
+Tim Lincecum|R|Michael Morse|R|Walk|F|Two-Seam Fastball|23|0|0|1|13|88
+Tim Lincecum|R|Michael Morse|R|Walk|B|Four-Seam Fastball|24|0|1|1|2|88
+Tim Lincecum|R|Michael Morse|R|Walk|*B|Curveball|25|1|1|1|13|75
+Tim Lincecum|R|Michael Morse|R|Walk|B|Slider|26|2|1|1|12|78
+Tim Lincecum|R|Michael Morse|R|Walk|B|Two-Seam Fastball|27|3|1|1|11|88
+Tim Lincecum|R|Adeiny Hechavarria|R|Strikeout|*B|Curveball|28|0|0|1|13|73
+Tim Lincecum|R|Adeiny Hechavarria|R|Strikeout|B|Four-Seam Fastball|29|1|0|1|13|90
+Tim Lincecum|R|Adeiny Hechavarria|R|Strikeout|C|Curveball|30|2|0|1|4|77
+Tim Lincecum|R|Adeiny Hechavarria|R|Strikeout|S|Four-Seam Fastball|31|2|1|1|2|85
+Tim Lincecum|R|Adeiny Hechavarria|R|Strikeout|W|Changeup|32|2|2|1|13|82
+Tim Lincecum|R|Donovan Solano|R|Flyout|C|Two-Seam Fastball|33|0|0|2|2|87
+Tim Lincecum|R|Donovan Solano|R|Flyout|B|Two-Seam Fastball|34|0|1|2|11|87
+Tim Lincecum|R|Donovan Solano|R|Flyout|B|Curveball|35|1|1|2|11|72
+Tim Lincecum|R|Donovan Solano|R|Flyout|X|Four-Seam Fastball|36|2|1|2|5|87
+Tim Lincecum|R|Jarred Cosart|R|Strikeout|B|Four-Seam Fastball|37|0|0|0|14|87
+Tim Lincecum|R|Jarred Cosart|R|Strikeout|S|Four-Seam Fastball|38|1|0|0|13|86
+Tim Lincecum|R|Jarred Cosart|R|Strikeout|S|Curveball|39|1|1|0|7|73
+Tim Lincecum|R|Jarred Cosart|R|Strikeout|S|Slider|40|1|2|0|3|78
+Tim Lincecum|R|Christian Yelich|L|Lineout|S|Curveball|41|0|0|1|13|74
+Tim Lincecum|R|Christian Yelich|L|Lineout|S|Changeup|42|0|1|1|14|81
+Tim Lincecum|R|Christian Yelich|L|Lineout|X|Two-Seam Fastball|43|0|2|1|4|89
+Tim Lincecum|R|Martin Prado|R|Lineout|B|Two-Seam Fastball|44|0|0|2|11|89
+Tim Lincecum|R|Martin Prado|R|Lineout|B|Slider|45|1|0|2|14|81
+Tim Lincecum|R|Martin Prado|R|Lineout|C|Four-Seam Fastball|46|2|0|2|12|87
+Tim Lincecum|R|Martin Prado|R|Lineout|C|Slider|47|2|1|2|6|78
+Tim Lincecum|R|Martin Prado|R|Lineout|X|Four-Seam Fastball|48|2|2|2|12|88
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|B|Slider|49|0|0|0|11|78
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|F|Slider|50|1|0|0|7|79
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|T|Two-Seam Fastball|51|1|1|0|11|89
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|F|Changeup|52|1|2|0|11|82
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|F|Four-Seam Fastball|53|1|2|0|2|88
+Tim Lincecum|R|Giancarlo Stanton|R|Groundout|X|Changeup|54|1|2|0|7|83
+Tim Lincecum|R|Marcell Ozuna|R|Double|B|Curveball|55|0|0|1|14|75
+Tim Lincecum|R|Marcell Ozuna|R|Double|F|Two-Seam Fastball|56|1|0|1|5|88
+Tim Lincecum|R|Marcell Ozuna|R|Double|C|Curveball|57|1|1|1|3|74
+Tim Lincecum|R|Marcell Ozuna|R|Double|F|Changeup|58|1|2|1|11|82
+Tim Lincecum|R|Marcell Ozuna|R|Double|D|Changeup|59|1|2|1|13|83
+Tim Lincecum|R|J.T. Realmuto|R|Strikeout|C|Slider|60|0|0|1|5|78
+Tim Lincecum|R|J.T. Realmuto|R|Strikeout|B|Four-Seam Fastball|61|0|1|1|11|87
+Tim Lincecum|R|J.T. Realmuto|R|Strikeout|S|Four-Seam Fastball|62|1|1|1|11|89
+Tim Lincecum|R|J.T. Realmuto|R|Strikeout|W|Changeup|63|1|2|1|14|82
+Tim Lincecum|R|Michael Morse|R|Strikeout|B|Four-Seam Fastball|64|0|0|2|13|89
+Tim Lincecum|R|Michael Morse|R|Strikeout|C|Four-Seam Fastball|65|1|0|2|1|88
+Tim Lincecum|R|Michael Morse|R|Strikeout|C|Slider|66|1|1|2|4|79
+Tim Lincecum|R|Michael Morse|R|Strikeout|F|Four-Seam Fastball|67|1|2|2|6|89
+Tim Lincecum|R|Michael Morse|R|Strikeout|S|Changeup|68|1|2|2|13|83
+Tim Lincecum|R|Adeiny Hechavarria|R|Single|F|Two-Seam Fastball|69|0|0|0|11|88
+Tim Lincecum|R|Adeiny Hechavarria|R|Single|F|Curveball|70|0|1|0|13|75
+Tim Lincecum|R|Adeiny Hechavarria|R|Single|D|Changeup|71|0|2|0|5|82
+Tim Lincecum|R|Donovan Solano|R|Walk|B|Two-Seam Fastball|72|0|0|0|13|88
+Tim Lincecum|R|Donovan Solano|R|Walk|B|Slider|73|1|0|0|13|80
+Tim Lincecum|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|74|2|0|0|11|89
+Tim Lincecum|R|Donovan Solano|R|Walk|C|Four-Seam Fastball|75|3|0|0|7|87
+Tim Lincecum|R|Donovan Solano|R|Walk|F|Curveball|76|3|1|0|11|77
+Tim Lincecum|R|Donovan Solano|R|Walk|B|Four-Seam Fastball|77|3|2|0|11|87
+Tim Lincecum|R|Justin Bour|L|Pop Out|S|Changeup|78|0|0|0|9|83
+Tim Lincecum|R|Justin Bour|L|Pop Out|F|Changeup|79|0|1|0|11|82
+Tim Lincecum|R|Justin Bour|L|Pop Out|B|Changeup|80|0|2|0|13|83
+Tim Lincecum|R|Justin Bour|L|Pop Out|X|Changeup|81|1|2|0|13|83
+Tim Lincecum|R|Christian Yelich|L|Strikeout|B|Slider|82|0|0|1|13|79
+Tim Lincecum|R|Christian Yelich|L|Strikeout|S|Changeup|83|1|0|1|13|82
+Tim Lincecum|R|Christian Yelich|L|Strikeout|F|Changeup|84|1|1|1|5|82
+Tim Lincecum|R|Christian Yelich|L|Strikeout|*B|Changeup|85|1|2|1|13|84
+Tim Lincecum|R|Christian Yelich|L|Strikeout|B|Changeup|86|2|2|1|11|83
+Tim Lincecum|R|Christian Yelich|L|Strikeout|C|Changeup|87|3|2|1|6|82
+Tim Lincecum|R|Martin Prado|R|Walk|B|Slider|88|0|0|2|12|79
+Tim Lincecum|R|Martin Prado|R|Walk|C|Four-Seam Fastball|89|1|0|2|9|88
+Tim Lincecum|R|Martin Prado|R|Walk|F|Four-Seam Fastball|90|1|1|2|11|89
+Tim Lincecum|R|Martin Prado|R|Walk|B|Four-Seam Fastball|91|1|2|2|11|89
+Tim Lincecum|R|Martin Prado|R|Walk|B|Slider|92|2|2|2|11|78
+Tim Lincecum|R|Martin Prado|R|Walk|*B|Slider|93|3|2|2|14|79
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|C|Curveball|94|0|0|2|4|74
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|W|Changeup|95|0|1|2|13|82
+Tim Lincecum|R|Giancarlo Stanton|R|Strikeout|S|Changeup|96|0|2|2|7|81
+Tim Lincecum|R|Marcell Ozuna|R|Groundout|X|Curveball|97|0|0|0|7|74
+Tim Lincecum|R|J.T. Realmuto|R|Flyout|B|Curveball|98|0|0|1|14|74
+Tim Lincecum|R|J.T. Realmuto|R|Flyout|C|Four-Seam Fastball|99|1|0|1|8|88
+Tim Lincecum|R|J.T. Realmuto|R|Flyout|B|Curveball|100|1|1|1|14|74
+Tim Lincecum|R|J.T. Realmuto|R|Flyout|X|Slider|101|2|1|1|4|78
+Tim Lincecum|R|Michael Morse|R|Groundout|B|Curveball|102|0|0|2|11|74
+Tim Lincecum|R|Michael Morse|R|Groundout|B|Four-Seam Fastball|103|1|0|2|11|88
+Tim Lincecum|R|Michael Morse|R|Groundout|C|Four-Seam Fastball|104|2|0|2|5|86
+Tim Lincecum|R|Michael Morse|R|Groundout|B|Four-Seam Fastball|105|2|1|2|12|87
+Tim Lincecum|R|Michael Morse|R|Groundout|X|Four-Seam Fastball|106|3|1|2|12|85
+Tim Lincecum|R|Billy Hamilton|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|87
+Tim Lincecum|R|Billy Hamilton|L|Groundout|B|Two-Seam Fastball|1|1|0|0|13|85
+Tim Lincecum|R|Billy Hamilton|L|Groundout|C|Two-Seam Fastball|2|2|0|0|5|85
+Tim Lincecum|R|Billy Hamilton|L|Groundout|S|Changeup|3|2|1|0|13|80
+Tim Lincecum|R|Billy Hamilton|L|Groundout|F|Changeup|4|2|2|0|13|80
+Tim Lincecum|R|Billy Hamilton|L|Groundout|B|Two-Seam Fastball|5|2|2|0|14|88
+Tim Lincecum|R|Billy Hamilton|L|Groundout|X|Changeup|6|3|2|0|5|81
+Tim Lincecum|R|Zack Cozart|R|Lineout|C|Slider|7|0|0|1|9|80
+Tim Lincecum|R|Zack Cozart|R|Lineout|X|Four-Seam Fastball|8|0|1|1|5|88
+Tim Lincecum|R|Joey Votto|L|Walk|B|Changeup|9|0|0|2|11|81
+Tim Lincecum|R|Joey Votto|L|Walk|F|Two-Seam Fastball|10|1|0|2|7|88
+Tim Lincecum|R|Joey Votto|L|Walk|B|Four-Seam Fastball|11|1|1|2|12|88
+Tim Lincecum|R|Joey Votto|L|Walk|S|Changeup|12|2|1|2|13|81
+Tim Lincecum|R|Joey Votto|L|Walk|B|Slider|13|2|2|2|14|77
+Tim Lincecum|R|Joey Votto|L|Walk|B|Changeup|14|3|2|2|13|80
+Tim Lincecum|R|Todd Frazier|R|Walk|C|Curveball|15|0|0|2|12|72
+Tim Lincecum|R|Todd Frazier|R|Walk|B|Slider|16|0|1|2|14|78
+Tim Lincecum|R|Todd Frazier|R|Walk|B|Changeup|17|1|1|2|13|79
+Tim Lincecum|R|Todd Frazier|R|Walk|B|Changeup|18|2|1|2|14|81
+Tim Lincecum|R|Todd Frazier|R|Walk|C|Four-Seam Fastball|19|3|1|2|7|88
+Tim Lincecum|R|Todd Frazier|R|Walk|*B|Curveball|20|3|2|2|14|73
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Four-Seam Fastball|21|0|0|2|12|87
+Tim Lincecum|R|Marlon Byrd|R|Walk|S|Two-Seam Fastball|22|1|0|2|1|86
+Tim Lincecum|R|Marlon Byrd|R|Walk|S|Changeup|23|1|1|2|13|81
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Curveball|24|1|2|2|12|53
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Four-Seam Fastball|25|2|2|2|12|87
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Changeup|26|3|2|2|11|83
+Tim Lincecum|R|Jay Bruce|L|Lineout|*B|Changeup|27|0|0|2|13|79
+Tim Lincecum|R|Jay Bruce|L|Lineout|S|Two-Seam Fastball|28|1|0|2|5|85
+Tim Lincecum|R|Jay Bruce|L|Lineout|F|Two-Seam Fastball|29|1|1|2|4|85
+Tim Lincecum|R|Jay Bruce|L|Lineout|B|Four-Seam Fastball|30|1|2|2|13|86
+Tim Lincecum|R|Jay Bruce|L|Lineout|X|Four-Seam Fastball|31|2|2|2|9|88
+Tim Lincecum|R|Brayan Pena|L|Groundout|B|Two-Seam Fastball|32|0|0|0|13|85
+Tim Lincecum|R|Brayan Pena|L|Groundout|B|Slider|33|1|0|0|14|77
+Tim Lincecum|R|Brayan Pena|L|Groundout|X|Four-Seam Fastball|34|2|0|0|1|86
+Tim Lincecum|R|Skip Schumaker|L|Lineout|B|Curveball|35|0|0|1|11|71
+Tim Lincecum|R|Skip Schumaker|L|Lineout|B|Changeup|36|1|0|1|13|79
+Tim Lincecum|R|Skip Schumaker|L|Lineout|C|Four-Seam Fastball|37|2|0|1|1|85
+Tim Lincecum|R|Skip Schumaker|L|Lineout|C|Four-Seam Fastball|38|2|1|1|7|85
+Tim Lincecum|R|Skip Schumaker|L|Lineout|X|Changeup|39|2|2|1|7|80
+Tim Lincecum|R|Johnny Cueto|R|Strikeout|C|Slider|40|0|0|2|8|77
+Tim Lincecum|R|Johnny Cueto|R|Strikeout|S|Slider|41|0|1|2|13|77
+Tim Lincecum|R|Johnny Cueto|R|Strikeout|S|Four-Seam Fastball|42|0|2|2|12|86
+Tim Lincecum|R|Billy Hamilton|L|Lineout|C|Two-Seam Fastball|43|0|0|0|11|85
+Tim Lincecum|R|Billy Hamilton|L|Lineout|B|Changeup|44|0|1|0|13|79
+Tim Lincecum|R|Billy Hamilton|L|Lineout|B|Curveball|45|1|1|0|14|76
+Tim Lincecum|R|Billy Hamilton|L|Lineout|B|Two-Seam Fastball|46|2|1|0|11|85
+Tim Lincecum|R|Billy Hamilton|L|Lineout|C|Two-Seam Fastball|47|3|1|0|7|86
+Tim Lincecum|R|Billy Hamilton|L|Lineout|X|Changeup|48|3|2|0|4|81
+Tim Lincecum|R|Zack Cozart|R|Walk|B|Curveball|49|0|0|1|11|72
+Tim Lincecum|R|Zack Cozart|R|Walk|B|Curveball|50|1|0|1|11|71
+Tim Lincecum|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|51|2|0|1|9|86
+Tim Lincecum|R|Zack Cozart|R|Walk|B|Changeup|52|3|0|1|12|85
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|B|Changeup|53|0|0|1|13|85
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|S|Four-Seam Fastball|54|1|0|1|2|86
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|B|Four-Seam Fastball|55|1|1|1|14|86
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|B|Two-Seam Fastball|56|2|1|1|11|87
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|S|Changeup|57|3|1|1|4|80
+Tim Lincecum|R|Joey Votto|L|Strikeout Double Play|C|Four-Seam Fastball|58|3|2|1|13|85
+Tim Lincecum|R|Todd Frazier|R|Double|C|Slider|59|0|0|0|1|76
+Tim Lincecum|R|Todd Frazier|R|Double|B|Changeup|60|0|1|0|14|80
+Tim Lincecum|R|Todd Frazier|R|Double|B|Slider|61|1|1|0|12|75
+Tim Lincecum|R|Todd Frazier|R|Double|B|Four-Seam Fastball|62|2|1|0|7|86
+Tim Lincecum|R|Todd Frazier|R|Double|D|Four-Seam Fastball|63|3|1|0|5|86
+Tim Lincecum|R|Marlon Byrd|R|Walk|C|Four-Seam Fastball|64|0|0|0|11|86
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Four-Seam Fastball|65|0|1|0|11|87
+Tim Lincecum|R|Marlon Byrd|R|Walk|F|Changeup|66|1|1|0|3|79
+Tim Lincecum|R|Marlon Byrd|R|Walk|F|Slider|67|1|2|0|14|77
+Tim Lincecum|R|Marlon Byrd|R|Walk|*B|Changeup|68|1|2|0|13|79
+Tim Lincecum|R|Marlon Byrd|R|Walk|F|Four-Seam Fastball|69|2|2|0|7|85
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Four-Seam Fastball|70|2|2|0|11|87
+Tim Lincecum|R|Marlon Byrd|R|Walk|B|Curveball|71|3|2|0|12|53
+Tim Lincecum|R|Jay Bruce|L|Strikeout|C|Changeup|72|0|0|0|1|78
+Tim Lincecum|R|Jay Bruce|L|Strikeout|F|Changeup|73|0|1|0|4|84
+Tim Lincecum|R|Jay Bruce|L|Strikeout|B|Two-Seam Fastball|74|0|2|0|11|85
+Tim Lincecum|R|Jay Bruce|L|Strikeout|S|Changeup|75|1|2|0|13|81
+Tim Lincecum|R|Brayan Pena|L|Single|C|Four-Seam Fastball|76|0|0|1|5|85
+Tim Lincecum|R|Brayan Pena|L|Single|F|Changeup|77|0|1|1|1|79
+Tim Lincecum|R|Brayan Pena|L|Single|E|Two-Seam Fastball|78|0|2|1|11|86
+Tim Lincecum|R|Skip Schumaker|L|Double Play|X|Changeup|79|0|0|1|4|80
+Tim Lincecum|R|Johnny Cueto|R|Single|C|Four-Seam Fastball|80|0|0|0|4|87
+Tim Lincecum|R|Johnny Cueto|R|Single|D|Curveball|81|0|1|0|5|73
+Tim Lincecum|R|Billy Hamilton|L|Lineout|B|Two-Seam Fastball|82|0|0|0|11|87
+Tim Lincecum|R|Billy Hamilton|L|Lineout|X|Two-Seam Fastball|83|1|0|0|7|84
+Tim Lincecum|R|Zack Cozart|R|Single|C|Slider|84|0|0|1|14|77
+Tim Lincecum|R|Zack Cozart|R|Single|D|Slider|85|0|1|1|8|77
+Tim Lincecum|R|Joey Votto|L|Strikeout|C|Two-Seam Fastball|86|0|0|1|6|86
+Tim Lincecum|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|87|0|1|1|11|86
+Tim Lincecum|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|88|1|1|1|11|86
+Tim Lincecum|R|Joey Votto|L|Strikeout|F|Two-Seam Fastball|89|2|1|1|7|86
+Tim Lincecum|R|Joey Votto|L|Strikeout|T|Changeup|90|2|2|1|13|81
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|S|Changeup|91|0|0|2|5|79
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|B|Four-Seam Fastball|92|0|1|2|14|87
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|C|Four-Seam Fastball|93|1|1|2|12|87
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|B|Four-Seam Fastball|94|1|2|2|9|88
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|F|Four-Seam Fastball|95|2|2|2|14|87
+Tim Lincecum|R|Todd Frazier|R|Hit By Pitch|H|Two-Seam Fastball|96|2|2|2|11|85
+Tim Lincecum|R|Marlon Byrd|R|Single|B|Four-Seam Fastball|97|0|0|2|14|87
+Tim Lincecum|R|Marlon Byrd|R|Single|E|Four-Seam Fastball|98|1|0|2|1|87
+Tim Lincecum|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|0|0|0|0|11|87
+Tim Lincecum|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|1|1|0|0|13|87
+Tim Lincecum|R|Joc Pederson|L|Groundout|C|Two-Seam Fastball|2|2|0|0|13|86
+Tim Lincecum|R|Joc Pederson|L|Groundout|T|Changeup|3|2|1|0|14|81
+Tim Lincecum|R|Joc Pederson|L|Groundout|X|Changeup|4|2|2|0|7|83
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|B|Curveball|5|0|0|1|3|73
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|C|Two-Seam Fastball|6|1|0|1|6|87
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|X|Changeup|7|1|1|1|9|81
+Tim Lincecum|R|Howie Kendrick|R|Single|S|Four-Seam Fastball|8|0|0|2|12|88
+Tim Lincecum|R|Howie Kendrick|R|Single|D|Changeup|9|0|1|2|8|81
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|C|Two-Seam Fastball|10|0|0|2|4|86
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|S|Two-Seam Fastball|11|0|1|2|1|88
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Two-Seam Fastball|12|0|2|2|1|89
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|S|Slider|13|0|2|2|11|79
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|C|Two-Seam Fastball|14|0|0|0|2|87
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|F|Two-Seam Fastball|15|0|1|0|5|88
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|S|Two-Seam Fastball|16|0|2|0|11|89
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|C|Curveball|17|0|0|1|6|74
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|18|0|1|1|11|88
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|S|Two-Seam Fastball|19|1|1|1|7|87
+Tim Lincecum|R|Yasmani Grandal|L|Groundout|X|Changeup|20|1|2|1|8|80
+Tim Lincecum|R|Andre Ethier|L|Pop Out|B|Curveball|21|0|0|2|14|74
+Tim Lincecum|R|Andre Ethier|L|Pop Out|F|Two-Seam Fastball|22|1|0|2|11|87
+Tim Lincecum|R|Andre Ethier|L|Pop Out|B|Four-Seam Fastball|23|1|1|2|14|88
+Tim Lincecum|R|Andre Ethier|L|Pop Out|B|Two-Seam Fastball|24|2|1|2|11|86
+Tim Lincecum|R|Andre Ethier|L|Pop Out|X|Two-Seam Fastball|25|3|1|2|2|86
+Tim Lincecum|R|Juan Uribe|R|Flyout|C|Two-Seam Fastball|26|0|0|0|5|86
+Tim Lincecum|R|Juan Uribe|R|Flyout|C|Four-Seam Fastball|27|0|1|0|3|87
+Tim Lincecum|R|Juan Uribe|R|Flyout|X|Two-Seam Fastball|28|0|2|0|13|86
+Tim Lincecum|R|Brett Anderson|L|Strikeout|B|Two-Seam Fastball|29|0|0|1|11|85
+Tim Lincecum|R|Brett Anderson|L|Strikeout|C|Two-Seam Fastball|30|1|0|1|14|86
+Tim Lincecum|R|Brett Anderson|L|Strikeout|S|Curveball|31|1|1|1|14|74
+Tim Lincecum|R|Brett Anderson|L|Strikeout|B|Curveball|32|1|2|1|14|74
+Tim Lincecum|R|Brett Anderson|L|Strikeout|C|Four-Seam Fastball|33|2|2|1|4|89
+Tim Lincecum|R|Joc Pederson|L|Single|B|Two-Seam Fastball|34|0|0|2|11|88
+Tim Lincecum|R|Joc Pederson|L|Single|C|Two-Seam Fastball|35|1|0|2|8|88
+Tim Lincecum|R|Joc Pederson|L|Single|F|Curveball|36|1|1|2|13|75
+Tim Lincecum|R|Joc Pederson|L|Single|D|Four-Seam Fastball|37|1|2|2|2|88
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|B|Two-Seam Fastball|38|0|0|2|11|87
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|B|Two-Seam Fastball|39|1|0|2|12|87
+Tim Lincecum|R|Jimmy Rollins|L|Lineout|X|Two-Seam Fastball|40|2|0|2|5|85
+Tim Lincecum|R|Howie Kendrick|R|Flyout|C|Slider|41|0|0|0|5|76
+Tim Lincecum|R|Howie Kendrick|R|Flyout|B|Two-Seam Fastball|42|0|1|0|9|88
+Tim Lincecum|R|Howie Kendrick|R|Flyout|C|Four-Seam Fastball|43|1|1|0|14|89
+Tim Lincecum|R|Howie Kendrick|R|Flyout|X|Slider|44|1|2|0|8|79
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|S|Changeup|45|0|0|1|1|82
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|F|Two-Seam Fastball|46|0|1|1|7|89
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|B|Two-Seam Fastball|47|0|2|1|14|89
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|B|Slider|48|1|2|1|14|80
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|B|Changeup|49|2|2|1|14|83
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|F|Changeup|50|3|2|1|13|83
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|F|Changeup|51|3|2|1|8|82
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|F|Curveball|52|3|2|1|14|75
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|F|Two-Seam Fastball|53|3|2|1|7|90
+Tim Lincecum|R|Adrian Gonzalez|L|Pop Out|X|Two-Seam Fastball|54|3|2|1|11|88
+Tim Lincecum|R|Alex Guerrero|R|Flyout|C|Slider|55|0|0|2|14|80
+Tim Lincecum|R|Alex Guerrero|R|Flyout|B|Slider|56|0|1|2|14|79
+Tim Lincecum|R|Alex Guerrero|R|Flyout|X|Four-Seam Fastball|57|1|1|2|12|87
+Tim Lincecum|R|Yasmani Grandal|L|Double|B|Curveball|58|0|0|0|11|72
+Tim Lincecum|R|Yasmani Grandal|L|Double|D|Two-Seam Fastball|59|1|0|0|5|87
+Tim Lincecum|R|Andre Ethier|L|Groundout|B|Two-Seam Fastball|60|0|0|0|11|86
+Tim Lincecum|R|Andre Ethier|L|Groundout|*B|Changeup|61|1|0|0|13|82
+Tim Lincecum|R|Andre Ethier|L|Groundout|X|Changeup|62|2|0|0|13|81
+Tim Lincecum|R|Juan Uribe|R|Pop Out|B|Slider|63|0|0|1|12|78
+Tim Lincecum|R|Juan Uribe|R|Pop Out|F|Curveball|64|1|0|1|14|77
+Tim Lincecum|R|Juan Uribe|R|Pop Out|B|Two-Seam Fastball|65|1|1|1|14|89
+Tim Lincecum|R|Juan Uribe|R|Pop Out|T|Four-Seam Fastball|66|2|1|1|5|89
+Tim Lincecum|R|Juan Uribe|R|Pop Out|F|Four-Seam Fastball|67|2|2|1|14|90
+Tim Lincecum|R|Juan Uribe|R|Pop Out|F|Slider|68|2|2|1|14|79
+Tim Lincecum|R|Juan Uribe|R|Pop Out|X|Four-Seam Fastball|69|2|2|1|8|88
+Tim Lincecum|R|Brett Anderson|L|Walk|B|Curveball|70|0|0|2|12|72
+Tim Lincecum|R|Brett Anderson|L|Walk|*B|Curveball|71|1|0|2|13|73
+Tim Lincecum|R|Brett Anderson|L|Walk|B|Four-Seam Fastball|72|2|0|2|14|88
+Tim Lincecum|R|Brett Anderson|L|Walk|C|Four-Seam Fastball|73|3|0|2|8|86
+Tim Lincecum|R|Brett Anderson|L|Walk|*B|Four-Seam Fastball|74|3|1|2|14|87
+Tim Lincecum|R|Joc Pederson|L|Groundout|S|Two-Seam Fastball|75|0|0|2|11|87
+Tim Lincecum|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|76|0|1|2|13|88
+Tim Lincecum|R|Joc Pederson|L|Groundout|X|Changeup|77|1|1|2|1|81
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|C|Curveball|78|0|0|0|1|72
+Tim Lincecum|R|Jimmy Rollins|L|Groundout|X|Changeup|79|0|1|0|13|81
+Tim Lincecum|R|Howie Kendrick|R|Groundout|B|Four-Seam Fastball|80|0|0|1|14|88
+Tim Lincecum|R|Howie Kendrick|R|Groundout|S|Four-Seam Fastball|81|1|0|1|12|88
+Tim Lincecum|R|Howie Kendrick|R|Groundout|S|Changeup|82|1|1|1|14|81
+Tim Lincecum|R|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|83|1|2|1|6|89
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Changeup|84|0|0|2|4|80
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Changeup|85|0|1|2|11|82
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|86|0|2|2|12|89
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|87|1|2|2|11|90
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Changeup|88|2|2|2|13|83
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|F|Slider|89|2|2|2|14|79
+Tim Lincecum|R|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|90|2|2|2|11|89
+Tim Lincecum|R|Alex Guerrero|R|Groundout|S|Curveball|91|0|0|0|8|73
+Tim Lincecum|R|Alex Guerrero|R|Groundout|X|Four-Seam Fastball|92|0|1|0|9|86
+Tim Lincecum|R|Yasmani Grandal|L|Flyout|B|Changeup|93|0|0|1|11|79
+Tim Lincecum|R|Yasmani Grandal|L|Flyout|X|Changeup|94|1|0|1|4|79
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Curveball|95|0|0|2|3|73
+Tim Lincecum|R|Andre Ethier|L|Walk|C|Curveball|96|1|0|2|12|73
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Changeup|97|1|1|2|11|80
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Changeup|98|2|1|2|13|81
+Tim Lincecum|R|Andre Ethier|L|Walk|F|Two-Seam Fastball|99|3|1|2|5|86
+Tim Lincecum|R|Andre Ethier|L|Walk|B|Four-Seam Fastball|100|3|2|2|13|89
+Tim Lincecum|R|Juan Uribe|R|Flyout|F|Slider|101|0|0|2|7|78
+Tim Lincecum|R|Juan Uribe|R|Flyout|B|Four-Seam Fastball|102|0|1|2|14|88
+Tim Lincecum|R|Juan Uribe|R|Flyout|B|Four-Seam Fastball|103|1|1|2|14|88
+Tim Lincecum|R|Juan Uribe|R|Flyout|S|Slider|104|2|1|2|14|78
+Tim Lincecum|R|Juan Uribe|R|Flyout|X|Four-Seam Fastball|105|2|2|2|1|87
+Tim Lincecum|R|Carlos Gomez|R|Strikeout|F|Curveball|0|0|0|0|13|75
+Tim Lincecum|R|Carlos Gomez|R|Strikeout|F|Slider|1|0|1|0|11|77
+Tim Lincecum|R|Carlos Gomez|R|Strikeout|B|Two-Seam Fastball|2|0|2|0|11|87
+Tim Lincecum|R|Carlos Gomez|R|Strikeout|S|Changeup|3|1|2|0|14|81
+Tim Lincecum|R|Khris Davis|R|Home Run|B|Changeup|4|0|0|1|14|79
+Tim Lincecum|R|Khris Davis|R|Home Run|B|Four-Seam Fastball|5|1|0|1|12|88
+Tim Lincecum|R|Khris Davis|R|Home Run|B|Two-Seam Fastball|6|2|0|1|12|86
+Tim Lincecum|R|Khris Davis|R|Home Run|C|Two-Seam Fastball|7|3|0|1|1|88
+Tim Lincecum|R|Khris Davis|R|Home Run|S|Two-Seam Fastball|8|3|1|1|2|86
+Tim Lincecum|R|Khris Davis|R|Home Run|E|Two-Seam Fastball|9|3|2|1|6|88
+Tim Lincecum|R|Ryan Braun|R|Walk|B|Curveball|10|0|0|1|13|72
+Tim Lincecum|R|Ryan Braun|R|Walk|B|Slider|11|1|0|1|14|78
+Tim Lincecum|R|Ryan Braun|R|Walk|B|Two-Seam Fastball|12|2|0|1|14|87
+Tim Lincecum|R|Ryan Braun|R|Walk|C|Four-Seam Fastball|13|3|0|1|8|88
+Tim Lincecum|R|Ryan Braun|R|Walk|B|Slider|14|3|1|1|14|79
+Tim Lincecum|R|Adam Lind|L|Groundout|S|Changeup|15|0|0|1|7|81
+Tim Lincecum|R|Adam Lind|L|Groundout|F|Two-Seam Fastball|16|0|1|1|13|87
+Tim Lincecum|R|Adam Lind|L|Groundout|*B|Changeup|17|0|2|1|14|57
+Tim Lincecum|R|Adam Lind|L|Groundout|B|Changeup|18|1|2|1|13|81
+Tim Lincecum|R|Adam Lind|L|Groundout|F|Changeup|19|2|2|1|4|81
+Tim Lincecum|R|Adam Lind|L|Groundout|X|Curveball|20|2|2|1|5|74
+Tim Lincecum|R|Aramis Ramirez|R|Flyout|C|Slider|21|0|0|2|14|78
+Tim Lincecum|R|Aramis Ramirez|R|Flyout|X|Curveball|22|0|1|2|13|74
+Tim Lincecum|R|Hector Gomez|R|Lineout|B|Four-Seam Fastball|23|0|0|0|14|87
+Tim Lincecum|R|Hector Gomez|R|Lineout|C|Two-Seam Fastball|24|1|0|0|13|86
+Tim Lincecum|R|Hector Gomez|R|Lineout|F|Four-Seam Fastball|25|1|1|0|5|87
+Tim Lincecum|R|Hector Gomez|R|Lineout|X|Changeup|26|1|2|0|2|83
+Tim Lincecum|R|Martin Maldonado|R|Pop Out|C|Slider|27|0|0|1|1|77
+Tim Lincecum|R|Martin Maldonado|R|Pop Out|X|Changeup|28|0|1|1|5|81
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|B|Four-Seam Fastball|29|0|0|2|13|88
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|C|Four-Seam Fastball|30|1|0|2|14|88
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|S|Slider|31|1|1|2|14|78
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|B|Four-Seam Fastball|32|1|2|2|12|89
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|T|Slider|33|2|2|2|13|77
+Tim Lincecum|R|Luis Sardinas|L|Groundout|B|Two-Seam Fastball|34|0|0|0|8|87
+Tim Lincecum|R|Luis Sardinas|L|Groundout|C|Two-Seam Fastball|35|1|0|0|11|86
+Tim Lincecum|R|Luis Sardinas|L|Groundout|X|Changeup|36|1|1|0|13|81
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|C|Four-Seam Fastball|37|0|0|1|6|88
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|B|Four-Seam Fastball|38|0|1|1|11|87
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|S|Four-Seam Fastball|39|1|1|1|5|88
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|B|Changeup|40|1|2|1|13|81
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|B|Slider|41|2|2|1|14|78
+Tim Lincecum|R|Carlos Gomez|R|Pop Out|X|Slider|42|3|2|1|8|77
+Tim Lincecum|R|Khris Davis|R|Home Run|B|Curveball|43|0|0|2|13|73
+Tim Lincecum|R|Khris Davis|R|Home Run|S|Changeup|44|1|0|2|13|80
+Tim Lincecum|R|Khris Davis|R|Home Run|B|Slider|45|1|1|2|9|78
+Tim Lincecum|R|Khris Davis|R|Home Run|E|Slider|46|2|1|2|5|78
+Tim Lincecum|R|Ryan Braun|R|Groundout|B|Changeup|47|0|0|2|14|80
+Tim Lincecum|R|Ryan Braun|R|Groundout|C|Four-Seam Fastball|48|1|0|2|5|87
+Tim Lincecum|R|Ryan Braun|R|Groundout|S|Four-Seam Fastball|49|1|1|2|2|87
+Tim Lincecum|R|Ryan Braun|R|Groundout|X|Curveball|50|1|2|2|14|73
+Tim Lincecum|R|Adam Lind|L|Flyout|B|Curveball|51|0|0|0|13|71
+Tim Lincecum|R|Adam Lind|L|Flyout|X|Two-Seam Fastball|52|1|0|0|4|85
+Tim Lincecum|R|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|53|0|0|1|13|87
+Tim Lincecum|R|Aramis Ramirez|R|Walk|B|Two-Seam Fastball|54|1|0|1|11|86
+Tim Lincecum|R|Aramis Ramirez|R|Walk|C|Four-Seam Fastball|55|2|0|1|11|87
+Tim Lincecum|R|Aramis Ramirez|R|Walk|B|Curveball|56|2|1|1|11|74
+Tim Lincecum|R|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|57|3|1|1|11|87
+Tim Lincecum|R|Hector Gomez|R|Double|F|Four-Seam Fastball|58|0|0|1|12|85
+Tim Lincecum|R|Hector Gomez|R|Double|B|Curveball|59|0|1|1|12|74
+Tim Lincecum|R|Hector Gomez|R|Double|D|Four-Seam Fastball|60|1|1|1|12|85
+Tim Lincecum|R|Martin Maldonado|R|Walk|W|Curveball|61|0|0|1|13|73
+Tim Lincecum|R|Martin Maldonado|R|Walk|*B|Four-Seam Fastball|62|0|1|1|13|87
+Tim Lincecum|R|Martin Maldonado|R|Walk|B|Curveball|63|1|1|1|13|77
+Tim Lincecum|R|Martin Maldonado|R|Walk|S|Changeup|64|2|1|1|14|80
+Tim Lincecum|R|Martin Maldonado|R|Walk|*B|Four-Seam Fastball|65|2|2|1|13|87
+Tim Lincecum|R|Martin Maldonado|R|Walk|*B|Changeup|66|3|2|1|14|80
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|C|Slider|67|0|0|1|6|77
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|C|Curveball|68|0|1|1|5|76
+Tim Lincecum|R|Kyle Lohse|R|Strikeout|C|Slider|69|0|2|1|2|76
+Tim Lincecum|R|Luis Sardinas|L|Strikeout|*B|Curveball|70|0|0|2|14|72
+Tim Lincecum|R|Luis Sardinas|L|Strikeout|F|Changeup|71|1|0|2|2|80
+Tim Lincecum|R|Luis Sardinas|L|Strikeout|F|Changeup|72|1|1|2|4|80
+Tim Lincecum|R|Luis Sardinas|L|Strikeout|*B|Curveball|73|1|2|2|13|74
+Tim Lincecum|R|Luis Sardinas|L|Strikeout|S|Changeup|74|2|2|2|13|80
+Tim Lincecum|R|Carlos Gomez|R|Groundout|B|Changeup|75|0|0|0|13|80
+Tim Lincecum|R|Carlos Gomez|R|Groundout|C|Two-Seam Fastball|76|1|0|0|5|86
+Tim Lincecum|R|Carlos Gomez|R|Groundout|F|Four-Seam Fastball|77|1|1|0|7|86
+Tim Lincecum|R|Carlos Gomez|R|Groundout|B|Changeup|78|1|2|0|14|81
+Tim Lincecum|R|Carlos Gomez|R|Groundout|B|Changeup|79|2|2|0|13|81
+Tim Lincecum|R|Carlos Gomez|R|Groundout|X|Four-Seam Fastball|80|3|2|0|5|88
+Tim Lincecum|R|Khris Davis|R|Single|S|Changeup|81|0|0|1|2|79
+Tim Lincecum|R|Khris Davis|R|Single|D|Four-Seam Fastball|82|0|1|1|5|87
+Tim Lincecum|R|Ryan Braun|R|Home Run|F|Curveball|83|0|0|1|4|76
+Tim Lincecum|R|Ryan Braun|R|Home Run|T|Four-Seam Fastball|84|0|1|1|11|87
+Tim Lincecum|R|Ryan Braun|R|Home Run|E|Four-Seam Fastball|85|0|2|1|4|86
+Tim Lincecum|R|Adam Lind|L|Groundout|C|Curveball|86|0|0|1|3|71
+Tim Lincecum|R|Adam Lind|L|Groundout|F|Changeup|87|0|1|1|14|79
+Tim Lincecum|R|Adam Lind|L|Groundout|B|Changeup|88|0|2|1|13|81
+Tim Lincecum|R|Adam Lind|L|Groundout|F|Two-Seam Fastball|89|1|2|1|12|86
+Tim Lincecum|R|Adam Lind|L|Groundout|X|Changeup|90|1|2|1|14|78
+Tim Lincecum|R|Aramis Ramirez|R|Flyout|B|Curveball|91|0|0|2|13|71
+Tim Lincecum|R|Aramis Ramirez|R|Flyout|X|Changeup|92|1|0|2|13|79
+Tim Lincecum|R|Jace Peterson|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|86
+Tim Lincecum|R|Jace Peterson|L|Groundout|C|Two-Seam Fastball|1|1|0|0|1|86
+Tim Lincecum|R|Jace Peterson|L|Groundout|S|Changeup|2|1|1|0|13|80
+Tim Lincecum|R|Jace Peterson|L|Groundout|X|Changeup|3|1|2|0|13|83
+Tim Lincecum|R|Cameron Maybin|R|Groundout|B|Two-Seam Fastball|4|0|0|1|11|87
+Tim Lincecum|R|Cameron Maybin|R|Groundout|F|Four-Seam Fastball|5|1|0|1|6|88
+Tim Lincecum|R|Cameron Maybin|R|Groundout|B|Slider|6|1|1|1|14|79
+Tim Lincecum|R|Cameron Maybin|R|Groundout|C|Four-Seam Fastball|7|2|1|1|11|88
+Tim Lincecum|R|Cameron Maybin|R|Groundout|B|Changeup|8|2|2|1|14|81
+Tim Lincecum|R|Cameron Maybin|R|Groundout|X|Four-Seam Fastball|9|3|2|1|9|88
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|C|Curveball|10|0|0|2|14|73
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|S|Changeup|11|0|1|2|13|81
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|S|Four-Seam Fastball|12|0|2|2|11|88
+Tim Lincecum|R|Nick Markakis|L|Single|C|Four-Seam Fastball|13|0|0|0|13|87
+Tim Lincecum|R|Nick Markakis|L|Single|F|Curveball|14|0|1|0|13|73
+Tim Lincecum|R|Nick Markakis|L|Single|D|Changeup|15|0|2|0|14|81
+Tim Lincecum|R|Juan Uribe|R|Walk|B|Slider|16|0|0|0|14|77
+Tim Lincecum|R|Juan Uribe|R|Walk|*B|Four-Seam Fastball|17|1|0|0|14|86
+Tim Lincecum|R|Juan Uribe|R|Walk|*B|Curveball|18|2|0|0|13|77
+Tim Lincecum|R|Juan Uribe|R|Walk|C|Two-Seam Fastball|19|3|0|0|1|86
+Tim Lincecum|R|Juan Uribe|R|Walk|B|Four-Seam Fastball|20|3|1|0|11|86
+Tim Lincecum|R|Todd Cunningham|L|Forceout|C|Two-Seam Fastball|21|0|0|0|4|86
+Tim Lincecum|R|Todd Cunningham|L|Forceout|X|Changeup|22|0|1|0|2|80
+Tim Lincecum|R|Andrelton Simmons|R|Single|B|Curveball|23|0|0|1|14|73
+Tim Lincecum|R|Andrelton Simmons|R|Single|E|Curveball|24|1|0|1|7|77
+Tim Lincecum|R|Christian Bethancourt|R|Grounded Into DP|B|Slider|25|0|0|1|14|77
+Tim Lincecum|R|Christian Bethancourt|R|Grounded Into DP|C|Four-Seam Fastball|26|1|0|1|9|87
+Tim Lincecum|R|Christian Bethancourt|R|Grounded Into DP|X|Slider|27|1|1|1|8|78
+Tim Lincecum|R|Williams Perez|R|Strikeout|B|Four-Seam Fastball|28|0|0|0|14|85
+Tim Lincecum|R|Williams Perez|R|Strikeout|C|Changeup|29|1|0|0|13|84
+Tim Lincecum|R|Williams Perez|R|Strikeout|S|Curveball|30|1|1|0|14|76
+Tim Lincecum|R|Williams Perez|R|Strikeout|B|Curveball|31|1|2|0|14|77
+Tim Lincecum|R|Williams Perez|R|Strikeout|S|Curveball|32|2|2|0|13|76
+Tim Lincecum|R|Jace Peterson|L|Single|B|Curveball|33|0|0|1|14|72
+Tim Lincecum|R|Jace Peterson|L|Single|C|Two-Seam Fastball|34|1|0|1|9|86
+Tim Lincecum|R|Jace Peterson|L|Single|S|Changeup|35|1|1|1|11|80
+Tim Lincecum|R|Jace Peterson|L|Single|B|Two-Seam Fastball|36|1|2|1|11|88
+Tim Lincecum|R|Jace Peterson|L|Single|F|Changeup|37|2|2|1|7|80
+Tim Lincecum|R|Jace Peterson|L|Single|D|Two-Seam Fastball|38|2|2|1|13|87
+Tim Lincecum|R|Cameron Maybin|R|Single|*B|Slider|39|0|0|1|14|79
+Tim Lincecum|R|Cameron Maybin|R|Single|S|Changeup|40|1|0|1|13|80
+Tim Lincecum|R|Cameron Maybin|R|Single|*B|Curveball|41|1|1|1|13|73
+Tim Lincecum|R|Cameron Maybin|R|Single|E|Four-Seam Fastball|42|2|1|1|6|87
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|B|Changeup|43|0|0|1|14|80
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|F|Changeup|44|1|0|1|13|79
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|S|Four-Seam Fastball|45|1|1|1|11|84
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|F|Curveball|46|1|2|1|7|73
+Tim Lincecum|R|Freddie Freeman|L|Strikeout|S|Changeup|47|1|2|1|13|79
+Tim Lincecum|R|Nick Markakis|L|Flyout|C|Changeup|48|0|0|2|13|78
+Tim Lincecum|R|Nick Markakis|L|Flyout|F|Two-Seam Fastball|49|0|1|2|1|86
+Tim Lincecum|R|Nick Markakis|L|Flyout|X|Curveball|50|0|2|2|14|73
+Tim Lincecum|R|Juan Uribe|R|Double|C|Two-Seam Fastball|51|0|0|0|7|85
+Tim Lincecum|R|Juan Uribe|R|Double|B|Changeup|52|0|1|0|13|78
+Tim Lincecum|R|Juan Uribe|R|Double|B|Changeup|53|1|1|0|13|80
+Tim Lincecum|R|Juan Uribe|R|Double|F|Four-Seam Fastball|54|2|1|0|2|86
+Tim Lincecum|R|Juan Uribe|R|Double|D|Slider|55|2|2|0|8|78
+Tim Lincecum|R|Todd Cunningham|L|Groundout|L|Changeup|56|0|0|0|13|79
+Tim Lincecum|R|Todd Cunningham|L|Groundout|C|Curveball|57|0|1|0|11|72
+Tim Lincecum|R|Todd Cunningham|L|Groundout|*B|Changeup|58|0|2|0|13|80
+Tim Lincecum|R|Todd Cunningham|L|Groundout|X|Changeup|59|1|2|0|13|79
+Tim Lincecum|R|Andrelton Simmons|R|Strikeout|B|Curveball|60|0|0|1|11|70
+Tim Lincecum|R|Andrelton Simmons|R|Strikeout|F|Changeup|61|1|0|1|13|80
+Tim Lincecum|R|Andrelton Simmons|R|Strikeout|F|Four-Seam Fastball|62|1|1|1|5|86
+Tim Lincecum|R|Andrelton Simmons|R|Strikeout|T|Four-Seam Fastball|63|1|2|1|1|87
+Tim Lincecum|R|Christian Bethancourt|R|Single|B|Four-Seam Fastball|64|0|0|2|11|86
+Tim Lincecum|R|Christian Bethancourt|R|Single|S|Four-Seam Fastball|65|1|0|2|11|87
+Tim Lincecum|R|Christian Bethancourt|R|Single|C|Four-Seam Fastball|66|1|1|2|6|85
+Tim Lincecum|R|Christian Bethancourt|R|Single|E|Changeup|67|1|2|2|13|80
+Tim Lincecum|R|Williams Perez|R|Strikeout|B|Curveball|68|0|0|2|11|75
+Tim Lincecum|R|Williams Perez|R|Strikeout|B|Four-Seam Fastball|69|1|0|2|13|85
+Tim Lincecum|R|Williams Perez|R|Strikeout|C|Changeup|70|2|0|2|4|84
+Tim Lincecum|R|Williams Perez|R|Strikeout|F|Four-Seam Fastball|71|2|1|2|1|86
+Tim Lincecum|R|Williams Perez|R|Strikeout|S|Slider|72|2|2|2|14|77
+Tim Lincecum|R|Jace Peterson|L|Double|B|Curveball|73|0|0|0|13|72
+Tim Lincecum|R|Jace Peterson|L|Double|B|Changeup|74|1|0|0|13|80
+Tim Lincecum|R|Jace Peterson|L|Double|D|Changeup|75|2|0|0|7|81
+Tim Lincecum|R|Cameron Maybin|R|Pop Out|X|Four-Seam Fastball|76|0|0|0|5|87
+Tim Lincecum|R|Freddie Freeman|L|Single|E|Changeup|77|0|0|1|7|79
+Tim Lincecum|R|Nick Markakis|L|Walk|B|Changeup|78|0|0|1|12|85
+Tim Lincecum|R|Nick Markakis|L|Walk|C|Two-Seam Fastball|79|1|0|1|7|85
+Tim Lincecum|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|80|1|1|1|11|86
+Tim Lincecum|R|Nick Markakis|L|Walk|*B|Changeup|81|2|1|1|13|85
+Tim Lincecum|R|Nick Markakis|L|Walk|B|Changeup|82|3|1|1|13|85
+Tim Lincecum|R|Ben Revere|L|Walk|B|Two-Seam Fastball|0|0|0|0|11|85
+Tim Lincecum|R|Ben Revere|L|Walk|B|Two-Seam Fastball|1|1|0|0|11|86
+Tim Lincecum|R|Ben Revere|L|Walk|B|Changeup|2|2|0|0|12|84
+Tim Lincecum|R|Ben Revere|L|Walk|C|Two-Seam Fastball|3|3|0|0|9|86
+Tim Lincecum|R|Ben Revere|L|Walk|C|Two-Seam Fastball|4|3|1|0|11|87
+Tim Lincecum|R|Ben Revere|L|Walk|B|Two-Seam Fastball|5|3|2|0|12|87
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|C|Changeup|6|0|0|0|14|79
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|F|Four-Seam Fastball|7|0|1|0|5|86
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|B|Two-Seam Fastball|8|0|2|0|11|87
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|F|Four-Seam Fastball|9|1|2|0|5|88
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|*B|Changeup|10|1|2|0|13|81
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|F|Changeup|11|2|2|0|13|80
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|F|Four-Seam Fastball|12|2|2|0|4|88
+Tim Lincecum|R|Jeff Francoeur|R|Pop Out|X|Four-Seam Fastball|13|2|2|0|1|87
+Tim Lincecum|R|Chase Utley|L|Groundout|C|Two-Seam Fastball|14|0|0|1|4|87
+Tim Lincecum|R|Chase Utley|L|Groundout|C|Two-Seam Fastball|15|0|1|1|7|87
+Tim Lincecum|R|Chase Utley|L|Groundout|*B|Changeup|16|0|2|1|14|81
+Tim Lincecum|R|Chase Utley|L|Groundout|*B|Changeup|17|1|2|1|13|82
+Tim Lincecum|R|Chase Utley|L|Groundout|X|Curveball|18|2|2|1|14|74
+Tim Lincecum|R|Ryan Howard|L|Home Run|F|Changeup|19|0|0|2|13|80
+Tim Lincecum|R|Ryan Howard|L|Home Run|E|Changeup|20|0|1|2|8|81
+Tim Lincecum|R|Maikel Franco|R|Strikeout|C|Curveball|21|0|0|2|5|75
+Tim Lincecum|R|Maikel Franco|R|Strikeout|B|Slider|22|0|1|2|14|78
+Tim Lincecum|R|Maikel Franco|R|Strikeout|B|Four-Seam Fastball|23|1|1|2|12|87
+Tim Lincecum|R|Maikel Franco|R|Strikeout|F|Slider|24|2|1|2|9|77
+Tim Lincecum|R|Maikel Franco|R|Strikeout|S|Two-Seam Fastball|25|2|2|2|12|86
+Tim Lincecum|R|Cody Asche|L|Flyout|T|Two-Seam Fastball|26|0|0|0|3|85
+Tim Lincecum|R|Cody Asche|L|Flyout|S|Changeup|27|0|1|0|13|78
+Tim Lincecum|R|Cody Asche|L|Flyout|X|Two-Seam Fastball|28|0|2|0|2|88
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|C|Two-Seam Fastball|29|0|0|1|11|85
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|X|Changeup|30|0|1|1|13|82
+Tim Lincecum|R|Cameron Rupp|R|Walk|C|Slider|31|0|0|2|3|78
+Tim Lincecum|R|Cameron Rupp|R|Walk|F|Curveball|32|0|1|2|14|74
+Tim Lincecum|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|33|0|2|2|11|88
+Tim Lincecum|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|34|1|2|2|11|86
+Tim Lincecum|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|35|2|2|2|12|88
+Tim Lincecum|R|Cameron Rupp|R|Walk|*B|Slider|36|3|2|2|13|79
+Tim Lincecum|R|Jerome Williams|R|Double|C|Four-Seam Fastball|37|0|0|2|7|86
+Tim Lincecum|R|Jerome Williams|R|Double|E|Four-Seam Fastball|38|0|1|2|9|86
+Tim Lincecum|R|Ben Revere|L|Groundout|B|Slider|39|0|0|2|13|78
+Tim Lincecum|R|Ben Revere|L|Groundout|X|Four-Seam Fastball|40|1|0|2|1|86
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|B|Slider|41|0|0|0|14|77
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|B|Slider|42|1|0|0|14|78
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|C|Curveball|43|2|0|0|5|76
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|X|Two-Seam Fastball|44|2|1|0|1|85
+Tim Lincecum|R|Chase Utley|L|Groundout|B|Curveball|45|0|0|1|12|72
+Tim Lincecum|R|Chase Utley|L|Groundout|X|Changeup|46|1|0|1|7|82
+Tim Lincecum|R|Ryan Howard|L|Single|F|Changeup|47|0|0|2|13|81
+Tim Lincecum|R|Ryan Howard|L|Single|B|Two-Seam Fastball|48|0|1|2|12|87
+Tim Lincecum|R|Ryan Howard|L|Single|D|Two-Seam Fastball|49|1|1|2|8|86
+Tim Lincecum|R|Maikel Franco|R|Single|C|Changeup|50|0|0|2|7|77
+Tim Lincecum|R|Maikel Franco|R|Single|D|Two-Seam Fastball|51|0|1|2|8|85
+Tim Lincecum|R|Cody Asche|L|Strikeout|B|Changeup|52|0|0|2|11|81
+Tim Lincecum|R|Cody Asche|L|Strikeout|W|Changeup|53|1|0|2|13|80
+Tim Lincecum|R|Cody Asche|L|Strikeout|B|Four-Seam Fastball|54|1|1|2|14|88
+Tim Lincecum|R|Cody Asche|L|Strikeout|*B|Four-Seam Fastball|55|2|1|2|14|87
+Tim Lincecum|R|Cody Asche|L|Strikeout|S|Changeup|56|3|1|2|13|79
+Tim Lincecum|R|Cody Asche|L|Strikeout|C|Changeup|57|3|2|2|6|81
+Tim Lincecum|R|Cesar Hernandez|L|Strikeout|B|Two-Seam Fastball|58|0|0|0|13|86
+Tim Lincecum|R|Cesar Hernandez|L|Strikeout|B|Changeup|59|1|0|0|13|80
+Tim Lincecum|R|Cesar Hernandez|L|Strikeout|C|Curveball|60|2|0|0|6|76
+Tim Lincecum|R|Cesar Hernandez|L|Strikeout|C|Four-Seam Fastball|61|2|1|0|13|86
+Tim Lincecum|R|Cesar Hernandez|L|Strikeout|W|Changeup|62|2|2|0|13|82
+Tim Lincecum|R|Cameron Rupp|R|Flyout|X|Curveball|63|0|0|1|2|71
+Tim Lincecum|R|Jerome Williams|R|Strikeout|B|Four-Seam Fastball|64|0|0|2|14|86
+Tim Lincecum|R|Jerome Williams|R|Strikeout|C|Slider|65|1|0|2|6|76
+Tim Lincecum|R|Jerome Williams|R|Strikeout|S|Curveball|66|1|1|2|13|73
+Tim Lincecum|R|Jerome Williams|R|Strikeout|W|Curveball|67|1|2|2|14|75
+Tim Lincecum|R|Ben Revere|L|Flyout|C|Four-Seam Fastball|68|0|0|0|11|86
+Tim Lincecum|R|Ben Revere|L|Flyout|B|Two-Seam Fastball|69|0|1|0|11|86
+Tim Lincecum|R|Ben Revere|L|Flyout|X|Changeup|70|1|1|0|14|82
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|F|Curveball|71|0|0|1|14|73
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|S|Curveball|72|0|1|1|13|78
+Tim Lincecum|R|Jeff Francoeur|R|Flyout|X|Two-Seam Fastball|73|0|2|1|1|87
+Tim Lincecum|R|Chase Utley|L|Flyout|B|Curveball|74|0|0|2|13|71
+Tim Lincecum|R|Chase Utley|L|Flyout|C|Changeup|75|1|0|2|2|81
+Tim Lincecum|R|Chase Utley|L|Flyout|B|Curveball|76|1|1|2|13|72
+Tim Lincecum|R|Chase Utley|L|Flyout|B|Changeup|77|2|1|2|11|81
+Tim Lincecum|R|Chase Utley|L|Flyout|X|Changeup|78|3|1|2|11|81
+Tim Lincecum|R|Ryan Howard|L|Groundout|S|Two-Seam Fastball|79|0|0|0|2|87
+Tim Lincecum|R|Ryan Howard|L|Groundout|B|Changeup|80|0|1|0|13|81
+Tim Lincecum|R|Ryan Howard|L|Groundout|F|Changeup|81|1|1|0|9|83
+Tim Lincecum|R|Ryan Howard|L|Groundout|F|Slider|82|1|2|0|9|77
+Tim Lincecum|R|Ryan Howard|L|Groundout|X|Four-Seam Fastball|83|1|2|0|12|90
+Tim Lincecum|R|Maikel Franco|R|Home Run|E|Slider|84|0|0|1|2|78
+Tim Lincecum|R|Cody Asche|L|Groundout|B|Curveball|85|0|0|1|11|71
+Tim Lincecum|R|Cody Asche|L|Groundout|T|Two-Seam Fastball|86|1|0|1|2|86
+Tim Lincecum|R|Cody Asche|L|Groundout|X|Changeup|87|1|1|1|13|82
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|B|Two-Seam Fastball|88|0|0|2|13|86
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|C|Changeup|89|1|0|2|11|79
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|S|Changeup|90|1|1|2|13|82
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|F|Changeup|91|1|2|2|13|82
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|B|Four-Seam Fastball|92|1|2|2|13|89
+Tim Lincecum|R|Cesar Hernandez|L|Groundout|X|Changeup|93|2|2|2|8|82
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|14|88
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|5|87
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|B|Curveball|2|1|1|0|11|73
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|S|Changeup|3|2|1|0|8|82
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|13|89
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|S|Two-Seam Fastball|5|2|2|0|11|89
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Four-Seam Fastball|6|0|0|1|12|89
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|7|0|1|1|14|89
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|8|1|1|1|11|89
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|9|2|1|1|11|87
+Tim Lincecum|R|Juan Lagares|R|Strikeout|C|Four-Seam Fastball|10|3|1|1|12|86
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Four-Seam Fastball|11|3|2|1|4|90
+Tim Lincecum|R|Juan Lagares|R|Strikeout|S|Slider|12|3|2|1|3|78
+Tim Lincecum|R|Lucas Duda|L|Flyout|B|Changeup|13|0|0|2|11|80
+Tim Lincecum|R|Lucas Duda|L|Flyout|C|Changeup|14|1|0|2|4|81
+Tim Lincecum|R|Lucas Duda|L|Flyout|X|Four-Seam Fastball|15|1|1|2|2|89
+Tim Lincecum|R|Michael Cuddyer|R|Groundout|X|Four-Seam Fastball|16|0|0|0|6|88
+Tim Lincecum|R|Wilmer Flores|R|Walk|C|Four-Seam Fastball|17|0|0|1|5|88
+Tim Lincecum|R|Wilmer Flores|R|Walk|B|Slider|18|0|1|1|14|79
+Tim Lincecum|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|19|1|1|1|11|88
+Tim Lincecum|R|Wilmer Flores|R|Walk|F|Four-Seam Fastball|20|2|1|1|12|89
+Tim Lincecum|R|Wilmer Flores|R|Walk|B|Curveball|21|2|2|1|14|76
+Tim Lincecum|R|Wilmer Flores|R|Walk|B|Changeup|22|3|2|1|11|81
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|B|Four-Seam Fastball|23|0|0|1|11|88
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|C|Four-Seam Fastball|24|1|0|1|6|88
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|F|Four-Seam Fastball|25|1|1|1|2|88
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|F|Changeup|26|1|2|1|11|82
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|B|Slider|27|1|2|1|14|79
+Tim Lincecum|R|Travis d'Arnaud|R|Forceout|X|Slider|28|2|2|1|8|80
+Tim Lincecum|R|Dilson Herrera|R|Flyout|*B|Slider|29|0|0|2|14|81
+Tim Lincecum|R|Dilson Herrera|R|Flyout|C|Four-Seam Fastball|30|1|0|2|14|88
+Tim Lincecum|R|Dilson Herrera|R|Flyout|X|Slider|31|1|1|2|3|80
+Tim Lincecum|R|Eric Campbell|R|Strikeout|B|Curveball|32|0|0|0|14|73
+Tim Lincecum|R|Eric Campbell|R|Strikeout|C|Slider|33|1|0|0|5|78
+Tim Lincecum|R|Eric Campbell|R|Strikeout|C|Four-Seam Fastball|34|1|1|0|1|88
+Tim Lincecum|R|Eric Campbell|R|Strikeout|F|Four-Seam Fastball|35|1|2|0|7|88
+Tim Lincecum|R|Eric Campbell|R|Strikeout|B|Changeup|36|1|2|0|13|82
+Tim Lincecum|R|Eric Campbell|R|Strikeout|W|Changeup|37|2|2|0|13|82
+Tim Lincecum|R|Jonathon Niese|L|Groundout|B|Two-Seam Fastball|38|0|0|1|11|87
+Tim Lincecum|R|Jonathon Niese|L|Groundout|C|Two-Seam Fastball|39|1|0|1|12|86
+Tim Lincecum|R|Jonathon Niese|L|Groundout|B|Two-Seam Fastball|40|1|1|1|13|85
+Tim Lincecum|R|Jonathon Niese|L|Groundout|X|Two-Seam Fastball|41|2|1|1|13|86
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|B|Curveball|42|0|0|2|13|73
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|S|Changeup|43|1|0|2|13|80
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|F|Two-Seam Fastball|44|1|1|2|13|88
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|45|1|2|2|11|87
+Tim Lincecum|R|Curtis Granderson|L|Strikeout|S|Slider|46|2|2|2|8|79
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Curveball|47|0|0|0|8|73
+Tim Lincecum|R|Juan Lagares|R|Strikeout|T|Four-Seam Fastball|48|0|1|0|7|88
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Four-Seam Fastball|49|0|2|0|2|88
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Slider|50|0|2|0|14|77
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|51|1|2|0|11|88
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Slider|52|2|2|0|12|77
+Tim Lincecum|R|Juan Lagares|R|Strikeout|B|Slider|53|2|2|0|14|80
+Tim Lincecum|R|Juan Lagares|R|Strikeout|F|Curveball|54|3|2|0|11|77
+Tim Lincecum|R|Juan Lagares|R|Strikeout|S|Changeup|55|3|2|0|7|82
+Tim Lincecum|R|Lucas Duda|L|Walk|B|Curveball|56|0|0|1|14|72
+Tim Lincecum|R|Lucas Duda|L|Walk|B|Changeup|57|1|0|1|13|82
+Tim Lincecum|R|Lucas Duda|L|Walk|B|Changeup|58|2|0|1|13|82
+Tim Lincecum|R|Lucas Duda|L|Walk|C|Two-Seam Fastball|59|3|0|1|5|87
+Tim Lincecum|R|Lucas Duda|L|Walk|B|Changeup|60|3|1|1|13|82
+Tim Lincecum|R|Michael Cuddyer|R|Field Error|*B|Curveball|61|0|0|1|13|74
+Tim Lincecum|R|Michael Cuddyer|R|Field Error|C|Four-Seam Fastball|62|1|0|1|9|87
+Tim Lincecum|R|Michael Cuddyer|R|Field Error|F|Changeup|63|1|1|1|11|81
+Tim Lincecum|R|Michael Cuddyer|R|Field Error|D|Slider|64|1|2|1|8|79
+Tim Lincecum|R|Wilmer Flores|R|Pop Out|X|Four-Seam Fastball|65|0|0|1|12|87
+Tim Lincecum|R|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|66|0|0|2|14|88
+Tim Lincecum|R|Travis d'Arnaud|R|Single|C|Four-Seam Fastball|67|1|0|2|4|87
+Tim Lincecum|R|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|68|1|1|2|13|88
+Tim Lincecum|R|Travis d'Arnaud|R|Single|C|Four-Seam Fastball|69|2|1|2|7|86
+Tim Lincecum|R|Travis d'Arnaud|R|Single|E|Slider|70|2|2|2|5|78
+Tim Lincecum|R|Dilson Herrera|R|Walk|B|Slider|71|0|0|2|11|77
+Tim Lincecum|R|Dilson Herrera|R|Walk|F|Four-Seam Fastball|72|1|0|2|11|87
+Tim Lincecum|R|Dilson Herrera|R|Walk|*B|Curveball|73|1|1|2|13|72
+Tim Lincecum|R|Dilson Herrera|R|Walk|S|Slider|74|2|1|2|14|78
+Tim Lincecum|R|Dilson Herrera|R|Walk|B|Changeup|75|2|2|2|14|81
+Tim Lincecum|R|Dilson Herrera|R|Walk|B|Slider|76|3|2|2|11|77
+Tim Lincecum|R|Eric Campbell|R|Lineout|X|Four-Seam Fastball|77|0|0|2|8|86
+Tim Lincecum|R|Jonathon Niese|L|Double|B|Changeup|78|0|0|0|11|85
+Tim Lincecum|R|Jonathon Niese|L|Double|B|Two-Seam Fastball|79|1|0|0|11|84
+Tim Lincecum|R|Jonathon Niese|L|Double|B|Two-Seam Fastball|80|2|0|0|11|85
+Tim Lincecum|R|Jonathon Niese|L|Double|C|Changeup|81|3|0|0|4|84
+Tim Lincecum|R|Jonathon Niese|L|Double|F|Changeup|82|3|1|0|5|85
+Tim Lincecum|R|Jonathon Niese|L|Double|D|Four-Seam Fastball|83|3|2|0|9|86
+Tim Lincecum|R|Curtis Granderson|L|Single|B|Changeup|84|0|0|0|13|81
+Tim Lincecum|R|Curtis Granderson|L|Single|B|Changeup|85|1|0|0|13|80
+Tim Lincecum|R|Curtis Granderson|L|Single|C|Changeup|86|2|0|0|11|79
+Tim Lincecum|R|Curtis Granderson|L|Single|S|Curveball|87|2|1|0|7|77
+Tim Lincecum|R|Curtis Granderson|L|Single|B|Four-Seam Fastball|88|2|2|0|11|86
+Tim Lincecum|R|Curtis Granderson|L|Single|D|Two-Seam Fastball|89|3|2|0|13|86
+Tim Lincecum|R|Juan Lagares|R|Flyout|B|Two-Seam Fastball|90|0|0|0|11|86
+Tim Lincecum|R|Juan Lagares|R|Flyout|S|Slider|91|1|0|0|14|78
+Tim Lincecum|R|Juan Lagares|R|Flyout|F|Slider|92|1|1|0|14|78
+Tim Lincecum|R|Juan Lagares|R|Flyout|X|Four-Seam Fastball|93|1|2|0|2|87
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|B|Curveball|94|0|0|1|14|72
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|B|Changeup|95|1|0|1|13|79
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|C|Two-Seam Fastball|96|2|0|1|4|85
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|B|Two-Seam Fastball|97|2|1|1|13|85
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|S|Changeup|98|3|1|1|12|78
+Tim Lincecum|R|Lucas Duda|L|Sac Fly|E|Slider|99|3|2|1|9|77
+Tim Lincecum|R|Michael Cuddyer|R|Double|*B|Slider|100|0|0|2|13|78
+Tim Lincecum|R|Michael Cuddyer|R|Double|E|Four-Seam Fastball|101|1|0|2|4|85
+Tim Lincecum|R|Logan Morrison|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|88
+Tim Lincecum|R|Logan Morrison|L|Groundout|X|Four-Seam Fastball|1|1|0|0|5|86
+Tim Lincecum|R|Seth Smith|L|Flyout|C|Curveball|2|0|0|1|4|75
+Tim Lincecum|R|Seth Smith|L|Flyout|S|Changeup|3|0|1|1|13|81
+Tim Lincecum|R|Seth Smith|L|Flyout|B|Curveball|4|0|2|1|13|75
+Tim Lincecum|R|Seth Smith|L|Flyout|F|Curveball|5|1|2|1|13|73
+Tim Lincecum|R|Seth Smith|L|Flyout|F|Four-Seam Fastball|6|1|2|1|13|88
+Tim Lincecum|R|Seth Smith|L|Flyout|B|Changeup|7|1|2|1|13|82
+Tim Lincecum|R|Seth Smith|L|Flyout|F|Changeup|8|2|2|1|13|82
+Tim Lincecum|R|Seth Smith|L|Flyout|X|Two-Seam Fastball|9|2|2|1|2|87
+Tim Lincecum|R|Robinson Cano|L|Groundout|B|Two-Seam Fastball|10|0|0|2|11|87
+Tim Lincecum|R|Robinson Cano|L|Groundout|C|Two-Seam Fastball|11|1|0|2|5|87
+Tim Lincecum|R|Robinson Cano|L|Groundout|S|Curveball|12|1|1|2|5|73
+Tim Lincecum|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|13|1|2|2|7|89
+Tim Lincecum|R|Nelson Cruz|R|Groundout|B|Four-Seam Fastball|14|0|0|0|13|87
+Tim Lincecum|R|Nelson Cruz|R|Groundout|X|Two-Seam Fastball|15|1|0|0|7|87
+Tim Lincecum|R|Kyle Seager|L|Flyout|C|Curveball|16|0|0|1|7|74
+Tim Lincecum|R|Kyle Seager|L|Flyout|C|Two-Seam Fastball|17|0|1|1|4|87
+Tim Lincecum|R|Kyle Seager|L|Flyout|F|Changeup|18|0|2|1|13|82
+Tim Lincecum|R|Kyle Seager|L|Flyout|B|Slider|19|0|2|1|13|79
+Tim Lincecum|R|Kyle Seager|L|Flyout|X|Changeup|20|1|2|1|11|82
+Tim Lincecum|R|James Jones|L|Walk|B|Changeup|21|0|0|2|13|83
+Tim Lincecum|R|James Jones|L|Walk|S|Curveball|22|1|0|2|13|74
+Tim Lincecum|R|James Jones|L|Walk|B|Four-Seam Fastball|23|1|1|2|11|88
+Tim Lincecum|R|James Jones|L|Walk|B|Two-Seam Fastball|24|2|1|2|11|86
+Tim Lincecum|R|James Jones|L|Walk|C|Two-Seam Fastball|25|3|1|2|7|86
+Tim Lincecum|R|James Jones|L|Walk|*B|Curveball|26|3|2|2|13|74
+Tim Lincecum|R|Brad Miller|L|Flyout|B|Two-Seam Fastball|27|0|0|2|13|87
+Tim Lincecum|R|Brad Miller|L|Flyout|B|Two-Seam Fastball|28|1|0|2|13|86
+Tim Lincecum|R|Brad Miller|L|Flyout|S|Changeup|29|2|0|2|14|80
+Tim Lincecum|R|Brad Miller|L|Flyout|X|Curveball|30|2|1|2|13|73
+Tim Lincecum|R|Mike Zunino|R|Strikeout|C|Curveball|31|0|0|0|7|73
+Tim Lincecum|R|Mike Zunino|R|Strikeout|B|Slider|32|0|1|0|14|77
+Tim Lincecum|R|Mike Zunino|R|Strikeout|C|Four-Seam Fastball|33|1|1|0|7|86
+Tim Lincecum|R|Mike Zunino|R|Strikeout|F|Curveball|34|1|2|0|13|74
+Tim Lincecum|R|Mike Zunino|R|Strikeout|F|Four-Seam Fastball|35|1|2|0|3|86
+Tim Lincecum|R|Mike Zunino|R|Strikeout|B|Changeup|36|1|2|0|14|80
+Tim Lincecum|R|Mike Zunino|R|Strikeout|T|Changeup|37|2|2|0|13|81
+Tim Lincecum|R|J.A. Happ|L|Walk|B|Two-Seam Fastball|38|0|0|1|11|86
+Tim Lincecum|R|J.A. Happ|L|Walk|B|Two-Seam Fastball|39|1|0|1|14|86
+Tim Lincecum|R|J.A. Happ|L|Walk|B|Changeup|40|2|0|1|11|84
+Tim Lincecum|R|J.A. Happ|L|Walk|B|Changeup|41|3|0|1|12|84
+Tim Lincecum|R|Logan Morrison|L|Flyout|X|Two-Seam Fastball|42|0|0|1|11|86
+Tim Lincecum|R|Seth Smith|L|Single|B|Changeup|43|0|0|2|11|80
+Tim Lincecum|R|Seth Smith|L|Single|B|Two-Seam Fastball|44|1|0|2|11|84
+Tim Lincecum|R|Seth Smith|L|Single|C|Two-Seam Fastball|45|2|0|2|13|86
+Tim Lincecum|R|Seth Smith|L|Single|D|Changeup|46|2|1|2|13|80
+Tim Lincecum|R|Robinson Cano|L|Groundout|C|Curveball|47|0|0|2|8|72
+Tim Lincecum|R|Robinson Cano|L|Groundout|X|Curveball|48|0|1|2|13|72
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|49|0|0|0|14|87
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|S|Slider|50|1|0|0|14|78
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|B|Changeup|51|1|1|0|13|81
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|C|Slider|52|2|1|0|3|77
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|53|2|2|0|14|86
+Tim Lincecum|R|Kyle Seager|L|Flyout|B|Curveball|54|0|0|1|13|72
+Tim Lincecum|R|Kyle Seager|L|Flyout|B|Two-Seam Fastball|55|1|0|1|14|86
+Tim Lincecum|R|Kyle Seager|L|Flyout|X|Changeup|56|2|0|1|4|79
+Tim Lincecum|R|James Jones|L|Flyout|S|Changeup|57|0|0|2|7|79
+Tim Lincecum|R|James Jones|L|Flyout|B|Curveball|58|0|1|2|13|72
+Tim Lincecum|R|James Jones|L|Flyout|B|Four-Seam Fastball|59|1|1|2|11|86
+Tim Lincecum|R|James Jones|L|Flyout|C|Two-Seam Fastball|60|2|1|2|3|85
+Tim Lincecum|R|James Jones|L|Flyout|X|Changeup|61|2|2|2|4|80
+Tim Lincecum|R|Brad Miller|L|Home Run|E|Curveball|62|0|0|0|7|71
+Tim Lincecum|R|Mike Zunino|R|Single|D|Curveball|63|0|0|0|7|75
+Tim Lincecum|R|J.A. Happ|L|Grounded Into DP|B|Changeup|64|0|0|0|13|84
+Tim Lincecum|R|J.A. Happ|L|Grounded Into DP|X|N/A|65|1|0|0|0|0
+Tim Lincecum|R|Logan Morrison|L|Walk|B|Two-Seam Fastball|66|0|0|2|13|85
+Tim Lincecum|R|Logan Morrison|L|Walk|C|Two-Seam Fastball|67|1|0|2|6|84
+Tim Lincecum|R|Logan Morrison|L|Walk|B|Changeup|68|1|1|2|13|80
+Tim Lincecum|R|Logan Morrison|L|Walk|F|Changeup|69|2|1|2|13|79
+Tim Lincecum|R|Logan Morrison|L|Walk|B|Four-Seam Fastball|70|2|2|2|11|87
+Tim Lincecum|R|Logan Morrison|L|Walk|B|Changeup|71|3|2|2|13|80
+Tim Lincecum|R|Seth Smith|L|Groundout|*B|Changeup|72|0|0|2|13|82
+Tim Lincecum|R|Seth Smith|L|Groundout|B|Four-Seam Fastball|73|1|0|2|11|85
+Tim Lincecum|R|Seth Smith|L|Groundout|F|Two-Seam Fastball|74|2|0|2|1|84
+Tim Lincecum|R|Seth Smith|L|Groundout|C|Two-Seam Fastball|75|2|1|2|3|85
+Tim Lincecum|R|Seth Smith|L|Groundout|X|Slider|76|2|2|2|8|78
+Tim Lincecum|R|Robinson Cano|L|Flyout|X|Slider|77|0|0|0|5|77
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|C|Two-Seam Fastball|78|0|0|1|4|86
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|79|0|1|1|11|86
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|80|1|1|1|11|86
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|B|Two-Seam Fastball|81|2|1|1|13|85
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|82|3|1|1|3|85
+Tim Lincecum|R|Nelson Cruz|R|Strikeout|C|Slider|83|3|2|1|12|77
+Tim Lincecum|R|Kyle Seager|L|Single|B|Four-Seam Fastball|84|0|0|2|7|85
+Tim Lincecum|R|Kyle Seager|L|Single|D|Changeup|85|1|0|2|1|78
+Tim Lincecum|R|James Jones|L|Walk|B|Changeup|86|0|0|2|11|79
+Tim Lincecum|R|James Jones|L|Walk|B|Changeup|87|1|0|2|11|84
+Tim Lincecum|R|James Jones|L|Walk|B|Changeup|88|2|0|2|13|83
+Tim Lincecum|R|James Jones|L|Walk|C|Changeup|89|3|0|2|13|82
+Tim Lincecum|R|James Jones|L|Walk|B|Changeup|90|3|1|2|11|82
+Tim Lincecum|R|Brad Miller|L|Single|B|Changeup|91|0|0|2|13|84
+Tim Lincecum|R|Brad Miller|L|Single|C|Changeup|92|1|0|2|9|78
+Tim Lincecum|R|Brad Miller|L|Single|E|Two-Seam Fastball|93|1|1|2|13|85
+Tim Lincecum|R|Yasiel Puig|R|Flyout|F|Two-Seam Fastball|0|0|0|0|13|88
+Tim Lincecum|R|Yasiel Puig|R|Flyout|X|Two-Seam Fastball|1|0|1|0|12|88
+Tim Lincecum|R|Joc Pederson|L|Strikeout|B|Two-Seam Fastball|2|0|0|1|11|88
+Tim Lincecum|R|Joc Pederson|L|Strikeout|C|Two-Seam Fastball|3|1|0|1|13|87
+Tim Lincecum|R|Joc Pederson|L|Strikeout|B|Changeup|4|1|1|1|14|82
+Tim Lincecum|R|Joc Pederson|L|Strikeout|F|Changeup|5|2|1|1|5|82
+Tim Lincecum|R|Joc Pederson|L|Strikeout|W|Curveball|6|2|2|1|14|76
+Tim Lincecum|R|Justin Turner|R|Walk|C|Two-Seam Fastball|7|0|0|2|5|89
+Tim Lincecum|R|Justin Turner|R|Walk|B|Changeup|8|0|1|2|14|83
+Tim Lincecum|R|Justin Turner|R|Walk|B|Four-Seam Fastball|9|1|1|2|12|88
+Tim Lincecum|R|Justin Turner|R|Walk|B|Two-Seam Fastball|10|2|1|2|13|88
+Tim Lincecum|R|Justin Turner|R|Walk|B|Slider|11|3|1|2|14|77
+Tim Lincecum|R|Adrian Gonzalez|L|Single|*B|Changeup|12|0|0|2|13|82
+Tim Lincecum|R|Adrian Gonzalez|L|Single|F|Two-Seam Fastball|13|1|0|2|13|88
+Tim Lincecum|R|Adrian Gonzalez|L|Single|D|Slider|14|1|1|2|4|78
+Tim Lincecum|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|15|0|0|2|4|88
+Tim Lincecum|R|Howie Kendrick|R|Single|F|Two-Seam Fastball|16|0|1|2|1|88
+Tim Lincecum|R|Howie Kendrick|R|Single|B|Four-Seam Fastball|17|0|2|2|12|87
+Tim Lincecum|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|18|1|2|2|11|88
+Tim Lincecum|R|Howie Kendrick|R|Single|B|Four-Seam Fastball|19|1|2|2|11|88
+Tim Lincecum|R|Howie Kendrick|R|Single|D|Changeup|20|2|2|2|9|83
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|W|Changeup|21|0|0|2|14|79
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|*B|Slider|22|0|1|2|14|78
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|F|Slider|23|1|1|2|8|78
+Tim Lincecum|R|Alex Guerrero|R|Strikeout|S|Slider|24|1|2|2|9|77
+Tim Lincecum|R|Yasmani Grandal|L|Single|B|Two-Seam Fastball|25|0|0|0|12|86
+Tim Lincecum|R|Yasmani Grandal|L|Single|B|Two-Seam Fastball|26|1|0|0|12|87
+Tim Lincecum|R|Yasmani Grandal|L|Single|D|Two-Seam Fastball|27|2|0|0|11|86
+Tim Lincecum|R|Jimmy Rollins|L|Single|C|Two-Seam Fastball|28|0|0|0|11|87
+Tim Lincecum|R|Jimmy Rollins|L|Single|D|Two-Seam Fastball|29|0|1|0|4|87
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|B|Two-Seam Fastball|30|0|0|0|11|88
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|L|Changeup|31|1|0|0|7|81
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|L|Curveball|32|1|1|0|14|74
+Tim Lincecum|R|Brett Anderson|L|Sac Bunt|X|Curveball|33|1|2|0|2|73
+Tim Lincecum|R|Yasiel Puig|R|Single|C|Curveball|34|0|0|1|1|74
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Slider|35|0|1|1|7|78
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|36|0|2|1|12|87
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Four-Seam Fastball|37|1|2|1|11|87
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Slider|38|1|2|1|14|77
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Slider|39|2|2|1|13|78
+Tim Lincecum|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|40|2|2|1|11|88
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Changeup|41|3|2|1|13|81
+Tim Lincecum|R|Yasiel Puig|R|Single|F|Curveball|42|3|2|1|13|76
+Tim Lincecum|R|Yasiel Puig|R|Single|E|Slider|43|3|2|1|9|78
+Tim Lincecum|R|Joc Pederson|L|Double|C|Curveball|44|0|0|1|11|73
+Tim Lincecum|R|Joc Pederson|L|Double|S|Curveball|45|0|1|1|13|73
+Tim Lincecum|R|Joc Pederson|L|Double|E|Curveball|46|0|2|1|1|73
+Tim Lincecum|R|Justin Turner|R|Single|C|Four-Seam Fastball|47|0|0|1|3|87
+Tim Lincecum|R|Justin Turner|R|Single|S|Two-Seam Fastball|48|0|1|1|3|86
+Tim Lincecum|R|Justin Turner|R|Single|*B|Slider|49|0|2|1|14|78
+Tim Lincecum|R|Justin Turner|R|Single|B|Four-Seam Fastball|50|1|2|1|11|86
+Tim Lincecum|R|Justin Turner|R|Single|F|Changeup|51|2|2|1|2|78
+Tim Lincecum|R|Justin Turner|R|Single|E|Curveball|52|2|2|1|8|75
+Tim Lincecum|R|Charlie Blackmon|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|85
+Tim Lincecum|R|Charlie Blackmon|L|Groundout|F|Two-Seam Fastball|1|1|0|0|3|85
+Tim Lincecum|R|Charlie Blackmon|L|Groundout|X|Curveball|2|1|1|0|13|73
+Tim Lincecum|R|DJ LeMahieu|R|Walk|B|Two-Seam Fastball|3|0|0|1|14|86
+Tim Lincecum|R|DJ LeMahieu|R|Walk|B|Two-Seam Fastball|4|1|0|1|11|85
+Tim Lincecum|R|DJ LeMahieu|R|Walk|B|Changeup|5|2|0|1|14|80
+Tim Lincecum|R|DJ LeMahieu|R|Walk|C|Changeup|6|3|0|1|6|85
+Tim Lincecum|R|DJ LeMahieu|R|Walk|C|Two-Seam Fastball|7|3|1|1|6|85
+Tim Lincecum|R|DJ LeMahieu|R|Walk|F|Two-Seam Fastball|8|3|2|1|6|85
+Tim Lincecum|R|DJ LeMahieu|R|Walk|B|Two-Seam Fastball|9|3|2|1|14|85
+Tim Lincecum|R|Troy Tulowitzki|R|Single|B|Curveball|10|0|0|1|13|71
+Tim Lincecum|R|Troy Tulowitzki|R|Single|*B|Curveball|11|1|0|1|13|73
+Tim Lincecum|R|Troy Tulowitzki|R|Single|B|Four-Seam Fastball|12|2|0|1|14|85
+Tim Lincecum|R|Troy Tulowitzki|R|Single|C|Changeup|13|3|0|1|1|85
+Tim Lincecum|R|Troy Tulowitzki|R|Single|S|Changeup|14|3|1|1|13|85
+Tim Lincecum|R|Troy Tulowitzki|R|Single|E|Two-Seam Fastball|15|3|2|1|7|85
+Tim Lincecum|R|Carlos Gonzalez|L|Flyout|X|Changeup|16|0|0|1|5|80
+Tim Lincecum|R|Nolan Arenado|R|Double|F|Changeup|17|0|0|2|2|84
+Tim Lincecum|R|Nolan Arenado|R|Double|C|Curveball|18|0|1|2|4|73
+Tim Lincecum|R|Nolan Arenado|R|Double|F|Four-Seam Fastball|19|0|2|2|11|86
+Tim Lincecum|R|Nolan Arenado|R|Double|B|Slider|20|0|2|2|14|78
+Tim Lincecum|R|Nolan Arenado|R|Double|E|Changeup|21|1|2|2|8|82
+Tim Lincecum|R|Wilin Rosario|R|Single|E|Curveball|22|0|0|2|14|73
+Tim Lincecum|R|Michael McKenry|R|Strikeout|C|Changeup|23|0|0|2|5|84
+Tim Lincecum|R|Michael McKenry|R|Strikeout|C|Curveball|24|0|1|2|5|72
+Tim Lincecum|R|Michael McKenry|R|Strikeout|B|Four-Seam Fastball|25|0|2|2|13|84
+Tim Lincecum|R|Michael McKenry|R|Strikeout|*B|Curveball|26|1|2|2|13|73
+Tim Lincecum|R|Michael McKenry|R|Strikeout|C|Slider|27|2|2|2|2|78
+Tim Lincecum|R|Brandon Barnes|R|Walk|B|Curveball|28|0|0|0|14|75
+Tim Lincecum|R|Brandon Barnes|R|Walk|B|Changeup|29|1|0|0|11|83
+Tim Lincecum|R|Brandon Barnes|R|Walk|C|Changeup|30|2|0|0|6|83
+Tim Lincecum|R|Brandon Barnes|R|Walk|B|Changeup|31|2|1|0|13|83
+Tim Lincecum|R|Brandon Barnes|R|Walk|B|Changeup|32|3|1|0|14|82
+Tim Lincecum|R|Chris Rusin|L|Forceout|X|Changeup|33|0|0|0|13|82
+Tim Lincecum|R|Charlie Blackmon|L|Double|B|Changeup|34|0|0|1|13|79
+Tim Lincecum|R|Charlie Blackmon|L|Double|B|Changeup|35|1|0|1|13|78
+Tim Lincecum|R|Charlie Blackmon|L|Double|S|Changeup|36|2|0|1|11|79
+Tim Lincecum|R|Charlie Blackmon|L|Double|B|Changeup|37|2|1|1|13|78
+Tim Lincecum|R|Charlie Blackmon|L|Double|C|Changeup|38|3|1|1|13|83
+Tim Lincecum|R|Charlie Blackmon|L|Double|D|Changeup|39|3|2|1|2|79
+Tim Lincecum|R|DJ LeMahieu|R|Fielders Choice Out|X|Changeup|40|0|0|1|5|79
+Tim Lincecum|R|Billy Burns|L|Lineout|B|Two-Seam Fastball|0|0|0|0|13|88
+Tim Lincecum|R|Billy Burns|L|Lineout|C|Two-Seam Fastball|1|1|0|0|11|87
+Tim Lincecum|R|Billy Burns|L|Lineout|B|Four-Seam Fastball|2|1|1|0|13|88
+Tim Lincecum|R|Billy Burns|L|Lineout|X|Changeup|3|2|1|0|13|82
+Tim Lincecum|R|Coco Crisp|L|Groundout|C|Two-Seam Fastball|4|0|0|1|13|88
+Tim Lincecum|R|Coco Crisp|L|Groundout|S|Changeup|5|0|1|1|13|81
+Tim Lincecum|R|Coco Crisp|L|Groundout|X|Changeup|6|0|2|1|11|83
+Tim Lincecum|R|Stephen Vogt|L|Double|C|Changeup|7|0|0|2|2|82
+Tim Lincecum|R|Stephen Vogt|L|Double|B|Two-Seam Fastball|8|0|1|2|13|89
+Tim Lincecum|R|Stephen Vogt|L|Double|F|Two-Seam Fastball|9|1|1|2|12|90
+Tim Lincecum|R|Stephen Vogt|L|Double|F|Changeup|10|1|2|2|8|83
+Tim Lincecum|R|Stephen Vogt|L|Double|B|Four-Seam Fastball|11|1|2|2|12|90
+Tim Lincecum|R|Stephen Vogt|L|Double|F|Two-Seam Fastball|12|2|2|2|4|89
+Tim Lincecum|R|Stephen Vogt|L|Double|B|Changeup|13|2|2|2|13|83
+Tim Lincecum|R|Stephen Vogt|L|Double|D|Two-Seam Fastball|14|3|2|2|11|88
+Tim Lincecum|R|Danny Valencia|R|Strikeout|C|Slider|15|0|0|2|8|82
+Tim Lincecum|R|Danny Valencia|R|Strikeout|C|Four-Seam Fastball|16|0|1|2|8|90
+Tim Lincecum|R|Danny Valencia|R|Strikeout|S|Changeup|17|0|2|2|13|82
+Tim Lincecum|R|Khris Davis|R|Flyout|B|Slider|18|0|0|0|11|80
+Tim Lincecum|R|Khris Davis|R|Flyout|S|Slider|19|1|0|0|4|82
+Tim Lincecum|R|Khris Davis|R|Flyout|B|Four-Seam Fastball|20|1|1|0|14|88
+Tim Lincecum|R|Khris Davis|R|Flyout|C|Four-Seam Fastball|21|2|1|0|14|88
+Tim Lincecum|R|Khris Davis|R|Flyout|F|Changeup|22|2|2|0|13|84
+Tim Lincecum|R|Khris Davis|R|Flyout|X|Four-Seam Fastball|23|2|2|0|7|88
+Tim Lincecum|R|Jed Lowrie|L|Single|C|Four-Seam Fastball|24|0|0|1|11|88
+Tim Lincecum|R|Jed Lowrie|L|Single|C|Four-Seam Fastball|25|0|1|1|11|89
+Tim Lincecum|R|Jed Lowrie|L|Single|F|Two-Seam Fastball|26|0|2|1|13|89
+Tim Lincecum|R|Jed Lowrie|L|Single|F|Four-Seam Fastball|27|0|2|1|11|89
+Tim Lincecum|R|Jed Lowrie|L|Single|B|Changeup|28|0|2|1|13|83
+Tim Lincecum|R|Jed Lowrie|L|Single|B|Changeup|29|1|2|1|14|83
+Tim Lincecum|R|Jed Lowrie|L|Single|D|Changeup|30|2|2|1|8|82
+Tim Lincecum|R|Yonder Alonso|L|Groundout|C|Four-Seam Fastball|31|0|0|1|1|88
+Tim Lincecum|R|Yonder Alonso|L|Groundout|F|Four-Seam Fastball|32|0|1|1|5|87
+Tim Lincecum|R|Yonder Alonso|L|Groundout|F|Changeup|33|0|2|1|13|83
+Tim Lincecum|R|Yonder Alonso|L|Groundout|F|Four-Seam Fastball|34|0|2|1|2|89
+Tim Lincecum|R|Yonder Alonso|L|Groundout|X|Changeup|35|0|2|1|8|82
+Tim Lincecum|R|Josh Phegley|R|Groundout|C|Slider|36|0|0|2|12|82
+Tim Lincecum|R|Josh Phegley|R|Groundout|F|Changeup|37|0|1|2|13|84
+Tim Lincecum|R|Josh Phegley|R|Groundout|X|Changeup|38|0|2|2|13|84
+Tim Lincecum|R|Marcus Semien|R|Groundout|B|Curveball|39|0|0|0|13|73
+Tim Lincecum|R|Marcus Semien|R|Groundout|B|Curveball|40|1|0|0|12|72
+Tim Lincecum|R|Marcus Semien|R|Groundout|F|Two-Seam Fastball|41|2|0|0|5|89
+Tim Lincecum|R|Marcus Semien|R|Groundout|F|Two-Seam Fastball|42|2|1|0|1|88
+Tim Lincecum|R|Marcus Semien|R|Groundout|X|Changeup|43|2|2|0|5|82
+Tim Lincecum|R|Billy Burns|L|Single|D|Curveball|44|0|0|1|4|75
+Tim Lincecum|R|Coco Crisp|L|Strikeout|C|Changeup|45|0|0|1|13|80
+Tim Lincecum|R|Coco Crisp|L|Strikeout|L|Changeup|46|0|1|1|7|82
+Tim Lincecum|R|Coco Crisp|L|Strikeout|B|Two-Seam Fastball|47|0|2|1|13|88
+Tim Lincecum|R|Coco Crisp|L|Strikeout|B|Four-Seam Fastball|48|1|2|1|11|88
+Tim Lincecum|R|Coco Crisp|L|Strikeout|B|Changeup|49|2|2|1|13|82
+Tim Lincecum|R|Coco Crisp|L|Strikeout|S|Changeup|50|3|2|1|13|81
+Tim Lincecum|R|Stephen Vogt|L|Walk|B|Changeup|51|0|0|2|13|82
+Tim Lincecum|R|Stephen Vogt|L|Walk|B|Changeup|52|1|0|2|13|80
+Tim Lincecum|R|Stephen Vogt|L|Walk|B|Changeup|53|2|0|2|9|81
+Tim Lincecum|R|Stephen Vogt|L|Walk|B|Two-Seam Fastball|54|3|0|2|13|88
+Tim Lincecum|R|Danny Valencia|R|Single|B|Four-Seam Fastball|55|0|0|2|11|86
+Tim Lincecum|R|Danny Valencia|R|Single|*B|Changeup|56|1|0|2|13|82
+Tim Lincecum|R|Danny Valencia|R|Single|B|Four-Seam Fastball|57|2|0|2|12|88
+Tim Lincecum|R|Danny Valencia|R|Single|E|Four-Seam Fastball|58|3|0|2|1|87
+Tim Lincecum|R|Khris Davis|R|Hit By Pitch|B|Slider|59|0|0|2|12|81
+Tim Lincecum|R|Khris Davis|R|Hit By Pitch|S|Slider|60|1|0|2|1|81
+Tim Lincecum|R|Khris Davis|R|Hit By Pitch|H|Four-Seam Fastball|61|1|1|2|11|88
+Tim Lincecum|R|Jed Lowrie|L|Groundout|S|Four-Seam Fastball|62|0|0|2|4|88
+Tim Lincecum|R|Jed Lowrie|L|Groundout|X|Changeup|63|0|1|2|13|82
+Tim Lincecum|R|Yonder Alonso|L|Groundout|C|Slider|64|0|0|0|8|79
+Tim Lincecum|R|Yonder Alonso|L|Groundout|B|Changeup|65|0|1|0|13|80
+Tim Lincecum|R|Yonder Alonso|L|Groundout|B|Changeup|66|1|1|0|13|80
+Tim Lincecum|R|Yonder Alonso|L|Groundout|X|Four-Seam Fastball|67|2|1|0|4|87
+Tim Lincecum|R|Josh Phegley|R|Pop Out|B|Four-Seam Fastball|68|0|0|1|11|88
+Tim Lincecum|R|Josh Phegley|R|Pop Out|F|Four-Seam Fastball|69|1|0|1|8|86
+Tim Lincecum|R|Josh Phegley|R|Pop Out|X|Four-Seam Fastball|70|1|1|1|13|87
+Tim Lincecum|R|Marcus Semien|R|Flyout|B|Two-Seam Fastball|71|0|0|2|13|87
+Tim Lincecum|R|Marcus Semien|R|Flyout|B|Slider|72|1|0|2|14|81
+Tim Lincecum|R|Marcus Semien|R|Flyout|X|Four-Seam Fastball|73|2|0|2|11|87
+Tim Lincecum|R|Billy Burns|L|Groundout|B|Changeup|74|0|0|0|14|79
+Tim Lincecum|R|Billy Burns|L|Groundout|C|Two-Seam Fastball|75|1|0|0|1|87
+Tim Lincecum|R|Billy Burns|L|Groundout|F|Two-Seam Fastball|76|1|1|0|4|88
+Tim Lincecum|R|Billy Burns|L|Groundout|F|Two-Seam Fastball|77|1|2|0|2|89
+Tim Lincecum|R|Billy Burns|L|Groundout|B|Curveball|78|1|2|0|14|75
+Tim Lincecum|R|Billy Burns|L|Groundout|X|Slider|79|2|2|0|4|80
+Tim Lincecum|R|Coco Crisp|L|Lineout|B|Two-Seam Fastball|80|0|0|1|13|88
+Tim Lincecum|R|Coco Crisp|L|Lineout|X|Two-Seam Fastball|81|1|0|1|4|87
+Tim Lincecum|R|Stephen Vogt|L|Flyout|C|Two-Seam Fastball|82|0|0|2|2|88
+Tim Lincecum|R|Stephen Vogt|L|Flyout|B|Changeup|83|0|1|2|13|82
+Tim Lincecum|R|Stephen Vogt|L|Flyout|F|Two-Seam Fastball|84|1|1|2|8|88
+Tim Lincecum|R|Stephen Vogt|L|Flyout|F|Changeup|85|1|2|2|13|82
+Tim Lincecum|R|Stephen Vogt|L|Flyout|X|Changeup|86|1|2|2|7|82
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Two-Seam Fastball|87|0|0|0|14|87
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Four-Seam Fastball|88|1|0|0|11|86
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Two-Seam Fastball|89|2|0|0|14|87
+Tim Lincecum|R|Danny Valencia|R|Walk|C|Two-Seam Fastball|90|3|0|0|11|87
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Four-Seam Fastball|91|3|1|0|3|87
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|S|Changeup|92|0|0|0|14|83
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|*B|Slider|93|0|1|0|13|80
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|B|Slider|94|1|1|0|11|81
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|B|Four-Seam Fastball|95|2|1|0|11|87
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|X|Four-Seam Fastball|96|3|1|0|9|87
+Tim Lincecum|R|Jed Lowrie|L|Lineout|X|Two-Seam Fastball|97|0|0|2|4|87
+Tim Lincecum|R|Coco Crisp|L|Lineout|B|Two-Seam Fastball|0|0|0|0|11|88
+Tim Lincecum|R|Coco Crisp|L|Lineout|C|Two-Seam Fastball|1|1|0|0|5|89
+Tim Lincecum|R|Coco Crisp|L|Lineout|S|Changeup|2|1|1|0|13|82
+Tim Lincecum|R|Coco Crisp|L|Lineout|F|Changeup|3|1|2|0|13|82
+Tim Lincecum|R|Coco Crisp|L|Lineout|X|Changeup|4|1|2|0|8|82
+Tim Lincecum|R|Max Muncy|L|Bunt Groundout|X|Two-Seam Fastball|5|0|0|1|8|88
+Tim Lincecum|R|Stephen Vogt|L|Single|B|Two-Seam Fastball|6|0|0|2|13|88
+Tim Lincecum|R|Stephen Vogt|L|Single|B|Changeup|7|1|0|2|13|81
+Tim Lincecum|R|Stephen Vogt|L|Single|B|Two-Seam Fastball|8|2|0|2|13|87
+Tim Lincecum|R|Stephen Vogt|L|Single|C|Two-Seam Fastball|9|3|0|2|4|87
+Tim Lincecum|R|Stephen Vogt|L|Single|C|Two-Seam Fastball|10|3|1|2|11|87
+Tim Lincecum|R|Stephen Vogt|L|Single|D|Two-Seam Fastball|11|3|2|2|11|88
+Tim Lincecum|R|Danny Valencia|R|Walk|*B|Changeup|12|0|0|2|14|81
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Changeup|13|1|0|2|11|80
+Tim Lincecum|R|Danny Valencia|R|Walk|C|Two-Seam Fastball|14|2|0|2|3|88
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Four-Seam Fastball|15|2|1|2|11|87
+Tim Lincecum|R|Danny Valencia|R|Walk|F|Two-Seam Fastball|16|3|1|2|13|87
+Tim Lincecum|R|Danny Valencia|R|Walk|B|Changeup|17|3|2|2|12|80
+Tim Lincecum|R|Khris Davis|R|Strikeout|B|Four-Seam Fastball|18|0|0|2|14|87
+Tim Lincecum|R|Khris Davis|R|Strikeout|C|Two-Seam Fastball|19|1|0|2|7|88
+Tim Lincecum|R|Khris Davis|R|Strikeout|C|Four-Seam Fastball|20|1|1|2|9|88
+Tim Lincecum|R|Khris Davis|R|Strikeout|F|Two-Seam Fastball|21|1|2|2|8|87
+Tim Lincecum|R|Khris Davis|R|Strikeout|*B|Changeup|22|1|2|2|13|82
+Tim Lincecum|R|Khris Davis|R|Strikeout|F|Four-Seam Fastball|23|2|2|2|7|87
+Tim Lincecum|R|Khris Davis|R|Strikeout|B|Changeup|24|2|2|2|11|81
+Tim Lincecum|R|Khris Davis|R|Strikeout|S|Changeup|25|3|2|2|13|82
+Tim Lincecum|R|Jed Lowrie|L|Single|B|Two-Seam Fastball|26|0|0|0|11|88
+Tim Lincecum|R|Jed Lowrie|L|Single|F|Two-Seam Fastball|27|1|0|0|2|87
+Tim Lincecum|R|Jed Lowrie|L|Single|T|Two-Seam Fastball|28|1|1|0|14|88
+Tim Lincecum|R|Jed Lowrie|L|Single|B|Two-Seam Fastball|29|1|2|0|13|83
+Tim Lincecum|R|Jed Lowrie|L|Single|F|Changeup|30|2|2|0|5|82
+Tim Lincecum|R|Jed Lowrie|L|Single|D|Changeup|31|2|2|0|7|82
+Tim Lincecum|R|Yonder Alonso|L|Single|*B|Two-Seam Fastball|32|0|0|0|14|88
+Tim Lincecum|R|Yonder Alonso|L|Single|D|Changeup|33|1|0|0|4|80
+Tim Lincecum|R|Marcus Semien|R|Home Run|B|Changeup|34|0|0|0|11|81
+Tim Lincecum|R|Marcus Semien|R|Home Run|C|Changeup|35|1|0|0|2|80
+Tim Lincecum|R|Marcus Semien|R|Home Run|E|Changeup|36|1|1|0|7|81
+Tim Lincecum|R|Arismendy Alcantara|L|Groundout|C|Two-Seam Fastball|37|0|0|0|9|87
+Tim Lincecum|R|Arismendy Alcantara|L|Groundout|F|Two-Seam Fastball|38|0|1|0|4|87
+Tim Lincecum|R|Arismendy Alcantara|L|Groundout|X|Curveball|39|0|2|0|4|74
+Tim Lincecum|R|Coco Crisp|L|Single|S|Changeup|40|0|0|1|7|80
+Tim Lincecum|R|Coco Crisp|L|Single|B|Curveball|41|0|1|1|13|73
+Tim Lincecum|R|Coco Crisp|L|Single|C|Two-Seam Fastball|42|1|1|1|7|86
+Tim Lincecum|R|Coco Crisp|L|Single|D|Two-Seam Fastball|43|1|2|1|11|87
+Tim Lincecum|R|Max Muncy|L|Single|C|Two-Seam Fastball|44|0|0|1|8|87
+Tim Lincecum|R|Max Muncy|L|Single|B|Changeup|45|0|1|1|14|79
+Tim Lincecum|R|Max Muncy|L|Single|W|Changeup|46|1|1|1|13|80
+Tim Lincecum|R|Max Muncy|L|Single|D|Changeup|47|1|2|1|13|80
+Tim Lincecum|R|Stephen Vogt|L|Single|B|Two-Seam Fastball|48|0|0|1|14|87
+Tim Lincecum|R|Stephen Vogt|L|Single|F|Two-Seam Fastball|49|1|0|1|11|87
+Tim Lincecum|R|Stephen Vogt|L|Single|F|Two-Seam Fastball|50|1|1|1|11|87
+Tim Lincecum|R|Stephen Vogt|L|Single|F|Curveball|51|1|2|1|9|75
+Tim Lincecum|R|Stephen Vogt|L|Single|F|Two-Seam Fastball|52|1|2|1|6|88
+Tim Lincecum|R|Stephen Vogt|L|Single|B|Changeup|53|1|2|1|13|81
+Tim Lincecum|R|Stephen Vogt|L|Single|E|Changeup|54|2|2|1|13|80
+Tim Lincecum|R|Danny Valencia|R|Single|S|Changeup|55|0|0|1|9|81
+Tim Lincecum|R|Danny Valencia|R|Single|C|Four-Seam Fastball|56|0|1|1|5|88
+Tim Lincecum|R|Danny Valencia|R|Single|D|Four-Seam Fastball|57|0|2|1|9|88
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|B|Four-Seam Fastball|58|0|0|1|14|87
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|S|Changeup|59|1|0|1|13|80
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|B|Four-Seam Fastball|60|1|1|1|11|88
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|F|Two-Seam Fastball|61|2|1|1|5|88
+Tim Lincecum|R|Khris Davis|R|Grounded Into DP|X|Two-Seam Fastball|62|2|2|1|5|87
+Tim Lincecum|R|Jed Lowrie|L|Walk|C|Two-Seam Fastball|63|0|0|0|3|87
+Tim Lincecum|R|Jed Lowrie|L|Walk|B|Curveball|64|0|1|0|13|72
+Tim Lincecum|R|Jed Lowrie|L|Walk|B|Curveball|65|1|1|0|13|72
+Tim Lincecum|R|Jed Lowrie|L|Walk|C|Two-Seam Fastball|66|2|1|0|1|86
+Tim Lincecum|R|Jed Lowrie|L|Walk|B|Changeup|67|2|2|0|13|79
+Tim Lincecum|R|Jed Lowrie|L|Walk|B|Two-Seam Fastball|68|3|2|0|11|87
+Tim Lincecum|R|Yonder Alonso|L|Flyout|S|Changeup|69|0|0|0|13|79
+Tim Lincecum|R|Yonder Alonso|L|Flyout|S|Two-Seam Fastball|70|0|1|0|11|86
+Tim Lincecum|R|Yonder Alonso|L|Flyout|B|Changeup|71|0|2|0|13|80
+Tim Lincecum|R|Yonder Alonso|L|Flyout|B|Changeup|72|1|2|0|13|79
+Tim Lincecum|R|Yonder Alonso|L|Flyout|B|Two-Seam Fastball|73|2|2|0|12|88
+Tim Lincecum|R|Yonder Alonso|L|Flyout|X|Two-Seam Fastball|74|3|2|0|2|86
+Tim Lincecum|R|Marcus Semien|R|Forceout|B|Four-Seam Fastball|75|0|0|1|14|87
+Tim Lincecum|R|Marcus Semien|R|Forceout|F|Changeup|76|1|0|1|14|81
+Tim Lincecum|R|Marcus Semien|R|Forceout|C|Changeup|77|1|1|1|14|81
+Tim Lincecum|R|Marcus Semien|R|Forceout|F|Changeup|78|1|2|1|13|80
+Tim Lincecum|R|Marcus Semien|R|Forceout|X|Four-Seam Fastball|79|1|2|1|3|87
+Tim Lincecum|R|Arismendy Alcantara|L|Strikeout|S|Changeup|80|0|0|2|7|80
+Tim Lincecum|R|Arismendy Alcantara|L|Strikeout|F|Two-Seam Fastball|81|0|1|2|11|87
+Tim Lincecum|R|Arismendy Alcantara|L|Strikeout|S|Changeup|82|0|2|2|7|81
+Tim Lincecum|R|George Springer|R|Walk|B|Two-Seam Fastball|0|0|0|0|13|87
+Tim Lincecum|R|George Springer|R|Walk|B|Changeup|1|1|0|0|11|79
+Tim Lincecum|R|George Springer|R|Walk|B|Two-Seam Fastball|2|2|0|0|11|87
+Tim Lincecum|R|George Springer|R|Walk|B|Two-Seam Fastball|3|3|0|0|14|86
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|C|Two-Seam Fastball|4|0|0|0|1|87
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|F|Changeup|5|0|1|0|13|80
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|*B|Changeup|6|0|2|0|13|81
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|*B|Changeup|7|1|2|0|14|82
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|C|Changeup|8|2|2|0|1|81
+Tim Lincecum|R|Jose Altuve|R|Walk|B|Changeup|9|0|0|1|11|80
+Tim Lincecum|R|Jose Altuve|R|Walk|B|Two-Seam Fastball|10|1|0|1|11|88
+Tim Lincecum|R|Jose Altuve|R|Walk|B|Changeup|11|2|0|1|12|83
+Tim Lincecum|R|Jose Altuve|R|Walk|B|Two-Seam Fastball|12|3|0|1|11|88
+Tim Lincecum|R|Carlos Correa|R|Home Run|B|Four-Seam Fastball|13|0|0|1|11|88
+Tim Lincecum|R|Carlos Correa|R|Home Run|*B|Changeup|14|1|0|1|14|80
+Tim Lincecum|R|Carlos Correa|R|Home Run|E|Two-Seam Fastball|15|2|0|1|8|86
+Tim Lincecum|R|Colby Rasmus|L|Strikeout|C|Two-Seam Fastball|16|0|0|1|13|86
+Tim Lincecum|R|Colby Rasmus|L|Strikeout|S|Changeup|17|0|1|1|13|80
+Tim Lincecum|R|Colby Rasmus|L|Strikeout|S|Two-Seam Fastball|18|0|2|1|12|89
+Tim Lincecum|R|Marwin Gonzalez|L|Strikeout|B|Changeup|19|0|0|2|13|80
+Tim Lincecum|R|Marwin Gonzalez|L|Strikeout|B|Two-Seam Fastball|20|1|0|2|11|86
+Tim Lincecum|R|Marwin Gonzalez|L|Strikeout|C|Two-Seam Fastball|21|2|0|2|13|88
+Tim Lincecum|R|Marwin Gonzalez|L|Strikeout|C|Two-Seam Fastball|22|2|1|2|14|87
+Tim Lincecum|R|Marwin Gonzalez|L|Strikeout|W|Curveball|23|2|2|2|14|74
+Tim Lincecum|R|Carlos Gomez|R|Lineout|B|Changeup|24|0|0|0|14|81
+Tim Lincecum|R|Carlos Gomez|R|Lineout|B|Changeup|25|1|0|0|11|82
+Tim Lincecum|R|Carlos Gomez|R|Lineout|C|Two-Seam Fastball|26|2|0|0|5|87
+Tim Lincecum|R|Carlos Gomez|R|Lineout|F|Changeup|27|2|1|0|13|80
+Tim Lincecum|R|Carlos Gomez|R|Lineout|B|Changeup|28|2|2|0|14|82
+Tim Lincecum|R|Carlos Gomez|R|Lineout|X|Two-Seam Fastball|29|3|2|0|1|88
+Tim Lincecum|R|Evan Gattis|R|Single|B|Curveball|30|0|0|1|13|74
+Tim Lincecum|R|Evan Gattis|R|Single|D|Four-Seam Fastball|31|1|0|1|11|88
+Tim Lincecum|R|Jason Castro|L|Strikeout|B|Two-Seam Fastball|32|0|0|1|13|86
+Tim Lincecum|R|Jason Castro|L|Strikeout|C|Two-Seam Fastball|33|1|0|1|5|86
+Tim Lincecum|R|Jason Castro|L|Strikeout|C|Curveball|34|1|1|1|6|73
+Tim Lincecum|R|Jason Castro|L|Strikeout|S|Changeup|35|1|2|1|13|82
+Tim Lincecum|R|George Springer|R|Groundout|B|Four-Seam Fastball|36|0|0|2|13|87
+Tim Lincecum|R|George Springer|R|Groundout|B|Two-Seam Fastball|37|1|0|2|11|87
+Tim Lincecum|R|George Springer|R|Groundout|B|Changeup|38|2|0|2|13|80
+Tim Lincecum|R|George Springer|R|Groundout|X|Two-Seam Fastball|39|3|0|2|5|86
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|C|Curveball|40|0|0|0|6|72
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|B|Two-Seam Fastball|41|0|1|0|14|86
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|F|Changeup|42|1|1|0|4|80
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|B|Curveball|43|1|2|0|13|74
+Tim Lincecum|R|Luis Valbuena|L|Strikeout|S|Changeup|44|2|2|0|13|81
+Tim Lincecum|R|Jose Altuve|R|Pop Out|C|Curveball|45|0|0|1|12|73
+Tim Lincecum|R|Jose Altuve|R|Pop Out|S|Changeup|46|0|1|1|5|80
+Tim Lincecum|R|Jose Altuve|R|Pop Out|X|Slider|47|0|2|1|2|79
+Tim Lincecum|R|Carlos Correa|R|Double|C|Two-Seam Fastball|48|0|0|2|14|89
+Tim Lincecum|R|Carlos Correa|R|Double|B|Two-Seam Fastball|49|0|1|2|11|88
+Tim Lincecum|R|Carlos Correa|R|Double|B|Slider|50|1|1|2|11|79
+Tim Lincecum|R|Carlos Correa|R|Double|D|Changeup|51|2|1|2|13|80
+Tim Lincecum|R|Colby Rasmus|L|Flyout|B|Changeup|52|0|0|2|11|80
+Tim Lincecum|R|Colby Rasmus|L|Flyout|W|Changeup|53|1|0|2|13|80
+Tim Lincecum|R|Colby Rasmus|L|Flyout|X|Two-Seam Fastball|54|1|1|2|7|88
+Tim Lincecum|R|Marwin Gonzalez|L|Triple|D|Two-Seam Fastball|55|0|0|0|4|86
+Tim Lincecum|R|Carlos Gomez|R|Double|B|Two-Seam Fastball|56|0|0|0|13|86
+Tim Lincecum|R|Carlos Gomez|R|Double|E|Changeup|57|1|0|0|11|80
+Tim Lincecum|R|Evan Gattis|R|Strikeout|F|Changeup|58|0|0|0|6|80
+Tim Lincecum|R|Evan Gattis|R|Strikeout|S|Changeup|59|0|1|0|13|80
+Tim Lincecum|R|Evan Gattis|R|Strikeout|F|Changeup|60|0|2|0|8|81
+Tim Lincecum|R|Evan Gattis|R|Strikeout|*B|Changeup|61|0|2|0|13|81
+Tim Lincecum|R|Evan Gattis|R|Strikeout|S|Changeup|62|1|2|0|13|80
+Tim Lincecum|R|Jason Castro|L|Strikeout|B|Changeup|63|0|0|1|14|80
+Tim Lincecum|R|Jason Castro|L|Strikeout|S|Changeup|64|1|0|1|5|80
+Tim Lincecum|R|Jason Castro|L|Strikeout|S|Changeup|65|1|1|1|8|79
+Tim Lincecum|R|Jason Castro|L|Strikeout|*B|Changeup|66|1|2|1|13|82
+Tim Lincecum|R|Jason Castro|L|Strikeout|S|Changeup|67|2|2|1|13|81
+Tim Lincecum|R|George Springer|R|Walk|B|Four-Seam Fastball|68|0|0|2|13|88
+Tim Lincecum|R|George Springer|R|Walk|C|Two-Seam Fastball|69|1|0|2|12|88
+Tim Lincecum|R|George Springer|R|Walk|*B|Curveball|70|1|1|2|14|74
+Tim Lincecum|R|George Springer|R|Walk|F|Changeup|71|2|1|2|4|79
+Tim Lincecum|R|George Springer|R|Walk|B|Changeup|72|2|2|2|13|82
+Tim Lincecum|R|George Springer|R|Walk|B|Changeup|73|3|2|2|13|80
+Tim Lincecum|R|Luis Valbuena|L|Groundout|B|Two-Seam Fastball|74|0|0|2|11|86
+Tim Lincecum|R|Luis Valbuena|L|Groundout|*B|Two-Seam Fastball|75|1|0|2|13|84
+Tim Lincecum|R|Luis Valbuena|L|Groundout|F|Two-Seam Fastball|76|2|0|2|4|86
+Tim Lincecum|R|Luis Valbuena|L|Groundout|F|Changeup|77|2|1|2|13|79
+Tim Lincecum|R|Luis Valbuena|L|Groundout|B|Two-Seam Fastball|78|2|2|2|12|85
+Tim Lincecum|R|Luis Valbuena|L|Groundout|F|Two-Seam Fastball|79|3|2|2|11|85
+Tim Lincecum|R|Luis Valbuena|L|Groundout|F|Changeup|80|3|2|2|14|80
+Tim Lincecum|R|Luis Valbuena|L|Groundout|X|Changeup|81|3|2|2|4|80
+Tim Lincecum|R|Jose Altuve|R|Single|S|Curveball|82|0|0|0|13|72
+Tim Lincecum|R|Jose Altuve|R|Single|B|Curveball|83|0|1|0|11|71
+Tim Lincecum|R|Jose Altuve|R|Single|F|Curveball|84|1|1|0|13|71
+Tim Lincecum|R|Jose Altuve|R|Single|X|Four-Seam Fastball|85|1|2|0|11|88
+Tim Lincecum|R|Carlos Correa|R|Walk|B|Changeup|86|0|0|1|14|80
+Tim Lincecum|R|Carlos Correa|R|Walk|B|Changeup|87|1|0|1|13|79
+Tim Lincecum|R|Carlos Correa|R|Walk|C|Changeup|88|2|0|1|2|79
+Tim Lincecum|R|Carlos Correa|R|Walk|B|Two-Seam Fastball|89|2|1|1|14|86
+Tim Lincecum|R|Carlos Correa|R|Walk|S|Changeup|90|3|1|1|8|81
+Tim Lincecum|R|Carlos Correa|R|Walk|B|Two-Seam Fastball|91|3|2|1|12|85
+Tim Lincecum|R|Colby Rasmus|L|Single|S|Two-Seam Fastball|92|0|0|1|7|85
+Tim Lincecum|R|Colby Rasmus|L|Single|S|Changeup|93|0|1|1|13|78
+Tim Lincecum|R|Colby Rasmus|L|Single|B|Changeup|94|0|2|1|13|80
+Tim Lincecum|R|Colby Rasmus|L|Single|*B|Changeup|95|1|2|1|13|79
+Tim Lincecum|R|Colby Rasmus|L|Single|F|Two-Seam Fastball|96|2|2|1|6|86
+Tim Lincecum|R|Colby Rasmus|L|Single|F|Changeup|97|2|2|1|14|78
+Tim Lincecum|R|Colby Rasmus|L|Single|B|Two-Seam Fastball|98|2|2|1|13|86
+Tim Lincecum|R|Colby Rasmus|L|Single|F|Changeup|99|3|2|1|5|78
+Tim Lincecum|R|Colby Rasmus|L|Single|D|Changeup|100|3|2|1|8|78
+Tim Lincecum|R|Logan Forsythe|R|Single|C|Four-Seam Fastball|0|0|0|0|5|89
+Tim Lincecum|R|Logan Forsythe|R|Single|B|Changeup|1|0|1|0|14|85
+Tim Lincecum|R|Logan Forsythe|R|Single|B|Two-Seam Fastball|2|1|1|0|11|87
+Tim Lincecum|R|Logan Forsythe|R|Single|B|Four-Seam Fastball|3|2|1|0|11|87
+Tim Lincecum|R|Logan Forsythe|R|Single|D|Two-Seam Fastball|4|3|1|0|5|87
+Tim Lincecum|R|Brad Miller|L|Strikeout|B|Two-Seam Fastball|5|0|0|0|11|87
+Tim Lincecum|R|Brad Miller|L|Strikeout|C|Changeup|6|1|0|0|14|80
+Tim Lincecum|R|Brad Miller|L|Strikeout|B|Two-Seam Fastball|7|1|1|0|11|87
+Tim Lincecum|R|Brad Miller|L|Strikeout|S|Changeup|8|2|1|0|13|81
+Tim Lincecum|R|Brad Miller|L|Strikeout|S|Changeup|9|2|2|0|8|82
+Tim Lincecum|R|Evan Longoria|R|Single|B|Four-Seam Fastball|10|0|0|1|13|88
+Tim Lincecum|R|Evan Longoria|R|Single|D|Four-Seam Fastball|11|1|0|1|5|86
+Tim Lincecum|R|Logan Morrison|L|Forceout|B|Changeup|12|0|0|1|9|81
+Tim Lincecum|R|Logan Morrison|L|Forceout|F|Changeup|13|1|0|1|5|81
+Tim Lincecum|R|Logan Morrison|L|Forceout|*B|Changeup|14|1|1|1|13|81
+Tim Lincecum|R|Logan Morrison|L|Forceout|C|Changeup|15|2|1|1|6|80
+Tim Lincecum|R|Logan Morrison|L|Forceout|F|Four-Seam Fastball|16|2|2|1|5|88
+Tim Lincecum|R|Logan Morrison|L|Forceout|B|Two-Seam Fastball|17|2|2|1|12|88
+Tim Lincecum|R|Logan Morrison|L|Forceout|X|Changeup|18|3|2|1|8|80
+Tim Lincecum|R|Steven Souza Jr.|R|Single|F|Changeup|19|0|0|2|9|84
+Tim Lincecum|R|Steven Souza Jr.|R|Single|S|Changeup|20|0|1|2|13|80
+Tim Lincecum|R|Steven Souza Jr.|R|Single|E|Changeup|21|0|2|2|7|82
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|B|Changeup|22|0|0|2|13|80
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|B|Changeup|23|1|0|2|13|80
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|B|Two-Seam Fastball|24|2|0|2|11|87
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|S|Two-Seam Fastball|25|3|0|2|1|88
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|S|Four-Seam Fastball|26|3|1|2|13|87
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|27|3|2|2|4|87
+Tim Lincecum|R|Corey Dickerson|L|Strikeout|S|Four-Seam Fastball|28|3|2|2|11|87
+Tim Lincecum|R|Nick Franklin|L|Single|B|Four-Seam Fastball|29|0|0|0|12|86
+Tim Lincecum|R|Nick Franklin|L|Single|L|Curveball|30|1|0|0|5|72
+Tim Lincecum|R|Nick Franklin|L|Single|B|Curveball|31|1|1|0|14|73
+Tim Lincecum|R|Nick Franklin|L|Single|F|Changeup|32|2|1|0|8|80
+Tim Lincecum|R|Nick Franklin|L|Single|D|Four-Seam Fastball|33|2|2|0|1|87
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|B|Changeup|34|0|0|0|11|79
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|B|Four-Seam Fastball|35|1|0|0|11|87
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|C|Two-Seam Fastball|36|2|0|0|13|85
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|F|Changeup|37|2|1|0|13|81
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|F|Slider|38|2|2|0|14|81
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|S|Changeup|39|2|2|0|13|81
+Tim Lincecum|R|Hank Conger|L|Strikeout|B|Changeup|40|0|0|1|13|80
+Tim Lincecum|R|Hank Conger|L|Strikeout|B|Changeup|41|1|0|1|13|80
+Tim Lincecum|R|Hank Conger|L|Strikeout|S|Changeup|42|2|0|1|13|79
+Tim Lincecum|R|Hank Conger|L|Strikeout|F|Changeup|43|2|1|1|4|80
+Tim Lincecum|R|Hank Conger|L|Strikeout|F|Changeup|44|2|2|1|2|81
+Tim Lincecum|R|Hank Conger|L|Strikeout|S|Changeup|45|2|2|1|13|81
+Tim Lincecum|R|Logan Forsythe|R|Forceout|C|Changeup|46|0|0|2|4|81
+Tim Lincecum|R|Logan Forsythe|R|Forceout|*B|Slider|47|0|1|2|13|80
+Tim Lincecum|R|Logan Forsythe|R|Forceout|X|Changeup|48|1|1|2|11|80
+Tim Lincecum|R|Brad Miller|L|Groundout|B|Curveball|49|0|0|0|14|72
+Tim Lincecum|R|Brad Miller|L|Groundout|C|Slider|50|1|0|0|2|79
+Tim Lincecum|R|Brad Miller|L|Groundout|B|Four-Seam Fastball|51|1|1|0|11|86
+Tim Lincecum|R|Brad Miller|L|Groundout|F|Slider|52|2|1|0|5|80
+Tim Lincecum|R|Brad Miller|L|Groundout|F|Changeup|53|2|2|0|7|82
+Tim Lincecum|R|Brad Miller|L|Groundout|X|Changeup|54|2|2|0|7|82
+Tim Lincecum|R|Evan Longoria|R|Groundout|C|Changeup|55|0|0|1|8|82
+Tim Lincecum|R|Evan Longoria|R|Groundout|B|Curveball|56|0|1|1|1|74
+Tim Lincecum|R|Evan Longoria|R|Groundout|T|Four-Seam Fastball|57|1|1|1|5|88
+Tim Lincecum|R|Evan Longoria|R|Groundout|B|Changeup|58|1|2|1|14|83
+Tim Lincecum|R|Evan Longoria|R|Groundout|X|Changeup|59|2|2|1|14|82
+Tim Lincecum|R|Logan Morrison|L|Home Run|E|Changeup|60|0|0|2|4|81
+Tim Lincecum|R|Steven Souza Jr.|R|Triple|B|Four-Seam Fastball|61|0|0|2|13|88
+Tim Lincecum|R|Steven Souza Jr.|R|Triple|S|Changeup|62|1|0|2|5|81
+Tim Lincecum|R|Steven Souza Jr.|R|Triple|B|Four-Seam Fastball|63|1|1|2|13|89
+Tim Lincecum|R|Steven Souza Jr.|R|Triple|D|Slider|64|2|1|2|8|81
+Tim Lincecum|R|Corey Dickerson|L|Single|B|Four-Seam Fastball|65|0|0|2|11|87
+Tim Lincecum|R|Corey Dickerson|L|Single|B|Changeup|66|1|0|2|13|80
+Tim Lincecum|R|Corey Dickerson|L|Single|B|Four-Seam Fastball|67|2|0|2|11|87
+Tim Lincecum|R|Corey Dickerson|L|Single|C|Four-Seam Fastball|68|3|0|2|8|87
+Tim Lincecum|R|Corey Dickerson|L|Single|E|Four-Seam Fastball|69|3|1|2|4|87
+Tim Lincecum|R|Nick Franklin|L|Caught Stealing 2B|S|Changeup|70|0|0|2|1|81
+Tim Lincecum|R|Nick Franklin|L|Single|B|Changeup|71|0|0|0|14|79
+Tim Lincecum|R|Nick Franklin|L|Single|C|Two-Seam Fastball|72|1|0|0|11|86
+Tim Lincecum|R|Nick Franklin|L|Single|D|Changeup|73|1|1|0|7|80
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|B|Four-Seam Fastball|74|0|0|0|12|86
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|F|Two-Seam Fastball|75|1|0|0|4|86
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|*B|Changeup|76|1|1|0|13|80
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|S|Changeup|77|2|1|0|7|79
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|F|Curveball|78|2|2|0|1|72
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|*B|Changeup|79|2|2|0|13|80
+Tim Lincecum|R|Oswaldo Arcia|L|Strikeout|T|Curveball|80|3|2|0|8|72
+Tim Lincecum|R|Hank Conger|L|Fielders Choice Out|B|Curveball|81|0|0|1|13|71
+Tim Lincecum|R|Hank Conger|L|Fielders Choice Out|B|Changeup|82|1|0|1|12|79
+Tim Lincecum|R|Hank Conger|L|Fielders Choice Out|B|Changeup|83|2|0|1|11|79
+Tim Lincecum|R|Hank Conger|L|Fielders Choice Out|C|Four-Seam Fastball|84|3|0|1|13|85
+Tim Lincecum|R|Hank Conger|L|Fielders Choice Out|X|Four-Seam Fastball|85|3|1|1|13|87
+Tim Lincecum|R|Logan Forsythe|R|Walk|B|Curveball|86|0|0|2|14|73
+Tim Lincecum|R|Logan Forsythe|R|Walk|B|Changeup|87|1|0|2|13|81
+Tim Lincecum|R|Logan Forsythe|R|Walk|B|Changeup|88|2|0|2|14|80
+Tim Lincecum|R|Logan Forsythe|R|Walk|B|Four-Seam Fastball|89|3|0|2|11|86
+Tim Lincecum|R|Brad Miller|L|Groundout|F|Changeup|90|0|0|2|5|80
+Tim Lincecum|R|Brad Miller|L|Groundout|*B|Changeup|91|0|1|2|13|80
+Tim Lincecum|R|Brad Miller|L|Groundout|X|Changeup|92|1|1|2|11|79
+Tim Lincecum|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|93|0|0|0|11|86
+Tim Lincecum|R|Evan Longoria|R|Strikeout|C|Changeup|94|1|0|0|5|80
+Tim Lincecum|R|Evan Longoria|R|Strikeout|S|Changeup|95|1|1|0|13|79
+Tim Lincecum|R|Evan Longoria|R|Strikeout|S|Changeup|96|1|2|0|13|79
+Tim Lincecum|R|Logan Morrison|L|Flyout|S|Changeup|97|0|0|1|13|80
+Tim Lincecum|R|Logan Morrison|L|Flyout|S|Two-Seam Fastball|98|0|1|1|1|86
+Tim Lincecum|R|Logan Morrison|L|Flyout|X|Changeup|99|0|2|1|11|81
+Tim Lincecum|R|Brandon Guyer|R|Hit By Pitch|B|Slider|100|0|0|2|12|79
+Tim Lincecum|R|Brandon Guyer|R|Hit By Pitch|B|Slider|101|1|0|2|11|77
+Tim Lincecum|R|Brandon Guyer|R|Hit By Pitch|H|Changeup|102|2|0|2|13|78
+Tim Lincecum|R|Corey Dickerson|L|Double|D|Four-Seam Fastball|103|0|0|2|4|86
+Tim Lincecum|R|Nick Franklin|L|Single|E|Changeup|104|0|0|2|1|79
+Tim Lincecum|R|Adam Jones|R|Single|C|Changeup|0|0|0|0|14|80
+Tim Lincecum|R|Adam Jones|R|Single|F|Two-Seam Fastball|1|0|1|0|8|87
+Tim Lincecum|R|Adam Jones|R|Single|F|Changeup|2|0|2|0|6|81
+Tim Lincecum|R|Adam Jones|R|Single|D|Curveball|3|0|2|0|7|75
+Tim Lincecum|R|Hyun Soo Kim|L|Groundout|F|Two-Seam Fastball|4|0|0|0|4|87
+Tim Lincecum|R|Hyun Soo Kim|L|Groundout|S|Changeup|5|0|1|0|1|80
+Tim Lincecum|R|Hyun Soo Kim|L|Groundout|X|Curveball|6|0|2|0|13|75
+Tim Lincecum|R|Manny Machado|R|Groundout|*B|Changeup|7|0|0|1|14|81
+Tim Lincecum|R|Manny Machado|R|Groundout|C|Two-Seam Fastball|8|1|0|1|9|88
+Tim Lincecum|R|Manny Machado|R|Groundout|B|Changeup|9|1|1|1|14|82
+Tim Lincecum|R|Manny Machado|R|Groundout|X|Two-Seam Fastball|10|2|1|1|4|88
+Tim Lincecum|R|Mark Trumbo|R|Groundout|B|Curveball|11|0|0|2|13|74
+Tim Lincecum|R|Mark Trumbo|R|Groundout|X|Changeup|12|1|0|2|8|78
+Tim Lincecum|R|Chris Davis|L|Strikeout|C|Changeup|13|0|0|0|4|80
+Tim Lincecum|R|Chris Davis|L|Strikeout|B|Two-Seam Fastball|14|0|1|0|13|88
+Tim Lincecum|R|Chris Davis|L|Strikeout|S|Changeup|15|1|1|0|4|80
+Tim Lincecum|R|Chris Davis|L|Strikeout|B|Two-Seam Fastball|16|1|2|0|11|88
+Tim Lincecum|R|Chris Davis|L|Strikeout|B|Changeup|17|2|2|0|13|79
+Tim Lincecum|R|Chris Davis|L|Strikeout|C|Two-Seam Fastball|18|3|2|0|7|88
+Tim Lincecum|R|Matt Wieters|L|Lineout|B|Changeup|19|0|0|1|13|80
+Tim Lincecum|R|Matt Wieters|L|Lineout|C|Two-Seam Fastball|20|1|0|1|9|87
+Tim Lincecum|R|Matt Wieters|L|Lineout|S|Curveball|21|1|1|1|13|73
+Tim Lincecum|R|Matt Wieters|L|Lineout|F|Curveball|22|1|2|1|6|74
+Tim Lincecum|R|Matt Wieters|L|Lineout|F|Slider|23|1|2|1|8|80
+Tim Lincecum|R|Matt Wieters|L|Lineout|B|Two-Seam Fastball|24|1|2|1|13|89
+Tim Lincecum|R|Matt Wieters|L|Lineout|B|Two-Seam Fastball|25|2|2|1|13|88
+Tim Lincecum|R|Matt Wieters|L|Lineout|F|Slider|26|3|2|1|5|81
+Tim Lincecum|R|Matt Wieters|L|Lineout|F|Four-Seam Fastball|27|3|2|1|5|89
+Tim Lincecum|R|Matt Wieters|L|Lineout|X|Changeup|28|3|2|1|7|81
+Tim Lincecum|R|Jonathan Schoop|R|Single|C|Four-Seam Fastball|29|0|0|2|9|88
+Tim Lincecum|R|Jonathan Schoop|R|Single|B|Changeup|30|0|1|2|14|81
+Tim Lincecum|R|Jonathan Schoop|R|Single|S|Changeup|31|1|1|2|14|84
+Tim Lincecum|R|Jonathan Schoop|R|Single|D|Changeup|32|1|2|2|9|81
+Tim Lincecum|R|Pedro Alvarez|L|Lineout|*B|Two-Seam Fastball|33|0|0|2|13|88
+Tim Lincecum|R|Pedro Alvarez|L|Lineout|B|Changeup|34|1|0|2|14|81
+Tim Lincecum|R|Pedro Alvarez|L|Lineout|F|Two-Seam Fastball|35|2|0|2|1|87
+Tim Lincecum|R|Pedro Alvarez|L|Lineout|B|Changeup|36|2|1|2|11|80
+Tim Lincecum|R|Pedro Alvarez|L|Lineout|X|Two-Seam Fastball|37|3|1|2|5|86
+Tim Lincecum|R|J.J. Hardy|R|Walk|B|Curveball|38|0|0|0|13|72
+Tim Lincecum|R|J.J. Hardy|R|Walk|S|Changeup|39|1|0|0|14|81
+Tim Lincecum|R|J.J. Hardy|R|Walk|B|Slider|40|1|1|0|14|81
+Tim Lincecum|R|J.J. Hardy|R|Walk|C|Two-Seam Fastball|41|2|1|0|9|88
+Tim Lincecum|R|J.J. Hardy|R|Walk|B|Two-Seam Fastball|42|2|2|0|14|89
+Tim Lincecum|R|J.J. Hardy|R|Walk|B|Slider|43|3|2|0|14|82
+Tim Lincecum|R|Adam Jones|R|Grounded Into DP|C|Four-Seam Fastball|44|0|0|0|14|87
+Tim Lincecum|R|Adam Jones|R|Grounded Into DP|X|Changeup|45|0|1|0|13|81
+Tim Lincecum|R|Joey Rickard|R|Single|C|Two-Seam Fastball|46|0|0|2|2|89
+Tim Lincecum|R|Joey Rickard|R|Single|B|Slider|47|0|1|2|14|83
+Tim Lincecum|R|Joey Rickard|R|Single|F|Two-Seam Fastball|48|1|1|2|9|88
+Tim Lincecum|R|Joey Rickard|R|Single|D|Slider|49|1|2|2|6|81
+Tim Lincecum|R|Manny Machado|R|Lineout|*B|Changeup|50|0|0|2|14|82
+Tim Lincecum|R|Manny Machado|R|Lineout|X|Changeup|51|1|0|2|14|81
+Tim Lincecum|R|Mark Trumbo|R|Single|D|Changeup|52|0|0|0|6|80
+Tim Lincecum|R|Chris Davis|L|Home Run|B|Changeup|53|0|0|0|13|80
+Tim Lincecum|R|Chris Davis|L|Home Run|B|Two-Seam Fastball|54|1|0|0|11|87
+Tim Lincecum|R|Chris Davis|L|Home Run|F|Two-Seam Fastball|55|2|0|0|4|88
+Tim Lincecum|R|Chris Davis|L|Home Run|E|Two-Seam Fastball|56|2|1|0|5|88
+Tim Lincecum|R|Matt Wieters|L|Groundout|F|Changeup|57|0|0|0|4|80
+Tim Lincecum|R|Matt Wieters|L|Groundout|S|Changeup|58|0|1|0|14|80
+Tim Lincecum|R|Matt Wieters|L|Groundout|B|Changeup|59|0|2|0|13|81
+Tim Lincecum|R|Matt Wieters|L|Groundout|F|Changeup|60|1|2|0|13|81
+Tim Lincecum|R|Matt Wieters|L|Groundout|X|Changeup|61|1|2|0|11|82
+Tim Lincecum|R|Jonathan Schoop|R|Flyout|S|Slider|62|0|0|1|12|83
+Tim Lincecum|R|Jonathan Schoop|R|Flyout|X|Changeup|63|0|1|1|5|81
+Tim Lincecum|R|Pedro Alvarez|L|Single|B|Curveball|64|0|0|2|13|72
+Tim Lincecum|R|Pedro Alvarez|L|Single|F|Changeup|65|1|0|2|6|81
+Tim Lincecum|R|Pedro Alvarez|L|Single|B|Changeup|66|1|1|2|13|81
+Tim Lincecum|R|Pedro Alvarez|L|Single|D|Changeup|67|2|1|2|4|82
+Tim Lincecum|R|J.J. Hardy|R|Strikeout|C|Four-Seam Fastball|68|0|0|2|14|88
+Tim Lincecum|R|J.J. Hardy|R|Strikeout|F|Changeup|69|0|1|2|1|82
+Tim Lincecum|R|J.J. Hardy|R|Strikeout|B|Changeup|70|0|2|2|13|82
+Tim Lincecum|R|J.J. Hardy|R|Strikeout|C|Changeup|71|1|2|2|6|81
+Tim Lincecum|R|Adam Jones|R|Double|B|Curveball|72|0|0|0|14|73
+Tim Lincecum|R|Adam Jones|R|Double|F|Four-Seam Fastball|73|1|0|0|5|87
+Tim Lincecum|R|Adam Jones|R|Double|D|Changeup|74|1|1|0|13|81
+Tim Lincecum|R|Joey Rickard|R|Sac Bunt|X|Changeup|75|0|0|0|7|80
+Tim Lincecum|R|Manny Machado|R|Pop Out|F|Two-Seam Fastball|76|0|0|1|4|87
+Tim Lincecum|R|Manny Machado|R|Pop Out|*B|Changeup|77|0|1|1|13|79
+Tim Lincecum|R|Manny Machado|R|Pop Out|*B|Changeup|78|1|1|1|13|79
+Tim Lincecum|R|Manny Machado|R|Pop Out|X|Two-Seam Fastball|79|2|1|1|11|86
+Tim Lincecum|R|Mark Trumbo|R|Walk|*B|Changeup|80|0|0|2|13|80
+Tim Lincecum|R|Mark Trumbo|R|Walk|*B|Curveball|81|1|0|2|14|75
+Tim Lincecum|R|Mark Trumbo|R|Walk|B|Changeup|82|2|0|2|13|82
+Tim Lincecum|R|Mark Trumbo|R|Walk|S|Changeup|83|3|0|2|13|81
+Tim Lincecum|R|Mark Trumbo|R|Walk|*B|Changeup|84|3|1|2|13|82
+Tim Lincecum|R|Chris Davis|L|Flyout|C|Two-Seam Fastball|85|0|0|2|14|88
+Tim Lincecum|R|Chris Davis|L|Flyout|B|Two-Seam Fastball|86|0|1|2|3|88
+Tim Lincecum|R|Chris Davis|L|Flyout|S|Changeup|87|1|1|2|8|82
+Tim Lincecum|R|Chris Davis|L|Flyout|B|Changeup|88|1|2|2|11|83
+Tim Lincecum|R|Chris Davis|L|Flyout|B|Two-Seam Fastball|89|2|2|2|12|90
+Tim Lincecum|R|Chris Davis|L|Flyout|X|Changeup|90|3|2|2|6|81
+Tim Lincecum|R|Matt Wieters|L|Strikeout|C|Two-Seam Fastball|91|0|0|0|9|86
+Tim Lincecum|R|Matt Wieters|L|Strikeout|S|Curveball|92|0|1|0|14|74
+Tim Lincecum|R|Matt Wieters|L|Strikeout|B|Changeup|93|0|2|0|11|80
+Tim Lincecum|R|Matt Wieters|L|Strikeout|S|Two-Seam Fastball|94|1|2|0|4|88
+Tim Lincecum|R|Jonathan Schoop|R|Strikeout|B|Two-Seam Fastball|95|0|0|1|12|90
+Tim Lincecum|R|Jonathan Schoop|R|Strikeout|T|Changeup|96|1|0|1|8|82
+Tim Lincecum|R|Jonathan Schoop|R|Strikeout|S|Changeup|97|1|1|1|13|81
+Tim Lincecum|R|Jonathan Schoop|R|Strikeout|F|Changeup|98|1|2|1|8|82
+Tim Lincecum|R|Jonathan Schoop|R|Strikeout|S|Two-Seam Fastball|99|1|2|1|12|89
+Tim Lincecum|R|Pedro Alvarez|L|Double|D|Two-Seam Fastball|100|0|0|2|6|88
+Tim Lincecum|R|J.J. Hardy|R|Single|E|Changeup|101|0|0|2|8|83
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|C|Two-Seam Fastball|0|0|0|0|5|89
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|1|0|1|0|3|90
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|B|Changeup|2|0|2|0|14|83
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|F|Two-Seam Fastball|3|1|2|0|5|90
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|B|Curveball|4|1|2|0|14|75
+Tim Lincecum|R|Shin-Soo Choo|L|Flyout|X|Two-Seam Fastball|5|2|2|0|4|91
+Tim Lincecum|R|Ian Desmond|R|Single|B|Four-Seam Fastball|6|0|0|1|14|89
+Tim Lincecum|R|Ian Desmond|R|Single|D|Changeup|7|1|0|1|9|84
+Tim Lincecum|R|Rougned Odor|L|Single|B|Two-Seam Fastball|8|0|0|1|14|89
+Tim Lincecum|R|Rougned Odor|L|Single|B|Two-Seam Fastball|9|1|0|1|14|88
+Tim Lincecum|R|Rougned Odor|L|Single|D|Two-Seam Fastball|10|2|0|1|1|88
+Tim Lincecum|R|Adrian Beltre|R|Walk|*B|Changeup|11|0|0|1|14|85
+Tim Lincecum|R|Adrian Beltre|R|Walk|B|Two-Seam Fastball|12|1|0|1|11|89
+Tim Lincecum|R|Adrian Beltre|R|Walk|B|Changeup|13|2|0|1|11|83
+Tim Lincecum|R|Adrian Beltre|R|Walk|B|Two-Seam Fastball|14|3|0|1|14|89
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|C|Two-Seam Fastball|15|0|0|1|6|88
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|C|Four-Seam Fastball|16|0|1|1|7|89
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|F|Changeup|17|0|2|1|14|83
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|S|Changeup|18|0|2|1|14|83
+Tim Lincecum|R|Ryan Rua|R|Strikeout|*B|Changeup|19|0|0|2|14|83
+Tim Lincecum|R|Ryan Rua|R|Strikeout|S|Changeup|20|1|0|2|3|82
+Tim Lincecum|R|Ryan Rua|R|Strikeout|F|Slider|21|1|1|2|9|82
+Tim Lincecum|R|Ryan Rua|R|Strikeout|F|Two-Seam Fastball|22|1|2|2|1|90
+Tim Lincecum|R|Ryan Rua|R|Strikeout|*B|Changeup|23|1|2|2|13|83
+Tim Lincecum|R|Ryan Rua|R|Strikeout|F|Four-Seam Fastball|24|2|2|2|6|89
+Tim Lincecum|R|Ryan Rua|R|Strikeout|W|Slider|25|2|2|2|14|83
+Tim Lincecum|R|Nomar Mazara|L|Groundout|B|Two-Seam Fastball|26|0|0|0|12|88
+Tim Lincecum|R|Nomar Mazara|L|Groundout|B|Two-Seam Fastball|27|1|0|0|11|89
+Tim Lincecum|R|Nomar Mazara|L|Groundout|C|Two-Seam Fastball|28|2|0|0|2|90
+Tim Lincecum|R|Nomar Mazara|L|Groundout|F|Changeup|29|2|1|0|9|82
+Tim Lincecum|R|Nomar Mazara|L|Groundout|X|Slider|30|2|2|0|8|81
+Tim Lincecum|R|Elvis Andrus|R|Groundout|X|Two-Seam Fastball|31|0|0|1|8|90
+Tim Lincecum|R|Robinson Chirinos|R|Home Run|C|Four-Seam Fastball|32|0|0|2|4|90
+Tim Lincecum|R|Robinson Chirinos|R|Home Run|B|Changeup|33|0|1|2|14|83
+Tim Lincecum|R|Robinson Chirinos|R|Home Run|E|Changeup|34|1|1|2|5|82
+Tim Lincecum|R|Shin-Soo Choo|L|Strikeout|C|Four-Seam Fastball|35|0|0|2|3|89
+Tim Lincecum|R|Shin-Soo Choo|L|Strikeout|S|Slider|36|0|1|2|14|82
+Tim Lincecum|R|Shin-Soo Choo|L|Strikeout|B|Slider|37|0|2|2|14|82
+Tim Lincecum|R|Shin-Soo Choo|L|Strikeout|B|Two-Seam Fastball|38|1|2|2|12|90
+Tim Lincecum|R|Shin-Soo Choo|L|Strikeout|C|Two-Seam Fastball|39|2|2|2|12|90
+Tim Lincecum|R|Ian Desmond|R|Single|B|Two-Seam Fastball|40|0|0|0|14|88
+Tim Lincecum|R|Ian Desmond|R|Single|F|Two-Seam Fastball|41|1|0|0|4|87
+Tim Lincecum|R|Ian Desmond|R|Single|B|Four-Seam Fastball|42|1|1|0|11|87
+Tim Lincecum|R|Ian Desmond|R|Single|D|Changeup|43|2|1|0|8|81
+Tim Lincecum|R|Rougned Odor|L|Single|B|Four-Seam Fastball|44|0|0|0|13|88
+Tim Lincecum|R|Rougned Odor|L|Single|D|Two-Seam Fastball|45|1|0|0|7|88
+Tim Lincecum|R|Adrian Beltre|R|Lineout|X|Four-Seam Fastball|46|0|0|0|9|88
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|*B|Changeup|47|0|0|1|14|80
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|B|Changeup|48|1|0|1|13|80
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|C|Changeup|49|2|0|1|14|80
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|S|Two-Seam Fastball|50|2|1|1|11|88
+Tim Lincecum|R|Mitch Moreland|L|Strikeout|C|Two-Seam Fastball|51|2|2|1|2|88
+Tim Lincecum|R|Ryan Rua|R|Strikeout|B|Four-Seam Fastball|52|0|0|2|11|88
+Tim Lincecum|R|Ryan Rua|R|Strikeout|W|Changeup|53|1|0|2|14|80
+Tim Lincecum|R|Ryan Rua|R|Strikeout|C|Four-Seam Fastball|54|1|1|2|8|87
+Tim Lincecum|R|Ryan Rua|R|Strikeout|F|Slider|55|1|2|2|6|80
+Tim Lincecum|R|Ryan Rua|R|Strikeout|B|Four-Seam Fastball|56|1|2|2|14|89
+Tim Lincecum|R|Ryan Rua|R|Strikeout|S|Changeup|57|2|2|2|14|80
+Tim Lincecum|R|Nomar Mazara|L|Groundout|C|Two-Seam Fastball|58|0|0|0|14|87
+Tim Lincecum|R|Nomar Mazara|L|Groundout|X|Changeup|59|0|1|0|13|79
+Tim Lincecum|R|Elvis Andrus|R|Single|B|Two-Seam Fastball|60|0|0|1|14|87
+Tim Lincecum|R|Elvis Andrus|R|Single|B|Changeup|61|1|0|1|14|81
+Tim Lincecum|R|Elvis Andrus|R|Single|D|Four-Seam Fastball|62|2|0|1|8|87
+Tim Lincecum|R|Robinson Chirinos|R|Home Run|B|Changeup|63|0|0|1|14|79
+Tim Lincecum|R|Robinson Chirinos|R|Home Run|E|Four-Seam Fastball|64|1|0|1|2|86
+Tim Lincecum|R|Shin-Soo Choo|L|Groundout|C|Changeup|65|0|0|1|12|81
+Tim Lincecum|R|Shin-Soo Choo|L|Groundout|S|Changeup|66|0|1|1|2|80
+Tim Lincecum|R|Shin-Soo Choo|L|Groundout|X|Two-Seam Fastball|67|0|2|1|2|88
+Tim Lincecum|R|Ian Desmond|R|Walk|B|Changeup|68|0|0|2|13|79
+Tim Lincecum|R|Ian Desmond|R|Walk|B|Changeup|69|1|0|2|13|79
+Tim Lincecum|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|70|2|0|2|11|84
+Tim Lincecum|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|71|3|0|2|14|86
+Tim Lincecum|R|Rougned Odor|L|Strikeout|B|Changeup|72|0|0|2|13|80
+Tim Lincecum|R|Rougned Odor|L|Strikeout|B|Slider|73|1|0|2|14|81
+Tim Lincecum|R|Rougned Odor|L|Strikeout|S|Changeup|74|2|0|2|13|80
+Tim Lincecum|R|Rougned Odor|L|Strikeout|W|Changeup|75|2|1|2|13|80
+Tim Lincecum|R|Rougned Odor|L|Strikeout|F|Changeup|76|2|2|2|14|80
+Tim Lincecum|R|Rougned Odor|L|Strikeout|S|Changeup|77|2|2|2|13|80
+Tim Lincecum|R|Adrian Beltre|R|Strikeout|C|Four-Seam Fastball|78|0|0|0|5|84
+Tim Lincecum|R|Adrian Beltre|R|Strikeout|F|Four-Seam Fastball|79|0|1|0|13|86
+Tim Lincecum|R|Adrian Beltre|R|Strikeout|B|Changeup|80|0|2|0|13|81
+Tim Lincecum|R|Adrian Beltre|R|Strikeout|B|Changeup|81|1|2|0|13|81
+Tim Lincecum|R|Adrian Beltre|R|Strikeout|S|Changeup|82|2|2|0|14|80
+Tim Lincecum|R|Mitch Moreland|L|Groundout|X|Changeup|83|0|0|1|8|82
+Tim Lincecum|R|Ryan Rua|R|Field Error|B|Slider|84|0|0|2|14|81
+Tim Lincecum|R|Ryan Rua|R|Field Error|D|Two-Seam Fastball|85|1|0|2|4|86
+Tim Lincecum|R|Nomar Mazara|L|Single|C|Changeup|86|0|0|2|5|81
+Tim Lincecum|R|Nomar Mazara|L|Single|*B|Changeup|87|0|1|2|13|80
+Tim Lincecum|R|Nomar Mazara|L|Single|B|Changeup|88|1|1|2|14|80
+Tim Lincecum|R|Nomar Mazara|L|Single|E|Two-Seam Fastball|89|2|1|2|6|87
+Tim Lincecum|R|Elvis Andrus|R|Double|E|Slider|90|0|0|2|6|80
+Tim Lincecum|R|George Springer|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|87
+Tim Lincecum|R|George Springer|R|Walk|S|Changeup|1|1|0|0|14|82
+Tim Lincecum|R|George Springer|R|Walk|B|Four-Seam Fastball|2|1|1|0|13|87
+Tim Lincecum|R|George Springer|R|Walk|B|Changeup|3|2|1|0|14|80
+Tim Lincecum|R|George Springer|R|Walk|B|Changeup|4|3|1|0|11|80
+Tim Lincecum|R|Marwin Gonzalez|L|Single|B|Two-Seam Fastball|5|0|0|0|13|85
+Tim Lincecum|R|Marwin Gonzalez|L|Single|B|Changeup|6|1|0|0|1|79
+Tim Lincecum|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|7|2|0|0|11|84
+Tim Lincecum|R|Marwin Gonzalez|L|Single|C|Four-Seam Fastball|8|3|0|0|4|86
+Tim Lincecum|R|Marwin Gonzalez|L|Single|D|Four-Seam Fastball|9|3|1|0|13|86
+Tim Lincecum|R|Jose Altuve|R|Home Run|E|Four-Seam Fastball|10|0|0|0|1|85
+Tim Lincecum|R|Carlos Correa|R|Flyout|C|Changeup|11|0|0|0|5|81
+Tim Lincecum|R|Carlos Correa|R|Flyout|B|Curveball|12|0|1|0|14|72
+Tim Lincecum|R|Carlos Correa|R|Flyout|B|Changeup|13|1|1|0|14|80
+Tim Lincecum|R|Carlos Correa|R|Flyout|B|Changeup|14|2|1|0|14|81
+Tim Lincecum|R|Carlos Correa|R|Flyout|X|Four-Seam Fastball|15|3|1|0|8|86
+Tim Lincecum|R|Luis Valbuena|L|Home Run|B|Two-Seam Fastball|16|0|0|1|11|85
+Tim Lincecum|R|Luis Valbuena|L|Home Run|C|Changeup|17|1|0|1|14|80
+Tim Lincecum|R|Luis Valbuena|L|Home Run|F|Changeup|18|1|1|1|13|78
+Tim Lincecum|R|Luis Valbuena|L|Home Run|E|Slider|19|1|2|1|9|77
+Tim Lincecum|R|Evan Gattis|R|Pop Out|C|Two-Seam Fastball|20|0|0|1|6|86
+Tim Lincecum|R|Evan Gattis|R|Pop Out|B|Four-Seam Fastball|21|0|1|1|13|85
+Tim Lincecum|R|Evan Gattis|R|Pop Out|S|Two-Seam Fastball|22|1|1|1|7|85
+Tim Lincecum|R|Evan Gattis|R|Pop Out|X|Changeup|23|1|2|1|5|79
+Tim Lincecum|R|Colby Rasmus|L|Groundout|X|Two-Seam Fastball|24|0|0|2|13|86
+Tim Lincecum|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|25|0|0|0|13|86
+Tim Lincecum|R|Carlos Gomez|R|Walk|F|Changeup|26|1|0|0|13|79
+Tim Lincecum|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|27|1|1|0|14|87
+Tim Lincecum|R|Carlos Gomez|R|Walk|B|Slider|28|2|1|0|12|78
+Tim Lincecum|R|Carlos Gomez|R|Walk|C|Two-Seam Fastball|29|3|1|0|3|86
+Tim Lincecum|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|30|3|2|0|14|87
+Tim Lincecum|R|Preston Tucker|L|Double|F|Two-Seam Fastball|31|0|0|0|8|84
+Tim Lincecum|R|Preston Tucker|L|Double|D|Four-Seam Fastball|32|0|1|0|9|85
+Tim Lincecum|R|George Springer|R|Single|C|Changeup|33|0|0|0|2|77
+Tim Lincecum|R|George Springer|R|Single|B|Two-Seam Fastball|34|0|1|0|11|85
+Tim Lincecum|R|George Springer|R|Single|B|Two-Seam Fastball|35|1|1|0|13|84
+Tim Lincecum|R|George Springer|R|Single|E|Changeup|36|2|1|0|5|78
+Tim Lincecum|R|Marwin Gonzalez|L|Flyout|B|Changeup|37|0|0|0|13|78
+Tim Lincecum|R|Marwin Gonzalez|L|Flyout|F|Two-Seam Fastball|38|1|0|0|1|85
+Tim Lincecum|R|Marwin Gonzalez|L|Flyout|X|Four-Seam Fastball|39|1|1|0|5|84
+Tim Lincecum|R|Jose Altuve|R|Home Run|F|Changeup|40|0|0|1|4|81
+Tim Lincecum|R|Jose Altuve|R|Home Run|B|Changeup|41|0|1|1|11|79
+Tim Lincecum|R|Jose Altuve|R|Home Run|*B|Two-Seam Fastball|42|1|1|1|13|85
+Tim Lincecum|R|Jose Altuve|R|Home Run|C|Slider|43|2|1|1|12|79
+Tim Lincecum|R|Jose Altuve|R|Home Run|E|Changeup|44|2|2|1|13|80
+Tim Lincecum|R|Carlos Correa|R|Double|B|Changeup|45|0|0|1|12|81
+Tim Lincecum|R|Carlos Correa|R|Double|B|Changeup|46|1|0|1|14|81
+Tim Lincecum|R|Carlos Correa|R|Double|F|Slider|47|2|0|1|6|80
+Tim Lincecum|R|Carlos Correa|R|Double|B|Two-Seam Fastball|48|2|1|1|13|85
+Tim Lincecum|R|Carlos Correa|R|Double|D|Four-Seam Fastball|49|3|1|1|3|86
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|88
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|88
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Two-Seam Fastball|2|2|0|0|14|88
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Two-Seam Fastball|3|3|0|0|14|89
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Changeup|4|0|0|0|14|84
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Two-Seam Fastball|5|1|0|0|11|88
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Two-Seam Fastball|6|2|0|0|14|88
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Two-Seam Fastball|7|3|0|0|11|88
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|C|Two-Seam Fastball|8|0|0|0|4|88
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|*B|Changeup|9|0|1|0|14|81
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|C|Changeup|10|1|1|0|11|80
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|B|Changeup|11|1|2|0|11|80
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|B|Two-Seam Fastball|12|2|2|0|13|88
+Tim Lincecum|R|Xander Bogaerts|R|Strikeout|W|Curveball|13|3|2|0|14|73
+Tim Lincecum|R|David Ortiz|L|Flyout|*B|Two-Seam Fastball|14|0|0|1|13|87
+Tim Lincecum|R|David Ortiz|L|Flyout|B|Changeup|15|1|0|1|13|81
+Tim Lincecum|R|David Ortiz|L|Flyout|X|Two-Seam Fastball|16|2|0|1|13|87
+Tim Lincecum|R|Hanley Ramirez|R|Groundout|C|Changeup|17|0|0|2|2|80
+Tim Lincecum|R|Hanley Ramirez|R|Groundout|X|Changeup|18|0|1|2|11|79
+Tim Lincecum|R|Jackie Bradley Jr.|L|Strikeout|C|Curveball|19|0|0|0|13|72
+Tim Lincecum|R|Jackie Bradley Jr.|L|Strikeout|F|Changeup|20|0|1|0|14|79
+Tim Lincecum|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|21|0|2|0|11|80
+Tim Lincecum|R|Jackie Bradley Jr.|L|Strikeout|C|Changeup|22|1|2|0|11|79
+Tim Lincecum|R|Aaron Hill|R|Flyout|C|Four-Seam Fastball|23|0|0|1|11|87
+Tim Lincecum|R|Aaron Hill|R|Flyout|X|Curveball|24|0|1|1|8|72
+Tim Lincecum|R|Ryan Hanigan|R|Flyout|C|Curveball|25|0|0|2|6|71
+Tim Lincecum|R|Ryan Hanigan|R|Flyout|B|Two-Seam Fastball|26|0|1|2|12|87
+Tim Lincecum|R|Ryan Hanigan|R|Flyout|X|Four-Seam Fastball|27|1|1|2|6|86
+Tim Lincecum|R|Brock Holt|L|Groundout|C|Changeup|28|0|0|0|8|79
+Tim Lincecum|R|Brock Holt|L|Groundout|B|Two-Seam Fastball|29|0|1|0|12|86
+Tim Lincecum|R|Brock Holt|L|Groundout|B|Curveball|30|1|1|0|12|72
+Tim Lincecum|R|Brock Holt|L|Groundout|X|Two-Seam Fastball|31|2|1|0|5|87
+Tim Lincecum|R|Mookie Betts|R|Walk|C|Two-Seam Fastball|32|0|0|1|4|89
+Tim Lincecum|R|Mookie Betts|R|Walk|F|Two-Seam Fastball|33|0|1|1|3|89
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Changeup|34|0|2|1|13|82
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Slider|35|1|2|1|14|83
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Changeup|36|2|2|1|11|81
+Tim Lincecum|R|Mookie Betts|R|Walk|B|Changeup|37|3|2|1|11|81
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Two-Seam Fastball|38|0|0|1|11|87
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Curveball|39|1|0|1|11|71
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Changeup|40|2|0|1|11|78
+Tim Lincecum|R|Dustin Pedroia|R|Walk|B|Two-Seam Fastball|41|3|0|1|11|86
+Tim Lincecum|R|Xander Bogaerts|R|Double|B|Two-Seam Fastball|42|0|0|1|12|86
+Tim Lincecum|R|Xander Bogaerts|R|Double|B|Curveball|43|1|0|1|13|71
+Tim Lincecum|R|Xander Bogaerts|R|Double|C|Curveball|44|2|0|1|14|72
+Tim Lincecum|R|Xander Bogaerts|R|Double|E|Four-Seam Fastball|45|2|1|1|3|86
+Tim Lincecum|R|David Ortiz|L|Single|*B|Changeup|46|0|0|2|14|80
+Tim Lincecum|R|David Ortiz|L|Single|*B|Changeup|47|1|0|2|13|79
+Tim Lincecum|R|David Ortiz|L|Single|E|Changeup|48|2|0|2|13|80
+Tim Lincecum|R|Hanley Ramirez|R|Walk|C|Changeup|49|0|0|2|13|81
+Tim Lincecum|R|Hanley Ramirez|R|Walk|*B|Changeup|50|0|1|2|14|80
+Tim Lincecum|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|51|1|1|2|13|88
+Tim Lincecum|R|Hanley Ramirez|R|Walk|B|Two-Seam Fastball|52|2|1|2|11|86
+Tim Lincecum|R|Hanley Ramirez|R|Walk|*B|Curveball|53|3|1|2|13|72
+Tim Lincecum|R|Jackie Bradley Jr.|L|Flyout|X|Curveball|54|0|0|2|13|71
+Tim Lincecum|R|Aaron Hill|R|Single|B|Changeup|55|0|0|0|11|81
+Tim Lincecum|R|Aaron Hill|R|Single|B|Curveball|56|1|0|0|14|71
+Tim Lincecum|R|Aaron Hill|R|Single|C|Four-Seam Fastball|57|2|0|0|4|85
+Tim Lincecum|R|Aaron Hill|R|Single|F|Changeup|58|2|1|0|7|80
+Tim Lincecum|R|Aaron Hill|R|Single|D|Slider|59|2|2|0|6|81
+Tim Lincecum|R|Ryan Hanigan|R|Walk|C|Four-Seam Fastball|60|0|0|0|8|84
+Tim Lincecum|R|Ryan Hanigan|R|Walk|B|Changeup|61|0|1|0|14|82
+Tim Lincecum|R|Ryan Hanigan|R|Walk|*B|Changeup|62|1|1|0|13|80
+Tim Lincecum|R|Ryan Hanigan|R|Walk|F|Curveball|63|2|1|0|8|72
+Tim Lincecum|R|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|64|2|2|0|11|88
+Tim Lincecum|R|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|65|3|2|0|13|84
+Tim Lincecum|R|Brock Holt|L|Single|F|Changeup|66|0|0|0|4|79
+Tim Lincecum|R|Brock Holt|L|Single|D|Changeup|67|0|1|0|13|80
+Tim Lincecum|R|Mookie Betts|R|Sac Fly|B|Curveball|68|0|0|0|13|71
+Tim Lincecum|R|Mookie Betts|R|Sac Fly|B|Curveball|69|1|0|0|14|71
+Tim Lincecum|R|Mookie Betts|R|Sac Fly|B|Changeup|70|2|0|0|13|79
+Tim Lincecum|R|Mookie Betts|R|Sac Fly|C|Four-Seam Fastball|71|3|0|0|12|86
+Tim Lincecum|R|Mookie Betts|R|Sac Fly|E|Two-Seam Fastball|72|3|1|0|2|85
+Tim Lincecum|R|Dustin Pedroia|R|Grounded Into DP|C|Four-Seam Fastball|73|0|0|1|8|88
+Tim Lincecum|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|74|0|1|1|12|87
+Tim Lincecum|R|Dustin Pedroia|R|Grounded Into DP|X|Curveball|75|1|1|1|14|73
+Tim Lincecum|R|Xander Bogaerts|R|Lineout|C|Curveball|76|0|0|0|8|72
+Tim Lincecum|R|Xander Bogaerts|R|Lineout|X|Curveball|77|0|1|0|12|71
+Tim Lincecum|R|David Ortiz|L|Pop Out|B|Two-Seam Fastball|78|0|0|1|11|86
+Tim Lincecum|R|David Ortiz|L|Pop Out|X|Four-Seam Fastball|79|1|0|1|5|85
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|C|Curveball|80|0|0|2|14|72
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|C|Four-Seam Fastball|81|0|1|2|9|86
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|F|Curveball|82|0|2|2|8|73
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|F|Curveball|83|0|2|2|7|72
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|B|Changeup|84|0|2|2|13|80
+Tim Lincecum|R|Hanley Ramirez|R|Strikeout|T|Changeup|85|1|2|2|9|78
+Tim Lincecum|R|Jackie Bradley Jr.|L|Home Run|B|Curveball|86|0|0|0|13|72
+Tim Lincecum|R|Jackie Bradley Jr.|L|Home Run|C|Two-Seam Fastball|87|1|0|0|2|86
+Tim Lincecum|R|Jackie Bradley Jr.|L|Home Run|B|Two-Seam Fastball|88|1|1|0|14|87
+Tim Lincecum|R|Jackie Bradley Jr.|L|Home Run|E|Curveball|89|2|1|0|8|70
+Tim Lincecum|R|Norichika Aoki|L|Single|B|Changeup|0|0|0|0|11|81
+Tim Lincecum|R|Norichika Aoki|L|Single|F|Curveball|1|1|0|0|6|73
+Tim Lincecum|R|Norichika Aoki|L|Single|D|Curveball|2|1|1|0|13|73
+Tim Lincecum|R|Seth Smith|L|Single|C|Two-Seam Fastball|3|0|0|0|13|86
+Tim Lincecum|R|Seth Smith|L|Single|*B|Curveball|4|0|1|0|13|73
+Tim Lincecum|R|Seth Smith|L|Single|B|Changeup|5|1|1|0|13|81
+Tim Lincecum|R|Seth Smith|L|Single|W|Changeup|6|2|1|0|13|80
+Tim Lincecum|R|Seth Smith|L|Single|*B|Changeup|7|2|2|0|13|82
+Tim Lincecum|R|Seth Smith|L|Single|D|Two-Seam Fastball|8|3|2|0|6|89
+Tim Lincecum|R|Robinson Cano|L|Single|B|Two-Seam Fastball|9|0|0|0|14|88
+Tim Lincecum|R|Robinson Cano|L|Single|*B|Changeup|10|1|0|0|13|82
+Tim Lincecum|R|Robinson Cano|L|Single|E|Two-Seam Fastball|11|2|0|0|5|88
+Tim Lincecum|R|Nelson Cruz|R|Single|F|Slider|12|0|0|0|14|82
+Tim Lincecum|R|Nelson Cruz|R|Single|B|Two-Seam Fastball|13|0|1|0|13|88
+Tim Lincecum|R|Nelson Cruz|R|Single|C|Four-Seam Fastball|14|1|1|0|8|90
+Tim Lincecum|R|Nelson Cruz|R|Single|B|Changeup|15|1|2|0|14|83
+Tim Lincecum|R|Nelson Cruz|R|Single|D|Changeup|16|2|2|0|14|81
+Tim Lincecum|R|Kyle Seager|L|Flyout|C|Two-Seam Fastball|17|0|0|0|13|88
+Tim Lincecum|R|Kyle Seager|L|Flyout|X|Curveball|18|0|1|0|2|75
+Tim Lincecum|R|Adam Lind|L|Single|S|Changeup|19|0|0|1|14|82
+Tim Lincecum|R|Adam Lind|L|Single|B|Two-Seam Fastball|20|0|1|1|11|88
+Tim Lincecum|R|Adam Lind|L|Single|F|Two-Seam Fastball|21|1|1|1|4|89
+Tim Lincecum|R|Adam Lind|L|Single|*B|Changeup|22|1|2|1|13|82
+Tim Lincecum|R|Adam Lind|L|Single|E|Changeup|23|2|2|1|14|84
+Tim Lincecum|R|Leonys Martin|L|Sac Fly|S|Changeup|24|0|0|1|13|81
+Tim Lincecum|R|Leonys Martin|L|Sac Fly|B|Curveball|25|0|1|1|14|75
+Tim Lincecum|R|Leonys Martin|L|Sac Fly|F|Changeup|26|1|1|1|11|80
+Tim Lincecum|R|Leonys Martin|L|Sac Fly|E|Changeup|27|1|2|1|8|79
+Tim Lincecum|R|Mike Zunino|R|Home Run|F|Changeup|28|0|0|2|9|85
+Tim Lincecum|R|Mike Zunino|R|Home Run|S|Changeup|29|0|1|2|11|82
+Tim Lincecum|R|Mike Zunino|R|Home Run|F|Four-Seam Fastball|30|0|2|2|12|88
+Tim Lincecum|R|Mike Zunino|R|Home Run|F|Curveball|31|0|2|2|7|76
+Tim Lincecum|R|Mike Zunino|R|Home Run|*B|Changeup|32|0|2|2|13|81
+Tim Lincecum|R|Mike Zunino|R|Home Run|*B|Changeup|33|1|2|2|13|81
+Tim Lincecum|R|Mike Zunino|R|Home Run|B|Changeup|34|2|2|2|14|83
+Tim Lincecum|R|Mike Zunino|R|Home Run|E|Changeup|35|3|2|2|14|83
+Tim Lincecum|R|Shawn O'Malley|L|Single|D|Two-Seam Fastball|36|0|0|2|4|88
+Tim Lincecum|R|Norichika Aoki|L|Pop Out|B|Two-Seam Fastball|37|0|0|2|11|86
+Tim Lincecum|R|Norichika Aoki|L|Pop Out|F|Two-Seam Fastball|38|1|0|2|6|87
+Tim Lincecum|R|Norichika Aoki|L|Pop Out|X|Curveball|39|1|1|2|1|73
+Tim Lincecum|R|Seth Smith|L|Walk|B|Curveball|40|0|0|0|13|72
+Tim Lincecum|R|Seth Smith|L|Walk|B|Changeup|41|1|0|0|14|79
+Tim Lincecum|R|Seth Smith|L|Walk|B|Changeup|42|2|0|0|13|81
+Tim Lincecum|R|Seth Smith|L|Walk|C|Two-Seam Fastball|43|3|0|0|4|87
+Tim Lincecum|R|Seth Smith|L|Walk|B|Two-Seam Fastball|44|3|1|0|13|86
+Tim Lincecum|R|Robinson Cano|L|Grounded Into DP|X|Two-Seam Fastball|45|0|0|0|4|87
+Tim Lincecum|R|Nelson Cruz|R|Flyout|B|Changeup|46|0|0|2|14|82
+Tim Lincecum|R|Nelson Cruz|R|Flyout|X|Two-Seam Fastball|47|1|0|2|9|88
+Tim Lincecum|R|Kyle Seager|L|Lineout|B|Two-Seam Fastball|48|0|0|0|11|86
+Tim Lincecum|R|Kyle Seager|L|Lineout|C|Changeup|49|1|0|0|5|81
+Tim Lincecum|R|Kyle Seager|L|Lineout|S|Changeup|50|1|1|0|14|79
+Tim Lincecum|R|Kyle Seager|L|Lineout|F|Changeup|51|1|2|0|13|80
+Tim Lincecum|R|Kyle Seager|L|Lineout|F|Changeup|52|1|2|0|14|81
+Tim Lincecum|R|Kyle Seager|L|Lineout|X|Changeup|53|1|2|0|8|82
+Tim Lincecum|R|Adam Lind|L|Single|B|Changeup|54|0|0|1|11|80
+Tim Lincecum|R|Adam Lind|L|Single|S|Changeup|55|1|0|1|14|80
+Tim Lincecum|R|Adam Lind|L|Single|C|Two-Seam Fastball|56|1|1|1|6|89
+Tim Lincecum|R|Adam Lind|L|Single|F|Slider|57|1|2|1|14|80
+Tim Lincecum|R|Adam Lind|L|Single|D|Changeup|58|1|2|1|7|81
+Tim Lincecum|R|Leonys Martin|L|Flyout|C|Curveball|59|0|0|1|4|73
+Tim Lincecum|R|Leonys Martin|L|Flyout|F|Two-Seam Fastball|60|0|1|1|4|87
+Tim Lincecum|R|Leonys Martin|L|Flyout|*B|Changeup|61|0|2|1|13|82
+Tim Lincecum|R|Leonys Martin|L|Flyout|X|Changeup|62|1|2|1|11|81
+Tim Lincecum|R|Mike Zunino|R|Flyout|S|Changeup|63|0|0|2|5|81
+Tim Lincecum|R|Mike Zunino|R|Flyout|B|Two-Seam Fastball|64|0|1|2|11|87
+Tim Lincecum|R|Mike Zunino|R|Flyout|T|Four-Seam Fastball|65|1|1|2|6|87
+Tim Lincecum|R|Mike Zunino|R|Flyout|B|Changeup|66|1|2|2|13|80
+Tim Lincecum|R|Mike Zunino|R|Flyout|X|Changeup|67|2|2|2|8|82
+Tim Lincecum|R|Shawn O'Malley|L|Walk|B|Two-Seam Fastball|68|0|0|0|13|86
+Tim Lincecum|R|Shawn O'Malley|L|Walk|B|Slider|69|1|0|0|14|80
+Tim Lincecum|R|Shawn O'Malley|L|Walk|B|Two-Seam Fastball|70|2|0|0|11|85
+Tim Lincecum|R|Shawn O'Malley|L|Walk|C|Two-Seam Fastball|71|3|0|0|6|85
+Tim Lincecum|R|Shawn O'Malley|L|Walk|B|Four-Seam Fastball|72|3|1|0|11|85
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|B|Changeup|73|0|0|0|11|83
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|B|Changeup|74|1|0|0|11|78
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|C|Two-Seam Fastball|75|2|0|0|7|84
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|F|Two-Seam Fastball|76|2|1|0|11|86
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|F|Curveball|77|2|2|0|14|74
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|*B|Changeup|78|2|2|0|13|80
+Tim Lincecum|R|Norichika Aoki|L|Strikeout|S|Changeup|79|3|2|0|13|79
+Tim Lincecum|R|Seth Smith|L|Single|C|Two-Seam Fastball|80|0|0|1|5|86
+Tim Lincecum|R|Seth Smith|L|Single|S|Two-Seam Fastball|81|0|1|1|13|86
+Tim Lincecum|R|Seth Smith|L|Single|B|Two-Seam Fastball|82|0|2|1|13|87
+Tim Lincecum|R|Seth Smith|L|Single|F|Two-Seam Fastball|83|1|2|1|5|87
+Tim Lincecum|R|Seth Smith|L|Single|F|Changeup|84|1|2|1|13|80
+Tim Lincecum|R|Seth Smith|L|Single|D|Changeup|85|1|2|1|13|82

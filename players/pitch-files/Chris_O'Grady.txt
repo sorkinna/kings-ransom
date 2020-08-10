@@ -1,0 +1,693 @@
+Chris O'Grady|L|Jason Heyward|L|Flyout|C|Cutter|0|0|0|0|13|81
+Chris O'Grady|L|Jason Heyward|L|Flyout|B|Four-Seam Fastball|1|0|1|0|14|87
+Chris O'Grady|L|Jason Heyward|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|86
+Chris O'Grady|L|Jason Heyward|L|Flyout|B|Cutter|3|2|1|0|13|81
+Chris O'Grady|L|Jason Heyward|L|Flyout|X|Four-Seam Fastball|4|3|1|0|8|88
+Chris O'Grady|L|Javier Baez|R|Lineout|B|Cutter|5|0|0|1|14|83
+Chris O'Grady|L|Javier Baez|R|Lineout|X|Cutter|6|1|0|1|8|82
+Chris O'Grady|L|Steve Cishek|R|Groundout|C|Four-Seam Fastball|7|0|0|2|9|86
+Chris O'Grady|L|Steve Cishek|R|Groundout|F|Cutter|8|0|1|2|14|82
+Chris O'Grady|L|Steve Cishek|R|Groundout|B|Curveball|9|0|2|2|14|73
+Chris O'Grady|L|Steve Cishek|R|Groundout|F|Four-Seam Fastball|10|1|2|2|3|86
+Chris O'Grady|L|Steve Cishek|R|Groundout|X|Curveball|11|1|2|2|3|73
+Chris O'Grady|L|Eddie Butler|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|86
+Chris O'Grady|L|Eddie Butler|R|Walk|B|Four-Seam Fastball|1|1|0|2|12|85
+Chris O'Grady|L|Eddie Butler|R|Walk|B|Four-Seam Fastball|2|2|0|2|12|85
+Chris O'Grady|L|Eddie Butler|R|Walk|B|Four-Seam Fastball|3|3|0|2|12|86
+Chris O'Grady|L|Ben Zobrist|R|Single|B|Cutter|4|0|0|2|12|81
+Chris O'Grady|L|Ben Zobrist|R|Single|C|Cutter|5|1|0|2|9|80
+Chris O'Grady|L|Ben Zobrist|R|Single|C|Cutter|6|1|1|2|14|80
+Chris O'Grady|L|Ben Zobrist|R|Single|F|Cutter|7|1|2|2|11|81
+Chris O'Grady|L|Ben Zobrist|R|Single|D|Curveball|8|1|2|2|14|72
+Chris O'Grady|L|Javier Baez|R|Forceout|S|Cutter|9|0|0|2|3|81
+Chris O'Grady|L|Javier Baez|R|Forceout|X|Changeup|10|0|1|2|12|79
+Chris O'Grady|L|Ian Happ|R|Strikeout|C|Cutter|11|0|0|0|14|80
+Chris O'Grady|L|Ian Happ|R|Strikeout|F|Cutter|12|0|1|0|3|81
+Chris O'Grady|L|Ian Happ|R|Strikeout|S|Four-Seam Fastball|13|0|2|0|3|87
+Chris O'Grady|L|Victor Caratini|R|Strikeout|F|Cutter|14|0|0|1|1|80
+Chris O'Grady|L|Victor Caratini|R|Strikeout|B|Changeup|15|0|1|1|14|80
+Chris O'Grady|L|Victor Caratini|R|Strikeout|F|Cutter|16|1|1|1|4|81
+Chris O'Grady|L|Victor Caratini|R|Strikeout|S|Four-Seam Fastball|17|1|2|1|2|88
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|B|Cutter|0|0|0|2|13|81
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|C|Four-Seam Fastball|1|1|0|2|9|87
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|*B|Cutter|2|1|1|2|13|82
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|3|2|1|2|12|86
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|S|Four-Seam Fastball|4|3|1|2|5|87
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|F|Cutter|5|3|2|2|5|81
+Chris O'Grady|L|Anthony Rizzo|L|Strikeout|C|Four-Seam Fastball|6|3|2|2|8|87
+Chris O'Grady|L|Blake Swihart|R|Flyout|C|Four-Seam Fastball|0|0|0|0|2|85
+Chris O'Grady|L|Blake Swihart|R|Flyout|X|Cutter|1|0|1|0|5|80
+Chris O'Grady|L|Mookie Betts|R|Home Run|C|Four-Seam Fastball|2|0|0|1|14|87
+Chris O'Grady|L|Mookie Betts|R|Home Run|B|Four-Seam Fastball|3|0|1|1|14|87
+Chris O'Grady|L|Mookie Betts|R|Home Run|C|Changeup|4|1|1|1|3|80
+Chris O'Grady|L|Mookie Betts|R|Home Run|E|Curveball|5|1|2|1|13|72
+Chris O'Grady|L|Andrew Benintendi|L|Walk|B|Cutter|6|0|0|1|12|80
+Chris O'Grady|L|Andrew Benintendi|L|Walk|C|Four-Seam Fastball|7|1|0|1|13|87
+Chris O'Grady|L|Andrew Benintendi|L|Walk|C|Cutter|8|1|1|1|13|81
+Chris O'Grady|L|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|9|1|2|1|14|88
+Chris O'Grady|L|Andrew Benintendi|L|Walk|F|Four-Seam Fastball|10|2|2|1|12|88
+Chris O'Grady|L|Andrew Benintendi|L|Walk|F|Four-Seam Fastball|11|2|2|1|6|87
+Chris O'Grady|L|Andrew Benintendi|L|Walk|B|Curveball|12|2|2|1|13|73
+Chris O'Grady|L|Andrew Benintendi|L|Walk|B|Cutter|13|3|2|1|12|80
+Chris O'Grady|L|Hanley Ramirez|R|Flyout|T|Four-Seam Fastball|14|0|0|1|4|86
+Chris O'Grady|L|Hanley Ramirez|R|Flyout|B|Cutter|15|0|1|1|14|81
+Chris O'Grady|L|Hanley Ramirez|R|Flyout|X|Cutter|16|1|1|1|1|82
+Chris O'Grady|L|Rafael Devers|L|Lineout|C|Four-Seam Fastball|17|0|0|2|14|86
+Chris O'Grady|L|Rafael Devers|L|Lineout|X|Four-Seam Fastball|18|0|1|2|14|87
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|F|Cutter|0|0|0|2|5|82
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|C|Cutter|1|0|1|2|13|81
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|B|Cutter|2|0|2|2|13|82
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|3|1|2|2|13|87
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|F|Changeup|4|2|2|2|7|81
+Chris O'Grady|L|Odubel Herrera|L|Strikeout|S|Four-Seam Fastball|5|2|2|2|6|88
+Chris O'Grady|L|Maikel Franco|R|Flyout|C|Four-Seam Fastball|6|0|0|0|12|87
+Chris O'Grady|L|Maikel Franco|R|Flyout|B|Cutter|7|0|1|0|7|83
+Chris O'Grady|L|Maikel Franco|R|Flyout|X|Four-Seam Fastball|8|1|1|0|1|87
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|C|Cutter|9|0|0|1|14|82
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Cutter|10|0|1|1|14|81
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|11|0|2|1|11|88
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|B|Cutter|12|0|2|1|14|82
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|B|Four-Seam Fastball|13|1|2|1|14|89
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Cutter|14|2|2|1|14|83
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Cutter|15|2|2|1|3|82
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Cutter|16|2|2|1|5|82
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|17|2|2|1|7|90
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|18|2|2|1|9|89
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|19|2|2|1|11|89
+Chris O'Grady|L|Aaron Altherr|R|Strikeout|W|Curveball|20|2|2|1|13|75
+Chris O'Grady|L|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|21|0|0|2|14|89
+Chris O'Grady|L|Jorge Alfaro|R|Strikeout|S|Cutter|22|1|0|2|13|83
+Chris O'Grady|L|Jorge Alfaro|R|Strikeout|F|Four-Seam Fastball|23|1|1|2|14|89
+Chris O'Grady|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|24|1|2|2|6|90
+Chris O'Grady|L|Carlos Santana|R|Flyout|X|Four-Seam Fastball|0|0|0|1|8|85
+Chris O'Grady|L|Odubel Herrera|L|Flyout|X|Four-Seam Fastball|1|0|0|2|11|86
+Chris O'Grady|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|2|0|0|0|12|86
+Chris O'Grady|L|Rhys Hoskins|R|Walk|B|Cutter|3|1|0|0|13|82
+Chris O'Grady|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|4|2|0|0|14|86
+Chris O'Grady|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|5|3|0|0|3|86
+Chris O'Grady|L|Nick Williams|L|Lineout|F|Cutter|6|0|0|0|6|83
+Chris O'Grady|L|Nick Williams|L|Lineout|B|Cutter|7|0|1|0|13|84
+Chris O'Grady|L|Nick Williams|L|Lineout|*B|Four-Seam Fastball|8|1|1|0|14|88
+Chris O'Grady|L|Nick Williams|L|Lineout|X|Cutter|9|2|1|0|8|82
+Chris O'Grady|L|Michael Conforto|L|Double|B|Cutter|0|0|0|0|12|81
+Chris O'Grady|L|Michael Conforto|L|Double|S|Cutter|1|1|0|0|5|81
+Chris O'Grady|L|Michael Conforto|L|Double|D|Cutter|2|1|1|0|6|83
+Chris O'Grady|L|Adrian Gonzalez|L|Single|F|Cutter|3|0|0|0|8|83
+Chris O'Grady|L|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|4|0|1|0|14|87
+Chris O'Grady|L|Adrian Gonzalez|L|Single|E|Four-Seam Fastball|5|1|1|0|14|88
+Chris O'Grady|L|Asdrubal Cabrera|R|Single|B|Cutter|6|0|0|0|12|82
+Chris O'Grady|L|Asdrubal Cabrera|R|Single|B|Cutter|7|1|0|0|12|83
+Chris O'Grady|L|Asdrubal Cabrera|R|Single|B|Four-Seam Fastball|8|2|0|0|14|87
+Chris O'Grady|L|Asdrubal Cabrera|R|Single|C|Cutter|9|3|0|0|1|82
+Chris O'Grady|L|Asdrubal Cabrera|R|Single|D|Cutter|10|3|1|0|7|83
+Chris O'Grady|L|Aaron Judge|R|Groundout|S|Cutter|0|0|0|2|3|80
+Chris O'Grady|L|Aaron Judge|R|Groundout|B|Cutter|1|0|1|2|13|80
+Chris O'Grady|L|Aaron Judge|R|Groundout|B|Changeup|2|1|1|2|14|79
+Chris O'Grady|L|Aaron Judge|R|Groundout|X|Cutter|3|2|1|2|6|80
+Chris O'Grady|L|Giancarlo Stanton|R|Strikeout|C|Cutter|4|0|0|0|13|81
+Chris O'Grady|L|Giancarlo Stanton|R|Strikeout|C|Changeup|5|0|1|0|14|80
+Chris O'Grady|L|Giancarlo Stanton|R|Strikeout|S|Four-Seam Fastball|6|0|2|0|2|87
+Chris O'Grady|L|Didi Gregorius|L|Home Run|S|Cutter|7|0|0|1|11|81
+Chris O'Grady|L|Didi Gregorius|L|Home Run|B|Four-Seam Fastball|8|0|1|1|12|88
+Chris O'Grady|L|Didi Gregorius|L|Home Run|B|Four-Seam Fastball|9|1|1|1|14|88
+Chris O'Grady|L|Didi Gregorius|L|Home Run|E|Cutter|10|2|1|1|1|82
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|12|85
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|F|Changeup|12|1|0|1|2|77
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|F|Cutter|13|1|1|1|1|79
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|14|1|2|1|11|86
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|B|Cutter|15|2|2|1|13|81
+Chris O'Grady|L|Gary Sanchez|R|Strikeout|S|Cutter|16|3|2|1|13|80
+Chris O'Grady|L|Aaron Hicks|R|Walk|C|Four-Seam Fastball|17|0|0|2|14|85
+Chris O'Grady|L|Aaron Hicks|R|Walk|B|Cutter|18|0|1|2|13|80
+Chris O'Grady|L|Aaron Hicks|R|Walk|B|Changeup|19|1|1|2|14|79
+Chris O'Grady|L|Aaron Hicks|R|Walk|C|Cutter|20|2|1|2|13|81
+Chris O'Grady|L|Aaron Hicks|R|Walk|F|Cutter|21|2|2|2|11|81
+Chris O'Grady|L|Aaron Hicks|R|Walk|B|Changeup|22|2|2|2|14|80
+Chris O'Grady|L|Aaron Hicks|R|Walk|B|Four-Seam Fastball|23|3|2|2|12|86
+Chris O'Grady|L|Tyler Austin|R|Double|S|Cutter|24|0|0|2|13|80
+Chris O'Grady|L|Tyler Austin|R|Double|*B|Changeup|25|0|1|2|14|79
+Chris O'Grady|L|Tyler Austin|R|Double|B|Cutter|26|1|1|2|11|78
+Chris O'Grady|L|Tyler Austin|R|Double|B|Four-Seam Fastball|27|2|1|2|13|85
+Chris O'Grady|L|Tyler Austin|R|Double|D|Four-Seam Fastball|28|3|1|2|5|85
+Chris O'Grady|L|Miguel Andujar|R|Flyout|C|Cutter|29|0|0|2|14|80
+Chris O'Grady|L|Miguel Andujar|R|Flyout|B|Cutter|30|0|1|2|11|79
+Chris O'Grady|L|Miguel Andujar|R|Flyout|*B|Changeup|31|1|1|2|13|78
+Chris O'Grady|L|Miguel Andujar|R|Flyout|B|Curveball|32|2|1|2|13|78
+Chris O'Grady|L|Miguel Andujar|R|Flyout|C|Four-Seam Fastball|33|3|1|2|9|84
+Chris O'Grady|L|Miguel Andujar|R|Flyout|X|Four-Seam Fastball|34|3|2|2|6|84
+Chris O'Grady|L|Denard Span|L|Walk|C|Four-Seam Fastball|0|0|0|0|1|88
+Chris O'Grady|L|Denard Span|L|Walk|B|Four-Seam Fastball|1|0|1|0|12|89
+Chris O'Grady|L|Denard Span|L|Walk|B|Cutter|2|1|1|0|14|84
+Chris O'Grady|L|Denard Span|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|89
+Chris O'Grady|L|Denard Span|L|Walk|B|Four-Seam Fastball|4|3|1|0|13|88
+Chris O'Grady|L|Joe Panik|L|Lineout|C|Four-Seam Fastball|5|0|0|0|3|88
+Chris O'Grady|L|Joe Panik|L|Lineout|X|Cutter|6|0|1|0|4|85
+Chris O'Grady|L|Hunter Pence|R|Walk|B|Two-Seam Fastball|7|0|0|1|13|89
+Chris O'Grady|L|Hunter Pence|R|Walk|*B|Cutter|8|1|0|1|13|84
+Chris O'Grady|L|Hunter Pence|R|Walk|B|Cutter|9|2|0|1|13|84
+Chris O'Grady|L|Hunter Pence|R|Walk|B|Four-Seam Fastball|10|3|0|1|12|89
+Chris O'Grady|L|Buster Posey|R|Strikeout|C|Cutter|11|0|0|1|7|83
+Chris O'Grady|L|Buster Posey|R|Strikeout|F|Changeup|12|0|1|1|8|79
+Chris O'Grady|L|Buster Posey|R|Strikeout|C|Cutter|13|0|2|1|12|84
+Chris O'Grady|L|Brandon Belt|L|Pop Out|C|N/A|14|0|0|2|0|0
+Chris O'Grady|L|Brandon Belt|L|Pop Out|B|Four-Seam Fastball|15|0|1|2|12|88
+Chris O'Grady|L|Brandon Belt|L|Pop Out|S|Four-Seam Fastball|16|1|1|2|13|85
+Chris O'Grady|L|Brandon Belt|L|Pop Out|*B|Curveball|17|1|2|2|13|77
+Chris O'Grady|L|Brandon Belt|L|Pop Out|F|Cutter|18|2|2|2|8|83
+Chris O'Grady|L|Brandon Belt|L|Pop Out|X|Cutter|19|2|2|2|5|83
+Chris O'Grady|L|Jae-Gyun Hwang|R|Single|B|Four-Seam Fastball|20|0|0|0|13|87
+Chris O'Grady|L|Jae-Gyun Hwang|R|Single|F|Four-Seam Fastball|21|1|0|0|2|87
+Chris O'Grady|L|Jae-Gyun Hwang|R|Single|C|Cutter|22|1|1|0|9|83
+Chris O'Grady|L|Jae-Gyun Hwang|R|Single|B|Cutter|23|1|2|0|11|83
+Chris O'Grady|L|Jae-Gyun Hwang|R|Single|D|Four-Seam Fastball|24|2|2|0|4|88
+Chris O'Grady|L|Brandon Crawford|L|Pop Out|X|Cutter|25|0|0|0|3|84
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|B|Four-Seam Fastball|26|0|0|1|13|88
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|C|Cutter|27|1|0|1|6|83
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|B|Four-Seam Fastball|28|1|1|1|13|88
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|F|Cutter|29|2|1|1|1|83
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|B|Cutter|30|2|2|1|12|83
+Chris O'Grady|L|Gorkys Hernandez|R|Lineout|X|Cutter|31|3|2|1|5|81
+Chris O'Grady|L|Jeff Samardzija|R|Flyout|C|Four-Seam Fastball|32|0|0|2|4|88
+Chris O'Grady|L|Jeff Samardzija|R|Flyout|X|Changeup|33|0|1|2|5|78
+Chris O'Grady|L|Denard Span|L|Flyout|C|Four-Seam Fastball|34|0|0|0|13|86
+Chris O'Grady|L|Denard Span|L|Flyout|B|Changeup|35|0|1|0|13|78
+Chris O'Grady|L|Denard Span|L|Flyout|X|Four-Seam Fastball|36|1|1|0|5|87
+Chris O'Grady|L|Joe Panik|L|Strikeout|C|Four-Seam Fastball|37|0|0|1|11|87
+Chris O'Grady|L|Joe Panik|L|Strikeout|B|Curveball|38|0|1|1|13|76
+Chris O'Grady|L|Joe Panik|L|Strikeout|B|Changeup|39|1|1|1|13|79
+Chris O'Grady|L|Joe Panik|L|Strikeout|F|Cutter|40|2|1|1|5|83
+Chris O'Grady|L|Joe Panik|L|Strikeout|B|Four-Seam Fastball|41|2|2|1|11|89
+Chris O'Grady|L|Joe Panik|L|Strikeout|C|Cutter|42|3|2|1|3|81
+Chris O'Grady|L|Hunter Pence|R|Groundout|B|Changeup|43|0|0|2|13|80
+Chris O'Grady|L|Hunter Pence|R|Groundout|B|Cutter|44|1|0|2|12|82
+Chris O'Grady|L|Hunter Pence|R|Groundout|B|Cutter|45|2|0|2|13|83
+Chris O'Grady|L|Hunter Pence|R|Groundout|C|Four-Seam Fastball|46|3|0|2|13|87
+Chris O'Grady|L|Hunter Pence|R|Groundout|X|Changeup|47|3|1|2|14|79
+Chris O'Grady|L|Buster Posey|R|Groundout|F|Changeup|48|0|0|0|13|78
+Chris O'Grady|L|Buster Posey|R|Groundout|B|Four-Seam Fastball|49|0|1|0|11|87
+Chris O'Grady|L|Buster Posey|R|Groundout|X|Cutter|50|1|1|0|5|82
+Chris O'Grady|L|Brandon Belt|L|Double|D|Curveball|51|0|0|1|13|75
+Chris O'Grady|L|Jae-Gyun Hwang|R|Pop Out|X|Cutter|52|0|0|1|13|82
+Chris O'Grady|L|Brandon Crawford|L|Single|B|Cutter|53|0|0|2|13|83
+Chris O'Grady|L|Brandon Crawford|L|Single|F|Cutter|54|1|0|2|13|83
+Chris O'Grady|L|Brandon Crawford|L|Single|E|Four-Seam Fastball|55|1|1|2|1|88
+Chris O'Grady|L|Gorkys Hernandez|R|Strikeout|F|Four-Seam Fastball|56|0|0|2|2|87
+Chris O'Grady|L|Gorkys Hernandez|R|Strikeout|B|Four-Seam Fastball|57|0|1|2|8|87
+Chris O'Grady|L|Gorkys Hernandez|R|Strikeout|C|Curveball|58|1|1|2|12|74
+Chris O'Grady|L|Gorkys Hernandez|R|Strikeout|T|Cutter|59|1|2|2|6|83
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|B|Cutter|60|0|0|0|13|82
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|F|Cutter|61|1|0|0|13|81
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|B|Four-Seam Fastball|62|1|1|0|13|87
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|B|Four-Seam Fastball|63|2|1|0|14|85
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|F|Four-Seam Fastball|64|3|1|0|4|86
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|F|Cutter|65|3|2|0|13|82
+Chris O'Grady|L|Jeff Samardzija|R|Groundout|X|Cutter|66|3|2|0|6|81
+Chris O'Grady|L|Denard Span|L|Strikeout|F|Four-Seam Fastball|67|0|0|1|1|88
+Chris O'Grady|L|Denard Span|L|Strikeout|B|Four-Seam Fastball|68|0|1|1|12|87
+Chris O'Grady|L|Denard Span|L|Strikeout|B|Changeup|69|1|1|1|11|77
+Chris O'Grady|L|Denard Span|L|Strikeout|F|Four-Seam Fastball|70|2|1|1|5|87
+Chris O'Grady|L|Denard Span|L|Strikeout|B|Cutter|71|2|2|1|12|83
+Chris O'Grady|L|Denard Span|L|Strikeout|C|Cutter|72|3|2|1|2|83
+Chris O'Grady|L|Joe Panik|L|Flyout|X|Curveball|73|0|0|2|5|75
+Chris O'Grady|L|Hunter Pence|R|Flyout|X|Cutter|74|0|0|0|1|81
+Chris O'Grady|L|Buster Posey|R|Double|C|Four-Seam Fastball|75|0|0|1|2|86
+Chris O'Grady|L|Buster Posey|R|Double|B|N/A|76|0|1|1|0|0
+Chris O'Grady|L|Buster Posey|R|Double|D|Four-Seam Fastball|77|1|1|1|1|88
+Chris O'Grady|L|Brandon Belt|L|Double|B|Four-Seam Fastball|78|0|0|1|11|86
+Chris O'Grady|L|Brandon Belt|L|Double|F|Cutter|79|1|0|1|13|82
+Chris O'Grady|L|Brandon Belt|L|Double|E|Four-Seam Fastball|80|1|1|1|5|87
+Chris O'Grady|L|Logan Forsythe|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|85
+Chris O'Grady|L|Logan Forsythe|R|Flyout|B|Cutter|1|1|0|0|11|80
+Chris O'Grady|L|Logan Forsythe|R|Flyout|F|Cutter|2|2|0|0|4|80
+Chris O'Grady|L|Logan Forsythe|R|Flyout|B|Four-Seam Fastball|3|2|1|0|12|87
+Chris O'Grady|L|Logan Forsythe|R|Flyout|X|Cutter|4|3|1|0|4|83
+Chris O'Grady|L|Corey Seager|L|Flyout|X|Cutter|5|0|0|1|3|84
+Chris O'Grady|L|Justin Turner|R|Home Run|B|Four-Seam Fastball|6|0|0|2|12|87
+Chris O'Grady|L|Justin Turner|R|Home Run|C|Curveball|7|1|0|2|14|75
+Chris O'Grady|L|Justin Turner|R|Home Run|B|Changeup|8|1|1|2|14|78
+Chris O'Grady|L|Justin Turner|R|Home Run|E|Cutter|9|2|1|2|8|82
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|10|0|0|2|6|88
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|F|Four-Seam Fastball|11|0|1|2|3|89
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|B|Four-Seam Fastball|12|0|2|2|12|89
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|S|Cutter|13|1|2|2|13|83
+Chris O'Grady|L|Chris Taylor|R|Flyout|B|Cutter|14|0|0|0|13|81
+Chris O'Grady|L|Chris Taylor|R|Flyout|X|Four-Seam Fastball|15|1|0|0|6|86
+Chris O'Grady|L|Austin Barnes|R|Groundout|C|Four-Seam Fastball|16|0|0|1|3|86
+Chris O'Grady|L|Austin Barnes|R|Groundout|B|Cutter|17|0|1|1|13|84
+Chris O'Grady|L|Austin Barnes|R|Groundout|S|Curveball|18|1|1|1|8|74
+Chris O'Grady|L|Austin Barnes|R|Groundout|B|Cutter|19|1|2|1|14|82
+Chris O'Grady|L|Austin Barnes|R|Groundout|X|Cutter|20|2|2|1|2|83
+Chris O'Grady|L|Enrique Hernandez|R|Walk|C|Four-Seam Fastball|21|0|0|2|8|89
+Chris O'Grady|L|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|22|0|1|2|12|89
+Chris O'Grady|L|Enrique Hernandez|R|Walk|F|Four-Seam Fastball|23|1|1|2|2|89
+Chris O'Grady|L|Enrique Hernandez|R|Walk|B|Cutter|24|1|2|2|12|84
+Chris O'Grady|L|Enrique Hernandez|R|Walk|F|Cutter|25|2|2|2|11|83
+Chris O'Grady|L|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|26|2|2|2|12|89
+Chris O'Grady|L|Enrique Hernandez|R|Walk|B|Cutter|27|3|2|2|14|83
+Chris O'Grady|L|Trayce Thompson|R|Flyout|F|Four-Seam Fastball|28|0|0|2|12|87
+Chris O'Grady|L|Trayce Thompson|R|Flyout|B|Four-Seam Fastball|29|0|1|2|11|88
+Chris O'Grady|L|Trayce Thompson|R|Flyout|S|Four-Seam Fastball|30|1|1|2|2|88
+Chris O'Grady|L|Trayce Thompson|R|Flyout|X|Four-Seam Fastball|31|1|2|2|12|88
+Chris O'Grady|L|Rich Hill|L|Strikeout|B|Four-Seam Fastball|32|0|0|0|13|86
+Chris O'Grady|L|Rich Hill|L|Strikeout|B|Four-Seam Fastball|33|1|0|0|11|86
+Chris O'Grady|L|Rich Hill|L|Strikeout|C|Four-Seam Fastball|34|2|0|0|4|88
+Chris O'Grady|L|Rich Hill|L|Strikeout|S|Cutter|35|2|1|0|7|81
+Chris O'Grady|L|Rich Hill|L|Strikeout|F|Cutter|36|2|2|0|4|82
+Chris O'Grady|L|Rich Hill|L|Strikeout|S|Four-Seam Fastball|37|2|2|0|2|87
+Chris O'Grady|L|Logan Forsythe|R|Walk|B|Curveball|38|0|0|1|14|75
+Chris O'Grady|L|Logan Forsythe|R|Walk|C|Curveball|39|1|0|1|14|74
+Chris O'Grady|L|Logan Forsythe|R|Walk|F|Cutter|40|1|1|1|2|81
+Chris O'Grady|L|Logan Forsythe|R|Walk|B|Four-Seam Fastball|41|1|2|1|12|88
+Chris O'Grady|L|Logan Forsythe|R|Walk|B|Cutter|42|2|2|1|12|82
+Chris O'Grady|L|Logan Forsythe|R|Walk|B|Cutter|43|3|2|1|13|82
+Chris O'Grady|L|Corey Seager|L|Single|B|Four-Seam Fastball|44|0|0|1|13|88
+Chris O'Grady|L|Corey Seager|L|Single|S|Cutter|45|1|0|1|3|82
+Chris O'Grady|L|Corey Seager|L|Single|B|Curveball|46|1|1|1|14|75
+Chris O'Grady|L|Corey Seager|L|Single|C|Cutter|47|2|1|1|11|82
+Chris O'Grady|L|Corey Seager|L|Single|D|Four-Seam Fastball|48|2|2|1|5|89
+Chris O'Grady|L|Justin Turner|R|Sac Fly|C|Cutter|49|0|0|1|1|81
+Chris O'Grady|L|Justin Turner|R|Sac Fly|B|Four-Seam Fastball|50|0|1|1|14|88
+Chris O'Grady|L|Justin Turner|R|Sac Fly|E|Four-Seam Fastball|51|1|1|1|2|87
+Chris O'Grady|L|Cody Bellinger|L|Flyout|F|Four-Seam Fastball|52|0|0|2|6|88
+Chris O'Grady|L|Cody Bellinger|L|Flyout|B|Four-Seam Fastball|53|0|1|2|12|87
+Chris O'Grady|L|Cody Bellinger|L|Flyout|S|Four-Seam Fastball|54|1|1|2|3|87
+Chris O'Grady|L|Cody Bellinger|L|Flyout|X|Two-Seam Fastball|55|1|2|2|1|89
+Chris O'Grady|L|Chris Taylor|R|Triple|B|Curveball|56|0|0|0|12|72
+Chris O'Grady|L|Chris Taylor|R|Triple|S|Cutter|57|1|0|0|13|81
+Chris O'Grady|L|Chris Taylor|R|Triple|B|Cutter|58|1|1|0|12|79
+Chris O'Grady|L|Chris Taylor|R|Triple|D|Four-Seam Fastball|59|2|1|0|3|86
+Chris O'Grady|L|Austin Barnes|R|Single|F|Cutter|60|0|0|0|11|80
+Chris O'Grady|L|Austin Barnes|R|Single|E|Cutter|61|0|1|0|5|81
+Chris O'Grady|L|Enrique Hernandez|R|Strikeout|F|Four-Seam Fastball|62|0|0|0|4|87
+Chris O'Grady|L|Enrique Hernandez|R|Strikeout|C|Cutter|63|0|1|0|12|80
+Chris O'Grady|L|Enrique Hernandez|R|Strikeout|F|Cutter|64|0|2|0|13|81
+Chris O'Grady|L|Enrique Hernandez|R|Strikeout|B|Four-Seam Fastball|65|0|2|0|14|86
+Chris O'Grady|L|Enrique Hernandez|R|Strikeout|S|Changeup|66|1|2|0|2|78
+Chris O'Grady|L|Trayce Thompson|R|Strikeout|C|Four-Seam Fastball|67|0|0|1|6|86
+Chris O'Grady|L|Trayce Thompson|R|Strikeout|B|Changeup|68|0|1|1|14|77
+Chris O'Grady|L|Trayce Thompson|R|Strikeout|F|Cutter|69|1|1|1|4|81
+Chris O'Grady|L|Trayce Thompson|R|Strikeout|C|Four-Seam Fastball|70|1|2|1|9|87
+Chris O'Grady|L|Rich Hill|L|Groundout|C|Cutter|71|0|0|2|6|80
+Chris O'Grady|L|Rich Hill|L|Groundout|X|Cutter|72|0|1|2|4|82
+Chris O'Grady|L|Logan Forsythe|R|Flyout|C|Cutter|73|0|0|0|8|78
+Chris O'Grady|L|Logan Forsythe|R|Flyout|B|Changeup|74|0|1|0|14|77
+Chris O'Grady|L|Logan Forsythe|R|Flyout|B|Four-Seam Fastball|75|1|1|0|11|86
+Chris O'Grady|L|Logan Forsythe|R|Flyout|X|Cutter|76|2|1|0|6|80
+Chris O'Grady|L|Corey Seager|L|Strikeout|T|Cutter|77|0|0|1|4|81
+Chris O'Grady|L|Corey Seager|L|Strikeout|S|Cutter|78|0|1|1|13|83
+Chris O'Grady|L|Corey Seager|L|Strikeout|S|Four-Seam Fastball|79|0|2|1|12|89
+Chris O'Grady|L|Justin Turner|R|Single|C|Changeup|80|0|0|2|14|77
+Chris O'Grady|L|Justin Turner|R|Single|B|Curveball|81|0|1|2|14|74
+Chris O'Grady|L|Justin Turner|R|Single|B|Changeup|82|1|1|2|14|78
+Chris O'Grady|L|Justin Turner|R|Single|B|Changeup|83|2|1|2|12|77
+Chris O'Grady|L|Justin Turner|R|Single|D|Cutter|84|3|1|2|7|81
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|F|Cutter|85|0|0|2|13|82
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|B|Cutter|86|0|1|2|13|83
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|B|Cutter|87|1|1|2|13|82
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|F|Four-Seam Fastball|88|2|1|2|5|87
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|B|Cutter|89|2|2|2|12|82
+Chris O'Grady|L|Cody Bellinger|L|Strikeout|S|Cutter|90|3|2|2|13|83
+Chris O'Grady|L|Billy Hamilton|R|Single|D|Four-Seam Fastball|0|0|0|0|2|86
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Cutter|1|0|0|0|12|83
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Four-Seam Fastball|2|1|0|0|8|86
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Cutter|3|2|0|0|13|80
+Chris O'Grady|L|Zack Cozart|R|Walk|C|Four-Seam Fastball|4|3|0|0|5|87
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Cutter|5|3|1|0|11|81
+Chris O'Grady|L|Joey Votto|L|Walk|B|Four-Seam Fastball|6|0|0|0|12|86
+Chris O'Grady|L|Joey Votto|L|Walk|B|Cutter|7|1|0|0|11|81
+Chris O'Grady|L|Joey Votto|L|Walk|C|Cutter|8|2|0|0|8|81
+Chris O'Grady|L|Joey Votto|L|Walk|*B|Four-Seam Fastball|9|2|1|0|13|87
+Chris O'Grady|L|Joey Votto|L|Walk|C|Four-Seam Fastball|10|3|1|0|12|87
+Chris O'Grady|L|Joey Votto|L|Walk|B|Cutter|11|3|2|0|13|82
+Chris O'Grady|L|Adam Duvall|R|Walk|C|Four-Seam Fastball|12|0|0|0|5|88
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Changeup|13|0|1|0|14|78
+Chris O'Grady|L|Adam Duvall|R|Walk|*B|Cutter|14|1|1|0|13|82
+Chris O'Grady|L|Adam Duvall|R|Walk|C|Changeup|15|2|1|0|8|78
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|16|2|2|0|13|88
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|17|3|2|0|13|89
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|B|Cutter|18|0|0|0|13|83
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|C|Four-Seam Fastball|19|1|0|0|7|87
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|*B|Changeup|20|1|1|0|13|78
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|F|Changeup|21|2|1|0|4|79
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|B|Four-Seam Fastball|22|2|2|0|11|88
+Chris O'Grady|L|Eugenio Suarez|R|Grounded Into DP|E|Cutter|23|3|2|0|4|81
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|C|Cutter|24|0|0|2|5|82
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Four-Seam Fastball|25|0|1|2|5|87
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|B|Cutter|26|0|2|2|13|83
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|B|Cutter|27|1|2|2|11|83
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|B|Changeup|28|2|2|2|13|78
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|29|3|2|2|11|88
+Chris O'Grady|L|Devin Mesoraco|R|Walk|B|Four-Seam Fastball|30|0|0|0|11|86
+Chris O'Grady|L|Devin Mesoraco|R|Walk|B|Cutter|31|1|0|0|13|80
+Chris O'Grady|L|Devin Mesoraco|R|Walk|C|Cutter|32|2|0|0|5|82
+Chris O'Grady|L|Devin Mesoraco|R|Walk|B|Four-Seam Fastball|33|2|1|0|13|87
+Chris O'Grady|L|Devin Mesoraco|R|Walk|B|Changeup|34|3|1|0|14|77
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|B|Cutter|35|0|0|0|11|80
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|C|Four-Seam Fastball|36|1|0|0|4|86
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|B|Changeup|37|1|1|0|12|77
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|F|Four-Seam Fastball|38|2|1|0|12|87
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|F|Cutter|39|2|2|0|12|82
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|B|Cutter|40|2|2|0|11|82
+Chris O'Grady|L|Patrick Kivlehan|R|Flyout|X|Four-Seam Fastball|41|3|2|0|6|88
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|B|Four-Seam Fastball|42|0|0|1|14|85
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|L|Four-Seam Fastball|43|1|0|1|5|87
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|M|Cutter|44|1|1|1|4|80
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|M|Cutter|45|1|2|1|7|79
+Chris O'Grady|L|Billy Hamilton|R|Lineout|B|Four-Seam Fastball|46|0|0|2|13|87
+Chris O'Grady|L|Billy Hamilton|R|Lineout|*B|Changeup|47|1|0|2|14|77
+Chris O'Grady|L|Billy Hamilton|R|Lineout|C|Four-Seam Fastball|48|2|0|2|14|87
+Chris O'Grady|L|Billy Hamilton|R|Lineout|F|Cutter|49|2|1|2|13|82
+Chris O'Grady|L|Billy Hamilton|R|Lineout|X|Cutter|50|2|2|2|14|81
+Chris O'Grady|L|Zack Cozart|R|Walk|C|Four-Seam Fastball|51|0|0|0|3|86
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Curveball|52|0|1|0|11|74
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Changeup|53|1|1|0|13|76
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Cutter|54|2|1|0|11|82
+Chris O'Grady|L|Zack Cozart|R|Walk|B|Four-Seam Fastball|55|3|1|0|12|86
+Chris O'Grady|L|Joey Votto|L|Grounded Into DP|B|Four-Seam Fastball|56|0|0|0|12|88
+Chris O'Grady|L|Joey Votto|L|Grounded Into DP|C|Four-Seam Fastball|57|1|0|0|14|87
+Chris O'Grady|L|Joey Votto|L|Grounded Into DP|B|Four-Seam Fastball|58|1|1|0|12|87
+Chris O'Grady|L|Joey Votto|L|Grounded Into DP|B|Changeup|59|2|1|0|12|77
+Chris O'Grady|L|Joey Votto|L|Grounded Into DP|X|Four-Seam Fastball|60|3|1|0|6|86
+Chris O'Grady|L|Adam Duvall|R|Strikeout|C|Curveball|61|0|0|2|3|75
+Chris O'Grady|L|Adam Duvall|R|Strikeout|S|Changeup|62|0|1|2|6|78
+Chris O'Grady|L|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|63|0|2|2|11|88
+Chris O'Grady|L|Adam Duvall|R|Strikeout|S|Four-Seam Fastball|64|1|2|2|1|89
+Chris O'Grady|L|Eugenio Suarez|R|Single|B|Curveball|65|0|0|0|12|71
+Chris O'Grady|L|Eugenio Suarez|R|Single|D|Four-Seam Fastball|66|1|0|0|4|86
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|67|0|0|0|4|86
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Cutter|68|0|1|0|11|81
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Changeup|69|0|2|0|1|77
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|*B|Four-Seam Fastball|70|0|2|0|13|88
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Four-Seam Fastball|71|1|2|0|12|87
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|S|Cutter|72|1|2|0|13|83
+Chris O'Grady|L|Devin Mesoraco|R|Strikeout|C|Curveball|73|0|0|1|3|74
+Chris O'Grady|L|Devin Mesoraco|R|Strikeout|F|Changeup|74|0|1|1|2|78
+Chris O'Grady|L|Devin Mesoraco|R|Strikeout|C|Cutter|75|0|2|1|12|83
+Chris O'Grady|L|Patrick Kivlehan|R|Home Run|C|Changeup|76|0|0|2|12|76
+Chris O'Grady|L|Patrick Kivlehan|R|Home Run|B|Cutter|77|0|1|2|11|81
+Chris O'Grady|L|Patrick Kivlehan|R|Home Run|B|Four-Seam Fastball|78|1|1|2|13|87
+Chris O'Grady|L|Patrick Kivlehan|R|Home Run|E|Changeup|79|2|1|2|8|77
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|B|Four-Seam Fastball|80|0|0|2|12|85
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|F|Cutter|81|1|0|2|4|81
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|S|Four-Seam Fastball|82|1|1|2|2|85
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|B|Cutter|83|1|2|2|13|81
+Chris O'Grady|L|Robert Stephenson|R|Strikeout|S|Four-Seam Fastball|84|2|2|2|12|85
+Chris O'Grady|L|Billy Hamilton|R|Groundout|X|Cutter|85|0|0|0|3|83
+Chris O'Grady|L|Zack Cozart|R|Triple|C|Curveball|86|0|0|1|6|74
+Chris O'Grady|L|Zack Cozart|R|Triple|B|Four-Seam Fastball|87|0|1|1|14|87
+Chris O'Grady|L|Zack Cozart|R|Triple|D|Four-Seam Fastball|88|1|1|1|3|87
+Chris O'Grady|L|Joey Votto|L|Intent Walk|V|N/A|89|0|0|1|0|0
+Chris O'Grady|L|Joey Votto|L|Intent Walk|V|N/A|90|0|1|1|0|0
+Chris O'Grady|L|Joey Votto|L|Intent Walk|V|N/A|91|0|2|1|0|0
+Chris O'Grady|L|Joey Votto|L|Intent Walk|V|N/A|92|0|2|1|0|0
+Chris O'Grady|L|Billy Hamilton|R|Lineout|B|Cutter|0|0|0|0|13|81
+Chris O'Grady|L|Billy Hamilton|R|Lineout|F|Four-Seam Fastball|1|1|0|0|5|85
+Chris O'Grady|L|Billy Hamilton|R|Lineout|B|Four-Seam Fastball|2|1|1|0|12|86
+Chris O'Grady|L|Billy Hamilton|R|Lineout|C|Cutter|3|2|1|0|6|81
+Chris O'Grady|L|Billy Hamilton|R|Lineout|X|Cutter|4|2|2|0|6|81
+Chris O'Grady|L|Eugenio Suarez|R|Single|C|Four-Seam Fastball|5|0|0|1|2|87
+Chris O'Grady|L|Eugenio Suarez|R|Single|D|Cutter|6|0|1|1|7|82
+Chris O'Grady|L|Joey Votto|L|Flyout|X|Cutter|7|0|0|1|8|82
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|8|0|0|2|12|86
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|9|1|0|2|14|87
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|10|2|0|2|14|87
+Chris O'Grady|L|Adam Duvall|R|Walk|C|Four-Seam Fastball|11|3|0|2|14|87
+Chris O'Grady|L|Adam Duvall|R|Walk|B|Changeup|12|3|1|2|12|77
+Chris O'Grady|L|Scooter Gennett|L|Flyout|B|Cutter|13|0|0|2|13|82
+Chris O'Grady|L|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|14|1|0|2|3|86
+Chris O'Grady|L|Scott Schebler|L|Strikeout|C|Four-Seam Fastball|15|0|0|0|4|85
+Chris O'Grady|L|Scott Schebler|L|Strikeout|F|Curveball|16|0|1|0|13|74
+Chris O'Grady|L|Scott Schebler|L|Strikeout|W|Curveball|17|0|2|0|13|74
+Chris O'Grady|L|Jose Peraza|R|Single|B|Four-Seam Fastball|18|0|0|1|12|86
+Chris O'Grady|L|Jose Peraza|R|Single|D|Curveball|19|1|0|1|13|73
+Chris O'Grady|L|Tucker Barnhart|R|Groundout|C|Four-Seam Fastball|20|0|0|1|6|86
+Chris O'Grady|L|Tucker Barnhart|R|Groundout|C|Four-Seam Fastball|21|0|1|1|9|86
+Chris O'Grady|L|Tucker Barnhart|R|Groundout|X|Changeup|22|0|2|1|9|77
+Chris O'Grady|L|Robert Stephenson|R|Groundout|X|Cutter|23|0|0|2|13|80
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|B|Four-Seam Fastball|24|0|0|0|11|85
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|C|Changeup|25|1|0|0|5|76
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|B|Changeup|26|1|1|0|13|76
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|F|Four-Seam Fastball|27|2|1|0|4|85
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|F|Cutter|28|2|2|0|5|82
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|B|Changeup|29|2|2|0|13|78
+Chris O'Grady|L|Billy Hamilton|R|Strikeout|S|Four-Seam Fastball|30|3|2|0|8|86
+Chris O'Grady|L|Eugenio Suarez|R|Groundout|B|Curveball|31|0|0|1|12|73
+Chris O'Grady|L|Eugenio Suarez|R|Groundout|C|Four-Seam Fastball|32|1|0|1|14|86
+Chris O'Grady|L|Eugenio Suarez|R|Groundout|B|Changeup|33|1|1|1|14|78
+Chris O'Grady|L|Eugenio Suarez|R|Groundout|X|Four-Seam Fastball|34|2|1|1|8|87
+Chris O'Grady|L|Joey Votto|L|Walk|S|Cutter|35|0|0|2|4|82
+Chris O'Grady|L|Joey Votto|L|Walk|F|Four-Seam Fastball|36|0|1|2|5|88
+Chris O'Grady|L|Joey Votto|L|Walk|B|Curveball|37|0|2|2|13|75
+Chris O'Grady|L|Joey Votto|L|Walk|B|Cutter|38|1|2|2|14|83
+Chris O'Grady|L|Joey Votto|L|Walk|B|Cutter|39|2|2|2|12|82
+Chris O'Grady|L|Joey Votto|L|Walk|B|Cutter|40|3|2|2|13|83
+Chris O'Grady|L|Adam Duvall|R|Pop Out|B|Changeup|41|0|0|2|12|78
+Chris O'Grady|L|Adam Duvall|R|Pop Out|F|Changeup|42|1|0|2|3|78
+Chris O'Grady|L|Adam Duvall|R|Pop Out|F|Four-Seam Fastball|43|1|1|2|5|88
+Chris O'Grady|L|Adam Duvall|R|Pop Out|*B|Curveball|44|1|2|2|13|75
+Chris O'Grady|L|Adam Duvall|R|Pop Out|F|Four-Seam Fastball|45|2|2|2|1|88
+Chris O'Grady|L|Adam Duvall|R|Pop Out|B|Cutter|46|2|2|2|11|82
+Chris O'Grady|L|Adam Duvall|R|Pop Out|X|Changeup|47|3|2|2|6|78
+Chris O'Grady|L|Scooter Gennett|L|Groundout|B|Four-Seam Fastball|48|0|0|0|11|85
+Chris O'Grady|L|Scooter Gennett|L|Groundout|X|Cutter|49|1|0|0|13|80
+Chris O'Grady|L|Scott Schebler|L|Pop Out|B|Four-Seam Fastball|50|0|0|1|12|84
+Chris O'Grady|L|Scott Schebler|L|Pop Out|B|Curveball|51|1|0|1|13|73
+Chris O'Grady|L|Scott Schebler|L|Pop Out|X|Cutter|52|2|0|1|5|81
+Chris O'Grady|L|Jose Peraza|R|Single|B|Four-Seam Fastball|53|0|0|2|14|86
+Chris O'Grady|L|Jose Peraza|R|Single|C|Changeup|54|1|0|2|8|78
+Chris O'Grady|L|Jose Peraza|R|Single|F|Changeup|55|1|1|2|14|77
+Chris O'Grady|L|Jose Peraza|R|Single|B|Four-Seam Fastball|56|1|2|2|11|87
+Chris O'Grady|L|Jose Peraza|R|Single|B|Cutter|57|2|2|2|14|82
+Chris O'Grady|L|Jose Peraza|R|Single|D|Changeup|58|3|2|2|9|78
+Chris O'Grady|L|Tucker Barnhart|R|Single|C|Four-Seam Fastball|59|0|0|2|6|87
+Chris O'Grady|L|Tucker Barnhart|R|Single|B|Cutter|60|0|1|2|14|81
+Chris O'Grady|L|Tucker Barnhart|R|Single|D|Changeup|61|1|1|2|9|78
+Chris O'Grady|L|Robert Stephenson|R|Forceout|C|Changeup|62|0|0|2|7|80
+Chris O'Grady|L|Robert Stephenson|R|Forceout|C|Four-Seam Fastball|63|0|1|2|14|86
+Chris O'Grady|L|Robert Stephenson|R|Forceout|X|Cutter|64|0|2|2|6|82
+Chris O'Grady|L|Billy Hamilton|R|Flyout|X|Cutter|65|0|0|0|4|81
+Chris O'Grady|L|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|66|0|0|1|12|86
+Chris O'Grady|L|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|67|1|0|1|11|86
+Chris O'Grady|L|Eugenio Suarez|R|Strikeout|F|Cutter|68|1|1|1|13|82
+Chris O'Grady|L|Eugenio Suarez|R|Strikeout|C|Cutter|69|1|2|1|8|83
+Chris O'Grady|L|Joey Votto|L|Hit By Pitch|B|Cutter|70|0|0|2|13|83
+Chris O'Grady|L|Joey Votto|L|Hit By Pitch|S|Changeup|71|1|0|2|9|78
+Chris O'Grady|L|Joey Votto|L|Hit By Pitch|B|Four-Seam Fastball|72|1|1|2|14|88
+Chris O'Grady|L|Joey Votto|L|Hit By Pitch|F|Changeup|73|2|1|2|3|78
+Chris O'Grady|L|Joey Votto|L|Hit By Pitch|H|Cutter|74|2|2|2|12|83
+Chris O'Grady|L|Adam Duvall|R|Double|B|Curveball|75|0|0|2|1|74
+Chris O'Grady|L|Adam Duvall|R|Double|X|Four-Seam Fastball|76|1|0|2|11|86
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|77|0|0|0|8|84
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Changeup|78|0|1|0|4|77
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|B|Cutter|79|0|2|0|13|82
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|F|Cutter|80|1|2|0|13|82
+Chris O'Grady|L|Scooter Gennett|L|Strikeout|T|Changeup|81|1|2|0|3|77
+Chris O'Grady|L|Scott Schebler|L|Groundout|F|Curveball|82|0|0|1|6|74
+Chris O'Grady|L|Scott Schebler|L|Groundout|X|Cutter|83|0|1|1|7|83
+Chris O'Grady|L|Jose Peraza|R|Groundout|F|Four-Seam Fastball|84|0|0|2|12|86
+Chris O'Grady|L|Jose Peraza|R|Groundout|B|Four-Seam Fastball|85|0|1|2|11|87
+Chris O'Grady|L|Jose Peraza|R|Groundout|X|Cutter|86|1|1|2|8|83
+Chris O'Grady|L|Tucker Barnhart|R|Lineout|F|Four-Seam Fastball|87|0|0|2|12|85
+Chris O'Grady|L|Tucker Barnhart|R|Lineout|X|Four-Seam Fastball|88|0|1|2|12|86
+Chris O'Grady|L|Arismendy Alcantara|R|Strikeout|C|Curveball|89|0|0|0|9|73
+Chris O'Grady|L|Arismendy Alcantara|R|Strikeout|F|Changeup|90|0|1|0|14|77
+Chris O'Grady|L|Arismendy Alcantara|R|Strikeout|B|Cutter|91|0|2|0|14|82
+Chris O'Grady|L|Arismendy Alcantara|R|Strikeout|S|Changeup|92|1|2|0|13|77
+Chris O'Grady|L|Billy Hamilton|R|Pop Out|F|Four-Seam Fastball|93|0|0|1|1|88
+Chris O'Grady|L|Billy Hamilton|R|Pop Out|B|Four-Seam Fastball|94|0|1|1|13|88
+Chris O'Grady|L|Billy Hamilton|R|Pop Out|X|Changeup|95|1|1|1|9|78
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|86
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|F|Cutter|1|0|1|0|7|82
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|87
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|F|Changeup|3|1|2|0|14|78
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|B|Four-Seam Fastball|4|1|2|0|12|88
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|F|Cutter|5|2|2|0|7|82
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|F|Changeup|6|2|2|0|12|79
+Chris O'Grady|L|Wilmer Difo|R|Strikeout|S|Cutter|7|2|2|0|6|82
+Chris O'Grady|L|Howie Kendrick|R|Single|C|Four-Seam Fastball|8|0|0|1|6|88
+Chris O'Grady|L|Howie Kendrick|R|Single|C|Four-Seam Fastball|9|0|1|1|12|89
+Chris O'Grady|L|Howie Kendrick|R|Single|B|Four-Seam Fastball|10|0|2|1|14|89
+Chris O'Grady|L|Howie Kendrick|R|Single|D|Cutter|11|1|2|1|14|84
+Chris O'Grady|L|Bryce Harper|L|Flyout|C|Four-Seam Fastball|12|0|0|1|13|88
+Chris O'Grady|L|Bryce Harper|L|Flyout|*B|Four-Seam Fastball|13|0|1|1|13|84
+Chris O'Grady|L|Bryce Harper|L|Flyout|S|Four-Seam Fastball|14|1|1|1|12|89
+Chris O'Grady|L|Bryce Harper|L|Flyout|*B|Changeup|15|1|2|1|14|79
+Chris O'Grady|L|Bryce Harper|L|Flyout|F|Cutter|16|2|2|1|9|82
+Chris O'Grady|L|Bryce Harper|L|Flyout|B|Four-Seam Fastball|17|2|2|1|11|90
+Chris O'Grady|L|Bryce Harper|L|Flyout|X|Four-Seam Fastball|18|3|2|1|12|90
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|B|Four-Seam Fastball|19|0|0|2|13|88
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|B|Four-Seam Fastball|20|1|0|2|14|88
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|B|Four-Seam Fastball|21|2|0|2|14|88
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|C|Four-Seam Fastball|22|3|0|2|13|88
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|F|Cutter|23|3|1|2|4|83
+Chris O'Grady|L|Ryan Zimmerman|R|Lineout|X|Four-Seam Fastball|24|3|2|2|2|87
+Chris O'Grady|L|Daniel Murphy|L|Double|B|Four-Seam Fastball|25|0|0|0|13|87
+Chris O'Grady|L|Daniel Murphy|L|Double|D|Four-Seam Fastball|26|1|0|0|3|86
+Chris O'Grady|L|Anthony Rendon|R|Double|B|Four-Seam Fastball|27|0|0|0|13|87
+Chris O'Grady|L|Anthony Rendon|R|Double|F|Cutter|28|1|0|0|8|81
+Chris O'Grady|L|Anthony Rendon|R|Double|E|Four-Seam Fastball|29|1|1|0|8|88
+Chris O'Grady|L|Matt Wieters|R|Groundout|X|Curveball|30|0|0|0|6|74
+Chris O'Grady|L|Brian Goodwin|L|Single|C|Four-Seam Fastball|31|0|0|1|3|86
+Chris O'Grady|L|Brian Goodwin|L|Single|B|Curveball|32|0|1|1|14|75
+Chris O'Grady|L|Brian Goodwin|L|Single|C|Cutter|33|1|1|1|8|82
+Chris O'Grady|L|Brian Goodwin|L|Single|D|Cutter|34|1|2|1|4|83
+Chris O'Grady|L|Max Scherzer|R|Home Run|M|Four-Seam Fastball|35|0|0|1|5|86
+Chris O'Grady|L|Max Scherzer|R|Home Run|F|Cutter|36|0|1|1|8|81
+Chris O'Grady|L|Max Scherzer|R|Home Run|E|Cutter|37|0|2|1|13|81
+Chris O'Grady|L|Wilmer Difo|R|Single|C|Curveball|38|0|0|1|5|75
+Chris O'Grady|L|Wilmer Difo|R|Single|S|Changeup|39|0|1|1|14|79
+Chris O'Grady|L|Wilmer Difo|R|Single|D|Four-Seam Fastball|40|0|2|1|11|88
+Chris O'Grady|L|Howie Kendrick|R|Home Run|B|Four-Seam Fastball|41|0|0|1|14|85
+Chris O'Grady|L|Howie Kendrick|R|Home Run|F|Cutter|42|1|0|1|5|82
+Chris O'Grady|L|Howie Kendrick|R|Home Run|C|Changeup|43|1|1|1|3|78
+Chris O'Grady|L|Howie Kendrick|R|Home Run|*B|Curveball|44|1|2|1|13|75
+Chris O'Grady|L|Howie Kendrick|R|Home Run|E|Changeup|45|2|2|1|6|79
+Chris O'Grady|L|Bryce Harper|L|Groundout|X|Changeup|46|0|0|1|14|78
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|B|Changeup|47|0|0|2|13|80
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|T|Changeup|48|1|0|2|2|80
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|B|Cutter|49|1|1|2|13|83
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|50|2|1|2|13|87
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|C|Four-Seam Fastball|51|3|1|2|14|87
+Chris O'Grady|L|Ryan Zimmerman|R|Strikeout|S|Cutter|52|3|2|2|12|84
+Chris O'Grady|L|Daniel Murphy|L|Flyout|B|Cutter|53|0|0|0|13|80
+Chris O'Grady|L|Daniel Murphy|L|Flyout|X|Curveball|54|1|0|0|8|74
+Chris O'Grady|L|Anthony Rendon|R|Pop Out|B|Curveball|55|0|0|1|12|74
+Chris O'Grady|L|Anthony Rendon|R|Pop Out|B|Changeup|56|1|0|1|13|80
+Chris O'Grady|L|Anthony Rendon|R|Pop Out|C|Cutter|57|2|0|1|5|82
+Chris O'Grady|L|Anthony Rendon|R|Pop Out|X|Changeup|58|2|1|1|9|79
+Chris O'Grady|L|Matt Wieters|R|Walk|C|Curveball|59|0|0|2|9|74
+Chris O'Grady|L|Matt Wieters|R|Walk|B|Four-Seam Fastball|60|0|1|2|14|87
+Chris O'Grady|L|Matt Wieters|R|Walk|B|Changeup|61|1|1|2|14|79
+Chris O'Grady|L|Matt Wieters|R|Walk|F|Cutter|62|2|1|2|13|82
+Chris O'Grady|L|Matt Wieters|R|Walk|B|Cutter|63|2|2|2|14|83
+Chris O'Grady|L|Matt Wieters|R|Walk|*B|Changeup|64|3|2|2|13|79
+Chris O'Grady|L|Brian Goodwin|L|Walk|B|Four-Seam Fastball|65|0|0|2|3|87
+Chris O'Grady|L|Brian Goodwin|L|Walk|B|Cutter|66|1|0|2|12|82
+Chris O'Grady|L|Brian Goodwin|L|Walk|B|Four-Seam Fastball|67|2|0|2|14|87
+Chris O'Grady|L|Brian Goodwin|L|Walk|C|Four-Seam Fastball|68|3|0|2|7|86
+Chris O'Grady|L|Brian Goodwin|L|Walk|B|Four-Seam Fastball|69|3|1|2|14|87
+Chris O'Grady|L|Matt Grace|L|Strikeout|B|Four-Seam Fastball|70|0|0|2|13|86
+Chris O'Grady|L|Matt Grace|L|Strikeout|C|Four-Seam Fastball|71|1|0|2|4|86
+Chris O'Grady|L|Matt Grace|L|Strikeout|S|Cutter|72|1|1|2|13|82
+Chris O'Grady|L|Matt Grace|L|Strikeout|F|Cutter|73|1|2|2|13|82
+Chris O'Grady|L|Matt Grace|L|Strikeout|C|Curveball|74|1|2|2|4|75
+Chris O'Grady|L|Brian Goodwin|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|85
+Chris O'Grady|L|Brian Goodwin|L|Strikeout|S|Curveball|1|0|1|0|13|76
+Chris O'Grady|L|Brian Goodwin|L|Strikeout|B|Curveball|2|0|2|0|13|75
+Chris O'Grady|L|Brian Goodwin|L|Strikeout|S|Cutter|3|1|2|0|11|82
+Chris O'Grady|L|Howie Kendrick|R|Groundout|B|Four-Seam Fastball|4|0|0|1|12|87
+Chris O'Grady|L|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|5|1|0|1|12|87
+Chris O'Grady|L|Howie Kendrick|R|Groundout|F|Cutter|6|1|1|1|11|83
+Chris O'Grady|L|Howie Kendrick|R|Groundout|X|Curveball|7|1|2|1|5|74
+Chris O'Grady|L|Bryce Harper|L|Strikeout|B|Cutter|8|0|0|2|13|83
+Chris O'Grady|L|Bryce Harper|L|Strikeout|C|Four-Seam Fastball|9|1|0|2|8|88
+Chris O'Grady|L|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|10|1|1|2|12|88
+Chris O'Grady|L|Bryce Harper|L|Strikeout|S|Cutter|11|1|2|2|11|84
+Chris O'Grady|L|Ryan Zimmerman|R|Walk|B|Cutter|12|0|0|0|12|83
+Chris O'Grady|L|Ryan Zimmerman|R|Walk|B|Changeup|13|1|0|0|13|80
+Chris O'Grady|L|Ryan Zimmerman|R|Walk|B|Cutter|14|2|0|0|11|78
+Chris O'Grady|L|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|15|3|0|0|14|84
+Chris O'Grady|L|Daniel Murphy|L|Pop Out|C|Cutter|16|0|0|0|11|81
+Chris O'Grady|L|Daniel Murphy|L|Pop Out|X|Curveball|17|0|1|0|4|73
+Chris O'Grady|L|Dominic Smith|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|86
+Chris O'Grady|L|Dominic Smith|L|Groundout|X|Cutter|1|0|1|0|13|81
+Chris O'Grady|L|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|2|0|0|1|14|87
+Chris O'Grady|L|Kevin Plawecki|R|Walk|F|Cutter|3|1|0|1|7|82
+Chris O'Grady|L|Kevin Plawecki|R|Walk|F|Cutter|4|1|1|1|12|83
+Chris O'Grady|L|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|5|1|2|1|11|87
+Chris O'Grady|L|Kevin Plawecki|R|Walk|B|Cutter|6|2|2|1|14|82
+Chris O'Grady|L|Kevin Plawecki|R|Walk|F|Cutter|7|3|2|1|13|82
+Chris O'Grady|L|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|8|3|2|1|14|89
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|B|Cutter|9|0|0|1|11|81
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|B|Four-Seam Fastball|10|1|0|1|13|86
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|B|Cutter|11|2|0|1|14|82
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|C|Four-Seam Fastball|12|3|0|1|12|88
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|F|Four-Seam Fastball|13|3|1|1|9|87
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|F|Cutter|14|3|2|1|12|82
+Chris O'Grady|L|Brandon Nimmo|L|Pop Out|X|Four-Seam Fastball|15|3|2|1|12|86
+Chris O'Grady|L|Phillip Evans|R|Single|F|Four-Seam Fastball|16|0|0|2|1|87
+Chris O'Grady|L|Phillip Evans|R|Single|D|Cutter|17|0|1|2|13|81
+Chris O'Grady|L|Travis Taijeron|R|Strikeout|F|Cutter|18|0|0|2|4|80
+Chris O'Grady|L|Travis Taijeron|R|Strikeout|C|Cutter|19|0|1|2|3|81
+Chris O'Grady|L|Travis Taijeron|R|Strikeout|B|Four-Seam Fastball|20|0|2|2|12|87
+Chris O'Grady|L|Travis Taijeron|R|Strikeout|S|Four-Seam Fastball|21|1|2|2|1|87
+Chris O'Grady|L|Jake Lamb|L|Strikeout|B|Curveball|0|0|0|0|14|73
+Chris O'Grady|L|Jake Lamb|L|Strikeout|C|Cutter|1|1|0|0|13|79
+Chris O'Grady|L|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|2|1|1|0|5|87
+Chris O'Grady|L|Jake Lamb|L|Strikeout|C|Cutter|3|1|2|0|4|82
+Chris O'Grady|L|Ketel Marte|R|Single|C|Four-Seam Fastball|4|0|0|1|7|86
+Chris O'Grady|L|Ketel Marte|R|Single|B|Cutter|5|0|1|1|13|82
+Chris O'Grady|L|Ketel Marte|R|Single|D|Changeup|6|1|1|1|13|77
+Chris O'Grady|L|Zack Greinke|R|Sac Bunt|B|Cutter|7|0|0|1|13|80
+Chris O'Grady|L|Zack Greinke|R|Sac Bunt|C|Four-Seam Fastball|8|1|0|1|7|85
+Chris O'Grady|L|Zack Greinke|R|Sac Bunt|X|Four-Seam Fastball|9|1|1|1|8|86
+Chris O'Grady|L|David Peralta|L|Pop Out|S|Cutter|10|0|0|2|7|81
+Chris O'Grady|L|David Peralta|L|Pop Out|*B|Cutter|11|0|1|2|13|83
+Chris O'Grady|L|David Peralta|L|Pop Out|C|Cutter|12|1|1|2|13|82
+Chris O'Grady|L|David Peralta|L|Pop Out|X|Four-Seam Fastball|13|1|2|2|3|86
+Chris O'Grady|L|Chris Herrmann|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|86
+Chris O'Grady|L|Chris Herrmann|L|Flyout|T|Cutter|1|1|0|0|4|81
+Chris O'Grady|L|Chris Herrmann|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|88
+Chris O'Grady|L|Chris Herrmann|L|Flyout|X|Cutter|3|2|1|0|4|82
+Chris O'Grady|L|Christian Walker|R|Groundout|B|Cutter|4|0|0|1|13|82
+Chris O'Grady|L|Christian Walker|R|Groundout|X|Changeup|5|1|0|1|6|80
+Chris O'Grady|L|David Peralta|L|Single|D|Cutter|6|0|0|2|8|84
+Chris O'Grady|L|Ketel Marte|R|Pop Out|S|Changeup|7|0|0|2|8|79
+Chris O'Grady|L|Ketel Marte|R|Pop Out|B|Cutter|8|0|1|2|13|82
+Chris O'Grady|L|Ketel Marte|R|Pop Out|T|Changeup|9|1|1|2|13|78
+Chris O'Grady|L|Ketel Marte|R|Pop Out|B|Cutter|10|1|2|2|11|82
+Chris O'Grady|L|Ketel Marte|R|Pop Out|B|Cutter|11|2|2|2|14|81
+Chris O'Grady|L|Ketel Marte|R|Pop Out|X|Changeup|12|3|2|2|5|79
+Chris O'Grady|L|Tyler Anderson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|86
+Chris O'Grady|L|Tyler Anderson|L|Strikeout|B|Cutter|1|0|1|0|14|81
+Chris O'Grady|L|Tyler Anderson|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|12|85
+Chris O'Grady|L|Tyler Anderson|L|Strikeout|S|Cutter|3|1|2|0|3|82
+Chris O'Grady|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|4|0|0|1|12|85
+Chris O'Grady|L|Charlie Blackmon|L|Walk|B|Cutter|5|1|0|1|13|82
+Chris O'Grady|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|6|2|0|1|12|87
+Chris O'Grady|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|7|3|0|1|3|87
+Chris O'Grady|L|DJ LeMahieu|R|Grounded Into DP|C|Cutter|8|0|0|1|6|85
+Chris O'Grady|L|DJ LeMahieu|R|Grounded Into DP|X|Cutter|9|0|1|1|6|81
+Chris O'Grady|L|Carlos Gonzalez|L|Single|B|Cutter|10|0|0|0|12|82
+Chris O'Grady|L|Carlos Gonzalez|L|Single|X|Cutter|11|1|0|0|5|81
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|85
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|C|Changeup|1|1|0|0|14|80
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|F|Cutter|2|1|1|0|3|81
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|3|1|2|0|12|86
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|F|Changeup|4|2|2|0|7|79
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|5|2|2|0|12|87
+Chris O'Grady|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|6|3|2|0|14|85
+Chris O'Grady|L|Jon Gray|R|Sac Bunt|C|Cutter|7|0|0|0|3|84
+Chris O'Grady|L|Jon Gray|R|Sac Bunt|B|Cutter|8|0|1|0|14|81
+Chris O'Grady|L|Jon Gray|R|Sac Bunt|X|Four-Seam Fastball|9|1|1|0|3|85
+Chris O'Grady|L|Charlie Blackmon|L|Lineout|C|Changeup|10|0|0|1|3|81
+Chris O'Grady|L|Charlie Blackmon|L|Lineout|S|Four-Seam Fastball|11|0|1|1|12|87
+Chris O'Grady|L|Charlie Blackmon|L|Lineout|X|Four-Seam Fastball|12|0|2|1|12|87
+Chris O'Grady|L|DJ LeMahieu|R|Groundout|X|Cutter|13|0|0|2|3|81
+Chris O'Grady|L|Lane Adams|R|Groundout|C|Curveball|0|0|0|0|12|73
+Chris O'Grady|L|Lane Adams|R|Groundout|S|Changeup|1|0|1|0|14|79
+Chris O'Grady|L|Lane Adams|R|Groundout|F|Cutter|2|0|2|0|13|82
+Chris O'Grady|L|Lane Adams|R|Groundout|B|Cutter|3|0|2|0|14|83
+Chris O'Grady|L|Lane Adams|R|Groundout|X|Changeup|4|1|2|0|9|79
+Chris O'Grady|L|Johan Camargo|R|Single|C|Four-Seam Fastball|5|0|0|1|9|88
+Chris O'Grady|L|Johan Camargo|R|Single|S|Cutter|6|0|1|1|13|83
+Chris O'Grady|L|Johan Camargo|R|Single|B|Changeup|7|0|2|1|14|80
+Chris O'Grady|L|Johan Camargo|R|Single|D|Changeup|8|1|2|1|14|80
+Chris O'Grady|L|Dansby Swanson|R|Single|C|Curveball|9|0|0|1|3|73
+Chris O'Grady|L|Dansby Swanson|R|Single|F|Changeup|10|0|1|1|14|79
+Chris O'Grady|L|Dansby Swanson|R|Single|B|Cutter|11|0|2|1|11|81
+Chris O'Grady|L|Dansby Swanson|R|Single|F|Cutter|12|1|2|1|14|82
+Chris O'Grady|L|Dansby Swanson|R|Single|B|Four-Seam Fastball|13|1|2|1|12|88
+Chris O'Grady|L|Dansby Swanson|R|Single|D|Changeup|14|2|2|1|8|78
+Chris O'Grady|L|Nick Markakis|L|Groundout|C|Cutter|0|0|0|0|3|82
+Chris O'Grady|L|Nick Markakis|L|Groundout|F|Four-Seam Fastball|1|0|1|0|4|88
+Chris O'Grady|L|Nick Markakis|L|Groundout|X|Four-Seam Fastball|2|0|2|0|4|87
+Chris O'Grady|L|Freddie Freeman|L|Groundout|S|Cutter|3|0|0|1|3|81
+Chris O'Grady|L|Freddie Freeman|L|Groundout|X|Cutter|4|0|1|1|7|83
+Chris O'Grady|L|Tyler Flowers|R|Double|B|Curveball|5|0|0|2|14|76
+Chris O'Grady|L|Tyler Flowers|R|Double|T|Four-Seam Fastball|6|1|0|2|6|87
+Chris O'Grady|L|Tyler Flowers|R|Double|D|Cutter|7|1|1|2|8|82
+Chris O'Grady|L|Lane Adams|R|Strikeout|F|Cutter|8|0|0|2|13|82
+Chris O'Grady|L|Lane Adams|R|Strikeout|F|Four-Seam Fastball|9|0|1|2|5|87
+Chris O'Grady|L|Lane Adams|R|Strikeout|B|Four-Seam Fastball|10|0|2|2|12|87
+Chris O'Grady|L|Lane Adams|R|Strikeout|S|Four-Seam Fastball|11|1|2|2|11|88

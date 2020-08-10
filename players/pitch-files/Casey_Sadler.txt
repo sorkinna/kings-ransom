@@ -1,0 +1,867 @@
+Casey Sadler|R|Evan Longoria|R|Field Error|C|Sinker|0|0|0|0|9|91
+Casey Sadler|R|Evan Longoria|R|Field Error|S|Cutter|1|0|1|0|1|87
+Casey Sadler|R|Evan Longoria|R|Field Error|D|Cutter|2|0|2|0|14|88
+Casey Sadler|R|Brandon Crawford|L|Single|B|Sinker|3|0|0|0|13|92
+Casey Sadler|R|Brandon Crawford|L|Single|F|Sinker|4|1|0|0|8|92
+Casey Sadler|R|Brandon Crawford|L|Single|C|Sinker|5|1|1|0|14|92
+Casey Sadler|R|Brandon Crawford|L|Single|D|Changeup|6|1|2|0|13|86
+Casey Sadler|R|Austin Slater|R|Strikeout|F|Sinker|7|0|0|0|5|92
+Casey Sadler|R|Austin Slater|R|Strikeout|B|Sinker|8|0|1|0|13|93
+Casey Sadler|R|Austin Slater|R|Strikeout|C|Sinker|9|1|1|0|9|92
+Casey Sadler|R|Austin Slater|R|Strikeout|F|Slider|10|1|2|0|6|88
+Casey Sadler|R|Austin Slater|R|Strikeout|F|Sinker|11|1|2|0|13|94
+Casey Sadler|R|Austin Slater|R|Strikeout|S|Curveball|12|1|2|0|14|81
+Casey Sadler|R|Alen Hanson|L|Groundout|F|Sinker|13|0|0|1|5|93
+Casey Sadler|R|Alen Hanson|L|Groundout|X|Sinker|14|0|1|1|13|92
+Casey Sadler|R|Joe Panik|L|Double|B|Changeup|15|0|0|2|13|86
+Casey Sadler|R|Joe Panik|L|Double|E|Sinker|16|1|0|2|4|92
+Casey Sadler|R|Steven Duggar|L|Double|F|Cutter|17|0|0|2|14|89
+Casey Sadler|R|Steven Duggar|L|Double|S|Changeup|18|0|1|2|13|86
+Casey Sadler|R|Steven Duggar|L|Double|B|Curveball|19|0|2|2|13|81
+Casey Sadler|R|Steven Duggar|L|Double|E|Sinker|20|1|2|2|7|94
+Casey Sadler|R|Hunter Pence|R|Groundout|C|Curveball|21|0|0|2|6|80
+Casey Sadler|R|Hunter Pence|R|Groundout|*B|Curveball|22|0|1|2|14|82
+Casey Sadler|R|Hunter Pence|R|Groundout|X|Sinker|23|1|1|2|6|93
+Casey Sadler|R|Evan Longoria|R|Single|E|Cutter|0|0|0|2|14|89
+Casey Sadler|R|Brandon Crawford|L|Walk|C|Sinker|1|0|0|2|7|91
+Casey Sadler|R|Brandon Crawford|L|Walk|B|Cutter|2|0|1|2|12|88
+Casey Sadler|R|Brandon Crawford|L|Walk|B|Changeup|3|1|1|2|13|86
+Casey Sadler|R|Brandon Crawford|L|Walk|F|Sinker|4|2|1|2|4|91
+Casey Sadler|R|Brandon Crawford|L|Walk|B|Sinker|5|2|2|2|13|91
+Casey Sadler|R|Brandon Crawford|L|Walk|F|Sinker|6|3|2|2|13|92
+Casey Sadler|R|Brandon Crawford|L|Walk|B|Sinker|7|3|2|2|13|92
+Casey Sadler|R|Austin Slater|R|Groundout|B|Sinker|8|0|0|2|13|91
+Casey Sadler|R|Austin Slater|R|Groundout|C|Cutter|9|1|0|2|2|88
+Casey Sadler|R|Austin Slater|R|Groundout|F|Cutter|10|1|1|2|14|88
+Casey Sadler|R|Austin Slater|R|Groundout|X|Sinker|11|1|2|2|13|92
+Casey Sadler|R|Alen Hanson|L|Single|C|Sinker|12|0|0|0|2|90
+Casey Sadler|R|Alen Hanson|L|Single|B|Curveball|13|0|1|0|13|81
+Casey Sadler|R|Alen Hanson|L|Single|D|Sinker|14|1|1|0|6|91
+Casey Sadler|R|Joe Panik|L|Double|C|Sinker|15|0|0|0|13|90
+Casey Sadler|R|Joe Panik|L|Double|F|Cutter|16|0|1|0|3|88
+Casey Sadler|R|Joe Panik|L|Double|D|Curveball|17|0|2|0|6|82
+Casey Sadler|R|Steven Duggar|L|Double|B|Sinker|18|0|0|0|11|90
+Casey Sadler|R|Steven Duggar|L|Double|B|Sinker|19|1|0|0|13|91
+Casey Sadler|R|Steven Duggar|L|Double|F|Sinker|20|2|0|0|13|91
+Casey Sadler|R|Steven Duggar|L|Double|B|Curveball|21|2|1|0|13|80
+Casey Sadler|R|Steven Duggar|L|Double|E|Cutter|22|3|1|0|8|89
+Casey Sadler|R|Derek Holland|L|Flyout|X|Sinker|23|0|0|0|9|91
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|24|0|0|1|13|92
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Cutter|25|1|0|1|14|89
+Casey Sadler|R|Andrew McCutchen|R|Walk|C|Cutter|26|2|0|1|14|89
+Casey Sadler|R|Andrew McCutchen|R|Walk|S|Cutter|27|2|1|1|9|89
+Casey Sadler|R|Andrew McCutchen|R|Walk|*B|Curveball|28|2|2|1|14|83
+Casey Sadler|R|Andrew McCutchen|R|Walk|F|Sinker|29|3|2|1|6|93
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|30|3|2|1|13|92
+Casey Sadler|R|Buster Posey|R|Single|F|Cutter|31|0|0|1|4|88
+Casey Sadler|R|Buster Posey|R|Single|E|Sinker|32|0|1|1|5|92
+Casey Sadler|R|Evan Longoria|R|Grounded Into DP|C|Sinker|33|0|0|1|7|91
+Casey Sadler|R|Evan Longoria|R|Grounded Into DP|B|Curveball|34|0|1|1|13|81
+Casey Sadler|R|Evan Longoria|R|Grounded Into DP|X|Sinker|35|1|1|1|13|92
+Casey Sadler|R|Brandon Crawford|L|Double|B|Cutter|36|0|0|0|13|88
+Casey Sadler|R|Brandon Crawford|L|Double|D|Sinker|37|1|0|0|8|90
+Casey Sadler|R|Austin Slater|R|Groundout|X|Sinker|38|0|0|0|4|90
+Casey Sadler|R|Alen Hanson|L|Groundout|B|Sinker|39|0|0|1|14|91
+Casey Sadler|R|Alen Hanson|L|Groundout|F|Cutter|40|1|0|1|9|89
+Casey Sadler|R|Alen Hanson|L|Groundout|*B|Cutter|41|1|1|1|13|89
+Casey Sadler|R|Alen Hanson|L|Groundout|E|Curveball|42|2|1|1|4|82
+Casey Sadler|R|Joe Panik|L|Strikeout|B|Sinker|43|0|0|2|11|91
+Casey Sadler|R|Joe Panik|L|Strikeout|C|Sinker|44|1|0|2|13|90
+Casey Sadler|R|Joe Panik|L|Strikeout|C|Sinker|45|1|1|2|9|92
+Casey Sadler|R|Joe Panik|L|Strikeout|B|Changeup|46|1|2|2|13|85
+Casey Sadler|R|Joe Panik|L|Strikeout|S|Changeup|47|2|2|2|13|86
+Casey Sadler|R|Steven Duggar|L|Flyout|B|Sinker|48|0|0|2|13|91
+Casey Sadler|R|Steven Duggar|L|Flyout|X|Sinker|49|1|0|2|7|91
+Casey Sadler|R|Derek Holland|L|Strikeout|B|Sinker|50|0|0|0|13|90
+Casey Sadler|R|Derek Holland|L|Strikeout|C|Sinker|51|1|0|0|14|91
+Casey Sadler|R|Derek Holland|L|Strikeout|T|Sinker|52|1|1|0|11|92
+Casey Sadler|R|Derek Holland|L|Strikeout|S|Sinker|53|1|2|0|13|91
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|54|0|0|1|14|92
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|55|1|0|1|14|92
+Casey Sadler|R|Andrew McCutchen|R|Walk|C|Cutter|56|2|0|1|14|89
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|57|2|1|1|14|92
+Casey Sadler|R|Andrew McCutchen|R|Walk|F|Sinker|58|3|1|1|5|92
+Casey Sadler|R|Andrew McCutchen|R|Walk|B|Sinker|59|3|2|1|11|91
+Casey Sadler|R|Buster Posey|R|Grounded Into DP|B|Sinker|60|0|0|1|11|92
+Casey Sadler|R|Buster Posey|R|Grounded Into DP|X|Cutter|61|1|0|1|8|90
+Casey Sadler|R|Alex Avila|L|Strikeout|S|Cutter|0|0|0|0|9|88
+Casey Sadler|R|Alex Avila|L|Strikeout|C|Curveball|1|0|1|0|13|80
+Casey Sadler|R|Alex Avila|L|Strikeout|B|Curveball|2|0|2|0|14|82
+Casey Sadler|R|Alex Avila|L|Strikeout|B|Curveball|3|1|2|0|13|80
+Casey Sadler|R|Alex Avila|L|Strikeout|F|Cutter|4|2|2|0|3|89
+Casey Sadler|R|Alex Avila|L|Strikeout|F|Cutter|5|2|2|0|6|89
+Casey Sadler|R|Alex Avila|L|Strikeout|C|Curveball|6|2|2|0|4|82
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|B|Cutter|7|0|0|1|14|90
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|C|Cutter|8|1|0|1|9|90
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|B|Curveball|9|1|1|1|13|80
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|X|Sinker|10|2|1|1|6|94
+Casey Sadler|R|Jarrod Dyson|L|Single|C|Cutter|11|0|0|2|6|90
+Casey Sadler|R|Jarrod Dyson|L|Single|B|Curveball|12|0|1|2|13|81
+Casey Sadler|R|Jarrod Dyson|L|Single|D|Cutter|13|1|1|2|9|90
+Casey Sadler|R|Josh Rojas|L|Home Run|B|Sinker|14|0|0|2|13|93
+Casey Sadler|R|Josh Rojas|L|Home Run|B|Curveball|15|1|0|2|13|80
+Casey Sadler|R|Josh Rojas|L|Home Run|E|Sinker|16|2|0|2|6|93
+Casey Sadler|R|Eduardo Escobar|L|Single|B|Cutter|17|0|0|2|14|90
+Casey Sadler|R|Eduardo Escobar|L|Single|D|Sinker|18|1|0|2|7|93
+Casey Sadler|R|Josh Rojas|L|Strikeout|S|Sinker|0|0|0|0|13|93
+Casey Sadler|R|Josh Rojas|L|Strikeout|B|Curveball|1|0|1|0|14|82
+Casey Sadler|R|Josh Rojas|L|Strikeout|B|Sinker|2|1|1|0|13|93
+Casey Sadler|R|Josh Rojas|L|Strikeout|B|Cutter|3|2|1|0|14|91
+Casey Sadler|R|Josh Rojas|L|Strikeout|C|Cutter|4|3|1|0|11|89
+Casey Sadler|R|Josh Rojas|L|Strikeout|C|Curveball|5|3|2|0|13|81
+Casey Sadler|R|Nick Ahmed|R|Double|F|Sinker|6|0|0|1|13|94
+Casey Sadler|R|Nick Ahmed|R|Double|B|Sinker|7|0|1|1|9|95
+Casey Sadler|R|Nick Ahmed|R|Double|B|Sinker|8|1|1|1|13|95
+Casey Sadler|R|Nick Ahmed|R|Double|F|Cutter|9|2|1|1|14|91
+Casey Sadler|R|Nick Ahmed|R|Double|D|Sinker|10|2|2|1|13|95
+Casey Sadler|R|Alex Avila|L|Groundout|X|Cutter|11|0|0|1|6|89
+Casey Sadler|R|Christian Walker|R|Intent Walk|V|N/A|12|0|0|2|0|0
+Casey Sadler|R|Christian Walker|R|Intent Walk|V|N/A|13|0|1|2|0|0
+Casey Sadler|R|Christian Walker|R|Intent Walk|V|N/A|14|0|2|2|0|0
+Casey Sadler|R|Christian Walker|R|Intent Walk|V|N/A|15|0|2|2|0|0
+Casey Sadler|R|Jarrod Dyson|L|Groundout|B|Curveball|16|0|0|2|13|82
+Casey Sadler|R|Jarrod Dyson|L|Groundout|F|Cutter|17|1|0|2|4|90
+Casey Sadler|R|Jarrod Dyson|L|Groundout|X|Cutter|18|1|1|2|14|90
+Casey Sadler|R|Hanser Alberto|R|Flyout|F|Sinker|0|0|0|0|13|92
+Casey Sadler|R|Hanser Alberto|R|Flyout|X|Cutter|1|0|1|0|14|90
+Casey Sadler|R|Chris Davis|L|Flyout|X|Sinker|2|0|0|1|14|93
+Casey Sadler|R|Stevie Wilkerson|L|Single|B|Sinker|3|0|0|2|13|92
+Casey Sadler|R|Stevie Wilkerson|L|Single|D|Sinker|4|1|0|2|4|92
+Casey Sadler|R|Pedro Severino|R|Strikeout|C|Cutter|5|0|0|2|14|91
+Casey Sadler|R|Pedro Severino|R|Strikeout|S|Curveball|6|0|1|2|14|82
+Casey Sadler|R|Pedro Severino|R|Strikeout|*B|Curveball|7|0|2|2|14|82
+Casey Sadler|R|Pedro Severino|R|Strikeout|S|Cutter|8|1|2|2|14|91
+Casey Sadler|R|Jonathan Villar|L|Groundout|X|Sinker|9|0|0|0|13|92
+Casey Sadler|R|Trey Mancini|R|Strikeout|B|Cutter|10|0|0|1|14|90
+Casey Sadler|R|Trey Mancini|R|Strikeout|C|Sinker|11|1|0|1|9|93
+Casey Sadler|R|Trey Mancini|R|Strikeout|F|Cutter|12|1|1|1|14|91
+Casey Sadler|R|Trey Mancini|R|Strikeout|B|Curveball|13|1|2|1|13|81
+Casey Sadler|R|Trey Mancini|R|Strikeout|S|Curveball|14|2|2|1|13|82
+Casey Sadler|R|Dwight Smith Jr|L|Single|B|Sinker|15|0|0|2|11|91
+Casey Sadler|R|Dwight Smith Jr|L|Single|B|Changeup|16|1|0|2|13|87
+Casey Sadler|R|Dwight Smith Jr|L|Single|D|Sinker|17|2|0|2|7|93
+Casey Sadler|R|Renato Nunez|R|Lineout|B|Cutter|18|0|0|2|14|91
+Casey Sadler|R|Renato Nunez|R|Lineout|F|Cutter|19|1|0|2|14|91
+Casey Sadler|R|Renato Nunez|R|Lineout|C|Curveball|20|1|1|2|13|81
+Casey Sadler|R|Renato Nunez|R|Lineout|X|Curveball|21|1|2|2|13|81
+Casey Sadler|R|DJ Stewart|L|Home Run|B|Curveball|0|0|0|0|14|81
+Casey Sadler|R|DJ Stewart|L|Home Run|F|Cutter|1|1|0|0|9|90
+Casey Sadler|R|DJ Stewart|L|Home Run|B|Curveball|2|1|1|0|14|82
+Casey Sadler|R|DJ Stewart|L|Home Run|B|Sinker|3|2|1|0|11|93
+Casey Sadler|R|DJ Stewart|L|Home Run|E|Cutter|4|3|1|0|4|91
+Casey Sadler|R|Chance Sisco|L|Walk|B|Curveball|5|0|0|0|13|80
+Casey Sadler|R|Chance Sisco|L|Walk|B|Sinker|6|1|0|0|11|93
+Casey Sadler|R|Chance Sisco|L|Walk|S|Sinker|7|2|0|0|13|93
+Casey Sadler|R|Chance Sisco|L|Walk|C|Curveball|8|2|1|0|13|81
+Casey Sadler|R|Chance Sisco|L|Walk|B|Curveball|9|2|2|0|14|83
+Casey Sadler|R|Chance Sisco|L|Walk|B|Cutter|10|3|2|0|14|91
+Casey Sadler|R|Jonathan Villar|L|Strikeout|S|Cutter|11|0|0|0|4|90
+Casey Sadler|R|Jonathan Villar|L|Strikeout|F|Cutter|12|0|1|0|12|90
+Casey Sadler|R|Jonathan Villar|L|Strikeout|F|Curveball|13|0|2|0|13|82
+Casey Sadler|R|Jonathan Villar|L|Strikeout|S|Sinker|14|0|2|0|11|93
+Casey Sadler|R|Trey Mancini|R|Single|B|Sinker|15|0|0|1|13|94
+Casey Sadler|R|Trey Mancini|R|Single|B|Curveball|16|1|0|1|13|81
+Casey Sadler|R|Trey Mancini|R|Single|D|Sinker|17|2|0|1|7|93
+Casey Sadler|R|Anthony Santander|L|Flyout|*B|Sinker|18|0|0|1|13|94
+Casey Sadler|R|Anthony Santander|L|Flyout|F|Sinker|19|1|0|1|1|94
+Casey Sadler|R|Anthony Santander|L|Flyout|X|Cutter|20|1|1|1|9|91
+Casey Sadler|R|Renato Nunez|R|Single|C|Sinker|21|0|0|2|7|94
+Casey Sadler|R|Renato Nunez|R|Single|E|Cutter|22|0|1|2|9|91
+Casey Sadler|R|Rio Ruiz|L|Groundout|S|Curveball|23|0|0|2|14|82
+Casey Sadler|R|Rio Ruiz|L|Groundout|S|Curveball|24|0|1|2|8|82
+Casey Sadler|R|Rio Ruiz|L|Groundout|F|Curveball|25|0|2|2|13|81
+Casey Sadler|R|Rio Ruiz|L|Groundout|X|Curveball|26|0|2|2|13|81
+Casey Sadler|R|Michael Chavis|R|Single|B|Cutter|0|0|0|0|14|88
+Casey Sadler|R|Michael Chavis|R|Single|D|Sinker|1|1|0|0|9|91
+Casey Sadler|R|Marco Hernandez|L|Double|F|Sinker|2|0|0|0|4|92
+Casey Sadler|R|Marco Hernandez|L|Double|W|Curveball|3|0|1|0|14|82
+Casey Sadler|R|Marco Hernandez|L|Double|B|Curveball|4|0|2|0|13|80
+Casey Sadler|R|Marco Hernandez|L|Double|D|Curveball|5|1|2|0|13|81
+Casey Sadler|R|Rafael Devers|L|Groundout|X|Sinker|6|0|0|0|13|94
+Casey Sadler|R|Christian Vazquez|R|Flyout|B|Sinker|7|0|0|1|14|94
+Casey Sadler|R|Christian Vazquez|R|Flyout|*B|Sinker|8|1|0|1|14|93
+Casey Sadler|R|Christian Vazquez|R|Flyout|X|Sinker|9|2|0|1|13|93
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|S|Sinker|10|0|0|2|1|92
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|F|Sinker|11|0|1|2|2|94
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|*B|Curveball|12|0|2|2|14|84
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|F|Curveball|13|1|2|2|14|82
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|F|Sinker|14|1|2|2|12|94
+Casey Sadler|R|Eduardo Nunez|R|Strikeout|S|Cutter|15|1|2|2|14|91
+Casey Sadler|R|Jordan Luplow|R|Groundout|B|Cutter|0|0|0|2|11|90
+Casey Sadler|R|Jordan Luplow|R|Groundout|X|Cutter|1|1|0|2|4|88
+Casey Sadler|R|Leonys Martin|L|Flyout|C|Curveball|2|0|0|0|7|81
+Casey Sadler|R|Leonys Martin|L|Flyout|B|Curveball|3|0|1|0|14|83
+Casey Sadler|R|Leonys Martin|L|Flyout|X|Changeup|4|1|1|0|11|86
+Casey Sadler|R|Roberto Perez|R|Walk|F|Cutter|5|0|0|1|6|90
+Casey Sadler|R|Roberto Perez|R|Walk|B|Curveball|6|0|1|1|14|83
+Casey Sadler|R|Roberto Perez|R|Walk|B|Cutter|7|1|1|1|14|89
+Casey Sadler|R|Roberto Perez|R|Walk|S|Sinker|8|2|1|1|13|93
+Casey Sadler|R|Roberto Perez|R|Walk|B|Sinker|9|2|2|1|14|94
+Casey Sadler|R|Roberto Perez|R|Walk|B|Curveball|10|3|2|1|13|81
+Casey Sadler|R|Greg Allen|L|Pop Out|B|Curveball|11|0|0|1|11|81
+Casey Sadler|R|Greg Allen|L|Pop Out|X|Cutter|12|1|0|1|6|89
+Casey Sadler|R|Francisco Lindor|L|Groundout|B|Curveball|13|0|0|2|11|80
+Casey Sadler|R|Francisco Lindor|L|Groundout|T|Changeup|14|1|0|2|13|86
+Casey Sadler|R|Francisco Lindor|L|Groundout|S|Cutter|15|1|1|2|4|88
+Casey Sadler|R|Francisco Lindor|L|Groundout|B|Four-Seam Fastball|16|1|2|2|11|92
+Casey Sadler|R|Francisco Lindor|L|Groundout|X|Changeup|17|2|2|2|4|85
+Casey Sadler|R|Jason Kipnis|L|Flyout|B|Changeup|18|0|0|0|11|86
+Casey Sadler|R|Jason Kipnis|L|Flyout|F|Cutter|19|1|0|0|14|90
+Casey Sadler|R|Jason Kipnis|L|Flyout|C|Changeup|20|1|1|0|13|87
+Casey Sadler|R|Jason Kipnis|L|Flyout|X|Sinker|21|1|2|0|4|94
+Casey Sadler|R|Carlos Santana|L|Home Run|B|Sinker|22|0|0|1|14|93
+Casey Sadler|R|Carlos Santana|L|Home Run|S|Cutter|23|1|0|1|9|89
+Casey Sadler|R|Carlos Santana|L|Home Run|B|Curveball|24|1|1|1|13|82
+Casey Sadler|R|Carlos Santana|L|Home Run|S|Changeup|25|2|1|1|7|87
+Casey Sadler|R|Carlos Santana|L|Home Run|E|Sinker|26|2|2|1|2|93
+Casey Sadler|R|Jake Bauers|L|Groundout|C|Cutter|27|0|0|1|8|89
+Casey Sadler|R|Jake Bauers|L|Groundout|C|Changeup|28|0|1|1|13|87
+Casey Sadler|R|Jake Bauers|L|Groundout|F|Cutter|29|0|2|1|14|90
+Casey Sadler|R|Jake Bauers|L|Groundout|B|Curveball|30|0|2|1|13|84
+Casey Sadler|R|Jake Bauers|L|Groundout|X|Changeup|31|1|2|1|7|88
+Casey Sadler|R|Ian Desmond|R|Double|*B|Sinker|0|0|0|2|14|94
+Casey Sadler|R|Ian Desmond|R|Double|*B|Cutter|1|1|0|2|14|92
+Casey Sadler|R|Ian Desmond|R|Double|E|Sinker|2|2|0|2|2|93
+Casey Sadler|R|Ryan McMahon|L|Strikeout|C|Sinker|3|0|0|2|1|92
+Casey Sadler|R|Ryan McMahon|L|Strikeout|S|Curveball|4|0|1|2|13|81
+Casey Sadler|R|Ryan McMahon|L|Strikeout|*B|Curveball|5|0|2|2|14|81
+Casey Sadler|R|Ryan McMahon|L|Strikeout|F|Sinker|6|1|2|2|4|94
+Casey Sadler|R|Ryan McMahon|L|Strikeout|*B|Curveball|7|1|2|2|13|82
+Casey Sadler|R|Ryan McMahon|L|Strikeout|C|Cutter|8|2|2|2|14|93
+Casey Sadler|R|Raimel Tapia|L|Groundout|X|Cutter|9|0|0|0|4|89
+Casey Sadler|R|Chris Iannetta|R|Flyout|B|Sinker|10|0|0|1|14|92
+Casey Sadler|R|Chris Iannetta|R|Flyout|X|Sinker|11|1|0|1|4|92
+Casey Sadler|R|Chad Bettis|R|Walk|C|Sinker|12|0|0|2|13|93
+Casey Sadler|R|Chad Bettis|R|Walk|C|Sinker|13|0|1|2|3|92
+Casey Sadler|R|Chad Bettis|R|Walk|B|Curveball|14|0|2|2|14|82
+Casey Sadler|R|Chad Bettis|R|Walk|B|Cutter|15|1|2|2|14|91
+Casey Sadler|R|Chad Bettis|R|Walk|F|Sinker|16|2|2|2|5|93
+Casey Sadler|R|Chad Bettis|R|Walk|B|Sinker|17|2|2|2|14|94
+Casey Sadler|R|Chad Bettis|R|Walk|B|Sinker|18|3|2|2|14|94
+Casey Sadler|R|David Dahl|L|Flyout|X|Cutter|19|0|0|2|6|91
+Casey Sadler|R|Trevor Story|R|Strikeout|F|Sinker|20|0|0|0|1|92
+Casey Sadler|R|Trevor Story|R|Strikeout|F|Cutter|21|0|1|0|9|90
+Casey Sadler|R|Trevor Story|R|Strikeout|S|Curveball|22|0|2|0|14|81
+Casey Sadler|R|Nolan Arenado|R|Flyout|B|Sinker|23|0|0|1|11|93
+Casey Sadler|R|Nolan Arenado|R|Flyout|X|Cutter|24|1|0|1|2|89
+Casey Sadler|R|Daniel Murphy|L|Pop Out|B|Sinker|25|0|0|2|11|92
+Casey Sadler|R|Daniel Murphy|L|Pop Out|B|Curveball|26|1|0|2|11|81
+Casey Sadler|R|Daniel Murphy|L|Pop Out|X|Cutter|27|2|0|2|5|89
+Casey Sadler|R|Bryan Holaday|R|Groundout|B|Cutter|0|0|0|0|14|90
+Casey Sadler|R|Bryan Holaday|R|Groundout|C|Sinker|1|1|0|0|14|93
+Casey Sadler|R|Bryan Holaday|R|Groundout|S|Cutter|2|1|1|0|14|91
+Casey Sadler|R|Bryan Holaday|R|Groundout|F|Curveball|3|1|2|0|14|82
+Casey Sadler|R|Bryan Holaday|R|Groundout|X|Sinker|4|1|2|0|5|94
+Casey Sadler|R|Curtis Granderson|L|Strikeout|B|Sinker|5|0|0|1|11|94
+Casey Sadler|R|Curtis Granderson|L|Strikeout|B|Cutter|6|1|0|1|14|91
+Casey Sadler|R|Curtis Granderson|L|Strikeout|C|Cutter|7|2|0|1|8|91
+Casey Sadler|R|Curtis Granderson|L|Strikeout|F|Sinker|8|2|1|1|7|94
+Casey Sadler|R|Curtis Granderson|L|Strikeout|C|Curveball|9|2|2|1|11|82
+Casey Sadler|R|Yadiel Rivera|R|Field Error|B|Cutter|10|0|0|2|14|91
+Casey Sadler|R|Yadiel Rivera|R|Field Error|F|Cutter|11|1|0|2|8|90
+Casey Sadler|R|Yadiel Rivera|R|Field Error|C|Curveball|12|1|1|2|4|83
+Casey Sadler|R|Yadiel Rivera|R|Field Error|D|Curveball|13|1|2|2|14|83
+Casey Sadler|R|Neil Walker|L|Groundout|C|Sinker|14|0|0|2|13|94
+Casey Sadler|R|Neil Walker|L|Groundout|S|Curveball|15|0|1|2|14|83
+Casey Sadler|R|Neil Walker|L|Groundout|X|Curveball|16|0|2|2|14|83
+Casey Sadler|R|Harold Ramirez|R|Strikeout|B|Cutter|0|0|0|0|9|87
+Casey Sadler|R|Harold Ramirez|R|Strikeout|B|Cutter|1|1|0|0|14|88
+Casey Sadler|R|Harold Ramirez|R|Strikeout|C|Sinker|2|2|0|0|9|91
+Casey Sadler|R|Harold Ramirez|R|Strikeout|C|Cutter|3|2|1|0|7|89
+Casey Sadler|R|Harold Ramirez|R|Strikeout|S|Curveball|4|2|2|0|13|82
+Casey Sadler|R|Curtis Granderson|L|Groundout|S|Sinker|5|0|0|1|13|92
+Casey Sadler|R|Curtis Granderson|L|Groundout|B|Curveball|6|0|1|1|14|82
+Casey Sadler|R|Curtis Granderson|L|Groundout|C|Curveball|7|1|1|1|4|79
+Casey Sadler|R|Curtis Granderson|L|Groundout|B|Cutter|8|1|2|1|13|89
+Casey Sadler|R|Curtis Granderson|L|Groundout|X|Curveball|9|2|2|1|13|83
+Casey Sadler|R|Garrett Cooper|R|Pop Out|C|Cutter|10|0|0|2|14|89
+Casey Sadler|R|Garrett Cooper|R|Pop Out|F|Sinker|11|0|1|2|13|91
+Casey Sadler|R|Garrett Cooper|R|Pop Out|F|Cutter|12|0|2|2|12|90
+Casey Sadler|R|Garrett Cooper|R|Pop Out|B|Curveball|13|0|2|2|14|83
+Casey Sadler|R|Garrett Cooper|R|Pop Out|B|Cutter|14|1|2|2|14|91
+Casey Sadler|R|Garrett Cooper|R|Pop Out|X|Curveball|15|2|2|2|8|81
+Casey Sadler|R|Kole Calhoun|L|Strikeout|B|Cutter|0|0|0|2|13|90
+Casey Sadler|R|Kole Calhoun|L|Strikeout|B|Curveball|1|1|0|2|14|82
+Casey Sadler|R|Kole Calhoun|L|Strikeout|S|Curveball|2|2|0|2|13|80
+Casey Sadler|R|Kole Calhoun|L|Strikeout|B|Cutter|3|2|1|2|14|90
+Casey Sadler|R|Kole Calhoun|L|Strikeout|C|Cutter|4|3|1|2|14|89
+Casey Sadler|R|Kole Calhoun|L|Strikeout|S|Curveball|5|3|2|2|8|81
+Casey Sadler|R|Albert Pujols|R|Pop Out|C|Curveball|6|0|0|0|2|80
+Casey Sadler|R|Albert Pujols|R|Pop Out|F|Cutter|7|0|1|0|14|90
+Casey Sadler|R|Albert Pujols|R|Pop Out|F|Curveball|8|0|2|0|11|80
+Casey Sadler|R|Albert Pujols|R|Pop Out|X|Cutter|9|0|2|0|12|89
+Casey Sadler|R|Andrelton Simmons|R|Single|B|Curveball|10|0|0|1|11|79
+Casey Sadler|R|Andrelton Simmons|R|Single|D|Cutter|11|1|0|1|2|89
+Casey Sadler|R|Luis Rengifo|L|Bunt Groundout|C|Cutter|12|0|0|1|11|89
+Casey Sadler|R|Luis Rengifo|L|Bunt Groundout|X|Curveball|13|0|1|1|11|79
+Casey Sadler|R|Kevan Smith|R|Groundout|C|Sinker|14|0|0|2|8|93
+Casey Sadler|R|Kevan Smith|R|Groundout|X|Cutter|15|0|1|2|3|91
+Casey Sadler|R|Eric Hosmer|L|Single|C|Curveball|0|0|0|2|4|81
+Casey Sadler|R|Eric Hosmer|L|Single|F|Cutter|1|0|1|2|14|90
+Casey Sadler|R|Eric Hosmer|L|Single|F|Curveball|2|0|2|2|8|82
+Casey Sadler|R|Eric Hosmer|L|Single|F|Cutter|3|0|2|2|14|91
+Casey Sadler|R|Eric Hosmer|L|Single|B|Sinker|4|0|2|2|13|93
+Casey Sadler|R|Eric Hosmer|L|Single|F|Cutter|5|1|2|2|12|91
+Casey Sadler|R|Eric Hosmer|L|Single|D|Curveball|6|1|2|2|13|81
+Casey Sadler|R|Hunter Renfroe|R|Single|B|Sinker|7|0|0|2|11|92
+Casey Sadler|R|Hunter Renfroe|R|Single|B|Cutter|8|1|0|2|12|90
+Casey Sadler|R|Hunter Renfroe|R|Single|B|Sinker|9|2|0|2|13|94
+Casey Sadler|R|Hunter Renfroe|R|Single|C|Cutter|10|3|0|2|6|90
+Casey Sadler|R|Hunter Renfroe|R|Single|D|Sinker|11|3|1|2|4|94
+Casey Sadler|R|Josh Naylor|L|Walk|C|Curveball|12|0|0|0|1|81
+Casey Sadler|R|Josh Naylor|L|Walk|S|Curveball|13|0|1|0|7|81
+Casey Sadler|R|Josh Naylor|L|Walk|*B|Curveball|14|0|2|0|14|82
+Casey Sadler|R|Josh Naylor|L|Walk|*B|Changeup|15|1|2|0|13|86
+Casey Sadler|R|Josh Naylor|L|Walk|B|Cutter|16|2|2|0|13|91
+Casey Sadler|R|Josh Naylor|L|Walk|B|Curveball|17|3|2|0|13|81
+Casey Sadler|R|Francisco Mejia|L|Flyout|B|Curveball|18|0|0|0|11|79
+Casey Sadler|R|Francisco Mejia|L|Flyout|T|Cutter|19|1|0|0|2|91
+Casey Sadler|R|Francisco Mejia|L|Flyout|X|Cutter|20|1|1|0|3|90
+Casey Sadler|R|Luis Urias|R|Strikeout|C|Sinker|21|0|0|1|9|93
+Casey Sadler|R|Luis Urias|R|Strikeout|C|Cutter|22|0|1|1|12|90
+Casey Sadler|R|Luis Urias|R|Strikeout|C|Curveball|23|0|2|1|4|81
+Casey Sadler|R|Kolten Wong|L|Hit By Pitch|C|Curveball|0|0|0|0|8|80
+Casey Sadler|R|Kolten Wong|L|Hit By Pitch|H|Cutter|1|0|1|0|14|89
+Casey Sadler|R|Matt Wieters|L|Grounded Into DP|B|Curveball|2|0|0|0|14|81
+Casey Sadler|R|Matt Wieters|L|Grounded Into DP|X|Sinker|3|1|0|0|13|93
+Casey Sadler|R|Lane Thomas|R|Walk|C|Cutter|4|0|0|2|2|90
+Casey Sadler|R|Lane Thomas|R|Walk|B|Curveball|5|0|1|2|14|82
+Casey Sadler|R|Lane Thomas|R|Walk|B|Sinker|6|1|1|2|14|94
+Casey Sadler|R|Lane Thomas|R|Walk|C|Cutter|7|2|1|2|14|89
+Casey Sadler|R|Lane Thomas|R|Walk|B|Cutter|8|2|2|2|12|90
+Casey Sadler|R|Lane Thomas|R|Walk|B|Sinker|9|3|2|2|14|94
+Casey Sadler|R|Matt Carpenter|L|Flyout|C|Curveball|10|0|0|2|7|82
+Casey Sadler|R|Matt Carpenter|L|Flyout|X|Sinker|11|0|1|2|7|94
+Casey Sadler|R|Andrew Knizner|R|Groundout|C|Curveball|12|0|0|0|11|80
+Casey Sadler|R|Andrew Knizner|R|Groundout|X|Cutter|13|0|1|0|4|90
+Casey Sadler|R|Tommy Edman|L|Flyout|B|Curveball|14|0|0|1|11|80
+Casey Sadler|R|Tommy Edman|L|Flyout|X|Sinker|15|1|0|1|5|92
+Casey Sadler|R|Marcell Ozuna|R|Groundout|C|Sinker|16|0|0|2|2|92
+Casey Sadler|R|Marcell Ozuna|R|Groundout|B|Cutter|17|0|1|2|14|91
+Casey Sadler|R|Marcell Ozuna|R|Groundout|B|Sinker|18|1|1|2|11|92
+Casey Sadler|R|Marcell Ozuna|R|Groundout|C|Curveball|19|2|1|2|5|81
+Casey Sadler|R|Marcell Ozuna|R|Groundout|X|Cutter|20|2|2|2|6|91
+Casey Sadler|R|Matt Carpenter|L|Hit By Pitch|B|Sinker|0|0|0|0|13|93
+Casey Sadler|R|Matt Carpenter|L|Hit By Pitch|B|Curveball|1|1|0|0|14|82
+Casey Sadler|R|Matt Carpenter|L|Hit By Pitch|B|Cutter|2|2|0|0|14|91
+Casey Sadler|R|Matt Carpenter|L|Hit By Pitch|H|Cutter|3|3|0|0|14|91
+Casey Sadler|R|Kolten Wong|L|Sac Bunt|L|Sinker|4|0|0|0|11|92
+Casey Sadler|R|Kolten Wong|L|Sac Bunt|X|Cutter|5|0|1|0|9|89
+Casey Sadler|R|Matt Wieters|L|Single|C|Cutter|6|0|0|1|11|89
+Casey Sadler|R|Matt Wieters|L|Single|F|Cutter|7|0|1|1|3|89
+Casey Sadler|R|Matt Wieters|L|Single|*B|Curveball|8|0|2|1|13|81
+Casey Sadler|R|Matt Wieters|L|Single|D|Curveball|9|1|2|1|7|81
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|B|Sinker|10|0|0|1|14|93
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|B|Sinker|11|1|0|1|11|93
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|F|Cutter|12|2|0|1|6|89
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|F|Sinker|13|2|1|1|13|94
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|B|Sinker|14|2|2|1|14|94
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|F|Curveball|15|3|2|1|5|82
+Casey Sadler|R|Jose Martinez|R|Grounded Into DP|X|Sinker|16|3|2|1|7|94
+Casey Sadler|R|Vladimir Guerrero Jr.|R|Single|D|Curveball|0|0|0|0|4|80
+Casey Sadler|R|Rowdy Tellez|L|Grounded Into DP|C|Cutter|1|0|0|0|3|89
+Casey Sadler|R|Rowdy Tellez|L|Grounded Into DP|B|Sinker|2|0|1|0|13|93
+Casey Sadler|R|Rowdy Tellez|L|Grounded Into DP|X|Curveball|3|1|1|0|13|81
+Casey Sadler|R|Randal Grichuk|R|Strikeout|C|Sinker|4|0|0|2|9|92
+Casey Sadler|R|Randal Grichuk|R|Strikeout|B|Cutter|5|0|1|2|12|90
+Casey Sadler|R|Randal Grichuk|R|Strikeout|S|Curveball|6|1|1|2|14|82
+Casey Sadler|R|Randal Grichuk|R|Strikeout|S|Sinker|7|1|2|2|11|93
+Casey Sadler|R|Mike Ford|L|Single|C|Curveball|0|0|0|0|13|80
+Casey Sadler|R|Mike Ford|L|Single|D|Sinker|1|0|1|0|4|92
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Sinker|2|0|0|0|14|92
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Sinker|3|1|0|0|13|92
+Casey Sadler|R|DJ LeMahieu|R|Groundout|F|Sinker|4|2|0|0|6|93
+Casey Sadler|R|DJ LeMahieu|R|Groundout|X|Sinker|5|2|1|0|8|93
+Casey Sadler|R|Aaron Judge|R|Single|C|Curveball|6|0|0|1|5|80
+Casey Sadler|R|Aaron Judge|R|Single|E|Sinker|7|0|1|1|8|94
+Casey Sadler|R|Gleyber Torres|R|Lineout|B|Cutter|8|0|0|1|11|89
+Casey Sadler|R|Gleyber Torres|R|Lineout|F|Sinker|9|1|0|1|5|93
+Casey Sadler|R|Gleyber Torres|R|Lineout|B|Cutter|10|1|1|1|14|87
+Casey Sadler|R|Gleyber Torres|R|Lineout|X|Sinker|11|2|1|1|13|94
+Casey Sadler|R|Gary Sanchez|R|Strikeout|*B|Sinker|12|0|0|2|14|93
+Casey Sadler|R|Gary Sanchez|R|Strikeout|B|Sinker|13|1|0|2|11|92
+Casey Sadler|R|Gary Sanchez|R|Strikeout|C|Cutter|14|2|0|2|3|88
+Casey Sadler|R|Gary Sanchez|R|Strikeout|F|Sinker|15|2|1|2|11|93
+Casey Sadler|R|Gary Sanchez|R|Strikeout|*B|Curveball|16|2|2|2|14|82
+Casey Sadler|R|Gary Sanchez|R|Strikeout|S|Cutter|17|3|2|2|14|89
+Casey Sadler|R|Didi Gregorius|L|Home Run|B|Cutter|18|0|0|0|12|88
+Casey Sadler|R|Didi Gregorius|L|Home Run|C|Sinker|19|1|0|0|11|92
+Casey Sadler|R|Didi Gregorius|L|Home Run|B|Curveball|20|1|1|0|13|80
+Casey Sadler|R|Didi Gregorius|L|Home Run|B|Cutter|21|2|1|0|13|89
+Casey Sadler|R|Didi Gregorius|L|Home Run|E|Cutter|22|3|1|0|5|88
+Casey Sadler|R|Gio Urshela|R|Groundout|C|Sinker|23|0|0|0|5|92
+Casey Sadler|R|Gio Urshela|R|Groundout|C|Cutter|24|0|1|0|3|88
+Casey Sadler|R|Gio Urshela|R|Groundout|B|Sinker|25|0|2|0|14|92
+Casey Sadler|R|Gio Urshela|R|Groundout|X|Curveball|26|1|2|0|5|81
+Casey Sadler|R|Brett Gardner|L|Single|B|Curveball|27|0|0|1|13|80
+Casey Sadler|R|Brett Gardner|L|Single|D|Sinker|28|1|0|1|2|93
+Casey Sadler|R|Cameron Maybin|R|Grounded Into DP|X|Cutter|29|0|0|1|5|89
+Casey Sadler|R|Raimel Tapia|L|Flyout|C|Curveball|0|0|0|0|11|80
+Casey Sadler|R|Raimel Tapia|L|Flyout|X|Changeup|1|0|1|0|13|85
+Casey Sadler|R|Trevor Story|R|Strikeout|C|Curveball|2|0|0|1|9|81
+Casey Sadler|R|Trevor Story|R|Strikeout|T|Sinker|3|0|1|1|13|94
+Casey Sadler|R|Trevor Story|R|Strikeout|B|Curveball|4|0|2|1|14|82
+Casey Sadler|R|Trevor Story|R|Strikeout|T|Sinker|5|1|2|1|13|93
+Casey Sadler|R|Charlie Blackmon|L|Single|C|Sinker|6|0|0|2|13|93
+Casey Sadler|R|Charlie Blackmon|L|Single|B|Cutter|7|0|1|2|12|90
+Casey Sadler|R|Charlie Blackmon|L|Single|B|Cutter|8|1|1|2|14|90
+Casey Sadler|R|Charlie Blackmon|L|Single|B|Curveball|9|2|1|2|11|80
+Casey Sadler|R|Charlie Blackmon|L|Single|T|Cutter|10|3|1|2|14|90
+Casey Sadler|R|Charlie Blackmon|L|Single|D|Cutter|11|3|2|2|1|87
+Casey Sadler|R|Nolan Arenado|R|Single|B|Sinker|12|0|0|2|14|93
+Casey Sadler|R|Nolan Arenado|R|Single|D|Sinker|13|1|0|2|13|94
+Casey Sadler|R|Daniel Murphy|L|Flyout|B|Curveball|14|0|0|2|13|80
+Casey Sadler|R|Daniel Murphy|L|Flyout|B|Curveball|15|1|0|2|13|81
+Casey Sadler|R|Daniel Murphy|L|Flyout|C|Cutter|16|2|0|2|2|91
+Casey Sadler|R|Daniel Murphy|L|Flyout|B|Curveball|17|2|1|2|13|80
+Casey Sadler|R|Daniel Murphy|L|Flyout|S|Sinker|18|3|1|2|13|93
+Casey Sadler|R|Daniel Murphy|L|Flyout|X|Curveball|19|3|2|2|4|81
+Casey Sadler|R|Mauricio Dubon|R|Groundout|X|Sinker|0|0|0|0|4|93
+Casey Sadler|R|Chris Shaw|L|Strikeout|S|Curveball|1|0|0|1|14|81
+Casey Sadler|R|Chris Shaw|L|Strikeout|B|Curveball|2|0|1|1|13|80
+Casey Sadler|R|Chris Shaw|L|Strikeout|F|Cutter|3|1|1|1|14|91
+Casey Sadler|R|Chris Shaw|L|Strikeout|B|Curveball|4|1|2|1|14|81
+Casey Sadler|R|Chris Shaw|L|Strikeout|B|Cutter|5|2|2|1|14|91
+Casey Sadler|R|Chris Shaw|L|Strikeout|S|Curveball|6|3|2|1|8|82
+Casey Sadler|R|Donovan Solano|R|Lineout|C|Cutter|7|0|0|2|3|90
+Casey Sadler|R|Donovan Solano|R|Lineout|X|Curveball|8|0|1|2|7|81
+Casey Sadler|R|Kevin Pillar|R|Groundout|X|Cutter|0|0|0|0|7|89
+Casey Sadler|R|Mike Yastrzemski|L|Groundout|B|Sinker|1|0|0|1|13|92
+Casey Sadler|R|Mike Yastrzemski|L|Groundout|B|Cutter|2|1|0|1|14|90
+Casey Sadler|R|Mike Yastrzemski|L|Groundout|X|Cutter|3|2|0|1|7|90
+Casey Sadler|R|Jaylin Davis|R|Flyout|X|Sinker|4|0|0|2|13|93
+Casey Sadler|R|Austin Meadows|L|Groundout|C|Sinker|0|0|0|0|1|94
+Casey Sadler|R|Austin Meadows|L|Groundout|F|Cutter|1|0|1|0|3|90
+Casey Sadler|R|Austin Meadows|L|Groundout|B|Sinker|2|0|2|0|13|94
+Casey Sadler|R|Austin Meadows|L|Groundout|X|Curveball|3|1|2|0|7|83
+Casey Sadler|R|Tommy Pham|R|Field Error|B|Sinker|4|0|0|1|13|95
+Casey Sadler|R|Tommy Pham|R|Field Error|F|Sinker|5|1|0|1|11|94
+Casey Sadler|R|Tommy Pham|R|Field Error|F|Cutter|6|1|1|1|14|90
+Casey Sadler|R|Tommy Pham|R|Field Error|F|Curveball|7|1|2|1|5|82
+Casey Sadler|R|Tommy Pham|R|Field Error|F|Sinker|8|1|2|1|13|95
+Casey Sadler|R|Tommy Pham|R|Field Error|F|Cutter|9|1|2|1|3|91
+Casey Sadler|R|Tommy Pham|R|Field Error|D|Cutter|10|1|2|1|14|90
+Casey Sadler|R|Nate Lowe|L|Single|B|Cutter|11|0|0|1|14|91
+Casey Sadler|R|Nate Lowe|L|Single|C|Cutter|12|1|0|1|2|91
+Casey Sadler|R|Nate Lowe|L|Single|D|Curveball|13|1|1|1|7|82
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|C|Cutter|14|0|0|1|3|91
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|S|Cutter|15|0|1|1|6|91
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|F|Cutter|16|0|2|1|12|90
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|B|Sinker|17|0|2|1|13|95
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|F|Cutter|18|1|2|1|1|89
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|B|Curveball|19|1|2|1|11|80
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|B|Cutter|20|2|2|1|11|90
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|F|Cutter|21|3|2|1|5|90
+Casey Sadler|R|Ji-Man Choi|L|Strikeout|S|Cutter|22|3|2|1|11|90
+Casey Sadler|R|Jeff McNeil|L|Groundout|S|Cutter|0|0|0|0|1|89
+Casey Sadler|R|Jeff McNeil|L|Groundout|S|Curveball|1|0|1|0|13|79
+Casey Sadler|R|Jeff McNeil|L|Groundout|X|Curveball|2|0|2|0|13|80
+Casey Sadler|R|Wilson Ramos|R|Groundout|X|Sinker|3|0|0|1|11|92
+Casey Sadler|R|Robinson Cano|L|Flyout|F|Cutter|4|0|0|2|14|89
+Casey Sadler|R|Robinson Cano|L|Flyout|S|Curveball|5|0|1|2|14|80
+Casey Sadler|R|Robinson Cano|L|Flyout|B|Sinker|6|0|2|2|13|93
+Casey Sadler|R|Robinson Cano|L|Flyout|B|Curveball|7|1|2|2|14|80
+Casey Sadler|R|Robinson Cano|L|Flyout|B|Curveball|8|2|2|2|13|81
+Casey Sadler|R|Robinson Cano|L|Flyout|F|Sinker|9|3|2|2|13|93
+Casey Sadler|R|Robinson Cano|L|Flyout|F|Curveball|10|3|2|2|14|82
+Casey Sadler|R|Robinson Cano|L|Flyout|X|Curveball|11|3|2|2|1|82
+Casey Sadler|R|Ty France|R|Flyout|C|Sinker|0|0|0|2|9|94
+Casey Sadler|R|Ty France|R|Flyout|F|Curveball|1|0|1|2|8|83
+Casey Sadler|R|Ty France|R|Flyout|X|Curveball|2|0|2|2|13|82
+Casey Sadler|R|Francisco Mejia|L|Strikeout|B|Curveball|0|0|0|0|11|82
+Casey Sadler|R|Francisco Mejia|L|Strikeout|B|Curveball|1|1|0|0|11|81
+Casey Sadler|R|Francisco Mejia|L|Strikeout|F|Cutter|2|2|0|0|2|89
+Casey Sadler|R|Francisco Mejia|L|Strikeout|F|Curveball|3|2|1|0|13|82
+Casey Sadler|R|Francisco Mejia|L|Strikeout|W|Curveball|4|2|2|0|14|83
+Casey Sadler|R|Manuel Margot|R|Groundout|C|Sinker|5|0|0|1|1|94
+Casey Sadler|R|Manuel Margot|R|Groundout|X|Sinker|6|0|1|1|13|94
+Casey Sadler|R|Luis Urias|R|Flyout|B|Sinker|7|0|0|2|13|95
+Casey Sadler|R|Luis Urias|R|Flyout|X|Sinker|8|1|0|2|7|95
+Casey Sadler|R|Josh Naylor|L|Strikeout|B|Curveball|0|0|0|0|13|81
+Casey Sadler|R|Josh Naylor|L|Strikeout|S|Curveball|1|1|0|0|14|83
+Casey Sadler|R|Josh Naylor|L|Strikeout|C|Curveball|2|1|1|0|11|80
+Casey Sadler|R|Josh Naylor|L|Strikeout|B|Curveball|3|1|2|0|13|81
+Casey Sadler|R|Josh Naylor|L|Strikeout|F|Cutter|4|2|2|0|12|88
+Casey Sadler|R|Josh Naylor|L|Strikeout|S|Curveball|5|2|2|0|13|82
+Casey Sadler|R|Manny Machado|R|Single|C|Cutter|6|0|0|1|3|90
+Casey Sadler|R|Manny Machado|R|Single|C|Sinker|7|0|1|1|8|95
+Casey Sadler|R|Manny Machado|R|Single|B|Cutter|8|0|2|1|14|91
+Casey Sadler|R|Manny Machado|R|Single|D|Curveball|9|1|2|1|14|82
+Casey Sadler|R|Eric Hosmer|L|Strikeout|B|Curveball|10|0|0|1|11|81
+Casey Sadler|R|Eric Hosmer|L|Strikeout|F|Cutter|11|1|0|1|3|90
+Casey Sadler|R|Eric Hosmer|L|Strikeout|B|Sinker|12|1|1|1|13|95
+Casey Sadler|R|Eric Hosmer|L|Strikeout|S|Cutter|13|2|1|1|2|91
+Casey Sadler|R|Eric Hosmer|L|Strikeout|S|Curveball|14|2|2|1|14|82
+Casey Sadler|R|Hunter Renfroe|R|Pop Out|X|Cutter|15|0|0|2|5|90
+Casey Sadler|R|Josh Naylor|L|Single|C|Curveball|0|0|0|0|5|80
+Casey Sadler|R|Josh Naylor|L|Single|D|Cutter|1|0|1|0|5|89
+Casey Sadler|R|Ty France|R|Strikeout|C|Curveball|2|0|0|0|4|80
+Casey Sadler|R|Ty France|R|Strikeout|F|Sinker|3|0|1|0|13|93
+Casey Sadler|R|Ty France|R|Strikeout|S|Sinker|4|0|2|0|13|94
+Casey Sadler|R|Luis Urias|R|Fielders Choice|B|Sinker|5|0|0|1|13|93
+Casey Sadler|R|Luis Urias|R|Fielders Choice|F|Sinker|6|1|0|1|8|95
+Casey Sadler|R|Luis Urias|R|Fielders Choice|S|Sinker|7|1|1|1|13|94
+Casey Sadler|R|Luis Urias|R|Fielders Choice|D|Sinker|8|1|2|1|13|95
+Casey Sadler|R|Dinelson Lamet|R|Sac Bunt|M|Sinker|9|0|0|1|9|95
+Casey Sadler|R|Dinelson Lamet|R|Sac Bunt|X|Sinker|10|0|1|1|14|95
+Casey Sadler|R|Greg Garcia|L|Intent Walk|V|N/A|11|0|0|2|0|0
+Casey Sadler|R|Greg Garcia|L|Intent Walk|V|N/A|12|0|1|2|0|0
+Casey Sadler|R|Greg Garcia|L|Intent Walk|V|N/A|13|0|2|2|0|0
+Casey Sadler|R|Greg Garcia|L|Intent Walk|V|N/A|14|0|2|2|0|0
+Casey Sadler|R|Manuel Margot|R|Flyout|B|Sinker|15|0|0|2|13|94
+Casey Sadler|R|Manuel Margot|R|Flyout|F|Sinker|16|1|0|2|5|95
+Casey Sadler|R|Manuel Margot|R|Flyout|B|Curveball|17|1|1|2|13|80
+Casey Sadler|R|Manuel Margot|R|Flyout|F|Sinker|18|2|1|2|13|95
+Casey Sadler|R|Manuel Margot|R|Flyout|X|Curveball|19|2|2|2|6|82
+Casey Sadler|R|Kevin Pillar|R|Lineout|F|Cutter|0|0|0|0|12|90
+Casey Sadler|R|Kevin Pillar|R|Lineout|F|Cutter|1|0|1|0|14|90
+Casey Sadler|R|Kevin Pillar|R|Lineout|B|Cutter|2|0|2|0|12|89
+Casey Sadler|R|Kevin Pillar|R|Lineout|B|Curveball|3|1|2|0|14|81
+Casey Sadler|R|Kevin Pillar|R|Lineout|B|Curveball|4|2|2|0|14|81
+Casey Sadler|R|Kevin Pillar|R|Lineout|X|Cutter|5|3|2|0|6|89
+Casey Sadler|R|Alex Dickerson|L|Walk|B|Cutter|6|0|0|1|12|89
+Casey Sadler|R|Alex Dickerson|L|Walk|F|Cutter|7|1|0|1|14|89
+Casey Sadler|R|Alex Dickerson|L|Walk|B|Sinker|8|1|1|1|13|93
+Casey Sadler|R|Alex Dickerson|L|Walk|S|Curveball|9|2|1|1|14|81
+Casey Sadler|R|Alex Dickerson|L|Walk|B|Curveball|10|2|2|1|13|79
+Casey Sadler|R|Alex Dickerson|L|Walk|B|Sinker|11|3|2|1|11|93
+Casey Sadler|R|Brandon Crawford|L|Forceout|F|Curveball|12|0|0|1|13|80
+Casey Sadler|R|Brandon Crawford|L|Forceout|T|Curveball|13|0|1|1|13|80
+Casey Sadler|R|Brandon Crawford|L|Forceout|B|Curveball|14|0|2|1|14|79
+Casey Sadler|R|Brandon Crawford|L|Forceout|X|Sinker|15|1|2|1|13|93
+Casey Sadler|R|Mauricio Dubon|R|Single|C|Sinker|16|0|0|2|13|93
+Casey Sadler|R|Mauricio Dubon|R|Single|S|Sinker|17|0|1|2|13|94
+Casey Sadler|R|Mauricio Dubon|R|Single|*B|Curveball|18|0|2|2|14|81
+Casey Sadler|R|Mauricio Dubon|R|Single|F|Sinker|19|1|2|2|7|95
+Casey Sadler|R|Mauricio Dubon|R|Single|D|Sinker|20|1|2|2|11|94
+Casey Sadler|R|Jaylin Davis|R|Lineout|B|Sinker|21|0|0|2|11|93
+Casey Sadler|R|Jaylin Davis|R|Lineout|F|Sinker|22|1|0|2|7|93
+Casey Sadler|R|Jaylin Davis|R|Lineout|X|Sinker|23|1|1|2|4|94
+Casey Sadler|R|J.D. Martinez|R|Flyout|B|Sinker|0|0|0|0|14|92
+Casey Sadler|R|J.D. Martinez|R|Flyout|S|Cutter|1|1|0|0|14|88
+Casey Sadler|R|J.D. Martinez|R|Flyout|B|Cutter|2|1|1|0|14|90
+Casey Sadler|R|J.D. Martinez|R|Flyout|X|Cutter|3|2|1|0|9|90
+Casey Sadler|R|Xander Bogaerts|R|Single|B|Sinker|4|0|0|1|14|94
+Casey Sadler|R|Xander Bogaerts|R|Single|C|Sinker|5|1|0|1|14|93
+Casey Sadler|R|Xander Bogaerts|R|Single|B|Cutter|6|1|1|1|14|89
+Casey Sadler|R|Xander Bogaerts|R|Single|D|Cutter|7|2|1|1|5|89
+Casey Sadler|R|Rafael Devers|L|Grounded Into DP|S|Sinker|8|0|0|1|7|93
+Casey Sadler|R|Rafael Devers|L|Grounded Into DP|S|Cutter|9|0|1|1|5|90
+Casey Sadler|R|Rafael Devers|L|Grounded Into DP|X|Curveball|10|0|2|1|13|81
+Casey Sadler|R|Christian Vazquez|R|Single|B|Sinker|11|0|0|0|11|92
+Casey Sadler|R|Christian Vazquez|R|Single|D|Sinker|12|1|0|0|8|91
+Casey Sadler|R|Jackie Bradley Jr.|L|Grounded Into DP|L|Cutter|13|0|0|0|11|88
+Casey Sadler|R|Jackie Bradley Jr.|L|Grounded Into DP|F|Curveball|14|0|1|0|4|80
+Casey Sadler|R|Jackie Bradley Jr.|L|Grounded Into DP|F|Sinker|15|0|2|0|1|93
+Casey Sadler|R|Jackie Bradley Jr.|L|Grounded Into DP|X|Curveball|16|0|2|0|11|80
+Casey Sadler|R|Tzu-Wei Lin|L|Groundout|X|Cutter|17|0|0|2|14|88
+Casey Sadler|R|Nick Ahmed|R|Groundout|B|Sinker|0|0|0|0|11|91
+Casey Sadler|R|Nick Ahmed|R|Groundout|F|Sinker|1|1|0|0|11|91
+Casey Sadler|R|Nick Ahmed|R|Groundout|C|Curveball|2|1|1|0|4|80
+Casey Sadler|R|Nick Ahmed|R|Groundout|B|Curveball|3|1|2|0|14|81
+Casey Sadler|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|4|2|2|0|12|93
+Casey Sadler|R|Nick Ahmed|R|Groundout|X|Cutter|5|3|2|0|6|88
+Casey Sadler|R|John Ryan Murphy|R|Strikeout|B|Cutter|6|0|0|1|14|89
+Casey Sadler|R|John Ryan Murphy|R|Strikeout|S|Sinker|7|1|0|1|13|92
+Casey Sadler|R|John Ryan Murphy|R|Strikeout|T|Cutter|8|1|1|1|7|90
+Casey Sadler|R|John Ryan Murphy|R|Strikeout|B|Curveball|9|1|2|1|14|82
+Casey Sadler|R|John Ryan Murphy|R|Strikeout|S|Curveball|10|2|2|1|14|83
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|B|Sinker|11|0|0|2|14|93
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|C|Sinker|12|1|0|2|8|92
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|F|Changeup|13|1|1|2|14|86
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|F|Curveball|14|1|2|2|13|82
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|B|Cutter|15|1|2|2|14|90
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|B|Sinker|16|2|2|2|14|94
+Casey Sadler|R|Ildemaro Vargas|L|Groundout|X|Sinker|17|3|2|2|9|92
+Casey Sadler|R|Tim Locastro|R|Pop Out|B|Sinker|18|0|0|0|11|91
+Casey Sadler|R|Tim Locastro|R|Pop Out|X|Cutter|19|1|0|0|9|89
+Casey Sadler|R|Blake Swihart|L|Single|B|Sinker|20|0|0|1|11|90
+Casey Sadler|R|Blake Swihart|L|Single|D|Sinker|21|1|0|1|8|91
+Casey Sadler|R|Carson Kelly|R|Walk|F|Sinker|22|0|0|1|7|91
+Casey Sadler|R|Carson Kelly|R|Walk|B|Cutter|23|0|1|1|14|90
+Casey Sadler|R|Carson Kelly|R|Walk|B|Cutter|24|1|1|1|14|89
+Casey Sadler|R|Carson Kelly|R|Walk|B|Sinker|25|2|1|1|13|91
+Casey Sadler|R|Carson Kelly|R|Walk|B|Sinker|26|3|1|1|13|92
+Casey Sadler|R|Adam Jones|R|Fielders Choice|C|Cutter|27|0|0|1|1|89
+Casey Sadler|R|Adam Jones|R|Fielders Choice|W|Curveball|28|0|1|1|14|81
+Casey Sadler|R|Adam Jones|R|Fielders Choice|E|Curveball|29|0|2|1|7|80
+Casey Sadler|R|Christian Walker|R|Flyout|C|Sinker|30|0|0|1|8|92
+Casey Sadler|R|Christian Walker|R|Flyout|B|Cutter|31|0|1|1|12|90
+Casey Sadler|R|Christian Walker|R|Flyout|F|Sinker|32|1|1|1|5|92
+Casey Sadler|R|Christian Walker|R|Flyout|X|Curveball|33|1|2|1|8|81
+Casey Sadler|R|Wilmer Flores|R|Flyout|F|Cutter|34|0|0|2|7|89
+Casey Sadler|R|Wilmer Flores|R|Flyout|B|Sinker|35|0|1|2|13|93
+Casey Sadler|R|Wilmer Flores|R|Flyout|X|Cutter|36|1|1|2|5|89
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Sinker|0|0|0|0|11|93
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Cutter|1|1|0|0|12|90
+Casey Sadler|R|DJ LeMahieu|R|Groundout|X|Sinker|2|2|0|0|4|92
+Casey Sadler|R|Luke Voit|R|Groundout|F|Sinker|3|0|0|1|1|92
+Casey Sadler|R|Luke Voit|R|Groundout|X|Sinker|4|0|1|1|9|92
+Casey Sadler|R|Gary Sanchez|R|Strikeout|B|Sinker|5|0|0|2|14|93
+Casey Sadler|R|Gary Sanchez|R|Strikeout|C|Curveball|6|1|0|2|6|81
+Casey Sadler|R|Gary Sanchez|R|Strikeout|B|Sinker|7|1|1|2|11|92
+Casey Sadler|R|Gary Sanchez|R|Strikeout|C|Cutter|8|2|1|2|12|90
+Casey Sadler|R|Gary Sanchez|R|Strikeout|B|Curveball|9|2|2|2|14|82
+Casey Sadler|R|Gary Sanchez|R|Strikeout|C|Sinker|10|3|2|2|14|94
+Casey Sadler|R|Clint Frazier|R|Groundout|C|Cutter|11|0|0|0|14|89
+Casey Sadler|R|Clint Frazier|R|Groundout|X|Sinker|12|0|1|0|5|92
+Casey Sadler|R|Gleyber Torres|R|Hit By Pitch|H|Sinker|13|0|0|1|11|92
+Casey Sadler|R|Miguel Andujar|R|Groundout|C|Sinker|14|0|0|1|9|92
+Casey Sadler|R|Miguel Andujar|R|Groundout|B|Cutter|15|0|1|1|14|90
+Casey Sadler|R|Miguel Andujar|R|Groundout|B|Sinker|16|1|1|1|14|93
+Casey Sadler|R|Miguel Andujar|R|Groundout|X|Sinker|17|2|1|1|6|92
+Casey Sadler|R|Gio Urshela|R|Strikeout|C|Sinker|18|0|0|2|9|93
+Casey Sadler|R|Gio Urshela|R|Strikeout|C|Sinker|19|0|1|2|14|94
+Casey Sadler|R|Gio Urshela|R|Strikeout|C|Sinker|20|0|2|2|14|93
+Casey Sadler|R|Cameron Maybin|R|Field Error|B|Sinker|21|0|0|0|1|91
+Casey Sadler|R|Cameron Maybin|R|Field Error|B|Sinker|22|1|0|0|7|91
+Casey Sadler|R|Cameron Maybin|R|Field Error|C|Sinker|23|2|0|0|11|90
+Casey Sadler|R|Cameron Maybin|R|Field Error|F|Cutter|24|2|1|0|8|88
+Casey Sadler|R|Cameron Maybin|R|Field Error|D|Sinker|25|2|2|0|5|93
+Casey Sadler|R|Brett Gardner|L|Bunt Pop Out|X|Sinker|26|0|0|0|1|92
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Sinker|27|0|0|1|14|93
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Sinker|28|1|0|1|14|93
+Casey Sadler|R|DJ LeMahieu|R|Groundout|C|Cutter|29|2|0|1|1|91
+Casey Sadler|R|DJ LeMahieu|R|Groundout|B|Cutter|30|2|1|1|14|90
+Casey Sadler|R|DJ LeMahieu|R|Groundout|X|Sinker|31|3|1|1|8|93
+Casey Sadler|R|Joc Pederson|L|Groundout|C|Cutter|0|0|0|0|1|86
+Casey Sadler|R|Joc Pederson|L|Groundout|F|Sinker|1|0|1|0|13|91
+Casey Sadler|R|Joc Pederson|L|Groundout|B|Curveball|2|0|2|0|14|82
+Casey Sadler|R|Joc Pederson|L|Groundout|X|Curveball|3|1|2|0|4|80
+Casey Sadler|R|Max Muncy|L|Groundout|S|Curveball|4|0|0|1|9|81
+Casey Sadler|R|Max Muncy|L|Groundout|B|Curveball|5|0|1|1|14|80
+Casey Sadler|R|Max Muncy|L|Groundout|X|Cutter|6|1|1|1|6|88
+Casey Sadler|R|Justin Turner|R|Walk|B|Sinker|7|0|0|2|14|93
+Casey Sadler|R|Justin Turner|R|Walk|B|Sinker|8|1|0|2|14|92
+Casey Sadler|R|Justin Turner|R|Walk|B|Cutter|9|2|0|2|14|88
+Casey Sadler|R|Justin Turner|R|Walk|B|Sinker|10|3|0|2|14|92
+Casey Sadler|R|Cody Bellinger|L|Lineout|B|Curveball|11|0|0|2|11|79
+Casey Sadler|R|Cody Bellinger|L|Lineout|B|Curveball|12|1|0|2|13|79
+Casey Sadler|R|Cody Bellinger|L|Lineout|F|Cutter|13|2|0|2|8|88
+Casey Sadler|R|Cody Bellinger|L|Lineout|X|Curveball|14|2|1|2|11|80
+Casey Sadler|R|Corey Seager|L|Groundout|B|Sinker|15|0|0|0|11|91
+Casey Sadler|R|Corey Seager|L|Groundout|B|Cutter|16|1|0|0|11|87
+Casey Sadler|R|Corey Seager|L|Groundout|C|Sinker|17|2|0|0|5|90
+Casey Sadler|R|Corey Seager|L|Groundout|X|Curveball|18|2|1|0|4|80
+Casey Sadler|R|Russell Martin|R|Groundout|B|Sinker|19|0|0|1|14|93
+Casey Sadler|R|Russell Martin|R|Groundout|X|Sinker|20|1|0|1|1|92
+Casey Sadler|R|Alex Verdugo|L|Walk|C|Sinker|21|0|0|2|8|92
+Casey Sadler|R|Alex Verdugo|L|Walk|C|Curveball|22|0|1|2|13|81
+Casey Sadler|R|Alex Verdugo|L|Walk|B|Curveball|23|0|2|2|14|82
+Casey Sadler|R|Alex Verdugo|L|Walk|F|Cutter|24|1|2|2|14|88
+Casey Sadler|R|Alex Verdugo|L|Walk|B|Sinker|25|1|2|2|14|93
+Casey Sadler|R|Alex Verdugo|L|Walk|B|Curveball|26|2|2|2|14|83
+Casey Sadler|R|Alex Verdugo|L|Walk|F|Cutter|27|3|2|2|6|89
+Casey Sadler|R|Alex Verdugo|L|Walk|F|Cutter|28|3|2|2|8|89
+Casey Sadler|R|Alex Verdugo|L|Walk|B|Sinker|29|3|2|2|13|94
+Casey Sadler|R|Matt Beaty|L|Strikeout|B|Sinker|30|0|0|2|14|92
+Casey Sadler|R|Matt Beaty|L|Strikeout|B|Cutter|31|1|0|2|11|89
+Casey Sadler|R|Matt Beaty|L|Strikeout|C|Cutter|32|2|0|2|8|88
+Casey Sadler|R|Matt Beaty|L|Strikeout|C|Curveball|33|2|1|2|1|81
+Casey Sadler|R|Matt Beaty|L|Strikeout|B|Curveball|34|2|2|2|13|81
+Casey Sadler|R|Matt Beaty|L|Strikeout|C|Sinker|35|3|2|2|6|92
+Casey Sadler|R|Ronald Guzman|L|Groundout|C|Sinker|0|0|0|0|6|92
+Casey Sadler|R|Ronald Guzman|L|Groundout|X|Changeup|1|0|1|0|4|86
+Casey Sadler|R|Jeff Mathis|R|Strikeout|B|Cutter|2|0|0|1|12|90
+Casey Sadler|R|Jeff Mathis|R|Strikeout|C|Sinker|3|1|0|1|3|93
+Casey Sadler|R|Jeff Mathis|R|Strikeout|C|Cutter|4|1|1|1|12|90
+Casey Sadler|R|Jeff Mathis|R|Strikeout|W|Curveball|5|1|2|1|14|81
+Casey Sadler|R|Shin-Soo Choo|L|Walk|C|Sinker|6|0|0|2|6|93
+Casey Sadler|R|Shin-Soo Choo|L|Walk|B|Cutter|7|0|1|2|13|89
+Casey Sadler|R|Shin-Soo Choo|L|Walk|B|Changeup|8|1|1|2|14|88
+Casey Sadler|R|Shin-Soo Choo|L|Walk|B|Sinker|9|2|1|2|14|93
+Casey Sadler|R|Shin-Soo Choo|L|Walk|C|Cutter|10|3|1|2|9|91
+Casey Sadler|R|Shin-Soo Choo|L|Walk|F|Cutter|11|3|2|2|11|89
+Casey Sadler|R|Shin-Soo Choo|L|Walk|F|Sinker|12|3|2|2|14|94
+Casey Sadler|R|Shin-Soo Choo|L|Walk|B|Sinker|13|3|2|2|9|94
+Casey Sadler|R|Willie Calhoun|L|Single|B|Sinker|14|0|0|2|9|93
+Casey Sadler|R|Willie Calhoun|L|Single|B|Sinker|15|1|0|2|13|93
+Casey Sadler|R|Willie Calhoun|L|Single|D|Sinker|16|2|0|2|8|94
+Casey Sadler|R|Elvis Andrus|R|Flyout|S|Cutter|17|0|0|2|3|91
+Casey Sadler|R|Elvis Andrus|R|Flyout|B|Sinker|18|0|1|2|13|94
+Casey Sadler|R|Elvis Andrus|R|Flyout|F|Cutter|19|1|1|2|9|91
+Casey Sadler|R|Elvis Andrus|R|Flyout|X|Curveball|20|1|2|2|9|82
+Casey Sadler|R|Nomar Mazara|L|Flyout|X|Sinker|21|0|0|0|8|92
+Casey Sadler|R|Joey Gallo|L|Groundout|L|Changeup|22|0|0|1|11|86
+Casey Sadler|R|Joey Gallo|L|Groundout|B|Cutter|23|0|1|1|11|90
+Casey Sadler|R|Joey Gallo|L|Groundout|X|Changeup|24|1|1|1|13|86
+Casey Sadler|R|Asdrubal Cabrera|L|Flyout|B|Sinker|25|0|0|2|14|93
+Casey Sadler|R|Asdrubal Cabrera|L|Flyout|X|Changeup|26|1|0|2|11|86
+Casey Sadler|R|Rougned Odor|L|Single|C|Cutter|27|0|0|0|8|89
+Casey Sadler|R|Rougned Odor|L|Single|B|Changeup|28|0|1|0|11|85
+Casey Sadler|R|Rougned Odor|L|Single|S|Sinker|29|1|1|0|4|93
+Casey Sadler|R|Rougned Odor|L|Single|B|Curveball|30|1|2|0|14|83
+Casey Sadler|R|Rougned Odor|L|Single|D|Cutter|31|2|2|0|14|91
+Casey Sadler|R|Ronald Guzman|L|Groundout|C|Cutter|32|0|0|0|4|88
+Casey Sadler|R|Ronald Guzman|L|Groundout|B|Sinker|33|0|1|0|13|92
+Casey Sadler|R|Ronald Guzman|L|Groundout|*B|Cutter|34|1|1|0|13|90
+Casey Sadler|R|Ronald Guzman|L|Groundout|F|Sinker|35|2|1|0|1|91
+Casey Sadler|R|Ronald Guzman|L|Groundout|X|Curveball|36|2|2|0|13|81
+Casey Sadler|R|Jeff Mathis|R|Groundout|S|Cutter|37|0|0|1|6|91
+Casey Sadler|R|Jeff Mathis|R|Groundout|X|Sinker|38|0|1|1|13|93
+Casey Sadler|R|Shin-Soo Choo|L|Single|B|Sinker|39|0|0|2|14|93
+Casey Sadler|R|Shin-Soo Choo|L|Single|E|Changeup|40|1|0|2|11|86
+Casey Sadler|R|Willie Calhoun|L|Flyout|F|Sinker|41|0|0|2|4|92
+Casey Sadler|R|Willie Calhoun|L|Flyout|X|Curveball|42|0|1|2|11|81
+Casey Sadler|R|Rhys Hoskins|R|Triple|B|Cutter|0|0|0|0|14|91
+Casey Sadler|R|Rhys Hoskins|R|Triple|C|Cutter|1|1|0|0|9|90
+Casey Sadler|R|Rhys Hoskins|R|Triple|B|Sinker|2|1|1|0|11|93
+Casey Sadler|R|Rhys Hoskins|R|Triple|D|Cutter|3|2|1|0|14|90
+Casey Sadler|R|Andrew Knapp|L|Hit By Pitch|H|Cutter|4|0|0|0|14|91
+Casey Sadler|R|Brad Miller|L|Strikeout|F|Cutter|5|0|0|0|6|91
+Casey Sadler|R|Brad Miller|L|Strikeout|F|Cutter|6|0|1|0|6|90
+Casey Sadler|R|Brad Miller|L|Strikeout|S|Curveball|7|0|2|0|14|83
+Casey Sadler|R|Maikel Franco|R|Sac Fly|C|Cutter|8|0|0|1|9|92
+Casey Sadler|R|Maikel Franco|R|Sac Fly|B|Sinker|9|0|1|1|14|94
+Casey Sadler|R|Maikel Franco|R|Sac Fly|B|Cutter|10|1|1|1|14|92
+Casey Sadler|R|Maikel Franco|R|Sac Fly|F|Curveball|11|2|1|1|1|81
+Casey Sadler|R|Maikel Franco|R|Sac Fly|B|Cutter|12|2|2|1|14|91
+Casey Sadler|R|Maikel Franco|R|Sac Fly|E|Cutter|13|3|2|1|8|91
+Casey Sadler|R|Cesar Hernandez|L|Forceout|X|Sinker|14|0|0|2|11|93
+Casey Sadler|R|Adam Haseley|L|Groundout|X|Sinker|15|0|0|0|8|92
+Casey Sadler|R|Scott Kingery|R|Single|C|Sinker|16|0|0|1|14|93
+Casey Sadler|R|Scott Kingery|R|Single|B|Cutter|17|0|1|1|14|90
+Casey Sadler|R|Scott Kingery|R|Single|D|Sinker|18|1|1|1|8|93
+Casey Sadler|R|Jean Segura|R|Groundout|F|Sinker|19|0|0|1|2|92
+Casey Sadler|R|Jean Segura|R|Groundout|F|Cutter|20|0|1|1|6|91
+Casey Sadler|R|Jean Segura|R|Groundout|F|Curveball|21|0|2|1|4|82
+Casey Sadler|R|Jean Segura|R|Groundout|X|Curveball|22|0|2|1|6|82
+Casey Sadler|R|Roman Quinn|L|Strikeout|S|Sinker|23|0|0|2|13|93
+Casey Sadler|R|Roman Quinn|L|Strikeout|B|Curveball|24|0|1|2|11|82
+Casey Sadler|R|Roman Quinn|L|Strikeout|B|Cutter|25|1|1|2|14|90
+Casey Sadler|R|Roman Quinn|L|Strikeout|C|Sinker|26|2|1|2|14|94
+Casey Sadler|R|Roman Quinn|L|Strikeout|W|Curveball|27|2|2|2|14|82
+Casey Sadler|R|JD Hammer|R|Groundout|C|Sinker|0|0|0|0|4|92
+Casey Sadler|R|JD Hammer|R|Groundout|B|Sinker|1|0|1|0|12|92
+Casey Sadler|R|JD Hammer|R|Groundout|B|Sinker|2|1|1|0|14|91
+Casey Sadler|R|JD Hammer|R|Groundout|C|Sinker|3|2|1|0|1|91
+Casey Sadler|R|JD Hammer|R|Groundout|X|Sinker|4|2|2|0|1|92
+Casey Sadler|R|Cesar Hernandez|L|Groundout|B|Sinker|5|0|0|1|14|92
+Casey Sadler|R|Cesar Hernandez|L|Groundout|B|Sinker|6|1|0|1|13|93
+Casey Sadler|R|Cesar Hernandez|L|Groundout|X|Cutter|7|2|0|1|2|90
+Casey Sadler|R|Scott Kingery|R|Walk|B|Sinker|8|0|0|2|14|94
+Casey Sadler|R|Scott Kingery|R|Walk|C|Curveball|9|1|0|2|1|82
+Casey Sadler|R|Scott Kingery|R|Walk|B|Sinker|10|1|1|2|12|94
+Casey Sadler|R|Scott Kingery|R|Walk|B|Curveball|11|2|1|2|11|80
+Casey Sadler|R|Scott Kingery|R|Walk|B|Cutter|12|3|1|2|12|90
+Casey Sadler|R|Thairo Estrada|R|Double|*B|Curveball|0|0|0|2|14|83
+Casey Sadler|R|Thairo Estrada|R|Double|B|Cutter|1|1|0|2|14|93
+Casey Sadler|R|Thairo Estrada|R|Double|C|Sinker|2|2|0|2|7|94
+Casey Sadler|R|Thairo Estrada|R|Double|E|Sinker|3|2|1|2|4|94
+Casey Sadler|R|Brett Gardner|L|Double|*B|Sinker|4|0|0|2|14|94
+Casey Sadler|R|Brett Gardner|L|Double|B|Changeup|5|1|0|2|11|87
+Casey Sadler|R|Brett Gardner|L|Double|B|Sinker|6|2|0|2|14|94
+Casey Sadler|R|Brett Gardner|L|Double|C|Sinker|7|3|0|2|7|93
+Casey Sadler|R|Brett Gardner|L|Double|E|Sinker|8|3|1|2|5|94
+Casey Sadler|R|Clint Frazier|R|Strikeout|C|Cutter|9|0|0|2|13|90
+Casey Sadler|R|Clint Frazier|R|Strikeout|W|Curveball|10|0|1|2|14|84
+Casey Sadler|R|Clint Frazier|R|Strikeout|*B|Curveball|11|0|2|2|14|83
+Casey Sadler|R|Clint Frazier|R|Strikeout|F|Cutter|12|1|2|2|11|89
+Casey Sadler|R|Clint Frazier|R|Strikeout|B|Sinker|13|1|2|2|14|94
+Casey Sadler|R|Clint Frazier|R|Strikeout|C|Sinker|14|2|2|2|6|95
+Casey Sadler|R|DJ LeMahieu|R|Home Run|C|Cutter|15|0|0|0|4|88
+Casey Sadler|R|DJ LeMahieu|R|Home Run|E|Curveball|16|0|1|0|11|81
+Casey Sadler|R|Aaron Hicks|L|Strikeout|C|Sinker|17|0|0|0|13|92
+Casey Sadler|R|Aaron Hicks|L|Strikeout|B|Curveball|18|0|1|0|13|82
+Casey Sadler|R|Aaron Hicks|L|Strikeout|C|Four-Seam Fastball|19|1|1|0|8|93
+Casey Sadler|R|Aaron Hicks|L|Strikeout|S|Sinker|20|1|2|0|13|95
+Casey Sadler|R|Luke Voit|R|Strikeout|C|Curveball|21|0|0|1|7|82
+Casey Sadler|R|Luke Voit|R|Strikeout|F|Four-Seam Fastball|22|0|1|1|11|94
+Casey Sadler|R|Luke Voit|R|Strikeout|S|Sinker|23|0|2|1|11|93
+Casey Sadler|R|Gary Sanchez|R|Single|B|Sinker|24|0|0|2|14|94
+Casey Sadler|R|Gary Sanchez|R|Single|S|Curveball|25|1|0|2|14|83
+Casey Sadler|R|Gary Sanchez|R|Single|D|Curveball|26|1|1|2|14|83
+Casey Sadler|R|Kendrys Morales|L|Groundout|B|Sinker|27|0|0|2|13|94
+Casey Sadler|R|Kendrys Morales|L|Groundout|B|Changeup|28|1|0|2|13|87
+Casey Sadler|R|Kendrys Morales|L|Groundout|X|Sinker|29|2|0|2|13|94
+Casey Sadler|R|Gleyber Torres|R|Single|C|Sinker|30|0|0|0|14|93
+Casey Sadler|R|Gleyber Torres|R|Single|S|Cutter|31|0|1|0|14|90
+Casey Sadler|R|Gleyber Torres|R|Single|D|Sinker|32|0|2|0|5|94
+Casey Sadler|R|Thairo Estrada|R|Lineout|X|Cutter|33|0|0|0|5|90
+Casey Sadler|R|Brett Gardner|L|Pop Out|B|Sinker|34|0|0|1|12|93
+Casey Sadler|R|Brett Gardner|L|Pop Out|B|Sinker|35|1|0|1|11|92
+Casey Sadler|R|Brett Gardner|L|Pop Out|X|Sinker|36|2|0|1|12|92
+Casey Sadler|R|Cameron Maybin|R|Groundout|B|Cutter|37|0|0|2|11|88
+Casey Sadler|R|Cameron Maybin|R|Groundout|B|Cutter|38|1|0|2|13|90
+Casey Sadler|R|Cameron Maybin|R|Groundout|B|Sinker|39|2|0|2|11|92
+Casey Sadler|R|Cameron Maybin|R|Groundout|C|Sinker|40|3|0|2|5|92
+Casey Sadler|R|Cameron Maybin|R|Groundout|C|Cutter|41|3|1|2|11|88
+Casey Sadler|R|Cameron Maybin|R|Groundout|F|Cutter|42|3|2|2|5|89
+Casey Sadler|R|Cameron Maybin|R|Groundout|X|Cutter|43|3|2|2|14|89
+Casey Sadler|R|Carlos Gomez|R|Groundout|B|Sinker|0|0|0|0|14|89
+Casey Sadler|R|Carlos Gomez|R|Groundout|X|Sinker|1|1|0|0|8|90
+Casey Sadler|R|Jean Segura|R|Bunt Pop Out|X|Sinker|2|0|0|1|2|90
+Casey Sadler|R|Ryan Braun|R|Strikeout|B|Sinker|3|0|0|2|14|90
+Casey Sadler|R|Ryan Braun|R|Strikeout|F|Sinker|4|1|0|2|14|90
+Casey Sadler|R|Ryan Braun|R|Strikeout|C|Sinker|5|1|1|2|13|91
+Casey Sadler|R|Ryan Braun|R|Strikeout|F|Sinker|6|1|2|2|13|90
+Casey Sadler|R|Ryan Braun|R|Strikeout|F|Slider|7|1|2|2|3|86
+Casey Sadler|R|Ryan Braun|R|Strikeout|F|Sinker|8|1|2|2|14|91
+Casey Sadler|R|Ryan Braun|R|Strikeout|S|Changeup|9|1|2|2|7|85
+Casey Sadler|R|Adam Lind|L|Groundout|B|Slider|10|0|0|0|14|84
+Casey Sadler|R|Adam Lind|L|Groundout|B|Sinker|11|1|0|0|13|89
+Casey Sadler|R|Adam Lind|L|Groundout|C|Sinker|12|2|0|0|13|90
+Casey Sadler|R|Adam Lind|L|Groundout|B|Sinker|13|2|1|0|11|89
+Casey Sadler|R|Adam Lind|L|Groundout|C|Sinker|14|3|1|0|5|89
+Casey Sadler|R|Adam Lind|L|Groundout|X|Sinker|15|3|2|0|13|90
+Casey Sadler|R|Aramis Ramirez|R|Lineout|C|Sinker|16|0|0|1|9|91
+Casey Sadler|R|Aramis Ramirez|R|Lineout|X|Sinker|17|0|1|1|11|91
+Casey Sadler|R|Khris Davis|R|Walk|C|Sinker|18|0|0|2|6|90
+Casey Sadler|R|Khris Davis|R|Walk|B|Sinker|19|0|1|2|11|90
+Casey Sadler|R|Khris Davis|R|Walk|F|Changeup|20|1|1|2|7|85
+Casey Sadler|R|Khris Davis|R|Walk|B|Sinker|21|1|2|2|12|90
+Casey Sadler|R|Khris Davis|R|Walk|B|Sinker|22|2|2|2|14|91
+Casey Sadler|R|Khris Davis|R|Walk|B|Slider|23|3|2|2|14|85
+Casey Sadler|R|Martin Maldonado|R|Groundout|*B|Sinker|24|0|0|2|14|91
+Casey Sadler|R|Martin Maldonado|R|Groundout|B|Sinker|25|1|0|2|14|91
+Casey Sadler|R|Martin Maldonado|R|Groundout|C|Sinker|26|2|0|2|14|91
+Casey Sadler|R|Martin Maldonado|R|Groundout|B|Sinker|27|2|1|2|14|90
+Casey Sadler|R|Martin Maldonado|R|Groundout|F|Sinker|28|3|1|2|8|91
+Casey Sadler|R|Martin Maldonado|R|Groundout|F|Sinker|29|3|2|2|3|90
+Casey Sadler|R|Martin Maldonado|R|Groundout|X|Sinker|30|3|2|2|6|92
+Casey Sadler|R|Hector Gomez|R|Double|B|Sinker|31|0|0|0|14|90
+Casey Sadler|R|Hector Gomez|R|Double|B|Sinker|32|1|0|0|11|88
+Casey Sadler|R|Hector Gomez|R|Double|C|Sinker|33|2|0|0|8|89
+Casey Sadler|R|Hector Gomez|R|Double|F|Sinker|34|2|1|0|11|88
+Casey Sadler|R|Hector Gomez|R|Double|B|Sinker|35|2|2|0|14|90
+Casey Sadler|R|Hector Gomez|R|Double|D|Sinker|36|3|2|0|6|90
+Casey Sadler|R|Kyle Lohse|R|Strikeout|L|Slider|37|0|0|0|14|86
+Casey Sadler|R|Kyle Lohse|R|Strikeout|B|Slider|38|0|1|0|13|85
+Casey Sadler|R|Kyle Lohse|R|Strikeout|C|Sinker|39|1|1|0|9|92
+Casey Sadler|R|Kyle Lohse|R|Strikeout|L|Slider|40|1|2|0|8|86
+Casey Sadler|R|Carlos Gomez|R|Home Run|T|Sinker|41|0|0|1|7|91
+Casey Sadler|R|Carlos Gomez|R|Home Run|E|Sinker|42|0|1|1|1|91
+Casey Sadler|R|Jean Segura|R|Groundout|X|Sinker|43|0|0|1|11|91
+Casey Sadler|R|Ryan Braun|R|Single|C|Slider|44|0|0|2|6|86
+Casey Sadler|R|Ryan Braun|R|Single|B|Slider|45|0|1|2|14|86
+Casey Sadler|R|Ryan Braun|R|Single|C|Sinker|46|1|1|2|3|91
+Casey Sadler|R|Ryan Braun|R|Single|D|Sinker|47|1|2|2|7|92
+Casey Sadler|R|Adam Lind|L|Strikeout|C|Sinker|48|0|0|2|12|91
+Casey Sadler|R|Adam Lind|L|Strikeout|C|Sinker|49|0|1|2|12|91
+Casey Sadler|R|Adam Lind|L|Strikeout|B|Sinker|50|0|2|2|14|91
+Casey Sadler|R|Adam Lind|L|Strikeout|S|Slider|51|1|2|2|14|85
+Casey Sadler|R|Aramis Ramirez|R|Lineout|X|Slider|52|0|0|0|13|84
+Casey Sadler|R|Khris Davis|R|Flyout|B|Sinker|53|0|0|1|11|90
+Casey Sadler|R|Khris Davis|R|Flyout|C|Sinker|54|1|0|1|3|90
+Casey Sadler|R|Khris Davis|R|Flyout|X|Changeup|55|1|1|1|13|83
+Casey Sadler|R|Martin Maldonado|R|Strikeout|C|Slider|56|0|0|2|1|84
+Casey Sadler|R|Martin Maldonado|R|Strikeout|B|Slider|57|0|1|2|14|85
+Casey Sadler|R|Martin Maldonado|R|Strikeout|B|Sinker|58|1|1|2|14|90
+Casey Sadler|R|Martin Maldonado|R|Strikeout|B|Changeup|59|2|1|2|14|84
+Casey Sadler|R|Martin Maldonado|R|Strikeout|F|Sinker|60|3|1|2|14|90
+Casey Sadler|R|Martin Maldonado|R|Strikeout|S|Sinker|61|3|2|2|8|91
+Casey Sadler|R|Hector Gomez|R|Strikeout|B|Sinker|62|0|0|0|14|90
+Casey Sadler|R|Hector Gomez|R|Strikeout|S|Changeup|63|1|0|0|7|83
+Casey Sadler|R|Hector Gomez|R|Strikeout|F|Sinker|64|1|1|0|11|90
+Casey Sadler|R|Hector Gomez|R|Strikeout|S|Changeup|65|1|2|0|14|83
+Casey Sadler|R|Kyle Lohse|R|Groundout|B|Sinker|66|0|0|1|14|90
+Casey Sadler|R|Kyle Lohse|R|Groundout|C|Sinker|67|1|0|1|14|89
+Casey Sadler|R|Kyle Lohse|R|Groundout|C|Sinker|68|1|1|1|14|89
+Casey Sadler|R|Kyle Lohse|R|Groundout|X|Slider|69|1|2|1|14|86
+Casey Sadler|R|Carlos Gomez|R|Double|C|Sinker|70|0|0|2|12|91
+Casey Sadler|R|Carlos Gomez|R|Double|F|Slider|71|0|1|2|6|85
+Casey Sadler|R|Carlos Gomez|R|Double|F|Changeup|72|0|2|2|9|83
+Casey Sadler|R|Carlos Gomez|R|Double|D|Changeup|73|0|2|2|13|84
+Casey Sadler|R|Jean Segura|R|Pickoff Caught Stealing 3B|B|Sinker|74|0|0|2|13|90
+Casey Sadler|R|Jean Segura|R|Pickoff Caught Stealing 3B|B|Changeup|75|1|0|2|7|84
+Casey Sadler|R|Jean Segura|R|Pickoff Caught Stealing 3B|C|Sinker|76|2|0|2|14|91

@@ -1,0 +1,706 @@
+Phil Klein|R|Ben Zobrist|L|Flyout|B|Two-Seam Fastball|0|0|0|0|1|90
+Phil Klein|R|Ben Zobrist|L|Flyout|B|Two-Seam Fastball|1|1|0|0|11|91
+Phil Klein|R|Ben Zobrist|L|Flyout|C|Two-Seam Fastball|2|2|0|0|9|91
+Phil Klein|R|Ben Zobrist|L|Flyout|B|Slider|3|2|1|0|13|83
+Phil Klein|R|Ben Zobrist|L|Flyout|X|Two-Seam Fastball|4|3|1|0|5|91
+Phil Klein|R|Billy Butler|R|Walk|B|Slider|5|0|0|1|14|85
+Phil Klein|R|Billy Butler|R|Walk|B|Four-Seam Fastball|6|1|0|1|2|91
+Phil Klein|R|Billy Butler|R|Walk|C|Four-Seam Fastball|7|2|0|1|4|90
+Phil Klein|R|Billy Butler|R|Walk|B|Slider|8|2|1|1|14|84
+Phil Klein|R|Billy Butler|R|Walk|B|Four-Seam Fastball|9|3|1|1|11|91
+Phil Klein|R|Ike Davis|L|Flyout|C|Two-Seam Fastball|10|0|0|1|8|91
+Phil Klein|R|Ike Davis|L|Flyout|B|Two-Seam Fastball|11|0|1|1|13|93
+Phil Klein|R|Ike Davis|L|Flyout|X|Changeup|12|1|1|1|14|85
+Phil Klein|R|Brett Lawrie|R|Single|B|Slider|13|0|0|2|13|85
+Phil Klein|R|Brett Lawrie|R|Single|F|Four-Seam Fastball|14|1|0|2|1|91
+Phil Klein|R|Brett Lawrie|R|Single|S|Four-Seam Fastball|15|1|1|2|12|92
+Phil Klein|R|Brett Lawrie|R|Single|D|Four-Seam Fastball|16|1|2|2|2|93
+Phil Klein|R|Stephen Vogt|L|Home Run|S|Slider|17|0|0|2|14|85
+Phil Klein|R|Stephen Vogt|L|Home Run|S|Changeup|18|0|1|2|1|84
+Phil Klein|R|Stephen Vogt|L|Home Run|F|Slider|19|0|2|2|9|86
+Phil Klein|R|Stephen Vogt|L|Home Run|B|Two-Seam Fastball|20|0|2|2|11|91
+Phil Klein|R|Stephen Vogt|L|Home Run|B|Two-Seam Fastball|21|1|2|2|11|92
+Phil Klein|R|Stephen Vogt|L|Home Run|B|Slider|22|2|2|2|11|86
+Phil Klein|R|Stephen Vogt|L|Home Run|E|Slider|23|3|2|2|14|87
+Phil Klein|R|Marcus Semien|R|Strikeout|B|Four-Seam Fastball|24|0|0|2|12|91
+Phil Klein|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|25|1|0|2|8|91
+Phil Klein|R|Marcus Semien|R|Strikeout|F|Slider|26|1|1|2|11|83
+Phil Klein|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|27|1|2|2|9|93
+Phil Klein|R|Billy Butler|R|Single|B|Four-Seam Fastball|0|0|0|0|12|92
+Phil Klein|R|Billy Butler|R|Single|D|Four-Seam Fastball|1|1|0|0|8|90
+Phil Klein|R|Mark Canha|R|Pop Out|B|Four-Seam Fastball|2|0|0|0|11|90
+Phil Klein|R|Mark Canha|R|Pop Out|B|Four-Seam Fastball|3|1|0|0|14|93
+Phil Klein|R|Mark Canha|R|Pop Out|B|Four-Seam Fastball|4|2|0|0|14|91
+Phil Klein|R|Mark Canha|R|Pop Out|C|Four-Seam Fastball|5|3|0|0|5|92
+Phil Klein|R|Mark Canha|R|Pop Out|C|Four-Seam Fastball|6|3|1|0|13|92
+Phil Klein|R|Mark Canha|R|Pop Out|F|Four-Seam Fastball|7|3|2|0|8|93
+Phil Klein|R|Mark Canha|R|Pop Out|X|Four-Seam Fastball|8|3|2|0|13|93
+Phil Klein|R|Brett Lawrie|R|Pop Out|F|Slider|9|0|0|1|4|84
+Phil Klein|R|Brett Lawrie|R|Pop Out|S|Four-Seam Fastball|10|0|1|1|3|92
+Phil Klein|R|Brett Lawrie|R|Pop Out|X|Slider|11|0|2|1|5|86
+Phil Klein|R|Josh Phegley|R|Pop Out|S|Four-Seam Fastball|12|0|0|2|11|92
+Phil Klein|R|Josh Phegley|R|Pop Out|B|Four-Seam Fastball|13|0|1|2|14|93
+Phil Klein|R|Josh Phegley|R|Pop Out|X|Slider|14|1|1|2|11|85
+Phil Klein|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|0|0|0|2|11|89
+Phil Klein|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|1|1|0|2|14|90
+Phil Klein|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|2|1|1|2|11|91
+Phil Klein|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|3|1|2|2|11|92
+Phil Klein|R|George Springer|R|Forceout|F|Two-Seam Fastball|0|0|0|2|4|90
+Phil Klein|R|George Springer|R|Forceout|C|Slider|1|0|1|2|3|84
+Phil Klein|R|George Springer|R|Forceout|F|Slider|2|0|2|2|9|87
+Phil Klein|R|George Springer|R|Forceout|B|Slider|3|0|2|2|11|86
+Phil Klein|R|George Springer|R|Forceout|B|Four-Seam Fastball|4|1|2|2|13|93
+Phil Klein|R|George Springer|R|Forceout|X|Slider|5|2|2|2|3|85
+Phil Klein|R|Jason Castro|L|Walk|B|Four-Seam Fastball|0|0|0|0|6|90
+Phil Klein|R|Jason Castro|L|Walk|B|Four-Seam Fastball|1|1|0|0|2|90
+Phil Klein|R|Jason Castro|L|Walk|B|Four-Seam Fastball|2|2|0|0|13|91
+Phil Klein|R|Jason Castro|L|Walk|B|Four-Seam Fastball|3|3|0|0|11|92
+Phil Klein|R|Colby Rasmus|L|Pop Out|B|Four-Seam Fastball|4|0|0|0|11|92
+Phil Klein|R|Colby Rasmus|L|Pop Out|F|Slider|5|1|0|0|5|85
+Phil Klein|R|Colby Rasmus|L|Pop Out|X|Slider|6|1|1|0|1|84
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|B|Four-Seam Fastball|7|0|0|1|14|90
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|*B|Slider|8|1|0|1|14|85
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|C|Four-Seam Fastball|9|2|0|1|5|93
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|S|Four-Seam Fastball|10|2|1|1|11|90
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|F|Four-Seam Fastball|11|2|2|1|11|91
+Phil Klein|R|Marwin Gonzalez|L|Strikeout|S|Slider|12|2|2|1|11|85
+Phil Klein|R|Jake Marisnick|R|Groundout|C|Slider|13|0|0|2|7|85
+Phil Klein|R|Jake Marisnick|R|Groundout|F|Slider|14|0|1|2|8|85
+Phil Klein|R|Jake Marisnick|R|Groundout|X|Four-Seam Fastball|15|0|2|2|9|91
+Phil Klein|R|Efren Navarro|L|Single|F|Four-Seam Fastball|0|0|0|0|4|90
+Phil Klein|R|Efren Navarro|L|Single|C|Slider|1|0|1|0|11|84
+Phil Klein|R|Efren Navarro|L|Single|B|Slider|2|0|2|0|14|86
+Phil Klein|R|Efren Navarro|L|Single|D|Changeup|3|1|2|0|8|85
+Phil Klein|R|Matt Joyce|L|Single|B|Slider|4|0|0|0|8|84
+Phil Klein|R|Matt Joyce|L|Single|F|Slider|5|1|0|0|5|84
+Phil Klein|R|Matt Joyce|L|Single|C|Four-Seam Fastball|6|1|1|0|5|90
+Phil Klein|R|Matt Joyce|L|Single|B|Slider|7|1|2|0|11|84
+Phil Klein|R|Matt Joyce|L|Single|B|Changeup|8|2|2|0|13|84
+Phil Klein|R|Matt Joyce|L|Single|D|Four-Seam Fastball|9|3|2|0|5|90
+Phil Klein|R|David Freese|R|Strikeout|F|Four-Seam Fastball|10|0|0|0|5|91
+Phil Klein|R|David Freese|R|Strikeout|F|Four-Seam Fastball|11|0|1|0|11|90
+Phil Klein|R|David Freese|R|Strikeout|S|Slider|12|0|2|0|14|86
+Phil Klein|R|C.J. Cron|R|Forceout|F|Slider|13|0|0|1|11|85
+Phil Klein|R|C.J. Cron|R|Forceout|F|Four-Seam Fastball|14|0|1|1|11|91
+Phil Klein|R|C.J. Cron|R|Forceout|E|Slider|15|0|2|1|14|87
+Phil Klein|R|Chris Iannetta|R|Lineout|C|Four-Seam Fastball|16|0|0|2|4|90
+Phil Klein|R|Chris Iannetta|R|Lineout|S|Slider|17|0|1|2|5|86
+Phil Klein|R|Chris Iannetta|R|Lineout|B|Slider|18|0|2|2|14|87
+Phil Klein|R|Chris Iannetta|R|Lineout|F|Four-Seam Fastball|19|1|2|2|2|91
+Phil Klein|R|Chris Iannetta|R|Lineout|X|Four-Seam Fastball|20|1|2|2|9|91
+Phil Klein|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|89
+Phil Klein|R|Mookie Betts|R|Lineout|C|Four-Seam Fastball|1|1|0|0|7|89
+Phil Klein|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|2|1|1|0|2|89
+Phil Klein|R|Mookie Betts|R|Lineout|F|Four-Seam Fastball|3|2|1|0|8|89
+Phil Klein|R|Mookie Betts|R|Lineout|X|Slider|4|2|2|0|2|83
+Phil Klein|R|Dustin Pedroia|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|8|90
+Phil Klein|R|Dustin Pedroia|R|Strikeout|F|Slider|6|0|1|1|9|86
+Phil Klein|R|Dustin Pedroia|R|Strikeout|B|Slider|7|0|2|1|12|86
+Phil Klein|R|Dustin Pedroia|R|Strikeout|F|Four-Seam Fastball|8|1|2|1|3|90
+Phil Klein|R|Dustin Pedroia|R|Strikeout|S|Four-Seam Fastball|9|1|2|1|11|89
+Phil Klein|R|David Ortiz|L|Groundout|X|Four-Seam Fastball|10|0|0|2|8|90
+Phil Klein|R|Hanley Ramirez|R|Flyout|B|Slider|11|0|0|0|12|87
+Phil Klein|R|Hanley Ramirez|R|Flyout|X|Slider|12|1|0|0|5|82
+Phil Klein|R|Mike Napoli|R|Single|C|Four-Seam Fastball|13|0|0|1|6|89
+Phil Klein|R|Mike Napoli|R|Single|C|Four-Seam Fastball|14|0|1|1|8|90
+Phil Klein|R|Mike Napoli|R|Single|D|Slider|15|0|2|1|14|86
+Phil Klein|R|Daniel Nava|L|Strikeout|B|Four-Seam Fastball|16|0|0|1|11|89
+Phil Klein|R|Daniel Nava|L|Strikeout|C|Four-Seam Fastball|17|1|0|1|7|90
+Phil Klein|R|Daniel Nava|L|Strikeout|C|Slider|18|1|1|1|5|83
+Phil Klein|R|Daniel Nava|L|Strikeout|S|Four-Seam Fastball|19|1|2|1|11|91
+Phil Klein|R|Brock Holt|L|Flyout|C|Four-Seam Fastball|20|0|0|2|8|89
+Phil Klein|R|Brock Holt|L|Flyout|*B|Changeup|21|0|1|2|13|83
+Phil Klein|R|Brock Holt|L|Flyout|F|Slider|22|1|1|2|1|83
+Phil Klein|R|Brock Holt|L|Flyout|B|Four-Seam Fastball|23|1|2|2|11|89
+Phil Klein|R|Brock Holt|L|Flyout|B|Four-Seam Fastball|24|2|2|2|11|91
+Phil Klein|R|Brock Holt|L|Flyout|F|Four-Seam Fastball|25|3|2|2|4|90
+Phil Klein|R|Brock Holt|L|Flyout|X|Four-Seam Fastball|26|3|2|2|5|91
+Phil Klein|R|Xander Bogaerts|R|Groundout|C|Four-Seam Fastball|27|0|0|0|14|88
+Phil Klein|R|Xander Bogaerts|R|Groundout|X|Slider|28|0|1|0|9|83
+Phil Klein|R|Blake Swihart|L|Single|C|Four-Seam Fastball|29|0|0|1|5|88
+Phil Klein|R|Blake Swihart|L|Single|B|Slider|30|0|1|1|14|83
+Phil Klein|R|Blake Swihart|L|Single|S|Changeup|31|1|1|1|13|82
+Phil Klein|R|Blake Swihart|L|Single|F|Slider|32|1|2|1|1|85
+Phil Klein|R|Blake Swihart|L|Single|D|Changeup|33|1|2|1|11|83
+Phil Klein|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|34|0|0|1|11|88
+Phil Klein|R|Mookie Betts|R|Lineout|X|Slider|35|1|0|1|5|83
+Phil Klein|R|Dustin Pedroia|R|Pop Out|B|Four-Seam Fastball|36|0|0|2|11|89
+Phil Klein|R|Dustin Pedroia|R|Pop Out|B|Four-Seam Fastball|37|1|0|2|11|88
+Phil Klein|R|Dustin Pedroia|R|Pop Out|X|Four-Seam Fastball|38|2|0|2|5|89
+Phil Klein|R|David Ortiz|L|Strikeout|F|Four-Seam Fastball|39|0|0|0|11|90
+Phil Klein|R|David Ortiz|L|Strikeout|B|Four-Seam Fastball|40|0|1|0|14|90
+Phil Klein|R|David Ortiz|L|Strikeout|B|Changeup|41|1|1|0|14|83
+Phil Klein|R|David Ortiz|L|Strikeout|S|Changeup|42|2|1|0|13|83
+Phil Klein|R|David Ortiz|L|Strikeout|F|Four-Seam Fastball|43|2|2|0|13|92
+Phil Klein|R|David Ortiz|L|Strikeout|B|Slider|44|2|2|0|11|85
+Phil Klein|R|David Ortiz|L|Strikeout|F|Four-Seam Fastball|45|3|2|0|11|91
+Phil Klein|R|David Ortiz|L|Strikeout|F|Slider|46|3|2|0|2|85
+Phil Klein|R|David Ortiz|L|Strikeout|S|Four-Seam Fastball|47|3|2|0|11|91
+Phil Klein|R|Hanley Ramirez|R|Groundout|X|Slider|48|0|0|1|6|84
+Phil Klein|R|Mike Napoli|R|Single|F|Four-Seam Fastball|49|0|0|2|11|90
+Phil Klein|R|Mike Napoli|R|Single|F|Four-Seam Fastball|50|0|1|2|3|91
+Phil Klein|R|Mike Napoli|R|Single|D|Four-Seam Fastball|51|0|2|2|11|91
+Phil Klein|R|Daniel Nava|L|Double|T|Slider|52|0|0|2|1|89
+Phil Klein|R|Daniel Nava|L|Double|B|Slider|53|0|1|2|11|83
+Phil Klein|R|Daniel Nava|L|Double|D|Slider|54|1|1|2|8|84
+Phil Klein|R|Brock Holt|L|Pop Out|C|Changeup|55|0|0|2|11|83
+Phil Klein|R|Brock Holt|L|Pop Out|T|Slider|56|0|1|2|4|86
+Phil Klein|R|Brock Holt|L|Pop Out|F|Four-Seam Fastball|57|0|2|2|11|92
+Phil Klein|R|Brock Holt|L|Pop Out|B|Four-Seam Fastball|58|0|2|2|13|92
+Phil Klein|R|Brock Holt|L|Pop Out|X|Slider|59|1|2|2|4|86
+Phil Klein|R|Xander Bogaerts|R|Home Run|E|Slider|60|0|0|0|4|83
+Phil Klein|R|Blake Swihart|L|Strikeout|B|Four-Seam Fastball|61|0|0|0|11|89
+Phil Klein|R|Blake Swihart|L|Strikeout|F|Four-Seam Fastball|62|1|0|0|1|88
+Phil Klein|R|Blake Swihart|L|Strikeout|C|Slider|63|1|1|0|13|84
+Phil Klein|R|Blake Swihart|L|Strikeout|S|Slider|64|1|2|0|9|86
+Phil Klein|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|65|0|0|1|14|89
+Phil Klein|R|Mookie Betts|R|Lineout|X|Four-Seam Fastball|66|1|0|1|14|89
+Phil Klein|R|Dustin Pedroia|R|Pop Out|B|Four-Seam Fastball|67|0|0|2|14|90
+Phil Klein|R|Dustin Pedroia|R|Pop Out|X|Four-Seam Fastball|68|1|0|2|5|89
+Phil Klein|R|David Ortiz|L|Walk|B|Changeup|69|0|0|0|13|82
+Phil Klein|R|David Ortiz|L|Walk|C|Changeup|70|1|0|0|4|82
+Phil Klein|R|David Ortiz|L|Walk|B|Slider|71|1|1|0|14|85
+Phil Klein|R|David Ortiz|L|Walk|F|Slider|72|2|1|0|13|84
+Phil Klein|R|David Ortiz|L|Walk|B|Four-Seam Fastball|73|2|2|0|11|92
+Phil Klein|R|David Ortiz|L|Walk|B|Changeup|74|3|2|0|13|84
+Phil Klein|R|Hanley Ramirez|R|Lineout|C|Four-Seam Fastball|75|0|0|0|13|88
+Phil Klein|R|Hanley Ramirez|R|Lineout|B|Four-Seam Fastball|76|0|1|0|11|88
+Phil Klein|R|Hanley Ramirez|R|Lineout|F|Slider|77|1|1|0|8|85
+Phil Klein|R|Hanley Ramirez|R|Lineout|F|Slider|78|1|2|0|14|86
+Phil Klein|R|Hanley Ramirez|R|Lineout|X|Four-Seam Fastball|79|1|2|0|14|91
+Phil Klein|R|Mike Napoli|R|Field Error|D|Slider|80|0|0|1|6|84
+Phil Klein|R|Jason Kipnis|L|Groundout|C|Four-Seam Fastball|0|0|0|0|8|89
+Phil Klein|R|Jason Kipnis|L|Groundout|C|Changeup|1|0|1|0|1|83
+Phil Klein|R|Jason Kipnis|L|Groundout|B|Four-Seam Fastball|2|0|2|0|13|92
+Phil Klein|R|Jason Kipnis|L|Groundout|F|Slider|3|1|2|0|14|85
+Phil Klein|R|Jason Kipnis|L|Groundout|F|Four-Seam Fastball|4|1|2|0|1|92
+Phil Klein|R|Jason Kipnis|L|Groundout|B|Changeup|5|1|2|0|14|85
+Phil Klein|R|Jason Kipnis|L|Groundout|X|Slider|6|2|2|0|5|83
+Phil Klein|R|Carlos Santana|L|Home Run|C|Four-Seam Fastball|7|0|0|1|4|89
+Phil Klein|R|Carlos Santana|L|Home Run|B|Four-Seam Fastball|8|0|1|1|14|90
+Phil Klein|R|Carlos Santana|L|Home Run|E|Slider|9|1|1|1|8|85
+Phil Klein|R|Michael Brantley|L|Groundout|C|Four-Seam Fastball|10|0|0|1|7|90
+Phil Klein|R|Michael Brantley|L|Groundout|F|Two-Seam Fastball|11|0|1|1|11|89
+Phil Klein|R|Michael Brantley|L|Groundout|B|Four-Seam Fastball|12|0|2|1|11|89
+Phil Klein|R|Michael Brantley|L|Groundout|X|Four-Seam Fastball|13|1|2|1|13|90
+Phil Klein|R|Brandon Moss|L|Flyout|B|Four-Seam Fastball|14|0|0|2|11|88
+Phil Klein|R|Brandon Moss|L|Flyout|C|Four-Seam Fastball|15|1|0|2|9|89
+Phil Klein|R|Brandon Moss|L|Flyout|B|Four-Seam Fastball|16|1|1|2|13|89
+Phil Klein|R|Brandon Moss|L|Flyout|B|Four-Seam Fastball|17|2|1|2|14|89
+Phil Klein|R|Brandon Moss|L|Flyout|C|Four-Seam Fastball|18|3|1|2|8|89
+Phil Klein|R|Brandon Moss|L|Flyout|F|Two-Seam Fastball|19|3|2|2|11|90
+Phil Klein|R|Brandon Moss|L|Flyout|F|Four-Seam Fastball|20|3|2|2|9|91
+Phil Klein|R|Brandon Moss|L|Flyout|F|Four-Seam Fastball|21|3|2|2|2|90
+Phil Klein|R|Brandon Moss|L|Flyout|X|Four-Seam Fastball|22|3|2|2|2|91
+Phil Klein|R|David Murphy|L|Field Error|C|Changeup|23|0|0|0|8|86
+Phil Klein|R|David Murphy|L|Field Error|F|Changeup|24|0|1|0|14|81
+Phil Klein|R|David Murphy|L|Field Error|B|Four-Seam Fastball|25|0|2|0|13|91
+Phil Klein|R|David Murphy|L|Field Error|D|Changeup|26|1|2|0|14|85
+Phil Klein|R|Lonnie Chisenhall|L|Strikeout|F|Four-Seam Fastball|27|0|0|0|5|88
+Phil Klein|R|Lonnie Chisenhall|L|Strikeout|F|Four-Seam Fastball|28|0|1|0|5|88
+Phil Klein|R|Lonnie Chisenhall|L|Strikeout|C|Four-Seam Fastball|29|0|2|0|13|91
+Phil Klein|R|Jose Ramirez|L|Walk|*B|Changeup|30|0|0|1|14|83
+Phil Klein|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|31|1|0|1|11|88
+Phil Klein|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|32|2|0|1|13|89
+Phil Klein|R|Jose Ramirez|L|Walk|C|Four-Seam Fastball|33|3|0|1|7|89
+Phil Klein|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|34|3|1|1|11|89
+Phil Klein|R|Roberto Perez|R|Home Run|B|Slider|35|0|0|1|14|84
+Phil Klein|R|Roberto Perez|R|Home Run|E|Four-Seam Fastball|36|1|0|1|8|89
+Phil Klein|R|Michael Bourn|L|Double|L|Four-Seam Fastball|37|0|0|1|5|90
+Phil Klein|R|Michael Bourn|L|Double|B|Changeup|38|0|1|1|6|83
+Phil Klein|R|Michael Bourn|L|Double|B|Slider|39|1|1|1|1|84
+Phil Klein|R|Michael Bourn|L|Double|F|Four-Seam Fastball|40|2|1|1|8|90
+Phil Klein|R|Michael Bourn|L|Double|F|Four-Seam Fastball|41|2|2|1|4|90
+Phil Klein|R|Michael Bourn|L|Double|D|Four-Seam Fastball|42|2|2|1|3|88
+Phil Klein|R|Jason Kipnis|L|Double|B|Changeup|43|0|0|1|11|82
+Phil Klein|R|Jason Kipnis|L|Double|S|Changeup|44|1|0|1|13|83
+Phil Klein|R|Jason Kipnis|L|Double|E|Four-Seam Fastball|45|1|1|1|1|89
+Phil Klein|R|Carlos Santana|L|Flyout|B|Changeup|46|0|0|1|13|82
+Phil Klein|R|Carlos Santana|L|Flyout|C|Four-Seam Fastball|47|1|0|1|4|88
+Phil Klein|R|Carlos Santana|L|Flyout|C|Slider|48|1|1|1|1|83
+Phil Klein|R|Carlos Santana|L|Flyout|F|Slider|49|1|2|1|13|84
+Phil Klein|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|50|1|2|1|11|91
+Phil Klein|R|Carlos Santana|L|Flyout|X|Four-Seam Fastball|51|2|2|1|5|89
+Phil Klein|R|Michael Brantley|L|Walk|B|Slider|52|0|0|2|11|83
+Phil Klein|R|Michael Brantley|L|Walk|B|Changeup|53|1|0|2|11|83
+Phil Klein|R|Michael Brantley|L|Walk|B|Slider|54|2|0|2|11|82
+Phil Klein|R|Michael Brantley|L|Walk|B|Changeup|55|3|0|2|11|87
+Phil Klein|R|Brandon Moss|L|Strikeout|F|Slider|56|0|0|2|8|82
+Phil Klein|R|Brandon Moss|L|Strikeout|F|Four-Seam Fastball|57|0|1|2|1|89
+Phil Klein|R|Brandon Moss|L|Strikeout|F|Slider|58|0|2|2|14|84
+Phil Klein|R|Brandon Moss|L|Strikeout|C|Four-Seam Fastball|59|0|2|2|13|91
+Phil Klein|R|David Murphy|L|Single|C|Changeup|60|0|0|0|7|86
+Phil Klein|R|David Murphy|L|Single|F|Four-Seam Fastball|61|0|1|0|8|88
+Phil Klein|R|David Murphy|L|Single|F|Four-Seam Fastball|62|0|2|0|12|90
+Phil Klein|R|David Murphy|L|Single|B|Changeup|63|0|2|0|14|84
+Phil Klein|R|David Murphy|L|Single|D|Slider|64|1|2|0|7|84
+Phil Klein|R|Lonnie Chisenhall|L|Double|D|Four-Seam Fastball|65|0|0|0|14|89
+Phil Klein|R|Alex Rodriguez|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|88
+Phil Klein|R|Alex Rodriguez|R|Strikeout|S|Slider|1|1|0|0|9|83
+Phil Klein|R|Alex Rodriguez|R|Strikeout|S|Slider|2|1|1|0|9|85
+Phil Klein|R|Alex Rodriguez|R|Strikeout|B|Slider|3|1|2|0|14|86
+Phil Klein|R|Alex Rodriguez|R|Strikeout|C|Slider|4|2|2|0|7|87
+Phil Klein|R|Mark Teixeira|L|Single|C|Four-Seam Fastball|5|0|0|1|8|91
+Phil Klein|R|Mark Teixeira|L|Single|S|Changeup|6|0|1|1|13|84
+Phil Klein|R|Mark Teixeira|L|Single|D|Two-Seam Fastball|7|0|2|1|11|94
+Phil Klein|R|Brian McCann|L|Pop Out|F|Two-Seam Fastball|8|0|0|1|13|92
+Phil Klein|R|Brian McCann|L|Pop Out|F|Slider|9|0|1|1|4|85
+Phil Klein|R|Brian McCann|L|Pop Out|X|Slider|10|0|2|1|2|87
+Phil Klein|R|Carlos Beltran|L|Walk|*B|Changeup|11|0|0|2|14|83
+Phil Klein|R|Carlos Beltran|L|Walk|B|Two-Seam Fastball|12|1|0|2|11|91
+Phil Klein|R|Carlos Beltran|L|Walk|B|Two-Seam Fastball|13|2|0|2|11|90
+Phil Klein|R|Carlos Beltran|L|Walk|B|Slider|14|3|0|2|11|84
+Phil Klein|R|Chase Headley|L|Single|B|Slider|15|0|0|2|12|85
+Phil Klein|R|Chase Headley|L|Single|C|Slider|16|1|0|2|5|85
+Phil Klein|R|Chase Headley|L|Single|C|Four-Seam Fastball|17|1|1|2|13|91
+Phil Klein|R|Chase Headley|L|Single|X|Slider|18|1|2|2|2|86
+Phil Klein|R|Didi Gregorius|L|Single|B|Two-Seam Fastball|19|0|0|0|14|90
+Phil Klein|R|Didi Gregorius|L|Single|B|Changeup|20|1|0|0|13|83
+Phil Klein|R|Didi Gregorius|L|Single|F|Four-Seam Fastball|21|2|0|0|11|89
+Phil Klein|R|Didi Gregorius|L|Single|D|Two-Seam Fastball|22|2|1|0|1|90
+Phil Klein|R|Brendan Ryan|R|Groundout|B|Four-Seam Fastball|23|0|0|0|11|89
+Phil Klein|R|Brendan Ryan|R|Groundout|X|Four-Seam Fastball|24|1|0|0|11|89
+Phil Klein|R|Brett Gardner|L|Fielders Choice Out|B|Slider|25|0|0|1|9|85
+Phil Klein|R|Brett Gardner|L|Fielders Choice Out|F|Changeup|26|1|0|1|8|83
+Phil Klein|R|Brett Gardner|L|Fielders Choice Out|C|Slider|27|1|1|1|7|85
+Phil Klein|R|Brett Gardner|L|Fielders Choice Out|X|Slider|28|1|2|1|12|86
+Phil Klein|R|Chris Young|R|Single|B|Four-Seam Fastball|29|0|0|2|12|91
+Phil Klein|R|Chris Young|R|Single|C|Four-Seam Fastball|30|1|0|2|2|91
+Phil Klein|R|Chris Young|R|Single|B|Slider|31|1|1|2|14|85
+Phil Klein|R|Chris Young|R|Single|F|Four-Seam Fastball|32|2|1|2|11|89
+Phil Klein|R|Chris Young|R|Single|D|Four-Seam Fastball|33|2|2|2|9|91
+Phil Klein|R|Alex Rodriguez|R|Groundout|B|Slider|34|0|0|2|13|86
+Phil Klein|R|Alex Rodriguez|R|Groundout|C|Slider|35|1|0|2|11|86
+Phil Klein|R|Alex Rodriguez|R|Groundout|S|Slider|36|1|1|2|14|85
+Phil Klein|R|Alex Rodriguez|R|Groundout|X|Slider|37|1|2|2|13|87
+Phil Klein|R|John Ryan Murphy|R|Grounded Into DP|C|Four-Seam Fastball|0|0|0|0|5|88
+Phil Klein|R|John Ryan Murphy|R|Grounded Into DP|X|Slider|1|0|1|0|8|83
+Phil Klein|R|Didi Gregorius|L|Single|B|Changeup|2|0|0|2|13|80
+Phil Klein|R|Didi Gregorius|L|Single|D|Two-Seam Fastball|3|1|0|2|11|89
+Phil Klein|R|Brendan Ryan|R|Groundout|B|Slider|4|0|0|2|14|84
+Phil Klein|R|Brendan Ryan|R|Groundout|F|Slider|5|1|0|2|9|83
+Phil Klein|R|Brendan Ryan|R|Groundout|F|Slider|6|1|1|2|5|85
+Phil Klein|R|Brendan Ryan|R|Groundout|X|Slider|7|1|2|2|14|86
+Phil Klein|R|Jacoby Ellsbury|L|Groundout|C|Two-Seam Fastball|8|0|0|0|7|88
+Phil Klein|R|Jacoby Ellsbury|L|Groundout|B|Slider|9|0|1|0|12|83
+Phil Klein|R|Jacoby Ellsbury|L|Groundout|B|Changeup|10|1|1|0|11|82
+Phil Klein|R|Jacoby Ellsbury|L|Groundout|C|Two-Seam Fastball|11|2|1|0|9|90
+Phil Klein|R|Jacoby Ellsbury|L|Groundout|X|Four-Seam Fastball|12|2|2|0|8|92
+Phil Klein|R|Brett Gardner|L|Walk|B|Two-Seam Fastball|13|0|0|1|13|90
+Phil Klein|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|14|1|0|1|11|90
+Phil Klein|R|Brett Gardner|L|Walk|B|Two-Seam Fastball|15|2|0|1|11|90
+Phil Klein|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|16|3|0|1|11|88
+Phil Klein|R|Alex Rodriguez|R|Walk|C|Slider|17|0|0|1|5|83
+Phil Klein|R|Alex Rodriguez|R|Walk|B|Slider|18|0|1|1|11|84
+Phil Klein|R|Alex Rodriguez|R|Walk|S|Four-Seam Fastball|19|1|1|1|2|90
+Phil Klein|R|Alex Rodriguez|R|Walk|B|Four-Seam Fastball|20|1|2|1|11|92
+Phil Klein|R|Alex Rodriguez|R|Walk|B|Slider|21|2|2|1|13|84
+Phil Klein|R|Alex Rodriguez|R|Walk|B|Slider|22|3|2|1|11|85
+Phil Klein|R|Mark Teixeira|L|Forceout|C|Two-Seam Fastball|23|0|0|1|5|89
+Phil Klein|R|Mark Teixeira|L|Forceout|*B|Changeup|24|0|1|1|13|83
+Phil Klein|R|Mark Teixeira|L|Forceout|C|Four-Seam Fastball|25|1|1|1|13|90
+Phil Klein|R|Mark Teixeira|L|Forceout|X|Slider|26|1|2|1|3|86
+Phil Klein|R|Chris Young|R|Field Error|C|Slider|27|0|0|2|2|83
+Phil Klein|R|Chris Young|R|Field Error|C|Four-Seam Fastball|28|0|1|2|6|90
+Phil Klein|R|Chris Young|R|Field Error|E|Slider|29|0|2|2|14|87
+Phil Klein|R|Chase Headley|L|Pop Out|B|Two-Seam Fastball|30|0|0|2|11|89
+Phil Klein|R|Chase Headley|L|Pop Out|X|Slider|31|1|0|2|3|84
+Phil Klein|R|John Ryan Murphy|R|Strikeout|F|Slider|32|0|0|0|5|81
+Phil Klein|R|John Ryan Murphy|R|Strikeout|F|Slider|33|0|1|0|12|82
+Phil Klein|R|John Ryan Murphy|R|Strikeout|F|Four-Seam Fastball|34|0|2|0|12|90
+Phil Klein|R|John Ryan Murphy|R|Strikeout|F|Slider|35|0|2|0|5|85
+Phil Klein|R|John Ryan Murphy|R|Strikeout|B|Slider|36|0|2|0|14|87
+Phil Klein|R|John Ryan Murphy|R|Strikeout|S|Four-Seam Fastball|37|1|2|0|4|90
+Phil Klein|R|Didi Gregorius|L|Single|B|Slider|38|0|0|1|14|83
+Phil Klein|R|Didi Gregorius|L|Single|B|Changeup|39|1|0|1|14|82
+Phil Klein|R|Didi Gregorius|L|Single|D|Two-Seam Fastball|40|2|0|1|11|89
+Phil Klein|R|Brendan Ryan|R|Forceout|S|Slider|41|0|0|1|9|82
+Phil Klein|R|Brendan Ryan|R|Forceout|C|Slider|42|0|1|1|2|83
+Phil Klein|R|Brendan Ryan|R|Forceout|X|Slider|43|0|2|1|14|86
+Phil Klein|R|Jacoby Ellsbury|L|Strikeout|B|Slider|44|0|0|2|11|83
+Phil Klein|R|Jacoby Ellsbury|L|Strikeout|F|Two-Seam Fastball|45|1|0|2|4|89
+Phil Klein|R|Jacoby Ellsbury|L|Strikeout|B|Two-Seam Fastball|46|1|1|2|11|89
+Phil Klein|R|Jacoby Ellsbury|L|Strikeout|F|Slider|47|2|1|2|1|83
+Phil Klein|R|Jacoby Ellsbury|L|Strikeout|S|Slider|48|2|2|2|1|84
+Phil Klein|R|Carlos Gomez|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Phil Klein|R|Carlos Gomez|R|Groundout|C|Four-Seam Fastball|1|1|0|0|9|90
+Phil Klein|R|Carlos Gomez|R|Groundout|C|Four-Seam Fastball|2|1|1|0|6|90
+Phil Klein|R|Carlos Gomez|R|Groundout|B|Slider|3|1|2|0|14|86
+Phil Klein|R|Carlos Gomez|R|Groundout|F|Four-Seam Fastball|4|2|2|0|3|90
+Phil Klein|R|Carlos Gomez|R|Groundout|B|Four-Seam Fastball|5|2|2|0|12|90
+Phil Klein|R|Carlos Gomez|R|Groundout|X|Four-Seam Fastball|6|3|2|0|13|91
+Phil Klein|R|Carlos Correa|R|Walk|B|Slider|7|0|0|1|14|85
+Phil Klein|R|Carlos Correa|R|Walk|C|Four-Seam Fastball|8|1|0|1|7|91
+Phil Klein|R|Carlos Correa|R|Walk|C|Slider|9|1|1|1|14|85
+Phil Klein|R|Carlos Correa|R|Walk|B|Changeup|10|1|2|1|14|84
+Phil Klein|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|11|2|2|1|14|93
+Phil Klein|R|Carlos Correa|R|Walk|F|Four-Seam Fastball|12|3|2|1|2|90
+Phil Klein|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|13|3|2|1|12|91
+Phil Klein|R|Jed Lowrie|L|Walk|B|Two-Seam Fastball|14|0|0|1|1|90
+Phil Klein|R|Jed Lowrie|L|Walk|B|Two-Seam Fastball|15|1|0|1|13|91
+Phil Klein|R|Jed Lowrie|L|Walk|C|Four-Seam Fastball|16|2|0|1|13|91
+Phil Klein|R|Jed Lowrie|L|Walk|F|Four-Seam Fastball|17|2|1|1|8|91
+Phil Klein|R|Jed Lowrie|L|Walk|B|Four-Seam Fastball|18|2|2|1|11|90
+Phil Klein|R|Jed Lowrie|L|Walk|B|Four-Seam Fastball|19|3|2|1|11|91
+Phil Klein|R|Evan Gattis|R|Single|C|Slider|20|0|0|1|4|84
+Phil Klein|R|Evan Gattis|R|Single|B|Four-Seam Fastball|21|0|1|1|14|91
+Phil Klein|R|Evan Gattis|R|Single|F|Slider|22|1|1|1|1|84
+Phil Klein|R|Evan Gattis|R|Single|E|Four-Seam Fastball|23|1|2|1|11|92
+Phil Klein|R|C.J. Cron|R|Groundout|F|Four-Seam Fastball|0|0|0|0|11|91
+Phil Klein|R|C.J. Cron|R|Groundout|B|Slider|1|0|1|0|14|86
+Phil Klein|R|C.J. Cron|R|Groundout|B|Slider|2|1|1|0|13|87
+Phil Klein|R|C.J. Cron|R|Groundout|C|Four-Seam Fastball|3|2|1|0|4|90
+Phil Klein|R|C.J. Cron|R|Groundout|F|Four-Seam Fastball|4|2|2|0|11|93
+Phil Klein|R|C.J. Cron|R|Groundout|X|Changeup|5|2|2|0|11|87
+Phil Klein|R|Kole Calhoun|L|Strikeout|C|Four-Seam Fastball|6|0|0|1|5|91
+Phil Klein|R|Kole Calhoun|L|Strikeout|F|Four-Seam Fastball|7|0|1|1|6|92
+Phil Klein|R|Kole Calhoun|L|Strikeout|B|Two-Seam Fastball|8|0|2|1|11|92
+Phil Klein|R|Kole Calhoun|L|Strikeout|F|Slider|9|1|2|1|9|88
+Phil Klein|R|Kole Calhoun|L|Strikeout|B|Four-Seam Fastball|10|1|2|1|11|92
+Phil Klein|R|Kole Calhoun|L|Strikeout|S|Changeup|11|2|2|1|13|86
+Phil Klein|R|Andrelton Simmons|R|Lineout|X|Slider|12|0|0|2|4|87
+Phil Klein|R|Luis Sardinas|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|1|89
+Phil Klein|R|Luis Sardinas|L|Strikeout|S|Two-Seam Fastball|1|0|1|0|6|91
+Phil Klein|R|Luis Sardinas|L|Strikeout|S|Two-Seam Fastball|2|0|2|0|1|93
+Phil Klein|R|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|3|0|0|1|13|92
+Phil Klein|R|Robinson Cano|L|Strikeout|B|Four-Seam Fastball|4|0|1|1|13|93
+Phil Klein|R|Robinson Cano|L|Strikeout|F|Slider|5|1|1|1|14|87
+Phil Klein|R|Robinson Cano|L|Strikeout|B|Two-Seam Fastball|6|1|2|1|11|93
+Phil Klein|R|Robinson Cano|L|Strikeout|F|Two-Seam Fastball|7|2|2|1|7|94
+Phil Klein|R|Robinson Cano|L|Strikeout|S|Slider|8|2|2|1|13|86
+Phil Klein|R|Nelson Cruz|R|Flyout|C|Two-Seam Fastball|9|0|0|2|5|92
+Phil Klein|R|Nelson Cruz|R|Flyout|X|Slider|10|0|1|2|8|87
+Phil Klein|R|Kyle Seager|L|Flyout|B|Four-Seam Fastball|11|0|0|0|11|90
+Phil Klein|R|Kyle Seager|L|Flyout|B|Four-Seam Fastball|12|1|0|0|14|91
+Phil Klein|R|Kyle Seager|L|Flyout|C|Two-Seam Fastball|13|2|0|0|5|91
+Phil Klein|R|Kyle Seager|L|Flyout|X|Four-Seam Fastball|14|2|1|0|11|92
+Phil Klein|R|Chris Iannetta|R|Lineout|F|Four-Seam Fastball|15|0|0|1|6|92
+Phil Klein|R|Chris Iannetta|R|Lineout|B|Two-Seam Fastball|16|0|1|1|14|92
+Phil Klein|R|Chris Iannetta|R|Lineout|X|Slider|17|1|1|1|5|84
+Phil Klein|R|Franklin Gutierrez|R|Flyout|B|Two-Seam Fastball|18|0|0|2|11|91
+Phil Klein|R|Franklin Gutierrez|R|Flyout|B|Two-Seam Fastball|19|1|0|2|14|91
+Phil Klein|R|Franklin Gutierrez|R|Flyout|X|Four-Seam Fastball|20|2|0|2|3|90
+Phil Klein|R|Jerry Sands|R|Single|C|Two-Seam Fastball|0|0|0|1|4|90
+Phil Klein|R|Jerry Sands|R|Single|C|Slider|1|0|1|1|9|88
+Phil Klein|R|Jerry Sands|R|Single|F|Two-Seam Fastball|2|0|2|1|5|93
+Phil Klein|R|Jerry Sands|R|Single|E|Slider|3|0|2|1|11|85
+Phil Klein|R|Dioner Navarro|L|Groundout|B|Two-Seam Fastball|4|0|0|1|11|91
+Phil Klein|R|Dioner Navarro|L|Groundout|C|Two-Seam Fastball|5|1|0|1|6|92
+Phil Klein|R|Dioner Navarro|L|Groundout|X|Changeup|6|1|1|1|5|85
+Phil Klein|R|Tyler Saladino|R|Groundout|C|Four-Seam Fastball|7|0|0|0|6|91
+Phil Klein|R|Tyler Saladino|R|Groundout|B|Slider|8|0|1|0|14|87
+Phil Klein|R|Tyler Saladino|R|Groundout|C|Slider|9|1|1|0|6|87
+Phil Klein|R|Tyler Saladino|R|Groundout|X|Slider|10|1|2|0|14|88
+Phil Klein|R|Adam Eaton|L|Flyout|B|Two-Seam Fastball|11|0|0|1|11|93
+Phil Klein|R|Adam Eaton|L|Flyout|C|Two-Seam Fastball|12|1|0|1|12|91
+Phil Klein|R|Adam Eaton|L|Flyout|S|Two-Seam Fastball|13|1|1|1|12|92
+Phil Klein|R|Adam Eaton|L|Flyout|B|Two-Seam Fastball|14|1|2|1|12|92
+Phil Klein|R|Adam Eaton|L|Flyout|F|Two-Seam Fastball|15|2|2|1|12|92
+Phil Klein|R|Adam Eaton|L|Flyout|F|Slider|16|2|2|1|14|88
+Phil Klein|R|Adam Eaton|L|Flyout|B|Two-Seam Fastball|17|2|2|1|12|91
+Phil Klein|R|Adam Eaton|L|Flyout|X|Two-Seam Fastball|18|3|2|1|12|92
+Phil Klein|R|Austin Jackson|R|Fan Interference|C|Two-Seam Fastball|19|0|0|2|2|92
+Phil Klein|R|Austin Jackson|R|Fan Interference|D|Slider|20|0|1|2|7|87
+Phil Klein|R|Jose Abreu|R|Strikeout|C|Slider|21|0|0|2|9|85
+Phil Klein|R|Jose Abreu|R|Strikeout|*B|Slider|22|0|1|2|14|88
+Phil Klein|R|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|23|1|1|2|4|90
+Phil Klein|R|Jose Abreu|R|Strikeout|F|Slider|24|1|2|2|12|89
+Phil Klein|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|25|1|2|2|11|92
+Phil Klein|R|Melky Cabrera|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|11|90
+Phil Klein|R|Melky Cabrera|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|8|90
+Phil Klein|R|Melky Cabrera|L|Strikeout|F|Slider|2|1|1|0|14|85
+Phil Klein|R|Melky Cabrera|L|Strikeout|S|Two-Seam Fastball|3|1|2|0|11|93
+Phil Klein|R|Brett Lawrie|R|Strikeout|C|Two-Seam Fastball|4|0|0|1|4|92
+Phil Klein|R|Brett Lawrie|R|Strikeout|S|Slider|5|0|1|1|2|88
+Phil Klein|R|Brett Lawrie|R|Strikeout|S|Two-Seam Fastball|6|0|2|1|11|94
+Phil Klein|R|Avisail Garcia|R|Strikeout|F|Slider|7|0|0|2|7|87
+Phil Klein|R|Avisail Garcia|R|Strikeout|S|Slider|8|0|1|2|9|88
+Phil Klein|R|Avisail Garcia|R|Strikeout|B|Slider|9|0|2|2|12|88
+Phil Klein|R|Avisail Garcia|R|Strikeout|S|Two-Seam Fastball|10|1|2|2|11|94
+Phil Klein|R|Brett Gardner|L|Forceout|B|Four-Seam Fastball|0|0|0|0|11|91
+Phil Klein|R|Brett Gardner|L|Forceout|B|Four-Seam Fastball|1|1|0|0|11|89
+Phil Klein|R|Brett Gardner|L|Forceout|B|Four-Seam Fastball|2|2|0|0|11|91
+Phil Klein|R|Brett Gardner|L|Forceout|C|Slider|3|3|0|0|11|84
+Phil Klein|R|Brett Gardner|L|Forceout|F|Slider|4|3|1|0|12|90
+Phil Klein|R|Brett Gardner|L|Forceout|F|Slider|5|3|2|0|11|85
+Phil Klein|R|Brett Gardner|L|Forceout|X|Slider|6|3|2|0|7|87
+Phil Klein|R|Carlos Beltran|L|Strikeout|B|Four-Seam Fastball|7|0|0|1|11|90
+Phil Klein|R|Carlos Beltran|L|Strikeout|B|Four-Seam Fastball|8|1|0|1|11|90
+Phil Klein|R|Carlos Beltran|L|Strikeout|F|Slider|9|2|0|1|5|84
+Phil Klein|R|Carlos Beltran|L|Strikeout|S|Four-Seam Fastball|10|2|1|1|11|90
+Phil Klein|R|Carlos Beltran|L|Strikeout|S|Four-Seam Fastball|11|2|2|1|11|92
+Phil Klein|R|Mark Teixeira|L|Strikeout|B|Four-Seam Fastball|12|0|0|2|11|91
+Phil Klein|R|Mark Teixeira|L|Strikeout|C|Four-Seam Fastball|13|1|0|2|5|91
+Phil Klein|R|Mark Teixeira|L|Strikeout|B|Four-Seam Fastball|14|1|1|2|11|91
+Phil Klein|R|Mark Teixeira|L|Strikeout|F|Four-Seam Fastball|15|2|1|2|3|92
+Phil Klein|R|Mark Teixeira|L|Strikeout|F|Four-Seam Fastball|16|2|2|2|13|92
+Phil Klein|R|Mark Teixeira|L|Strikeout|F|Slider|17|2|2|2|9|88
+Phil Klein|R|Mark Teixeira|L|Strikeout|S|Four-Seam Fastball|18|2|2|2|11|93
+Phil Klein|R|Mike Trout|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|91
+Phil Klein|R|Mike Trout|R|Strikeout|B|Slider|1|0|1|0|14|85
+Phil Klein|R|Mike Trout|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|14|91
+Phil Klein|R|Mike Trout|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|92
+Phil Klein|R|Mike Trout|R|Strikeout|F|Slider|4|2|2|0|14|87
+Phil Klein|R|Mike Trout|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|14|92
+Phil Klein|R|Mike Trout|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|11|91
+Phil Klein|R|Mike Trout|R|Strikeout|C|Four-Seam Fastball|7|3|2|0|12|91
+Phil Klein|R|Albert Pujols|R|Home Run|B|Slider|8|0|0|1|11|84
+Phil Klein|R|Albert Pujols|R|Home Run|E|Four-Seam Fastball|9|1|0|1|8|90
+Phil Klein|R|Kole Calhoun|L|Double|S|Four-Seam Fastball|10|0|0|1|11|91
+Phil Klein|R|Kole Calhoun|L|Double|B|Four-Seam Fastball|11|0|1|1|11|91
+Phil Klein|R|Kole Calhoun|L|Double|F|Four-Seam Fastball|12|1|1|1|2|92
+Phil Klein|R|Kole Calhoun|L|Double|B|Slider|13|1|2|1|14|89
+Phil Klein|R|Kole Calhoun|L|Double|F|Four-Seam Fastball|14|2|2|1|11|93
+Phil Klein|R|Kole Calhoun|L|Double|B|Four-Seam Fastball|15|2|2|1|11|92
+Phil Klein|R|Kole Calhoun|L|Double|F|Four-Seam Fastball|16|3|2|1|11|90
+Phil Klein|R|Kole Calhoun|L|Double|D|Four-Seam Fastball|17|3|2|1|11|92
+Phil Klein|R|Andrelton Simmons|R|Flyout|B|Slider|18|0|0|1|13|86
+Phil Klein|R|Andrelton Simmons|R|Flyout|B|Slider|19|1|0|1|13|85
+Phil Klein|R|Andrelton Simmons|R|Flyout|X|Four-Seam Fastball|20|2|0|1|5|91
+Phil Klein|R|C.J. Cron|R|Single|B|Four-Seam Fastball|21|0|0|2|11|91
+Phil Klein|R|C.J. Cron|R|Single|E|Slider|22|1|0|2|1|85
+Phil Klein|R|Carlos Perez|R|Strikeout|C|Slider|23|0|0|2|7|86
+Phil Klein|R|Carlos Perez|R|Strikeout|C|Four-Seam Fastball|24|0|1|2|3|90
+Phil Klein|R|Carlos Perez|R|Strikeout|*B|Slider|25|0|2|2|14|89
+Phil Klein|R|Carlos Perez|R|Strikeout|F|Slider|26|1|2|2|11|87
+Phil Klein|R|Carlos Perez|R|Strikeout|B|Four-Seam Fastball|27|1|2|2|11|92
+Phil Klein|R|Carlos Perez|R|Strikeout|F|Slider|28|2|2|2|6|87
+Phil Klein|R|Carlos Perez|R|Strikeout|S|Two-Seam Fastball|29|2|2|2|11|92
+Phil Klein|R|Edwin Encarnacion|R|Single|C|Slider|0|0|0|0|1|85
+Phil Klein|R|Edwin Encarnacion|R|Single|D|Four-Seam Fastball|1|0|1|0|1|92
+Phil Klein|R|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|2|0|0|0|8|90
+Phil Klein|R|Troy Tulowitzki|R|Strikeout|C|Slider|3|0|1|0|4|85
+Phil Klein|R|Troy Tulowitzki|R|Strikeout|*B|Slider|4|0|2|0|14|89
+Phil Klein|R|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|5|1|2|0|9|93
+Phil Klein|R|Justin Smoak|L|Home Run|E|Two-Seam Fastball|6|0|0|1|4|91
+Phil Klein|R|Josh Donaldson|R|Walk|B|Slider|0|0|0|0|14|84
+Phil Klein|R|Josh Donaldson|R|Walk|B|Slider|1|1|0|0|14|86
+Phil Klein|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|92
+Phil Klein|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|3|3|0|0|14|90
+Phil Klein|R|Jose Bautista|R|Walk|B|Slider|4|0|0|0|14|86
+Phil Klein|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|5|1|0|0|14|92
+Phil Klein|R|Jose Bautista|R|Walk|*B|Slider|6|2|0|0|14|86
+Phil Klein|R|Jose Bautista|R|Walk|B|Two-Seam Fastball|7|3|0|0|11|92
+Phil Klein|R|Edwin Encarnacion|R|Flyout|F|Slider|8|0|0|0|8|85
+Phil Klein|R|Edwin Encarnacion|R|Flyout|F|Slider|9|0|1|0|5|85
+Phil Klein|R|Edwin Encarnacion|R|Flyout|B|Four-Seam Fastball|10|0|2|0|11|91
+Phil Klein|R|Edwin Encarnacion|R|Flyout|*B|Curveball|11|1|2|0|14|80
+Phil Klein|R|Edwin Encarnacion|R|Flyout|F|Slider|12|2|2|0|11|86
+Phil Klein|R|Edwin Encarnacion|R|Flyout|F|Slider|13|2|2|0|13|86
+Phil Klein|R|Edwin Encarnacion|R|Flyout|X|Four-Seam Fastball|14|2|2|0|9|93
+Phil Klein|R|Justin Smoak|L|Single|B|Slider|15|0|0|1|13|85
+Phil Klein|R|Justin Smoak|L|Single|S|Changeup|16|1|0|1|13|84
+Phil Klein|R|Justin Smoak|L|Single|B|Two-Seam Fastball|17|1|1|1|14|92
+Phil Klein|R|Justin Smoak|L|Single|E|Slider|18|2|1|1|8|85
+Phil Klein|R|Ryan Goins|L|Grounded Into DP|C|Two-Seam Fastball|19|0|0|1|7|91
+Phil Klein|R|Ryan Goins|L|Grounded Into DP|B|Slider|20|0|1|1|13|85
+Phil Klein|R|Ryan Goins|L|Grounded Into DP|X|Two-Seam Fastball|21|1|1|1|13|92
+Phil Klein|R|Denard Span|L|Double|B|Four-Seam Fastball|0|0|0|0|12|91
+Phil Klein|R|Denard Span|L|Double|D|Four-Seam Fastball|1|1|0|0|5|91
+Phil Klein|R|Angel Pagan|L|Single|B|Two-Seam Fastball|2|0|0|0|11|91
+Phil Klein|R|Angel Pagan|L|Single|B|Four-Seam Fastball|3|1|0|0|13|92
+Phil Klein|R|Angel Pagan|L|Single|C|Two-Seam Fastball|4|2|0|0|4|92
+Phil Klein|R|Angel Pagan|L|Single|D|Slider|5|2|1|0|13|86
+Phil Klein|R|Hunter Pence|R|Strikeout|S|Slider|6|0|0|0|2|86
+Phil Klein|R|Hunter Pence|R|Strikeout|S|Slider|7|0|1|0|11|88
+Phil Klein|R|Hunter Pence|R|Strikeout|S|Two-Seam Fastball|8|0|2|0|5|94
+Phil Klein|R|Buster Posey|R|Single|C|Two-Seam Fastball|9|0|0|1|5|92
+Phil Klein|R|Buster Posey|R|Single|B|Slider|10|0|1|1|11|88
+Phil Klein|R|Buster Posey|R|Single|B|Two-Seam Fastball|11|1|1|1|3|93
+Phil Klein|R|Buster Posey|R|Single|F|Slider|12|2|1|1|9|87
+Phil Klein|R|Buster Posey|R|Single|B|Curveball|13|2|2|1|11|78
+Phil Klein|R|Buster Posey|R|Single|E|Four-Seam Fastball|14|3|2|1|2|93
+Phil Klein|R|Brandon Crawford|L|Lineout|C|Slider|15|0|0|1|7|85
+Phil Klein|R|Brandon Crawford|L|Lineout|S|Slider|16|0|1|1|14|87
+Phil Klein|R|Brandon Crawford|L|Lineout|B|Two-Seam Fastball|17|0|2|1|12|91
+Phil Klein|R|Brandon Crawford|L|Lineout|B|Slider|18|1|2|1|13|87
+Phil Klein|R|Brandon Crawford|L|Lineout|F|Two-Seam Fastball|19|2|2|1|11|93
+Phil Klein|R|Brandon Crawford|L|Lineout|B|Four-Seam Fastball|20|2|2|1|12|93
+Phil Klein|R|Brandon Crawford|L|Lineout|F|Two-Seam Fastball|21|3|2|1|11|93
+Phil Klein|R|Brandon Crawford|L|Lineout|F|Slider|22|3|2|1|11|84
+Phil Klein|R|Brandon Crawford|L|Lineout|X|Changeup|23|3|2|1|11|85
+Phil Klein|R|Brandon Belt|L|Walk|B|Slider|24|0|0|2|11|85
+Phil Klein|R|Brandon Belt|L|Walk|C|Two-Seam Fastball|25|1|0|2|8|92
+Phil Klein|R|Brandon Belt|L|Walk|F|Slider|26|1|1|2|8|87
+Phil Klein|R|Brandon Belt|L|Walk|B|Two-Seam Fastball|27|1|2|2|11|92
+Phil Klein|R|Brandon Belt|L|Walk|F|Changeup|28|2|2|2|7|86
+Phil Klein|R|Brandon Belt|L|Walk|B|Two-Seam Fastball|29|2|2|2|12|93
+Phil Klein|R|Brandon Belt|L|Walk|B|Slider|30|3|2|2|11|87
+Phil Klein|R|Joe Panik|L|Groundout|C|Two-Seam Fastball|31|0|0|2|4|90
+Phil Klein|R|Joe Panik|L|Groundout|B|Changeup|32|0|1|2|13|84
+Phil Klein|R|Joe Panik|L|Groundout|X|Changeup|33|1|1|2|11|83
+Phil Klein|R|Conor Gillaspie|L|Single|B|Four-Seam Fastball|34|0|0|0|11|90
+Phil Klein|R|Conor Gillaspie|L|Single|C|Two-Seam Fastball|35|1|0|0|5|90
+Phil Klein|R|Conor Gillaspie|L|Single|D|Changeup|36|1|1|0|11|84
+Phil Klein|R|Johnny Cueto|R|Sac Bunt|L|Two-Seam Fastball|37|0|0|0|11|92
+Phil Klein|R|Johnny Cueto|R|Sac Bunt|X|Slider|38|0|1|0|3|85
+Phil Klein|R|Denard Span|L|Flyout|B|Two-Seam Fastball|39|0|0|1|11|91
+Phil Klein|R|Denard Span|L|Flyout|C|Slider|40|1|0|1|11|86
+Phil Klein|R|Denard Span|L|Flyout|X|Slider|41|1|1|1|8|86
+Phil Klein|R|Angel Pagan|L|Flyout|B|Two-Seam Fastball|42|0|0|2|12|91
+Phil Klein|R|Angel Pagan|L|Flyout|B|Two-Seam Fastball|43|1|0|2|11|92
+Phil Klein|R|Angel Pagan|L|Flyout|C|Two-Seam Fastball|44|2|0|2|8|92
+Phil Klein|R|Angel Pagan|L|Flyout|X|Changeup|45|2|1|2|13|85
+Phil Klein|R|Hunter Pence|R|Single|C|Curveball|46|0|0|0|1|75
+Phil Klein|R|Hunter Pence|R|Single|S|Two-Seam Fastball|47|0|1|0|3|92
+Phil Klein|R|Hunter Pence|R|Single|B|Slider|48|0|2|0|14|87
+Phil Klein|R|Hunter Pence|R|Single|D|Slider|49|1|2|0|14|87
+Phil Klein|R|Buster Posey|R|Double|B|Two-Seam Fastball|50|0|0|0|12|90
+Phil Klein|R|Buster Posey|R|Double|B|Slider|51|1|0|0|14|85
+Phil Klein|R|Buster Posey|R|Double|F|Four-Seam Fastball|52|2|0|0|8|91
+Phil Klein|R|Buster Posey|R|Double|C|Two-Seam Fastball|53|2|1|0|14|92
+Phil Klein|R|Buster Posey|R|Double|*B|Curveball|54|2|2|0|14|79
+Phil Klein|R|Buster Posey|R|Double|E|Slider|55|3|2|0|13|85
+Phil Klein|R|Brandon Crawford|L|Groundout|B|Slider|56|0|0|0|13|84
+Phil Klein|R|Brandon Crawford|L|Groundout|X|Changeup|57|1|0|0|11|83
+Phil Klein|R|Brandon Belt|L|Sac Fly|S|Curveball|58|0|0|1|14|77
+Phil Klein|R|Brandon Belt|L|Sac Fly|E|Curveball|59|0|1|1|8|78
+Phil Klein|R|Joe Panik|L|Strikeout|B|Two-Seam Fastball|60|0|0|2|14|91
+Phil Klein|R|Joe Panik|L|Strikeout|F|Two-Seam Fastball|61|1|0|2|5|91
+Phil Klein|R|Joe Panik|L|Strikeout|F|Four-Seam Fastball|62|1|1|2|7|91
+Phil Klein|R|Joe Panik|L|Strikeout|B|Two-Seam Fastball|63|1|2|2|11|92
+Phil Klein|R|Joe Panik|L|Strikeout|S|Curveball|64|2|2|2|5|79
+Phil Klein|R|Conor Gillaspie|L|Single|B|Two-Seam Fastball|65|0|0|0|11|90
+Phil Klein|R|Conor Gillaspie|L|Single|F|Four-Seam Fastball|66|1|0|0|4|91
+Phil Klein|R|Conor Gillaspie|L|Single|B|Curveball|67|1|1|0|14|79
+Phil Klein|R|Conor Gillaspie|L|Single|F|Two-Seam Fastball|68|2|1|0|11|91
+Phil Klein|R|Conor Gillaspie|L|Single|F|Curveball|69|2|2|0|7|79
+Phil Klein|R|Conor Gillaspie|L|Single|B|Curveball|70|2|2|0|14|81
+Phil Klein|R|Conor Gillaspie|L|Single|D|Two-Seam Fastball|71|3|2|0|4|92
+Phil Klein|R|Johnny Cueto|R|Sac Bunt|X|Two-Seam Fastball|72|0|0|0|11|92
+Phil Klein|R|Denard Span|L|Single|C|Two-Seam Fastball|73|0|0|1|6|91
+Phil Klein|R|Denard Span|L|Single|D|Two-Seam Fastball|74|0|1|1|9|92
+Phil Klein|R|Angel Pagan|L|Grounded Into DP|X|Two-Seam Fastball|75|0|0|1|13|90
+Phil Klein|R|Hunter Pence|R|Groundout|B|Four-Seam Fastball|76|0|0|0|12|91
+Phil Klein|R|Hunter Pence|R|Groundout|S|Two-Seam Fastball|77|1|0|0|12|91
+Phil Klein|R|Hunter Pence|R|Groundout|F|Changeup|78|1|1|0|8|84
+Phil Klein|R|Hunter Pence|R|Groundout|F|Changeup|79|1|2|0|13|86
+Phil Klein|R|Hunter Pence|R|Groundout|F|Two-Seam Fastball|80|1|2|0|11|93
+Phil Klein|R|Hunter Pence|R|Groundout|F|Two-Seam Fastball|81|1|2|0|5|93
+Phil Klein|R|Hunter Pence|R|Groundout|B|Curveball|82|1|2|0|13|78
+Phil Klein|R|Hunter Pence|R|Groundout|X|Two-Seam Fastball|83|2|2|0|8|93
+Phil Klein|R|Buster Posey|R|Strikeout|C|Two-Seam Fastball|84|0|0|1|6|92
+Phil Klein|R|Buster Posey|R|Strikeout|C|Changeup|85|0|1|1|9|86
+Phil Klein|R|Buster Posey|R|Strikeout|B|Two-Seam Fastball|86|0|2|1|13|93
+Phil Klein|R|Buster Posey|R|Strikeout|F|Slider|87|1|2|1|5|87
+Phil Klein|R|Buster Posey|R|Strikeout|S|Changeup|88|1|2|1|13|86
+Phil Klein|R|Brandon Crawford|L|Lineout|X|Changeup|89|0|0|2|13|86
+Phil Klein|R|Yoenis Cespedes|R|Walk|B|Two-Seam Fastball|0|0|0|0|12|91
+Phil Klein|R|Yoenis Cespedes|R|Walk|B|Two-Seam Fastball|1|1|0|0|13|91
+Phil Klein|R|Yoenis Cespedes|R|Walk|B|Two-Seam Fastball|2|2|0|0|11|92
+Phil Klein|R|Yoenis Cespedes|R|Walk|B|Four-Seam Fastball|3|3|0|0|11|90
+Phil Klein|R|Curtis Granderson|L|Walk|C|Two-Seam Fastball|4|0|0|0|11|91
+Phil Klein|R|Curtis Granderson|L|Walk|B|Two-Seam Fastball|5|0|1|0|11|92
+Phil Klein|R|Curtis Granderson|L|Walk|B|Slider|6|1|1|0|14|83
+Phil Klein|R|Curtis Granderson|L|Walk|B|Two-Seam Fastball|7|2|1|0|11|91
+Phil Klein|R|Curtis Granderson|L|Walk|C|Two-Seam Fastball|8|3|1|0|6|90
+Phil Klein|R|Curtis Granderson|L|Walk|B|Two-Seam Fastball|9|3|2|0|14|91
+Phil Klein|R|Jay Bruce|L|Single|S|Two-Seam Fastball|10|0|0|0|4|92
+Phil Klein|R|Jay Bruce|L|Single|F|Two-Seam Fastball|11|0|1|0|8|92
+Phil Klein|R|Jay Bruce|L|Single|*B|Slider|12|0|2|0|14|83
+Phil Klein|R|Jay Bruce|L|Single|F|Two-Seam Fastball|13|1|2|0|8|92
+Phil Klein|R|Jay Bruce|L|Single|B|Two-Seam Fastball|14|1|2|0|13|92
+Phil Klein|R|Jay Bruce|L|Single|D|Two-Seam Fastball|15|2|2|0|14|92
+Phil Klein|R|T.J. Rivera|R|Single|B|Two-Seam Fastball|16|0|0|0|11|91
+Phil Klein|R|T.J. Rivera|R|Single|E|Two-Seam Fastball|17|1|0|0|1|91
+Phil Klein|R|James Loney|L|Lineout|S|Slider|18|0|0|0|8|83
+Phil Klein|R|James Loney|L|Lineout|X|Slider|19|0|1|0|6|84
+Phil Klein|R|Rene Rivera|R|Hit By Pitch|C|Two-Seam Fastball|20|0|0|1|1|91
+Phil Klein|R|Rene Rivera|R|Hit By Pitch|H|Two-Seam Fastball|21|0|1|1|11|90
+Phil Klein|R|Adonis Garcia|R|Groundout|C|Two-Seam Fastball|0|0|0|0|3|89
+Phil Klein|R|Adonis Garcia|R|Groundout|X|Slider|1|0|1|0|9|83
+Phil Klein|R|Freddie Freeman|L|Single|C|Two-Seam Fastball|2|0|0|1|3|91
+Phil Klein|R|Freddie Freeman|L|Single|B|Slider|3|0|1|1|13|83
+Phil Klein|R|Freddie Freeman|L|Single|F|Slider|4|1|1|1|13|84
+Phil Klein|R|Freddie Freeman|L|Single|B|Two-Seam Fastball|5|1|2|1|14|92
+Phil Klein|R|Freddie Freeman|L|Single|B|Curveball|6|2|2|1|14|80
+Phil Klein|R|Freddie Freeman|L|Single|D|Two-Seam Fastball|7|3|2|1|13|92
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|C|Four-Seam Fastball|8|0|0|1|6|91
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|S|Slider|9|0|1|1|8|83
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|B|Slider|10|0|2|1|14|83
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|F|Two-Seam Fastball|11|1|2|1|5|92
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|*B|Curveball|12|1|2|1|14|79
+Phil Klein|R|Matt Kemp|R|Grounded Into DP|X|Changeup|13|2|2|1|11|86
+Phil Klein|R|Tyler Flowers|R|Strikeout|C|Two-Seam Fastball|14|0|0|0|6|90
+Phil Klein|R|Tyler Flowers|R|Strikeout|B|Slider|15|0|1|0|14|82
+Phil Klein|R|Tyler Flowers|R|Strikeout|B|Two-Seam Fastball|16|1|1|0|14|90
+Phil Klein|R|Tyler Flowers|R|Strikeout|F|Two-Seam Fastball|17|2|1|0|6|91
+Phil Klein|R|Tyler Flowers|R|Strikeout|B|Curveball|18|2|2|0|3|78
+Phil Klein|R|Tyler Flowers|R|Strikeout|S|Two-Seam Fastball|19|3|2|0|11|90
+Phil Klein|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|20|0|0|1|11|91
+Phil Klein|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|21|1|0|1|12|91
+Phil Klein|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|22|2|0|1|11|91
+Phil Klein|R|Dansby Swanson|R|Walk|C|Two-Seam Fastball|23|3|0|1|13|90
+Phil Klein|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|24|3|1|1|11|91
+Phil Klein|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|25|0|0|1|11|91
+Phil Klein|R|Mallex Smith|L|Walk|C|Two-Seam Fastball|26|1|0|1|2|91
+Phil Klein|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|27|1|1|1|11|90
+Phil Klein|R|Mallex Smith|L|Walk|B|Changeup|28|2|1|1|11|85
+Phil Klein|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|29|3|1|1|11|91
+Phil Klein|R|Jose Reyes|L|Lineout|C|Two-Seam Fastball|0|0|0|0|11|90
+Phil Klein|R|Jose Reyes|L|Lineout|B|Two-Seam Fastball|1|0|1|0|12|92
+Phil Klein|R|Jose Reyes|L|Lineout|B|Two-Seam Fastball|2|1|1|0|11|91
+Phil Klein|R|Jose Reyes|L|Lineout|B|Two-Seam Fastball|3|2|1|0|11|90
+Phil Klein|R|Jose Reyes|L|Lineout|C|Two-Seam Fastball|4|3|1|0|1|91
+Phil Klein|R|Jose Reyes|L|Lineout|X|Two-Seam Fastball|5|3|2|0|11|92
+Phil Klein|R|Asdrubal Cabrera|L|Single|S|Slider|6|0|0|1|9|83
+Phil Klein|R|Asdrubal Cabrera|L|Single|S|Slider|7|0|1|1|14|83
+Phil Klein|R|Asdrubal Cabrera|L|Single|B|Slider|8|0|2|1|14|85
+Phil Klein|R|Asdrubal Cabrera|L|Single|F|Two-Seam Fastball|9|1|2|1|11|93
+Phil Klein|R|Asdrubal Cabrera|L|Single|B|Two-Seam Fastball|10|1|2|1|13|90
+Phil Klein|R|Asdrubal Cabrera|L|Single|D|Two-Seam Fastball|11|2|2|1|13|88
+Phil Klein|R|Yoenis Cespedes|R|Grounded Into DP|X|Two-Seam Fastball|12|0|0|1|4|91
+Phil Klein|R|Curtis Granderson|L|Single|C|Two-Seam Fastball|13|0|0|0|7|91
+Phil Klein|R|Curtis Granderson|L|Single|B|Four-Seam Fastball|14|0|1|0|12|92
+Phil Klein|R|Curtis Granderson|L|Single|F|Two-Seam Fastball|15|1|1|0|4|91
+Phil Klein|R|Curtis Granderson|L|Single|D|Slider|16|1|2|0|9|83
+Phil Klein|R|Jay Bruce|L|Flyout|C|Two-Seam Fastball|17|0|0|0|7|91
+Phil Klein|R|Jay Bruce|L|Flyout|X|Changeup|18|0|1|0|13|87
+Phil Klein|R|T.J. Rivera|R|Pop Out|F|Slider|19|0|0|1|8|82
+Phil Klein|R|T.J. Rivera|R|Pop Out|F|Two-Seam Fastball|20|0|1|1|2|93
+Phil Klein|R|T.J. Rivera|R|Pop Out|X|Slider|21|0|2|1|14|84
+Phil Klein|R|James Loney|L|Groundout|B|Curveball|22|0|0|2|13|82
+Phil Klein|R|James Loney|L|Groundout|F|Slider|23|1|0|2|13|83
+Phil Klein|R|James Loney|L|Groundout|F|Two-Seam Fastball|24|1|1|2|7|90
+Phil Klein|R|James Loney|L|Groundout|X|Two-Seam Fastball|25|1|2|2|5|93
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|C|Two-Seam Fastball|26|0|0|0|5|90
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|C|Two-Seam Fastball|27|0|1|0|11|91
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|B|Two-Seam Fastball|28|0|2|0|11|92
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|B|Slider|29|1|2|0|14|85
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|B|Slider|30|2|2|0|14|83
+Phil Klein|R|Travis d'Arnaud|R|Strikeout|C|Two-Seam Fastball|31|3|2|0|8|92
+Phil Klein|R|Bartolo Colon|R|Strikeout|C|Two-Seam Fastball|32|0|0|1|4|90
+Phil Klein|R|Bartolo Colon|R|Strikeout|C|Slider|33|0|1|1|5|83
+Phil Klein|R|Bartolo Colon|R|Strikeout|B|Slider|34|0|2|1|14|83
+Phil Klein|R|Bartolo Colon|R|Strikeout|C|Two-Seam Fastball|35|1|2|1|14|92
+Phil Klein|R|Jose Reyes|L|Strikeout|C|Two-Seam Fastball|36|0|0|2|4|92
+Phil Klein|R|Jose Reyes|L|Strikeout|S|Slider|37|0|1|2|14|84
+Phil Klein|R|Jose Reyes|L|Strikeout|B|Two-Seam Fastball|38|0|2|2|12|92
+Phil Klein|R|Jose Reyes|L|Strikeout|F|Slider|39|1|2|2|14|85
+Phil Klein|R|Jose Reyes|L|Strikeout|F|Slider|40|1|2|2|14|84
+Phil Klein|R|Jose Reyes|L|Strikeout|S|Two-Seam Fastball|41|1|2|2|11|92
+Phil Klein|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|42|0|0|0|11|90
+Phil Klein|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|43|1|0|0|11|90
+Phil Klein|R|Asdrubal Cabrera|L|Walk|F|Two-Seam Fastball|44|2|0|0|11|91
+Phil Klein|R|Asdrubal Cabrera|L|Walk|B|Curveball|45|2|1|0|11|81
+Phil Klein|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|46|3|1|0|13|91
+Phil Klein|R|Yoenis Cespedes|R|Grounded Into DP|C|Two-Seam Fastball|47|0|0|0|1|91
+Phil Klein|R|Yoenis Cespedes|R|Grounded Into DP|S|Slider|48|0|1|0|8|83
+Phil Klein|R|Yoenis Cespedes|R|Grounded Into DP|X|Slider|49|0|2|0|14|84
+Phil Klein|R|Curtis Granderson|L|Double|B|Two-Seam Fastball|50|0|0|2|13|91
+Phil Klein|R|Curtis Granderson|L|Double|C|Two-Seam Fastball|51|1|0|2|11|91
+Phil Klein|R|Curtis Granderson|L|Double|D|Two-Seam Fastball|52|1|1|2|5|91
+Phil Klein|R|Jay Bruce|L|Intent Walk|F|Curveball|53|0|0|2|11|82
+Phil Klein|R|Jay Bruce|L|Intent Walk|C|Two-Seam Fastball|54|0|1|2|9|90
+Phil Klein|R|Jay Bruce|L|Intent Walk|F|Slider|55|0|2|2|13|82
+Phil Klein|R|Jay Bruce|L|Intent Walk|*B|Slider|56|0|2|2|13|83
+Phil Klein|R|Jay Bruce|L|Intent Walk|B|Two-Seam Fastball|57|1|2|2|11|90
+Phil Klein|R|Jay Bruce|L|Intent Walk|F|Slider|58|2|2|2|14|83
+Phil Klein|R|Jay Bruce|L|Intent Walk|F|Two-Seam Fastball|59|2|2|2|13|94
+Phil Klein|R|Jay Bruce|L|Intent Walk|B|Changeup|60|2|2|2|11|86
+Phil Klein|R|Jay Bruce|L|Intent Walk|I|Intentional Ball|61|3|2|2|11|76
+Phil Klein|R|T.J. Rivera|R|Single|C|Slider|62|0|0|2|8|82
+Phil Klein|R|T.J. Rivera|R|Single|E|Slider|63|0|1|2|8|83
+Phil Klein|R|James Loney|L|Flyout|B|Slider|64|0|0|2|13|82
+Phil Klein|R|James Loney|L|Flyout|C|Slider|65|1|0|2|13|83
+Phil Klein|R|James Loney|L|Flyout|X|Two-Seam Fastball|66|1|1|2|1|91

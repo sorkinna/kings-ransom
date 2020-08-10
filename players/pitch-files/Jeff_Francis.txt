@@ -1,0 +1,400 @@
+Jeff Francis|L|Nick Markakis|L|Lineout|B|Sinker|0|0|0|0|13|89
+Jeff Francis|L|Nick Markakis|L|Lineout|B|Sinker|1|1|0|0|13|87
+Jeff Francis|L|Nick Markakis|L|Lineout|B|Sinker|2|2|0|0|14|87
+Jeff Francis|L|Nick Markakis|L|Lineout|C|Sinker|3|3|0|0|13|86
+Jeff Francis|L|Nick Markakis|L|Lineout|C|Sinker|4|3|1|0|13|85
+Jeff Francis|L|Nick Markakis|L|Lineout|F|Sinker|5|3|2|0|3|88
+Jeff Francis|L|Nick Markakis|L|Lineout|F|Sinker|6|3|2|0|12|88
+Jeff Francis|L|Nick Markakis|L|Lineout|X|Sinker|7|3|2|0|3|88
+Jeff Francis|L|Freddie Freeman|L|Single|B|Sinker|8|0|0|1|13|89
+Jeff Francis|L|Freddie Freeman|L|Single|F|Slider|9|1|0|1|8|80
+Jeff Francis|L|Freddie Freeman|L|Single|B|Sinker|10|1|1|1|14|88
+Jeff Francis|L|Freddie Freeman|L|Single|C|Slider|11|2|1|1|9|80
+Jeff Francis|L|Freddie Freeman|L|Single|D|Sinker|12|2|2|1|4|90
+Jeff Francis|L|Chris Johnson|R|Flyout|B|Sinker|13|0|0|1|11|86
+Jeff Francis|L|Chris Johnson|R|Flyout|X|Four-Seam Fastball|14|1|0|1|4|86
+Jeff Francis|L|Jonny Gomes|R|Strikeout|B|Sinker|15|0|0|2|11|86
+Jeff Francis|L|Jonny Gomes|R|Strikeout|*B|Sinker|16|1|0|2|13|87
+Jeff Francis|L|Jonny Gomes|R|Strikeout|S|Sinker|17|2|0|2|9|84
+Jeff Francis|L|Jonny Gomes|R|Strikeout|B|Changeup|18|2|1|2|14|80
+Jeff Francis|L|Jonny Gomes|R|Strikeout|C|Four-Seam Fastball|19|3|1|2|11|85
+Jeff Francis|L|Jonny Gomes|R|Strikeout|W|Changeup|20|3|2|2|14|80
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|C|Curveball|21|0|0|0|6|71
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|B|Sinker|22|0|1|0|13|85
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|B|Changeup|23|1|1|0|12|79
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|F|Curveball|24|2|1|0|5|70
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|B|Sinker|25|2|2|0|12|88
+Jeff Francis|L|Christian Bethancourt|R|Strikeout|S|Changeup|26|3|2|0|12|79
+Jeff Francis|L|Jace Peterson|L|Strikeout|B|Curveball|27|0|0|1|13|71
+Jeff Francis|L|Jace Peterson|L|Strikeout|C|Sinker|28|1|0|1|6|87
+Jeff Francis|L|Jace Peterson|L|Strikeout|C|Curveball|29|1|1|1|13|69
+Jeff Francis|L|Jace Peterson|L|Strikeout|S|Slider|30|1|2|1|13|79
+Jeff Francis|L|Andrelton Simmons|R|Groundout|X|Four-Seam Fastball|31|0|0|2|11|85
+Jeff Francis|L|Cameron Maybin|R|Walk|B|Four-Seam Fastball|32|0|0|0|13|84
+Jeff Francis|L|Cameron Maybin|R|Walk|C|Changeup|33|1|0|0|14|78
+Jeff Francis|L|Cameron Maybin|R|Walk|B|Sinker|34|1|1|0|13|85
+Jeff Francis|L|Cameron Maybin|R|Walk|B|Curveball|35|2|1|0|13|70
+Jeff Francis|L|Cameron Maybin|R|Walk|B|Sinker|36|3|1|0|12|84
+Jeff Francis|L|Alberto Callaspo|R|Double Play|X|Changeup|37|0|0|0|7|79
+Jeff Francis|L|Nick Markakis|L|Single|C|Sinker|38|0|0|2|6|87
+Jeff Francis|L|Nick Markakis|L|Single|B|Sinker|39|0|1|2|14|87
+Jeff Francis|L|Nick Markakis|L|Single|D|Sinker|40|1|1|2|2|87
+Jeff Francis|L|Freddie Freeman|L|Flyout|C|Slider|41|0|0|2|8|79
+Jeff Francis|L|Freddie Freeman|L|Flyout|F|Sinker|42|0|1|2|14|86
+Jeff Francis|L|Freddie Freeman|L|Flyout|B|Slider|43|0|2|2|13|79
+Jeff Francis|L|Freddie Freeman|L|Flyout|X|Slider|44|1|2|2|8|78
+Jeff Francis|L|Chris Johnson|R|Flyout|C|Curveball|45|0|0|0|14|71
+Jeff Francis|L|Chris Johnson|R|Flyout|S|Changeup|46|0|1|0|14|78
+Jeff Francis|L|Chris Johnson|R|Flyout|B|Sinker|47|0|2|0|13|84
+Jeff Francis|L|Chris Johnson|R|Flyout|F|Slider|48|1|2|0|13|78
+Jeff Francis|L|Chris Johnson|R|Flyout|B|Sinker|49|1|2|0|14|88
+Jeff Francis|L|Chris Johnson|R|Flyout|X|Changeup|50|2|2|0|14|78
+Jeff Francis|L|Jonny Gomes|R|Walk|B|Sinker|51|0|0|1|14|83
+Jeff Francis|L|Jonny Gomes|R|Walk|B|Sinker|52|1|0|1|14|87
+Jeff Francis|L|Jonny Gomes|R|Walk|B|Sinker|53|2|0|1|11|85
+Jeff Francis|L|Jonny Gomes|R|Walk|B|Sinker|54|3|0|1|14|83
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|B|Sinker|0|0|0|2|11|87
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|S|Slider|1|1|0|2|13|77
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|B|Slider|2|1|1|2|13|77
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|F|Sinker|3|2|1|2|6|86
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|F|Curveball|4|2|2|2|6|68
+Jeff Francis|L|Kevin Kiermaier|L|Field Error|E|Sinker|5|2|2|2|6|86
+Jeff Francis|L|Rene Rivera|R|Flyout|X|Sinker|6|0|0|2|5|88
+Jeff Francis|L|Tim Beckham|R|Single|B|Sinker|7|0|0|0|14|86
+Jeff Francis|L|Tim Beckham|R|Single|B|Changeup|8|1|0|0|14|79
+Jeff Francis|L|Tim Beckham|R|Single|F|Sinker|9|2|0|0|14|84
+Jeff Francis|L|Tim Beckham|R|Single|S|Sinker|10|2|1|0|2|87
+Jeff Francis|L|Tim Beckham|R|Single|B|Sinker|11|2|2|0|13|87
+Jeff Francis|L|Tim Beckham|R|Single|D|Sinker|12|3|2|0|5|84
+Jeff Francis|L|Brandon Guyer|R|Walk|B|Sinker|13|0|0|0|11|85
+Jeff Francis|L|Brandon Guyer|R|Walk|B|Changeup|14|1|0|0|13|80
+Jeff Francis|L|Brandon Guyer|R|Walk|B|Sinker|15|2|0|0|11|86
+Jeff Francis|L|Brandon Guyer|R|Walk|C|Sinker|16|3|0|0|6|85
+Jeff Francis|L|Brandon Guyer|R|Walk|B|Sinker|17|3|1|0|12|83
+Jeff Francis|L|Asdrubal Cabrera|R|Lineout|C|Curveball|18|0|0|0|12|69
+Jeff Francis|L|Asdrubal Cabrera|R|Lineout|X|Slider|19|0|1|0|7|77
+Jeff Francis|L|Evan Longoria|R|Forceout|B|Changeup|20|0|0|1|14|78
+Jeff Francis|L|Evan Longoria|R|Forceout|C|Curveball|21|1|0|1|14|69
+Jeff Francis|L|Evan Longoria|R|Forceout|B|Curveball|22|1|1|1|14|68
+Jeff Francis|L|Evan Longoria|R|Forceout|B|Sinker|23|2|1|1|14|87
+Jeff Francis|L|Evan Longoria|R|Forceout|F|Changeup|24|3|1|1|13|80
+Jeff Francis|L|Evan Longoria|R|Forceout|X|Sinker|25|3|2|1|5|88
+Jeff Francis|L|James Loney|L|Strikeout|F|Sinker|26|0|0|2|14|87
+Jeff Francis|L|James Loney|L|Strikeout|F|Sinker|27|0|1|2|14|86
+Jeff Francis|L|James Loney|L|Strikeout|F|Slider|28|0|2|2|11|79
+Jeff Francis|L|James Loney|L|Strikeout|*B|Changeup|29|0|2|2|13|80
+Jeff Francis|L|James Loney|L|Strikeout|S|Curveball|30|1|2|2|4|69
+Jeff Francis|L|Desmond Jennings|R|Double|B|Sinker|31|0|0|0|12|86
+Jeff Francis|L|Desmond Jennings|R|Double|B|Sinker|32|1|0|0|12|83
+Jeff Francis|L|Desmond Jennings|R|Double|S|Sinker|33|2|0|0|9|84
+Jeff Francis|L|Desmond Jennings|R|Double|F|Changeup|34|2|1|0|14|78
+Jeff Francis|L|Desmond Jennings|R|Double|F|Curveball|35|2|2|0|13|68
+Jeff Francis|L|Desmond Jennings|R|Double|D|Slider|36|2|2|0|9|78
+Jeff Francis|L|Logan Forsythe|R|Strikeout|C|Sinker|37|0|0|0|3|84
+Jeff Francis|L|Logan Forsythe|R|Strikeout|F|Slider|38|0|1|0|8|78
+Jeff Francis|L|Logan Forsythe|R|Strikeout|F|Sinker|39|0|2|0|5|85
+Jeff Francis|L|Logan Forsythe|R|Strikeout|*B|Curveball|40|0|2|0|13|67
+Jeff Francis|L|Logan Forsythe|R|Strikeout|S|Changeup|41|1|2|0|4|77
+Jeff Francis|L|Kevin Kiermaier|L|Single|E|Curveball|42|0|0|1|8|68
+Jeff Francis|L|Rene Rivera|R|Strikeout|B|Sinker|43|0|0|1|13|85
+Jeff Francis|L|Rene Rivera|R|Strikeout|S|Changeup|44|1|0|1|14|78
+Jeff Francis|L|Rene Rivera|R|Strikeout|S|Slider|45|1|1|1|4|76
+Jeff Francis|L|Rene Rivera|R|Strikeout|F|Curveball|46|1|2|1|14|68
+Jeff Francis|L|Rene Rivera|R|Strikeout|B|Sinker|47|1|2|1|11|84
+Jeff Francis|L|Rene Rivera|R|Strikeout|F|Changeup|48|2|2|1|13|77
+Jeff Francis|L|Rene Rivera|R|Strikeout|S|Sinker|49|2|2|1|4|87
+Jeff Francis|L|Tim Beckham|R|Home Run|C|Changeup|50|0|0|2|9|77
+Jeff Francis|L|Tim Beckham|R|Home Run|B|Sinker|51|0|1|2|11|83
+Jeff Francis|L|Tim Beckham|R|Home Run|S|Slider|52|1|1|2|13|79
+Jeff Francis|L|Tim Beckham|R|Home Run|E|Curveball|53|1|2|2|8|68
+Jeff Francis|L|Brandon Guyer|R|Strikeout|B|Sinker|54|0|0|2|12|86
+Jeff Francis|L|Brandon Guyer|R|Strikeout|B|Sinker|55|1|0|2|14|84
+Jeff Francis|L|Brandon Guyer|R|Strikeout|F|Sinker|56|2|0|2|6|85
+Jeff Francis|L|Brandon Guyer|R|Strikeout|C|Slider|57|2|1|2|3|78
+Jeff Francis|L|Brandon Guyer|R|Strikeout|S|Sinker|58|2|2|2|5|85
+Jeff Francis|L|Asdrubal Cabrera|R|Flyout|X|Sinker|59|0|0|0|5|85
+Jeff Francis|L|Evan Longoria|R|Strikeout|C|Sinker|60|0|0|1|8|84
+Jeff Francis|L|Evan Longoria|R|Strikeout|F|Changeup|61|0|1|1|8|77
+Jeff Francis|L|Evan Longoria|R|Strikeout|B|Sinker|62|0|2|1|12|83
+Jeff Francis|L|Evan Longoria|R|Strikeout|B|Changeup|63|1|2|1|14|78
+Jeff Francis|L|Evan Longoria|R|Strikeout|S|Curveball|64|2|2|1|14|68
+Jeff Francis|L|James Loney|L|Strikeout|C|Sinker|65|0|0|2|7|86
+Jeff Francis|L|James Loney|L|Strikeout|F|Sinker|66|0|1|2|14|85
+Jeff Francis|L|James Loney|L|Strikeout|S|Slider|67|0|2|2|14|76
+Jeff Francis|L|David Ortiz|L|Pop Out|B|Sinker|0|0|0|0|13|88
+Jeff Francis|L|David Ortiz|L|Pop Out|C|Slider|1|1|0|0|8|78
+Jeff Francis|L|David Ortiz|L|Pop Out|X|Sinker|2|1|1|0|12|87
+Jeff Francis|L|Hanley Ramirez|R|Strikeout|F|Sinker|3|0|0|1|8|90
+Jeff Francis|L|Hanley Ramirez|R|Strikeout|F|Changeup|4|0|1|1|9|80
+Jeff Francis|L|Hanley Ramirez|R|Strikeout|B|Slider|5|0|2|1|13|80
+Jeff Francis|L|Hanley Ramirez|R|Strikeout|B|Curveball|6|1|2|1|13|72
+Jeff Francis|L|Hanley Ramirez|R|Strikeout|C|Four-Seam Fastball|7|2|2|1|14|87
+Jeff Francis|L|Pablo Sandoval|R|Strikeout|C|Changeup|8|0|0|2|14|80
+Jeff Francis|L|Pablo Sandoval|R|Strikeout|B|Curveball|9|0|1|2|14|70
+Jeff Francis|L|Pablo Sandoval|R|Strikeout|F|Slider|10|1|1|2|14|80
+Jeff Francis|L|Pablo Sandoval|R|Strikeout|S|Changeup|11|1|2|2|14|80
+Jeff Francis|L|Lonnie Chisenhall|L|Lineout|C|Sinker|0|0|0|0|13|86
+Jeff Francis|L|Lonnie Chisenhall|L|Lineout|C|Sinker|1|0|1|0|13|85
+Jeff Francis|L|Lonnie Chisenhall|L|Lineout|X|Slider|2|0|2|0|13|77
+Jeff Francis|L|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|13|86
+Jeff Francis|L|Roberto Perez|R|Strikeout|C|Sinker|4|1|0|1|3|83
+Jeff Francis|L|Roberto Perez|R|Strikeout|B|Curveball|5|1|1|1|13|67
+Jeff Francis|L|Roberto Perez|R|Strikeout|C|Changeup|6|2|1|1|1|78
+Jeff Francis|L|Roberto Perez|R|Strikeout|B|Changeup|7|2|2|1|14|76
+Jeff Francis|L|Roberto Perez|R|Strikeout|S|Changeup|8|3|2|1|9|78
+Jeff Francis|L|Michael Bourn|L|Strikeout|C|Sinker|9|0|0|2|8|87
+Jeff Francis|L|Michael Bourn|L|Strikeout|C|Changeup|10|0|1|2|13|76
+Jeff Francis|L|Michael Bourn|L|Strikeout|B|Changeup|11|0|2|2|13|77
+Jeff Francis|L|Michael Bourn|L|Strikeout|S|Sinker|12|1|2|2|14|86
+Jeff Francis|L|Jason Kipnis|L|Groundout|C|Sinker|13|0|0|0|7|87
+Jeff Francis|L|Jason Kipnis|L|Groundout|S|Slider|14|0|1|0|13|78
+Jeff Francis|L|Jason Kipnis|L|Groundout|X|Sinker|15|0|2|0|6|86
+Jeff Francis|L|Mike Aviles|R|Double|B|Sinker|16|0|0|1|13|86
+Jeff Francis|L|Mike Aviles|R|Double|C|Curveball|17|1|0|1|6|69
+Jeff Francis|L|Mike Aviles|R|Double|D|Changeup|18|1|1|1|6|76
+Jeff Francis|L|Michael Brantley|L|Single|*B|Slider|19|0|0|1|13|79
+Jeff Francis|L|Michael Brantley|L|Single|E|Sinker|20|1|0|1|2|86
+Jeff Francis|L|Carlos Santana|R|Forceout|B|Curveball|21|0|0|1|12|67
+Jeff Francis|L|Carlos Santana|R|Forceout|C|Sinker|22|1|0|1|8|85
+Jeff Francis|L|Carlos Santana|R|Forceout|B|Four-Seam Fastball|23|1|1|1|13|83
+Jeff Francis|L|Carlos Santana|R|Forceout|F|Sinker|24|2|1|1|3|85
+Jeff Francis|L|Carlos Santana|R|Forceout|B|Curveball|25|2|2|1|14|66
+Jeff Francis|L|Carlos Santana|R|Forceout|X|Curveball|26|3|2|1|3|68
+Jeff Francis|L|Brandon Moss|L|Lineout|S|Slider|27|0|0|2|13|78
+Jeff Francis|L|Brandon Moss|L|Lineout|F|Curveball|28|0|1|2|13|68
+Jeff Francis|L|Brandon Moss|L|Lineout|X|Sinker|29|0|2|2|6|83
+Jeff Francis|L|Ryan Raburn|R|Single|B|Four-Seam Fastball|30|0|0|0|12|84
+Jeff Francis|L|Ryan Raburn|R|Single|B|Curveball|31|1|0|0|12|69
+Jeff Francis|L|Ryan Raburn|R|Single|B|Changeup|32|2|0|0|14|78
+Jeff Francis|L|Ryan Raburn|R|Single|C|Sinker|33|3|0|0|5|84
+Jeff Francis|L|Ryan Raburn|R|Single|D|Sinker|34|3|1|0|3|82
+Jeff Francis|L|Lonnie Chisenhall|L|Strikeout|W|Curveball|35|0|0|0|13|71
+Jeff Francis|L|Lonnie Chisenhall|L|Strikeout|S|Slider|36|0|1|0|13|77
+Jeff Francis|L|Lonnie Chisenhall|L|Strikeout|T|Curveball|37|0|2|0|13|67
+Jeff Francis|L|Michael Brantley|L|Single|B|Sinker|0|0|0|1|13|88
+Jeff Francis|L|Michael Brantley|L|Single|*B|Slider|1|1|0|1|13|81
+Jeff Francis|L|Michael Brantley|L|Single|E|Sinker|2|2|0|1|4|87
+Jeff Francis|L|Carlos Santana|R|Walk|C|Curveball|3|0|0|1|8|69
+Jeff Francis|L|Carlos Santana|R|Walk|B|Slider|4|0|1|1|13|79
+Jeff Francis|L|Carlos Santana|R|Walk|C|Curveball|5|1|1|1|9|68
+Jeff Francis|L|Carlos Santana|R|Walk|F|Sinker|6|1|2|1|13|86
+Jeff Francis|L|Carlos Santana|R|Walk|F|Slider|7|1|2|1|7|76
+Jeff Francis|L|Carlos Santana|R|Walk|*B|Changeup|8|1|2|1|14|78
+Jeff Francis|L|Carlos Santana|R|Walk|B|Curveball|9|2|2|1|13|68
+Jeff Francis|L|Carlos Santana|R|Walk|B|Slider|10|3|2|1|13|79
+Jeff Francis|L|Brandon Moss|L|Flyout|B|Sinker|11|0|0|1|13|88
+Jeff Francis|L|Brandon Moss|L|Flyout|X|Sinker|12|1|0|1|5|87
+Jeff Francis|L|Ryan Raburn|R|Double|E|Slider|13|0|0|2|13|78
+Jeff Francis|L|Lonnie Chisenhall|L|Walk|B|Sinker|14|0|0|2|14|87
+Jeff Francis|L|Lonnie Chisenhall|L|Walk|B|Sinker|15|1|0|2|13|86
+Jeff Francis|L|Lonnie Chisenhall|L|Walk|B|Sinker|16|2|0|2|12|87
+Jeff Francis|L|Lonnie Chisenhall|L|Walk|C|Sinker|17|3|0|2|8|85
+Jeff Francis|L|Lonnie Chisenhall|L|Walk|B|Sinker|18|3|1|2|12|85
+Jeff Francis|L|Brian McCann|L|Groundout|C|Sinker|0|0|0|2|6|87
+Jeff Francis|L|Brian McCann|L|Groundout|X|Slider|1|0|1|2|13|78
+Jeff Francis|L|Carlos Beltran|R|Groundout|B|Sinker|2|0|0|0|14|84
+Jeff Francis|L|Carlos Beltran|R|Groundout|C|Changeup|3|1|0|0|14|80
+Jeff Francis|L|Carlos Beltran|R|Groundout|F|Curveball|4|1|1|0|14|69
+Jeff Francis|L|Carlos Beltran|R|Groundout|B|Sinker|5|1|2|0|14|89
+Jeff Francis|L|Carlos Beltran|R|Groundout|F|Slider|6|2|2|0|13|79
+Jeff Francis|L|Carlos Beltran|R|Groundout|F|Changeup|7|2|2|0|6|78
+Jeff Francis|L|Carlos Beltran|R|Groundout|B|Curveball|8|2|2|0|13|70
+Jeff Francis|L|Carlos Beltran|R|Groundout|X|Four-Seam Fastball|9|3|2|0|7|87
+Jeff Francis|L|Stephen Drew|L|Single|C|Slider|10|0|0|1|5|79
+Jeff Francis|L|Stephen Drew|L|Single|B|Sinker|11|0|1|1|14|88
+Jeff Francis|L|Stephen Drew|L|Single|S|Curveball|12|1|1|1|13|70
+Jeff Francis|L|Stephen Drew|L|Single|B|Curveball|13|1|2|1|13|68
+Jeff Francis|L|Stephen Drew|L|Single|D|Sinker|14|2|2|1|4|88
+Jeff Francis|L|Didi Gregorius|L|Grounded Into DP|C|Slider|15|0|0|1|11|77
+Jeff Francis|L|Didi Gregorius|L|Grounded Into DP|C|Curveball|16|0|1|1|3|69
+Jeff Francis|L|Didi Gregorius|L|Grounded Into DP|B|Slider|17|0|2|1|13|79
+Jeff Francis|L|Didi Gregorius|L|Grounded Into DP|B|Sinker|18|1|2|1|8|87
+Jeff Francis|L|Didi Gregorius|L|Grounded Into DP|X|Slider|19|2|2|1|13|77
+Jeff Francis|L|Chris Davis|L|Single|D|Sinker|0|0|0|2|13|86
+Jeff Francis|L|Steve Pearce|R|Single|B|Sinker|1|0|0|2|13|86
+Jeff Francis|L|Steve Pearce|R|Single|T|Sinker|2|1|0|2|5|85
+Jeff Francis|L|Steve Pearce|R|Single|D|Changeup|3|1|1|2|6|77
+Jeff Francis|L|J.J. Hardy|R|Strikeout|*B|Sinker|4|0|0|2|13|86
+Jeff Francis|L|J.J. Hardy|R|Strikeout|C|Changeup|5|1|0|2|12|77
+Jeff Francis|L|J.J. Hardy|R|Strikeout|F|Sinker|6|1|1|2|13|84
+Jeff Francis|L|J.J. Hardy|R|Strikeout|W|Slider|7|1|2|2|13|78
+Jeff Francis|L|David Lough|L|Hit By Pitch|C|Slider|8|0|0|0|1|77
+Jeff Francis|L|David Lough|L|Hit By Pitch|B|Slider|9|0|1|0|13|78
+Jeff Francis|L|David Lough|L|Hit By Pitch|H|Sinker|10|1|1|0|12|85
+Jeff Francis|L|Preston Tucker|L|Single|C|Changeup|0|0|0|0|4|80
+Jeff Francis|L|Preston Tucker|L|Single|B|Curveball|1|0|1|0|13|71
+Jeff Francis|L|Preston Tucker|L|Single|B|Sinker|2|1|1|0|13|89
+Jeff Francis|L|Preston Tucker|L|Single|D|Slider|3|2|1|0|5|78
+Jeff Francis|L|Colby Rasmus|L|Double|F|Sinker|4|0|0|0|5|87
+Jeff Francis|L|Colby Rasmus|L|Double|C|Curveball|5|0|1|0|5|69
+Jeff Francis|L|Colby Rasmus|L|Double|D|Slider|6|0|2|0|7|79
+Jeff Francis|L|Jonathan Schoop|R|Groundout|C|Curveball|0|0|0|0|13|69
+Jeff Francis|L|Jonathan Schoop|R|Groundout|F|Sinker|1|0|1|0|2|85
+Jeff Francis|L|Jonathan Schoop|R|Groundout|X|Changeup|2|0|2|0|12|78
+Jeff Francis|L|Junior Lake|R|Strikeout|C|Sinker|3|0|0|1|6|87
+Jeff Francis|L|Junior Lake|R|Strikeout|S|Curveball|4|0|1|1|13|71
+Jeff Francis|L|Junior Lake|R|Strikeout|B|Curveball|5|0|2|1|14|80
+Jeff Francis|L|Junior Lake|R|Strikeout|B|Curveball|6|1|2|1|13|68
+Jeff Francis|L|Junior Lake|R|Strikeout|C|Sinker|7|2|2|1|14|84
+Jeff Francis|L|Steve Pearce|R|Flyout|B|Changeup|8|0|0|2|12|79
+Jeff Francis|L|Steve Pearce|R|Flyout|C|Sinker|9|1|0|2|9|86
+Jeff Francis|L|Steve Pearce|R|Flyout|X|Curveball|10|1|1|2|9|67
+Jeff Francis|L|Pablo Sandoval|L|Groundout|C|Curveball|0|0|0|0|5|72
+Jeff Francis|L|Pablo Sandoval|L|Groundout|F|Curveball|1|0|1|0|13|69
+Jeff Francis|L|Pablo Sandoval|L|Groundout|B|Sinker|2|0|2|0|13|89
+Jeff Francis|L|Pablo Sandoval|L|Groundout|F|Curveball|3|1|2|0|6|67
+Jeff Francis|L|Pablo Sandoval|L|Groundout|X|Slider|4|1|2|0|13|77
+Jeff Francis|L|Xander Bogaerts|R|Groundout|C|Changeup|5|0|0|1|2|78
+Jeff Francis|L|Xander Bogaerts|R|Groundout|B|Curveball|6|0|1|1|14|69
+Jeff Francis|L|Xander Bogaerts|R|Groundout|B|Curveball|7|1|1|1|13|70
+Jeff Francis|L|Xander Bogaerts|R|Groundout|B|Sinker|8|2|1|1|14|83
+Jeff Francis|L|Xander Bogaerts|R|Groundout|X|Sinker|9|3|1|1|14|83
+Jeff Francis|L|David Ortiz|L|Walk|B|Sinker|10|0|0|2|13|87
+Jeff Francis|L|David Ortiz|L|Walk|F|Curveball|11|1|0|2|13|70
+Jeff Francis|L|David Ortiz|L|Walk|B|Slider|12|1|1|2|13|79
+Jeff Francis|L|David Ortiz|L|Walk|B|Sinker|13|2|1|2|13|81
+Jeff Francis|L|David Ortiz|L|Walk|B|Sinker|14|3|1|2|14|84
+Jeff Francis|L|Travis Shaw|L|Home Run|C|Sinker|15|0|0|2|6|86
+Jeff Francis|L|Travis Shaw|L|Home Run|E|Curveball|16|0|1|2|5|69
+Jeff Francis|L|Rusney Castillo|R|Groundout|F|Sinker|17|0|0|2|14|84
+Jeff Francis|L|Rusney Castillo|R|Groundout|X|Changeup|18|0|1|2|14|77
+Jeff Francis|L|Mookie Betts|R|Forceout|B|Changeup|0|0|0|1|13|78
+Jeff Francis|L|Mookie Betts|R|Forceout|C|Sinker|1|1|0|1|14|86
+Jeff Francis|L|Mookie Betts|R|Forceout|*B|Curveball|2|1|1|1|13|70
+Jeff Francis|L|Mookie Betts|R|Forceout|B|Sinker|3|2|1|1|12|82
+Jeff Francis|L|Mookie Betts|R|Forceout|C|Changeup|4|3|1|1|7|79
+Jeff Francis|L|Mookie Betts|R|Forceout|E|Sinker|5|3|2|1|14|84
+Jeff Francis|L|Dustin Pedroia|R|Strikeout|C|Sinker|6|0|0|2|7|85
+Jeff Francis|L|Dustin Pedroia|R|Strikeout|W|Curveball|7|0|1|2|13|70
+Jeff Francis|L|Dustin Pedroia|R|Strikeout|B|Curveball|8|0|2|2|13|68
+Jeff Francis|L|Dustin Pedroia|R|Strikeout|C|Sinker|9|1|2|2|14|87
+Jeff Francis|L|Xander Bogaerts|R|Lineout|B|Sinker|10|0|0|0|12|84
+Jeff Francis|L|Xander Bogaerts|R|Lineout|F|Sinker|11|1|0|0|6|83
+Jeff Francis|L|Xander Bogaerts|R|Lineout|X|Changeup|12|1|1|0|8|79
+Jeff Francis|L|David Ortiz|L|Flyout|X|Slider|13|0|0|1|8|78
+Jeff Francis|L|Travis Shaw|L|Groundout|B|Sinker|14|0|0|2|13|86
+Jeff Francis|L|Travis Shaw|L|Groundout|F|Sinker|15|1|0|2|6|84
+Jeff Francis|L|Travis Shaw|L|Groundout|B|Slider|16|1|1|2|13|79
+Jeff Francis|L|Travis Shaw|L|Groundout|F|Sinker|17|2|1|2|12|87
+Jeff Francis|L|Travis Shaw|L|Groundout|B|Changeup|18|2|2|2|13|79
+Jeff Francis|L|Travis Shaw|L|Groundout|X|Sinker|19|3|2|2|14|87
+Jeff Francis|L|Deven Marrero|R|Flyout|B|Changeup|20|0|0|0|13|78
+Jeff Francis|L|Deven Marrero|R|Flyout|X|Sinker|21|1|0|0|6|83
+Jeff Francis|L|Rusney Castillo|R|Single|D|Curveball|22|0|0|1|9|70
+Jeff Francis|L|Ryan Hanigan|R|Single|D|Sinker|23|0|0|1|5|87
+Jeff Francis|L|Jackie Bradley Jr.|L|Grounded Into DP|C|Slider|24|0|0|1|7|77
+Jeff Francis|L|Jackie Bradley Jr.|L|Grounded Into DP|X|Sinker|25|0|1|1|6|85
+Jeff Francis|L|Brett Gardner|L|Flyout|X|Sinker|0|0|0|0|2|88
+Jeff Francis|L|Carlos Beltran|R|Groundout|C|Sinker|1|0|0|1|8|88
+Jeff Francis|L|Carlos Beltran|R|Groundout|B|Curveball|2|0|1|1|14|70
+Jeff Francis|L|Carlos Beltran|R|Groundout|S|Sinker|3|1|1|1|3|87
+Jeff Francis|L|Carlos Beltran|R|Groundout|F|Curveball|4|1|2|1|13|70
+Jeff Francis|L|Carlos Beltran|R|Groundout|X|Changeup|5|1|2|1|14|79
+Jeff Francis|L|Brian McCann|L|Single|B|Sinker|6|0|0|2|13|86
+Jeff Francis|L|Brian McCann|L|Single|C|Sinker|7|1|0|2|13|83
+Jeff Francis|L|Brian McCann|L|Single|F|Slider|8|1|1|2|8|79
+Jeff Francis|L|Brian McCann|L|Single|B|Curveball|9|1|2|2|13|70
+Jeff Francis|L|Brian McCann|L|Single|B|Curveball|10|2|2|2|13|70
+Jeff Francis|L|Brian McCann|L|Single|D|Sinker|11|3|2|2|6|88
+Jeff Francis|L|Chase Headley|R|Single|B|Sinker|12|0|0|2|13|84
+Jeff Francis|L|Chase Headley|R|Single|F|Changeup|13|1|0|2|6|79
+Jeff Francis|L|Chase Headley|R|Single|B|Curveball|14|1|1|2|14|69
+Jeff Francis|L|Chase Headley|R|Single|C|Sinker|15|2|1|2|8|84
+Jeff Francis|L|Chase Headley|R|Single|D|Sinker|16|2|2|2|5|86
+Jeff Francis|L|Dustin Ackley|L|Strikeout|C|Sinker|17|0|0|2|7|84
+Jeff Francis|L|Dustin Ackley|L|Strikeout|C|Curveball|18|0|1|2|2|70
+Jeff Francis|L|Dustin Ackley|L|Strikeout|C|Slider|19|0|2|2|13|79
+Jeff Francis|L|John Ryan Murphy|R|Groundout|F|Sinker|20|0|0|0|5|83
+Jeff Francis|L|John Ryan Murphy|R|Groundout|X|Changeup|21|0|1|0|14|78
+Jeff Francis|L|Didi Gregorius|L|Single|C|Sinker|22|0|0|1|9|85
+Jeff Francis|L|Didi Gregorius|L|Single|B|Slider|23|0|1|1|13|81
+Jeff Francis|L|Didi Gregorius|L|Single|S|Sinker|24|1|1|1|3|88
+Jeff Francis|L|Didi Gregorius|L|Single|B|Curveball|25|1|2|1|13|71
+Jeff Francis|L|Didi Gregorius|L|Single|F|Sinker|26|2|2|1|2|90
+Jeff Francis|L|Didi Gregorius|L|Single|F|Curveball|27|2|2|1|1|71
+Jeff Francis|L|Didi Gregorius|L|Single|B|Slider|28|2|2|1|13|81
+Jeff Francis|L|Didi Gregorius|L|Single|F|Sinker|29|3|2|1|7|85
+Jeff Francis|L|Didi Gregorius|L|Single|D|Sinker|30|3|2|1|5|88
+Jeff Francis|L|Stephen Drew|L|Single|B|Slider|31|0|0|1|13|80
+Jeff Francis|L|Stephen Drew|L|Single|C|Sinker|32|1|0|1|7|84
+Jeff Francis|L|Stephen Drew|L|Single|B|Curveball|33|1|1|1|13|72
+Jeff Francis|L|Stephen Drew|L|Single|F|Sinker|34|2|1|1|7|84
+Jeff Francis|L|Stephen Drew|L|Single|B|Curveball|35|2|2|1|13|69
+Jeff Francis|L|Stephen Drew|L|Single|F|Sinker|36|3|2|1|14|85
+Jeff Francis|L|Stephen Drew|L|Single|D|Sinker|37|3|2|1|4|88
+Jeff Francis|L|Jacoby Ellsbury|L|Flyout|C|Sinker|38|0|0|1|2|85
+Jeff Francis|L|Jacoby Ellsbury|L|Flyout|B|Slider|39|0|1|1|13|80
+Jeff Francis|L|Jacoby Ellsbury|L|Flyout|F|Sinker|40|1|1|1|7|89
+Jeff Francis|L|Jacoby Ellsbury|L|Flyout|X|Curveball|41|1|2|1|13|70
+Jeff Francis|L|Brett Gardner|L|Home Run|C|Sinker|42|0|0|2|4|88
+Jeff Francis|L|Brett Gardner|L|Home Run|F|Slider|43|0|1|2|13|78
+Jeff Francis|L|Brett Gardner|L|Home Run|F|Curveball|44|0|2|2|9|69
+Jeff Francis|L|Brett Gardner|L|Home Run|B|Sinker|45|0|2|2|11|89
+Jeff Francis|L|Brett Gardner|L|Home Run|F|Slider|46|1|2|2|13|80
+Jeff Francis|L|Brett Gardner|L|Home Run|B|Sinker|47|1|2|2|11|88
+Jeff Francis|L|Brett Gardner|L|Home Run|B|Changeup|48|2|2|2|13|80
+Jeff Francis|L|Brett Gardner|L|Home Run|E|Sinker|49|3|2|2|9|84
+Jeff Francis|L|Nolan Reimold|R|Strikeout|F|Changeup|0|0|0|0|14|80
+Jeff Francis|L|Nolan Reimold|R|Strikeout|B|Changeup|1|0|1|0|14|74
+Jeff Francis|L|Nolan Reimold|R|Strikeout|S|Changeup|2|1|1|0|14|75
+Jeff Francis|L|Nolan Reimold|R|Strikeout|C|Sinker|3|1|2|0|14|86
+Jeff Francis|L|Gerardo Parra|L|Groundout|B|Slider|4|0|0|1|13|75
+Jeff Francis|L|Gerardo Parra|L|Groundout|S|Sinker|5|1|0|1|12|83
+Jeff Francis|L|Gerardo Parra|L|Groundout|X|Curveball|6|1|1|1|5|68
+Jeff Francis|L|Manny Machado|R|Walk|B|Curveball|7|0|0|2|13|68
+Jeff Francis|L|Manny Machado|R|Walk|B|Changeup|8|1|0|2|14|81
+Jeff Francis|L|Manny Machado|R|Walk|B|Changeup|9|2|0|2|14|80
+Jeff Francis|L|Manny Machado|R|Walk|C|Sinker|10|3|0|2|14|83
+Jeff Francis|L|Manny Machado|R|Walk|B|Changeup|11|3|1|2|14|80
+Jeff Francis|L|Chris Davis|L|Walk|B|Curveball|12|0|0|2|13|67
+Jeff Francis|L|Chris Davis|L|Walk|B|Sinker|13|1|0|2|14|82
+Jeff Francis|L|Chris Davis|L|Walk|F|Curveball|14|2|0|2|4|69
+Jeff Francis|L|Chris Davis|L|Walk|*B|Curveball|15|2|1|2|13|67
+Jeff Francis|L|Chris Davis|L|Walk|*B|Slider|16|3|1|2|13|76
+Jeff Francis|L|Paul Janish|R|Single|C|Sinker|17|0|0|2|14|83
+Jeff Francis|L|Paul Janish|R|Single|E|Changeup|18|0|1|2|14|75
+Jeff Francis|L|Steve Pearce|R|Strikeout|C|Curveball|19|0|0|2|6|69
+Jeff Francis|L|Steve Pearce|R|Strikeout|B|Sinker|20|0|1|2|14|83
+Jeff Francis|L|Steve Pearce|R|Strikeout|S|Changeup|21|1|1|2|14|76
+Jeff Francis|L|Steve Pearce|R|Strikeout|B|Changeup|22|1|2|2|14|76
+Jeff Francis|L|Steve Pearce|R|Strikeout|F|Curveball|23|2|2|2|6|67
+Jeff Francis|L|Steve Pearce|R|Strikeout|W|Changeup|24|2|2|2|13|75
+Jeff Francis|L|J.J. Hardy|R|Lineout|B|Sinker|25|0|0|0|14|82
+Jeff Francis|L|J.J. Hardy|R|Lineout|C|Sinker|26|1|0|0|12|84
+Jeff Francis|L|J.J. Hardy|R|Lineout|X|Curveball|27|1|1|0|4|67
+Jeff Francis|L|Ryan Flaherty|L|Groundout|C|Curveball|28|0|0|1|8|67
+Jeff Francis|L|Ryan Flaherty|L|Groundout|F|Sinker|29|0|1|1|9|82
+Jeff Francis|L|Ryan Flaherty|L|Groundout|B|Curveball|30|0|2|1|13|75
+Jeff Francis|L|Ryan Flaherty|L|Groundout|X|Sinker|31|1|2|1|9|82
+Jeff Francis|L|Caleb Joseph|R|Groundout|B|Sinker|32|0|0|2|14|84
+Jeff Francis|L|Caleb Joseph|R|Groundout|B|Changeup|33|1|0|2|14|76
+Jeff Francis|L|Caleb Joseph|R|Groundout|X|Sinker|34|2|0|2|14|82
+Jeff Francis|L|Nolan Reimold|R|Groundout|C|Sinker|35|0|0|0|14|82
+Jeff Francis|L|Nolan Reimold|R|Groundout|B|Changeup|36|0|1|0|14|75
+Jeff Francis|L|Nolan Reimold|R|Groundout|F|Changeup|37|1|1|0|14|76
+Jeff Francis|L|Nolan Reimold|R|Groundout|B|Slider|38|1|2|0|13|74
+Jeff Francis|L|Nolan Reimold|R|Groundout|X|Changeup|39|2|2|0|5|77
+Jeff Francis|L|Gerardo Parra|L|Strikeout|B|Sinker|40|0|0|1|14|82
+Jeff Francis|L|Gerardo Parra|L|Strikeout|F|Sinker|41|1|0|1|2|84
+Jeff Francis|L|Gerardo Parra|L|Strikeout|B|Curveball|42|1|1|1|13|67
+Jeff Francis|L|Gerardo Parra|L|Strikeout|F|Sinker|43|2|1|1|13|83
+Jeff Francis|L|Gerardo Parra|L|Strikeout|S|Curveball|44|2|2|1|13|66
+Jeff Francis|L|Manny Machado|R|Single|B|Changeup|45|0|0|2|14|76
+Jeff Francis|L|Manny Machado|R|Single|D|Changeup|46|1|0|2|14|76
+Jeff Francis|L|Chris Davis|L|Walk|S|Curveball|47|0|0|2|13|68
+Jeff Francis|L|Chris Davis|L|Walk|T|Curveball|48|0|1|2|13|68
+Jeff Francis|L|Chris Davis|L|Walk|*B|Slider|49|0|2|2|13|76
+Jeff Francis|L|Chris Davis|L|Walk|*B|Curveball|50|1|2|2|13|66
+Jeff Francis|L|Chris Davis|L|Walk|*B|Slider|51|2|2|2|13|75
+Jeff Francis|L|Chris Davis|L|Walk|B|Sinker|52|3|2|2|14|85
+Jeff Francis|L|Luke Maile|R|Single|D|Sinker|0|0|0|0|9|87
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|C|Curveball|1|0|0|0|13|69
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|W|Curveball|2|0|1|0|13|68
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|F|Sinker|3|0|2|0|13|85
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|F|Curveball|4|0|2|0|9|68
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|*B|Slider|5|0|2|0|13|76
+Jeff Francis|L|Brandon Guyer|R|Grounded Into DP|X|Curveball|6|1|2|0|14|67
+Jeff Francis|L|Mikie Mahtook|R|Lineout|B|Sinker|7|0|0|2|12|83
+Jeff Francis|L|Mikie Mahtook|R|Lineout|F|Curveball|8|1|0|2|14|69
+Jeff Francis|L|Mikie Mahtook|R|Lineout|B|Changeup|9|1|1|2|14|76
+Jeff Francis|L|Mikie Mahtook|R|Lineout|X|Sinker|10|2|1|2|6|81

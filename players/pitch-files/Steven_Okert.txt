@@ -1,0 +1,794 @@
+Steven Okert|L|Carlos Gonzalez|L|Flyout|X|Two-Seam Fastball|0|0|0|0|9|91
+Steven Okert|L|Drew Butera|R|Groundout|C|Four-Seam Fastball|1|0|0|1|6|90
+Steven Okert|L|Drew Butera|R|Groundout|B|Slider|2|0|1|1|13|83
+Steven Okert|L|Drew Butera|R|Groundout|F|Curveball|3|1|1|1|14|77
+Steven Okert|L|Drew Butera|R|Groundout|F|Slider|4|1|2|1|6|83
+Steven Okert|L|Drew Butera|R|Groundout|B|Four-Seam Fastball|5|1|2|1|12|91
+Steven Okert|L|Drew Butera|R|Groundout|X|Four-Seam Fastball|6|2|2|1|12|90
+Steven Okert|L|Pat Valaika|R|Flyout|S|Changeup|7|0|0|2|13|82
+Steven Okert|L|Pat Valaika|R|Flyout|X|Changeup|8|0|1|2|13|83
+Steven Okert|L|Travis Shaw|L|Field Error|B|Slider|0|0|0|2|13|80
+Steven Okert|L|Travis Shaw|L|Field Error|L|Four-Seam Fastball|1|1|0|2|7|90
+Steven Okert|L|Travis Shaw|L|Field Error|B|Four-Seam Fastball|2|1|1|2|12|91
+Steven Okert|L|Travis Shaw|L|Field Error|F|Curveball|3|2|1|2|13|79
+Steven Okert|L|Travis Shaw|L|Field Error|F|Slider|4|2|2|2|5|85
+Steven Okert|L|Travis Shaw|L|Field Error|B|Slider|5|2|2|2|13|85
+Steven Okert|L|Travis Shaw|L|Field Error|F|Slider|6|3|2|2|8|80
+Steven Okert|L|Travis Shaw|L|Field Error|F|Slider|7|3|2|2|8|82
+Steven Okert|L|Travis Shaw|L|Field Error|D|Four-Seam Fastball|8|3|2|2|5|91
+Steven Okert|L|Hernan Perez|R|Strikeout|*B|Changeup|9|0|0|2|13|83
+Steven Okert|L|Hernan Perez|R|Strikeout|L|Two-Seam Fastball|10|1|0|2|12|91
+Steven Okert|L|Hernan Perez|R|Strikeout|F|Two-Seam Fastball|11|1|1|2|3|91
+Steven Okert|L|Hernan Perez|R|Strikeout|S|Slider|12|1|2|2|5|84
+Steven Okert|L|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|13|0|0|0|6|92
+Steven Okert|L|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|14|0|1|0|11|92
+Steven Okert|L|Keon Broxton|R|Strikeout|C|Slider|15|0|2|0|6|84
+Steven Okert|L|Tyler Saladino|R|Strikeout|B|Curveball|16|0|0|1|14|75
+Steven Okert|L|Tyler Saladino|R|Strikeout|B|Curveball|17|1|0|1|14|75
+Steven Okert|L|Tyler Saladino|R|Strikeout|C|Slider|18|2|0|1|12|81
+Steven Okert|L|Tyler Saladino|R|Strikeout|B|Two-Seam Fastball|19|2|1|1|12|90
+Steven Okert|L|Tyler Saladino|R|Strikeout|S|Slider|20|3|1|1|8|81
+Steven Okert|L|Tyler Saladino|R|Strikeout|S|Slider|21|3|2|1|1|82
+Steven Okert|L|Charlie Culberson|R|Flyout|S|Two-Seam Fastball|0|0|0|0|13|91
+Steven Okert|L|Charlie Culberson|R|Flyout|X|Two-Seam Fastball|1|0|1|0|13|91
+Steven Okert|L|Freddie Freeman|L|Groundout|X|Slider|2|0|0|1|5|82
+Steven Okert|L|Nick Markakis|L|Strikeout|C|Slider|3|0|0|2|13|83
+Steven Okert|L|Nick Markakis|L|Strikeout|B|Two-Seam Fastball|4|0|1|2|14|91
+Steven Okert|L|Nick Markakis|L|Strikeout|B|Slider|5|1|1|2|13|84
+Steven Okert|L|Nick Markakis|L|Strikeout|S|Slider|6|2|1|2|13|82
+Steven Okert|L|Nick Markakis|L|Strikeout|S|Slider|7|2|2|2|5|85
+Steven Okert|L|David Dahl|L|Single|D|Two-Seam Fastball|0|0|0|0|14|90
+Steven Okert|L|Cory Spangenberg|L|Forceout|C|Slider|0|0|0|2|1|85
+Steven Okert|L|Cory Spangenberg|L|Forceout|S|Slider|1|0|1|2|8|84
+Steven Okert|L|Cory Spangenberg|L|Forceout|X|Slider|2|0|2|2|4|87
+Steven Okert|L|Matt Carpenter|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|13|92
+Steven Okert|L|Matt Carpenter|L|Pop Out|B|Slider|1|1|0|0|13|84
+Steven Okert|L|Matt Carpenter|L|Pop Out|C|Slider|2|2|0|0|9|83
+Steven Okert|L|Matt Carpenter|L|Pop Out|X|Slider|3|2|1|0|5|84
+Steven Okert|L|Matt Carpenter|L|Pop Out|B|Two-Seam Fastball|0|0|0|1|12|91
+Steven Okert|L|Matt Carpenter|L|Pop Out|X|Slider|1|1|0|1|5|82
+Steven Okert|L|Javy Guerra|L|Strikeout|C|Slider|0|0|0|2|13|82
+Steven Okert|L|Javy Guerra|L|Strikeout|B|Four-Seam Fastball|1|0|1|2|13|92
+Steven Okert|L|Javy Guerra|L|Strikeout|S|Slider|2|1|1|2|13|84
+Steven Okert|L|Javy Guerra|L|Strikeout|C|Slider|3|1|2|2|3|84
+Steven Okert|L|Jose Pirela|R|Groundout|X|Curveball|4|0|0|0|4|78
+Steven Okert|L|Freddy Galvis|R|Double|B|Four-Seam Fastball|5|0|0|1|12|91
+Steven Okert|L|Freddy Galvis|R|Double|S|Changeup|6|1|0|1|7|81
+Steven Okert|L|Freddy Galvis|R|Double|D|Two-Seam Fastball|7|1|1|1|6|91
+Steven Okert|L|Wil Myers|R|Lineout|C|Four-Seam Fastball|8|0|0|1|5|92
+Steven Okert|L|Wil Myers|R|Lineout|B|Four-Seam Fastball|9|0|1|1|13|92
+Steven Okert|L|Wil Myers|R|Lineout|X|Four-Seam Fastball|10|1|1|1|4|92
+Steven Okert|L|Cody Bellinger|L|Single|C|Two-Seam Fastball|0|0|0|2|4|92
+Steven Okert|L|Cody Bellinger|L|Single|F|Two-Seam Fastball|1|0|1|2|14|91
+Steven Okert|L|Cody Bellinger|L|Single|B|Slider|2|0|2|2|13|86
+Steven Okert|L|Cody Bellinger|L|Single|E|Slider|3|1|2|2|13|85
+Steven Okert|L|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|4|0|0|2|4|92
+Steven Okert|L|Enrique Hernandez|R|Flyout|B|Changeup|0|0|0|0|13|84
+Steven Okert|L|Enrique Hernandez|R|Flyout|X|Slider|1|1|0|0|6|80
+Steven Okert|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|2|0|0|1|13|93
+Steven Okert|L|Yasiel Puig|R|Flyout|T|Changeup|3|1|0|1|9|86
+Steven Okert|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|4|1|1|1|13|92
+Steven Okert|L|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|5|2|1|1|8|91
+Steven Okert|L|Chase Utley|L|Strikeout|C|Four-Seam Fastball|6|0|0|2|8|93
+Steven Okert|L|Chase Utley|L|Strikeout|C|Slider|7|0|1|2|8|83
+Steven Okert|L|Chase Utley|L|Strikeout|B|Slider|8|0|2|2|13|86
+Steven Okert|L|Chase Utley|L|Strikeout|S|Curveball|9|1|2|2|8|78
+Steven Okert|L|Austin Barnes|R|Home Run|E|Changeup|10|0|0|0|8|82
+Steven Okert|L|Kyle Farmer|R|Strikeout|B|Curveball|11|0|0|0|13|77
+Steven Okert|L|Kyle Farmer|R|Strikeout|B|Two-Seam Fastball|12|1|0|0|12|90
+Steven Okert|L|Kyle Farmer|R|Strikeout|F|Two-Seam Fastball|13|2|0|0|3|90
+Steven Okert|L|Kyle Farmer|R|Strikeout|C|Curveball|14|2|1|0|12|78
+Steven Okert|L|Kyle Farmer|R|Strikeout|F|Slider|15|2|2|0|14|84
+Steven Okert|L|Kyle Farmer|R|Strikeout|F|Four-Seam Fastball|16|2|2|0|13|92
+Steven Okert|L|Kyle Farmer|R|Strikeout|F|Four-Seam Fastball|17|2|2|0|1|91
+Steven Okert|L|Kyle Farmer|R|Strikeout|F|Slider|18|2|2|0|7|84
+Steven Okert|L|Kyle Farmer|R|Strikeout|S|Curveball|19|2|2|0|14|80
+Steven Okert|L|Alex Verdugo|L|Groundout|S|Four-Seam Fastball|20|0|0|1|3|90
+Steven Okert|L|Alex Verdugo|L|Groundout|X|Curveball|21|0|1|1|8|78
+Steven Okert|L|Rocky Gale|R|Strikeout|B|Four-Seam Fastball|22|0|0|2|13|90
+Steven Okert|L|Rocky Gale|R|Strikeout|C|Two-Seam Fastball|23|1|0|2|6|90
+Steven Okert|L|Rocky Gale|R|Strikeout|S|Curveball|24|1|1|2|13|78
+Steven Okert|L|Rocky Gale|R|Strikeout|F|Slider|25|1|2|2|13|83
+Steven Okert|L|Rocky Gale|R|Strikeout|B|Slider|26|1|2|2|14|78
+Steven Okert|L|Rocky Gale|R|Strikeout|S|Four-Seam Fastball|27|2|2|2|11|91
+Steven Okert|L|Welington Castillo|R|Walk|B|Two-Seam Fastball|0|0|0|0|13|94
+Steven Okert|L|Welington Castillo|R|Walk|S|Cutter|1|1|0|0|13|89
+Steven Okert|L|Welington Castillo|R|Walk|B|Changeup|2|1|1|0|13|84
+Steven Okert|L|Welington Castillo|R|Walk|B|Four-Seam Fastball|3|2|1|0|13|89
+Steven Okert|L|Welington Castillo|R|Walk|B|Cutter|4|3|1|0|11|91
+Steven Okert|L|Nick Ahmed|R|Grounded Into DP|X|Four-Seam Fastball|5|0|0|0|5|92
+Steven Okert|L|Chris Owings|R|Flyout|C|Slider|6|0|0|2|14|79
+Steven Okert|L|Chris Owings|R|Flyout|X|Changeup|7|0|1|2|13|85
+Steven Okert|L|Rickie Weeks Jr.|R|Double|B|Cutter|8|0|0|0|13|88
+Steven Okert|L|Rickie Weeks Jr.|R|Double|D|Four-Seam Fastball|9|1|0|0|9|91
+Steven Okert|L|Jean Segura|R|Groundout|L|Four-Seam Fastball|10|0|0|0|5|89
+Steven Okert|L|Jean Segura|R|Groundout|C|Slider|11|0|1|0|6|81
+Steven Okert|L|Jean Segura|R|Groundout|B|Cutter|12|0|2|0|12|93
+Steven Okert|L|Jean Segura|R|Groundout|X|Cutter|13|1|2|0|8|88
+Steven Okert|L|Jake Lamb|L|Strikeout|C|Slider|14|0|0|1|8|82
+Steven Okert|L|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|15|0|1|1|9|93
+Steven Okert|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|16|0|2|1|13|93
+Steven Okert|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|17|1|2|1|13|89
+Steven Okert|L|Jake Lamb|L|Strikeout|W|Slider|18|2|2|1|13|82
+Steven Okert|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|19|0|0|2|14|70
+Steven Okert|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|20|0|1|2|12|68
+Steven Okert|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|21|0|2|2|12|68
+Steven Okert|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|22|0|2|2|12|68
+Steven Okert|L|David Peralta|L|Strikeout|C|Four-Seam Fastball|23|0|0|2|8|90
+Steven Okert|L|David Peralta|L|Strikeout|F|Slider|24|0|1|2|5|80
+Steven Okert|L|David Peralta|L|Strikeout|S|Slider|25|0|2|2|13|81
+Steven Okert|L|Jake Lamb|L|Walk|B|Four-Seam Fastball|0|0|0|1|3|91
+Steven Okert|L|Jake Lamb|L|Walk|B|Four-Seam Fastball|1|1|0|1|14|91
+Steven Okert|L|Jake Lamb|L|Walk|B|Cutter|2|2|0|1|13|87
+Steven Okert|L|Jake Lamb|L|Walk|C|Cutter|3|3|0|1|1|87
+Steven Okert|L|Jake Lamb|L|Walk|B|Slider|4|3|1|1|12|78
+Steven Okert|L|Paul Goldschmidt|R|Grounded Into DP|B|Changeup|5|0|0|1|13|86
+Steven Okert|L|Paul Goldschmidt|R|Grounded Into DP|B|Four-Seam Fastball|6|1|0|1|13|91
+Steven Okert|L|Paul Goldschmidt|R|Grounded Into DP|X|Two-Seam Fastball|7|2|0|1|8|92
+Steven Okert|L|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|0|0|0|2|13|88
+Steven Okert|L|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|1|1|0|2|11|92
+Steven Okert|L|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|2|1|1|2|13|90
+Steven Okert|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|3|2|1|2|4|92
+Steven Okert|L|Dee Gordon|L|Strikeout|T|Four-Seam Fastball|4|2|2|2|13|92
+Steven Okert|L|Alexei Ramirez|R|Single|B|Four-Seam Fastball|0|0|0|0|4|93
+Steven Okert|L|Alexei Ramirez|R|Single|D|Two-Seam Fastball|1|1|0|0|4|92
+Steven Okert|L|Jemile Weeks|R|Flyout|S|Four-Seam Fastball|2|0|0|0|13|90
+Steven Okert|L|Jemile Weeks|R|Flyout|C|Two-Seam Fastball|3|0|1|0|11|93
+Steven Okert|L|Jemile Weeks|R|Flyout|B|Slider|4|0|2|0|9|83
+Steven Okert|L|Jemile Weeks|R|Flyout|B|Slider|5|1|2|0|12|81
+Steven Okert|L|Jemile Weeks|R|Flyout|X|Cutter|6|2|2|0|4|88
+Steven Okert|L|Travis Jankowski|L|Single|B|Slider|7|0|0|1|12|82
+Steven Okert|L|Travis Jankowski|L|Single|B|Cutter|8|1|0|1|12|89
+Steven Okert|L|Travis Jankowski|L|Single|C|Four-Seam Fastball|9|2|0|1|4|91
+Steven Okert|L|Travis Jankowski|L|Single|B|Four-Seam Fastball|10|2|1|1|9|93
+Steven Okert|L|Travis Jankowski|L|Single|D|Four-Seam Fastball|11|3|1|1|14|91
+Steven Okert|L|Jabari Blash|R|Strikeout|S|Two-Seam Fastball|12|0|0|1|6|93
+Steven Okert|L|Jabari Blash|R|Strikeout|B|Two-Seam Fastball|13|0|1|1|12|93
+Steven Okert|L|Jabari Blash|R|Strikeout|S|Four-Seam Fastball|14|1|1|1|3|92
+Steven Okert|L|Jabari Blash|R|Strikeout|B|Four-Seam Fastball|15|1|2|1|8|93
+Steven Okert|L|Jabari Blash|R|Strikeout|S|Two-Seam Fastball|16|2|2|1|2|93
+Steven Okert|L|Wil Myers|R|Home Run|B|Slider|17|0|0|2|12|82
+Steven Okert|L|Wil Myers|R|Home Run|E|Four-Seam Fastball|18|1|0|2|5|89
+Steven Okert|L|Yoenis Cespedes|R|Groundout|B|Four-Seam Fastball|0|0|0|0|9|92
+Steven Okert|L|Yoenis Cespedes|R|Groundout|F|Four-Seam Fastball|1|1|0|0|6|92
+Steven Okert|L|Yoenis Cespedes|R|Groundout|X|Four-Seam Fastball|2|1|1|0|13|91
+Steven Okert|L|Lucas Duda|L|Pop Out|F|Four-Seam Fastball|3|0|0|1|9|93
+Steven Okert|L|Lucas Duda|L|Pop Out|C|Slider|4|0|1|1|5|81
+Steven Okert|L|Lucas Duda|L|Pop Out|B|Slider|5|0|2|1|13|81
+Steven Okert|L|Lucas Duda|L|Pop Out|B|Cutter|6|1|2|1|13|89
+Steven Okert|L|Lucas Duda|L|Pop Out|B|Cutter|7|2|2|1|13|88
+Steven Okert|L|Lucas Duda|L|Pop Out|X|Slider|8|3|2|1|8|80
+Steven Okert|L|Neil Walker|R|Pop Out|B|Two-Seam Fastball|9|0|0|2|12|91
+Steven Okert|L|Neil Walker|R|Pop Out|X|Changeup|10|1|0|2|7|85
+Steven Okert|L|Asdrubal Cabrera|R|Single|B|Cutter|11|0|0|0|13|87
+Steven Okert|L|Asdrubal Cabrera|R|Single|D|Two-Seam Fastball|12|1|0|0|8|91
+Steven Okert|L|Kevin Plawecki|R|Single|S|Slider|13|0|0|0|13|81
+Steven Okert|L|Kevin Plawecki|R|Single|F|Cutter|14|0|1|0|6|90
+Steven Okert|L|Kevin Plawecki|R|Single|F|Two-Seam Fastball|15|0|2|0|12|92
+Steven Okert|L|Kevin Plawecki|R|Single|D|Slider|16|0|2|0|8|81
+Steven Okert|L|Juan Lagares|R|Single|B|Slider|17|0|0|0|12|79
+Steven Okert|L|Juan Lagares|R|Single|B|Two-Seam Fastball|18|1|0|0|12|92
+Steven Okert|L|Juan Lagares|R|Single|B|Four-Seam Fastball|19|2|0|0|12|92
+Steven Okert|L|Juan Lagares|R|Single|C|Four-Seam Fastball|20|3|0|0|14|92
+Steven Okert|L|Juan Lagares|R|Single|E|Slider|21|3|1|0|13|81
+Steven Okert|L|Curtis Granderson|L|Strikeout|C|Cutter|22|0|0|0|9|89
+Steven Okert|L|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|23|0|1|0|13|93
+Steven Okert|L|Curtis Granderson|L|Strikeout|B|Cutter|24|1|1|0|13|90
+Steven Okert|L|Curtis Granderson|L|Strikeout|S|Cutter|25|2|1|0|7|89
+Steven Okert|L|Curtis Granderson|L|Strikeout|B|Cutter|26|2|2|0|13|91
+Steven Okert|L|Curtis Granderson|L|Strikeout|S|Cutter|27|3|2|0|4|90
+Steven Okert|L|David Wright|R|Strikeout|B|Two-Seam Fastball|28|0|0|1|12|91
+Steven Okert|L|David Wright|R|Strikeout|C|Cutter|29|1|0|1|7|88
+Steven Okert|L|David Wright|R|Strikeout|S|Four-Seam Fastball|30|1|1|1|2|92
+Steven Okert|L|David Wright|R|Strikeout|S|Four-Seam Fastball|31|1|2|1|3|90
+Steven Okert|L|Michael Conforto|L|Groundout|B|Slider|32|0|0|2|13|81
+Steven Okert|L|Michael Conforto|L|Groundout|C|Cutter|33|1|0|2|6|87
+Steven Okert|L|Michael Conforto|L|Groundout|X|Slider|34|1|1|2|4|81
+Steven Okert|L|Logan Morrison|L|Flyout|X|Slider|0|0|0|2|13|80
+Steven Okert|L|Corey Dickerson|L|Single|C|Four-Seam Fastball|0|0|0|0|13|94
+Steven Okert|L|Corey Dickerson|L|Single|B|Two-Seam Fastball|1|0|1|0|13|90
+Steven Okert|L|Corey Dickerson|L|Single|B|Two-Seam Fastball|2|1|1|0|11|94
+Steven Okert|L|Corey Dickerson|L|Single|D|Two-Seam Fastball|3|2|1|0|6|92
+Steven Okert|L|Anthony Rizzo|L|Single|B|Cutter|0|0|0|0|11|91
+Steven Okert|L|Anthony Rizzo|L|Single|C|Four-Seam Fastball|1|1|0|0|4|91
+Steven Okert|L|Anthony Rizzo|L|Single|F|Cutter|2|1|1|0|5|91
+Steven Okert|L|Anthony Rizzo|L|Single|F|Cutter|3|1|2|0|7|87
+Steven Okert|L|Anthony Rizzo|L|Single|F|Cutter|4|1|2|0|13|87
+Steven Okert|L|Anthony Rizzo|L|Single|D|Slider|5|1|2|0|7|81
+Steven Okert|L|Ben Zobrist|R|Walk|B|Four-Seam Fastball|6|0|0|0|13|93
+Steven Okert|L|Ben Zobrist|R|Walk|B|Slider|7|1|0|0|13|87
+Steven Okert|L|Ben Zobrist|R|Walk|C|Four-Seam Fastball|8|2|0|0|13|92
+Steven Okert|L|Ben Zobrist|R|Walk|B|Slider|9|2|1|0|13|87
+Steven Okert|L|Ben Zobrist|R|Walk|C|Four-Seam Fastball|10|3|1|0|14|91
+Steven Okert|L|Ben Zobrist|R|Walk|F|Cutter|11|3|2|0|8|88
+Steven Okert|L|Ben Zobrist|R|Walk|F|Cutter|12|3|2|0|13|89
+Steven Okert|L|Ben Zobrist|R|Walk|B|Four-Seam Fastball|13|3|2|0|14|92
+Steven Okert|L|Matt Szczur|R|Pop Out|S|Two-Seam Fastball|14|0|0|0|14|92
+Steven Okert|L|Matt Szczur|R|Pop Out|F|Four-Seam Fastball|15|0|1|0|14|92
+Steven Okert|L|Matt Szczur|R|Pop Out|X|Cutter|16|0|2|0|4|86
+Steven Okert|L|Jason Heyward|L|Strikeout|B|Two-Seam Fastball|17|0|0|1|12|91
+Steven Okert|L|Jason Heyward|L|Strikeout|B|Cutter|18|1|0|1|12|86
+Steven Okert|L|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|19|2|0|1|3|92
+Steven Okert|L|Jason Heyward|L|Strikeout|F|Four-Seam Fastball|20|2|1|1|12|90
+Steven Okert|L|Jason Heyward|L|Strikeout|S|Four-Seam Fastball|21|2|2|1|5|93
+Steven Okert|L|Jason Heyward|L|Lineout|X|Four-Seam Fastball|0|0|0|0|7|93
+Steven Okert|L|Willson Contreras|R|Groundout|X|Slider|1|0|0|1|6|83
+Steven Okert|L|Javier Baez|R|Groundout|B|Slider|2|0|0|2|14|83
+Steven Okert|L|Javier Baez|R|Groundout|C|Cutter|3|1|0|2|8|90
+Steven Okert|L|Javier Baez|R|Groundout|B|Two-Seam Fastball|4|1|1|2|13|93
+Steven Okert|L|Javier Baez|R|Groundout|X|Cutter|5|2|1|2|4|89
+Steven Okert|L|Carlos Gonzalez|L|Flyout|B|Four-Seam Fastball|0|0|0|2|12|90
+Steven Okert|L|Carlos Gonzalez|L|Flyout|S|Four-Seam Fastball|1|1|0|2|11|89
+Steven Okert|L|Carlos Gonzalez|L|Flyout|F|Two-Seam Fastball|2|1|1|2|12|91
+Steven Okert|L|Carlos Gonzalez|L|Flyout|B|Four-Seam Fastball|3|1|2|2|12|91
+Steven Okert|L|Carlos Gonzalez|L|Flyout|X|Slider|4|2|2|2|8|77
+Steven Okert|L|Nolan Arenado|R|Strikeout|B|Two-Seam Fastball|5|0|0|0|12|90
+Steven Okert|L|Nolan Arenado|R|Strikeout|F|Cutter|6|1|0|0|7|87
+Steven Okert|L|Nolan Arenado|R|Strikeout|S|Cutter|7|1|1|0|13|86
+Steven Okert|L|Nolan Arenado|R|Strikeout|B|Two-Seam Fastball|8|1|2|0|14|92
+Steven Okert|L|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|9|2|2|0|13|87
+Steven Okert|L|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|10|2|2|0|1|91
+Steven Okert|L|Nolan Arenado|R|Strikeout|S|Changeup|11|2|2|0|12|80
+Steven Okert|L|David Dahl|L|Pop Out|B|Four-Seam Fastball|12|0|0|1|13|91
+Steven Okert|L|David Dahl|L|Pop Out|S|Changeup|13|1|0|1|13|85
+Steven Okert|L|David Dahl|L|Pop Out|F|Changeup|14|1|1|1|1|87
+Steven Okert|L|David Dahl|L|Pop Out|B|Cutter|15|1|2|1|13|88
+Steven Okert|L|David Dahl|L|Pop Out|X|Four-Seam Fastball|16|2|2|1|6|91
+Steven Okert|L|Brett Wallace|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|91
+Steven Okert|L|Brett Wallace|L|Groundout|X|Two-Seam Fastball|1|1|0|0|7|90
+Steven Okert|L|Jon Jay|L|Groundout|F|Four-Seam Fastball|2|0|0|1|13|91
+Steven Okert|L|Jon Jay|L|Groundout|C|Cutter|3|0|1|1|1|88
+Steven Okert|L|Jon Jay|L|Groundout|F|Cutter|4|0|2|1|11|89
+Steven Okert|L|Jon Jay|L|Groundout|X|Four-Seam Fastball|5|0|2|1|1|92
+Steven Okert|L|Luis Sardinas|R|Strikeout|S|Two-Seam Fastball|6|0|0|2|14|92
+Steven Okert|L|Luis Sardinas|R|Strikeout|F|Changeup|7|0|1|2|12|84
+Steven Okert|L|Luis Sardinas|R|Strikeout|C|Cutter|8|0|2|2|2|87
+Steven Okert|L|Ryan Schimpf|L|Home Run|B|Four-Seam Fastball|0|0|0|2|12|91
+Steven Okert|L|Ryan Schimpf|L|Home Run|F|Four-Seam Fastball|1|1|0|2|12|91
+Steven Okert|L|Ryan Schimpf|L|Home Run|C|Four-Seam Fastball|2|1|1|2|9|93
+Steven Okert|L|Ryan Schimpf|L|Home Run|E|Four-Seam Fastball|3|1|2|2|2|93
+Steven Okert|L|Alex Dickerson|L|Flyout|C|Four-Seam Fastball|4|0|0|2|14|91
+Steven Okert|L|Alex Dickerson|L|Flyout|F|Slider|5|0|1|2|14|80
+Steven Okert|L|Alex Dickerson|L|Flyout|X|Slider|6|0|2|2|7|81
+Steven Okert|L|Brandon Moss|L|Single|B|Cutter|0|0|0|2|3|86
+Steven Okert|L|Brandon Moss|L|Single|C|Cutter|1|1|0|2|1|84
+Steven Okert|L|Brandon Moss|L|Single|B|Four-Seam Fastball|2|1|1|2|12|91
+Steven Okert|L|Brandon Moss|L|Single|C|Changeup|3|2|1|2|6|86
+Steven Okert|L|Brandon Moss|L|Single|D|Cutter|4|2|2|2|13|86
+Steven Okert|L|Yasiel Puig|R|Strikeout|S|Cutter|0|0|0|2|4|89
+Steven Okert|L|Yasiel Puig|R|Strikeout|F|Cutter|1|0|1|2|4|87
+Steven Okert|L|Yasiel Puig|R|Strikeout|F|Cutter|2|0|2|2|13|89
+Steven Okert|L|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|3|0|2|2|14|93
+Steven Okert|L|Yasiel Puig|R|Strikeout|F|Cutter|4|1|2|2|13|88
+Steven Okert|L|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|5|1|2|2|14|94
+Steven Okert|L|Yasiel Puig|R|Strikeout|S|Four-Seam Fastball|6|2|2|2|6|94
+Steven Okert|L|Enrique Hernandez|R|Strikeout|S|Cutter|7|0|0|0|13|89
+Steven Okert|L|Enrique Hernandez|R|Strikeout|F|Cutter|8|0|1|0|13|87
+Steven Okert|L|Enrique Hernandez|R|Strikeout|F|Four-Seam Fastball|9|0|2|0|12|92
+Steven Okert|L|Enrique Hernandez|R|Strikeout|T|Cutter|10|0|2|0|13|90
+Steven Okert|L|Chase Utley|L|Groundout|B|Slider|11|0|0|1|12|77
+Steven Okert|L|Chase Utley|L|Groundout|C|Cutter|12|1|0|1|13|88
+Steven Okert|L|Chase Utley|L|Groundout|C|Four-Seam Fastball|13|1|1|1|11|92
+Steven Okert|L|Chase Utley|L|Groundout|B|Cutter|14|1|2|1|13|90
+Steven Okert|L|Chase Utley|L|Groundout|B|Cutter|15|2|2|1|13|89
+Steven Okert|L|Chase Utley|L|Groundout|F|Four-Seam Fastball|16|3|2|1|4|92
+Steven Okert|L|Chase Utley|L|Groundout|F|Cutter|17|3|2|1|6|88
+Steven Okert|L|Chase Utley|L|Groundout|F|Cutter|18|3|2|1|3|89
+Steven Okert|L|Chase Utley|L|Groundout|X|Four-Seam Fastball|19|3|2|1|2|92
+Steven Okert|L|Corey Seager|L|Flyout|X|Slider|20|0|0|2|5|81
+Steven Okert|L|Justin Turner|R|Single|C|Cutter|21|0|0|0|4|88
+Steven Okert|L|Justin Turner|R|Single|B|Changeup|22|0|1|0|12|84
+Steven Okert|L|Justin Turner|R|Single|B|Two-Seam Fastball|23|1|1|0|12|92
+Steven Okert|L|Justin Turner|R|Single|B|Four-Seam Fastball|24|2|1|0|12|93
+Steven Okert|L|Justin Turner|R|Single|C|Cutter|25|3|1|0|2|87
+Steven Okert|L|Justin Turner|R|Single|D|Cutter|26|3|2|0|5|89
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|C|Four-Seam Fastball|27|0|0|0|5|93
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|S|Cutter|28|0|1|0|12|88
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|29|0|2|0|1|93
+Steven Okert|L|Ryan Schimpf|L|Strikeout|B|Slider|0|0|0|0|12|76
+Steven Okert|L|Ryan Schimpf|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|2|91
+Steven Okert|L|Ryan Schimpf|L|Strikeout|B|Cutter|2|1|1|0|13|85
+Steven Okert|L|Ryan Schimpf|L|Strikeout|S|Cutter|3|2|1|0|13|85
+Steven Okert|L|Ryan Schimpf|L|Strikeout|B|Slider|4|2|2|0|12|78
+Steven Okert|L|Ryan Schimpf|L|Strikeout|F|Cutter|5|3|2|0|5|85
+Steven Okert|L|Ryan Schimpf|L|Strikeout|F|Cutter|6|3|2|0|7|87
+Steven Okert|L|Ryan Schimpf|L|Strikeout|S|Two-Seam Fastball|7|3|2|0|12|91
+Steven Okert|L|Austin Hedges|R|Flyout|B|Cutter|8|0|0|1|6|86
+Steven Okert|L|Austin Hedges|R|Flyout|B|Four-Seam Fastball|9|1|0|1|12|90
+Steven Okert|L|Austin Hedges|R|Flyout|S|Cutter|10|2|0|1|13|86
+Steven Okert|L|Austin Hedges|R|Flyout|X|Four-Seam Fastball|11|2|1|1|4|91
+Steven Okert|L|Hunter Renfroe|R|Groundout|C|Two-Seam Fastball|12|0|0|2|8|90
+Steven Okert|L|Hunter Renfroe|R|Groundout|F|Four-Seam Fastball|13|0|1|2|13|87
+Steven Okert|L|Hunter Renfroe|R|Groundout|X|Two-Seam Fastball|14|0|2|2|12|90
+Steven Okert|L|Cristhian Adames|R|Lineout|S|Cutter|0|0|0|2|7|88
+Steven Okert|L|Cristhian Adames|R|Lineout|B|Two-Seam Fastball|1|0|1|2|12|91
+Steven Okert|L|Cristhian Adames|R|Lineout|F|Four-Seam Fastball|2|1|1|2|2|92
+Steven Okert|L|Cristhian Adames|R|Lineout|F|Four-Seam Fastball|3|1|2|2|13|89
+Steven Okert|L|Cristhian Adames|R|Lineout|F|Cutter|4|1|2|2|4|87
+Steven Okert|L|Cristhian Adames|R|Lineout|F|Four-Seam Fastball|5|1|2|2|11|90
+Steven Okert|L|Cristhian Adames|R|Lineout|B|Two-Seam Fastball|6|1|2|2|12|92
+Steven Okert|L|Cristhian Adames|R|Lineout|F|Two-Seam Fastball|7|2|2|2|6|92
+Steven Okert|L|Cristhian Adames|R|Lineout|X|Cutter|8|2|2|2|4|89
+Steven Okert|L|Tony Wolters|L|Pop Out|X|Four-Seam Fastball|9|0|0|0|12|92
+Steven Okert|L|Tyler Chatwood|R|Groundout|B|Four-Seam Fastball|10|0|0|1|12|92
+Steven Okert|L|Tyler Chatwood|R|Groundout|F|Four-Seam Fastball|11|1|0|1|4|92
+Steven Okert|L|Tyler Chatwood|R|Groundout|B|Slider|12|1|1|1|12|79
+Steven Okert|L|Tyler Chatwood|R|Groundout|X|Four-Seam Fastball|13|2|1|1|9|90
+Steven Okert|L|Charlie Blackmon|L|Single|C|Slider|14|0|0|2|4|79
+Steven Okert|L|Charlie Blackmon|L|Single|B|Slider|15|0|1|2|11|86
+Steven Okert|L|Charlie Blackmon|L|Single|D|Four-Seam Fastball|16|1|1|2|3|91
+Steven Okert|L|Daniel Descalso|L|Strikeout|L|Slider|17|0|0|2|1|86
+Steven Okert|L|Daniel Descalso|L|Strikeout|L|Slider|18|0|1|2|2|86
+Steven Okert|L|Daniel Descalso|L|Strikeout|B|Cutter|19|0|2|2|12|87
+Steven Okert|L|Daniel Descalso|L|Strikeout|T|Four-Seam Fastball|20|1|2|2|1|92
+Steven Okert|L|Carlos Gonzalez|L|Single|B|Four-Seam Fastball|21|0|0|0|12|91
+Steven Okert|L|Carlos Gonzalez|L|Single|D|Four-Seam Fastball|22|1|0|0|4|87
+Steven Okert|L|Carlos Gonzalez|L|Groundout|S|Slider|0|0|0|0|7|82
+Steven Okert|L|Carlos Gonzalez|L|Groundout|X|Four-Seam Fastball|1|0|1|0|9|91
+Steven Okert|L|Eric Hosmer|L|Groundout|W|Slider|0|0|0|1|13|83
+Steven Okert|L|Eric Hosmer|L|Groundout|*B|Slider|1|0|1|1|13|82
+Steven Okert|L|Eric Hosmer|L|Groundout|F|Four-Seam Fastball|2|1|1|1|13|92
+Steven Okert|L|Eric Hosmer|L|Groundout|X|Slider|3|1|2|1|9|81
+Steven Okert|L|Paulo Orlando|R|Single|C|Four-Seam Fastball|0|0|0|0|9|93
+Steven Okert|L|Paulo Orlando|R|Single|B|Changeup|1|0|1|0|13|87
+Steven Okert|L|Paulo Orlando|R|Single|B|Two-Seam Fastball|2|1|1|0|12|91
+Steven Okert|L|Paulo Orlando|R|Single|B|Four-Seam Fastball|3|2|1|0|12|92
+Steven Okert|L|Paulo Orlando|R|Single|F|Cutter|4|3|1|0|7|88
+Steven Okert|L|Paulo Orlando|R|Single|D|Cutter|5|3|2|0|14|89
+Steven Okert|L|Alex Gordon|L|Flyout|C|Four-Seam Fastball|6|0|0|0|1|92
+Steven Okert|L|Alex Gordon|L|Flyout|S|Slider|7|0|1|0|9|80
+Steven Okert|L|Alex Gordon|L|Flyout|B|Four-Seam Fastball|8|0|2|0|11|93
+Steven Okert|L|Alex Gordon|L|Flyout|X|Slider|9|1|2|0|7|83
+Steven Okert|L|Mike Moustakas|L|Strikeout|S|Cutter|10|0|0|1|13|89
+Steven Okert|L|Mike Moustakas|L|Strikeout|S|Slider|11|0|1|1|8|80
+Steven Okert|L|Mike Moustakas|L|Strikeout|B|Four-Seam Fastball|12|0|2|1|11|93
+Steven Okert|L|Mike Moustakas|L|Strikeout|B|Four-Seam Fastball|13|1|2|1|13|92
+Steven Okert|L|Mike Moustakas|L|Strikeout|S|Slider|14|2|2|1|13|82
+Steven Okert|L|Tony Wolters|L|Double|C|Four-Seam Fastball|0|0|0|0|12|91
+Steven Okert|L|Tony Wolters|L|Double|B|Slider|1|0|1|0|13|81
+Steven Okert|L|Tony Wolters|L|Double|D|Cutter|2|1|1|0|7|89
+Steven Okert|L|Stephen Cardullo|R|Strikeout|B|Two-Seam Fastball|3|0|0|0|12|91
+Steven Okert|L|Stephen Cardullo|R|Strikeout|L|Two-Seam Fastball|4|1|0|0|12|90
+Steven Okert|L|Stephen Cardullo|R|Strikeout|L|Four-Seam Fastball|5|1|1|0|14|91
+Steven Okert|L|Stephen Cardullo|R|Strikeout|S|Slider|6|1|2|0|14|81
+Steven Okert|L|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|7|0|0|1|6|93
+Steven Okert|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|8|0|1|1|13|92
+Steven Okert|L|Charlie Blackmon|L|Groundout|T|Four-Seam Fastball|9|1|1|1|4|93
+Steven Okert|L|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|10|1|2|1|13|93
+Steven Okert|L|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|11|1|2|1|6|92
+Steven Okert|L|Charlie Blackmon|L|Groundout|F|Cutter|12|1|2|1|11|89
+Steven Okert|L|Charlie Blackmon|L|Groundout|X|N/A|13|1|2|1|0|0
+Steven Okert|L|Tony Wolters|L|Hit By Pitch|F|Cutter|0|0|0|0|5|89
+Steven Okert|L|Tony Wolters|L|Hit By Pitch|B|Four-Seam Fastball|1|0|1|0|13|89
+Steven Okert|L|Tony Wolters|L|Hit By Pitch|B|Cutter|2|1|1|0|11|88
+Steven Okert|L|Tony Wolters|L|Hit By Pitch|F|Four-Seam Fastball|3|2|1|0|4|91
+Steven Okert|L|Tony Wolters|L|Hit By Pitch|H|Slider|4|2|2|0|12|80
+Steven Okert|L|Kyle Freeland|L|Sac Bunt|L|Four-Seam Fastball|5|0|0|0|5|91
+Steven Okert|L|Kyle Freeland|L|Sac Bunt|X|Cutter|6|0|1|0|7|87
+Steven Okert|L|Charlie Blackmon|L|Double|B|Cutter|7|0|0|1|8|89
+Steven Okert|L|Charlie Blackmon|L|Double|S|Cutter|8|1|0|1|13|89
+Steven Okert|L|Charlie Blackmon|L|Double|E|Four-Seam Fastball|9|1|1|1|5|92
+Steven Okert|L|DJ LeMahieu|R|Groundout|B|Slider|10|0|0|1|14|81
+Steven Okert|L|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|11|1|0|1|4|90
+Steven Okert|L|Yasmani Grandal|R|Groundout|B|Two-Seam Fastball|0|0|0|0|13|90
+Steven Okert|L|Yasmani Grandal|R|Groundout|S|Cutter|1|1|0|0|13|87
+Steven Okert|L|Yasmani Grandal|R|Groundout|B|Changeup|2|1|1|0|13|83
+Steven Okert|L|Yasmani Grandal|R|Groundout|X|Cutter|3|2|1|0|4|88
+Steven Okert|L|Adrian Gonzalez|L|Lineout|B|Slider|4|0|0|1|14|81
+Steven Okert|L|Adrian Gonzalez|L|Lineout|X|Cutter|5|1|0|1|4|86
+Steven Okert|L|Cody Bellinger|L|Lineout|F|Slider|0|0|0|0|6|80
+Steven Okert|L|Cody Bellinger|L|Lineout|B|Four-Seam Fastball|1|0|1|0|12|91
+Steven Okert|L|Cody Bellinger|L|Lineout|B|Cutter|2|1|1|0|13|88
+Steven Okert|L|Cody Bellinger|L|Lineout|X|Four-Seam Fastball|3|2|1|0|5|89
+Steven Okert|L|Corey Seager|L|Flyout|X|Four-Seam Fastball|4|0|0|1|6|92
+Steven Okert|L|Justin Turner|R|Groundout|C|Two-Seam Fastball|5|0|0|2|6|91
+Steven Okert|L|Justin Turner|R|Groundout|B|Changeup|6|0|1|2|14|85
+Steven Okert|L|Justin Turner|R|Groundout|B|Changeup|7|1|1|2|14|85
+Steven Okert|L|Justin Turner|R|Groundout|X|Changeup|8|2|1|2|8|85
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|C|Slider|9|0|0|0|8|81
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|S|Cutter|10|0|1|0|13|87
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|11|0|2|0|9|91
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|12|0|2|0|13|89
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|B|Cutter|13|1|2|0|14|87
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|S|Cutter|14|2|2|0|14|89
+Steven Okert|L|Yasmani Grandal|R|Groundout|F|Changeup|15|0|0|1|5|85
+Steven Okert|L|Yasmani Grandal|R|Groundout|B|Four-Seam Fastball|16|0|1|1|13|92
+Steven Okert|L|Yasmani Grandal|R|Groundout|B|Two-Seam Fastball|17|1|1|1|12|91
+Steven Okert|L|Yasmani Grandal|R|Groundout|F|Cutter|18|2|1|1|4|89
+Steven Okert|L|Yasmani Grandal|R|Groundout|X|Cutter|19|2|2|1|11|89
+Steven Okert|L|Chase Utley|L|Single|L|Four-Seam Fastball|0|0|0|0|7|90
+Steven Okert|L|Chase Utley|L|Single|B|Four-Seam Fastball|1|0|1|0|13|91
+Steven Okert|L|Chase Utley|L|Single|L|Four-Seam Fastball|2|1|1|0|9|89
+Steven Okert|L|Chase Utley|L|Single|F|Cutter|3|1|2|0|11|88
+Steven Okert|L|Chase Utley|L|Single|B|Cutter|4|1|2|0|13|88
+Steven Okert|L|Chase Utley|L|Single|B|Cutter|5|2|2|0|14|88
+Steven Okert|L|Chase Utley|L|Single|D|Cutter|6|3|2|0|13|88
+Steven Okert|L|Yasmani Grandal|R|Walk|B|Cutter|7|0|0|0|14|89
+Steven Okert|L|Yasmani Grandal|R|Walk|F|Cutter|8|1|0|0|6|87
+Steven Okert|L|Yasmani Grandal|R|Walk|S|Four-Seam Fastball|9|1|1|0|3|90
+Steven Okert|L|Yasmani Grandal|R|Walk|F|Four-Seam Fastball|10|1|2|0|12|92
+Steven Okert|L|Yasmani Grandal|R|Walk|B|Four-Seam Fastball|11|1|2|0|12|92
+Steven Okert|L|Yasmani Grandal|R|Walk|B|Cutter|12|2|2|0|13|89
+Steven Okert|L|Yasmani Grandal|R|Walk|B|Four-Seam Fastball|13|3|2|0|13|90
+Steven Okert|L|Andrew Toles|L|Single|B|Cutter|14|0|0|0|13|87
+Steven Okert|L|Andrew Toles|L|Single|F|Four-Seam Fastball|15|1|0|0|5|91
+Steven Okert|L|Andrew Toles|L|Single|C|Four-Seam Fastball|16|1|1|0|13|90
+Steven Okert|L|Andrew Toles|L|Single|F|Slider|17|1|2|0|7|80
+Steven Okert|L|Andrew Toles|L|Single|E|Cutter|18|1|2|0|4|89
+Steven Okert|L|Corey Seager|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|89
+Steven Okert|L|Corey Seager|L|Flyout|S|Cutter|1|1|0|0|11|88
+Steven Okert|L|Corey Seager|L|Flyout|F|Four-Seam Fastball|2|1|1|0|11|91
+Steven Okert|L|Corey Seager|L|Flyout|F|Four-Seam Fastball|3|1|2|0|1|93
+Steven Okert|L|Corey Seager|L|Flyout|X|Four-Seam Fastball|4|1|2|0|8|89
+Steven Okert|L|Justin Turner|R|Lineout|X|Changeup|5|0|0|1|14|86
+Steven Okert|L|Yasmani Grandal|R|Strikeout|F|Two-Seam Fastball|6|0|0|2|11|89
+Steven Okert|L|Yasmani Grandal|R|Strikeout|C|Cutter|7|0|1|2|3|87
+Steven Okert|L|Yasmani Grandal|R|Strikeout|T|Four-Seam Fastball|8|0|2|2|2|91
+Steven Okert|L|Adrian Gonzalez|L|Flyout|C|Four-Seam Fastball|9|0|0|0|4|90
+Steven Okert|L|Adrian Gonzalez|L|Flyout|B|Slider|10|0|1|0|13|82
+Steven Okert|L|Adrian Gonzalez|L|Flyout|B|Cutter|11|1|1|0|13|89
+Steven Okert|L|Adrian Gonzalez|L|Flyout|S|Four-Seam Fastball|12|2|1|0|2|90
+Steven Okert|L|Adrian Gonzalez|L|Flyout|F|Four-Seam Fastball|13|2|2|0|1|92
+Steven Okert|L|Adrian Gonzalez|L|Flyout|X|Two-Seam Fastball|14|2|2|0|6|89
+Steven Okert|L|Cody Bellinger|L|Pop Out|B|Four-Seam Fastball|15|0|0|1|12|91
+Steven Okert|L|Cody Bellinger|L|Pop Out|X|Four-Seam Fastball|16|1|0|1|14|90
+Steven Okert|L|Corey Seager|L|Grounded Into DP|B|Cutter|0|0|0|2|13|85
+Steven Okert|L|Corey Seager|L|Grounded Into DP|*B|Cutter|1|1|0|2|13|88
+Steven Okert|L|Corey Seager|L|Grounded Into DP|X|Four-Seam Fastball|2|2|0|2|6|89
+Steven Okert|L|Justin Turner|R|Hit By Pitch|H|Cutter|3|0|0|1|13|88
+Steven Okert|L|Yasmani Grandal|R|Flyout|L|Two-Seam Fastball|4|0|0|1|9|90
+Steven Okert|L|Yasmani Grandal|R|Flyout|L|Two-Seam Fastball|5|0|1|1|14|92
+Steven Okert|L|Yasmani Grandal|R|Flyout|B|Four-Seam Fastball|6|0|2|1|12|93
+Steven Okert|L|Yasmani Grandal|R|Flyout|X|Cutter|7|1|2|1|9|88
+Steven Okert|L|Cody Bellinger|L|Flyout|B|Cutter|8|0|0|2|13|89
+Steven Okert|L|Cody Bellinger|L|Flyout|X|Two-Seam Fastball|9|1|0|2|6|92
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|C|Four-Seam Fastball|10|0|0|0|13|90
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|11|0|1|0|6|94
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|12|0|2|0|13|93
+Steven Okert|L|Adrian Gonzalez|L|Strikeout|T|Four-Seam Fastball|13|1|2|0|3|94
+Steven Okert|L|Stuart Turner|R|Groundout|C|Cutter|0|0|0|0|4|88
+Steven Okert|L|Stuart Turner|R|Groundout|X|Four-Seam Fastball|1|0|1|0|11|92
+Steven Okert|L|Billy Hamilton|R|Flyout|B|Cutter|2|0|0|1|8|89
+Steven Okert|L|Billy Hamilton|R|Flyout|C|Cutter|3|1|0|1|9|89
+Steven Okert|L|Billy Hamilton|R|Flyout|C|Four-Seam Fastball|4|1|1|1|13|92
+Steven Okert|L|Billy Hamilton|R|Flyout|B|Changeup|5|1|2|1|14|86
+Steven Okert|L|Billy Hamilton|R|Flyout|F|Four-Seam Fastball|6|2|2|1|6|92
+Steven Okert|L|Billy Hamilton|R|Flyout|X|Slider|7|2|2|1|6|80
+Steven Okert|L|Zack Cozart|R|Double|B|Changeup|8|0|0|2|14|86
+Steven Okert|L|Zack Cozart|R|Double|C|Slider|9|1|0|2|14|81
+Steven Okert|L|Zack Cozart|R|Double|F|Four-Seam Fastball|10|1|1|2|11|92
+Steven Okert|L|Zack Cozart|R|Double|F|Four-Seam Fastball|11|1|2|2|11|92
+Steven Okert|L|Zack Cozart|R|Double|B|Four-Seam Fastball|12|1|2|2|14|92
+Steven Okert|L|Zack Cozart|R|Double|F|Four-Seam Fastball|13|2|2|2|12|91
+Steven Okert|L|Zack Cozart|R|Double|F|Cutter|14|2|2|2|7|89
+Steven Okert|L|Zack Cozart|R|Double|D|Four-Seam Fastball|15|2|2|2|2|92
+Steven Okert|L|Arismendy Alcantara|R|Double|B|Four-Seam Fastball|16|0|0|2|12|92
+Steven Okert|L|Arismendy Alcantara|R|Double|C|Cutter|17|1|0|2|3|88
+Steven Okert|L|Arismendy Alcantara|R|Double|B|Four-Seam Fastball|18|1|1|2|11|91
+Steven Okert|L|Arismendy Alcantara|R|Double|S|Four-Seam Fastball|19|2|1|2|2|91
+Steven Okert|L|Arismendy Alcantara|R|Double|E|Four-Seam Fastball|20|2|2|2|8|92
+Steven Okert|L|Adam Duvall|R|Walk|B|Slider|21|0|0|2|13|82
+Steven Okert|L|Adam Duvall|R|Walk|C|Cutter|22|1|0|2|11|89
+Steven Okert|L|Adam Duvall|R|Walk|B|Two-Seam Fastball|23|1|1|2|14|90
+Steven Okert|L|Adam Duvall|R|Walk|C|Slider|24|2|1|2|5|79
+Steven Okert|L|Adam Duvall|R|Walk|B|Four-Seam Fastball|25|2|2|2|11|92
+Steven Okert|L|Adam Duvall|R|Walk|B|Slider|26|3|2|2|12|80
+Steven Okert|L|Scooter Gennett|L|Single|B|Cutter|27|0|0|2|12|89
+Steven Okert|L|Scooter Gennett|L|Single|C|Slider|28|1|0|2|12|80
+Steven Okert|L|Scooter Gennett|L|Single|E|Cutter|29|1|1|2|5|88
+Steven Okert|L|Michael Conforto|L|Strikeout|C|Slider|0|0|0|2|7|83
+Steven Okert|L|Michael Conforto|L|Strikeout|C|Two-Seam Fastball|1|0|1|2|9|92
+Steven Okert|L|Michael Conforto|L|Strikeout|S|Four-Seam Fastball|2|0|2|2|12|91
+Steven Okert|L|T.J. Rivera|R|Groundout|B|Two-Seam Fastball|3|0|0|0|12|90
+Steven Okert|L|T.J. Rivera|R|Groundout|X|Two-Seam Fastball|4|1|0|0|3|89
+Steven Okert|L|Jay Bruce|L|Strikeout|C|Slider|5|0|0|1|7|83
+Steven Okert|L|Jay Bruce|L|Strikeout|B|Cutter|6|0|1|1|11|89
+Steven Okert|L|Jay Bruce|L|Strikeout|S|Slider|7|1|1|1|13|83
+Steven Okert|L|Jay Bruce|L|Strikeout|B|Slider|8|1|2|1|13|83
+Steven Okert|L|Jay Bruce|L|Strikeout|S|Slider|9|2|2|1|7|83
+Steven Okert|L|Wilmer Flores|R|Flyout|F|Two-Seam Fastball|10|0|0|2|14|91
+Steven Okert|L|Wilmer Flores|R|Flyout|B|Two-Seam Fastball|11|0|1|2|12|92
+Steven Okert|L|Wilmer Flores|R|Flyout|X|Two-Seam Fastball|12|1|1|2|6|90
+Steven Okert|L|Jay Bruce|L|Single|C|Two-Seam Fastball|0|0|0|1|9|90
+Steven Okert|L|Jay Bruce|L|Single|D|Two-Seam Fastball|1|0|1|1|12|89
+Steven Okert|L|Neil Walker|R|Walk|C|Cutter|2|0|0|1|9|88
+Steven Okert|L|Neil Walker|R|Walk|B|Four-Seam Fastball|3|0|1|1|12|91
+Steven Okert|L|Neil Walker|R|Walk|B|Four-Seam Fastball|4|1|1|1|12|91
+Steven Okert|L|Neil Walker|R|Walk|B|Slider|5|2|1|1|14|79
+Steven Okert|L|Neil Walker|R|Walk|B|Cutter|6|3|1|1|13|88
+Steven Okert|L|Curtis Granderson|L|Pop Out|C|Slider|7|0|0|1|5|81
+Steven Okert|L|Curtis Granderson|L|Pop Out|B|Four-Seam Fastball|8|0|1|1|11|91
+Steven Okert|L|Curtis Granderson|L|Pop Out|B|Four-Seam Fastball|9|1|1|1|12|90
+Steven Okert|L|Curtis Granderson|L|Pop Out|F|Slider|10|2|1|1|13|82
+Steven Okert|L|Curtis Granderson|L|Pop Out|F|Slider|11|2|2|1|6|80
+Steven Okert|L|Curtis Granderson|L|Pop Out|X|Four-Seam Fastball|12|2|2|1|11|91
+Steven Okert|L|Scooter Gennett|L|Walk|B|Slider|0|0|0|0|11|84
+Steven Okert|L|Scooter Gennett|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|90
+Steven Okert|L|Scooter Gennett|L|Walk|B|Cutter|2|2|0|0|13|87
+Steven Okert|L|Scooter Gennett|L|Walk|B|Four-Seam Fastball|3|3|0|0|12|90
+Steven Okert|L|Tucker Barnhart|R|Sac Bunt|X|Two-Seam Fastball|4|0|0|0|8|89
+Steven Okert|L|Scooter Gennett|L|Flyout|B|Four-Seam Fastball|0|0|0|2|11|90
+Steven Okert|L|Scooter Gennett|L|Flyout|B|Cutter|1|1|0|2|13|87
+Steven Okert|L|Scooter Gennett|L|Flyout|C|Four-Seam Fastball|2|2|0|2|4|90
+Steven Okert|L|Scooter Gennett|L|Flyout|S|Four-Seam Fastball|3|2|1|2|2|90
+Steven Okert|L|Scooter Gennett|L|Flyout|F|Four-Seam Fastball|4|2|2|2|9|90
+Steven Okert|L|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|5|2|2|2|3|89
+Steven Okert|L|Joey Votto|L|Flyout|B|Four-Seam Fastball|6|0|0|0|11|91
+Steven Okert|L|Joey Votto|L|Flyout|S|Cutter|7|1|0|0|2|86
+Steven Okert|L|Joey Votto|L|Flyout|C|Slider|8|1|1|0|9|79
+Steven Okert|L|Joey Votto|L|Flyout|B|Slider|9|1|2|0|13|81
+Steven Okert|L|Joey Votto|L|Flyout|F|Cutter|10|2|2|0|13|89
+Steven Okert|L|Joey Votto|L|Flyout|X|Four-Seam Fastball|11|2|2|0|1|91
+Steven Okert|L|Adam Duvall|R|Double|C|Two-Seam Fastball|12|0|0|1|3|90
+Steven Okert|L|Adam Duvall|R|Double|B|Changeup|13|0|1|1|14|84
+Steven Okert|L|Adam Duvall|R|Double|F|Changeup|14|1|1|1|12|84
+Steven Okert|L|Adam Duvall|R|Double|F|Cutter|15|1|2|1|1|88
+Steven Okert|L|Adam Duvall|R|Double|B|Slider|16|1|2|1|12|82
+Steven Okert|L|Adam Duvall|R|Double|F|Two-Seam Fastball|17|2|2|1|14|90
+Steven Okert|L|Adam Duvall|R|Double|D|Cutter|18|2|2|1|5|89
+Steven Okert|L|Kolten Wong|L|Walk|B|Two-Seam Fastball|0|0|0|0|12|91
+Steven Okert|L|Kolten Wong|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|90
+Steven Okert|L|Kolten Wong|L|Walk|C|Four-Seam Fastball|2|2|0|0|5|90
+Steven Okert|L|Kolten Wong|L|Walk|F|Cutter|3|2|1|0|5|88
+Steven Okert|L|Kolten Wong|L|Walk|B|Two-Seam Fastball|4|2|2|0|1|91
+Steven Okert|L|Kolten Wong|L|Walk|B|Four-Seam Fastball|5|3|2|0|12|91
+Steven Okert|L|Jhonny Peralta|R|Single|C|Cutter|6|0|0|0|9|89
+Steven Okert|L|Jhonny Peralta|R|Single|F|Four-Seam Fastball|7|0|1|0|5|91
+Steven Okert|L|Jhonny Peralta|R|Single|D|Four-Seam Fastball|8|0|2|0|5|91
+Steven Okert|L|Dexter Fowler|R|Flyout|F|Two-Seam Fastball|0|0|0|1|5|89
+Steven Okert|L|Dexter Fowler|R|Flyout|C|Cutter|1|0|1|1|6|87
+Steven Okert|L|Dexter Fowler|R|Flyout|B|Four-Seam Fastball|2|0|2|1|12|91
+Steven Okert|L|Dexter Fowler|R|Flyout|F|Slider|3|1|2|1|9|81
+Steven Okert|L|Dexter Fowler|R|Flyout|X|Four-Seam Fastball|4|1|2|1|13|91
+Steven Okert|L|Greg Garcia|L|Lineout|B|Slider|5|0|0|2|14|80
+Steven Okert|L|Greg Garcia|L|Lineout|B|Two-Seam Fastball|6|1|0|2|12|88
+Steven Okert|L|Greg Garcia|L|Lineout|X|Cutter|7|2|0|2|8|87
+Steven Okert|L|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|0|0|0|1|13|93
+Steven Okert|L|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|1|1|0|1|13|92
+Steven Okert|L|Anthony Rizzo|L|Hit By Pitch|F|Four-Seam Fastball|2|2|0|1|8|90
+Steven Okert|L|Anthony Rizzo|L|Hit By Pitch|H|Slider|3|2|1|1|12|80
+Steven Okert|L|Jason Heyward|L|Triple|F|Two-Seam Fastball|0|0|0|0|14|89
+Steven Okert|L|Jason Heyward|L|Triple|D|Two-Seam Fastball|1|0|1|0|14|91
+Steven Okert|L|Addison Russell|R|Walk|*B|Two-Seam Fastball|2|0|0|0|13|92
+Steven Okert|L|Addison Russell|R|Walk|F|Changeup|3|1|0|0|14|83
+Steven Okert|L|Addison Russell|R|Walk|B|Cutter|4|1|1|0|13|88
+Steven Okert|L|Addison Russell|R|Walk|S|Cutter|5|2|1|0|7|88
+Steven Okert|L|Addison Russell|R|Walk|B|Cutter|6|2|2|0|13|90
+Steven Okert|L|Addison Russell|R|Walk|B|Four-Seam Fastball|7|3|2|0|13|90
+Steven Okert|L|Jon Jay|L|Sac Fly|B|Four-Seam Fastball|8|0|0|0|14|90
+Steven Okert|L|Jon Jay|L|Sac Fly|E|Four-Seam Fastball|9|1|0|0|5|90
+Steven Okert|L|Seth Lugo|R|Groundout|C|Four-Seam Fastball|0|0|0|0|5|93
+Steven Okert|L|Seth Lugo|R|Groundout|B|Four-Seam Fastball|1|0|1|0|13|90
+Steven Okert|L|Seth Lugo|R|Groundout|X|Changeup|2|1|1|0|6|85
+Steven Okert|L|Curtis Granderson|L|Single|B|Cutter|3|0|0|1|13|85
+Steven Okert|L|Curtis Granderson|L|Single|C|Four-Seam Fastball|4|1|0|1|2|91
+Steven Okert|L|Curtis Granderson|L|Single|C|Slider|5|1|1|1|6|82
+Steven Okert|L|Curtis Granderson|L|Single|B|Cutter|6|1|2|1|11|85
+Steven Okert|L|Curtis Granderson|L|Single|D|Slider|7|2|2|1|8|81
+Steven Okert|L|Asdrubal Cabrera|R|Single|*B|Four-Seam Fastball|8|0|0|1|13|89
+Steven Okert|L|Asdrubal Cabrera|R|Single|D|Two-Seam Fastball|9|1|0|1|13|92
+Steven Okert|L|Yoenis Cespedes|R|Double|C|Four-Seam Fastball|10|0|0|1|4|93
+Steven Okert|L|Yoenis Cespedes|R|Double|F|Four-Seam Fastball|11|0|1|1|6|95
+Steven Okert|L|Yoenis Cespedes|R|Double|F|Cutter|12|0|2|1|13|86
+Steven Okert|L|Yoenis Cespedes|R|Double|B|Slider|13|0|2|1|14|81
+Steven Okert|L|Yoenis Cespedes|R|Double|F|Slider|14|1|2|1|13|82
+Steven Okert|L|Yoenis Cespedes|R|Double|F|Four-Seam Fastball|15|1|2|1|4|93
+Steven Okert|L|Yoenis Cespedes|R|Double|F|Slider|16|1|2|1|14|83
+Steven Okert|L|Yoenis Cespedes|R|Double|E|Two-Seam Fastball|17|1|2|1|9|92
+Steven Okert|L|Wilmer Flores|R|Sac Fly|E|Four-Seam Fastball|18|0|0|1|11|93
+Steven Okert|L|Michael Conforto|L|Single|B|Slider|19|0|0|2|13|83
+Steven Okert|L|Michael Conforto|L|Single|C|Slider|20|1|0|2|3|81
+Steven Okert|L|Michael Conforto|L|Single|F|Slider|21|1|1|2|9|83
+Steven Okert|L|Michael Conforto|L|Single|E|Cutter|22|1|2|2|14|85
+Steven Okert|L|Travis d'Arnaud|R|Flyout|T|Four-Seam Fastball|23|0|0|2|6|92
+Steven Okert|L|Travis d'Arnaud|R|Flyout|B|Two-Seam Fastball|24|0|1|2|14|91
+Steven Okert|L|Travis d'Arnaud|R|Flyout|B|Two-Seam Fastball|25|1|1|2|12|91
+Steven Okert|L|Travis d'Arnaud|R|Flyout|B|Four-Seam Fastball|26|2|1|2|9|88
+Steven Okert|L|Travis d'Arnaud|R|Flyout|X|Four-Seam Fastball|27|3|1|2|6|88
+Steven Okert|L|Jay Bruce|L|Single|C|Two-Seam Fastball|0|0|0|1|3|92
+Steven Okert|L|Jay Bruce|L|Single|E|Cutter|1|0|1|1|11|89
+Steven Okert|L|Lucas Duda|L|Strikeout|C|Slider|2|0|0|1|6|84
+Steven Okert|L|Lucas Duda|L|Strikeout|*B|Slider|3|0|1|1|13|84
+Steven Okert|L|Lucas Duda|L|Strikeout|S|Four-Seam Fastball|4|1|1|1|5|92
+Steven Okert|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|5|1|2|1|2|94
+Steven Okert|L|Lucas Duda|L|Strikeout|S|Four-Seam Fastball|6|1|2|1|2|91
+Steven Okert|L|Tony Wolters|L|Strikeout|B|Cutter|0|0|0|0|13|88
+Steven Okert|L|Tony Wolters|L|Strikeout|C|Cutter|1|1|0|0|4|89
+Steven Okert|L|Tony Wolters|L|Strikeout|B|Slider|2|1|1|0|11|83
+Steven Okert|L|Tony Wolters|L|Strikeout|B|Four-Seam Fastball|3|2|1|0|11|91
+Steven Okert|L|Tony Wolters|L|Strikeout|C|Four-Seam Fastball|4|3|1|0|6|92
+Steven Okert|L|Tony Wolters|L|Strikeout|F|Four-Seam Fastball|5|3|2|0|1|91
+Steven Okert|L|Tony Wolters|L|Strikeout|S|Four-Seam Fastball|6|3|2|0|11|93
+Steven Okert|L|Jeff Hoffman|R|Strikeout|B|Two-Seam Fastball|7|0|0|1|12|93
+Steven Okert|L|Jeff Hoffman|R|Strikeout|C|Two-Seam Fastball|8|1|0|1|8|92
+Steven Okert|L|Jeff Hoffman|R|Strikeout|S|Two-Seam Fastball|9|1|1|1|3|91
+Steven Okert|L|Jeff Hoffman|R|Strikeout|S|Two-Seam Fastball|10|1|2|1|12|93
+Steven Okert|L|Charlie Blackmon|L|Walk|C|Four-Seam Fastball|11|0|0|2|5|92
+Steven Okert|L|Charlie Blackmon|L|Walk|B|Slider|12|0|1|2|13|84
+Steven Okert|L|Charlie Blackmon|L|Walk|B|Cutter|13|1|1|2|13|88
+Steven Okert|L|Charlie Blackmon|L|Walk|B|Cutter|14|2|1|2|13|89
+Steven Okert|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|15|3|1|2|11|91
+Steven Okert|L|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|16|0|0|2|2|92
+Steven Okert|L|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|17|0|1|2|12|93
+Steven Okert|L|Raimel Tapia|L|Strikeout|F|Cutter|18|0|2|2|11|89
+Steven Okert|L|Raimel Tapia|L|Strikeout|B|Cutter|19|0|2|2|13|86
+Steven Okert|L|Raimel Tapia|L|Strikeout|F|Cutter|20|1|2|2|5|88
+Steven Okert|L|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|21|1|2|2|12|93
+Steven Okert|L|Mike Tauchman|L|Flyout|B|Cutter|0|0|0|1|11|88
+Steven Okert|L|Mike Tauchman|L|Flyout|S|Four-Seam Fastball|1|1|0|1|2|90
+Steven Okert|L|Mike Tauchman|L|Flyout|X|Four-Seam Fastball|2|1|1|1|2|90
+Steven Okert|L|Tom Murphy|R|Lineout|B|Two-Seam Fastball|3|0|0|2|12|91
+Steven Okert|L|Tom Murphy|R|Lineout|F|Two-Seam Fastball|4|1|0|2|12|89
+Steven Okert|L|Tom Murphy|R|Lineout|F|Cutter|5|1|1|2|11|87
+Steven Okert|L|Tom Murphy|R|Lineout|X|Slider|6|1|2|2|14|81
+Steven Okert|L|Raimel Tapia|L|Groundout|B|Four-Seam Fastball|7|0|0|0|13|89
+Steven Okert|L|Raimel Tapia|L|Groundout|C|Four-Seam Fastball|8|1|0|0|2|89
+Steven Okert|L|Raimel Tapia|L|Groundout|F|Cutter|9|1|1|0|14|88
+Steven Okert|L|Raimel Tapia|L|Groundout|B|Slider|10|1|2|0|13|82
+Steven Okert|L|Raimel Tapia|L|Groundout|B|Four-Seam Fastball|11|2|2|0|11|90
+Steven Okert|L|Raimel Tapia|L|Groundout|F|Four-Seam Fastball|12|3|2|0|6|90
+Steven Okert|L|Raimel Tapia|L|Groundout|F|Four-Seam Fastball|13|3|2|0|4|90
+Steven Okert|L|Raimel Tapia|L|Groundout|X|Four-Seam Fastball|14|3|2|0|8|90
+Steven Okert|L|Charlie Blackmon|L|Flyout|C|Four-Seam Fastball|15|0|0|1|2|92
+Steven Okert|L|Charlie Blackmon|L|Flyout|X|Slider|16|0|1|1|11|81
+Steven Okert|L|Elias Diaz|R|Groundout|C|Changeup|0|0|0|0|14|83
+Steven Okert|L|Elias Diaz|R|Groundout|X|Cutter|1|0|1|0|6|87
+Steven Okert|L|Gregory Polanco|L|Single|B|Cutter|2|0|0|1|13|88
+Steven Okert|L|Gregory Polanco|L|Single|C|Four-Seam Fastball|3|1|0|1|9|90
+Steven Okert|L|Gregory Polanco|L|Single|D|Four-Seam Fastball|4|1|1|1|6|91
+Steven Okert|L|Max Moroff|R|Strikeout|F|Two-Seam Fastball|5|0|0|1|12|90
+Steven Okert|L|Max Moroff|R|Strikeout|S|Cutter|6|0|1|1|13|88
+Steven Okert|L|Max Moroff|R|Strikeout|F|Cutter|7|0|2|1|1|86
+Steven Okert|L|Max Moroff|R|Strikeout|B|Two-Seam Fastball|8|0|2|1|12|92
+Steven Okert|L|Max Moroff|R|Strikeout|S|Cutter|9|1|2|1|13|89
+Steven Okert|L|John Jaso|L|Home Run|C|Cutter|0|0|0|2|1|89
+Steven Okert|L|John Jaso|L|Home Run|B|Slider|1|0|1|2|11|85
+Steven Okert|L|John Jaso|L|Home Run|F|Four-Seam Fastball|2|1|1|2|5|90
+Steven Okert|L|John Jaso|L|Home Run|F|Cutter|3|1|2|2|5|85
+Steven Okert|L|John Jaso|L|Home Run|E|Cutter|4|1|2|2|1|86
+Steven Okert|L|Josh Bell|R|Pop Out|B|Changeup|5|0|0|2|14|84
+Steven Okert|L|Josh Bell|R|Pop Out|S|Changeup|6|1|0|2|8|84
+Steven Okert|L|Josh Bell|R|Pop Out|X|Four-Seam Fastball|7|1|1|2|1|89
+Steven Okert|L|Alex Avila|L|Strikeout|C|Curveball|0|0|0|0|9|77
+Steven Okert|L|Alex Avila|L|Strikeout|W|Slider|1|0|1|0|13|82
+Steven Okert|L|Alex Avila|L|Strikeout|B|Slider|2|0|2|0|13|82
+Steven Okert|L|Alex Avila|L|Strikeout|C|Slider|3|1|2|0|2|83
+Steven Okert|L|Justin Bour|L|Groundout|C|Cutter|0|0|0|0|8|86
+Steven Okert|L|Justin Bour|L|Groundout|B|Two-Seam Fastball|1|0|1|0|14|91
+Steven Okert|L|Justin Bour|L|Groundout|B|Slider|2|1|1|0|13|80
+Steven Okert|L|Justin Bour|L|Groundout|X|Two-Seam Fastball|3|2|1|0|3|91
+Steven Okert|L|Justin Bour|L|Single|F|Four-Seam Fastball|0|0|0|0|6|90
+Steven Okert|L|Justin Bour|L|Single|E|Two-Seam Fastball|1|0|1|0|5|91
+Steven Okert|L|Cory Spangenberg|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|91
+Steven Okert|L|Cory Spangenberg|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|2|92
+Steven Okert|L|Cory Spangenberg|L|Strikeout|C|Slider|2|1|1|0|7|78
+Steven Okert|L|Cory Spangenberg|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|3|92
+Steven Okert|L|Cory Spangenberg|L|Strikeout|B|Slider|4|1|2|0|13|83
+Steven Okert|L|Cory Spangenberg|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|5|91
+Steven Okert|L|Erick Aybar|R|Sac Bunt|B|Two-Seam Fastball|0|0|0|0|13|89
+Steven Okert|L|Erick Aybar|R|Sac Bunt|F|Two-Seam Fastball|1|1|0|0|4|90
+Steven Okert|L|Erick Aybar|R|Sac Bunt|X|Two-Seam Fastball|2|1|1|0|12|90
+Steven Okert|L|Hector Sanchez|R|Home Run|E|Cutter|3|0|0|1|1|87
+Steven Okert|L|Francisco Lindor|R|Groundout|C|Slider|0|0|0|0|7|81
+Steven Okert|L|Francisco Lindor|R|Groundout|X|Two-Seam Fastball|1|0|1|0|14|91
+Steven Okert|L|Michael Brantley|L|Double|C|Four-Seam Fastball|2|0|0|1|4|92
+Steven Okert|L|Michael Brantley|L|Double|D|Two-Seam Fastball|3|0|1|1|6|92
+Steven Okert|L|Jose Ramirez|R|Intent Walk|V|N/A|4|0|0|1|0|0
+Steven Okert|L|Jose Ramirez|R|Intent Walk|V|N/A|5|0|1|1|0|0
+Steven Okert|L|Jose Ramirez|R|Intent Walk|V|N/A|6|0|2|1|0|0
+Steven Okert|L|Jose Ramirez|R|Intent Walk|V|N/A|7|0|2|1|0|0
+Steven Okert|L|Carlos Santana|R|Single|E|Four-Seam Fastball|8|0|0|1|11|92
+Steven Okert|L|Abraham Almonte|R|Lineout|X|Changeup|9|0|0|1|12|82
+Steven Okert|L|Hector Sanchez|R|Lineout|F|Two-Seam Fastball|0|0|0|0|6|92
+Steven Okert|L|Hector Sanchez|R|Lineout|S|Two-Seam Fastball|1|0|1|0|4|93
+Steven Okert|L|Hector Sanchez|R|Lineout|B|Four-Seam Fastball|2|0|2|0|12|92
+Steven Okert|L|Hector Sanchez|R|Lineout|B|Changeup|3|1|2|0|14|87
+Steven Okert|L|Hector Sanchez|R|Lineout|X|Two-Seam Fastball|4|2|2|0|3|94
+Steven Okert|L|Cory Spangenberg|L|Strikeout|S|Curveball|5|0|0|1|2|76
+Steven Okert|L|Cory Spangenberg|L|Strikeout|B|Two-Seam Fastball|6|0|1|1|14|92
+Steven Okert|L|Cory Spangenberg|L|Strikeout|F|Four-Seam Fastball|7|1|1|1|12|94
+Steven Okert|L|Cory Spangenberg|L|Strikeout|F|Slider|8|1|2|1|3|84
+Steven Okert|L|Cory Spangenberg|L|Strikeout|S|Slider|9|1|2|1|1|84
+Steven Okert|L|Hunter Renfroe|R|Lineout|S|Two-Seam Fastball|10|0|0|2|12|91
+Steven Okert|L|Hunter Renfroe|R|Lineout|F|Two-Seam Fastball|11|0|1|2|6|92
+Steven Okert|L|Hunter Renfroe|R|Lineout|B|Two-Seam Fastball|12|0|2|2|14|94
+Steven Okert|L|Hunter Renfroe|R|Lineout|X|Changeup|13|1|2|2|13|87
+Steven Okert|L|Erick Aybar|R|Lineout|F|Two-Seam Fastball|14|0|0|0|9|92
+Steven Okert|L|Erick Aybar|R|Lineout|B|Changeup|15|0|1|0|13|84
+Steven Okert|L|Erick Aybar|R|Lineout|B|Curveball|16|1|1|0|12|74
+Steven Okert|L|Erick Aybar|R|Lineout|F|Two-Seam Fastball|17|2|1|0|5|91
+Steven Okert|L|Erick Aybar|R|Lineout|B|Two-Seam Fastball|18|2|2|0|12|93
+Steven Okert|L|Erick Aybar|R|Lineout|F|Two-Seam Fastball|19|3|2|0|13|90
+Steven Okert|L|Erick Aybar|R|Lineout|X|Two-Seam Fastball|20|3|2|0|12|91
+Steven Okert|L|Allen Cordoba|R|Walk|B|Curveball|21|0|0|1|12|74
+Steven Okert|L|Allen Cordoba|R|Walk|F|Four-Seam Fastball|22|1|0|1|12|91
+Steven Okert|L|Allen Cordoba|R|Walk|F|Two-Seam Fastball|23|1|1|1|12|92
+Steven Okert|L|Allen Cordoba|R|Walk|B|Slider|24|1|2|1|13|83
+Steven Okert|L|Allen Cordoba|R|Walk|B|Slider|25|2|2|1|13|81
+Steven Okert|L|Allen Cordoba|R|Walk|B|Two-Seam Fastball|26|3|2|1|12|91
+Steven Okert|L|Matt Szczur|R|Strikeout|F|Two-Seam Fastball|27|0|0|1|6|92
+Steven Okert|L|Matt Szczur|R|Strikeout|B|Two-Seam Fastball|28|0|1|1|12|90
+Steven Okert|L|Matt Szczur|R|Strikeout|B|Two-Seam Fastball|29|1|1|1|11|91
+Steven Okert|L|Matt Szczur|R|Strikeout|B|Two-Seam Fastball|30|2|1|1|13|93
+Steven Okert|L|Matt Szczur|R|Strikeout|F|Two-Seam Fastball|31|3|1|1|4|91
+Steven Okert|L|Matt Szczur|R|Strikeout|F|Two-Seam Fastball|32|3|2|1|12|93
+Steven Okert|L|Matt Szczur|R|Strikeout|S|Two-Seam Fastball|33|3|2|1|2|92
+Steven Okert|L|Matt Carpenter|L|Pop Out|*B|Slider|0|0|0|1|13|83
+Steven Okert|L|Matt Carpenter|L|Pop Out|B|Four-Seam Fastball|1|1|0|1|13|91
+Steven Okert|L|Matt Carpenter|L|Pop Out|C|Four-Seam Fastball|2|2|0|1|13|91
+Steven Okert|L|Matt Carpenter|L|Pop Out|S|Four-Seam Fastball|3|2|1|1|4|90
+Steven Okert|L|Matt Carpenter|L|Pop Out|X|Four-Seam Fastball|4|2|2|1|3|92
+Steven Okert|L|Kolten Wong|L|Strikeout|C|Slider|0|0|0|2|9|81
+Steven Okert|L|Kolten Wong|L|Strikeout|S|Slider|1|0|1|2|13|83
+Steven Okert|L|Kolten Wong|L|Strikeout|F|Cutter|2|0|2|2|13|84
+Steven Okert|L|Kolten Wong|L|Strikeout|F|Four-Seam Fastball|3|0|2|2|11|93
+Steven Okert|L|Kolten Wong|L|Strikeout|F|Slider|4|0|2|2|13|84
+Steven Okert|L|Kolten Wong|L|Strikeout|S|Slider|5|0|2|2|11|83
+Steven Okert|L|Charlie Blackmon|L|Field Error|B|Two-Seam Fastball|0|0|0|0|13|92
+Steven Okert|L|Charlie Blackmon|L|Field Error|D|Four-Seam Fastball|1|1|0|0|12|92
+Steven Okert|L|DJ LeMahieu|R|Groundout|X|Two-Seam Fastball|2|0|0|0|4|94
+Steven Okert|L|Nolan Arenado|R|Intent Walk|V|N/A|3|0|0|1|0|0
+Steven Okert|L|Nolan Arenado|R|Intent Walk|V|N/A|4|0|1|1|0|0
+Steven Okert|L|Nolan Arenado|R|Intent Walk|V|N/A|5|0|2|1|0|0
+Steven Okert|L|Nolan Arenado|R|Intent Walk|V|N/A|6|0|2|1|0|0
+Steven Okert|L|Gerardo Parra|L|Walk|B|Cutter|7|0|0|1|7|85
+Steven Okert|L|Gerardo Parra|L|Walk|B|Four-Seam Fastball|8|1|0|1|11|92
+Steven Okert|L|Gerardo Parra|L|Walk|B|Slider|9|2|0|1|12|80
+Steven Okert|L|Gerardo Parra|L|Walk|B|Two-Seam Fastball|10|3|0|1|13|91
+Steven Okert|L|Pat Valaika|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|91
+Steven Okert|L|Pat Valaika|R|Strikeout|B|Curveball|1|0|1|0|12|75
+Steven Okert|L|Pat Valaika|R|Strikeout|F|Slider|2|1|1|0|4|81
+Steven Okert|L|Pat Valaika|R|Strikeout|F|Cutter|3|1|2|0|7|84
+Steven Okert|L|Pat Valaika|R|Strikeout|S|Four-Seam Fastball|4|1|2|0|12|93
+Steven Okert|L|Tom Murphy|R|Lineout|B|Curveball|5|0|0|1|12|74
+Steven Okert|L|Tom Murphy|R|Lineout|X|Two-Seam Fastball|6|1|0|1|11|93
+Steven Okert|L|Charlie Blackmon|L|Home Run|B|Four-Seam Fastball|7|0|0|2|13|93
+Steven Okert|L|Charlie Blackmon|L|Home Run|F|Slider|8|1|0|2|3|84
+Steven Okert|L|Charlie Blackmon|L|Home Run|E|Cutter|9|1|1|2|2|84
+Steven Okert|L|Adrian Gonzalez|L|Flyout|C|Two-Seam Fastball|0|0|0|0|3|92
+Steven Okert|L|Adrian Gonzalez|L|Flyout|B|Two-Seam Fastball|1|0|1|0|13|92
+Steven Okert|L|Adrian Gonzalez|L|Flyout|S|Slider|2|1|1|0|5|81
+Steven Okert|L|Adrian Gonzalez|L|Flyout|B|Slider|3|1|2|0|13|84
+Steven Okert|L|Adrian Gonzalez|L|Flyout|B|Slider|4|2|2|0|12|82
+Steven Okert|L|Adrian Gonzalez|L|Flyout|X|Slider|5|3|2|0|1|81
+Steven Okert|L|Yasmani Grandal|R|Strikeout|C|Four-Seam Fastball|6|0|0|1|2|91
+Steven Okert|L|Yasmani Grandal|R|Strikeout|C|Two-Seam Fastball|7|0|1|1|12|91
+Steven Okert|L|Yasmani Grandal|R|Strikeout|S|Four-Seam Fastball|8|0|2|1|11|93
+Steven Okert|L|Jake Lamb|L|Lineout|F|Two-Seam Fastball|0|0|0|0|14|92
+Steven Okert|L|Jake Lamb|L|Lineout|B|Slider|1|0|1|0|13|83
+Steven Okert|L|Jake Lamb|L|Lineout|B|Slider|2|1|1|0|13|79
+Steven Okert|L|Jake Lamb|L|Lineout|B|Slider|3|2|1|0|12|81
+Steven Okert|L|Jake Lamb|L|Lineout|F|Two-Seam Fastball|4|3|1|0|12|92
+Steven Okert|L|Jake Lamb|L|Lineout|X|Four-Seam Fastball|5|3|2|0|6|92
+Steven Okert|L|Paul Goldschmidt|R|Strikeout|B|Slider|6|0|0|1|12|84
+Steven Okert|L|Paul Goldschmidt|R|Strikeout|C|Slider|7|1|0|1|6|81
+Steven Okert|L|Paul Goldschmidt|R|Strikeout|S|Slider|8|1|1|1|13|82
+Steven Okert|L|Paul Goldschmidt|R|Strikeout|B|Slider|9|1|2|1|13|82
+Steven Okert|L|Paul Goldschmidt|R|Strikeout|S|Slider|10|2|2|1|12|83
+Steven Okert|L|Daniel Descalso|L|Groundout|C|Slider|11|0|0|2|12|83
+Steven Okert|L|Daniel Descalso|L|Groundout|X|Four-Seam Fastball|12|0|1|2|3|92
+Steven Okert|L|David Peralta|L|Groundout|C|Two-Seam Fastball|0|0|0|2|13|91
+Steven Okert|L|David Peralta|L|Groundout|X|Two-Seam Fastball|1|0|1|2|5|91
+Steven Okert|L|Charlie Blackmon|L|Flyout|B|Slider|0|0|0|2|13|82
+Steven Okert|L|Charlie Blackmon|L|Flyout|X|Slider|1|1|0|2|4|82
+Steven Okert|L|Pat Valaika|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|11|91
+Steven Okert|L|Pat Valaika|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|12|92
+Steven Okert|L|Pat Valaika|R|Strikeout|F|Two-Seam Fastball|2|1|1|0|6|92
+Steven Okert|L|Pat Valaika|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|92
+Steven Okert|L|Pat Valaika|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|93
+Steven Okert|L|Pat Valaika|R|Strikeout|F|Slider|5|2|2|0|13|84
+Steven Okert|L|Pat Valaika|R|Strikeout|S|Two-Seam Fastball|6|2|2|0|9|93
+Steven Okert|L|Charlie Blackmon|L|Forceout|B|Two-Seam Fastball|7|0|0|1|14|93
+Steven Okert|L|Charlie Blackmon|L|Forceout|B|Two-Seam Fastball|8|1|0|1|14|92
+Steven Okert|L|Charlie Blackmon|L|Forceout|F|Two-Seam Fastball|9|2|0|1|12|93
+Steven Okert|L|Charlie Blackmon|L|Forceout|X|Two-Seam Fastball|10|2|1|1|14|93
+Steven Okert|L|Kyle Farmer|R|Lineout|C|Curveball|0|0|0|2|12|73
+Steven Okert|L|Kyle Farmer|R|Lineout|B|Two-Seam Fastball|1|0|1|2|12|92
+Steven Okert|L|Kyle Farmer|R|Lineout|X|Curveball|2|1|1|2|6|74
+Steven Okert|L|Cory Spangenberg|L|Flyout|B|Slider|0|0|0|0|13|79
+Steven Okert|L|Cory Spangenberg|L|Flyout|B|Four-Seam Fastball|1|1|0|0|12|91
+Steven Okert|L|Cory Spangenberg|L|Flyout|C|Four-Seam Fastball|2|2|0|0|2|91
+Steven Okert|L|Cory Spangenberg|L|Flyout|X|Slider|3|2|1|0|5|81
+Steven Okert|L|Cory Spangenberg|L|Strikeout|F|Slider|0|0|0|0|1|80
+Steven Okert|L|Cory Spangenberg|L|Strikeout|C|Two-Seam Fastball|1|0|1|0|8|90
+Steven Okert|L|Cory Spangenberg|L|Strikeout|C|Four-Seam Fastball|2|0|2|0|1|92

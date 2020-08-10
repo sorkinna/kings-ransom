@@ -1,0 +1,377 @@
+Ben Meyer|R|Tommy Pham|R|Lineout|C|Sinker|0|0|0|0|1|90
+Ben Meyer|R|Tommy Pham|R|Lineout|C|Curveball|1|0|1|0|2|76
+Ben Meyer|R|Tommy Pham|R|Lineout|B|Sinker|2|0|2|0|11|90
+Ben Meyer|R|Tommy Pham|R|Lineout|B|Sinker|3|1|2|0|11|91
+Ben Meyer|R|Tommy Pham|R|Lineout|B|Curveball|4|2|2|0|13|77
+Ben Meyer|R|Tommy Pham|R|Lineout|X|Sinker|5|3|2|0|12|90
+Ben Meyer|R|Jedd Gyorko|R|Forceout|B|Sinker|6|0|0|1|14|90
+Ben Meyer|R|Jedd Gyorko|R|Forceout|X|Sinker|7|1|0|1|6|90
+Ben Meyer|R|Marcell Ozuna|R|Lineout|B|Curveball|8|0|0|2|11|75
+Ben Meyer|R|Marcell Ozuna|R|Lineout|F|Curveball|9|1|0|2|8|75
+Ben Meyer|R|Marcell Ozuna|R|Lineout|X|Sinker|10|1|1|2|7|91
+Ben Meyer|R|Buster Posey|R|Groundout|B|Sinker|0|0|0|0|12|89
+Ben Meyer|R|Buster Posey|R|Groundout|C|Sinker|1|1|0|0|5|90
+Ben Meyer|R|Buster Posey|R|Groundout|X|Curveball|2|1|1|0|4|76
+Ben Meyer|R|Andrew McCutchen|R|Single|C|Sinker|3|0|0|1|1|91
+Ben Meyer|R|Andrew McCutchen|R|Single|B|Sinker|4|0|1|1|14|92
+Ben Meyer|R|Andrew McCutchen|R|Single|D|Sinker|5|1|1|1|2|91
+Ben Meyer|R|Brandon Crawford|L|Grounded Into DP|F|Curveball|6|0|0|1|14|75
+Ben Meyer|R|Brandon Crawford|L|Grounded Into DP|B|Sinker|7|0|1|1|9|90
+Ben Meyer|R|Brandon Crawford|L|Grounded Into DP|X|Sinker|8|1|1|1|1|91
+Ben Meyer|R|Alen Hanson|L|Flyout|B|Sinker|9|0|0|0|11|90
+Ben Meyer|R|Alen Hanson|L|Flyout|B|Changeup|10|1|0|0|11|81
+Ben Meyer|R|Alen Hanson|L|Flyout|X|Sinker|11|2|0|0|5|90
+Ben Meyer|R|Pablo Sandoval|L|Flyout|F|Sinker|12|0|0|1|11|91
+Ben Meyer|R|Pablo Sandoval|L|Flyout|B|Curveball|13|0|1|1|14|77
+Ben Meyer|R|Pablo Sandoval|L|Flyout|X|Changeup|14|1|1|1|11|82
+Ben Meyer|R|Mac Williamson|R|Groundout|B|Sinker|15|0|0|2|14|92
+Ben Meyer|R|Mac Williamson|R|Groundout|C|Sinker|16|1|0|2|8|92
+Ben Meyer|R|Mac Williamson|R|Groundout|F|Curveball|17|1|1|2|5|77
+Ben Meyer|R|Mac Williamson|R|Groundout|B|Curveball|18|1|2|2|14|76
+Ben Meyer|R|Mac Williamson|R|Groundout|F|Sinker|19|2|2|2|12|93
+Ben Meyer|R|Mac Williamson|R|Groundout|B|Curveball|20|2|2|2|14|77
+Ben Meyer|R|Mac Williamson|R|Groundout|X|Curveball|21|3|2|2|14|77
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|C|Sinker|0|0|0|0|9|93
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|B|Curveball|1|0|1|0|13|77
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|B|Curveball|2|1|1|0|13|78
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|B|Sinker|3|2|1|0|13|93
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|F|Sinker|4|3|1|0|6|92
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|F|Sinker|5|3|2|0|9|94
+Ben Meyer|R|Paul Goldschmidt|R|Groundout|X|Sinker|6|3|2|0|8|94
+Ben Meyer|R|Jake Lamb|L|Walk|B|Sinker|7|0|0|1|14|95
+Ben Meyer|R|Jake Lamb|L|Walk|B|Sinker|8|1|0|1|14|94
+Ben Meyer|R|Jake Lamb|L|Walk|C|Sinker|9|2|0|1|13|93
+Ben Meyer|R|Jake Lamb|L|Walk|F|Sinker|10|2|1|1|3|95
+Ben Meyer|R|Jake Lamb|L|Walk|B|Curveball|11|2|2|1|11|78
+Ben Meyer|R|Jake Lamb|L|Walk|F|Sinker|12|3|2|1|12|93
+Ben Meyer|R|Jake Lamb|L|Walk|B|Sinker|13|3|2|1|14|93
+Ben Meyer|R|David Peralta|L|Single|C|Sinker|14|0|0|1|12|92
+Ben Meyer|R|David Peralta|L|Single|D|Sinker|15|0|1|1|5|92
+Ben Meyer|R|Ketel Marte|L|Strikeout|S|Curveball|16|0|0|1|13|77
+Ben Meyer|R|Ketel Marte|L|Strikeout|B|Curveball|17|0|1|1|13|77
+Ben Meyer|R|Ketel Marte|L|Strikeout|B|Sinker|18|1|1|1|14|92
+Ben Meyer|R|Ketel Marte|L|Strikeout|F|Sinker|19|2|1|1|14|92
+Ben Meyer|R|Ketel Marte|L|Strikeout|C|Curveball|20|2|2|1|11|77
+Ben Meyer|R|John Ryan Murphy|R|Double|C|Sinker|21|0|0|2|5|92
+Ben Meyer|R|John Ryan Murphy|R|Double|F|Curveball|22|0|1|2|5|78
+Ben Meyer|R|John Ryan Murphy|R|Double|B|Sinker|23|0|2|2|11|93
+Ben Meyer|R|John Ryan Murphy|R|Double|F|Sinker|24|1|2|2|1|93
+Ben Meyer|R|John Ryan Murphy|R|Double|E|Curveball|25|1|2|2|7|77
+Ben Meyer|R|Nick Ahmed|R|Groundout|C|Curveball|26|0|0|2|13|77
+Ben Meyer|R|Nick Ahmed|R|Groundout|X|Sinker|27|0|1|2|1|92
+Ben Meyer|R|Jarrod Dyson|L|Groundout|B|Sinker|28|0|0|0|11|92
+Ben Meyer|R|Jarrod Dyson|L|Groundout|B|Sinker|29|1|0|0|14|91
+Ben Meyer|R|Jarrod Dyson|L|Groundout|F|Sinker|30|2|0|0|4|92
+Ben Meyer|R|Jarrod Dyson|L|Groundout|X|Sinker|31|2|1|0|4|92
+Ben Meyer|R|Zack Godley|R|Groundout|B|Sinker|32|0|0|1|11|92
+Ben Meyer|R|Zack Godley|R|Groundout|C|Sinker|33|1|0|1|7|91
+Ben Meyer|R|Zack Godley|R|Groundout|C|Sinker|34|1|1|1|8|91
+Ben Meyer|R|Zack Godley|R|Groundout|B|Sinker|35|1|2|1|12|93
+Ben Meyer|R|Zack Godley|R|Groundout|X|Sinker|36|2|2|1|14|92
+Ben Meyer|R|Jon Jay|L|Strikeout|S|Curveball|37|0|0|2|14|75
+Ben Meyer|R|Jon Jay|L|Strikeout|B|Changeup|38|0|1|2|14|85
+Ben Meyer|R|Jon Jay|L|Strikeout|F|Curveball|39|1|1|2|13|76
+Ben Meyer|R|Jon Jay|L|Strikeout|T|Sinker|40|1|2|2|11|92
+Ben Meyer|R|Paul Goldschmidt|R|Walk|B|Curveball|41|0|0|0|14|75
+Ben Meyer|R|Paul Goldschmidt|R|Walk|B|Sinker|42|1|0|0|14|91
+Ben Meyer|R|Paul Goldschmidt|R|Walk|B|Sinker|43|2|0|0|14|90
+Ben Meyer|R|Paul Goldschmidt|R|Walk|B|Sinker|44|3|0|0|14|90
+Ben Meyer|R|Jake Lamb|L|Field Error|B|Sinker|45|0|0|0|11|91
+Ben Meyer|R|Jake Lamb|L|Field Error|B|Changeup|46|1|0|0|14|83
+Ben Meyer|R|Jake Lamb|L|Field Error|C|Sinker|47|2|0|0|9|89
+Ben Meyer|R|Jake Lamb|L|Field Error|F|Sinker|48|2|1|0|1|91
+Ben Meyer|R|Jake Lamb|L|Field Error|D|Curveball|49|2|2|0|7|75
+Ben Meyer|R|David Peralta|L|Groundout|F|Curveball|50|0|0|0|14|76
+Ben Meyer|R|David Peralta|L|Groundout|X|Curveball|51|0|1|0|13|75
+Ben Meyer|R|Ketel Marte|L|Intent Walk|V|N/A|52|0|0|1|0|0
+Ben Meyer|R|Ketel Marte|L|Intent Walk|V|N/A|53|0|1|1|0|0
+Ben Meyer|R|Ketel Marte|L|Intent Walk|V|N/A|54|0|2|1|0|0
+Ben Meyer|R|Ketel Marte|L|Intent Walk|V|N/A|55|0|2|1|0|0
+Ben Meyer|R|John Ryan Murphy|R|Sac Fly|E|Sinker|56|0|0|1|6|90
+Ben Meyer|R|Nick Ahmed|R|Flyout|C|Sinker|57|0|0|2|14|91
+Ben Meyer|R|Nick Ahmed|R|Flyout|F|Sinker|58|0|1|2|11|89
+Ben Meyer|R|Nick Ahmed|R|Flyout|X|Curveball|59|0|2|2|14|76
+Ben Meyer|R|Jarrod Dyson|L|Lineout|C|Sinker|60|0|0|0|4|90
+Ben Meyer|R|Jarrod Dyson|L|Lineout|F|Curveball|61|0|1|0|9|76
+Ben Meyer|R|Jarrod Dyson|L|Lineout|X|Sinker|62|0|2|0|11|92
+Ben Meyer|R|Daniel Descalso|L|Flyout|B|Curveball|63|0|0|1|14|76
+Ben Meyer|R|Daniel Descalso|L|Flyout|X|Sinker|64|1|0|1|7|90
+Ben Meyer|R|Jon Jay|L|Groundout|C|Sinker|65|0|0|2|2|91
+Ben Meyer|R|Jon Jay|L|Groundout|B|Curveball|66|0|1|2|13|77
+Ben Meyer|R|Jon Jay|L|Groundout|F|Curveball|67|1|1|2|13|75
+Ben Meyer|R|Jon Jay|L|Groundout|X|Changeup|68|1|2|2|13|82
+Ben Meyer|R|Amed Rosario|R|Strikeout|C|Sinker|0|0|0|0|8|90
+Ben Meyer|R|Amed Rosario|R|Strikeout|C|Sinker|1|0|1|0|6|92
+Ben Meyer|R|Amed Rosario|R|Strikeout|S|Curveball|2|0|2|0|14|77
+Ben Meyer|R|Kevin Plawecki|R|Walk|B|Sinker|3|0|0|1|14|91
+Ben Meyer|R|Kevin Plawecki|R|Walk|B|Sinker|4|1|0|1|12|90
+Ben Meyer|R|Kevin Plawecki|R|Walk|C|Sinker|5|2|0|1|14|91
+Ben Meyer|R|Kevin Plawecki|R|Walk|B|Curveball|6|2|1|1|14|77
+Ben Meyer|R|Kevin Plawecki|R|Walk|B|Sinker|7|3|1|1|14|90
+Ben Meyer|R|Brandon Nimmo|L|Grounded Into DP|B|Curveball|8|0|0|1|14|76
+Ben Meyer|R|Brandon Nimmo|L|Grounded Into DP|B|Sinker|9|1|0|1|12|90
+Ben Meyer|R|Brandon Nimmo|L|Grounded Into DP|T|Sinker|10|2|0|1|1|90
+Ben Meyer|R|Brandon Nimmo|L|Grounded Into DP|T|Sinker|11|2|1|1|4|90
+Ben Meyer|R|Brandon Nimmo|L|Grounded Into DP|X|Changeup|12|2|2|1|11|83
+Ben Meyer|R|Jose Bautista|R|Single|C|Sinker|13|0|0|0|12|91
+Ben Meyer|R|Jose Bautista|R|Single|B|Curveball|14|0|1|0|14|75
+Ben Meyer|R|Jose Bautista|R|Single|D|Sinker|15|1|1|0|7|92
+Ben Meyer|R|Asdrubal Cabrera|L|Single|B|Sinker|16|0|0|0|12|90
+Ben Meyer|R|Asdrubal Cabrera|L|Single|D|Sinker|17|1|0|0|13|90
+Ben Meyer|R|Michael Conforto|L|Walk|B|Curveball|18|0|0|0|14|77
+Ben Meyer|R|Michael Conforto|L|Walk|C|Changeup|19|1|0|0|13|81
+Ben Meyer|R|Michael Conforto|L|Walk|F|Sinker|20|1|1|0|11|92
+Ben Meyer|R|Michael Conforto|L|Walk|*B|Curveball|21|1|2|0|14|77
+Ben Meyer|R|Michael Conforto|L|Walk|B|Changeup|22|2|2|0|14|84
+Ben Meyer|R|Michael Conforto|L|Walk|F|Sinker|23|3|2|0|2|93
+Ben Meyer|R|Michael Conforto|L|Walk|B|Sinker|24|3|2|0|12|92
+Ben Meyer|R|Brian Goodwin|L|Single|C|Sinker|0|0|0|2|2|91
+Ben Meyer|R|Brian Goodwin|L|Single|B|Sinker|1|0|1|2|14|92
+Ben Meyer|R|Brian Goodwin|L|Single|B|Changeup|2|1|1|2|14|83
+Ben Meyer|R|Brian Goodwin|L|Single|F|Sinker|3|2|1|2|13|92
+Ben Meyer|R|Brian Goodwin|L|Single|D|Sinker|4|2|2|2|4|92
+Ben Meyer|R|Mark Reynolds|R|Single|C|Sinker|5|0|0|2|12|92
+Ben Meyer|R|Mark Reynolds|R|Single|B|Curveball|6|0|1|2|14|77
+Ben Meyer|R|Mark Reynolds|R|Single|E|Sinker|7|1|1|2|8|93
+Ben Meyer|R|Michael A. Taylor|R|Flyout|B|Sinker|8|0|0|2|11|92
+Ben Meyer|R|Michael A. Taylor|R|Flyout|B|Curveball|9|1|0|2|1|76
+Ben Meyer|R|Michael A. Taylor|R|Flyout|F|Sinker|10|2|0|2|11|91
+Ben Meyer|R|Michael A. Taylor|R|Flyout|B|Sinker|11|2|1|2|14|91
+Ben Meyer|R|Michael A. Taylor|R|Flyout|X|Sinker|12|3|1|2|8|91
+Ben Meyer|R|Wilmer Difo|L|Flyout|C|Sinker|13|0|0|0|3|92
+Ben Meyer|R|Wilmer Difo|L|Flyout|B|Curveball|14|0|1|0|14|78
+Ben Meyer|R|Wilmer Difo|L|Flyout|B|Sinker|15|1|1|0|11|92
+Ben Meyer|R|Wilmer Difo|L|Flyout|B|Sinker|16|2|1|0|14|93
+Ben Meyer|R|Wilmer Difo|L|Flyout|C|Sinker|17|3|1|0|2|92
+Ben Meyer|R|Wilmer Difo|L|Flyout|F|Sinker|18|3|2|0|9|95
+Ben Meyer|R|Wilmer Difo|L|Flyout|X|Sinker|19|3|2|0|11|94
+Ben Meyer|R|Pedro Severino|R|Flyout|B|Sinker|20|0|0|1|12|93
+Ben Meyer|R|Pedro Severino|R|Flyout|X|Sinker|21|1|0|1|2|92
+Ben Meyer|R|Matt Adams|L|Pop Out|X|Sinker|22|0|0|2|13|93
+Ben Meyer|R|Keon Broxton|R|Flyout|B|Sinker|0|0|0|0|14|91
+Ben Meyer|R|Keon Broxton|R|Flyout|B|Sinker|1|1|0|0|11|90
+Ben Meyer|R|Keon Broxton|R|Flyout|F|Sinker|2|2|0|0|8|91
+Ben Meyer|R|Keon Broxton|R|Flyout|X|Sinker|3|2|1|0|4|92
+Ben Meyer|R|Erik Kratz|R|Double|D|Sinker|4|0|0|1|7|91
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|C|Curveball|5|0|0|1|9|76
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|B|Sinker|6|0|1|1|11|92
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|S|Changeup|7|1|1|1|14|83
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|B|Sinker|8|1|2|1|12|91
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|F|Changeup|9|2|2|1|13|83
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|F|Sinker|10|2|2|1|7|91
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|F|Curveball|11|2|2|1|9|77
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|B|Changeup|12|2|2|1|13|84
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|F|Sinker|13|3|2|1|13|91
+Ben Meyer|R|Jonathan Villar|L|Hit By Pitch|H|Sinker|14|3|2|1|14|91
+Ben Meyer|R|Eric Thames|L|Strikeout|S|Curveball|15|0|0|1|13|77
+Ben Meyer|R|Eric Thames|L|Strikeout|S|Changeup|16|0|1|1|8|84
+Ben Meyer|R|Eric Thames|L|Strikeout|F|Sinker|17|0|2|1|2|92
+Ben Meyer|R|Eric Thames|L|Strikeout|B|Curveball|18|0|2|1|11|76
+Ben Meyer|R|Eric Thames|L|Strikeout|S|Curveball|19|1|2|1|14|77
+Ben Meyer|R|Christian Yelich|L|Double|C|Curveball|20|0|0|2|1|76
+Ben Meyer|R|Christian Yelich|L|Double|S|Changeup|21|0|1|2|13|83
+Ben Meyer|R|Christian Yelich|L|Double|F|Sinker|22|0|2|2|12|92
+Ben Meyer|R|Christian Yelich|L|Double|B|Curveball|23|0|2|2|14|77
+Ben Meyer|R|Christian Yelich|L|Double|E|Sinker|24|1|2|2|11|92
+Ben Meyer|R|Jesus Aguilar|R|Strikeout|C|Curveball|25|0|0|2|9|77
+Ben Meyer|R|Jesus Aguilar|R|Strikeout|S|Sinker|26|0|1|2|6|92
+Ben Meyer|R|Jesus Aguilar|R|Strikeout|B|Curveball|27|0|2|2|14|77
+Ben Meyer|R|Jesus Aguilar|R|Strikeout|S|Changeup|28|1|2|2|13|83
+Ben Meyer|R|Scott Kingery|R|Strikeout|C|Curveball|0|0|0|0|7|76
+Ben Meyer|R|Scott Kingery|R|Strikeout|B|Sinker|1|0|1|0|14|92
+Ben Meyer|R|Scott Kingery|R|Strikeout|S|Sinker|2|1|1|0|1|92
+Ben Meyer|R|Scott Kingery|R|Strikeout|F|Sinker|3|1|2|0|8|92
+Ben Meyer|R|Scott Kingery|R|Strikeout|F|Sinker|4|1|2|0|2|92
+Ben Meyer|R|Scott Kingery|R|Strikeout|S|Changeup|5|1|2|0|4|80
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|C|Sinker|6|0|0|1|11|91
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|B|Curveball|7|0|1|1|14|77
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|B|Changeup|8|1|1|1|13|82
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|F|Sinker|9|2|1|1|7|92
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|B|Sinker|10|2|2|1|11|93
+Ben Meyer|R|Jesmuel Valentin|L|Strikeout|S|Sinker|11|3|2|1|11|92
+Ben Meyer|R|Andrew Knapp|L|Lineout|B|Sinker|12|0|0|2|11|92
+Ben Meyer|R|Andrew Knapp|L|Lineout|C|Sinker|13|1|0|2|11|90
+Ben Meyer|R|Andrew Knapp|L|Lineout|X|Changeup|14|1|1|2|7|83
+Ben Meyer|R|Nick Markakis|L|Groundout|C|Sinker|0|0|0|0|6|91
+Ben Meyer|R|Nick Markakis|L|Groundout|F|Curveball|1|0|1|0|14|78
+Ben Meyer|R|Nick Markakis|L|Groundout|B|Sinker|2|0|2|0|12|93
+Ben Meyer|R|Nick Markakis|L|Groundout|X|Curveball|3|1|2|0|13|77
+Ben Meyer|R|Kurt Suzuki|R|Walk|B|Sinker|4|0|0|1|8|91
+Ben Meyer|R|Kurt Suzuki|R|Walk|B|Sinker|5|1|0|1|14|92
+Ben Meyer|R|Kurt Suzuki|R|Walk|B|Sinker|6|2|0|1|14|92
+Ben Meyer|R|Kurt Suzuki|R|Walk|C|Sinker|7|3|0|1|9|92
+Ben Meyer|R|Kurt Suzuki|R|Walk|F|Sinker|8|3|1|1|4|91
+Ben Meyer|R|Kurt Suzuki|R|Walk|B|Changeup|9|3|2|1|12|82
+Ben Meyer|R|Johan Camargo|L|Grounded Into DP|B|Curveball|10|0|0|1|13|76
+Ben Meyer|R|Johan Camargo|L|Grounded Into DP|B|Sinker|11|1|0|1|13|91
+Ben Meyer|R|Johan Camargo|L|Grounded Into DP|F|Sinker|12|2|0|1|7|91
+Ben Meyer|R|Johan Camargo|L|Grounded Into DP|B|Sinker|13|2|1|1|14|92
+Ben Meyer|R|Johan Camargo|L|Grounded Into DP|X|Sinker|14|3|1|1|13|92
+Ben Meyer|R|Ender Inciarte|L|Single|D|Curveball|15|0|0|0|1|76
+Ben Meyer|R|Dansby Swanson|R|Flyout|B|Sinker|16|0|0|0|14|91
+Ben Meyer|R|Dansby Swanson|R|Flyout|C|Curveball|17|1|0|0|1|76
+Ben Meyer|R|Dansby Swanson|R|Flyout|X|Sinker|18|1|1|0|1|91
+Ben Meyer|R|Sean Newcomb|L|Sac Bunt|X|Sinker|19|0|0|1|12|90
+Ben Meyer|R|Ronald Acuna Jr.|R|Single|E|Sinker|20|0|0|2|4|91
+Ben Meyer|R|Charlie Culberson|R|Double|*B|Changeup|21|0|0|2|14|82
+Ben Meyer|R|Charlie Culberson|R|Double|E|Sinker|22|1|0|2|13|92
+Ben Meyer|R|Freddie Freeman|L|Groundout|X|Curveball|23|0|0|2|13|76
+Ben Meyer|R|Nick Markakis|L|Double|C|Sinker|24|0|0|0|5|90
+Ben Meyer|R|Nick Markakis|L|Double|B|Changeup|25|0|1|0|14|83
+Ben Meyer|R|Nick Markakis|L|Double|B|Curveball|26|1|1|0|11|76
+Ben Meyer|R|Nick Markakis|L|Double|D|Sinker|27|2|1|0|5|91
+Ben Meyer|R|Kurt Suzuki|R|Flyout|X|Curveball|28|0|0|0|9|76
+Ben Meyer|R|Johan Camargo|L|Hit By Pitch|B|Curveball|29|0|0|1|13|76
+Ben Meyer|R|Johan Camargo|L|Hit By Pitch|B|Sinker|30|1|0|1|14|92
+Ben Meyer|R|Johan Camargo|L|Hit By Pitch|H|Changeup|31|2|0|1|14|83
+Ben Meyer|R|Ender Inciarte|L|Double|E|Sinker|32|0|0|1|9|90
+Ben Meyer|R|Dansby Swanson|R|Single|C|Curveball|33|0|0|2|9|77
+Ben Meyer|R|Dansby Swanson|R|Single|B|Curveball|34|0|1|2|14|77
+Ben Meyer|R|Dansby Swanson|R|Single|B|Curveball|35|1|1|2|14|77
+Ben Meyer|R|Dansby Swanson|R|Single|F|Sinker|36|2|1|2|11|92
+Ben Meyer|R|Dansby Swanson|R|Single|D|Curveball|37|2|2|2|9|77
+Ben Meyer|R|Michael Reed|R|Strikeout|F|Sinker|38|0|0|2|4|89
+Ben Meyer|R|Michael Reed|R|Strikeout|C|Curveball|39|0|1|2|5|76
+Ben Meyer|R|Michael Reed|R|Strikeout|B|Sinker|40|0|2|2|12|91
+Ben Meyer|R|Michael Reed|R|Strikeout|S|Sinker|41|1|2|2|12|91
+Ben Meyer|R|Bryce Harper|L|Walk|B|Sinker|0|0|0|0|14|92
+Ben Meyer|R|Bryce Harper|L|Walk|B|Changeup|1|1|0|0|13|80
+Ben Meyer|R|Bryce Harper|L|Walk|S|Sinker|2|2|0|0|11|92
+Ben Meyer|R|Bryce Harper|L|Walk|B|Curveball|3|2|1|0|14|77
+Ben Meyer|R|Bryce Harper|L|Walk|*B|Sinker|4|3|1|0|14|92
+Ben Meyer|R|Ryan Zimmerman|R|Flyout|F|Sinker|5|0|0|0|1|92
+Ben Meyer|R|Ryan Zimmerman|R|Flyout|X|Sinker|6|0|1|0|13|91
+Ben Meyer|R|Juan Soto|L|Single|B|Curveball|7|0|0|1|14|76
+Ben Meyer|R|Juan Soto|L|Single|F|Sinker|8|1|0|1|13|91
+Ben Meyer|R|Juan Soto|L|Single|C|Sinker|9|1|1|1|6|91
+Ben Meyer|R|Juan Soto|L|Single|B|Curveball|10|1|2|1|14|76
+Ben Meyer|R|Juan Soto|L|Single|F|Sinker|11|2|2|1|11|92
+Ben Meyer|R|Juan Soto|L|Single|F|Sinker|12|2|2|1|1|92
+Ben Meyer|R|Juan Soto|L|Single|D|Changeup|13|2|2|1|11|81
+Ben Meyer|R|Mark Reynolds|R|Intent Walk|V|N/A|14|0|0|1|0|0
+Ben Meyer|R|Mark Reynolds|R|Intent Walk|V|N/A|15|0|1|1|0|0
+Ben Meyer|R|Mark Reynolds|R|Intent Walk|V|N/A|16|0|2|1|0|0
+Ben Meyer|R|Mark Reynolds|R|Intent Walk|V|N/A|17|0|2|1|0|0
+Ben Meyer|R|Matt Wieters|L|Double|C|Sinker|18|0|0|1|8|91
+Ben Meyer|R|Matt Wieters|L|Double|B|Sinker|19|0|1|1|14|91
+Ben Meyer|R|Matt Wieters|L|Double|B|Changeup|20|1|1|1|11|80
+Ben Meyer|R|Matt Wieters|L|Double|E|Sinker|21|2|1|1|13|91
+Ben Meyer|R|Wilmer Difo|L|Triple|B|Curveball|22|0|0|2|13|76
+Ben Meyer|R|Wilmer Difo|L|Triple|C|Sinker|23|1|0|2|9|92
+Ben Meyer|R|Wilmer Difo|L|Triple|F|Changeup|24|1|1|2|7|82
+Ben Meyer|R|Wilmer Difo|L|Triple|F|Sinker|25|1|2|2|11|91
+Ben Meyer|R|Wilmer Difo|L|Triple|F|Curveball|26|1|2|2|11|74
+Ben Meyer|R|Wilmer Difo|L|Triple|B|Curveball|27|1|2|2|14|77
+Ben Meyer|R|Wilmer Difo|L|Triple|E|Sinker|28|2|2|2|11|92
+Ben Meyer|R|Michael A. Taylor|R|Double|S|Changeup|29|0|0|2|8|81
+Ben Meyer|R|Michael A. Taylor|R|Double|F|Sinker|30|0|1|2|4|91
+Ben Meyer|R|Michael A. Taylor|R|Double|F|Sinker|31|0|2|2|6|91
+Ben Meyer|R|Michael A. Taylor|R|Double|E|Changeup|32|0|2|2|11|81
+Ben Meyer|R|Matt Adams|L|Hit By Pitch|H|Curveball|33|0|0|2|14|77
+Ben Meyer|R|Trea Turner|R|Forceout|F|Sinker|34|0|0|2|2|91
+Ben Meyer|R|Trea Turner|R|Forceout|C|Curveball|35|0|1|2|14|76
+Ben Meyer|R|Trea Turner|R|Forceout|X|Sinker|36|0|2|2|4|91
+Ben Meyer|R|Devon Travis|R|Field Error|C|Sinker|0|0|0|0|8|90
+Ben Meyer|R|Devon Travis|R|Field Error|F|Sinker|1|0|1|0|2|92
+Ben Meyer|R|Devon Travis|R|Field Error|B|Sinker|2|0|2|0|12|91
+Ben Meyer|R|Devon Travis|R|Field Error|D|Sinker|3|1|2|0|5|92
+Ben Meyer|R|Kendrys Morales|L|Groundout|C|Sinker|4|0|0|0|13|91
+Ben Meyer|R|Kendrys Morales|L|Groundout|*B|Curveball|5|0|1|0|13|76
+Ben Meyer|R|Kendrys Morales|L|Groundout|F|Sinker|6|1|1|0|13|90
+Ben Meyer|R|Kendrys Morales|L|Groundout|B|Sinker|7|1|2|0|11|92
+Ben Meyer|R|Kendrys Morales|L|Groundout|X|Curveball|8|2|2|0|14|76
+Ben Meyer|R|Randal Grichuk|R|Lineout|F|Sinker|9|0|0|1|4|90
+Ben Meyer|R|Randal Grichuk|R|Lineout|X|Sinker|10|0|1|1|13|91
+Ben Meyer|R|Lourdes Gurriel Jr.|R|Lineout|*B|Changeup|11|0|0|2|13|82
+Ben Meyer|R|Lourdes Gurriel Jr.|R|Lineout|X|Sinker|12|1|0|2|13|91
+Ben Meyer|R|Nick Williams|L|Walk|B|Sinker|0|0|0|0|14|90
+Ben Meyer|R|Nick Williams|L|Walk|B|Sinker|1|1|0|0|14|91
+Ben Meyer|R|Nick Williams|L|Walk|F|Sinker|2|2|0|0|13|90
+Ben Meyer|R|Nick Williams|L|Walk|B|Sinker|3|2|1|0|11|92
+Ben Meyer|R|Nick Williams|L|Walk|B|Sinker|4|3|1|0|11|91
+Ben Meyer|R|Cesar Hernandez|L|Walk|B|Sinker|5|0|0|0|14|90
+Ben Meyer|R|Cesar Hernandez|L|Walk|C|Sinker|6|1|0|0|11|90
+Ben Meyer|R|Cesar Hernandez|L|Walk|B|Changeup|7|1|1|0|11|79
+Ben Meyer|R|Cesar Hernandez|L|Walk|F|Sinker|8|2|1|0|11|89
+Ben Meyer|R|Cesar Hernandez|L|Walk|B|Curveball|9|2|2|0|14|76
+Ben Meyer|R|Cesar Hernandez|L|Walk|B|Sinker|10|3|2|0|14|91
+Ben Meyer|R|Scott Kingery|R|Pop Out|B|Sinker|11|0|0|0|11|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|S|Sinker|12|1|0|0|12|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|B|Sinker|13|1|1|0|13|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Sinker|14|2|1|0|5|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|B|Sinker|15|2|2|0|11|89
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Sinker|16|3|2|0|11|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Sinker|17|3|2|0|11|91
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Sinker|18|3|2|0|11|89
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Sinker|19|3|2|0|11|90
+Ben Meyer|R|Scott Kingery|R|Pop Out|F|Changeup|20|3|2|0|13|80
+Ben Meyer|R|Scott Kingery|R|Pop Out|X|Sinker|21|3|2|0|11|88
+Ben Meyer|R|Justin Bour|L|Pop Out|C|Sinker|22|0|0|1|4|89
+Ben Meyer|R|Justin Bour|L|Pop Out|F|Sinker|23|0|1|1|11|90
+Ben Meyer|R|Justin Bour|L|Pop Out|X|Sinker|24|0|2|1|11|90
+Ben Meyer|R|Carlos Santana|L|Walk|F|Sinker|25|0|0|2|1|91
+Ben Meyer|R|Carlos Santana|L|Walk|*B|Changeup|26|0|1|2|13|82
+Ben Meyer|R|Carlos Santana|L|Walk|B|Sinker|27|1|1|2|11|90
+Ben Meyer|R|Carlos Santana|L|Walk|B|Sinker|28|2|1|2|11|89
+Ben Meyer|R|Carlos Santana|L|Walk|B|Sinker|29|3|1|2|11|89
+Ben Meyer|R|Rhys Hoskins|R|Hit By Pitch|B|Curveball|30|0|0|2|11|74
+Ben Meyer|R|Rhys Hoskins|R|Hit By Pitch|C|Sinker|31|1|0|2|3|90
+Ben Meyer|R|Rhys Hoskins|R|Hit By Pitch|F|Curveball|32|1|1|2|9|74
+Ben Meyer|R|Rhys Hoskins|R|Hit By Pitch|H|Changeup|33|1|2|2|11|80
+Ben Meyer|R|Odubel Herrera|L|Flyout|X|Sinker|34|0|0|2|5|89
+Ben Meyer|R|Jose Reyes|L|Strikeout|C|Sinker|0|0|0|0|1|89
+Ben Meyer|R|Jose Reyes|L|Strikeout|B|Sinker|1|0|1|0|11|91
+Ben Meyer|R|Jose Reyes|L|Strikeout|F|Sinker|2|1|1|0|4|91
+Ben Meyer|R|Jose Reyes|L|Strikeout|C|Sinker|3|1|2|0|12|91
+Ben Meyer|R|Tomas Nido|R|Single|B|Sinker|4|0|0|1|11|90
+Ben Meyer|R|Tomas Nido|R|Single|D|Sinker|5|1|0|1|5|91
+Ben Meyer|R|Zack Wheeler|L|Single|C|Sinker|6|0|0|1|14|90
+Ben Meyer|R|Zack Wheeler|L|Single|D|Sinker|7|0|1|1|11|90
+Ben Meyer|R|Amed Rosario|R|Groundout|C|Sinker|8|0|0|1|8|90
+Ben Meyer|R|Amed Rosario|R|Groundout|X|Sinker|9|0|1|1|8|90
+Ben Meyer|R|Jeff McNeil|L|Single|F|Sinker|10|0|0|2|4|88
+Ben Meyer|R|Jeff McNeil|L|Single|B|Curveball|11|0|1|2|13|74
+Ben Meyer|R|Jeff McNeil|L|Single|E|Sinker|12|1|1|2|4|90
+Ben Meyer|R|Michael Conforto|L|Walk|B|Changeup|13|0|0|2|13|81
+Ben Meyer|R|Michael Conforto|L|Walk|C|Sinker|14|1|0|2|11|90
+Ben Meyer|R|Michael Conforto|L|Walk|B|Sinker|15|1|1|2|11|91
+Ben Meyer|R|Michael Conforto|L|Walk|F|Sinker|16|2|1|2|13|90
+Ben Meyer|R|Michael Conforto|L|Walk|B|Changeup|17|2|2|2|11|82
+Ben Meyer|R|Michael Conforto|L|Walk|B|Sinker|18|3|2|2|11|90
+Ben Meyer|R|Jay Bruce|L|Home Run|B|Sinker|19|0|0|2|11|90
+Ben Meyer|R|Jay Bruce|L|Home Run|T|Sinker|20|1|0|2|1|91
+Ben Meyer|R|Jay Bruce|L|Home Run|F|Sinker|21|1|1|2|5|91
+Ben Meyer|R|Jay Bruce|L|Home Run|*B|Changeup|22|1|2|2|14|83
+Ben Meyer|R|Jay Bruce|L|Home Run|E|Sinker|23|2|2|2|11|90
+Ben Meyer|R|Brandon Nimmo|L|Single|C|Sinker|24|0|0|2|12|90
+Ben Meyer|R|Brandon Nimmo|L|Single|B|Curveball|25|0|1|2|11|75
+Ben Meyer|R|Brandon Nimmo|L|Single|B|Sinker|26|1|1|2|11|90
+Ben Meyer|R|Brandon Nimmo|L|Single|B|Sinker|27|2|1|2|11|90
+Ben Meyer|R|Brandon Nimmo|L|Single|D|Sinker|28|3|1|2|6|91
+Ben Meyer|R|Dominic Smith|L|Home Run|F|Sinker|29|0|0|2|13|89
+Ben Meyer|R|Dominic Smith|L|Home Run|B|Sinker|30|0|1|2|13|89
+Ben Meyer|R|Dominic Smith|L|Home Run|*B|Changeup|31|1|1|2|13|82
+Ben Meyer|R|Dominic Smith|L|Home Run|F|Sinker|32|2|1|2|7|90
+Ben Meyer|R|Dominic Smith|L|Home Run|E|Sinker|33|2|2|2|1|91
+Ben Meyer|R|Jose Reyes|L|Walk|S|Sinker|34|0|0|2|11|90
+Ben Meyer|R|Jose Reyes|L|Walk|B|Curveball|35|0|1|2|11|75
+Ben Meyer|R|Jose Reyes|L|Walk|B|Curveball|36|1|1|2|11|74
+Ben Meyer|R|Jose Reyes|L|Walk|F|Sinker|37|2|1|2|4|90
+Ben Meyer|R|Jose Reyes|L|Walk|B|Curveball|38|2|2|2|11|75
+Ben Meyer|R|Jose Reyes|L|Walk|B|Sinker|39|3|2|2|11|91
+Ben Meyer|R|Victor Robles|R|Lineout|C|Sinker|0|0|0|0|9|91
+Ben Meyer|R|Victor Robles|R|Lineout|B|Sinker|1|0|1|0|12|92
+Ben Meyer|R|Victor Robles|R|Lineout|F|Curveball|2|1|1|0|4|77
+Ben Meyer|R|Victor Robles|R|Lineout|X|Sinker|3|1|2|0|8|92
+Ben Meyer|R|Adrian Sanchez|R|Single|C|Sinker|4|0|0|1|8|92
+Ben Meyer|R|Adrian Sanchez|R|Single|B|Sinker|5|0|1|1|14|93
+Ben Meyer|R|Adrian Sanchez|R|Single|F|Curveball|6|1|1|1|14|77
+Ben Meyer|R|Adrian Sanchez|R|Single|B|Curveball|7|1|2|1|14|78
+Ben Meyer|R|Adrian Sanchez|R|Single|D|Sinker|8|2|2|1|4|91
+Ben Meyer|R|Juan Soto|L|Walk|B|Sinker|9|0|0|1|11|90
+Ben Meyer|R|Juan Soto|L|Walk|B|Sinker|10|1|0|1|12|90
+Ben Meyer|R|Juan Soto|L|Walk|B|Sinker|11|2|0|1|14|91
+Ben Meyer|R|Juan Soto|L|Walk|*B|Sinker|12|3|0|1|14|91
+Ben Meyer|R|Ryan Zimmerman|R|Grounded Into DP|C|Sinker|13|0|0|1|7|89
+Ben Meyer|R|Ryan Zimmerman|R|Grounded Into DP|F|Sinker|14|0|1|1|2|89
+Ben Meyer|R|Ryan Zimmerman|R|Grounded Into DP|X|Curveball|15|0|2|1|12|76

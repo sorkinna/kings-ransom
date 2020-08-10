@@ -1,0 +1,673 @@
+James Russell|L|Matt Carpenter|L|Strikeout|F|Four-Seam Fastball|0|0|0|1|2|89
+James Russell|L|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|1|0|1|1|11|90
+James Russell|L|Matt Carpenter|L|Strikeout|S|Slider|2|1|1|1|13|83
+James Russell|L|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|3|1|2|1|7|92
+James Russell|L|Matt Adams|L|Groundout|*B|Slider|0|0|0|2|13|83
+James Russell|L|Matt Adams|L|Groundout|X|Slider|1|1|0|2|13|84
+James Russell|L|Jhonny Peralta|R|Flyout|B|Curveball|2|0|0|0|12|74
+James Russell|L|Jhonny Peralta|R|Flyout|C|Curveball|3|1|0|0|7|75
+James Russell|L|Jhonny Peralta|R|Flyout|S|Slider|4|1|1|0|8|84
+James Russell|L|Jhonny Peralta|R|Flyout|B|Slider|5|1|2|0|13|83
+James Russell|L|Jhonny Peralta|R|Flyout|B|Changeup|6|2|2|0|14|81
+James Russell|L|Jhonny Peralta|R|Flyout|X|Two-Seam Fastball|7|3|2|0|13|88
+James Russell|L|Jason Heyward|L|Single|D|Two-Seam Fastball|8|0|0|1|3|88
+James Russell|L|Yadier Molina|R|Groundout|F|Curveball|9|0|0|1|9|75
+James Russell|L|Yadier Molina|R|Groundout|B|Two-Seam Fastball|10|0|1|1|12|88
+James Russell|L|Yadier Molina|R|Groundout|*B|Changeup|11|1|1|1|14|81
+James Russell|L|Yadier Molina|R|Groundout|X|Slider|12|2|1|1|13|84
+James Russell|L|Kolten Wong|L|Single|B|Two-Seam Fastball|13|0|0|2|12|89
+James Russell|L|Kolten Wong|L|Single|F|Slider|14|1|0|2|4|81
+James Russell|L|Kolten Wong|L|Single|E|Two-Seam Fastball|15|1|1|2|6|88
+James Russell|L|Mark Reynolds|R|Flyout|B|Two-Seam Fastball|16|0|0|2|12|88
+James Russell|L|Mark Reynolds|R|Flyout|X|Changeup|17|1|0|2|8|80
+James Russell|L|Jon Jay|L|Groundout|S|Two-Seam Fastball|0|0|0|0|7|87
+James Russell|L|Jon Jay|L|Groundout|F|Cutter|1|0|1|0|11|86
+James Russell|L|Jon Jay|L|Groundout|B|Slider|2|0|2|0|13|81
+James Russell|L|Jon Jay|L|Groundout|B|Slider|3|1|2|0|13|82
+James Russell|L|Jon Jay|L|Groundout|F|Slider|4|2|2|0|7|81
+James Russell|L|Jon Jay|L|Groundout|X|Four-Seam Fastball|5|2|2|0|3|89
+James Russell|L|Kolten Wong|L|Flyout|X|Slider|6|0|0|1|4|84
+James Russell|L|Jhonny Peralta|R|Double|C|Curveball|7|0|0|2|6|74
+James Russell|L|Jhonny Peralta|R|Double|B|Changeup|8|0|1|2|14|81
+James Russell|L|Jhonny Peralta|R|Double|B|Changeup|9|1|1|2|14|81
+James Russell|L|Jhonny Peralta|R|Double|B|Curveball|10|2|1|2|14|73
+James Russell|L|Jhonny Peralta|R|Double|F|Four-Seam Fastball|11|3|1|2|8|86
+James Russell|L|Jhonny Peralta|R|Double|F|Two-Seam Fastball|12|3|2|2|12|87
+James Russell|L|Jhonny Peralta|R|Double|D|Slider|13|3|2|2|4|82
+James Russell|L|Matt Adams|L|Flyout|C|Four-Seam Fastball|14|0|0|2|13|88
+James Russell|L|Matt Adams|L|Flyout|F|Slider|15|0|1|2|2|82
+James Russell|L|Matt Adams|L|Flyout|B|Slider|16|0|2|2|13|82
+James Russell|L|Matt Adams|L|Flyout|X|Slider|17|1|2|2|13|82
+James Russell|L|Elian Herrera|R|Single|D|Two-Seam Fastball|0|0|0|0|14|87
+James Russell|L|Michael Blazek|R|Strikeout|B|Two-Seam Fastball|1|0|0|0|12|87
+James Russell|L|Michael Blazek|R|Strikeout|F|Two-Seam Fastball|2|1|0|0|12|85
+James Russell|L|Michael Blazek|R|Strikeout|F|Four-Seam Fastball|3|1|1|0|11|86
+James Russell|L|Michael Blazek|R|Strikeout|B|Curveball|4|1|2|0|13|75
+James Russell|L|Michael Blazek|R|Strikeout|S|Changeup|5|2|2|0|14|80
+James Russell|L|Jean Segura|R|Grounded Into DP|C|Slider|6|0|0|1|8|83
+James Russell|L|Jean Segura|R|Grounded Into DP|X|Four-Seam Fastball|7|0|1|1|13|86
+James Russell|L|Gerardo Parra|L|Groundout|C|Curveball|0|0|0|0|2|74
+James Russell|L|Gerardo Parra|L|Groundout|X|Slider|1|0|1|0|13|83
+James Russell|L|Carlos Gomez|R|Groundout|B|Two-Seam Fastball|2|0|0|1|14|87
+James Russell|L|Carlos Gomez|R|Groundout|S|Changeup|3|1|0|1|13|84
+James Russell|L|Carlos Gomez|R|Groundout|B|Two-Seam Fastball|4|1|1|1|14|88
+James Russell|L|Carlos Gomez|R|Groundout|X|Two-Seam Fastball|5|2|1|1|14|88
+James Russell|L|Hector Gomez|R|Flyout|C|Curveball|6|0|0|2|5|75
+James Russell|L|Hector Gomez|R|Flyout|T|Two-Seam Fastball|7|0|1|2|12|88
+James Russell|L|Hector Gomez|R|Flyout|F|Slider|8|0|2|2|13|83
+James Russell|L|Hector Gomez|R|Flyout|F|Two-Seam Fastball|9|0|2|2|6|88
+James Russell|L|Hector Gomez|R|Flyout|B|Changeup|10|0|2|2|14|80
+James Russell|L|Hector Gomez|R|Flyout|B|Changeup|11|1|2|2|13|84
+James Russell|L|Hector Gomez|R|Flyout|X|Four-Seam Fastball|12|2|2|2|2|89
+James Russell|L|Ruben Tejada|R|Single|B|Two-Seam Fastball|0|0|0|0|14|87
+James Russell|L|Ruben Tejada|R|Single|D|Two-Seam Fastball|1|1|0|0|6|88
+James Russell|L|Curtis Granderson|L|Pop Out|X|Four-Seam Fastball|2|0|0|0|11|88
+James Russell|L|Daniel Murphy|L|Single|B|Cutter|3|0|0|1|11|87
+James Russell|L|Daniel Murphy|L|Single|B|Four-Seam Fastball|4|1|0|1|13|88
+James Russell|L|Daniel Murphy|L|Single|F|Four-Seam Fastball|5|2|0|1|1|89
+James Russell|L|Daniel Murphy|L|Single|D|Four-Seam Fastball|6|2|1|1|5|89
+James Russell|L|Michael Cuddyer|R|Strikeout|*B|Curveball|7|0|0|1|13|74
+James Russell|L|Michael Cuddyer|R|Strikeout|C|Two-Seam Fastball|8|1|0|1|14|88
+James Russell|L|Michael Cuddyer|R|Strikeout|B|Changeup|9|1|1|1|14|80
+James Russell|L|Michael Cuddyer|R|Strikeout|C|Changeup|10|2|1|1|13|82
+James Russell|L|Michael Cuddyer|R|Strikeout|C|Two-Seam Fastball|11|2|2|1|14|89
+James Russell|L|Lucas Duda|L|Strikeout|*B|Slider|12|0|0|2|13|82
+James Russell|L|Lucas Duda|L|Strikeout|B|Slider|13|1|0|2|3|81
+James Russell|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|14|2|0|2|11|89
+James Russell|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|15|2|1|2|2|89
+James Russell|L|Lucas Duda|L|Strikeout|S|Slider|16|2|2|2|7|84
+James Russell|L|Curtis Granderson|L|Single|B|Four-Seam Fastball|0|0|0|0|8|89
+James Russell|L|Curtis Granderson|L|Single|C|Four-Seam Fastball|1|1|0|0|11|89
+James Russell|L|Curtis Granderson|L|Single|B|Four-Seam Fastball|2|1|1|0|13|88
+James Russell|L|Curtis Granderson|L|Single|F|Four-Seam Fastball|3|2|1|0|1|89
+James Russell|L|Curtis Granderson|L|Single|D|Slider|4|2|2|0|13|83
+James Russell|L|Dilson Herrera|R|Strikeout|B|Four-Seam Fastball|5|0|0|0|14|88
+James Russell|L|Dilson Herrera|R|Strikeout|C|Four-Seam Fastball|6|1|0|0|12|88
+James Russell|L|Dilson Herrera|R|Strikeout|B|Curveball|7|1|1|0|12|74
+James Russell|L|Dilson Herrera|R|Strikeout|S|Changeup|8|2|1|0|14|81
+James Russell|L|Dilson Herrera|R|Strikeout|F|Four-Seam Fastball|9|2|2|0|6|88
+James Russell|L|Dilson Herrera|R|Strikeout|B|Four-Seam Fastball|10|2|2|0|14|88
+James Russell|L|Dilson Herrera|R|Strikeout|S|Changeup|11|3|2|0|9|82
+James Russell|L|Lucas Duda|L|Strikeout|B|Curveball|12|0|0|1|13|74
+James Russell|L|Lucas Duda|L|Strikeout|C|Cutter|13|1|0|1|13|87
+James Russell|L|Lucas Duda|L|Strikeout|B|Changeup|14|1|1|1|13|81
+James Russell|L|Lucas Duda|L|Strikeout|B|Curveball|15|2|1|1|14|73
+James Russell|L|Lucas Duda|L|Strikeout|S|Slider|16|3|1|1|13|83
+James Russell|L|Lucas Duda|L|Strikeout|C|Four-Seam Fastball|17|3|2|1|5|88
+James Russell|L|Gregory Polanco|L|Walk|B|N/A|0|0|0|0|0|0
+James Russell|L|Gregory Polanco|L|Walk|B|N/A|1|1|0|0|0|0
+James Russell|L|Gregory Polanco|L|Walk|B|N/A|2|2|0|0|0|0
+James Russell|L|Gregory Polanco|L|Walk|B|N/A|3|3|0|0|0|0
+James Russell|L|Jordy Mercer|R|Grounded Into DP|C|N/A|4|0|0|0|0|0
+James Russell|L|Jordy Mercer|R|Grounded Into DP|X|N/A|5|0|1|0|0|0
+James Russell|L|Andrew McCutchen|R|Walk|B|N/A|6|0|0|2|0|0
+James Russell|L|Andrew McCutchen|R|Walk|C|N/A|7|1|0|2|0|0
+James Russell|L|Andrew McCutchen|R|Walk|B|N/A|8|1|1|2|0|0
+James Russell|L|Andrew McCutchen|R|Walk|F|N/A|9|2|1|2|0|0
+James Russell|L|Andrew McCutchen|R|Walk|B|N/A|10|2|2|2|0|0
+James Russell|L|Andrew McCutchen|R|Walk|B|N/A|11|3|2|2|0|0
+James Russell|L|Chris Stewart|R|Forceout|X|N/A|12|0|0|2|0|0
+James Russell|L|Jung Ho Kang|R|Groundout|C|Changeup|13|0|0|0|6|80
+James Russell|L|Jung Ho Kang|R|Groundout|X|Changeup|14|0|1|0|14|81
+James Russell|L|Pedro Alvarez|L|Groundout|B|Cutter|15|0|0|1|13|88
+James Russell|L|Pedro Alvarez|L|Groundout|S|Slider|16|1|0|1|13|81
+James Russell|L|Pedro Alvarez|L|Groundout|X|Slider|17|1|1|1|4|82
+James Russell|L|Josh Harrison|R|Double|D|Changeup|18|0|0|2|5|80
+James Russell|L|Francisco Cervelli|R|Flyout|C|Four-Seam Fastball|19|0|0|2|13|89
+James Russell|L|Francisco Cervelli|R|Flyout|C|Two-Seam Fastball|20|0|1|2|3|88
+James Russell|L|Francisco Cervelli|R|Flyout|B|Four-Seam Fastball|21|0|2|2|12|90
+James Russell|L|Francisco Cervelli|R|Flyout|X|Cutter|22|1|2|2|13|85
+James Russell|L|Clint Barmes|R|Field Error|T|Two-Seam Fastball|0|0|0|0|6|88
+James Russell|L|Clint Barmes|R|Field Error|C|Two-Seam Fastball|1|0|1|0|14|89
+James Russell|L|Clint Barmes|R|Field Error|F|Two-Seam Fastball|2|0|2|0|6|89
+James Russell|L|Clint Barmes|R|Field Error|B|Slider|3|0|2|0|14|85
+James Russell|L|Clint Barmes|R|Field Error|B|Changeup|4|1|2|0|13|81
+James Russell|L|Clint Barmes|R|Field Error|F|Changeup|5|2|2|0|14|81
+James Russell|L|Clint Barmes|R|Field Error|F|Two-Seam Fastball|6|2|2|0|8|89
+James Russell|L|Clint Barmes|R|Field Error|F|Two-Seam Fastball|7|2|2|0|12|90
+James Russell|L|Clint Barmes|R|Field Error|D|Two-Seam Fastball|8|2|2|0|12|89
+James Russell|L|Abraham Almonte|R|Single|L|Changeup|9|0|0|0|5|81
+James Russell|L|Abraham Almonte|R|Single|L|Changeup|10|0|1|0|13|81
+James Russell|L|Abraham Almonte|R|Single|*B|Changeup|11|0|2|0|13|84
+James Russell|L|Abraham Almonte|R|Single|F|Changeup|12|1|2|0|12|81
+James Russell|L|Abraham Almonte|R|Single|D|Four-Seam Fastball|13|1|2|0|11|89
+James Russell|L|Cory Spangenberg|L|Forceout|*B|Slider|14|0|0|0|13|82
+James Russell|L|Cory Spangenberg|L|Forceout|L|Slider|15|1|0|0|5|83
+James Russell|L|Cory Spangenberg|L|Forceout|X|Curveball|16|1|1|0|13|75
+James Russell|L|David Peralta|L|Flyout|C|Changeup|0|0|0|2|4|83
+James Russell|L|David Peralta|L|Flyout|B|Changeup|1|0|1|2|13|83
+James Russell|L|David Peralta|L|Flyout|F|Slider|2|1|1|2|7|82
+James Russell|L|David Peralta|L|Flyout|X|Slider|3|1|2|2|8|83
+James Russell|L|Bryce Harper|L|Walk|C|Four-Seam Fastball|0|0|0|0|13|90
+James Russell|L|Bryce Harper|L|Walk|B|Cutter|1|0|1|0|13|88
+James Russell|L|Bryce Harper|L|Walk|B|Four-Seam Fastball|2|1|1|0|13|91
+James Russell|L|Bryce Harper|L|Walk|B|Curveball|3|2|1|0|13|77
+James Russell|L|Bryce Harper|L|Walk|B|Cutter|4|3|1|0|13|85
+James Russell|L|Alex Gordon|L|Strikeout|*B|Slider|0|0|0|1|13|84
+James Russell|L|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|1|1|0|1|13|89
+James Russell|L|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|2|2|0|1|1|89
+James Russell|L|Alex Gordon|L|Strikeout|*B|Slider|3|2|1|1|13|83
+James Russell|L|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|4|3|1|1|4|91
+James Russell|L|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|5|3|2|1|7|90
+James Russell|L|Mike Moustakas|L|Groundout|B|Curveball|0|0|0|1|13|74
+James Russell|L|Mike Moustakas|L|Groundout|C|Curveball|1|1|0|1|5|74
+James Russell|L|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|2|1|1|1|13|90
+James Russell|L|Mike Moustakas|L|Groundout|S|Four-Seam Fastball|3|2|1|1|4|91
+James Russell|L|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|4|2|2|1|1|90
+James Russell|L|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|5|2|2|1|11|90
+James Russell|L|Mike Moustakas|L|Groundout|X|Slider|6|2|2|1|13|83
+James Russell|L|Eric Hosmer|L|Walk|B|Curveball|7|0|0|2|11|76
+James Russell|L|Eric Hosmer|L|Walk|C|Four-Seam Fastball|8|1|0|2|8|90
+James Russell|L|Eric Hosmer|L|Walk|B|Slider|9|1|1|2|13|83
+James Russell|L|Eric Hosmer|L|Walk|C|Four-Seam Fastball|10|2|1|2|7|90
+James Russell|L|Eric Hosmer|L|Walk|B|Four-Seam Fastball|11|2|2|2|12|89
+James Russell|L|Eric Hosmer|L|Walk|F|Four-Seam Fastball|12|3|2|2|4|91
+James Russell|L|Eric Hosmer|L|Walk|B|Four-Seam Fastball|13|3|2|2|13|91
+James Russell|L|Ichiro Suzuki|L|Groundout|B|Changeup|0|0|0|2|12|84
+James Russell|L|Ichiro Suzuki|L|Groundout|F|Slider|1|1|0|2|4|82
+James Russell|L|Ichiro Suzuki|L|Groundout|X|Two-Seam Fastball|2|1|1|2|14|88
+James Russell|L|Christian Yelich|L|Single|F|Four-Seam Fastball|0|0|0|0|7|89
+James Russell|L|Christian Yelich|L|Single|B|Four-Seam Fastball|1|0|1|0|13|90
+James Russell|L|Christian Yelich|L|Single|D|Cutter|2|1|1|0|7|87
+James Russell|L|Dee Gordon|L|Flyout|X|Four-Seam Fastball|3|0|0|0|1|88
+James Russell|L|Martin Prado|R|Grounded Into DP|C|Two-Seam Fastball|4|0|0|1|6|88
+James Russell|L|Martin Prado|R|Grounded Into DP|B|Changeup|5|0|1|1|14|81
+James Russell|L|Martin Prado|R|Grounded Into DP|B|Two-Seam Fastball|6|1|1|1|14|89
+James Russell|L|Martin Prado|R|Grounded Into DP|X|Changeup|7|2|1|1|5|82
+James Russell|L|Denard Span|L|Pop Out|F|Four-Seam Fastball|0|0|0|1|8|89
+James Russell|L|Denard Span|L|Pop Out|B|Four-Seam Fastball|1|0|1|1|11|87
+James Russell|L|Denard Span|L|Pop Out|X|Curveball|2|1|1|1|2|75
+James Russell|L|Denard Span|L|Pop Out|F|Four-Seam Fastball|0|0|0|0|2|90
+James Russell|L|Denard Span|L|Pop Out|B|Four-Seam Fastball|1|0|1|0|13|90
+James Russell|L|Denard Span|L|Pop Out|B|Four-Seam Fastball|2|1|1|0|13|90
+James Russell|L|Denard Span|L|Pop Out|B|Four-Seam Fastball|3|2|1|0|12|90
+James Russell|L|Denard Span|L|Pop Out|F|Four-Seam Fastball|4|3|1|0|1|91
+James Russell|L|Denard Span|L|Pop Out|F|Four-Seam Fastball|5|3|2|0|11|91
+James Russell|L|Denard Span|L|Pop Out|X|Four-Seam Fastball|6|3|2|0|2|90
+James Russell|L|Yunel Escobar|R|Single|F|Two-Seam Fastball|7|0|0|1|6|90
+James Russell|L|Yunel Escobar|R|Single|D|Changeup|8|0|1|1|12|82
+James Russell|L|Bryce Harper|L|Flyout|*B|Cutter|9|0|0|1|13|85
+James Russell|L|Bryce Harper|L|Flyout|C|Cutter|10|1|0|1|11|84
+James Russell|L|Bryce Harper|L|Flyout|X|Slider|11|1|1|1|1|84
+James Russell|L|Brennan Boesch|L|Flyout|S|Four-Seam Fastball|0|0|0|0|4|90
+James Russell|L|Brennan Boesch|L|Flyout|X|Changeup|1|0|1|0|14|85
+James Russell|L|Kristopher Negron|R|Groundout|C|Four-Seam Fastball|2|0|0|1|12|90
+James Russell|L|Kristopher Negron|R|Groundout|F|Two-Seam Fastball|3|0|1|1|9|90
+James Russell|L|Kristopher Negron|R|Groundout|F|Two-Seam Fastball|4|0|2|1|9|92
+James Russell|L|Kristopher Negron|R|Groundout|B|Two-Seam Fastball|5|0|2|1|14|91
+James Russell|L|Kristopher Negron|R|Groundout|F|Four-Seam Fastball|6|1|2|1|11|92
+James Russell|L|Kristopher Negron|R|Groundout|X|Two-Seam Fastball|7|1|2|1|12|91
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|B|Two-Seam Fastball|8|0|0|2|13|91
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|C|Two-Seam Fastball|9|1|0|2|7|91
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|B|Curveball|10|1|1|2|13|75
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|F|Two-Seam Fastball|11|2|1|2|3|90
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|B|Two-Seam Fastball|12|2|2|2|12|91
+James Russell|L|Ivan De Jesus Jr.|R|Groundout|X|Two-Seam Fastball|13|3|2|2|3|90
+James Russell|L|Todd Frazier|R|Groundout|C|Two-Seam Fastball|0|0|0|0|9|89
+James Russell|L|Todd Frazier|R|Groundout|B|Two-Seam Fastball|1|0|1|0|14|89
+James Russell|L|Todd Frazier|R|Groundout|B|Changeup|2|1|1|0|14|82
+James Russell|L|Todd Frazier|R|Groundout|B|Changeup|3|2|1|0|13|83
+James Russell|L|Todd Frazier|R|Groundout|X|Two-Seam Fastball|4|3|1|0|6|90
+James Russell|L|Jay Bruce|L|Strikeout|B|Cutter|5|0|0|1|13|85
+James Russell|L|Jay Bruce|L|Strikeout|C|Four-Seam Fastball|6|1|0|1|11|91
+James Russell|L|Jay Bruce|L|Strikeout|F|Four-Seam Fastball|7|1|1|1|14|90
+James Russell|L|Jay Bruce|L|Strikeout|C|Cutter|8|1|2|1|13|86
+James Russell|L|Brayan Pena|R|Flyout|B|Two-Seam Fastball|9|0|0|2|14|89
+James Russell|L|Brayan Pena|R|Flyout|C|Curveball|10|1|0|2|12|76
+James Russell|L|Brayan Pena|R|Flyout|B|Curveball|11|1|1|2|13|76
+James Russell|L|Brayan Pena|R|Flyout|X|Two-Seam Fastball|12|2|1|2|3|90
+James Russell|L|Skip Schumaker|L|Single|F|Four-Seam Fastball|0|0|0|0|4|90
+James Russell|L|Skip Schumaker|L|Single|D|Two-Seam Fastball|1|0|1|0|9|88
+James Russell|L|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|2|0|0|0|12|88
+James Russell|L|Eugenio Suarez|R|Home Run|C|Four-Seam Fastball|3|1|0|0|14|88
+James Russell|L|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|4|1|1|0|13|90
+James Russell|L|Eugenio Suarez|R|Home Run|F|Four-Seam Fastball|5|2|1|0|8|88
+James Russell|L|Eugenio Suarez|R|Home Run|E|Four-Seam Fastball|6|2|2|0|2|89
+James Russell|L|Joey Votto|L|Single|C|Four-Seam Fastball|7|0|0|0|1|90
+James Russell|L|Joey Votto|L|Single|T|Slider|8|0|1|0|6|85
+James Russell|L|Joey Votto|L|Single|B|Cutter|9|0|2|0|13|86
+James Russell|L|Joey Votto|L|Single|B|Four-Seam Fastball|10|1|2|0|13|90
+James Russell|L|Joey Votto|L|Single|F|Four-Seam Fastball|11|2|2|0|4|90
+James Russell|L|Joey Votto|L|Single|B|Curveball|12|2|2|0|13|76
+James Russell|L|Joey Votto|L|Single|F|Four-Seam Fastball|13|3|2|0|1|90
+James Russell|L|Joey Votto|L|Single|D|Curveball|14|3|2|0|11|75
+James Russell|L|Brandon Moss|L|Groundout|X|Slider|0|0|0|1|7|82
+James Russell|L|Yan Gomes|R|Single|C|Four-Seam Fastball|1|0|0|2|5|89
+James Russell|L|Yan Gomes|R|Single|F|Curveball|2|0|1|2|13|76
+James Russell|L|Yan Gomes|R|Single|D|Changeup|3|0|2|2|8|81
+James Russell|L|David Murphy|L|Flyout|B|Four-Seam Fastball|4|0|0|2|1|89
+James Russell|L|David Murphy|L|Flyout|C|Four-Seam Fastball|5|1|0|2|4|88
+James Russell|L|David Murphy|L|Flyout|B|Four-Seam Fastball|6|1|1|2|13|89
+James Russell|L|David Murphy|L|Flyout|B|Slider|7|2|1|2|14|81
+James Russell|L|David Murphy|L|Flyout|F|Four-Seam Fastball|8|3|1|2|2|90
+James Russell|L|David Murphy|L|Flyout|X|Four-Seam Fastball|9|3|2|2|12|90
+James Russell|L|Gio Urshela|R|Single|C|Four-Seam Fastball|10|0|0|0|9|89
+James Russell|L|Gio Urshela|R|Single|D|Four-Seam Fastball|11|0|1|0|5|90
+James Russell|L|Ryan Raburn|R|Intent Walk|I|Intentional Ball|12|0|0|0|12|69
+James Russell|L|Ryan Raburn|R|Intent Walk|I|Intentional Ball|13|0|1|0|12|72
+James Russell|L|Ryan Raburn|R|Intent Walk|I|Intentional Ball|14|0|2|0|12|70
+James Russell|L|Ryan Raburn|R|Intent Walk|I|Intentional Ball|15|0|2|0|12|67
+James Russell|L|Jason Kipnis|L|Groundout|B|Slider|16|0|0|0|11|82
+James Russell|L|Jason Kipnis|L|Groundout|S|Slider|17|1|0|0|1|82
+James Russell|L|Jason Kipnis|L|Groundout|S|Slider|18|1|1|0|11|83
+James Russell|L|Jason Kipnis|L|Groundout|X|Slider|19|1|2|0|4|84
+James Russell|L|Francisco Lindor|R|Groundout|C|Curveball|0|0|0|2|6|75
+James Russell|L|Francisco Lindor|R|Groundout|F|Four-Seam Fastball|1|0|1|2|13|89
+James Russell|L|Francisco Lindor|R|Groundout|B|Four-Seam Fastball|2|0|2|2|11|90
+James Russell|L|Francisco Lindor|R|Groundout|X|Changeup|3|1|2|2|13|85
+James Russell|L|Michael Brantley|L|Single|D|Four-Seam Fastball|4|0|0|0|4|89
+James Russell|L|Joe Mauer|L|Walk|C|Four-Seam Fastball|0|0|0|0|11|90
+James Russell|L|Joe Mauer|L|Walk|B|Two-Seam Fastball|1|0|1|0|13|90
+James Russell|L|Joe Mauer|L|Walk|B|Slider|2|1|1|0|13|83
+James Russell|L|Joe Mauer|L|Walk|B|Cutter|3|2|1|0|13|85
+James Russell|L|Joe Mauer|L|Walk|S|Four-Seam Fastball|4|3|1|0|7|90
+James Russell|L|Joe Mauer|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|91
+James Russell|L|Joc Pederson|L|Grounded Into DP|B|Four-Seam Fastball|0|0|0|1|12|88
+James Russell|L|Joc Pederson|L|Grounded Into DP|C|Four-Seam Fastball|1|1|0|1|13|88
+James Russell|L|Joc Pederson|L|Grounded Into DP|F|Four-Seam Fastball|2|1|1|1|4|89
+James Russell|L|Joc Pederson|L|Grounded Into DP|B|Slider|3|1|2|1|13|83
+James Russell|L|Joc Pederson|L|Grounded Into DP|B|Four-Seam Fastball|4|2|2|1|12|88
+James Russell|L|Joc Pederson|L|Grounded Into DP|X|Four-Seam Fastball|5|3|2|1|7|89
+James Russell|L|Joc Pederson|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|89
+James Russell|L|Joc Pederson|L|Groundout|B|Four-Seam Fastball|1|0|1|0|13|89
+James Russell|L|Joc Pederson|L|Groundout|X|Cutter|2|1|1|0|11|87
+James Russell|L|Justin Turner|R|Strikeout|C|Curveball|3|0|0|1|7|76
+James Russell|L|Justin Turner|R|Strikeout|C|Changeup|4|0|1|1|8|83
+James Russell|L|Justin Turner|R|Strikeout|B|Changeup|5|0|2|1|14|82
+James Russell|L|Justin Turner|R|Strikeout|S|Changeup|6|1|2|1|6|81
+James Russell|L|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|7|0|0|2|6|89
+James Russell|L|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|8|0|1|2|12|90
+James Russell|L|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|9|1|1|2|11|89
+James Russell|L|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|10|2|1|2|5|89
+James Russell|L|Adrian Gonzalez|L|Strikeout|F|Changeup|11|2|2|2|9|82
+James Russell|L|Adrian Gonzalez|L|Strikeout|C|Cutter|12|2|2|2|13|85
+James Russell|L|Adrian Gonzalez|L|Groundout|C|Slider|0|0|0|2|8|83
+James Russell|L|Adrian Gonzalez|L|Groundout|X|Slider|1|0|1|2|8|82
+James Russell|L|Jason Heyward|L|Pop Out|X|Slider|0|0|0|2|6|81
+James Russell|L|Matt Carpenter|L|Double|B|Four-Seam Fastball|0|0|0|0|12|90
+James Russell|L|Matt Carpenter|L|Double|C|Four-Seam Fastball|1|1|0|0|2|89
+James Russell|L|Matt Carpenter|L|Double|B|Four-Seam Fastball|2|1|1|0|13|90
+James Russell|L|Matt Carpenter|L|Double|S|Four-Seam Fastball|3|2|1|0|1|90
+James Russell|L|Matt Carpenter|L|Double|F|Four-Seam Fastball|4|2|2|0|13|91
+James Russell|L|Matt Carpenter|L|Double|E|Four-Seam Fastball|5|2|2|0|5|90
+James Russell|L|Jhonny Peralta|R|Groundout|B|Changeup|6|0|0|0|12|81
+James Russell|L|Jhonny Peralta|R|Groundout|F|Four-Seam Fastball|7|1|0|0|11|90
+James Russell|L|Jhonny Peralta|R|Groundout|B|Four-Seam Fastball|8|1|1|0|13|90
+James Russell|L|Jhonny Peralta|R|Groundout|X|Changeup|9|2|1|0|9|82
+James Russell|L|Jason Heyward|L|Strikeout|B|Slider|10|0|0|1|11|84
+James Russell|L|Jason Heyward|L|Strikeout|C|Cutter|11|1|0|1|13|86
+James Russell|L|Jason Heyward|L|Strikeout|F|Four-Seam Fastball|12|1|1|1|3|90
+James Russell|L|Jason Heyward|L|Strikeout|S|Four-Seam Fastball|13|1|2|1|11|90
+James Russell|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|0|0|0|2|2|91
+James Russell|L|Lucas Duda|L|Strikeout|C|Four-Seam Fastball|1|0|1|2|7|91
+James Russell|L|Lucas Duda|L|Strikeout|B|Cutter|2|0|2|2|13|86
+James Russell|L|Lucas Duda|L|Strikeout|T|Cutter|3|1|2|2|11|85
+James Russell|L|Daniel Murphy|L|Groundout|C|Curveball|4|0|0|0|6|76
+James Russell|L|Daniel Murphy|L|Groundout|X|Slider|5|0|1|0|13|84
+James Russell|L|Darrell Ceciliani|L|Single|B|Four-Seam Fastball|6|0|0|1|13|92
+James Russell|L|Darrell Ceciliani|L|Single|D|Two-Seam Fastball|7|1|0|1|13|91
+James Russell|L|Jeff Baker|R|Strikeout|C|Curveball|0|0|0|0|4|75
+James Russell|L|Jeff Baker|R|Strikeout|C|Two-Seam Fastball|1|0|1|0|9|89
+James Russell|L|Jeff Baker|R|Strikeout|T|Two-Seam Fastball|2|0|2|0|14|90
+James Russell|L|Dee Gordon|L|Single|F|Four-Seam Fastball|3|0|0|1|4|90
+James Russell|L|Dee Gordon|L|Single|B|Slider|4|0|1|1|13|84
+James Russell|L|Dee Gordon|L|Single|B|Four-Seam Fastball|5|1|1|1|12|90
+James Russell|L|Dee Gordon|L|Single|D|Two-Seam Fastball|6|2|1|1|3|89
+James Russell|L|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|7|0|0|1|11|90
+James Russell|L|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|8|1|0|1|12|90
+James Russell|L|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|9|2|0|1|9|89
+James Russell|L|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|10|2|1|1|5|90
+James Russell|L|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|11|2|2|1|11|89
+James Russell|L|Christian Yelich|L|Strikeout|F|Slider|12|3|2|1|5|82
+James Russell|L|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|13|3|2|1|4|90
+James Russell|L|Christian Yelich|L|Strikeout|S|Slider|14|3|2|1|4|82
+James Russell|L|Dee Gordon|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|89
+James Russell|L|Dee Gordon|L|Flyout|C|Four-Seam Fastball|1|1|0|0|7|89
+James Russell|L|Dee Gordon|L|Flyout|F|Four-Seam Fastball|2|1|1|0|8|88
+James Russell|L|Dee Gordon|L|Flyout|X|Curveball|3|1|2|0|8|75
+James Russell|L|Christian Yelich|L|Single|F|Four-Seam Fastball|4|0|0|1|4|90
+James Russell|L|Christian Yelich|L|Single|D|Four-Seam Fastball|5|0|1|1|3|89
+James Russell|L|Jason Heyward|L|Forceout|E|Four-Seam Fastball|0|0|0|0|6|89
+James Russell|L|A.J. Pierzynski|L|Lineout|B|Four-Seam Fastball|0|0|0|0|1|90
+James Russell|L|A.J. Pierzynski|L|Lineout|T|Four-Seam Fastball|1|1|0|0|8|89
+James Russell|L|A.J. Pierzynski|L|Lineout|F|Four-Seam Fastball|2|1|1|0|13|90
+James Russell|L|A.J. Pierzynski|L|Lineout|X|Changeup|3|1|2|0|13|82
+James Russell|L|Pedro Ciriaco|R|Strikeout|C|Four-Seam Fastball|4|0|0|1|9|89
+James Russell|L|Pedro Ciriaco|R|Strikeout|B|Changeup|5|0|1|1|13|82
+James Russell|L|Pedro Ciriaco|R|Strikeout|S|Changeup|6|1|1|1|13|82
+James Russell|L|Pedro Ciriaco|R|Strikeout|F|Four-Seam Fastball|7|1|2|1|11|91
+James Russell|L|Pedro Ciriaco|R|Strikeout|W|Curveball|8|1|2|1|13|76
+James Russell|L|Eury Perez|R|Walk|C|Four-Seam Fastball|9|0|0|2|4|90
+James Russell|L|Eury Perez|R|Walk|F|Two-Seam Fastball|10|0|1|2|4|89
+James Russell|L|Eury Perez|R|Walk|F|Curveball|11|0|2|2|13|76
+James Russell|L|Eury Perez|R|Walk|B|Four-Seam Fastball|12|0|2|2|13|91
+James Russell|L|Eury Perez|R|Walk|B|Changeup|13|1|2|2|14|83
+James Russell|L|Eury Perez|R|Walk|F|Four-Seam Fastball|14|2|2|2|11|91
+James Russell|L|Eury Perez|R|Walk|F|Four-Seam Fastball|15|2|2|2|14|90
+James Russell|L|Eury Perez|R|Walk|B|Slider|16|2|2|2|13|84
+James Russell|L|Eury Perez|R|Walk|B|Four-Seam Fastball|17|3|2|2|11|90
+James Russell|L|Brayan Pena|R|Groundout|C|Two-Seam Fastball|0|0|0|2|9|91
+James Russell|L|Brayan Pena|R|Groundout|C|Four-Seam Fastball|1|0|1|2|11|91
+James Russell|L|Brayan Pena|R|Groundout|B|Slider|2|0|2|2|14|85
+James Russell|L|Brayan Pena|R|Groundout|F|Changeup|3|1|2|2|14|83
+James Russell|L|Brayan Pena|R|Groundout|F|Two-Seam Fastball|4|1|2|2|4|92
+James Russell|L|Brayan Pena|R|Groundout|X|Cutter|5|1|2|2|11|85
+James Russell|L|Marlon Byrd|R|Groundout|X|Two-Seam Fastball|6|0|0|0|14|90
+James Russell|L|Eugenio Suarez|R|Flyout|C|Four-Seam Fastball|7|0|0|1|1|91
+James Russell|L|Eugenio Suarez|R|Flyout|B|Cutter|8|0|1|1|13|86
+James Russell|L|Eugenio Suarez|R|Flyout|X|Two-Seam Fastball|9|1|1|1|8|90
+James Russell|L|Cesar Hernandez|R|Single|B|Curveball|0|0|0|0|12|74
+James Russell|L|Cesar Hernandez|R|Single|D|Changeup|1|1|0|0|6|82
+James Russell|L|Ben Revere|L|Sac Bunt|X|Four-Seam Fastball|2|0|0|0|11|90
+James Russell|L|Carlos Ruiz|R|Groundout|X|Four-Seam Fastball|0|0|0|0|7|90
+James Russell|L|Cody Asche|L|Single|B|Four-Seam Fastball|1|0|0|1|12|90
+James Russell|L|Cody Asche|L|Single|C|Four-Seam Fastball|2|1|0|1|8|90
+James Russell|L|Cody Asche|L|Single|C|Four-Seam Fastball|3|1|1|1|8|90
+James Russell|L|Cody Asche|L|Single|B|Changeup|4|1|2|1|13|84
+James Russell|L|Cody Asche|L|Single|B|Changeup|5|2|2|1|14|83
+James Russell|L|Cody Asche|L|Single|D|Four-Seam Fastball|6|3|2|1|13|91
+James Russell|L|Freddy Galvis|R|Double|B|Two-Seam Fastball|7|0|0|1|14|89
+James Russell|L|Freddy Galvis|R|Double|F|Four-Seam Fastball|8|1|0|1|3|88
+James Russell|L|Freddy Galvis|R|Double|F|Two-Seam Fastball|9|1|1|1|6|90
+James Russell|L|Freddy Galvis|R|Double|E|Four-Seam Fastball|10|1|2|1|13|90
+James Russell|L|Domonic Brown|L|Flyout|S|Four-Seam Fastball|11|0|0|1|4|90
+James Russell|L|Domonic Brown|L|Flyout|X|Curveball|12|0|1|1|6|74
+James Russell|L|Cole Hamels|L|Double|C|Four-Seam Fastball|13|0|0|2|1|91
+James Russell|L|Cole Hamels|L|Double|S|Four-Seam Fastball|14|0|1|2|13|91
+James Russell|L|Cole Hamels|L|Double|D|Four-Seam Fastball|15|0|2|2|13|91
+James Russell|L|Cesar Hernandez|R|Single|D|Curveball|16|0|0|2|7|76
+James Russell|L|Odubel Herrera|L|Lineout|C|Four-Seam Fastball|17|0|0|2|13|91
+James Russell|L|Odubel Herrera|L|Lineout|X|Four-Seam Fastball|18|0|1|2|5|90
+James Russell|L|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|0|0|0|1|4|90
+James Russell|L|Carlos Gonzalez|L|Strikeout|F|Slider|1|0|1|1|13|82
+James Russell|L|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|2|0|2|1|12|89
+James Russell|L|Carlos Gonzalez|L|Strikeout|W|Slider|3|1|2|1|13|82
+James Russell|L|Nolan Arenado|R|Groundout|C|Two-Seam Fastball|4|0|0|2|3|89
+James Russell|L|Nolan Arenado|R|Groundout|X|Two-Seam Fastball|5|0|1|2|5|89
+James Russell|L|Elian Herrera|R|Groundout|F|Four-Seam Fastball|0|0|0|0|14|88
+James Russell|L|Elian Herrera|R|Groundout|B|Two-Seam Fastball|1|0|1|0|14|89
+James Russell|L|Elian Herrera|R|Groundout|B|Changeup|2|1|1|0|14|82
+James Russell|L|Elian Herrera|R|Groundout|B|Two-Seam Fastball|3|2|1|0|12|90
+James Russell|L|Elian Herrera|R|Groundout|C|Two-Seam Fastball|4|3|1|0|14|89
+James Russell|L|Elian Herrera|R|Groundout|X|Two-Seam Fastball|5|3|2|0|8|89
+James Russell|L|Shane Peterson|L|Lineout|C|Curveball|6|0|0|1|1|75
+James Russell|L|Shane Peterson|L|Lineout|X|Four-Seam Fastball|7|0|1|1|4|89
+James Russell|L|Hernan Perez|R|Groundout|F|Two-Seam Fastball|8|0|0|2|6|90
+James Russell|L|Hernan Perez|R|Groundout|B|Two-Seam Fastball|9|0|1|2|12|89
+James Russell|L|Hernan Perez|R|Groundout|F|Four-Seam Fastball|10|1|1|2|11|88
+James Russell|L|Hernan Perez|R|Groundout|B|Changeup|11|1|2|2|14|82
+James Russell|L|Hernan Perez|R|Groundout|B|Cutter|12|2|2|2|14|85
+James Russell|L|Hernan Perez|R|Groundout|X|Two-Seam Fastball|13|3|2|2|3|90
+James Russell|L|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|5|90
+James Russell|L|Gregory Polanco|L|Strikeout|S|Changeup|1|0|1|0|13|85
+James Russell|L|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|91
+James Russell|L|Gregory Polanco|L|Strikeout|B|Slider|3|1|2|0|13|83
+James Russell|L|Gregory Polanco|L|Strikeout|C|Cutter|4|2|2|0|1|84
+James Russell|L|Starling Marte|R|Groundout|B|Curveball|5|0|0|1|12|76
+James Russell|L|Starling Marte|R|Groundout|F|Two-Seam Fastball|6|1|0|1|8|89
+James Russell|L|Starling Marte|R|Groundout|B|Four-Seam Fastball|7|1|1|1|13|90
+James Russell|L|Starling Marte|R|Groundout|B|Four-Seam Fastball|8|2|1|1|11|90
+James Russell|L|Starling Marte|R|Groundout|X|Two-Seam Fastball|9|3|1|1|7|88
+James Russell|L|Brandon Belt|L|Lineout|B|Four-Seam Fastball|0|0|0|2|11|90
+James Russell|L|Brandon Belt|L|Lineout|X|Four-Seam Fastball|1|1|0|2|2|89
+James Russell|L|Brandon Crawford|L|Single|C|Four-Seam Fastball|2|0|0|0|2|90
+James Russell|L|Brandon Crawford|L|Single|B|Slider|3|0|1|0|13|83
+James Russell|L|Brandon Crawford|L|Single|B|Slider|4|1|1|0|13|84
+James Russell|L|Brandon Crawford|L|Single|D|Four-Seam Fastball|5|2|1|0|1|91
+James Russell|L|Ehire Adrianza|R|Double|E|Four-Seam Fastball|6|0|0|0|8|90
+James Russell|L|Hernan Perez|R|Lineout|B|Curveball|0|0|0|0|12|74
+James Russell|L|Hernan Perez|R|Lineout|C|Four-Seam Fastball|1|1|0|0|9|90
+James Russell|L|Hernan Perez|R|Lineout|F|Four-Seam Fastball|2|1|1|0|6|88
+James Russell|L|Hernan Perez|R|Lineout|X|Slider|3|1|2|0|9|84
+James Russell|L|Elian Herrera|R|Pop Out|F|Two-Seam Fastball|4|0|0|1|5|89
+James Russell|L|Elian Herrera|R|Pop Out|B|Four-Seam Fastball|5|0|1|1|12|89
+James Russell|L|Elian Herrera|R|Pop Out|X|Two-Seam Fastball|6|1|1|1|4|90
+James Russell|L|Jean Segura|R|Single|B|Curveball|7|0|0|2|13|76
+James Russell|L|Jean Segura|R|Single|D|Two-Seam Fastball|8|1|0|2|5|90
+James Russell|L|Logan Schafer|L|Lineout|S|Four-Seam Fastball|9|0|0|2|11|90
+James Russell|L|Logan Schafer|L|Lineout|S|Four-Seam Fastball|10|0|1|2|4|90
+James Russell|L|Logan Schafer|L|Lineout|X|Four-Seam Fastball|11|0|2|2|11|91
+James Russell|L|Adam LaRoche|L|Flyout|X|Slider|0|0|0|0|5|84
+James Russell|L|Alexei Ramirez|R|Groundout|C|Curveball|1|0|0|1|13|75
+James Russell|L|Alexei Ramirez|R|Groundout|B|Four-Seam Fastball|2|0|1|1|13|91
+James Russell|L|Alexei Ramirez|R|Groundout|C|Two-Seam Fastball|3|1|1|1|9|90
+James Russell|L|Alexei Ramirez|R|Groundout|B|Four-Seam Fastball|4|1|2|1|13|91
+James Russell|L|Alexei Ramirez|R|Groundout|B|Changeup|5|2|2|1|14|83
+James Russell|L|Alexei Ramirez|R|Groundout|X|Changeup|6|3|2|1|13|82
+James Russell|L|Yolmer Sanchez|R|Double|B|Two-Seam Fastball|7|0|0|2|13|90
+James Russell|L|Yolmer Sanchez|R|Double|D|Changeup|8|1|0|2|7|83
+James Russell|L|Rajai Davis|R|Pop Out|B|Curveball|0|0|0|0|14|72
+James Russell|L|Rajai Davis|R|Pop Out|X|Changeup|1|1|0|0|7|81
+James Russell|L|Anthony Gose|L|Double|L|Four-Seam Fastball|2|0|0|1|5|89
+James Russell|L|Anthony Gose|L|Double|B|Four-Seam Fastball|3|0|1|1|12|89
+James Russell|L|Anthony Gose|L|Double|B|Four-Seam Fastball|4|1|1|1|13|89
+James Russell|L|Anthony Gose|L|Double|F|Four-Seam Fastball|5|2|1|1|2|89
+James Russell|L|Anthony Gose|L|Double|F|Four-Seam Fastball|6|2|2|1|11|90
+James Russell|L|Anthony Gose|L|Double|B|Slider|7|2|2|1|13|83
+James Russell|L|Anthony Gose|L|Double|D|Four-Seam Fastball|8|3|2|1|2|90
+James Russell|L|Ian Kinsler|R|Sac Fly|C|Changeup|9|0|0|1|2|83
+James Russell|L|Ian Kinsler|R|Sac Fly|B|Four-Seam Fastball|10|0|1|1|11|90
+James Russell|L|Ian Kinsler|R|Sac Fly|F|Cutter|11|1|1|1|13|87
+James Russell|L|Ian Kinsler|R|Sac Fly|F|Four-Seam Fastball|12|1|2|1|14|89
+James Russell|L|Ian Kinsler|R|Sac Fly|E|Changeup|13|1|2|1|13|82
+James Russell|L|Miguel Cabrera|R|Flyout|F|Curveball|14|0|0|2|1|75
+James Russell|L|Miguel Cabrera|R|Flyout|B|Changeup|15|0|1|2|13|83
+James Russell|L|Miguel Cabrera|R|Flyout|X|Curveball|16|1|1|2|5|75
+James Russell|L|Nicholas Castellanos|R|Double|B|Curveball|0|0|0|0|13|76
+James Russell|L|Nicholas Castellanos|R|Double|B|Changeup|1|1|0|0|14|83
+James Russell|L|Nicholas Castellanos|R|Double|D|Changeup|2|2|0|0|8|81
+James Russell|L|James McCann|R|Strikeout|B|Four-Seam Fastball|3|0|0|0|11|90
+James Russell|L|James McCann|R|Strikeout|C|Four-Seam Fastball|4|1|0|0|12|88
+James Russell|L|James McCann|R|Strikeout|S|Four-Seam Fastball|5|1|1|0|11|89
+James Russell|L|James McCann|R|Strikeout|F|Four-Seam Fastball|6|1|2|0|5|91
+James Russell|L|James McCann|R|Strikeout|F|Curveball|7|1|2|0|13|77
+James Russell|L|James McCann|R|Strikeout|B|Four-Seam Fastball|8|1|2|0|11|90
+James Russell|L|James McCann|R|Strikeout|S|Four-Seam Fastball|9|2|2|0|4|89
+James Russell|L|Jose Iglesias|R|Strikeout|B|Four-Seam Fastball|10|0|0|1|13|90
+James Russell|L|Jose Iglesias|R|Strikeout|B|Four-Seam Fastball|11|1|0|1|11|90
+James Russell|L|Jose Iglesias|R|Strikeout|F|Changeup|12|2|0|1|8|82
+James Russell|L|Jose Iglesias|R|Strikeout|F|Cutter|13|2|1|1|12|88
+James Russell|L|Jose Iglesias|R|Strikeout|W|Curveball|14|2|2|1|13|75
+James Russell|L|Anthony Gose|L|Triple|B|Curveball|15|0|0|2|13|77
+James Russell|L|Anthony Gose|L|Triple|F|Four-Seam Fastball|16|1|0|2|12|89
+James Russell|L|Anthony Gose|L|Triple|E|Two-Seam Fastball|17|1|1|2|3|89
+James Russell|L|Tyler Collins|L|Double|S|Four-Seam Fastball|18|0|0|2|4|91
+James Russell|L|Tyler Collins|L|Double|E|Four-Seam Fastball|19|0|1|2|11|90
+James Russell|L|Victor Martinez|R|Double|B|Four-Seam Fastball|20|0|0|2|13|89
+James Russell|L|Victor Martinez|R|Double|S|Two-Seam Fastball|21|1|0|2|5|89
+James Russell|L|Victor Martinez|R|Double|*B|Curveball|22|1|1|2|13|76
+James Russell|L|Victor Martinez|R|Double|B|Two-Seam Fastball|23|2|1|2|12|88
+James Russell|L|Victor Martinez|R|Double|F|Four-Seam Fastball|24|3|1|2|1|89
+James Russell|L|Victor Martinez|R|Double|F|Changeup|25|3|2|2|13|83
+James Russell|L|Victor Martinez|R|Double|F|Four-Seam Fastball|26|3|2|2|11|89
+James Russell|L|Victor Martinez|R|Double|F|Two-Seam Fastball|27|3|2|2|2|89
+James Russell|L|Victor Martinez|R|Double|E|Changeup|28|3|2|2|9|82
+James Russell|L|Ian Kinsler|R|Lineout|C|Two-Seam Fastball|29|0|0|2|14|89
+James Russell|L|Ian Kinsler|R|Lineout|X|Two-Seam Fastball|30|0|1|2|6|88
+James Russell|L|Miguel Cabrera|R|Double|D|Four-Seam Fastball|31|0|0|0|4|86
+James Russell|L|J.D. Martinez|R|Home Run|B|Curveball|32|0|0|0|13|73
+James Russell|L|J.D. Martinez|R|Home Run|B|Changeup|33|1|0|0|14|81
+James Russell|L|J.D. Martinez|R|Home Run|B|Four-Seam Fastball|34|2|0|0|12|87
+James Russell|L|J.D. Martinez|R|Home Run|C|Four-Seam Fastball|35|3|0|0|12|87
+James Russell|L|J.D. Martinez|R|Home Run|E|Changeup|36|3|1|0|5|80
+James Russell|L|Andrew Romine|R|Groundout|S|Four-Seam Fastball|37|0|0|0|1|88
+James Russell|L|Andrew Romine|R|Groundout|F|Four-Seam Fastball|38|0|1|0|2|87
+James Russell|L|Andrew Romine|R|Groundout|F|Two-Seam Fastball|39|0|2|0|12|88
+James Russell|L|Andrew Romine|R|Groundout|B|Slider|40|0|2|0|13|82
+James Russell|L|Andrew Romine|R|Groundout|B|Curveball|41|1|2|0|13|74
+James Russell|L|Andrew Romine|R|Groundout|X|Curveball|42|2|2|0|14|74
+James Russell|L|James McCann|R|Lineout|F|Two-Seam Fastball|43|0|0|1|1|87
+James Russell|L|James McCann|R|Lineout|X|Two-Seam Fastball|44|0|1|1|4|88
+James Russell|L|Jonny Gomes|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|90
+James Russell|L|Jonny Gomes|R|Strikeout|B|Curveball|1|0|1|0|13|77
+James Russell|L|Jonny Gomes|R|Strikeout|S|Changeup|2|1|1|0|8|83
+James Russell|L|Jonny Gomes|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|90
+James Russell|L|Jonny Gomes|R|Strikeout|C|Two-Seam Fastball|4|2|2|0|9|90
+James Russell|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|91
+James Russell|L|Nick Markakis|L|Groundout|C|Four-Seam Fastball|6|1|0|1|13|91
+James Russell|L|Nick Markakis|L|Groundout|B|Changeup|7|1|1|1|14|84
+James Russell|L|Nick Markakis|L|Groundout|X|Four-Seam Fastball|8|2|1|1|14|90
+James Russell|L|Cameron Maybin|R|Pop Out|C|Four-Seam Fastball|9|0|0|2|13|90
+James Russell|L|Cameron Maybin|R|Pop Out|F|Curveball|10|0|1|2|5|76
+James Russell|L|Cameron Maybin|R|Pop Out|B|Changeup|11|0|2|2|14|82
+James Russell|L|Cameron Maybin|R|Pop Out|X|Changeup|12|1|2|2|7|83
+James Russell|L|Brandon Belt|L|Walk|C|Four-Seam Fastball|0|0|0|0|4|90
+James Russell|L|Brandon Belt|L|Walk|B|Changeup|1|0|1|0|14|81
+James Russell|L|Brandon Belt|L|Walk|B|Changeup|2|1|1|0|14|82
+James Russell|L|Brandon Belt|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|89
+James Russell|L|Brandon Belt|L|Walk|B|Four-Seam Fastball|4|3|1|0|12|89
+James Russell|L|Buster Posey|R|Double|D|Two-Seam Fastball|5|0|0|0|9|88
+James Russell|L|Marlon Byrd|R|Intent Walk|I|Intentional Ball|6|0|0|0|0|0
+James Russell|L|Marlon Byrd|R|Intent Walk|I|Intentional Ball|7|0|1|0|12|71
+James Russell|L|Marlon Byrd|R|Intent Walk|I|Intentional Ball|8|0|2|0|12|72
+James Russell|L|Marlon Byrd|R|Intent Walk|I|Intentional Ball|9|0|2|0|12|69
+James Russell|L|Kelby Tomlinson|R|Home Run|S|Curveball|10|0|0|0|13|75
+James Russell|L|Kelby Tomlinson|R|Home Run|B|Changeup|11|0|1|0|7|82
+James Russell|L|Kelby Tomlinson|R|Home Run|F|Changeup|12|1|1|0|7|82
+James Russell|L|Kelby Tomlinson|R|Home Run|F|Four-Seam Fastball|13|1|2|0|7|89
+James Russell|L|Kelby Tomlinson|R|Home Run|F|Four-Seam Fastball|14|1|2|0|11|88
+James Russell|L|Kelby Tomlinson|R|Home Run|E|Curveball|15|1|2|0|13|76
+James Russell|L|Juan Carlo Perez|R|Single|X|Four-Seam Fastball|16|0|0|0|8|90
+James Russell|L|Ehire Adrianza|R|Flyout|X|Four-Seam Fastball|17|0|0|1|6|90
+James Russell|L|Justin Maxwell|R|Pop Out|X|Changeup|18|0|0|2|8|83
+James Russell|L|Carl Crawford|L|Flyout|S|Slider|0|0|0|0|13|84
+James Russell|L|Carl Crawford|L|Flyout|B|Four-Seam Fastball|1|0|1|0|13|92
+James Russell|L|Carl Crawford|L|Flyout|X|Slider|2|1|1|0|4|82
+James Russell|L|Eugenio Suarez|R|Field Error|C|Curveball|0|0|0|2|5|75
+James Russell|L|Eugenio Suarez|R|Field Error|S|Four-Seam Fastball|1|0|1|2|1|90
+James Russell|L|Eugenio Suarez|R|Field Error|*B|Slider|2|0|2|2|13|84
+James Russell|L|Eugenio Suarez|R|Field Error|B|Slider|3|1|2|2|13|84
+James Russell|L|Eugenio Suarez|R|Field Error|E|Two-Seam Fastball|4|2|2|2|14|91
+James Russell|L|Tucker Barnhart|R|Single|*B|Curveball|5|0|0|2|13|75
+James Russell|L|Tucker Barnhart|R|Single|F|Four-Seam Fastball|6|1|0|2|1|89
+James Russell|L|Tucker Barnhart|R|Single|F|Changeup|7|1|1|2|5|83
+James Russell|L|Tucker Barnhart|R|Single|F|Two-Seam Fastball|8|1|2|2|6|91
+James Russell|L|Tucker Barnhart|R|Single|F|Four-Seam Fastball|9|1|2|2|6|90
+James Russell|L|Tucker Barnhart|R|Single|B|Four-Seam Fastball|10|1|2|2|13|91
+James Russell|L|Tucker Barnhart|R|Single|F|Two-Seam Fastball|11|2|2|2|2|91
+James Russell|L|Tucker Barnhart|R|Single|E|Two-Seam Fastball|12|2|2|2|7|91
+James Russell|L|Aroldis Chapman|L|Field Error|B|Four-Seam Fastball|13|0|0|2|13|90
+James Russell|L|Aroldis Chapman|L|Field Error|C|Four-Seam Fastball|14|1|0|2|13|90
+James Russell|L|Aroldis Chapman|L|Field Error|E|Four-Seam Fastball|15|1|1|2|5|89
+James Russell|L|Jason Bourgeois|R|Double|E|Slider|16|0|0|2|13|83
+James Russell|L|Jay Bruce|L|Groundout|B|Four-Seam Fastball|17|0|0|2|11|91
+James Russell|L|Jay Bruce|L|Groundout|B|Four-Seam Fastball|18|1|0|2|13|89
+James Russell|L|Jay Bruce|L|Groundout|B|Four-Seam Fastball|19|2|0|2|13|90
+James Russell|L|Jay Bruce|L|Groundout|C|Four-Seam Fastball|20|3|0|2|13|90
+James Russell|L|Jay Bruce|L|Groundout|X|Four-Seam Fastball|21|3|1|2|7|90
+James Russell|L|Zack Cozart|R|Sac Fly|E|Curveball|0|0|0|0|8|73
+James Russell|L|Eugenio Suarez|R|Walk|C|Slider|1|0|0|1|13|81
+James Russell|L|Eugenio Suarez|R|Walk|B|Curveball|2|0|1|1|14|74
+James Russell|L|Eugenio Suarez|R|Walk|S|Slider|3|1|1|1|5|82
+James Russell|L|Eugenio Suarez|R|Walk|*B|Curveball|4|1|2|1|13|74
+James Russell|L|Eugenio Suarez|R|Walk|B|Changeup|5|2|2|1|14|80
+James Russell|L|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|6|3|2|1|13|88
+James Russell|L|Joey Votto|L|Single|B|Slider|7|0|0|1|13|81
+James Russell|L|Joey Votto|L|Single|C|Two-Seam Fastball|8|1|0|1|8|87
+James Russell|L|Joey Votto|L|Single|E|Two-Seam Fastball|9|1|1|1|6|87
+James Russell|L|Curtis Granderson|L|Groundout|C|Slider|0|0|0|2|4|82
+James Russell|L|Curtis Granderson|L|Groundout|S|Slider|1|0|1|2|4|81
+James Russell|L|Curtis Granderson|L|Groundout|X|Slider|2|0|2|2|13|82
+James Russell|L|David Wright|R|Walk|B|Four-Seam Fastball|3|0|0|0|14|87
+James Russell|L|David Wright|R|Walk|B|Slider|4|1|0|0|14|80
+James Russell|L|David Wright|R|Walk|B|Two-Seam Fastball|5|2|0|0|12|88
+James Russell|L|David Wright|R|Walk|C|Two-Seam Fastball|6|3|0|0|14|87
+James Russell|L|David Wright|R|Walk|S|Two-Seam Fastball|7|3|1|0|6|88
+James Russell|L|David Wright|R|Walk|F|Two-Seam Fastball|8|3|2|0|9|88
+James Russell|L|David Wright|R|Walk|B|Changeup|9|3|2|0|12|81
+James Russell|L|Yoenis Cespedes|R|Single|C|Four-Seam Fastball|10|0|0|0|8|88
+James Russell|L|Yoenis Cespedes|R|Single|F|Slider|11|0|1|0|13|83
+James Russell|L|Yoenis Cespedes|R|Single|F|Two-Seam Fastball|12|0|2|0|3|89
+James Russell|L|Yoenis Cespedes|R|Single|D|Curveball|13|0|2|0|9|76
+James Russell|L|Lucas Duda|L|Walk|C|Slider|14|0|0|0|13|83
+James Russell|L|Lucas Duda|L|Walk|B|Slider|15|0|1|0|13|82
+James Russell|L|Lucas Duda|L|Walk|B|Two-Seam Fastball|16|1|1|0|14|88
+James Russell|L|Lucas Duda|L|Walk|B|Slider|17|2|1|0|13|80
+James Russell|L|Lucas Duda|L|Walk|B|Slider|18|3|1|0|11|80
+James Russell|L|Neil Walker|R|Single|B|Slider|19|0|0|0|13|81
+James Russell|L|Neil Walker|R|Single|S|Cutter|20|1|0|0|11|88
+James Russell|L|Neil Walker|R|Single|S|Cutter|21|1|1|0|11|88
+James Russell|L|Neil Walker|R|Single|F|Cutter|22|1|2|0|11|88
+James Russell|L|Neil Walker|R|Single|E|Slider|23|1|2|0|14|83
+James Russell|L|Michael Conforto|L|Single|C|Slider|24|0|0|0|11|82
+James Russell|L|Michael Conforto|L|Single|B|Four-Seam Fastball|25|0|1|0|14|88
+James Russell|L|Michael Conforto|L|Single|B|Four-Seam Fastball|26|1|1|0|12|87
+James Russell|L|Michael Conforto|L|Single|E|Slider|27|2|1|0|13|80
+James Russell|L|Lucas Duda|L|Flyout|C|Slider|0|0|0|2|4|81
+James Russell|L|Lucas Duda|L|Flyout|B|Curveball|1|0|1|2|13|74
+James Russell|L|Lucas Duda|L|Flyout|F|Slider|2|1|1|2|11|82
+James Russell|L|Lucas Duda|L|Flyout|F|Four-Seam Fastball|3|1|2|2|11|90
+James Russell|L|Lucas Duda|L|Flyout|X|Curveball|4|1|2|2|8|75
+James Russell|L|Jon Jay|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|89
+James Russell|L|Jon Jay|L|Flyout|F|Four-Seam Fastball|1|0|1|0|2|88
+James Russell|L|Jon Jay|L|Flyout|B|Slider|2|0|2|0|13|84
+James Russell|L|Jon Jay|L|Flyout|F|Slider|3|1|2|0|13|84
+James Russell|L|Jon Jay|L|Flyout|F|Two-Seam Fastball|4|1|2|0|14|90
+James Russell|L|Jon Jay|L|Flyout|B|Slider|5|1|2|0|11|84
+James Russell|L|Jon Jay|L|Flyout|X|Slider|6|2|2|0|7|83
+James Russell|L|Cory Spangenberg|L|Walk|B|Cutter|7|0|0|1|13|89
+James Russell|L|Cory Spangenberg|L|Walk|B|Slider|8|1|0|1|13|84
+James Russell|L|Cory Spangenberg|L|Walk|S|Four-Seam Fastball|9|2|0|1|12|89
+James Russell|L|Cory Spangenberg|L|Walk|C|Four-Seam Fastball|10|2|1|1|11|90
+James Russell|L|Cory Spangenberg|L|Walk|B|Slider|11|2|2|1|13|83
+James Russell|L|Cory Spangenberg|L|Walk|F|Slider|12|3|2|1|1|83
+James Russell|L|Cory Spangenberg|L|Walk|B|Four-Seam Fastball|13|3|2|1|11|89
+James Russell|L|Matthew den Dekker|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|89
+James Russell|L|Matthew den Dekker|L|Strikeout|B|Slider|1|0|1|0|13|83
+James Russell|L|Matthew den Dekker|L|Strikeout|C|Slider|2|1|1|0|8|82
+James Russell|L|Matthew den Dekker|L|Strikeout|W|Curveball|3|1|2|0|13|77
+James Russell|L|Ryan Zimmerman|R|Groundout|B|Changeup|4|0|0|1|12|82
+James Russell|L|Ryan Zimmerman|R|Groundout|S|Four-Seam Fastball|5|1|0|1|1|90
+James Russell|L|Ryan Zimmerman|R|Groundout|S|Four-Seam Fastball|6|1|1|1|11|89
+James Russell|L|Ryan Zimmerman|R|Groundout|X|Curveball|7|1|2|1|13|76
+James Russell|L|Stephen Drew|L|Single|B|Slider|8|0|0|2|13|82
+James Russell|L|Stephen Drew|L|Single|B|Slider|9|1|0|2|11|83
+James Russell|L|Stephen Drew|L|Single|F|Four-Seam Fastball|10|2|0|2|1|89
+James Russell|L|Stephen Drew|L|Single|F|Four-Seam Fastball|11|2|1|2|1|90
+James Russell|L|Stephen Drew|L|Single|D|Curveball|12|2|2|2|9|76
+James Russell|L|Jayson Werth|R|Flyout|B|Changeup|13|0|0|2|14|82
+James Russell|L|Jayson Werth|R|Flyout|C|Four-Seam Fastball|14|1|0|2|13|90
+James Russell|L|Jayson Werth|R|Flyout|X|Changeup|15|1|1|2|5|83
+James Russell|L|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|0|0|0|2|12|89
+James Russell|L|Danny Espinosa|R|Lineout|C|Four-Seam Fastball|1|0|0|0|9|90
+James Russell|L|Danny Espinosa|R|Lineout|X|Curveball|2|0|1|0|6|75
+James Russell|L|Chris Heisey|R|Home Run|B|Two-Seam Fastball|3|0|0|1|12|89
+James Russell|L|Chris Heisey|R|Home Run|S|Four-Seam Fastball|4|1|0|1|5|89
+James Russell|L|Chris Heisey|R|Home Run|B|Changeup|5|1|1|1|13|83
+James Russell|L|Chris Heisey|R|Home Run|B|Two-Seam Fastball|6|2|1|1|14|89
+James Russell|L|Chris Heisey|R|Home Run|C|Two-Seam Fastball|7|3|1|1|12|89
+James Russell|L|Chris Heisey|R|Home Run|E|Two-Seam Fastball|8|3|2|1|3|89
+James Russell|L|Michael A. Taylor|R|Strikeout|C|Curveball|9|0|0|1|6|75
+James Russell|L|Michael A. Taylor|R|Strikeout|S|Slider|10|0|1|1|13|82
+James Russell|L|Michael A. Taylor|R|Strikeout|B|Slider|11|0|2|1|13|82
+James Russell|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|12|1|2|1|13|90
+James Russell|L|Travis d'Arnaud|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|89
+James Russell|L|Travis d'Arnaud|R|Strikeout|B|Cutter|1|0|1|0|13|87
+James Russell|L|Travis d'Arnaud|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|13|89
+James Russell|L|Travis d'Arnaud|R|Strikeout|B|Changeup|3|2|1|0|14|82
+James Russell|L|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|4|3|1|0|6|90
+James Russell|L|Travis d'Arnaud|R|Strikeout|F|Two-Seam Fastball|5|3|2|0|6|89
+James Russell|L|Travis d'Arnaud|R|Strikeout|S|Cutter|6|3|2|0|3|90
+James Russell|L|Eric Campbell|R|Single|C|Slider|7|0|0|1|6|83
+James Russell|L|Eric Campbell|R|Single|D|Cutter|8|0|1|1|7|87
+James Russell|L|Curtis Granderson|L|Home Run|B|Two-Seam Fastball|9|0|0|1|14|90
+James Russell|L|Curtis Granderson|L|Home Run|*B|Slider|10|1|0|1|13|83
+James Russell|L|Curtis Granderson|L|Home Run|F|Four-Seam Fastball|11|2|0|1|1|90
+James Russell|L|Curtis Granderson|L|Home Run|B|Four-Seam Fastball|12|2|1|1|11|90
+James Russell|L|Curtis Granderson|L|Home Run|E|Cutter|13|3|1|1|5|90
+James Russell|L|David Wright|R|Strikeout|B|Changeup|14|0|0|1|14|83
+James Russell|L|David Wright|R|Strikeout|C|Four-Seam Fastball|15|1|0|1|6|90
+James Russell|L|David Wright|R|Strikeout|S|Four-Seam Fastball|16|1|1|1|11|90
+James Russell|L|David Wright|R|Strikeout|F|Slider|17|1|2|1|13|82
+James Russell|L|David Wright|R|Strikeout|B|Changeup|18|1|2|1|14|83
+James Russell|L|David Wright|R|Strikeout|S|Slider|19|2|2|1|13|82
+James Russell|L|Juan Lagares|R|Double|D|Two-Seam Fastball|20|0|0|2|5|91
+James Russell|L|Yoenis Cespedes|R|Walk|B|Changeup|21|0|0|2|14|84
+James Russell|L|Yoenis Cespedes|R|Walk|B|Four-Seam Fastball|22|1|0|2|14|90
+James Russell|L|Yoenis Cespedes|R|Walk|S|Four-Seam Fastball|23|2|0|2|8|91
+James Russell|L|Yoenis Cespedes|R|Walk|S|Changeup|24|2|1|2|13|83
+James Russell|L|Yoenis Cespedes|R|Walk|F|Four-Seam Fastball|25|2|2|2|3|91
+James Russell|L|Yoenis Cespedes|R|Walk|B|Slider|26|2|2|2|13|85
+James Russell|L|Yoenis Cespedes|R|Walk|B|Four-Seam Fastball|27|3|2|2|3|91
+James Russell|L|Lucas Duda|L|Flyout|C|Slider|28|0|0|2|13|82
+James Russell|L|Lucas Duda|L|Flyout|X|Slider|29|0|1|2|13|82

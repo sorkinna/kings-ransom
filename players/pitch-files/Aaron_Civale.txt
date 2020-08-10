@@ -1,0 +1,863 @@
+Aaron Civale|R|JaCoby Jones|R|Strikeout|B|Sinker|0|0|0|0|14|92
+Aaron Civale|R|JaCoby Jones|R|Strikeout|B|Sinker|1|1|0|0|11|91
+Aaron Civale|R|JaCoby Jones|R|Strikeout|F|Sinker|2|2|0|0|4|92
+Aaron Civale|R|JaCoby Jones|R|Strikeout|F|Sinker|3|2|1|0|4|93
+Aaron Civale|R|JaCoby Jones|R|Strikeout|B|Slider|4|2|2|0|14|83
+Aaron Civale|R|JaCoby Jones|R|Strikeout|C|Cutter|5|3|2|0|2|88
+Aaron Civale|R|Christin Stewart|L|Strikeout|B|Curveball|6|0|0|1|11|73
+Aaron Civale|R|Christin Stewart|L|Strikeout|B|Changeup|7|1|0|1|11|83
+Aaron Civale|R|Christin Stewart|L|Strikeout|B|Changeup|8|2|0|1|13|83
+Aaron Civale|R|Christin Stewart|L|Strikeout|C|Cutter|9|3|0|1|5|87
+Aaron Civale|R|Christin Stewart|L|Strikeout|F|Cutter|10|3|1|1|14|88
+Aaron Civale|R|Christin Stewart|L|Strikeout|F|Cutter|11|3|2|1|5|87
+Aaron Civale|R|Christin Stewart|L|Strikeout|S|Cutter|12|3|2|1|1|87
+Aaron Civale|R|Nick Castellanos|R|Strikeout|B|Slider|13|0|0|2|14|81
+Aaron Civale|R|Nick Castellanos|R|Strikeout|F|Slider|14|1|0|2|2|80
+Aaron Civale|R|Nick Castellanos|R|Strikeout|B|Four-Seam Fastball|15|1|1|2|11|92
+Aaron Civale|R|Nick Castellanos|R|Strikeout|F|Sinker|16|2|1|2|4|92
+Aaron Civale|R|Nick Castellanos|R|Strikeout|B|Slider|17|2|2|2|14|83
+Aaron Civale|R|Nick Castellanos|R|Strikeout|S|Cutter|18|3|2|2|14|87
+Aaron Civale|R|Miguel Cabrera|R|Groundout|B|Sinker|19|0|0|0|11|90
+Aaron Civale|R|Miguel Cabrera|R|Groundout|F|Cutter|20|1|0|0|12|86
+Aaron Civale|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|21|1|1|0|5|90
+Aaron Civale|R|Miguel Cabrera|R|Groundout|B|Four-Seam Fastball|22|1|2|0|12|91
+Aaron Civale|R|Miguel Cabrera|R|Groundout|B|Cutter|23|2|2|0|12|87
+Aaron Civale|R|Miguel Cabrera|R|Groundout|F|Cutter|24|3|2|0|14|88
+Aaron Civale|R|Miguel Cabrera|R|Groundout|X|Sinker|25|3|2|0|5|92
+Aaron Civale|R|Brandon Dixon|R|Strikeout|C|Cutter|26|0|0|1|12|86
+Aaron Civale|R|Brandon Dixon|R|Strikeout|F|Slider|27|0|1|1|6|80
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Cutter|28|0|2|1|12|87
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Cutter|29|1|2|1|12|86
+Aaron Civale|R|Brandon Dixon|R|Strikeout|C|Sinker|30|2|2|1|12|92
+Aaron Civale|R|Niko Goodrum|L|Lineout|B|Curveball|31|0|0|2|13|73
+Aaron Civale|R|Niko Goodrum|L|Lineout|B|Sinker|32|1|0|2|14|91
+Aaron Civale|R|Niko Goodrum|L|Lineout|B|Sinker|33|2|0|2|14|93
+Aaron Civale|R|Niko Goodrum|L|Lineout|X|Sinker|34|3|0|2|1|92
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|B|Sinker|35|0|0|0|11|89
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|B|Slider|36|1|0|0|14|81
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|X|Cutter|37|2|0|0|2|86
+Aaron Civale|R|John Hicks|R|Lineout|B|Cutter|38|0|0|1|14|86
+Aaron Civale|R|John Hicks|R|Lineout|X|Cutter|39|1|0|1|6|85
+Aaron Civale|R|Dawel Lugo|R|Walk|B|Sinker|40|0|0|2|14|91
+Aaron Civale|R|Dawel Lugo|R|Walk|B|Sinker|41|1|0|2|14|92
+Aaron Civale|R|Dawel Lugo|R|Walk|B|Cutter|42|2|0|2|12|87
+Aaron Civale|R|Dawel Lugo|R|Walk|B|Sinker|43|3|0|2|13|91
+Aaron Civale|R|JaCoby Jones|R|Single|D|Sinker|44|0|0|2|5|90
+Aaron Civale|R|Christin Stewart|L|Strikeout|F|Cutter|45|0|0|2|6|85
+Aaron Civale|R|Christin Stewart|L|Strikeout|B|Sinker|46|0|1|2|12|91
+Aaron Civale|R|Christin Stewart|L|Strikeout|*B|Changeup|47|1|1|2|14|82
+Aaron Civale|R|Christin Stewart|L|Strikeout|F|Slider|48|2|1|2|12|82
+Aaron Civale|R|Christin Stewart|L|Strikeout|F|Cutter|49|2|2|2|1|87
+Aaron Civale|R|Christin Stewart|L|Strikeout|S|Cutter|50|2|2|2|11|86
+Aaron Civale|R|Nick Castellanos|R|Strikeout|C|Sinker|51|0|0|0|5|88
+Aaron Civale|R|Nick Castellanos|R|Strikeout|F|Sinker|52|0|1|0|13|89
+Aaron Civale|R|Nick Castellanos|R|Strikeout|C|Sinker|53|0|2|0|12|90
+Aaron Civale|R|Miguel Cabrera|R|Single|C|Curveball|54|0|0|1|14|72
+Aaron Civale|R|Miguel Cabrera|R|Single|B|Sinker|55|0|1|1|14|90
+Aaron Civale|R|Miguel Cabrera|R|Single|D|Curveball|56|1|1|1|7|73
+Aaron Civale|R|Brandon Dixon|R|Flyout|X|Cutter|57|0|0|1|14|85
+Aaron Civale|R|Niko Goodrum|L|Groundout|F|Sinker|58|0|0|2|11|91
+Aaron Civale|R|Niko Goodrum|L|Groundout|X|Sinker|59|0|1|2|11|90
+Aaron Civale|R|Ronny Rodriguez|R|Pop Out|B|Sinker|60|0|0|0|11|90
+Aaron Civale|R|Ronny Rodriguez|R|Pop Out|X|Cutter|61|1|0|0|1|86
+Aaron Civale|R|John Hicks|R|Flyout|B|Sinker|62|0|0|1|14|90
+Aaron Civale|R|John Hicks|R|Flyout|X|Sinker|63|1|0|1|5|90
+Aaron Civale|R|Dawel Lugo|R|Groundout|C|Sinker|64|0|0|2|3|90
+Aaron Civale|R|Dawel Lugo|R|Groundout|C|Curveball|65|0|1|2|1|73
+Aaron Civale|R|Dawel Lugo|R|Groundout|F|Sinker|66|0|2|2|14|92
+Aaron Civale|R|Dawel Lugo|R|Groundout|B|Slider|67|0|2|2|14|82
+Aaron Civale|R|Dawel Lugo|R|Groundout|X|Sinker|68|1|2|2|3|93
+Aaron Civale|R|JaCoby Jones|R|Lineout|C|Slider|69|0|0|0|5|81
+Aaron Civale|R|JaCoby Jones|R|Lineout|B|Cutter|70|0|1|0|12|85
+Aaron Civale|R|JaCoby Jones|R|Lineout|F|Curveball|71|1|1|0|14|73
+Aaron Civale|R|JaCoby Jones|R|Lineout|X|Sinker|72|1|2|0|11|91
+Aaron Civale|R|Christin Stewart|L|Groundout|B|Curveball|73|0|0|1|11|72
+Aaron Civale|R|Christin Stewart|L|Groundout|S|Changeup|74|1|0|1|11|83
+Aaron Civale|R|Christin Stewart|L|Groundout|X|Changeup|75|1|1|1|13|83
+Aaron Civale|R|Nick Castellanos|R|Walk|B|Sinker|76|0|0|2|12|91
+Aaron Civale|R|Nick Castellanos|R|Walk|B|Curveball|77|1|0|2|14|74
+Aaron Civale|R|Nick Castellanos|R|Walk|B|Slider|78|2|0|2|12|85
+Aaron Civale|R|Nick Castellanos|R|Walk|B|Sinker|79|3|0|2|14|91
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Four-Seam Fastball|80|0|0|2|12|91
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Sinker|81|1|0|2|13|90
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Slider|82|2|0|2|14|81
+Aaron Civale|R|Miguel Cabrera|R|Walk|C|Sinker|83|3|0|2|1|92
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Curveball|84|3|1|2|14|75
+Aaron Civale|R|Brandon Dixon|R|Pop Out|B|N/A|85|0|0|2|0|0
+Aaron Civale|R|Brandon Dixon|R|Pop Out|X|Cutter|86|1|0|2|6|85
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|C|Sinker|0|0|0|0|7|92
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|L|Curveball|1|0|1|0|12|76
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|93
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|93
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|S|Cutter|4|2|2|0|1|87
+Aaron Civale|R|Danny Santana|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|93
+Aaron Civale|R|Danny Santana|L|Groundout|S|Changeup|6|1|0|1|7|84
+Aaron Civale|R|Danny Santana|L|Groundout|B|Four-Seam Fastball|7|1|1|1|11|92
+Aaron Civale|R|Danny Santana|L|Groundout|B|Changeup|8|2|1|1|14|84
+Aaron Civale|R|Danny Santana|L|Groundout|X|Sinker|9|3|1|1|5|93
+Aaron Civale|R|Elvis Andrus|R|Single|B|Curveball|10|0|0|2|11|75
+Aaron Civale|R|Elvis Andrus|R|Single|B|Changeup|11|1|0|2|14|84
+Aaron Civale|R|Elvis Andrus|R|Single|D|Sinker|12|2|0|2|2|93
+Aaron Civale|R|Nomar Mazara|L|Strikeout|B|Four-Seam Fastball|13|0|0|2|12|92
+Aaron Civale|R|Nomar Mazara|L|Strikeout|B|Cutter|14|1|0|2|12|88
+Aaron Civale|R|Nomar Mazara|L|Strikeout|S|Changeup|15|2|0|2|8|83
+Aaron Civale|R|Nomar Mazara|L|Strikeout|C|Cutter|16|2|1|2|11|88
+Aaron Civale|R|Nomar Mazara|L|Strikeout|C|Cutter|17|2|2|2|11|87
+Aaron Civale|R|Willie Calhoun|L|Double|C|Changeup|18|0|0|0|11|82
+Aaron Civale|R|Willie Calhoun|L|Double|B|Changeup|19|0|1|0|13|82
+Aaron Civale|R|Willie Calhoun|L|Double|C|Cutter|20|1|1|0|1|87
+Aaron Civale|R|Willie Calhoun|L|Double|B|Sinker|21|1|2|0|14|93
+Aaron Civale|R|Willie Calhoun|L|Double|B|Sinker|22|2|2|0|14|93
+Aaron Civale|R|Willie Calhoun|L|Double|D|Cutter|23|3|2|0|1|87
+Aaron Civale|R|Rougned Odor|L|Walk|B|Cutter|24|0|0|0|11|87
+Aaron Civale|R|Rougned Odor|L|Walk|B|Changeup|25|1|0|0|11|82
+Aaron Civale|R|Rougned Odor|L|Walk|F|Changeup|26|2|0|0|9|84
+Aaron Civale|R|Rougned Odor|L|Walk|B|Cutter|27|2|1|0|11|88
+Aaron Civale|R|Rougned Odor|L|Walk|B|Cutter|28|3|1|0|11|87
+Aaron Civale|R|Logan Forsythe|R|Strikeout|C|Sinker|29|0|0|0|11|91
+Aaron Civale|R|Logan Forsythe|R|Strikeout|C|Cutter|30|0|1|0|12|88
+Aaron Civale|R|Logan Forsythe|R|Strikeout|B|Cutter|31|0|2|0|12|89
+Aaron Civale|R|Logan Forsythe|R|Strikeout|F|Slider|32|1|2|0|6|82
+Aaron Civale|R|Logan Forsythe|R|Strikeout|C|Sinker|33|1|2|0|12|93
+Aaron Civale|R|Isiah Kiner-Falefa|R|Grounded Into DP|C|Sinker|34|0|0|1|9|92
+Aaron Civale|R|Isiah Kiner-Falefa|R|Grounded Into DP|B|Sinker|35|0|1|1|12|92
+Aaron Civale|R|Isiah Kiner-Falefa|R|Grounded Into DP|S|Cutter|36|1|1|1|14|88
+Aaron Civale|R|Isiah Kiner-Falefa|R|Grounded Into DP|X|Sinker|37|1|2|1|6|93
+Aaron Civale|R|Jeff Mathis|R|Pop Out|B|Sinker|38|0|0|0|11|90
+Aaron Civale|R|Jeff Mathis|R|Pop Out|B|Sinker|39|1|0|0|12|91
+Aaron Civale|R|Jeff Mathis|R|Pop Out|T|Sinker|40|2|0|0|2|91
+Aaron Civale|R|Jeff Mathis|R|Pop Out|S|Cutter|41|2|1|0|12|87
+Aaron Civale|R|Jeff Mathis|R|Pop Out|B|Cutter|42|2|2|0|12|89
+Aaron Civale|R|Jeff Mathis|R|Pop Out|F|Cutter|43|3|2|0|14|89
+Aaron Civale|R|Jeff Mathis|R|Pop Out|F|Sinker|44|3|2|0|2|93
+Aaron Civale|R|Jeff Mathis|R|Pop Out|X|Cutter|45|3|2|0|6|85
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|C|Changeup|46|0|0|1|14|85
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|47|0|1|1|12|93
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|F|Curveball|48|1|1|1|4|76
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|S|Sinker|49|1|2|1|2|94
+Aaron Civale|R|Danny Santana|L|Flyout|X|Curveball|50|0|0|2|5|76
+Aaron Civale|R|Elvis Andrus|R|Triple|C|Cutter|51|0|0|0|14|88
+Aaron Civale|R|Elvis Andrus|R|Triple|F|Slider|52|0|1|0|14|83
+Aaron Civale|R|Elvis Andrus|R|Triple|B|Four-Seam Fastball|53|0|2|0|11|92
+Aaron Civale|R|Elvis Andrus|R|Triple|F|Four-Seam Fastball|54|1|2|0|1|91
+Aaron Civale|R|Elvis Andrus|R|Triple|B|Cutter|55|1|2|0|14|89
+Aaron Civale|R|Elvis Andrus|R|Triple|B|Changeup|56|2|2|0|14|86
+Aaron Civale|R|Elvis Andrus|R|Triple|D|Cutter|57|3|2|0|12|90
+Aaron Civale|R|Nomar Mazara|L|Sac Fly|B|Four-Seam Fastball|58|0|0|0|12|92
+Aaron Civale|R|Nomar Mazara|L|Sac Fly|B|Changeup|59|1|0|0|11|83
+Aaron Civale|R|Nomar Mazara|L|Sac Fly|S|Changeup|60|2|0|0|14|84
+Aaron Civale|R|Nomar Mazara|L|Sac Fly|B|Four-Seam Fastball|61|2|1|0|12|92
+Aaron Civale|R|Nomar Mazara|L|Sac Fly|E|Cutter|62|3|1|0|3|89
+Aaron Civale|R|Willie Calhoun|L|Groundout|F|Cutter|63|0|0|1|3|89
+Aaron Civale|R|Willie Calhoun|L|Groundout|X|Changeup|64|0|1|1|7|85
+Aaron Civale|R|Rougned Odor|L|Pop Out|B|Changeup|65|0|0|2|13|83
+Aaron Civale|R|Rougned Odor|L|Pop Out|F|Sinker|66|1|0|2|4|93
+Aaron Civale|R|Rougned Odor|L|Pop Out|B|Sinker|67|1|1|2|12|93
+Aaron Civale|R|Rougned Odor|L|Pop Out|X|Cutter|68|2|1|2|6|89
+Aaron Civale|R|Logan Forsythe|R|Groundout|B|Cutter|69|0|0|0|14|87
+Aaron Civale|R|Logan Forsythe|R|Groundout|X|Cutter|70|1|0|0|6|87
+Aaron Civale|R|Isiah Kiner-Falefa|R|Groundout|X|Sinker|71|0|0|1|2|90
+Aaron Civale|R|Jeff Mathis|R|Strikeout|C|Sinker|72|0|0|2|12|92
+Aaron Civale|R|Jeff Mathis|R|Strikeout|S|Slider|73|0|1|2|6|83
+Aaron Civale|R|Jeff Mathis|R|Strikeout|B|Slider|74|0|2|2|14|84
+Aaron Civale|R|Jeff Mathis|R|Strikeout|W|Curveball|75|1|2|2|14|77
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|F|Changeup|76|0|0|0|11|83
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|77|0|1|0|12|91
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|S|Cutter|78|1|1|0|2|88
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|B|Cutter|79|1|2|0|11|88
+Aaron Civale|R|Shin-Soo Choo|L|Strikeout|S|Cutter|80|2|2|0|13|88
+Aaron Civale|R|Danny Santana|L|Strikeout|B|Sinker|81|0|0|1|12|92
+Aaron Civale|R|Danny Santana|L|Strikeout|F|Cutter|82|1|0|1|14|88
+Aaron Civale|R|Danny Santana|L|Strikeout|B|Sinker|83|1|1|1|14|91
+Aaron Civale|R|Danny Santana|L|Strikeout|F|Changeup|84|2|1|1|13|85
+Aaron Civale|R|Danny Santana|L|Strikeout|F|Cutter|85|2|2|1|11|88
+Aaron Civale|R|Danny Santana|L|Strikeout|C|Sinker|86|2|2|1|12|94
+Aaron Civale|R|Elvis Andrus|R|Groundout|B|Sinker|87|0|0|2|11|94
+Aaron Civale|R|Elvis Andrus|R|Groundout|X|Sinker|88|1|0|2|4|93
+Aaron Civale|R|Leury Garcia|L|Single|B|Sinker|0|0|0|0|14|91
+Aaron Civale|R|Leury Garcia|L|Single|F|Changeup|1|1|0|0|6|85
+Aaron Civale|R|Leury Garcia|L|Single|F|Cutter|2|1|1|0|6|89
+Aaron Civale|R|Leury Garcia|L|Single|D|Four-Seam Fastball|3|1|2|0|12|93
+Aaron Civale|R|Tim Anderson|R|Double Play|C|Sinker|4|0|0|0|4|92
+Aaron Civale|R|Tim Anderson|R|Double Play|S|Slider|5|0|1|0|14|85
+Aaron Civale|R|Tim Anderson|R|Double Play|B|Slider|6|0|2|0|14|84
+Aaron Civale|R|Tim Anderson|R|Double Play|F|Slider|7|1|2|0|14|85
+Aaron Civale|R|Tim Anderson|R|Double Play|X|Slider|8|1|2|0|14|82
+Aaron Civale|R|Jose Abreu|R|Walk|C|Curveball|9|0|0|2|13|75
+Aaron Civale|R|Jose Abreu|R|Walk|B|Slider|10|0|1|2|14|84
+Aaron Civale|R|Jose Abreu|R|Walk|B|Sinker|11|1|1|2|13|93
+Aaron Civale|R|Jose Abreu|R|Walk|B|Slider|12|2|1|2|14|84
+Aaron Civale|R|Jose Abreu|R|Walk|B|Slider|13|3|1|2|14|84
+Aaron Civale|R|Yoan Moncada|L|Walk|B|Curveball|14|0|0|2|14|75
+Aaron Civale|R|Yoan Moncada|L|Walk|*B|Sinker|15|1|0|2|14|93
+Aaron Civale|R|Yoan Moncada|L|Walk|B|Cutter|16|2|0|2|12|88
+Aaron Civale|R|Yoan Moncada|L|Walk|B|Cutter|17|3|0|2|12|88
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|S|Slider|18|0|0|2|2|83
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|S|Slider|19|0|1|2|14|84
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|C|Slider|20|0|2|2|14|83
+Aaron Civale|R|Matt Skole|L|Strikeout|B|Sinker|21|0|0|0|13|91
+Aaron Civale|R|Matt Skole|L|Strikeout|C|Changeup|22|1|0|0|13|84
+Aaron Civale|R|Matt Skole|L|Strikeout|B|Curveball|23|1|1|0|13|75
+Aaron Civale|R|Matt Skole|L|Strikeout|S|Changeup|24|2|1|0|13|84
+Aaron Civale|R|Matt Skole|L|Strikeout|W|Cutter|25|2|2|0|14|87
+Aaron Civale|R|Welington Castillo|R|Strikeout|C|Sinker|26|0|0|1|4|93
+Aaron Civale|R|Welington Castillo|R|Strikeout|B|Sinker|27|0|1|1|12|93
+Aaron Civale|R|Welington Castillo|R|Strikeout|B|Slider|28|1|1|1|14|84
+Aaron Civale|R|Welington Castillo|R|Strikeout|S|Cutter|29|2|1|1|11|88
+Aaron Civale|R|Welington Castillo|R|Strikeout|S|Cutter|30|2|2|1|12|89
+Aaron Civale|R|Yolmer Sanchez|L|Walk|B|Changeup|31|0|0|2|14|83
+Aaron Civale|R|Yolmer Sanchez|L|Walk|B|Sinker|32|1|0|2|11|93
+Aaron Civale|R|Yolmer Sanchez|L|Walk|B|Sinker|33|2|0|2|11|93
+Aaron Civale|R|Yolmer Sanchez|L|Walk|C|Sinker|34|3|0|2|3|93
+Aaron Civale|R|Yolmer Sanchez|L|Walk|S|Cutter|35|3|1|2|14|89
+Aaron Civale|R|Yolmer Sanchez|L|Walk|B|Sinker|36|3|2|2|12|94
+Aaron Civale|R|Adam Engel|R|Lineout|C|Cutter|37|0|0|2|2|87
+Aaron Civale|R|Adam Engel|R|Lineout|F|Slider|38|0|1|2|14|83
+Aaron Civale|R|Adam Engel|R|Lineout|X|Slider|39|0|2|2|14|82
+Aaron Civale|R|Leury Garcia|L|Double|D|Sinker|40|0|0|0|6|91
+Aaron Civale|R|Tim Anderson|R|Flyout|X|Cutter|41|0|0|0|9|87
+Aaron Civale|R|Jose Abreu|R|Groundout|F|Sinker|42|0|0|1|13|92
+Aaron Civale|R|Jose Abreu|R|Groundout|F|Sinker|43|0|1|1|13|92
+Aaron Civale|R|Jose Abreu|R|Groundout|E|Cutter|44|0|2|1|14|85
+Aaron Civale|R|Yoan Moncada|L|Double|B|Changeup|45|0|0|2|14|86
+Aaron Civale|R|Yoan Moncada|L|Double|C|Curveball|46|1|0|2|2|77
+Aaron Civale|R|Yoan Moncada|L|Double|B|Changeup|47|1|1|2|14|85
+Aaron Civale|R|Yoan Moncada|L|Double|B|Changeup|48|2|1|2|13|85
+Aaron Civale|R|Yoan Moncada|L|Double|F|Cutter|49|3|1|2|14|89
+Aaron Civale|R|Yoan Moncada|L|Double|D|Sinker|50|3|2|2|2|94
+Aaron Civale|R|Eloy Jimenez|R|Single|X|Slider|51|0|0|2|14|85
+Aaron Civale|R|Matt Skole|L|Single|D|Sinker|52|0|0|0|6|92
+Aaron Civale|R|Welington Castillo|R|Forceout|*B|Sinker|53|0|0|0|14|91
+Aaron Civale|R|Welington Castillo|R|Forceout|S|Cutter|54|1|0|0|14|87
+Aaron Civale|R|Welington Castillo|R|Forceout|C|Slider|55|1|1|0|3|84
+Aaron Civale|R|Welington Castillo|R|Forceout|X|Sinker|56|1|2|0|13|93
+Aaron Civale|R|Yolmer Sanchez|L|Double|B|Cutter|57|0|0|1|11|88
+Aaron Civale|R|Yolmer Sanchez|L|Double|B|Cutter|58|1|0|1|11|88
+Aaron Civale|R|Yolmer Sanchez|L|Double|F|Cutter|59|2|0|1|6|88
+Aaron Civale|R|Yolmer Sanchez|L|Double|T|Cutter|60|2|1|1|12|88
+Aaron Civale|R|Yolmer Sanchez|L|Double|E|Cutter|61|2|2|1|8|87
+Aaron Civale|R|Adam Engel|R|Pop Out|F|Cutter|62|0|0|1|14|89
+Aaron Civale|R|Adam Engel|R|Pop Out|C|Sinker|63|0|1|1|7|93
+Aaron Civale|R|Adam Engel|R|Pop Out|F|Sinker|64|0|2|1|2|94
+Aaron Civale|R|Adam Engel|R|Pop Out|F|Cutter|65|0|2|1|6|85
+Aaron Civale|R|Adam Engel|R|Pop Out|F|Curveball|66|0|2|1|13|77
+Aaron Civale|R|Adam Engel|R|Pop Out|F|Curveball|67|0|2|1|8|77
+Aaron Civale|R|Adam Engel|R|Pop Out|X|Cutter|68|0|2|1|12|90
+Aaron Civale|R|Leury Garcia|L|Pop Out|S|Cutter|69|0|0|2|14|90
+Aaron Civale|R|Leury Garcia|L|Pop Out|W|Curveball|70|0|1|2|14|77
+Aaron Civale|R|Leury Garcia|L|Pop Out|F|Curveball|71|0|2|2|14|77
+Aaron Civale|R|Leury Garcia|L|Pop Out|B|Sinker|72|0|2|2|14|95
+Aaron Civale|R|Leury Garcia|L|Pop Out|X|Cutter|73|1|2|2|14|88
+Aaron Civale|R|Tim Anderson|R|Double|C|Cutter|74|0|0|0|2|88
+Aaron Civale|R|Tim Anderson|R|Double|B|Slider|75|0|1|0|14|82
+Aaron Civale|R|Tim Anderson|R|Double|D|Cutter|76|1|1|0|14|88
+Aaron Civale|R|Jose Abreu|R|Flyout|B|Sinker|77|0|0|0|11|91
+Aaron Civale|R|Jose Abreu|R|Flyout|X|Sinker|78|1|0|0|7|91
+Aaron Civale|R|Yoan Moncada|L|Sac Fly|S|Curveball|79|0|0|1|14|75
+Aaron Civale|R|Yoan Moncada|L|Sac Fly|W|Curveball|80|0|1|1|14|74
+Aaron Civale|R|Yoan Moncada|L|Sac Fly|B|Cutter|81|0|2|1|14|86
+Aaron Civale|R|Yoan Moncada|L|Sac Fly|F|Curveball|82|1|2|1|13|76
+Aaron Civale|R|Yoan Moncada|L|Sac Fly|E|Curveball|83|1|2|1|4|76
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|C|Sinker|84|0|0|2|4|93
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|S|Curveball|85|0|1|2|13|75
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|B|Curveball|86|0|2|2|14|75
+Aaron Civale|R|Eloy Jimenez|R|Strikeout|S|Slider|87|1|2|2|14|83
+Aaron Civale|R|Victor Reyes|L|Strikeout|F|Sinker|0|0|0|0|13|92
+Aaron Civale|R|Victor Reyes|L|Strikeout|B|Curveball|1|0|1|0|14|77
+Aaron Civale|R|Victor Reyes|L|Strikeout|B|Curveball|2|1|1|0|14|75
+Aaron Civale|R|Victor Reyes|L|Strikeout|F|Cutter|3|2|1|0|14|89
+Aaron Civale|R|Victor Reyes|L|Strikeout|C|Curveball|4|2|2|0|11|75
+Aaron Civale|R|Harold Castro|L|Triple|C|Sinker|5|0|0|1|1|93
+Aaron Civale|R|Harold Castro|L|Triple|C|Curveball|6|0|1|1|8|76
+Aaron Civale|R|Harold Castro|L|Triple|B|Curveball|7|0|2|1|13|76
+Aaron Civale|R|Harold Castro|L|Triple|D|Cutter|8|1|2|1|1|88
+Aaron Civale|R|Miguel Cabrera|R|Groundout|C|Slider|9|0|0|1|12|83
+Aaron Civale|R|Miguel Cabrera|R|Groundout|C|Curveball|10|0|1|1|14|75
+Aaron Civale|R|Miguel Cabrera|R|Groundout|X|Curveball|11|0|2|1|14|75
+Aaron Civale|R|Christin Stewart|L|Groundout|C|Cutter|12|0|0|2|6|89
+Aaron Civale|R|Christin Stewart|L|Groundout|*B|Curveball|13|0|1|2|14|78
+Aaron Civale|R|Christin Stewart|L|Groundout|X|Cutter|14|1|1|2|1|86
+Aaron Civale|R|Dawel Lugo|R|Pop Out|X|Sinker|15|0|0|0|4|89
+Aaron Civale|R|Brandon Dixon|R|Strikeout|C|Sinker|16|0|0|1|5|89
+Aaron Civale|R|Brandon Dixon|R|Strikeout|F|Curveball|17|0|1|1|9|73
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Slider|18|0|2|1|14|81
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Slider|19|1|2|1|14|81
+Aaron Civale|R|Brandon Dixon|R|Strikeout|F|Sinker|20|2|2|1|2|92
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Cutter|21|2|2|1|14|88
+Aaron Civale|R|Brandon Dixon|R|Strikeout|S|Slider|22|3|2|1|14|84
+Aaron Civale|R|Travis Demeritte|R|Flyout|X|Sinker|23|0|0|2|8|92
+Aaron Civale|R|Jake Rogers|R|Double|B|Sinker|24|0|0|0|12|91
+Aaron Civale|R|Jake Rogers|R|Double|B|Cutter|25|1|0|0|12|87
+Aaron Civale|R|Jake Rogers|R|Double|B|Sinker|26|2|0|0|11|92
+Aaron Civale|R|Jake Rogers|R|Double|C|Sinker|27|3|0|0|4|91
+Aaron Civale|R|Jake Rogers|R|Double|F|Sinker|28|3|1|0|6|92
+Aaron Civale|R|Jake Rogers|R|Double|D|Sinker|29|3|2|0|1|92
+Aaron Civale|R|Willi Castro|L|Sac Bunt|L|Sinker|30|0|0|0|5|92
+Aaron Civale|R|Willi Castro|L|Sac Bunt|X|Four-Seam Fastball|31|0|1|0|11|92
+Aaron Civale|R|Victor Reyes|L|Sac Fly|E|Curveball|32|0|0|1|14|74
+Aaron Civale|R|Harold Castro|L|Groundout|C|Sinker|33|0|0|2|13|91
+Aaron Civale|R|Harold Castro|L|Groundout|S|Curveball|34|0|1|2|13|75
+Aaron Civale|R|Harold Castro|L|Groundout|B|Sinker|35|0|2|2|12|93
+Aaron Civale|R|Harold Castro|L|Groundout|F|Sinker|36|1|2|2|12|92
+Aaron Civale|R|Harold Castro|L|Groundout|X|Slider|37|1|2|2|14|82
+Aaron Civale|R|Miguel Cabrera|R|Flyout|X|Sinker|38|0|0|0|1|89
+Aaron Civale|R|Christin Stewart|L|Double|C|Sinker|39|0|0|1|2|89
+Aaron Civale|R|Christin Stewart|L|Double|B|Changeup|40|0|1|1|11|82
+Aaron Civale|R|Christin Stewart|L|Double|B|Curveball|41|1|1|1|13|72
+Aaron Civale|R|Christin Stewart|L|Double|C|Curveball|42|2|1|1|2|72
+Aaron Civale|R|Christin Stewart|L|Double|D|Changeup|43|2|2|1|5|83
+Aaron Civale|R|Dawel Lugo|R|Strikeout|C|Slider|44|0|0|1|14|80
+Aaron Civale|R|Dawel Lugo|R|Strikeout|F|Slider|45|0|1|1|14|81
+Aaron Civale|R|Dawel Lugo|R|Strikeout|W|Slider|46|0|2|1|14|81
+Aaron Civale|R|Brandon Dixon|R|Single|F|Cutter|47|0|0|2|14|86
+Aaron Civale|R|Brandon Dixon|R|Single|B|Slider|48|0|1|2|14|82
+Aaron Civale|R|Brandon Dixon|R|Single|X|Curveball|49|1|1|2|8|74
+Aaron Civale|R|Travis Demeritte|R|Strikeout|C|Cutter|50|0|0|0|14|87
+Aaron Civale|R|Travis Demeritte|R|Strikeout|B|Slider|51|0|1|0|14|82
+Aaron Civale|R|Travis Demeritte|R|Strikeout|B|Slider|52|1|1|0|14|83
+Aaron Civale|R|Travis Demeritte|R|Strikeout|F|Cutter|53|2|1|0|14|87
+Aaron Civale|R|Travis Demeritte|R|Strikeout|F|Slider|54|2|2|0|14|84
+Aaron Civale|R|Travis Demeritte|R|Strikeout|B|Sinker|55|2|2|0|11|93
+Aaron Civale|R|Travis Demeritte|R|Strikeout|S|Cutter|56|3|2|0|9|89
+Aaron Civale|R|Jake Rogers|R|Flyout|B|Sinker|57|0|0|1|12|94
+Aaron Civale|R|Jake Rogers|R|Flyout|X|Cutter|58|1|0|1|6|88
+Aaron Civale|R|Willi Castro|L|Groundout|B|Curveball|59|0|0|2|13|73
+Aaron Civale|R|Willi Castro|L|Groundout|X|Curveball|60|1|0|2|13|74
+Aaron Civale|R|Victor Reyes|L|Groundout|B|Sinker|61|0|0|0|14|90
+Aaron Civale|R|Victor Reyes|L|Groundout|F|Cutter|62|1|0|0|6|87
+Aaron Civale|R|Victor Reyes|L|Groundout|X|Cutter|63|1|1|0|12|88
+Aaron Civale|R|Harold Castro|L|Groundout|C|Sinker|64|0|0|1|4|92
+Aaron Civale|R|Harold Castro|L|Groundout|X|Curveball|65|0|1|1|13|75
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Curveball|66|0|0|2|11|74
+Aaron Civale|R|Miguel Cabrera|R|Walk|C|Slider|67|1|0|2|9|82
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Slider|68|1|1|2|14|84
+Aaron Civale|R|Miguel Cabrera|R|Walk|F|Curveball|69|2|1|2|6|76
+Aaron Civale|R|Miguel Cabrera|R|Walk|F|Cutter|70|2|2|2|14|88
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Sinker|71|2|2|2|13|93
+Aaron Civale|R|Miguel Cabrera|R|Walk|B|Slider|72|3|2|2|14|84
+Aaron Civale|R|Christin Stewart|L|Flyout|B|Cutter|73|0|0|2|12|89
+Aaron Civale|R|Christin Stewart|L|Flyout|C|Cutter|74|1|0|2|11|87
+Aaron Civale|R|Christin Stewart|L|Flyout|F|Curveball|75|1|1|2|13|75
+Aaron Civale|R|Christin Stewart|L|Flyout|B|Curveball|76|1|2|2|13|75
+Aaron Civale|R|Christin Stewart|L|Flyout|B|Curveball|77|2|2|2|13|75
+Aaron Civale|R|Christin Stewart|L|Flyout|X|Cutter|78|3|2|2|6|88
+Aaron Civale|R|Dawel Lugo|R|Groundout|F|Cutter|79|0|0|0|3|87
+Aaron Civale|R|Dawel Lugo|R|Groundout|B|Slider|80|0|1|0|14|81
+Aaron Civale|R|Dawel Lugo|R|Groundout|X|Slider|81|1|1|0|14|82
+Aaron Civale|R|Brandon Dixon|R|Groundout|X|Sinker|82|0|0|1|7|91
+Aaron Civale|R|Travis Demeritte|R|Lineout|C|Sinker|83|0|0|2|13|91
+Aaron Civale|R|Travis Demeritte|R|Lineout|B|Sinker|84|0|1|2|14|92
+Aaron Civale|R|Travis Demeritte|R|Lineout|F|Cutter|85|1|1|2|6|88
+Aaron Civale|R|Travis Demeritte|R|Lineout|X|Cutter|86|1|2|2|3|88
+Aaron Civale|R|Jake Rogers|R|Groundout|X|Sinker|87|0|0|0|8|92
+Aaron Civale|R|Willi Castro|L|Flyout|B|Sinker|88|0|0|1|13|92
+Aaron Civale|R|Willi Castro|L|Flyout|B|Cutter|89|1|0|1|14|87
+Aaron Civale|R|Willi Castro|L|Flyout|S|Sinker|90|2|0|1|11|92
+Aaron Civale|R|Willi Castro|L|Flyout|F|Sinker|91|2|1|1|13|92
+Aaron Civale|R|Willi Castro|L|Flyout|B|Cutter|92|2|2|1|11|88
+Aaron Civale|R|Willi Castro|L|Flyout|X|Cutter|93|3|2|1|14|88
+Aaron Civale|R|Victor Reyes|L|Single|F|Sinker|0|0|0|0|13|91
+Aaron Civale|R|Victor Reyes|L|Single|B|Cutter|1|0|1|0|12|88
+Aaron Civale|R|Victor Reyes|L|Single|D|Changeup|2|1|1|0|13|83
+Aaron Civale|R|Gordon Beckham|R|Grounded Into DP|X|Sinker|3|0|0|0|4|92
+Aaron Civale|R|Willi Castro|L|Strikeout|C|Sinker|4|0|0|2|9|91
+Aaron Civale|R|Willi Castro|L|Strikeout|F|Cutter|5|0|1|2|14|89
+Aaron Civale|R|Willi Castro|L|Strikeout|B|Cutter|6|0|2|2|13|88
+Aaron Civale|R|Willi Castro|L|Strikeout|B|Cutter|7|1|2|2|11|88
+Aaron Civale|R|Willi Castro|L|Strikeout|S|Curveball|8|2|2|2|14|75
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|B|Sinker|9|0|0|2|14|92
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|B|Sinker|10|1|0|2|12|90
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|C|Cutter|11|2|0|2|6|88
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|B|Slider|12|2|1|2|14|84
+Aaron Civale|R|Ronny Rodriguez|R|Groundout|X|Cutter|13|3|1|2|12|88
+Aaron Civale|R|Dawel Lugo|R|Lineout|B|Sinker|14|0|0|0|11|91
+Aaron Civale|R|Dawel Lugo|R|Lineout|B|Slider|15|1|0|0|14|83
+Aaron Civale|R|Dawel Lugo|R|Lineout|C|Cutter|16|2|0|0|1|87
+Aaron Civale|R|Dawel Lugo|R|Lineout|X|Slider|17|2|1|0|9|83
+Aaron Civale|R|Brandon Dixon|R|Single|C|Slider|18|0|0|1|14|82
+Aaron Civale|R|Brandon Dixon|R|Single|B|Curveball|19|0|1|1|11|74
+Aaron Civale|R|Brandon Dixon|R|Single|F|Curveball|20|1|1|1|6|75
+Aaron Civale|R|Brandon Dixon|R|Single|B|Slider|21|1|2|1|14|84
+Aaron Civale|R|Brandon Dixon|R|Single|B|Sinker|22|2|2|1|12|94
+Aaron Civale|R|Brandon Dixon|R|Single|D|Slider|23|3|2|1|14|84
+Aaron Civale|R|Travis Demeritte|R|Lineout|X|Sinker|24|0|0|1|8|92
+Aaron Civale|R|Jordy Mercer|R|Flyout|C|Cutter|25|0|0|2|12|88
+Aaron Civale|R|Jordy Mercer|R|Flyout|B|Curveball|26|0|1|2|14|76
+Aaron Civale|R|Jordy Mercer|R|Flyout|X|Slider|27|1|1|2|6|83
+Aaron Civale|R|John Hicks|R|Field Error|F|Sinker|28|0|0|0|2|92
+Aaron Civale|R|John Hicks|R|Field Error|B|Sinker|29|0|1|0|13|93
+Aaron Civale|R|John Hicks|R|Field Error|B|Slider|30|1|1|0|14|85
+Aaron Civale|R|John Hicks|R|Field Error|F|N/A|31|2|1|0|0|0
+Aaron Civale|R|John Hicks|R|Field Error|D|Sinker|32|2|2|0|2|94
+Aaron Civale|R|Victor Reyes|L|Grounded Into DP|C|Sinker|33|0|0|0|8|92
+Aaron Civale|R|Victor Reyes|L|Grounded Into DP|F|Cutter|34|0|1|0|12|87
+Aaron Civale|R|Victor Reyes|L|Grounded Into DP|B|Sinker|35|0|2|0|12|92
+Aaron Civale|R|Victor Reyes|L|Grounded Into DP|X|Sinker|36|1|2|0|5|93
+Aaron Civale|R|Gordon Beckham|R|Single|B|Sinker|37|0|0|2|14|92
+Aaron Civale|R|Gordon Beckham|R|Single|B|Sinker|38|1|0|2|11|92
+Aaron Civale|R|Gordon Beckham|R|Single|S|Sinker|39|2|0|2|1|91
+Aaron Civale|R|Gordon Beckham|R|Single|C|Sinker|40|2|1|2|7|93
+Aaron Civale|R|Gordon Beckham|R|Single|B|Cutter|41|2|2|2|14|87
+Aaron Civale|R|Gordon Beckham|R|Single|D|Sinker|42|3|2|2|9|93
+Aaron Civale|R|Willi Castro|L|Strikeout|B|Sinker|43|0|0|2|14|93
+Aaron Civale|R|Willi Castro|L|Strikeout|S|Cutter|44|1|0|2|2|87
+Aaron Civale|R|Willi Castro|L|Strikeout|F|Cutter|45|1|1|2|12|88
+Aaron Civale|R|Willi Castro|L|Strikeout|C|Curveball|46|1|2|2|1|76
+Aaron Civale|R|Ronny Rodriguez|R|Grounded Into DP|X|Sinker|47|0|0|0|5|93
+Aaron Civale|R|Dawel Lugo|R|Home Run|S|Sinker|48|0|0|2|2|92
+Aaron Civale|R|Dawel Lugo|R|Home Run|B|Sinker|49|0|1|2|12|92
+Aaron Civale|R|Dawel Lugo|R|Home Run|C|Sinker|50|1|1|2|12|92
+Aaron Civale|R|Dawel Lugo|R|Home Run|B|Sinker|51|1|2|2|12|94
+Aaron Civale|R|Dawel Lugo|R|Home Run|E|Curveball|52|2|2|2|13|76
+Aaron Civale|R|Brandon Dixon|R|Groundout|B|Cutter|53|0|0|2|12|88
+Aaron Civale|R|Brandon Dixon|R|Groundout|X|Sinker|54|1|0|2|13|92
+Aaron Civale|R|Travis Demeritte|R|Flyout|B|Sinker|55|0|0|0|13|93
+Aaron Civale|R|Travis Demeritte|R|Flyout|X|Slider|56|1|0|0|14|84
+Aaron Civale|R|Jordy Mercer|R|Strikeout|C|Cutter|57|0|0|1|14|88
+Aaron Civale|R|Jordy Mercer|R|Strikeout|F|Cutter|58|0|1|1|14|85
+Aaron Civale|R|Jordy Mercer|R|Strikeout|C|Sinker|59|0|2|1|14|93
+Aaron Civale|R|John Hicks|R|Single|B|Sinker|60|0|0|2|14|92
+Aaron Civale|R|John Hicks|R|Single|B|Cutter|61|1|0|2|14|88
+Aaron Civale|R|John Hicks|R|Single|D|Sinker|62|2|0|2|5|93
+Aaron Civale|R|Victor Reyes|L|Double|B|Sinker|63|0|0|2|14|91
+Aaron Civale|R|Victor Reyes|L|Double|F|Sinker|64|1|0|2|14|92
+Aaron Civale|R|Victor Reyes|L|Double|F|Cutter|65|1|1|2|14|88
+Aaron Civale|R|Victor Reyes|L|Double|B|Cutter|66|1|2|2|11|88
+Aaron Civale|R|Victor Reyes|L|Double|B|Cutter|67|2|2|2|1|86
+Aaron Civale|R|Victor Reyes|L|Double|D|Cutter|68|3|2|2|6|88
+Aaron Civale|R|Gordon Beckham|R|Strikeout|C|Sinker|69|0|0|2|9|92
+Aaron Civale|R|Gordon Beckham|R|Strikeout|F|Sinker|70|0|1|2|5|93
+Aaron Civale|R|Gordon Beckham|R|Strikeout|S|Cutter|71|0|2|2|12|88
+Aaron Civale|R|Willi Castro|L|Sac Fly|S|Cutter|72|0|0|0|3|89
+Aaron Civale|R|Willi Castro|L|Sac Fly|B|Cutter|73|0|1|0|11|88
+Aaron Civale|R|Willi Castro|L|Sac Fly|E|Cutter|74|1|1|0|14|88
+Aaron Civale|R|Ronny Rodriguez|R|Lineout|C|Sinker|75|0|0|1|11|93
+Aaron Civale|R|Ronny Rodriguez|R|Lineout|X|Sinker|76|0|1|1|7|93
+Aaron Civale|R|Dawel Lugo|R|Groundout|S|Cutter|77|0|0|2|6|88
+Aaron Civale|R|Dawel Lugo|R|Groundout|F|Cutter|78|0|1|2|12|86
+Aaron Civale|R|Dawel Lugo|R|Groundout|B|Sinker|79|0|2|2|12|92
+Aaron Civale|R|Dawel Lugo|R|Groundout|B|Slider|80|1|2|2|14|84
+Aaron Civale|R|Dawel Lugo|R|Groundout|B|Sinker|81|2|2|2|14|93
+Aaron Civale|R|Dawel Lugo|R|Groundout|X|Cutter|82|3|2|2|6|88
+Aaron Civale|R|Brandon Dixon|R|Strikeout|C|Cutter|83|0|0|0|14|87
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Sinker|84|0|1|0|14|93
+Aaron Civale|R|Brandon Dixon|R|Strikeout|S|Slider|85|1|1|0|9|84
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Sinker|86|1|2|0|14|93
+Aaron Civale|R|Brandon Dixon|R|Strikeout|B|Sinker|87|2|2|0|14|93
+Aaron Civale|R|Brandon Dixon|R|Strikeout|S|Cutter|88|3|2|0|14|89
+Aaron Civale|R|Travis Demeritte|R|Flyout|C|Sinker|89|0|0|1|13|93
+Aaron Civale|R|Travis Demeritte|R|Flyout|X|Cutter|90|0|1|1|6|88
+Aaron Civale|R|Amed Rosario|R|Strikeout|B|Cutter|0|0|0|0|12|88
+Aaron Civale|R|Amed Rosario|R|Strikeout|C|Cutter|1|1|0|0|12|88
+Aaron Civale|R|Amed Rosario|R|Strikeout|B|Slider|2|1|1|0|14|85
+Aaron Civale|R|Amed Rosario|R|Strikeout|F|Cutter|3|2|1|0|8|87
+Aaron Civale|R|Amed Rosario|R|Strikeout|S|Cutter|4|2|2|0|3|85
+Aaron Civale|R|Joe Panik|L|Groundout|C|Sinker|5|0|0|1|5|93
+Aaron Civale|R|Joe Panik|L|Groundout|B|Changeup|6|0|1|1|11|85
+Aaron Civale|R|Joe Panik|L|Groundout|B|Cutter|7|1|1|1|12|88
+Aaron Civale|R|Joe Panik|L|Groundout|B|Cutter|8|2|1|1|14|88
+Aaron Civale|R|Joe Panik|L|Groundout|X|Sinker|9|3|1|1|8|94
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|B|Sinker|10|0|0|2|13|93
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|B|Slider|11|1|0|2|14|84
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|C|Cutter|12|2|0|2|12|89
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|F|Cutter|13|2|1|2|14|85
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|B|Sinker|14|2|2|2|11|95
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|F|Cutter|15|3|2|2|3|85
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|F|Slider|16|3|2|2|14|85
+Aaron Civale|R|Pete Alonso|R|Hit By Pitch|H|Sinker|17|3|2|2|11|94
+Aaron Civale|R|Michael Conforto|L|Groundout|F|Sinker|18|0|0|2|1|92
+Aaron Civale|R|Michael Conforto|L|Groundout|C|Cutter|19|0|1|2|12|89
+Aaron Civale|R|Michael Conforto|L|Groundout|B|Sinker|20|0|2|2|12|94
+Aaron Civale|R|Michael Conforto|L|Groundout|X|Changeup|21|1|2|2|13|85
+Aaron Civale|R|Wilson Ramos|R|Groundout|X|Cutter|22|0|0|0|3|87
+Aaron Civale|R|J.D. Davis|R|Groundout|B|Sinker|23|0|0|1|12|92
+Aaron Civale|R|J.D. Davis|R|Groundout|B|Cutter|24|1|0|1|12|88
+Aaron Civale|R|J.D. Davis|R|Groundout|C|Sinker|25|2|0|1|2|93
+Aaron Civale|R|J.D. Davis|R|Groundout|B|Cutter|26|2|1|1|12|88
+Aaron Civale|R|J.D. Davis|R|Groundout|F|Cutter|27|3|1|1|14|88
+Aaron Civale|R|J.D. Davis|R|Groundout|F|Sinker|28|3|2|1|6|94
+Aaron Civale|R|J.D. Davis|R|Groundout|X|Sinker|29|3|2|1|8|95
+Aaron Civale|R|Todd Frazier|R|Groundout|B|Sinker|30|0|0|2|14|93
+Aaron Civale|R|Todd Frazier|R|Groundout|B|Cutter|31|1|0|2|12|89
+Aaron Civale|R|Todd Frazier|R|Groundout|C|Cutter|32|2|0|2|2|90
+Aaron Civale|R|Todd Frazier|R|Groundout|X|Sinker|33|2|1|2|6|94
+Aaron Civale|R|Juan Lagares|R|Lineout|X|Cutter|34|0|0|0|12|88
+Aaron Civale|R|Noah Syndergaard|L|Flyout|X|Sinker|35|0|0|1|8|91
+Aaron Civale|R|Amed Rosario|R|Flyout|B|Sinker|36|0|0|2|13|92
+Aaron Civale|R|Amed Rosario|R|Flyout|B|Cutter|37|1|0|2|11|88
+Aaron Civale|R|Amed Rosario|R|Flyout|X|Cutter|38|2|0|2|14|88
+Aaron Civale|R|Joe Panik|L|Single|C|Changeup|39|0|0|0|5|84
+Aaron Civale|R|Joe Panik|L|Single|D|Curveball|40|0|1|0|7|75
+Aaron Civale|R|Pete Alonso|R|Flyout|F|Cutter|41|0|0|0|6|88
+Aaron Civale|R|Pete Alonso|R|Flyout|B|Cutter|42|0|1|0|14|85
+Aaron Civale|R|Pete Alonso|R|Flyout|X|Slider|43|1|1|0|14|84
+Aaron Civale|R|Michael Conforto|L|Double|T|Sinker|44|0|0|1|5|93
+Aaron Civale|R|Michael Conforto|L|Double|F|Cutter|45|0|1|1|12|88
+Aaron Civale|R|Michael Conforto|L|Double|B|Four-Seam Fastball|46|0|2|1|12|92
+Aaron Civale|R|Michael Conforto|L|Double|B|Cutter|47|1|2|1|11|88
+Aaron Civale|R|Michael Conforto|L|Double|F|Slider|48|2|2|1|14|84
+Aaron Civale|R|Michael Conforto|L|Double|D|Sinker|49|2|2|1|1|94
+Aaron Civale|R|Wilson Ramos|R|Double|B|Cutter|50|0|0|1|14|85
+Aaron Civale|R|Wilson Ramos|R|Double|C|Cutter|51|1|0|1|14|88
+Aaron Civale|R|Wilson Ramos|R|Double|F|Slider|52|1|1|1|9|84
+Aaron Civale|R|Wilson Ramos|R|Double|F|Sinker|53|1|2|1|13|93
+Aaron Civale|R|Wilson Ramos|R|Double|E|Cutter|54|1|2|1|2|88
+Aaron Civale|R|J.D. Davis|R|Flyout|F|Cutter|55|0|0|1|12|89
+Aaron Civale|R|J.D. Davis|R|Flyout|X|Slider|56|0|1|1|6|83
+Aaron Civale|R|Todd Frazier|R|Groundout|C|Slider|57|0|0|2|14|83
+Aaron Civale|R|Todd Frazier|R|Groundout|X|Cutter|58|0|1|2|12|88
+Aaron Civale|R|Juan Lagares|R|Groundout|C|Sinker|59|0|0|0|3|92
+Aaron Civale|R|Juan Lagares|R|Groundout|B|Changeup|60|0|1|0|13|84
+Aaron Civale|R|Juan Lagares|R|Groundout|B|Slider|61|1|1|0|14|85
+Aaron Civale|R|Juan Lagares|R|Groundout|X|Cutter|62|2|1|0|14|88
+Aaron Civale|R|Noah Syndergaard|L|Strikeout|S|Cutter|63|0|0|1|9|88
+Aaron Civale|R|Noah Syndergaard|L|Strikeout|F|Cutter|64|0|1|1|12|88
+Aaron Civale|R|Noah Syndergaard|L|Strikeout|S|Sinker|65|0|2|1|2|93
+Aaron Civale|R|Amed Rosario|R|Lineout|C|Slider|66|0|0|2|2|83
+Aaron Civale|R|Amed Rosario|R|Lineout|X|Slider|67|0|1|2|9|83
+Aaron Civale|R|Joe Panik|L|Strikeout|C|Sinker|68|0|0|0|1|92
+Aaron Civale|R|Joe Panik|L|Strikeout|S|Cutter|69|0|1|0|12|88
+Aaron Civale|R|Joe Panik|L|Strikeout|C|Sinker|70|0|2|0|12|93
+Aaron Civale|R|Pete Alonso|R|Pop Out|B|Slider|71|0|0|1|14|84
+Aaron Civale|R|Pete Alonso|R|Pop Out|B|Cutter|72|1|0|1|12|88
+Aaron Civale|R|Pete Alonso|R|Pop Out|B|Changeup|73|2|0|1|13|84
+Aaron Civale|R|Pete Alonso|R|Pop Out|X|Cutter|74|3|0|1|12|89
+Aaron Civale|R|Michael Conforto|L|Single|B|Slider|75|0|0|2|14|83
+Aaron Civale|R|Michael Conforto|L|Single|S|Changeup|76|1|0|2|4|84
+Aaron Civale|R|Michael Conforto|L|Single|B|Cutter|77|1|1|2|11|88
+Aaron Civale|R|Michael Conforto|L|Single|F|Cutter|78|2|1|2|3|88
+Aaron Civale|R|Michael Conforto|L|Single|B|Slider|79|2|2|2|12|82
+Aaron Civale|R|Michael Conforto|L|Single|F|Changeup|80|3|2|2|13|85
+Aaron Civale|R|Michael Conforto|L|Single|D|Sinker|81|3|2|2|6|94
+Tyler Clippard|R|Wilson Ramos|R|Lineout|F|Slider|82|0|0|2|12|83
+Aaron Civale|R|Max Kepler|L|Pop Out|X|Sinker|0|0|0|0|5|90
+Aaron Civale|R|Jorge Polanco|L|Strikeout|B|Sinker|1|0|0|1|11|91
+Aaron Civale|R|Jorge Polanco|L|Strikeout|C|Sinker|2|1|0|1|12|91
+Aaron Civale|R|Jorge Polanco|L|Strikeout|S|Changeup|3|1|1|1|9|83
+Aaron Civale|R|Jorge Polanco|L|Strikeout|F|Cutter|4|1|2|1|3|89
+Aaron Civale|R|Jorge Polanco|L|Strikeout|S|Cutter|5|1|2|1|12|88
+Aaron Civale|R|Miguel Sano|R|Groundout|B|Cutter|6|0|0|2|12|88
+Aaron Civale|R|Miguel Sano|R|Groundout|B|Slider|7|1|0|2|12|83
+Aaron Civale|R|Miguel Sano|R|Groundout|C|Sinker|8|2|0|2|6|91
+Aaron Civale|R|Miguel Sano|R|Groundout|S|Cutter|9|2|1|2|14|88
+Aaron Civale|R|Miguel Sano|R|Groundout|B|Sinker|10|2|2|2|11|93
+Aaron Civale|R|Miguel Sano|R|Groundout|F|Cutter|11|3|2|2|3|88
+Aaron Civale|R|Miguel Sano|R|Groundout|F|Sinker|12|3|2|2|3|93
+Aaron Civale|R|Miguel Sano|R|Groundout|X|Cutter|13|3|2|2|9|89
+Aaron Civale|R|Eddie Rosario|L|Double|F|Changeup|14|0|0|0|2|82
+Aaron Civale|R|Eddie Rosario|L|Double|B|Cutter|15|0|1|0|14|88
+Aaron Civale|R|Eddie Rosario|L|Double|B|Sinker|16|1|1|0|14|92
+Aaron Civale|R|Eddie Rosario|L|Double|B|Cutter|17|2|1|0|14|87
+Aaron Civale|R|Eddie Rosario|L|Double|F|Sinker|18|3|1|0|5|92
+Aaron Civale|R|Eddie Rosario|L|Double|D|Cutter|19|3|2|0|3|89
+Aaron Civale|R|Mitch Garver|R|Flyout|C|Cutter|20|0|0|0|6|87
+Aaron Civale|R|Mitch Garver|R|Flyout|B|Slider|21|0|1|0|12|83
+Aaron Civale|R|Mitch Garver|R|Flyout|F|Cutter|22|1|1|0|12|88
+Aaron Civale|R|Mitch Garver|R|Flyout|B|Slider|23|1|2|0|14|84
+Aaron Civale|R|Mitch Garver|R|Flyout|X|Cutter|24|2|2|0|14|88
+Aaron Civale|R|Luis Arraez|L|Sac Fly|B|Cutter|25|0|0|1|14|89
+Aaron Civale|R|Luis Arraez|L|Sac Fly|C|Sinker|26|1|0|1|12|92
+Aaron Civale|R|Luis Arraez|L|Sac Fly|E|Changeup|27|1|1|1|8|85
+Aaron Civale|R|C.J. Cron|R|Groundout|X|Slider|28|0|0|2|12|84
+Aaron Civale|R|Marwin Gonzalez|L|Groundout|F|Sinker|29|0|0|0|8|91
+Aaron Civale|R|Marwin Gonzalez|L|Groundout|S|Changeup|30|0|1|0|13|83
+Aaron Civale|R|Marwin Gonzalez|L|Groundout|X|Four-Seam Fastball|31|0|2|0|12|92
+Aaron Civale|R|Jonathan Schoop|R|Single|D|Cutter|32|0|0|1|9|87
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Changeup|33|0|0|1|11|83
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Cutter|34|1|0|1|12|86
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Cutter|35|2|0|1|11|88
+Aaron Civale|R|Max Kepler|L|Strikeout|C|Cutter|36|3|0|1|11|88
+Aaron Civale|R|Max Kepler|L|Strikeout|C|Changeup|37|3|1|1|2|84
+Aaron Civale|R|Max Kepler|L|Strikeout|S|Sinker|38|3|2|1|12|92
+Aaron Civale|R|Jorge Polanco|L|Strikeout|T|Sinker|39|0|0|2|11|92
+Aaron Civale|R|Jorge Polanco|L|Strikeout|C|Sinker|40|0|1|2|2|93
+Aaron Civale|R|Jorge Polanco|L|Strikeout|F|Slider|41|0|2|2|12|84
+Aaron Civale|R|Jorge Polanco|L|Strikeout|B|Cutter|42|0|2|2|12|89
+Aaron Civale|R|Jorge Polanco|L|Strikeout|F|Sinker|43|1|2|2|12|93
+Aaron Civale|R|Jorge Polanco|L|Strikeout|C|Curveball|44|1|2|2|2|76
+Aaron Civale|R|Miguel Sano|R|Strikeout|T|Sinker|45|0|0|0|13|93
+Aaron Civale|R|Miguel Sano|R|Strikeout|F|Cutter|46|0|1|0|9|88
+Aaron Civale|R|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|47|0|2|0|12|92
+Aaron Civale|R|Miguel Sano|R|Strikeout|F|Curveball|48|1|2|0|9|76
+Aaron Civale|R|Miguel Sano|R|Strikeout|B|Slider|49|1|2|0|14|83
+Aaron Civale|R|Miguel Sano|R|Strikeout|C|Sinker|50|2|2|0|3|94
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Curveball|51|0|0|1|4|76
+Aaron Civale|R|Eddie Rosario|L|Flyout|X|Sinker|52|0|1|1|8|93
+Aaron Civale|R|Mitch Garver|R|Lineout|B|Slider|53|0|0|2|14|84
+Aaron Civale|R|Mitch Garver|R|Lineout|X|Cutter|54|1|0|2|12|88
+Aaron Civale|R|Luis Arraez|L|Flyout|B|Sinker|55|0|0|0|14|91
+Aaron Civale|R|Luis Arraez|L|Flyout|C|Cutter|56|1|0|0|6|86
+Aaron Civale|R|Luis Arraez|L|Flyout|B|Curveball|57|1|1|0|14|75
+Aaron Civale|R|Luis Arraez|L|Flyout|F|Sinker|58|2|1|0|6|92
+Aaron Civale|R|Luis Arraez|L|Flyout|F|Sinker|59|2|2|0|12|93
+Aaron Civale|R|Luis Arraez|L|Flyout|B|Sinker|60|2|2|0|14|93
+Aaron Civale|R|Luis Arraez|L|Flyout|X|Changeup|61|3|2|0|8|86
+Aaron Civale|R|C.J. Cron|R|Single|C|Cutter|62|0|0|1|5|87
+Aaron Civale|R|C.J. Cron|R|Single|C|Sinker|63|0|1|1|6|93
+Aaron Civale|R|C.J. Cron|R|Single|B|Curveball|64|0|2|1|14|78
+Aaron Civale|R|C.J. Cron|R|Single|B|Slider|65|1|2|1|14|83
+Aaron Civale|R|C.J. Cron|R|Single|D|Sinker|66|2|2|1|12|94
+Aaron Civale|R|Marwin Gonzalez|L|Single|C|Cutter|67|0|0|1|3|88
+Aaron Civale|R|Marwin Gonzalez|L|Single|F|Cutter|68|0|1|1|14|88
+Aaron Civale|R|Marwin Gonzalez|L|Single|B|Slider|69|0|2|1|12|84
+Aaron Civale|R|Marwin Gonzalez|L|Single|B|Sinker|70|1|2|1|12|93
+Aaron Civale|R|Marwin Gonzalez|L|Single|D|Cutter|71|2|2|1|3|88
+Aaron Civale|R|Jonathan Schoop|R|Pop Out|C|Slider|72|0|0|1|14|83
+Aaron Civale|R|Jonathan Schoop|R|Pop Out|B|Sinker|73|0|1|1|12|92
+Aaron Civale|R|Jonathan Schoop|R|Pop Out|X|Slider|74|1|1|1|14|83
+Aaron Civale|R|Max Kepler|L|Strikeout|S|Cutter|75|0|0|2|3|87
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Sinker|76|0|1|2|11|93
+Aaron Civale|R|Max Kepler|L|Strikeout|F|Cutter|77|1|1|2|12|88
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Sinker|78|1|2|2|12|93
+Aaron Civale|R|Max Kepler|L|Strikeout|F|Slider|79|2|2|2|3|85
+Aaron Civale|R|Max Kepler|L|Strikeout|T|Curveball|80|2|2|2|14|77
+Aaron Civale|R|Jorge Polanco|L|Pop Out|C|Sinker|81|0|0|0|12|91
+Aaron Civale|R|Jorge Polanco|L|Pop Out|B|Changeup|82|0|1|0|11|82
+Aaron Civale|R|Jorge Polanco|L|Pop Out|B|Curveball|83|1|1|0|11|75
+Aaron Civale|R|Jorge Polanco|L|Pop Out|S|Changeup|84|2|1|0|8|84
+Aaron Civale|R|Jorge Polanco|L|Pop Out|X|Sinker|85|2|2|0|11|92
+Aaron Civale|R|Miguel Sano|R|Flyout|X|Slider|86|0|0|1|6|82
+Aaron Civale|R|Eddie Rosario|L|Flyout|C|Curveball|87|0|0|2|1|74
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Cutter|88|0|1|2|14|87
+Aaron Civale|R|Eddie Rosario|L|Flyout|B|Curveball|89|0|2|2|13|75
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Sinker|90|1|2|2|3|93
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Slider|91|1|2|2|14|82
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Sinker|92|1|2|2|11|93
+Aaron Civale|R|Eddie Rosario|L|Flyout|B|Cutter|93|1|2|2|12|88
+Aaron Civale|R|Eddie Rosario|L|Flyout|X|Sinker|94|2|2|2|2|94
+Aaron Civale|R|Max Kepler|L|Strikeout|F|Cutter|0|0|0|0|14|88
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Cutter|1|0|1|0|14|89
+Aaron Civale|R|Max Kepler|L|Strikeout|B|Cutter|2|1|1|0|14|88
+Aaron Civale|R|Max Kepler|L|Strikeout|F|Cutter|3|2|1|0|12|88
+Aaron Civale|R|Max Kepler|L|Strikeout|W|Curveball|4|2|2|0|14|76
+Aaron Civale|R|Mitch Garver|R|Home Run|C|Slider|5|0|0|1|14|83
+Aaron Civale|R|Mitch Garver|R|Home Run|B|Curveball|6|0|1|1|13|75
+Aaron Civale|R|Mitch Garver|R|Home Run|B|Slider|7|1|1|1|14|83
+Aaron Civale|R|Mitch Garver|R|Home Run|B|Cutter|8|2|1|1|14|89
+Aaron Civale|R|Mitch Garver|R|Home Run|E|Cutter|9|3|1|1|8|88
+Aaron Civale|R|Jorge Polanco|L|Flyout|B|Changeup|10|0|0|1|14|85
+Aaron Civale|R|Jorge Polanco|L|Flyout|X|Sinker|11|1|0|1|4|93
+Aaron Civale|R|Eddie Rosario|L|Strikeout|B|Curveball|12|0|0|2|14|76
+Aaron Civale|R|Eddie Rosario|L|Strikeout|C|Sinker|13|1|0|2|13|93
+Aaron Civale|R|Eddie Rosario|L|Strikeout|B|Sinker|14|1|1|2|13|93
+Aaron Civale|R|Eddie Rosario|L|Strikeout|F|Sinker|15|2|1|2|8|93
+Aaron Civale|R|Eddie Rosario|L|Strikeout|S|Sinker|16|2|2|2|11|94
+Aaron Civale|R|Miguel Sano|R|Strikeout|C|Sinker|17|0|0|0|13|92
+Aaron Civale|R|Miguel Sano|R|Strikeout|F|Slider|18|0|1|0|9|84
+Aaron Civale|R|Miguel Sano|R|Strikeout|B|Slider|19|0|2|0|14|83
+Aaron Civale|R|Miguel Sano|R|Strikeout|B|Curveball|20|1|2|0|13|76
+Aaron Civale|R|Miguel Sano|R|Strikeout|C|Sinker|21|2|2|0|9|94
+Aaron Civale|R|Luis Arraez|L|Flyout|B|Sinker|22|0|0|1|14|93
+Aaron Civale|R|Luis Arraez|L|Flyout|C|Slider|23|1|0|1|14|85
+Aaron Civale|R|Luis Arraez|L|Flyout|F|Slider|24|1|1|1|3|83
+Aaron Civale|R|Luis Arraez|L|Flyout|X|Sinker|25|1|2|1|3|94
+Aaron Civale|R|C.J. Cron|R|Strikeout|B|Sinker|26|0|0|2|14|95
+Aaron Civale|R|C.J. Cron|R|Strikeout|S|Slider|27|1|0|2|6|83
+Aaron Civale|R|C.J. Cron|R|Strikeout|C|Sinker|28|1|1|2|6|94
+Aaron Civale|R|C.J. Cron|R|Strikeout|C|Sinker|29|1|2|2|14|95
+Aaron Civale|R|Willians Astudillo|R|Single|D|Sinker|30|0|0|0|9|92
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|C|Sinker|31|0|0|0|5|92
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|B|Sinker|32|0|1|0|14|92
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|S|Slider|33|1|1|0|14|83
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|F|Sinker|34|1|2|0|6|93
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|B|Four-Seam Fastball|35|1|2|0|12|93
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|B|Slider|36|2|2|0|14|84
+Aaron Civale|R|Jonathan Schoop|R|Grounded Into DP|X|Sinker|37|3|2|0|11|94
+Aaron Civale|R|Max Kepler|L|Walk|B|Curveball|38|0|0|2|13|76
+Aaron Civale|R|Max Kepler|L|Walk|B|Curveball|39|1|0|2|13|76
+Aaron Civale|R|Max Kepler|L|Walk|B|Cutter|40|2|0|2|14|89
+Aaron Civale|R|Max Kepler|L|Walk|B|Sinker|41|3|0|2|13|93
+Aaron Civale|R|Mitch Garver|R|Walk|C|Sinker|42|0|0|2|8|92
+Aaron Civale|R|Mitch Garver|R|Walk|B|Slider|43|0|1|2|14|84
+Aaron Civale|R|Mitch Garver|R|Walk|C|Sinker|44|1|1|2|9|92
+Aaron Civale|R|Mitch Garver|R|Walk|B|Four-Seam Fastball|45|1|2|2|12|92
+Aaron Civale|R|Mitch Garver|R|Walk|*B|Changeup|46|2|2|2|14|86
+Aaron Civale|R|Mitch Garver|R|Walk|B|Sinker|47|3|2|2|14|94
+Aaron Civale|R|Jorge Polanco|L|Walk|B|Sinker|48|0|0|2|13|93
+Aaron Civale|R|Jorge Polanco|L|Walk|B|Cutter|49|1|0|2|14|88
+Aaron Civale|R|Jorge Polanco|L|Walk|B|Curveball|50|2|0|2|13|76
+Aaron Civale|R|Jorge Polanco|L|Walk|B|Sinker|51|3|0|2|14|92
+Aaron Civale|R|Eddie Rosario|L|Flyout|B|Cutter|52|0|0|2|14|88
+Aaron Civale|R|Eddie Rosario|L|Flyout|B|Sinker|53|1|0|2|14|92
+Aaron Civale|R|Eddie Rosario|L|Flyout|F|Cutter|54|2|0|2|14|89
+Aaron Civale|R|Eddie Rosario|L|Flyout|B|Sinker|55|2|1|2|11|92
+Aaron Civale|R|Eddie Rosario|L|Flyout|X|Sinker|56|3|1|2|11|93
+Aaron Civale|R|Miguel Sano|R|Field Error|C|Sinker|57|0|0|0|14|91
+Aaron Civale|R|Miguel Sano|R|Field Error|B|Sinker|58|0|1|0|14|92
+Aaron Civale|R|Miguel Sano|R|Field Error|S|Slider|59|1|1|0|14|84
+Aaron Civale|R|Miguel Sano|R|Field Error|D|Slider|60|1|2|0|14|83
+Aaron Civale|R|Luis Arraez|L|Double|B|Sinker|61|0|0|0|11|92
+Aaron Civale|R|Luis Arraez|L|Double|C|Sinker|62|1|0|0|11|92
+Aaron Civale|R|Luis Arraez|L|Double|C|Sinker|63|1|1|0|11|93
+Aaron Civale|R|Luis Arraez|L|Double|D|Sinker|64|1|2|0|2|93
+Aaron Civale|R|C.J. Cron|R|Fielders Choice Out|X|Sinker|65|0|0|0|11|93
+Aaron Civale|R|Willians Astudillo|R|Flyout|X|Sinker|66|0|0|1|6|92
+Aaron Civale|R|Jonathan Schoop|R|Forceout|B|Sinker|67|0|0|2|12|93
+Aaron Civale|R|Jonathan Schoop|R|Forceout|X|Sinker|68|1|0|2|8|93
+Aaron Civale|R|Max Kepler|L|Groundout|X|Sinker|69|0|0|0|4|91
+Aaron Civale|R|Mitch Garver|R|Groundout|C|Sinker|70|0|0|1|9|92
+Aaron Civale|R|Mitch Garver|R|Groundout|B|Curveball|71|0|1|1|14|75
+Aaron Civale|R|Mitch Garver|R|Groundout|B|Sinker|72|1|1|1|11|92
+Aaron Civale|R|Mitch Garver|R|Groundout|X|Sinker|73|2|1|1|11|92
+Aaron Civale|R|Jorge Polanco|L|Flyout|B|Sinker|74|0|0|2|11|92
+Aaron Civale|R|Jorge Polanco|L|Flyout|B|Changeup|75|1|0|2|14|86
+Aaron Civale|R|Jorge Polanco|L|Flyout|B|Sinker|76|2|0|2|13|93
+Aaron Civale|R|Jorge Polanco|L|Flyout|C|Sinker|77|3|0|2|7|92
+Aaron Civale|R|Jorge Polanco|L|Flyout|F|Cutter|78|3|1|2|9|88
+Aaron Civale|R|Jorge Polanco|L|Flyout|X|Sinker|79|3|2|2|6|93
+Aaron Civale|R|Yolmer Sanchez|L|Pop Out|B|Changeup|0|0|0|0|14|87
+Aaron Civale|R|Yolmer Sanchez|L|Pop Out|C|Cutter|1|1|0|0|3|87
+Aaron Civale|R|Yolmer Sanchez|L|Pop Out|B|Changeup|2|1|1|0|14|82
+Aaron Civale|R|Yolmer Sanchez|L|Pop Out|X|Cutter|3|2|1|0|3|86
+Aaron Civale|R|Tim Anderson|R|Strikeout|C|Slider|4|0|0|1|11|81
+Aaron Civale|R|Tim Anderson|R|Strikeout|B|Sinker|5|0|1|1|13|90
+Aaron Civale|R|Tim Anderson|R|Strikeout|F|Curveball|6|1|1|1|13|72
+Aaron Civale|R|Tim Anderson|R|Strikeout|S|Slider|7|1|2|1|14|82
+Aaron Civale|R|Jose Abreu|R|Groundout|C|Slider|8|0|0|2|6|85
+Aaron Civale|R|Jose Abreu|R|Groundout|X|Sinker|9|0|1|2|13|90
+Aaron Civale|R|Yoan Moncada|L|Strikeout|C|Cutter|10|0|0|0|3|86
+Aaron Civale|R|Yoan Moncada|L|Strikeout|S|Curveball|11|0|1|0|14|73
+Aaron Civale|R|Yoan Moncada|L|Strikeout|F|Four-Seam Fastball|12|0|2|0|12|90
+Aaron Civale|R|Yoan Moncada|L|Strikeout|B|Cutter|13|0|2|0|13|85
+Aaron Civale|R|Yoan Moncada|L|Strikeout|B|Curveball|14|1|2|0|13|74
+Aaron Civale|R|Yoan Moncada|L|Strikeout|S|Curveball|15|2|2|0|8|73
+Aaron Civale|R|Zack Collins|L|Lineout|F|Cutter|16|0|0|1|7|87
+Aaron Civale|R|Zack Collins|L|Lineout|C|Cutter|17|0|1|1|4|86
+Aaron Civale|R|Zack Collins|L|Lineout|B|Four-Seam Fastball|18|0|2|1|12|91
+Aaron Civale|R|Zack Collins|L|Lineout|X|Cutter|19|1|2|1|5|86
+Aaron Civale|R|James McCann|R|Walk|B|Sinker|20|0|0|2|14|88
+Aaron Civale|R|James McCann|R|Walk|B|Sinker|21|1|0|2|14|91
+Aaron Civale|R|James McCann|R|Walk|B|Sinker|22|2|0|2|14|91
+Aaron Civale|R|James McCann|R|Walk|B|Cutter|23|3|0|2|14|87
+Aaron Civale|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|24|0|0|2|11|90
+Aaron Civale|R|Daniel Palka|L|Strikeout|C|Cutter|25|1|0|2|5|86
+Aaron Civale|R|Daniel Palka|L|Strikeout|F|Cutter|26|1|1|2|12|85
+Aaron Civale|R|Daniel Palka|L|Strikeout|T|Cutter|27|1|2|2|3|85
+Aaron Civale|R|Adam Engel|R|Flyout|X|Cutter|28|0|0|0|5|86
+Aaron Civale|R|Ryan Cordell|R|Walk|B|Sinker|29|0|0|1|14|89
+Aaron Civale|R|Ryan Cordell|R|Walk|B|Sinker|30|1|0|1|14|89
+Aaron Civale|R|Ryan Cordell|R|Walk|B|Cutter|31|2|0|1|11|85
+Aaron Civale|R|Ryan Cordell|R|Walk|C|Cutter|32|3|0|1|11|86
+Aaron Civale|R|Ryan Cordell|R|Walk|S|Slider|33|3|1|1|6|85
+Aaron Civale|R|Ryan Cordell|R|Walk|F|Cutter|34|3|2|1|14|86
+Aaron Civale|R|Ryan Cordell|R|Walk|F|Cutter|35|3|2|1|8|87
+Aaron Civale|R|Ryan Cordell|R|Walk|F|Four-Seam Fastball|36|3|2|1|6|91
+Aaron Civale|R|Ryan Cordell|R|Walk|B|Cutter|37|3|2|1|14|86
+Aaron Civale|R|Yolmer Sanchez|L|Strikeout|C|Cutter|38|0|0|1|2|85
+Aaron Civale|R|Yolmer Sanchez|L|Strikeout|F|Sinker|39|0|1|1|13|90
+Aaron Civale|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|40|0|2|1|11|90
+Aaron Civale|R|Yolmer Sanchez|L|Strikeout|S|Curveball|41|1|2|1|13|73
+Aaron Civale|R|Tim Anderson|R|Groundout|F|Slider|42|0|0|2|5|84
+Aaron Civale|R|Tim Anderson|R|Groundout|B|Sinker|43|0|1|2|11|90
+Aaron Civale|R|Tim Anderson|R|Groundout|B|Slider|44|1|1|2|14|82
+Aaron Civale|R|Tim Anderson|R|Groundout|S|Slider|45|2|1|2|14|81
+Aaron Civale|R|Tim Anderson|R|Groundout|X|Cutter|46|2|2|2|4|88
+Aaron Civale|R|Jose Abreu|R|Groundout|B|Curveball|47|0|0|0|14|72
+Aaron Civale|R|Jose Abreu|R|Groundout|X|Slider|48|1|0|0|3|80
+Aaron Civale|R|Yoan Moncada|L|Single|B|Curveball|49|0|0|1|14|72
+Aaron Civale|R|Yoan Moncada|L|Single|B|Curveball|50|1|0|1|11|71
+Aaron Civale|R|Yoan Moncada|L|Single|B|Slider|51|2|0|1|12|80
+Aaron Civale|R|Yoan Moncada|L|Single|C|Sinker|52|3|0|1|13|91
+Aaron Civale|R|Yoan Moncada|L|Single|D|Cutter|53|3|1|1|4|87
+Aaron Civale|R|Zack Collins|L|Walk|B|Sinker|54|0|0|1|13|89
+Aaron Civale|R|Zack Collins|L|Walk|B|Cutter|55|1|0|1|14|86
+Aaron Civale|R|Zack Collins|L|Walk|B|Sinker|56|2|0|1|14|90
+Aaron Civale|R|Zack Collins|L|Walk|C|Sinker|57|3|0|1|8|91
+Aaron Civale|R|Zack Collins|L|Walk|F|Sinker|58|3|1|1|7|90
+Aaron Civale|R|Zack Collins|L|Walk|F|Sinker|59|3|2|1|5|91
+Aaron Civale|R|Zack Collins|L|Walk|B|Cutter|60|3|2|1|11|87
+Aaron Civale|R|James McCann|R|Home Run|B|Sinker|61|0|0|1|13|90
+Aaron Civale|R|James McCann|R|Home Run|C|Cutter|62|1|0|1|8|87
+Aaron Civale|R|James McCann|R|Home Run|E|Cutter|63|1|1|1|6|86
+Aaron Civale|R|Daniel Palka|L|Home Run|E|Four-Seam Fastball|64|0|0|1|1|89
+Aaron Civale|R|DJ LeMahieu|R|Groundout|B|Sinker|0|0|0|0|14|92
+Aaron Civale|R|DJ LeMahieu|R|Groundout|C|Sinker|1|1|0|0|12|92
+Aaron Civale|R|DJ LeMahieu|R|Groundout|B|Slider|2|1|1|0|14|84
+Aaron Civale|R|DJ LeMahieu|R|Groundout|X|Sinker|3|2|1|0|8|93
+Aaron Civale|R|Aaron Judge|R|Single|C|Sinker|4|0|0|1|8|93
+Aaron Civale|R|Aaron Judge|R|Single|B|Sinker|5|0|1|1|14|94
+Aaron Civale|R|Aaron Judge|R|Single|B|Slider|6|1|1|1|14|83
+Aaron Civale|R|Aaron Judge|R|Single|D|Cutter|7|2|1|1|8|88
+Aaron Civale|R|Gio Urshela|R|Single|C|Sinker|8|0|0|1|14|92
+Aaron Civale|R|Gio Urshela|R|Single|C|Sinker|9|0|1|1|12|93
+Aaron Civale|R|Gio Urshela|R|Single|D|Curveball|10|0|2|1|14|78
+Aaron Civale|R|Didi Gregorius|L|Forceout|F|Cutter|11|0|0|1|9|87
+Aaron Civale|R|Didi Gregorius|L|Forceout|X|Cutter|12|0|1|1|14|88
+Aaron Civale|R|Gary Sanchez|R|Single|E|Sinker|13|0|0|2|1|93
+Aaron Civale|R|Gleyber Torres|R|Single|S|Cutter|14|0|0|2|14|89
+Aaron Civale|R|Gleyber Torres|R|Single|B|Cutter|15|0|1|2|14|88
+Aaron Civale|R|Gleyber Torres|R|Single|B|Slider|16|1|1|2|14|85
+Aaron Civale|R|Gleyber Torres|R|Single|S|Cutter|17|2|1|2|9|88
+Aaron Civale|R|Gleyber Torres|R|Single|B|Sinker|18|2|2|2|14|94
+Aaron Civale|R|Gleyber Torres|R|Single|F|Cutter|19|3|2|2|14|89
+Aaron Civale|R|Gleyber Torres|R|Single|E|Sinker|20|3|2|2|12|94
+Aaron Civale|R|Brett Gardner|L|Pop Out|X|Sinker|21|0|0|2|5|93
+Aaron Civale|R|Cameron Maybin|R|Double|B|Sinker|22|0|0|0|14|91
+Aaron Civale|R|Cameron Maybin|R|Double|D|Cutter|23|1|0|0|5|88
+Aaron Civale|R|Mike Ford|L|Groundout|B|Sinker|24|0|0|0|14|91
+Aaron Civale|R|Mike Ford|L|Groundout|X|Changeup|25|1|0|0|7|83
+Aaron Civale|R|DJ LeMahieu|R|Double Play|F|Sinker|26|0|0|1|7|93
+Aaron Civale|R|DJ LeMahieu|R|Double Play|X|Curveball|27|0|1|1|5|76
+Aaron Civale|R|Aaron Judge|R|Lineout|B|Sinker|28|0|0|0|14|91
+Aaron Civale|R|Aaron Judge|R|Lineout|B|Sinker|29|1|0|0|12|92
+Aaron Civale|R|Aaron Judge|R|Lineout|F|Sinker|30|2|0|0|1|93
+Aaron Civale|R|Aaron Judge|R|Lineout|B|Cutter|31|2|1|0|14|86
+Aaron Civale|R|Aaron Judge|R|Lineout|S|Slider|32|3|1|0|8|83
+Aaron Civale|R|Aaron Judge|R|Lineout|X|Sinker|33|3|2|0|2|93
+Aaron Civale|R|Gio Urshela|R|Strikeout|C|Curveball|34|0|0|1|9|76
+Aaron Civale|R|Gio Urshela|R|Strikeout|F|Curveball|35|0|1|1|14|76
+Aaron Civale|R|Gio Urshela|R|Strikeout|B|Curveball|36|0|2|1|14|76
+Aaron Civale|R|Gio Urshela|R|Strikeout|F|Curveball|37|1|2|1|14|75
+Aaron Civale|R|Gio Urshela|R|Strikeout|B|Curveball|38|1|2|1|14|76
+Aaron Civale|R|Gio Urshela|R|Strikeout|S|Slider|39|2|2|1|14|85
+Aaron Civale|R|Didi Gregorius|L|Lineout|X|Sinker|40|0|0|2|13|93
+Aaron Civale|R|Gary Sanchez|R|Groundout|X|Slider|41|0|0|0|14|84
+Aaron Civale|R|Gleyber Torres|R|Flyout|B|Slider|42|0|0|1|14|83
+Aaron Civale|R|Gleyber Torres|R|Flyout|C|Sinker|43|1|0|1|12|92
+Aaron Civale|R|Gleyber Torres|R|Flyout|S|Curveball|44|1|1|1|14|76
+Aaron Civale|R|Gleyber Torres|R|Flyout|X|Slider|45|1|2|1|14|84
+Aaron Civale|R|Brett Gardner|L|Double|B|Changeup|46|0|0|2|13|84
+Aaron Civale|R|Brett Gardner|L|Double|B|Sinker|47|1|0|2|13|93
+Aaron Civale|R|Brett Gardner|L|Double|F|Cutter|48|2|0|2|6|88
+Aaron Civale|R|Brett Gardner|L|Double|C|Cutter|49|2|1|2|11|88
+Aaron Civale|R|Brett Gardner|L|Double|D|Cutter|50|2|2|2|4|87
+Aaron Civale|R|Cameron Maybin|R|Strikeout|C|Slider|51|0|0|2|5|84
+Aaron Civale|R|Cameron Maybin|R|Strikeout|B|Sinker|52|0|1|2|14|93
+Aaron Civale|R|Cameron Maybin|R|Strikeout|S|Curveball|53|1|1|2|14|76
+Aaron Civale|R|Cameron Maybin|R|Strikeout|C|Sinker|54|1|2|2|3|94
+Aaron Civale|R|Mike Ford|L|Strikeout|C|Sinker|55|0|0|0|7|92
+Aaron Civale|R|Mike Ford|L|Strikeout|B|Changeup|56|0|1|0|13|83
+Aaron Civale|R|Mike Ford|L|Strikeout|B|Changeup|57|1|1|0|14|83
+Aaron Civale|R|Mike Ford|L|Strikeout|F|Slider|58|2|1|0|2|84
+Aaron Civale|R|Mike Ford|L|Strikeout|B|Cutter|59|2|2|0|11|88
+Aaron Civale|R|Mike Ford|L|Strikeout|S|Cutter|60|3|2|0|1|87
+Aaron Civale|R|DJ LeMahieu|R|Groundout|C|Sinker|61|0|0|1|5|93
+Aaron Civale|R|DJ LeMahieu|R|Groundout|X|Curveball|62|0|1|1|14|77
+Aaron Civale|R|Aaron Judge|R|Double|D|Sinker|63|0|0|2|2|92
+Aaron Civale|R|Gio Urshela|R|Single|F|Slider|64|0|0|2|14|84
+Aaron Civale|R|Gio Urshela|R|Single|B|Slider|65|0|1|2|14|84
+Aaron Civale|R|Gio Urshela|R|Single|E|Sinker|66|1|1|2|3|93
+Aaron Civale|R|Didi Gregorius|L|Strikeout|S|Cutter|67|0|0|2|3|88
+Aaron Civale|R|Didi Gregorius|L|Strikeout|B|Cutter|68|0|1|2|11|89
+Aaron Civale|R|Didi Gregorius|L|Strikeout|F|Cutter|69|1|1|2|5|87
+Aaron Civale|R|Didi Gregorius|L|Strikeout|W|Curveball|70|1|2|2|14|77
+Aaron Civale|R|Gary Sanchez|R|Walk|B|Slider|71|0|0|0|14|84
+Aaron Civale|R|Gary Sanchez|R|Walk|B|Slider|72|1|0|0|14|83
+Aaron Civale|R|Gary Sanchez|R|Walk|C|Sinker|73|2|0|0|5|93
+Aaron Civale|R|Gary Sanchez|R|Walk|B|Curveball|74|2|1|0|14|76
+Aaron Civale|R|Gary Sanchez|R|Walk|C|Cutter|75|3|1|0|7|89
+Aaron Civale|R|Gary Sanchez|R|Walk|F|Cutter|76|3|2|0|8|89
+Aaron Civale|R|Gary Sanchez|R|Walk|B|Cutter|77|3|2|0|14|85
+Aaron Civale|R|Gleyber Torres|R|Pop Out|X|Sinker|78|0|0|0|11|93
+Aaron Civale|R|Brett Gardner|L|Pop Out|C|Sinker|79|0|0|1|11|92
+Aaron Civale|R|Brett Gardner|L|Pop Out|C|Changeup|80|0|1|1|1|85
+Aaron Civale|R|Brett Gardner|L|Pop Out|B|Cutter|81|0|2|1|11|88
+Aaron Civale|R|Brett Gardner|L|Pop Out|F|Curveball|82|1|2|1|8|76
+Aaron Civale|R|Brett Gardner|L|Pop Out|X|Sinker|83|1|2|1|6|94
+Aaron Civale|R|Cameron Maybin|R|Walk|B|Sinker|84|0|0|2|14|94
+Aaron Civale|R|Cameron Maybin|R|Walk|B|Sinker|85|1|0|2|14|94
+Aaron Civale|R|Cameron Maybin|R|Walk|B|Sinker|86|2|0|2|11|94
+Aaron Civale|R|Cameron Maybin|R|Walk|B|Cutter|87|3|0|2|14|89
+Aaron Civale|R|Mike Ford|L|Flyout|C|Cutter|88|0|0|2|9|87
+Aaron Civale|R|Mike Ford|L|Flyout|B|Cutter|89|0|1|2|13|88
+Aaron Civale|R|Mike Ford|L|Flyout|X|Cutter|90|1|1|2|1|88

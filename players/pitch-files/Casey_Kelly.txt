@@ -1,0 +1,935 @@
+Casey Kelly|R|Trevor Williams|R|Groundout|C|Four-Seam Fastball|0|0|0|0|2|92
+Casey Kelly|R|Trevor Williams|R|Groundout|C|Four-Seam Fastball|1|0|1|0|5|91
+Casey Kelly|R|Trevor Williams|R|Groundout|X|Curveball|2|0|2|0|4|81
+Casey Kelly|R|Corey Dickerson|L|Flyout|S|Changeup|3|0|0|1|5|86
+Casey Kelly|R|Corey Dickerson|L|Flyout|B|Four-Seam Fastball|4|0|1|1|12|93
+Casey Kelly|R|Corey Dickerson|L|Flyout|X|Two-Seam Fastball|5|1|1|1|5|92
+Casey Kelly|R|Starling Marte|R|Groundout|X|Four-Seam Fastball|6|0|0|2|11|94
+Casey Kelly|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|7|0|0|0|12|91
+Casey Kelly|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|8|1|0|0|12|91
+Casey Kelly|R|Gregory Polanco|L|Strikeout|S|Changeup|9|2|0|0|13|86
+Casey Kelly|R|Gregory Polanco|L|Strikeout|C|Changeup|10|2|1|0|14|86
+Casey Kelly|R|Gregory Polanco|L|Strikeout|T|Curveball|11|2|2|0|13|82
+Casey Kelly|R|David Freese|R|Groundout|C|Four-Seam Fastball|12|0|0|1|3|93
+Casey Kelly|R|David Freese|R|Groundout|C|Curveball|13|0|1|1|13|82
+Casey Kelly|R|David Freese|R|Groundout|X|Four-Seam Fastball|14|0|2|1|6|92
+Casey Kelly|R|Elias Diaz|R|Single|C|Curveball|15|0|0|2|5|82
+Casey Kelly|R|Elias Diaz|R|Single|B|Two-Seam Fastball|16|0|1|2|13|92
+Casey Kelly|R|Elias Diaz|R|Single|C|Two-Seam Fastball|17|1|1|2|13|93
+Casey Kelly|R|Elias Diaz|R|Single|B|Two-Seam Fastball|18|1|2|2|14|89
+Casey Kelly|R|Elias Diaz|R|Single|B|Four-Seam Fastball|19|2|2|2|14|94
+Casey Kelly|R|Elias Diaz|R|Single|F|Two-Seam Fastball|20|3|2|2|4|93
+Casey Kelly|R|Elias Diaz|R|Single|D|Two-Seam Fastball|21|3|2|2|1|93
+Casey Kelly|R|Josh Bell|L|Strikeout|F|Two-Seam Fastball|22|0|0|2|11|91
+Casey Kelly|R|Josh Bell|L|Strikeout|B|Four-Seam Fastball|23|0|1|2|12|92
+Casey Kelly|R|Josh Bell|L|Strikeout|S|Changeup|24|1|1|2|13|87
+Casey Kelly|R|Josh Bell|L|Strikeout|B|Curveball|25|1|2|2|13|82
+Casey Kelly|R|Josh Bell|L|Strikeout|S|Changeup|26|2|2|2|13|88
+Casey Kelly|R|Josh Harrison|R|Strikeout|C|Four-Seam Fastball|27|0|0|0|14|92
+Casey Kelly|R|Josh Harrison|R|Strikeout|F|Four-Seam Fastball|28|0|1|0|3|92
+Casey Kelly|R|Josh Harrison|R|Strikeout|S|Curveball|29|0|2|0|14|83
+Casey Kelly|R|Jordy Mercer|R|Pop Out|F|Four-Seam Fastball|30|0|0|1|14|92
+Casey Kelly|R|Jordy Mercer|R|Pop Out|X|Slider|31|0|1|1|5|86
+Casey Kelly|R|Trevor Williams|R|Groundout|B|Four-Seam Fastball|32|0|0|2|14|93
+Casey Kelly|R|Trevor Williams|R|Groundout|C|Four-Seam Fastball|33|1|0|2|2|91
+Casey Kelly|R|Trevor Williams|R|Groundout|X|Curveball|34|1|1|2|5|82
+Casey Kelly|R|Corey Dickerson|L|Lineout|F|Changeup|35|0|0|0|14|85
+Casey Kelly|R|Corey Dickerson|L|Lineout|S|Slider|36|0|1|0|14|86
+Casey Kelly|R|Corey Dickerson|L|Lineout|X|Four-Seam Fastball|37|0|2|0|9|93
+Casey Kelly|R|Starling Marte|R|Groundout|M|Curveball|38|0|0|1|13|82
+Casey Kelly|R|Starling Marte|R|Groundout|X|Curveball|39|0|1|1|7|82
+Casey Kelly|R|Gregory Polanco|L|Groundout|C|Two-Seam Fastball|40|0|0|2|9|88
+Casey Kelly|R|Gregory Polanco|L|Groundout|B|Curveball|41|0|1|2|13|82
+Casey Kelly|R|Gregory Polanco|L|Groundout|B|Changeup|42|1|1|2|14|88
+Casey Kelly|R|Gregory Polanco|L|Groundout|S|Slider|43|2|1|2|14|87
+Casey Kelly|R|Gregory Polanco|L|Groundout|X|Slider|44|2|2|2|2|87
+Casey Kelly|R|David Freese|R|Groundout|B|Curveball|45|0|0|0|11|80
+Casey Kelly|R|David Freese|R|Groundout|C|Two-Seam Fastball|46|1|0|0|9|89
+Casey Kelly|R|David Freese|R|Groundout|C|Four-Seam Fastball|47|1|1|0|14|92
+Casey Kelly|R|David Freese|R|Groundout|X|Two-Seam Fastball|48|1|2|0|8|92
+Casey Kelly|R|Elias Diaz|R|Single|B|Slider|49|0|0|1|11|86
+Casey Kelly|R|Elias Diaz|R|Single|D|Curveball|50|1|0|1|4|80
+Casey Kelly|R|Josh Bell|L|Groundout|B|Four-Seam Fastball|51|0|0|1|12|92
+Casey Kelly|R|Josh Bell|L|Groundout|C|Two-Seam Fastball|52|1|0|1|7|92
+Casey Kelly|R|Josh Bell|L|Groundout|S|Curveball|53|1|1|1|8|81
+Casey Kelly|R|Josh Bell|L|Groundout|B|Changeup|54|1|2|1|13|88
+Casey Kelly|R|Josh Bell|L|Groundout|B|Curveball|55|2|2|1|14|82
+Casey Kelly|R|Josh Bell|L|Groundout|X|Two-Seam Fastball|56|3|2|1|4|92
+Casey Kelly|R|Josh Harrison|R|Lineout|X|Four-Seam Fastball|57|0|0|2|12|93
+Casey Kelly|R|Matt Kemp|R|Walk|B|Curveball|0|0|0|0|11|81
+Casey Kelly|R|Matt Kemp|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|91
+Casey Kelly|R|Matt Kemp|R|Walk|F|Slider|2|2|0|0|9|85
+Casey Kelly|R|Matt Kemp|R|Walk|B|Curveball|3|2|1|0|11|81
+Casey Kelly|R|Matt Kemp|R|Walk|B|Four-Seam Fastball|4|3|1|0|11|92
+Casey Kelly|R|Chris Taylor|R|Grounded Into DP|X|Two-Seam Fastball|5|0|0|0|13|91
+Casey Kelly|R|Cody Bellinger|L|Intent Walk|V|N/A|6|0|0|2|0|0
+Casey Kelly|R|Cody Bellinger|L|Intent Walk|V|N/A|7|0|1|2|0|0
+Casey Kelly|R|Cody Bellinger|L|Intent Walk|V|N/A|8|0|2|2|0|0
+Casey Kelly|R|Cody Bellinger|L|Intent Walk|V|N/A|9|0|2|2|0|0
+Casey Kelly|R|Pedro Baez|R|Pop Out|S|Four-Seam Fastball|10|0|0|2|4|91
+Casey Kelly|R|Pedro Baez|R|Pop Out|B|Four-Seam Fastball|11|0|1|2|14|91
+Casey Kelly|R|Pedro Baez|R|Pop Out|F|Four-Seam Fastball|12|1|1|2|4|91
+Casey Kelly|R|Pedro Baez|R|Pop Out|F|Curveball|13|1|2|2|4|82
+Casey Kelly|R|Pedro Baez|R|Pop Out|X|Curveball|14|1|2|2|9|82
+Casey Kelly|R|Yasmani Grandal|L|Double|C|Curveball|15|0|0|0|7|80
+Casey Kelly|R|Yasmani Grandal|L|Double|F|Changeup|16|0|1|0|5|87
+Casey Kelly|R|Yasmani Grandal|L|Double|D|Curveball|17|0|2|0|13|82
+Casey Kelly|R|Max Muncy|L|Single|C|Four-Seam Fastball|18|0|0|0|1|91
+Casey Kelly|R|Max Muncy|L|Single|D|Four-Seam Fastball|19|0|1|0|6|91
+Casey Kelly|R|Brian Dozier|R|Sac Fly|B|Curveball|20|0|0|0|14|81
+Casey Kelly|R|Brian Dozier|R|Sac Fly|C|Four-Seam Fastball|21|1|0|0|11|90
+Casey Kelly|R|Brian Dozier|R|Sac Fly|B|Two-Seam Fastball|22|1|1|0|8|91
+Casey Kelly|R|Brian Dozier|R|Sac Fly|E|Curveball|23|2|1|0|6|81
+Casey Kelly|R|Billy Hamilton|L|Single|B|Four-Seam Fastball|0|0|0|0|11|91
+Casey Kelly|R|Billy Hamilton|L|Single|F|Four-Seam Fastball|1|1|0|0|6|90
+Casey Kelly|R|Billy Hamilton|L|Single|B|Curveball|2|1|1|0|14|81
+Casey Kelly|R|Billy Hamilton|L|Single|F|Four-Seam Fastball|3|2|1|0|1|91
+Casey Kelly|R|Billy Hamilton|L|Single|D|Slider|4|2|2|0|2|87
+Casey Kelly|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|5|0|0|0|4|91
+Casey Kelly|R|Scooter Gennett|L|Single|B|Four-Seam Fastball|6|0|0|1|11|91
+Casey Kelly|R|Scooter Gennett|L|Single|F|Changeup|7|1|0|1|4|85
+Casey Kelly|R|Scooter Gennett|L|Single|B|Two-Seam Fastball|8|1|1|1|11|93
+Casey Kelly|R|Scooter Gennett|L|Single|D|Changeup|9|2|1|1|11|85
+Casey Kelly|R|Eugenio Suarez|R|Single|D|Two-Seam Fastball|10|0|0|2|14|91
+Casey Kelly|R|Preston Tucker|L|Flyout|B|Curveball|11|0|0|2|12|81
+Casey Kelly|R|Preston Tucker|L|Flyout|X|Changeup|12|1|0|2|4|85
+Casey Kelly|R|Tucker Barnhart|L|Double|F|Two-Seam Fastball|13|0|0|0|1|90
+Casey Kelly|R|Tucker Barnhart|L|Double|B|Curveball|14|0|1|0|11|80
+Casey Kelly|R|Tucker Barnhart|L|Double|D|Changeup|15|1|1|0|11|84
+Casey Kelly|R|Mason Williams|L|Lineout|S|Four-Seam Fastball|16|0|0|0|1|91
+Casey Kelly|R|Mason Williams|L|Lineout|C|Four-Seam Fastball|17|0|1|0|9|90
+Casey Kelly|R|Mason Williams|L|Lineout|X|Four-Seam Fastball|18|0|2|0|11|92
+Casey Kelly|R|Curt Casali|R|Single|C|Curveball|19|0|0|1|2|81
+Casey Kelly|R|Curt Casali|R|Single|E|Four-Seam Fastball|20|0|1|1|12|92
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|B|Four-Seam Fastball|21|0|0|1|11|91
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|L|Four-Seam Fastball|22|1|0|1|2|91
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|C|Curveball|23|1|1|1|1|79
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|W|Curveball|24|1|2|1|14|81
+Casey Kelly|R|Billy Hamilton|L|Groundout|C|Two-Seam Fastball|25|0|0|2|11|91
+Casey Kelly|R|Billy Hamilton|L|Groundout|X|Curveball|26|0|1|2|7|80
+Casey Kelly|R|Jose Peraza|R|Single|B|Slider|27|0|0|0|14|87
+Casey Kelly|R|Jose Peraza|R|Single|F|Four-Seam Fastball|28|1|0|0|3|91
+Casey Kelly|R|Jose Peraza|R|Single|D|Curveball|29|1|1|0|9|82
+Casey Kelly|R|Scooter Gennett|L|Groundout|B|Two-Seam Fastball|30|0|0|0|11|90
+Casey Kelly|R|Scooter Gennett|L|Groundout|F|Two-Seam Fastball|31|1|0|0|1|91
+Casey Kelly|R|Scooter Gennett|L|Groundout|C|Two-Seam Fastball|32|1|1|0|13|90
+Casey Kelly|R|Scooter Gennett|L|Groundout|B|Slider|33|1|2|0|13|87
+Casey Kelly|R|Scooter Gennett|L|Groundout|X|Four-Seam Fastball|34|2|2|0|13|92
+Casey Kelly|R|Eugenio Suarez|R|Walk|C|Four-Seam Fastball|35|0|0|1|5|92
+Casey Kelly|R|Eugenio Suarez|R|Walk|B|Changeup|36|0|1|1|14|86
+Casey Kelly|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|37|1|1|1|14|93
+Casey Kelly|R|Eugenio Suarez|R|Walk|B|Curveball|38|2|1|1|14|81
+Casey Kelly|R|Eugenio Suarez|R|Walk|B|Slider|39|3|1|1|14|86
+Casey Kelly|R|Preston Tucker|L|Lineout|B|Four-Seam Fastball|40|0|0|1|14|91
+Casey Kelly|R|Preston Tucker|L|Lineout|C|Curveball|41|1|0|1|12|80
+Casey Kelly|R|Preston Tucker|L|Lineout|F|Two-Seam Fastball|42|1|1|1|13|92
+Casey Kelly|R|Preston Tucker|L|Lineout|F|Changeup|43|1|2|1|11|85
+Casey Kelly|R|Preston Tucker|L|Lineout|X|Four-Seam Fastball|44|1|2|1|5|93
+Casey Kelly|R|Tucker Barnhart|L|Lineout|F|Four-Seam Fastball|45|0|0|2|2|91
+Casey Kelly|R|Tucker Barnhart|L|Lineout|C|Curveball|46|0|1|2|6|81
+Casey Kelly|R|Tucker Barnhart|L|Lineout|B|Four-Seam Fastball|47|0|2|2|11|92
+Casey Kelly|R|Tucker Barnhart|L|Lineout|F|Slider|48|1|2|2|11|85
+Casey Kelly|R|Tucker Barnhart|L|Lineout|X|Curveball|49|1|2|2|14|82
+Casey Kelly|R|Mason Williams|L|Groundout|C|Changeup|50|0|0|0|4|84
+Casey Kelly|R|Mason Williams|L|Groundout|C|Curveball|51|0|1|0|5|80
+Casey Kelly|R|Mason Williams|L|Groundout|B|Slider|52|0|2|0|11|86
+Casey Kelly|R|Mason Williams|L|Groundout|X|Four-Seam Fastball|53|1|2|0|1|92
+Casey Kelly|R|Curt Casali|R|Single|C|Four-Seam Fastball|54|0|0|1|4|92
+Casey Kelly|R|Curt Casali|R|Single|F|Slider|55|0|1|1|6|87
+Casey Kelly|R|Curt Casali|R|Single|B|Curveball|56|0|2|1|13|82
+Casey Kelly|R|Curt Casali|R|Single|D|Two-Seam Fastball|57|1|2|1|5|89
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|B|Four-Seam Fastball|58|0|0|1|12|90
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|L|Four-Seam Fastball|59|1|0|1|12|89
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|B|Four-Seam Fastball|60|1|1|1|12|91
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|L|Four-Seam Fastball|61|2|1|1|2|90
+Casey Kelly|R|Anthony DeSclafani|R|Strikeout|L|Four-Seam Fastball|62|2|2|1|12|89
+Casey Kelly|R|Billy Hamilton|L|Flyout|B|Curveball|63|0|0|2|11|79
+Casey Kelly|R|Billy Hamilton|L|Flyout|X|Two-Seam Fastball|64|1|0|2|8|90
+Casey Kelly|R|Jose Peraza|R|Single|C|Four-Seam Fastball|65|0|0|0|3|89
+Casey Kelly|R|Jose Peraza|R|Single|D|Four-Seam Fastball|66|0|1|0|4|91
+Casey Kelly|R|Scooter Gennett|L|Single|B|Two-Seam Fastball|67|0|0|0|11|90
+Casey Kelly|R|Scooter Gennett|L|Single|B|Curveball|68|1|0|0|11|80
+Casey Kelly|R|Scooter Gennett|L|Single|F|Changeup|69|2|0|0|1|85
+Casey Kelly|R|Scooter Gennett|L|Single|T|Two-Seam Fastball|70|2|1|0|4|91
+Casey Kelly|R|Scooter Gennett|L|Single|B|Two-Seam Fastball|71|2|2|0|13|91
+Casey Kelly|R|Scooter Gennett|L|Single|D|Two-Seam Fastball|72|3|2|0|8|91
+Casey Kelly|R|Jose Bautista|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|91
+Casey Kelly|R|Jose Bautista|R|Strikeout|F|Two-Seam Fastball|1|1|0|0|5|90
+Casey Kelly|R|Jose Bautista|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|12|91
+Casey Kelly|R|Jose Bautista|R|Strikeout|T|Changeup|3|1|2|0|8|86
+Casey Kelly|R|Jeff McNeil|L|Triple|C|Four-Seam Fastball|4|0|0|1|1|91
+Casey Kelly|R|Jeff McNeil|L|Triple|F|Four-Seam Fastball|5|0|1|1|11|92
+Casey Kelly|R|Jeff McNeil|L|Triple|B|Four-Seam Fastball|6|0|2|1|11|93
+Casey Kelly|R|Jeff McNeil|L|Triple|B|Curveball|7|1|2|1|14|82
+Casey Kelly|R|Jeff McNeil|L|Triple|D|Changeup|8|2|2|1|8|86
+Casey Kelly|R|Todd Frazier|R|Field Error|B|Two-Seam Fastball|9|0|0|1|8|92
+Casey Kelly|R|Todd Frazier|R|Field Error|C|Curveball|10|1|0|1|11|80
+Casey Kelly|R|Todd Frazier|R|Field Error|F|Two-Seam Fastball|11|1|1|1|5|90
+Casey Kelly|R|Todd Frazier|R|Field Error|F|Changeup|12|1|2|1|13|87
+Casey Kelly|R|Todd Frazier|R|Field Error|D|Two-Seam Fastball|13|1|2|1|13|92
+Casey Kelly|R|Michael Conforto|L|Pop Out|C|Slider|14|0|0|1|11|86
+Casey Kelly|R|Michael Conforto|L|Pop Out|X|Four-Seam Fastball|15|0|1|1|3|90
+Casey Kelly|R|Austin Jackson|R|Flyout|X|Four-Seam Fastball|16|0|0|2|5|92
+Casey Kelly|R|Dominic Smith|L|Home Run|E|Four-Seam Fastball|17|0|0|0|6|90
+Casey Kelly|R|Kevin Plawecki|R|Groundout|C|Curveball|18|0|0|0|4|80
+Casey Kelly|R|Kevin Plawecki|R|Groundout|S|Curveball|19|0|1|0|14|82
+Casey Kelly|R|Kevin Plawecki|R|Groundout|F|Curveball|20|0|2|0|9|81
+Casey Kelly|R|Kevin Plawecki|R|Groundout|B|Four-Seam Fastball|21|0|2|0|11|91
+Casey Kelly|R|Kevin Plawecki|R|Groundout|X|Two-Seam Fastball|22|1|2|0|5|90
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|23|0|0|1|12|92
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|B|Curveball|24|0|1|1|11|79
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|25|1|1|1|6|92
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|B|Four-Seam Fastball|26|1|2|1|12|93
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|27|2|2|1|8|92
+Casey Kelly|R|Jack Reinheimer|R|Single|D|Four-Seam Fastball|28|0|0|2|5|90
+Casey Kelly|R|Jose Bautista|R|Field Error|B|Curveball|29|0|0|2|9|80
+Casey Kelly|R|Jose Bautista|R|Field Error|T|Four-Seam Fastball|30|1|0|2|4|91
+Casey Kelly|R|Jose Bautista|R|Field Error|D|Two-Seam Fastball|31|1|1|2|7|91
+Casey Kelly|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|32|0|0|2|12|90
+Casey Kelly|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|33|1|0|2|12|90
+Casey Kelly|R|Jeff McNeil|L|Single|B|Two-Seam Fastball|34|2|0|2|13|90
+Casey Kelly|R|Jeff McNeil|L|Single|E|Four-Seam Fastball|35|3|0|2|5|90
+Casey Kelly|R|Todd Frazier|R|Double|B|Curveball|36|0|0|2|14|81
+Casey Kelly|R|Todd Frazier|R|Double|C|Two-Seam Fastball|37|1|0|2|12|91
+Casey Kelly|R|Todd Frazier|R|Double|E|Two-Seam Fastball|38|1|1|2|4|91
+Casey Kelly|R|Michael Conforto|L|Groundout|S|Changeup|39|0|0|2|13|85
+Casey Kelly|R|Michael Conforto|L|Groundout|F|Four-Seam Fastball|40|0|1|2|5|91
+Casey Kelly|R|Michael Conforto|L|Groundout|B|Slider|41|0|2|2|11|87
+Casey Kelly|R|Michael Conforto|L|Groundout|F|Slider|42|1|2|2|6|85
+Casey Kelly|R|Michael Conforto|L|Groundout|X|Changeup|43|1|2|2|13|86
+Casey Kelly|R|Austin Jackson|R|Groundout|C|Changeup|44|0|0|0|8|87
+Casey Kelly|R|Austin Jackson|R|Groundout|B|Curveball|45|0|1|0|14|80
+Casey Kelly|R|Austin Jackson|R|Groundout|X|Curveball|46|1|1|0|4|79
+Casey Kelly|R|Dominic Smith|L|Groundout|B|Changeup|47|0|0|1|13|86
+Casey Kelly|R|Dominic Smith|L|Groundout|X|Curveball|48|1|0|1|8|80
+Casey Kelly|R|Kevin Plawecki|R|Flyout|X|Curveball|49|0|0|2|9|81
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|50|0|0|0|6|90
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|51|0|1|0|5|91
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|B|Four-Seam Fastball|52|0|2|0|13|90
+Casey Kelly|R|Noah Syndergaard|L|Strikeout|S|Four-Seam Fastball|53|1|2|0|4|92
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|C|Curveball|54|0|0|1|8|81
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|B|Curveball|55|0|1|1|14|82
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|C|Slider|56|1|1|1|11|87
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|B|Four-Seam Fastball|57|1|2|1|14|92
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|B|Curveball|58|2|2|1|14|83
+Casey Kelly|R|Jack Reinheimer|R|Strikeout|S|Four-Seam Fastball|59|3|2|1|12|92
+Casey Kelly|R|Jose Bautista|R|Home Run|F|Curveball|60|0|0|2|8|83
+Casey Kelly|R|Jose Bautista|R|Home Run|F|Four-Seam Fastball|61|0|1|2|9|93
+Casey Kelly|R|Jose Bautista|R|Home Run|B|Curveball|62|0|2|2|14|83
+Casey Kelly|R|Jose Bautista|R|Home Run|E|Four-Seam Fastball|63|1|2|2|6|91
+Casey Kelly|R|Jeff McNeil|L|Groundout|B|Changeup|64|0|0|2|11|87
+Casey Kelly|R|Jeff McNeil|L|Groundout|X|Curveball|65|1|0|2|5|81
+Casey Kelly|R|Todd Frazier|R|Flyout|C|Curveball|66|0|0|0|3|79
+Casey Kelly|R|Todd Frazier|R|Flyout|B|Changeup|67|0|1|0|14|85
+Casey Kelly|R|Todd Frazier|R|Flyout|B|Curveball|68|1|1|0|14|78
+Casey Kelly|R|Todd Frazier|R|Flyout|C|Slider|69|2|1|0|1|85
+Casey Kelly|R|Todd Frazier|R|Flyout|F|Changeup|70|2|2|0|13|86
+Casey Kelly|R|Todd Frazier|R|Flyout|F|Two-Seam Fastball|71|2|2|0|13|90
+Casey Kelly|R|Todd Frazier|R|Flyout|X|Curveball|72|2|2|0|9|83
+Casey Kelly|R|Michael Conforto|L|Flyout|S|Changeup|73|0|0|1|13|85
+Casey Kelly|R|Michael Conforto|L|Flyout|X|Changeup|74|0|1|1|7|86
+Casey Kelly|R|Austin Jackson|R|Lineout|C|Curveball|75|0|0|2|4|81
+Casey Kelly|R|Austin Jackson|R|Lineout|X|Slider|76|0|1|2|6|86
+Casey Kelly|R|Dominic Smith|L|Pop Out|X|Curveball|77|0|0|0|8|79
+Casey Kelly|R|Kevin Plawecki|R|Groundout|B|Two-Seam Fastball|78|0|0|1|14|90
+Casey Kelly|R|Kevin Plawecki|R|Groundout|S|Curveball|79|1|0|1|14|79
+Casey Kelly|R|Kevin Plawecki|R|Groundout|X|Curveball|80|1|1|1|14|81
+Casey Kelly|R|Jose Reyes|L|Double|B|Changeup|81|0|0|2|14|85
+Casey Kelly|R|Jose Reyes|L|Double|C|Changeup|82|1|0|2|13|86
+Casey Kelly|R|Jose Reyes|L|Double|C|Two-Seam Fastball|83|1|1|2|7|91
+Casey Kelly|R|Jose Reyes|L|Double|B|Slider|84|1|2|2|14|87
+Casey Kelly|R|Jose Reyes|L|Double|D|Curveball|85|2|2|2|7|81
+Casey Kelly|R|Jack Reinheimer|R|Flyout|B|Curveball|86|0|0|2|14|81
+Casey Kelly|R|Jack Reinheimer|R|Flyout|F|Slider|87|1|0|2|5|84
+Casey Kelly|R|Jack Reinheimer|R|Flyout|X|Curveball|88|1|1|2|5|80
+Casey Kelly|R|Charlie Blackmon|L|Strikeout|C|Curveball|0|0|0|2|7|82
+Casey Kelly|R|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|1|0|1|2|4|93
+Casey Kelly|R|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|2|0|2|2|11|93
+Casey Kelly|R|Charlie Blackmon|L|Strikeout|S|Slider|3|0|2|2|14|88
+Casey Kelly|R|DJ LeMahieu|R|Single|B|Slider|4|0|0|0|11|88
+Casey Kelly|R|DJ LeMahieu|R|Single|D|Curveball|5|1|0|0|9|82
+Casey Kelly|R|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|6|0|0|0|14|91
+Casey Kelly|R|Nolan Arenado|R|Groundout|F|Four-Seam Fastball|7|1|0|0|2|93
+Casey Kelly|R|Nolan Arenado|R|Groundout|F|Slider|8|1|1|0|11|88
+Casey Kelly|R|Nolan Arenado|R|Groundout|*B|Curveball|9|1|2|0|14|84
+Casey Kelly|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|10|2|2|0|11|92
+Casey Kelly|R|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|11|0|0|1|12|93
+Casey Kelly|R|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|12|1|0|1|12|93
+Casey Kelly|R|Carlos Gonzalez|L|Walk|*B|Two-Seam Fastball|13|2|0|1|14|89
+Casey Kelly|R|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|14|3|0|1|12|91
+Casey Kelly|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|15|0|0|1|11|93
+Casey Kelly|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|16|1|0|1|13|92
+Casey Kelly|R|Trevor Story|R|Strikeout|F|Curveball|17|2|0|1|9|84
+Casey Kelly|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|18|2|1|1|5|94
+Casey Kelly|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|19|2|2|1|5|92
+Casey Kelly|R|Trevor Story|R|Strikeout|W|Curveball|20|2|2|1|14|84
+Casey Kelly|R|Edmundo Sosa|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|90
+Casey Kelly|R|Edmundo Sosa|R|Walk|B|Changeup|1|1|0|0|14|84
+Casey Kelly|R|Edmundo Sosa|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|90
+Casey Kelly|R|Edmundo Sosa|R|Walk|F|Four-Seam Fastball|3|3|0|0|2|90
+Casey Kelly|R|Edmundo Sosa|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|90
+Casey Kelly|R|Matt Carpenter|L|Home Run|B|Two-Seam Fastball|5|0|0|0|14|89
+Casey Kelly|R|Matt Carpenter|L|Home Run|C|Two-Seam Fastball|6|1|0|0|5|90
+Casey Kelly|R|Matt Carpenter|L|Home Run|E|Changeup|7|1|1|0|8|84
+Casey Kelly|R|Tyler O'Neill|R|Hit By Pitch|H|Slider|8|0|0|0|11|85
+Casey Kelly|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|9|0|0|0|12|88
+Casey Kelly|R|Paul DeJong|R|Strikeout|C|Curveball|10|1|0|0|3|80
+Casey Kelly|R|Paul DeJong|R|Strikeout|T|Four-Seam Fastball|11|1|1|0|6|90
+Casey Kelly|R|Paul DeJong|R|Strikeout|W|Curveball|12|1|2|0|14|80
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|S|Four-Seam Fastball|13|0|0|1|12|90
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|F|Changeup|14|0|1|1|11|85
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|15|0|2|1|12|90
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|*B|Curveball|16|1|2|1|14|81
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|B|Curveball|17|2|2|1|12|80
+Casey Kelly|R|Marcell Ozuna|R|Strikeout|S|Four-Seam Fastball|18|3|2|1|14|90
+Casey Kelly|R|Patrick Wisdom|R|Forceout|B|Four-Seam Fastball|19|0|0|2|12|90
+Casey Kelly|R|Patrick Wisdom|R|Forceout|F|Four-Seam Fastball|20|1|0|2|6|89
+Casey Kelly|R|Patrick Wisdom|R|Forceout|X|Curveball|21|1|1|2|7|79
+Casey Kelly|R|Freddy Galvis|L|Flyout|B|N/A|0|0|0|0|0|0
+Casey Kelly|R|Freddy Galvis|L|Flyout|X|Four-Seam Fastball|1|1|0|0|2|91
+Casey Kelly|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|6|89
+Casey Kelly|R|Wil Myers|R|Strikeout|B|Two-Seam Fastball|3|0|1|1|13|92
+Casey Kelly|R|Wil Myers|R|Strikeout|F|Two-Seam Fastball|4|1|1|1|13|90
+Casey Kelly|R|Wil Myers|R|Strikeout|B|Curveball|5|1|2|1|14|81
+Casey Kelly|R|Wil Myers|R|Strikeout|S|Curveball|6|2|2|1|14|81
+Casey Kelly|R|Franmil Reyes|R|Flyout|F|Two-Seam Fastball|7|0|0|2|4|91
+Casey Kelly|R|Franmil Reyes|R|Flyout|B|Two-Seam Fastball|8|0|1|2|11|91
+Casey Kelly|R|Franmil Reyes|R|Flyout|F|Curveball|9|1|1|2|5|82
+Casey Kelly|R|Franmil Reyes|R|Flyout|B|Two-Seam Fastball|10|1|2|2|13|92
+Casey Kelly|R|Franmil Reyes|R|Flyout|B|Curveball|11|2|2|2|14|81
+Casey Kelly|R|Franmil Reyes|R|Flyout|X|Two-Seam Fastball|12|3|2|2|13|92
+Casey Kelly|R|Hunter Renfroe|R|Groundout|X|Four-Seam Fastball|13|0|0|0|14|89
+Casey Kelly|R|Austin Hedges|R|Groundout|C|Four-Seam Fastball|14|0|0|1|6|88
+Casey Kelly|R|Austin Hedges|R|Groundout|S|Slider|15|0|1|1|14|86
+Casey Kelly|R|Austin Hedges|R|Groundout|F|Four-Seam Fastball|16|0|2|1|12|92
+Casey Kelly|R|Austin Hedges|R|Groundout|X|Curveball|17|0|2|1|9|82
+Casey Kelly|R|Cory Spangenberg|L|Single|F|Four-Seam Fastball|18|0|0|2|13|91
+Casey Kelly|R|Cory Spangenberg|L|Single|B|Four-Seam Fastball|19|0|1|2|12|91
+Casey Kelly|R|Cory Spangenberg|L|Single|B|Changeup|20|1|1|2|13|87
+Casey Kelly|R|Cory Spangenberg|L|Single|D|Changeup|21|2|1|2|13|86
+Casey Kelly|R|Jose Pirela|R|Single|C|Four-Seam Fastball|22|0|0|2|9|89
+Casey Kelly|R|Jose Pirela|R|Single|B|Curveball|23|0|1|2|11|80
+Casey Kelly|R|Jose Pirela|R|Single|D|Two-Seam Fastball|24|1|1|2|8|90
+Casey Kelly|R|Travis Jankowski|L|Lineout|X|Two-Seam Fastball|25|0|0|2|4|91
+Casey Kelly|R|Luis Perdomo|R|Flyout|X|Four-Seam Fastball|26|0|0|0|4|90
+Casey Kelly|R|Freddy Galvis|L|Triple|B|Four-Seam Fastball|27|0|0|1|12|91
+Casey Kelly|R|Freddy Galvis|L|Triple|F|Four-Seam Fastball|28|1|0|1|12|90
+Casey Kelly|R|Freddy Galvis|L|Triple|F|Four-Seam Fastball|29|1|1|1|3|91
+Casey Kelly|R|Freddy Galvis|L|Triple|B|Curveball|30|1|2|1|14|82
+Casey Kelly|R|Freddy Galvis|L|Triple|D|Curveball|31|2|2|1|9|82
+Casey Kelly|R|Wil Myers|R|Sac Fly|F|Curveball|32|0|0|1|13|81
+Casey Kelly|R|Wil Myers|R|Sac Fly|F|Four-Seam Fastball|33|0|1|1|4|89
+Casey Kelly|R|Wil Myers|R|Sac Fly|E|Curveball|34|0|2|1|6|82
+Casey Kelly|R|Franmil Reyes|R|Pop Out|X|Four-Seam Fastball|35|0|0|2|11|92
+Casey Kelly|R|Hunter Renfroe|R|Pop Out|S|Four-Seam Fastball|36|0|0|0|1|91
+Casey Kelly|R|Hunter Renfroe|R|Pop Out|B|Slider|37|0|1|0|14|86
+Casey Kelly|R|Hunter Renfroe|R|Pop Out|X|Four-Seam Fastball|38|1|1|0|2|90
+Casey Kelly|R|Austin Hedges|R|Double|B|Four-Seam Fastball|39|0|0|1|14|90
+Casey Kelly|R|Austin Hedges|R|Double|B|Slider|40|1|0|1|11|85
+Casey Kelly|R|Austin Hedges|R|Double|D|Four-Seam Fastball|41|2|0|1|5|88
+Casey Kelly|R|Cory Spangenberg|L|Groundout|B|Four-Seam Fastball|42|0|0|1|12|91
+Casey Kelly|R|Cory Spangenberg|L|Groundout|F|Changeup|43|1|0|1|13|86
+Casey Kelly|R|Cory Spangenberg|L|Groundout|X|Four-Seam Fastball|44|1|1|1|14|89
+Casey Kelly|R|Jose Pirela|R|Groundout|S|Slider|45|0|0|2|14|85
+Casey Kelly|R|Jose Pirela|R|Groundout|*B|Slider|46|0|1|2|14|84
+Casey Kelly|R|Jose Pirela|R|Groundout|X|Four-Seam Fastball|47|1|1|2|14|90
+Casey Kelly|R|Travis Jankowski|L|Single|B|Four-Seam Fastball|48|0|0|0|14|89
+Casey Kelly|R|Travis Jankowski|L|Single|B|Four-Seam Fastball|49|1|0|0|12|89
+Casey Kelly|R|Travis Jankowski|L|Single|D|Two-Seam Fastball|50|2|0|0|13|90
+Casey Kelly|R|A.J. Ellis|R|Groundout|C|Two-Seam Fastball|51|0|0|0|8|88
+Casey Kelly|R|A.J. Ellis|R|Groundout|F|Two-Seam Fastball|52|0|1|0|7|90
+Casey Kelly|R|A.J. Ellis|R|Groundout|*B|Curveball|53|0|2|0|14|81
+Casey Kelly|R|A.J. Ellis|R|Groundout|F|Four-Seam Fastball|54|1|2|0|3|90
+Casey Kelly|R|A.J. Ellis|R|Groundout|B|Slider|55|1|2|0|9|85
+Casey Kelly|R|A.J. Ellis|R|Groundout|X|Two-Seam Fastball|56|2|2|0|8|91
+Casey Kelly|R|Freddy Galvis|L|Single|B|Four-Seam Fastball|57|0|0|1|3|89
+Casey Kelly|R|Freddy Galvis|L|Single|T|Changeup|58|1|0|1|7|86
+Casey Kelly|R|Freddy Galvis|L|Single|S|Slider|59|1|1|1|14|86
+Casey Kelly|R|Freddy Galvis|L|Single|B|Four-Seam Fastball|60|1|2|1|12|90
+Casey Kelly|R|Freddy Galvis|L|Single|B|Slider|61|2|2|1|14|86
+Casey Kelly|R|Freddy Galvis|L|Single|F|Slider|62|3|2|1|14|86
+Casey Kelly|R|Freddy Galvis|L|Single|D|Two-Seam Fastball|63|3|2|1|6|90
+Casey Kelly|R|Wil Myers|R|Strikeout|F|Two-Seam Fastball|64|0|0|1|8|88
+Casey Kelly|R|Wil Myers|R|Strikeout|S|Slider|65|0|1|1|14|85
+Casey Kelly|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|66|0|2|1|14|89
+Casey Kelly|R|Wil Myers|R|Strikeout|C|Slider|67|1|2|1|8|85
+Casey Kelly|R|Franmil Reyes|R|Strikeout|S|Slider|68|0|0|2|9|86
+Casey Kelly|R|Franmil Reyes|R|Strikeout|F|Curveball|69|0|1|2|11|85
+Casey Kelly|R|Franmil Reyes|R|Strikeout|S|Slider|70|0|2|2|11|84
+Casey Kelly|R|Kyle Parker|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|91
+Casey Kelly|R|Kyle Parker|R|Groundout|F|Changeup|1|0|1|0|13|85
+Casey Kelly|R|Kyle Parker|R|Groundout|X|Changeup|2|0|2|0|13|85
+Casey Kelly|R|Rafael Ynoa|L|Single|C|Curveball|3|0|0|1|4|81
+Casey Kelly|R|Rafael Ynoa|L|Single|F|Four-Seam Fastball|4|0|1|1|13|92
+Casey Kelly|R|Rafael Ynoa|L|Single|D|Two-Seam Fastball|5|0|2|1|5|88
+Casey Kelly|R|Charlie Blackmon|L|Lineout|C|Two-Seam Fastball|6|0|0|1|7|92
+Casey Kelly|R|Charlie Blackmon|L|Lineout|B|Four-Seam Fastball|7|0|1|1|14|91
+Casey Kelly|R|Charlie Blackmon|L|Lineout|S|Four-Seam Fastball|8|1|1|1|12|92
+Casey Kelly|R|Charlie Blackmon|L|Lineout|X|Changeup|9|1|2|1|14|87
+Casey Kelly|R|Cristhian Adames|L|Single|F|Four-Seam Fastball|10|0|0|2|4|92
+Casey Kelly|R|Cristhian Adames|L|Single|D|Four-Seam Fastball|11|0|1|2|13|92
+Casey Kelly|R|Nolan Arenado|R|Strikeout|C|Curveball|12|0|0|2|5|82
+Casey Kelly|R|Nolan Arenado|R|Strikeout|S|Curveball|13|0|1|2|14|82
+Casey Kelly|R|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|14|0|2|2|14|93
+Casey Kelly|R|Nolan Arenado|R|Strikeout|B|Two-Seam Fastball|15|1|2|2|11|92
+Casey Kelly|R|Nolan Arenado|R|Strikeout|S|Curveball|16|2|2|2|14|82
+Casey Kelly|R|Ben Paulsen|L|Strikeout|B|Two-Seam Fastball|17|0|0|0|13|91
+Casey Kelly|R|Ben Paulsen|L|Strikeout|F|Two-Seam Fastball|18|1|0|0|5|91
+Casey Kelly|R|Ben Paulsen|L|Strikeout|B|Changeup|19|1|1|0|11|86
+Casey Kelly|R|Ben Paulsen|L|Strikeout|S|Four-Seam Fastball|20|2|1|0|4|91
+Casey Kelly|R|Ben Paulsen|L|Strikeout|S|Four-Seam Fastball|21|2|2|0|12|92
+Casey Kelly|R|Brandon Barnes|R|Single|C|Four-Seam Fastball|22|0|0|1|14|91
+Casey Kelly|R|Brandon Barnes|R|Single|D|Curveball|23|0|1|1|7|81
+Casey Kelly|R|DJ LeMahieu|R|Double|C|Four-Seam Fastball|24|0|0|1|9|93
+Casey Kelly|R|DJ LeMahieu|R|Double|E|Two-Seam Fastball|25|0|1|1|4|91
+Casey Kelly|R|Tom Murphy|R|Single|C|Four-Seam Fastball|26|0|0|1|7|92
+Casey Kelly|R|Tom Murphy|R|Single|D|Changeup|27|0|1|1|8|87
+Casey Kelly|R|Kyle Parker|R|Strikeout|F|Two-Seam Fastball|28|0|0|1|3|92
+Casey Kelly|R|Kyle Parker|R|Strikeout|B|Changeup|29|0|1|1|13|88
+Casey Kelly|R|Kyle Parker|R|Strikeout|T|Four-Seam Fastball|30|1|1|1|2|92
+Casey Kelly|R|Kyle Parker|R|Strikeout|F|Four-Seam Fastball|31|1|2|1|4|91
+Casey Kelly|R|Kyle Parker|R|Strikeout|B|Curveball|32|1|2|1|13|83
+Casey Kelly|R|Kyle Parker|R|Strikeout|S|Four-Seam Fastball|33|2|2|1|1|92
+Casey Kelly|R|Rafael Ynoa|L|Lineout|B|Two-Seam Fastball|34|0|0|2|11|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|B|Four-Seam Fastball|35|1|0|2|11|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|S|Two-Seam Fastball|36|2|0|2|4|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|F|Four-Seam Fastball|37|2|1|2|7|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|F|Four-Seam Fastball|38|2|2|2|8|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|F|Two-Seam Fastball|39|2|2|2|7|91
+Casey Kelly|R|Rafael Ynoa|L|Lineout|B|Four-Seam Fastball|40|2|2|2|14|90
+Casey Kelly|R|Rafael Ynoa|L|Lineout|X|Two-Seam Fastball|41|3|2|2|11|91
+Casey Kelly|R|Ender Inciarte|L|Groundout|C|Two-Seam Fastball|0|0|0|0|13|90
+Casey Kelly|R|Ender Inciarte|L|Groundout|X|Two-Seam Fastball|1|0|1|0|13|91
+Casey Kelly|R|Phil Gosselin|R|Double|C|Four-Seam Fastball|2|0|0|1|9|91
+Casey Kelly|R|Phil Gosselin|R|Double|B|Curveball|3|0|1|1|14|80
+Casey Kelly|R|Phil Gosselin|R|Double|F|Changeup|4|1|1|1|14|87
+Casey Kelly|R|Phil Gosselin|R|Double|D|Curveball|5|1|2|1|13|82
+Casey Kelly|R|A.J. Pollock|R|Single|C|Four-Seam Fastball|6|0|0|1|7|91
+Casey Kelly|R|A.J. Pollock|R|Single|*B|Two-Seam Fastball|7|0|1|1|13|91
+Casey Kelly|R|A.J. Pollock|R|Single|F|Changeup|8|1|1|1|7|85
+Casey Kelly|R|A.J. Pollock|R|Single|E|Four-Seam Fastball|9|1|2|1|13|91
+Casey Kelly|R|Paul Goldschmidt|R|Double|C|Curveball|10|0|0|1|11|79
+Casey Kelly|R|Paul Goldschmidt|R|Double|E|Four-Seam Fastball|11|0|1|1|9|91
+Casey Kelly|R|David Peralta|L|Walk|B|Four-Seam Fastball|12|0|0|1|12|91
+Casey Kelly|R|David Peralta|L|Walk|C|Four-Seam Fastball|13|1|0|1|7|90
+Casey Kelly|R|David Peralta|L|Walk|B|Four-Seam Fastball|14|1|1|1|14|91
+Casey Kelly|R|David Peralta|L|Walk|B|Two-Seam Fastball|15|2|1|1|13|90
+Casey Kelly|R|David Peralta|L|Walk|F|Changeup|16|3|1|1|6|86
+Casey Kelly|R|David Peralta|L|Walk|B|Curveball|17|3|2|1|11|81
+Casey Kelly|R|Welington Castillo|R|Lineout|B|Changeup|18|0|0|1|11|85
+Casey Kelly|R|Welington Castillo|R|Lineout|B|Four-Seam Fastball|19|1|0|1|13|90
+Casey Kelly|R|Welington Castillo|R|Lineout|X|Four-Seam Fastball|20|2|0|1|6|90
+Casey Kelly|R|Jake Lamb|L|Groundout|B|Two-Seam Fastball|21|0|0|2|13|90
+Casey Kelly|R|Jake Lamb|L|Groundout|X|Two-Seam Fastball|22|1|0|2|13|89
+Casey Kelly|R|Brandon Drury|R|Hit By Pitch|C|Changeup|23|0|0|0|2|87
+Casey Kelly|R|Brandon Drury|R|Hit By Pitch|H|Two-Seam Fastball|24|0|1|0|11|91
+Casey Kelly|R|Rubby De La Rosa|R|Forceout|B|Four-Seam Fastball|25|0|0|0|14|88
+Casey Kelly|R|Rubby De La Rosa|R|Forceout|X|Four-Seam Fastball|26|1|0|0|12|89
+Casey Kelly|R|Ender Inciarte|L|Single|B|Curveball|27|0|0|1|11|79
+Casey Kelly|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|28|1|0|1|13|90
+Casey Kelly|R|Phil Gosselin|R|Single|D|Changeup|29|0|0|1|8|84
+Casey Kelly|R|A.J. Pollock|R|Home Run|B|Curveball|30|0|0|1|11|81
+Casey Kelly|R|A.J. Pollock|R|Home Run|B|Four-Seam Fastball|31|1|0|1|14|90
+Casey Kelly|R|A.J. Pollock|R|Home Run|F|Four-Seam Fastball|32|2|0|1|7|90
+Casey Kelly|R|A.J. Pollock|R|Home Run|F|Changeup|33|2|1|1|1|87
+Casey Kelly|R|A.J. Pollock|R|Home Run|E|Changeup|34|2|2|1|7|87
+Casey Kelly|R|Paul Goldschmidt|R|Flyout|S|Four-Seam Fastball|35|0|0|1|6|91
+Casey Kelly|R|Paul Goldschmidt|R|Flyout|X|Two-Seam Fastball|36|0|1|1|4|90
+Casey Kelly|R|David Peralta|L|Strikeout|C|Curveball|37|0|0|2|8|81
+Casey Kelly|R|David Peralta|L|Strikeout|B|Four-Seam Fastball|38|0|1|2|12|90
+Casey Kelly|R|David Peralta|L|Strikeout|F|Curveball|39|1|1|2|9|81
+Casey Kelly|R|David Peralta|L|Strikeout|B|Four-Seam Fastball|40|1|2|2|11|90
+Casey Kelly|R|David Peralta|L|Strikeout|B|Curveball|41|2|2|2|13|81
+Casey Kelly|R|David Peralta|L|Strikeout|C|Changeup|42|3|2|2|1|85
+Casey Kelly|R|Welington Castillo|R|Groundout|C|Two-Seam Fastball|43|0|0|0|13|89
+Casey Kelly|R|Welington Castillo|R|Groundout|C|Changeup|44|0|1|0|7|86
+Casey Kelly|R|Welington Castillo|R|Groundout|B|Curveball|45|0|2|0|14|81
+Casey Kelly|R|Welington Castillo|R|Groundout|X|Four-Seam Fastball|46|1|2|0|7|90
+Casey Kelly|R|Jake Lamb|L|Groundout|C|Four-Seam Fastball|47|0|0|1|14|90
+Casey Kelly|R|Jake Lamb|L|Groundout|B|Curveball|48|0|1|1|14|81
+Casey Kelly|R|Jake Lamb|L|Groundout|B|Changeup|49|1|1|1|14|86
+Casey Kelly|R|Jake Lamb|L|Groundout|X|Four-Seam Fastball|50|2|1|1|13|89
+Casey Kelly|R|Brandon Drury|R|Lineout|B|Four-Seam Fastball|51|0|0|2|14|90
+Casey Kelly|R|Brandon Drury|R|Lineout|S|Changeup|52|1|0|2|4|86
+Casey Kelly|R|Brandon Drury|R|Lineout|S|Changeup|53|1|1|2|14|85
+Casey Kelly|R|Brandon Drury|R|Lineout|B|Two-Seam Fastball|54|1|2|2|13|91
+Casey Kelly|R|Brandon Drury|R|Lineout|X|Four-Seam Fastball|55|2|2|2|9|91
+Casey Kelly|R|Rubby De La Rosa|R|Groundout|C|Four-Seam Fastball|56|0|0|0|5|89
+Casey Kelly|R|Rubby De La Rosa|R|Groundout|B|Changeup|57|0|1|0|12|86
+Casey Kelly|R|Rubby De La Rosa|R|Groundout|B|Four-Seam Fastball|58|1|1|0|14|89
+Casey Kelly|R|Rubby De La Rosa|R|Groundout|F|Four-Seam Fastball|59|2|1|0|5|88
+Casey Kelly|R|Rubby De La Rosa|R|Groundout|X|Four-Seam Fastball|60|2|2|0|7|88
+Casey Kelly|R|Ender Inciarte|L|Flyout|B|Four-Seam Fastball|61|0|0|1|14|90
+Casey Kelly|R|Ender Inciarte|L|Flyout|C|Four-Seam Fastball|62|1|0|1|5|90
+Casey Kelly|R|Ender Inciarte|L|Flyout|B|Changeup|63|1|1|1|11|85
+Casey Kelly|R|Ender Inciarte|L|Flyout|B|Changeup|64|2|1|1|11|85
+Casey Kelly|R|Ender Inciarte|L|Flyout|C|Two-Seam Fastball|65|3|1|1|4|89
+Casey Kelly|R|Ender Inciarte|L|Flyout|X|Four-Seam Fastball|66|3|2|1|12|90
+Casey Kelly|R|Phil Gosselin|R|Groundout|B|Two-Seam Fastball|67|0|0|2|13|89
+Casey Kelly|R|Phil Gosselin|R|Groundout|C|Four-Seam Fastball|68|1|0|2|6|89
+Casey Kelly|R|Phil Gosselin|R|Groundout|B|Changeup|69|1|1|2|13|87
+Casey Kelly|R|Phil Gosselin|R|Groundout|X|Four-Seam Fastball|70|2|1|2|12|90
+Casey Kelly|R|A.J. Pollock|R|Groundout|C|Two-Seam Fastball|71|0|0|0|7|88
+Casey Kelly|R|A.J. Pollock|R|Groundout|X|Curveball|72|0|1|0|9|80
+Casey Kelly|R|Paul Goldschmidt|R|Lineout|C|Changeup|73|0|0|1|2|84
+Casey Kelly|R|Paul Goldschmidt|R|Lineout|B|Four-Seam Fastball|74|0|1|1|14|91
+Casey Kelly|R|Paul Goldschmidt|R|Lineout|F|Changeup|75|1|1|1|9|85
+Casey Kelly|R|Paul Goldschmidt|R|Lineout|X|Curveball|76|1|2|1|7|81
+Casey Kelly|R|David Peralta|L|Groundout|X|Changeup|77|0|0|2|5|83
+Casey Kelly|R|Carl Crawford|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|90
+Casey Kelly|R|Carl Crawford|L|Groundout|F|Two-Seam Fastball|1|1|0|0|7|89
+Casey Kelly|R|Carl Crawford|L|Groundout|F|Curveball|2|1|1|0|5|79
+Casey Kelly|R|Carl Crawford|L|Groundout|X|Four-Seam Fastball|3|1|2|0|3|90
+Casey Kelly|R|Howie Kendrick|R|Groundout|B|Two-Seam Fastball|4|0|0|1|14|91
+Casey Kelly|R|Howie Kendrick|R|Groundout|B|Four-Seam Fastball|5|1|0|1|14|92
+Casey Kelly|R|Howie Kendrick|R|Groundout|X|Two-Seam Fastball|6|2|0|1|7|92
+Casey Kelly|R|Adrian Gonzalez|L|Groundout|B|Two-Seam Fastball|7|0|0|2|13|91
+Casey Kelly|R|Adrian Gonzalez|L|Groundout|B|Two-Seam Fastball|8|1|0|2|13|90
+Casey Kelly|R|Adrian Gonzalez|L|Groundout|X|Two-Seam Fastball|9|2|0|2|14|90
+Casey Kelly|R|Justin Turner|R|Walk|C|Four-Seam Fastball|10|0|0|0|14|90
+Casey Kelly|R|Justin Turner|R|Walk|B|Changeup|11|0|1|0|2|85
+Casey Kelly|R|Justin Turner|R|Walk|F|Changeup|12|1|1|0|12|86
+Casey Kelly|R|Justin Turner|R|Walk|B|Two-Seam Fastball|13|1|2|0|11|91
+Casey Kelly|R|Justin Turner|R|Walk|F|Four-Seam Fastball|14|2|2|0|9|89
+Casey Kelly|R|Justin Turner|R|Walk|F|Four-Seam Fastball|15|2|2|0|14|93
+Casey Kelly|R|Justin Turner|R|Walk|B|Two-Seam Fastball|16|2|2|0|14|92
+Casey Kelly|R|Justin Turner|R|Walk|F|Changeup|17|3|2|0|14|87
+Casey Kelly|R|Justin Turner|R|Walk|B|Two-Seam Fastball|18|3|2|0|11|92
+Casey Kelly|R|Andre Ethier|L|Grounded Into DP|X|Four-Seam Fastball|19|0|0|0|12|90
+Casey Kelly|R|Corey Seager|L|Walk|B|Four-Seam Fastball|20|0|0|2|11|91
+Casey Kelly|R|Corey Seager|L|Walk|B|Four-Seam Fastball|21|1|0|2|13|90
+Casey Kelly|R|Corey Seager|L|Walk|F|Four-Seam Fastball|22|2|0|2|1|90
+Casey Kelly|R|Corey Seager|L|Walk|B|Four-Seam Fastball|23|2|1|2|14|92
+Casey Kelly|R|Corey Seager|L|Walk|F|Two-Seam Fastball|24|3|1|2|2|93
+Casey Kelly|R|Corey Seager|L|Walk|B|Changeup|25|3|2|2|14|86
+Casey Kelly|R|A.J. Ellis|R|Single|B|Four-Seam Fastball|26|0|0|2|14|91
+Casey Kelly|R|A.J. Ellis|R|Single|F|Four-Seam Fastball|27|1|0|2|6|91
+Casey Kelly|R|A.J. Ellis|R|Single|B|Four-Seam Fastball|28|1|1|2|14|91
+Casey Kelly|R|A.J. Ellis|R|Single|B|Changeup|29|2|1|2|11|86
+Casey Kelly|R|A.J. Ellis|R|Single|F|Two-Seam Fastball|30|3|1|2|8|90
+Casey Kelly|R|A.J. Ellis|R|Single|D|Four-Seam Fastball|31|3|2|2|6|90
+Casey Kelly|R|Enrique Hernandez|R|Strikeout|C|Curveball|32|0|0|2|14|81
+Casey Kelly|R|Enrique Hernandez|R|Strikeout|F|Curveball|33|0|1|2|8|81
+Casey Kelly|R|Enrique Hernandez|R|Strikeout|B|Four-Seam Fastball|34|0|2|2|12|90
+Casey Kelly|R|Enrique Hernandez|R|Strikeout|W|Curveball|35|1|2|2|14|82
+Casey Kelly|R|Alex Wood|R|Strikeout|C|Four-Seam Fastball|36|0|0|0|6|90
+Casey Kelly|R|Alex Wood|R|Strikeout|S|Curveball|37|0|1|0|14|80
+Casey Kelly|R|Alex Wood|R|Strikeout|C|Four-Seam Fastball|38|0|2|0|8|91
+Casey Kelly|R|Carl Crawford|L|Single|D|Two-Seam Fastball|39|0|0|1|5|91
+Casey Kelly|R|Howie Kendrick|R|Single|C|Two-Seam Fastball|40|0|0|1|13|90
+Casey Kelly|R|Howie Kendrick|R|Single|*B|Changeup|41|0|1|1|14|87
+Casey Kelly|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|42|1|1|1|5|90
+Casey Kelly|R|Howie Kendrick|R|Single|D|Curveball|43|1|2|1|8|81
+Casey Kelly|R|Adrian Gonzalez|L|Single|C|Curveball|44|0|0|1|7|80
+Casey Kelly|R|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|45|0|1|1|12|90
+Casey Kelly|R|Adrian Gonzalez|L|Single|E|Two-Seam Fastball|46|1|1|1|8|89
+Casey Kelly|R|Justin Turner|R|Field Error|*B|Four-Seam Fastball|47|0|0|1|14|88
+Casey Kelly|R|Justin Turner|R|Field Error|F|Four-Seam Fastball|48|1|0|1|9|89
+Casey Kelly|R|Justin Turner|R|Field Error|B|Changeup|49|1|1|1|13|86
+Casey Kelly|R|Justin Turner|R|Field Error|C|Changeup|50|2|1|1|1|86
+Casey Kelly|R|Justin Turner|R|Field Error|E|Curveball|51|2|2|1|14|83
+Casey Kelly|R|Andre Ethier|L|Groundout|B|Curveball|52|0|0|1|14|80
+Casey Kelly|R|Andre Ethier|L|Groundout|X|Two-Seam Fastball|53|1|0|1|7|88
+Casey Kelly|R|Corey Seager|L|Single|B|Curveball|54|0|0|2|14|81
+Casey Kelly|R|Corey Seager|L|Single|B|Four-Seam Fastball|55|1|0|2|12|89
+Casey Kelly|R|Corey Seager|L|Single|B|Two-Seam Fastball|56|2|0|2|13|89
+Casey Kelly|R|Corey Seager|L|Single|E|Two-Seam Fastball|57|3|0|2|7|89
+Casey Kelly|R|A.J. Ellis|R|Single|*B|Curveball|58|0|0|2|14|80
+Casey Kelly|R|A.J. Ellis|R|Single|B|Four-Seam Fastball|59|1|0|2|14|90
+Casey Kelly|R|A.J. Ellis|R|Single|E|Four-Seam Fastball|60|2|0|2|8|89
+Casey Kelly|R|Enrique Hernandez|R|Lineout|C|Changeup|61|0|0|0|8|87
+Casey Kelly|R|Enrique Hernandez|R|Lineout|S|Changeup|62|0|1|0|14|84
+Casey Kelly|R|Enrique Hernandez|R|Lineout|X|Four-Seam Fastball|63|0|2|0|3|89
+Casey Kelly|R|Alex Wood|R|Strikeout|C|Changeup|64|0|0|1|9|84
+Casey Kelly|R|Alex Wood|R|Strikeout|B|Changeup|65|0|1|1|14|85
+Casey Kelly|R|Alex Wood|R|Strikeout|C|Four-Seam Fastball|66|1|1|1|9|90
+Casey Kelly|R|Alex Wood|R|Strikeout|C|Two-Seam Fastball|67|1|2|1|9|89
+Casey Kelly|R|Carl Crawford|L|Lineout|X|Changeup|68|0|0|2|8|85
+Casey Kelly|R|Howie Kendrick|R|Double|C|Changeup|69|0|0|0|6|84
+Casey Kelly|R|Howie Kendrick|R|Double|B|Two-Seam Fastball|70|0|1|0|13|89
+Casey Kelly|R|Howie Kendrick|R|Double|B|Changeup|71|1|1|0|14|86
+Casey Kelly|R|Howie Kendrick|R|Double|D|Changeup|72|2|1|0|6|88
+Casey Kelly|R|Adrian Gonzalez|L|Lineout|B|Four-Seam Fastball|73|0|0|0|14|89
+Casey Kelly|R|Adrian Gonzalez|L|Lineout|B|Curveball|74|1|0|0|14|79
+Casey Kelly|R|Adrian Gonzalez|L|Lineout|F|Changeup|75|2|0|0|9|86
+Casey Kelly|R|Adrian Gonzalez|L|Lineout|C|Curveball|76|2|1|0|4|80
+Casey Kelly|R|Adrian Gonzalez|L|Lineout|X|Four-Seam Fastball|77|2|2|0|3|89
+Casey Kelly|R|Justin Turner|R|Single|B|Two-Seam Fastball|78|0|0|1|11|89
+Casey Kelly|R|Justin Turner|R|Single|B|Changeup|79|1|0|1|14|86
+Casey Kelly|R|Justin Turner|R|Single|E|Changeup|80|2|0|1|9|85
+Casey Kelly|R|Michael Conforto|L|Groundout|B|Two-Seam Fastball|0|0|0|0|14|89
+Casey Kelly|R|Michael Conforto|L|Groundout|B|Two-Seam Fastball|1|1|0|0|12|89
+Casey Kelly|R|Michael Conforto|L|Groundout|C|Two-Seam Fastball|2|2|0|0|5|90
+Casey Kelly|R|Michael Conforto|L|Groundout|F|Two-Seam Fastball|3|2|1|0|9|89
+Casey Kelly|R|Michael Conforto|L|Groundout|B|Curveball|4|2|2|0|11|79
+Casey Kelly|R|Michael Conforto|L|Groundout|X|Two-Seam Fastball|5|3|2|0|5|88
+Casey Kelly|R|Yoenis Cespedes|R|Lineout|C|Four-Seam Fastball|6|0|0|1|9|90
+Casey Kelly|R|Yoenis Cespedes|R|Lineout|F|Four-Seam Fastball|7|0|1|1|8|91
+Casey Kelly|R|Yoenis Cespedes|R|Lineout|X|Four-Seam Fastball|8|0|2|1|6|92
+Casey Kelly|R|Lucas Duda|L|Single|C|Changeup|9|0|0|2|7|86
+Casey Kelly|R|Lucas Duda|L|Single|S|Curveball|10|0|1|2|8|80
+Casey Kelly|R|Lucas Duda|L|Single|F|Curveball|11|0|2|2|13|78
+Casey Kelly|R|Lucas Duda|L|Single|B|Two-Seam Fastball|12|0|2|2|14|90
+Casey Kelly|R|Lucas Duda|L|Single|D|Two-Seam Fastball|13|1|2|2|3|90
+Casey Kelly|R|Neil Walker|L|Flyout|B|Two-Seam Fastball|14|0|0|2|13|89
+Casey Kelly|R|Neil Walker|L|Flyout|C|Changeup|15|1|0|2|13|85
+Casey Kelly|R|Neil Walker|L|Flyout|B|Changeup|16|1|1|2|11|84
+Casey Kelly|R|Neil Walker|L|Flyout|B|Two-Seam Fastball|17|2|1|2|13|89
+Casey Kelly|R|Neil Walker|L|Flyout|F|Four-Seam Fastball|18|3|1|2|1|89
+Casey Kelly|R|Neil Walker|L|Flyout|X|Changeup|19|3|2|2|7|86
+Casey Kelly|R|Asdrubal Cabrera|L|Lineout|F|Four-Seam Fastball|20|0|0|0|8|89
+Casey Kelly|R|Asdrubal Cabrera|L|Lineout|B|Curveball|21|0|1|0|14|78
+Casey Kelly|R|Asdrubal Cabrera|L|Lineout|B|Changeup|22|1|1|0|14|86
+Casey Kelly|R|Asdrubal Cabrera|L|Lineout|X|Changeup|23|2|1|0|8|85
+Casey Kelly|R|Travis d'Arnaud|R|Pop Out|X|Four-Seam Fastball|24|0|0|1|1|91
+Casey Kelly|R|Eric Campbell|R|Flyout|S|Four-Seam Fastball|25|0|0|2|3|90
+Casey Kelly|R|Eric Campbell|R|Flyout|B|Four-Seam Fastball|26|0|1|2|12|90
+Casey Kelly|R|Eric Campbell|R|Flyout|S|Curveball|27|1|1|2|9|80
+Casey Kelly|R|Eric Campbell|R|Flyout|B|Four-Seam Fastball|28|1|2|2|11|90
+Casey Kelly|R|Eric Campbell|R|Flyout|X|Changeup|29|2|2|2|8|86
+Casey Kelly|R|Curtis Granderson|L|Pop Out|B|Two-Seam Fastball|30|0|0|0|14|88
+Casey Kelly|R|Curtis Granderson|L|Pop Out|B|Changeup|31|1|0|0|11|84
+Casey Kelly|R|Curtis Granderson|L|Pop Out|C|Two-Seam Fastball|32|2|0|0|1|89
+Casey Kelly|R|Curtis Granderson|L|Pop Out|B|Two-Seam Fastball|33|2|1|0|11|89
+Casey Kelly|R|Curtis Granderson|L|Pop Out|S|Two-Seam Fastball|34|3|1|0|4|90
+Casey Kelly|R|Curtis Granderson|L|Pop Out|X|Two-Seam Fastball|35|3|2|0|12|90
+Casey Kelly|R|David Wright|R|Double|B|Four-Seam Fastball|36|0|0|1|11|90
+Casey Kelly|R|David Wright|R|Double|B|Four-Seam Fastball|37|1|0|1|14|89
+Casey Kelly|R|David Wright|R|Double|S|Four-Seam Fastball|38|2|0|1|12|90
+Casey Kelly|R|David Wright|R|Double|D|Four-Seam Fastball|39|2|1|1|6|90
+Casey Kelly|R|Michael Conforto|L|Lineout|B|Changeup|40|0|0|1|11|86
+Casey Kelly|R|Michael Conforto|L|Lineout|B|Four-Seam Fastball|41|1|0|1|8|88
+Casey Kelly|R|Michael Conforto|L|Lineout|X|Four-Seam Fastball|42|2|0|1|7|89
+Casey Kelly|R|Yoenis Cespedes|R|Double|*B|Curveball|43|0|0|2|14|81
+Casey Kelly|R|Yoenis Cespedes|R|Double|F|Four-Seam Fastball|44|1|0|2|2|88
+Casey Kelly|R|Yoenis Cespedes|R|Double|F|Curveball|45|1|1|2|13|80
+Casey Kelly|R|Yoenis Cespedes|R|Double|E|Four-Seam Fastball|46|1|2|2|2|89
+Casey Kelly|R|Lucas Duda|L|Groundout|B|Curveball|47|0|0|2|11|79
+Casey Kelly|R|Lucas Duda|L|Groundout|X|Four-Seam Fastball|48|1|0|2|2|87
+Casey Kelly|R|Odubel Herrera|L|Double|C|Two-Seam Fastball|0|0|0|0|6|89
+Casey Kelly|R|Odubel Herrera|L|Double|B|Two-Seam Fastball|1|0|1|0|14|89
+Casey Kelly|R|Odubel Herrera|L|Double|B|Two-Seam Fastball|2|1|1|0|14|91
+Casey Kelly|R|Odubel Herrera|L|Double|D|Two-Seam Fastball|3|2|1|0|5|91
+Casey Kelly|R|Cesar Hernandez|L|Flyout|B|Two-Seam Fastball|4|0|0|0|13|91
+Casey Kelly|R|Cesar Hernandez|L|Flyout|X|Four-Seam Fastball|5|1|0|0|5|89
+Casey Kelly|R|Maikel Franco|R|Flyout|B|Curveball|6|0|0|1|12|79
+Casey Kelly|R|Maikel Franco|R|Flyout|C|Two-Seam Fastball|7|1|0|1|14|90
+Casey Kelly|R|Maikel Franco|R|Flyout|S|Changeup|8|1|1|1|7|85
+Casey Kelly|R|Maikel Franco|R|Flyout|*B|Changeup|9|1|2|1|13|86
+Casey Kelly|R|Maikel Franco|R|Flyout|B|Changeup|10|2|2|1|11|85
+Casey Kelly|R|Maikel Franco|R|Flyout|X|Changeup|11|3|2|1|1|85
+Casey Kelly|R|Tommy Joseph|R|Lineout|B|Four-Seam Fastball|12|0|0|2|12|90
+Casey Kelly|R|Tommy Joseph|R|Lineout|X|Four-Seam Fastball|13|1|0|2|14|91
+Casey Kelly|R|Cameron Rupp|R|Home Run|B|Four-Seam Fastball|14|0|0|0|14|90
+Casey Kelly|R|Cameron Rupp|R|Home Run|E|Four-Seam Fastball|15|1|0|0|3|90
+Casey Kelly|R|Freddy Galvis|L|Groundout|B|Curveball|16|0|0|0|11|81
+Casey Kelly|R|Freddy Galvis|L|Groundout|F|Changeup|17|1|0|0|8|85
+Casey Kelly|R|Freddy Galvis|L|Groundout|F|Two-Seam Fastball|18|1|1|0|8|91
+Casey Kelly|R|Freddy Galvis|L|Groundout|X|Curveball|19|1|2|0|14|80
+Casey Kelly|R|Tyler Goeddel|R|Triple|B|Four-Seam Fastball|20|0|0|1|14|91
+Casey Kelly|R|Tyler Goeddel|R|Triple|D|Two-Seam Fastball|21|1|0|1|4|90
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|X|Two-Seam Fastball|22|0|0|1|8|90
+Casey Kelly|R|Peter Bourjos|R|Single|B|Four-Seam Fastball|23|0|0|2|14|90
+Casey Kelly|R|Peter Bourjos|R|Single|E|Curveball|24|1|0|2|5|79
+Casey Kelly|R|Odubel Herrera|L|Walk|C|Two-Seam Fastball|25|0|0|2|8|89
+Casey Kelly|R|Odubel Herrera|L|Walk|B|Four-Seam Fastball|26|0|1|2|14|90
+Casey Kelly|R|Odubel Herrera|L|Walk|B|Four-Seam Fastball|27|1|1|2|14|90
+Casey Kelly|R|Odubel Herrera|L|Walk|F|Changeup|28|2|1|2|14|85
+Casey Kelly|R|Odubel Herrera|L|Walk|F|Changeup|29|2|2|2|13|84
+Casey Kelly|R|Odubel Herrera|L|Walk|B|Changeup|30|2|2|2|11|85
+Casey Kelly|R|Odubel Herrera|L|Walk|F|Changeup|31|3|2|2|8|85
+Casey Kelly|R|Odubel Herrera|L|Walk|F|Two-Seam Fastball|32|3|2|2|14|91
+Casey Kelly|R|Odubel Herrera|L|Walk|B|Changeup|33|3|2|2|11|85
+Casey Kelly|R|Cesar Hernandez|L|Groundout|C|Curveball|34|0|0|2|7|79
+Casey Kelly|R|Cesar Hernandez|L|Groundout|F|Changeup|35|0|1|2|4|85
+Casey Kelly|R|Cesar Hernandez|L|Groundout|X|Four-Seam Fastball|36|0|2|2|12|91
+Casey Kelly|R|Maikel Franco|R|Groundout|F|Four-Seam Fastball|37|0|0|0|14|89
+Casey Kelly|R|Maikel Franco|R|Groundout|S|Curveball|38|0|1|0|9|79
+Casey Kelly|R|Maikel Franco|R|Groundout|B|Curveball|39|0|2|0|14|80
+Casey Kelly|R|Maikel Franco|R|Groundout|B|Changeup|40|1|2|0|14|85
+Casey Kelly|R|Maikel Franco|R|Groundout|X|Curveball|41|2|2|0|7|80
+Casey Kelly|R|Tommy Joseph|R|Pop Out|B|Curveball|42|0|0|1|11|79
+Casey Kelly|R|Tommy Joseph|R|Pop Out|S|Curveball|43|1|0|1|14|80
+Casey Kelly|R|Tommy Joseph|R|Pop Out|F|Two-Seam Fastball|44|1|1|1|14|91
+Casey Kelly|R|Tommy Joseph|R|Pop Out|F|Two-Seam Fastball|45|1|2|1|7|91
+Casey Kelly|R|Tommy Joseph|R|Pop Out|X|Curveball|46|1|2|1|1|81
+Casey Kelly|R|Cameron Rupp|R|Groundout|B|Four-Seam Fastball|47|0|0|2|12|92
+Casey Kelly|R|Cameron Rupp|R|Groundout|F|Two-Seam Fastball|48|1|0|2|1|91
+Casey Kelly|R|Cameron Rupp|R|Groundout|F|Two-Seam Fastball|49|1|1|2|8|91
+Casey Kelly|R|Cameron Rupp|R|Groundout|B|Two-Seam Fastball|50|1|2|2|12|92
+Casey Kelly|R|Cameron Rupp|R|Groundout|X|Curveball|51|2|2|2|13|80
+Casey Kelly|R|Freddy Galvis|L|Triple|B|Changeup|52|0|0|0|13|84
+Casey Kelly|R|Freddy Galvis|L|Triple|D|Changeup|53|1|0|0|8|83
+Casey Kelly|R|Tyler Goeddel|R|Hit By Pitch|H|Curveball|54|0|0|0|11|78
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|L|Four-Seam Fastball|55|0|0|0|3|88
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|F|Four-Seam Fastball|56|0|1|0|3|90
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|F|Curveball|57|0|2|0|8|81
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|F|Curveball|58|0|2|0|13|80
+Casey Kelly|R|Jerad Eickhoff|R|Groundout|E|Four-Seam Fastball|59|0|2|0|14|90
+Casey Kelly|R|Peter Bourjos|R|Strikeout|*B|Four-Seam Fastball|60|0|0|1|14|91
+Casey Kelly|R|Peter Bourjos|R|Strikeout|F|Four-Seam Fastball|61|1|0|1|14|91
+Casey Kelly|R|Peter Bourjos|R|Strikeout|F|Four-Seam Fastball|62|1|1|1|3|91
+Casey Kelly|R|Peter Bourjos|R|Strikeout|F|Two-Seam Fastball|63|1|2|1|11|89
+Casey Kelly|R|Peter Bourjos|R|Strikeout|*B|Changeup|64|1|2|1|13|86
+Casey Kelly|R|Peter Bourjos|R|Strikeout|T|Curveball|65|2|2|1|13|81
+Casey Kelly|R|Odubel Herrera|L|Hit By Pitch|B|Curveball|66|0|0|2|14|81
+Casey Kelly|R|Odubel Herrera|L|Hit By Pitch|C|Four-Seam Fastball|67|1|0|2|4|91
+Casey Kelly|R|Odubel Herrera|L|Hit By Pitch|*B|Four-Seam Fastball|68|1|1|2|14|90
+Casey Kelly|R|Odubel Herrera|L|Hit By Pitch|H|Four-Seam Fastball|69|2|1|2|12|90
+Casey Kelly|R|Cesar Hernandez|L|Groundout|S|Changeup|70|0|0|2|13|84
+Casey Kelly|R|Cesar Hernandez|L|Groundout|B|Two-Seam Fastball|71|0|1|2|13|89
+Casey Kelly|R|Cesar Hernandez|L|Groundout|S|Changeup|72|1|1|2|13|85
+Casey Kelly|R|Cesar Hernandez|L|Groundout|F|Changeup|73|1|2|2|14|86
+Casey Kelly|R|Cesar Hernandez|L|Groundout|X|Curveball|74|1|2|2|8|80
+Casey Kelly|R|Maikel Franco|R|Single|D|Two-Seam Fastball|75|0|0|0|5|89
+Casey Kelly|R|Tommy Joseph|R|Pop Out|B|Four-Seam Fastball|76|0|0|0|11|89
+Casey Kelly|R|Tommy Joseph|R|Pop Out|B|Two-Seam Fastball|77|1|0|0|12|89
+Casey Kelly|R|Tommy Joseph|R|Pop Out|B|Four-Seam Fastball|78|2|0|0|14|90
+Casey Kelly|R|Tommy Joseph|R|Pop Out|C|Two-Seam Fastball|79|3|0|0|4|88
+Casey Kelly|R|Tommy Joseph|R|Pop Out|X|Two-Seam Fastball|80|3|1|0|1|88
+Casey Kelly|R|Cameron Rupp|R|Single|D|Curveball|81|0|0|1|5|79
+Casey Kelly|R|Freddy Galvis|L|Bunt Lineout|X|Four-Seam Fastball|82|0|0|1|5|88
+Casey Kelly|R|Tyler Goeddel|R|Groundout|C|Four-Seam Fastball|83|0|0|2|14|89
+Casey Kelly|R|Tyler Goeddel|R|Groundout|X|Four-Seam Fastball|84|0|1|2|6|89
+Casey Kelly|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|0|0|0|1|14|90
+Casey Kelly|R|Hernan Perez|R|Groundout|C|Four-Seam Fastball|1|1|0|1|6|89
+Casey Kelly|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|2|1|1|1|14|90
+Casey Kelly|R|Hernan Perez|R|Groundout|F|Four-Seam Fastball|3|2|1|1|14|89
+Casey Kelly|R|Hernan Perez|R|Groundout|X|Four-Seam Fastball|4|2|2|1|6|90
+Casey Kelly|R|Ryan Braun|R|Groundout|C|Curveball|5|0|0|2|7|80
+Casey Kelly|R|Ryan Braun|R|Groundout|B|Curveball|6|0|1|2|13|80
+Casey Kelly|R|Ryan Braun|R|Groundout|X|Two-Seam Fastball|7|1|1|2|7|89
+Casey Kelly|R|Jonathan Lucroy|R|Pop Out|B|Curveball|8|0|0|0|11|79
+Casey Kelly|R|Jonathan Lucroy|R|Pop Out|B|Four-Seam Fastball|9|1|0|0|14|89
+Casey Kelly|R|Jonathan Lucroy|R|Pop Out|B|Four-Seam Fastball|10|2|0|0|3|89
+Casey Kelly|R|Jonathan Lucroy|R|Pop Out|C|Four-Seam Fastball|11|3|0|0|4|89
+Casey Kelly|R|Jonathan Lucroy|R|Pop Out|X|Four-Seam Fastball|12|3|1|0|1|90
+Casey Kelly|R|Chris Carter|R|Flyout|B|Four-Seam Fastball|13|0|0|1|14|90
+Casey Kelly|R|Chris Carter|R|Flyout|B|Two-Seam Fastball|14|1|0|1|14|89
+Casey Kelly|R|Chris Carter|R|Flyout|B|Four-Seam Fastball|15|2|0|1|12|88
+Casey Kelly|R|Chris Carter|R|Flyout|C|Two-Seam Fastball|16|3|0|1|8|89
+Casey Kelly|R|Chris Carter|R|Flyout|F|Four-Seam Fastball|17|3|1|1|4|90
+Casey Kelly|R|Chris Carter|R|Flyout|X|Four-Seam Fastball|18|3|2|1|8|89
+Casey Kelly|R|Kirk Nieuwenhuis|L|Lineout|C|Curveball|19|0|0|2|7|79
+Casey Kelly|R|Kirk Nieuwenhuis|L|Lineout|B|Changeup|20|0|1|2|13|84
+Casey Kelly|R|Kirk Nieuwenhuis|L|Lineout|B|Two-Seam Fastball|21|1|1|2|14|90
+Casey Kelly|R|Kirk Nieuwenhuis|L|Lineout|F|Changeup|22|2|1|2|8|86
+Casey Kelly|R|Kirk Nieuwenhuis|L|Lineout|X|Curveball|23|2|2|2|8|79
+Casey Kelly|R|Aaron Hill|R|Single|C|Four-Seam Fastball|24|0|0|0|9|91
+Casey Kelly|R|Aaron Hill|R|Single|D|Four-Seam Fastball|25|0|1|0|9|91
+Casey Kelly|R|Keon Broxton|R|Flyout|B|Four-Seam Fastball|26|0|0|0|14|91
+Casey Kelly|R|Keon Broxton|R|Flyout|B|Four-Seam Fastball|27|1|0|0|14|91
+Casey Kelly|R|Keon Broxton|R|Flyout|F|Four-Seam Fastball|28|2|0|0|5|91
+Casey Kelly|R|Keon Broxton|R|Flyout|X|Four-Seam Fastball|29|2|1|0|5|88
+Casey Kelly|R|Ramon Flores|L|Single|C|Two-Seam Fastball|30|0|0|1|4|89
+Casey Kelly|R|Ramon Flores|L|Single|B|Curveball|31|0|1|1|14|77
+Casey Kelly|R|Ramon Flores|L|Single|D|Two-Seam Fastball|32|1|1|1|13|87
+Casey Kelly|R|Jonathan Villar|L|Groundout|X|Two-Seam Fastball|33|0|0|1|8|88
+Casey Kelly|R|Hernan Perez|R|Groundout|F|Four-Seam Fastball|34|0|0|2|9|89
+Casey Kelly|R|Hernan Perez|R|Groundout|F|Two-Seam Fastball|35|0|1|2|13|89
+Casey Kelly|R|Hernan Perez|R|Groundout|X|Four-Seam Fastball|36|0|2|2|14|89
+Casey Kelly|R|Ryan Braun|R|Intent Walk|I|Intentional Ball|37|0|0|0|12|77
+Casey Kelly|R|Ryan Braun|R|Intent Walk|I|Intentional Ball|38|0|1|0|12|76
+Casey Kelly|R|Ryan Braun|R|Intent Walk|I|Intentional Ball|39|0|2|0|12|76
+Casey Kelly|R|Ryan Braun|R|Intent Walk|I|Intentional Ball|40|0|2|0|12|75
+Casey Kelly|R|Jonathan Lucroy|R|Intent Walk|B|Two-Seam Fastball|41|0|0|0|13|89
+Casey Kelly|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|42|1|0|0|12|74
+Casey Kelly|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|43|1|1|0|12|77
+Casey Kelly|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|44|1|2|0|12|79
+Casey Kelly|R|Chris Carter|R|Strikeout|F|Four-Seam Fastball|45|0|0|0|6|90
+Casey Kelly|R|Chris Carter|R|Strikeout|B|Four-Seam Fastball|46|0|1|0|14|89
+Casey Kelly|R|Chris Carter|R|Strikeout|B|Four-Seam Fastball|47|1|1|0|11|89
+Casey Kelly|R|Chris Carter|R|Strikeout|F|Four-Seam Fastball|48|2|1|0|9|88
+Casey Kelly|R|Chris Carter|R|Strikeout|F|Four-Seam Fastball|49|2|2|0|6|90
+Casey Kelly|R|Chris Carter|R|Strikeout|W|Curveball|50|2|2|0|13|80
+Casey Kelly|R|Kirk Nieuwenhuis|L|Single|B|Changeup|51|0|0|1|13|86
+Casey Kelly|R|Kirk Nieuwenhuis|L|Single|F|Two-Seam Fastball|52|1|0|1|5|87
+Casey Kelly|R|Kirk Nieuwenhuis|L|Single|S|Changeup|53|1|1|1|14|86
+Casey Kelly|R|Kirk Nieuwenhuis|L|Single|F|Four-Seam Fastball|54|1|2|1|13|89
+Casey Kelly|R|Kirk Nieuwenhuis|L|Single|D|Changeup|55|1|2|1|11|85
+Casey Kelly|R|Aaron Hill|R|Walk|B|Four-Seam Fastball|56|0|0|1|11|89
+Casey Kelly|R|Aaron Hill|R|Walk|S|Four-Seam Fastball|57|1|0|1|3|89
+Casey Kelly|R|Aaron Hill|R|Walk|B|Four-Seam Fastball|58|1|1|1|14|89
+Casey Kelly|R|Aaron Hill|R|Walk|F|Four-Seam Fastball|59|2|1|1|14|89
+Casey Kelly|R|Aaron Hill|R|Walk|*B|Curveball|60|2|2|1|14|79
+Casey Kelly|R|Aaron Hill|R|Walk|B|Two-Seam Fastball|61|3|2|1|11|87
+Casey Kelly|R|Keon Broxton|R|Single|B|Four-Seam Fastball|62|0|0|1|14|87
+Casey Kelly|R|Keon Broxton|R|Single|D|Four-Seam Fastball|63|1|0|1|2|87
+Casey Kelly|R|Martin Maldonado|R|Forceout|F|Four-Seam Fastball|64|0|0|1|5|89
+Casey Kelly|R|Martin Maldonado|R|Forceout|C|Four-Seam Fastball|65|0|1|1|4|89
+Casey Kelly|R|Martin Maldonado|R|Forceout|B|Four-Seam Fastball|66|0|2|1|13|89
+Casey Kelly|R|Martin Maldonado|R|Forceout|*B|Curveball|67|1|2|1|14|80
+Casey Kelly|R|Martin Maldonado|R|Forceout|X|Four-Seam Fastball|68|2|2|1|11|89
+Casey Kelly|R|Jonathan Villar|L|Single|F|Curveball|69|0|0|2|7|79
+Casey Kelly|R|Jonathan Villar|L|Single|F|Two-Seam Fastball|70|0|1|2|4|88
+Casey Kelly|R|Jonathan Villar|L|Single|E|Two-Seam Fastball|71|0|2|2|7|89
+Casey Kelly|R|Hernan Perez|R|Groundout|S|Four-Seam Fastball|72|0|0|0|2|87
+Casey Kelly|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|73|0|1|0|14|88
+Casey Kelly|R|Hernan Perez|R|Groundout|S|Curveball|74|1|1|0|14|78
+Casey Kelly|R|Hernan Perez|R|Groundout|X|Curveball|75|1|2|0|14|78
+Casey Kelly|R|Yangervis Solarte|L|Single|D|Two-Seam Fastball|0|0|0|1|13|88
+Casey Kelly|R|B.J. Upton|R|Forceout|B|Four-Seam Fastball|1|0|0|1|11|88
+Casey Kelly|R|B.J. Upton|R|Forceout|W|Curveball|2|1|0|1|14|78
+Casey Kelly|R|B.J. Upton|R|Forceout|B|Four-Seam Fastball|3|1|1|1|12|89
+Casey Kelly|R|B.J. Upton|R|Forceout|E|Two-Seam Fastball|4|2|1|1|11|89
+Casey Kelly|R|Brett Wallace|L|Forceout|X|Four-Seam Fastball|5|0|0|2|13|88
+Casey Kelly|R|Derek Norris|R|Single|B|Curveball|6|0|0|0|11|77
+Casey Kelly|R|Derek Norris|R|Single|T|Four-Seam Fastball|7|1|0|0|3|90
+Casey Kelly|R|Derek Norris|R|Single|F|Four-Seam Fastball|8|1|1|0|9|90
+Casey Kelly|R|Derek Norris|R|Single|F|Curveball|9|1|2|0|7|79
+Casey Kelly|R|Derek Norris|R|Single|D|Two-Seam Fastball|10|1|2|0|8|89
+Casey Kelly|R|Alexei Ramirez|R|Strikeout|C|Four-Seam Fastball|11|0|0|0|6|89
+Casey Kelly|R|Alexei Ramirez|R|Strikeout|S|Four-Seam Fastball|12|0|1|0|14|89
+Casey Kelly|R|Alexei Ramirez|R|Strikeout|W|Curveball|13|0|2|0|14|80
+Casey Kelly|R|Christian Friedrich|R|Groundout|X|Four-Seam Fastball|14|0|0|1|6|88
+Casey Kelly|R|Jon Jay|L|Groundout|B|Curveball|15|0|0|2|13|80
+Casey Kelly|R|Jon Jay|L|Groundout|F|Four-Seam Fastball|16|1|0|2|14|89
+Casey Kelly|R|Jon Jay|L|Groundout|S|Four-Seam Fastball|17|1|1|2|14|89
+Casey Kelly|R|Jon Jay|L|Groundout|X|Four-Seam Fastball|18|1|2|2|3|88
+Casey Kelly|R|B.J. Upton|R|Sac Fly|B|Two-Seam Fastball|0|0|0|1|13|89
+Casey Kelly|R|B.J. Upton|R|Sac Fly|C|Four-Seam Fastball|1|1|0|1|14|89
+Casey Kelly|R|B.J. Upton|R|Sac Fly|B|Two-Seam Fastball|2|1|1|1|13|89
+Casey Kelly|R|B.J. Upton|R|Sac Fly|E|Four-Seam Fastball|3|2|1|1|4|89
+Casey Kelly|R|Brett Wallace|L|Strikeout|C|Four-Seam Fastball|4|0|0|2|8|90
+Casey Kelly|R|Brett Wallace|L|Strikeout|C|Four-Seam Fastball|5|0|1|2|8|89
+Casey Kelly|R|Brett Wallace|L|Strikeout|F|Four-Seam Fastball|6|0|2|2|9|90
+Casey Kelly|R|Brett Wallace|L|Strikeout|S|Curveball|7|0|2|2|14|79
+Casey Kelly|R|Derek Norris|R|Groundout|B|Four-Seam Fastball|8|0|0|0|14|90
+Casey Kelly|R|Derek Norris|R|Groundout|C|Four-Seam Fastball|9|1|0|0|9|89
+Casey Kelly|R|Derek Norris|R|Groundout|F|Four-Seam Fastball|10|1|1|0|8|89
+Casey Kelly|R|Derek Norris|R|Groundout|B|Four-Seam Fastball|11|1|2|0|14|90
+Casey Kelly|R|Derek Norris|R|Groundout|F|Four-Seam Fastball|12|2|2|0|11|89
+Casey Kelly|R|Derek Norris|R|Groundout|B|Curveball|13|2|2|0|14|80
+Casey Kelly|R|Derek Norris|R|Groundout|F|Four-Seam Fastball|14|3|2|0|3|91
+Casey Kelly|R|Derek Norris|R|Groundout|X|Four-Seam Fastball|15|3|2|0|5|90
+Casey Kelly|R|Alexei Ramirez|R|Groundout|X|Four-Seam Fastball|16|0|0|1|14|89
+Casey Kelly|R|Colin Rea|R|Groundout|B|Two-Seam Fastball|17|0|0|2|13|90
+Casey Kelly|R|Colin Rea|R|Groundout|S|Two-Seam Fastball|18|1|0|2|13|89
+Casey Kelly|R|Colin Rea|R|Groundout|C|Four-Seam Fastball|19|1|1|2|7|89
+Casey Kelly|R|Colin Rea|R|Groundout|X|Curveball|20|1|2|2|14|81
+Casey Kelly|R|Chris Coghlan|L|Double|D|Curveball|0|0|0|0|8|77
+Casey Kelly|R|Javier Baez|R|Flyout|B|Two-Seam Fastball|1|0|0|0|14|90
+Casey Kelly|R|Javier Baez|R|Flyout|F|Four-Seam Fastball|2|1|0|0|2|90
+Casey Kelly|R|Javier Baez|R|Flyout|B|Two-Seam Fastball|3|1|1|0|13|90
+Casey Kelly|R|Javier Baez|R|Flyout|F|Curveball|4|2|1|0|14|79
+Casey Kelly|R|Javier Baez|R|Flyout|F|Changeup|5|2|2|0|13|86
+Casey Kelly|R|Javier Baez|R|Flyout|F|Curveball|6|2|2|0|14|80
+Casey Kelly|R|Javier Baez|R|Flyout|F|Curveball|7|2|2|0|7|78
+Casey Kelly|R|Javier Baez|R|Flyout|X|Four-Seam Fastball|8|2|2|0|14|90
+Casey Kelly|R|David Ross|R|Single|F|Four-Seam Fastball|9|0|0|1|6|91
+Casey Kelly|R|David Ross|R|Single|E|Four-Seam Fastball|10|0|1|1|13|90
+Casey Kelly|R|Jon Lester|L|Double Play|S|Two-Seam Fastball|11|0|0|1|13|91
+Casey Kelly|R|Jon Lester|L|Double Play|B|Two-Seam Fastball|12|0|1|1|13|89
+Casey Kelly|R|Jon Lester|L|Double Play|B|Two-Seam Fastball|13|1|1|1|13|89
+Casey Kelly|R|Jon Lester|L|Double Play|C|Two-Seam Fastball|14|2|1|1|8|90
+Casey Kelly|R|Jon Lester|L|Double Play|*B|Curveball|15|2|2|1|14|81
+Casey Kelly|R|Jon Lester|L|Double Play|X|Two-Seam Fastball|16|3|2|1|5|89
+Casey Kelly|R|Dexter Fowler|L|Groundout|X|Two-Seam Fastball|17|0|0|0|7|88
+Casey Kelly|R|Jason Heyward|L|Double|B|Two-Seam Fastball|18|0|0|1|11|88
+Casey Kelly|R|Jason Heyward|L|Double|F|Two-Seam Fastball|19|1|0|1|13|87
+Casey Kelly|R|Jason Heyward|L|Double|D|Two-Seam Fastball|20|1|1|1|8|89
+Casey Kelly|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|21|0|0|1|12|92
+Casey Kelly|R|Kris Bryant|R|Walk|B|Curveball|22|1|0|1|14|79
+Casey Kelly|R|Kris Bryant|R|Walk|C|Four-Seam Fastball|23|2|0|1|6|89
+Casey Kelly|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|24|2|1|1|14|90
+Casey Kelly|R|Kris Bryant|R|Walk|B|Curveball|25|3|1|1|13|79
+Casey Kelly|R|Anthony Rizzo|L|Single|B|Two-Seam Fastball|26|0|0|1|14|89
+Casey Kelly|R|Anthony Rizzo|L|Single|B|Two-Seam Fastball|27|1|0|1|14|89
+Casey Kelly|R|Anthony Rizzo|L|Single|F|Two-Seam Fastball|28|2|0|1|13|89
+Casey Kelly|R|Anthony Rizzo|L|Single|B|Two-Seam Fastball|29|2|1|1|11|90
+Casey Kelly|R|Anthony Rizzo|L|Single|E|Two-Seam Fastball|30|3|1|1|13|90
+Casey Kelly|R|Ben Zobrist|L|Double|C|Two-Seam Fastball|31|0|0|1|7|89
+Casey Kelly|R|Ben Zobrist|L|Double|B|Two-Seam Fastball|32|0|1|1|13|89
+Casey Kelly|R|Ben Zobrist|L|Double|E|Curveball|33|1|1|1|8|79
+Casey Kelly|R|Chris Coghlan|L|Intent Walk|I|Intentional Ball|34|0|0|1|11|69
+Casey Kelly|R|Chris Coghlan|L|Intent Walk|I|Intentional Ball|35|0|1|1|11|68
+Casey Kelly|R|Chris Coghlan|L|Intent Walk|I|Intentional Ball|36|0|2|1|11|73
+Casey Kelly|R|Chris Coghlan|L|Intent Walk|I|Intentional Ball|37|0|2|1|11|75
+Casey Kelly|R|Jay Bruce|L|Lineout|B|Two-Seam Fastball|0|0|0|0|14|88
+Casey Kelly|R|Jay Bruce|L|Lineout|X|Changeup|1|1|0|0|5|84
+Casey Kelly|R|Adam Duvall|R|Flyout|B|Two-Seam Fastball|2|0|0|1|13|90
+Casey Kelly|R|Adam Duvall|R|Flyout|B|Four-Seam Fastball|3|1|0|1|14|88
+Casey Kelly|R|Adam Duvall|R|Flyout|X|Two-Seam Fastball|4|2|0|1|5|90
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|5|0|0|2|14|90
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|6|1|0|2|14|89
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|7|1|1|2|13|90
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|8|2|1|2|13|90
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|9|2|2|2|14|90
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|B|Curveball|10|2|2|2|13|78
+Casey Kelly|R|Eugenio Suarez|R|Strikeout|C|Two-Seam Fastball|11|3|2|2|13|89
+Casey Kelly|R|Brandon Phillips|R|Single|C|Four-Seam Fastball|0|0|0|0|2|90
+Casey Kelly|R|Brandon Phillips|R|Single|C|Four-Seam Fastball|1|0|1|0|9|90
+Casey Kelly|R|Brandon Phillips|R|Single|F|Four-Seam Fastball|2|0|2|0|6|91
+Casey Kelly|R|Brandon Phillips|R|Single|F|Curveball|3|0|2|0|5|78
+Casey Kelly|R|Brandon Phillips|R|Single|B|Four-Seam Fastball|4|0|2|0|11|90
+Casey Kelly|R|Brandon Phillips|R|Single|B|Four-Seam Fastball|5|1|2|0|14|91
+Casey Kelly|R|Brandon Phillips|R|Single|B|Two-Seam Fastball|6|2|2|0|13|91
+Casey Kelly|R|Brandon Phillips|R|Single|D|Four-Seam Fastball|7|3|2|0|8|91
+Casey Kelly|R|Jay Bruce|L|Single|E|Four-Seam Fastball|8|0|0|0|2|91
+Casey Kelly|R|Adam Duvall|R|Double|D|Four-Seam Fastball|9|0|0|0|6|89
+Casey Kelly|R|Ivan De Jesus Jr.|R|Single|B|Curveball|10|0|0|0|11|78
+Casey Kelly|R|Ivan De Jesus Jr.|R|Single|S|Two-Seam Fastball|11|1|0|0|11|89
+Casey Kelly|R|Ivan De Jesus Jr.|R|Single|B|Curveball|12|1|1|0|14|79
+Casey Kelly|R|Ivan De Jesus Jr.|R|Single|F|Two-Seam Fastball|13|2|1|0|13|89
+Casey Kelly|R|Ivan De Jesus Jr.|R|Single|E|Two-Seam Fastball|14|2|2|0|13|89
+Casey Kelly|R|Tyler Holt|R|Double Play|F|Four-Seam Fastball|15|0|0|0|11|89
+Casey Kelly|R|Tyler Holt|R|Double Play|B|Curveball|16|0|1|0|14|79
+Casey Kelly|R|Tyler Holt|R|Double Play|X|Curveball|17|1|1|0|14|78
+Casey Kelly|R|Ramon Cabrera|L|Field Error|B|Curveball|18|0|0|2|12|78
+Casey Kelly|R|Ramon Cabrera|L|Field Error|F|Curveball|19|1|0|2|9|77
+Casey Kelly|R|Ramon Cabrera|L|Field Error|D|Changeup|20|1|1|2|13|86
+Casey Kelly|R|Josh A. Smith|R|Groundout|C|Four-Seam Fastball|21|0|0|2|9|89
+Casey Kelly|R|Josh A. Smith|R|Groundout|B|Two-Seam Fastball|22|0|1|2|14|89
+Casey Kelly|R|Josh A. Smith|R|Groundout|X|Four-Seam Fastball|23|1|1|2|12|90
+Casey Kelly|R|Lonnie Chisenhall|L|Groundout|F|Two-Seam Fastball|0|0|0|0|7|91
+Casey Kelly|R|Lonnie Chisenhall|L|Groundout|B|Two-Seam Fastball|1|0|1|0|13|90
+Casey Kelly|R|Lonnie Chisenhall|L|Groundout|B|Two-Seam Fastball|2|1|1|0|13|90
+Casey Kelly|R|Lonnie Chisenhall|L|Groundout|F|Two-Seam Fastball|3|2|1|0|13|90
+Casey Kelly|R|Lonnie Chisenhall|L|Groundout|X|Two-Seam Fastball|4|2|2|0|4|90
+Casey Kelly|R|Yan Gomes|R|Pop Out|C|Curveball|5|0|0|1|6|80
+Casey Kelly|R|Yan Gomes|R|Pop Out|T|Curveball|6|0|1|1|4|79
+Casey Kelly|R|Yan Gomes|R|Pop Out|F|Two-Seam Fastball|7|0|2|1|14|92
+Casey Kelly|R|Yan Gomes|R|Pop Out|X|Curveball|8|0|2|1|11|80
+Casey Kelly|R|Tyler Naquin|L|Single|C|Two-Seam Fastball|9|0|0|2|7|90
+Casey Kelly|R|Tyler Naquin|L|Single|D|Two-Seam Fastball|10|0|1|2|14|90
+Casey Kelly|R|Carlos Santana|L|Groundout|B|Two-Seam Fastball|11|0|0|2|14|89
+Casey Kelly|R|Carlos Santana|L|Groundout|F|Two-Seam Fastball|12|1|0|2|7|89
+Casey Kelly|R|Carlos Santana|L|Groundout|B|Two-Seam Fastball|13|1|1|2|11|89
+Casey Kelly|R|Carlos Santana|L|Groundout|C|Curveball|14|2|1|2|6|79
+Casey Kelly|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|15|2|2|2|12|90
+Casey Kelly|R|Carlos Santana|L|Groundout|F|Two-Seam Fastball|16|2|2|2|4|90
+Casey Kelly|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|17|2|2|2|12|91
+Casey Kelly|R|Carlos Santana|L|Groundout|F|Curveball|18|2|2|2|9|80
+Casey Kelly|R|Carlos Santana|L|Groundout|X|Changeup|19|2|2|2|11|84
+Casey Kelly|R|Chris Johnson|R|Single|B|Four-Seam Fastball|0|0|0|0|14|91
+Casey Kelly|R|Chris Johnson|R|Single|D|Four-Seam Fastball|1|1|0|0|8|91
+Casey Kelly|R|Martin Prado|R|Flyout|C|Two-Seam Fastball|2|0|0|0|9|91
+Casey Kelly|R|Martin Prado|R|Flyout|*B|Curveball|3|0|1|0|14|79
+Casey Kelly|R|Martin Prado|R|Flyout|X|Four-Seam Fastball|4|1|1|0|11|91
+Casey Kelly|R|Christian Yelich|L|Pop Out|B|Curveball|5|0|0|1|11|78
+Casey Kelly|R|Christian Yelich|L|Pop Out|B|Four-Seam Fastball|6|1|0|1|12|91
+Casey Kelly|R|Christian Yelich|L|Pop Out|B|Two-Seam Fastball|7|2|0|1|14|89
+Casey Kelly|R|Christian Yelich|L|Pop Out|C|Two-Seam Fastball|8|3|0|1|4|89
+Casey Kelly|R|Christian Yelich|L|Pop Out|X|Four-Seam Fastball|9|3|1|1|3|91
+Casey Kelly|R|Marcell Ozuna|R|Flyout|X|Two-Seam Fastball|10|0|0|2|4|91
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|11|0|0|0|13|90
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|F|Four-Seam Fastball|12|1|0|0|6|90
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|C|Curveball|13|1|1|0|14|79
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|B|Curveball|14|1|2|0|14|80
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|F|Changeup|15|2|2|0|11|83
+Casey Kelly|R|Giancarlo Stanton|R|Strikeout|C|Curveball|16|2|2|0|7|80
+Casey Kelly|R|Miguel Rojas|R|Single|D|Four-Seam Fastball|17|0|0|1|2|92
+Casey Kelly|R|J.T. Realmuto|R|Walk|B|Four-Seam Fastball|18|0|0|1|14|91
+Casey Kelly|R|J.T. Realmuto|R|Walk|B|Curveball|19|1|0|1|14|79
+Casey Kelly|R|J.T. Realmuto|R|Walk|B|Two-Seam Fastball|20|2|0|1|14|91
+Casey Kelly|R|J.T. Realmuto|R|Walk|C|Two-Seam Fastball|21|3|0|1|6|89
+Casey Kelly|R|J.T. Realmuto|R|Walk|B|Two-Seam Fastball|22|3|1|1|13|90
+Casey Kelly|R|Adeiny Hechavarria|R|Flyout|C|Curveball|23|0|0|1|1|80
+Casey Kelly|R|Adeiny Hechavarria|R|Flyout|*B|Curveball|24|0|1|1|14|81
+Casey Kelly|R|Adeiny Hechavarria|R|Flyout|X|Curveball|25|1|1|1|2|79
+Casey Kelly|R|Jose Fernandez|R|Double|B|Two-Seam Fastball|26|0|0|2|12|90
+Casey Kelly|R|Jose Fernandez|R|Double|F|Two-Seam Fastball|27|1|0|2|14|90
+Casey Kelly|R|Jose Fernandez|R|Double|E|Two-Seam Fastball|28|1|1|2|5|92
+Casey Kelly|R|Chris Johnson|R|Strikeout|C|Curveball|29|0|0|2|13|80
+Casey Kelly|R|Chris Johnson|R|Strikeout|S|Curveball|30|0|1|2|14|81
+Casey Kelly|R|Chris Johnson|R|Strikeout|W|Curveball|31|0|2|2|14|80

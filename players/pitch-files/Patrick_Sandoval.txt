@@ -1,0 +1,714 @@
+Patrick Sandoval|L|Leury Garcia|R|Groundout|F|Four-Seam Fastball|0|0|0|0|9|93
+Patrick Sandoval|L|Leury Garcia|R|Groundout|F|Four-Seam Fastball|1|0|1|0|12|93
+Patrick Sandoval|L|Leury Garcia|R|Groundout|F|Changeup|2|0|2|0|3|83
+Patrick Sandoval|L|Leury Garcia|R|Groundout|F|Changeup|3|0|2|0|12|81
+Patrick Sandoval|L|Leury Garcia|R|Groundout|B|Four-Seam Fastball|4|0|2|0|11|94
+Patrick Sandoval|L|Leury Garcia|R|Groundout|F|Changeup|5|1|2|0|14|84
+Patrick Sandoval|L|Leury Garcia|R|Groundout|X|Slider|6|1|2|0|1|84
+Patrick Sandoval|L|Tim Anderson|R|Lineout|B|Four-Seam Fastball|7|0|0|1|13|94
+Patrick Sandoval|L|Tim Anderson|R|Lineout|X|Four-Seam Fastball|8|1|0|1|5|94
+Patrick Sandoval|L|Jose Abreu|R|Groundout|C|Four-Seam Fastball|9|0|0|2|5|95
+Patrick Sandoval|L|Jose Abreu|R|Groundout|B|Changeup|10|0|1|2|14|83
+Patrick Sandoval|L|Jose Abreu|R|Groundout|S|Changeup|11|1|1|2|14|83
+Patrick Sandoval|L|Jose Abreu|R|Groundout|X|Four-Seam Fastball|12|1|2|2|2|94
+Patrick Sandoval|L|James McCann|R|Single|B|Four-Seam Fastball|13|0|0|0|14|90
+Patrick Sandoval|L|James McCann|R|Single|B|Curveball|14|1|0|0|13|78
+Patrick Sandoval|L|James McCann|R|Single|C|Changeup|15|2|0|0|11|83
+Patrick Sandoval|L|James McCann|R|Single|D|Four-Seam Fastball|16|2|1|0|4|91
+Patrick Sandoval|L|Eloy Jimenez|R|Lineout|C|Changeup|17|0|0|0|14|84
+Patrick Sandoval|L|Eloy Jimenez|R|Lineout|B|Curveball|18|0|1|0|13|76
+Patrick Sandoval|L|Eloy Jimenez|R|Lineout|B|Four-Seam Fastball|19|1|1|0|14|93
+Patrick Sandoval|L|Eloy Jimenez|R|Lineout|S|Changeup|20|2|1|0|5|83
+Patrick Sandoval|L|Eloy Jimenez|R|Lineout|X|Curveball|21|2|2|0|5|79
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|22|0|0|1|13|93
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|C|Changeup|23|1|0|1|14|84
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|24|1|1|1|8|92
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|F|Four-Seam Fastball|25|1|2|1|13|95
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|F|Changeup|26|1|2|1|9|85
+Patrick Sandoval|L|Welington Castillo|R|Strikeout|W|Slider|27|1|2|1|13|86
+Patrick Sandoval|L|Jon Jay|L|Field Error|B|Four-Seam Fastball|28|0|0|2|13|92
+Patrick Sandoval|L|Jon Jay|L|Field Error|D|Slider|29|1|0|2|13|87
+Patrick Sandoval|L|Yolmer Sanchez|R|Walk|F|Curveball|30|0|0|2|9|76
+Patrick Sandoval|L|Yolmer Sanchez|R|Walk|B|Changeup|31|0|1|2|14|83
+Patrick Sandoval|L|Yolmer Sanchez|R|Walk|B|Changeup|32|1|1|2|12|82
+Patrick Sandoval|L|Yolmer Sanchez|R|Walk|B|Four-Seam Fastball|33|2|1|2|14|93
+Patrick Sandoval|L|Yolmer Sanchez|R|Walk|B|Changeup|34|3|1|2|12|84
+Patrick Sandoval|L|Ryan Goins|L|Flyout|B|Slider|35|0|0|2|11|87
+Patrick Sandoval|L|Ryan Goins|L|Flyout|X|Four-Seam Fastball|36|1|0|2|4|94
+Patrick Sandoval|L|Leury Garcia|R|Double|C|Curveball|37|0|0|0|7|78
+Patrick Sandoval|L|Leury Garcia|R|Double|B|Changeup|38|0|1|0|14|82
+Patrick Sandoval|L|Leury Garcia|R|Double|D|Four-Seam Fastball|39|1|1|0|9|92
+Patrick Sandoval|L|Tim Anderson|R|Single|*B|Changeup|40|0|0|0|14|84
+Patrick Sandoval|L|Tim Anderson|R|Single|B|Curveball|41|1|0|0|11|78
+Patrick Sandoval|L|Tim Anderson|R|Single|S|Changeup|42|2|0|0|14|85
+Patrick Sandoval|L|Tim Anderson|R|Single|E|Slider|43|2|1|0|1|87
+Patrick Sandoval|L|Jose Abreu|R|Groundout|C|Four-Seam Fastball|44|0|0|0|3|93
+Patrick Sandoval|L|Jose Abreu|R|Groundout|X|Changeup|45|0|1|0|14|82
+Patrick Sandoval|L|James McCann|R|Groundout|S|Changeup|46|0|0|1|12|83
+Patrick Sandoval|L|James McCann|R|Groundout|F|Four-Seam Fastball|47|0|1|1|8|93
+Patrick Sandoval|L|James McCann|R|Groundout|B|Curveball|48|0|2|1|12|78
+Patrick Sandoval|L|James McCann|R|Groundout|*B|Slider|49|1|2|1|13|85
+Patrick Sandoval|L|James McCann|R|Groundout|X|Changeup|50|2|2|1|9|83
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|C|Four-Seam Fastball|51|0|0|2|5|94
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|B|Curveball|52|0|1|2|13|78
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|F|Changeup|53|1|1|2|8|85
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|B|Four-Seam Fastball|54|1|2|2|14|94
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|B|Changeup|55|2|2|2|13|84
+Patrick Sandoval|L|Eloy Jimenez|R|Strikeout|S|Changeup|56|3|2|2|13|84
+Patrick Sandoval|L|Welington Castillo|R|Double|C|Four-Seam Fastball|57|0|0|0|12|90
+Patrick Sandoval|L|Welington Castillo|R|Double|F|Changeup|58|0|1|0|6|83
+Patrick Sandoval|L|Welington Castillo|R|Double|B|Changeup|59|0|2|0|13|82
+Patrick Sandoval|L|Welington Castillo|R|Double|D|Four-Seam Fastball|60|1|2|0|11|92
+Patrick Sandoval|L|Jon Jay|L|Sac Bunt|X|Four-Seam Fastball|61|0|0|0|12|89
+Patrick Sandoval|L|Yolmer Sanchez|R|Single|B|Four-Seam Fastball|62|0|0|1|11|92
+Patrick Sandoval|L|Yolmer Sanchez|R|Single|C|Curveball|63|1|0|1|1|76
+Patrick Sandoval|L|Yolmer Sanchez|R|Single|B|Changeup|64|1|1|1|12|81
+Patrick Sandoval|L|Yolmer Sanchez|R|Single|E|Changeup|65|2|1|1|2|80
+Patrick Sandoval|L|Ryan Goins|L|Grounded Into DP|B|Four-Seam Fastball|66|0|0|1|13|91
+Patrick Sandoval|L|Ryan Goins|L|Grounded Into DP|X|Four-Seam Fastball|67|1|0|1|6|90
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|B|Curveball|68|0|0|0|13|78
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|F|Changeup|69|1|0|0|9|82
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|B|Four-Seam Fastball|70|1|1|0|12|91
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|F|Changeup|71|2|1|0|12|84
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|B|Curveball|72|2|2|0|11|79
+Patrick Sandoval|L|Leury Garcia|R|Strikeout|S|Changeup|73|3|2|0|9|85
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|2|94
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|93
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|S|Changeup|2|1|1|0|4|83
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|92
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|3|94
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|F|Changeup|5|2|2|0|4|84
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|C|Slider|6|2|2|0|1|86
+Patrick Sandoval|L|Danny Santana|R|Strikeout|S|Changeup|7|0|0|1|14|84
+Patrick Sandoval|L|Danny Santana|R|Strikeout|S|Curveball|8|0|1|1|8|79
+Patrick Sandoval|L|Danny Santana|R|Strikeout|S|Curveball|9|0|2|1|13|79
+Patrick Sandoval|L|Elvis Andrus|R|Flyout|X|Four-Seam Fastball|10|0|0|2|3|94
+Patrick Sandoval|L|Willie Calhoun|L|Double|D|Four-Seam Fastball|11|0|0|0|5|92
+Patrick Sandoval|L|Nick Solak|R|Walk|B|Four-Seam Fastball|12|0|0|0|14|92
+Patrick Sandoval|L|Nick Solak|R|Walk|B|Changeup|13|1|0|0|12|83
+Patrick Sandoval|L|Nick Solak|R|Walk|C|Four-Seam Fastball|14|2|0|0|4|92
+Patrick Sandoval|L|Nick Solak|R|Walk|S|Changeup|15|2|1|0|14|83
+Patrick Sandoval|L|Nick Solak|R|Walk|F|Curveball|16|2|2|0|3|78
+Patrick Sandoval|L|Nick Solak|R|Walk|B|Four-Seam Fastball|17|2|2|0|13|93
+Patrick Sandoval|L|Nick Solak|R|Walk|B|Four-Seam Fastball|18|3|2|0|11|93
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|19|0|0|0|4|92
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|B|Four-Seam Fastball|20|0|1|0|8|94
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|B|Changeup|21|1|1|0|13|83
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|T|Changeup|22|2|1|0|9|83
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|S|Four-Seam Fastball|23|2|2|0|11|95
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Flyout|S|Changeup|24|0|0|1|14|83
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Flyout|*B|Changeup|25|0|1|1|14|84
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Flyout|B|Curveball|26|1|1|1|12|79
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Flyout|X|Four-Seam Fastball|27|2|1|1|1|94
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|F|Four-Seam Fastball|28|0|0|2|2|92
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|*B|Changeup|29|0|1|2|14|84
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|B|Four-Seam Fastball|30|1|1|2|11|94
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|S|Changeup|31|2|1|2|14|84
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|F|Four-Seam Fastball|32|2|2|2|11|94
+Patrick Sandoval|L|Delino DeShields|R|Strikeout|S|Four-Seam Fastball|33|2|2|2|11|94
+Patrick Sandoval|L|Jose Trevino|R|Strikeout|C|Four-Seam Fastball|34|0|0|0|5|91
+Patrick Sandoval|L|Jose Trevino|R|Strikeout|C|Changeup|35|0|1|0|6|82
+Patrick Sandoval|L|Jose Trevino|R|Strikeout|S|Changeup|36|0|2|0|14|82
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|37|0|0|1|14|90
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|F|Four-Seam Fastball|38|1|0|1|5|90
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|B|Slider|39|1|1|1|13|86
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|S|Changeup|40|2|1|1|14|83
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|41|2|2|1|11|93
+Patrick Sandoval|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|42|3|2|1|3|93
+Patrick Sandoval|L|Danny Santana|R|Strikeout|S|Four-Seam Fastball|43|0|0|1|6|92
+Patrick Sandoval|L|Danny Santana|R|Strikeout|B|Curveball|44|0|1|1|11|78
+Patrick Sandoval|L|Danny Santana|R|Strikeout|F|Changeup|45|1|1|1|6|82
+Patrick Sandoval|L|Danny Santana|R|Strikeout|F|Four-Seam Fastball|46|1|2|1|5|94
+Patrick Sandoval|L|Danny Santana|R|Strikeout|B|Changeup|47|1|2|1|12|84
+Patrick Sandoval|L|Danny Santana|R|Strikeout|C|Curveball|48|2|2|1|12|78
+Patrick Sandoval|L|Elvis Andrus|R|Strikeout|B|Changeup|49|0|0|2|12|83
+Patrick Sandoval|L|Elvis Andrus|R|Strikeout|S|Changeup|50|1|0|2|13|85
+Patrick Sandoval|L|Elvis Andrus|R|Strikeout|C|Four-Seam Fastball|51|1|1|2|11|93
+Patrick Sandoval|L|Elvis Andrus|R|Strikeout|S|Four-Seam Fastball|52|1|2|2|14|93
+Patrick Sandoval|L|Willie Calhoun|L|Walk|S|Slider|53|0|0|0|13|85
+Patrick Sandoval|L|Willie Calhoun|L|Walk|B|Four-Seam Fastball|54|0|1|0|14|91
+Patrick Sandoval|L|Willie Calhoun|L|Walk|B|Changeup|55|1|1|0|13|83
+Patrick Sandoval|L|Willie Calhoun|L|Walk|B|Slider|56|2|1|0|13|87
+Patrick Sandoval|L|Willie Calhoun|L|Walk|F|Four-Seam Fastball|57|3|1|0|9|92
+Patrick Sandoval|L|Willie Calhoun|L|Walk|B|Changeup|58|3|2|0|14|82
+Patrick Sandoval|L|Nick Solak|R|Flyout|S|Changeup|59|0|0|0|6|83
+Patrick Sandoval|L|Nick Solak|R|Flyout|C|Four-Seam Fastball|60|0|1|0|8|93
+Patrick Sandoval|L|Nick Solak|R|Flyout|B|Changeup|61|0|2|0|12|86
+Patrick Sandoval|L|Nick Solak|R|Flyout|B|Curveball|62|1|2|0|11|76
+Patrick Sandoval|L|Nick Solak|R|Flyout|X|Changeup|63|2|2|0|14|85
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|64|0|0|1|2|91
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|C|Curveball|65|0|1|1|9|77
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|B|Changeup|66|0|2|1|14|83
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|*B|Changeup|67|1|2|1|14|84
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|*B|Changeup|68|2|2|1|14|84
+Patrick Sandoval|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|69|3|2|1|14|93
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Lineout|B|Four-Seam Fastball|70|0|0|2|12|91
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Lineout|F|Four-Seam Fastball|71|1|0|2|4|93
+Patrick Sandoval|L|Isiah Kiner-Falefa|R|Lineout|X|Curveball|72|1|1|2|5|77
+Patrick Sandoval|L|Delino DeShields|R|Flyout|X|Four-Seam Fastball|73|0|0|0|12|92
+Patrick Sandoval|L|Jose Trevino|R|Flyout|B|Four-Seam Fastball|74|0|0|1|14|91
+Patrick Sandoval|L|Jose Trevino|R|Flyout|B|Four-Seam Fastball|75|1|0|1|12|90
+Patrick Sandoval|L|Jose Trevino|R|Flyout|B|Four-Seam Fastball|76|2|0|1|11|90
+Patrick Sandoval|L|Jose Trevino|R|Flyout|C|Four-Seam Fastball|77|3|0|1|13|92
+Patrick Sandoval|L|Jose Trevino|R|Flyout|F|Four-Seam Fastball|78|3|1|1|1|92
+Patrick Sandoval|L|Jose Trevino|R|Flyout|F|Four-Seam Fastball|79|3|2|1|3|92
+Patrick Sandoval|L|Jose Trevino|R|Flyout|X|Four-Seam Fastball|80|3|2|1|8|93
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|C|Curveball|81|0|0|2|9|78
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|S|Slider|82|0|1|2|11|87
+Patrick Sandoval|L|Shin-Soo Choo|L|Strikeout|S|Slider|83|0|2|2|13|87
+Patrick Sandoval|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|93
+Patrick Sandoval|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|92
+Patrick Sandoval|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|92
+Patrick Sandoval|L|Francisco Lindor|R|Walk|C|Four-Seam Fastball|3|3|0|0|2|93
+Patrick Sandoval|L|Francisco Lindor|R|Walk|B|Curveball|4|3|1|0|14|78
+Patrick Sandoval|L|Oscar Mercado|R|Single|W|Curveball|5|0|0|0|14|78
+Patrick Sandoval|L|Oscar Mercado|R|Single|D|Four-Seam Fastball|6|0|1|0|9|93
+Patrick Sandoval|L|Carlos Santana|R|Strikeout|B|Curveball|7|0|0|0|12|75
+Patrick Sandoval|L|Carlos Santana|R|Strikeout|S|Four-Seam Fastball|8|1|0|0|14|93
+Patrick Sandoval|L|Carlos Santana|R|Strikeout|B|Changeup|9|1|1|0|14|83
+Patrick Sandoval|L|Carlos Santana|R|Strikeout|S|Four-Seam Fastball|10|2|1|0|6|94
+Patrick Sandoval|L|Carlos Santana|R|Strikeout|C|Four-Seam Fastball|11|2|2|0|4|93
+Patrick Sandoval|L|Yasiel Puig|R|Single|F|Four-Seam Fastball|12|0|0|1|5|94
+Patrick Sandoval|L|Yasiel Puig|R|Single|B|Changeup|13|0|1|1|14|84
+Patrick Sandoval|L|Yasiel Puig|R|Single|E|Changeup|14|1|1|1|14|84
+Patrick Sandoval|L|Jordan Luplow|R|Grounded Into DP|C|Curveball|15|0|0|1|14|78
+Patrick Sandoval|L|Jordan Luplow|R|Grounded Into DP|S|Changeup|16|0|1|1|14|83
+Patrick Sandoval|L|Jordan Luplow|R|Grounded Into DP|B|Four-Seam Fastball|17|0|2|1|12|95
+Patrick Sandoval|L|Jordan Luplow|R|Grounded Into DP|X|Changeup|18|1|2|1|9|85
+Patrick Sandoval|L|Franmil Reyes|R|Walk|F|Four-Seam Fastball|19|0|0|0|5|92
+Patrick Sandoval|L|Franmil Reyes|R|Walk|B|Changeup|20|0|1|0|14|83
+Patrick Sandoval|L|Franmil Reyes|R|Walk|B|Changeup|21|1|1|0|14|83
+Patrick Sandoval|L|Franmil Reyes|R|Walk|B|Curveball|22|2|1|0|13|79
+Patrick Sandoval|L|Franmil Reyes|R|Walk|F|Four-Seam Fastball|23|3|1|0|9|92
+Patrick Sandoval|L|Franmil Reyes|R|Walk|B|Four-Seam Fastball|24|3|2|0|12|94
+Patrick Sandoval|L|Jason Kipnis|L|Home Run|E|Four-Seam Fastball|25|0|0|0|5|94
+Patrick Sandoval|L|Roberto Perez|R|Single|B|Curveball|26|0|0|0|13|78
+Patrick Sandoval|L|Roberto Perez|R|Single|C|Four-Seam Fastball|27|1|0|0|8|93
+Patrick Sandoval|L|Roberto Perez|R|Single|B|Changeup|28|1|1|0|13|85
+Patrick Sandoval|L|Roberto Perez|R|Single|D|Four-Seam Fastball|29|2|1|0|7|93
+Patrick Sandoval|L|Yu Chang|R|Strikeout|C|Four-Seam Fastball|30|0|0|0|3|93
+Patrick Sandoval|L|Yu Chang|R|Strikeout|*B|Changeup|31|0|1|0|13|84
+Patrick Sandoval|L|Yu Chang|R|Strikeout|F|Four-Seam Fastball|32|1|1|0|1|93
+Patrick Sandoval|L|Yu Chang|R|Strikeout|F|Four-Seam Fastball|33|1|2|0|1|94
+Patrick Sandoval|L|Yu Chang|R|Strikeout|F|Changeup|34|1|2|0|8|83
+Patrick Sandoval|L|Yu Chang|R|Strikeout|C|Curveball|35|1|2|0|12|77
+Patrick Sandoval|L|Francisco Lindor|R|Groundout|B|Curveball|36|0|0|1|14|77
+Patrick Sandoval|L|Francisco Lindor|R|Groundout|B|Four-Seam Fastball|37|1|0|1|12|92
+Patrick Sandoval|L|Francisco Lindor|R|Groundout|S|Changeup|38|2|0|1|14|84
+Patrick Sandoval|L|Francisco Lindor|R|Groundout|X|Four-Seam Fastball|39|2|1|1|11|94
+Patrick Sandoval|L|Oscar Mercado|R|Groundout|*B|Changeup|40|0|0|2|14|85
+Patrick Sandoval|L|Oscar Mercado|R|Groundout|X|Curveball|41|1|0|2|3|78
+Patrick Sandoval|L|Carlos Santana|R|Groundout|X|Four-Seam Fastball|42|0|0|0|3|91
+Patrick Sandoval|L|Yasiel Puig|R|Strikeout|C|Curveball|43|0|0|1|6|78
+Patrick Sandoval|L|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|44|0|1|1|12|91
+Patrick Sandoval|L|Yasiel Puig|R|Strikeout|B|Changeup|45|1|1|1|12|82
+Patrick Sandoval|L|Yasiel Puig|R|Strikeout|S|Changeup|46|2|1|1|9|83
+Patrick Sandoval|L|Yasiel Puig|R|Strikeout|T|Four-Seam Fastball|47|2|2|1|3|94
+Patrick Sandoval|L|Jordan Luplow|R|Flyout|C|Four-Seam Fastball|48|0|0|2|9|95
+Patrick Sandoval|L|Jordan Luplow|R|Flyout|F|Four-Seam Fastball|49|0|1|2|2|93
+Patrick Sandoval|L|Jordan Luplow|R|Flyout|B|Changeup|50|0|2|2|12|84
+Patrick Sandoval|L|Jordan Luplow|R|Flyout|X|Changeup|51|1|2|2|12|83
+Patrick Sandoval|L|Franmil Reyes|R|Strikeout|C|Curveball|52|0|0|0|1|76
+Patrick Sandoval|L|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|53|0|1|0|11|91
+Patrick Sandoval|L|Franmil Reyes|R|Strikeout|F|Changeup|54|1|1|0|9|82
+Patrick Sandoval|L|Franmil Reyes|R|Strikeout|S|Changeup|55|1|2|0|3|84
+Patrick Sandoval|L|Jason Kipnis|L|Single|C|Slider|56|0|0|1|8|84
+Patrick Sandoval|L|Jason Kipnis|L|Single|S|Changeup|57|0|1|1|13|82
+Patrick Sandoval|L|Jason Kipnis|L|Single|B|Slider|58|0|2|1|13|86
+Patrick Sandoval|L|Jason Kipnis|L|Single|B|Four-Seam Fastball|59|1|2|1|14|94
+Patrick Sandoval|L|Jason Kipnis|L|Single|D|Changeup|60|2|2|1|14|85
+Patrick Sandoval|L|Tommy Pham|R|Single|B|Four-Seam Fastball|0|0|0|0|12|92
+Patrick Sandoval|L|Tommy Pham|R|Single|S|Changeup|1|1|0|0|9|80
+Patrick Sandoval|L|Tommy Pham|R|Single|B|Changeup|2|1|1|0|14|81
+Patrick Sandoval|L|Tommy Pham|R|Single|B|Four-Seam Fastball|3|2|1|0|12|92
+Patrick Sandoval|L|Tommy Pham|R|Single|D|Four-Seam Fastball|4|3|1|0|2|92
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|B|Four-Seam Fastball|5|0|0|0|13|92
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|C|Four-Seam Fastball|6|1|0|0|9|93
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|F|Slider|7|1|1|0|8|87
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|B|Four-Seam Fastball|8|1|2|0|12|93
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|W|Curveball|9|2|2|0|14|79
+Patrick Sandoval|L|Avisail Garcia|R|Single|B|Four-Seam Fastball|10|0|0|1|13|90
+Patrick Sandoval|L|Avisail Garcia|R|Single|S|Changeup|11|1|0|1|14|82
+Patrick Sandoval|L|Avisail Garcia|R|Single|S|Changeup|12|1|1|1|14|83
+Patrick Sandoval|L|Avisail Garcia|R|Single|D|Four-Seam Fastball|13|1|2|1|2|93
+Patrick Sandoval|L|Jesus Aguilar|R|Sac Fly|B|Four-Seam Fastball|14|0|0|1|14|91
+Patrick Sandoval|L|Jesus Aguilar|R|Sac Fly|S|Curveball|15|1|0|1|14|78
+Patrick Sandoval|L|Jesus Aguilar|R|Sac Fly|B|Four-Seam Fastball|16|1|1|1|13|92
+Patrick Sandoval|L|Jesus Aguilar|R|Sac Fly|S|Changeup|17|2|1|1|8|84
+Patrick Sandoval|L|Jesus Aguilar|R|Sac Fly|E|Changeup|18|2|2|1|14|83
+Patrick Sandoval|L|Joey Wendle|L|Groundout|B|Four-Seam Fastball|19|0|0|2|12|92
+Patrick Sandoval|L|Joey Wendle|L|Groundout|C|Changeup|20|1|0|2|4|81
+Patrick Sandoval|L|Joey Wendle|L|Groundout|X|Slider|21|1|1|2|7|86
+Patrick Sandoval|L|Matt Duffy|R|Groundout|B|Changeup|22|0|0|0|12|88
+Patrick Sandoval|L|Matt Duffy|R|Groundout|X|Four-Seam Fastball|23|1|0|0|8|90
+Patrick Sandoval|L|Willy Adames|R|Strikeout|C|Changeup|24|0|0|1|4|81
+Patrick Sandoval|L|Willy Adames|R|Strikeout|S|Four-Seam Fastball|25|0|1|1|13|92
+Patrick Sandoval|L|Willy Adames|R|Strikeout|C|Curveball|26|0|2|1|6|79
+Patrick Sandoval|L|Kevin Kiermaier|L|Lineout|X|Four-Seam Fastball|27|0|0|2|5|92
+Patrick Sandoval|L|Mike Zunino|R|Groundout|C|Four-Seam Fastball|28|0|0|0|3|90
+Patrick Sandoval|L|Mike Zunino|R|Groundout|B|Curveball|29|0|1|0|13|78
+Patrick Sandoval|L|Mike Zunino|R|Groundout|X|Four-Seam Fastball|30|1|1|0|12|90
+Patrick Sandoval|L|Tommy Pham|R|Walk|S|Curveball|31|0|0|1|13|77
+Patrick Sandoval|L|Tommy Pham|R|Walk|B|Changeup|32|0|1|1|12|83
+Patrick Sandoval|L|Tommy Pham|R|Walk|C|Four-Seam Fastball|33|1|1|1|1|92
+Patrick Sandoval|L|Tommy Pham|R|Walk|B|Curveball|34|1|2|1|12|78
+Patrick Sandoval|L|Tommy Pham|R|Walk|B|Curveball|35|2|2|1|13|77
+Patrick Sandoval|L|Tommy Pham|R|Walk|F|Changeup|36|3|2|1|3|83
+Patrick Sandoval|L|Tommy Pham|R|Walk|*B|Changeup|37|3|2|1|13|82
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|B|Slider|38|0|0|1|13|86
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|S|Four-Seam Fastball|39|1|0|1|5|93
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|F|Curveball|40|1|1|1|14|79
+Patrick Sandoval|L|Austin Meadows|L|Strikeout|W|Changeup|41|1|2|1|14|84
+Patrick Sandoval|L|Avisail Garcia|R|Flyout|C|Curveball|42|0|0|2|7|79
+Patrick Sandoval|L|Avisail Garcia|R|Flyout|B|Four-Seam Fastball|43|0|1|2|11|92
+Patrick Sandoval|L|Avisail Garcia|R|Flyout|B|Changeup|44|1|1|2|14|83
+Patrick Sandoval|L|Avisail Garcia|R|Flyout|X|Changeup|45|2|1|2|3|83
+Patrick Sandoval|L|Jesus Aguilar|R|Groundout|C|Changeup|46|0|0|0|7|81
+Patrick Sandoval|L|Jesus Aguilar|R|Groundout|B|Four-Seam Fastball|47|0|1|0|11|91
+Patrick Sandoval|L|Jesus Aguilar|R|Groundout|C|Four-Seam Fastball|48|1|1|0|12|92
+Patrick Sandoval|L|Jesus Aguilar|R|Groundout|X|Curveball|49|1|2|0|4|78
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|B|Slider|50|0|0|1|11|87
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|B|Four-Seam Fastball|51|1|0|1|12|92
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|C|Changeup|52|2|0|1|5|82
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|B|Curveball|53|2|1|1|7|79
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|C|Four-Seam Fastball|54|3|1|1|5|93
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|F|Four-Seam Fastball|55|3|2|1|12|93
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|F|Four-Seam Fastball|56|3|2|1|11|94
+Patrick Sandoval|L|Joey Wendle|L|Strikeout|S|Four-Seam Fastball|57|3|2|1|12|94
+Patrick Sandoval|L|Matt Duffy|R|Groundout|B|Four-Seam Fastball|58|0|0|2|14|92
+Patrick Sandoval|L|Matt Duffy|R|Groundout|B|Four-Seam Fastball|59|1|0|2|12|93
+Patrick Sandoval|L|Matt Duffy|R|Groundout|X|Four-Seam Fastball|60|2|0|2|6|93
+Patrick Sandoval|L|George Springer|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|93
+Patrick Sandoval|L|George Springer|R|Walk|C|Changeup|1|1|0|0|12|83
+Patrick Sandoval|L|George Springer|R|Walk|B|Four-Seam Fastball|2|1|1|0|13|93
+Patrick Sandoval|L|George Springer|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|93
+Patrick Sandoval|L|George Springer|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|92
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|C|Curveball|5|0|0|0|3|78
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|B|Changeup|6|0|1|0|14|84
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|B|Four-Seam Fastball|7|1|1|0|12|94
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|*B|Changeup|8|2|1|0|14|85
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|C|Curveball|9|3|1|0|1|79
+Patrick Sandoval|L|Jose Altuve|R|Grounded Into DP|X|Four-Seam Fastball|10|3|2|0|6|93
+Patrick Sandoval|L|Michael Brantley|L|Lineout|C|Four-Seam Fastball|11|0|0|2|13|93
+Patrick Sandoval|L|Michael Brantley|L|Lineout|F|Four-Seam Fastball|12|0|1|2|3|94
+Patrick Sandoval|L|Michael Brantley|L|Lineout|B|Four-Seam Fastball|13|0|2|2|11|95
+Patrick Sandoval|L|Michael Brantley|L|Lineout|F|Slider|14|1|2|2|4|89
+Patrick Sandoval|L|Michael Brantley|L|Lineout|B|Curveball|15|1|2|2|12|79
+Patrick Sandoval|L|Michael Brantley|L|Lineout|X|Changeup|16|2|2|2|13|86
+Patrick Sandoval|L|Alex Bregman|R|Home Run|C|Four-Seam Fastball|17|0|0|0|6|91
+Patrick Sandoval|L|Alex Bregman|R|Home Run|B|Four-Seam Fastball|18|0|1|0|12|91
+Patrick Sandoval|L|Alex Bregman|R|Home Run|E|Curveball|19|1|1|0|12|78
+Patrick Sandoval|L|Yordan Alvarez|L|Groundout|C|Four-Seam Fastball|20|0|0|0|7|91
+Patrick Sandoval|L|Yordan Alvarez|L|Groundout|S|Slider|21|0|1|0|13|86
+Patrick Sandoval|L|Yordan Alvarez|L|Groundout|X|Slider|22|0|2|0|13|88
+Patrick Sandoval|L|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|23|0|0|1|12|92
+Patrick Sandoval|L|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|24|1|0|1|11|92
+Patrick Sandoval|L|Yuli Gurriel|R|Walk|B|Changeup|25|2|0|1|13|83
+Patrick Sandoval|L|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|26|3|0|1|12|92
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|C|Four-Seam Fastball|27|0|0|1|9|91
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|B|Changeup|28|0|1|1|12|81
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|B|Four-Seam Fastball|29|1|1|1|11|92
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|F|Changeup|30|2|1|1|8|83
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|F|Four-Seam Fastball|31|2|2|1|13|93
+Patrick Sandoval|L|Robinson Chirinos|R|Strikeout|W|Changeup|32|2|2|1|13|84
+Patrick Sandoval|L|Kyle Tucker|L|Groundout|T|Slider|33|0|0|2|13|87
+Patrick Sandoval|L|Kyle Tucker|L|Groundout|S|Slider|34|0|1|2|13|86
+Patrick Sandoval|L|Kyle Tucker|L|Groundout|X|Four-Seam Fastball|35|0|2|2|11|92
+Patrick Sandoval|L|Jack Mayfield|R|Single|C|Curveball|36|0|0|0|4|76
+Patrick Sandoval|L|Jack Mayfield|R|Single|B|Four-Seam Fastball|37|0|1|0|14|92
+Patrick Sandoval|L|Jack Mayfield|R|Single|S|Changeup|38|1|1|0|14|83
+Patrick Sandoval|L|Jack Mayfield|R|Single|F|Changeup|39|1|2|0|3|82
+Patrick Sandoval|L|Jack Mayfield|R|Single|B|Curveball|40|1|2|0|13|79
+Patrick Sandoval|L|Jack Mayfield|R|Single|B|Four-Seam Fastball|41|2|2|0|12|92
+Patrick Sandoval|L|Jack Mayfield|R|Single|F|Four-Seam Fastball|42|3|2|0|12|93
+Patrick Sandoval|L|Jack Mayfield|R|Single|D|Changeup|43|3|2|0|5|84
+Patrick Sandoval|L|George Springer|R|Pop Out|X|Changeup|44|0|0|0|2|82
+Patrick Sandoval|L|Jose Altuve|R|Flyout|X|Changeup|45|0|0|1|6|82
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|*B|Slider|46|0|0|2|13|85
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|B|Four-Seam Fastball|47|1|0|2|13|91
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|F|Four-Seam Fastball|48|2|0|2|6|91
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|*B|Changeup|49|2|1|2|13|83
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|C|Slider|50|3|1|2|11|87
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|F|Slider|51|3|2|2|11|87
+Patrick Sandoval|L|Michael Brantley|L|Strikeout|S|Slider|52|3|2|2|13|89
+Patrick Sandoval|L|Alex Bregman|R|Walk|S|Changeup|53|0|0|0|14|83
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|54|0|1|0|14|92
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|55|1|1|0|12|91
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|56|2|1|0|12|92
+Patrick Sandoval|L|Alex Bregman|R|Walk|*B|Changeup|57|3|1|0|13|84
+Patrick Sandoval|L|Yordan Alvarez|L|Strikeout|F|Slider|58|0|0|0|13|86
+Patrick Sandoval|L|Yordan Alvarez|L|Strikeout|S|Slider|59|0|1|0|13|86
+Patrick Sandoval|L|Yordan Alvarez|L|Strikeout|C|Slider|60|0|2|0|11|86
+Patrick Sandoval|L|Chris Owings|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|92
+Patrick Sandoval|L|Chris Owings|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|3|92
+Patrick Sandoval|L|Chris Owings|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|1|93
+Patrick Sandoval|L|Chris Owings|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|93
+Patrick Sandoval|L|Chris Owings|R|Strikeout|F|Changeup|4|1|2|0|14|84
+Patrick Sandoval|L|Chris Owings|R|Strikeout|S|Changeup|5|1|2|0|14|84
+Patrick Sandoval|L|Rafael Devers|L|Double|B|Curveball|6|0|0|1|13|77
+Patrick Sandoval|L|Rafael Devers|L|Double|B|Four-Seam Fastball|7|1|0|1|11|94
+Patrick Sandoval|L|Rafael Devers|L|Double|F|Four-Seam Fastball|8|2|0|1|3|94
+Patrick Sandoval|L|Rafael Devers|L|Double|B|Four-Seam Fastball|9|2|1|1|11|94
+Patrick Sandoval|L|Rafael Devers|L|Double|D|Four-Seam Fastball|10|3|1|1|8|94
+Patrick Sandoval|L|Xander Bogaerts|R|Strikeout|S|Changeup|11|0|0|1|8|84
+Patrick Sandoval|L|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|12|0|1|1|14|94
+Patrick Sandoval|L|Xander Bogaerts|R|Strikeout|C|Four-Seam Fastball|13|1|1|1|4|92
+Patrick Sandoval|L|Xander Bogaerts|R|Strikeout|W|Slider|14|1|2|1|13|87
+Patrick Sandoval|L|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|15|0|0|2|12|91
+Patrick Sandoval|L|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|16|1|0|2|2|91
+Patrick Sandoval|L|J.D. Martinez|R|Groundout|F|Changeup|17|1|1|2|8|81
+Patrick Sandoval|L|J.D. Martinez|R|Groundout|X|Four-Seam Fastball|18|1|2|2|2|92
+Patrick Sandoval|L|Andrew Benintendi|L|Single|B|Four-Seam Fastball|19|0|0|0|11|93
+Patrick Sandoval|L|Andrew Benintendi|L|Single|F|Curveball|20|1|0|0|12|76
+Patrick Sandoval|L|Andrew Benintendi|L|Single|F|Four-Seam Fastball|21|1|1|0|2|93
+Patrick Sandoval|L|Andrew Benintendi|L|Single|F|Four-Seam Fastball|22|1|2|0|12|93
+Patrick Sandoval|L|Andrew Benintendi|L|Single|B|Slider|23|1|2|0|11|86
+Patrick Sandoval|L|Andrew Benintendi|L|Single|D|Four-Seam Fastball|24|2|2|0|12|93
+Patrick Sandoval|L|Sam Travis|R|Walk|*B|Changeup|25|0|0|0|14|82
+Patrick Sandoval|L|Sam Travis|R|Walk|B|Four-Seam Fastball|26|1|0|0|14|94
+Patrick Sandoval|L|Sam Travis|R|Walk|C|Four-Seam Fastball|27|2|0|0|9|93
+Patrick Sandoval|L|Sam Travis|R|Walk|C|Changeup|28|2|1|0|12|82
+Patrick Sandoval|L|Sam Travis|R|Walk|B|Four-Seam Fastball|29|2|2|0|14|93
+Patrick Sandoval|L|Sam Travis|R|Walk|*B|Changeup|30|3|2|0|13|83
+Patrick Sandoval|L|Christian Vazquez|R|Strikeout|C|Four-Seam Fastball|31|0|0|0|9|93
+Patrick Sandoval|L|Christian Vazquez|R|Strikeout|C|Four-Seam Fastball|32|0|1|0|12|92
+Patrick Sandoval|L|Christian Vazquez|R|Strikeout|*B|Changeup|33|0|2|0|14|84
+Patrick Sandoval|L|Christian Vazquez|R|Strikeout|S|Four-Seam Fastball|34|1|2|0|11|94
+Patrick Sandoval|L|Michael Chavis|R|Walk|B|Four-Seam Fastball|35|0|0|1|11|94
+Patrick Sandoval|L|Michael Chavis|R|Walk|B|Four-Seam Fastball|36|1|0|1|12|92
+Patrick Sandoval|L|Michael Chavis|R|Walk|B|Four-Seam Fastball|37|2|0|1|12|94
+Patrick Sandoval|L|Michael Chavis|R|Walk|B|Four-Seam Fastball|38|3|0|1|12|94
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Walk|B|Slider|39|0|0|1|11|88
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|40|1|0|1|12|92
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|41|2|0|1|12|92
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|42|3|0|1|14|93
+Patrick Sandoval|L|Chris Owings|R|Strikeout|C|Changeup|43|0|0|1|5|83
+Patrick Sandoval|L|Chris Owings|R|Strikeout|S|Four-Seam Fastball|44|0|1|1|6|94
+Patrick Sandoval|L|Chris Owings|R|Strikeout|S|Four-Seam Fastball|45|0|2|1|3|94
+Patrick Sandoval|L|Rafael Devers|L|Groundout|B|Slider|46|0|0|2|13|84
+Patrick Sandoval|L|Rafael Devers|L|Groundout|C|Four-Seam Fastball|47|1|0|2|6|92
+Patrick Sandoval|L|Rafael Devers|L|Groundout|X|Slider|48|1|1|2|13|85
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|B|Four-Seam Fastball|49|0|0|0|12|91
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|F|Slider|50|1|0|0|4|86
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|F|Changeup|51|1|1|0|2|83
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|F|Four-Seam Fastball|52|1|2|0|12|92
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|B|Changeup|53|1|2|0|14|82
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|B|Changeup|54|2|2|0|13|81
+Patrick Sandoval|L|Xander Bogaerts|R|Lineout|X|Four-Seam Fastball|55|3|2|0|12|93
+Patrick Sandoval|L|J.D. Martinez|R|Lineout|S|Changeup|56|0|0|1|9|83
+Patrick Sandoval|L|J.D. Martinez|R|Lineout|B|Four-Seam Fastball|57|0|1|1|11|93
+Patrick Sandoval|L|J.D. Martinez|R|Lineout|X|Changeup|58|1|1|1|7|84
+Patrick Sandoval|L|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|59|0|0|2|11|92
+Patrick Sandoval|L|Andrew Benintendi|L|Flyout|B|Slider|60|1|0|2|13|86
+Patrick Sandoval|L|Andrew Benintendi|L|Flyout|X|Four-Seam Fastball|61|2|0|2|9|91
+Patrick Sandoval|L|Sam Travis|R|Single|F|Four-Seam Fastball|62|0|0|0|2|92
+Patrick Sandoval|L|Sam Travis|R|Single|C|Slider|63|0|1|0|7|85
+Patrick Sandoval|L|Sam Travis|R|Single|F|Slider|64|0|2|0|11|85
+Patrick Sandoval|L|Sam Travis|R|Single|B|Four-Seam Fastball|65|0|2|0|11|92
+Patrick Sandoval|L|Sam Travis|R|Single|D|Slider|66|1|2|0|5|84
+Patrick Sandoval|L|Christian Vazquez|R|Home Run|*B|Slider|67|0|0|0|14|86
+Patrick Sandoval|L|Christian Vazquez|R|Home Run|E|Four-Seam Fastball|68|1|0|0|4|93
+Patrick Sandoval|L|Michael Chavis|R|Flyout|C|Slider|69|0|0|0|8|85
+Patrick Sandoval|L|Michael Chavis|R|Flyout|X|Four-Seam Fastball|70|0|1|0|2|92
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Lineout|B|Curveball|71|0|0|1|12|76
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Lineout|C|Slider|72|1|0|1|11|84
+Patrick Sandoval|L|Jackie Bradley Jr.|L|Lineout|X|Four-Seam Fastball|73|1|1|1|5|92
+Patrick Sandoval|L|Chris Owings|R|Groundout|L|Four-Seam Fastball|74|0|0|2|12|92
+Patrick Sandoval|L|Chris Owings|R|Groundout|B|Changeup|75|0|1|2|12|82
+Patrick Sandoval|L|Chris Owings|R|Groundout|X|Four-Seam Fastball|76|1|1|2|11|93
+Patrick Sandoval|L|Rafael Devers|L|Single|B|Curveball|77|0|0|0|12|78
+Patrick Sandoval|L|Rafael Devers|L|Single|F|Slider|78|1|0|0|2|87
+Patrick Sandoval|L|Rafael Devers|L|Single|B|Four-Seam Fastball|79|1|1|0|13|94
+Patrick Sandoval|L|Rafael Devers|L|Single|D|Slider|80|2|1|0|7|85
+Patrick Sandoval|L|Xander Bogaerts|R|Flyout|C|Curveball|81|0|0|0|3|78
+Patrick Sandoval|L|Xander Bogaerts|R|Flyout|T|Changeup|82|0|1|0|14|84
+Patrick Sandoval|L|Xander Bogaerts|R|Flyout|X|Changeup|83|0|2|0|14|86
+Patrick Sandoval|L|J.D. Martinez|R|Single|*B|Four-Seam Fastball|84|0|0|1|14|93
+Patrick Sandoval|L|J.D. Martinez|R|Single|S|Changeup|85|1|0|1|5|84
+Patrick Sandoval|L|J.D. Martinez|R|Single|S|Changeup|86|1|1|1|13|83
+Patrick Sandoval|L|J.D. Martinez|R|Single|*B|Changeup|87|1|2|1|14|85
+Patrick Sandoval|L|J.D. Martinez|R|Single|B|Four-Seam Fastball|88|2|2|1|12|95
+Patrick Sandoval|L|J.D. Martinez|R|Single|D|Changeup|89|3|2|1|6|86
+Patrick Sandoval|L|Andrew Benintendi|L|Walk|B|Slider|90|0|0|1|12|84
+Patrick Sandoval|L|Andrew Benintendi|L|Walk|B|Changeup|91|1|0|1|13|84
+Patrick Sandoval|L|Andrew Benintendi|L|Walk|B|Slider|92|2|0|1|11|87
+Patrick Sandoval|L|Andrew Benintendi|L|Walk|C|Four-Seam Fastball|93|3|0|1|6|93
+Patrick Sandoval|L|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|94|3|1|1|14|92
+Patrick Sandoval|L|Jesse Winker|L|Walk|C|Four-Seam Fastball|0|0|0|2|1|94
+Patrick Sandoval|L|Jesse Winker|L|Walk|C|Slider|1|0|1|2|11|87
+Patrick Sandoval|L|Jesse Winker|L|Walk|B|Changeup|2|0|2|2|13|83
+Patrick Sandoval|L|Jesse Winker|L|Walk|B|Slider|3|1|2|2|13|87
+Patrick Sandoval|L|Jesse Winker|L|Walk|F|Slider|4|2|2|2|4|88
+Patrick Sandoval|L|Jesse Winker|L|Walk|B|Four-Seam Fastball|5|2|2|2|11|95
+Patrick Sandoval|L|Jesse Winker|L|Walk|B|Four-Seam Fastball|6|3|2|2|14|95
+Patrick Sandoval|L|Joey Votto|L|Groundout|C|Four-Seam Fastball|7|0|0|2|7|94
+Patrick Sandoval|L|Joey Votto|L|Groundout|C|Slider|8|0|1|2|4|87
+Patrick Sandoval|L|Joey Votto|L|Groundout|B|Four-Seam Fastball|9|0|2|2|11|95
+Patrick Sandoval|L|Joey Votto|L|Groundout|B|Slider|10|1|2|2|14|86
+Patrick Sandoval|L|Joey Votto|L|Groundout|X|Slider|11|2|2|2|4|88
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|B|Curveball|12|0|0|0|14|77
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|13|1|0|0|1|93
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|F|Changeup|14|1|1|0|9|84
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|B|Changeup|15|1|2|0|12|84
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|16|2|2|0|8|96
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|B|Four-Seam Fastball|17|0|0|1|12|94
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|F|Four-Seam Fastball|18|1|0|1|12|93
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|C|Changeup|19|1|1|1|12|82
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|B|Changeup|20|1|2|1|13|83
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|F|Curveball|21|2|2|1|13|78
+Patrick Sandoval|L|Aristides Aquino|R|Lineout|X|Four-Seam Fastball|22|2|2|1|3|94
+Patrick Sandoval|L|Jose Iglesias|R|Flyout|B|Changeup|23|0|0|2|9|81
+Patrick Sandoval|L|Jose Iglesias|R|Flyout|B|Four-Seam Fastball|24|1|0|2|11|93
+Patrick Sandoval|L|Jose Iglesias|R|Flyout|C|Four-Seam Fastball|25|2|0|2|12|92
+Patrick Sandoval|L|Jose Iglesias|R|Flyout|S|Changeup|26|2|1|2|13|82
+Patrick Sandoval|L|Jose Iglesias|R|Flyout|X|Changeup|27|2|2|2|12|84
+Patrick Sandoval|L|Nick Senzel|R|Strikeout|B|Four-Seam Fastball|28|0|0|0|13|94
+Patrick Sandoval|L|Nick Senzel|R|Strikeout|B|Changeup|29|1|0|0|13|84
+Patrick Sandoval|L|Nick Senzel|R|Strikeout|C|Four-Seam Fastball|30|2|0|0|12|93
+Patrick Sandoval|L|Nick Senzel|R|Strikeout|S|Changeup|31|2|1|0|13|83
+Patrick Sandoval|L|Nick Senzel|R|Strikeout|S|Changeup|32|2|2|0|8|83
+Patrick Sandoval|L|Jose Peraza|R|Strikeout|C|Four-Seam Fastball|33|0|0|1|6|94
+Patrick Sandoval|L|Jose Peraza|R|Strikeout|C|Changeup|34|0|1|1|4|83
+Patrick Sandoval|L|Jose Peraza|R|Strikeout|S|Changeup|35|0|2|1|14|85
+Patrick Sandoval|L|Tucker Barnhart|R|Single|B|Four-Seam Fastball|36|0|0|2|12|92
+Patrick Sandoval|L|Tucker Barnhart|R|Single|B|Slider|37|1|0|2|13|87
+Patrick Sandoval|L|Tucker Barnhart|R|Single|D|Four-Seam Fastball|38|2|0|2|9|93
+Patrick Sandoval|L|Luis Castillo|R|Sac Bunt|X|Four-Seam Fastball|39|0|0|2|9|88
+Patrick Sandoval|L|Phillip Ervin|R|Single|*B|Changeup|40|0|0|0|13|83
+Patrick Sandoval|L|Phillip Ervin|R|Single|F|Four-Seam Fastball|41|1|0|0|12|93
+Patrick Sandoval|L|Phillip Ervin|R|Single|B|Changeup|42|1|1|0|11|84
+Patrick Sandoval|L|Phillip Ervin|R|Single|F|Four-Seam Fastball|43|2|1|0|6|94
+Patrick Sandoval|L|Phillip Ervin|R|Single|D|Changeup|44|2|2|0|3|82
+Patrick Sandoval|L|Joey Votto|L|Strikeout|S|Slider|45|0|0|0|13|86
+Patrick Sandoval|L|Joey Votto|L|Strikeout|T|Four-Seam Fastball|46|0|1|0|7|94
+Patrick Sandoval|L|Joey Votto|L|Strikeout|B|Slider|47|0|2|0|11|85
+Patrick Sandoval|L|Joey Votto|L|Strikeout|F|Four-Seam Fastball|48|1|2|0|11|94
+Patrick Sandoval|L|Joey Votto|L|Strikeout|B|Four-Seam Fastball|49|1|2|0|12|94
+Patrick Sandoval|L|Joey Votto|L|Strikeout|F|Four-Seam Fastball|50|2|2|0|5|95
+Patrick Sandoval|L|Joey Votto|L|Strikeout|C|Slider|51|2|2|0|11|85
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|*B|Slider|52|0|0|1|14|86
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|53|1|0|1|12|93
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|C|Changeup|54|2|0|1|1|83
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|55|2|1|1|12|90
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|C|Changeup|56|3|1|1|7|83
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|57|3|2|1|6|93
+Patrick Sandoval|L|Eugenio Suarez|R|Strikeout|S|Changeup|58|3|2|1|12|84
+Patrick Sandoval|L|Aristides Aquino|R|Strikeout|B|Curveball|59|0|0|2|11|75
+Patrick Sandoval|L|Aristides Aquino|R|Strikeout|S|Changeup|60|1|0|2|7|81
+Patrick Sandoval|L|Aristides Aquino|R|Strikeout|S|Four-Seam Fastball|61|1|1|2|1|93
+Patrick Sandoval|L|Aristides Aquino|R|Strikeout|S|Changeup|62|1|2|2|13|81
+Patrick Sandoval|L|Jose Iglesias|R|Groundout|B|Curveball|63|0|0|0|12|77
+Patrick Sandoval|L|Jose Iglesias|R|Groundout|S|Curveball|64|1|0|0|13|75
+Patrick Sandoval|L|Jose Iglesias|R|Groundout|F|Changeup|65|1|1|0|6|82
+Patrick Sandoval|L|Jose Iglesias|R|Groundout|B|Changeup|66|1|2|0|14|83
+Patrick Sandoval|L|Jose Iglesias|R|Groundout|X|Slider|67|2|2|0|4|84
+Patrick Sandoval|L|Nick Senzel|R|Lineout|X|Four-Seam Fastball|68|0|0|1|13|93
+Patrick Sandoval|L|Jose Peraza|R|Groundout|C|Curveball|69|0|0|2|2|74
+Patrick Sandoval|L|Jose Peraza|R|Groundout|S|Changeup|70|0|1|2|14|81
+Patrick Sandoval|L|Jose Peraza|R|Groundout|B|Changeup|71|0|2|2|13|81
+Patrick Sandoval|L|Jose Peraza|R|Groundout|B|Curveball|72|1|2|2|12|74
+Patrick Sandoval|L|Jose Peraza|R|Groundout|X|Changeup|73|2|2|2|12|83
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|B|Four-Seam Fastball|74|0|0|0|13|92
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|C|Four-Seam Fastball|75|1|0|0|1|91
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|S|Changeup|76|1|1|0|9|82
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|B|Four-Seam Fastball|77|1|2|0|12|92
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|B|Changeup|78|2|2|0|13|82
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|F|Four-Seam Fastball|79|3|2|0|6|94
+Patrick Sandoval|L|Tucker Barnhart|R|Strikeout|T|Changeup|80|3|2|0|5|83
+Patrick Sandoval|L|Luis Castillo|R|Strikeout|F|Four-Seam Fastball|81|0|0|1|3|91
+Patrick Sandoval|L|Luis Castillo|R|Strikeout|S|Changeup|82|0|1|1|14|82
+Patrick Sandoval|L|Luis Castillo|R|Strikeout|F|Changeup|83|0|2|1|8|82
+Patrick Sandoval|L|Luis Castillo|R|Strikeout|S|Curveball|84|0|2|1|11|76
+Patrick Sandoval|L|Phillip Ervin|R|Walk|S|Changeup|85|0|0|2|14|83
+Patrick Sandoval|L|Phillip Ervin|R|Walk|F|Four-Seam Fastball|86|0|1|2|9|90
+Patrick Sandoval|L|Phillip Ervin|R|Walk|F|Changeup|87|0|2|2|8|82
+Patrick Sandoval|L|Phillip Ervin|R|Walk|B|Changeup|88|0|2|2|14|83
+Patrick Sandoval|L|Phillip Ervin|R|Walk|B|Curveball|89|1|2|2|11|75
+Patrick Sandoval|L|Phillip Ervin|R|Walk|F|Changeup|90|2|2|2|13|81
+Patrick Sandoval|L|Phillip Ervin|R|Walk|B|Four-Seam Fastball|91|2|2|2|14|94
+Patrick Sandoval|L|Phillip Ervin|R|Walk|F|Four-Seam Fastball|92|3|2|2|14|92
+Patrick Sandoval|L|Phillip Ervin|R|Walk|B|Four-Seam Fastball|93|3|2|2|12|91
+Patrick Sandoval|L|Joey Votto|L|Single|B|Four-Seam Fastball|94|0|0|2|14|92
+Patrick Sandoval|L|Joey Votto|L|Single|D|Slider|95|1|0|2|6|84
+Patrick Sandoval|L|George Springer|R|Flyout|C|Four-Seam Fastball|0|0|0|0|9|93
+Patrick Sandoval|L|George Springer|R|Flyout|B|Four-Seam Fastball|1|0|1|0|11|93
+Patrick Sandoval|L|George Springer|R|Flyout|S|Changeup|2|1|1|0|9|84
+Patrick Sandoval|L|George Springer|R|Flyout|B|Changeup|3|1|2|0|12|83
+Patrick Sandoval|L|George Springer|R|Flyout|X|Curveball|4|2|2|0|2|80
+Patrick Sandoval|L|Jose Altuve|R|Groundout|S|Curveball|5|0|0|1|13|80
+Patrick Sandoval|L|Jose Altuve|R|Groundout|C|Curveball|6|0|1|1|3|79
+Patrick Sandoval|L|Jose Altuve|R|Groundout|B|Changeup|7|0|2|1|12|85
+Patrick Sandoval|L|Jose Altuve|R|Groundout|X|Changeup|8|1|2|1|14|85
+Patrick Sandoval|L|Alex Bregman|R|Flyout|B|Four-Seam Fastball|9|0|0|2|9|94
+Patrick Sandoval|L|Alex Bregman|R|Flyout|C|Curveball|10|1|0|2|5|78
+Patrick Sandoval|L|Alex Bregman|R|Flyout|B|Curveball|11|1|1|2|12|80
+Patrick Sandoval|L|Alex Bregman|R|Flyout|C|Four-Seam Fastball|12|2|1|2|7|93
+Patrick Sandoval|L|Alex Bregman|R|Flyout|B|Changeup|13|2|2|2|14|84
+Patrick Sandoval|L|Alex Bregman|R|Flyout|X|Changeup|14|3|2|2|14|85
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|B|Curveball|15|0|0|0|13|79
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|S|Changeup|16|1|0|0|8|82
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|B|Four-Seam Fastball|17|1|1|0|13|91
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|B|Curveball|18|2|1|0|13|78
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|C|Four-Seam Fastball|19|3|1|0|7|92
+Patrick Sandoval|L|Yordan Alvarez|L|Home Run|E|Slider|20|3|2|0|1|88
+Patrick Sandoval|L|Yuli Gurriel|R|Hit By Pitch|C|Curveball|21|0|0|0|12|80
+Patrick Sandoval|L|Yuli Gurriel|R|Hit By Pitch|B|Four-Seam Fastball|22|0|1|0|11|94
+Patrick Sandoval|L|Yuli Gurriel|R|Hit By Pitch|H|Four-Seam Fastball|23|1|1|0|13|91
+Patrick Sandoval|L|Carlos Correa|R|Walk|*B|Four-Seam Fastball|24|0|0|0|14|92
+Patrick Sandoval|L|Carlos Correa|R|Walk|B|Changeup|25|1|0|0|12|82
+Patrick Sandoval|L|Carlos Correa|R|Walk|C|Four-Seam Fastball|26|2|0|0|2|93
+Patrick Sandoval|L|Carlos Correa|R|Walk|B|Four-Seam Fastball|27|2|1|0|11|92
+Patrick Sandoval|L|Carlos Correa|R|Walk|B|Changeup|28|3|1|0|14|83
+Patrick Sandoval|L|Kyle Tucker|L|Fan Interference|B|Four-Seam Fastball|29|0|0|0|14|93
+Patrick Sandoval|L|Kyle Tucker|L|Fan Interference|B|Curveball|30|1|0|0|14|77
+Patrick Sandoval|L|Kyle Tucker|L|Fan Interference|E|Four-Seam Fastball|31|2|0|0|11|93
+Patrick Sandoval|L|Martin Maldonado|R|Groundout|B|Changeup|32|0|0|0|14|83
+Patrick Sandoval|L|Martin Maldonado|R|Groundout|X|Four-Seam Fastball|33|1|0|0|4|93
+Patrick Sandoval|L|Myles Straw|R|Bunt Groundout|C|Curveball|34|0|0|1|4|76
+Patrick Sandoval|L|Myles Straw|R|Bunt Groundout|X|Four-Seam Fastball|35|0|1|1|5|92
+Patrick Sandoval|L|George Springer|R|Strikeout|C|Curveball|36|0|0|2|3|78
+Patrick Sandoval|L|George Springer|R|Strikeout|B|Four-Seam Fastball|37|0|1|2|11|93
+Patrick Sandoval|L|George Springer|R|Strikeout|F|Changeup|38|1|1|2|12|83
+Patrick Sandoval|L|George Springer|R|Strikeout|B|Four-Seam Fastball|39|1|2|2|11|93
+Patrick Sandoval|L|George Springer|R|Strikeout|F|Four-Seam Fastball|40|2|2|2|4|94
+Patrick Sandoval|L|George Springer|R|Strikeout|S|Curveball|41|2|2|2|3|78
+Patrick Sandoval|L|Jose Altuve|R|Flyout|F|Four-Seam Fastball|42|0|0|0|1|91
+Patrick Sandoval|L|Jose Altuve|R|Flyout|B|Changeup|43|0|1|0|12|82
+Patrick Sandoval|L|Jose Altuve|R|Flyout|X|Changeup|44|1|1|0|14|81
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Curveball|45|0|0|1|9|78
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Changeup|46|1|0|1|12|84
+Patrick Sandoval|L|Alex Bregman|R|Walk|C|Curveball|47|2|0|1|2|77
+Patrick Sandoval|L|Alex Bregman|R|Walk|C|Curveball|48|2|1|1|12|79
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|49|2|2|1|12|93
+Patrick Sandoval|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|50|3|2|1|11|94
+Patrick Sandoval|L|Yordan Alvarez|L|Grounded Into DP|F|Four-Seam Fastball|51|0|0|1|5|93
+Patrick Sandoval|L|Yordan Alvarez|L|Grounded Into DP|F|Four-Seam Fastball|52|0|1|1|1|92
+Patrick Sandoval|L|Yordan Alvarez|L|Grounded Into DP|F|Curveball|53|0|2|1|14|79
+Patrick Sandoval|L|Yordan Alvarez|L|Grounded Into DP|F|Changeup|54|0|2|1|14|86
+Patrick Sandoval|L|Yordan Alvarez|L|Grounded Into DP|X|Slider|55|0|2|1|4|85
+Patrick Sandoval|L|Marcus Semien|R|Groundout|C|Four-Seam Fastball|0|0|0|0|14|92
+Patrick Sandoval|L|Marcus Semien|R|Groundout|B|Four-Seam Fastball|1|0|1|0|13|92
+Patrick Sandoval|L|Marcus Semien|R|Groundout|F|Changeup|2|1|1|0|12|83
+Patrick Sandoval|L|Marcus Semien|R|Groundout|B|Changeup|3|1|2|0|14|82
+Patrick Sandoval|L|Marcus Semien|R|Groundout|X|Four-Seam Fastball|4|2|2|0|11|93
+Patrick Sandoval|L|Matt Chapman|R|Walk|C|Curveball|5|0|0|1|4|79
+Patrick Sandoval|L|Matt Chapman|R|Walk|B|Changeup|6|0|1|1|14|82
+Patrick Sandoval|L|Matt Chapman|R|Walk|B|Four-Seam Fastball|7|1|1|1|13|93
+Patrick Sandoval|L|Matt Chapman|R|Walk|B|Changeup|8|2|1|1|13|84
+Patrick Sandoval|L|Matt Chapman|R|Walk|B|Four-Seam Fastball|9|3|1|1|11|92
+Patrick Sandoval|L|Matt Olson|L|Forceout|B|Four-Seam Fastball|10|0|0|1|12|93
+Patrick Sandoval|L|Matt Olson|L|Forceout|C|Four-Seam Fastball|11|1|0|1|11|94
+Patrick Sandoval|L|Matt Olson|L|Forceout|B|Slider|12|1|1|1|12|87
+Patrick Sandoval|L|Matt Olson|L|Forceout|X|Changeup|13|2|1|1|13|84
+Patrick Sandoval|L|Mark Canha|R|Forceout|C|Curveball|14|0|0|2|5|78
+Patrick Sandoval|L|Mark Canha|R|Forceout|B|Four-Seam Fastball|15|0|1|2|13|93
+Patrick Sandoval|L|Mark Canha|R|Forceout|S|Changeup|16|1|1|2|14|84
+Patrick Sandoval|L|Mark Canha|R|Forceout|*B|Changeup|17|1|2|2|14|84
+Patrick Sandoval|L|Mark Canha|R|Forceout|X|Curveball|18|2|2|2|6|78
+Patrick Sandoval|L|Khris Davis|R|Groundout|B|Changeup|19|0|0|0|14|82
+Patrick Sandoval|L|Khris Davis|R|Groundout|B|Four-Seam Fastball|20|1|0|0|13|91
+Patrick Sandoval|L|Khris Davis|R|Groundout|B|Changeup|21|2|0|0|13|84
+Patrick Sandoval|L|Khris Davis|R|Groundout|C|Four-Seam Fastball|22|3|0|0|7|93
+Patrick Sandoval|L|Khris Davis|R|Groundout|C|Curveball|23|3|1|0|3|78
+Patrick Sandoval|L|Khris Davis|R|Groundout|X|Changeup|24|3|2|0|9|85
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|C|Curveball|25|0|0|1|5|78
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|F|Four-Seam Fastball|26|0|1|1|1|93
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|B|Changeup|27|0|2|1|14|84
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|F|Curveball|28|1|2|1|12|78
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|B|Changeup|29|1|2|1|13|85
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|B|Curveball|30|2|2|1|13|79
+Patrick Sandoval|L|Chad Pinder|R|Strikeout|S|Changeup|31|3|2|1|14|84
+Patrick Sandoval|L|Jurickson Profar|R|Home Run|B|Four-Seam Fastball|32|0|0|2|11|93
+Patrick Sandoval|L|Jurickson Profar|R|Home Run|E|Four-Seam Fastball|33|1|0|2|6|94
+Patrick Sandoval|L|Sean Murphy|R|Strikeout|C|Four-Seam Fastball|34|0|0|2|14|94
+Patrick Sandoval|L|Sean Murphy|R|Strikeout|B|Changeup|35|0|1|2|14|84
+Patrick Sandoval|L|Sean Murphy|R|Strikeout|S|Four-Seam Fastball|36|1|1|2|14|92
+Patrick Sandoval|L|Sean Murphy|R|Strikeout|S|Changeup|37|1|2|2|8|82
+Patrick Sandoval|L|Sheldon Neuse|R|Groundout|B|Four-Seam Fastball|38|0|0|0|12|91
+Patrick Sandoval|L|Sheldon Neuse|R|Groundout|X|Curveball|39|1|0|0|8|77
+Patrick Sandoval|L|Marcus Semien|R|Groundout|C|Four-Seam Fastball|40|0|0|1|7|92
+Patrick Sandoval|L|Marcus Semien|R|Groundout|F|Four-Seam Fastball|41|0|1|1|7|92
+Patrick Sandoval|L|Marcus Semien|R|Groundout|F|Four-Seam Fastball|42|0|2|1|12|92
+Patrick Sandoval|L|Marcus Semien|R|Groundout|X|Changeup|43|0|2|1|8|82
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|B|Four-Seam Fastball|44|0|0|2|12|92
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|C|Changeup|45|1|0|2|13|82
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|S|Changeup|46|1|1|2|9|83
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|B|Four-Seam Fastball|47|1|2|2|11|93
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|B|Changeup|48|2|2|2|14|83
+Patrick Sandoval|L|Matt Chapman|R|Strikeout|S|Four-Seam Fastball|49|3|2|2|8|93
+Patrick Sandoval|L|Matt Olson|L|Flyout|S|Slider|50|0|0|0|7|85
+Patrick Sandoval|L|Matt Olson|L|Flyout|X|Changeup|51|0|1|0|4|81
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|C|Four-Seam Fastball|0|0|0|0|7|91
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|C|Four-Seam Fastball|1|0|1|0|3|91
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|B|Four-Seam Fastball|2|0|2|0|11|93
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|B|Changeup|3|1|2|0|13|82
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|X|Four-Seam Fastball|4|2|2|0|13|93
+Patrick Sandoval|L|Danny Santana|R|Groundout|X|Curveball|5|0|0|1|7|76
+Patrick Sandoval|L|Elvis Andrus|R|Lineout|C|Four-Seam Fastball|6|0|0|2|3|91
+Patrick Sandoval|L|Elvis Andrus|R|Lineout|B|Four-Seam Fastball|7|0|1|2|14|93
+Patrick Sandoval|L|Elvis Andrus|R|Lineout|B|Changeup|8|1|1|2|13|83
+Patrick Sandoval|L|Elvis Andrus|R|Lineout|X|Four-Seam Fastball|9|2|1|2|4|93
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|B|Four-Seam Fastball|10|0|0|0|12|90
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|C|Changeup|11|1|0|0|8|81
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|B|Four-Seam Fastball|12|1|1|0|11|92
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|S|Changeup|13|2|1|0|14|83
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|W|Changeup|14|2|2|0|13|83
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|C|Four-Seam Fastball|15|0|0|1|8|93
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|B|Slider|16|0|1|1|11|84
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|F|Four-Seam Fastball|17|1|1|1|12|91
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|B|Changeup|18|1|2|1|13|83
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|F|Four-Seam Fastball|19|2|2|1|6|93
+Patrick Sandoval|L|Willie Calhoun|L|Home Run|E|Slider|20|2|2|1|5|87
+Patrick Sandoval|L|Nick Solak|R|Double|C|Four-Seam Fastball|21|0|0|1|12|93
+Patrick Sandoval|L|Nick Solak|R|Double|B|Four-Seam Fastball|22|0|1|1|13|92
+Patrick Sandoval|L|Nick Solak|R|Double|S|Changeup|23|1|1|1|8|83
+Patrick Sandoval|L|Nick Solak|R|Double|F|Changeup|24|1|2|1|14|83
+Patrick Sandoval|L|Nick Solak|R|Double|F|Four-Seam Fastball|25|1|2|1|1|94
+Patrick Sandoval|L|Nick Solak|R|Double|D|Changeup|26|1|2|1|9|84
+Patrick Sandoval|L|Logan Forsythe|R|Lineout|B|Four-Seam Fastball|27|0|0|1|13|92
+Patrick Sandoval|L|Logan Forsythe|R|Lineout|C|Four-Seam Fastball|28|1|0|1|4|92
+Patrick Sandoval|L|Logan Forsythe|R|Lineout|X|Four-Seam Fastball|29|1|1|1|8|92
+Patrick Sandoval|L|Delino DeShields|R|Double|B|Curveball|30|0|0|2|13|75
+Patrick Sandoval|L|Delino DeShields|R|Double|F|Four-Seam Fastball|31|1|0|2|1|92
+Patrick Sandoval|L|Delino DeShields|R|Double|*B|Changeup|32|1|1|2|14|84
+Patrick Sandoval|L|Delino DeShields|R|Double|B|Four-Seam Fastball|33|2|1|2|12|93
+Patrick Sandoval|L|Delino DeShields|R|Double|E|Four-Seam Fastball|34|3|1|2|4|92
+Patrick Sandoval|L|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|35|0|0|2|5|90
+Patrick Sandoval|L|Jeff Mathis|R|Strikeout|S|Changeup|36|0|1|2|14|83
+Patrick Sandoval|L|Jeff Mathis|R|Strikeout|S|Four-Seam Fastball|37|0|2|2|12|92
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|B|Curveball|38|0|0|0|7|76
+Patrick Sandoval|L|Shin-Soo Choo|L|Groundout|X|Four-Seam Fastball|39|1|0|0|13|90
+Patrick Sandoval|L|Danny Santana|R|Pop Out|B|Changeup|40|0|0|1|13|82
+Patrick Sandoval|L|Danny Santana|R|Pop Out|X|Four-Seam Fastball|41|1|0|1|2|91
+Patrick Sandoval|L|Elvis Andrus|R|Double|B|Curveball|42|0|0|2|13|76
+Patrick Sandoval|L|Elvis Andrus|R|Double|C|Changeup|43|1|0|2|8|82
+Patrick Sandoval|L|Elvis Andrus|R|Double|F|Curveball|44|1|1|2|7|77
+Patrick Sandoval|L|Elvis Andrus|R|Double|B|Four-Seam Fastball|45|1|2|2|11|92
+Patrick Sandoval|L|Elvis Andrus|R|Double|D|Changeup|46|2|2|2|13|83
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|C|Curveball|47|0|0|2|14|75
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|B|Four-Seam Fastball|48|0|1|2|13|92
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|S|Four-Seam Fastball|49|1|1|2|11|93
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|*B|Changeup|50|1|2|2|14|86
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|F|Four-Seam Fastball|51|2|2|2|11|94
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|F|Four-Seam Fastball|52|2|2|2|5|91
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|F|Curveball|53|2|2|2|5|78
+Patrick Sandoval|L|Hunter Pence|R|Strikeout|W|Changeup|54|2|2|2|14|83
+Patrick Sandoval|L|Willie Calhoun|L|Single|C|Four-Seam Fastball|55|0|0|0|1|90
+Patrick Sandoval|L|Willie Calhoun|L|Single|B|Changeup|56|0|1|0|13|82
+Patrick Sandoval|L|Willie Calhoun|L|Single|D|Changeup|57|1|1|0|13|84
+Patrick Sandoval|L|Nick Solak|R|Double|B|Four-Seam Fastball|58|0|0|0|13|92
+Patrick Sandoval|L|Nick Solak|R|Double|W|Curveball|59|1|0|0|13|77
+Patrick Sandoval|L|Nick Solak|R|Double|B|Four-Seam Fastball|60|1|1|0|12|92
+Patrick Sandoval|L|Nick Solak|R|Double|B|Curveball|61|2|1|0|13|77
+Patrick Sandoval|L|Nick Solak|R|Double|E|Four-Seam Fastball|62|3|1|0|5|92
+Patrick Sandoval|L|Logan Forsythe|R|Groundout|B|Four-Seam Fastball|63|0|0|0|14|93
+Patrick Sandoval|L|Logan Forsythe|R|Groundout|C|Four-Seam Fastball|64|1|0|0|13|93
+Patrick Sandoval|L|Logan Forsythe|R|Groundout|X|Changeup|65|1|1|0|13|84
+Patrick Sandoval|L|Delino DeShields|R|Single|B|Four-Seam Fastball|66|0|0|1|11|92
+Patrick Sandoval|L|Delino DeShields|R|Single|F|Four-Seam Fastball|67|1|0|1|2|90
+Patrick Sandoval|L|Delino DeShields|R|Single|B|Four-Seam Fastball|68|1|1|1|12|92
+Patrick Sandoval|L|Delino DeShields|R|Single|C|Changeup|69|2|1|1|13|84
+Patrick Sandoval|L|Delino DeShields|R|Single|E|Four-Seam Fastball|70|2|2|1|14|91
+Patrick Sandoval|L|Jeff Mathis|R|Single|B|Four-Seam Fastball|71|0|0|1|11|94
+Patrick Sandoval|L|Jeff Mathis|R|Single|F|Changeup|72|1|0|1|5|83
+Patrick Sandoval|L|Jeff Mathis|R|Single|D|Four-Seam Fastball|73|1|1|1|8|93

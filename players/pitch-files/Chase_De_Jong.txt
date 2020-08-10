@@ -1,0 +1,783 @@
+Chase De Jong|R|Whit Merrifield|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|90
+Chase De Jong|R|Whit Merrifield|R|Strikeout|S|Slider|1|0|1|0|14|83
+Chase De Jong|R|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|91
+Chase De Jong|R|Whit Merrifield|R|Strikeout|B|Slider|3|1|2|0|14|83
+Chase De Jong|R|Whit Merrifield|R|Strikeout|S|Four-Seam Fastball|4|2|2|0|12|91
+Chase De Jong|R|Adalberto Mondesi|L|Flyout|B|Four-Seam Fastball|5|0|0|1|11|90
+Chase De Jong|R|Adalberto Mondesi|L|Flyout|X|Changeup|6|1|0|1|7|83
+Chase De Jong|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|7|0|0|2|13|92
+Chase De Jong|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|8|1|0|2|11|91
+Chase De Jong|R|Alex Gordon|L|Walk|S|Changeup|9|2|0|2|13|83
+Chase De Jong|R|Alex Gordon|L|Walk|B|Changeup|10|2|1|2|11|83
+Chase De Jong|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|11|3|1|2|11|90
+Chase De Jong|R|Hunter Dozier|R|Pickoff 1B|B|Slider|12|0|0|2|7|81
+Chase De Jong|R|Hunter Dozier|R|Pickoff 1B|F|Four-Seam Fastball|13|1|0|2|14|89
+Chase De Jong|R|Hunter Dozier|R|Pickoff 1B|B|Four-Seam Fastball|14|1|1|2|13|91
+Chase De Jong|R|Hunter Dozier|R|Pickoff 1B|F|Four-Seam Fastball|15|2|1|2|1|89
+Chase De Jong|R|Hunter Dozier|R|Pickoff 1B|F|Slider|16|2|2|2|13|79
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Slider|17|0|0|0|8|82
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Four-Seam Fastball|18|0|1|0|7|91
+Chase De Jong|R|Hunter Dozier|R|Pop Out|B|Four-Seam Fastball|19|0|2|0|12|90
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Four-Seam Fastball|20|1|2|0|13|91
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Changeup|21|1|2|0|13|84
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Four-Seam Fastball|22|1|2|0|14|92
+Chase De Jong|R|Hunter Dozier|R|Pop Out|B|Four-Seam Fastball|23|1|2|0|14|92
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Slider|24|2|2|0|13|83
+Chase De Jong|R|Hunter Dozier|R|Pop Out|F|Changeup|25|2|2|0|13|84
+Chase De Jong|R|Hunter Dozier|R|Pop Out|X|Slider|26|2|2|0|1|82
+Chase De Jong|R|Ryan O'Hearn|L|Walk|B|Changeup|27|0|0|1|11|82
+Chase De Jong|R|Ryan O'Hearn|L|Walk|B|Changeup|28|1|0|1|13|82
+Chase De Jong|R|Ryan O'Hearn|L|Walk|F|Four-Seam Fastball|29|2|0|1|12|90
+Chase De Jong|R|Ryan O'Hearn|L|Walk|B|Changeup|30|2|1|1|11|83
+Chase De Jong|R|Ryan O'Hearn|L|Walk|B|Four-Seam Fastball|31|3|1|1|11|89
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|S|Four-Seam Fastball|32|0|0|1|2|88
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|B|Four-Seam Fastball|33|0|1|1|11|89
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|S|Slider|34|1|1|1|14|81
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|B|Four-Seam Fastball|35|1|2|1|12|90
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|F|Slider|36|2|2|1|11|80
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|S|Slider|37|2|2|1|13|82
+Chase De Jong|R|Brian Goodwin|L|Strikeout|C|Changeup|38|0|0|2|5|81
+Chase De Jong|R|Brian Goodwin|L|Strikeout|C|Four-Seam Fastball|39|0|1|2|9|90
+Chase De Jong|R|Brian Goodwin|L|Strikeout|B|Four-Seam Fastball|40|0|2|2|11|90
+Chase De Jong|R|Brian Goodwin|L|Strikeout|T|Changeup|41|1|2|2|11|83
+Chase De Jong|R|Rosell Herrera|L|Walk|C|Curveball|42|0|0|0|9|75
+Chase De Jong|R|Rosell Herrera|L|Walk|B|Slider|43|0|1|0|11|80
+Chase De Jong|R|Rosell Herrera|L|Walk|B|Four-Seam Fastball|44|1|1|0|11|88
+Chase De Jong|R|Rosell Herrera|L|Walk|B|Changeup|45|2|1|0|13|81
+Chase De Jong|R|Rosell Herrera|L|Walk|F|Four-Seam Fastball|46|3|1|0|11|88
+Chase De Jong|R|Rosell Herrera|L|Walk|B|Four-Seam Fastball|47|3|2|0|12|88
+Chase De Jong|R|Cam Gallagher|R|Strikeout|C|Four-Seam Fastball|48|0|0|0|5|87
+Chase De Jong|R|Cam Gallagher|R|Strikeout|S|Four-Seam Fastball|49|0|1|0|1|88
+Chase De Jong|R|Cam Gallagher|R|Strikeout|B|Four-Seam Fastball|50|0|2|0|12|89
+Chase De Jong|R|Cam Gallagher|R|Strikeout|S|Four-Seam Fastball|51|1|2|0|4|88
+Chase De Jong|R|Whit Merrifield|R|Strikeout|C|Four-Seam Fastball|52|0|0|1|2|89
+Chase De Jong|R|Whit Merrifield|R|Strikeout|F|Four-Seam Fastball|53|0|1|1|3|89
+Chase De Jong|R|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|54|0|2|1|11|89
+Chase De Jong|R|Whit Merrifield|R|Strikeout|C|Slider|55|1|2|1|13|82
+Chase De Jong|R|Adalberto Mondesi|L|Field Error|D|Four-Seam Fastball|56|0|0|2|5|89
+Chase De Jong|R|Alex Gordon|L|Walk|F|Four-Seam Fastball|57|0|0|2|1|88
+Chase De Jong|R|Alex Gordon|L|Walk|B|Changeup|58|0|1|2|13|83
+Chase De Jong|R|Alex Gordon|L|Walk|B|Changeup|59|1|1|2|13|82
+Chase De Jong|R|Alex Gordon|L|Walk|F|Four-Seam Fastball|60|2|1|2|5|88
+Chase De Jong|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|61|2|2|2|14|90
+Chase De Jong|R|Alex Gordon|L|Walk|F|Changeup|62|3|2|2|13|82
+Chase De Jong|R|Alex Gordon|L|Walk|F|Four-Seam Fastball|63|3|2|2|11|89
+Chase De Jong|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|64|3|2|2|14|89
+Chase De Jong|R|Hunter Dozier|R|Forceout|X|Slider|65|0|0|2|7|82
+Chase De Jong|R|Ryan O'Hearn|L|Single|D|Four-Seam Fastball|66|0|0|0|11|86
+Chase De Jong|R|Jorge Bonifacio|R|Grounded Into DP|B|Four-Seam Fastball|67|0|0|0|13|88
+Chase De Jong|R|Jorge Bonifacio|R|Grounded Into DP|B|Slider|68|1|0|0|14|81
+Chase De Jong|R|Jorge Bonifacio|R|Grounded Into DP|X|Four-Seam Fastball|69|2|0|0|11|88
+Chase De Jong|R|Brian Goodwin|L|Pop Out|B|Four-Seam Fastball|70|0|0|2|11|87
+Chase De Jong|R|Brian Goodwin|L|Pop Out|B|Changeup|71|1|0|2|11|80
+Chase De Jong|R|Brian Goodwin|L|Pop Out|X|Four-Seam Fastball|72|2|0|2|6|89
+Chase De Jong|R|Whit Merrifield|R|Double|C|Slider|0|0|0|0|8|80
+Chase De Jong|R|Whit Merrifield|R|Double|F|Four-Seam Fastball|1|0|1|0|1|89
+Chase De Jong|R|Whit Merrifield|R|Double|B|Four-Seam Fastball|2|0|2|0|11|89
+Chase De Jong|R|Whit Merrifield|R|Double|F|Four-Seam Fastball|3|1|2|0|14|89
+Chase De Jong|R|Whit Merrifield|R|Double|F|Four-Seam Fastball|4|1|2|0|12|91
+Chase De Jong|R|Whit Merrifield|R|Double|F|Slider|5|1|2|0|9|78
+Chase De Jong|R|Whit Merrifield|R|Double|F|Changeup|6|1|2|0|11|83
+Chase De Jong|R|Whit Merrifield|R|Double|B|Four-Seam Fastball|7|1|2|0|12|90
+Chase De Jong|R|Whit Merrifield|R|Double|F|Four-Seam Fastball|8|2|2|0|6|89
+Chase De Jong|R|Whit Merrifield|R|Double|D|Four-Seam Fastball|9|2|2|0|8|90
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|L|Changeup|10|0|0|0|13|80
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|C|Four-Seam Fastball|11|0|1|0|14|89
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|B|Four-Seam Fastball|12|0|2|0|14|90
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|*B|Changeup|13|1|2|0|13|81
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|F|Four-Seam Fastball|14|2|2|0|8|90
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|X|Changeup|15|2|2|0|13|83
+Chase De Jong|R|Alex Gordon|L|Groundout|F|Changeup|16|0|0|1|13|83
+Chase De Jong|R|Alex Gordon|L|Groundout|B|Four-Seam Fastball|17|0|1|1|13|90
+Chase De Jong|R|Alex Gordon|L|Groundout|B|Four-Seam Fastball|18|1|1|1|14|90
+Chase De Jong|R|Alex Gordon|L|Groundout|C|Slider|19|2|1|1|12|82
+Chase De Jong|R|Alex Gordon|L|Groundout|E|Four-Seam Fastball|20|2|2|1|11|90
+Chase De Jong|R|Salvador Perez|R|Strikeout|C|Four-Seam Fastball|21|0|0|2|8|90
+Chase De Jong|R|Salvador Perez|R|Strikeout|C|Slider|22|0|1|2|6|81
+Chase De Jong|R|Salvador Perez|R|Strikeout|S|N/A|23|0|2|2|0|0
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|C|Changeup|24|0|0|0|7|82
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|S|Slider|25|0|1|0|5|80
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|B|Curveball|26|0|2|0|11|76
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|S|Changeup|27|1|2|0|13|83
+Chase De Jong|R|Jorge Bonifacio|R|Single|D|Four-Seam Fastball|28|0|0|1|6|89
+Chase De Jong|R|Rosell Herrera|L|Groundout|B|Four-Seam Fastball|29|0|0|1|13|87
+Chase De Jong|R|Rosell Herrera|L|Groundout|B|Changeup|30|1|0|1|13|82
+Chase De Jong|R|Rosell Herrera|L|Groundout|B|Four-Seam Fastball|31|2|0|1|13|88
+Chase De Jong|R|Rosell Herrera|L|Groundout|C|Four-Seam Fastball|32|3|0|1|8|89
+Chase De Jong|R|Rosell Herrera|L|Groundout|X|Changeup|33|3|1|1|13|81
+Chase De Jong|R|Alcides Escobar|R|Single|S|Four-Seam Fastball|34|0|0|2|5|89
+Chase De Jong|R|Alcides Escobar|R|Single|E|Four-Seam Fastball|35|0|1|2|6|89
+Chase De Jong|R|Cam Gallagher|R|Single|C|Slider|36|0|0|2|4|80
+Chase De Jong|R|Cam Gallagher|R|Single|B|Slider|37|0|1|2|14|81
+Chase De Jong|R|Cam Gallagher|R|Single|B|Slider|38|1|1|2|14|81
+Chase De Jong|R|Cam Gallagher|R|Single|F|Four-Seam Fastball|39|2|1|2|4|90
+Chase De Jong|R|Cam Gallagher|R|Single|D|Slider|40|2|2|2|13|80
+Chase De Jong|R|Whit Merrifield|R|Pop Out|*B|Four-Seam Fastball|41|0|0|2|14|89
+Chase De Jong|R|Whit Merrifield|R|Pop Out|X|Four-Seam Fastball|42|1|0|2|1|89
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|F|Curveball|43|0|0|0|7|75
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|B|Changeup|44|0|1|0|13|82
+Chase De Jong|R|Adalberto Mondesi|L|Groundout|X|Changeup|45|1|1|0|4|83
+Chase De Jong|R|Alex Gordon|L|Single|B|Changeup|46|0|0|1|13|82
+Chase De Jong|R|Alex Gordon|L|Single|C|Four-Seam Fastball|47|1|0|1|13|89
+Chase De Jong|R|Alex Gordon|L|Single|B|Four-Seam Fastball|48|1|1|1|11|89
+Chase De Jong|R|Alex Gordon|L|Single|D|Changeup|49|2|1|1|13|81
+Chase De Jong|R|Salvador Perez|R|Flyout|B|Slider|50|0|0|1|11|78
+Chase De Jong|R|Salvador Perez|R|Flyout|B|Four-Seam Fastball|51|1|0|1|13|89
+Chase De Jong|R|Salvador Perez|R|Flyout|B|Changeup|52|2|0|1|11|81
+Chase De Jong|R|Salvador Perez|R|Flyout|F|Four-Seam Fastball|53|3|0|1|7|88
+Chase De Jong|R|Salvador Perez|R|Flyout|X|Slider|54|3|1|1|8|80
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|F|Changeup|55|0|0|2|9|81
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|C|Slider|56|0|1|2|2|78
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|F|Four-Seam Fastball|57|0|2|2|11|89
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|*B|Slider|58|0|2|2|14|79
+Chase De Jong|R|Ryan O'Hearn|L|Strikeout|S|Changeup|59|1|2|2|13|84
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|F|Four-Seam Fastball|60|0|0|0|6|88
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|S|Changeup|61|0|1|0|13|82
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|B|Four-Seam Fastball|62|0|2|0|12|89
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|B|Slider|63|1|2|0|14|80
+Chase De Jong|R|Jorge Bonifacio|R|Strikeout|C|Changeup|64|2|2|0|7|83
+Chase De Jong|R|Rosell Herrera|L|Single|B|Changeup|65|0|0|1|13|81
+Chase De Jong|R|Rosell Herrera|L|Single|S|Slider|66|1|0|1|14|80
+Chase De Jong|R|Rosell Herrera|L|Single|D|Changeup|67|1|1|1|13|82
+Chase De Jong|R|Alcides Escobar|R|Triple|R|Pitchout|68|0|0|1|12|82
+Chase De Jong|R|Alcides Escobar|R|Triple|E|Four-Seam Fastball|69|0|1|1|8|88
+Chase De Jong|R|Cam Gallagher|R|Double|B|Four-Seam Fastball|70|0|0|1|11|88
+Chase De Jong|R|Cam Gallagher|R|Double|B|Slider|71|1|0|1|14|80
+Chase De Jong|R|Cam Gallagher|R|Double|C|Slider|72|2|0|1|5|80
+Chase De Jong|R|Cam Gallagher|R|Double|D|Changeup|73|2|1|1|5|82
+Chase De Jong|R|Nick Martini|L|Single|C|Four-Seam Fastball|0|0|0|0|1|88
+Chase De Jong|R|Nick Martini|L|Single|B|Changeup|1|0|1|0|14|81
+Chase De Jong|R|Nick Martini|L|Single|D|Four-Seam Fastball|2|1|1|0|4|88
+Chase De Jong|R|Matt Chapman|R|Lineout|X|Four-Seam Fastball|3|0|0|0|5|87
+Chase De Jong|R|Jed Lowrie|L|Flyout|C|Changeup|4|0|0|1|7|80
+Chase De Jong|R|Jed Lowrie|L|Flyout|F|Four-Seam Fastball|5|0|1|1|6|89
+Chase De Jong|R|Jed Lowrie|L|Flyout|B|Curveball|6|0|2|1|13|76
+Chase De Jong|R|Jed Lowrie|L|Flyout|B|Slider|7|1|2|1|14|78
+Chase De Jong|R|Jed Lowrie|L|Flyout|B|Four-Seam Fastball|8|2|2|1|13|90
+Chase De Jong|R|Jed Lowrie|L|Flyout|X|Four-Seam Fastball|9|3|2|1|9|90
+Chase De Jong|R|Khris Davis|R|Lineout|B|Slider|10|0|0|2|14|79
+Chase De Jong|R|Khris Davis|R|Lineout|B|Curveball|11|1|0|2|11|76
+Chase De Jong|R|Khris Davis|R|Lineout|X|Curveball|12|2|0|2|11|77
+Chase De Jong|R|Matt Olson|L|Groundout|C|Slider|13|0|0|0|3|78
+Chase De Jong|R|Matt Olson|L|Groundout|X|Four-Seam Fastball|14|0|1|0|2|89
+Chase De Jong|R|Stephen Piscotty|R|Groundout|X|Slider|15|0|0|1|9|79
+Chase De Jong|R|Ramon Laureano|R|Lineout|C|Four-Seam Fastball|16|0|0|2|4|87
+Chase De Jong|R|Ramon Laureano|R|Lineout|B|Slider|17|0|1|2|14|80
+Chase De Jong|R|Ramon Laureano|R|Lineout|X|Four-Seam Fastball|18|1|1|2|6|89
+Chase De Jong|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|19|0|0|0|12|88
+Chase De Jong|R|Marcus Semien|R|Flyout|X|Four-Seam Fastball|20|1|0|0|6|87
+Chase De Jong|R|Jonathan Lucroy|R|Single|C|Four-Seam Fastball|21|0|0|1|14|89
+Chase De Jong|R|Jonathan Lucroy|R|Single|D|Slider|22|0|1|1|7|80
+Chase De Jong|R|Nick Martini|L|Walk|B|Changeup|23|0|0|1|11|80
+Chase De Jong|R|Nick Martini|L|Walk|C|Four-Seam Fastball|24|1|0|1|8|88
+Chase De Jong|R|Nick Martini|L|Walk|*B|Slider|25|1|1|1|14|79
+Chase De Jong|R|Nick Martini|L|Walk|B|Four-Seam Fastball|26|2|1|1|11|87
+Chase De Jong|R|Nick Martini|L|Walk|B|Four-Seam Fastball|27|3|1|1|11|87
+Chase De Jong|R|Matt Chapman|R|Grounded Into DP|C|Slider|28|0|0|1|1|79
+Chase De Jong|R|Matt Chapman|R|Grounded Into DP|B|Four-Seam Fastball|29|0|1|1|8|89
+Chase De Jong|R|Matt Chapman|R|Grounded Into DP|F|Four-Seam Fastball|30|1|1|1|6|89
+Chase De Jong|R|Matt Chapman|R|Grounded Into DP|*B|Slider|31|1|2|1|14|81
+Chase De Jong|R|Matt Chapman|R|Grounded Into DP|X|Slider|32|2|2|1|14|81
+Chase De Jong|R|Jed Lowrie|L|Groundout|C|Four-Seam Fastball|33|0|0|0|1|88
+Chase De Jong|R|Jed Lowrie|L|Groundout|X|Changeup|34|0|1|0|13|81
+Chase De Jong|R|Khris Davis|R|Flyout|B|Slider|35|0|0|1|14|80
+Chase De Jong|R|Khris Davis|R|Flyout|B|Four-Seam Fastball|36|1|0|1|14|89
+Chase De Jong|R|Khris Davis|R|Flyout|X|Changeup|37|2|0|1|7|81
+Chase De Jong|R|Matt Olson|L|Groundout|C|Slider|38|0|0|2|7|79
+Chase De Jong|R|Matt Olson|L|Groundout|F|Four-Seam Fastball|39|0|1|2|2|89
+Chase De Jong|R|Matt Olson|L|Groundout|B|Curveball|40|0|2|2|11|78
+Chase De Jong|R|Matt Olson|L|Groundout|F|Four-Seam Fastball|41|1|2|2|12|90
+Chase De Jong|R|Matt Olson|L|Groundout|X|Four-Seam Fastball|42|1|2|2|12|89
+Chase De Jong|R|Stephen Piscotty|R|Flyout|C|Four-Seam Fastball|43|0|0|0|9|87
+Chase De Jong|R|Stephen Piscotty|R|Flyout|B|Slider|44|0|1|0|14|80
+Chase De Jong|R|Stephen Piscotty|R|Flyout|F|Changeup|45|1|1|0|9|82
+Chase De Jong|R|Stephen Piscotty|R|Flyout|X|Slider|46|1|2|0|5|80
+Chase De Jong|R|Ramon Laureano|R|Single|C|Four-Seam Fastball|47|0|0|1|8|89
+Chase De Jong|R|Ramon Laureano|R|Single|F|Slider|48|0|1|1|9|80
+Chase De Jong|R|Ramon Laureano|R|Single|B|Curveball|49|0|2|1|11|76
+Chase De Jong|R|Ramon Laureano|R|Single|D|Four-Seam Fastball|50|1|2|1|11|89
+Chase De Jong|R|Marcus Semien|R|Home Run|C|Four-Seam Fastball|51|0|0|1|7|89
+Chase De Jong|R|Marcus Semien|R|Home Run|C|Four-Seam Fastball|52|0|1|1|2|89
+Chase De Jong|R|Marcus Semien|R|Home Run|B|Four-Seam Fastball|53|0|2|1|12|89
+Chase De Jong|R|Marcus Semien|R|Home Run|E|Four-Seam Fastball|54|1|2|1|2|89
+Chase De Jong|R|Jonathan Lucroy|R|Double|C|Slider|55|0|0|1|5|81
+Chase De Jong|R|Jonathan Lucroy|R|Double|B|Four-Seam Fastball|56|0|1|1|14|90
+Chase De Jong|R|Jonathan Lucroy|R|Double|D|Slider|57|1|1|1|5|81
+Chase De Jong|R|Yoan Moncada|L|Lineout|F|Four-Seam Fastball|0|0|0|0|8|90
+Chase De Jong|R|Yoan Moncada|L|Lineout|B|Four-Seam Fastball|1|0|1|0|12|89
+Chase De Jong|R|Yoan Moncada|L|Lineout|X|Four-Seam Fastball|2|1|1|0|3|89
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|B|Curveball|3|0|0|1|11|74
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|4|1|0|1|11|89
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|B|Changeup|5|1|1|1|13|80
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|F|Four-Seam Fastball|6|2|1|1|5|89
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|7|2|2|1|12|91
+Chase De Jong|R|Yolmer Sanchez|L|Strikeout|S|Four-Seam Fastball|8|3|2|1|11|89
+Chase De Jong|R|Daniel Palka|L|Walk|B|Four-Seam Fastball|9|0|0|2|13|89
+Chase De Jong|R|Daniel Palka|L|Walk|S|Changeup|10|1|0|2|13|82
+Chase De Jong|R|Daniel Palka|L|Walk|B|Four-Seam Fastball|11|1|1|2|12|91
+Chase De Jong|R|Daniel Palka|L|Walk|B|Changeup|12|2|1|2|13|81
+Chase De Jong|R|Daniel Palka|L|Walk|S|Four-Seam Fastball|13|3|1|2|6|89
+Chase De Jong|R|Daniel Palka|L|Walk|B|Four-Seam Fastball|14|3|2|2|11|89
+Chase De Jong|R|Matt Davidson|R|Strikeout|C|Four-Seam Fastball|15|0|0|2|14|88
+Chase De Jong|R|Matt Davidson|R|Strikeout|B|Four-Seam Fastball|16|0|1|2|14|89
+Chase De Jong|R|Matt Davidson|R|Strikeout|*B|Curveball|17|1|1|2|14|75
+Chase De Jong|R|Matt Davidson|R|Strikeout|C|Slider|18|2|1|2|13|80
+Chase De Jong|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|19|2|2|2|3|89
+Chase De Jong|R|Matt Davidson|R|Strikeout|W|Slider|20|2|2|2|14|81
+Chase De Jong|R|Omar Narvaez|L|Single|B|Four-Seam Fastball|21|0|0|0|13|87
+Chase De Jong|R|Omar Narvaez|L|Single|C|Four-Seam Fastball|22|1|0|0|1|88
+Chase De Jong|R|Omar Narvaez|L|Single|C|Curveball|23|1|1|0|13|74
+Chase De Jong|R|Omar Narvaez|L|Single|B|Changeup|24|1|2|0|13|83
+Chase De Jong|R|Omar Narvaez|L|Single|D|Changeup|25|2|2|0|8|82
+Chase De Jong|R|Kevan Smith|R|Grounded Into DP|X|Four-Seam Fastball|26|0|0|0|4|87
+Chase De Jong|R|Nicky Delmonico|L|Pop Out|L|Four-Seam Fastball|27|0|0|2|6|87
+Chase De Jong|R|Nicky Delmonico|L|Pop Out|X|Four-Seam Fastball|28|0|1|2|6|89
+Chase De Jong|R|Jose Rondon|R|Home Run|B|Four-Seam Fastball|29|0|0|0|11|85
+Chase De Jong|R|Jose Rondon|R|Home Run|B|Four-Seam Fastball|30|1|0|0|11|86
+Chase De Jong|R|Jose Rondon|R|Home Run|C|Four-Seam Fastball|31|2|0|0|4|85
+Chase De Jong|R|Jose Rondon|R|Home Run|E|Four-Seam Fastball|32|2|1|0|2|86
+Chase De Jong|R|Ryan Cordell|R|Flyout|T|Four-Seam Fastball|33|0|0|0|1|88
+Chase De Jong|R|Ryan Cordell|R|Flyout|B|Slider|34|0|1|0|13|79
+Chase De Jong|R|Ryan Cordell|R|Flyout|C|Slider|35|1|1|0|14|80
+Chase De Jong|R|Ryan Cordell|R|Flyout|X|Four-Seam Fastball|36|1|2|0|9|90
+Chase De Jong|R|Yoan Moncada|L|Flyout|B|Curveball|37|0|0|1|11|74
+Chase De Jong|R|Yoan Moncada|L|Flyout|B|Changeup|38|1|0|1|13|80
+Chase De Jong|R|Yoan Moncada|L|Flyout|X|Four-Seam Fastball|39|2|0|1|1|88
+Chase De Jong|R|Yolmer Sanchez|L|Flyout|B|Curveball|40|0|0|2|14|76
+Chase De Jong|R|Yolmer Sanchez|L|Flyout|C|Changeup|41|1|0|2|11|80
+Chase De Jong|R|Yolmer Sanchez|L|Flyout|B|Changeup|42|1|1|2|13|81
+Chase De Jong|R|Yolmer Sanchez|L|Flyout|X|Four-Seam Fastball|43|2|1|2|14|88
+Chase De Jong|R|Daniel Palka|L|Strikeout|C|Four-Seam Fastball|44|0|0|0|11|86
+Chase De Jong|R|Daniel Palka|L|Strikeout|C|Four-Seam Fastball|45|0|1|0|13|88
+Chase De Jong|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|46|0|2|0|11|88
+Chase De Jong|R|Daniel Palka|L|Strikeout|S|Changeup|47|1|2|0|11|82
+Chase De Jong|R|Matt Davidson|R|Pop Out|B|Slider|48|0|0|1|12|80
+Chase De Jong|R|Matt Davidson|R|Pop Out|B|Four-Seam Fastball|49|1|0|1|12|87
+Chase De Jong|R|Matt Davidson|R|Pop Out|C|Four-Seam Fastball|50|2|0|1|11|86
+Chase De Jong|R|Matt Davidson|R|Pop Out|B|Slider|51|2|1|1|13|80
+Chase De Jong|R|Matt Davidson|R|Pop Out|F|Four-Seam Fastball|52|3|1|1|11|87
+Chase De Jong|R|Matt Davidson|R|Pop Out|F|Four-Seam Fastball|53|3|2|1|4|88
+Chase De Jong|R|Matt Davidson|R|Pop Out|X|Changeup|54|3|2|1|13|81
+Chase De Jong|R|Omar Narvaez|L|Lineout|C|Four-Seam Fastball|55|0|0|2|7|88
+Chase De Jong|R|Omar Narvaez|L|Lineout|X|Four-Seam Fastball|56|0|1|2|5|89
+Chase De Jong|R|Kevan Smith|R|Home Run|E|Four-Seam Fastball|57|0|0|0|7|87
+Chase De Jong|R|Nicky Delmonico|L|Flyout|B|Changeup|58|0|0|0|13|81
+Chase De Jong|R|Nicky Delmonico|L|Flyout|X|Changeup|59|1|0|0|4|79
+Chase De Jong|R|Jose Rondon|R|Lineout|C|Slider|60|0|0|1|5|79
+Chase De Jong|R|Jose Rondon|R|Lineout|X|Slider|61|0|1|1|13|79
+Chase De Jong|R|Ryan Cordell|R|Pop Out|B|Slider|62|0|0|2|14|79
+Chase De Jong|R|Ryan Cordell|R|Pop Out|X|Four-Seam Fastball|63|1|0|2|3|88
+Chase De Jong|R|Yoan Moncada|L|Double|B|Changeup|64|0|0|0|13|80
+Chase De Jong|R|Yoan Moncada|L|Double|D|Four-Seam Fastball|65|1|0|0|2|87
+Chase De Jong|R|Yolmer Sanchez|L|Lineout|C|Four-Seam Fastball|66|0|0|0|11|86
+Chase De Jong|R|Yolmer Sanchez|L|Lineout|W|Changeup|67|0|1|0|13|82
+Chase De Jong|R|Yolmer Sanchez|L|Lineout|X|Changeup|68|0|2|0|9|82
+Chase De Jong|R|Daniel Palka|L|Strikeout|S|Changeup|69|0|0|1|13|82
+Chase De Jong|R|Daniel Palka|L|Strikeout|B|Changeup|70|0|1|1|13|83
+Chase De Jong|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|71|1|1|1|5|89
+Chase De Jong|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|72|1|2|1|4|89
+Chase De Jong|R|Matt Davidson|R|Lineout|X|Slider|73|0|0|2|7|81
+Chase De Jong|R|Brandon Nimmo|L|Walk|F|Four-Seam Fastball|0|0|0|0|9|90
+Chase De Jong|R|Brandon Nimmo|L|Walk|S|Four-Seam Fastball|1|0|1|0|2|92
+Chase De Jong|R|Brandon Nimmo|L|Walk|B|Slider|2|0|2|0|13|78
+Chase De Jong|R|Brandon Nimmo|L|Walk|B|Slider|3|1|2|0|11|80
+Chase De Jong|R|Brandon Nimmo|L|Walk|F|Curveball|4|2|2|0|13|78
+Chase De Jong|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|5|2|2|0|14|92
+Chase De Jong|R|Brandon Nimmo|L|Walk|B|Four-Seam Fastball|6|3|2|0|13|91
+Chase De Jong|R|Pete Alonso|R|Home Run|*B|Curveball|7|0|0|0|13|76
+Chase De Jong|R|Pete Alonso|R|Home Run|C|Four-Seam Fastball|8|1|0|0|5|92
+Chase De Jong|R|Pete Alonso|R|Home Run|F|Four-Seam Fastball|9|1|1|0|9|91
+Chase De Jong|R|Pete Alonso|R|Home Run|F|Four-Seam Fastball|10|1|2|0|1|91
+Chase De Jong|R|Pete Alonso|R|Home Run|F|Changeup|11|1|2|0|7|85
+Chase De Jong|R|Pete Alonso|R|Home Run|B|Slider|12|1|2|0|14|82
+Chase De Jong|R|Pete Alonso|R|Home Run|E|Four-Seam Fastball|13|2|2|0|9|92
+Chase De Jong|R|Robinson Cano|L|Single|B|Four-Seam Fastball|14|0|0|0|13|92
+Chase De Jong|R|Robinson Cano|L|Single|F|Four-Seam Fastball|15|1|0|0|4|92
+Chase De Jong|R|Robinson Cano|L|Single|B|Curveball|16|1|1|0|13|78
+Chase De Jong|R|Robinson Cano|L|Single|F|Changeup|17|2|1|0|8|85
+Chase De Jong|R|Robinson Cano|L|Single|D|Four-Seam Fastball|18|2|2|0|9|92
+Chase De Jong|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|19|0|0|0|14|90
+Chase De Jong|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|20|1|0|0|11|90
+Chase De Jong|R|Michael Conforto|L|Walk|F|Four-Seam Fastball|21|2|0|0|12|90
+Chase De Jong|R|Michael Conforto|L|Walk|B|Slider|22|2|1|0|13|79
+Chase De Jong|R|Michael Conforto|L|Walk|C|Four-Seam Fastball|23|3|1|0|2|89
+Chase De Jong|R|Michael Conforto|L|Walk|F|Four-Seam Fastball|24|3|2|0|6|91
+Chase De Jong|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|25|3|2|0|11|90
+Chase De Jong|R|J.D. Davis|R|Single|B|Four-Seam Fastball|26|0|0|0|1|91
+Chase De Jong|R|J.D. Davis|R|Single|D|Curveball|27|1|0|0|4|76
+Chase De Jong|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|28|0|0|0|11|91
+Chase De Jong|R|Jeff McNeil|L|Walk|C|Changeup|29|1|0|0|12|85
+Chase De Jong|R|Jeff McNeil|L|Walk|B|Curveball|30|1|1|0|11|77
+Chase De Jong|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|31|2|1|0|14|91
+Chase De Jong|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|32|3|1|0|3|90
+Chase De Jong|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|33|3|2|0|14|90
+Chase De Jong|R|Amed Rosario|R|Pop Out|X|Slider|34|0|0|0|6|81
+Chase De Jong|R|Travis d'Arnaud|R|Forceout|B|Slider|35|0|0|1|13|82
+Chase De Jong|R|Travis d'Arnaud|R|Forceout|C|Four-Seam Fastball|36|1|0|1|9|90
+Chase De Jong|R|Travis d'Arnaud|R|Forceout|F|Four-Seam Fastball|37|1|1|1|9|91
+Chase De Jong|R|Travis d'Arnaud|R|Forceout|B|Four-Seam Fastball|38|1|2|1|11|90
+Chase De Jong|R|Travis d'Arnaud|R|Forceout|E|Slider|39|2|2|1|9|81
+Chase De Jong|R|Wilson Ramos|R|Pop Out|B|Slider|40|0|0|2|13|80
+Chase De Jong|R|Wilson Ramos|R|Pop Out|S|Four-Seam Fastball|41|1|0|2|5|89
+Chase De Jong|R|Wilson Ramos|R|Pop Out|F|Four-Seam Fastball|42|1|1|2|1|90
+Chase De Jong|R|Wilson Ramos|R|Pop Out|B|Slider|43|1|2|2|14|81
+Chase De Jong|R|Wilson Ramos|R|Pop Out|B|Four-Seam Fastball|44|2|2|2|14|90
+Chase De Jong|R|Wilson Ramos|R|Pop Out|X|Four-Seam Fastball|45|3|2|2|1|89
+Chase De Jong|R|Yuli Gurriel|R|Groundout|C|Four-Seam Fastball|0|0|0|0|14|88
+Chase De Jong|R|Yuli Gurriel|R|Groundout|X|Slider|1|0|1|0|13|80
+Chase De Jong|R|Evan Gattis|R|Walk|B|Slider|2|0|0|1|14|81
+Chase De Jong|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|3|1|0|1|14|90
+Chase De Jong|R|Evan Gattis|R|Walk|B|Slider|4|2|0|1|11|79
+Chase De Jong|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|5|3|0|1|12|88
+Chase De Jong|R|Josh Reddick|L|Pop Out|B|Two-Seam Fastball|6|0|0|1|11|90
+Chase De Jong|R|Josh Reddick|L|Pop Out|C|Two-Seam Fastball|7|1|0|1|9|89
+Chase De Jong|R|Josh Reddick|L|Pop Out|X|Curveball|8|1|1|1|6|79
+Chase De Jong|R|Norichika Aoki|L|Single|C|Two-Seam Fastball|9|0|0|2|4|90
+Chase De Jong|R|Norichika Aoki|L|Single|B|Four-Seam Fastball|10|0|1|2|14|89
+Chase De Jong|R|Norichika Aoki|L|Single|F|Slider|11|1|1|2|6|79
+Chase De Jong|R|Norichika Aoki|L|Single|D|Four-Seam Fastball|12|1|2|2|11|90
+Chase De Jong|R|George Springer|R|Home Run|B|Slider|13|0|0|2|14|81
+Chase De Jong|R|George Springer|R|Home Run|B|Four-Seam Fastball|14|1|0|2|14|91
+Chase De Jong|R|George Springer|R|Home Run|F|Four-Seam Fastball|15|2|0|2|12|89
+Chase De Jong|R|George Springer|R|Home Run|S|Slider|16|2|1|2|14|80
+Chase De Jong|R|George Springer|R|Home Run|*B|Slider|17|2|2|2|14|80
+Chase De Jong|R|George Springer|R|Home Run|E|Curveball|18|3|2|2|5|78
+Chase De Jong|R|Chad Pinder|R|Flyout|B|Four-Seam Fastball|0|0|0|0|11|90
+Chase De Jong|R|Chad Pinder|R|Flyout|B|Curveball|1|1|0|0|13|76
+Chase De Jong|R|Chad Pinder|R|Flyout|F|Two-Seam Fastball|2|2|0|0|11|90
+Chase De Jong|R|Chad Pinder|R|Flyout|F|Changeup|3|2|1|0|13|84
+Chase De Jong|R|Chad Pinder|R|Flyout|X|Slider|4|2|2|0|13|81
+Chase De Jong|R|Jaff Decker|L|Walk|B|Two-Seam Fastball|5|0|0|1|13|93
+Chase De Jong|R|Jaff Decker|L|Walk|B|Changeup|6|1|0|1|13|85
+Chase De Jong|R|Jaff Decker|L|Walk|F|Two-Seam Fastball|7|2|0|1|11|90
+Chase De Jong|R|Jaff Decker|L|Walk|B|Four-Seam Fastball|8|2|1|1|12|91
+Chase De Jong|R|Jaff Decker|L|Walk|B|Two-Seam Fastball|9|3|1|1|11|90
+Chase De Jong|R|Adam Rosales|R|Flyout|C|Curveball|10|0|0|2|9|76
+Chase De Jong|R|Adam Rosales|R|Flyout|X|Four-Seam Fastball|11|0|1|2|5|90
+Chase De Jong|R|Jed Lowrie|L|Flyout|C|Four-Seam Fastball|12|0|0|0|8|89
+Chase De Jong|R|Jed Lowrie|L|Flyout|X|Four-Seam Fastball|13|0|1|0|9|90
+Chase De Jong|R|Ryon Healy|R|Groundout|C|Curveball|14|0|0|1|8|76
+Chase De Jong|R|Ryon Healy|R|Groundout|B|Four-Seam Fastball|15|0|1|1|14|90
+Chase De Jong|R|Ryon Healy|R|Groundout|X|Two-Seam Fastball|16|1|1|1|11|91
+Chase De Jong|R|Khris Davis|R|Walk|B|Four-Seam Fastball|17|0|0|2|14|90
+Chase De Jong|R|Khris Davis|R|Walk|B|Four-Seam Fastball|18|1|0|2|14|90
+Chase De Jong|R|Khris Davis|R|Walk|F|Four-Seam Fastball|19|2|0|2|5|89
+Chase De Jong|R|Khris Davis|R|Walk|S|Slider|20|2|1|2|14|82
+Chase De Jong|R|Khris Davis|R|Walk|B|Four-Seam Fastball|21|2|2|2|14|91
+Chase De Jong|R|Khris Davis|R|Walk|F|Slider|22|3|2|2|4|81
+Chase De Jong|R|Khris Davis|R|Walk|B|Four-Seam Fastball|23|3|2|2|11|89
+Chase De Jong|R|Trevor Plouffe|R|Pop Out|X|Four-Seam Fastball|24|0|0|2|1|89
+Chase De Jong|R|Josh Phegley|R|Lineout|X|Four-Seam Fastball|25|0|0|0|8|88
+Chase De Jong|R|Matt Joyce|L|Flyout|B|Curveball|26|0|0|1|13|76
+Chase De Jong|R|Matt Joyce|L|Flyout|C|Changeup|27|1|0|1|1|82
+Chase De Jong|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|28|1|1|1|14|90
+Chase De Jong|R|Matt Joyce|L|Flyout|C|Two-Seam Fastball|29|2|1|1|7|90
+Chase De Jong|R|Matt Joyce|L|Flyout|F|Slider|30|2|2|1|14|81
+Chase De Jong|R|Matt Joyce|L|Flyout|B|Curveball|31|2|2|1|13|76
+Chase De Jong|R|Matt Joyce|L|Flyout|X|Slider|32|3|2|1|5|81
+Chase De Jong|R|Chad Pinder|R|Flyout|C|Four-Seam Fastball|33|0|0|2|4|90
+Chase De Jong|R|Chad Pinder|R|Flyout|C|Two-Seam Fastball|34|0|1|2|13|91
+Chase De Jong|R|Chad Pinder|R|Flyout|B|Slider|35|0|2|2|14|82
+Chase De Jong|R|Chad Pinder|R|Flyout|X|Four-Seam Fastball|36|1|2|2|3|90
+Chase De Jong|R|Jaff Decker|L|Strikeout|C|Four-Seam Fastball|37|0|0|0|6|89
+Chase De Jong|R|Jaff Decker|L|Strikeout|F|Two-Seam Fastball|38|0|1|0|2|89
+Chase De Jong|R|Jaff Decker|L|Strikeout|C|Four-Seam Fastball|39|0|2|0|3|89
+Chase De Jong|R|Adam Rosales|R|Strikeout|C|Curveball|40|0|0|1|14|76
+Chase De Jong|R|Adam Rosales|R|Strikeout|F|Two-Seam Fastball|41|0|1|1|13|90
+Chase De Jong|R|Adam Rosales|R|Strikeout|B|Slider|42|0|2|1|14|82
+Chase De Jong|R|Adam Rosales|R|Strikeout|B|Four-Seam Fastball|43|1|2|1|14|89
+Chase De Jong|R|Adam Rosales|R|Strikeout|C|Slider|44|2|2|1|14|81
+Chase De Jong|R|Jed Lowrie|L|Single|B|Four-Seam Fastball|45|0|0|2|13|89
+Chase De Jong|R|Jed Lowrie|L|Single|C|Changeup|46|1|0|2|1|84
+Chase De Jong|R|Jed Lowrie|L|Single|D|Two-Seam Fastball|47|1|1|2|7|90
+Chase De Jong|R|Ryon Healy|R|Groundout|C|Four-Seam Fastball|48|0|0|2|12|88
+Chase De Jong|R|Ryon Healy|R|Groundout|*B|Slider|49|0|1|2|14|81
+Chase De Jong|R|Ryon Healy|R|Groundout|X|Four-Seam Fastball|50|1|1|2|1|88
+Chase De Jong|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|88
+Chase De Jong|R|Carlos Santana|L|Flyout|C|Changeup|1|1|0|0|8|84
+Chase De Jong|R|Carlos Santana|L|Flyout|B|Slider|2|1|1|0|14|83
+Chase De Jong|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|3|2|1|0|14|90
+Chase De Jong|R|Carlos Santana|L|Flyout|X|Two-Seam Fastball|4|3|1|0|7|90
+Chase De Jong|R|Francisco Lindor|L|Home Run|B|Two-Seam Fastball|5|0|0|1|11|92
+Chase De Jong|R|Francisco Lindor|L|Home Run|E|Changeup|6|1|0|1|6|84
+Chase De Jong|R|Michael Brantley|L|Lineout|B|Four-Seam Fastball|7|0|0|1|12|90
+Chase De Jong|R|Michael Brantley|L|Lineout|B|Two-Seam Fastball|8|1|0|1|11|91
+Chase De Jong|R|Michael Brantley|L|Lineout|X|Two-Seam Fastball|9|2|0|1|7|91
+Chase De Jong|R|Edwin Encarnacion|R|Walk|C|Slider|10|0|0|2|3|82
+Chase De Jong|R|Edwin Encarnacion|R|Walk|B|Changeup|11|0|1|2|13|86
+Chase De Jong|R|Edwin Encarnacion|R|Walk|B|Slider|12|1|1|2|14|83
+Chase De Jong|R|Edwin Encarnacion|R|Walk|B|Slider|13|2|1|2|12|81
+Chase De Jong|R|Edwin Encarnacion|R|Walk|S|Four-Seam Fastball|14|3|1|2|2|90
+Chase De Jong|R|Edwin Encarnacion|R|Walk|B|Four-Seam Fastball|15|3|2|2|14|91
+Chase De Jong|R|Jose Ramirez|L|Single|C|Four-Seam Fastball|16|0|0|2|1|89
+Chase De Jong|R|Jose Ramirez|L|Single|*B|Two-Seam Fastball|17|0|1|2|14|91
+Chase De Jong|R|Jose Ramirez|L|Single|B|Curveball|18|1|1|2|13|76
+Chase De Jong|R|Jose Ramirez|L|Single|F|Changeup|19|2|1|2|14|85
+Chase De Jong|R|Jose Ramirez|L|Single|F|Four-Seam Fastball|20|2|2|2|6|91
+Chase De Jong|R|Jose Ramirez|L|Single|D|Curveball|21|2|2|2|5|77
+Chase De Jong|R|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|22|0|0|2|11|91
+Chase De Jong|R|Jason Kipnis|L|Flyout|F|Four-Seam Fastball|23|1|0|2|5|90
+Chase De Jong|R|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|24|1|1|2|12|89
+Chase De Jong|R|Jason Kipnis|L|Flyout|S|Four-Seam Fastball|25|2|1|2|11|90
+Chase De Jong|R|Jason Kipnis|L|Flyout|F|Four-Seam Fastball|26|2|2|2|2|91
+Chase De Jong|R|Jason Kipnis|L|Flyout|X|Curveball|27|2|2|2|4|77
+Chase De Jong|R|Lonnie Chisenhall|L|Flyout|B|Four-Seam Fastball|28|0|0|0|14|89
+Chase De Jong|R|Lonnie Chisenhall|L|Flyout|S|Curveball|29|1|0|0|13|74
+Chase De Jong|R|Lonnie Chisenhall|L|Flyout|X|Four-Seam Fastball|30|1|1|0|6|88
+Chase De Jong|R|Abraham Almonte|L|Single|C|Curveball|31|0|0|1|5|76
+Chase De Jong|R|Abraham Almonte|L|Single|B|Slider|32|0|1|1|12|81
+Chase De Jong|R|Abraham Almonte|L|Single|B|Curveball|33|1|1|1|11|76
+Chase De Jong|R|Abraham Almonte|L|Single|D|Four-Seam Fastball|34|2|1|1|5|89
+Chase De Jong|R|Roberto Perez|R|Single|B|Four-Seam Fastball|35|0|0|1|13|91
+Chase De Jong|R|Roberto Perez|R|Single|B|Four-Seam Fastball|36|1|0|1|11|89
+Chase De Jong|R|Roberto Perez|R|Single|F|Four-Seam Fastball|37|2|0|1|11|89
+Chase De Jong|R|Roberto Perez|R|Single|C|Slider|38|2|1|1|13|81
+Chase De Jong|R|Roberto Perez|R|Single|F|Four-Seam Fastball|39|2|2|1|8|89
+Chase De Jong|R|Roberto Perez|R|Single|B|Curveball|40|2|2|1|13|76
+Chase De Jong|R|Roberto Perez|R|Single|F|Slider|41|3|2|1|13|80
+Chase De Jong|R|Roberto Perez|R|Single|D|Four-Seam Fastball|42|3|2|1|9|90
+Chase De Jong|R|Carlos Santana|L|Double|C|Four-Seam Fastball|43|0|0|2|9|89
+Chase De Jong|R|Carlos Santana|L|Double|B|Slider|44|0|1|2|14|81
+Chase De Jong|R|Carlos Santana|L|Double|D|Four-Seam Fastball|45|1|1|2|8|89
+Chase De Jong|R|Francisco Lindor|L|Groundout|C|Slider|46|0|0|2|3|81
+Chase De Jong|R|Francisco Lindor|L|Groundout|X|Slider|47|0|1|2|6|81
+Chase De Jong|R|Michael Brantley|L|Single|B|Four-Seam Fastball|48|0|0|0|11|88
+Chase De Jong|R|Michael Brantley|L|Single|B|Two-Seam Fastball|49|1|0|0|13|90
+Chase De Jong|R|Michael Brantley|L|Single|F|Four-Seam Fastball|50|2|0|0|5|90
+Chase De Jong|R|Michael Brantley|L|Single|D|Changeup|51|2|1|0|8|83
+Chase De Jong|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|52|0|0|0|4|89
+Chase De Jong|R|Edwin Encarnacion|R|Strikeout|S|Two-Seam Fastball|53|0|1|0|13|90
+Chase De Jong|R|Edwin Encarnacion|R|Strikeout|C|Changeup|54|0|2|0|8|85
+Chase De Jong|R|Jose Ramirez|L|Walk|B|Two-Seam Fastball|55|0|0|1|11|90
+Chase De Jong|R|Jose Ramirez|L|Walk|B|Two-Seam Fastball|56|1|0|1|13|90
+Chase De Jong|R|Jose Ramirez|L|Walk|B|Two-Seam Fastball|57|2|0|1|11|91
+Chase De Jong|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|58|3|0|1|11|88
+Chase De Jong|R|Jason Kipnis|L|Single|B|Slider|59|0|0|1|11|81
+Chase De Jong|R|Jason Kipnis|L|Single|B|Changeup|60|1|0|1|11|82
+Chase De Jong|R|Jason Kipnis|L|Single|E|Four-Seam Fastball|61|2|0|1|2|89
+Chase De Jong|R|Lonnie Chisenhall|L|Sac Fly|F|Four-Seam Fastball|62|0|0|1|5|88
+Chase De Jong|R|Lonnie Chisenhall|L|Sac Fly|S|Four-Seam Fastball|63|0|1|1|2|89
+Chase De Jong|R|Lonnie Chisenhall|L|Sac Fly|F|Four-Seam Fastball|64|0|2|1|11|90
+Chase De Jong|R|Lonnie Chisenhall|L|Sac Fly|E|Curveball|65|0|2|1|5|76
+Chase De Jong|R|Abraham Almonte|L|Triple|B|Four-Seam Fastball|66|0|0|2|12|88
+Chase De Jong|R|Abraham Almonte|L|Triple|B|Slider|67|1|0|2|14|80
+Chase De Jong|R|Abraham Almonte|L|Triple|E|Four-Seam Fastball|68|2|0|2|8|89
+Chase De Jong|R|Roberto Perez|R|Single|S|Curveball|69|0|0|2|14|75
+Chase De Jong|R|Roberto Perez|R|Single|B|Four-Seam Fastball|70|0|1|2|13|91
+Chase De Jong|R|Roberto Perez|R|Single|B|Changeup|71|1|1|2|9|85
+Chase De Jong|R|Roberto Perez|R|Single|E|Slider|72|2|1|2|6|81
+Chase De Jong|R|Delino DeShields|R|Single|C|Four-Seam Fastball|0|0|0|0|7|88
+Chase De Jong|R|Delino DeShields|R|Single|B|Two-Seam Fastball|1|0|1|0|13|90
+Chase De Jong|R|Delino DeShields|R|Single|D|Four-Seam Fastball|2|1|1|0|6|90
+Chase De Jong|R|Rougned Odor|L|Pop Out|X|Four-Seam Fastball|3|0|0|0|3|90
+Chase De Jong|R|Nomar Mazara|L|Pop Out|B|Curveball|4|0|0|1|11|75
+Chase De Jong|R|Nomar Mazara|L|Pop Out|B|Four-Seam Fastball|5|1|0|1|14|91
+Chase De Jong|R|Nomar Mazara|L|Pop Out|B|Changeup|6|2|0|1|13|85
+Chase De Jong|R|Nomar Mazara|L|Pop Out|C|Four-Seam Fastball|7|3|0|1|5|89
+Chase De Jong|R|Nomar Mazara|L|Pop Out|F|Four-Seam Fastball|8|3|1|1|14|88
+Chase De Jong|R|Nomar Mazara|L|Pop Out|X|Four-Seam Fastball|9|3|2|1|12|89
+Chase De Jong|R|Elvis Andrus|R|Strikeout|B|Slider|10|0|0|2|11|80
+Chase De Jong|R|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|11|1|0|2|11|89
+Chase De Jong|R|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|12|1|1|2|8|90
+Chase De Jong|R|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|13|1|2|2|12|91
+Chase De Jong|R|Elvis Andrus|R|Strikeout|B|Changeup|14|1|2|2|14|86
+Chase De Jong|R|Elvis Andrus|R|Strikeout|S|Changeup|15|2|2|2|11|84
+Chase De Jong|R|Carlos Gomez|R|Pop Out|C|Changeup|16|0|0|0|14|86
+Chase De Jong|R|Carlos Gomez|R|Pop Out|B|Two-Seam Fastball|17|0|1|0|13|89
+Chase De Jong|R|Carlos Gomez|R|Pop Out|S|Four-Seam Fastball|18|1|1|0|14|88
+Chase De Jong|R|Carlos Gomez|R|Pop Out|F|Four-Seam Fastball|19|1|2|0|11|90
+Chase De Jong|R|Carlos Gomez|R|Pop Out|X|Changeup|20|1|2|0|13|84
+Chase De Jong|R|Joey Gallo|L|Home Run|C|Curveball|21|0|0|1|2|74
+Chase De Jong|R|Joey Gallo|L|Home Run|B|Four-Seam Fastball|22|0|1|1|12|89
+Chase De Jong|R|Joey Gallo|L|Home Run|B|Four-Seam Fastball|23|1|1|1|12|88
+Chase De Jong|R|Joey Gallo|L|Home Run|F|Changeup|24|2|1|1|11|85
+Chase De Jong|R|Joey Gallo|L|Home Run|E|Four-Seam Fastball|25|2|2|1|2|90
+Chase De Jong|R|Mike Napoli|R|Groundout|S|Four-Seam Fastball|26|0|0|1|11|89
+Chase De Jong|R|Mike Napoli|R|Groundout|C|Four-Seam Fastball|27|0|1|1|6|89
+Chase De Jong|R|Mike Napoli|R|Groundout|X|Four-Seam Fastball|28|0|2|1|12|89
+Chase De Jong|R|Shin-Soo Choo|L|Groundout|X|Four-Seam Fastball|29|0|0|2|6|88
+Chase De Jong|R|Robinson Chirinos|R|Groundout|C|Changeup|30|0|0|0|4|86
+Chase De Jong|R|Robinson Chirinos|R|Groundout|B|Curveball|31|0|1|0|14|76
+Chase De Jong|R|Robinson Chirinos|R|Groundout|F|Curveball|32|1|1|0|5|75
+Chase De Jong|R|Robinson Chirinos|R|Groundout|B|Four-Seam Fastball|33|1|2|0|12|90
+Chase De Jong|R|Robinson Chirinos|R|Groundout|F|Changeup|34|2|2|0|11|84
+Chase De Jong|R|Robinson Chirinos|R|Groundout|X|Changeup|35|2|2|0|8|84
+Chase De Jong|R|Delino DeShields|R|Double|B|Two-Seam Fastball|36|0|0|1|11|88
+Chase De Jong|R|Delino DeShields|R|Double|F|Two-Seam Fastball|37|1|0|1|11|90
+Chase De Jong|R|Delino DeShields|R|Double|D|Curveball|38|1|1|1|9|77
+Chase De Jong|R|Rougned Odor|L|Flyout|C|Changeup|39|0|0|1|1|83
+Chase De Jong|R|Rougned Odor|L|Flyout|X|Changeup|40|0|1|1|7|84
+Chase De Jong|R|Nomar Mazara|L|Pop Out|X|Four-Seam Fastball|41|0|0|2|12|89
+Chase De Jong|R|Elvis Andrus|R|Strikeout|B|Two-Seam Fastball|42|0|0|0|13|90
+Chase De Jong|R|Elvis Andrus|R|Strikeout|C|Four-Seam Fastball|43|1|0|0|5|89
+Chase De Jong|R|Elvis Andrus|R|Strikeout|C|Four-Seam Fastball|44|1|1|0|9|89
+Chase De Jong|R|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|45|1|2|0|12|90
+Chase De Jong|R|Elvis Andrus|R|Strikeout|W|Curveball|46|1|2|0|14|78
+Chase De Jong|R|Carlos Gomez|R|Single|F|Four-Seam Fastball|47|0|0|1|9|90
+Chase De Jong|R|Carlos Gomez|R|Single|F|Four-Seam Fastball|48|0|1|1|1|91
+Chase De Jong|R|Carlos Gomez|R|Single|B|Curveball|49|0|2|1|14|77
+Chase De Jong|R|Carlos Gomez|R|Single|B|Changeup|50|1|2|1|13|86
+Chase De Jong|R|Carlos Gomez|R|Single|B|Changeup|51|2|2|1|14|84
+Chase De Jong|R|Carlos Gomez|R|Single|F|Changeup|52|3|2|1|5|83
+Chase De Jong|R|Carlos Gomez|R|Single|D|Four-Seam Fastball|53|3|2|1|6|89
+Chase De Jong|R|Joey Gallo|L|Flyout|B|Four-Seam Fastball|54|0|0|1|12|90
+Chase De Jong|R|Joey Gallo|L|Flyout|B|Changeup|55|1|0|1|14|86
+Chase De Jong|R|Joey Gallo|L|Flyout|X|Four-Seam Fastball|56|2|0|1|8|90
+Chase De Jong|R|Mike Napoli|R|Forceout|B|Four-Seam Fastball|57|0|0|2|14|90
+Chase De Jong|R|Mike Napoli|R|Forceout|X|Changeup|58|1|0|2|5|85
+Chase De Jong|R|Shin-Soo Choo|L|Groundout|C|Curveball|59|0|0|0|7|74
+Chase De Jong|R|Shin-Soo Choo|L|Groundout|X|Curveball|60|0|1|0|7|76
+Chase De Jong|R|Robinson Chirinos|R|Flyout|B|Two-Seam Fastball|61|0|0|1|14|89
+Chase De Jong|R|Robinson Chirinos|R|Flyout|X|Four-Seam Fastball|62|1|0|1|3|88
+Chase De Jong|R|Delino DeShields|R|Lineout|C|Four-Seam Fastball|63|0|0|2|8|89
+Chase De Jong|R|Delino DeShields|R|Lineout|B|Four-Seam Fastball|64|0|1|2|13|90
+Chase De Jong|R|Delino DeShields|R|Lineout|X|Four-Seam Fastball|65|1|1|2|4|90
+Chase De Jong|R|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|66|0|0|0|11|89
+Chase De Jong|R|Rougned Odor|L|Strikeout|S|Curveball|67|0|1|0|14|76
+Chase De Jong|R|Rougned Odor|L|Strikeout|S|Curveball|68|0|2|0|13|75
+Chase De Jong|R|Nomar Mazara|L|Lineout|B|Two-Seam Fastball|69|0|0|1|13|89
+Chase De Jong|R|Nomar Mazara|L|Lineout|C|Curveball|70|1|0|1|14|75
+Chase De Jong|R|Nomar Mazara|L|Lineout|X|Four-Seam Fastball|71|1|1|1|2|89
+Chase De Jong|R|Elvis Andrus|R|Groundout|B|Changeup|72|0|0|2|14|84
+Chase De Jong|R|Elvis Andrus|R|Groundout|F|Changeup|73|1|0|2|4|83
+Chase De Jong|R|Elvis Andrus|R|Groundout|X|Four-Seam Fastball|74|1|1|2|8|90
+Chase De Jong|R|Kevin Pillar|R|Single|F|Four-Seam Fastball|0|0|0|0|11|88
+Chase De Jong|R|Kevin Pillar|R|Single|D|Curveball|1|0|1|0|7|77
+Chase De Jong|R|Ezequiel Carrera|L|Single|C|Two-Seam Fastball|2|0|0|0|4|88
+Chase De Jong|R|Ezequiel Carrera|L|Single|B|Four-Seam Fastball|3|0|1|0|12|89
+Chase De Jong|R|Ezequiel Carrera|L|Single|B|Curveball|4|1|1|0|11|76
+Chase De Jong|R|Ezequiel Carrera|L|Single|B|Two-Seam Fastball|5|2|1|0|11|90
+Chase De Jong|R|Ezequiel Carrera|L|Single|C|Four-Seam Fastball|6|3|1|0|2|89
+Chase De Jong|R|Ezequiel Carrera|L|Single|F|Four-Seam Fastball|7|3|2|0|6|91
+Chase De Jong|R|Ezequiel Carrera|L|Single|D|Four-Seam Fastball|8|3|2|0|3|90
+Chase De Jong|R|Jose Bautista|R|Lineout|*B|Slider|9|0|0|0|14|82
+Chase De Jong|R|Jose Bautista|R|Lineout|B|Four-Seam Fastball|10|1|0|0|14|92
+Chase De Jong|R|Jose Bautista|R|Lineout|B|Changeup|11|2|0|0|14|85
+Chase De Jong|R|Jose Bautista|R|Lineout|X|Four-Seam Fastball|12|3|0|0|5|90
+Chase De Jong|R|Justin Smoak|L|Single|B|Two-Seam Fastball|13|0|0|1|14|91
+Chase De Jong|R|Justin Smoak|L|Single|B|Curveball|14|1|0|1|14|76
+Chase De Jong|R|Justin Smoak|L|Single|B|Four-Seam Fastball|15|2|0|1|14|90
+Chase De Jong|R|Justin Smoak|L|Single|C|Four-Seam Fastball|16|3|0|1|5|89
+Chase De Jong|R|Justin Smoak|L|Single|E|Four-Seam Fastball|17|3|1|1|5|89
+Chase De Jong|R|Steve Pearce|R|Grounded Into DP|B|Changeup|18|0|0|1|11|83
+Chase De Jong|R|Steve Pearce|R|Grounded Into DP|X|Four-Seam Fastball|19|1|0|1|3|91
+Chase De Jong|R|Ryan Goins|L|Groundout|C|Two-Seam Fastball|20|0|0|0|7|87
+Chase De Jong|R|Ryan Goins|L|Groundout|C|Curveball|21|0|1|0|13|76
+Chase De Jong|R|Ryan Goins|L|Groundout|B|Curveball|22|0|2|0|12|77
+Chase De Jong|R|Ryan Goins|L|Groundout|B|Four-Seam Fastball|23|1|2|0|12|91
+Chase De Jong|R|Ryan Goins|L|Groundout|X|Changeup|24|2|2|0|1|86
+Chase De Jong|R|Devon Travis|R|Single|B|Four-Seam Fastball|25|0|0|1|12|89
+Chase De Jong|R|Devon Travis|R|Single|C|Changeup|26|1|0|1|5|84
+Chase De Jong|R|Devon Travis|R|Single|F|Two-Seam Fastball|27|1|1|1|13|90
+Chase De Jong|R|Devon Travis|R|Single|D|Curveball|28|1|2|1|14|78
+Chase De Jong|R|Chris Coghlan|L|Lineout|C|Four-Seam Fastball|29|0|0|1|9|89
+Chase De Jong|R|Chris Coghlan|L|Lineout|B|Four-Seam Fastball|30|0|1|1|12|89
+Chase De Jong|R|Chris Coghlan|L|Lineout|B|Changeup|31|1|1|1|13|83
+Chase De Jong|R|Chris Coghlan|L|Lineout|B|Four-Seam Fastball|32|2|1|1|14|90
+Chase De Jong|R|Chris Coghlan|L|Lineout|X|Two-Seam Fastball|33|3|1|1|1|91
+Chase De Jong|R|Luke Maile|R|Flyout|C|Four-Seam Fastball|34|0|0|2|12|89
+Chase De Jong|R|Luke Maile|R|Flyout|B|Curveball|35|0|1|2|14|78
+Chase De Jong|R|Luke Maile|R|Flyout|C|Slider|36|1|1|2|5|81
+Chase De Jong|R|Luke Maile|R|Flyout|X|Four-Seam Fastball|37|1|2|2|11|91
+Chase De Jong|R|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|38|0|0|0|11|88
+Chase De Jong|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|39|1|0|0|2|88
+Chase De Jong|R|Ezequiel Carrera|L|Strikeout|B|Four-Seam Fastball|40|0|0|1|11|89
+Chase De Jong|R|Ezequiel Carrera|L|Strikeout|C|Two-Seam Fastball|41|1|0|1|2|90
+Chase De Jong|R|Ezequiel Carrera|L|Strikeout|B|Curveball|42|1|1|1|9|77
+Chase De Jong|R|Ezequiel Carrera|L|Strikeout|C|Curveball|43|2|1|1|1|76
+Chase De Jong|R|Ezequiel Carrera|L|Strikeout|C|Curveball|44|2|2|1|12|78
+Chase De Jong|R|Jose Bautista|R|Flyout|B|Four-Seam Fastball|45|0|0|2|12|90
+Chase De Jong|R|Jose Bautista|R|Flyout|C|Curveball|46|1|0|2|2|76
+Chase De Jong|R|Jose Bautista|R|Flyout|C|Slider|47|1|1|2|6|82
+Chase De Jong|R|Jose Bautista|R|Flyout|F|Four-Seam Fastball|48|1|2|2|1|91
+Chase De Jong|R|Jose Bautista|R|Flyout|F|Curveball|49|1|2|2|4|77
+Chase De Jong|R|Jose Bautista|R|Flyout|X|Four-Seam Fastball|50|1|2|2|12|91
+Chase De Jong|R|Justin Smoak|L|Walk|B|Curveball|51|0|0|0|11|74
+Chase De Jong|R|Justin Smoak|L|Walk|B|Four-Seam Fastball|52|1|0|0|12|89
+Chase De Jong|R|Justin Smoak|L|Walk|B|Four-Seam Fastball|53|2|0|0|11|88
+Chase De Jong|R|Justin Smoak|L|Walk|C|Two-Seam Fastball|54|3|0|0|2|88
+Chase De Jong|R|Justin Smoak|L|Walk|B|Two-Seam Fastball|55|3|1|0|12|90
+Chase De Jong|R|Steve Pearce|R|Pop Out|*B|Slider|56|0|0|0|14|82
+Chase De Jong|R|Steve Pearce|R|Pop Out|F|Slider|57|1|0|0|5|81
+Chase De Jong|R|Steve Pearce|R|Pop Out|B|Four-Seam Fastball|58|1|1|0|12|89
+Chase De Jong|R|Steve Pearce|R|Pop Out|X|Changeup|59|2|1|0|4|81
+Chase De Jong|R|Ryan Goins|L|Flyout|B|Two-Seam Fastball|60|0|0|1|13|90
+Chase De Jong|R|Ryan Goins|L|Flyout|X|Curveball|61|1|0|1|5|76
+Chase De Jong|R|Devon Travis|R|Flyout|B|Four-Seam Fastball|62|0|0|2|12|89
+Chase De Jong|R|Devon Travis|R|Flyout|C|Slider|63|1|0|2|4|80
+Chase De Jong|R|Devon Travis|R|Flyout|F|Two-Seam Fastball|64|1|1|2|11|89
+Chase De Jong|R|Devon Travis|R|Flyout|X|Curveball|65|1|2|2|1|77
+Chase De Jong|R|Chris Coghlan|L|Groundout|C|Curveball|66|0|0|0|2|75
+Chase De Jong|R|Chris Coghlan|L|Groundout|X|Changeup|67|0|1|0|13|83
+Chase De Jong|R|Luke Maile|R|Pop Out|X|Four-Seam Fastball|68|0|0|1|3|88
+Chase De Jong|R|Kevin Pillar|R|Walk|C|Four-Seam Fastball|69|0|0|2|8|88
+Chase De Jong|R|Kevin Pillar|R|Walk|B|Two-Seam Fastball|70|0|1|2|13|91
+Chase De Jong|R|Kevin Pillar|R|Walk|C|Two-Seam Fastball|71|1|1|2|13|90
+Chase De Jong|R|Kevin Pillar|R|Walk|B|Curveball|72|1|2|2|14|77
+Chase De Jong|R|Kevin Pillar|R|Walk|B|Slider|73|2|2|2|14|82
+Chase De Jong|R|Kevin Pillar|R|Walk|B|Curveball|74|3|2|2|14|77
+Chase De Jong|R|Ezequiel Carrera|L|Single|F|Changeup|75|0|0|2|6|81
+Chase De Jong|R|Ezequiel Carrera|L|Single|D|Changeup|76|0|1|2|13|80
+Chase De Jong|R|Jose Bautista|R|Walk|B|Slider|77|0|0|2|3|81
+Chase De Jong|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|78|1|0|2|14|90
+Chase De Jong|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|79|2|0|2|14|91
+Chase De Jong|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|80|3|0|2|14|90
+Chase De Jong|R|Justin Smoak|L|Single|E|Curveball|81|0|0|2|13|75
+Chase De Jong|R|Steve Pearce|R|Home Run|F|Four-Seam Fastball|82|0|0|2|6|88
+Chase De Jong|R|Steve Pearce|R|Home Run|*B|Curveball|83|0|1|2|14|78
+Chase De Jong|R|Steve Pearce|R|Home Run|C|Curveball|84|1|1|2|3|77
+Chase De Jong|R|Steve Pearce|R|Home Run|F|Curveball|85|1|2|2|12|78
+Chase De Jong|R|Steve Pearce|R|Home Run|E|Four-Seam Fastball|86|1|2|2|2|91
+Chase De Jong|R|Ryan Goins|L|Groundout|X|Changeup|87|0|0|2|1|82
+Chase De Jong|R|Matt Joyce|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|5|89
+Chase De Jong|R|Matt Joyce|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|91
+Chase De Jong|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|91
+Chase De Jong|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|89
+Chase De Jong|R|Matt Joyce|L|Strikeout|S|Changeup|4|2|2|0|5|83
+Chase De Jong|R|Jed Lowrie|L|Flyout|B|Four-Seam Fastball|5|0|0|1|11|89
+Chase De Jong|R|Jed Lowrie|L|Flyout|X|Changeup|6|1|0|1|5|84
+Chase De Jong|R|Khris Davis|R|Groundout|B|Two-Seam Fastball|7|0|0|2|13|91
+Chase De Jong|R|Khris Davis|R|Groundout|F|Four-Seam Fastball|8|1|0|2|2|90
+Chase De Jong|R|Khris Davis|R|Groundout|X|Two-Seam Fastball|9|1|1|2|13|91
+Chase De Jong|R|Yonder Alonso|L|Walk|C|Four-Seam Fastball|10|0|0|0|5|88
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Changeup|11|0|1|0|13|84
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|12|1|1|0|12|89
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Two-Seam Fastball|13|2|1|0|13|90
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|14|3|1|0|14|89
+Chase De Jong|R|Ryon Healy|R|Home Run|B|Four-Seam Fastball|15|0|0|0|14|87
+Chase De Jong|R|Ryon Healy|R|Home Run|B|Slider|16|1|0|0|14|81
+Chase De Jong|R|Ryon Healy|R|Home Run|B|Four-Seam Fastball|17|2|0|0|13|90
+Chase De Jong|R|Ryon Healy|R|Home Run|C|Four-Seam Fastball|18|3|0|0|13|89
+Chase De Jong|R|Ryon Healy|R|Home Run|E|Four-Seam Fastball|19|3|1|0|8|88
+Chase De Jong|R|Mark Canha|R|Single|D|Four-Seam Fastball|20|0|0|0|6|88
+Chase De Jong|R|Stephen Vogt|L|Pop Out|B|Two-Seam Fastball|21|0|0|0|13|90
+Chase De Jong|R|Stephen Vogt|L|Pop Out|C|Changeup|22|1|0|0|11|83
+Chase De Jong|R|Stephen Vogt|L|Pop Out|X|Four-Seam Fastball|23|1|1|0|12|90
+Chase De Jong|R|Adam Rosales|R|Flyout|B|Two-Seam Fastball|24|0|0|1|13|89
+Chase De Jong|R|Adam Rosales|R|Flyout|C|Slider|25|1|0|1|8|80
+Chase De Jong|R|Adam Rosales|R|Flyout|B|Two-Seam Fastball|26|1|1|1|13|90
+Chase De Jong|R|Adam Rosales|R|Flyout|X|Four-Seam Fastball|27|2|1|1|4|89
+Chase De Jong|R|Josh Phegley|R|Groundout|C|Slider|28|0|0|2|5|80
+Chase De Jong|R|Josh Phegley|R|Groundout|X|Two-Seam Fastball|29|0|1|2|8|90
+Chase De Jong|R|Matt Joyce|L|Lineout|B|Curveball|30|0|0|0|11|74
+Chase De Jong|R|Matt Joyce|L|Lineout|X|Two-Seam Fastball|31|1|0|0|11|88
+Chase De Jong|R|Jed Lowrie|L|Pop Out|B|Four-Seam Fastball|32|0|0|1|9|90
+Chase De Jong|R|Jed Lowrie|L|Pop Out|F|Two-Seam Fastball|33|1|0|1|13|90
+Chase De Jong|R|Jed Lowrie|L|Pop Out|X|Four-Seam Fastball|34|1|1|1|9|90
+Chase De Jong|R|Khris Davis|R|Walk|B|Slider|35|0|0|2|14|80
+Chase De Jong|R|Khris Davis|R|Walk|C|Slider|36|1|0|2|14|80
+Chase De Jong|R|Khris Davis|R|Walk|T|Two-Seam Fastball|37|1|1|2|13|90
+Chase De Jong|R|Khris Davis|R|Walk|B|Two-Seam Fastball|38|1|2|2|13|91
+Chase De Jong|R|Khris Davis|R|Walk|F|Four-Seam Fastball|39|2|2|2|6|90
+Chase De Jong|R|Khris Davis|R|Walk|B|Two-Seam Fastball|40|2|2|2|13|91
+Chase De Jong|R|Khris Davis|R|Walk|F|Slider|41|3|2|2|9|81
+Chase De Jong|R|Khris Davis|R|Walk|B|Slider|42|3|2|2|14|81
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|43|0|0|2|14|89
+Chase De Jong|R|Yonder Alonso|L|Walk|C|Four-Seam Fastball|44|1|0|2|7|89
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Curveball|45|1|1|2|11|74
+Chase De Jong|R|Yonder Alonso|L|Walk|S|Slider|46|2|1|2|9|80
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Slider|47|2|2|2|14|79
+Chase De Jong|R|Yonder Alonso|L|Walk|B|Two-Seam Fastball|48|3|2|2|9|91
+Chase De Jong|R|Ryon Healy|R|Lineout|B|Four-Seam Fastball|49|0|0|2|14|90
+Chase De Jong|R|Ryon Healy|R|Lineout|F|Slider|50|1|0|2|13|80
+Chase De Jong|R|Ryon Healy|R|Lineout|X|Two-Seam Fastball|51|1|1|2|7|89
+Chase De Jong|R|Mark Canha|R|Double|C|Curveball|52|0|0|0|6|74
+Chase De Jong|R|Mark Canha|R|Double|B|Two-Seam Fastball|53|0|1|0|11|89
+Chase De Jong|R|Mark Canha|R|Double|F|Curveball|54|1|1|0|8|79
+Chase De Jong|R|Mark Canha|R|Double|D|Two-Seam Fastball|55|1|2|0|7|90
+Chase De Jong|R|Stephen Vogt|L|Double|B|Curveball|56|0|0|0|12|74
+Chase De Jong|R|Stephen Vogt|L|Double|E|Changeup|57|1|0|0|9|84
+Chase De Jong|R|Adam Rosales|R|Sac Bunt|B|Four-Seam Fastball|58|0|0|0|13|90
+Chase De Jong|R|Adam Rosales|R|Sac Bunt|X|Four-Seam Fastball|59|1|0|0|5|89
+Chase De Jong|R|Josh Phegley|R|Single|W|Curveball|60|0|0|1|13|76
+Chase De Jong|R|Josh Phegley|R|Single|E|Slider|61|0|1|1|5|79
+Chase De Jong|R|Matt Joyce|L|Groundout|B|Four-Seam Fastball|62|0|0|1|11|88
+Chase De Jong|R|Matt Joyce|L|Groundout|C|Slider|63|1|0|1|6|78
+Chase De Jong|R|Matt Joyce|L|Groundout|X|Changeup|64|1|1|1|8|84
+Chase De Jong|R|Jed Lowrie|L|Strikeout|B|Slider|65|0|0|2|12|79
+Chase De Jong|R|Jed Lowrie|L|Strikeout|F|Changeup|66|1|0|2|4|84
+Chase De Jong|R|Jed Lowrie|L|Strikeout|F|Four-Seam Fastball|67|1|1|2|3|90
+Chase De Jong|R|Jed Lowrie|L|Strikeout|S|Four-Seam Fastball|68|1|2|2|5|90
+Chase De Jong|R|Khris Davis|R|Strikeout|B|Four-Seam Fastball|69|0|0|0|14|90
+Chase De Jong|R|Khris Davis|R|Strikeout|C|Four-Seam Fastball|70|1|0|0|6|89
+Chase De Jong|R|Khris Davis|R|Strikeout|B|Four-Seam Fastball|71|1|1|0|14|89
+Chase De Jong|R|Khris Davis|R|Strikeout|F|Changeup|72|2|1|0|7|84
+Chase De Jong|R|Khris Davis|R|Strikeout|S|Four-Seam Fastball|73|2|2|0|6|90
+Chase De Jong|R|Yonder Alonso|L|Groundout|F|Changeup|74|0|0|1|5|84
+Chase De Jong|R|Yonder Alonso|L|Groundout|B|Slider|75|0|1|1|13|81
+Chase De Jong|R|Yonder Alonso|L|Groundout|T|Four-Seam Fastball|76|1|1|1|2|90
+Chase De Jong|R|Yonder Alonso|L|Groundout|X|Curveball|77|1|2|1|13|78
+Chase De Jong|R|Ryon Healy|R|Strikeout|F|Two-Seam Fastball|78|0|0|2|11|91
+Chase De Jong|R|Ryon Healy|R|Strikeout|F|Curveball|79|0|1|2|7|78
+Chase De Jong|R|Ryon Healy|R|Strikeout|B|Changeup|80|0|2|2|14|84
+Chase De Jong|R|Ryon Healy|R|Strikeout|C|Curveball|81|1|2|2|1|77
+Chase De Jong|R|Mark Canha|R|Groundout|B|Four-Seam Fastball|82|0|0|0|14|89
+Chase De Jong|R|Mark Canha|R|Groundout|C|Four-Seam Fastball|83|1|0|0|9|89
+Chase De Jong|R|Mark Canha|R|Groundout|X|Changeup|84|1|1|0|7|83
+Chase De Jong|R|Stephen Vogt|L|Single|C|Four-Seam Fastball|85|0|0|1|8|91
+Chase De Jong|R|Stephen Vogt|L|Single|B|Four-Seam Fastball|86|0|1|1|12|90
+Chase De Jong|R|Stephen Vogt|L|Single|D|Slider|87|1|1|1|8|80
+Chase De Jong|R|Adam Rosales|R|Single|B|Curveball|88|0|0|1|11|74
+Chase De Jong|R|Adam Rosales|R|Single|B|Four-Seam Fastball|89|1|0|1|13|90
+Chase De Jong|R|Adam Rosales|R|Single|C|Slider|90|2|0|1|9|80
+Chase De Jong|R|Adam Rosales|R|Single|S|Changeup|91|2|1|1|13|84
+Chase De Jong|R|Adam Rosales|R|Single|D|Four-Seam Fastball|92|2|2|1|7|91
+Chase De Jong|R|Josh Phegley|R|Flyout|F|Two-Seam Fastball|93|0|0|1|13|90
+Chase De Jong|R|Josh Phegley|R|Flyout|X|Four-Seam Fastball|94|0|1|1|14|89
+Chase De Jong|R|Matt Joyce|L|Flyout|C|Slider|95|0|0|2|3|80
+Chase De Jong|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|96|0|1|2|12|90
+Chase De Jong|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|97|1|1|2|12|89
+Chase De Jong|R|Jorge Polanco|L|Lineout|C|Four-Seam Fastball|0|0|0|0|1|89
+Chase De Jong|R|Jorge Polanco|L|Lineout|B|Four-Seam Fastball|1|0|1|0|12|91
+Chase De Jong|R|Jorge Polanco|L|Lineout|B|Changeup|2|1|1|0|13|85
+Chase De Jong|R|Jorge Polanco|L|Lineout|F|Two-Seam Fastball|3|2|1|0|4|92
+Chase De Jong|R|Jorge Polanco|L|Lineout|X|Two-Seam Fastball|4|2|2|0|2|92
+Chase De Jong|R|Chris Gimenez|R|Pop Out|C|Two-Seam Fastball|5|0|0|1|13|91
+Chase De Jong|R|Chris Gimenez|R|Pop Out|B|Curveball|6|0|1|1|11|78
+Chase De Jong|R|Chris Gimenez|R|Pop Out|C|Curveball|7|1|1|1|2|77
+Chase De Jong|R|Chris Gimenez|R|Pop Out|F|Curveball|8|1|2|1|4|78
+Chase De Jong|R|Chris Gimenez|R|Pop Out|X|Two-Seam Fastball|9|1|2|1|5|92
+Chase De Jong|R|Eddie Rosario|L|Flyout|B|Changeup|10|0|0|2|11|85
+Chase De Jong|R|Eddie Rosario|L|Flyout|S|Two-Seam Fastball|11|1|0|2|11|92
+Chase De Jong|R|Eddie Rosario|L|Flyout|X|Curveball|12|1|1|2|1|77
+Chase De Jong|R|Byron Buxton|R|Groundout|C|Four-Seam Fastball|13|0|0|0|12|90
+Chase De Jong|R|Byron Buxton|R|Groundout|F|Two-Seam Fastball|14|0|1|0|11|91
+Chase De Jong|R|Byron Buxton|R|Groundout|X|Curveball|15|0|2|0|9|78
+Chase De Jong|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|16|0|0|1|11|89
+Chase De Jong|R|Brian Dozier|R|Walk|B|Curveball|17|1|0|1|8|78
+Chase De Jong|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|18|2|0|1|11|89
+Chase De Jong|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|19|3|0|1|11|90
+Chase De Jong|R|Eduardo Escobar|L|Pop Out|B|Two-Seam Fastball|20|0|0|1|13|91
+Chase De Jong|R|Eduardo Escobar|L|Pop Out|X|Four-Seam Fastball|21|1|0|1|4|89
+Chase De Jong|R|Miguel Sano|R|Forceout|F|Four-Seam Fastball|22|0|0|2|5|90
+Chase De Jong|R|Miguel Sano|R|Forceout|B|Two-Seam Fastball|23|0|1|2|11|91
+Chase De Jong|R|Miguel Sano|R|Forceout|X|Two-Seam Fastball|24|1|1|2|4|91
+Chase De Jong|R|Robbie Grossman|L|Strikeout|B|Changeup|25|0|0|0|11|82
+Chase De Jong|R|Robbie Grossman|L|Strikeout|B|Two-Seam Fastball|26|1|0|0|11|90
+Chase De Jong|R|Robbie Grossman|L|Strikeout|F|Changeup|27|2|0|0|6|84
+Chase De Jong|R|Robbie Grossman|L|Strikeout|S|Two-Seam Fastball|28|2|1|0|7|91
+Chase De Jong|R|Robbie Grossman|L|Strikeout|B|Four-Seam Fastball|29|2|2|0|12|90
+Chase De Jong|R|Robbie Grossman|L|Strikeout|S|Two-Seam Fastball|30|3|2|0|13|91
+Chase De Jong|R|Kennys Vargas|L|Double|B|Curveball|31|0|0|1|13|77
+Chase De Jong|R|Kennys Vargas|L|Double|F|Changeup|32|1|0|1|13|85
+Chase De Jong|R|Kennys Vargas|L|Double|F|Slider|33|1|1|1|6|81
+Chase De Jong|R|Kennys Vargas|L|Double|B|Four-Seam Fastball|34|1|2|1|11|91
+Chase De Jong|R|Kennys Vargas|L|Double|D|Two-Seam Fastball|35|2|2|1|4|91
+Chase De Jong|R|Jorge Polanco|L|Flyout|F|Two-Seam Fastball|36|0|0|1|7|92
+Chase De Jong|R|Jorge Polanco|L|Flyout|X|Changeup|37|0|1|1|11|85
+Chase De Jong|R|Chris Gimenez|R|Flyout|S|Slider|38|0|0|2|5|82
+Chase De Jong|R|Chris Gimenez|R|Flyout|B|Slider|39|0|1|2|14|83
+Chase De Jong|R|Chris Gimenez|R|Flyout|X|Four-Seam Fastball|40|1|1|2|1|92
+Chase De Jong|R|Eddie Rosario|L|Walk|B|Two-Seam Fastball|41|0|0|0|11|89
+Chase De Jong|R|Eddie Rosario|L|Walk|B|Two-Seam Fastball|42|1|0|0|11|90
+Chase De Jong|R|Eddie Rosario|L|Walk|B|Changeup|43|2|0|0|11|83
+Chase De Jong|R|Eddie Rosario|L|Walk|C|Four-Seam Fastball|44|3|0|0|11|90
+Chase De Jong|R|Eddie Rosario|L|Walk|B|Two-Seam Fastball|45|3|1|0|11|90
+Chase De Jong|R|Byron Buxton|R|Strikeout|C|Two-Seam Fastball|46|0|0|0|1|91
+Chase De Jong|R|Byron Buxton|R|Strikeout|B|Slider|47|0|1|0|14|81
+Chase De Jong|R|Byron Buxton|R|Strikeout|F|Two-Seam Fastball|48|1|1|0|11|90
+Chase De Jong|R|Byron Buxton|R|Strikeout|F|Two-Seam Fastball|49|1|2|0|4|90
+Chase De Jong|R|Byron Buxton|R|Strikeout|F|Slider|50|1|2|0|9|82
+Chase De Jong|R|Byron Buxton|R|Strikeout|F|Slider|51|1|2|0|3|81
+Chase De Jong|R|Byron Buxton|R|Strikeout|S|Four-Seam Fastball|52|1|2|0|12|91
+Chase De Jong|R|Brian Dozier|R|Grounded Into DP|X|Four-Seam Fastball|53|0|0|1|2|90

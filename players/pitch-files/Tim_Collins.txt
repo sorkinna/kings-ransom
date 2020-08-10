@@ -1,0 +1,531 @@
+Tim Collins|L|Greg Bird|L|Walk|B|Four-Seam Fastball|0|0|0|1|11|91
+Tim Collins|L|Greg Bird|L|Walk|B|Four-Seam Fastball|1|1|0|1|14|92
+Tim Collins|L|Greg Bird|L|Walk|B|Four-Seam Fastball|2|2|0|1|11|91
+Tim Collins|L|Greg Bird|L|Walk|B|Four-Seam Fastball|3|3|0|1|11|90
+Tim Collins|L|Cory Spangenberg|L|Flyout|X|Four-Seam Fastball|0|0|0|0|5|92
+Tim Collins|L|Travis Jankowski|L|Strikeout|B|Four-Seam Fastball|1|0|0|1|11|93
+Tim Collins|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|2|1|0|1|7|92
+Tim Collins|L|Travis Jankowski|L|Strikeout|S|Four-Seam Fastball|3|1|1|1|2|93
+Tim Collins|L|Travis Jankowski|L|Strikeout|B|Curveball|4|1|2|1|13|76
+Tim Collins|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|5|2|2|1|8|93
+Tim Collins|L|Eric Hosmer|L|Single|C|Four-Seam Fastball|6|0|0|2|7|94
+Tim Collins|L|Eric Hosmer|L|Single|B|Curveball|7|0|1|2|13|75
+Tim Collins|L|Eric Hosmer|L|Single|F|Four-Seam Fastball|8|1|1|2|11|93
+Tim Collins|L|Eric Hosmer|L|Single|B|Curveball|9|1|2|2|12|73
+Tim Collins|L|Eric Hosmer|L|Single|B|Four-Seam Fastball|10|2|2|2|11|93
+Tim Collins|L|Eric Hosmer|L|Single|D|Four-Seam Fastball|11|3|2|2|7|93
+Tim Collins|L|Christian Villanueva|R|Strikeout|F|Four-Seam Fastball|12|0|0|2|4|92
+Tim Collins|L|Christian Villanueva|R|Strikeout|S|Four-Seam Fastball|13|0|1|2|2|93
+Tim Collins|L|Christian Villanueva|R|Strikeout|B|Four-Seam Fastball|14|0|2|2|12|93
+Tim Collins|L|Christian Villanueva|R|Strikeout|W|Curveball|15|1|2|2|13|74
+Tim Collins|L|Freddy Galvis|R|Groundout|S|Four-Seam Fastball|0|0|0|2|13|92
+Tim Collins|L|Freddy Galvis|R|Groundout|C|Changeup|1|0|1|2|9|84
+Tim Collins|L|Freddy Galvis|R|Groundout|*B|Curveball|2|0|2|2|13|76
+Tim Collins|L|Freddy Galvis|R|Groundout|F|Four-Seam Fastball|3|1|2|2|7|93
+Tim Collins|L|Freddy Galvis|R|Groundout|X|Changeup|4|1|2|2|5|85
+Tim Collins|L|Raffy Lopez|L|Flyout|C|Four-Seam Fastball|5|0|0|0|11|92
+Tim Collins|L|Raffy Lopez|L|Flyout|B|Curveball|6|0|1|0|13|75
+Tim Collins|L|Raffy Lopez|L|Flyout|S|Four-Seam Fastball|7|1|1|0|12|93
+Tim Collins|L|Raffy Lopez|L|Flyout|X|Four-Seam Fastball|8|1|2|0|3|92
+Tim Collins|L|Justin Bour|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|7|92
+Tim Collins|L|Justin Bour|L|Strikeout|F|Curveball|1|0|1|0|13|73
+Tim Collins|L|Justin Bour|L|Strikeout|F|Curveball|2|0|2|0|7|74
+Tim Collins|L|Justin Bour|L|Strikeout|B|Four-Seam Fastball|3|0|2|0|11|93
+Tim Collins|L|Justin Bour|L|Strikeout|B|Four-Seam Fastball|4|1|2|0|13|92
+Tim Collins|L|Justin Bour|L|Strikeout|W|Curveball|5|2|2|0|13|74
+Tim Collins|L|Cameron Maybin|R|Single|B|Changeup|0|0|0|0|12|82
+Tim Collins|L|Cameron Maybin|R|Single|C|Four-Seam Fastball|1|1|0|0|12|91
+Tim Collins|L|Cameron Maybin|R|Single|D|Curveball|2|1|1|0|4|73
+Tim Collins|L|Derek Dietrich|L|Lineout|L|Four-Seam Fastball|3|0|0|0|12|91
+Tim Collins|L|Derek Dietrich|L|Lineout|B|Four-Seam Fastball|4|0|1|0|13|91
+Tim Collins|L|Derek Dietrich|L|Lineout|X|Four-Seam Fastball|5|1|1|0|9|92
+Tim Collins|L|J.T. Realmuto|R|Double|C|Four-Seam Fastball|6|0|0|1|12|91
+Tim Collins|L|J.T. Realmuto|R|Double|D|Changeup|7|0|1|1|6|84
+Tim Collins|L|Justin Bour|L|Fielders Choice Out|S|Four-Seam Fastball|8|0|0|1|5|92
+Tim Collins|L|Justin Bour|L|Fielders Choice Out|C|Four-Seam Fastball|9|0|1|1|14|93
+Tim Collins|L|Justin Bour|L|Fielders Choice Out|X|Curveball|10|0|2|1|13|74
+Tim Collins|L|Nick Markakis|L|Walk|B|Curveball|0|0|0|2|13|75
+Tim Collins|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|1|1|0|2|13|92
+Tim Collins|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|2|2|0|2|13|93
+Tim Collins|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|3|3|0|2|14|93
+Tim Collins|L|Freddie Freeman|L|Single|D|Four-Seam Fastball|0|0|0|2|4|91
+Tim Collins|L|Nick Markakis|L|Grounded Into DP|C|Four-Seam Fastball|1|0|0|2|7|93
+Tim Collins|L|Nick Markakis|L|Grounded Into DP|*B|Curveball|2|0|1|2|13|75
+Tim Collins|L|Nick Markakis|L|Grounded Into DP|X|Four-Seam Fastball|3|1|1|2|13|92
+Tim Collins|L|Brandon Crawford|L|Flyout|B|Four-Seam Fastball|0|0|0|2|11|92
+Tim Collins|L|Brandon Crawford|L|Flyout|X|Four-Seam Fastball|1|1|0|2|6|92
+Tim Collins|L|Pablo Sandoval|R|Groundout|B|Four-Seam Fastball|2|0|0|0|13|93
+Tim Collins|L|Pablo Sandoval|R|Groundout|X|Changeup|3|1|0|0|14|84
+Tim Collins|L|Evan Longoria|R|Lineout|B|Curveball|4|0|0|1|13|74
+Tim Collins|L|Evan Longoria|R|Lineout|X|Four-Seam Fastball|5|1|0|1|12|92
+Tim Collins|L|Joe Panik|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|92
+Tim Collins|L|Joe Panik|L|Groundout|X|Curveball|1|0|1|0|1|74
+Tim Collins|L|Justin Smoak|R|Groundout|F|Four-Seam Fastball|0|0|0|2|2|93
+Tim Collins|L|Justin Smoak|R|Groundout|X|Curveball|1|0|1|2|5|74
+Tim Collins|L|Teoscar Hernandez|R|Single|C|Curveball|2|0|0|0|8|75
+Tim Collins|L|Teoscar Hernandez|R|Single|B|Curveball|3|0|1|0|14|75
+Tim Collins|L|Teoscar Hernandez|R|Single|B|Four-Seam Fastball|4|1|1|0|14|92
+Tim Collins|L|Teoscar Hernandez|R|Single|C|Four-Seam Fastball|5|2|1|0|9|93
+Tim Collins|L|Teoscar Hernandez|R|Single|F|Curveball|6|2|2|0|6|75
+Tim Collins|L|Teoscar Hernandez|R|Single|B|Curveball|7|2|2|0|13|76
+Tim Collins|L|Teoscar Hernandez|R|Single|D|Four-Seam Fastball|8|3|2|0|9|92
+Tim Collins|L|Yangervis Solarte|R|Pop Out|B|Four-Seam Fastball|9|0|0|0|13|93
+Tim Collins|L|Yangervis Solarte|R|Pop Out|X|Four-Seam Fastball|10|1|0|0|1|93
+Tim Collins|L|Kendrys Morales|R|Grounded Into DP|X|Four-Seam Fastball|11|0|0|1|2|93
+Tim Collins|L|Danny Valencia|R|Single|C|Four-Seam Fastball|0|0|0|0|14|91
+Tim Collins|L|Danny Valencia|R|Single|B|Four-Seam Fastball|1|0|1|0|13|93
+Tim Collins|L|Danny Valencia|R|Single|D|Four-Seam Fastball|2|1|1|0|4|91
+Tim Collins|L|Jonathan Schoop|R|Groundout|F|Changeup|3|0|0|0|2|82
+Tim Collins|L|Jonathan Schoop|R|Groundout|B|Four-Seam Fastball|4|0|1|0|13|92
+Tim Collins|L|Jonathan Schoop|R|Groundout|C|Changeup|5|1|1|0|7|82
+Tim Collins|L|Jonathan Schoop|R|Groundout|X|Curveball|6|1|2|0|5|74
+Tim Collins|L|Jace Peterson|L|Groundout|B|Curveball|7|0|0|1|13|74
+Tim Collins|L|Jace Peterson|L|Groundout|B|Four-Seam Fastball|8|1|0|1|13|93
+Tim Collins|L|Jace Peterson|L|Groundout|C|Four-Seam Fastball|9|2|0|1|7|92
+Tim Collins|L|Jace Peterson|L|Groundout|X|Four-Seam Fastball|10|2|1|1|13|93
+Tim Collins|L|Caleb Joseph|R|Flyout|X|Four-Seam Fastball|11|0|0|2|4|92
+Tim Collins|L|Andrew Knapp|R|Single|C|Four-Seam Fastball|0|0|0|1|5|91
+Tim Collins|L|Andrew Knapp|R|Single|B|Curveball|1|0|1|1|13|74
+Tim Collins|L|Andrew Knapp|R|Single|*B|Four-Seam Fastball|2|1|1|1|13|93
+Tim Collins|L|Andrew Knapp|R|Single|E|Four-Seam Fastball|3|2|1|1|8|92
+Tim Collins|L|Zach Eflin|R|Strikeout|S|Four-Seam Fastball|4|0|0|1|11|92
+Tim Collins|L|Zach Eflin|R|Strikeout|S|Four-Seam Fastball|5|0|1|1|13|92
+Tim Collins|L|Zach Eflin|R|Strikeout|W|Curveball|6|0|2|1|14|74
+Tim Collins|L|Jesmuel Valentin|R|Pop Out|C|Changeup|7|0|0|2|7|83
+Tim Collins|L|Jesmuel Valentin|R|Pop Out|B|Four-Seam Fastball|8|0|1|2|13|92
+Tim Collins|L|Jesmuel Valentin|R|Pop Out|F|Curveball|9|1|1|2|13|74
+Tim Collins|L|Jesmuel Valentin|R|Pop Out|*B|Curveball|10|1|2|2|13|75
+Tim Collins|L|Jesmuel Valentin|R|Pop Out|X|Changeup|11|2|2|2|8|83
+Tim Collins|L|Adeiny Hechavarria|R|Flyout|X|Four-Seam Fastball|0|0|0|0|7|91
+Tim Collins|L|Willy Adames|R|Groundout|C|Changeup|1|0|0|1|7|83
+Tim Collins|L|Willy Adames|R|Groundout|B|Changeup|2|0|1|1|11|81
+Tim Collins|L|Willy Adames|R|Groundout|F|Four-Seam Fastball|3|1|1|1|11|90
+Tim Collins|L|Willy Adames|R|Groundout|B|Curveball|4|1|2|1|11|73
+Tim Collins|L|Willy Adames|R|Groundout|X|Four-Seam Fastball|5|2|2|1|11|92
+Tim Collins|L|Kevin Kiermaier|L|Groundout|S|Four-Seam Fastball|6|0|0|2|13|92
+Tim Collins|L|Kevin Kiermaier|L|Groundout|B|Curveball|7|0|1|2|13|74
+Tim Collins|L|Kevin Kiermaier|L|Groundout|X|Four-Seam Fastball|8|1|1|2|4|91
+Tim Collins|L|Matt Duffy|R|Groundout|F|Slider|9|0|0|0|11|87
+Tim Collins|L|Matt Duffy|R|Groundout|X|Changeup|10|0|1|0|9|83
+Tim Collins|L|Daniel Robertson|R|Single|B|Slider|11|0|0|1|13|86
+Tim Collins|L|Daniel Robertson|R|Single|B|Changeup|12|1|0|1|14|82
+Tim Collins|L|Daniel Robertson|R|Single|B|Four-Seam Fastball|13|2|0|1|13|91
+Tim Collins|L|Daniel Robertson|R|Single|C|Four-Seam Fastball|14|3|0|1|2|90
+Tim Collins|L|Daniel Robertson|R|Single|C|Four-Seam Fastball|15|3|1|1|13|90
+Tim Collins|L|Daniel Robertson|R|Single|D|Four-Seam Fastball|16|3|2|1|11|91
+Tim Collins|L|Wilson Ramos|R|Home Run|E|Changeup|17|0|0|1|12|82
+Tim Collins|L|C.J. Cron|R|Lineout|F|Four-Seam Fastball|18|0|0|1|13|91
+Tim Collins|L|C.J. Cron|R|Lineout|X|Four-Seam Fastball|19|0|1|1|4|92
+Tim Collins|L|Jake Bauers|L|Strikeout|S|Slider|20|0|0|2|13|87
+Tim Collins|L|Jake Bauers|L|Strikeout|B|Four-Seam Fastball|21|0|1|2|12|91
+Tim Collins|L|Jake Bauers|L|Strikeout|S|Curveball|22|1|1|2|13|74
+Tim Collins|L|Jake Bauers|L|Strikeout|F|Four-Seam Fastball|23|1|2|2|7|91
+Tim Collins|L|Jake Bauers|L|Strikeout|B|Slider|24|1|2|2|13|88
+Tim Collins|L|Jake Bauers|L|Strikeout|C|Curveball|25|2|2|2|1|73
+Tim Collins|L|Cesar Hernandez|R|Flyout|C|Four-Seam Fastball|0|0|0|0|12|92
+Tim Collins|L|Cesar Hernandez|R|Flyout|S|Curveball|1|0|1|0|13|75
+Tim Collins|L|Cesar Hernandez|R|Flyout|F|Changeup|2|0|2|0|6|83
+Tim Collins|L|Cesar Hernandez|R|Flyout|X|Four-Seam Fastball|3|0|2|0|11|92
+Tim Collins|L|Rhys Hoskins|R|Walk|S|Slider|4|0|0|1|13|88
+Tim Collins|L|Rhys Hoskins|R|Walk|F|Four-Seam Fastball|5|0|1|1|13|93
+Tim Collins|L|Rhys Hoskins|R|Walk|F|Curveball|6|0|2|1|6|74
+Tim Collins|L|Rhys Hoskins|R|Walk|B|Curveball|7|0|2|1|13|77
+Tim Collins|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|8|1|2|1|13|92
+Tim Collins|L|Rhys Hoskins|R|Walk|B|Changeup|9|2|2|1|14|84
+Tim Collins|L|Rhys Hoskins|R|Walk|F|Slider|10|3|2|1|13|89
+Tim Collins|L|Rhys Hoskins|R|Walk|B|Changeup|11|3|2|1|12|84
+Tim Collins|L|Odubel Herrera|L|Groundout|B|Four-Seam Fastball|12|0|0|1|13|93
+Tim Collins|L|Odubel Herrera|L|Groundout|F|Four-Seam Fastball|13|1|0|1|13|92
+Tim Collins|L|Odubel Herrera|L|Groundout|C|Four-Seam Fastball|14|1|1|1|5|92
+Tim Collins|L|Odubel Herrera|L|Groundout|B|Curveball|15|1|2|1|12|74
+Tim Collins|L|Odubel Herrera|L|Groundout|X|Curveball|16|2|2|1|13|76
+Tim Collins|L|Carlos Santana|R|Home Run|F|Four-Seam Fastball|17|0|0|2|13|94
+Tim Collins|L|Carlos Santana|R|Home Run|B|Slider|18|0|1|2|13|89
+Tim Collins|L|Carlos Santana|R|Home Run|E|Four-Seam Fastball|19|1|1|2|11|93
+Tim Collins|L|Scott Kingery|R|Single|D|Four-Seam Fastball|20|0|0|2|13|93
+Tim Collins|L|Jesmuel Valentin|R|Groundout|C|Curveball|21|0|0|2|7|74
+Tim Collins|L|Jesmuel Valentin|R|Groundout|X|Curveball|22|0|1|2|5|75
+Tim Collins|L|Jesmuel Valentin|R|Walk|S|Changeup|0|0|0|0|7|84
+Tim Collins|L|Jesmuel Valentin|R|Walk|B|Slider|1|0|1|0|13|89
+Tim Collins|L|Jesmuel Valentin|R|Walk|B|Changeup|2|1|1|0|14|84
+Tim Collins|L|Jesmuel Valentin|R|Walk|B|Four-Seam Fastball|3|2|1|0|13|91
+Tim Collins|L|Jesmuel Valentin|R|Walk|B|Four-Seam Fastball|4|3|1|0|13|92
+Tim Collins|L|Jorge Alfaro|R|Single|S|Four-Seam Fastball|5|0|0|0|2|92
+Tim Collins|L|Jorge Alfaro|R|Single|D|Four-Seam Fastball|6|0|1|0|11|92
+Tim Collins|L|Nick Williams|L|Forceout|X|Changeup|7|0|0|0|1|84
+Tim Collins|L|Rafael Devers|L|Strikeout|F|Slider|0|0|0|0|11|88
+Tim Collins|L|Rafael Devers|L|Strikeout|C|Slider|1|0|1|0|11|88
+Tim Collins|L|Rafael Devers|L|Strikeout|B|Slider|2|0|2|0|13|88
+Tim Collins|L|Rafael Devers|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|13|93
+Tim Collins|L|Rafael Devers|L|Strikeout|S|Four-Seam Fastball|4|2|2|0|13|94
+Tim Collins|L|Brock Holt|L|Single|B|Four-Seam Fastball|5|0|0|1|14|93
+Tim Collins|L|Brock Holt|L|Single|B|Slider|6|1|0|1|13|89
+Tim Collins|L|Brock Holt|L|Single|D|Four-Seam Fastball|7|2|0|1|5|93
+Tim Collins|L|Sandy Leon|R|Strikeout|C|Changeup|8|0|0|1|14|84
+Tim Collins|L|Sandy Leon|R|Strikeout|B|Curveball|9|0|1|1|13|73
+Tim Collins|L|Sandy Leon|R|Strikeout|C|Four-Seam Fastball|10|1|1|1|14|92
+Tim Collins|L|Sandy Leon|R|Strikeout|C|Curveball|11|1|2|1|1|75
+Tim Collins|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|92
+Tim Collins|L|Xander Bogaerts|R|Walk|B|Slider|1|1|0|0|11|88
+Tim Collins|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|92
+Tim Collins|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|3|3|0|0|14|92
+Tim Collins|L|Rafael Devers|L|Grounded Into DP|X|Four-Seam Fastball|4|0|0|0|9|92
+Tim Collins|L|Eduardo Nunez|R|Double|B|Four-Seam Fastball|5|0|0|2|12|92
+Tim Collins|L|Eduardo Nunez|R|Double|F|Changeup|6|1|0|2|8|84
+Tim Collins|L|Eduardo Nunez|R|Double|S|Curveball|7|1|1|2|13|75
+Tim Collins|L|Eduardo Nunez|R|Double|D|Curveball|8|1|2|2|14|74
+Tim Collins|L|Sandy Leon|R|Walk|*B|Changeup|9|0|0|2|14|84
+Tim Collins|L|Sandy Leon|R|Walk|S|Changeup|10|1|0|2|14|84
+Tim Collins|L|Sandy Leon|R|Walk|B|Slider|11|1|1|2|13|87
+Tim Collins|L|Sandy Leon|R|Walk|F|Four-Seam Fastball|12|2|1|2|9|91
+Tim Collins|L|Sandy Leon|R|Walk|*B|Curveball|13|2|2|2|13|74
+Tim Collins|L|Sandy Leon|R|Walk|*B|Changeup|14|3|2|2|13|83
+Tim Collins|L|Blake Swihart|R|Strikeout|B|Changeup|15|0|0|2|14|84
+Tim Collins|L|Blake Swihart|R|Strikeout|*B|Four-Seam Fastball|16|1|0|2|13|92
+Tim Collins|L|Blake Swihart|R|Strikeout|S|Four-Seam Fastball|17|2|0|2|7|91
+Tim Collins|L|Blake Swihart|R|Strikeout|C|Four-Seam Fastball|18|2|1|2|14|93
+Tim Collins|L|Blake Swihart|R|Strikeout|C|Four-Seam Fastball|19|2|2|2|8|92
+Tim Collins|L|Harrison Bader|R|Pop Out|B|Curveball|0|0|0|0|13|74
+Tim Collins|L|Harrison Bader|R|Pop Out|X|Four-Seam Fastball|1|1|0|0|6|91
+Tim Collins|L|Kolten Wong|L|Single|B|Four-Seam Fastball|2|0|0|1|13|93
+Tim Collins|L|Kolten Wong|L|Single|B|Slider|3|1|0|1|11|88
+Tim Collins|L|Kolten Wong|L|Single|D|Four-Seam Fastball|4|2|0|1|2|92
+Tim Collins|L|Patrick Wisdom|R|Forceout|F|Four-Seam Fastball|5|0|0|1|13|93
+Tim Collins|L|Patrick Wisdom|R|Forceout|X|Four-Seam Fastball|6|0|1|1|2|93
+Tim Collins|L|Matt Carpenter|L|Pop Out|F|Slider|7|0|0|2|4|90
+Tim Collins|L|Matt Carpenter|L|Pop Out|F|Slider|8|0|1|2|11|90
+Tim Collins|L|Matt Carpenter|L|Pop Out|F|Four-Seam Fastball|9|0|2|2|2|93
+Tim Collins|L|Matt Carpenter|L|Pop Out|F|Curveball|10|0|2|2|3|73
+Tim Collins|L|Matt Carpenter|L|Pop Out|X|Slider|11|0|2|2|5|90
+Tim Collins|L|Greg Garcia|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|7|91
+Tim Collins|L|Greg Garcia|L|Strikeout|T|Slider|1|0|1|2|4|87
+Tim Collins|L|Greg Garcia|L|Strikeout|B|Slider|2|0|2|2|11|87
+Tim Collins|L|Greg Garcia|L|Strikeout|C|Curveball|3|1|2|2|11|74
+Tim Collins|L|Derek Dietrich|L|Strikeout|B|Slider|0|0|0|2|13|88
+Tim Collins|L|Derek Dietrich|L|Strikeout|S|Slider|1|1|0|2|13|88
+Tim Collins|L|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|2|1|1|2|7|92
+Tim Collins|L|Derek Dietrich|L|Strikeout|T|Slider|3|1|2|2|13|89
+Tim Collins|L|Nick Williams|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|91
+Tim Collins|L|Nick Williams|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|92
+Tim Collins|L|Nick Williams|L|Walk|S|Slider|2|2|0|0|13|87
+Tim Collins|L|Nick Williams|L|Walk|F|Four-Seam Fastball|3|2|1|0|7|92
+Tim Collins|L|Nick Williams|L|Walk|B|Slider|4|2|2|0|13|88
+Tim Collins|L|Nick Williams|L|Walk|F|Slider|5|3|2|0|13|89
+Tim Collins|L|Nick Williams|L|Walk|F|Four-Seam Fastball|6|3|2|0|1|91
+Tim Collins|L|Nick Williams|L|Walk|B|Slider|7|3|2|0|11|91
+Tim Collins|L|Justin Bour|L|Strikeout|B|Four-Seam Fastball|0|0|0|2|13|91
+Tim Collins|L|Justin Bour|L|Strikeout|B|Curveball|1|1|0|2|13|73
+Tim Collins|L|Justin Bour|L|Strikeout|B|Four-Seam Fastball|2|2|0|2|13|92
+Tim Collins|L|Justin Bour|L|Strikeout|C|Four-Seam Fastball|3|3|0|2|2|91
+Tim Collins|L|Justin Bour|L|Strikeout|C|Four-Seam Fastball|4|3|1|2|6|92
+Tim Collins|L|Justin Bour|L|Strikeout|C|Slider|5|3|2|2|13|88
+Tim Collins|L|Jay Bruce|L|Home Run|B|Slider|0|0|0|2|13|88
+Tim Collins|L|Jay Bruce|L|Home Run|C|Slider|1|1|0|2|5|88
+Tim Collins|L|Jay Bruce|L|Home Run|E|Four-Seam Fastball|2|1|1|2|2|92
+Tim Collins|L|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|3|0|0|2|11|92
+Tim Collins|L|Austin Jackson|R|Strikeout|S|Changeup|4|1|0|2|8|84
+Tim Collins|L|Austin Jackson|R|Strikeout|S|Changeup|5|1|1|2|3|84
+Tim Collins|L|Austin Jackson|R|Strikeout|F|Four-Seam Fastball|6|1|2|2|2|93
+Tim Collins|L|Austin Jackson|R|Strikeout|C|Four-Seam Fastball|7|1|2|2|9|93
+Tim Collins|L|Nick Williams|L|Strikeout|B|Curveball|0|0|0|0|13|75
+Tim Collins|L|Nick Williams|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|11|92
+Tim Collins|L|Nick Williams|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|7|92
+Tim Collins|L|Nick Williams|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|13|93
+Tim Collins|L|Nick Williams|L|Strikeout|S|Slider|4|2|2|0|13|89
+Tim Collins|L|Andrew Knapp|R|Strikeout|F|Changeup|5|0|0|1|1|85
+Tim Collins|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|6|0|1|1|11|93
+Tim Collins|L|Andrew Knapp|R|Strikeout|F|Four-Seam Fastball|7|1|1|1|1|93
+Tim Collins|L|Andrew Knapp|R|Strikeout|C|Curveball|8|1|2|1|7|75
+Tim Collins|L|Roman Quinn|R|Groundout|B|Four-Seam Fastball|9|0|0|2|13|92
+Tim Collins|L|Roman Quinn|R|Groundout|F|Four-Seam Fastball|10|1|0|2|11|93
+Tim Collins|L|Roman Quinn|R|Groundout|X|Changeup|11|1|1|2|7|85
+Tim Collins|L|Nick Williams|L|Strikeout|S|Slider|0|0|0|2|13|89
+Tim Collins|L|Nick Williams|L|Strikeout|F|Four-Seam Fastball|1|0|1|2|4|93
+Tim Collins|L|Nick Williams|L|Strikeout|B|Slider|2|0|2|2|11|90
+Tim Collins|L|Nick Williams|L|Strikeout|C|Slider|3|1|2|2|4|76
+Tim Collins|L|Christian Yelich|L|Groundout|F|Slider|0|0|0|2|2|89
+Tim Collins|L|Christian Yelich|L|Groundout|F|Four-Seam Fastball|1|0|1|2|12|93
+Tim Collins|L|Christian Yelich|L|Groundout|X|Curveball|2|0|2|2|13|75
+Tim Collins|L|Hernan Perez|R|Walk|B|Changeup|0|0|0|2|11|82
+Tim Collins|L|Hernan Perez|R|Walk|*B|Slider|1|1|0|2|13|89
+Tim Collins|L|Hernan Perez|R|Walk|B|Curveball|2|2|0|2|13|73
+Tim Collins|L|Hernan Perez|R|Walk|B|Four-Seam Fastball|3|3|0|2|13|92
+Tim Collins|L|Christian Yelich|L|Home Run|B|Slider|4|0|0|2|13|89
+Tim Collins|L|Christian Yelich|L|Home Run|B|Four-Seam Fastball|5|1|0|2|14|92
+Tim Collins|L|Christian Yelich|L|Home Run|E|Four-Seam Fastball|6|2|0|2|8|92
+Tim Collins|L|Travis Shaw|L|Walk|B|Four-Seam Fastball|7|0|0|2|14|92
+Tim Collins|L|Travis Shaw|L|Walk|B|Four-Seam Fastball|8|1|0|2|14|92
+Tim Collins|L|Travis Shaw|L|Walk|B|Four-Seam Fastball|9|2|0|2|13|92
+Tim Collins|L|Travis Shaw|L|Walk|C|Four-Seam Fastball|10|3|0|2|14|91
+Tim Collins|L|Travis Shaw|L|Walk|B|Four-Seam Fastball|11|3|1|2|12|92
+Tim Collins|L|Eric Thames|L|Flyout|B|Curveball|12|0|0|2|13|74
+Tim Collins|L|Eric Thames|L|Flyout|F|Four-Seam Fastball|13|1|0|2|12|92
+Tim Collins|L|Eric Thames|L|Flyout|*B|Slider|14|1|1|2|7|89
+Tim Collins|L|Eric Thames|L|Flyout|X|Four-Seam Fastball|15|2|1|2|2|92
+Tim Collins|L|Daniel Murphy|L|Flyout|S|Slider|0|0|0|2|13|89
+Tim Collins|L|Daniel Murphy|L|Flyout|X|Slider|1|0|1|2|11|89
+Tim Collins|L|Daniel Murphy|L|Strikeout|C|Slider|0|0|0|0|5|89
+Tim Collins|L|Daniel Murphy|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|93
+Tim Collins|L|Daniel Murphy|L|Strikeout|B|Curveball|2|1|1|0|13|75
+Tim Collins|L|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|11|92
+Tim Collins|L|Daniel Murphy|L|Strikeout|F|Slider|4|2|2|0|11|89
+Tim Collins|L|Daniel Murphy|L|Strikeout|C|Four-Seam Fastball|5|2|2|0|14|93
+Tim Collins|L|Jose Bautista|R|Flyout|*B|Changeup|0|0|0|2|13|83
+Tim Collins|L|Jose Bautista|R|Flyout|C|Changeup|1|1|0|2|4|83
+Tim Collins|L|Jose Bautista|R|Flyout|S|Changeup|2|1|1|2|6|84
+Tim Collins|L|Jose Bautista|R|Flyout|B|Four-Seam Fastball|3|1|2|2|12|92
+Tim Collins|L|Jose Bautista|R|Flyout|X|Four-Seam Fastball|4|2|2|2|7|91
+Tim Collins|L|Maikel Franco|R|Groundout|S|Curveball|5|0|0|0|13|73
+Tim Collins|L|Maikel Franco|R|Groundout|F|Changeup|6|0|1|0|9|83
+Tim Collins|L|Maikel Franco|R|Groundout|X|Four-Seam Fastball|7|0|2|0|5|92
+Tim Collins|L|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|8|0|0|1|11|92
+Tim Collins|L|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|9|1|0|1|13|92
+Tim Collins|L|Odubel Herrera|L|Strikeout|F|Slider|10|2|0|1|13|89
+Tim Collins|L|Odubel Herrera|L|Strikeout|S|Four-Seam Fastball|11|2|1|1|5|92
+Tim Collins|L|Odubel Herrera|L|Strikeout|S|Four-Seam Fastball|12|2|2|1|5|92
+Tim Collins|L|Asdrubal Cabrera|R|Walk|B|Four-Seam Fastball|13|0|0|2|14|93
+Tim Collins|L|Asdrubal Cabrera|R|Walk|B|Four-Seam Fastball|14|1|0|2|13|93
+Tim Collins|L|Asdrubal Cabrera|R|Walk|S|Changeup|15|2|0|2|14|84
+Tim Collins|L|Asdrubal Cabrera|R|Walk|B|Changeup|16|2|1|2|13|85
+Tim Collins|L|Asdrubal Cabrera|R|Walk|*B|Changeup|17|3|1|2|13|84
+Tim Collins|L|Nick Markakis|L|Walk|F|Four-Seam Fastball|0|0|0|2|5|92
+Tim Collins|L|Nick Markakis|L|Walk|B|Slider|1|0|1|2|13|89
+Tim Collins|L|Nick Markakis|L|Walk|*B|Four-Seam Fastball|2|1|1|2|13|93
+Tim Collins|L|Nick Markakis|L|Walk|B|Slider|3|2|1|2|3|89
+Tim Collins|L|Nick Markakis|L|Walk|B|Four-Seam Fastball|4|3|1|2|14|92
+Tim Collins|L|Charlie Culberson|R|Single|B|Four-Seam Fastball|5|0|0|2|13|92
+Tim Collins|L|Charlie Culberson|R|Single|E|Changeup|6|1|0|2|9|84
+Tim Collins|L|Ender Inciarte|L|Flyout|C|Slider|7|0|0|2|13|89
+Tim Collins|L|Ender Inciarte|L|Flyout|B|Slider|8|0|1|2|13|88
+Tim Collins|L|Ender Inciarte|L|Flyout|B|Four-Seam Fastball|9|1|1|2|13|91
+Tim Collins|L|Ender Inciarte|L|Flyout|X|Slider|10|2|1|2|5|89
+Tim Collins|L|Ender Inciarte|L|Strikeout|F|Four-Seam Fastball|0|0|0|1|11|91
+Tim Collins|L|Ender Inciarte|L|Strikeout|S|Slider|1|0|1|1|11|89
+Tim Collins|L|Ender Inciarte|L|Strikeout|T|Four-Seam Fastball|2|0|2|1|11|93
+Tim Collins|L|JT Riddle|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|91
+Tim Collins|L|JT Riddle|L|Flyout|B|Curveball|1|1|0|0|14|73
+Tim Collins|L|JT Riddle|L|Flyout|X|Four-Seam Fastball|2|2|0|0|7|90
+Tim Collins|L|Brandon Nimmo|L|Double|B|Curveball|0|0|0|0|13|76
+Tim Collins|L|Brandon Nimmo|L|Double|B|Four-Seam Fastball|1|1|0|0|11|92
+Tim Collins|L|Brandon Nimmo|L|Double|B|Four-Seam Fastball|2|2|0|0|11|91
+Tim Collins|L|Brandon Nimmo|L|Double|C|Four-Seam Fastball|3|3|0|0|1|92
+Tim Collins|L|Brandon Nimmo|L|Double|C|Four-Seam Fastball|4|3|1|0|5|92
+Tim Collins|L|Brandon Nimmo|L|Double|D|Slider|5|3|2|0|5|89
+Tim Collins|L|Jose Reyes|R|Bunt Pop Out|L|Four-Seam Fastball|6|0|0|0|13|92
+Tim Collins|L|Jose Reyes|R|Bunt Pop Out|X|Four-Seam Fastball|7|0|1|0|11|92
+Tim Collins|L|Jeff McNeil|L|Pop Out|B|Slider|0|0|0|0|11|88
+Tim Collins|L|Jeff McNeil|L|Pop Out|B|Four-Seam Fastball|1|1|0|0|12|91
+Tim Collins|L|Jeff McNeil|L|Pop Out|X|Four-Seam Fastball|2|2|0|0|3|92
+Tim Collins|L|Michael Conforto|L|Walk|B|Four-Seam Fastball|3|0|0|1|12|91
+Tim Collins|L|Michael Conforto|L|Walk|B|Slider|4|1|0|1|13|89
+Tim Collins|L|Michael Conforto|L|Walk|B|Slider|5|2|0|1|12|88
+Tim Collins|L|Michael Conforto|L|Walk|C|Four-Seam Fastball|6|3|0|1|13|91
+Tim Collins|L|Michael Conforto|L|Walk|B|Four-Seam Fastball|7|3|1|1|13|92
+Tim Collins|L|Jay Bruce|L|Strikeout|C|Four-Seam Fastball|8|0|0|1|13|92
+Tim Collins|L|Jay Bruce|L|Strikeout|*B|Curveball|9|0|1|1|13|76
+Tim Collins|L|Jay Bruce|L|Strikeout|S|Slider|10|1|1|1|13|88
+Tim Collins|L|Jay Bruce|L|Strikeout|C|Slider|11|1|2|1|7|89
+Tim Collins|L|Brandon Nimmo|L|Flyout|C|Four-Seam Fastball|12|0|0|2|7|92
+Tim Collins|L|Brandon Nimmo|L|Flyout|*B|Slider|13|0|1|2|13|90
+Tim Collins|L|Brandon Nimmo|L|Flyout|B|Four-Seam Fastball|14|1|1|2|11|91
+Tim Collins|L|Brandon Nimmo|L|Flyout|F|Four-Seam Fastball|15|2|1|2|4|92
+Tim Collins|L|Brandon Nimmo|L|Flyout|*B|Curveball|16|2|2|2|13|75
+Tim Collins|L|Brandon Nimmo|L|Flyout|F|Slider|17|3|2|2|4|87
+Tim Collins|L|Brandon Nimmo|L|Flyout|X|Four-Seam Fastball|18|3|2|2|4|91
+Tim Collins|L|Jeff McNeil|L|Flyout|F|Slider|0|0|0|0|5|88
+Tim Collins|L|Jeff McNeil|L|Flyout|B|Slider|1|0|1|0|11|87
+Tim Collins|L|Jeff McNeil|L|Flyout|S|Four-Seam Fastball|2|1|1|0|12|91
+Tim Collins|L|Jeff McNeil|L|Flyout|F|Four-Seam Fastball|3|1|2|0|12|91
+Tim Collins|L|Jeff McNeil|L|Flyout|X|Curveball|4|1|2|0|7|75
+Tim Collins|L|Michael Conforto|L|Strikeout|F|Slider|5|0|0|1|2|88
+Tim Collins|L|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|6|0|1|1|12|91
+Tim Collins|L|Michael Conforto|L|Strikeout|S|Slider|7|0|2|1|13|88
+Tim Collins|L|JT Riddle|L|Single|B|Four-Seam Fastball|0|0|0|0|11|90
+Tim Collins|L|JT Riddle|L|Single|F|Curveball|1|1|0|0|6|74
+Tim Collins|L|JT Riddle|L|Single|S|Four-Seam Fastball|2|1|1|0|5|92
+Tim Collins|L|JT Riddle|L|Single|F|Four-Seam Fastball|3|1|2|0|1|92
+Tim Collins|L|JT Riddle|L|Single|D|Slider|4|1|2|0|4|88
+Tim Collins|L|Yadiel Rivera|R|Strikeout|C|Four-Seam Fastball|5|0|0|0|8|92
+Tim Collins|L|Yadiel Rivera|R|Strikeout|F|Four-Seam Fastball|6|0|1|0|5|92
+Tim Collins|L|Yadiel Rivera|R|Strikeout|F|Curveball|7|0|2|0|12|74
+Tim Collins|L|Yadiel Rivera|R|Strikeout|F|Curveball|8|0|2|0|14|75
+Tim Collins|L|Yadiel Rivera|R|Strikeout|S|Four-Seam Fastball|9|0|2|0|11|92
+Tim Collins|L|J.T. Realmuto|R|Lineout|S|Changeup|10|0|0|1|4|84
+Tim Collins|L|J.T. Realmuto|R|Lineout|*B|Changeup|11|0|1|1|14|86
+Tim Collins|L|J.T. Realmuto|R|Lineout|B|Curveball|12|1|1|1|13|75
+Tim Collins|L|J.T. Realmuto|R|Lineout|F|Changeup|13|2|1|1|7|83
+Tim Collins|L|J.T. Realmuto|R|Lineout|B|Four-Seam Fastball|14|2|2|1|11|91
+Tim Collins|L|J.T. Realmuto|R|Lineout|F|Four-Seam Fastball|15|3|2|1|8|91
+Tim Collins|L|J.T. Realmuto|R|Lineout|F|Four-Seam Fastball|16|3|2|1|4|92
+Tim Collins|L|J.T. Realmuto|R|Lineout|X|Slider|17|3|2|1|13|88
+Tim Collins|L|Charlie Blackmon|L|Single|C|Slider|0|0|0|0|1|89
+Tim Collins|L|Charlie Blackmon|L|Single|S|Four-Seam Fastball|1|0|1|0|1|93
+Tim Collins|L|Charlie Blackmon|L|Single|D|Slider|2|0|2|0|7|88
+Tim Collins|L|DJ LeMahieu|R|Single|C|Four-Seam Fastball|3|0|0|0|4|93
+Tim Collins|L|DJ LeMahieu|R|Single|D|Changeup|4|0|1|0|14|85
+Tim Collins|L|David Dahl|L|Home Run|S|Slider|5|0|0|0|7|87
+Tim Collins|L|David Dahl|L|Home Run|*B|Curveball|6|0|1|0|13|75
+Tim Collins|L|David Dahl|L|Home Run|S|Four-Seam Fastball|7|1|1|0|11|92
+Tim Collins|L|David Dahl|L|Home Run|F|Slider|8|1|2|0|7|88
+Tim Collins|L|David Dahl|L|Home Run|B|Four-Seam Fastball|9|1|2|0|11|92
+Tim Collins|L|David Dahl|L|Home Run|E|Slider|10|2|2|0|7|89
+Tim Collins|L|Jason Martin|L|Groundout|B|Four-Seam Fastball|0|0|0|0|3|91
+Tim Collins|L|Jason Martin|L|Groundout|X|Slider|1|1|0|0|5|87
+Tim Collins|L|Erik Gonzalez|R|Single|B|Curveball|2|0|0|1|14|74
+Tim Collins|L|Erik Gonzalez|R|Single|F|Slider|3|1|0|1|5|87
+Tim Collins|L|Erik Gonzalez|R|Single|B|Curveball|4|1|1|1|13|75
+Tim Collins|L|Erik Gonzalez|R|Single|D|Slider|5|2|1|1|11|87
+Tim Collins|L|Jacob Stallings|R|Groundout|S|Four-Seam Fastball|6|0|0|1|13|91
+Tim Collins|L|Jacob Stallings|R|Groundout|B|Four-Seam Fastball|7|0|1|1|3|91
+Tim Collins|L|Jacob Stallings|R|Groundout|F|Four-Seam Fastball|8|1|1|1|6|91
+Tim Collins|L|Jacob Stallings|R|Groundout|X|Curveball|9|1|2|1|9|73
+Tim Collins|L|Adam Frazier|L|Walk|B|Curveball|10|0|0|2|12|73
+Tim Collins|L|Adam Frazier|L|Walk|B|Slider|11|1|0|2|13|87
+Tim Collins|L|Adam Frazier|L|Walk|*B|Four-Seam Fastball|12|2|0|2|13|91
+Tim Collins|L|Adam Frazier|L|Walk|B|Four-Seam Fastball|13|3|0|2|12|91
+Tim Collins|L|Starling Marte|R|Groundout|B|Four-Seam Fastball|14|0|0|2|11|91
+Tim Collins|L|Starling Marte|R|Groundout|C|Slider|15|1|0|2|1|87
+Tim Collins|L|Starling Marte|R|Groundout|X|Four-Seam Fastball|16|1|1|2|13|91
+Tim Collins|L|Justin Bour|L|Double|C|Four-Seam Fastball|0|0|0|0|13|91
+Tim Collins|L|Justin Bour|L|Double|S|Slider|1|0|1|0|13|89
+Tim Collins|L|Justin Bour|L|Double|B|Curveball|2|0|2|0|13|76
+Tim Collins|L|Justin Bour|L|Double|B|Four-Seam Fastball|3|1|2|0|14|92
+Tim Collins|L|Justin Bour|L|Double|D|Slider|4|2|2|0|13|89
+Tim Collins|L|Jonathan Lucroy|R|Lineout|C|Four-Seam Fastball|5|0|0|0|5|92
+Tim Collins|L|Jonathan Lucroy|R|Lineout|C|Four-Seam Fastball|6|0|1|0|14|93
+Tim Collins|L|Jonathan Lucroy|R|Lineout|*B|Curveball|7|0|2|0|13|77
+Tim Collins|L|Jonathan Lucroy|R|Lineout|X|Four-Seam Fastball|8|1|2|0|2|92
+Tim Collins|L|Brian Goodwin|L|Lineout|C|Curveball|9|0|0|1|2|75
+Tim Collins|L|Brian Goodwin|L|Lineout|C|Four-Seam Fastball|10|0|1|1|11|92
+Tim Collins|L|Brian Goodwin|L|Lineout|X|Slider|11|0|2|1|11|88
+Tim Collins|L|David Fletcher|R|Groundout|B|Four-Seam Fastball|12|0|0|2|12|92
+Tim Collins|L|David Fletcher|R|Groundout|C|Four-Seam Fastball|13|1|0|2|9|93
+Tim Collins|L|David Fletcher|R|Groundout|*B|Curveball|14|1|1|2|13|75
+Tim Collins|L|David Fletcher|R|Groundout|F|Four-Seam Fastball|15|2|1|2|1|91
+Tim Collins|L|David Fletcher|R|Groundout|X|Curveball|16|2|2|2|5|75
+Tim Collins|L|Tommy La Stella|L|Walk|C|Four-Seam Fastball|17|0|0|0|7|90
+Tim Collins|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|18|0|1|0|13|92
+Tim Collins|L|Tommy La Stella|L|Walk|S|Slider|19|1|1|0|8|88
+Tim Collins|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|20|1|2|0|11|92
+Tim Collins|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|21|2|2|0|13|92
+Tim Collins|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|22|3|2|0|12|91
+Tim Collins|L|Zack Cozart|R|Single|B|Curveball|23|0|0|0|14|76
+Tim Collins|L|Zack Cozart|R|Single|D|Four-Seam Fastball|24|1|0|0|3|91
+Tim Collins|L|Nick Ahmed|R|Single|B|Four-Seam Fastball|0|0|0|2|12|90
+Tim Collins|L|Nick Ahmed|R|Single|B|Four-Seam Fastball|1|1|0|2|12|91
+Tim Collins|L|Nick Ahmed|R|Single|F|Slider|2|2|0|2|7|87
+Tim Collins|L|Nick Ahmed|R|Single|F|Slider|3|2|1|2|4|88
+Tim Collins|L|Nick Ahmed|R|Single|*B|Curveball|4|2|2|2|13|74
+Tim Collins|L|Nick Ahmed|R|Single|D|Four-Seam Fastball|5|3|2|2|3|91
+Tim Collins|L|John Ryan Murphy|R|Flyout|B|Slider|6|0|0|2|11|87
+Tim Collins|L|John Ryan Murphy|R|Flyout|F|Four-Seam Fastball|7|1|0|2|3|91
+Tim Collins|L|John Ryan Murphy|R|Flyout|X|Slider|8|1|1|2|4|87
+Tim Collins|L|Curt Casali|R|Single|*B|Curveball|0|0|0|2|13|75
+Tim Collins|L|Curt Casali|R|Single|C|Slider|1|1|0|2|13|88
+Tim Collins|L|Curt Casali|R|Single|F|Slider|2|1|1|2|13|89
+Tim Collins|L|Curt Casali|R|Single|B|Slider|3|1|2|2|12|88
+Tim Collins|L|Curt Casali|R|Single|F|Four-Seam Fastball|4|2|2|2|12|92
+Tim Collins|L|Curt Casali|R|Single|D|Slider|5|2|2|2|13|89
+Tim Collins|L|Derek Dietrich|L|Groundout|B|Four-Seam Fastball|6|0|0|2|11|92
+Tim Collins|L|Derek Dietrich|L|Groundout|C|Four-Seam Fastball|7|1|0|2|7|92
+Tim Collins|L|Derek Dietrich|L|Groundout|S|Slider|8|1|1|2|8|89
+Tim Collins|L|Derek Dietrich|L|Groundout|*B|Curveball|9|1|2|2|13|76
+Tim Collins|L|Derek Dietrich|L|Groundout|B|Four-Seam Fastball|10|2|2|2|13|92
+Tim Collins|L|Derek Dietrich|L|Groundout|X|Four-Seam Fastball|11|3|2|2|9|92
+Tim Collins|L|Nick Senzel|R|Double|C|Four-Seam Fastball|12|0|0|0|8|92
+Tim Collins|L|Nick Senzel|R|Double|D|Curveball|13|0|1|0|14|74
+Tim Collins|L|Joey Votto|L|Flyout|B|Slider|14|0|0|0|13|90
+Tim Collins|L|Joey Votto|L|Flyout|F|Four-Seam Fastball|15|1|0|0|8|92
+Tim Collins|L|Joey Votto|L|Flyout|B|Slider|16|1|1|0|13|89
+Tim Collins|L|Joey Votto|L|Flyout|F|Slider|17|2|1|0|5|90
+Tim Collins|L|Joey Votto|L|Flyout|F|Four-Seam Fastball|18|2|2|0|12|92
+Tim Collins|L|Joey Votto|L|Flyout|F|Slider|19|2|2|0|8|90
+Tim Collins|L|Joey Votto|L|Flyout|F|Four-Seam Fastball|20|2|2|0|2|92
+Tim Collins|L|Joey Votto|L|Flyout|X|Curveball|21|2|2|0|13|75
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|B|Curveball|22|0|0|1|12|73
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|S|Curveball|23|1|0|1|13|74
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|B|Four-Seam Fastball|24|1|1|1|11|91
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|S|Four-Seam Fastball|25|2|1|1|11|92
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|F|Curveball|26|2|2|1|13|75
+Tim Collins|L|Eugenio Suarez|R|Sac Fly|E|Four-Seam Fastball|27|2|2|1|13|92
+Tim Collins|L|Yasiel Puig|R|Flyout|B|Slider|28|0|0|2|13|88
+Tim Collins|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|29|1|0|2|11|93
+Tim Collins|L|Yasiel Puig|R|Flyout|C|Four-Seam Fastball|30|2|0|2|13|92
+Tim Collins|L|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|31|2|1|2|4|92
+Tim Collins|L|Ryan Cordell|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|92
+Tim Collins|L|Ryan Cordell|R|Groundout|B|Four-Seam Fastball|1|0|1|0|12|92
+Tim Collins|L|Ryan Cordell|R|Groundout|B|Four-Seam Fastball|2|1|1|0|14|92
+Tim Collins|L|Ryan Cordell|R|Groundout|X|Four-Seam Fastball|3|2|1|0|5|92
+Tim Collins|L|Yolmer Sanchez|R|Groundout|C|Slider|4|0|0|1|9|89
+Tim Collins|L|Yolmer Sanchez|R|Groundout|B|Four-Seam Fastball|5|0|1|1|12|92
+Tim Collins|L|Yolmer Sanchez|R|Groundout|X|Slider|6|1|1|1|14|88
+Tim Collins|L|Alex Verdugo|L|Double|B|Four-Seam Fastball|0|0|0|0|12|91
+Tim Collins|L|Alex Verdugo|L|Double|C|Four-Seam Fastball|1|1|0|0|13|91
+Tim Collins|L|Alex Verdugo|L|Double|C|Slider|2|1|1|0|6|88
+Tim Collins|L|Alex Verdugo|L|Double|D|Slider|3|1|2|0|11|89
+Tim Collins|L|Austin Barnes|R|Groundout|B|Curveball|4|0|0|0|13|75
+Tim Collins|L|Austin Barnes|R|Groundout|S|Slider|5|1|0|0|13|89
+Tim Collins|L|Austin Barnes|R|Groundout|B|Slider|6|1|1|0|11|90
+Tim Collins|L|Austin Barnes|R|Groundout|X|Slider|7|2|1|0|9|90
+Tim Collins|L|Kyle Garlick|R|Pop Out|X|Slider|8|0|0|1|4|89
+Tim Collins|L|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|9|0|0|2|14|92
+Tim Collins|L|Enrique Hernandez|R|Walk|B|Slider|10|1|0|2|13|90
+Tim Collins|L|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|11|2|0|2|14|93
+Tim Collins|L|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|12|3|0|2|12|92
+Tim Collins|L|Justin Turner|R|Flyout|C|Slider|13|0|0|2|5|90
+Tim Collins|L|Justin Turner|R|Flyout|*B|Curveball|14|0|1|2|13|77
+Tim Collins|L|Justin Turner|R|Flyout|F|Four-Seam Fastball|15|1|1|2|11|92
+Tim Collins|L|Justin Turner|R|Flyout|F|Four-Seam Fastball|16|1|2|2|11|92
+Tim Collins|L|Justin Turner|R|Flyout|B|Slider|17|1|2|2|14|89
+Tim Collins|L|Justin Turner|R|Flyout|F|Curveball|18|2|2|2|12|74
+Tim Collins|L|Justin Turner|R|Flyout|F|Four-Seam Fastball|19|2|2|2|2|91
+Tim Collins|L|Justin Turner|R|Flyout|X|Slider|20|2|2|2|1|88
+Tim Collins|L|David Freese|R|Strikeout|C|Four-Seam Fastball|21|0|0|0|11|90
+Tim Collins|L|David Freese|R|Strikeout|B|Four-Seam Fastball|22|0|1|0|11|91
+Tim Collins|L|David Freese|R|Strikeout|F|Four-Seam Fastball|23|1|1|0|11|91
+Tim Collins|L|David Freese|R|Strikeout|F|Four-Seam Fastball|24|1|2|0|11|91
+Tim Collins|L|David Freese|R|Strikeout|S|Four-Seam Fastball|25|1|2|0|11|91
+Tim Collins|L|Cody Bellinger|L|Home Run|C|Slider|26|0|0|1|11|89
+Tim Collins|L|Cody Bellinger|L|Home Run|B|Slider|27|0|1|1|12|89
+Tim Collins|L|Cody Bellinger|L|Home Run|B|Slider|28|1|1|1|13|88
+Tim Collins|L|Cody Bellinger|L|Home Run|B|Slider|29|2|1|1|6|88
+Tim Collins|L|Cody Bellinger|L|Home Run|C|Slider|30|3|1|1|5|87
+Tim Collins|L|Cody Bellinger|L|Home Run|E|Four-Seam Fastball|31|3|2|1|5|91
+Tim Collins|L|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|32|0|0|1|3|91
+Tim Collins|L|Chris Taylor|R|Strikeout|C|Curveball|33|0|1|1|8|74
+Tim Collins|L|Chris Taylor|R|Strikeout|S|Curveball|34|0|2|1|13|74
+Tim Collins|L|Max Muncy|L|Lineout|B|Curveball|35|0|0|2|14|74
+Tim Collins|L|Max Muncy|L|Lineout|C|Curveball|36|1|0|2|9|74
+Tim Collins|L|Max Muncy|L|Lineout|B|Curveball|37|1|1|2|13|76
+Tim Collins|L|Max Muncy|L|Lineout|S|Slider|38|2|1|2|8|86
+Tim Collins|L|Max Muncy|L|Lineout|X|Slider|39|2|2|2|4|86
+Tim Collins|L|Joc Pederson|L|Groundout|X|Four-Seam Fastball|0|0|0|2|11|92
+Tim Collins|L|Alex Dickerson|L|Flyout|B|Slider|0|0|0|0|13|86
+Tim Collins|L|Alex Dickerson|L|Flyout|F|Four-Seam Fastball|1|1|0|0|5|91
+Tim Collins|L|Alex Dickerson|L|Flyout|X|Curveball|2|1|1|0|5|73
+Tim Collins|L|Brandon Crawford|L|Lineout|B|Four-Seam Fastball|3|0|0|1|13|92
+Tim Collins|L|Brandon Crawford|L|Lineout|F|Slider|4|1|0|1|9|87
+Tim Collins|L|Brandon Crawford|L|Lineout|X|Slider|5|1|1|1|2|88
+Tim Collins|L|Mike Yastrzemski|L|Groundout|B|Slider|6|0|0|2|12|89
+Tim Collins|L|Mike Yastrzemski|L|Groundout|C|Four-Seam Fastball|7|1|0|2|6|92
+Tim Collins|L|Mike Yastrzemski|L|Groundout|B|Slider|8|1|1|2|13|89
+Tim Collins|L|Mike Yastrzemski|L|Groundout|B|Slider|9|2|1|2|13|89
+Tim Collins|L|Mike Yastrzemski|L|Groundout|X|Slider|10|3|1|2|13|89
+Tim Collins|L|JT Riddle|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|92
+Tim Collins|L|JT Riddle|L|Flyout|B|Four-Seam Fastball|1|0|1|0|14|93
+Tim Collins|L|JT Riddle|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|93
+Tim Collins|L|JT Riddle|L|Flyout|F|Four-Seam Fastball|3|2|1|0|6|92
+Tim Collins|L|JT Riddle|L|Flyout|X|Four-Seam Fastball|4|2|2|0|4|92
+Tim Collins|L|Rosell Herrera|R|Strikeout|C|Curveball|5|0|0|1|11|75
+Tim Collins|L|Rosell Herrera|R|Strikeout|B|Curveball|6|0|1|1|13|75
+Tim Collins|L|Rosell Herrera|R|Strikeout|B|Slider|7|1|1|1|13|88
+Tim Collins|L|Rosell Herrera|R|Strikeout|S|Slider|8|2|1|1|13|88
+Tim Collins|L|Rosell Herrera|R|Strikeout|C|Four-Seam Fastball|9|2|2|1|9|92
+Tim Collins|L|Curtis Granderson|L|Single|B|Four-Seam Fastball|10|0|0|2|11|92
+Tim Collins|L|Curtis Granderson|L|Single|F|Four-Seam Fastball|11|1|0|2|13|92
+Tim Collins|L|Curtis Granderson|L|Single|C|Curveball|12|1|1|2|3|74
+Tim Collins|L|Curtis Granderson|L|Single|D|Four-Seam Fastball|13|1|2|2|14|92
+Tim Collins|L|Brian Anderson|R|Strikeout|C|Curveball|14|0|0|2|8|74
+Tim Collins|L|Brian Anderson|R|Strikeout|C|Curveball|15|0|1|2|14|74
+Tim Collins|L|Brian Anderson|R|Strikeout|*B|Curveball|16|0|2|2|13|76
+Tim Collins|L|Brian Anderson|R|Strikeout|S|Curveball|17|1|2|2|13|74

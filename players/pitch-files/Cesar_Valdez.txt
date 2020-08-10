@@ -1,0 +1,501 @@
+Cesar Valdez|R|Jarrod Dyson|L|Single|C|Four-Seam Fastball|0|0|0|0|6|89
+Cesar Valdez|R|Jarrod Dyson|L|Single|D|Sinker|1|0|1|0|7|87
+Cesar Valdez|R|Mitch Haniger|R|Lineout|C|Sinker|2|0|0|0|4|88
+Cesar Valdez|R|Mitch Haniger|R|Lineout|X|Slider|3|0|1|0|3|80
+Cesar Valdez|R|Robinson Cano|L|Single|*B|Changeup|4|0|0|1|14|80
+Cesar Valdez|R|Robinson Cano|L|Single|E|Four-Seam Fastball|5|1|0|1|9|89
+Cesar Valdez|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|6|0|0|1|2|90
+Cesar Valdez|R|Nelson Cruz|R|Strikeout|C|Slider|7|0|1|1|14|81
+Cesar Valdez|R|Nelson Cruz|R|Strikeout|*B|Changeup|8|0|2|1|13|79
+Cesar Valdez|R|Nelson Cruz|R|Strikeout|S|Changeup|9|1|2|1|9|83
+Cesar Valdez|R|Kyle Seager|L|Groundout|C|Sinker|10|0|0|2|7|86
+Cesar Valdez|R|Kyle Seager|L|Groundout|B|Changeup|11|0|1|2|11|82
+Cesar Valdez|R|Kyle Seager|L|Groundout|F|Changeup|12|1|1|2|8|83
+Cesar Valdez|R|Kyle Seager|L|Groundout|*B|Slider|13|1|2|2|14|81
+Cesar Valdez|R|Kyle Seager|L|Groundout|X|Changeup|14|2|2|2|13|83
+Cesar Valdez|R|Taylor Motter|R|Double|B|Four-Seam Fastball|15|0|0|0|14|89
+Cesar Valdez|R|Taylor Motter|R|Double|D|Four-Seam Fastball|16|1|0|0|9|89
+Cesar Valdez|R|Danny Valencia|R|Walk|B|Sinker|17|0|0|0|14|87
+Cesar Valdez|R|Danny Valencia|R|Walk|B|Slider|18|1|0|0|14|81
+Cesar Valdez|R|Danny Valencia|R|Walk|C|Four-Seam Fastball|19|2|0|0|14|87
+Cesar Valdez|R|Danny Valencia|R|Walk|*B|Slider|20|2|1|0|14|81
+Cesar Valdez|R|Danny Valencia|R|Walk|S|Changeup|21|3|1|0|14|79
+Cesar Valdez|R|Danny Valencia|R|Walk|B|Changeup|22|3|2|0|14|82
+Cesar Valdez|R|Leonys Martin|L|Forceout|B|Four-Seam Fastball|23|0|0|0|14|88
+Cesar Valdez|R|Leonys Martin|L|Forceout|*B|Changeup|24|1|0|0|14|82
+Cesar Valdez|R|Leonys Martin|L|Forceout|F|Sinker|25|2|0|0|11|87
+Cesar Valdez|R|Leonys Martin|L|Forceout|X|Changeup|26|2|1|0|11|81
+Cesar Valdez|R|Mike Zunino|R|Double|E|Sinker|27|0|0|1|7|87
+Cesar Valdez|R|Jarrod Dyson|L|Single|*B|Changeup|28|0|0|1|14|82
+Cesar Valdez|R|Jarrod Dyson|L|Single|B|Changeup|29|1|0|1|14|85
+Cesar Valdez|R|Jarrod Dyson|L|Single|E|Sinker|30|2|0|1|4|86
+Cesar Valdez|R|Mitch Haniger|R|Grounded Into DP|*B|Sinker|31|0|0|1|13|86
+Cesar Valdez|R|Mitch Haniger|R|Grounded Into DP|S|Changeup|32|1|0|1|14|80
+Cesar Valdez|R|Mitch Haniger|R|Grounded Into DP|B|Four-Seam Fastball|33|1|1|1|14|87
+Cesar Valdez|R|Mitch Haniger|R|Grounded Into DP|X|Changeup|34|2|1|1|11|85
+Cesar Valdez|R|Robinson Cano|L|Groundout|C|Four-Seam Fastball|35|0|0|0|6|88
+Cesar Valdez|R|Robinson Cano|L|Groundout|B|Changeup|36|0|1|0|14|83
+Cesar Valdez|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|37|1|1|0|14|89
+Cesar Valdez|R|Robinson Cano|L|Groundout|F|Sinker|38|2|1|0|13|87
+Cesar Valdez|R|Robinson Cano|L|Groundout|X|Changeup|39|2|2|0|13|83
+Cesar Valdez|R|Nelson Cruz|R|Lineout|S|Slider|40|0|0|1|6|81
+Cesar Valdez|R|Nelson Cruz|R|Lineout|B|Four-Seam Fastball|41|0|1|1|13|89
+Cesar Valdez|R|Nelson Cruz|R|Lineout|B|Changeup|42|1|1|1|13|79
+Cesar Valdez|R|Nelson Cruz|R|Lineout|S|Changeup|43|2|1|1|4|83
+Cesar Valdez|R|Nelson Cruz|R|Lineout|F|Changeup|44|2|2|1|13|82
+Cesar Valdez|R|Nelson Cruz|R|Lineout|X|Changeup|45|2|2|1|7|80
+Cesar Valdez|R|Kyle Seager|L|Strikeout|B|Slider|46|0|0|2|11|76
+Cesar Valdez|R|Kyle Seager|L|Strikeout|F|Changeup|47|1|0|2|8|83
+Cesar Valdez|R|Kyle Seager|L|Strikeout|B|Sinker|48|1|1|2|11|89
+Cesar Valdez|R|Kyle Seager|L|Strikeout|C|Changeup|49|2|1|2|13|82
+Cesar Valdez|R|Kyle Seager|L|Strikeout|W|Changeup|50|2|2|2|13|83
+Cesar Valdez|R|Taylor Motter|R|Lineout|B|Four-Seam Fastball|51|0|0|0|14|87
+Cesar Valdez|R|Taylor Motter|R|Lineout|C|Sinker|52|1|0|0|4|88
+Cesar Valdez|R|Taylor Motter|R|Lineout|B|Changeup|53|1|1|0|14|82
+Cesar Valdez|R|Taylor Motter|R|Lineout|B|Changeup|54|2|1|0|13|78
+Cesar Valdez|R|Taylor Motter|R|Lineout|F|Four-Seam Fastball|55|3|1|0|7|88
+Cesar Valdez|R|Taylor Motter|R|Lineout|F|Changeup|56|3|2|0|11|78
+Cesar Valdez|R|Taylor Motter|R|Lineout|F|Changeup|57|3|2|0|13|84
+Cesar Valdez|R|Taylor Motter|R|Lineout|F|Changeup|58|3|2|0|14|82
+Cesar Valdez|R|Taylor Motter|R|Lineout|X|Sinker|59|3|2|0|8|87
+Cesar Valdez|R|Danny Valencia|R|Strikeout|F|Sinker|60|0|0|1|13|88
+Cesar Valdez|R|Danny Valencia|R|Strikeout|C|Slider|61|0|1|1|14|83
+Cesar Valdez|R|Danny Valencia|R|Strikeout|B|Four-Seam Fastball|62|0|2|1|11|87
+Cesar Valdez|R|Danny Valencia|R|Strikeout|F|Changeup|63|1|2|1|13|78
+Cesar Valdez|R|Danny Valencia|R|Strikeout|B|Slider|64|1|2|1|14|82
+Cesar Valdez|R|Danny Valencia|R|Strikeout|S|Changeup|65|2|2|1|13|83
+Cesar Valdez|R|Leonys Martin|L|Walk|S|Changeup|66|0|0|2|14|83
+Cesar Valdez|R|Leonys Martin|L|Walk|B|Four-Seam Fastball|67|0|1|2|12|89
+Cesar Valdez|R|Leonys Martin|L|Walk|B|Changeup|68|1|1|2|11|82
+Cesar Valdez|R|Leonys Martin|L|Walk|B|Changeup|69|2|1|2|13|82
+Cesar Valdez|R|Leonys Martin|L|Walk|B|Sinker|70|3|1|2|13|86
+Cesar Valdez|R|Mike Zunino|R|Strikeout|C|Slider|71|0|0|2|12|79
+Cesar Valdez|R|Mike Zunino|R|Strikeout|F|Changeup|72|0|1|2|13|76
+Cesar Valdez|R|Mike Zunino|R|Strikeout|B|Changeup|73|0|2|2|12|84
+Cesar Valdez|R|Mike Zunino|R|Strikeout|B|Changeup|74|1|2|2|14|82
+Cesar Valdez|R|Mike Zunino|R|Strikeout|S|Changeup|75|2|2|2|8|83
+Cesar Valdez|R|Mike Trout|R|Forceout|W|Changeup|0|0|0|2|14|82
+Cesar Valdez|R|Mike Trout|R|Forceout|S|Changeup|1|0|1|2|8|79
+Cesar Valdez|R|Mike Trout|R|Forceout|B|Four-Seam Fastball|2|0|2|2|14|88
+Cesar Valdez|R|Mike Trout|R|Forceout|X|Changeup|3|1|2|2|7|81
+Cesar Valdez|R|Albert Pujols|R|Groundout|B|Sinker|4|0|0|0|13|88
+Cesar Valdez|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|5|1|0|0|11|89
+Cesar Valdez|R|Albert Pujols|R|Groundout|X|Changeup|6|2|0|0|13|85
+Cesar Valdez|R|Jefry Marte|R|Strikeout|B|Changeup|7|0|0|1|14|79
+Cesar Valdez|R|Jefry Marte|R|Strikeout|B|Sinker|8|1|0|1|13|88
+Cesar Valdez|R|Jefry Marte|R|Strikeout|F|Sinker|9|2|0|1|13|87
+Cesar Valdez|R|Jefry Marte|R|Strikeout|S|Changeup|10|2|1|1|14|83
+Cesar Valdez|R|Jefry Marte|R|Strikeout|T|Changeup|11|2|2|1|9|80
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|C|Changeup|12|0|0|2|13|79
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|L|Four-Seam Fastball|13|0|1|2|9|88
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|F|Changeup|14|0|2|2|14|82
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|X|Four-Seam Fastball|15|0|2|2|3|89
+Cesar Valdez|R|George Springer|R|Groundout|C|Sinker|0|0|0|0|13|88
+Cesar Valdez|R|George Springer|R|Groundout|F|Changeup|1|0|1|0|14|78
+Cesar Valdez|R|George Springer|R|Groundout|B|Changeup|2|0|2|0|14|83
+Cesar Valdez|R|George Springer|R|Groundout|X|Changeup|3|1|2|0|9|83
+Cesar Valdez|R|Josh Reddick|L|Flyout|B|Sinker|4|0|0|1|11|87
+Cesar Valdez|R|Josh Reddick|L|Flyout|X|Sinker|5|1|0|1|1|88
+Cesar Valdez|R|Jose Altuve|R|Walk|B|Changeup|6|0|0|2|13|81
+Cesar Valdez|R|Jose Altuve|R|Walk|B|Changeup|7|1|0|2|14|83
+Cesar Valdez|R|Jose Altuve|R|Walk|B|Sinker|8|2|0|2|11|86
+Cesar Valdez|R|Jose Altuve|R|Walk|B|Four-Seam Fastball|9|3|0|2|14|89
+Cesar Valdez|R|Carlos Correa|R|Lineout|X|Sinker|10|0|0|2|7|87
+Cesar Valdez|R|Carlos Beltran|L|Groundout|B|Sinker|11|0|0|0|11|88
+Cesar Valdez|R|Carlos Beltran|L|Groundout|B|Changeup|12|1|0|0|13|83
+Cesar Valdez|R|Carlos Beltran|L|Groundout|C|Sinker|13|2|0|0|13|86
+Cesar Valdez|R|Carlos Beltran|L|Groundout|B|Sinker|14|2|1|0|13|88
+Cesar Valdez|R|Carlos Beltran|L|Groundout|C|Changeup|15|3|1|0|14|83
+Cesar Valdez|R|Carlos Beltran|L|Groundout|X|Changeup|16|3|2|0|13|83
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|C|Sinker|17|0|0|1|7|88
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|F|Changeup|18|0|1|1|13|83
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|F|Changeup|19|0|2|1|13|78
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|E|Slider|20|0|2|1|6|80
+Cesar Valdez|R|Evan Gattis|R|Flyout|X|Changeup|21|0|0|1|8|83
+Cesar Valdez|R|Alex Bregman|R|Groundout|X|Changeup|22|0|0|2|14|82
+Cesar Valdez|R|Norichika Aoki|L|Groundout|S|Changeup|23|0|0|0|13|82
+Cesar Valdez|R|Norichika Aoki|L|Groundout|B|Sinker|24|0|1|0|13|89
+Cesar Valdez|R|Norichika Aoki|L|Groundout|F|Changeup|25|1|1|0|7|83
+Cesar Valdez|R|Norichika Aoki|L|Groundout|X|Changeup|26|1|2|0|13|83
+Cesar Valdez|R|George Springer|R|Single|D|Changeup|27|0|0|1|14|84
+Cesar Valdez|R|Josh Reddick|L|Single|B|Sinker|28|0|0|1|11|86
+Cesar Valdez|R|Josh Reddick|L|Single|D|Changeup|29|1|0|1|13|81
+Cesar Valdez|R|Jose Altuve|R|Forceout|X|Changeup|30|0|0|1|14|83
+Cesar Valdez|R|Carlos Correa|R|Double|B|Sinker|31|0|0|2|13|87
+Cesar Valdez|R|Carlos Correa|R|Double|B|Changeup|32|1|0|2|14|83
+Cesar Valdez|R|Carlos Correa|R|Double|E|Sinker|33|2|0|2|7|87
+Cesar Valdez|R|Carlos Beltran|L|Lineout|F|Changeup|34|0|0|2|7|80
+Cesar Valdez|R|Carlos Beltran|L|Lineout|*B|Changeup|35|0|1|2|14|82
+Cesar Valdez|R|Carlos Beltran|L|Lineout|X|Changeup|36|1|1|2|13|82
+Cesar Valdez|R|Eddie Rosario|L|Single|C|Four-Seam Fastball|0|0|0|0|11|88
+Cesar Valdez|R|Eddie Rosario|L|Single|S|Changeup|1|0|1|0|14|83
+Cesar Valdez|R|Eddie Rosario|L|Single|F|Changeup|2|0|2|0|11|83
+Cesar Valdez|R|Eddie Rosario|L|Single|D|Changeup|3|0|2|0|8|83
+Cesar Valdez|R|Byron Buxton|R|Home Run|B|Sinker|4|0|0|0|9|86
+Cesar Valdez|R|Byron Buxton|R|Home Run|*B|Sinker|5|1|0|0|14|87
+Cesar Valdez|R|Byron Buxton|R|Home Run|L|Four-Seam Fastball|6|2|0|0|1|88
+Cesar Valdez|R|Byron Buxton|R|Home Run|S|Changeup|7|2|1|0|2|78
+Cesar Valdez|R|Byron Buxton|R|Home Run|E|Changeup|8|2|2|0|3|80
+Cesar Valdez|R|Brian Dozier|R|Home Run|C|Four-Seam Fastball|9|0|0|1|3|89
+Cesar Valdez|R|Brian Dozier|R|Home Run|F|Slider|10|0|1|1|12|82
+Cesar Valdez|R|Brian Dozier|R|Home Run|E|Changeup|11|0|2|1|2|85
+Cesar Valdez|R|Max Kepler|L|Lineout|C|Changeup|12|0|0|1|4|82
+Cesar Valdez|R|Max Kepler|L|Lineout|S|Sinker|13|0|1|1|8|87
+Cesar Valdez|R|Max Kepler|L|Lineout|B|Four-Seam Fastball|14|0|2|1|14|89
+Cesar Valdez|R|Max Kepler|L|Lineout|X|Changeup|15|1|2|1|13|84
+Cesar Valdez|R|Miguel Sano|R|Walk|B|Slider|16|0|0|2|12|80
+Cesar Valdez|R|Miguel Sano|R|Walk|B|Changeup|17|1|0|2|13|83
+Cesar Valdez|R|Miguel Sano|R|Walk|F|Changeup|18|2|0|2|11|83
+Cesar Valdez|R|Miguel Sano|R|Walk|B|Changeup|19|2|1|2|13|84
+Cesar Valdez|R|Miguel Sano|R|Walk|B|Changeup|20|3|1|2|14|83
+Cesar Valdez|R|Joe Mauer|L|Home Run|*B|Sinker|21|0|0|2|14|89
+Cesar Valdez|R|Joe Mauer|L|Home Run|B|Sinker|22|1|0|2|7|87
+Cesar Valdez|R|Joe Mauer|L|Home Run|E|Sinker|23|2|0|2|8|88
+Cesar Valdez|R|Robbie Grossman|L|Single|F|Four-Seam Fastball|24|0|0|2|8|88
+Cesar Valdez|R|Robbie Grossman|L|Single|B|Changeup|25|0|1|2|11|82
+Cesar Valdez|R|Robbie Grossman|L|Single|D|Changeup|26|1|1|2|8|82
+Cesar Valdez|R|Jason Castro|L|Lineout|B|Four-Seam Fastball|27|0|0|2|14|88
+Cesar Valdez|R|Jason Castro|L|Lineout|C|Sinker|28|1|0|2|8|86
+Cesar Valdez|R|Jason Castro|L|Lineout|B|Sinker|29|1|1|2|13|88
+Cesar Valdez|R|Jason Castro|L|Lineout|S|Changeup|30|2|1|2|13|83
+Cesar Valdez|R|Jason Castro|L|Lineout|X|Changeup|31|2|2|2|13|81
+Cesar Valdez|R|Seth Smith|L|Flyout|B|Sinker|0|0|0|0|11|88
+Cesar Valdez|R|Seth Smith|L|Flyout|C|Changeup|1|1|0|0|9|83
+Cesar Valdez|R|Seth Smith|L|Flyout|B|Changeup|2|1|1|0|13|84
+Cesar Valdez|R|Seth Smith|L|Flyout|X|Changeup|3|2|1|0|13|84
+Cesar Valdez|R|Adam Jones|R|Walk|B|Changeup|4|0|0|1|7|80
+Cesar Valdez|R|Adam Jones|R|Walk|B|Changeup|5|1|0|1|14|83
+Cesar Valdez|R|Adam Jones|R|Walk|B|Sinker|6|2|0|1|12|87
+Cesar Valdez|R|Adam Jones|R|Walk|B|Four-Seam Fastball|7|3|0|1|12|88
+Cesar Valdez|R|Manny Machado|R|Pop Out|C|Four-Seam Fastball|8|0|0|1|12|89
+Cesar Valdez|R|Manny Machado|R|Pop Out|F|Changeup|9|0|1|1|5|81
+Cesar Valdez|R|Manny Machado|R|Pop Out|F|Changeup|10|0|2|1|13|80
+Cesar Valdez|R|Manny Machado|R|Pop Out|F|Changeup|11|0|2|1|5|82
+Cesar Valdez|R|Manny Machado|R|Pop Out|F|Changeup|12|0|2|1|14|80
+Cesar Valdez|R|Manny Machado|R|Pop Out|B|Four-Seam Fastball|13|0|2|1|14|89
+Cesar Valdez|R|Manny Machado|R|Pop Out|X|Changeup|14|1|2|1|6|79
+Cesar Valdez|R|Chris Davis|L|Flyout|C|Changeup|15|0|0|2|5|82
+Cesar Valdez|R|Chris Davis|L|Flyout|X|Changeup|16|0|1|2|5|82
+Cesar Valdez|R|Adrian Beltre|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|88
+Cesar Valdez|R|Adrian Beltre|R|Flyout|C|Changeup|1|1|0|0|7|82
+Cesar Valdez|R|Adrian Beltre|R|Flyout|X|Changeup|2|1|1|0|4|79
+Cesar Valdez|R|Rougned Odor|L|Groundout|B|Changeup|3|0|0|1|11|83
+Cesar Valdez|R|Rougned Odor|L|Groundout|F|Changeup|4|1|0|1|9|82
+Cesar Valdez|R|Rougned Odor|L|Groundout|B|Changeup|5|1|1|1|11|82
+Cesar Valdez|R|Rougned Odor|L|Groundout|X|Changeup|6|2|1|1|4|82
+Cesar Valdez|R|Carlos Gomez|R|Groundout|X|Changeup|7|0|0|2|14|81
+Cesar Valdez|R|Joey Gallo|L|Strikeout|S|Sinker|8|0|0|0|11|85
+Cesar Valdez|R|Joey Gallo|L|Strikeout|F|Changeup|9|0|1|0|4|82
+Cesar Valdez|R|Joey Gallo|L|Strikeout|B|Sinker|10|0|2|0|13|89
+Cesar Valdez|R|Joey Gallo|L|Strikeout|S|Changeup|11|1|2|0|7|82
+Cesar Valdez|R|Mike Napoli|R|Hit By Pitch|C|Four-Seam Fastball|12|0|0|1|2|90
+Cesar Valdez|R|Mike Napoli|R|Hit By Pitch|H|Sinker|13|0|1|1|11|88
+Cesar Valdez|R|Robinson Chirinos|R|Double|B|Changeup|14|0|0|1|14|81
+Cesar Valdez|R|Robinson Chirinos|R|Double|B|Sinker|15|1|0|1|11|88
+Cesar Valdez|R|Robinson Chirinos|R|Double|F|Changeup|16|2|0|1|5|83
+Cesar Valdez|R|Robinson Chirinos|R|Double|S|Slider|17|2|1|1|9|85
+Cesar Valdez|R|Robinson Chirinos|R|Double|F|Changeup|18|2|2|1|11|77
+Cesar Valdez|R|Robinson Chirinos|R|Double|D|Slider|19|2|2|1|12|84
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|*B|Sinker|20|0|0|2|14|88
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Changeup|21|1|0|2|14|81
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|S|Changeup|22|2|0|2|5|81
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|F|Changeup|23|2|1|2|7|82
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Changeup|24|2|2|2|13|82
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|F|Changeup|25|3|2|2|4|83
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Changeup|26|3|2|2|14|82
+Cesar Valdez|R|Elvis Andrus|R|Groundout|B|Changeup|27|0|0|2|14|80
+Cesar Valdez|R|Elvis Andrus|R|Groundout|C|Changeup|28|1|0|2|7|82
+Cesar Valdez|R|Elvis Andrus|R|Groundout|X|Changeup|29|1|1|2|8|79
+Cesar Valdez|R|Nomar Mazara|L|Flyout|B|Changeup|30|0|0|0|14|83
+Cesar Valdez|R|Nomar Mazara|L|Flyout|S|Sinker|31|1|0|0|7|88
+Cesar Valdez|R|Nomar Mazara|L|Flyout|X|Sinker|32|1|1|0|7|86
+Cesar Valdez|R|Adrian Beltre|R|Single|D|Sinker|33|0|0|1|4|89
+Cesar Valdez|R|Rougned Odor|L|Lineout|C|Changeup|34|0|0|1|11|82
+Cesar Valdez|R|Rougned Odor|L|Lineout|X|Changeup|35|0|1|1|4|81
+Cesar Valdez|R|Carlos Gomez|R|Home Run|S|Slider|36|0|0|2|3|84
+Cesar Valdez|R|Carlos Gomez|R|Home Run|B|Changeup|37|0|1|2|14|78
+Cesar Valdez|R|Carlos Gomez|R|Home Run|F|Changeup|38|1|1|2|4|82
+Cesar Valdez|R|Carlos Gomez|R|Home Run|F|Four-Seam Fastball|39|1|2|2|12|89
+Cesar Valdez|R|Carlos Gomez|R|Home Run|E|Changeup|40|1|2|2|3|82
+Cesar Valdez|R|Joey Gallo|L|Strikeout|S|Changeup|41|0|0|2|7|83
+Cesar Valdez|R|Joey Gallo|L|Strikeout|C|Four-Seam Fastball|42|0|1|2|14|89
+Cesar Valdez|R|Joey Gallo|L|Strikeout|B|Sinker|43|0|2|2|11|88
+Cesar Valdez|R|Joey Gallo|L|Strikeout|S|Changeup|44|1|2|2|13|82
+Cesar Valdez|R|Mike Napoli|R|Groundout|B|Changeup|45|0|0|0|14|82
+Cesar Valdez|R|Mike Napoli|R|Groundout|B|Changeup|46|1|0|0|14|83
+Cesar Valdez|R|Mike Napoli|R|Groundout|X|Four-Seam Fastball|47|2|0|0|6|88
+Cesar Valdez|R|Robinson Chirinos|R|Double|F|Sinker|48|0|0|1|7|88
+Cesar Valdez|R|Robinson Chirinos|R|Double|B|Slider|49|0|1|1|14|85
+Cesar Valdez|R|Robinson Chirinos|R|Double|D|Sinker|50|1|1|1|2|86
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Changeup|51|0|0|1|14|81
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|C|Sinker|52|1|0|1|14|88
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Changeup|53|1|1|1|13|83
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|F|Four-Seam Fastball|54|2|1|1|9|88
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|55|2|2|1|12|87
+Cesar Valdez|R|Shin-Soo Choo|L|Walk|*B|Changeup|56|3|2|1|14|82
+Cesar Valdez|R|Elvis Andrus|R|Fielders Choice|B|Sinker|57|0|0|1|13|87
+Cesar Valdez|R|Elvis Andrus|R|Fielders Choice|*B|Changeup|58|1|0|1|14|81
+Cesar Valdez|R|Elvis Andrus|R|Fielders Choice|E|Changeup|59|2|0|1|9|81
+Cesar Valdez|R|Chris Young|R|Single|S|Slider|0|0|0|0|3|81
+Cesar Valdez|R|Chris Young|R|Single|D|Sinker|1|0|1|0|8|89
+Cesar Valdez|R|Jackie Bradley Jr.|L|Pop Out|C|Sinker|2|0|0|0|11|88
+Cesar Valdez|R|Jackie Bradley Jr.|L|Pop Out|X|Sinker|3|0|1|0|4|88
+Cesar Valdez|R|Christian Vazquez|R|Grounded Into DP|F|Four-Seam Fastball|4|0|0|1|11|88
+Cesar Valdez|R|Christian Vazquez|R|Grounded Into DP|X|Changeup|5|0|1|1|11|83
+Cesar Valdez|R|Brock Holt|L|Groundout|C|Sinker|6|0|0|0|8|88
+Cesar Valdez|R|Brock Holt|L|Groundout|F|Changeup|7|0|1|0|6|82
+Cesar Valdez|R|Brock Holt|L|Groundout|B|Four-Seam Fastball|8|0|2|0|12|90
+Cesar Valdez|R|Brock Holt|L|Groundout|F|Changeup|9|1|2|0|13|83
+Cesar Valdez|R|Brock Holt|L|Groundout|X|Sinker|10|1|2|0|13|89
+Cesar Valdez|R|Deven Marrero|R|Strikeout|S|Slider|11|0|0|1|14|81
+Cesar Valdez|R|Deven Marrero|R|Strikeout|B|Slider|12|0|1|1|14|82
+Cesar Valdez|R|Deven Marrero|R|Strikeout|B|Changeup|13|1|1|1|14|84
+Cesar Valdez|R|Deven Marrero|R|Strikeout|C|Changeup|14|2|1|1|12|80
+Cesar Valdez|R|Deven Marrero|R|Strikeout|B|Changeup|15|2|2|1|12|79
+Cesar Valdez|R|Deven Marrero|R|Strikeout|F|Changeup|16|3|2|1|14|84
+Cesar Valdez|R|Deven Marrero|R|Strikeout|C|Four-Seam Fastball|17|3|2|1|14|90
+Cesar Valdez|R|Mookie Betts|R|Lineout|C|Slider|18|0|0|2|3|82
+Cesar Valdez|R|Mookie Betts|R|Lineout|S|Changeup|19|0|1|2|14|78
+Cesar Valdez|R|Mookie Betts|R|Lineout|X|Changeup|20|0|2|2|5|84
+Cesar Valdez|R|Andrew Benintendi|L|Flyout|C|Changeup|21|0|0|0|13|81
+Cesar Valdez|R|Andrew Benintendi|L|Flyout|X|Slider|22|0|1|0|8|79
+Cesar Valdez|R|Dustin Pedroia|R|Lineout|C|Four-Seam Fastball|23|0|0|1|3|89
+Cesar Valdez|R|Dustin Pedroia|R|Lineout|X|Sinker|24|0|1|1|7|88
+Cesar Valdez|R|Mitch Moreland|L|Strikeout|C|Slider|25|0|0|2|8|81
+Cesar Valdez|R|Mitch Moreland|L|Strikeout|S|Changeup|26|0|1|2|8|82
+Cesar Valdez|R|Mitch Moreland|L|Strikeout|B|Changeup|27|0|2|2|11|82
+Cesar Valdez|R|Mitch Moreland|L|Strikeout|S|Changeup|28|1|2|2|14|84
+Cesar Valdez|R|Chris Young|R|Strikeout|B|Changeup|29|0|0|0|14|82
+Cesar Valdez|R|Chris Young|R|Strikeout|B|Changeup|30|1|0|0|14|81
+Cesar Valdez|R|Chris Young|R|Strikeout|C|Four-Seam Fastball|31|2|0|0|6|89
+Cesar Valdez|R|Chris Young|R|Strikeout|S|Changeup|32|2|1|0|9|82
+Cesar Valdez|R|Chris Young|R|Strikeout|T|Changeup|33|2|2|0|6|80
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|34|0|0|1|14|82
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|C|Changeup|35|1|0|1|11|82
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|36|1|1|1|3|89
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|37|1|2|1|11|79
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|38|2|2|1|11|82
+Cesar Valdez|R|Jackie Bradley Jr.|L|Strikeout|S|Changeup|39|3|2|1|8|82
+Cesar Valdez|R|Christian Vazquez|R|Strikeout|C|Slider|40|0|0|2|9|82
+Cesar Valdez|R|Christian Vazquez|R|Strikeout|C|Four-Seam Fastball|41|0|1|2|14|90
+Cesar Valdez|R|Christian Vazquez|R|Strikeout|C|Changeup|42|0|2|2|1|80
+Cesar Valdez|R|Erik Gonzalez|R|Double|F|Sinker|0|0|0|1|7|89
+Cesar Valdez|R|Erik Gonzalez|R|Double|B|Sinker|1|0|1|1|14|89
+Cesar Valdez|R|Erik Gonzalez|R|Double|D|Sinker|2|1|1|1|11|88
+Cesar Valdez|R|Bradley Zimmer|L|Single|E|Changeup|3|0|0|1|5|82
+Cesar Valdez|R|Francisco Lindor|L|Double|C|Sinker|4|0|0|1|11|88
+Cesar Valdez|R|Francisco Lindor|L|Double|D|Sinker|5|0|1|1|4|89
+Cesar Valdez|R|Michael Brantley|L|Strikeout|F|Sinker|6|0|0|1|7|89
+Cesar Valdez|R|Michael Brantley|L|Strikeout|*B|Changeup|7|0|1|1|13|84
+Cesar Valdez|R|Michael Brantley|L|Strikeout|F|Changeup|8|1|1|1|7|83
+Cesar Valdez|R|Michael Brantley|L|Strikeout|W|Changeup|9|1|2|1|14|84
+Cesar Valdez|R|Edwin Encarnacion|R|Flyout|X|Changeup|10|0|0|2|5|83
+Cesar Valdez|R|Gio Urshela|R|Pop Out|C|Slider|11|0|0|0|5|79
+Cesar Valdez|R|Gio Urshela|R|Pop Out|S|Four-Seam Fastball|12|0|1|0|12|89
+Cesar Valdez|R|Gio Urshela|R|Pop Out|F|Slider|13|0|2|0|12|83
+Cesar Valdez|R|Gio Urshela|R|Pop Out|X|Changeup|14|0|2|0|9|83
+Cesar Valdez|R|Carlos Santana|L|Strikeout|C|Slider|15|0|0|1|1|80
+Cesar Valdez|R|Carlos Santana|L|Strikeout|S|Changeup|16|0|1|1|13|83
+Cesar Valdez|R|Carlos Santana|L|Strikeout|S|Changeup|17|0|2|1|13|84
+Cesar Valdez|R|Abraham Almonte|L|Single|D|Sinker|18|0|0|2|13|89
+Cesar Valdez|R|Roberto Perez|R|Lineout|C|Slider|19|0|0|2|3|81
+Cesar Valdez|R|Roberto Perez|R|Lineout|X|Slider|20|0|1|2|1|79
+Cesar Valdez|R|Matt Joyce|L|Single|D|Sinker|0|0|0|0|13|88
+Cesar Valdez|R|Marcus Semien|R|Forceout|F|Four-Seam Fastball|1|0|0|0|4|89
+Cesar Valdez|R|Marcus Semien|R|Forceout|X|Changeup|2|0|1|0|6|82
+Cesar Valdez|R|Yonder Alonso|L|Grounded Into DP|X|Sinker|3|0|0|1|5|86
+Cesar Valdez|R|Khris Davis|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|5|90
+Cesar Valdez|R|Khris Davis|R|Strikeout|B|Sinker|5|0|1|0|13|89
+Cesar Valdez|R|Khris Davis|R|Strikeout|F|Sinker|6|1|1|0|13|89
+Cesar Valdez|R|Khris Davis|R|Strikeout|S|Changeup|7|1|2|0|13|81
+Cesar Valdez|R|Jed Lowrie|L|Groundout|B|Sinker|8|0|0|1|13|87
+Cesar Valdez|R|Jed Lowrie|L|Groundout|F|Sinker|9|1|0|1|1|89
+Cesar Valdez|R|Jed Lowrie|L|Groundout|X|Changeup|10|1|1|1|7|83
+Cesar Valdez|R|Ryon Healy|R|Groundout|B|Four-Seam Fastball|11|0|0|2|11|89
+Cesar Valdez|R|Ryon Healy|R|Groundout|C|Sinker|12|1|0|2|8|89
+Cesar Valdez|R|Ryon Healy|R|Groundout|F|Sinker|13|1|1|2|13|89
+Cesar Valdez|R|Ryon Healy|R|Groundout|X|Changeup|14|1|2|2|14|83
+Cesar Valdez|R|Matt Chapman|R|Walk|C|Four-Seam Fastball|15|0|0|0|5|88
+Cesar Valdez|R|Matt Chapman|R|Walk|F|Sinker|16|0|1|0|7|88
+Cesar Valdez|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|17|0|2|0|14|89
+Cesar Valdez|R|Matt Chapman|R|Walk|B|Changeup|18|1|2|0|14|84
+Cesar Valdez|R|Matt Chapman|R|Walk|B|Changeup|19|2|2|0|14|84
+Cesar Valdez|R|Matt Chapman|R|Walk|B|Changeup|20|3|2|0|11|83
+Cesar Valdez|R|Bruce Maxwell|L|Grounded Into DP|B|Sinker|21|0|0|0|11|88
+Cesar Valdez|R|Bruce Maxwell|L|Grounded Into DP|F|Sinker|22|1|0|0|4|87
+Cesar Valdez|R|Bruce Maxwell|L|Grounded Into DP|X|Changeup|23|1|1|0|13|81
+Cesar Valdez|R|Rajai Davis|R|Strikeout|F|Four-Seam Fastball|24|0|0|2|5|89
+Cesar Valdez|R|Rajai Davis|R|Strikeout|C|Changeup|25|0|1|2|4|79
+Cesar Valdez|R|Rajai Davis|R|Strikeout|B|Four-Seam Fastball|26|0|2|2|12|89
+Cesar Valdez|R|Rajai Davis|R|Strikeout|B|Four-Seam Fastball|27|1|2|2|14|90
+Cesar Valdez|R|Rajai Davis|R|Strikeout|W|Changeup|28|2|2|2|14|83
+Cesar Valdez|R|Matt Joyce|L|Double|F|Sinker|29|0|0|0|7|86
+Cesar Valdez|R|Matt Joyce|L|Double|B|Changeup|30|0|1|0|13|83
+Cesar Valdez|R|Matt Joyce|L|Double|B|Changeup|31|1|1|0|13|82
+Cesar Valdez|R|Matt Joyce|L|Double|F|Sinker|32|2|1|0|13|88
+Cesar Valdez|R|Matt Joyce|L|Double|B|Slider|33|2|2|0|14|82
+Cesar Valdez|R|Matt Joyce|L|Double|D|Changeup|34|3|2|0|4|82
+Cesar Valdez|R|Marcus Semien|R|Lineout|B|Sinker|35|0|0|0|14|88
+Cesar Valdez|R|Marcus Semien|R|Lineout|B|Sinker|36|1|0|0|11|88
+Cesar Valdez|R|Marcus Semien|R|Lineout|B|Four-Seam Fastball|37|2|0|0|14|88
+Cesar Valdez|R|Marcus Semien|R|Lineout|C|Four-Seam Fastball|38|3|0|0|4|88
+Cesar Valdez|R|Marcus Semien|R|Lineout|C|Four-Seam Fastball|39|3|1|0|14|88
+Cesar Valdez|R|Marcus Semien|R|Lineout|F|Changeup|40|3|2|0|14|83
+Cesar Valdez|R|Marcus Semien|R|Lineout|X|Changeup|41|3|2|0|9|83
+Cesar Valdez|R|Yonder Alonso|L|Lineout|*B|Changeup|42|0|0|1|14|83
+Cesar Valdez|R|Yonder Alonso|L|Lineout|T|Sinker|43|1|0|1|11|89
+Cesar Valdez|R|Yonder Alonso|L|Lineout|F|Sinker|44|1|1|1|13|88
+Cesar Valdez|R|Yonder Alonso|L|Lineout|F|Changeup|45|1|2|1|13|84
+Cesar Valdez|R|Yonder Alonso|L|Lineout|B|Four-Seam Fastball|46|1|2|1|12|88
+Cesar Valdez|R|Yonder Alonso|L|Lineout|F|Changeup|47|2|2|1|4|83
+Cesar Valdez|R|Yonder Alonso|L|Lineout|B|Slider|48|2|2|1|14|82
+Cesar Valdez|R|Yonder Alonso|L|Lineout|F|Changeup|49|3|2|1|6|83
+Cesar Valdez|R|Yonder Alonso|L|Lineout|X|Changeup|50|3|2|1|11|84
+Cesar Valdez|R|Khris Davis|R|Double|E|Sinker|51|0|0|2|1|89
+Cesar Valdez|R|Jed Lowrie|L|Groundout|C|Changeup|52|0|0|2|13|83
+Cesar Valdez|R|Jed Lowrie|L|Groundout|B|Sinker|53|0|1|2|14|89
+Cesar Valdez|R|Jed Lowrie|L|Groundout|S|Sinker|54|1|1|2|14|89
+Cesar Valdez|R|Jed Lowrie|L|Groundout|B|Changeup|55|1|2|2|13|81
+Cesar Valdez|R|Jed Lowrie|L|Groundout|X|Changeup|56|2|2|2|4|83
+Cesar Valdez|R|Ryon Healy|R|Lineout|C|Four-Seam Fastball|57|0|0|0|5|88
+Cesar Valdez|R|Ryon Healy|R|Lineout|B|Four-Seam Fastball|58|0|1|0|14|89
+Cesar Valdez|R|Ryon Healy|R|Lineout|S|Slider|59|1|1|0|6|79
+Cesar Valdez|R|Ryon Healy|R|Lineout|X|Slider|60|1|2|0|12|86
+Cesar Valdez|R|Matt Chapman|R|Strikeout|C|Sinker|61|0|0|1|1|85
+Cesar Valdez|R|Matt Chapman|R|Strikeout|S|Changeup|62|0|1|1|8|78
+Cesar Valdez|R|Matt Chapman|R|Strikeout|S|Changeup|63|0|2|1|9|84
+Cesar Valdez|R|Bruce Maxwell|L|Groundout|B|Sinker|64|0|0|2|11|87
+Cesar Valdez|R|Bruce Maxwell|L|Groundout|X|Changeup|65|1|0|2|8|83
+Cesar Valdez|R|Rajai Davis|R|Lineout|X|Four-Seam Fastball|66|0|0|0|3|88
+Cesar Valdez|R|Matt Joyce|L|Flyout|C|Sinker|67|0|0|1|13|86
+Cesar Valdez|R|Matt Joyce|L|Flyout|B|Sinker|68|0|1|1|13|88
+Cesar Valdez|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|69|1|1|1|3|88
+Cesar Valdez|R|Marcus Semien|R|Single|B|Sinker|70|0|0|2|13|88
+Cesar Valdez|R|Marcus Semien|R|Single|D|Sinker|71|1|0|2|5|88
+Cesar Valdez|R|Yonder Alonso|L|Strikeout|B|Changeup|72|0|0|2|13|83
+Cesar Valdez|R|Yonder Alonso|L|Strikeout|F|Slider|73|1|0|2|6|81
+Cesar Valdez|R|Yonder Alonso|L|Strikeout|W|Changeup|74|1|1|2|13|82
+Cesar Valdez|R|Yonder Alonso|L|Strikeout|W|Changeup|75|1|2|2|13|83
+Cesar Valdez|R|Khris Davis|R|Double|D|Changeup|76|0|0|0|9|82
+Cesar Valdez|R|Yunel Escobar|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|88
+Cesar Valdez|R|Yunel Escobar|R|Strikeout|S|Slider|1|0|1|0|14|80
+Cesar Valdez|R|Yunel Escobar|R|Strikeout|S|Changeup|2|0|2|0|14|82
+Cesar Valdez|R|Mike Trout|R|Single|D|Sinker|3|0|0|1|7|88
+Cesar Valdez|R|Albert Pujols|R|Home Run|C|Sinker|4|0|0|1|6|88
+Cesar Valdez|R|Albert Pujols|R|Home Run|B|Four-Seam Fastball|5|0|1|1|11|87
+Cesar Valdez|R|Albert Pujols|R|Home Run|B|Sinker|6|1|1|1|9|86
+Cesar Valdez|R|Albert Pujols|R|Home Run|E|Sinker|7|2|1|1|8|87
+Cesar Valdez|R|Kole Calhoun|L|Groundout|S|Sinker|8|0|0|1|13|87
+Cesar Valdez|R|Kole Calhoun|L|Groundout|B|Changeup|9|0|1|1|13|82
+Cesar Valdez|R|Kole Calhoun|L|Groundout|B|Changeup|10|1|1|1|13|82
+Cesar Valdez|R|Kole Calhoun|L|Groundout|X|Sinker|11|2|1|1|11|87
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|B|Slider|12|0|0|2|13|77
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|B|Slider|13|1|0|2|14|81
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|C|Four-Seam Fastball|14|2|0|2|6|88
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|B|Four-Seam Fastball|15|2|1|2|14|88
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|C|Four-Seam Fastball|16|3|1|2|9|87
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|F|Four-Seam Fastball|17|3|2|2|9|88
+Cesar Valdez|R|Andrelton Simmons|R|Groundout|X|Changeup|18|3|2|2|7|82
+Cesar Valdez|R|Luis Valbuena|L|Single|C|Sinker|19|0|0|0|4|86
+Cesar Valdez|R|Luis Valbuena|L|Single|B|Four-Seam Fastball|20|0|1|0|11|87
+Cesar Valdez|R|Luis Valbuena|L|Single|D|Slider|21|1|1|0|14|81
+Cesar Valdez|R|Ben Revere|L|Forceout|C|Changeup|22|0|0|0|11|84
+Cesar Valdez|R|Ben Revere|L|Forceout|X|Sinker|23|0|1|0|11|86
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|*B|Slider|24|0|0|1|14|80
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|B|Changeup|25|1|0|1|14|81
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|S|Sinker|26|2|0|1|11|86
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|B|Four-Seam Fastball|27|2|1|1|14|87
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|F|Four-Seam Fastball|28|3|1|1|6|87
+Cesar Valdez|R|Martin Maldonado|R|Strikeout Double Play|S|Changeup|29|3|2|1|13|81
+Cesar Valdez|R|Kaleb Cowart|L|Triple|D|Sinker|30|0|0|0|4|86
+Cesar Valdez|R|Yunel Escobar|R|Double|E|Changeup|31|0|0|0|4|80
+Cesar Valdez|R|Mike Trout|R|Intent Walk|B|Slider|32|0|0|0|14|80
+Cesar Valdez|R|Mike Trout|R|Intent Walk|B|Four-Seam Fastball|33|1|0|0|14|87
+Cesar Valdez|R|Mike Trout|R|Intent Walk|*B|Changeup|34|2|0|0|14|81
+Cesar Valdez|R|Mike Trout|R|Intent Walk|V|N/A|35|3|0|0|0|0
+Cesar Valdez|R|Albert Pujols|R|Single|*B|Slider|36|0|0|0|14|80
+Cesar Valdez|R|Albert Pujols|R|Single|F|Sinker|37|1|0|0|11|86
+Cesar Valdez|R|Albert Pujols|R|Single|F|Sinker|38|1|1|0|13|87
+Cesar Valdez|R|Albert Pujols|R|Single|F|Changeup|39|1|2|0|14|81
+Cesar Valdez|R|Albert Pujols|R|Single|B|Four-Seam Fastball|40|1|2|0|14|87
+Cesar Valdez|R|Albert Pujols|R|Single|F|Changeup|41|2|2|0|14|82
+Cesar Valdez|R|Albert Pujols|R|Single|E|Changeup|42|2|2|0|14|82
+Cesar Valdez|R|Kole Calhoun|L|Field Error|C|Changeup|43|0|0|0|8|85
+Cesar Valdez|R|Kole Calhoun|L|Field Error|F|Changeup|44|0|1|0|13|81
+Cesar Valdez|R|Kole Calhoun|L|Field Error|F|Changeup|45|0|2|0|8|81
+Cesar Valdez|R|Kole Calhoun|L|Field Error|F|Sinker|46|0|2|0|1|87
+Cesar Valdez|R|Kole Calhoun|L|Field Error|B|Four-Seam Fastball|47|0|2|0|14|87
+Cesar Valdez|R|Kole Calhoun|L|Field Error|D|Changeup|48|1|2|0|7|82
+Cesar Valdez|R|Andrelton Simmons|R|Double|B|Slider|49|0|0|0|14|80
+Cesar Valdez|R|Andrelton Simmons|R|Double|F|Changeup|50|1|0|0|11|80
+Cesar Valdez|R|Andrelton Simmons|R|Double|E|Changeup|51|1|1|0|11|82
+Cesar Valdez|R|Derek Fisher|L|Groundout|C|Sinker|0|0|0|0|4|87
+Cesar Valdez|R|Derek Fisher|L|Groundout|X|Sinker|1|0|1|0|13|86
+Cesar Valdez|R|Alex Bregman|R|Groundout|B|Four-Seam Fastball|2|0|0|1|14|89
+Cesar Valdez|R|Alex Bregman|R|Groundout|C|Changeup|3|1|0|1|14|82
+Cesar Valdez|R|Alex Bregman|R|Groundout|S|Four-Seam Fastball|4|1|1|1|12|90
+Cesar Valdez|R|Alex Bregman|R|Groundout|B|Slider|5|1|2|1|12|84
+Cesar Valdez|R|Alex Bregman|R|Groundout|X|Changeup|6|2|2|1|14|79
+Cesar Valdez|R|Josh Reddick|L|Single|C|Sinker|7|0|0|2|2|85
+Cesar Valdez|R|Josh Reddick|L|Single|D|Sinker|8|0|1|2|7|89
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|B|Changeup|9|0|0|2|13|81
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|C|Changeup|10|1|0|2|4|82
+Cesar Valdez|R|Yuli Gurriel|R|Home Run|E|Sinker|11|1|1|2|1|89
+Cesar Valdez|R|Marwin Gonzalez|L|Groundout|B|Sinker|12|0|0|2|11|88
+Cesar Valdez|R|Marwin Gonzalez|L|Groundout|X|Changeup|13|1|0|2|11|82
+Cesar Valdez|R|Carlos Beltran|L|Pop Out|C|Sinker|14|0|0|0|13|88
+Cesar Valdez|R|Carlos Beltran|L|Pop Out|B|Changeup|15|0|1|0|14|81
+Cesar Valdez|R|Carlos Beltran|L|Pop Out|B|Changeup|16|1|1|0|13|82
+Cesar Valdez|R|Carlos Beltran|L|Pop Out|X|Changeup|17|2|1|0|8|81
+Cesar Valdez|R|Brian McCann|L|Groundout|B|Sinker|18|0|0|1|13|86
+Cesar Valdez|R|Brian McCann|L|Groundout|C|Sinker|19|1|0|1|7|88
+Cesar Valdez|R|Brian McCann|L|Groundout|F|Changeup|20|1|1|1|13|79
+Cesar Valdez|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|21|1|2|1|11|88
+Cesar Valdez|R|Brian McCann|L|Groundout|X|Changeup|22|2|2|1|13|82
+Cesar Valdez|R|Tyler White|R|Flyout|B|Four-Seam Fastball|23|0|0|2|14|90
+Cesar Valdez|R|Tyler White|R|Flyout|S|Changeup|24|1|0|2|14|80
+Cesar Valdez|R|Tyler White|R|Flyout|B|Changeup|25|1|1|2|14|82
+Cesar Valdez|R|Tyler White|R|Flyout|S|Changeup|26|2|1|2|14|79
+Cesar Valdez|R|Tyler White|R|Flyout|X|Changeup|27|2|2|2|8|82
+Cesar Valdez|R|Jake Marisnick|R|Groundout|F|Sinker|28|0|0|0|13|87
+Cesar Valdez|R|Jake Marisnick|R|Groundout|B|Slider|29|0|1|0|14|83
+Cesar Valdez|R|Jake Marisnick|R|Groundout|X|Changeup|30|1|1|0|9|82
+Cesar Valdez|R|Derek Fisher|L|Double|B|Slider|31|0|0|1|14|80
+Cesar Valdez|R|Derek Fisher|L|Double|T|Changeup|32|1|0|1|13|82
+Cesar Valdez|R|Derek Fisher|L|Double|D|Four-Seam Fastball|33|1|1|1|5|89
+Cesar Valdez|R|Alex Bregman|R|Groundout|F|Sinker|34|0|0|1|4|88
+Cesar Valdez|R|Alex Bregman|R|Groundout|X|Changeup|35|0|1|1|5|82
+Cesar Valdez|R|Josh Reddick|L|Walk|C|Changeup|36|0|0|2|13|82
+Cesar Valdez|R|Josh Reddick|L|Walk|B|Changeup|37|0|1|2|13|80
+Cesar Valdez|R|Josh Reddick|L|Walk|B|Changeup|38|1|1|2|13|82
+Cesar Valdez|R|Josh Reddick|L|Walk|W|Changeup|39|2|1|2|14|82
+Cesar Valdez|R|Josh Reddick|L|Walk|F|Slider|40|2|2|2|9|80
+Cesar Valdez|R|Josh Reddick|L|Walk|B|Sinker|41|2|2|2|13|89
+Cesar Valdez|R|Josh Reddick|L|Walk|*B|Changeup|42|3|2|2|14|84
+Cesar Valdez|R|Yuli Gurriel|R|Single|B|Changeup|43|0|0|2|14|83
+Cesar Valdez|R|Yuli Gurriel|R|Single|F|Sinker|44|1|0|2|13|88
+Cesar Valdez|R|Yuli Gurriel|R|Single|F|Sinker|45|1|1|2|13|88
+Cesar Valdez|R|Yuli Gurriel|R|Single|B|Changeup|46|1|2|2|14|83
+Cesar Valdez|R|Yuli Gurriel|R|Single|F|Changeup|47|2|2|2|11|82
+Cesar Valdez|R|Yuli Gurriel|R|Single|B|Changeup|48|2|2|2|14|83
+Cesar Valdez|R|Yuli Gurriel|R|Single|F|Sinker|49|3|2|2|13|89
+Cesar Valdez|R|Yuli Gurriel|R|Single|E|Changeup|50|3|2|2|7|83
+Cesar Valdez|R|Marwin Gonzalez|L|Groundout|*B|Changeup|51|0|0|2|14|83
+Cesar Valdez|R|Marwin Gonzalez|L|Groundout|C|Changeup|52|1|0|2|4|81
+Cesar Valdez|R|Marwin Gonzalez|L|Groundout|X|Sinker|53|1|1|2|7|88
+Cesar Valdez|R|Carlos Beltran|L|Single|B|Sinker|54|0|0|0|11|85
+Cesar Valdez|R|Carlos Beltran|L|Single|B|Changeup|55|1|0|0|11|85
+Cesar Valdez|R|Carlos Beltran|L|Single|C|Changeup|56|2|0|0|7|81
+Cesar Valdez|R|Carlos Beltran|L|Single|D|Sinker|57|2|1|0|7|88
+Cesar Valdez|R|Brian McCann|L|Walk|B|Sinker|58|0|0|0|11|87
+Cesar Valdez|R|Brian McCann|L|Walk|B|Four-Seam Fastball|59|1|0|0|11|87
+Cesar Valdez|R|Brian McCann|L|Walk|B|Changeup|60|2|0|0|13|82
+Cesar Valdez|R|Brian McCann|L|Walk|B|Sinker|61|3|0|0|11|86
+Cesar Valdez|R|Tyler White|R|Double|E|Sinker|62|0|0|0|11|87
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|W|Changeup|63|0|0|0|14|82
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|F|Sinker|64|0|1|0|13|88
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|F|Changeup|65|0|2|0|9|80
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|*B|Slider|66|0|2|0|14|83
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|B|Sinker|67|1|2|0|11|88
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|F|Changeup|68|2|2|0|13|83
+Cesar Valdez|R|Jake Marisnick|R|Strikeout|W|Changeup|69|2|2|0|13|78

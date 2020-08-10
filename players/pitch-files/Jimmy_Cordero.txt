@@ -1,0 +1,880 @@
+Jimmy Cordero|R|Preston Tucker|L|Groundout|C|Sinker|0|0|0|0|8|95
+Jimmy Cordero|R|Preston Tucker|L|Groundout|X|Sinker|1|0|1|0|2|96
+Jimmy Cordero|R|Tucker Barnhart|L|Groundout|X|Sinker|2|0|0|1|1|94
+Jimmy Cordero|R|Brandon Dixon|R|Single|B|Four-Seam Fastball|3|0|0|2|12|98
+Jimmy Cordero|R|Brandon Dixon|R|Single|B|Slider|4|1|0|2|14|82
+Jimmy Cordero|R|Brandon Dixon|R|Single|D|Four-Seam Fastball|5|2|0|2|11|96
+Jimmy Cordero|R|Billy Hamilton|L|Walk|B|Slider|6|0|0|2|14|84
+Jimmy Cordero|R|Billy Hamilton|L|Walk|C|Four-Seam Fastball|7|1|0|2|1|97
+Jimmy Cordero|R|Billy Hamilton|L|Walk|B|Slider|8|1|1|2|14|85
+Jimmy Cordero|R|Billy Hamilton|L|Walk|F|Four-Seam Fastball|9|2|1|2|11|98
+Jimmy Cordero|R|Billy Hamilton|L|Walk|B|Slider|10|2|2|2|11|84
+Jimmy Cordero|R|Billy Hamilton|L|Walk|B|Four-Seam Fastball|11|3|2|2|11|97
+Jimmy Cordero|R|Jose Peraza|R|Double|B|Four-Seam Fastball|12|0|0|2|11|97
+Jimmy Cordero|R|Jose Peraza|R|Double|S|Four-Seam Fastball|13|1|0|2|11|97
+Jimmy Cordero|R|Jose Peraza|R|Double|B|Cutter|14|1|1|2|12|90
+Jimmy Cordero|R|Jose Peraza|R|Double|F|Four-Seam Fastball|15|2|1|2|3|96
+Jimmy Cordero|R|Jose Peraza|R|Double|E|Four-Seam Fastball|16|2|2|2|12|98
+Jimmy Cordero|R|Scooter Gennett|L|Flyout|S|Sinker|17|0|0|2|12|93
+Jimmy Cordero|R|Scooter Gennett|L|Flyout|X|Sinker|18|0|1|2|12|93
+Jimmy Cordero|R|Billy Hamilton|L|Strikeout|S|Sinker|0|0|0|0|1|94
+Jimmy Cordero|R|Billy Hamilton|L|Strikeout|F|Sinker|1|0|1|0|7|94
+Jimmy Cordero|R|Billy Hamilton|L|Strikeout|B|Sinker|2|0|2|0|11|96
+Jimmy Cordero|R|Billy Hamilton|L|Strikeout|C|Slider|3|1|2|0|12|85
+Jimmy Cordero|R|Jose Peraza|R|Flyout|B|Cutter|4|0|0|1|11|88
+Jimmy Cordero|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|5|1|0|1|5|96
+Jimmy Cordero|R|Phillip Ervin|R|Walk|B|Four-Seam Fastball|6|0|0|2|11|97
+Jimmy Cordero|R|Phillip Ervin|R|Walk|B|Sinker|7|1|0|2|11|95
+Jimmy Cordero|R|Phillip Ervin|R|Walk|B|Four-Seam Fastball|8|2|0|2|11|96
+Jimmy Cordero|R|Phillip Ervin|R|Walk|B|Four-Seam Fastball|9|3|0|2|11|97
+Jimmy Cordero|R|Joey Votto|L|Groundout|X|Sinker|10|0|0|2|8|95
+Jimmy Cordero|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|11|0|0|0|11|96
+Jimmy Cordero|R|Eugenio Suarez|R|Walk|B|Sinker|12|1|0|0|11|95
+Jimmy Cordero|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|13|2|0|0|11|95
+Jimmy Cordero|R|Eugenio Suarez|R|Walk|C|Four-Seam Fastball|14|3|0|0|3|94
+Jimmy Cordero|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|15|3|1|0|14|95
+Jimmy Cordero|R|Brandon Dixon|R|Walk|B|Cutter|16|0|0|0|14|88
+Jimmy Cordero|R|Brandon Dixon|R|Walk|B|Cutter|17|1|0|0|14|88
+Jimmy Cordero|R|Brandon Dixon|R|Walk|S|Four-Seam Fastball|18|2|0|0|2|95
+Jimmy Cordero|R|Brandon Dixon|R|Walk|*B|Cutter|19|2|1|0|14|88
+Jimmy Cordero|R|Brandon Dixon|R|Walk|B|Four-Seam Fastball|20|3|1|0|12|95
+Jimmy Cordero|R|Curt Casali|R|Groundout|B|Four-Seam Fastball|21|0|0|0|12|96
+Jimmy Cordero|R|Curt Casali|R|Groundout|X|Sinker|22|1|0|0|3|94
+Jimmy Cordero|R|Starlin Castro|R|Field Error|*B|Slider|0|0|0|0|14|85
+Jimmy Cordero|R|Starlin Castro|R|Field Error|D|Four-Seam Fastball|1|1|0|0|6|97
+Jimmy Cordero|R|Austin Dean|R|Strikeout|F|Four-Seam Fastball|2|0|0|0|12|97
+Jimmy Cordero|R|Austin Dean|R|Strikeout|W|Slider|3|0|1|0|14|84
+Jimmy Cordero|R|Austin Dean|R|Strikeout|F|Slider|4|0|2|0|5|84
+Jimmy Cordero|R|Austin Dean|R|Strikeout|B|Four-Seam Fastball|5|0|2|0|14|98
+Jimmy Cordero|R|Austin Dean|R|Strikeout|S|Slider|6|1|2|0|4|85
+Jimmy Cordero|R|JT Riddle|L|Single|*B|Four-Seam Fastball|7|0|0|1|13|99
+Jimmy Cordero|R|JT Riddle|L|Single|E|Four-Seam Fastball|8|1|0|1|13|95
+Jimmy Cordero|R|Isaac Galloway|R|Strikeout|F|Four-Seam Fastball|9|0|0|1|12|98
+Jimmy Cordero|R|Isaac Galloway|R|Strikeout|B|Four-Seam Fastball|10|0|1|1|11|98
+Jimmy Cordero|R|Isaac Galloway|R|Strikeout|F|Four-Seam Fastball|11|1|1|1|6|97
+Jimmy Cordero|R|Isaac Galloway|R|Strikeout|S|Four-Seam Fastball|12|1|2|1|2|99
+Jimmy Cordero|R|Miguel Rojas|R|Groundout|S|Changeup|13|0|0|2|11|88
+Jimmy Cordero|R|Miguel Rojas|R|Groundout|X|Four-Seam Fastball|14|0|1|2|8|97
+Jimmy Cordero|R|Rafael Ortega|L|Single|C|Four-Seam Fastball|15|0|0|0|2|97
+Jimmy Cordero|R|Rafael Ortega|L|Single|F|Changeup|16|0|1|0|11|89
+Jimmy Cordero|R|Rafael Ortega|L|Single|B|Four-Seam Fastball|17|0|2|0|12|98
+Jimmy Cordero|R|Rafael Ortega|L|Single|B|Four-Seam Fastball|18|1|2|0|12|98
+Jimmy Cordero|R|Rafael Ortega|L|Single|F|Changeup|19|2|2|0|11|89
+Jimmy Cordero|R|Rafael Ortega|L|Single|D|Four-Seam Fastball|20|2|2|0|12|97
+Jimmy Cordero|R|J.T. Realmuto|R|Forceout|B|Four-Seam Fastball|21|0|0|0|12|95
+Jimmy Cordero|R|J.T. Realmuto|R|Forceout|B|Four-Seam Fastball|22|1|0|0|11|96
+Jimmy Cordero|R|J.T. Realmuto|R|Forceout|C|Four-Seam Fastball|23|2|0|0|5|96
+Jimmy Cordero|R|J.T. Realmuto|R|Forceout|X|Four-Seam Fastball|24|2|1|0|9|96
+Jimmy Cordero|R|Brian Anderson|R|Flyout|B|Slider|25|0|0|1|12|84
+Jimmy Cordero|R|Brian Anderson|R|Flyout|X|Four-Seam Fastball|26|1|0|1|12|95
+Jimmy Cordero|R|Carlos Santana|L|Single|S|Changeup|0|0|0|0|13|87
+Jimmy Cordero|R|Carlos Santana|L|Single|*B|Four-Seam Fastball|1|0|1|0|14|97
+Jimmy Cordero|R|Carlos Santana|L|Single|E|Four-Seam Fastball|2|1|1|0|5|96
+Jimmy Cordero|R|Maikel Franco|R|Groundout|F|Four-Seam Fastball|3|0|0|0|4|97
+Jimmy Cordero|R|Maikel Franco|R|Groundout|F|Four-Seam Fastball|4|0|1|0|11|97
+Jimmy Cordero|R|Maikel Franco|R|Groundout|B|Changeup|5|0|2|0|11|90
+Jimmy Cordero|R|Maikel Franco|R|Groundout|*B|Slider|6|1|2|0|14|85
+Jimmy Cordero|R|Maikel Franco|R|Groundout|B|Changeup|7|2|2|0|11|89
+Jimmy Cordero|R|Maikel Franco|R|Groundout|E|Four-Seam Fastball|8|3|2|0|3|97
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|S|Slider|9|0|0|1|13|85
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|W|Slider|10|0|1|1|13|86
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|F|Slider|11|0|2|1|4|85
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|*B|Sinker|12|0|2|1|13|97
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|F|Slider|13|1|2|1|7|86
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|F|Sinker|14|1|2|1|13|98
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|B|Four-Seam Fastball|15|1|2|1|11|98
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|F|Slider|16|2|2|1|8|86
+Jimmy Cordero|R|Odubel Herrera|L|Flyout|X|Slider|17|2|2|1|4|86
+Jimmy Cordero|R|Jorge Alfaro|R|Groundout|S|Sinker|18|0|0|2|13|96
+Jimmy Cordero|R|Jorge Alfaro|R|Groundout|X|Sinker|19|0|1|2|13|98
+Jimmy Cordero|R|Odubel Herrera|L|Field Error|B|Slider|0|0|0|0|14|83
+Jimmy Cordero|R|Odubel Herrera|L|Field Error|D|Sinker|1|1|0|0|9|95
+Jimmy Cordero|R|Roman Quinn|L|Single|B|Sinker|2|0|0|0|11|93
+Jimmy Cordero|R|Roman Quinn|L|Single|C|Sinker|3|1|0|0|5|95
+Jimmy Cordero|R|Roman Quinn|L|Single|B|Sinker|4|1|1|0|13|97
+Jimmy Cordero|R|Roman Quinn|L|Single|D|Sinker|5|2|1|0|11|97
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|F|Sinker|6|0|0|0|11|96
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|X|Sinker|7|0|1|0|13|98
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|8|0|0|1|11|99
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|9|1|0|1|13|98
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|10|2|0|1|13|97
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|11|3|0|1|11|97
+Jimmy Cordero|R|Asdrubal Cabrera|L|Pop Out|B|Sinker|12|0|0|1|13|99
+Jimmy Cordero|R|Asdrubal Cabrera|L|Pop Out|F|Sinker|13|1|0|1|13|98
+Jimmy Cordero|R|Asdrubal Cabrera|L|Pop Out|X|Sinker|14|1|1|1|5|98
+Jimmy Cordero|R|Jose Bautista|R|Strikeout|C|Slider|0|0|0|2|3|86
+Jimmy Cordero|R|Jose Bautista|R|Strikeout|S|Slider|1|0|1|2|14|86
+Jimmy Cordero|R|Jose Bautista|R|Strikeout|S|Slider|2|0|2|2|14|86
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|11|97
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|B|Slider|1|0|1|0|11|82
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|F|Slider|2|1|1|0|5|83
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|F|Changeup|3|1|2|0|1|91
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|F|Changeup|4|1|2|0|1|90
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|F|Slider|5|1|2|0|9|84
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|6|1|2|0|14|100
+Jimmy Cordero|R|Scott Kingery|R|Strikeout|W|Slider|7|2|2|0|14|86
+Jimmy Cordero|R|Asdrubal Cabrera|L|Flyout|B|Sinker|8|0|0|1|14|96
+Jimmy Cordero|R|Asdrubal Cabrera|L|Flyout|B|Sinker|9|1|0|1|14|98
+Jimmy Cordero|R|Asdrubal Cabrera|L|Flyout|F|Four-Seam Fastball|10|2|0|1|14|98
+Jimmy Cordero|R|Asdrubal Cabrera|L|Flyout|B|Changeup|11|2|1|1|13|91
+Jimmy Cordero|R|Asdrubal Cabrera|L|Flyout|X|Four-Seam Fastball|12|3|1|1|3|97
+Jimmy Cordero|R|Roman Quinn|L|Groundout|B|Slider|13|0|0|2|13|84
+Jimmy Cordero|R|Roman Quinn|L|Groundout|S|Sinker|14|1|0|2|4|97
+Jimmy Cordero|R|Roman Quinn|L|Groundout|X|Slider|15|1|1|2|13|85
+Jimmy Cordero|R|Rhys Hoskins|R|Hit By Pitch|C|Slider|16|0|0|0|11|85
+Jimmy Cordero|R|Rhys Hoskins|R|Hit By Pitch|F|Sinker|17|0|1|0|14|98
+Jimmy Cordero|R|Rhys Hoskins|R|Hit By Pitch|H|Sinker|18|0|2|0|11|98
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|B|Four-Seam Fastball|19|0|0|0|11|96
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|B|Slider|20|1|0|0|14|86
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|F|Four-Seam Fastball|21|2|0|0|9|98
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|F|Four-Seam Fastball|22|2|1|0|1|98
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|B|Slider|23|2|2|0|11|86
+Jimmy Cordero|R|Cesar Hernandez|L|Forceout|X|Four-Seam Fastball|24|3|2|0|7|99
+Jimmy Cordero|R|Wilson Ramos|R|Walk|F|Four-Seam Fastball|25|0|0|1|4|99
+Jimmy Cordero|R|Wilson Ramos|R|Walk|B|Four-Seam Fastball|26|0|1|1|11|99
+Jimmy Cordero|R|Wilson Ramos|R|Walk|B|Cutter|27|1|1|1|13|90
+Jimmy Cordero|R|Wilson Ramos|R|Walk|B|Four-Seam Fastball|28|2|1|1|14|98
+Jimmy Cordero|R|Wilson Ramos|R|Walk|F|Four-Seam Fastball|29|3|1|1|8|98
+Jimmy Cordero|R|Wilson Ramos|R|Walk|F|Slider|30|3|2|1|8|87
+Jimmy Cordero|R|Wilson Ramos|R|Walk|B|Slider|31|3|2|1|13|86
+Jimmy Cordero|R|Carlos Santana|L|Strikeout|C|Slider|32|0|0|1|7|85
+Jimmy Cordero|R|Carlos Santana|L|Strikeout|*B|Sinker|33|0|1|1|13|98
+Jimmy Cordero|R|Carlos Santana|L|Strikeout|F|Sinker|34|1|1|1|1|97
+Jimmy Cordero|R|Carlos Santana|L|Strikeout|F|Sinker|35|1|2|1|7|98
+Jimmy Cordero|R|Carlos Santana|L|Strikeout|C|Sinker|36|1|2|1|5|96
+Jimmy Cordero|R|Jose Bautista|R|Single|B|Four-Seam Fastball|37|0|0|2|14|98
+Jimmy Cordero|R|Jose Bautista|R|Single|B|Four-Seam Fastball|38|1|0|2|12|98
+Jimmy Cordero|R|Jose Bautista|R|Single|C|Four-Seam Fastball|39|2|0|2|3|98
+Jimmy Cordero|R|Jose Bautista|R|Single|B|Four-Seam Fastball|40|2|1|2|14|99
+Jimmy Cordero|R|Jose Bautista|R|Single|E|Four-Seam Fastball|41|3|1|2|12|98
+Jimmy Cordero|R|Lorenzo Cain|R|Lineout|X|Sinker|0|0|0|0|5|95
+Jimmy Cordero|R|Christian Yelich|L|Groundout|X|Sinker|1|0|0|1|14|95
+Jimmy Cordero|R|Jesus Aguilar|R|Flyout|X|Four-Seam Fastball|2|0|0|2|3|97
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|S|Four-Seam Fastball|0|0|0|0|3|95
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|X|Sinker|1|0|1|0|7|95
+Jimmy Cordero|R|Manny Pina|R|Home Run|B|Slider|2|0|0|1|14|84
+Jimmy Cordero|R|Manny Pina|R|Home Run|F|Four-Seam Fastball|3|1|0|1|6|97
+Jimmy Cordero|R|Manny Pina|R|Home Run|B|Sinker|4|1|1|1|11|95
+Jimmy Cordero|R|Manny Pina|R|Home Run|E|Four-Seam Fastball|5|2|1|1|4|97
+Jimmy Cordero|R|Eric Thames|L|Groundout|X|Four-Seam Fastball|6|0|0|1|14|99
+Jimmy Cordero|R|Lorenzo Cain|R|Single|S|Sinker|7|0|0|2|13|97
+Jimmy Cordero|R|Lorenzo Cain|R|Single|B|Slider|8|0|1|2|14|83
+Jimmy Cordero|R|Lorenzo Cain|R|Single|D|Sinker|9|1|1|2|4|96
+Jimmy Cordero|R|Patrick Wisdom|R|Hit By Pitch|H|Sinker|0|0|0|0|11|95
+Jimmy Cordero|R|Matt Carpenter|L|Intent Walk|B|Four-Seam Fastball|1|0|0|0|11|96
+Jimmy Cordero|R|Matt Carpenter|L|Intent Walk|B|Four-Seam Fastball|2|1|0|0|12|98
+Jimmy Cordero|R|Matt Carpenter|L|Intent Walk|V|N/A|3|2|0|0|0|0
+Jimmy Cordero|R|Matt Carpenter|L|Intent Walk|V|N/A|4|2|1|0|0|0
+Jimmy Cordero|R|Yairo Munoz|R|Single|B|Sinker|5|0|0|0|11|96
+Jimmy Cordero|R|Yairo Munoz|R|Single|F|Changeup|6|1|0|0|4|89
+Jimmy Cordero|R|Yairo Munoz|R|Single|D|Sinker|7|1|1|0|1|98
+Jimmy Cordero|R|Jose Martinez|R|Groundout|S|Four-Seam Fastball|0|0|0|2|14|97
+Jimmy Cordero|R|Jose Martinez|R|Groundout|F|Four-Seam Fastball|1|0|1|2|5|99
+Jimmy Cordero|R|Jose Martinez|R|Groundout|X|Four-Seam Fastball|2|0|2|2|12|100
+Jimmy Cordero|R|Kris Bryant|R|Groundout|F|Four-Seam Fastball|0|0|0|0|2|99
+Jimmy Cordero|R|Kris Bryant|R|Groundout|F|Four-Seam Fastball|1|0|1|0|1|99
+Jimmy Cordero|R|Kris Bryant|R|Groundout|X|Four-Seam Fastball|2|0|2|0|9|100
+Jimmy Cordero|R|Albert Almora Jr.|R|Double|F|Changeup|3|0|0|1|4|91
+Jimmy Cordero|R|Albert Almora Jr.|R|Double|B|Four-Seam Fastball|4|0|1|1|11|99
+Jimmy Cordero|R|Albert Almora Jr.|R|Double|D|Four-Seam Fastball|5|1|1|1|12|99
+Jimmy Cordero|R|David Bote|R|Double|B|Four-Seam Fastball|6|0|0|1|11|99
+Jimmy Cordero|R|David Bote|R|Double|C|Slider|7|1|0|1|4|83
+Jimmy Cordero|R|David Bote|R|Double|E|Four-Seam Fastball|8|1|1|1|8|100
+Jimmy Cordero|R|Ian Happ|L|Intent Walk|V|N/A|9|0|0|1|0|0
+Jimmy Cordero|R|Ian Happ|L|Intent Walk|V|N/A|10|0|1|1|0|0
+Jimmy Cordero|R|Ian Happ|L|Intent Walk|V|N/A|11|0|2|1|0|0
+Jimmy Cordero|R|Ian Happ|L|Intent Walk|V|N/A|12|0|2|1|0|0
+Jimmy Cordero|R|Victor Caratini|L|Strikeout|*B|Changeup|13|0|0|1|13|90
+Jimmy Cordero|R|Victor Caratini|L|Strikeout|W|Slider|14|1|0|1|14|85
+Jimmy Cordero|R|Victor Caratini|L|Strikeout|C|Slider|15|1|1|1|5|85
+Jimmy Cordero|R|Victor Caratini|L|Strikeout|C|Slider|16|1|2|1|6|88
+Jimmy Cordero|R|Taylor Davis|R|Single|C|Four-Seam Fastball|17|0|0|2|9|100
+Jimmy Cordero|R|Taylor Davis|R|Single|E|Slider|18|0|1|2|6|87
+Jimmy Cordero|R|Javier Baez|R|Strikeout|T|Four-Seam Fastball|19|0|0|2|5|100
+Jimmy Cordero|R|Javier Baez|R|Strikeout|F|Four-Seam Fastball|20|0|1|2|12|100
+Jimmy Cordero|R|Javier Baez|R|Strikeout|B|Four-Seam Fastball|21|0|2|2|11|101
+Jimmy Cordero|R|Javier Baez|R|Strikeout|*B|Cutter|22|1|2|2|14|91
+Jimmy Cordero|R|Javier Baez|R|Strikeout|S|Cutter|23|2|2|2|13|92
+Jimmy Cordero|R|Javier Baez|R|Home Run|B|Four-Seam Fastball|0|0|0|1|14|97
+Jimmy Cordero|R|Javier Baez|R|Home Run|E|Four-Seam Fastball|1|1|0|1|5|97
+Jimmy Cordero|R|Victor Caratini|L|Groundout|S|Changeup|2|0|0|1|13|90
+Jimmy Cordero|R|Victor Caratini|L|Groundout|C|Slider|3|0|1|1|11|84
+Jimmy Cordero|R|Victor Caratini|L|Groundout|B|Four-Seam Fastball|4|0|2|1|14|100
+Jimmy Cordero|R|Victor Caratini|L|Groundout|X|Four-Seam Fastball|5|1|2|1|13|98
+Jimmy Cordero|R|David Bote|R|Strikeout|B|Four-Seam Fastball|6|0|0|2|13|99
+Jimmy Cordero|R|David Bote|R|Strikeout|C|Slider|7|1|0|2|6|84
+Jimmy Cordero|R|David Bote|R|Strikeout|F|Four-Seam Fastball|8|1|1|2|6|98
+Jimmy Cordero|R|David Bote|R|Strikeout|S|Cutter|9|1|2|2|9|89
+Jimmy Cordero|R|Addison Russell|R|Groundout|X|Cutter|10|0|0|0|6|87
+Jimmy Cordero|R|Albert Almora Jr.|R|Flyout|C|Four-Seam Fastball|11|0|0|1|14|98
+Jimmy Cordero|R|Albert Almora Jr.|R|Flyout|S|Slider|12|0|1|1|14|84
+Jimmy Cordero|R|Albert Almora Jr.|R|Flyout|X|Cutter|13|0|2|1|6|88
+Jimmy Cordero|R|Ian Happ|L|Flyout|B|Sinker|14|0|0|2|13|98
+Jimmy Cordero|R|Ian Happ|L|Flyout|C|Changeup|15|1|0|2|6|91
+Jimmy Cordero|R|Ian Happ|L|Flyout|S|Sinker|16|1|1|2|13|98
+Jimmy Cordero|R|Ian Happ|L|Flyout|X|Cutter|17|1|2|2|5|89
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|B|Slider|0|0|0|2|14|84
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|C|Slider|1|1|0|2|9|85
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|S|Sinker|2|1|1|2|13|95
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|B|Sinker|3|1|2|2|13|99
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|F|Slider|4|2|2|2|9|86
+Jimmy Cordero|R|Aaron Altherr|R|Strikeout|W|Slider|5|2|2|2|14|85
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|B|Four-Seam Fastball|0|0|0|0|11|98
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|B|Four-Seam Fastball|1|1|0|0|11|98
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|S|Four-Seam Fastball|2|2|0|0|11|98
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|S|Cutter|3|2|1|0|6|87
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|F|Slider|4|2|2|0|6|87
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|B|Changeup|5|2|2|0|11|91
+Jimmy Cordero|R|Ronald Acuna Jr.|R|Single|D|Cutter|6|3|2|0|14|88
+Jimmy Cordero|R|Ozzie Albies|L|Single|B|Sinker|7|0|0|0|11|97
+Jimmy Cordero|R|Ozzie Albies|L|Single|F|Sinker|8|1|0|0|7|97
+Jimmy Cordero|R|Ozzie Albies|L|Single|F|Sinker|9|1|1|0|11|98
+Jimmy Cordero|R|Ozzie Albies|L|Single|D|Sinker|10|1|2|0|13|99
+Jimmy Cordero|R|Peter O'Brien|R|Groundout|B|Slider|0|0|0|0|11|82
+Jimmy Cordero|R|Peter O'Brien|R|Groundout|X|Four-Seam Fastball|1|1|0|0|2|96
+Jimmy Cordero|R|Lewis Brinson|R|Single|F|Four-Seam Fastball|2|0|0|1|8|95
+Jimmy Cordero|R|Lewis Brinson|R|Single|S|Slider|3|0|1|1|7|83
+Jimmy Cordero|R|Lewis Brinson|R|Single|D|Slider|4|0|2|1|1|83
+Jimmy Cordero|R|Miguel Rojas|R|Single|F|Four-Seam Fastball|5|0|0|1|14|96
+Jimmy Cordero|R|Miguel Rojas|R|Single|F|Four-Seam Fastball|6|0|1|1|5|97
+Jimmy Cordero|R|Miguel Rojas|R|Single|D|Cutter|7|0|2|1|9|89
+Jimmy Cordero|R|Austin Dean|R|Single|C|Slider|8|0|0|1|6|83
+Jimmy Cordero|R|Austin Dean|R|Single|B|Four-Seam Fastball|9|0|1|1|14|97
+Jimmy Cordero|R|Austin Dean|R|Single|D|Cutter|10|1|1|1|5|89
+Jimmy Cordero|R|Magneuris Sierra|L|Single|B|Sinker|11|0|0|1|13|97
+Jimmy Cordero|R|Magneuris Sierra|L|Single|F|Slider|12|1|0|1|13|85
+Jimmy Cordero|R|Magneuris Sierra|L|Single|*B|Changeup|13|1|1|1|13|91
+Jimmy Cordero|R|Magneuris Sierra|L|Single|E|Sinker|14|2|1|1|5|96
+Jimmy Cordero|R|Dominic Smith|L|Groundout|B|Sinker|0|0|0|0|11|96
+Jimmy Cordero|R|Dominic Smith|L|Groundout|S|Changeup|1|1|0|0|14|90
+Jimmy Cordero|R|Dominic Smith|L|Groundout|X|Sinker|2|1|1|0|13|97
+Jimmy Cordero|R|Todd Frazier|R|Strikeout|S|Cutter|3|0|0|1|14|90
+Jimmy Cordero|R|Todd Frazier|R|Strikeout|S|Cutter|4|0|1|1|12|89
+Jimmy Cordero|R|Todd Frazier|R|Strikeout|S|Cutter|5|0|2|1|3|91
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|B|Four-Seam Fastball|6|0|0|2|12|99
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|B|Four-Seam Fastball|7|1|0|2|14|99
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|C|Sinker|8|2|0|2|13|97
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|F|Changeup|9|2|1|2|11|91
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|B|Cutter|10|2|2|2|12|90
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|F|Cutter|11|3|2|2|12|90
+Jimmy Cordero|R|Devin Mesoraco|R|Walk|*B|Cutter|12|3|2|2|14|89
+Jimmy Cordero|R|Austin Jackson|R|Strikeout|B|Sinker|13|0|0|2|14|96
+Jimmy Cordero|R|Austin Jackson|R|Strikeout|S|Cutter|14|1|0|2|14|89
+Jimmy Cordero|R|Austin Jackson|R|Strikeout|S|Sinker|15|1|1|2|13|98
+Jimmy Cordero|R|Austin Jackson|R|Strikeout|S|Changeup|16|1|2|2|13|90
+Jimmy Cordero|R|Jack Reinheimer|R|Flyout|C|Four-Seam Fastball|0|0|0|2|4|96
+Jimmy Cordero|R|Jack Reinheimer|R|Flyout|B|Slider|1|0|1|2|14|82
+Jimmy Cordero|R|Jack Reinheimer|R|Flyout|C|Four-Seam Fastball|2|1|1|2|6|96
+Jimmy Cordero|R|Jack Reinheimer|R|Flyout|B|Cutter|3|1|2|2|14|89
+Jimmy Cordero|R|Jack Reinheimer|R|Flyout|X|Slider|4|2|2|2|1|86
+Jimmy Cordero|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|5|0|0|0|13|97
+Jimmy Cordero|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|6|1|0|0|12|94
+Jimmy Cordero|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|7|2|0|0|13|96
+Jimmy Cordero|R|Dominic Smith|L|Walk|C|Four-Seam Fastball|8|3|0|0|2|96
+Jimmy Cordero|R|Dominic Smith|L|Walk|C|Four-Seam Fastball|9|3|1|0|12|97
+Jimmy Cordero|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|10|3|2|0|11|98
+Jimmy Cordero|R|Amed Rosario|R|Lineout|B|Slider|11|0|0|0|14|85
+Jimmy Cordero|R|Amed Rosario|R|Lineout|X|Four-Seam Fastball|12|1|0|0|6|97
+Jimmy Cordero|R|Brandon Nimmo|L|Groundout|C|Four-Seam Fastball|13|0|0|1|11|97
+Jimmy Cordero|R|Brandon Nimmo|L|Groundout|*B|Changeup|14|0|1|1|14|90
+Jimmy Cordero|R|Brandon Nimmo|L|Groundout|X|Slider|15|1|1|1|5|83
+Jimmy Cordero|R|Amed Rosario|R|Groundout|X|Sinker|0|0|0|2|13|95
+Jimmy Cordero|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|1|0|0|0|12|96
+Jimmy Cordero|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|2|0|1|0|12|96
+Jimmy Cordero|R|Jeff McNeil|L|Walk|C|Changeup|3|1|1|0|1|88
+Jimmy Cordero|R|Jeff McNeil|L|Walk|B|Four-Seam Fastball|4|1|2|0|14|98
+Jimmy Cordero|R|Jeff McNeil|L|Walk|B|Slider|5|2|2|0|12|85
+Jimmy Cordero|R|Jeff McNeil|L|Walk|F|Four-Seam Fastball|6|3|2|0|11|98
+Jimmy Cordero|R|Jeff McNeil|L|Walk|*B|Changeup|7|3|2|0|14|90
+Jimmy Cordero|R|Michael Conforto|L|Grounded Into DP|B|Four-Seam Fastball|8|0|0|0|12|98
+Jimmy Cordero|R|Michael Conforto|L|Grounded Into DP|B|Four-Seam Fastball|9|1|0|0|12|97
+Jimmy Cordero|R|Michael Conforto|L|Grounded Into DP|X|Sinker|10|2|0|0|4|96
+Jimmy Cordero|R|Lewis Brinson|R|Single|C|Slider|0|0|0|0|8|81
+Jimmy Cordero|R|Lewis Brinson|R|Single|D|Four-Seam Fastball|1|0|1|0|13|97
+Jimmy Cordero|R|Bryan Holaday|R|Pop Out|*B|Slider|2|0|0|0|14|84
+Jimmy Cordero|R|Bryan Holaday|R|Pop Out|B|Four-Seam Fastball|3|1|0|0|14|97
+Jimmy Cordero|R|Bryan Holaday|R|Pop Out|C|Four-Seam Fastball|4|2|0|0|13|96
+Jimmy Cordero|R|Bryan Holaday|R|Pop Out|C|Slider|5|2|1|0|6|84
+Jimmy Cordero|R|Bryan Holaday|R|Pop Out|X|Four-Seam Fastball|6|2|2|0|4|97
+Jimmy Cordero|R|Magneuris Sierra|L|Flyout|W|Slider|7|0|0|1|14|84
+Jimmy Cordero|R|Magneuris Sierra|L|Flyout|X|Sinker|8|0|1|1|1|97
+Jimmy Cordero|R|Christopher Bostick|R|Single|C|Slider|9|0|0|2|2|86
+Jimmy Cordero|R|Christopher Bostick|R|Single|B|Slider|10|0|1|2|11|84
+Jimmy Cordero|R|Christopher Bostick|R|Single|E|Four-Seam Fastball|11|1|1|2|13|95
+Jimmy Cordero|R|Isaac Galloway|R|Forceout|F|Four-Seam Fastball|12|0|0|2|2|96
+Jimmy Cordero|R|Isaac Galloway|R|Forceout|B|Four-Seam Fastball|13|0|1|2|14|97
+Jimmy Cordero|R|Isaac Galloway|R|Forceout|C|Slider|14|1|1|2|9|86
+Jimmy Cordero|R|Isaac Galloway|R|Forceout|F|Four-Seam Fastball|15|1|2|2|6|97
+Jimmy Cordero|R|Isaac Galloway|R|Forceout|X|Cutter|16|1|2|2|6|90
+Jimmy Cordero|R|Chris Iannetta|R|Single|D|Four-Seam Fastball|0|0|0|0|5|96
+Jimmy Cordero|R|Gerardo Parra|L|Grounded Into DP|C|Four-Seam Fastball|1|0|0|0|11|94
+Jimmy Cordero|R|Gerardo Parra|L|Grounded Into DP|B|Changeup|2|0|1|0|13|88
+Jimmy Cordero|R|Gerardo Parra|L|Grounded Into DP|B|Changeup|3|1|1|0|14|90
+Jimmy Cordero|R|Gerardo Parra|L|Grounded Into DP|X|Four-Seam Fastball|4|2|1|0|7|95
+Jimmy Cordero|R|Charlie Blackmon|L|Flyout|C|Changeup|5|0|0|2|9|89
+Jimmy Cordero|R|Charlie Blackmon|L|Flyout|B|Changeup|6|0|1|2|13|90
+Jimmy Cordero|R|Charlie Blackmon|L|Flyout|S|Sinker|7|1|1|2|14|98
+Jimmy Cordero|R|Charlie Blackmon|L|Flyout|X|Changeup|8|1|2|2|5|89
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|C|Sinker|0|0|0|0|7|97
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|B|Changeup|1|0|1|0|14|89
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|B|Cutter|2|1|1|0|14|90
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|F|Sinker|3|2|1|0|13|97
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|F|Slider|4|2|2|0|14|85
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|F|Cutter|5|2|2|0|3|90
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|B|Slider|6|2|2|0|11|86
+Jimmy Cordero|R|Nolan Arenado|R|Lineout|X|Slider|7|3|2|0|5|85
+Jimmy Cordero|R|Trevor Story|R|Walk|B|Changeup|8|0|0|1|14|90
+Jimmy Cordero|R|Trevor Story|R|Walk|F|Four-Seam Fastball|9|1|0|1|9|98
+Jimmy Cordero|R|Trevor Story|R|Walk|B|Four-Seam Fastball|10|1|1|1|14|97
+Jimmy Cordero|R|Trevor Story|R|Walk|B|Four-Seam Fastball|11|2|1|1|11|97
+Jimmy Cordero|R|Trevor Story|R|Walk|F|Four-Seam Fastball|12|3|1|1|8|99
+Jimmy Cordero|R|Trevor Story|R|Walk|*B|Four-Seam Fastball|13|3|2|1|14|100
+Jimmy Cordero|R|Carlos Gonzalez|L|Flyout|F|Four-Seam Fastball|14|0|0|1|6|100
+Jimmy Cordero|R|Carlos Gonzalez|L|Flyout|B|Four-Seam Fastball|15|0|1|1|14|100
+Jimmy Cordero|R|Carlos Gonzalez|L|Flyout|B|Four-Seam Fastball|16|1|1|1|14|99
+Jimmy Cordero|R|Carlos Gonzalez|L|Flyout|X|Sinker|17|2|1|1|9|98
+Jimmy Cordero|R|Ian Desmond|R|Groundout|B|Cutter|18|0|0|2|14|92
+Jimmy Cordero|R|Ian Desmond|R|Groundout|S|Changeup|19|1|0|2|13|91
+Jimmy Cordero|R|Ian Desmond|R|Groundout|X|Cutter|20|1|1|2|14|92
+Jimmy Cordero|R|Justin Upton|R|Strikeout|B|Sinker|0|0|0|2|11|97
+Jimmy Cordero|R|Justin Upton|R|Strikeout|F|Sinker|1|1|0|2|7|98
+Jimmy Cordero|R|Justin Upton|R|Strikeout|S|Sinker|2|1|1|2|7|99
+Jimmy Cordero|R|Justin Upton|R|Strikeout|S|Sinker|3|1|2|2|11|99
+Jimmy Cordero|R|Kole Calhoun|L|Groundout|X|Four-Seam Fastball|4|0|0|0|11|95
+Jimmy Cordero|R|Albert Pujols|R|Groundout|C|Sinker|5|0|0|1|11|96
+Jimmy Cordero|R|Albert Pujols|R|Groundout|B|Sinker|6|0|1|1|13|97
+Jimmy Cordero|R|Albert Pujols|R|Groundout|F|Sinker|7|1|1|1|11|96
+Jimmy Cordero|R|Albert Pujols|R|Groundout|F|Changeup|8|1|2|1|13|87
+Jimmy Cordero|R|Albert Pujols|R|Groundout|X|Four-Seam Fastball|9|1|2|1|2|99
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|B|Slider|10|0|0|2|11|82
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|S|Changeup|11|1|0|2|7|88
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|B|Changeup|12|1|1|2|11|86
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|B|Four-Seam Fastball|13|2|1|2|14|97
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|S|Sinker|14|3|1|2|11|97
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|F|Sinker|15|3|2|2|11|98
+Jimmy Cordero|R|Brian Goodwin|L|Strikeout|C|Four-Seam Fastball|16|3|2|2|3|97
+Jimmy Cordero|R|Luis Rengifo|L|Walk|B|Four-Seam Fastball|17|0|0|0|7|93
+Jimmy Cordero|R|Luis Rengifo|L|Walk|S|Changeup|18|1|0|0|7|86
+Jimmy Cordero|R|Luis Rengifo|L|Walk|B|Changeup|19|1|1|0|13|85
+Jimmy Cordero|R|Luis Rengifo|L|Walk|B|Four-Seam Fastball|20|2|1|0|12|94
+Jimmy Cordero|R|Luis Rengifo|L|Walk|B|Sinker|21|3|1|0|14|94
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|*B|Changeup|22|0|0|0|14|88
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|B|Sinker|23|1|0|0|13|98
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|C|Sinker|24|2|0|0|4|97
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|F|Sinker|25|2|1|0|5|97
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|B|Sinker|26|2|2|0|11|97
+Jimmy Cordero|R|Matt Thaiss|L|Strikeout|C|Sinker|27|3|2|0|3|96
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|B|Sinker|0|0|0|1|13|95
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|B|Sinker|1|1|0|1|11|95
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|C|Sinker|2|2|0|1|5|93
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|C|Sinker|3|2|1|1|11|94
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|F|Changeup|4|2|2|1|6|85
+Jimmy Cordero|R|Roberto Perez|R|Strikeout|S|Changeup|5|2|2|1|9|85
+Jimmy Cordero|R|Yu Chang|R|Groundout|B|Changeup|6|0|0|2|11|85
+Jimmy Cordero|R|Yu Chang|R|Groundout|F|Sinker|7|1|0|2|5|95
+Jimmy Cordero|R|Yu Chang|R|Groundout|X|Sinker|8|1|1|2|11|96
+Jimmy Cordero|R|Francisco Lindor|L|Double|C|Slider|9|0|0|0|8|79
+Jimmy Cordero|R|Francisco Lindor|L|Double|B|Changeup|10|0|1|0|11|85
+Jimmy Cordero|R|Francisco Lindor|L|Double|B|Four-Seam Fastball|11|1|1|0|11|95
+Jimmy Cordero|R|Francisco Lindor|L|Double|D|Sinker|12|2|1|0|7|95
+Jimmy Cordero|R|Oscar Mercado|R|Flyout|C|Sinker|13|0|0|0|3|95
+Jimmy Cordero|R|Oscar Mercado|R|Flyout|X|Changeup|14|0|1|0|8|86
+Jimmy Cordero|R|Carlos Santana|L|Pop Out|*B|Changeup|15|0|0|1|14|87
+Jimmy Cordero|R|Carlos Santana|L|Pop Out|X|Changeup|16|1|0|1|4|88
+Jimmy Cordero|R|Yasiel Puig|R|Flyout|C|Sinker|17|0|0|2|8|98
+Jimmy Cordero|R|Yasiel Puig|R|Flyout|X|Changeup|18|0|1|2|6|86
+Jimmy Cordero|R|Jordy Mercer|R|Single|C|Sinker|0|0|0|0|7|96
+Jimmy Cordero|R|Jordy Mercer|R|Single|D|Sinker|1|0|1|0|11|97
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|C|Four-Seam Fastball|2|0|0|0|13|99
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|F|Sinker|3|0|1|0|11|97
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|B|Sinker|4|0|2|0|11|99
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|F|Slider|5|1|2|0|3|85
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|F|Slider|6|1|2|0|3|84
+Jimmy Cordero|R|JaCoby Jones|R|Forceout|X|Sinker|7|1|2|0|4|99
+Jimmy Cordero|R|Niko Goodrum|L|Strikeout|B|Sinker|8|0|0|1|13|98
+Jimmy Cordero|R|Niko Goodrum|L|Strikeout|C|Sinker|9|1|0|1|14|96
+Jimmy Cordero|R|Niko Goodrum|L|Strikeout|S|Changeup|10|1|1|1|14|89
+Jimmy Cordero|R|Niko Goodrum|L|Strikeout|T|Changeup|11|1|2|1|7|90
+Jimmy Cordero|R|Miguel Cabrera|R|Single|F|Sinker|12|0|0|2|7|98
+Jimmy Cordero|R|Miguel Cabrera|R|Single|D|Sinker|13|0|1|2|7|98
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|C|Four-Seam Fastball|14|0|0|2|9|98
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|S|Sinker|15|0|1|2|13|98
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|S|Sinker|16|0|2|2|11|100
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|C|Sinker|0|0|0|0|4|97
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|C|Slider|1|0|1|0|8|82
+Jimmy Cordero|R|Brandon Dixon|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|2|93
+Jimmy Cordero|R|Dawel Lugo|R|Strikeout|C|Cutter|3|0|0|1|3|89
+Jimmy Cordero|R|Dawel Lugo|R|Strikeout|F|Slider|4|0|1|1|2|82
+Jimmy Cordero|R|Dawel Lugo|R|Strikeout|F|Four-Seam Fastball|5|0|2|1|1|99
+Jimmy Cordero|R|Dawel Lugo|R|Strikeout|F|Cutter|6|0|2|1|1|90
+Jimmy Cordero|R|Dawel Lugo|R|Strikeout|S|Four-Seam Fastball|7|0|2|1|11|100
+Jimmy Cordero|R|Victor Reyes|L|Walk|C|Slider|8|0|0|2|13|83
+Jimmy Cordero|R|Victor Reyes|L|Walk|B|Changeup|9|0|1|2|13|90
+Jimmy Cordero|R|Victor Reyes|L|Walk|F|Slider|10|1|1|2|6|82
+Jimmy Cordero|R|Victor Reyes|L|Walk|B|Sinker|11|1|2|2|11|99
+Jimmy Cordero|R|Victor Reyes|L|Walk|B|Changeup|12|2|2|2|11|90
+Jimmy Cordero|R|Victor Reyes|L|Walk|F|Four-Seam Fastball|13|3|2|2|14|98
+Jimmy Cordero|R|Victor Reyes|L|Walk|B|Slider|14|3|2|2|1|85
+Jimmy Cordero|R|Travis Demeritte|R|Triple|C|Sinker|15|0|0|2|2|96
+Jimmy Cordero|R|Travis Demeritte|R|Triple|B|Cutter|16|0|1|2|13|90
+Jimmy Cordero|R|Travis Demeritte|R|Triple|E|Four-Seam Fastball|17|1|1|2|1|97
+Jimmy Cordero|R|Jake Rogers|R|Groundout|B|Four-Seam Fastball|18|0|0|2|13|93
+Jimmy Cordero|R|Jake Rogers|R|Groundout|X|Sinker|19|1|0|2|8|96
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|B|Four-Seam Fastball|0|0|0|2|14|95
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|B|Four-Seam Fastball|1|1|0|2|11|94
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|C|Four-Seam Fastball|2|2|0|2|5|95
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|C|Four-Seam Fastball|3|2|1|2|8|96
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|F|Four-Seam Fastball|4|2|2|2|1|97
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|B|Four-Seam Fastball|5|2|2|2|14|97
+Jimmy Cordero|R|Jeimer Candelario|L|Groundout|X|Four-Seam Fastball|6|3|2|2|4|97
+Jimmy Cordero|R|Christin Stewart|L|Flyout|C|Four-Seam Fastball|7|0|0|0|7|94
+Jimmy Cordero|R|Christin Stewart|L|Flyout|B|Four-Seam Fastball|8|0|1|0|14|97
+Jimmy Cordero|R|Christin Stewart|L|Flyout|X|Changeup|9|1|1|0|4|86
+Jimmy Cordero|R|Dawel Lugo|R|Single|B|Cutter|10|0|0|1|14|90
+Jimmy Cordero|R|Dawel Lugo|R|Single|F|Sinker|11|1|0|1|13|97
+Jimmy Cordero|R|Dawel Lugo|R|Single|F|Cutter|12|1|1|1|14|91
+Jimmy Cordero|R|Dawel Lugo|R|Single|D|Slider|13|1|2|1|7|83
+Jimmy Cordero|R|Grayson Greiner|R|Groundout|X|Sinker|14|0|0|1|8|98
+Jimmy Cordero|R|Gordon Beckham|R|Groundout|B|Sinker|15|0|0|2|14|96
+Jimmy Cordero|R|Gordon Beckham|R|Groundout|X|Sinker|16|1|0|2|4|97
+Jimmy Cordero|R|Tim Lopes|R|Groundout|B|Sinker|0|0|0|2|9|95
+Jimmy Cordero|R|Tim Lopes|R|Groundout|X|Sinker|1|1|0|2|13|95
+Jimmy Cordero|R|Mallex Smith|L|Walk|B|Sinker|2|0|0|0|14|94
+Jimmy Cordero|R|Mallex Smith|L|Walk|B|Changeup|3|1|0|0|14|86
+Jimmy Cordero|R|Mallex Smith|L|Walk|B|Sinker|4|2|0|0|13|96
+Jimmy Cordero|R|Mallex Smith|L|Walk|B|Sinker|5|3|0|0|14|94
+Jimmy Cordero|R|Shed Long Jr.|L|Strikeout|C|Four-Seam Fastball|6|0|0|0|5|96
+Jimmy Cordero|R|Shed Long Jr.|L|Strikeout|P|Four-Seam Fastball|7|0|1|0|11|92
+Jimmy Cordero|R|Shed Long Jr.|L|Strikeout|F|Four-Seam Fastball|8|0|2|0|2|96
+Jimmy Cordero|R|Shed Long Jr.|L|Strikeout|B|Changeup|9|0|2|0|14|87
+Jimmy Cordero|R|Shed Long Jr.|L|Strikeout|S|Changeup|10|1|2|0|13|89
+Jimmy Cordero|R|Tom Murphy|R|Strikeout|C|Sinker|0|0|0|0|7|96
+Jimmy Cordero|R|Tom Murphy|R|Strikeout|*B|Sinker|1|0|1|0|13|96
+Jimmy Cordero|R|Tom Murphy|R|Strikeout|F|Sinker|2|1|1|0|11|95
+Jimmy Cordero|R|Tom Murphy|R|Strikeout|S|Sinker|3|1|2|0|13|97
+Jimmy Cordero|R|Tommy Pham|R|Groundout|B|Sinker|0|0|0|1|11|96
+Jimmy Cordero|R|Tommy Pham|R|Groundout|C|Sinker|1|1|0|1|5|95
+Jimmy Cordero|R|Tommy Pham|R|Groundout|B|Sinker|2|1|1|1|11|96
+Jimmy Cordero|R|Tommy Pham|R|Groundout|B|Sinker|3|2|1|1|14|96
+Jimmy Cordero|R|Tommy Pham|R|Groundout|C|Sinker|4|3|1|1|8|96
+Jimmy Cordero|R|Tommy Pham|R|Groundout|F|Sinker|5|3|2|1|13|97
+Jimmy Cordero|R|Tommy Pham|R|Groundout|X|Sinker|6|3|2|1|4|97
+Jimmy Cordero|R|Xander Bogaerts|R|Lineout|B|Four-Seam Fastball|0|0|0|2|14|96
+Jimmy Cordero|R|Xander Bogaerts|R|Lineout|X|Four-Seam Fastball|1|1|0|2|2|95
+Jimmy Cordero|R|Rafael Devers|L|Lineout|X|Sinker|2|0|0|0|7|95
+Jimmy Cordero|R|Michael Chavis|R|Home Run|C|Cutter|3|0|0|1|14|89
+Jimmy Cordero|R|Michael Chavis|R|Home Run|B|Four-Seam Fastball|4|0|1|1|14|97
+Jimmy Cordero|R|Michael Chavis|R|Home Run|C|Cutter|5|1|1|1|2|90
+Jimmy Cordero|R|Michael Chavis|R|Home Run|E|Cutter|6|1|2|1|9|90
+Jimmy Cordero|R|Christian Vazquez|R|Single|C|Four-Seam Fastball|7|0|0|1|5|97
+Jimmy Cordero|R|Christian Vazquez|R|Single|B|Cutter|8|0|1|1|14|92
+Jimmy Cordero|R|Christian Vazquez|R|Single|B|Four-Seam Fastball|9|1|1|1|14|97
+Jimmy Cordero|R|Christian Vazquez|R|Single|F|Sinker|10|2|1|1|13|97
+Jimmy Cordero|R|Christian Vazquez|R|Single|D|Slider|11|2|2|1|14|86
+Jimmy Cordero|R|Jackie Bradley Jr.|L|Grounded Into DP|C|Slider|12|0|0|1|7|85
+Jimmy Cordero|R|Jackie Bradley Jr.|L|Grounded Into DP|S|Sinker|13|0|1|1|5|96
+Jimmy Cordero|R|Jackie Bradley Jr.|L|Grounded Into DP|X|Slider|14|0|2|1|11|84
+Jimmy Cordero|R|C.J. Cron|R|Fielders Choice Out|F|Sinker|0|0|0|1|11|97
+Jimmy Cordero|R|C.J. Cron|R|Fielders Choice Out|*B|Sinker|1|0|1|1|14|98
+Jimmy Cordero|R|C.J. Cron|R|Fielders Choice Out|F|Sinker|2|1|1|1|11|97
+Jimmy Cordero|R|C.J. Cron|R|Fielders Choice Out|B|Changeup|3|1|2|1|14|87
+Jimmy Cordero|R|C.J. Cron|R|Fielders Choice Out|X|Changeup|4|2|2|1|14|88
+Jimmy Cordero|R|Jason Castro|L|Strikeout|B|Changeup|5|0|0|2|13|87
+Jimmy Cordero|R|Jason Castro|L|Strikeout|S|Sinker|6|1|0|2|13|97
+Jimmy Cordero|R|Jason Castro|L|Strikeout|F|Changeup|7|1|1|2|13|88
+Jimmy Cordero|R|Jason Castro|L|Strikeout|*B|Sinker|8|1|2|2|13|98
+Jimmy Cordero|R|Jason Castro|L|Strikeout|B|Sinker|9|2|2|2|11|97
+Jimmy Cordero|R|Jason Castro|L|Strikeout|S|Changeup|10|3|2|2|11|90
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|B|Sinker|0|0|0|2|11|98
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Changeup|1|1|0|2|14|89
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|F|Sinker|2|1|1|2|11|98
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Cutter|3|1|2|2|3|92
+Jimmy Cordero|R|Eddie Rosario|L|Groundout|B|Changeup|4|0|0|0|11|89
+Jimmy Cordero|R|Eddie Rosario|L|Groundout|S|Changeup|5|1|0|0|4|89
+Jimmy Cordero|R|Eddie Rosario|L|Groundout|X|Changeup|6|1|1|0|8|89
+Jimmy Cordero|R|Mitch Garver|R|Groundout|B|Sinker|7|0|0|1|11|99
+Jimmy Cordero|R|Mitch Garver|R|Groundout|B|Sinker|8|1|0|1|7|99
+Jimmy Cordero|R|Mitch Garver|R|Groundout|X|Sinker|9|2|0|1|11|98
+Jimmy Cordero|R|Nelson Cruz|R|Walk|B|Changeup|0|0|0|1|13|87
+Jimmy Cordero|R|Nelson Cruz|R|Walk|C|Four-Seam Fastball|1|1|0|1|5|96
+Jimmy Cordero|R|Nelson Cruz|R|Walk|B|Sinker|2|1|1|1|13|98
+Jimmy Cordero|R|Nelson Cruz|R|Walk|B|Sinker|3|2|1|1|11|97
+Jimmy Cordero|R|Nelson Cruz|R|Walk|B|Sinker|4|3|1|1|13|96
+Jimmy Cordero|R|Eddie Rosario|L|Single|S|Changeup|5|0|0|1|1|89
+Jimmy Cordero|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|6|0|1|1|14|98
+Jimmy Cordero|R|Eddie Rosario|L|Single|F|Cutter|7|0|2|1|8|93
+Jimmy Cordero|R|Eddie Rosario|L|Single|E|Sinker|8|0|2|1|4|99
+Jimmy Cordero|R|Miguel Sano|R|Flyout|F|Four-Seam Fastball|9|0|0|1|7|98
+Jimmy Cordero|R|Miguel Sano|R|Flyout|S|Cutter|10|0|1|1|14|93
+Jimmy Cordero|R|Miguel Sano|R|Flyout|B|Four-Seam Fastball|11|0|2|1|14|99
+Jimmy Cordero|R|Miguel Sano|R|Flyout|X|Changeup|12|1|2|1|4|88
+Jimmy Cordero|R|Jake Cave|L|Walk|B|Sinker|13|0|0|2|11|98
+Jimmy Cordero|R|Jake Cave|L|Walk|F|Sinker|14|1|0|2|4|98
+Jimmy Cordero|R|Jake Cave|L|Walk|B|Four-Seam Fastball|15|1|1|2|14|97
+Jimmy Cordero|R|Jake Cave|L|Walk|F|Changeup|16|2|1|2|13|89
+Jimmy Cordero|R|Jake Cave|L|Walk|*B|Cutter|17|2|2|2|14|91
+Jimmy Cordero|R|Jake Cave|L|Walk|*B|Sinker|18|3|2|2|14|98
+Jimmy Cordero|R|LaMonte Wade Jr|L|Groundout|B|Changeup|19|0|0|2|11|89
+Jimmy Cordero|R|LaMonte Wade Jr|L|Groundout|B|Sinker|20|1|0|2|14|98
+Jimmy Cordero|R|LaMonte Wade Jr|L|Groundout|C|Four-Seam Fastball|21|2|0|2|6|97
+Jimmy Cordero|R|LaMonte Wade Jr|L|Groundout|X|Sinker|22|2|1|2|13|96
+Jimmy Cordero|R|Jason Castro|L|Lineout|S|Sinker|23|0|0|0|5|95
+Jimmy Cordero|R|Jason Castro|L|Lineout|B|Sinker|24|0|1|0|11|96
+Jimmy Cordero|R|Jason Castro|L|Lineout|B|Cutter|25|1|1|0|12|88
+Jimmy Cordero|R|Jason Castro|L|Lineout|B|Four-Seam Fastball|26|2|1|0|12|96
+Jimmy Cordero|R|Jason Castro|L|Lineout|F|Four-Seam Fastball|27|3|1|0|7|95
+Jimmy Cordero|R|Jason Castro|L|Lineout|X|Sinker|28|3|2|0|7|97
+Jimmy Cordero|R|Willians Astudillo|R|Lineout|F|Cutter|29|0|0|1|6|91
+Jimmy Cordero|R|Willians Astudillo|R|Lineout|B|Changeup|30|0|1|1|11|89
+Jimmy Cordero|R|Willians Astudillo|R|Lineout|F|Sinker|31|1|1|1|13|97
+Jimmy Cordero|R|Willians Astudillo|R|Lineout|X|Slider|32|1|2|1|14|83
+Jimmy Cordero|R|J.T. Realmuto|R|Strikeout|C|Sinker|0|0|0|1|5|96
+Jimmy Cordero|R|J.T. Realmuto|R|Strikeout|C|Sinker|1|0|1|1|8|97
+Jimmy Cordero|R|J.T. Realmuto|R|Strikeout|B|Slider|2|0|2|1|14|85
+Jimmy Cordero|R|J.T. Realmuto|R|Strikeout|F|Slider|3|1|2|1|11|83
+Jimmy Cordero|R|J.T. Realmuto|R|Strikeout|S|Sinker|4|1|2|1|11|98
+Jimmy Cordero|R|Scott Kingery|R|Hit By Pitch|C|Sinker|5|0|0|2|7|97
+Jimmy Cordero|R|Scott Kingery|R|Hit By Pitch|S|Sinker|6|0|1|2|13|98
+Jimmy Cordero|R|Scott Kingery|R|Hit By Pitch|F|Sinker|7|0|2|2|1|99
+Jimmy Cordero|R|Scott Kingery|R|Hit By Pitch|F|Slider|8|0|2|2|11|86
+Jimmy Cordero|R|Scott Kingery|R|Hit By Pitch|H|Sinker|9|0|2|2|11|99
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|S|Sinker|10|0|0|2|13|97
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|B|Sinker|11|0|1|2|11|98
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|F|Sinker|12|1|1|2|8|98
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|B|Changeup|13|1|2|2|11|87
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|F|Changeup|14|2|2|2|11|89
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|F|Sinker|15|2|2|2|11|98
+Jimmy Cordero|R|Adam Haseley|L|Strikeout|S|Changeup|16|2|2|2|13|89
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|C|Sinker|0|0|0|2|11|98
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|1|0|1|2|13|97
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Sinker|2|1|1|2|13|97
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|S|Changeup|3|2|1|2|4|89
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|B|Cutter|4|2|2|2|14|90
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|F|Changeup|5|3|2|2|4|89
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|F|Sinker|6|3|2|2|4|98
+Jimmy Cordero|R|Rhys Hoskins|R|Walk|*B|Four-Seam Fastball|7|3|2|2|14|98
+Jimmy Cordero|R|Sean Rodriguez|R|Groundout|S|Cutter|8|0|0|2|9|90
+Jimmy Cordero|R|Sean Rodriguez|R|Groundout|X|Sinker|9|0|1|2|11|98
+Jimmy Cordero|R|Ozzie Albies|L|Walk|S|Changeup|0|0|0|2|14|86
+Jimmy Cordero|R|Ozzie Albies|L|Walk|B|Changeup|1|0|1|2|11|87
+Jimmy Cordero|R|Ozzie Albies|L|Walk|B|Sinker|2|1|1|2|11|96
+Jimmy Cordero|R|Ozzie Albies|L|Walk|F|Four-Seam Fastball|3|2|1|2|5|96
+Jimmy Cordero|R|Ozzie Albies|L|Walk|F|Changeup|4|2|2|2|1|87
+Jimmy Cordero|R|Ozzie Albies|L|Walk|B|Slider|5|2|2|2|14|82
+Jimmy Cordero|R|Ozzie Albies|L|Walk|F|Sinker|6|3|2|2|4|98
+Jimmy Cordero|R|Ozzie Albies|L|Walk|B|Sinker|7|3|2|2|9|97
+Jimmy Cordero|R|Dansby Swanson|R|Strikeout|B|Cutter|8|0|0|2|11|88
+Jimmy Cordero|R|Dansby Swanson|R|Strikeout|B|Sinker|9|1|0|2|11|97
+Jimmy Cordero|R|Dansby Swanson|R|Strikeout|S|Sinker|10|2|0|2|7|95
+Jimmy Cordero|R|Dansby Swanson|R|Strikeout|S|Sinker|11|2|1|2|13|97
+Jimmy Cordero|R|Dansby Swanson|R|Strikeout|S|Sinker|12|2|2|2|11|96
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|S|Slider|13|0|0|0|1|83
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Cutter|14|0|1|0|14|89
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|B|Four-Seam Fastball|15|0|2|0|11|98
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Changeup|16|1|2|0|2|87
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Slider|17|1|2|0|11|84
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Four-Seam Fastball|18|1|2|0|12|98
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|B|Sinker|19|1|2|0|13|98
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Four-Seam Fastball|20|2|2|0|12|98
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|B|Slider|21|2|2|0|14|85
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|F|Sinker|22|3|2|0|13|98
+Jimmy Cordero|R|Freddie Freeman|L|Hit By Pitch|H|Four-Seam Fastball|23|3|2|0|14|99
+Jimmy Cordero|R|Josh Donaldson|R|Single|S|Sinker|24|0|0|0|13|98
+Jimmy Cordero|R|Josh Donaldson|R|Single|D|Sinker|25|0|1|0|13|98
+Jimmy Cordero|R|Matt Joyce|L|Single|B|Slider|26|0|0|0|11|85
+Jimmy Cordero|R|Matt Joyce|L|Single|*B|Changeup|27|1|0|0|14|90
+Jimmy Cordero|R|Matt Joyce|L|Single|S|Sinker|28|2|0|0|13|97
+Jimmy Cordero|R|Matt Joyce|L|Single|B|Sinker|29|2|1|0|14|96
+Jimmy Cordero|R|Matt Joyce|L|Single|S|Sinker|30|3|1|0|13|98
+Jimmy Cordero|R|Matt Joyce|L|Single|F|Sinker|31|3|2|0|14|97
+Jimmy Cordero|R|Matt Joyce|L|Single|E|Sinker|32|3|2|0|2|96
+Jimmy Cordero|R|Tyler Flowers|R|Double Play|B|Sinker|33|0|0|0|13|97
+Jimmy Cordero|R|Tyler Flowers|R|Double Play|S|Four-Seam Fastball|34|1|0|0|3|97
+Jimmy Cordero|R|Tyler Flowers|R|Double Play|B|Four-Seam Fastball|35|1|1|0|14|97
+Jimmy Cordero|R|Tyler Flowers|R|Double Play|X|Four-Seam Fastball|36|2|1|0|5|96
+Jimmy Cordero|R|Rafael Ortega|L|Forceout|C|Slider|37|0|0|2|2|83
+Jimmy Cordero|R|Rafael Ortega|L|Forceout|X|Sinker|38|0|1|2|7|96
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|S|Slider|39|0|0|0|14|80
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|B|Slider|40|0|1|0|11|81
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|B|Sinker|41|1|1|0|11|95
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|C|Four-Seam Fastball|42|2|1|0|3|94
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|F|Slider|43|2|2|0|5|83
+Jimmy Cordero|R|Billy Hamilton|L|Flyout|X|Four-Seam Fastball|44|2|2|0|3|95
+Jimmy Cordero|R|Dallas Keuchel|L|Strikeout|B|Sinker|45|0|0|1|13|94
+Jimmy Cordero|R|Dallas Keuchel|L|Strikeout|F|Sinker|46|1|0|1|4|95
+Jimmy Cordero|R|Dallas Keuchel|L|Strikeout|C|Sinker|47|1|1|1|2|94
+Jimmy Cordero|R|Dallas Keuchel|L|Strikeout|B|Slider|48|1|2|1|11|82
+Jimmy Cordero|R|Dallas Keuchel|L|Strikeout|S|Sinker|49|2|2|1|11|95
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|B|Four-Seam Fastball|50|0|0|2|11|97
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|S|Changeup|51|1|0|2|14|88
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|F|Sinker|52|1|1|2|8|95
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|B|Changeup|53|1|2|2|11|87
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|F|Sinker|54|2|2|2|4|96
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|F|Slider|55|2|2|2|13|84
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|B|Sinker|56|2|2|2|14|97
+Jimmy Cordero|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|57|3|2|2|13|95
+Jimmy Cordero|R|Harold Ramirez|R|Field Error|C|Sinker|0|0|0|0|4|94
+Jimmy Cordero|R|Harold Ramirez|R|Field Error|D|Sinker|1|0|1|0|13|95
+Jimmy Cordero|R|Brian Anderson|R|Grounded Into DP|F|Sinker|2|0|0|0|13|97
+Jimmy Cordero|R|Brian Anderson|R|Grounded Into DP|X|Sinker|3|0|1|0|13|96
+Jimmy Cordero|R|Garrett Cooper|R|Strikeout|C|Sinker|4|0|0|2|5|98
+Jimmy Cordero|R|Garrett Cooper|R|Strikeout|F|Sinker|5|0|1|2|8|99
+Jimmy Cordero|R|Garrett Cooper|R|Strikeout|S|Four-Seam Fastball|6|0|2|2|12|97
+Jimmy Cordero|R|Luis Arraez|L|Double|C|Sinker|0|0|0|0|11|93
+Jimmy Cordero|R|Luis Arraez|L|Double|B|Sinker|1|0|1|0|11|96
+Jimmy Cordero|R|Luis Arraez|L|Double|D|Sinker|2|1|1|0|11|96
+Jimmy Cordero|R|Miguel Sano|R|Home Run|S|Sinker|3|0|0|0|13|98
+Jimmy Cordero|R|Miguel Sano|R|Home Run|E|Four-Seam Fastball|4|0|1|0|1|97
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|X|Sinker|5|0|0|0|11|98
+Jimmy Cordero|R|Byron Buxton|R|Double|B|Sinker|6|0|0|1|13|97
+Jimmy Cordero|R|Byron Buxton|R|Double|D|Four-Seam Fastball|7|1|0|1|1|97
+Jimmy Cordero|R|Max Kepler|L|Groundout|B|Sinker|8|0|0|1|13|98
+Jimmy Cordero|R|Max Kepler|L|Groundout|C|Changeup|9|1|0|1|5|88
+Jimmy Cordero|R|Max Kepler|L|Groundout|X|Sinker|10|1|1|1|7|96
+Jimmy Cordero|R|Jorge Polanco|L|Single|F|Sinker|11|0|0|2|11|99
+Jimmy Cordero|R|Jorge Polanco|L|Single|B|Four-Seam Fastball|12|0|1|2|14|97
+Jimmy Cordero|R|Jorge Polanco|L|Single|S|Changeup|13|1|1|2|14|89
+Jimmy Cordero|R|Jorge Polanco|L|Single|F|Sinker|14|1|2|2|4|99
+Jimmy Cordero|R|Jorge Polanco|L|Single|E|Slider|15|1|2|2|4|81
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|C|Slider|16|0|0|2|8|84
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Sinker|17|0|1|2|13|100
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|18|0|2|2|12|100
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Changeup|19|1|2|2|8|87
+Jimmy Cordero|R|Eddie Rosario|L|Strikeout|C|Sinker|20|0|0|0|11|97
+Jimmy Cordero|R|Eddie Rosario|L|Strikeout|S|Four-Seam Fastball|21|0|1|0|12|96
+Jimmy Cordero|R|Eddie Rosario|L|Strikeout|S|Slider|22|0|2|0|4|85
+Jimmy Cordero|R|Mitch Garver|R|Groundout|B|Sinker|23|0|0|1|11|98
+Jimmy Cordero|R|Mitch Garver|R|Groundout|B|Sinker|24|1|0|1|14|97
+Jimmy Cordero|R|Mitch Garver|R|Groundout|X|Sinker|25|2|0|1|9|98
+Jimmy Cordero|R|Luis Arraez|L|Groundout|B|Changeup|26|0|0|2|13|89
+Jimmy Cordero|R|Luis Arraez|L|Groundout|X|Sinker|27|1|0|2|5|97
+Jimmy Cordero|R|Marwin Gonzalez|L|Flyout|B|Slider|0|0|0|0|14|80
+Jimmy Cordero|R|Marwin Gonzalez|L|Flyout|F|Changeup|1|1|0|0|7|85
+Jimmy Cordero|R|Marwin Gonzalez|L|Flyout|B|Four-Seam Fastball|2|1|1|0|12|94
+Jimmy Cordero|R|Marwin Gonzalez|L|Flyout|B|Four-Seam Fastball|3|2|1|0|12|94
+Jimmy Cordero|R|Marwin Gonzalez|L|Flyout|X|Sinker|4|3|1|0|4|94
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|B|Sinker|5|0|0|1|11|96
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|S|Cutter|6|1|0|1|14|88
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|F|Cutter|7|1|1|1|1|88
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|F|Four-Seam Fastball|8|1|2|1|1|98
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|F|Changeup|9|1|2|1|4|88
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|B|Cutter|10|1|2|1|14|91
+Jimmy Cordero|R|Jonathan Schoop|R|Lineout|X|Four-Seam Fastball|11|2|2|1|9|98
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Sinker|12|0|0|2|13|96
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Four-Seam Fastball|13|1|0|2|11|97
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Four-Seam Fastball|14|2|0|2|14|96
+Jimmy Cordero|R|Jason Castro|L|Walk|C|Four-Seam Fastball|15|3|0|2|7|97
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Four-Seam Fastball|16|3|1|2|14|96
+Jimmy Cordero|R|Byron Buxton|R|Pop Out|C|Sinker|17|0|0|2|7|98
+Jimmy Cordero|R|Byron Buxton|R|Pop Out|F|Cutter|18|0|1|2|4|90
+Jimmy Cordero|R|Byron Buxton|R|Pop Out|X|Four-Seam Fastball|19|0|2|2|11|98
+Jimmy Cordero|R|Max Kepler|L|Strikeout|B|Slider|20|0|0|0|13|80
+Jimmy Cordero|R|Max Kepler|L|Strikeout|S|Changeup|21|1|0|0|14|86
+Jimmy Cordero|R|Max Kepler|L|Strikeout|F|Four-Seam Fastball|22|1|1|0|2|95
+Jimmy Cordero|R|Max Kepler|L|Strikeout|F|Four-Seam Fastball|23|1|2|0|12|99
+Jimmy Cordero|R|Max Kepler|L|Strikeout|B|Slider|24|1|2|0|11|81
+Jimmy Cordero|R|Max Kepler|L|Strikeout|W|Changeup|25|2|2|0|13|88
+Jimmy Cordero|R|Jorge Polanco|L|Groundout|B|Sinker|26|0|0|1|13|98
+Jimmy Cordero|R|Jorge Polanco|L|Groundout|X|Changeup|27|1|0|1|13|88
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Sinker|28|0|0|2|11|98
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Sinker|29|0|1|2|13|99
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|B|Sinker|30|0|2|2|2|99
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|B|Sinker|31|1|2|2|8|100
+Jimmy Cordero|R|Nelson Cruz|R|Strikeout|S|Changeup|32|2|2|2|4|89
+Jimmy Cordero|R|Luis Arraez|L|Groundout|B|Four-Seam Fastball|33|0|0|0|14|97
+Jimmy Cordero|R|Luis Arraez|L|Groundout|C|Changeup|34|1|0|0|11|90
+Jimmy Cordero|R|Luis Arraez|L|Groundout|C|Slider|35|1|1|0|11|82
+Jimmy Cordero|R|Luis Arraez|L|Groundout|X|Four-Seam Fastball|36|1|2|0|14|100
+Jimmy Cordero|R|Miguel Sano|R|Flyout|C|Cutter|37|0|0|1|3|92
+Jimmy Cordero|R|Miguel Sano|R|Flyout|B|Sinker|38|0|1|1|11|99
+Jimmy Cordero|R|Miguel Sano|R|Flyout|X|Changeup|39|1|1|1|4|89
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|40|0|0|2|14|100
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|41|1|0|2|14|99
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|S|Changeup|42|2|0|2|7|90
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|43|2|1|2|14|98
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|F|Sinker|44|3|1|2|13|98
+Jimmy Cordero|R|Marwin Gonzalez|L|Walk|B|Changeup|45|3|2|2|14|89
+Jimmy Cordero|R|Pete Alonso|R|Forceout|*B|Sinker|0|0|0|2|13|96
+Jimmy Cordero|R|Pete Alonso|R|Forceout|B|Sinker|1|1|0|2|11|96
+Jimmy Cordero|R|Pete Alonso|R|Forceout|X|Sinker|2|2|0|2|13|96
+Jimmy Cordero|R|Chad Pinder|R|Strikeout|C|Sinker|0|0|0|0|8|95
+Jimmy Cordero|R|Chad Pinder|R|Strikeout|B|Cutter|1|0|1|0|14|88
+Jimmy Cordero|R|Chad Pinder|R|Strikeout|S|Sinker|2|1|1|0|13|98
+Jimmy Cordero|R|Chad Pinder|R|Strikeout|B|Cutter|3|1|2|0|14|89
+Jimmy Cordero|R|Chad Pinder|R|Strikeout|S|Sinker|4|2|2|0|13|96
+Jimmy Cordero|R|Jurickson Profar|L|Lineout|C|Changeup|5|0|0|1|11|87
+Jimmy Cordero|R|Jurickson Profar|L|Lineout|X|Sinker|6|0|1|1|8|97
+Jimmy Cordero|R|Chris Herrmann|L|Groundout|C|Sinker|7|0|0|2|5|97
+Jimmy Cordero|R|Chris Herrmann|L|Groundout|B|Slider|8|0|1|2|13|82
+Jimmy Cordero|R|Chris Herrmann|L|Groundout|X|Changeup|9|1|1|2|13|88
+Jimmy Cordero|R|Marcus Semien|R|Pop Out|B|Sinker|10|0|0|0|14|97
+Jimmy Cordero|R|Marcus Semien|R|Pop Out|B|Sinker|11|1|0|0|11|96
+Jimmy Cordero|R|Marcus Semien|R|Pop Out|F|Sinker|12|2|0|0|11|96
+Jimmy Cordero|R|Marcus Semien|R|Pop Out|B|Sinker|13|2|1|0|12|97
+Jimmy Cordero|R|Marcus Semien|R|Pop Out|X|Sinker|14|3|1|0|11|97
+Jimmy Cordero|R|Nick Martini|L|Strikeout|F|Sinker|15|0|0|1|4|97
+Jimmy Cordero|R|Nick Martini|L|Strikeout|B|Four-Seam Fastball|16|0|1|1|12|98
+Jimmy Cordero|R|Nick Martini|L|Strikeout|F|Sinker|17|1|1|1|4|97
+Jimmy Cordero|R|Nick Martini|L|Strikeout|S|Four-Seam Fastball|18|1|2|1|14|99
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|C|Cutter|19|0|0|2|13|91
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|B|Sinker|20|0|1|2|14|98
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|B|Sinker|21|1|1|2|11|97
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|B|Sinker|22|2|1|2|13|97
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|C|Sinker|23|3|1|2|6|97
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|F|Sinker|24|3|2|2|13|98
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|F|Sinker|25|3|2|2|8|98
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|F|Changeup|26|3|2|2|8|88
+Jimmy Cordero|R|Matt Chapman|R|Strikeout|S|Sinker|27|3|2|2|13|98
+Jimmy Cordero|R|Carlos Correa|R|Groundout|B|Sinker|0|0|0|2|13|96
+Jimmy Cordero|R|Carlos Correa|R|Groundout|X|Sinker|1|1|0|2|11|96
+Jimmy Cordero|R|Yuli Gurriel|R|Home Run|F|Sinker|2|0|0|0|13|96
+Jimmy Cordero|R|Yuli Gurriel|R|Home Run|E|Cutter|3|0|1|0|2|91
+Jimmy Cordero|R|Robinson Chirinos|R|Single|C|Sinker|4|0|0|0|1|96
+Jimmy Cordero|R|Robinson Chirinos|R|Single|B|Sinker|5|0|1|0|13|97
+Jimmy Cordero|R|Robinson Chirinos|R|Single|D|Sinker|6|1|1|0|11|97
+Jimmy Cordero|R|Jake Marisnick|R|Strikeout|B|Sinker|7|0|0|0|13|98
+Jimmy Cordero|R|Jake Marisnick|R|Strikeout|F|Sinker|8|1|0|0|11|97
+Jimmy Cordero|R|Jake Marisnick|R|Strikeout|C|Sinker|9|1|1|0|8|97
+Jimmy Cordero|R|Jake Marisnick|R|Strikeout|S|Sinker|10|1|2|0|7|98
+Jimmy Cordero|R|George Springer|R|Grounded Into DP|C|Sinker|11|0|0|1|13|97
+Jimmy Cordero|R|George Springer|R|Grounded Into DP|*B|Sinker|12|0|1|1|14|97
+Jimmy Cordero|R|George Springer|R|Grounded Into DP|T|Sinker|13|1|1|1|7|96
+Jimmy Cordero|R|George Springer|R|Grounded Into DP|X|Sinker|14|1|2|1|8|98
+Jimmy Cordero|R|Jose Altuve|R|Single|C|Sinker|15|0|0|0|1|97
+Jimmy Cordero|R|Jose Altuve|R|Single|F|Sinker|16|0|1|0|1|96
+Jimmy Cordero|R|Jose Altuve|R|Single|D|Sinker|17|0|2|0|5|98
+Jimmy Cordero|R|Elvis Andrus|R|Groundout|B|Sinker|0|0|0|2|13|96
+Jimmy Cordero|R|Elvis Andrus|R|Groundout|B|Sinker|1|1|0|2|14|97
+Jimmy Cordero|R|Elvis Andrus|R|Groundout|X|Sinker|2|2|0|2|2|97
+Jimmy Cordero|R|Hunter Pence|R|Groundout|S|Sinker|3|0|0|0|11|98
+Jimmy Cordero|R|Hunter Pence|R|Groundout|B|Sinker|4|0|1|0|7|100
+Jimmy Cordero|R|Hunter Pence|R|Groundout|X|Sinker|5|1|1|0|7|98
+Jimmy Cordero|R|Rougned Odor|L|Groundout|B|Changeup|6|0|0|1|11|89
+Jimmy Cordero|R|Rougned Odor|L|Groundout|F|Sinker|7|1|0|1|11|98
+Jimmy Cordero|R|Rougned Odor|L|Groundout|F|Changeup|8|1|1|1|5|90
+Jimmy Cordero|R|Rougned Odor|L|Groundout|F|Four-Seam Fastball|9|1|2|1|2|99
+Jimmy Cordero|R|Rougned Odor|L|Groundout|F|Sinker|10|1|2|1|13|99
+Jimmy Cordero|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|11|1|2|1|11|99
+Jimmy Cordero|R|Rougned Odor|L|Groundout|X|Changeup|12|2|2|1|11|90
+Jimmy Cordero|R|Nick Solak|R|Strikeout|C|Sinker|13|0|0|2|4|97
+Jimmy Cordero|R|Nick Solak|R|Strikeout|S|Sinker|14|0|1|2|4|97
+Jimmy Cordero|R|Nick Solak|R|Strikeout|F|Sinker|15|0|2|2|11|98
+Jimmy Cordero|R|Nick Solak|R|Strikeout|S|Changeup|16|0|2|2|9|87
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|C|Sinker|17|0|0|0|5|99
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|B|Sinker|18|0|1|0|11|99
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|F|Changeup|19|1|1|0|13|90
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|B|Sinker|20|1|2|0|9|99
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|S|Changeup|21|2|2|0|13|87
+Jimmy Cordero|R|Scott Heineman|R|Groundout|X|Sinker|22|0|0|1|11|99
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|C|Sinker|0|0|0|2|7|95
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|S|Sinker|1|0|1|2|11|98
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|B|Sinker|2|0|2|2|13|98
+Jimmy Cordero|R|Logan Forsythe|R|Strikeout|T|Four-Seam Fastball|3|1|2|2|6|98
+Jimmy Cordero|R|Scott Heineman|R|Groundout|B|Sinker|4|0|0|0|13|96
+Jimmy Cordero|R|Scott Heineman|R|Groundout|X|Sinker|5|1|0|0|4|96
+Jimmy Cordero|R|Jeff Mathis|R|Groundout|X|Sinker|6|0|0|1|5|98
+Jimmy Cordero|R|Shin-Soo Choo|L|Single|B|Sinker|7|0|0|2|14|98
+Jimmy Cordero|R|Shin-Soo Choo|L|Single|D|Sinker|8|1|0|2|14|98
+Jimmy Cordero|R|Danny Santana|L|Home Run|E|Sinker|9|0|0|2|8|98
+Jimmy Cordero|R|Elvis Andrus|R|Single|C|Sinker|10|0|0|2|4|99
+Jimmy Cordero|R|Elvis Andrus|R|Single|S|Changeup|11|0|1|2|4|90
+Jimmy Cordero|R|Elvis Andrus|R|Single|D|Four-Seam Fastball|12|0|2|2|5|100
+Jimmy Cordero|R|Miguel Sano|R|Hit By Pitch|S|Sinker|0|0|0|0|13|96
+Jimmy Cordero|R|Miguel Sano|R|Hit By Pitch|B|Sinker|1|0|1|0|11|96
+Jimmy Cordero|R|Miguel Sano|R|Hit By Pitch|S|Cutter|2|1|1|0|9|89
+Jimmy Cordero|R|Miguel Sano|R|Hit By Pitch|H|Sinker|3|1|2|0|11|98
+Jimmy Cordero|R|C.J. Cron|R|Grounded Into DP|F|Sinker|4|0|0|0|13|96
+Jimmy Cordero|R|C.J. Cron|R|Grounded Into DP|C|Sinker|5|0|1|0|7|97
+Jimmy Cordero|R|C.J. Cron|R|Grounded Into DP|F|Four-Seam Fastball|6|0|2|0|2|98
+Jimmy Cordero|R|C.J. Cron|R|Grounded Into DP|X|Cutter|7|0|2|0|5|90
+Jimmy Cordero|R|Ehire Adrianza|L|Lineout|S|Changeup|8|0|0|2|4|88
+Jimmy Cordero|R|Ehire Adrianza|L|Lineout|X|Four-Seam Fastball|9|0|1|2|3|97
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|B|Sinker|10|0|0|0|11|96
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|F|Sinker|11|1|0|0|4|97
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|S|Changeup|12|1|1|0|7|87
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|B|Cutter|13|1|2|0|14|90
+Jimmy Cordero|R|Jonathan Schoop|R|Groundout|X|Sinker|14|2|2|0|11|97
+Jimmy Cordero|R|Jake Cave|L|Lineout|X|Four-Seam Fastball|15|0|0|1|3|96
+Jimmy Cordero|R|Mitch Garver|R|Single|B|Sinker|16|0|0|2|11|97
+Jimmy Cordero|R|Mitch Garver|R|Single|C|Changeup|17|1|0|2|2|88
+Jimmy Cordero|R|Mitch Garver|R|Single|B|Cutter|18|1|1|2|14|89
+Jimmy Cordero|R|Mitch Garver|R|Single|D|Sinker|19|2|1|2|7|97
+Jimmy Cordero|R|Jorge Polanco|L|Lineout|C|Changeup|20|0|0|2|1|88
+Jimmy Cordero|R|Jorge Polanco|L|Lineout|X|Four-Seam Fastball|21|0|1|2|3|98
+Jimmy Cordero|R|C.J. Cron|R|Double|B|Sinker|0|0|0|0|11|94
+Jimmy Cordero|R|C.J. Cron|R|Double|D|Sinker|1|1|0|0|5|95
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Four-Seam Fastball|2|0|0|0|11|95
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Changeup|3|1|0|0|14|86
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Four-Seam Fastball|4|2|0|0|14|95
+Jimmy Cordero|R|Jason Castro|L|Walk|C|Sinker|5|3|0|0|14|94
+Jimmy Cordero|R|Jason Castro|L|Walk|S|Sinker|6|3|1|0|13|95
+Jimmy Cordero|R|Jason Castro|L|Walk|B|Sinker|7|3|2|0|11|96
+Jimmy Cordero|R|Jonathan Schoop|R|Single|B|Sinker|8|0|0|0|13|96
+Jimmy Cordero|R|Jonathan Schoop|R|Single|D|Sinker|9|1|0|0|11|96
+Jimmy Cordero|R|Cheslor Cuthbert|R|Lineout|C|Sinker|0|0|0|2|11|96
+Jimmy Cordero|R|Cheslor Cuthbert|R|Lineout|X|Sinker|1|0|1|2|8|96
+Jimmy Cordero|R|Nick Dini|R|Single|F|Sinker|2|0|0|0|13|96
+Jimmy Cordero|R|Nick Dini|R|Single|F|Slider|3|0|1|0|2|82
+Jimmy Cordero|R|Nick Dini|R|Single|D|Four-Seam Fastball|4|0|2|0|14|99
+Jimmy Cordero|R|Brett Phillips|L|Grounded Into DP|X|Four-Seam Fastball|5|0|0|0|8|97
+Jimmy Cordero|R|Nicky Lopez|L|Groundout|C|Four-Seam Fastball|6|0|0|2|12|98
+Jimmy Cordero|R|Nicky Lopez|L|Groundout|F|Changeup|7|0|1|2|11|88
+Jimmy Cordero|R|Nicky Lopez|L|Groundout|X|Changeup|8|0|2|2|11|88
+Jimmy Cordero|R|Whit Merrifield|R|Groundout|B|Changeup|0|0|0|0|11|87
+Jimmy Cordero|R|Whit Merrifield|R|Groundout|X|Sinker|1|1|0|0|13|98
+Jimmy Cordero|R|Jorge Soler|R|Strikeout|C|Changeup|2|0|0|1|7|89
+Jimmy Cordero|R|Jorge Soler|R|Strikeout|S|Sinker|3|0|1|1|13|99
+Jimmy Cordero|R|Jorge Soler|R|Strikeout|C|Changeup|4|0|2|1|5|90
+Jimmy Cordero|R|Hunter Dozier|R|Double|D|Sinker|5|0|0|2|1|99
+Jimmy Cordero|R|Ryan O'Hearn|L|Groundout|S|Changeup|6|0|0|2|7|89
+Jimmy Cordero|R|Ryan O'Hearn|L|Groundout|B|Changeup|7|0|1|2|13|89
+Jimmy Cordero|R|Ryan O'Hearn|L|Groundout|S|Changeup|8|1|1|2|14|89
+Jimmy Cordero|R|Ryan O'Hearn|L|Groundout|X|Four-Seam Fastball|9|1|2|2|5|100
+Jimmy Cordero|R|Jake Bauers|L|Pop Out|X|Four-Seam Fastball|0|0|0|0|6|97
+Jimmy Cordero|R|Yu Chang|R|Grounded Into DP|B|Sinker|1|0|0|1|13|96
+Jimmy Cordero|R|Yu Chang|R|Grounded Into DP|F|Sinker|2|1|0|1|4|96
+Jimmy Cordero|R|Yu Chang|R|Grounded Into DP|X|Sinker|3|1|1|1|13|97
+Jimmy Cordero|R|Franmil Reyes|R|Groundout|C|Sinker|4|0|0|0|7|98
+Jimmy Cordero|R|Franmil Reyes|R|Groundout|X|Cutter|5|0|1|0|9|91
+Jimmy Cordero|R|Roberto Perez|R|Lineout|B|Sinker|6|0|0|1|11|98
+Jimmy Cordero|R|Roberto Perez|R|Lineout|B|Sinker|7|1|0|1|9|97
+Jimmy Cordero|R|Roberto Perez|R|Lineout|B|Sinker|8|2|0|1|11|97
+Jimmy Cordero|R|Roberto Perez|R|Lineout|C|Four-Seam Fastball|9|3|0|1|5|96
+Jimmy Cordero|R|Roberto Perez|R|Lineout|F|Four-Seam Fastball|10|3|1|1|1|97
+Jimmy Cordero|R|Roberto Perez|R|Lineout|X|Four-Seam Fastball|11|3|2|1|4|98
+Jimmy Cordero|R|Mike Freeman|L|Single|D|Four-Seam Fastball|12|0|0|2|8|98
+Jimmy Cordero|R|Francisco Lindor|L|Forceout|B|Changeup|13|0|0|2|14|88
+Jimmy Cordero|R|Francisco Lindor|L|Forceout|F|Four-Seam Fastball|14|1|0|2|1|98
+Jimmy Cordero|R|Francisco Lindor|L|Forceout|C|Changeup|15|1|1|2|6|89
+Jimmy Cordero|R|Francisco Lindor|L|Forceout|X|Four-Seam Fastball|16|1|2|2|5|99
+Jimmy Cordero|R|Oscar Mercado|R|Groundout|X|Sinker|0|0|0|2|7|96
+Jimmy Cordero|R|Carlos Santana|L|Groundout|C|Sinker|1|0|0|0|7|98
+Jimmy Cordero|R|Carlos Santana|L|Groundout|X|Slider|2|0|1|0|8|86
+Jimmy Cordero|R|Yasiel Puig|R|Groundout|C|Sinker|3|0|0|1|2|99
+Jimmy Cordero|R|Yasiel Puig|R|Groundout|B|Cutter|4|0|1|1|14|92
+Jimmy Cordero|R|Yasiel Puig|R|Groundout|B|Sinker|5|1|1|1|14|98
+Jimmy Cordero|R|Yasiel Puig|R|Groundout|X|Sinker|6|2|1|1|4|97
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|C|Sinker|7|0|0|2|11|99
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|B|Changeup|8|0|1|2|13|88
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|S|Changeup|9|1|1|2|5|88
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|F|Changeup|10|1|2|2|14|89
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|F|Four-Seam Fastball|11|1|2|2|14|99
+Jimmy Cordero|R|Jose Ramirez|L|Lineout|X|Changeup|12|1|2|2|13|89
+Jimmy Cordero|R|Franmil Reyes|R|Groundout|X|Cutter|13|0|0|0|5|92
+Jimmy Cordero|R|Mike Freeman|L|Strikeout|C|Sinker|14|0|0|1|4|99
+Jimmy Cordero|R|Mike Freeman|L|Strikeout|C|Four-Seam Fastball|15|0|1|1|8|98
+Jimmy Cordero|R|Mike Freeman|L|Strikeout|S|Changeup|16|0|2|1|7|89
+Jimmy Cordero|R|Jordy Mercer|R|Groundout|C|Sinker|0|0|0|2|13|96
+Jimmy Cordero|R|Jordy Mercer|R|Groundout|X|Sinker|1|0|1|2|1|97
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|C|Sinker|0|0|0|1|5|94
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|B|Cutter|1|0|1|1|13|91
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|S|Four-Seam Fastball|2|1|1|1|6|96
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|F|Changeup|3|1|2|1|11|88
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|*B|Slider|4|1|2|1|13|85
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|B|Four-Seam Fastball|5|2|2|1|11|97
+Jimmy Cordero|R|Jeimer Candelario|L|Walk|B|Sinker|6|3|2|1|13|97
+Jimmy Cordero|R|John Hicks|R|Forceout|X|Sinker|7|0|0|1|11|97
+Jimmy Cordero|R|Ronny Rodriguez|R|Forceout|S|Sinker|8|0|0|2|13|96
+Jimmy Cordero|R|Ronny Rodriguez|R|Forceout|B|Cutter|9|0|1|2|14|92
+Jimmy Cordero|R|Ronny Rodriguez|R|Forceout|S|Sinker|10|1|1|2|13|96
+Jimmy Cordero|R|Ronny Rodriguez|R|Forceout|X|Sinker|11|1|2|2|4|97

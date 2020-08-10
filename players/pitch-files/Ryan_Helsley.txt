@@ -1,0 +1,582 @@
+Ryan Helsley|R|Nick Ahmed|R|Single|B|Four-Seam Fastball|0|0|0|0|12|98
+Ryan Helsley|R|Nick Ahmed|R|Single|S|Cutter|1|1|0|0|14|88
+Ryan Helsley|R|Nick Ahmed|R|Single|D|Four-Seam Fastball|2|1|1|0|14|97
+Ryan Helsley|R|Carson Kelly|R|Strikeout|C|Four-Seam Fastball|3|0|0|0|9|97
+Ryan Helsley|R|Carson Kelly|R|Strikeout|F|Cutter|4|0|1|0|2|88
+Ryan Helsley|R|Carson Kelly|R|Strikeout|C|Cutter|5|0|2|0|2|87
+Ryan Helsley|R|Abraham Almonte|L|Grounded Into DP|X|Cutter|6|0|0|1|6|88
+Ryan Helsley|R|Carson Kelly|R|Lineout|B|Cutter|0|0|0|1|12|86
+Ryan Helsley|R|Carson Kelly|R|Lineout|B|Cutter|1|1|0|1|14|86
+Ryan Helsley|R|Carson Kelly|R|Lineout|F|Four-Seam Fastball|2|2|0|1|12|97
+Ryan Helsley|R|Carson Kelly|R|Lineout|C|Four-Seam Fastball|3|2|1|1|12|98
+Ryan Helsley|R|Carson Kelly|R|Lineout|F|Four-Seam Fastball|4|2|2|1|5|98
+Ryan Helsley|R|Carson Kelly|R|Lineout|F|Cutter|5|2|2|1|14|88
+Ryan Helsley|R|Carson Kelly|R|Lineout|X|Cutter|6|2|2|1|8|88
+Ryan Helsley|R|Nick Ahmed|R|Pop Out|X|Cutter|7|0|0|2|9|87
+Ryan Helsley|R|Jarrod Dyson|L|Bunt Groundout|X|Four-Seam Fastball|8|0|0|0|3|98
+Ryan Helsley|R|Tim Locastro|R|Single|B|Four-Seam Fastball|9|0|0|1|14|97
+Ryan Helsley|R|Tim Locastro|R|Single|F|Four-Seam Fastball|10|1|0|1|8|97
+Ryan Helsley|R|Tim Locastro|R|Single|C|Cutter|11|1|1|1|5|87
+Ryan Helsley|R|Tim Locastro|R|Single|F|Cutter|12|1|2|1|14|89
+Ryan Helsley|R|Tim Locastro|R|Single|D|Four-Seam Fastball|13|1|2|1|4|98
+Ryan Helsley|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|14|0|0|1|13|97
+Ryan Helsley|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|15|1|0|1|11|97
+Ryan Helsley|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|16|1|1|1|11|100
+Ryan Helsley|R|Christian Walker|R|Strikeout|C|Cutter|17|1|2|1|3|88
+Ryan Helsley|R|Ildemaro Vargas|L|Single|C|Four-Seam Fastball|18|0|0|2|7|98
+Ryan Helsley|R|Ildemaro Vargas|L|Single|C|Four-Seam Fastball|19|0|1|2|9|100
+Ryan Helsley|R|Ildemaro Vargas|L|Single|B|Four-Seam Fastball|20|0|2|2|11|100
+Ryan Helsley|R|Ildemaro Vargas|L|Single|X|Four-Seam Fastball|21|1|2|2|13|99
+Ryan Helsley|R|Victor Caratini|L|Walk|C|Curveball|0|0|0|2|12|76
+Ryan Helsley|R|Victor Caratini|L|Walk|B|Four-Seam Fastball|1|0|1|2|14|95
+Ryan Helsley|R|Victor Caratini|L|Walk|B|Four-Seam Fastball|2|1|1|2|13|94
+Ryan Helsley|R|Victor Caratini|L|Walk|S|Changeup|3|2|1|2|13|86
+Ryan Helsley|R|Victor Caratini|L|Walk|B|Changeup|4|2|2|2|11|87
+Ryan Helsley|R|Victor Caratini|L|Walk|*B|Four-Seam Fastball|5|3|2|2|14|96
+Ryan Helsley|R|David Bote|R|Forceout|C|Cutter|6|0|0|2|7|88
+Ryan Helsley|R|David Bote|R|Forceout|T|Cutter|7|0|1|2|9|87
+Ryan Helsley|R|David Bote|R|Forceout|F|Four-Seam Fastball|8|0|2|2|13|97
+Ryan Helsley|R|David Bote|R|Forceout|B|Cutter|9|0|2|2|14|88
+Ryan Helsley|R|David Bote|R|Forceout|X|Cutter|10|1|2|2|9|89
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|*B|Cutter|11|0|0|0|13|87
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|S|Cutter|12|1|0|0|7|88
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|F|Four-Seam Fastball|13|1|1|0|7|97
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|*B|Cutter|14|1|2|0|14|91
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|B|Cutter|15|2|2|0|14|89
+Ryan Helsley|R|Albert Almora Jr.|R|Walk|B|Cutter|16|3|2|0|13|86
+Ryan Helsley|R|Cole Hamels|L|Sac Bunt|L|Four-Seam Fastball|17|0|0|0|8|94
+Ryan Helsley|R|Cole Hamels|L|Sac Bunt|L|Four-Seam Fastball|18|0|1|0|11|94
+Ryan Helsley|R|Cole Hamels|L|Sac Bunt|X|Four-Seam Fastball|19|0|2|0|8|98
+Ryan Helsley|R|Anthony Rizzo|L|Intent Walk|V|N/A|20|0|0|1|0|0
+Ryan Helsley|R|Anthony Rizzo|L|Intent Walk|V|N/A|21|0|1|1|0|0
+Ryan Helsley|R|Anthony Rizzo|L|Intent Walk|V|N/A|22|0|2|1|0|0
+Ryan Helsley|R|Anthony Rizzo|L|Intent Walk|V|N/A|23|0|2|1|0|0
+Ryan Helsley|R|Kris Bryant|R|Strikeout|*B|Cutter|24|0|0|1|14|89
+Ryan Helsley|R|Kris Bryant|R|Strikeout|C|Cutter|25|1|0|1|6|90
+Ryan Helsley|R|Kris Bryant|R|Strikeout|*B|Cutter|26|1|1|1|14|92
+Ryan Helsley|R|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|27|2|1|1|11|97
+Ryan Helsley|R|Kris Bryant|R|Strikeout|F|Four-Seam Fastball|28|2|2|1|14|99
+Ryan Helsley|R|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|29|2|2|1|4|100
+Ryan Helsley|R|Kris Bryant|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|96
+Ryan Helsley|R|Kris Bryant|R|Flyout|C|Cutter|1|1|0|0|9|88
+Ryan Helsley|R|Kris Bryant|R|Flyout|X|Four-Seam Fastball|2|1|1|0|2|97
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|B|Changeup|3|0|0|1|13|86
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|C|Four-Seam Fastball|4|1|0|1|5|96
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|S|Four-Seam Fastball|5|1|1|1|5|99
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|B|Curveball|6|1|2|1|12|83
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|F|Four-Seam Fastball|7|2|2|1|12|98
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|B|Changeup|8|2|2|1|13|86
+Ryan Helsley|R|Anthony Rizzo|L|Groundout|X|Four-Seam Fastball|9|3|2|1|11|98
+Ryan Helsley|R|Javier Baez|R|Lineout|S|Curveball|10|0|0|2|14|81
+Ryan Helsley|R|Javier Baez|R|Lineout|X|Cutter|11|0|1|2|6|89
+Ryan Helsley|R|Ian Happ|L|Strikeout|B|Cutter|0|0|0|0|12|88
+Ryan Helsley|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|14|98
+Ryan Helsley|R|Ian Happ|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|14|98
+Ryan Helsley|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|3|2|1|0|12|99
+Ryan Helsley|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|4|3|1|0|6|98
+Ryan Helsley|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|11|99
+Ryan Helsley|R|Anthony Rizzo|L|Lineout|B|Curveball|6|0|0|1|13|81
+Ryan Helsley|R|Anthony Rizzo|L|Lineout|C|Cutter|7|1|0|1|8|88
+Ryan Helsley|R|Anthony Rizzo|L|Lineout|B|Four-Seam Fastball|8|1|1|1|14|99
+Ryan Helsley|R|Anthony Rizzo|L|Lineout|F|Four-Seam Fastball|9|2|1|1|14|99
+Ryan Helsley|R|Anthony Rizzo|L|Lineout|X|Four-Seam Fastball|10|2|2|1|3|101
+Ryan Helsley|R|Nick Castellanos|R|Double|B|Four-Seam Fastball|11|0|0|2|7|99
+Ryan Helsley|R|Nick Castellanos|R|Double|C|Four-Seam Fastball|12|1|0|2|3|100
+Ryan Helsley|R|Nick Castellanos|R|Double|D|Four-Seam Fastball|13|1|1|2|13|100
+Ryan Helsley|R|Kris Bryant|R|Groundout|X|Cutter|14|0|0|2|7|90
+Ryan Helsley|R|Nico Hoerner|R|Home Run|B|Four-Seam Fastball|0|0|0|2|14|96
+Ryan Helsley|R|Nico Hoerner|R|Home Run|F|Four-Seam Fastball|1|1|0|2|14|96
+Ryan Helsley|R|Nico Hoerner|R|Home Run|E|Four-Seam Fastball|2|1|1|2|5|97
+Ryan Helsley|R|Willson Contreras|R|Groundout|S|Cutter|3|0|0|2|14|89
+Ryan Helsley|R|Willson Contreras|R|Groundout|S|Cutter|4|0|1|2|6|89
+Ryan Helsley|R|Willson Contreras|R|Groundout|X|Cutter|5|0|2|2|5|89
+Ryan Helsley|R|Anthony Rizzo|L|Single|B|Cutter|6|0|0|0|14|87
+Ryan Helsley|R|Anthony Rizzo|L|Single|D|Four-Seam Fastball|7|1|0|0|5|98
+Ryan Helsley|R|Nick Castellanos|R|Flyout|*B|Four-Seam Fastball|8|0|0|0|13|99
+Ryan Helsley|R|Nick Castellanos|R|Flyout|F|Cutter|9|1|0|0|6|88
+Ryan Helsley|R|Nick Castellanos|R|Flyout|B|Curveball|10|1|1|0|11|80
+Ryan Helsley|R|Nick Castellanos|R|Flyout|X|Cutter|11|2|1|0|12|89
+Ryan Helsley|R|Kris Bryant|R|Strikeout|*B|Four-Seam Fastball|12|0|0|1|13|98
+Ryan Helsley|R|Kris Bryant|R|Strikeout|T|Four-Seam Fastball|13|1|0|1|9|96
+Ryan Helsley|R|Kris Bryant|R|Strikeout|F|Cutter|14|1|1|1|11|89
+Ryan Helsley|R|Kris Bryant|R|Strikeout|S|Cutter|15|1|2|1|14|90
+Ryan Helsley|R|Jose Iglesias|R|Flyout|B|Cutter|0|0|0|0|14|85
+Ryan Helsley|R|Jose Iglesias|R|Flyout|F|Four-Seam Fastball|1|1|0|0|14|94
+Ryan Helsley|R|Jose Iglesias|R|Flyout|X|Cutter|2|1|1|0|9|89
+Ryan Helsley|R|Juan Graterol|R|Flyout|*B|Curveball|3|0|0|1|14|77
+Ryan Helsley|R|Juan Graterol|R|Flyout|B|Four-Seam Fastball|4|1|0|1|14|94
+Ryan Helsley|R|Juan Graterol|R|Flyout|X|Four-Seam Fastball|5|2|0|1|4|96
+Ryan Helsley|R|Scooter Gennett|L|Lineout|C|Curveball|6|0|0|2|12|78
+Ryan Helsley|R|Scooter Gennett|L|Lineout|F|Four-Seam Fastball|7|0|1|2|8|96
+Ryan Helsley|R|Scooter Gennett|L|Lineout|B|Four-Seam Fastball|8|0|2|2|13|98
+Ryan Helsley|R|Scooter Gennett|L|Lineout|X|Four-Seam Fastball|9|1|2|2|5|97
+Ryan Helsley|R|Jesse Winker|L|Double|B|Four-Seam Fastball|10|0|0|0|11|95
+Ryan Helsley|R|Jesse Winker|L|Double|F|Four-Seam Fastball|11|1|0|0|12|98
+Ryan Helsley|R|Jesse Winker|L|Double|D|Four-Seam Fastball|12|1|1|0|8|97
+Ryan Helsley|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|13|0|0|0|11|98
+Ryan Helsley|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|14|1|0|0|14|97
+Ryan Helsley|R|Joey Votto|L|Groundout|X|Four-Seam Fastball|15|2|0|0|9|97
+Ryan Helsley|R|Eugenio Suarez|R|Intent Walk|B|Four-Seam Fastball|16|0|0|1|12|99
+Ryan Helsley|R|Eugenio Suarez|R|Intent Walk|F|Four-Seam Fastball|17|1|0|1|13|96
+Ryan Helsley|R|Eugenio Suarez|R|Intent Walk|B|Four-Seam Fastball|18|1|1|1|1|98
+Ryan Helsley|R|Eugenio Suarez|R|Intent Walk|B|Cutter|19|2|1|1|11|89
+Ryan Helsley|R|Eugenio Suarez|R|Intent Walk|V|N/A|20|3|1|1|0|0
+Ryan Helsley|R|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|21|0|0|1|11|97
+Ryan Helsley|R|Yasiel Puig|R|Strikeout|F|Cutter|22|0|1|1|14|89
+Ryan Helsley|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|23|0|2|1|11|98
+Ryan Helsley|R|Yasiel Puig|R|Strikeout|S|Cutter|24|1|2|1|14|87
+Ryan Helsley|R|Josh VanMeter|L|Lineout|C|Cutter|25|0|0|2|3|89
+Ryan Helsley|R|Josh VanMeter|L|Lineout|B|Cutter|26|0|1|2|12|89
+Ryan Helsley|R|Josh VanMeter|L|Lineout|B|Four-Seam Fastball|27|1|1|2|11|99
+Ryan Helsley|R|Josh VanMeter|L|Lineout|X|Cutter|28|2|1|2|9|89
+Ryan Helsley|R|Nick Senzel|R|Strikeout|S|Cutter|0|0|0|2|8|87
+Ryan Helsley|R|Nick Senzel|R|Strikeout|C|Cutter|1|0|1|2|1|90
+Ryan Helsley|R|Nick Senzel|R|Strikeout|T|Four-Seam Fastball|2|0|2|2|2|97
+Ryan Helsley|R|Josh VanMeter|L|Groundout|C|Curveball|3|0|0|0|9|79
+Ryan Helsley|R|Josh VanMeter|L|Groundout|B|Cutter|4|0|1|0|14|90
+Ryan Helsley|R|Josh VanMeter|L|Groundout|C|Four-Seam Fastball|5|1|1|0|13|98
+Ryan Helsley|R|Josh VanMeter|L|Groundout|F|Four-Seam Fastball|6|1|2|0|1|99
+Ryan Helsley|R|Josh VanMeter|L|Groundout|F|Curveball|7|1|2|0|4|80
+Ryan Helsley|R|Josh VanMeter|L|Groundout|F|Four-Seam Fastball|8|1|2|0|2|99
+Ryan Helsley|R|Josh VanMeter|L|Groundout|X|Four-Seam Fastball|9|1|2|0|14|99
+Ryan Helsley|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|10|0|0|1|6|97
+Ryan Helsley|R|Eugenio Suarez|R|Strikeout|B|Cutter|11|0|1|1|12|90
+Ryan Helsley|R|Eugenio Suarez|R|Strikeout|C|Cutter|12|1|1|1|7|89
+Ryan Helsley|R|Eugenio Suarez|R|Strikeout|S|Cutter|13|1|2|1|14|92
+Ryan Helsley|R|Aristides Aquino|R|Groundout|X|Cutter|14|0|0|2|14|91
+Ryan Helsley|R|Phillip Ervin|R|Double|B|Four-Seam Fastball|15|0|0|0|11|96
+Ryan Helsley|R|Phillip Ervin|R|Double|D|Cutter|16|1|0|0|4|90
+Ryan Helsley|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|17|0|0|0|7|98
+Ryan Helsley|R|Freddy Galvis|L|Strikeout|F|Four-Seam Fastball|18|0|1|0|6|98
+Ryan Helsley|R|Freddy Galvis|L|Strikeout|F|Cutter|19|0|2|0|8|90
+Ryan Helsley|R|Freddy Galvis|L|Strikeout|F|Curveball|20|0|2|0|2|81
+Ryan Helsley|R|Freddy Galvis|L|Strikeout|T|Four-Seam Fastball|21|0|2|0|11|100
+Ryan Helsley|R|Jose Iglesias|R|Groundout|X|Cutter|22|0|0|1|6|90
+Ryan Helsley|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|0|0|0|0|12|98
+Ryan Helsley|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|1|1|0|0|6|97
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|B|Cutter|2|0|0|1|14|88
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|S|Cutter|3|1|0|1|2|89
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|4|1|1|1|1|99
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|F|Cutter|5|1|2|1|6|89
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|X|Cutter|6|1|2|1|1|89
+Ryan Helsley|R|Jose Peraza|R|Flyout|C|Four-Seam Fastball|7|0|0|2|8|97
+Ryan Helsley|R|Jose Peraza|R|Flyout|X|Four-Seam Fastball|8|0|1|2|2|97
+Ryan Helsley|R|Michael Lorenzen|R|Single|D|Four-Seam Fastball|9|0|0|0|5|97
+Ryan Helsley|R|Nick Senzel|R|Flyout|F|Four-Seam Fastball|10|0|0|0|8|95
+Ryan Helsley|R|Nick Senzel|R|Flyout|F|Four-Seam Fastball|11|0|1|0|1|97
+Ryan Helsley|R|Nick Senzel|R|Flyout|B|Four-Seam Fastball|12|0|2|0|12|98
+Ryan Helsley|R|Nick Senzel|R|Flyout|F|Four-Seam Fastball|13|1|2|0|8|99
+Ryan Helsley|R|Nick Senzel|R|Flyout|X|Cutter|14|1|2|0|9|90
+Ryan Helsley|R|Josh VanMeter|L|Single|C|Four-Seam Fastball|15|0|0|1|11|100
+Ryan Helsley|R|Josh VanMeter|L|Single|D|Four-Seam Fastball|16|0|1|1|8|99
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|B|Curveball|17|0|0|1|11|79
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|F|Four-Seam Fastball|18|1|0|1|8|99
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|F|Cutter|19|1|1|1|14|89
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|F|Four-Seam Fastball|20|1|2|1|3|99
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|F|Curveball|21|1|2|1|1|82
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|B|Cutter|22|1|2|1|12|90
+Ryan Helsley|R|Freddy Galvis|L|Sac Fly|E|Four-Seam Fastball|23|2|2|1|12|100
+Ryan Helsley|R|Aristides Aquino|R|Groundout|F|Curveball|24|0|0|2|4|80
+Ryan Helsley|R|Aristides Aquino|R|Groundout|F|Cutter|25|0|1|2|14|90
+Ryan Helsley|R|Aristides Aquino|R|Groundout|X|Cutter|26|0|2|2|14|91
+Ryan Helsley|R|Trevor Story|R|Single|B|Cutter|0|0|0|0|14|87
+Ryan Helsley|R|Trevor Story|R|Single|F|Cutter|1|1|0|0|14|88
+Ryan Helsley|R|Trevor Story|R|Single|D|Cutter|2|1|1|0|6|88
+Ryan Helsley|R|Charlie Blackmon|L|Flyout|X|Four-Seam Fastball|3|0|0|0|3|96
+Ryan Helsley|R|Nolan Arenado|R|Grounded Into DP|F|Four-Seam Fastball|4|0|0|1|1|96
+Ryan Helsley|R|Nolan Arenado|R|Grounded Into DP|X|Four-Seam Fastball|5|0|1|1|8|98
+Ryan Helsley|R|Daniel Murphy|L|Single|B|Cutter|6|0|0|0|13|88
+Ryan Helsley|R|Daniel Murphy|L|Single|F|Four-Seam Fastball|7|1|0|0|12|98
+Ryan Helsley|R|Daniel Murphy|L|Single|B|Curveball|8|1|1|0|13|81
+Ryan Helsley|R|Daniel Murphy|L|Single|B|Four-Seam Fastball|9|2|1|0|11|99
+Ryan Helsley|R|Daniel Murphy|L|Single|D|Four-Seam Fastball|10|3|1|0|2|97
+Ryan Helsley|R|Ryan McMahon|L|Strikeout|F|Four-Seam Fastball|11|0|0|0|8|98
+Ryan Helsley|R|Ryan McMahon|L|Strikeout|C|Cutter|12|0|1|0|1|89
+Ryan Helsley|R|Ryan McMahon|L|Strikeout|W|Curveball|13|0|2|0|13|81
+Ryan Helsley|R|Raimel Tapia|L|Lineout|F|Four-Seam Fastball|14|0|0|1|5|98
+Ryan Helsley|R|Raimel Tapia|L|Lineout|X|Four-Seam Fastball|15|0|1|1|3|100
+Ryan Helsley|R|Sam Hilliard|L|Groundout|F|Four-Seam Fastball|16|0|0|2|12|99
+Ryan Helsley|R|Sam Hilliard|L|Groundout|B|Cutter|17|0|1|2|14|90
+Ryan Helsley|R|Sam Hilliard|L|Groundout|X|Four-Seam Fastball|18|1|1|2|9|100
+Ryan Helsley|R|Joc Pederson|L|Groundout|B|Four-Seam Fastball|0|0|0|0|12|97
+Ryan Helsley|R|Joc Pederson|L|Groundout|X|Four-Seam Fastball|1|1|0|0|14|96
+Ryan Helsley|R|Max Muncy|L|Walk|B|Four-Seam Fastball|2|0|0|1|11|98
+Ryan Helsley|R|Max Muncy|L|Walk|B|Four-Seam Fastball|3|1|0|1|14|96
+Ryan Helsley|R|Max Muncy|L|Walk|C|Four-Seam Fastball|4|2|0|1|1|97
+Ryan Helsley|R|Max Muncy|L|Walk|B|Four-Seam Fastball|5|2|1|1|11|98
+Ryan Helsley|R|Max Muncy|L|Walk|C|Four-Seam Fastball|6|3|1|1|6|98
+Ryan Helsley|R|Max Muncy|L|Walk|F|Four-Seam Fastball|7|3|2|1|8|99
+Ryan Helsley|R|Max Muncy|L|Walk|B|Cutter|8|3|2|1|12|89
+Ryan Helsley|R|Justin Turner|R|Flyout|C|Cutter|9|0|0|1|4|88
+Ryan Helsley|R|Justin Turner|R|Flyout|F|Four-Seam Fastball|10|0|1|1|1|98
+Ryan Helsley|R|Justin Turner|R|Flyout|B|Curveball|11|0|2|1|13|79
+Ryan Helsley|R|Justin Turner|R|Flyout|X|Four-Seam Fastball|12|1|2|1|11|98
+Ryan Helsley|R|Cody Bellinger|L|Groundout|B|Changeup|13|0|0|2|11|85
+Ryan Helsley|R|Cody Bellinger|L|Groundout|B|Changeup|14|1|0|2|13|87
+Ryan Helsley|R|Cody Bellinger|L|Groundout|X|Four-Seam Fastball|15|2|0|2|14|99
+Ryan Helsley|R|Will Smith|R|Walk|F|Four-Seam Fastball|16|0|0|0|6|96
+Ryan Helsley|R|Will Smith|R|Walk|B|Four-Seam Fastball|17|0|1|0|11|97
+Ryan Helsley|R|Will Smith|R|Walk|C|Curveball|18|1|1|0|2|78
+Ryan Helsley|R|Will Smith|R|Walk|B|Four-Seam Fastball|19|1|2|0|11|98
+Ryan Helsley|R|Will Smith|R|Walk|B|Cutter|20|2|2|0|14|87
+Ryan Helsley|R|Will Smith|R|Walk|F|Cutter|21|3|2|0|6|88
+Ryan Helsley|R|Will Smith|R|Walk|B|Four-Seam Fastball|22|3|2|0|13|97
+Ryan Helsley|R|Corey Seager|L|Lineout|B|Changeup|23|0|0|0|11|87
+Ryan Helsley|R|Corey Seager|L|Lineout|X|Four-Seam Fastball|24|1|0|0|6|98
+Ryan Helsley|R|Kristopher Negron|R|Strikeout|S|Four-Seam Fastball|25|0|0|1|3|97
+Ryan Helsley|R|Kristopher Negron|R|Strikeout|B|Four-Seam Fastball|26|0|1|1|13|97
+Ryan Helsley|R|Kristopher Negron|R|Strikeout|S|Four-Seam Fastball|27|1|1|1|2|97
+Ryan Helsley|R|Kristopher Negron|R|Strikeout|C|Four-Seam Fastball|28|1|2|1|7|99
+Ryan Helsley|R|Matt Beaty|L|Single|B|Four-Seam Fastball|29|0|0|2|14|98
+Ryan Helsley|R|Matt Beaty|L|Single|S|Changeup|30|1|0|2|13|87
+Ryan Helsley|R|Matt Beaty|L|Single|D|Four-Seam Fastball|31|1|1|2|3|98
+Ryan Helsley|R|Tyler White|R|Groundout|B|Four-Seam Fastball|32|0|0|2|13|95
+Ryan Helsley|R|Tyler White|R|Groundout|X|Four-Seam Fastball|33|1|0|2|2|96
+Ryan Helsley|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|34|0|0|0|11|96
+Ryan Helsley|R|Joc Pederson|L|Walk|S|Four-Seam Fastball|35|1|0|0|8|97
+Ryan Helsley|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|36|1|1|0|11|98
+Ryan Helsley|R|Joc Pederson|L|Walk|F|Cutter|37|2|1|0|8|85
+Ryan Helsley|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|38|2|2|0|12|97
+Ryan Helsley|R|Joc Pederson|L|Walk|F|Four-Seam Fastball|39|3|2|0|11|98
+Ryan Helsley|R|Joc Pederson|L|Walk|F|Four-Seam Fastball|40|3|2|0|3|96
+Ryan Helsley|R|Joc Pederson|L|Walk|B|Cutter|41|3|2|0|11|86
+Ryan Helsley|R|Max Muncy|L|Forceout|X|Four-Seam Fastball|42|0|0|0|13|97
+Ryan Helsley|R|Russell Martin|R|Strikeout|C|Cutter|43|0|0|1|7|86
+Ryan Helsley|R|Russell Martin|R|Strikeout|C|Cutter|44|0|1|1|3|87
+Ryan Helsley|R|Russell Martin|R|Strikeout|F|Four-Seam Fastball|45|0|2|1|6|97
+Ryan Helsley|R|Russell Martin|R|Strikeout|F|Four-Seam Fastball|46|0|2|1|2|97
+Ryan Helsley|R|Russell Martin|R|Strikeout|C|Cutter|47|0|2|1|2|89
+Ryan Helsley|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|48|0|0|2|5|96
+Ryan Helsley|R|Cody Bellinger|L|Walk|*B|Changeup|49|0|1|2|14|88
+Ryan Helsley|R|Cody Bellinger|L|Walk|B|Changeup|50|1|1|2|11|87
+Ryan Helsley|R|Cody Bellinger|L|Walk|B|Changeup|51|2|1|2|11|84
+Ryan Helsley|R|Cody Bellinger|L|Walk|F|Cutter|52|3|1|2|9|87
+Ryan Helsley|R|Cody Bellinger|L|Walk|F|Cutter|53|3|2|2|14|89
+Ryan Helsley|R|Cody Bellinger|L|Walk|B|Four-Seam Fastball|54|3|2|2|11|98
+Ryan Helsley|R|Will Smith|R|Flyout|S|Four-Seam Fastball|55|0|0|2|6|96
+Ryan Helsley|R|Will Smith|R|Flyout|B|Four-Seam Fastball|56|0|1|2|14|96
+Ryan Helsley|R|Will Smith|R|Flyout|B|Four-Seam Fastball|57|1|1|2|14|96
+Ryan Helsley|R|Will Smith|R|Flyout|*B|Cutter|58|2|1|2|14|87
+Ryan Helsley|R|Will Smith|R|Flyout|X|Four-Seam Fastball|59|3|1|2|5|95
+Ryan Helsley|R|Juan Lagares|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|95
+Ryan Helsley|R|Juan Lagares|R|Groundout|X|Cutter|1|1|0|0|14|85
+Ryan Helsley|R|Jason Vargas|L|Strikeout|F|Four-Seam Fastball|2|0|0|1|5|94
+Ryan Helsley|R|Jason Vargas|L|Strikeout|C|Four-Seam Fastball|3|0|1|1|13|97
+Ryan Helsley|R|Jason Vargas|L|Strikeout|S|Four-Seam Fastball|4|0|2|1|2|99
+Ryan Helsley|R|Jeff McNeil|L|Pop Out|B|Cutter|5|0|0|2|14|88
+Ryan Helsley|R|Jeff McNeil|L|Pop Out|X|Four-Seam Fastball|6|1|0|2|2|96
+Ryan Helsley|R|Pete Alonso|R|Home Run|B|Four-Seam Fastball|7|0|0|0|14|96
+Ryan Helsley|R|Pete Alonso|R|Home Run|B|Four-Seam Fastball|8|1|0|0|14|95
+Ryan Helsley|R|Pete Alonso|R|Home Run|C|Cutter|9|2|0|0|14|85
+Ryan Helsley|R|Pete Alonso|R|Home Run|F|Four-Seam Fastball|10|2|1|0|8|96
+Ryan Helsley|R|Pete Alonso|R|Home Run|B|Cutter|11|2|2|0|14|89
+Ryan Helsley|R|Pete Alonso|R|Home Run|F|Cutter|12|3|2|0|9|88
+Ryan Helsley|R|Pete Alonso|R|Home Run|E|Four-Seam Fastball|13|3|2|0|14|97
+Ryan Helsley|R|Robinson Cano|L|Flyout|F|Curveball|14|0|0|0|2|78
+Ryan Helsley|R|Robinson Cano|L|Flyout|F|Four-Seam Fastball|15|0|1|0|8|99
+Ryan Helsley|R|Robinson Cano|L|Flyout|X|Cutter|16|0|2|0|12|90
+Ryan Helsley|R|Michael Conforto|L|Lineout|B|Four-Seam Fastball|17|0|0|1|13|96
+Ryan Helsley|R|Michael Conforto|L|Lineout|F|Cutter|18|1|0|1|14|89
+Ryan Helsley|R|Michael Conforto|L|Lineout|F|Four-Seam Fastball|19|1|1|1|4|97
+Ryan Helsley|R|Michael Conforto|L|Lineout|B|Curveball|20|1|2|1|11|81
+Ryan Helsley|R|Michael Conforto|L|Lineout|X|Four-Seam Fastball|21|2|2|1|7|99
+Ryan Helsley|R|Wilson Ramos|R|Groundout|X|Cutter|22|0|0|2|9|88
+Ryan Helsley|R|Scott Schebler|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|95
+Ryan Helsley|R|Scott Schebler|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|11|97
+Ryan Helsley|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|14|99
+Ryan Helsley|R|Scott Schebler|L|Strikeout|B|Cutter|3|1|2|0|14|89
+Ryan Helsley|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|11|98
+Ryan Helsley|R|Scott Schebler|L|Strikeout|F|Cutter|5|3|2|0|9|90
+Ryan Helsley|R|Scott Schebler|L|Strikeout|W|Cutter|6|3|2|0|14|87
+Ryan Helsley|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|7|0|0|1|3|95
+Ryan Helsley|R|Jose Iglesias|R|Groundout|B|Four-Seam Fastball|8|0|1|1|11|97
+Ryan Helsley|R|Jose Iglesias|R|Groundout|X|Cutter|9|1|1|1|14|88
+Ryan Helsley|R|Curt Casali|R|Strikeout|F|Four-Seam Fastball|10|0|0|2|5|97
+Ryan Helsley|R|Curt Casali|R|Strikeout|F|Four-Seam Fastball|11|0|1|2|8|96
+Ryan Helsley|R|Curt Casali|R|Strikeout|B|Cutter|12|0|2|2|14|87
+Ryan Helsley|R|Curt Casali|R|Strikeout|S|Cutter|13|1|2|2|2|88
+Ryan Helsley|R|Derek Dietrich|L|Lineout|F|Four-Seam Fastball|14|0|0|0|2|96
+Ryan Helsley|R|Derek Dietrich|L|Lineout|B|Cutter|15|0|1|0|14|90
+Ryan Helsley|R|Derek Dietrich|L|Lineout|C|Four-Seam Fastball|16|1|1|0|5|98
+Ryan Helsley|R|Derek Dietrich|L|Lineout|B|Four-Seam Fastball|17|1|2|0|14|98
+Ryan Helsley|R|Derek Dietrich|L|Lineout|X|Four-Seam Fastball|18|2|2|0|6|99
+Ryan Helsley|R|Jose Peraza|R|Single|B|Cutter|19|0|0|1|14|89
+Ryan Helsley|R|Jose Peraza|R|Single|B|Four-Seam Fastball|20|1|0|1|12|97
+Ryan Helsley|R|Jose Peraza|R|Single|D|Four-Seam Fastball|21|2|0|1|9|95
+Ryan Helsley|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|22|0|0|1|11|93
+Ryan Helsley|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|23|1|0|1|1|97
+Ryan Helsley|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|24|2|0|1|13|95
+Ryan Helsley|R|Joey Votto|L|Flyout|X|Four-Seam Fastball|25|3|0|1|8|94
+Ryan Helsley|R|Eugenio Suarez|R|Forceout|F|Four-Seam Fastball|26|0|0|2|4|96
+Ryan Helsley|R|Eugenio Suarez|R|Forceout|S|Cutter|27|0|1|2|14|88
+Ryan Helsley|R|Eugenio Suarez|R|Forceout|F|Four-Seam Fastball|28|0|2|2|11|97
+Ryan Helsley|R|Eugenio Suarez|R|Forceout|X|Cutter|29|0|2|2|14|87
+Ryan Helsley|R|Jorge Soler|R|Lineout|X|Cutter|0|0|0|2|9|86
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|B|Curveball|1|0|0|0|11|78
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|F|Four-Seam Fastball|2|1|0|0|9|95
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|F|Four-Seam Fastball|3|1|1|0|3|96
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|B|Changeup|4|1|2|0|13|89
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|F|Four-Seam Fastball|5|2|2|0|1|97
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|B|Curveball|6|2|2|0|11|80
+Ryan Helsley|R|Ryan O'Hearn|L|Walk|B|Changeup|7|3|2|0|13|90
+Ryan Helsley|R|Cam Gallagher|R|Lineout|B|Four-Seam Fastball|8|0|0|0|11|95
+Ryan Helsley|R|Cam Gallagher|R|Lineout|S|Cutter|9|1|0|0|13|86
+Ryan Helsley|R|Cam Gallagher|R|Lineout|C|Cutter|10|1|1|0|1|91
+Ryan Helsley|R|Cam Gallagher|R|Lineout|X|Four-Seam Fastball|11|1|2|0|8|98
+Ryan Helsley|R|Brad Keller|R|Strikeout|L|Four-Seam Fastball|12|0|0|1|6|92
+Ryan Helsley|R|Brad Keller|R|Strikeout|L|Four-Seam Fastball|13|0|1|1|4|94
+Ryan Helsley|R|Brad Keller|R|Strikeout|S|Four-Seam Fastball|14|0|2|1|12|97
+Ryan Helsley|R|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|15|0|0|2|13|97
+Ryan Helsley|R|Whit Merrifield|R|Strikeout|C|Cutter|16|1|0|2|14|89
+Ryan Helsley|R|Whit Merrifield|R|Strikeout|B|Cutter|17|1|1|2|14|89
+Ryan Helsley|R|Whit Merrifield|R|Strikeout|W|Cutter|18|2|1|2|14|89
+Ryan Helsley|R|Whit Merrifield|R|Strikeout|C|Cutter|19|2|2|2|12|89
+Ryan Helsley|R|Nicky Lopez|L|Walk|B|Four-Seam Fastball|20|0|0|0|12|96
+Ryan Helsley|R|Nicky Lopez|L|Walk|F|Four-Seam Fastball|21|1|0|0|5|97
+Ryan Helsley|R|Nicky Lopez|L|Walk|B|Four-Seam Fastball|22|1|1|0|11|98
+Ryan Helsley|R|Nicky Lopez|L|Walk|S|Cutter|23|2|1|0|12|90
+Ryan Helsley|R|Nicky Lopez|L|Walk|B|Changeup|24|2|2|0|13|89
+Ryan Helsley|R|Nicky Lopez|L|Walk|B|Cutter|25|3|2|0|11|88
+Ryan Helsley|R|Adalberto Mondesi|L|Triple|F|Four-Seam Fastball|26|0|0|0|13|97
+Ryan Helsley|R|Adalberto Mondesi|L|Triple|S|Four-Seam Fastball|27|0|1|0|12|98
+Ryan Helsley|R|Adalberto Mondesi|L|Triple|F|Four-Seam Fastball|28|0|2|0|3|97
+Ryan Helsley|R|Adalberto Mondesi|L|Triple|B|Changeup|29|0|2|0|11|91
+Ryan Helsley|R|Adalberto Mondesi|L|Triple|E|Cutter|30|1|2|0|8|89
+Ryan Helsley|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|31|0|0|0|11|96
+Ryan Helsley|R|Alex Gordon|L|Strikeout|F|Cutter|32|1|0|0|2|89
+Ryan Helsley|R|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|33|1|1|0|11|99
+Ryan Helsley|R|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|34|1|2|0|13|99
+Ryan Helsley|R|Orlando Arcia|R|Groundout|C|Four-Seam Fastball|0|0|0|0|5|96
+Ryan Helsley|R|Orlando Arcia|R|Groundout|X|Four-Seam Fastball|1|0|1|0|13|96
+Ryan Helsley|R|Gio Gonzalez|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|2|94
+Ryan Helsley|R|Gio Gonzalez|R|Strikeout|S|Cutter|3|0|1|1|5|88
+Ryan Helsley|R|Gio Gonzalez|R|Strikeout|C|Four-Seam Fastball|4|0|2|1|5|98
+Ryan Helsley|R|Lorenzo Cain|R|Single|C|Four-Seam Fastball|5|0|0|2|7|97
+Ryan Helsley|R|Lorenzo Cain|R|Single|F|Four-Seam Fastball|6|0|1|2|11|98
+Ryan Helsley|R|Lorenzo Cain|R|Single|B|Four-Seam Fastball|7|0|2|2|14|98
+Ryan Helsley|R|Lorenzo Cain|R|Single|F|Four-Seam Fastball|8|1|2|2|4|97
+Ryan Helsley|R|Lorenzo Cain|R|Single|D|Cutter|9|1|2|2|8|90
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|C|Cutter|10|0|0|2|4|88
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|B|Curveball|11|0|1|2|13|81
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|B|Four-Seam Fastball|12|1|1|2|11|97
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|S|Cutter|13|2|1|2|14|87
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|F|Four-Seam Fastball|14|2|2|2|3|100
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|B|Four-Seam Fastball|15|2|2|2|11|98
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|F|Cutter|16|3|2|2|6|89
+Ryan Helsley|R|Yasmani Grandal|L|Lineout|X|Four-Seam Fastball|17|3|2|2|9|98
+Ryan Helsley|R|Christian Yelich|L|Double|B|Curveball|18|0|0|0|11|78
+Ryan Helsley|R|Christian Yelich|L|Double|B|Four-Seam Fastball|19|1|0|0|14|98
+Ryan Helsley|R|Christian Yelich|L|Double|B|Four-Seam Fastball|20|2|0|0|13|98
+Ryan Helsley|R|Christian Yelich|L|Double|C|Four-Seam Fastball|21|3|0|0|7|100
+Ryan Helsley|R|Christian Yelich|L|Double|D|Four-Seam Fastball|22|3|1|0|8|99
+Ryan Helsley|R|Keston Hiura|R|Flyout|B|Four-Seam Fastball|23|0|0|0|11|96
+Ryan Helsley|R|Keston Hiura|R|Flyout|C|Cutter|24|1|0|0|2|88
+Ryan Helsley|R|Keston Hiura|R|Flyout|F|Four-Seam Fastball|25|1|1|0|1|98
+Ryan Helsley|R|Keston Hiura|R|Flyout|X|Four-Seam Fastball|26|1|2|0|13|98
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|1|97
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|1|0|1|2|2|97
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|B|Curveball|2|0|2|2|11|80
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|S|Curveball|3|1|2|2|13|80
+Ryan Helsley|R|Tony Wolters|L|Strikeout|C|Four-Seam Fastball|4|0|0|0|5|96
+Ryan Helsley|R|Tony Wolters|L|Strikeout|C|Four-Seam Fastball|5|0|1|0|14|99
+Ryan Helsley|R|Tony Wolters|L|Strikeout|B|Curveball|6|0|2|0|14|84
+Ryan Helsley|R|Tony Wolters|L|Strikeout|B|Curveball|7|1|2|0|11|79
+Ryan Helsley|R|Tony Wolters|L|Strikeout|S|Four-Seam Fastball|8|2|2|0|13|98
+Ryan Helsley|R|Yonathan Daza|R|Flyout|B|Four-Seam Fastball|9|0|0|1|14|98
+Ryan Helsley|R|Yonathan Daza|R|Flyout|B|Cutter|10|1|0|1|14|89
+Ryan Helsley|R|Yonathan Daza|R|Flyout|B|Four-Seam Fastball|11|2|0|1|14|96
+Ryan Helsley|R|Yonathan Daza|R|Flyout|C|Four-Seam Fastball|12|3|0|1|14|97
+Ryan Helsley|R|Yonathan Daza|R|Flyout|F|Four-Seam Fastball|13|3|1|1|4|96
+Ryan Helsley|R|Yonathan Daza|R|Flyout|X|Cutter|14|3|2|1|2|91
+Ryan Helsley|R|Garrett Hampson|R|Walk|C|Four-Seam Fastball|15|0|0|2|3|98
+Ryan Helsley|R|Garrett Hampson|R|Walk|B|Cutter|16|0|1|2|13|90
+Ryan Helsley|R|Garrett Hampson|R|Walk|B|Four-Seam Fastball|17|1|1|2|12|98
+Ryan Helsley|R|Garrett Hampson|R|Walk|B|Cutter|18|2|1|2|13|89
+Ryan Helsley|R|Garrett Hampson|R|Walk|B|Four-Seam Fastball|19|3|1|2|13|96
+Ryan Helsley|R|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|20|0|0|2|11|98
+Ryan Helsley|R|Daniel Murphy|L|Strikeout|B|Changeup|21|0|1|2|11|87
+Ryan Helsley|R|Daniel Murphy|L|Strikeout|S|Cutter|22|1|1|2|2|89
+Ryan Helsley|R|Daniel Murphy|L|Strikeout|S|Cutter|23|1|2|2|14|87
+Ryan Helsley|R|Charlie Blackmon|L|Pop Out|F|Four-Seam Fastball|24|0|0|0|9|97
+Ryan Helsley|R|Charlie Blackmon|L|Pop Out|B|Cutter|25|0|1|0|13|87
+Ryan Helsley|R|Charlie Blackmon|L|Pop Out|B|Four-Seam Fastball|26|1|1|0|11|99
+Ryan Helsley|R|Charlie Blackmon|L|Pop Out|X|Four-Seam Fastball|27|2|1|0|9|98
+Ryan Helsley|R|Trevor Story|R|Lineout|X|Four-Seam Fastball|28|0|0|1|2|97
+Ryan Helsley|R|Nolan Arenado|R|Double|F|Four-Seam Fastball|29|0|0|2|1|98
+Ryan Helsley|R|Nolan Arenado|R|Double|D|Four-Seam Fastball|30|0|1|2|4|97
+Ryan Helsley|R|Ryan McMahon|L|Field Error|C|Cutter|31|0|0|2|1|90
+Ryan Helsley|R|Ryan McMahon|L|Field Error|C|Four-Seam Fastball|32|0|1|2|1|98
+Ryan Helsley|R|Ryan McMahon|L|Field Error|F|Four-Seam Fastball|33|0|2|2|2|98
+Ryan Helsley|R|Ryan McMahon|L|Field Error|*B|Curveball|34|0|2|2|14|82
+Ryan Helsley|R|Ryan McMahon|L|Field Error|F|Four-Seam Fastball|35|1|2|2|7|100
+Ryan Helsley|R|Ryan McMahon|L|Field Error|F|Curveball|36|1|2|2|8|82
+Ryan Helsley|R|Ryan McMahon|L|Field Error|B|Cutter|37|1|2|2|14|87
+Ryan Helsley|R|Ryan McMahon|L|Field Error|F|Four-Seam Fastball|38|2|2|2|6|99
+Ryan Helsley|R|Ryan McMahon|L|Field Error|F|Cutter|39|2|2|2|14|89
+Ryan Helsley|R|Ryan McMahon|L|Field Error|E|Four-Seam Fastball|40|2|2|2|3|99
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|S|Cutter|41|0|0|2|14|90
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|*B|Cutter|42|0|1|2|14|90
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|43|1|1|2|2|98
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|F|Cutter|44|1|2|2|3|88
+Ryan Helsley|R|Yonder Alonso|L|Strikeout|W|Curveball|45|1|2|2|14|81
+Ryan Helsley|R|Tucker Barnhart|L|Lineout|C|Cutter|0|0|0|0|3|86
+Ryan Helsley|R|Tucker Barnhart|L|Lineout|B|Four-Seam Fastball|1|0|1|0|12|98
+Ryan Helsley|R|Tucker Barnhart|L|Lineout|X|Four-Seam Fastball|2|1|1|0|2|97
+Ryan Helsley|R|Freddy Galvis|L|Double|D|Four-Seam Fastball|3|0|0|1|8|99
+Ryan Helsley|R|Nick Senzel|R|Strikeout|C|Cutter|4|0|0|1|3|87
+Ryan Helsley|R|Nick Senzel|R|Strikeout|*B|Cutter|5|0|1|1|14|89
+Ryan Helsley|R|Nick Senzel|R|Strikeout|B|Curveball|6|1|1|1|13|80
+Ryan Helsley|R|Nick Senzel|R|Strikeout|C|Four-Seam Fastball|7|2|1|1|14|98
+Ryan Helsley|R|Nick Senzel|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|2|99
+Ryan Helsley|R|Nick Senzel|R|Strikeout|B|Cutter|9|2|2|1|12|88
+Ryan Helsley|R|Nick Senzel|R|Strikeout|C|Cutter|10|3|2|1|12|87
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|C|Four-Seam Fastball|11|0|0|2|12|97
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|12|0|1|2|14|97
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|13|0|2|2|8|98
+Ryan Helsley|R|Jose Iglesias|R|Pop Out|X|Curveball|14|0|2|2|14|82
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|B|Curveball|15|0|0|0|14|80
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|C|Four-Seam Fastball|16|1|0|0|1|98
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|B|Four-Seam Fastball|17|1|1|0|12|98
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|F|Four-Seam Fastball|18|2|1|0|12|98
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|F|Curveball|19|2|2|0|13|84
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|B|Four-Seam Fastball|20|2|2|0|11|97
+Ryan Helsley|R|Derek Dietrich|L|Pop Out|X|Curveball|21|3|2|0|8|81
+Ryan Helsley|R|Josh VanMeter|L|Flyout|B|Curveball|22|0|0|1|13|80
+Ryan Helsley|R|Josh VanMeter|L|Flyout|X|Four-Seam Fastball|23|1|0|1|14|99
+Ryan Helsley|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|24|0|0|2|11|98
+Ryan Helsley|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|25|1|0|2|11|97
+Ryan Helsley|R|Joey Votto|L|Strikeout|C|Four-Seam Fastball|26|2|0|2|12|98
+Ryan Helsley|R|Joey Votto|L|Strikeout|F|Four-Seam Fastball|27|2|1|2|3|98
+Ryan Helsley|R|Joey Votto|L|Strikeout|F|Curveball|28|2|2|2|1|83
+Ryan Helsley|R|Joey Votto|L|Strikeout|S|Four-Seam Fastball|29|2|2|2|14|99
+Ryan Helsley|R|Kevin Pillar|R|Single|E|Four-Seam Fastball|0|0|0|1|5|96
+Ryan Helsley|R|Jaylin Davis|R|Forceout|X|Cutter|1|0|0|1|6|87
+Ryan Helsley|R|Corban Joseph|L|Single|F|Four-Seam Fastball|2|0|0|2|6|97
+Ryan Helsley|R|Corban Joseph|L|Single|C|Curveball|3|0|1|2|2|80
+Ryan Helsley|R|Corban Joseph|L|Single|E|Four-Seam Fastball|4|0|2|2|5|99
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|S|Cutter|5|0|0|2|9|87
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|B|Curveball|6|0|1|2|14|80
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|B|Cutter|7|1|1|2|12|88
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|F|Cutter|8|2|1|2|6|87
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|F|Cutter|9|2|2|2|12|88
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|B|Four-Seam Fastball|10|2|2|2|14|97
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|F|Cutter|11|3|2|2|5|87
+Ryan Helsley|R|Madison Bumgarner|R|Strikeout|S|Four-Seam Fastball|12|3|2|2|12|98
+Ryan Helsley|R|Mike Yastrzemski|L|Pop Out|X|Four-Seam Fastball|13|0|0|0|2|96
+Ryan Helsley|R|Buster Posey|R|Single|B|Four-Seam Fastball|14|0|0|1|14|95
+Ryan Helsley|R|Buster Posey|R|Single|B|Cutter|15|1|0|1|14|88
+Ryan Helsley|R|Buster Posey|R|Single|C|Cutter|16|2|0|1|7|88
+Ryan Helsley|R|Buster Posey|R|Single|C|Four-Seam Fastball|17|2|1|1|9|97
+Ryan Helsley|R|Buster Posey|R|Single|F|Cutter|18|2|2|1|6|90
+Ryan Helsley|R|Buster Posey|R|Single|F|Four-Seam Fastball|19|2|2|1|3|98
+Ryan Helsley|R|Buster Posey|R|Single|B|Curveball|20|2|2|1|13|80
+Ryan Helsley|R|Buster Posey|R|Single|D|Cutter|21|3|2|1|3|89
+Ryan Helsley|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|22|0|0|1|12|96
+Ryan Helsley|R|Brandon Belt|L|Flyout|X|Cutter|23|1|0|1|5|89
+Ryan Helsley|R|Evan Longoria|R|Forceout|C|Four-Seam Fastball|24|0|0|2|7|97
+Ryan Helsley|R|Evan Longoria|R|Forceout|*B|Curveball|25|0|1|2|14|81
+Ryan Helsley|R|Evan Longoria|R|Forceout|S|Cutter|26|1|1|2|14|87
+Ryan Helsley|R|Evan Longoria|R|Forceout|X|Cutter|27|1|2|2|9|89
+Ryan Helsley|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|28|0|0|0|11|96
+Ryan Helsley|R|Brandon Crawford|L|Strikeout|C|Four-Seam Fastball|29|1|0|0|1|97
+Ryan Helsley|R|Brandon Crawford|L|Strikeout|S|Curveball|30|1|1|0|1|78
+Ryan Helsley|R|Brandon Crawford|L|Strikeout|S|Curveball|31|1|2|0|1|81
+Ryan Helsley|R|Kevin Pillar|R|Single|D|Cutter|32|0|0|1|8|89
+Ryan Helsley|R|Jaylin Davis|R|Walk|B|Four-Seam Fastball|33|0|0|1|14|96
+Ryan Helsley|R|Jaylin Davis|R|Walk|B|Four-Seam Fastball|34|1|0|1|12|97
+Ryan Helsley|R|Jaylin Davis|R|Walk|B|Cutter|35|2|0|1|14|88
+Ryan Helsley|R|Jaylin Davis|R|Walk|C|Four-Seam Fastball|36|3|0|1|6|96
+Ryan Helsley|R|Jaylin Davis|R|Walk|B|Cutter|37|3|1|1|14|89
+Ryan Helsley|R|Corban Joseph|L|Lineout|B|Cutter|38|0|0|1|14|90
+Ryan Helsley|R|Corban Joseph|L|Lineout|F|Four-Seam Fastball|39|1|0|1|5|98
+Ryan Helsley|R|Corban Joseph|L|Lineout|B|Four-Seam Fastball|40|1|1|1|14|97
+Ryan Helsley|R|Corban Joseph|L|Lineout|*B|Cutter|41|2|1|1|14|88
+Ryan Helsley|R|Corban Joseph|L|Lineout|C|Cutter|42|3|1|1|8|85
+Ryan Helsley|R|Corban Joseph|L|Lineout|X|Cutter|43|3|2|1|6|88
+Ryan Helsley|R|Madison Bumgarner|R|Flyout|X|Four-Seam Fastball|44|0|0|2|3|97
+Ryan Helsley|R|Eric Thames|L|Flyout|C|Four-Seam Fastball|0|0|0|0|2|98
+Ryan Helsley|R|Eric Thames|L|Flyout|X|Curveball|1|0|1|0|7|82
+Ryan Helsley|R|Ben Gamel|L|Groundout|C|Four-Seam Fastball|2|0|0|1|2|98
+Ryan Helsley|R|Ben Gamel|L|Groundout|S|Cutter|3|0|1|1|14|88
+Ryan Helsley|R|Ben Gamel|L|Groundout|B|Curveball|4|0|2|1|13|83
+Ryan Helsley|R|Ben Gamel|L|Groundout|X|Four-Seam Fastball|5|1|2|1|6|99
+Ryan Helsley|R|Cory Spangenberg|L|Pop Out|B|Four-Seam Fastball|6|0|0|2|11|99
+Ryan Helsley|R|Cory Spangenberg|L|Pop Out|F|Four-Seam Fastball|7|1|0|2|9|98
+Ryan Helsley|R|Cory Spangenberg|L|Pop Out|B|Curveball|8|1|1|2|11|81
+Ryan Helsley|R|Cory Spangenberg|L|Pop Out|X|Cutter|9|2|1|2|12|88
+Ryan Helsley|R|Lorenzo Cain|R|Pop Out|T|Four-Seam Fastball|0|0|0|0|12|96
+Ryan Helsley|R|Lorenzo Cain|R|Pop Out|X|Four-Seam Fastball|1|0|1|0|1|96
+Ryan Helsley|R|Cory Spangenberg|L|Home Run|B|Four-Seam Fastball|2|0|0|1|14|98
+Ryan Helsley|R|Cory Spangenberg|L|Home Run|B|Cutter|3|1|0|1|11|87
+Ryan Helsley|R|Cory Spangenberg|L|Home Run|F|Four-Seam Fastball|4|2|0|1|1|97
+Ryan Helsley|R|Cory Spangenberg|L|Home Run|B|Cutter|5|2|1|1|14|89
+Ryan Helsley|R|Cory Spangenberg|L|Home Run|E|Four-Seam Fastball|6|3|1|1|5|97
+Ryan Helsley|R|Hernan Perez|R|Single|C|Cutter|7|0|0|1|8|88
+Ryan Helsley|R|Hernan Perez|R|Single|B|Curveball|8|0|1|1|13|81
+Ryan Helsley|R|Hernan Perez|R|Single|C|Four-Seam Fastball|9|1|1|1|5|98
+Ryan Helsley|R|Hernan Perez|R|Single|D|Four-Seam Fastball|10|1|2|1|2|98
+Ryan Helsley|R|Victor Robles|R|Single|*B|Four-Seam Fastball|0|0|0|1|14|94
+Ryan Helsley|R|Victor Robles|R|Single|E|Four-Seam Fastball|1|1|0|1|12|94
+Ryan Helsley|R|Yan Gomes|R|Double|B|Four-Seam Fastball|2|0|0|2|11|96
+Ryan Helsley|R|Yan Gomes|R|Double|*B|Four-Seam Fastball|3|1|0|2|14|96
+Ryan Helsley|R|Yan Gomes|R|Double|C|Four-Seam Fastball|4|2|0|2|12|96
+Ryan Helsley|R|Yan Gomes|R|Double|E|Four-Seam Fastball|5|2|1|2|14|96
+Ryan Helsley|R|Gerardo Parra|L|Groundout|C|Cutter|6|0|0|2|3|88
+Ryan Helsley|R|Gerardo Parra|L|Groundout|X|Four-Seam Fastball|7|0|1|2|14|98
+Ryan Helsley|R|Nico Hoerner|R|Single|C|Cutter|0|0|0|1|9|85
+Ryan Helsley|R|Nico Hoerner|R|Single|C|Cutter|1|0|1|1|6|87
+Ryan Helsley|R|Nico Hoerner|R|Single|F|Four-Seam Fastball|2|0|2|1|1|97
+Ryan Helsley|R|Nico Hoerner|R|Single|E|Cutter|3|0|2|1|3|86
+Ryan Helsley|R|Jonathan Lucroy|R|Flyout|C|Four-Seam Fastball|4|0|0|1|2|96
+Ryan Helsley|R|Jonathan Lucroy|R|Flyout|X|Cutter|5|0|1|1|2|87
+Ryan Helsley|R|Robel Garcia|L|Home Run|E|Four-Seam Fastball|6|0|0|2|9|97
+Ryan Helsley|R|Tony Kemp|L|Double|C|Cutter|7|0|0|2|3|88
+Ryan Helsley|R|Tony Kemp|L|Double|S|Cutter|8|0|1|2|1|86
+Ryan Helsley|R|Tony Kemp|L|Double|D|Four-Seam Fastball|9|0|2|2|11|98
+Ryan Helsley|R|Ben Zobrist|L|Single|*B|Cutter|10|0|0|2|14|87
+Ryan Helsley|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|11|1|0|2|11|98
+Ryan Helsley|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|12|2|0|2|13|96
+Ryan Helsley|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|13|3|0|2|5|97
+Ryan Helsley|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|14|3|1|2|14|99
+Ryan Helsley|R|Ben Zobrist|L|Single|E|Four-Seam Fastball|15|3|2|2|14|98
+Ryan Helsley|R|Miguel Rojas|R|Double|C|Cutter|0|0|0|0|5|85
+Ryan Helsley|R|Miguel Rojas|R|Double|B|Four-Seam Fastball|1|0|1|0|11|95
+Ryan Helsley|R|Miguel Rojas|R|Double|D|Four-Seam Fastball|2|1|1|0|11|94
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|*B|Cutter|3|0|0|0|13|87
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|C|Cutter|4|1|0|0|5|87
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|B|Four-Seam Fastball|5|1|1|0|11|94
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|*B|Cutter|6|2|1|0|14|87
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|C|Four-Seam Fastball|7|3|1|0|14|94
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|F|Cutter|8|3|2|0|3|88
+Ryan Helsley|R|Bryan Holaday|R|Strikeout|S|Four-Seam Fastball|9|3|2|0|11|95
+Tyler Webb|L|Jordan Yamamoto|R|Sac Bunt|B|Four-Seam Fastball|10|0|0|1|12|91
+Tyler Webb|L|Jordan Yamamoto|R|Sac Bunt|F|Four-Seam Fastball|11|1|0|1|11|95
+Tyler Webb|L|Jordan Yamamoto|R|Sac Bunt|B|Four-Seam Fastball|12|1|1|1|11|94
+Ryan Helsley|R|Christian Yelich|L|Home Run|S|Cutter|0|0|0|2|9|89
+Ryan Helsley|R|Christian Yelich|L|Home Run|F|Cutter|1|0|1|2|14|91
+Ryan Helsley|R|Christian Yelich|L|Home Run|*B|Cutter|2|0|2|2|14|91
+Ryan Helsley|R|Christian Yelich|L|Home Run|B|Cutter|3|1|2|2|14|90
+Ryan Helsley|R|Christian Yelich|L|Home Run|F|Four-Seam Fastball|4|2|2|2|9|98
+Ryan Helsley|R|Christian Yelich|L|Home Run|E|Cutter|5|2|2|2|5|91
+Ryan Helsley|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|7|98
+Ryan Helsley|R|Ryan Braun|R|Strikeout|S|Four-Seam Fastball|7|0|1|2|3|99
+Ryan Helsley|R|Ryan Braun|R|Strikeout|W|Cutter|8|0|2|2|14|92
+Ryan Helsley|R|Mike Moustakas|L|Lineout|X|Four-Seam Fastball|9|0|0|0|13|97
+Ryan Helsley|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|10|0|0|1|1|97
+Ryan Helsley|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|11|0|1|1|6|98
+Ryan Helsley|R|Yasmani Grandal|L|Strikeout|F|Cutter|12|0|2|1|13|89
+Ryan Helsley|R|Yasmani Grandal|L|Strikeout|F|Curveball|13|0|2|1|1|83
+Ryan Helsley|R|Yasmani Grandal|L|Strikeout|T|Four-Seam Fastball|14|0|2|1|11|99
+Ryan Helsley|R|Travis Shaw|L|Flyout|S|Four-Seam Fastball|15|0|0|2|12|100
+Ryan Helsley|R|Travis Shaw|L|Flyout|T|Four-Seam Fastball|16|0|1|2|5|99
+Ryan Helsley|R|Travis Shaw|L|Flyout|X|Four-Seam Fastball|17|0|2|2|6|100
+Ryan Helsley|R|Jesus Aguilar|R|Flyout|C|Four-Seam Fastball|18|0|0|0|2|97
+Ryan Helsley|R|Jesus Aguilar|R|Flyout|X|Curveball|19|0|1|0|11|81
+Ryan Helsley|R|Orlando Arcia|R|Strikeout|S|Cutter|20|0|0|1|14|91
+Ryan Helsley|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|21|0|1|1|14|99
+Ryan Helsley|R|Orlando Arcia|R|Strikeout|C|Cutter|22|1|1|1|3|88
+Ryan Helsley|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|23|1|2|1|14|99
+Ryan Helsley|R|Orlando Arcia|R|Strikeout|C|Cutter|24|2|2|1|12|91
+Ryan Helsley|R|Eric Thames|L|Strikeout|S|Curveball|25|0|0|2|14|83
+Ryan Helsley|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|26|0|1|2|5|100
+Ryan Helsley|R|Eric Thames|L|Strikeout|S|Four-Seam Fastball|27|0|2|2|1|101

@@ -1,0 +1,407 @@
+Ian Thomas|L|Lucas Duda|L|Grounded Into DP|B|Four-Seam Fastball|0|0|0|0|13|90
+Ian Thomas|L|Lucas Duda|L|Grounded Into DP|C|Four-Seam Fastball|1|1|0|0|11|89
+Ian Thomas|L|Lucas Duda|L|Grounded Into DP|X|Curveball|2|1|1|0|7|75
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|3|0|0|2|14|90
+Ian Thomas|L|Michael Cuddyer|R|Walk|C|Changeup|4|1|0|2|5|77
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|5|1|1|2|11|91
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Changeup|6|2|1|2|14|79
+Ian Thomas|L|Michael Cuddyer|R|Walk|C|Four-Seam Fastball|7|3|1|2|8|90
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Changeup|8|3|2|2|12|78
+Ian Thomas|L|Daniel Murphy|L|Pop Out|X|Four-Seam Fastball|9|0|0|2|2|91
+Ian Thomas|L|Lucas Duda|L|Walk|C|Four-Seam Fastball|0|0|0|1|13|89
+Ian Thomas|L|Lucas Duda|L|Walk|C|Four-Seam Fastball|1|0|1|1|1|90
+Ian Thomas|L|Lucas Duda|L|Walk|B|Four-Seam Fastball|2|0|2|1|13|90
+Ian Thomas|L|Lucas Duda|L|Walk|B|Four-Seam Fastball|3|1|2|1|13|91
+Ian Thomas|L|Lucas Duda|L|Walk|*B|Curveball|4|2|2|1|13|75
+Ian Thomas|L|Lucas Duda|L|Walk|B|Four-Seam Fastball|5|3|2|1|12|90
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|6|0|0|1|13|90
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|7|1|0|1|11|88
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|8|2|0|1|11|89
+Ian Thomas|L|Michael Cuddyer|R|Walk|C|Four-Seam Fastball|9|3|0|1|4|89
+Ian Thomas|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|10|3|1|1|13|88
+Ian Thomas|L|Daniel Murphy|L|Strikeout|C|Four-Seam Fastball|11|0|0|1|13|90
+Ian Thomas|L|Daniel Murphy|L|Strikeout|*B|Curveball|12|0|1|1|13|76
+Ian Thomas|L|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|13|1|1|1|3|90
+Ian Thomas|L|Daniel Murphy|L|Strikeout|*B|Curveball|14|1|2|1|13|74
+Ian Thomas|L|Daniel Murphy|L|Strikeout|S|Cutter|15|2|2|1|13|86
+Ian Thomas|L|Freddy Galvis|R|Single|C|Four-Seam Fastball|0|0|0|2|7|90
+Ian Thomas|L|Freddy Galvis|R|Single|B|Four-Seam Fastball|1|0|1|2|11|90
+Ian Thomas|L|Freddy Galvis|R|Single|B|Four-Seam Fastball|2|1|1|2|12|89
+Ian Thomas|L|Freddy Galvis|R|Single|F|Four-Seam Fastball|3|2|1|2|11|90
+Ian Thomas|L|Freddy Galvis|R|Single|D|Four-Seam Fastball|4|2|2|2|11|91
+Ian Thomas|L|Andres Blanco|R|Sac Bunt|X|Four-Seam Fastball|5|0|0|2|4|90
+Ian Thomas|L|Ben Revere|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|12|89
+Ian Thomas|L|Ben Revere|L|Strikeout|F|Four-Seam Fastball|7|1|0|0|12|88
+Ian Thomas|L|Ben Revere|L|Strikeout|B|Changeup|8|1|1|0|12|76
+Ian Thomas|L|Ben Revere|L|Strikeout|F|Four-Seam Fastball|9|2|1|0|1|88
+Ian Thomas|L|Ben Revere|L|Strikeout|C|Curveball|10|2|2|0|11|74
+Ian Thomas|L|Odubel Herrera|L|Field Error|S|Curveball|11|0|0|1|7|72
+Ian Thomas|L|Odubel Herrera|L|Field Error|C|Cutter|12|0|1|1|13|87
+Ian Thomas|L|Odubel Herrera|L|Field Error|E|Curveball|13|0|2|1|4|75
+Ian Thomas|L|Chase Utley|L|Groundout|F|Four-Seam Fastball|14|0|0|1|2|89
+Ian Thomas|L|Chase Utley|L|Groundout|B|Cutter|15|0|1|1|11|87
+Ian Thomas|L|Chase Utley|L|Groundout|F|Cutter|16|1|1|1|1|87
+Ian Thomas|L|Chase Utley|L|Groundout|B|Curveball|17|1|2|1|12|74
+Ian Thomas|L|Chase Utley|L|Groundout|F|Changeup|18|2|2|1|13|79
+Ian Thomas|L|Chase Utley|L|Groundout|B|Cutter|19|2|2|1|13|88
+Ian Thomas|L|Chase Utley|L|Groundout|X|Four-Seam Fastball|20|3|2|1|2|91
+Ian Thomas|L|Billy Hamilton|R|Home Run|F|Four-Seam Fastball|0|0|0|0|5|89
+Ian Thomas|L|Billy Hamilton|R|Home Run|E|Four-Seam Fastball|1|0|1|0|4|90
+Ian Thomas|L|Zack Cozart|R|Groundout|B|Four-Seam Fastball|2|0|0|0|12|90
+Ian Thomas|L|Zack Cozart|R|Groundout|C|Changeup|3|1|0|0|12|77
+Ian Thomas|L|Zack Cozart|R|Groundout|B|Changeup|4|1|1|0|13|80
+Ian Thomas|L|Zack Cozart|R|Groundout|B|Four-Seam Fastball|5|2|1|0|12|88
+Ian Thomas|L|Zack Cozart|R|Groundout|C|Four-Seam Fastball|6|3|1|0|3|89
+Ian Thomas|L|Zack Cozart|R|Groundout|X|Four-Seam Fastball|7|3|2|0|9|90
+Ian Thomas|L|Joey Votto|L|Groundout|B|Curveball|8|0|0|1|12|72
+Ian Thomas|L|Joey Votto|L|Groundout|S|Four-Seam Fastball|9|1|0|1|12|89
+Ian Thomas|L|Joey Votto|L|Groundout|C|Cutter|10|1|1|1|6|87
+Ian Thomas|L|Joey Votto|L|Groundout|B|Changeup|11|1|2|1|13|81
+Ian Thomas|L|Joey Votto|L|Groundout|X|Four-Seam Fastball|12|2|2|1|13|88
+Ian Thomas|L|Todd Frazier|R|Strikeout|F|Four-Seam Fastball|13|0|0|2|6|90
+Ian Thomas|L|Todd Frazier|R|Strikeout|C|Changeup|14|0|1|2|8|82
+Ian Thomas|L|Todd Frazier|R|Strikeout|W|Curveball|15|0|2|2|14|74
+Ian Thomas|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Ian Thomas|L|Charlie Blackmon|L|Groundout|C|Four-Seam Fastball|1|1|0|0|14|91
+Ian Thomas|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|2|1|1|0|13|88
+Ian Thomas|L|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|3|2|1|0|12|89
+Ian Thomas|L|Charlie Blackmon|L|Groundout|X|Four-Seam Fastball|4|3|1|0|4|89
+Ian Thomas|L|DJ LeMahieu|R|Lineout|C|Changeup|5|0|0|1|7|79
+Ian Thomas|L|DJ LeMahieu|R|Lineout|X|Curveball|6|0|1|1|8|74
+Ian Thomas|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|7|0|0|2|13|91
+Ian Thomas|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|8|1|0|2|12|90
+Ian Thomas|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|9|2|0|2|11|89
+Ian Thomas|L|Carlos Gonzalez|L|Walk|C|Four-Seam Fastball|10|3|0|2|5|89
+Ian Thomas|L|Carlos Gonzalez|L|Walk|F|Four-Seam Fastball|11|3|1|2|6|90
+Ian Thomas|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|12|3|2|2|11|91
+Ian Thomas|L|Nolan Arenado|R|Pop Out|B|Four-Seam Fastball|13|0|0|2|11|89
+Ian Thomas|L|Nolan Arenado|R|Pop Out|X|Changeup|14|1|0|2|14|78
+Ian Thomas|L|Ben Paulsen|L|Double|C|Four-Seam Fastball|15|0|0|0|6|89
+Ian Thomas|L|Ben Paulsen|L|Double|D|Curveball|16|0|1|0|8|74
+Ian Thomas|L|Michael McKenry|R|Home Run|C|Four-Seam Fastball|17|0|0|0|4|89
+Ian Thomas|L|Michael McKenry|R|Home Run|B|Four-Seam Fastball|18|0|1|0|13|91
+Ian Thomas|L|Michael McKenry|R|Home Run|B|Curveball|19|1|1|0|1|75
+Ian Thomas|L|Michael McKenry|R|Home Run|S|Four-Seam Fastball|20|2|1|0|11|90
+Ian Thomas|L|Michael McKenry|R|Home Run|F|Four-Seam Fastball|21|2|2|0|13|92
+Ian Thomas|L|Michael McKenry|R|Home Run|E|Curveball|22|2|2|0|6|74
+Ian Thomas|L|Daniel Descalso|L|Strikeout|B|Four-Seam Fastball|23|0|0|0|13|90
+Ian Thomas|L|Daniel Descalso|L|Strikeout|F|Four-Seam Fastball|24|1|0|0|3|90
+Ian Thomas|L|Daniel Descalso|L|Strikeout|C|Four-Seam Fastball|25|1|1|0|7|91
+Ian Thomas|L|Daniel Descalso|L|Strikeout|F|Four-Seam Fastball|26|1|2|0|2|91
+Ian Thomas|L|Daniel Descalso|L|Strikeout|B|Cutter|27|1|2|0|11|88
+Ian Thomas|L|Daniel Descalso|L|Strikeout|S|Changeup|28|2|2|0|13|81
+Ian Thomas|L|Brandon Barnes|R|Walk|S|Four-Seam Fastball|29|0|0|1|2|90
+Ian Thomas|L|Brandon Barnes|R|Walk|B|Four-Seam Fastball|30|0|1|1|13|91
+Ian Thomas|L|Brandon Barnes|R|Walk|C|Changeup|31|1|1|1|13|80
+Ian Thomas|L|Brandon Barnes|R|Walk|B|Four-Seam Fastball|32|1|2|1|12|92
+Ian Thomas|L|Brandon Barnes|R|Walk|B|Four-Seam Fastball|33|2|2|1|12|91
+Ian Thomas|L|Brandon Barnes|R|Walk|B|Four-Seam Fastball|34|3|2|1|12|91
+Ian Thomas|L|Jorge De La Rosa|L|Groundout|L|Four-Seam Fastball|35|0|0|1|13|89
+Ian Thomas|L|Jorge De La Rosa|L|Groundout|F|Four-Seam Fastball|36|0|1|1|13|88
+Ian Thomas|L|Jorge De La Rosa|L|Groundout|X|Four-Seam Fastball|37|0|2|1|13|87
+Ian Thomas|L|Charlie Blackmon|L|Lineout|C|Four-Seam Fastball|38|0|0|2|8|90
+Ian Thomas|L|Charlie Blackmon|L|Lineout|X|Four-Seam Fastball|39|0|1|2|14|91
+Ian Thomas|L|DJ LeMahieu|R|Single|D|Four-Seam Fastball|40|0|0|0|9|89
+Ian Thomas|L|Carlos Gonzalez|L|Lineout|F|Four-Seam Fastball|41|0|0|0|3|88
+Ian Thomas|L|Carlos Gonzalez|L|Lineout|X|Cutter|42|0|1|0|7|84
+Ian Thomas|L|Nolan Arenado|R|Single|B|Changeup|43|0|0|1|13|77
+Ian Thomas|L|Nolan Arenado|R|Single|C|Four-Seam Fastball|44|1|0|1|5|89
+Ian Thomas|L|Nolan Arenado|R|Single|F|Cutter|45|1|1|1|3|86
+Ian Thomas|L|Nolan Arenado|R|Single|B|Four-Seam Fastball|46|1|2|1|11|90
+Ian Thomas|L|Nolan Arenado|R|Single|E|Changeup|47|2|2|1|6|79
+Ian Thomas|L|Ben Paulsen|L|Groundout|C|Four-Seam Fastball|48|0|0|1|4|89
+Ian Thomas|L|Ben Paulsen|L|Groundout|X|Cutter|49|0|1|1|12|85
+Ian Thomas|L|Michael McKenry|R|Double|C|Four-Seam Fastball|50|0|0|2|13|89
+Ian Thomas|L|Michael McKenry|R|Double|E|Four-Seam Fastball|51|0|1|2|1|90
+Ian Thomas|L|Daniel Descalso|L|Groundout|S|Four-Seam Fastball|52|0|0|2|11|88
+Ian Thomas|L|Daniel Descalso|L|Groundout|F|Cutter|53|0|1|2|4|86
+Ian Thomas|L|Daniel Descalso|L|Groundout|B|Four-Seam Fastball|54|0|2|2|11|90
+Ian Thomas|L|Daniel Descalso|L|Groundout|X|Cutter|55|1|2|2|13|86
+Ian Thomas|L|Carlos Gomez|R|Pop Out|C|Changeup|0|0|0|2|13|79
+Ian Thomas|L|Carlos Gomez|R|Pop Out|B|Four-Seam Fastball|1|0|1|2|14|90
+Ian Thomas|L|Carlos Gomez|R|Pop Out|X|Cutter|2|1|1|2|4|86
+Ian Thomas|L|Khris Davis|R|Strikeout|S|Four-Seam Fastball|3|0|0|0|12|89
+Ian Thomas|L|Khris Davis|R|Strikeout|S|Changeup|4|0|1|0|9|81
+Ian Thomas|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|5|0|2|0|12|90
+Ian Thomas|L|Khris Davis|R|Strikeout|F|Curveball|6|1|2|0|13|76
+Ian Thomas|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|7|1|2|0|12|91
+Ian Thomas|L|Khris Davis|R|Strikeout|C|Changeup|8|2|2|0|11|81
+Ian Thomas|L|Ryan Braun|R|Catcher Interference|B|Four-Seam Fastball|9|0|0|1|13|90
+Ian Thomas|L|Ryan Braun|R|Catcher Interference|B|Four-Seam Fastball|10|1|0|1|13|90
+Ian Thomas|L|Ryan Braun|R|Catcher Interference|C|Four-Seam Fastball|11|2|0|1|2|88
+Ian Thomas|L|Ryan Braun|R|Catcher Interference|S|Changeup|12|2|1|1|3|81
+Ian Thomas|L|Ryan Braun|R|Catcher Interference|F|Four-Seam Fastball|13|2|2|1|5|90
+Ian Thomas|L|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|14|0|0|1|11|90
+Ian Thomas|L|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|15|1|0|1|3|88
+Ian Thomas|L|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|16|2|0|1|3|89
+Ian Thomas|L|Aramis Ramirez|R|Walk|B|Four-Seam Fastball|17|3|0|1|12|89
+Ian Thomas|L|Jason Rogers|R|Single|B|Four-Seam Fastball|18|0|0|1|11|88
+Ian Thomas|L|Jason Rogers|R|Single|C|Changeup|19|1|0|1|4|78
+Ian Thomas|L|Jason Rogers|R|Single|C|Four-Seam Fastball|20|1|1|1|7|88
+Ian Thomas|L|Jason Rogers|R|Single|F|Four-Seam Fastball|21|1|2|1|3|90
+Ian Thomas|L|Jason Rogers|R|Single|D|Four-Seam Fastball|22|1|2|1|13|89
+Ian Thomas|L|Hector Gomez|R|Runner Out|C|Changeup|23|0|0|1|6|80
+Ian Thomas|L|Hector Gomez|R|Runner Out|B|Cutter|24|0|1|1|11|87
+Ian Thomas|L|Hector Gomez|R|Strikeout|C|Four-Seam Fastball|25|0|0|2|5|88
+Ian Thomas|L|Hector Gomez|R|Strikeout|F|Cutter|26|0|1|2|13|86
+Ian Thomas|L|Hector Gomez|R|Strikeout|B|Four-Seam Fastball|27|0|2|2|12|91
+Ian Thomas|L|Hector Gomez|R|Strikeout|C|Changeup|28|1|2|2|1|81
+Ian Thomas|L|Martin Maldonado|R|Walk|B|Cutter|29|0|0|0|11|86
+Ian Thomas|L|Martin Maldonado|R|Walk|C|Changeup|30|1|0|0|9|79
+Ian Thomas|L|Martin Maldonado|R|Walk|B|Curveball|31|1|1|0|13|74
+Ian Thomas|L|Martin Maldonado|R|Walk|F|Changeup|32|2|1|0|5|80
+Ian Thomas|L|Martin Maldonado|R|Walk|B|Curveball|33|2|2|0|13|75
+Ian Thomas|L|Martin Maldonado|R|Walk|B|Changeup|34|3|2|0|12|79
+Ian Thomas|L|Michael Blazek|R|Double|E|Four-Seam Fastball|35|0|0|0|5|88
+Ian Thomas|L|Luis Sardinas|R|Flyout|X|Four-Seam Fastball|36|0|0|0|4|89
+Ian Thomas|L|Carlos Gomez|R|Flyout|B|Cutter|37|0|0|1|11|86
+Ian Thomas|L|Carlos Gomez|R|Flyout|B|Four-Seam Fastball|38|1|0|1|12|88
+Ian Thomas|L|Carlos Gomez|R|Flyout|S|Changeup|39|2|0|1|13|79
+Ian Thomas|L|Carlos Gomez|R|Flyout|B|Four-Seam Fastball|40|2|1|1|11|88
+Ian Thomas|L|Carlos Gomez|R|Flyout|C|Four-Seam Fastball|41|3|1|1|9|88
+Ian Thomas|L|Carlos Gomez|R|Flyout|X|Changeup|42|3|2|1|8|80
+Ian Thomas|L|Cody Asche|L|Strikeout|F|Cutter|0|0|0|0|2|88
+Ian Thomas|L|Cody Asche|L|Strikeout|C|Changeup|1|0|1|0|8|78
+Ian Thomas|L|Cody Asche|L|Strikeout|S|Changeup|2|0|2|0|13|80
+Ian Thomas|L|Cesar Hernandez|R|Groundout|C|Curveball|3|0|0|1|1|71
+Ian Thomas|L|Cesar Hernandez|R|Groundout|S|Changeup|4|0|1|1|8|78
+Ian Thomas|L|Cesar Hernandez|R|Groundout|B|Changeup|5|0|2|1|14|80
+Ian Thomas|L|Cesar Hernandez|R|Groundout|X|Four-Seam Fastball|6|1|2|1|1|90
+Ian Thomas|L|Ben Revere|L|Walk|B|Curveball|7|0|0|2|12|71
+Ian Thomas|L|Ben Revere|L|Walk|S|Changeup|8|1|0|2|14|78
+Ian Thomas|L|Ben Revere|L|Walk|B|Changeup|9|1|1|2|13|80
+Ian Thomas|L|Ben Revere|L|Walk|B|Four-Seam Fastball|10|2|1|2|12|87
+Ian Thomas|L|Ben Revere|L|Walk|B|Four-Seam Fastball|11|3|1|2|11|88
+Ian Thomas|L|Maikel Franco|R|Lineout|B|Changeup|12|0|0|2|12|78
+Ian Thomas|L|Maikel Franco|R|Lineout|S|Changeup|13|1|0|2|14|77
+Ian Thomas|L|Maikel Franco|R|Lineout|S|Changeup|14|1|1|2|8|78
+Ian Thomas|L|Maikel Franco|R|Lineout|X|Changeup|15|1|2|2|12|78
+Ian Thomas|L|Darin Ruf|R|Groundout|C|Curveball|16|0|0|0|3|71
+Ian Thomas|L|Darin Ruf|R|Groundout|F|Four-Seam Fastball|17|0|1|0|2|89
+Ian Thomas|L|Darin Ruf|R|Groundout|B|Changeup|18|0|2|0|13|81
+Ian Thomas|L|Darin Ruf|R|Groundout|F|Changeup|19|1|2|0|14|82
+Ian Thomas|L|Darin Ruf|R|Groundout|B|Four-Seam Fastball|20|1|2|0|11|91
+Ian Thomas|L|Darin Ruf|R|Groundout|X|Four-Seam Fastball|21|2|2|0|5|90
+Ian Thomas|L|Jeff Francoeur|R|Flyout|C|Changeup|22|0|0|1|14|78
+Ian Thomas|L|Jeff Francoeur|R|Flyout|B|Changeup|23|0|1|1|14|79
+Ian Thomas|L|Jeff Francoeur|R|Flyout|F|Changeup|24|1|1|1|14|80
+Ian Thomas|L|Jeff Francoeur|R|Flyout|B|Four-Seam Fastball|25|1|2|1|12|92
+Ian Thomas|L|Jeff Francoeur|R|Flyout|X|Changeup|26|2|2|1|13|81
+Ian Thomas|L|Freddy Galvis|R|Strikeout|C|Four-Seam Fastball|27|0|0|2|5|88
+Ian Thomas|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|28|0|1|2|1|89
+Ian Thomas|L|Freddy Galvis|R|Strikeout|W|Changeup|29|0|2|2|14|80
+Ian Thomas|L|Curtis Granderson|L|Groundout|C|Four-Seam Fastball|0|0|0|0|2|90
+Ian Thomas|L|Curtis Granderson|L|Groundout|B|Four-Seam Fastball|1|0|1|0|11|91
+Ian Thomas|L|Curtis Granderson|L|Groundout|F|Four-Seam Fastball|2|1|1|0|3|89
+Ian Thomas|L|Curtis Granderson|L|Groundout|B|Changeup|3|1|2|0|13|81
+Ian Thomas|L|Curtis Granderson|L|Groundout|B|Four-Seam Fastball|4|2|2|0|11|90
+Ian Thomas|L|Curtis Granderson|L|Groundout|X|Four-Seam Fastball|5|3|2|0|12|91
+Ian Thomas|L|Ruben Tejada|R|Single|B|Four-Seam Fastball|6|0|0|1|13|92
+Ian Thomas|L|Ruben Tejada|R|Single|B|Changeup|7|1|0|1|12|79
+Ian Thomas|L|Ruben Tejada|R|Single|B|Four-Seam Fastball|8|2|0|1|12|90
+Ian Thomas|L|Ruben Tejada|R|Single|C|Four-Seam Fastball|9|3|0|1|14|90
+Ian Thomas|L|Ruben Tejada|R|Single|D|Four-Seam Fastball|10|3|1|1|8|90
+Ian Thomas|L|Daniel Murphy|L|Grounded Into DP|C|Four-Seam Fastball|11|0|0|1|6|89
+Ian Thomas|L|Daniel Murphy|L|Grounded Into DP|X|Curveball|12|0|1|1|13|71
+Ian Thomas|L|Wilmer Flores|R|Strikeout|B|Four-Seam Fastball|13|0|0|0|12|89
+Ian Thomas|L|Wilmer Flores|R|Strikeout|C|Changeup|14|1|0|0|12|78
+Ian Thomas|L|Wilmer Flores|R|Strikeout|B|Changeup|15|1|1|0|13|81
+Ian Thomas|L|Wilmer Flores|R|Strikeout|F|Four-Seam Fastball|16|2|1|0|1|91
+Ian Thomas|L|Wilmer Flores|R|Strikeout|F|Four-Seam Fastball|17|2|2|0|14|91
+Ian Thomas|L|Wilmer Flores|R|Strikeout|B|Curveball|18|2|2|0|12|71
+Ian Thomas|L|Wilmer Flores|R|Strikeout|S|Changeup|19|3|2|0|8|79
+Ian Thomas|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|20|0|0|1|12|90
+Ian Thomas|L|Lucas Duda|L|Strikeout|B|Curveball|21|0|1|1|12|71
+Ian Thomas|L|Lucas Duda|L|Strikeout|B|Curveball|22|1|1|1|12|70
+Ian Thomas|L|Lucas Duda|L|Strikeout|F|Four-Seam Fastball|23|2|1|1|11|89
+Ian Thomas|L|Lucas Duda|L|Strikeout|S|Cutter|24|2|2|1|13|86
+Ian Thomas|L|Juan Lagares|R|Single|B|Changeup|25|0|0|2|13|80
+Ian Thomas|L|Juan Lagares|R|Single|F|Four-Seam Fastball|26|1|0|2|6|90
+Ian Thomas|L|Juan Lagares|R|Single|B|Four-Seam Fastball|27|1|1|2|13|91
+Ian Thomas|L|Juan Lagares|R|Single|F|Four-Seam Fastball|28|2|1|2|6|91
+Ian Thomas|L|Juan Lagares|R|Single|D|Changeup|29|2|2|2|9|81
+Ian Thomas|L|Michael Conforto|L|Groundout|X|Four-Seam Fastball|30|0|0|2|6|89
+Ian Thomas|L|Kevin Plawecki|R|Flyout|B|Curveball|31|0|0|0|12|68
+Ian Thomas|L|Kevin Plawecki|R|Flyout|B|Four-Seam Fastball|32|1|0|0|12|88
+Ian Thomas|L|Kevin Plawecki|R|Flyout|X|Four-Seam Fastball|33|2|0|0|6|88
+Ian Thomas|L|Danny Muno|R|Strikeout|S|Four-Seam Fastball|34|0|0|1|9|90
+Ian Thomas|L|Danny Muno|R|Strikeout|B|Four-Seam Fastball|35|0|1|1|12|91
+Ian Thomas|L|Danny Muno|R|Strikeout|S|Four-Seam Fastball|36|1|1|1|5|90
+Ian Thomas|L|Danny Muno|R|Strikeout|S|Four-Seam Fastball|37|1|2|1|12|92
+Ian Thomas|L|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|38|0|0|2|13|91
+Ian Thomas|L|Curtis Granderson|L|Strikeout|C|Four-Seam Fastball|39|1|0|2|1|89
+Ian Thomas|L|Curtis Granderson|L|Strikeout|F|Four-Seam Fastball|40|1|1|2|13|92
+Ian Thomas|L|Curtis Granderson|L|Strikeout|F|Curveball|41|1|2|2|8|73
+Ian Thomas|L|Curtis Granderson|L|Strikeout|F|Cutter|42|1|2|2|13|88
+Ian Thomas|L|Curtis Granderson|L|Strikeout|B|Changeup|43|1|2|2|13|81
+Ian Thomas|L|Curtis Granderson|L|Strikeout|F|Four-Seam Fastball|44|2|2|2|11|91
+Ian Thomas|L|Curtis Granderson|L|Strikeout|C|Curveball|45|2|2|2|11|72
+Ian Thomas|L|Ruben Tejada|R|Groundout|B|Four-Seam Fastball|46|0|0|0|12|88
+Ian Thomas|L|Ruben Tejada|R|Groundout|C|Changeup|47|1|0|0|9|78
+Ian Thomas|L|Ruben Tejada|R|Groundout|S|Changeup|48|1|1|0|9|80
+Ian Thomas|L|Ruben Tejada|R|Groundout|B|Four-Seam Fastball|49|1|2|0|8|91
+Ian Thomas|L|Ruben Tejada|R|Groundout|X|Changeup|50|2|2|0|9|80
+Ian Thomas|L|Daniel Murphy|L|Strikeout|C|Four-Seam Fastball|51|0|0|1|2|90
+Ian Thomas|L|Daniel Murphy|L|Strikeout|B|Cutter|52|0|1|1|13|88
+Ian Thomas|L|Daniel Murphy|L|Strikeout|B|Cutter|53|1|1|1|13|86
+Ian Thomas|L|Daniel Murphy|L|Strikeout|C|Four-Seam Fastball|54|2|1|1|9|90
+Ian Thomas|L|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|55|2|2|1|1|90
+Ian Thomas|L|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|56|2|2|1|3|89
+Ian Thomas|L|Daniel Murphy|L|Strikeout|C|Cutter|57|2|2|1|13|87
+Ian Thomas|L|Wilmer Flores|R|Pop Out|F|Four-Seam Fastball|58|0|0|2|7|89
+Ian Thomas|L|Wilmer Flores|R|Pop Out|B|Cutter|59|0|1|2|12|85
+Ian Thomas|L|Wilmer Flores|R|Pop Out|B|Changeup|60|1|1|2|13|79
+Ian Thomas|L|Wilmer Flores|R|Pop Out|B|Four-Seam Fastball|61|2|1|2|13|90
+Ian Thomas|L|Wilmer Flores|R|Pop Out|X|Four-Seam Fastball|62|3|1|2|13|88
+Ian Thomas|L|Lucas Duda|L|Double|B|Four-Seam Fastball|63|0|0|0|11|88
+Ian Thomas|L|Lucas Duda|L|Double|B|Cutter|64|1|0|0|12|86
+Ian Thomas|L|Lucas Duda|L|Double|F|Four-Seam Fastball|65|2|0|0|12|88
+Ian Thomas|L|Lucas Duda|L|Double|D|Four-Seam Fastball|66|2|1|0|5|89
+Ian Thomas|L|Juan Lagares|R|Groundout|C|Changeup|67|0|0|0|3|76
+Ian Thomas|L|Juan Lagares|R|Groundout|C|Four-Seam Fastball|68|0|1|0|1|88
+Ian Thomas|L|Juan Lagares|R|Groundout|*B|Changeup|69|0|2|0|13|80
+Ian Thomas|L|Juan Lagares|R|Groundout|X|Four-Seam Fastball|70|1|2|0|6|90
+Ian Thomas|L|Michael Conforto|L|Groundout|C|Four-Seam Fastball|71|0|0|1|13|90
+Ian Thomas|L|Michael Conforto|L|Groundout|*B|Cutter|72|0|1|1|13|86
+Ian Thomas|L|Michael Conforto|L|Groundout|C|Cutter|73|1|1|1|4|85
+Ian Thomas|L|Michael Conforto|L|Groundout|E|Cutter|74|1|2|1|7|87
+Ian Thomas|L|Kevin Plawecki|R|Flyout|B|Changeup|75|0|0|2|14|77
+Ian Thomas|L|Kevin Plawecki|R|Flyout|C|Changeup|76|1|0|2|8|77
+Ian Thomas|L|Kevin Plawecki|R|Flyout|B|Four-Seam Fastball|77|1|1|2|13|90
+Ian Thomas|L|Kevin Plawecki|R|Flyout|F|Four-Seam Fastball|78|2|1|2|12|88
+Ian Thomas|L|Kevin Plawecki|R|Flyout|B|Curveball|79|2|2|2|12|70
+Ian Thomas|L|Kevin Plawecki|R|Flyout|X|Four-Seam Fastball|80|3|2|2|5|89
+Ian Thomas|L|Chris Owings|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|87
+Ian Thomas|L|Chris Owings|R|Strikeout|S|Changeup|1|1|0|0|14|76
+Ian Thomas|L|Chris Owings|R|Strikeout|S|Changeup|2|1|1|0|2|78
+Ian Thomas|L|Chris Owings|R|Strikeout|F|Cutter|3|1|2|0|1|87
+Ian Thomas|L|Chris Owings|R|Strikeout|C|Curveball|4|1|2|0|3|72
+Ian Thomas|L|Yasmany Tomas|R|Groundout|B|Changeup|5|0|0|1|14|76
+Ian Thomas|L|Yasmany Tomas|R|Groundout|X|Changeup|6|1|0|1|9|77
+Ian Thomas|L|Nick Ahmed|R|Double|B|Curveball|7|0|0|2|14|72
+Ian Thomas|L|Nick Ahmed|R|Double|S|Four-Seam Fastball|8|1|0|2|11|88
+Ian Thomas|L|Nick Ahmed|R|Double|B|Cutter|9|1|1|2|13|86
+Ian Thomas|L|Nick Ahmed|R|Double|F|Changeup|10|2|1|2|14|76
+Ian Thomas|L|Nick Ahmed|R|Double|F|Changeup|11|2|2|2|14|80
+Ian Thomas|L|Nick Ahmed|R|Double|B|Four-Seam Fastball|12|2|2|2|11|89
+Ian Thomas|L|Nick Ahmed|R|Double|D|Four-Seam Fastball|13|3|2|2|13|86
+Ian Thomas|L|Peter O'Brien|R|Single|C|Changeup|14|0|0|2|2|76
+Ian Thomas|L|Peter O'Brien|R|Single|*B|Curveball|15|0|1|2|14|73
+Ian Thomas|L|Peter O'Brien|R|Single|F|Changeup|16|1|1|2|5|78
+Ian Thomas|L|Peter O'Brien|R|Single|E|Four-Seam Fastball|17|1|2|2|13|89
+Ian Thomas|L|A.J. Pollock|R|Flyout|C|Four-Seam Fastball|18|0|0|2|4|88
+Ian Thomas|L|A.J. Pollock|R|Flyout|F|Four-Seam Fastball|19|0|1|2|5|89
+Ian Thomas|L|A.J. Pollock|R|Flyout|X|Changeup|20|0|2|2|5|79
+Ian Thomas|L|Ender Inciarte|L|Lineout|C|Four-Seam Fastball|21|0|0|0|7|87
+Ian Thomas|L|Ender Inciarte|L|Lineout|F|Cutter|22|0|1|0|11|84
+Ian Thomas|L|Ender Inciarte|L|Lineout|X|Changeup|23|0|2|0|8|78
+Ian Thomas|L|Jamie Romak|R|Strikeout|B|Four-Seam Fastball|24|0|0|1|13|87
+Ian Thomas|L|Jamie Romak|R|Strikeout|C|Changeup|25|1|0|1|3|78
+Ian Thomas|L|Jamie Romak|R|Strikeout|C|Curveball|26|1|1|1|4|75
+Ian Thomas|L|Jamie Romak|R|Strikeout|B|Changeup|27|1|2|1|12|79
+Ian Thomas|L|Jamie Romak|R|Strikeout|B|Changeup|28|2|2|1|14|79
+Ian Thomas|L|Jamie Romak|R|Strikeout|S|Changeup|29|3|2|1|14|78
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|B|Changeup|30|0|0|2|13|77
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|B|Four-Seam Fastball|31|1|0|2|13|87
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|T|Four-Seam Fastball|32|2|0|2|6|87
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|S|Four-Seam Fastball|33|2|1|2|1|88
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|B|Changeup|34|2|2|2|13|79
+Ian Thomas|L|Oscar Hernandez|R|Strikeout|S|Changeup|35|3|2|2|5|78
+Ian Thomas|L|Phil Gosselin|R|Pop Out|B|Four-Seam Fastball|36|0|0|0|12|86
+Ian Thomas|L|Phil Gosselin|R|Pop Out|B|Changeup|37|1|0|0|14|75
+Ian Thomas|L|Phil Gosselin|R|Pop Out|X|Four-Seam Fastball|38|2|0|0|1|87
+Ian Thomas|L|Brandon Drury|R|Single|B|Four-Seam Fastball|39|0|0|1|14|90
+Ian Thomas|L|Brandon Drury|R|Single|C|Four-Seam Fastball|40|1|0|1|3|89
+Ian Thomas|L|Brandon Drury|R|Single|C|Curveball|41|1|1|1|9|71
+Ian Thomas|L|Brandon Drury|R|Single|B|Changeup|42|1|2|1|12|79
+Ian Thomas|L|Brandon Drury|R|Single|D|Changeup|43|2|2|1|9|76
+Ian Thomas|L|Yasmany Tomas|R|Grounded Into DP|F|Four-Seam Fastball|44|0|0|1|13|86
+Ian Thomas|L|Yasmany Tomas|R|Grounded Into DP|X|Changeup|45|0|1|1|6|76
+Ian Thomas|L|Carlos Gonzalez|L|Groundout|X|Cutter|0|0|0|2|14|84
+Ian Thomas|L|David Peralta|L|Single|B|Curveball|0|0|0|1|12|71
+Ian Thomas|L|David Peralta|L|Single|S|Four-Seam Fastball|1|1|0|1|3|89
+Ian Thomas|L|David Peralta|L|Single|S|Four-Seam Fastball|2|1|1|1|12|90
+Ian Thomas|L|David Peralta|L|Single|F|Four-Seam Fastball|3|1|2|1|12|91
+Ian Thomas|L|David Peralta|L|Single|E|Curveball|4|1|2|1|5|74
+Ian Thomas|L|Ender Inciarte|L|Lineout|X|Four-Seam Fastball|5|0|0|1|6|89
+Ian Thomas|L|Aaron Hill|R|Walk|*B|Changeup|6|0|0|2|13|77
+Ian Thomas|L|Aaron Hill|R|Walk|C|Four-Seam Fastball|7|1|0|2|12|89
+Ian Thomas|L|Aaron Hill|R|Walk|B|Changeup|8|1|1|2|13|79
+Ian Thomas|L|Aaron Hill|R|Walk|B|Four-Seam Fastball|9|2|1|2|14|89
+Ian Thomas|L|Aaron Hill|R|Walk|B|Four-Seam Fastball|10|3|1|2|13|89
+Ian Thomas|L|A.J. Pollock|R|Field Error|B|Curveball|11|0|0|2|13|74
+Ian Thomas|L|A.J. Pollock|R|Field Error|B|Four-Seam Fastball|12|1|0|2|14|89
+Ian Thomas|L|A.J. Pollock|R|Field Error|D|Four-Seam Fastball|13|2|0|2|8|88
+Ian Thomas|L|Paul Goldschmidt|R|Strikeout|C|Curveball|14|0|0|2|14|74
+Ian Thomas|L|Paul Goldschmidt|R|Strikeout|F|Curveball|15|0|1|2|14|74
+Ian Thomas|L|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|16|0|2|2|8|91
+Ian Thomas|L|David Peralta|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|89
+Ian Thomas|L|David Peralta|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|90
+Ian Thomas|L|David Peralta|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|2|91
+Ian Thomas|L|David Peralta|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|12|92
+Ian Thomas|L|David Peralta|L|Strikeout|S|Four-Seam Fastball|4|1|2|0|12|92
+Ian Thomas|L|Jarrod Saltalamacchia|R|Single|S|Four-Seam Fastball|5|0|0|1|8|90
+Ian Thomas|L|Jarrod Saltalamacchia|R|Single|B|Four-Seam Fastball|6|0|1|1|8|91
+Ian Thomas|L|Jarrod Saltalamacchia|R|Single|B|Four-Seam Fastball|7|1|1|1|12|91
+Ian Thomas|L|Jarrod Saltalamacchia|R|Single|D|Four-Seam Fastball|8|2|1|1|14|89
+Ian Thomas|L|Jake Lamb|L|Single|D|Four-Seam Fastball|9|0|0|1|7|90
+Ian Thomas|L|Brandon Drury|R|Grounded Into DP|C|Changeup|10|0|0|1|12|77
+Ian Thomas|L|Brandon Drury|R|Grounded Into DP|X|Changeup|11|0|1|1|8|79
+Ian Thomas|L|Tom Murphy|R|Single|C|Four-Seam Fastball|0|0|0|0|5|88
+Ian Thomas|L|Tom Murphy|R|Single|B|Changeup|1|0|1|0|14|76
+Ian Thomas|L|Tom Murphy|R|Single|C|Changeup|2|1|1|0|12|77
+Ian Thomas|L|Tom Murphy|R|Single|D|Changeup|3|1|2|0|14|78
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|S|Four-Seam Fastball|4|0|0|0|12|89
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Four-Seam Fastball|5|0|1|0|6|91
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Changeup|6|0|2|0|12|79
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|B|Four-Seam Fastball|7|0|2|0|11|91
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Changeup|8|1|2|0|7|77
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Curveball|9|1|2|0|14|74
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Curveball|10|1|2|0|12|74
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Four-Seam Fastball|11|1|2|0|11|91
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Changeup|12|1|2|0|14|80
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Four-Seam Fastball|13|1|2|0|1|91
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|B|Four-Seam Fastball|14|1|2|0|13|92
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|F|Changeup|15|2|2|0|12|72
+Ian Thomas|L|Rafael Ynoa|R|Strikeout Double Play|S|Changeup|16|2|2|0|14|79
+Ian Thomas|L|Kyle Parker|R|Strikeout|S|Changeup|17|0|0|2|8|76
+Ian Thomas|L|Kyle Parker|R|Strikeout|S|Changeup|18|0|1|2|14|79
+Ian Thomas|L|Kyle Parker|R|Strikeout|S|Changeup|19|0|2|2|14|78
+Ian Thomas|L|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|20|0|0|0|13|88
+Ian Thomas|L|Charlie Blackmon|L|Strikeout|S|Changeup|21|0|1|0|13|78
+Ian Thomas|L|Charlie Blackmon|L|Strikeout|F|Cutter|22|0|2|0|7|87
+Ian Thomas|L|Charlie Blackmon|L|Strikeout|S|Four-Seam Fastball|23|0|2|0|1|90
+Ian Thomas|L|Cristhian Adames|R|Single|C|Four-Seam Fastball|24|0|0|1|7|89
+Ian Thomas|L|Cristhian Adames|R|Single|B|Changeup|25|0|1|1|12|78
+Ian Thomas|L|Cristhian Adames|R|Single|D|Changeup|26|1|1|1|9|77
+Ian Thomas|L|Carlos Gonzalez|L|Flyout|F|Four-Seam Fastball|27|0|0|1|8|88
+Ian Thomas|L|Carlos Gonzalez|L|Flyout|X|Changeup|28|0|1|1|6|75
+Ian Thomas|L|Nolan Arenado|R|Groundout|C|Changeup|29|0|0|2|14|78
+Ian Thomas|L|Nolan Arenado|R|Groundout|F|Changeup|30|0|1|2|14|78
+Ian Thomas|L|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|31|0|2|2|11|90
+Ian Thomas|L|Nolan Arenado|R|Groundout|B|Curveball|32|1|2|2|13|75
+Ian Thomas|L|Nolan Arenado|R|Groundout|B|Changeup|33|2|2|2|14|79
+Ian Thomas|L|Nolan Arenado|R|Groundout|X|Changeup|34|3|2|2|8|77
+Ian Thomas|L|Corey Dickerson|L|Strikeout|F|Curveball|0|0|0|0|13|73
+Ian Thomas|L|Corey Dickerson|L|Strikeout|F|Cutter|1|0|1|0|13|87
+Ian Thomas|L|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|2|0|2|0|11|89
+Ian Thomas|L|Corey Dickerson|L|Strikeout|S|Changeup|3|0|2|0|14|79
+Ian Thomas|L|Rafael Ynoa|R|Groundout|T|Four-Seam Fastball|4|0|0|1|5|90
+Ian Thomas|L|Rafael Ynoa|R|Groundout|B|Eephus|5|0|1|1|12|63
+Ian Thomas|L|Rafael Ynoa|R|Groundout|X|Changeup|6|1|1|1|14|77
+Ian Thomas|L|Tom Murphy|R|Strikeout|F|Changeup|7|0|0|2|5|78
+Ian Thomas|L|Tom Murphy|R|Strikeout|B|Four-Seam Fastball|8|0|1|2|13|91
+Ian Thomas|L|Tom Murphy|R|Strikeout|S|Four-Seam Fastball|9|1|1|2|3|90
+Ian Thomas|L|Tom Murphy|R|Strikeout|S|Four-Seam Fastball|10|1|2|2|12|91
+Ian Thomas|L|Ben Paulsen|L|Walk|F|Curveball|11|0|0|0|9|74
+Ian Thomas|L|Ben Paulsen|L|Walk|B|Curveball|12|0|1|0|13|76
+Ian Thomas|L|Ben Paulsen|L|Walk|B|Four-Seam Fastball|13|1|1|0|13|92
+Ian Thomas|L|Ben Paulsen|L|Walk|B|Four-Seam Fastball|14|2|1|0|2|91
+Ian Thomas|L|Ben Paulsen|L|Walk|B|Four-Seam Fastball|15|3|1|0|14|89
+Ian Thomas|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|16|0|0|0|11|89
+Ian Thomas|L|Charlie Blackmon|L|Walk|T|Cutter|17|1|0|0|13|86
+Ian Thomas|L|Charlie Blackmon|L|Walk|F|Four-Seam Fastball|18|1|1|0|12|89
+Ian Thomas|L|Charlie Blackmon|L|Walk|F|Changeup|19|1|2|0|4|79
+Ian Thomas|L|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|20|1|2|0|13|91
+Ian Thomas|L|Charlie Blackmon|L|Walk|B|Changeup|21|2|2|0|12|76
+Ian Thomas|L|Charlie Blackmon|L|Walk|B|Cutter|22|3|2|0|12|88

@@ -1,0 +1,373 @@
+Carlos Ramirez|R|Jason Kipnis|L|Groundout|B|Sinker|0|0|0|0|11|92
+Carlos Ramirez|R|Jason Kipnis|L|Groundout|X|Sinker|1|1|0|0|4|92
+Carlos Ramirez|R|Jose Ramirez|L|Walk|C|Slider|2|0|0|1|9|84
+Carlos Ramirez|R|Jose Ramirez|L|Walk|S|Slider|3|0|1|1|14|83
+Carlos Ramirez|R|Jose Ramirez|L|Walk|B|Slider|4|0|2|1|13|84
+Carlos Ramirez|R|Jose Ramirez|L|Walk|B|Slider|5|1|2|1|14|83
+Carlos Ramirez|R|Jose Ramirez|L|Walk|B|Sinker|6|2|2|1|13|94
+Carlos Ramirez|R|Jose Ramirez|L|Walk|B|Sinker|7|3|2|1|13|92
+Carlos Ramirez|R|Michael Brantley|L|Walk|B|Sinker|8|0|0|1|13|94
+Carlos Ramirez|R|Michael Brantley|L|Walk|B|Slider|9|1|0|1|13|82
+Carlos Ramirez|R|Michael Brantley|L|Walk|*B|Slider|10|2|0|1|13|83
+Carlos Ramirez|R|Michael Brantley|L|Walk|B|Four-Seam Fastball|11|3|0|1|11|92
+Carlos Ramirez|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|12|0|0|1|11|93
+Carlos Ramirez|R|Yonder Alonso|L|Walk|C|Sinker|13|1|0|1|13|92
+Carlos Ramirez|R|Yonder Alonso|L|Walk|B|Sinker|14|1|1|1|11|92
+Carlos Ramirez|R|Yonder Alonso|L|Walk|S|Slider|15|2|1|1|14|83
+Carlos Ramirez|R|Yonder Alonso|L|Walk|*B|Slider|16|2|2|1|14|83
+Carlos Ramirez|R|Yonder Alonso|L|Walk|B|Sinker|17|3|2|1|11|93
+Carlos Ramirez|R|Tyler Naquin|L|Strikeout|C|Four-Seam Fastball|18|0|0|1|13|91
+Carlos Ramirez|R|Tyler Naquin|L|Strikeout|B|Sinker|19|0|1|1|13|92
+Carlos Ramirez|R|Tyler Naquin|L|Strikeout|F|Sinker|20|1|1|1|13|92
+Carlos Ramirez|R|Tyler Naquin|L|Strikeout|W|Slider|21|1|2|1|14|84
+Carlos Ramirez|R|Roberto Perez|R|Groundout|F|Four-Seam Fastball|22|0|0|2|2|93
+Carlos Ramirez|R|Roberto Perez|R|Groundout|C|Slider|23|0|1|2|4|82
+Carlos Ramirez|R|Roberto Perez|R|Groundout|B|Slider|24|0|2|2|14|83
+Carlos Ramirez|R|Roberto Perez|R|Groundout|B|Four-Seam Fastball|25|1|2|2|13|93
+Carlos Ramirez|R|Roberto Perez|R|Groundout|*B|Slider|26|2|2|2|14|83
+Carlos Ramirez|R|Roberto Perez|R|Groundout|X|Four-Seam Fastball|27|3|2|2|9|92
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|B|Sinker|28|0|0|0|13|92
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|C|Four-Seam Fastball|29|1|0|0|7|90
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|T|Slider|30|1|1|0|1|81
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|B|Slider|31|1|2|0|13|80
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|B|Slider|32|2|2|0|14|83
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|F|Four-Seam Fastball|33|3|2|0|1|91
+Carlos Ramirez|R|Bradley Zimmer|L|Walk|B|Four-Seam Fastball|34|3|2|0|11|90
+Carlos Ramirez|R|Erik Gonzalez|R|Strikeout|B|Four-Seam Fastball|35|0|0|0|11|91
+Carlos Ramirez|R|Erik Gonzalez|R|Strikeout|F|Four-Seam Fastball|36|1|0|0|3|91
+Carlos Ramirez|R|Erik Gonzalez|R|Strikeout|F|Four-Seam Fastball|37|1|1|0|1|92
+Carlos Ramirez|R|Erik Gonzalez|R|Strikeout|W|Slider|38|1|2|0|14|81
+Carlos Ramirez|R|Francisco Lindor|L|Forceout|B|Slider|39|0|0|1|13|81
+Carlos Ramirez|R|Francisco Lindor|L|Forceout|X|Sinker|40|1|0|1|1|92
+Carlos Ramirez|R|Jason Kipnis|L|Single|C|Sinker|41|0|0|2|13|90
+Carlos Ramirez|R|Jason Kipnis|L|Single|B|Sinker|42|0|1|2|13|92
+Carlos Ramirez|R|Jason Kipnis|L|Single|B|Four-Seam Fastball|43|1|1|2|11|89
+Carlos Ramirez|R|Jason Kipnis|L|Single|F|Sinker|44|2|1|2|11|91
+Carlos Ramirez|R|Jason Kipnis|L|Single|B|Slider|45|2|2|2|14|83
+Carlos Ramirez|R|Jason Kipnis|L|Single|D|Sinker|46|3|2|2|11|90
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|*B|Slider|47|0|0|2|13|81
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|C|Four-Seam Fastball|48|1|0|2|4|91
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|F|Sinker|49|1|1|2|11|91
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|B|Slider|50|1|2|2|13|81
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|F|Slider|51|2|2|2|4|82
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|B|Sinker|52|2|2|2|12|92
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|F|Four-Seam Fastball|53|3|2|2|9|91
+Carlos Ramirez|R|Jose Ramirez|L|Lineout|X|Sinker|54|3|2|2|1|91
+Carlos Ramirez|R|Gregorio Petit|R|Walk|B|Slider|0|0|0|2|12|82
+Carlos Ramirez|R|Gregorio Petit|R|Walk|B|Sinker|1|1|0|2|14|93
+Carlos Ramirez|R|Gregorio Petit|R|Walk|F|Four-Seam Fastball|2|2|0|2|11|92
+Carlos Ramirez|R|Gregorio Petit|R|Walk|B|Slider|3|2|1|2|11|81
+Carlos Ramirez|R|Gregorio Petit|R|Walk|S|Slider|4|3|1|2|9|81
+Carlos Ramirez|R|Gregorio Petit|R|Walk|B|Slider|5|3|2|2|11|80
+Carlos Ramirez|R|Jason Castro|L|Strikeout|B|Slider|6|0|0|2|11|82
+Carlos Ramirez|R|Jason Castro|L|Strikeout|C|Sinker|7|1|0|2|13|93
+Carlos Ramirez|R|Jason Castro|L|Strikeout|F|Sinker|8|1|1|2|7|92
+Carlos Ramirez|R|Jason Castro|L|Strikeout|F|Slider|9|1|2|2|9|84
+Carlos Ramirez|R|Jason Castro|L|Strikeout|C|Slider|10|1|2|2|13|82
+Carlos Ramirez|R|Johnny Field|R|Field Error|B|Sinker|0|0|0|0|14|92
+Carlos Ramirez|R|Johnny Field|R|Field Error|F|Sinker|1|1|0|0|6|91
+Carlos Ramirez|R|Johnny Field|R|Field Error|B|Slider|2|1|1|0|14|83
+Carlos Ramirez|R|Johnny Field|R|Field Error|F|Four-Seam Fastball|3|2|1|0|12|91
+Carlos Ramirez|R|Johnny Field|R|Field Error|B|Slider|4|2|2|0|14|83
+Carlos Ramirez|R|Johnny Field|R|Field Error|D|Slider|5|3|2|0|12|82
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|B|Four-Seam Fastball|6|0|0|0|12|91
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|Q|Pitchout|7|1|0|0|12|89
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|B|Slider|8|1|1|0|13|82
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|F|Slider|9|2|1|0|8|82
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|F|Sinker|10|2|2|0|12|92
+Carlos Ramirez|R|Jesus Sucre|R|Groundout|X|Sinker|11|2|2|0|2|92
+Carlos Ramirez|R|Daniel Robertson|R|Hit By Pitch|S|Slider|12|0|0|1|9|83
+Carlos Ramirez|R|Daniel Robertson|R|Hit By Pitch|F|Slider|13|0|1|1|7|82
+Carlos Ramirez|R|Daniel Robertson|R|Hit By Pitch|*B|Slider|14|0|2|1|14|84
+Carlos Ramirez|R|Daniel Robertson|R|Hit By Pitch|H|Sinker|15|1|2|1|11|92
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|*B|Slider|16|0|0|1|13|81
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|S|Slider|17|1|0|1|11|82
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|B|Sinker|18|1|1|1|11|90
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|B|Slider|19|2|1|1|14|83
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|F|Slider|20|3|1|1|4|81
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|F|Sinker|21|3|2|1|13|91
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|F|Four-Seam Fastball|22|3|2|1|14|91
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|F|Slider|23|3|2|1|4|82
+Carlos Ramirez|R|C.J. Cron|R|Grounded Into DP|X|Sinker|24|3|2|1|11|91
+Carlos Ramirez|R|Matt Duffy|R|Single|C|Sinker|25|0|0|0|5|90
+Carlos Ramirez|R|Matt Duffy|R|Single|D|Slider|26|0|1|0|9|82
+Carlos Ramirez|R|Wilson Ramos|R|Walk|B|Sinker|27|0|0|0|14|90
+Carlos Ramirez|R|Wilson Ramos|R|Walk|B|Slider|28|1|0|0|13|82
+Carlos Ramirez|R|Wilson Ramos|R|Walk|S|Sinker|29|2|0|0|8|91
+Carlos Ramirez|R|Wilson Ramos|R|Walk|B|Sinker|30|2|1|0|11|90
+Carlos Ramirez|R|Wilson Ramos|R|Walk|F|Sinker|31|3|1|0|11|91
+Carlos Ramirez|R|Wilson Ramos|R|Walk|F|Sinker|32|3|2|0|11|90
+Carlos Ramirez|R|Wilson Ramos|R|Walk|B|Sinker|33|3|2|0|13|90
+Carlos Ramirez|R|Rob Refsnyder|R|Grounded Into DP|B|Sinker|34|0|0|0|11|90
+Carlos Ramirez|R|Rob Refsnyder|R|Grounded Into DP|B|Sinker|35|1|0|0|11|90
+Carlos Ramirez|R|Rob Refsnyder|R|Grounded Into DP|X|Sinker|36|2|0|0|11|90
+Carlos Ramirez|R|Christian Arroyo|R|Groundout|X|Sinker|37|0|0|2|8|92
+Carlos Ramirez|R|Alex Bregman|R|Lineout|X|Sinker|0|0|0|0|5|92
+Carlos Ramirez|R|Jose Altuve|R|Groundout|S|Slider|1|0|0|1|14|83
+Carlos Ramirez|R|Jose Altuve|R|Groundout|C|Slider|2|0|1|1|4|81
+Carlos Ramirez|R|Jose Altuve|R|Groundout|B|Sinker|3|0|2|1|12|92
+Carlos Ramirez|R|Jose Altuve|R|Groundout|B|Slider|4|1|2|1|7|83
+Carlos Ramirez|R|Jose Altuve|R|Groundout|X|Slider|5|2|2|1|14|82
+Carlos Ramirez|R|Carlos Correa|R|Strikeout|B|Slider|6|0|0|2|11|82
+Carlos Ramirez|R|Carlos Correa|R|Strikeout|C|Slider|7|1|0|2|8|81
+Carlos Ramirez|R|Carlos Correa|R|Strikeout|C|Sinker|8|1|1|2|6|92
+Carlos Ramirez|R|Carlos Correa|R|Strikeout|S|Slider|9|1|2|2|14|84
+Carlos Ramirez|R|Yuli Gurriel|R|Pop Out|C|Four-Seam Fastball|10|0|0|0|14|91
+Carlos Ramirez|R|Yuli Gurriel|R|Pop Out|C|Four-Seam Fastball|11|0|1|0|14|91
+Carlos Ramirez|R|Yuli Gurriel|R|Pop Out|F|Four-Seam Fastball|12|0|2|0|13|92
+Carlos Ramirez|R|Yuli Gurriel|R|Pop Out|X|Slider|13|0|2|0|5|84
+Carlos Ramirez|R|Josh Reddick|L|Groundout|X|Sinker|14|0|0|1|4|91
+Carlos Ramirez|R|Evan Gattis|R|Strikeout|B|Slider|15|0|0|2|14|84
+Carlos Ramirez|R|Evan Gattis|R|Strikeout|F|Slider|16|1|0|2|9|82
+Carlos Ramirez|R|Evan Gattis|R|Strikeout|C|Slider|17|1|1|2|11|82
+Carlos Ramirez|R|Evan Gattis|R|Strikeout|B|Slider|18|1|2|2|14|84
+Carlos Ramirez|R|Evan Gattis|R|Strikeout|T|Slider|19|2|2|2|7|82
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|X|Slider|0|0|0|0|4|83
+Carlos Ramirez|R|Chris Young|R|Walk|B|Four-Seam Fastball|1|0|0|1|14|91
+Carlos Ramirez|R|Chris Young|R|Walk|C|Slider|2|1|0|1|13|79
+Carlos Ramirez|R|Chris Young|R|Walk|S|Slider|3|1|1|1|14|83
+Carlos Ramirez|R|Chris Young|R|Walk|B|Slider|4|1|2|1|14|83
+Carlos Ramirez|R|Chris Young|R|Walk|B|Four-Seam Fastball|5|2|2|1|14|89
+Carlos Ramirez|R|Chris Young|R|Walk|B|Slider|6|3|2|1|11|82
+Carlos Ramirez|R|Jose Briceno|R|Single|*B|Four-Seam Fastball|7|0|0|1|14|89
+Carlos Ramirez|R|Jose Briceno|R|Single|D|Four-Seam Fastball|8|1|0|1|9|90
+Carlos Ramirez|R|Nolan Fontana|L|Walk|B|Slider|9|0|0|1|14|84
+Carlos Ramirez|R|Nolan Fontana|L|Walk|B|Sinker|10|1|0|1|11|91
+Carlos Ramirez|R|Nolan Fontana|L|Walk|B|Slider|11|2|0|1|8|83
+Carlos Ramirez|R|Nolan Fontana|L|Walk|*B|Four-Seam Fastball|12|3|0|1|14|90
+Carlos Ramirez|R|Ian Kinsler|R|Walk|B|Slider|13|0|0|1|14|83
+Carlos Ramirez|R|Ian Kinsler|R|Walk|F|Four-Seam Fastball|14|1|0|1|4|90
+Carlos Ramirez|R|Ian Kinsler|R|Walk|B|Sinker|15|1|1|1|14|91
+Carlos Ramirez|R|Ian Kinsler|R|Walk|B|Sinker|16|2|1|1|13|91
+Carlos Ramirez|R|Ian Kinsler|R|Walk|B|Four-Seam Fastball|17|3|1|1|14|91
+Carlos Ramirez|R|Mike Trout|R|Sac Fly|F|Four-Seam Fastball|18|0|0|1|6|92
+Carlos Ramirez|R|Mike Trout|R|Sac Fly|B|Four-Seam Fastball|19|0|1|1|14|92
+Carlos Ramirez|R|Mike Trout|R|Sac Fly|E|Slider|20|1|1|1|9|83
+Carlos Ramirez|R|Justin Upton|R|Groundout|B|Sinker|21|0|0|2|13|92
+Carlos Ramirez|R|Justin Upton|R|Groundout|B|Slider|22|1|0|2|13|82
+Carlos Ramirez|R|Justin Upton|R|Groundout|X|Four-Seam Fastball|23|2|0|2|7|91
+Carlos Ramirez|R|Albert Pujols|R|Lineout|C|Slider|24|0|0|0|8|83
+Carlos Ramirez|R|Albert Pujols|R|Lineout|S|Four-Seam Fastball|25|0|1|0|3|91
+Carlos Ramirez|R|Albert Pujols|R|Lineout|X|Slider|26|0|2|0|3|82
+Carlos Ramirez|R|Luis Valbuena|L|Groundout|B|Sinker|27|0|0|1|13|91
+Carlos Ramirez|R|Luis Valbuena|L|Groundout|X|Slider|28|1|0|1|8|84
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|F|Slider|29|0|0|2|9|83
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|B|Slider|30|0|1|2|11|81
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|B|Sinker|31|1|1|2|13|90
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|F|Slider|32|2|1|2|14|83
+Carlos Ramirez|R|Jose Miguel Fernandez|L|Groundout|X|Slider|33|2|2|2|4|83
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|S|Slider|0|0|0|0|9|83
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|F|Slider|1|0|1|0|1|83
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|C|Sinker|2|0|2|0|8|91
+Carlos Ramirez|R|Manny Machado|R|Strikeout|B|Sinker|3|0|0|1|13|91
+Carlos Ramirez|R|Manny Machado|R|Strikeout|C|Slider|4|1|0|1|1|84
+Carlos Ramirez|R|Manny Machado|R|Strikeout|B|Slider|5|1|1|1|11|83
+Carlos Ramirez|R|Manny Machado|R|Strikeout|S|Slider|6|2|1|1|6|82
+Carlos Ramirez|R|Manny Machado|R|Strikeout|F|Sinker|7|2|2|1|13|93
+Carlos Ramirez|R|Manny Machado|R|Strikeout|F|Slider|8|2|2|1|14|84
+Carlos Ramirez|R|Manny Machado|R|Strikeout|S|Slider|9|2|2|1|8|85
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|B|Slider|10|0|0|2|14|86
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|B|Slider|11|1|0|2|14|83
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|F|Slider|12|2|0|2|4|81
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|X|Sinker|13|2|1|2|8|92
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|B|Sinker|14|0|0|0|14|89
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|F|Sinker|15|1|0|0|4|91
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|F|Sinker|16|1|1|0|4|92
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|F|Slider|17|1|2|0|12|84
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|B|Slider|18|1|2|0|13|83
+Carlos Ramirez|R|Joey Rickard|R|Pop Out|X|Sinker|19|2|2|0|11|92
+Carlos Ramirez|R|Trey Mancini|R|Groundout|C|Slider|20|0|0|1|6|83
+Carlos Ramirez|R|Trey Mancini|R|Groundout|X|Sinker|21|0|1|1|7|93
+Carlos Ramirez|R|Chris Davis|L|Flyout|B|Sinker|22|0|0|2|13|93
+Carlos Ramirez|R|Chris Davis|L|Flyout|C|Slider|23|1|0|2|7|86
+Carlos Ramirez|R|Chris Davis|L|Flyout|C|Slider|24|1|1|2|11|83
+Carlos Ramirez|R|Chris Davis|L|Flyout|F|Slider|25|1|2|2|9|83
+Carlos Ramirez|R|Chris Davis|L|Flyout|X|Sinker|26|1|2|2|4|90
+Carlos Ramirez|R|Trey Mancini|R|Flyout|B|N/A|0|0|0|0|0|0
+Carlos Ramirez|R|Trey Mancini|R|Flyout|F|N/A|1|1|0|0|0|0
+Carlos Ramirez|R|Trey Mancini|R|Flyout|F|N/A|2|1|1|0|0|0
+Carlos Ramirez|R|Trey Mancini|R|Flyout|X|N/A|3|1|2|0|0|0
+Carlos Ramirez|R|Chris Davis|L|Double|B|N/A|4|0|0|1|0|0
+Carlos Ramirez|R|Chris Davis|L|Double|B|N/A|5|1|0|1|0|0
+Carlos Ramirez|R|Chris Davis|L|Double|S|N/A|6|2|0|1|0|0
+Carlos Ramirez|R|Chris Davis|L|Double|F|N/A|7|2|1|1|0|0
+Carlos Ramirez|R|Chris Davis|L|Double|D|N/A|8|2|2|1|0|0
+Carlos Ramirez|R|Mark Trumbo|R|Strikeout|S|N/A|9|0|0|1|0|0
+Carlos Ramirez|R|Mark Trumbo|R|Strikeout|F|N/A|10|0|1|1|0|0
+Carlos Ramirez|R|Mark Trumbo|R|Strikeout|S|N/A|11|0|2|1|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|B|N/A|12|0|0|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|B|N/A|13|1|0|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|B|N/A|14|2|0|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|C|N/A|15|3|0|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|C|N/A|16|3|1|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|F|N/A|17|3|2|2|0|0
+Carlos Ramirez|R|Welington Castillo|R|Flyout|X|N/A|18|3|2|2|0|0
+Carlos Ramirez|R|Joey Rickard|R|Flyout|B|N/A|19|0|0|0|0|0
+Carlos Ramirez|R|Joey Rickard|R|Flyout|S|N/A|20|1|0|0|0|0
+Carlos Ramirez|R|Joey Rickard|R|Flyout|X|N/A|21|1|1|0|0|0
+Carlos Ramirez|R|Tim Beckham|R|Lineout|B|N/A|22|0|0|1|0|0
+Carlos Ramirez|R|Tim Beckham|R|Lineout|B|N/A|23|1|0|1|0|0
+Carlos Ramirez|R|Tim Beckham|R|Lineout|F|N/A|24|2|0|1|0|0
+Carlos Ramirez|R|Tim Beckham|R|Lineout|S|N/A|25|2|1|1|0|0
+Carlos Ramirez|R|Tim Beckham|R|Lineout|X|N/A|26|2|2|1|0|0
+Carlos Ramirez|R|Manny Machado|R|Strikeout|F|N/A|27|0|0|2|0|0
+Carlos Ramirez|R|Manny Machado|R|Strikeout|B|N/A|28|0|1|2|0|0
+Carlos Ramirez|R|Manny Machado|R|Strikeout|F|N/A|29|1|1|2|0|0
+Carlos Ramirez|R|Manny Machado|R|Strikeout|B|N/A|30|1|2|2|0|0
+Carlos Ramirez|R|Manny Machado|R|Strikeout|S|N/A|31|2|2|2|0|0
+Carlos Ramirez|R|Eduardo Nunez|R|Pop Out|X|Sinker|0|0|0|0|12|90
+Carlos Ramirez|R|Chris Young|R|Hit By Pitch|C|Slider|1|0|0|1|14|83
+Carlos Ramirez|R|Chris Young|R|Hit By Pitch|*B|Slider|2|0|1|1|14|83
+Carlos Ramirez|R|Chris Young|R|Hit By Pitch|B|Sinker|3|1|1|1|11|91
+Carlos Ramirez|R|Chris Young|R|Hit By Pitch|H|Slider|4|2|1|1|11|82
+Carlos Ramirez|R|Andrew Benintendi|L|Grounded Into DP|*B|Sinker|5|0|0|1|14|92
+Carlos Ramirez|R|Andrew Benintendi|L|Grounded Into DP|S|Sinker|6|1|0|1|4|92
+Carlos Ramirez|R|Andrew Benintendi|L|Grounded Into DP|F|Slider|7|1|1|1|2|84
+Carlos Ramirez|R|Andrew Benintendi|L|Grounded Into DP|X|Sinker|8|1|2|1|3|92
+Carlos Ramirez|R|Mookie Betts|R|Walk|B|Slider|9|0|0|0|11|83
+Carlos Ramirez|R|Mookie Betts|R|Walk|B|Slider|10|1|0|0|14|83
+Carlos Ramirez|R|Mookie Betts|R|Walk|B|Sinker|11|2|0|0|12|91
+Carlos Ramirez|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|12|3|0|0|14|91
+Carlos Ramirez|R|Mitch Moreland|L|Flyout|B|Sinker|13|0|0|0|11|91
+Carlos Ramirez|R|Mitch Moreland|L|Flyout|B|Sinker|14|1|0|0|13|90
+Carlos Ramirez|R|Mitch Moreland|L|Flyout|B|Sinker|15|2|0|0|14|92
+Carlos Ramirez|R|Mitch Moreland|L|Flyout|C|Sinker|16|3|0|0|14|92
+Carlos Ramirez|R|Mitch Moreland|L|Flyout|X|Sinker|17|3|1|0|6|91
+Carlos Ramirez|R|Xander Bogaerts|R|Strikeout|B|Slider|18|0|0|1|11|81
+Carlos Ramirez|R|Xander Bogaerts|R|Strikeout|C|Slider|19|1|0|1|12|84
+Carlos Ramirez|R|Xander Bogaerts|R|Strikeout|F|Slider|20|1|1|1|8|83
+Carlos Ramirez|R|Xander Bogaerts|R|Strikeout|S|Slider|21|1|2|1|14|84
+Carlos Ramirez|R|Rafael Devers|L|Pop Out|B|Sinker|22|0|0|2|13|91
+Carlos Ramirez|R|Rafael Devers|L|Pop Out|X|Slider|23|1|0|2|5|82
+Carlos Ramirez|R|John Hicks|R|Pop Out|X|Sinker|0|0|0|0|12|91
+Carlos Ramirez|R|James McCann|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|6|91
+Carlos Ramirez|R|James McCann|R|Strikeout|F|Sinker|2|0|1|1|11|91
+Carlos Ramirez|R|James McCann|R|Strikeout|S|Slider|3|0|2|1|3|84
+Carlos Ramirez|R|JaCoby Jones|R|Strikeout|B|Slider|4|0|0|2|14|84
+Carlos Ramirez|R|JaCoby Jones|R|Strikeout|B|Four-Seam Fastball|5|1|0|2|14|92
+Carlos Ramirez|R|JaCoby Jones|R|Strikeout|F|Four-Seam Fastball|6|2|0|2|12|91
+Carlos Ramirez|R|JaCoby Jones|R|Strikeout|F|Sinker|7|2|1|2|11|91
+Carlos Ramirez|R|JaCoby Jones|R|Strikeout|S|Slider|8|2|2|2|1|84
+Carlos Ramirez|R|Tim Beckham|R|Groundout|C|Slider|0|0|0|0|9|82
+Carlos Ramirez|R|Tim Beckham|R|Groundout|X|Sinker|1|0|1|0|5|92
+Carlos Ramirez|R|Manny Machado|R|Lineout|C|Sinker|2|0|0|1|8|92
+Carlos Ramirez|R|Manny Machado|R|Lineout|B|Sinker|3|0|1|1|13|93
+Carlos Ramirez|R|Manny Machado|R|Lineout|X|Sinker|4|1|1|1|9|92
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|B|Sinker|5|0|0|2|12|92
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|S|Slider|6|1|0|2|8|83
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|B|Sinker|7|1|1|2|13|93
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|B|Sinker|8|2|1|2|14|92
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|F|Four-Seam Fastball|9|3|1|2|3|92
+Carlos Ramirez|R|Jonathan Schoop|R|Groundout|X|Slider|10|3|2|2|6|85
+Carlos Ramirez|R|Caleb Joseph|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|91
+Carlos Ramirez|R|Caleb Joseph|R|Strikeout|S|Slider|1|0|1|0|14|83
+Carlos Ramirez|R|Caleb Joseph|R|Strikeout|S|Slider|2|0|2|0|6|84
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|C|Sinker|3|0|0|1|4|91
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|B|Four-Seam Fastball|4|0|1|1|14|91
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|S|Four-Seam Fastball|5|1|1|1|14|91
+Carlos Ramirez|R|Tim Beckham|R|Strikeout|S|Slider|6|1|2|1|14|82
+Carlos Ramirez|R|Manny Machado|R|Walk|C|Slider|7|0|0|2|6|82
+Carlos Ramirez|R|Manny Machado|R|Walk|B|Four-Seam Fastball|8|0|1|2|14|91
+Carlos Ramirez|R|Manny Machado|R|Walk|B|Four-Seam Fastball|9|1|1|2|14|91
+Carlos Ramirez|R|Manny Machado|R|Walk|B|Four-Seam Fastball|10|2|1|2|14|92
+Carlos Ramirez|R|Manny Machado|R|Walk|F|Slider|11|3|1|2|11|81
+Carlos Ramirez|R|Manny Machado|R|Walk|B|Slider|12|3|2|2|14|83
+Carlos Ramirez|R|Jonathan Schoop|R|Pop Out|X|Slider|13|0|0|2|6|82
+Carlos Ramirez|R|Brian Dozier|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|12|92
+Carlos Ramirez|R|Brian Dozier|R|Pop Out|X|Sinker|1|1|0|0|11|91
+Carlos Ramirez|R|Joe Mauer|L|Grounded Into DP|C|Sinker|2|0|0|1|6|93
+Carlos Ramirez|R|Joe Mauer|L|Grounded Into DP|C|Slider|3|0|1|1|2|84
+Carlos Ramirez|R|Joe Mauer|L|Grounded Into DP|X|Four-Seam Fastball|4|0|2|1|3|94
+Carlos Ramirez|R|Whit Merrifield|R|Home Run|B|N/A|0|0|0|0|0|0
+Carlos Ramirez|R|Whit Merrifield|R|Home Run|E|Four-Seam Fastball|1|1|0|0|2|90
+Carlos Ramirez|R|Lorenzo Cain|R|Walk|B|Slider|2|0|0|0|1|83
+Carlos Ramirez|R|Lorenzo Cain|R|Walk|B|Slider|3|1|0|0|11|80
+Carlos Ramirez|R|Lorenzo Cain|R|Walk|B|Sinker|4|2|0|0|14|91
+Carlos Ramirez|R|Lorenzo Cain|R|Walk|B|Sinker|5|3|0|0|14|91
+Carlos Ramirez|R|Melky Cabrera|L|Double|E|Sinker|6|0|0|0|9|92
+Carlos Ramirez|R|Eric Hosmer|L|Groundout|B|Slider|7|0|0|0|14|84
+Carlos Ramirez|R|Eric Hosmer|L|Groundout|C|Slider|8|1|0|0|2|82
+Carlos Ramirez|R|Eric Hosmer|L|Groundout|F|Slider|9|1|1|0|2|82
+Carlos Ramirez|R|Eric Hosmer|L|Groundout|F|Sinker|10|1|2|0|6|93
+Carlos Ramirez|R|Eric Hosmer|L|Groundout|X|Slider|11|1|2|0|1|83
+Carlos Ramirez|R|Salvador Perez|R|Groundout|C|Slider|12|0|0|1|9|83
+Carlos Ramirez|R|Salvador Perez|R|Groundout|E|Slider|13|0|1|1|9|83
+Carlos Ramirez|R|Mike Moustakas|L|Home Run|B|Sinker|14|0|0|2|14|90
+Carlos Ramirez|R|Mike Moustakas|L|Home Run|B|Slider|15|1|0|2|14|83
+Carlos Ramirez|R|Mike Moustakas|L|Home Run|E|Slider|16|2|0|2|7|81
+Carlos Ramirez|R|Jorge Bonifacio|R|Strikeout|B|Sinker|17|0|0|2|14|92
+Carlos Ramirez|R|Jorge Bonifacio|R|Strikeout|S|Slider|18|1|0|2|14|83
+Carlos Ramirez|R|Jorge Bonifacio|R|Strikeout|C|Slider|19|1|1|2|3|82
+Carlos Ramirez|R|Jorge Bonifacio|R|Strikeout|B|Slider|20|1|2|2|12|84
+Carlos Ramirez|R|Jorge Bonifacio|R|Strikeout|S|Slider|21|2|2|2|6|80
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|B|Sinker|0|0|0|0|14|93
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|B|Sinker|1|1|0|0|14|93
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|C|Slider|2|2|0|0|11|82
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|B|Sinker|3|2|1|0|12|93
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|F|Slider|4|3|1|0|5|82
+Carlos Ramirez|R|Didi Gregorius|L|Pop Out|X|Slider|5|3|2|0|9|82
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|C|Slider|6|0|0|1|5|82
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|F|Slider|7|0|1|1|14|83
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|B|Slider|8|0|2|1|12|83
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|B|Slider|9|1|2|1|14|81
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|B|Sinker|10|2|2|1|12|92
+Carlos Ramirez|R|Starlin Castro|R|Pop Out|X|Slider|11|3|2|1|5|80
+Carlos Ramirez|R|Matt Holliday|R|Lineout|C|Sinker|12|0|0|2|5|92
+Carlos Ramirez|R|Matt Holliday|R|Lineout|S|Sinker|13|0|1|2|11|91
+Carlos Ramirez|R|Matt Holliday|R|Lineout|X|Slider|14|0|2|2|14|82
+Carlos Ramirez|R|Christian Vazquez|R|Groundout|C|Sinker|0|0|0|0|1|91
+Carlos Ramirez|R|Christian Vazquez|R|Groundout|F|Four-Seam Fastball|1|0|1|0|12|91
+Carlos Ramirez|R|Christian Vazquez|R|Groundout|X|Slider|2|0|2|0|14|83
+Carlos Ramirez|R|Rafael Devers|L|Pop Out|X|Slider|3|0|0|1|9|83
+Carlos Ramirez|R|Chris Young|R|Strikeout|B|Four-Seam Fastball|4|0|0|2|14|93
+Carlos Ramirez|R|Chris Young|R|Strikeout|C|Four-Seam Fastball|5|1|0|2|14|93
+Carlos Ramirez|R|Chris Young|R|Strikeout|B|Sinker|6|1|1|2|14|92
+Carlos Ramirez|R|Chris Young|R|Strikeout|F|Slider|7|2|1|2|3|82
+Carlos Ramirez|R|Chris Young|R|Strikeout|B|Slider|8|2|2|2|13|83
+Carlos Ramirez|R|Chris Young|R|Strikeout|S|Four-Seam Fastball|9|3|2|2|12|92
+Carlos Ramirez|R|Xander Bogaerts|R|Groundout|B|Sinker|0|0|0|0|11|91
+Carlos Ramirez|R|Xander Bogaerts|R|Groundout|C|Slider|1|1|0|0|1|82
+Carlos Ramirez|R|Xander Bogaerts|R|Groundout|X|Sinker|2|1|1|0|6|91
+Carlos Ramirez|R|Dustin Pedroia|R|Groundout|B|Sinker|3|0|0|1|4|92
+Carlos Ramirez|R|Dustin Pedroia|R|Groundout|X|Sinker|4|1|0|1|12|92
+Carlos Ramirez|R|Andrew Benintendi|L|Flyout|C|Sinker|5|0|0|2|13|91
+Carlos Ramirez|R|Andrew Benintendi|L|Flyout|B|Slider|6|0|1|2|11|84
+Carlos Ramirez|R|Andrew Benintendi|L|Flyout|X|Slider|7|1|1|2|13|85
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|F|Sinker|8|0|0|0|2|91
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|B|Slider|9|0|1|0|11|82
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|S|Slider|10|1|1|0|3|83
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|B|Slider|11|1|2|0|14|85
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|B|Slider|12|2|2|0|14|82
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|F|Sinker|13|3|2|0|4|92
+Carlos Ramirez|R|Hanley Ramirez|R|Strikeout|S|Slider|14|3|2|0|6|83
+Carlos Ramirez|R|Mitch Moreland|L|Home Run|B|Slider|15|0|0|1|11|83
+Carlos Ramirez|R|Mitch Moreland|L|Home Run|C|Slider|16|1|0|1|11|82
+Carlos Ramirez|R|Mitch Moreland|L|Home Run|B|Sinker|17|1|1|1|11|91
+Carlos Ramirez|R|Mitch Moreland|L|Home Run|S|Four-Seam Fastball|18|2|1|1|14|91
+Carlos Ramirez|R|Mitch Moreland|L|Home Run|E|Slider|19|2|2|1|9|83
+Carlos Ramirez|R|Christian Vazquez|R|Lineout|X|Sinker|20|0|0|1|6|91
+Carlos Ramirez|R|Rafael Devers|L|Flyout|B|Sinker|21|0|0|2|13|91
+Carlos Ramirez|R|Rafael Devers|L|Flyout|S|Sinker|22|1|0|2|9|91
+Carlos Ramirez|R|Rafael Devers|L|Flyout|X|Sinker|23|1|1|2|9|92
+Carlos Ramirez|R|Gary Sanchez|R|Strikeout|F|Slider|0|0|0|1|3|83
+Carlos Ramirez|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|1|0|1|1|11|93
+Carlos Ramirez|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|2|1|1|1|14|92
+Carlos Ramirez|R|Gary Sanchez|R|Strikeout|F|Slider|3|2|1|1|2|82
+Carlos Ramirez|R|Gary Sanchez|R|Strikeout|S|Slider|4|2|2|1|14|84
+Carlos Ramirez|R|Didi Gregorius|L|Flyout|F|Sinker|5|0|0|2|8|92
+Carlos Ramirez|R|Didi Gregorius|L|Flyout|S|Sinker|6|0|1|2|11|93
+Carlos Ramirez|R|Didi Gregorius|L|Flyout|X|Sinker|7|0|2|2|4|93
+Carlos Ramirez|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|8|0|0|0|6|92
+Carlos Ramirez|R|Starlin Castro|R|Strikeout|S|Slider|9|0|1|0|6|84
+Carlos Ramirez|R|Starlin Castro|R|Strikeout|T|Slider|10|0|2|0|6|85
+Carlos Ramirez|R|Greg Bird|L|Flyout|B|Sinker|11|0|0|1|14|93
+Carlos Ramirez|R|Greg Bird|L|Flyout|C|Slider|12|1|0|1|13|84
+Carlos Ramirez|R|Greg Bird|L|Flyout|B|Slider|13|1|1|1|13|83
+Carlos Ramirez|R|Greg Bird|L|Flyout|B|Four-Seam Fastball|14|2|1|1|11|93
+Carlos Ramirez|R|Greg Bird|L|Flyout|S|Slider|15|3|1|1|8|84
+Carlos Ramirez|R|Greg Bird|L|Flyout|X|Sinker|16|3|2|1|8|92
+Carlos Ramirez|R|Todd Frazier|R|Single|S|Four-Seam Fastball|17|0|0|2|12|93
+Carlos Ramirez|R|Todd Frazier|R|Single|S|Sinker|18|0|1|2|3|92
+Carlos Ramirez|R|Todd Frazier|R|Single|B|Slider|19|0|2|2|14|85
+Carlos Ramirez|R|Todd Frazier|R|Single|D|Slider|20|1|2|2|14|83
+Carlos Ramirez|R|Jacoby Ellsbury|L|Groundout|X|Sinker|21|0|0|2|7|93

@@ -1,0 +1,56 @@
+Miguel Montero|R|Rene Rivera|R|Hit By Pitch|B|Curveball|0|0|0|1|14|79
+Miguel Montero|R|Rene Rivera|R|Hit By Pitch|F|Curveball|1|1|0|1|7|80
+Miguel Montero|R|Rene Rivera|R|Hit By Pitch|F|Curveball|2|1|1|1|13|80
+Miguel Montero|R|Rene Rivera|R|Hit By Pitch|H|Curveball|3|1|2|1|13|74
+Miguel Montero|R|Alejandro De Aza|L|Groundout|B|Curveball|4|0|0|1|14|80
+Miguel Montero|R|Alejandro De Aza|L|Groundout|F|Curveball|5|1|0|1|8|80
+Miguel Montero|R|Alejandro De Aza|L|Groundout|X|Curveball|6|1|1|1|7|82
+Miguel Montero|R|Juan Lagares|R|Single|B|Curveball|7|0|0|2|13|80
+Miguel Montero|R|Juan Lagares|R|Single|B|Curveball|8|1|0|2|14|79
+Miguel Montero|R|Juan Lagares|R|Single|S|Curveball|9|2|0|2|13|78
+Miguel Montero|R|Juan Lagares|R|Single|C|Curveball|10|2|1|2|6|80
+Miguel Montero|R|Juan Lagares|R|Single|D|Changeup|11|2|2|2|13|84
+Miguel Montero|R|Jacob deGrom|L|Flyout|B|Curveball|12|0|0|2|13|82
+Miguel Montero|R|Jacob deGrom|L|Flyout|F|Changeup|13|1|0|2|13|82
+Miguel Montero|R|Jacob deGrom|L|Flyout|B|Curveball|14|1|1|2|13|81
+Miguel Montero|R|Jacob deGrom|L|Flyout|X|Curveball|15|2|1|2|8|81
+Miguel Montero|R|Brandon Nimmo|L|Flyout|B|Curveball|16|0|0|0|13|81
+Miguel Montero|R|Brandon Nimmo|L|Flyout|X|Curveball|17|1|0|0|14|81
+Miguel Montero|R|Kelly Johnson|L|Single|S|Curveball|18|0|0|1|13|81
+Miguel Montero|R|Kelly Johnson|L|Single|D|Curveball|19|0|1|1|11|79
+Miguel Montero|R|Wilmer Flores|R|Single|B|Curveball|20|0|0|1|13|79
+Miguel Montero|R|Wilmer Flores|R|Single|C|Curveball|21|1|0|1|1|81
+Miguel Montero|R|Wilmer Flores|R|Single|S|Curveball|22|1|1|1|13|80
+Miguel Montero|R|Wilmer Flores|R|Single|D|Changeup|23|1|2|1|8|82
+Miguel Montero|R|James Loney|L|Single|B|Changeup|24|0|0|1|11|81
+Miguel Montero|R|James Loney|L|Single|C|Changeup|25|1|0|1|2|81
+Miguel Montero|R|James Loney|L|Single|B|Changeup|26|1|1|1|11|82
+Miguel Montero|R|James Loney|L|Single|E|Curveball|27|2|1|1|13|81
+Miguel Montero|R|Matt Reynolds|R|Forceout|B|Changeup|28|0|0|1|12|81
+Miguel Montero|R|Matt Reynolds|R|Forceout|C|Curveball|29|1|0|1|1|80
+Miguel Montero|R|Matt Reynolds|R|Forceout|X|Changeup|30|1|1|1|4|81
+Miguel Montero|R|Gary Sanchez|R|Walk|B|Two-Seam Fastball|0|0|0|0|14|76
+Miguel Montero|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|78
+Miguel Montero|R|Gary Sanchez|R|Walk|C|Four-Seam Fastball|2|2|0|0|14|77
+Miguel Montero|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|80
+Miguel Montero|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|79
+Miguel Montero|R|Didi Gregorius|L|Forceout|*B|Two-Seam Fastball|5|0|0|0|14|76
+Miguel Montero|R|Didi Gregorius|L|Forceout|B|Four-Seam Fastball|6|1|0|0|11|76
+Miguel Montero|R|Didi Gregorius|L|Forceout|B|Four-Seam Fastball|7|2|0|0|11|78
+Miguel Montero|R|Didi Gregorius|L|Forceout|C|Four-Seam Fastball|8|3|0|0|14|80
+Miguel Montero|R|Didi Gregorius|L|Forceout|X|Four-Seam Fastball|9|3|1|0|5|81
+Miguel Montero|R|Chase Headley|L|Lineout|B|Four-Seam Fastball|10|0|0|1|13|79
+Miguel Montero|R|Chase Headley|L|Lineout|B|Two-Seam Fastball|11|1|0|1|13|79
+Miguel Montero|R|Chase Headley|L|Lineout|C|Four-Seam Fastball|12|2|0|1|7|79
+Miguel Montero|R|Chase Headley|L|Lineout|C|Four-Seam Fastball|13|2|1|1|13|80
+Miguel Montero|R|Chase Headley|L|Lineout|F|Two-Seam Fastball|14|2|2|1|14|82
+Miguel Montero|R|Chase Headley|L|Lineout|X|Four-Seam Fastball|15|2|2|1|5|81
+Miguel Montero|R|Chris Carter|R|Walk|F|Two-Seam Fastball|16|0|0|2|11|81
+Miguel Montero|R|Chris Carter|R|Walk|B|Four-Seam Fastball|17|0|1|2|12|79
+Miguel Montero|R|Chris Carter|R|Walk|C|Two-Seam Fastball|18|1|1|2|14|81
+Miguel Montero|R|Chris Carter|R|Walk|B|Two-Seam Fastball|19|1|2|2|11|80
+Miguel Montero|R|Chris Carter|R|Walk|F|Four-Seam Fastball|20|2|2|2|14|79
+Miguel Montero|R|Chris Carter|R|Walk|*B|Changeup|21|2|2|2|14|67
+Miguel Montero|R|Chris Carter|R|Walk|B|Two-Seam Fastball|22|3|2|2|14|82
+Miguel Montero|R|Rob Refsnyder|R|Flyout|B|Four-Seam Fastball|23|0|0|2|14|80
+Miguel Montero|R|Rob Refsnyder|R|Flyout|X|Four-Seam Fastball|24|1|0|2|6|81

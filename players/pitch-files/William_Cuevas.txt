@@ -1,0 +1,461 @@
+William Cuevas|R|Mark Reynolds|R|Groundout|F|Four-Seam Fastball|0|0|0|0|2|90
+William Cuevas|R|Mark Reynolds|R|Groundout|B|Slider|1|0|1|0|14|86
+William Cuevas|R|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|2|1|1|0|14|90
+William Cuevas|R|Mark Reynolds|R|Groundout|F|Four-Seam Fastball|3|2|1|0|1|91
+William Cuevas|R|Mark Reynolds|R|Groundout|X|Four-Seam Fastball|4|2|2|0|3|91
+William Cuevas|R|Michael A. Taylor|R|Groundout|B|Curveball|5|0|0|1|13|78
+William Cuevas|R|Michael A. Taylor|R|Groundout|S|Slider|6|1|0|1|14|87
+William Cuevas|R|Michael A. Taylor|R|Groundout|F|Four-Seam Fastball|7|1|1|1|14|91
+William Cuevas|R|Michael A. Taylor|R|Groundout|B|Four-Seam Fastball|8|1|2|1|11|90
+William Cuevas|R|Michael A. Taylor|R|Groundout|B|Curveball|9|2|2|1|14|80
+William Cuevas|R|Michael A. Taylor|R|Groundout|X|Slider|10|3|2|1|5|86
+William Cuevas|R|Pedro Severino|R|Flyout|S|Slider|11|0|0|2|9|84
+William Cuevas|R|Pedro Severino|R|Flyout|B|Curveball|12|0|1|2|13|78
+William Cuevas|R|Pedro Severino|R|Flyout|X|Four-Seam Fastball|13|1|1|2|5|91
+William Cuevas|R|Brian Goodwin|L|Home Run|C|Two-Seam Fastball|14|0|0|0|4|91
+William Cuevas|R|Brian Goodwin|L|Home Run|E|Changeup|15|0|1|0|1|83
+William Cuevas|R|Trea Turner|R|Single|S|Slider|16|0|0|0|14|86
+William Cuevas|R|Trea Turner|R|Single|S|Slider|17|0|1|0|14|84
+William Cuevas|R|Trea Turner|R|Single|B|Two-Seam Fastball|18|0|2|0|13|91
+William Cuevas|R|Trea Turner|R|Single|D|Four-Seam Fastball|19|1|2|0|12|90
+William Cuevas|R|Juan Soto|L|Groundout|B|Four-Seam Fastball|20|0|0|0|14|90
+William Cuevas|R|Juan Soto|L|Groundout|X|Two-Seam Fastball|21|1|0|0|9|89
+William Cuevas|R|Anthony Rendon|R|Flyout|F|Four-Seam Fastball|22|0|0|1|12|89
+William Cuevas|R|Anthony Rendon|R|Flyout|S|Four-Seam Fastball|23|0|1|1|3|90
+William Cuevas|R|Anthony Rendon|R|Flyout|X|Slider|24|0|2|1|5|82
+William Cuevas|R|Wilmer Difo|L|Groundout|C|Slider|25|0|0|2|1|84
+William Cuevas|R|Wilmer Difo|L|Groundout|B|Curveball|26|0|1|2|11|77
+William Cuevas|R|Wilmer Difo|L|Groundout|S|Changeup|27|1|1|2|11|83
+William Cuevas|R|Wilmer Difo|L|Groundout|B|Changeup|28|1|2|2|13|82
+William Cuevas|R|Wilmer Difo|L|Groundout|F|Changeup|29|2|2|2|4|84
+William Cuevas|R|Wilmer Difo|L|Groundout|X|Four-Seam Fastball|30|2|2|2|12|93
+William Cuevas|R|Renato Nunez|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|90
+William Cuevas|R|Renato Nunez|R|Groundout|X|Four-Seam Fastball|1|1|0|0|9|90
+William Cuevas|R|Cedric Mullins|L|Walk|B|Two-Seam Fastball|2|0|0|1|13|89
+William Cuevas|R|Cedric Mullins|L|Walk|B|Two-Seam Fastball|3|1|0|1|11|90
+William Cuevas|R|Cedric Mullins|L|Walk|B|Changeup|4|2|0|1|11|81
+William Cuevas|R|Cedric Mullins|L|Walk|C|Four-Seam Fastball|5|3|0|1|7|90
+William Cuevas|R|Cedric Mullins|L|Walk|C|Four-Seam Fastball|6|3|1|1|1|90
+William Cuevas|R|Cedric Mullins|L|Walk|B|Four-Seam Fastball|7|3|2|1|11|90
+William Cuevas|R|Joey Rickard|R|Lineout|B|Four-Seam Fastball|8|0|0|1|14|89
+William Cuevas|R|Joey Rickard|R|Lineout|X|Four-Seam Fastball|9|1|0|1|6|89
+William Cuevas|R|Mark Trumbo|R|Walk|B|Curveball|10|0|0|2|14|78
+William Cuevas|R|Mark Trumbo|R|Walk|B|Slider|11|1|0|2|11|83
+William Cuevas|R|Mark Trumbo|R|Walk|B|Slider|12|2|0|2|14|84
+William Cuevas|R|Mark Trumbo|R|Walk|B|Slider|13|3|0|2|13|81
+William Cuevas|R|Jace Peterson|L|Strikeout|B|Two-Seam Fastball|14|0|0|2|14|89
+William Cuevas|R|Jace Peterson|L|Strikeout|B|Changeup|15|1|0|2|11|81
+William Cuevas|R|Jace Peterson|L|Strikeout|F|Four-Seam Fastball|16|2|0|2|6|90
+William Cuevas|R|Jace Peterson|L|Strikeout|C|Changeup|17|2|1|2|11|81
+William Cuevas|R|Jace Peterson|L|Strikeout|S|Changeup|18|2|2|2|13|81
+William Cuevas|R|Tim Anderson|R|Strikeout|C|Slider|0|0|0|0|1|84
+William Cuevas|R|Tim Anderson|R|Strikeout|F|Slider|1|0|1|0|14|85
+William Cuevas|R|Tim Anderson|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|12|90
+William Cuevas|R|Matt Davidson|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|14|91
+William Cuevas|R|Matt Davidson|R|Strikeout|C|Curveball|4|1|0|1|9|80
+William Cuevas|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|5|1|1|1|7|91
+William Cuevas|R|Matt Davidson|R|Strikeout|S|Changeup|6|1|2|1|13|84
+William Cuevas|R|Daniel Palka|L|Home Run|B|Two-Seam Fastball|7|0|0|2|13|90
+William Cuevas|R|Daniel Palka|L|Home Run|F|Four-Seam Fastball|8|1|0|2|4|89
+William Cuevas|R|Daniel Palka|L|Home Run|F|Changeup|9|1|1|2|7|84
+William Cuevas|R|Daniel Palka|L|Home Run|B|Changeup|10|1|2|2|13|84
+William Cuevas|R|Daniel Palka|L|Home Run|B|Four-Seam Fastball|11|2|2|2|12|92
+William Cuevas|R|Daniel Palka|L|Home Run|E|Changeup|12|3|2|2|7|84
+William Cuevas|R|Jose Rondon|R|Strikeout|B|Slider|13|0|0|2|14|86
+William Cuevas|R|Jose Rondon|R|Strikeout|F|Slider|14|1|0|2|4|85
+William Cuevas|R|Jose Rondon|R|Strikeout|C|Four-Seam Fastball|15|1|1|2|12|93
+William Cuevas|R|Jose Rondon|R|Strikeout|B|Curveball|16|1|2|2|13|79
+William Cuevas|R|Jose Rondon|R|Strikeout|S|Four-Seam Fastball|17|2|2|2|14|90
+William Cuevas|R|Kevan Smith|R|Walk|B|Curveball|18|0|0|0|14|79
+William Cuevas|R|Kevan Smith|R|Walk|B|Curveball|19|1|0|0|14|78
+William Cuevas|R|Kevan Smith|R|Walk|T|Four-Seam Fastball|20|2|0|0|6|90
+William Cuevas|R|Kevan Smith|R|Walk|B|Slider|21|2|1|0|14|85
+William Cuevas|R|Kevan Smith|R|Walk|B|Slider|22|3|1|0|14|83
+William Cuevas|R|Yoan Moncada|L|Strikeout|B|Four-Seam Fastball|23|0|0|0|12|90
+William Cuevas|R|Yoan Moncada|L|Strikeout|S|Slider|24|1|0|0|8|85
+William Cuevas|R|Yoan Moncada|L|Strikeout|B|Slider|25|1|1|0|11|82
+William Cuevas|R|Yoan Moncada|L|Strikeout|S|Two-Seam Fastball|26|2|1|0|11|88
+William Cuevas|R|Yoan Moncada|L|Strikeout|B|Changeup|27|2|2|0|13|83
+William Cuevas|R|Yoan Moncada|L|Strikeout|S|Two-Seam Fastball|28|3|2|0|13|87
+William Cuevas|R|Yolmer Sanchez|L|Single|S|Four-Seam Fastball|29|0|0|1|1|90
+William Cuevas|R|Yolmer Sanchez|L|Single|B|Slider|30|0|1|1|11|84
+William Cuevas|R|Yolmer Sanchez|L|Single|B|Changeup|31|1|1|1|11|81
+William Cuevas|R|Yolmer Sanchez|L|Single|D|Four-Seam Fastball|32|2|1|1|8|88
+William Cuevas|R|Adam Engel|R|Strikeout|S|Slider|33|0|0|1|14|85
+William Cuevas|R|Adam Engel|R|Strikeout|S|Slider|34|0|1|1|14|83
+William Cuevas|R|Adam Engel|R|Strikeout|S|Slider|35|0|2|1|14|84
+William Cuevas|R|Ryan LaMarre|R|Groundout|C|Slider|36|0|0|2|12|85
+William Cuevas|R|Ryan LaMarre|R|Groundout|B|Slider|37|0|1|2|14|83
+William Cuevas|R|Ryan LaMarre|R|Groundout|B|Four-Seam Fastball|38|1|1|2|14|89
+William Cuevas|R|Ryan LaMarre|R|Groundout|F|Slider|39|2|1|2|1|85
+William Cuevas|R|Ryan LaMarre|R|Groundout|F|Four-Seam Fastball|40|2|2|2|12|91
+William Cuevas|R|Ryan LaMarre|R|Groundout|X|Four-Seam Fastball|41|2|2|2|14|89
+William Cuevas|R|Tim Anderson|R|Double|S|Slider|42|0|0|0|9|84
+William Cuevas|R|Tim Anderson|R|Double|B|Two-Seam Fastball|43|0|1|0|13|89
+William Cuevas|R|Tim Anderson|R|Double|D|Slider|44|1|1|0|8|84
+William Cuevas|R|Matt Davidson|R|Hit By Pitch|B|Curveball|45|0|0|0|11|78
+William Cuevas|R|Matt Davidson|R|Hit By Pitch|H|Changeup|46|1|0|0|11|85
+William Cuevas|R|Daniel Palka|L|Flyout|S|Slider|47|0|0|0|14|86
+William Cuevas|R|Daniel Palka|L|Flyout|X|Slider|48|0|1|0|9|84
+William Cuevas|R|Jose Rondon|R|Forceout|*B|Two-Seam Fastball|49|0|0|1|13|87
+William Cuevas|R|Jose Rondon|R|Forceout|F|Slider|50|1|0|1|14|84
+William Cuevas|R|Jose Rondon|R|Forceout|C|Slider|51|1|1|1|14|83
+William Cuevas|R|Jose Rondon|R|Forceout|E|Slider|52|1|2|1|12|86
+Robby Scott|R|Kevan Smith|R|Walk|*B|Slider|53|0|0|2|14|81
+Robby Scott|R|Kevan Smith|R|Walk|B|Slider|54|1|0|2|14|86
+William Cuevas|R|Tyler Flowers|R|Single|C|Curveball|0|0|0|1|8|79
+William Cuevas|R|Tyler Flowers|R|Single|C|Curveball|1|0|1|1|8|79
+William Cuevas|R|Tyler Flowers|R|Single|B|Four-Seam Fastball|2|0|2|1|11|90
+William Cuevas|R|Tyler Flowers|R|Single|E|Slider|3|1|2|1|9|85
+William Cuevas|R|Charlie Culberson|R|Walk|B|Slider|4|0|0|1|14|83
+William Cuevas|R|Charlie Culberson|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|90
+William Cuevas|R|Charlie Culberson|R|Walk|B|Slider|6|2|0|1|14|85
+William Cuevas|R|Charlie Culberson|R|Walk|T|Four-Seam Fastball|7|3|0|1|14|90
+William Cuevas|R|Charlie Culberson|R|Walk|F|Two-Seam Fastball|8|3|1|1|11|89
+William Cuevas|R|Charlie Culberson|R|Walk|B|Slider|9|3|2|1|13|84
+William Cuevas|R|Mike Foltynewicz|R|Strikeout|C|Four-Seam Fastball|10|0|0|1|14|88
+William Cuevas|R|Mike Foltynewicz|R|Strikeout|M|Four-Seam Fastball|11|0|1|1|9|90
+William Cuevas|R|Mike Foltynewicz|R|Strikeout|S|Four-Seam Fastball|12|0|2|1|14|90
+William Cuevas|R|Ronald Acuna Jr.|R|Strikeout|B|Curveball|13|0|0|2|14|81
+William Cuevas|R|Ronald Acuna Jr.|R|Strikeout|F|Slider|14|1|0|2|8|84
+William Cuevas|R|Ronald Acuna Jr.|R|Strikeout|C|Two-Seam Fastball|15|1|1|2|13|90
+William Cuevas|R|Ronald Acuna Jr.|R|Strikeout|B|Changeup|16|1|2|2|13|85
+William Cuevas|R|Ronald Acuna Jr.|R|Strikeout|S|Two-Seam Fastball|17|2|2|2|11|89
+William Cuevas|R|Ender Inciarte|L|Flyout|B|Changeup|18|0|0|0|13|83
+William Cuevas|R|Ender Inciarte|L|Flyout|C|Changeup|19|1|0|0|11|83
+William Cuevas|R|Ender Inciarte|L|Flyout|X|Slider|20|1|1|0|5|85
+William Cuevas|R|Nick Markakis|L|Lineout|B|Changeup|21|0|0|1|13|81
+William Cuevas|R|Nick Markakis|L|Lineout|C|Slider|22|1|0|1|5|84
+William Cuevas|R|Nick Markakis|L|Lineout|F|Four-Seam Fastball|23|1|1|1|2|90
+William Cuevas|R|Nick Markakis|L|Lineout|B|Changeup|24|1|2|1|11|83
+William Cuevas|R|Nick Markakis|L|Lineout|X|Changeup|25|2|2|1|13|81
+William Cuevas|R|Johan Camargo|L|Hit By Pitch|C|Curveball|26|0|0|2|13|77
+William Cuevas|R|Johan Camargo|L|Hit By Pitch|S|Slider|27|0|1|2|14|84
+William Cuevas|R|Johan Camargo|L|Hit By Pitch|B|Four-Seam Fastball|28|0|2|2|12|90
+William Cuevas|R|Johan Camargo|L|Hit By Pitch|H|Four-Seam Fastball|29|1|2|2|14|90
+William Cuevas|R|Ryan Flaherty|L|Walk|B|Slider|30|0|0|2|14|83
+William Cuevas|R|Ryan Flaherty|L|Walk|B|Changeup|31|1|0|2|13|80
+William Cuevas|R|Ryan Flaherty|L|Walk|*B|Two-Seam Fastball|32|2|0|2|13|90
+William Cuevas|R|Ryan Flaherty|L|Walk|C|Two-Seam Fastball|33|3|0|2|8|90
+William Cuevas|R|Ryan Flaherty|L|Walk|B|Two-Seam Fastball|34|3|1|2|11|89
+William Cuevas|R|Ozzie Albies|L|Strikeout|F|Changeup|35|0|0|2|3|80
+William Cuevas|R|Ozzie Albies|L|Strikeout|B|Slider|36|0|1|2|11|82
+William Cuevas|R|Ozzie Albies|L|Strikeout|S|Slider|37|1|1|2|9|82
+William Cuevas|R|Ozzie Albies|L|Strikeout|B|Four-Seam Fastball|38|1|2|2|12|89
+William Cuevas|R|Ozzie Albies|L|Strikeout|F|Changeup|39|2|2|2|1|83
+William Cuevas|R|Ozzie Albies|L|Strikeout|S|Slider|40|2|2|2|11|83
+William Cuevas|R|Amed Rosario|R|Lineout|C|Four-Seam Fastball|0|0|0|0|7|91
+William Cuevas|R|Amed Rosario|R|Lineout|F|Curveball|1|0|1|0|14|80
+William Cuevas|R|Amed Rosario|R|Lineout|X|Four-Seam Fastball|2|0|2|0|11|92
+William Cuevas|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|3|0|0|1|11|92
+William Cuevas|R|Jeff McNeil|L|Strikeout|S|Changeup|4|1|0|1|5|83
+William Cuevas|R|Jeff McNeil|L|Strikeout|F|Slider|5|1|1|1|8|85
+William Cuevas|R|Jeff McNeil|L|Strikeout|S|Four-Seam Fastball|6|1|2|1|12|91
+William Cuevas|R|Michael Conforto|L|Double|D|Slider|7|0|0|2|8|86
+William Cuevas|R|Jay Bruce|L|Double|C|Four-Seam Fastball|8|0|0|2|1|91
+William Cuevas|R|Jay Bruce|L|Double|E|Changeup|9|0|1|2|11|82
+William Cuevas|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|10|0|0|2|12|91
+William Cuevas|R|Todd Frazier|R|Walk|F|Four-Seam Fastball|11|1|0|2|3|92
+William Cuevas|R|Todd Frazier|R|Walk|S|Slider|12|1|1|2|14|85
+William Cuevas|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|13|1|2|2|11|92
+William Cuevas|R|Todd Frazier|R|Walk|F|Slider|14|2|2|2|12|85
+William Cuevas|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|15|2|2|2|12|93
+William Cuevas|R|Todd Frazier|R|Walk|F|Changeup|16|3|2|2|4|84
+William Cuevas|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|17|3|2|2|11|93
+William Cuevas|R|Brandon Nimmo|L|Groundout|B|Changeup|18|0|0|2|14|83
+William Cuevas|R|Brandon Nimmo|L|Groundout|F|Slider|19|1|0|2|14|85
+William Cuevas|R|Brandon Nimmo|L|Groundout|F|Changeup|20|1|1|2|5|83
+William Cuevas|R|Brandon Nimmo|L|Groundout|B|Four-Seam Fastball|21|1|2|2|11|91
+William Cuevas|R|Brandon Nimmo|L|Groundout|X|Four-Seam Fastball|22|2|2|2|6|91
+William Cuevas|R|Dominic Smith|L|Strikeout|B|Changeup|23|0|0|0|13|82
+William Cuevas|R|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|24|1|0|0|4|90
+William Cuevas|R|Dominic Smith|L|Strikeout|S|Curveball|25|1|1|0|14|80
+William Cuevas|R|Dominic Smith|L|Strikeout|F|Curveball|26|1|2|0|14|81
+William Cuevas|R|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|27|1|2|0|2|91
+William Cuevas|R|Dominic Smith|L|Strikeout|S|Changeup|28|1|2|0|13|83
+William Cuevas|R|Austin Jackson|R|Strikeout|C|Slider|29|0|0|1|8|85
+William Cuevas|R|Austin Jackson|R|Strikeout|B|Curveball|30|0|1|1|14|80
+William Cuevas|R|Austin Jackson|R|Strikeout|F|Four-Seam Fastball|31|1|1|1|3|91
+William Cuevas|R|Austin Jackson|R|Strikeout|C|Slider|32|1|2|1|12|84
+William Cuevas|R|Tomas Nido|R|Strikeout|S|Four-Seam Fastball|33|0|0|2|6|91
+William Cuevas|R|Tomas Nido|R|Strikeout|S|Four-Seam Fastball|34|0|1|2|12|92
+William Cuevas|R|Tomas Nido|R|Strikeout|S|Changeup|35|0|2|2|8|84
+William Cuevas|R|Amed Rosario|R|Single|F|Four-Seam Fastball|36|0|0|0|14|91
+William Cuevas|R|Amed Rosario|R|Single|D|Curveball|37|0|1|0|8|79
+William Cuevas|R|Aaron Judge|R|Strikeout|B|Curveball|0|0|0|0|14|82
+William Cuevas|R|Aaron Judge|R|Strikeout|C|Curveball|1|1|0|0|14|81
+William Cuevas|R|Aaron Judge|R|Strikeout|B|Curveball|2|1|1|0|14|80
+William Cuevas|R|Aaron Judge|R|Strikeout|S|Slider|3|2|1|0|13|84
+William Cuevas|R|Aaron Judge|R|Strikeout|B|Changeup|4|2|2|0|13|85
+William Cuevas|R|Aaron Judge|R|Strikeout|S|Slider|5|3|2|0|14|86
+William Cuevas|R|Didi Gregorius|L|Hit By Pitch|C|Changeup|6|0|0|1|1|83
+William Cuevas|R|Didi Gregorius|L|Hit By Pitch|H|Slider|7|0|1|1|14|86
+William Cuevas|R|Giancarlo Stanton|R|Flyout|B|Curveball|8|0|0|1|13|79
+William Cuevas|R|Giancarlo Stanton|R|Flyout|B|Curveball|9|1|0|1|11|78
+William Cuevas|R|Giancarlo Stanton|R|Flyout|T|Slider|10|2|0|1|1|84
+William Cuevas|R|Giancarlo Stanton|R|Flyout|F|Slider|11|2|1|1|4|84
+William Cuevas|R|Giancarlo Stanton|R|Flyout|B|Changeup|12|2|2|1|13|83
+William Cuevas|R|Giancarlo Stanton|R|Flyout|F|Changeup|13|3|2|1|11|81
+William Cuevas|R|Giancarlo Stanton|R|Flyout|X|Curveball|14|3|2|1|9|81
+William Cuevas|R|Aaron Hicks|L|Strikeout|B|Curveball|15|0|0|2|13|80
+William Cuevas|R|Aaron Hicks|L|Strikeout|F|Four-Seam Fastball|16|1|0|2|5|91
+William Cuevas|R|Aaron Hicks|L|Strikeout|F|Slider|17|1|1|2|5|86
+William Cuevas|R|Aaron Hicks|L|Strikeout|B|Changeup|18|1|2|2|11|81
+William Cuevas|R|Aaron Hicks|L|Strikeout|F|Four-Seam Fastball|19|2|2|2|12|90
+William Cuevas|R|Aaron Hicks|L|Strikeout|T|Changeup|20|2|2|2|4|82
+William Cuevas|R|Luke Voit|R|Single|B|Four-Seam Fastball|0|0|0|0|14|91
+William Cuevas|R|Luke Voit|R|Single|D|Slider|1|1|0|0|9|86
+William Cuevas|R|Gleyber Torres|R|Single|C|Curveball|2|0|0|0|1|78
+William Cuevas|R|Gleyber Torres|R|Single|B|Changeup|3|0|1|0|11|82
+William Cuevas|R|Gleyber Torres|R|Single|D|Changeup|4|1|1|0|8|83
+William Cuevas|R|Andrew McCutchen|R|Groundout|X|Slider|5|0|0|0|6|85
+William Cuevas|R|Greg Bird|L|Groundout|C|Four-Seam Fastball|6|0|0|1|3|91
+William Cuevas|R|Greg Bird|L|Groundout|F|Four-Seam Fastball|7|0|1|1|14|91
+William Cuevas|R|Greg Bird|L|Groundout|E|Two-Seam Fastball|8|0|2|1|7|90
+William Cuevas|R|Aaron Hicks|L|Single|B|Changeup|9|0|0|2|11|82
+William Cuevas|R|Aaron Hicks|L|Single|C|Four-Seam Fastball|10|1|0|2|14|92
+William Cuevas|R|Aaron Hicks|L|Single|E|Four-Seam Fastball|11|1|1|2|12|91
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|C|Curveball|12|0|0|2|5|80
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|B|Changeup|13|0|1|2|13|83
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|14|1|1|2|14|91
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|B|Changeup|15|2|1|2|14|82
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|C|Slider|16|3|1|2|13|86
+William Cuevas|R|Giancarlo Stanton|R|Strikeout|C|Curveball|17|3|2|2|9|80
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|*B|Slider|0|0|0|0|14|85
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|C|Slider|1|1|0|0|14|87
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|C|Curveball|2|1|1|0|9|78
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|91
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|S|Curveball|4|2|2|0|14|79
+William Cuevas|R|Josh Donaldson|R|Grounded Into DP|X|Slider|5|0|0|1|9|87
+William Cuevas|R|Yonder Alonso|L|Groundout|X|Changeup|6|0|0|0|8|81
+William Cuevas|R|Melky Cabrera|L|Walk|B|Changeup|7|0|0|1|13|82
+William Cuevas|R|Melky Cabrera|L|Walk|B|Slider|8|1|0|1|14|87
+William Cuevas|R|Melky Cabrera|L|Walk|B|Changeup|9|2|0|1|11|80
+William Cuevas|R|Melky Cabrera|L|Walk|C|Two-Seam Fastball|10|3|0|1|8|88
+William Cuevas|R|Melky Cabrera|L|Walk|B|Four-Seam Fastball|11|3|1|1|14|91
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|S|Changeup|12|0|0|1|13|82
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|B|Four-Seam Fastball|13|0|1|1|12|90
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|S|Changeup|14|1|1|1|13|82
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|B|Four-Seam Fastball|15|1|2|1|11|90
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|B|Changeup|16|2|2|1|13|82
+William Cuevas|R|Jason Kipnis|L|Strikeout Double Play|S|Changeup|17|3|2|1|11|82
+William Cuevas|R|Eric Haase|R|Strikeout|S|Four-Seam Fastball|18|0|0|0|1|89
+William Cuevas|R|Eric Haase|R|Strikeout|S|Curveball|19|0|1|0|14|79
+William Cuevas|R|Eric Haase|R|Strikeout|B|Curveball|20|0|2|0|14|80
+William Cuevas|R|Eric Haase|R|Strikeout|F|Two-Seam Fastball|21|1|2|0|13|91
+William Cuevas|R|Eric Haase|R|Strikeout|F|Curveball|22|1|2|0|14|79
+William Cuevas|R|Eric Haase|R|Strikeout|B|Four-Seam Fastball|23|1|2|0|12|90
+William Cuevas|R|Eric Haase|R|Strikeout|F|Slider|24|2|2|0|3|85
+William Cuevas|R|Eric Haase|R|Strikeout|B|Changeup|25|2|2|0|13|83
+William Cuevas|R|Eric Haase|R|Strikeout|F|Slider|26|3|2|0|3|86
+William Cuevas|R|Eric Haase|R|Strikeout|F|Two-Seam Fastball|27|3|2|0|13|91
+William Cuevas|R|Eric Haase|R|Strikeout|S|Curveball|28|3|2|0|14|80
+William Cuevas|R|Francisco Lindor|L|Hit By Pitch|B|Curveball|29|0|0|1|14|79
+William Cuevas|R|Francisco Lindor|L|Hit By Pitch|H|Slider|30|1|0|1|12|86
+William Cuevas|R|Michael Brantley|L|Pop Out|B|Two-Seam Fastball|31|0|0|1|13|90
+William Cuevas|R|Michael Brantley|L|Pop Out|B|Changeup|32|1|0|1|14|81
+William Cuevas|R|Michael Brantley|L|Pop Out|F|Two-Seam Fastball|33|2|0|1|13|91
+William Cuevas|R|Michael Brantley|L|Pop Out|F|Changeup|34|2|1|1|5|83
+William Cuevas|R|Michael Brantley|L|Pop Out|F|Four-Seam Fastball|35|2|2|1|11|90
+William Cuevas|R|Michael Brantley|L|Pop Out|F|Slider|36|2|2|1|6|85
+William Cuevas|R|Michael Brantley|L|Pop Out|F|Four-Seam Fastball|37|2|2|1|12|92
+William Cuevas|R|Michael Brantley|L|Pop Out|X|Changeup|38|2|2|1|7|83
+William Cuevas|R|Jose Ramirez|L|Pop Out|C|Slider|39|0|0|2|2|86
+William Cuevas|R|Jose Ramirez|L|Pop Out|X|Four-Seam Fastball|40|0|1|2|12|91
+William Cuevas|R|Edwin Encarnacion|R|Walk|B|Curveball|41|0|0|0|14|80
+William Cuevas|R|Edwin Encarnacion|R|Walk|B|Curveball|42|1|0|0|14|79
+William Cuevas|R|Edwin Encarnacion|R|Walk|B|Curveball|43|2|0|0|14|79
+William Cuevas|R|Edwin Encarnacion|R|Walk|C|Slider|44|3|0|0|13|85
+William Cuevas|R|Edwin Encarnacion|R|Walk|B|Slider|45|3|1|0|14|86
+William Cuevas|R|Josh Donaldson|R|Strikeout|C|Slider|46|0|0|0|4|86
+William Cuevas|R|Josh Donaldson|R|Strikeout|F|Slider|47|0|1|0|9|85
+William Cuevas|R|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|48|0|2|0|12|90
+William Cuevas|R|Josh Donaldson|R|Strikeout|B|Curveball|49|0|2|0|14|79
+William Cuevas|R|Josh Donaldson|R|Strikeout|B|Four-Seam Fastball|50|1|2|0|12|91
+William Cuevas|R|Josh Donaldson|R|Strikeout|B|Two-Seam Fastball|51|2|2|0|13|91
+William Cuevas|R|Josh Donaldson|R|Strikeout|C|Changeup|52|3|2|0|13|84
+William Cuevas|R|Yonder Alonso|L|Lineout|C|Changeup|53|0|0|1|8|84
+William Cuevas|R|Yonder Alonso|L|Lineout|X|Four-Seam Fastball|54|0|1|1|6|92
+William Cuevas|R|Greg Allen|L|Groundout|C|Slider|55|0|0|2|4|84
+William Cuevas|R|Greg Allen|L|Groundout|F|Changeup|56|0|1|2|13|82
+William Cuevas|R|Greg Allen|L|Groundout|X|Changeup|57|0|2|2|13|83
+William Cuevas|R|Jason Kipnis|L|Double|B|Changeup|58|0|0|0|13|81
+William Cuevas|R|Jason Kipnis|L|Double|B|Changeup|59|1|0|0|13|83
+William Cuevas|R|Jason Kipnis|L|Double|C|Slider|60|2|0|0|12|86
+William Cuevas|R|Jason Kipnis|L|Double|B|Changeup|61|2|1|0|13|83
+William Cuevas|R|Jason Kipnis|L|Double|C|Slider|62|3|1|0|5|85
+William Cuevas|R|Jason Kipnis|L|Double|F|Four-Seam Fastball|63|3|2|0|12|91
+William Cuevas|R|Jason Kipnis|L|Double|D|Four-Seam Fastball|64|3|2|0|9|92
+William Cuevas|R|Eric Haase|R|Single|S|Curveball|65|0|0|0|14|79
+William Cuevas|R|Eric Haase|R|Single|S|Curveball|66|0|1|0|6|78
+William Cuevas|R|Eric Haase|R|Single|B|Four-Seam Fastball|67|0|2|0|12|90
+William Cuevas|R|Eric Haase|R|Single|D|Curveball|68|1|2|0|14|79
+William Cuevas|R|Francisco Lindor|L|Groundout|F|Slider|69|0|0|0|8|86
+William Cuevas|R|Francisco Lindor|L|Groundout|*B|Changeup|70|0|1|0|13|82
+William Cuevas|R|Francisco Lindor|L|Groundout|F|Slider|71|1|1|0|14|85
+William Cuevas|R|Francisco Lindor|L|Groundout|F|Changeup|72|1|2|0|11|81
+William Cuevas|R|Francisco Lindor|L|Groundout|F|Changeup|73|1|2|0|13|81
+William Cuevas|R|Francisco Lindor|L|Groundout|F|Slider|74|1|2|0|14|86
+William Cuevas|R|Francisco Lindor|L|Groundout|X|Two-Seam Fastball|75|1|2|0|8|91
+William Cuevas|R|Michael Brantley|L|Groundout|S|Slider|76|0|0|1|14|88
+William Cuevas|R|Michael Brantley|L|Groundout|B|Four-Seam Fastball|77|0|1|1|12|90
+William Cuevas|R|Michael Brantley|L|Groundout|*B|Slider|78|1|1|1|14|86
+William Cuevas|R|Michael Brantley|L|Groundout|X|Slider|79|2|1|1|14|84
+William Cuevas|R|Jose Ramirez|L|Walk|C|Slider|80|0|0|2|3|84
+William Cuevas|R|Jose Ramirez|L|Walk|B|Curveball|81|0|1|2|14|79
+William Cuevas|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|82|1|1|2|14|88
+William Cuevas|R|Jose Ramirez|L|Walk|B|Changeup|83|2|1|2|11|82
+William Cuevas|R|Jose Ramirez|L|Walk|C|Changeup|84|3|1|2|4|81
+William Cuevas|R|Jose Ramirez|L|Walk|F|Slider|85|3|2|2|12|85
+William Cuevas|R|Jose Ramirez|L|Walk|F|Four-Seam Fastball|86|3|2|2|3|90
+William Cuevas|R|Jose Ramirez|L|Walk|B|Changeup|87|3|2|2|11|81
+William Cuevas|R|Rajai Davis|R|Sac Bunt|L|Four-Seam Fastball|88|0|0|2|12|89
+William Cuevas|R|Rajai Davis|R|Sac Bunt|X|Slider|89|0|1|2|9|84
+William Cuevas|R|Erik Gonzalez|R|Field Error|S|Curveball|90|0|0|0|14|78
+William Cuevas|R|Erik Gonzalez|R|Field Error|B|Four-Seam Fastball|91|0|1|0|14|89
+William Cuevas|R|Erik Gonzalez|R|Field Error|D|Curveball|92|1|1|0|14|79
+William Cuevas|R|Didi Gregorius|L|Lineout|B|Four-Seam Fastball|0|0|0|0|11|90
+William Cuevas|R|Didi Gregorius|L|Lineout|B|Four-Seam Fastball|1|1|0|0|14|91
+William Cuevas|R|Didi Gregorius|L|Lineout|B|Four-Seam Fastball|2|2|0|0|14|89
+William Cuevas|R|Didi Gregorius|L|Lineout|C|Four-Seam Fastball|3|3|0|0|8|90
+William Cuevas|R|Didi Gregorius|L|Lineout|X|Four-Seam Fastball|4|3|1|0|1|90
+William Cuevas|R|Miguel Andujar|R|Double|C|Slider|5|0|0|1|6|85
+William Cuevas|R|Miguel Andujar|R|Double|F|Curveball|6|0|1|1|5|79
+William Cuevas|R|Miguel Andujar|R|Double|D|Curveball|7|0|2|1|6|77
+William Cuevas|R|Gary Sanchez|R|Walk|S|Slider|8|0|0|1|12|85
+William Cuevas|R|Gary Sanchez|R|Walk|B|Changeup|9|0|1|1|13|81
+William Cuevas|R|Gary Sanchez|R|Walk|B|Slider|10|1|1|1|12|86
+William Cuevas|R|Gary Sanchez|R|Walk|B|Slider|11|2|1|1|14|83
+William Cuevas|R|Gary Sanchez|R|Walk|C|Slider|12|3|1|1|2|84
+William Cuevas|R|Gary Sanchez|R|Walk|B|Curveball|13|3|2|1|11|77
+William Cuevas|R|Gleyber Torres|R|Double|B|Four-Seam Fastball|14|0|0|1|12|89
+William Cuevas|R|Gleyber Torres|R|Double|S|Slider|15|1|0|1|14|85
+William Cuevas|R|Gleyber Torres|R|Double|F|Slider|16|1|1|1|3|84
+William Cuevas|R|Gleyber Torres|R|Double|E|Four-Seam Fastball|17|1|2|1|12|89
+William Cuevas|R|Andrew McCutchen|R|Single|C|Four-Seam Fastball|18|0|0|1|9|87
+William Cuevas|R|Andrew McCutchen|R|Single|C|Four-Seam Fastball|19|0|1|1|8|88
+William Cuevas|R|Andrew McCutchen|R|Single|B|Four-Seam Fastball|20|0|2|1|14|88
+William Cuevas|R|Andrew McCutchen|R|Single|F|Slider|21|1|2|1|5|84
+William Cuevas|R|Andrew McCutchen|R|Single|B|Curveball|22|1|2|1|11|75
+William Cuevas|R|Andrew McCutchen|R|Single|E|Curveball|23|2|2|1|12|78
+William Cuevas|R|Aaron Judge|R|Single|B|Four-Seam Fastball|24|0|0|1|14|89
+William Cuevas|R|Aaron Judge|R|Single|C|Slider|25|1|0|1|9|85
+William Cuevas|R|Aaron Judge|R|Single|C|Two-Seam Fastball|26|1|1|1|13|89
+William Cuevas|R|Aaron Judge|R|Single|D|Curveball|27|1|2|1|8|77
+William Cuevas|R|Aaron Hicks|L|Home Run|*B|Changeup|28|0|0|1|13|80
+William Cuevas|R|Aaron Hicks|L|Home Run|E|Four-Seam Fastball|29|1|0|1|9|89
+William Cuevas|R|Giancarlo Stanton|R|Single|B|Slider|30|0|0|1|14|87
+William Cuevas|R|Giancarlo Stanton|R|Single|D|Slider|31|1|0|1|6|86
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|F|Changeup|0|0|0|0|13|82
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|F|Four-Seam Fastball|1|0|1|0|9|92
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|B|Four-Seam Fastball|2|0|2|0|12|91
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|F|Changeup|3|1|2|0|13|83
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|F|Four-Seam Fastball|4|1|2|0|12|91
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|B|Four-Seam Fastball|5|1|2|0|13|92
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|B|Four-Seam Fastball|6|2|2|0|11|91
+William Cuevas|R|Kevin Kiermaier|L|Pop Out|X|Four-Seam Fastball|7|3|2|0|2|91
+William Cuevas|R|Curt Casali|R|Pop Out|X|Four-Seam Fastball|8|0|0|1|7|91
+William Cuevas|R|Logan Forsythe|R|Walk|C|Four-Seam Fastball|9|0|0|2|14|92
+William Cuevas|R|Logan Forsythe|R|Walk|B|Four-Seam Fastball|10|0|1|2|12|91
+William Cuevas|R|Logan Forsythe|R|Walk|B|Four-Seam Fastball|11|1|1|2|11|89
+William Cuevas|R|Logan Forsythe|R|Walk|B|Changeup|12|2|1|2|14|81
+William Cuevas|R|Logan Forsythe|R|Walk|B|Four-Seam Fastball|13|3|1|2|14|91
+William Cuevas|R|Brandon Guyer|R|Single|F|Four-Seam Fastball|14|0|0|2|6|90
+William Cuevas|R|Brandon Guyer|R|Single|C|Curveball|15|0|1|2|9|77
+William Cuevas|R|Brandon Guyer|R|Single|F|Curveball|16|0|2|2|8|75
+William Cuevas|R|Brandon Guyer|R|Single|F|Four-Seam Fastball|17|0|2|2|2|89
+William Cuevas|R|Brandon Guyer|R|Single|X|Four-Seam Fastball|18|0|2|2|3|91
+William Cuevas|R|Evan Longoria|R|Flyout|C|Curveball|19|0|0|0|4|78
+William Cuevas|R|Evan Longoria|R|Flyout|X|Four-Seam Fastball|20|0|1|0|6|89
+William Cuevas|R|Steve Pearce|R|Walk|B|Curveball|21|0|0|1|11|76
+William Cuevas|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|22|1|0|1|12|90
+William Cuevas|R|Steve Pearce|R|Walk|B|Curveball|23|2|0|1|11|76
+William Cuevas|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|24|3|0|1|14|89
+William Cuevas|R|Desmond Jennings|R|Forceout|B|Four-Seam Fastball|25|0|0|1|13|88
+William Cuevas|R|Desmond Jennings|R|Forceout|X|Four-Seam Fastball|26|1|0|1|9|88
+William Cuevas|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|27|0|0|2|12|90
+William Cuevas|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|28|1|0|2|14|87
+William Cuevas|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|29|2|0|2|1|89
+William Cuevas|R|Steven Souza Jr.|R|Double|C|Four-Seam Fastball|30|3|0|2|6|89
+William Cuevas|R|Steven Souza Jr.|R|Double|E|Four-Seam Fastball|31|3|1|2|9|90
+William Cuevas|R|Tim Beckham|R|Pop Out|C|Curveball|32|0|0|2|5|76
+William Cuevas|R|Tim Beckham|R|Pop Out|C|Four-Seam Fastball|33|0|1|2|12|90
+William Cuevas|R|Tim Beckham|R|Pop Out|B|Four-Seam Fastball|34|0|2|2|12|91
+William Cuevas|R|Tim Beckham|R|Pop Out|F|Changeup|35|1|2|2|11|76
+William Cuevas|R|Tim Beckham|R|Pop Out|*B|Curveball|36|1|2|2|14|76
+William Cuevas|R|Tim Beckham|R|Pop Out|F|Four-Seam Fastball|37|2|2|2|7|88
+William Cuevas|R|Tim Beckham|R|Pop Out|X|Changeup|38|2|2|2|8|79
+William Cuevas|R|Kevin Kiermaier|L|Double|C|Changeup|39|0|0|0|2|80
+William Cuevas|R|Kevin Kiermaier|L|Double|F|Two-Seam Fastball|40|0|1|0|11|89
+William Cuevas|R|Kevin Kiermaier|L|Double|B|Four-Seam Fastball|41|0|2|0|12|89
+William Cuevas|R|Kevin Kiermaier|L|Double|D|Changeup|42|1|2|0|13|82
+William Cuevas|R|Curt Casali|R|Sac Bunt|X|Four-Seam Fastball|43|0|0|0|6|85
+William Cuevas|R|Elvis Andrus|R|Walk|B|Two-Seam Fastball|0|0|0|1|11|88
+William Cuevas|R|Elvis Andrus|R|Walk|B|Curveball|1|1|0|1|8|77
+William Cuevas|R|Elvis Andrus|R|Walk|C|Curveball|2|2|0|1|2|77
+William Cuevas|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|3|2|1|1|7|90
+William Cuevas|R|Elvis Andrus|R|Walk|B|Curveball|4|3|1|1|7|78
+William Cuevas|R|Mitch Moreland|L|Forceout|B|Changeup|5|0|0|1|13|78
+William Cuevas|R|Mitch Moreland|L|Forceout|S|Changeup|6|1|0|1|6|80
+William Cuevas|R|Mitch Moreland|L|Forceout|S|Changeup|7|1|1|1|8|80
+William Cuevas|R|Mitch Moreland|L|Forceout|F|Four-Seam Fastball|8|1|2|1|3|91
+William Cuevas|R|Mitch Moreland|L|Forceout|*B|Changeup|9|1|2|1|14|79
+William Cuevas|R|Mitch Moreland|L|Forceout|F|Changeup|10|2|2|1|11|80
+William Cuevas|R|Mitch Moreland|L|Forceout|E|Changeup|11|2|2|1|11|79
+William Cuevas|R|Robinson Chirinos|R|Strikeout|S|Curveball|12|0|0|2|14|78
+William Cuevas|R|Robinson Chirinos|R|Strikeout|B|Four-Seam Fastball|13|0|1|2|11|89
+William Cuevas|R|Robinson Chirinos|R|Strikeout|B|Curveball|14|1|1|2|14|79
+William Cuevas|R|Robinson Chirinos|R|Strikeout|C|Curveball|15|2|1|2|7|79
+William Cuevas|R|Robinson Chirinos|R|Strikeout|S|Four-Seam Fastball|16|2|2|2|3|92
+William Cuevas|R|Shin-Soo Choo|L|Flyout|C|Four-Seam Fastball|17|0|0|0|11|89
+William Cuevas|R|Shin-Soo Choo|L|Flyout|F|Changeup|18|0|1|0|13|83
+William Cuevas|R|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|19|0|2|0|11|87
+William Cuevas|R|Shin-Soo Choo|L|Flyout|B|Curveball|20|1|2|0|14|80
+William Cuevas|R|Shin-Soo Choo|L|Flyout|X|Four-Seam Fastball|21|2|2|0|6|90
+William Cuevas|R|Ian Desmond|R|Single|C|Four-Seam Fastball|22|0|0|1|9|91
+William Cuevas|R|Ian Desmond|R|Single|D|Curveball|23|0|1|1|14|80
+William Cuevas|R|Nomar Mazara|L|Walk|B|Two-Seam Fastball|24|0|0|1|11|89
+William Cuevas|R|Nomar Mazara|L|Walk|B|Changeup|25|1|0|1|13|81
+William Cuevas|R|Nomar Mazara|L|Walk|B|Changeup|26|2|0|1|11|78
+William Cuevas|R|Nomar Mazara|L|Walk|B|Four-Seam Fastball|27|3|0|1|11|90
+William Cuevas|R|Adrian Beltre|R|Lineout|B|Four-Seam Fastball|28|0|0|1|11|90
+William Cuevas|R|Adrian Beltre|R|Lineout|C|Four-Seam Fastball|29|1|0|1|6|90
+William Cuevas|R|Adrian Beltre|R|Lineout|X|Four-Seam Fastball|30|1|1|1|4|90
+William Cuevas|R|Ryan Rua|R|Walk|B|Curveball|31|0|0|2|12|77
+William Cuevas|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|32|1|0|2|11|87
+William Cuevas|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|33|2|0|2|14|90
+William Cuevas|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|34|3|0|2|11|89
+William Cuevas|R|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|35|0|0|2|8|91
+William Cuevas|R|Rougned Odor|L|Strikeout|F|Changeup|36|0|1|2|7|81
+William Cuevas|R|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|37|0|2|2|12|90
+William Cuevas|R|Rougned Odor|L|Single|B|Changeup|0|0|0|0|14|82
+William Cuevas|R|Rougned Odor|L|Single|D|Two-Seam Fastball|1|1|0|0|13|90
+William Cuevas|R|Elvis Andrus|R|Double Play|X|Four-Seam Fastball|2|0|0|0|13|90
+William Cuevas|R|Mitch Moreland|L|Walk|B|Curveball|3|0|0|2|11|77
+William Cuevas|R|Mitch Moreland|L|Walk|B|Curveball|4|1|0|2|11|77
+William Cuevas|R|Mitch Moreland|L|Walk|S|Four-Seam Fastball|5|2|0|2|11|90
+William Cuevas|R|Mitch Moreland|L|Walk|B|Changeup|6|2|1|2|13|81
+William Cuevas|R|Mitch Moreland|L|Walk|S|Changeup|7|3|1|2|13|81
+William Cuevas|R|Mitch Moreland|L|Walk|B|Four-Seam Fastball|8|3|2|2|13|90
+William Cuevas|R|Jurickson Profar|L|Strikeout|B|Curveball|9|0|0|2|14|77
+William Cuevas|R|Jurickson Profar|L|Strikeout|*B|Changeup|10|1|0|2|13|79
+William Cuevas|R|Jurickson Profar|L|Strikeout|B|Four-Seam Fastball|11|2|0|2|11|89
+William Cuevas|R|Jurickson Profar|L|Strikeout|C|Four-Seam Fastball|12|3|0|2|13|89
+William Cuevas|R|Jurickson Profar|L|Strikeout|C|Four-Seam Fastball|13|3|1|2|11|88
+William Cuevas|R|Jurickson Profar|L|Strikeout|F|Four-Seam Fastball|14|3|2|2|13|88
+William Cuevas|R|Jurickson Profar|L|Strikeout|S|Changeup|15|3|2|2|13|79
+William Cuevas|R|Francisco Lindor|L|Double|C|Two-Seam Fastball|0|0|0|0|13|88
+William Cuevas|R|Francisco Lindor|L|Double|D|Two-Seam Fastball|1|0|1|0|4|89
+William Cuevas|R|Brandon Guyer|R|Hit By Pitch|H|Two-Seam Fastball|2|0|0|0|13|87
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|*B|Curveball|3|0|0|0|14|81
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|4|1|0|0|14|88
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|F|Four-Seam Fastball|5|1|1|0|4|87
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|F|Changeup|6|1|2|0|4|79
+William Cuevas|R|Edwin Encarnacion|R|Strikeout|C|Curveball|7|1|2|0|13|82
+William Cuevas|R|Jose Ramirez|L|Single|B|Two-Seam Fastball|8|0|0|1|13|88
+William Cuevas|R|Jose Ramirez|L|Single|F|Changeup|9|1|0|1|5|82
+William Cuevas|R|Jose Ramirez|L|Single|D|Curveball|10|1|1|1|9|83
+William Cuevas|R|Yandy Diaz|R|Single|B|Four-Seam Fastball|11|0|0|1|11|89
+William Cuevas|R|Yandy Diaz|R|Single|C|Two-Seam Fastball|12|1|0|1|7|88
+William Cuevas|R|Yandy Diaz|R|Single|B|Curveball|13|1|1|1|14|83
+William Cuevas|R|Yandy Diaz|R|Single|E|Two-Seam Fastball|14|2|1|1|11|88

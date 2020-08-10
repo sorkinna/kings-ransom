@@ -1,0 +1,786 @@
+Evan Phillips|R|Aaron Hicks|L|Walk|C|Slider|0|0|0|2|4|86
+Evan Phillips|R|Aaron Hicks|L|Walk|*B|Changeup|1|0|1|2|13|87
+Evan Phillips|R|Aaron Hicks|L|Walk|B|Changeup|2|1|1|2|11|87
+Evan Phillips|R|Aaron Hicks|L|Walk|B|Slider|3|2|1|2|11|85
+Evan Phillips|R|Aaron Hicks|L|Walk|B|Slider|4|3|1|2|13|84
+Evan Phillips|R|Didi Gregorius|L|Pop Out|F|Four-Seam Fastball|5|0|0|2|4|94
+Evan Phillips|R|Didi Gregorius|L|Pop Out|X|Four-Seam Fastball|6|0|1|2|4|93
+Evan Phillips|R|Miguel Andujar|R|Flyout|B|Four-Seam Fastball|7|0|0|0|11|92
+Evan Phillips|R|Miguel Andujar|R|Flyout|B|Four-Seam Fastball|8|1|0|0|11|93
+Evan Phillips|R|Miguel Andujar|R|Flyout|F|Four-Seam Fastball|9|2|0|0|5|93
+Evan Phillips|R|Miguel Andujar|R|Flyout|T|Four-Seam Fastball|10|2|1|0|1|92
+Evan Phillips|R|Miguel Andujar|R|Flyout|X|Four-Seam Fastball|11|2|2|0|1|94
+Evan Phillips|R|Brandon Drury|R|Groundout|C|Four-Seam Fastball|12|0|0|1|6|91
+Evan Phillips|R|Brandon Drury|R|Groundout|X|Slider|13|0|1|1|8|85
+Evan Phillips|R|Kyle Higashioka|R|Strikeout|C|Slider|14|0|0|2|1|84
+Evan Phillips|R|Kyle Higashioka|R|Strikeout|C|Four-Seam Fastball|15|0|1|2|5|91
+Evan Phillips|R|Kyle Higashioka|R|Strikeout|B|Four-Seam Fastball|16|0|2|2|12|94
+Evan Phillips|R|Kyle Higashioka|R|Strikeout|C|Four-Seam Fastball|17|1|2|2|6|94
+Evan Phillips|R|Neil Walker|L|Groundout|C|Four-Seam Fastball|18|0|0|0|8|91
+Evan Phillips|R|Neil Walker|L|Groundout|X|Four-Seam Fastball|19|0|1|0|11|93
+Evan Phillips|R|Brett Gardner|L|Walk|C|Four-Seam Fastball|20|0|0|1|11|93
+Evan Phillips|R|Brett Gardner|L|Walk|B|Changeup|21|0|1|1|13|86
+Evan Phillips|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|22|1|1|1|11|93
+Evan Phillips|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|23|2|1|1|11|92
+Evan Phillips|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|24|3|1|1|11|93
+Evan Phillips|R|Aaron Judge|R|Forceout|C|Four-Seam Fastball|25|0|0|1|8|93
+Evan Phillips|R|Aaron Judge|R|Forceout|S|Four-Seam Fastball|26|0|1|1|11|94
+Evan Phillips|R|Aaron Judge|R|Forceout|B|Two-Seam Fastball|27|0|2|1|11|94
+Evan Phillips|R|Aaron Judge|R|Forceout|B|Four-Seam Fastball|28|1|2|1|14|94
+Evan Phillips|R|Aaron Judge|R|Forceout|X|Two-Seam Fastball|29|2|2|1|11|94
+Evan Phillips|R|Giancarlo Stanton|R|Home Run|B|Slider|30|0|0|2|12|86
+Evan Phillips|R|Giancarlo Stanton|R|Home Run|E|Four-Seam Fastball|31|1|0|2|5|94
+Evan Phillips|R|Aaron Hicks|L|Flyout|B|Four-Seam Fastball|32|0|0|2|11|93
+Evan Phillips|R|Aaron Hicks|L|Flyout|B|Four-Seam Fastball|33|1|0|2|11|94
+Evan Phillips|R|Aaron Hicks|L|Flyout|F|Four-Seam Fastball|34|2|0|2|12|94
+Evan Phillips|R|Aaron Hicks|L|Flyout|B|Four-Seam Fastball|35|2|1|2|11|93
+Evan Phillips|R|Aaron Hicks|L|Flyout|C|Slider|36|3|1|2|13|83
+Evan Phillips|R|Aaron Hicks|L|Flyout|X|Four-Seam Fastball|37|3|2|2|11|93
+Evan Phillips|R|Erik Kratz|R|Flyout|X|Four-Seam Fastball|0|0|0|2|5|93
+Evan Phillips|R|Eric Thames|L|Home Run|C|Four-Seam Fastball|1|0|0|0|13|94
+Evan Phillips|R|Eric Thames|L|Home Run|B|Four-Seam Fastball|2|0|1|0|13|94
+Evan Phillips|R|Eric Thames|L|Home Run|B|Changeup|3|1|1|0|14|86
+Evan Phillips|R|Eric Thames|L|Home Run|S|Changeup|4|2|1|0|7|86
+Evan Phillips|R|Eric Thames|L|Home Run|E|Slider|5|2|2|0|5|88
+Evan Phillips|R|Jonathan Villar|L|Double|D|Four-Seam Fastball|6|0|0|0|11|93
+Evan Phillips|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|7|0|0|0|11|92
+Evan Phillips|R|Christian Yelich|L|Walk|C|Changeup|8|1|0|0|8|86
+Evan Phillips|R|Christian Yelich|L|Walk|F|Four-Seam Fastball|9|1|1|0|2|94
+Evan Phillips|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|10|1|2|0|14|95
+Evan Phillips|R|Christian Yelich|L|Walk|B|Changeup|11|2|2|0|13|87
+Evan Phillips|R|Christian Yelich|L|Walk|B|Changeup|12|3|2|0|11|87
+Evan Phillips|R|Lorenzo Cain|R|Forceout|B|Slider|13|0|0|0|14|88
+Evan Phillips|R|Lorenzo Cain|R|Forceout|B|Slider|14|1|0|0|14|87
+Evan Phillips|R|Lorenzo Cain|R|Forceout|C|Four-Seam Fastball|15|2|0|0|9|94
+Evan Phillips|R|Lorenzo Cain|R|Forceout|C|Four-Seam Fastball|16|2|1|0|13|95
+Evan Phillips|R|Lorenzo Cain|R|Forceout|X|Slider|17|2|2|0|8|89
+Evan Phillips|R|Jesus Aguilar|R|Home Run|S|Four-Seam Fastball|18|0|0|1|5|94
+Evan Phillips|R|Jesus Aguilar|R|Home Run|F|Slider|19|0|1|1|14|88
+Evan Phillips|R|Jesus Aguilar|R|Home Run|B|Four-Seam Fastball|20|0|2|1|11|94
+Evan Phillips|R|Jesus Aguilar|R|Home Run|E|Four-Seam Fastball|21|1|2|1|11|95
+Evan Phillips|R|Travis Shaw|L|Walk|B|Changeup|22|0|0|1|11|87
+Evan Phillips|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|23|1|0|1|13|94
+Evan Phillips|R|Travis Shaw|L|Walk|F|Four-Seam Fastball|24|2|0|1|7|94
+Evan Phillips|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|25|2|1|1|11|94
+Evan Phillips|R|Travis Shaw|L|Walk|B|Changeup|26|3|1|1|13|87
+Evan Phillips|R|Hernan Perez|R|Groundout|C|Four-Seam Fastball|27|0|0|1|6|93
+Evan Phillips|R|Hernan Perez|R|Groundout|S|Slider|28|0|1|1|12|89
+Evan Phillips|R|Hernan Perez|R|Groundout|X|Changeup|29|0|2|1|12|88
+Evan Phillips|R|Tyler Saladino|R|Lineout|C|Slider|30|0|0|2|12|87
+Evan Phillips|R|Tyler Saladino|R|Lineout|S|Four-Seam Fastball|31|0|1|2|11|93
+Evan Phillips|R|Tyler Saladino|R|Lineout|F|Four-Seam Fastball|32|0|2|2|12|94
+Evan Phillips|R|Tyler Saladino|R|Lineout|X|Slider|33|0|2|2|12|87
+Evan Phillips|R|Martin Prado|R|Flyout|C|Four-Seam Fastball|0|0|0|0|4|94
+Evan Phillips|R|Martin Prado|R|Flyout|B|Four-Seam Fastball|1|0|1|0|13|94
+Evan Phillips|R|Martin Prado|R|Flyout|B|Four-Seam Fastball|2|1|1|0|12|94
+Evan Phillips|R|Martin Prado|R|Flyout|S|Slider|3|2|1|0|9|89
+Evan Phillips|R|Martin Prado|R|Flyout|X|Four-Seam Fastball|4|2|2|0|2|94
+Evan Phillips|R|Cameron Maybin|R|Single|F|Four-Seam Fastball|5|0|0|1|5|95
+Evan Phillips|R|Cameron Maybin|R|Single|D|Four-Seam Fastball|6|0|1|1|3|94
+Evan Phillips|R|Brett Graves|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|2|94
+Evan Phillips|R|Brett Graves|R|Strikeout|B|Four-Seam Fastball|8|0|1|1|7|95
+Evan Phillips|R|Brett Graves|R|Strikeout|F|Four-Seam Fastball|9|1|1|1|2|94
+Evan Phillips|R|Brett Graves|R|Strikeout|S|Slider|10|1|2|1|14|88
+Evan Phillips|R|JT Riddle|L|Groundout|F|Four-Seam Fastball|11|0|0|2|11|93
+Evan Phillips|R|JT Riddle|L|Groundout|T|Changeup|12|0|1|2|13|88
+Evan Phillips|R|JT Riddle|L|Groundout|X|Slider|13|0|2|2|6|88
+Evan Phillips|R|Manny Machado|R|Flyout|S|Four-Seam Fastball|0|0|0|1|4|94
+Evan Phillips|R|Manny Machado|R|Flyout|*B|Slider|1|0|1|1|14|88
+Evan Phillips|R|Manny Machado|R|Flyout|X|Four-Seam Fastball|2|1|1|1|8|94
+Evan Phillips|R|Max Muncy|L|Strikeout|B|Four-Seam Fastball|3|0|0|2|12|95
+Evan Phillips|R|Max Muncy|L|Strikeout|B|Changeup|4|1|0|2|13|88
+Evan Phillips|R|Max Muncy|L|Strikeout|C|Changeup|5|2|0|2|13|88
+Evan Phillips|R|Max Muncy|L|Strikeout|S|Four-Seam Fastball|6|2|1|2|4|94
+Evan Phillips|R|Max Muncy|L|Strikeout|F|Changeup|7|2|2|2|13|88
+Evan Phillips|R|Max Muncy|L|Strikeout|S|Four-Seam Fastball|8|2|2|2|11|93
+Evan Phillips|R|Yasmani Grandal|L|Groundout|C|Four-Seam Fastball|9|0|0|0|4|93
+Evan Phillips|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|10|0|1|0|11|92
+Evan Phillips|R|Yasmani Grandal|L|Groundout|B|Changeup|11|0|2|0|11|87
+Evan Phillips|R|Yasmani Grandal|L|Groundout|X|Slider|12|1|2|0|8|87
+Evan Phillips|R|Enrique Hernandez|R|Single|D|Slider|13|0|0|1|4|87
+Evan Phillips|R|Cody Bellinger|L|Flyout|B|Two-Seam Fastball|14|0|0|1|11|93
+Evan Phillips|R|Cody Bellinger|L|Flyout|B|Changeup|15|1|0|1|13|87
+Evan Phillips|R|Cody Bellinger|L|Flyout|X|Changeup|16|2|0|1|7|87
+Evan Phillips|R|Chris Taylor|R|Forceout|X|Four-Seam Fastball|17|0|0|2|11|94
+Evan Phillips|R|Robinson Chirinos|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|94
+Evan Phillips|R|Robinson Chirinos|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|94
+Evan Phillips|R|Robinson Chirinos|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|93
+Evan Phillips|R|Robinson Chirinos|R|Strikeout|F|Changeup|3|1|2|0|11|89
+Evan Phillips|R|Robinson Chirinos|R|Strikeout|S|Four-Seam Fastball|4|1|2|0|11|95
+Evan Phillips|R|Ronald Guzman|L|Strikeout|B|Four-Seam Fastball|5|0|0|1|11|94
+Evan Phillips|R|Ronald Guzman|L|Strikeout|F|Four-Seam Fastball|6|1|0|1|11|94
+Evan Phillips|R|Ronald Guzman|L|Strikeout|F|Four-Seam Fastball|7|1|1|1|3|94
+Evan Phillips|R|Ronald Guzman|L|Strikeout|B|Four-Seam Fastball|8|1|2|1|11|94
+Evan Phillips|R|Ronald Guzman|L|Strikeout|S|Changeup|9|2|2|1|13|88
+Evan Phillips|R|Willie Calhoun|L|Flyout|B|Changeup|10|0|0|2|11|87
+Evan Phillips|R|Willie Calhoun|L|Flyout|F|Four-Seam Fastball|11|1|0|2|1|94
+Evan Phillips|R|Willie Calhoun|L|Flyout|X|Four-Seam Fastball|12|1|1|2|5|94
+Evan Phillips|R|Carlos Tocci|R|Strikeout|C|Four-Seam Fastball|13|0|0|0|6|92
+Evan Phillips|R|Carlos Tocci|R|Strikeout|F|Four-Seam Fastball|14|0|1|0|8|92
+Evan Phillips|R|Carlos Tocci|R|Strikeout|T|Four-Seam Fastball|15|0|2|0|1|93
+Evan Phillips|R|Shin-Soo Choo|L|Groundout|S|Changeup|16|0|0|1|13|88
+Evan Phillips|R|Shin-Soo Choo|L|Groundout|C|Four-Seam Fastball|17|0|1|1|6|94
+Evan Phillips|R|Shin-Soo Choo|L|Groundout|F|Four-Seam Fastball|18|0|2|1|6|94
+Evan Phillips|R|Shin-Soo Choo|L|Groundout|B|Four-Seam Fastball|19|0|2|1|11|95
+Evan Phillips|R|Shin-Soo Choo|L|Groundout|X|Changeup|20|1|2|1|13|88
+Evan Phillips|R|Rougned Odor|L|Groundout|F|Four-Seam Fastball|21|0|0|2|11|94
+Evan Phillips|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|22|0|1|2|13|94
+Evan Phillips|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|23|1|1|2|11|94
+Evan Phillips|R|Rougned Odor|L|Groundout|X|Changeup|24|2|1|2|13|86
+Evan Phillips|R|Mallex Smith|L|Walk|B|Changeup|0|0|0|0|11|86
+Evan Phillips|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|1|1|0|0|13|93
+Evan Phillips|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|2|2|0|0|13|94
+Evan Phillips|R|Mallex Smith|L|Walk|C|Four-Seam Fastball|3|3|0|0|5|94
+Evan Phillips|R|Mallex Smith|L|Walk|S|Four-Seam Fastball|4|3|1|0|11|94
+Evan Phillips|R|Mallex Smith|L|Walk|B|Four-Seam Fastball|5|3|2|0|13|94
+Evan Phillips|R|Matt Duffy|R|Field Error|S|Four-Seam Fastball|6|0|0|0|11|94
+Evan Phillips|R|Matt Duffy|R|Field Error|D|Slider|7|0|1|0|5|87
+Evan Phillips|R|Jake Bauers|L|Walk|B|Two-Seam Fastball|8|0|0|0|13|94
+Evan Phillips|R|Jake Bauers|L|Walk|B|Four-Seam Fastball|9|1|0|0|11|94
+Evan Phillips|R|Jake Bauers|L|Walk|C|Four-Seam Fastball|10|2|0|0|14|94
+Evan Phillips|R|Jake Bauers|L|Walk|B|Changeup|11|2|1|0|13|87
+Evan Phillips|R|Jake Bauers|L|Walk|B|Four-Seam Fastball|12|3|1|0|11|94
+Evan Phillips|R|C.J. Cron|R|Walk|B|Slider|13|0|0|0|14|87
+Evan Phillips|R|C.J. Cron|R|Walk|C|Four-Seam Fastball|14|1|0|0|2|95
+Evan Phillips|R|C.J. Cron|R|Walk|B|Slider|15|1|1|0|14|88
+Evan Phillips|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|16|2|1|0|14|94
+Evan Phillips|R|C.J. Cron|R|Walk|F|Four-Seam Fastball|17|3|1|0|5|94
+Evan Phillips|R|C.J. Cron|R|Walk|F|Four-Seam Fastball|18|3|2|0|11|94
+Evan Phillips|R|C.J. Cron|R|Walk|B|Slider|19|3|2|0|11|84
+Evan Phillips|R|J.D. Martinez|R|Grounded Into DP|B|Slider|0|0|0|0|14|87
+Evan Phillips|R|J.D. Martinez|R|Grounded Into DP|B|Four-Seam Fastball|1|1|0|0|14|93
+Evan Phillips|R|J.D. Martinez|R|Grounded Into DP|X|Four-Seam Fastball|2|2|0|0|13|95
+Evan Phillips|R|Xander Bogaerts|R|Groundout|C|Four-Seam Fastball|3|0|0|2|6|94
+Evan Phillips|R|Xander Bogaerts|R|Groundout|X|Four-Seam Fastball|4|0|1|2|4|96
+Evan Phillips|R|Rafael Devers|L|Groundout|B|Four-Seam Fastball|5|0|0|0|12|93
+Evan Phillips|R|Rafael Devers|L|Groundout|B|Four-Seam Fastball|6|1|0|0|11|94
+Evan Phillips|R|Rafael Devers|L|Groundout|F|Four-Seam Fastball|7|2|0|0|11|92
+Evan Phillips|R|Rafael Devers|L|Groundout|B|Two-Seam Fastball|8|2|1|0|11|94
+Evan Phillips|R|Rafael Devers|L|Groundout|X|Two-Seam Fastball|9|3|1|0|4|93
+Evan Phillips|R|Brock Holt|L|Walk|C|Four-Seam Fastball|10|0|0|1|13|93
+Evan Phillips|R|Brock Holt|L|Walk|B|Changeup|11|0|1|1|13|86
+Evan Phillips|R|Brock Holt|L|Walk|B|Slider|12|1|1|1|14|86
+Evan Phillips|R|Brock Holt|L|Walk|B|Four-Seam Fastball|13|2|1|1|11|93
+Evan Phillips|R|Brock Holt|L|Walk|B|Four-Seam Fastball|14|3|1|1|11|94
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|B|Slider|15|0|0|1|11|85
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|H|Slider|16|1|0|1|11|84
+Evan Phillips|R|Jackie Bradley Jr.|L|Single|D|Changeup|17|0|0|1|7|87
+Evan Phillips|R|Mookie Betts|R|Double|C|Four-Seam Fastball|18|0|0|1|1|94
+Evan Phillips|R|Mookie Betts|R|Double|F|Slider|19|0|1|1|6|85
+Evan Phillips|R|Mookie Betts|R|Double|B|Slider|20|0|2|1|14|86
+Evan Phillips|R|Mookie Betts|R|Double|E|Four-Seam Fastball|21|1|2|1|2|94
+Evan Phillips|R|Todd Frazier|R|Double|F|Four-Seam Fastball|0|0|0|2|5|94
+Evan Phillips|R|Todd Frazier|R|Double|*B|Slider|1|0|1|2|14|86
+Evan Phillips|R|Todd Frazier|R|Double|B|Four-Seam Fastball|2|1|1|2|11|95
+Evan Phillips|R|Todd Frazier|R|Double|C|Four-Seam Fastball|3|2|1|2|8|94
+Evan Phillips|R|Todd Frazier|R|Double|B|Slider|4|2|2|2|14|87
+Evan Phillips|R|Todd Frazier|R|Double|F|Four-Seam Fastball|5|3|2|2|11|95
+Evan Phillips|R|Todd Frazier|R|Double|E|Slider|6|3|2|2|6|86
+Evan Phillips|R|Austin Jackson|R|Walk|B|Four-Seam Fastball|7|0|0|2|11|93
+Evan Phillips|R|Austin Jackson|R|Walk|C|Four-Seam Fastball|8|1|0|2|12|94
+Evan Phillips|R|Austin Jackson|R|Walk|B|Slider|9|1|1|2|13|86
+Evan Phillips|R|Austin Jackson|R|Walk|F|Four-Seam Fastball|10|2|1|2|5|94
+Evan Phillips|R|Austin Jackson|R|Walk|F|Four-Seam Fastball|11|2|2|2|5|95
+Evan Phillips|R|Austin Jackson|R|Walk|B|Four-Seam Fastball|12|2|2|2|14|95
+Evan Phillips|R|Austin Jackson|R|Walk|F|Four-Seam Fastball|13|3|2|2|14|95
+Evan Phillips|R|Austin Jackson|R|Walk|B|Four-Seam Fastball|14|3|2|2|12|95
+Evan Phillips|R|Jose Bautista|R|Walk|*B|Slider|15|0|0|2|14|87
+Evan Phillips|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|16|1|0|2|11|94
+Evan Phillips|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|17|2|0|2|12|93
+Evan Phillips|R|Jose Bautista|R|Walk|B|Four-Seam Fastball|18|3|0|2|11|92
+Evan Phillips|R|Kevin Plawecki|R|Home Run|B|Four-Seam Fastball|19|0|0|2|11|93
+Evan Phillips|R|Kevin Plawecki|R|Home Run|B|Four-Seam Fastball|20|1|0|2|11|91
+Evan Phillips|R|Kevin Plawecki|R|Home Run|C|Four-Seam Fastball|21|2|0|2|2|93
+Evan Phillips|R|Kevin Plawecki|R|Home Run|E|Four-Seam Fastball|22|2|1|2|2|92
+Evan Phillips|R|Billy McKinney|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|92
+Evan Phillips|R|Billy McKinney|L|Strikeout|C|Four-Seam Fastball|1|0|1|0|11|93
+Evan Phillips|R|Billy McKinney|L|Strikeout|F|Four-Seam Fastball|2|0|2|0|1|93
+Evan Phillips|R|Billy McKinney|L|Strikeout|S|Four-Seam Fastball|3|0|2|0|11|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|F|Four-Seam Fastball|4|0|0|1|6|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|F|Slider|5|0|1|1|11|85
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|B|Four-Seam Fastball|6|0|2|1|11|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|S|Slider|7|1|2|1|9|85
+Evan Phillips|R|Kendrys Morales|L|Lineout|F|Four-Seam Fastball|8|0|0|2|11|94
+Evan Phillips|R|Kendrys Morales|L|Lineout|B|Four-Seam Fastball|9|0|1|2|11|93
+Evan Phillips|R|Kendrys Morales|L|Lineout|B|Four-Seam Fastball|10|1|1|2|11|93
+Evan Phillips|R|Kendrys Morales|L|Lineout|F|Four-Seam Fastball|11|2|1|2|11|93
+Evan Phillips|R|Kendrys Morales|L|Lineout|X|Slider|12|2|2|2|5|85
+Evan Phillips|R|Randal Grichuk|R|Flyout|B|Changeup|13|0|0|0|14|90
+Evan Phillips|R|Randal Grichuk|R|Flyout|F|Changeup|14|1|0|0|14|90
+Evan Phillips|R|Randal Grichuk|R|Flyout|X|Changeup|15|1|1|0|5|88
+Evan Phillips|R|Yangervis Solarte|L|Pop Out|X|Changeup|16|0|0|1|14|89
+Evan Phillips|R|Kevin Pillar|R|Double|B|Changeup|17|0|0|2|14|90
+Evan Phillips|R|Kevin Pillar|R|Double|D|Changeup|18|1|0|2|9|90
+Evan Phillips|R|Rowdy Tellez|L|Single|B|Changeup|19|0|0|2|11|85
+Evan Phillips|R|Rowdy Tellez|L|Single|E|Changeup|20|1|0|2|7|85
+Evan Phillips|R|Danny Jansen|R|Home Run|B|Changeup|21|0|0|2|11|88
+Evan Phillips|R|Danny Jansen|R|Home Run|B|Slider|22|1|0|2|11|80
+Evan Phillips|R|Danny Jansen|R|Home Run|E|Changeup|23|2|0|2|3|89
+Evan Phillips|R|Richard Urena|L|Flyout|X|Changeup|24|0|0|2|8|90
+Evan Phillips|R|Shohei Ohtani|L|Lineout|B|Two-Seam Fastball|0|0|0|2|11|94
+Evan Phillips|R|Shohei Ohtani|L|Lineout|F|Four-Seam Fastball|1|1|0|2|5|94
+Evan Phillips|R|Shohei Ohtani|L|Lineout|B|Four-Seam Fastball|2|1|1|2|14|94
+Evan Phillips|R|Shohei Ohtani|L|Lineout|F|Four-Seam Fastball|3|2|1|2|1|94
+Evan Phillips|R|Shohei Ohtani|L|Lineout|F|Slider|4|2|2|2|5|85
+Evan Phillips|R|Shohei Ohtani|L|Lineout|B|Four-Seam Fastball|5|2|2|2|14|94
+Evan Phillips|R|Shohei Ohtani|L|Lineout|X|Four-Seam Fastball|6|3|2|2|5|94
+Evan Phillips|R|Justin Upton|R|Home Run|B|Four-Seam Fastball|7|0|0|0|14|95
+Evan Phillips|R|Justin Upton|R|Home Run|S|Four-Seam Fastball|8|1|0|0|6|95
+Evan Phillips|R|Justin Upton|R|Home Run|E|Four-Seam Fastball|9|1|1|0|8|94
+Evan Phillips|R|Brian Goodwin|L|Double|D|Four-Seam Fastball|10|0|0|0|5|95
+Evan Phillips|R|Andrelton Simmons|R|Strikeout|C|Slider|11|0|0|0|12|85
+Evan Phillips|R|Andrelton Simmons|R|Strikeout|F|Slider|12|0|1|0|8|86
+Evan Phillips|R|Andrelton Simmons|R|Strikeout|B|Four-Seam Fastball|13|0|2|0|11|94
+Evan Phillips|R|Andrelton Simmons|R|Strikeout|B|Slider|14|1|2|0|14|87
+Evan Phillips|R|Andrelton Simmons|R|Strikeout|C|Slider|15|2|2|0|9|86
+Evan Phillips|R|Luis Rengifo|L|Strikeout|C|Four-Seam Fastball|16|0|0|1|11|94
+Evan Phillips|R|Luis Rengifo|L|Strikeout|F|Four-Seam Fastball|17|0|1|1|4|94
+Evan Phillips|R|Luis Rengifo|L|Strikeout|S|Slider|18|0|2|1|14|86
+Evan Phillips|R|Mark Canha|R|Walk|B|Four-Seam Fastball|0|0|0|2|13|94
+Evan Phillips|R|Mark Canha|R|Walk|B|Four-Seam Fastball|1|1|0|2|1|93
+Evan Phillips|R|Mark Canha|R|Walk|B|Four-Seam Fastball|2|2|0|2|14|94
+Evan Phillips|R|Mark Canha|R|Walk|C|Four-Seam Fastball|3|3|0|2|6|95
+Evan Phillips|R|Mark Canha|R|Walk|C|Four-Seam Fastball|4|3|1|2|2|94
+Evan Phillips|R|Mark Canha|R|Walk|B|Four-Seam Fastball|5|3|2|2|14|95
+Evan Phillips|R|Ramon Laureano|R|Strikeout|C|Four-Seam Fastball|6|0|0|2|9|95
+Evan Phillips|R|Ramon Laureano|R|Strikeout|F|Slider|7|0|1|2|8|83
+Evan Phillips|R|Ramon Laureano|R|Strikeout|B|Four-Seam Fastball|8|0|2|2|9|94
+Evan Phillips|R|Ramon Laureano|R|Strikeout|C|Four-Seam Fastball|9|1|2|2|7|93
+Evan Phillips|R|Jurickson Profar|L|Strikeout|B|Changeup|10|0|0|0|14|86
+Evan Phillips|R|Jurickson Profar|L|Strikeout|S|Four-Seam Fastball|11|1|0|0|8|93
+Evan Phillips|R|Jurickson Profar|L|Strikeout|F|Four-Seam Fastball|12|1|1|0|7|94
+Evan Phillips|R|Jurickson Profar|L|Strikeout|F|Slider|13|1|2|0|4|83
+Evan Phillips|R|Jurickson Profar|L|Strikeout|F|Four-Seam Fastball|14|1|2|0|3|94
+Evan Phillips|R|Jurickson Profar|L|Strikeout|B|Four-Seam Fastball|15|1|2|0|12|94
+Evan Phillips|R|Jurickson Profar|L|Strikeout|B|Four-Seam Fastball|16|2|2|0|11|94
+Evan Phillips|R|Jurickson Profar|L|Strikeout|F|Four-Seam Fastball|17|3|2|0|8|95
+Evan Phillips|R|Jurickson Profar|L|Strikeout|S|Four-Seam Fastball|18|3|2|0|13|93
+Evan Phillips|R|Josh Phegley|R|Lineout|C|Slider|19|0|0|1|7|82
+Evan Phillips|R|Josh Phegley|R|Lineout|X|Four-Seam Fastball|20|0|1|1|8|93
+Evan Phillips|R|Marcus Semien|R|Groundout|F|Four-Seam Fastball|21|0|0|2|9|92
+Evan Phillips|R|Marcus Semien|R|Groundout|X|Four-Seam Fastball|22|0|1|2|7|93
+Evan Phillips|R|Matt Chapman|R|Groundout|B|Slider|23|0|0|0|14|84
+Evan Phillips|R|Matt Chapman|R|Groundout|C|Four-Seam Fastball|24|1|0|0|6|93
+Evan Phillips|R|Matt Chapman|R|Groundout|S|Four-Seam Fastball|25|1|1|0|6|94
+Evan Phillips|R|Matt Chapman|R|Groundout|X|Slider|26|1|2|0|13|85
+Evan Phillips|R|Stephen Piscotty|R|Groundout|B|Slider|27|0|0|1|14|83
+Evan Phillips|R|Stephen Piscotty|R|Groundout|S|Four-Seam Fastball|28|1|0|1|1|93
+Evan Phillips|R|Stephen Piscotty|R|Groundout|B|Four-Seam Fastball|29|1|1|1|12|94
+Evan Phillips|R|Stephen Piscotty|R|Groundout|C|Slider|30|2|1|1|13|84
+Evan Phillips|R|Stephen Piscotty|R|Groundout|X|Four-Seam Fastball|31|2|2|1|14|95
+Evan Phillips|R|Khris Davis|R|Strikeout|B|Slider|32|0|0|2|14|85
+Evan Phillips|R|Khris Davis|R|Strikeout|B|Slider|33|1|0|2|13|84
+Evan Phillips|R|Khris Davis|R|Strikeout|C|Four-Seam Fastball|34|2|0|2|6|94
+Evan Phillips|R|Khris Davis|R|Strikeout|S|Four-Seam Fastball|35|2|1|2|12|93
+Evan Phillips|R|Khris Davis|R|Strikeout|B|Four-Seam Fastball|36|2|2|2|11|94
+Evan Phillips|R|Khris Davis|R|Strikeout|S|Four-Seam Fastball|37|3|2|2|6|95
+Evan Phillips|R|Chad Pinder|R|Single|S|Slider|38|0|0|0|14|86
+Evan Phillips|R|Chad Pinder|R|Single|B|Four-Seam Fastball|39|0|1|0|13|94
+Evan Phillips|R|Chad Pinder|R|Single|D|Slider|40|1|1|0|8|85
+Evan Phillips|R|Mark Canha|R|Strikeout|F|Four-Seam Fastball|41|0|0|0|4|93
+Evan Phillips|R|Mark Canha|R|Strikeout|C|Four-Seam Fastball|42|0|1|0|5|94
+Evan Phillips|R|Mark Canha|R|Strikeout|S|Four-Seam Fastball|43|0|2|0|2|94
+Evan Phillips|R|Ramon Laureano|R|Flyout|C|Slider|44|0|0|1|12|83
+Evan Phillips|R|Ramon Laureano|R|Flyout|W|Slider|45|0|1|1|14|84
+Evan Phillips|R|Ramon Laureano|R|Flyout|F|Four-Seam Fastball|46|0|2|1|12|94
+Evan Phillips|R|Ramon Laureano|R|Flyout|X|Slider|47|0|2|1|9|84
+Evan Phillips|R|Willians Astudillo|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|94
+Evan Phillips|R|Willians Astudillo|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|93
+Evan Phillips|R|Willians Astudillo|R|Groundout|F|Four-Seam Fastball|2|1|1|0|5|94
+Evan Phillips|R|Willians Astudillo|R|Groundout|B|Slider|3|1|2|0|14|85
+Evan Phillips|R|Willians Astudillo|R|Groundout|X|Slider|4|2|2|0|14|84
+Evan Phillips|R|Nelson Cruz|R|Walk|F|Four-Seam Fastball|5|0|0|1|3|95
+Evan Phillips|R|Nelson Cruz|R|Walk|B|Four-Seam Fastball|6|0|1|1|14|94
+Evan Phillips|R|Nelson Cruz|R|Walk|B|Slider|7|1|1|1|14|85
+Evan Phillips|R|Nelson Cruz|R|Walk|B|Slider|8|2|1|1|14|85
+Evan Phillips|R|Nelson Cruz|R|Walk|B|Slider|9|3|1|1|13|83
+Evan Phillips|R|Eddie Rosario|L|Lineout|C|Four-Seam Fastball|10|0|0|1|4|94
+Evan Phillips|R|Eddie Rosario|L|Lineout|B|Four-Seam Fastball|11|0|1|1|11|94
+Evan Phillips|R|Eddie Rosario|L|Lineout|X|Changeup|12|1|1|1|13|86
+Evan Phillips|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|13|0|0|2|14|94
+Evan Phillips|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|14|1|0|2|13|94
+Evan Phillips|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|15|2|0|2|14|93
+Evan Phillips|R|C.J. Cron|R|Walk|C|Four-Seam Fastball|16|3|0|2|8|93
+Evan Phillips|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|17|3|1|2|13|93
+Evan Phillips|R|Jake Cave|L|Flyout|B|Four-Seam Fastball|18|0|0|2|14|95
+Evan Phillips|R|Jake Cave|L|Flyout|B|Changeup|19|1|0|2|11|85
+Evan Phillips|R|Jake Cave|L|Flyout|X|Four-Seam Fastball|20|2|0|2|6|93
+Evan Phillips|R|Jonathan Schoop|R|Strikeout|C|Four-Seam Fastball|21|0|0|0|8|93
+Evan Phillips|R|Jonathan Schoop|R|Strikeout|S|Slider|22|0|1|0|14|84
+Evan Phillips|R|Jonathan Schoop|R|Strikeout|S|Slider|23|0|2|0|14|83
+Evan Phillips|R|Ehire Adrianza|L|Single|B|Four-Seam Fastball|24|0|0|1|13|93
+Evan Phillips|R|Ehire Adrianza|L|Single|D|Four-Seam Fastball|25|1|0|1|11|92
+Evan Phillips|R|Byron Buxton|R|Grounded Into DP|F|Four-Seam Fastball|26|0|0|1|13|93
+Evan Phillips|R|Byron Buxton|R|Grounded Into DP|B|Four-Seam Fastball|27|0|1|1|11|93
+Evan Phillips|R|Byron Buxton|R|Grounded Into DP|S|Four-Seam Fastball|28|1|1|1|6|92
+Evan Phillips|R|Byron Buxton|R|Grounded Into DP|F|Slider|29|1|2|1|14|84
+Evan Phillips|R|Byron Buxton|R|Grounded Into DP|X|Four-Seam Fastball|30|1|2|1|2|93
+Evan Phillips|R|Jose Abreu|R|Strikeout|C|Changeup|0|0|0|0|7|86
+Evan Phillips|R|Jose Abreu|R|Strikeout|F|Slider|1|0|1|0|8|85
+Evan Phillips|R|Jose Abreu|R|Strikeout|B|Slider|2|0|2|0|14|85
+Evan Phillips|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|4|94
+Evan Phillips|R|James McCann|R|Single|B|Four-Seam Fastball|4|0|0|1|14|94
+Evan Phillips|R|James McCann|R|Single|D|Changeup|5|1|0|1|8|86
+Evan Phillips|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|6|0|0|1|13|93
+Evan Phillips|R|Yoan Moncada|L|Walk|B|Four-Seam Fastball|7|1|0|1|11|94
+Evan Phillips|R|Yoan Moncada|L|Walk|B|Changeup|8|2|0|1|11|85
+Evan Phillips|R|Yoan Moncada|L|Walk|F|Four-Seam Fastball|9|3|0|1|7|93
+Evan Phillips|R|Yoan Moncada|L|Walk|F|Changeup|10|3|1|1|8|85
+Evan Phillips|R|Yoan Moncada|L|Walk|*B|Four-Seam Fastball|11|3|2|1|14|94
+Evan Phillips|R|Welington Castillo|R|Single|B|Slider|12|0|0|1|14|83
+Evan Phillips|R|Welington Castillo|R|Single|D|Four-Seam Fastball|13|1|0|1|2|92
+Evan Phillips|R|Ryan Cordell|R|Hit By Pitch|C|Slider|14|0|0|1|9|83
+Evan Phillips|R|Ryan Cordell|R|Hit By Pitch|H|Slider|15|0|1|1|11|83
+Evan Phillips|R|Jose Rondon|R|Strikeout|C|Four-Seam Fastball|16|0|0|1|14|93
+Evan Phillips|R|Jose Rondon|R|Strikeout|T|Four-Seam Fastball|17|0|1|1|12|93
+Evan Phillips|R|Jose Rondon|R|Strikeout|F|Four-Seam Fastball|18|0|2|1|12|94
+Evan Phillips|R|Jose Rondon|R|Strikeout|C|Four-Seam Fastball|19|0|2|1|6|94
+Evan Phillips|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|93
+Evan Phillips|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|94
+Evan Phillips|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|2|2|0|0|13|93
+Evan Phillips|R|Jackie Bradley Jr.|L|Walk|*B|Four-Seam Fastball|3|3|0|0|14|93
+Evan Phillips|R|Christian Vazquez|R|Single|S|Four-Seam Fastball|4|0|0|0|2|94
+Evan Phillips|R|Christian Vazquez|R|Single|B|Four-Seam Fastball|5|0|1|0|14|94
+Evan Phillips|R|Christian Vazquez|R|Single|F|Four-Seam Fastball|6|1|1|0|4|94
+Evan Phillips|R|Christian Vazquez|R|Single|*B|Slider|7|1|2|0|14|84
+Evan Phillips|R|Christian Vazquez|R|Single|F|Four-Seam Fastball|8|2|2|0|3|92
+Evan Phillips|R|Christian Vazquez|R|Single|D|Four-Seam Fastball|9|2|2|0|8|94
+Evan Phillips|R|Andrew Benintendi|L|Hit By Pitch|H|Slider|10|0|0|0|14|82
+Evan Phillips|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|11|0|0|0|11|94
+Evan Phillips|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|12|0|1|0|11|94
+Evan Phillips|R|Mookie Betts|R|Walk|B|Slider|13|1|1|0|9|84
+Evan Phillips|R|Mookie Betts|R|Walk|B|Slider|14|2|1|0|14|84
+Evan Phillips|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|15|3|1|0|11|94
+Evan Phillips|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|16|3|2|0|6|94
+Evan Phillips|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|17|3|2|0|3|94
+Evan Phillips|R|Mookie Betts|R|Walk|B|Slider|18|3|2|0|11|84
+Evan Phillips|R|Shohei Ohtani|L|Groundout|B|Four-Seam Fastball|0|0|0|1|12|94
+Evan Phillips|R|Shohei Ohtani|L|Groundout|B|Four-Seam Fastball|1|1|0|1|14|95
+Evan Phillips|R|Shohei Ohtani|L|Groundout|X|Four-Seam Fastball|2|2|0|1|13|96
+Evan Phillips|R|Andrelton Simmons|R|Single|B|Slider|3|0|0|2|14|85
+Evan Phillips|R|Andrelton Simmons|R|Single|F|Four-Seam Fastball|4|1|0|2|6|96
+Evan Phillips|R|Andrelton Simmons|R|Single|E|Four-Seam Fastball|5|1|1|2|8|95
+Evan Phillips|R|Brian Goodwin|L|Double|C|Four-Seam Fastball|6|0|0|2|13|93
+Evan Phillips|R|Brian Goodwin|L|Double|C|Two-Seam Fastball|7|0|1|2|13|93
+Evan Phillips|R|Brian Goodwin|L|Double|E|Slider|8|0|2|2|14|84
+Evan Phillips|R|Kole Calhoun|L|Single|B|Four-Seam Fastball|9|0|0|2|14|96
+Evan Phillips|R|Kole Calhoun|L|Single|W|Changeup|10|1|0|2|14|86
+Evan Phillips|R|Kole Calhoun|L|Single|E|Four-Seam Fastball|11|1|1|2|9|95
+Evan Phillips|R|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|12|0|0|2|5|94
+Evan Phillips|R|Jonathan Lucroy|R|Strikeout|B|Slider|13|0|1|2|13|85
+Evan Phillips|R|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|14|1|1|2|5|94
+Evan Phillips|R|Jonathan Lucroy|R|Strikeout|S|Four-Seam Fastball|15|1|2|2|1|95
+Evan Phillips|R|Justin Bour|L|Groundout|F|Four-Seam Fastball|16|0|0|0|13|95
+Evan Phillips|R|Justin Bour|L|Groundout|F|Two-Seam Fastball|17|0|1|0|13|94
+Evan Phillips|R|Justin Bour|L|Groundout|B|Four-Seam Fastball|18|0|2|0|12|95
+Evan Phillips|R|Justin Bour|L|Groundout|B|Changeup|19|1|2|0|11|86
+Evan Phillips|R|Justin Bour|L|Groundout|X|Two-Seam Fastball|20|2|2|0|13|95
+Evan Phillips|R|David Fletcher|R|Groundout|B|Slider|21|0|0|1|14|84
+Evan Phillips|R|David Fletcher|R|Groundout|C|Four-Seam Fastball|22|1|0|1|6|94
+Evan Phillips|R|David Fletcher|R|Groundout|X|Changeup|23|1|1|1|5|86
+Evan Phillips|R|Tommy La Stella|L|Double|D|Four-Seam Fastball|24|0|0|2|3|94
+Evan Phillips|R|Mike Trout|R|Walk|C|Four-Seam Fastball|25|0|0|2|6|96
+Evan Phillips|R|Mike Trout|R|Walk|B|Four-Seam Fastball|26|0|1|2|12|96
+Evan Phillips|R|Mike Trout|R|Walk|B|Four-Seam Fastball|27|1|1|2|12|96
+Evan Phillips|R|Mike Trout|R|Walk|*B|Changeup|28|2|1|2|14|87
+Evan Phillips|R|Mike Trout|R|Walk|C|Four-Seam Fastball|29|3|1|2|14|95
+Evan Phillips|R|Mike Trout|R|Walk|*B|Changeup|30|3|2|2|14|87
+Evan Phillips|R|Shohei Ohtani|L|Groundout|C|Two-Seam Fastball|31|0|0|2|1|94
+Evan Phillips|R|Shohei Ohtani|L|Groundout|B|Changeup|32|0|1|2|11|85
+Evan Phillips|R|Shohei Ohtani|L|Groundout|B|Four-Seam Fastball|33|1|1|2|12|94
+Evan Phillips|R|Shohei Ohtani|L|Groundout|C|Changeup|34|2|1|2|11|85
+Evan Phillips|R|Shohei Ohtani|L|Groundout|X|Four-Seam Fastball|35|2|2|2|12|95
+Evan Phillips|R|Luke Maile|R|Walk|B|Four-Seam Fastball|0|0|0|2|11|95
+Evan Phillips|R|Luke Maile|R|Walk|B|Slider|1|1|0|2|14|84
+Evan Phillips|R|Luke Maile|R|Walk|B|Four-Seam Fastball|2|2|0|2|11|95
+Evan Phillips|R|Luke Maile|R|Walk|C|Four-Seam Fastball|3|3|0|2|5|94
+Evan Phillips|R|Luke Maile|R|Walk|C|Four-Seam Fastball|4|3|1|2|9|94
+Evan Phillips|R|Luke Maile|R|Walk|B|Four-Seam Fastball|5|3|2|2|14|95
+Evan Phillips|R|Cavan Biggio|L|Strikeout|C|Four-Seam Fastball|6|0|0|2|8|93
+Evan Phillips|R|Cavan Biggio|L|Strikeout|B|Four-Seam Fastball|7|0|1|2|11|94
+Evan Phillips|R|Cavan Biggio|L|Strikeout|*B|Changeup|8|1|1|2|14|87
+Evan Phillips|R|Cavan Biggio|L|Strikeout|B|Four-Seam Fastball|9|2|1|2|11|93
+Evan Phillips|R|Cavan Biggio|L|Strikeout|F|Four-Seam Fastball|10|3|1|2|14|94
+Evan Phillips|R|Cavan Biggio|L|Strikeout|S|Four-Seam Fastball|11|3|2|2|1|94
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Double|B|Four-Seam Fastball|12|0|0|0|14|95
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Double|C|Four-Seam Fastball|13|1|0|0|6|94
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Double|*B|Slider|14|1|1|0|14|84
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Double|E|Four-Seam Fastball|15|2|1|0|5|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Single|B|Four-Seam Fastball|16|0|0|0|14|95
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Single|B|Four-Seam Fastball|17|1|0|0|13|95
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Single|B|Four-Seam Fastball|18|2|0|0|14|95
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Single|C|Four-Seam Fastball|19|3|0|0|4|95
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Single|E|Four-Seam Fastball|20|3|1|0|8|94
+Evan Phillips|R|Randal Grichuk|R|Strikeout|*B|Slider|21|0|0|0|14|84
+Evan Phillips|R|Randal Grichuk|R|Strikeout|F|Slider|22|1|0|0|13|84
+Evan Phillips|R|Randal Grichuk|R|Strikeout|B|Four-Seam Fastball|23|1|1|0|11|94
+Evan Phillips|R|Randal Grichuk|R|Strikeout|S|Slider|24|2|1|0|14|83
+Evan Phillips|R|Randal Grichuk|R|Strikeout|*B|Slider|25|2|2|0|14|85
+Evan Phillips|R|Randal Grichuk|R|Strikeout|F|Slider|26|3|2|0|14|85
+Evan Phillips|R|Randal Grichuk|R|Strikeout|T|Four-Seam Fastball|27|3|2|0|1|94
+Evan Phillips|R|Justin Smoak|L|Groundout|C|Four-Seam Fastball|28|0|0|1|3|94
+Evan Phillips|R|Justin Smoak|L|Groundout|C|Four-Seam Fastball|29|0|1|1|13|93
+Evan Phillips|R|Justin Smoak|L|Groundout|*B|Changeup|30|0|2|1|13|90
+Evan Phillips|R|Justin Smoak|L|Groundout|X|Four-Seam Fastball|31|1|2|1|11|95
+Evan Phillips|R|Eric Sogard|L|Single|D|Four-Seam Fastball|0|0|0|1|11|92
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|C|Slider|1|0|0|1|12|82
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|W|Slider|2|0|1|1|14|84
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|B|Slider|3|0|2|1|14|83
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|E|Four-Seam Fastball|4|1|2|1|11|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|C|Slider|5|0|0|1|14|83
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|F|Slider|6|0|1|1|5|83
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Strikeout|C|Two-Seam Fastball|7|0|2|1|5|94
+Evan Phillips|R|Justin Smoak|L|Single|B|Two-Seam Fastball|8|0|0|2|14|92
+Evan Phillips|R|Justin Smoak|L|Single|F|Four-Seam Fastball|9|1|0|2|2|92
+Evan Phillips|R|Justin Smoak|L|Single|B|Four-Seam Fastball|10|1|1|2|14|93
+Evan Phillips|R|Justin Smoak|L|Single|E|Four-Seam Fastball|11|2|1|2|7|93
+Evan Phillips|R|Rowdy Tellez|L|Groundout|X|Slider|12|0|0|2|13|83
+Evan Phillips|R|Ronald Guzman|L|Lineout|B|Four-Seam Fastball|0|0|0|0|11|93
+Evan Phillips|R|Ronald Guzman|L|Lineout|C|Four-Seam Fastball|1|1|0|0|4|92
+Evan Phillips|R|Ronald Guzman|L|Lineout|X|Slider|2|1|1|0|4|84
+Evan Phillips|R|Jeff Mathis|R|Strikeout|T|Four-Seam Fastball|3|0|0|1|4|94
+Evan Phillips|R|Jeff Mathis|R|Strikeout|F|Slider|4|0|1|1|9|85
+Evan Phillips|R|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|5|0|2|1|9|94
+Evan Phillips|R|Jeff Mathis|R|Strikeout|S|Slider|6|0|2|1|3|85
+Evan Phillips|R|Shin-Soo Choo|L|Strikeout|B|Slider|7|0|0|2|13|87
+Evan Phillips|R|Shin-Soo Choo|L|Strikeout|S|Four-Seam Fastball|8|1|0|2|11|93
+Evan Phillips|R|Shin-Soo Choo|L|Strikeout|C|Two-Seam Fastball|9|1|1|2|2|93
+Evan Phillips|R|Shin-Soo Choo|L|Strikeout|F|Changeup|10|1|2|2|11|84
+Evan Phillips|R|Shin-Soo Choo|L|Strikeout|S|Changeup|11|1|2|2|13|84
+Evan Phillips|R|Gavin Lux|L|Single|F|Four-Seam Fastball|0|0|0|1|11|93
+Evan Phillips|R|Gavin Lux|L|Single|B|Two-Seam Fastball|1|0|1|1|11|93
+Evan Phillips|R|Gavin Lux|L|Single|D|Changeup|2|1|1|1|11|83
+Evan Phillips|R|A.J. Pollock|R|Grounded Into DP|B|Slider|3|0|0|1|12|84
+Evan Phillips|R|A.J. Pollock|R|Grounded Into DP|S|Four-Seam Fastball|4|1|0|1|11|94
+Evan Phillips|R|A.J. Pollock|R|Grounded Into DP|B|Four-Seam Fastball|5|1|1|1|14|94
+Evan Phillips|R|A.J. Pollock|R|Grounded Into DP|X|Four-Seam Fastball|6|2|1|1|7|94
+Evan Phillips|R|David Freese|R|Strikeout|C|Slider|7|0|0|0|3|86
+Evan Phillips|R|David Freese|R|Strikeout|B|Slider|8|0|1|0|14|87
+Evan Phillips|R|David Freese|R|Strikeout|S|Four-Seam Fastball|9|1|1|0|11|93
+Evan Phillips|R|David Freese|R|Strikeout|F|Four-Seam Fastball|10|1|2|0|11|94
+Evan Phillips|R|David Freese|R|Strikeout|C|Slider|11|1|2|0|9|87
+Evan Phillips|R|Chris Taylor|R|Hit By Pitch|B|Two-Seam Fastball|12|0|0|1|11|94
+Evan Phillips|R|Chris Taylor|R|Hit By Pitch|F|Two-Seam Fastball|13|1|0|1|4|93
+Evan Phillips|R|Chris Taylor|R|Hit By Pitch|B|Four-Seam Fastball|14|1|1|1|12|94
+Evan Phillips|R|Chris Taylor|R|Hit By Pitch|H|Four-Seam Fastball|15|2|1|1|11|93
+Evan Phillips|R|Cody Bellinger|L|Pop Out|S|Changeup|16|0|0|1|7|83
+Evan Phillips|R|Cody Bellinger|L|Pop Out|X|Four-Seam Fastball|17|0|1|1|5|93
+Evan Phillips|R|Enrique Hernandez|R|Walk|B|Slider|18|0|0|2|11|83
+Evan Phillips|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|19|1|0|2|12|93
+Evan Phillips|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|20|2|0|2|9|92
+Evan Phillips|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|21|3|0|2|14|93
+Evan Phillips|R|Corey Seager|L|Groundout|B|Changeup|22|0|0|2|13|83
+Evan Phillips|R|Corey Seager|L|Groundout|C|Four-Seam Fastball|23|1|0|2|7|92
+Evan Phillips|R|Corey Seager|L|Groundout|F|Four-Seam Fastball|24|1|1|2|2|93
+Evan Phillips|R|Corey Seager|L|Groundout|X|Slider|25|1|2|2|6|84
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Field Error|B|Four-Seam Fastball|0|0|0|2|14|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Field Error|*B|Slider|1|1|0|2|14|85
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Field Error|F|Four-Seam Fastball|2|2|0|2|2|93
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Field Error|S|Four-Seam Fastball|3|2|1|2|4|94
+Evan Phillips|R|Lourdes Gurriel Jr.|R|Field Error|E|Slider|4|2|2|2|14|86
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|F|Four-Seam Fastball|5|0|0|2|1|94
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Single|D|Four-Seam Fastball|6|0|1|2|4|94
+Evan Phillips|R|Randal Grichuk|R|Flyout|B|Slider|7|0|0|2|14|85
+Evan Phillips|R|Randal Grichuk|R|Flyout|F|Slider|8|1|0|2|6|85
+Evan Phillips|R|Randal Grichuk|R|Flyout|*B|Slider|9|1|1|2|14|87
+Evan Phillips|R|Randal Grichuk|R|Flyout|B|Four-Seam Fastball|10|2|1|2|12|94
+Evan Phillips|R|Randal Grichuk|R|Flyout|X|Four-Seam Fastball|11|3|1|2|4|93
+Evan Phillips|R|Randal Grichuk|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|93
+Evan Phillips|R|Randal Grichuk|R|Strikeout|F|Slider|1|0|1|0|9|86
+Evan Phillips|R|Randal Grichuk|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|93
+Evan Phillips|R|Randal Grichuk|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|95
+Evan Phillips|R|Randal Grichuk|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|9|94
+Evan Phillips|R|Reese McGuire|L|Strikeout|F|Four-Seam Fastball|5|0|0|1|11|93
+Evan Phillips|R|Reese McGuire|L|Strikeout|B|Two-Seam Fastball|6|0|1|1|11|94
+Evan Phillips|R|Reese McGuire|L|Strikeout|S|Two-Seam Fastball|7|1|1|1|12|93
+Evan Phillips|R|Reese McGuire|L|Strikeout|S|Slider|8|1|2|1|14|86
+Evan Phillips|R|Rowdy Tellez|L|Double|C|Two-Seam Fastball|9|0|0|2|7|94
+Evan Phillips|R|Rowdy Tellez|L|Double|B|Slider|10|0|1|2|14|87
+Evan Phillips|R|Rowdy Tellez|L|Double|D|Changeup|11|1|1|2|8|85
+Evan Phillips|R|Derek Fisher|L|Strikeout|C|Changeup|12|0|0|2|7|86
+Evan Phillips|R|Derek Fisher|L|Strikeout|C|Two-Seam Fastball|13|0|1|2|3|94
+Evan Phillips|R|Derek Fisher|L|Strikeout|B|Two-Seam Fastball|14|0|2|2|11|95
+Evan Phillips|R|Derek Fisher|L|Strikeout|B|Four-Seam Fastball|15|1|2|2|13|94
+Evan Phillips|R|Derek Fisher|L|Strikeout|*B|Changeup|16|2|2|2|13|86
+Evan Phillips|R|Derek Fisher|L|Strikeout|S|Four-Seam Fastball|17|3|2|2|4|93
+Evan Phillips|R|Mookie Betts|R|Walk|*B|Slider|0|0|0|2|14|84
+Evan Phillips|R|Mookie Betts|R|Walk|C|Slider|1|1|0|2|14|83
+Evan Phillips|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|2|1|1|2|12|94
+Evan Phillips|R|Mookie Betts|R|Walk|B|Slider|3|2|1|2|14|84
+Evan Phillips|R|Mookie Betts|R|Walk|B|Slider|4|3|1|2|14|84
+Evan Phillips|R|Mitch Moreland|L|Strikeout|S|Four-Seam Fastball|5|0|0|2|2|93
+Evan Phillips|R|Mitch Moreland|L|Strikeout|S|Four-Seam Fastball|6|0|1|2|1|94
+Evan Phillips|R|Mitch Moreland|L|Strikeout|S|Four-Seam Fastball|7|0|2|2|11|95
+Evan Phillips|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|8|0|0|0|8|94
+Evan Phillips|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|9|0|1|0|9|94
+Evan Phillips|R|J.D. Martinez|R|Double|D|Four-Seam Fastball|10|0|2|0|4|94
+Evan Phillips|R|Xander Bogaerts|R|Single|C|Four-Seam Fastball|11|0|0|0|1|94
+Evan Phillips|R|Xander Bogaerts|R|Single|S|Four-Seam Fastball|12|0|1|0|12|94
+Evan Phillips|R|Xander Bogaerts|R|Single|D|Slider|13|0|2|0|5|83
+Evan Phillips|R|Rafael Devers|L|Sac Bunt|X|Four-Seam Fastball|14|0|0|0|2|94
+Evan Phillips|R|Eduardo Nunez|R|Single|C|Four-Seam Fastball|15|0|0|1|4|95
+Evan Phillips|R|Eduardo Nunez|R|Single|E|Slider|16|0|1|1|14|84
+Evan Phillips|R|Jackie Bradley Jr.|L|Sac Fly|B|Four-Seam Fastball|17|0|0|1|11|94
+Evan Phillips|R|Jackie Bradley Jr.|L|Sac Fly|B|Four-Seam Fastball|18|1|0|1|13|93
+Evan Phillips|R|Jackie Bradley Jr.|L|Sac Fly|*B|Four-Seam Fastball|19|2|0|1|13|93
+Evan Phillips|R|Jackie Bradley Jr.|L|Sac Fly|C|Four-Seam Fastball|20|3|0|1|5|93
+Evan Phillips|R|Jackie Bradley Jr.|L|Sac Fly|E|Four-Seam Fastball|21|3|1|1|11|92
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|C|Slider|0|0|0|2|9|82
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|B|Slider|1|0|1|2|14|85
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|T|Four-Seam Fastball|2|1|1|2|9|93
+Evan Phillips|R|Steve Pearce|R|Hit By Pitch|H|Four-Seam Fastball|3|1|2|2|11|93
+Evan Phillips|R|J.D. Martinez|R|Strikeout|S|Four-Seam Fastball|4|0|0|2|4|94
+Evan Phillips|R|J.D. Martinez|R|Strikeout|S|Four-Seam Fastball|5|0|1|2|6|94
+Evan Phillips|R|J.D. Martinez|R|Strikeout|*B|Slider|6|0|2|2|14|84
+Evan Phillips|R|J.D. Martinez|R|Strikeout|*B|Slider|7|1|2|2|14|83
+Evan Phillips|R|J.D. Martinez|R|Strikeout|S|Slider|8|2|2|2|14|83
+Evan Phillips|R|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|9|0|0|0|14|93
+Evan Phillips|R|Xander Bogaerts|R|Strikeout|F|Slider|10|1|0|0|8|83
+Evan Phillips|R|Xander Bogaerts|R|Strikeout|F|Four-Seam Fastball|11|1|1|0|11|93
+Evan Phillips|R|Xander Bogaerts|R|Strikeout|*B|Slider|12|1|2|0|14|83
+Evan Phillips|R|Xander Bogaerts|R|Strikeout|C|Four-Seam Fastball|13|2|2|0|14|93
+Evan Phillips|R|Dustin Pedroia|R|Field Error|C|Four-Seam Fastball|14|0|0|1|4|93
+Evan Phillips|R|Dustin Pedroia|R|Field Error|S|Four-Seam Fastball|15|0|1|1|2|93
+Evan Phillips|R|Dustin Pedroia|R|Field Error|F|Four-Seam Fastball|16|0|2|1|9|94
+Evan Phillips|R|Dustin Pedroia|R|Field Error|B|Slider|17|0|2|1|14|85
+Evan Phillips|R|Dustin Pedroia|R|Field Error|D|Four-Seam Fastball|18|1|2|1|8|94
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|B|Slider|19|0|0|1|14|82
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|B|Slider|20|1|0|1|14|82
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|B|Four-Seam Fastball|21|2|0|1|14|95
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|C|Four-Seam Fastball|22|3|0|1|6|94
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|F|Four-Seam Fastball|23|3|1|1|6|94
+Evan Phillips|R|Eduardo Nunez|R|Strikeout|W|Slider|24|3|2|1|14|84
+Evan Phillips|R|Christian Vazquez|R|Lineout|C|Four-Seam Fastball|0|0|0|0|3|93
+Evan Phillips|R|Christian Vazquez|R|Lineout|T|Four-Seam Fastball|1|0|1|0|5|93
+Evan Phillips|R|Christian Vazquez|R|Lineout|B|Four-Seam Fastball|2|0|2|0|12|94
+Evan Phillips|R|Christian Vazquez|R|Lineout|X|Four-Seam Fastball|3|1|2|0|8|95
+Evan Phillips|R|Dustin Pedroia|R|Grounded Into DP|F|Slider|4|0|0|1|8|82
+Evan Phillips|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|5|0|1|1|14|94
+Evan Phillips|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|6|1|1|1|14|94
+Evan Phillips|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|7|2|1|1|11|94
+Evan Phillips|R|Dustin Pedroia|R|Grounded Into DP|X|Four-Seam Fastball|8|3|1|1|8|93
+Evan Phillips|R|Brock Holt|L|Forceout|C|Slider|0|0|0|0|8|82
+Evan Phillips|R|Brock Holt|L|Forceout|B|Changeup|1|0|1|0|13|83
+Evan Phillips|R|Brock Holt|L|Forceout|B|Four-Seam Fastball|2|1|1|0|13|92
+Evan Phillips|R|Brock Holt|L|Forceout|X|Changeup|3|2|1|0|7|84
+Evan Phillips|R|Gorkys Hernandez|R|Pop Out|C|Slider|4|0|0|1|11|84
+Evan Phillips|R|Gorkys Hernandez|R|Pop Out|C|Four-Seam Fastball|5|0|1|1|9|94
+Evan Phillips|R|Gorkys Hernandez|R|Pop Out|X|Slider|6|0|2|1|14|84
+Evan Phillips|R|Jackie Bradley Jr.|L|Strikeout|T|Four-Seam Fastball|7|0|0|2|6|95
+Evan Phillips|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|8|0|1|2|5|94
+Evan Phillips|R|Jackie Bradley Jr.|L|Strikeout|T|Four-Seam Fastball|9|0|2|2|1|95
+Evan Phillips|R|Mookie Betts|R|Pop Out|S|Four-Seam Fastball|10|0|0|0|3|92
+Evan Phillips|R|Mookie Betts|R|Pop Out|F|Changeup|11|0|1|0|14|85
+Evan Phillips|R|Mookie Betts|R|Pop Out|X|Four-Seam Fastball|12|0|2|0|11|93
+Evan Phillips|R|Rafael Devers|L|Double|B|Four-Seam Fastball|13|0|0|1|13|94
+Evan Phillips|R|Rafael Devers|L|Double|B|Four-Seam Fastball|14|1|0|1|13|95
+Evan Phillips|R|Rafael Devers|L|Double|C|Slider|15|2|0|1|5|85
+Evan Phillips|R|Rafael Devers|L|Double|S|Four-Seam Fastball|16|2|1|1|11|94
+Evan Phillips|R|Rafael Devers|L|Double|D|Slider|17|2|2|1|5|84
+Evan Phillips|R|Xander Bogaerts|R|Single|C|Slider|18|0|0|1|11|82
+Evan Phillips|R|Xander Bogaerts|R|Single|F|Four-Seam Fastball|19|0|1|1|5|94
+Evan Phillips|R|Xander Bogaerts|R|Single|F|Four-Seam Fastball|20|0|2|1|3|93
+Evan Phillips|R|Xander Bogaerts|R|Single|E|Slider|21|0|2|1|8|84
+Evan Phillips|R|J.D. Martinez|R|Lineout|F|Four-Seam Fastball|22|0|0|1|3|93
+Evan Phillips|R|J.D. Martinez|R|Lineout|F|Four-Seam Fastball|23|0|1|1|12|93
+Evan Phillips|R|J.D. Martinez|R|Lineout|X|Changeup|24|0|2|1|9|85
+Evan Phillips|R|Raimel Tapia|L|Walk|B|Four-Seam Fastball|0|0|0|2|13|94
+Evan Phillips|R|Raimel Tapia|L|Walk|F|Changeup|1|1|0|2|13|85
+Evan Phillips|R|Raimel Tapia|L|Walk|B|Changeup|2|1|1|2|11|84
+Evan Phillips|R|Raimel Tapia|L|Walk|S|Four-Seam Fastball|3|2|1|2|13|93
+Evan Phillips|R|Raimel Tapia|L|Walk|B|Two-Seam Fastball|4|2|2|2|11|93
+Evan Phillips|R|Raimel Tapia|L|Walk|F|Changeup|5|3|2|2|13|85
+Evan Phillips|R|Raimel Tapia|L|Walk|B|Two-Seam Fastball|6|3|2|2|13|94
+Evan Phillips|R|Trevor Story|R|Strikeout|C|Four-Seam Fastball|7|0|0|2|8|94
+Evan Phillips|R|Trevor Story|R|Strikeout|F|Slider|8|0|1|2|5|84
+Evan Phillips|R|Trevor Story|R|Strikeout|F|Slider|9|0|2|2|11|83
+Evan Phillips|R|Trevor Story|R|Strikeout|S|Four-Seam Fastball|10|0|2|2|12|95
+Evan Phillips|R|John Hicks|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|94
+Evan Phillips|R|John Hicks|R|Strikeout|T|Four-Seam Fastball|1|1|0|0|5|93
+Evan Phillips|R|John Hicks|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|1|93
+Evan Phillips|R|John Hicks|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|12|94
+Evan Phillips|R|Travis Demeritte|R|Strikeout|C|Four-Seam Fastball|4|0|0|1|2|94
+Evan Phillips|R|Travis Demeritte|R|Strikeout|F|Slider|5|0|1|1|14|87
+Evan Phillips|R|Travis Demeritte|R|Strikeout|B|Slider|6|0|2|1|14|88
+Evan Phillips|R|Travis Demeritte|R|Strikeout|C|Four-Seam Fastball|7|1|2|1|12|94
+Evan Phillips|R|Grayson Greiner|R|Single|D|Slider|8|0|0|2|8|86
+Evan Phillips|R|Willi Castro|L|Walk|C|Four-Seam Fastball|9|0|0|2|11|94
+Evan Phillips|R|Willi Castro|L|Walk|B|Four-Seam Fastball|10|0|1|2|13|94
+Evan Phillips|R|Willi Castro|L|Walk|B|Four-Seam Fastball|11|1|1|2|12|92
+Evan Phillips|R|Willi Castro|L|Walk|F|Four-Seam Fastball|12|2|1|2|2|94
+Evan Phillips|R|Willi Castro|L|Walk|B|Four-Seam Fastball|13|2|2|2|11|94
+Evan Phillips|R|Willi Castro|L|Walk|B|Four-Seam Fastball|14|3|2|2|11|94
+Evan Phillips|R|Victor Reyes|L|Strikeout|B|Four-Seam Fastball|15|0|0|2|13|93
+Evan Phillips|R|Victor Reyes|L|Strikeout|C|Slider|16|1|0|2|13|85
+Evan Phillips|R|Victor Reyes|L|Strikeout|B|Slider|17|1|1|2|11|84
+Evan Phillips|R|Victor Reyes|L|Strikeout|F|Four-Seam Fastball|18|2|1|2|8|93
+Evan Phillips|R|Victor Reyes|L|Strikeout|*B|Slider|19|2|2|2|14|87
+Evan Phillips|R|Victor Reyes|L|Strikeout|C|Slider|20|3|2|2|13|85
+Evan Phillips|R|Robinson Chirinos|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|13|95
+Evan Phillips|R|Robinson Chirinos|R|Pop Out|X|Four-Seam Fastball|1|1|0|0|1|95
+Evan Phillips|R|Tony Kemp|L|Walk|F|Four-Seam Fastball|2|0|0|1|1|95
+Evan Phillips|R|Tony Kemp|L|Walk|B|Two-Seam Fastball|3|0|1|1|13|96
+Evan Phillips|R|Tony Kemp|L|Walk|B|Slider|4|1|1|1|14|84
+Evan Phillips|R|Tony Kemp|L|Walk|B|Four-Seam Fastball|5|2|1|1|11|95
+Evan Phillips|R|Tony Kemp|L|Walk|B|Four-Seam Fastball|6|3|1|1|13|95
+Evan Phillips|R|Jack Mayfield|R|Forceout|C|Four-Seam Fastball|7|0|0|1|6|94
+Evan Phillips|R|Jack Mayfield|R|Forceout|B|Four-Seam Fastball|8|0|1|1|14|93
+Evan Phillips|R|Jack Mayfield|R|Forceout|F|Slider|9|1|1|1|1|83
+Evan Phillips|R|Jack Mayfield|R|Forceout|F|Four-Seam Fastball|10|1|2|1|3|95
+Evan Phillips|R|Jack Mayfield|R|Forceout|F|Four-Seam Fastball|11|1|2|1|12|95
+Evan Phillips|R|Jack Mayfield|R|Forceout|F|Slider|12|1|2|1|7|83
+Evan Phillips|R|Jack Mayfield|R|Forceout|F|Four-Seam Fastball|13|1|2|1|4|94
+Evan Phillips|R|Jack Mayfield|R|Forceout|X|Four-Seam Fastball|14|1|2|1|4|95
+Evan Phillips|R|Myles Straw|R|Strikeout|F|Four-Seam Fastball|15|0|0|2|2|94
+Evan Phillips|R|Myles Straw|R|Strikeout|S|Four-Seam Fastball|16|0|1|2|6|95
+Evan Phillips|R|Myles Straw|R|Strikeout|B|Four-Seam Fastball|17|0|2|2|14|96
+Evan Phillips|R|Myles Straw|R|Strikeout|C|Slider|18|1|2|2|5|83
+Evan Phillips|R|Derek Fisher|L|Strikeout|C|Four-Seam Fastball|19|0|0|0|2|93
+Evan Phillips|R|Derek Fisher|L|Strikeout|S|Four-Seam Fastball|20|0|1|0|12|93
+Evan Phillips|R|Derek Fisher|L|Strikeout|S|Changeup|21|0|2|0|13|86
+Evan Phillips|R|Alex Bregman|R|Hit By Pitch|C|Four-Seam Fastball|22|0|0|1|14|94
+Evan Phillips|R|Alex Bregman|R|Hit By Pitch|H|Changeup|23|0|1|1|11|86
+Evan Phillips|R|Josh Reddick|L|Single|C|Four-Seam Fastball|24|0|0|1|11|93
+Evan Phillips|R|Josh Reddick|L|Single|B|Four-Seam Fastball|25|0|1|1|12|93
+Evan Phillips|R|Josh Reddick|L|Single|C|Four-Seam Fastball|26|1|1|1|7|93
+Evan Phillips|R|Josh Reddick|L|Single|B|Changeup|27|1|2|1|13|85
+Evan Phillips|R|Josh Reddick|L|Single|B|Changeup|28|2|2|1|11|85
+Evan Phillips|R|Josh Reddick|L|Single|D|Four-Seam Fastball|29|3|2|1|8|93
+Evan Phillips|R|Yuli Gurriel|R|Sac Fly|B|Four-Seam Fastball|30|0|0|1|12|94
+Evan Phillips|R|Yuli Gurriel|R|Sac Fly|E|Slider|31|1|0|1|14|83
+Evan Phillips|R|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|32|0|0|2|14|94
+Evan Phillips|R|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|33|1|0|2|14|94
+Evan Phillips|R|Yordan Alvarez|L|Walk|C|Four-Seam Fastball|34|2|0|2|6|92
+Evan Phillips|R|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|35|2|1|2|14|94
+Evan Phillips|R|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|36|3|1|2|14|94
+Evan Phillips|R|Tim Beckham|R|Strikeout|B|Slider|0|0|0|1|14|84
+Evan Phillips|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|1|1|0|1|8|93
+Evan Phillips|R|Tim Beckham|R|Strikeout|S|Four-Seam Fastball|2|1|1|1|1|93
+Evan Phillips|R|Tim Beckham|R|Strikeout|*B|Slider|3|1|2|1|14|84
+Evan Phillips|R|Tim Beckham|R|Strikeout|*B|Slider|4|2|2|1|14|84
+Evan Phillips|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|5|3|2|1|11|93
+Evan Phillips|R|Tim Beckham|R|Strikeout|S|Slider|6|3|2|1|14|84
+Evan Phillips|R|Mac Williamson|R|Single|C|Four-Seam Fastball|7|0|0|2|14|94
+Evan Phillips|R|Mac Williamson|R|Single|*B|Slider|8|0|1|2|14|84
+Evan Phillips|R|Mac Williamson|R|Single|S|Four-Seam Fastball|9|1|1|2|3|93
+Evan Phillips|R|Mac Williamson|R|Single|E|Four-Seam Fastball|10|1|2|2|4|93
+Evan Phillips|R|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|11|0|0|2|11|92
+Evan Phillips|R|Dee Gordon|L|Strikeout|B|Slider|12|1|0|2|11|83
+Evan Phillips|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|13|2|0|2|6|93
+Evan Phillips|R|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|14|2|1|2|1|92
+Evan Phillips|R|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|15|2|2|2|11|93
+Evan Phillips|R|Mallex Smith|L|Single|F|Four-Seam Fastball|16|0|0|0|5|92
+Evan Phillips|R|Mallex Smith|L|Single|B|Four-Seam Fastball|17|0|1|0|13|93
+Evan Phillips|R|Mallex Smith|L|Single|B|Changeup|18|1|1|0|13|86
+Evan Phillips|R|Mallex Smith|L|Single|D|Four-Seam Fastball|19|2|1|0|14|93
+Evan Phillips|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|20|0|0|0|11|92
+Evan Phillips|R|J.P. Crawford|L|Walk|F|Four-Seam Fastball|21|1|0|0|13|91
+Evan Phillips|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|22|1|1|0|12|91
+Evan Phillips|R|J.P. Crawford|L|Walk|C|Four-Seam Fastball|23|2|1|0|7|92
+Evan Phillips|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|24|2|2|0|11|92
+Evan Phillips|R|J.P. Crawford|L|Walk|F|Four-Seam Fastball|25|3|2|0|13|92
+Evan Phillips|R|J.P. Crawford|L|Walk|B|Changeup|26|3|2|0|13|84
+Evan Phillips|R|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|27|0|0|0|4|93
+Evan Phillips|R|Domingo Santana|R|Strikeout|*B|Slider|28|0|1|0|14|84
+Evan Phillips|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|29|1|1|0|11|93
+Evan Phillips|R|Domingo Santana|R|Strikeout|*B|Slider|30|2|1|0|14|84
+Evan Phillips|R|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|31|3|1|0|5|94
+Evan Phillips|R|Domingo Santana|R|Strikeout|T|Two-Seam Fastball|32|3|2|0|2|93
+Evan Phillips|R|Yandy Diaz|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|94
+Evan Phillips|R|Yandy Diaz|R|Walk|C|Four-Seam Fastball|1|1|0|0|9|93
+Evan Phillips|R|Yandy Diaz|R|Walk|B|Four-Seam Fastball|2|1|1|0|13|95
+Evan Phillips|R|Yandy Diaz|R|Walk|T|Four-Seam Fastball|3|2|1|0|6|94
+Evan Phillips|R|Yandy Diaz|R|Walk|B|Four-Seam Fastball|4|2|2|0|14|95
+Evan Phillips|R|Yandy Diaz|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|95
+Evan Phillips|R|Brandon Lowe|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|14|94
+Evan Phillips|R|Brandon Lowe|L|Strikeout|C|Four-Seam Fastball|7|1|0|0|14|94
+Evan Phillips|R|Brandon Lowe|L|Strikeout|*B|Four-Seam Fastball|8|1|1|0|13|94
+Evan Phillips|R|Brandon Lowe|L|Strikeout|F|Four-Seam Fastball|9|2|1|0|5|93
+Evan Phillips|R|Brandon Lowe|L|Strikeout|B|Four-Seam Fastball|10|2|2|0|11|93
+Evan Phillips|R|Brandon Lowe|L|Strikeout|S|Four-Seam Fastball|11|3|2|0|4|94
+Evan Phillips|R|Mike Zunino|R|Double|B|Four-Seam Fastball|12|0|0|1|12|93
+Evan Phillips|R|Mike Zunino|R|Double|B|Four-Seam Fastball|13|1|0|1|14|94
+Evan Phillips|R|Mike Zunino|R|Double|E|Four-Seam Fastball|14|2|0|1|9|94
+Evan Phillips|R|Jonathan Davis|R|Flyout|C|Four-Seam Fastball|0|0|0|0|6|93
+Evan Phillips|R|Jonathan Davis|R|Flyout|B|Slider|1|0|1|0|14|86
+Evan Phillips|R|Jonathan Davis|R|Flyout|X|Four-Seam Fastball|2|1|1|0|6|93
+Evan Phillips|R|Danny Jansen|R|Flyout|C|Slider|3|0|0|1|6|85
+Evan Phillips|R|Danny Jansen|R|Flyout|S|Slider|4|0|1|1|12|85
+Evan Phillips|R|Danny Jansen|R|Flyout|B|Slider|5|0|2|1|14|87
+Evan Phillips|R|Danny Jansen|R|Flyout|X|Slider|6|1|2|1|2|84
+Evan Phillips|R|Billy McKinney|L|Flyout|X|Four-Seam Fastball|7|0|0|2|5|92
+Evan Phillips|R|Cavan Biggio|L|Flyout|B|Four-Seam Fastball|8|0|0|0|13|93
+Evan Phillips|R|Cavan Biggio|L|Flyout|X|Changeup|9|1|0|0|4|84
+Evan Phillips|R|Randal Grichuk|R|Strikeout|C|Slider|10|0|0|1|6|86
+Evan Phillips|R|Randal Grichuk|R|Strikeout|F|Slider|11|0|1|1|5|84
+Evan Phillips|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|12|0|2|1|5|94
+Evan Phillips|R|Randal Grichuk|R|Strikeout|S|Changeup|13|0|2|1|13|84
+Evan Phillips|R|Vladimir Guerrero Jr.|R|Groundout|X|Slider|14|0|0|2|6|84
+Evan Phillips|R|Rowdy Tellez|L|Walk|B|Four-Seam Fastball|15|0|0|0|11|93
+Evan Phillips|R|Rowdy Tellez|L|Walk|B|Slider|16|1|0|0|11|84
+Evan Phillips|R|Rowdy Tellez|L|Walk|B|Four-Seam Fastball|17|2|0|0|11|92
+Evan Phillips|R|Rowdy Tellez|L|Walk|B|Four-Seam Fastball|18|3|0|0|13|93
+Evan Phillips|R|Jorge Polanco|L|Lineout|C|Slider|0|0|0|0|11|81
+Evan Phillips|R|Jorge Polanco|L|Lineout|B|Four-Seam Fastball|1|0|1|0|13|92
+Evan Phillips|R|Jorge Polanco|L|Lineout|F|Four-Seam Fastball|2|1|1|0|7|92
+Evan Phillips|R|Jorge Polanco|L|Lineout|X|Four-Seam Fastball|3|1|2|0|4|93
+Evan Phillips|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|4|0|0|1|14|94
+Evan Phillips|R|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|5|1|0|1|14|93
+Evan Phillips|R|Nelson Cruz|R|Strikeout|B|Slider|6|1|1|1|14|84
+Evan Phillips|R|Nelson Cruz|R|Strikeout|F|Slider|7|2|1|1|13|83
+Evan Phillips|R|Nelson Cruz|R|Strikeout|S|Four-Seam Fastball|8|2|2|1|12|94
+Evan Phillips|R|Eddie Rosario|L|Flyout|B|Changeup|9|0|0|2|13|86
+Evan Phillips|R|Eddie Rosario|L|Flyout|B|Changeup|10|1|0|2|11|84
+Evan Phillips|R|Eddie Rosario|L|Flyout|X|Four-Seam Fastball|11|2|0|2|7|92
+Evan Phillips|R|Tim Anderson|R|Flyout|X|Slider|0|0|0|0|4|82
+Evan Phillips|R|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|1|0|0|1|13|93
+Evan Phillips|R|Welington Castillo|R|Strikeout|C|Slider|2|1|0|1|8|82
+Evan Phillips|R|Welington Castillo|R|Strikeout|B|Slider|3|1|1|1|14|83
+Evan Phillips|R|Welington Castillo|R|Strikeout|S|Four-Seam Fastball|4|2|1|1|3|94
+Evan Phillips|R|Welington Castillo|R|Strikeout|F|Four-Seam Fastball|5|2|2|1|4|95
+Evan Phillips|R|Welington Castillo|R|Strikeout|B|Slider|6|2|2|1|14|84
+Evan Phillips|R|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|7|3|2|1|8|95
+Evan Phillips|R|Yolmer Sanchez|L|Strikeout|S|Slider|8|0|0|2|14|83
+Evan Phillips|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|9|0|1|2|13|94
+Evan Phillips|R|Yolmer Sanchez|L|Strikeout|C|Slider|10|1|1|2|4|83
+Evan Phillips|R|Yolmer Sanchez|L|Strikeout|B|Slider|11|1|2|2|14|84
+Evan Phillips|R|Yolmer Sanchez|L|Strikeout|S|Four-Seam Fastball|12|2|2|2|1|93
+Evan Phillips|R|Leury Garcia|L|Walk|C|Four-Seam Fastball|13|0|0|0|4|92
+Evan Phillips|R|Leury Garcia|L|Walk|B|Slider|14|0|1|0|13|83
+Evan Phillips|R|Leury Garcia|L|Walk|S|Slider|15|1|1|0|14|82
+Evan Phillips|R|Leury Garcia|L|Walk|B|Four-Seam Fastball|16|1|2|0|11|93
+Evan Phillips|R|Leury Garcia|L|Walk|B|Four-Seam Fastball|17|2|2|0|11|92
+Evan Phillips|R|Leury Garcia|L|Walk|F|Four-Seam Fastball|18|3|2|0|8|93
+Evan Phillips|R|Leury Garcia|L|Walk|B|Four-Seam Fastball|19|3|2|0|13|94
+Evan Phillips|R|Adam Engel|R|Single|D|Four-Seam Fastball|20|0|0|0|4|93
+Evan Phillips|R|Gleyber Torres|R|Home Run|F|Slider|0|0|0|0|6|85
+Evan Phillips|R|Gleyber Torres|R|Home Run|E|Slider|1|0|1|0|8|84
+Evan Phillips|R|Brett Gardner|L|Walk|C|Four-Seam Fastball|2|0|0|0|13|93
+Evan Phillips|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|3|0|1|0|11|93
+Evan Phillips|R|Brett Gardner|L|Walk|C|Changeup|4|1|1|0|9|83
+Evan Phillips|R|Brett Gardner|L|Walk|B|Changeup|5|1|2|0|14|85
+Evan Phillips|R|Brett Gardner|L|Walk|F|Four-Seam Fastball|6|2|2|0|11|93
+Evan Phillips|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|7|2|2|0|13|94
+Evan Phillips|R|Brett Gardner|L|Walk|F|Four-Seam Fastball|8|3|2|0|4|93
+Evan Phillips|R|Brett Gardner|L|Walk|F|Four-Seam Fastball|9|3|2|0|8|94
+Evan Phillips|R|Brett Gardner|L|Walk|B|Slider|10|3|2|0|11|85
+Evan Phillips|R|Cameron Maybin|R|Strikeout|B|Four-Seam Fastball|11|0|0|0|11|93
+Evan Phillips|R|Cameron Maybin|R|Strikeout|F|Slider|12|1|0|0|7|84
+Evan Phillips|R|Cameron Maybin|R|Strikeout|S|Four-Seam Fastball|13|1|1|0|11|94
+Evan Phillips|R|Cameron Maybin|R|Strikeout|T|Four-Seam Fastball|14|1|2|0|11|94
+Evan Phillips|R|Austin Romine|R|Strikeout|*B|Slider|15|0|0|1|14|86
+Evan Phillips|R|Austin Romine|R|Strikeout|S|Four-Seam Fastball|16|1|0|1|11|93
+Evan Phillips|R|Austin Romine|R|Strikeout|F|Four-Seam Fastball|17|1|1|1|2|93
+Evan Phillips|R|Austin Romine|R|Strikeout|F|Slider|18|1|2|1|1|84
+Evan Phillips|R|Austin Romine|R|Strikeout|S|Four-Seam Fastball|19|1|2|1|8|94
+Evan Phillips|R|Mike Ford|L|Flyout|B|Four-Seam Fastball|20|0|0|2|13|93
+Evan Phillips|R|Mike Ford|L|Flyout|C|Four-Seam Fastball|21|1|0|2|8|93
+Evan Phillips|R|Mike Ford|L|Flyout|X|Four-Seam Fastball|22|1|1|2|9|93
+Evan Phillips|R|Breyvic Valera|L|Walk|B|Four-Seam Fastball|23|0|0|0|13|92
+Evan Phillips|R|Breyvic Valera|L|Walk|B|Four-Seam Fastball|24|1|0|0|13|91
+Evan Phillips|R|Breyvic Valera|L|Walk|B|Four-Seam Fastball|25|2|0|0|13|91
+Evan Phillips|R|Breyvic Valera|L|Walk|B|Four-Seam Fastball|26|3|0|0|11|92
+Evan Phillips|R|DJ LeMahieu|R|Single|B|Slider|27|0|0|0|14|87
+Evan Phillips|R|DJ LeMahieu|R|Single|B|Four-Seam Fastball|28|1|0|0|13|92
+Evan Phillips|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|29|2|0|0|4|93
+Evan Phillips|R|DJ LeMahieu|R|Single|D|Four-Seam Fastball|30|2|1|0|4|94

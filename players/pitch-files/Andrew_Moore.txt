@@ -1,0 +1,997 @@
+Andrew Moore|R|Derek Fisher|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|13|93
+Andrew Moore|R|Derek Fisher|L|Pop Out|B|Changeup|1|0|1|0|1|82
+Andrew Moore|R|Derek Fisher|L|Pop Out|B|Four-Seam Fastball|2|1|1|0|14|92
+Andrew Moore|R|Derek Fisher|L|Pop Out|X|Changeup|3|2|1|0|5|82
+Andrew Moore|R|Alex Bregman|R|Pop Out|X|Four-Seam Fastball|4|0|0|1|4|93
+Andrew Moore|R|Michael Brantley|L|Strikeout|B|Four-Seam Fastball|5|0|0|2|13|91
+Andrew Moore|R|Michael Brantley|L|Strikeout|B|Four-Seam Fastball|6|1|0|2|13|91
+Andrew Moore|R|Michael Brantley|L|Strikeout|B|Four-Seam Fastball|7|2|0|2|11|91
+Andrew Moore|R|Michael Brantley|L|Strikeout|C|Four-Seam Fastball|8|3|0|2|6|91
+Andrew Moore|R|Michael Brantley|L|Strikeout|C|Four-Seam Fastball|9|3|1|2|7|91
+Andrew Moore|R|Michael Brantley|L|Strikeout|F|Changeup|10|3|2|2|11|82
+Andrew Moore|R|Michael Brantley|L|Strikeout|C|Changeup|11|3|2|2|12|82
+Andrew Moore|R|Yuli Gurriel|R|Flyout|C|Curveball|12|0|0|0|4|76
+Andrew Moore|R|Yuli Gurriel|R|Flyout|X|Four-Seam Fastball|13|0|1|0|2|90
+Andrew Moore|R|Josh Reddick|L|Flyout|C|Curveball|14|0|0|1|3|77
+Andrew Moore|R|Josh Reddick|L|Flyout|S|Four-Seam Fastball|15|0|1|1|12|89
+Andrew Moore|R|Josh Reddick|L|Flyout|X|Changeup|16|0|2|1|13|81
+Andrew Moore|R|Robinson Chirinos|R|Groundout|B|Four-Seam Fastball|17|0|0|2|14|93
+Andrew Moore|R|Robinson Chirinos|R|Groundout|S|Slider|18|1|0|2|8|77
+Andrew Moore|R|Robinson Chirinos|R|Groundout|F|Four-Seam Fastball|19|1|1|2|11|91
+Andrew Moore|R|Robinson Chirinos|R|Groundout|F|Four-Seam Fastball|20|1|2|2|4|91
+Andrew Moore|R|Robinson Chirinos|R|Groundout|B|Slider|21|1|2|2|14|81
+Andrew Moore|R|Robinson Chirinos|R|Groundout|F|Curveball|22|2|2|2|8|76
+Andrew Moore|R|Robinson Chirinos|R|Groundout|F|Four-Seam Fastball|23|2|2|2|2|92
+Andrew Moore|R|Robinson Chirinos|R|Groundout|B|Changeup|24|2|2|2|14|81
+Andrew Moore|R|Robinson Chirinos|R|Groundout|X|Four-Seam Fastball|25|3|2|2|3|91
+Andrew Moore|R|Tony Kemp|L|Home Run|C|Four-Seam Fastball|26|0|0|0|11|90
+Andrew Moore|R|Tony Kemp|L|Home Run|S|Changeup|27|0|1|0|4|82
+Andrew Moore|R|Tony Kemp|L|Home Run|B|Four-Seam Fastball|28|0|2|0|12|89
+Andrew Moore|R|Tony Kemp|L|Home Run|B|Changeup|29|1|2|0|13|81
+Andrew Moore|R|Tony Kemp|L|Home Run|E|Changeup|30|2|2|0|4|81
+Andrew Moore|R|Jack Mayfield|R|Flyout|X|Four-Seam Fastball|31|0|0|0|8|93
+Andrew Moore|R|Jake Marisnick|R|Groundout|X|Four-Seam Fastball|32|0|0|1|9|92
+Andrew Moore|R|Derek Fisher|L|Walk|B|Curveball|33|0|0|2|14|78
+Andrew Moore|R|Derek Fisher|L|Walk|C|Changeup|34|1|0|2|13|82
+Andrew Moore|R|Derek Fisher|L|Walk|B|Changeup|35|1|1|2|11|81
+Andrew Moore|R|Derek Fisher|L|Walk|F|Four-Seam Fastball|36|2|1|2|14|90
+Andrew Moore|R|Derek Fisher|L|Walk|B|Changeup|37|2|2|2|11|81
+Andrew Moore|R|Derek Fisher|L|Walk|B|Four-Seam Fastball|38|3|2|2|14|91
+Andrew Moore|R|Alex Bregman|R|Single|C|Four-Seam Fastball|39|0|0|2|7|91
+Andrew Moore|R|Alex Bregman|R|Single|*B|Curveball|40|0|1|2|14|75
+Andrew Moore|R|Alex Bregman|R|Single|B|Four-Seam Fastball|41|1|1|2|14|91
+Andrew Moore|R|Alex Bregman|R|Single|*B|Changeup|42|2|1|2|14|81
+Andrew Moore|R|Alex Bregman|R|Single|D|Four-Seam Fastball|43|3|1|2|9|92
+Andrew Moore|R|Michael Brantley|L|Forceout|B|Curveball|44|0|0|2|13|77
+Andrew Moore|R|Michael Brantley|L|Forceout|F|Four-Seam Fastball|45|1|0|2|5|90
+Andrew Moore|R|Michael Brantley|L|Forceout|B|Four-Seam Fastball|46|1|1|2|13|90
+Andrew Moore|R|Michael Brantley|L|Forceout|C|Changeup|47|2|1|2|2|81
+Andrew Moore|R|Michael Brantley|L|Forceout|X|Four-Seam Fastball|48|2|2|2|8|90
+Andrew Moore|R|Yuli Gurriel|R|Flyout|B|Four-Seam Fastball|49|0|0|0|14|91
+Andrew Moore|R|Yuli Gurriel|R|Flyout|X|Curveball|50|1|0|0|14|77
+Andrew Moore|R|Josh Reddick|L|Single|C|Changeup|51|0|0|1|13|81
+Andrew Moore|R|Josh Reddick|L|Single|B|Curveball|52|0|1|1|13|78
+Andrew Moore|R|Josh Reddick|L|Single|F|Four-Seam Fastball|53|1|1|1|14|90
+Andrew Moore|R|Josh Reddick|L|Single|B|Four-Seam Fastball|54|1|2|1|11|89
+Andrew Moore|R|Josh Reddick|L|Single|F|Changeup|55|2|2|1|1|81
+Andrew Moore|R|Josh Reddick|L|Single|D|Changeup|56|2|2|1|4|80
+Andrew Moore|R|Robinson Chirinos|R|Home Run|C|Four-Seam Fastball|57|0|0|1|7|90
+Andrew Moore|R|Robinson Chirinos|R|Home Run|B|Four-Seam Fastball|58|0|1|1|11|88
+Andrew Moore|R|Robinson Chirinos|R|Home Run|B|Slider|59|1|1|1|14|81
+Andrew Moore|R|Robinson Chirinos|R|Home Run|B|Slider|60|2|1|1|13|81
+Andrew Moore|R|Robinson Chirinos|R|Home Run|F|Changeup|61|3|1|1|2|82
+Andrew Moore|R|Robinson Chirinos|R|Home Run|E|Four-Seam Fastball|62|3|2|1|13|92
+Andrew Moore|R|Tony Kemp|L|Flyout|C|Four-Seam Fastball|63|0|0|2|7|91
+Andrew Moore|R|Tony Kemp|L|Flyout|C|Four-Seam Fastball|64|0|1|2|13|91
+Andrew Moore|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|65|0|2|2|5|89
+Andrew Moore|R|Jack Mayfield|R|Flyout|C|Four-Seam Fastball|66|0|0|0|3|90
+Andrew Moore|R|Jack Mayfield|R|Flyout|X|Slider|67|0|1|0|9|81
+Andrew Moore|R|Jake Marisnick|R|Strikeout|C|Curveball|68|0|0|1|8|76
+Andrew Moore|R|Jake Marisnick|R|Strikeout|B|Slider|69|0|1|1|12|81
+Andrew Moore|R|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|70|1|1|1|14|90
+Andrew Moore|R|Jake Marisnick|R|Strikeout|F|Curveball|71|2|1|1|1|75
+Andrew Moore|R|Jake Marisnick|R|Strikeout|S|Changeup|72|2|2|1|5|80
+Andrew Moore|R|Derek Fisher|L|Double|D|Changeup|73|0|0|2|7|81
+Andrew Moore|R|Alex Bregman|R|Double|*B|Changeup|74|0|0|2|14|82
+Andrew Moore|R|Alex Bregman|R|Double|C|Changeup|75|1|0|2|8|81
+Andrew Moore|R|Alex Bregman|R|Double|B|Slider|76|1|1|2|14|82
+Andrew Moore|R|Alex Bregman|R|Double|E|Changeup|77|2|1|2|11|82
+Andrew Moore|R|Ian Kinsler|R|Groundout|C|Four-Seam Fastball|0|0|0|0|5|92
+Andrew Moore|R|Ian Kinsler|R|Groundout|F|Slider|1|0|1|0|14|84
+Andrew Moore|R|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|2|0|2|0|11|93
+Andrew Moore|R|Ian Kinsler|R|Groundout|X|Curveball|3|1|2|0|6|78
+Andrew Moore|R|Alex Avila|L|Strikeout|C|Four-Seam Fastball|4|0|0|1|5|93
+Andrew Moore|R|Alex Avila|L|Strikeout|B|Curveball|5|0|1|1|13|77
+Andrew Moore|R|Alex Avila|L|Strikeout|B|Changeup|6|1|1|1|13|83
+Andrew Moore|R|Alex Avila|L|Strikeout|F|Four-Seam Fastball|7|2|1|1|1|91
+Andrew Moore|R|Alex Avila|L|Strikeout|S|Four-Seam Fastball|8|2|2|1|12|93
+Andrew Moore|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|9|0|0|2|7|93
+Andrew Moore|R|Miguel Cabrera|R|Groundout|B|Slider|10|0|1|2|14|86
+Andrew Moore|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|11|1|1|2|4|93
+Andrew Moore|R|Miguel Cabrera|R|Groundout|B|Four-Seam Fastball|12|1|2|2|11|93
+Andrew Moore|R|Miguel Cabrera|R|Groundout|X|Slider|13|2|2|2|14|80
+Andrew Moore|R|J.D. Martinez|R|Groundout|C|Slider|14|0|0|0|1|82
+Andrew Moore|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|15|0|1|0|9|92
+Andrew Moore|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|16|0|2|0|5|91
+Andrew Moore|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|17|0|2|0|11|91
+Andrew Moore|R|J.D. Martinez|R|Groundout|F|Curveball|18|0|2|0|9|77
+Andrew Moore|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|19|0|2|0|14|92
+Andrew Moore|R|J.D. Martinez|R|Groundout|F|Curveball|20|1|2|0|8|77
+Andrew Moore|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|21|1|2|0|11|92
+Andrew Moore|R|J.D. Martinez|R|Groundout|X|Slider|22|2|2|0|14|85
+Andrew Moore|R|Justin Upton|R|Flyout|C|Four-Seam Fastball|23|0|0|1|6|92
+Andrew Moore|R|Justin Upton|R|Flyout|X|Slider|24|0|1|1|9|83
+Andrew Moore|R|Nicholas Castellanos|R|Double|B|Slider|25|0|0|2|13|85
+Andrew Moore|R|Nicholas Castellanos|R|Double|B|Changeup|26|1|0|2|14|84
+Andrew Moore|R|Nicholas Castellanos|R|Double|F|Four-Seam Fastball|27|2|0|2|6|91
+Andrew Moore|R|Nicholas Castellanos|R|Double|B|Four-Seam Fastball|28|2|1|2|14|91
+Andrew Moore|R|Nicholas Castellanos|R|Double|D|Four-Seam Fastball|29|3|1|2|9|91
+Andrew Moore|R|Alex Presley|L|Lineout|F|Four-Seam Fastball|30|0|0|2|3|91
+Andrew Moore|R|Alex Presley|L|Lineout|F|Four-Seam Fastball|31|0|1|2|2|91
+Andrew Moore|R|Alex Presley|L|Lineout|B|Four-Seam Fastball|32|0|2|2|12|91
+Andrew Moore|R|Alex Presley|L|Lineout|F|Curveball|33|1|2|2|13|78
+Andrew Moore|R|Alex Presley|L|Lineout|X|Four-Seam Fastball|34|1|2|2|12|91
+Andrew Moore|R|John Hicks|R|Strikeout|C|Four-Seam Fastball|35|0|0|0|11|89
+Andrew Moore|R|John Hicks|R|Strikeout|S|Slider|36|0|1|0|14|82
+Andrew Moore|R|John Hicks|R|Strikeout|F|Curveball|37|0|2|0|13|75
+Andrew Moore|R|John Hicks|R|Strikeout|S|Four-Seam Fastball|38|0|2|0|4|89
+Andrew Moore|R|Jose Iglesias|R|Lineout|B|Four-Seam Fastball|39|0|0|1|14|90
+Andrew Moore|R|Jose Iglesias|R|Lineout|X|Slider|40|1|0|1|9|83
+Andrew Moore|R|Ian Kinsler|R|Home Run|B|Four-Seam Fastball|41|0|0|2|14|91
+Andrew Moore|R|Ian Kinsler|R|Home Run|C|Four-Seam Fastball|42|1|0|2|14|90
+Andrew Moore|R|Ian Kinsler|R|Home Run|B|Curveball|43|1|1|2|11|77
+Andrew Moore|R|Ian Kinsler|R|Home Run|B|Slider|44|2|1|2|14|82
+Andrew Moore|R|Ian Kinsler|R|Home Run|E|Four-Seam Fastball|45|3|1|2|5|90
+Andrew Moore|R|Alex Avila|L|Flyout|X|Four-Seam Fastball|46|0|0|2|6|90
+Andrew Moore|R|Miguel Cabrera|R|Single|C|Four-Seam Fastball|47|0|0|0|6|89
+Andrew Moore|R|Miguel Cabrera|R|Single|B|Slider|48|0|1|0|14|81
+Andrew Moore|R|Miguel Cabrera|R|Single|F|Four-Seam Fastball|49|1|1|0|14|90
+Andrew Moore|R|Miguel Cabrera|R|Single|B|Curveball|50|1|2|0|11|74
+Andrew Moore|R|Miguel Cabrera|R|Single|D|Four-Seam Fastball|51|2|2|0|6|90
+Andrew Moore|R|J.D. Martinez|R|Strikeout|F|Four-Seam Fastball|52|0|0|0|6|90
+Andrew Moore|R|J.D. Martinez|R|Strikeout|B|Slider|53|0|1|0|14|83
+Andrew Moore|R|J.D. Martinez|R|Strikeout|F|Four-Seam Fastball|54|1|1|0|4|90
+Andrew Moore|R|J.D. Martinez|R|Strikeout|*B|Curveball|55|1|2|0|14|75
+Andrew Moore|R|J.D. Martinez|R|Strikeout|S|Slider|56|2|2|0|12|83
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|B|Four-Seam Fastball|57|0|0|1|14|90
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|F|Four-Seam Fastball|58|1|0|1|6|90
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|B|Four-Seam Fastball|59|1|1|1|11|89
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|B|Slider|60|2|1|1|3|82
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|C|Slider|61|3|1|1|3|83
+Andrew Moore|R|Justin Upton|R|Grounded Into DP|X|Four-Seam Fastball|62|3|2|1|6|90
+Andrew Moore|R|Nicholas Castellanos|R|Single|B|Slider|63|0|0|0|11|80
+Andrew Moore|R|Nicholas Castellanos|R|Single|C|Four-Seam Fastball|64|1|0|0|6|90
+Andrew Moore|R|Nicholas Castellanos|R|Single|F|Curveball|65|1|1|0|7|75
+Andrew Moore|R|Nicholas Castellanos|R|Single|D|Slider|66|1|2|0|12|80
+Andrew Moore|R|Alex Presley|L|Pop Out|B|Four-Seam Fastball|67|0|0|0|12|90
+Andrew Moore|R|Alex Presley|L|Pop Out|F|Changeup|68|1|0|0|9|81
+Andrew Moore|R|Alex Presley|L|Pop Out|X|Four-Seam Fastball|69|1|1|0|6|89
+Andrew Moore|R|John Hicks|R|Double|W|Slider|70|0|0|1|14|82
+Andrew Moore|R|John Hicks|R|Double|F|Four-Seam Fastball|71|0|1|1|11|90
+Andrew Moore|R|John Hicks|R|Double|D|Curveball|72|0|2|1|13|75
+Andrew Moore|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|73|0|0|1|4|91
+Andrew Moore|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|74|0|1|1|9|90
+Andrew Moore|R|Jose Iglesias|R|Groundout|E|Four-Seam Fastball|75|0|2|1|12|91
+Andrew Moore|R|Ian Kinsler|R|Single|E|Slider|76|0|0|2|8|83
+Andrew Moore|R|Alex Avila|L|Pop Out|B|Changeup|77|0|0|2|14|81
+Andrew Moore|R|Alex Avila|L|Pop Out|X|Four-Seam Fastball|78|1|0|2|12|91
+Andrew Moore|R|Miguel Cabrera|R|Lineout|C|Slider|79|0|0|0|6|82
+Andrew Moore|R|Miguel Cabrera|R|Lineout|B|Slider|80|0|1|0|14|79
+Andrew Moore|R|Miguel Cabrera|R|Lineout|S|Four-Seam Fastball|81|1|1|0|11|88
+Andrew Moore|R|Miguel Cabrera|R|Lineout|X|Four-Seam Fastball|82|1|2|0|8|90
+Andrew Moore|R|J.D. Martinez|R|Flyout|F|Curveball|83|0|0|1|13|76
+Andrew Moore|R|J.D. Martinez|R|Flyout|B|Slider|84|0|1|1|14|82
+Andrew Moore|R|J.D. Martinez|R|Flyout|X|Four-Seam Fastball|85|1|1|1|4|89
+Andrew Moore|R|Justin Upton|R|Pop Out|X|Slider|86|0|0|2|5|82
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|B|Four-Seam Fastball|87|0|0|0|11|89
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|C|Four-Seam Fastball|88|1|0|0|6|89
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|F|Changeup|89|1|1|0|13|80
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|B|Four-Seam Fastball|90|1|2|0|11|90
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|F|Four-Seam Fastball|91|2|2|0|6|91
+Andrew Moore|R|Nicholas Castellanos|R|Flyout|X|Changeup|92|2|2|0|5|80
+Andrew Moore|R|Andrew Romine|L|Strikeout|C|Four-Seam Fastball|93|0|0|1|6|90
+Andrew Moore|R|Andrew Romine|L|Strikeout|B|Curveball|94|0|1|1|11|75
+Andrew Moore|R|Andrew Romine|L|Strikeout|C|Changeup|95|1|1|1|9|80
+Andrew Moore|R|Andrew Romine|L|Strikeout|B|Curveball|96|1|2|1|11|74
+Andrew Moore|R|Andrew Romine|L|Strikeout|S|Four-Seam Fastball|97|2|2|1|6|90
+Andrew Moore|R|John Hicks|R|Flyout|C|Four-Seam Fastball|98|0|0|2|6|91
+Andrew Moore|R|John Hicks|R|Flyout|X|Changeup|99|0|1|2|6|81
+Andrew Moore|R|Whit Merrifield|R|Double|C|Four-Seam Fastball|0|0|0|0|2|91
+Andrew Moore|R|Whit Merrifield|R|Double|D|Four-Seam Fastball|1|0|1|0|14|92
+Andrew Moore|R|Ramon Torres|L|Flyout|X|Curveball|2|0|0|0|5|76
+Andrew Moore|R|Lorenzo Cain|R|Sac Fly|F|Slider|3|0|0|1|2|82
+Andrew Moore|R|Lorenzo Cain|R|Sac Fly|B|Four-Seam Fastball|4|0|1|1|11|91
+Andrew Moore|R|Lorenzo Cain|R|Sac Fly|B|Four-Seam Fastball|5|1|1|1|11|92
+Andrew Moore|R|Lorenzo Cain|R|Sac Fly|E|Slider|6|2|1|1|14|82
+Andrew Moore|R|Eric Hosmer|L|Single|B|Four-Seam Fastball|7|0|0|2|11|92
+Andrew Moore|R|Eric Hosmer|L|Single|C|Four-Seam Fastball|8|1|0|2|3|92
+Andrew Moore|R|Eric Hosmer|L|Single|D|Changeup|9|1|1|2|7|82
+Andrew Moore|R|Salvador Perez|R|Flyout|B|Slider|10|0|0|2|14|82
+Andrew Moore|R|Salvador Perez|R|Flyout|B|Slider|11|1|0|2|11|82
+Andrew Moore|R|Salvador Perez|R|Flyout|X|Four-Seam Fastball|12|2|0|2|5|91
+Andrew Moore|R|Mike Moustakas|L|Home Run|B|Four-Seam Fastball|13|0|0|0|12|89
+Andrew Moore|R|Mike Moustakas|L|Home Run|C|Curveball|14|1|0|0|8|76
+Andrew Moore|R|Mike Moustakas|L|Home Run|E|Four-Seam Fastball|15|1|1|0|3|90
+Andrew Moore|R|Jorge Soler|R|Groundout|C|Slider|16|0|0|0|3|81
+Andrew Moore|R|Jorge Soler|R|Groundout|B|Slider|17|0|1|0|12|80
+Andrew Moore|R|Jorge Soler|R|Groundout|X|Slider|18|1|1|0|5|80
+Andrew Moore|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|19|0|0|1|8|92
+Andrew Moore|R|Alcides Escobar|R|Groundout|B|Slider|20|0|1|1|12|81
+Andrew Moore|R|Alcides Escobar|R|Groundout|S|Curveball|21|1|1|1|4|75
+Andrew Moore|R|Alcides Escobar|R|Groundout|B|Four-Seam Fastball|22|1|2|1|11|91
+Andrew Moore|R|Alcides Escobar|R|Groundout|F|Slider|23|2|2|1|9|78
+Andrew Moore|R|Alcides Escobar|R|Groundout|X|Curveball|24|2|2|1|7|75
+Andrew Moore|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|25|0|0|2|12|91
+Andrew Moore|R|Alex Gordon|L|Strikeout|B|Curveball|26|1|0|2|14|77
+Andrew Moore|R|Alex Gordon|L|Strikeout|F|Four-Seam Fastball|27|2|0|2|3|91
+Andrew Moore|R|Alex Gordon|L|Strikeout|F|Curveball|28|2|1|2|2|77
+Andrew Moore|R|Alex Gordon|L|Strikeout|B|Curveball|29|2|2|2|13|75
+Andrew Moore|R|Alex Gordon|L|Strikeout|S|Changeup|30|3|2|2|8|82
+Andrew Moore|R|Whit Merrifield|R|Groundout|C|Four-Seam Fastball|31|0|0|0|1|89
+Andrew Moore|R|Whit Merrifield|R|Groundout|B|Curveball|32|0|1|0|14|75
+Andrew Moore|R|Whit Merrifield|R|Groundout|B|Changeup|33|1|1|0|14|81
+Andrew Moore|R|Whit Merrifield|R|Groundout|F|Four-Seam Fastball|34|2|1|0|11|89
+Andrew Moore|R|Whit Merrifield|R|Groundout|F|Curveball|35|2|2|0|3|74
+Andrew Moore|R|Whit Merrifield|R|Groundout|X|Four-Seam Fastball|36|2|2|0|9|91
+Andrew Moore|R|Ramon Torres|L|Lineout|B|Curveball|37|0|0|1|12|75
+Andrew Moore|R|Ramon Torres|L|Lineout|X|Changeup|38|1|0|1|8|80
+Andrew Moore|R|Lorenzo Cain|R|Groundout|X|Slider|39|0|0|2|9|81
+Andrew Moore|R|Eric Hosmer|L|Flyout|B|Curveball|40|0|0|0|14|75
+Andrew Moore|R|Eric Hosmer|L|Flyout|B|Curveball|41|1|0|0|14|74
+Andrew Moore|R|Eric Hosmer|L|Flyout|F|Changeup|42|2|0|0|11|80
+Andrew Moore|R|Eric Hosmer|L|Flyout|F|Four-Seam Fastball|43|2|1|0|6|90
+Andrew Moore|R|Eric Hosmer|L|Flyout|X|Curveball|44|2|2|0|9|75
+Andrew Moore|R|Salvador Perez|R|Pop Out|F|Slider|45|0|0|1|14|81
+Andrew Moore|R|Salvador Perez|R|Pop Out|F|Slider|46|0|1|1|12|79
+Andrew Moore|R|Salvador Perez|R|Pop Out|B|Slider|47|0|2|1|14|79
+Andrew Moore|R|Salvador Perez|R|Pop Out|X|Four-Seam Fastball|48|1|2|1|4|91
+Andrew Moore|R|Mike Moustakas|L|Flyout|C|Four-Seam Fastball|49|0|0|2|7|91
+Andrew Moore|R|Mike Moustakas|L|Flyout|F|Curveball|50|0|1|2|11|76
+Andrew Moore|R|Mike Moustakas|L|Flyout|B|Curveball|51|0|2|2|14|75
+Andrew Moore|R|Mike Moustakas|L|Flyout|B|Four-Seam Fastball|52|1|2|2|13|92
+Andrew Moore|R|Mike Moustakas|L|Flyout|B|Four-Seam Fastball|53|2|2|2|12|91
+Andrew Moore|R|Mike Moustakas|L|Flyout|X|Curveball|54|3|2|2|9|75
+Andrew Moore|R|Jorge Soler|R|Groundout|C|Slider|55|0|0|0|8|80
+Andrew Moore|R|Jorge Soler|R|Groundout|X|Four-Seam Fastball|56|0|1|0|13|90
+Andrew Moore|R|Alcides Escobar|R|Lineout|X|Slider|57|0|0|1|6|81
+Andrew Moore|R|Alex Gordon|L|Home Run|F|Curveball|58|0|0|2|5|75
+Andrew Moore|R|Alex Gordon|L|Home Run|B|Changeup|59|0|1|2|13|80
+Andrew Moore|R|Alex Gordon|L|Home Run|F|Curveball|60|1|1|2|9|75
+Andrew Moore|R|Alex Gordon|L|Home Run|F|Four-Seam Fastball|61|1|2|2|12|92
+Andrew Moore|R|Alex Gordon|L|Home Run|B|Changeup|62|1|2|2|13|82
+Andrew Moore|R|Alex Gordon|L|Home Run|B|Curveball|63|2|2|2|14|75
+Andrew Moore|R|Alex Gordon|L|Home Run|E|Slider|64|3|2|2|6|80
+Andrew Moore|R|Whit Merrifield|R|Pop Out|C|Slider|65|0|0|2|14|82
+Andrew Moore|R|Whit Merrifield|R|Pop Out|X|Four-Seam Fastball|66|0|1|2|13|91
+Andrew Moore|R|Ramon Torres|L|Groundout|C|Four-Seam Fastball|67|0|0|0|9|89
+Andrew Moore|R|Ramon Torres|L|Groundout|C|Changeup|68|0|1|0|13|80
+Andrew Moore|R|Ramon Torres|L|Groundout|B|Curveball|69|0|2|0|14|74
+Andrew Moore|R|Ramon Torres|L|Groundout|F|Four-Seam Fastball|70|1|2|0|12|89
+Andrew Moore|R|Ramon Torres|L|Groundout|X|Changeup|71|1|2|0|13|80
+Andrew Moore|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|72|0|0|1|12|91
+Andrew Moore|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|73|1|0|1|12|90
+Andrew Moore|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|74|1|1|1|11|90
+Andrew Moore|R|Lorenzo Cain|R|Strikeout|S|Changeup|75|2|1|1|14|81
+Andrew Moore|R|Lorenzo Cain|R|Strikeout|S|Slider|76|2|2|1|14|80
+Andrew Moore|R|Eric Hosmer|L|Groundout|F|Four-Seam Fastball|77|0|0|2|12|90
+Andrew Moore|R|Eric Hosmer|L|Groundout|X|Curveball|78|0|1|2|4|75
+Andrew Moore|R|Salvador Perez|R|Groundout|B|Four-Seam Fastball|79|0|0|0|9|89
+Andrew Moore|R|Salvador Perez|R|Groundout|X|Slider|80|1|0|0|9|79
+Andrew Moore|R|Mike Moustakas|L|Groundout|B|Changeup|81|0|0|1|13|82
+Andrew Moore|R|Mike Moustakas|L|Groundout|X|Four-Seam Fastball|82|1|0|1|14|88
+Andrew Moore|R|Jorge Soler|R|Strikeout|B|Slider|83|0|0|2|14|81
+Andrew Moore|R|Jorge Soler|R|Strikeout|B|Slider|84|1|0|2|14|80
+Andrew Moore|R|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|85|2|0|2|2|90
+Andrew Moore|R|Jorge Soler|R|Strikeout|C|Slider|86|2|1|2|12|80
+Andrew Moore|R|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|87|2|2|2|11|90
+Andrew Moore|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|88|0|0|0|6|89
+Andrew Moore|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|89|0|1|0|14|88
+Andrew Moore|R|Alcides Escobar|R|Groundout|X|Curveball|90|0|2|0|14|79
+Andrew Moore|R|Alex Gordon|L|Pop Out|C|Changeup|91|0|0|1|2|81
+Andrew Moore|R|Alex Gordon|L|Pop Out|X|Curveball|92|0|1|1|2|75
+Andrew Moore|R|Whit Merrifield|R|Single|F|Four-Seam Fastball|93|0|0|2|6|92
+Andrew Moore|R|Whit Merrifield|R|Single|D|Slider|94|0|1|2|5|81
+Andrew Moore|R|Ramon Torres|L|Strikeout|B|Four-Seam Fastball|95|0|0|2|11|89
+Andrew Moore|R|Ramon Torres|L|Strikeout|F|Changeup|96|1|0|2|11|81
+Andrew Moore|R|Ramon Torres|L|Strikeout|F|Curveball|97|1|1|2|13|74
+Andrew Moore|R|Ramon Torres|L|Strikeout|B|Four-Seam Fastball|98|1|2|2|11|91
+Andrew Moore|R|Ramon Torres|L|Strikeout|F|Curveball|99|2|2|2|7|75
+Andrew Moore|R|Ramon Torres|L|Strikeout|S|Four-Seam Fastball|100|2|2|2|12|91
+Andrew Moore|R|Matt Joyce|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|90
+Andrew Moore|R|Matt Joyce|L|Flyout|X|Changeup|1|0|1|0|5|81
+Andrew Moore|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|12|91
+Andrew Moore|R|Marcus Semien|R|Strikeout|S|Four-Seam Fastball|3|0|1|1|12|91
+Andrew Moore|R|Marcus Semien|R|Strikeout|B|Four-Seam Fastball|4|0|2|1|11|92
+Andrew Moore|R|Marcus Semien|R|Strikeout|B|Curveball|5|1|2|1|14|76
+Andrew Moore|R|Marcus Semien|R|Strikeout|S|Changeup|6|2|2|1|12|81
+Andrew Moore|R|Yonder Alonso|L|Flyout|S|Curveball|7|0|0|2|9|76
+Andrew Moore|R|Yonder Alonso|L|Flyout|X|Curveball|8|0|1|2|4|76
+Andrew Moore|R|Ryon Healy|R|Single|C|Four-Seam Fastball|9|0|0|0|5|91
+Andrew Moore|R|Ryon Healy|R|Single|B|Slider|10|0|1|0|14|80
+Andrew Moore|R|Ryon Healy|R|Single|D|Four-Seam Fastball|11|1|1|0|9|90
+Andrew Moore|R|Jed Lowrie|L|Flyout|X|Curveball|12|0|0|0|5|75
+Andrew Moore|R|Bruce Maxwell|L|Single|C|Four-Seam Fastball|13|0|0|1|7|91
+Andrew Moore|R|Bruce Maxwell|L|Single|S|Changeup|14|0|1|1|5|80
+Andrew Moore|R|Bruce Maxwell|L|Single|F|Four-Seam Fastball|15|0|2|1|12|90
+Andrew Moore|R|Bruce Maxwell|L|Single|*B|Curveball|16|0|2|1|14|74
+Andrew Moore|R|Bruce Maxwell|L|Single|B|Changeup|17|1|2|1|13|79
+Andrew Moore|R|Bruce Maxwell|L|Single|B|Changeup|18|2|2|1|13|79
+Andrew Moore|R|Bruce Maxwell|L|Single|D|Four-Seam Fastball|19|3|2|1|12|91
+Andrew Moore|R|Matt Chapman|R|Strikeout|S|Slider|20|0|0|1|9|81
+Andrew Moore|R|Matt Chapman|R|Strikeout|C|Curveball|21|0|1|1|12|78
+Andrew Moore|R|Matt Chapman|R|Strikeout|F|Curveball|22|0|2|1|6|78
+Andrew Moore|R|Matt Chapman|R|Strikeout|T|Four-Seam Fastball|23|0|2|1|1|92
+Andrew Moore|R|Jaycob Brugman|L|Single|E|Four-Seam Fastball|24|0|0|2|14|92
+Andrew Moore|R|Rajai Davis|R|Lineout|C|Slider|25|0|0|2|6|80
+Andrew Moore|R|Rajai Davis|R|Lineout|B|Slider|26|0|1|2|14|80
+Andrew Moore|R|Rajai Davis|R|Lineout|X|Four-Seam Fastball|27|1|1|2|1|91
+Andrew Moore|R|Matt Joyce|L|Flyout|C|Curveball|28|0|0|0|9|73
+Andrew Moore|R|Matt Joyce|L|Flyout|X|Changeup|29|0|1|0|4|80
+Andrew Moore|R|Marcus Semien|R|Groundout|C|Four-Seam Fastball|30|0|0|1|12|90
+Andrew Moore|R|Marcus Semien|R|Groundout|X|Changeup|31|0|1|1|14|81
+Andrew Moore|R|Yonder Alonso|L|Home Run|C|Four-Seam Fastball|32|0|0|2|5|91
+Andrew Moore|R|Yonder Alonso|L|Home Run|B|Changeup|33|0|1|2|13|82
+Andrew Moore|R|Yonder Alonso|L|Home Run|E|Curveball|34|1|1|2|2|76
+Andrew Moore|R|Ryon Healy|R|Groundout|S|Slider|35|0|0|2|14|81
+Andrew Moore|R|Ryon Healy|R|Groundout|X|Slider|36|0|1|2|14|81
+Andrew Moore|R|Jed Lowrie|L|Groundout|C|Four-Seam Fastball|37|0|0|0|4|89
+Andrew Moore|R|Jed Lowrie|L|Groundout|F|Four-Seam Fastball|38|0|1|0|5|89
+Andrew Moore|R|Jed Lowrie|L|Groundout|B|Four-Seam Fastball|39|0|2|0|12|90
+Andrew Moore|R|Jed Lowrie|L|Groundout|B|Changeup|40|1|2|0|13|80
+Andrew Moore|R|Jed Lowrie|L|Groundout|X|Four-Seam Fastball|41|2|2|0|1|91
+Andrew Moore|R|Bruce Maxwell|L|Walk|C|Four-Seam Fastball|42|0|0|1|4|91
+Andrew Moore|R|Bruce Maxwell|L|Walk|B|Four-Seam Fastball|43|0|1|1|13|91
+Andrew Moore|R|Bruce Maxwell|L|Walk|F|Four-Seam Fastball|44|1|1|1|6|91
+Andrew Moore|R|Bruce Maxwell|L|Walk|B|Curveball|45|1|2|1|11|75
+Andrew Moore|R|Bruce Maxwell|L|Walk|B|Four-Seam Fastball|46|2|2|1|11|91
+Andrew Moore|R|Bruce Maxwell|L|Walk|F|Changeup|47|3|2|1|5|81
+Andrew Moore|R|Bruce Maxwell|L|Walk|B|Four-Seam Fastball|48|3|2|1|14|91
+Andrew Moore|R|Matt Chapman|R|Walk|S|Four-Seam Fastball|49|0|0|1|6|91
+Andrew Moore|R|Matt Chapman|R|Walk|B|Four-Seam Fastball|50|0|1|1|14|90
+Andrew Moore|R|Matt Chapman|R|Walk|T|Four-Seam Fastball|51|1|1|1|5|91
+Andrew Moore|R|Matt Chapman|R|Walk|B|Slider|52|1|2|1|14|81
+Andrew Moore|R|Matt Chapman|R|Walk|F|Four-Seam Fastball|53|2|2|1|11|92
+Andrew Moore|R|Matt Chapman|R|Walk|B|Curveball|54|2|2|1|14|76
+Andrew Moore|R|Matt Chapman|R|Walk|B|Slider|55|3|2|1|12|81
+Andrew Moore|R|Jaycob Brugman|L|Lineout|L|Changeup|56|0|0|1|2|80
+Andrew Moore|R|Jaycob Brugman|L|Lineout|W|Curveball|57|0|1|1|14|76
+Andrew Moore|R|Jaycob Brugman|L|Lineout|X|Curveball|58|0|2|1|13|74
+Andrew Moore|R|Rajai Davis|R|Lineout|X|Slider|59|0|0|2|5|80
+Andrew Moore|R|Matt Joyce|L|Pop Out|B|Curveball|60|0|0|0|14|75
+Andrew Moore|R|Matt Joyce|L|Pop Out|B|Four-Seam Fastball|61|1|0|0|12|89
+Andrew Moore|R|Matt Joyce|L|Pop Out|B|Four-Seam Fastball|62|2|0|0|12|89
+Andrew Moore|R|Matt Joyce|L|Pop Out|C|Four-Seam Fastball|63|3|0|0|2|89
+Andrew Moore|R|Matt Joyce|L|Pop Out|S|Four-Seam Fastball|64|3|1|0|4|90
+Andrew Moore|R|Matt Joyce|L|Pop Out|F|Four-Seam Fastball|65|3|2|0|5|90
+Andrew Moore|R|Matt Joyce|L|Pop Out|X|Changeup|66|3|2|0|2|80
+Andrew Moore|R|Marcus Semien|R|Home Run|C|Four-Seam Fastball|67|0|0|1|3|91
+Andrew Moore|R|Marcus Semien|R|Home Run|B|Four-Seam Fastball|68|0|1|1|14|91
+Andrew Moore|R|Marcus Semien|R|Home Run|B|Four-Seam Fastball|69|1|1|1|12|92
+Andrew Moore|R|Marcus Semien|R|Home Run|E|Changeup|70|2|1|1|4|81
+Andrew Moore|R|Yonder Alonso|L|Pop Out|C|Four-Seam Fastball|71|0|0|1|1|92
+Andrew Moore|R|Yonder Alonso|L|Pop Out|B|Four-Seam Fastball|72|0|1|1|14|91
+Andrew Moore|R|Yonder Alonso|L|Pop Out|T|Four-Seam Fastball|73|1|1|1|12|91
+Andrew Moore|R|Yonder Alonso|L|Pop Out|B|Changeup|74|1|2|1|13|82
+Andrew Moore|R|Yonder Alonso|L|Pop Out|B|Four-Seam Fastball|75|2|2|1|13|91
+Andrew Moore|R|Yonder Alonso|L|Pop Out|X|Changeup|76|3|2|1|7|80
+Andrew Moore|R|Ryon Healy|R|Hit By Pitch|C|Slider|77|0|0|2|5|81
+Andrew Moore|R|Ryon Healy|R|Hit By Pitch|H|Four-Seam Fastball|78|0|1|2|11|91
+Andrew Moore|R|Jed Lowrie|L|Flyout|X|Changeup|79|0|0|2|5|80
+Andrew Moore|R|Bruce Maxwell|L|Lineout|B|Four-Seam Fastball|80|0|0|0|11|87
+Andrew Moore|R|Bruce Maxwell|L|Lineout|S|Changeup|81|1|0|0|6|79
+Andrew Moore|R|Bruce Maxwell|L|Lineout|X|Curveball|82|1|1|0|8|73
+Andrew Moore|R|Matt Chapman|R|Double|C|Four-Seam Fastball|83|0|0|1|6|90
+Andrew Moore|R|Matt Chapman|R|Double|F|Four-Seam Fastball|84|0|1|1|6|88
+Andrew Moore|R|Matt Chapman|R|Double|B|Four-Seam Fastball|85|0|2|1|14|91
+Andrew Moore|R|Matt Chapman|R|Double|D|Curveball|86|1|2|1|8|74
+Andrew Moore|R|Jaycob Brugman|L|Pop Out|X|Four-Seam Fastball|87|0|0|1|9|90
+Andrew Moore|R|Rajai Davis|R|Flyout|B|Four-Seam Fastball|88|0|0|2|14|90
+Andrew Moore|R|Rajai Davis|R|Flyout|X|Four-Seam Fastball|89|1|0|2|2|89
+Andrew Moore|R|Yolmer Sanchez|L|Lineout|B|Four-Seam Fastball|0|0|0|0|11|90
+Andrew Moore|R|Yolmer Sanchez|L|Lineout|C|Four-Seam Fastball|1|1|0|0|2|89
+Andrew Moore|R|Yolmer Sanchez|L|Lineout|X|Curveball|2|1|1|0|4|76
+Andrew Moore|R|Melky Cabrera|L|Single|C|Four-Seam Fastball|3|0|0|1|5|90
+Andrew Moore|R|Melky Cabrera|L|Single|F|Changeup|4|0|1|1|7|82
+Andrew Moore|R|Melky Cabrera|L|Single|F|Four-Seam Fastball|5|0|2|1|11|90
+Andrew Moore|R|Melky Cabrera|L|Single|B|Four-Seam Fastball|6|0|2|1|12|90
+Andrew Moore|R|Melky Cabrera|L|Single|F|Curveball|7|1|2|1|4|74
+Andrew Moore|R|Melky Cabrera|L|Single|B|Four-Seam Fastball|8|1|2|1|11|91
+Andrew Moore|R|Melky Cabrera|L|Single|F|Changeup|9|2|2|1|1|82
+Andrew Moore|R|Melky Cabrera|L|Single|F|Four-Seam Fastball|10|2|2|1|3|90
+Andrew Moore|R|Melky Cabrera|L|Single|D|Changeup|11|2|2|1|7|81
+Andrew Moore|R|Jose Abreu|R|Pop Out|B|Slider|12|0|0|1|14|82
+Andrew Moore|R|Jose Abreu|R|Pop Out|F|Four-Seam Fastball|13|1|0|1|11|91
+Andrew Moore|R|Jose Abreu|R|Pop Out|F|Changeup|14|1|1|1|1|81
+Andrew Moore|R|Jose Abreu|R|Pop Out|B|Slider|15|1|2|1|12|82
+Andrew Moore|R|Jose Abreu|R|Pop Out|B|Four-Seam Fastball|16|2|2|1|11|90
+Andrew Moore|R|Jose Abreu|R|Pop Out|X|Changeup|17|3|2|1|4|80
+Andrew Moore|R|Todd Frazier|R|Flyout|B|Slider|18|0|0|2|12|81
+Andrew Moore|R|Todd Frazier|R|Flyout|S|Changeup|19|1|0|2|6|80
+Andrew Moore|R|Todd Frazier|R|Flyout|B|Four-Seam Fastball|20|1|1|2|11|90
+Andrew Moore|R|Todd Frazier|R|Flyout|F|Slider|21|2|1|2|6|80
+Andrew Moore|R|Todd Frazier|R|Flyout|X|Four-Seam Fastball|22|2|2|2|2|91
+Andrew Moore|R|Avisail Garcia|R|Home Run|E|Slider|23|0|0|0|9|80
+Andrew Moore|R|Matt Davidson|R|Flyout|B|Four-Seam Fastball|24|0|0|0|14|91
+Andrew Moore|R|Matt Davidson|R|Flyout|B|Slider|25|1|0|0|14|81
+Andrew Moore|R|Matt Davidson|R|Flyout|X|Four-Seam Fastball|26|2|0|0|6|90
+Andrew Moore|R|Tim Anderson|R|Single|B|Slider|27|0|0|1|14|83
+Andrew Moore|R|Tim Anderson|R|Single|B|Four-Seam Fastball|28|1|0|1|11|89
+Andrew Moore|R|Tim Anderson|R|Single|S|Four-Seam Fastball|29|2|0|1|3|91
+Andrew Moore|R|Tim Anderson|R|Single|C|Four-Seam Fastball|30|2|1|1|3|89
+Andrew Moore|R|Tim Anderson|R|Single|B|Four-Seam Fastball|31|2|2|1|12|91
+Andrew Moore|R|Tim Anderson|R|Single|D|Changeup|32|3|2|1|3|81
+Andrew Moore|R|Omar Narvaez|L|Home Run|F|Four-Seam Fastball|33|0|0|1|4|91
+Andrew Moore|R|Omar Narvaez|L|Home Run|E|Four-Seam Fastball|34|0|1|1|6|89
+Andrew Moore|R|Alen Hanson|L|Flyout|C|Four-Seam Fastball|35|0|0|1|8|91
+Andrew Moore|R|Alen Hanson|L|Flyout|F|Curveball|36|0|1|1|4|77
+Andrew Moore|R|Alen Hanson|L|Flyout|X|Four-Seam Fastball|37|0|2|1|3|90
+Andrew Moore|R|Yolmer Sanchez|L|Groundout|X|Four-Seam Fastball|38|0|0|2|9|90
+Andrew Moore|R|Melky Cabrera|L|Groundout|C|Four-Seam Fastball|39|0|0|0|11|89
+Andrew Moore|R|Melky Cabrera|L|Groundout|F|Four-Seam Fastball|40|0|1|0|2|89
+Andrew Moore|R|Melky Cabrera|L|Groundout|F|Four-Seam Fastball|41|0|2|0|6|89
+Andrew Moore|R|Melky Cabrera|L|Groundout|F|Four-Seam Fastball|42|0|2|0|12|89
+Andrew Moore|R|Melky Cabrera|L|Groundout|B|Curveball|43|0|2|0|13|75
+Andrew Moore|R|Melky Cabrera|L|Groundout|B|Four-Seam Fastball|44|1|2|0|11|90
+Andrew Moore|R|Melky Cabrera|L|Groundout|X|Four-Seam Fastball|45|2|2|0|4|91
+Andrew Moore|R|Jose Abreu|R|Single|C|Four-Seam Fastball|46|0|0|1|8|92
+Andrew Moore|R|Jose Abreu|R|Single|B|Slider|47|0|1|1|14|82
+Andrew Moore|R|Jose Abreu|R|Single|F|Four-Seam Fastball|48|1|1|1|11|90
+Andrew Moore|R|Jose Abreu|R|Single|B|Four-Seam Fastball|49|1|2|1|11|91
+Andrew Moore|R|Jose Abreu|R|Single|D|Slider|50|2|2|1|14|81
+Andrew Moore|R|Todd Frazier|R|Lineout|B|Four-Seam Fastball|51|0|0|1|12|92
+Andrew Moore|R|Todd Frazier|R|Lineout|C|Four-Seam Fastball|52|1|0|1|9|90
+Andrew Moore|R|Todd Frazier|R|Lineout|*B|Changeup|53|1|1|1|14|82
+Andrew Moore|R|Todd Frazier|R|Lineout|F|Four-Seam Fastball|54|2|1|1|11|90
+Andrew Moore|R|Todd Frazier|R|Lineout|F|Slider|55|2|2|1|3|81
+Andrew Moore|R|Todd Frazier|R|Lineout|B|Changeup|56|2|2|1|11|79
+Andrew Moore|R|Todd Frazier|R|Lineout|X|Four-Seam Fastball|57|3|2|1|6|91
+Andrew Moore|R|Avisail Garcia|R|Home Run|B|Four-Seam Fastball|58|0|0|2|11|90
+Andrew Moore|R|Avisail Garcia|R|Home Run|F|Four-Seam Fastball|59|1|0|2|4|89
+Andrew Moore|R|Avisail Garcia|R|Home Run|B|Four-Seam Fastball|60|1|1|2|13|88
+Andrew Moore|R|Avisail Garcia|R|Home Run|*B|Changeup|61|2|1|2|14|80
+Andrew Moore|R|Avisail Garcia|R|Home Run|E|Changeup|62|3|1|2|2|80
+Andrew Moore|R|Matt Davidson|R|Strikeout|B|Slider|63|0|0|2|14|81
+Andrew Moore|R|Matt Davidson|R|Strikeout|C|Four-Seam Fastball|64|1|0|2|9|90
+Andrew Moore|R|Matt Davidson|R|Strikeout|B|Slider|65|1|1|2|14|81
+Andrew Moore|R|Matt Davidson|R|Strikeout|B|Four-Seam Fastball|66|2|1|2|14|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|67|3|1|2|5|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|68|3|2|2|3|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|69|3|2|2|1|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|70|3|2|2|13|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|71|3|2|2|2|90
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|72|3|2|2|13|89
+Andrew Moore|R|Matt Davidson|R|Strikeout|F|Four-Seam Fastball|73|3|2|2|4|91
+Andrew Moore|R|Matt Davidson|R|Strikeout|S|Four-Seam Fastball|74|3|2|2|13|91
+Andrew Moore|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|0|0|0|0|8|90
+Andrew Moore|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|1|0|1|0|7|90
+Andrew Moore|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|2|0|2|0|12|91
+Andrew Moore|R|Brett Gardner|L|Groundout|X|Changeup|3|1|2|0|13|81
+Andrew Moore|R|Gary Sanchez|R|Flyout|B|Four-Seam Fastball|4|0|0|1|14|91
+Andrew Moore|R|Gary Sanchez|R|Flyout|X|Four-Seam Fastball|5|1|0|1|6|91
+Andrew Moore|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|6|0|0|2|9|92
+Andrew Moore|R|Aaron Judge|R|Strikeout|C|Slider|7|0|1|2|14|82
+Andrew Moore|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|8|0|2|2|14|92
+Andrew Moore|R|Matt Holliday|R|Single|B|Four-Seam Fastball|9|0|0|0|14|90
+Andrew Moore|R|Matt Holliday|R|Single|F|Four-Seam Fastball|10|1|0|0|5|91
+Andrew Moore|R|Matt Holliday|R|Single|B|Slider|11|1|1|0|14|81
+Andrew Moore|R|Matt Holliday|R|Single|D|Four-Seam Fastball|12|2|1|0|6|90
+Andrew Moore|R|Starlin Castro|R|Grounded Into DP|S|Four-Seam Fastball|13|0|0|0|1|91
+Andrew Moore|R|Starlin Castro|R|Grounded Into DP|F|Slider|14|0|1|0|8|81
+Andrew Moore|R|Starlin Castro|R|Grounded Into DP|F|Four-Seam Fastball|15|0|2|0|11|89
+Andrew Moore|R|Starlin Castro|R|Grounded Into DP|X|Four-Seam Fastball|16|0|2|0|9|90
+Andrew Moore|R|Didi Gregorius|L|Single|B|Four-Seam Fastball|17|0|0|2|11|91
+Andrew Moore|R|Didi Gregorius|L|Single|C|Changeup|18|1|0|2|6|81
+Andrew Moore|R|Didi Gregorius|L|Single|F|Four-Seam Fastball|19|1|1|2|11|89
+Andrew Moore|R|Didi Gregorius|L|Single|B|Curveball|20|1|2|2|14|76
+Andrew Moore|R|Didi Gregorius|L|Single|D|Four-Seam Fastball|21|2|2|2|11|90
+Andrew Moore|R|Todd Frazier|R|Pop Out|B|Four-Seam Fastball|22|0|0|2|12|91
+Andrew Moore|R|Todd Frazier|R|Pop Out|F|Four-Seam Fastball|23|1|0|2|4|90
+Andrew Moore|R|Todd Frazier|R|Pop Out|B|Slider|24|1|1|2|14|81
+Andrew Moore|R|Todd Frazier|R|Pop Out|C|Four-Seam Fastball|25|2|1|2|14|89
+Andrew Moore|R|Todd Frazier|R|Pop Out|X|Slider|26|2|2|2|3|80
+Andrew Moore|R|Chase Headley|L|Double|D|Four-Seam Fastball|27|0|0|0|11|87
+Andrew Moore|R|Clint Frazier|R|Double|E|Slider|28|0|0|0|9|80
+Andrew Moore|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|29|0|0|0|6|90
+Andrew Moore|R|Gary Sanchez|R|Walk|F|Four-Seam Fastball|30|0|0|1|1|89
+Andrew Moore|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|31|0|1|1|11|89
+Andrew Moore|R|Gary Sanchez|R|Walk|*B|Slider|32|1|1|1|14|82
+Andrew Moore|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|33|2|1|1|11|89
+Andrew Moore|R|Gary Sanchez|R|Walk|B|Four-Seam Fastball|34|3|1|1|11|89
+Andrew Moore|R|Aaron Judge|R|Sac Fly|F|Four-Seam Fastball|35|0|0|1|14|91
+Andrew Moore|R|Aaron Judge|R|Sac Fly|B|Curveball|36|0|1|1|14|76
+Andrew Moore|R|Aaron Judge|R|Sac Fly|F|Slider|37|1|1|1|14|82
+Andrew Moore|R|Aaron Judge|R|Sac Fly|B|Slider|38|1|2|1|14|82
+Andrew Moore|R|Aaron Judge|R|Sac Fly|B|Four-Seam Fastball|39|2|2|1|12|92
+Andrew Moore|R|Aaron Judge|R|Sac Fly|E|Changeup|40|3|2|1|6|80
+Andrew Moore|R|Matt Holliday|R|Pop Out|F|Four-Seam Fastball|41|0|0|2|3|92
+Andrew Moore|R|Matt Holliday|R|Pop Out|X|Curveball|42|0|1|2|4|75
+Andrew Moore|R|Starlin Castro|R|Groundout|X|Curveball|43|0|0|0|7|74
+Andrew Moore|R|Didi Gregorius|L|Single|B|Curveball|44|0|0|1|14|76
+Andrew Moore|R|Didi Gregorius|L|Single|B|Changeup|45|1|0|1|13|80
+Andrew Moore|R|Didi Gregorius|L|Single|B|Four-Seam Fastball|46|2|0|1|11|89
+Andrew Moore|R|Didi Gregorius|L|Single|C|Four-Seam Fastball|47|3|0|1|3|88
+Andrew Moore|R|Didi Gregorius|L|Single|F|Four-Seam Fastball|48|3|1|1|12|88
+Andrew Moore|R|Didi Gregorius|L|Single|D|Four-Seam Fastball|49|3|2|1|5|90
+Andrew Moore|R|Todd Frazier|R|Flyout|F|Four-Seam Fastball|50|0|0|1|4|90
+Andrew Moore|R|Todd Frazier|R|Flyout|X|Slider|51|0|1|1|3|80
+Andrew Moore|R|Chase Headley|L|Flyout|C|Curveball|52|0|0|2|1|76
+Andrew Moore|R|Chase Headley|L|Flyout|B|Changeup|53|0|1|2|11|79
+Andrew Moore|R|Chase Headley|L|Flyout|F|Curveball|54|1|1|2|6|75
+Andrew Moore|R|Chase Headley|L|Flyout|B|Four-Seam Fastball|55|1|2|2|12|90
+Andrew Moore|R|Chase Headley|L|Flyout|X|Changeup|56|2|2|2|7|78
+Andrew Moore|R|Clint Frazier|R|Pop Out|X|Four-Seam Fastball|57|0|0|0|1|88
+Andrew Moore|R|Brett Gardner|L|Single|C|Four-Seam Fastball|58|0|0|1|2|88
+Andrew Moore|R|Brett Gardner|L|Single|D|Curveball|59|0|1|1|8|75
+Andrew Moore|R|Gary Sanchez|R|Single|B|Slider|60|0|0|1|12|81
+Andrew Moore|R|Gary Sanchez|R|Single|F|Slider|61|1|0|1|5|79
+Andrew Moore|R|Gary Sanchez|R|Single|D|Four-Seam Fastball|62|1|1|1|11|89
+Andrew Moore|R|Aaron Judge|R|Home Run|B|Four-Seam Fastball|63|0|0|1|14|91
+Andrew Moore|R|Aaron Judge|R|Home Run|*B|Curveball|64|1|0|1|14|76
+Andrew Moore|R|Aaron Judge|R|Home Run|F|Four-Seam Fastball|65|2|0|1|6|90
+Andrew Moore|R|Aaron Judge|R|Home Run|E|Curveball|66|2|1|1|1|76
+Andrew Moore|R|Matt Holliday|R|Groundout|C|Four-Seam Fastball|67|0|0|1|14|92
+Andrew Moore|R|Matt Holliday|R|Groundout|X|Slider|68|0|1|1|12|82
+Andrew Moore|R|Starlin Castro|R|Flyout|C|Curveball|69|0|0|2|14|76
+Andrew Moore|R|Starlin Castro|R|Flyout|F|Four-Seam Fastball|70|0|1|2|5|90
+Andrew Moore|R|Starlin Castro|R|Flyout|B|Curveball|71|0|2|2|13|76
+Andrew Moore|R|Starlin Castro|R|Flyout|B|Curveball|72|1|2|2|14|75
+Andrew Moore|R|Starlin Castro|R|Flyout|X|Four-Seam Fastball|73|2|2|2|1|90
+Andrew Moore|R|Didi Gregorius|L|Pop Out|C|Four-Seam Fastball|74|0|0|0|8|87
+Andrew Moore|R|Didi Gregorius|L|Pop Out|S|Four-Seam Fastball|75|0|1|0|2|88
+Andrew Moore|R|Didi Gregorius|L|Pop Out|X|Four-Seam Fastball|76|0|2|0|12|88
+Andrew Moore|R|Todd Frazier|R|Strikeout|C|Four-Seam Fastball|77|0|0|1|12|89
+Andrew Moore|R|Todd Frazier|R|Strikeout|F|Slider|78|0|1|1|12|81
+Andrew Moore|R|Todd Frazier|R|Strikeout|S|Curveball|79|0|2|1|14|74
+Andrew Moore|R|Chase Headley|L|Single|B|Four-Seam Fastball|80|0|0|2|11|89
+Andrew Moore|R|Chase Headley|L|Single|C|Curveball|81|1|0|2|14|76
+Andrew Moore|R|Chase Headley|L|Single|D|Curveball|82|1|1|2|4|75
+Andrew Moore|R|Clint Frazier|R|Lineout|C|Four-Seam Fastball|83|0|0|2|12|90
+Andrew Moore|R|Clint Frazier|R|Lineout|F|Curveball|84|0|1|2|7|76
+Andrew Moore|R|Clint Frazier|R|Lineout|B|Four-Seam Fastball|85|0|2|2|11|89
+Andrew Moore|R|Clint Frazier|R|Lineout|F|Four-Seam Fastball|86|1|2|2|5|90
+Andrew Moore|R|Clint Frazier|R|Lineout|F|Curveball|87|1|2|2|9|75
+Andrew Moore|R|Clint Frazier|R|Lineout|X|Four-Seam Fastball|88|1|2|2|5|90
+Andrew Moore|R|Brock Holt|L|Lineout|C|Four-Seam Fastball|0|0|0|0|9|91
+Andrew Moore|R|Brock Holt|L|Lineout|X|Four-Seam Fastball|1|0|1|0|12|91
+Andrew Moore|R|Andrew Benintendi|L|Strikeout|C|Four-Seam Fastball|2|0|0|1|4|92
+Andrew Moore|R|Andrew Benintendi|L|Strikeout|B|Changeup|3|0|1|1|12|81
+Andrew Moore|R|Andrew Benintendi|L|Strikeout|B|Four-Seam Fastball|4|1|1|1|12|91
+Andrew Moore|R|Andrew Benintendi|L|Strikeout|F|Four-Seam Fastball|5|2|1|1|2|90
+Andrew Moore|R|Andrew Benintendi|L|Strikeout|S|Four-Seam Fastball|6|2|2|1|14|92
+Andrew Moore|R|Dustin Pedroia|R|Groundout|B|Four-Seam Fastball|7|0|0|2|14|92
+Andrew Moore|R|Dustin Pedroia|R|Groundout|X|Four-Seam Fastball|8|1|0|2|5|92
+Andrew Moore|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|9|0|0|0|12|91
+Andrew Moore|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|10|1|0|0|14|90
+Andrew Moore|R|Hanley Ramirez|R|Walk|B|Changeup|11|2|0|0|11|81
+Andrew Moore|R|Hanley Ramirez|R|Walk|C|Four-Seam Fastball|12|3|0|0|6|89
+Andrew Moore|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|13|3|1|0|12|92
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|D|Four-Seam Fastball|14|0|0|0|3|91
+Andrew Moore|R|Mitch Moreland|L|Sac Fly|C|Curveball|15|0|0|0|5|75
+Andrew Moore|R|Mitch Moreland|L|Sac Fly|B|Four-Seam Fastball|16|0|1|0|12|91
+Andrew Moore|R|Mitch Moreland|L|Sac Fly|E|Four-Seam Fastball|17|1|1|0|1|90
+Andrew Moore|R|Xander Bogaerts|R|Lineout|C|Four-Seam Fastball|18|0|0|1|14|92
+Andrew Moore|R|Xander Bogaerts|R|Lineout|B|Curveball|19|0|1|1|11|75
+Andrew Moore|R|Xander Bogaerts|R|Lineout|B|Four-Seam Fastball|20|1|1|1|12|91
+Andrew Moore|R|Xander Bogaerts|R|Lineout|S|Four-Seam Fastball|21|2|1|1|14|91
+Andrew Moore|R|Xander Bogaerts|R|Lineout|*B|Changeup|22|2|2|1|13|82
+Andrew Moore|R|Xander Bogaerts|R|Lineout|F|Four-Seam Fastball|23|3|2|1|3|92
+Andrew Moore|R|Xander Bogaerts|R|Lineout|X|Four-Seam Fastball|24|3|2|1|12|92
+Andrew Moore|R|Sandy Leon|L|Strikeout|B|Four-Seam Fastball|25|0|0|2|12|91
+Andrew Moore|R|Sandy Leon|L|Strikeout|C|Changeup|26|1|0|2|11|82
+Andrew Moore|R|Sandy Leon|L|Strikeout|B|Changeup|27|1|1|2|11|81
+Andrew Moore|R|Sandy Leon|L|Strikeout|S|Changeup|28|2|1|2|7|81
+Andrew Moore|R|Sandy Leon|L|Strikeout|B|Curveball|29|2|2|2|11|75
+Andrew Moore|R|Sandy Leon|L|Strikeout|F|Four-Seam Fastball|30|3|2|2|8|92
+Andrew Moore|R|Sandy Leon|L|Strikeout|S|Changeup|31|3|2|2|7|81
+Andrew Moore|R|Rafael Devers|L|Home Run|B|Changeup|32|0|0|0|12|79
+Andrew Moore|R|Rafael Devers|L|Home Run|B|Four-Seam Fastball|33|1|0|0|13|88
+Andrew Moore|R|Rafael Devers|L|Home Run|F|Four-Seam Fastball|34|2|0|0|11|90
+Andrew Moore|R|Rafael Devers|L|Home Run|E|Four-Seam Fastball|35|2|1|0|4|90
+Andrew Moore|R|Brock Holt|L|Groundout|B|Four-Seam Fastball|36|0|0|0|14|91
+Andrew Moore|R|Brock Holt|L|Groundout|C|Changeup|37|1|0|0|1|82
+Andrew Moore|R|Brock Holt|L|Groundout|F|Four-Seam Fastball|38|1|1|0|5|90
+Andrew Moore|R|Brock Holt|L|Groundout|B|Changeup|39|1|2|0|13|81
+Andrew Moore|R|Brock Holt|L|Groundout|X|Four-Seam Fastball|40|2|2|0|13|92
+Andrew Moore|R|Andrew Benintendi|L|Lineout|C|Four-Seam Fastball|41|0|0|1|13|91
+Andrew Moore|R|Andrew Benintendi|L|Lineout|B|Changeup|42|0|1|1|13|82
+Andrew Moore|R|Andrew Benintendi|L|Lineout|B|Four-Seam Fastball|43|1|1|1|12|91
+Andrew Moore|R|Andrew Benintendi|L|Lineout|F|Four-Seam Fastball|44|2|1|1|4|91
+Andrew Moore|R|Andrew Benintendi|L|Lineout|F|Curveball|45|2|2|1|11|74
+Andrew Moore|R|Andrew Benintendi|L|Lineout|F|Changeup|46|2|2|1|7|81
+Andrew Moore|R|Andrew Benintendi|L|Lineout|F|Curveball|47|2|2|1|13|73
+Andrew Moore|R|Andrew Benintendi|L|Lineout|F|Four-Seam Fastball|48|2|2|1|14|92
+Andrew Moore|R|Andrew Benintendi|L|Lineout|B|Four-Seam Fastball|49|2|2|1|13|91
+Andrew Moore|R|Andrew Benintendi|L|Lineout|X|Four-Seam Fastball|50|3|2|1|2|92
+Andrew Moore|R|Dustin Pedroia|R|Single|B|Four-Seam Fastball|51|0|0|2|14|92
+Andrew Moore|R|Dustin Pedroia|R|Single|C|Curveball|52|1|0|2|11|73
+Andrew Moore|R|Dustin Pedroia|R|Single|C|Four-Seam Fastball|53|1|1|2|12|92
+Andrew Moore|R|Dustin Pedroia|R|Single|B|Four-Seam Fastball|54|1|2|2|11|93
+Andrew Moore|R|Dustin Pedroia|R|Single|D|Changeup|55|2|2|2|2|81
+Andrew Moore|R|Hanley Ramirez|R|Forceout|B|Four-Seam Fastball|56|0|0|2|12|91
+Andrew Moore|R|Hanley Ramirez|R|Forceout|X|Four-Seam Fastball|57|1|0|2|12|91
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|B|Curveball|58|0|0|0|11|70
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|F|Curveball|59|1|0|0|4|70
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|F|Changeup|60|1|1|0|6|79
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|F|Four-Seam Fastball|61|1|2|0|1|90
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|B|Curveball|62|1|2|0|14|74
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|F|Four-Seam Fastball|63|2|2|0|12|91
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|B|Curveball|64|2|2|0|14|75
+Andrew Moore|R|Jackie Bradley Jr.|L|Double|D|Changeup|65|3|2|0|5|81
+Andrew Moore|R|Mitch Moreland|L|Pop Out|B|Changeup|66|0|0|0|13|81
+Andrew Moore|R|Mitch Moreland|L|Pop Out|X|Curveball|67|1|0|0|13|74
+Andrew Moore|R|Xander Bogaerts|R|Flyout|C|Curveball|68|0|0|1|7|74
+Andrew Moore|R|Xander Bogaerts|R|Flyout|X|Four-Seam Fastball|69|0|1|1|2|89
+Andrew Moore|R|Sandy Leon|L|Home Run|F|Curveball|70|0|0|2|8|74
+Andrew Moore|R|Sandy Leon|L|Home Run|F|Four-Seam Fastball|71|0|1|2|4|89
+Andrew Moore|R|Sandy Leon|L|Home Run|B|Changeup|72|0|2|2|11|80
+Andrew Moore|R|Sandy Leon|L|Home Run|E|Curveball|73|1|2|2|4|73
+Andrew Moore|R|Rafael Devers|L|Lineout|B|Curveball|74|0|0|2|11|72
+Andrew Moore|R|Rafael Devers|L|Lineout|X|Curveball|75|1|0|2|5|74
+Andrew Moore|R|Brock Holt|L|Single|B|Four-Seam Fastball|76|0|0|0|12|87
+Andrew Moore|R|Brock Holt|L|Single|C|Curveball|77|1|0|0|9|71
+Andrew Moore|R|Brock Holt|L|Single|F|Four-Seam Fastball|78|1|1|0|2|86
+Andrew Moore|R|Brock Holt|L|Single|B|Four-Seam Fastball|79|1|2|0|13|90
+Andrew Moore|R|Brock Holt|L|Single|B|Changeup|80|2|2|0|11|79
+Andrew Moore|R|Brock Holt|L|Single|D|Four-Seam Fastball|81|3|2|0|4|89
+Andrew Moore|R|Andrew Benintendi|L|Flyout|F|Changeup|82|0|0|0|2|78
+Andrew Moore|R|Andrew Benintendi|L|Flyout|X|Four-Seam Fastball|83|0|1|0|9|89
+Andrew Moore|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|84|0|0|1|14|90
+Andrew Moore|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|85|1|0|1|12|90
+Andrew Moore|R|Dustin Pedroia|R|Grounded Into DP|F|Four-Seam Fastball|86|2|0|1|2|89
+Andrew Moore|R|Dustin Pedroia|R|Grounded Into DP|B|Four-Seam Fastball|87|2|1|1|11|89
+Andrew Moore|R|Dustin Pedroia|R|Grounded Into DP|X|Four-Seam Fastball|88|3|1|1|6|90
+Andrew Moore|R|Hanley Ramirez|R|Flyout|X|Four-Seam Fastball|89|0|0|0|5|90
+Andrew Moore|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|90|0|0|1|11|89
+Andrew Moore|R|Jackie Bradley Jr.|L|Strikeout|S|Changeup|91|1|0|1|7|80
+Andrew Moore|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|92|1|1|1|4|90
+Andrew Moore|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|93|1|2|1|12|87
+Andrew Moore|R|Mitch Moreland|L|Pop Out|C|Four-Seam Fastball|94|0|0|2|6|89
+Andrew Moore|R|Mitch Moreland|L|Pop Out|X|Four-Seam Fastball|95|0|1|2|12|90
+Andrew Moore|R|Xander Bogaerts|R|Lineout|C|Four-Seam Fastball|96|0|0|0|8|88
+Andrew Moore|R|Xander Bogaerts|R|Lineout|S|Changeup|97|0|1|0|14|81
+Andrew Moore|R|Xander Bogaerts|R|Lineout|B|Changeup|98|0|2|0|14|79
+Andrew Moore|R|Xander Bogaerts|R|Lineout|X|Four-Seam Fastball|99|1|2|0|2|91
+Andrew Moore|R|Sandy Leon|L|Groundout|B|Changeup|100|0|0|1|11|80
+Andrew Moore|R|Sandy Leon|L|Groundout|C|Changeup|101|1|0|1|6|79
+Andrew Moore|R|Sandy Leon|L|Groundout|X|Four-Seam Fastball|102|1|1|1|6|91
+Andrew Moore|R|Albert Pujols|R|Single|B|Four-Seam Fastball|0|0|0|0|14|93
+Andrew Moore|R|Albert Pujols|R|Single|C|Four-Seam Fastball|1|1|0|0|14|92
+Andrew Moore|R|Albert Pujols|R|Single|B|Four-Seam Fastball|2|1|1|0|14|93
+Andrew Moore|R|Albert Pujols|R|Single|D|Slider|3|2|1|0|12|83
+Andrew Moore|R|C.J. Cron|R|Pop Out|B|Four-Seam Fastball|4|0|0|0|12|93
+Andrew Moore|R|C.J. Cron|R|Pop Out|B|Changeup|5|1|0|0|14|81
+Andrew Moore|R|C.J. Cron|R|Pop Out|F|Four-Seam Fastball|6|2|0|0|9|92
+Andrew Moore|R|C.J. Cron|R|Pop Out|X|Changeup|7|2|1|0|6|81
+Andrew Moore|R|Andrelton Simmons|R|Pop Out|X|Curveball|8|0|0|1|7|75
+Andrew Moore|R|Jefry Marte|R|Strikeout|S|Four-Seam Fastball|9|0|0|2|3|92
+Andrew Moore|R|Jefry Marte|R|Strikeout|S|Changeup|10|0|1|2|1|82
+Andrew Moore|R|Jefry Marte|R|Strikeout|B|Changeup|11|0|2|2|13|80
+Andrew Moore|R|Jefry Marte|R|Strikeout|B|Four-Seam Fastball|12|1|2|2|12|90
+Andrew Moore|R|Jefry Marte|R|Strikeout|F|Changeup|13|2|2|2|13|81
+Andrew Moore|R|Jefry Marte|R|Strikeout|B|Four-Seam Fastball|14|2|2|2|14|93
+Andrew Moore|R|Jefry Marte|R|Strikeout|S|Changeup|15|3|2|2|14|81
+Andrew Moore|R|Kole Calhoun|L|Flyout|C|Four-Seam Fastball|16|0|0|0|1|90
+Andrew Moore|R|Kole Calhoun|L|Flyout|B|Four-Seam Fastball|17|0|1|0|11|89
+Andrew Moore|R|Kole Calhoun|L|Flyout|X|Changeup|18|1|1|0|4|81
+Andrew Moore|R|Martin Maldonado|R|Single|S|Slider|19|0|0|1|9|83
+Andrew Moore|R|Martin Maldonado|R|Single|F|Changeup|20|0|1|1|2|82
+Andrew Moore|R|Martin Maldonado|R|Single|D|Four-Seam Fastball|21|0|2|1|2|92
+Andrew Moore|R|Cliff Pennington|L|Flyout|C|Curveball|22|0|0|1|8|74
+Andrew Moore|R|Cliff Pennington|L|Flyout|C|Four-Seam Fastball|23|0|1|1|7|91
+Andrew Moore|R|Cliff Pennington|L|Flyout|X|Changeup|24|0|2|1|2|80
+Andrew Moore|R|Cameron Maybin|R|Single|C|Four-Seam Fastball|25|0|0|2|7|92
+Andrew Moore|R|Cameron Maybin|R|Single|B|Four-Seam Fastball|26|0|1|2|14|91
+Andrew Moore|R|Cameron Maybin|R|Single|C|Slider|27|1|1|2|14|83
+Andrew Moore|R|Cameron Maybin|R|Single|D|Four-Seam Fastball|28|1|2|2|6|92
+Andrew Moore|R|Mike Trout|R|Walk|B|Curveball|29|0|0|2|11|73
+Andrew Moore|R|Mike Trout|R|Walk|B|Four-Seam Fastball|30|1|0|2|12|91
+Andrew Moore|R|Mike Trout|R|Walk|B|Slider|31|2|0|2|14|83
+Andrew Moore|R|Mike Trout|R|Walk|B|Four-Seam Fastball|32|3|0|2|13|92
+Andrew Moore|R|Albert Pujols|R|Single|B|Four-Seam Fastball|33|0|0|2|13|92
+Andrew Moore|R|Albert Pujols|R|Single|F|Four-Seam Fastball|34|1|0|2|8|92
+Andrew Moore|R|Albert Pujols|R|Single|C|Changeup|35|1|1|2|9|83
+Andrew Moore|R|Albert Pujols|R|Single|F|Changeup|36|1|2|2|6|81
+Andrew Moore|R|Albert Pujols|R|Single|F|Four-Seam Fastball|37|1|2|2|14|93
+Andrew Moore|R|Albert Pujols|R|Single|E|Slider|38|1|2|2|14|82
+Andrew Moore|R|C.J. Cron|R|Single|C|Four-Seam Fastball|39|0|0|2|14|93
+Andrew Moore|R|C.J. Cron|R|Single|B|Four-Seam Fastball|40|0|1|2|14|91
+Andrew Moore|R|C.J. Cron|R|Single|E|Changeup|41|1|1|2|9|83
+Andrew Moore|R|Andrelton Simmons|R|Double|B|Changeup|42|0|0|2|13|83
+Andrew Moore|R|Andrelton Simmons|R|Double|C|Four-Seam Fastball|43|1|0|2|3|92
+Andrew Moore|R|Andrelton Simmons|R|Double|E|Changeup|44|1|1|2|1|82
+Andrew Moore|R|George Springer|R|Strikeout|C|Changeup|0|0|0|0|13|82
+Andrew Moore|R|George Springer|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|91
+Andrew Moore|R|George Springer|R|Strikeout|T|Four-Seam Fastball|2|0|2|0|12|91
+Andrew Moore|R|Alex Bregman|R|Double|C|Four-Seam Fastball|3|0|0|1|1|93
+Andrew Moore|R|Alex Bregman|R|Double|D|Slider|4|0|1|1|8|81
+Andrew Moore|R|Carlos Correa|R|Groundout|C|Four-Seam Fastball|5|0|0|1|7|91
+Andrew Moore|R|Carlos Correa|R|Groundout|B|Four-Seam Fastball|6|0|1|1|11|91
+Andrew Moore|R|Carlos Correa|R|Groundout|*B|Changeup|7|1|1|1|13|82
+Andrew Moore|R|Carlos Correa|R|Groundout|S|Four-Seam Fastball|8|2|1|1|6|91
+Andrew Moore|R|Carlos Correa|R|Groundout|X|Four-Seam Fastball|9|2|2|1|11|91
+Andrew Moore|R|Josh Reddick|L|Walk|C|Curveball|10|0|0|2|13|75
+Andrew Moore|R|Josh Reddick|L|Walk|B|Changeup|11|0|1|2|13|82
+Andrew Moore|R|Josh Reddick|L|Walk|S|Four-Seam Fastball|12|1|1|2|2|91
+Andrew Moore|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|13|1|2|2|12|92
+Andrew Moore|R|Josh Reddick|L|Walk|B|Changeup|14|2|2|2|13|83
+Andrew Moore|R|Josh Reddick|L|Walk|F|Four-Seam Fastball|15|3|2|2|12|92
+Andrew Moore|R|Josh Reddick|L|Walk|B|Changeup|16|3|2|2|13|83
+Andrew Moore|R|Yuli Gurriel|R|Groundout|S|Four-Seam Fastball|17|0|0|2|2|93
+Andrew Moore|R|Yuli Gurriel|R|Groundout|F|Curveball|18|0|1|2|4|75
+Andrew Moore|R|Yuli Gurriel|R|Groundout|F|Four-Seam Fastball|19|0|2|2|3|94
+Andrew Moore|R|Yuli Gurriel|R|Groundout|*B|Changeup|20|0|2|2|13|83
+Andrew Moore|R|Yuli Gurriel|R|Groundout|F|Changeup|21|1|2|2|7|83
+Andrew Moore|R|Yuli Gurriel|R|Groundout|X|Four-Seam Fastball|22|1|2|2|12|93
+Andrew Moore|R|Marwin Gonzalez|L|Strikeout|B|Curveball|23|0|0|0|11|73
+Andrew Moore|R|Marwin Gonzalez|L|Strikeout|C|Changeup|24|1|0|0|13|81
+Andrew Moore|R|Marwin Gonzalez|L|Strikeout|C|Curveball|25|1|1|0|9|73
+Andrew Moore|R|Marwin Gonzalez|L|Strikeout|S|Four-Seam Fastball|26|1|2|0|12|92
+Andrew Moore|R|Carlos Beltran|L|Flyout|B|Four-Seam Fastball|27|0|0|1|13|92
+Andrew Moore|R|Carlos Beltran|L|Flyout|B|Changeup|28|1|0|1|13|82
+Andrew Moore|R|Carlos Beltran|L|Flyout|F|Four-Seam Fastball|29|2|0|1|5|91
+Andrew Moore|R|Carlos Beltran|L|Flyout|S|Changeup|30|2|1|1|7|82
+Andrew Moore|R|Carlos Beltran|L|Flyout|B|Four-Seam Fastball|31|2|2|1|11|91
+Andrew Moore|R|Carlos Beltran|L|Flyout|F|Four-Seam Fastball|32|3|2|1|1|89
+Andrew Moore|R|Carlos Beltran|L|Flyout|X|Changeup|33|3|2|1|13|81
+Andrew Moore|R|Max Stassi|R|Groundout|C|Slider|34|0|0|2|7|80
+Andrew Moore|R|Max Stassi|R|Groundout|B|Four-Seam Fastball|35|0|1|2|12|93
+Andrew Moore|R|Max Stassi|R|Groundout|S|Changeup|36|1|1|2|7|82
+Andrew Moore|R|Max Stassi|R|Groundout|X|Four-Seam Fastball|37|1|2|2|3|91
+Andrew Moore|R|Tony Kemp|L|Groundout|C|Four-Seam Fastball|38|0|0|0|5|90
+Andrew Moore|R|Tony Kemp|L|Groundout|X|Curveball|39|0|1|0|14|73
+Andrew Moore|R|George Springer|R|Lineout|B|Curveball|40|0|0|1|14|78
+Andrew Moore|R|George Springer|R|Lineout|B|Four-Seam Fastball|41|1|0|1|14|90
+Andrew Moore|R|George Springer|R|Lineout|X|Changeup|42|2|0|1|5|81
+Andrew Moore|R|Alex Bregman|R|Flyout|X|Four-Seam Fastball|43|0|0|2|3|92
+Andrew Moore|R|Carlos Correa|R|Pop Out|B|Four-Seam Fastball|44|0|0|0|14|90
+Andrew Moore|R|Carlos Correa|R|Pop Out|F|Four-Seam Fastball|45|1|0|0|8|90
+Andrew Moore|R|Carlos Correa|R|Pop Out|X|Four-Seam Fastball|46|1|1|0|4|89
+Andrew Moore|R|Josh Reddick|L|Single|B|Curveball|47|0|0|1|14|74
+Andrew Moore|R|Josh Reddick|L|Single|C|Four-Seam Fastball|48|1|0|1|3|90
+Andrew Moore|R|Josh Reddick|L|Single|D|Changeup|49|1|1|1|1|81
+Andrew Moore|R|Yuli Gurriel|R|Walk|S|Changeup|50|0|0|1|12|79
+Andrew Moore|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|51|0|1|1|12|90
+Andrew Moore|R|Yuli Gurriel|R|Walk|B|Changeup|52|1|1|1|14|81
+Andrew Moore|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|53|2|1|1|12|91
+Andrew Moore|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|54|3|1|1|12|90
+Andrew Moore|R|Marwin Gonzalez|L|Double|B|Curveball|55|0|0|1|14|74
+Andrew Moore|R|Marwin Gonzalez|L|Double|C|Changeup|56|1|0|1|7|81
+Andrew Moore|R|Marwin Gonzalez|L|Double|E|Curveball|57|1|1|1|5|72
+Andrew Moore|R|Carlos Beltran|L|Pop Out|X|Four-Seam Fastball|58|0|0|1|11|90
+Andrew Moore|R|Max Stassi|R|Pickoff Caught Stealing 3B|B|Changeup|59|0|0|2|13|81
+Andrew Moore|R|Max Stassi|R|Pickoff Caught Stealing 3B|F|Four-Seam Fastball|60|1|0|2|2|91
+Andrew Moore|R|Max Stassi|R|Strikeout|C|Curveball|61|0|0|0|7|78
+Andrew Moore|R|Max Stassi|R|Strikeout|B|Four-Seam Fastball|62|0|1|0|1|91
+Andrew Moore|R|Max Stassi|R|Strikeout|B|Slider|63|1|1|0|14|78
+Andrew Moore|R|Max Stassi|R|Strikeout|C|Four-Seam Fastball|64|2|1|0|1|89
+Andrew Moore|R|Max Stassi|R|Strikeout|S|Changeup|65|2|2|0|5|80
+Andrew Moore|R|Tony Kemp|L|Flyout|B|Four-Seam Fastball|66|0|0|1|11|90
+Andrew Moore|R|Tony Kemp|L|Flyout|S|Four-Seam Fastball|67|1|0|1|8|90
+Andrew Moore|R|Tony Kemp|L|Flyout|F|Four-Seam Fastball|68|1|1|1|8|90
+Andrew Moore|R|Tony Kemp|L|Flyout|F|Changeup|69|1|2|1|13|81
+Andrew Moore|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|70|1|2|1|1|91
+Andrew Moore|R|George Springer|R|Pop Out|B|Slider|71|0|0|2|11|78
+Andrew Moore|R|George Springer|R|Pop Out|S|Four-Seam Fastball|72|1|0|2|2|91
+Andrew Moore|R|George Springer|R|Pop Out|X|Four-Seam Fastball|73|1|1|2|2|91
+Andrew Moore|R|Alex Bregman|R|Flyout|X|Four-Seam Fastball|74|0|0|0|3|91
+Andrew Moore|R|Carlos Correa|R|Flyout|B|Curveball|75|0|0|1|11|72
+Andrew Moore|R|Carlos Correa|R|Flyout|X|Changeup|76|1|0|1|5|80
+Andrew Moore|R|Josh Reddick|L|Field Error|C|Four-Seam Fastball|77|0|0|2|5|89
+Andrew Moore|R|Josh Reddick|L|Field Error|D|Curveball|78|0|1|2|8|74
+Andrew Moore|R|Yuli Gurriel|R|Groundout|X|Four-Seam Fastball|79|0|0|2|12|91
+Andrew Moore|R|Joey Gallo|L|Groundout|C|Curveball|0|0|0|0|5|73
+Andrew Moore|R|Joey Gallo|L|Groundout|X|Changeup|1|0|1|0|13|81
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|3|93
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|B|Slider|3|0|1|1|14|82
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|C|Changeup|4|1|1|1|9|83
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|S|Four-Seam Fastball|5|1|2|1|2|93
+Andrew Moore|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|6|0|0|2|12|92
+Andrew Moore|R|Rougned Odor|L|Strikeout|B|Changeup|7|1|0|2|11|83
+Andrew Moore|R|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|8|2|0|2|2|92
+Andrew Moore|R|Rougned Odor|L|Strikeout|B|Changeup|9|2|1|2|13|82
+Andrew Moore|R|Rougned Odor|L|Strikeout|F|Changeup|10|3|1|2|1|82
+Andrew Moore|R|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|11|3|2|2|2|92
+Andrew Moore|R|Ryan Rua|R|Flyout|C|Four-Seam Fastball|12|0|0|0|3|92
+Andrew Moore|R|Ryan Rua|R|Flyout|S|N/A|13|0|1|0|0|0
+Andrew Moore|R|Ryan Rua|R|Flyout|B|Slider|14|0|2|0|14|81
+Andrew Moore|R|Ryan Rua|R|Flyout|B|Four-Seam Fastball|15|1|2|0|12|93
+Andrew Moore|R|Ryan Rua|R|Flyout|F|Changeup|16|2|2|0|2|81
+Andrew Moore|R|Ryan Rua|R|Flyout|X|Four-Seam Fastball|17|2|2|0|12|93
+Andrew Moore|R|Delino DeShields|R|Home Run|C|Four-Seam Fastball|18|0|0|1|4|92
+Andrew Moore|R|Delino DeShields|R|Home Run|B|Curveball|19|0|1|1|11|75
+Andrew Moore|R|Delino DeShields|R|Home Run|C|Four-Seam Fastball|20|1|1|1|4|91
+Andrew Moore|R|Delino DeShields|R|Home Run|F|Four-Seam Fastball|21|1|2|1|11|92
+Andrew Moore|R|Delino DeShields|R|Home Run|B|Changeup|22|1|2|1|14|82
+Andrew Moore|R|Delino DeShields|R|Home Run|F|Four-Seam Fastball|23|2|2|1|12|92
+Andrew Moore|R|Delino DeShields|R|Home Run|F|Four-Seam Fastball|24|2|2|1|14|93
+Andrew Moore|R|Delino DeShields|R|Home Run|B|Changeup|25|2|2|1|14|83
+Andrew Moore|R|Delino DeShields|R|Home Run|E|Four-Seam Fastball|26|3|2|1|4|92
+Andrew Moore|R|Shin-Soo Choo|L|Groundout|C|Curveball|27|0|0|1|5|75
+Andrew Moore|R|Shin-Soo Choo|L|Groundout|F|Four-Seam Fastball|28|0|1|1|2|92
+Andrew Moore|R|Shin-Soo Choo|L|Groundout|F|Changeup|29|0|2|1|13|82
+Andrew Moore|R|Shin-Soo Choo|L|Groundout|X|Curveball|30|0|2|1|4|75
+Andrew Moore|R|Elvis Andrus|R|Groundout|B|Changeup|31|0|0|2|14|82
+Andrew Moore|R|Elvis Andrus|R|Groundout|F|Slider|32|1|0|2|13|83
+Andrew Moore|R|Elvis Andrus|R|Groundout|B|Four-Seam Fastball|33|1|1|2|14|93
+Andrew Moore|R|Elvis Andrus|R|Groundout|F|Changeup|34|2|1|2|11|82
+Andrew Moore|R|Elvis Andrus|R|Groundout|X|Four-Seam Fastball|35|2|2|2|7|92
+Andrew Moore|R|Nomar Mazara|L|Groundout|C|Curveball|36|0|0|0|11|73
+Andrew Moore|R|Nomar Mazara|L|Groundout|B|Changeup|37|0|1|0|13|81
+Andrew Moore|R|Nomar Mazara|L|Groundout|S|Curveball|38|1|1|0|14|76
+Andrew Moore|R|Nomar Mazara|L|Groundout|F|Four-Seam Fastball|39|1|2|0|12|91
+Andrew Moore|R|Nomar Mazara|L|Groundout|B|Curveball|40|1|2|0|13|75
+Andrew Moore|R|Nomar Mazara|L|Groundout|B|Changeup|41|2|2|0|11|82
+Andrew Moore|R|Nomar Mazara|L|Groundout|F|Changeup|42|3|2|0|11|82
+Andrew Moore|R|Nomar Mazara|L|Groundout|X|Four-Seam Fastball|43|3|2|0|12|92
+Andrew Moore|R|Robinson Chirinos|R|Groundout|S|Slider|44|0|0|1|5|83
+Andrew Moore|R|Robinson Chirinos|R|Groundout|B|Changeup|45|0|1|1|14|83
+Andrew Moore|R|Robinson Chirinos|R|Groundout|X|Four-Seam Fastball|46|1|1|1|4|92
+Andrew Moore|R|Joey Gallo|L|Flyout|C|Changeup|47|0|0|2|8|83
+Andrew Moore|R|Joey Gallo|L|Flyout|X|Curveball|48|0|1|2|13|77
+Andrew Moore|R|Will Middlebrooks|R|Lineout|C|Slider|49|0|0|0|14|80
+Andrew Moore|R|Will Middlebrooks|R|Lineout|C|Four-Seam Fastball|50|0|1|0|8|90
+Andrew Moore|R|Will Middlebrooks|R|Lineout|B|Changeup|51|0|2|0|14|81
+Andrew Moore|R|Will Middlebrooks|R|Lineout|X|Four-Seam Fastball|52|1|2|0|6|92
+Andrew Moore|R|Rougned Odor|L|Pop Out|X|Changeup|53|0|0|1|3|82
+Andrew Moore|R|Ryan Rua|R|Strikeout|C|Slider|54|0|0|2|6|84
+Andrew Moore|R|Ryan Rua|R|Strikeout|C|Slider|55|0|1|2|14|82
+Andrew Moore|R|Ryan Rua|R|Strikeout|C|Four-Seam Fastball|56|0|2|2|4|92
+Andrew Moore|R|Delino DeShields|R|Groundout|C|Four-Seam Fastball|57|0|0|0|3|90
+Andrew Moore|R|Delino DeShields|R|Groundout|B|Slider|58|0|1|0|14|82
+Andrew Moore|R|Delino DeShields|R|Groundout|X|Slider|59|1|1|0|5|81
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|C|Four-Seam Fastball|60|0|0|1|6|91
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|F|Curveball|61|0|1|1|4|75
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|62|0|2|1|12|90
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|B|Changeup|63|1|2|1|11|82
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|B|Curveball|64|2|2|1|14|75
+Andrew Moore|R|Shin-Soo Choo|L|Strikeout|S|Four-Seam Fastball|65|3|2|1|1|91
+Andrew Moore|R|Elvis Andrus|R|Lineout|F|Slider|66|0|0|2|3|82
+Andrew Moore|R|Elvis Andrus|R|Lineout|B|Changeup|67|0|1|2|11|81
+Andrew Moore|R|Elvis Andrus|R|Lineout|F|Changeup|68|1|1|2|8|80
+Andrew Moore|R|Elvis Andrus|R|Lineout|B|Four-Seam Fastball|69|1|2|2|13|92
+Andrew Moore|R|Elvis Andrus|R|Lineout|X|Four-Seam Fastball|70|2|2|2|6|93
+Andrew Moore|R|Nomar Mazara|L|Strikeout|C|Four-Seam Fastball|71|0|0|0|13|88
+Andrew Moore|R|Nomar Mazara|L|Strikeout|F|Curveball|72|0|1|0|7|73
+Andrew Moore|R|Nomar Mazara|L|Strikeout|S|Four-Seam Fastball|73|0|2|0|11|91
+Andrew Moore|R|Robinson Chirinos|R|Strikeout|B|Slider|74|0|0|1|11|80
+Andrew Moore|R|Robinson Chirinos|R|Strikeout|S|Four-Seam Fastball|75|1|0|1|3|91
+Andrew Moore|R|Robinson Chirinos|R|Strikeout|B|Changeup|76|1|1|1|11|81
+Andrew Moore|R|Robinson Chirinos|R|Strikeout|F|Changeup|77|2|1|1|5|81
+Andrew Moore|R|Robinson Chirinos|R|Strikeout|S|Four-Seam Fastball|78|2|2|1|2|91
+Andrew Moore|R|Joey Gallo|L|Walk|B|Curveball|79|0|0|2|13|75
+Andrew Moore|R|Joey Gallo|L|Walk|B|Curveball|80|1|0|2|14|76
+Andrew Moore|R|Joey Gallo|L|Walk|B|Changeup|81|2|0|2|12|81
+Andrew Moore|R|Joey Gallo|L|Walk|C|Changeup|82|3|0|2|6|81
+Andrew Moore|R|Joey Gallo|L|Walk|B|Curveball|83|3|1|2|11|74
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|C|Slider|84|0|0|2|14|80
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|S|Changeup|85|0|1|2|14|82
+Andrew Moore|R|Will Middlebrooks|R|Strikeout|S|Four-Seam Fastball|86|0|2|2|2|92
+Andrew Moore|R|George Springer|R|Flyout|X|Four-Seam Fastball|0|0|0|0|4|90
+Andrew Moore|R|Josh Reddick|L|Single|C|Four-Seam Fastball|1|0|0|1|13|90
+Andrew Moore|R|Josh Reddick|L|Single|F|Changeup|2|0|1|1|11|82
+Andrew Moore|R|Josh Reddick|L|Single|F|Four-Seam Fastball|3|0|2|1|11|91
+Andrew Moore|R|Josh Reddick|L|Single|B|Changeup|4|0|2|1|13|81
+Andrew Moore|R|Josh Reddick|L|Single|B|Curveball|5|1|2|1|13|74
+Andrew Moore|R|Josh Reddick|L|Single|F|Four-Seam Fastball|6|2|2|1|11|91
+Andrew Moore|R|Josh Reddick|L|Single|F|Four-Seam Fastball|7|2|2|1|2|91
+Andrew Moore|R|Josh Reddick|L|Single|D|Changeup|8|2|2|1|13|82
+Andrew Moore|R|Carlos Correa|R|Pop Out|B|Slider|9|0|0|1|11|79
+Andrew Moore|R|Carlos Correa|R|Pop Out|B|Four-Seam Fastball|10|1|0|1|11|89
+Andrew Moore|R|Carlos Correa|R|Pop Out|B|Four-Seam Fastball|11|2|0|1|12|90
+Andrew Moore|R|Carlos Correa|R|Pop Out|C|Four-Seam Fastball|12|3|0|1|5|90
+Andrew Moore|R|Carlos Correa|R|Pop Out|T|Four-Seam Fastball|13|3|1|1|9|91
+Andrew Moore|R|Carlos Correa|R|Pop Out|X|Four-Seam Fastball|14|3|2|1|3|90
+Andrew Moore|R|Marwin Gonzalez|L|Lineout|B|Curveball|15|0|0|2|14|75
+Andrew Moore|R|Marwin Gonzalez|L|Lineout|B|Changeup|16|1|0|2|11|79
+Andrew Moore|R|Marwin Gonzalez|L|Lineout|F|Four-Seam Fastball|17|2|0|2|7|88
+Andrew Moore|R|Marwin Gonzalez|L|Lineout|X|Four-Seam Fastball|18|2|1|2|4|89
+Andrew Moore|R|Carlos Beltran|L|Pop Out|C|Four-Seam Fastball|19|0|0|0|4|89
+Andrew Moore|R|Carlos Beltran|L|Pop Out|F|Four-Seam Fastball|20|0|1|0|12|88
+Andrew Moore|R|Carlos Beltran|L|Pop Out|B|Four-Seam Fastball|21|0|2|0|11|90
+Andrew Moore|R|Carlos Beltran|L|Pop Out|X|Curveball|22|1|2|0|8|73
+Andrew Moore|R|Alex Bregman|R|Single|C|Slider|23|0|0|1|14|80
+Andrew Moore|R|Alex Bregman|R|Single|F|Curveball|24|0|1|1|11|73
+Andrew Moore|R|Alex Bregman|R|Single|D|Four-Seam Fastball|25|0|2|1|12|90
+Andrew Moore|R|Brian McCann|L|Single|F|Four-Seam Fastball|26|0|0|1|14|90
+Andrew Moore|R|Brian McCann|L|Single|D|Changeup|27|0|1|1|11|80
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|C|Curveball|28|0|0|1|13|73
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|*B|Changeup|29|0|1|1|13|80
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|F|Four-Seam Fastball|30|1|1|1|6|90
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|B|Four-Seam Fastball|31|1|2|1|11|89
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|*B|Changeup|32|2|2|1|14|81
+Andrew Moore|R|Yuli Gurriel|R|Strikeout|S|Four-Seam Fastball|33|3|2|1|14|90
+Andrew Moore|R|Derek Fisher|L|Groundout|*B|Curveball|34|0|0|2|13|75
+Andrew Moore|R|Derek Fisher|L|Groundout|X|Changeup|35|1|0|2|7|81
+Andrew Moore|R|George Springer|R|Flyout|C|Slider|36|0|0|0|7|80
+Andrew Moore|R|George Springer|R|Flyout|C|Slider|37|0|1|0|9|80
+Andrew Moore|R|George Springer|R|Flyout|X|Changeup|38|0|2|0|4|79
+Andrew Moore|R|Josh Reddick|L|Lineout|B|Curveball|39|0|0|1|13|73
+Andrew Moore|R|Josh Reddick|L|Lineout|B|Changeup|40|1|0|1|13|81
+Andrew Moore|R|Josh Reddick|L|Lineout|C|Four-Seam Fastball|41|2|0|1|5|91
+Andrew Moore|R|Josh Reddick|L|Lineout|F|Four-Seam Fastball|42|2|1|1|6|90
+Andrew Moore|R|Josh Reddick|L|Lineout|X|Four-Seam Fastball|43|2|2|1|3|91
+Andrew Moore|R|Carlos Correa|R|Lineout|C|Slider|44|0|0|2|9|82
+Andrew Moore|R|Carlos Correa|R|Lineout|X|Four-Seam Fastball|45|0|1|2|7|90
+Andrew Moore|R|Marwin Gonzalez|L|Double|C|Four-Seam Fastball|46|0|0|0|4|89
+Andrew Moore|R|Marwin Gonzalez|L|Double|S|Curveball|47|0|1|0|14|74
+Andrew Moore|R|Marwin Gonzalez|L|Double|B|Curveball|48|0|2|0|13|72
+Andrew Moore|R|Marwin Gonzalez|L|Double|D|Changeup|49|1|2|0|13|79
+Andrew Moore|R|Carlos Beltran|L|Flyout|*B|Curveball|50|0|0|0|14|74
+Andrew Moore|R|Carlos Beltran|L|Flyout|X|Four-Seam Fastball|51|1|0|0|6|88
+Andrew Moore|R|Alex Bregman|R|Groundout|C|Four-Seam Fastball|52|0|0|1|13|90
+Andrew Moore|R|Alex Bregman|R|Groundout|X|Slider|53|0|1|1|14|80
+Andrew Moore|R|Brian McCann|L|Lineout|B|Four-Seam Fastball|54|0|0|2|12|90
+Andrew Moore|R|Brian McCann|L|Lineout|B|Four-Seam Fastball|55|1|0|2|3|90
+Andrew Moore|R|Brian McCann|L|Lineout|F|Four-Seam Fastball|56|2|0|2|3|88
+Andrew Moore|R|Brian McCann|L|Lineout|*B|Slider|57|2|1|2|14|82
+Andrew Moore|R|Brian McCann|L|Lineout|F|Four-Seam Fastball|58|3|1|2|14|89
+Andrew Moore|R|Brian McCann|L|Lineout|F|Four-Seam Fastball|59|3|2|2|3|91
+Andrew Moore|R|Brian McCann|L|Lineout|X|Changeup|60|3|2|2|13|81
+Andrew Moore|R|Yuli Gurriel|R|Single|B|Curveball|61|0|0|0|13|72
+Andrew Moore|R|Yuli Gurriel|R|Single|B|Changeup|62|1|0|0|14|80
+Andrew Moore|R|Yuli Gurriel|R|Single|D|Four-Seam Fastball|63|2|0|0|5|90
+Andrew Moore|R|Derek Fisher|L|Home Run|S|Changeup|64|0|0|0|13|79
+Andrew Moore|R|Derek Fisher|L|Home Run|E|Four-Seam Fastball|65|0|1|0|2|88
+Andrew Moore|R|George Springer|R|Single|B|Curveball|66|0|0|0|12|78
+Andrew Moore|R|George Springer|R|Single|B|Changeup|67|1|0|0|14|81
+Andrew Moore|R|George Springer|R|Single|C|Four-Seam Fastball|68|2|0|0|14|90
+Andrew Moore|R|George Springer|R|Single|D|Slider|69|2|1|0|5|80
+Andrew Moore|R|Josh Reddick|L|Flyout|F|Four-Seam Fastball|70|0|0|0|12|89
+Andrew Moore|R|Josh Reddick|L|Flyout|B|Curveball|71|0|1|0|14|76
+Andrew Moore|R|Josh Reddick|L|Flyout|B|Four-Seam Fastball|72|1|1|0|12|89
+Andrew Moore|R|Josh Reddick|L|Flyout|X|Four-Seam Fastball|73|2|1|0|12|90
+Andrew Moore|R|Carlos Correa|R|Flyout|C|Slider|74|0|0|1|14|82
+Andrew Moore|R|Carlos Correa|R|Flyout|B|Four-Seam Fastball|75|0|1|1|14|90
+Andrew Moore|R|Carlos Correa|R|Flyout|F|Four-Seam Fastball|76|1|1|1|11|89
+Andrew Moore|R|Carlos Correa|R|Flyout|X|Four-Seam Fastball|77|1|2|1|6|91
+Andrew Moore|R|Francisco Lindor|L|Home Run|B|Four-Seam Fastball|0|0|0|0|11|92
+Andrew Moore|R|Francisco Lindor|L|Home Run|B|Four-Seam Fastball|1|1|0|0|11|91
+Andrew Moore|R|Francisco Lindor|L|Home Run|C|Four-Seam Fastball|2|2|0|0|11|90
+Andrew Moore|R|Francisco Lindor|L|Home Run|S|Changeup|3|2|1|0|4|82
+Andrew Moore|R|Francisco Lindor|L|Home Run|B|Changeup|4|2|2|0|13|82
+Andrew Moore|R|Francisco Lindor|L|Home Run|F|Four-Seam Fastball|5|3|2|0|2|92
+Andrew Moore|R|Francisco Lindor|L|Home Run|F|Four-Seam Fastball|6|3|2|0|5|92
+Andrew Moore|R|Francisco Lindor|L|Home Run|E|Four-Seam Fastball|7|3|2|0|2|92
+Andrew Moore|R|Austin Jackson|R|Lineout|B|Four-Seam Fastball|8|0|0|0|11|93
+Andrew Moore|R|Austin Jackson|R|Lineout|B|Slider|9|1|0|0|13|86
+Andrew Moore|R|Austin Jackson|R|Lineout|F|Four-Seam Fastball|10|2|0|0|1|92
+Andrew Moore|R|Austin Jackson|R|Lineout|S|Changeup|11|2|1|0|4|83
+Andrew Moore|R|Austin Jackson|R|Lineout|X|Slider|12|2|2|0|6|83
+Andrew Moore|R|Jose Ramirez|L|Single|B|Four-Seam Fastball|13|0|0|1|13|92
+Andrew Moore|R|Jose Ramirez|L|Single|B|Curveball|14|1|0|1|13|76
+Andrew Moore|R|Jose Ramirez|L|Single|S|Changeup|15|2|0|1|5|83
+Andrew Moore|R|Jose Ramirez|L|Single|B|Changeup|16|2|1|1|11|82
+Andrew Moore|R|Jose Ramirez|L|Single|F|Four-Seam Fastball|17|3|1|1|1|90
+Andrew Moore|R|Jose Ramirez|L|Single|D|Changeup|18|3|2|1|4|82
+Andrew Moore|R|Jay Bruce|L|Pop Out|B|Curveball|19|0|0|1|13|76
+Andrew Moore|R|Jay Bruce|L|Pop Out|B|Changeup|20|1|0|1|11|81
+Andrew Moore|R|Jay Bruce|L|Pop Out|S|Four-Seam Fastball|21|2|0|1|12|90
+Andrew Moore|R|Jay Bruce|L|Pop Out|B|Four-Seam Fastball|22|2|1|1|12|91
+Andrew Moore|R|Jay Bruce|L|Pop Out|X|Four-Seam Fastball|23|3|1|1|14|91
+Andrew Moore|R|Carlos Santana|L|Flyout|C|Four-Seam Fastball|24|0|0|2|5|90
+Andrew Moore|R|Carlos Santana|L|Flyout|X|Changeup|25|0|1|2|4|82
+Andrew Moore|R|Tyler Naquin|L|Flyout|C|Four-Seam Fastball|26|0|0|0|13|90
+Andrew Moore|R|Tyler Naquin|L|Flyout|X|Curveball|27|0|1|0|13|76
+Andrew Moore|R|Yan Gomes|R|Groundout|C|Four-Seam Fastball|28|0|0|1|14|92
+Andrew Moore|R|Yan Gomes|R|Groundout|F|Slider|29|0|1|1|11|83
+Andrew Moore|R|Yan Gomes|R|Groundout|X|Four-Seam Fastball|30|0|2|1|11|91
+Andrew Moore|R|Gio Urshela|R|Groundout|C|Four-Seam Fastball|31|0|0|2|3|92
+Andrew Moore|R|Gio Urshela|R|Groundout|F|Four-Seam Fastball|32|0|1|2|2|91
+Andrew Moore|R|Gio Urshela|R|Groundout|B|Changeup|33|0|2|2|13|82
+Andrew Moore|R|Gio Urshela|R|Groundout|X|Four-Seam Fastball|34|1|2|2|12|92
+Andrew Moore|R|Erik Gonzalez|R|Strikeout|C|Four-Seam Fastball|35|0|0|0|12|91
+Andrew Moore|R|Erik Gonzalez|R|Strikeout|F|Curveball|36|0|1|0|8|76
+Andrew Moore|R|Erik Gonzalez|R|Strikeout|C|Changeup|37|0|2|0|14|81
+Andrew Moore|R|Francisco Lindor|L|Double|B|Curveball|38|0|0|1|12|76
+Andrew Moore|R|Francisco Lindor|L|Double|B|Changeup|39|1|0|1|11|82
+Andrew Moore|R|Francisco Lindor|L|Double|D|Four-Seam Fastball|40|2|0|1|12|89
+Andrew Moore|R|Austin Jackson|R|Single|B|Four-Seam Fastball|41|0|0|1|13|91
+Andrew Moore|R|Austin Jackson|R|Single|C|Four-Seam Fastball|42|1|0|1|13|91
+Andrew Moore|R|Austin Jackson|R|Single|C|Curveball|43|1|1|1|9|76
+Andrew Moore|R|Austin Jackson|R|Single|E|Changeup|44|1|2|1|12|81
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|B|Four-Seam Fastball|45|0|0|1|11|91
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|B|Four-Seam Fastball|46|1|0|1|12|90
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|B|Four-Seam Fastball|47|2|0|1|11|91
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|F|Four-Seam Fastball|48|3|0|1|12|90
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|F|Four-Seam Fastball|49|3|1|1|11|90
+Andrew Moore|R|Jose Ramirez|L|Sac Fly|E|Four-Seam Fastball|50|3|2|1|12|91
+Andrew Moore|R|Jay Bruce|L|Strikeout|S|Curveball|51|0|0|2|8|76
+Andrew Moore|R|Jay Bruce|L|Strikeout|C|Changeup|52|0|1|2|13|84
+Andrew Moore|R|Jay Bruce|L|Strikeout|B|Four-Seam Fastball|53|0|2|2|11|92
+Andrew Moore|R|Jay Bruce|L|Strikeout|F|Four-Seam Fastball|54|1|2|2|12|91
+Andrew Moore|R|Jay Bruce|L|Strikeout|B|Changeup|55|1|2|2|13|82
+Andrew Moore|R|Jay Bruce|L|Strikeout|B|Curveball|56|2|2|2|13|74
+Andrew Moore|R|Jay Bruce|L|Strikeout|S|Changeup|57|3|2|2|14|82
+Andrew Moore|R|Carlos Santana|L|Groundout|C|Four-Seam Fastball|58|0|0|0|13|89
+Andrew Moore|R|Carlos Santana|L|Groundout|B|Slider|59|0|1|0|14|81
+Andrew Moore|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|60|1|1|0|2|90
+Andrew Moore|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|61|1|2|0|12|91
+Andrew Moore|R|Tyler Naquin|L|Groundout|C|Four-Seam Fastball|62|0|0|1|8|91
+Andrew Moore|R|Tyler Naquin|L|Groundout|X|Slider|63|0|1|1|9|82
+Andrew Moore|R|Yan Gomes|R|Single|C|Slider|64|0|0|2|4|82
+Andrew Moore|R|Yan Gomes|R|Single|S|Changeup|65|0|1|2|3|82
+Andrew Moore|R|Yan Gomes|R|Single|D|Curveball|66|0|2|2|6|74
+Andrew Moore|R|Gio Urshela|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|12|89
+Andrew Moore|R|Gio Urshela|R|Strikeout|F|Slider|68|0|1|2|12|81
+Andrew Moore|R|Gio Urshela|R|Strikeout|F|Slider|69|0|2|2|12|79
+Andrew Moore|R|Gio Urshela|R|Strikeout|S|Four-Seam Fastball|70|0|2|2|5|90

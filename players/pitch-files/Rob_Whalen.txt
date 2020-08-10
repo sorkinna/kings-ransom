@@ -1,0 +1,610 @@
+Rob Whalen|R|Mookie Betts|R|Lineout|C|Four-Seam Fastball|0|0|0|0|3|89
+Rob Whalen|R|Mookie Betts|R|Lineout|C|Curveball|1|0|1|0|3|78
+Rob Whalen|R|Mookie Betts|R|Lineout|X|Slider|2|0|2|0|14|83
+Rob Whalen|R|Brock Holt|L|Groundout|B|Sinker|3|0|0|1|14|91
+Rob Whalen|R|Brock Holt|L|Groundout|B|Sinker|4|1|0|1|14|90
+Rob Whalen|R|Brock Holt|L|Groundout|C|Four-Seam Fastball|5|2|0|1|6|89
+Rob Whalen|R|Brock Holt|L|Groundout|F|Sinker|6|2|1|1|13|91
+Rob Whalen|R|Brock Holt|L|Groundout|X|Curveball|7|2|2|1|5|78
+Rob Whalen|R|J.D. Martinez|R|Groundout|S|Slider|8|0|0|2|14|83
+Rob Whalen|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|9|0|1|2|12|90
+Rob Whalen|R|J.D. Martinez|R|Groundout|S|Slider|10|1|1|2|14|82
+Rob Whalen|R|J.D. Martinez|R|Groundout|B|Slider|11|1|2|2|14|83
+Rob Whalen|R|J.D. Martinez|R|Groundout|X|Slider|12|2|2|2|8|83
+Rob Whalen|R|Mitch Moreland|L|Groundout|B|Sinker|13|0|0|0|13|89
+Rob Whalen|R|Mitch Moreland|L|Groundout|X|Sinker|14|1|0|0|13|90
+Rob Whalen|R|Xander Bogaerts|R|Flyout|C|Slider|15|0|0|1|5|82
+Rob Whalen|R|Xander Bogaerts|R|Flyout|B|Slider|16|0|1|1|14|82
+Rob Whalen|R|Xander Bogaerts|R|Flyout|B|Four-Seam Fastball|17|1|1|1|14|91
+Rob Whalen|R|Xander Bogaerts|R|Flyout|F|Sinker|18|2|1|1|7|90
+Rob Whalen|R|Xander Bogaerts|R|Flyout|X|Slider|19|2|2|1|14|81
+Rob Whalen|R|Rafael Devers|L|Groundout|B|Curveball|20|0|0|2|11|77
+Rob Whalen|R|Rafael Devers|L|Groundout|X|Sinker|21|1|0|2|7|87
+Rob Whalen|R|Eduardo Nunez|R|Groundout|C|Sinker|22|0|0|0|2|90
+Rob Whalen|R|Eduardo Nunez|R|Groundout|X|Slider|23|0|1|0|9|82
+Rob Whalen|R|Jackie Bradley Jr.|L|Lineout|F|Sinker|24|0|0|1|13|90
+Rob Whalen|R|Jackie Bradley Jr.|L|Lineout|B|Changeup|25|0|1|1|11|86
+Rob Whalen|R|Jackie Bradley Jr.|L|Lineout|B|Curveball|26|1|1|1|13|78
+Rob Whalen|R|Jackie Bradley Jr.|L|Lineout|X|Sinker|27|2|1|1|7|90
+Rob Whalen|R|Sandy Leon|L|Flyout|B|Curveball|28|0|0|2|11|76
+Rob Whalen|R|Sandy Leon|L|Flyout|S|Sinker|29|1|0|2|1|89
+Rob Whalen|R|Sandy Leon|L|Flyout|X|Sinker|30|1|1|2|8|88
+Rob Whalen|R|Mookie Betts|R|Single|F|Sinker|31|0|0|0|1|91
+Rob Whalen|R|Mookie Betts|R|Single|D|Curveball|32|0|1|0|5|77
+Rob Whalen|R|Brock Holt|L|Flyout|C|Sinker|33|0|0|0|13|88
+Rob Whalen|R|Brock Holt|L|Flyout|B|Sinker|34|0|1|0|11|90
+Rob Whalen|R|Brock Holt|L|Flyout|F|Sinker|35|1|1|0|13|88
+Rob Whalen|R|Brock Holt|L|Flyout|X|Curveball|36|1|2|0|6|78
+Rob Whalen|R|J.D. Martinez|R|Walk|*B|Slider|37|0|0|1|14|81
+Rob Whalen|R|J.D. Martinez|R|Walk|B|Sinker|38|1|0|1|14|89
+Rob Whalen|R|J.D. Martinez|R|Walk|B|Sinker|39|2|0|1|14|89
+Rob Whalen|R|J.D. Martinez|R|Walk|B|Four-Seam Fastball|40|3|0|1|14|89
+Rob Whalen|R|Mitch Moreland|L|Lineout|X|Sinker|41|0|0|1|9|90
+Rob Whalen|R|Xander Bogaerts|R|Forceout|*B|Curveball|42|0|0|2|14|78
+Rob Whalen|R|Xander Bogaerts|R|Forceout|B|Slider|43|1|0|2|14|81
+Rob Whalen|R|Xander Bogaerts|R|Forceout|B|Sinker|44|2|0|2|13|90
+Rob Whalen|R|Xander Bogaerts|R|Forceout|C|Sinker|45|3|0|2|8|91
+Rob Whalen|R|Xander Bogaerts|R|Forceout|X|Sinker|46|3|1|2|2|91
+Rob Whalen|R|Adam Frazier|L|Flyout|C|Four-Seam Fastball|0|0|0|0|4|89
+Rob Whalen|R|Adam Frazier|L|Flyout|B|Four-Seam Fastball|1|0|1|0|14|90
+Rob Whalen|R|Adam Frazier|L|Flyout|B|Sinker|2|1|1|0|13|90
+Rob Whalen|R|Adam Frazier|L|Flyout|X|Four-Seam Fastball|3|2|1|0|6|90
+Rob Whalen|R|Gregory Polanco|L|Single|B|Four-Seam Fastball|4|0|0|1|11|89
+Rob Whalen|R|Gregory Polanco|L|Single|D|Sinker|5|1|0|1|13|90
+Rob Whalen|R|Jung Ho Kang|R|Flyout|S|Four-Seam Fastball|6|0|0|1|14|90
+Rob Whalen|R|Jung Ho Kang|R|Flyout|X|Slider|7|0|1|1|9|81
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|B|Four-Seam Fastball|8|0|0|2|11|88
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|B|Slider|9|1|0|2|12|81
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|F|Sinker|10|2|0|2|14|89
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|F|Changeup|11|2|1|2|13|82
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|H|Four-Seam Fastball|12|2|2|2|11|89
+Rob Whalen|R|Matt Joyce|L|Home Run|S|Four-Seam Fastball|13|0|0|2|14|88
+Rob Whalen|R|Matt Joyce|L|Home Run|E|Four-Seam Fastball|14|0|1|2|5|88
+Rob Whalen|R|David Freese|R|Single|F|Four-Seam Fastball|15|0|0|2|5|89
+Rob Whalen|R|David Freese|R|Single|B|Sinker|16|0|1|2|13|89
+Rob Whalen|R|David Freese|R|Single|B|Slider|17|1|1|2|14|82
+Rob Whalen|R|David Freese|R|Single|C|Slider|18|2|1|2|5|81
+Rob Whalen|R|David Freese|R|Single|B|Slider|19|2|2|2|14|81
+Rob Whalen|R|David Freese|R|Single|D|Slider|20|3|2|2|6|81
+Rob Whalen|R|Jordy Mercer|R|Walk|B|Four-Seam Fastball|21|0|0|2|14|89
+Rob Whalen|R|Jordy Mercer|R|Walk|B|Slider|22|1|0|2|14|81
+Rob Whalen|R|Jordy Mercer|R|Walk|F|Four-Seam Fastball|23|2|0|2|12|89
+Rob Whalen|R|Jordy Mercer|R|Walk|*B|Sinker|24|2|1|2|14|89
+Rob Whalen|R|Jordy Mercer|R|Walk|B|Four-Seam Fastball|25|3|1|2|11|86
+Rob Whalen|R|Eric Fryer|R|Walk|B|Four-Seam Fastball|26|0|0|2|11|88
+Rob Whalen|R|Eric Fryer|R|Walk|B|Four-Seam Fastball|27|1|0|2|14|87
+Rob Whalen|R|Eric Fryer|R|Walk|C|Four-Seam Fastball|28|2|0|2|11|88
+Rob Whalen|R|Eric Fryer|R|Walk|B|Sinker|29|2|1|2|11|88
+Rob Whalen|R|Eric Fryer|R|Walk|B|Slider|30|3|1|2|11|80
+Rob Whalen|R|Jeff Locke|L|Strikeout|C|Four-Seam Fastball|31|0|0|2|1|87
+Rob Whalen|R|Jeff Locke|L|Strikeout|B|Four-Seam Fastball|32|0|1|2|11|87
+Rob Whalen|R|Jeff Locke|L|Strikeout|F|Four-Seam Fastball|33|1|1|2|9|88
+Rob Whalen|R|Jeff Locke|L|Strikeout|B|Slider|34|1|2|2|14|81
+Rob Whalen|R|Jeff Locke|L|Strikeout|S|Four-Seam Fastball|35|2|2|2|1|88
+Rob Whalen|R|Adam Frazier|L|Lineout|B|Sinker|36|0|0|0|11|86
+Rob Whalen|R|Adam Frazier|L|Lineout|C|Slider|37|1|0|0|7|78
+Rob Whalen|R|Adam Frazier|L|Lineout|X|Sinker|38|1|1|0|8|89
+Rob Whalen|R|Gregory Polanco|L|Groundout|X|Changeup|39|0|0|1|14|82
+Rob Whalen|R|Jung Ho Kang|R|Double|B|Four-Seam Fastball|40|0|0|2|14|90
+Rob Whalen|R|Jung Ho Kang|R|Double|B|Changeup|41|1|0|2|13|82
+Rob Whalen|R|Jung Ho Kang|R|Double|C|Slider|42|2|0|2|1|79
+Rob Whalen|R|Jung Ho Kang|R|Double|F|Slider|43|2|1|2|6|80
+Rob Whalen|R|Jung Ho Kang|R|Double|F|Four-Seam Fastball|44|2|2|2|14|89
+Rob Whalen|R|Jung Ho Kang|R|Double|D|Curveball|45|2|2|2|14|74
+Rob Whalen|R|Starling Marte|R|Lineout|X|Sinker|46|0|0|2|13|88
+Rob Whalen|R|Matt Joyce|L|Walk|B|Sinker|47|0|0|0|13|87
+Rob Whalen|R|Matt Joyce|L|Walk|B|Changeup|48|1|0|0|14|82
+Rob Whalen|R|Matt Joyce|L|Walk|B|Changeup|49|2|0|0|11|81
+Rob Whalen|R|Matt Joyce|L|Walk|C|Four-Seam Fastball|50|3|0|0|4|89
+Rob Whalen|R|Matt Joyce|L|Walk|S|Sinker|51|3|1|0|13|88
+Rob Whalen|R|Matt Joyce|L|Walk|F|Changeup|52|3|2|0|7|83
+Rob Whalen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|53|3|2|0|7|88
+Rob Whalen|R|Matt Joyce|L|Walk|*B|Four-Seam Fastball|54|3|2|0|14|90
+Rob Whalen|R|David Freese|R|Walk|B|Four-Seam Fastball|55|0|0|0|11|87
+Rob Whalen|R|David Freese|R|Walk|C|Sinker|56|1|0|0|9|87
+Rob Whalen|R|David Freese|R|Walk|B|Changeup|57|1|1|0|14|80
+Rob Whalen|R|David Freese|R|Walk|B|Slider|58|2|1|0|13|80
+Rob Whalen|R|David Freese|R|Walk|B|Sinker|59|3|1|0|13|87
+Rob Whalen|R|Jordy Mercer|R|Flyout|B|Sinker|60|0|0|0|14|89
+Rob Whalen|R|Jordy Mercer|R|Flyout|B|Changeup|61|1|0|0|13|82
+Rob Whalen|R|Jordy Mercer|R|Flyout|C|Four-Seam Fastball|62|2|0|0|3|89
+Rob Whalen|R|Jordy Mercer|R|Flyout|X|Four-Seam Fastball|63|2|1|0|8|87
+Rob Whalen|R|Eric Fryer|R|Lineout|B|Slider|64|0|0|1|14|79
+Rob Whalen|R|Eric Fryer|R|Lineout|X|Sinker|65|1|0|1|1|87
+Rob Whalen|R|Jeff Locke|L|Strikeout|B|Sinker|66|0|0|2|13|87
+Rob Whalen|R|Jeff Locke|L|Strikeout|C|Four-Seam Fastball|67|1|0|2|9|87
+Rob Whalen|R|Jeff Locke|L|Strikeout|C|Four-Seam Fastball|68|1|1|2|8|88
+Rob Whalen|R|Jeff Locke|L|Strikeout|B|Four-Seam Fastball|69|1|2|2|11|88
+Rob Whalen|R|Jeff Locke|L|Strikeout|C|Four-Seam Fastball|70|2|2|2|7|88
+Rob Whalen|R|Adam Frazier|L|Strikeout|C|Changeup|71|0|0|0|8|81
+Rob Whalen|R|Adam Frazier|L|Strikeout|B|Four-Seam Fastball|72|0|1|0|14|88
+Rob Whalen|R|Adam Frazier|L|Strikeout|B|Curveball|73|1|1|0|12|73
+Rob Whalen|R|Adam Frazier|L|Strikeout|B|Sinker|74|2|1|0|13|87
+Rob Whalen|R|Adam Frazier|L|Strikeout|C|Four-Seam Fastball|75|3|1|0|7|87
+Rob Whalen|R|Adam Frazier|L|Strikeout|F|Four-Seam Fastball|76|3|2|0|4|88
+Rob Whalen|R|Adam Frazier|L|Strikeout|F|Four-Seam Fastball|77|3|2|0|13|87
+Rob Whalen|R|Adam Frazier|L|Strikeout|T|Four-Seam Fastball|78|3|2|0|4|88
+Rob Whalen|R|Gregory Polanco|L|Lineout|C|Changeup|79|0|0|1|4|81
+Rob Whalen|R|Gregory Polanco|L|Lineout|X|Four-Seam Fastball|80|0|1|1|6|88
+Rob Whalen|R|Jung Ho Kang|R|Flyout|B|Slider|81|0|0|2|13|83
+Rob Whalen|R|Jung Ho Kang|R|Flyout|X|Four-Seam Fastball|82|1|0|2|5|88
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|C|Slider|83|0|0|0|7|79
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|F|Four-Seam Fastball|84|0|1|0|14|88
+Rob Whalen|R|Starling Marte|R|Hit By Pitch|H|Four-Seam Fastball|85|0|2|0|11|88
+Rob Whalen|R|Matt Joyce|L|Flyout|C|Curveball|86|0|0|0|3|73
+Rob Whalen|R|Matt Joyce|L|Flyout|P|Pitchout|87|0|1|0|11|86
+Rob Whalen|R|Matt Joyce|L|Flyout|B|Changeup|88|0|2|0|13|81
+Rob Whalen|R|Matt Joyce|L|Flyout|B|Changeup|89|1|2|0|11|81
+Rob Whalen|R|Matt Joyce|L|Flyout|X|Curveball|90|2|2|0|1|72
+Rob Whalen|R|David Freese|R|Strikeout|F|Four-Seam Fastball|91|0|0|1|7|88
+Rob Whalen|R|David Freese|R|Strikeout|C|Four-Seam Fastball|92|0|1|1|4|89
+Rob Whalen|R|David Freese|R|Strikeout|T|Four-Seam Fastball|93|0|2|1|1|88
+Rob Whalen|R|Jordy Mercer|R|Strikeout|S|Slider|94|0|0|2|14|81
+Rob Whalen|R|Jordy Mercer|R|Strikeout|C|Slider|95|0|1|2|9|81
+Rob Whalen|R|Jordy Mercer|R|Strikeout|B|Slider|96|0|2|2|14|82
+Rob Whalen|R|Jordy Mercer|R|Strikeout|S|Four-Seam Fastball|97|1|2|2|12|88
+Rob Whalen|R|Jonathan Villar|L|Strikeout|B|Sinker|0|0|0|0|13|89
+Rob Whalen|R|Jonathan Villar|L|Strikeout|C|Sinker|1|1|0|0|7|88
+Rob Whalen|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|89
+Rob Whalen|R|Jonathan Villar|L|Strikeout|S|Sinker|3|2|1|0|14|89
+Rob Whalen|R|Jonathan Villar|L|Strikeout|B|Sinker|4|2|2|0|13|89
+Rob Whalen|R|Jonathan Villar|L|Strikeout|S|Sinker|5|3|2|0|14|89
+Rob Whalen|R|Orlando Arcia|R|Groundout|F|Four-Seam Fastball|6|0|0|1|5|90
+Rob Whalen|R|Orlando Arcia|R|Groundout|X|Sinker|7|0|1|1|7|89
+Rob Whalen|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|8|0|0|2|14|90
+Rob Whalen|R|Ryan Braun|R|Strikeout|F|Sinker|9|1|0|2|7|89
+Rob Whalen|R|Ryan Braun|R|Strikeout|S|Slider|10|1|1|2|14|81
+Rob Whalen|R|Ryan Braun|R|Strikeout|T|Sinker|11|1|2|2|13|89
+Rob Whalen|R|Scooter Gennett|L|Strikeout|C|Sinker|12|0|0|0|11|88
+Rob Whalen|R|Scooter Gennett|L|Strikeout|F|Four-Seam Fastball|13|0|1|0|4|89
+Rob Whalen|R|Scooter Gennett|L|Strikeout|S|Curveball|14|0|2|0|14|77
+Rob Whalen|R|Hernan Perez|R|Single|S|Slider|15|0|0|1|6|81
+Rob Whalen|R|Hernan Perez|R|Single|D|Sinker|16|0|1|1|4|89
+Rob Whalen|R|Chris Carter|R|Strikeout|F|Sinker|17|0|0|1|4|87
+Rob Whalen|R|Chris Carter|R|Strikeout|B|Slider|18|0|1|1|1|79
+Rob Whalen|R|Chris Carter|R|Strikeout|B|Slider|19|1|1|1|14|80
+Rob Whalen|R|Chris Carter|R|Strikeout|B|Sinker|20|2|1|1|13|87
+Rob Whalen|R|Chris Carter|R|Strikeout|C|Four-Seam Fastball|21|3|1|1|11|87
+Rob Whalen|R|Chris Carter|R|Strikeout|C|Four-Seam Fastball|22|3|2|1|13|88
+Rob Whalen|R|Keon Broxton|R|Single|B|Sinker|23|0|0|2|13|85
+Rob Whalen|R|Keon Broxton|R|Single|C|Slider|24|1|0|2|2|79
+Rob Whalen|R|Keon Broxton|R|Single|*B|Slider|25|1|1|2|14|81
+Rob Whalen|R|Keon Broxton|R|Single|B|Sinker|26|2|1|2|11|86
+Rob Whalen|R|Keon Broxton|R|Single|E|Sinker|27|3|1|2|11|88
+Rob Whalen|R|Martin Maldonado|R|Strikeout|C|Four-Seam Fastball|28|0|0|2|1|87
+Rob Whalen|R|Martin Maldonado|R|Strikeout|F|Four-Seam Fastball|29|0|1|2|3|86
+Rob Whalen|R|Martin Maldonado|R|Strikeout|B|Slider|30|0|2|2|11|81
+Rob Whalen|R|Martin Maldonado|R|Strikeout|B|Four-Seam Fastball|31|1|2|2|14|89
+Rob Whalen|R|Martin Maldonado|R|Strikeout|B|Slider|32|2|2|2|11|80
+Rob Whalen|R|Martin Maldonado|R|Strikeout|S|Slider|33|3|2|2|8|80
+Rob Whalen|R|Zach Davies|R|Groundout|F|Four-Seam Fastball|34|0|0|0|3|88
+Rob Whalen|R|Zach Davies|R|Groundout|C|Slider|35|0|1|0|8|79
+Rob Whalen|R|Zach Davies|R|Groundout|B|Slider|36|0|2|0|14|79
+Rob Whalen|R|Zach Davies|R|Groundout|X|Slider|37|1|2|0|9|78
+Rob Whalen|R|Jonathan Villar|L|Strikeout|B|Curveball|38|0|0|1|14|76
+Rob Whalen|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|39|1|0|1|14|88
+Rob Whalen|R|Jonathan Villar|L|Strikeout|T|Sinker|40|1|1|1|8|90
+Rob Whalen|R|Jonathan Villar|L|Strikeout|F|Sinker|41|1|2|1|11|90
+Rob Whalen|R|Jonathan Villar|L|Strikeout|C|Sinker|42|1|2|1|13|90
+Rob Whalen|R|Orlando Arcia|R|Groundout|B|Slider|43|0|0|2|14|81
+Rob Whalen|R|Orlando Arcia|R|Groundout|C|Slider|44|1|0|2|7|79
+Rob Whalen|R|Orlando Arcia|R|Groundout|C|Slider|45|1|1|2|1|79
+Rob Whalen|R|Orlando Arcia|R|Groundout|X|Slider|46|1|2|2|14|79
+Rob Whalen|R|Ryan Braun|R|Single|B|Slider|47|0|0|0|14|79
+Rob Whalen|R|Ryan Braun|R|Single|C|Sinker|48|1|0|0|8|89
+Rob Whalen|R|Ryan Braun|R|Single|D|Slider|49|1|1|0|8|79
+Rob Whalen|R|Scooter Gennett|L|Grounded Into DP|*B|Sinker|50|0|0|0|14|87
+Rob Whalen|R|Scooter Gennett|L|Grounded Into DP|B|Sinker|51|1|0|0|13|87
+Rob Whalen|R|Scooter Gennett|L|Grounded Into DP|S|Sinker|52|2|0|0|13|87
+Rob Whalen|R|Scooter Gennett|L|Grounded Into DP|X|Sinker|53|2|1|0|13|86
+Rob Whalen|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|54|0|0|2|14|89
+Rob Whalen|R|Hernan Perez|R|Groundout|B|Slider|55|1|0|2|14|79
+Rob Whalen|R|Hernan Perez|R|Groundout|C|Sinker|56|2|0|2|13|88
+Rob Whalen|R|Hernan Perez|R|Groundout|F|Four-Seam Fastball|57|2|1|2|8|89
+Rob Whalen|R|Hernan Perez|R|Groundout|X|Slider|58|2|2|2|6|80
+Rob Whalen|R|Chris Carter|R|Walk|B|Four-Seam Fastball|59|0|0|0|14|89
+Rob Whalen|R|Chris Carter|R|Walk|F|Four-Seam Fastball|60|1|0|0|1|89
+Rob Whalen|R|Chris Carter|R|Walk|B|Four-Seam Fastball|61|1|1|0|13|88
+Rob Whalen|R|Chris Carter|R|Walk|B|Four-Seam Fastball|62|2|1|0|13|89
+Rob Whalen|R|Chris Carter|R|Walk|F|Four-Seam Fastball|63|3|1|0|5|88
+Rob Whalen|R|Chris Carter|R|Walk|F|Four-Seam Fastball|64|3|2|0|13|89
+Rob Whalen|R|Chris Carter|R|Walk|*B|Slider|65|3|2|0|14|80
+Rob Whalen|R|Keon Broxton|R|Lineout|M|Slider|66|0|0|0|9|79
+Rob Whalen|R|Keon Broxton|R|Lineout|X|Slider|67|0|1|0|8|79
+Rob Whalen|R|Martin Maldonado|R|Home Run|B|Four-Seam Fastball|68|0|0|1|14|88
+Rob Whalen|R|Martin Maldonado|R|Home Run|S|Sinker|69|1|0|1|13|87
+Rob Whalen|R|Martin Maldonado|R|Home Run|E|Sinker|70|1|1|1|8|87
+Rob Whalen|R|Zach Davies|R|Groundout|B|Four-Seam Fastball|71|0|0|1|11|88
+Rob Whalen|R|Zach Davies|R|Groundout|X|Four-Seam Fastball|72|1|0|1|2|88
+Rob Whalen|R|Jonathan Villar|L|Single|B|Sinker|73|0|0|2|11|89
+Rob Whalen|R|Jonathan Villar|L|Single|B|Sinker|74|1|0|2|13|88
+Rob Whalen|R|Jonathan Villar|L|Single|B|Sinker|75|2|0|2|13|88
+Rob Whalen|R|Jonathan Villar|L|Single|C|Four-Seam Fastball|76|3|0|2|12|89
+Rob Whalen|R|Jonathan Villar|L|Single|C|Four-Seam Fastball|77|3|1|2|8|89
+Rob Whalen|R|Jonathan Villar|L|Single|F|Four-Seam Fastball|78|3|2|2|11|89
+Rob Whalen|R|Jonathan Villar|L|Single|D|Four-Seam Fastball|79|3|2|2|13|88
+Rob Whalen|R|Orlando Arcia|R|Strikeout|P|Pitchout|80|0|0|2|12|86
+Rob Whalen|R|Orlando Arcia|R|Strikeout|B|Slider|81|0|1|2|2|79
+Rob Whalen|R|Orlando Arcia|R|Strikeout|C|Four-Seam Fastball|82|1|1|2|5|87
+Rob Whalen|R|Orlando Arcia|R|Strikeout|F|Slider|83|1|2|2|9|79
+Rob Whalen|R|Orlando Arcia|R|Strikeout|S|Four-Seam Fastball|84|1|2|2|6|90
+Rob Whalen|R|Ryan Braun|R|Groundout|X|Sinker|85|0|0|0|11|89
+Rob Whalen|R|Scooter Gennett|L|Groundout|B|Sinker|86|0|0|1|11|90
+Rob Whalen|R|Scooter Gennett|L|Groundout|B|Sinker|87|1|0|1|13|88
+Rob Whalen|R|Scooter Gennett|L|Groundout|X|Sinker|88|2|0|1|2|90
+Rob Whalen|R|Hernan Perez|R|Flyout|B|Sinker|89|0|0|2|13|90
+Rob Whalen|R|Hernan Perez|R|Flyout|F|Sinker|90|1|0|2|13|89
+Rob Whalen|R|Hernan Perez|R|Flyout|X|Four-Seam Fastball|91|1|1|2|13|89
+Rob Whalen|R|Trea Turner|R|Triple|C|Four-Seam Fastball|0|0|0|0|14|89
+Rob Whalen|R|Trea Turner|R|Triple|F|Sinker|1|0|1|0|7|88
+Rob Whalen|R|Trea Turner|R|Triple|D|Four-Seam Fastball|2|0|2|0|5|90
+Rob Whalen|R|Ben Revere|L|Groundout|B|Four-Seam Fastball|3|0|0|0|12|89
+Rob Whalen|R|Ben Revere|L|Groundout|F|Sinker|4|1|0|0|11|87
+Rob Whalen|R|Ben Revere|L|Groundout|S|Four-Seam Fastball|5|1|1|0|14|89
+Rob Whalen|R|Ben Revere|L|Groundout|X|Four-Seam Fastball|6|1|2|0|12|90
+Rob Whalen|R|Daniel Murphy|L|Home Run|B|Four-Seam Fastball|7|0|0|1|14|90
+Rob Whalen|R|Daniel Murphy|L|Home Run|B|Four-Seam Fastball|8|1|0|1|12|89
+Rob Whalen|R|Daniel Murphy|L|Home Run|C|Four-Seam Fastball|9|2|0|1|5|89
+Rob Whalen|R|Daniel Murphy|L|Home Run|*B|Sinker|10|2|1|1|14|91
+Rob Whalen|R|Daniel Murphy|L|Home Run|F|Four-Seam Fastball|11|3|1|1|6|90
+Rob Whalen|R|Daniel Murphy|L|Home Run|F|Four-Seam Fastball|12|3|2|1|12|90
+Rob Whalen|R|Daniel Murphy|L|Home Run|E|Four-Seam Fastball|13|3|2|1|3|89
+Rob Whalen|R|Anthony Rendon|R|Flyout|F|Sinker|14|0|0|1|13|89
+Rob Whalen|R|Anthony Rendon|R|Flyout|C|Slider|15|0|1|1|14|81
+Rob Whalen|R|Anthony Rendon|R|Flyout|B|Slider|16|0|2|1|12|80
+Rob Whalen|R|Anthony Rendon|R|Flyout|X|Sinker|17|1|2|1|7|89
+Rob Whalen|R|Jayson Werth|R|Strikeout|C|Four-Seam Fastball|18|0|0|2|9|90
+Rob Whalen|R|Jayson Werth|R|Strikeout|S|Four-Seam Fastball|19|0|1|2|14|89
+Rob Whalen|R|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|20|0|2|2|14|90
+Rob Whalen|R|Jayson Werth|R|Strikeout|S|Slider|21|1|2|2|14|81
+Rob Whalen|R|Brian Goodwin|L|Groundout|B|Sinker|22|0|0|0|11|88
+Rob Whalen|R|Brian Goodwin|L|Groundout|X|Sinker|23|1|0|0|13|87
+Rob Whalen|R|Danny Espinosa|L|Field Error|D|Sinker|24|0|0|1|11|89
+Rob Whalen|R|Pedro Severino|R|Groundout|B|Sinker|25|0|0|1|14|89
+Rob Whalen|R|Pedro Severino|R|Groundout|X|Four-Seam Fastball|26|1|0|1|1|88
+Rob Whalen|R|Reynaldo Lopez|R|Strikeout|S|Four-Seam Fastball|27|0|0|2|1|87
+Rob Whalen|R|Reynaldo Lopez|R|Strikeout|F|Four-Seam Fastball|28|0|1|2|5|89
+Rob Whalen|R|Reynaldo Lopez|R|Strikeout|C|Slider|29|0|2|2|5|79
+Rob Whalen|R|Trea Turner|R|Home Run|C|Four-Seam Fastball|30|0|0|0|12|89
+Rob Whalen|R|Trea Turner|R|Home Run|B|Slider|31|0|1|0|13|80
+Rob Whalen|R|Trea Turner|R|Home Run|B|Slider|32|1|1|0|12|81
+Rob Whalen|R|Trea Turner|R|Home Run|S|Sinker|33|2|1|0|11|89
+Rob Whalen|R|Trea Turner|R|Home Run|F|Sinker|34|2|2|0|11|90
+Rob Whalen|R|Trea Turner|R|Home Run|F|Slider|35|2|2|0|14|81
+Rob Whalen|R|Trea Turner|R|Home Run|F|Sinker|36|2|2|0|11|89
+Rob Whalen|R|Trea Turner|R|Home Run|B|Changeup|37|2|2|0|14|83
+Rob Whalen|R|Trea Turner|R|Home Run|E|Sinker|38|3|2|0|11|89
+Rob Whalen|R|Ben Revere|L|Triple|B|Slider|39|0|0|0|14|81
+Rob Whalen|R|Ben Revere|L|Triple|C|Sinker|40|1|0|0|5|89
+Rob Whalen|R|Ben Revere|L|Triple|D|Changeup|41|1|1|0|3|84
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|C|Sinker|42|0|0|0|7|90
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|F|Slider|43|0|1|0|14|81
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|B|Sinker|44|0|2|0|11|90
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|F|Sinker|45|1|2|0|13|90
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|F|Slider|46|1|2|0|14|80
+Rob Whalen|R|Daniel Murphy|L|Sac Fly|E|Slider|47|1|2|0|13|81
+Rob Whalen|R|Anthony Rendon|R|Strikeout|B|Slider|48|0|0|1|14|81
+Rob Whalen|R|Anthony Rendon|R|Strikeout|B|Four-Seam Fastball|49|1|0|1|14|89
+Rob Whalen|R|Anthony Rendon|R|Strikeout|C|Four-Seam Fastball|50|2|0|1|6|88
+Rob Whalen|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|51|2|1|1|2|88
+Rob Whalen|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|52|2|2|1|12|90
+Rob Whalen|R|Anthony Rendon|R|Strikeout|S|Changeup|53|2|2|1|14|82
+Rob Whalen|R|Jayson Werth|R|Flyout|S|Slider|54|0|0|2|14|81
+Rob Whalen|R|Jayson Werth|R|Flyout|B|Four-Seam Fastball|55|0|1|2|14|89
+Rob Whalen|R|Jayson Werth|R|Flyout|C|Four-Seam Fastball|56|1|1|2|14|89
+Rob Whalen|R|Jayson Werth|R|Flyout|X|Changeup|57|1|2|2|14|82
+Rob Whalen|R|Brian Goodwin|L|Groundout|C|Sinker|58|0|0|0|1|87
+Rob Whalen|R|Brian Goodwin|L|Groundout|B|Changeup|59|0|1|0|13|83
+Rob Whalen|R|Brian Goodwin|L|Groundout|F|Changeup|60|1|1|0|12|83
+Rob Whalen|R|Brian Goodwin|L|Groundout|X|Sinker|61|1|2|0|11|90
+Rob Whalen|R|Danny Espinosa|L|Strikeout|S|Sinker|62|0|0|1|13|88
+Rob Whalen|R|Danny Espinosa|L|Strikeout|S|Four-Seam Fastball|63|0|1|1|13|89
+Rob Whalen|R|Danny Espinosa|L|Strikeout|S|Slider|64|0|2|1|5|80
+Rob Whalen|R|Pedro Severino|R|Strikeout|S|Slider|65|0|0|2|14|81
+Rob Whalen|R|Pedro Severino|R|Strikeout|S|Slider|66|0|1|2|14|80
+Rob Whalen|R|Pedro Severino|R|Strikeout|F|Slider|67|0|2|2|5|80
+Rob Whalen|R|Pedro Severino|R|Strikeout|B|Slider|68|0|2|2|14|82
+Rob Whalen|R|Pedro Severino|R|Strikeout|S|Slider|69|1|2|2|12|80
+Rob Whalen|R|Reynaldo Lopez|R|Groundout|C|Four-Seam Fastball|70|0|0|0|2|88
+Rob Whalen|R|Reynaldo Lopez|R|Groundout|B|Sinker|71|0|1|0|14|88
+Rob Whalen|R|Reynaldo Lopez|R|Groundout|X|Four-Seam Fastball|72|1|1|0|7|89
+Rob Whalen|R|Trea Turner|R|Single|C|Four-Seam Fastball|73|0|0|1|5|90
+Rob Whalen|R|Trea Turner|R|Single|D|Slider|74|0|1|1|1|80
+Rob Whalen|R|Ben Revere|L|Triple|B|Four-Seam Fastball|75|0|0|1|11|87
+Rob Whalen|R|Ben Revere|L|Triple|C|Four-Seam Fastball|76|1|0|1|2|87
+Rob Whalen|R|Ben Revere|L|Triple|E|Four-Seam Fastball|77|1|1|1|5|87
+Rob Whalen|R|Daniel Murphy|L|Groundout|E|Sinker|78|0|0|1|4|88
+Rob Whalen|R|Anthony Rendon|R|Lineout|F|Four-Seam Fastball|79|0|0|2|6|91
+Rob Whalen|R|Anthony Rendon|R|Lineout|F|Changeup|80|0|1|2|13|83
+Rob Whalen|R|Anthony Rendon|R|Lineout|F|Sinker|81|0|2|2|3|89
+Rob Whalen|R|Anthony Rendon|R|Lineout|B|Changeup|82|0|2|2|14|82
+Rob Whalen|R|Anthony Rendon|R|Lineout|X|Slider|83|1|2|2|14|80
+Rob Whalen|R|Trea Turner|R|Single|B|Changeup|0|0|0|0|11|81
+Rob Whalen|R|Trea Turner|R|Single|F|Four-Seam Fastball|1|1|0|0|2|91
+Rob Whalen|R|Trea Turner|R|Single|S|Slider|2|1|1|0|14|82
+Rob Whalen|R|Trea Turner|R|Single|B|Slider|3|1|2|0|14|81
+Rob Whalen|R|Trea Turner|R|Single|B|Slider|4|2|2|0|14|82
+Rob Whalen|R|Trea Turner|R|Single|F|Four-Seam Fastball|5|3|2|0|2|91
+Rob Whalen|R|Trea Turner|R|Single|D|Four-Seam Fastball|6|3|2|0|8|92
+Rob Whalen|R|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|7|0|0|0|14|89
+Rob Whalen|R|Jayson Werth|R|Strikeout|C|Sinker|8|1|0|0|4|90
+Rob Whalen|R|Jayson Werth|R|Strikeout|B|Slider|9|1|1|0|14|81
+Rob Whalen|R|Jayson Werth|R|Strikeout|F|Four-Seam Fastball|10|2|1|0|5|88
+Rob Whalen|R|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|11|2|2|0|14|88
+Rob Whalen|R|Jayson Werth|R|Strikeout|F|Four-Seam Fastball|12|3|2|0|5|90
+Rob Whalen|R|Jayson Werth|R|Strikeout|S|Slider|13|3|2|0|14|80
+Rob Whalen|R|Daniel Murphy|L|Groundout|X|Changeup|14|0|0|1|7|81
+Rob Whalen|R|Bryce Harper|L|Walk|B|Changeup|15|0|0|2|13|82
+Rob Whalen|R|Bryce Harper|L|Walk|*B|Sinker|16|1|0|2|13|89
+Rob Whalen|R|Bryce Harper|L|Walk|B|Sinker|17|2|0|2|14|91
+Rob Whalen|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|18|3|0|2|13|90
+Rob Whalen|R|Anthony Rendon|R|Field Error|C|Four-Seam Fastball|19|0|0|2|9|90
+Rob Whalen|R|Anthony Rendon|R|Field Error|B|Four-Seam Fastball|20|0|1|2|12|90
+Rob Whalen|R|Anthony Rendon|R|Field Error|F|Four-Seam Fastball|21|1|1|2|5|89
+Rob Whalen|R|Anthony Rendon|R|Field Error|B|Slider|22|1|2|2|14|81
+Rob Whalen|R|Anthony Rendon|R|Field Error|B|Slider|23|2|2|2|14|79
+Rob Whalen|R|Anthony Rendon|R|Field Error|E|Changeup|24|3|2|2|6|82
+Rob Whalen|R|Clint Robinson|L|Groundout|C|Changeup|25|0|0|2|13|82
+Rob Whalen|R|Clint Robinson|L|Groundout|*B|Sinker|26|0|1|2|13|89
+Rob Whalen|R|Clint Robinson|L|Groundout|C|Curveball|27|1|1|2|8|74
+Rob Whalen|R|Clint Robinson|L|Groundout|X|Four-Seam Fastball|28|1|2|2|9|91
+Rob Whalen|R|Danny Espinosa|L|Walk|B|Changeup|29|0|0|0|13|81
+Rob Whalen|R|Danny Espinosa|L|Walk|B|Four-Seam Fastball|30|1|0|0|13|90
+Rob Whalen|R|Danny Espinosa|L|Walk|B|Sinker|31|2|0|0|13|88
+Rob Whalen|R|Danny Espinosa|L|Walk|C|Four-Seam Fastball|32|3|0|0|13|90
+Rob Whalen|R|Danny Espinosa|L|Walk|F|Four-Seam Fastball|33|3|1|0|8|92
+Rob Whalen|R|Danny Espinosa|L|Walk|B|Sinker|34|3|2|0|11|90
+Rob Whalen|R|Pedro Severino|R|Pop Out|C|Sinker|35|0|0|0|13|89
+Rob Whalen|R|Pedro Severino|R|Pop Out|B|Slider|36|0|1|0|12|82
+Rob Whalen|R|Pedro Severino|R|Pop Out|F|Four-Seam Fastball|37|1|1|0|12|89
+Rob Whalen|R|Pedro Severino|R|Pop Out|X|Slider|38|1|2|0|9|80
+Rob Whalen|R|Reynaldo Lopez|R|Sac Bunt|X|Four-Seam Fastball|39|0|0|1|4|88
+Rob Whalen|R|Trea Turner|R|Groundout|C|Slider|40|0|0|2|13|81
+Rob Whalen|R|Trea Turner|R|Groundout|B|Slider|41|0|1|2|14|82
+Rob Whalen|R|Trea Turner|R|Groundout|B|Four-Seam Fastball|42|1|1|2|12|90
+Rob Whalen|R|Trea Turner|R|Groundout|C|Slider|43|2|1|2|14|81
+Rob Whalen|R|Trea Turner|R|Groundout|B|Slider|44|2|2|2|14|81
+Rob Whalen|R|Trea Turner|R|Groundout|X|Slider|45|3|2|2|9|82
+Rob Whalen|R|Jayson Werth|R|Strikeout|C|Slider|46|0|0|0|4|80
+Rob Whalen|R|Jayson Werth|R|Strikeout|C|Four-Seam Fastball|47|0|1|0|14|91
+Rob Whalen|R|Jayson Werth|R|Strikeout|C|Slider|48|0|2|0|14|80
+Rob Whalen|R|Daniel Murphy|L|Pop Out|B|Sinker|49|0|0|1|13|90
+Rob Whalen|R|Daniel Murphy|L|Pop Out|C|Four-Seam Fastball|50|1|0|1|13|90
+Rob Whalen|R|Daniel Murphy|L|Pop Out|B|Slider|51|1|1|1|14|81
+Rob Whalen|R|Daniel Murphy|L|Pop Out|F|Sinker|52|2|1|1|11|83
+Rob Whalen|R|Daniel Murphy|L|Pop Out|X|Four-Seam Fastball|53|2|2|1|14|91
+Rob Whalen|R|Bryce Harper|L|Strikeout|B|Curveball|54|0|0|2|13|74
+Rob Whalen|R|Bryce Harper|L|Strikeout|C|Four-Seam Fastball|55|1|0|2|8|90
+Rob Whalen|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|56|1|1|2|14|91
+Rob Whalen|R|Bryce Harper|L|Strikeout|C|Four-Seam Fastball|57|2|1|2|7|90
+Rob Whalen|R|Bryce Harper|L|Strikeout|S|Sinker|58|2|2|2|13|91
+Rob Whalen|R|Anthony Rendon|R|Strikeout|C|Four-Seam Fastball|59|0|0|0|1|89
+Rob Whalen|R|Anthony Rendon|R|Strikeout|C|Four-Seam Fastball|60|0|1|0|14|90
+Rob Whalen|R|Anthony Rendon|R|Strikeout|B|Slider|61|0|2|0|11|81
+Rob Whalen|R|Anthony Rendon|R|Strikeout|B|Four-Seam Fastball|62|1|2|0|12|90
+Rob Whalen|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|63|2|2|0|8|90
+Rob Whalen|R|Anthony Rendon|R|Strikeout|C|Four-Seam Fastball|64|2|2|0|4|90
+Rob Whalen|R|Clint Robinson|L|Strikeout|B|Four-Seam Fastball|65|0|0|1|13|89
+Rob Whalen|R|Clint Robinson|L|Strikeout|B|Four-Seam Fastball|66|1|0|1|13|89
+Rob Whalen|R|Clint Robinson|L|Strikeout|C|Four-Seam Fastball|67|2|0|1|13|89
+Rob Whalen|R|Clint Robinson|L|Strikeout|F|Curveball|68|2|1|1|9|73
+Rob Whalen|R|Clint Robinson|L|Strikeout|S|Changeup|69|2|2|1|13|82
+Rob Whalen|R|Danny Espinosa|L|Flyout|B|Slider|70|0|0|2|13|81
+Rob Whalen|R|Danny Espinosa|L|Flyout|C|Four-Seam Fastball|71|1|0|2|13|90
+Rob Whalen|R|Danny Espinosa|L|Flyout|X|Four-Seam Fastball|72|1|1|2|8|90
+Rob Whalen|R|Pedro Severino|R|Double|C|Slider|73|0|0|0|8|81
+Rob Whalen|R|Pedro Severino|R|Double|B|Slider|74|0|1|0|14|80
+Rob Whalen|R|Pedro Severino|R|Double|D|Slider|75|1|1|0|8|79
+Rob Whalen|R|Reynaldo Lopez|R|Sac Bunt|X|Four-Seam Fastball|76|0|0|0|12|88
+Rob Whalen|R|Trea Turner|R|Strikeout|S|Sinker|77|0|0|1|13|90
+Rob Whalen|R|Trea Turner|R|Strikeout|B|Slider|78|0|1|1|14|82
+Rob Whalen|R|Trea Turner|R|Strikeout|S|Sinker|79|1|1|1|13|90
+Rob Whalen|R|Trea Turner|R|Strikeout|B|Sinker|80|1|2|1|13|91
+Rob Whalen|R|Trea Turner|R|Strikeout|C|Four-Seam Fastball|81|2|2|1|8|92
+Rob Whalen|R|Jayson Werth|R|Double|B|Four-Seam Fastball|82|0|0|2|14|91
+Rob Whalen|R|Jayson Werth|R|Double|F|Four-Seam Fastball|83|1|0|2|4|90
+Rob Whalen|R|Jayson Werth|R|Double|B|Four-Seam Fastball|84|1|1|2|2|90
+Rob Whalen|R|Jayson Werth|R|Double|C|Slider|85|2|1|2|13|80
+Rob Whalen|R|Jayson Werth|R|Double|B|Four-Seam Fastball|86|2|2|2|11|90
+Rob Whalen|R|Jayson Werth|R|Double|E|Slider|87|3|2|2|9|80
+Rob Whalen|R|Daniel Murphy|L|Pop Out|C|Four-Seam Fastball|88|0|0|2|4|90
+Rob Whalen|R|Daniel Murphy|L|Pop Out|F|Four-Seam Fastball|89|0|1|2|4|90
+Rob Whalen|R|Daniel Murphy|L|Pop Out|X|Four-Seam Fastball|90|0|2|2|6|91
+Rob Whalen|R|Bryce Harper|L|Groundout|S|Curveball|91|0|0|0|13|73
+Rob Whalen|R|Bryce Harper|L|Groundout|B|Changeup|92|0|1|0|13|80
+Rob Whalen|R|Bryce Harper|L|Groundout|X|Changeup|93|1|1|0|13|82
+Rob Whalen|R|Anthony Rendon|R|Groundout|B|Changeup|94|0|0|1|11|80
+Rob Whalen|R|Anthony Rendon|R|Groundout|B|Four-Seam Fastball|95|1|0|1|14|89
+Rob Whalen|R|Anthony Rendon|R|Groundout|B|Four-Seam Fastball|96|2|0|1|14|89
+Rob Whalen|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|97|3|0|1|3|90
+Rob Whalen|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|98|3|1|1|14|89
+Rob Whalen|R|Anthony Rendon|R|Groundout|F|Four-Seam Fastball|99|3|2|1|14|91
+Rob Whalen|R|Anthony Rendon|R|Groundout|X|Four-Seam Fastball|100|3|2|1|3|89
+Rob Whalen|R|Clint Robinson|L|Walk|C|Changeup|101|0|0|2|4|81
+Rob Whalen|R|Clint Robinson|L|Walk|B|Sinker|102|0|1|2|11|89
+Rob Whalen|R|Clint Robinson|L|Walk|B|Sinker|103|1|1|2|11|90
+Rob Whalen|R|Clint Robinson|L|Walk|B|Four-Seam Fastball|104|2|1|2|13|89
+Rob Whalen|R|Clint Robinson|L|Walk|B|Four-Seam Fastball|105|3|1|2|13|89
+Rob Whalen|R|Danny Espinosa|L|Groundout|S|Sinker|106|0|0|2|13|87
+Rob Whalen|R|Danny Espinosa|L|Groundout|S|Sinker|107|0|1|2|13|87
+Rob Whalen|R|Danny Espinosa|L|Groundout|F|Sinker|108|0|2|2|13|89
+Rob Whalen|R|Danny Espinosa|L|Groundout|B|Sinker|109|0|2|2|11|90
+Rob Whalen|R|Danny Espinosa|L|Groundout|B|Four-Seam Fastball|110|1|2|2|11|90
+Rob Whalen|R|Danny Espinosa|L|Groundout|X|Sinker|111|2|2|2|13|89
+Rob Whalen|R|Jean Segura|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|90
+Rob Whalen|R|Jean Segura|R|Flyout|C|Four-Seam Fastball|1|1|0|0|14|89
+Rob Whalen|R|Jean Segura|R|Flyout|B|Four-Seam Fastball|2|1|1|0|14|90
+Rob Whalen|R|Jean Segura|R|Flyout|X|Four-Seam Fastball|3|2|1|0|8|89
+Rob Whalen|R|Michael Bourn|L|Strikeout|B|Four-Seam Fastball|4|0|0|1|13|87
+Rob Whalen|R|Michael Bourn|L|Strikeout|C|Four-Seam Fastball|5|1|0|1|7|89
+Rob Whalen|R|Michael Bourn|L|Strikeout|S|Changeup|6|1|1|1|13|82
+Rob Whalen|R|Michael Bourn|L|Strikeout|B|Curveball|7|1|2|1|14|77
+Rob Whalen|R|Michael Bourn|L|Strikeout|C|Four-Seam Fastball|8|2|2|1|7|89
+Rob Whalen|R|Paul Goldschmidt|R|Lineout|C|Four-Seam Fastball|9|0|0|2|9|88
+Rob Whalen|R|Paul Goldschmidt|R|Lineout|B|Four-Seam Fastball|10|0|1|2|2|88
+Rob Whalen|R|Paul Goldschmidt|R|Lineout|B|Slider|11|1|1|2|14|79
+Rob Whalen|R|Paul Goldschmidt|R|Lineout|X|Four-Seam Fastball|12|2|1|2|8|88
+Rob Whalen|R|Yasmany Tomas|R|Lineout|S|Four-Seam Fastball|13|0|0|0|14|88
+Rob Whalen|R|Yasmany Tomas|R|Lineout|B|Four-Seam Fastball|14|0|1|0|12|88
+Rob Whalen|R|Yasmany Tomas|R|Lineout|X|Four-Seam Fastball|15|1|1|0|9|87
+Rob Whalen|R|Welington Castillo|R|Walk|B|Slider|16|0|0|1|11|80
+Rob Whalen|R|Welington Castillo|R|Walk|C|Four-Seam Fastball|17|1|0|1|14|88
+Rob Whalen|R|Welington Castillo|R|Walk|B|Sinker|18|1|1|1|13|88
+Rob Whalen|R|Welington Castillo|R|Walk|B|Changeup|19|2|1|1|13|81
+Rob Whalen|R|Welington Castillo|R|Walk|B|Four-Seam Fastball|20|3|1|1|11|87
+Rob Whalen|R|Jake Lamb|L|Flyout|C|Sinker|21|0|0|1|9|87
+Rob Whalen|R|Jake Lamb|L|Flyout|B|Sinker|22|0|1|1|13|87
+Rob Whalen|R|Jake Lamb|L|Flyout|B|Four-Seam Fastball|23|1|1|1|13|87
+Rob Whalen|R|Jake Lamb|L|Flyout|X|Four-Seam Fastball|24|2|1|1|11|87
+Rob Whalen|R|Mitch Haniger|R|Lineout|X|Four-Seam Fastball|25|0|0|2|9|87
+Rob Whalen|R|Chris Owings|R|Groundout|S|Slider|26|0|0|0|14|80
+Rob Whalen|R|Chris Owings|R|Groundout|S|Changeup|27|0|1|0|14|81
+Rob Whalen|R|Chris Owings|R|Groundout|X|Slider|28|0|2|0|14|80
+Rob Whalen|R|Archie Bradley|R|Strikeout|C|Four-Seam Fastball|29|0|0|1|8|88
+Rob Whalen|R|Archie Bradley|R|Strikeout|B|Four-Seam Fastball|30|0|1|1|12|88
+Rob Whalen|R|Archie Bradley|R|Strikeout|C|Slider|31|1|1|1|4|78
+Rob Whalen|R|Archie Bradley|R|Strikeout|C|Four-Seam Fastball|32|1|2|1|14|89
+Rob Whalen|R|Jean Segura|R|Walk|C|Four-Seam Fastball|33|0|0|2|5|88
+Rob Whalen|R|Jean Segura|R|Walk|B|Sinker|34|0|1|2|13|88
+Rob Whalen|R|Jean Segura|R|Walk|F|Slider|35|1|1|2|9|80
+Rob Whalen|R|Jean Segura|R|Walk|B|Changeup|36|1|2|2|13|84
+Rob Whalen|R|Jean Segura|R|Walk|F|Four-Seam Fastball|37|2|2|2|6|88
+Rob Whalen|R|Jean Segura|R|Walk|B|Curveball|38|2|2|2|14|79
+Rob Whalen|R|Jean Segura|R|Walk|F|Four-Seam Fastball|39|3|2|2|7|87
+Rob Whalen|R|Jean Segura|R|Walk|B|Four-Seam Fastball|40|3|2|2|14|88
+Rob Whalen|R|Michael Bourn|L|Walk|B|Curveball|41|0|0|2|11|70
+Rob Whalen|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|42|1|0|2|11|86
+Rob Whalen|R|Michael Bourn|L|Walk|F|Four-Seam Fastball|43|2|0|2|9|86
+Rob Whalen|R|Michael Bourn|L|Walk|B|Sinker|44|2|1|2|14|86
+Rob Whalen|R|Michael Bourn|L|Walk|F|Four-Seam Fastball|45|3|1|2|13|86
+Rob Whalen|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|46|3|2|2|11|86
+Rob Whalen|R|Paul Goldschmidt|R|Walk|C|Slider|47|0|0|2|6|78
+Rob Whalen|R|Paul Goldschmidt|R|Walk|B|Slider|48|0|1|2|14|77
+Rob Whalen|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|49|1|1|2|14|88
+Rob Whalen|R|Paul Goldschmidt|R|Walk|B|Slider|50|2|1|2|14|78
+Rob Whalen|R|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|51|3|1|2|14|87
+Rob Whalen|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|52|3|2|2|14|88
+Rob Whalen|R|Yasmany Tomas|R|Single|F|Four-Seam Fastball|53|0|0|2|14|88
+Rob Whalen|R|Yasmany Tomas|R|Single|B|Four-Seam Fastball|54|0|1|2|12|87
+Rob Whalen|R|Yasmany Tomas|R|Single|B|Four-Seam Fastball|55|1|1|2|14|89
+Rob Whalen|R|Yasmany Tomas|R|Single|B|Four-Seam Fastball|56|2|1|2|13|88
+Rob Whalen|R|Yasmany Tomas|R|Single|E|Four-Seam Fastball|57|3|1|2|8|87
+Rob Whalen|R|Welington Castillo|R|Hit By Pitch|C|Slider|58|0|0|2|2|78
+Rob Whalen|R|Welington Castillo|R|Hit By Pitch|H|Slider|59|0|1|2|11|78
+Rob Whalen|R|Jake Lamb|L|Double|S|Changeup|60|0|0|2|14|82
+Rob Whalen|R|Jake Lamb|L|Double|B|Sinker|61|0|1|2|11|89
+Rob Whalen|R|Jake Lamb|L|Double|W|Changeup|62|1|1|2|13|83
+Rob Whalen|R|Jake Lamb|L|Double|F|Changeup|63|1|2|2|4|83
+Rob Whalen|R|Jake Lamb|L|Double|E|Four-Seam Fastball|64|1|2|2|12|87
+Rob Whalen|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|89
+Rob Whalen|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|89
+Rob Whalen|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|89
+Rob Whalen|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|3|3|0|0|13|89
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|B|Four-Seam Fastball|4|0|0|0|13|87
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|C|Slider|5|1|0|0|14|81
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|S|Four-Seam Fastball|6|1|1|0|8|88
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|B|Slider|7|1|2|0|11|79
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|F|Slider|8|2|2|0|14|82
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|F|Four-Seam Fastball|9|2|2|0|7|89
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|F|Curveball|10|2|2|0|8|73
+Rob Whalen|R|Dustin Pedroia|R|Hit By Pitch|H|Sinker|11|2|2|0|11|90
+Rob Whalen|R|Xander Bogaerts|R|Single|B|Four-Seam Fastball|12|0|0|0|14|88
+Rob Whalen|R|Xander Bogaerts|R|Single|C|Four-Seam Fastball|13|1|0|0|4|89
+Rob Whalen|R|Xander Bogaerts|R|Single|E|Slider|14|1|1|0|6|81
+Rob Whalen|R|Andrew Benintendi|L|Single|B|Four-Seam Fastball|15|0|0|1|13|90
+Rob Whalen|R|Andrew Benintendi|L|Single|E|Sinker|16|1|0|1|7|90
+Rob Whalen|R|Hanley Ramirez|R|Hit By Pitch|F|Sinker|17|0|0|1|4|90
+Rob Whalen|R|Hanley Ramirez|R|Hit By Pitch|H|Slider|18|0|1|1|11|80
+Rob Whalen|R|Mitch Moreland|L|Flyout|F|Sinker|19|0|0|1|8|89
+Rob Whalen|R|Mitch Moreland|L|Flyout|B|Curveball|20|0|1|1|11|74
+Rob Whalen|R|Mitch Moreland|L|Flyout|B|Sinker|21|1|1|1|11|88
+Rob Whalen|R|Mitch Moreland|L|Flyout|X|Four-Seam Fastball|22|2|1|1|3|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|23|0|0|2|14|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Walk|B|Changeup|24|1|0|2|13|84
+Rob Whalen|R|Jackie Bradley Jr.|L|Walk|C|Four-Seam Fastball|25|2|0|2|2|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|26|2|1|2|11|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|27|3|1|2|12|88
+Rob Whalen|R|Sandy Leon|L|Single|B|Sinker|28|0|0|2|8|90
+Rob Whalen|R|Sandy Leon|L|Single|C|Four-Seam Fastball|29|1|0|2|6|88
+Rob Whalen|R|Sandy Leon|L|Single|B|Sinker|30|1|1|2|14|90
+Rob Whalen|R|Sandy Leon|L|Single|C|Four-Seam Fastball|31|2|1|2|1|89
+Rob Whalen|R|Sandy Leon|L|Single|E|Four-Seam Fastball|32|2|2|2|5|90
+Rob Whalen|R|Deven Marrero|R|Groundout|B|Four-Seam Fastball|33|0|0|0|14|86
+Rob Whalen|R|Deven Marrero|R|Groundout|S|Slider|34|1|0|0|14|80
+Rob Whalen|R|Deven Marrero|R|Groundout|B|Curveball|35|1|1|0|14|76
+Rob Whalen|R|Deven Marrero|R|Groundout|F|Four-Seam Fastball|36|2|1|0|5|87
+Rob Whalen|R|Deven Marrero|R|Groundout|X|Curveball|37|2|2|0|4|75
+Rob Whalen|R|Mookie Betts|R|Lineout|C|Four-Seam Fastball|38|0|0|1|4|88
+Rob Whalen|R|Mookie Betts|R|Lineout|F|Curveball|39|0|1|1|14|76
+Rob Whalen|R|Mookie Betts|R|Lineout|X|Slider|40|0|2|1|1|79
+Rob Whalen|R|Dustin Pedroia|R|Flyout|F|Four-Seam Fastball|41|0|0|2|11|87
+Rob Whalen|R|Dustin Pedroia|R|Flyout|F|Four-Seam Fastball|42|0|1|2|6|88
+Rob Whalen|R|Dustin Pedroia|R|Flyout|B|Curveball|43|0|2|2|11|74
+Rob Whalen|R|Dustin Pedroia|R|Flyout|X|Curveball|44|1|2|2|14|73
+Rob Whalen|R|Xander Bogaerts|R|Groundout|C|Four-Seam Fastball|45|0|0|0|1|88
+Rob Whalen|R|Xander Bogaerts|R|Groundout|B|Curveball|46|0|1|0|14|76
+Rob Whalen|R|Xander Bogaerts|R|Groundout|B|Slider|47|1|1|0|11|80
+Rob Whalen|R|Xander Bogaerts|R|Groundout|F|Four-Seam Fastball|48|2|1|0|11|87
+Rob Whalen|R|Xander Bogaerts|R|Groundout|B|Four-Seam Fastball|49|2|2|0|14|89
+Rob Whalen|R|Xander Bogaerts|R|Groundout|X|Four-Seam Fastball|50|3|2|0|8|88
+Rob Whalen|R|Andrew Benintendi|L|Groundout|X|Four-Seam Fastball|51|0|0|1|8|87
+Rob Whalen|R|Hanley Ramirez|R|Single|B|Slider|52|0|0|2|7|79
+Rob Whalen|R|Hanley Ramirez|R|Single|B|Four-Seam Fastball|53|1|0|2|14|88
+Rob Whalen|R|Hanley Ramirez|R|Single|D|Four-Seam Fastball|54|2|0|2|9|88
+Rob Whalen|R|Mitch Moreland|L|Lineout|X|Sinker|55|0|0|2|8|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Groundout|X|Sinker|56|0|0|0|8|88
+Rob Whalen|R|Sandy Leon|L|Lineout|C|Sinker|57|0|0|1|2|89
+Rob Whalen|R|Sandy Leon|L|Lineout|S|Curveball|58|0|1|1|14|76
+Rob Whalen|R|Sandy Leon|L|Lineout|B|Curveball|59|0|2|1|11|76
+Rob Whalen|R|Sandy Leon|L|Lineout|F|Four-Seam Fastball|60|1|2|1|11|87
+Rob Whalen|R|Sandy Leon|L|Lineout|X|Curveball|61|1|2|1|5|75
+Rob Whalen|R|Deven Marrero|R|Lineout|X|Four-Seam Fastball|62|0|0|2|9|86
+Rob Whalen|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|63|0|0|0|14|88
+Rob Whalen|R|Mookie Betts|R|Groundout|B|Slider|64|1|0|0|9|80
+Rob Whalen|R|Mookie Betts|R|Groundout|C|Four-Seam Fastball|65|2|0|0|3|87
+Rob Whalen|R|Mookie Betts|R|Groundout|C|Sinker|66|2|1|0|9|88
+Rob Whalen|R|Mookie Betts|R|Groundout|X|Curveball|67|2|2|0|9|77
+Rob Whalen|R|Dustin Pedroia|R|Single|C|Four-Seam Fastball|68|0|0|1|9|88
+Rob Whalen|R|Dustin Pedroia|R|Single|F|Slider|69|0|1|1|14|81
+Rob Whalen|R|Dustin Pedroia|R|Single|D|Curveball|70|0|2|1|6|75
+Rob Whalen|R|Xander Bogaerts|R|Pop Out|C|Four-Seam Fastball|71|0|0|1|9|87
+Rob Whalen|R|Xander Bogaerts|R|Pop Out|*B|Slider|72|0|1|1|13|77
+Rob Whalen|R|Xander Bogaerts|R|Pop Out|C|Four-Seam Fastball|73|1|1|1|8|86
+Rob Whalen|R|Xander Bogaerts|R|Pop Out|F|Curveball|74|1|2|1|11|72
+Rob Whalen|R|Xander Bogaerts|R|Pop Out|X|Four-Seam Fastball|75|1|2|1|4|86
+Rob Whalen|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|76|0|0|2|11|86
+Rob Whalen|R|Andrew Benintendi|L|Flyout|X|Sinker|77|1|0|2|6|87
+Rob Whalen|R|Hanley Ramirez|R|Groundout|B|Four-Seam Fastball|78|0|0|0|11|87
+Rob Whalen|R|Hanley Ramirez|R|Groundout|X|Four-Seam Fastball|79|1|0|0|3|88
+Rob Whalen|R|Mitch Moreland|L|Single|C|Four-Seam Fastball|80|0|0|1|11|88
+Rob Whalen|R|Mitch Moreland|L|Single|B|Changeup|81|0|1|1|14|85
+Rob Whalen|R|Mitch Moreland|L|Single|F|Curveball|82|1|1|1|8|77
+Rob Whalen|R|Mitch Moreland|L|Single|B|Four-Seam Fastball|83|1|2|1|11|88
+Rob Whalen|R|Mitch Moreland|L|Single|F|Sinker|84|2|2|1|11|89
+Rob Whalen|R|Mitch Moreland|L|Single|D|Curveball|85|2|2|1|4|78
+Rob Whalen|R|Jackie Bradley Jr.|L|Home Run|B|Four-Seam Fastball|86|0|0|1|11|87
+Rob Whalen|R|Jackie Bradley Jr.|L|Home Run|F|Sinker|87|1|0|1|5|88
+Rob Whalen|R|Jackie Bradley Jr.|L|Home Run|E|Sinker|88|1|1|1|4|87
+Rob Whalen|R|Rougned Odor|L|Pop Out|B|Sinker|0|0|0|0|11|90
+Rob Whalen|R|Rougned Odor|L|Pop Out|X|Four-Seam Fastball|1|1|0|0|2|90
+Rob Whalen|R|Carlos Gomez|R|Strikeout|C|Slider|2|0|0|1|2|78
+Rob Whalen|R|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|3|0|1|1|11|91
+Rob Whalen|R|Carlos Gomez|R|Strikeout|S|Slider|4|1|1|1|14|79
+Rob Whalen|R|Carlos Gomez|R|Strikeout|B|Slider|5|1|2|1|14|81
+Rob Whalen|R|Carlos Gomez|R|Strikeout|F|Four-Seam Fastball|6|2|2|1|5|90
+Rob Whalen|R|Carlos Gomez|R|Strikeout|B|Slider|7|2|2|1|14|81
+Rob Whalen|R|Carlos Gomez|R|Strikeout|C|Four-Seam Fastball|8|3|2|1|4|89
+Rob Whalen|R|Mike Napoli|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|12|90
+Rob Whalen|R|Mike Napoli|R|Strikeout|B|Four-Seam Fastball|10|0|1|2|11|88
+Rob Whalen|R|Mike Napoli|R|Strikeout|C|Slider|11|1|1|2|8|79
+Rob Whalen|R|Mike Napoli|R|Strikeout|S|Four-Seam Fastball|12|1|2|2|11|92
+Rob Whalen|R|Jonathan Lucroy|R|Pop Out|B|Slider|13|0|0|0|11|78
+Rob Whalen|R|Jonathan Lucroy|R|Pop Out|B|Sinker|14|1|0|0|14|90
+Rob Whalen|R|Jonathan Lucroy|R|Pop Out|X|Four-Seam Fastball|15|2|0|0|2|89
+Rob Whalen|R|Joey Gallo|L|Flyout|F|Sinker|16|0|0|1|13|91
+Rob Whalen|R|Joey Gallo|L|Flyout|X|Changeup|17|0|1|1|13|85
+Rob Whalen|R|Shin-Soo Choo|L|Flyout|C|Sinker|18|0|0|2|8|92
+Rob Whalen|R|Shin-Soo Choo|L|Flyout|F|Curveball|19|0|1|2|8|77
+Rob Whalen|R|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|20|0|2|2|11|90
+Rob Whalen|R|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|21|1|2|2|13|91
+Rob Whalen|R|Shin-Soo Choo|L|Flyout|X|Changeup|22|2|2|2|11|85

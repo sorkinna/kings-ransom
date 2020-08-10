@@ -1,0 +1,796 @@
+A.J. Achter|R|Carlos Santana|L|Intent Walk|B|Changeup|0|0|0|2|11|81
+A.J. Achter|R|Carlos Santana|L|Intent Walk|B|Four-Seam Fastball|1|1|0|2|12|90
+A.J. Achter|R|Carlos Santana|L|Intent Walk|B|Four-Seam Fastball|2|2|0|2|14|90
+A.J. Achter|R|Carlos Santana|L|Intent Walk|I|Intentional Ball|3|3|0|2|11|60
+A.J. Achter|R|Yan Gomes|R|Home Run|B|Four-Seam Fastball|4|0|0|2|14|90
+A.J. Achter|R|Yan Gomes|R|Home Run|C|Changeup|5|1|0|2|11|81
+A.J. Achter|R|Yan Gomes|R|Home Run|B|Four-Seam Fastball|6|1|1|2|14|91
+A.J. Achter|R|Yan Gomes|R|Home Run|E|Four-Seam Fastball|7|2|1|2|5|89
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|C|Changeup|8|0|0|2|13|81
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|B|Four-Seam Fastball|9|0|1|2|12|89
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|B|Cutter|10|1|1|2|11|90
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|S|Changeup|11|2|1|2|8|82
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|T|Cutter|12|2|2|2|2|91
+A.J. Achter|R|Jerry Sands|R|Strikeout|C|Four-Seam Fastball|13|0|0|0|14|90
+A.J. Achter|R|Jerry Sands|R|Strikeout|B|Slider|14|0|1|0|14|76
+A.J. Achter|R|Jerry Sands|R|Strikeout|F|Cutter|15|1|1|0|11|89
+A.J. Achter|R|Jerry Sands|R|Strikeout|B|Slider|16|1|2|0|14|80
+A.J. Achter|R|Jerry Sands|R|Strikeout|F|Slider|17|2|2|0|13|82
+A.J. Achter|R|Jerry Sands|R|Strikeout|B|Slider|18|2|2|0|14|79
+A.J. Achter|R|Jerry Sands|R|Strikeout|F|Cutter|19|3|2|0|12|88
+A.J. Achter|R|Jerry Sands|R|Strikeout|S|Cutter|20|3|2|0|11|90
+A.J. Achter|R|Gio Urshela|R|Strikeout|B|Cutter|21|0|0|1|11|89
+A.J. Achter|R|Gio Urshela|R|Strikeout|F|Cutter|22|1|0|1|5|87
+A.J. Achter|R|Gio Urshela|R|Strikeout|F|Changeup|23|1|1|1|9|81
+A.J. Achter|R|Gio Urshela|R|Strikeout|B|Slider|24|1|2|1|14|79
+A.J. Achter|R|Gio Urshela|R|Strikeout|F|Changeup|25|2|2|1|8|82
+A.J. Achter|R|Gio Urshela|R|Strikeout|F|Cutter|26|2|2|1|13|88
+A.J. Achter|R|Gio Urshela|R|Strikeout|F|Cutter|27|2|2|1|3|90
+A.J. Achter|R|Gio Urshela|R|Strikeout|S|Changeup|28|2|2|1|13|80
+A.J. Achter|R|Tyler Holt|R|Strikeout|S|Changeup|29|0|0|2|8|81
+A.J. Achter|R|Tyler Holt|R|Strikeout|C|Four-Seam Fastball|30|0|1|2|6|88
+A.J. Achter|R|Tyler Holt|R|Strikeout|T|Slider|31|0|2|2|14|77
+A.J. Achter|R|Gio Urshela|R|Single|C|Four-Seam Fastball|0|0|0|0|5|89
+A.J. Achter|R|Gio Urshela|R|Single|D|Changeup|1|0|1|0|5|83
+A.J. Achter|R|Abraham Almonte|L|Home Run|S|Two-Seam Fastball|2|0|0|0|11|87
+A.J. Achter|R|Abraham Almonte|L|Home Run|B|Two-Seam Fastball|3|0|1|0|13|89
+A.J. Achter|R|Abraham Almonte|L|Home Run|*B|Changeup|4|1|1|0|13|83
+A.J. Achter|R|Abraham Almonte|L|Home Run|E|Four-Seam Fastball|5|2|1|0|5|89
+A.J. Achter|R|Roberto Perez|R|Single|D|Cutter|6|0|0|0|12|89
+A.J. Achter|R|Jose Ramirez|L|Walk|F|Four-Seam Fastball|7|0|0|0|3|87
+A.J. Achter|R|Jose Ramirez|L|Walk|B|Two-Seam Fastball|8|0|1|0|11|88
+A.J. Achter|R|Jose Ramirez|L|Walk|B|Changeup|9|1|1|0|13|82
+A.J. Achter|R|Jose Ramirez|L|Walk|F|Four-Seam Fastball|10|2|1|0|1|88
+A.J. Achter|R|Jose Ramirez|L|Walk|B|Cutter|11|2|2|0|11|90
+A.J. Achter|R|Jose Ramirez|L|Walk|F|Cutter|12|3|2|0|5|88
+A.J. Achter|R|Jose Ramirez|L|Walk|F|Four-Seam Fastball|13|3|2|0|13|90
+A.J. Achter|R|Jose Ramirez|L|Walk|B|Four-Seam Fastball|14|3|2|0|11|90
+A.J. Achter|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|15|0|0|0|11|89
+A.J. Achter|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|16|1|0|0|11|89
+A.J. Achter|R|Francisco Lindor|L|Single|F|Four-Seam Fastball|17|2|0|0|8|88
+A.J. Achter|R|Francisco Lindor|L|Single|F|Four-Seam Fastball|18|2|1|0|6|89
+A.J. Achter|R|Francisco Lindor|L|Single|F|Changeup|19|2|2|0|13|82
+A.J. Achter|R|Francisco Lindor|L|Single|D|Four-Seam Fastball|20|2|2|0|13|90
+A.J. Achter|R|Bobby Wilson|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|89
+A.J. Achter|R|Bobby Wilson|R|Lineout|B|Four-Seam Fastball|1|1|0|0|14|90
+A.J. Achter|R|Bobby Wilson|R|Lineout|C|Four-Seam Fastball|2|2|0|0|14|89
+A.J. Achter|R|Bobby Wilson|R|Lineout|F|Cutter|3|2|1|0|5|89
+A.J. Achter|R|Bobby Wilson|R|Lineout|B|Changeup|4|2|2|0|11|83
+A.J. Achter|R|Bobby Wilson|R|Lineout|X|Cutter|5|3|2|0|12|88
+A.J. Achter|R|Ryan Strausborger|R|Groundout|B|Four-Seam Fastball|6|0|0|1|14|90
+A.J. Achter|R|Ryan Strausborger|R|Groundout|C|Cutter|7|1|0|1|12|89
+A.J. Achter|R|Ryan Strausborger|R|Groundout|X|Slider|8|1|1|1|6|78
+A.J. Achter|R|Delino DeShields|R|Flyout|F|Four-Seam Fastball|9|0|0|2|6|91
+A.J. Achter|R|Delino DeShields|R|Flyout|X|Cutter|10|0|1|2|5|90
+A.J. Achter|R|Shin-Soo Choo|L|Single|C|Four-Seam Fastball|11|0|0|0|4|90
+A.J. Achter|R|Shin-Soo Choo|L|Single|B|Cutter|12|0|1|0|14|89
+A.J. Achter|R|Shin-Soo Choo|L|Single|B|Changeup|13|1|1|0|13|83
+A.J. Achter|R|Shin-Soo Choo|L|Single|D|Four-Seam Fastball|14|2|1|0|5|89
+A.J. Achter|R|Mike Napoli|R|Forceout|C|Four-Seam Fastball|15|0|0|0|8|90
+A.J. Achter|R|Mike Napoli|R|Forceout|S|Slider|16|0|1|0|9|78
+A.J. Achter|R|Mike Napoli|R|Forceout|B|Slider|17|0|2|0|14|80
+A.J. Achter|R|Mike Napoli|R|Forceout|F|Changeup|18|1|2|0|4|83
+A.J. Achter|R|Mike Napoli|R|Forceout|F|Changeup|19|1|2|0|7|84
+A.J. Achter|R|Mike Napoli|R|Forceout|F|Cutter|20|1|2|0|1|91
+A.J. Achter|R|Mike Napoli|R|Forceout|X|Slider|21|1|2|0|9|81
+A.J. Achter|R|Adam Rosales|R|Strikeout|B|Cutter|22|0|0|1|11|89
+A.J. Achter|R|Adam Rosales|R|Strikeout|F|Cutter|23|1|0|1|3|89
+A.J. Achter|R|Adam Rosales|R|Strikeout|S|Slider|24|1|1|1|8|78
+A.J. Achter|R|Adam Rosales|R|Strikeout|S|Slider|25|1|2|1|14|80
+A.J. Achter|R|Mitch Moreland|L|Strikeout|F|Four-Seam Fastball|26|0|0|2|2|89
+A.J. Achter|R|Mitch Moreland|L|Strikeout|*B|Changeup|27|0|1|2|13|84
+A.J. Achter|R|Mitch Moreland|L|Strikeout|F|Changeup|28|1|1|2|13|84
+A.J. Achter|R|Mitch Moreland|L|Strikeout|B|Cutter|29|1|2|2|11|90
+A.J. Achter|R|Mitch Moreland|L|Strikeout|*B|Slider|30|2|2|2|13|79
+A.J. Achter|R|Mitch Moreland|L|Strikeout|C|Cutter|31|3|2|2|13|90
+A.J. Achter|R|Carlos Santana|L|Flyout|B|Cutter|0|0|0|0|13|89
+A.J. Achter|R|Carlos Santana|L|Flyout|F|Four-Seam Fastball|1|1|0|0|7|89
+A.J. Achter|R|Carlos Santana|L|Flyout|X|Four-Seam Fastball|2|1|1|0|5|90
+A.J. Achter|R|Chris Johnson|R|Flyout|B|Four-Seam Fastball|3|0|0|1|14|90
+A.J. Achter|R|Chris Johnson|R|Flyout|B|Four-Seam Fastball|4|1|0|1|14|91
+A.J. Achter|R|Chris Johnson|R|Flyout|X|Cutter|5|2|0|1|6|90
+A.J. Achter|R|Abraham Almonte|L|Pop Out|C|Changeup|6|0|0|2|11|81
+A.J. Achter|R|Abraham Almonte|L|Pop Out|S|Four-Seam Fastball|7|0|1|2|14|91
+A.J. Achter|R|Abraham Almonte|L|Pop Out|B|Slider|8|0|2|2|14|82
+A.J. Achter|R|Abraham Almonte|L|Pop Out|B|Changeup|9|1|2|2|14|84
+A.J. Achter|R|Abraham Almonte|L|Pop Out|X|Four-Seam Fastball|10|2|2|2|7|91
+A.J. Achter|R|Gio Urshela|R|Pop Out|C|Slider|11|0|0|0|1|75
+A.J. Achter|R|Gio Urshela|R|Pop Out|X|Four-Seam Fastball|12|0|1|0|3|89
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|S|Four-Seam Fastball|13|0|0|1|13|89
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|B|Four-Seam Fastball|14|0|1|1|14|90
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|S|Changeup|15|1|1|1|7|82
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|F|Four-Seam Fastball|16|1|2|1|3|90
+A.J. Achter|R|Lonnie Chisenhall|L|Strikeout|S|Four-Seam Fastball|17|1|2|1|11|90
+A.J. Achter|R|Mike Aviles|R|Groundout|C|Slider|18|0|0|2|5|78
+A.J. Achter|R|Mike Aviles|R|Groundout|X|Cutter|19|0|1|2|12|89
+A.J. Achter|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|13|89
+A.J. Achter|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|1|1|0|1|13|90
+A.J. Achter|R|Brett Gardner|L|Strikeout|S|Changeup|2|1|1|1|13|83
+A.J. Achter|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|3|1|2|1|14|93
+A.J. Achter|R|Brett Gardner|L|Strikeout|W|Changeup|4|2|2|1|13|84
+A.J. Achter|R|Alex Rodriguez|R|Groundout|C|Slider|5|0|0|2|9|77
+A.J. Achter|R|Alex Rodriguez|R|Groundout|B|Slider|6|0|1|2|14|81
+A.J. Achter|R|Alex Rodriguez|R|Groundout|C|Slider|7|1|1|2|4|78
+A.J. Achter|R|Alex Rodriguez|R|Groundout|*B|Four-Seam Fastball|8|1|2|2|14|92
+A.J. Achter|R|Alex Rodriguez|R|Groundout|X|Changeup|9|2|2|2|8|83
+A.J. Achter|R|Matt Wieters|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|13|90
+A.J. Achter|R|Matt Wieters|L|Strikeout|B|Two-Seam Fastball|1|0|1|2|13|89
+A.J. Achter|R|Matt Wieters|L|Strikeout|*B|Four-Seam Fastball|2|1|1|2|13|90
+A.J. Achter|R|Matt Wieters|L|Strikeout|F|Four-Seam Fastball|3|2|1|2|5|89
+A.J. Achter|R|Matt Wieters|L|Strikeout|F|Changeup|4|2|2|2|13|84
+A.J. Achter|R|Matt Wieters|L|Strikeout|F|Changeup|5|2|2|2|13|83
+A.J. Achter|R|Matt Wieters|L|Strikeout|S|Slider|6|2|2|2|14|79
+A.J. Achter|R|Jonathan Schoop|R|Flyout|C|Four-Seam Fastball|7|0|0|0|6|87
+A.J. Achter|R|Jonathan Schoop|R|Flyout|F|Four-Seam Fastball|8|0|1|0|13|89
+A.J. Achter|R|Jonathan Schoop|R|Flyout|X|Slider|9|0|2|0|14|75
+A.J. Achter|R|Steve Clevenger|L|Groundout|X|Four-Seam Fastball|10|0|0|1|7|89
+A.J. Achter|R|Ryan Flaherty|L|Walk|B|Four-Seam Fastball|11|0|0|2|13|89
+A.J. Achter|R|Ryan Flaherty|L|Walk|B|Four-Seam Fastball|12|1|0|2|14|88
+A.J. Achter|R|Ryan Flaherty|L|Walk|B|Four-Seam Fastball|13|2|0|2|13|88
+A.J. Achter|R|Ryan Flaherty|L|Walk|B|Four-Seam Fastball|14|3|0|2|11|86
+A.J. Achter|R|Henry Urrutia|L|Walk|B|Four-Seam Fastball|15|0|0|2|14|89
+A.J. Achter|R|Henry Urrutia|L|Walk|B|Changeup|16|1|0|2|13|82
+A.J. Achter|R|Henry Urrutia|L|Walk|F|Four-Seam Fastball|17|2|0|2|5|87
+A.J. Achter|R|Henry Urrutia|L|Walk|S|Cutter|18|2|1|2|1|89
+A.J. Achter|R|Henry Urrutia|L|Walk|B|Four-Seam Fastball|19|2|2|2|11|90
+A.J. Achter|R|Henry Urrutia|L|Walk|B|Four-Seam Fastball|20|3|2|2|14|89
+A.J. Achter|R|Nolan Reimold|R|Pop Out|C|Four-Seam Fastball|21|0|0|2|3|89
+A.J. Achter|R|Nolan Reimold|R|Pop Out|F|Slider|22|0|1|2|6|78
+A.J. Achter|R|Nolan Reimold|R|Pop Out|X|Slider|23|0|2|2|14|78
+A.J. Achter|R|Jose Altuve|R|Flyout|X|Cutter|0|0|0|0|5|91
+A.J. Achter|R|Carlos Correa|R|Pop Out|B|Four-Seam Fastball|1|0|0|1|14|91
+A.J. Achter|R|Carlos Correa|R|Pop Out|B|Changeup|2|1|0|1|11|82
+A.J. Achter|R|Carlos Correa|R|Pop Out|X|Four-Seam Fastball|3|2|0|1|6|89
+A.J. Achter|R|Evan Gattis|R|Strikeout|B|Four-Seam Fastball|4|0|0|2|14|91
+A.J. Achter|R|Evan Gattis|R|Strikeout|C|Slider|5|1|0|2|4|76
+A.J. Achter|R|Evan Gattis|R|Strikeout|F|Changeup|6|1|1|2|13|82
+A.J. Achter|R|Evan Gattis|R|Strikeout|B|Slider|7|1|2|2|14|80
+A.J. Achter|R|Evan Gattis|R|Strikeout|B|Slider|8|2|2|2|14|80
+A.J. Achter|R|Evan Gattis|R|Strikeout|F|Changeup|9|3|2|2|1|83
+A.J. Achter|R|Evan Gattis|R|Strikeout|F|Cutter|10|3|2|2|6|91
+A.J. Achter|R|Evan Gattis|R|Strikeout|S|Cutter|11|3|2|2|12|91
+A.J. Achter|R|Trayce Thompson|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|12|89
+A.J. Achter|R|Trayce Thompson|R|Strikeout|C|Four-Seam Fastball|1|1|0|1|8|88
+A.J. Achter|R|Trayce Thompson|R|Strikeout|S|Slider|2|1|1|1|7|81
+A.J. Achter|R|Trayce Thompson|R|Strikeout|*B|Slider|3|1|2|1|14|81
+A.J. Achter|R|Trayce Thompson|R|Strikeout|B|Changeup|4|2|2|1|14|83
+A.J. Achter|R|Trayce Thompson|R|Strikeout|C|Four-Seam Fastball|5|3|2|1|14|91
+A.J. Achter|R|Alexei Ramirez|R|Groundout|S|Slider|6|0|0|2|2|78
+A.J. Achter|R|Alexei Ramirez|R|Groundout|F|Four-Seam Fastball|7|0|1|2|1|90
+A.J. Achter|R|Alexei Ramirez|R|Groundout|F|Changeup|8|0|2|2|6|80
+A.J. Achter|R|Alexei Ramirez|R|Groundout|*B|Slider|9|0|2|2|14|82
+A.J. Achter|R|Alexei Ramirez|R|Groundout|*B|Changeup|10|1|2|2|14|84
+A.J. Achter|R|Alexei Ramirez|R|Groundout|B|Changeup|11|2|2|2|14|83
+A.J. Achter|R|Alexei Ramirez|R|Groundout|X|Cutter|12|3|2|2|2|91
+A.J. Achter|R|Mike Olt|R|Groundout|C|Four-Seam Fastball|13|0|0|0|5|89
+A.J. Achter|R|Mike Olt|R|Groundout|F|Slider|14|0|1|0|14|79
+A.J. Achter|R|Mike Olt|R|Groundout|B|Four-Seam Fastball|15|0|2|0|12|90
+A.J. Achter|R|Mike Olt|R|Groundout|F|Cutter|16|1|2|0|5|90
+A.J. Achter|R|Mike Olt|R|Groundout|X|Changeup|17|1|2|0|14|84
+A.J. Achter|R|Geovany Soto|R|Single|S|Slider|18|0|0|1|8|78
+A.J. Achter|R|Geovany Soto|R|Single|B|Four-Seam Fastball|19|0|1|1|12|89
+A.J. Achter|R|Geovany Soto|R|Single|D|Four-Seam Fastball|20|1|1|1|6|88
+A.J. Achter|R|Tyler Collins|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|7|90
+A.J. Achter|R|Tyler Collins|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|6|90
+A.J. Achter|R|Tyler Collins|L|Strikeout|S|Slider|2|0|2|0|13|75
+A.J. Achter|R|James McCann|R|Groundout|S|Slider|3|0|0|1|9|77
+A.J. Achter|R|James McCann|R|Groundout|F|Slider|4|0|1|1|9|78
+A.J. Achter|R|James McCann|R|Groundout|B|Cutter|5|0|2|1|14|91
+A.J. Achter|R|James McCann|R|Groundout|X|Cutter|6|1|2|1|14|91
+A.J. Achter|R|Andrew Romine|L|Flyout|C|Changeup|7|0|0|2|13|82
+A.J. Achter|R|Andrew Romine|L|Flyout|X|Cutter|8|0|1|2|4|90
+A.J. Achter|R|Anthony Gose|L|Field Error|D|Changeup|9|0|0|0|4|82
+A.J. Achter|R|Ian Kinsler|R|Flyout|F|Cutter|10|0|0|0|4|89
+A.J. Achter|R|Ian Kinsler|R|Flyout|S|Slider|11|0|1|0|14|79
+A.J. Achter|R|Ian Kinsler|R|Flyout|F|Cutter|12|0|2|0|12|90
+A.J. Achter|R|Ian Kinsler|R|Flyout|X|Slider|13|0|2|0|3|79
+A.J. Achter|R|Miguel Cabrera|R|Grounded Into DP|X|Slider|14|0|0|1|6|78
+A.J. Achter|R|J.D. Martinez|R|Double|S|Slider|15|0|0|0|14|78
+A.J. Achter|R|J.D. Martinez|R|Double|B|Cutter|16|0|1|0|14|89
+A.J. Achter|R|J.D. Martinez|R|Double|D|Changeup|17|1|1|0|5|83
+A.J. Achter|R|Victor Martinez|L|Single|C|Cutter|18|0|0|0|14|90
+A.J. Achter|R|Victor Martinez|L|Single|E|Cutter|19|0|1|0|12|90
+A.J. Achter|R|Mike Trout|R|Home Run|B|Cutter|0|0|0|1|14|90
+A.J. Achter|R|Mike Trout|R|Home Run|B|Cutter|1|1|0|1|14|88
+A.J. Achter|R|Mike Trout|R|Home Run|E|Cutter|2|2|0|1|14|88
+A.J. Achter|R|Albert Pujols|R|Lineout|B|Slider|3|0|0|1|14|79
+A.J. Achter|R|Albert Pujols|R|Lineout|X|Four-Seam Fastball|4|1|0|1|4|89
+A.J. Achter|R|C.J. Cron|R|Walk|B|Slider|5|0|0|2|14|79
+A.J. Achter|R|C.J. Cron|R|Walk|S|Slider|6|1|0|2|6|77
+A.J. Achter|R|C.J. Cron|R|Walk|B|Cutter|7|1|1|2|13|89
+A.J. Achter|R|C.J. Cron|R|Walk|B|Four-Seam Fastball|8|2|1|2|14|89
+A.J. Achter|R|C.J. Cron|R|Walk|B|Cutter|9|3|1|2|12|88
+A.J. Achter|R|David Freese|R|Strikeout|C|Cutter|10|0|0|2|5|89
+A.J. Achter|R|David Freese|R|Strikeout|F|Cutter|11|0|1|2|13|89
+A.J. Achter|R|David Freese|R|Strikeout|B|Changeup|12|0|2|2|14|81
+A.J. Achter|R|David Freese|R|Strikeout|*B|Changeup|13|1|2|2|14|82
+A.J. Achter|R|David Freese|R|Strikeout|B|Slider|14|2|2|2|14|81
+A.J. Achter|R|David Freese|R|Strikeout|S|Changeup|15|3|2|2|13|83
+A.J. Achter|R|Shane Victorino|R|Single|S|Cutter|16|0|0|0|3|88
+A.J. Achter|R|Shane Victorino|R|Single|F|Four-Seam Fastball|17|0|1|0|3|90
+A.J. Achter|R|Shane Victorino|R|Single|D|Changeup|18|0|2|0|9|81
+A.J. Achter|R|Chris Iannetta|R|Strikeout|F|Slider|19|0|0|0|1|78
+A.J. Achter|R|Chris Iannetta|R|Strikeout|F|Four-Seam Fastball|20|0|1|0|11|87
+A.J. Achter|R|Chris Iannetta|R|Strikeout|P|Pitchout|21|0|2|0|12|82
+A.J. Achter|R|Chris Iannetta|R|Strikeout|B|Slider|22|0|2|0|14|80
+A.J. Achter|R|Chris Iannetta|R|Strikeout|F|Cutter|23|1|2|0|5|87
+A.J. Achter|R|Chris Iannetta|R|Strikeout|*B|Slider|24|1|2|0|14|82
+A.J. Achter|R|Chris Iannetta|R|Strikeout|C|Changeup|25|2|2|0|8|84
+A.J. Achter|R|Taylor Featherston|R|Home Run|F|Cutter|26|0|0|1|3|89
+A.J. Achter|R|Taylor Featherston|R|Home Run|E|Cutter|27|0|1|1|13|89
+A.J. Achter|R|Christian Colon|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|90
+A.J. Achter|R|Christian Colon|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|90
+A.J. Achter|R|Christian Colon|R|Walk|S|Four-Seam Fastball|2|2|0|0|11|89
+A.J. Achter|R|Christian Colon|R|Walk|B|Four-Seam Fastball|3|2|1|0|12|91
+A.J. Achter|R|Christian Colon|R|Walk|B|Four-Seam Fastball|4|3|1|0|13|89
+A.J. Achter|R|Drew Butera|R|Flyout|X|Four-Seam Fastball|5|0|0|0|6|90
+A.J. Achter|R|Paulo Orlando|R|Flyout|X|Four-Seam Fastball|6|0|0|1|2|89
+A.J. Achter|R|Alex Rios|R|Lineout|X|Changeup|7|0|0|2|6|82
+A.J. Achter|R|Ryan Rua|R|Strikeout|B|Cutter|0|0|0|0|14|90
+A.J. Achter|R|Ryan Rua|R|Strikeout|B|Changeup|1|1|0|0|11|79
+A.J. Achter|R|Ryan Rua|R|Strikeout|S|Four-Seam Fastball|2|2|0|0|6|89
+A.J. Achter|R|Ryan Rua|R|Strikeout|B|Four-Seam Fastball|3|2|1|0|14|90
+A.J. Achter|R|Ryan Rua|R|Strikeout|S|Changeup|4|3|1|0|14|80
+A.J. Achter|R|Ryan Rua|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|6|90
+A.J. Achter|R|Bryan Holaday|R|Groundout|X|Slider|6|0|0|1|5|77
+A.J. Achter|R|Delino DeShields|R|Flyout|B|Four-Seam Fastball|7|0|0|2|14|91
+A.J. Achter|R|Delino DeShields|R|Flyout|C|Four-Seam Fastball|8|1|0|2|8|90
+A.J. Achter|R|Delino DeShields|R|Flyout|B|Changeup|9|1|1|2|13|80
+A.J. Achter|R|Delino DeShields|R|Flyout|X|Cutter|10|2|1|2|9|91
+A.J. Achter|R|Colin Walsh|L|Single|D|Two-Seam Fastball|0|0|0|0|13|90
+A.J. Achter|R|Alex Presley|L|Forceout|X|Two-Seam Fastball|1|0|0|0|7|89
+A.J. Achter|R|Jonathan Villar|L|Walk|B|Two-Seam Fastball|2|0|0|1|13|89
+A.J. Achter|R|Jonathan Villar|L|Walk|B|Two-Seam Fastball|3|1|0|1|11|90
+A.J. Achter|R|Jonathan Villar|L|Walk|L|Two-Seam Fastball|4|2|0|1|13|89
+A.J. Achter|R|Jonathan Villar|L|Walk|F|Changeup|5|2|1|1|5|82
+A.J. Achter|R|Jonathan Villar|L|Walk|B|Changeup|6|2|2|1|13|82
+A.J. Achter|R|Jonathan Villar|L|Walk|F|Two-Seam Fastball|7|3|2|1|5|91
+A.J. Achter|R|Jonathan Villar|L|Walk|F|Two-Seam Fastball|8|3|2|1|4|92
+A.J. Achter|R|Jonathan Villar|L|Walk|B|Changeup|9|3|2|1|13|83
+A.J. Achter|R|Ramon Flores|L|Groundout|C|Two-Seam Fastball|10|0|0|2|4|91
+A.J. Achter|R|Ramon Flores|L|Groundout|F|Changeup|11|0|1|2|13|83
+A.J. Achter|R|Ramon Flores|L|Groundout|B|Changeup|12|0|2|2|13|84
+A.J. Achter|R|Ramon Flores|L|Groundout|F|Changeup|13|1|2|2|13|84
+A.J. Achter|R|Ramon Flores|L|Groundout|B|Four-Seam Fastball|14|1|2|2|14|92
+A.J. Achter|R|Ramon Flores|L|Groundout|X|Changeup|15|2|2|2|7|84
+A.J. Achter|R|Steve Pearce|R|Groundout|C|Four-Seam Fastball|0|0|0|0|2|91
+A.J. Achter|R|Steve Pearce|R|Groundout|F|Changeup|1|0|1|0|5|83
+A.J. Achter|R|Steve Pearce|R|Groundout|B|Four-Seam Fastball|2|0|2|0|14|93
+A.J. Achter|R|Steve Pearce|R|Groundout|X|Changeup|3|1|2|0|14|83
+A.J. Achter|R|Steven Souza Jr.|R|Double|B|Slider|4|0|0|1|14|79
+A.J. Achter|R|Steven Souza Jr.|R|Double|D|Changeup|5|1|0|1|8|84
+A.J. Achter|R|Corey Dickerson|L|Groundout|S|Changeup|6|0|0|1|8|83
+A.J. Achter|R|Corey Dickerson|L|Groundout|F|Changeup|7|0|1|1|13|83
+A.J. Achter|R|Corey Dickerson|L|Groundout|B|Two-Seam Fastball|8|0|2|1|13|93
+A.J. Achter|R|Corey Dickerson|L|Groundout|*B|Changeup|9|1|2|1|13|86
+A.J. Achter|R|Corey Dickerson|L|Groundout|X|Changeup|10|2|2|1|13|84
+A.J. Achter|R|Brandon Guyer|R|Hit By Pitch|H|Changeup|11|0|0|2|11|81
+A.J. Achter|R|Kevin Kiermaier|L|Grounded Into DP|X|Changeup|12|0|0|2|13|82
+A.J. Achter|R|Curt Casali|R|Flyout|F|Four-Seam Fastball|13|0|0|1|14|91
+A.J. Achter|R|Curt Casali|R|Flyout|X|Four-Seam Fastball|14|0|1|1|2|91
+A.J. Achter|R|Logan Forsythe|R|Groundout|B|Four-Seam Fastball|15|0|0|2|14|92
+A.J. Achter|R|Logan Forsythe|R|Groundout|X|Four-Seam Fastball|16|1|0|2|6|90
+A.J. Achter|R|Brad Miller|L|Single|B|Two-Seam Fastball|17|0|0|0|14|91
+A.J. Achter|R|Brad Miller|L|Single|F|Two-Seam Fastball|18|1|0|0|1|90
+A.J. Achter|R|Brad Miller|L|Single|B|Two-Seam Fastball|19|1|1|0|11|91
+A.J. Achter|R|Brad Miller|L|Single|D|Changeup|20|2|1|0|13|82
+A.J. Achter|R|Matt Carpenter|L|Home Run|C|Two-Seam Fastball|0|0|0|0|8|90
+A.J. Achter|R|Matt Carpenter|L|Home Run|B|Changeup|1|0|1|0|14|81
+A.J. Achter|R|Matt Carpenter|L|Home Run|E|Two-Seam Fastball|2|1|1|0|8|90
+A.J. Achter|R|Stephen Piscotty|R|Pop Out|B|Four-Seam Fastball|3|0|0|0|14|91
+A.J. Achter|R|Stephen Piscotty|R|Pop Out|B|Slider|4|1|0|0|12|78
+A.J. Achter|R|Stephen Piscotty|R|Pop Out|X|Four-Seam Fastball|5|2|0|0|2|89
+A.J. Achter|R|Matt Holliday|R|Home Run|C|Four-Seam Fastball|6|0|0|1|9|91
+A.J. Achter|R|Matt Holliday|R|Home Run|B|Four-Seam Fastball|7|0|1|1|13|90
+A.J. Achter|R|Matt Holliday|R|Home Run|B|Changeup|8|1|1|1|14|84
+A.J. Achter|R|Matt Holliday|R|Home Run|E|Four-Seam Fastball|9|2|1|1|8|91
+A.J. Achter|R|Randal Grichuk|R|Field Error|B|Slider|10|0|0|1|14|81
+A.J. Achter|R|Randal Grichuk|R|Field Error|F|Four-Seam Fastball|11|1|0|1|6|90
+A.J. Achter|R|Randal Grichuk|R|Field Error|F|Changeup|12|1|1|1|4|83
+A.J. Achter|R|Randal Grichuk|R|Field Error|D|Changeup|13|1|2|1|9|83
+A.J. Achter|R|Yadier Molina|R|Fielders Choice Out|S|Four-Seam Fastball|14|0|0|1|14|91
+A.J. Achter|R|Yadier Molina|R|Fielders Choice Out|B|Changeup|15|0|1|1|14|83
+A.J. Achter|R|Yadier Molina|R|Fielders Choice Out|X|Changeup|16|1|1|1|14|83
+A.J. Achter|R|Brandon Moss|L|Single|*B|Two-Seam Fastball|17|0|0|2|13|90
+A.J. Achter|R|Brandon Moss|L|Single|B|Two-Seam Fastball|18|1|0|2|11|90
+A.J. Achter|R|Brandon Moss|L|Single|S|Two-Seam Fastball|19|2|0|2|11|89
+A.J. Achter|R|Brandon Moss|L|Single|S|Changeup|20|2|1|2|13|82
+A.J. Achter|R|Brandon Moss|L|Single|D|Changeup|21|2|2|2|7|83
+A.J. Achter|R|Jedd Gyorko|R|Flyout|S|Changeup|22|0|0|2|5|83
+A.J. Achter|R|Jedd Gyorko|R|Flyout|X|Changeup|23|0|1|2|11|82
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|B|Two-Seam Fastball|24|0|0|0|14|89
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|S|Changeup|25|1|0|0|13|83
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|B|Four-Seam Fastball|26|1|1|0|12|90
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|S|Changeup|27|2|1|0|13|82
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|F|Changeup|28|2|2|0|13|83
+A.J. Achter|R|Jeremy Hazelbaker|L|Strikeout|S|Changeup|29|2|2|0|13|82
+A.J. Achter|R|Ruben Tejada|R|Strikeout|B|Four-Seam Fastball|30|0|0|1|14|90
+A.J. Achter|R|Ruben Tejada|R|Strikeout|C|Four-Seam Fastball|31|1|0|1|12|89
+A.J. Achter|R|Ruben Tejada|R|Strikeout|F|Four-Seam Fastball|32|1|1|1|13|90
+A.J. Achter|R|Ruben Tejada|R|Strikeout|S|Changeup|33|1|2|1|13|84
+A.J. Achter|R|Kolten Wong|L|Flyout|X|Two-Seam Fastball|34|0|0|2|4|91
+A.J. Achter|R|Stephen Piscotty|R|Groundout|B|Four-Seam Fastball|35|0|0|0|12|90
+A.J. Achter|R|Stephen Piscotty|R|Groundout|S|Changeup|36|1|0|0|8|82
+A.J. Achter|R|Stephen Piscotty|R|Groundout|X|Changeup|37|1|1|0|6|83
+A.J. Achter|R|Matt Holliday|R|Groundout|F|Four-Seam Fastball|38|0|0|1|12|91
+A.J. Achter|R|Matt Holliday|R|Groundout|B|Cutter|39|0|1|1|11|89
+A.J. Achter|R|Matt Holliday|R|Groundout|B|Four-Seam Fastball|40|1|1|1|13|90
+A.J. Achter|R|Matt Holliday|R|Groundout|F|Changeup|41|2|1|1|7|83
+A.J. Achter|R|Matt Holliday|R|Groundout|F|Changeup|42|2|2|1|14|83
+A.J. Achter|R|Matt Holliday|R|Groundout|F|Four-Seam Fastball|43|2|2|1|4|90
+A.J. Achter|R|Matt Holliday|R|Groundout|B|Changeup|44|2|2|1|14|84
+A.J. Achter|R|Matt Holliday|R|Groundout|X|Changeup|45|3|2|1|13|84
+A.J. Achter|R|Randal Grichuk|R|Groundout|B|Changeup|46|0|0|2|14|83
+A.J. Achter|R|Randal Grichuk|R|Groundout|B|Four-Seam Fastball|47|1|0|2|12|90
+A.J. Achter|R|Randal Grichuk|R|Groundout|T|Four-Seam Fastball|48|2|0|2|3|89
+A.J. Achter|R|Randal Grichuk|R|Groundout|S|Changeup|49|2|1|2|14|83
+A.J. Achter|R|Randal Grichuk|R|Groundout|X|Changeup|50|2|2|2|14|84
+A.J. Achter|R|Joc Pederson|L|Home Run|F|Two-Seam Fastball|0|0|0|0|13|92
+A.J. Achter|R|Joc Pederson|L|Home Run|B|Two-Seam Fastball|1|0|1|0|14|93
+A.J. Achter|R|Joc Pederson|L|Home Run|E|Changeup|2|1|1|0|1|83
+A.J. Achter|R|Trayce Thompson|R|Single|B|Four-Seam Fastball|3|0|0|0|14|93
+A.J. Achter|R|Trayce Thompson|R|Single|D|Two-Seam Fastball|4|1|0|0|7|91
+A.J. Achter|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|5|0|0|0|14|91
+A.J. Achter|R|Yasiel Puig|R|Single|D|Two-Seam Fastball|6|1|0|0|7|90
+A.J. Achter|R|A.J. Ellis|R|Grounded Into DP|C|Two-Seam Fastball|7|0|0|0|5|90
+A.J. Achter|R|A.J. Ellis|R|Grounded Into DP|S|Four-Seam Fastball|8|0|1|0|8|91
+A.J. Achter|R|A.J. Ellis|R|Grounded Into DP|B|Four-Seam Fastball|9|0|2|0|14|91
+A.J. Achter|R|A.J. Ellis|R|Grounded Into DP|X|Changeup|10|1|2|0|8|83
+A.J. Achter|R|Enrique Hernandez|R|Flyout|F|Changeup|11|0|0|2|5|83
+A.J. Achter|R|Enrique Hernandez|R|Flyout|S|Changeup|12|0|1|2|13|83
+A.J. Achter|R|Enrique Hernandez|R|Flyout|F|Changeup|13|0|2|2|11|83
+A.J. Achter|R|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|14|0|2|2|3|92
+A.J. Achter|R|Yasmani Grandal|L|Groundout|F|Two-Seam Fastball|0|0|0|0|11|90
+A.J. Achter|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|1|0|1|0|13|91
+A.J. Achter|R|Yasmani Grandal|L|Groundout|S|Changeup|2|1|1|0|8|83
+A.J. Achter|R|Yasmani Grandal|L|Groundout|X|Changeup|3|1|2|0|13|85
+A.J. Achter|R|Yasiel Puig|R|Walk|B|Slider|4|0|0|1|14|79
+A.J. Achter|R|Yasiel Puig|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|88
+A.J. Achter|R|Yasiel Puig|R|Walk|B|Two-Seam Fastball|6|2|0|1|13|90
+A.J. Achter|R|Yasiel Puig|R|Walk|C|Four-Seam Fastball|7|3|0|1|6|90
+A.J. Achter|R|Yasiel Puig|R|Walk|F|Four-Seam Fastball|8|3|1|1|14|91
+A.J. Achter|R|Yasiel Puig|R|Walk|B|Four-Seam Fastball|9|3|2|1|11|91
+A.J. Achter|R|Carl Crawford|L|Groundout|B|Changeup|10|0|0|1|11|82
+A.J. Achter|R|Carl Crawford|L|Groundout|C|Four-Seam Fastball|11|1|0|1|13|89
+A.J. Achter|R|Carl Crawford|L|Groundout|F|Four-Seam Fastball|12|1|1|1|13|90
+A.J. Achter|R|Carl Crawford|L|Groundout|X|Changeup|13|1|2|1|7|83
+A.J. Achter|R|Enrique Hernandez|R|Groundout|B|Four-Seam Fastball|14|0|0|2|14|91
+A.J. Achter|R|Enrique Hernandez|R|Groundout|X|Four-Seam Fastball|15|1|0|2|14|90
+A.J. Achter|R|Matt Wieters|L|Single|F|Changeup|0|0|0|0|13|82
+A.J. Achter|R|Matt Wieters|L|Single|S|Changeup|1|0|1|0|4|84
+A.J. Achter|R|Matt Wieters|L|Single|D|Changeup|2|0|2|0|13|85
+A.J. Achter|R|Jonathan Schoop|R|Double|F|Slider|3|0|0|0|6|80
+A.J. Achter|R|Jonathan Schoop|R|Double|B|Four-Seam Fastball|4|0|1|0|14|92
+A.J. Achter|R|Jonathan Schoop|R|Double|S|Changeup|5|1|1|0|13|82
+A.J. Achter|R|Jonathan Schoop|R|Double|F|Four-Seam Fastball|6|1|2|0|12|92
+A.J. Achter|R|Jonathan Schoop|R|Double|D|Slider|7|1|2|0|8|79
+A.J. Achter|R|Nolan Reimold|R|Sac Fly|B|Two-Seam Fastball|8|0|0|0|13|83
+A.J. Achter|R|Nolan Reimold|R|Sac Fly|E|Changeup|9|1|0|0|11|82
+A.J. Achter|R|Paul Janish|R|Single|S|Four-Seam Fastball|10|0|0|1|9|90
+A.J. Achter|R|Paul Janish|R|Single|S|Changeup|11|0|1|1|13|82
+A.J. Achter|R|Paul Janish|R|Single|B|Changeup|12|0|2|1|13|83
+A.J. Achter|R|Paul Janish|R|Single|D|Four-Seam Fastball|13|1|2|1|5|92
+A.J. Achter|R|Joey Rickard|R|Single|B|Changeup|14|0|0|1|13|82
+A.J. Achter|R|Joey Rickard|R|Single|C|Slider|15|1|0|1|7|78
+A.J. Achter|R|Joey Rickard|R|Single|B|Changeup|16|1|1|1|11|83
+A.J. Achter|R|Joey Rickard|R|Single|F|Four-Seam Fastball|17|2|1|1|1|89
+A.J. Achter|R|Joey Rickard|R|Single|E|Four-Seam Fastball|18|2|2|1|6|85
+A.J. Achter|R|Manny Machado|R|Lineout|B|Four-Seam Fastball|19|0|0|1|12|90
+A.J. Achter|R|Manny Machado|R|Lineout|F|Four-Seam Fastball|20|1|0|1|14|90
+A.J. Achter|R|Manny Machado|R|Lineout|S|Four-Seam Fastball|21|1|1|1|14|91
+A.J. Achter|R|Manny Machado|R|Lineout|F|Four-Seam Fastball|22|1|2|1|12|92
+A.J. Achter|R|Manny Machado|R|Lineout|*B|Changeup|23|1|2|1|14|85
+A.J. Achter|R|Manny Machado|R|Lineout|B|Changeup|24|2|2|1|13|83
+A.J. Achter|R|Manny Machado|R|Lineout|X|Four-Seam Fastball|25|3|2|1|12|92
+A.J. Achter|R|Adam Jones|R|Flyout|F|Four-Seam Fastball|26|0|0|2|3|91
+A.J. Achter|R|Adam Jones|R|Flyout|S|Four-Seam Fastball|27|0|1|2|8|92
+A.J. Achter|R|Adam Jones|R|Flyout|X|Four-Seam Fastball|28|0|2|2|14|93
+A.J. Achter|R|Chris Davis|L|Walk|B|Two-Seam Fastball|29|0|0|0|13|89
+A.J. Achter|R|Chris Davis|L|Walk|B|Changeup|30|1|0|0|13|81
+A.J. Achter|R|Chris Davis|L|Walk|B|Changeup|31|2|0|0|11|82
+A.J. Achter|R|Chris Davis|L|Walk|C|Two-Seam Fastball|32|3|0|0|2|88
+A.J. Achter|R|Chris Davis|L|Walk|B|Two-Seam Fastball|33|3|1|0|13|90
+A.J. Achter|R|Mark Trumbo|R|Strikeout|B|Four-Seam Fastball|34|0|0|0|14|89
+A.J. Achter|R|Mark Trumbo|R|Strikeout|C|Changeup|35|1|0|0|9|82
+A.J. Achter|R|Mark Trumbo|R|Strikeout|F|Changeup|36|1|1|0|8|81
+A.J. Achter|R|Mark Trumbo|R|Strikeout|F|Changeup|37|1|2|0|14|83
+A.J. Achter|R|Mark Trumbo|R|Strikeout|S|Changeup|38|1|2|0|14|82
+A.J. Achter|R|Matt Wieters|L|Flyout|X|Four-Seam Fastball|39|0|0|1|7|90
+A.J. Achter|R|Jonathan Schoop|R|Single|F|Four-Seam Fastball|40|0|0|2|12|91
+A.J. Achter|R|Jonathan Schoop|R|Single|F|Four-Seam Fastball|41|0|1|2|3|91
+A.J. Achter|R|Jonathan Schoop|R|Single|D|Four-Seam Fastball|42|0|2|2|14|93
+A.J. Achter|R|Nolan Reimold|R|Single|B|Four-Seam Fastball|43|0|0|2|12|90
+A.J. Achter|R|Nolan Reimold|R|Single|S|Four-Seam Fastball|44|1|0|2|5|90
+A.J. Achter|R|Nolan Reimold|R|Single|F|Four-Seam Fastball|45|1|1|2|4|90
+A.J. Achter|R|Nolan Reimold|R|Single|E|Four-Seam Fastball|46|1|2|2|6|90
+A.J. Achter|R|Paul Janish|R|Lineout|X|Changeup|47|0|0|2|8|82
+A.J. Achter|R|Eduardo Nunez|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|93
+A.J. Achter|R|Eduardo Nunez|R|Flyout|B|Four-Seam Fastball|1|1|0|0|14|91
+A.J. Achter|R|Eduardo Nunez|R|Flyout|X|Changeup|2|2|0|0|6|83
+A.J. Achter|R|Robbie Grossman|L|Flyout|X|Four-Seam Fastball|3|0|0|1|2|92
+A.J. Achter|R|Joe Mauer|L|Groundout|C|Two-Seam Fastball|4|0|0|2|13|90
+A.J. Achter|R|Joe Mauer|L|Groundout|F|Two-Seam Fastball|5|0|1|2|7|91
+A.J. Achter|R|Joe Mauer|L|Groundout|X|Changeup|6|0|2|2|13|85
+A.J. Achter|R|Trevor Plouffe|R|Walk|B|Four-Seam Fastball|7|0|0|0|12|92
+A.J. Achter|R|Trevor Plouffe|R|Walk|B|Changeup|8|1|0|0|14|83
+A.J. Achter|R|Trevor Plouffe|R|Walk|B|Four-Seam Fastball|9|2|0|0|12|91
+A.J. Achter|R|Trevor Plouffe|R|Walk|B|Four-Seam Fastball|10|3|0|0|13|90
+A.J. Achter|R|Brian Dozier|R|Strikeout|S|Changeup|11|0|0|0|12|83
+A.J. Achter|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|12|0|1|0|14|91
+A.J. Achter|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|13|1|1|0|14|91
+A.J. Achter|R|Brian Dozier|R|Strikeout|B|Changeup|14|2|1|0|14|83
+A.J. Achter|R|Brian Dozier|R|Strikeout|C|Four-Seam Fastball|15|3|1|0|9|91
+A.J. Achter|R|Brian Dozier|R|Strikeout|W|Four-Seam Fastball|16|3|2|0|11|93
+A.J. Achter|R|ByungHo Park|R|Strikeout|B|Changeup|17|0|0|1|14|83
+A.J. Achter|R|ByungHo Park|R|Strikeout|F|Four-Seam Fastball|18|1|0|1|3|90
+A.J. Achter|R|ByungHo Park|R|Strikeout|C|Changeup|19|1|1|1|7|82
+A.J. Achter|R|ByungHo Park|R|Strikeout|B|Four-Seam Fastball|20|1|2|1|14|93
+A.J. Achter|R|ByungHo Park|R|Strikeout|B|Four-Seam Fastball|21|2|2|1|13|92
+A.J. Achter|R|ByungHo Park|R|Strikeout|S|Changeup|22|3|2|1|14|83
+A.J. Achter|R|Max Kepler|L|Flyout|F|Changeup|23|0|0|2|5|84
+A.J. Achter|R|Max Kepler|L|Flyout|X|Changeup|24|0|1|2|4|82
+A.J. Achter|R|Danny Valencia|R|Pop Out|S|Four-Seam Fastball|0|0|0|0|1|91
+A.J. Achter|R|Danny Valencia|R|Pop Out|X|Slider|1|0|1|0|2|79
+A.J. Achter|R|Max Muncy|L|Double|B|Two-Seam Fastball|2|0|0|1|13|90
+A.J. Achter|R|Max Muncy|L|Double|F|Changeup|3|1|0|1|5|81
+A.J. Achter|R|Max Muncy|L|Double|D|Four-Seam Fastball|4|1|1|1|4|90
+A.J. Achter|R|Jed Lowrie|L|Groundout|X|Changeup|5|0|0|1|14|81
+A.J. Achter|R|Yonder Alonso|L|Flyout|B|Changeup|6|0|0|2|11|83
+A.J. Achter|R|Yonder Alonso|L|Flyout|X|Four-Seam Fastball|7|1|0|2|13|88
+A.J. Achter|R|Marwin Gonzalez|L|Groundout|C|Changeup|0|0|0|0|6|82
+A.J. Achter|R|Marwin Gonzalez|L|Groundout|X|Two-Seam Fastball|1|0|1|0|7|89
+A.J. Achter|R|Jose Altuve|R|Single|B|Cutter|2|0|0|1|12|91
+A.J. Achter|R|Jose Altuve|R|Single|F|Changeup|3|1|0|1|1|81
+A.J. Achter|R|Jose Altuve|R|Single|D|Four-Seam Fastball|4|1|1|1|9|90
+A.J. Achter|R|Carlos Correa|R|Home Run|C|Slider|5|0|0|1|5|81
+A.J. Achter|R|Carlos Correa|R|Home Run|E|Changeup|6|0|1|1|5|80
+A.J. Achter|R|Colby Rasmus|L|Single|C|Changeup|7|0|0|1|7|82
+A.J. Achter|R|Colby Rasmus|L|Single|S|Changeup|8|0|1|1|13|81
+A.J. Achter|R|Colby Rasmus|L|Single|B|Changeup|9|0|2|1|13|81
+A.J. Achter|R|Colby Rasmus|L|Single|B|Two-Seam Fastball|10|1|2|1|14|91
+A.J. Achter|R|Colby Rasmus|L|Single|D|Changeup|11|2|2|1|7|82
+A.J. Achter|R|Carlos Gomez|R|Single|D|Slider|12|0|0|1|14|81
+A.J. Achter|R|Luis Valbuena|L|Single|B|Two-Seam Fastball|13|0|0|1|13|88
+A.J. Achter|R|Luis Valbuena|L|Single|D|Two-Seam Fastball|14|1|0|1|13|88
+A.J. Achter|R|Evan Gattis|R|Grounded Into DP|B|Changeup|15|0|0|1|14|81
+A.J. Achter|R|Evan Gattis|R|Grounded Into DP|B|Four-Seam Fastball|16|1|0|1|14|89
+A.J. Achter|R|Evan Gattis|R|Grounded Into DP|F|Four-Seam Fastball|17|2|0|1|9|91
+A.J. Achter|R|Evan Gattis|R|Grounded Into DP|X|Slider|18|2|1|1|14|82
+A.J. Achter|R|Jason Castro|L|Home Run|F|Four-Seam Fastball|19|0|0|0|13|90
+A.J. Achter|R|Jason Castro|L|Home Run|F|Four-Seam Fastball|20|0|1|0|5|90
+A.J. Achter|R|Jason Castro|L|Home Run|F|Changeup|21|0|2|0|13|83
+A.J. Achter|R|Jason Castro|L|Home Run|B|Cutter|22|0|2|0|12|90
+A.J. Achter|R|Jason Castro|L|Home Run|E|Two-Seam Fastball|23|1|2|0|13|90
+A.J. Achter|R|Tony Kemp|L|Groundout|X|Changeup|24|0|0|0|13|81
+A.J. Achter|R|Marwin Gonzalez|L|Single|S|Changeup|25|0|0|1|13|80
+A.J. Achter|R|Marwin Gonzalez|L|Single|B|Changeup|26|0|1|1|14|81
+A.J. Achter|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|27|1|1|1|14|89
+A.J. Achter|R|Marwin Gonzalez|L|Single|C|Four-Seam Fastball|28|2|1|1|14|89
+A.J. Achter|R|Marwin Gonzalez|L|Single|D|Changeup|29|2|2|1|13|82
+A.J. Achter|R|Jose Altuve|R|Flyout|C|Slider|30|0|0|1|14|81
+A.J. Achter|R|Jose Altuve|R|Flyout|X|Slider|31|0|1|1|14|81
+A.J. Achter|R|Danny Worth|R|Lineout|B|Cutter|32|0|0|2|14|89
+A.J. Achter|R|Danny Worth|R|Lineout|B|Slider|33|1|0|2|14|81
+A.J. Achter|R|Danny Worth|R|Lineout|C|Four-Seam Fastball|34|2|0|2|14|89
+A.J. Achter|R|Danny Worth|R|Lineout|F|Four-Seam Fastball|35|2|1|2|5|90
+A.J. Achter|R|Danny Worth|R|Lineout|B|Slider|36|2|2|2|14|84
+A.J. Achter|R|Danny Worth|R|Lineout|X|Changeup|37|3|2|2|14|84
+A.J. Achter|R|Colby Rasmus|L|Strikeout|S|Two-Seam Fastball|38|0|0|0|11|88
+A.J. Achter|R|Colby Rasmus|L|Strikeout|T|Two-Seam Fastball|39|0|1|0|2|88
+A.J. Achter|R|Colby Rasmus|L|Strikeout|B|Slider|40|0|2|0|13|82
+A.J. Achter|R|Colby Rasmus|L|Strikeout|S|Changeup|41|1|2|0|13|82
+A.J. Achter|R|Jake Marisnick|R|Lineout|C|Four-Seam Fastball|42|0|0|1|14|88
+A.J. Achter|R|Jake Marisnick|R|Lineout|B|Four-Seam Fastball|43|0|1|1|14|89
+A.J. Achter|R|Jake Marisnick|R|Lineout|B|Slider|44|1|1|1|14|82
+A.J. Achter|R|Jake Marisnick|R|Lineout|B|Four-Seam Fastball|45|2|1|1|14|89
+A.J. Achter|R|Jake Marisnick|R|Lineout|X|Four-Seam Fastball|46|3|1|1|14|88
+A.J. Achter|R|Luis Valbuena|L|Groundout|F|Two-Seam Fastball|47|0|0|2|13|88
+A.J. Achter|R|Luis Valbuena|L|Groundout|S|Changeup|48|0|1|2|8|82
+A.J. Achter|R|Luis Valbuena|L|Groundout|B|Changeup|49|0|2|2|11|82
+A.J. Achter|R|Luis Valbuena|L|Groundout|X|Changeup|50|1|2|2|8|83
+A.J. Achter|R|Coco Crisp|L|Flyout|C|Changeup|0|0|0|2|8|81
+A.J. Achter|R|Coco Crisp|L|Flyout|B|Two-Seam Fastball|1|0|1|2|14|90
+A.J. Achter|R|Coco Crisp|L|Flyout|C|Two-Seam Fastball|2|1|1|2|6|89
+A.J. Achter|R|Coco Crisp|L|Flyout|X|Two-Seam Fastball|3|1|2|2|4|93
+A.J. Achter|R|Jake Smolinski|R|Groundout|F|Slider|4|0|0|0|5|81
+A.J. Achter|R|Jake Smolinski|R|Groundout|X|Slider|5|0|1|0|14|80
+A.J. Achter|R|Stephen Vogt|L|Strikeout|C|Changeup|6|0|0|1|11|83
+A.J. Achter|R|Stephen Vogt|L|Strikeout|F|Changeup|7|0|1|1|14|83
+A.J. Achter|R|Stephen Vogt|L|Strikeout|F|Changeup|8|0|2|1|4|84
+A.J. Achter|R|Stephen Vogt|L|Strikeout|B|Changeup|9|0|2|1|13|84
+A.J. Achter|R|Stephen Vogt|L|Strikeout|S|Two-Seam Fastball|10|1|2|1|13|93
+A.J. Achter|R|Billy Burns|L|Flyout|X|Two-Seam Fastball|0|0|0|0|5|90
+A.J. Achter|R|Coco Crisp|L|Strikeout|C|Two-Seam Fastball|1|0|0|1|1|92
+A.J. Achter|R|Coco Crisp|L|Strikeout|F|Two-Seam Fastball|2|0|1|1|13|91
+A.J. Achter|R|Coco Crisp|L|Strikeout|F|Four-Seam Fastball|3|0|2|1|1|85
+A.J. Achter|R|Coco Crisp|L|Strikeout|B|Two-Seam Fastball|4|0|2|1|13|93
+A.J. Achter|R|Coco Crisp|L|Strikeout|F|Two-Seam Fastball|5|1|2|1|11|93
+A.J. Achter|R|Coco Crisp|L|Strikeout|B|Four-Seam Fastball|6|1|2|1|11|85
+A.J. Achter|R|Coco Crisp|L|Strikeout|S|Two-Seam Fastball|7|2|2|1|13|92
+A.J. Achter|R|Jed Lowrie|L|Single|D|Two-Seam Fastball|8|0|0|2|11|90
+A.J. Achter|R|Stephen Vogt|L|Groundout|S|Changeup|9|0|0|2|14|83
+A.J. Achter|R|Stephen Vogt|L|Groundout|S|Two-Seam Fastball|10|0|1|2|13|91
+A.J. Achter|R|Stephen Vogt|L|Groundout|X|Changeup|11|0|2|2|8|84
+A.J. Achter|R|Danny Valencia|R|Single|D|Four-Seam Fastball|12|0|0|0|7|90
+A.J. Achter|R|Khris Davis|R|Lineout|B|Changeup|13|0|0|0|14|83
+A.J. Achter|R|Khris Davis|R|Lineout|B|Changeup|14|1|0|0|13|79
+A.J. Achter|R|Khris Davis|R|Lineout|S|Changeup|15|2|0|0|14|83
+A.J. Achter|R|Khris Davis|R|Lineout|X|Changeup|16|2|1|0|11|82
+A.J. Achter|R|Yonder Alonso|L|Grounded Into DP|F|Changeup|17|0|0|1|5|82
+A.J. Achter|R|Yonder Alonso|L|Grounded Into DP|B|Two-Seam Fastball|18|0|1|1|13|89
+A.J. Achter|R|Yonder Alonso|L|Grounded Into DP|X|Changeup|19|1|1|1|8|84
+A.J. Achter|R|Ben Zobrist|L|Groundout|C|Four-Seam Fastball|0|0|0|0|13|92
+A.J. Achter|R|Ben Zobrist|L|Groundout|F|Two-Seam Fastball|1|0|1|0|7|91
+A.J. Achter|R|Ben Zobrist|L|Groundout|X|Changeup|2|0|2|0|13|83
+A.J. Achter|R|Jorge Soler|R|Groundout|S|Changeup|3|0|0|1|14|83
+A.J. Achter|R|Jorge Soler|R|Groundout|S|Changeup|4|0|1|1|7|83
+A.J. Achter|R|Jorge Soler|R|Groundout|B|Changeup|5|0|2|1|14|85
+A.J. Achter|R|Jorge Soler|R|Groundout|B|Changeup|6|1|2|1|14|82
+A.J. Achter|R|Jorge Soler|R|Groundout|F|Changeup|7|2|2|1|13|83
+A.J. Achter|R|Jorge Soler|R|Groundout|X|Changeup|8|2|2|1|4|83
+A.J. Achter|R|Jason Heyward|L|Groundout|X|Changeup|9|0|0|2|7|82
+A.J. Achter|R|Michael Saunders|L|Groundout|X|Changeup|0|0|0|0|7|81
+A.J. Achter|R|Josh Thole|L|Groundout|B|Two-Seam Fastball|1|0|0|1|13|89
+A.J. Achter|R|Josh Thole|L|Groundout|B|Four-Seam Fastball|2|1|0|1|11|90
+A.J. Achter|R|Josh Thole|L|Groundout|F|Four-Seam Fastball|3|2|0|1|4|90
+A.J. Achter|R|Josh Thole|L|Groundout|X|Changeup|4|2|1|1|11|82
+A.J. Achter|R|Darwin Barney|R|Single|B|Slider|5|0|0|2|14|81
+A.J. Achter|R|Darwin Barney|R|Single|C|Changeup|6|1|0|2|11|81
+A.J. Achter|R|Darwin Barney|R|Single|D|Two-Seam Fastball|7|1|1|2|11|92
+A.J. Achter|R|Josh Donaldson|R|Single|C|Two-Seam Fastball|8|0|0|2|6|91
+A.J. Achter|R|Josh Donaldson|R|Single|B|Changeup|9|0|1|2|14|81
+A.J. Achter|R|Josh Donaldson|R|Single|X|Changeup|10|1|1|2|5|82
+A.J. Achter|R|Edwin Encarnacion|R|Lineout|C|Changeup|11|0|0|0|11|81
+A.J. Achter|R|Edwin Encarnacion|R|Lineout|X|Changeup|12|0|1|0|1|82
+A.J. Achter|R|Russell Martin|R|Double|S|Two-Seam Fastball|13|0|0|1|12|91
+A.J. Achter|R|Russell Martin|R|Double|D|Four-Seam Fastball|14|0|1|1|2|92
+A.J. Achter|R|Troy Tulowitzki|R|Walk|B|Changeup|15|0|0|1|6|83
+A.J. Achter|R|Troy Tulowitzki|R|Walk|S|Changeup|16|1|0|1|9|82
+A.J. Achter|R|Troy Tulowitzki|R|Walk|B|Four-Seam Fastball|17|1|1|1|14|91
+A.J. Achter|R|Troy Tulowitzki|R|Walk|B|Changeup|18|2|1|1|12|81
+A.J. Achter|R|Troy Tulowitzki|R|Walk|B|Changeup|19|3|1|1|14|81
+A.J. Achter|R|B.J. Upton|R|Flyout|C|Four-Seam Fastball|20|0|0|1|8|90
+A.J. Achter|R|B.J. Upton|R|Flyout|B|Two-Seam Fastball|21|0|1|1|14|92
+A.J. Achter|R|B.J. Upton|R|Flyout|F|Changeup|22|1|1|1|14|82
+A.J. Achter|R|B.J. Upton|R|Flyout|B|Changeup|23|1|2|1|14|84
+A.J. Achter|R|B.J. Upton|R|Flyout|F|Changeup|24|2|2|1|14|84
+A.J. Achter|R|B.J. Upton|R|Flyout|X|Two-Seam Fastball|25|2|2|1|5|91
+A.J. Achter|R|Kevin Pillar|R|Lineout|B|Changeup|26|0|0|2|14|83
+A.J. Achter|R|Kevin Pillar|R|Lineout|F|Changeup|27|1|0|2|1|83
+A.J. Achter|R|Kevin Pillar|R|Lineout|B|Changeup|28|1|1|2|14|82
+A.J. Achter|R|Kevin Pillar|R|Lineout|F|Four-Seam Fastball|29|2|1|2|12|91
+A.J. Achter|R|Kevin Pillar|R|Lineout|F|Four-Seam Fastball|30|2|2|2|6|93
+A.J. Achter|R|Kevin Pillar|R|Lineout|X|Four-Seam Fastball|31|2|2|2|9|92
+A.J. Achter|R|Michael Saunders|L|Home Run|C|Two-Seam Fastball|32|0|0|2|2|88
+A.J. Achter|R|Michael Saunders|L|Home Run|B|Four-Seam Fastball|33|0|1|2|12|90
+A.J. Achter|R|Michael Saunders|L|Home Run|B|Four-Seam Fastball|34|1|1|2|12|90
+A.J. Achter|R|Michael Saunders|L|Home Run|S|Changeup|35|2|1|2|14|81
+A.J. Achter|R|Michael Saunders|L|Home Run|E|Changeup|36|2|2|2|8|83
+A.J. Achter|R|Josh Thole|L|Pop Out|B|Changeup|37|0|0|2|6|81
+A.J. Achter|R|Josh Thole|L|Pop Out|F|Two-Seam Fastball|38|1|0|2|11|90
+A.J. Achter|R|Josh Thole|L|Pop Out|F|Two-Seam Fastball|39|1|1|2|11|89
+A.J. Achter|R|Josh Thole|L|Pop Out|F|Two-Seam Fastball|40|1|2|2|12|91
+A.J. Achter|R|Josh Thole|L|Pop Out|B|Changeup|41|1|2|2|13|84
+A.J. Achter|R|Josh Thole|L|Pop Out|B|Changeup|42|2|2|2|14|84
+A.J. Achter|R|Josh Thole|L|Pop Out|X|Four-Seam Fastball|43|3|2|2|7|91
+A.J. Achter|R|Darwin Barney|R|Pop Out|X|Changeup|44|0|0|0|6|80
+A.J. Achter|R|Josh Donaldson|R|Groundout|F|Slider|45|0|0|1|4|81
+A.J. Achter|R|Josh Donaldson|R|Groundout|C|Changeup|46|0|1|1|6|82
+A.J. Achter|R|Josh Donaldson|R|Groundout|F|Changeup|47|0|2|1|6|82
+A.J. Achter|R|Josh Donaldson|R|Groundout|X|Four-Seam Fastball|48|0|2|1|3|91
+A.J. Achter|R|J.D. Martinez|R|Groundout|C|Changeup|0|0|0|0|2|81
+A.J. Achter|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|1|0|1|0|11|90
+A.J. Achter|R|J.D. Martinez|R|Groundout|X|Changeup|2|1|1|0|5|81
+A.J. Achter|R|Justin Upton|R|Pop Out|B|Four-Seam Fastball|3|0|0|1|3|91
+A.J. Achter|R|Justin Upton|R|Pop Out|C|Changeup|4|1|0|1|6|80
+A.J. Achter|R|Justin Upton|R|Pop Out|F|Four-Seam Fastball|5|1|1|1|5|90
+A.J. Achter|R|Justin Upton|R|Pop Out|B|Changeup|6|1|2|1|14|83
+A.J. Achter|R|Justin Upton|R|Pop Out|X|Changeup|7|2|2|1|4|81
+A.J. Achter|R|Casey McGehee|R|Flyout|B|Slider|8|0|0|2|14|79
+A.J. Achter|R|Casey McGehee|R|Flyout|X|Four-Seam Fastball|9|1|0|2|4|90
+A.J. Achter|R|Jake Smolinski|R|Lineout|B|Slider|0|0|0|0|14|79
+A.J. Achter|R|Jake Smolinski|R|Lineout|C|Changeup|1|1|0|0|11|79
+A.J. Achter|R|Jake Smolinski|R|Lineout|X|Four-Seam Fastball|2|1|1|0|2|91
+A.J. Achter|R|Bruce Maxwell|L|Flyout|C|Two-Seam Fastball|3|0|0|1|4|90
+A.J. Achter|R|Bruce Maxwell|L|Flyout|B|Four-Seam Fastball|4|0|1|1|12|91
+A.J. Achter|R|Bruce Maxwell|L|Flyout|B|Changeup|5|1|1|1|13|81
+A.J. Achter|R|Bruce Maxwell|L|Flyout|F|Two-Seam Fastball|6|2|1|1|13|89
+A.J. Achter|R|Bruce Maxwell|L|Flyout|B|Two-Seam Fastball|7|2|2|1|11|93
+A.J. Achter|R|Bruce Maxwell|L|Flyout|X|Two-Seam Fastball|8|3|2|1|13|88
+A.J. Achter|R|Marcus Semien|R|Double|C|Four-Seam Fastball|9|0|0|2|6|91
+A.J. Achter|R|Marcus Semien|R|Double|D|Slider|10|0|1|2|14|79
+A.J. Achter|R|Danny Valencia|R|Walk|B|Four-Seam Fastball|11|0|0|2|14|91
+A.J. Achter|R|Danny Valencia|R|Walk|B|Changeup|12|1|0|2|13|82
+A.J. Achter|R|Danny Valencia|R|Walk|B|Changeup|13|2|0|2|8|81
+A.J. Achter|R|Danny Valencia|R|Walk|B|Four-Seam Fastball|14|3|0|2|12|89
+A.J. Achter|R|Stephen Vogt|L|Groundout|B|Two-Seam Fastball|15|0|0|2|14|90
+A.J. Achter|R|Stephen Vogt|L|Groundout|C|Two-Seam Fastball|16|1|0|2|11|90
+A.J. Achter|R|Stephen Vogt|L|Groundout|F|Two-Seam Fastball|17|1|1|2|13|90
+A.J. Achter|R|Stephen Vogt|L|Groundout|B|Changeup|18|1|2|2|13|84
+A.J. Achter|R|Stephen Vogt|L|Groundout|F|Changeup|19|2|2|2|13|83
+A.J. Achter|R|Stephen Vogt|L|Groundout|F|Changeup|20|2|2|2|7|83
+A.J. Achter|R|Stephen Vogt|L|Groundout|X|Changeup|21|2|2|2|13|81
+A.J. Achter|R|Khris Davis|R|Home Run|B|Four-Seam Fastball|22|0|0|0|12|90
+A.J. Achter|R|Khris Davis|R|Home Run|E|Four-Seam Fastball|23|1|0|0|3|90
+A.J. Achter|R|Marcus Semien|R|Strikeout|B|Slider|0|0|0|0|13|77
+A.J. Achter|R|Marcus Semien|R|Strikeout|F|Slider|1|1|0|0|1|79
+A.J. Achter|R|Marcus Semien|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|2|91
+A.J. Achter|R|Marcus Semien|R|Strikeout|B|Changeup|3|1|2|0|14|83
+A.J. Achter|R|Marcus Semien|R|Strikeout|W|Changeup|4|2|2|0|13|82
+A.J. Achter|R|Stephen Vogt|L|Groundout|X|Two-Seam Fastball|5|0|0|1|11|89
+A.J. Achter|R|Khris Davis|R|Walk|B|Changeup|6|0|0|2|13|82
+A.J. Achter|R|Khris Davis|R|Walk|F|Changeup|7|1|0|2|13|80
+A.J. Achter|R|Khris Davis|R|Walk|B|Four-Seam Fastball|8|1|1|2|13|91
+A.J. Achter|R|Khris Davis|R|Walk|B|Changeup|9|2|1|2|13|81
+A.J. Achter|R|Khris Davis|R|Walk|B|Four-Seam Fastball|10|3|1|2|13|91
+A.J. Achter|R|Yonder Alonso|L|Single|C|Changeup|11|0|0|2|11|82
+A.J. Achter|R|Yonder Alonso|L|Single|D|Two-Seam Fastball|12|0|1|2|13|90
+A.J. Achter|R|Ryon Healy|R|Groundout|C|Four-Seam Fastball|13|0|0|2|7|91
+A.J. Achter|R|Ryon Healy|R|Groundout|X|Slider|14|0|1|2|13|81
+A.J. Achter|R|Ian Desmond|R|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+A.J. Achter|R|Ian Desmond|R|Single|F|Four-Seam Fastball|1|1|0|0|2|91
+A.J. Achter|R|Ian Desmond|R|Single|B|Four-Seam Fastball|2|1|1|0|14|93
+A.J. Achter|R|Ian Desmond|R|Single|D|Changeup|3|2|1|0|6|82
+A.J. Achter|R|Carlos Beltran|L|Single|C|Changeup|4|0|0|0|14|83
+A.J. Achter|R|Carlos Beltran|L|Single|B|Two-Seam Fastball|5|0|1|0|13|90
+A.J. Achter|R|Carlos Beltran|L|Single|F|Changeup|6|1|1|0|14|84
+A.J. Achter|R|Carlos Beltran|L|Single|D|Changeup|7|1|2|0|13|84
+A.J. Achter|R|Adrian Beltre|R|Single|F|Changeup|8|0|0|0|11|81
+A.J. Achter|R|Adrian Beltre|R|Single|F|Four-Seam Fastball|9|0|1|0|3|92
+A.J. Achter|R|Adrian Beltre|R|Single|E|Four-Seam Fastball|10|0|2|0|12|90
+A.J. Achter|R|Ryan Rua|R|Strikeout|C|Four-Seam Fastball|11|0|0|0|1|91
+A.J. Achter|R|Ryan Rua|R|Strikeout|B|Changeup|12|0|1|0|14|81
+A.J. Achter|R|Ryan Rua|R|Strikeout|F|Changeup|13|1|1|0|8|83
+A.J. Achter|R|Ryan Rua|R|Strikeout|S|Changeup|14|1|2|0|14|84
+A.J. Achter|R|Jonathan Lucroy|R|Pop Out|B|Four-Seam Fastball|15|0|0|1|12|92
+A.J. Achter|R|Jonathan Lucroy|R|Pop Out|X|Changeup|16|1|0|1|5|81
+A.J. Achter|R|Daniel Vogelbach|L|Groundout|B|Changeup|0|0|0|0|11|83
+A.J. Achter|R|Daniel Vogelbach|L|Groundout|X|Changeup|1|1|0|0|8|80
+A.J. Achter|R|Ketel Marte|L|Groundout|C|Two-Seam Fastball|2|0|0|1|4|89
+A.J. Achter|R|Ketel Marte|L|Groundout|X|Changeup|3|0|1|1|13|83
+A.J. Achter|R|Ben Gamel|L|Flyout|B|Two-Seam Fastball|4|0|0|2|13|89
+A.J. Achter|R|Ben Gamel|L|Flyout|B|Changeup|5|1|0|2|13|83
+A.J. Achter|R|Ben Gamel|L|Flyout|X|Four-Seam Fastball|6|2|0|2|14|91
+A.J. Achter|R|Guillermo Heredia|R|Single|B|Four-Seam Fastball|7|0|0|0|12|91
+A.J. Achter|R|Guillermo Heredia|R|Single|B|Changeup|8|1|0|0|11|82
+A.J. Achter|R|Guillermo Heredia|R|Single|B|Two-Seam Fastball|9|2|0|0|11|90
+A.J. Achter|R|Guillermo Heredia|R|Single|C|Four-Seam Fastball|10|3|0|0|5|89
+A.J. Achter|R|Guillermo Heredia|R|Single|D|Four-Seam Fastball|11|3|1|0|1|89
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|B|Changeup|12|0|0|0|13|82
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|B|Two-Seam Fastball|13|1|0|0|13|87
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|S|Changeup|14|2|0|0|13|82
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|C|Two-Seam Fastball|15|2|1|0|14|91
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|F|Changeup|16|2|2|0|13|84
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|F|Two-Seam Fastball|17|2|2|0|13|92
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|*B|Changeup|18|2|2|0|13|85
+A.J. Achter|R|Robinson Cano|L|Grounded Into DP|X|Changeup|19|3|2|0|13|83
+A.J. Achter|R|Mike Freeman|L|Groundout|B|Two-Seam Fastball|20|0|0|2|14|88
+A.J. Achter|R|Mike Freeman|L|Groundout|X|Four-Seam Fastball|21|1|0|2|14|92
+A.J. Achter|R|Jose Bautista|R|Grounded Into DP|B|Four-Seam Fastball|0|0|0|1|14|91
+A.J. Achter|R|Jose Bautista|R|Grounded Into DP|B|Four-Seam Fastball|1|1|0|1|14|90
+A.J. Achter|R|Jose Bautista|R|Grounded Into DP|C|Changeup|2|2|0|1|7|82
+A.J. Achter|R|Jose Bautista|R|Grounded Into DP|X|Four-Seam Fastball|3|2|1|1|14|92
+A.J. Achter|R|Jose Bautista|R|Double|B|Slider|0|0|0|0|11|78
+A.J. Achter|R|Jose Bautista|R|Double|D|Four-Seam Fastball|1|1|0|0|4|90
+A.J. Achter|R|Russell Martin|R|Groundout|*B|Slider|2|0|0|0|14|80
+A.J. Achter|R|Russell Martin|R|Groundout|B|Two-Seam Fastball|3|1|0|0|14|93
+A.J. Achter|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|4|2|0|0|7|91
+A.J. Achter|R|Troy Tulowitzki|R|Groundout|C|Four-Seam Fastball|5|0|0|1|9|92
+A.J. Achter|R|Troy Tulowitzki|R|Groundout|X|Changeup|6|0|1|1|7|83
+A.J. Achter|R|Dioner Navarro|L|Pop Out|C|Changeup|7|0|0|2|11|84
+A.J. Achter|R|Dioner Navarro|L|Pop Out|B|Two-Seam Fastball|8|0|1|2|13|91
+A.J. Achter|R|Dioner Navarro|L|Pop Out|B|Changeup|9|1|1|2|13|84
+A.J. Achter|R|Dioner Navarro|L|Pop Out|C|Changeup|10|2|1|2|1|81
+A.J. Achter|R|Dioner Navarro|L|Pop Out|X|Changeup|11|2|2|2|13|83
+A.J. Achter|R|Carlos Beltran|L|Groundout|C|Changeup|0|0|0|0|11|82
+A.J. Achter|R|Carlos Beltran|L|Groundout|B|Changeup|1|0|1|0|13|81
+A.J. Achter|R|Carlos Beltran|L|Groundout|B|Changeup|2|1|1|0|11|80
+A.J. Achter|R|Carlos Beltran|L|Groundout|X|Changeup|3|2|1|0|4|80
+A.J. Achter|R|Adrian Beltre|R|Single|D|Four-Seam Fastball|4|0|0|1|7|91
+A.J. Achter|R|Rougned Odor|L|Double|B|Changeup|5|0|0|1|11|81
+A.J. Achter|R|Rougned Odor|L|Double|D|Changeup|6|1|0|1|13|81
+A.J. Achter|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|7|0|0|1|12|64
+A.J. Achter|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|8|0|1|1|14|65
+A.J. Achter|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|9|0|2|1|12|65
+A.J. Achter|R|Jonathan Lucroy|R|Intent Walk|I|Intentional Ball|10|0|2|1|12|63
+A.J. Achter|R|Elvis Andrus|R|Flyout|C|Changeup|0|0|0|2|5|81
+A.J. Achter|R|Elvis Andrus|R|Flyout|B|Changeup|1|0|1|2|14|80
+A.J. Achter|R|Elvis Andrus|R|Flyout|X|Changeup|2|1|1|2|2|81
+A.J. Achter|R|Jurickson Profar|L|Pop Out|C|Two-Seam Fastball|3|0|0|0|11|90
+A.J. Achter|R|Jurickson Profar|L|Pop Out|B|Two-Seam Fastball|4|0|1|0|13|90
+A.J. Achter|R|Jurickson Profar|L|Pop Out|F|Changeup|5|1|1|0|13|80
+A.J. Achter|R|Jurickson Profar|L|Pop Out|B|Changeup|6|1|2|0|13|84
+A.J. Achter|R|Jurickson Profar|L|Pop Out|F|Four-Seam Fastball|7|2|2|0|12|91
+A.J. Achter|R|Jurickson Profar|L|Pop Out|X|Four-Seam Fastball|8|2|2|0|6|91
+A.J. Achter|R|Carlos Gomez|R|Groundout|X|Changeup|9|0|0|1|14|82
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Slider|0|0|0|2|14|80
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Changeup|1|1|0|2|14|82
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Changeup|2|2|0|2|14|82
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|3|3|0|2|14|89
+A.J. Achter|R|Jose Altuve|R|Grounded Into DP|B|Four-Seam Fastball|4|0|0|2|14|90
+A.J. Achter|R|Jose Altuve|R|Grounded Into DP|X|Four-Seam Fastball|5|1|0|2|4|89
+A.J. Achter|R|Carlos Correa|R|Flyout|B|Slider|6|0|0|1|14|82
+A.J. Achter|R|Carlos Correa|R|Flyout|F|Four-Seam Fastball|7|1|0|1|5|91
+A.J. Achter|R|Carlos Correa|R|Flyout|X|Changeup|8|1|1|1|8|84
+A.J. Achter|R|Evan Gattis|R|Groundout|F|Slider|0|0|0|0|3|81
+A.J. Achter|R|Evan Gattis|R|Groundout|F|Changeup|1|0|1|0|5|81
+A.J. Achter|R|Evan Gattis|R|Groundout|B|Changeup|2|0|2|0|14|84
+A.J. Achter|R|Evan Gattis|R|Groundout|B|Cutter|3|1|2|0|14|85
+A.J. Achter|R|Evan Gattis|R|Groundout|B|Four-Seam Fastball|4|2|2|0|12|93
+A.J. Achter|R|Evan Gattis|R|Groundout|X|Changeup|5|3|2|0|2|84
+A.J. Achter|R|Marwin Gonzalez|L|Single|C|Two-Seam Fastball|6|0|0|1|7|91
+A.J. Achter|R|Marwin Gonzalez|L|Single|B|Two-Seam Fastball|7|0|1|1|11|90
+A.J. Achter|R|Marwin Gonzalez|L|Single|B|Changeup|8|1|1|1|14|83
+A.J. Achter|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|9|2|1|1|14|90
+A.J. Achter|R|Marwin Gonzalez|L|Single|S|Changeup|10|3|1|1|6|81
+A.J. Achter|R|Marwin Gonzalez|L|Single|D|Two-Seam Fastball|11|3|2|1|6|92
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|B|Changeup|12|0|0|1|14|83
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|B|Changeup|13|1|0|1|14|82
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|C|Four-Seam Fastball|14|2|0|1|14|89
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|X|Four-Seam Fastball|15|2|1|1|9|90
+A.J. Achter|R|Jake Smolinski|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|91
+A.J. Achter|R|Jake Smolinski|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|1|93
+A.J. Achter|R|Jake Smolinski|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|14|93
+A.J. Achter|R|Jake Smolinski|R|Strikeout|B|Changeup|3|1|2|0|14|84
+A.J. Achter|R|Jake Smolinski|R|Strikeout|F|Changeup|4|2|2|0|8|83
+A.J. Achter|R|Jake Smolinski|R|Strikeout|S|Changeup|5|2|2|0|14|84
+A.J. Achter|R|Chad Pinder|R|Strikeout|S|Changeup|6|0|0|1|14|82
+A.J. Achter|R|Chad Pinder|R|Strikeout|F|Changeup|7|0|1|1|8|81
+A.J. Achter|R|Chad Pinder|R|Strikeout|C|Changeup|8|0|2|1|9|83
+A.J. Achter|R|Stephen Vogt|L|Pop Out|B|Two-Seam Fastball|9|0|0|2|13|91
+A.J. Achter|R|Stephen Vogt|L|Pop Out|B|Two-Seam Fastball|10|1|0|2|11|90
+A.J. Achter|R|Stephen Vogt|L|Pop Out|B|Four-Seam Fastball|11|2|0|2|11|91
+A.J. Achter|R|Stephen Vogt|L|Pop Out|C|Four-Seam Fastball|12|3|0|2|7|91
+A.J. Achter|R|Stephen Vogt|L|Pop Out|F|Four-Seam Fastball|13|3|1|2|5|92
+A.J. Achter|R|Stephen Vogt|L|Pop Out|X|Two-Seam Fastball|14|3|2|2|4|92
+A.J. Achter|R|Yuli Gurriel|R|Double|D|Slider|0|0|0|0|9|78
+A.J. Achter|R|Jose Altuve|R|Flyout|X|Two-Seam Fastball|1|0|0|0|3|91
+A.J. Achter|R|Carlos Correa|R|Groundout|S|Slider|2|0|0|1|14|79
+A.J. Achter|R|Carlos Correa|R|Groundout|S|Slider|3|0|1|1|14|80
+A.J. Achter|R|Carlos Correa|R|Groundout|X|Changeup|4|0|2|1|14|82
+A.J. Achter|R|Evan Gattis|R|Single|*B|Changeup|5|0|0|2|14|81
+A.J. Achter|R|Evan Gattis|R|Single|*B|Changeup|6|1|0|2|14|82
+A.J. Achter|R|Evan Gattis|R|Single|F|Slider|7|2|0|2|5|79
+A.J. Achter|R|Evan Gattis|R|Single|E|Four-Seam Fastball|8|2|1|2|8|92
+A.J. Achter|R|Tyler White|R|Walk|B|Four-Seam Fastball|9|0|0|2|12|91
+A.J. Achter|R|Tyler White|R|Walk|S|Four-Seam Fastball|10|1|0|2|11|91
+A.J. Achter|R|Tyler White|R|Walk|B|Four-Seam Fastball|11|1|1|2|11|90
+A.J. Achter|R|Tyler White|R|Walk|B|Four-Seam Fastball|12|2|1|2|14|91
+A.J. Achter|R|Tyler White|R|Walk|B|Four-Seam Fastball|13|3|1|2|13|89
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|C|Slider|14|0|0|2|14|79
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|B|Changeup|15|0|1|2|14|79
+A.J. Achter|R|Teoscar Hernandez|R|Flyout|X|Four-Seam Fastball|16|1|1|2|5|90
+A.J. Achter|R|Tony Kemp|L|Lineout|F|Changeup|17|0|0|0|8|81
+A.J. Achter|R|Tony Kemp|L|Lineout|F|Four-Seam Fastball|18|0|1|0|12|91
+A.J. Achter|R|Tony Kemp|L|Lineout|B|Changeup|19|0|2|0|13|83
+A.J. Achter|R|Tony Kemp|L|Lineout|B|Two-Seam Fastball|20|1|2|0|11|91
+A.J. Achter|R|Tony Kemp|L|Lineout|X|Changeup|21|2|2|0|13|84
+A.J. Achter|R|Jake Marisnick|R|Double|B|Four-Seam Fastball|22|0|0|1|12|92
+A.J. Achter|R|Jake Marisnick|R|Double|B|Slider|23|1|0|1|14|79
+A.J. Achter|R|Jake Marisnick|R|Double|F|Four-Seam Fastball|24|2|0|1|3|91
+A.J. Achter|R|Jake Marisnick|R|Double|C|Four-Seam Fastball|25|2|1|1|14|92
+A.J. Achter|R|Jake Marisnick|R|Double|F|Four-Seam Fastball|26|2|2|1|14|93
+A.J. Achter|R|Jake Marisnick|R|Double|F|Changeup|27|2|2|1|14|84
+A.J. Achter|R|Jake Marisnick|R|Double|F|Changeup|28|2|2|1|13|85
+A.J. Achter|R|Jake Marisnick|R|Double|F|Four-Seam Fastball|29|2|2|1|11|91
+A.J. Achter|R|Jake Marisnick|R|Double|D|Changeup|30|2|2|1|9|84
+A.J. Achter|R|George Springer|R|Flyout|C|Slider|31|0|0|1|13|80
+A.J. Achter|R|George Springer|R|Flyout|X|Four-Seam Fastball|32|0|1|1|14|91
+A.J. Achter|R|Yuli Gurriel|R|Walk|S|Changeup|33|0|0|2|5|82
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|34|0|1|2|11|89
+A.J. Achter|R|Yuli Gurriel|R|Walk|*B|Changeup|35|1|1|2|13|83
+A.J. Achter|R|Yuli Gurriel|R|Walk|F|Four-Seam Fastball|36|2|1|2|12|91
+A.J. Achter|R|Yuli Gurriel|R|Walk|F|Slider|37|2|2|2|6|83
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Changeup|38|2|2|2|13|83
+A.J. Achter|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|39|3|2|2|14|92
+A.J. Achter|R|Jose Altuve|R|Walk|B|Four-Seam Fastball|40|0|0|2|7|91
+A.J. Achter|R|Jose Altuve|R|Walk|F|Slider|41|1|0|2|14|82
+A.J. Achter|R|Jose Altuve|R|Walk|B|Slider|42|1|1|2|14|83
+A.J. Achter|R|Jose Altuve|R|Walk|S|Changeup|43|2|1|2|4|82
+A.J. Achter|R|Jose Altuve|R|Walk|F|Changeup|44|2|2|2|13|86
+A.J. Achter|R|Jose Altuve|R|Walk|B|Four-Seam Fastball|45|2|2|2|11|93
+A.J. Achter|R|Jose Altuve|R|Walk|B|Changeup|46|3|2|2|11|84
+A.J. Achter|R|Carlos Correa|R|Strikeout|S|Slider|47|0|0|2|14|82
+A.J. Achter|R|Carlos Correa|R|Strikeout|F|Slider|48|0|1|2|14|80
+A.J. Achter|R|Carlos Correa|R|Strikeout|*B|Slider|49|0|2|2|14|83
+A.J. Achter|R|Carlos Correa|R|Strikeout|C|Changeup|50|1|2|2|13|85

@@ -1,0 +1,2442 @@
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Pop Out|C|Two-Seam Fastball|0|0|0|0|4|90
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Pop Out|T|Four-Seam Fastball|1|0|1|0|3|92
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Pop Out|F|Four-Seam Fastball|2|0|2|0|9|92
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Pop Out|B|Slider|3|0|2|0|14|82
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|4|1|2|0|12|93
+Chi Chi Gonzalez|R|Ketel Marte|L|Walk|B|Two-Seam Fastball|5|0|0|1|13|91
+Chi Chi Gonzalez|R|Ketel Marte|L|Walk|F|Two-Seam Fastball|6|1|0|1|8|92
+Chi Chi Gonzalez|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|7|1|1|1|11|93
+Chi Chi Gonzalez|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|8|2|1|1|12|92
+Chi Chi Gonzalez|R|Ketel Marte|L|Walk|B|Two-Seam Fastball|9|3|1|1|11|90
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Flyout|C|Two-Seam Fastball|10|0|0|1|8|91
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Flyout|F|Four-Seam Fastball|11|0|1|1|3|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Flyout|X|Changeup|12|0|2|1|13|85
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|X|Two-Seam Fastball|13|0|0|2|5|91
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|C|Four-Seam Fastball|14|0|0|0|8|91
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|B|Changeup|15|0|1|0|14|86
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|B|Four-Seam Fastball|16|1|1|0|14|91
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|B|Cutter|17|2|1|0|14|86
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|F|Four-Seam Fastball|18|3|1|0|14|92
+Chi Chi Gonzalez|R|Christian Walker|R|Lineout|X|Two-Seam Fastball|19|3|2|0|14|92
+Chi Chi Gonzalez|R|Jake Lamb|L|Groundout|C|Four-Seam Fastball|20|0|0|1|8|92
+Chi Chi Gonzalez|R|Jake Lamb|L|Groundout|B|Two-Seam Fastball|21|0|1|1|11|90
+Chi Chi Gonzalez|R|Jake Lamb|L|Groundout|X|Two-Seam Fastball|22|1|1|1|13|90
+Chi Chi Gonzalez|R|Nick Ahmed|R|Lineout|C|Four-Seam Fastball|23|0|0|2|13|92
+Chi Chi Gonzalez|R|Nick Ahmed|R|Lineout|B|Cutter|24|0|1|2|14|83
+Chi Chi Gonzalez|R|Nick Ahmed|R|Lineout|B|Two-Seam Fastball|25|1|1|2|13|92
+Chi Chi Gonzalez|R|Nick Ahmed|R|Lineout|S|Cutter|26|2|1|2|14|88
+Chi Chi Gonzalez|R|Nick Ahmed|R|Lineout|X|Cutter|27|2|2|2|7|88
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|C|Four-Seam Fastball|28|0|0|0|5|91
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|C|Four-Seam Fastball|29|0|1|0|14|92
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|F|Four-Seam Fastball|30|0|2|0|14|92
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|B|Two-Seam Fastball|31|0|2|0|13|92
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|B|Four-Seam Fastball|32|1|2|0|11|92
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|B|Four-Seam Fastball|33|2|2|0|12|92
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|F|Two-Seam Fastball|34|3|2|0|13|91
+Chi Chi Gonzalez|R|Carson Kelly|R|Flyout|X|Cutter|35|3|2|0|14|87
+Chi Chi Gonzalez|R|Zac Gallen|R|Groundout|C|Four-Seam Fastball|36|0|0|1|7|91
+Chi Chi Gonzalez|R|Zac Gallen|R|Groundout|X|Four-Seam Fastball|37|0|1|1|5|91
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Groundout|B|Slider|38|0|0|2|14|82
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Groundout|B|Two-Seam Fastball|39|1|0|2|13|91
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Groundout|C|Four-Seam Fastball|40|2|0|2|8|90
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Groundout|X|Two-Seam Fastball|41|2|1|2|7|91
+Chi Chi Gonzalez|R|Ketel Marte|L|Flyout|C|Four-Seam Fastball|42|0|0|0|5|91
+Chi Chi Gonzalez|R|Ketel Marte|L|Flyout|B|Changeup|43|0|1|0|13|85
+Chi Chi Gonzalez|R|Ketel Marte|L|Flyout|S|Changeup|44|1|1|0|13|85
+Chi Chi Gonzalez|R|Ketel Marte|L|Flyout|X|Cutter|45|1|2|0|14|83
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|46|0|0|1|11|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Groundout|B|Two-Seam Fastball|47|1|0|1|14|91
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Groundout|C|Four-Seam Fastball|48|2|0|1|5|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|49|2|1|1|8|93
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Groundout|X|Cutter|50|2|2|1|7|88
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|B|Four-Seam Fastball|51|0|0|2|11|92
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|C|Cutter|52|1|0|2|14|87
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|B|Four-Seam Fastball|53|1|1|2|12|92
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|F|Changeup|54|2|1|2|13|86
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|B|Four-Seam Fastball|55|2|2|2|11|92
+Chi Chi Gonzalez|R|David Peralta|L|Groundout|X|Two-Seam Fastball|56|3|2|2|8|91
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|F|Four-Seam Fastball|57|0|0|0|1|91
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|S|Changeup|58|0|1|0|14|84
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|F|Slider|59|0|2|0|14|81
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|B|Four-Seam Fastball|60|0|2|0|11|91
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|B|Cutter|61|1|2|0|14|86
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|F|Two-Seam Fastball|62|2|2|0|7|91
+Chi Chi Gonzalez|R|Christian Walker|R|Groundout|X|Slider|63|2|2|0|14|83
+Chi Chi Gonzalez|R|Jake Lamb|L|Flyout|C|Four-Seam Fastball|64|0|0|1|7|90
+Chi Chi Gonzalez|R|Jake Lamb|L|Flyout|X|Four-Seam Fastball|65|0|1|1|7|92
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|B|Changeup|66|0|0|2|13|85
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|B|Cutter|67|1|0|2|14|88
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|B|Changeup|68|2|0|2|13|86
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|C|Four-Seam Fastball|69|3|0|2|7|91
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|F|Cutter|70|3|1|2|9|87
+Chi Chi Gonzalez|R|Nick Ahmed|R|Strikeout|S|Four-Seam Fastball|71|3|2|2|11|91
+Chi Chi Gonzalez|R|Carson Kelly|R|Single|D|Two-Seam Fastball|72|0|0|0|8|90
+Chi Chi Gonzalez|R|Josh Rojas|L|Flyout|C|Two-Seam Fastball|73|0|0|0|13|89
+Chi Chi Gonzalez|R|Josh Rojas|L|Flyout|B|Two-Seam Fastball|74|0|1|0|13|90
+Chi Chi Gonzalez|R|Josh Rojas|L|Flyout|F|Four-Seam Fastball|75|1|1|0|4|91
+Chi Chi Gonzalez|R|Josh Rojas|L|Flyout|X|Cutter|76|1|2|0|8|86
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|77|0|0|1|5|91
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Strikeout|W|Cutter|78|0|1|1|13|87
+Chi Chi Gonzalez|R|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|79|0|2|1|1|91
+Chi Chi Gonzalez|R|Ketel Marte|L|Home Run|F|Cutter|80|0|0|2|9|85
+Chi Chi Gonzalez|R|Ketel Marte|L|Home Run|E|Two-Seam Fastball|81|0|1|2|9|91
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|B|Changeup|82|0|0|2|14|86
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|F|Changeup|83|1|0|2|14|85
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|F|Cutter|84|1|1|2|14|86
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|F|Slider|85|1|2|2|9|82
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|B|Four-Seam Fastball|86|1|2|2|11|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|X|Four-Seam Fastball|87|2|2|2|6|92
+Chi Chi Gonzalez|R|David Peralta|L|Double|C|Cutter|88|0|0|0|4|86
+Chi Chi Gonzalez|R|David Peralta|L|Double|B|Two-Seam Fastball|89|0|1|0|11|89
+Chi Chi Gonzalez|R|David Peralta|L|Double|B|Changeup|90|1|1|0|14|86
+Chi Chi Gonzalez|R|David Peralta|L|Double|S|Four-Seam Fastball|91|2|1|0|1|90
+Chi Chi Gonzalez|R|David Peralta|L|Double|F|Cutter|92|2|2|0|5|86
+Chi Chi Gonzalez|R|David Peralta|L|Double|D|Two-Seam Fastball|93|2|2|0|13|91
+Chi Chi Gonzalez|R|Jesse Winker|L|Groundout|C|Four-Seam Fastball|0|0|0|0|6|91
+Chi Chi Gonzalez|R|Jesse Winker|L|Groundout|B|Changeup|1|0|1|0|14|86
+Chi Chi Gonzalez|R|Jesse Winker|L|Groundout|X|Two-Seam Fastball|2|1|1|0|7|91
+Chi Chi Gonzalez|R|Joey Votto|L|Groundout|C|Two-Seam Fastball|3|0|0|1|9|91
+Chi Chi Gonzalez|R|Joey Votto|L|Groundout|C|Two-Seam Fastball|4|0|1|1|9|93
+Chi Chi Gonzalez|R|Joey Votto|L|Groundout|B|Slider|5|0|2|1|14|83
+Chi Chi Gonzalez|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|6|1|2|1|11|92
+Chi Chi Gonzalez|R|Joey Votto|L|Groundout|X|Four-Seam Fastball|7|2|2|1|9|93
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|F|Slider|8|0|0|2|14|82
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|9|0|1|2|8|93
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|10|0|2|2|12|94
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|B|Cutter|11|1|2|2|13|84
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|12|2|2|2|13|94
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|13|3|2|2|6|93
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|B|Four-Seam Fastball|14|0|0|0|14|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|C|Four-Seam Fastball|15|1|0|0|9|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|B|Two-Seam Fastball|16|1|1|0|14|93
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|C|Changeup|17|2|1|0|13|87
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|X|Four-Seam Fastball|18|2|2|0|14|93
+Chi Chi Gonzalez|R|Josh VanMeter|L|Home Run|B|Two-Seam Fastball|19|0|0|1|13|92
+Chi Chi Gonzalez|R|Josh VanMeter|L|Home Run|C|Changeup|20|1|0|1|13|88
+Chi Chi Gonzalez|R|Josh VanMeter|L|Home Run|B|Cutter|21|1|1|1|14|84
+Chi Chi Gonzalez|R|Josh VanMeter|L|Home Run|E|Four-Seam Fastball|22|2|1|1|8|93
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|S|Four-Seam Fastball|23|0|0|1|6|93
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|S|Four-Seam Fastball|24|0|1|1|11|93
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|B|Cutter|25|0|2|1|14|85
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|D|Cutter|26|1|2|1|14|88
+Chi Chi Gonzalez|R|Jose Peraza|R|Hit By Pitch|B|Two-Seam Fastball|27|0|0|1|13|91
+Chi Chi Gonzalez|R|Jose Peraza|R|Hit By Pitch|*B|Cutter|28|1|0|1|14|87
+Chi Chi Gonzalez|R|Jose Peraza|R|Hit By Pitch|S|Four-Seam Fastball|29|2|0|1|9|92
+Chi Chi Gonzalez|R|Jose Peraza|R|Hit By Pitch|H|Four-Seam Fastball|30|2|1|1|11|92
+Chi Chi Gonzalez|R|Anthony DeSclafani|R|Forceout|C|Four-Seam Fastball|31|0|0|1|9|92
+Chi Chi Gonzalez|R|Anthony DeSclafani|R|Forceout|X|Four-Seam Fastball|32|0|1|1|14|92
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Flyout|C|Slider|33|0|0|2|9|82
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Flyout|B|Changeup|34|0|1|2|14|86
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Flyout|F|Four-Seam Fastball|35|1|1|2|4|92
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Flyout|B|Slider|36|1|2|2|14|83
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Flyout|X|Four-Seam Fastball|37|2|2|2|5|92
+Chi Chi Gonzalez|R|Jesse Winker|L|Flyout|F|Four-Seam Fastball|38|0|0|0|3|92
+Chi Chi Gonzalez|R|Jesse Winker|L|Flyout|F|Cutter|39|0|1|0|5|86
+Chi Chi Gonzalez|R|Jesse Winker|L|Flyout|B|Cutter|40|0|2|0|14|88
+Chi Chi Gonzalez|R|Jesse Winker|L|Flyout|B|Four-Seam Fastball|41|1|2|0|14|93
+Chi Chi Gonzalez|R|Jesse Winker|L|Flyout|X|Changeup|42|2|2|0|2|87
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|B|Cutter|43|0|0|1|14|88
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|T|Changeup|44|1|0|1|8|88
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|C|Four-Seam Fastball|45|1|1|1|14|93
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|B|Slider|46|1|2|1|14|83
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|B|Two-Seam Fastball|47|2|2|1|13|92
+Chi Chi Gonzalez|R|Joey Votto|L|Walk|B|Four-Seam Fastball|48|3|2|1|14|93
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Home Run|B|Cutter|49|0|0|1|14|87
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Home Run|C|Four-Seam Fastball|50|1|0|1|13|91
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Home Run|E|Slider|51|1|1|1|9|83
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|52|0|0|1|8|93
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|53|0|1|1|1|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|54|1|1|1|14|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|S|Four-Seam Fastball|55|2|1|1|3|93
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|B|Cutter|56|2|2|1|14|84
+Chi Chi Gonzalez|R|Yasiel Puig|R|Strikeout|C|Four-Seam Fastball|57|3|2|1|13|93
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|B|Two-Seam Fastball|58|0|0|2|13|92
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|C|Changeup|59|1|0|2|4|86
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|B|Changeup|60|1|1|2|8|87
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|S|Changeup|61|2|1|2|13|87
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|F|Four-Seam Fastball|62|2|2|2|12|93
+Chi Chi Gonzalez|R|Josh VanMeter|L|Strikeout|C|Four-Seam Fastball|63|2|2|2|4|92
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|S|Two-Seam Fastball|64|0|0|0|13|89
+Chi Chi Gonzalez|R|Nick Senzel|R|Single|D|Changeup|65|0|1|0|6|86
+Chi Chi Gonzalez|R|Jose Peraza|R|Grounded Into DP|F|Four-Seam Fastball|66|0|0|0|14|90
+Chi Chi Gonzalez|R|Jose Peraza|R|Grounded Into DP|B|Two-Seam Fastball|67|0|1|0|14|90
+Chi Chi Gonzalez|R|Jose Peraza|R|Grounded Into DP|F|Changeup|68|1|1|0|13|84
+Chi Chi Gonzalez|R|Jose Peraza|R|Grounded Into DP|X|Two-Seam Fastball|69|1|2|0|13|90
+Chi Chi Gonzalez|R|Anthony DeSclafani|R|Groundout|X|Four-Seam Fastball|70|0|0|2|7|91
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Groundout|F|Cutter|71|0|0|0|14|85
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Groundout|B|Four-Seam Fastball|72|0|1|0|14|91
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Groundout|F|Two-Seam Fastball|73|1|1|0|11|91
+Chi Chi Gonzalez|R|Ryan Lavarnway|R|Groundout|X|Changeup|74|1|2|0|14|86
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|B|Two-Seam Fastball|75|0|0|1|11|91
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|C|Two-Seam Fastball|76|1|0|1|8|91
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|B|Changeup|77|1|1|1|14|87
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|F|Four-Seam Fastball|78|2|1|1|3|93
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|B|Cutter|79|2|2|1|14|87
+Chi Chi Gonzalez|R|Jesse Winker|L|Walk|B|Changeup|80|3|2|1|14|87
+Chi Chi Gonzalez|R|Joey Votto|L|Grounded Into DP|B|Four-Seam Fastball|81|0|0|1|14|94
+Chi Chi Gonzalez|R|Joey Votto|L|Grounded Into DP|X|Four-Seam Fastball|82|1|0|1|6|93
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|F|Four-Seam Fastball|83|0|0|0|3|90
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|F|Two-Seam Fastball|84|0|1|0|4|91
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|F|Cutter|85|0|2|0|14|87
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|B|Cutter|86|0|2|0|14|84
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|B|Four-Seam Fastball|87|1|2|0|11|93
+Chi Chi Gonzalez|R|Eugenio Suarez|R|Groundout|X|Four-Seam Fastball|88|2|2|0|14|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Lineout|F|Changeup|89|0|0|1|8|87
+Chi Chi Gonzalez|R|Yasiel Puig|R|Lineout|B|Two-Seam Fastball|90|0|1|1|14|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Lineout|X|Two-Seam Fastball|91|1|1|1|13|91
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|B|Cutter|92|0|0|2|14|88
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|C|Changeup|93|1|0|2|4|85
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|B|Cutter|94|1|1|2|14|85
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|B|Cutter|95|2|1|2|14|87
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|S|Cutter|96|3|1|2|14|87
+Chi Chi Gonzalez|R|Josh VanMeter|L|Single|D|Four-Seam Fastball|97|3|2|2|1|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|90
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|B|Cutter|1|0|1|0|14|86
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|2|1|1|0|7|90
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|90
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|S|Cutter|4|2|2|0|14|86
+Chi Chi Gonzalez|R|Matt Beaty|L|Double|C|Four-Seam Fastball|5|0|0|1|8|90
+Chi Chi Gonzalez|R|Matt Beaty|L|Double|B|Changeup|6|0|1|1|14|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Double|D|Four-Seam Fastball|7|1|1|1|13|91
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|F|Four-Seam Fastball|8|0|0|1|14|90
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|B|Four-Seam Fastball|9|0|1|1|14|90
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|F|Four-Seam Fastball|10|1|1|1|1|91
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|*B|Cutter|11|1|2|1|14|87
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|B|Four-Seam Fastball|12|2|2|1|14|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|F|Cutter|13|3|2|1|14|87
+Chi Chi Gonzalez|R|Chris Taylor|R|Groundout|X|Cutter|14|3|2|1|14|86
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|C|Four-Seam Fastball|15|0|0|2|7|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|B|Four-Seam Fastball|16|0|1|2|11|92
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|B|Four-Seam Fastball|17|1|1|2|13|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|S|Cutter|18|2|1|2|13|86
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|B|Four-Seam Fastball|19|2|2|2|13|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|F|Four-Seam Fastball|20|3|2|2|3|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Flyout|X|Cutter|21|3|2|2|14|88
+Chi Chi Gonzalez|R|Max Muncy|L|Groundout|B|Four-Seam Fastball|22|0|0|0|14|90
+Chi Chi Gonzalez|R|Max Muncy|L|Groundout|B|Changeup|23|1|0|0|14|86
+Chi Chi Gonzalez|R|Max Muncy|L|Groundout|C|Four-Seam Fastball|24|2|0|0|7|91
+Chi Chi Gonzalez|R|Max Muncy|L|Groundout|X|Cutter|25|2|1|0|13|86
+Chi Chi Gonzalez|R|Edwin Rios|L|Walk|B|Slider|26|0|0|1|13|82
+Chi Chi Gonzalez|R|Edwin Rios|L|Walk|B|Four-Seam Fastball|27|1|0|1|13|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Walk|B|Four-Seam Fastball|28|2|0|1|14|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Walk|B|Four-Seam Fastball|29|3|0|1|13|91
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Grounded Into DP|B|Four-Seam Fastball|30|0|0|1|13|92
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Grounded Into DP|B|Cutter|31|1|0|1|14|86
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Grounded Into DP|B|Four-Seam Fastball|32|2|0|1|14|92
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Grounded Into DP|F|Four-Seam Fastball|33|3|0|1|9|92
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Grounded Into DP|X|Four-Seam Fastball|34|3|1|1|9|91
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|F|Four-Seam Fastball|35|0|0|0|5|90
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|F|Slider|36|0|1|0|14|81
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|37|0|2|0|6|91
+Chi Chi Gonzalez|R|Kenta Maeda|R|Single|B|Four-Seam Fastball|38|0|0|1|13|90
+Chi Chi Gonzalez|R|Kenta Maeda|R|Single|F|Four-Seam Fastball|39|1|0|1|6|91
+Chi Chi Gonzalez|R|Kenta Maeda|R|Single|F|Cutter|40|1|1|1|14|86
+Chi Chi Gonzalez|R|Kenta Maeda|R|Single|D|Four-Seam Fastball|41|1|2|1|14|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|F|Cutter|42|0|0|1|14|86
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|B|Slider|43|0|1|1|11|81
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|S|Four-Seam Fastball|44|1|1|1|12|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|*B|Cutter|45|1|2|1|14|85
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|*B|Cutter|46|2|2|1|14|87
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|D|Four-Seam Fastball|47|3|2|1|6|92
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|C|Cutter|48|0|0|1|13|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|S|Cutter|49|0|1|1|14|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|B|Four-Seam Fastball|50|0|2|1|12|92
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|F|Cutter|51|1|2|1|14|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|*B|Cutter|52|1|2|1|13|88
+Chi Chi Gonzalez|R|Matt Beaty|L|Forceout|E|Slider|53|2|2|1|13|83
+Chi Chi Gonzalez|R|Chris Taylor|R|Flyout|F|Four-Seam Fastball|54|0|0|2|4|91
+Chi Chi Gonzalez|R|Chris Taylor|R|Flyout|B|Four-Seam Fastball|55|0|1|2|1|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Flyout|F|Four-Seam Fastball|56|1|1|2|4|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Flyout|X|Cutter|57|1|2|2|8|87
+Chi Chi Gonzalez|R|Cody Bellinger|L|Lineout|C|Slider|58|0|0|0|8|81
+Chi Chi Gonzalez|R|Cody Bellinger|L|Lineout|C|Four-Seam Fastball|59|0|1|0|13|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Lineout|B|Cutter|60|0|2|0|13|84
+Chi Chi Gonzalez|R|Cody Bellinger|L|Lineout|B|Slider|61|1|2|0|13|81
+Chi Chi Gonzalez|R|Cody Bellinger|L|Lineout|X|Four-Seam Fastball|62|2|2|0|14|91
+Chi Chi Gonzalez|R|Max Muncy|L|Flyout|B|Two-Seam Fastball|63|0|0|1|12|90
+Chi Chi Gonzalez|R|Max Muncy|L|Flyout|X|Slider|64|1|0|1|5|80
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|C|Four-Seam Fastball|65|0|0|2|7|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|B|Four-Seam Fastball|66|0|1|2|13|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|B|Four-Seam Fastball|67|1|1|2|14|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|F|Four-Seam Fastball|68|2|1|2|7|91
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|F|Cutter|69|2|2|2|8|86
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|B|Four-Seam Fastball|70|2|2|2|11|90
+Chi Chi Gonzalez|R|Edwin Rios|L|Strikeout|C|Cutter|71|3|2|2|13|85
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|B|Cutter|72|0|0|0|14|84
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|B|Cutter|73|1|0|0|14|84
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|C|Cutter|74|2|0|0|2|88
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|F|Slider|75|2|1|0|8|81
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|76|2|2|0|14|89
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|77|3|2|0|14|89
+Chi Chi Gonzalez|R|Russell Martin|R|Single|F|Cutter|78|0|0|0|4|88
+Chi Chi Gonzalez|R|Russell Martin|R|Single|*B|Slider|79|0|1|0|14|82
+Chi Chi Gonzalez|R|Russell Martin|R|Single|D|Cutter|80|1|1|0|9|84
+Chi Chi Gonzalez|R|Kenta Maeda|R|Sac Bunt|E|Cutter|81|0|0|0|8|89
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|B|Cutter|82|0|0|0|13|85
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|B|Slider|83|1|0|0|13|81
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|F|Changeup|84|2|0|0|5|84
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|E|Four-Seam Fastball|85|2|1|0|1|90
+Chi Chi Gonzalez|R|Brandon Belt|L|Groundout|X|Four-Seam Fastball|0|0|0|0|14|92
+Chi Chi Gonzalez|R|Austin Slater|R|Groundout|C|Two-Seam Fastball|1|0|0|1|14|92
+Chi Chi Gonzalez|R|Austin Slater|R|Groundout|B|Cutter|2|0|1|1|14|88
+Chi Chi Gonzalez|R|Austin Slater|R|Groundout|X|Four-Seam Fastball|3|1|1|1|5|92
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Single|C|Two-Seam Fastball|4|0|0|2|6|91
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Single|B|Four-Seam Fastball|5|0|1|2|11|92
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Single|F|Cutter|6|1|1|2|13|88
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Single|D|Four-Seam Fastball|7|1|2|2|3|94
+Chi Chi Gonzalez|R|Stephen Vogt|L|Groundout|C|Two-Seam Fastball|8|0|0|2|4|92
+Chi Chi Gonzalez|R|Stephen Vogt|L|Groundout|X|Cutter|9|0|1|2|3|88
+Chi Chi Gonzalez|R|Brandon Crawford|L|Groundout|S|Slider|10|0|0|0|14|82
+Chi Chi Gonzalez|R|Brandon Crawford|L|Groundout|S|Four-Seam Fastball|11|0|1|0|3|93
+Chi Chi Gonzalez|R|Brandon Crawford|L|Groundout|B|Four-Seam Fastball|12|0|2|0|12|93
+Chi Chi Gonzalez|R|Brandon Crawford|L|Groundout|F|Cutter|13|1|2|0|7|87
+Chi Chi Gonzalez|R|Brandon Crawford|L|Groundout|X|Four-Seam Fastball|14|1|2|0|3|93
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|C|Two-Seam Fastball|15|0|0|1|7|92
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Cutter|16|0|1|1|14|84
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|17|1|1|1|5|93
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Two-Seam Fastball|18|1|2|1|14|93
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Changeup|19|1|2|1|13|88
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Cutter|20|2|2|1|9|89
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Two-Seam Fastball|21|2|2|1|11|92
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|22|3|2|1|4|93
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|B|Slider|23|0|0|2|11|83
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|24|1|0|2|14|93
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|X|Two-Seam Fastball|25|1|1|2|11|93
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|C|Four-Seam Fastball|26|0|0|0|5|91
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|B|Cutter|27|0|1|0|14|87
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|F|Two-Seam Fastball|28|1|1|0|13|90
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|F|Slider|29|1|2|0|14|83
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|B|Four-Seam Fastball|30|1|2|0|12|92
+Chi Chi Gonzalez|R|Donovan Solano|R|Strikeout|S|Cutter|31|2|2|0|14|87
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Strikeout|C|Four-Seam Fastball|32|0|0|1|14|91
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Strikeout|S|Cutter|33|0|1|1|8|86
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Strikeout|B|Four-Seam Fastball|34|0|2|1|14|93
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Strikeout|F|Cutter|35|1|2|1|9|84
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Strikeout|S|Cutter|36|1|2|1|14|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Walk|B|Two-Seam Fastball|37|0|0|2|14|90
+Chi Chi Gonzalez|R|Brandon Belt|L|Walk|F|Cutter|38|1|0|2|2|87
+Chi Chi Gonzalez|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|39|1|1|2|12|93
+Chi Chi Gonzalez|R|Brandon Belt|L|Walk|B|Cutter|40|2|1|2|11|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|41|3|1|2|14|92
+Chi Chi Gonzalez|R|Austin Slater|R|Walk|B|Four-Seam Fastball|42|0|0|2|14|92
+Chi Chi Gonzalez|R|Austin Slater|R|Walk|B|Four-Seam Fastball|43|1|0|2|14|92
+Chi Chi Gonzalez|R|Austin Slater|R|Walk|B|Cutter|44|2|0|2|14|87
+Chi Chi Gonzalez|R|Austin Slater|R|Walk|C|Four-Seam Fastball|45|3|0|2|6|91
+Chi Chi Gonzalez|R|Austin Slater|R|Walk|B|Four-Seam Fastball|46|3|1|2|14|92
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Strikeout|B|Four-Seam Fastball|47|0|0|2|11|92
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Strikeout|F|Cutter|48|1|0|2|9|86
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Strikeout|C|Four-Seam Fastball|49|1|1|2|11|92
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Strikeout|S|Cutter|50|1|2|2|14|87
+Chi Chi Gonzalez|R|Stephen Vogt|L|Home Run|B|Slider|51|0|0|0|13|80
+Chi Chi Gonzalez|R|Stephen Vogt|L|Home Run|B|Two-Seam Fastball|52|1|0|0|14|90
+Chi Chi Gonzalez|R|Stephen Vogt|L|Home Run|E|Four-Seam Fastball|53|2|0|0|5|90
+Chi Chi Gonzalez|R|Brandon Crawford|L|Home Run|S|Four-Seam Fastball|54|0|0|0|3|91
+Chi Chi Gonzalez|R|Brandon Crawford|L|Home Run|E|Cutter|55|0|1|0|9|86
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Groundout|C|Two-Seam Fastball|56|0|0|0|8|91
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Groundout|F|Changeup|57|0|1|0|11|87
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Groundout|B|Four-Seam Fastball|58|0|2|0|11|92
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Groundout|X|Changeup|59|1|2|0|13|87
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|S|Cutter|60|0|0|1|14|88
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|B|Cutter|61|0|1|1|14|88
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|62|1|1|1|13|92
+Chi Chi Gonzalez|R|Kevin Pillar|R|Groundout|X|Cutter|63|1|2|1|14|87
+Chi Chi Gonzalez|R|Donovan Solano|R|Groundout|B|Slider|64|0|0|2|14|82
+Chi Chi Gonzalez|R|Donovan Solano|R|Groundout|B|Four-Seam Fastball|65|1|0|2|14|92
+Chi Chi Gonzalez|R|Donovan Solano|R|Groundout|C|Cutter|66|2|0|2|4|86
+Chi Chi Gonzalez|R|Donovan Solano|R|Groundout|F|Cutter|67|2|1|2|4|86
+Chi Chi Gonzalez|R|Donovan Solano|R|Groundout|X|Two-Seam Fastball|68|2|2|2|11|91
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Single|C|Cutter|69|0|0|0|5|88
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Single|B|Four-Seam Fastball|70|0|1|0|12|90
+Chi Chi Gonzalez|R|Dereck Rodriguez|R|Single|D|Four-Seam Fastball|71|1|1|0|6|90
+Chi Chi Gonzalez|R|Brandon Belt|L|Flyout|B|Two-Seam Fastball|72|0|0|0|11|89
+Chi Chi Gonzalez|R|Brandon Belt|L|Flyout|F|Cutter|73|1|0|0|8|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|74|1|1|0|11|91
+Chi Chi Gonzalez|R|Brandon Belt|L|Flyout|X|Two-Seam Fastball|75|2|1|0|2|90
+Chi Chi Gonzalez|R|Austin Slater|R|Flyout|B|Cutter|76|0|0|1|1|86
+Chi Chi Gonzalez|R|Austin Slater|R|Flyout|B|Cutter|77|1|0|1|14|86
+Chi Chi Gonzalez|R|Austin Slater|R|Flyout|T|Four-Seam Fastball|78|2|0|1|6|91
+Chi Chi Gonzalez|R|Austin Slater|R|Flyout|F|Cutter|79|2|1|1|6|86
+Chi Chi Gonzalez|R|Austin Slater|R|Flyout|X|Cutter|80|2|2|1|5|86
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Forceout|B|Two-Seam Fastball|81|0|0|2|11|90
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Forceout|B|Cutter|82|1|0|2|13|86
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Forceout|X|Cutter|83|2|0|2|7|86
+Chi Chi Gonzalez|R|Stephen Vogt|L|Double|B|Slider|84|0|0|0|11|79
+Chi Chi Gonzalez|R|Stephen Vogt|L|Double|D|Two-Seam Fastball|85|1|0|0|8|89
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Two-Seam Fastball|86|0|0|0|14|90
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Two-Seam Fastball|87|1|0|0|14|90
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|F|Two-Seam Fastball|88|2|0|0|7|91
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Cutter|89|2|1|0|11|86
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Two-Seam Fastball|90|3|1|0|11|91
+Chi Chi Gonzalez|R|Kevin Newman|R|Home Run|B|Four-Seam Fastball|0|0|0|0|13|90
+Chi Chi Gonzalez|R|Kevin Newman|R|Home Run|E|Four-Seam Fastball|1|1|0|0|11|91
+Chi Chi Gonzalez|R|Bryan Reynolds|L|Single|B|Two-Seam Fastball|2|0|0|0|13|91
+Chi Chi Gonzalez|R|Bryan Reynolds|L|Single|D|Four-Seam Fastball|3|1|0|0|7|91
+Chi Chi Gonzalez|R|Starling Marte|R|Single|*B|Cutter|4|0|0|0|14|87
+Chi Chi Gonzalez|R|Starling Marte|R|Single|D|Four-Seam Fastball|5|1|0|0|9|91
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|C|Cutter|6|0|0|0|9|88
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|C|Cutter|7|0|1|0|7|87
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|F|Four-Seam Fastball|8|0|2|0|1|92
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|B|Cutter|9|0|2|0|14|89
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|B|Cutter|10|1|2|0|14|88
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|B|Four-Seam Fastball|11|2|2|0|13|92
+Chi Chi Gonzalez|R|Josh Bell|L|Walk|B|Cutter|12|3|2|0|14|88
+Chi Chi Gonzalez|R|Colin Moran|L|Double|E|Cutter|13|0|0|0|5|88
+Chi Chi Gonzalez|R|Jose Osuna|R|Pop Out|C|Cutter|14|0|0|0|14|84
+Chi Chi Gonzalez|R|Jose Osuna|R|Pop Out|X|Cutter|15|0|1|0|7|88
+Chi Chi Gonzalez|R|Adam Frazier|L|Single|B|Four-Seam Fastball|16|0|0|1|13|91
+Chi Chi Gonzalez|R|Adam Frazier|L|Single|E|Cutter|17|1|0|1|5|87
+Chi Chi Gonzalez|R|Jacob Stallings|R|Single|C|Cutter|18|0|0|1|5|87
+Chi Chi Gonzalez|R|Jacob Stallings|R|Single|B|Cutter|19|0|1|1|14|87
+Chi Chi Gonzalez|R|Jacob Stallings|R|Single|E|Four-Seam Fastball|20|1|1|1|8|92
+Chi Chi Gonzalez|R|Trevor Williams|R|Sac Bunt|B|Four-Seam Fastball|21|0|0|1|13|91
+Chi Chi Gonzalez|R|Trevor Williams|R|Sac Bunt|L|Four-Seam Fastball|22|1|0|1|9|91
+Chi Chi Gonzalez|R|Trevor Williams|R|Sac Bunt|X|Cutter|23|1|1|1|14|87
+Chi Chi Gonzalez|R|Kevin Newman|R|Single|C|Four-Seam Fastball|24|0|0|2|9|92
+Chi Chi Gonzalez|R|Kevin Newman|R|Single|C|Four-Seam Fastball|25|0|1|2|9|92
+Chi Chi Gonzalez|R|Kevin Newman|R|Single|E|Cutter|26|0|2|2|14|88
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|C|Four-Seam Fastball|0|0|0|0|4|92
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|C|Four-Seam Fastball|1|0|1|0|14|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|B|Four-Seam Fastball|2|0|2|0|12|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|F|Cutter|3|1|2|0|4|87
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|F|Four-Seam Fastball|4|1|2|0|14|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|B|Slider|5|1|2|0|14|82
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|B|Four-Seam Fastball|6|2|2|0|13|94
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|F|Cutter|7|3|2|0|13|87
+Chi Chi Gonzalez|R|Dexter Fowler|L|Lineout|X|Four-Seam Fastball|8|3|2|0|7|94
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|C|Cutter|9|0|0|1|7|88
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|C|Slider|10|0|1|1|7|83
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|11|0|2|1|11|93
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|12|1|2|1|14|93
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|X|Cutter|13|2|2|1|13|87
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|B|Cutter|14|0|0|2|14|88
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|15|1|0|2|8|94
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|16|1|1|2|14|93
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|S|Cutter|17|1|2|2|4|88
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|B|Cutter|18|0|0|0|14|88
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|C|Four-Seam Fastball|19|1|0|0|1|92
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|C|Four-Seam Fastball|20|1|1|0|6|93
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|21|1|2|0|14|94
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|D|Cutter|22|2|2|0|7|89
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|B|Four-Seam Fastball|23|0|0|0|11|93
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|B|Four-Seam Fastball|24|1|0|0|14|93
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|B|Cutter|25|2|0|0|14|87
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|C|Four-Seam Fastball|26|3|0|0|6|92
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|S|Four-Seam Fastball|27|3|1|0|1|92
+Chi Chi Gonzalez|R|Paul DeJong|R|Pop Out|X|Four-Seam Fastball|28|3|2|0|4|93
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|B|Four-Seam Fastball|29|0|0|1|14|93
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|S|Four-Seam Fastball|30|1|0|1|5|93
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|F|Four-Seam Fastball|31|1|1|1|4|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|F|Changeup|32|1|2|1|11|87
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|B|Four-Seam Fastball|33|1|2|1|11|93
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|*B|Changeup|34|2|2|1|14|87
+Chi Chi Gonzalez|R|Yadier Molina|R|Strikeout Double Play|S|Cutter|35|3|2|1|5|88
+Chi Chi Gonzalez|R|Tommy Edman|L|Flyout|C|Four-Seam Fastball|36|0|0|0|4|90
+Chi Chi Gonzalez|R|Tommy Edman|L|Flyout|B|Cutter|37|0|1|0|14|87
+Chi Chi Gonzalez|R|Tommy Edman|L|Flyout|X|Four-Seam Fastball|38|1|1|0|9|92
+Chi Chi Gonzalez|R|Harrison Bader|R|Groundout|C|Four-Seam Fastball|39|0|0|1|1|93
+Chi Chi Gonzalez|R|Harrison Bader|R|Groundout|X|Changeup|40|0|1|1|13|87
+Chi Chi Gonzalez|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|41|0|0|2|8|91
+Chi Chi Gonzalez|R|Michael Wacha|R|Strikeout|C|Cutter|42|0|1|2|2|85
+Chi Chi Gonzalez|R|Michael Wacha|R|Strikeout|B|Slider|43|0|2|2|13|81
+Chi Chi Gonzalez|R|Michael Wacha|R|Strikeout|S|Four-Seam Fastball|44|1|2|2|6|92
+Chi Chi Gonzalez|R|Dexter Fowler|L|Double|C|Cutter|45|0|0|0|4|86
+Chi Chi Gonzalez|R|Dexter Fowler|L|Double|B|Changeup|46|0|1|0|14|85
+Chi Chi Gonzalez|R|Dexter Fowler|L|Double|D|Changeup|47|1|1|0|14|86
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|48|0|0|0|11|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|49|1|0|0|2|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|50|1|1|0|12|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Groundout|X|Four-Seam Fastball|51|2|1|0|6|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|W|Cutter|52|0|0|1|14|88
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|B|Cutter|53|0|1|1|14|89
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|54|1|1|1|11|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|S|Changeup|55|2|1|1|14|86
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|F|Four-Seam Fastball|56|2|2|1|13|93
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|E|Cutter|57|2|2|1|13|90
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|C|Cutter|58|0|0|2|13|83
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|F|Changeup|59|0|1|2|7|87
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|B|Cutter|60|0|2|2|14|85
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|61|1|2|2|14|94
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|F|Four-Seam Fastball|62|2|2|2|14|93
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|F|Four-Seam Fastball|63|2|2|2|8|94
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|64|2|2|2|4|94
+Chi Chi Gonzalez|R|Paul DeJong|R|Groundout|C|Four-Seam Fastball|65|0|0|0|7|90
+Chi Chi Gonzalez|R|Paul DeJong|R|Groundout|X|Two-Seam Fastball|66|0|1|0|13|91
+Chi Chi Gonzalez|R|Yadier Molina|R|Field Error|B|Four-Seam Fastball|67|0|0|1|14|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Field Error|C|Changeup|68|1|0|1|9|85
+Chi Chi Gonzalez|R|Yadier Molina|R|Field Error|B|Slider|69|1|1|1|14|83
+Chi Chi Gonzalez|R|Yadier Molina|R|Field Error|D|Four-Seam Fastball|70|2|1|1|14|92
+Chi Chi Gonzalez|R|Tommy Edman|L|Single|B|Four-Seam Fastball|71|0|0|1|13|92
+Chi Chi Gonzalez|R|Tommy Edman|L|Single|F|Four-Seam Fastball|72|1|0|1|1|92
+Chi Chi Gonzalez|R|Tommy Edman|L|Single|D|Cutter|73|1|1|1|8|88
+Chi Chi Gonzalez|R|Harrison Bader|R|Single|B|Cutter|74|0|0|1|14|88
+Chi Chi Gonzalez|R|Harrison Bader|R|Single|D|Cutter|75|1|0|1|8|87
+Chi Chi Gonzalez|R|Matt Carpenter|L|Lineout|B|Slider|76|0|0|1|13|82
+Chi Chi Gonzalez|R|Matt Carpenter|L|Lineout|B|Four-Seam Fastball|77|1|0|1|1|93
+Chi Chi Gonzalez|R|Matt Carpenter|L|Lineout|C|Slider|78|2|0|1|7|81
+Chi Chi Gonzalez|R|Matt Carpenter|L|Lineout|X|Four-Seam Fastball|79|2|1|1|6|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Groundout|B|Four-Seam Fastball|80|0|0|2|14|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Groundout|*B|Slider|81|1|0|2|14|83
+Chi Chi Gonzalez|R|Dexter Fowler|L|Groundout|B|Four-Seam Fastball|82|2|0|2|13|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Groundout|C|Four-Seam Fastball|83|3|0|2|1|92
+Chi Chi Gonzalez|R|Dexter Fowler|L|Groundout|X|Cutter|84|3|1|2|14|88
+Chi Chi Gonzalez|R|Kolten Wong|L|Lineout|B|Slider|85|0|0|0|11|78
+Chi Chi Gonzalez|R|Kolten Wong|L|Lineout|C|Four-Seam Fastball|86|1|0|0|13|90
+Chi Chi Gonzalez|R|Kolten Wong|L|Lineout|B|Changeup|87|1|1|0|11|84
+Chi Chi Gonzalez|R|Kolten Wong|L|Lineout|B|Cutter|88|2|1|0|14|86
+Chi Chi Gonzalez|R|Kolten Wong|L|Lineout|X|Four-Seam Fastball|89|3|1|0|4|91
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|90|0|0|1|14|93
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|91|0|1|1|14|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|B|Two-Seam Fastball|92|0|2|1|13|91
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|93|1|2|1|11|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|B|Slider|94|2|2|1|14|81
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|95|3|2|1|6|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|F|Cutter|96|3|2|1|8|88
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|97|3|2|1|11|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|98|3|2|1|1|92
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Groundout|X|Four-Seam Fastball|99|0|0|2|8|93
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|91
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|91
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|C|Four-Seam Fastball|2|2|0|0|7|91
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Two-Seam Fastball|3|2|1|0|13|91
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|4|3|1|0|14|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Flyout|B|Four-Seam Fastball|5|0|0|0|13|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Flyout|X|Four-Seam Fastball|6|1|0|0|8|92
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|B|Cutter|7|0|0|1|14|88
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|B|Four-Seam Fastball|8|1|0|1|13|92
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|C|Changeup|9|2|0|1|2|85
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|C|Four-Seam Fastball|10|2|1|1|9|93
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|F|Four-Seam Fastball|11|2|2|1|6|92
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|B|Changeup|12|2|2|1|14|85
+Chi Chi Gonzalez|R|Manny Machado|R|Walk|*B|Four-Seam Fastball|13|3|2|1|14|94
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|C|Two-Seam Fastball|14|0|0|1|7|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|15|0|1|1|5|93
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|16|0|2|1|12|94
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|F|Cutter|17|0|0|2|8|88
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|C|Four-Seam Fastball|18|0|1|2|6|94
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|F|Changeup|19|0|2|2|7|87
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|B|Four-Seam Fastball|20|0|2|2|14|90
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|B|Four-Seam Fastball|21|1|2|2|13|95
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|B|Cutter|22|2|2|2|14|90
+Chi Chi Gonzalez|R|Wil Myers|R|Walk|*B|Four-Seam Fastball|23|3|2|2|14|95
+Chi Chi Gonzalez|R|Ty France|R|Flyout|F|Four-Seam Fastball|24|0|0|2|4|94
+Chi Chi Gonzalez|R|Ty France|R|Flyout|F|Four-Seam Fastball|25|0|1|2|4|94
+Chi Chi Gonzalez|R|Ty France|R|Flyout|B|Four-Seam Fastball|26|0|2|2|11|93
+Chi Chi Gonzalez|R|Ty France|R|Flyout|*B|Cutter|27|1|2|2|14|85
+Chi Chi Gonzalez|R|Ty France|R|Flyout|X|Cutter|28|2|2|2|7|88
+Chi Chi Gonzalez|R|Luis Urias|R|Home Run|B|Four-Seam Fastball|29|0|0|0|12|92
+Chi Chi Gonzalez|R|Luis Urias|R|Home Run|F|Four-Seam Fastball|30|1|0|0|5|92
+Chi Chi Gonzalez|R|Luis Urias|R|Home Run|E|Slider|31|1|1|0|9|82
+Chi Chi Gonzalez|R|Austin Allen|L|Single|B|Cutter|32|0|0|0|13|87
+Chi Chi Gonzalez|R|Austin Allen|L|Single|D|Two-Seam Fastball|33|1|0|0|8|91
+Chi Chi Gonzalez|R|Cal Quantrill|L|Sac Bunt|C|Four-Seam Fastball|34|0|0|0|7|92
+Chi Chi Gonzalez|R|Cal Quantrill|L|Sac Bunt|L|Four-Seam Fastball|35|0|1|0|7|92
+Chi Chi Gonzalez|R|Cal Quantrill|L|Sac Bunt|X|Cutter|36|0|2|0|13|87
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|C|Four-Seam Fastball|37|0|0|1|4|93
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|F|Cutter|38|0|1|1|14|84
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|39|0|2|1|11|94
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|40|1|2|1|11|93
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Slider|41|2|2|1|14|83
+Chi Chi Gonzalez|R|Nick Martini|L|Walk|B|Four-Seam Fastball|42|3|2|1|11|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|C|Four-Seam Fastball|43|0|0|1|11|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|F|Cutter|44|0|1|1|8|87
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|B|Slider|45|0|2|1|13|81
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|F|Four-Seam Fastball|46|1|2|1|11|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|F|Cutter|47|1|2|1|9|84
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|B|Slider|48|1|2|1|14|83
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|F|Changeup|49|2|2|1|14|86
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|F|Changeup|50|2|2|1|7|86
+Chi Chi Gonzalez|R|Josh Naylor|L|Strikeout|S|Four-Seam Fastball|51|2|2|1|1|93
+Chi Chi Gonzalez|R|Manny Machado|R|Pop Out|C|Four-Seam Fastball|52|0|0|2|1|93
+Chi Chi Gonzalez|R|Manny Machado|R|Pop Out|X|Cutter|53|0|1|2|4|86
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|54|0|0|0|2|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|B|Cutter|55|0|1|0|14|86
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|56|1|1|0|8|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|57|1|2|0|12|93
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|B|Cutter|58|2|2|0|13|87
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Cutter|59|3|2|0|14|88
+Chi Chi Gonzalez|R|Wil Myers|R|Double|D|Cutter|60|0|0|1|7|88
+Chi Chi Gonzalez|R|Ty France|R|Single|D|Four-Seam Fastball|61|0|0|1|1|92
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|S|Four-Seam Fastball|62|0|0|1|5|91
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|X|Four-Seam Fastball|63|0|1|1|5|92
+Chi Chi Gonzalez|R|Austin Allen|L|Strikeout|B|Cutter|64|0|0|2|14|87
+Chi Chi Gonzalez|R|Austin Allen|L|Strikeout|C|Changeup|65|1|0|2|13|84
+Chi Chi Gonzalez|R|Austin Allen|L|Strikeout|F|Four-Seam Fastball|66|1|1|2|9|93
+Chi Chi Gonzalez|R|Austin Allen|L|Strikeout|S|Four-Seam Fastball|67|1|2|2|12|93
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|C|Four-Seam Fastball|68|0|0|0|6|92
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|C|Changeup|69|0|1|0|8|86
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|F|Four-Seam Fastball|70|0|2|0|12|92
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|B|Cutter|71|0|2|0|14|87
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|F|Changeup|72|1|2|0|11|85
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|B|Slider|73|1|2|0|14|82
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|B|Four-Seam Fastball|74|2|2|0|12|93
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|F|Four-Seam Fastball|75|3|2|0|12|92
+Chi Chi Gonzalez|R|Seth Mejias-Brean|R|Walk|B|Changeup|76|3|2|0|13|84
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|B|Four-Seam Fastball|77|0|0|0|14|93
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|C|Four-Seam Fastball|78|1|0|0|4|92
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|F|Four-Seam Fastball|79|1|1|0|14|93
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|F|Cutter|80|1|2|0|14|88
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|B|Four-Seam Fastball|81|1|2|0|13|93
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|F|Four-Seam Fastball|82|2|2|0|7|92
+Chi Chi Gonzalez|R|Nick Martini|L|Strikeout|S|Four-Seam Fastball|83|2|2|0|5|93
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|B|Four-Seam Fastball|84|0|0|1|13|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|S|Changeup|85|1|0|1|8|85
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|C|Four-Seam Fastball|86|1|1|1|4|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|*B|Slider|87|1|2|1|14|79
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|F|Four-Seam Fastball|88|2|2|1|8|92
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|B|Changeup|89|2|2|1|11|80
+Chi Chi Gonzalez|R|Josh Naylor|L|Groundout|X|Four-Seam Fastball|90|3|2|1|13|93
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|C|Four-Seam Fastball|91|0|0|2|13|91
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|C|Four-Seam Fastball|92|0|1|2|8|92
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|B|Four-Seam Fastball|93|0|2|2|11|91
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|F|Four-Seam Fastball|94|1|2|2|2|92
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|B|Four-Seam Fastball|95|1|2|2|14|92
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|F|Changeup|96|2|2|2|1|84
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|*B|Slider|97|2|2|2|14|79
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|X|Four-Seam Fastball|98|3|2|2|9|93
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|93
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|93
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|F|Four-Seam Fastball|2|2|0|0|6|93
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|B|Cutter|3|2|1|0|13|87
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|F|Four-Seam Fastball|4|3|1|0|9|93
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|F|Four-Seam Fastball|5|3|2|0|14|94
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|C|Cutter|6|3|2|0|2|87
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|C|Cutter|7|0|0|1|9|87
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|8|0|1|1|11|93
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|X|Four-Seam Fastball|9|1|1|1|6|92
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|10|0|0|2|14|94
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|C|Slider|11|1|0|2|13|81
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Cutter|12|1|1|2|14|88
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|X|Four-Seam Fastball|13|1|2|2|5|92
+Chi Chi Gonzalez|R|Keston Hiura|R|Strikeout|B|Slider|14|0|0|0|14|81
+Chi Chi Gonzalez|R|Keston Hiura|R|Strikeout|C|Four-Seam Fastball|15|1|0|0|13|92
+Chi Chi Gonzalez|R|Keston Hiura|R|Strikeout|S|Changeup|16|1|1|0|13|87
+Chi Chi Gonzalez|R|Keston Hiura|R|Strikeout|S|Cutter|17|1|2|0|14|89
+Chi Chi Gonzalez|R|Eric Thames|L|Pop Out|B|Four-Seam Fastball|18|0|0|1|14|94
+Chi Chi Gonzalez|R|Eric Thames|L|Pop Out|S|Changeup|19|1|0|1|13|86
+Chi Chi Gonzalez|R|Eric Thames|L|Pop Out|X|Four-Seam Fastball|20|1|1|1|12|93
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Four-Seam Fastball|21|0|0|2|13|93
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|S|Changeup|22|1|0|2|13|86
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|C|Cutter|23|1|1|2|14|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Four-Seam Fastball|24|1|2|2|14|94
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|F|Cutter|25|2|2|2|14|89
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Four-Seam Fastball|26|2|2|2|11|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|*B|Changeup|27|3|2|2|14|88
+Chi Chi Gonzalez|R|Ben Gamel|L|Lineout|B|Cutter|28|0|0|2|11|88
+Chi Chi Gonzalez|R|Ben Gamel|L|Lineout|C|Changeup|29|1|0|2|11|85
+Chi Chi Gonzalez|R|Ben Gamel|L|Lineout|F|Four-Seam Fastball|30|1|1|2|3|92
+Chi Chi Gonzalez|R|Ben Gamel|L|Lineout|X|Four-Seam Fastball|31|1|2|2|3|93
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|F|Cutter|32|0|0|0|8|86
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|F|Cutter|33|0|1|0|14|88
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|F|Four-Seam Fastball|34|0|2|0|11|91
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|F|Four-Seam Fastball|35|0|2|0|6|92
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|B|Changeup|36|0|2|0|13|86
+Chi Chi Gonzalez|R|Orlando Arcia|R|Lineout|X|Cutter|37|1|2|0|8|84
+Chi Chi Gonzalez|R|Gio Gonzalez|R|Strikeout|C|Four-Seam Fastball|38|0|0|1|2|91
+Chi Chi Gonzalez|R|Gio Gonzalez|R|Strikeout|F|Four-Seam Fastball|39|0|1|1|9|92
+Chi Chi Gonzalez|R|Gio Gonzalez|R|Strikeout|S|Cutter|40|0|2|1|6|87
+Chi Chi Gonzalez|R|Trent Grisham|L|Groundout|L|Cutter|41|0|0|2|5|86
+Chi Chi Gonzalez|R|Trent Grisham|L|Groundout|F|Cutter|42|0|1|2|9|88
+Chi Chi Gonzalez|R|Trent Grisham|L|Groundout|X|Four-Seam Fastball|43|0|2|2|7|92
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Lineout|B|Changeup|44|0|0|0|14|84
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Lineout|C|Four-Seam Fastball|45|1|0|0|6|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Lineout|X|Cutter|46|1|1|0|5|85
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|C|Four-Seam Fastball|47|0|0|1|7|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Changeup|48|0|1|1|14|86
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Cutter|49|1|1|1|13|87
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|X|Four-Seam Fastball|50|2|1|1|14|91
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|B|Cutter|51|0|0|2|14|86
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|S|Cutter|52|1|0|2|7|88
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|S|Four-Seam Fastball|53|1|1|2|6|91
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|B|Four-Seam Fastball|54|1|2|2|14|93
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|F|Changeup|55|2|2|2|13|86
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|B|Four-Seam Fastball|56|2|2|2|11|92
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|F|Four-Seam Fastball|57|3|2|2|14|92
+Chi Chi Gonzalez|R|Keston Hiura|R|Pop Out|X|Cutter|58|3|2|2|4|88
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|C|Cutter|59|0|0|0|9|86
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|F|Four-Seam Fastball|60|0|1|0|12|91
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|B|Four-Seam Fastball|61|0|2|0|11|92
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|B|Slider|62|1|2|0|14|81
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|F|Changeup|63|2|2|0|14|87
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|B|Four-Seam Fastball|64|2|2|0|13|92
+Chi Chi Gonzalez|R|Eric Thames|L|Home Run|E|Cutter|65|3|2|0|9|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|B|Cutter|66|0|0|0|14|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|67|1|0|0|14|91
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|C|Cutter|68|2|0|0|4|87
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|B|Cutter|69|2|1|0|14|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|70|3|1|0|14|91
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|71|3|2|0|7|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Strikeout|S|Four-Seam Fastball|72|3|2|0|14|92
+Chi Chi Gonzalez|R|Ben Gamel|L|Strikeout|C|Cutter|73|0|0|1|13|87
+Chi Chi Gonzalez|R|Ben Gamel|L|Strikeout|S|Changeup|74|0|1|1|13|87
+Chi Chi Gonzalez|R|Ben Gamel|L|Strikeout|S|Four-Seam Fastball|75|0|2|1|11|92
+Chi Chi Gonzalez|R|Orlando Arcia|R|Single|D|Cutter|76|0|0|2|9|88
+Chi Chi Gonzalez|R|Gio Gonzalez|R|Forceout|*B|Cutter|77|0|0|2|14|87
+Chi Chi Gonzalez|R|Gio Gonzalez|R|Forceout|X|Four-Seam Fastball|78|1|0|2|1|91
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|F|Slider|79|0|0|0|14|80
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|S|Changeup|80|0|1|0|13|84
+Chi Chi Gonzalez|R|Trent Grisham|L|Strikeout|C|Four-Seam Fastball|81|0|2|0|11|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|B|Slider|82|0|0|1|13|81
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|83|1|0|1|11|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|B|Cutter|84|2|0|1|13|86
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|C|Four-Seam Fastball|85|3|0|1|11|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|C|Four-Seam Fastball|86|3|1|1|11|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Walk|*B|Four-Seam Fastball|87|3|2|1|13|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Double|C|Cutter|88|0|0|1|13|86
+Chi Chi Gonzalez|R|Mike Moustakas|L|Double|X|Four-Seam Fastball|89|0|1|1|12|91
+Chi Chi Gonzalez|R|Keston Hiura|R|Flyout|*B|Changeup|90|0|0|2|14|85
+Chi Chi Gonzalez|R|Keston Hiura|R|Flyout|X|Cutter|91|1|0|2|8|86
+Chi Chi Gonzalez|R|Carlos Correa|R|Home Run|C|Cutter|0|0|0|0|6|86
+Chi Chi Gonzalez|R|Carlos Correa|R|Home Run|E|Cutter|1|0|1|0|6|84
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|2|0|0|0|14|92
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|F|Two-Seam Fastball|3|1|0|0|8|92
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|F|Four-Seam Fastball|4|1|1|0|9|92
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|B|Changeup|5|1|2|0|14|87
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|B|Changeup|6|2|2|0|13|89
+Chi Chi Gonzalez|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|7|3|2|0|14|94
+Chi Chi Gonzalez|R|Robinson Chirinos|R|Field Error|B|Changeup|8|0|0|0|14|87
+Chi Chi Gonzalez|R|Robinson Chirinos|R|Field Error|S|Cutter|9|1|0|0|14|88
+Chi Chi Gonzalez|R|Robinson Chirinos|R|Field Error|F|Cutter|10|1|1|0|14|87
+Chi Chi Gonzalez|R|Robinson Chirinos|R|Field Error|*B|Changeup|11|1|2|0|13|87
+Chi Chi Gonzalez|R|Robinson Chirinos|R|Field Error|D|Two-Seam Fastball|12|2|2|0|13|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|C|Two-Seam Fastball|0|0|0|0|13|90
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|F|Four-Seam Fastball|1|0|1|0|2|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Four-Seam Fastball|2|0|2|0|14|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Cutter|3|1|2|0|14|88
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Two-Seam Fastball|4|2|2|0|13|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|X|Two-Seam Fastball|5|3|2|0|13|92
+Chi Chi Gonzalez|R|Corey Seager|L|Walk|C|Cutter|6|0|0|1|13|88
+Chi Chi Gonzalez|R|Corey Seager|L|Walk|B|Cutter|7|0|1|1|14|88
+Chi Chi Gonzalez|R|Corey Seager|L|Walk|B|Two-Seam Fastball|8|1|1|1|11|92
+Chi Chi Gonzalez|R|Corey Seager|L|Walk|B|Changeup|9|2|1|1|11|87
+Chi Chi Gonzalez|R|Corey Seager|L|Walk|B|Four-Seam Fastball|10|3|1|1|13|94
+Chi Chi Gonzalez|R|Justin Turner|R|Flyout|X|Cutter|11|0|0|1|9|87
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|C|Four-Seam Fastball|12|0|0|2|6|94
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|F|Four-Seam Fastball|13|0|1|2|6|94
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|B|Two-Seam Fastball|14|0|2|2|13|95
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|F|Two-Seam Fastball|15|1|2|2|13|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|B|Cutter|16|1|2|2|14|89
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|X|Two-Seam Fastball|17|2|2|2|13|93
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|B|Cutter|18|0|0|0|14|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|C|Cutter|19|1|0|0|5|88
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|C|Four-Seam Fastball|20|1|1|0|13|93
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|C|Four-Seam Fastball|21|1|2|0|13|94
+Chi Chi Gonzalez|R|Matt Beaty|L|Lineout|B|Two-Seam Fastball|22|0|0|1|13|93
+Chi Chi Gonzalez|R|Matt Beaty|L|Lineout|C|Two-Seam Fastball|23|1|0|1|13|92
+Chi Chi Gonzalez|R|Matt Beaty|L|Lineout|X|Four-Seam Fastball|24|1|1|1|12|94
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|C|Four-Seam Fastball|25|0|0|2|14|93
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|B|Four-Seam Fastball|26|0|1|2|14|93
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|S|Cutter|27|1|1|2|14|88
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|F|Cutter|28|1|2|2|8|85
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|B|Four-Seam Fastball|29|1|2|2|11|92
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|F|Four-Seam Fastball|30|2|2|2|4|93
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Pop Out|X|Cutter|31|2|2|2|4|87
+Chi Chi Gonzalez|R|Russell Martin|R|Walk|B|Four-Seam Fastball|32|0|0|0|14|91
+Chi Chi Gonzalez|R|Russell Martin|R|Walk|F|Cutter|33|1|0|0|14|87
+Chi Chi Gonzalez|R|Russell Martin|R|Walk|B|Four-Seam Fastball|34|1|1|0|13|91
+Chi Chi Gonzalez|R|Russell Martin|R|Walk|B|Four-Seam Fastball|35|2|1|0|14|92
+Chi Chi Gonzalez|R|Russell Martin|R|Walk|B|Two-Seam Fastball|36|3|1|0|13|91
+Chi Chi Gonzalez|R|Kristopher Negron|R|Flyout|S|Two-Seam Fastball|37|0|0|0|4|92
+Chi Chi Gonzalez|R|Kristopher Negron|R|Flyout|B|Two-Seam Fastball|38|0|1|0|11|92
+Chi Chi Gonzalez|R|Kristopher Negron|R|Flyout|*B|Cutter|39|1|1|0|14|86
+Chi Chi Gonzalez|R|Kristopher Negron|R|Flyout|B|Two-Seam Fastball|40|2|1|0|11|91
+Chi Chi Gonzalez|R|Kristopher Negron|R|Flyout|X|Four-Seam Fastball|41|3|1|0|5|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Single|C|Four-Seam Fastball|42|0|0|1|14|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Single|*B|Cutter|43|0|1|1|14|87
+Chi Chi Gonzalez|R|Gavin Lux|L|Single|S|Changeup|44|1|1|1|8|86
+Chi Chi Gonzalez|R|Gavin Lux|L|Single|D|Four-Seam Fastball|45|1|2|1|3|94
+Chi Chi Gonzalez|R|Corey Seager|L|Grounded Into DP|X|Four-Seam Fastball|46|0|0|1|9|93
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|C|Cutter|47|0|0|0|14|87
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|F|Four-Seam Fastball|48|0|1|0|8|92
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|X|Cutter|49|0|2|0|13|88
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|F|Two-Seam Fastball|50|0|0|1|13|92
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|B|Changeup|51|0|1|1|13|87
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|X|Four-Seam Fastball|52|1|1|1|6|93
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|F|Four-Seam Fastball|53|0|0|2|5|94
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|B|Changeup|54|0|1|2|11|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|S|Four-Seam Fastball|55|1|1|2|6|93
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|B|Four-Seam Fastball|56|1|2|2|11|94
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|X|Four-Seam Fastball|57|2|2|2|6|94
+Chi Chi Gonzalez|R|Matt Beaty|L|Flyout|C|Four-Seam Fastball|58|0|0|0|14|93
+Chi Chi Gonzalez|R|Matt Beaty|L|Flyout|B|Changeup|59|0|1|0|14|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Flyout|B|Changeup|60|1|1|0|14|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Flyout|X|Two-Seam Fastball|61|2|1|0|7|92
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Flyout|B|Cutter|62|0|0|1|14|89
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Flyout|B|Changeup|63|1|0|1|14|86
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|64|2|0|1|6|93
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|C|Four-Seam Fastball|65|0|0|2|13|94
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|B|Slider|66|0|1|2|14|82
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|F|Cutter|67|1|1|2|8|88
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|S|Four-Seam Fastball|68|1|2|2|8|93
+Chi Chi Gonzalez|R|Jedd Gyorko|R|Single|C|Cutter|69|0|0|0|11|87
+Chi Chi Gonzalez|R|Jedd Gyorko|R|Single|F|Two-Seam Fastball|70|0|1|0|13|91
+Chi Chi Gonzalez|R|Jedd Gyorko|R|Single|B|Four-Seam Fastball|71|0|2|0|11|91
+Chi Chi Gonzalez|R|Jedd Gyorko|R|Single|F|Cutter|72|1|2|0|8|87
+Chi Chi Gonzalez|R|Jedd Gyorko|R|Single|D|Cutter|73|1|2|0|14|84
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|S|Changeup|74|0|0|0|13|85
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Cutter|75|0|1|0|13|88
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Two-Seam Fastball|76|1|1|0|13|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|F|Changeup|77|2|1|0|5|85
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|B|Four-Seam Fastball|78|2|2|0|13|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Lineout|X|Four-Seam Fastball|79|3|2|0|3|94
+Chi Chi Gonzalez|R|Corey Seager|L|Groundout|F|Four-Seam Fastball|80|0|0|1|13|93
+Chi Chi Gonzalez|R|Corey Seager|L|Groundout|B|Two-Seam Fastball|81|0|1|1|13|92
+Chi Chi Gonzalez|R|Corey Seager|L|Groundout|X|Changeup|82|1|1|1|13|86
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|C|Cutter|83|0|0|2|4|88
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|X|Cutter|84|0|1|2|14|87
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|B|Cutter|85|0|0|0|14|87
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|B|Two-Seam Fastball|86|1|0|0|13|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|B|Two-Seam Fastball|87|2|0|0|13|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|C|Four-Seam Fastball|88|3|0|0|7|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|F|Two-Seam Fastball|89|3|1|0|4|92
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|F|Four-Seam Fastball|90|3|2|0|13|92
+Chi Chi Gonzalez|R|Cody Bellinger|L|Walk|B|Changeup|91|3|2|0|14|86
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|S|Cutter|92|0|0|0|14|88
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|S|Cutter|93|0|1|0|14|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|B|Cutter|94|0|2|0|13|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Strikeout|C|Cutter|95|1|2|0|7|87
+Chi Chi Gonzalez|R|Matt Beaty|L|Single|C|Cutter|96|0|0|1|7|86
+Chi Chi Gonzalez|R|Matt Beaty|L|Single|B|Two-Seam Fastball|97|0|1|1|13|92
+Chi Chi Gonzalez|R|Matt Beaty|L|Single|B|Four-Seam Fastball|98|1|1|1|13|93
+Chi Chi Gonzalez|R|Matt Beaty|L|Single|F|Changeup|99|2|1|1|14|86
+Chi Chi Gonzalez|R|Matt Beaty|L|Single|D|Cutter|100|2|2|1|13|87
+Chi Chi Gonzalez|R|Walker Buehler|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|7|91
+Chi Chi Gonzalez|R|Walker Buehler|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|6|92
+Chi Chi Gonzalez|R|Walker Buehler|R|Strikeout|F|Cutter|2|1|1|0|8|87
+Chi Chi Gonzalez|R|Walker Buehler|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|8|93
+Chi Chi Gonzalez|R|Walker Buehler|R|Strikeout|C|Slider|4|1|2|0|2|83
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|5|0|0|1|3|93
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|B|Changeup|6|0|1|1|14|88
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|F|Cutter|7|1|1|1|7|87
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|B|Cutter|8|1|2|1|14|84
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|W|Changeup|9|2|2|1|13|88
+Chi Chi Gonzalez|R|Justin Turner|R|Lineout|C|Cutter|10|0|0|2|11|86
+Chi Chi Gonzalez|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|11|0|1|2|11|92
+Chi Chi Gonzalez|R|Justin Turner|R|Lineout|X|Cutter|12|1|1|2|9|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Flyout|C|Two-Seam Fastball|13|0|0|0|7|91
+Chi Chi Gonzalez|R|A.J. Pollock|R|Flyout|B|Changeup|14|0|1|0|14|86
+Chi Chi Gonzalez|R|A.J. Pollock|R|Flyout|X|Four-Seam Fastball|15|1|1|0|8|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Field Error|C|Four-Seam Fastball|16|0|0|1|13|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Field Error|B|Four-Seam Fastball|17|0|1|1|12|93
+Chi Chi Gonzalez|R|Cody Bellinger|L|Field Error|D|Four-Seam Fastball|18|1|1|1|2|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|19|0|0|1|8|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|B|Two-Seam Fastball|20|0|1|1|13|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|S|Cutter|21|1|1|1|14|87
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|B|Slider|22|1|2|1|14|81
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|*B|Slider|23|2|2|1|14|82
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|S|Changeup|24|3|2|1|13|86
+Chi Chi Gonzalez|R|Corey Seager|L|Triple|B|Changeup|25|0|0|2|11|86
+Chi Chi Gonzalez|R|Corey Seager|L|Triple|E|Two-Seam Fastball|26|1|0|2|13|92
+Chi Chi Gonzalez|R|Russell Martin|R|Single|E|Cutter|27|0|0|2|9|88
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|C|Cutter|28|0|0|2|7|87
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|B|Four-Seam Fastball|29|0|1|2|14|94
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|B|Four-Seam Fastball|30|1|1|2|14|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|S|Changeup|31|2|1|2|8|86
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|S|Four-Seam Fastball|32|2|2|2|3|93
+Chi Chi Gonzalez|R|Walker Buehler|R|Groundout|C|Four-Seam Fastball|33|0|0|0|2|91
+Chi Chi Gonzalez|R|Walker Buehler|R|Groundout|F|Four-Seam Fastball|34|0|1|0|6|91
+Chi Chi Gonzalez|R|Walker Buehler|R|Groundout|F|Cutter|35|0|2|0|5|85
+Chi Chi Gonzalez|R|Walker Buehler|R|Groundout|X|Four-Seam Fastball|36|0|2|0|9|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|B|Two-Seam Fastball|37|0|0|1|13|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|C|Two-Seam Fastball|38|1|0|1|13|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|B|Changeup|39|1|1|1|14|86
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|B|Cutter|40|2|1|1|14|88
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|S|Cutter|41|3|1|1|5|87
+Chi Chi Gonzalez|R|Joc Pederson|L|Walk|B|Cutter|42|3|2|1|14|88
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Strikeout|C|Cutter|43|0|0|1|9|88
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Strikeout|S|Changeup|44|0|1|1|14|85
+Chi Chi Gonzalez|R|Enrique Hernandez|R|Strikeout|S|Changeup|45|0|2|1|14|86
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|B|Changeup|46|0|0|2|13|86
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|F|Four-Seam Fastball|47|1|0|2|5|92
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|C|Cutter|48|1|1|2|8|87
+Chi Chi Gonzalez|R|A.J. Pollock|R|Pop Out|X|Cutter|49|1|2|2|8|88
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|B|Two-Seam Fastball|50|0|0|0|14|91
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|S|Changeup|51|1|0|0|14|85
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|T|Changeup|52|1|1|0|13|85
+Chi Chi Gonzalez|R|Cody Bellinger|L|Groundout|X|Cutter|53|1|2|0|7|88
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|F|Changeup|54|0|0|1|7|86
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|55|0|1|1|12|91
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|C|Four-Seam Fastball|56|1|1|1|14|92
+Chi Chi Gonzalez|R|Chris Taylor|R|Strikeout|S|Changeup|57|1|2|1|14|87
+Chi Chi Gonzalez|R|Corey Seager|L|Strikeout|S|Four-Seam Fastball|58|0|0|2|12|91
+Chi Chi Gonzalez|R|Corey Seager|L|Strikeout|S|Four-Seam Fastball|59|0|1|2|11|92
+Chi Chi Gonzalez|R|Corey Seager|L|Strikeout|S|Changeup|60|0|2|2|14|87
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|B|Changeup|61|0|0|0|14|85
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|C|Four-Seam Fastball|62|1|0|0|13|91
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|F|Changeup|63|1|1|0|11|85
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|B|Slider|64|1|2|0|13|81
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|65|2|2|0|13|93
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|66|3|2|0|8|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|C|Four-Seam Fastball|67|0|0|1|14|93
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|B|Cutter|68|0|1|1|14|87
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|B|Two-Seam Fastball|69|1|1|1|13|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|F|Slider|70|2|1|1|9|82
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|F|Four-Seam Fastball|71|2|2|1|2|92
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|B|Cutter|72|2|2|1|11|86
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|F|Changeup|73|3|2|1|13|85
+Chi Chi Gonzalez|R|Gavin Lux|L|Strikeout|W|Changeup|74|3|2|1|14|86
+Chi Chi Gonzalez|R|Matt Beaty|L|Groundout|B|Slider|75|0|0|2|11|79
+Chi Chi Gonzalez|R|Matt Beaty|L|Groundout|C|Changeup|76|1|0|2|11|85
+Chi Chi Gonzalez|R|Matt Beaty|L|Groundout|B|Cutter|77|1|1|2|14|86
+Chi Chi Gonzalez|R|Matt Beaty|L|Groundout|X|Four-Seam Fastball|78|2|1|2|6|92
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Flyout|F|Two-Seam Fastball|0|0|0|0|7|91
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Flyout|X|Cutter|1|0|1|0|6|87
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Two-Seam Fastball|2|0|0|1|14|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Changeup|3|1|0|1|13|86
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Cutter|4|2|0|1|11|85
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|C|Two-Seam Fastball|5|3|0|1|4|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|F|Two-Seam Fastball|6|3|1|1|8|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|F|Four-Seam Fastball|7|3|2|1|11|93
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Cutter|8|3|2|1|11|84
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|B|Four-Seam Fastball|9|0|0|1|14|92
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|C|Cutter|10|1|0|1|9|85
+Chi Chi Gonzalez|R|Manny Machado|R|Flyout|X|Two-Seam Fastball|11|1|1|1|3|91
+Chi Chi Gonzalez|R|Eric Hosmer|L|Flyout|F|Two-Seam Fastball|12|0|0|2|7|90
+Chi Chi Gonzalez|R|Eric Hosmer|L|Flyout|B|Four-Seam Fastball|13|0|1|2|12|93
+Chi Chi Gonzalez|R|Eric Hosmer|L|Flyout|X|Four-Seam Fastball|14|1|1|2|6|93
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Double|B|Cutter|15|0|0|0|14|86
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Double|C|Four-Seam Fastball|16|1|0|0|14|92
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Double|B|Four-Seam Fastball|17|1|1|0|14|91
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Double|D|Cutter|18|2|1|0|7|86
+Chi Chi Gonzalez|R|Manuel Margot|R|Single|F|Two-Seam Fastball|19|0|0|0|6|90
+Chi Chi Gonzalez|R|Manuel Margot|R|Single|D|Cutter|20|0|1|0|2|85
+Chi Chi Gonzalez|R|Luis Urias|R|Groundout|C|Cutter|21|0|0|0|2|85
+Chi Chi Gonzalez|R|Luis Urias|R|Groundout|B|Two-Seam Fastball|22|0|1|0|14|92
+Chi Chi Gonzalez|R|Luis Urias|R|Groundout|F|Slider|23|1|1|0|14|82
+Chi Chi Gonzalez|R|Luis Urias|R|Groundout|B|Cutter|24|1|2|0|11|86
+Chi Chi Gonzalez|R|Luis Urias|R|Groundout|E|Cutter|25|2|2|0|14|86
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|B|Cutter|26|0|0|1|14|87
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|B|Two-Seam Fastball|27|1|0|1|12|91
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|C|Cutter|28|2|0|1|9|87
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|B|Two-Seam Fastball|29|2|1|1|14|92
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|T|Cutter|30|3|1|1|5|86
+Chi Chi Gonzalez|R|Austin Hedges|R|Pop Out|X|Cutter|31|3|2|1|6|85
+Chi Chi Gonzalez|R|Chris Paddack|R|Strikeout|C|Cutter|32|0|0|2|5|85
+Chi Chi Gonzalez|R|Chris Paddack|R|Strikeout|B|Two-Seam Fastball|33|0|1|2|14|91
+Chi Chi Gonzalez|R|Chris Paddack|R|Strikeout|B|Cutter|34|1|1|2|14|85
+Chi Chi Gonzalez|R|Chris Paddack|R|Strikeout|F|Four-Seam Fastball|35|2|1|2|4|91
+Chi Chi Gonzalez|R|Chris Paddack|R|Strikeout|C|Cutter|36|2|2|2|11|85
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Groundout|B|Four-Seam Fastball|37|0|0|0|14|91
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Groundout|X|Two-Seam Fastball|38|1|0|0|1|89
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Slider|39|0|0|1|13|80
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Changeup|40|1|0|1|13|84
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Two-Seam Fastball|41|2|0|1|14|89
+Chi Chi Gonzalez|R|Josh Naylor|L|Walk|B|Two-Seam Fastball|42|3|0|1|11|89
+Chi Chi Gonzalez|R|Manny Machado|R|Strikeout|F|Two-Seam Fastball|43|0|0|1|3|89
+Chi Chi Gonzalez|R|Manny Machado|R|Strikeout|F|Changeup|44|0|1|1|4|85
+Chi Chi Gonzalez|R|Manny Machado|R|Strikeout|S|Four-Seam Fastball|45|0|2|1|8|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|B|Changeup|46|0|0|2|13|87
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|C|Cutter|47|1|0|2|4|84
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|48|1|1|2|6|91
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Home Run|C|Four-Seam Fastball|49|0|0|0|8|90
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Home Run|E|Four-Seam Fastball|50|0|1|0|6|91
+Chi Chi Gonzalez|R|Manuel Margot|R|Pop Out|B|Cutter|51|0|0|0|14|85
+Chi Chi Gonzalez|R|Manuel Margot|R|Pop Out|B|Four-Seam Fastball|52|1|0|0|14|91
+Chi Chi Gonzalez|R|Manuel Margot|R|Pop Out|S|Cutter|53|2|0|0|14|85
+Chi Chi Gonzalez|R|Manuel Margot|R|Pop Out|X|Cutter|54|2|1|0|8|84
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|B|Four-Seam Fastball|55|0|0|1|11|91
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|B|Slider|56|1|0|1|14|80
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|B|Four-Seam Fastball|57|2|0|1|12|90
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|C|Four-Seam Fastball|58|3|0|1|8|90
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|C|Four-Seam Fastball|59|3|1|1|1|91
+Chi Chi Gonzalez|R|Luis Urias|R|Pop Out|X|Cutter|60|3|2|1|4|84
+Chi Chi Gonzalez|R|Austin Hedges|R|Double|F|Four-Seam Fastball|61|0|0|2|6|90
+Chi Chi Gonzalez|R|Austin Hedges|R|Double|D|Slider|62|0|1|2|4|81
+Chi Chi Gonzalez|R|Chris Paddack|R|Groundout|B|Cutter|63|0|0|2|14|83
+Chi Chi Gonzalez|R|Chris Paddack|R|Groundout|C|Changeup|64|1|0|2|14|89
+Chi Chi Gonzalez|R|Chris Paddack|R|Groundout|*B|Cutter|65|1|1|2|14|83
+Chi Chi Gonzalez|R|Chris Paddack|R|Groundout|X|Four-Seam Fastball|66|2|1|2|6|90
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Groundout|B|Cutter|67|0|0|0|11|83
+Chi Chi Gonzalez|R|Fernando Tatis Jr.|R|Groundout|X|Changeup|68|1|0|0|1|87
+Chi Chi Gonzalez|R|Josh Naylor|L|Double|B|Slider|69|0|0|1|14|80
+Chi Chi Gonzalez|R|Josh Naylor|L|Double|F|Four-Seam Fastball|70|1|0|1|3|91
+Chi Chi Gonzalez|R|Josh Naylor|L|Double|S|Changeup|71|1|1|1|13|86
+Chi Chi Gonzalez|R|Josh Naylor|L|Double|D|Four-Seam Fastball|72|1|2|1|2|91
+Chi Chi Gonzalez|R|Manny Machado|R|Double|E|Four-Seam Fastball|73|0|0|1|5|91
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|S|Cutter|74|0|0|1|7|85
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|B|Changeup|75|0|1|1|14|86
+Chi Chi Gonzalez|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|76|1|1|1|3|91
+Chi Chi Gonzalez|R|Hunter Renfroe|R|Double|E|Cutter|77|0|0|2|8|84
+Chi Chi Gonzalez|R|Manuel Margot|R|Single|F|Four-Seam Fastball|78|0|0|2|6|91
+Chi Chi Gonzalez|R|Manuel Margot|R|Single|E|Cutter|79|0|1|2|4|84
+Chi Chi Gonzalez|R|Luis Urias|R|Strikeout|C|Slider|80|0|0|2|1|80
+Chi Chi Gonzalez|R|Luis Urias|R|Strikeout|F|Four-Seam Fastball|81|0|1|2|8|90
+Chi Chi Gonzalez|R|Luis Urias|R|Strikeout|*B|Slider|82|0|2|2|14|81
+Chi Chi Gonzalez|R|Luis Urias|R|Strikeout|F|Slider|83|1|2|2|4|80
+Chi Chi Gonzalez|R|Luis Urias|R|Strikeout|S|Two-Seam Fastball|84|1|2|2|11|89
+Chi Chi Gonzalez|R|Brandon Belt|L|Strikeout|C|Cutter|0|0|0|0|4|88
+Chi Chi Gonzalez|R|Brandon Belt|L|Strikeout|F|Cutter|1|0|1|0|8|84
+Chi Chi Gonzalez|R|Brandon Belt|L|Strikeout|C|Two-Seam Fastball|2|0|2|0|11|90
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|C|Two-Seam Fastball|3|0|0|1|9|89
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Changeup|4|0|1|1|13|86
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|5|1|1|1|14|90
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|C|Cutter|6|2|1|1|7|84
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|7|2|2|1|8|92
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|B|Cutter|8|2|2|1|14|86
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Cutter|9|3|2|1|14|85
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|10|3|2|1|5|90
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|11|3|2|1|8|92
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|12|3|2|1|7|92
+Chi Chi Gonzalez|R|Buster Posey|R|Strikeout|B|Four-Seam Fastball|13|0|0|2|14|92
+Chi Chi Gonzalez|R|Buster Posey|R|Strikeout|B|Four-Seam Fastball|14|1|0|2|11|92
+Chi Chi Gonzalez|R|Buster Posey|R|Strikeout|F|Four-Seam Fastball|15|2|0|2|4|90
+Chi Chi Gonzalez|R|Buster Posey|R|Strikeout|S|Cutter|16|2|1|2|14|86
+Chi Chi Gonzalez|R|Buster Posey|R|Strikeout|S|Four-Seam Fastball|17|2|2|2|9|93
+Chi Chi Gonzalez|R|Alex Dickerson|L|Walk|C|Four-Seam Fastball|18|0|0|0|5|90
+Chi Chi Gonzalez|R|Alex Dickerson|L|Walk|B|Changeup|19|0|1|0|14|85
+Chi Chi Gonzalez|R|Alex Dickerson|L|Walk|B|Cutter|20|1|1|0|13|86
+Chi Chi Gonzalez|R|Alex Dickerson|L|Walk|B|Slider|21|2|1|0|11|83
+Chi Chi Gonzalez|R|Alex Dickerson|L|Walk|*B|Two-Seam Fastball|22|3|1|0|14|90
+Chi Chi Gonzalez|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|23|0|0|0|14|91
+Chi Chi Gonzalez|R|Kevin Pillar|R|Strikeout|S|Cutter|24|0|1|0|14|86
+Chi Chi Gonzalez|R|Kevin Pillar|R|Strikeout|S|Cutter|25|0|2|0|14|86
+Chi Chi Gonzalez|R|Evan Longoria|R|Grounded Into DP|*B|Two-Seam Fastball|26|0|0|1|13|90
+Chi Chi Gonzalez|R|Evan Longoria|R|Grounded Into DP|B|Four-Seam Fastball|27|1|0|1|11|90
+Chi Chi Gonzalez|R|Evan Longoria|R|Grounded Into DP|X|Four-Seam Fastball|28|2|0|1|8|91
+Chi Chi Gonzalez|R|Brandon Crawford|L|Single|D|Two-Seam Fastball|29|0|0|0|8|89
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|B|Two-Seam Fastball|30|0|0|0|14|91
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|B|Cutter|31|1|0|0|14|85
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|B|Cutter|32|2|0|0|14|85
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|C|Four-Seam Fastball|33|3|0|0|6|90
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|F|Four-Seam Fastball|34|3|1|0|14|90
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|F|Cutter|35|3|2|0|9|86
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|D|Four-Seam Fastball|36|3|2|0|4|92
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Fielders Choice Out|X|Cutter|37|0|0|0|5|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|B|Cutter|38|0|0|1|13|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|F|Cutter|39|1|0|1|7|86
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|F|Four-Seam Fastball|40|1|1|1|14|91
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|B|Four-Seam Fastball|41|1|2|1|11|92
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|F|Changeup|42|2|2|1|13|89
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|F|Four-Seam Fastball|43|2|2|1|6|93
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|*B|Slider|44|2|2|1|14|82
+Chi Chi Gonzalez|R|Brandon Belt|L|Sac Fly|E|Cutter|45|3|2|1|13|87
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Cutter|46|0|0|2|14|86
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|47|1|0|2|14|91
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Cutter|48|2|0|2|13|83
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|C|Four-Seam Fastball|49|3|0|2|8|91
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|C|Cutter|50|3|1|2|11|84
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|51|3|2|2|11|91
+Chi Chi Gonzalez|R|Buster Posey|R|Groundout|B|Cutter|52|0|0|2|14|86
+Chi Chi Gonzalez|R|Buster Posey|R|Groundout|B|Four-Seam Fastball|53|1|0|2|14|91
+Chi Chi Gonzalez|R|Buster Posey|R|Groundout|C|Cutter|54|2|0|2|5|86
+Chi Chi Gonzalez|R|Buster Posey|R|Groundout|C|Cutter|55|2|1|2|4|86
+Chi Chi Gonzalez|R|Buster Posey|R|Groundout|X|Four-Seam Fastball|56|2|2|2|14|91
+Chi Chi Gonzalez|R|Alex Dickerson|L|Single|D|Cutter|57|0|0|0|6|88
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|B|Cutter|58|0|0|0|14|85
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|B|Four-Seam Fastball|59|1|0|0|14|90
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|X|Cutter|60|2|0|0|9|84
+Chi Chi Gonzalez|R|Evan Longoria|R|Lineout|X|Four-Seam Fastball|61|0|0|1|4|90
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|T|Four-Seam Fastball|62|0|0|2|12|91
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Changeup|63|0|1|2|13|86
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Changeup|64|1|1|2|13|86
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|F|Cutter|65|2|1|2|5|85
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Changeup|66|2|2|2|14|86
+Chi Chi Gonzalez|R|Brandon Crawford|L|Walk|B|Cutter|67|3|2|2|13|86
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|F|Cutter|68|0|0|2|14|86
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|B|Four-Seam Fastball|69|0|1|2|11|90
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|B|Slider|70|1|1|2|11|83
+Chi Chi Gonzalez|R|Donovan Solano|R|Single|E|Slider|71|2|1|2|7|83
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|B|Cutter|72|0|0|2|14|85
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|B|Slider|73|1|0|2|11|83
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|S|Four-Seam Fastball|74|2|0|2|2|90
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|C|Four-Seam Fastball|75|2|1|2|5|89
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|B|Cutter|76|2|2|2|14|84
+Chi Chi Gonzalez|R|Madison Bumgarner|R|Single|E|Four-Seam Fastball|77|3|2|2|6|89
+Chi Chi Gonzalez|R|Brandon Belt|L|Groundout|B|Cutter|78|0|0|2|13|85
+Chi Chi Gonzalez|R|Brandon Belt|L|Groundout|B|Cutter|79|1|0|2|13|89
+Chi Chi Gonzalez|R|Brandon Belt|L|Groundout|S|Cutter|80|2|0|2|13|84
+Chi Chi Gonzalez|R|Brandon Belt|L|Groundout|X|Cutter|81|2|1|2|4|85
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|82|0|0|0|13|90
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Changeup|83|1|0|0|14|88
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Cutter|84|2|0|0|14|89
+Chi Chi Gonzalez|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|85|3|0|0|14|89
+Chi Chi Gonzalez|R|Buster Posey|R|Grounded Into DP|X|Cutter|86|0|0|0|14|84
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|C|Slider|87|0|0|2|8|82
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|B|Changeup|88|0|1|2|13|86
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|F|Slider|89|1|1|2|14|81
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|F|Four-Seam Fastball|90|1|2|2|12|91
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|B|Cutter|91|1|2|2|14|86
+Chi Chi Gonzalez|R|Alex Dickerson|L|Double|D|Four-Seam Fastball|92|2|2|2|8|91
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|X|Four-Seam Fastball|93|0|0|2|6|91
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Two-Seam Fastball|0|0|0|0|13|90
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Two-Seam Fastball|1|1|0|0|13|90
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|C|Four-Seam Fastball|2|2|0|0|4|92
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|C|Two-Seam Fastball|3|2|1|0|7|90
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|F|Four-Seam Fastball|4|2|2|0|6|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Changeup|5|2|2|0|14|86
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|6|3|2|0|13|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Single|F|Four-Seam Fastball|7|0|0|0|9|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Single|D|Two-Seam Fastball|8|0|1|0|13|91
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Flyout|C|Four-Seam Fastball|9|0|0|0|13|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Flyout|*B|Four-Seam Fastball|10|0|1|0|14|93
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|11|1|1|0|12|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Flyout|X|Changeup|12|2|1|0|8|87
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Single|E|Four-Seam Fastball|13|0|0|1|5|92
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|*B|Two-Seam Fastball|14|0|0|1|13|93
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|C|Slider|15|1|0|1|14|82
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|T|Four-Seam Fastball|16|1|1|1|6|92
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|*B|Cutter|17|1|2|1|14|88
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|B|Cutter|18|2|2|1|14|87
+Chi Chi Gonzalez|R|Paul DeJong|R|Forceout|X|Cutter|19|3|2|1|9|88
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|B|Two-Seam Fastball|20|0|0|2|11|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|*B|Slider|21|1|0|2|14|82
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|B|Cutter|22|2|0|2|11|86
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|F|Four-Seam Fastball|23|3|0|2|7|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|C|Four-Seam Fastball|24|3|1|2|9|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Groundout|X|Two-Seam Fastball|25|3|2|2|14|92
+Chi Chi Gonzalez|R|Tommy Edman|L|Walk|C|Slider|26|0|0|0|1|82
+Chi Chi Gonzalez|R|Tommy Edman|L|Walk|B|Cutter|27|0|1|0|14|87
+Chi Chi Gonzalez|R|Tommy Edman|L|Walk|B|Cutter|28|1|1|0|13|86
+Chi Chi Gonzalez|R|Tommy Edman|L|Walk|B|Two-Seam Fastball|29|2|1|0|11|90
+Chi Chi Gonzalez|R|Tommy Edman|L|Walk|B|Four-Seam Fastball|30|3|1|0|11|91
+Chi Chi Gonzalez|R|Harrison Bader|R|Home Run|C|Four-Seam Fastball|31|0|0|0|5|91
+Chi Chi Gonzalez|R|Harrison Bader|R|Home Run|B|Two-Seam Fastball|32|0|1|0|13|90
+Chi Chi Gonzalez|R|Harrison Bader|R|Home Run|E|Two-Seam Fastball|33|1|1|0|5|90
+Chi Chi Gonzalez|R|Dakota Hudson|R|Lineout|X|Four-Seam Fastball|34|0|0|0|1|91
+Chi Chi Gonzalez|R|Dexter Fowler|L|Strikeout|B|Two-Seam Fastball|35|0|0|1|13|90
+Chi Chi Gonzalez|R|Dexter Fowler|L|Strikeout|C|Cutter|36|1|0|1|8|86
+Chi Chi Gonzalez|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|37|1|1|1|7|91
+Chi Chi Gonzalez|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|38|1|2|1|14|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Flyout|C|Four-Seam Fastball|39|0|0|2|4|92
+Chi Chi Gonzalez|R|Kolten Wong|L|Flyout|X|Cutter|40|0|1|2|9|88
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|B|Cutter|41|0|0|0|14|87
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|C|Four-Seam Fastball|42|1|0|0|14|92
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Groundout|X|Two-Seam Fastball|43|1|1|0|13|92
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|44|0|0|1|11|91
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|45|1|0|1|14|93
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|46|2|0|1|4|93
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|B|Two-Seam Fastball|47|2|1|1|13|92
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|48|3|1|1|5|92
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Strikeout|S|Changeup|49|3|2|1|13|86
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|C|Cutter|50|0|0|2|14|88
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|B|Cutter|51|0|1|2|11|84
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|B|Changeup|52|1|1|2|14|87
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|S|Four-Seam Fastball|53|2|1|2|1|92
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|B|Cutter|54|2|2|2|14|84
+Chi Chi Gonzalez|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|55|3|2|2|14|92
+Chi Chi Gonzalez|R|Yadier Molina|R|Flyout|*B|Cutter|56|0|0|2|14|87
+Chi Chi Gonzalez|R|Yadier Molina|R|Flyout|C|Slider|57|1|0|2|8|81
+Chi Chi Gonzalez|R|Yadier Molina|R|Flyout|X|Four-Seam Fastball|58|1|1|2|13|92
+Chi Chi Gonzalez|R|Tommy Edman|L|Lineout|B|Four-Seam Fastball|59|0|0|0|11|88
+Chi Chi Gonzalez|R|Tommy Edman|L|Lineout|X|Cutter|60|1|0|0|6|85
+Chi Chi Gonzalez|R|Harrison Bader|R|Groundout|B|Changeup|61|0|0|1|14|85
+Chi Chi Gonzalez|R|Harrison Bader|R|Groundout|X|Cutter|62|1|0|1|6|87
+Chi Chi Gonzalez|R|Dakota Hudson|R|Flyout|B|Four-Seam Fastball|63|0|0|2|13|91
+Chi Chi Gonzalez|R|Dakota Hudson|R|Flyout|C|Cutter|64|1|0|2|11|86
+Chi Chi Gonzalez|R|Dakota Hudson|R|Flyout|X|Cutter|65|1|1|2|8|86
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|C|Cutter|66|0|0|0|14|87
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Cutter|67|0|1|0|14|84
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|C|Four-Seam Fastball|68|1|1|0|13|91
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|F|Changeup|69|1|2|0|13|88
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|70|1|2|0|12|93
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|B|Changeup|71|2|2|0|14|87
+Chi Chi Gonzalez|R|Dexter Fowler|L|Walk|*B|Changeup|72|3|2|0|14|87
+Chi Chi Gonzalez|R|Kolten Wong|L|Pop Out|C|Changeup|73|0|0|0|6|85
+Chi Chi Gonzalez|R|Kolten Wong|L|Pop Out|F|Changeup|74|0|1|0|11|87
+Chi Chi Gonzalez|R|Kolten Wong|L|Pop Out|X|Cutter|75|0|2|0|6|83
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|76|0|0|1|7|93
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|*B|Cutter|77|0|1|1|14|84
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|78|1|1|1|14|91
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|S|Cutter|79|2|1|1|1|88
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|B|Cutter|80|2|2|1|14|86
+Chi Chi Gonzalez|R|Paul Goldschmidt|R|Walk|*B|Four-Seam Fastball|81|3|2|1|14|93
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Walk|B|Cutter|82|0|0|1|14|87
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Walk|B|Cutter|83|1|0|1|13|86
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Walk|B|Changeup|84|2|0|1|13|86
+Chi Chi Gonzalez|R|Marcell Ozuna|R|Walk|B|Cutter|85|3|0|1|14|87
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|C|Four-Seam Fastball|0|0|0|0|4|89
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|F|Four-Seam Fastball|1|0|1|0|5|90
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|F|Slider|2|0|2|0|5|85
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|X|Two-Seam Fastball|3|0|2|0|11|91
+Chi Chi Gonzalez|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|4|0|0|1|8|92
+Chi Chi Gonzalez|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|5|0|1|1|14|93
+Chi Chi Gonzalez|R|Mookie Betts|R|Walk|B|Two-Seam Fastball|6|1|1|1|13|91
+Chi Chi Gonzalez|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|7|2|1|1|14|91
+Chi Chi Gonzalez|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|8|3|1|1|11|91
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|B|Two-Seam Fastball|9|0|0|1|11|89
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|C|Four-Seam Fastball|10|1|0|1|8|89
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|B|Two-Seam Fastball|11|1|1|1|11|90
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|B|Changeup|12|2|1|1|13|85
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|F|Four-Seam Fastball|13|3|1|1|4|90
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|X|Two-Seam Fastball|14|3|2|1|4|89
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Strikeout|B|Two-Seam Fastball|15|0|0|2|11|89
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Strikeout|F|Slider|16|1|0|2|14|85
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Strikeout|B|Two-Seam Fastball|17|1|1|2|11|90
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Strikeout|C|Two-Seam Fastball|18|2|1|2|11|90
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Strikeout|C|Slider|19|2|2|2|7|86
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Groundout|C|Four-Seam Fastball|20|0|0|0|8|88
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Groundout|X|Two-Seam Fastball|21|0|1|0|13|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|22|0|0|1|3|89
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|C|Two-Seam Fastball|23|0|1|1|7|89
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Changeup|24|0|2|1|13|87
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Slider|25|1|2|1|6|85
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|26|1|2|1|11|92
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|27|2|2|1|11|91
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|28|3|2|1|5|92
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Two-Seam Fastball|29|3|2|1|11|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Two-Seam Fastball|30|3|2|1|13|91
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|*B|Four-Seam Fastball|31|0|0|1|14|91
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|F|Four-Seam Fastball|32|1|0|1|5|89
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|B|Four-Seam Fastball|33|1|1|1|14|91
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|X|Two-Seam Fastball|34|2|1|1|13|90
+Chi Chi Gonzalez|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|35|0|0|2|9|91
+Chi Chi Gonzalez|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|36|1|0|2|9|90
+Chi Chi Gonzalez|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|37|2|0|2|14|91
+Chi Chi Gonzalez|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|38|3|0|2|13|90
+Chi Chi Gonzalez|R|Rusney Castillo|R|Strikeout|F|Two-Seam Fastball|39|0|0|2|13|91
+Chi Chi Gonzalez|R|Rusney Castillo|R|Strikeout|C|Four-Seam Fastball|40|0|1|2|11|90
+Chi Chi Gonzalez|R|Rusney Castillo|R|Strikeout|S|Two-Seam Fastball|41|0|2|2|11|91
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|C|Slider|42|0|0|0|8|83
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|B|Slider|43|0|1|0|14|86
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Groundout|X|Curveball|44|1|1|0|7|80
+Chi Chi Gonzalez|R|Mookie Betts|R|Flyout|C|Slider|45|0|0|1|7|84
+Chi Chi Gonzalez|R|Mookie Betts|R|Flyout|X|Four-Seam Fastball|46|0|1|1|8|91
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|C|Four-Seam Fastball|47|0|0|2|13|91
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|C|Curveball|48|0|1|2|13|82
+Chi Chi Gonzalez|R|David Ortiz|L|Groundout|X|Four-Seam Fastball|49|0|2|2|5|93
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Flyout|C|Slider|50|0|0|0|4|83
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Flyout|S|Slider|51|0|1|0|7|84
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Flyout|X|Four-Seam Fastball|52|0|2|0|7|90
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Groundout|X|Changeup|53|0|0|1|13|85
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|54|0|0|2|11|89
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|C|Slider|55|1|0|2|1|85
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Changeup|56|1|1|2|13|85
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|57|2|1|2|4|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|58|2|2|2|1|91
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Slider|59|2|2|2|13|87
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Four-Seam Fastball|60|3|2|2|2|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|F|Changeup|61|3|2|2|9|86
+Chi Chi Gonzalez|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|62|3|2|2|11|91
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|*B|Curveball|63|0|0|2|14|80
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|C|Four-Seam Fastball|64|1|0|2|1|91
+Chi Chi Gonzalez|R|Brock Holt|L|Forceout|X|Changeup|65|1|1|2|13|86
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|C|Four-Seam Fastball|66|0|0|0|13|88
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|B|Curveball|67|0|1|0|11|79
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|F|Changeup|68|1|1|0|14|83
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|F|Four-Seam Fastball|69|1|2|0|14|90
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|F|Slider|70|1|2|0|7|85
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|B|Curveball|71|1|2|0|11|79
+Chi Chi Gonzalez|R|Sandy Leon|L|Groundout|X|Two-Seam Fastball|72|2|2|0|13|90
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|B|Two-Seam Fastball|73|0|0|1|13|89
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|B|Slider|74|1|0|1|14|85
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|B|Two-Seam Fastball|75|2|0|1|13|90
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|C|Four-Seam Fastball|76|3|0|1|7|91
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|F|Two-Seam Fastball|77|3|1|1|13|91
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|F|Four-Seam Fastball|78|3|2|1|4|90
+Chi Chi Gonzalez|R|Rusney Castillo|R|Walk|B|Two-Seam Fastball|79|3|2|1|11|90
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Flyout|B|Two-Seam Fastball|80|0|0|1|13|90
+Chi Chi Gonzalez|R|Dustin Pedroia|R|Flyout|X|Four-Seam Fastball|81|1|0|1|1|90
+Chi Chi Gonzalez|R|Mookie Betts|R|Groundout|C|Four-Seam Fastball|82|0|0|2|2|90
+Chi Chi Gonzalez|R|Mookie Betts|R|Groundout|B|Slider|83|0|1|2|14|87
+Chi Chi Gonzalez|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|84|1|1|2|14|91
+Chi Chi Gonzalez|R|Mookie Betts|R|Groundout|B|Slider|85|2|1|2|14|85
+Chi Chi Gonzalez|R|Mookie Betts|R|Groundout|X|Four-Seam Fastball|86|3|1|2|14|90
+Chi Chi Gonzalez|R|David Ortiz|L|Double|B|Four-Seam Fastball|87|0|0|0|11|88
+Chi Chi Gonzalez|R|David Ortiz|L|Double|F|Four-Seam Fastball|88|1|0|0|4|88
+Chi Chi Gonzalez|R|David Ortiz|L|Double|B|Changeup|89|1|1|0|13|85
+Chi Chi Gonzalez|R|David Ortiz|L|Double|F|Four-Seam Fastball|90|2|1|0|7|90
+Chi Chi Gonzalez|R|David Ortiz|L|Double|B|Curveball|91|2|2|0|13|78
+Chi Chi Gonzalez|R|David Ortiz|L|Double|D|Four-Seam Fastball|92|3|2|0|4|89
+Chi Chi Gonzalez|R|Hanley Ramirez|R|Groundout|X|Two-Seam Fastball|93|0|0|0|13|91
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Fielders Choice Out|B|Four-Seam Fastball|94|0|0|1|14|90
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Fielders Choice Out|B|Two-Seam Fastball|95|1|0|1|11|90
+Chi Chi Gonzalez|R|Pablo Sandoval|L|Fielders Choice Out|X|Four-Seam Fastball|96|2|0|1|4|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Double|*B|Curveball|97|0|0|2|14|79
+Chi Chi Gonzalez|R|Mike Napoli|R|Double|C|Slider|98|1|0|2|5|84
+Chi Chi Gonzalez|R|Mike Napoli|R|Double|S|Four-Seam Fastball|99|1|1|2|5|91
+Chi Chi Gonzalez|R|Mike Napoli|R|Double|B|Four-Seam Fastball|100|1|2|2|11|90
+Chi Chi Gonzalez|R|Mike Napoli|R|Double|D|Four-Seam Fastball|101|2|2|2|2|91
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|B|Two-Seam Fastball|0|0|0|0|14|91
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|S|Four-Seam Fastball|1|1|0|0|6|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|B|Four-Seam Fastball|2|1|1|0|14|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|F|Four-Seam Fastball|3|2|1|0|12|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|X|Four-Seam Fastball|4|2|2|0|2|92
+Chi Chi Gonzalez|R|Mike Moustakas|L|Single|B|Four-Seam Fastball|5|0|0|1|11|92
+Chi Chi Gonzalez|R|Mike Moustakas|L|Single|B|Two-Seam Fastball|6|1|0|1|11|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Single|X|Two-Seam Fastball|7|2|0|1|13|91
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Slider|8|0|0|2|14|85
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|S|Slider|9|1|0|2|14|87
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Slider|10|1|1|2|14|87
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|S|Four-Seam Fastball|11|2|1|2|9|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Two-Seam Fastball|12|2|2|2|13|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Walk|B|Two-Seam Fastball|13|3|2|2|13|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|*B|Four-Seam Fastball|14|0|0|2|14|93
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|15|1|0|2|5|91
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|16|1|1|2|14|93
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|17|1|2|2|13|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Slider|18|2|2|2|14|87
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|C|Two-Seam Fastball|19|0|0|0|7|89
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|X|Slider|20|0|1|0|5|87
+Chi Chi Gonzalez|R|Alex Gordon|L|Lineout|C|Four-Seam Fastball|21|0|0|1|6|93
+Chi Chi Gonzalez|R|Alex Gordon|L|Lineout|B|Changeup|22|0|1|1|13|87
+Chi Chi Gonzalez|R|Alex Gordon|L|Lineout|X|Curveball|23|1|1|1|4|81
+Chi Chi Gonzalez|R|Alex Rios|R|Groundout|C|Four-Seam Fastball|24|0|0|2|9|93
+Chi Chi Gonzalez|R|Alex Rios|R|Groundout|F|Four-Seam Fastball|25|0|1|2|5|94
+Chi Chi Gonzalez|R|Alex Rios|R|Groundout|X|Four-Seam Fastball|26|0|2|2|5|93
+Chi Chi Gonzalez|R|Salvador Perez|R|Flyout|B|Two-Seam Fastball|27|0|0|0|11|90
+Chi Chi Gonzalez|R|Salvador Perez|R|Flyout|B|Slider|28|1|0|0|14|86
+Chi Chi Gonzalez|R|Salvador Perez|R|Flyout|X|Four-Seam Fastball|29|2|0|0|14|91
+Chi Chi Gonzalez|R|Omar Infante|R|Flyout|B|Four-Seam Fastball|30|0|0|1|14|93
+Chi Chi Gonzalez|R|Omar Infante|R|Flyout|X|Four-Seam Fastball|31|1|0|1|1|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|B|Slider|32|0|0|2|14|87
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|B|Four-Seam Fastball|33|1|0|2|14|93
+Chi Chi Gonzalez|R|Alcides Escobar|R|Flyout|X|Four-Seam Fastball|34|2|0|2|7|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|C|Four-Seam Fastball|35|0|0|0|9|90
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|L|Two-Seam Fastball|36|0|1|0|4|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|37|0|2|0|2|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|38|0|2|0|5|88
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Changeup|39|0|2|0|13|85
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Changeup|40|1|2|0|1|87
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|41|1|2|0|11|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Curveball|42|2|2|0|8|80
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Slider|43|2|2|0|14|87
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Two-Seam Fastball|44|3|2|0|13|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|X|Two-Seam Fastball|45|3|2|0|7|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|C|Four-Seam Fastball|46|0|0|1|8|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|C|Two-Seam Fastball|47|0|1|1|11|91
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|B|Four-Seam Fastball|48|0|2|1|13|93
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|F|Slider|49|1|2|1|9|87
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|F|Four-Seam Fastball|50|1|2|1|13|93
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|F|Slider|51|1|2|1|14|88
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Lineout|X|Cutter|52|1|2|1|14|89
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|B|Changeup|53|0|0|2|13|86
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Changeup|54|1|0|2|13|87
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|55|1|1|2|5|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|56|1|2|2|14|94
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|B|Changeup|57|0|0|0|13|85
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|T|Changeup|58|1|0|0|13|85
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|F|Four-Seam Fastball|59|1|1|0|12|92
+Chi Chi Gonzalez|R|Kendrys Morales|L|Groundout|X|Slider|60|1|2|0|7|87
+Chi Chi Gonzalez|R|Alex Gordon|L|Groundout|C|Curveball|61|0|0|1|8|79
+Chi Chi Gonzalez|R|Alex Gordon|L|Groundout|B|Changeup|62|0|1|1|13|87
+Chi Chi Gonzalez|R|Alex Gordon|L|Groundout|B|Changeup|63|1|1|1|13|87
+Chi Chi Gonzalez|R|Alex Gordon|L|Groundout|X|Changeup|64|2|1|1|5|85
+Chi Chi Gonzalez|R|Alex Rios|R|Single|F|Slider|65|0|0|2|6|87
+Chi Chi Gonzalez|R|Alex Rios|R|Single|D|Four-Seam Fastball|66|0|1|2|13|93
+Chi Chi Gonzalez|R|Salvador Perez|R|Forceout|S|Four-Seam Fastball|67|0|0|2|6|92
+Chi Chi Gonzalez|R|Salvador Perez|R|Forceout|X|Two-Seam Fastball|68|0|1|2|9|92
+Chi Chi Gonzalez|R|Omar Infante|R|Groundout|B|Four-Seam Fastball|69|0|0|0|14|91
+Chi Chi Gonzalez|R|Omar Infante|R|Groundout|C|Four-Seam Fastball|70|1|0|0|8|91
+Chi Chi Gonzalez|R|Omar Infante|R|Groundout|X|Slider|71|1|1|0|14|86
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|B|Slider|72|0|0|1|11|87
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|B|Four-Seam Fastball|73|1|0|1|11|91
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|C|Four-Seam Fastball|74|2|0|1|4|93
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|F|Four-Seam Fastball|75|2|1|1|9|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|F|Two-Seam Fastball|76|2|2|1|11|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|B|Two-Seam Fastball|77|2|2|1|11|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Pop Out|X|Four-Seam Fastball|78|3|2|1|5|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Flyout|F|Four-Seam Fastball|79|0|0|2|6|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Flyout|F|Four-Seam Fastball|80|0|1|2|2|93
+Chi Chi Gonzalez|R|Mike Moustakas|L|Flyout|B|Four-Seam Fastball|81|0|2|2|11|92
+Chi Chi Gonzalez|R|Mike Moustakas|L|Flyout|X|Curveball|82|1|2|2|13|81
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|C|Slider|83|0|0|0|14|87
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|X|Slider|84|0|1|0|14|86
+Chi Chi Gonzalez|R|Eric Hosmer|L|Single|C|Four-Seam Fastball|85|0|0|1|8|92
+Chi Chi Gonzalez|R|Eric Hosmer|L|Single|D|Slider|86|0|1|1|6|87
+Chi Chi Gonzalez|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|87|0|0|1|11|90
+Chi Chi Gonzalez|R|Kendrys Morales|L|Walk|C|Two-Seam Fastball|88|1|0|1|13|91
+Chi Chi Gonzalez|R|Kendrys Morales|L|Walk|*B|Curveball|89|1|1|1|14|79
+Chi Chi Gonzalez|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|90|2|1|1|13|90
+Chi Chi Gonzalez|R|Kendrys Morales|L|Walk|B|Four-Seam Fastball|91|3|1|1|14|91
+Chi Chi Gonzalez|R|Alex Gordon|L|Grounded Into DP|X|Four-Seam Fastball|92|0|0|1|4|91
+Chi Chi Gonzalez|R|Alex Rios|R|Pop Out|F|Slider|93|0|0|0|9|86
+Chi Chi Gonzalez|R|Alex Rios|R|Pop Out|B|Slider|94|0|1|0|14|86
+Chi Chi Gonzalez|R|Alex Rios|R|Pop Out|X|Slider|95|1|1|0|4|86
+Chi Chi Gonzalez|R|Salvador Perez|R|Pop Out|B|Four-Seam Fastball|96|0|0|1|11|90
+Chi Chi Gonzalez|R|Salvador Perez|R|Pop Out|C|Two-Seam Fastball|97|1|0|1|8|90
+Chi Chi Gonzalez|R|Salvador Perez|R|Pop Out|X|Four-Seam Fastball|98|1|1|1|7|92
+Chi Chi Gonzalez|R|Omar Infante|R|Flyout|C|Four-Seam Fastball|99|0|0|2|1|91
+Chi Chi Gonzalez|R|Omar Infante|R|Flyout|B|Slider|100|0|1|2|13|85
+Chi Chi Gonzalez|R|Omar Infante|R|Flyout|X|Slider|101|1|1|2|8|86
+Chi Chi Gonzalez|R|Alcides Escobar|R|Lineout|C|Four-Seam Fastball|102|0|0|0|6|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Lineout|B|Four-Seam Fastball|103|0|1|0|14|92
+Chi Chi Gonzalez|R|Alcides Escobar|R|Lineout|S|Slider|104|1|1|0|14|86
+Chi Chi Gonzalez|R|Alcides Escobar|R|Lineout|X|Slider|105|1|2|0|6|86
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|106|0|0|1|11|91
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|107|1|0|1|14|92
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|108|1|1|1|11|90
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|C|Changeup|109|2|1|1|14|84
+Chi Chi Gonzalez|R|Mike Moustakas|L|Groundout|X|Four-Seam Fastball|110|2|2|1|14|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|B|Slider|111|0|0|2|13|86
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|B|Slider|112|1|0|2|14|86
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|C|Four-Seam Fastball|113|2|0|2|9|91
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|B|Four-Seam Fastball|114|2|1|2|14|92
+Chi Chi Gonzalez|R|Lorenzo Cain|R|Groundout|X|Four-Seam Fastball|115|3|1|2|6|91
+Chi Chi Gonzalez|R|Billy Burns|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|89
+Chi Chi Gonzalez|R|Billy Burns|L|Walk|B|Two-Seam Fastball|1|1|0|0|11|87
+Chi Chi Gonzalez|R|Billy Burns|L|Walk|B|Four-Seam Fastball|2|2|0|0|14|90
+Chi Chi Gonzalez|R|Billy Burns|L|Walk|B|Four-Seam Fastball|3|3|0|0|14|89
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|1|89
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|B|Slider|5|0|1|0|14|86
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|B|Four-Seam Fastball|6|1|1|0|11|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|F|Slider|7|2|1|0|8|86
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|8|2|2|0|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|B|Changeup|9|0|0|1|13|85
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|C|Four-Seam Fastball|10|1|0|1|7|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|*B|Curveball|11|1|1|1|13|80
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|*B|Changeup|12|2|1|1|13|85
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|F|Slider|13|3|1|1|8|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|D|Changeup|14|3|2|1|13|86
+Chi Chi Gonzalez|R|Ben Zobrist|L|Single|B|Changeup|15|0|0|1|13|90
+Chi Chi Gonzalez|R|Ben Zobrist|L|Single|C|Two-Seam Fastball|16|1|0|1|13|90
+Chi Chi Gonzalez|R|Ben Zobrist|L|Single|E|Four-Seam Fastball|17|1|1|1|4|90
+Chi Chi Gonzalez|R|Stephen Vogt|L|Walk|*B|Slider|18|0|0|1|14|87
+Chi Chi Gonzalez|R|Stephen Vogt|L|Walk|B|Curveball|19|1|0|1|11|79
+Chi Chi Gonzalez|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|20|2|0|1|14|91
+Chi Chi Gonzalez|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|21|3|0|1|11|90
+Chi Chi Gonzalez|R|Brett Lawrie|R|Grounded Into DP|X|Slider|22|0|0|1|4|86
+Chi Chi Gonzalez|R|Mark Canha|R|Lineout|S|Four-Seam Fastball|23|0|0|0|5|89
+Chi Chi Gonzalez|R|Mark Canha|R|Lineout|B|Four-Seam Fastball|24|0|1|0|13|92
+Chi Chi Gonzalez|R|Mark Canha|R|Lineout|X|Slider|25|1|1|0|9|87
+Chi Chi Gonzalez|R|Josh Phegley|R|Lineout|X|Slider|26|0|0|1|8|88
+Chi Chi Gonzalez|R|Sam Fuld|L|Groundout|C|Four-Seam Fastball|27|0|0|2|8|92
+Chi Chi Gonzalez|R|Sam Fuld|L|Groundout|X|Four-Seam Fastball|28|0|1|2|7|92
+Chi Chi Gonzalez|R|Billy Burns|L|Single|D|Four-Seam Fastball|29|0|0|0|5|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|B|Four-Seam Fastball|30|0|0|0|14|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|B|Four-Seam Fastball|31|1|0|0|14|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|S|Slider|32|2|0|0|14|87
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|D|Slider|33|2|1|0|14|87
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|B|Four-Seam Fastball|34|0|0|0|13|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|C|Four-Seam Fastball|35|1|0|0|8|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|S|Four-Seam Fastball|36|1|1|0|14|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|X|Four-Seam Fastball|37|1|2|0|13|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Lineout|S|Changeup|38|0|0|1|7|85
+Chi Chi Gonzalez|R|Ben Zobrist|L|Lineout|X|Changeup|39|0|1|1|7|85
+Chi Chi Gonzalez|R|Stephen Vogt|L|Lineout|C|Four-Seam Fastball|40|0|0|2|13|93
+Chi Chi Gonzalez|R|Stephen Vogt|L|Lineout|X|Changeup|41|0|1|2|11|86
+Chi Chi Gonzalez|R|Brett Lawrie|R|Lineout|X|Slider|42|0|0|0|4|87
+Chi Chi Gonzalez|R|Mark Canha|R|Lineout|C|Four-Seam Fastball|43|0|0|1|7|91
+Chi Chi Gonzalez|R|Mark Canha|R|Lineout|X|Four-Seam Fastball|44|0|1|1|4|93
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|C|Two-Seam Fastball|45|0|0|2|13|92
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|B|Two-Seam Fastball|46|0|1|2|14|93
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|F|Two-Seam Fastball|47|1|1|2|13|91
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|X|Four-Seam Fastball|48|1|2|2|11|93
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|C|Four-Seam Fastball|49|0|0|0|9|90
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|B|Changeup|50|0|1|0|13|86
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|D|Four-Seam Fastball|51|1|1|0|4|91
+Chi Chi Gonzalez|R|Billy Burns|L|Single|C|Two-Seam Fastball|52|0|0|0|13|90
+Chi Chi Gonzalez|R|Billy Burns|L|Single|D|Changeup|53|0|1|0|13|83
+Chi Chi Gonzalez|R|Marcus Semien|R|Lineout|X|Four-Seam Fastball|54|0|0|0|7|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Double Play|B|Slider|55|0|0|1|12|87
+Chi Chi Gonzalez|R|Josh Reddick|L|Double Play|B|Two-Seam Fastball|56|1|0|1|11|89
+Chi Chi Gonzalez|R|Josh Reddick|L|Double Play|B|Two-Seam Fastball|57|2|0|1|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Double Play|X|Four-Seam Fastball|58|3|0|1|13|90
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|C|Curveball|59|0|0|0|8|80
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|60|0|1|0|14|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|61|1|1|0|14|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|X|Four-Seam Fastball|62|2|1|0|6|92
+Chi Chi Gonzalez|R|Stephen Vogt|L|Strikeout|C|Four-Seam Fastball|63|0|0|1|14|93
+Chi Chi Gonzalez|R|Stephen Vogt|L|Strikeout|B|Changeup|64|0|1|1|13|86
+Chi Chi Gonzalez|R|Stephen Vogt|L|Strikeout|F|Slider|65|1|1|1|7|87
+Chi Chi Gonzalez|R|Stephen Vogt|L|Strikeout|S|Four-Seam Fastball|66|1|2|1|12|93
+Chi Chi Gonzalez|R|Brett Lawrie|R|Hit By Pitch|F|Slider|67|0|0|2|9|88
+Chi Chi Gonzalez|R|Brett Lawrie|R|Hit By Pitch|S|Two-Seam Fastball|68|0|1|2|13|91
+Chi Chi Gonzalez|R|Brett Lawrie|R|Hit By Pitch|H|Four-Seam Fastball|69|0|2|2|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Single|F|Slider|70|0|0|2|9|86
+Chi Chi Gonzalez|R|Mark Canha|R|Single|F|Four-Seam Fastball|71|0|1|2|6|91
+Chi Chi Gonzalez|R|Mark Canha|R|Single|B|Curveball|72|0|2|2|14|81
+Chi Chi Gonzalez|R|Mark Canha|R|Single|D|Two-Seam Fastball|73|1|2|2|7|92
+Chi Chi Gonzalez|R|Josh Phegley|R|Forceout|B|Slider|74|0|0|2|14|87
+Chi Chi Gonzalez|R|Josh Phegley|R|Forceout|B|Two-Seam Fastball|75|1|0|2|13|92
+Chi Chi Gonzalez|R|Josh Phegley|R|Forceout|X|Four-Seam Fastball|76|2|0|2|11|92
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|B|Curveball|77|0|0|0|14|79
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|C|Four-Seam Fastball|78|1|0|0|5|90
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|B|Changeup|79|1|1|0|13|85
+Chi Chi Gonzalez|R|Sam Fuld|L|Single|D|Four-Seam Fastball|80|2|1|0|4|90
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|C|Four-Seam Fastball|81|0|0|0|7|91
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|F|Slider|82|0|1|0|11|86
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|B|Slider|83|0|2|0|13|85
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|F|Slider|84|1|2|0|13|86
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|B|Four-Seam Fastball|85|1|2|0|11|92
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|F|Changeup|86|2|2|0|13|86
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|F|Two-Seam Fastball|87|2|2|0|4|91
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|F|Slider|88|2|2|0|14|86
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|B|Four-Seam Fastball|89|2|2|0|14|92
+Chi Chi Gonzalez|R|Billy Burns|L|Lineout|X|Two-Seam Fastball|90|3|2|0|9|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|S|Slider|91|0|0|1|14|88
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|C|Two-Seam Fastball|92|0|1|1|7|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|F|Four-Seam Fastball|93|0|2|1|14|88
+Chi Chi Gonzalez|R|Marcus Semien|R|Strikeout|S|Two-Seam Fastball|94|0|2|1|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|C|Two-Seam Fastball|95|0|0|2|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|96|0|1|2|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Changeup|97|1|1|2|13|87
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|98|2|1|2|13|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|99|3|1|2|11|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Strikeout|C|Four-Seam Fastball|100|0|0|2|9|93
+Chi Chi Gonzalez|R|Ben Zobrist|L|Strikeout|S|Four-Seam Fastball|101|0|1|2|14|93
+Chi Chi Gonzalez|R|Ben Zobrist|L|Strikeout|F|Four-Seam Fastball|102|0|2|2|9|94
+Chi Chi Gonzalez|R|Ben Zobrist|L|Strikeout|F|Changeup|103|0|2|2|13|87
+Chi Chi Gonzalez|R|Ben Zobrist|L|Strikeout|S|Four-Seam Fastball|104|0|2|2|2|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|0|0|0|0|8|91
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|B|Four-Seam Fastball|1|0|0|1|11|90
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|B|Two-Seam Fastball|2|1|0|1|13|89
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|C|Two-Seam Fastball|3|2|0|1|11|89
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|X|Slider|4|2|1|1|8|86
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|5|0|0|2|13|90
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Single|D|Four-Seam Fastball|6|1|0|2|8|91
+Chi Chi Gonzalez|R|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|7|0|0|2|6|90
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|C|Changeup|8|0|0|0|13|87
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|B|Four-Seam Fastball|9|0|1|0|11|89
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|X|Changeup|10|1|1|0|13|84
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|C|Four-Seam Fastball|11|0|0|1|6|90
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|B|Slider|12|0|1|1|14|86
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|X|Four-Seam Fastball|13|1|1|1|9|91
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|X|Two-Seam Fastball|14|0|0|2|7|90
+Chi Chi Gonzalez|R|Alex Guerrero|R|Groundout|B|Four-Seam Fastball|15|0|0|0|13|90
+Chi Chi Gonzalez|R|Alex Guerrero|R|Groundout|B|Two-Seam Fastball|16|1|0|0|11|89
+Chi Chi Gonzalez|R|Alex Guerrero|R|Groundout|X|Two-Seam Fastball|17|2|0|0|11|89
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Lineout|C|Four-Seam Fastball|18|0|0|1|4|89
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Lineout|F|Four-Seam Fastball|19|0|1|1|2|91
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Lineout|B|Four-Seam Fastball|20|0|2|1|14|90
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Lineout|X|Slider|21|1|2|1|8|85
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|C|Four-Seam Fastball|22|0|0|2|5|90
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|B|Changeup|23|0|1|2|13|86
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|B|Two-Seam Fastball|24|1|1|2|13|89
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|S|Changeup|25|2|1|2|13|86
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|D|Four-Seam Fastball|26|2|2|2|12|92
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|C|Four-Seam Fastball|27|0|0|2|13|90
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|F|Changeup|28|0|1|2|11|83
+Chi Chi Gonzalez|R|Yasiel Puig|R|Groundout|X|Two-Seam Fastball|29|0|2|2|13|90
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|30|0|0|0|11|88
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|B|Two-Seam Fastball|31|1|0|0|11|88
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|F|Two-Seam Fastball|32|2|0|0|13|88
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|33|2|1|0|14|89
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|F|Two-Seam Fastball|34|3|1|0|11|90
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|X|Two-Seam Fastball|35|3|2|0|13|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Groundout|C|Slider|36|0|0|1|8|85
+Chi Chi Gonzalez|R|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|37|0|1|1|13|89
+Chi Chi Gonzalez|R|Justin Turner|R|Pop Out|B|Four-Seam Fastball|38|0|0|2|14|90
+Chi Chi Gonzalez|R|Justin Turner|R|Pop Out|X|Four-Seam Fastball|39|1|0|2|1|89
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|B|Changeup|40|0|0|0|13|83
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|X|Four-Seam Fastball|41|1|0|0|12|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|42|0|0|1|14|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|B|Two-Seam Fastball|43|1|0|1|11|89
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|C|Four-Seam Fastball|44|2|0|1|1|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|S|Four-Seam Fastball|45|2|1|1|2|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|B|Slider|46|2|2|1|14|85
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|F|Two-Seam Fastball|47|3|2|1|11|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Single|D|Four-Seam Fastball|48|3|2|1|12|90
+Chi Chi Gonzalez|R|Alex Guerrero|R|Lineout|X|Four-Seam Fastball|49|0|0|1|13|91
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|B|Two-Seam Fastball|50|0|0|2|11|89
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|C|Four-Seam Fastball|51|1|0|2|13|90
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|B|Slider|52|1|1|2|14|85
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|F|Changeup|53|2|1|2|13|85
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|54|2|2|2|12|90
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|F|Four-Seam Fastball|55|3|2|2|6|91
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|F|Four-Seam Fastball|56|3|2|2|6|91
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|57|3|2|2|11|90
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|58|0|0|2|5|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|59|0|1|2|14|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|60|1|1|2|14|91
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|61|1|2|2|6|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Strikeout|S|Slider|62|1|2|2|5|86
+Chi Chi Gonzalez|R|Yasiel Puig|R|Flyout|X|Changeup|63|0|0|0|7|84
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|64|0|0|1|3|90
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|F|Four-Seam Fastball|65|1|0|1|5|91
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Groundout|X|Four-Seam Fastball|66|1|1|1|7|90
+Chi Chi Gonzalez|R|Howie Kendrick|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|4|91
+Chi Chi Gonzalez|R|Howie Kendrick|R|Strikeout|B|Slider|68|0|1|2|11|86
+Chi Chi Gonzalez|R|Howie Kendrick|R|Strikeout|F|Four-Seam Fastball|69|1|1|2|11|90
+Chi Chi Gonzalez|R|Howie Kendrick|R|Strikeout|S|Four-Seam Fastball|70|1|2|2|2|91
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|B|Four-Seam Fastball|71|0|0|0|13|89
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|C|Four-Seam Fastball|72|1|0|0|13|90
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|F|Four-Seam Fastball|73|1|1|0|2|89
+Chi Chi Gonzalez|R|Justin Turner|R|Groundout|X|Two-Seam Fastball|74|1|2|0|13|89
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|B|Four-Seam Fastball|75|0|0|1|14|90
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|F|Four-Seam Fastball|76|1|0|1|4|90
+Chi Chi Gonzalez|R|Andre Ethier|L|Pop Out|X|Four-Seam Fastball|77|1|1|1|3|90
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|C|Changeup|78|0|0|2|13|85
+Chi Chi Gonzalez|R|Yasmani Grandal|L|Groundout|X|Two-Seam Fastball|79|0|1|2|13|90
+Chi Chi Gonzalez|R|Alex Guerrero|R|Flyout|F|Two-Seam Fastball|80|0|0|0|13|89
+Chi Chi Gonzalez|R|Alex Guerrero|R|Flyout|B|Two-Seam Fastball|81|0|1|0|11|91
+Chi Chi Gonzalez|R|Alex Guerrero|R|Flyout|X|Slider|82|1|1|0|6|85
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|B|Changeup|83|0|0|1|13|85
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|B|Four-Seam Fastball|84|1|0|1|12|91
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|F|Four-Seam Fastball|85|2|0|1|6|89
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|B|Two-Seam Fastball|86|2|1|1|11|89
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|C|Four-Seam Fastball|87|3|1|1|13|90
+Chi Chi Gonzalez|R|Jimmy Rollins|L|Groundout|X|Four-Seam Fastball|88|3|2|1|8|92
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|F|Slider|89|0|0|2|8|85
+Chi Chi Gonzalez|R|Joc Pederson|L|Single|D|Changeup|90|0|1|2|13|85
+Chi Chi Gonzalez|R|Yasiel Puig|R|Forceout|B|Two-Seam Fastball|91|0|0|2|13|89
+Chi Chi Gonzalez|R|Yasiel Puig|R|Forceout|X|Two-Seam Fastball|92|1|0|2|13|89
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Flyout|B|Two-Seam Fastball|93|0|0|0|11|88
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Flyout|B|Four-Seam Fastball|94|1|0|0|13|89
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Flyout|C|Four-Seam Fastball|95|2|0|0|9|89
+Chi Chi Gonzalez|R|Adrian Gonzalez|L|Flyout|X|Four-Seam Fastball|96|2|1|0|9|91
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|C|Four-Seam Fastball|97|0|0|1|4|91
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|B|Two-Seam Fastball|98|0|1|1|14|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|B|Two-Seam Fastball|99|1|1|1|11|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|B|Four-Seam Fastball|100|2|1|1|14|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|F|Four-Seam Fastball|101|3|1|1|6|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|F|Four-Seam Fastball|102|3|2|1|11|89
+Chi Chi Gonzalez|R|Howie Kendrick|R|Walk|B|Cutter|103|3|2|1|13|90
+Chi Chi Gonzalez|R|Justin Turner|R|Home Run|E|Four-Seam Fastball|104|0|0|1|7|89
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|S|Four-Seam Fastball|0|0|0|0|9|89
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Four-Seam Fastball|1|0|1|0|1|91
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|B|Four-Seam Fastball|2|0|2|0|12|90
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Changeup|3|1|2|0|13|87
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Four-Seam Fastball|4|1|2|0|11|91
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Curveball|5|1|2|0|14|79
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Four-Seam Fastball|6|1|2|0|11|90
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|B|Slider|7|1|2|0|14|87
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Changeup|8|2|2|0|7|87
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Four-Seam Fastball|9|2|2|0|12|92
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|X|Four-Seam Fastball|10|2|2|0|12|92
+Chi Chi Gonzalez|R|Eric Sogard|L|Pop Out|C|Four-Seam Fastball|11|0|0|1|6|91
+Chi Chi Gonzalez|R|Eric Sogard|L|Pop Out|F|Four-Seam Fastball|12|0|1|1|6|92
+Chi Chi Gonzalez|R|Eric Sogard|L|Pop Out|X|Four-Seam Fastball|13|0|2|1|2|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|C|Two-Seam Fastball|14|0|0|2|13|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|B|Changeup|15|0|1|2|13|87
+Chi Chi Gonzalez|R|Ben Zobrist|L|Groundout|X|Two-Seam Fastball|16|1|1|2|8|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|C|Two-Seam Fastball|17|0|0|0|1|88
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|B|Two-Seam Fastball|18|0|1|0|13|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|B|Changeup|19|1|1|0|13|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|B|Changeup|20|2|1|0|13|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Flyout|X|Two-Seam Fastball|21|3|1|0|7|90
+Chi Chi Gonzalez|R|Billy Butler|R|Groundout|C|Slider|22|0|0|1|5|85
+Chi Chi Gonzalez|R|Billy Butler|R|Groundout|X|Four-Seam Fastball|23|0|1|1|8|90
+Chi Chi Gonzalez|R|Ike Davis|L|Groundout|B|Four-Seam Fastball|24|0|0|2|13|90
+Chi Chi Gonzalez|R|Ike Davis|L|Groundout|C|Two-Seam Fastball|25|1|0|2|13|90
+Chi Chi Gonzalez|R|Ike Davis|L|Groundout|X|Curveball|26|1|1|2|4|79
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|B|Four-Seam Fastball|27|0|0|0|14|90
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|B|Four-Seam Fastball|28|1|0|0|14|92
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|F|Four-Seam Fastball|29|2|0|0|6|91
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|F|Four-Seam Fastball|30|2|1|0|9|90
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|F|Four-Seam Fastball|31|2|2|0|11|89
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|F|Slider|32|2|2|0|14|87
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|X|Four-Seam Fastball|33|2|2|0|7|90
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|C|Four-Seam Fastball|34|0|0|1|4|90
+Chi Chi Gonzalez|R|Josh Phegley|R|Groundout|X|Four-Seam Fastball|35|0|1|1|8|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|B|Slider|36|0|0|2|14|87
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|C|Four-Seam Fastball|37|1|0|2|13|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|D|Slider|38|1|1|2|9|87
+Chi Chi Gonzalez|R|Billy Burns|L|Single|D|Four-Seam Fastball|39|0|0|2|2|91
+Chi Chi Gonzalez|R|Eric Sogard|L|Single|E|Changeup|40|0|0|2|13|85
+Chi Chi Gonzalez|R|Ben Zobrist|L|Single|B|Changeup|41|0|0|0|13|86
+Chi Chi Gonzalez|R|Ben Zobrist|L|Single|D|Two-Seam Fastball|42|1|0|0|12|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Lineout|B|Two-Seam Fastball|43|0|0|0|14|89
+Chi Chi Gonzalez|R|Josh Reddick|L|Lineout|X|Four-Seam Fastball|44|1|0|0|11|90
+Chi Chi Gonzalez|R|Billy Butler|R|Forceout|B|Two-Seam Fastball|45|0|0|1|13|90
+Chi Chi Gonzalez|R|Billy Butler|R|Forceout|B|Four-Seam Fastball|46|1|0|1|13|90
+Chi Chi Gonzalez|R|Billy Butler|R|Forceout|X|Four-Seam Fastball|47|2|0|1|14|91
+Chi Chi Gonzalez|R|Ike Davis|L|Forceout|B|Two-Seam Fastball|48|0|0|2|13|91
+Chi Chi Gonzalez|R|Ike Davis|L|Forceout|C|Four-Seam Fastball|49|1|0|2|13|90
+Chi Chi Gonzalez|R|Ike Davis|L|Forceout|X|Four-Seam Fastball|50|1|1|2|5|90
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|X|Two-Seam Fastball|51|0|0|0|11|89
+Chi Chi Gonzalez|R|Josh Phegley|R|Home Run|F|Four-Seam Fastball|52|0|0|1|2|90
+Chi Chi Gonzalez|R|Josh Phegley|R|Home Run|S|Two-Seam Fastball|53|0|1|1|2|89
+Chi Chi Gonzalez|R|Josh Phegley|R|Home Run|E|Four-Seam Fastball|54|0|2|1|8|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|C|Four-Seam Fastball|55|0|0|1|7|92
+Chi Chi Gonzalez|R|Marcus Semien|R|Single|D|Four-Seam Fastball|56|0|1|1|13|91
+Chi Chi Gonzalez|R|Billy Burns|L|Forceout|B|Changeup|57|0|0|1|11|82
+Chi Chi Gonzalez|R|Billy Burns|L|Forceout|X|Changeup|58|1|0|1|14|83
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|C|Four-Seam Fastball|59|0|0|2|4|92
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|*B|Four-Seam Fastball|60|0|1|2|14|91
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|B|Four-Seam Fastball|61|1|1|2|13|91
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|*B|Changeup|62|2|1|2|14|83
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|C|Four-Seam Fastball|63|3|1|2|13|91
+Chi Chi Gonzalez|R|Eric Sogard|L|Groundout|X|Four-Seam Fastball|64|3|2|2|8|90
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|65|0|0|0|11|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|66|1|0|0|11|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|C|Four-Seam Fastball|67|2|0|0|7|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|68|2|1|0|13|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|C|Four-Seam Fastball|69|3|1|0|8|91
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|F|Four-Seam Fastball|70|3|2|0|5|92
+Chi Chi Gonzalez|R|Ben Zobrist|L|Walk|B|Four-Seam Fastball|71|3|2|0|11|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Pop Out|C|Curveball|72|0|0|0|7|78
+Chi Chi Gonzalez|R|Josh Reddick|L|Pop Out|B|Four-Seam Fastball|73|0|1|0|13|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Pop Out|B|Curveball|74|1|1|0|11|76
+Chi Chi Gonzalez|R|Josh Reddick|L|Pop Out|X|Four-Seam Fastball|75|2|1|0|5|90
+Chi Chi Gonzalez|R|Billy Butler|R|Hit By Pitch|H|Two-Seam Fastball|76|0|0|1|11|90
+Chi Chi Gonzalez|R|Ike Davis|L|Double|B|Two-Seam Fastball|77|0|0|1|11|90
+Chi Chi Gonzalez|R|Ike Davis|L|Double|B|Two-Seam Fastball|78|1|0|1|13|89
+Chi Chi Gonzalez|R|Ike Davis|L|Double|B|Two-Seam Fastball|79|2|0|1|11|90
+Chi Chi Gonzalez|R|Ike Davis|L|Double|C|Four-Seam Fastball|80|3|0|1|8|91
+Chi Chi Gonzalez|R|Ike Davis|L|Double|E|Four-Seam Fastball|81|3|1|1|8|92
+Chi Chi Gonzalez|R|Brett Lawrie|R|Strikeout|*B|Slider|82|0|0|1|14|87
+Chi Chi Gonzalez|R|Brett Lawrie|R|Strikeout|C|Slider|83|1|0|1|5|87
+Chi Chi Gonzalez|R|Brett Lawrie|R|Strikeout|B|Slider|84|1|1|1|14|86
+Chi Chi Gonzalez|R|Brett Lawrie|R|Strikeout|S|Four-Seam Fastball|85|2|1|1|1|90
+Chi Chi Gonzalez|R|Brett Lawrie|R|Strikeout|S|Four-Seam Fastball|86|2|2|1|4|91
+Chi Chi Gonzalez|R|Josh Phegley|R|Double|E|Four-Seam Fastball|87|0|0|2|8|91
+Chi Chi Gonzalez|R|Jose Reyes|L|Groundout|C|Four-Seam Fastball|0|0|0|0|8|90
+Chi Chi Gonzalez|R|Jose Reyes|L|Groundout|B|Changeup|1|0|1|0|13|90
+Chi Chi Gonzalez|R|Jose Reyes|L|Groundout|B|Two-Seam Fastball|2|1|1|0|14|91
+Chi Chi Gonzalez|R|Jose Reyes|L|Groundout|X|Changeup|3|2|1|0|13|89
+Chi Chi Gonzalez|R|Josh Donaldson|R|Lineout|S|Four-Seam Fastball|4|0|0|1|5|91
+Chi Chi Gonzalez|R|Josh Donaldson|R|Lineout|S|Four-Seam Fastball|5|0|1|1|9|93
+Chi Chi Gonzalez|R|Josh Donaldson|R|Lineout|X|Four-Seam Fastball|6|0|2|1|1|93
+Chi Chi Gonzalez|R|Jose Bautista|R|Groundout|C|Curveball|7|0|0|2|14|79
+Chi Chi Gonzalez|R|Jose Bautista|R|Groundout|B|Changeup|8|0|1|2|13|86
+Chi Chi Gonzalez|R|Jose Bautista|R|Groundout|X|Slider|9|1|1|2|6|87
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|F|Four-Seam Fastball|10|0|0|0|6|91
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|11|0|1|0|12|92
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|F|Four-Seam Fastball|12|1|1|0|9|93
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|13|1|2|0|11|92
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|B|Slider|14|2|2|0|14|87
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|F|Four-Seam Fastball|15|3|2|0|2|93
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|16|3|2|0|11|92
+Chi Chi Gonzalez|R|Dioner Navarro|L|Groundout|B|Two-Seam Fastball|17|0|0|1|11|91
+Chi Chi Gonzalez|R|Dioner Navarro|L|Groundout|X|Changeup|18|1|0|1|9|86
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|C|Four-Seam Fastball|19|0|0|2|1|93
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|B|Changeup|20|0|1|2|13|87
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|F|Four-Seam Fastball|21|1|1|2|5|93
+Chi Chi Gonzalez|R|Russell Martin|R|Strikeout|S|Two-Seam Fastball|22|1|2|2|13|92
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Groundout|B|Four-Seam Fastball|23|0|0|0|11|91
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Groundout|X|Two-Seam Fastball|24|1|0|0|4|90
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|C|Four-Seam Fastball|25|0|0|1|8|93
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|B|Slider|26|0|1|1|14|87
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|S|Four-Seam Fastball|27|1|1|1|5|94
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|B|Two-Seam Fastball|28|1|2|1|13|92
+Chi Chi Gonzalez|R|Kevin Pillar|R|Lineout|X|Slider|29|2|2|1|14|87
+Chi Chi Gonzalez|R|Devon Travis|R|Groundout|F|Four-Seam Fastball|30|0|0|2|2|93
+Chi Chi Gonzalez|R|Devon Travis|R|Groundout|S|Four-Seam Fastball|31|0|1|2|9|93
+Chi Chi Gonzalez|R|Devon Travis|R|Groundout|X|Four-Seam Fastball|32|0|2|2|12|94
+Chi Chi Gonzalez|R|Jose Reyes|L|Lineout|B|Two-Seam Fastball|33|0|0|0|11|90
+Chi Chi Gonzalez|R|Jose Reyes|L|Lineout|B|Changeup|34|1|0|0|13|86
+Chi Chi Gonzalez|R|Jose Reyes|L|Lineout|C|Two-Seam Fastball|35|2|0|0|9|91
+Chi Chi Gonzalez|R|Jose Reyes|L|Lineout|X|Two-Seam Fastball|36|2|1|0|13|92
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|C|Slider|37|0|0|1|9|87
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|B|Four-Seam Fastball|38|0|1|1|14|94
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|B|Slider|39|1|1|1|14|88
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|F|Slider|40|2|1|1|4|86
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|B|Four-Seam Fastball|41|2|2|1|14|94
+Chi Chi Gonzalez|R|Josh Donaldson|R|Home Run|E|Four-Seam Fastball|42|3|2|1|4|93
+Chi Chi Gonzalez|R|Jose Bautista|R|Flyout|B|Changeup|43|0|0|1|13|87
+Chi Chi Gonzalez|R|Jose Bautista|R|Flyout|B|Two-Seam Fastball|44|1|0|1|14|94
+Chi Chi Gonzalez|R|Jose Bautista|R|Flyout|X|Four-Seam Fastball|45|2|0|1|9|94
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|B|Slider|46|0|0|2|14|88
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|B|Slider|47|1|0|2|14|86
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|C|Two-Seam Fastball|48|2|0|2|7|92
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|B|Changeup|49|2|1|2|14|89
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|F|Slider|50|3|1|2|5|86
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Walk|B|Slider|51|3|2|2|14|87
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|B|Curveball|52|0|0|2|11|77
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|B|Two-Seam Fastball|53|1|0|2|13|91
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|54|2|0|2|14|92
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|C|Four-Seam Fastball|55|3|0|2|8|92
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|S|Two-Seam Fastball|56|3|1|2|7|92
+Chi Chi Gonzalez|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|57|3|2|2|14|93
+Chi Chi Gonzalez|R|Russell Martin|R|Flyout|C|Slider|58|0|0|2|3|87
+Chi Chi Gonzalez|R|Russell Martin|R|Flyout|B|Four-Seam Fastball|59|0|1|2|14|93
+Chi Chi Gonzalez|R|Russell Martin|R|Flyout|S|Four-Seam Fastball|60|1|1|2|11|92
+Chi Chi Gonzalez|R|Russell Martin|R|Flyout|F|Four-Seam Fastball|61|1|2|2|12|93
+Chi Chi Gonzalez|R|Russell Martin|R|Flyout|X|Slider|62|1|2|2|1|88
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|C|Curveball|63|0|0|0|5|77
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|B|Changeup|64|0|1|0|13|85
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|L|Two-Seam Fastball|65|1|1|0|11|90
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|B|Curveball|66|1|2|0|13|80
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|B|Four-Seam Fastball|67|2|2|0|12|91
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Walk|B|Four-Seam Fastball|68|3|2|0|11|92
+Chi Chi Gonzalez|R|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|69|0|0|0|14|91
+Chi Chi Gonzalez|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|70|0|1|0|3|90
+Chi Chi Gonzalez|R|Devon Travis|R|Double|C|Four-Seam Fastball|71|0|0|1|14|90
+Chi Chi Gonzalez|R|Devon Travis|R|Double|E|Two-Seam Fastball|72|0|1|1|4|90
+Chi Chi Gonzalez|R|Jose Reyes|L|Single|B|Changeup|73|0|0|1|11|85
+Chi Chi Gonzalez|R|Jose Reyes|L|Single|C|Two-Seam Fastball|74|1|0|1|13|90
+Chi Chi Gonzalez|R|Jose Reyes|L|Single|E|Two-Seam Fastball|75|1|1|1|13|91
+Chi Chi Gonzalez|R|Josh Donaldson|R|Single|B|Four-Seam Fastball|76|0|0|1|14|91
+Chi Chi Gonzalez|R|Josh Donaldson|R|Single|C|Slider|77|1|0|1|9|86
+Chi Chi Gonzalez|R|Josh Donaldson|R|Single|*B|Four-Seam Fastball|78|1|1|1|14|92
+Chi Chi Gonzalez|R|Josh Donaldson|R|Single|X|Four-Seam Fastball|79|2|1|1|6|91
+Chi Chi Gonzalez|R|Jose Bautista|R|Walk|B|Changeup|80|0|0|2|11|86
+Chi Chi Gonzalez|R|Jose Bautista|R|Walk|B|Slider|81|1|0|2|14|85
+Chi Chi Gonzalez|R|Jose Bautista|R|Walk|*B|Slider|82|2|0|2|14|86
+Chi Chi Gonzalez|R|Jose Bautista|R|Walk|B|Changeup|83|3|0|2|13|87
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Forceout|F|Four-Seam Fastball|84|0|0|2|9|91
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Forceout|F|Changeup|85|0|1|2|13|87
+Chi Chi Gonzalez|R|Edwin Encarnacion|R|Forceout|X|Curveball|86|0|2|2|5|81
+Chi Chi Gonzalez|R|Dioner Navarro|L|Groundout|C|Curveball|87|0|0|0|13|79
+Chi Chi Gonzalez|R|Dioner Navarro|L|Groundout|F|Four-Seam Fastball|88|0|1|0|5|89
+Chi Chi Gonzalez|R|Dioner Navarro|L|Groundout|X|Slider|89|0|2|0|7|84
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|B|Slider|90|0|0|1|14|85
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|B|Slider|91|1|0|1|14|85
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|C|Two-Seam Fastball|92|2|0|1|9|90
+Chi Chi Gonzalez|R|Russell Martin|R|Groundout|X|Two-Seam Fastball|93|2|1|1|8|91
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Strikeout|C|Curveball|94|0|0|2|11|79
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Strikeout|B|Curveball|95|0|1|2|14|81
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Strikeout|F|Changeup|96|1|1|2|9|85
+Chi Chi Gonzalez|R|Ezequiel Carrera|L|Strikeout|S|Four-Seam Fastball|97|1|2|2|11|92
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Lineout|B|Four-Seam Fastball|0|0|0|0|11|90
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Lineout|X|Four-Seam Fastball|1|1|0|0|4|90
+Chi Chi Gonzalez|R|Kole Calhoun|L|Groundout|B|Four-Seam Fastball|2|0|0|1|11|90
+Chi Chi Gonzalez|R|Kole Calhoun|L|Groundout|F|Four-Seam Fastball|3|1|0|1|8|90
+Chi Chi Gonzalez|R|Kole Calhoun|L|Groundout|X|Slider|4|1|1|1|13|85
+Chi Chi Gonzalez|R|Mike Trout|R|Single|C|Four-Seam Fastball|5|0|0|2|7|93
+Chi Chi Gonzalez|R|Mike Trout|R|Single|B|Slider|6|0|1|2|14|86
+Chi Chi Gonzalez|R|Mike Trout|R|Single|D|Four-Seam Fastball|7|1|1|2|8|91
+Chi Chi Gonzalez|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|8|0|0|2|13|91
+Chi Chi Gonzalez|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|9|1|0|2|7|91
+Chi Chi Gonzalez|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|10|2|0|2|5|92
+Chi Chi Gonzalez|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|11|2|1|2|14|91
+Chi Chi Gonzalez|R|Albert Pujols|R|Groundout|X|Slider|12|2|2|2|9|86
+Chi Chi Gonzalez|R|Erick Aybar|L|Single|B|Two-Seam Fastball|13|0|0|0|11|90
+Chi Chi Gonzalez|R|Erick Aybar|L|Single|S|Four-Seam Fastball|14|1|0|0|11|91
+Chi Chi Gonzalez|R|Erick Aybar|L|Single|B|Four-Seam Fastball|15|1|1|0|9|92
+Chi Chi Gonzalez|R|Erick Aybar|L|Single|D|Four-Seam Fastball|16|2|1|0|6|92
+Chi Chi Gonzalez|R|David Freese|R|Single|B|Two-Seam Fastball|17|0|0|0|13|90
+Chi Chi Gonzalez|R|David Freese|R|Single|B|Two-Seam Fastball|18|1|0|0|13|91
+Chi Chi Gonzalez|R|David Freese|R|Single|C|Four-Seam Fastball|19|2|0|0|13|93
+Chi Chi Gonzalez|R|David Freese|R|Single|B|Two-Seam Fastball|20|2|1|0|11|89
+Chi Chi Gonzalez|R|David Freese|R|Single|C|Four-Seam Fastball|21|3|1|0|7|93
+Chi Chi Gonzalez|R|David Freese|R|Single|F|Four-Seam Fastball|22|3|2|0|5|92
+Chi Chi Gonzalez|R|David Freese|R|Single|F|Four-Seam Fastball|23|3|2|0|11|92
+Chi Chi Gonzalez|R|David Freese|R|Single|D|Slider|24|3|2|0|6|87
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|B|Changeup|25|0|0|0|11|86
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|S|Four-Seam Fastball|26|1|0|0|14|93
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|S|Slider|27|1|1|0|14|86
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|B|Slider|28|1|2|0|14|85
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|F|Slider|29|2|2|0|6|87
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|B|Two-Seam Fastball|30|2|2|0|11|88
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|31|3|2|0|3|92
+Chi Chi Gonzalez|R|Matt Joyce|L|Walk|B|Slider|32|3|2|0|14|87
+Chi Chi Gonzalez|R|C.J. Cron|R|Single|B|Four-Seam Fastball|33|0|0|0|14|93
+Chi Chi Gonzalez|R|C.J. Cron|R|Single|E|Two-Seam Fastball|34|1|0|0|13|92
+Chi Chi Gonzalez|R|Carlos Perez|R|Strikeout|C|Four-Seam Fastball|35|0|0|0|14|93
+Chi Chi Gonzalez|R|Carlos Perez|R|Strikeout|F|Slider|36|0|1|0|9|86
+Chi Chi Gonzalez|R|Carlos Perez|R|Strikeout|B|Slider|37|0|2|0|14|85
+Chi Chi Gonzalez|R|Carlos Perez|R|Strikeout|S|Four-Seam Fastball|38|1|2|0|13|91
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Pop Out|X|Slider|39|0|0|1|5|86
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|C|Slider|40|0|0|2|2|85
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|S|Four-Seam Fastball|41|0|1|2|14|93
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|*B|Slider|42|0|2|2|14|86
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|*B|Curveball|43|1|2|2|14|82
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|B|Four-Seam Fastball|44|2|2|2|11|92
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|F|Four-Seam Fastball|45|3|2|2|8|93
+Chi Chi Gonzalez|R|Kole Calhoun|L|Double|E|Four-Seam Fastball|46|3|2|2|1|93
+Chi Chi Gonzalez|R|Mike Trout|R|Walk|B|Slider|47|0|0|2|14|87
+Chi Chi Gonzalez|R|Mike Trout|R|Walk|B|Slider|48|1|0|2|14|87
+Chi Chi Gonzalez|R|Mike Trout|R|Walk|C|Four-Seam Fastball|49|2|0|2|4|92
+Chi Chi Gonzalez|R|Mike Trout|R|Walk|B|Slider|50|2|1|2|14|85
+Chi Chi Gonzalez|R|Mike Trout|R|Walk|B|Four-Seam Fastball|51|3|1|2|9|92
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|X|Four-Seam Fastball|0|0|0|0|5|89
+Chi Chi Gonzalez|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|1|0|0|1|6|90
+Chi Chi Gonzalez|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|2|0|1|1|9|91
+Chi Chi Gonzalez|R|Brian Dozier|R|Groundout|X|Slider|3|1|1|1|12|85
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|B|Four-Seam Fastball|4|0|0|2|11|89
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|C|Four-Seam Fastball|5|1|0|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|B|Two-Seam Fastball|6|1|1|2|11|90
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|B|Four-Seam Fastball|7|2|1|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|C|Four-Seam Fastball|8|3|1|2|8|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Strikeout|S|Four-Seam Fastball|9|3|2|2|4|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Curveball|10|0|0|0|11|82
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|11|1|0|0|14|89
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Slider|12|1|1|0|14|85
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|13|2|1|0|5|90
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Slider|14|2|2|0|14|86
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Home Run|E|Four-Seam Fastball|15|0|0|1|4|90
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|C|Four-Seam Fastball|16|0|0|1|5|91
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|D|Four-Seam Fastball|17|0|1|1|12|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|18|0|0|1|11|91
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Single|C|Changeup|19|1|0|1|5|83
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Single|E|Four-Seam Fastball|20|1|1|1|9|91
+Chi Chi Gonzalez|R|Chris Herrmann|L|Double|E|Two-Seam Fastball|21|0|0|1|4|88
+Chi Chi Gonzalez|R|Shane Robinson|R|Double|B|Slider|22|0|0|1|2|83
+Chi Chi Gonzalez|R|Shane Robinson|R|Double|F|Slider|23|1|0|1|9|85
+Chi Chi Gonzalez|R|Shane Robinson|R|Double|E|Slider|24|1|1|1|8|86
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|B|Changeup|25|0|0|1|11|84
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|X|Changeup|26|1|0|1|13|85
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|C|Four-Seam Fastball|27|0|0|2|4|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|28|0|1|2|11|93
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|*B|Slider|29|1|1|2|14|88
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|30|2|1|2|11|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|*B|Four-Seam Fastball|31|3|1|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|*B|Four-Seam Fastball|32|0|0|2|14|94
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Changeup|33|1|0|2|13|84
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|C|Four-Seam Fastball|34|2|0|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|35|2|1|2|14|92
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|*B|Changeup|36|3|1|2|14|85
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|B|Slider|37|0|0|2|14|87
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|X|Slider|38|1|0|2|6|86
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Flyout|C|Four-Seam Fastball|39|0|0|0|3|89
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Flyout|B|Two-Seam Fastball|40|0|1|0|11|89
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Flyout|X|Slider|41|1|1|0|14|84
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|B|Changeup|42|0|0|1|11|83
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|F|Two-Seam Fastball|43|1|0|1|7|89
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|B|Four-Seam Fastball|44|1|1|1|14|92
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|S|Four-Seam Fastball|45|2|1|1|1|89
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|F|Slider|46|2|2|1|8|85
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|B|Changeup|47|2|2|1|13|85
+Chi Chi Gonzalez|R|Eddie Rosario|L|Groundout|X|Two-Seam Fastball|48|3|2|1|13|89
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|S|Curveball|49|0|0|2|14|77
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Lineout|X|Slider|50|0|1|2|2|84
+Chi Chi Gonzalez|R|Chris Herrmann|L|Lineout|B|Slider|51|0|0|0|11|86
+Chi Chi Gonzalez|R|Chris Herrmann|L|Lineout|B|Changeup|52|1|0|0|14|82
+Chi Chi Gonzalez|R|Chris Herrmann|L|Lineout|C|Four-Seam Fastball|53|2|0|0|8|89
+Chi Chi Gonzalez|R|Chris Herrmann|L|Lineout|X|Four-Seam Fastball|54|2|1|0|5|89
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|55|0|0|1|1|88
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|56|1|0|1|13|88
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|57|2|0|1|14|90
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|*B|Four-Seam Fastball|58|3|0|1|14|91
+Chi Chi Gonzalez|R|Aaron Hicks|L|Pop Out|B|Two-Seam Fastball|59|0|0|1|13|89
+Chi Chi Gonzalez|R|Aaron Hicks|L|Pop Out|X|Four-Seam Fastball|60|1|0|1|8|88
+Chi Chi Gonzalez|R|Brian Dozier|R|Forceout|B|Slider|61|0|0|2|14|84
+Chi Chi Gonzalez|R|Brian Dozier|R|Forceout|C|Slider|62|1|0|2|14|84
+Chi Chi Gonzalez|R|Brian Dozier|R|Forceout|B|Four-Seam Fastball|63|1|1|2|14|90
+Chi Chi Gonzalez|R|Brian Dozier|R|Forceout|X|Four-Seam Fastball|64|2|1|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|B|Two-Seam Fastball|65|0|0|0|11|88
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|C|Changeup|66|1|0|0|8|87
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|F|Four-Seam Fastball|67|1|1|0|14|89
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|F|Slider|68|1|2|0|14|85
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|F|Four-Seam Fastball|69|1|2|0|12|90
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|F|Changeup|70|1|2|0|13|85
+Chi Chi Gonzalez|R|Joe Mauer|L|Flyout|X|Slider|71|1|2|0|3|85
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|72|0|0|1|14|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|73|0|1|1|14|92
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Slider|74|1|1|1|14|86
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|75|1|2|1|12|91
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Lineout|C|Slider|76|0|0|2|9|85
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Lineout|B|Slider|77|0|1|2|14|86
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Lineout|B|Four-Seam Fastball|78|1|1|2|11|91
+Chi Chi Gonzalez|R|Trevor Plouffe|R|Lineout|X|Slider|79|2|1|2|9|84
+Chi Chi Gonzalez|R|Eddie Rosario|L|Flyout|X|Curveball|80|0|0|0|7|76
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Walk|B|Changeup|81|0|0|1|11|87
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|82|1|0|1|14|89
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|83|2|0|1|14|90
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Walk|C|Four-Seam Fastball|84|3|0|1|4|89
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|85|3|1|1|14|90
+Chi Chi Gonzalez|R|Chris Herrmann|L|Strikeout|B|Changeup|86|0|0|1|11|82
+Chi Chi Gonzalez|R|Chris Herrmann|L|Strikeout|F|Slider|87|1|0|1|11|88
+Chi Chi Gonzalez|R|Chris Herrmann|L|Strikeout|F|Four-Seam Fastball|88|1|1|1|5|90
+Chi Chi Gonzalez|R|Chris Herrmann|L|Strikeout|F|Slider|89|1|2|1|6|84
+Chi Chi Gonzalez|R|Chris Herrmann|L|Strikeout|W|Four-Seam Fastball|90|1|2|1|14|91
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Slider|91|0|0|2|14|85
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|92|1|0|2|14|90
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|C|Four-Seam Fastball|93|2|0|2|8|90
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|94|2|1|2|14|90
+Chi Chi Gonzalez|R|Shane Robinson|R|Walk|B|Four-Seam Fastball|95|3|1|2|14|91
+Chi Chi Gonzalez|R|Ketel Marte|L|Groundout|C|Changeup|0|0|0|0|13|87
+Chi Chi Gonzalez|R|Ketel Marte|L|Groundout|C|Curveball|1|0|1|0|1|78
+Chi Chi Gonzalez|R|Ketel Marte|L|Groundout|X|Four-Seam Fastball|2|0|2|0|1|91
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|B|Curveball|3|0|0|1|13|79
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|C|Two-Seam Fastball|4|1|0|1|8|88
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|B|Changeup|5|1|1|1|14|86
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|B|Changeup|6|2|1|1|13|89
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|C|Four-Seam Fastball|7|3|1|1|8|90
+Chi Chi Gonzalez|R|Kyle Seager|L|Double|D|Two-Seam Fastball|8|3|2|1|13|90
+Chi Chi Gonzalez|R|Nelson Cruz|R|Double|E|Four-Seam Fastball|9|0|0|1|7|93
+Chi Chi Gonzalez|R|Robinson Cano|L|Strikeout|F|Curveball|10|0|0|1|9|79
+Chi Chi Gonzalez|R|Robinson Cano|L|Strikeout|F|Four-Seam Fastball|11|0|1|1|2|92
+Chi Chi Gonzalez|R|Robinson Cano|L|Strikeout|S|Slider|12|0|2|1|14|87
+Chi Chi Gonzalez|R|Seth Smith|L|Home Run|B|Two-Seam Fastball|13|0|0|2|13|90
+Chi Chi Gonzalez|R|Seth Smith|L|Home Run|F|Four-Seam Fastball|14|1|0|2|8|90
+Chi Chi Gonzalez|R|Seth Smith|L|Home Run|B|Changeup|15|1|1|2|13|86
+Chi Chi Gonzalez|R|Seth Smith|L|Home Run|E|Changeup|16|2|1|2|4|85
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|C|Four-Seam Fastball|17|0|0|2|6|92
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|S|Four-Seam Fastball|18|0|1|2|3|92
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|B|Four-Seam Fastball|19|0|2|2|11|92
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|F|Slider|20|1|2|2|14|88
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|B|Four-Seam Fastball|21|1|2|2|11|91
+Chi Chi Gonzalez|R|Austin Jackson|R|Groundout|X|Four-Seam Fastball|22|2|2|2|2|91
+Chi Chi Gonzalez|R|Brad Miller|L|Walk|C|Four-Seam Fastball|23|0|0|0|13|88
+Chi Chi Gonzalez|R|Brad Miller|L|Walk|B|Slider|24|0|1|0|14|86
+Chi Chi Gonzalez|R|Brad Miller|L|Walk|B|Four-Seam Fastball|25|1|1|0|14|91
+Chi Chi Gonzalez|R|Brad Miller|L|Walk|B|Two-Seam Fastball|26|2|1|0|13|89
+Chi Chi Gonzalez|R|Brad Miller|L|Walk|B|Two-Seam Fastball|27|3|1|0|13|90
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|C|Four-Seam Fastball|28|0|0|0|3|91
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|B|Two-Seam Fastball|29|0|1|0|13|90
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|B|Slider|30|1|1|0|14|85
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|F|Two-Seam Fastball|31|2|1|0|13|90
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|F|Slider|32|2|2|0|12|86
+Chi Chi Gonzalez|R|Logan Morrison|L|Strikeout|S|Four-Seam Fastball|33|2|2|0|12|91
+Chi Chi Gonzalez|R|Jesus Sucre|R|Strikeout|S|Four-Seam Fastball|34|0|0|1|12|90
+Chi Chi Gonzalez|R|Jesus Sucre|R|Strikeout|B|Slider|35|0|1|1|9|86
+Chi Chi Gonzalez|R|Jesus Sucre|R|Strikeout|F|Four-Seam Fastball|36|1|1|1|14|90
+Chi Chi Gonzalez|R|Jesus Sucre|R|Strikeout|*B|Slider|37|1|2|1|14|86
+Chi Chi Gonzalez|R|Jesus Sucre|R|Strikeout|S|Slider|38|2|2|1|6|86
+Chi Chi Gonzalez|R|Ketel Marte|L|Forceout|B|Curveball|39|0|0|2|13|79
+Chi Chi Gonzalez|R|Ketel Marte|L|Forceout|X|Two-Seam Fastball|40|1|0|2|13|89
+Chi Chi Gonzalez|R|Kyle Seager|L|Single|F|Slider|41|0|0|0|5|83
+Chi Chi Gonzalez|R|Kyle Seager|L|Single|D|Four-Seam Fastball|42|0|1|0|1|89
+Chi Chi Gonzalez|R|Nelson Cruz|R|Forceout|F|Slider|43|0|0|0|9|85
+Chi Chi Gonzalez|R|Nelson Cruz|R|Forceout|B|Four-Seam Fastball|44|0|1|0|2|90
+Chi Chi Gonzalez|R|Nelson Cruz|R|Forceout|B|Slider|45|1|1|0|14|84
+Chi Chi Gonzalez|R|Nelson Cruz|R|Forceout|X|Slider|46|2|1|0|8|86
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|C|Four-Seam Fastball|47|0|0|1|14|91
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|48|0|1|1|14|92
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Curveball|49|1|1|1|13|77
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Four-Seam Fastball|50|1|2|1|2|91
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Slider|51|1|2|1|14|86
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|52|1|2|1|11|90
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Slider|53|2|2|1|9|85
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|*B|Changeup|54|2|2|1|13|87
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|55|3|2|1|9|92
+Chi Chi Gonzalez|R|Seth Smith|L|Hit By Pitch|H|Slider|56|0|0|2|14|87
+Chi Chi Gonzalez|R|Austin Jackson|R|Lineout|C|Four-Seam Fastball|57|0|0|2|9|92
+Chi Chi Gonzalez|R|Austin Jackson|R|Lineout|S|Slider|58|0|1|2|14|87
+Chi Chi Gonzalez|R|Austin Jackson|R|Lineout|X|Four-Seam Fastball|59|0|2|2|5|93
+Chi Chi Gonzalez|R|Brad Miller|L|Strikeout|C|Two-Seam Fastball|60|0|0|0|13|88
+Chi Chi Gonzalez|R|Brad Miller|L|Strikeout|F|Slider|61|0|1|0|9|85
+Chi Chi Gonzalez|R|Brad Miller|L|Strikeout|B|Four-Seam Fastball|62|0|2|0|11|89
+Chi Chi Gonzalez|R|Brad Miller|L|Strikeout|S|Slider|63|1|2|0|2|86
+Chi Chi Gonzalez|R|Logan Morrison|L|Flyout|C|Curveball|64|0|0|1|13|77
+Chi Chi Gonzalez|R|Logan Morrison|L|Flyout|F|Four-Seam Fastball|65|0|1|1|11|90
+Chi Chi Gonzalez|R|Logan Morrison|L|Flyout|B|Slider|66|0|2|1|14|87
+Chi Chi Gonzalez|R|Logan Morrison|L|Flyout|F|Four-Seam Fastball|67|1|2|1|6|91
+Chi Chi Gonzalez|R|Logan Morrison|L|Flyout|X|Curveball|68|1|2|1|13|79
+Chi Chi Gonzalez|R|Jesus Sucre|R|Groundout|B|Slider|69|0|0|2|14|84
+Chi Chi Gonzalez|R|Jesus Sucre|R|Groundout|S|Four-Seam Fastball|70|1|0|2|14|91
+Chi Chi Gonzalez|R|Jesus Sucre|R|Groundout|B|Slider|71|1|1|2|14|86
+Chi Chi Gonzalez|R|Jesus Sucre|R|Groundout|X|Four-Seam Fastball|72|2|1|2|5|92
+Chi Chi Gonzalez|R|Ketel Marte|L|Single|C|Slider|73|0|0|0|4|83
+Chi Chi Gonzalez|R|Ketel Marte|L|Single|F|Four-Seam Fastball|74|0|1|0|11|88
+Chi Chi Gonzalez|R|Ketel Marte|L|Single|B|Slider|75|0|2|0|13|85
+Chi Chi Gonzalez|R|Ketel Marte|L|Single|D|Slider|76|1|2|0|5|85
+Chi Chi Gonzalez|R|Kyle Seager|L|Groundout|X|Four-Seam Fastball|77|0|0|0|4|90
+Chi Chi Gonzalez|R|Nelson Cruz|R|Strikeout|S|Slider|78|0|0|1|14|85
+Chi Chi Gonzalez|R|Nelson Cruz|R|Strikeout|F|Slider|79|0|1|1|14|87
+Chi Chi Gonzalez|R|Nelson Cruz|R|Strikeout|S|Slider|80|0|2|1|14|86
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|81|0|0|2|11|92
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Four-Seam Fastball|82|1|0|2|9|90
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|F|Slider|83|1|1|2|14|85
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|84|1|2|2|11|91
+Chi Chi Gonzalez|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|85|2|2|2|14|92
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|B|Curveball|86|0|0|0|13|78
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|C|Four-Seam Fastball|87|1|0|0|14|90
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|B|Slider|88|1|1|0|14|85
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|S|Four-Seam Fastball|89|2|1|0|14|90
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|B|Four-Seam Fastball|90|2|2|0|14|91
+Chi Chi Gonzalez|R|Seth Smith|L|Strikeout|S|Four-Seam Fastball|91|3|2|0|9|90
+Chi Chi Gonzalez|R|Austin Jackson|R|Strikeout|C|Slider|92|0|0|1|5|84
+Chi Chi Gonzalez|R|Austin Jackson|R|Strikeout|F|Four-Seam Fastball|93|0|1|1|5|90
+Chi Chi Gonzalez|R|Austin Jackson|R|Strikeout|S|Slider|94|0|2|1|14|87
+Chi Chi Gonzalez|R|Brad Miller|L|Flyout|F|Curveball|95|0|0|2|4|79
+Chi Chi Gonzalez|R|Brad Miller|L|Flyout|X|Four-Seam Fastball|96|0|1|2|5|89
+Chi Chi Gonzalez|R|Marcus Semien|R|Field Error|S|Four-Seam Fastball|0|0|0|0|2|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Field Error|B|Four-Seam Fastball|1|0|1|0|14|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Field Error|B|Four-Seam Fastball|2|1|1|0|13|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Field Error|S|Four-Seam Fastball|3|2|1|0|14|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Field Error|D|Four-Seam Fastball|4|2|2|0|8|92
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|C|Four-Seam Fastball|5|0|0|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|B|Four-Seam Fastball|6|0|1|0|14|93
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|C|Four-Seam Fastball|7|1|1|0|11|92
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|F|Four-Seam Fastball|8|1|2|0|6|92
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|B|Four-Seam Fastball|9|1|2|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Grounded Into DP|X|Slider|10|2|2|0|9|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Curveball|11|0|0|2|13|78
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|C|Four-Seam Fastball|12|1|0|2|7|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Curveball|13|1|1|2|11|77
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Changeup|14|2|1|2|13|85
+Chi Chi Gonzalez|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|15|3|1|2|13|91
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|B|Four-Seam Fastball|16|0|0|2|13|91
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|B|Four-Seam Fastball|17|1|0|2|14|91
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|S|Slider|18|2|0|2|14|86
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|F|Four-Seam Fastball|19|2|1|2|9|91
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|F|Four-Seam Fastball|20|2|2|2|11|92
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|X|Four-Seam Fastball|21|2|2|2|9|92
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|C|Four-Seam Fastball|22|0|0|0|1|89
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|B|Four-Seam Fastball|23|0|1|0|13|91
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|B|Slider|24|1|1|0|14|85
+Chi Chi Gonzalez|R|Brett Lawrie|R|Groundout|X|Four-Seam Fastball|25|2|1|0|6|89
+Chi Chi Gonzalez|R|Billy Butler|R|Flyout|C|Slider|26|0|0|1|8|85
+Chi Chi Gonzalez|R|Billy Butler|R|Flyout|B|Slider|27|0|1|1|14|87
+Chi Chi Gonzalez|R|Billy Butler|R|Flyout|X|Four-Seam Fastball|28|1|1|1|5|90
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|C|Four-Seam Fastball|29|0|0|2|11|89
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|T|Four-Seam Fastball|30|0|1|2|12|90
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|X|Changeup|31|0|2|2|8|87
+Chi Chi Gonzalez|R|Sam Fuld|L|Strikeout|C|Four-Seam Fastball|32|0|0|0|7|89
+Chi Chi Gonzalez|R|Sam Fuld|L|Strikeout|B|Four-Seam Fastball|33|0|1|0|12|90
+Chi Chi Gonzalez|R|Sam Fuld|L|Strikeout|B|Four-Seam Fastball|34|1|1|0|14|91
+Chi Chi Gonzalez|R|Sam Fuld|L|Strikeout|C|Four-Seam Fastball|35|2|1|0|7|89
+Chi Chi Gonzalez|R|Sam Fuld|L|Strikeout|S|Slider|36|2|2|0|9|87
+Chi Chi Gonzalez|R|Carson Blair|R|Walk|B|Four-Seam Fastball|37|0|0|1|11|91
+Chi Chi Gonzalez|R|Carson Blair|R|Walk|B|Slider|38|1|0|1|14|85
+Chi Chi Gonzalez|R|Carson Blair|R|Walk|C|Four-Seam Fastball|39|2|0|1|8|90
+Chi Chi Gonzalez|R|Carson Blair|R|Walk|B|Four-Seam Fastball|40|2|1|1|8|91
+Chi Chi Gonzalez|R|Carson Blair|R|Walk|B|Four-Seam Fastball|41|3|1|1|14|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|C|Four-Seam Fastball|42|0|0|1|11|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|F|Four-Seam Fastball|43|0|1|1|13|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|X|Slider|44|0|2|1|1|86
+Chi Chi Gonzalez|R|Mark Canha|R|Strikeout|F|Changeup|45|0|0|2|13|86
+Chi Chi Gonzalez|R|Mark Canha|R|Strikeout|S|Four-Seam Fastball|46|0|1|2|9|92
+Chi Chi Gonzalez|R|Mark Canha|R|Strikeout|B|Two-Seam Fastball|47|0|2|2|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Strikeout|C|Four-Seam Fastball|48|1|2|2|13|92
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|B|Changeup|49|0|0|0|13|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|C|Four-Seam Fastball|50|1|0|0|9|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|C|Four-Seam Fastball|51|1|1|0|7|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Single|D|Slider|52|1|2|0|13|85
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|S|Slider|53|0|0|0|14|86
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|B|Four-Seam Fastball|54|0|1|0|14|91
+Chi Chi Gonzalez|R|Danny Valencia|R|Flyout|X|Four-Seam Fastball|55|1|1|0|6|92
+Chi Chi Gonzalez|R|Brett Lawrie|R|Flyout|X|Four-Seam Fastball|56|0|0|1|4|92
+Chi Chi Gonzalez|R|Billy Butler|R|Groundout|C|Four-Seam Fastball|57|0|0|2|13|93
+Chi Chi Gonzalez|R|Billy Butler|R|Groundout|X|Four-Seam Fastball|58|0|1|2|12|92
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|B|Four-Seam Fastball|59|0|0|0|13|90
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|C|Slider|60|1|0|0|5|85
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|B|Changeup|61|1|1|0|13|85
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|S|Slider|62|2|1|0|14|84
+Chi Chi Gonzalez|R|Jake Smolinski|R|Groundout|X|Four-Seam Fastball|63|2|2|0|6|91
+Chi Chi Gonzalez|R|Sam Fuld|L|Flyout|C|Four-Seam Fastball|64|0|0|1|11|90
+Chi Chi Gonzalez|R|Sam Fuld|L|Flyout|X|Curveball|65|0|1|1|5|79
+Chi Chi Gonzalez|R|Carson Blair|R|Lineout|C|Four-Seam Fastball|66|0|0|2|9|91
+Chi Chi Gonzalez|R|Carson Blair|R|Lineout|B|Slider|67|0|1|2|13|86
+Chi Chi Gonzalez|R|Carson Blair|R|Lineout|F|Slider|68|1|1|2|9|86
+Chi Chi Gonzalez|R|Carson Blair|R|Lineout|X|Curveball|69|1|2|2|4|79
+Chi Chi Gonzalez|R|Marcus Semien|R|Walk|C|Four-Seam Fastball|70|0|0|0|13|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Walk|B|Slider|71|0|1|0|14|86
+Chi Chi Gonzalez|R|Marcus Semien|R|Walk|B|Slider|72|1|1|0|14|86
+Chi Chi Gonzalez|R|Marcus Semien|R|Walk|B|Four-Seam Fastball|73|2|1|0|14|91
+Chi Chi Gonzalez|R|Marcus Semien|R|Walk|B|Four-Seam Fastball|74|3|1|0|14|90
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|C|Four-Seam Fastball|75|0|0|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Four-Seam Fastball|76|0|1|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Changeup|77|0|2|0|13|88
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Slider|78|0|2|0|13|86
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Four-Seam Fastball|79|0|2|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Slider|80|0|2|0|12|86
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|B|Four-Seam Fastball|81|0|2|0|11|91
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|F|Four-Seam Fastball|82|1|2|0|6|92
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|*B|Slider|83|1|2|0|14|87
+Chi Chi Gonzalez|R|Mark Canha|R|Pop Out|X|Four-Seam Fastball|84|2|2|0|11|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Field Error|C|Four-Seam Fastball|85|0|0|1|13|91
+Chi Chi Gonzalez|R|Josh Reddick|L|Field Error|D|Slider|86|0|1|1|6|85
+Chi Chi Gonzalez|R|Danny Valencia|R|Triple|C|Slider|87|0|0|1|8|85
+Chi Chi Gonzalez|R|Danny Valencia|R|Triple|S|Changeup|88|0|1|1|13|85
+Chi Chi Gonzalez|R|Danny Valencia|R|Triple|B|Four-Seam Fastball|89|0|2|1|14|92
+Chi Chi Gonzalez|R|Danny Valencia|R|Triple|E|Four-Seam Fastball|90|1|2|1|11|92
+Chi Chi Gonzalez|R|Mark Trumbo|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|90
+Chi Chi Gonzalez|R|Mark Trumbo|R|Groundout|X|Slider|1|1|0|0|7|86
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|11|92
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|S|Four-Seam Fastball|3|1|0|1|4|91
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|B|Slider|4|1|1|1|14|87
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|F|Four-Seam Fastball|5|2|1|1|14|91
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|F|Four-Seam Fastball|6|2|2|1|11|92
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|F|Slider|7|2|2|1|13|87
+Chi Chi Gonzalez|R|Jesus Montero|R|Strikeout|S|Slider|8|2|2|1|14|88
+Chi Chi Gonzalez|R|Shawn O'Malley|L|Lineout|C|Four-Seam Fastball|9|0|0|2|8|92
+Chi Chi Gonzalez|R|Shawn O'Malley|L|Lineout|B|Two-Seam Fastball|10|0|1|2|13|93
+Chi Chi Gonzalez|R|Shawn O'Malley|L|Lineout|X|Changeup|11|1|1|2|4|86
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|B|Four-Seam Fastball|0|0|0|0|13|92
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|B|Slider|1|1|0|0|14|86
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|S|Slider|2|2|0|0|14|86
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|C|Four-Seam Fastball|3|2|1|0|14|93
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|B|Four-Seam Fastball|4|2|2|0|13|93
+Chi Chi Gonzalez|R|Danny Valencia|R|Field Error|D|Four-Seam Fastball|5|3|2|0|6|93
+Chi Chi Gonzalez|R|Billy Butler|R|Grounded Into DP|B|Four-Seam Fastball|6|0|0|0|11|93
+Chi Chi Gonzalez|R|Billy Butler|R|Grounded Into DP|X|Slider|7|1|0|0|14|87
+Chi Chi Gonzalez|R|Josh Reddick|L|Field Error|T|Two-Seam Fastball|8|0|0|2|1|90
+Chi Chi Gonzalez|R|Josh Reddick|L|Field Error|F|Changeup|9|0|1|2|11|86
+Chi Chi Gonzalez|R|Josh Reddick|L|Field Error|E|Four-Seam Fastball|10|0|2|2|12|92
+Chi Chi Gonzalez|R|Jake Smolinski|R|Pop Out|C|Slider|11|0|0|2|9|88
+Chi Chi Gonzalez|R|Jake Smolinski|R|Pop Out|B|Slider|12|0|1|2|14|88
+Chi Chi Gonzalez|R|Jake Smolinski|R|Pop Out|F|Four-Seam Fastball|13|1|1|2|11|93
+Chi Chi Gonzalez|R|Jake Smolinski|R|Pop Out|X|Slider|14|1|2|2|5|87
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|15|0|0|0|13|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|16|1|0|0|14|90
+Chi Chi Gonzalez|R|Marcus Semien|R|Flyout|X|Four-Seam Fastball|17|2|0|0|5|90
+Chi Chi Gonzalez|R|Carson Blair|R|Flyout|T|Four-Seam Fastball|18|0|0|1|8|91
+Chi Chi Gonzalez|R|Carson Blair|R|Flyout|B|Four-Seam Fastball|19|0|1|1|14|92
+Chi Chi Gonzalez|R|Carson Blair|R|Flyout|B|Four-Seam Fastball|20|1|1|1|14|92
+Chi Chi Gonzalez|R|Carson Blair|R|Flyout|X|Four-Seam Fastball|21|2|1|1|5|91
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|F|Slider|22|0|0|2|9|87
+Chi Chi Gonzalez|R|Billy Burns|L|Groundout|X|Slider|23|0|1|2|1|88
+Chi Chi Gonzalez|R|Chris Carter|R|Home Run|F|Four-Seam Fastball|0|0|0|0|8|92
+Chi Chi Gonzalez|R|Chris Carter|R|Home Run|B|Four-Seam Fastball|1|0|1|0|13|91
+Chi Chi Gonzalez|R|Chris Carter|R|Home Run|E|Slider|2|1|1|0|6|88
+Chi Chi Gonzalez|R|Jason Castro|L|Groundout|B|Four-Seam Fastball|3|0|0|0|13|92
+Chi Chi Gonzalez|R|Jason Castro|L|Groundout|X|Two-Seam Fastball|4|1|0|0|13|93
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|C|Four-Seam Fastball|5|0|0|1|9|94
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|6|0|1|1|14|95
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|7|1|1|1|14|93
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|B|Slider|8|2|1|1|14|90
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|F|Four-Seam Fastball|9|3|1|1|14|94
+Chi Chi Gonzalez|R|Jake Marisnick|R|Walk|*B|Four-Seam Fastball|10|3|2|1|14|94
+Chi Chi Gonzalez|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|11|0|0|1|6|92
+Chi Chi Gonzalez|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|12|0|1|1|11|92
+Chi Chi Gonzalez|R|George Springer|R|Groundout|C|Four-Seam Fastball|13|0|0|2|9|93
+Chi Chi Gonzalez|R|George Springer|R|Groundout|F|Four-Seam Fastball|14|0|1|2|2|92
+Chi Chi Gonzalez|R|George Springer|R|Groundout|F|Four-Seam Fastball|15|0|2|2|4|93
+Chi Chi Gonzalez|R|George Springer|R|Groundout|X|Slider|16|0|2|2|14|88
+Chi Chi Gonzalez|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|17|0|0|0|11|92
+Chi Chi Gonzalez|R|Carlos Correa|R|Walk|B|Slider|18|1|0|0|14|87
+Chi Chi Gonzalez|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|19|2|0|0|13|92
+Chi Chi Gonzalez|R|Carlos Correa|R|Walk|C|Four-Seam Fastball|20|3|0|0|5|91
+Chi Chi Gonzalez|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|21|3|1|0|14|92
+Chi Chi Gonzalez|R|Jed Lowrie|L|Field Error|B|Two-Seam Fastball|22|0|0|0|11|92
+Chi Chi Gonzalez|R|Jed Lowrie|L|Field Error|B|Four-Seam Fastball|23|1|0|0|13|90
+Chi Chi Gonzalez|R|Jed Lowrie|L|Field Error|D|Four-Seam Fastball|24|2|0|0|6|91
+Chi Chi Gonzalez|R|Evan Gattis|R|Sac Fly|E|Slider|25|0|0|0|3|86
+Chi Chi Gonzalez|R|Marwin Gonzalez|L|Sac Bunt|L|Changeup|26|0|0|1|13|87
+Chi Chi Gonzalez|R|Marwin Gonzalez|L|Sac Bunt|B|Two-Seam Fastball|27|0|1|1|11|91
+Chi Chi Gonzalez|R|Marwin Gonzalez|L|Sac Bunt|X|Four-Seam Fastball|28|1|1|1|4|91
+Chi Chi Gonzalez|R|Mike Trout|R|Sac Fly|C|Slider|0|0|0|0|6|86
+Chi Chi Gonzalez|R|Mike Trout|R|Sac Fly|B|Two-Seam Fastball|1|0|1|0|13|92
+Chi Chi Gonzalez|R|Mike Trout|R|Sac Fly|B|Slider|2|1|1|0|14|87
+Chi Chi Gonzalez|R|Mike Trout|R|Sac Fly|E|Slider|3|2|1|0|14|87
+Chi Chi Gonzalez|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|4|0|0|1|12|76
+Chi Chi Gonzalez|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|5|0|1|1|12|80
+Chi Chi Gonzalez|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|6|0|2|1|12|82
+Chi Chi Gonzalez|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|7|0|2|1|12|83
+Chi Chi Gonzalez|R|David Murphy|L|Grounded Into DP|B|Two-Seam Fastball|8|0|0|1|13|90
+Chi Chi Gonzalez|R|David Murphy|L|Grounded Into DP|B|Four-Seam Fastball|9|1|0|1|13|91
+Chi Chi Gonzalez|R|David Murphy|L|Grounded Into DP|X|Two-Seam Fastball|10|2|0|1|13|91
+Chi Chi Gonzalez|R|C.J. Cron|R|Strikeout|F|Four-Seam Fastball|11|0|0|0|6|92
+Chi Chi Gonzalez|R|C.J. Cron|R|Strikeout|F|Four-Seam Fastball|12|0|1|0|11|93
+Chi Chi Gonzalez|R|C.J. Cron|R|Strikeout|B|Four-Seam Fastball|13|0|2|0|14|94
+Chi Chi Gonzalez|R|C.J. Cron|R|Strikeout|T|Slider|14|1|2|0|6|87
+Chi Chi Gonzalez|R|David Freese|R|Walk|C|Slider|15|0|0|1|5|89
+Chi Chi Gonzalez|R|David Freese|R|Walk|B|Slider|16|0|1|1|14|88
+Chi Chi Gonzalez|R|David Freese|R|Walk|B|Four-Seam Fastball|17|1|1|1|13|94
+Chi Chi Gonzalez|R|David Freese|R|Walk|B|Four-Seam Fastball|18|2|1|1|14|94
+Chi Chi Gonzalez|R|David Freese|R|Walk|C|Four-Seam Fastball|19|3|1|1|8|94
+Chi Chi Gonzalez|R|David Freese|R|Walk|B|Four-Seam Fastball|20|3|2|1|14|94
+Chi Chi Gonzalez|R|Carlos Perez|R|Flyout|C|Two-Seam Fastball|21|0|0|1|2|93
+Chi Chi Gonzalez|R|Carlos Perez|R|Flyout|B|Slider|22|0|1|1|14|88
+Chi Chi Gonzalez|R|Carlos Perez|R|Flyout|F|Two-Seam Fastball|23|1|1|1|11|91
+Chi Chi Gonzalez|R|Carlos Perez|R|Flyout|B|Four-Seam Fastball|24|1|2|1|14|93
+Chi Chi Gonzalez|R|Carlos Perez|R|Flyout|X|Slider|25|2|2|1|14|87
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|C|Slider|26|0|0|2|6|87
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|B|Two-Seam Fastball|27|0|1|2|13|94
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|C|Four-Seam Fastball|28|1|1|2|9|93
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|*B|Slider|29|1|2|2|14|87
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|F|Four-Seam Fastball|30|2|2|2|11|92
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|F|Four-Seam Fastball|31|2|2|2|1|93
+Chi Chi Gonzalez|R|Johnny Giavotella|R|Double|E|Four-Seam Fastball|32|2|2|2|1|94
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|93
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|X|Two-Seam Fastball|1|1|0|0|8|91
+Chi Chi Gonzalez|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|2|0|0|1|1|92
+Chi Chi Gonzalez|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|3|0|1|1|11|92
+Chi Chi Gonzalez|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|4|0|2|1|9|94
+Chi Chi Gonzalez|R|Carlos Beltran|L|Walk|B|Curveball|5|0|0|2|13|79
+Chi Chi Gonzalez|R|Carlos Beltran|L|Walk|B|Slider|6|1|0|2|13|87
+Chi Chi Gonzalez|R|Carlos Beltran|L|Walk|F|Two-Seam Fastball|7|2|0|2|1|93
+Chi Chi Gonzalez|R|Carlos Beltran|L|Walk|B|Changeup|8|2|1|2|13|86
+Chi Chi Gonzalez|R|Carlos Beltran|L|Walk|B|Two-Seam Fastball|9|3|1|2|6|92
+Chi Chi Gonzalez|R|Brian McCann|L|Flyout|S|Two-Seam Fastball|10|0|0|2|13|91
+Chi Chi Gonzalez|R|Brian McCann|L|Flyout|F|Four-Seam Fastball|11|0|1|2|11|92
+Chi Chi Gonzalez|R|Brian McCann|L|Flyout|X|Curveball|12|0|2|2|13|79
+Chi Chi Gonzalez|R|Mark Teixeira|L|Single|B|Two-Seam Fastball|13|0|0|0|13|90
+Chi Chi Gonzalez|R|Mark Teixeira|L|Single|D|Four-Seam Fastball|14|1|0|0|8|92
+Chi Chi Gonzalez|R|Starlin Castro|R|Strikeout|S|Four-Seam Fastball|15|0|0|0|3|93
+Chi Chi Gonzalez|R|Starlin Castro|R|Strikeout|C|Two-Seam Fastball|16|0|1|0|14|91
+Chi Chi Gonzalez|R|Starlin Castro|R|Strikeout|S|Slider|17|0|2|0|12|85
+Chi Chi Gonzalez|R|Didi Gregorius|L|Single|B|Four-Seam Fastball|18|0|0|1|14|92
+Chi Chi Gonzalez|R|Didi Gregorius|L|Single|D|Slider|19|1|0|1|14|85
+Chi Chi Gonzalez|R|Chase Headley|L|Single|B|Four-Seam Fastball|20|0|0|1|14|93
+Chi Chi Gonzalez|R|Chase Headley|L|Single|E|Two-Seam Fastball|21|1|0|1|13|93
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|B|Curveball|22|0|0|1|14|82
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|S|Curveball|23|1|0|1|14|82
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|F|Four-Seam Fastball|24|1|1|1|6|93
+Chi Chi Gonzalez|R|Aaron Hicks|L|Groundout|E|Four-Seam Fastball|25|1|2|1|2|94
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|C|Slider|26|0|0|2|5|86
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|*B|Changeup|27|0|1|2|13|88
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|F|Slider|28|1|1|2|1|86
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|B|Slider|29|1|2|2|14|87
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|X|Two-Seam Fastball|30|2|2|2|4|93
+Chi Chi Gonzalez|R|Brett Gardner|L|Lineout|X|Two-Seam Fastball|31|0|0|0|1|91
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|D|Two-Seam Fastball|32|0|0|1|5|93
+Chi Chi Gonzalez|R|Brian McCann|L|Walk|B|Two-Seam Fastball|33|0|0|1|11|92
+Chi Chi Gonzalez|R|Brian McCann|L|Walk|B|Curveball|34|1|0|1|14|81
+Chi Chi Gonzalez|R|Brian McCann|L|Walk|B|Two-Seam Fastball|35|2|0|1|11|91
+Chi Chi Gonzalez|R|Brian McCann|L|Walk|B|Four-Seam Fastball|36|3|0|1|13|92
+Chi Chi Gonzalez|R|Mark Teixeira|L|Single|C|Curveball|37|0|0|1|14|79
+Chi Chi Gonzalez|R|Mark Teixeira|L|Single|D|Four-Seam Fastball|38|0|1|1|14|93
+Chi Chi Gonzalez|R|Starlin Castro|R|Single|F|Slider|39|0|0|1|14|87
+Chi Chi Gonzalez|R|Starlin Castro|R|Single|F|Slider|40|0|1|1|9|85
+Chi Chi Gonzalez|R|Starlin Castro|R|Single|E|Slider|41|0|2|1|14|86
+Chi Chi Gonzalez|R|Didi Gregorius|L|Grounded Into DP|B|Four-Seam Fastball|42|0|0|1|14|93
+Chi Chi Gonzalez|R|Didi Gregorius|L|Grounded Into DP|X|Changeup|43|1|0|1|5|86
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|B|Four-Seam Fastball|44|0|0|0|14|91
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|C|Four-Seam Fastball|45|1|0|0|9|91
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|C|Slider|46|1|1|0|13|86
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|B|Curveball|47|1|2|0|14|80
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|F|Two-Seam Fastball|48|2|2|0|2|92
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|F|Four-Seam Fastball|49|2|2|0|14|93
+Chi Chi Gonzalez|R|Chase Headley|L|Strikeout|S|Slider|50|2|2|0|1|86
+Chi Chi Gonzalez|R|Aaron Hicks|L|Bunt Pop Out|C|Two-Seam Fastball|51|0|0|1|13|91
+Chi Chi Gonzalez|R|Aaron Hicks|L|Bunt Pop Out|X|Four-Seam Fastball|52|0|1|1|12|93
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|B|Changeup|53|0|0|2|13|86
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|B|Changeup|54|1|0|2|13|86
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|C|Four-Seam Fastball|55|2|0|2|9|93
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|F|Slider|56|2|1|2|4|86
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|B|Slider|57|2|2|2|14|88
+Chi Chi Gonzalez|R|Jacoby Ellsbury|L|Groundout|X|Four-Seam Fastball|58|3|2|2|13|93
+Chi Chi Gonzalez|R|Brett Gardner|L|Single|B|Two-Seam Fastball|59|0|0|0|14|90
+Chi Chi Gonzalez|R|Brett Gardner|L|Single|B|Changeup|60|1|0|0|13|85
+Chi Chi Gonzalez|R|Brett Gardner|L|Single|D|Four-Seam Fastball|61|2|0|0|5|92
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|F|Slider|62|0|0|0|4|85
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|B|Four-Seam Fastball|63|0|1|0|13|91
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|B|Slider|64|1|1|0|13|87
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|S|Slider|65|2|1|0|8|87
+Chi Chi Gonzalez|R|Carlos Beltran|L|Single|D|Four-Seam Fastball|66|2|2|0|2|93
+Chi Chi Gonzalez|R|Brian McCann|L|Single|F|Four-Seam Fastball|67|0|0|0|5|94
+Chi Chi Gonzalez|R|Brian McCann|L|Single|B|Four-Seam Fastball|68|0|1|0|11|92
+Chi Chi Gonzalez|R|Brian McCann|L|Single|E|Curveball|69|1|1|0|7|78
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|B|Slider|70|0|0|0|11|85
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|B|Changeup|71|1|0|0|13|84
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|B|Two-Seam Fastball|72|2|0|0|13|91
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|C|Four-Seam Fastball|73|3|0|0|9|91
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|F|Two-Seam Fastball|74|3|1|0|7|91
+Chi Chi Gonzalez|R|Mark Teixeira|L|Groundout|X|Two-Seam Fastball|75|3|2|0|7|92
+Chi Chi Gonzalez|R|Starlin Castro|R|Groundout|B|Four-Seam Fastball|76|0|0|1|12|93
+Chi Chi Gonzalez|R|Starlin Castro|R|Groundout|*B|Slider|77|1|0|1|14|87
+Chi Chi Gonzalez|R|Starlin Castro|R|Groundout|C|Slider|78|2|0|1|8|87
+Chi Chi Gonzalez|R|Starlin Castro|R|Groundout|X|Slider|79|2|1|1|9|85
+Chi Chi Gonzalez|R|Didi Gregorius|L|Single|B|Curveball|80|0|0|2|14|81
+Chi Chi Gonzalez|R|Didi Gregorius|L|Single|E|Changeup|81|1|0|2|4|86
+Chi Chi Gonzalez|R|Chase Headley|L|Flyout|B|Four-Seam Fastball|82|0|0|2|11|91
+Chi Chi Gonzalez|R|Chase Headley|L|Flyout|F|Changeup|83|1|0|2|11|84
+Chi Chi Gonzalez|R|Chase Headley|L|Flyout|S|Curveball|84|1|1|2|14|83
+Chi Chi Gonzalez|R|Chase Headley|L|Flyout|*B|Slider|85|1|2|2|14|85
+Chi Chi Gonzalez|R|Chase Headley|L|Flyout|X|Four-Seam Fastball|86|2|2|2|2|92
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|C|Four-Seam Fastball|0|0|0|0|2|89
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|C|Four-Seam Fastball|1|0|1|0|13|92
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|F|Slider|2|0|2|0|14|86
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|F|Curveball|3|0|2|0|14|78
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|B|Four-Seam Fastball|4|0|2|0|11|91
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|B|Four-Seam Fastball|5|1|2|0|14|91
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|D|Curveball|6|2|2|0|13|77
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|C|Four-Seam Fastball|7|0|0|0|7|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Two-Seam Fastball|8|0|1|0|13|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Slider|9|1|1|0|13|84
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|10|2|1|0|13|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Two-Seam Fastball|11|3|1|0|13|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|C|Four-Seam Fastball|12|0|0|0|9|92
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|B|Curveball|13|0|1|0|13|77
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|B|Four-Seam Fastball|14|1|1|0|14|93
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|*B|Slider|15|2|1|0|14|87
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|F|Four-Seam Fastball|16|3|1|0|8|93
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|F|Four-Seam Fastball|17|3|2|0|6|92
+Chi Chi Gonzalez|R|Miguel Sano|R|Flyout|X|Two-Seam Fastball|18|3|2|0|5|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|C|Four-Seam Fastball|19|0|0|1|3|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|B|Four-Seam Fastball|20|0|1|1|14|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|B|Slider|21|1|1|1|14|86
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|F|Slider|22|2|1|1|2|86
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|F|Curveball|23|2|2|1|4|76
+Chi Chi Gonzalez|R|Brian Dozier|R|Field Error|D|Four-Seam Fastball|24|2|2|1|8|93
+Chi Chi Gonzalez|R|Max Kepler|L|Fielders Choice|F|Four-Seam Fastball|25|0|0|1|5|92
+Chi Chi Gonzalez|R|Max Kepler|L|Fielders Choice|B|Four-Seam Fastball|26|0|1|1|14|92
+Chi Chi Gonzalez|R|Max Kepler|L|Fielders Choice|E|Four-Seam Fastball|27|1|1|1|9|92
+Chi Chi Gonzalez|R|Eduardo Escobar|L|Forceout|E|Changeup|28|0|0|1|13|85
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|*B|Changeup|29|0|0|2|14|85
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|F|Two-Seam Fastball|30|1|0|2|7|91
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|F|Slider|31|1|1|2|4|86
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|B|Four-Seam Fastball|32|1|2|2|14|93
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|*B|Slider|33|2|2|2|14|86
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|F|Changeup|34|3|2|2|7|86
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|F|Four-Seam Fastball|35|3|2|2|13|92
+Chi Chi Gonzalez|R|Danny Santana|L|Walk|B|Two-Seam Fastball|36|3|2|2|13|92
+Chi Chi Gonzalez|R|Juan Centeno|L|Single|E|Two-Seam Fastball|37|0|0|2|5|92
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|B|Four-Seam Fastball|0|0|0|0|13|89
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|F|Four-Seam Fastball|1|1|0|0|8|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Double|D|Four-Seam Fastball|2|1|1|0|13|89
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|C|Four-Seam Fastball|3|0|0|0|5|90
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|B|Two-Seam Fastball|4|0|1|0|11|89
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|B|Changeup|5|1|1|0|13|83
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|D|Four-Seam Fastball|6|2|1|0|4|90
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Curveball|7|0|0|0|14|78
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|8|1|0|0|13|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|F|Two-Seam Fastball|9|1|1|0|13|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Two-Seam Fastball|10|1|2|0|11|90
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|11|2|2|0|11|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|C|Four-Seam Fastball|12|0|0|1|1|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|13|0|1|1|14|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|*B|Slider|14|1|1|1|14|87
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|15|2|1|1|14|91
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|16|3|1|1|14|90
+Chi Chi Gonzalez|R|Max Kepler|L|Sac Fly|C|Four-Seam Fastball|17|0|0|1|13|92
+Chi Chi Gonzalez|R|Max Kepler|L|Sac Fly|*B|Changeup|18|0|1|1|13|85
+Chi Chi Gonzalez|R|Max Kepler|L|Sac Fly|E|Four-Seam Fastball|19|1|1|1|3|91
+Chi Chi Gonzalez|R|Robbie Grossman|L|Single|B|Two-Seam Fastball|20|0|0|2|11|90
+Chi Chi Gonzalez|R|Robbie Grossman|L|Single|E|Four-Seam Fastball|21|1|0|2|5|92
+Chi Chi Gonzalez|R|Eddie Rosario|L|Strikeout|F|Two-Seam Fastball|22|0|0|2|11|89
+Chi Chi Gonzalez|R|Eddie Rosario|L|Strikeout|F|Slider|23|0|1|2|9|84
+Chi Chi Gonzalez|R|Eddie Rosario|L|Strikeout|S|Four-Seam Fastball|24|0|2|2|3|91
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Home Run|C|Curveball|25|0|0|0|13|76
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Home Run|B|Four-Seam Fastball|26|0|1|0|14|90
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Home Run|F|Four-Seam Fastball|27|1|1|0|6|89
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Home Run|E|Four-Seam Fastball|28|1|2|0|5|91
+Chi Chi Gonzalez|R|Byron Buxton|R|Pop Out|X|Four-Seam Fastball|29|0|0|0|5|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Flyout|B|Changeup|30|0|0|1|11|84
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Flyout|F|Four-Seam Fastball|31|1|0|1|5|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Flyout|X|Changeup|32|1|1|1|13|85
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|C|Curveball|33|0|0|2|8|79
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|34|0|1|2|14|92
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|35|1|1|2|14|91
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|36|2|1|2|13|90
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|C|Four-Seam Fastball|37|3|1|2|4|90
+Chi Chi Gonzalez|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|38|3|2|2|13|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Single|C|Curveball|39|0|0|2|7|79
+Chi Chi Gonzalez|R|Miguel Sano|R|Single|D|Slider|40|0|1|2|9|86
+Chi Chi Gonzalez|R|Brian Dozier|R|Single|B|Four-Seam Fastball|41|0|0|2|11|90
+Chi Chi Gonzalez|R|Brian Dozier|R|Single|C|Slider|42|1|0|2|6|85
+Chi Chi Gonzalez|R|Brian Dozier|R|Single|F|Two-Seam Fastball|43|1|1|2|13|91
+Chi Chi Gonzalez|R|Brian Dozier|R|Single|E|Slider|44|1|2|2|6|85
+Chi Chi Gonzalez|R|Max Kepler|L|Groundout|C|Two-Seam Fastball|45|0|0|2|13|89
+Chi Chi Gonzalez|R|Max Kepler|L|Groundout|X|Two-Seam Fastball|46|0|1|2|13|91
+Chi Chi Gonzalez|R|Robbie Grossman|L|Flyout|B|Changeup|47|0|0|0|11|87
+Chi Chi Gonzalez|R|Robbie Grossman|L|Flyout|X|Changeup|48|1|0|0|13|87
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|C|Two-Seam Fastball|49|0|0|1|13|88
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|B|Slider|50|0|1|1|14|86
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|T|Four-Seam Fastball|51|1|1|1|8|91
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|B|Changeup|52|1|2|1|13|86
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|F|Slider|53|2|2|1|14|87
+Chi Chi Gonzalez|R|Eddie Rosario|L|Single|D|Four-Seam Fastball|54|2|2|1|14|92
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Flyout|B|Four-Seam Fastball|55|0|0|1|8|91
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Flyout|C|Slider|56|1|0|1|9|88
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Flyout|X|Four-Seam Fastball|57|1|1|1|7|91
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|B|Four-Seam Fastball|58|0|0|2|14|88
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|*B|Slider|59|1|0|2|14|85
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Four-Seam Fastball|60|2|0|2|3|90
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|B|Four-Seam Fastball|61|2|1|2|14|89
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Four-Seam Fastball|62|3|1|2|9|90
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|X|Four-Seam Fastball|63|3|2|2|4|91
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Single|C|Curveball|64|0|0|0|13|78
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Single|B|Two-Seam Fastball|65|0|1|0|13|89
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Single|D|Slider|66|1|1|0|9|84
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|C|Four-Seam Fastball|67|0|0|0|9|88
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|C|Slider|68|0|1|0|13|83
+Chi Chi Gonzalez|R|Joe Mauer|L|Single|D|Four-Seam Fastball|69|0|2|0|9|89
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|70|0|0|0|13|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|71|0|1|0|11|91
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|*B|Changeup|72|1|1|0|13|84
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|73|2|1|0|13|92
+Chi Chi Gonzalez|R|Miguel Sano|R|Strikeout|S|Two-Seam Fastball|74|2|2|0|11|90
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|C|Curveball|75|0|0|1|11|78
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|76|0|1|1|11|92
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|77|1|1|1|9|91
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|*B|Slider|78|2|1|1|14|86
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|F|Four-Seam Fastball|79|3|1|1|11|91
+Chi Chi Gonzalez|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|80|3|2|1|11|92
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Two-Seam Fastball|81|0|0|1|13|89
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|B|Curveball|82|0|1|1|11|79
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|T|Four-Seam Fastball|83|1|1|1|11|90
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|B|Two-Seam Fastball|84|1|2|1|13|90
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Slider|85|2|2|1|14|86
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Slider|86|2|2|1|13|85
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|B|Four-Seam Fastball|87|2|2|1|12|91
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Two-Seam Fastball|88|3|2|1|8|90
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Curveball|89|3|2|1|14|80
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|F|Four-Seam Fastball|90|3|2|1|11|89
+Chi Chi Gonzalez|R|Max Kepler|L|Strikeout|S|Four-Seam Fastball|91|3|2|1|13|90
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|B|Changeup|92|0|0|2|13|86
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|B|Changeup|93|1|0|2|11|85
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|B|Two-Seam Fastball|94|2|0|2|13|90
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|C|Four-Seam Fastball|95|3|0|2|5|90
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|S|Two-Seam Fastball|96|3|1|2|13|90
+Chi Chi Gonzalez|R|Robbie Grossman|L|Strikeout|C|Two-Seam Fastball|97|3|2|2|11|90
+Chi Chi Gonzalez|R|Eddie Rosario|L|Pop Out|B|Slider|98|0|0|0|11|85
+Chi Chi Gonzalez|R|Eddie Rosario|L|Pop Out|S|Changeup|99|1|0|0|11|86
+Chi Chi Gonzalez|R|Eddie Rosario|L|Pop Out|C|Slider|100|1|1|0|13|87
+Chi Chi Gonzalez|R|Eddie Rosario|L|Pop Out|F|Curveball|101|1|2|0|13|78
+Chi Chi Gonzalez|R|Eddie Rosario|L|Pop Out|X|Curveball|102|1|2|0|14|83
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Walk|B|Curveball|103|0|0|1|9|76
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Walk|B|Curveball|104|1|0|1|14|82
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Walk|B|Four-Seam Fastball|105|2|0|1|14|88
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Walk|C|Four-Seam Fastball|106|3|0|1|8|89
+Chi Chi Gonzalez|R|Kurt Suzuki|R|Walk|B|Four-Seam Fastball|107|3|1|1|13|88
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|C|Two-Seam Fastball|108|0|0|1|13|88
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Four-Seam Fastball|109|0|1|1|13|89
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|B|Four-Seam Fastball|110|0|2|1|11|89
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|B|Slider|111|1|2|1|14|85
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Four-Seam Fastball|112|2|2|1|14|90
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Changeup|113|2|2|1|13|84
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|F|Four-Seam Fastball|114|2|2|1|11|91
+Chi Chi Gonzalez|R|Byron Buxton|R|Flyout|X|Four-Seam Fastball|115|2|2|1|6|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|W|Curveball|116|0|0|2|14|78
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|B|Curveball|117|0|1|2|11|77
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|F|Four-Seam Fastball|118|1|1|2|14|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|B|Four-Seam Fastball|119|1|2|2|11|89
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|F|Four-Seam Fastball|120|2|2|2|7|90
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|B|Changeup|121|2|2|2|13|85
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|F|Four-Seam Fastball|122|3|2|2|14|91
+Chi Chi Gonzalez|R|Eduardo Nunez|R|Walk|B|Four-Seam Fastball|123|3|2|2|13|91

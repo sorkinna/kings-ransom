@@ -1,0 +1,2382 @@
+John Lamb|L|Marcus Semien|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|89
+John Lamb|L|Marcus Semien|R|Pop Out|B|Four-Seam Fastball|1|1|0|0|14|88
+John Lamb|L|Marcus Semien|R|Pop Out|B|Changeup|2|2|0|0|14|73
+John Lamb|L|Marcus Semien|R|Pop Out|C|Four-Seam Fastball|3|3|0|0|5|89
+John Lamb|L|Marcus Semien|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|5|90
+John Lamb|L|Chad Pinder|R|Single|B|Four-Seam Fastball|5|0|0|1|14|89
+John Lamb|L|Chad Pinder|R|Single|F|Changeup|6|1|0|1|9|75
+John Lamb|L|Chad Pinder|R|Single|F|Cutter|7|1|1|1|13|84
+John Lamb|L|Chad Pinder|R|Single|F|Changeup|8|1|2|1|14|75
+John Lamb|L|Chad Pinder|R|Single|B|Cutter|9|1|2|1|13|86
+John Lamb|L|Chad Pinder|R|Single|F|Four-Seam Fastball|10|2|2|1|8|90
+John Lamb|L|Chad Pinder|R|Single|D|Four-Seam Fastball|11|2|2|1|4|89
+John Lamb|L|Jed Lowrie|R|Forceout|B|Four-Seam Fastball|12|0|0|1|14|89
+John Lamb|L|Jed Lowrie|R|Forceout|X|Cutter|13|1|0|1|13|85
+John Lamb|L|Khris Davis|R|Strikeout|F|Cutter|14|0|0|2|5|86
+John Lamb|L|Khris Davis|R|Strikeout|F|Four-Seam Fastball|15|0|1|2|3|89
+John Lamb|L|Khris Davis|R|Strikeout|B|Changeup|16|0|2|2|14|76
+John Lamb|L|Khris Davis|R|Strikeout|B|Changeup|17|1|2|2|14|76
+John Lamb|L|Khris Davis|R|Strikeout|B|Cutter|18|2|2|2|13|85
+John Lamb|L|Khris Davis|R|Strikeout|F|Four-Seam Fastball|19|3|2|2|5|90
+John Lamb|L|Khris Davis|R|Strikeout|S|Cutter|20|3|2|2|13|85
+John Lamb|L|Matt Olson|L|Strikeout|C|Cutter|21|0|0|0|4|84
+John Lamb|L|Matt Olson|L|Strikeout|B|Four-Seam Fastball|22|0|1|0|14|89
+John Lamb|L|Matt Olson|L|Strikeout|F|Cutter|23|1|1|0|4|86
+John Lamb|L|Matt Olson|L|Strikeout|B|Four-Seam Fastball|24|1|2|0|11|91
+John Lamb|L|Matt Olson|L|Strikeout|B|Cutter|25|2|2|0|13|86
+John Lamb|L|Matt Olson|L|Strikeout|F|Four-Seam Fastball|26|3|2|0|9|91
+John Lamb|L|Matt Olson|L|Strikeout|S|Four-Seam Fastball|27|3|2|0|4|90
+John Lamb|L|Mark Canha|R|Groundout|C|Changeup|28|0|0|1|14|76
+John Lamb|L|Mark Canha|R|Groundout|B|Cutter|29|0|1|1|13|86
+John Lamb|L|Mark Canha|R|Groundout|B|Four-Seam Fastball|30|1|1|1|12|90
+John Lamb|L|Mark Canha|R|Groundout|B|Cutter|31|2|1|1|13|85
+John Lamb|L|Mark Canha|R|Groundout|X|Four-Seam Fastball|32|3|1|1|5|89
+John Lamb|L|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|33|0|0|2|9|89
+John Lamb|L|Jonathan Lucroy|R|Groundout|B|Cutter|34|0|1|2|13|87
+John Lamb|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|35|1|1|2|14|89
+John Lamb|L|Jonathan Lucroy|R|Groundout|C|Cutter|36|2|1|2|8|87
+John Lamb|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|37|2|2|2|13|90
+John Lamb|L|Jonathan Lucroy|R|Groundout|X|Cutter|38|3|2|2|5|86
+John Lamb|L|Stephen Piscotty|R|Groundout|C|Four-Seam Fastball|39|0|0|0|9|88
+John Lamb|L|Stephen Piscotty|R|Groundout|C|Cutter|40|0|1|0|14|84
+John Lamb|L|Stephen Piscotty|R|Groundout|X|Changeup|41|0|2|0|14|76
+John Lamb|L|Franklin Barreto|R|Strikeout|B|Four-Seam Fastball|42|0|0|1|13|90
+John Lamb|L|Franklin Barreto|R|Strikeout|B|Four-Seam Fastball|43|1|0|1|14|89
+John Lamb|L|Franklin Barreto|R|Strikeout|C|Cutter|44|2|0|1|3|86
+John Lamb|L|Franklin Barreto|R|Strikeout|S|Cutter|45|2|1|1|13|85
+John Lamb|L|Franklin Barreto|R|Strikeout|F|Four-Seam Fastball|46|2|2|1|6|91
+John Lamb|L|Franklin Barreto|R|Strikeout|W|Cutter|47|2|2|1|13|85
+John Lamb|L|Marcus Semien|R|Flyout|C|Curveball|48|0|0|2|7|69
+John Lamb|L|Marcus Semien|R|Flyout|F|Cutter|49|0|1|2|4|85
+John Lamb|L|Marcus Semien|R|Flyout|X|Four-Seam Fastball|50|0|2|2|5|91
+John Lamb|L|Chad Pinder|R|Home Run|E|Cutter|51|0|0|0|8|84
+John Lamb|L|Jed Lowrie|R|Groundout|F|Cutter|52|0|0|0|4|86
+John Lamb|L|Jed Lowrie|R|Groundout|X|Four-Seam Fastball|53|0|1|0|4|89
+John Lamb|L|Khris Davis|R|Strikeout|S|Changeup|54|0|0|1|6|76
+John Lamb|L|Khris Davis|R|Strikeout|S|Cutter|55|0|1|1|7|87
+John Lamb|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|56|0|2|1|11|90
+John Lamb|L|Khris Davis|R|Strikeout|F|Cutter|57|1|2|1|4|87
+John Lamb|L|Khris Davis|R|Strikeout|B|Changeup|58|1|2|1|14|77
+John Lamb|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|59|2|2|1|13|90
+John Lamb|L|Khris Davis|R|Strikeout|F|Cutter|60|3|2|1|7|88
+John Lamb|L|Khris Davis|R|Strikeout|T|Cutter|61|3|2|1|13|85
+John Lamb|L|Matt Olson|L|Pop Out|B|Curveball|62|0|0|2|11|69
+John Lamb|L|Matt Olson|L|Pop Out|X|Cutter|63|1|0|2|4|86
+John Lamb|L|Mark Canha|R|Strikeout|B|Curveball|64|0|0|2|14|67
+John Lamb|L|Mark Canha|R|Strikeout|C|Changeup|65|1|0|2|14|72
+John Lamb|L|Mark Canha|R|Strikeout|C|Changeup|66|1|1|2|9|74
+John Lamb|L|Mark Canha|R|Strikeout|F|Cutter|67|1|2|2|11|86
+John Lamb|L|Mark Canha|R|Strikeout|C|Four-Seam Fastball|68|1|2|2|7|90
+John Lamb|L|Jonathan Lucroy|R|Lineout|B|Two-Seam Fastball|69|0|0|0|14|88
+John Lamb|L|Jonathan Lucroy|R|Lineout|B|Cutter|70|1|0|0|13|85
+John Lamb|L|Jonathan Lucroy|R|Lineout|B|Four-Seam Fastball|71|2|0|0|12|89
+John Lamb|L|Jonathan Lucroy|R|Lineout|C|Four-Seam Fastball|72|3|0|0|14|88
+John Lamb|L|Jonathan Lucroy|R|Lineout|F|Changeup|73|3|1|0|8|76
+John Lamb|L|Jonathan Lucroy|R|Lineout|F|Four-Seam Fastball|74|3|2|0|2|89
+John Lamb|L|Jonathan Lucroy|R|Lineout|X|Cutter|75|3|2|0|9|85
+John Lamb|L|Stephen Piscotty|R|Walk|B|Changeup|76|0|0|1|14|76
+John Lamb|L|Stephen Piscotty|R|Walk|C|Changeup|77|1|0|1|6|73
+John Lamb|L|Stephen Piscotty|R|Walk|F|Cutter|78|1|1|1|13|86
+John Lamb|L|Stephen Piscotty|R|Walk|B|Four-Seam Fastball|79|1|2|1|11|90
+John Lamb|L|Stephen Piscotty|R|Walk|B|Four-Seam Fastball|80|2|2|1|14|91
+John Lamb|L|Stephen Piscotty|R|Walk|B|Cutter|81|3|2|1|14|87
+John Lamb|L|Franklin Barreto|R|Pop Out|C|Changeup|82|0|0|1|5|74
+John Lamb|L|Franklin Barreto|R|Pop Out|X|Cutter|83|0|1|1|6|86
+John Lamb|L|Marcus Semien|R|Home Run|C|Changeup|84|0|0|2|9|74
+John Lamb|L|Marcus Semien|R|Home Run|B|Changeup|85|0|1|2|14|74
+John Lamb|L|Marcus Semien|R|Home Run|B|Four-Seam Fastball|86|1|1|2|13|86
+John Lamb|L|Marcus Semien|R|Home Run|E|Four-Seam Fastball|87|2|1|2|8|88
+John Lamb|L|Teoscar Hernandez|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|14|88
+John Lamb|L|Teoscar Hernandez|R|Strikeout|S|Four-Seam Fastball|1|0|1|0|14|89
+John Lamb|L|Teoscar Hernandez|R|Strikeout|S|Cutter|2|0|2|0|13|85
+John Lamb|L|Justin Smoak|R|Flyout|B|Four-Seam Fastball|3|0|0|1|14|88
+John Lamb|L|Justin Smoak|R|Flyout|C|Four-Seam Fastball|4|1|0|1|8|88
+John Lamb|L|Justin Smoak|R|Flyout|S|Cutter|5|1|1|1|13|85
+John Lamb|L|Justin Smoak|R|Flyout|B|Changeup|6|1|2|1|14|73
+John Lamb|L|Justin Smoak|R|Flyout|F|Cutter|7|2|2|1|5|86
+John Lamb|L|Justin Smoak|R|Flyout|X|Four-Seam Fastball|8|2|2|1|11|90
+John Lamb|L|Yangervis Solarte|R|Groundout|F|Curveball|9|0|0|2|5|67
+John Lamb|L|Yangervis Solarte|R|Groundout|S|Changeup|10|0|1|2|12|73
+John Lamb|L|Yangervis Solarte|R|Groundout|F|Cutter|11|0|2|2|7|87
+John Lamb|L|Yangervis Solarte|R|Groundout|X|Changeup|12|0|2|2|14|72
+John Lamb|L|Kendrys Morales|R|Double|C|Four-Seam Fastball|13|0|0|0|9|89
+John Lamb|L|Kendrys Morales|R|Double|B|Cutter|14|0|1|0|13|85
+John Lamb|L|Kendrys Morales|R|Double|D|Curveball|15|1|1|0|5|66
+John Lamb|L|Kevin Pillar|R|Groundout|C|Four-Seam Fastball|16|0|0|0|14|87
+John Lamb|L|Kevin Pillar|R|Groundout|S|Two-Seam Fastball|17|0|1|0|12|87
+John Lamb|L|Kevin Pillar|R|Groundout|F|Cutter|18|0|2|0|11|86
+John Lamb|L|Kevin Pillar|R|Groundout|F|Changeup|19|0|2|0|8|72
+John Lamb|L|Kevin Pillar|R|Groundout|*B|Changeup|20|0|2|0|13|72
+John Lamb|L|Kevin Pillar|R|Groundout|F|Two-Seam Fastball|21|1|2|0|12|90
+John Lamb|L|Kevin Pillar|R|Groundout|X|Cutter|22|1|2|0|11|84
+John Lamb|L|Randal Grichuk|R|Groundout|B|Changeup|23|0|0|1|13|73
+John Lamb|L|Randal Grichuk|R|Groundout|F|Cutter|24|1|0|1|4|85
+John Lamb|L|Randal Grichuk|R|Groundout|C|Four-Seam Fastball|25|1|1|1|14|90
+John Lamb|L|Randal Grichuk|R|Groundout|F|Cutter|26|1|2|1|4|86
+John Lamb|L|Randal Grichuk|R|Groundout|B|Changeup|27|1|2|1|13|73
+John Lamb|L|Randal Grichuk|R|Groundout|F|Four-Seam Fastball|28|2|2|1|12|90
+John Lamb|L|Randal Grichuk|R|Groundout|X|Four-Seam Fastball|29|2|2|1|12|90
+John Lamb|L|Aledmys Diaz|R|Double|C|Curveball|30|0|0|2|9|66
+John Lamb|L|Aledmys Diaz|R|Double|B|Cutter|31|0|1|2|13|86
+John Lamb|L|Aledmys Diaz|R|Double|F|Cutter|32|1|1|2|1|86
+John Lamb|L|Aledmys Diaz|R|Double|B|Four-Seam Fastball|33|1|2|2|13|90
+John Lamb|L|Aledmys Diaz|R|Double|E|Changeup|34|2|2|2|12|75
+John Lamb|L|Luke Maile|R|Strikeout|C|Four-Seam Fastball|35|0|0|2|8|89
+John Lamb|L|Luke Maile|R|Strikeout|B|Four-Seam Fastball|36|0|1|2|13|88
+John Lamb|L|Luke Maile|R|Strikeout|B|Cutter|37|1|1|2|13|86
+John Lamb|L|Luke Maile|R|Strikeout|C|Four-Seam Fastball|38|2|1|2|9|88
+John Lamb|L|Luke Maile|R|Strikeout|S|Four-Seam Fastball|39|2|2|2|12|90
+John Lamb|L|Lourdes Gurriel Jr.|R|Single|B|Four-Seam Fastball|40|0|0|0|14|87
+John Lamb|L|Lourdes Gurriel Jr.|R|Single|B|Four-Seam Fastball|41|1|0|0|14|87
+John Lamb|L|Lourdes Gurriel Jr.|R|Single|F|Four-Seam Fastball|42|2|0|0|14|87
+John Lamb|L|Lourdes Gurriel Jr.|R|Single|D|Cutter|43|2|1|0|13|84
+John Lamb|L|Teoscar Hernandez|R|Strikeout|C|Cutter|44|0|0|0|13|82
+John Lamb|L|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|45|0|1|0|14|88
+John Lamb|L|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|46|1|1|0|12|87
+John Lamb|L|Teoscar Hernandez|R|Strikeout|F|Cutter|47|2|1|0|13|82
+John Lamb|L|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|48|2|2|0|11|88
+John Lamb|L|Teoscar Hernandez|R|Strikeout|S|Four-Seam Fastball|49|3|2|0|6|88
+John Lamb|L|Justin Smoak|R|Double|B|Curveball|50|0|0|1|12|65
+John Lamb|L|Justin Smoak|R|Double|E|Four-Seam Fastball|51|1|0|1|8|87
+John Lamb|L|Yangervis Solarte|R|Groundout|X|Cutter|52|0|0|1|11|83
+John Lamb|L|Kendrys Morales|R|Walk|*B|Changeup|53|0|0|2|13|72
+John Lamb|L|Kendrys Morales|R|Walk|F|Cutter|54|1|0|2|1|83
+John Lamb|L|Kendrys Morales|R|Walk|B|Cutter|55|1|1|2|11|84
+John Lamb|L|Kendrys Morales|R|Walk|F|Changeup|56|2|1|2|7|72
+John Lamb|L|Kendrys Morales|R|Walk|F|Four-Seam Fastball|57|2|2|2|6|88
+John Lamb|L|Kendrys Morales|R|Walk|B|Cutter|58|2|2|2|13|81
+John Lamb|L|Kendrys Morales|R|Walk|B|Changeup|59|3|2|2|13|73
+John Lamb|L|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|60|0|0|2|11|86
+John Lamb|L|Kevin Pillar|R|Flyout|*B|Cutter|61|1|0|2|13|84
+John Lamb|L|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|62|2|0|2|8|89
+John Lamb|L|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|63|2|1|2|11|88
+John Lamb|L|Kevin Pillar|R|Flyout|X|Curveball|64|2|2|2|14|65
+John Lamb|L|Randal Grichuk|R|Home Run|C|Four-Seam Fastball|65|0|0|0|14|87
+John Lamb|L|Randal Grichuk|R|Home Run|E|Four-Seam Fastball|66|0|1|0|12|87
+John Lamb|L|Aledmys Diaz|R|Strikeout|C|Cutter|67|0|0|0|7|85
+John Lamb|L|Aledmys Diaz|R|Strikeout|C|Four-Seam Fastball|68|0|1|0|4|87
+John Lamb|L|Aledmys Diaz|R|Strikeout|B|Cutter|69|0|2|0|13|84
+John Lamb|L|Aledmys Diaz|R|Strikeout|S|Curveball|70|1|2|0|8|66
+John Lamb|L|Luke Maile|R|Single|C|Curveball|71|0|0|1|1|65
+John Lamb|L|Luke Maile|R|Single|S|Cutter|72|0|1|1|13|84
+John Lamb|L|Luke Maile|R|Single|B|Curveball|73|0|2|1|13|66
+John Lamb|L|Luke Maile|R|Single|F|Curveball|74|1|2|1|8|67
+John Lamb|L|Luke Maile|R|Single|D|Cutter|75|1|2|1|12|82
+John Lamb|L|Mookie Betts|R|Home Run|E|Four-Seam Fastball|0|0|0|0|3|89
+John Lamb|L|Andrew Benintendi|L|Lineout|B|Four-Seam Fastball|1|0|0|0|11|90
+John Lamb|L|Andrew Benintendi|L|Lineout|F|Four-Seam Fastball|2|1|0|0|5|89
+John Lamb|L|Andrew Benintendi|L|Lineout|X|Cutter|3|1|1|0|4|84
+John Lamb|L|J.D. Martinez|R|Double|D|Four-Seam Fastball|4|0|0|1|7|89
+John Lamb|L|Xander Bogaerts|R|Flyout|B|Four-Seam Fastball|5|0|0|1|9|88
+John Lamb|L|Xander Bogaerts|R|Flyout|C|Cutter|6|1|0|1|1|83
+John Lamb|L|Xander Bogaerts|R|Flyout|X|Changeup|7|1|1|1|8|73
+John Lamb|L|Mitch Moreland|L|Strikeout|C|Curveball|8|0|0|2|2|68
+John Lamb|L|Mitch Moreland|L|Strikeout|B|Four-Seam Fastball|9|0|1|2|13|89
+John Lamb|L|Mitch Moreland|L|Strikeout|S|Four-Seam Fastball|10|1|1|2|2|89
+John Lamb|L|Mitch Moreland|L|Strikeout|S|Curveball|11|1|2|2|13|69
+John Lamb|L|Eduardo Nunez|R|Single|D|Cutter|12|0|0|0|4|82
+John Lamb|L|Rafael Devers|L|Field Error|F|Cutter|13|0|0|0|5|82
+John Lamb|L|Rafael Devers|L|Field Error|B|Four-Seam Fastball|14|0|1|0|14|86
+John Lamb|L|Rafael Devers|L|Field Error|C|Four-Seam Fastball|15|1|1|0|14|87
+John Lamb|L|Rafael Devers|L|Field Error|D|Curveball|16|1|2|0|13|67
+John Lamb|L|Christian Vazquez|R|Groundout|C|Four-Seam Fastball|17|0|0|0|14|86
+John Lamb|L|Christian Vazquez|R|Groundout|X|Cutter|18|0|1|0|13|82
+John Lamb|L|Jackie Bradley Jr.|L|Double|B|Four-Seam Fastball|19|0|0|1|12|88
+John Lamb|L|Jackie Bradley Jr.|L|Double|E|Cutter|20|1|0|1|13|84
+John Lamb|L|Mookie Betts|R|Walk|C|Changeup|21|0|0|1|5|73
+John Lamb|L|Mookie Betts|R|Walk|B|Cutter|22|0|1|1|13|85
+John Lamb|L|Mookie Betts|R|Walk|B|Four-Seam Fastball|23|1|1|1|13|89
+John Lamb|L|Mookie Betts|R|Walk|B|Cutter|24|2|1|1|13|84
+John Lamb|L|Mookie Betts|R|Walk|*B|Cutter|25|3|1|1|13|84
+John Lamb|L|Andrew Benintendi|L|Double|T|Cutter|26|0|0|1|4|84
+John Lamb|L|Andrew Benintendi|L|Double|B|Four-Seam Fastball|27|0|1|1|14|88
+John Lamb|L|Andrew Benintendi|L|Double|B|Curveball|28|1|1|1|13|68
+John Lamb|L|Andrew Benintendi|L|Double|B|Cutter|29|2|1|1|13|85
+John Lamb|L|Andrew Benintendi|L|Double|F|Four-Seam Fastball|30|3|1|1|5|89
+John Lamb|L|Andrew Benintendi|L|Double|E|Four-Seam Fastball|31|3|2|1|11|88
+John Lamb|L|J.D. Martinez|R|Strikeout|F|Cutter|32|0|0|1|11|85
+John Lamb|L|J.D. Martinez|R|Strikeout|B|Cutter|33|0|1|1|11|84
+John Lamb|L|J.D. Martinez|R|Strikeout|F|Changeup|34|1|1|1|14|73
+John Lamb|L|J.D. Martinez|R|Strikeout|F|Cutter|35|1|2|1|11|82
+John Lamb|L|J.D. Martinez|R|Strikeout|C|Four-Seam Fastball|36|1|2|1|11|87
+John Lamb|L|Xander Bogaerts|R|Intent Walk|V|N/A|37|0|0|2|0|0
+John Lamb|L|Xander Bogaerts|R|Intent Walk|V|N/A|38|0|1|2|0|0
+John Lamb|L|Xander Bogaerts|R|Intent Walk|V|N/A|39|0|2|2|0|0
+John Lamb|L|Xander Bogaerts|R|Intent Walk|V|N/A|40|0|2|2|0|0
+John Lamb|L|Mitch Moreland|L|Single|E|Cutter|41|0|0|2|13|83
+John Lamb|L|Jimmy Rollins|R|Double|B|Four-Seam Fastball|0|0|0|0|7|91
+John Lamb|L|Jimmy Rollins|R|Double|B|Four-Seam Fastball|1|1|0|0|12|91
+John Lamb|L|Jimmy Rollins|R|Double|B|Four-Seam Fastball|2|2|0|0|11|90
+John Lamb|L|Jimmy Rollins|R|Double|C|Four-Seam Fastball|3|3|0|0|2|90
+John Lamb|L|Jimmy Rollins|R|Double|D|Four-Seam Fastball|4|3|1|0|4|92
+John Lamb|L|Enrique Hernandez|R|Single|C|Four-Seam Fastball|5|0|0|0|5|91
+John Lamb|L|Enrique Hernandez|R|Single|B|Four-Seam Fastball|6|0|1|0|13|92
+John Lamb|L|Enrique Hernandez|R|Single|S|Cutter|7|1|1|0|13|88
+John Lamb|L|Enrique Hernandez|R|Single|D|Cutter|8|1|2|0|7|90
+John Lamb|L|Justin Turner|R|Sac Fly|F|Four-Seam Fastball|9|0|0|0|8|92
+John Lamb|L|Justin Turner|R|Sac Fly|E|Changeup|10|0|1|0|7|76
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|C|Four-Seam Fastball|11|0|0|1|9|93
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|B|Four-Seam Fastball|12|0|1|1|14|91
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|B|Four-Seam Fastball|13|1|1|1|12|91
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|F|Changeup|14|2|1|1|3|76
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|F|Changeup|15|2|2|1|13|73
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|B|Four-Seam Fastball|16|2|2|1|13|92
+John Lamb|L|Adrian Gonzalez|L|Strikeout Double Play|S|Cutter|17|3|2|1|13|89
+John Lamb|L|Scott Van Slyke|R|Groundout|B|Cutter|18|0|0|0|1|88
+John Lamb|L|Scott Van Slyke|R|Groundout|F|Changeup|19|1|0|0|5|76
+John Lamb|L|Scott Van Slyke|R|Groundout|X|Changeup|20|1|1|0|9|77
+John Lamb|L|Yasiel Puig|R|Single|F|Four-Seam Fastball|21|0|0|1|6|93
+John Lamb|L|Yasiel Puig|R|Single|D|Four-Seam Fastball|22|0|1|1|8|92
+John Lamb|L|Yasmani Grandal|R|Strikeout|F|Four-Seam Fastball|23|0|0|1|12|91
+John Lamb|L|Yasmani Grandal|R|Strikeout|S|Changeup|24|0|1|1|7|76
+John Lamb|L|Yasmani Grandal|R|Strikeout|T|Cutter|25|0|2|1|13|90
+John Lamb|L|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|26|0|0|2|7|93
+John Lamb|L|Joc Pederson|L|Strikeout|S|Curveball|27|0|1|2|7|71
+John Lamb|L|Joc Pederson|L|Strikeout|*B|Four-Seam Fastball|28|0|2|2|13|93
+John Lamb|L|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|29|1|2|2|13|92
+John Lamb|L|Alex Wood|R|Walk|B|Four-Seam Fastball|30|0|0|0|12|90
+John Lamb|L|Alex Wood|R|Walk|B|Four-Seam Fastball|31|1|0|0|14|91
+John Lamb|L|Alex Wood|R|Walk|C|Four-Seam Fastball|32|2|0|0|3|89
+John Lamb|L|Alex Wood|R|Walk|B|Four-Seam Fastball|33|2|1|0|12|91
+John Lamb|L|Alex Wood|R|Walk|B|Four-Seam Fastball|34|3|1|0|13|90
+John Lamb|L|Jimmy Rollins|R|Lineout|B|Four-Seam Fastball|35|0|0|0|11|91
+John Lamb|L|Jimmy Rollins|R|Lineout|C|Changeup|36|1|0|0|2|78
+John Lamb|L|Jimmy Rollins|R|Lineout|B|Cutter|37|1|1|0|3|89
+John Lamb|L|Jimmy Rollins|R|Lineout|X|Four-Seam Fastball|38|2|1|0|4|91
+John Lamb|L|Enrique Hernandez|R|Strikeout|C|Changeup|39|0|0|1|3|76
+John Lamb|L|Enrique Hernandez|R|Strikeout|S|Cutter|40|0|1|1|11|90
+John Lamb|L|Enrique Hernandez|R|Strikeout|S|Cutter|41|0|2|1|1|89
+John Lamb|L|Justin Turner|R|Single|C|Changeup|42|0|0|2|5|76
+John Lamb|L|Justin Turner|R|Single|B|Four-Seam Fastball|43|0|1|2|11|91
+John Lamb|L|Justin Turner|R|Single|D|Changeup|44|1|1|2|5|75
+John Lamb|L|Adrian Gonzalez|L|Lineout|X|Four-Seam Fastball|45|0|0|2|3|92
+John Lamb|L|Scott Van Slyke|R|Strikeout|C|Curveball|46|0|0|0|5|68
+John Lamb|L|Scott Van Slyke|R|Strikeout|B|Four-Seam Fastball|47|0|1|0|14|91
+John Lamb|L|Scott Van Slyke|R|Strikeout|S|Cutter|48|1|1|0|3|87
+John Lamb|L|Scott Van Slyke|R|Strikeout|B|Four-Seam Fastball|49|1|2|0|12|92
+John Lamb|L|Scott Van Slyke|R|Strikeout|S|Four-Seam Fastball|50|2|2|0|3|91
+John Lamb|L|Yasiel Puig|R|Strikeout|F|Cutter|51|0|0|1|2|88
+John Lamb|L|Yasiel Puig|R|Strikeout|S|Changeup|52|0|1|1|14|75
+John Lamb|L|Yasiel Puig|R|Strikeout|F|Changeup|53|0|2|1|6|74
+John Lamb|L|Yasiel Puig|R|Strikeout|S|Changeup|54|0|2|1|9|72
+John Lamb|L|Yasmani Grandal|R|Pop Out|B|Changeup|55|0|0|2|12|74
+John Lamb|L|Yasmani Grandal|R|Pop Out|C|Cutter|56|1|0|2|2|86
+John Lamb|L|Yasmani Grandal|R|Pop Out|B|Cutter|57|1|1|2|11|84
+John Lamb|L|Yasmani Grandal|R|Pop Out|F|Changeup|58|2|1|2|2|74
+John Lamb|L|Yasmani Grandal|R|Pop Out|X|Four-Seam Fastball|59|2|2|2|11|91
+John Lamb|L|Joc Pederson|L|Walk|B|Curveball|60|0|0|0|7|69
+John Lamb|L|Joc Pederson|L|Walk|F|Four-Seam Fastball|61|1|0|0|6|90
+John Lamb|L|Joc Pederson|L|Walk|B|Curveball|62|1|1|0|12|69
+John Lamb|L|Joc Pederson|L|Walk|B|Four-Seam Fastball|63|2|1|0|13|91
+John Lamb|L|Joc Pederson|L|Walk|S|Four-Seam Fastball|64|3|1|0|12|91
+John Lamb|L|Joc Pederson|L|Walk|F|Four-Seam Fastball|65|3|2|0|12|92
+John Lamb|L|Joc Pederson|L|Walk|F|Four-Seam Fastball|66|3|2|0|4|91
+John Lamb|L|Joc Pederson|L|Walk|F|Four-Seam Fastball|67|3|2|0|6|91
+John Lamb|L|Joc Pederson|L|Walk|B|Four-Seam Fastball|68|3|2|0|12|92
+John Lamb|L|Alex Wood|R|Double Play|L|Four-Seam Fastball|69|0|0|0|7|90
+John Lamb|L|Alex Wood|R|Double Play|X|Four-Seam Fastball|70|0|1|0|6|89
+John Lamb|L|Jimmy Rollins|R|Single|C|Four-Seam Fastball|71|0|0|2|6|92
+John Lamb|L|Jimmy Rollins|R|Single|B|Curveball|72|0|1|2|12|68
+John Lamb|L|Jimmy Rollins|R|Single|S|Changeup|73|1|1|2|14|76
+John Lamb|L|Jimmy Rollins|R|Single|F|Cutter|74|1|2|2|11|88
+John Lamb|L|Jimmy Rollins|R|Single|D|Four-Seam Fastball|75|1|2|2|6|91
+John Lamb|L|Enrique Hernandez|R|Single|C|Four-Seam Fastball|76|0|0|2|11|91
+John Lamb|L|Enrique Hernandez|R|Single|D|Four-Seam Fastball|77|0|1|2|13|88
+John Lamb|L|Justin Turner|R|Single|C|Four-Seam Fastball|78|0|0|2|13|91
+John Lamb|L|Justin Turner|R|Single|E|Changeup|79|0|1|2|14|77
+John Lamb|L|Adrian Gonzalez|L|Home Run|*B|Four-Seam Fastball|80|0|0|2|13|92
+John Lamb|L|Adrian Gonzalez|L|Home Run|E|Four-Seam Fastball|81|1|0|2|14|91
+John Lamb|L|Scott Van Slyke|R|Groundout|F|Changeup|82|0|0|2|8|77
+John Lamb|L|Scott Van Slyke|R|Groundout|B|Changeup|83|0|1|2|13|78
+John Lamb|L|Scott Van Slyke|R|Groundout|X|Four-Seam Fastball|84|1|1|2|7|89
+John Lamb|L|Yasiel Puig|R|Lineout|B|Curveball|85|0|0|0|3|68
+John Lamb|L|Yasiel Puig|R|Lineout|F|Cutter|86|1|0|0|2|88
+John Lamb|L|Yasiel Puig|R|Lineout|B|Four-Seam Fastball|87|1|1|0|12|90
+John Lamb|L|Yasiel Puig|R|Lineout|B|Changeup|88|2|1|0|13|76
+John Lamb|L|Yasiel Puig|R|Lineout|X|Changeup|89|3|1|0|3|76
+John Lamb|L|Yasmani Grandal|R|Groundout|C|Curveball|90|0|0|1|11|68
+John Lamb|L|Yasmani Grandal|R|Groundout|X|Cutter|91|0|1|1|11|87
+John Lamb|L|Joc Pederson|L|Strikeout|S|Cutter|92|0|0|2|9|85
+John Lamb|L|Joc Pederson|L|Strikeout|B|Cutter|93|0|1|2|13|86
+John Lamb|L|Joc Pederson|L|Strikeout|B|Curveball|94|1|1|2|12|69
+John Lamb|L|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|95|2|1|2|13|90
+John Lamb|L|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|96|3|1|2|5|90
+John Lamb|L|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|97|3|2|2|7|90
+John Lamb|L|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|98|3|2|2|13|89
+John Lamb|L|Ender Inciarte|L|Groundout|C|Four-Seam Fastball|0|0|0|0|9|89
+John Lamb|L|Ender Inciarte|L|Groundout|B|Four-Seam Fastball|1|0|1|0|12|91
+John Lamb|L|Ender Inciarte|L|Groundout|B|Four-Seam Fastball|2|1|1|0|12|90
+John Lamb|L|Ender Inciarte|L|Groundout|S|Four-Seam Fastball|3|2|1|0|2|92
+John Lamb|L|Ender Inciarte|L|Groundout|B|Four-Seam Fastball|4|2|2|0|14|93
+John Lamb|L|Ender Inciarte|L|Groundout|X|Four-Seam Fastball|5|3|2|0|13|92
+John Lamb|L|A.J. Pollock|R|Single|D|Four-Seam Fastball|6|0|0|1|7|93
+John Lamb|L|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|7|0|0|1|12|90
+John Lamb|L|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|8|1|0|1|12|92
+John Lamb|L|Paul Goldschmidt|R|Pop Out|X|Four-Seam Fastball|9|2|0|1|13|91
+John Lamb|L|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|10|0|0|2|13|91
+John Lamb|L|Welington Castillo|R|Strikeout|F|Four-Seam Fastball|11|0|1|2|1|91
+John Lamb|L|Welington Castillo|R|Strikeout|*B|Curveball|12|0|2|2|13|68
+John Lamb|L|Welington Castillo|R|Strikeout|C|Cutter|13|1|2|2|7|89
+John Lamb|L|Aaron Hill|R|Groundout|C|Four-Seam Fastball|14|0|0|0|12|90
+John Lamb|L|Aaron Hill|R|Groundout|X|Cutter|15|0|1|0|4|86
+John Lamb|L|Yasmany Tomas|R|Groundout|B|Changeup|16|0|0|1|14|73
+John Lamb|L|Yasmany Tomas|R|Groundout|C|Four-Seam Fastball|17|1|0|1|8|93
+John Lamb|L|Yasmany Tomas|R|Groundout|F|Cutter|18|1|1|1|13|87
+John Lamb|L|Yasmany Tomas|R|Groundout|F|Four-Seam Fastball|19|1|2|1|13|93
+John Lamb|L|Yasmany Tomas|R|Groundout|B|Cutter|20|1|2|1|14|86
+John Lamb|L|Yasmany Tomas|R|Groundout|X|Changeup|21|2|2|1|9|73
+John Lamb|L|Chris Owings|R|Double|C|Changeup|22|0|0|2|14|75
+John Lamb|L|Chris Owings|R|Double|C|Curveball|23|0|1|2|9|68
+John Lamb|L|Chris Owings|R|Double|B|Changeup|24|0|2|2|14|71
+John Lamb|L|Chris Owings|R|Double|B|Cutter|25|1|2|2|12|88
+John Lamb|L|Chris Owings|R|Double|D|Four-Seam Fastball|26|2|2|2|11|91
+John Lamb|L|Nick Ahmed|R|Strikeout|C|Changeup|27|0|0|2|8|76
+John Lamb|L|Nick Ahmed|R|Strikeout|B|Four-Seam Fastball|28|0|1|2|13|92
+John Lamb|L|Nick Ahmed|R|Strikeout|C|Four-Seam Fastball|29|1|1|2|13|92
+John Lamb|L|Nick Ahmed|R|Strikeout|S|Cutter|30|1|2|2|13|89
+John Lamb|L|Patrick Corbin|L|Groundout|B|Cutter|31|0|0|0|13|88
+John Lamb|L|Patrick Corbin|L|Groundout|B|Four-Seam Fastball|32|1|0|0|14|90
+John Lamb|L|Patrick Corbin|L|Groundout|C|Four-Seam Fastball|33|2|0|0|5|88
+John Lamb|L|Patrick Corbin|L|Groundout|B|Four-Seam Fastball|34|2|1|0|1|91
+John Lamb|L|Patrick Corbin|L|Groundout|C|Four-Seam Fastball|35|3|1|0|7|90
+John Lamb|L|Patrick Corbin|L|Groundout|X|Four-Seam Fastball|36|3|2|0|5|90
+John Lamb|L|Ender Inciarte|L|Single|C|Cutter|37|0|0|1|6|85
+John Lamb|L|Ender Inciarte|L|Single|S|Cutter|38|0|1|1|2|84
+John Lamb|L|Ender Inciarte|L|Single|D|Cutter|39|0|2|1|8|87
+John Lamb|L|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|40|0|0|1|1|92
+John Lamb|L|A.J. Pollock|R|Strikeout|B|Cutter|41|1|0|1|11|86
+John Lamb|L|A.J. Pollock|R|Strikeout|F|Four-Seam Fastball|42|2|0|1|6|91
+John Lamb|L|A.J. Pollock|R|Strikeout|C|Four-Seam Fastball|43|2|1|1|9|93
+John Lamb|L|A.J. Pollock|R|Strikeout|C|Four-Seam Fastball|44|2|2|1|13|93
+John Lamb|L|Paul Goldschmidt|R|Strikeout|B|Curveball|45|0|0|2|14|68
+John Lamb|L|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|46|1|0|2|12|91
+John Lamb|L|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|47|2|0|2|6|89
+John Lamb|L|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|48|2|1|2|13|92
+John Lamb|L|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|49|3|1|2|9|91
+John Lamb|L|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|50|3|2|2|13|93
+John Lamb|L|Paul Goldschmidt|R|Strikeout|T|Four-Seam Fastball|51|3|2|2|5|92
+John Lamb|L|Welington Castillo|R|Lineout|B|Changeup|52|0|0|0|14|73
+John Lamb|L|Welington Castillo|R|Lineout|S|Changeup|53|1|0|0|13|74
+John Lamb|L|Welington Castillo|R|Lineout|B|Changeup|54|1|1|0|13|74
+John Lamb|L|Welington Castillo|R|Lineout|X|Four-Seam Fastball|55|2|1|0|2|89
+John Lamb|L|Aaron Hill|R|Strikeout|B|Cutter|56|0|0|1|12|87
+John Lamb|L|Aaron Hill|R|Strikeout|B|Changeup|57|1|0|1|12|76
+John Lamb|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|58|2|0|1|3|90
+John Lamb|L|Aaron Hill|R|Strikeout|F|Four-Seam Fastball|59|2|1|1|1|90
+John Lamb|L|Aaron Hill|R|Strikeout|B|Cutter|60|2|2|1|14|86
+John Lamb|L|Aaron Hill|R|Strikeout|C|Cutter|61|3|2|1|7|87
+John Lamb|L|Yasmany Tomas|R|Strikeout|F|Cutter|62|0|0|2|13|85
+John Lamb|L|Yasmany Tomas|R|Strikeout|F|Changeup|63|0|1|2|13|75
+John Lamb|L|Yasmany Tomas|R|Strikeout|B|Four-Seam Fastball|64|0|2|2|11|92
+John Lamb|L|Yasmany Tomas|R|Strikeout|F|Four-Seam Fastball|65|1|2|2|4|91
+John Lamb|L|Yasmany Tomas|R|Strikeout|F|Four-Seam Fastball|66|1|2|2|1|92
+John Lamb|L|Yasmany Tomas|R|Strikeout|F|Changeup|67|1|2|2|7|73
+John Lamb|L|Yasmany Tomas|R|Strikeout|B|Cutter|68|1|2|2|14|86
+John Lamb|L|Yasmany Tomas|R|Strikeout|S|Changeup|69|2|2|2|12|73
+John Lamb|L|Chris Owings|R|Home Run|B|Curveball|70|0|0|0|13|68
+John Lamb|L|Chris Owings|R|Home Run|E|Four-Seam Fastball|71|1|0|0|1|89
+John Lamb|L|Nick Ahmed|R|Lineout|B|Four-Seam Fastball|72|0|0|0|12|91
+John Lamb|L|Nick Ahmed|R|Lineout|B|Four-Seam Fastball|73|1|0|0|13|91
+John Lamb|L|Nick Ahmed|R|Lineout|T|Four-Seam Fastball|74|2|0|0|5|90
+John Lamb|L|Nick Ahmed|R|Lineout|L|Cutter|75|2|1|0|13|86
+John Lamb|L|Nick Ahmed|R|Lineout|F|Four-Seam Fastball|76|2|2|0|4|91
+John Lamb|L|Nick Ahmed|R|Lineout|B|Four-Seam Fastball|77|2|2|0|13|91
+John Lamb|L|Nick Ahmed|R|Lineout|X|Four-Seam Fastball|78|3|2|0|8|92
+John Lamb|L|Josh Collmenter|R|Strikeout|C|Four-Seam Fastball|79|0|0|1|14|91
+John Lamb|L|Josh Collmenter|R|Strikeout|C|Four-Seam Fastball|80|0|1|1|14|91
+John Lamb|L|Josh Collmenter|R|Strikeout|B|Curveball|81|0|2|1|13|69
+John Lamb|L|Josh Collmenter|R|Strikeout|C|Four-Seam Fastball|82|1|2|1|9|91
+John Lamb|L|Ender Inciarte|L|Double|L|Curveball|83|0|0|2|9|69
+John Lamb|L|Ender Inciarte|L|Double|S|Curveball|84|0|1|2|13|69
+John Lamb|L|Ender Inciarte|L|Double|D|Curveball|85|0|2|2|5|67
+John Lamb|L|A.J. Pollock|R|Single|C|Changeup|86|0|0|2|13|76
+John Lamb|L|A.J. Pollock|R|Single|S|Cutter|87|0|1|2|2|88
+John Lamb|L|A.J. Pollock|R|Single|B|Four-Seam Fastball|88|0|2|2|11|91
+John Lamb|L|A.J. Pollock|R|Single|F|Changeup|89|1|2|2|8|75
+John Lamb|L|A.J. Pollock|R|Single|B|Four-Seam Fastball|90|1|2|2|13|93
+John Lamb|L|A.J. Pollock|R|Single|E|Four-Seam Fastball|91|2|2|2|4|91
+John Lamb|L|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|92|0|0|2|11|91
+John Lamb|L|Paul Goldschmidt|R|Flyout|C|Four-Seam Fastball|93|1|0|2|8|87
+John Lamb|L|Paul Goldschmidt|R|Flyout|B|Cutter|94|1|1|2|11|86
+John Lamb|L|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|95|2|1|2|14|91
+John Lamb|L|Paul Goldschmidt|R|Flyout|X|Four-Seam Fastball|96|3|1|2|7|92
+John Lamb|L|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|97|0|0|0|12|86
+John Lamb|L|Welington Castillo|R|Strikeout|C|Changeup|98|1|0|0|4|74
+John Lamb|L|Welington Castillo|R|Strikeout|C|Curveball|99|1|1|0|3|65
+John Lamb|L|Welington Castillo|R|Strikeout|F|Cutter|100|1|2|0|11|86
+John Lamb|L|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|101|1|2|0|13|91
+John Lamb|L|Welington Castillo|R|Strikeout|S|Changeup|102|2|2|0|13|76
+John Lamb|L|Aaron Hill|R|Single|S|Curveball|103|0|0|1|7|66
+John Lamb|L|Aaron Hill|R|Single|S|Changeup|104|0|1|1|14|74
+John Lamb|L|Aaron Hill|R|Single|B|Four-Seam Fastball|105|0|2|1|12|90
+John Lamb|L|Aaron Hill|R|Single|D|Four-Seam Fastball|106|1|2|1|5|91
+John Lamb|L|Yasmany Tomas|R|Single|B|Changeup|107|0|0|1|13|78
+John Lamb|L|Yasmany Tomas|R|Single|D|Four-Seam Fastball|108|1|0|1|13|90
+John Lamb|L|Chris Owings|R|Single|S|Changeup|109|0|0|1|7|75
+John Lamb|L|Chris Owings|R|Single|S|Changeup|110|0|1|1|5|75
+John Lamb|L|Chris Owings|R|Single|E|Cutter|111|0|2|1|4|88
+John Lamb|L|Jimmy Rollins|R|Double|C|Four-Seam Fastball|0|0|0|0|8|90
+John Lamb|L|Jimmy Rollins|R|Double|F|Four-Seam Fastball|1|0|1|0|11|91
+John Lamb|L|Jimmy Rollins|R|Double|B|Cutter|2|0|2|0|13|86
+John Lamb|L|Jimmy Rollins|R|Double|F|Four-Seam Fastball|3|1|2|0|11|92
+John Lamb|L|Jimmy Rollins|R|Double|B|Changeup|4|1|2|0|13|74
+John Lamb|L|Jimmy Rollins|R|Double|D|Four-Seam Fastball|5|2|2|0|4|92
+John Lamb|L|Yasiel Puig|R|Double|E|Changeup|6|0|0|0|7|76
+John Lamb|L|Adrian Gonzalez|L|Flyout|F|Four-Seam Fastball|7|0|0|0|8|91
+John Lamb|L|Adrian Gonzalez|L|Flyout|B|Cutter|8|0|1|0|13|87
+John Lamb|L|Adrian Gonzalez|L|Flyout|F|Four-Seam Fastball|9|1|1|0|13|91
+John Lamb|L|Adrian Gonzalez|L|Flyout|X|Cutter|10|1|2|0|7|88
+John Lamb|L|Justin Turner|R|Strikeout|S|Four-Seam Fastball|11|0|0|1|1|92
+John Lamb|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|12|0|1|1|4|91
+John Lamb|L|Justin Turner|R|Strikeout|B|Four-Seam Fastball|13|0|2|1|11|92
+John Lamb|L|Justin Turner|R|Strikeout|F|Four-Seam Fastball|14|1|2|1|13|93
+John Lamb|L|Justin Turner|R|Strikeout|S|Four-Seam Fastball|15|1|2|1|5|93
+John Lamb|L|Scott Van Slyke|R|Walk|B|Four-Seam Fastball|16|0|0|2|14|91
+John Lamb|L|Scott Van Slyke|R|Walk|C|Four-Seam Fastball|17|1|0|2|8|90
+John Lamb|L|Scott Van Slyke|R|Walk|B|Cutter|18|1|1|2|11|86
+John Lamb|L|Scott Van Slyke|R|Walk|B|Four-Seam Fastball|19|2|1|2|14|92
+John Lamb|L|Scott Van Slyke|R|Walk|C|Four-Seam Fastball|20|3|1|2|9|92
+John Lamb|L|Scott Van Slyke|R|Walk|F|Four-Seam Fastball|21|3|2|2|14|91
+John Lamb|L|Scott Van Slyke|R|Walk|B|Four-Seam Fastball|22|3|2|2|13|93
+John Lamb|L|Chase Utley|L|Strikeout|C|Four-Seam Fastball|23|0|0|2|13|92
+John Lamb|L|Chase Utley|L|Strikeout|B|Curveball|24|0|1|2|13|68
+John Lamb|L|Chase Utley|L|Strikeout|B|Four-Seam Fastball|25|1|1|2|13|91
+John Lamb|L|Chase Utley|L|Strikeout|F|Four-Seam Fastball|26|2|1|2|5|92
+John Lamb|L|Chase Utley|L|Strikeout|F|Four-Seam Fastball|27|2|2|2|3|93
+John Lamb|L|Chase Utley|L|Strikeout|F|Four-Seam Fastball|28|2|2|2|2|91
+John Lamb|L|Chase Utley|L|Strikeout|S|Four-Seam Fastball|29|2|2|2|13|88
+John Lamb|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|30|0|0|0|12|89
+John Lamb|L|A.J. Ellis|R|Walk|C|Four-Seam Fastball|31|1|0|0|12|89
+John Lamb|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|32|1|1|0|11|90
+John Lamb|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|33|2|1|0|14|90
+John Lamb|L|A.J. Ellis|R|Walk|B|Four-Seam Fastball|34|3|1|0|12|90
+John Lamb|L|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|35|0|0|0|12|91
+John Lamb|L|Enrique Hernandez|R|Flyout|C|Four-Seam Fastball|36|1|0|0|8|89
+John Lamb|L|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|37|1|1|0|13|91
+John Lamb|L|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|38|2|1|0|14|91
+John Lamb|L|Enrique Hernandez|R|Flyout|F|Four-Seam Fastball|39|3|1|0|13|88
+John Lamb|L|Enrique Hernandez|R|Flyout|F|Four-Seam Fastball|40|3|2|0|5|90
+John Lamb|L|Enrique Hernandez|R|Flyout|F|Four-Seam Fastball|41|3|2|0|14|91
+John Lamb|L|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|42|3|2|0|5|91
+John Lamb|L|Alex Wood|R|Sac Bunt|B|Four-Seam Fastball|43|0|0|1|13|89
+John Lamb|L|Alex Wood|R|Sac Bunt|C|Four-Seam Fastball|44|1|0|1|8|88
+John Lamb|L|Alex Wood|R|Sac Bunt|L|Four-Seam Fastball|45|1|1|1|8|88
+John Lamb|L|Alex Wood|R|Sac Bunt|X|Cutter|46|1|2|1|4|85
+John Lamb|L|Jimmy Rollins|R|Flyout|F|Changeup|47|0|0|2|8|76
+John Lamb|L|Jimmy Rollins|R|Flyout|B|Cutter|48|0|1|2|11|86
+John Lamb|L|Jimmy Rollins|R|Flyout|X|Changeup|49|1|1|2|5|76
+John Lamb|L|Yasiel Puig|R|Strikeout|B|Cutter|50|0|0|0|13|86
+John Lamb|L|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|51|1|0|0|7|91
+John Lamb|L|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|52|1|1|0|13|91
+John Lamb|L|Yasiel Puig|R|Strikeout|C|Four-Seam Fastball|53|2|1|0|14|90
+John Lamb|L|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|54|2|2|0|13|91
+John Lamb|L|Yasiel Puig|R|Strikeout|T|Four-Seam Fastball|55|2|2|0|13|91
+John Lamb|L|Adrian Gonzalez|L|Double|C|Cutter|56|0|0|1|13|86
+John Lamb|L|Adrian Gonzalez|L|Double|S|Curveball|57|0|1|1|13|68
+John Lamb|L|Adrian Gonzalez|L|Double|B|Four-Seam Fastball|58|0|2|1|14|92
+John Lamb|L|Adrian Gonzalez|L|Double|F|Cutter|59|1|2|1|13|84
+John Lamb|L|Adrian Gonzalez|L|Double|D|Four-Seam Fastball|60|1|2|1|13|90
+John Lamb|L|Justin Turner|R|Home Run|B|Four-Seam Fastball|61|0|0|1|13|92
+John Lamb|L|Justin Turner|R|Home Run|E|Changeup|62|1|0|1|6|77
+John Lamb|L|Scott Van Slyke|R|Strikeout|C|Four-Seam Fastball|63|0|0|1|8|92
+John Lamb|L|Scott Van Slyke|R|Strikeout|F|Cutter|64|0|1|1|7|89
+John Lamb|L|Scott Van Slyke|R|Strikeout|B|Four-Seam Fastball|65|0|2|1|11|91
+John Lamb|L|Scott Van Slyke|R|Strikeout|F|Cutter|66|1|2|1|7|86
+John Lamb|L|Scott Van Slyke|R|Strikeout|S|Cutter|67|1|2|1|13|87
+John Lamb|L|Chase Utley|L|Strikeout|C|Four-Seam Fastball|68|0|0|2|13|92
+John Lamb|L|Chase Utley|L|Strikeout|C|Cutter|69|0|1|2|13|88
+John Lamb|L|Chase Utley|L|Strikeout|B|Curveball|70|0|2|2|13|72
+John Lamb|L|Chase Utley|L|Strikeout|S|Curveball|71|1|2|2|13|71
+John Lamb|L|A.J. Ellis|R|Flyout|F|Four-Seam Fastball|72|0|0|0|6|89
+John Lamb|L|A.J. Ellis|R|Flyout|C|Four-Seam Fastball|73|0|1|0|9|90
+John Lamb|L|A.J. Ellis|R|Flyout|F|Cutter|74|0|2|0|4|86
+John Lamb|L|A.J. Ellis|R|Flyout|B|Cutter|75|0|2|0|11|86
+John Lamb|L|A.J. Ellis|R|Flyout|X|Four-Seam Fastball|76|1|2|0|9|91
+John Lamb|L|Enrique Hernandez|R|Single|B|Four-Seam Fastball|77|0|0|1|13|92
+John Lamb|L|Enrique Hernandez|R|Single|D|Four-Seam Fastball|78|1|0|1|6|91
+John Lamb|L|Alex Wood|R|Strikeout|C|Four-Seam Fastball|79|0|0|1|13|89
+John Lamb|L|Alex Wood|R|Strikeout|B|Four-Seam Fastball|80|0|1|1|14|90
+John Lamb|L|Alex Wood|R|Strikeout|B|Four-Seam Fastball|81|1|1|1|13|90
+John Lamb|L|Alex Wood|R|Strikeout|F|Four-Seam Fastball|82|2|1|1|7|91
+John Lamb|L|Alex Wood|R|Strikeout|L|Four-Seam Fastball|83|2|2|1|7|92
+John Lamb|L|Jimmy Rollins|R|Walk|*B|Curveball|84|0|0|2|13|69
+John Lamb|L|Jimmy Rollins|R|Walk|B|Four-Seam Fastball|85|1|0|2|13|91
+John Lamb|L|Jimmy Rollins|R|Walk|B|Four-Seam Fastball|86|2|0|2|13|90
+John Lamb|L|Jimmy Rollins|R|Walk|C|Four-Seam Fastball|87|3|0|2|12|90
+John Lamb|L|Jimmy Rollins|R|Walk|B|Four-Seam Fastball|88|3|1|2|11|91
+John Lamb|L|Yasiel Puig|R|Lineout|F|Four-Seam Fastball|89|0|0|2|9|91
+John Lamb|L|Yasiel Puig|R|Lineout|X|Changeup|90|0|1|2|9|76
+John Lamb|L|Adrian Gonzalez|L|Hit By Pitch|B|Four-Seam Fastball|91|0|0|0|12|89
+John Lamb|L|Adrian Gonzalez|L|Hit By Pitch|C|Cutter|92|1|0|0|7|83
+John Lamb|L|Adrian Gonzalez|L|Hit By Pitch|H|Four-Seam Fastball|93|1|1|0|12|88
+John Lamb|L|Justin Turner|R|Lineout|B|Four-Seam Fastball|94|0|0|0|13|90
+John Lamb|L|Justin Turner|R|Lineout|C|Four-Seam Fastball|95|1|0|0|12|90
+John Lamb|L|Justin Turner|R|Lineout|B|Four-Seam Fastball|96|1|1|0|14|90
+John Lamb|L|Justin Turner|R|Lineout|X|Four-Seam Fastball|97|2|1|0|9|91
+John Lamb|L|Scott Van Slyke|R|Pop Out|C|Four-Seam Fastball|98|0|0|1|13|90
+John Lamb|L|Scott Van Slyke|R|Pop Out|C|Four-Seam Fastball|99|0|1|1|14|90
+John Lamb|L|Scott Van Slyke|R|Pop Out|*B|Cutter|100|0|2|1|13|85
+John Lamb|L|Scott Van Slyke|R|Pop Out|X|Four-Seam Fastball|101|1|2|1|13|91
+John Lamb|L|Chase Utley|L|Groundout|C|Four-Seam Fastball|102|0|0|2|8|91
+John Lamb|L|Chase Utley|L|Groundout|C|Curveball|103|0|1|2|5|67
+John Lamb|L|Chase Utley|L|Groundout|*B|Changeup|104|0|2|2|13|73
+John Lamb|L|Chase Utley|L|Groundout|*B|Curveball|105|1|2|2|13|70
+John Lamb|L|Chase Utley|L|Groundout|F|Four-Seam Fastball|106|2|2|2|13|92
+John Lamb|L|Chase Utley|L|Groundout|X|Cutter|107|2|2|2|13|84
+John Lamb|L|Jean Segura|R|Groundout|C|Cutter|0|0|0|0|8|85
+John Lamb|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|1|0|1|0|13|91
+John Lamb|L|Jean Segura|R|Groundout|F|Four-Seam Fastball|2|1|1|0|11|90
+John Lamb|L|Jean Segura|R|Groundout|X|Cutter|3|1|2|0|11|86
+John Lamb|L|Jonathan Lucroy|R|Strikeout|C|Cutter|4|0|0|1|4|84
+John Lamb|L|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|5|0|1|1|14|89
+John Lamb|L|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|6|1|1|1|13|90
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Cutter|7|2|1|1|1|83
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|13|91
+John Lamb|L|Jonathan Lucroy|R|Strikeout|S|Changeup|9|2|2|1|13|77
+John Lamb|L|Ryan Braun|R|Home Run|E|Changeup|10|0|0|2|2|77
+John Lamb|L|Khris Davis|R|Groundout|B|Cutter|11|0|0|2|13|85
+John Lamb|L|Khris Davis|R|Groundout|B|Four-Seam Fastball|12|1|0|2|13|91
+John Lamb|L|Khris Davis|R|Groundout|X|Cutter|13|2|0|2|5|86
+John Lamb|L|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|14|0|0|0|14|91
+John Lamb|L|Domingo Santana|R|Strikeout|S|Cutter|15|1|0|0|13|86
+John Lamb|L|Domingo Santana|R|Strikeout|B|Cutter|16|1|1|0|11|84
+John Lamb|L|Domingo Santana|R|Strikeout|S|Cutter|17|2|1|0|13|83
+John Lamb|L|Domingo Santana|R|Strikeout|B|Cutter|18|2|2|0|13|82
+John Lamb|L|Domingo Santana|R|Strikeout|F|Four-Seam Fastball|19|3|2|0|13|91
+John Lamb|L|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|20|3|2|0|12|91
+John Lamb|L|Hernan Perez|R|Single|B|Cutter|21|0|0|1|12|85
+John Lamb|L|Hernan Perez|R|Single|C|Changeup|22|1|0|1|13|78
+John Lamb|L|Hernan Perez|R|Single|D|Cutter|23|1|1|1|11|85
+John Lamb|L|Elian Herrera|R|Grounded Into DP|X|Cutter|24|0|0|1|7|85
+John Lamb|L|Martin Maldonado|R|Double|B|Four-Seam Fastball|25|0|0|0|14|88
+John Lamb|L|Martin Maldonado|R|Double|C|Cutter|26|1|0|0|8|86
+John Lamb|L|Martin Maldonado|R|Double|B|Cutter|27|1|1|0|13|85
+John Lamb|L|Martin Maldonado|R|Double|B|Changeup|28|2|1|0|13|79
+John Lamb|L|Martin Maldonado|R|Double|C|Four-Seam Fastball|29|3|1|0|14|90
+John Lamb|L|Martin Maldonado|R|Double|F|Four-Seam Fastball|30|3|2|0|1|91
+John Lamb|L|Martin Maldonado|R|Double|D|Cutter|31|3|2|0|4|86
+John Lamb|L|Wily Peralta|R|Sac Bunt|X|Four-Seam Fastball|32|0|0|0|4|89
+John Lamb|L|Jean Segura|R|Strikeout|F|Four-Seam Fastball|33|0|0|1|11|90
+John Lamb|L|Jean Segura|R|Strikeout|C|Four-Seam Fastball|34|0|1|1|11|91
+John Lamb|L|Jean Segura|R|Strikeout|F|Four-Seam Fastball|35|0|2|1|11|90
+John Lamb|L|Jean Segura|R|Strikeout|B|Four-Seam Fastball|36|0|2|1|11|90
+John Lamb|L|Jean Segura|R|Strikeout|F|Four-Seam Fastball|37|1|2|1|1|91
+John Lamb|L|Jean Segura|R|Strikeout|*B|Changeup|38|1|2|1|13|78
+John Lamb|L|Jean Segura|R|Strikeout|B|Four-Seam Fastball|39|2|2|1|11|90
+John Lamb|L|Jean Segura|R|Strikeout|S|Changeup|40|3|2|1|3|76
+John Lamb|L|Jonathan Lucroy|R|Single|B|Four-Seam Fastball|41|0|0|2|13|91
+John Lamb|L|Jonathan Lucroy|R|Single|E|Four-Seam Fastball|42|1|0|2|13|89
+John Lamb|L|Ryan Braun|R|Strikeout|B|Cutter|43|0|0|2|11|86
+John Lamb|L|Ryan Braun|R|Strikeout|B|Cutter|44|1|0|2|11|87
+John Lamb|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|45|2|0|2|3|88
+John Lamb|L|Ryan Braun|R|Strikeout|F|Changeup|46|2|1|2|8|80
+John Lamb|L|Ryan Braun|R|Strikeout|F|Changeup|47|2|2|2|5|80
+John Lamb|L|Ryan Braun|R|Strikeout|S|Changeup|48|2|2|2|14|76
+John Lamb|L|Khris Davis|R|Strikeout|C|Changeup|49|0|0|0|7|78
+John Lamb|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|50|0|1|0|14|90
+John Lamb|L|Khris Davis|R|Strikeout|C|Cutter|51|1|1|0|9|88
+John Lamb|L|Khris Davis|R|Strikeout|S|Cutter|52|1|2|0|6|82
+John Lamb|L|Domingo Santana|R|Single|B|Cutter|53|0|0|1|11|83
+John Lamb|L|Domingo Santana|R|Single|C|Changeup|54|1|0|1|14|81
+John Lamb|L|Domingo Santana|R|Single|F|Changeup|55|1|1|1|8|76
+John Lamb|L|Domingo Santana|R|Single|B|Changeup|56|1|2|1|13|73
+John Lamb|L|Domingo Santana|R|Single|D|Four-Seam Fastball|57|2|2|1|13|91
+John Lamb|L|Hernan Perez|R|Grounded Into DP|B|Four-Seam Fastball|58|0|0|1|13|89
+John Lamb|L|Hernan Perez|R|Grounded Into DP|X|Cutter|59|1|0|1|13|86
+John Lamb|L|Elian Herrera|R|Flyout|C|Cutter|60|0|0|0|5|84
+John Lamb|L|Elian Herrera|R|Flyout|F|Four-Seam Fastball|61|0|1|0|4|89
+John Lamb|L|Elian Herrera|R|Flyout|X|Changeup|62|0|2|0|2|79
+John Lamb|L|Martin Maldonado|R|Strikeout|C|Changeup|63|0|0|1|6|78
+John Lamb|L|Martin Maldonado|R|Strikeout|S|Changeup|64|0|1|1|5|74
+John Lamb|L|Martin Maldonado|R|Strikeout|B|Four-Seam Fastball|65|0|2|1|13|90
+John Lamb|L|Martin Maldonado|R|Strikeout|B|Four-Seam Fastball|66|1|2|1|14|89
+John Lamb|L|Martin Maldonado|R|Strikeout|S|Changeup|67|2|2|1|14|78
+John Lamb|L|Wily Peralta|R|Strikeout|B|Cutter|68|0|0|2|13|84
+John Lamb|L|Wily Peralta|R|Strikeout|C|Four-Seam Fastball|69|1|0|2|14|88
+John Lamb|L|Wily Peralta|R|Strikeout|S|Changeup|70|1|1|2|14|77
+John Lamb|L|Wily Peralta|R|Strikeout|S|Changeup|71|1|2|2|14|74
+John Lamb|L|Jean Segura|R|Groundout|C|Curveball|72|0|0|0|8|68
+John Lamb|L|Jean Segura|R|Groundout|S|Changeup|73|0|1|0|8|77
+John Lamb|L|Jean Segura|R|Groundout|B|Changeup|74|0|2|0|13|76
+John Lamb|L|Jean Segura|R|Groundout|X|Cutter|75|1|2|0|4|85
+John Lamb|L|Jonathan Lucroy|R|Pop Out|B|Changeup|76|0|0|1|12|77
+John Lamb|L|Jonathan Lucroy|R|Pop Out|C|Changeup|77|1|0|1|7|78
+John Lamb|L|Jonathan Lucroy|R|Pop Out|X|Changeup|78|1|1|1|9|78
+John Lamb|L|Ryan Braun|R|Strikeout|C|Cutter|79|0|0|2|7|86
+John Lamb|L|Ryan Braun|R|Strikeout|B|Cutter|80|0|1|2|13|84
+John Lamb|L|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|81|1|1|2|14|90
+John Lamb|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|82|1|2|2|8|91
+John Lamb|L|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|83|1|2|2|13|91
+John Lamb|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|84|2|2|2|5|90
+John Lamb|L|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|85|2|2|2|14|90
+John Lamb|L|Ryan Braun|R|Strikeout|S|Curveball|86|3|2|2|13|71
+John Lamb|L|Jean Segura|R|Groundout|C|Cutter|0|0|0|0|6|87
+John Lamb|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|1|0|1|0|11|91
+John Lamb|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|2|1|1|0|14|89
+John Lamb|L|Jean Segura|R|Groundout|C|Four-Seam Fastball|3|2|1|0|4|91
+John Lamb|L|Jean Segura|R|Groundout|X|Four-Seam Fastball|4|2|2|0|13|89
+John Lamb|L|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|5|90
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|6|0|1|1|4|91
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|7|0|2|1|4|91
+John Lamb|L|Jonathan Lucroy|R|Strikeout|B|Changeup|8|0|2|1|12|77
+John Lamb|L|Jonathan Lucroy|R|Strikeout|W|Changeup|9|1|2|1|14|77
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|10|0|0|2|12|90
+John Lamb|L|Ryan Braun|R|Walk|F|Four-Seam Fastball|11|1|0|2|5|91
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|12|1|1|2|3|91
+John Lamb|L|Ryan Braun|R|Walk|S|Cutter|13|2|1|2|1|87
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|14|2|2|2|13|91
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|15|3|2|2|13|92
+John Lamb|L|Khris Davis|R|Groundout|F|Changeup|16|0|0|2|1|78
+John Lamb|L|Khris Davis|R|Groundout|B|Changeup|17|0|1|2|12|76
+John Lamb|L|Khris Davis|R|Groundout|B|Changeup|18|1|1|2|1|77
+John Lamb|L|Khris Davis|R|Groundout|F|Four-Seam Fastball|19|2|1|2|11|88
+John Lamb|L|Khris Davis|R|Groundout|X|Changeup|20|2|2|2|12|73
+John Lamb|L|Jason Rogers|R|Lineout|B|Four-Seam Fastball|21|0|0|0|13|90
+John Lamb|L|Jason Rogers|R|Lineout|C|Four-Seam Fastball|22|1|0|0|9|90
+John Lamb|L|Jason Rogers|R|Lineout|B|Cutter|23|1|1|0|11|85
+John Lamb|L|Jason Rogers|R|Lineout|B|Four-Seam Fastball|24|2|1|0|12|90
+John Lamb|L|Jason Rogers|R|Lineout|X|Four-Seam Fastball|25|3|1|0|4|91
+John Lamb|L|Domingo Santana|R|Single|D|Four-Seam Fastball|26|0|0|1|4|91
+John Lamb|L|Hernan Perez|R|Strikeout|T|Four-Seam Fastball|27|0|0|1|2|88
+John Lamb|L|Hernan Perez|R|Strikeout|S|Changeup|28|0|1|1|7|76
+John Lamb|L|Hernan Perez|R|Strikeout|C|Four-Seam Fastball|29|0|2|1|13|91
+John Lamb|L|Elian Herrera|R|Pop Out|C|Four-Seam Fastball|30|0|0|2|3|91
+John Lamb|L|Elian Herrera|R|Pop Out|F|Four-Seam Fastball|31|0|1|2|11|92
+John Lamb|L|Elian Herrera|R|Pop Out|B|Changeup|32|0|2|2|12|77
+John Lamb|L|Elian Herrera|R|Pop Out|X|Changeup|33|1|2|2|13|75
+John Lamb|L|Matt Garza|R|Groundout|C|Four-Seam Fastball|34|0|0|0|8|90
+John Lamb|L|Matt Garza|R|Groundout|X|Four-Seam Fastball|35|0|1|0|13|89
+John Lamb|L|Jean Segura|R|Groundout|B|Cutter|36|0|0|1|13|87
+John Lamb|L|Jean Segura|R|Groundout|X|Cutter|37|1|0|1|13|87
+John Lamb|L|Jonathan Lucroy|R|Flyout|C|Four-Seam Fastball|38|0|0|2|5|91
+John Lamb|L|Jonathan Lucroy|R|Flyout|S|Cutter|39|0|1|2|11|87
+John Lamb|L|Jonathan Lucroy|R|Flyout|B|Four-Seam Fastball|40|0|2|2|13|92
+John Lamb|L|Jonathan Lucroy|R|Flyout|B|Four-Seam Fastball|41|1|2|2|11|92
+John Lamb|L|Jonathan Lucroy|R|Flyout|X|Changeup|42|2|2|2|7|79
+John Lamb|L|Ryan Braun|R|Double|B|Four-Seam Fastball|43|0|0|0|13|91
+John Lamb|L|Ryan Braun|R|Double|C|Cutter|44|1|0|0|6|86
+John Lamb|L|Ryan Braun|R|Double|F|Changeup|45|1|1|0|13|80
+John Lamb|L|Ryan Braun|R|Double|D|Changeup|46|1|2|0|13|77
+John Lamb|L|Khris Davis|R|Walk|B|Four-Seam Fastball|47|0|0|0|13|91
+John Lamb|L|Khris Davis|R|Walk|B|Cutter|48|1|0|0|13|87
+John Lamb|L|Khris Davis|R|Walk|B|Changeup|49|2|0|0|12|78
+John Lamb|L|Khris Davis|R|Walk|C|Four-Seam Fastball|50|3|0|0|5|91
+John Lamb|L|Khris Davis|R|Walk|C|Four-Seam Fastball|51|3|1|0|8|91
+John Lamb|L|Khris Davis|R|Walk|B|Four-Seam Fastball|52|3|2|0|14|91
+John Lamb|L|Jason Rogers|R|Strikeout|S|Changeup|53|0|0|0|5|79
+John Lamb|L|Jason Rogers|R|Strikeout|*B|Changeup|54|0|1|0|14|76
+John Lamb|L|Jason Rogers|R|Strikeout|B|Cutter|55|1|1|0|13|86
+John Lamb|L|Jason Rogers|R|Strikeout|C|Four-Seam Fastball|56|2|1|0|9|90
+John Lamb|L|Jason Rogers|R|Strikeout|C|Four-Seam Fastball|57|2|2|0|8|92
+John Lamb|L|Domingo Santana|R|Flyout|F|Cutter|58|0|0|1|7|88
+John Lamb|L|Domingo Santana|R|Flyout|*B|Changeup|59|0|1|1|13|76
+John Lamb|L|Domingo Santana|R|Flyout|X|Changeup|60|1|1|1|5|76
+John Lamb|L|Hernan Perez|R|Groundout|B|Four-Seam Fastball|61|0|0|2|13|92
+John Lamb|L|Hernan Perez|R|Groundout|F|Changeup|62|1|0|2|8|79
+John Lamb|L|Hernan Perez|R|Groundout|B|Four-Seam Fastball|63|1|1|2|13|92
+John Lamb|L|Hernan Perez|R|Groundout|X|Four-Seam Fastball|64|2|1|2|13|92
+John Lamb|L|Elian Herrera|R|Double|C|Four-Seam Fastball|65|0|0|0|14|89
+John Lamb|L|Elian Herrera|R|Double|F|Changeup|66|0|1|0|5|79
+John Lamb|L|Elian Herrera|R|Double|D|Four-Seam Fastball|67|0|2|0|13|91
+John Lamb|L|Matt Garza|R|Strikeout|M|Four-Seam Fastball|68|0|0|0|2|88
+John Lamb|L|Matt Garza|R|Strikeout|L|Four-Seam Fastball|69|0|1|0|1|90
+John Lamb|L|Matt Garza|R|Strikeout|L|Four-Seam Fastball|70|0|2|0|12|90
+John Lamb|L|Jean Segura|R|Single|F|Cutter|71|0|0|1|5|86
+John Lamb|L|Jean Segura|R|Single|E|Four-Seam Fastball|72|0|1|1|4|90
+John Lamb|L|Jonathan Lucroy|R|Groundout|B|Curveball|73|0|0|2|13|69
+John Lamb|L|Jonathan Lucroy|R|Groundout|F|Changeup|74|1|0|2|5|78
+John Lamb|L|Jonathan Lucroy|R|Groundout|X|Curveball|75|1|1|2|5|69
+John Lamb|L|Ryan Braun|R|Single|C|Four-Seam Fastball|76|0|0|0|9|91
+John Lamb|L|Ryan Braun|R|Single|B|Four-Seam Fastball|77|0|1|0|14|91
+John Lamb|L|Ryan Braun|R|Single|B|Cutter|78|1|1|0|11|87
+John Lamb|L|Ryan Braun|R|Single|D|Four-Seam Fastball|79|2|1|0|13|91
+John Lamb|L|Khris Davis|R|Flyout|X|Changeup|80|0|0|0|2|77
+John Lamb|L|Jason Rogers|R|Single|B|Four-Seam Fastball|81|0|0|1|14|91
+John Lamb|L|Jason Rogers|R|Single|B|Four-Seam Fastball|82|1|0|1|3|92
+John Lamb|L|Jason Rogers|R|Single|C|Cutter|83|2|0|1|7|87
+John Lamb|L|Jason Rogers|R|Single|F|Cutter|84|2|1|1|13|87
+John Lamb|L|Jason Rogers|R|Single|B|Changeup|85|2|2|1|14|76
+John Lamb|L|Jason Rogers|R|Single|D|Four-Seam Fastball|86|3|2|1|11|93
+John Lamb|L|Domingo Santana|R|Single|E|Cutter|87|0|0|1|13|90
+John Lamb|L|Hernan Perez|R|Single|D|Four-Seam Fastball|88|0|0|1|13|92
+John Lamb|L|Elian Herrera|R|Groundout|C|Four-Seam Fastball|89|0|0|1|13|92
+John Lamb|L|Elian Herrera|R|Groundout|B|Four-Seam Fastball|90|0|1|1|13|92
+John Lamb|L|Elian Herrera|R|Groundout|B|Four-Seam Fastball|91|1|1|1|13|93
+John Lamb|L|Elian Herrera|R|Groundout|E|Four-Seam Fastball|92|2|1|1|14|91
+John Lamb|L|Adam Lind|L|Double|C|Cutter|93|0|0|2|13|89
+John Lamb|L|Adam Lind|L|Double|B|Cutter|94|0|1|2|13|85
+John Lamb|L|Adam Lind|L|Double|E|Cutter|95|1|1|2|2|84
+John Lamb|L|Matt Carpenter|L|Walk|B|Cutter|0|0|0|0|13|88
+John Lamb|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|91
+John Lamb|L|Matt Carpenter|L|Walk|C|Four-Seam Fastball|2|2|0|0|13|91
+John Lamb|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|3|2|1|0|14|91
+John Lamb|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|4|3|1|0|12|92
+John Lamb|L|Stephen Piscotty|R|Walk|S|Four-Seam Fastball|5|0|0|0|1|91
+John Lamb|L|Stephen Piscotty|R|Walk|B|Changeup|6|0|1|0|14|79
+John Lamb|L|Stephen Piscotty|R|Walk|B|Four-Seam Fastball|7|1|1|0|13|91
+John Lamb|L|Stephen Piscotty|R|Walk|B|Cutter|8|2|1|0|13|87
+John Lamb|L|Stephen Piscotty|R|Walk|C|Four-Seam Fastball|9|3|1|0|8|93
+John Lamb|L|Stephen Piscotty|R|Walk|F|Four-Seam Fastball|10|3|2|0|7|93
+John Lamb|L|Stephen Piscotty|R|Walk|B|Four-Seam Fastball|11|3|2|0|13|92
+John Lamb|L|Jhonny Peralta|R|Strikeout|C|Four-Seam Fastball|12|0|0|0|5|94
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Four-Seam Fastball|13|0|1|0|1|93
+John Lamb|L|Jhonny Peralta|R|Strikeout|B|Cutter|14|0|2|0|13|89
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Changeup|15|1|2|0|9|79
+John Lamb|L|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|16|0|0|1|13|93
+John Lamb|L|Jason Heyward|L|Strikeout|S|Cutter|17|0|1|1|13|90
+John Lamb|L|Jason Heyward|L|Strikeout|W|Curveball|18|0|2|1|13|73
+John Lamb|L|Yadier Molina|R|Pop Out|S|Changeup|19|0|0|2|7|80
+John Lamb|L|Yadier Molina|R|Pop Out|S|Cutter|20|0|1|2|13|89
+John Lamb|L|Yadier Molina|R|Pop Out|X|Curveball|21|0|2|2|13|74
+John Lamb|L|Mark Reynolds|R|Flyout|C|Four-Seam Fastball|22|0|0|0|5|91
+John Lamb|L|Mark Reynolds|R|Flyout|C|Four-Seam Fastball|23|0|1|0|14|93
+John Lamb|L|Mark Reynolds|R|Flyout|X|Changeup|24|0|2|0|5|78
+John Lamb|L|Brandon Moss|L|Walk|B|Cutter|25|0|0|1|11|87
+John Lamb|L|Brandon Moss|L|Walk|B|Cutter|26|1|0|1|11|85
+John Lamb|L|Brandon Moss|L|Walk|B|Four-Seam Fastball|27|2|0|1|13|91
+John Lamb|L|Brandon Moss|L|Walk|C|Four-Seam Fastball|28|3|0|1|3|92
+John Lamb|L|Brandon Moss|L|Walk|B|Four-Seam Fastball|29|3|1|1|14|92
+John Lamb|L|Peter Bourjos|R|Strikeout|C|Four-Seam Fastball|30|0|0|1|14|90
+John Lamb|L|Peter Bourjos|R|Strikeout|F|Cutter|31|0|1|1|13|87
+John Lamb|L|Peter Bourjos|R|Strikeout|B|Four-Seam Fastball|32|0|2|1|13|88
+John Lamb|L|Peter Bourjos|R|Strikeout|W|Changeup|33|1|2|1|13|80
+John Lamb|L|Jaime Garcia|L|Strikeout|F|Four-Seam Fastball|34|0|0|2|8|91
+John Lamb|L|Jaime Garcia|L|Strikeout|S|Changeup|35|0|1|2|13|79
+John Lamb|L|Jaime Garcia|L|Strikeout|W|Changeup|36|0|2|2|13|79
+John Lamb|L|Matt Carpenter|L|Walk|C|Four-Seam Fastball|37|0|0|0|14|91
+John Lamb|L|Matt Carpenter|L|Walk|B|Changeup|38|0|1|0|13|78
+John Lamb|L|Matt Carpenter|L|Walk|B|Cutter|39|1|1|0|13|88
+John Lamb|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|40|2|1|0|14|93
+John Lamb|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|41|3|1|0|13|91
+John Lamb|L|Stephen Piscotty|R|Grounded Into DP|B|Four-Seam Fastball|42|0|0|0|14|91
+John Lamb|L|Stephen Piscotty|R|Grounded Into DP|B|Four-Seam Fastball|43|1|0|0|13|92
+John Lamb|L|Stephen Piscotty|R|Grounded Into DP|X|Four-Seam Fastball|44|2|0|0|9|91
+John Lamb|L|Jhonny Peralta|R|Single|B|Four-Seam Fastball|45|0|0|2|13|92
+John Lamb|L|Jhonny Peralta|R|Single|S|Changeup|46|1|0|2|14|80
+John Lamb|L|Jhonny Peralta|R|Single|B|Changeup|47|1|1|2|14|78
+John Lamb|L|Jhonny Peralta|R|Single|F|Changeup|48|2|1|2|14|78
+John Lamb|L|Jhonny Peralta|R|Single|D|Changeup|49|2|2|2|9|77
+John Lamb|L|Jason Heyward|L|Single|C|Curveball|50|0|0|2|1|71
+John Lamb|L|Jason Heyward|L|Single|B|Cutter|51|0|1|2|7|84
+John Lamb|L|Jason Heyward|L|Single|S|Cutter|52|1|1|2|13|85
+John Lamb|L|Jason Heyward|L|Single|B|Curveball|53|1|2|2|13|73
+John Lamb|L|Jason Heyward|L|Single|D|Curveball|54|2|2|2|13|74
+John Lamb|L|Yadier Molina|R|Walk|B|Four-Seam Fastball|55|0|0|2|11|91
+John Lamb|L|Yadier Molina|R|Walk|F|Four-Seam Fastball|56|1|0|2|4|92
+John Lamb|L|Yadier Molina|R|Walk|B|Four-Seam Fastball|57|1|1|2|13|90
+John Lamb|L|Yadier Molina|R|Walk|B|Cutter|58|2|1|2|11|86
+John Lamb|L|Yadier Molina|R|Walk|B|Four-Seam Fastball|59|3|1|2|13|92
+John Lamb|L|Mark Reynolds|R|Strikeout|B|Changeup|60|0|0|2|14|79
+John Lamb|L|Mark Reynolds|R|Strikeout|C|Four-Seam Fastball|61|1|0|2|8|91
+John Lamb|L|Mark Reynolds|R|Strikeout|F|Cutter|62|1|1|2|13|86
+John Lamb|L|Mark Reynolds|R|Strikeout|B|Four-Seam Fastball|63|1|2|2|13|91
+John Lamb|L|Mark Reynolds|R|Strikeout|F|Cutter|64|2|2|2|13|87
+John Lamb|L|Mark Reynolds|R|Strikeout|F|Cutter|65|2|2|2|13|89
+John Lamb|L|Mark Reynolds|R|Strikeout|B|Changeup|66|2|2|2|14|78
+John Lamb|L|Mark Reynolds|R|Strikeout|F|Cutter|67|3|2|2|4|88
+John Lamb|L|Mark Reynolds|R|Strikeout|S|Four-Seam Fastball|68|3|2|2|13|90
+John Lamb|L|Brandon Moss|L|Pop Out|C|Cutter|69|0|0|0|3|86
+John Lamb|L|Brandon Moss|L|Pop Out|S|Cutter|70|0|1|0|5|87
+John Lamb|L|Brandon Moss|L|Pop Out|X|Curveball|71|0|2|0|6|72
+John Lamb|L|Peter Bourjos|R|Strikeout|S|Changeup|72|0|0|1|14|79
+John Lamb|L|Peter Bourjos|R|Strikeout|B|Cutter|73|0|1|1|13|87
+John Lamb|L|Peter Bourjos|R|Strikeout|F|Four-Seam Fastball|74|1|1|1|5|90
+John Lamb|L|Peter Bourjos|R|Strikeout|S|Curveball|75|1|2|1|8|71
+John Lamb|L|Jaime Garcia|L|Walk|B|Four-Seam Fastball|76|0|0|2|1|89
+John Lamb|L|Jaime Garcia|L|Walk|C|Four-Seam Fastball|77|1|0|2|7|89
+John Lamb|L|Jaime Garcia|L|Walk|B|Four-Seam Fastball|78|1|1|2|13|90
+John Lamb|L|Jaime Garcia|L|Walk|S|Four-Seam Fastball|79|2|1|2|7|91
+John Lamb|L|Jaime Garcia|L|Walk|F|Four-Seam Fastball|80|2|2|2|3|90
+John Lamb|L|Jaime Garcia|L|Walk|B|Four-Seam Fastball|81|2|2|2|13|92
+John Lamb|L|Jaime Garcia|L|Walk|F|Four-Seam Fastball|82|3|2|2|7|91
+John Lamb|L|Jaime Garcia|L|Walk|B|Four-Seam Fastball|83|3|2|2|14|91
+John Lamb|L|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|84|0|0|2|6|91
+John Lamb|L|Stephen Piscotty|R|Single|F|Changeup|85|0|0|0|6|80
+John Lamb|L|Stephen Piscotty|R|Single|F|Cutter|86|0|1|0|1|85
+John Lamb|L|Stephen Piscotty|R|Single|B|Curveball|87|0|2|0|13|72
+John Lamb|L|Stephen Piscotty|R|Single|D|Four-Seam Fastball|88|1|2|0|4|92
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|B|Four-Seam Fastball|89|0|0|0|2|91
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|C|Four-Seam Fastball|90|1|0|0|9|92
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|*B|Four-Seam Fastball|91|1|1|0|13|88
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|T|Four-Seam Fastball|92|2|1|0|8|90
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|B|Four-Seam Fastball|93|2|2|0|13|92
+John Lamb|L|Jhonny Peralta|R|Grounded Into DP|X|Four-Seam Fastball|94|3|2|0|13|91
+John Lamb|L|Jason Heyward|L|Flyout|C|Four-Seam Fastball|95|0|0|2|6|92
+John Lamb|L|Jason Heyward|L|Flyout|B|Four-Seam Fastball|96|0|1|2|14|91
+John Lamb|L|Jason Heyward|L|Flyout|X|Cutter|97|1|1|2|4|85
+John Lamb|L|Angel Pagan|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|90
+John Lamb|L|Angel Pagan|R|Strikeout|B|Cutter|1|0|1|0|13|88
+John Lamb|L|Angel Pagan|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|13|90
+John Lamb|L|Angel Pagan|R|Strikeout|S|Curveball|3|1|2|0|2|71
+John Lamb|L|Kelby Tomlinson|R|Single|C|Cutter|4|0|0|1|12|85
+John Lamb|L|Kelby Tomlinson|R|Single|F|Four-Seam Fastball|5|0|1|1|4|90
+John Lamb|L|Kelby Tomlinson|R|Single|B|Cutter|6|0|2|1|14|85
+John Lamb|L|Kelby Tomlinson|R|Single|D|Curveball|7|1|2|1|5|71
+John Lamb|L|Matt Duffy|R|Single|B|Four-Seam Fastball|8|0|0|1|13|90
+John Lamb|L|Matt Duffy|R|Single|B|Four-Seam Fastball|9|1|0|1|13|91
+John Lamb|L|Matt Duffy|R|Single|C|Four-Seam Fastball|10|2|0|1|8|91
+John Lamb|L|Matt Duffy|R|Single|F|Four-Seam Fastball|11|2|1|1|13|93
+John Lamb|L|Matt Duffy|R|Single|D|Four-Seam Fastball|12|2|2|1|4|92
+John Lamb|L|Buster Posey|R|Grounded Into DP|F|Four-Seam Fastball|13|0|0|1|4|92
+John Lamb|L|Buster Posey|R|Grounded Into DP|B|Cutter|14|0|1|1|11|88
+John Lamb|L|Buster Posey|R|Grounded Into DP|B|Four-Seam Fastball|15|1|1|1|13|93
+John Lamb|L|Buster Posey|R|Grounded Into DP|X|Four-Seam Fastball|16|2|1|1|7|93
+John Lamb|L|Marlon Byrd|R|Flyout|B|Cutter|17|0|0|0|13|88
+John Lamb|L|Marlon Byrd|R|Flyout|B|Changeup|18|1|0|0|13|79
+John Lamb|L|Marlon Byrd|R|Flyout|F|Four-Seam Fastball|19|2|0|0|5|91
+John Lamb|L|Marlon Byrd|R|Flyout|X|Four-Seam Fastball|20|2|1|0|7|91
+John Lamb|L|Brandon Belt|L|Strikeout|T|Cutter|21|0|0|1|8|89
+John Lamb|L|Brandon Belt|L|Strikeout|B|Changeup|22|0|1|1|13|78
+John Lamb|L|Brandon Belt|L|Strikeout|B|Changeup|23|1|1|1|13|77
+John Lamb|L|Brandon Belt|L|Strikeout|B|Cutter|24|2|1|1|13|86
+John Lamb|L|Brandon Belt|L|Strikeout|S|Four-Seam Fastball|25|3|1|1|1|92
+John Lamb|L|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|26|3|2|1|11|93
+John Lamb|L|Juan Carlo Perez|R|Lineout|B|Changeup|27|0|0|2|12|78
+John Lamb|L|Juan Carlo Perez|R|Lineout|C|Four-Seam Fastball|28|1|0|2|9|92
+John Lamb|L|Juan Carlo Perez|R|Lineout|B|Four-Seam Fastball|29|1|1|2|14|92
+John Lamb|L|Juan Carlo Perez|R|Lineout|B|Cutter|30|2|1|2|11|86
+John Lamb|L|Juan Carlo Perez|R|Lineout|X|Four-Seam Fastball|31|3|1|2|5|91
+John Lamb|L|Ehire Adrianza|R|Groundout|C|Four-Seam Fastball|32|0|0|0|3|90
+John Lamb|L|Ehire Adrianza|R|Groundout|B|Four-Seam Fastball|33|0|1|0|12|90
+John Lamb|L|Ehire Adrianza|R|Groundout|C|Four-Seam Fastball|34|1|1|0|7|90
+John Lamb|L|Ehire Adrianza|R|Groundout|F|Cutter|35|1|2|0|4|87
+John Lamb|L|Ehire Adrianza|R|Groundout|B|Curveball|36|1|2|0|13|69
+John Lamb|L|Ehire Adrianza|R|Groundout|X|Four-Seam Fastball|37|2|2|0|8|91
+John Lamb|L|Chris Heston|R|Groundout|B|Four-Seam Fastball|38|0|0|1|13|92
+John Lamb|L|Chris Heston|R|Groundout|F|Four-Seam Fastball|39|1|0|1|4|90
+John Lamb|L|Chris Heston|R|Groundout|X|Four-Seam Fastball|40|1|1|1|9|92
+John Lamb|L|Angel Pagan|R|Groundout|C|Curveball|41|0|0|2|2|69
+John Lamb|L|Angel Pagan|R|Groundout|X|Curveball|42|0|1|2|13|68
+John Lamb|L|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|43|0|0|0|13|91
+John Lamb|L|Kelby Tomlinson|R|Single|B|Cutter|44|1|0|0|14|87
+John Lamb|L|Kelby Tomlinson|R|Single|C|Four-Seam Fastball|45|2|0|0|9|92
+John Lamb|L|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|46|2|1|0|13|91
+John Lamb|L|Kelby Tomlinson|R|Single|D|Four-Seam Fastball|47|3|1|0|8|93
+John Lamb|L|Matt Duffy|R|Single|C|Curveball|48|0|0|0|3|70
+John Lamb|L|Matt Duffy|R|Single|C|Four-Seam Fastball|49|0|1|0|6|91
+John Lamb|L|Matt Duffy|R|Single|D|Curveball|50|0|2|0|14|71
+John Lamb|L|Buster Posey|R|Home Run|S|Four-Seam Fastball|51|0|0|0|4|94
+John Lamb|L|Buster Posey|R|Home Run|C|Changeup|52|0|1|0|9|81
+John Lamb|L|Buster Posey|R|Home Run|B|Changeup|53|0|2|0|14|79
+John Lamb|L|Buster Posey|R|Home Run|B|Four-Seam Fastball|54|1|2|0|14|92
+John Lamb|L|Buster Posey|R|Home Run|E|Four-Seam Fastball|55|2|2|0|7|93
+John Lamb|L|Marlon Byrd|R|Strikeout|S|Changeup|56|0|0|0|6|80
+John Lamb|L|Marlon Byrd|R|Strikeout|B|Changeup|57|0|1|0|14|79
+John Lamb|L|Marlon Byrd|R|Strikeout|F|Changeup|58|1|1|0|6|79
+John Lamb|L|Marlon Byrd|R|Strikeout|F|Four-Seam Fastball|59|1|2|0|12|91
+John Lamb|L|Marlon Byrd|R|Strikeout|B|Four-Seam Fastball|60|1|2|0|12|92
+John Lamb|L|Marlon Byrd|R|Strikeout|F|Curveball|61|2|2|0|14|71
+John Lamb|L|Marlon Byrd|R|Strikeout|S|Changeup|62|2|2|0|14|79
+John Lamb|L|Brandon Belt|L|Double|B|Curveball|63|0|0|1|13|72
+John Lamb|L|Brandon Belt|L|Double|D|Four-Seam Fastball|64|1|0|1|14|91
+John Lamb|L|Juan Carlo Perez|R|Groundout|*B|Four-Seam Fastball|65|0|0|1|14|89
+John Lamb|L|Juan Carlo Perez|R|Groundout|F|Four-Seam Fastball|66|1|0|1|11|91
+John Lamb|L|Juan Carlo Perez|R|Groundout|B|Four-Seam Fastball|67|1|1|1|13|90
+John Lamb|L|Juan Carlo Perez|R|Groundout|F|Changeup|68|2|1|1|1|79
+John Lamb|L|Juan Carlo Perez|R|Groundout|*B|Curveball|69|2|2|1|13|71
+John Lamb|L|Juan Carlo Perez|R|Groundout|F|Changeup|70|3|2|1|13|79
+John Lamb|L|Juan Carlo Perez|R|Groundout|X|Four-Seam Fastball|71|3|2|1|13|92
+John Lamb|L|Ehire Adrianza|R|Groundout|C|Four-Seam Fastball|72|0|0|2|7|92
+John Lamb|L|Ehire Adrianza|R|Groundout|B|Four-Seam Fastball|73|0|1|2|7|91
+John Lamb|L|Ehire Adrianza|R|Groundout|F|Four-Seam Fastball|74|1|1|2|13|92
+John Lamb|L|Ehire Adrianza|R|Groundout|B|Changeup|75|1|2|2|14|79
+John Lamb|L|Ehire Adrianza|R|Groundout|X|Changeup|76|2|2|2|14|79
+John Lamb|L|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|14|88
+John Lamb|L|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|13|91
+John Lamb|L|Matt Carpenter|L|Strikeout|B|Curveball|2|1|1|0|13|69
+John Lamb|L|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|3|2|1|0|14|90
+John Lamb|L|Matt Carpenter|L|Strikeout|S|Changeup|4|2|2|0|8|78
+John Lamb|L|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|8|90
+John Lamb|L|Tommy Pham|R|Strikeout|S|Curveball|6|0|1|1|13|69
+John Lamb|L|Tommy Pham|R|Strikeout|B|Four-Seam Fastball|7|0|2|1|11|92
+John Lamb|L|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|8|1|2|1|13|92
+John Lamb|L|Jason Heyward|L|Groundout|B|Curveball|9|0|0|2|14|68
+John Lamb|L|Jason Heyward|L|Groundout|X|Cutter|10|1|0|2|7|86
+John Lamb|L|Jhonny Peralta|R|Strikeout|C|Four-Seam Fastball|11|0|0|0|13|90
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Cutter|12|0|1|0|8|85
+John Lamb|L|Jhonny Peralta|R|Strikeout|B|Four-Seam Fastball|13|0|2|0|12|89
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Changeup|14|1|2|0|14|78
+John Lamb|L|Stephen Piscotty|R|Flyout|F|Four-Seam Fastball|15|0|0|1|6|90
+John Lamb|L|Stephen Piscotty|R|Flyout|B|Curveball|16|0|1|1|14|70
+John Lamb|L|Stephen Piscotty|R|Flyout|X|Four-Seam Fastball|17|1|1|1|3|91
+John Lamb|L|Randal Grichuk|R|Strikeout|C|Curveball|18|0|0|2|5|68
+John Lamb|L|Randal Grichuk|R|Strikeout|B|Curveball|19|0|1|2|12|66
+John Lamb|L|Randal Grichuk|R|Strikeout|S|Cutter|20|1|1|2|13|86
+John Lamb|L|Randal Grichuk|R|Strikeout|W|Curveball|21|1|2|2|14|70
+John Lamb|L|Kolten Wong|L|Groundout|C|Four-Seam Fastball|22|0|0|0|6|90
+John Lamb|L|Kolten Wong|L|Groundout|B|Curveball|23|0|1|0|12|68
+John Lamb|L|Kolten Wong|L|Groundout|X|Four-Seam Fastball|24|1|1|0|8|90
+John Lamb|L|Tony Cruz|R|Flyout|X|Four-Seam Fastball|25|0|0|1|4|92
+John Lamb|L|Jaime Garcia|L|Single|B|Four-Seam Fastball|26|0|0|2|14|91
+John Lamb|L|Jaime Garcia|L|Single|C|Four-Seam Fastball|27|1|0|2|3|92
+John Lamb|L|Jaime Garcia|L|Single|D|Cutter|28|1|1|2|9|87
+John Lamb|L|Matt Carpenter|L|Hit By Pitch|C|Four-Seam Fastball|29|0|0|2|14|91
+John Lamb|L|Matt Carpenter|L|Hit By Pitch|H|Curveball|30|0|1|2|12|69
+John Lamb|L|Tommy Pham|R|Forceout|B|Four-Seam Fastball|31|0|0|2|13|92
+John Lamb|L|Tommy Pham|R|Forceout|B|Changeup|32|1|0|2|13|81
+John Lamb|L|Tommy Pham|R|Forceout|S|Cutter|33|2|0|2|13|85
+John Lamb|L|Tommy Pham|R|Forceout|C|Four-Seam Fastball|34|2|1|2|13|92
+John Lamb|L|Tommy Pham|R|Forceout|F|Cutter|35|2|2|2|8|84
+John Lamb|L|Tommy Pham|R|Forceout|X|Four-Seam Fastball|36|2|2|2|13|92
+John Lamb|L|Jason Heyward|L|Walk|C|Four-Seam Fastball|37|0|0|0|9|91
+John Lamb|L|Jason Heyward|L|Walk|C|Curveball|38|0|1|0|7|70
+John Lamb|L|Jason Heyward|L|Walk|B|Changeup|39|0|2|0|13|76
+John Lamb|L|Jason Heyward|L|Walk|F|Curveball|40|1|2|0|14|70
+John Lamb|L|Jason Heyward|L|Walk|B|Changeup|41|1|2|0|13|76
+John Lamb|L|Jason Heyward|L|Walk|B|Four-Seam Fastball|42|2|2|0|13|91
+John Lamb|L|Jason Heyward|L|Walk|F|Cutter|43|3|2|0|3|86
+John Lamb|L|Jason Heyward|L|Walk|B|Four-Seam Fastball|44|3|2|0|12|92
+John Lamb|L|Jhonny Peralta|R|Flyout|F|Four-Seam Fastball|45|0|0|0|5|89
+John Lamb|L|Jhonny Peralta|R|Flyout|X|Changeup|46|0|1|0|9|77
+John Lamb|L|Stephen Piscotty|R|Strikeout|W|Changeup|47|0|0|1|14|78
+John Lamb|L|Stephen Piscotty|R|Strikeout|F|Four-Seam Fastball|48|0|1|1|1|91
+John Lamb|L|Stephen Piscotty|R|Strikeout|B|Four-Seam Fastball|49|0|2|1|12|91
+John Lamb|L|Stephen Piscotty|R|Strikeout|S|Cutter|50|1|2|1|1|86
+John Lamb|L|Randal Grichuk|R|Lineout|X|Four-Seam Fastball|51|0|0|2|4|90
+John Lamb|L|Kolten Wong|L|Groundout|B|Cutter|52|0|0|0|13|85
+John Lamb|L|Kolten Wong|L|Groundout|F|Four-Seam Fastball|53|1|0|0|6|89
+John Lamb|L|Kolten Wong|L|Groundout|X|Four-Seam Fastball|54|1|1|0|2|90
+John Lamb|L|Tony Cruz|R|Single|C|Changeup|55|0|0|1|5|79
+John Lamb|L|Tony Cruz|R|Single|B|Cutter|56|0|1|1|12|85
+John Lamb|L|Tony Cruz|R|Single|D|Four-Seam Fastball|57|1|1|1|9|90
+John Lamb|L|Jaime Garcia|L|Bunt Pop Out|X|Four-Seam Fastball|58|0|0|1|2|90
+John Lamb|L|Matt Carpenter|L|Single|S|Four-Seam Fastball|59|0|0|2|1|91
+John Lamb|L|Matt Carpenter|L|Single|D|Curveball|60|0|1|2|4|71
+John Lamb|L|Tommy Pham|R|Forceout|F|Four-Seam Fastball|61|0|0|2|1|91
+John Lamb|L|Tommy Pham|R|Forceout|X|Cutter|62|0|1|2|13|85
+John Lamb|L|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|63|0|0|0|13|90
+John Lamb|L|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|64|1|0|0|7|90
+John Lamb|L|Jason Heyward|L|Strikeout|F|Cutter|65|1|1|0|2|86
+John Lamb|L|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|66|1|2|0|9|92
+John Lamb|L|Jhonny Peralta|R|Single|C|Changeup|67|0|0|1|4|76
+John Lamb|L|Jhonny Peralta|R|Single|B|Curveball|68|0|1|1|13|69
+John Lamb|L|Jhonny Peralta|R|Single|B|Four-Seam Fastball|69|1|1|1|11|91
+John Lamb|L|Jhonny Peralta|R|Single|F|Four-Seam Fastball|70|2|1|1|8|91
+John Lamb|L|Jhonny Peralta|R|Single|D|Four-Seam Fastball|71|2|2|1|7|91
+John Lamb|L|Stephen Piscotty|R|Pop Out|S|Four-Seam Fastball|72|0|0|1|1|91
+John Lamb|L|Stephen Piscotty|R|Pop Out|*B|Curveball|73|0|1|1|13|70
+John Lamb|L|Stephen Piscotty|R|Pop Out|X|Changeup|74|1|1|1|3|78
+John Lamb|L|Randal Grichuk|R|Pop Out|B|Four-Seam Fastball|75|0|0|2|12|89
+John Lamb|L|Randal Grichuk|R|Pop Out|F|Cutter|76|1|0|2|1|86
+John Lamb|L|Randal Grichuk|R|Pop Out|B|Changeup|77|1|1|2|13|78
+John Lamb|L|Randal Grichuk|R|Pop Out|F|Four-Seam Fastball|78|2|1|2|6|89
+John Lamb|L|Randal Grichuk|R|Pop Out|X|Four-Seam Fastball|79|2|2|2|13|92
+John Lamb|L|Kolten Wong|L|Double|B|Curveball|80|0|0|0|13|68
+John Lamb|L|Kolten Wong|L|Double|B|Four-Seam Fastball|81|1|0|0|14|88
+John Lamb|L|Kolten Wong|L|Double|F|Four-Seam Fastball|82|2|0|0|12|89
+John Lamb|L|Kolten Wong|L|Double|D|Cutter|83|2|1|0|1|84
+John Lamb|L|Curtis Granderson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|7|91
+John Lamb|L|Curtis Granderson|L|Strikeout|S|Four-Seam Fastball|1|0|1|0|2|92
+John Lamb|L|Curtis Granderson|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|92
+John Lamb|L|Curtis Granderson|L|Strikeout|C|Cutter|3|1|2|0|6|88
+John Lamb|L|David Wright|R|Walk|B|Four-Seam Fastball|4|0|0|1|12|91
+John Lamb|L|David Wright|R|Walk|B|Changeup|5|1|0|1|12|80
+John Lamb|L|David Wright|R|Walk|C|Four-Seam Fastball|6|2|0|1|14|92
+John Lamb|L|David Wright|R|Walk|B|Four-Seam Fastball|7|2|1|1|11|93
+John Lamb|L|David Wright|R|Walk|F|Cutter|8|3|1|1|4|87
+John Lamb|L|David Wright|R|Walk|B|Cutter|9|3|2|1|1|86
+John Lamb|L|Yoenis Cespedes|R|Strikeout|B|Four-Seam Fastball|10|0|0|1|11|91
+John Lamb|L|Yoenis Cespedes|R|Strikeout|B|Four-Seam Fastball|11|1|0|1|11|91
+John Lamb|L|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|12|2|0|1|1|90
+John Lamb|L|Yoenis Cespedes|R|Strikeout|B|Changeup|13|2|1|1|14|75
+John Lamb|L|Yoenis Cespedes|R|Strikeout|S|Four-Seam Fastball|14|3|1|1|12|90
+John Lamb|L|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|15|3|2|1|9|92
+John Lamb|L|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|16|3|2|1|1|91
+John Lamb|L|Yoenis Cespedes|R|Strikeout|T|Four-Seam Fastball|17|3|2|1|11|92
+John Lamb|L|Daniel Murphy|L|Single|B|Four-Seam Fastball|18|0|0|2|14|92
+John Lamb|L|Daniel Murphy|L|Single|F|Four-Seam Fastball|19|1|0|2|14|90
+John Lamb|L|Daniel Murphy|L|Single|D|Four-Seam Fastball|20|1|1|2|9|90
+John Lamb|L|Travis d'Arnaud|R|Walk|B|Cutter|21|0|0|2|1|85
+John Lamb|L|Travis d'Arnaud|R|Walk|B|Changeup|22|1|0|2|14|78
+John Lamb|L|Travis d'Arnaud|R|Walk|B|Cutter|23|2|0|2|13|86
+John Lamb|L|Travis d'Arnaud|R|Walk|C|Four-Seam Fastball|24|3|0|2|14|90
+John Lamb|L|Travis d'Arnaud|R|Walk|S|Four-Seam Fastball|25|3|1|2|3|90
+John Lamb|L|Travis d'Arnaud|R|Walk|F|Four-Seam Fastball|26|3|2|2|13|92
+John Lamb|L|Travis d'Arnaud|R|Walk|F|Four-Seam Fastball|27|3|2|2|11|91
+John Lamb|L|Travis d'Arnaud|R|Walk|B|Four-Seam Fastball|28|3|2|2|11|91
+John Lamb|L|Lucas Duda|L|Home Run|B|Four-Seam Fastball|29|0|0|2|12|93
+John Lamb|L|Lucas Duda|L|Home Run|B|Curveball|30|1|0|2|13|71
+John Lamb|L|Lucas Duda|L|Home Run|E|Four-Seam Fastball|31|2|0|2|9|90
+John Lamb|L|Michael Cuddyer|R|Groundout|B|Changeup|32|0|0|2|12|80
+John Lamb|L|Michael Cuddyer|R|Groundout|B|Four-Seam Fastball|33|1|0|2|13|92
+John Lamb|L|Michael Cuddyer|R|Groundout|C|Four-Seam Fastball|34|2|0|2|14|91
+John Lamb|L|Michael Cuddyer|R|Groundout|F|Four-Seam Fastball|35|2|1|2|11|89
+John Lamb|L|Michael Cuddyer|R|Groundout|X|Cutter|36|2|2|2|1|85
+John Lamb|L|Wilmer Flores|R|Groundout|S|Curveball|37|0|0|0|14|66
+John Lamb|L|Wilmer Flores|R|Groundout|B|Four-Seam Fastball|38|0|1|0|11|90
+John Lamb|L|Wilmer Flores|R|Groundout|B|Cutter|39|1|1|0|11|82
+John Lamb|L|Wilmer Flores|R|Groundout|X|Curveball|40|2|1|0|9|65
+John Lamb|L|Matt Harvey|R|Strikeout|B|Four-Seam Fastball|41|0|0|1|12|90
+John Lamb|L|Matt Harvey|R|Strikeout|B|Four-Seam Fastball|42|1|0|1|12|86
+John Lamb|L|Matt Harvey|R|Strikeout|C|Four-Seam Fastball|43|2|0|1|13|87
+John Lamb|L|Matt Harvey|R|Strikeout|S|Four-Seam Fastball|44|2|1|1|6|89
+John Lamb|L|Matt Harvey|R|Strikeout|C|Four-Seam Fastball|45|2|2|1|13|89
+John Lamb|L|Curtis Granderson|L|Home Run|B|Cutter|46|0|0|2|12|85
+John Lamb|L|Curtis Granderson|L|Home Run|C|Four-Seam Fastball|47|1|0|2|13|87
+John Lamb|L|Curtis Granderson|L|Home Run|F|Four-Seam Fastball|48|1|1|2|13|86
+John Lamb|L|Curtis Granderson|L|Home Run|B|Changeup|49|1|2|2|12|74
+John Lamb|L|Curtis Granderson|L|Home Run|B|Four-Seam Fastball|50|2|2|2|11|91
+John Lamb|L|Curtis Granderson|L|Home Run|E|Four-Seam Fastball|51|3|2|2|5|87
+John Lamb|L|David Wright|R|Strikeout|S|Changeup|52|0|0|2|5|77
+John Lamb|L|David Wright|R|Strikeout|B|Four-Seam Fastball|53|0|1|2|13|91
+John Lamb|L|David Wright|R|Strikeout|F|Four-Seam Fastball|54|1|1|2|1|89
+John Lamb|L|David Wright|R|Strikeout|F|Cutter|55|1|2|2|13|85
+John Lamb|L|David Wright|R|Strikeout|F|Changeup|56|1|2|2|7|75
+John Lamb|L|David Wright|R|Strikeout|B|Cutter|57|1|2|2|13|85
+John Lamb|L|David Wright|R|Strikeout|B|Four-Seam Fastball|58|2|2|2|11|88
+John Lamb|L|David Wright|R|Strikeout|F|Four-Seam Fastball|59|3|2|2|7|89
+John Lamb|L|David Wright|R|Strikeout|F|Four-Seam Fastball|60|3|2|2|5|88
+John Lamb|L|David Wright|R|Strikeout|S|Cutter|61|3|2|2|13|85
+John Lamb|L|Dexter Fowler|R|Groundout|B|Cutter|0|0|0|0|14|87
+John Lamb|L|Dexter Fowler|R|Groundout|C|Four-Seam Fastball|1|1|0|0|5|91
+John Lamb|L|Dexter Fowler|R|Groundout|B|Four-Seam Fastball|2|1|1|0|13|91
+John Lamb|L|Dexter Fowler|R|Groundout|C|Four-Seam Fastball|3|2|1|0|9|92
+John Lamb|L|Dexter Fowler|R|Groundout|F|Four-Seam Fastball|4|2|2|0|5|91
+John Lamb|L|Dexter Fowler|R|Groundout|X|Four-Seam Fastball|5|2|2|0|2|91
+John Lamb|L|Austin Jackson|R|Lineout|B|Four-Seam Fastball|6|0|0|1|12|92
+John Lamb|L|Austin Jackson|R|Lineout|B|Four-Seam Fastball|7|1|0|1|12|90
+John Lamb|L|Austin Jackson|R|Lineout|F|Four-Seam Fastball|8|2|0|1|13|91
+John Lamb|L|Austin Jackson|R|Lineout|B|Four-Seam Fastball|9|2|1|1|11|91
+John Lamb|L|Austin Jackson|R|Lineout|X|Four-Seam Fastball|10|3|1|1|8|91
+John Lamb|L|Starlin Castro|R|Flyout|B|Cutter|11|0|0|2|13|86
+John Lamb|L|Starlin Castro|R|Flyout|B|Four-Seam Fastball|12|1|0|2|12|91
+John Lamb|L|Starlin Castro|R|Flyout|X|Four-Seam Fastball|13|2|0|2|7|91
+John Lamb|L|Anthony Rizzo|L|Flyout|B|Cutter|14|0|0|0|11|85
+John Lamb|L|Anthony Rizzo|L|Flyout|X|Cutter|15|1|0|0|7|84
+John Lamb|L|Chris Denorfia|R|Strikeout|B|Four-Seam Fastball|16|0|0|1|13|89
+John Lamb|L|Chris Denorfia|R|Strikeout|B|Changeup|17|1|0|1|13|80
+John Lamb|L|Chris Denorfia|R|Strikeout|C|Four-Seam Fastball|18|2|0|1|13|90
+John Lamb|L|Chris Denorfia|R|Strikeout|F|Four-Seam Fastball|19|2|1|1|11|90
+John Lamb|L|Chris Denorfia|R|Strikeout|S|Curveball|20|2|2|1|13|70
+John Lamb|L|Javier Baez|R|Double|S|Four-Seam Fastball|21|0|0|2|12|90
+John Lamb|L|Javier Baez|R|Double|B|Four-Seam Fastball|22|0|1|2|11|91
+John Lamb|L|Javier Baez|R|Double|D|Cutter|23|1|1|2|1|84
+John Lamb|L|Kyle Schwarber|L|Strikeout|B|N/A|24|0|0|2|0|0
+John Lamb|L|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|25|1|0|2|4|90
+John Lamb|L|Kyle Schwarber|L|Strikeout|S|Four-Seam Fastball|26|1|1|2|5|90
+John Lamb|L|Kyle Schwarber|L|Strikeout|C|Curveball|27|1|2|2|2|70
+John Lamb|L|Jason Hammel|R|Groundout|C|Four-Seam Fastball|28|0|0|0|3|88
+John Lamb|L|Jason Hammel|R|Groundout|S|Four-Seam Fastball|29|0|1|0|4|87
+John Lamb|L|Jason Hammel|R|Groundout|X|Curveball|30|0|2|0|2|70
+John Lamb|L|Addison Russell|R|Walk|B|Curveball|31|0|0|1|12|68
+John Lamb|L|Addison Russell|R|Walk|B|Cutter|32|1|0|1|13|80
+John Lamb|L|Addison Russell|R|Walk|C|Four-Seam Fastball|33|2|0|1|12|88
+John Lamb|L|Addison Russell|R|Walk|B|Four-Seam Fastball|34|2|1|1|14|87
+John Lamb|L|Addison Russell|R|Walk|F|Cutter|35|3|1|1|2|85
+John Lamb|L|Addison Russell|R|Walk|B|Four-Seam Fastball|36|3|2|1|13|90
+John Lamb|L|Dexter Fowler|R|Walk|B|Four-Seam Fastball|37|0|0|1|11|90
+John Lamb|L|Dexter Fowler|R|Walk|B|Four-Seam Fastball|38|1|0|1|13|87
+John Lamb|L|Dexter Fowler|R|Walk|B|Four-Seam Fastball|39|2|0|1|12|88
+John Lamb|L|Dexter Fowler|R|Walk|C|Four-Seam Fastball|40|3|0|1|13|90
+John Lamb|L|Dexter Fowler|R|Walk|B|Four-Seam Fastball|41|3|1|1|11|90
+John Lamb|L|Austin Jackson|R|Home Run|F|Changeup|42|0|0|1|8|78
+John Lamb|L|Austin Jackson|R|Home Run|B|Four-Seam Fastball|43|0|1|1|13|90
+John Lamb|L|Austin Jackson|R|Home Run|E|Changeup|44|1|1|1|8|80
+John Lamb|L|Starlin Castro|R|Strikeout|C|Curveball|45|0|0|1|9|69
+John Lamb|L|Starlin Castro|R|Strikeout|F|Cutter|46|0|1|1|13|83
+John Lamb|L|Starlin Castro|R|Strikeout|F|Curveball|47|0|2|1|6|68
+John Lamb|L|Starlin Castro|R|Strikeout|W|Curveball|48|0|2|1|13|68
+John Lamb|L|Anthony Rizzo|L|Strikeout|F|Changeup|49|0|0|2|8|75
+John Lamb|L|Anthony Rizzo|L|Strikeout|F|Changeup|50|0|1|2|6|77
+John Lamb|L|Anthony Rizzo|L|Strikeout|B|Changeup|51|0|2|2|13|73
+John Lamb|L|Anthony Rizzo|L|Strikeout|S|Curveball|52|1|2|2|13|68
+John Lamb|L|Chris Denorfia|R|Strikeout|B|Curveball|53|0|0|0|12|65
+John Lamb|L|Chris Denorfia|R|Strikeout|C|Four-Seam Fastball|54|1|0|0|9|87
+John Lamb|L|Chris Denorfia|R|Strikeout|F|Four-Seam Fastball|55|1|1|0|9|86
+John Lamb|L|Chris Denorfia|R|Strikeout|B|Four-Seam Fastball|56|1|2|0|11|89
+John Lamb|L|Chris Denorfia|R|Strikeout|S|Cutter|57|2|2|0|13|82
+John Lamb|L|Javier Baez|R|Single|C|Four-Seam Fastball|58|0|0|1|5|88
+John Lamb|L|Javier Baez|R|Single|B|Cutter|59|0|1|1|13|81
+John Lamb|L|Javier Baez|R|Single|D|Four-Seam Fastball|60|1|1|1|11|87
+John Lamb|L|Kyle Schwarber|L|Flyout|B|Cutter|61|0|0|1|14|86
+John Lamb|L|Kyle Schwarber|L|Flyout|L|Four-Seam Fastball|62|1|0|1|4|86
+John Lamb|L|Kyle Schwarber|L|Flyout|X|Four-Seam Fastball|63|1|1|1|8|88
+John Lamb|L|Jason Hammel|R|Pop Out|S|Four-Seam Fastball|64|0|0|2|4|88
+John Lamb|L|Jason Hammel|R|Pop Out|F|Four-Seam Fastball|65|0|1|2|4|87
+John Lamb|L|Jason Hammel|R|Pop Out|X|Cutter|66|0|2|2|1|80
+John Lamb|L|Addison Russell|R|Strikeout|B|Four-Seam Fastball|67|0|0|0|13|86
+John Lamb|L|Addison Russell|R|Strikeout|C|Curveball|68|1|0|0|7|67
+John Lamb|L|Addison Russell|R|Strikeout|F|Curveball|69|1|1|0|13|65
+John Lamb|L|Addison Russell|R|Strikeout|B|Four-Seam Fastball|70|1|2|0|12|87
+John Lamb|L|Addison Russell|R|Strikeout|F|Cutter|71|2|2|0|13|79
+John Lamb|L|Addison Russell|R|Strikeout|B|Four-Seam Fastball|72|2|2|0|13|87
+John Lamb|L|Addison Russell|R|Strikeout|S|Four-Seam Fastball|73|3|2|0|2|87
+John Lamb|L|Dexter Fowler|R|Single|D|Changeup|74|0|0|1|5|76
+John Lamb|L|Austin Jackson|R|Walk|B|Four-Seam Fastball|75|0|0|1|13|85
+John Lamb|L|Austin Jackson|R|Walk|F|Four-Seam Fastball|76|1|0|1|5|88
+John Lamb|L|Austin Jackson|R|Walk|B|Curveball|77|1|1|1|12|66
+John Lamb|L|Austin Jackson|R|Walk|F|Four-Seam Fastball|78|2|1|1|7|86
+John Lamb|L|Austin Jackson|R|Walk|F|Cutter|79|2|2|1|13|82
+John Lamb|L|Austin Jackson|R|Walk|*B|Four-Seam Fastball|80|2|2|1|13|87
+John Lamb|L|Austin Jackson|R|Walk|B|Four-Seam Fastball|81|3|2|1|13|89
+John Lamb|L|Starlin Castro|R|Lineout|B|Four-Seam Fastball|82|0|0|1|13|89
+John Lamb|L|Starlin Castro|R|Lineout|X|Four-Seam Fastball|83|1|0|1|1|87
+John Lamb|L|Anthony Rizzo|L|Double|C|Four-Seam Fastball|84|0|0|2|6|89
+John Lamb|L|Anthony Rizzo|L|Double|F|Curveball|85|0|1|2|7|71
+John Lamb|L|Anthony Rizzo|L|Double|B|Changeup|86|0|2|2|13|77
+John Lamb|L|Anthony Rizzo|L|Double|B|Four-Seam Fastball|87|1|2|2|14|90
+John Lamb|L|Anthony Rizzo|L|Double|E|Cutter|88|2|2|2|8|84
+John Lamb|L|Denard Span|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|7|88
+John Lamb|L|Denard Span|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|5|87
+John Lamb|L|Denard Span|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|88
+John Lamb|L|Denard Span|L|Strikeout|F|Cutter|3|1|2|0|11|83
+John Lamb|L|Denard Span|L|Strikeout|B|Four-Seam Fastball|4|1|2|0|14|90
+John Lamb|L|Denard Span|L|Strikeout|C|Four-Seam Fastball|5|2|2|0|14|88
+John Lamb|L|Matt Duffy|R|Pop Out|B|Four-Seam Fastball|6|0|0|1|3|88
+John Lamb|L|Matt Duffy|R|Pop Out|C|Four-Seam Fastball|7|1|0|1|6|89
+John Lamb|L|Matt Duffy|R|Pop Out|X|Cutter|8|1|1|1|11|84
+John Lamb|L|Buster Posey|R|Double|C|Cutter|9|0|0|2|1|83
+John Lamb|L|Buster Posey|R|Double|F|Changeup|10|0|1|2|14|74
+John Lamb|L|Buster Posey|R|Double|D|Four-Seam Fastball|11|0|2|2|2|90
+John Lamb|L|Hunter Pence|R|Double|C|Four-Seam Fastball|12|0|0|2|9|89
+John Lamb|L|Hunter Pence|R|Double|B|Four-Seam Fastball|13|0|1|2|14|89
+John Lamb|L|Hunter Pence|R|Double|E|Changeup|14|1|1|2|14|74
+John Lamb|L|Brandon Belt|L|Walk|B|Four-Seam Fastball|15|0|0|2|12|89
+John Lamb|L|Brandon Belt|L|Walk|B|Curveball|16|1|0|2|11|68
+John Lamb|L|Brandon Belt|L|Walk|B|Cutter|17|2|0|2|11|84
+John Lamb|L|Brandon Belt|L|Walk|C|Four-Seam Fastball|18|3|0|2|5|88
+John Lamb|L|Brandon Belt|L|Walk|B|Cutter|19|3|1|2|11|82
+John Lamb|L|Brandon Crawford|L|Groundout|B|Cutter|20|0|0|2|11|82
+John Lamb|L|Brandon Crawford|L|Groundout|X|Four-Seam Fastball|21|1|0|2|14|87
+John Lamb|L|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|22|0|0|0|13|85
+John Lamb|L|Kelby Tomlinson|R|Single|C|Four-Seam Fastball|23|1|0|0|14|86
+John Lamb|L|Kelby Tomlinson|R|Single|D|Four-Seam Fastball|24|1|1|0|7|88
+John Lamb|L|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|25|0|0|0|13|86
+John Lamb|L|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|26|1|0|0|12|88
+John Lamb|L|Gregor Blanco|L|Flyout|X|Four-Seam Fastball|27|2|0|0|13|86
+John Lamb|L|Jeff Samardzija|R|Strikeout|F|Cutter|28|0|0|1|5|82
+John Lamb|L|Jeff Samardzija|R|Strikeout|S|Changeup|29|0|1|1|14|72
+John Lamb|L|Jeff Samardzija|R|Strikeout|*B|Changeup|30|0|2|1|13|73
+John Lamb|L|Jeff Samardzija|R|Strikeout|S|Cutter|31|1|2|1|13|84
+John Lamb|L|Denard Span|L|Groundout|F|Cutter|32|0|0|2|8|84
+John Lamb|L|Denard Span|L|Groundout|B|Cutter|33|0|1|2|11|84
+John Lamb|L|Denard Span|L|Groundout|X|Changeup|34|1|1|2|13|74
+John Lamb|L|Matt Duffy|R|Groundout|B|Cutter|35|0|0|0|13|82
+John Lamb|L|Matt Duffy|R|Groundout|B|Four-Seam Fastball|36|1|0|0|12|87
+John Lamb|L|Matt Duffy|R|Groundout|C|Four-Seam Fastball|37|2|0|0|9|87
+John Lamb|L|Matt Duffy|R|Groundout|S|Changeup|38|2|1|0|13|73
+John Lamb|L|Matt Duffy|R|Groundout|B|Four-Seam Fastball|39|2|2|0|13|88
+John Lamb|L|Matt Duffy|R|Groundout|X|Four-Seam Fastball|40|3|2|0|7|87
+John Lamb|L|Buster Posey|R|Double|C|Changeup|41|0|0|1|2|74
+John Lamb|L|Buster Posey|R|Double|B|Changeup|42|0|1|1|13|73
+John Lamb|L|Buster Posey|R|Double|B|Cutter|43|1|1|1|13|85
+John Lamb|L|Buster Posey|R|Double|B|Four-Seam Fastball|44|2|1|1|12|88
+John Lamb|L|Buster Posey|R|Double|D|Four-Seam Fastball|45|3|1|1|9|89
+John Lamb|L|Hunter Pence|R|Flyout|B|Four-Seam Fastball|46|0|0|1|14|88
+John Lamb|L|Hunter Pence|R|Flyout|B|Cutter|47|1|0|1|13|83
+John Lamb|L|Hunter Pence|R|Flyout|B|Four-Seam Fastball|48|2|0|1|14|88
+John Lamb|L|Hunter Pence|R|Flyout|C|Four-Seam Fastball|49|3|0|1|8|88
+John Lamb|L|Hunter Pence|R|Flyout|C|Four-Seam Fastball|50|3|1|1|14|87
+John Lamb|L|Hunter Pence|R|Flyout|F|Four-Seam Fastball|51|3|2|1|14|89
+John Lamb|L|Hunter Pence|R|Flyout|X|Four-Seam Fastball|52|3|2|1|11|89
+John Lamb|L|Brandon Belt|L|Flyout|B|Changeup|53|0|0|2|13|74
+John Lamb|L|Brandon Belt|L|Flyout|X|Four-Seam Fastball|54|1|0|2|5|88
+John Lamb|L|Brandon Crawford|L|Double|F|Four-Seam Fastball|55|0|0|0|1|86
+John Lamb|L|Brandon Crawford|L|Double|B|Four-Seam Fastball|56|0|1|0|12|86
+John Lamb|L|Brandon Crawford|L|Double|S|Curveball|57|1|1|0|8|65
+John Lamb|L|Brandon Crawford|L|Double|D|Curveball|58|1|2|0|5|67
+John Lamb|L|Kelby Tomlinson|R|Lineout|X|Changeup|59|0|0|0|8|74
+John Lamb|L|Gregor Blanco|L|Groundout|X|Changeup|60|0|0|1|8|72
+John Lamb|L|Jeff Samardzija|R|Groundout|C|Curveball|61|0|0|2|14|65
+John Lamb|L|Jeff Samardzija|R|Groundout|X|Curveball|62|0|1|2|2|65
+John Lamb|L|Denard Span|L|Single|C|Four-Seam Fastball|63|0|0|0|8|87
+John Lamb|L|Denard Span|L|Single|B|Cutter|64|0|1|0|11|82
+John Lamb|L|Denard Span|L|Single|F|Changeup|65|1|1|0|14|71
+John Lamb|L|Denard Span|L|Single|F|Changeup|66|1|2|0|14|68
+John Lamb|L|Denard Span|L|Single|D|Changeup|67|1|2|0|13|69
+John Lamb|L|Matt Duffy|R|Flyout|C|Changeup|68|0|0|0|9|70
+John Lamb|L|Matt Duffy|R|Flyout|B|Changeup|69|0|1|0|14|69
+John Lamb|L|Matt Duffy|R|Flyout|B|Cutter|70|1|1|0|13|85
+John Lamb|L|Matt Duffy|R|Flyout|X|Four-Seam Fastball|71|2|1|0|7|87
+John Lamb|L|Buster Posey|R|Walk|B|Four-Seam Fastball|72|0|0|1|11|88
+John Lamb|L|Buster Posey|R|Walk|B|Cutter|73|1|0|1|13|83
+John Lamb|L|Buster Posey|R|Walk|B|Four-Seam Fastball|74|2|0|1|14|89
+John Lamb|L|Buster Posey|R|Walk|C|Four-Seam Fastball|75|3|0|1|8|88
+John Lamb|L|Buster Posey|R|Walk|B|Four-Seam Fastball|76|3|1|1|12|89
+John Lamb|L|Hunter Pence|R|Strikeout|F|Changeup|77|0|0|1|8|73
+John Lamb|L|Hunter Pence|R|Strikeout|B|Four-Seam Fastball|78|0|1|1|13|88
+John Lamb|L|Hunter Pence|R|Strikeout|B|Cutter|79|1|1|1|13|81
+John Lamb|L|Hunter Pence|R|Strikeout|C|Changeup|80|2|1|1|8|73
+John Lamb|L|Hunter Pence|R|Strikeout|B|Curveball|81|2|2|1|12|66
+John Lamb|L|Hunter Pence|R|Strikeout|S|Changeup|82|3|2|1|1|71
+John Lamb|L|Brandon Belt|L|Pickoff Caught Stealing 3B|F|Changeup|83|0|0|2|2|71
+John Lamb|L|Brandon Belt|L|Pickoff Caught Stealing 3B|S|Four-Seam Fastball|84|0|1|2|11|88
+John Lamb|L|Brandon Belt|L|Flyout|S|Curveball|85|0|0|0|13|63
+John Lamb|L|Brandon Belt|L|Flyout|B|Four-Seam Fastball|86|0|1|0|14|88
+John Lamb|L|Brandon Belt|L|Flyout|B|Cutter|87|1|1|0|11|82
+John Lamb|L|Brandon Belt|L|Flyout|B|Cutter|88|2|1|0|13|82
+John Lamb|L|Brandon Belt|L|Flyout|X|Four-Seam Fastball|89|3|1|0|8|87
+John Lamb|L|Brandon Crawford|L|Walk|B|Curveball|90|0|0|1|13|65
+John Lamb|L|Brandon Crawford|L|Walk|B|Cutter|91|1|0|1|13|84
+John Lamb|L|Brandon Crawford|L|Walk|B|Cutter|92|2|0|1|11|83
+John Lamb|L|Brandon Crawford|L|Walk|B|Four-Seam Fastball|93|3|0|1|12|85
+John Lamb|L|Kelby Tomlinson|R|Strikeout|C|Four-Seam Fastball|94|0|0|1|9|87
+John Lamb|L|Kelby Tomlinson|R|Strikeout|F|Four-Seam Fastball|95|0|1|1|2|86
+John Lamb|L|Kelby Tomlinson|R|Strikeout|S|Changeup|96|0|2|1|14|70
+John Lamb|L|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|97|0|0|2|12|86
+John Lamb|L|Gregor Blanco|L|Flyout|C|Changeup|98|1|0|2|5|71
+John Lamb|L|Gregor Blanco|L|Flyout|F|Changeup|99|1|1|2|13|70
+John Lamb|L|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|100|1|2|2|12|89
+John Lamb|L|Gregor Blanco|L|Flyout|B|Curveball|101|2|2|2|11|66
+John Lamb|L|Gregor Blanco|L|Flyout|X|Curveball|102|3|2|2|11|64
+John Lamb|L|Alex Presley|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|87
+John Lamb|L|Alex Presley|L|Flyout|C|Four-Seam Fastball|1|1|0|0|12|86
+John Lamb|L|Alex Presley|L|Flyout|X|Cutter|2|1|1|0|5|83
+John Lamb|L|Jonathan Villar|R|Pop Out|C|Four-Seam Fastball|3|0|0|1|3|87
+John Lamb|L|Jonathan Villar|R|Pop Out|X|Cutter|4|0|1|1|11|83
+John Lamb|L|Ryan Braun|R|Home Run|B|Curveball|5|0|0|2|13|66
+John Lamb|L|Ryan Braun|R|Home Run|E|Changeup|6|1|0|2|8|75
+John Lamb|L|Jonathan Lucroy|R|Single|B|Four-Seam Fastball|7|0|0|2|12|90
+John Lamb|L|Jonathan Lucroy|R|Single|C|Four-Seam Fastball|8|1|0|2|6|88
+John Lamb|L|Jonathan Lucroy|R|Single|S|Four-Seam Fastball|9|1|1|2|8|90
+John Lamb|L|Jonathan Lucroy|R|Single|D|Four-Seam Fastball|10|1|2|2|13|90
+John Lamb|L|Chris Carter|R|Pop Out|F|Four-Seam Fastball|11|0|0|2|5|89
+John Lamb|L|Chris Carter|R|Pop Out|X|Changeup|12|0|1|2|2|73
+John Lamb|L|Aaron Hill|R|Strikeout|B|Four-Seam Fastball|13|0|0|0|11|87
+John Lamb|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|14|1|0|0|3|88
+John Lamb|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|15|1|1|0|6|88
+John Lamb|L|Aaron Hill|R|Strikeout|B|Cutter|16|1|2|0|13|82
+John Lamb|L|Aaron Hill|R|Strikeout|B|Four-Seam Fastball|17|2|2|0|12|89
+John Lamb|L|Aaron Hill|R|Strikeout|C|N/A|18|3|2|0|0|0
+John Lamb|L|Hernan Perez|R|Flyout|X|Four-Seam Fastball|19|0|0|1|4|90
+John Lamb|L|Ramon Flores|L|Strikeout|C|Four-Seam Fastball|20|0|0|2|8|89
+John Lamb|L|Ramon Flores|L|Strikeout|S|Four-Seam Fastball|21|0|1|2|6|89
+John Lamb|L|Ramon Flores|L|Strikeout|B|Four-Seam Fastball|22|0|2|2|11|90
+John Lamb|L|Ramon Flores|L|Strikeout|B|Four-Seam Fastball|23|1|2|2|13|90
+John Lamb|L|Ramon Flores|L|Strikeout|S|Four-Seam Fastball|24|2|2|2|8|90
+John Lamb|L|Junior Guerra|R|Groundout|B|Four-Seam Fastball|25|0|0|0|13|88
+John Lamb|L|Junior Guerra|R|Groundout|C|Four-Seam Fastball|26|1|0|0|8|87
+John Lamb|L|Junior Guerra|R|Groundout|X|Four-Seam Fastball|27|1|1|0|4|89
+John Lamb|L|Alex Presley|L|Strikeout|B|Four-Seam Fastball|28|0|0|1|12|90
+John Lamb|L|Alex Presley|L|Strikeout|C|Four-Seam Fastball|29|1|0|1|8|89
+John Lamb|L|Alex Presley|L|Strikeout|C|Cutter|30|1|1|1|4|85
+John Lamb|L|Alex Presley|L|Strikeout|B|Cutter|31|1|2|1|11|85
+John Lamb|L|Alex Presley|L|Strikeout|S|Four-Seam Fastball|32|2|2|1|6|90
+John Lamb|L|Jonathan Villar|R|Flyout|C|Cutter|33|0|0|2|13|85
+John Lamb|L|Jonathan Villar|R|Flyout|S|Curveball|34|0|1|2|14|70
+John Lamb|L|Jonathan Villar|R|Flyout|F|Four-Seam Fastball|35|0|2|2|13|90
+John Lamb|L|Jonathan Villar|R|Flyout|B|Four-Seam Fastball|36|0|2|2|11|88
+John Lamb|L|Jonathan Villar|R|Flyout|B|Curveball|37|1|2|2|12|67
+John Lamb|L|Jonathan Villar|R|Flyout|X|Changeup|38|2|2|2|4|73
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|39|0|0|0|14|89
+John Lamb|L|Ryan Braun|R|Walk|B|Cutter|40|1|0|0|13|84
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|41|2|0|0|12|89
+John Lamb|L|Ryan Braun|R|Walk|B|Changeup|42|3|0|0|13|77
+John Lamb|L|Jonathan Lucroy|R|Lineout|B|Four-Seam Fastball|43|0|0|0|13|89
+John Lamb|L|Jonathan Lucroy|R|Lineout|C|Cutter|44|1|0|0|3|83
+John Lamb|L|Jonathan Lucroy|R|Lineout|B|Four-Seam Fastball|45|1|1|0|13|88
+John Lamb|L|Jonathan Lucroy|R|Lineout|S|Changeup|46|2|1|0|8|75
+John Lamb|L|Jonathan Lucroy|R|Lineout|F|Four-Seam Fastball|47|2|2|0|1|90
+John Lamb|L|Jonathan Lucroy|R|Lineout|X|Four-Seam Fastball|48|2|2|0|8|90
+John Lamb|L|Chris Carter|R|Lineout|T|Four-Seam Fastball|49|0|0|1|2|89
+John Lamb|L|Chris Carter|R|Lineout|B|Four-Seam Fastball|50|0|1|1|11|89
+John Lamb|L|Chris Carter|R|Lineout|B|Four-Seam Fastball|51|1|1|1|14|88
+John Lamb|L|Chris Carter|R|Lineout|B|Four-Seam Fastball|52|2|1|1|14|88
+John Lamb|L|Chris Carter|R|Lineout|S|Four-Seam Fastball|53|3|1|1|6|89
+John Lamb|L|Chris Carter|R|Lineout|X|Four-Seam Fastball|54|3|2|1|13|89
+John Lamb|L|Aaron Hill|R|Groundout|X|Changeup|55|0|0|2|2|76
+Steve Delabar|R|Hernan Perez|R|Home Run|B|Changeup|56|0|0|0|13|69
+Steve Delabar|R|Hernan Perez|R|Home Run|C|Changeup|57|1|0|0|3|73
+Steve Delabar|R|Hernan Perez|R|Home Run|S|Changeup|58|1|1|0|7|69
+Steve Delabar|R|Hernan Perez|R|Home Run|B|Curveball|59|1|2|0|14|58
+John Lamb|L|Rajai Davis|R|Single|C|Four-Seam Fastball|0|0|0|0|13|89
+John Lamb|L|Rajai Davis|R|Single|D|Cutter|1|0|1|0|8|87
+John Lamb|L|Jason Kipnis|L|Pop Out|B|Four-Seam Fastball|2|0|0|0|11|88
+John Lamb|L|Jason Kipnis|L|Pop Out|B|Four-Seam Fastball|3|1|0|0|13|89
+John Lamb|L|Jason Kipnis|L|Pop Out|C|Four-Seam Fastball|4|2|0|0|6|89
+John Lamb|L|Jason Kipnis|L|Pop Out|X|Four-Seam Fastball|5|2|1|0|2|89
+John Lamb|L|Francisco Lindor|R|Forceout|C|Four-Seam Fastball|6|0|0|1|13|89
+John Lamb|L|Francisco Lindor|R|Forceout|F|Cutter|7|0|1|1|5|86
+John Lamb|L|Francisco Lindor|R|Forceout|X|Four-Seam Fastball|8|0|2|1|5|89
+John Lamb|L|Mike Napoli|R|Strikeout|T|Four-Seam Fastball|9|0|0|2|2|90
+John Lamb|L|Mike Napoli|R|Strikeout|S|Four-Seam Fastball|10|0|1|2|1|90
+John Lamb|L|Mike Napoli|R|Strikeout|C|Four-Seam Fastball|11|0|2|2|13|91
+John Lamb|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|12|0|0|0|14|89
+John Lamb|L|Carlos Santana|R|Walk|B|Changeup|13|1|0|0|13|76
+John Lamb|L|Carlos Santana|R|Walk|B|Cutter|14|2|0|0|3|85
+John Lamb|L|Carlos Santana|R|Walk|C|Four-Seam Fastball|15|3|0|0|14|90
+John Lamb|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|16|3|1|0|12|90
+John Lamb|L|Yan Gomes|R|Lineout|B|Cutter|17|0|0|0|12|85
+John Lamb|L|Yan Gomes|R|Lineout|F|Four-Seam Fastball|18|1|0|0|13|89
+John Lamb|L|Yan Gomes|R|Lineout|C|Four-Seam Fastball|19|1|1|0|7|90
+John Lamb|L|Yan Gomes|R|Lineout|X|Cutter|20|1|2|0|4|87
+John Lamb|L|Jose Ramirez|R|Grounded Into DP|C|Four-Seam Fastball|21|0|0|1|4|89
+John Lamb|L|Jose Ramirez|R|Grounded Into DP|B|Four-Seam Fastball|22|0|1|1|14|87
+John Lamb|L|Jose Ramirez|R|Grounded Into DP|X|Four-Seam Fastball|23|1|1|1|4|90
+John Lamb|L|Marlon Byrd|R|Single|B|Four-Seam Fastball|24|0|0|0|11|89
+John Lamb|L|Marlon Byrd|R|Single|C|Four-Seam Fastball|25|1|0|0|7|89
+John Lamb|L|Marlon Byrd|R|Single|B|Four-Seam Fastball|26|1|1|0|12|89
+John Lamb|L|Marlon Byrd|R|Single|D|Four-Seam Fastball|27|2|1|0|12|88
+John Lamb|L|Juan Uribe|R|Single|B|Four-Seam Fastball|28|0|0|0|12|89
+John Lamb|L|Juan Uribe|R|Single|D|Cutter|29|1|0|0|13|85
+John Lamb|L|Rajai Davis|R|Single|T|Four-Seam Fastball|30|0|0|0|11|90
+John Lamb|L|Rajai Davis|R|Single|B|Four-Seam Fastball|31|0|1|0|11|89
+John Lamb|L|Rajai Davis|R|Single|B|Changeup|32|1|1|0|13|75
+John Lamb|L|Rajai Davis|R|Single|E|Four-Seam Fastball|33|2|1|0|5|89
+John Lamb|L|Jason Kipnis|L|Sac Bunt|X|Cutter|34|0|0|0|12|84
+John Lamb|L|Francisco Lindor|R|Double|C|Four-Seam Fastball|35|0|0|1|7|90
+John Lamb|L|Francisco Lindor|R|Double|S|Cutter|36|0|1|1|12|86
+John Lamb|L|Francisco Lindor|R|Double|E|Cutter|37|0|2|1|11|85
+John Lamb|L|Mike Napoli|R|Single|S|Four-Seam Fastball|38|0|0|1|2|90
+John Lamb|L|Mike Napoli|R|Single|B|Four-Seam Fastball|39|0|1|1|13|91
+John Lamb|L|Mike Napoli|R|Single|*B|Curveball|40|1|1|1|13|70
+John Lamb|L|Mike Napoli|R|Single|C|Four-Seam Fastball|41|2|1|1|11|90
+John Lamb|L|Mike Napoli|R|Single|E|Four-Seam Fastball|42|2|2|1|9|90
+John Lamb|L|Carlos Santana|R|Flyout|B|Changeup|43|0|0|1|12|75
+John Lamb|L|Carlos Santana|R|Flyout|X|Four-Seam Fastball|44|1|0|1|4|88
+John Lamb|L|Yan Gomes|R|Forceout|F|Four-Seam Fastball|45|0|0|2|5|90
+John Lamb|L|Yan Gomes|R|Forceout|X|Cutter|46|0|1|2|13|86
+John Lamb|L|Jose Ramirez|R|Double|B|Curveball|47|0|0|0|13|68
+John Lamb|L|Jose Ramirez|R|Double|B|Cutter|48|1|0|0|12|84
+John Lamb|L|Jose Ramirez|R|Double|F|Four-Seam Fastball|49|2|0|0|13|88
+John Lamb|L|Jose Ramirez|R|Double|B|Changeup|50|2|1|0|13|76
+John Lamb|L|Jose Ramirez|R|Double|F|Four-Seam Fastball|51|3|1|0|6|89
+John Lamb|L|Jose Ramirez|R|Double|D|Four-Seam Fastball|52|3|2|0|4|89
+John Lamb|L|Marlon Byrd|R|Groundout|B|Four-Seam Fastball|53|0|0|0|13|89
+John Lamb|L|Marlon Byrd|R|Groundout|B|Four-Seam Fastball|54|1|0|0|11|89
+John Lamb|L|Marlon Byrd|R|Groundout|X|Cutter|55|2|0|0|7|85
+John Lamb|L|Juan Uribe|R|Lineout|F|Cutter|56|0|0|1|13|83
+John Lamb|L|Juan Uribe|R|Lineout|X|Four-Seam Fastball|57|0|1|1|13|89
+John Lamb|L|Rajai Davis|R|Walk|B|Curveball|58|0|0|2|11|69
+John Lamb|L|Rajai Davis|R|Walk|B|Four-Seam Fastball|59|1|0|2|13|90
+John Lamb|L|Rajai Davis|R|Walk|B|Four-Seam Fastball|60|2|0|2|13|88
+John Lamb|L|Rajai Davis|R|Walk|C|Four-Seam Fastball|61|3|0|2|13|88
+John Lamb|L|Rajai Davis|R|Walk|B|Four-Seam Fastball|62|3|1|2|14|89
+John Lamb|L|Jason Kipnis|L|Single|B|Four-Seam Fastball|63|0|0|2|11|88
+John Lamb|L|Jason Kipnis|L|Single|S|Cutter|64|1|0|2|4|83
+John Lamb|L|Jason Kipnis|L|Single|F|Four-Seam Fastball|65|1|1|2|4|89
+John Lamb|L|Jason Kipnis|L|Single|F|Cutter|66|1|2|2|13|82
+John Lamb|L|Jason Kipnis|L|Single|B|Four-Seam Fastball|67|1|2|2|12|89
+John Lamb|L|Jason Kipnis|L|Single|E|Four-Seam Fastball|68|2|2|2|2|89
+John Lamb|L|Francisco Lindor|R|Single|F|Changeup|69|0|0|2|12|73
+John Lamb|L|Francisco Lindor|R|Single|F|Four-Seam Fastball|70|0|1|2|13|87
+John Lamb|L|Francisco Lindor|R|Single|D|Four-Seam Fastball|71|0|2|2|3|87
+John Lamb|L|Mike Napoli|R|Single|B|Cutter|72|0|0|2|13|82
+John Lamb|L|Mike Napoli|R|Single|E|Four-Seam Fastball|73|1|0|2|5|86
+John Lamb|L|Carlos Santana|R|Groundout|C|Cutter|74|0|0|2|13|84
+John Lamb|L|Carlos Santana|R|Groundout|C|Four-Seam Fastball|75|0|1|2|7|87
+John Lamb|L|Carlos Santana|R|Groundout|B|Four-Seam Fastball|76|0|2|2|11|87
+John Lamb|L|Carlos Santana|R|Groundout|B|Changeup|77|1|2|2|11|74
+John Lamb|L|Carlos Santana|R|Groundout|*B|Cutter|78|2|2|2|13|84
+John Lamb|L|Carlos Santana|R|Groundout|X|Cutter|79|3|2|2|4|81
+John Lamb|L|Ketel Marte|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|6|87
+John Lamb|L|Ketel Marte|R|Pop Out|B|Four-Seam Fastball|1|0|1|0|13|87
+John Lamb|L|Ketel Marte|R|Pop Out|X|Changeup|2|1|1|0|8|76
+John Lamb|L|Kyle Seager|L|Single|C|Cutter|3|0|0|1|5|84
+John Lamb|L|Kyle Seager|L|Single|D|Cutter|4|0|1|1|8|86
+John Lamb|L|Robinson Cano|L|Walk|F|Four-Seam Fastball|5|0|0|1|2|88
+John Lamb|L|Robinson Cano|L|Walk|F|Curveball|6|0|1|1|5|69
+John Lamb|L|Robinson Cano|L|Walk|*B|Curveball|7|0|2|1|13|70
+John Lamb|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|8|1|2|1|13|87
+John Lamb|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|9|2|2|1|13|90
+John Lamb|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|10|3|2|1|13|89
+John Lamb|L|Nelson Cruz|R|Forceout|B|Four-Seam Fastball|11|0|0|1|14|90
+John Lamb|L|Nelson Cruz|R|Forceout|F|Four-Seam Fastball|12|1|0|1|4|87
+John Lamb|L|Nelson Cruz|R|Forceout|S|Changeup|13|1|1|1|8|75
+John Lamb|L|Nelson Cruz|R|Forceout|B|Four-Seam Fastball|14|1|2|1|14|91
+John Lamb|L|Nelson Cruz|R|Forceout|B|Four-Seam Fastball|15|2|2|1|12|89
+John Lamb|L|Nelson Cruz|R|Forceout|F|Four-Seam Fastball|16|3|2|1|12|89
+John Lamb|L|Nelson Cruz|R|Forceout|X|Changeup|17|3|2|1|12|74
+John Lamb|L|Dae-Ho Lee|R|Groundout|S|Four-Seam Fastball|18|0|0|2|6|90
+John Lamb|L|Dae-Ho Lee|R|Groundout|B|Four-Seam Fastball|19|0|1|2|14|89
+John Lamb|L|Dae-Ho Lee|R|Groundout|F|Four-Seam Fastball|20|1|1|2|11|90
+John Lamb|L|Dae-Ho Lee|R|Groundout|F|Four-Seam Fastball|21|1|2|2|8|91
+John Lamb|L|Dae-Ho Lee|R|Groundout|*B|Changeup|22|1|2|2|13|72
+John Lamb|L|Dae-Ho Lee|R|Groundout|B|Four-Seam Fastball|23|2|2|2|13|90
+John Lamb|L|Dae-Ho Lee|R|Groundout|X|Four-Seam Fastball|24|3|2|2|5|88
+John Lamb|L|Chris Iannetta|R|Groundout|C|Four-Seam Fastball|25|0|0|0|9|88
+John Lamb|L|Chris Iannetta|R|Groundout|X|Changeup|26|0|1|0|4|74
+John Lamb|L|Franklin Gutierrez|R|Groundout|C|Curveball|27|0|0|1|8|67
+John Lamb|L|Franklin Gutierrez|R|Groundout|B|Changeup|28|0|1|1|14|73
+John Lamb|L|Franklin Gutierrez|R|Groundout|X|Cutter|29|1|1|1|5|87
+John Lamb|L|Leonys Martin|L|Home Run|C|Four-Seam Fastball|30|0|0|2|5|89
+John Lamb|L|Leonys Martin|L|Home Run|E|Cutter|31|0|1|2|6|86
+John Lamb|L|Felix Hernandez|R|Groundout|B|Four-Seam Fastball|32|0|0|2|14|90
+John Lamb|L|Felix Hernandez|R|Groundout|C|Four-Seam Fastball|33|1|0|2|9|89
+John Lamb|L|Felix Hernandez|R|Groundout|X|Four-Seam Fastball|34|1|1|2|12|87
+John Lamb|L|Ketel Marte|R|Strikeout|C|Curveball|35|0|0|0|7|66
+John Lamb|L|Ketel Marte|R|Strikeout|C|Four-Seam Fastball|36|0|1|0|9|88
+John Lamb|L|Ketel Marte|R|Strikeout|S|Curveball|37|0|2|0|13|66
+John Lamb|L|Kyle Seager|L|Groundout|S|Curveball|38|0|0|1|7|65
+John Lamb|L|Kyle Seager|L|Groundout|B|Curveball|39|0|1|1|13|68
+John Lamb|L|Kyle Seager|L|Groundout|C|Four-Seam Fastball|40|1|1|1|13|89
+John Lamb|L|Kyle Seager|L|Groundout|B|Four-Seam Fastball|41|1|2|1|14|90
+John Lamb|L|Kyle Seager|L|Groundout|X|Curveball|42|2|2|1|7|68
+John Lamb|L|Robinson Cano|L|Flyout|C|Four-Seam Fastball|43|0|0|2|4|90
+John Lamb|L|Robinson Cano|L|Flyout|S|Curveball|44|0|1|2|13|71
+John Lamb|L|Robinson Cano|L|Flyout|B|Four-Seam Fastball|45|0|2|2|13|90
+John Lamb|L|Robinson Cano|L|Flyout|B|Four-Seam Fastball|46|1|2|2|13|90
+John Lamb|L|Robinson Cano|L|Flyout|B|Curveball|47|2|2|2|13|71
+John Lamb|L|Robinson Cano|L|Flyout|X|Curveball|48|3|2|2|11|69
+John Lamb|L|Nelson Cruz|R|Single|B|Changeup|49|0|0|0|14|74
+John Lamb|L|Nelson Cruz|R|Single|C|Four-Seam Fastball|50|1|0|0|9|88
+John Lamb|L|Nelson Cruz|R|Single|D|Curveball|51|1|1|0|9|68
+John Lamb|L|Dae-Ho Lee|R|Field Error|D|Four-Seam Fastball|52|0|0|0|5|88
+John Lamb|L|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|53|0|0|0|9|89
+John Lamb|L|Chris Iannetta|R|Flyout|*B|Four-Seam Fastball|54|0|1|0|14|88
+John Lamb|L|Chris Iannetta|R|Flyout|X|Curveball|55|1|1|0|8|70
+John Lamb|L|Franklin Gutierrez|R|Home Run|B|Changeup|56|0|0|1|14|75
+John Lamb|L|Franklin Gutierrez|R|Home Run|*B|Changeup|57|1|0|1|14|75
+John Lamb|L|Franklin Gutierrez|R|Home Run|E|Four-Seam Fastball|58|2|0|1|5|89
+John Lamb|L|Leonys Martin|L|Lineout|B|Four-Seam Fastball|59|0|0|1|13|90
+John Lamb|L|Leonys Martin|L|Lineout|C|Four-Seam Fastball|60|1|0|1|6|89
+John Lamb|L|Leonys Martin|L|Lineout|S|Curveball|61|1|1|1|14|69
+John Lamb|L|Leonys Martin|L|Lineout|X|Curveball|62|1|2|1|13|68
+John Lamb|L|Felix Hernandez|R|Groundout|B|Four-Seam Fastball|63|0|0|2|12|89
+John Lamb|L|Felix Hernandez|R|Groundout|B|Four-Seam Fastball|64|1|0|2|14|89
+John Lamb|L|Felix Hernandez|R|Groundout|F|Four-Seam Fastball|65|2|0|2|3|88
+John Lamb|L|Felix Hernandez|R|Groundout|X|Four-Seam Fastball|66|2|1|2|1|88
+John Lamb|L|Ketel Marte|R|Single|D|Four-Seam Fastball|67|0|0|0|8|89
+John Lamb|L|Kyle Seager|L|Flyout|*B|Curveball|68|0|0|0|13|68
+John Lamb|L|Kyle Seager|L|Flyout|B|Four-Seam Fastball|69|1|0|0|13|87
+John Lamb|L|Kyle Seager|L|Flyout|C|Four-Seam Fastball|70|2|0|0|13|88
+John Lamb|L|Kyle Seager|L|Flyout|X|Cutter|71|2|1|0|4|84
+John Lamb|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|72|0|0|1|13|88
+John Lamb|L|Robinson Cano|L|Walk|B|Cutter|73|1|0|1|13|86
+John Lamb|L|Robinson Cano|L|Walk|B|Cutter|74|2|0|1|13|85
+John Lamb|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|75|3|0|1|13|89
+John Lamb|L|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|76|0|0|1|14|89
+John Lamb|L|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|77|1|0|1|12|87
+John Lamb|L|Nelson Cruz|R|Strikeout|S|Changeup|78|2|0|1|13|75
+John Lamb|L|Nelson Cruz|R|Strikeout|C|Changeup|79|2|1|1|7|74
+John Lamb|L|Nelson Cruz|R|Strikeout|C|Curveball|80|2|2|1|2|66
+John Lamb|L|Dae-Ho Lee|R|Groundout|C|Curveball|81|0|0|2|4|68
+John Lamb|L|Dae-Ho Lee|R|Groundout|B|Changeup|82|0|1|2|13|72
+John Lamb|L|Dae-Ho Lee|R|Groundout|S|Changeup|83|1|1|2|8|74
+John Lamb|L|Dae-Ho Lee|R|Groundout|F|Curveball|84|1|2|2|8|67
+John Lamb|L|Dae-Ho Lee|R|Groundout|*B|Curveball|85|1|2|2|13|69
+John Lamb|L|Dae-Ho Lee|R|Groundout|B|Four-Seam Fastball|86|2|2|2|11|88
+John Lamb|L|Dae-Ho Lee|R|Groundout|F|Four-Seam Fastball|87|3|2|2|7|88
+John Lamb|L|Dae-Ho Lee|R|Groundout|F|Four-Seam Fastball|88|3|2|2|11|88
+John Lamb|L|Dae-Ho Lee|R|Groundout|X|Four-Seam Fastball|89|3|2|2|4|87
+John Lamb|L|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|90|0|0|0|14|87
+John Lamb|L|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|91|1|0|0|14|87
+John Lamb|L|Chris Iannetta|R|Groundout|F|Four-Seam Fastball|92|2|0|0|9|88
+John Lamb|L|Chris Iannetta|R|Groundout|X|Four-Seam Fastball|93|2|1|0|5|88
+John Lamb|L|Franklin Gutierrez|R|Single|B|Four-Seam Fastball|94|0|0|1|13|86
+John Lamb|L|Franklin Gutierrez|R|Single|B|Cutter|95|1|0|1|13|85
+John Lamb|L|Franklin Gutierrez|R|Single|C|Changeup|96|2|0|1|6|74
+John Lamb|L|Franklin Gutierrez|R|Single|B|Changeup|97|2|1|1|14|74
+John Lamb|L|Franklin Gutierrez|R|Single|D|Cutter|98|3|1|1|6|86
+John Lamb|L|Leonys Martin|L|Walk|B|Four-Seam Fastball|99|0|0|1|13|88
+John Lamb|L|Leonys Martin|L|Walk|T|Four-Seam Fastball|100|1|0|1|2|87
+John Lamb|L|Leonys Martin|L|Walk|S|Curveball|101|1|1|1|13|68
+John Lamb|L|Leonys Martin|L|Walk|B|Curveball|102|1|2|1|13|69
+John Lamb|L|Leonys Martin|L|Walk|B|Curveball|103|2|2|1|13|68
+John Lamb|L|Leonys Martin|L|Walk|B|Changeup|104|3|2|1|13|75
+John Lamb|L|Felix Hernandez|R|Sac Bunt|X|Four-Seam Fastball|105|0|0|1|4|87
+John Lamb|L|Shawn O'Malley|R|Strikeout|C|Changeup|106|0|0|2|6|74
+John Lamb|L|Shawn O'Malley|R|Strikeout|B|Four-Seam Fastball|107|0|1|2|13|89
+John Lamb|L|Shawn O'Malley|R|Strikeout|B|Four-Seam Fastball|108|1|1|2|11|88
+John Lamb|L|Shawn O'Malley|R|Strikeout|C|Changeup|109|2|1|2|11|75
+John Lamb|L|Shawn O'Malley|R|Strikeout|S|Curveball|110|2|2|2|9|69
+John Lamb|L|Jonathan Villar|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|89
+John Lamb|L|Jonathan Villar|R|Walk|F|Cutter|1|1|0|0|13|85
+John Lamb|L|Jonathan Villar|R|Walk|B|Four-Seam Fastball|2|1|1|0|11|90
+John Lamb|L|Jonathan Villar|R|Walk|F|Cutter|3|2|1|0|4|84
+John Lamb|L|Jonathan Villar|R|Walk|B|Changeup|4|2|2|0|13|73
+John Lamb|L|Jonathan Villar|R|Walk|B|Cutter|5|3|2|0|13|84
+John Lamb|L|Hernan Perez|R|Strikeout|C|Four-Seam Fastball|6|0|0|0|5|87
+John Lamb|L|Hernan Perez|R|Strikeout|F|Four-Seam Fastball|7|0|1|0|2|88
+John Lamb|L|Hernan Perez|R|Strikeout|S|Cutter|8|0|2|0|8|85
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|9|0|0|1|14|89
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|10|1|0|1|14|88
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|11|2|0|1|14|89
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|12|3|0|1|14|88
+John Lamb|L|Jonathan Lucroy|R|Sac Fly|B|Four-Seam Fastball|13|0|0|1|12|88
+John Lamb|L|Jonathan Lucroy|R|Sac Fly|B|Four-Seam Fastball|14|1|0|1|14|87
+John Lamb|L|Jonathan Lucroy|R|Sac Fly|E|Four-Seam Fastball|15|2|0|1|4|89
+John Lamb|L|Chris Carter|R|Pop Out|B|Four-Seam Fastball|16|0|0|2|11|87
+John Lamb|L|Chris Carter|R|Pop Out|C|Four-Seam Fastball|17|1|0|2|8|89
+John Lamb|L|Chris Carter|R|Pop Out|S|Curveball|18|1|1|2|13|68
+John Lamb|L|Chris Carter|R|Pop Out|B|Four-Seam Fastball|19|1|2|2|11|89
+John Lamb|L|Chris Carter|R|Pop Out|B|Curveball|20|2|2|2|13|69
+John Lamb|L|Chris Carter|R|Pop Out|X|Four-Seam Fastball|21|3|2|2|13|89
+John Lamb|L|Aaron Hill|R|Flyout|X|Four-Seam Fastball|22|0|0|0|7|90
+John Lamb|L|Ramon Flores|L|Single|C|Four-Seam Fastball|23|0|0|1|2|89
+John Lamb|L|Ramon Flores|L|Single|F|Four-Seam Fastball|24|0|1|1|6|90
+John Lamb|L|Ramon Flores|L|Single|F|Four-Seam Fastball|25|0|2|1|12|89
+John Lamb|L|Ramon Flores|L|Single|D|Four-Seam Fastball|26|0|2|1|7|91
+John Lamb|L|Keon Broxton|R|Single|B|Four-Seam Fastball|27|0|0|1|14|87
+John Lamb|L|Keon Broxton|R|Single|F|Four-Seam Fastball|28|1|0|1|6|86
+John Lamb|L|Keon Broxton|R|Single|B|Four-Seam Fastball|29|1|1|1|12|89
+John Lamb|L|Keon Broxton|R|Single|D|Cutter|30|2|1|1|7|85
+John Lamb|L|Zach Davies|R|Sac Bunt|X|Four-Seam Fastball|31|0|0|1|2|86
+John Lamb|L|Jonathan Villar|R|Strikeout|C|Curveball|32|0|0|2|12|67
+John Lamb|L|Jonathan Villar|R|Strikeout|S|Four-Seam Fastball|33|0|1|2|3|90
+John Lamb|L|Jonathan Villar|R|Strikeout|B|Four-Seam Fastball|34|0|2|2|7|91
+John Lamb|L|Jonathan Villar|R|Strikeout|B|Four-Seam Fastball|35|1|2|2|11|90
+John Lamb|L|Jonathan Villar|R|Strikeout|C|Four-Seam Fastball|36|2|2|2|4|89
+John Lamb|L|Hernan Perez|R|Groundout|X|Cutter|37|0|0|0|2|85
+John Lamb|L|Ryan Braun|R|Pop Out|C|Four-Seam Fastball|38|0|0|1|6|86
+John Lamb|L|Ryan Braun|R|Pop Out|F|Four-Seam Fastball|39|0|1|1|6|84
+John Lamb|L|Ryan Braun|R|Pop Out|X|Curveball|40|0|2|1|8|68
+John Lamb|L|Jonathan Lucroy|R|Home Run|B|Four-Seam Fastball|41|0|0|2|14|86
+John Lamb|L|Jonathan Lucroy|R|Home Run|E|Cutter|42|1|0|2|5|82
+John Lamb|L|Chris Carter|R|Strikeout|C|Four-Seam Fastball|43|0|0|2|7|89
+John Lamb|L|Chris Carter|R|Strikeout|B|Four-Seam Fastball|44|0|1|2|13|89
+John Lamb|L|Chris Carter|R|Strikeout|F|Changeup|45|1|1|2|7|75
+John Lamb|L|Chris Carter|R|Strikeout|F|Four-Seam Fastball|46|1|2|2|11|89
+John Lamb|L|Chris Carter|R|Strikeout|B|Four-Seam Fastball|47|1|2|2|12|89
+John Lamb|L|Chris Carter|R|Strikeout|B|Changeup|48|2|2|2|14|73
+John Lamb|L|Chris Carter|R|Strikeout|F|Four-Seam Fastball|49|3|2|2|5|88
+John Lamb|L|Chris Carter|R|Strikeout|C|Four-Seam Fastball|50|3|2|2|13|90
+John Lamb|L|Aaron Hill|R|Home Run|C|Four-Seam Fastball|51|0|0|0|6|88
+John Lamb|L|Aaron Hill|R|Home Run|C|Curveball|52|0|1|0|11|69
+John Lamb|L|Aaron Hill|R|Home Run|B|Four-Seam Fastball|53|0|2|0|14|89
+John Lamb|L|Aaron Hill|R|Home Run|E|Changeup|54|1|2|0|8|73
+John Lamb|L|Ramon Flores|L|Groundout|X|Four-Seam Fastball|55|0|0|0|12|90
+John Lamb|L|Keon Broxton|R|Double|C|Four-Seam Fastball|56|0|0|1|3|91
+John Lamb|L|Keon Broxton|R|Double|D|Curveball|57|0|1|1|6|67
+John Lamb|L|Zach Davies|R|Flyout|C|Four-Seam Fastball|58|0|0|1|8|88
+John Lamb|L|Zach Davies|R|Flyout|B|Four-Seam Fastball|59|0|1|1|12|89
+John Lamb|L|Zach Davies|R|Flyout|F|Four-Seam Fastball|60|1|1|1|5|88
+John Lamb|L|Zach Davies|R|Flyout|X|Four-Seam Fastball|61|1|2|1|8|90
+John Lamb|L|Jonathan Villar|R|Double|B|Curveball|62|0|0|2|11|67
+John Lamb|L|Jonathan Villar|R|Double|F|Four-Seam Fastball|63|1|0|2|11|87
+John Lamb|L|Jonathan Villar|R|Double|F|Four-Seam Fastball|64|1|1|2|4|89
+John Lamb|L|Jonathan Villar|R|Double|E|Changeup|65|1|2|2|13|72
+John Lamb|L|Hernan Perez|R|Single|C|Four-Seam Fastball|66|0|0|2|7|89
+John Lamb|L|Hernan Perez|R|Single|F|Curveball|67|0|1|2|2|68
+John Lamb|L|Hernan Perez|R|Single|E|Four-Seam Fastball|68|0|2|2|4|88
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|69|0|0|2|14|88
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|70|1|0|2|14|86
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|71|2|0|2|14|88
+John Lamb|L|Ryan Braun|R|Walk|B|Four-Seam Fastball|72|3|0|2|13|88
+John Lamb|L|Charlie Blackmon|L|Single|C|Four-Seam Fastball|0|0|0|0|13|89
+John Lamb|L|Charlie Blackmon|L|Single|F|Four-Seam Fastball|1|0|1|0|11|89
+John Lamb|L|Charlie Blackmon|L|Single|B|Changeup|2|0|2|0|13|72
+John Lamb|L|Charlie Blackmon|L|Single|D|Four-Seam Fastball|3|1|2|0|13|91
+John Lamb|L|DJ LeMahieu|R|Double|B|Four-Seam Fastball|4|0|0|0|11|88
+John Lamb|L|DJ LeMahieu|R|Double|F|Four-Seam Fastball|5|1|0|0|11|88
+John Lamb|L|DJ LeMahieu|R|Double|B|Four-Seam Fastball|6|1|1|0|11|88
+John Lamb|L|DJ LeMahieu|R|Double|F|Changeup|7|2|1|0|8|73
+John Lamb|L|DJ LeMahieu|R|Double|E|Four-Seam Fastball|8|2|2|0|4|89
+John Lamb|L|Nolan Arenado|R|Flyout|C|Four-Seam Fastball|9|0|0|0|3|88
+John Lamb|L|Nolan Arenado|R|Flyout|B|Four-Seam Fastball|10|0|1|0|12|88
+John Lamb|L|Nolan Arenado|R|Flyout|F|Four-Seam Fastball|11|1|1|0|14|88
+John Lamb|L|Nolan Arenado|R|Flyout|X|Curveball|12|1|2|0|1|66
+John Lamb|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|13|0|0|1|12|88
+John Lamb|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|14|1|0|1|14|89
+John Lamb|L|Carlos Gonzalez|L|Walk|T|Cutter|15|2|0|1|13|83
+John Lamb|L|Carlos Gonzalez|L|Walk|F|Four-Seam Fastball|16|2|1|1|5|89
+John Lamb|L|Carlos Gonzalez|L|Walk|B|Cutter|17|2|2|1|13|83
+John Lamb|L|Carlos Gonzalez|L|Walk|F|Cutter|18|3|2|1|4|84
+John Lamb|L|Carlos Gonzalez|L|Walk|B|Four-Seam Fastball|19|3|2|1|13|91
+John Lamb|L|Ryan Raburn|R|Strikeout|B|Four-Seam Fastball|20|0|0|1|13|89
+John Lamb|L|Ryan Raburn|R|Strikeout|F|Four-Seam Fastball|21|1|0|1|4|88
+John Lamb|L|Ryan Raburn|R|Strikeout|B|Changeup|22|1|1|1|11|73
+John Lamb|L|Ryan Raburn|R|Strikeout|F|Four-Seam Fastball|23|2|1|1|4|88
+John Lamb|L|Ryan Raburn|R|Strikeout|T|Four-Seam Fastball|24|2|2|1|11|88
+John Lamb|L|Mark Reynolds|R|Forceout|C|Changeup|25|0|0|2|13|73
+John Lamb|L|Mark Reynolds|R|Forceout|S|Changeup|26|0|1|2|13|73
+John Lamb|L|Mark Reynolds|R|Forceout|X|Four-Seam Fastball|27|0|2|2|11|89
+John Lamb|L|Trevor Story|R|Flyout|C|Four-Seam Fastball|28|0|0|0|4|89
+John Lamb|L|Trevor Story|R|Flyout|B|Changeup|29|0|1|0|13|75
+John Lamb|L|Trevor Story|R|Flyout|X|Changeup|30|1|1|0|8|74
+John Lamb|L|Dustin Garneau|R|Lineout|B|Four-Seam Fastball|31|0|0|1|11|90
+John Lamb|L|Dustin Garneau|R|Lineout|B|Changeup|32|1|0|1|13|74
+John Lamb|L|Dustin Garneau|R|Lineout|F|Four-Seam Fastball|33|2|0|1|11|90
+John Lamb|L|Dustin Garneau|R|Lineout|X|Four-Seam Fastball|34|2|1|1|8|91
+John Lamb|L|Tyler Chatwood|R|Groundout|C|Four-Seam Fastball|35|0|0|2|3|89
+John Lamb|L|Tyler Chatwood|R|Groundout|B|Changeup|36|0|1|2|12|75
+John Lamb|L|Tyler Chatwood|R|Groundout|C|Four-Seam Fastball|37|1|1|2|5|89
+John Lamb|L|Tyler Chatwood|R|Groundout|X|Curveball|38|1|2|2|1|67
+John Lamb|L|Charlie Blackmon|L|Single|C|Cutter|39|0|0|0|11|84
+John Lamb|L|Charlie Blackmon|L|Single|F|Four-Seam Fastball|40|0|1|0|7|89
+John Lamb|L|Charlie Blackmon|L|Single|D|Four-Seam Fastball|41|0|2|0|14|90
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|C|Four-Seam Fastball|42|0|0|0|8|89
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|F|Four-Seam Fastball|43|0|1|0|1|90
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|F|Changeup|44|0|2|0|14|74
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|X|Four-Seam Fastball|45|0|2|0|7|90
+John Lamb|L|Nolan Arenado|R|Single|F|Changeup|46|0|0|2|5|75
+John Lamb|L|Nolan Arenado|R|Single|D|Changeup|47|0|1|2|8|76
+John Lamb|L|Carlos Gonzalez|L|Strikeout|C|Curveball|48|0|0|2|1|67
+John Lamb|L|Carlos Gonzalez|L|Strikeout|C|Four-Seam Fastball|49|0|1|2|8|89
+John Lamb|L|Carlos Gonzalez|L|Strikeout|B|Cutter|50|0|2|2|11|85
+John Lamb|L|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|51|1|2|2|2|91
+John Lamb|L|Ryan Raburn|R|Single|C|Changeup|52|0|0|0|9|75
+John Lamb|L|Ryan Raburn|R|Single|D|Four-Seam Fastball|53|0|1|0|8|90
+John Lamb|L|Mark Reynolds|R|Pop Out|B|Four-Seam Fastball|54|0|0|0|11|89
+John Lamb|L|Mark Reynolds|R|Pop Out|X|Cutter|55|1|0|0|13|83
+John Lamb|L|Trevor Story|R|Sac Bunt|X|Cutter|56|0|0|1|13|81
+John Lamb|L|Dustin Garneau|R|Groundout|B|Changeup|57|0|0|2|13|74
+John Lamb|L|Dustin Garneau|R|Groundout|C|Cutter|58|1|0|2|8|83
+John Lamb|L|Dustin Garneau|R|Groundout|F|Changeup|59|1|1|2|13|75
+John Lamb|L|Dustin Garneau|R|Groundout|X|Four-Seam Fastball|60|1|2|2|11|91
+John Lamb|L|Tyler Chatwood|R|Groundout|X|Four-Seam Fastball|61|0|0|0|13|89
+John Lamb|L|Charlie Blackmon|L|Hit By Pitch|C|Cutter|62|0|0|1|8|85
+John Lamb|L|Charlie Blackmon|L|Hit By Pitch|F|Curveball|63|0|1|1|8|70
+John Lamb|L|Charlie Blackmon|L|Hit By Pitch|F|Four-Seam Fastball|64|0|2|1|14|91
+John Lamb|L|Charlie Blackmon|L|Hit By Pitch|B|Cutter|65|0|2|1|13|86
+John Lamb|L|Charlie Blackmon|L|Hit By Pitch|H|Four-Seam Fastball|66|1|2|1|12|89
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|C|Four-Seam Fastball|67|0|0|1|9|88
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|B|Four-Seam Fastball|68|0|1|1|12|89
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|F|Changeup|69|1|1|1|4|76
+John Lamb|L|DJ LeMahieu|R|Grounded Into DP|X|Cutter|70|1|2|1|11|86
+John Lamb|L|Nolan Arenado|R|Lineout|B|Four-Seam Fastball|71|0|0|0|14|89
+John Lamb|L|Nolan Arenado|R|Lineout|C|Four-Seam Fastball|72|1|0|0|6|87
+John Lamb|L|Nolan Arenado|R|Lineout|B|Four-Seam Fastball|73|1|1|0|14|89
+John Lamb|L|Nolan Arenado|R|Lineout|F|Cutter|74|2|1|0|7|85
+John Lamb|L|Nolan Arenado|R|Lineout|X|Four-Seam Fastball|75|2|2|0|11|90
+John Lamb|L|Carlos Gonzalez|L|Groundout|S|Four-Seam Fastball|76|0|0|1|3|90
+John Lamb|L|Carlos Gonzalez|L|Groundout|X|Curveball|77|0|1|1|4|70
+John Lamb|L|Ryan Raburn|R|Lineout|C|Changeup|78|0|0|2|5|74
+John Lamb|L|Ryan Raburn|R|Lineout|X|Four-Seam Fastball|79|0|1|2|13|90
+John Lamb|L|Mark Reynolds|R|Single|B|Curveball|80|0|0|0|11|66
+John Lamb|L|Mark Reynolds|R|Single|C|Cutter|81|1|0|0|5|81
+John Lamb|L|Mark Reynolds|R|Single|D|Curveball|82|1|1|0|5|67
+John Lamb|L|Trevor Story|R|Forceout|B|Cutter|83|0|0|0|12|81
+John Lamb|L|Trevor Story|R|Forceout|C|Cutter|84|1|0|0|6|83
+John Lamb|L|Trevor Story|R|Forceout|B|Four-Seam Fastball|85|1|1|0|12|89
+John Lamb|L|Trevor Story|R|Forceout|F|Cutter|86|2|1|0|5|82
+John Lamb|L|Trevor Story|R|Forceout|X|Four-Seam Fastball|87|2|2|0|4|91
+John Lamb|L|Dustin Garneau|R|Flyout|X|Changeup|88|0|0|1|5|74
+John Lamb|L|Gerardo Parra|L|Flyout|B|Four-Seam Fastball|89|0|0|2|12|89
+John Lamb|L|Gerardo Parra|L|Flyout|B|Cutter|90|1|0|2|13|84
+John Lamb|L|Gerardo Parra|L|Flyout|X|Four-Seam Fastball|91|2|0|2|2|88
+John Lamb|L|Matt Carpenter|L|Groundout|C|Four-Seam Fastball|0|0|0|0|6|90
+John Lamb|L|Matt Carpenter|L|Groundout|F|Four-Seam Fastball|1|0|1|0|4|90
+John Lamb|L|Matt Carpenter|L|Groundout|X|Curveball|2|0|2|0|13|69
+John Lamb|L|Aledmys Diaz|R|Groundout|C|Changeup|3|0|0|1|5|75
+John Lamb|L|Aledmys Diaz|R|Groundout|F|Changeup|4|0|1|1|6|75
+John Lamb|L|Aledmys Diaz|R|Groundout|X|Curveball|5|0|2|1|14|68
+John Lamb|L|Matt Holliday|R|Strikeout|C|Curveball|6|0|0|2|13|67
+John Lamb|L|Matt Holliday|R|Strikeout|F|Cutter|7|0|1|2|13|88
+John Lamb|L|Matt Holliday|R|Strikeout|S|Four-Seam Fastball|8|0|2|2|1|91
+John Lamb|L|Stephen Piscotty|R|Single|D|Four-Seam Fastball|9|0|0|0|7|91
+John Lamb|L|Jhonny Peralta|R|Strikeout|B|Four-Seam Fastball|10|0|0|0|2|89
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Changeup|11|1|0|0|13|76
+John Lamb|L|Jhonny Peralta|R|Strikeout|F|Curveball|12|1|1|0|11|70
+John Lamb|L|Jhonny Peralta|R|Strikeout|S|Changeup|13|1|2|0|6|75
+John Lamb|L|Matt Adams|L|Single|C|Four-Seam Fastball|14|0|0|1|8|90
+John Lamb|L|Matt Adams|L|Single|*B|Curveball|15|0|1|1|13|69
+John Lamb|L|Matt Adams|L|Single|F|Cutter|16|1|1|1|7|86
+John Lamb|L|Matt Adams|L|Single|B|Curveball|17|1|2|1|11|70
+John Lamb|L|Matt Adams|L|Single|F|Four-Seam Fastball|18|2|2|1|7|92
+John Lamb|L|Matt Adams|L|Single|D|Changeup|19|2|2|1|7|78
+John Lamb|L|Yadier Molina|R|Strikeout|C|Cutter|20|0|0|2|8|84
+John Lamb|L|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|21|0|1|2|4|90
+John Lamb|L|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|22|0|2|2|11|91
+John Lamb|L|Yadier Molina|R|Strikeout|B|Cutter|23|0|2|2|11|87
+John Lamb|L|Yadier Molina|R|Strikeout|B|Four-Seam Fastball|24|1|2|2|14|90
+John Lamb|L|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|25|2|2|2|14|91
+John Lamb|L|Yadier Molina|R|Strikeout|F|Changeup|26|2|2|2|13|77
+John Lamb|L|Yadier Molina|R|Strikeout|S|Changeup|27|2|2|2|13|76
+John Lamb|L|Randal Grichuk|R|Field Error|B|Four-Seam Fastball|28|0|0|0|13|90
+John Lamb|L|Randal Grichuk|R|Field Error|F|Changeup|29|1|0|0|5|76
+John Lamb|L|Randal Grichuk|R|Field Error|D|Changeup|30|1|1|0|5|73
+John Lamb|L|Mike Leake|R|Sac Bunt|X|Four-Seam Fastball|31|0|0|0|2|89
+John Lamb|L|Matt Carpenter|L|Flyout|C|Cutter|32|0|0|1|9|86
+John Lamb|L|Matt Carpenter|L|Flyout|F|Changeup|33|0|1|1|9|75
+John Lamb|L|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|34|0|2|1|4|90
+John Lamb|L|Matt Carpenter|L|Flyout|X|Curveball|35|0|2|1|11|69
+John Lamb|L|Aledmys Diaz|R|Strikeout|B|Cutter|36|0|0|2|12|85
+John Lamb|L|Aledmys Diaz|R|Strikeout|C|Changeup|37|1|0|2|8|77
+John Lamb|L|Aledmys Diaz|R|Strikeout|F|Changeup|38|1|1|2|13|75
+John Lamb|L|Aledmys Diaz|R|Strikeout|B|Four-Seam Fastball|39|1|2|2|13|93
+John Lamb|L|Aledmys Diaz|R|Strikeout|C|Four-Seam Fastball|40|2|2|2|13|92
+John Lamb|L|Matt Holliday|R|Flyout|B|Four-Seam Fastball|41|0|0|0|14|88
+John Lamb|L|Matt Holliday|R|Flyout|B|Changeup|42|1|0|0|13|76
+John Lamb|L|Matt Holliday|R|Flyout|C|Four-Seam Fastball|43|2|0|0|13|87
+John Lamb|L|Matt Holliday|R|Flyout|F|Changeup|44|2|1|0|6|76
+John Lamb|L|Matt Holliday|R|Flyout|X|Curveball|45|2|2|0|13|70
+John Lamb|L|Stephen Piscotty|R|Walk|B|Cutter|46|0|0|1|11|85
+John Lamb|L|Stephen Piscotty|R|Walk|C|Curveball|47|1|0|1|2|68
+John Lamb|L|Stephen Piscotty|R|Walk|B|Curveball|48|1|1|1|12|66
+John Lamb|L|Stephen Piscotty|R|Walk|B|Changeup|49|2|1|1|2|75
+John Lamb|L|Stephen Piscotty|R|Walk|B|Four-Seam Fastball|50|3|1|1|3|91
+John Lamb|L|Jhonny Peralta|R|Double|B|Cutter|51|0|0|1|11|83
+John Lamb|L|Jhonny Peralta|R|Double|C|Changeup|52|1|0|1|2|75
+John Lamb|L|Jhonny Peralta|R|Double|D|Four-Seam Fastball|53|1|1|1|8|93
+John Lamb|L|Matt Adams|L|Single|C|Curveball|54|0|0|1|3|68
+John Lamb|L|Matt Adams|L|Single|B|Four-Seam Fastball|55|0|1|1|13|90
+John Lamb|L|Matt Adams|L|Single|S|Four-Seam Fastball|56|1|1|1|7|91
+John Lamb|L|Matt Adams|L|Single|F|Four-Seam Fastball|57|1|2|1|11|92
+John Lamb|L|Matt Adams|L|Single|F|Changeup|58|1|2|1|5|73
+John Lamb|L|Matt Adams|L|Single|E|Cutter|59|1|2|1|7|86
+John Lamb|L|Yadier Molina|R|Grounded Into DP|B|Four-Seam Fastball|60|0|0|1|12|88
+John Lamb|L|Yadier Molina|R|Grounded Into DP|F|Cutter|61|1|0|1|4|83
+John Lamb|L|Yadier Molina|R|Grounded Into DP|X|Four-Seam Fastball|62|1|1|1|8|88
+John Lamb|L|Randal Grichuk|R|Groundout|C|Four-Seam Fastball|63|0|0|0|4|90
+John Lamb|L|Randal Grichuk|R|Groundout|C|Curveball|64|0|1|0|9|68
+John Lamb|L|Randal Grichuk|R|Groundout|B|Four-Seam Fastball|65|0|2|0|11|90
+John Lamb|L|Randal Grichuk|R|Groundout|X|Changeup|66|1|2|0|14|73
+John Lamb|L|Mike Leake|R|Strikeout|C|Four-Seam Fastball|67|0|0|1|6|90
+John Lamb|L|Mike Leake|R|Strikeout|B|Four-Seam Fastball|68|0|1|1|14|86
+John Lamb|L|Mike Leake|R|Strikeout|B|Four-Seam Fastball|69|1|1|1|12|88
+John Lamb|L|Mike Leake|R|Strikeout|F|Four-Seam Fastball|70|2|1|1|8|90
+John Lamb|L|Mike Leake|R|Strikeout|S|Curveball|71|2|2|1|13|67
+John Lamb|L|Matt Carpenter|L|Groundout|B|Curveball|72|0|0|2|12|66
+John Lamb|L|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|73|1|0|2|13|90
+John Lamb|L|Matt Carpenter|L|Groundout|F|Cutter|74|2|0|2|8|85
+John Lamb|L|Matt Carpenter|L|Groundout|B|Cutter|75|2|1|2|14|84
+John Lamb|L|Matt Carpenter|L|Groundout|F|Four-Seam Fastball|76|3|1|2|6|89
+John Lamb|L|Matt Carpenter|L|Groundout|X|Changeup|77|3|2|2|12|74
+John Lamb|L|Aledmys Diaz|R|Groundout|B|Changeup|78|0|0|0|13|74
+John Lamb|L|Aledmys Diaz|R|Groundout|X|Cutter|79|1|0|0|4|83
+John Lamb|L|Matt Holliday|R|Flyout|B|Curveball|80|0|0|1|11|67
+John Lamb|L|Matt Holliday|R|Flyout|C|Changeup|81|1|0|1|13|73
+John Lamb|L|Matt Holliday|R|Flyout|X|Curveball|82|1|1|1|13|70
+John Lamb|L|Stephen Piscotty|R|Groundout|X|Changeup|83|0|0|2|8|72
+John Lamb|L|Jhonny Peralta|R|Pop Out|C|Four-Seam Fastball|84|0|0|0|4|90
+John Lamb|L|Jhonny Peralta|R|Pop Out|B|Four-Seam Fastball|85|0|1|0|11|90
+John Lamb|L|Jhonny Peralta|R|Pop Out|B|Four-Seam Fastball|86|1|1|0|13|88
+John Lamb|L|Jhonny Peralta|R|Pop Out|S|Changeup|87|2|1|0|4|75
+John Lamb|L|Jhonny Peralta|R|Pop Out|F|Changeup|88|2|2|0|14|73
+John Lamb|L|Jhonny Peralta|R|Pop Out|X|Changeup|89|2|2|0|14|71
+John Lamb|L|Matt Adams|L|Groundout|C|Four-Seam Fastball|90|0|0|1|3|89
+John Lamb|L|Matt Adams|L|Groundout|C|Changeup|91|0|1|1|1|72
+John Lamb|L|Matt Adams|L|Groundout|F|Curveball|92|0|2|1|13|65
+John Lamb|L|Matt Adams|L|Groundout|B|Four-Seam Fastball|93|0|2|1|12|88
+John Lamb|L|Matt Adams|L|Groundout|F|Four-Seam Fastball|94|1|2|1|14|90
+John Lamb|L|Matt Adams|L|Groundout|F|Curveball|95|1|2|1|13|66
+John Lamb|L|Matt Adams|L|Groundout|X|Four-Seam Fastball|96|1|2|1|7|90
+John Lamb|L|Yadier Molina|R|Flyout|F|Four-Seam Fastball|97|0|0|2|13|90
+John Lamb|L|Yadier Molina|R|Flyout|X|Changeup|98|0|1|2|6|75
+John Lamb|L|Randal Grichuk|R|Walk|S|Four-Seam Fastball|99|0|0|0|2|89
+John Lamb|L|Randal Grichuk|R|Walk|B|Curveball|100|0|1|0|8|65
+John Lamb|L|Randal Grichuk|R|Walk|F|Four-Seam Fastball|101|1|1|0|13|89
+John Lamb|L|Randal Grichuk|R|Walk|B|Four-Seam Fastball|102|1|2|0|12|89
+John Lamb|L|Randal Grichuk|R|Walk|B|Changeup|103|2|2|0|13|73
+John Lamb|L|Randal Grichuk|R|Walk|B|Four-Seam Fastball|104|3|2|0|13|89
+John Lamb|L|Jedd Gyorko|R|Forceout|B|Cutter|105|0|0|0|11|81
+John Lamb|L|Jedd Gyorko|R|Forceout|B|Four-Seam Fastball|106|1|0|0|13|88
+John Lamb|L|Jedd Gyorko|R|Forceout|F|Four-Seam Fastball|107|2|0|0|12|90
+John Lamb|L|Jedd Gyorko|R|Forceout|C|Four-Seam Fastball|108|2|1|0|8|89
+John Lamb|L|Jedd Gyorko|R|Forceout|X|Changeup|109|2|2|0|5|75
+John Lamb|L|Matt Carpenter|L|Field Error|B|Curveball|110|0|0|1|12|65
+John Lamb|L|Matt Carpenter|L|Field Error|D|Cutter|111|1|0|1|9|82
+John Lamb|L|Coco Crisp|R|Flyout|C|Four-Seam Fastball|0|0|0|0|5|88
+John Lamb|L|Coco Crisp|R|Flyout|X|Four-Seam Fastball|1|0|1|0|11|90
+John Lamb|L|Jed Lowrie|R|Single|B|Four-Seam Fastball|2|0|0|1|12|91
+John Lamb|L|Jed Lowrie|R|Single|B|Cutter|3|1|0|1|13|84
+John Lamb|L|Jed Lowrie|R|Single|C|Four-Seam Fastball|4|2|0|1|8|91
+John Lamb|L|Jed Lowrie|R|Single|S|Cutter|5|2|1|1|4|84
+John Lamb|L|Jed Lowrie|R|Single|D|Four-Seam Fastball|6|2|2|1|11|91
+John Lamb|L|Danny Valencia|R|Walk|B|Cutter|7|0|0|1|11|86
+John Lamb|L|Danny Valencia|R|Walk|B|Cutter|8|1|0|1|12|83
+John Lamb|L|Danny Valencia|R|Walk|B|Four-Seam Fastball|9|2|0|1|12|89
+John Lamb|L|Danny Valencia|R|Walk|B|Four-Seam Fastball|10|3|0|1|12|90
+John Lamb|L|Khris Davis|R|Grounded Into DP|C|Four-Seam Fastball|11|0|0|1|1|88
+John Lamb|L|Khris Davis|R|Grounded Into DP|B|Changeup|12|0|1|1|13|74
+John Lamb|L|Khris Davis|R|Grounded Into DP|C|Four-Seam Fastball|13|1|1|1|9|88
+John Lamb|L|Khris Davis|R|Grounded Into DP|B|Four-Seam Fastball|14|1|2|1|13|90
+John Lamb|L|Khris Davis|R|Grounded Into DP|F|Four-Seam Fastball|15|2|2|1|8|90
+John Lamb|L|Khris Davis|R|Grounded Into DP|X|Four-Seam Fastball|16|2|2|1|7|89
+John Lamb|L|Billy Butler|R|Single|C|Four-Seam Fastball|17|0|0|0|7|89
+John Lamb|L|Billy Butler|R|Single|C|Curveball|18|0|1|0|4|66
+John Lamb|L|Billy Butler|R|Single|F|Four-Seam Fastball|19|0|2|0|11|91
+John Lamb|L|Billy Butler|R|Single|F|Four-Seam Fastball|20|0|2|0|11|91
+John Lamb|L|Billy Butler|R|Single|D|Changeup|21|0|2|0|9|71
+John Lamb|L|Marcus Semien|R|Home Run|B|Four-Seam Fastball|22|0|0|0|12|88
+John Lamb|L|Marcus Semien|R|Home Run|B|Four-Seam Fastball|23|1|0|0|14|88
+John Lamb|L|Marcus Semien|R|Home Run|B|Four-Seam Fastball|24|2|0|0|14|90
+John Lamb|L|Marcus Semien|R|Home Run|C|Cutter|25|3|0|0|4|83
+John Lamb|L|Marcus Semien|R|Home Run|E|Four-Seam Fastball|26|3|1|0|7|88
+John Lamb|L|Josh Phegley|R|Single|C|Four-Seam Fastball|27|0|0|0|3|91
+John Lamb|L|Josh Phegley|R|Single|F|Four-Seam Fastball|28|0|1|0|5|90
+John Lamb|L|Josh Phegley|R|Single|B|Curveball|29|0|2|0|12|68
+John Lamb|L|Josh Phegley|R|Single|D|Four-Seam Fastball|30|1|2|0|4|90
+John Lamb|L|Jake Smolinski|R|Home Run|E|Four-Seam Fastball|31|0|0|0|5|83
+John Lamb|L|Kendall Graveman|R|Strikeout|B|Four-Seam Fastball|32|0|0|0|2|87
+John Lamb|L|Kendall Graveman|R|Strikeout|C|Four-Seam Fastball|33|1|0|0|5|88
+John Lamb|L|Kendall Graveman|R|Strikeout|S|Cutter|34|1|1|0|11|82
+John Lamb|L|Kendall Graveman|R|Strikeout|B|Cutter|35|1|2|0|13|82
+John Lamb|L|Kendall Graveman|R|Strikeout|C|Four-Seam Fastball|36|2|2|0|13|88
+John Lamb|L|Coco Crisp|R|Groundout|C|Curveball|37|0|0|1|5|66
+John Lamb|L|Coco Crisp|R|Groundout|B|Four-Seam Fastball|38|0|1|1|13|89
+John Lamb|L|Coco Crisp|R|Groundout|S|Curveball|39|1|1|1|13|65
+John Lamb|L|Coco Crisp|R|Groundout|X|Four-Seam Fastball|40|1|2|1|4|89
+John Lamb|L|Jed Lowrie|R|Lineout|B|Cutter|41|0|0|2|13|83
+John Lamb|L|Jed Lowrie|R|Lineout|X|Four-Seam Fastball|42|1|0|2|7|88
+John Lamb|L|Danny Valencia|R|Groundout|C|Curveball|43|0|0|0|8|65
+John Lamb|L|Danny Valencia|R|Groundout|B|Cutter|44|0|1|0|13|83
+John Lamb|L|Danny Valencia|R|Groundout|F|Changeup|45|1|1|0|13|74
+John Lamb|L|Danny Valencia|R|Groundout|F|Four-Seam Fastball|46|1|2|0|11|89
+John Lamb|L|Danny Valencia|R|Groundout|F|Curveball|47|1|2|0|14|65
+John Lamb|L|Danny Valencia|R|Groundout|B|Changeup|48|1|2|0|14|70
+John Lamb|L|Danny Valencia|R|Groundout|B|Curveball|49|2|2|0|12|65
+John Lamb|L|Danny Valencia|R|Groundout|F|Cutter|50|3|2|0|13|83
+John Lamb|L|Danny Valencia|R|Groundout|X|Changeup|51|3|2|0|14|71
+John Lamb|L|Khris Davis|R|Single|S|Changeup|52|0|0|1|13|74
+John Lamb|L|Khris Davis|R|Single|B|Cutter|53|0|1|1|13|83
+John Lamb|L|Khris Davis|R|Single|B|Changeup|54|1|1|1|12|71
+John Lamb|L|Khris Davis|R|Single|B|Four-Seam Fastball|55|2|1|1|7|88
+John Lamb|L|Khris Davis|R|Single|F|Four-Seam Fastball|56|3|1|1|3|87
+John Lamb|L|Khris Davis|R|Single|D|Four-Seam Fastball|57|3|2|1|4|88
+John Lamb|L|Billy Butler|R|Single|C|Four-Seam Fastball|58|0|0|1|11|87
+John Lamb|L|Billy Butler|R|Single|B|Four-Seam Fastball|59|0|1|1|11|86
+John Lamb|L|Billy Butler|R|Single|D|Four-Seam Fastball|60|1|1|1|5|89
+John Lamb|L|Marcus Semien|R|Double Play|C|Four-Seam Fastball|61|0|0|1|9|87
+John Lamb|L|Marcus Semien|R|Double Play|S|Changeup|62|0|1|1|13|72
+John Lamb|L|Marcus Semien|R|Double Play|X|Curveball|63|0|2|1|5|68
+John Lamb|L|Josh Phegley|R|Walk|F|Four-Seam Fastball|64|0|0|0|6|87
+John Lamb|L|Josh Phegley|R|Walk|B|Cutter|65|0|1|0|11|80
+John Lamb|L|Josh Phegley|R|Walk|B|Four-Seam Fastball|66|1|1|0|11|87
+John Lamb|L|Josh Phegley|R|Walk|B|Cutter|67|2|1|0|13|83
+John Lamb|L|Josh Phegley|R|Walk|B|Four-Seam Fastball|68|3|1|0|13|88
+John Lamb|L|Jake Smolinski|R|Flyout|F|Four-Seam Fastball|69|0|0|0|1|90
+John Lamb|L|Jake Smolinski|R|Flyout|F|Cutter|70|0|1|0|11|81
+John Lamb|L|Jake Smolinski|R|Flyout|X|Curveball|71|0|2|0|12|65
+John Lamb|L|Kendall Graveman|R|Sac Bunt|L|Four-Seam Fastball|72|0|0|1|9|86
+John Lamb|L|Kendall Graveman|R|Sac Bunt|X|Four-Seam Fastball|73|0|1|1|13|86
+John Lamb|L|Coco Crisp|R|Groundout|B|Four-Seam Fastball|74|0|0|2|11|89
+John Lamb|L|Coco Crisp|R|Groundout|F|Four-Seam Fastball|75|1|0|2|11|88
+John Lamb|L|Coco Crisp|R|Groundout|X|Curveball|76|1|1|2|4|67
+John Lamb|L|George Springer|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|91
+John Lamb|L|George Springer|R|Groundout|X|Four-Seam Fastball|1|1|0|0|13|91
+John Lamb|L|Marwin Gonzalez|R|Pop Out|X|Four-Seam Fastball|2|0|0|1|8|91
+John Lamb|L|Jose Altuve|R|Strikeout|C|Curveball|3|0|0|2|2|69
+John Lamb|L|Jose Altuve|R|Strikeout|C|Curveball|4|0|1|2|3|69
+John Lamb|L|Jose Altuve|R|Strikeout|B|Changeup|5|0|2|2|14|73
+John Lamb|L|Jose Altuve|R|Strikeout|B|Four-Seam Fastball|6|1|2|2|11|92
+John Lamb|L|Jose Altuve|R|Strikeout|B|Curveball|7|2|2|2|14|68
+John Lamb|L|Jose Altuve|R|Strikeout|F|Curveball|8|3|2|2|13|68
+John Lamb|L|Jose Altuve|R|Strikeout|C|Four-Seam Fastball|9|3|2|2|12|91
+John Lamb|L|Carlos Correa|R|Strikeout|B|Curveball|10|0|0|0|13|67
+John Lamb|L|Carlos Correa|R|Strikeout|C|Changeup|11|1|0|0|8|75
+John Lamb|L|Carlos Correa|R|Strikeout|F|Curveball|12|1|1|0|7|67
+John Lamb|L|Carlos Correa|R|Strikeout|F|Four-Seam Fastball|13|1|2|0|4|91
+John Lamb|L|Carlos Correa|R|Strikeout|B|Four-Seam Fastball|14|1|2|0|12|91
+John Lamb|L|Carlos Correa|R|Strikeout|F|Changeup|15|2|2|0|8|76
+John Lamb|L|Carlos Correa|R|Strikeout|B|Changeup|16|2|2|0|14|75
+John Lamb|L|Carlos Correa|R|Strikeout|F|Changeup|17|3|2|0|9|76
+John Lamb|L|Carlos Correa|R|Strikeout|C|Four-Seam Fastball|18|3|2|0|13|93
+John Lamb|L|Colby Rasmus|L|Flyout|X|Four-Seam Fastball|19|0|0|1|7|87
+John Lamb|L|Carlos Gomez|R|Strikeout|C|Four-Seam Fastball|20|0|0|2|7|91
+John Lamb|L|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|21|0|1|2|14|90
+John Lamb|L|Carlos Gomez|R|Strikeout|F|Four-Seam Fastball|22|1|1|2|4|91
+John Lamb|L|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|23|1|2|2|14|92
+John Lamb|L|Carlos Gomez|R|Strikeout|B|Changeup|24|2|2|2|14|77
+John Lamb|L|Carlos Gomez|R|Strikeout|S|Changeup|25|3|2|2|14|76
+John Lamb|L|Evan Gattis|R|Strikeout|B|Four-Seam Fastball|26|0|0|0|12|90
+John Lamb|L|Evan Gattis|R|Strikeout|C|Four-Seam Fastball|27|1|0|0|11|90
+John Lamb|L|Evan Gattis|R|Strikeout|S|Four-Seam Fastball|28|1|1|0|13|87
+John Lamb|L|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|29|1|2|0|11|92
+John Lamb|L|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|30|1|2|0|4|91
+John Lamb|L|Evan Gattis|R|Strikeout|S|Changeup|31|1|2|0|4|77
+John Lamb|L|Luis Valbuena|L|Single|F|Four-Seam Fastball|32|0|0|1|8|90
+John Lamb|L|Luis Valbuena|L|Single|D|Changeup|33|0|1|1|5|75
+John Lamb|L|Jason Castro|L|Strikeout|F|Cutter|34|0|0|1|13|83
+John Lamb|L|Jason Castro|L|Strikeout|C|Curveball|35|0|1|1|14|67
+John Lamb|L|Jason Castro|L|Strikeout|F|Four-Seam Fastball|36|0|2|1|9|89
+John Lamb|L|Jason Castro|L|Strikeout|F|Four-Seam Fastball|37|0|2|1|9|90
+John Lamb|L|Jason Castro|L|Strikeout|F|Curveball|38|0|2|1|6|71
+John Lamb|L|Jason Castro|L|Strikeout|F|Four-Seam Fastball|39|0|2|1|13|87
+John Lamb|L|Jason Castro|L|Strikeout|*B|Changeup|40|0|2|1|13|73
+John Lamb|L|Jason Castro|L|Strikeout|F|Curveball|41|1|2|1|5|71
+John Lamb|L|Jason Castro|L|Strikeout|B|Cutter|42|1|2|1|1|86
+John Lamb|L|Jason Castro|L|Strikeout|F|Four-Seam Fastball|43|2|2|1|8|90
+John Lamb|L|Jason Castro|L|Strikeout|F|Changeup|44|2|2|1|4|74
+John Lamb|L|Jason Castro|L|Strikeout|F|Curveball|45|2|2|1|6|70
+John Lamb|L|Jason Castro|L|Strikeout|B|Four-Seam Fastball|46|2|2|1|12|90
+John Lamb|L|Jason Castro|L|Strikeout|F|Four-Seam Fastball|47|3|2|1|2|89
+John Lamb|L|Jason Castro|L|Strikeout|S|Four-Seam Fastball|48|3|2|1|5|89
+John Lamb|L|George Springer|R|Walk|B|Changeup|49|0|0|2|14|75
+John Lamb|L|George Springer|R|Walk|S|Changeup|50|1|0|2|14|76
+John Lamb|L|George Springer|R|Walk|B|Four-Seam Fastball|51|1|1|2|13|90
+John Lamb|L|George Springer|R|Walk|F|Curveball|52|2|1|2|13|68
+John Lamb|L|George Springer|R|Walk|*B|Changeup|53|2|2|2|14|73
+John Lamb|L|George Springer|R|Walk|B|Curveball|54|3|2|2|13|68
+John Lamb|L|Marwin Gonzalez|R|Strikeout|C|Cutter|55|0|0|2|13|85
+John Lamb|L|Marwin Gonzalez|R|Strikeout|F|Cutter|56|0|1|2|11|86
+John Lamb|L|Marwin Gonzalez|R|Strikeout|S|Four-Seam Fastball|57|0|2|2|12|91
+John Lamb|L|Jose Altuve|R|Walk|F|Four-Seam Fastball|58|0|0|0|2|89
+John Lamb|L|Jose Altuve|R|Walk|B|Four-Seam Fastball|59|0|1|0|12|90
+John Lamb|L|Jose Altuve|R|Walk|S|Four-Seam Fastball|60|1|1|0|12|89
+John Lamb|L|Jose Altuve|R|Walk|B|Four-Seam Fastball|61|1|2|0|11|91
+John Lamb|L|Jose Altuve|R|Walk|B|Four-Seam Fastball|62|2|2|0|11|90
+John Lamb|L|Jose Altuve|R|Walk|F|Four-Seam Fastball|63|3|2|0|12|91
+John Lamb|L|Jose Altuve|R|Walk|F|Four-Seam Fastball|64|3|2|0|4|92
+John Lamb|L|Jose Altuve|R|Walk|F|Cutter|65|3|2|0|12|86
+John Lamb|L|Jose Altuve|R|Walk|B|Cutter|66|3|2|0|12|85
+John Lamb|L|Carlos Correa|R|Lineout|C|Four-Seam Fastball|67|0|0|0|7|90
+John Lamb|L|Carlos Correa|R|Lineout|B|Four-Seam Fastball|68|0|1|0|14|89
+John Lamb|L|Carlos Correa|R|Lineout|B|Changeup|69|1|1|0|14|76
+John Lamb|L|Carlos Correa|R|Lineout|S|Changeup|70|2|1|0|8|74
+John Lamb|L|Carlos Correa|R|Lineout|X|Four-Seam Fastball|71|2|2|0|7|91
+John Lamb|L|Colby Rasmus|L|Strikeout|C|Four-Seam Fastball|72|0|0|1|13|89
+John Lamb|L|Colby Rasmus|L|Strikeout|C|Four-Seam Fastball|73|0|1|1|8|85
+John Lamb|L|Colby Rasmus|L|Strikeout|C|Four-Seam Fastball|74|0|2|1|1|86
+John Lamb|L|Carlos Gomez|R|Single|F|Four-Seam Fastball|75|0|0|2|6|89
+John Lamb|L|Carlos Gomez|R|Single|D|Cutter|76|0|1|2|13|83
+John Lamb|L|Evan Gattis|R|Groundout|B|Four-Seam Fastball|77|0|0|2|13|91
+John Lamb|L|Evan Gattis|R|Groundout|X|Four-Seam Fastball|78|1|0|2|5|90
+John Lamb|L|Luis Valbuena|L|Pop Out|C|Curveball|79|0|0|0|9|66
+John Lamb|L|Luis Valbuena|L|Pop Out|B|Four-Seam Fastball|80|0|1|0|11|88
+John Lamb|L|Luis Valbuena|L|Pop Out|B|Four-Seam Fastball|81|1|1|0|12|89
+John Lamb|L|Luis Valbuena|L|Pop Out|X|Four-Seam Fastball|82|2|1|0|4|88
+John Lamb|L|Jason Castro|L|Groundout|F|Four-Seam Fastball|83|0|0|1|8|86
+John Lamb|L|Jason Castro|L|Groundout|B|Curveball|84|0|1|1|11|68
+John Lamb|L|Jason Castro|L|Groundout|B|Cutter|85|1|1|1|13|83
+John Lamb|L|Jason Castro|L|Groundout|X|Cutter|86|2|1|1|8|83
+John Lamb|L|George Springer|R|Strikeout|C|Four-Seam Fastball|87|0|0|2|6|89
+John Lamb|L|George Springer|R|Strikeout|C|Four-Seam Fastball|88|0|1|2|8|89
+John Lamb|L|George Springer|R|Strikeout|B|Cutter|89|0|2|2|11|84
+John Lamb|L|George Springer|R|Strikeout|B|Four-Seam Fastball|90|1|2|2|12|91
+John Lamb|L|George Springer|R|Strikeout|F|Changeup|91|2|2|2|12|75
+John Lamb|L|George Springer|R|Strikeout|S|Curveball|92|2|2|2|7|68
+John Lamb|L|Marwin Gonzalez|R|Single|C|Cutter|93|0|0|0|13|83
+John Lamb|L|Marwin Gonzalez|R|Single|D|Cutter|94|0|1|0|2|84
+John Lamb|L|Jose Altuve|R|Walk|B|Curveball|95|0|0|0|11|66
+John Lamb|L|Jose Altuve|R|Walk|B|Curveball|96|1|0|0|11|65
+John Lamb|L|Jose Altuve|R|Walk|B|Four-Seam Fastball|97|2|0|0|6|85
+John Lamb|L|Jose Altuve|R|Walk|B|Four-Seam Fastball|98|3|0|0|11|90
+John Lamb|L|Carlos Correa|R|Forceout|C|Four-Seam Fastball|99|0|0|0|5|89
+John Lamb|L|Carlos Correa|R|Forceout|B|Changeup|100|0|1|0|13|74
+John Lamb|L|Carlos Correa|R|Forceout|*B|Changeup|101|1|1|0|14|73
+John Lamb|L|Carlos Correa|R|Forceout|X|Four-Seam Fastball|102|2|1|0|8|84
+John Lamb|L|Colby Rasmus|L|Walk|B|Four-Seam Fastball|103|0|0|1|13|89
+John Lamb|L|Colby Rasmus|L|Walk|B|Four-Seam Fastball|104|1|0|1|14|87
+John Lamb|L|Colby Rasmus|L|Walk|B|Four-Seam Fastball|105|2|0|1|11|88
+John Lamb|L|Colby Rasmus|L|Walk|F|Four-Seam Fastball|106|3|0|1|7|85
+John Lamb|L|Colby Rasmus|L|Walk|B|Cutter|107|3|1|1|1|86
+John Lamb|L|Travis Jankowski|L|Single|B|Four-Seam Fastball|0|0|0|0|14|88
+John Lamb|L|Travis Jankowski|L|Single|D|Four-Seam Fastball|1|1|0|0|9|89
+John Lamb|L|Wil Myers|R|Groundout|B|Four-Seam Fastball|2|0|0|0|11|90
+John Lamb|L|Wil Myers|R|Groundout|X|Changeup|3|1|0|0|5|76
+John Lamb|L|Matt Kemp|R|Strikeout|B|Four-Seam Fastball|4|0|0|1|14|91
+John Lamb|L|Matt Kemp|R|Strikeout|B|Four-Seam Fastball|5|1|0|1|14|90
+John Lamb|L|Matt Kemp|R|Strikeout|S|Four-Seam Fastball|6|2|0|1|1|91
+John Lamb|L|Matt Kemp|R|Strikeout|F|Four-Seam Fastball|7|2|1|1|12|89
+John Lamb|L|Matt Kemp|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|11|91
+John Lamb|L|Matt Kemp|R|Strikeout|B|Four-Seam Fastball|9|2|2|1|13|90
+John Lamb|L|Matt Kemp|R|Strikeout|S|Changeup|10|3|2|1|13|74
+John Lamb|L|Yangervis Solarte|R|Groundout|S|Changeup|11|0|0|2|4|77
+John Lamb|L|Yangervis Solarte|R|Groundout|X|Four-Seam Fastball|12|0|1|2|11|91
+John Lamb|L|B.J. Upton|R|Single|B|Four-Seam Fastball|13|0|0|0|12|89
+John Lamb|L|B.J. Upton|R|Single|B|Curveball|14|1|0|0|12|65
+John Lamb|L|B.J. Upton|R|Single|B|Changeup|15|2|0|0|13|75
+John Lamb|L|B.J. Upton|R|Single|C|Four-Seam Fastball|16|3|0|0|4|90
+John Lamb|L|B.J. Upton|R|Single|F|Four-Seam Fastball|17|3|1|0|4|90
+John Lamb|L|B.J. Upton|R|Single|F|Changeup|18|3|2|0|1|74
+John Lamb|L|B.J. Upton|R|Single|D|Curveball|19|3|2|0|4|64
+John Lamb|L|Derek Norris|R|Pop Out|B|Four-Seam Fastball|20|0|0|0|3|88
+John Lamb|L|Derek Norris|R|Pop Out|S|Four-Seam Fastball|21|1|0|0|3|89
+John Lamb|L|Derek Norris|R|Pop Out|B|Four-Seam Fastball|22|1|1|0|11|89
+John Lamb|L|Derek Norris|R|Pop Out|B|Changeup|23|2|1|0|13|75
+John Lamb|L|Derek Norris|R|Pop Out|F|Four-Seam Fastball|24|3|1|0|11|90
+John Lamb|L|Derek Norris|R|Pop Out|X|Four-Seam Fastball|25|3|2|0|7|92
+John Lamb|L|Alexei Ramirez|R|Groundout|B|Changeup|26|0|0|1|13|75
+John Lamb|L|Alexei Ramirez|R|Groundout|C|Curveball|27|1|0|1|5|67
+John Lamb|L|Alexei Ramirez|R|Groundout|B|Cutter|28|1|1|1|11|87
+John Lamb|L|Alexei Ramirez|R|Groundout|B|Four-Seam Fastball|29|2|1|1|13|89
+John Lamb|L|Alexei Ramirez|R|Groundout|F|Four-Seam Fastball|30|3|1|1|5|90
+John Lamb|L|Alexei Ramirez|R|Groundout|E|Changeup|31|3|2|1|12|74
+John Lamb|L|Adam Rosales|R|Strikeout|B|Four-Seam Fastball|32|0|0|2|11|90
+John Lamb|L|Adam Rosales|R|Strikeout|F|Cutter|33|1|0|2|5|86
+John Lamb|L|Adam Rosales|R|Strikeout|B|Four-Seam Fastball|34|1|1|2|11|88
+John Lamb|L|Adam Rosales|R|Strikeout|F|Four-Seam Fastball|35|2|1|2|1|89
+John Lamb|L|Adam Rosales|R|Strikeout|F|Four-Seam Fastball|36|2|2|2|11|88
+John Lamb|L|Adam Rosales|R|Strikeout|B|Cutter|37|2|2|2|13|84
+John Lamb|L|Adam Rosales|R|Strikeout|C|Changeup|38|3|2|2|2|72
+John Lamb|L|Christian Friedrich|R|Walk|B|Four-Seam Fastball|39|0|0|0|13|88
+John Lamb|L|Christian Friedrich|R|Walk|B|Four-Seam Fastball|40|1|0|0|13|87
+John Lamb|L|Christian Friedrich|R|Walk|F|Four-Seam Fastball|41|2|0|0|11|87
+John Lamb|L|Christian Friedrich|R|Walk|B|Four-Seam Fastball|42|2|1|0|13|88
+John Lamb|L|Christian Friedrich|R|Walk|B|Four-Seam Fastball|43|3|1|0|9|89
+John Lamb|L|Travis Jankowski|L|Lineout|B|Four-Seam Fastball|44|0|0|0|12|85
+John Lamb|L|Travis Jankowski|L|Lineout|B|Cutter|45|1|0|0|3|79
+John Lamb|L|Travis Jankowski|L|Lineout|C|Four-Seam Fastball|46|2|0|0|12|86
+John Lamb|L|Travis Jankowski|L|Lineout|X|Cutter|47|2|1|0|6|84
+John Lamb|L|Wil Myers|R|Forceout|B|Four-Seam Fastball|48|0|0|1|12|89
+John Lamb|L|Wil Myers|R|Forceout|B|Four-Seam Fastball|49|1|0|1|11|90
+John Lamb|L|Wil Myers|R|Forceout|X|Changeup|50|2|0|1|4|71
+John Lamb|L|Matt Kemp|R|Pickoff Caught Stealing 2B|B|Four-Seam Fastball|51|0|0|2|12|87
+John Lamb|L|Matt Kemp|R|Pickoff Caught Stealing 2B|C|Four-Seam Fastball|52|1|0|2|14|89
+John Lamb|L|Matt Kemp|R|Home Run|B|Four-Seam Fastball|53|0|0|0|11|89
+John Lamb|L|Matt Kemp|R|Home Run|S|Cutter|54|1|0|0|5|85
+John Lamb|L|Matt Kemp|R|Home Run|E|Changeup|55|1|1|0|7|74
+John Lamb|L|Yangervis Solarte|R|Strikeout|B|Curveball|56|0|0|0|12|63
+John Lamb|L|Yangervis Solarte|R|Strikeout|C|Changeup|57|1|0|0|6|73
+John Lamb|L|Yangervis Solarte|R|Strikeout|F|Four-Seam Fastball|58|1|1|0|11|89
+John Lamb|L|Yangervis Solarte|R|Strikeout|S|Changeup|59|1|2|0|14|69
+John Lamb|L|B.J. Upton|R|Strikeout|C|Four-Seam Fastball|60|0|0|1|5|89
+John Lamb|L|B.J. Upton|R|Strikeout|F|Cutter|61|0|1|1|11|87
+John Lamb|L|B.J. Upton|R|Strikeout|B|Four-Seam Fastball|62|0|2|1|11|90
+John Lamb|L|B.J. Upton|R|Strikeout|F|Cutter|63|1|2|1|9|83
+John Lamb|L|B.J. Upton|R|Strikeout|F|Four-Seam Fastball|64|1|2|1|1|91
+John Lamb|L|B.J. Upton|R|Strikeout|S|Cutter|65|1|2|1|11|85
+John Lamb|L|Derek Norris|R|Groundout|B|Cutter|66|0|0|2|12|85
+John Lamb|L|Derek Norris|R|Groundout|X|Changeup|67|1|0|2|6|72
+John Lamb|L|Alexei Ramirez|R|Lineout|B|Four-Seam Fastball|68|0|0|0|12|85
+John Lamb|L|Alexei Ramirez|R|Lineout|F|Four-Seam Fastball|69|1|0|0|8|87
+John Lamb|L|Alexei Ramirez|R|Lineout|X|Changeup|70|1|1|0|6|75
+John Lamb|L|Adam Rosales|R|Walk|B|Four-Seam Fastball|71|0|0|1|13|88
+John Lamb|L|Adam Rosales|R|Walk|B|Four-Seam Fastball|72|1|0|1|13|89
+John Lamb|L|Adam Rosales|R|Walk|C|Four-Seam Fastball|73|2|0|1|4|89
+John Lamb|L|Adam Rosales|R|Walk|B|Four-Seam Fastball|74|2|1|1|12|87
+John Lamb|L|Adam Rosales|R|Walk|C|Cutter|75|3|1|1|12|83
+John Lamb|L|Adam Rosales|R|Walk|B|Cutter|76|3|2|1|12|78
+John Lamb|L|Christian Friedrich|R|Sac Bunt|X|Four-Seam Fastball|77|0|0|1|12|85
+John Lamb|L|Travis Jankowski|L|Groundout|B|Cutter|78|0|0|2|14|82
+John Lamb|L|Travis Jankowski|L|Groundout|C|Four-Seam Fastball|79|1|0|2|9|87
+John Lamb|L|Travis Jankowski|L|Groundout|F|Four-Seam Fastball|80|1|1|2|2|88
+John Lamb|L|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|81|1|2|2|12|89
+John Lamb|L|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|82|2|2|2|13|91
+John Lamb|L|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|83|3|2|2|6|89
+John Lamb|L|Wil Myers|R|Walk|C|Curveball|84|0|0|0|6|63
+John Lamb|L|Wil Myers|R|Walk|B|Four-Seam Fastball|85|0|1|0|8|89
+John Lamb|L|Wil Myers|R|Walk|B|Four-Seam Fastball|86|1|1|0|11|89
+John Lamb|L|Wil Myers|R|Walk|B|Curveball|87|2|1|0|12|62
+John Lamb|L|Wil Myers|R|Walk|B|Four-Seam Fastball|88|3|1|0|13|89
+John Lamb|L|Matt Kemp|R|Groundout|B|Four-Seam Fastball|89|0|0|0|12|88
+John Lamb|L|Matt Kemp|R|Groundout|B|Four-Seam Fastball|90|1|0|0|14|88
+John Lamb|L|Matt Kemp|R|Groundout|X|Cutter|91|2|0|0|14|83
+John Lamb|L|Yangervis Solarte|R|Single|T|Four-Seam Fastball|92|0|0|1|2|87
+John Lamb|L|Yangervis Solarte|R|Single|F|Four-Seam Fastball|93|0|1|1|11|91
+John Lamb|L|Yangervis Solarte|R|Single|F|Four-Seam Fastball|94|0|2|1|12|90
+John Lamb|L|Yangervis Solarte|R|Single|B|Four-Seam Fastball|95|0|2|1|12|88
+John Lamb|L|Yangervis Solarte|R|Single|B|Changeup|96|1|2|1|13|73
+John Lamb|L|Yangervis Solarte|R|Single|F|Cutter|97|2|2|1|5|86
+John Lamb|L|Yangervis Solarte|R|Single|F|Four-Seam Fastball|98|2|2|1|11|88
+John Lamb|L|Yangervis Solarte|R|Single|B|Curveball|99|2|2|1|11|68
+John Lamb|L|Yangervis Solarte|R|Single|F|Changeup|100|3|2|1|7|72
+John Lamb|L|Yangervis Solarte|R|Single|E|Changeup|101|3|2|1|4|73
+John Lamb|L|Ben Zobrist|R|Home Run|C|Four-Seam Fastball|0|0|0|0|8|90
+John Lamb|L|Ben Zobrist|R|Home Run|F|Four-Seam Fastball|1|0|1|0|11|90
+John Lamb|L|Ben Zobrist|R|Home Run|F|Four-Seam Fastball|2|0|2|0|1|92
+John Lamb|L|Ben Zobrist|R|Home Run|E|Four-Seam Fastball|3|0|2|0|1|91
+John Lamb|L|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|4|0|0|0|12|92
+John Lamb|L|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|5|1|0|0|14|91
+John Lamb|L|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|6|2|0|0|13|90
+John Lamb|L|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|7|3|0|0|14|90
+John Lamb|L|Jason Heyward|L|Strikeout|S|Four-Seam Fastball|8|3|1|0|5|90
+John Lamb|L|Jason Heyward|L|Strikeout|S|Four-Seam Fastball|9|3|2|0|8|90
+John Lamb|L|Kris Bryant|R|Groundout|F|Changeup|10|0|0|1|5|76
+John Lamb|L|Kris Bryant|R|Groundout|F|Changeup|11|0|1|1|4|74
+John Lamb|L|Kris Bryant|R|Groundout|B|Four-Seam Fastball|12|0|2|1|11|91
+John Lamb|L|Kris Bryant|R|Groundout|X|Cutter|13|1|2|1|13|88
+John Lamb|L|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|14|0|0|2|12|92
+John Lamb|L|Anthony Rizzo|L|Strikeout|B|Four-Seam Fastball|15|1|0|2|14|91
+John Lamb|L|Anthony Rizzo|L|Strikeout|C|Changeup|16|2|0|2|6|77
+John Lamb|L|Anthony Rizzo|L|Strikeout|S|Changeup|17|2|1|2|6|76
+John Lamb|L|Anthony Rizzo|L|Strikeout|S|Four-Seam Fastball|18|2|2|2|11|92
+John Lamb|L|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|19|0|0|0|11|89
+John Lamb|L|Willson Contreras|R|Strikeout|B|Cutter|20|1|0|0|13|85
+John Lamb|L|Willson Contreras|R|Strikeout|C|Changeup|21|2|0|0|5|76
+John Lamb|L|Willson Contreras|R|Strikeout|S|Changeup|22|2|1|0|8|75
+John Lamb|L|Willson Contreras|R|Strikeout|S|Changeup|23|2|2|0|13|72
+John Lamb|L|Javier Baez|R|Bunt Groundout|B|Four-Seam Fastball|24|0|0|1|11|88
+John Lamb|L|Javier Baez|R|Bunt Groundout|X|Cutter|25|1|0|1|14|83
+John Lamb|L|Matt Szczur|R|Flyout|F|Four-Seam Fastball|26|0|0|2|4|89
+John Lamb|L|Matt Szczur|R|Flyout|B|Cutter|27|0|1|2|13|85
+John Lamb|L|Matt Szczur|R|Flyout|B|Cutter|28|1|1|2|11|83
+John Lamb|L|Matt Szczur|R|Flyout|C|Changeup|29|2|1|2|9|74
+John Lamb|L|Matt Szczur|R|Flyout|X|Four-Seam Fastball|30|2|2|2|4|89
+John Lamb|L|David Ross|R|Groundout|C|Four-Seam Fastball|31|0|0|0|11|87
+John Lamb|L|David Ross|R|Groundout|S|Cutter|32|0|1|0|13|84
+John Lamb|L|David Ross|R|Groundout|X|Four-Seam Fastball|33|0|2|0|4|89
+John Lamb|L|Jon Lester|L|Strikeout|C|Four-Seam Fastball|34|0|0|1|9|88
+John Lamb|L|Jon Lester|L|Strikeout|B|Cutter|35|0|1|1|13|86
+John Lamb|L|Jon Lester|L|Strikeout|C|Four-Seam Fastball|36|1|1|1|4|89
+John Lamb|L|Jon Lester|L|Strikeout|S|Four-Seam Fastball|37|1|2|1|9|89
+John Lamb|L|Ben Zobrist|R|Double|B|Four-Seam Fastball|38|0|0|2|12|89
+John Lamb|L|Ben Zobrist|R|Double|C|Four-Seam Fastball|39|1|0|2|4|89
+John Lamb|L|Ben Zobrist|R|Double|D|Changeup|40|1|1|2|8|74
+John Lamb|L|Jason Heyward|L|Strikeout|C|Cutter|41|0|0|2|4|85
+John Lamb|L|Jason Heyward|L|Strikeout|F|Four-Seam Fastball|42|0|1|2|14|88
+John Lamb|L|Jason Heyward|L|Strikeout|B|Cutter|43|0|2|2|13|85
+John Lamb|L|Jason Heyward|L|Strikeout|S|Cutter|44|1|2|2|7|85
+John Lamb|L|Kris Bryant|R|Flyout|C|Curveball|45|0|0|0|2|67
+John Lamb|L|Kris Bryant|R|Flyout|X|Curveball|46|0|1|0|2|66
+John Lamb|L|Anthony Rizzo|L|Flyout|X|Curveball|47|0|0|1|14|66
+John Lamb|L|Willson Contreras|R|Single|B|Curveball|48|0|0|2|2|66
+John Lamb|L|Willson Contreras|R|Single|D|Cutter|49|1|0|2|4|84
+John Lamb|L|Javier Baez|R|Pop Out|B|Curveball|50|0|0|2|14|68
+John Lamb|L|Javier Baez|R|Pop Out|B|Four-Seam Fastball|51|1|0|2|13|91
+John Lamb|L|Javier Baez|R|Pop Out|B|Changeup|52|2|0|2|11|79
+John Lamb|L|Javier Baez|R|Pop Out|F|Four-Seam Fastball|53|3|0|2|4|90
+John Lamb|L|Javier Baez|R|Pop Out|F|Four-Seam Fastball|54|3|1|2|8|89
+John Lamb|L|Javier Baez|R|Pop Out|X|Changeup|55|3|2|2|14|74
+John Lamb|L|Matt Szczur|R|Double|B|Four-Seam Fastball|56|0|0|0|14|88
+John Lamb|L|Matt Szczur|R|Double|B|Four-Seam Fastball|57|1|0|0|13|88
+John Lamb|L|Matt Szczur|R|Double|C|Changeup|58|2|0|0|8|76
+John Lamb|L|Matt Szczur|R|Double|D|Changeup|59|2|1|0|5|77
+John Lamb|L|David Ross|R|Flyout|B|Curveball|60|0|0|0|2|67
+John Lamb|L|David Ross|R|Flyout|B|Four-Seam Fastball|61|1|0|0|11|89
+John Lamb|L|David Ross|R|Flyout|B|Four-Seam Fastball|62|2|0|0|13|89
+John Lamb|L|David Ross|R|Flyout|F|Four-Seam Fastball|63|3|0|0|11|89
+John Lamb|L|David Ross|R|Flyout|X|Cutter|64|3|1|0|4|86
+John Lamb|L|Jon Lester|L|Single|B|Four-Seam Fastball|65|0|0|1|12|88
+John Lamb|L|Jon Lester|L|Single|S|Four-Seam Fastball|66|1|0|1|7|89
+John Lamb|L|Jon Lester|L|Single|C|Cutter|67|1|1|1|6|86
+John Lamb|L|Jon Lester|L|Single|E|Cutter|68|1|2|1|4|84
+John Lamb|L|Ben Zobrist|R|Strikeout|C|Four-Seam Fastball|69|0|0|1|12|89
+John Lamb|L|Ben Zobrist|R|Strikeout|B|Four-Seam Fastball|70|0|1|1|12|89
+John Lamb|L|Ben Zobrist|R|Strikeout|B|Curveball|71|1|1|1|11|69
+John Lamb|L|Ben Zobrist|R|Strikeout|F|Cutter|72|2|1|1|7|84
+John Lamb|L|Ben Zobrist|R|Strikeout|F|Four-Seam Fastball|73|2|2|1|14|90
+John Lamb|L|Ben Zobrist|R|Strikeout|F|Changeup|74|2|2|1|12|75
+John Lamb|L|Ben Zobrist|R|Strikeout|F|Cutter|75|2|2|1|4|87
+John Lamb|L|Ben Zobrist|R|Strikeout|B|Changeup|76|2|2|1|12|73
+John Lamb|L|Ben Zobrist|R|Strikeout|S|Changeup|77|3|2|1|14|76
+John Lamb|L|Jason Heyward|L|Strikeout|C|Curveball|78|0|0|2|8|66
+John Lamb|L|Jason Heyward|L|Strikeout|S|Curveball|79|0|1|2|13|67
+John Lamb|L|Jason Heyward|L|Strikeout|B|Curveball|80|0|2|2|13|66
+John Lamb|L|Jason Heyward|L|Strikeout|*B|Four-Seam Fastball|81|1|2|2|13|89
+John Lamb|L|Jason Heyward|L|Strikeout|*B|Curveball|82|2|2|2|13|67
+John Lamb|L|Jason Heyward|L|Strikeout|S|Changeup|83|3|2|2|9|75
+John Lamb|L|Kris Bryant|R|Walk|S|Changeup|84|0|0|0|8|77
+John Lamb|L|Kris Bryant|R|Walk|F|Four-Seam Fastball|85|0|1|0|13|87
+John Lamb|L|Kris Bryant|R|Walk|B|Four-Seam Fastball|86|0|2|0|11|89
+John Lamb|L|Kris Bryant|R|Walk|B|Cutter|87|1|2|0|13|87
+John Lamb|L|Kris Bryant|R|Walk|B|Changeup|88|2|2|0|14|76
+John Lamb|L|Kris Bryant|R|Walk|B|Changeup|89|3|2|0|14|75
+John Lamb|L|Anthony Rizzo|L|Single|C|Four-Seam Fastball|90|0|0|0|14|88
+John Lamb|L|Anthony Rizzo|L|Single|F|Four-Seam Fastball|91|0|1|0|5|90
+John Lamb|L|Anthony Rizzo|L|Single|D|Cutter|92|0|2|0|11|85
+John Lamb|L|Willson Contreras|R|Grounded Into DP|C|Changeup|93|0|0|0|12|76
+John Lamb|L|Willson Contreras|R|Grounded Into DP|B|Four-Seam Fastball|94|0|1|0|11|89
+John Lamb|L|Willson Contreras|R|Grounded Into DP|B|Four-Seam Fastball|95|1|1|0|13|88
+John Lamb|L|Willson Contreras|R|Grounded Into DP|X|Changeup|96|2|1|0|14|76
+John Lamb|L|Javier Baez|R|Pop Out|C|Curveball|97|0|0|2|13|68
+John Lamb|L|Javier Baez|R|Pop Out|F|Curveball|98|0|1|2|13|68
+John Lamb|L|Javier Baez|R|Pop Out|B|Four-Seam Fastball|99|0|2|2|11|91
+John Lamb|L|Javier Baez|R|Pop Out|F|Four-Seam Fastball|100|1|2|2|11|90
+John Lamb|L|Javier Baez|R|Pop Out|X|Curveball|101|1|2|2|14|69
+John Lamb|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|90
+John Lamb|L|Michael A. Taylor|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|90
+John Lamb|L|Michael A. Taylor|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|13|88
+John Lamb|L|Michael A. Taylor|R|Strikeout|B|Changeup|3|1|2|0|12|72
+John Lamb|L|Michael A. Taylor|R|Strikeout|S|Changeup|4|2|2|0|13|74
+John Lamb|L|Jayson Werth|R|Strikeout|C|Cutter|5|0|0|1|11|85
+John Lamb|L|Jayson Werth|R|Strikeout|F|Four-Seam Fastball|6|0|1|1|12|89
+John Lamb|L|Jayson Werth|R|Strikeout|B|Cutter|7|0|2|1|11|86
+John Lamb|L|Jayson Werth|R|Strikeout|C|Curveball|8|1|2|1|13|68
+John Lamb|L|Bryce Harper|L|Single|D|Cutter|9|0|0|2|4|86
+John Lamb|L|Daniel Murphy|L|Pop Out|B|Four-Seam Fastball|10|0|0|2|12|89
+John Lamb|L|Daniel Murphy|L|Pop Out|B|Changeup|11|1|0|2|13|74
+John Lamb|L|Daniel Murphy|L|Pop Out|X|Cutter|12|2|0|2|7|85
+John Lamb|L|Wilson Ramos|R|Home Run|E|Changeup|13|0|0|0|6|73
+John Lamb|L|Ryan Zimmerman|R|Groundout|X|Four-Seam Fastball|14|0|0|0|13|90
+John Lamb|L|Anthony Rendon|R|Walk|C|Four-Seam Fastball|15|0|0|1|3|91
+John Lamb|L|Anthony Rendon|R|Walk|B|Four-Seam Fastball|16|0|1|1|12|91
+John Lamb|L|Anthony Rendon|R|Walk|C|Four-Seam Fastball|17|1|1|1|6|89
+John Lamb|L|Anthony Rendon|R|Walk|B|Curveball|18|1|2|1|12|67
+John Lamb|L|Anthony Rendon|R|Walk|B|Curveball|19|2|2|1|13|68
+John Lamb|L|Anthony Rendon|R|Walk|F|Four-Seam Fastball|20|3|2|1|12|91
+John Lamb|L|Anthony Rendon|R|Walk|B|Four-Seam Fastball|21|3|2|1|12|90
+John Lamb|L|Danny Espinosa|R|Single|D|Four-Seam Fastball|22|0|0|1|13|88
+John Lamb|L|Stephen Strasburg|R|Sac Bunt|X|Four-Seam Fastball|23|0|0|1|4|87
+John Lamb|L|Michael A. Taylor|R|Groundout|S|Changeup|24|0|0|2|6|75
+John Lamb|L|Michael A. Taylor|R|Groundout|B|Four-Seam Fastball|25|0|1|2|11|91
+John Lamb|L|Michael A. Taylor|R|Groundout|B|Changeup|26|1|1|2|13|75
+John Lamb|L|Michael A. Taylor|R|Groundout|X|Changeup|27|2|1|2|3|75
+John Lamb|L|Jayson Werth|R|Strikeout|S|Four-Seam Fastball|28|0|0|0|1|90
+John Lamb|L|Jayson Werth|R|Strikeout|F|Cutter|29|0|1|0|11|87
+John Lamb|L|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|30|0|2|0|13|92
+John Lamb|L|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|31|1|2|0|11|91
+John Lamb|L|Jayson Werth|R|Strikeout|C|Cutter|32|2|2|0|1|84
+John Lamb|L|Bryce Harper|L|Flyout|C|Curveball|33|0|0|1|1|68
+John Lamb|L|Bryce Harper|L|Flyout|B|Four-Seam Fastball|34|0|1|1|14|89
+John Lamb|L|Bryce Harper|L|Flyout|B|Four-Seam Fastball|35|1|1|1|12|89
+John Lamb|L|Bryce Harper|L|Flyout|S|Curveball|36|2|1|1|5|65
+John Lamb|L|Bryce Harper|L|Flyout|X|Changeup|37|2|2|1|9|74
+John Lamb|L|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|38|0|0|2|14|89
+John Lamb|L|Daniel Murphy|L|Groundout|C|Four-Seam Fastball|39|1|0|2|6|88
+John Lamb|L|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|40|1|1|2|12|89
+John Lamb|L|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|41|2|1|2|5|89
+John Lamb|L|Daniel Murphy|L|Groundout|X|Curveball|42|2|2|2|7|66
+John Lamb|L|Wilson Ramos|R|Walk|B|Changeup|43|0|0|0|11|74
+John Lamb|L|Wilson Ramos|R|Walk|C|Cutter|44|1|0|0|5|83
+John Lamb|L|Wilson Ramos|R|Walk|B|Four-Seam Fastball|45|1|1|0|12|88
+John Lamb|L|Wilson Ramos|R|Walk|B|Cutter|46|2|1|0|13|82
+John Lamb|L|Wilson Ramos|R|Walk|B|Cutter|47|3|1|0|12|83
+John Lamb|L|Ryan Zimmerman|R|Walk|B|Cutter|48|0|0|0|12|85
+John Lamb|L|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|49|1|0|0|12|90
+John Lamb|L|Ryan Zimmerman|R|Walk|B|Changeup|50|2|0|0|12|75
+John Lamb|L|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|51|3|0|0|12|89
+John Lamb|L|Anthony Rendon|R|Walk|B|Four-Seam Fastball|52|0|0|0|12|89
+John Lamb|L|Anthony Rendon|R|Walk|B|Four-Seam Fastball|53|1|0|0|13|88
+John Lamb|L|Anthony Rendon|R|Walk|C|Four-Seam Fastball|54|2|0|0|3|88
+John Lamb|L|Anthony Rendon|R|Walk|C|Four-Seam Fastball|55|2|1|0|8|89
+John Lamb|L|Anthony Rendon|R|Walk|B|Changeup|56|2|2|0|12|73
+John Lamb|L|Anthony Rendon|R|Walk|F|Four-Seam Fastball|57|3|2|0|14|88
+John Lamb|L|Anthony Rendon|R|Walk|B|Cutter|58|3|2|0|11|83
+John Lamb|L|Danny Espinosa|R|Home Run|F|Four-Seam Fastball|59|0|0|0|13|87
+John Lamb|L|Danny Espinosa|R|Home Run|B|Curveball|60|0|1|0|11|67
+John Lamb|L|Danny Espinosa|R|Home Run|B|Curveball|61|1|1|0|13|66
+John Lamb|L|Danny Espinosa|R|Home Run|S|Four-Seam Fastball|62|2|1|0|1|88
+John Lamb|L|Danny Espinosa|R|Home Run|F|Four-Seam Fastball|63|2|2|0|12|89
+John Lamb|L|Danny Espinosa|R|Home Run|E|Changeup|64|2|2|0|7|74
+John Lamb|L|Stephen Strasburg|R|Strikeout|B|Four-Seam Fastball|65|0|0|0|14|90
+John Lamb|L|Stephen Strasburg|R|Strikeout|C|Four-Seam Fastball|66|1|0|0|13|90
+John Lamb|L|Stephen Strasburg|R|Strikeout|F|Four-Seam Fastball|67|1|1|0|8|88
+John Lamb|L|Stephen Strasburg|R|Strikeout|C|Curveball|68|1|2|0|7|65
+John Lamb|L|Michael A. Taylor|R|Groundout|B|Four-Seam Fastball|69|0|0|1|12|89
+John Lamb|L|Michael A. Taylor|R|Groundout|S|Four-Seam Fastball|70|1|0|1|1|88
+John Lamb|L|Michael A. Taylor|R|Groundout|X|Changeup|71|1|1|1|14|72
+John Lamb|L|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|72|0|0|2|13|87
+John Lamb|L|Jayson Werth|R|Strikeout|C|Four-Seam Fastball|73|1|0|2|7|88
+John Lamb|L|Jayson Werth|R|Strikeout|C|Four-Seam Fastball|74|1|1|2|14|87
+John Lamb|L|Jayson Werth|R|Strikeout|W|Curveball|75|1|2|2|9|65
+John Lamb|L|Bryce Harper|L|Home Run|B|Cutter|76|0|0|0|13|83
+John Lamb|L|Bryce Harper|L|Home Run|C|Curveball|77|1|0|0|2|65
+John Lamb|L|Bryce Harper|L|Home Run|E|Four-Seam Fastball|78|1|1|0|6|87
+John Lamb|L|Daniel Murphy|L|Single|B|Cutter|79|0|0|0|12|84
+John Lamb|L|Daniel Murphy|L|Single|D|Cutter|80|1|0|0|8|82
+John Lamb|L|Wilson Ramos|R|Double|B|Four-Seam Fastball|81|0|0|0|14|85
+John Lamb|L|Wilson Ramos|R|Double|B|Cutter|82|1|0|0|13|84
+John Lamb|L|Wilson Ramos|R|Double|B|Four-Seam Fastball|83|2|0|0|14|88
+John Lamb|L|Wilson Ramos|R|Double|E|Four-Seam Fastball|84|3|0|0|5|85
+John Lamb|L|Ryan Zimmerman|R|Groundout|C|Four-Seam Fastball|85|0|0|0|13|88
+John Lamb|L|Ryan Zimmerman|R|Groundout|S|Curveball|86|0|1|0|13|65
+John Lamb|L|Ryan Zimmerman|R|Groundout|B|Four-Seam Fastball|87|0|2|0|13|87
+John Lamb|L|Ryan Zimmerman|R|Groundout|X|Four-Seam Fastball|88|1|2|0|11|87
+John Lamb|L|Anthony Rendon|R|Single|F|Four-Seam Fastball|89|0|0|1|6|84
+John Lamb|L|Anthony Rendon|R|Single|B|Four-Seam Fastball|90|0|1|1|12|82
+John Lamb|L|Anthony Rendon|R|Single|D|Curveball|91|1|1|1|14|64
+John Lamb|L|J.T. Realmuto|R|Single|C|Four-Seam Fastball|0|0|0|0|5|89
+John Lamb|L|J.T. Realmuto|R|Single|C|Curveball|1|0|1|0|5|66
+John Lamb|L|J.T. Realmuto|R|Single|B|Four-Seam Fastball|2|0|2|0|11|91
+John Lamb|L|J.T. Realmuto|R|Single|F|Four-Seam Fastball|3|1|2|0|7|91
+John Lamb|L|J.T. Realmuto|R|Single|F|Cutter|4|1|2|0|12|84
+John Lamb|L|J.T. Realmuto|R|Single|D|Curveball|5|1|2|0|12|65
+John Lamb|L|Martin Prado|R|Double|C|Four-Seam Fastball|6|0|0|0|6|90
+John Lamb|L|Martin Prado|R|Double|C|Four-Seam Fastball|7|0|1|0|7|90
+John Lamb|L|Martin Prado|R|Double|D|Four-Seam Fastball|8|0|2|0|11|90
+John Lamb|L|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|9|0|0|0|6|89
+John Lamb|L|Christian Yelich|L|Strikeout|B|Curveball|10|0|1|0|2|68
+John Lamb|L|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|11|1|1|0|14|91
+John Lamb|L|Christian Yelich|L|Strikeout|F|Cutter|12|2|1|0|13|87
+John Lamb|L|Christian Yelich|L|Strikeout|*B|Curveball|13|2|2|0|14|69
+John Lamb|L|Christian Yelich|L|Strikeout|S|Changeup|14|3|2|0|8|74
+John Lamb|L|Giancarlo Stanton|R|Strikeout|B|Cutter|15|0|0|1|13|86
+John Lamb|L|Giancarlo Stanton|R|Strikeout|C|Four-Seam Fastball|16|1|0|1|6|89
+John Lamb|L|Giancarlo Stanton|R|Strikeout|B|Cutter|17|1|1|1|8|85
+John Lamb|L|Giancarlo Stanton|R|Strikeout|C|Four-Seam Fastball|18|2|1|1|9|91
+John Lamb|L|Giancarlo Stanton|R|Strikeout|S|Changeup|19|2|2|1|13|75
+John Lamb|L|Marcell Ozuna|R|Pop Out|X|Cutter|20|0|0|2|11|87
+John Lamb|L|Chris Johnson|R|Strikeout|B|Four-Seam Fastball|21|0|0|0|11|88
+John Lamb|L|Chris Johnson|R|Strikeout|F|Four-Seam Fastball|22|1|0|0|4|86
+John Lamb|L|Chris Johnson|R|Strikeout|F|Changeup|23|1|1|0|9|73
+John Lamb|L|Chris Johnson|R|Strikeout|F|Changeup|24|1|2|0|14|72
+John Lamb|L|Chris Johnson|R|Strikeout|S|Four-Seam Fastball|25|1|2|0|13|90
+John Lamb|L|Derek Dietrich|L|Flyout|C|Four-Seam Fastball|26|0|0|1|2|89
+John Lamb|L|Derek Dietrich|L|Flyout|B|Curveball|27|0|1|1|12|67
+John Lamb|L|Derek Dietrich|L|Flyout|F|Changeup|28|1|1|1|8|72
+John Lamb|L|Derek Dietrich|L|Flyout|B|Four-Seam Fastball|29|1|2|1|11|90
+John Lamb|L|Derek Dietrich|L|Flyout|F|Four-Seam Fastball|30|2|2|1|4|89
+John Lamb|L|Derek Dietrich|L|Flyout|X|Curveball|31|2|2|1|13|68
+John Lamb|L|Adeiny Hechavarria|R|Pop Out|X|Four-Seam Fastball|32|0|0|2|2|89
+John Lamb|L|Adam Conley|L|Strikeout|C|Four-Seam Fastball|33|0|0|0|8|88
+John Lamb|L|Adam Conley|L|Strikeout|F|Four-Seam Fastball|34|0|1|0|9|88
+John Lamb|L|Adam Conley|L|Strikeout|W|Curveball|35|0|2|0|13|68
+John Lamb|L|J.T. Realmuto|R|Strikeout|B|Changeup|36|0|0|1|13|75
+John Lamb|L|J.T. Realmuto|R|Strikeout|C|Four-Seam Fastball|37|1|0|1|8|88
+John Lamb|L|J.T. Realmuto|R|Strikeout|S|Four-Seam Fastball|38|1|1|1|12|89
+John Lamb|L|J.T. Realmuto|R|Strikeout|F|Curveball|39|1|2|1|13|68
+John Lamb|L|J.T. Realmuto|R|Strikeout|B|Cutter|40|1|2|1|11|84
+John Lamb|L|J.T. Realmuto|R|Strikeout|B|Four-Seam Fastball|41|2|2|1|12|89
+John Lamb|L|J.T. Realmuto|R|Strikeout|S|Changeup|42|3|2|1|8|75
+John Lamb|L|Martin Prado|R|Single|C|Curveball|43|0|0|2|1|67
+John Lamb|L|Martin Prado|R|Single|C|Four-Seam Fastball|44|0|1|2|6|89
+John Lamb|L|Martin Prado|R|Single|F|Four-Seam Fastball|45|0|2|2|11|89
+John Lamb|L|Martin Prado|R|Single|D|Cutter|46|0|2|2|11|84
+John Lamb|L|Christian Yelich|L|Strikeout|C|Changeup|47|0|0|2|7|73
+John Lamb|L|Christian Yelich|L|Strikeout|S|Changeup|48|0|1|2|13|74
+John Lamb|L|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|49|0|2|2|14|88
+John Lamb|L|Christian Yelich|L|Strikeout|S|Curveball|50|1|2|2|13|67
+John Lamb|L|Giancarlo Stanton|R|Groundout|C|Four-Seam Fastball|51|0|0|0|11|89
+John Lamb|L|Giancarlo Stanton|R|Groundout|C|Four-Seam Fastball|52|0|1|0|1|90
+John Lamb|L|Giancarlo Stanton|R|Groundout|B|Four-Seam Fastball|53|0|2|0|13|90
+John Lamb|L|Giancarlo Stanton|R|Groundout|X|Changeup|54|1|2|0|14|73
+John Lamb|L|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|55|0|0|1|13|90
+John Lamb|L|Marcell Ozuna|R|Strikeout|C|Cutter|56|1|0|1|5|84
+John Lamb|L|Marcell Ozuna|R|Strikeout|C|Changeup|57|1|1|1|8|74
+John Lamb|L|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|58|1|2|1|13|90
+John Lamb|L|Chris Johnson|R|Strikeout|C|Curveball|59|0|0|2|5|67
+John Lamb|L|Chris Johnson|R|Strikeout|C|Curveball|60|0|1|2|2|67
+John Lamb|L|Chris Johnson|R|Strikeout|W|Curveball|61|0|2|2|13|66
+John Lamb|L|Derek Dietrich|L|Groundout|C|Four-Seam Fastball|62|0|0|0|4|87
+John Lamb|L|Derek Dietrich|L|Groundout|X|Cutter|63|0|1|0|7|83
+John Lamb|L|Adeiny Hechavarria|R|Strikeout|C|Four-Seam Fastball|64|0|0|1|13|89
+John Lamb|L|Adeiny Hechavarria|R|Strikeout|S|Curveball|65|0|1|1|9|67
+John Lamb|L|Adeiny Hechavarria|R|Strikeout|C|Curveball|66|0|2|1|13|66
+John Lamb|L|Adam Conley|L|Single|C|Four-Seam Fastball|67|0|0|2|8|88
+John Lamb|L|Adam Conley|L|Single|B|Four-Seam Fastball|68|0|1|2|13|90
+John Lamb|L|Adam Conley|L|Single|C|Four-Seam Fastball|69|1|1|2|6|89
+John Lamb|L|Adam Conley|L|Single|F|Curveball|70|1|2|2|14|68
+John Lamb|L|Adam Conley|L|Single|B|Curveball|71|1|2|2|12|66
+John Lamb|L|Adam Conley|L|Single|F|Four-Seam Fastball|72|2|2|2|6|88
+John Lamb|L|Adam Conley|L|Single|F|Curveball|73|2|2|2|3|66
+John Lamb|L|Adam Conley|L|Single|D|Cutter|74|2|2|2|7|84
+John Lamb|L|J.T. Realmuto|R|Single|D|Four-Seam Fastball|75|0|0|2|5|88
+John Lamb|L|Martin Prado|R|Double|C|Cutter|76|0|0|2|6|85
+John Lamb|L|Martin Prado|R|Double|F|Cutter|77|0|1|2|13|85
+John Lamb|L|Martin Prado|R|Double|*B|Curveball|78|0|2|2|13|68
+John Lamb|L|Martin Prado|R|Double|B|Four-Seam Fastball|79|1|2|2|11|90
+John Lamb|L|Martin Prado|R|Double|F|Curveball|80|2|2|2|4|69
+John Lamb|L|Martin Prado|R|Double|E|Four-Seam Fastball|81|2|2|2|12|88
+John Lamb|L|Christian Yelich|L|Groundout|C|Cutter|82|0|0|2|14|85
+John Lamb|L|Christian Yelich|L|Groundout|F|Changeup|83|0|1|2|8|73
+John Lamb|L|Christian Yelich|L|Groundout|B|Four-Seam Fastball|84|0|2|2|11|89
+John Lamb|L|Christian Yelich|L|Groundout|F|Four-Seam Fastball|85|1|2|2|6|89
+John Lamb|L|Christian Yelich|L|Groundout|F|Curveball|86|1|2|2|6|68
+John Lamb|L|Christian Yelich|L|Groundout|X|Four-Seam Fastball|87|1|2|2|5|89
+John Lamb|L|Jonathan Villar|R|Single|B|Four-Seam Fastball|0|0|0|0|13|89
+John Lamb|L|Jonathan Villar|R|Single|D|Cutter|1|1|0|0|5|82
+John Lamb|L|Hernan Perez|R|Home Run|C|Four-Seam Fastball|2|0|0|0|14|88
+John Lamb|L|Hernan Perez|R|Home Run|E|Four-Seam Fastball|3|0|1|0|13|89
+John Lamb|L|Ryan Braun|R|Single|B|Four-Seam Fastball|4|0|0|0|12|90
+John Lamb|L|Ryan Braun|R|Single|B|Four-Seam Fastball|5|1|0|0|12|89
+John Lamb|L|Ryan Braun|R|Single|B|Four-Seam Fastball|6|2|0|0|14|89
+John Lamb|L|Ryan Braun|R|Single|C|Four-Seam Fastball|7|3|0|0|14|85
+John Lamb|L|Ryan Braun|R|Single|F|Cutter|8|3|1|0|4|79
+John Lamb|L|Ryan Braun|R|Single|D|Changeup|9|3|2|0|5|72
+John Lamb|L|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|10|0|0|0|1|90
+John Lamb|L|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|11|1|0|0|14|86
+John Lamb|L|Jonathan Lucroy|R|Strikeout|S|Changeup|12|1|1|0|7|72
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Curveball|13|1|2|0|13|68
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|14|1|2|0|1|88
+John Lamb|L|Jonathan Lucroy|R|Strikeout|F|Changeup|15|1|2|0|14|72
+John Lamb|L|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|16|1|2|0|14|88
+John Lamb|L|Chris Carter|R|Double|E|Four-Seam Fastball|17|0|0|1|7|88
+John Lamb|L|Scooter Gennett|L|Lineout|C|Cutter|18|0|0|1|2|82
+John Lamb|L|Scooter Gennett|L|Lineout|X|Cutter|19|0|1|1|4|80
+John Lamb|L|Will Middlebrooks|R|Single|C|Changeup|20|0|0|2|11|72
+John Lamb|L|Will Middlebrooks|R|Single|E|Four-Seam Fastball|21|0|1|2|11|87
+John Lamb|L|Ramon Flores|L|Groundout|B|Four-Seam Fastball|22|0|0|0|14|87
+John Lamb|L|Ramon Flores|L|Groundout|C|Curveball|23|1|0|0|13|66
+John Lamb|L|Ramon Flores|L|Groundout|X|Curveball|24|1|1|0|5|66
+John Lamb|L|Jimmy Nelson|R|Strikeout|C|Four-Seam Fastball|25|0|0|1|11|89
+John Lamb|L|Jimmy Nelson|R|Strikeout|S|Four-Seam Fastball|26|0|1|1|5|90
+John Lamb|L|Jimmy Nelson|R|Strikeout|B|Four-Seam Fastball|27|0|2|1|13|91
+John Lamb|L|Jimmy Nelson|R|Strikeout|F|Four-Seam Fastball|28|1|2|1|1|89
+John Lamb|L|Jimmy Nelson|R|Strikeout|B|Changeup|29|1|2|1|13|76
+John Lamb|L|Jimmy Nelson|R|Strikeout|S|Four-Seam Fastball|30|2|2|1|12|90
+John Lamb|L|Jonathan Villar|R|Single|D|Cutter|31|0|0|2|8|86
+John Lamb|L|Hernan Perez|R|Strikeout|B|Four-Seam Fastball|32|0|0|2|14|86
+John Lamb|L|Hernan Perez|R|Strikeout|F|Four-Seam Fastball|33|1|0|2|9|89
+John Lamb|L|Hernan Perez|R|Strikeout|S|Changeup|34|1|1|2|13|73
+John Lamb|L|Hernan Perez|R|Strikeout|F|Four-Seam Fastball|35|1|2|2|11|91
+John Lamb|L|Hernan Perez|R|Strikeout|B|Curveball|36|1|2|2|12|67
+John Lamb|L|Hernan Perez|R|Strikeout|F|Changeup|37|2|2|2|7|73
+John Lamb|L|Hernan Perez|R|Strikeout|F|Changeup|38|2|2|2|13|74
+John Lamb|L|Hernan Perez|R|Strikeout|S|Four-Seam Fastball|39|2|2|2|12|90
+John Lamb|L|Ryan Braun|R|Single|S|Curveball|40|0|0|0|13|67
+John Lamb|L|Ryan Braun|R|Single|C|Four-Seam Fastball|41|0|1|0|6|89
+John Lamb|L|Ryan Braun|R|Single|F|Curveball|42|0|2|0|13|68
+John Lamb|L|Ryan Braun|R|Single|D|Curveball|43|0|2|0|2|71
+John Lamb|L|Jonathan Lucroy|R|Home Run|B|Four-Seam Fastball|44|0|0|0|13|88
+John Lamb|L|Jonathan Lucroy|R|Home Run|S|Changeup|45|1|0|0|13|74
+John Lamb|L|Jonathan Lucroy|R|Home Run|T|Changeup|46|1|1|0|14|72
+John Lamb|L|Jonathan Lucroy|R|Home Run|F|Changeup|47|1|2|0|13|74
+John Lamb|L|Jonathan Lucroy|R|Home Run|E|Changeup|48|1|2|0|9|75
+John Lamb|L|Chris Carter|R|Walk|B|Cutter|49|0|0|0|13|85
+John Lamb|L|Chris Carter|R|Walk|B|Cutter|50|1|0|0|12|82
+John Lamb|L|Chris Carter|R|Walk|S|Changeup|51|2|0|0|13|74
+John Lamb|L|Chris Carter|R|Walk|C|Four-Seam Fastball|52|2|1|0|13|90
+John Lamb|L|Chris Carter|R|Walk|F|Four-Seam Fastball|53|2|2|0|7|90
+John Lamb|L|Chris Carter|R|Walk|B|Changeup|54|2|2|0|14|71
+John Lamb|L|Chris Carter|R|Walk|B|Changeup|55|3|2|0|14|73
+John Lamb|L|Scooter Gennett|L|Single|C|Cutter|56|0|0|0|12|86
+John Lamb|L|Scooter Gennett|L|Single|*B|Cutter|57|0|1|0|14|82
+John Lamb|L|Scooter Gennett|L|Single|*B|Curveball|58|1|1|0|13|66
+John Lamb|L|Scooter Gennett|L|Single|D|Four-Seam Fastball|59|2|1|0|14|88
+John Lamb|L|Will Middlebrooks|R|Walk|B|Four-Seam Fastball|60|0|0|0|13|87
+John Lamb|L|Will Middlebrooks|R|Walk|*B|Changeup|61|1|0|0|13|76
+John Lamb|L|Will Middlebrooks|R|Walk|B|Four-Seam Fastball|62|2|0|0|14|87
+John Lamb|L|Will Middlebrooks|R|Walk|B|Four-Seam Fastball|63|3|0|0|13|87

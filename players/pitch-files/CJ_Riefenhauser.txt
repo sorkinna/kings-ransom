@@ -1,0 +1,253 @@
+C.J. Riefenhauser|L|Didi Gregorius|L|Flyout|B|Slider|0|0|0|0|11|75
+C.J. Riefenhauser|L|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|1|1|0|0|1|87
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|S|Four-Seam Fastball|2|0|0|1|1|87
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|B|Slider|3|0|1|1|13|75
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|B|Slider|4|1|1|1|13|76
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|F|Four-Seam Fastball|5|2|1|1|1|87
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|B|Slider|6|2|2|1|13|76
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|F|Four-Seam Fastball|7|3|2|1|12|88
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|F|Four-Seam Fastball|8|3|2|1|11|87
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|9|3|2|1|12|89
+C.J. Riefenhauser|L|Chase Headley|R|Grounded Into DP|B|Four-Seam Fastball|10|0|0|1|12|87
+C.J. Riefenhauser|L|Chase Headley|R|Grounded Into DP|C|Four-Seam Fastball|11|1|0|1|9|87
+C.J. Riefenhauser|L|Chase Headley|R|Grounded Into DP|C|Four-Seam Fastball|12|1|1|1|3|86
+C.J. Riefenhauser|L|Chase Headley|R|Grounded Into DP|B|Four-Seam Fastball|13|1|2|1|12|87
+C.J. Riefenhauser|L|Chase Headley|R|Grounded Into DP|X|Four-Seam Fastball|14|2|2|1|8|88
+C.J. Riefenhauser|L|Stephen Drew|L|Double|C|Four-Seam Fastball|0|0|0|0|11|86
+C.J. Riefenhauser|L|Stephen Drew|L|Double|C|Slider|1|0|1|0|11|73
+C.J. Riefenhauser|L|Stephen Drew|L|Double|F|Slider|2|0|2|0|13|74
+C.J. Riefenhauser|L|Stephen Drew|L|Double|B|Slider|3|0|2|0|13|76
+C.J. Riefenhauser|L|Stephen Drew|L|Double|D|Four-Seam Fastball|4|1|2|0|3|86
+C.J. Riefenhauser|L|Gregorio Petit|R|Sac Fly|F|Four-Seam Fastball|5|0|0|0|13|86
+C.J. Riefenhauser|L|Gregorio Petit|R|Sac Fly|B|Four-Seam Fastball|6|0|1|0|11|87
+C.J. Riefenhauser|L|Gregorio Petit|R|Sac Fly|*B|Slider|7|1|1|0|14|75
+C.J. Riefenhauser|L|Gregorio Petit|R|Sac Fly|E|Four-Seam Fastball|8|2|1|0|12|87
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Single|D|Slider|9|0|0|1|5|74
+C.J. Riefenhauser|L|Brett Gardner|L|Single|C|Slider|10|0|0|1|4|74
+C.J. Riefenhauser|L|Brett Gardner|L|Single|F|Slider|11|0|1|1|13|75
+C.J. Riefenhauser|L|Brett Gardner|L|Single|*B|Changeup|12|0|2|1|14|76
+C.J. Riefenhauser|L|Brett Gardner|L|Single|B|Four-Seam Fastball|13|1|2|1|11|86
+C.J. Riefenhauser|L|Brett Gardner|L|Single|F|Changeup|14|2|2|1|11|76
+C.J. Riefenhauser|L|Brett Gardner|L|Single|E|Four-Seam Fastball|15|2|2|1|11|87
+C.J. Riefenhauser|L|Yolmer Sanchez|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|87
+C.J. Riefenhauser|L|Yolmer Sanchez|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|89
+C.J. Riefenhauser|L|Yolmer Sanchez|R|Groundout|B|Slider|2|1|1|0|14|76
+C.J. Riefenhauser|L|Yolmer Sanchez|R|Groundout|X|Four-Seam Fastball|3|2|1|0|8|88
+C.J. Riefenhauser|L|Tyler Flowers|R|Single|C|Changeup|4|0|0|1|1|78
+C.J. Riefenhauser|L|Tyler Flowers|R|Single|S|Changeup|5|0|1|1|14|79
+C.J. Riefenhauser|L|Tyler Flowers|R|Single|B|Four-Seam Fastball|6|0|2|1|12|88
+C.J. Riefenhauser|L|Tyler Flowers|R|Single|B|Four-Seam Fastball|7|1|2|1|12|88
+C.J. Riefenhauser|L|Tyler Flowers|R|Single|D|Changeup|8|2|2|1|9|78
+C.J. Riefenhauser|L|Adam Eaton|L|Forceout|M|Slider|9|0|0|1|13|78
+C.J. Riefenhauser|L|Adam Eaton|L|Forceout|F|Slider|10|0|1|1|7|77
+C.J. Riefenhauser|L|Adam Eaton|L|Forceout|*B|Slider|11|0|2|1|13|78
+C.J. Riefenhauser|L|Adam Eaton|L|Forceout|X|Four-Seam Fastball|12|1|2|1|1|88
+C.J. Riefenhauser|L|Alexei Ramirez|R|Caught Stealing 2B|C|Changeup|13|0|0|2|13|78
+C.J. Riefenhauser|L|Alexei Ramirez|R|Caught Stealing 2B|S|Four-Seam Fastball|14|0|1|2|12|88
+C.J. Riefenhauser|L|Denard Span|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|88
+C.J. Riefenhauser|L|Denard Span|L|Walk|C|Four-Seam Fastball|1|1|0|0|4|87
+C.J. Riefenhauser|L|Denard Span|L|Walk|B|Slider|2|1|1|0|13|79
+C.J. Riefenhauser|L|Denard Span|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|89
+C.J. Riefenhauser|L|Denard Span|L|Walk|C|Four-Seam Fastball|4|3|1|0|8|88
+C.J. Riefenhauser|L|Denard Span|L|Walk|F|Four-Seam Fastball|5|3|2|0|6|90
+C.J. Riefenhauser|L|Denard Span|L|Walk|B|Four-Seam Fastball|6|3|2|0|12|89
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|7|0|0|0|14|90
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|C|Changeup|8|0|1|0|13|78
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|F|Changeup|9|0|2|0|7|80
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|10|0|2|0|12|90
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|F|Slider|11|1|2|0|13|78
+C.J. Riefenhauser|L|Anthony Rendon|R|Flyout|X|Changeup|12|1|2|0|9|78
+C.J. Riefenhauser|L|Yunel Escobar|R|Lineout|F|Changeup|13|0|0|1|13|79
+C.J. Riefenhauser|L|Yunel Escobar|R|Lineout|B|Four-Seam Fastball|14|0|1|1|12|88
+C.J. Riefenhauser|L|Yunel Escobar|R|Lineout|X|Changeup|15|1|1|1|7|79
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|C|Slider|16|0|0|2|4|78
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|S|Slider|17|0|1|2|13|77
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|B|Slider|18|0|2|2|13|77
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|F|Changeup|19|1|2|2|6|76
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|20|1|2|2|11|88
+C.J. Riefenhauser|L|Bryce Harper|L|Strikeout|S|Slider|21|2|2|2|4|77
+C.J. Riefenhauser|L|Danny Espinosa|R|Single|C|Four-Seam Fastball|0|0|0|0|13|87
+C.J. Riefenhauser|L|Danny Espinosa|R|Single|B|Four-Seam Fastball|1|0|1|0|14|88
+C.J. Riefenhauser|L|Danny Espinosa|R|Single|D|Four-Seam Fastball|2|1|1|0|14|88
+C.J. Riefenhauser|L|Michael A. Taylor|R|Forceout|F|Four-Seam Fastball|3|0|0|0|4|88
+C.J. Riefenhauser|L|Michael A. Taylor|R|Forceout|F|Changeup|4|0|1|0|14|77
+C.J. Riefenhauser|L|Michael A. Taylor|R|Forceout|X|Slider|5|0|2|0|13|77
+C.J. Riefenhauser|L|Ian Desmond|R|Grounded Into DP|X|Four-Seam Fastball|6|0|0|1|9|88
+C.J. Riefenhauser|L|Denard Span|L|Lineout|B|Slider|7|0|0|0|12|77
+C.J. Riefenhauser|L|Denard Span|L|Lineout|B|Four-Seam Fastball|8|1|0|0|14|86
+C.J. Riefenhauser|L|Denard Span|L|Lineout|C|Four-Seam Fastball|9|2|0|0|2|88
+C.J. Riefenhauser|L|Denard Span|L|Lineout|X|Four-Seam Fastball|10|2|1|0|12|88
+C.J. Riefenhauser|L|Anthony Rendon|R|Lineout|B|Changeup|11|0|0|1|14|77
+C.J. Riefenhauser|L|Anthony Rendon|R|Lineout|X|Four-Seam Fastball|12|1|0|1|6|88
+C.J. Riefenhauser|L|Yunel Escobar|R|Groundout|X|Changeup|13|0|0|2|8|77
+C.J. Riefenhauser|L|Bryce Harper|L|Home Run|B|Slider|14|0|0|0|11|76
+C.J. Riefenhauser|L|Bryce Harper|L|Home Run|C|Slider|15|1|0|0|3|76
+C.J. Riefenhauser|L|Bryce Harper|L|Home Run|E|Slider|16|1|1|0|5|76
+C.J. Riefenhauser|L|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|17|0|0|0|6|87
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|S|Slider|18|0|0|1|13|76
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|B|Slider|19|0|1|1|13|76
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|B|Four-Seam Fastball|20|1|1|1|13|89
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|S|Four-Seam Fastball|21|2|1|1|13|88
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|B|Slider|22|2|2|1|13|77
+C.J. Riefenhauser|L|Clint Robinson|L|Walk|B|Four-Seam Fastball|23|3|2|1|13|89
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|C|Slider|0|0|0|0|3|75
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|F|Four-Seam Fastball|1|0|1|0|3|88
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|B|Slider|2|0|2|0|13|76
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|B|Changeup|3|1|2|0|12|76
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|B|Four-Seam Fastball|4|2|2|0|12|89
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|F|Slider|5|3|2|0|2|76
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|F|Slider|6|3|2|0|7|77
+C.J. Riefenhauser|L|Ryan Raburn|R|Walk|B|Four-Seam Fastball|7|3|2|0|12|89
+C.J. Riefenhauser|L|Carlos Santana|R|Double|B|Four-Seam Fastball|8|0|0|0|14|89
+C.J. Riefenhauser|L|Carlos Santana|R|Double|C|Changeup|9|1|0|0|7|79
+C.J. Riefenhauser|L|Carlos Santana|R|Double|B|Four-Seam Fastball|10|1|1|0|11|89
+C.J. Riefenhauser|L|Carlos Santana|R|Double|D|Slider|11|2|1|0|3|76
+C.J. Riefenhauser|L|Brandon Moss|L|Home Run|C|Slider|12|0|0|0|13|77
+C.J. Riefenhauser|L|Brandon Moss|L|Home Run|F|Slider|13|0|1|0|13|76
+C.J. Riefenhauser|L|Brandon Moss|L|Home Run|*B|Slider|14|0|2|0|13|77
+C.J. Riefenhauser|L|Brandon Moss|L|Home Run|E|Four-Seam Fastball|15|1|2|0|11|89
+C.J. Riefenhauser|L|Gio Urshela|R|Groundout|F|Changeup|16|0|0|0|6|79
+C.J. Riefenhauser|L|Gio Urshela|R|Groundout|F|Four-Seam Fastball|17|0|1|0|2|89
+C.J. Riefenhauser|L|Gio Urshela|R|Groundout|F|Slider|18|0|2|0|13|78
+C.J. Riefenhauser|L|Gio Urshela|R|Groundout|F|Slider|19|0|2|0|13|76
+C.J. Riefenhauser|L|Gio Urshela|R|Groundout|X|Changeup|20|0|2|0|14|79
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|C|Slider|21|0|0|1|13|77
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|B|Four-Seam Fastball|22|0|1|1|12|88
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|B|Four-Seam Fastball|23|1|1|1|11|88
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|C|Slider|24|2|1|1|2|77
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|F|Slider|25|2|2|1|7|77
+C.J. Riefenhauser|L|Michael Bourn|L|Strikeout|W|Slider|26|2|2|1|13|76
+C.J. Riefenhauser|L|Carlos Beltran|R|Strikeout|F|Four-Seam Fastball|0|0|0|1|5|90
+C.J. Riefenhauser|L|Carlos Beltran|R|Strikeout|*B|Slider|1|0|1|1|13|78
+C.J. Riefenhauser|L|Carlos Beltran|R|Strikeout|B|Four-Seam Fastball|2|1|1|1|11|90
+C.J. Riefenhauser|L|Carlos Beltran|R|Strikeout|F|Changeup|3|2|1|1|8|81
+C.J. Riefenhauser|L|Carlos Beltran|R|Strikeout|W|Slider|4|2|2|1|13|77
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|C|Slider|0|0|0|0|8|77
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|*B|Slider|1|0|1|0|13|77
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|B|Four-Seam Fastball|2|1|1|0|12|89
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|F|Slider|3|2|1|0|7|78
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|B|Four-Seam Fastball|4|2|2|0|11|91
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|F|Slider|5|3|2|0|9|80
+C.J. Riefenhauser|L|Chase Headley|R|Forceout|X|Four-Seam Fastball|6|3|2|0|11|91
+C.J. Riefenhauser|L|Didi Gregorius|L|Single|S|Slider|7|0|0|1|13|78
+C.J. Riefenhauser|L|Didi Gregorius|L|Single|*B|Slider|8|0|1|1|13|79
+C.J. Riefenhauser|L|Didi Gregorius|L|Single|B|Slider|9|1|1|1|13|79
+C.J. Riefenhauser|L|Didi Gregorius|L|Single|S|Slider|10|2|1|1|13|78
+C.J. Riefenhauser|L|Didi Gregorius|L|Single|E|Four-Seam Fastball|11|2|2|1|13|89
+C.J. Riefenhauser|L|Stephen Drew|L|Pop Out|X|Slider|12|0|0|1|7|78
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Flyout|*B|Slider|13|0|0|2|13|80
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Flyout|B|Four-Seam Fastball|14|1|0|2|11|90
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Flyout|W|Slider|15|2|0|2|13|79
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Flyout|X|Slider|16|2|1|2|2|78
+C.J. Riefenhauser|L|Jefry Marte|R|Walk|B|Slider|0|0|0|2|13|77
+C.J. Riefenhauser|L|Jefry Marte|R|Walk|B|Four-Seam Fastball|1|1|0|2|13|89
+C.J. Riefenhauser|L|Jefry Marte|R|Walk|B|Changeup|2|2|0|2|14|79
+C.J. Riefenhauser|L|Jefry Marte|R|Walk|C|Four-Seam Fastball|3|3|0|2|6|89
+C.J. Riefenhauser|L|Jefry Marte|R|Walk|B|Four-Seam Fastball|4|3|1|2|11|90
+C.J. Riefenhauser|L|Alex Avila|L|Strikeout|C|Slider|5|0|0|2|7|76
+C.J. Riefenhauser|L|Alex Avila|L|Strikeout|B|Slider|6|0|1|2|13|77
+C.J. Riefenhauser|L|Alex Avila|L|Strikeout|C|Slider|7|1|1|2|13|77
+C.J. Riefenhauser|L|Alex Avila|L|Strikeout|C|Slider|8|1|2|2|13|78
+C.J. Riefenhauser|L|Dixon Machado|R|Grounded Into DP|C|Four-Seam Fastball|9|0|0|0|8|89
+C.J. Riefenhauser|L|Dixon Machado|R|Grounded Into DP|S|Slider|10|0|1|0|13|77
+C.J. Riefenhauser|L|Dixon Machado|R|Grounded Into DP|*B|Slider|11|0|2|0|13|76
+C.J. Riefenhauser|L|Dixon Machado|R|Grounded Into DP|X|Slider|12|1|2|0|14|78
+C.J. Riefenhauser|L|David Ortiz|L|Single|B|Slider|0|0|0|0|13|77
+C.J. Riefenhauser|L|David Ortiz|L|Single|B|Slider|1|1|0|0|13|78
+C.J. Riefenhauser|L|David Ortiz|L|Single|F|Four-Seam Fastball|2|2|0|0|8|89
+C.J. Riefenhauser|L|David Ortiz|L|Single|D|Slider|3|2|1|0|13|76
+C.J. Riefenhauser|L|Travis Shaw|L|Home Run|E|Four-Seam Fastball|4|0|0|0|8|88
+C.J. Riefenhauser|L|Pablo Sandoval|R|Groundout|B|Slider|5|0|0|0|2|77
+C.J. Riefenhauser|L|Pablo Sandoval|R|Groundout|X|Slider|6|1|0|0|13|75
+C.J. Riefenhauser|L|Rusney Castillo|R|Flyout|S|Four-Seam Fastball|7|0|0|1|13|87
+C.J. Riefenhauser|L|Rusney Castillo|R|Flyout|F|Four-Seam Fastball|8|0|1|1|13|88
+C.J. Riefenhauser|L|Rusney Castillo|R|Flyout|X|Slider|9|0|2|1|9|74
+C.J. Riefenhauser|L|Blake Swihart|R|Single|D|Changeup|10|0|0|2|14|77
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|*B|Slider|11|0|0|2|13|77
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|B|Slider|12|1|0|2|13|76
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|T|Four-Seam Fastball|13|2|0|2|5|88
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|*B|Slider|14|2|1|2|13|76
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|15|3|1|2|13|89
+C.J. Riefenhauser|L|Jackie Bradley Jr.|L|Groundout|X|Slider|16|3|2|2|13|76
+C.J. Riefenhauser|L|Greg Bird|L|Walk|B|Slider|0|0|0|2|13|75
+C.J. Riefenhauser|L|Greg Bird|L|Walk|C|Slider|1|1|0|2|14|77
+C.J. Riefenhauser|L|Greg Bird|L|Walk|S|Slider|2|1|1|2|4|76
+C.J. Riefenhauser|L|Greg Bird|L|Walk|B|Slider|3|1|2|2|13|76
+C.J. Riefenhauser|L|Greg Bird|L|Walk|F|Slider|4|2|2|2|1|78
+C.J. Riefenhauser|L|Greg Bird|L|Walk|B|Four-Seam Fastball|5|2|2|2|13|90
+C.J. Riefenhauser|L|Greg Bird|L|Walk|F|Slider|6|3|2|2|9|76
+C.J. Riefenhauser|L|Greg Bird|L|Walk|B|Slider|7|3|2|2|13|77
+C.J. Riefenhauser|L|Chase Headley|R|Lineout|C|Four-Seam Fastball|8|0|0|2|7|88
+C.J. Riefenhauser|L|Chase Headley|R|Lineout|B|Changeup|9|0|1|2|12|77
+C.J. Riefenhauser|L|Chase Headley|R|Lineout|X|Four-Seam Fastball|10|1|1|2|11|89
+C.J. Riefenhauser|L|Chris Young|R|Pop Out|C|Slider|0|0|0|0|5|74
+C.J. Riefenhauser|L|Chris Young|R|Pop Out|F|Four-Seam Fastball|1|0|1|0|1|88
+C.J. Riefenhauser|L|Chris Young|R|Pop Out|X|Slider|2|0|2|0|7|75
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|B|Slider|3|0|0|1|13|76
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|B|Slider|4|1|0|1|13|76
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|C|Four-Seam Fastball|5|2|0|1|5|89
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|B|Slider|6|2|1|1|13|77
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|C|Slider|7|3|1|1|1|76
+C.J. Riefenhauser|L|Jacoby Ellsbury|L|Strikeout|C|Slider|8|3|2|1|14|77
+C.J. Riefenhauser|L|Brett Gardner|L|Groundout|C|Slider|9|0|0|2|4|77
+C.J. Riefenhauser|L|Brett Gardner|L|Groundout|S|Slider|10|0|1|2|13|78
+C.J. Riefenhauser|L|Brett Gardner|L|Groundout|B|Four-Seam Fastball|11|0|2|2|11|89
+C.J. Riefenhauser|L|Brett Gardner|L|Groundout|B|Slider|12|1|2|2|13|78
+C.J. Riefenhauser|L|Brett Gardner|L|Groundout|X|Slider|13|2|2|2|8|77
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|B|Slider|0|0|0|2|13|76
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|F|Slider|1|1|0|2|8|77
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|F|Slider|2|1|1|2|13|76
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|B|Slider|3|1|2|2|13|79
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|F|Slider|4|2|2|2|11|78
+C.J. Riefenhauser|L|Travis Shaw|L|Flyout|X|Slider|5|2|2|2|13|79
+C.J. Riefenhauser|L|Cliff Pennington|R|Single|C|Slider|0|0|0|0|7|75
+C.J. Riefenhauser|L|Cliff Pennington|R|Single|B|Four-Seam Fastball|1|0|1|0|12|89
+C.J. Riefenhauser|L|Cliff Pennington|R|Single|D|Slider|2|1|1|0|13|75
+C.J. Riefenhauser|L|Darwin Barney|R|Sac Bunt|C|Slider|3|0|0|0|2|75
+C.J. Riefenhauser|L|Darwin Barney|R|Sac Bunt|X|Slider|4|0|1|0|8|76
+C.J. Riefenhauser|L|Ben Revere|L|Flyout|C|Slider|5|0|0|1|4|77
+C.J. Riefenhauser|L|Ben Revere|L|Flyout|X|Four-Seam Fastball|6|0|1|1|13|89
+C.J. Riefenhauser|L|Cliff Pennington|R|Strikeout|C|Slider|0|0|0|2|7|76
+C.J. Riefenhauser|L|Cliff Pennington|R|Strikeout|F|Slider|1|0|1|2|13|77
+C.J. Riefenhauser|L|Cliff Pennington|R|Strikeout|*B|Slider|2|0|2|2|13|77
+C.J. Riefenhauser|L|Cliff Pennington|R|Strikeout|F|Changeup|3|1|2|2|14|81
+C.J. Riefenhauser|L|Cliff Pennington|R|Strikeout|S|Four-Seam Fastball|4|1|2|2|6|91
+C.J. Riefenhauser|L|Ben Revere|L|Flyout|B|Slider|5|0|0|0|13|76
+C.J. Riefenhauser|L|Ben Revere|L|Flyout|X|Four-Seam Fastball|6|1|0|0|7|88
+C.J. Riefenhauser|L|Josh Donaldson|R|Flyout|X|Four-Seam Fastball|7|0|0|1|4|89
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|S|Changeup|8|0|0|2|14|81
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|B|Four-Seam Fastball|9|0|1|2|13|89
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|S|Slider|10|1|1|2|4|76
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|B|Slider|11|1|2|2|13|76
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|B|Changeup|12|2|2|2|14|80
+C.J. Riefenhauser|L|Jose Bautista|R|Walk|*B|Slider|13|3|2|2|13|77
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|*B|Four-Seam Fastball|14|0|0|2|13|89
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|B|Slider|15|1|0|2|14|74
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|S|Four-Seam Fastball|16|2|0|2|5|88
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|B|Slider|17|2|1|2|13|76
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|C|Four-Seam Fastball|18|3|1|2|13|88
+C.J. Riefenhauser|L|Edwin Encarnacion|R|Pop Out|X|Slider|19|3|2|2|13|76
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|C|Slider|0|0|0|2|1|75
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|F|Slider|1|0|1|2|13|75
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|2|0|2|2|12|88
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|B|Slider|3|1|2|2|13|75
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|4|2|2|2|13|89
+C.J. Riefenhauser|L|Kevin Pillar|R|Flyout|X|Slider|5|2|2|2|5|76
+C.J. Riefenhauser|L|Ryan Goins|L|Single|C|Slider|6|0|0|0|5|76
+C.J. Riefenhauser|L|Ryan Goins|L|Single|B|Slider|7|0|1|0|13|77
+C.J. Riefenhauser|L|Ryan Goins|L|Single|S|Slider|8|1|1|0|13|77
+C.J. Riefenhauser|L|Ryan Goins|L|Single|D|Slider|9|1|2|0|1|77
+C.J. Riefenhauser|L|Ben Revere|L|Double|C|Slider|10|0|0|0|2|76
+C.J. Riefenhauser|L|Ben Revere|L|Double|F|Slider|11|0|1|0|13|76
+C.J. Riefenhauser|L|Ben Revere|L|Double|B|Four-Seam Fastball|12|0|2|0|11|88
+C.J. Riefenhauser|L|Ben Revere|L|Double|F|Slider|13|1|2|0|8|76
+C.J. Riefenhauser|L|Ben Revere|L|Double|F|Slider|14|1|2|0|13|78
+C.J. Riefenhauser|L|Ben Revere|L|Double|D|Slider|15|1|2|0|13|77
+C.J. Riefenhauser|L|Ryan Goins|L|Strikeout|C|Slider|0|0|0|0|11|74
+C.J. Riefenhauser|L|Ryan Goins|L|Strikeout|W|Slider|1|0|1|0|13|75
+C.J. Riefenhauser|L|Ryan Goins|L|Strikeout|S|Slider|2|0|2|0|13|75
+C.J. Riefenhauser|L|Chris Colabello|R|Forceout|B|Changeup|3|0|0|1|12|78
+C.J. Riefenhauser|L|Chris Colabello|R|Forceout|B|Changeup|4|1|0|1|14|78
+C.J. Riefenhauser|L|Chris Colabello|R|Forceout|C|Four-Seam Fastball|5|2|0|1|12|89
+C.J. Riefenhauser|L|Chris Colabello|R|Forceout|X|Changeup|6|2|1|1|7|77
+C.J. Riefenhauser|L|Ben Revere|L|Groundout|X|Slider|7|0|0|2|5|75

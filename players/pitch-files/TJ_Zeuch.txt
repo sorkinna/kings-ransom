@@ -1,0 +1,404 @@
+T.J. Zeuch|R|Mookie Betts|R|Home Run|E|Sinker|0|0|0|0|2|93
+T.J. Zeuch|R|Rafael Devers|L|Single|B|Sinker|1|0|0|0|13|92
+T.J. Zeuch|R|Rafael Devers|L|Single|F|Sinker|2|1|0|0|7|92
+T.J. Zeuch|R|Rafael Devers|L|Single|F|Changeup|3|1|1|0|5|83
+T.J. Zeuch|R|Rafael Devers|L|Single|B|Four-Seam Fastball|4|1|2|0|11|90
+T.J. Zeuch|R|Rafael Devers|L|Single|B|Sinker|5|2|2|0|13|94
+T.J. Zeuch|R|Rafael Devers|L|Single|D|Sinker|6|3|2|0|11|93
+T.J. Zeuch|R|J.D. Martinez|R|Lineout|B|Sinker|7|0|0|0|11|92
+T.J. Zeuch|R|J.D. Martinez|R|Lineout|B|Slider|8|1|0|0|12|84
+T.J. Zeuch|R|J.D. Martinez|R|Lineout|X|Slider|9|2|0|0|5|82
+T.J. Zeuch|R|Mitch Moreland|L|Single|B|Sinker|10|0|0|1|11|93
+T.J. Zeuch|R|Mitch Moreland|L|Single|F|Sinker|11|1|0|1|13|91
+T.J. Zeuch|R|Mitch Moreland|L|Single|B|Changeup|12|1|1|1|13|83
+T.J. Zeuch|R|Mitch Moreland|L|Single|F|Sinker|13|2|1|1|11|91
+T.J. Zeuch|R|Mitch Moreland|L|Single|F|Slider|14|2|2|1|14|83
+T.J. Zeuch|R|Mitch Moreland|L|Single|F|Sinker|15|2|2|1|2|93
+T.J. Zeuch|R|Mitch Moreland|L|Single|B|Four-Seam Fastball|16|2|2|1|11|91
+T.J. Zeuch|R|Mitch Moreland|L|Single|D|Sinker|17|3|2|1|1|92
+T.J. Zeuch|R|Andrew Benintendi|L|Groundout|X|Sinker|18|0|0|1|7|91
+T.J. Zeuch|R|Christian Vazquez|R|Groundout|B|Sinker|19|0|0|2|11|89
+T.J. Zeuch|R|Christian Vazquez|R|Groundout|X|Sinker|20|1|0|2|11|88
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|F|Sinker|21|0|0|0|7|89
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|B|Changeup|22|0|1|0|14|80
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|S|Curveball|23|1|1|0|14|74
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|24|1|2|0|11|88
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|B|Curveball|25|2|2|0|11|74
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|F|Changeup|26|3|2|0|14|81
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|F|Sinker|27|3|2|0|14|92
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Walk|B|Sinker|28|3|2|0|14|92
+T.J. Zeuch|R|Chris Owings|R|Single|C|Curveball|29|0|0|0|2|74
+T.J. Zeuch|R|Chris Owings|R|Single|B|Sinker|30|0|1|0|14|91
+T.J. Zeuch|R|Chris Owings|R|Single|D|Sinker|31|1|1|0|8|91
+T.J. Zeuch|R|Marco Hernandez|L|Forceout|S|Sinker|32|0|0|0|7|91
+T.J. Zeuch|R|Marco Hernandez|L|Forceout|F|Changeup|33|0|1|0|8|82
+T.J. Zeuch|R|Marco Hernandez|L|Forceout|X|Curveball|34|0|2|0|13|77
+T.J. Zeuch|R|Mookie Betts|R|Walk|B|Sinker|35|0|0|1|14|92
+T.J. Zeuch|R|Mookie Betts|R|Walk|B|Slider|36|1|0|1|14|83
+T.J. Zeuch|R|Mookie Betts|R|Walk|B|Slider|37|2|0|1|14|83
+T.J. Zeuch|R|Mookie Betts|R|Walk|B|Slider|38|3|0|1|14|83
+T.J. Zeuch|R|Rafael Devers|L|Groundout|B|Changeup|39|0|0|1|11|81
+T.J. Zeuch|R|Rafael Devers|L|Groundout|B|Sinker|40|1|0|1|13|91
+T.J. Zeuch|R|Rafael Devers|L|Groundout|B|Sinker|41|2|0|1|11|91
+T.J. Zeuch|R|Rafael Devers|L|Groundout|X|Sinker|42|3|0|1|13|91
+T.J. Zeuch|R|J.D. Martinez|R|Groundout|B|Slider|43|0|0|2|12|81
+T.J. Zeuch|R|J.D. Martinez|R|Groundout|B|Sinker|44|1|0|2|13|91
+T.J. Zeuch|R|J.D. Martinez|R|Groundout|S|Sinker|45|2|0|2|13|92
+T.J. Zeuch|R|J.D. Martinez|R|Groundout|S|Curveball|46|2|1|2|14|75
+T.J. Zeuch|R|J.D. Martinez|R|Groundout|X|Sinker|47|2|2|2|8|93
+T.J. Zeuch|R|Mitch Moreland|L|Flyout|B|Curveball|48|0|0|0|11|75
+T.J. Zeuch|R|Mitch Moreland|L|Flyout|B|Changeup|49|1|0|0|13|83
+T.J. Zeuch|R|Mitch Moreland|L|Flyout|X|Sinker|50|2|0|0|7|92
+T.J. Zeuch|R|Andrew Benintendi|L|Walk|C|Sinker|51|0|0|1|12|92
+T.J. Zeuch|R|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|52|0|1|1|12|90
+T.J. Zeuch|R|Andrew Benintendi|L|Walk|B|Curveball|53|1|1|1|11|76
+T.J. Zeuch|R|Andrew Benintendi|L|Walk|B|Curveball|54|2|1|1|14|75
+T.J. Zeuch|R|Andrew Benintendi|L|Walk|B|Changeup|55|3|1|1|14|81
+T.J. Zeuch|R|Christian Vazquez|R|Lineout|C|Sinker|56|0|0|1|6|91
+T.J. Zeuch|R|Christian Vazquez|R|Lineout|F|Slider|57|0|1|1|6|84
+T.J. Zeuch|R|Christian Vazquez|R|Lineout|X|Curveball|58|0|2|1|13|77
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|F|Sinker|59|0|0|2|4|90
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|B|Curveball|60|0|1|2|14|73
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|F|Sinker|61|1|1|2|1|91
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|F|Slider|62|1|2|2|14|82
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|B|Slider|63|1|2|2|14|81
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|F|Sinker|64|2|2|2|1|91
+T.J. Zeuch|R|Jackie Bradley Jr.|L|Groundout|X|Sinker|65|2|2|2|8|92
+T.J. Zeuch|R|Chris Owings|R|Strikeout|S|Curveball|66|0|0|0|13|75
+T.J. Zeuch|R|Chris Owings|R|Strikeout|B|Sinker|67|0|1|0|14|92
+T.J. Zeuch|R|Chris Owings|R|Strikeout|B|Changeup|68|1|1|0|13|80
+T.J. Zeuch|R|Chris Owings|R|Strikeout|F|Sinker|69|2|1|0|11|90
+T.J. Zeuch|R|Chris Owings|R|Strikeout|S|Slider|70|2|2|0|9|84
+T.J. Zeuch|R|Marco Hernandez|L|Lineout|B|Curveball|71|0|0|1|11|74
+T.J. Zeuch|R|Marco Hernandez|L|Lineout|X|Sinker|72|1|0|1|8|92
+T.J. Zeuch|R|Mookie Betts|R|Groundout|X|Curveball|73|0|0|2|6|75
+T.J. Zeuch|R|Rafael Devers|L|Double|C|Sinker|74|0|0|0|11|90
+T.J. Zeuch|R|Rafael Devers|L|Double|F|Sinker|75|0|1|0|11|88
+T.J. Zeuch|R|Rafael Devers|L|Double|F|Slider|76|0|2|0|13|82
+T.J. Zeuch|R|Rafael Devers|L|Double|B|Four-Seam Fastball|77|0|2|0|12|90
+T.J. Zeuch|R|Rafael Devers|L|Double|D|Slider|78|1|2|0|8|84
+T.J. Zeuch|R|J.D. Martinez|R|Fan Interference|C|Slider|79|0|0|0|1|81
+T.J. Zeuch|R|J.D. Martinez|R|Fan Interference|E|Sinker|80|0|1|0|1|90
+T.J. Zeuch|R|Brett Gardner|L|Single|B|Sinker|0|0|0|0|14|91
+T.J. Zeuch|R|Brett Gardner|L|Single|S|Sinker|1|1|0|0|13|92
+T.J. Zeuch|R|Brett Gardner|L|Single|D|Sinker|2|1|1|0|13|93
+T.J. Zeuch|R|Luke Voit|R|Grounded Into DP|C|Slider|3|0|0|0|3|81
+T.J. Zeuch|R|Luke Voit|R|Grounded Into DP|X|Sinker|4|0|1|0|7|93
+T.J. Zeuch|R|Mike Ford|L|Strikeout|B|Sinker|5|0|0|2|13|93
+T.J. Zeuch|R|Mike Ford|L|Strikeout|C|Changeup|6|1|0|2|13|86
+T.J. Zeuch|R|Mike Ford|L|Strikeout|S|Sinker|7|1|1|2|13|93
+T.J. Zeuch|R|Mike Ford|L|Strikeout|B|Changeup|8|1|2|2|14|85
+T.J. Zeuch|R|Mike Ford|L|Strikeout|S|Sinker|9|2|2|2|11|94
+T.J. Zeuch|R|Austin Romine|R|Groundout|C|Sinker|10|0|0|0|9|91
+T.J. Zeuch|R|Austin Romine|R|Groundout|X|Changeup|11|0|1|0|13|81
+T.J. Zeuch|R|Tyler Wade|L|Single|C|Changeup|12|0|0|1|8|81
+T.J. Zeuch|R|Tyler Wade|L|Single|D|Sinker|13|0|1|1|13|92
+T.J. Zeuch|R|DJ LeMahieu|R|Double|C|Sinker|14|0|0|1|2|91
+T.J. Zeuch|R|DJ LeMahieu|R|Double|B|Sinker|15|0|1|1|11|91
+T.J. Zeuch|R|DJ LeMahieu|R|Double|F|Slider|16|1|1|1|11|80
+T.J. Zeuch|R|DJ LeMahieu|R|Double|F|Sinker|17|1|2|1|7|92
+T.J. Zeuch|R|DJ LeMahieu|R|Double|B|Four-Seam Fastball|18|1|2|1|11|89
+T.J. Zeuch|R|DJ LeMahieu|R|Double|B|Slider|19|2|2|1|14|82
+T.J. Zeuch|R|DJ LeMahieu|R|Double|E|Sinker|20|3|2|1|4|92
+T.J. Zeuch|R|Aaron Judge|R|Walk|*B|Curveball|21|0|0|1|13|75
+T.J. Zeuch|R|Aaron Judge|R|Walk|B|Sinker|22|1|0|1|13|92
+T.J. Zeuch|R|Aaron Judge|R|Walk|B|Slider|23|2|0|1|14|82
+T.J. Zeuch|R|Aaron Judge|R|Walk|B|Sinker|24|3|0|1|13|91
+T.J. Zeuch|R|Didi Gregorius|L|Single|E|Sinker|25|0|0|1|8|92
+T.J. Zeuch|R|Gleyber Torres|R|Pop Out|B|Sinker|26|0|0|1|14|91
+T.J. Zeuch|R|Gleyber Torres|R|Pop Out|X|Sinker|27|1|0|1|2|90
+T.J. Zeuch|R|Brett Gardner|L|Walk|M|Changeup|28|0|0|2|13|80
+T.J. Zeuch|R|Brett Gardner|L|Walk|C|Slider|29|0|1|2|14|81
+T.J. Zeuch|R|Brett Gardner|L|Walk|*B|Changeup|30|0|2|2|14|83
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Sinker|31|1|2|2|14|92
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Sinker|32|2|2|2|11|93
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Curveball|33|3|2|2|14|75
+T.J. Zeuch|R|Luke Voit|R|Forceout|*B|Curveball|34|0|0|2|14|74
+T.J. Zeuch|R|Luke Voit|R|Forceout|*B|Sinker|35|1|0|2|13|91
+T.J. Zeuch|R|Luke Voit|R|Forceout|X|Sinker|36|2|0|2|1|93
+T.J. Zeuch|R|Mike Ford|L|Flyout|B|Sinker|37|0|0|0|11|88
+T.J. Zeuch|R|Mike Ford|L|Flyout|C|Curveball|38|1|0|0|13|73
+T.J. Zeuch|R|Mike Ford|L|Flyout|B|Changeup|39|1|1|0|14|82
+T.J. Zeuch|R|Mike Ford|L|Flyout|X|Sinker|40|2|1|0|7|90
+T.J. Zeuch|R|Austin Romine|R|Groundout|B|Sinker|41|0|0|1|11|91
+T.J. Zeuch|R|Austin Romine|R|Groundout|C|Sinker|42|1|0|1|12|91
+T.J. Zeuch|R|Austin Romine|R|Groundout|X|Sinker|43|1|1|1|4|90
+T.J. Zeuch|R|Tyler Wade|L|Groundout|F|Sinker|44|0|0|2|13|91
+T.J. Zeuch|R|Tyler Wade|L|Groundout|X|Sinker|45|0|1|2|7|92
+T.J. Zeuch|R|DJ LeMahieu|R|Groundout|B|Curveball|46|0|0|0|14|72
+T.J. Zeuch|R|DJ LeMahieu|R|Groundout|B|Curveball|47|1|0|0|14|72
+T.J. Zeuch|R|DJ LeMahieu|R|Groundout|C|Sinker|48|2|0|0|14|90
+T.J. Zeuch|R|DJ LeMahieu|R|Groundout|X|Changeup|49|2|1|0|8|82
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|S|Sinker|50|0|0|1|13|90
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|B|Sinker|51|0|1|1|14|92
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|C|Changeup|52|1|1|1|13|82
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|S|Slider|53|1|2|1|13|81
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|B|Changeup|54|0|0|2|13|80
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|S|Changeup|55|1|0|2|11|81
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|B|Sinker|56|1|1|2|11|91
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|B|Curveball|57|2|1|2|11|73
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|F|Sinker|58|3|1|2|11|91
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|S|Sinker|59|3|2|2|14|93
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|C|Sinker|60|0|0|0|9|88
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|B|Changeup|61|0|1|0|14|81
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|S|Sinker|62|1|1|0|14|90
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|F|Slider|63|1|2|0|13|81
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|F|Sinker|64|1|2|0|5|92
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|F|Changeup|65|1|2|0|13|82
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|F|Sinker|66|1|2|0|1|91
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|B|Curveball|67|1|2|0|13|75
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|B|Sinker|68|2|2|0|14|92
+T.J. Zeuch|R|Gleyber Torres|R|Strikeout|S|Sinker|69|3|2|0|11|91
+T.J. Zeuch|R|Brett Gardner|L|Walk|C|Sinker|70|0|0|1|13|92
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Changeup|71|0|1|1|13|83
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Sinker|72|1|1|1|14|92
+T.J. Zeuch|R|Brett Gardner|L|Walk|S|Changeup|73|2|1|1|7|83
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Sinker|74|2|2|1|14|93
+T.J. Zeuch|R|Brett Gardner|L|Walk|F|Changeup|75|3|2|1|5|84
+T.J. Zeuch|R|Brett Gardner|L|Walk|B|Sinker|76|3|2|1|14|93
+T.J. Zeuch|R|Luke Voit|R|Flyout|X|Sinker|77|0|0|1|1|91
+T.J. Zeuch|R|Mike Ford|L|Strikeout|C|Changeup|78|0|0|2|4|82
+T.J. Zeuch|R|Mike Ford|L|Strikeout|B|Changeup|79|0|1|2|14|81
+T.J. Zeuch|R|Mike Ford|L|Strikeout|B|Changeup|80|1|1|2|13|81
+T.J. Zeuch|R|Mike Ford|L|Strikeout|F|Sinker|81|2|1|2|4|91
+T.J. Zeuch|R|Mike Ford|L|Strikeout|C|Sinker|82|2|2|2|14|92
+T.J. Zeuch|R|Austin Romine|R|Double|B|Changeup|83|0|0|0|13|81
+T.J. Zeuch|R|Austin Romine|R|Double|B|Sinker|84|1|0|0|14|89
+T.J. Zeuch|R|Austin Romine|R|Double|D|Sinker|85|2|0|0|7|89
+T.J. Zeuch|R|Tyler Wade|L|Pop Out|F|Sinker|86|0|0|0|4|90
+T.J. Zeuch|R|Tyler Wade|L|Pop Out|B|Changeup|87|0|1|0|13|81
+T.J. Zeuch|R|Tyler Wade|L|Pop Out|X|Changeup|88|1|1|0|13|79
+T.J. Zeuch|R|Joey Wendle|L|Walk|B|Sinker|0|0|0|0|13|90
+T.J. Zeuch|R|Joey Wendle|L|Walk|B|Sinker|1|1|0|0|13|90
+T.J. Zeuch|R|Joey Wendle|L|Walk|B|Sinker|2|2|0|0|11|91
+T.J. Zeuch|R|Joey Wendle|L|Walk|B|Sinker|3|3|0|0|11|90
+T.J. Zeuch|R|Austin Meadows|L|Flyout|C|Sinker|4|0|0|0|8|91
+T.J. Zeuch|R|Austin Meadows|L|Flyout|B|Changeup|5|0|1|0|13|83
+T.J. Zeuch|R|Austin Meadows|L|Flyout|C|Sinker|6|1|1|0|13|90
+T.J. Zeuch|R|Austin Meadows|L|Flyout|B|Changeup|7|1|2|0|13|83
+T.J. Zeuch|R|Austin Meadows|L|Flyout|F|Sinker|8|2|2|0|13|91
+T.J. Zeuch|R|Austin Meadows|L|Flyout|F|Curveball|9|2|2|0|7|78
+T.J. Zeuch|R|Austin Meadows|L|Flyout|F|Sinker|10|2|2|0|1|92
+T.J. Zeuch|R|Austin Meadows|L|Flyout|B|Changeup|11|2|2|0|13|84
+T.J. Zeuch|R|Austin Meadows|L|Flyout|F|Changeup|12|3|2|0|11|83
+T.J. Zeuch|R|Austin Meadows|L|Flyout|F|Sinker|13|3|2|0|13|92
+T.J. Zeuch|R|Austin Meadows|L|Flyout|X|Sinker|14|3|2|0|11|92
+T.J. Zeuch|R|Tommy Pham|R|Forceout|C|Slider|15|0|0|1|6|81
+T.J. Zeuch|R|Tommy Pham|R|Forceout|B|Sinker|16|0|1|1|13|92
+T.J. Zeuch|R|Tommy Pham|R|Forceout|C|Changeup|17|1|1|1|13|85
+T.J. Zeuch|R|Tommy Pham|R|Forceout|X|Slider|18|1|2|1|5|83
+T.J. Zeuch|R|Brandon Lowe|L|Lineout|B|Curveball|19|0|0|2|11|75
+T.J. Zeuch|R|Brandon Lowe|L|Lineout|S|Sinker|20|1|0|2|4|91
+T.J. Zeuch|R|Brandon Lowe|L|Lineout|B|Sinker|21|1|1|2|11|90
+T.J. Zeuch|R|Brandon Lowe|L|Lineout|X|Sinker|22|2|1|2|8|91
+T.J. Zeuch|R|Travis d'Arnaud|R|Lineout|C|Sinker|23|0|0|0|13|89
+T.J. Zeuch|R|Travis d'Arnaud|R|Lineout|X|Slider|24|0|1|0|11|80
+T.J. Zeuch|R|Nate Lowe|L|Single|B|Sinker|25|0|0|1|14|89
+T.J. Zeuch|R|Nate Lowe|L|Single|D|Sinker|26|1|0|1|4|91
+T.J. Zeuch|R|Avisail Garcia|R|Strikeout|B|Slider|27|0|0|1|14|82
+T.J. Zeuch|R|Avisail Garcia|R|Strikeout|S|Sinker|28|1|0|1|13|89
+T.J. Zeuch|R|Avisail Garcia|R|Strikeout|F|Slider|29|1|1|1|7|83
+T.J. Zeuch|R|Avisail Garcia|R|Strikeout|S|Slider|30|1|2|1|2|84
+T.J. Zeuch|R|Kevin Kiermaier|L|Walk|B|Sinker|31|0|0|2|13|90
+T.J. Zeuch|R|Kevin Kiermaier|L|Walk|B|Sinker|32|1|0|2|13|90
+T.J. Zeuch|R|Kevin Kiermaier|L|Walk|B|Sinker|33|2|0|2|13|90
+T.J. Zeuch|R|Kevin Kiermaier|L|Walk|B|Sinker|34|3|0|2|11|90
+T.J. Zeuch|R|Willy Adames|R|Lineout|B|Slider|35|0|0|2|11|83
+T.J. Zeuch|R|Willy Adames|R|Lineout|C|Slider|36|1|0|2|2|81
+T.J. Zeuch|R|Willy Adames|R|Lineout|C|Slider|37|1|1|2|14|83
+T.J. Zeuch|R|Willy Adames|R|Lineout|F|Slider|38|1|2|2|9|84
+T.J. Zeuch|R|Willy Adames|R|Lineout|*B|Changeup|39|1|2|2|14|85
+T.J. Zeuch|R|Willy Adames|R|Lineout|F|Slider|40|2|2|2|6|82
+T.J. Zeuch|R|Willy Adames|R|Lineout|B|Sinker|41|2|2|2|13|91
+T.J. Zeuch|R|Willy Adames|R|Lineout|X|Slider|42|3|2|2|8|83
+T.J. Zeuch|R|Joey Wendle|L|Single|C|Curveball|43|0|0|0|4|74
+T.J. Zeuch|R|Joey Wendle|L|Single|D|Sinker|44|0|1|0|14|90
+T.J. Zeuch|R|Austin Meadows|L|Flyout|B|Sinker|45|0|0|0|11|89
+T.J. Zeuch|R|Austin Meadows|L|Flyout|C|Curveball|46|1|0|0|4|74
+T.J. Zeuch|R|Austin Meadows|L|Flyout|B|Changeup|47|1|1|0|13|83
+T.J. Zeuch|R|Austin Meadows|L|Flyout|X|Changeup|48|2|1|0|13|83
+T.J. Zeuch|R|Tommy Pham|R|Home Run|E|Curveball|49|0|0|1|4|75
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|B|Sinker|50|0|0|1|13|91
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|S|Curveball|51|1|0|1|3|76
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|F|Changeup|52|1|1|1|13|82
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|B|Slider|53|1|2|1|13|82
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|S|Changeup|54|2|2|1|13|83
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|S|Sinker|55|0|0|2|2|90
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|C|Changeup|56|0|1|2|13|82
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|B|Slider|57|0|2|2|14|84
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|B|Sinker|58|1|2|2|14|92
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|F|Slider|59|2|2|2|11|82
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|F|Changeup|60|2|2|2|11|83
+T.J. Zeuch|R|Travis d'Arnaud|R|Pop Out|X|Changeup|61|2|2|2|7|83
+T.J. Zeuch|R|Nate Lowe|L|Walk|F|Sinker|62|0|0|0|5|89
+T.J. Zeuch|R|Nate Lowe|L|Walk|B|Curveball|63|0|1|0|14|74
+T.J. Zeuch|R|Nate Lowe|L|Walk|B|Changeup|64|1|1|0|14|82
+T.J. Zeuch|R|Nate Lowe|L|Walk|B|Changeup|65|2|1|0|13|82
+T.J. Zeuch|R|Nate Lowe|L|Walk|B|Sinker|66|3|1|0|13|90
+T.J. Zeuch|R|Avisail Garcia|R|Groundout|B|Changeup|67|0|0|0|13|81
+T.J. Zeuch|R|Avisail Garcia|R|Groundout|S|Sinker|68|1|0|0|7|90
+T.J. Zeuch|R|Avisail Garcia|R|Groundout|X|Sinker|69|1|1|0|11|89
+T.J. Zeuch|R|Kevin Kiermaier|L|Strikeout|B|Sinker|70|0|0|1|11|89
+T.J. Zeuch|R|Kevin Kiermaier|L|Strikeout|S|Changeup|71|1|0|1|14|82
+T.J. Zeuch|R|Kevin Kiermaier|L|Strikeout|F|Sinker|72|1|1|1|5|90
+T.J. Zeuch|R|Kevin Kiermaier|L|Strikeout|C|Slider|73|1|2|1|11|82
+T.J. Zeuch|R|Willy Adames|R|Single|B|Sinker|74|0|0|2|13|91
+T.J. Zeuch|R|Willy Adames|R|Single|E|Slider|75|1|0|2|9|82
+T.J. Zeuch|R|Joey Wendle|L|Flyout|*B|Sinker|76|0|0|2|14|91
+T.J. Zeuch|R|Joey Wendle|L|Flyout|F|Changeup|77|1|0|2|8|81
+T.J. Zeuch|R|Joey Wendle|L|Flyout|X|Changeup|78|1|1|2|13|83
+T.J. Zeuch|R|Austin Meadows|L|Groundout|C|Sinker|79|0|0|0|8|88
+T.J. Zeuch|R|Austin Meadows|L|Groundout|C|Slider|80|0|1|0|13|80
+T.J. Zeuch|R|Austin Meadows|L|Groundout|B|Sinker|81|0|2|0|11|88
+T.J. Zeuch|R|Austin Meadows|L|Groundout|X|Slider|82|1|2|0|13|81
+T.J. Zeuch|R|Tommy Pham|R|Groundout|C|Sinker|83|0|0|1|14|90
+T.J. Zeuch|R|Tommy Pham|R|Groundout|X|Sinker|84|0|1|1|1|91
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|C|Changeup|85|0|0|2|1|82
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|F|Changeup|86|0|1|2|8|84
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|B|Four-Seam Fastball|87|0|2|2|11|89
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|B|Slider|88|1|2|2|11|82
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|B|Changeup|89|2|2|2|13|83
+T.J. Zeuch|R|Brandon Lowe|L|Strikeout|S|Changeup|90|3|2|2|13|83
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|B|Sinker|0|0|0|0|14|93
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|B|Sinker|1|1|0|0|14|93
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|X|Sinker|2|2|0|0|12|93
+T.J. Zeuch|R|Rafael Ortega|L|Single|C|Sinker|3|0|0|1|5|94
+T.J. Zeuch|R|Rafael Ortega|L|Single|B|Curveball|4|0|1|1|12|76
+T.J. Zeuch|R|Rafael Ortega|L|Single|D|Changeup|5|1|1|1|2|83
+T.J. Zeuch|R|Mike Foltynewicz|R|Strikeout|C|Sinker|6|0|0|1|6|90
+T.J. Zeuch|R|Mike Foltynewicz|R|Strikeout|B|Sinker|7|0|1|1|14|93
+T.J. Zeuch|R|Mike Foltynewicz|R|Strikeout|L|Sinker|8|1|1|1|14|92
+T.J. Zeuch|R|Mike Foltynewicz|R|Strikeout|L|Curveball|9|1|2|1|1|77
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Lineout|B|Sinker|10|0|0|2|14|93
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Lineout|B|Changeup|11|1|0|2|14|83
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Lineout|X|Sinker|12|2|0|2|8|93
+T.J. Zeuch|R|Ozzie Albies|L|Groundout|C|Slider|13|0|0|0|12|82
+T.J. Zeuch|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|14|0|1|0|12|90
+T.J. Zeuch|R|Ozzie Albies|L|Groundout|X|Sinker|15|1|1|0|5|93
+T.J. Zeuch|R|Freddie Freeman|L|Single|B|Slider|16|0|0|1|11|82
+T.J. Zeuch|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|17|1|0|1|11|91
+T.J. Zeuch|R|Freddie Freeman|L|Single|D|Sinker|18|2|0|1|8|93
+T.J. Zeuch|R|Josh Donaldson|R|Groundout|F|Sinker|19|0|0|1|8|90
+T.J. Zeuch|R|Josh Donaldson|R|Groundout|F|Changeup|20|0|1|1|1|83
+T.J. Zeuch|R|Josh Donaldson|R|Groundout|X|Slider|21|0|2|1|6|84
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|C|Slider|22|0|0|2|6|83
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|B|Slider|23|0|1|2|13|82
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|C|Sinker|24|1|1|2|9|92
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|B|Sinker|25|1|2|2|12|92
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|F|Sinker|26|2|2|2|1|93
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|F|Slider|27|2|2|2|1|84
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|F|Sinker|28|2|2|2|11|93
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|B|Slider|29|2|2|2|14|84
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|S|Slider|30|3|2|2|9|83
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|B|Sinker|31|0|0|0|14|90
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|B|Sinker|32|1|0|0|14|89
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|B|Changeup|33|2|0|0|14|84
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|C|Sinker|34|3|0|0|7|92
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|C|Sinker|35|3|1|0|14|92
+T.J. Zeuch|R|Dansby Swanson|R|Strikeout|S|Slider|36|3|2|0|14|83
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|B|Slider|37|0|0|1|14|84
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|F|Slider|38|1|0|1|9|84
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|S|Slider|39|1|1|1|2|86
+T.J. Zeuch|R|Tyler Flowers|R|Groundout|X|Slider|40|1|2|1|9|86
+T.J. Zeuch|R|Rafael Ortega|L|Lineout|B|Sinker|41|0|0|2|14|93
+T.J. Zeuch|R|Rafael Ortega|L|Lineout|B|Changeup|42|1|0|2|13|85
+T.J. Zeuch|R|Rafael Ortega|L|Lineout|F|Sinker|43|2|0|2|8|92
+T.J. Zeuch|R|Rafael Ortega|L|Lineout|S|Slider|44|2|1|2|9|82
+T.J. Zeuch|R|Rafael Ortega|L|Lineout|X|Slider|45|2|2|2|13|84
+T.J. Zeuch|R|Charlie Culberson|R|Groundout|L|Sinker|46|0|0|0|1|92
+T.J. Zeuch|R|Charlie Culberson|R|Groundout|B|Slider|47|0|1|0|14|83
+T.J. Zeuch|R|Charlie Culberson|R|Groundout|X|Slider|48|1|1|0|9|83
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|C|Changeup|49|0|0|1|5|83
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|B|Four-Seam Fastball|50|0|1|1|12|90
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|B|Changeup|51|1|1|1|14|83
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|B|Slider|52|2|1|1|11|83
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|S|Slider|53|3|1|1|9|84
+T.J. Zeuch|R|Ronald Acuna Jr.|R|Walk|B|Sinker|54|3|2|1|12|92
+T.J. Zeuch|R|Ozzie Albies|L|Flyout|C|Sinker|55|0|0|1|2|91
+T.J. Zeuch|R|Ozzie Albies|L|Flyout|X|Changeup|56|0|1|1|5|84
+T.J. Zeuch|R|Freddie Freeman|L|Walk|B|Sinker|57|0|0|2|11|92
+T.J. Zeuch|R|Freddie Freeman|L|Walk|B|Changeup|58|1|0|2|13|81
+T.J. Zeuch|R|Freddie Freeman|L|Walk|F|Changeup|59|2|0|2|7|81
+T.J. Zeuch|R|Freddie Freeman|L|Walk|B|Slider|60|2|1|2|11|82
+T.J. Zeuch|R|Freddie Freeman|L|Walk|B|Changeup|61|3|1|2|14|82
+T.J. Zeuch|R|Josh Donaldson|R|Double|F|Sinker|62|0|0|2|8|92
+T.J. Zeuch|R|Josh Donaldson|R|Double|B|Curveball|63|0|1|2|14|76
+T.J. Zeuch|R|Josh Donaldson|R|Double|B|Slider|64|1|1|2|14|83
+T.J. Zeuch|R|Josh Donaldson|R|Double|B|Sinker|65|2|1|2|14|92
+T.J. Zeuch|R|Josh Donaldson|R|Double|C|Slider|66|3|1|2|2|83
+T.J. Zeuch|R|Josh Donaldson|R|Double|E|Slider|67|3|2|2|7|86
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|B|Curveball|68|0|0|2|14|75
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|B|Sinker|69|1|0|2|14|91
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|F|Sinker|70|2|0|2|7|89
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|C|Sinker|71|2|1|2|12|91
+T.J. Zeuch|R|Matt Joyce|L|Strikeout|C|Sinker|72|2|2|2|14|92
+T.J. Zeuch|R|Brett Gardner|L|Single|C|Sinker|0|0|0|0|11|91
+T.J. Zeuch|R|Brett Gardner|L|Single|B|Changeup|1|0|1|0|13|84
+T.J. Zeuch|R|Brett Gardner|L|Single|B|Sinker|2|1|1|0|13|92
+T.J. Zeuch|R|Brett Gardner|L|Single|F|Changeup|3|2|1|0|11|84
+T.J. Zeuch|R|Brett Gardner|L|Single|D|Changeup|4|2|2|0|7|84
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|B|Sinker|5|0|0|0|14|92
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|S|Slider|6|1|0|0|14|82
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|C|Slider|7|1|1|0|8|84
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|B|Changeup|8|1|2|0|13|84
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|B|Sinker|9|2|2|0|13|93
+T.J. Zeuch|R|Aaron Judge|R|Strikeout|S|Sinker|10|3|2|0|13|92
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|C|Curveball|11|0|0|1|11|78
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|B|Sinker|12|0|1|1|11|92
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|C|Sinker|13|1|1|1|5|92
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|F|Four-Seam Fastball|14|1|2|1|1|93
+T.J. Zeuch|R|Didi Gregorius|L|Strikeout|S|Slider|15|1|2|1|14|86
+T.J. Zeuch|R|Giancarlo Stanton|R|Strikeout|C|Sinker|16|0|0|2|13|93
+T.J. Zeuch|R|Giancarlo Stanton|R|Strikeout|C|Changeup|17|0|1|2|13|83
+T.J. Zeuch|R|Giancarlo Stanton|R|Strikeout|B|Slider|18|0|2|2|14|86
+T.J. Zeuch|R|Giancarlo Stanton|R|Strikeout|C|Changeup|19|1|2|2|13|84
+T.J. Zeuch|R|Gio Urshela|R|Strikeout|S|Sinker|20|0|0|0|8|91
+T.J. Zeuch|R|Gio Urshela|R|Strikeout|B|Slider|21|0|1|0|14|85
+T.J. Zeuch|R|Gio Urshela|R|Strikeout|C|Slider|22|1|1|0|6|83
+T.J. Zeuch|R|Gio Urshela|R|Strikeout|S|Changeup|23|1|2|0|13|86
+T.J. Zeuch|R|Mike Ford|L|Groundout|S|Sinker|24|0|0|1|11|92
+T.J. Zeuch|R|Mike Ford|L|Groundout|F|Curveball|25|0|1|1|9|78
+T.J. Zeuch|R|Mike Ford|L|Groundout|B|Slider|26|0|2|1|14|85
+T.J. Zeuch|R|Mike Ford|L|Groundout|B|Changeup|27|1|2|1|13|87
+T.J. Zeuch|R|Mike Ford|L|Groundout|F|Sinker|28|2|2|1|11|92
+T.J. Zeuch|R|Mike Ford|L|Groundout|X|Sinker|29|2|2|1|13|93
+T.J. Zeuch|R|Clint Frazier|R|Groundout|B|Slider|30|0|0|2|12|85
+T.J. Zeuch|R|Clint Frazier|R|Groundout|X|Sinker|31|1|0|2|5|92
+T.J. Zeuch|R|Tyler Wade|L|Lineout|B|Sinker|32|0|0|2|11|90
+T.J. Zeuch|R|Tyler Wade|L|Lineout|F|Sinker|33|1|0|2|11|90
+T.J. Zeuch|R|Tyler Wade|L|Lineout|X|Sinker|34|1|1|2|4|91
+T.J. Zeuch|R|Kyle Higashioka|R|Groundout|F|Sinker|35|0|0|0|13|91
+T.J. Zeuch|R|Kyle Higashioka|R|Groundout|F|Sinker|36|0|1|0|7|92
+T.J. Zeuch|R|Kyle Higashioka|R|Groundout|B|Slider|37|0|2|0|14|85
+T.J. Zeuch|R|Kyle Higashioka|R|Groundout|X|Slider|38|1|2|0|14|84
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|B|Changeup|39|0|0|1|11|82
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|B|Sinker|40|1|0|1|13|92
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|B|Sinker|41|2|0|1|11|92
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|C|Sinker|42|3|0|1|6|92
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|C|Sinker|43|3|1|1|3|93
+T.J. Zeuch|R|Brett Gardner|L|Strikeout|S|Sinker|44|3|2|1|11|92
+T.J. Zeuch|R|Aaron Judge|R|Double|D|Sinker|45|0|0|2|5|91
+T.J. Zeuch|R|Didi Gregorius|L|Groundout|L|Sinker|46|0|0|2|11|90
+T.J. Zeuch|R|Didi Gregorius|L|Groundout|S|Changeup|47|0|1|2|11|81
+T.J. Zeuch|R|Didi Gregorius|L|Groundout|B|Slider|48|0|2|2|14|85
+T.J. Zeuch|R|Didi Gregorius|L|Groundout|F|Sinker|49|1|2|2|5|93
+T.J. Zeuch|R|Didi Gregorius|L|Groundout|X|Sinker|50|1|2|2|11|93
+T.J. Zeuch|R|Giancarlo Stanton|R|Double|F|Sinker|51|0|0|0|13|92
+T.J. Zeuch|R|Giancarlo Stanton|R|Double|B|Four-Seam Fastball|52|0|1|0|12|91
+T.J. Zeuch|R|Giancarlo Stanton|R|Double|E|Sinker|53|1|1|0|13|92
+T.J. Zeuch|R|Gio Urshela|R|Lineout|F|Changeup|54|0|0|0|1|82
+T.J. Zeuch|R|Gio Urshela|R|Lineout|B|Slider|55|0|1|0|14|85
+T.J. Zeuch|R|Gio Urshela|R|Lineout|F|Slider|56|1|1|0|1|84
+T.J. Zeuch|R|Gio Urshela|R|Lineout|*B|Sinker|57|1|2|0|14|93
+T.J. Zeuch|R|Gio Urshela|R|Lineout|X|Changeup|58|2|2|0|13|85
+T.J. Zeuch|R|Mike Ford|L|Single|C|Sinker|59|0|0|1|5|94
+T.J. Zeuch|R|Mike Ford|L|Single|B|Sinker|60|0|1|1|11|94
+T.J. Zeuch|R|Mike Ford|L|Single|B|Sinker|61|1|1|1|11|93
+T.J. Zeuch|R|Mike Ford|L|Single|B|Sinker|62|2|1|1|11|93
+T.J. Zeuch|R|Mike Ford|L|Single|E|Sinker|63|3|1|1|7|92
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|C|Sinker|64|0|0|1|5|92
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|B|Slider|65|0|1|1|14|84
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|S|Changeup|66|1|1|1|13|83
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|*B|Changeup|67|1|2|1|13|83
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|F|Sinker|68|2|2|1|13|93
+T.J. Zeuch|R|Clint Frazier|R|Strikeout|S|Slider|69|2|2|1|14|86

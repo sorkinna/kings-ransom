@@ -1,0 +1,704 @@
+Matt Hall|L|Jose Ramirez|R|Single|B|Four-Seam Fastball|0|0|0|2|13|88
+Matt Hall|L|Jose Ramirez|R|Single|F|Four-Seam Fastball|1|1|0|2|2|88
+Matt Hall|L|Jose Ramirez|R|Single|D|Four-Seam Fastball|2|1|1|2|7|87
+Matt Hall|L|Edwin Encarnacion|R|Field Error|B|Curveball|3|0|0|2|13|76
+Matt Hall|L|Edwin Encarnacion|R|Field Error|E|Four-Seam Fastball|4|1|0|2|5|89
+Matt Hall|L|Yonder Alonso|L|Field Error|B|Four-Seam Fastball|5|0|0|2|13|89
+Matt Hall|L|Yonder Alonso|L|Field Error|D|Four-Seam Fastball|6|1|0|2|13|88
+Matt Hall|L|Melky Cabrera|R|Single|C|Four-Seam Fastball|7|0|0|2|6|90
+Matt Hall|L|Melky Cabrera|R|Single|C|Four-Seam Fastball|8|0|1|2|8|88
+Matt Hall|L|Melky Cabrera|R|Single|F|Curveball|9|0|2|2|12|76
+Matt Hall|L|Melky Cabrera|R|Single|D|Four-Seam Fastball|10|0|2|2|1|89
+Matt Hall|L|Yandy Diaz|R|Forceout|E|Curveball|11|0|0|2|6|74
+Matt Hall|L|Jason Kipnis|L|Sac Fly|E|Four-Seam Fastball|12|0|0|0|7|89
+Matt Hall|L|Roberto Perez|R|Single|C|Four-Seam Fastball|13|0|0|1|8|89
+Matt Hall|L|Roberto Perez|R|Single|B|Curveball|14|0|1|1|12|75
+Matt Hall|L|Roberto Perez|R|Single|B|Curveball|15|1|1|1|13|75
+Matt Hall|L|Roberto Perez|R|Single|F|Four-Seam Fastball|16|2|1|1|9|88
+Matt Hall|L|Roberto Perez|R|Single|F|Four-Seam Fastball|17|2|2|1|11|89
+Matt Hall|L|Roberto Perez|R|Single|F|Curveball|18|2|2|1|8|75
+Matt Hall|L|Roberto Perez|R|Single|F|Four-Seam Fastball|19|2|2|1|6|90
+Matt Hall|L|Roberto Perez|R|Single|E|Four-Seam Fastball|20|2|2|1|11|90
+Matt Hall|L|Francisco Lindor|R|Groundout|B|Four-Seam Fastball|21|0|0|1|11|90
+Matt Hall|L|Francisco Lindor|R|Groundout|S|Curveball|22|1|0|1|14|75
+Matt Hall|L|Francisco Lindor|R|Groundout|F|Four-Seam Fastball|23|1|1|1|12|89
+Matt Hall|L|Francisco Lindor|R|Groundout|B|Curveball|24|1|2|1|12|76
+Matt Hall|L|Francisco Lindor|R|Groundout|F|Curveball|25|2|2|1|13|77
+Matt Hall|L|Francisco Lindor|R|Groundout|B|Four-Seam Fastball|26|2|2|1|12|90
+Matt Hall|L|Francisco Lindor|R|Groundout|X|Four-Seam Fastball|27|3|2|1|12|89
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|28|0|0|2|11|87
+Matt Hall|L|Michael Brantley|L|Walk|B|Curveball|29|1|0|2|13|75
+Matt Hall|L|Michael Brantley|L|Walk|C|Four-Seam Fastball|30|2|0|2|4|87
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|31|2|1|2|12|87
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|32|3|1|2|12|86
+Matt Hall|L|Jose Ramirez|R|Double|C|Curveball|33|0|0|2|8|75
+Matt Hall|L|Jose Ramirez|R|Double|C|Curveball|34|0|1|2|9|75
+Matt Hall|L|Jose Ramirez|R|Double|B|Four-Seam Fastball|35|0|2|2|12|89
+Matt Hall|L|Jose Ramirez|R|Double|E|Four-Seam Fastball|36|1|2|2|2|88
+Matt Hall|L|Edwin Encarnacion|R|Single|B|Curveball|37|0|0|2|12|75
+Matt Hall|L|Edwin Encarnacion|R|Single|F|Four-Seam Fastball|38|1|0|2|11|88
+Matt Hall|L|Edwin Encarnacion|R|Single|B|Curveball|39|1|1|2|14|74
+Matt Hall|L|Edwin Encarnacion|R|Single|F|Four-Seam Fastball|40|2|1|2|13|87
+Matt Hall|L|Edwin Encarnacion|R|Single|E|Curveball|41|2|2|2|5|75
+Matt Hall|L|Yonder Alonso|L|Single|C|Four-Seam Fastball|42|0|0|2|4|89
+Matt Hall|L|Yonder Alonso|L|Single|D|Curveball|43|0|1|2|7|73
+Matt Hall|L|Melky Cabrera|R|Single|B|Curveball|44|0|0|2|12|73
+Matt Hall|L|Melky Cabrera|R|Single|*B|Four-Seam Fastball|45|1|0|2|13|89
+Matt Hall|L|Melky Cabrera|R|Single|E|Four-Seam Fastball|46|2|0|2|4|87
+Matt Hall|L|Yandy Diaz|R|Single|D|Four-Seam Fastball|47|0|0|2|4|88
+Matt Hall|L|Jason Kipnis|L|Hit By Pitch|S|Curveball|48|0|0|2|13|73
+Matt Hall|L|Jason Kipnis|L|Hit By Pitch|*B|Curveball|49|0|1|2|13|73
+Matt Hall|L|Jason Kipnis|L|Hit By Pitch|C|Four-Seam Fastball|50|1|1|2|8|88
+Matt Hall|L|Jason Kipnis|L|Hit By Pitch|F|Four-Seam Fastball|51|1|2|2|2|87
+Matt Hall|L|Jason Kipnis|L|Hit By Pitch|H|Curveball|52|1|2|2|12|76
+Matt Hall|L|Tyler Austin|R|Strikeout|B|Curveball|0|0|0|0|13|74
+Matt Hall|L|Tyler Austin|R|Strikeout|C|Curveball|1|1|0|0|12|74
+Matt Hall|L|Tyler Austin|R|Strikeout|F|Curveball|2|1|1|0|9|74
+Matt Hall|L|Tyler Austin|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|13|90
+Matt Hall|L|Tyler Austin|R|Strikeout|S|Four-Seam Fastball|4|2|2|0|6|91
+Matt Hall|L|Ehire Adrianza|L|Flyout|S|Curveball|5|0|0|1|13|73
+Matt Hall|L|Ehire Adrianza|L|Flyout|B|Curveball|6|0|1|1|13|74
+Matt Hall|L|Ehire Adrianza|L|Flyout|B|Four-Seam Fastball|7|1|1|1|13|89
+Matt Hall|L|Ehire Adrianza|L|Flyout|F|Four-Seam Fastball|8|2|1|1|4|88
+Matt Hall|L|Ehire Adrianza|L|Flyout|X|Curveball|9|2|2|1|2|75
+Matt Hall|L|Willians Astudillo|R|Groundout|C|Four-Seam Fastball|10|0|0|2|5|89
+Matt Hall|L|Willians Astudillo|R|Groundout|F|Curveball|11|0|1|2|13|76
+Matt Hall|L|Willians Astudillo|R|Groundout|F|Four-Seam Fastball|12|0|2|2|13|89
+Matt Hall|L|Willians Astudillo|R|Groundout|B|Four-Seam Fastball|13|0|2|2|11|88
+Matt Hall|L|Willians Astudillo|R|Groundout|B|Curveball|14|1|2|2|13|76
+Matt Hall|L|Willians Astudillo|R|Groundout|F|Four-Seam Fastball|15|2|2|2|4|90
+Matt Hall|L|Willians Astudillo|R|Groundout|F|Four-Seam Fastball|16|2|2|2|4|89
+Matt Hall|L|Willians Astudillo|R|Groundout|X|Curveball|17|2|2|2|14|75
+Matt Hall|L|Gregorio Petit|R|Flyout|B|Four-Seam Fastball|18|0|0|0|13|88
+Matt Hall|L|Gregorio Petit|R|Flyout|B|Changeup|19|1|0|0|14|79
+Matt Hall|L|Gregorio Petit|R|Flyout|C|Four-Seam Fastball|20|2|0|0|8|87
+Matt Hall|L|Gregorio Petit|R|Flyout|X|Four-Seam Fastball|21|2|1|0|2|87
+Matt Hall|L|Logan Forsythe|R|Groundout|B|Curveball|22|0|0|1|13|75
+Matt Hall|L|Logan Forsythe|R|Groundout|C|Four-Seam Fastball|23|1|0|1|2|88
+Matt Hall|L|Logan Forsythe|R|Groundout|S|Four-Seam Fastball|24|1|1|1|1|89
+Matt Hall|L|Logan Forsythe|R|Groundout|X|Four-Seam Fastball|25|1|2|1|1|90
+Matt Hall|L|Jorge Polanco|R|Walk|B|Curveball|26|0|0|2|13|75
+Matt Hall|L|Jorge Polanco|R|Walk|B|Curveball|27|1|0|2|12|74
+Matt Hall|L|Jorge Polanco|R|Walk|B|Four-Seam Fastball|28|2|0|2|13|89
+Matt Hall|L|Jorge Polanco|R|Walk|B|Four-Seam Fastball|29|3|0|2|13|89
+Matt Hall|L|Jake Cave|L|Strikeout|B|Four-Seam Fastball|30|0|0|2|13|89
+Matt Hall|L|Jake Cave|L|Strikeout|S|Curveball|31|1|0|2|8|74
+Matt Hall|L|Jake Cave|L|Strikeout|B|Curveball|32|1|1|2|13|75
+Matt Hall|L|Jake Cave|L|Strikeout|C|Four-Seam Fastball|33|2|1|2|7|88
+Matt Hall|L|Jake Cave|L|Strikeout|S|Four-Seam Fastball|34|2|2|2|13|89
+Matt Hall|L|Robbie Grossman|R|Single|D|Four-Seam Fastball|35|0|0|0|4|88
+Matt Hall|L|Max Kepler|L|Groundout|C|Four-Seam Fastball|36|0|0|0|4|87
+Matt Hall|L|Max Kepler|L|Groundout|X|Curveball|37|0|1|0|9|73
+Matt Hall|L|Tyler Austin|R|Sac Fly|C|Four-Seam Fastball|38|0|0|1|13|89
+Matt Hall|L|Tyler Austin|R|Sac Fly|B|Curveball|39|0|1|1|13|76
+Matt Hall|L|Tyler Austin|R|Sac Fly|C|Four-Seam Fastball|40|1|1|1|12|89
+Matt Hall|L|Tyler Austin|R|Sac Fly|F|Curveball|41|1|2|1|14|75
+Matt Hall|L|Tyler Austin|R|Sac Fly|F|Four-Seam Fastball|42|1|2|1|4|89
+Matt Hall|L|Tyler Austin|R|Sac Fly|*B|Four-Seam Fastball|43|1|2|1|14|91
+Matt Hall|L|Tyler Austin|R|Sac Fly|E|Four-Seam Fastball|44|2|2|1|6|89
+Matt Hall|L|Ehire Adrianza|L|Double|B|Curveball|45|0|0|2|13|74
+Matt Hall|L|Ehire Adrianza|L|Double|D|Four-Seam Fastball|46|1|0|2|5|88
+Matt Hall|L|Willians Astudillo|R|Single|F|Four-Seam Fastball|47|0|0|2|13|88
+Matt Hall|L|Willians Astudillo|R|Single|E|Four-Seam Fastball|48|0|1|2|3|88
+Matt Hall|L|Hunter Dozier|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|90
+Matt Hall|L|Hunter Dozier|R|Groundout|B|Four-Seam Fastball|1|1|0|0|11|89
+Matt Hall|L|Hunter Dozier|R|Groundout|C|Four-Seam Fastball|2|2|0|0|9|89
+Matt Hall|L|Hunter Dozier|R|Groundout|X|Four-Seam Fastball|3|2|1|0|4|89
+Matt Hall|L|Jorge Bonifacio|R|Strikeout|B|Curveball|4|0|0|1|14|76
+Matt Hall|L|Jorge Bonifacio|R|Strikeout|C|Four-Seam Fastball|5|1|0|1|6|90
+Matt Hall|L|Jorge Bonifacio|R|Strikeout|B|Four-Seam Fastball|6|1|1|1|12|91
+Matt Hall|L|Jorge Bonifacio|R|Strikeout|C|Four-Seam Fastball|7|2|1|1|8|90
+Matt Hall|L|Jorge Bonifacio|R|Strikeout|S|Curveball|8|2|2|1|13|76
+Matt Hall|L|Alcides Escobar|R|Groundout|B|Curveball|9|0|0|2|13|75
+Matt Hall|L|Alcides Escobar|R|Groundout|B|Four-Seam Fastball|10|1|0|2|14|90
+Matt Hall|L|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|11|2|0|2|12|89
+Matt Hall|L|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|12|2|1|2|12|89
+Matt Hall|L|Alcides Escobar|R|Groundout|F|Curveball|13|2|2|2|14|75
+Matt Hall|L|Alcides Escobar|R|Groundout|X|Curveball|14|2|2|2|14|76
+Matt Hall|L|Rosell Herrera|R|Groundout|C|Four-Seam Fastball|15|0|0|0|9|88
+Matt Hall|L|Rosell Herrera|R|Groundout|B|Curveball|16|0|1|0|12|75
+Matt Hall|L|Rosell Herrera|R|Groundout|F|Curveball|17|1|1|0|14|74
+Matt Hall|L|Rosell Herrera|R|Groundout|B|Four-Seam Fastball|18|1|2|0|12|88
+Matt Hall|L|Rosell Herrera|R|Groundout|F|Four-Seam Fastball|19|2|2|0|3|90
+Matt Hall|L|Rosell Herrera|R|Groundout|X|Curveball|20|2|2|0|12|75
+Matt Hall|L|Cam Gallagher|R|Strikeout|C|Four-Seam Fastball|21|0|0|1|3|89
+Matt Hall|L|Cam Gallagher|R|Strikeout|B|Four-Seam Fastball|22|0|1|1|14|91
+Matt Hall|L|Cam Gallagher|R|Strikeout|B|Curveball|23|1|1|1|13|75
+Matt Hall|L|Cam Gallagher|R|Strikeout|F|Four-Seam Fastball|24|2|1|1|7|89
+Matt Hall|L|Cam Gallagher|R|Strikeout|B|Four-Seam Fastball|25|2|2|1|12|89
+Matt Hall|L|Cam Gallagher|R|Strikeout|C|Four-Seam Fastball|26|3|2|1|14|89
+Matt Hall|L|Whit Merrifield|R|Triple|B|Curveball|27|0|0|2|12|75
+Matt Hall|L|Whit Merrifield|R|Triple|B|Four-Seam Fastball|28|1|0|2|12|89
+Matt Hall|L|Whit Merrifield|R|Triple|F|Four-Seam Fastball|29|2|0|2|8|88
+Matt Hall|L|Whit Merrifield|R|Triple|D|Four-Seam Fastball|30|2|1|2|9|89
+Matt Hall|L|Adalberto Mondesi|R|Groundout|X|Curveball|31|0|0|2|6|75
+Matt Hall|L|Jorge Polanco|R|Single|C|Four-Seam Fastball|0|0|0|0|14|91
+Matt Hall|L|Jorge Polanco|R|Single|B|Four-Seam Fastball|1|0|1|0|12|89
+Matt Hall|L|Jorge Polanco|R|Single|C|Four-Seam Fastball|2|1|1|0|14|91
+Matt Hall|L|Jorge Polanco|R|Single|D|Curveball|3|1|2|0|6|76
+Matt Hall|L|Logan Forsythe|R|Single|C|Four-Seam Fastball|4|0|0|0|7|89
+Matt Hall|L|Logan Forsythe|R|Single|B|Four-Seam Fastball|5|0|1|0|13|89
+Matt Hall|L|Logan Forsythe|R|Single|D|Four-Seam Fastball|6|1|1|0|9|90
+Matt Hall|L|Robbie Grossman|R|Walk|B|Curveball|7|0|0|1|13|76
+Matt Hall|L|Robbie Grossman|R|Walk|*B|Four-Seam Fastball|8|1|0|1|13|89
+Matt Hall|L|Robbie Grossman|R|Walk|B|Four-Seam Fastball|9|2|0|1|13|89
+Matt Hall|L|Robbie Grossman|R|Walk|C|Four-Seam Fastball|10|3|0|1|3|89
+Matt Hall|L|Robbie Grossman|R|Walk|B|Four-Seam Fastball|11|3|1|1|12|88
+Matt Hall|L|Tyler Austin|R|Double|B|Four-Seam Fastball|12|0|0|1|13|90
+Matt Hall|L|Tyler Austin|R|Double|S|Four-Seam Fastball|13|1|0|1|5|89
+Matt Hall|L|Tyler Austin|R|Double|S|Curveball|14|1|1|1|7|74
+Matt Hall|L|Tyler Austin|R|Double|F|Curveball|15|1|2|1|8|75
+Matt Hall|L|Tyler Austin|R|Double|E|Four-Seam Fastball|16|1|2|1|12|89
+Matt Hall|L|Willians Astudillo|R|Double|*B|Curveball|17|0|0|1|13|76
+Matt Hall|L|Willians Astudillo|R|Double|F|Curveball|18|1|0|1|13|74
+Matt Hall|L|Willians Astudillo|R|Double|B|Curveball|19|1|1|1|12|73
+Matt Hall|L|Willians Astudillo|R|Double|F|Four-Seam Fastball|20|2|1|1|8|89
+Matt Hall|L|Willians Astudillo|R|Double|*B|Curveball|21|2|2|1|13|75
+Matt Hall|L|Willians Astudillo|R|Double|E|Four-Seam Fastball|22|3|2|1|4|88
+Matt Hall|L|Max Kepler|L|Single|B|Curveball|23|0|0|1|13|74
+Matt Hall|L|Max Kepler|L|Single|B|Four-Seam Fastball|24|1|0|1|13|89
+Matt Hall|L|Max Kepler|L|Single|C|Four-Seam Fastball|25|2|0|1|13|89
+Matt Hall|L|Max Kepler|L|Single|B|Four-Seam Fastball|26|2|1|1|14|88
+Matt Hall|L|Max Kepler|L|Single|E|Four-Seam Fastball|27|3|1|1|4|88
+Matt Hall|L|Johnny Field|R|Forceout|C|Four-Seam Fastball|28|0|0|1|6|90
+Matt Hall|L|Johnny Field|R|Forceout|F|Curveball|29|0|1|1|13|75
+Matt Hall|L|Johnny Field|R|Forceout|*B|Curveball|30|0|2|1|14|74
+Matt Hall|L|Johnny Field|R|Forceout|X|Four-Seam Fastball|31|1|2|1|4|90
+Matt Hall|L|Gregorio Petit|R|Groundout|C|Four-Seam Fastball|32|0|0|2|14|90
+Matt Hall|L|Gregorio Petit|R|Groundout|C|Four-Seam Fastball|33|0|1|2|3|90
+Matt Hall|L|Gregorio Petit|R|Groundout|X|Curveball|34|0|2|2|13|74
+Matt Hall|L|Curtis Granderson|L|Single|C|Four-Seam Fastball|0|0|0|2|2|88
+Matt Hall|L|Curtis Granderson|L|Single|B|Four-Seam Fastball|1|0|1|2|11|89
+Matt Hall|L|Curtis Granderson|L|Single|B|Curveball|2|1|1|2|12|73
+Matt Hall|L|Curtis Granderson|L|Single|B|Four-Seam Fastball|3|2|1|2|14|89
+Matt Hall|L|Curtis Granderson|L|Single|D|Four-Seam Fastball|4|3|1|2|9|88
+Matt Hall|L|Tyler Saladino|R|Lineout|B|Curveball|5|0|0|2|12|74
+Matt Hall|L|Tyler Saladino|R|Lineout|C|Four-Seam Fastball|6|1|0|2|9|89
+Matt Hall|L|Tyler Saladino|R|Lineout|F|Four-Seam Fastball|7|1|1|2|4|88
+Matt Hall|L|Tyler Saladino|R|Lineout|X|Four-Seam Fastball|8|1|2|2|4|90
+Matt Hall|L|Hernan Perez|R|Groundout|C|Four-Seam Fastball|9|0|0|0|6|87
+Matt Hall|L|Hernan Perez|R|Groundout|S|Four-Seam Fastball|10|0|1|0|11|86
+Matt Hall|L|Hernan Perez|R|Groundout|B|Four-Seam Fastball|11|0|2|0|12|88
+Matt Hall|L|Hernan Perez|R|Groundout|B|Curveball|12|1|2|0|13|74
+Matt Hall|L|Hernan Perez|R|Groundout|F|Four-Seam Fastball|13|2|2|0|13|88
+Matt Hall|L|Hernan Perez|R|Groundout|X|Curveball|14|2|2|0|6|73
+Matt Hall|L|Keon Broxton|R|Strikeout|C|Curveball|15|0|0|1|9|74
+Matt Hall|L|Keon Broxton|R|Strikeout|C|Curveball|16|0|1|1|14|74
+Matt Hall|L|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|17|0|2|1|12|91
+Matt Hall|L|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|18|1|2|1|11|88
+Matt Hall|L|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|19|2|2|1|3|88
+Matt Hall|L|Travis Shaw|L|Home Run|F|Four-Seam Fastball|20|0|0|2|7|88
+Matt Hall|L|Travis Shaw|L|Home Run|B|Curveball|21|0|1|2|13|75
+Matt Hall|L|Travis Shaw|L|Home Run|S|Curveball|22|1|1|2|5|74
+Matt Hall|L|Travis Shaw|L|Home Run|F|Curveball|23|1|2|2|7|75
+Matt Hall|L|Travis Shaw|L|Home Run|F|Four-Seam Fastball|24|1|2|2|8|91
+Matt Hall|L|Travis Shaw|L|Home Run|B|Four-Seam Fastball|25|1|2|2|12|89
+Matt Hall|L|Travis Shaw|L|Home Run|E|Curveball|26|2|2|2|8|74
+Matt Hall|L|Jesus Aguilar|R|Groundout|C|Four-Seam Fastball|27|0|0|2|13|90
+Matt Hall|L|Jesus Aguilar|R|Groundout|B|Four-Seam Fastball|28|0|1|2|13|90
+Matt Hall|L|Jesus Aguilar|R|Groundout|X|Changeup|29|1|1|2|14|81
+Matt Hall|L|Mike Freeman|L|Flyout|B|Four-Seam Fastball|0|0|0|0|3|88
+Matt Hall|L|Mike Freeman|L|Flyout|B|Four-Seam Fastball|1|1|0|0|3|89
+Matt Hall|L|Mike Freeman|L|Flyout|C|Four-Seam Fastball|2|2|0|0|7|88
+Matt Hall|L|Mike Freeman|L|Flyout|F|Four-Seam Fastball|3|2|1|0|12|88
+Matt Hall|L|Mike Freeman|L|Flyout|B|Curveball|4|2|2|0|13|76
+Matt Hall|L|Mike Freeman|L|Flyout|F|Four-Seam Fastball|5|3|2|0|13|88
+Matt Hall|L|Mike Freeman|L|Flyout|X|Four-Seam Fastball|6|3|2|0|8|87
+Matt Hall|L|Francisco Lindor|R|Pop Out|C|Curveball|7|0|0|1|8|76
+Matt Hall|L|Francisco Lindor|R|Pop Out|F|Four-Seam Fastball|8|0|1|1|13|91
+Matt Hall|L|Francisco Lindor|R|Pop Out|F|Curveball|9|0|2|1|13|76
+Matt Hall|L|Francisco Lindor|R|Pop Out|F|Four-Seam Fastball|10|0|2|1|12|91
+Matt Hall|L|Francisco Lindor|R|Pop Out|X|Four-Seam Fastball|11|0|2|1|12|92
+Matt Hall|L|Oscar Mercado|R|Walk|B|Four-Seam Fastball|12|0|0|2|12|91
+Matt Hall|L|Oscar Mercado|R|Walk|F|Four-Seam Fastball|13|1|0|2|5|90
+Matt Hall|L|Oscar Mercado|R|Walk|B|Curveball|14|1|1|2|14|75
+Matt Hall|L|Oscar Mercado|R|Walk|F|Four-Seam Fastball|15|2|1|2|4|90
+Matt Hall|L|Oscar Mercado|R|Walk|B|Four-Seam Fastball|16|2|2|2|12|91
+Matt Hall|L|Oscar Mercado|R|Walk|F|Curveball|17|3|2|2|6|76
+Matt Hall|L|Oscar Mercado|R|Walk|B|Curveball|18|3|2|2|13|75
+Matt Hall|L|Carlos Santana|R|Groundout|C|Four-Seam Fastball|19|0|0|2|7|89
+Matt Hall|L|Carlos Santana|R|Groundout|C|Four-Seam Fastball|20|0|1|2|7|89
+Matt Hall|L|Carlos Santana|R|Groundout|B|Four-Seam Fastball|21|0|2|2|12|90
+Matt Hall|L|Carlos Santana|R|Groundout|*B|Curveball|22|1|2|2|14|76
+Matt Hall|L|Carlos Santana|R|Groundout|*B|Curveball|23|2|2|2|14|76
+Matt Hall|L|Carlos Santana|R|Groundout|X|Four-Seam Fastball|24|3|2|2|8|89
+Matt Hall|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|25|0|0|0|14|89
+Matt Hall|L|Yasiel Puig|R|Flyout|C|Curveball|26|1|0|0|6|75
+Matt Hall|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|27|1|1|0|11|90
+Matt Hall|L|Yasiel Puig|R|Flyout|C|Four-Seam Fastball|28|2|1|0|9|89
+Matt Hall|L|Yasiel Puig|R|Flyout|F|Four-Seam Fastball|29|2|2|0|5|90
+Matt Hall|L|Yasiel Puig|R|Flyout|B|Curveball|30|2|2|0|14|76
+Matt Hall|L|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|31|3|2|0|6|89
+Matt Hall|L|Greg Allen|R|Single|B|Four-Seam Fastball|32|0|0|1|14|89
+Matt Hall|L|Greg Allen|R|Single|B|Changeup|33|1|0|1|14|82
+Matt Hall|L|Greg Allen|R|Single|F|Four-Seam Fastball|34|2|0|1|4|89
+Matt Hall|L|Greg Allen|R|Single|D|Four-Seam Fastball|35|2|1|1|5|88
+Matt Hall|L|Franmil Reyes|R|Lineout|X|Four-Seam Fastball|36|0|0|1|13|89
+Matt Hall|L|Roberto Perez|R|Forceout|C|Curveball|37|0|0|2|5|74
+Matt Hall|L|Roberto Perez|R|Forceout|C|Four-Seam Fastball|38|0|1|2|7|89
+Matt Hall|L|Roberto Perez|R|Forceout|F|Four-Seam Fastball|39|0|2|2|1|89
+Matt Hall|L|Roberto Perez|R|Forceout|F|Curveball|40|0|2|2|9|75
+Matt Hall|L|Roberto Perez|R|Forceout|B|Four-Seam Fastball|41|0|2|2|12|90
+Matt Hall|L|Roberto Perez|R|Forceout|X|Four-Seam Fastball|42|1|2|2|12|89
+Matt Hall|L|Eloy Jimenez|R|Strikeout|C|Curveball|0|0|0|2|9|76
+Matt Hall|L|Eloy Jimenez|R|Strikeout|S|Four-Seam Fastball|1|0|1|2|6|90
+Matt Hall|L|Eloy Jimenez|R|Strikeout|*B|Curveball|2|0|2|2|13|78
+Matt Hall|L|Eloy Jimenez|R|Strikeout|S|Curveball|3|1|2|2|13|76
+Matt Hall|L|Welington Castillo|R|Grounded Into DP|B|Changeup|4|0|0|0|14|81
+Matt Hall|L|Welington Castillo|R|Grounded Into DP|C|Changeup|5|1|0|0|1|81
+Matt Hall|L|Welington Castillo|R|Grounded Into DP|X|Four-Seam Fastball|6|1|1|0|9|91
+Matt Hall|L|Billy Hamilton|R|Pop Out|B|Four-Seam Fastball|0|0|0|2|12|91
+Matt Hall|L|Billy Hamilton|R|Pop Out|F|Four-Seam Fastball|1|1|0|2|11|90
+Matt Hall|L|Billy Hamilton|R|Pop Out|B|Curveball|2|1|1|2|13|77
+Matt Hall|L|Billy Hamilton|R|Pop Out|B|Four-Seam Fastball|3|2|1|2|11|89
+Matt Hall|L|Billy Hamilton|R|Pop Out|X|Four-Seam Fastball|4|3|1|2|7|89
+Matt Hall|L|Whit Merrifield|R|Strikeout|C|Four-Seam Fastball|5|0|0|0|2|91
+Matt Hall|L|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|6|0|1|0|13|91
+Matt Hall|L|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|7|1|1|0|13|91
+Matt Hall|L|Whit Merrifield|R|Strikeout|S|Four-Seam Fastball|8|2|1|0|7|90
+Matt Hall|L|Whit Merrifield|R|Strikeout|F|Four-Seam Fastball|9|2|2|0|13|92
+Matt Hall|L|Whit Merrifield|R|Strikeout|W|Curveball|10|2|2|0|13|78
+Matt Hall|L|Alex Gordon|L|Flyout|C|Four-Seam Fastball|11|0|0|1|8|91
+Matt Hall|L|Alex Gordon|L|Flyout|X|Slider|12|0|1|1|4|83
+Matt Hall|L|Hunter Dozier|R|Strikeout|B|Curveball|13|0|0|2|12|76
+Matt Hall|L|Hunter Dozier|R|Strikeout|S|Curveball|14|1|0|2|13|76
+Matt Hall|L|Hunter Dozier|R|Strikeout|B|Four-Seam Fastball|15|1|1|2|13|92
+Matt Hall|L|Hunter Dozier|R|Strikeout|B|Four-Seam Fastball|16|2|1|2|13|92
+Matt Hall|L|Hunter Dozier|R|Strikeout|C|Four-Seam Fastball|17|3|1|2|14|92
+Matt Hall|L|Hunter Dozier|R|Strikeout|S|Curveball|18|3|2|2|13|79
+Matt Hall|L|Jorge Soler|R|Strikeout|C|Slider|19|0|0|0|6|81
+Matt Hall|L|Jorge Soler|R|Strikeout|B|Curveball|20|0|1|0|13|77
+Matt Hall|L|Jorge Soler|R|Strikeout|C|Four-Seam Fastball|21|1|1|0|9|90
+Matt Hall|L|Jorge Soler|R|Strikeout|F|Four-Seam Fastball|22|1|2|0|4|91
+Matt Hall|L|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|23|1|2|0|12|91
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|C|Four-Seam Fastball|24|0|0|1|6|91
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|B|Four-Seam Fastball|25|0|1|1|13|91
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|B|Four-Seam Fastball|26|1|1|1|13|91
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|S|Slider|27|2|1|1|14|82
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|B|Curveball|28|2|2|1|13|79
+Matt Hall|L|Cheslor Cuthbert|R|Pop Out|X|Four-Seam Fastball|29|3|2|1|1|90
+Matt Hall|L|Bubba Starling|R|Pop Out|C|Slider|30|0|0|2|8|80
+Matt Hall|L|Bubba Starling|R|Pop Out|B|Curveball|31|0|1|2|14|77
+Matt Hall|L|Bubba Starling|R|Pop Out|X|Four-Seam Fastball|32|1|1|2|1|90
+Matt Hall|L|Nicky Lopez|L|Double|C|Four-Seam Fastball|33|0|0|0|4|90
+Matt Hall|L|Nicky Lopez|L|Double|B|Four-Seam Fastball|34|0|1|0|13|90
+Matt Hall|L|Nicky Lopez|L|Double|F|Four-Seam Fastball|35|1|1|0|5|90
+Matt Hall|L|Nicky Lopez|L|Double|F|Curveball|36|1|2|0|6|77
+Matt Hall|L|Nicky Lopez|L|Double|F|Curveball|37|1|2|0|8|77
+Matt Hall|L|Nicky Lopez|L|Double|F|Four-Seam Fastball|38|1|2|0|1|90
+Matt Hall|L|Nicky Lopez|L|Double|B|Four-Seam Fastball|39|1|2|0|14|91
+Matt Hall|L|Nicky Lopez|L|Double|D|Slider|40|2|2|0|5|81
+Matt Hall|L|Nick Dini|R|Single|B|Curveball|41|0|0|0|12|75
+Matt Hall|L|Nick Dini|R|Single|B|Four-Seam Fastball|42|1|0|0|12|90
+Matt Hall|L|Nick Dini|R|Single|D|Slider|43|2|0|0|8|80
+Matt Hall|L|Billy Hamilton|R|Strikeout|L|Four-Seam Fastball|44|0|0|0|11|90
+Matt Hall|L|Billy Hamilton|R|Strikeout|C|Four-Seam Fastball|45|0|1|0|9|90
+Matt Hall|L|Billy Hamilton|R|Strikeout|S|Curveball|46|0|2|0|8|77
+Matt Hall|L|J.P. Crawford|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|14|91
+Matt Hall|L|J.P. Crawford|L|Strikeout|C|Four-Seam Fastball|1|1|0|1|4|90
+Matt Hall|L|J.P. Crawford|L|Strikeout|*B|Slider|2|1|1|1|13|84
+Matt Hall|L|J.P. Crawford|L|Strikeout|B|Four-Seam Fastball|3|2|1|1|13|90
+Matt Hall|L|J.P. Crawford|L|Strikeout|C|Four-Seam Fastball|4|3|1|1|7|90
+Matt Hall|L|J.P. Crawford|L|Strikeout|C|Four-Seam Fastball|5|3|2|1|13|91
+Matt Hall|L|Domingo Santana|R|Walk|F|Curveball|6|0|0|2|9|77
+Matt Hall|L|Domingo Santana|R|Walk|B|Four-Seam Fastball|7|0|1|2|11|91
+Matt Hall|L|Domingo Santana|R|Walk|C|Four-Seam Fastball|8|1|1|2|13|91
+Matt Hall|L|Domingo Santana|R|Walk|*B|Curveball|9|1|2|2|13|77
+Matt Hall|L|Domingo Santana|R|Walk|F|Four-Seam Fastball|10|2|2|2|13|92
+Matt Hall|L|Domingo Santana|R|Walk|*B|Curveball|11|2|2|2|13|77
+Matt Hall|L|Domingo Santana|R|Walk|F|Four-Seam Fastball|12|3|2|2|13|91
+Matt Hall|L|Domingo Santana|R|Walk|B|Four-Seam Fastball|13|3|2|2|14|91
+Matt Hall|L|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|14|0|0|2|13|91
+Matt Hall|L|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|15|0|1|2|13|91
+Matt Hall|L|Daniel Vogelbach|L|Strikeout|B|Four-Seam Fastball|16|0|2|2|13|91
+Matt Hall|L|Daniel Vogelbach|L|Strikeout|B|Four-Seam Fastball|17|1|2|2|13|92
+Matt Hall|L|Daniel Vogelbach|L|Strikeout|S|Four-Seam Fastball|18|2|2|2|11|92
+Matt Hall|L|Austin Nola|R|Groundout|C|Four-Seam Fastball|19|0|0|0|7|90
+Matt Hall|L|Austin Nola|R|Groundout|S|Curveball|20|0|1|0|13|77
+Matt Hall|L|Austin Nola|R|Groundout|B|Curveball|21|0|2|0|13|77
+Matt Hall|L|Austin Nola|R|Groundout|B|Four-Seam Fastball|22|1|2|0|12|90
+Matt Hall|L|Austin Nola|R|Groundout|F|Four-Seam Fastball|23|2|2|0|5|91
+Matt Hall|L|Austin Nola|R|Groundout|X|Four-Seam Fastball|24|2|2|0|13|91
+Matt Hall|L|Kyle Seager|L|Walk|C|Slider|25|0|0|1|3|79
+Matt Hall|L|Kyle Seager|L|Walk|B|Slider|26|0|1|1|13|79
+Matt Hall|L|Kyle Seager|L|Walk|B|Four-Seam Fastball|27|1|1|1|11|90
+Matt Hall|L|Kyle Seager|L|Walk|B|Four-Seam Fastball|28|2|1|1|13|90
+Matt Hall|L|Kyle Seager|L|Walk|B|Four-Seam Fastball|29|3|1|1|13|90
+Matt Hall|L|Tom Murphy|R|Flyout|C|Four-Seam Fastball|30|0|0|1|5|90
+Matt Hall|L|Tom Murphy|R|Flyout|C|Four-Seam Fastball|31|0|1|1|12|89
+Matt Hall|L|Tom Murphy|R|Flyout|X|Four-Seam Fastball|32|0|2|1|4|91
+Matt Hall|L|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|33|0|0|2|13|91
+Matt Hall|L|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|34|0|1|2|1|90
+Matt Hall|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|35|0|2|2|11|91
+Matt Hall|L|Dee Gordon|L|Strikeout|S|Curveball|36|0|2|2|13|76
+Matt Hall|L|Austin Nola|R|Groundout|F|Four-Seam Fastball|0|0|0|0|13|90
+Matt Hall|L|Austin Nola|R|Groundout|B|Changeup|1|0|1|0|14|82
+Matt Hall|L|Austin Nola|R|Groundout|X|Four-Seam Fastball|2|1|1|0|14|91
+Matt Hall|L|Daniel Vogelbach|L|Lineout|B|Four-Seam Fastball|3|0|0|1|13|91
+Matt Hall|L|Daniel Vogelbach|L|Lineout|C|Curveball|4|1|0|1|4|77
+Matt Hall|L|Daniel Vogelbach|L|Lineout|B|Curveball|5|1|1|1|13|77
+Matt Hall|L|Daniel Vogelbach|L|Lineout|T|Four-Seam Fastball|6|2|1|1|7|91
+Matt Hall|L|Daniel Vogelbach|L|Lineout|X|Curveball|7|2|2|1|8|78
+Matt Hall|L|Tim Lopes|R|Single|C|Curveball|8|0|0|2|8|78
+Matt Hall|L|Tim Lopes|R|Single|F|Four-Seam Fastball|9|0|1|2|11|91
+Matt Hall|L|Tim Lopes|R|Single|B|Curveball|10|0|2|2|12|76
+Matt Hall|L|Tim Lopes|R|Single|D|Four-Seam Fastball|11|1|2|2|11|92
+Matt Hall|L|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|12|0|0|2|14|92
+Matt Hall|L|Keon Broxton|R|Strikeout|C|Curveball|13|1|0|2|6|76
+Matt Hall|L|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|14|1|1|2|13|92
+Matt Hall|L|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|15|2|1|2|14|90
+Matt Hall|L|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|16|3|1|2|3|90
+Matt Hall|L|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|17|3|2|2|12|91
+Matt Hall|L|Dylan Moore|R|Home Run|B|Four-Seam Fastball|18|0|0|0|14|90
+Matt Hall|L|Dylan Moore|R|Home Run|E|Four-Seam Fastball|19|1|0|0|9|88
+Matt Hall|L|Mallex Smith|L|Hit By Pitch|C|Four-Seam Fastball|20|0|0|0|5|91
+Matt Hall|L|Mallex Smith|L|Hit By Pitch|H|Curveball|21|0|1|0|12|76
+Matt Hall|L|J.P. Crawford|L|Walk|B|Four-Seam Fastball|22|0|0|0|13|90
+Matt Hall|L|J.P. Crawford|L|Walk|B|Curveball|23|1|0|0|13|76
+Matt Hall|L|J.P. Crawford|L|Walk|C|Four-Seam Fastball|24|2|0|0|2|88
+Matt Hall|L|J.P. Crawford|L|Walk|C|Four-Seam Fastball|25|2|1|0|7|89
+Matt Hall|L|J.P. Crawford|L|Walk|B|Curveball|26|2|2|0|13|76
+Matt Hall|L|J.P. Crawford|L|Walk|B|Four-Seam Fastball|27|3|2|0|13|91
+Matt Hall|L|Franmil Reyes|R|Walk|B|Curveball|0|0|0|0|14|77
+Matt Hall|L|Franmil Reyes|R|Walk|S|Four-Seam Fastball|1|1|0|0|13|91
+Matt Hall|L|Franmil Reyes|R|Walk|B|Four-Seam Fastball|2|1|1|0|12|91
+Matt Hall|L|Franmil Reyes|R|Walk|B|Changeup|3|2|1|0|13|84
+Matt Hall|L|Franmil Reyes|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|90
+Matt Hall|L|Mike Freeman|L|Forceout|S|Four-Seam Fastball|5|0|0|0|13|91
+Matt Hall|L|Mike Freeman|L|Forceout|C|Curveball|6|0|1|0|5|76
+Matt Hall|L|Mike Freeman|L|Forceout|B|Four-Seam Fastball|7|0|2|0|11|91
+Matt Hall|L|Mike Freeman|L|Forceout|F|Slider|8|1|2|0|7|81
+Matt Hall|L|Mike Freeman|L|Forceout|F|Curveball|9|1|2|0|14|76
+Matt Hall|L|Mike Freeman|L|Forceout|B|Four-Seam Fastball|10|1|2|0|13|93
+Matt Hall|L|Mike Freeman|L|Forceout|F|Four-Seam Fastball|11|2|2|0|1|92
+Matt Hall|L|Mike Freeman|L|Forceout|X|Four-Seam Fastball|12|2|2|0|13|92
+Matt Hall|L|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|13|0|0|1|14|92
+Matt Hall|L|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|14|0|1|1|14|92
+Matt Hall|L|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|15|0|2|1|14|93
+Matt Hall|L|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|16|1|2|1|12|92
+Matt Hall|L|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|17|2|2|1|14|93
+Matt Hall|L|Tyler Naquin|L|Lineout|C|Curveball|18|0|0|2|14|76
+Matt Hall|L|Tyler Naquin|L|Lineout|S|Four-Seam Fastball|19|0|1|2|2|92
+Matt Hall|L|Tyler Naquin|L|Lineout|F|Four-Seam Fastball|20|0|2|2|5|93
+Matt Hall|L|Tyler Naquin|L|Lineout|B|Four-Seam Fastball|21|0|2|2|11|91
+Matt Hall|L|Tyler Naquin|L|Lineout|X|Curveball|22|1|2|2|5|76
+Matt Hall|L|Mike Freeman|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|3|90
+Matt Hall|L|Mike Freeman|L|Strikeout|S|Slider|1|0|1|2|1|82
+Matt Hall|L|Mike Freeman|L|Strikeout|B|Curveball|2|0|2|2|13|77
+Matt Hall|L|Mike Freeman|L|Strikeout|F|Four-Seam Fastball|3|1|2|2|5|90
+Matt Hall|L|Mike Freeman|L|Strikeout|B|Four-Seam Fastball|4|1|2|2|11|91
+Matt Hall|L|Mike Freeman|L|Strikeout|C|Curveball|5|2|2|2|6|75
+Matt Hall|L|Kevin Plawecki|R|Groundout|B|Four-Seam Fastball|6|0|0|0|11|90
+Matt Hall|L|Kevin Plawecki|R|Groundout|C|Four-Seam Fastball|7|1|0|0|4|90
+Matt Hall|L|Kevin Plawecki|R|Groundout|B|Four-Seam Fastball|8|1|1|0|12|91
+Matt Hall|L|Kevin Plawecki|R|Groundout|T|Changeup|9|2|1|0|14|82
+Matt Hall|L|Kevin Plawecki|R|Groundout|X|Curveball|10|2|2|0|8|77
+Matt Hall|L|Greg Allen|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|12|90
+Matt Hall|L|Greg Allen|R|Strikeout|F|Curveball|12|0|1|1|13|76
+Matt Hall|L|Greg Allen|R|Strikeout|B|Four-Seam Fastball|13|0|2|1|11|90
+Matt Hall|L|Greg Allen|R|Strikeout|C|Four-Seam Fastball|14|1|2|1|7|92
+Matt Hall|L|Jake Cave|L|Groundout|F|Four-Seam Fastball|0|0|0|1|5|91
+Matt Hall|L|Jake Cave|L|Groundout|E|Curveball|1|0|1|1|4|74
+Matt Hall|L|Max Kepler|L|Pop Out|B|Curveball|2|0|0|2|13|75
+Matt Hall|L|Max Kepler|L|Pop Out|B|Four-Seam Fastball|3|1|0|2|13|91
+Matt Hall|L|Max Kepler|L|Pop Out|X|Four-Seam Fastball|4|2|0|2|2|90
+Matt Hall|L|Jorge Polanco|R|Single|C|Four-Seam Fastball|5|0|0|0|9|90
+Matt Hall|L|Jorge Polanco|R|Single|B|Four-Seam Fastball|6|0|1|0|13|90
+Matt Hall|L|Jorge Polanco|R|Single|C|Curveball|7|1|1|0|14|76
+Matt Hall|L|Jorge Polanco|R|Single|F|Curveball|8|1|2|0|13|76
+Matt Hall|L|Jorge Polanco|R|Single|D|Four-Seam Fastball|9|1|2|0|14|91
+Matt Hall|L|Nelson Cruz|R|Single|C|Curveball|10|0|0|0|3|75
+Matt Hall|L|Nelson Cruz|R|Single|C|Four-Seam Fastball|11|0|1|0|14|91
+Matt Hall|L|Nelson Cruz|R|Single|D|Curveball|12|0|2|0|14|76
+Matt Hall|L|Eddie Rosario|L|Forceout|C|Four-Seam Fastball|13|0|0|0|5|90
+Matt Hall|L|Eddie Rosario|L|Forceout|E|Curveball|14|0|1|0|13|76
+Matt Hall|L|Miguel Sano|R|Strikeout|*B|Changeup|15|0|0|1|13|83
+Matt Hall|L|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|16|1|0|1|1|90
+Matt Hall|L|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|17|1|1|1|12|91
+Matt Hall|L|Miguel Sano|R|Strikeout|S|Curveball|18|2|1|1|13|76
+Matt Hall|L|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|19|2|2|1|4|91
+Matt Hall|L|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|20|2|2|1|13|92
+Matt Hall|L|Miguel Sano|R|Strikeout|S|Curveball|21|2|2|1|14|77
+Matt Hall|L|Luis Arraez|L|Walk|B|Four-Seam Fastball|22|0|0|2|13|91
+Matt Hall|L|Luis Arraez|L|Walk|B|Four-Seam Fastball|23|1|0|2|12|90
+Matt Hall|L|Luis Arraez|L|Walk|C|Four-Seam Fastball|24|2|0|2|1|89
+Matt Hall|L|Luis Arraez|L|Walk|B|Four-Seam Fastball|25|2|1|2|13|90
+Matt Hall|L|Luis Arraez|L|Walk|F|Four-Seam Fastball|26|3|1|2|7|90
+Matt Hall|L|Luis Arraez|L|Walk|B|Four-Seam Fastball|27|3|2|2|11|89
+Matt Hall|L|C.J. Cron|R|Home Run|C|Four-Seam Fastball|28|0|0|2|9|89
+Matt Hall|L|C.J. Cron|R|Home Run|B|Four-Seam Fastball|29|0|1|2|14|90
+Matt Hall|L|C.J. Cron|R|Home Run|F|Curveball|30|1|1|2|8|76
+Matt Hall|L|C.J. Cron|R|Home Run|E|Curveball|31|1|2|2|3|76
+Matt Hall|L|Jason Castro|L|Strikeout|C|Four-Seam Fastball|32|0|0|2|4|91
+Matt Hall|L|Jason Castro|L|Strikeout|C|Four-Seam Fastball|33|0|1|2|14|91
+Matt Hall|L|Jason Castro|L|Strikeout|B|Four-Seam Fastball|34|0|2|2|11|91
+Matt Hall|L|Jason Castro|L|Strikeout|F|Slider|35|1|2|2|7|81
+Matt Hall|L|Jason Castro|L|Strikeout|S|Slider|36|1|2|2|13|81
+Matt Hall|L|Max Kepler|L|Single|*B|Curveball|0|0|0|2|13|77
+Matt Hall|L|Max Kepler|L|Single|F|Four-Seam Fastball|1|1|0|2|5|91
+Matt Hall|L|Max Kepler|L|Single|B|Cutter|2|1|1|2|13|84
+Matt Hall|L|Max Kepler|L|Single|E|Four-Seam Fastball|3|2|1|2|11|91
+Matt Hall|L|Jorge Polanco|R|Strikeout|C|Curveball|4|0|0|2|9|77
+Matt Hall|L|Jorge Polanco|R|Strikeout|C|Curveball|5|0|1|2|9|76
+Matt Hall|L|Jorge Polanco|R|Strikeout|W|Curveball|6|0|2|2|13|77
+Matt Hall|L|Austin Romine|R|Single|C|Four-Seam Fastball|0|0|0|0|7|91
+Matt Hall|L|Austin Romine|R|Single|B|Curveball|1|0|1|0|14|77
+Matt Hall|L|Austin Romine|R|Single|B|Four-Seam Fastball|2|1|1|0|13|89
+Matt Hall|L|Austin Romine|R|Single|B|Four-Seam Fastball|3|2|1|0|12|89
+Matt Hall|L|Austin Romine|R|Single|D|Four-Seam Fastball|4|3|1|0|5|89
+Matt Hall|L|DJ LeMahieu|R|Strikeout|B|Curveball|5|0|0|0|12|74
+Matt Hall|L|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|6|1|0|0|14|89
+Matt Hall|L|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|7|2|0|0|3|89
+Matt Hall|L|DJ LeMahieu|R|Strikeout|S|Curveball|8|2|1|0|13|76
+Matt Hall|L|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|9|2|2|0|2|91
+Matt Hall|L|Aaron Judge|R|Single|C|Four-Seam Fastball|10|0|0|1|13|91
+Matt Hall|L|Aaron Judge|R|Single|D|Four-Seam Fastball|11|0|1|1|2|90
+Matt Hall|L|Mike Ford|L|Lineout|F|Four-Seam Fastball|12|0|0|1|11|90
+Matt Hall|L|Mike Ford|L|Lineout|X|Slider|13|0|1|1|6|82
+Matt Hall|L|Luke Voit|R|Single|B|Four-Seam Fastball|14|0|0|2|11|91
+Matt Hall|L|Luke Voit|R|Single|*B|Curveball|15|1|0|2|13|77
+Matt Hall|L|Luke Voit|R|Single|E|Four-Seam Fastball|16|2|0|2|2|90
+Matt Hall|L|Didi Gregorius|L|Triple|C|Four-Seam Fastball|17|0|0|2|1|90
+Matt Hall|L|Didi Gregorius|L|Triple|F|Four-Seam Fastball|18|0|1|2|4|90
+Matt Hall|L|Didi Gregorius|L|Triple|B|Slider|19|0|2|2|12|80
+Matt Hall|L|Didi Gregorius|L|Triple|B|Slider|20|1|2|2|13|82
+Matt Hall|L|Didi Gregorius|L|Triple|F|Four-Seam Fastball|21|2|2|2|13|92
+Matt Hall|L|Didi Gregorius|L|Triple|E|Slider|22|2|2|2|7|81
+Matt Hall|L|Gio Urshela|R|Groundout|C|Four-Seam Fastball|23|0|0|2|9|91
+Matt Hall|L|Gio Urshela|R|Groundout|*B|Curveball|24|0|1|2|14|76
+Matt Hall|L|Gio Urshela|R|Groundout|X|Curveball|25|1|1|2|14|76
+Matt Hall|L|Cameron Maybin|R|Lineout|C|Four-Seam Fastball|26|0|0|0|6|88
+Matt Hall|L|Cameron Maybin|R|Lineout|B|Curveball|27|0|1|0|14|76
+Matt Hall|L|Cameron Maybin|R|Lineout|X|Changeup|28|1|1|0|6|80
+Matt Hall|L|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|29|0|0|1|12|89
+Matt Hall|L|Clint Frazier|R|Strikeout|C|Four-Seam Fastball|30|1|0|1|7|89
+Matt Hall|L|Clint Frazier|R|Strikeout|S|Slider|31|1|1|1|13|81
+Matt Hall|L|Clint Frazier|R|Strikeout|B|Curveball|32|1|2|1|13|77
+Matt Hall|L|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|33|2|2|1|13|89
+Matt Hall|L|Clint Frazier|R|Strikeout|S|Four-Seam Fastball|34|3|2|1|12|89
+Matt Hall|L|Austin Romine|R|Single|B|Four-Seam Fastball|35|0|0|2|14|89
+Matt Hall|L|Austin Romine|R|Single|F|Four-Seam Fastball|36|1|0|2|2|89
+Matt Hall|L|Austin Romine|R|Single|S|Four-Seam Fastball|37|1|1|2|3|90
+Matt Hall|L|Austin Romine|R|Single|B|Curveball|38|1|2|2|13|78
+Matt Hall|L|Austin Romine|R|Single|D|Curveball|39|2|2|2|14|76
+Matt Hall|L|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|40|0|0|2|13|89
+Matt Hall|L|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|41|1|0|2|14|89
+Matt Hall|L|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|42|2|0|2|13|90
+Matt Hall|L|Anthony Santander|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|90
+Matt Hall|L|Anthony Santander|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|90
+Matt Hall|L|Anthony Santander|R|Walk|C|Four-Seam Fastball|2|2|0|0|12|89
+Matt Hall|L|Anthony Santander|R|Walk|S|Four-Seam Fastball|3|2|1|0|11|90
+Matt Hall|L|Anthony Santander|R|Walk|F|Curveball|4|2|2|0|14|76
+Matt Hall|L|Anthony Santander|R|Walk|B|Curveball|5|2|2|0|12|76
+Matt Hall|L|Anthony Santander|R|Walk|B|Four-Seam Fastball|6|3|2|0|13|90
+Matt Hall|L|Renato Nunez|R|Lineout|C|Four-Seam Fastball|7|0|0|0|14|89
+Matt Hall|L|Renato Nunez|R|Lineout|B|Curveball|8|0|1|0|14|76
+Matt Hall|L|Renato Nunez|R|Lineout|X|Curveball|9|1|1|0|7|75
+Matt Hall|L|Dwight Smith Jr|L|Strikeout|C|Four-Seam Fastball|10|0|0|1|2|90
+Matt Hall|L|Dwight Smith Jr|L|Strikeout|B|Slider|11|0|1|1|13|81
+Matt Hall|L|Dwight Smith Jr|L|Strikeout|C|Four-Seam Fastball|12|1|1|1|14|90
+Matt Hall|L|Dwight Smith Jr|L|Strikeout|B|Curveball|13|1|2|1|12|75
+Matt Hall|L|Dwight Smith Jr|L|Strikeout|T|Curveball|14|2|2|1|13|76
+Matt Hall|L|Hanser Alberto|R|Strikeout|C|Four-Seam Fastball|15|0|0|2|13|90
+Matt Hall|L|Hanser Alberto|R|Strikeout|B|Four-Seam Fastball|16|0|1|2|13|90
+Matt Hall|L|Hanser Alberto|R|Strikeout|F|Curveball|17|1|1|2|6|75
+Matt Hall|L|Hanser Alberto|R|Strikeout|T|Four-Seam Fastball|18|1|2|2|12|90
+Matt Hall|L|Rio Ruiz|L|Groundout|B|Four-Seam Fastball|19|0|0|0|12|88
+Matt Hall|L|Rio Ruiz|L|Groundout|B|Four-Seam Fastball|20|1|0|0|13|88
+Matt Hall|L|Rio Ruiz|L|Groundout|S|Four-Seam Fastball|21|2|0|0|13|88
+Matt Hall|L|Rio Ruiz|L|Groundout|B|Four-Seam Fastball|22|2|1|0|11|89
+Matt Hall|L|Rio Ruiz|L|Groundout|X|Four-Seam Fastball|23|3|1|0|12|88
+Matt Hall|L|DJ Stewart|L|Single|D|Slider|24|0|0|1|8|80
+Matt Hall|L|Pedro Severino|R|Lineout|*B|Curveball|25|0|0|1|13|76
+Matt Hall|L|Pedro Severino|R|Lineout|B|Four-Seam Fastball|26|1|0|1|12|88
+Matt Hall|L|Pedro Severino|R|Lineout|B|Four-Seam Fastball|27|2|0|1|14|88
+Matt Hall|L|Pedro Severino|R|Lineout|C|Four-Seam Fastball|28|3|0|1|14|89
+Matt Hall|L|Pedro Severino|R|Lineout|F|Four-Seam Fastball|29|3|1|1|12|89
+Matt Hall|L|Pedro Severino|R|Lineout|X|Four-Seam Fastball|30|3|2|1|9|89
+Matt Hall|L|Jonathan Villar|R|Walk|B|Curveball|31|0|0|2|12|76
+Matt Hall|L|Jonathan Villar|R|Walk|*B|Curveball|32|1|0|2|14|75
+Matt Hall|L|Jonathan Villar|R|Walk|B|Four-Seam Fastball|33|2|0|2|12|89
+Matt Hall|L|Jonathan Villar|R|Walk|B|Four-Seam Fastball|34|3|0|2|12|88
+Matt Hall|L|Trey Mancini|R|Single|B|Four-Seam Fastball|35|0|0|2|9|89
+Matt Hall|L|Trey Mancini|R|Single|D|Four-Seam Fastball|36|1|0|2|5|88
+Matt Hall|L|Anthony Santander|R|Single|C|Curveball|37|0|0|2|12|74
+Matt Hall|L|Anthony Santander|R|Single|E|Curveball|38|0|1|2|9|76
+Matt Hall|L|Renato Nunez|R|Walk|B|Four-Seam Fastball|39|0|0|2|12|90
+Matt Hall|L|Renato Nunez|R|Walk|B|Four-Seam Fastball|40|1|0|2|14|89
+Matt Hall|L|Renato Nunez|R|Walk|B|Four-Seam Fastball|41|2|0|2|14|88
+Matt Hall|L|Renato Nunez|R|Walk|F|Four-Seam Fastball|42|3|0|2|14|88
+Matt Hall|L|Renato Nunez|R|Walk|B|Four-Seam Fastball|43|3|1|2|13|89
+Matt Hall|L|Ian Miller|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|5|90
+Matt Hall|L|Ian Miller|L|Strikeout|C|Four-Seam Fastball|1|0|1|0|13|90
+Matt Hall|L|Ian Miller|L|Strikeout|B|Curveball|2|0|2|0|13|76
+Matt Hall|L|Ian Miller|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|13|91
+Matt Hall|L|Ian Miller|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|13|90
+Matt Hall|L|Ian Miller|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|13|90
+Matt Hall|L|Mitch Garver|R|Groundout|B|Four-Seam Fastball|6|0|0|1|14|90
+Matt Hall|L|Mitch Garver|R|Groundout|X|Four-Seam Fastball|7|1|0|1|13|90
+Matt Hall|L|Jorge Polanco|R|Strikeout|B|Curveball|8|0|0|2|14|77
+Matt Hall|L|Jorge Polanco|R|Strikeout|C|Four-Seam Fastball|9|1|0|2|14|90
+Matt Hall|L|Jorge Polanco|R|Strikeout|B|Changeup|10|1|1|2|12|82
+Matt Hall|L|Jorge Polanco|R|Strikeout|C|Four-Seam Fastball|11|2|1|2|9|90
+Matt Hall|L|Jorge Polanco|R|Strikeout|B|Four-Seam Fastball|12|2|2|2|14|92
+Matt Hall|L|Jorge Polanco|R|Strikeout|S|Four-Seam Fastball|13|3|2|2|13|91
+Matt Hall|L|George Springer|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|90
+Matt Hall|L|George Springer|R|Flyout|B|Four-Seam Fastball|1|1|0|0|13|90
+Matt Hall|L|George Springer|R|Flyout|C|Four-Seam Fastball|2|2|0|0|13|90
+Matt Hall|L|George Springer|R|Flyout|B|Cutter|3|2|1|0|13|83
+Matt Hall|L|George Springer|R|Flyout|F|Four-Seam Fastball|4|3|1|0|5|90
+Matt Hall|L|George Springer|R|Flyout|X|Four-Seam Fastball|5|3|2|0|2|91
+Matt Hall|L|Jose Altuve|R|Single|L|Four-Seam Fastball|6|0|0|1|11|90
+Matt Hall|L|Jose Altuve|R|Single|S|Four-Seam Fastball|7|0|1|1|2|91
+Matt Hall|L|Jose Altuve|R|Single|D|Curveball|8|0|2|1|7|78
+Matt Hall|L|Michael Brantley|L|Walk|C|Slider|9|0|0|1|7|81
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|10|0|1|1|13|90
+Matt Hall|L|Michael Brantley|L|Walk|F|Four-Seam Fastball|11|1|1|1|6|91
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|12|1|2|1|12|90
+Matt Hall|L|Michael Brantley|L|Walk|B|Four-Seam Fastball|13|2|2|1|14|90
+Matt Hall|L|Michael Brantley|L|Walk|B|Cutter|14|3|2|1|13|83
+Matt Hall|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|15|0|0|1|11|90
+Matt Hall|L|Alex Bregman|R|Strikeout|C|Four-Seam Fastball|16|1|0|1|9|90
+Matt Hall|L|Alex Bregman|R|Strikeout|S|Curveball|17|1|1|1|13|76
+Matt Hall|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|18|1|2|1|11|90
+Matt Hall|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|19|2|2|1|14|91
+Matt Hall|L|Alex Bregman|R|Strikeout|W|Curveball|20|3|2|1|13|76
+Matt Hall|L|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|21|0|0|2|13|91
+Matt Hall|L|Yordan Alvarez|L|Walk|C|Four-Seam Fastball|22|1|0|2|8|90
+Matt Hall|L|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|23|1|1|2|13|91
+Matt Hall|L|Yordan Alvarez|L|Walk|B|Slider|24|2|1|2|13|83
+Matt Hall|L|Yordan Alvarez|L|Walk|F|Four-Seam Fastball|25|3|1|2|5|90
+Matt Hall|L|Yordan Alvarez|L|Walk|F|Four-Seam Fastball|26|3|2|2|11|91
+Matt Hall|L|Yordan Alvarez|L|Walk|B|Four-Seam Fastball|27|3|2|2|13|90
+Matt Hall|L|Yuli Gurriel|R|Groundout|B|Four-Seam Fastball|28|0|0|2|13|91
+Matt Hall|L|Yuli Gurriel|R|Groundout|C|Four-Seam Fastball|29|1|0|2|14|89
+Matt Hall|L|Yuli Gurriel|R|Groundout|S|Four-Seam Fastball|30|1|1|2|12|90
+Matt Hall|L|Yuli Gurriel|R|Groundout|X|Four-Seam Fastball|31|1|2|2|4|91
+Matt Hall|L|Josh Reddick|L|Flyout|C|Four-Seam Fastball|32|0|0|0|14|89
+Matt Hall|L|Josh Reddick|L|Flyout|F|Four-Seam Fastball|33|0|1|0|5|88
+Matt Hall|L|Josh Reddick|L|Flyout|X|Four-Seam Fastball|34|0|2|0|1|88
+Matt Hall|L|Martin Maldonado|R|Home Run|F|Four-Seam Fastball|35|0|0|1|4|89
+Matt Hall|L|Martin Maldonado|R|Home Run|B|Slider|36|0|1|1|12|80
+Matt Hall|L|Martin Maldonado|R|Home Run|B|Four-Seam Fastball|37|1|1|1|14|89
+Matt Hall|L|Martin Maldonado|R|Home Run|E|Four-Seam Fastball|38|2|1|1|5|89
+Matt Hall|L|Jack Mayfield|R|Groundout|B|Four-Seam Fastball|39|0|0|1|12|88
+Matt Hall|L|Jack Mayfield|R|Groundout|C|Changeup|40|1|0|1|8|82
+Matt Hall|L|Jack Mayfield|R|Groundout|S|Curveball|41|1|1|1|13|77
+Matt Hall|L|Jack Mayfield|R|Groundout|F|Curveball|42|1|2|1|8|76
+Matt Hall|L|Jack Mayfield|R|Groundout|X|Curveball|43|1|2|1|6|76
+Matt Hall|L|George Springer|R|Walk|C|Four-Seam Fastball|44|0|0|2|9|89
+Matt Hall|L|George Springer|R|Walk|B|Slider|45|0|1|2|13|81
+Matt Hall|L|George Springer|R|Walk|F|Four-Seam Fastball|46|1|1|2|1|89
+Matt Hall|L|George Springer|R|Walk|B|Curveball|47|1|2|2|14|76
+Matt Hall|L|George Springer|R|Walk|B|Four-Seam Fastball|48|2|2|2|12|89
+Matt Hall|L|George Springer|R|Walk|*B|Curveball|49|3|2|2|13|77
+Matt Hall|L|Jose Altuve|R|Forceout|B|Four-Seam Fastball|50|0|0|2|12|88
+Matt Hall|L|Jose Altuve|R|Forceout|B|Four-Seam Fastball|51|1|0|2|12|88
+Matt Hall|L|Jose Altuve|R|Forceout|C|Four-Seam Fastball|52|2|0|2|12|89
+Matt Hall|L|Jose Altuve|R|Forceout|X|Changeup|53|2|1|2|9|80
+Matt Hall|L|Ramon Laureano|R|Double|B|Four-Seam Fastball|0|0|0|0|13|91
+Matt Hall|L|Ramon Laureano|R|Double|C|Four-Seam Fastball|1|1|0|0|6|90
+Matt Hall|L|Ramon Laureano|R|Double|S|Curveball|2|1|1|0|13|77
+Matt Hall|L|Ramon Laureano|R|Double|F|Four-Seam Fastball|3|1|2|0|4|91
+Matt Hall|L|Ramon Laureano|R|Double|F|Four-Seam Fastball|4|1|2|0|3|91
+Matt Hall|L|Ramon Laureano|R|Double|D|Curveball|5|1|2|0|5|78
+Matt Hall|L|Jurickson Profar|R|Flyout|B|Four-Seam Fastball|6|0|0|0|12|90
+Matt Hall|L|Jurickson Profar|R|Flyout|C|Four-Seam Fastball|7|1|0|0|1|90
+Matt Hall|L|Jurickson Profar|R|Flyout|B|Four-Seam Fastball|8|1|1|0|12|89
+Matt Hall|L|Jurickson Profar|R|Flyout|C|Four-Seam Fastball|9|2|1|0|14|89
+Matt Hall|L|Jurickson Profar|R|Flyout|X|Four-Seam Fastball|10|2|2|0|1|90
+Matt Hall|L|Sean Murphy|R|Single|S|Changeup|11|0|0|1|14|82
+Matt Hall|L|Sean Murphy|R|Single|B|Four-Seam Fastball|12|0|1|1|13|91
+Matt Hall|L|Sean Murphy|R|Single|E|Four-Seam Fastball|13|1|1|1|11|90
+Matt Hall|L|Marcus Semien|R|Walk|B|Curveball|14|0|0|1|13|78
+Matt Hall|L|Marcus Semien|R|Walk|F|Changeup|15|1|0|1|8|82
+Matt Hall|L|Marcus Semien|R|Walk|*B|Changeup|16|1|1|1|13|82
+Matt Hall|L|Marcus Semien|R|Walk|B|Four-Seam Fastball|17|2|1|1|12|89
+Matt Hall|L|Marcus Semien|R|Walk|C|Four-Seam Fastball|18|3|1|1|12|89
+Matt Hall|L|Marcus Semien|R|Walk|B|Four-Seam Fastball|19|3|2|1|12|89
+Matt Hall|L|Robbie Grossman|R|Strikeout|C|Curveball|20|0|0|1|2|75
+Matt Hall|L|Robbie Grossman|R|Strikeout|C|Curveball|21|0|1|1|9|76
+Matt Hall|L|Robbie Grossman|R|Strikeout|B|Four-Seam Fastball|22|0|2|1|13|90
+Matt Hall|L|Robbie Grossman|R|Strikeout|F|Four-Seam Fastball|23|1|2|1|4|89
+Matt Hall|L|Robbie Grossman|R|Strikeout|C|Curveball|24|1|2|1|12|75
+Matt Hall|L|Matt Chapman|R|Walk|*B|Changeup|25|0|0|2|14|81
+Matt Hall|L|Matt Chapman|R|Walk|B|Four-Seam Fastball|26|1|0|2|12|88
+Matt Hall|L|Matt Chapman|R|Walk|B|Four-Seam Fastball|27|2|0|2|14|88
+Matt Hall|L|Matt Chapman|R|Walk|B|Four-Seam Fastball|28|3|0|2|12|89
+Matt Hall|L|Matt Olson|L|Single|*B|Curveball|29|0|0|2|13|76
+Matt Hall|L|Matt Olson|L|Single|B|Four-Seam Fastball|30|1|0|2|12|87
+Matt Hall|L|Matt Olson|L|Single|C|Four-Seam Fastball|31|2|0|2|13|88
+Matt Hall|L|Matt Olson|L|Single|B|Four-Seam Fastball|32|2|1|2|12|88
+Matt Hall|L|Matt Olson|L|Single|E|Four-Seam Fastball|33|3|1|2|13|89
+Matt Hall|L|Willy Adames|R|Groundout|F|Cutter|0|0|0|0|13|84
+Matt Hall|L|Willy Adames|R|Groundout|X|Four-Seam Fastball|1|0|1|0|11|91
+Matt Hall|L|Guillermo Heredia|R|Groundout|C|Four-Seam Fastball|2|0|0|1|13|92
+Matt Hall|L|Guillermo Heredia|R|Groundout|C|Curveball|3|0|1|1|6|78
+Matt Hall|L|Guillermo Heredia|R|Groundout|X|Four-Seam Fastball|4|0|2|1|11|90
+Matt Hall|L|Eric Sogard|L|Double|B|Slider|5|0|0|2|13|83
+Matt Hall|L|Eric Sogard|L|Double|C|Four-Seam Fastball|6|1|0|2|1|92
+Matt Hall|L|Eric Sogard|L|Double|C|Four-Seam Fastball|7|1|1|2|9|92
+Matt Hall|L|Eric Sogard|L|Double|B|Four-Seam Fastball|8|1|2|2|11|92
+Matt Hall|L|Eric Sogard|L|Double|B|Four-Seam Fastball|9|2|2|2|14|92
+Matt Hall|L|Eric Sogard|L|Double|D|Four-Seam Fastball|10|3|2|2|6|93
+Matt Hall|L|Tommy Pham|R|Intent Walk|V|N/A|11|0|0|2|0|0
+Matt Hall|L|Tommy Pham|R|Intent Walk|V|N/A|12|0|1|2|0|0
+Matt Hall|L|Tommy Pham|R|Intent Walk|V|N/A|13|0|2|2|0|0
+Matt Hall|L|Tommy Pham|R|Intent Walk|V|N/A|14|0|2|2|0|0
+Matt Hall|L|Michael Brosseau|R|Single|B|Curveball|15|0|0|2|12|76
+Matt Hall|L|Michael Brosseau|R|Single|B|Four-Seam Fastball|16|1|0|2|12|90
+Matt Hall|L|Michael Brosseau|R|Single|F|Four-Seam Fastball|17|2|0|2|1|90
+Matt Hall|L|Michael Brosseau|R|Single|F|Four-Seam Fastball|18|2|1|2|5|91
+Matt Hall|L|Michael Brosseau|R|Single|E|Four-Seam Fastball|19|2|2|2|2|91
+Matt Hall|L|Mitch Garver|R|Single|B|Four-Seam Fastball|0|0|0|0|12|91
+Matt Hall|L|Mitch Garver|R|Single|C|Four-Seam Fastball|1|1|0|0|7|90
+Matt Hall|L|Mitch Garver|R|Single|B|Four-Seam Fastball|2|1|1|0|13|91
+Matt Hall|L|Mitch Garver|R|Single|B|Four-Seam Fastball|3|2|1|0|13|91
+Matt Hall|L|Mitch Garver|R|Single|D|Four-Seam Fastball|4|3|1|0|5|90
+Matt Hall|L|Jake Cave|L|Home Run|*B|Changeup|5|0|0|0|13|85
+Matt Hall|L|Jake Cave|L|Home Run|S|Four-Seam Fastball|6|1|0|0|3|90
+Matt Hall|L|Jake Cave|L|Home Run|*B|Curveball|7|1|1|0|13|77
+Matt Hall|L|Jake Cave|L|Home Run|B|Four-Seam Fastball|8|2|1|0|11|90
+Matt Hall|L|Jake Cave|L|Home Run|E|Four-Seam Fastball|9|3|1|0|3|89
+Matt Hall|L|C.J. Cron|R|Flyout|B|Four-Seam Fastball|10|0|0|0|14|92
+Matt Hall|L|C.J. Cron|R|Flyout|C|Four-Seam Fastball|11|1|0|0|12|91
+Matt Hall|L|C.J. Cron|R|Flyout|X|Four-Seam Fastball|12|1|1|0|5|91
+Matt Hall|L|Max Kepler|L|Single|B|Cutter|13|0|0|1|13|83
+Matt Hall|L|Max Kepler|L|Single|D|Four-Seam Fastball|14|1|0|1|13|90
+Matt Hall|L|Jorge Polanco|R|Strikeout|F|Four-Seam Fastball|15|0|0|1|5|90
+Matt Hall|L|Jorge Polanco|R|Strikeout|F|Four-Seam Fastball|16|0|1|1|5|89
+Matt Hall|L|Jorge Polanco|R|Strikeout|F|Curveball|17|0|2|1|5|77
+Matt Hall|L|Jorge Polanco|R|Strikeout|S|Curveball|18|0|2|1|13|76
+Matt Hall|L|Nelson Cruz|R|Flyout|B|Four-Seam Fastball|19|0|0|2|12|90
+Matt Hall|L|Nelson Cruz|R|Flyout|C|Four-Seam Fastball|20|1|0|2|6|90
+Matt Hall|L|Nelson Cruz|R|Flyout|S|Curveball|21|1|1|2|13|76
+Matt Hall|L|Nelson Cruz|R|Flyout|F|Four-Seam Fastball|22|1|2|2|5|90
+Matt Hall|L|Nelson Cruz|R|Flyout|X|Curveball|23|1|2|2|8|77
+Matt Hall|L|Luis Arraez|L|Single|C|Four-Seam Fastball|24|0|0|0|12|88
+Matt Hall|L|Luis Arraez|L|Single|C|Curveball|25|0|1|0|7|75
+Matt Hall|L|Luis Arraez|L|Single|D|Curveball|26|0|2|0|8|76
+Matt Hall|L|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|27|0|0|0|7|89
+Matt Hall|L|Miguel Sano|R|Strikeout|B|Changeup|28|0|1|0|14|81
+Matt Hall|L|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|29|1|1|0|2|89
+Matt Hall|L|Miguel Sano|R|Strikeout|C|Curveball|30|1|2|0|12|76
+Matt Hall|L|Marwin Gonzalez|R|Lineout|B|Curveball|31|0|0|1|12|75
+Matt Hall|L|Marwin Gonzalez|R|Lineout|C|Four-Seam Fastball|32|1|0|1|7|89
+Matt Hall|L|Marwin Gonzalez|R|Lineout|X|Four-Seam Fastball|33|1|1|1|7|90
+Matt Hall|L|Mitch Garver|R|Strikeout|C|Four-Seam Fastball|34|0|0|2|7|90
+Matt Hall|L|Mitch Garver|R|Strikeout|B|Four-Seam Fastball|35|0|1|2|14|89
+Matt Hall|L|Mitch Garver|R|Strikeout|W|Curveball|36|1|1|2|13|75
+Matt Hall|L|Mitch Garver|R|Strikeout|*B|Curveball|37|1|2|2|13|76
+Matt Hall|L|Mitch Garver|R|Strikeout|C|Four-Seam Fastball|38|2|2|2|5|90
+Matt Hall|L|Jake Cave|L|Strikeout|B|Four-Seam Fastball|39|0|0|0|13|89
+Matt Hall|L|Jake Cave|L|Strikeout|B|Four-Seam Fastball|40|1|0|0|14|88
+Matt Hall|L|Jake Cave|L|Strikeout|C|Four-Seam Fastball|41|2|0|0|7|89
+Matt Hall|L|Jake Cave|L|Strikeout|S|Slider|42|2|1|0|13|82
+Matt Hall|L|Jake Cave|L|Strikeout|W|Curveball|43|2|2|0|13|77
+Matt Hall|L|C.J. Cron|R|Groundout|B|Four-Seam Fastball|44|0|0|1|14|89
+Matt Hall|L|C.J. Cron|R|Groundout|B|Four-Seam Fastball|45|1|0|1|13|88
+Matt Hall|L|C.J. Cron|R|Groundout|C|Four-Seam Fastball|46|2|0|1|9|88
+Matt Hall|L|C.J. Cron|R|Groundout|C|Slider|47|2|1|1|5|82
+Matt Hall|L|C.J. Cron|R|Groundout|X|Curveball|48|2|2|1|14|77
+Matt Hall|L|Max Kepler|L|Groundout|B|Four-Seam Fastball|49|0|0|2|11|90
+Matt Hall|L|Max Kepler|L|Groundout|B|Four-Seam Fastball|50|1|0|2|13|89
+Matt Hall|L|Max Kepler|L|Groundout|X|Four-Seam Fastball|51|2|0|2|4|89

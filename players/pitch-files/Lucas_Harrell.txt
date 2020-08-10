@@ -1,0 +1,964 @@
+Lucas Harrell|R|Tommy La Stella|L|Pop Out|C|Sinker|0|0|0|0|1|91
+Lucas Harrell|R|Tommy La Stella|L|Pop Out|S|Sinker|1|0|1|0|1|92
+Lucas Harrell|R|Tommy La Stella|L|Pop Out|B|Sinker|2|0|2|0|12|92
+Lucas Harrell|R|Tommy La Stella|L|Pop Out|X|Slider|3|1|2|0|14|87
+Lucas Harrell|R|Kris Bryant|R|Strikeout|S|Sinker|4|0|0|1|2|93
+Lucas Harrell|R|Kris Bryant|R|Strikeout|B|Sinker|5|0|1|1|14|94
+Lucas Harrell|R|Kris Bryant|R|Strikeout|B|Sinker|6|1|1|1|12|93
+Lucas Harrell|R|Kris Bryant|R|Strikeout|C|Curveball|7|2|1|1|11|82
+Lucas Harrell|R|Kris Bryant|R|Strikeout|W|Curveball|8|2|2|1|14|81
+Lucas Harrell|R|Anthony Rizzo|L|Groundout|B|Sinker|9|0|0|2|12|93
+Lucas Harrell|R|Anthony Rizzo|L|Groundout|B|Slider|10|1|0|2|2|88
+Lucas Harrell|R|Anthony Rizzo|L|Groundout|X|Sinker|11|2|0|2|13|92
+Lucas Harrell|R|Ben Zobrist|L|Groundout|B|Sinker|12|0|0|0|11|92
+Lucas Harrell|R|Ben Zobrist|L|Groundout|C|Sinker|13|1|0|0|14|91
+Lucas Harrell|R|Ben Zobrist|L|Groundout|C|Sinker|14|1|1|0|6|92
+Lucas Harrell|R|Ben Zobrist|L|Groundout|B|Slider|15|1|2|0|12|87
+Lucas Harrell|R|Ben Zobrist|L|Groundout|X|Changeup|16|2|2|0|13|84
+Lucas Harrell|R|Willson Contreras|R|Groundout|C|Sinker|17|0|0|1|2|93
+Lucas Harrell|R|Willson Contreras|R|Groundout|B|Changeup|18|0|1|1|14|88
+Lucas Harrell|R|Willson Contreras|R|Groundout|X|Sinker|19|1|1|1|14|93
+Lucas Harrell|R|Jason Heyward|L|Flyout|B|Sinker|20|0|0|2|11|92
+Lucas Harrell|R|Jason Heyward|L|Flyout|X|Sinker|21|1|0|2|13|91
+Lucas Harrell|R|Addison Russell|R|Groundout|C|Sinker|22|0|0|0|14|93
+Lucas Harrell|R|Addison Russell|R|Groundout|S|Curveball|23|0|1|0|8|82
+Lucas Harrell|R|Addison Russell|R|Groundout|B|Sinker|24|0|2|0|14|93
+Lucas Harrell|R|Addison Russell|R|Groundout|X|Sinker|25|1|2|0|13|93
+Lucas Harrell|R|Jason Hammel|R|Strikeout|C|Sinker|26|0|0|1|4|93
+Lucas Harrell|R|Jason Hammel|R|Strikeout|B|Sinker|27|0|1|1|14|93
+Lucas Harrell|R|Jason Hammel|R|Strikeout|C|Sinker|28|1|1|1|9|93
+Lucas Harrell|R|Jason Hammel|R|Strikeout|S|Curveball|29|1|2|1|14|82
+Lucas Harrell|R|Javier Baez|R|Single|D|Sinker|30|0|0|2|6|93
+Lucas Harrell|R|Tommy La Stella|L|Flyout|B|Sinker|31|0|0|2|11|92
+Lucas Harrell|R|Tommy La Stella|L|Flyout|X|Sinker|32|1|0|2|4|91
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|B|Curveball|33|0|0|0|11|81
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|B|Sinker|34|1|0|0|14|92
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|C|Sinker|35|2|0|0|13|93
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|B|Curveball|36|2|1|0|14|83
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|F|Sinker|37|3|1|0|13|91
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|F|Sinker|38|3|2|0|11|93
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|H|Sinker|39|3|2|0|11|93
+Lucas Harrell|R|Anthony Rizzo|L|Single|D|Slider|40|0|0|0|6|88
+Lucas Harrell|R|Ben Zobrist|L|Double Play|B|Curveball|41|0|0|0|11|81
+Lucas Harrell|R|Ben Zobrist|L|Double Play|C|Sinker|42|1|0|0|6|93
+Lucas Harrell|R|Ben Zobrist|L|Double Play|X|Slider|43|1|1|0|9|87
+Lucas Harrell|R|Willson Contreras|R|Forceout|C|Curveball|44|0|0|2|3|82
+Lucas Harrell|R|Willson Contreras|R|Forceout|B|Four-Seam Fastball|45|0|1|2|14|92
+Lucas Harrell|R|Willson Contreras|R|Forceout|B|Sinker|46|1|1|2|14|93
+Lucas Harrell|R|Willson Contreras|R|Forceout|S|Curveball|47|2|1|2|14|82
+Lucas Harrell|R|Willson Contreras|R|Forceout|X|Sinker|48|2|2|2|7|92
+Lucas Harrell|R|Jason Heyward|L|Single|B|Curveball|49|0|0|0|11|80
+Lucas Harrell|R|Jason Heyward|L|Single|B|Sinker|50|1|0|0|13|91
+Lucas Harrell|R|Jason Heyward|L|Single|D|Sinker|51|2|0|0|5|92
+Lucas Harrell|R|Addison Russell|R|Walk|B|Sinker|52|0|0|0|12|92
+Lucas Harrell|R|Addison Russell|R|Walk|F|Sinker|53|1|0|0|2|91
+Lucas Harrell|R|Addison Russell|R|Walk|B|Sinker|54|1|1|0|14|91
+Lucas Harrell|R|Addison Russell|R|Walk|C|Curveball|55|2|1|0|1|79
+Lucas Harrell|R|Addison Russell|R|Walk|B|Curveball|56|2|2|0|12|80
+Lucas Harrell|R|Addison Russell|R|Walk|F|Curveball|57|3|2|0|11|80
+Lucas Harrell|R|Addison Russell|R|Walk|B|Sinker|58|3|2|0|14|92
+Lucas Harrell|R|Jason Hammel|R|Strikeout|L|Sinker|59|0|0|0|12|91
+Lucas Harrell|R|Jason Hammel|R|Strikeout|L|Curveball|60|0|1|0|11|78
+Lucas Harrell|R|Jason Hammel|R|Strikeout|F|Sinker|61|0|2|0|12|91
+Lucas Harrell|R|Jason Hammel|R|Strikeout|B|Sinker|62|0|2|0|14|91
+Lucas Harrell|R|Jason Hammel|R|Strikeout|S|Curveball|63|1|2|0|14|81
+Lucas Harrell|R|Javier Baez|R|Forceout|B|Sinker|64|0|0|1|14|92
+Lucas Harrell|R|Javier Baez|R|Forceout|B|Sinker|65|1|0|1|13|91
+Lucas Harrell|R|Javier Baez|R|Forceout|*B|Curveball|66|2|0|1|14|82
+Lucas Harrell|R|Javier Baez|R|Forceout|C|Sinker|67|3|0|1|3|92
+Lucas Harrell|R|Javier Baez|R|Forceout|X|Sinker|68|3|1|1|7|92
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|S|Slider|69|0|0|2|14|87
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|B|Sinker|70|0|1|2|12|91
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|F|Curveball|71|1|1|2|4|82
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|B|Sinker|72|1|2|2|13|91
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|F|Slider|73|2|2|2|14|87
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|B|Slider|74|2|2|2|14|86
+Lucas Harrell|R|Tommy La Stella|L|Strikeout|S|Changeup|75|3|2|2|13|83
+Lucas Harrell|R|Kris Bryant|R|Walk|B|Sinker|76|0|0|0|14|91
+Lucas Harrell|R|Kris Bryant|R|Walk|B|Changeup|77|1|0|0|13|81
+Lucas Harrell|R|Kris Bryant|R|Walk|B|Sinker|78|2|0|0|14|92
+Lucas Harrell|R|Kris Bryant|R|Walk|*B|Sinker|79|3|0|0|14|92
+Lucas Harrell|R|Anthony Rizzo|L|Flyout|X|Sinker|80|0|0|0|7|91
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|C|Curveball|81|0|0|1|8|81
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|B|Sinker|82|0|1|1|13|90
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|B|Changeup|83|1|1|1|14|81
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|B|Changeup|84|2|1|1|13|82
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|F|Sinker|85|3|1|1|12|91
+Lucas Harrell|R|Ben Zobrist|L|Grounded Into DP|X|Changeup|86|3|2|1|13|82
+Lucas Harrell|R|Willson Contreras|R|Single|C|Sinker|87|0|0|0|6|92
+Lucas Harrell|R|Willson Contreras|R|Single|B|Curveball|88|0|1|0|14|81
+Lucas Harrell|R|Willson Contreras|R|Single|B|Changeup|89|1|1|0|13|82
+Lucas Harrell|R|Willson Contreras|R|Single|B|Changeup|90|2|1|0|13|88
+Lucas Harrell|R|Willson Contreras|R|Single|C|Sinker|91|3|1|0|13|92
+Lucas Harrell|R|Willson Contreras|R|Single|F|Curveball|92|3|2|0|2|82
+Lucas Harrell|R|Willson Contreras|R|Single|D|Sinker|93|3|2|0|11|92
+Lucas Harrell|R|Jason Heyward|L|Flyout|X|Slider|94|0|0|0|9|86
+Lucas Harrell|R|Addison Russell|R|Flyout|B|Four-Seam Fastball|95|0|0|1|11|91
+Lucas Harrell|R|Addison Russell|R|Flyout|S|Sinker|96|1|0|1|12|91
+Lucas Harrell|R|Addison Russell|R|Flyout|F|Four-Seam Fastball|97|1|1|1|12|91
+Lucas Harrell|R|Addison Russell|R|Flyout|X|Curveball|98|1|2|1|5|80
+Lucas Harrell|R|Jeimer Candelario|L|Strikeout|B|Slider|99|0|0|2|14|86
+Lucas Harrell|R|Jeimer Candelario|L|Strikeout|F|Slider|100|1|0|2|9|88
+Lucas Harrell|R|Jeimer Candelario|L|Strikeout|C|Slider|101|1|1|2|6|87
+Lucas Harrell|R|Jeimer Candelario|L|Strikeout|F|Curveball|102|1|2|2|14|81
+Lucas Harrell|R|Jeimer Candelario|L|Strikeout|T|Sinker|103|1|2|2|12|90
+Lucas Harrell|R|Javier Baez|R|Flyout|C|Sinker|104|0|0|0|5|91
+Lucas Harrell|R|Javier Baez|R|Flyout|X|Sinker|105|0|1|0|2|92
+Lucas Harrell|R|Albert Almora Jr.|R|Groundout|X|Sinker|106|0|0|1|14|91
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|C|Sinker|107|0|0|2|14|90
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|S|Sinker|108|0|1|2|12|91
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|B|Curveball|109|0|2|2|11|79
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|F|Sinker|110|1|2|2|12|91
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|F|Sinker|111|1|2|2|11|92
+Lucas Harrell|R|Kris Bryant|R|Hit By Pitch|H|Curveball|112|1|2|2|13|77
+Lucas Harrell|R|Ichiro Suzuki|L|Flyout|B|Sinker|0|0|0|0|8|91
+Lucas Harrell|R|Ichiro Suzuki|L|Flyout|B|Sinker|1|1|0|0|13|91
+Lucas Harrell|R|Ichiro Suzuki|L|Flyout|X|Sinker|2|2|0|0|5|91
+Lucas Harrell|R|Martin Prado|R|Strikeout|B|Sinker|3|0|0|1|13|93
+Lucas Harrell|R|Martin Prado|R|Strikeout|C|Four-Seam Fastball|4|1|0|1|9|93
+Lucas Harrell|R|Martin Prado|R|Strikeout|B|Sinker|5|1|1|1|13|92
+Lucas Harrell|R|Martin Prado|R|Strikeout|F|Four-Seam Fastball|6|2|1|1|5|93
+Lucas Harrell|R|Martin Prado|R|Strikeout|F|Sinker|7|2|2|1|11|92
+Lucas Harrell|R|Martin Prado|R|Strikeout|B|Changeup|8|2|2|1|14|84
+Lucas Harrell|R|Martin Prado|R|Strikeout|S|Sinker|9|3|2|1|5|93
+Lucas Harrell|R|Christian Yelich|L|Strikeout|C|Sinker|10|0|0|2|11|93
+Lucas Harrell|R|Christian Yelich|L|Strikeout|C|Slider|11|0|1|2|9|89
+Lucas Harrell|R|Christian Yelich|L|Strikeout|B|Slider|12|0|2|2|14|89
+Lucas Harrell|R|Christian Yelich|L|Strikeout|B|Changeup|13|1|2|2|13|85
+Lucas Harrell|R|Christian Yelich|L|Strikeout|F|Changeup|14|2|2|2|13|85
+Lucas Harrell|R|Christian Yelich|L|Strikeout|S|Sinker|15|2|2|2|13|93
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|5|92
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|B|Sinker|17|0|1|0|11|91
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|B|Sinker|18|1|1|0|13|92
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|F|Slider|19|2|1|0|6|85
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|F|Sinker|20|2|2|0|11|93
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|B|Sinker|21|2|2|0|13|92
+Lucas Harrell|R|Marcell Ozuna|R|Strikeout|W|Changeup|22|3|2|0|13|84
+Lucas Harrell|R|Justin Bour|L|Strikeout|C|Sinker|23|0|0|1|11|92
+Lucas Harrell|R|Justin Bour|L|Strikeout|F|Sinker|24|0|1|1|11|92
+Lucas Harrell|R|Justin Bour|L|Strikeout|B|Sinker|25|0|2|1|13|93
+Lucas Harrell|R|Justin Bour|L|Strikeout|S|Slider|26|1|2|1|14|89
+Lucas Harrell|R|J.T. Realmuto|R|Groundout|X|Sinker|27|0|0|2|7|93
+Lucas Harrell|R|Derek Dietrich|L|Single|B|Sinker|28|0|0|0|11|91
+Lucas Harrell|R|Derek Dietrich|L|Single|C|Changeup|29|1|0|0|13|83
+Lucas Harrell|R|Derek Dietrich|L|Single|B|Curveball|30|1|1|0|11|81
+Lucas Harrell|R|Derek Dietrich|L|Single|D|Changeup|31|2|1|0|13|84
+Lucas Harrell|R|Miguel Rojas|R|Lineout|B|Sinker|32|0|0|0|14|91
+Lucas Harrell|R|Miguel Rojas|R|Lineout|X|Slider|33|1|0|0|8|87
+Lucas Harrell|R|Jose Fernandez|R|Sac Bunt|X|Slider|34|0|0|1|3|85
+Lucas Harrell|R|Ichiro Suzuki|L|Triple|C|Sinker|35|0|0|2|13|91
+Lucas Harrell|R|Ichiro Suzuki|L|Triple|F|Slider|36|0|1|2|11|85
+Lucas Harrell|R|Ichiro Suzuki|L|Triple|*B|Curveball|37|0|2|2|13|83
+Lucas Harrell|R|Ichiro Suzuki|L|Triple|B|Sinker|38|1|2|2|14|92
+Lucas Harrell|R|Ichiro Suzuki|L|Triple|E|Changeup|39|2|2|2|4|82
+Lucas Harrell|R|Martin Prado|R|Lineout|C|Slider|40|0|0|2|14|88
+Lucas Harrell|R|Martin Prado|R|Lineout|B|Sinker|41|0|1|2|13|92
+Lucas Harrell|R|Martin Prado|R|Lineout|X|Sinker|42|1|1|2|1|92
+Lucas Harrell|R|Christian Yelich|L|Lineout|C|Slider|43|0|0|0|7|88
+Lucas Harrell|R|Christian Yelich|L|Lineout|B|Curveball|44|0|1|0|13|81
+Lucas Harrell|R|Christian Yelich|L|Lineout|B|Sinker|45|1|1|0|12|92
+Lucas Harrell|R|Christian Yelich|L|Lineout|X|Slider|46|2|1|0|8|87
+Lucas Harrell|R|Marcell Ozuna|R|Flyout|B|Slider|47|0|0|1|14|88
+Lucas Harrell|R|Marcell Ozuna|R|Flyout|S|Sinker|48|1|0|1|13|93
+Lucas Harrell|R|Marcell Ozuna|R|Flyout|B|Slider|49|1|1|1|14|88
+Lucas Harrell|R|Marcell Ozuna|R|Flyout|B|Slider|50|2|1|1|14|88
+Lucas Harrell|R|Marcell Ozuna|R|Flyout|X|Sinker|51|3|1|1|11|93
+Lucas Harrell|R|Justin Bour|L|Walk|B|Curveball|52|0|0|2|11|81
+Lucas Harrell|R|Justin Bour|L|Walk|B|Curveball|53|1|0|2|11|81
+Lucas Harrell|R|Justin Bour|L|Walk|B|Changeup|54|2|0|2|13|86
+Lucas Harrell|R|Justin Bour|L|Walk|C|Sinker|55|3|0|2|13|92
+Lucas Harrell|R|Justin Bour|L|Walk|F|Slider|56|3|1|2|5|87
+Lucas Harrell|R|Justin Bour|L|Walk|B|Changeup|57|3|2|2|13|85
+Lucas Harrell|R|J.T. Realmuto|R|Lineout|C|Sinker|58|0|0|2|5|92
+Lucas Harrell|R|J.T. Realmuto|R|Lineout|S|Sinker|59|0|1|2|13|91
+Lucas Harrell|R|J.T. Realmuto|R|Lineout|B|Sinker|60|0|2|2|12|91
+Lucas Harrell|R|J.T. Realmuto|R|Lineout|X|Sinker|61|1|2|2|8|92
+Lucas Harrell|R|Derek Dietrich|L|Groundout|B|Sinker|62|0|0|0|11|91
+Lucas Harrell|R|Derek Dietrich|L|Groundout|F|Slider|63|1|0|0|5|86
+Lucas Harrell|R|Derek Dietrich|L|Groundout|B|Slider|64|1|1|0|11|87
+Lucas Harrell|R|Derek Dietrich|L|Groundout|X|Slider|65|2|1|0|13|87
+Lucas Harrell|R|Miguel Rojas|R|Double|C|Sinker|66|0|0|1|13|92
+Lucas Harrell|R|Miguel Rojas|R|Double|B|Sinker|67|0|1|1|11|91
+Lucas Harrell|R|Miguel Rojas|R|Double|D|Slider|68|1|1|1|5|87
+Lucas Harrell|R|Jose Fernandez|R|Groundout|*B|Slider|69|0|0|1|14|86
+Lucas Harrell|R|Jose Fernandez|R|Groundout|C|Sinker|70|1|0|1|7|91
+Lucas Harrell|R|Jose Fernandez|R|Groundout|X|Sinker|71|1|1|1|7|91
+Lucas Harrell|R|Ichiro Suzuki|L|Strikeout|C|Sinker|72|0|0|2|11|91
+Lucas Harrell|R|Ichiro Suzuki|L|Strikeout|C|Sinker|73|0|1|2|6|91
+Lucas Harrell|R|Ichiro Suzuki|L|Strikeout|S|Four-Seam Fastball|74|0|2|2|12|92
+Lucas Harrell|R|Martin Prado|R|Groundout|C|Sinker|75|0|0|0|1|91
+Lucas Harrell|R|Martin Prado|R|Groundout|B|Sinker|76|0|1|0|14|92
+Lucas Harrell|R|Martin Prado|R|Groundout|C|Slider|77|1|1|0|9|86
+Lucas Harrell|R|Martin Prado|R|Groundout|X|Sinker|78|1|2|0|9|92
+Lucas Harrell|R|Christian Yelich|L|Groundout|F|Changeup|79|0|0|1|13|84
+Lucas Harrell|R|Christian Yelich|L|Groundout|C|Sinker|80|0|1|1|9|92
+Lucas Harrell|R|Christian Yelich|L|Groundout|B|Sinker|81|0|2|1|12|91
+Lucas Harrell|R|Christian Yelich|L|Groundout|B|Sinker|82|1|2|1|14|92
+Lucas Harrell|R|Christian Yelich|L|Groundout|X|Curveball|83|2|2|1|14|82
+Lucas Harrell|R|Marcell Ozuna|R|Pop Out|X|Changeup|84|0|0|2|7|83
+Lucas Harrell|R|Charlie Blackmon|L|Lineout|B|Sinker|0|0|0|0|11|91
+Lucas Harrell|R|Charlie Blackmon|L|Lineout|B|Sinker|1|1|0|0|13|91
+Lucas Harrell|R|Charlie Blackmon|L|Lineout|F|Sinker|2|2|0|0|11|91
+Lucas Harrell|R|Charlie Blackmon|L|Lineout|B|Sinker|3|2|1|0|11|92
+Lucas Harrell|R|Charlie Blackmon|L|Lineout|X|Sinker|4|3|1|0|11|92
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|C|Sinker|5|0|0|1|4|93
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|S|Sinker|6|0|1|1|14|93
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|B|Sinker|7|0|2|1|14|93
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|B|Slider|8|1|2|1|14|86
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|F|Sinker|9|2|2|1|6|93
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|X|Sinker|10|2|2|1|11|93
+Lucas Harrell|R|Nolan Arenado|R|Walk|C|Sinker|11|0|0|2|12|93
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Sinker|12|0|1|2|11|92
+Lucas Harrell|R|Nolan Arenado|R|Walk|F|Sinker|13|1|1|2|11|92
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Curveball|14|1|2|2|14|84
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Slider|15|2|2|2|14|88
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Slider|16|3|2|2|14|87
+Lucas Harrell|R|Carlos Gonzalez|L|Single|C|Sinker|17|0|0|2|13|93
+Lucas Harrell|R|Carlos Gonzalez|L|Single|B|Sinker|18|0|1|2|14|92
+Lucas Harrell|R|Carlos Gonzalez|L|Single|B|Slider|19|1|1|2|14|89
+Lucas Harrell|R|Carlos Gonzalez|L|Single|B|Sinker|20|2|1|2|13|93
+Lucas Harrell|R|Carlos Gonzalez|L|Single|T|Slider|21|3|1|2|6|89
+Lucas Harrell|R|Carlos Gonzalez|L|Single|E|Sinker|22|3|2|2|8|92
+Lucas Harrell|R|Trevor Story|R|Walk|B|Sinker|23|0|0|2|12|92
+Lucas Harrell|R|Trevor Story|R|Walk|B|Slider|24|1|0|2|14|87
+Lucas Harrell|R|Trevor Story|R|Walk|S|Sinker|25|2|0|2|2|92
+Lucas Harrell|R|Trevor Story|R|Walk|B|Sinker|26|2|1|2|12|93
+Lucas Harrell|R|Trevor Story|R|Walk|B|Sinker|27|3|1|2|12|93
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|C|Sinker|28|0|0|2|11|93
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|S|Sinker|29|0|1|2|13|91
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|B|Sinker|30|0|2|2|11|90
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|S|Curveball|31|1|2|2|14|82
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|F|Sinker|32|0|0|0|5|91
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|B|Slider|33|0|1|0|12|85
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|F|Slider|34|1|1|0|9|85
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|B|Sinker|35|1|2|0|12|91
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|S|Sinker|36|2|2|0|14|92
+Lucas Harrell|R|Nick Hundley|R|Groundout|C|Slider|37|0|0|1|9|86
+Lucas Harrell|R|Nick Hundley|R|Groundout|X|Slider|38|0|1|1|9|86
+Lucas Harrell|R|Jorge De La Rosa|L|Strikeout|B|Sinker|39|0|0|2|11|91
+Lucas Harrell|R|Jorge De La Rosa|L|Strikeout|F|Sinker|40|1|0|2|5|91
+Lucas Harrell|R|Jorge De La Rosa|L|Strikeout|S|Sinker|41|1|1|2|13|91
+Lucas Harrell|R|Jorge De La Rosa|L|Strikeout|F|Curveball|42|1|2|2|7|81
+Lucas Harrell|R|Jorge De La Rosa|L|Strikeout|S|Sinker|43|1|2|2|13|92
+Lucas Harrell|R|Charlie Blackmon|L|Double|B|Sinker|44|0|0|0|11|90
+Lucas Harrell|R|Charlie Blackmon|L|Double|D|Changeup|45|1|0|0|11|82
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|B|Sinker|46|0|0|0|11|91
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|F|Sinker|47|1|0|0|3|92
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|F|Sinker|48|1|1|0|7|90
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|*B|Slider|49|1|2|0|14|86
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|X|Sinker|50|2|2|0|7|92
+Lucas Harrell|R|Nolan Arenado|R|Single|E|Sinker|51|0|0|1|11|92
+Lucas Harrell|R|Carlos Gonzalez|L|Walk|B|Changeup|52|0|0|1|14|83
+Lucas Harrell|R|Carlos Gonzalez|L|Walk|B|Sinker|53|1|0|1|12|91
+Lucas Harrell|R|Carlos Gonzalez|L|Walk|*B|Slider|54|2|0|1|14|85
+Lucas Harrell|R|Carlos Gonzalez|L|Walk|B|Sinker|55|3|0|1|11|90
+Lucas Harrell|R|Trevor Story|R|Single|F|Slider|56|0|0|1|9|86
+Lucas Harrell|R|Trevor Story|R|Single|B|Slider|57|0|1|1|14|85
+Lucas Harrell|R|Trevor Story|R|Single|B|Sinker|58|1|1|1|11|91
+Lucas Harrell|R|Trevor Story|R|Single|F|Slider|59|2|1|1|8|84
+Lucas Harrell|R|Trevor Story|R|Single|E|Sinker|60|2|2|1|13|91
+Lucas Harrell|R|Daniel Descalso|L|Sac Fly|B|Changeup|61|0|0|1|9|83
+Lucas Harrell|R|Daniel Descalso|L|Sac Fly|E|Sinker|62|1|0|1|6|91
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|B|Curveball|63|0|0|2|14|83
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|F|Curveball|64|1|0|2|5|81
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|S|Sinker|65|1|1|2|12|92
+Lucas Harrell|R|Mark Reynolds|R|Strikeout|C|Sinker|66|1|2|2|14|92
+Lucas Harrell|R|Nick Hundley|R|Double|B|Sinker|67|0|0|0|14|91
+Lucas Harrell|R|Nick Hundley|R|Double|B|Sinker|68|1|0|0|13|92
+Lucas Harrell|R|Nick Hundley|R|Double|D|Sinker|69|2|0|0|5|92
+Lucas Harrell|R|Jorge De La Rosa|L|Fielders Choice Out|X|Sinker|70|0|0|0|8|91
+Lucas Harrell|R|Charlie Blackmon|L|Forceout|B|Sinker|71|0|0|1|14|91
+Lucas Harrell|R|Charlie Blackmon|L|Forceout|X|Sinker|72|1|0|1|8|92
+Lucas Harrell|R|DJ LeMahieu|R|Triple|B|Curveball|73|0|0|2|14|82
+Lucas Harrell|R|DJ LeMahieu|R|Triple|B|Sinker|74|1|0|2|13|90
+Lucas Harrell|R|DJ LeMahieu|R|Triple|F|Slider|75|2|0|2|9|86
+Lucas Harrell|R|DJ LeMahieu|R|Triple|E|Sinker|76|2|1|2|4|92
+Lucas Harrell|R|Nolan Arenado|R|Single|B|Slider|77|0|0|2|12|85
+Lucas Harrell|R|Nolan Arenado|R|Single|B|Curveball|78|1|0|2|14|82
+Lucas Harrell|R|Nolan Arenado|R|Single|F|Changeup|79|2|0|2|4|83
+Lucas Harrell|R|Nolan Arenado|R|Single|B|Changeup|80|2|1|2|11|88
+Lucas Harrell|R|Nolan Arenado|R|Single|F|Sinker|81|3|1|2|2|92
+Lucas Harrell|R|Nolan Arenado|R|Single|D|Curveball|82|3|2|2|11|81
+Lucas Harrell|R|Zack Cozart|R|Walk|C|Sinker|0|0|0|0|9|92
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Sinker|1|0|1|0|11|90
+Lucas Harrell|R|Zack Cozart|R|Walk|F|Sinker|2|1|1|0|13|90
+Lucas Harrell|R|Zack Cozart|R|Walk|F|Changeup|3|1|2|0|13|82
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|4|1|2|0|11|92
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Slider|5|2|2|0|14|85
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Sinker|6|3|2|0|14|92
+Lucas Harrell|R|Billy Hamilton|L|Single|B|Sinker|7|0|0|0|11|90
+Lucas Harrell|R|Billy Hamilton|L|Single|B|Sinker|8|1|0|0|11|90
+Lucas Harrell|R|Billy Hamilton|L|Single|F|Sinker|9|2|0|0|11|91
+Lucas Harrell|R|Billy Hamilton|L|Single|F|Sinker|10|2|1|0|4|90
+Lucas Harrell|R|Billy Hamilton|L|Single|D|Sinker|11|2|2|0|1|90
+Lucas Harrell|R|Joey Votto|L|Strikeout|C|Sinker|12|0|0|0|3|91
+Lucas Harrell|R|Joey Votto|L|Strikeout|*B|Four-Seam Fastball|13|0|1|0|14|92
+Lucas Harrell|R|Joey Votto|L|Strikeout|F|Changeup|14|1|1|0|4|83
+Lucas Harrell|R|Joey Votto|L|Strikeout|F|Four-Seam Fastball|15|1|2|0|5|92
+Lucas Harrell|R|Joey Votto|L|Strikeout|S|Slider|16|1|2|0|3|84
+Lucas Harrell|R|Jay Bruce|L|Strikeout|B|Slider|17|0|0|1|12|91
+Lucas Harrell|R|Jay Bruce|L|Strikeout|C|Changeup|18|1|0|1|13|83
+Lucas Harrell|R|Jay Bruce|L|Strikeout|F|Sinker|19|1|1|1|6|91
+Lucas Harrell|R|Jay Bruce|L|Strikeout|B|Curveball|20|1|2|1|12|81
+Lucas Harrell|R|Jay Bruce|L|Strikeout|B|Curveball|21|2|2|1|11|80
+Lucas Harrell|R|Jay Bruce|L|Strikeout|S|Slider|22|3|2|1|9|84
+Lucas Harrell|R|Eugenio Suarez|R|Forceout|X|Sinker|23|0|0|2|4|92
+Lucas Harrell|R|Brandon Phillips|R|Groundout|B|Slider|24|0|0|0|12|91
+Lucas Harrell|R|Brandon Phillips|R|Groundout|X|Sinker|25|1|0|0|14|91
+Lucas Harrell|R|Jose Peraza|R|Single|B|Sinker|26|0|0|1|14|92
+Lucas Harrell|R|Jose Peraza|R|Single|B|Slider|27|1|0|1|14|86
+Lucas Harrell|R|Jose Peraza|R|Single|D|Sinker|28|2|0|1|4|92
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|*B|Sinker|29|0|0|1|13|91
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|B|Changeup|30|1|0|1|13|83
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|F|Sinker|31|2|0|1|1|91
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|32|2|1|1|12|92
+Lucas Harrell|R|Anthony DeSclafani|R|Forceout|S|Sinker|33|0|0|2|4|92
+Lucas Harrell|R|Anthony DeSclafani|R|Forceout|B|Sinker|34|0|1|2|14|91
+Lucas Harrell|R|Anthony DeSclafani|R|Forceout|F|Sinker|35|1|1|2|11|91
+Lucas Harrell|R|Anthony DeSclafani|R|Forceout|X|Sinker|36|1|2|2|6|91
+Lucas Harrell|R|Zack Cozart|R|Lineout|C|Sinker|37|0|0|0|1|92
+Lucas Harrell|R|Zack Cozart|R|Lineout|X|Slider|38|0|1|0|6|85
+Lucas Harrell|R|Billy Hamilton|L|Flyout|B|Sinker|39|0|0|1|14|92
+Lucas Harrell|R|Billy Hamilton|L|Flyout|X|Slider|40|1|0|1|5|85
+Lucas Harrell|R|Joey Votto|L|Walk|F|Slider|41|0|0|2|6|87
+Lucas Harrell|R|Joey Votto|L|Walk|C|Sinker|42|0|1|2|3|91
+Lucas Harrell|R|Joey Votto|L|Walk|B|Sinker|43|0|2|2|11|91
+Lucas Harrell|R|Joey Votto|L|Walk|F|Changeup|44|1|2|2|13|84
+Lucas Harrell|R|Joey Votto|L|Walk|F|Four-Seam Fastball|45|1|2|2|2|93
+Lucas Harrell|R|Joey Votto|L|Walk|B|Sinker|46|1|2|2|12|92
+Lucas Harrell|R|Joey Votto|L|Walk|B|Changeup|47|2|2|2|11|83
+Lucas Harrell|R|Joey Votto|L|Walk|B|Slider|48|3|2|2|14|85
+Lucas Harrell|R|Jay Bruce|L|Flyout|C|Changeup|49|0|0|2|13|82
+Lucas Harrell|R|Jay Bruce|L|Flyout|B|Sinker|50|0|1|2|14|90
+Lucas Harrell|R|Jay Bruce|L|Flyout|F|Sinker|51|1|1|2|5|91
+Lucas Harrell|R|Jay Bruce|L|Flyout|*B|Curveball|52|1|2|2|14|80
+Lucas Harrell|R|Jay Bruce|L|Flyout|X|Changeup|53|2|2|2|8|83
+Lucas Harrell|R|Eugenio Suarez|R|Hit By Pitch|C|Four-Seam Fastball|54|0|0|0|2|91
+Lucas Harrell|R|Eugenio Suarez|R|Hit By Pitch|H|Sinker|55|0|1|0|11|90
+Lucas Harrell|R|Brandon Phillips|R|Grounded Into DP|S|Sinker|56|0|0|0|11|91
+Lucas Harrell|R|Brandon Phillips|R|Grounded Into DP|X|Sinker|57|0|1|0|5|90
+Lucas Harrell|R|Jose Peraza|R|Groundout|C|Sinker|58|0|0|2|14|92
+Lucas Harrell|R|Jose Peraza|R|Groundout|B|Slider|59|0|1|2|14|86
+Lucas Harrell|R|Jose Peraza|R|Groundout|F|Slider|60|1|1|2|14|86
+Lucas Harrell|R|Jose Peraza|R|Groundout|B|Slider|61|1|2|2|14|84
+Lucas Harrell|R|Jose Peraza|R|Groundout|X|Sinker|62|2|2|2|13|91
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|C|Curveball|63|0|0|0|1|79
+Lucas Harrell|R|Tucker Barnhart|L|Flyout|X|Sinker|64|0|1|0|2|91
+Lucas Harrell|R|Anthony DeSclafani|R|Single|C|Sinker|65|0|0|1|6|91
+Lucas Harrell|R|Anthony DeSclafani|R|Single|D|Slider|66|0|1|1|14|83
+Lucas Harrell|R|Zack Cozart|R|Walk|*B|Slider|67|0|0|1|14|85
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Four-Seam Fastball|68|1|0|1|14|91
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Sinker|69|2|0|1|14|92
+Lucas Harrell|R|Zack Cozart|R|Walk|C|Sinker|70|3|0|1|5|92
+Lucas Harrell|R|Zack Cozart|R|Walk|B|Sinker|71|3|1|1|14|92
+Lucas Harrell|R|Billy Hamilton|L|Flyout|F|Sinker|72|0|0|1|4|92
+Lucas Harrell|R|Billy Hamilton|L|Flyout|F|Four-Seam Fastball|73|0|1|1|6|92
+Lucas Harrell|R|Billy Hamilton|L|Flyout|X|Slider|74|0|2|1|14|85
+Lucas Harrell|R|Joey Votto|L|Flyout|*B|Slider|75|0|0|2|14|86
+Lucas Harrell|R|Joey Votto|L|Flyout|B|Slider|76|1|0|2|12|92
+Lucas Harrell|R|Joey Votto|L|Flyout|*B|Slider|77|2|0|2|14|86
+Lucas Harrell|R|Joey Votto|L|Flyout|X|Sinker|78|3|0|2|4|91
+Lucas Harrell|R|Jay Bruce|L|Single|B|Curveball|79|0|0|0|11|80
+Lucas Harrell|R|Jay Bruce|L|Single|D|Four-Seam Fastball|80|1|0|0|6|91
+Lucas Harrell|R|Eugenio Suarez|R|Single|S|Curveball|81|0|0|0|14|84
+Lucas Harrell|R|Eugenio Suarez|R|Single|C|Sinker|82|0|1|0|14|91
+Lucas Harrell|R|Eugenio Suarez|R|Single|D|Sinker|83|0|2|0|4|90
+Lucas Harrell|R|Brandon Phillips|R|Lineout|X|Sinker|84|0|0|0|8|92
+Lucas Harrell|R|Jose Peraza|R|Single|B|Slider|85|0|0|1|14|84
+Lucas Harrell|R|Jose Peraza|R|Single|E|Sinker|86|1|0|1|7|91
+Lucas Harrell|R|Tucker Barnhart|L|Home Run|B|Slider|87|0|0|1|11|85
+Lucas Harrell|R|Tucker Barnhart|L|Home Run|F|Slider|88|1|0|1|9|85
+Lucas Harrell|R|Tucker Barnhart|L|Home Run|E|Sinker|89|1|1|1|3|92
+Lucas Harrell|R|Anthony DeSclafani|R|Strikeout|T|Sinker|90|0|0|1|12|91
+Lucas Harrell|R|Anthony DeSclafani|R|Strikeout|B|Sinker|91|0|1|1|14|91
+Lucas Harrell|R|Anthony DeSclafani|R|Strikeout|C|Sinker|92|1|1|1|1|92
+Lucas Harrell|R|Anthony DeSclafani|R|Strikeout|S|Curveball|93|1|2|1|9|81
+Lucas Harrell|R|Zack Cozart|R|Flyout|B|Changeup|94|0|0|2|14|89
+Lucas Harrell|R|Zack Cozart|R|Flyout|X|Slider|95|1|0|2|5|83
+Lucas Harrell|R|Eduardo Nunez|R|Walk|C|Sinker|0|0|0|0|6|91
+Lucas Harrell|R|Eduardo Nunez|R|Walk|B|Sinker|1|0|1|0|14|92
+Lucas Harrell|R|Eduardo Nunez|R|Walk|B|Slider|2|1|1|0|14|85
+Lucas Harrell|R|Eduardo Nunez|R|Walk|B|Sinker|3|2|1|0|14|93
+Lucas Harrell|R|Eduardo Nunez|R|Walk|B|Sinker|4|3|1|0|14|92
+Lucas Harrell|R|Joe Mauer|L|Lineout|B|Sinker|5|0|0|0|14|91
+Lucas Harrell|R|Joe Mauer|L|Lineout|C|Sinker|6|1|0|0|13|92
+Lucas Harrell|R|Joe Mauer|L|Lineout|B|Sinker|7|1|1|0|13|92
+Lucas Harrell|R|Joe Mauer|L|Lineout|B|Changeup|8|2|1|0|13|84
+Lucas Harrell|R|Joe Mauer|L|Lineout|X|Sinker|9|3|1|0|5|92
+Lucas Harrell|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|10|0|0|1|8|92
+Lucas Harrell|R|Miguel Sano|R|Strikeout|B|Sinker|11|0|1|1|11|92
+Lucas Harrell|R|Miguel Sano|R|Strikeout|F|Sinker|12|1|1|1|11|92
+Lucas Harrell|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|13|1|2|1|9|92
+Lucas Harrell|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|14|0|0|2|6|92
+Lucas Harrell|R|Brian Dozier|R|Groundout|B|Four-Seam Fastball|15|0|1|2|12|92
+Lucas Harrell|R|Brian Dozier|R|Groundout|C|Sinker|16|1|1|2|12|93
+Lucas Harrell|R|Brian Dozier|R|Groundout|X|Four-Seam Fastball|17|1|2|2|12|93
+Lucas Harrell|R|Max Kepler|L|Groundout|C|Sinker|18|0|0|0|13|91
+Lucas Harrell|R|Max Kepler|L|Groundout|C|Sinker|19|0|1|0|6|91
+Lucas Harrell|R|Max Kepler|L|Groundout|X|Sinker|20|0|2|0|14|92
+Lucas Harrell|R|Kennys Vargas|L|Single|B|Curveball|21|0|0|1|11|79
+Lucas Harrell|R|Kennys Vargas|L|Single|B|Slider|22|1|0|1|14|88
+Lucas Harrell|R|Kennys Vargas|L|Single|C|Sinker|23|2|0|1|13|92
+Lucas Harrell|R|Kennys Vargas|L|Single|D|Sinker|24|2|1|1|14|92
+Lucas Harrell|R|Eddie Rosario|L|Flyout|F|Sinker|25|0|0|1|12|93
+Lucas Harrell|R|Eddie Rosario|L|Flyout|B|Four-Seam Fastball|26|0|1|1|12|91
+Lucas Harrell|R|Eddie Rosario|L|Flyout|X|Curveball|27|1|1|1|5|82
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|B|Four-Seam Fastball|28|0|0|2|11|92
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|B|Sinker|29|1|0|2|11|92
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|C|Sinker|30|2|0|2|1|92
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|C|Sinker|31|2|1|2|6|91
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|F|Sinker|32|2|2|2|11|92
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|F|Sinker|33|2|2|2|12|92
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|F|Slider|34|2|2|2|12|86
+Lucas Harrell|R|Kurt Suzuki|R|Flyout|X|Slider|35|2|2|2|9|87
+Lucas Harrell|R|Byron Buxton|R|Walk|B|Slider|36|0|0|0|14|84
+Lucas Harrell|R|Byron Buxton|R|Walk|B|Slider|37|1|0|0|14|86
+Lucas Harrell|R|Byron Buxton|R|Walk|B|Sinker|38|2|0|0|12|92
+Lucas Harrell|R|Byron Buxton|R|Walk|C|Sinker|39|3|0|0|7|91
+Lucas Harrell|R|Byron Buxton|R|Walk|B|Sinker|40|3|1|0|14|92
+Lucas Harrell|R|Eduardo Nunez|R|Single|D|Sinker|41|0|0|0|8|91
+Lucas Harrell|R|Joe Mauer|L|Strikeout|B|Changeup|42|0|0|0|13|84
+Lucas Harrell|R|Joe Mauer|L|Strikeout|C|Sinker|43|1|0|0|7|91
+Lucas Harrell|R|Joe Mauer|L|Strikeout|B|Curveball|44|1|1|0|14|83
+Lucas Harrell|R|Joe Mauer|L|Strikeout|B|Changeup|45|2|1|0|13|86
+Lucas Harrell|R|Joe Mauer|L|Strikeout|C|Sinker|46|3|1|0|1|91
+Lucas Harrell|R|Joe Mauer|L|Strikeout|S|Slider|47|3|2|0|6|89
+Lucas Harrell|R|Miguel Sano|R|Strikeout|C|Slider|48|0|0|1|6|85
+Lucas Harrell|R|Miguel Sano|R|Strikeout|B|Sinker|49|0|1|1|11|92
+Lucas Harrell|R|Miguel Sano|R|Strikeout|S|Slider|50|1|1|1|14|87
+Lucas Harrell|R|Miguel Sano|R|Strikeout|B|Slider|51|1|2|1|14|87
+Lucas Harrell|R|Miguel Sano|R|Strikeout|C|Sinker|52|2|2|1|1|92
+Lucas Harrell|R|Brian Dozier|R|Single|B|Slider|53|0|0|2|14|87
+Lucas Harrell|R|Brian Dozier|R|Single|C|Sinker|54|1|0|2|9|92
+Lucas Harrell|R|Brian Dozier|R|Single|B|Slider|55|1|1|2|14|87
+Lucas Harrell|R|Brian Dozier|R|Single|D|Sinker|56|2|1|2|3|92
+Lucas Harrell|R|Max Kepler|L|Forceout|B|Changeup|57|0|0|2|13|84
+Lucas Harrell|R|Max Kepler|L|Forceout|X|Changeup|58|1|0|2|13|84
+Lucas Harrell|R|Kennys Vargas|L|Walk|B|Sinker|59|0|0|0|11|91
+Lucas Harrell|R|Kennys Vargas|L|Walk|B|Slider|60|1|0|0|12|86
+Lucas Harrell|R|Kennys Vargas|L|Walk|B|Changeup|61|2|0|0|14|84
+Lucas Harrell|R|Kennys Vargas|L|Walk|C|Sinker|62|3|0|0|13|91
+Lucas Harrell|R|Kennys Vargas|L|Walk|B|Sinker|63|3|1|0|13|89
+Lucas Harrell|R|Eddie Rosario|L|Strikeout|C|Slider|64|0|0|0|1|87
+Lucas Harrell|R|Eddie Rosario|L|Strikeout|F|Slider|65|0|1|0|2|87
+Lucas Harrell|R|Eddie Rosario|L|Strikeout|S|Slider|66|0|2|0|6|87
+Lucas Harrell|R|Kurt Suzuki|R|Pop Out|C|Slider|67|0|0|1|14|87
+Lucas Harrell|R|Kurt Suzuki|R|Pop Out|F|Sinker|68|0|1|1|9|92
+Lucas Harrell|R|Kurt Suzuki|R|Pop Out|X|Sinker|69|0|2|1|13|92
+Lucas Harrell|R|Byron Buxton|R|Single|C|Four-Seam Fastball|70|0|0|2|12|91
+Lucas Harrell|R|Byron Buxton|R|Single|B|Sinker|71|0|1|2|14|91
+Lucas Harrell|R|Byron Buxton|R|Single|C|Four-Seam Fastball|72|1|1|2|12|91
+Lucas Harrell|R|Byron Buxton|R|Single|B|Slider|73|1|2|2|14|87
+Lucas Harrell|R|Byron Buxton|R|Single|F|Four-Seam Fastball|74|2|2|2|6|92
+Lucas Harrell|R|Byron Buxton|R|Single|B|Changeup|75|2|2|2|14|84
+Lucas Harrell|R|Byron Buxton|R|Single|D|Slider|76|3|2|2|14|87
+Lucas Harrell|R|Eduardo Nunez|R|Forceout|B|Sinker|77|0|0|2|13|91
+Lucas Harrell|R|Eduardo Nunez|R|Forceout|B|Sinker|78|1|0|2|11|91
+Lucas Harrell|R|Eduardo Nunez|R|Forceout|C|Sinker|79|2|0|2|4|91
+Lucas Harrell|R|Eduardo Nunez|R|Forceout|F|Sinker|80|2|1|2|11|90
+Lucas Harrell|R|Eduardo Nunez|R|Forceout|X|Sinker|81|2|2|2|4|91
+Lucas Harrell|R|Joe Mauer|L|Lineout|B|Sinker|82|0|0|0|11|89
+Lucas Harrell|R|Joe Mauer|L|Lineout|B|Sinker|83|1|0|0|11|91
+Lucas Harrell|R|Joe Mauer|L|Lineout|X|Sinker|84|2|0|0|8|91
+Lucas Harrell|R|Miguel Sano|R|Flyout|F|Slider|85|0|0|1|4|87
+Lucas Harrell|R|Miguel Sano|R|Flyout|B|Four-Seam Fastball|86|0|1|1|14|91
+Lucas Harrell|R|Miguel Sano|R|Flyout|B|Sinker|87|1|1|1|14|90
+Lucas Harrell|R|Miguel Sano|R|Flyout|S|Slider|88|2|1|1|14|86
+Lucas Harrell|R|Miguel Sano|R|Flyout|X|Sinker|89|2|2|1|11|91
+Lucas Harrell|R|Brian Dozier|R|Flyout|B|Sinker|90|0|0|2|11|90
+Lucas Harrell|R|Brian Dozier|R|Flyout|B|Slider|91|1|0|2|14|86
+Lucas Harrell|R|Brian Dozier|R|Flyout|C|Four-Seam Fastball|92|2|0|2|9|91
+Lucas Harrell|R|Brian Dozier|R|Flyout|C|Sinker|93|2|1|2|9|91
+Lucas Harrell|R|Brian Dozier|R|Flyout|F|Sinker|94|2|2|2|4|91
+Lucas Harrell|R|Brian Dozier|R|Flyout|B|Slider|95|2|2|2|12|85
+Lucas Harrell|R|Brian Dozier|R|Flyout|F|Four-Seam Fastball|96|3|2|2|14|91
+Lucas Harrell|R|Brian Dozier|R|Flyout|X|Four-Seam Fastball|97|3|2|2|14|92
+Lucas Harrell|R|Max Kepler|L|Groundout|S|Sinker|98|0|0|0|14|92
+Lucas Harrell|R|Max Kepler|L|Groundout|B|Four-Seam Fastball|99|0|1|0|14|92
+Lucas Harrell|R|Max Kepler|L|Groundout|S|Slider|100|1|1|0|14|87
+Lucas Harrell|R|Max Kepler|L|Groundout|B|Sinker|101|1|2|0|13|92
+Lucas Harrell|R|Max Kepler|L|Groundout|X|Slider|102|2|2|0|6|88
+Lucas Harrell|R|Kennys Vargas|L|Pop Out|B|Changeup|103|0|0|1|14|86
+Lucas Harrell|R|Kennys Vargas|L|Pop Out|X|Four-Seam Fastball|104|1|0|1|9|92
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|F|Sinker|0|0|0|0|6|90
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|F|Sinker|1|0|1|0|2|90
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|F|Sinker|2|0|2|0|11|89
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|B|Slider|3|0|2|0|14|86
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|B|Sinker|4|1|2|0|13|90
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|B|Slider|5|2|2|0|14|85
+Lucas Harrell|R|Alcides Escobar|R|Pop Out|X|Sinker|6|3|2|0|2|91
+Lucas Harrell|R|Cheslor Cuthbert|R|Groundout|C|Four-Seam Fastball|7|0|0|1|1|90
+Lucas Harrell|R|Cheslor Cuthbert|R|Groundout|B|Four-Seam Fastball|8|0|1|1|9|91
+Lucas Harrell|R|Cheslor Cuthbert|R|Groundout|B|Slider|9|1|1|1|14|85
+Lucas Harrell|R|Cheslor Cuthbert|R|Groundout|X|Slider|10|2|1|1|8|85
+Lucas Harrell|R|Eric Hosmer|L|Home Run|B|Sinker|11|0|0|2|13|91
+Lucas Harrell|R|Eric Hosmer|L|Home Run|B|Slider|12|1|0|2|14|88
+Lucas Harrell|R|Eric Hosmer|L|Home Run|S|Sinker|13|2|0|2|13|91
+Lucas Harrell|R|Eric Hosmer|L|Home Run|B|Four-Seam Fastball|14|2|1|2|12|92
+Lucas Harrell|R|Eric Hosmer|L|Home Run|S|Sinker|15|3|1|2|13|90
+Lucas Harrell|R|Eric Hosmer|L|Home Run|E|Sinker|16|3|2|2|4|91
+Lucas Harrell|R|Kendrys Morales|L|Flyout|B|Sinker|17|0|0|2|11|90
+Lucas Harrell|R|Kendrys Morales|L|Flyout|X|Sinker|18|1|0|2|4|90
+Lucas Harrell|R|Alex Gordon|L|Single|C|Four-Seam Fastball|19|0|0|0|12|90
+Lucas Harrell|R|Alex Gordon|L|Single|B|Slider|20|0|1|0|12|86
+Lucas Harrell|R|Alex Gordon|L|Single|B|Changeup|21|1|1|0|13|84
+Lucas Harrell|R|Alex Gordon|L|Single|D|Sinker|22|2|1|0|14|91
+Lucas Harrell|R|Paulo Orlando|R|Sac Bunt|X|Slider|23|0|0|0|2|85
+Lucas Harrell|R|Drew Butera|R|Groundout|F|Slider|24|0|0|1|3|85
+Lucas Harrell|R|Drew Butera|R|Groundout|B|Four-Seam Fastball|25|0|1|1|14|91
+Lucas Harrell|R|Drew Butera|R|Groundout|*B|Slider|26|1|1|1|14|83
+Lucas Harrell|R|Drew Butera|R|Groundout|C|Slider|27|2|1|1|6|85
+Lucas Harrell|R|Drew Butera|R|Groundout|X|Curveball|28|2|2|1|12|80
+Lucas Harrell|R|Jarrod Dyson|L|Groundout|B|Curveball|29|0|0|2|14|81
+Lucas Harrell|R|Jarrod Dyson|L|Groundout|B|Slider|30|1|0|2|14|87
+Lucas Harrell|R|Jarrod Dyson|L|Groundout|X|Slider|31|2|0|2|5|86
+Lucas Harrell|R|Adalberto Mondesi|L|Field Error|B|Four-Seam Fastball|32|0|0|0|11|90
+Lucas Harrell|R|Adalberto Mondesi|L|Field Error|D|Sinker|33|1|0|0|7|90
+Lucas Harrell|R|Alcides Escobar|R|Grounded Into DP|B|Slider|34|0|0|0|11|85
+Lucas Harrell|R|Alcides Escobar|R|Grounded Into DP|L|Slider|35|1|0|0|13|84
+Lucas Harrell|R|Alcides Escobar|R|Grounded Into DP|F|Four-Seam Fastball|36|1|1|0|5|90
+Lucas Harrell|R|Alcides Escobar|R|Grounded Into DP|X|Sinker|37|1|2|0|13|91
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|B|Curveball|38|0|0|2|14|82
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|B|Slider|39|1|0|2|14|86
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|B|Sinker|40|2|0|2|11|90
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|C|Four-Seam Fastball|41|3|0|2|9|91
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|F|Four-Seam Fastball|42|3|1|2|6|92
+Lucas Harrell|R|Cheslor Cuthbert|R|Walk|B|Four-Seam Fastball|43|3|2|2|12|91
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|44|0|0|2|6|91
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|B|Slider|45|0|1|2|14|85
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|C|Curveball|46|1|1|2|8|80
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|*B|Slider|47|1|2|2|14|88
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|*B|Curveball|48|2|2|2|14|80
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|F|Curveball|49|3|2|2|8|81
+Lucas Harrell|R|Eric Hosmer|L|Strikeout|S|Slider|50|3|2|2|14|88
+Lucas Harrell|R|Kendrys Morales|L|Walk|B|Four-Seam Fastball|51|0|0|0|12|91
+Lucas Harrell|R|Kendrys Morales|L|Walk|B|Changeup|52|1|0|0|13|84
+Lucas Harrell|R|Kendrys Morales|L|Walk|B|Changeup|53|2|0|0|13|83
+Lucas Harrell|R|Kendrys Morales|L|Walk|C|Sinker|54|3|0|0|4|91
+Lucas Harrell|R|Kendrys Morales|L|Walk|B|Sinker|55|3|1|0|13|90
+Lucas Harrell|R|Alex Gordon|L|Lineout|B|Sinker|56|0|0|0|11|90
+Lucas Harrell|R|Alex Gordon|L|Lineout|X|Four-Seam Fastball|57|1|0|0|5|91
+Lucas Harrell|R|Paulo Orlando|R|Grounded Into DP|F|Slider|58|0|0|1|6|86
+Lucas Harrell|R|Paulo Orlando|R|Grounded Into DP|B|Four-Seam Fastball|59|0|1|1|14|91
+Lucas Harrell|R|Paulo Orlando|R|Grounded Into DP|X|Curveball|60|1|1|1|7|81
+Lucas Harrell|R|Drew Butera|R|Home Run|B|Four-Seam Fastball|61|0|0|0|11|90
+Lucas Harrell|R|Drew Butera|R|Home Run|E|Sinker|62|1|0|0|12|89
+Lucas Harrell|R|Jarrod Dyson|L|Walk|B|Sinker|63|0|0|0|9|91
+Lucas Harrell|R|Jarrod Dyson|L|Walk|B|Sinker|64|1|0|0|13|90
+Lucas Harrell|R|Jarrod Dyson|L|Walk|C|Sinker|65|2|0|0|4|90
+Lucas Harrell|R|Jarrod Dyson|L|Walk|B|Sinker|66|2|1|0|11|90
+Lucas Harrell|R|Jarrod Dyson|L|Walk|B|Sinker|67|3|1|0|13|90
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|B|Sinker|68|0|0|0|14|91
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|B|Sinker|69|1|0|0|13|88
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|C|Sinker|70|2|0|0|4|89
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|B|Slider|71|2|1|0|14|85
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|S|Sinker|72|3|1|0|13|89
+Lucas Harrell|R|Adalberto Mondesi|L|Strikeout|S|Slider|73|3|2|0|14|85
+Lucas Harrell|R|Alcides Escobar|R|Single|*B|Curveball|74|0|0|1|14|79
+Lucas Harrell|R|Alcides Escobar|R|Single|*B|Slider|75|1|0|1|14|85
+Lucas Harrell|R|Alcides Escobar|R|Single|B|Four-Seam Fastball|76|2|0|1|14|90
+Lucas Harrell|R|Alcides Escobar|R|Single|C|Four-Seam Fastball|77|3|0|1|11|89
+Lucas Harrell|R|Alcides Escobar|R|Single|E|Four-Seam Fastball|78|3|1|1|12|90
+Lucas Harrell|R|Cheslor Cuthbert|R|Lineout|C|Sinker|79|0|0|1|8|89
+Lucas Harrell|R|Cheslor Cuthbert|R|Lineout|X|Slider|80|0|1|1|14|82
+Lucas Harrell|R|Eric Hosmer|L|Groundout|B|Slider|81|0|0|2|14|85
+Lucas Harrell|R|Eric Hosmer|L|Groundout|C|Curveball|82|1|0|2|13|78
+Lucas Harrell|R|Eric Hosmer|L|Groundout|X|Curveball|83|1|1|2|7|79
+Lucas Harrell|R|Kendrys Morales|L|Groundout|B|Curveball|84|0|0|0|11|77
+Lucas Harrell|R|Kendrys Morales|L|Groundout|B|Sinker|85|1|0|0|11|89
+Lucas Harrell|R|Kendrys Morales|L|Groundout|X|Sinker|86|2|0|0|7|90
+Lucas Harrell|R|Alex Gordon|L|Flyout|C|Curveball|87|0|0|1|11|80
+Lucas Harrell|R|Alex Gordon|L|Flyout|C|Slider|88|0|1|1|11|84
+Lucas Harrell|R|Alex Gordon|L|Flyout|B|Slider|89|0|2|1|14|86
+Lucas Harrell|R|Alex Gordon|L|Flyout|X|Curveball|90|1|2|1|2|80
+Lucas Harrell|R|Paulo Orlando|R|Flyout|B|Curveball|91|0|0|2|13|81
+Lucas Harrell|R|Paulo Orlando|R|Flyout|C|Sinker|92|1|0|2|14|91
+Lucas Harrell|R|Paulo Orlando|R|Flyout|X|Slider|93|1|1|2|14|86
+Lucas Harrell|R|George Springer|R|Strikeout|F|Sinker|0|0|0|0|13|91
+Lucas Harrell|R|George Springer|R|Strikeout|B|Sinker|1|0|1|0|13|91
+Lucas Harrell|R|George Springer|R|Strikeout|B|Sinker|2|1|1|0|14|91
+Lucas Harrell|R|George Springer|R|Strikeout|C|Four-Seam Fastball|3|2|1|0|13|92
+Lucas Harrell|R|George Springer|R|Strikeout|B|Curveball|4|2|2|0|14|83
+Lucas Harrell|R|George Springer|R|Strikeout|S|Sinker|5|3|2|0|1|93
+Lucas Harrell|R|Alex Bregman|R|Double|B|Four-Seam Fastball|6|0|0|1|14|93
+Lucas Harrell|R|Alex Bregman|R|Double|F|Four-Seam Fastball|7|1|0|1|6|92
+Lucas Harrell|R|Alex Bregman|R|Double|D|Four-Seam Fastball|8|1|1|1|6|92
+Lucas Harrell|R|Jose Altuve|R|Groundout|C|Curveball|9|0|0|1|14|82
+Lucas Harrell|R|Jose Altuve|R|Groundout|F|Sinker|10|0|1|1|11|92
+Lucas Harrell|R|Jose Altuve|R|Groundout|B|Four-Seam Fastball|11|0|2|1|12|91
+Lucas Harrell|R|Jose Altuve|R|Groundout|X|Curveball|12|1|2|1|9|81
+Lucas Harrell|R|Carlos Correa|R|Walk|B|Slider|13|0|0|2|13|91
+Lucas Harrell|R|Carlos Correa|R|Walk|B|Sinker|14|1|0|2|13|92
+Lucas Harrell|R|Carlos Correa|R|Walk|C|Curveball|15|2|0|2|3|82
+Lucas Harrell|R|Carlos Correa|R|Walk|B|Sinker|16|2|1|2|14|91
+Lucas Harrell|R|Carlos Correa|R|Walk|B|Sinker|17|3|1|2|13|90
+Lucas Harrell|R|Evan Gattis|R|Walk|*B|Curveball|18|0|0|2|14|83
+Lucas Harrell|R|Evan Gattis|R|Walk|B|Curveball|19|1|0|2|11|82
+Lucas Harrell|R|Evan Gattis|R|Walk|*B|Sinker|20|2|0|2|13|92
+Lucas Harrell|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|21|3|0|2|14|92
+Lucas Harrell|R|Preston Tucker|L|Walk|B|Curveball|22|0|0|2|13|82
+Lucas Harrell|R|Preston Tucker|L|Walk|B|Four-Seam Fastball|23|1|0|2|14|91
+Lucas Harrell|R|Preston Tucker|L|Walk|B|Sinker|24|2|0|2|13|91
+Lucas Harrell|R|Preston Tucker|L|Walk|*B|Sinker|25|3|0|2|14|91
+Lucas Harrell|R|AJ Reed|L|Strikeout|C|Sinker|26|0|0|2|13|91
+Lucas Harrell|R|AJ Reed|L|Strikeout|*B|Curveball|27|0|1|2|14|82
+Lucas Harrell|R|AJ Reed|L|Strikeout|C|Four-Seam Fastball|28|1|1|2|3|92
+Lucas Harrell|R|AJ Reed|L|Strikeout|*B|Curveball|29|1|2|2|14|82
+Lucas Harrell|R|AJ Reed|L|Strikeout|S|Four-Seam Fastball|30|2|2|2|11|92
+Lucas Harrell|R|Jake Marisnick|R|Single|B|Curveball|31|0|0|0|11|79
+Lucas Harrell|R|Jake Marisnick|R|Single|B|Four-Seam Fastball|32|1|0|0|14|90
+Lucas Harrell|R|Jake Marisnick|R|Single|F|Four-Seam Fastball|33|2|0|0|6|91
+Lucas Harrell|R|Jake Marisnick|R|Single|F|Sinker|34|2|1|0|13|90
+Lucas Harrell|R|Jake Marisnick|R|Single|B|Curveball|35|2|2|0|14|81
+Lucas Harrell|R|Jake Marisnick|R|Single|D|Sinker|36|3|2|0|7|92
+Lucas Harrell|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|37|0|0|0|12|91
+Lucas Harrell|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|38|1|0|0|6|92
+Lucas Harrell|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|39|1|1|0|3|92
+Lucas Harrell|R|Jason Castro|L|Strikeout|S|Curveball|40|1|2|0|4|80
+Lucas Harrell|R|George Springer|R|Strikeout|F|Curveball|41|0|0|1|14|80
+Lucas Harrell|R|George Springer|R|Strikeout|B|Slider|42|0|1|1|14|85
+Lucas Harrell|R|George Springer|R|Strikeout|B|Sinker|43|1|1|1|13|91
+Lucas Harrell|R|George Springer|R|Strikeout|C|Slider|44|2|1|1|14|88
+Lucas Harrell|R|George Springer|R|Strikeout|C|Sinker|45|2|2|1|13|92
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Curveball|46|0|0|2|7|82
+Lucas Harrell|R|Alex Bregman|R|Strikeout|B|Slider|47|0|1|2|14|87
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Slider|48|1|1|2|9|88
+Lucas Harrell|R|Alex Bregman|R|Strikeout|B|Curveball|49|1|2|2|14|81
+Lucas Harrell|R|Alex Bregman|R|Strikeout|B|Slider|50|2|2|2|14|86
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Slider|51|3|2|2|14|87
+Lucas Harrell|R|Jose Altuve|R|Walk|B|Sinker|52|0|0|0|13|90
+Lucas Harrell|R|Jose Altuve|R|Walk|B|Slider|53|1|0|0|14|86
+Lucas Harrell|R|Jose Altuve|R|Walk|C|Slider|54|2|0|0|1|86
+Lucas Harrell|R|Jose Altuve|R|Walk|C|Curveball|55|2|1|0|5|82
+Lucas Harrell|R|Jose Altuve|R|Walk|B|Sinker|56|2|2|0|12|91
+Lucas Harrell|R|Jose Altuve|R|Walk|B|Curveball|57|3|2|0|11|81
+Lucas Harrell|R|Carlos Correa|R|Lineout|B|Sinker|58|0|0|0|11|91
+Lucas Harrell|R|Carlos Correa|R|Lineout|C|Slider|59|1|0|0|2|86
+Lucas Harrell|R|Carlos Correa|R|Lineout|B|Slider|60|1|1|0|14|88
+Lucas Harrell|R|Carlos Correa|R|Lineout|F|Sinker|61|2|1|0|4|92
+Lucas Harrell|R|Carlos Correa|R|Lineout|F|Sinker|62|2|2|0|13|91
+Lucas Harrell|R|Carlos Correa|R|Lineout|F|Sinker|63|2|2|0|13|90
+Lucas Harrell|R|Carlos Correa|R|Lineout|B|Curveball|64|2|2|0|11|81
+Lucas Harrell|R|Carlos Correa|R|Lineout|F|Curveball|65|3|2|0|8|82
+Lucas Harrell|R|Carlos Correa|R|Lineout|X|Changeup|66|3|2|0|4|89
+Lucas Harrell|R|Evan Gattis|R|Single|D|Slider|67|0|0|1|6|86
+Lucas Harrell|R|Preston Tucker|L|Single|C|Sinker|68|0|0|1|7|91
+Lucas Harrell|R|Preston Tucker|L|Single|B|Four-Seam Fastball|69|0|1|1|12|92
+Lucas Harrell|R|Preston Tucker|L|Single|F|Sinker|70|1|1|1|7|89
+Lucas Harrell|R|Preston Tucker|L|Single|B|Curveball|71|1|2|1|11|80
+Lucas Harrell|R|Preston Tucker|L|Single|*B|Curveball|72|2|2|1|13|81
+Lucas Harrell|R|Preston Tucker|L|Single|D|Slider|73|3|2|1|4|86
+Lucas Harrell|R|AJ Reed|L|Walk|B|Four-Seam Fastball|74|0|0|1|14|91
+Lucas Harrell|R|AJ Reed|L|Walk|*B|Curveball|75|1|0|1|14|81
+Lucas Harrell|R|AJ Reed|L|Walk|B|Four-Seam Fastball|76|2|0|1|12|91
+Lucas Harrell|R|AJ Reed|L|Walk|B|Four-Seam Fastball|77|3|0|1|12|91
+Lucas Harrell|R|Jake Marisnick|R|Forceout|*B|Curveball|78|0|0|1|14|82
+Lucas Harrell|R|Jake Marisnick|R|Forceout|X|Slider|79|1|0|1|9|87
+Lucas Harrell|R|Jason Castro|L|Groundout|F|Four-Seam Fastball|80|0|0|2|3|90
+Lucas Harrell|R|Jason Castro|L|Groundout|F|Slider|81|0|1|2|9|86
+Lucas Harrell|R|Jason Castro|L|Groundout|B|Four-Seam Fastball|82|0|2|2|12|91
+Lucas Harrell|R|Jason Castro|L|Groundout|X|Curveball|83|1|2|2|14|81
+Lucas Harrell|R|George Springer|R|Groundout|F|Curveball|84|0|0|0|4|81
+Lucas Harrell|R|George Springer|R|Groundout|B|Sinker|85|0|1|0|11|91
+Lucas Harrell|R|George Springer|R|Groundout|X|Sinker|86|1|1|0|7|91
+Lucas Harrell|R|Alex Bregman|R|Single|B|Slider|87|0|0|1|14|86
+Lucas Harrell|R|Alex Bregman|R|Single|S|Slider|88|1|0|1|9|85
+Lucas Harrell|R|Alex Bregman|R|Single|B|Slider|89|1|1|1|14|87
+Lucas Harrell|R|Alex Bregman|R|Single|B|Curveball|90|2|1|1|14|82
+Lucas Harrell|R|Alex Bregman|R|Single|D|Four-Seam Fastball|91|3|1|1|2|92
+Lucas Harrell|R|Charlie Blackmon|L|Home Run|B|Sinker|0|0|0|0|11|90
+Lucas Harrell|R|Charlie Blackmon|L|Home Run|E|Sinker|1|1|0|0|1|89
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|B|Sinker|2|0|0|0|14|90
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|C|Sinker|3|1|0|0|13|90
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|B|Sinker|4|1|1|0|11|90
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|F|Sinker|5|2|1|0|4|91
+Lucas Harrell|R|DJ LeMahieu|R|Groundout|X|Sinker|6|2|2|0|13|91
+Lucas Harrell|R|Nolan Arenado|R|Walk|C|Curveball|7|0|0|1|9|81
+Lucas Harrell|R|Nolan Arenado|R|Walk|F|Sinker|8|0|1|1|11|90
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Sinker|9|0|2|1|13|90
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Changeup|10|1|2|1|11|82
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|11|2|2|1|14|91
+Lucas Harrell|R|Nolan Arenado|R|Walk|B|Sinker|12|3|2|1|14|92
+Lucas Harrell|R|David Dahl|L|Single|B|Sinker|13|0|0|1|13|89
+Lucas Harrell|R|David Dahl|L|Single|S|Changeup|14|1|0|1|13|82
+Lucas Harrell|R|David Dahl|L|Single|B|Sinker|15|1|1|1|13|89
+Lucas Harrell|R|David Dahl|L|Single|F|Changeup|16|2|1|1|13|82
+Lucas Harrell|R|David Dahl|L|Single|F|Slider|17|2|2|1|6|87
+Lucas Harrell|R|David Dahl|L|Single|B|Curveball|18|2|2|1|11|77
+Lucas Harrell|R|David Dahl|L|Single|D|Sinker|19|3|2|1|13|90
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|S|Slider|20|0|0|1|9|84
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|B|Slider|21|0|1|1|14|86
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|B|Four-Seam Fastball|22|1|1|1|14|90
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|S|Slider|23|2|1|1|9|83
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|F|Curveball|24|2|2|1|12|80
+Lucas Harrell|R|Mark Reynolds|R|Hit By Pitch|H|Sinker|25|2|2|1|11|90
+Lucas Harrell|R|Gerardo Parra|L|Strikeout|F|Changeup|26|0|0|1|11|82
+Lucas Harrell|R|Gerardo Parra|L|Strikeout|B|Changeup|27|0|1|1|13|82
+Lucas Harrell|R|Gerardo Parra|L|Strikeout|F|Sinker|28|1|1|1|13|90
+Lucas Harrell|R|Gerardo Parra|L|Strikeout|S|Four-Seam Fastball|29|1|2|1|11|91
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|S|Curveball|30|0|0|2|14|81
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|C|Sinker|31|0|1|2|11|91
+Lucas Harrell|R|Daniel Descalso|L|Strikeout|W|Curveball|32|0|2|2|14|81
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|C|Four-Seam Fastball|33|0|0|0|8|91
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|B|Slider|34|0|1|0|14|84
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|F|Four-Seam Fastball|35|1|1|0|9|91
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|S|Curveball|36|1|2|0|11|79
+Lucas Harrell|R|Tony Wolters|L|Strikeout|C|Sinker|37|0|0|1|13|90
+Lucas Harrell|R|Tony Wolters|L|Strikeout|F|Sinker|38|0|1|1|4|90
+Lucas Harrell|R|Tony Wolters|L|Strikeout|T|Curveball|39|0|2|1|7|82
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|C|Four-Seam Fastball|40|0|0|2|2|91
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|X|Sinker|41|0|1|2|13|90
+Lucas Harrell|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|42|0|0|0|5|90
+Lucas Harrell|R|DJ LeMahieu|R|Single|F|Sinker|43|0|1|0|13|90
+Lucas Harrell|R|DJ LeMahieu|R|Single|F|Curveball|44|0|2|0|13|80
+Lucas Harrell|R|DJ LeMahieu|R|Single|B|Curveball|45|0|2|0|14|78
+Lucas Harrell|R|DJ LeMahieu|R|Single|F|Sinker|46|1|2|0|7|91
+Lucas Harrell|R|DJ LeMahieu|R|Single|D|Sinker|47|1|2|0|13|90
+Lucas Harrell|R|Nolan Arenado|R|Single|*B|Sinker|48|0|0|0|14|90
+Lucas Harrell|R|Nolan Arenado|R|Single|B|Sinker|49|1|0|0|14|92
+Lucas Harrell|R|Nolan Arenado|R|Single|C|Curveball|50|2|0|0|8|80
+Lucas Harrell|R|Nolan Arenado|R|Single|B|Changeup|51|2|1|0|13|82
+Lucas Harrell|R|Nolan Arenado|R|Single|D|Curveball|52|3|1|0|8|80
+Lucas Harrell|R|David Dahl|L|Flyout|C|Curveball|53|0|0|0|13|80
+Lucas Harrell|R|David Dahl|L|Flyout|B|Sinker|54|0|1|0|13|89
+Lucas Harrell|R|David Dahl|L|Flyout|B|Changeup|55|1|1|0|13|83
+Lucas Harrell|R|David Dahl|L|Flyout|X|Changeup|56|2|1|0|5|82
+Lucas Harrell|R|Mark Reynolds|R|Double|B|Four-Seam Fastball|57|0|0|1|12|91
+Lucas Harrell|R|Mark Reynolds|R|Double|F|Four-Seam Fastball|58|1|0|1|4|89
+Lucas Harrell|R|Mark Reynolds|R|Double|T|Curveball|59|1|1|1|9|80
+Lucas Harrell|R|Mark Reynolds|R|Double|F|Curveball|60|1|2|1|5|79
+Lucas Harrell|R|Mark Reynolds|R|Double|*B|Curveball|61|1|2|1|14|81
+Lucas Harrell|R|Mark Reynolds|R|Double|E|Curveball|62|2|2|1|5|81
+Lucas Harrell|R|Gerardo Parra|L|Groundout|X|Changeup|63|0|0|1|7|84
+Lucas Harrell|R|Daniel Descalso|L|Single|C|Changeup|64|0|0|2|13|83
+Lucas Harrell|R|Daniel Descalso|L|Single|B|Slider|65|0|1|2|11|84
+Lucas Harrell|R|Daniel Descalso|L|Single|E|Curveball|66|1|1|2|13|81
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|14|90
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|S|Sinker|68|0|1|2|2|89
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|B|Curveball|69|0|2|2|14|79
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|*B|Curveball|70|1|2|2|14|82
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|C|Four-Seam Fastball|71|2|2|2|6|91
+Lucas Harrell|R|Tony Wolters|L|Double|C|Sinker|72|0|0|0|8|89
+Lucas Harrell|R|Tony Wolters|L|Double|B|Sinker|73|0|1|0|13|89
+Lucas Harrell|R|Tony Wolters|L|Double|B|Changeup|74|1|1|0|13|82
+Lucas Harrell|R|Tony Wolters|L|Double|D|Sinker|75|2|1|0|7|88
+Lucas Harrell|R|Charlie Blackmon|L|Double|F|Sinker|76|0|0|0|11|89
+Lucas Harrell|R|Charlie Blackmon|L|Double|E|Sinker|77|0|1|0|13|90
+Lucas Harrell|R|DJ LeMahieu|R|Lineout|F|Curveball|78|0|0|0|4|80
+Lucas Harrell|R|DJ LeMahieu|R|Lineout|X|Sinker|79|0|1|0|7|90
+Lucas Harrell|R|Nolan Arenado|R|Sac Fly|B|Sinker|80|0|0|1|11|89
+Lucas Harrell|R|Nolan Arenado|R|Sac Fly|F|Sinker|81|1|0|1|13|90
+Lucas Harrell|R|Nolan Arenado|R|Sac Fly|B|Sinker|82|1|1|1|11|89
+Lucas Harrell|R|Nolan Arenado|R|Sac Fly|E|Changeup|83|2|1|1|4|81
+Lucas Harrell|R|David Dahl|L|Strikeout|F|Sinker|84|0|0|2|13|90
+Lucas Harrell|R|David Dahl|L|Strikeout|F|Changeup|85|0|1|2|13|84
+Lucas Harrell|R|David Dahl|L|Strikeout|B|Sinker|86|0|2|2|11|90
+Lucas Harrell|R|David Dahl|L|Strikeout|W|Curveball|87|1|2|2|14|82
+Lucas Harrell|R|Mark Reynolds|R|Single|B|Slider|88|0|0|0|14|86
+Lucas Harrell|R|Mark Reynolds|R|Single|F|Sinker|89|1|0|0|13|89
+Lucas Harrell|R|Mark Reynolds|R|Single|D|Sinker|90|1|1|0|13|90
+Lucas Harrell|R|Gerardo Parra|L|Double Play|B|Sinker|91|0|0|0|13|88
+Lucas Harrell|R|Gerardo Parra|L|Double Play|B|Changeup|92|1|0|0|13|82
+Lucas Harrell|R|Gerardo Parra|L|Double Play|F|Sinker|93|2|0|0|13|88
+Lucas Harrell|R|Gerardo Parra|L|Double Play|S|Slider|94|2|1|0|14|86
+Lucas Harrell|R|Gerardo Parra|L|Double Play|X|Sinker|95|2|2|0|6|90
+Lucas Harrell|R|Daniel Descalso|L|Groundout|C|Sinker|96|0|0|2|1|88
+Lucas Harrell|R|Daniel Descalso|L|Groundout|B|Slider|97|0|1|2|14|87
+Lucas Harrell|R|Daniel Descalso|L|Groundout|B|Four-Seam Fastball|98|1|1|2|12|90
+Lucas Harrell|R|Daniel Descalso|L|Groundout|B|Sinker|99|2|1|2|13|89
+Lucas Harrell|R|Daniel Descalso|L|Groundout|X|Sinker|100|3|1|2|13|90
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|B|Sinker|101|0|0|0|14|88
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|S|Four-Seam Fastball|102|1|0|0|12|88
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|C|Four-Seam Fastball|103|1|1|0|6|89
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|B|Curveball|104|1|2|0|14|80
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|B|Four-Seam Fastball|105|2|2|0|12|90
+Lucas Harrell|R|Ryan Raburn|R|Strikeout|S|Sinker|106|3|2|0|11|90
+Lucas Harrell|R|Tony Wolters|L|Strikeout|C|Sinker|107|0|0|1|13|89
+Lucas Harrell|R|Tony Wolters|L|Strikeout|C|Slider|108|0|1|1|2|86
+Lucas Harrell|R|Tony Wolters|L|Strikeout|B|Sinker|109|0|2|1|12|90
+Lucas Harrell|R|Tony Wolters|L|Strikeout|B|Curveball|110|1|2|1|13|79
+Lucas Harrell|R|Tony Wolters|L|Strikeout|F|Slider|111|2|2|1|3|90
+Lucas Harrell|R|Tony Wolters|L|Strikeout|T|Changeup|112|2|2|1|7|81
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|C|Sinker|113|0|0|2|7|89
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|B|Slider|114|0|1|2|12|85
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|S|Curveball|115|1|1|2|14|82
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|F|Curveball|116|1|2|2|13|81
+Lucas Harrell|R|Charlie Blackmon|L|Groundout|X|Curveball|117|1|2|2|11|80
+Lucas Harrell|R|Coco Crisp|L|Single|B|Sinker|0|0|0|0|13|91
+Lucas Harrell|R|Coco Crisp|L|Single|C|Sinker|1|1|0|0|13|90
+Lucas Harrell|R|Coco Crisp|L|Single|F|Slider|2|1|1|0|11|85
+Lucas Harrell|R|Coco Crisp|L|Single|B|Slider|3|1|2|0|12|87
+Lucas Harrell|R|Coco Crisp|L|Single|D|Four-Seam Fastball|4|2|2|0|12|91
+Lucas Harrell|R|Danny Valencia|R|Single|B|Sinker|5|0|0|0|11|90
+Lucas Harrell|R|Danny Valencia|R|Single|D|Sinker|6|1|0|0|7|91
+Lucas Harrell|R|Stephen Vogt|L|Walk|B|Curveball|7|0|0|0|11|79
+Lucas Harrell|R|Stephen Vogt|L|Walk|B|Sinker|8|1|0|0|13|89
+Lucas Harrell|R|Stephen Vogt|L|Walk|B|Changeup|9|2|0|0|13|82
+Lucas Harrell|R|Stephen Vogt|L|Walk|B|Sinker|10|3|0|0|11|90
+Lucas Harrell|R|Khris Davis|R|Lineout|X|Slider|11|0|0|0|8|87
+Lucas Harrell|R|Billy Butler|R|Grounded Into DP|B|Curveball|12|0|0|1|11|79
+Lucas Harrell|R|Billy Butler|R|Grounded Into DP|C|Curveball|13|1|0|1|5|81
+Lucas Harrell|R|Billy Butler|R|Grounded Into DP|F|Four-Seam Fastball|14|1|1|1|5|91
+Lucas Harrell|R|Billy Butler|R|Grounded Into DP|F|Sinker|15|1|2|1|3|91
+Lucas Harrell|R|Billy Butler|R|Grounded Into DP|X|Sinker|16|1|2|1|13|92
+Lucas Harrell|R|Yonder Alonso|L|Groundout|X|Four-Seam Fastball|17|0|0|0|12|90
+Lucas Harrell|R|Marcus Semien|R|Lineout|C|Four-Seam Fastball|18|0|0|1|6|91
+Lucas Harrell|R|Marcus Semien|R|Lineout|B|Sinker|19|0|1|1|14|90
+Lucas Harrell|R|Marcus Semien|R|Lineout|F|Sinker|20|1|1|1|13|91
+Lucas Harrell|R|Marcus Semien|R|Lineout|B|Slider|21|1|2|1|14|85
+Lucas Harrell|R|Marcus Semien|R|Lineout|F|Slider|22|2|2|1|5|86
+Lucas Harrell|R|Marcus Semien|R|Lineout|B|Four-Seam Fastball|23|2|2|1|14|91
+Lucas Harrell|R|Marcus Semien|R|Lineout|F|Four-Seam Fastball|24|3|2|1|3|91
+Lucas Harrell|R|Marcus Semien|R|Lineout|F|Sinker|25|3|2|1|13|90
+Lucas Harrell|R|Marcus Semien|R|Lineout|X|Sinker|26|3|2|1|7|92
+Lucas Harrell|R|Ryon Healy|R|Single|C|Sinker|27|0|0|2|2|90
+Lucas Harrell|R|Ryon Healy|R|Single|D|Curveball|28|0|1|2|7|80
+Lucas Harrell|R|Max Muncy|L|Walk|F|Sinker|29|0|0|2|2|88
+Lucas Harrell|R|Max Muncy|L|Walk|B|Slider|30|0|1|2|14|85
+Lucas Harrell|R|Max Muncy|L|Walk|*B|Sinker|31|1|1|2|13|87
+Lucas Harrell|R|Max Muncy|L|Walk|B|Sinker|32|2|1|2|13|88
+Lucas Harrell|R|Max Muncy|L|Walk|B|Sinker|33|3|1|2|13|88
+Lucas Harrell|R|Coco Crisp|L|Walk|B|Curveball|34|0|0|2|13|78
+Lucas Harrell|R|Coco Crisp|L|Walk|B|Changeup|35|1|0|2|13|82
+Lucas Harrell|R|Coco Crisp|L|Walk|C|Sinker|36|2|0|2|4|89
+Lucas Harrell|R|Coco Crisp|L|Walk|B|Changeup|37|2|1|2|13|81
+Lucas Harrell|R|Coco Crisp|L|Walk|B|Sinker|38|3|1|2|13|89
+Lucas Harrell|R|Danny Valencia|R|Walk|B|Curveball|39|0|0|2|14|80
+Lucas Harrell|R|Danny Valencia|R|Walk|*B|Slider|40|1|0|2|14|84
+Lucas Harrell|R|Danny Valencia|R|Walk|B|Changeup|41|2|0|2|11|82
+Lucas Harrell|R|Danny Valencia|R|Walk|C|Changeup|42|3|0|2|7|86
+Lucas Harrell|R|Danny Valencia|R|Walk|B|Changeup|43|3|1|2|14|87
+Lucas Harrell|R|Stephen Vogt|L|Flyout|B|Changeup|44|0|0|2|13|85
+Lucas Harrell|R|Stephen Vogt|L|Flyout|C|Changeup|45|1|0|2|7|81
+Lucas Harrell|R|Stephen Vogt|L|Flyout|X|Slider|46|1|1|2|4|82
+Lucas Harrell|R|Mookie Betts|R|Groundout|B|Sinker|0|0|0|0|14|92
+Lucas Harrell|R|Mookie Betts|R|Groundout|B|Sinker|1|1|0|0|13|92
+Lucas Harrell|R|Mookie Betts|R|Groundout|B|Sinker|2|2|0|0|13|92
+Lucas Harrell|R|Mookie Betts|R|Groundout|C|Sinker|3|3|0|0|12|92
+Lucas Harrell|R|Mookie Betts|R|Groundout|C|Slider|4|3|1|0|12|88
+Lucas Harrell|R|Mookie Betts|R|Groundout|X|Sinker|5|3|2|0|8|92
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|C|Sinker|6|0|0|1|2|93
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|S|Sinker|7|0|1|1|4|93
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|B|Slider|8|0|2|1|14|87
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|B|Curveball|9|1|2|1|11|82
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|B|Sinker|10|2|2|1|14|93
+Lucas Harrell|R|Dustin Pedroia|R|Flyout|X|Sinker|11|3|2|1|11|93
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|C|Sinker|12|0|0|2|8|93
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|B|Slider|13|0|1|2|14|87
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|B|Slider|14|1|1|2|14|87
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|S|Sinker|15|2|1|2|14|93
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|F|Sinker|16|2|2|2|13|92
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|F|Changeup|17|2|2|2|7|84
+Lucas Harrell|R|Xander Bogaerts|R|Strikeout|S|Slider|18|2|2|2|12|87
+Lucas Harrell|R|Hanley Ramirez|R|Single|B|Sinker|19|0|0|0|14|91
+Lucas Harrell|R|Hanley Ramirez|R|Single|D|Sinker|20|1|0|0|4|91
+Lucas Harrell|R|Jackie Bradley Jr.|L|Pop Out|B|Curveball|21|0|0|0|11|81
+Lucas Harrell|R|Jackie Bradley Jr.|L|Pop Out|B|Sinker|22|1|0|0|11|91
+Lucas Harrell|R|Jackie Bradley Jr.|L|Pop Out|B|Sinker|23|2|0|0|14|92
+Lucas Harrell|R|Jackie Bradley Jr.|L|Pop Out|C|Sinker|24|3|0|0|5|92
+Lucas Harrell|R|Jackie Bradley Jr.|L|Pop Out|X|Sinker|25|3|1|0|11|92
+Lucas Harrell|R|Chris Young|R|Single|F|Sinker|26|0|0|1|1|91
+Lucas Harrell|R|Chris Young|R|Single|D|Sinker|27|0|1|1|5|92
+Lucas Harrell|R|Sam Travis|R|Groundout|C|Sinker|28|0|0|1|11|91
+Lucas Harrell|R|Sam Travis|R|Groundout|F|Sinker|29|0|1|1|11|92
+Lucas Harrell|R|Sam Travis|R|Groundout|B|Slider|30|0|2|1|14|88
+Lucas Harrell|R|Sam Travis|R|Groundout|B|Curveball|31|1|2|1|14|82
+Lucas Harrell|R|Sam Travis|R|Groundout|X|Sinker|32|2|2|1|5|92
+Lucas Harrell|R|Sandy Leon|L|Runner Out|B|Curveball|33|0|0|2|11|79
+Lucas Harrell|R|Sandy Leon|L|Single|B|Sinker|34|0|0|0|14|91
+Lucas Harrell|R|Sandy Leon|L|Single|F|Sinker|35|1|0|0|11|90
+Lucas Harrell|R|Sandy Leon|L|Single|D|Changeup|36|1|1|0|4|84
+Lucas Harrell|R|Deven Marrero|R|Single|C|Sinker|37|0|0|0|14|92
+Lucas Harrell|R|Deven Marrero|R|Single|D|Slider|38|0|1|0|8|87
+Lucas Harrell|R|Mookie Betts|R|Strikeout|B|Slider|39|0|0|0|14|88
+Lucas Harrell|R|Mookie Betts|R|Strikeout|F|Sinker|40|1|0|0|4|92
+Lucas Harrell|R|Mookie Betts|R|Strikeout|C|Sinker|41|1|1|0|5|92
+Lucas Harrell|R|Mookie Betts|R|Strikeout|*B|Slider|42|1|2|0|14|88
+Lucas Harrell|R|Mookie Betts|R|Strikeout|C|Slider|43|2|2|0|12|88
+Lucas Harrell|R|Dustin Pedroia|R|Walk|B|Sinker|44|0|0|1|12|91
+Lucas Harrell|R|Dustin Pedroia|R|Walk|B|Sinker|45|1|0|1|14|91
+Lucas Harrell|R|Dustin Pedroia|R|Walk|B|Sinker|46|2|0|1|12|91
+Lucas Harrell|R|Dustin Pedroia|R|Walk|B|Sinker|47|3|0|1|12|90
+Lucas Harrell|R|Xander Bogaerts|R|Single|E|Sinker|48|0|0|1|11|91
+Lucas Harrell|R|Hanley Ramirez|R|Strikeout|F|Sinker|49|0|0|1|7|93
+Lucas Harrell|R|Hanley Ramirez|R|Strikeout|S|Changeup|50|0|1|1|11|82
+Lucas Harrell|R|Hanley Ramirez|R|Strikeout|C|Slider|51|0|2|1|14|87
+Lucas Harrell|R|Marwin Gonzalez|L|Groundout|B|Curveball|0|0|0|0|11|80
+Lucas Harrell|R|Marwin Gonzalez|L|Groundout|C|Curveball|1|1|0|0|11|80
+Lucas Harrell|R|Marwin Gonzalez|L|Groundout|B|Curveball|2|1|1|0|13|81
+Lucas Harrell|R|Marwin Gonzalez|L|Groundout|X|Sinker|3|2|1|0|13|92
+Lucas Harrell|R|Carlos Beltran|L|Walk|B|Sinker|4|0|0|1|11|92
+Lucas Harrell|R|Carlos Beltran|L|Walk|F|Curveball|5|1|0|1|4|82
+Lucas Harrell|R|Carlos Beltran|L|Walk|B|Sinker|6|1|1|1|12|92
+Lucas Harrell|R|Carlos Beltran|L|Walk|F|Sinker|7|2|1|1|11|92
+Lucas Harrell|R|Carlos Beltran|L|Walk|B|Sinker|8|2|2|1|14|93
+Lucas Harrell|R|Carlos Beltran|L|Walk|F|Slider|9|3|2|1|14|88
+Lucas Harrell|R|Carlos Beltran|L|Walk|B|Sinker|10|3|2|1|11|91
+Lucas Harrell|R|Yuli Gurriel|R|Double|D|Sinker|11|0|0|1|3|92
+Lucas Harrell|R|Alex Bregman|R|Strikeout|B|Curveball|12|0|0|1|12|81
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Slider|13|1|0|1|14|87
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Slider|14|1|1|1|6|86
+Lucas Harrell|R|Alex Bregman|R|Strikeout|B|Sinker|15|1|2|1|11|92
+Lucas Harrell|R|Alex Bregman|R|Strikeout|C|Sinker|16|2|2|1|6|92
+Lucas Harrell|R|Jake Marisnick|R|Groundout|B|Sinker|17|0|0|2|11|92
+Lucas Harrell|R|Jake Marisnick|R|Groundout|B|Sinker|18|1|0|2|12|91
+Lucas Harrell|R|Jake Marisnick|R|Groundout|X|Slider|19|2|0|2|14|88
+Lucas Harrell|R|George Springer|R|Single|D|Sinker|20|0|0|0|7|91
+Lucas Harrell|R|Jose Altuve|R|Single|B|Sinker|21|0|0|0|14|91
+Lucas Harrell|R|Jose Altuve|R|Single|B|Sinker|22|1|0|0|11|91
+Lucas Harrell|R|Jose Altuve|R|Single|*B|Slider|23|2|0|0|14|87
+Lucas Harrell|R|Jose Altuve|R|Single|C|Sinker|24|3|0|0|9|91
+Lucas Harrell|R|Jose Altuve|R|Single|D|Slider|25|3|1|0|6|87
+Lucas Harrell|R|Carlos Correa|R|Strikeout|C|Slider|26|0|0|0|3|86
+Lucas Harrell|R|Carlos Correa|R|Strikeout|B|Sinker|27|0|1|0|14|91
+Lucas Harrell|R|Carlos Correa|R|Strikeout|B|Slider|28|1|1|0|14|87
+Lucas Harrell|R|Carlos Correa|R|Strikeout|S|Sinker|29|2|1|0|12|92
+Lucas Harrell|R|Carlos Correa|R|Strikeout|F|Curveball|30|2|2|0|9|82
+Lucas Harrell|R|Carlos Correa|R|Strikeout|B|Slider|31|2|2|0|14|87
+Lucas Harrell|R|Carlos Correa|R|Strikeout|S|Slider|32|3|2|0|14|87
+Lucas Harrell|R|Evan Gattis|R|Home Run|E|Sinker|33|0|0|1|1|91
+Lucas Harrell|R|Marwin Gonzalez|L|Lineout|F|Changeup|34|0|0|1|11|83
+Lucas Harrell|R|Marwin Gonzalez|L|Lineout|B|Sinker|35|0|1|1|14|92
+Lucas Harrell|R|Marwin Gonzalez|L|Lineout|F|Slider|36|1|1|1|14|87
+Lucas Harrell|R|Marwin Gonzalez|L|Lineout|X|Sinker|37|1|2|1|3|91
+Lucas Harrell|R|Carlos Beltran|L|Flyout|B|Sinker|38|0|0|2|11|90
+Lucas Harrell|R|Carlos Beltran|L|Flyout|B|Sinker|39|1|0|2|11|90
+Lucas Harrell|R|Carlos Beltran|L|Flyout|S|Sinker|40|2|0|2|11|90
+Lucas Harrell|R|Carlos Beltran|L|Flyout|X|Sinker|41|2|1|2|1|91
+Lucas Harrell|R|Victor Martinez|L|Lineout|X|Sinker|0|0|0|2|11|91
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|S|Sinker|1|0|0|0|1|92
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|B|Slider|2|0|1|0|14|87
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|B|Slider|3|1|1|0|12|88
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|F|Sinker|4|2|1|0|3|91
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|B|Slider|5|2|2|0|14|88
+Lucas Harrell|R|Mikie Mahtook|R|Groundout|X|Sinker|6|3|2|0|6|93
+Lucas Harrell|R|James McCann|R|Strikeout|F|Sinker|7|0|0|1|4|92
+Lucas Harrell|R|James McCann|R|Strikeout|C|Four-Seam Fastball|8|0|1|1|12|93
+Lucas Harrell|R|James McCann|R|Strikeout|B|Sinker|9|0|2|1|14|93
+Lucas Harrell|R|James McCann|R|Strikeout|S|Four-Seam Fastball|10|1|2|1|12|93
+Lucas Harrell|R|Jose Iglesias|R|Single|C|Sinker|11|0|0|2|2|93
+Lucas Harrell|R|Jose Iglesias|R|Single|B|Slider|12|0|1|2|14|89
+Lucas Harrell|R|Jose Iglesias|R|Single|B|Slider|13|1|1|2|14|87
+Lucas Harrell|R|Jose Iglesias|R|Single|D|Sinker|14|2|1|2|4|93
+Lucas Harrell|R|Ian Kinsler|R|Forceout|C|Sinker|15|0|0|2|4|92
+Lucas Harrell|R|Ian Kinsler|R|Forceout|B|Sinker|16|0|1|2|13|91
+Lucas Harrell|R|Ian Kinsler|R|Forceout|B|Sinker|17|1|1|2|11|92
+Lucas Harrell|R|Ian Kinsler|R|Forceout|C|Slider|18|2|1|2|14|87
+Lucas Harrell|R|Ian Kinsler|R|Forceout|X|Slider|19|2|2|2|14|87
+Lucas Harrell|R|Ian Kinsler|R|Lineout|B|Slider|0|0|0|1|14|86
+Lucas Harrell|R|Ian Kinsler|R|Lineout|X|Slider|1|1|0|1|5|86
+Lucas Harrell|R|Nicholas Castellanos|R|Field Error|B|Sinker|2|0|0|2|11|91
+Lucas Harrell|R|Nicholas Castellanos|R|Field Error|F|Curveball|3|1|0|2|14|80
+Lucas Harrell|R|Nicholas Castellanos|R|Field Error|D|Sinker|4|1|1|2|11|91
+Lucas Harrell|R|Justin Upton|R|Walk|B|Sinker|5|0|0|2|11|91
+Lucas Harrell|R|Justin Upton|R|Walk|B|Sinker|6|1|0|2|13|92
+Lucas Harrell|R|Justin Upton|R|Walk|B|Sinker|7|2|0|2|13|92
+Lucas Harrell|R|Justin Upton|R|Walk|C|Sinker|8|3|0|2|5|92
+Lucas Harrell|R|Justin Upton|R|Walk|B|Sinker|9|3|1|2|14|93
+Lucas Harrell|R|Miguel Cabrera|R|Walk|C|Curveball|10|0|0|2|13|80
+Lucas Harrell|R|Miguel Cabrera|R|Walk|B|Curveball|11|0|1|2|14|82
+Lucas Harrell|R|Miguel Cabrera|R|Walk|*B|Slider|12|1|1|2|14|88
+Lucas Harrell|R|Miguel Cabrera|R|Walk|B|Sinker|13|2|1|2|11|92
+Lucas Harrell|R|Miguel Cabrera|R|Walk|C|Sinker|14|3|1|2|5|93
+Lucas Harrell|R|Miguel Cabrera|R|Walk|F|Sinker|15|3|2|2|5|93
+Lucas Harrell|R|Miguel Cabrera|R|Walk|B|Sinker|16|3|2|2|14|93

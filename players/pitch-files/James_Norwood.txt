@@ -1,0 +1,433 @@
+James Norwood|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|96
+James Norwood|R|Brandon Crawford|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|2|97
+James Norwood|R|Brandon Crawford|L|Strikeout|F|Slider|2|1|1|0|4|88
+James Norwood|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|97
+James Norwood|R|Brandon Crawford|L|Strikeout|S|Four-Seam Fastball|4|2|2|0|4|98
+James Norwood|R|Gorkys Hernandez|R|Single|S|Four-Seam Fastball|5|0|0|1|1|98
+James Norwood|R|Gorkys Hernandez|R|Single|F|Four-Seam Fastball|6|0|1|1|6|98
+James Norwood|R|Gorkys Hernandez|R|Single|B|Two-Seam Fastball|7|0|2|1|11|97
+James Norwood|R|Gorkys Hernandez|R|Single|D|Four-Seam Fastball|8|1|2|1|2|97
+James Norwood|R|Steven Duggar|L|Strikeout|B|Splitter|9|0|0|1|13|87
+James Norwood|R|Steven Duggar|L|Strikeout|S|Splitter|10|1|0|1|5|88
+James Norwood|R|Steven Duggar|L|Strikeout|F|Two-Seam Fastball|11|1|1|1|13|96
+James Norwood|R|Steven Duggar|L|Strikeout|F|Splitter|12|1|2|1|13|89
+James Norwood|R|Steven Duggar|L|Strikeout|S|Splitter|13|1|2|1|13|88
+James Norwood|R|Alen Hanson|L|Flyout|B|Four-Seam Fastball|14|0|0|2|13|96
+James Norwood|R|Alen Hanson|L|Flyout|C|Four-Seam Fastball|15|1|0|2|13|96
+James Norwood|R|Alen Hanson|L|Flyout|B|Four-Seam Fastball|16|1|1|2|11|97
+James Norwood|R|Alen Hanson|L|Flyout|X|Four-Seam Fastball|17|2|1|2|6|97
+James Norwood|R|Dereck Rodriguez|R|Groundout|X|Four-Seam Fastball|18|0|0|0|4|96
+James Norwood|R|Chase d'Arnaud|R|Flyout|C|Slider|19|0|0|1|1|85
+James Norwood|R|Chase d'Arnaud|R|Flyout|X|Four-Seam Fastball|20|0|1|1|13|96
+James Norwood|R|Brandon Belt|L|Walk|B|Splitter|21|0|0|2|14|89
+James Norwood|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|22|1|0|2|13|97
+James Norwood|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|23|2|0|2|13|95
+James Norwood|R|Brandon Belt|L|Walk|C|Four-Seam Fastball|24|3|0|2|13|97
+James Norwood|R|Brandon Belt|L|Walk|B|Two-Seam Fastball|25|3|1|2|11|96
+James Norwood|R|Andrew McCutchen|R|Single|B|Four-Seam Fastball|26|0|0|2|14|97
+James Norwood|R|Andrew McCutchen|R|Single|B|Four-Seam Fastball|27|1|0|2|14|96
+James Norwood|R|Andrew McCutchen|R|Single|B|Four-Seam Fastball|28|2|0|2|14|95
+James Norwood|R|Andrew McCutchen|R|Single|D|Four-Seam Fastball|29|3|0|2|1|96
+James Norwood|R|Buster Posey|R|Single|S|Four-Seam Fastball|30|0|0|2|12|97
+James Norwood|R|Buster Posey|R|Single|B|Four-Seam Fastball|31|0|1|2|14|97
+James Norwood|R|Buster Posey|R|Single|B|Splitter|32|1|1|2|14|87
+James Norwood|R|Buster Posey|R|Single|F|Four-Seam Fastball|33|2|1|2|11|96
+James Norwood|R|Buster Posey|R|Single|E|Four-Seam Fastball|34|2|2|2|8|97
+James Norwood|R|Jose Pirela|R|Flyout|F|Four-Seam Fastball|0|0|0|2|3|96
+James Norwood|R|Jose Pirela|R|Flyout|X|Four-Seam Fastball|1|0|1|2|5|96
+James Norwood|R|Austin Hedges|R|Pop Out|F|Four-Seam Fastball|0|0|0|1|2|95
+James Norwood|R|Austin Hedges|R|Pop Out|B|Four-Seam Fastball|1|0|1|1|14|97
+James Norwood|R|Austin Hedges|R|Pop Out|C|Four-Seam Fastball|2|1|1|1|9|95
+James Norwood|R|Austin Hedges|R|Pop Out|X|Splitter|3|1|2|1|4|88
+James Norwood|R|Carlos Asuaje|L|Walk|B|Four-Seam Fastball|4|0|0|2|13|97
+James Norwood|R|Carlos Asuaje|L|Walk|B|Four-Seam Fastball|5|1|0|2|13|97
+James Norwood|R|Carlos Asuaje|L|Walk|F|Four-Seam Fastball|6|2|0|2|14|97
+James Norwood|R|Carlos Asuaje|L|Walk|B|Four-Seam Fastball|7|2|1|2|13|97
+James Norwood|R|Carlos Asuaje|L|Walk|S|Four-Seam Fastball|8|3|1|2|5|96
+James Norwood|R|Carlos Asuaje|L|Walk|F|Two-Seam Fastball|9|3|2|2|6|97
+James Norwood|R|Carlos Asuaje|L|Walk|B|Four-Seam Fastball|10|3|2|2|12|97
+James Norwood|R|Manuel Margot|R|Flyout|C|Slider|11|0|0|2|1|83
+James Norwood|R|Manuel Margot|R|Flyout|*B|Splitter|12|0|1|2|14|88
+James Norwood|R|Manuel Margot|R|Flyout|*B|Splitter|13|1|1|2|14|88
+James Norwood|R|Manuel Margot|R|Flyout|B|Slider|14|2|1|2|11|83
+James Norwood|R|Manuel Margot|R|Flyout|S|Four-Seam Fastball|15|3|1|2|12|97
+James Norwood|R|Manuel Margot|R|Flyout|X|Four-Seam Fastball|16|3|2|2|4|97
+James Norwood|R|Dexter Fowler|L|Sac Fly|C|Four-Seam Fastball|0|0|0|0|14|95
+James Norwood|R|Dexter Fowler|L|Sac Fly|B|Splitter|1|0|1|0|13|88
+James Norwood|R|Dexter Fowler|L|Sac Fly|F|Four-Seam Fastball|2|1|1|0|11|97
+James Norwood|R|Dexter Fowler|L|Sac Fly|B|Four-Seam Fastball|3|1|2|0|14|97
+James Norwood|R|Dexter Fowler|L|Sac Fly|B|Four-Seam Fastball|4|2|2|0|11|97
+James Norwood|R|Dexter Fowler|L|Sac Fly|F|Four-Seam Fastball|5|3|2|0|12|97
+James Norwood|R|Dexter Fowler|L|Sac Fly|E|Four-Seam Fastball|6|3|2|0|4|97
+James Norwood|R|Tommy Pham|R|Single|B|Four-Seam Fastball|7|0|0|1|11|97
+James Norwood|R|Tommy Pham|R|Single|B|Four-Seam Fastball|8|1|0|1|13|97
+James Norwood|R|Tommy Pham|R|Single|E|Four-Seam Fastball|9|2|0|1|9|96
+James Norwood|R|Jack Flaherty|R|Strikeout|*B|Splitter|10|0|0|1|14|85
+James Norwood|R|Jack Flaherty|R|Strikeout|C|Four-Seam Fastball|11|1|0|1|13|95
+James Norwood|R|Jack Flaherty|R|Strikeout|F|Four-Seam Fastball|12|1|1|1|9|96
+James Norwood|R|Jack Flaherty|R|Strikeout|B|Four-Seam Fastball|13|1|2|1|14|98
+James Norwood|R|Jack Flaherty|R|Strikeout|B|Four-Seam Fastball|14|2|2|1|13|97
+James Norwood|R|Jack Flaherty|R|Strikeout|C|Four-Seam Fastball|15|3|2|1|8|97
+James Norwood|R|Matt Carpenter|L|Double|B|Four-Seam Fastball|16|0|0|2|13|97
+James Norwood|R|Matt Carpenter|L|Double|F|Four-Seam Fastball|17|1|0|2|13|96
+James Norwood|R|Matt Carpenter|L|Double|F|Four-Seam Fastball|18|1|1|2|12|97
+James Norwood|R|Matt Carpenter|L|Double|E|Splitter|19|1|2|2|1|90
+James Norwood|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|20|0|0|2|12|96
+James Norwood|R|Yadier Molina|R|Groundout|S|Four-Seam Fastball|21|1|0|2|6|97
+James Norwood|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|22|1|1|2|12|96
+James Norwood|R|Yadier Molina|R|Groundout|X|Four-Seam Fastball|23|2|1|2|12|97
+James Norwood|R|Paul DeJong|R|Lineout|B|Four-Seam Fastball|24|0|0|0|12|95
+James Norwood|R|Paul DeJong|R|Lineout|F|Slider|25|1|0|0|5|84
+James Norwood|R|Paul DeJong|R|Lineout|F|Four-Seam Fastball|26|1|1|0|13|96
+James Norwood|R|Paul DeJong|R|Lineout|B|Splitter|27|1|2|0|13|87
+James Norwood|R|Paul DeJong|R|Lineout|X|Splitter|28|2|2|0|4|88
+James Norwood|R|Marcell Ozuna|R|Groundout|C|Slider|29|0|0|1|6|84
+James Norwood|R|Marcell Ozuna|R|Groundout|B|Splitter|30|0|1|1|13|88
+James Norwood|R|Marcell Ozuna|R|Groundout|F|Slider|31|1|1|1|4|83
+James Norwood|R|Marcell Ozuna|R|Groundout|X|Slider|32|1|2|1|11|84
+James Norwood|R|Jedd Gyorko|R|Flyout|B|Four-Seam Fastball|33|0|0|2|14|96
+James Norwood|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|34|1|0|2|9|97
+James Norwood|R|Austin Jackson|R|Strikeout|C|Slider|0|0|0|0|6|85
+James Norwood|R|Austin Jackson|R|Strikeout|C|Slider|1|0|1|0|6|85
+James Norwood|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|99
+James Norwood|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|14|99
+James Norwood|R|Austin Jackson|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|9|99
+James Norwood|R|Tomas Nido|R|Field Error|B|Four-Seam Fastball|5|0|0|1|12|100
+James Norwood|R|Tomas Nido|R|Field Error|S|Slider|6|1|0|1|14|86
+James Norwood|R|Tomas Nido|R|Field Error|F|Slider|7|1|1|1|2|84
+James Norwood|R|Tomas Nido|R|Field Error|B|Two-Seam Fastball|8|1|2|1|14|100
+James Norwood|R|Tomas Nido|R|Field Error|D|Four-Seam Fastball|9|2|2|1|14|100
+James Norwood|R|Michael Conforto|L|Single|T|Four-Seam Fastball|10|0|0|1|5|98
+James Norwood|R|Michael Conforto|L|Single|B|Four-Seam Fastball|11|0|1|1|14|99
+James Norwood|R|Michael Conforto|L|Single|B|Four-Seam Fastball|12|1|1|1|14|98
+James Norwood|R|Michael Conforto|L|Single|B|Four-Seam Fastball|13|2|1|1|14|99
+James Norwood|R|Michael Conforto|L|Single|D|Four-Seam Fastball|14|3|1|1|6|98
+James Norwood|R|Todd Frazier|R|Single|F|Four-Seam Fastball|15|0|0|1|5|99
+James Norwood|R|Todd Frazier|R|Single|C|Four-Seam Fastball|16|0|1|1|8|98
+James Norwood|R|Todd Frazier|R|Single|F|Splitter|17|0|2|1|13|90
+James Norwood|R|Todd Frazier|R|Single|B|Four-Seam Fastball|18|0|2|1|14|99
+James Norwood|R|Todd Frazier|R|Single|F|Four-Seam Fastball|19|1|2|1|8|99
+James Norwood|R|Todd Frazier|R|Single|E|Four-Seam Fastball|20|1|2|1|11|99
+James Norwood|R|Brandon Nimmo|L|Single|W|Splitter|21|0|0|1|13|89
+James Norwood|R|Brandon Nimmo|L|Single|B|Splitter|22|0|1|1|11|89
+James Norwood|R|Brandon Nimmo|L|Single|B|Four-Seam Fastball|23|1|1|1|14|98
+James Norwood|R|Brandon Nimmo|L|Single|E|Four-Seam Fastball|24|2|1|1|6|99
+James Norwood|R|Kevin Plawecki|R|Lineout|B|Four-Seam Fastball|25|0|0|1|12|98
+James Norwood|R|Kevin Plawecki|R|Lineout|X|Four-Seam Fastball|26|1|0|1|7|98
+James Norwood|R|Wilmer Flores|R|Flyout|C|Slider|27|0|0|2|14|87
+James Norwood|R|Wilmer Flores|R|Flyout|F|Four-Seam Fastball|28|0|1|2|12|98
+James Norwood|R|Wilmer Flores|R|Flyout|X|Splitter|29|0|2|2|1|88
+James Norwood|R|Christian Yelich|L|Double|F|Four-Seam Fastball|0|0|0|2|4|97
+James Norwood|R|Christian Yelich|L|Double|E|Splitter|1|0|1|2|4|87
+James Norwood|R|Jesus Aguilar|R|Walk|B|Slider|2|0|0|2|11|81
+James Norwood|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|3|1|0|2|14|98
+James Norwood|R|Jesus Aguilar|R|Walk|*B|Four-Seam Fastball|4|2|0|2|14|97
+James Norwood|R|Jesus Aguilar|R|Walk|C|Four-Seam Fastball|5|3|0|2|9|97
+James Norwood|R|Jesus Aguilar|R|Walk|F|Four-Seam Fastball|6|3|1|2|8|98
+James Norwood|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|7|3|2|2|14|98
+James Norwood|R|Ryan Braun|R|Flyout|F|Four-Seam Fastball|8|0|0|2|13|99
+James Norwood|R|Ryan Braun|R|Flyout|B|Four-Seam Fastball|9|0|1|2|14|97
+James Norwood|R|Ryan Braun|R|Flyout|X|Slider|10|1|1|2|13|82
+James Norwood|R|Hernan Perez|R|Groundout|B|Four-Seam Fastball|11|0|0|0|14|96
+James Norwood|R|Hernan Perez|R|Groundout|C|Four-Seam Fastball|12|1|0|0|8|97
+James Norwood|R|Hernan Perez|R|Groundout|F|Slider|13|1|1|0|13|83
+James Norwood|R|Hernan Perez|R|Groundout|B|Splitter|14|1|2|0|13|90
+James Norwood|R|Hernan Perez|R|Groundout|B|Slider|15|2|2|0|11|82
+James Norwood|R|Hernan Perez|R|Groundout|X|Four-Seam Fastball|16|3|2|0|13|97
+James Norwood|R|Travis Shaw|L|Walk|B|Slider|17|0|0|1|14|85
+James Norwood|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|18|1|0|1|13|98
+James Norwood|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|19|2|0|1|13|97
+James Norwood|R|Travis Shaw|L|Walk|B|Four-Seam Fastball|20|3|0|1|13|96
+James Norwood|R|Erik Kratz|R|Strikeout|B|Four-Seam Fastball|21|0|0|1|14|96
+James Norwood|R|Erik Kratz|R|Strikeout|C|Four-Seam Fastball|22|1|0|1|12|95
+James Norwood|R|Erik Kratz|R|Strikeout|F|Slider|23|1|1|1|8|82
+James Norwood|R|Erik Kratz|R|Strikeout|C|Slider|24|1|2|1|1|83
+James Norwood|R|Orlando Arcia|R|Double|C|Slider|25|0|0|2|1|83
+James Norwood|R|Orlando Arcia|R|Double|*B|Splitter|26|0|1|2|13|89
+James Norwood|R|Orlando Arcia|R|Double|F|Four-Seam Fastball|27|1|1|2|13|97
+James Norwood|R|Orlando Arcia|R|Double|D|Splitter|28|1|2|2|7|89
+James Norwood|R|Jonathan Schoop|R|Single|B|Slider|29|0|0|2|14|84
+James Norwood|R|Jonathan Schoop|R|Single|B|Four-Seam Fastball|30|1|0|2|14|97
+James Norwood|R|Jonathan Schoop|R|Single|F|Four-Seam Fastball|31|2|0|2|7|96
+James Norwood|R|Jonathan Schoop|R|Single|E|Slider|32|2|1|2|4|83
+James Norwood|R|Eric Thames|L|Strikeout|C|Four-Seam Fastball|33|0|0|2|5|96
+James Norwood|R|Eric Thames|L|Strikeout|*B|Four-Seam Fastball|34|0|1|2|14|97
+James Norwood|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|35|1|1|2|8|97
+James Norwood|R|Eric Thames|L|Strikeout|B|Splitter|36|1|2|2|13|90
+James Norwood|R|Eric Thames|L|Strikeout|B|Splitter|37|2|2|2|13|89
+James Norwood|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|38|3|2|2|9|96
+James Norwood|R|Eric Thames|L|Strikeout|S|Four-Seam Fastball|39|3|2|2|1|97
+James Norwood|R|Anthony Rendon|R|Single|B|Four-Seam Fastball|0|0|0|1|11|99
+James Norwood|R|Anthony Rendon|R|Single|E|Four-Seam Fastball|1|1|0|1|4|97
+James Norwood|R|Bryce Harper|L|Fielders Choice|B|Splitter|2|0|0|1|13|91
+James Norwood|R|Bryce Harper|L|Fielders Choice|B|Four-Seam Fastball|3|1|0|1|14|99
+James Norwood|R|Bryce Harper|L|Fielders Choice|B|Four-Seam Fastball|4|2|0|1|13|98
+James Norwood|R|Bryce Harper|L|Fielders Choice|E|Four-Seam Fastball|5|3|0|1|14|99
+James Norwood|R|Mark Reynolds|R|Forceout|C|Four-Seam Fastball|6|0|0|1|9|97
+James Norwood|R|Mark Reynolds|R|Forceout|F|Four-Seam Fastball|7|0|1|1|7|98
+James Norwood|R|Mark Reynolds|R|Forceout|E|Four-Seam Fastball|8|0|2|1|9|99
+James Norwood|R|Juan Soto|L|Strikeout|F|Four-Seam Fastball|9|0|0|2|9|99
+James Norwood|R|Juan Soto|L|Strikeout|B|Four-Seam Fastball|10|0|1|2|14|99
+James Norwood|R|Juan Soto|L|Strikeout|B|Slider|11|1|1|2|14|87
+James Norwood|R|Juan Soto|L|Strikeout|B|Slider|12|2|1|2|14|86
+James Norwood|R|Juan Soto|L|Strikeout|C|Slider|13|3|1|2|7|85
+James Norwood|R|Juan Soto|L|Strikeout|F|Four-Seam Fastball|14|3|2|2|7|98
+James Norwood|R|Juan Soto|L|Strikeout|F|Four-Seam Fastball|15|3|2|2|11|99
+James Norwood|R|Juan Soto|L|Strikeout|C|Slider|16|3|2|2|14|85
+James Norwood|R|Ryan Braun|R|Flyout|B|Four-Seam Fastball|0|0|0|1|14|97
+James Norwood|R|Ryan Braun|R|Flyout|X|Four-Seam Fastball|1|1|0|1|5|97
+James Norwood|R|Jon Jay|L|Single|C|Four-Seam Fastball|0|0|0|0|14|95
+James Norwood|R|Jon Jay|L|Single|F|Four-Seam Fastball|1|0|1|0|2|97
+James Norwood|R|Jon Jay|L|Single|F|Four-Seam Fastball|2|0|2|0|2|97
+James Norwood|R|Jon Jay|L|Single|F|Splitter|3|0|2|0|13|89
+James Norwood|R|Jon Jay|L|Single|F|Four-Seam Fastball|4|0|2|0|11|96
+James Norwood|R|Jon Jay|L|Single|D|Slider|5|0|2|0|13|86
+James Norwood|R|Ildemaro Vargas|L|Lineout|X|Four-Seam Fastball|6|0|0|0|8|96
+James Norwood|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|7|0|0|1|11|97
+James Norwood|R|Ketel Marte|L|Flyout|*B|Splitter|8|1|0|1|14|88
+James Norwood|R|Ketel Marte|L|Flyout|X|Four-Seam Fastball|9|2|0|1|2|96
+James Norwood|R|Ryan LaMarre|R|Sac Fly|F|Four-Seam Fastball|0|0|0|1|3|96
+James Norwood|R|Ryan LaMarre|R|Sac Fly|B|Four-Seam Fastball|1|0|1|1|12|98
+James Norwood|R|Ryan LaMarre|R|Sac Fly|C|Slider|2|1|1|1|5|84
+James Norwood|R|Ryan LaMarre|R|Sac Fly|*B|Splitter|3|1|2|1|13|88
+James Norwood|R|Ryan LaMarre|R|Sac Fly|F|Four-Seam Fastball|4|2|2|1|3|98
+James Norwood|R|Ryan LaMarre|R|Sac Fly|F|Two-Seam Fastball|5|2|2|1|12|98
+James Norwood|R|Ryan LaMarre|R|Sac Fly|B|Four-Seam Fastball|6|2|2|1|13|99
+James Norwood|R|Ryan LaMarre|R|Sac Fly|F|Four-Seam Fastball|7|3|2|1|1|98
+James Norwood|R|Ryan LaMarre|R|Sac Fly|E|Four-Seam Fastball|8|3|2|1|11|99
+James Norwood|R|Adam Engel|R|Flyout|B|Four-Seam Fastball|9|0|0|2|14|98
+James Norwood|R|Adam Engel|R|Flyout|B|Four-Seam Fastball|10|1|0|2|14|98
+James Norwood|R|Adam Engel|R|Flyout|X|Two-Seam Fastball|11|2|0|2|5|98
+James Norwood|R|Josh Bell|L|Forceout|X|Four-Seam Fastball|0|0|0|1|1|97
+James Norwood|R|Francisco Cervelli|R|Groundout|S|Four-Seam Fastball|1|0|0|2|3|97
+James Norwood|R|Francisco Cervelli|R|Groundout|B|Four-Seam Fastball|2|0|1|2|14|98
+James Norwood|R|Francisco Cervelli|R|Groundout|X|Four-Seam Fastball|3|1|1|2|8|97
+James Norwood|R|Corey Dickerson|L|Single|S|Splitter|4|0|0|0|5|88
+James Norwood|R|Corey Dickerson|L|Single|D|Splitter|5|0|1|0|13|88
+James Norwood|R|Kevin Kramer|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|11|96
+James Norwood|R|Kevin Kramer|L|Strikeout|S|Four-Seam Fastball|7|1|0|0|6|96
+James Norwood|R|Kevin Kramer|L|Strikeout|B|Four-Seam Fastball|8|1|1|0|13|97
+James Norwood|R|Kevin Kramer|L|Strikeout|F|Four-Seam Fastball|9|2|1|0|8|96
+James Norwood|R|Kevin Kramer|L|Strikeout|B|Four-Seam Fastball|10|2|2|0|11|97
+James Norwood|R|Kevin Kramer|L|Strikeout|S|Four-Seam Fastball|11|3|2|0|3|98
+James Norwood|R|Pablo Reyes|R|Walk|B|Four-Seam Fastball|12|0|0|1|14|96
+James Norwood|R|Pablo Reyes|R|Walk|S|Four-Seam Fastball|13|1|0|1|6|96
+James Norwood|R|Pablo Reyes|R|Walk|B|Slider|14|1|1|1|14|87
+James Norwood|R|Pablo Reyes|R|Walk|B|Four-Seam Fastball|15|2|1|1|12|96
+James Norwood|R|Pablo Reyes|R|Walk|B|Four-Seam Fastball|16|3|1|1|14|97
+James Norwood|R|Kevin Newman|R|Strikeout|C|Four-Seam Fastball|17|0|0|1|12|97
+James Norwood|R|Kevin Newman|R|Strikeout|B|Four-Seam Fastball|18|0|1|1|14|97
+James Norwood|R|Kevin Newman|R|Strikeout|F|Two-Seam Fastball|19|1|1|1|5|96
+James Norwood|R|Kevin Newman|R|Strikeout|F|Four-Seam Fastball|20|1|2|1|6|98
+James Norwood|R|Kevin Newman|R|Strikeout|B|Slider|21|1|2|1|14|86
+James Norwood|R|Kevin Newman|R|Strikeout|S|Splitter|22|2|2|1|6|89
+James Norwood|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|23|0|0|2|5|98
+James Norwood|R|Colin Moran|L|Strikeout|B|Splitter|24|0|1|2|13|89
+James Norwood|R|Colin Moran|L|Strikeout|F|Splitter|25|1|1|2|13|88
+James Norwood|R|Colin Moran|L|Strikeout|S|Splitter|26|1|2|2|14|89
+James Norwood|R|Curt Casali|R|Walk|C|Slider|0|0|0|0|4|81
+James Norwood|R|Curt Casali|R|Walk|B|Slider|1|0|1|0|14|82
+James Norwood|R|Curt Casali|R|Walk|C|Four-Seam Fastball|2|1|1|0|8|96
+James Norwood|R|Curt Casali|R|Walk|B|Four-Seam Fastball|3|1|2|0|14|95
+James Norwood|R|Curt Casali|R|Walk|B|Four-Seam Fastball|4|2|2|0|12|96
+James Norwood|R|Curt Casali|R|Walk|*B|Four-Seam Fastball|5|3|2|0|14|96
+James Norwood|R|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|6|0|0|0|8|95
+James Norwood|R|Derek Dietrich|L|Strikeout|C|Four-Seam Fastball|7|0|1|0|4|96
+James Norwood|R|Derek Dietrich|L|Strikeout|F|Splitter|8|0|2|0|13|86
+James Norwood|R|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|9|0|2|0|4|95
+James Norwood|R|Derek Dietrich|L|Strikeout|W|Slider|10|0|2|0|14|83
+James Norwood|R|Kyle Farmer|R|Flyout|S|Four-Seam Fastball|11|0|0|1|6|96
+James Norwood|R|Kyle Farmer|R|Flyout|S|Four-Seam Fastball|12|0|1|1|5|97
+James Norwood|R|Kyle Farmer|R|Flyout|X|Four-Seam Fastball|13|0|2|1|6|97
+James Norwood|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|14|0|0|2|8|97
+James Norwood|R|Elias Diaz|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|96
+James Norwood|R|Elias Diaz|R|Strikeout|B|Slider|1|0|1|0|14|86
+James Norwood|R|Elias Diaz|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|12|96
+James Norwood|R|Elias Diaz|R|Strikeout|B|Four-Seam Fastball|3|2|1|0|14|95
+James Norwood|R|Elias Diaz|R|Strikeout|F|Two-Seam Fastball|4|3|1|0|8|95
+James Norwood|R|Elias Diaz|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|12|97
+James Norwood|R|Erik Gonzalez|R|Strikeout|F|Four-Seam Fastball|6|0|0|1|4|96
+James Norwood|R|Erik Gonzalez|R|Strikeout|C|Four-Seam Fastball|7|0|1|1|6|97
+James Norwood|R|Erik Gonzalez|R|Strikeout|F|Slider|8|0|2|1|14|84
+James Norwood|R|Erik Gonzalez|R|Strikeout|B|Splitter|9|0|2|1|13|89
+James Norwood|R|Erik Gonzalez|R|Strikeout|B|Four-Seam Fastball|10|1|2|1|12|98
+James Norwood|R|Erik Gonzalez|R|Strikeout|W|Splitter|11|2|2|1|13|88
+James Norwood|R|Kevin Newman|R|Triple|C|Four-Seam Fastball|12|0|0|2|8|96
+James Norwood|R|Kevin Newman|R|Triple|B|Slider|13|0|1|2|14|86
+James Norwood|R|Kevin Newman|R|Triple|D|Four-Seam Fastball|14|1|1|2|3|97
+James Norwood|R|Bryan Reynolds|L|Walk|B|Splitter|15|0|0|2|13|87
+James Norwood|R|Bryan Reynolds|L|Walk|*B|Splitter|16|1|0|2|14|87
+James Norwood|R|Bryan Reynolds|L|Walk|F|Four-Seam Fastball|17|2|0|2|5|96
+James Norwood|R|Bryan Reynolds|L|Walk|B|Four-Seam Fastball|18|2|1|2|11|97
+James Norwood|R|Bryan Reynolds|L|Walk|B|Four-Seam Fastball|19|3|1|2|13|96
+James Norwood|R|Melky Cabrera|L|Flyout|B|Four-Seam Fastball|20|0|0|2|11|96
+James Norwood|R|Melky Cabrera|L|Flyout|C|Four-Seam Fastball|21|1|0|2|1|96
+James Norwood|R|Melky Cabrera|L|Flyout|B|Two-Seam Fastball|22|1|1|2|11|96
+James Norwood|R|Melky Cabrera|L|Flyout|B|Four-Seam Fastball|23|2|1|2|12|94
+James Norwood|R|Melky Cabrera|L|Flyout|F|Four-Seam Fastball|24|3|1|2|1|96
+James Norwood|R|Melky Cabrera|L|Flyout|F|Four-Seam Fastball|25|3|2|2|5|97
+James Norwood|R|Melky Cabrera|L|Flyout|X|Four-Seam Fastball|26|3|2|2|3|96
+James Norwood|R|Bryan Reynolds|L|Field Error|B|Two-Seam Fastball|0|0|0|0|13|94
+James Norwood|R|Bryan Reynolds|L|Field Error|D|Four-Seam Fastball|1|1|0|0|9|96
+James Norwood|R|Pablo Reyes|R|Single|C|Four-Seam Fastball|2|0|0|0|14|96
+James Norwood|R|Pablo Reyes|R|Single|B|Four-Seam Fastball|3|0|1|0|14|96
+James Norwood|R|Pablo Reyes|R|Single|*B|Slider|4|1|1|0|14|85
+James Norwood|R|Pablo Reyes|R|Single|B|Four-Seam Fastball|5|2|1|0|12|95
+James Norwood|R|Pablo Reyes|R|Single|D|Four-Seam Fastball|6|3|1|0|6|94
+James Norwood|R|Jose Osuna|R|Grounded Into DP|W|Slider|7|0|0|0|14|85
+James Norwood|R|Jose Osuna|R|Grounded Into DP|B|Slider|8|0|1|0|14|86
+James Norwood|R|Jose Osuna|R|Grounded Into DP|B|Four-Seam Fastball|9|1|1|0|12|95
+James Norwood|R|Jose Osuna|R|Grounded Into DP|B|Four-Seam Fastball|10|2|1|0|14|94
+James Norwood|R|Jose Osuna|R|Grounded Into DP|S|Four-Seam Fastball|11|3|1|0|9|95
+James Norwood|R|Jose Osuna|R|Grounded Into DP|X|Four-Seam Fastball|12|3|2|0|2|95
+James Norwood|R|Elias Diaz|R|Pop Out|C|Four-Seam Fastball|13|0|0|2|14|96
+James Norwood|R|Elias Diaz|R|Pop Out|B|Two-Seam Fastball|14|0|1|2|14|97
+James Norwood|R|Elias Diaz|R|Pop Out|F|Splitter|15|1|1|2|8|88
+James Norwood|R|Elias Diaz|R|Pop Out|F|Splitter|16|1|2|2|13|88
+James Norwood|R|Elias Diaz|R|Pop Out|B|Four-Seam Fastball|17|1|2|2|12|97
+James Norwood|R|Elias Diaz|R|Pop Out|X|Splitter|18|2|2|2|13|87
+James Norwood|R|Eugenio Suarez|R|Groundout|X|Four-Seam Fastball|0|0|0|2|4|96
+James Norwood|R|Aristides Aquino|R|Single|B|Slider|1|0|0|0|14|84
+James Norwood|R|Aristides Aquino|R|Single|B|Four-Seam Fastball|2|1|0|0|14|94
+James Norwood|R|Aristides Aquino|R|Single|S|Slider|3|2|0|0|14|83
+James Norwood|R|Aristides Aquino|R|Single|B|Slider|4|2|1|0|11|83
+James Norwood|R|Aristides Aquino|R|Single|S|Splitter|5|3|1|0|13|88
+James Norwood|R|Aristides Aquino|R|Single|D|Splitter|6|3|2|0|8|88
+James Norwood|R|Josh VanMeter|L|Walk|B|Slider|7|0|0|0|14|84
+James Norwood|R|Josh VanMeter|L|Walk|B|Splitter|8|1|0|0|13|88
+James Norwood|R|Josh VanMeter|L|Walk|B|Splitter|9|2|0|0|13|87
+James Norwood|R|Josh VanMeter|L|Walk|B|Four-Seam Fastball|10|3|0|0|14|97
+James Norwood|R|Jose Iglesias|R|Double|F|Four-Seam Fastball|11|0|0|0|5|97
+James Norwood|R|Jose Iglesias|R|Double|E|Four-Seam Fastball|12|0|1|0|5|97
+James Norwood|R|Tucker Barnhart|L|Walk|F|Four-Seam Fastball|13|0|0|0|6|96
+James Norwood|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|14|0|1|0|11|97
+James Norwood|R|Tucker Barnhart|L|Walk|F|Four-Seam Fastball|15|1|1|0|14|97
+James Norwood|R|Tucker Barnhart|L|Walk|F|Splitter|16|1|2|0|4|87
+James Norwood|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|17|1|2|0|13|97
+James Norwood|R|Tucker Barnhart|L|Walk|*B|Splitter|18|2|2|0|14|87
+James Norwood|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|19|3|2|0|14|98
+James Norwood|R|Jacob Stallings|R|Flyout|S|Slider|0|0|0|2|6|83
+James Norwood|R|Jacob Stallings|R|Flyout|*B|Four-Seam Fastball|1|0|1|2|13|94
+James Norwood|R|Jacob Stallings|R|Flyout|B|Four-Seam Fastball|2|1|1|2|14|93
+James Norwood|R|Jacob Stallings|R|Flyout|X|Slider|3|2|1|2|4|83
+James Norwood|R|Jake Elmore|R|Single|C|Slider|4|0|0|0|6|85
+James Norwood|R|Jake Elmore|R|Single|B|Slider|5|0|1|0|14|85
+James Norwood|R|Jake Elmore|R|Single|B|Slider|6|1|1|0|14|85
+James Norwood|R|Jake Elmore|R|Single|F|Four-Seam Fastball|7|2|1|0|5|95
+James Norwood|R|Jake Elmore|R|Single|B|Four-Seam Fastball|8|2|2|0|14|96
+James Norwood|R|Jake Elmore|R|Single|F|Four-Seam Fastball|9|3|2|0|2|96
+James Norwood|R|Jake Elmore|R|Single|F|Two-Seam Fastball|10|3|2|0|11|96
+James Norwood|R|Jake Elmore|R|Single|D|Slider|11|3|2|0|14|87
+James Norwood|R|Erik Gonzalez|R|Home Run|F|Four-Seam Fastball|12|0|0|0|6|95
+James Norwood|R|Erik Gonzalez|R|Home Run|B|Four-Seam Fastball|13|0|1|0|14|96
+James Norwood|R|Erik Gonzalez|R|Home Run|B|Slider|14|1|1|0|14|85
+James Norwood|R|Erik Gonzalez|R|Home Run|F|Four-Seam Fastball|15|2|1|0|13|94
+James Norwood|R|Erik Gonzalez|R|Home Run|F|Splitter|16|2|2|0|13|87
+James Norwood|R|Erik Gonzalez|R|Home Run|B|Four-Seam Fastball|17|2|2|0|14|96
+James Norwood|R|Erik Gonzalez|R|Home Run|E|Four-Seam Fastball|18|3|2|0|5|96
+James Norwood|R|Pablo Reyes|R|Strikeout|C|Four-Seam Fastball|19|0|0|0|5|95
+James Norwood|R|Pablo Reyes|R|Strikeout|B|Splitter|20|0|1|0|14|87
+James Norwood|R|Pablo Reyes|R|Strikeout|S|Splitter|21|1|1|0|5|86
+James Norwood|R|Pablo Reyes|R|Strikeout|F|Splitter|22|1|2|0|13|87
+James Norwood|R|Pablo Reyes|R|Strikeout|B|Four-Seam Fastball|23|1|2|0|12|97
+James Norwood|R|Pablo Reyes|R|Strikeout|B|Four-Seam Fastball|24|2|2|0|14|96
+James Norwood|R|Pablo Reyes|R|Strikeout|F|Slider|25|3|2|0|14|87
+James Norwood|R|Pablo Reyes|R|Strikeout|F|Four-Seam Fastball|26|3|2|0|3|95
+James Norwood|R|Pablo Reyes|R|Strikeout|S|Splitter|27|3|2|0|14|86
+James Norwood|R|Parker Markel|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|94
+James Norwood|R|Parker Markel|R|Strikeout|S|Slider|1|0|1|0|13|83
+James Norwood|R|Parker Markel|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|11|95
+James Norwood|R|Kevin Newman|R|Walk|B|Four-Seam Fastball|3|0|0|1|14|94
+James Norwood|R|Kevin Newman|R|Walk|B|Splitter|4|1|0|1|13|86
+James Norwood|R|Kevin Newman|R|Walk|B|Four-Seam Fastball|5|2|0|1|14|95
+James Norwood|R|Kevin Newman|R|Walk|C|Two-Seam Fastball|6|3|0|1|6|95
+James Norwood|R|Kevin Newman|R|Walk|F|Four-Seam Fastball|7|3|1|1|3|95
+James Norwood|R|Kevin Newman|R|Walk|*B|Splitter|8|3|2|1|13|88
+James Norwood|R|Adam Frazier|L|Flyout|B|Two-Seam Fastball|9|0|0|1|13|94
+James Norwood|R|Adam Frazier|L|Flyout|*B|Splitter|10|1|0|1|14|87
+James Norwood|R|Adam Frazier|L|Flyout|X|Four-Seam Fastball|11|2|0|1|7|94
+James Norwood|R|Melky Cabrera|L|Single|C|Four-Seam Fastball|12|0|0|2|4|94
+James Norwood|R|Melky Cabrera|L|Single|F|Four-Seam Fastball|13|0|1|2|7|95
+James Norwood|R|Melky Cabrera|L|Single|D|Splitter|14|0|2|2|14|88
+James Norwood|R|Jose Osuna|R|Groundout|B|Slider|15|0|0|2|14|85
+James Norwood|R|Jose Osuna|R|Groundout|X|Four-Seam Fastball|16|1|0|2|6|95
+James Norwood|R|Wil Myers|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|96
+James Norwood|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|95
+James Norwood|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|2|1|1|0|13|96
+James Norwood|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|3|2|1|0|14|95
+James Norwood|R|Wil Myers|R|Groundout|X|Four-Seam Fastball|4|3|1|0|9|96
+James Norwood|R|Josh Naylor|L|Lineout|B|Slider|5|0|0|1|13|84
+James Norwood|R|Josh Naylor|L|Lineout|B|Two-Seam Fastball|6|1|0|1|13|96
+James Norwood|R|Josh Naylor|L|Lineout|B|Four-Seam Fastball|7|2|0|1|14|96
+James Norwood|R|Josh Naylor|L|Lineout|F|Four-Seam Fastball|8|3|0|1|5|96
+James Norwood|R|Josh Naylor|L|Lineout|F|Four-Seam Fastball|9|3|1|1|4|97
+James Norwood|R|Josh Naylor|L|Lineout|X|Four-Seam Fastball|10|3|2|1|4|98
+James Norwood|R|Manuel Margot|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|3|96
+James Norwood|R|Manuel Margot|R|Strikeout|B|Four-Seam Fastball|12|0|1|2|14|96
+James Norwood|R|Manuel Margot|R|Strikeout|B|Slider|13|1|1|2|14|85
+James Norwood|R|Manuel Margot|R|Strikeout|F|Four-Seam Fastball|14|2|1|2|2|96
+James Norwood|R|Manuel Margot|R|Strikeout|S|Splitter|15|2|2|2|13|87
+James Norwood|R|Wil Myers|R|Groundout|C|Four-Seam Fastball|0|0|0|1|6|93
+James Norwood|R|Wil Myers|R|Groundout|B|Two-Seam Fastball|1|0|1|1|12|95
+James Norwood|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|2|1|1|1|8|95
+James Norwood|R|Wil Myers|R|Groundout|S|Slider|3|2|1|1|14|82
+James Norwood|R|Wil Myers|R|Groundout|X|Slider|4|2|2|1|8|85
+James Norwood|R|Ty France|R|Walk|F|Two-Seam Fastball|5|0|0|2|4|94
+James Norwood|R|Ty France|R|Walk|F|Four-Seam Fastball|6|0|1|2|3|96
+James Norwood|R|Ty France|R|Walk|B|Four-Seam Fastball|7|0|2|2|14|96
+James Norwood|R|Ty France|R|Walk|B|Four-Seam Fastball|8|1|2|2|12|96
+James Norwood|R|Ty France|R|Walk|B|Splitter|9|2|2|2|11|87
+James Norwood|R|Ty France|R|Walk|B|Two-Seam Fastball|10|3|2|2|14|95
+James Norwood|R|Seth Mejias-Brean|R|Strikeout|C|Slider|11|0|0|2|3|83
+James Norwood|R|Seth Mejias-Brean|R|Strikeout|F|Two-Seam Fastball|12|0|1|2|9|95
+James Norwood|R|Seth Mejias-Brean|R|Strikeout|B|Four-Seam Fastball|13|0|2|2|12|96
+James Norwood|R|Seth Mejias-Brean|R|Strikeout|F|Splitter|14|1|2|2|11|86
+James Norwood|R|Seth Mejias-Brean|R|Strikeout|W|Slider|15|1|2|2|14|84
+James Norwood|R|Luis Urias|R|Single|B|Four-Seam Fastball|16|0|0|0|14|96
+James Norwood|R|Luis Urias|R|Single|D|Four-Seam Fastball|17|1|0|0|11|95
+James Norwood|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|18|0|0|0|12|95
+James Norwood|R|Austin Hedges|R|Strikeout|B|Two-Seam Fastball|19|0|1|0|12|89
+James Norwood|R|Austin Hedges|R|Strikeout|C|Splitter|20|1|1|0|7|86
+James Norwood|R|Austin Hedges|R|Strikeout|S|Slider|21|1|2|0|13|86
+James Norwood|R|Paul DeJong|R|Walk|S|Slider|0|0|0|0|14|85
+James Norwood|R|Paul DeJong|R|Walk|F|Slider|1|0|1|0|13|84
+James Norwood|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|2|0|2|0|13|96
+James Norwood|R|Paul DeJong|R|Walk|B|Splitter|3|1|2|0|13|87
+James Norwood|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|4|2|2|0|14|96
+James Norwood|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|95
+James Norwood|R|Harrison Bader|R|Strikeout|C|Four-Seam Fastball|6|0|0|0|6|94
+James Norwood|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|7|0|1|0|11|96
+James Norwood|R|Harrison Bader|R|Strikeout|S|Splitter|8|0|2|0|14|87
+James Norwood|R|Jack Flaherty|R|Flyout|B|Four-Seam Fastball|9|0|0|1|14|95
+James Norwood|R|Jack Flaherty|R|Flyout|X|Four-Seam Fastball|10|1|0|1|6|95
+James Norwood|R|Dexter Fowler|L|Single|F|Four-Seam Fastball|11|0|0|2|7|96
+James Norwood|R|Dexter Fowler|L|Single|C|Four-Seam Fastball|12|0|1|2|8|96
+James Norwood|R|Dexter Fowler|L|Single|B|Splitter|13|0|2|2|13|88
+James Norwood|R|Dexter Fowler|L|Single|F|Two-Seam Fastball|14|1|2|2|4|97
+James Norwood|R|Dexter Fowler|L|Single|B|Four-Seam Fastball|15|1|2|2|11|96
+James Norwood|R|Dexter Fowler|L|Single|D|Four-Seam Fastball|16|2|2|2|11|96
+James Norwood|R|Tommy Edman|L|Flyout|S|Four-Seam Fastball|17|0|0|2|3|96
+James Norwood|R|Tommy Edman|L|Flyout|B|Four-Seam Fastball|18|0|1|2|14|98
+James Norwood|R|Tommy Edman|L|Flyout|X|Four-Seam Fastball|19|1|1|2|2|97
+James Norwood|R|Paul Goldschmidt|R|Strikeout|C|Slider|20|0|0|0|4|85
+James Norwood|R|Paul Goldschmidt|R|Strikeout|B|Slider|21|0|1|0|11|85
+James Norwood|R|Paul Goldschmidt|R|Strikeout|F|Slider|22|1|1|0|6|84
+James Norwood|R|Paul Goldschmidt|R|Strikeout|F|Splitter|23|1|2|0|7|87
+James Norwood|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|24|1|2|0|14|96
+James Norwood|R|Paul Goldschmidt|R|Strikeout|S|Slider|25|2|2|0|13|86
+James Norwood|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|26|0|0|1|8|97
+James Norwood|R|Marcell Ozuna|R|Strikeout|B|Splitter|27|0|1|1|13|88
+James Norwood|R|Marcell Ozuna|R|Strikeout|B|Slider|28|1|1|1|14|87
+James Norwood|R|Marcell Ozuna|R|Strikeout|C|Slider|29|2|1|1|9|85
+James Norwood|R|Marcell Ozuna|R|Strikeout|S|Slider|30|2|2|1|14|86
+James Norwood|R|Yadier Molina|R|Walk|B|Four-Seam Fastball|31|0|0|2|14|97
+James Norwood|R|Yadier Molina|R|Walk|S|Four-Seam Fastball|32|1|0|2|9|96
+James Norwood|R|Yadier Molina|R|Walk|S|Four-Seam Fastball|33|1|1|2|14|97
+James Norwood|R|Yadier Molina|R|Walk|B|Slider|34|1|2|2|14|87
+James Norwood|R|Yadier Molina|R|Walk|B|Four-Seam Fastball|35|2|2|2|12|97
+James Norwood|R|Yadier Molina|R|Walk|F|Four-Seam Fastball|36|3|2|2|4|97
+James Norwood|R|Yadier Molina|R|Walk|B|Four-Seam Fastball|37|3|2|2|11|96
+James Norwood|R|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|38|0|0|2|2|96
+James Norwood|R|Matt Carpenter|L|Flyout|B|Slider|39|0|1|2|13|87
+James Norwood|R|Matt Carpenter|L|Flyout|B|Slider|40|1|1|2|13|86
+James Norwood|R|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|41|2|1|2|13|97

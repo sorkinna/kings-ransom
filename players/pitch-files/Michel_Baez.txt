@@ -1,0 +1,526 @@
+Michel Baez|R|Abraham Almonte|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|95
+Michel Baez|R|Abraham Almonte|L|Walk|S|Four-Seam Fastball|1|1|0|0|11|95
+Michel Baez|R|Abraham Almonte|L|Walk|F|Changeup|2|1|1|0|4|85
+Michel Baez|R|Abraham Almonte|L|Walk|B|Four-Seam Fastball|3|1|2|0|12|96
+Michel Baez|R|Abraham Almonte|L|Walk|F|Four-Seam Fastball|4|2|2|0|4|96
+Michel Baez|R|Abraham Almonte|L|Walk|B|Four-Seam Fastball|5|2|2|0|12|96
+Michel Baez|R|Abraham Almonte|L|Walk|B|Four-Seam Fastball|6|3|2|0|13|96
+Michel Baez|R|Nick Ahmed|R|Strikeout|C|Four-Seam Fastball|7|0|0|0|3|96
+Michel Baez|R|Nick Ahmed|R|Strikeout|F|Changeup|8|0|1|0|7|86
+Michel Baez|R|Nick Ahmed|R|Strikeout|B|Slider|9|0|2|0|14|85
+Michel Baez|R|Nick Ahmed|R|Strikeout|S|Four-Seam Fastball|10|1|2|0|11|95
+Michel Baez|R|Tim Locastro|R|Hit By Pitch|F|Four-Seam Fastball|11|0|0|1|12|95
+Michel Baez|R|Tim Locastro|R|Hit By Pitch|H|Four-Seam Fastball|12|0|1|1|11|96
+Michel Baez|R|Caleb Joseph|R|Flyout|C|Changeup|13|0|0|1|1|86
+Michel Baez|R|Caleb Joseph|R|Flyout|S|Changeup|14|0|1|1|13|85
+Michel Baez|R|Caleb Joseph|R|Flyout|B|Slider|15|0|2|1|14|85
+Michel Baez|R|Caleb Joseph|R|Flyout|X|Four-Seam Fastball|16|1|2|1|3|96
+Michel Baez|R|Jarrod Dyson|L|Strikeout|B|Changeup|17|0|0|2|11|85
+Michel Baez|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|18|1|0|2|8|95
+Michel Baez|R|Jarrod Dyson|L|Strikeout|F|Changeup|19|1|1|2|13|86
+Michel Baez|R|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|20|1|2|2|11|96
+Michel Baez|R|Wilmer Flores|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|95
+Michel Baez|R|Wilmer Flores|R|Strikeout|B|Slider|1|0|1|0|14|88
+Michel Baez|R|Wilmer Flores|R|Strikeout|F|Changeup|2|1|1|0|7|85
+Michel Baez|R|Wilmer Flores|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|96
+Michel Baez|R|Wilmer Flores|R|Strikeout|B|Four-Seam Fastball|4|1|2|0|11|96
+Michel Baez|R|Wilmer Flores|R|Strikeout|F|Changeup|5|2|2|0|7|85
+Michel Baez|R|Wilmer Flores|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|14|96
+Michel Baez|R|Wilmer Flores|R|Strikeout|S|Changeup|7|3|2|0|13|86
+Michel Baez|R|Nick Ahmed|R|Strikeout|B|Slider|8|0|0|1|14|87
+Michel Baez|R|Nick Ahmed|R|Strikeout|S|Four-Seam Fastball|9|1|0|1|3|96
+Michel Baez|R|Nick Ahmed|R|Strikeout|S|Four-Seam Fastball|10|1|1|1|12|95
+Michel Baez|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|11|1|2|1|6|96
+Michel Baez|R|Nick Ahmed|R|Strikeout|F|Changeup|12|1|2|1|13|86
+Michel Baez|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|13|1|2|1|5|95
+Michel Baez|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|14|1|2|1|5|96
+Michel Baez|R|Nick Ahmed|R|Strikeout|W|Changeup|15|1|2|1|14|85
+Michel Baez|R|Eduardo Escobar|L|Groundout|X|Slider|16|0|0|2|13|86
+Michel Baez|R|Christian Walker|R|Groundout|X|Slider|17|0|0|0|7|85
+Michel Baez|R|Josh Rojas|L|Walk|B|Four-Seam Fastball|18|0|0|1|11|94
+Michel Baez|R|Josh Rojas|L|Walk|C|Four-Seam Fastball|19|1|0|1|6|93
+Michel Baez|R|Josh Rojas|L|Walk|B|Four-Seam Fastball|20|1|1|1|12|94
+Michel Baez|R|Josh Rojas|L|Walk|B|Changeup|21|2|1|1|13|85
+Michel Baez|R|Josh Rojas|L|Walk|B|Four-Seam Fastball|22|3|1|1|11|95
+Michel Baez|R|Tim Locastro|R|Strikeout|S|Four-Seam Fastball|23|0|0|1|6|95
+Michel Baez|R|Tim Locastro|R|Strikeout|B|Four-Seam Fastball|24|0|1|1|12|96
+Michel Baez|R|Tim Locastro|R|Strikeout|S|Four-Seam Fastball|25|1|1|1|12|96
+Michel Baez|R|Tim Locastro|R|Strikeout|S|Four-Seam Fastball|26|1|2|1|12|96
+Michel Baez|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|27|0|0|2|11|96
+Michel Baez|R|Jarrod Dyson|L|Strikeout|B|Changeup|28|1|0|2|14|86
+Michel Baez|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|29|2|0|2|2|95
+Michel Baez|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|30|2|1|2|2|95
+Michel Baez|R|Jarrod Dyson|L|Strikeout|B|Changeup|31|2|2|2|14|87
+Michel Baez|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|32|3|2|2|14|96
+Michel Baez|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|0|0|0|0|12|96
+Michel Baez|R|Jose Iglesias|R|Groundout|C|Slider|1|0|1|0|12|83
+Michel Baez|R|Jose Iglesias|R|Groundout|F|Four-Seam Fastball|2|0|2|0|12|96
+Michel Baez|R|Jose Iglesias|R|Groundout|X|Changeup|3|0|2|0|14|86
+Michel Baez|R|Nick Senzel|R|Field Error|B|Four-Seam Fastball|4|0|0|1|13|96
+Michel Baez|R|Nick Senzel|R|Field Error|B|Four-Seam Fastball|5|1|0|1|14|96
+Michel Baez|R|Nick Senzel|R|Field Error|C|Changeup|6|2|0|1|14|85
+Michel Baez|R|Nick Senzel|R|Field Error|B|Changeup|7|2|1|1|14|85
+Michel Baez|R|Nick Senzel|R|Field Error|C|Four-Seam Fastball|8|3|1|1|12|95
+Michel Baez|R|Nick Senzel|R|Field Error|F|Changeup|9|3|2|1|14|87
+Michel Baez|R|Nick Senzel|R|Field Error|F|Four-Seam Fastball|10|3|2|1|11|97
+Michel Baez|R|Nick Senzel|R|Field Error|F|Slider|11|3|2|1|5|85
+Michel Baez|R|Nick Senzel|R|Field Error|D|Four-Seam Fastball|12|3|2|1|2|96
+Michel Baez|R|Brian O'Grady|L|Flyout|C|Four-Seam Fastball|13|0|0|1|7|95
+Michel Baez|R|Brian O'Grady|L|Flyout|X|Changeup|14|0|1|1|2|84
+Michel Baez|R|Phillip Ervin|R|Strikeout|F|Four-Seam Fastball|15|0|0|2|7|95
+Michel Baez|R|Phillip Ervin|R|Strikeout|B|Four-Seam Fastball|16|0|1|2|12|95
+Michel Baez|R|Phillip Ervin|R|Strikeout|B|Changeup|17|1|1|2|11|84
+Michel Baez|R|Phillip Ervin|R|Strikeout|B|Slider|18|2|1|2|14|85
+Michel Baez|R|Phillip Ervin|R|Strikeout|F|Four-Seam Fastball|19|3|1|2|5|95
+Michel Baez|R|Phillip Ervin|R|Strikeout|F|Changeup|20|3|2|2|13|84
+Michel Baez|R|Phillip Ervin|R|Strikeout|S|Four-Seam Fastball|21|3|2|2|4|96
+Michel Baez|R|Josh VanMeter|L|Strikeout|C|Curveball|22|0|0|0|5|75
+Michel Baez|R|Josh VanMeter|L|Strikeout|B|Changeup|23|0|1|0|11|85
+Michel Baez|R|Josh VanMeter|L|Strikeout|B|Changeup|24|1|1|0|14|84
+Michel Baez|R|Josh VanMeter|L|Strikeout|S|Four-Seam Fastball|25|2|1|0|6|94
+Michel Baez|R|Josh VanMeter|L|Strikeout|S|Four-Seam Fastball|26|2|2|0|3|96
+Michel Baez|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|27|0|0|1|14|94
+Michel Baez|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|28|0|1|1|1|95
+Michel Baez|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|29|0|2|1|11|96
+Michel Baez|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|30|1|2|1|13|95
+Michel Baez|R|Freddy Galvis|L|Strikeout|W|Changeup|31|2|2|1|13|86
+Michel Baez|R|Eugenio Suarez|R|Walk|B|Slider|32|0|0|2|14|84
+Michel Baez|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|33|1|0|2|12|96
+Michel Baez|R|Eugenio Suarez|R|Walk|F|Changeup|34|2|0|2|5|85
+Michel Baez|R|Eugenio Suarez|R|Walk|C|Four-Seam Fastball|35|2|1|2|14|96
+Michel Baez|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|36|2|2|2|12|95
+Michel Baez|R|Eugenio Suarez|R|Walk|F|Changeup|37|3|2|2|13|85
+Michel Baez|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|38|3|2|2|12|96
+Michel Baez|R|Aristides Aquino|R|Flyout|C|Four-Seam Fastball|39|0|0|2|6|96
+Michel Baez|R|Aristides Aquino|R|Flyout|X|Changeup|40|0|1|2|11|85
+Michel Baez|R|Trevor Story|R|Single|F|Four-Seam Fastball|0|0|0|1|11|96
+Michel Baez|R|Trevor Story|R|Single|D|Slider|1|0|1|1|13|85
+Michel Baez|R|Garrett Hampson|R|Single|D|Four-Seam Fastball|2|0|0|1|5|96
+Michel Baez|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|3|0|0|1|11|97
+Michel Baez|R|Nolan Arenado|R|Walk|*B|Changeup|4|1|0|1|14|85
+Michel Baez|R|Nolan Arenado|R|Walk|S|Changeup|5|2|0|1|13|85
+Michel Baez|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|6|2|1|1|14|96
+Michel Baez|R|Nolan Arenado|R|Walk|B|Changeup|7|3|1|1|14|85
+Michel Baez|R|Charlie Blackmon|L|Sac Fly|S|Changeup|8|0|0|1|13|86
+Michel Baez|R|Charlie Blackmon|L|Sac Fly|F|Four-Seam Fastball|9|0|1|1|7|96
+Michel Baez|R|Charlie Blackmon|L|Sac Fly|E|Changeup|10|0|2|1|14|86
+Michel Baez|R|Daniel Murphy|L|Intent Walk|V|N/A|11|0|0|2|0|0
+Michel Baez|R|Daniel Murphy|L|Intent Walk|V|N/A|12|0|1|2|0|0
+Michel Baez|R|Daniel Murphy|L|Intent Walk|V|N/A|13|0|2|2|0|0
+Michel Baez|R|Daniel Murphy|L|Intent Walk|V|N/A|14|0|2|2|0|0
+Michel Baez|R|Ryan McMahon|L|Lineout|W|Changeup|15|0|0|2|14|86
+Michel Baez|R|Ryan McMahon|L|Lineout|B|Changeup|16|0|1|2|14|86
+Michel Baez|R|Ryan McMahon|L|Lineout|B|Four-Seam Fastball|17|1|1|2|11|97
+Michel Baez|R|Ryan McMahon|L|Lineout|X|Four-Seam Fastball|18|2|1|2|14|96
+Michel Baez|R|Trevor Story|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|94
+Michel Baez|R|Trevor Story|R|Strikeout|F|Changeup|1|0|1|0|14|86
+Michel Baez|R|Trevor Story|R|Strikeout|S|Changeup|2|0|2|0|1|85
+Michel Baez|R|Raimel Tapia|L|Strikeout|F|Changeup|3|0|0|1|5|85
+Michel Baez|R|Raimel Tapia|L|Strikeout|F|Changeup|4|0|1|1|14|85
+Michel Baez|R|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|5|0|2|1|11|95
+Michel Baez|R|Raimel Tapia|L|Strikeout|C|Four-Seam Fastball|6|1|2|1|13|95
+Michel Baez|R|Charlie Blackmon|L|Groundout|C|Changeup|7|0|0|2|13|86
+Michel Baez|R|Charlie Blackmon|L|Groundout|B|Changeup|8|0|1|2|13|86
+Michel Baez|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|9|1|1|2|14|95
+Michel Baez|R|Charlie Blackmon|L|Groundout|B|Changeup|10|2|1|2|11|85
+Michel Baez|R|Charlie Blackmon|L|Groundout|X|Four-Seam Fastball|11|3|1|2|9|95
+Michel Baez|R|Corey Seager|L|Groundout|X|Changeup|0|0|0|0|7|85
+Michel Baez|R|Will Smith|R|Walk|C|Four-Seam Fastball|1|0|0|1|6|96
+Michel Baez|R|Will Smith|R|Walk|B|Curveball|2|0|1|1|14|79
+Michel Baez|R|Will Smith|R|Walk|B|Curveball|3|1|1|1|14|81
+Michel Baez|R|Will Smith|R|Walk|S|Changeup|4|2|1|1|14|85
+Michel Baez|R|Will Smith|R|Walk|B|Four-Seam Fastball|5|2|2|1|12|96
+Michel Baez|R|Will Smith|R|Walk|B|Changeup|6|3|2|1|14|86
+Michel Baez|R|Alex Verdugo|L|Double Play|C|Four-Seam Fastball|7|0|0|1|4|95
+Michel Baez|R|Alex Verdugo|L|Double Play|X|Changeup|8|0|1|1|13|85
+Michel Baez|R|Matt Beaty|L|Single|C|Four-Seam Fastball|9|0|0|0|11|95
+Michel Baez|R|Matt Beaty|L|Single|D|Curveball|10|0|1|0|11|77
+Michel Baez|R|Walker Buehler|R|Sac Bunt|X|Four-Seam Fastball|11|0|0|0|5|95
+Michel Baez|R|Joc Pederson|L|Flyout|*B|Four-Seam Fastball|12|0|0|1|14|95
+Michel Baez|R|Joc Pederson|L|Flyout|S|Changeup|13|1|0|1|13|86
+Michel Baez|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|14|1|1|1|3|96
+Michel Baez|R|Max Muncy|L|Walk|C|Curveball|15|0|0|2|14|79
+Michel Baez|R|Max Muncy|L|Walk|B|Changeup|16|0|1|2|9|86
+Michel Baez|R|Max Muncy|L|Walk|B|Changeup|17|1|1|2|11|86
+Michel Baez|R|Max Muncy|L|Walk|B|Four-Seam Fastball|18|2|1|2|13|96
+Michel Baez|R|Max Muncy|L|Walk|B|Changeup|19|3|1|2|14|85
+Michel Baez|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|20|0|0|2|9|96
+Michel Baez|R|Justin Turner|R|Strikeout|F|Four-Seam Fastball|21|0|1|2|8|96
+Michel Baez|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|22|0|2|2|12|96
+Michel Baez|R|Justin Turner|R|Strikeout|S|Four-Seam Fastball|23|1|2|2|11|96
+Michel Baez|R|Dominic Smith|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|97
+Michel Baez|R|Dominic Smith|L|Pop Out|F|Four-Seam Fastball|1|1|0|0|2|97
+Michel Baez|R|Dominic Smith|L|Pop Out|S|Changeup|2|1|1|0|8|87
+Michel Baez|R|Dominic Smith|L|Pop Out|F|Four-Seam Fastball|3|1|2|0|11|97
+Michel Baez|R|Dominic Smith|L|Pop Out|F|Changeup|4|1|2|0|11|87
+Michel Baez|R|Dominic Smith|L|Pop Out|B|Changeup|5|1|2|0|13|88
+Michel Baez|R|Dominic Smith|L|Pop Out|X|Four-Seam Fastball|6|2|2|0|6|98
+Michel Baez|R|Todd Frazier|R|Flyout|B|Changeup|7|0|0|1|13|88
+Michel Baez|R|Todd Frazier|R|Flyout|B|Four-Seam Fastball|8|1|0|1|11|98
+Michel Baez|R|Todd Frazier|R|Flyout|X|Four-Seam Fastball|9|2|0|1|5|98
+Michel Baez|R|Amed Rosario|R|Single|F|Four-Seam Fastball|10|0|0|2|13|97
+Michel Baez|R|Amed Rosario|R|Single|D|Four-Seam Fastball|11|0|1|2|4|96
+Michel Baez|R|J.D. Davis|R|Lineout|F|Four-Seam Fastball|12|0|0|2|5|97
+Michel Baez|R|J.D. Davis|R|Lineout|B|Changeup|13|0|1|2|13|87
+Michel Baez|R|J.D. Davis|R|Lineout|B|Changeup|14|1|1|2|13|86
+Michel Baez|R|J.D. Davis|R|Lineout|S|Four-Seam Fastball|15|2|1|2|11|97
+Michel Baez|R|J.D. Davis|R|Lineout|F|Four-Seam Fastball|16|2|2|2|2|97
+Michel Baez|R|J.D. Davis|R|Lineout|X|Four-Seam Fastball|17|2|2|2|4|97
+Michel Baez|R|Amed Rosario|R|Lineout|B|Four-Seam Fastball|0|0|0|0|11|95
+Michel Baez|R|Amed Rosario|R|Lineout|X|Four-Seam Fastball|1|1|0|0|3|95
+Michel Baez|R|J.D. Davis|R|Strikeout|C|Curveball|2|0|0|1|11|76
+Michel Baez|R|J.D. Davis|R|Strikeout|B|Four-Seam Fastball|3|0|1|1|11|95
+Michel Baez|R|J.D. Davis|R|Strikeout|B|Four-Seam Fastball|4|1|1|1|11|95
+Michel Baez|R|J.D. Davis|R|Strikeout|F|Four-Seam Fastball|5|2|1|1|2|95
+Michel Baez|R|J.D. Davis|R|Strikeout|S|Changeup|6|2|2|1|13|86
+Michel Baez|R|Pete Alonso|R|Hit By Pitch|F|Four-Seam Fastball|7|0|0|2|2|96
+Michel Baez|R|Pete Alonso|R|Hit By Pitch|H|Changeup|8|0|1|2|11|85
+Michel Baez|R|Wilson Ramos|R|Single|D|Four-Seam Fastball|9|0|0|2|12|95
+Michel Baez|R|Robinson Cano|L|Intent Walk|B|Four-Seam Fastball|10|0|0|2|14|95
+Michel Baez|R|Robinson Cano|L|Intent Walk|B|Changeup|11|1|0|2|13|85
+Michel Baez|R|Robinson Cano|L|Intent Walk|B|Changeup|12|2|0|2|11|84
+Michel Baez|R|Robinson Cano|L|Intent Walk|V|N/A|13|3|0|2|0|0
+Michel Baez|R|Todd Frazier|R|Strikeout|*B|Four-Seam Fastball|14|0|0|2|14|96
+Michel Baez|R|Todd Frazier|R|Strikeout|F|Four-Seam Fastball|15|1|0|2|5|95
+Michel Baez|R|Todd Frazier|R|Strikeout|C|Four-Seam Fastball|16|1|1|2|12|96
+Michel Baez|R|Todd Frazier|R|Strikeout|S|Changeup|17|1|2|2|7|86
+Michel Baez|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|95
+Michel Baez|R|Joe Panik|L|Groundout|X|Four-Seam Fastball|1|1|0|0|14|96
+Michel Baez|R|Donovan Solano|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|6|96
+Michel Baez|R|Donovan Solano|R|Strikeout|F|Four-Seam Fastball|3|0|1|1|11|96
+Michel Baez|R|Donovan Solano|R|Strikeout|F|Changeup|4|0|2|1|13|87
+Michel Baez|R|Donovan Solano|R|Strikeout|B|Four-Seam Fastball|5|0|2|1|12|96
+Michel Baez|R|Donovan Solano|R|Strikeout|B|Four-Seam Fastball|6|1|2|1|12|96
+Michel Baez|R|Donovan Solano|R|Strikeout|S|Changeup|7|2|2|1|13|87
+Michel Baez|R|Brandon Belt|L|Strikeout|C|Curveball|8|0|0|2|4|78
+Michel Baez|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|9|0|1|2|11|95
+Michel Baez|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|10|0|2|2|12|96
+Michel Baez|R|Brandon Belt|L|Strikeout|B|Changeup|11|1|2|2|13|88
+Michel Baez|R|Brandon Belt|L|Strikeout|S|Changeup|12|2|2|2|13|87
+Michel Baez|R|Mike Yastrzemski|L|Single|C|Four-Seam Fastball|13|0|0|0|6|95
+Michel Baez|R|Mike Yastrzemski|L|Single|B|Changeup|14|0|1|0|11|86
+Michel Baez|R|Mike Yastrzemski|L|Single|B|Changeup|15|1|1|0|11|85
+Michel Baez|R|Mike Yastrzemski|L|Single|B|Four-Seam Fastball|16|2|1|0|14|95
+Michel Baez|R|Mike Yastrzemski|L|Single|D|Four-Seam Fastball|17|3|1|0|6|95
+Michel Baez|R|Pablo Sandoval|L|Groundout|C|Four-Seam Fastball|18|0|0|0|9|96
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Four-Seam Fastball|19|0|1|0|12|96
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Changeup|20|0|2|0|11|87
+Michel Baez|R|Pablo Sandoval|L|Groundout|B|Slider|21|0|2|0|13|83
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Four-Seam Fastball|22|1|2|0|1|96
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Four-Seam Fastball|23|1|2|0|5|96
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Changeup|24|1|2|0|11|86
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Curveball|25|1|2|0|2|80
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Four-Seam Fastball|26|1|2|0|11|96
+Michel Baez|R|Pablo Sandoval|L|Groundout|F|Four-Seam Fastball|27|1|2|0|2|97
+Michel Baez|R|Pablo Sandoval|L|Groundout|B|Changeup|28|1|2|0|13|86
+Michel Baez|R|Pablo Sandoval|L|Groundout|X|Changeup|29|2|2|0|13|88
+Michel Baez|R|Trey Mancini|R|Single|B|Four-Seam Fastball|0|0|0|2|11|96
+Michel Baez|R|Trey Mancini|R|Single|B|Changeup|1|1|0|2|11|86
+Michel Baez|R|Trey Mancini|R|Single|E|Four-Seam Fastball|2|2|0|2|2|96
+Michel Baez|R|Anthony Santander|L|Strikeout|B|Four-Seam Fastball|3|0|0|2|13|96
+Michel Baez|R|Anthony Santander|L|Strikeout|S|Changeup|4|1|0|2|3|85
+Michel Baez|R|Anthony Santander|L|Strikeout|F|Changeup|5|1|1|2|8|86
+Michel Baez|R|Anthony Santander|L|Strikeout|F|Four-Seam Fastball|6|1|2|2|12|96
+Michel Baez|R|Anthony Santander|L|Strikeout|S|Four-Seam Fastball|7|1|2|2|12|95
+Michel Baez|R|Renato Nunez|R|Pop Out|C|Four-Seam Fastball|8|0|0|0|14|95
+Michel Baez|R|Renato Nunez|R|Pop Out|B|Slider|9|0|1|0|14|82
+Michel Baez|R|Renato Nunez|R|Pop Out|C|Slider|10|1|1|0|7|82
+Michel Baez|R|Renato Nunez|R|Pop Out|X|Changeup|11|1|2|0|5|85
+Michel Baez|R|Jace Peterson|L|Single|C|Curveball|12|0|0|1|2|76
+Michel Baez|R|Jace Peterson|L|Single|D|Changeup|13|0|1|1|13|85
+Michel Baez|R|Pedro Severino|R|Strikeout|S|Four-Seam Fastball|14|0|0|1|2|95
+Michel Baez|R|Pedro Severino|R|Strikeout|B|Four-Seam Fastball|15|0|1|1|12|95
+Michel Baez|R|Pedro Severino|R|Strikeout|F|Changeup|16|1|1|1|13|85
+Michel Baez|R|Pedro Severino|R|Strikeout|S|Four-Seam Fastball|17|1|2|1|5|95
+Michel Baez|R|Chris Davis|L|Groundout|C|Four-Seam Fastball|18|0|0|2|8|95
+Michel Baez|R|Chris Davis|L|Groundout|B|Four-Seam Fastball|19|0|1|2|12|95
+Michel Baez|R|Chris Davis|L|Groundout|S|Changeup|20|1|1|2|8|85
+Michel Baez|R|Chris Davis|L|Groundout|B|Four-Seam Fastball|21|1|2|2|14|95
+Michel Baez|R|Chris Davis|L|Groundout|X|Four-Seam Fastball|22|2|2|2|14|95
+Michel Baez|R|Trevor Story|R|Forceout|B|Four-Seam Fastball|0|0|0|2|11|96
+Michel Baez|R|Trevor Story|R|Forceout|S|Four-Seam Fastball|1|1|0|2|6|96
+Michel Baez|R|Trevor Story|R|Forceout|B|Four-Seam Fastball|2|1|1|2|13|96
+Michel Baez|R|Trevor Story|R|Forceout|S|Four-Seam Fastball|3|2|1|2|11|96
+Michel Baez|R|Trevor Story|R|Forceout|X|Four-Seam Fastball|4|2|2|2|1|96
+Michel Baez|R|Charlie Blackmon|L|Pop Out|B|Changeup|5|0|0|0|13|85
+Michel Baez|R|Charlie Blackmon|L|Pop Out|B|Four-Seam Fastball|6|1|0|0|13|95
+Michel Baez|R|Charlie Blackmon|L|Pop Out|X|Four-Seam Fastball|7|2|0|0|2|96
+Michel Baez|R|Yonder Alonso|L|Walk|B|Changeup|8|0|0|1|11|86
+Michel Baez|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|9|1|0|1|13|96
+Michel Baez|R|Yonder Alonso|L|Walk|B|Changeup|10|2|0|1|11|85
+Michel Baez|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|11|3|0|1|11|95
+Michel Baez|R|Ryan McMahon|L|Strikeout|F|Changeup|12|0|0|1|9|85
+Michel Baez|R|Ryan McMahon|L|Strikeout|B|Changeup|13|0|1|1|11|83
+Michel Baez|R|Ryan McMahon|L|Strikeout|C|Four-Seam Fastball|14|1|1|1|2|95
+Michel Baez|R|Ryan McMahon|L|Strikeout|B|Changeup|15|1|2|1|11|85
+Michel Baez|R|Ryan McMahon|L|Strikeout|F|Four-Seam Fastball|16|2|2|1|13|96
+Michel Baez|R|Ryan McMahon|L|Strikeout|S|Four-Seam Fastball|17|2|2|1|3|96
+Michel Baez|R|Ian Desmond|R|Forceout|*B|Slider|18|0|0|2|14|85
+Michel Baez|R|Ian Desmond|R|Forceout|F|Four-Seam Fastball|19|1|0|2|4|96
+Michel Baez|R|Ian Desmond|R|Forceout|C|Four-Seam Fastball|20|1|1|2|4|96
+Michel Baez|R|Ian Desmond|R|Forceout|B|Changeup|21|1|2|2|11|86
+Michel Baez|R|Ian Desmond|R|Forceout|X|Changeup|22|2|2|2|11|84
+Michel Baez|R|Austin Meadows|L|Pop Out|B|Changeup|0|0|0|0|11|85
+Michel Baez|R|Austin Meadows|L|Pop Out|B|Four-Seam Fastball|1|1|0|0|11|95
+Michel Baez|R|Austin Meadows|L|Pop Out|X|Four-Seam Fastball|2|2|0|0|8|93
+Michel Baez|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|3|0|0|1|14|95
+Michel Baez|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|4|1|0|1|12|96
+Michel Baez|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|5|2|0|1|13|94
+Michel Baez|R|Matt Duffy|R|Walk|C|Four-Seam Fastball|6|3|0|1|13|93
+Michel Baez|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|7|3|1|1|13|94
+Michel Baez|R|Michael Brosseau|R|Flyout|B|Curveball|8|0|0|1|12|78
+Michel Baez|R|Michael Brosseau|R|Flyout|C|Four-Seam Fastball|9|1|0|1|14|93
+Michel Baez|R|Michael Brosseau|R|Flyout|F|Changeup|10|1|1|1|13|86
+Michel Baez|R|Michael Brosseau|R|Flyout|X|Four-Seam Fastball|11|1|2|1|4|94
+Michel Baez|R|Ji-Man Choi|L|Home Run|B|Four-Seam Fastball|12|0|0|2|14|93
+Michel Baez|R|Ji-Man Choi|L|Home Run|B|Changeup|13|1|0|2|11|85
+Michel Baez|R|Ji-Man Choi|L|Home Run|E|Four-Seam Fastball|14|2|0|2|14|94
+Michel Baez|R|Willy Adames|R|Single|B|Four-Seam Fastball|15|0|0|2|14|94
+Michel Baez|R|Willy Adames|R|Single|C|Slider|16|1|0|2|14|82
+Michel Baez|R|Willy Adames|R|Single|F|Changeup|17|1|1|2|13|86
+Michel Baez|R|Willy Adames|R|Single|D|Slider|18|1|2|2|14|83
+Michel Baez|R|Eric Sogard|L|Double|B|Four-Seam Fastball|19|0|0|2|12|94
+Michel Baez|R|Eric Sogard|L|Double|C|Changeup|20|1|0|2|11|85
+Michel Baez|R|Eric Sogard|L|Double|E|Changeup|21|1|1|2|9|84
+Michel Baez|R|Kevin Kiermaier|L|Groundout|C|Changeup|22|0|0|2|13|85
+Michel Baez|R|Kevin Kiermaier|L|Groundout|F|Four-Seam Fastball|23|0|1|2|12|94
+Michel Baez|R|Kevin Kiermaier|L|Groundout|X|Changeup|24|0|2|2|13|85
+Michel Baez|R|Sam Travis|R|Groundout|B|Four-Seam Fastball|0|0|0|0|13|96
+Michel Baez|R|Sam Travis|R|Groundout|S|Four-Seam Fastball|1|1|0|0|12|96
+Michel Baez|R|Sam Travis|R|Groundout|B|Four-Seam Fastball|2|1|1|0|12|96
+Michel Baez|R|Sam Travis|R|Groundout|B|Four-Seam Fastball|3|2|1|0|12|96
+Michel Baez|R|Sam Travis|R|Groundout|X|Four-Seam Fastball|4|3|1|0|7|96
+Michel Baez|R|Mitch Moreland|L|Field Error|D|Curveball|5|0|0|1|5|76
+Michel Baez|R|Brock Holt|L|Forceout|F|Four-Seam Fastball|6|0|0|1|6|96
+Michel Baez|R|Brock Holt|L|Forceout|B|Changeup|7|0|1|1|11|85
+Michel Baez|R|Brock Holt|L|Forceout|B|Four-Seam Fastball|8|1|1|1|11|97
+Michel Baez|R|Brock Holt|L|Forceout|F|Four-Seam Fastball|9|2|1|1|5|97
+Michel Baez|R|Brock Holt|L|Forceout|F|Four-Seam Fastball|10|2|2|1|11|97
+Michel Baez|R|Brock Holt|L|Forceout|X|Changeup|11|2|2|1|13|87
+Michel Baez|R|Sandy Leon|L|Flyout|C|Four-Seam Fastball|12|0|0|2|1|97
+Michel Baez|R|Sandy Leon|L|Flyout|B|Changeup|13|0|1|2|14|86
+Michel Baez|R|Sandy Leon|L|Flyout|S|Four-Seam Fastball|14|1|1|2|4|97
+Michel Baez|R|Sandy Leon|L|Flyout|F|Four-Seam Fastball|15|1|2|2|11|97
+Michel Baez|R|Sandy Leon|L|Flyout|B|Four-Seam Fastball|16|1|2|2|11|96
+Michel Baez|R|Sandy Leon|L|Flyout|X|Four-Seam Fastball|17|2|2|2|5|96
+Michel Baez|R|Will Smith|R|Single|E|Changeup|0|0|0|1|6|84
+Michel Baez|R|Enrique Hernandez|R|Fan Interference|B|Four-Seam Fastball|1|0|0|1|12|97
+Michel Baez|R|Enrique Hernandez|R|Fan Interference|S|Four-Seam Fastball|2|1|0|1|2|97
+Michel Baez|R|Enrique Hernandez|R|Fan Interference|E|Four-Seam Fastball|3|1|1|1|9|97
+Michel Baez|R|Walker Buehler|R|Strikeout|B|Four-Seam Fastball|4|0|0|1|14|96
+Michel Baez|R|Walker Buehler|R|Strikeout|F|Four-Seam Fastball|5|1|0|1|6|96
+Michel Baez|R|Walker Buehler|R|Strikeout|C|Changeup|6|1|1|1|9|86
+Michel Baez|R|Walker Buehler|R|Strikeout|F|Four-Seam Fastball|7|1|2|1|3|96
+Michel Baez|R|Walker Buehler|R|Strikeout|F|Changeup|8|1|2|1|14|86
+Michel Baez|R|Walker Buehler|R|Strikeout|B|Four-Seam Fastball|9|1|2|1|12|96
+Michel Baez|R|Walker Buehler|R|Strikeout|S|Changeup|10|2|2|1|14|86
+Michel Baez|R|Joc Pederson|L|Strikeout|B|Changeup|11|0|0|2|11|85
+Michel Baez|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|12|1|0|2|11|96
+Michel Baez|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|13|2|0|2|7|96
+Michel Baez|R|Joc Pederson|L|Strikeout|S|Four-Seam Fastball|14|2|1|2|5|97
+Michel Baez|R|Joc Pederson|L|Strikeout|T|Four-Seam Fastball|15|2|2|2|11|97
+Michel Baez|R|Enrique Hernandez|R|Lineout|X|Four-Seam Fastball|0|0|0|0|2|95
+Michel Baez|R|Russell Martin|R|Groundout|C|Four-Seam Fastball|1|0|0|1|12|95
+Michel Baez|R|Russell Martin|R|Groundout|X|Changeup|2|0|1|1|7|86
+Michel Baez|R|Kenta Maeda|R|Pop Out|B|Four-Seam Fastball|3|0|0|2|14|95
+Michel Baez|R|Kenta Maeda|R|Pop Out|F|Four-Seam Fastball|4|1|0|2|14|94
+Michel Baez|R|Kenta Maeda|R|Pop Out|X|Changeup|5|1|1|2|11|85
+Michel Baez|R|A.J. Pollock|R|Strikeout|C|Curveball|6|0|0|0|7|76
+Michel Baez|R|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|7|0|1|0|11|92
+Michel Baez|R|A.J. Pollock|R|Strikeout|S|Changeup|8|1|1|0|13|86
+Michel Baez|R|A.J. Pollock|R|Strikeout|B|Changeup|9|1|2|0|13|87
+Michel Baez|R|A.J. Pollock|R|Strikeout|F|Four-Seam Fastball|10|2|2|0|3|95
+Michel Baez|R|A.J. Pollock|R|Strikeout|B|Changeup|11|2|2|0|11|85
+Michel Baez|R|A.J. Pollock|R|Strikeout|S|Changeup|12|3|2|0|6|86
+Michel Baez|R|Jedd Gyorko|R|Walk|C|Four-Seam Fastball|13|0|0|1|12|95
+Michel Baez|R|Jedd Gyorko|R|Walk|B|Changeup|14|0|1|1|14|86
+Michel Baez|R|Jedd Gyorko|R|Walk|B|Slider|15|1|1|1|12|83
+Michel Baez|R|Jedd Gyorko|R|Walk|B|Changeup|16|2|1|1|11|85
+Michel Baez|R|Jedd Gyorko|R|Walk|B|Four-Seam Fastball|17|3|1|1|14|94
+Michel Baez|R|Dom Nunez|L|Lineout|B|Four-Seam Fastball|0|0|0|0|11|95
+Michel Baez|R|Dom Nunez|L|Lineout|C|Changeup|1|1|0|0|4|86
+Michel Baez|R|Dom Nunez|L|Lineout|B|Four-Seam Fastball|2|1|1|0|12|96
+Michel Baez|R|Dom Nunez|L|Lineout|B|Changeup|3|2|1|0|14|86
+Michel Baez|R|Dom Nunez|L|Lineout|C|Four-Seam Fastball|4|3|1|0|7|95
+Michel Baez|R|Dom Nunez|L|Lineout|X|Four-Seam Fastball|5|3|2|0|9|96
+Michel Baez|R|Garrett Hampson|R|Double|B|Four-Seam Fastball|6|0|0|1|14|96
+Michel Baez|R|Garrett Hampson|R|Double|B|Four-Seam Fastball|7|1|0|1|12|96
+Michel Baez|R|Garrett Hampson|R|Double|D|Four-Seam Fastball|8|2|0|1|8|96
+Michel Baez|R|Trevor Story|R|Strikeout|C|Four-Seam Fastball|9|0|0|1|13|96
+Michel Baez|R|Trevor Story|R|Strikeout|S|Changeup|10|0|1|1|13|86
+Michel Baez|R|Trevor Story|R|Strikeout|W|Changeup|11|0|2|1|14|87
+Michel Baez|R|Charlie Blackmon|L|Groundout|S|Changeup|12|0|0|2|8|85
+Michel Baez|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|13|0|1|2|11|96
+Michel Baez|R|Charlie Blackmon|L|Groundout|C|Four-Seam Fastball|14|1|1|2|13|96
+Michel Baez|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|15|1|2|2|11|97
+Michel Baez|R|Charlie Blackmon|L|Groundout|F|Changeup|16|1|2|2|13|85
+Michel Baez|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|17|1|2|2|11|97
+Michel Baez|R|Charlie Blackmon|L|Groundout|*B|Changeup|18|2|2|2|14|86
+Michel Baez|R|Charlie Blackmon|L|Groundout|X|Changeup|19|3|2|2|4|87
+Michel Baez|R|Nolan Arenado|R|Walk|B|Slider|20|0|0|0|11|82
+Michel Baez|R|Nolan Arenado|R|Walk|C|Four-Seam Fastball|21|1|0|0|12|95
+Michel Baez|R|Nolan Arenado|R|Walk|S|Changeup|22|1|1|0|13|85
+Michel Baez|R|Nolan Arenado|R|Walk|F|Four-Seam Fastball|23|1|2|0|12|96
+Michel Baez|R|Nolan Arenado|R|Walk|B|Slider|24|1|2|0|14|85
+Michel Baez|R|Nolan Arenado|R|Walk|B|Changeup|25|2|2|0|13|86
+Michel Baez|R|Nolan Arenado|R|Walk|F|Changeup|26|3|2|0|13|85
+Michel Baez|R|Nolan Arenado|R|Walk|F|Four-Seam Fastball|27|3|2|0|12|96
+Michel Baez|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|28|3|2|0|14|97
+Michel Baez|R|Willson Contreras|R|Lineout|C|Four-Seam Fastball|0|0|0|0|5|95
+Michel Baez|R|Willson Contreras|R|Lineout|X|Four-Seam Fastball|1|0|1|0|12|96
+Michel Baez|R|Jason Heyward|L|Walk|B|Changeup|2|0|0|1|14|87
+Michel Baez|R|Jason Heyward|L|Walk|B|Changeup|3|1|0|1|11|85
+Michel Baez|R|Jason Heyward|L|Walk|F|Four-Seam Fastball|4|2|0|1|3|95
+Michel Baez|R|Jason Heyward|L|Walk|B|Changeup|5|2|1|1|11|86
+Michel Baez|R|Jason Heyward|L|Walk|*B|Changeup|6|3|1|1|14|85
+Michel Baez|R|Nico Hoerner|R|Flyout|F|Four-Seam Fastball|7|0|0|1|3|96
+Michel Baez|R|Nico Hoerner|R|Flyout|C|Curveball|8|0|1|1|12|77
+Michel Baez|R|Nico Hoerner|R|Flyout|F|Changeup|9|0|2|1|14|85
+Michel Baez|R|Nico Hoerner|R|Flyout|X|Four-Seam Fastball|10|0|2|1|11|96
+Michel Baez|R|Ian Happ|L|Groundout|X|Changeup|11|0|0|2|13|86
+Michel Baez|R|Josh Rojas|L|Groundout|B|Changeup|0|0|0|0|11|84
+Michel Baez|R|Josh Rojas|L|Groundout|B|Four-Seam Fastball|1|1|0|0|12|94
+Michel Baez|R|Josh Rojas|L|Groundout|C|Four-Seam Fastball|2|2|0|0|4|95
+Michel Baez|R|Josh Rojas|L|Groundout|B|Four-Seam Fastball|3|2|1|0|14|94
+Michel Baez|R|Josh Rojas|L|Groundout|X|Four-Seam Fastball|4|3|1|0|9|95
+Michel Baez|R|Nick Ahmed|R|Pop Out|B|Four-Seam Fastball|5|0|0|1|14|95
+Michel Baez|R|Nick Ahmed|R|Pop Out|X|Slider|6|1|0|1|2|85
+Michel Baez|R|Alex Avila|L|Lineout|C|Four-Seam Fastball|7|0|0|2|7|94
+Michel Baez|R|Alex Avila|L|Lineout|F|Four-Seam Fastball|8|0|1|2|8|94
+Michel Baez|R|Alex Avila|L|Lineout|X|Four-Seam Fastball|9|0|2|2|9|95
+Michel Baez|R|Jarrod Dyson|L|Lineout|B|Four-Seam Fastball|10|0|0|0|13|94
+Michel Baez|R|Jarrod Dyson|L|Lineout|C|Four-Seam Fastball|11|1|0|0|11|94
+Michel Baez|R|Jarrod Dyson|L|Lineout|X|Changeup|12|1|1|0|11|85
+Michel Baez|R|Christian Walker|R|Strikeout|F|Slider|13|0|0|1|13|83
+Michel Baez|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|14|0|1|1|14|94
+Michel Baez|R|Christian Walker|R|Strikeout|F|Changeup|15|1|1|1|7|86
+Michel Baez|R|Christian Walker|R|Strikeout|C|Four-Seam Fastball|16|1|2|1|14|94
+Michel Baez|R|Abraham Almonte|L|Double|B|Changeup|17|0|0|2|14|85
+Michel Baez|R|Abraham Almonte|L|Double|C|Four-Seam Fastball|18|1|0|2|8|94
+Michel Baez|R|Abraham Almonte|L|Double|D|Four-Seam Fastball|19|1|1|2|11|95
+Michel Baez|R|Domingo Leyba|L|Double|E|Changeup|20|0|0|2|13|85
+Michel Baez|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|21|0|0|2|13|95
+Michel Baez|R|Eduardo Escobar|L|Single|B|Changeup|22|1|0|2|13|86
+Michel Baez|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|23|2|0|2|7|95
+Michel Baez|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|24|2|1|2|1|95
+Michel Baez|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|25|2|2|2|1|95
+Michel Baez|R|Eduardo Escobar|L|Single|B|Changeup|26|2|2|2|13|86
+Michel Baez|R|Eduardo Escobar|L|Single|E|Changeup|27|3|2|2|13|86
+Michel Baez|R|A.J. Pollock|R|Flyout|X|Four-Seam Fastball|0|0|0|0|11|95
+Michel Baez|R|Gavin Lux|L|Lineout|X|Four-Seam Fastball|1|0|0|1|3|94
+Michel Baez|R|Will Smith|R|Pop Out|C|Four-Seam Fastball|2|0|0|2|6|96
+Michel Baez|R|Will Smith|R|Pop Out|X|Four-Seam Fastball|3|0|1|2|4|95
+Michel Baez|R|Matt Beaty|L|Lineout|C|Four-Seam Fastball|4|0|0|0|6|94
+Michel Baez|R|Matt Beaty|L|Lineout|B|Four-Seam Fastball|5|0|1|0|11|94
+Michel Baez|R|Matt Beaty|L|Lineout|B|Changeup|6|1|1|0|14|86
+Michel Baez|R|Matt Beaty|L|Lineout|X|Four-Seam Fastball|7|2|1|0|1|94
+Michel Baez|R|Joc Pederson|L|Home Run|C|Changeup|8|0|0|1|11|85
+Michel Baez|R|Joc Pederson|L|Home Run|S|Changeup|9|0|1|1|13|85
+Michel Baez|R|Joc Pederson|L|Home Run|B|Changeup|10|0|2|1|13|86
+Michel Baez|R|Joc Pederson|L|Home Run|B|Changeup|11|1|2|1|11|85
+Michel Baez|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|12|2|2|1|13|95
+Michel Baez|R|Chris Taylor|R|Strikeout|S|Changeup|13|0|0|1|5|86
+Michel Baez|R|Chris Taylor|R|Strikeout|F|Slider|14|0|1|1|2|85
+Michel Baez|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|15|0|2|1|11|95
+Michel Baez|R|Chris Taylor|R|Strikeout|W|Changeup|16|1|2|1|13|85
+Michel Baez|R|Justin Turner|R|Groundout|S|Slider|17|0|0|2|3|86
+Michel Baez|R|Justin Turner|R|Groundout|B|Changeup|18|0|1|2|14|86
+Michel Baez|R|Justin Turner|R|Groundout|B|Changeup|19|1|1|2|13|85
+Michel Baez|R|Justin Turner|R|Groundout|X|Slider|20|2|1|2|9|85
+Michel Baez|R|Will Smith|R|Double|C|Four-Seam Fastball|0|0|0|0|6|95
+Michel Baez|R|Will Smith|R|Double|B|Changeup|1|0|1|0|11|85
+Michel Baez|R|Will Smith|R|Double|F|Changeup|2|1|1|0|1|84
+Michel Baez|R|Will Smith|R|Double|D|Changeup|3|1|2|0|5|85
+Michel Baez|R|Joc Pederson|L|Lineout|C|Changeup|4|0|0|0|7|84
+Michel Baez|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|5|0|1|0|11|96
+Michel Baez|R|Joc Pederson|L|Lineout|X|Changeup|6|1|1|0|13|85
+Michel Baez|R|Matt Beaty|L|Lineout|B|Four-Seam Fastball|7|0|0|1|13|96
+Michel Baez|R|Matt Beaty|L|Lineout|X|Changeup|8|1|0|1|11|85
+Michel Baez|R|Tom Murphy|R|Single|B|Four-Seam Fastball|0|0|0|1|11|96
+Michel Baez|R|Tom Murphy|R|Single|C|Four-Seam Fastball|1|1|0|1|12|96
+Michel Baez|R|Tom Murphy|R|Single|S|Four-Seam Fastball|2|1|1|1|11|96
+Michel Baez|R|Tom Murphy|R|Single|F|Changeup|3|1|2|1|1|86
+Michel Baez|R|Tom Murphy|R|Single|B|Changeup|4|1|2|1|14|86
+Michel Baez|R|Tom Murphy|R|Single|F|Four-Seam Fastball|5|2|2|1|12|96
+Michel Baez|R|Tom Murphy|R|Single|D|Slider|6|2|2|1|12|85
+Michel Baez|R|Kyle Seager|L|Double Play|B|Four-Seam Fastball|7|0|0|1|13|96
+Michel Baez|R|Kyle Seager|L|Double Play|X|Changeup|8|1|0|1|5|86
+Michel Baez|R|Austin Nola|R|Lineout|F|Four-Seam Fastball|9|0|0|0|5|95
+Michel Baez|R|Austin Nola|R|Lineout|B|Four-Seam Fastball|10|0|1|0|12|95
+Michel Baez|R|Austin Nola|R|Lineout|X|Changeup|11|1|1|0|11|85
+Michel Baez|R|Tim Lopes|R|Groundout|C|Four-Seam Fastball|12|0|0|1|6|95
+Michel Baez|R|Tim Lopes|R|Groundout|X|Slider|13|0|1|1|12|85
+Michel Baez|R|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|14|0|0|2|5|95
+Michel Baez|R|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|15|0|1|2|3|95
+Michel Baez|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|16|0|2|2|12|95
+Michel Baez|R|Keon Broxton|R|Strikeout|S|Changeup|17|1|2|2|13|86
+Michel Baez|R|Buster Posey|R|Single|B|Four-Seam Fastball|0|0|0|0|14|95
+Michel Baez|R|Buster Posey|R|Single|F|Four-Seam Fastball|1|1|0|0|3|95
+Michel Baez|R|Buster Posey|R|Single|F|Changeup|2|1|1|0|7|87
+Michel Baez|R|Buster Posey|R|Single|D|Changeup|3|1|2|0|13|87
+Michel Baez|R|Kevin Pillar|R|Flyout|*B|Curveball|4|0|0|0|14|78
+Michel Baez|R|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|5|1|0|0|14|96
+Michel Baez|R|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|6|2|0|0|14|96
+Michel Baez|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|7|3|0|0|8|96
+Michel Baez|R|Brandon Crawford|L|Double|C|Four-Seam Fastball|8|0|0|1|4|96
+Michel Baez|R|Brandon Crawford|L|Double|*B|Changeup|9|0|1|1|14|86
+Michel Baez|R|Brandon Crawford|L|Double|D|Changeup|10|1|1|1|8|85
+Michel Baez|R|Mauricio Dubon|R|Fielders Choice Out|B|Four-Seam Fastball|11|0|0|1|13|96
+Michel Baez|R|Mauricio Dubon|R|Fielders Choice Out|F|Four-Seam Fastball|12|1|0|1|12|96
+Michel Baez|R|Mauricio Dubon|R|Fielders Choice Out|B|Changeup|13|1|1|1|13|86
+Michel Baez|R|Mauricio Dubon|R|Fielders Choice Out|X|Changeup|14|2|1|1|14|86
+Michel Baez|R|Madison Bumgarner|R|Strikeout|B|Changeup|15|0|0|2|14|85
+Michel Baez|R|Madison Bumgarner|R|Strikeout|S|Four-Seam Fastball|16|1|0|2|4|96
+Michel Baez|R|Madison Bumgarner|R|Strikeout|B|Four-Seam Fastball|17|1|1|2|11|97
+Michel Baez|R|Madison Bumgarner|R|Strikeout|F|Four-Seam Fastball|18|2|1|2|12|97
+Michel Baez|R|Madison Bumgarner|R|Strikeout|S|Four-Seam Fastball|19|2|2|2|2|96
+Michel Baez|R|Scott Kingery|R|Lineout|X|Four-Seam Fastball|0|0|0|2|1|97
+Michel Baez|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|1|0|0|0|11|95
+Michel Baez|R|Cesar Hernandez|L|Walk|B|Changeup|2|1|0|0|11|84
+Michel Baez|R|Cesar Hernandez|L|Walk|F|Four-Seam Fastball|3|2|0|0|2|95
+Michel Baez|R|Cesar Hernandez|L|Walk|F|Four-Seam Fastball|4|2|1|0|2|95
+Michel Baez|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|5|2|2|0|12|96
+Michel Baez|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|6|3|2|0|12|96
+Michel Baez|R|Brad Miller|L|Pop Out|F|Four-Seam Fastball|7|0|0|0|12|95
+Michel Baez|R|Brad Miller|L|Pop Out|B|Four-Seam Fastball|8|0|1|0|11|96
+Michel Baez|R|Brad Miller|L|Pop Out|B|Four-Seam Fastball|9|1|1|0|12|95
+Michel Baez|R|Brad Miller|L|Pop Out|S|Four-Seam Fastball|10|2|1|0|11|95
+Michel Baez|R|Brad Miller|L|Pop Out|B|Four-Seam Fastball|11|2|2|0|11|96
+Michel Baez|R|Brad Miller|L|Pop Out|X|Four-Seam Fastball|12|3|2|0|3|96
+Michel Baez|R|Roman Quinn|L|Hit By Pitch|H|Four-Seam Fastball|13|0|0|1|12|96
+Michel Baez|R|Bryce Harper|L|Home Run|B|Changeup|14|0|0|1|11|85
+Michel Baez|R|Bryce Harper|L|Home Run|B|Changeup|15|1|0|1|11|85
+Michel Baez|R|Bryce Harper|L|Home Run|E|Four-Seam Fastball|16|2|0|1|6|97
+Michel Baez|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|17|0|0|1|13|95
+Michel Baez|R|J.T. Realmuto|R|Single|S|Changeup|18|0|1|1|5|85
+Michel Baez|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|19|0|2|1|3|95
+Michel Baez|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|20|0|2|1|11|96
+Michel Baez|R|J.T. Realmuto|R|Single|B|Four-Seam Fastball|21|0|2|1|12|97
+Michel Baez|R|J.T. Realmuto|R|Single|D|Changeup|22|1|2|1|6|85
+Michel Baez|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|23|0|0|1|12|95
+Michel Baez|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|24|1|0|1|13|95
+Michel Baez|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|25|2|0|1|11|95
+Michel Baez|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|26|3|0|1|9|95
+Michel Baez|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|27|3|1|1|9|95
+Michel Baez|R|Corey Dickerson|L|Pop Out|F|Changeup|28|3|2|1|13|85
+Michel Baez|R|Corey Dickerson|L|Pop Out|X|Four-Seam Fastball|29|3|2|1|12|95
+Michel Baez|R|Jean Segura|R|Single|B|Curveball|30|0|0|2|12|79
+Michel Baez|R|Jean Segura|R|Single|C|Changeup|31|1|0|2|11|84
+Michel Baez|R|Jean Segura|R|Single|C|Changeup|32|1|1|2|13|85
+Michel Baez|R|Jean Segura|R|Single|F|Four-Seam Fastball|33|1|2|2|12|96
+Michel Baez|R|Jean Segura|R|Single|F|Four-Seam Fastball|34|1|2|2|12|95
+Michel Baez|R|Jean Segura|R|Single|F|Changeup|35|1|2|2|13|85
+Michel Baez|R|Jean Segura|R|Single|B|Four-Seam Fastball|36|1|2|2|12|96
+Michel Baez|R|Jean Segura|R|Single|D|Four-Seam Fastball|37|2|2|2|12|96
+Michel Baez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|0|0|0|0|12|96
+Michel Baez|R|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|1|1|0|0|9|96
+Michel Baez|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|2|1|1|0|12|97
+Michel Baez|R|Mike Moustakas|L|Groundout|F|Four-Seam Fastball|3|2|1|0|5|96
+Michel Baez|R|Mike Moustakas|L|Groundout|X|Changeup|4|2|2|0|13|88
+Michel Baez|R|Ryan Braun|R|Groundout|F|Four-Seam Fastball|5|0|0|1|4|97
+Michel Baez|R|Ryan Braun|R|Groundout|X|Changeup|6|0|1|1|1|88
+Michel Baez|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|7|0|0|2|2|96
+Michel Baez|R|Eric Thames|L|Strikeout|B|Four-Seam Fastball|8|0|1|2|12|96
+Michel Baez|R|Eric Thames|L|Strikeout|B|Changeup|9|1|1|2|11|87
+Michel Baez|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|10|2|1|2|3|96
+Michel Baez|R|Eric Thames|L|Strikeout|S|Four-Seam Fastball|11|2|2|2|11|97

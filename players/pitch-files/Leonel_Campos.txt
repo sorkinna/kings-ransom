@@ -1,0 +1,636 @@
+Leonel Campos|R|Scooter Gennett|L|Lineout|C|Four-Seam Fastball|0|0|0|0|5|94
+Leonel Campos|R|Scooter Gennett|L|Lineout|F|Four-Seam Fastball|1|0|1|0|9|95
+Leonel Campos|R|Scooter Gennett|L|Lineout|B|Slider|2|0|2|0|14|87
+Leonel Campos|R|Scooter Gennett|L|Lineout|B|Slider|3|1|2|0|14|87
+Leonel Campos|R|Scooter Gennett|L|Lineout|F|Four-Seam Fastball|4|2|2|0|11|95
+Leonel Campos|R|Scooter Gennett|L|Lineout|X|Four-Seam Fastball|5|2|2|0|7|94
+Leonel Campos|R|Jonathan Lucroy|R|Walk|F|Four-Seam Fastball|6|0|0|1|5|94
+Leonel Campos|R|Jonathan Lucroy|R|Walk|B|Slider|7|0|1|1|14|87
+Leonel Campos|R|Jonathan Lucroy|R|Walk|C|Four-Seam Fastball|8|1|1|1|6|94
+Leonel Campos|R|Jonathan Lucroy|R|Walk|B|Slider|9|1|2|1|14|88
+Leonel Campos|R|Jonathan Lucroy|R|Walk|F|Four-Seam Fastball|10|2|2|1|11|95
+Leonel Campos|R|Jonathan Lucroy|R|Walk|B|Slider|11|2|2|1|14|87
+Leonel Campos|R|Jonathan Lucroy|R|Walk|F|Four-Seam Fastball|12|3|2|1|1|96
+Leonel Campos|R|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|13|3|2|1|11|94
+Leonel Campos|R|Logan Schafer|L|Double|F|Four-Seam Fastball|14|0|0|1|5|95
+Leonel Campos|R|Logan Schafer|L|Double|C|Four-Seam Fastball|15|0|1|1|4|95
+Leonel Campos|R|Logan Schafer|L|Double|E|Four-Seam Fastball|16|0|2|1|4|94
+Leonel Campos|R|Adam Lind|L|Strikeout|*B|Slider|17|0|0|1|14|87
+Leonel Campos|R|Adam Lind|L|Strikeout|C|Four-Seam Fastball|18|1|0|1|1|95
+Leonel Campos|R|Adam Lind|L|Strikeout|S|Slider|19|1|1|1|14|88
+Leonel Campos|R|Adam Lind|L|Strikeout|S|Slider|20|1|2|1|13|87
+Leonel Campos|R|Khris Davis|R|Groundout|X|Four-Seam Fastball|21|0|0|2|2|94
+Leonel Campos|R|Josh Harrison|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|91
+Leonel Campos|R|Josh Harrison|R|Strikeout|S|Slider|1|0|1|0|6|83
+Leonel Campos|R|Josh Harrison|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|4|92
+Leonel Campos|R|Jordy Mercer|R|Hit By Pitch|B|Four-Seam Fastball|3|0|0|0|11|91
+Leonel Campos|R|Jordy Mercer|R|Hit By Pitch|B|Four-Seam Fastball|4|1|0|0|11|92
+Leonel Campos|R|Jordy Mercer|R|Hit By Pitch|H|Four-Seam Fastball|5|2|0|0|11|91
+Leonel Campos|R|Gerrit Cole|R|Bunt Pop Out|B|Slider|6|0|0|0|13|87
+Leonel Campos|R|Gerrit Cole|R|Bunt Pop Out|X|Slider|7|1|0|0|4|87
+Leonel Campos|R|John Jaso|L|Double|E|Four-Seam Fastball|8|0|0|1|13|90
+Leonel Campos|R|Andrew McCutchen|R|Intent Walk|I|Intentional Ball|9|0|0|1|14|64
+Leonel Campos|R|Andrew McCutchen|R|Intent Walk|I|Intentional Ball|10|0|1|1|12|65
+Leonel Campos|R|Andrew McCutchen|R|Intent Walk|I|Intentional Ball|11|0|2|1|12|66
+Leonel Campos|R|Andrew McCutchen|R|Intent Walk|I|Intentional Ball|12|0|2|1|12|66
+Leonel Campos|R|David Freese|R|Single|B|Slider|13|0|0|1|11|83
+Leonel Campos|R|David Freese|R|Single|F|Four-Seam Fastball|14|1|0|1|7|91
+Leonel Campos|R|David Freese|R|Single|E|Four-Seam Fastball|15|1|1|1|4|92
+Leonel Campos|R|Starling Marte|R|Double|F|Four-Seam Fastball|16|0|0|1|13|93
+Leonel Campos|R|Starling Marte|R|Double|B|Four-Seam Fastball|17|0|1|1|11|92
+Leonel Campos|R|Starling Marte|R|Double|E|Four-Seam Fastball|18|1|1|1|4|92
+Leonel Campos|R|Francisco Cervelli|R|Single|B|Slider|19|0|0|1|11|85
+Leonel Campos|R|Francisco Cervelli|R|Single|B|Four-Seam Fastball|20|1|0|1|11|92
+Leonel Campos|R|Francisco Cervelli|R|Single|S|Four-Seam Fastball|21|2|0|1|11|92
+Leonel Campos|R|Francisco Cervelli|R|Single|F|Four-Seam Fastball|22|2|1|1|13|91
+Leonel Campos|R|Francisco Cervelli|R|Single|F|Slider|23|2|2|1|6|86
+Leonel Campos|R|Francisco Cervelli|R|Single|E|Four-Seam Fastball|24|2|2|1|2|91
+Leonel Campos|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|91
+Leonel Campos|R|Jonathan Lucroy|R|Groundout|S|Slider|1|1|0|0|7|84
+Leonel Campos|R|Jonathan Lucroy|R|Groundout|B|Changeup|2|1|1|0|11|85
+Leonel Campos|R|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|3|2|1|0|13|92
+Leonel Campos|R|Domingo Santana|R|Walk|B|Changeup|4|0|0|1|14|85
+Leonel Campos|R|Domingo Santana|R|Walk|S|Changeup|5|1|0|1|14|85
+Leonel Campos|R|Domingo Santana|R|Walk|B|Four-Seam Fastball|6|1|1|1|14|93
+Leonel Campos|R|Domingo Santana|R|Walk|C|Changeup|7|2|1|1|8|84
+Leonel Campos|R|Domingo Santana|R|Walk|B|Slider|8|2|2|1|1|86
+Leonel Campos|R|Domingo Santana|R|Walk|B|Changeup|9|3|2|1|13|83
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|B|Four-Seam Fastball|10|0|0|1|13|92
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|B|Slider|11|1|0|1|11|85
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|T|Four-Seam Fastball|12|2|0|1|5|93
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|B|Two-Seam Fastball|13|2|1|1|11|92
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|S|Four-Seam Fastball|14|3|1|1|5|93
+Leonel Campos|R|Kirk Nieuwenhuis|L|Groundout|X|Four-Seam Fastball|15|3|2|1|11|92
+Leonel Campos|R|Aaron Hill|R|Strikeout|C|Slider|16|0|0|2|12|85
+Leonel Campos|R|Aaron Hill|R|Strikeout|F|Four-Seam Fastball|17|0|1|2|3|94
+Leonel Campos|R|Aaron Hill|R|Strikeout|T|Slider|18|0|2|2|12|88
+Leonel Campos|R|Alex Presley|L|Strikeout|C|Four-Seam Fastball|19|0|0|0|6|93
+Leonel Campos|R|Alex Presley|L|Strikeout|C|Changeup|20|0|1|0|1|86
+Leonel Campos|R|Alex Presley|L|Strikeout|W|Changeup|21|0|2|0|13|87
+Leonel Campos|R|Chris Carter|R|Groundout|F|Four-Seam Fastball|22|0|0|1|1|93
+Leonel Campos|R|Chris Carter|R|Groundout|C|Slider|23|0|1|1|3|86
+Leonel Campos|R|Chris Carter|R|Groundout|X|Slider|24|0|2|1|7|88
+Leonel Campos|R|Chris Capuano|L|Walk|C|Four-Seam Fastball|25|0|0|2|4|92
+Leonel Campos|R|Chris Capuano|L|Walk|B|Four-Seam Fastball|26|0|1|2|11|93
+Leonel Campos|R|Chris Capuano|L|Walk|B|Four-Seam Fastball|27|1|1|2|11|92
+Leonel Campos|R|Chris Capuano|L|Walk|B|Four-Seam Fastball|28|2|1|2|11|91
+Leonel Campos|R|Chris Capuano|L|Walk|B|Four-Seam Fastball|29|3|1|2|11|91
+Leonel Campos|R|Jonathan Villar|L|Groundout|C|Changeup|30|0|0|2|7|86
+Leonel Campos|R|Jonathan Villar|L|Groundout|S|Four-Seam Fastball|31|0|1|2|1|94
+Leonel Campos|R|Jonathan Villar|L|Groundout|B|Four-Seam Fastball|32|0|2|2|11|94
+Leonel Campos|R|Jonathan Villar|L|Groundout|X|Slider|33|1|2|2|4|87
+Leonel Campos|R|Rickie Weeks Jr.|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|91
+Leonel Campos|R|Rickie Weeks Jr.|R|Strikeout|C|Changeup|1|1|0|0|14|83
+Leonel Campos|R|Rickie Weeks Jr.|R|Strikeout|S|Slider|2|1|1|0|14|85
+Leonel Campos|R|Rickie Weeks Jr.|R|Strikeout|B|Slider|3|1|2|0|11|86
+Leonel Campos|R|Rickie Weeks Jr.|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|14|92
+Leonel Campos|R|Jean Segura|R|Single|D|Changeup|5|0|0|1|6|84
+Leonel Campos|R|Michael Bourn|L|Grounded Into DP|S|Four-Seam Fastball|6|0|0|1|4|92
+Leonel Campos|R|Michael Bourn|L|Grounded Into DP|C|Four-Seam Fastball|7|0|1|1|7|93
+Leonel Campos|R|Michael Bourn|L|Grounded Into DP|B|Four-Seam Fastball|8|0|2|1|11|93
+Leonel Campos|R|Michael Bourn|L|Grounded Into DP|*B|Changeup|9|1|2|1|14|84
+Leonel Campos|R|Michael Bourn|L|Grounded Into DP|X|Four-Seam Fastball|10|2|2|1|5|91
+Leonel Campos|R|Stefen Romero|R|Flyout|F|Four-Seam Fastball|0|0|0|2|4|92
+Leonel Campos|R|Stefen Romero|R|Flyout|B|Slider|1|0|1|2|12|84
+Leonel Campos|R|Stefen Romero|R|Flyout|C|Changeup|2|1|1|2|6|85
+Leonel Campos|R|Stefen Romero|R|Flyout|B|Changeup|3|1|2|2|14|85
+Leonel Campos|R|Stefen Romero|R|Flyout|B|Changeup|4|2|2|2|12|85
+Leonel Campos|R|Stefen Romero|R|Flyout|X|Four-Seam Fastball|5|3|2|2|11|92
+Leonel Campos|R|Steve Clevenger|L|Walk|T|Four-Seam Fastball|6|0|0|0|1|93
+Leonel Campos|R|Steve Clevenger|L|Walk|B|Changeup|7|0|1|0|11|85
+Leonel Campos|R|Steve Clevenger|L|Walk|F|Slider|8|1|1|0|1|87
+Leonel Campos|R|Steve Clevenger|L|Walk|B|Four-Seam Fastball|9|1|2|0|12|93
+Leonel Campos|R|Steve Clevenger|L|Walk|B|Slider|10|2|2|0|11|85
+Leonel Campos|R|Steve Clevenger|L|Walk|F|Four-Seam Fastball|11|3|2|0|6|93
+Leonel Campos|R|Steve Clevenger|L|Walk|F|Slider|12|3|2|0|1|85
+Leonel Campos|R|Steve Clevenger|L|Walk|B|Four-Seam Fastball|13|3|2|0|14|94
+Leonel Campos|R|Luis Sardinas|L|Strikeout|B|Four-Seam Fastball|14|0|0|0|14|94
+Leonel Campos|R|Luis Sardinas|L|Strikeout|F|Four-Seam Fastball|15|1|0|0|4|95
+Leonel Campos|R|Luis Sardinas|L|Strikeout|F|Four-Seam Fastball|16|1|1|0|11|94
+Leonel Campos|R|Luis Sardinas|L|Strikeout|B|Slider|17|1|2|0|11|87
+Leonel Campos|R|Luis Sardinas|L|Strikeout|C|Slider|18|2|2|0|2|84
+Leonel Campos|R|Norichika Aoki|L|Grounded Into DP|X|Four-Seam Fastball|19|0|0|1|1|94
+Leonel Campos|R|Seth Smith|L|Strikeout|B|Four-Seam Fastball|20|0|0|0|13|93
+Leonel Campos|R|Seth Smith|L|Strikeout|C|Slider|21|1|0|0|2|86
+Leonel Campos|R|Seth Smith|L|Strikeout|S|Changeup|22|1|1|0|14|87
+Leonel Campos|R|Seth Smith|L|Strikeout|C|Two-Seam Fastball|23|1|2|0|9|93
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|C|Changeup|24|0|0|1|2|86
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|S|Slider|25|0|1|1|7|88
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|F|Slider|26|0|2|1|4|88
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|B|Four-Seam Fastball|27|0|2|1|11|93
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|B|Slider|28|1|2|1|13|88
+Leonel Campos|R|Shawn O'Malley|L|Strikeout|T|Four-Seam Fastball|29|2|2|1|3|93
+Leonel Campos|R|Dae-Ho Lee|R|Walk|B|Two-Seam Fastball|30|0|0|2|14|94
+Leonel Campos|R|Dae-Ho Lee|R|Walk|S|Slider|31|1|0|2|7|86
+Leonel Campos|R|Dae-Ho Lee|R|Walk|B|Slider|32|1|1|2|14|86
+Leonel Campos|R|Dae-Ho Lee|R|Walk|S|Slider|33|2|1|2|14|87
+Leonel Campos|R|Dae-Ho Lee|R|Walk|B|Four-Seam Fastball|34|2|2|2|12|93
+Leonel Campos|R|Dae-Ho Lee|R|Walk|B|Slider|35|3|2|2|11|85
+Leonel Campos|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|36|0|0|2|11|94
+Leonel Campos|R|Kyle Seager|L|Walk|F|Two-Seam Fastball|37|1|0|2|1|93
+Leonel Campos|R|Kyle Seager|L|Walk|F|Slider|38|1|1|2|6|86
+Leonel Campos|R|Kyle Seager|L|Walk|*B|Slider|39|1|2|2|13|87
+Leonel Campos|R|Kyle Seager|L|Walk|F|Two-Seam Fastball|40|2|2|2|12|93
+Leonel Campos|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|41|2|2|2|14|93
+Leonel Campos|R|Kyle Seager|L|Walk|*B|Slider|42|3|2|2|14|86
+Leonel Campos|R|Adam Lind|L|Flyout|C|Changeup|43|0|0|2|1|85
+Leonel Campos|R|Adam Lind|L|Flyout|X|Two-Seam Fastball|44|0|1|2|14|93
+Leonel Campos|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|91
+Leonel Campos|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|1|1|0|0|14|92
+Leonel Campos|R|Tucker Barnhart|L|Flyout|F|Four-Seam Fastball|2|2|0|0|1|90
+Leonel Campos|R|Tucker Barnhart|L|Flyout|B|Four-Seam Fastball|3|2|1|0|11|92
+Leonel Campos|R|Tucker Barnhart|L|Flyout|F|Four-Seam Fastball|4|3|1|0|6|92
+Leonel Campos|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|5|3|2|0|2|93
+Leonel Campos|R|Ivan De Jesus Jr.|R|Groundout|B|Slider|6|0|0|1|11|84
+Leonel Campos|R|Ivan De Jesus Jr.|R|Groundout|B|Slider|7|1|0|1|12|83
+Leonel Campos|R|Ivan De Jesus Jr.|R|Groundout|B|Four-Seam Fastball|8|2|0|1|14|91
+Leonel Campos|R|Ivan De Jesus Jr.|R|Groundout|C|Four-Seam Fastball|9|3|0|1|8|90
+Leonel Campos|R|Ivan De Jesus Jr.|R|Groundout|X|Four-Seam Fastball|10|3|1|1|9|92
+Leonel Campos|R|Billy Hamilton|L|Double|C|Four-Seam Fastball|11|0|0|2|8|92
+Leonel Campos|R|Billy Hamilton|L|Double|C|Four-Seam Fastball|12|0|1|2|13|93
+Leonel Campos|R|Billy Hamilton|L|Double|D|Slider|13|0|2|2|9|87
+Leonel Campos|R|Zack Cozart|R|Lineout|C|Four-Seam Fastball|14|0|0|2|9|91
+Leonel Campos|R|Zack Cozart|R|Lineout|B|Slider|15|0|1|2|12|83
+Leonel Campos|R|Zack Cozart|R|Lineout|X|Four-Seam Fastball|16|1|1|2|5|91
+Leonel Campos|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|8|91
+Leonel Campos|R|Jonathan Villar|L|Strikeout|S|Slider|1|0|1|2|14|86
+Leonel Campos|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|2|0|2|2|14|92
+Leonel Campos|R|Scooter Gennett|L|Flyout|B|Slider|3|0|0|0|14|85
+Leonel Campos|R|Scooter Gennett|L|Flyout|B|Slider|4|1|0|0|14|85
+Leonel Campos|R|Scooter Gennett|L|Flyout|B|Four-Seam Fastball|5|2|0|0|14|92
+Leonel Campos|R|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|6|3|0|0|13|92
+Leonel Campos|R|Ryan Braun|R|Strikeout|C|Slider|7|0|0|1|6|84
+Leonel Campos|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|8|0|1|1|13|92
+Leonel Campos|R|Ryan Braun|R|Strikeout|S|Slider|9|0|2|1|14|87
+Leonel Campos|R|Jung Ho Kang|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|1|93
+Leonel Campos|R|Jung Ho Kang|R|Strikeout|B|Slider|1|0|1|0|11|85
+Leonel Campos|R|Jung Ho Kang|R|Strikeout|B|Slider|2|1|1|0|11|83
+Leonel Campos|R|Jung Ho Kang|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|14|93
+Leonel Campos|R|Jung Ho Kang|R|Strikeout|S|Slider|4|2|2|0|14|85
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|S|Slider|5|0|0|1|14|84
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|C|Four-Seam Fastball|6|0|1|1|9|93
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|B|Slider|7|0|2|1|14|87
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|F|Four-Seam Fastball|8|1|2|1|5|94
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|F|Slider|9|1|2|1|8|86
+Leonel Campos|R|Francisco Cervelli|R|Strikeout|C|Slider|10|1|2|1|1|87
+Leonel Campos|R|Sean Rodriguez|R|Strikeout|S|Slider|11|0|0|2|14|86
+Leonel Campos|R|Sean Rodriguez|R|Strikeout|T|Slider|12|0|1|2|13|86
+Leonel Campos|R|Sean Rodriguez|R|Strikeout|B|Slider|13|0|2|2|13|88
+Leonel Campos|R|Sean Rodriguez|R|Strikeout|W|Slider|14|1|2|2|14|88
+Leonel Campos|R|Matt Joyce|L|Walk|B|Changeup|15|0|0|0|11|84
+Leonel Campos|R|Matt Joyce|L|Walk|B|Slider|16|1|0|0|11|87
+Leonel Campos|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|17|2|0|0|14|94
+Leonel Campos|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|18|3|0|0|14|94
+Leonel Campos|R|Josh Harrison|R|Single|C|Slider|19|0|0|0|9|84
+Leonel Campos|R|Josh Harrison|R|Single|B|Four-Seam Fastball|20|0|1|0|14|93
+Leonel Campos|R|Josh Harrison|R|Single|D|Slider|21|1|1|0|14|86
+Leonel Campos|R|Starling Marte|R|Lineout|B|Four-Seam Fastball|22|0|0|0|11|93
+Leonel Campos|R|Starling Marte|R|Lineout|S|Slider|23|1|0|0|8|85
+Leonel Campos|R|Starling Marte|R|Lineout|C|Four-Seam Fastball|24|1|1|0|13|93
+Leonel Campos|R|Starling Marte|R|Lineout|X|Slider|25|1|2|0|6|86
+Leonel Campos|R|Andrew McCutchen|R|Walk|S|Slider|26|0|0|1|14|86
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|27|0|1|1|12|94
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Slider|28|1|1|1|14|86
+Leonel Campos|R|Andrew McCutchen|R|Walk|*B|Slider|29|2|1|1|14|85
+Leonel Campos|R|Andrew McCutchen|R|Walk|T|Four-Seam Fastball|30|3|1|1|3|94
+Leonel Campos|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|31|3|2|1|2|95
+Leonel Campos|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|32|3|2|1|1|93
+Leonel Campos|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|33|3|2|1|11|94
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Slider|34|3|2|1|14|86
+Leonel Campos|R|Gregory Polanco|L|Lineout|S|Slider|35|0|0|1|8|86
+Leonel Campos|R|Gregory Polanco|L|Lineout|X|Slider|36|0|1|1|1|86
+Leonel Campos|R|David Freese|R|Pop Out|C|Slider|37|0|0|2|11|85
+Leonel Campos|R|David Freese|R|Pop Out|X|Four-Seam Fastball|38|0|1|2|11|93
+Leonel Campos|R|Andrew McCutchen|R|Flyout|B|Four-Seam Fastball|0|0|0|2|14|92
+Leonel Campos|R|Andrew McCutchen|R|Flyout|B|Slider|1|1|0|2|14|83
+Leonel Campos|R|Andrew McCutchen|R|Flyout|C|Four-Seam Fastball|2|2|0|2|14|91
+Leonel Campos|R|Andrew McCutchen|R|Flyout|X|Four-Seam Fastball|3|2|1|2|14|92
+Leonel Campos|R|David Freese|R|Strikeout|B|Changeup|4|0|0|0|14|85
+Leonel Campos|R|David Freese|R|Strikeout|F|Four-Seam Fastball|5|1|0|0|11|93
+Leonel Campos|R|David Freese|R|Strikeout|F|Slider|6|1|1|0|13|85
+Leonel Campos|R|David Freese|R|Strikeout|S|Slider|7|1|2|0|9|88
+Leonel Campos|R|Gregory Polanco|L|Flyout|B|Four-Seam Fastball|8|0|0|1|13|94
+Leonel Campos|R|Gregory Polanco|L|Flyout|B|Slider|9|1|0|1|14|85
+Leonel Campos|R|Gregory Polanco|L|Flyout|C|Four-Seam Fastball|10|2|0|1|13|92
+Leonel Campos|R|Gregory Polanco|L|Flyout|B|Slider|11|2|1|1|14|85
+Leonel Campos|R|Gregory Polanco|L|Flyout|X|Four-Seam Fastball|12|3|1|1|4|93
+Leonel Campos|R|Ty Kelly|L|Walk|C|Four-Seam Fastball|0|0|0|2|13|93
+Leonel Campos|R|Ty Kelly|L|Walk|B|Slider|1|0|1|2|11|86
+Leonel Campos|R|Ty Kelly|L|Walk|C|Slider|2|1|1|2|3|84
+Leonel Campos|R|Ty Kelly|L|Walk|B|Four-Seam Fastball|3|1|2|2|12|93
+Leonel Campos|R|Ty Kelly|L|Walk|B|Changeup|4|2|2|2|14|85
+Leonel Campos|R|Ty Kelly|L|Walk|B|Four-Seam Fastball|5|3|2|2|14|93
+Leonel Campos|R|Neil Walker|L|Strikeout|B|Two-Seam Fastball|6|0|0|2|14|91
+Leonel Campos|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|7|1|0|2|8|91
+Leonel Campos|R|Neil Walker|L|Strikeout|F|Slider|8|1|1|2|9|85
+Leonel Campos|R|Neil Walker|L|Strikeout|F|Changeup|9|1|2|2|11|83
+Leonel Campos|R|Neil Walker|L|Strikeout|F|Slider|10|1|2|2|13|86
+Leonel Campos|R|Neil Walker|L|Strikeout|B|Slider|11|1|2|2|11|84
+Leonel Campos|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|12|2|2|2|9|93
+Leonel Campos|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|13|3|2|2|13|91
+Leonel Campos|R|Neil Walker|L|Strikeout|S|Four-Seam Fastball|14|3|2|2|13|92
+Leonel Campos|R|Jay Bruce|L|Walk|B|Four-Seam Fastball|15|0|0|0|13|92
+Leonel Campos|R|Jay Bruce|L|Walk|*B|Four-Seam Fastball|16|1|0|0|13|91
+Leonel Campos|R|Jay Bruce|L|Walk|F|Four-Seam Fastball|17|2|0|0|13|93
+Leonel Campos|R|Jay Bruce|L|Walk|*B|Slider|18|2|1|0|13|85
+Leonel Campos|R|Jay Bruce|L|Walk|B|Four-Seam Fastball|19|3|1|0|11|93
+Leonel Campos|R|Wilmer Flores|R|Pop Out|B|Slider|20|0|0|0|11|84
+Leonel Campos|R|Wilmer Flores|R|Pop Out|S|Changeup|21|1|0|0|5|84
+Leonel Campos|R|Wilmer Flores|R|Pop Out|B|Four-Seam Fastball|22|1|1|0|14|92
+Leonel Campos|R|Wilmer Flores|R|Pop Out|X|Four-Seam Fastball|23|2|1|0|11|92
+Leonel Campos|R|T.J. Rivera|R|Groundout|S|Slider|24|0|0|1|13|84
+Leonel Campos|R|T.J. Rivera|R|Groundout|B|Four-Seam Fastball|25|0|1|1|14|93
+Leonel Campos|R|T.J. Rivera|R|Groundout|X|Slider|26|1|1|1|4|85
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|F|Four-Seam Fastball|27|0|0|2|2|93
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|C|Slider|28|0|1|2|11|86
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|F|Slider|29|0|2|2|7|87
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|B|Four-Seam Fastball|30|0|2|2|12|93
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|F|Changeup|31|1|2|2|4|86
+Leonel Campos|R|Alejandro De Aza|L|Strikeout|S|Four-Seam Fastball|32|1|2|2|14|93
+Leonel Campos|R|Rene Rivera|R|Groundout|S|Slider|33|0|0|0|13|86
+Leonel Campos|R|Rene Rivera|R|Groundout|C|Four-Seam Fastball|34|0|1|0|9|93
+Leonel Campos|R|Rene Rivera|R|Groundout|B|Changeup|35|0|2|0|14|88
+Leonel Campos|R|Rene Rivera|R|Groundout|X|Slider|36|1|2|0|6|86
+Leonel Campos|R|Steven Matz|R|Groundout|X|Four-Seam Fastball|37|0|0|1|12|92
+Leonel Campos|R|Matt Duffy|R|Single|B|Four-Seam Fastball|0|0|0|0|14|90
+Leonel Campos|R|Matt Duffy|R|Single|C|Slider|1|1|0|0|5|84
+Leonel Campos|R|Matt Duffy|R|Single|B|Slider|2|1|1|0|14|84
+Leonel Campos|R|Matt Duffy|R|Single|F|Four-Seam Fastball|3|2|1|0|9|91
+Leonel Campos|R|Matt Duffy|R|Single|D|Slider|4|2|2|0|6|85
+Leonel Campos|R|Logan Morrison|L|Double|B|Four-Seam Fastball|5|0|0|0|13|91
+Leonel Campos|R|Logan Morrison|L|Double|F|Slider|6|1|0|0|14|84
+Leonel Campos|R|Logan Morrison|L|Double|B|Four-Seam Fastball|7|1|1|0|13|91
+Leonel Campos|R|Logan Morrison|L|Double|E|Four-Seam Fastball|8|2|1|0|5|92
+Leonel Campos|R|Nick Franklin|L|Sac Bunt|X|Four-Seam Fastball|9|0|0|0|5|92
+Leonel Campos|R|Corey Dickerson|L|Intent Walk|I|Intentional Ball|10|0|0|1|13|62
+Leonel Campos|R|Corey Dickerson|L|Intent Walk|I|Intentional Ball|11|0|1|1|11|70
+Leonel Campos|R|Corey Dickerson|L|Intent Walk|I|Intentional Ball|12|0|2|1|11|67
+Leonel Campos|R|Corey Dickerson|L|Intent Walk|I|Intentional Ball|13|0|2|1|11|66
+Leonel Campos|R|Bobby Wilson|R|Walk|B|Slider|14|0|0|1|13|81
+Leonel Campos|R|Bobby Wilson|R|Walk|B|Four-Seam Fastball|15|1|0|1|14|91
+Leonel Campos|R|Bobby Wilson|R|Walk|B|Four-Seam Fastball|16|2|0|1|14|92
+Leonel Campos|R|Bobby Wilson|R|Walk|C|Four-Seam Fastball|17|3|0|1|9|91
+Leonel Campos|R|Bobby Wilson|R|Walk|F|Four-Seam Fastball|18|3|1|1|3|92
+Leonel Campos|R|Bobby Wilson|R|Walk|*B|Slider|19|3|2|1|14|85
+Leonel Campos|R|Logan Forsythe|R|Sac Fly|T|Slider|20|0|0|1|14|85
+Leonel Campos|R|Logan Forsythe|R|Sac Fly|E|Slider|21|0|1|1|9|85
+Leonel Campos|R|Kevin Kiermaier|L|Home Run|S|Slider|22|0|0|2|13|86
+Leonel Campos|R|Kevin Kiermaier|L|Home Run|*B|Slider|23|0|1|2|14|87
+Leonel Campos|R|Kevin Kiermaier|L|Home Run|B|Slider|24|1|1|2|14|87
+Leonel Campos|R|Kevin Kiermaier|L|Home Run|B|Four-Seam Fastball|25|2|1|2|11|92
+Leonel Campos|R|Kevin Kiermaier|L|Home Run|E|Four-Seam Fastball|26|3|1|2|1|93
+Leonel Campos|R|Evan Longoria|R|Groundout|B|Four-Seam Fastball|27|0|0|2|11|93
+Leonel Campos|R|Evan Longoria|R|Groundout|C|Four-Seam Fastball|28|1|0|2|4|93
+Leonel Campos|R|Evan Longoria|R|Groundout|C|Slider|29|1|1|2|6|86
+Leonel Campos|R|Evan Longoria|R|Groundout|X|Slider|30|1|2|2|14|86
+Leonel Campos|R|Andrew Toles|L|Groundout|F|Four-Seam Fastball|0|0|0|2|4|92
+Leonel Campos|R|Andrew Toles|L|Groundout|B|Changeup|1|0|1|2|9|85
+Leonel Campos|R|Andrew Toles|L|Groundout|X|Changeup|2|1|1|2|11|87
+Leonel Campos|R|Howie Kendrick|R|Groundout|B|Slider|3|0|0|0|11|85
+Leonel Campos|R|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|4|1|0|0|3|93
+Leonel Campos|R|Howie Kendrick|R|Groundout|B|Four-Seam Fastball|5|1|1|0|13|93
+Leonel Campos|R|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|6|2|1|0|4|94
+Leonel Campos|R|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|7|2|2|0|11|93
+Leonel Campos|R|Howie Kendrick|R|Groundout|F|Changeup|8|2|2|0|9|85
+Leonel Campos|R|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|9|2|2|0|8|95
+Leonel Campos|R|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|10|2|2|0|3|94
+Leonel Campos|R|Joc Pederson|L|Lineout|B|Changeup|11|0|0|1|11|87
+Leonel Campos|R|Joc Pederson|L|Lineout|X|Slider|12|1|0|1|6|87
+Leonel Campos|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|92
+Leonel Campos|R|Mookie Betts|R|Groundout|B|Slider|1|1|0|0|14|83
+Leonel Campos|R|Mookie Betts|R|Groundout|C|Four-Seam Fastball|2|2|0|0|12|92
+Leonel Campos|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|3|2|1|0|12|91
+Leonel Campos|R|Mookie Betts|R|Groundout|X|Four-Seam Fastball|4|3|1|0|3|92
+Leonel Campos|R|Hanley Ramirez|R|Groundout|B|Slider|5|0|0|1|11|84
+Leonel Campos|R|Hanley Ramirez|R|Groundout|B|Slider|6|1|0|1|14|84
+Leonel Campos|R|Hanley Ramirez|R|Groundout|X|Four-Seam Fastball|7|2|0|1|2|92
+Leonel Campos|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|8|0|0|2|13|93
+Leonel Campos|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|9|1|0|2|13|93
+Leonel Campos|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|10|2|0|2|11|93
+Leonel Campos|R|Sandy Leon|L|Walk|B|Four-Seam Fastball|11|3|0|2|13|92
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|*B|Slider|12|0|0|2|14|86
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|C|Slider|13|1|0|2|12|84
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|14|1|1|2|14|93
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|B|Slider|15|2|1|2|11|84
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|S|Slider|16|3|1|2|1|85
+Leonel Campos|R|Jackie Bradley Jr.|L|Strikeout|W|Slider|17|3|2|2|14|86
+Leonel Campos|R|Travis Shaw|L|Strikeout|C|Slider|0|0|0|0|2|84
+Leonel Campos|R|Travis Shaw|L|Strikeout|B|Slider|1|0|1|0|14|86
+Leonel Campos|R|Travis Shaw|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|2|93
+Leonel Campos|R|Travis Shaw|L|Strikeout|W|Slider|3|1|2|0|14|86
+Leonel Campos|R|Brock Holt|L|Home Run|F|Four-Seam Fastball|4|0|0|1|2|92
+Leonel Campos|R|Brock Holt|L|Home Run|C|Slider|5|0|1|1|3|87
+Leonel Campos|R|Brock Holt|L|Home Run|F|Slider|6|0|2|1|14|88
+Leonel Campos|R|Brock Holt|L|Home Run|E|Slider|7|0|2|1|2|87
+Leonel Campos|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|8|0|0|1|12|93
+Leonel Campos|R|Dustin Pedroia|R|Walk|C|Slider|9|1|0|1|3|85
+Leonel Campos|R|Dustin Pedroia|R|Walk|B|Slider|10|1|1|1|12|86
+Leonel Campos|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|11|2|1|1|14|92
+Leonel Campos|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|12|3|1|1|14|91
+Leonel Campos|R|Xander Bogaerts|R|Strikeout|S|Slider|13|0|0|1|14|84
+Leonel Campos|R|Xander Bogaerts|R|Strikeout|S|Slider|14|0|1|1|14|86
+Leonel Campos|R|Xander Bogaerts|R|Strikeout|S|Slider|15|0|2|1|14|86
+Leonel Campos|R|Mookie Betts|R|Single|D|Four-Seam Fastball|16|0|0|2|6|92
+Leonel Campos|R|Hanley Ramirez|R|Forceout|F|Slider|17|0|0|2|8|86
+Leonel Campos|R|Hanley Ramirez|R|Forceout|X|Slider|18|0|1|2|14|87
+Leonel Campos|R|Nolan Arenado|R|Forceout|C|Four-Seam Fastball|0|0|0|2|5|91
+Leonel Campos|R|Nolan Arenado|R|Forceout|F|Four-Seam Fastball|1|0|1|2|9|93
+Leonel Campos|R|Nolan Arenado|R|Forceout|X|Slider|2|0|2|2|14|84
+Leonel Campos|R|David Dahl|L|Flyout|B|Four-Seam Fastball|3|0|0|0|13|92
+Leonel Campos|R|David Dahl|L|Flyout|X|Four-Seam Fastball|4|1|0|0|8|92
+Leonel Campos|R|Tom Murphy|R|Groundout|C|Slider|5|0|0|1|6|82
+Leonel Campos|R|Tom Murphy|R|Groundout|F|Four-Seam Fastball|6|0|1|1|5|93
+Leonel Campos|R|Tom Murphy|R|Groundout|X|Slider|7|0|2|1|2|86
+Leonel Campos|R|Gerardo Parra|L|Strikeout|B|Changeup|8|0|0|2|11|83
+Leonel Campos|R|Gerardo Parra|L|Strikeout|F|Four-Seam Fastball|9|1|0|2|14|93
+Leonel Campos|R|Gerardo Parra|L|Strikeout|C|Four-Seam Fastball|10|1|1|2|11|92
+Leonel Campos|R|Gerardo Parra|L|Strikeout|B|Changeup|11|1|2|2|14|87
+Leonel Campos|R|Gerardo Parra|L|Strikeout|S|Slider|12|2|2|2|14|86
+Leonel Campos|R|DJ LeMahieu|R|Flyout|C|Four-Seam Fastball|0|0|0|2|12|91
+Leonel Campos|R|DJ LeMahieu|R|Flyout|B|Slider|1|0|1|2|11|85
+Leonel Campos|R|DJ LeMahieu|R|Flyout|B|Slider|2|1|1|2|14|83
+Leonel Campos|R|DJ LeMahieu|R|Flyout|X|Four-Seam Fastball|3|2|1|2|11|91
+Leonel Campos|R|Carlos Gonzalez|L|Flyout|B|Changeup|4|0|0|0|11|84
+Leonel Campos|R|Carlos Gonzalez|L|Flyout|F|Four-Seam Fastball|5|1|0|0|13|92
+Leonel Campos|R|Carlos Gonzalez|L|Flyout|X|Four-Seam Fastball|6|1|1|0|3|92
+Leonel Campos|R|Nolan Arenado|R|Strikeout|S|Slider|7|0|0|1|14|85
+Leonel Campos|R|Nolan Arenado|R|Strikeout|B|Slider|8|0|1|1|14|86
+Leonel Campos|R|Nolan Arenado|R|Strikeout|S|Four-Seam Fastball|9|1|1|1|12|94
+Leonel Campos|R|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|10|1|2|1|12|92
+Leonel Campos|R|Nolan Arenado|R|Strikeout|W|Slider|11|1|2|1|14|86
+Leonel Campos|R|Angel Pagan|L|Single|B|Changeup|0|0|0|0|13|88
+Leonel Campos|R|Angel Pagan|L|Single|D|Four-Seam Fastball|1|1|0|0|8|91
+Leonel Campos|R|Ehire Adrianza|L|Flyout|X|Four-Seam Fastball|2|0|0|0|11|91
+Leonel Campos|R|Madison Bumgarner|R|Strikeout|F|Four-Seam Fastball|3|0|0|1|11|91
+Leonel Campos|R|Madison Bumgarner|R|Strikeout|W|Slider|4|0|1|1|14|85
+Leonel Campos|R|Madison Bumgarner|R|Strikeout|F|Slider|5|0|2|1|6|85
+Leonel Campos|R|Madison Bumgarner|R|Strikeout|B|Four-Seam Fastball|6|0|2|1|14|91
+Leonel Campos|R|Madison Bumgarner|R|Strikeout|S|Slider|7|1|2|1|8|85
+Leonel Campos|R|Denard Span|L|Pop Out|C|Slider|8|0|0|2|8|85
+Leonel Campos|R|Denard Span|L|Pop Out|F|Four-Seam Fastball|9|0|1|2|5|93
+Leonel Campos|R|Denard Span|L|Pop Out|*B|Slider|10|0|2|2|14|86
+Leonel Campos|R|Denard Span|L|Pop Out|B|Four-Seam Fastball|11|1|2|2|12|93
+Leonel Campos|R|Denard Span|L|Pop Out|X|Four-Seam Fastball|12|2|2|2|12|93
+Leonel Campos|R|Howie Kendrick|R|Strikeout|C|Slider|0|0|0|0|9|83
+Leonel Campos|R|Howie Kendrick|R|Strikeout|S|Slider|1|0|1|0|14|85
+Leonel Campos|R|Howie Kendrick|R|Strikeout|B|Slider|2|0|2|0|14|85
+Leonel Campos|R|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|14|92
+Leonel Campos|R|Howie Kendrick|R|Strikeout|S|Slider|4|2|2|0|12|84
+Leonel Campos|R|Charlie Culberson|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|92
+Leonel Campos|R|Charlie Culberson|R|Strikeout|B|Four-Seam Fastball|6|1|0|1|14|92
+Leonel Campos|R|Charlie Culberson|R|Strikeout|C|Four-Seam Fastball|7|2|0|1|14|92
+Leonel Campos|R|Charlie Culberson|R|Strikeout|F|Four-Seam Fastball|8|2|1|1|5|92
+Leonel Campos|R|Charlie Culberson|R|Strikeout|S|Four-Seam Fastball|9|2|2|1|11|93
+Leonel Campos|R|Justin Turner|R|Single|D|Four-Seam Fastball|10|0|0|2|5|92
+Leonel Campos|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|11|0|0|2|13|92
+Leonel Campos|R|Yasiel Puig|R|Single|B|Four-Seam Fastball|12|1|0|2|11|93
+Leonel Campos|R|Yasiel Puig|R|Single|C|Slider|13|2|0|2|8|84
+Leonel Campos|R|Yasiel Puig|R|Single|S|Slider|14|2|1|2|14|85
+Leonel Campos|R|Yasiel Puig|R|Single|F|Slider|15|2|2|2|2|85
+Leonel Campos|R|Yasiel Puig|R|Single|D|Slider|16|2|2|2|11|86
+Leonel Campos|R|Carlos Ruiz|R|Double|B|Slider|17|0|0|2|11|84
+Leonel Campos|R|Carlos Ruiz|R|Double|B|Slider|18|1|0|2|13|85
+Leonel Campos|R|Carlos Ruiz|R|Double|E|Four-Seam Fastball|19|2|0|2|11|92
+Leonel Campos|R|Enrique Hernandez|R|Groundout|S|Slider|20|0|0|2|9|85
+Leonel Campos|R|Enrique Hernandez|R|Groundout|X|Slider|21|0|1|2|2|87
+Leonel Campos|R|Brandon Drury|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|9|92
+Leonel Campos|R|Brandon Drury|R|Pop Out|X|Four-Seam Fastball|1|0|1|0|11|91
+Leonel Campos|R|Yasmany Tomas|R|Groundout|B|Four-Seam Fastball|2|0|0|1|14|92
+Leonel Campos|R|Yasmany Tomas|R|Groundout|X|Slider|3|1|0|1|11|84
+Leonel Campos|R|Mitch Haniger|R|Home Run|S|Two-Seam Fastball|4|0|0|2|2|92
+Leonel Campos|R|Mitch Haniger|R|Home Run|E|Four-Seam Fastball|5|0|1|2|5|92
+Leonel Campos|R|Jake Lamb|L|Single|S|Changeup|6|0|0|2|9|86
+Leonel Campos|R|Jake Lamb|L|Single|B|Slider|7|0|1|2|14|86
+Leonel Campos|R|Jake Lamb|L|Single|B|Slider|8|1|1|2|11|85
+Leonel Campos|R|Jake Lamb|L|Single|D|Four-Seam Fastball|9|2|1|2|13|92
+Leonel Campos|R|Kyle Jensen|R|Strikeout|C|Slider|10|0|0|2|2|83
+Leonel Campos|R|Kyle Jensen|R|Strikeout|B|Slider|11|0|1|2|11|85
+Leonel Campos|R|Kyle Jensen|R|Strikeout|B|Four-Seam Fastball|12|1|1|2|14|93
+Leonel Campos|R|Kyle Jensen|R|Strikeout|S|Four-Seam Fastball|13|2|1|2|12|92
+Leonel Campos|R|Kyle Jensen|R|Strikeout|S|Slider|14|2|2|2|13|84
+Leonel Campos|R|C.J. Cron|R|Grounded Into DP|B|Four-Seam Fastball|0|0|0|1|14|92
+Leonel Campos|R|C.J. Cron|R|Grounded Into DP|C|Four-Seam Fastball|1|1|0|1|14|92
+Leonel Campos|R|C.J. Cron|R|Grounded Into DP|X|Four-Seam Fastball|2|1|1|1|6|92
+Leonel Campos|R|Andrelton Simmons|R|Single|D|Slider|3|0|0|0|9|83
+Leonel Campos|R|Cameron Maybin|R|Grounded Into DP|*B|Four-Seam Fastball|4|0|0|0|14|93
+Leonel Campos|R|Cameron Maybin|R|Grounded Into DP|F|Four-Seam Fastball|5|1|0|0|13|91
+Leonel Campos|R|Cameron Maybin|R|Grounded Into DP|C|Slider|6|1|1|0|7|84
+Leonel Campos|R|Cameron Maybin|R|Grounded Into DP|X|Slider|7|1|2|0|5|85
+Leonel Campos|R|Danny Espinosa|L|Flyout|B|Slider|8|0|0|2|13|87
+Leonel Campos|R|Danny Espinosa|L|Flyout|C|Slider|9|1|0|2|4|86
+Leonel Campos|R|Danny Espinosa|L|Flyout|B|Four-Seam Fastball|10|1|1|2|13|94
+Leonel Campos|R|Danny Espinosa|L|Flyout|X|Four-Seam Fastball|11|2|1|2|5|93
+Leonel Campos|R|Tuffy Gosewisch|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|11|91
+Leonel Campos|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|3|92
+Leonel Campos|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|2|0|1|1|14|94
+Leonel Campos|R|Jarrod Dyson|L|Strikeout|S|Slider|3|1|1|1|9|84
+Leonel Campos|R|Jarrod Dyson|L|Strikeout|B|Two-Seam Fastball|4|1|2|1|14|94
+Leonel Campos|R|Jarrod Dyson|L|Strikeout|S|Slider|5|2|2|1|13|86
+Leonel Campos|R|Jean Segura|R|Groundout|C|Slider|6|0|0|2|8|83
+Leonel Campos|R|Jean Segura|R|Groundout|X|Slider|7|0|1|2|7|85
+Leonel Campos|R|Jean Segura|R|Double|B|Four-Seam Fastball|0|0|0|0|14|91
+Leonel Campos|R|Jean Segura|R|Double|D|Four-Seam Fastball|1|1|0|0|5|91
+Leonel Campos|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|2|0|0|0|14|92
+Leonel Campos|R|Ben Gamel|L|Walk|*B|Slider|3|1|0|0|14|82
+Leonel Campos|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|4|2|0|0|11|92
+Leonel Campos|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|5|3|0|0|11|90
+Leonel Campos|R|Brandon Phillips|R|Strikeout|S|Slider|0|0|0|0|13|82
+Leonel Campos|R|Brandon Phillips|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|9|92
+Leonel Campos|R|Brandon Phillips|R|Strikeout|W|Slider|2|0|2|0|14|85
+Leonel Campos|R|Freddie Freeman|L|Home Run|E|Four-Seam Fastball|3|0|0|1|5|93
+Leonel Campos|R|Matt Kemp|R|Double|B|Two-Seam Fastball|4|0|0|1|14|92
+Leonel Campos|R|Matt Kemp|R|Double|B|Four-Seam Fastball|5|1|0|1|14|93
+Leonel Campos|R|Matt Kemp|R|Double|C|Four-Seam Fastball|6|2|0|1|8|93
+Leonel Campos|R|Matt Kemp|R|Double|D|Slider|7|2|1|1|9|84
+Leonel Campos|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|8|0|0|1|14|94
+Leonel Campos|R|Nick Markakis|L|Flyout|C|Changeup|9|1|0|1|2|86
+Leonel Campos|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|10|1|1|1|13|94
+Leonel Campos|R|Nick Markakis|L|Flyout|X|Changeup|11|2|1|1|11|85
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|S|Slider|12|0|0|2|14|84
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|S|Slider|13|0|1|2|8|85
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|*B|Slider|14|0|2|2|14|86
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|F|Four-Seam Fastball|15|1|2|2|11|93
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|F|Slider|16|1|2|2|2|85
+Leonel Campos|R|Tyler Flowers|R|Hit By Pitch|H|Two-Seam Fastball|17|1|2|2|11|93
+Leonel Campos|R|Adonis Garcia|R|Single|C|Slider|18|0|0|2|5|85
+Leonel Campos|R|Adonis Garcia|R|Single|B|Four-Seam Fastball|19|0|1|2|12|94
+Leonel Campos|R|Adonis Garcia|R|Single|B|Slider|20|1|1|2|11|84
+Leonel Campos|R|Adonis Garcia|R|Single|E|Four-Seam Fastball|21|2|1|2|11|92
+Leonel Campos|R|Jace Peterson|L|Strikeout|F|Four-Seam Fastball|22|0|0|2|5|93
+Leonel Campos|R|Jace Peterson|L|Strikeout|S|Four-Seam Fastball|23|0|1|2|11|94
+Leonel Campos|R|Jace Peterson|L|Strikeout|C|Four-Seam Fastball|24|0|2|2|7|94
+Leonel Campos|R|Dansby Swanson|R|Strikeout|C|Slider|25|0|0|0|5|82
+Leonel Campos|R|Dansby Swanson|R|Strikeout|S|Slider|26|0|1|0|8|84
+Leonel Campos|R|Dansby Swanson|R|Strikeout|S|Slider|27|0|2|0|14|84
+Leonel Campos|R|Ender Inciarte|L|Flyout|B|Four-Seam Fastball|28|0|0|1|13|92
+Leonel Campos|R|Ender Inciarte|L|Flyout|X|Four-Seam Fastball|29|1|0|1|4|92
+Leonel Campos|R|Brandon Phillips|R|Pop Out|X|Slider|30|0|0|2|5|84
+Leonel Campos|R|Freddie Freeman|L|Strikeout|S|Changeup|31|0|0|0|14|85
+Leonel Campos|R|Freddie Freeman|L|Strikeout|S|Slider|32|0|1|0|14|85
+Leonel Campos|R|Freddie Freeman|L|Strikeout|S|Slider|33|0|2|0|1|84
+Leonel Campos|R|Matt Kemp|R|Walk|B|Slider|34|0|0|1|11|81
+Leonel Campos|R|Matt Kemp|R|Walk|T|Four-Seam Fastball|35|1|0|1|6|90
+Leonel Campos|R|Matt Kemp|R|Walk|B|Slider|36|1|1|1|11|84
+Leonel Campos|R|Matt Kemp|R|Walk|B|Slider|37|2|1|1|12|82
+Leonel Campos|R|Matt Kemp|R|Walk|C|Four-Seam Fastball|38|3|1|1|9|92
+Leonel Campos|R|Matt Kemp|R|Walk|B|Four-Seam Fastball|39|3|2|1|11|92
+Leonel Campos|R|Starlin Castro|R|Forceout|B|Slider|0|0|0|2|14|81
+Leonel Campos|R|Starlin Castro|R|Forceout|F|Four-Seam Fastball|1|1|0|2|9|91
+Leonel Campos|R|Starlin Castro|R|Forceout|S|Slider|2|1|1|2|9|83
+Leonel Campos|R|Starlin Castro|R|Forceout|X|Slider|3|1|2|2|6|85
+Leonel Campos|R|Didi Gregorius|L|Flyout|B|Slider|4|0|0|0|11|83
+Leonel Campos|R|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|5|1|0|0|1|92
+Leonel Campos|R|Aaron Hicks|L|Strikeout|S|Slider|6|0|0|1|9|86
+Leonel Campos|R|Aaron Hicks|L|Strikeout|B|Slider|7|0|1|1|11|85
+Leonel Campos|R|Aaron Hicks|L|Strikeout|B|Slider|8|1|1|1|14|84
+Leonel Campos|R|Aaron Hicks|L|Strikeout|F|Four-Seam Fastball|9|2|1|1|3|93
+Leonel Campos|R|Aaron Hicks|L|Strikeout|B|Slider|10|2|2|1|14|84
+Leonel Campos|R|Aaron Hicks|L|Strikeout|W|Slider|11|3|2|1|14|85
+Leonel Campos|R|Chase Headley|L|Strikeout|S|Four-Seam Fastball|12|0|0|2|1|93
+Leonel Campos|R|Chase Headley|L|Strikeout|S|Four-Seam Fastball|13|0|1|2|11|93
+Leonel Campos|R|Chase Headley|L|Strikeout|S|Slider|14|0|2|2|1|87
+Leonel Campos|R|Chris Carter|R|Walk|B|Four-Seam Fastball|15|0|0|0|14|92
+Leonel Campos|R|Chris Carter|R|Walk|B|Four-Seam Fastball|16|1|0|0|14|93
+Leonel Campos|R|Chris Carter|R|Walk|S|Four-Seam Fastball|17|2|0|0|14|93
+Leonel Campos|R|Chris Carter|R|Walk|B|Slider|18|2|1|0|14|85
+Leonel Campos|R|Chris Carter|R|Walk|F|Two-Seam Fastball|19|3|1|0|5|92
+Leonel Campos|R|Chris Carter|R|Walk|B|Four-Seam Fastball|20|3|2|0|12|93
+Leonel Campos|R|Brett Gardner|L|Strikeout|C|Slider|21|0|0|0|11|85
+Leonel Campos|R|Brett Gardner|L|Strikeout|C|Changeup|22|0|1|0|12|85
+Leonel Campos|R|Brett Gardner|L|Strikeout|F|Slider|23|0|2|0|6|85
+Leonel Campos|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|24|0|2|0|11|92
+Leonel Campos|R|Brett Gardner|L|Strikeout|S|Slider|25|1|2|0|14|85
+Leonel Campos|R|Gary Sanchez|R|Strikeout|C|Four-Seam Fastball|26|0|0|1|3|93
+Leonel Campos|R|Gary Sanchez|R|Strikeout|S|Slider|27|0|1|1|14|85
+Leonel Campos|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|28|0|2|1|12|92
+Leonel Campos|R|Gary Sanchez|R|Strikeout|S|Slider|29|1|2|1|14|85
+Leonel Campos|R|Aaron Judge|R|Forceout|X|Slider|30|0|0|2|14|85
+Leonel Campos|R|Matt Holliday|R|Groundout|B|Four-Seam Fastball|31|0|0|0|14|91
+Leonel Campos|R|Matt Holliday|R|Groundout|F|Slider|32|1|0|0|6|82
+Leonel Campos|R|Matt Holliday|R|Groundout|S|Slider|33|1|1|0|14|84
+Leonel Campos|R|Matt Holliday|R|Groundout|X|Four-Seam Fastball|34|1|2|0|14|92
+Leonel Campos|R|Starlin Castro|R|Groundout|S|Slider|35|0|0|1|14|84
+Leonel Campos|R|Starlin Castro|R|Groundout|F|Slider|36|0|1|1|8|85
+Leonel Campos|R|Starlin Castro|R|Groundout|B|Four-Seam Fastball|37|0|2|1|14|92
+Leonel Campos|R|Starlin Castro|R|Groundout|X|Slider|38|1|2|1|14|85
+Leonel Campos|R|Didi Gregorius|L|Field Error|C|Changeup|39|0|0|2|6|85
+Leonel Campos|R|Didi Gregorius|L|Field Error|S|Slider|40|0|1|2|13|85
+Leonel Campos|R|Didi Gregorius|L|Field Error|D|Slider|41|0|2|2|13|85
+Leonel Campos|R|Aaron Hicks|L|Double|E|Four-Seam Fastball|42|0|0|2|2|92
+Leonel Campos|R|Chase Headley|L|Single|B|Two-Seam Fastball|43|0|0|2|11|92
+Leonel Campos|R|Chase Headley|L|Single|S|Slider|44|1|0|2|13|84
+Leonel Campos|R|Chase Headley|L|Single|B|Four-Seam Fastball|45|1|1|2|14|92
+Leonel Campos|R|Chase Headley|L|Single|W|Slider|46|2|1|2|13|83
+Leonel Campos|R|Chase Headley|L|Single|E|Slider|47|2|2|2|13|86
+Leonel Campos|R|Carlos Gomez|R|Strikeout|F|Slider|0|0|0|1|12|84
+Leonel Campos|R|Carlos Gomez|R|Strikeout|S|Slider|1|0|1|1|12|84
+Leonel Campos|R|Carlos Gomez|R|Strikeout|F|Slider|2|0|2|1|12|84
+Leonel Campos|R|Carlos Gomez|R|Strikeout|S|Slider|3|0|2|1|14|86
+Leonel Campos|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|4|0|0|2|11|93
+Leonel Campos|R|Rougned Odor|L|Groundout|S|Changeup|5|1|0|2|2|85
+Leonel Campos|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|6|1|1|2|14|93
+Leonel Campos|R|Rougned Odor|L|Groundout|X|Slider|7|2|1|2|5|86
+Leonel Campos|R|Gary Sanchez|R|Strikeout|S|Slider|0|0|0|1|14|82
+Leonel Campos|R|Gary Sanchez|R|Strikeout|S|Slider|1|0|1|1|14|84
+Leonel Campos|R|Gary Sanchez|R|Strikeout|*B|Slider|2|0|2|1|14|86
+Leonel Campos|R|Gary Sanchez|R|Strikeout|F|Four-Seam Fastball|3|1|2|1|6|93
+Leonel Campos|R|Gary Sanchez|R|Strikeout|S|Slider|4|1|2|1|14|86
+Leonel Campos|R|Todd Frazier|R|Double|C|Slider|5|0|0|2|9|84
+Leonel Campos|R|Todd Frazier|R|Double|B|Four-Seam Fastball|6|0|1|2|14|93
+Leonel Campos|R|Todd Frazier|R|Double|E|Four-Seam Fastball|7|1|1|2|5|93
+Leonel Campos|R|Jacoby Ellsbury|L|Double|B|Changeup|8|0|0|2|14|85
+Leonel Campos|R|Jacoby Ellsbury|L|Double|S|Slider|9|1|0|2|14|86
+Leonel Campos|R|Jacoby Ellsbury|L|Double|E|Four-Seam Fastball|10|1|1|2|8|94
+Leonel Campos|R|Garrett Cooper|R|Groundout|B|Four-Seam Fastball|11|0|0|2|14|93
+Leonel Campos|R|Garrett Cooper|R|Groundout|*B|Slider|12|1|0|2|14|85
+Leonel Campos|R|Garrett Cooper|R|Groundout|C|Four-Seam Fastball|13|2|0|2|14|93
+Leonel Campos|R|Garrett Cooper|R|Groundout|S|Slider|14|2|1|2|8|84
+Leonel Campos|R|Garrett Cooper|R|Groundout|F|Slider|15|2|2|2|6|85
+Leonel Campos|R|Garrett Cooper|R|Groundout|F|Slider|16|2|2|2|14|86
+Leonel Campos|R|Garrett Cooper|R|Groundout|X|Four-Seam Fastball|17|2|2|2|4|92
+Leonel Campos|R|Jordy Mercer|R|Home Run|E|Four-Seam Fastball|0|0|0|0|6|92
+Leonel Campos|R|John Jaso|L|Flyout|B|Four-Seam Fastball|1|0|0|0|14|94
+Leonel Campos|R|John Jaso|L|Flyout|X|Four-Seam Fastball|2|1|0|0|9|95
+Leonel Campos|R|Francisco Cervelli|R|Flyout|B|Slider|3|0|0|1|11|84
+Leonel Campos|R|Francisco Cervelli|R|Flyout|C|Slider|4|1|0|1|2|84
+Leonel Campos|R|Francisco Cervelli|R|Flyout|X|Slider|5|1|1|1|2|85
+Leonel Campos|R|Starling Marte|R|Walk|S|Slider|6|0|0|2|9|86
+Leonel Campos|R|Starling Marte|R|Walk|C|Slider|7|0|1|2|2|86
+Leonel Campos|R|Starling Marte|R|Walk|B|Slider|8|0|2|2|11|86
+Leonel Campos|R|Starling Marte|R|Walk|B|Four-Seam Fastball|9|1|2|2|12|94
+Leonel Campos|R|Starling Marte|R|Walk|F|Slider|10|2|2|2|12|85
+Leonel Campos|R|Starling Marte|R|Walk|B|Slider|11|2|2|2|12|85
+Leonel Campos|R|Starling Marte|R|Walk|B|Four-Seam Fastball|12|3|2|2|12|93
+Leonel Campos|R|Adam Frazier|L|Lineout|X|Four-Seam Fastball|13|0|0|2|2|94
+Leonel Campos|R|Josh Harrison|R|Flyout|F|Four-Seam Fastball|0|0|0|0|12|90
+Leonel Campos|R|Josh Harrison|R|Flyout|S|Slider|1|0|1|0|2|83
+Leonel Campos|R|Josh Harrison|R|Flyout|B|Slider|2|0|2|0|14|85
+Leonel Campos|R|Josh Harrison|R|Flyout|X|Slider|3|1|2|0|14|83
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|4|0|0|1|12|93
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|93
+Leonel Campos|R|Andrew McCutchen|R|Walk|F|Four-Seam Fastball|6|2|0|1|2|92
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|7|2|1|1|14|93
+Leonel Campos|R|Andrew McCutchen|R|Walk|B|Four-Seam Fastball|8|3|1|1|14|92
+Leonel Campos|R|David Freese|R|Walk|B|Slider|9|0|0|1|12|84
+Leonel Campos|R|David Freese|R|Walk|B|Four-Seam Fastball|10|1|0|1|14|92
+Leonel Campos|R|David Freese|R|Walk|B|Four-Seam Fastball|11|2|0|1|11|91
+Leonel Campos|R|David Freese|R|Walk|C|Four-Seam Fastball|12|3|0|1|5|90
+Leonel Campos|R|David Freese|R|Walk|B|Four-Seam Fastball|13|3|1|1|14|92
+Leonel Campos|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Leonel Campos|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|1|1|0|0|14|92
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Four-Seam Fastball|2|2|0|0|2|92
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Four-Seam Fastball|3|2|1|0|12|93
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Slider|4|2|2|0|4|85
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Slider|5|2|2|0|2|84
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Four-Seam Fastball|6|2|2|0|6|93
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Slider|7|2|2|0|13|85
+Leonel Campos|R|Andrew Benintendi|L|Flyout|F|Four-Seam Fastball|8|2|2|0|1|95
+Leonel Campos|R|Andrew Benintendi|L|Flyout|X|Slider|9|2|2|0|12|85
+Leonel Campos|R|Mookie Betts|R|Walk|B|Slider|10|0|0|1|11|84
+Leonel Campos|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|11|1|0|1|14|93
+Leonel Campos|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|12|2|0|1|12|93
+Leonel Campos|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|13|3|0|1|6|91
+Leonel Campos|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|14|3|1|1|12|93
+Leonel Campos|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|15|3|2|1|14|93
+Leonel Campos|R|Mitch Moreland|L|Strikeout|C|Four-Seam Fastball|16|0|0|1|1|92
+Leonel Campos|R|Mitch Moreland|L|Strikeout|W|Slider|17|0|1|1|13|84
+Leonel Campos|R|Mitch Moreland|L|Strikeout|*B|Slider|18|0|2|1|13|85
+Leonel Campos|R|Mitch Moreland|L|Strikeout|B|Four-Seam Fastball|19|1|2|1|7|93
+Leonel Campos|R|Mitch Moreland|L|Strikeout|S|Slider|20|2|2|1|14|86
+Leonel Campos|R|Xander Bogaerts|R|Pop Out|*B|Slider|21|0|0|2|14|83
+Leonel Campos|R|Xander Bogaerts|R|Pop Out|X|Four-Seam Fastball|22|1|0|2|3|92
+Leonel Campos|R|Byron Buxton|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|93
+Leonel Campos|R|Byron Buxton|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|93
+Leonel Campos|R|Byron Buxton|R|Walk|C|Four-Seam Fastball|2|2|0|0|2|93
+Leonel Campos|R|Byron Buxton|R|Walk|B|Four-Seam Fastball|3|2|1|0|11|93
+Leonel Campos|R|Byron Buxton|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|93
+Leonel Campos|R|Eduardo Escobar|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|1|93
+Leonel Campos|R|Eduardo Escobar|L|Strikeout|F|Slider|1|0|1|0|5|84
+Leonel Campos|R|Eduardo Escobar|L|Strikeout|F|Slider|2|0|2|0|2|87
+Leonel Campos|R|Eduardo Escobar|L|Strikeout|B|Four-Seam Fastball|3|0|2|0|11|94
+Leonel Campos|R|Eduardo Escobar|L|Strikeout|S|Slider|4|1|2|0|11|85
+Leonel Campos|R|Jason Castro|L|Groundout|B|Slider|5|0|0|1|14|85
+Leonel Campos|R|Jason Castro|L|Groundout|C|Slider|6|1|0|1|2|84
+Leonel Campos|R|Jason Castro|L|Groundout|F|Four-Seam Fastball|7|1|1|1|14|94
+Leonel Campos|R|Jason Castro|L|Groundout|B|Four-Seam Fastball|8|1|2|1|11|94
+Leonel Campos|R|Jason Castro|L|Groundout|X|Slider|9|2|2|1|9|85
+Leonel Campos|R|Robbie Grossman|L|Strikeout|B|Slider|10|0|0|2|13|84
+Leonel Campos|R|Robbie Grossman|L|Strikeout|S|Four-Seam Fastball|11|1|0|2|11|93
+Leonel Campos|R|Robbie Grossman|L|Strikeout|B|Four-Seam Fastball|12|1|1|2|11|93
+Leonel Campos|R|Robbie Grossman|L|Strikeout|B|Slider|13|2|1|2|13|85
+Leonel Campos|R|Robbie Grossman|L|Strikeout|F|Four-Seam Fastball|14|3|1|2|6|92
+Leonel Campos|R|Robbie Grossman|L|Strikeout|W|Slider|15|3|2|2|14|86
+Leonel Campos|R|Paulo Orlando|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Leonel Campos|R|Paulo Orlando|R|Flyout|X|Four-Seam Fastball|1|1|0|0|11|93
+Leonel Campos|R|Jorge Soler|R|Flyout|C|Four-Seam Fastball|2|0|0|1|12|94
+Leonel Campos|R|Jorge Soler|R|Flyout|X|Slider|3|0|1|1|11|83
+Leonel Campos|R|Brandon Moss|L|Single|C|Four-Seam Fastball|4|0|0|2|7|93
+Leonel Campos|R|Brandon Moss|L|Single|S|Changeup|5|0|1|2|4|87
+Leonel Campos|R|Brandon Moss|L|Single|F|Slider|6|0|2|2|9|85
+Leonel Campos|R|Brandon Moss|L|Single|D|Four-Seam Fastball|7|0|2|2|8|94
+Leonel Campos|R|Drew Butera|R|Strikeout|B|Slider|8|0|0|2|11|84
+Leonel Campos|R|Drew Butera|R|Strikeout|S|Slider|9|1|0|2|9|82
+Leonel Campos|R|Drew Butera|R|Strikeout|B|Four-Seam Fastball|10|1|1|2|14|91
+Leonel Campos|R|Drew Butera|R|Strikeout|C|Four-Seam Fastball|11|2|1|2|14|93
+Leonel Campos|R|Drew Butera|R|Strikeout|F|Slider|12|2|2|2|11|84
+Leonel Campos|R|Drew Butera|R|Strikeout|S|Slider|13|2|2|2|14|84

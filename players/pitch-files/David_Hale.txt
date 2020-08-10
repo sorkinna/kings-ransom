@@ -1,0 +1,2180 @@
+David Hale|R|Joe Mauer|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|91
+David Hale|R|Joe Mauer|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|4|91
+David Hale|R|Joe Mauer|L|Strikeout|B|Changeup|2|1|1|0|14|79
+David Hale|R|Joe Mauer|L|Strikeout|S|Changeup|3|2|1|0|14|79
+David Hale|R|Joe Mauer|L|Strikeout|B|Changeup|4|2|2|0|13|79
+David Hale|R|Joe Mauer|L|Strikeout|T|Two-Seam Fastball|5|3|2|0|13|92
+David Hale|R|Miguel Sano|R|Groundout|B|Two-Seam Fastball|6|0|0|1|13|91
+David Hale|R|Miguel Sano|R|Groundout|B|Curveball|7|1|0|1|14|81
+David Hale|R|Miguel Sano|R|Groundout|X|Changeup|8|2|0|1|2|78
+David Hale|R|Eddie Rosario|L|Single|S|Two-Seam Fastball|9|0|0|2|11|92
+David Hale|R|Eddie Rosario|L|Single|S|Changeup|10|0|1|2|7|78
+David Hale|R|Eddie Rosario|L|Single|B|Changeup|11|0|2|2|13|78
+David Hale|R|Eddie Rosario|L|Single|D|Four-Seam Fastball|12|1|2|2|2|92
+David Hale|R|Logan Morrison|L|Single|C|Two-Seam Fastball|13|0|0|2|13|93
+David Hale|R|Logan Morrison|L|Single|B|Two-Seam Fastball|14|0|1|2|13|92
+David Hale|R|Logan Morrison|L|Single|*B|Changeup|15|1|1|2|14|79
+David Hale|R|Logan Morrison|L|Single|D|Changeup|16|2|1|2|7|80
+David Hale|R|Eduardo Escobar|L|Strikeout|B|Four-Seam Fastball|17|0|0|2|11|92
+David Hale|R|Eduardo Escobar|L|Strikeout|S|Changeup|18|1|0|2|5|79
+David Hale|R|Eduardo Escobar|L|Strikeout|F|Changeup|19|1|1|2|7|79
+David Hale|R|Eduardo Escobar|L|Strikeout|F|Changeup|20|1|2|2|11|78
+David Hale|R|Eduardo Escobar|L|Strikeout|F|Changeup|21|1|2|2|11|79
+David Hale|R|Eduardo Escobar|L|Strikeout|S|Changeup|22|1|2|2|13|80
+David Hale|R|Max Kepler|L|Flyout|F|Two-Seam Fastball|23|0|0|0|1|90
+David Hale|R|Max Kepler|L|Flyout|S|Changeup|24|0|1|0|13|79
+David Hale|R|Max Kepler|L|Flyout|X|Changeup|25|0|2|0|13|78
+David Hale|R|Ryan LaMarre|R|Strikeout|C|Four-Seam Fastball|26|0|0|1|8|92
+David Hale|R|Ryan LaMarre|R|Strikeout|B|Curveball|27|0|1|1|14|81
+David Hale|R|Ryan LaMarre|R|Strikeout|F|Two-Seam Fastball|28|1|1|1|13|91
+David Hale|R|Ryan LaMarre|R|Strikeout|B|Curveball|29|1|2|1|14|81
+David Hale|R|Ryan LaMarre|R|Strikeout|S|Changeup|30|2|2|1|13|80
+David Hale|R|Mitch Garver|R|Double|B|Four-Seam Fastball|31|0|0|2|13|92
+David Hale|R|Mitch Garver|R|Double|B|Four-Seam Fastball|32|1|0|2|11|91
+David Hale|R|Mitch Garver|R|Double|D|Four-Seam Fastball|33|2|0|2|13|91
+David Hale|R|Brian Dozier|R|Groundout|C|Changeup|34|0|0|2|2|79
+David Hale|R|Brian Dozier|R|Groundout|B|Two-Seam Fastball|35|0|1|2|9|91
+David Hale|R|Brian Dozier|R|Groundout|F|Changeup|36|1|1|2|13|79
+David Hale|R|Brian Dozier|R|Groundout|B|Changeup|37|1|2|2|13|78
+David Hale|R|Brian Dozier|R|Groundout|F|Four-Seam Fastball|38|2|2|2|2|94
+David Hale|R|Brian Dozier|R|Groundout|F|Four-Seam Fastball|39|2|2|2|2|94
+David Hale|R|Brian Dozier|R|Groundout|X|Changeup|40|2|2|2|6|78
+David Hale|R|Adam Duvall|R|Strikeout|B|Curveball|0|0|0|0|14|79
+David Hale|R|Adam Duvall|R|Strikeout|C|Two-Seam Fastball|1|1|0|0|14|91
+David Hale|R|Adam Duvall|R|Strikeout|S|Curveball|2|1|1|0|14|80
+David Hale|R|Adam Duvall|R|Strikeout|F|Curveball|3|1|2|0|14|81
+David Hale|R|Adam Duvall|R|Strikeout|C|Two-Seam Fastball|4|1|2|0|14|90
+David Hale|R|Tucker Barnhart|L|Strikeout|S|Changeup|5|0|0|1|13|79
+David Hale|R|Tucker Barnhart|L|Strikeout|F|Changeup|6|0|1|1|13|80
+David Hale|R|Tucker Barnhart|L|Strikeout|T|Two-Seam Fastball|7|0|2|1|13|92
+David Hale|R|Billy Hamilton|L|Walk|C|Two-Seam Fastball|8|0|0|2|7|92
+David Hale|R|Billy Hamilton|L|Walk|B|Changeup|9|0|1|2|13|78
+David Hale|R|Billy Hamilton|L|Walk|F|Two-Seam Fastball|10|1|1|2|13|90
+David Hale|R|Billy Hamilton|L|Walk|B|Changeup|11|1|2|2|14|80
+David Hale|R|Billy Hamilton|L|Walk|B|Two-Seam Fastball|12|2|2|2|14|92
+David Hale|R|Billy Hamilton|L|Walk|B|Changeup|13|3|2|2|14|80
+David Hale|R|Jesse Winker|L|Pop Out|X|Four-Seam Fastball|14|0|0|2|14|91
+David Hale|R|Jose Peraza|R|Single|C|Four-Seam Fastball|15|0|0|0|14|91
+David Hale|R|Jose Peraza|R|Single|D|Curveball|16|0|1|0|14|79
+David Hale|R|Joey Votto|L|Walk|S|Changeup|17|0|0|0|13|78
+David Hale|R|Joey Votto|L|Walk|B|Two-Seam Fastball|18|0|1|0|14|92
+David Hale|R|Joey Votto|L|Walk|*B|Changeup|19|1|1|0|13|79
+David Hale|R|Joey Votto|L|Walk|B|Two-Seam Fastball|20|2|1|0|14|92
+David Hale|R|Joey Votto|L|Walk|B|Changeup|21|3|1|0|11|78
+David Hale|R|Scooter Gennett|L|Flyout|S|Changeup|22|0|0|0|13|78
+David Hale|R|Scooter Gennett|L|Flyout|F|Changeup|23|0|1|0|7|77
+David Hale|R|Scooter Gennett|L|Flyout|X|Changeup|24|0|2|0|13|79
+David Hale|R|Eugenio Suarez|R|Single|D|Curveball|25|0|0|1|14|80
+David Hale|R|Scott Schebler|L|Walk|B|Four-Seam Fastball|26|0|0|1|14|91
+David Hale|R|Scott Schebler|L|Walk|B|Curveball|27|1|0|1|11|78
+David Hale|R|Scott Schebler|L|Walk|B|Four-Seam Fastball|28|2|0|1|14|92
+David Hale|R|Scott Schebler|L|Walk|B|Four-Seam Fastball|29|3|0|1|12|91
+David Hale|R|Adam Duvall|R|Batter Interference|F|Two-Seam Fastball|30|0|0|1|13|90
+David Hale|R|Adam Duvall|R|Batter Interference|T|Two-Seam Fastball|31|0|1|1|13|91
+David Hale|R|Adam Duvall|R|Batter Interference|F|Curveball|32|0|2|1|12|81
+David Hale|R|Adam Duvall|R|Batter Interference|*B|Two-Seam Fastball|33|0|2|1|14|93
+David Hale|R|Adam Duvall|R|Batter Interference|F|Changeup|34|1|2|1|13|79
+David Hale|R|Adam Duvall|R|Batter Interference|X|Two-Seam Fastball|35|1|2|1|13|92
+David Hale|R|Tucker Barnhart|L|Groundout|B|Two-Seam Fastball|36|0|0|2|11|91
+David Hale|R|Tucker Barnhart|L|Groundout|C|Changeup|37|1|0|2|8|79
+David Hale|R|Tucker Barnhart|L|Groundout|F|Two-Seam Fastball|38|1|1|2|13|91
+David Hale|R|Tucker Barnhart|L|Groundout|X|Two-Seam Fastball|39|1|2|2|13|91
+David Hale|R|Billy Hamilton|L|Lineout|L|Two-Seam Fastball|40|0|0|0|13|91
+David Hale|R|Billy Hamilton|L|Lineout|B|Changeup|41|0|1|0|11|77
+David Hale|R|Billy Hamilton|L|Lineout|C|Changeup|42|1|1|0|2|79
+David Hale|R|Billy Hamilton|L|Lineout|X|Four-Seam Fastball|43|1|2|0|9|90
+David Hale|R|Jesse Winker|L|Lineout|C|Curveball|44|0|0|1|4|80
+David Hale|R|Jesse Winker|L|Lineout|F|Slider|45|0|1|1|7|83
+David Hale|R|Jesse Winker|L|Lineout|B|Four-Seam Fastball|46|0|2|1|12|90
+David Hale|R|Jesse Winker|L|Lineout|X|Changeup|47|1|2|1|13|78
+David Hale|R|Jose Peraza|R|Home Run|B|Curveball|48|0|0|2|14|78
+David Hale|R|Jose Peraza|R|Home Run|F|Four-Seam Fastball|49|1|0|2|14|90
+David Hale|R|Jose Peraza|R|Home Run|E|Curveball|50|1|1|2|13|78
+David Hale|R|Joey Votto|L|Double|D|Changeup|51|0|0|2|13|79
+David Hale|R|Scooter Gennett|L|Walk|B|Changeup|52|0|0|2|11|78
+David Hale|R|Scooter Gennett|L|Walk|B|Two-Seam Fastball|53|1|0|2|13|91
+David Hale|R|Scooter Gennett|L|Walk|F|Changeup|54|2|0|2|13|78
+David Hale|R|Scooter Gennett|L|Walk|*B|Two-Seam Fastball|55|2|1|2|13|91
+David Hale|R|Scooter Gennett|L|Walk|*B|Changeup|56|3|1|2|14|79
+David Hale|R|Marcus Semien|R|Groundout|C|Two-Seam Fastball|0|0|0|0|8|91
+David Hale|R|Marcus Semien|R|Groundout|B|Changeup|1|0|1|0|14|79
+David Hale|R|Marcus Semien|R|Groundout|S|Two-Seam Fastball|2|1|1|0|2|91
+David Hale|R|Marcus Semien|R|Groundout|B|Changeup|3|1|2|0|14|79
+David Hale|R|Marcus Semien|R|Groundout|X|Two-Seam Fastball|4|2|2|0|7|91
+David Hale|R|Matt Joyce|L|Pop Out|S|Two-Seam Fastball|5|0|0|1|12|92
+David Hale|R|Matt Joyce|L|Pop Out|C|Changeup|6|0|1|1|13|79
+David Hale|R|Matt Joyce|L|Pop Out|F|Changeup|7|0|2|1|11|79
+David Hale|R|Matt Joyce|L|Pop Out|F|Slider|8|0|2|1|2|87
+David Hale|R|Matt Joyce|L|Pop Out|X|Changeup|9|0|2|1|13|79
+David Hale|R|Jed Lowrie|L|Home Run|C|Changeup|10|0|0|2|4|79
+David Hale|R|Jed Lowrie|L|Home Run|B|Two-Seam Fastball|11|0|1|2|13|91
+David Hale|R|Jed Lowrie|L|Home Run|E|Changeup|12|1|1|2|8|79
+David Hale|R|Khris Davis|R|Strikeout|F|Two-Seam Fastball|13|0|0|2|11|91
+David Hale|R|Khris Davis|R|Strikeout|F|Four-Seam Fastball|14|0|1|2|6|93
+David Hale|R|Khris Davis|R|Strikeout|B|Curveball|15|0|2|2|14|81
+David Hale|R|Khris Davis|R|Strikeout|F|Two-Seam Fastball|16|1|2|2|13|92
+David Hale|R|Khris Davis|R|Strikeout|F|Changeup|17|1|2|2|14|80
+David Hale|R|Khris Davis|R|Strikeout|S|Curveball|18|1|2|2|9|80
+David Hale|R|Matt Olson|L|Double|C|Changeup|19|0|0|0|13|78
+David Hale|R|Matt Olson|L|Double|B|Four-Seam Fastball|20|0|1|0|12|89
+David Hale|R|Matt Olson|L|Double|D|Changeup|21|1|1|0|4|77
+David Hale|R|Matt Chapman|R|Groundout|F|Four-Seam Fastball|22|0|0|0|11|89
+David Hale|R|Matt Chapman|R|Groundout|B|Two-Seam Fastball|23|0|1|0|11|89
+David Hale|R|Matt Chapman|R|Groundout|B|Changeup|24|1|1|0|13|79
+David Hale|R|Matt Chapman|R|Groundout|X|Changeup|25|2|1|0|4|78
+David Hale|R|Jonathan Lucroy|R|Hit By Pitch|B|Four-Seam Fastball|26|0|0|1|14|92
+David Hale|R|Jonathan Lucroy|R|Hit By Pitch|C|Two-Seam Fastball|27|1|0|1|7|89
+David Hale|R|Jonathan Lucroy|R|Hit By Pitch|C|Curveball|28|1|1|1|13|78
+David Hale|R|Jonathan Lucroy|R|Hit By Pitch|H|Two-Seam Fastball|29|1|2|1|11|90
+David Hale|R|Mark Canha|R|Strikeout|*B|Curveball|30|0|0|1|14|80
+David Hale|R|Mark Canha|R|Strikeout|C|Two-Seam Fastball|31|1|0|1|13|90
+David Hale|R|Mark Canha|R|Strikeout|*B|Changeup|32|1|1|1|14|79
+David Hale|R|Mark Canha|R|Strikeout|S|Changeup|33|2|1|1|14|80
+David Hale|R|Mark Canha|R|Strikeout|S|Changeup|34|2|2|1|7|80
+David Hale|R|Dustin Fowler|L|Groundout|B|Two-Seam Fastball|35|0|0|2|14|90
+David Hale|R|Dustin Fowler|L|Groundout|X|Four-Seam Fastball|36|1|0|2|5|89
+David Hale|R|Marcus Semien|R|Groundout|C|Curveball|37|0|0|0|14|77
+David Hale|R|Marcus Semien|R|Groundout|X|Two-Seam Fastball|38|0|1|0|4|88
+David Hale|R|Matt Joyce|L|Home Run|B|Changeup|39|0|0|1|14|77
+David Hale|R|Matt Joyce|L|Home Run|F|Two-Seam Fastball|40|1|0|1|13|90
+David Hale|R|Matt Joyce|L|Home Run|B|Two-Seam Fastball|41|1|1|1|11|89
+David Hale|R|Matt Joyce|L|Home Run|S|Changeup|42|2|1|1|6|78
+David Hale|R|Matt Joyce|L|Home Run|F|Changeup|43|2|2|1|1|77
+David Hale|R|Matt Joyce|L|Home Run|B|Two-Seam Fastball|44|2|2|1|11|91
+David Hale|R|Matt Joyce|L|Home Run|E|Changeup|45|3|2|1|8|78
+David Hale|R|Jed Lowrie|L|Single|C|Two-Seam Fastball|46|0|0|1|13|90
+David Hale|R|Jed Lowrie|L|Single|D|Two-Seam Fastball|47|0|1|1|13|90
+David Hale|R|Khris Davis|R|Pop Out|X|Curveball|48|0|0|1|6|78
+David Hale|R|Matt Olson|L|Flyout|B|Two-Seam Fastball|49|0|0|2|13|89
+David Hale|R|Matt Olson|L|Flyout|F|Two-Seam Fastball|50|1|0|2|5|89
+David Hale|R|Matt Olson|L|Flyout|B|Two-Seam Fastball|51|1|1|2|13|91
+David Hale|R|Matt Olson|L|Flyout|X|Two-Seam Fastball|52|2|1|2|8|89
+David Hale|R|Randal Grichuk|R|Flyout|X|Four-Seam Fastball|0|0|0|0|9|91
+David Hale|R|Aledmys Diaz|R|Lineout|S|Four-Seam Fastball|1|0|0|1|2|91
+David Hale|R|Aledmys Diaz|R|Lineout|F|Curveball|2|0|1|1|8|80
+David Hale|R|Aledmys Diaz|R|Lineout|B|Curveball|3|0|2|1|14|79
+David Hale|R|Aledmys Diaz|R|Lineout|B|Four-Seam Fastball|4|1|2|1|12|90
+David Hale|R|Aledmys Diaz|R|Lineout|B|Changeup|5|2|2|1|13|81
+David Hale|R|Aledmys Diaz|R|Lineout|X|Four-Seam Fastball|6|3|2|1|8|93
+David Hale|R|Devon Travis|R|Walk|C|Curveball|7|0|0|2|9|79
+David Hale|R|Devon Travis|R|Walk|T|Two-Seam Fastball|8|0|1|2|13|90
+David Hale|R|Devon Travis|R|Walk|B|Curveball|9|0|2|2|14|83
+David Hale|R|Devon Travis|R|Walk|B|Two-Seam Fastball|10|1|2|2|14|89
+David Hale|R|Devon Travis|R|Walk|B|Changeup|11|2|2|2|14|80
+David Hale|R|Devon Travis|R|Walk|B|Two-Seam Fastball|12|3|2|2|11|90
+David Hale|R|Curtis Granderson|L|Groundout|C|Changeup|13|0|0|2|1|78
+David Hale|R|Curtis Granderson|L|Groundout|X|Two-Seam Fastball|14|0|1|2|13|91
+David Hale|R|Teoscar Hernandez|R|Groundout|B|Curveball|15|0|0|0|14|79
+David Hale|R|Teoscar Hernandez|R|Groundout|C|Four-Seam Fastball|16|1|0|0|14|91
+David Hale|R|Teoscar Hernandez|R|Groundout|S|Changeup|17|1|1|0|14|80
+David Hale|R|Teoscar Hernandez|R|Groundout|B|Changeup|18|1|2|0|14|79
+David Hale|R|Teoscar Hernandez|R|Groundout|X|Two-Seam Fastball|19|2|2|0|8|90
+David Hale|R|Yangervis Solarte|L|Single|B|Changeup|20|0|0|1|11|80
+David Hale|R|Yangervis Solarte|L|Single|B|Two-Seam Fastball|21|1|0|1|12|88
+David Hale|R|Yangervis Solarte|L|Single|S|Changeup|22|2|0|1|13|79
+David Hale|R|Yangervis Solarte|L|Single|D|Changeup|23|2|1|1|5|79
+David Hale|R|Justin Smoak|L|Single|D|Four-Seam Fastball|24|0|0|1|5|89
+David Hale|R|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|25|0|0|1|11|89
+David Hale|R|Kevin Pillar|R|Flyout|X|Changeup|26|1|0|1|13|79
+David Hale|R|Russell Martin|R|Forceout|C|Two-Seam Fastball|27|0|0|2|13|89
+David Hale|R|Russell Martin|R|Forceout|F|Changeup|28|0|1|2|8|79
+David Hale|R|Russell Martin|R|Forceout|B|Two-Seam Fastball|29|0|2|2|14|90
+David Hale|R|Russell Martin|R|Forceout|F|Two-Seam Fastball|30|1|2|2|7|89
+David Hale|R|Russell Martin|R|Forceout|B|Four-Seam Fastball|31|1|2|2|12|92
+David Hale|R|Russell Martin|R|Forceout|F|Changeup|32|2|2|2|7|80
+David Hale|R|Russell Martin|R|Forceout|X|Two-Seam Fastball|33|2|2|2|7|90
+David Hale|R|Randal Grichuk|R|Groundout|C|Four-Seam Fastball|34|0|0|0|9|90
+David Hale|R|Randal Grichuk|R|Groundout|S|Changeup|35|0|1|0|8|78
+David Hale|R|Randal Grichuk|R|Groundout|B|Four-Seam Fastball|36|0|2|0|12|90
+David Hale|R|Randal Grichuk|R|Groundout|F|Changeup|37|1|2|0|5|78
+David Hale|R|Randal Grichuk|R|Groundout|F|Changeup|38|1|2|0|11|79
+David Hale|R|Randal Grichuk|R|Groundout|X|Curveball|39|1|2|0|14|82
+David Hale|R|Aledmys Diaz|R|Pop Out|B|Changeup|40|0|0|1|14|79
+David Hale|R|Aledmys Diaz|R|Pop Out|C|Four-Seam Fastball|41|1|0|1|5|91
+David Hale|R|Aledmys Diaz|R|Pop Out|B|Two-Seam Fastball|42|1|1|1|13|90
+David Hale|R|Aledmys Diaz|R|Pop Out|X|Changeup|43|2|1|1|14|80
+David Hale|R|Devon Travis|R|Lineout|B|Four-Seam Fastball|44|0|0|2|14|89
+David Hale|R|Devon Travis|R|Lineout|X|Four-Seam Fastball|45|1|0|2|6|90
+David Hale|R|Curtis Granderson|L|Lineout|B|Changeup|46|0|0|0|13|79
+David Hale|R|Curtis Granderson|L|Lineout|B|Two-Seam Fastball|47|1|0|0|13|89
+David Hale|R|Curtis Granderson|L|Lineout|X|Two-Seam Fastball|48|2|0|0|7|89
+David Hale|R|Teoscar Hernandez|R|Flyout|X|Four-Seam Fastball|49|0|0|1|14|90
+David Hale|R|Yangervis Solarte|L|Single|B|Two-Seam Fastball|50|0|0|2|13|90
+David Hale|R|Yangervis Solarte|L|Single|F|Two-Seam Fastball|51|1|0|2|5|89
+David Hale|R|Yangervis Solarte|L|Single|S|Changeup|52|1|1|2|13|77
+David Hale|R|Yangervis Solarte|L|Single|D|Changeup|53|1|2|2|13|78
+David Hale|R|Justin Smoak|L|Groundout|X|Two-Seam Fastball|54|0|0|2|7|89
+David Hale|R|Kevin Pillar|R|Pop Out|X|Four-Seam Fastball|55|0|0|0|4|90
+David Hale|R|Russell Martin|R|Flyout|B|Four-Seam Fastball|56|0|0|1|11|88
+David Hale|R|Russell Martin|R|Flyout|B|Curveball|57|1|0|1|14|78
+David Hale|R|Russell Martin|R|Flyout|C|Changeup|58|2|0|1|3|78
+David Hale|R|Russell Martin|R|Flyout|X|Four-Seam Fastball|59|2|1|1|5|90
+David Hale|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|60|0|0|2|8|90
+David Hale|R|Randal Grichuk|R|Strikeout|B|Curveball|61|0|1|2|11|79
+David Hale|R|Randal Grichuk|R|Strikeout|F|Changeup|62|1|1|2|11|78
+David Hale|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|63|1|2|2|3|91
+David Hale|R|Randal Grichuk|R|Strikeout|B|Changeup|64|1|2|2|14|78
+David Hale|R|Randal Grichuk|R|Strikeout|S|Curveball|65|2|2|2|14|82
+David Hale|R|Aledmys Diaz|R|Double|D|Changeup|66|0|0|0|8|78
+David Hale|R|Devon Travis|R|Groundout|F|Two-Seam Fastball|67|0|0|0|13|88
+David Hale|R|Devon Travis|R|Groundout|X|Two-Seam Fastball|68|0|1|0|8|90
+David Hale|R|Curtis Granderson|L|Pop Out|C|Two-Seam Fastball|69|0|0|1|8|90
+David Hale|R|Curtis Granderson|L|Pop Out|X|Changeup|70|0|1|1|2|77
+David Hale|R|Teoscar Hernandez|R|Double|*B|Curveball|71|0|0|2|14|80
+David Hale|R|Teoscar Hernandez|R|Double|F|Changeup|72|1|0|2|5|79
+David Hale|R|Teoscar Hernandez|R|Double|B|Changeup|73|1|1|2|14|79
+David Hale|R|Teoscar Hernandez|R|Double|E|Curveball|74|2|1|2|9|78
+David Hale|R|Chris Davis|L|Double|C|Four-Seam Fastball|0|0|0|0|5|94
+David Hale|R|Chris Davis|L|Double|B|Four-Seam Fastball|1|0|1|0|13|95
+David Hale|R|Chris Davis|L|Double|C|Changeup|2|1|1|0|8|84
+David Hale|R|Chris Davis|L|Double|D|Four-Seam Fastball|3|1|2|0|6|95
+David Hale|R|Renato Nunez|R|Groundout|C|Curveball|4|0|0|0|6|82
+David Hale|R|Renato Nunez|R|Groundout|C|Two-Seam Fastball|5|0|1|0|7|94
+David Hale|R|Renato Nunez|R|Groundout|X|Curveball|6|0|2|0|14|82
+David Hale|R|Hanser Alberto|R|Groundout|E|Curveball|7|0|0|1|14|82
+David Hale|R|Austin Wynns|R|Groundout|B|Four-Seam Fastball|8|0|0|2|14|95
+David Hale|R|Austin Wynns|R|Groundout|C|Four-Seam Fastball|9|1|0|2|14|94
+David Hale|R|Austin Wynns|R|Groundout|X|Curveball|10|1|1|2|8|82
+David Hale|R|Stevie Wilkerson|L|Groundout|B|Changeup|11|0|0|0|14|83
+David Hale|R|Stevie Wilkerson|L|Groundout|B|Four-Seam Fastball|12|1|0|0|9|93
+David Hale|R|Stevie Wilkerson|L|Groundout|B|Four-Seam Fastball|13|2|0|0|14|93
+David Hale|R|Stevie Wilkerson|L|Groundout|C|Four-Seam Fastball|14|3|0|0|5|93
+David Hale|R|Stevie Wilkerson|L|Groundout|C|Two-Seam Fastball|15|3|1|0|13|93
+David Hale|R|Stevie Wilkerson|L|Groundout|X|Four-Seam Fastball|16|3|2|0|9|94
+David Hale|R|Dwight Smith Jr|L|Groundout|X|Two-Seam Fastball|17|0|0|1|7|93
+David Hale|R|Trey Mancini|R|Flyout|C|Two-Seam Fastball|18|0|0|2|4|93
+David Hale|R|Trey Mancini|R|Flyout|X|Curveball|19|0|1|2|9|83
+David Hale|R|Rio Ruiz|L|Lineout|C|Two-Seam Fastball|20|0|0|0|8|91
+David Hale|R|Rio Ruiz|L|Lineout|B|Changeup|21|0|1|0|13|80
+David Hale|R|Rio Ruiz|L|Lineout|B|Changeup|22|1|1|0|13|81
+David Hale|R|Rio Ruiz|L|Lineout|X|Two-Seam Fastball|23|2|1|0|8|92
+David Hale|R|Jonathan Villar|L|Single|D|Two-Seam Fastball|24|0|0|1|13|92
+David Hale|R|Chris Davis|L|Groundout|B|Curveball|25|0|0|1|14|80
+David Hale|R|Chris Davis|L|Groundout|C|Two-Seam Fastball|26|1|0|1|4|91
+David Hale|R|Chris Davis|L|Groundout|C|Curveball|27|1|1|1|13|80
+David Hale|R|Chris Davis|L|Groundout|*B|Curveball|28|1|2|1|14|81
+David Hale|R|Chris Davis|L|Groundout|X|Curveball|29|2|2|1|13|81
+David Hale|R|Renato Nunez|R|Strikeout|F|Curveball|30|0|0|2|9|81
+David Hale|R|Renato Nunez|R|Strikeout|F|Two-Seam Fastball|31|0|1|2|13|91
+David Hale|R|Renato Nunez|R|Strikeout|*B|Curveball|32|0|2|2|14|83
+David Hale|R|Renato Nunez|R|Strikeout|F|Two-Seam Fastball|33|1|2|2|8|92
+David Hale|R|Renato Nunez|R|Strikeout|*B|Changeup|34|1|2|2|14|80
+David Hale|R|Renato Nunez|R|Strikeout|B|Changeup|35|2|2|2|13|81
+David Hale|R|Renato Nunez|R|Strikeout|S|Curveball|36|3|2|2|14|81
+David Hale|R|Hanser Alberto|R|Single|C|Two-Seam Fastball|37|0|0|0|9|91
+David Hale|R|Hanser Alberto|R|Single|B|Curveball|38|0|1|0|14|81
+David Hale|R|Hanser Alberto|R|Single|B|Changeup|39|1|1|0|14|81
+David Hale|R|Hanser Alberto|R|Single|D|Two-Seam Fastball|40|2|1|0|4|91
+David Hale|R|Austin Wynns|R|Grounded Into DP|S|Four-Seam Fastball|41|0|0|0|2|91
+David Hale|R|Austin Wynns|R|Grounded Into DP|X|Two-Seam Fastball|42|0|1|0|13|91
+David Hale|R|Stevie Wilkerson|L|Groundout|B|Two-Seam Fastball|43|0|0|2|11|91
+David Hale|R|Stevie Wilkerson|L|Groundout|F|Two-Seam Fastball|44|1|0|2|2|91
+David Hale|R|Stevie Wilkerson|L|Groundout|X|Two-Seam Fastball|45|1|1|2|7|92
+David Hale|R|Mookie Betts|R|Strikeout|C|N/A|0|0|0|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|F|N/A|1|0|1|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|B|N/A|2|0|2|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|*B|N/A|3|1|2|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|F|N/A|4|2|2|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|F|N/A|5|2|2|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|B|N/A|6|2|2|2|0|0
+David Hale|R|Mookie Betts|R|Strikeout|C|N/A|7|3|2|2|0|0
+David Hale|R|Rafael Devers|L|Flyout|C|N/A|8|0|0|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|F|N/A|9|0|1|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|B|N/A|10|0|2|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|B|N/A|11|1|2|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|B|N/A|12|2|2|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|F|N/A|13|3|2|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|F|N/A|14|3|2|0|0|0
+David Hale|R|Rafael Devers|L|Flyout|X|N/A|15|3|2|0|0|0
+David Hale|R|Xander Bogaerts|R|Single|C|N/A|16|0|0|1|0|0
+David Hale|R|Xander Bogaerts|R|Single|F|N/A|17|0|1|1|0|0
+David Hale|R|Xander Bogaerts|R|Single|D|N/A|18|0|2|1|0|0
+David Hale|R|J.D. Martinez|R|Lineout|S|N/A|19|0|0|1|0|0
+David Hale|R|J.D. Martinez|R|Lineout|X|N/A|20|0|1|1|0|0
+David Hale|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|93
+David Hale|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|1|1|0|0|12|93
+David Hale|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|2|2|0|0|9|93
+David Hale|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|3|2|1|0|11|94
+David Hale|R|J.D. Martinez|R|Groundout|X|Two-Seam Fastball|4|2|2|0|13|95
+David Hale|R|Christian Vazquez|R|Lineout|F|Curveball|5|0|0|1|1|83
+David Hale|R|Christian Vazquez|R|Lineout|B|Curveball|6|0|1|1|8|82
+David Hale|R|Christian Vazquez|R|Lineout|X|Two-Seam Fastball|7|1|1|1|1|93
+David Hale|R|Andrew Benintendi|L|Groundout|C|Four-Seam Fastball|8|0|0|2|13|95
+David Hale|R|Andrew Benintendi|L|Groundout|F|Changeup|9|0|1|2|7|83
+David Hale|R|Andrew Benintendi|L|Groundout|B|Four-Seam Fastball|10|0|2|2|12|93
+David Hale|R|Andrew Benintendi|L|Groundout|B|Changeup|11|1|2|2|13|84
+David Hale|R|Andrew Benintendi|L|Groundout|X|Changeup|12|2|2|2|11|83
+David Hale|R|Sam Travis|R|Pop Out|B|Four-Seam Fastball|13|0|0|0|12|93
+David Hale|R|Sam Travis|R|Pop Out|C|Four-Seam Fastball|14|1|0|0|2|94
+David Hale|R|Sam Travis|R|Pop Out|X|Curveball|15|1|1|0|1|81
+David Hale|R|Michael Chavis|R|Single|D|Four-Seam Fastball|16|0|0|1|4|94
+David Hale|R|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|17|0|0|1|11|94
+David Hale|R|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|18|1|0|1|13|95
+David Hale|R|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|19|1|1|1|11|93
+David Hale|R|Jackie Bradley Jr.|L|Groundout|F|Changeup|20|2|1|1|4|82
+David Hale|R|Jackie Bradley Jr.|L|Groundout|X|Changeup|21|2|2|1|11|83
+David Hale|R|Mookie Betts|R|Double|F|Four-Seam Fastball|22|0|0|2|2|95
+David Hale|R|Mookie Betts|R|Double|*B|Curveball|23|0|1|2|14|84
+David Hale|R|Mookie Betts|R|Double|E|Curveball|24|1|1|2|5|83
+David Hale|R|Rafael Devers|L|Double|E|Changeup|25|0|0|2|13|82
+David Hale|R|Xander Bogaerts|R|Groundout|X|Four-Seam Fastball|26|0|0|2|5|94
+David Hale|R|J.D. Martinez|R|Groundout|S|Four-Seam Fastball|27|0|0|0|5|92
+David Hale|R|J.D. Martinez|R|Groundout|X|Two-Seam Fastball|28|0|1|0|4|92
+David Hale|R|Christian Vazquez|R|Pop Out|X|Four-Seam Fastball|29|0|0|1|11|92
+David Hale|R|Andrew Benintendi|L|Double|S|Four-Seam Fastball|30|0|0|2|1|93
+David Hale|R|Andrew Benintendi|L|Double|B|Two-Seam Fastball|31|0|1|2|11|93
+David Hale|R|Andrew Benintendi|L|Double|C|Four-Seam Fastball|32|1|1|2|13|93
+David Hale|R|Andrew Benintendi|L|Double|B|Changeup|33|1|2|2|13|82
+David Hale|R|Andrew Benintendi|L|Double|B|Two-Seam Fastball|34|2|2|2|11|93
+David Hale|R|Andrew Benintendi|L|Double|F|Four-Seam Fastball|35|3|2|2|6|93
+David Hale|R|Andrew Benintendi|L|Double|F|Four-Seam Fastball|36|3|2|2|13|94
+David Hale|R|Andrew Benintendi|L|Double|F|Four-Seam Fastball|37|3|2|2|8|93
+David Hale|R|Andrew Benintendi|L|Double|D|Four-Seam Fastball|38|3|2|2|13|94
+David Hale|R|Sam Travis|R|Double|C|Four-Seam Fastball|39|0|0|2|14|93
+David Hale|R|Sam Travis|R|Double|F|Four-Seam Fastball|40|0|1|2|4|94
+David Hale|R|Sam Travis|R|Double|B|Curveball|41|0|2|2|14|83
+David Hale|R|Sam Travis|R|Double|F|Two-Seam Fastball|42|1|2|2|13|94
+David Hale|R|Sam Travis|R|Double|E|Curveball|43|1|2|2|11|82
+David Hale|R|Leonys Martin|L|Strikeout|B|Changeup|0|0|0|2|14|81
+David Hale|R|Leonys Martin|L|Strikeout|S|Changeup|1|1|0|2|7|82
+David Hale|R|Leonys Martin|L|Strikeout|F|Two-Seam Fastball|2|1|1|2|13|94
+David Hale|R|Leonys Martin|L|Strikeout|S|Changeup|3|1|2|2|13|83
+David Hale|R|Kevin Plawecki|R|Groundout|B|Curveball|4|0|0|0|14|82
+David Hale|R|Kevin Plawecki|R|Groundout|X|Changeup|5|1|0|0|11|81
+David Hale|R|Tyler Naquin|L|Groundout|B|Changeup|6|0|0|1|13|82
+David Hale|R|Tyler Naquin|L|Groundout|B|Changeup|7|1|0|1|13|82
+David Hale|R|Tyler Naquin|L|Groundout|B|Four-Seam Fastball|8|2|0|1|11|93
+David Hale|R|Tyler Naquin|L|Groundout|X|Four-Seam Fastball|9|3|0|1|8|93
+David Hale|R|Francisco Lindor|L|Triple|D|Curveball|10|0|0|2|9|78
+David Hale|R|Oscar Mercado|R|Groundout|B|Two-Seam Fastball|11|0|0|2|13|92
+David Hale|R|Oscar Mercado|R|Groundout|X|Two-Seam Fastball|12|1|0|2|7|93
+David Hale|R|Carlos Santana|L|Intent Walk|V|N/A|13|0|0|0|0|0
+David Hale|R|Carlos Santana|L|Intent Walk|V|N/A|14|0|1|0|0|0
+David Hale|R|Carlos Santana|L|Intent Walk|V|N/A|15|0|2|0|0|0
+David Hale|R|Carlos Santana|L|Intent Walk|V|N/A|16|0|2|0|0|0
+David Hale|R|Jason Kipnis|L|Sac Fly|*B|Changeup|17|0|0|0|13|83
+David Hale|R|Jason Kipnis|L|Sac Fly|B|Changeup|18|1|0|0|11|82
+David Hale|R|Jason Kipnis|L|Sac Fly|T|Changeup|19|2|0|0|4|81
+David Hale|R|Jason Kipnis|L|Sac Fly|F|Two-Seam Fastball|20|2|1|0|2|92
+David Hale|R|Jason Kipnis|L|Sac Fly|E|Two-Seam Fastball|21|2|2|0|2|93
+David Hale|R|Jose Ramirez|L|Pop Out|C|Changeup|22|0|0|1|4|82
+David Hale|R|Jose Ramirez|L|Pop Out|*B|Changeup|23|0|1|1|14|80
+David Hale|R|Jose Ramirez|L|Pop Out|F|Two-Seam Fastball|24|1|1|1|9|94
+David Hale|R|Jose Ramirez|L|Pop Out|B|Changeup|25|1|2|1|14|83
+David Hale|R|Jose Ramirez|L|Pop Out|B|Changeup|26|2|2|1|13|82
+David Hale|R|Jose Ramirez|L|Pop Out|F|Four-Seam Fastball|27|3|2|1|5|94
+David Hale|R|Jose Ramirez|L|Pop Out|X|Four-Seam Fastball|28|3|2|1|14|94
+David Hale|R|Yandy Diaz|R|Forceout|C|Four-Seam Fastball|0|0|0|2|7|94
+David Hale|R|Yandy Diaz|R|Forceout|B|Two-Seam Fastball|1|0|1|2|13|94
+David Hale|R|Yandy Diaz|R|Forceout|B|Changeup|2|1|1|2|14|82
+David Hale|R|Yandy Diaz|R|Forceout|B|Four-Seam Fastball|3|2|1|2|14|94
+David Hale|R|Yandy Diaz|R|Forceout|X|Two-Seam Fastball|4|3|1|2|11|94
+David Hale|R|Joey Wendle|L|Single|B|Two-Seam Fastball|0|0|0|2|13|91
+David Hale|R|Joey Wendle|L|Single|D|Two-Seam Fastball|1|1|0|2|5|91
+David Hale|R|Michael Brosseau|R|Groundout|B|Curveball|2|0|0|2|14|83
+David Hale|R|Michael Brosseau|R|Groundout|C|Four-Seam Fastball|3|1|0|2|9|92
+David Hale|R|Michael Brosseau|R|Groundout|X|Two-Seam Fastball|4|1|1|2|11|90
+David Hale|R|Guillermo Heredia|R|Groundout|B|Two-Seam Fastball|5|0|0|0|13|92
+David Hale|R|Guillermo Heredia|R|Groundout|B|Curveball|6|1|0|0|14|82
+David Hale|R|Guillermo Heredia|R|Groundout|F|Two-Seam Fastball|7|2|0|0|13|91
+David Hale|R|Guillermo Heredia|R|Groundout|F|Two-Seam Fastball|8|2|1|0|4|91
+David Hale|R|Guillermo Heredia|R|Groundout|B|Curveball|9|2|2|0|14|82
+David Hale|R|Guillermo Heredia|R|Groundout|X|Curveball|10|3|2|0|5|81
+David Hale|R|Travis d'Arnaud|R|Walk|B|Two-Seam Fastball|11|0|0|1|13|93
+David Hale|R|Travis d'Arnaud|R|Walk|B|Two-Seam Fastball|12|1|0|1|14|91
+David Hale|R|Travis d'Arnaud|R|Walk|B|Curveball|13|2|0|1|14|82
+David Hale|R|Travis d'Arnaud|R|Walk|B|Four-Seam Fastball|14|3|0|1|13|93
+David Hale|R|Tommy Pham|R|Groundout|B|Four-Seam Fastball|15|0|0|1|11|91
+David Hale|R|Tommy Pham|R|Groundout|X|Two-Seam Fastball|16|1|0|1|6|91
+David Hale|R|Kevin Kiermaier|L|Lineout|C|Changeup|17|0|0|2|7|80
+David Hale|R|Kevin Kiermaier|L|Lineout|X|Four-Seam Fastball|18|0|1|2|9|91
+David Hale|R|Yandy Diaz|R|Strikeout|F|Four-Seam Fastball|19|0|0|0|4|91
+David Hale|R|Yandy Diaz|R|Strikeout|F|Four-Seam Fastball|20|0|1|0|4|91
+David Hale|R|Yandy Diaz|R|Strikeout|B|Curveball|21|0|2|0|14|82
+David Hale|R|Yandy Diaz|R|Strikeout|S|Curveball|22|1|2|0|6|81
+David Hale|R|Nate Lowe|L|Groundout|C|Changeup|23|0|0|1|7|81
+David Hale|R|Nate Lowe|L|Groundout|B|Changeup|24|0|1|1|13|80
+David Hale|R|Nate Lowe|L|Groundout|F|Four-Seam Fastball|25|1|1|1|12|91
+David Hale|R|Nate Lowe|L|Groundout|X|Changeup|26|1|2|1|13|82
+David Hale|R|Willy Adames|R|Strikeout|C|Four-Seam Fastball|27|0|0|2|2|91
+David Hale|R|Willy Adames|R|Strikeout|F|Two-Seam Fastball|28|0|1|2|4|90
+David Hale|R|Willy Adames|R|Strikeout|F|Curveball|29|0|2|2|14|81
+David Hale|R|Willy Adames|R|Strikeout|B|Four-Seam Fastball|30|0|2|2|12|89
+David Hale|R|Willy Adames|R|Strikeout|B|Curveball|31|1|2|2|14|81
+David Hale|R|Willy Adames|R|Strikeout|C|Four-Seam Fastball|32|2|2|2|3|91
+David Hale|R|Joey Wendle|L|Single|D|Changeup|33|0|0|0|7|81
+David Hale|R|Michael Brosseau|R|Single|C|Two-Seam Fastball|34|0|0|0|6|92
+David Hale|R|Michael Brosseau|R|Single|C|Four-Seam Fastball|35|0|1|0|3|91
+David Hale|R|Michael Brosseau|R|Single|B|Four-Seam Fastball|36|0|2|0|12|91
+David Hale|R|Michael Brosseau|R|Single|D|Four-Seam Fastball|37|1|2|0|6|91
+David Hale|R|Scott Heineman|R|Double|B|Four-Seam Fastball|0|0|0|0|12|93
+David Hale|R|Scott Heineman|R|Double|C|Four-Seam Fastball|1|1|0|0|9|94
+David Hale|R|Scott Heineman|R|Double|S|Curveball|2|1|1|0|14|83
+David Hale|R|Scott Heineman|R|Double|B|Two-Seam Fastball|3|1|2|0|14|94
+David Hale|R|Scott Heineman|R|Double|D|Curveball|4|2|2|0|11|82
+David Hale|R|Ronald Guzman|L|Walk|F|Four-Seam Fastball|5|0|0|0|9|94
+David Hale|R|Ronald Guzman|L|Walk|S|Changeup|6|0|1|0|13|82
+David Hale|R|Ronald Guzman|L|Walk|*B|Changeup|7|0|2|0|14|84
+David Hale|R|Ronald Guzman|L|Walk|B|Four-Seam Fastball|8|1|2|0|14|95
+David Hale|R|Ronald Guzman|L|Walk|B|Changeup|9|2|2|0|14|84
+David Hale|R|Ronald Guzman|L|Walk|B|Four-Seam Fastball|10|3|2|0|11|94
+David Hale|R|Jose Trevino|R|Double|B|Two-Seam Fastball|11|0|0|0|13|95
+David Hale|R|Jose Trevino|R|Double|C|Two-Seam Fastball|12|1|0|0|13|94
+David Hale|R|Jose Trevino|R|Double|F|Curveball|13|1|1|0|4|82
+David Hale|R|Jose Trevino|R|Double|B|Four-Seam Fastball|14|1|2|0|13|94
+David Hale|R|Jose Trevino|R|Double|F|Two-Seam Fastball|15|2|2|0|11|93
+David Hale|R|Jose Trevino|R|Double|E|Two-Seam Fastball|16|2|2|0|13|93
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|C|Curveball|17|0|0|0|11|81
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|B|Two-Seam Fastball|18|0|1|0|11|91
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|F|Changeup|19|1|1|0|7|80
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|F|Curveball|20|1|2|0|14|83
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|B|Two-Seam Fastball|21|1|2|0|13|92
+David Hale|R|Isiah Kiner-Falefa|R|Strikeout|S|Curveball|22|2|2|0|9|83
+David Hale|R|Marwin Gonzalez|L|Single|B|Two-Seam Fastball|0|0|0|2|14|92
+David Hale|R|Marwin Gonzalez|L|Single|C|Four-Seam Fastball|1|1|0|2|9|93
+David Hale|R|Marwin Gonzalez|L|Single|S|Changeup|2|1|1|2|13|81
+David Hale|R|Marwin Gonzalez|L|Single|B|Changeup|3|1|2|2|14|81
+David Hale|R|Marwin Gonzalez|L|Single|D|Four-Seam Fastball|4|2|2|2|5|94
+David Hale|R|Luis Arraez|L|Single|B|Changeup|5|0|0|2|13|81
+David Hale|R|Luis Arraez|L|Single|D|Changeup|6|1|0|2|7|81
+David Hale|R|Ehire Adrianza|L|Flyout|X|Four-Seam Fastball|7|0|0|2|5|94
+David Hale|R|Jason Castro|L|Single|B|Two-Seam Fastball|8|0|0|0|11|91
+David Hale|R|Jason Castro|L|Single|F|Four-Seam Fastball|9|1|0|0|4|92
+David Hale|R|Jason Castro|L|Single|C|Four-Seam Fastball|10|1|1|0|6|92
+David Hale|R|Jason Castro|L|Single|F|Four-Seam Fastball|11|1|2|0|6|93
+David Hale|R|Jason Castro|L|Single|B|Curveball|12|1|2|0|14|81
+David Hale|R|Jason Castro|L|Single|B|Changeup|13|2|2|0|14|83
+David Hale|R|Jason Castro|L|Single|D|Two-Seam Fastball|14|3|2|0|13|94
+David Hale|R|Max Kepler|L|Groundout|B|Changeup|15|0|0|0|14|81
+David Hale|R|Max Kepler|L|Groundout|C|Changeup|16|1|0|0|9|82
+David Hale|R|Max Kepler|L|Groundout|B|Changeup|17|1|1|0|13|80
+David Hale|R|Max Kepler|L|Groundout|X|Changeup|18|2|1|0|13|82
+David Hale|R|Jorge Polanco|L|Double|B|Two-Seam Fastball|19|0|0|1|11|92
+David Hale|R|Jorge Polanco|L|Double|F|Two-Seam Fastball|20|1|0|1|13|93
+David Hale|R|Jorge Polanco|L|Double|C|Four-Seam Fastball|21|1|1|1|6|94
+David Hale|R|Jorge Polanco|L|Double|F|Four-Seam Fastball|22|1|2|1|8|94
+David Hale|R|Jorge Polanco|L|Double|E|Changeup|23|1|2|1|13|83
+David Hale|R|Nelson Cruz|R|Field Error|C|Two-Seam Fastball|24|0|0|1|8|92
+David Hale|R|Nelson Cruz|R|Field Error|*B|Curveball|25|0|1|1|14|83
+David Hale|R|Nelson Cruz|R|Field Error|B|Four-Seam Fastball|26|1|1|1|14|93
+David Hale|R|Nelson Cruz|R|Field Error|F|Four-Seam Fastball|27|2|1|1|12|94
+David Hale|R|Nelson Cruz|R|Field Error|D|Four-Seam Fastball|28|2|2|1|4|93
+David Hale|R|Eddie Rosario|L|Groundout|X|Changeup|29|0|0|1|13|82
+David Hale|R|Miguel Sano|R|Groundout|X|Two-Seam Fastball|30|0|0|2|13|91
+David Hale|R|Marwin Gonzalez|L|Flyout|C|Curveball|31|0|0|0|13|79
+David Hale|R|Marwin Gonzalez|L|Flyout|T|Changeup|32|0|1|0|11|81
+David Hale|R|Marwin Gonzalez|L|Flyout|B|Curveball|33|0|2|0|14|80
+David Hale|R|Marwin Gonzalez|L|Flyout|B|Changeup|34|1|2|0|13|83
+David Hale|R|Marwin Gonzalez|L|Flyout|X|Changeup|35|2|2|0|13|82
+David Hale|R|Luis Arraez|L|Strikeout|B|Two-Seam Fastball|36|0|0|1|11|93
+David Hale|R|Luis Arraez|L|Strikeout|F|Four-Seam Fastball|37|1|0|1|2|93
+David Hale|R|Luis Arraez|L|Strikeout|B|Two-Seam Fastball|38|1|1|1|11|92
+David Hale|R|Luis Arraez|L|Strikeout|F|Two-Seam Fastball|39|2|1|1|1|92
+David Hale|R|Luis Arraez|L|Strikeout|F|Four-Seam Fastball|40|2|2|1|4|93
+David Hale|R|Luis Arraez|L|Strikeout|S|Curveball|41|2|2|1|2|82
+David Hale|R|Ehire Adrianza|L|Flyout|B|Two-Seam Fastball|42|0|0|2|11|92
+David Hale|R|Ehire Adrianza|L|Flyout|F|Changeup|43|1|0|2|13|82
+David Hale|R|Ehire Adrianza|L|Flyout|B|Four-Seam Fastball|44|1|1|2|14|93
+David Hale|R|Ehire Adrianza|L|Flyout|X|Two-Seam Fastball|45|2|1|2|4|91
+David Hale|R|Yolmer Sanchez|L|Groundout|X|Four-Seam Fastball|0|0|0|2|5|92
+David Hale|R|Ryan Cordell|R|Groundout|B|Four-Seam Fastball|1|0|0|0|11|91
+David Hale|R|Ryan Cordell|R|Groundout|F|Four-Seam Fastball|2|1|0|0|6|91
+David Hale|R|Ryan Cordell|R|Groundout|X|Curveball|3|1|1|0|8|80
+David Hale|R|Leury Garcia|L|Groundout|B|Two-Seam Fastball|4|0|0|1|13|91
+David Hale|R|Leury Garcia|L|Groundout|X|Four-Seam Fastball|5|1|0|1|7|92
+David Hale|R|Tim Anderson|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|3|92
+David Hale|R|Tim Anderson|R|Strikeout|S|Two-Seam Fastball|7|0|1|2|13|91
+David Hale|R|Tim Anderson|R|Strikeout|B|Curveball|8|0|2|2|14|82
+David Hale|R|Tim Anderson|R|Strikeout|F|Changeup|9|1|2|2|13|83
+David Hale|R|Tim Anderson|R|Strikeout|F|Two-Seam Fastball|10|1|2|2|13|92
+David Hale|R|Tim Anderson|R|Strikeout|S|Changeup|11|1|2|2|13|82
+David Hale|R|Jose Abreu|R|Single|B|Two-Seam Fastball|12|0|0|0|13|91
+David Hale|R|Jose Abreu|R|Single|F|Four-Seam Fastball|13|1|0|0|9|91
+David Hale|R|Jose Abreu|R|Single|B|Two-Seam Fastball|14|1|1|0|11|91
+David Hale|R|Jose Abreu|R|Single|S|Changeup|15|2|1|0|8|80
+David Hale|R|Jose Abreu|R|Single|D|Changeup|16|2|2|0|6|80
+David Hale|R|James McCann|R|Grounded Into DP|C|Two-Seam Fastball|17|0|0|0|4|92
+David Hale|R|James McCann|R|Grounded Into DP|B|Two-Seam Fastball|18|0|1|0|14|92
+David Hale|R|James McCann|R|Grounded Into DP|F|Two-Seam Fastball|19|1|1|0|11|92
+David Hale|R|James McCann|R|Grounded Into DP|X|Curveball|20|1|2|0|6|82
+David Hale|R|Eloy Jimenez|R|Groundout|B|Four-Seam Fastball|21|0|0|2|12|92
+David Hale|R|Eloy Jimenez|R|Groundout|B|Changeup|22|1|0|2|14|83
+David Hale|R|Eloy Jimenez|R|Groundout|X|Two-Seam Fastball|23|2|0|2|11|92
+David Hale|R|Jose Abreu|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|5|91
+David Hale|R|Jose Abreu|R|Pop Out|B|Curveball|1|0|1|0|14|81
+David Hale|R|Jose Abreu|R|Pop Out|S|Two-Seam Fastball|2|1|1|0|13|92
+David Hale|R|Jose Abreu|R|Pop Out|X|Curveball|3|1|2|0|9|81
+David Hale|R|James McCann|R|Home Run|C|Four-Seam Fastball|4|0|0|1|8|93
+David Hale|R|James McCann|R|Home Run|E|Changeup|5|0|1|1|4|80
+David Hale|R|Eloy Jimenez|R|Strikeout|B|Curveball|6|0|0|1|14|81
+David Hale|R|Eloy Jimenez|R|Strikeout|C|Two-Seam Fastball|7|1|0|1|14|91
+David Hale|R|Eloy Jimenez|R|Strikeout|F|Two-Seam Fastball|8|1|1|1|7|91
+David Hale|R|Eloy Jimenez|R|Strikeout|S|Curveball|9|1|2|1|14|81
+David Hale|R|Jose Rondon|R|Walk|B|Two-Seam Fastball|10|0|0|2|13|91
+David Hale|R|Jose Rondon|R|Walk|B|Four-Seam Fastball|11|1|0|2|14|93
+David Hale|R|Jose Rondon|R|Walk|F|Two-Seam Fastball|12|2|0|2|2|91
+David Hale|R|Jose Rondon|R|Walk|F|Two-Seam Fastball|13|2|1|2|13|92
+David Hale|R|Jose Rondon|R|Walk|B|Curveball|14|2|2|2|14|80
+David Hale|R|Jose Rondon|R|Walk|F|Two-Seam Fastball|15|3|2|2|13|93
+David Hale|R|Jose Rondon|R|Walk|B|Four-Seam Fastball|16|3|2|2|11|92
+David Hale|R|Yonder Alonso|L|Lineout|F|Two-Seam Fastball|17|0|0|2|4|91
+David Hale|R|Yonder Alonso|L|Lineout|B|Changeup|18|0|1|2|13|82
+David Hale|R|Yonder Alonso|L|Lineout|F|Two-Seam Fastball|19|1|1|2|4|92
+David Hale|R|Yonder Alonso|L|Lineout|X|Four-Seam Fastball|20|1|2|2|3|92
+David Hale|R|Eric Hosmer|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|7|93
+David Hale|R|Eric Hosmer|L|Strikeout|B|Changeup|1|0|1|0|13|82
+David Hale|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|93
+David Hale|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|1|92
+David Hale|R|Eric Hosmer|L|Strikeout|B|Curveball|4|2|2|0|13|82
+David Hale|R|Eric Hosmer|L|Strikeout|F|Changeup|5|3|2|0|14|84
+David Hale|R|Eric Hosmer|L|Strikeout|S|Two-Seam Fastball|6|3|2|0|13|94
+David Hale|R|Hunter Renfroe|R|Single|B|Four-Seam Fastball|7|0|0|1|14|95
+David Hale|R|Hunter Renfroe|R|Single|C|Four-Seam Fastball|8|1|0|1|8|93
+David Hale|R|Hunter Renfroe|R|Single|B|Curveball|9|1|1|1|14|84
+David Hale|R|Hunter Renfroe|R|Single|F|Curveball|10|2|1|1|4|82
+David Hale|R|Hunter Renfroe|R|Single|B|Curveball|11|2|2|1|13|82
+David Hale|R|Hunter Renfroe|R|Single|D|Two-Seam Fastball|12|3|2|1|4|94
+David Hale|R|Wil Myers|R|Walk|C|Four-Seam Fastball|13|0|0|1|9|93
+David Hale|R|Wil Myers|R|Walk|F|Two-Seam Fastball|14|0|1|1|11|93
+David Hale|R|Wil Myers|R|Walk|*B|Curveball|15|0|2|1|14|84
+David Hale|R|Wil Myers|R|Walk|B|Curveball|16|1|2|1|14|83
+David Hale|R|Wil Myers|R|Walk|B|Two-Seam Fastball|17|2|2|1|13|93
+David Hale|R|Wil Myers|R|Walk|B|Two-Seam Fastball|18|3|2|1|13|93
+David Hale|R|Josh Naylor|L|Double|E|Two-Seam Fastball|19|0|0|1|6|92
+David Hale|R|Ian Kinsler|R|Fielders Choice Out|S|Four-Seam Fastball|20|0|0|1|5|92
+David Hale|R|Ian Kinsler|R|Fielders Choice Out|X|Two-Seam Fastball|21|0|1|1|13|92
+David Hale|R|Austin Hedges|R|Double|B|Two-Seam Fastball|22|0|0|2|13|93
+David Hale|R|Austin Hedges|R|Double|F|Four-Seam Fastball|23|1|0|2|4|93
+David Hale|R|Austin Hedges|R|Double|*B|Curveball|24|1|1|2|14|84
+David Hale|R|Austin Hedges|R|Double|F|Two-Seam Fastball|25|2|1|2|11|93
+David Hale|R|Austin Hedges|R|Double|E|Two-Seam Fastball|26|2|2|2|13|93
+David Hale|R|Greg Garcia|L|Groundout|X|Changeup|27|0|0|2|13|82
+David Hale|R|Franmil Reyes|R|Strikeout|C|Changeup|28|0|0|0|4|80
+David Hale|R|Franmil Reyes|R|Strikeout|C|Two-Seam Fastball|29|0|1|0|13|91
+David Hale|R|Franmil Reyes|R|Strikeout|B|Changeup|30|0|2|0|13|81
+David Hale|R|Franmil Reyes|R|Strikeout|C|Four-Seam Fastball|31|1|2|0|6|93
+David Hale|R|Manny Machado|R|Pop Out|B|Changeup|32|0|0|1|13|80
+David Hale|R|Manny Machado|R|Pop Out|X|Two-Seam Fastball|33|1|0|1|13|93
+David Hale|R|Eric Hosmer|L|Groundout|B|Two-Seam Fastball|34|0|0|2|14|93
+David Hale|R|Eric Hosmer|L|Groundout|B|Two-Seam Fastball|35|1|0|2|13|93
+David Hale|R|Eric Hosmer|L|Groundout|C|Four-Seam Fastball|36|2|0|2|13|93
+David Hale|R|Eric Hosmer|L|Groundout|X|Changeup|37|2|1|2|11|82
+David Hale|R|Hunter Renfroe|R|Strikeout|S|Curveball|38|0|0|0|14|81
+David Hale|R|Hunter Renfroe|R|Strikeout|C|Curveball|39|0|1|0|14|80
+David Hale|R|Hunter Renfroe|R|Strikeout|C|Four-Seam Fastball|40|0|2|0|5|91
+David Hale|R|Wil Myers|R|Strikeout|S|Curveball|41|0|0|1|13|80
+David Hale|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|42|0|1|1|14|93
+David Hale|R|Wil Myers|R|Strikeout|B|Changeup|43|1|1|1|13|80
+David Hale|R|Wil Myers|R|Strikeout|C|Changeup|44|2|1|1|8|82
+David Hale|R|Wil Myers|R|Strikeout|B|Curveball|45|2|2|1|14|83
+David Hale|R|Wil Myers|R|Strikeout|C|Two-Seam Fastball|46|3|2|1|7|93
+David Hale|R|Josh Naylor|L|Lineout|C|Changeup|47|0|0|2|13|82
+David Hale|R|Josh Naylor|L|Lineout|S|Changeup|48|0|1|2|13|81
+David Hale|R|Josh Naylor|L|Lineout|B|Changeup|49|0|2|2|13|82
+David Hale|R|Josh Naylor|L|Lineout|F|Two-Seam Fastball|50|1|2|2|11|92
+David Hale|R|Josh Naylor|L|Lineout|B|Curveball|51|1|2|2|14|81
+David Hale|R|Josh Naylor|L|Lineout|B|Changeup|52|2|2|2|13|82
+David Hale|R|Josh Naylor|L|Lineout|F|Changeup|53|3|2|2|13|83
+David Hale|R|Josh Naylor|L|Lineout|X|Four-Seam Fastball|54|3|2|2|2|93
+David Hale|R|Ian Kinsler|R|Pop Out|B|Four-Seam Fastball|55|0|0|0|14|92
+David Hale|R|Ian Kinsler|R|Pop Out|C|Four-Seam Fastball|56|1|0|0|14|92
+David Hale|R|Ian Kinsler|R|Pop Out|X|Changeup|57|1|1|0|8|80
+David Hale|R|Austin Hedges|R|Pop Out|X|Curveball|58|0|0|1|9|81
+David Hale|R|Greg Garcia|L|Flyout|B|Two-Seam Fastball|59|0|0|2|14|93
+David Hale|R|Greg Garcia|L|Flyout|X|Two-Seam Fastball|60|1|0|2|5|91
+David Hale|R|Christian Vazquez|R|Groundout|B|Two-Seam Fastball|0|0|0|0|13|93
+David Hale|R|Christian Vazquez|R|Groundout|C|Two-Seam Fastball|1|1|0|0|8|94
+David Hale|R|Christian Vazquez|R|Groundout|B|Changeup|2|1|1|0|14|82
+David Hale|R|Christian Vazquez|R|Groundout|X|Two-Seam Fastball|3|2|1|0|11|93
+David Hale|R|Michael Chavis|R|Triple|*B|Curveball|4|0|0|1|14|84
+David Hale|R|Michael Chavis|R|Triple|B|Two-Seam Fastball|5|1|0|1|14|94
+David Hale|R|Michael Chavis|R|Triple|E|Two-Seam Fastball|6|2|0|1|5|93
+David Hale|R|Eduardo Nunez|R|Groundout|C|Two-Seam Fastball|7|0|0|1|7|95
+David Hale|R|Eduardo Nunez|R|Groundout|C|Two-Seam Fastball|8|0|1|1|7|94
+David Hale|R|Eduardo Nunez|R|Groundout|X|Curveball|9|0|2|1|14|84
+David Hale|R|Brock Holt|L|Flyout|B|Four-Seam Fastball|10|0|0|2|13|95
+David Hale|R|Brock Holt|L|Flyout|C|Changeup|11|1|0|2|13|82
+David Hale|R|Brock Holt|L|Flyout|*B|Changeup|12|1|1|2|14|82
+David Hale|R|Brock Holt|L|Flyout|C|Four-Seam Fastball|13|2|1|2|7|94
+David Hale|R|Brock Holt|L|Flyout|F|Changeup|14|2|2|2|9|84
+David Hale|R|Brock Holt|L|Flyout|F|Four-Seam Fastball|15|2|2|2|1|94
+David Hale|R|Brock Holt|L|Flyout|F|Four-Seam Fastball|16|2|2|2|11|94
+David Hale|R|Brock Holt|L|Flyout|*B|Curveball|17|2|2|2|14|84
+David Hale|R|Brock Holt|L|Flyout|X|Four-Seam Fastball|18|3|2|2|5|95
+David Hale|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|19|0|0|0|12|92
+David Hale|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|20|1|0|0|14|94
+David Hale|R|Mookie Betts|R|Groundout|X|Two-Seam Fastball|21|2|0|0|11|92
+David Hale|R|Andrew Benintendi|L|Groundout|F|Two-Seam Fastball|22|0|0|1|5|93
+David Hale|R|Andrew Benintendi|L|Groundout|B|Changeup|23|0|1|1|14|83
+David Hale|R|Andrew Benintendi|L|Groundout|X|Two-Seam Fastball|24|1|1|1|13|93
+David Hale|R|J.D. Martinez|R|Groundout|C|Four-Seam Fastball|25|0|0|2|9|93
+David Hale|R|J.D. Martinez|R|Groundout|B|Two-Seam Fastball|26|0|1|2|11|93
+David Hale|R|J.D. Martinez|R|Groundout|X|Two-Seam Fastball|27|1|1|2|11|92
+David Hale|R|Dominic Smith|L|Pop Out|B|Changeup|0|0|0|0|14|80
+David Hale|R|Dominic Smith|L|Pop Out|X|Changeup|1|1|0|0|13|81
+David Hale|R|Todd Frazier|R|Groundout|B|Curveball|2|0|0|1|14|81
+David Hale|R|Todd Frazier|R|Groundout|C|Four-Seam Fastball|3|1|0|1|12|93
+David Hale|R|Todd Frazier|R|Groundout|X|Two-Seam Fastball|4|1|1|1|11|94
+David Hale|R|J.D. Davis|R|Single|B|Four-Seam Fastball|5|0|0|2|11|94
+David Hale|R|J.D. Davis|R|Single|S|Four-Seam Fastball|6|1|0|2|6|94
+David Hale|R|J.D. Davis|R|Single|F|Two-Seam Fastball|7|1|1|2|13|93
+David Hale|R|J.D. Davis|R|Single|B|Four-Seam Fastball|8|1|2|2|12|95
+David Hale|R|J.D. Davis|R|Single|D|Changeup|9|2|2|2|13|82
+David Hale|R|Amed Rosario|R|Flyout|C|Two-Seam Fastball|10|0|0|2|8|93
+David Hale|R|Amed Rosario|R|Flyout|C|Four-Seam Fastball|11|0|1|2|14|95
+David Hale|R|Amed Rosario|R|Flyout|B|Four-Seam Fastball|12|0|2|2|14|95
+David Hale|R|Amed Rosario|R|Flyout|F|Curveball|13|1|2|2|14|82
+David Hale|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|14|1|2|2|14|94
+David Hale|R|Amed Rosario|R|Flyout|F|Two-Seam Fastball|15|1|2|2|14|95
+David Hale|R|Amed Rosario|R|Flyout|F|Curveball|16|1|2|2|14|81
+David Hale|R|Amed Rosario|R|Flyout|*B|Curveball|17|1|2|2|13|79
+David Hale|R|Amed Rosario|R|Flyout|X|Two-Seam Fastball|18|2|2|2|11|94
+David Hale|R|Tomas Nido|R|Groundout|C|Four-Seam Fastball|19|0|0|0|6|93
+David Hale|R|Tomas Nido|R|Groundout|X|Two-Seam Fastball|20|0|1|0|11|92
+David Hale|R|Juan Lagares|R|Strikeout|C|Four-Seam Fastball|21|0|0|1|14|94
+David Hale|R|Juan Lagares|R|Strikeout|F|Two-Seam Fastball|22|0|1|1|4|93
+David Hale|R|Juan Lagares|R|Strikeout|B|Curveball|23|0|2|1|14|82
+David Hale|R|Juan Lagares|R|Strikeout|F|Four-Seam Fastball|24|1|2|1|5|94
+David Hale|R|Juan Lagares|R|Strikeout|T|Two-Seam Fastball|25|1|2|1|13|94
+David Hale|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|26|0|0|2|13|95
+David Hale|R|Jeff McNeil|L|Single|S|Changeup|27|1|0|2|8|82
+David Hale|R|Jeff McNeil|L|Single|F|Two-Seam Fastball|28|1|1|2|13|95
+David Hale|R|Jeff McNeil|L|Single|F|Four-Seam Fastball|29|1|2|2|6|94
+David Hale|R|Jeff McNeil|L|Single|B|Changeup|30|1|2|2|11|83
+David Hale|R|Jeff McNeil|L|Single|D|Four-Seam Fastball|31|2|2|2|7|95
+David Hale|R|Michael Conforto|L|Flyout|C|Changeup|32|0|0|2|1|82
+David Hale|R|Michael Conforto|L|Flyout|S|Changeup|33|0|1|2|11|82
+David Hale|R|Michael Conforto|L|Flyout|*B|Changeup|34|0|2|2|13|83
+David Hale|R|Michael Conforto|L|Flyout|X|Four-Seam Fastball|35|1|2|2|3|95
+David Hale|R|Robinson Chirinos|R|Hit By Pitch|S|Curveball|0|0|0|0|14|82
+David Hale|R|Robinson Chirinos|R|Hit By Pitch|B|Two-Seam Fastball|1|0|1|0|11|92
+David Hale|R|Robinson Chirinos|R|Hit By Pitch|H|Two-Seam Fastball|2|1|1|0|11|93
+David Hale|R|Tyler White|R|Forceout|B|Curveball|3|0|0|0|14|82
+David Hale|R|Tyler White|R|Forceout|*B|Changeup|4|1|0|0|13|81
+David Hale|R|Tyler White|R|Forceout|C|Four-Seam Fastball|5|2|0|0|14|94
+David Hale|R|Tyler White|R|Forceout|F|Two-Seam Fastball|6|2|1|0|11|93
+David Hale|R|Tyler White|R|Forceout|X|Four-Seam Fastball|7|2|2|0|9|95
+David Hale|R|Jake Marisnick|R|Single|D|Two-Seam Fastball|8|0|0|1|13|93
+David Hale|R|Alex Bregman|R|Pop Out|B|Two-Seam Fastball|9|0|0|1|13|92
+David Hale|R|Alex Bregman|R|Pop Out|B|Four-Seam Fastball|10|1|0|1|14|94
+David Hale|R|Alex Bregman|R|Pop Out|X|Four-Seam Fastball|11|2|0|1|2|93
+David Hale|R|Michael Brantley|L|Lineout|*B|Changeup|12|0|0|2|14|82
+David Hale|R|Michael Brantley|L|Lineout|S|Two-Seam Fastball|13|1|0|2|13|94
+David Hale|R|Michael Brantley|L|Lineout|F|Changeup|14|1|1|2|13|82
+David Hale|R|Michael Brantley|L|Lineout|B|Four-Seam Fastball|15|1|2|2|14|94
+David Hale|R|Michael Brantley|L|Lineout|X|Four-Seam Fastball|16|2|2|2|14|94
+David Hale|R|Jose Altuve|R|Single|D|Two-Seam Fastball|17|0|0|0|5|92
+David Hale|R|Yordan Alvarez|L|Strikeout|S|Two-Seam Fastball|18|0|0|0|4|93
+David Hale|R|Yordan Alvarez|L|Strikeout|B|Four-Seam Fastball|19|0|1|0|11|92
+David Hale|R|Yordan Alvarez|L|Strikeout|S|Four-Seam Fastball|20|1|1|0|1|92
+David Hale|R|Yordan Alvarez|L|Strikeout|*B|Changeup|21|1|2|0|13|83
+David Hale|R|Yordan Alvarez|L|Strikeout|F|Two-Seam Fastball|22|2|2|0|11|92
+David Hale|R|Yordan Alvarez|L|Strikeout|F|Four-Seam Fastball|23|2|2|0|11|94
+David Hale|R|Yordan Alvarez|L|Strikeout|S|Changeup|24|2|2|0|7|83
+David Hale|R|Yuli Gurriel|R|Flyout|B|Curveball|25|0|0|1|14|83
+David Hale|R|Yuli Gurriel|R|Flyout|F|Curveball|26|1|0|1|14|82
+David Hale|R|Yuli Gurriel|R|Flyout|B|Two-Seam Fastball|27|1|1|1|13|93
+David Hale|R|Yuli Gurriel|R|Flyout|B|Curveball|28|2|1|1|14|82
+David Hale|R|Yuli Gurriel|R|Flyout|X|Four-Seam Fastball|29|3|1|1|2|94
+David Hale|R|Josh Reddick|L|Single|B|Changeup|30|0|0|2|14|82
+David Hale|R|Josh Reddick|L|Single|F|Changeup|31|1|0|2|7|83
+David Hale|R|Josh Reddick|L|Single|E|Two-Seam Fastball|32|1|1|2|6|93
+David Hale|R|Robinson Chirinos|R|Single|B|Two-Seam Fastball|33|0|0|2|11|93
+David Hale|R|Robinson Chirinos|R|Single|C|Four-Seam Fastball|34|1|0|2|3|93
+David Hale|R|Robinson Chirinos|R|Single|S|Four-Seam Fastball|35|1|1|2|11|93
+David Hale|R|Robinson Chirinos|R|Single|D|Two-Seam Fastball|36|1|2|2|1|94
+David Hale|R|Tyler White|R|Forceout|B|Four-Seam Fastball|37|0|0|2|11|94
+David Hale|R|Tyler White|R|Forceout|B|Curveball|38|1|0|2|14|83
+David Hale|R|Tyler White|R|Forceout|X|Four-Seam Fastball|39|2|0|2|5|93
+David Hale|R|Jake Marisnick|R|Home Run|B|Curveball|40|0|0|0|14|82
+David Hale|R|Jake Marisnick|R|Home Run|E|Curveball|41|1|0|0|5|81
+David Hale|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|42|0|0|0|11|93
+David Hale|R|Alex Bregman|R|Walk|B|Changeup|43|1|0|0|13|81
+David Hale|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|44|2|0|0|11|92
+David Hale|R|Alex Bregman|R|Walk|B|Two-Seam Fastball|45|3|0|0|13|93
+David Hale|R|Michael Brantley|L|Flyout|B|Two-Seam Fastball|46|0|0|0|11|92
+David Hale|R|Michael Brantley|L|Flyout|C|Two-Seam Fastball|47|1|0|0|13|92
+David Hale|R|Michael Brantley|L|Flyout|X|Changeup|48|1|1|0|8|82
+David Hale|R|Jose Altuve|R|Forceout|F|Four-Seam Fastball|49|0|0|1|11|93
+David Hale|R|Jose Altuve|R|Forceout|X|Curveball|50|0|1|1|9|83
+David Hale|R|Yordan Alvarez|L|Double|C|Changeup|51|0|0|2|13|81
+David Hale|R|Yordan Alvarez|L|Double|B|Four-Seam Fastball|52|0|1|2|11|92
+David Hale|R|Yordan Alvarez|L|Double|F|Four-Seam Fastball|53|1|1|2|2|92
+David Hale|R|Yordan Alvarez|L|Double|F|Four-Seam Fastball|54|1|2|2|11|93
+David Hale|R|Yordan Alvarez|L|Double|B|Two-Seam Fastball|55|1|2|2|11|93
+David Hale|R|Yordan Alvarez|L|Double|F|Changeup|56|2|2|2|7|82
+David Hale|R|Yordan Alvarez|L|Double|E|Four-Seam Fastball|57|2|2|2|3|93
+David Hale|R|Yuli Gurriel|R|Single|F|Curveball|58|0|0|2|2|83
+David Hale|R|Yuli Gurriel|R|Single|F|Two-Seam Fastball|59|0|1|2|7|94
+David Hale|R|Yuli Gurriel|R|Single|B|Four-Seam Fastball|60|0|2|2|12|92
+David Hale|R|Yuli Gurriel|R|Single|F|Curveball|61|1|2|2|14|83
+David Hale|R|Yuli Gurriel|R|Single|F|Four-Seam Fastball|62|1|2|2|1|93
+David Hale|R|Yuli Gurriel|R|Single|*B|Changeup|63|1|2|2|13|83
+David Hale|R|Yuli Gurriel|R|Single|D|Curveball|64|2|2|2|14|84
+David Hale|R|Jose Altuve|R|Strikeout|S|Curveball|0|0|0|0|7|80
+David Hale|R|Jose Altuve|R|Strikeout|B|Curveball|1|0|1|0|14|81
+David Hale|R|Jose Altuve|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|14|94
+David Hale|R|Jose Altuve|R|Strikeout|W|Curveball|3|1|2|0|14|83
+David Hale|R|Alex Bregman|R|Lineout|B|Curveball|4|0|0|1|14|82
+David Hale|R|Alex Bregman|R|Lineout|C|Changeup|5|1|0|1|7|82
+David Hale|R|Alex Bregman|R|Lineout|F|Four-Seam Fastball|6|1|1|1|8|93
+David Hale|R|Alex Bregman|R|Lineout|F|Two-Seam Fastball|7|1|2|1|13|93
+David Hale|R|Alex Bregman|R|Lineout|X|Two-Seam Fastball|8|1|2|1|5|93
+David Hale|R|Michael Brantley|L|Walk|B|Changeup|9|0|0|2|14|82
+David Hale|R|Michael Brantley|L|Walk|B|Changeup|10|1|0|2|13|82
+David Hale|R|Michael Brantley|L|Walk|B|Changeup|11|2|0|2|13|82
+David Hale|R|Michael Brantley|L|Walk|C|Four-Seam Fastball|12|3|0|2|13|94
+David Hale|R|Michael Brantley|L|Walk|B|Two-Seam Fastball|13|3|1|2|13|93
+David Hale|R|Yordan Alvarez|L|Lineout|X|Two-Seam Fastball|14|0|0|2|8|93
+David Hale|R|Teoscar Hernandez|R|Groundout|B|Four-Seam Fastball|0|0|0|1|14|94
+David Hale|R|Teoscar Hernandez|R|Groundout|F|Curveball|1|1|0|1|2|81
+David Hale|R|Teoscar Hernandez|R|Groundout|F|Two-Seam Fastball|2|1|1|1|5|93
+David Hale|R|Teoscar Hernandez|R|Groundout|F|Two-Seam Fastball|3|1|2|1|13|92
+David Hale|R|Teoscar Hernandez|R|Groundout|B|Curveball|4|1|2|1|14|85
+David Hale|R|Teoscar Hernandez|R|Groundout|F|Four-Seam Fastball|5|2|2|1|5|95
+David Hale|R|Teoscar Hernandez|R|Groundout|F|Two-Seam Fastball|6|2|2|1|13|94
+David Hale|R|Teoscar Hernandez|R|Groundout|X|Two-Seam Fastball|7|2|2|1|13|93
+David Hale|R|Freddy Galvis|L|Groundout|C|Four-Seam Fastball|8|0|0|2|7|92
+David Hale|R|Freddy Galvis|L|Groundout|S|Changeup|9|0|1|2|14|81
+David Hale|R|Freddy Galvis|L|Groundout|X|Changeup|10|0|2|2|13|81
+David Hale|R|Brandon Drury|R|Strikeout|B|Curveball|11|0|0|0|14|81
+David Hale|R|Brandon Drury|R|Strikeout|C|Curveball|12|1|0|0|7|80
+David Hale|R|Brandon Drury|R|Strikeout|B|Two-Seam Fastball|13|1|1|0|13|92
+David Hale|R|Brandon Drury|R|Strikeout|S|Changeup|14|2|1|0|13|81
+David Hale|R|Brandon Drury|R|Strikeout|C|Four-Seam Fastball|15|2|2|0|14|94
+David Hale|R|Danny Jansen|R|Single|C|Four-Seam Fastball|16|0|0|1|8|94
+David Hale|R|Danny Jansen|R|Single|D|Two-Seam Fastball|17|0|1|1|7|92
+David Hale|R|Cavan Biggio|L|Strikeout|F|Changeup|18|0|0|1|8|82
+David Hale|R|Cavan Biggio|L|Strikeout|F|Four-Seam Fastball|19|0|1|1|2|93
+David Hale|R|Cavan Biggio|L|Strikeout|B|Changeup|20|0|2|1|13|81
+David Hale|R|Cavan Biggio|L|Strikeout|B|Changeup|21|1|2|1|14|82
+David Hale|R|Cavan Biggio|L|Strikeout|S|Changeup|22|2|2|1|3|82
+David Hale|R|Rowdy Tellez|L|Single|C|Changeup|0|0|0|2|14|80
+David Hale|R|Rowdy Tellez|L|Single|B|Four-Seam Fastball|1|0|1|2|11|93
+David Hale|R|Rowdy Tellez|L|Single|D|Four-Seam Fastball|2|1|1|2|8|94
+David Hale|R|Brandon Drury|R|Lineout|C|Curveball|3|0|0|2|9|81
+David Hale|R|Brandon Drury|R|Lineout|B|Two-Seam Fastball|4|0|1|2|11|93
+David Hale|R|Brandon Drury|R|Lineout|C|Two-Seam Fastball|5|1|1|2|4|93
+David Hale|R|Brandon Drury|R|Lineout|X|Two-Seam Fastball|6|1|2|2|11|93
+David Hale|R|Luke Maile|R|Groundout|P|Changeup|7|0|0|0|14|80
+David Hale|R|Luke Maile|R|Groundout|C|Two-Seam Fastball|8|0|1|0|11|93
+David Hale|R|Luke Maile|R|Groundout|F|Two-Seam Fastball|9|0|2|0|13|92
+David Hale|R|Luke Maile|R|Groundout|*B|Curveball|10|0|2|0|14|83
+David Hale|R|Luke Maile|R|Groundout|X|Four-Seam Fastball|11|1|2|0|12|94
+David Hale|R|Eric Sogard|L|Flyout|B|Changeup|12|0|0|1|13|82
+David Hale|R|Eric Sogard|L|Flyout|C|Changeup|13|1|0|1|8|81
+David Hale|R|Eric Sogard|L|Flyout|F|Changeup|14|1|1|1|5|81
+David Hale|R|Eric Sogard|L|Flyout|B|Four-Seam Fastball|15|1|2|1|12|94
+David Hale|R|Eric Sogard|L|Flyout|F|Four-Seam Fastball|16|2|2|1|11|94
+David Hale|R|Eric Sogard|L|Flyout|F|Changeup|17|2|2|1|11|82
+David Hale|R|Eric Sogard|L|Flyout|F|Four-Seam Fastball|18|2|2|1|14|94
+David Hale|R|Eric Sogard|L|Flyout|X|Four-Seam Fastball|19|2|2|1|5|94
+David Hale|R|Travis d'Arnaud|R|Grounded Into DP|C|Two-Seam Fastball|0|0|0|1|7|92
+David Hale|R|Travis d'Arnaud|R|Grounded Into DP|F|Two-Seam Fastball|1|0|1|1|11|92
+David Hale|R|Travis d'Arnaud|R|Grounded Into DP|B|Two-Seam Fastball|2|0|2|1|13|93
+David Hale|R|Travis d'Arnaud|R|Grounded Into DP|B|Two-Seam Fastball|3|1|2|1|13|95
+David Hale|R|Travis d'Arnaud|R|Grounded Into DP|X|Two-Seam Fastball|4|2|2|1|4|94
+David Hale|R|Tommy Pham|R|Strikeout|S|Curveball|5|0|0|0|9|80
+David Hale|R|Tommy Pham|R|Strikeout|S|Two-Seam Fastball|6|0|1|0|13|91
+David Hale|R|Tommy Pham|R|Strikeout|S|Curveball|7|0|2|0|14|81
+David Hale|R|Michael Brosseau|R|Lineout|F|Curveball|8|0|0|1|6|80
+David Hale|R|Michael Brosseau|R|Lineout|C|Two-Seam Fastball|9|0|1|1|14|93
+David Hale|R|Michael Brosseau|R|Lineout|X|Four-Seam Fastball|10|0|2|1|5|94
+David Hale|R|Yandy Diaz|R|Strikeout|F|Curveball|11|0|0|2|8|81
+David Hale|R|Yandy Diaz|R|Strikeout|C|Curveball|12|0|1|2|2|79
+David Hale|R|Yandy Diaz|R|Strikeout|S|Curveball|13|0|2|2|14|81
+David Hale|R|Avisail Garcia|R|Single|F|Four-Seam Fastball|14|0|0|0|2|91
+David Hale|R|Avisail Garcia|R|Single|D|Curveball|15|0|1|0|12|80
+David Hale|R|Austin Meadows|L|Strikeout|B|Changeup|16|0|0|0|13|80
+David Hale|R|Austin Meadows|L|Strikeout|S|Changeup|17|1|0|0|13|79
+David Hale|R|Austin Meadows|L|Strikeout|S|Four-Seam Fastball|18|1|1|0|1|93
+David Hale|R|Austin Meadows|L|Strikeout|S|Changeup|19|1|2|0|13|82
+David Hale|R|Willy Adames|R|Single|B|Curveball|20|0|0|1|14|81
+David Hale|R|Willy Adames|R|Single|F|Curveball|21|1|0|1|6|80
+David Hale|R|Willy Adames|R|Single|S|Curveball|22|1|1|1|14|80
+David Hale|R|Willy Adames|R|Single|F|Curveball|23|1|2|1|7|79
+David Hale|R|Willy Adames|R|Single|D|Four-Seam Fastball|24|1|2|1|4|93
+David Hale|R|Nate Lowe|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|93
+David Hale|R|Nate Lowe|L|Pop Out|X|Changeup|1|1|0|0|11|80
+David Hale|R|Kevin Kiermaier|L|Double|B|Changeup|2|0|0|1|13|81
+David Hale|R|Kevin Kiermaier|L|Double|B|Changeup|3|1|0|1|13|81
+David Hale|R|Kevin Kiermaier|L|Double|D|Four-Seam Fastball|4|2|0|1|8|93
+David Hale|R|Avisail Garcia|R|Strikeout|B|Two-Seam Fastball|5|0|0|1|13|93
+David Hale|R|Avisail Garcia|R|Strikeout|B|Curveball|6|1|0|1|14|82
+David Hale|R|Avisail Garcia|R|Strikeout|F|Changeup|7|2|0|1|7|80
+David Hale|R|Avisail Garcia|R|Strikeout|S|Two-Seam Fastball|8|2|1|1|7|93
+David Hale|R|Avisail Garcia|R|Strikeout|F|Curveball|9|2|2|1|14|83
+David Hale|R|Avisail Garcia|R|Strikeout|W|Curveball|10|2|2|1|14|82
+David Hale|R|Ji-Man Choi|L|Groundout|B|Changeup|11|0|0|2|13|83
+David Hale|R|Ji-Man Choi|L|Groundout|X|Four-Seam Fastball|12|1|0|2|9|93
+David Hale|R|David Dahl|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|93
+David Hale|R|David Dahl|L|Groundout|S|Four-Seam Fastball|1|1|0|0|5|93
+David Hale|R|David Dahl|L|Groundout|X|Changeup|2|1|1|0|9|84
+David Hale|R|Garrett Hampson|R|Strikeout|B|Two-Seam Fastball|3|0|0|1|11|94
+David Hale|R|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|4|1|0|1|14|94
+David Hale|R|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|5|2|0|1|13|94
+David Hale|R|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|6|2|1|1|2|93
+David Hale|R|Garrett Hampson|R|Strikeout|C|Curveball|7|2|2|1|2|83
+David Hale|R|Daniel Murphy|L|Groundout|C|Two-Seam Fastball|8|0|0|2|8|94
+David Hale|R|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|9|0|1|2|13|95
+David Hale|R|Daniel Murphy|L|Groundout|B|Changeup|10|1|1|2|13|84
+David Hale|R|Daniel Murphy|L|Groundout|B|Four-Seam Fastball|11|2|1|2|13|95
+David Hale|R|Daniel Murphy|L|Groundout|F|Two-Seam Fastball|12|3|1|2|4|94
+David Hale|R|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|13|3|2|2|7|95
+David Hale|R|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|14|3|2|2|13|95
+David Hale|R|Daniel Murphy|L|Groundout|X|Four-Seam Fastball|15|3|2|2|9|96
+David Hale|R|Ian Desmond|R|Groundout|B|Two-Seam Fastball|16|0|0|0|13|93
+David Hale|R|Ian Desmond|R|Groundout|C|Two-Seam Fastball|17|1|0|0|7|92
+David Hale|R|Ian Desmond|R|Groundout|C|Curveball|18|1|1|0|7|81
+David Hale|R|Ian Desmond|R|Groundout|X|Four-Seam Fastball|19|1|2|0|5|94
+David Hale|R|Ryan McMahon|L|Lineout|B|Four-Seam Fastball|20|0|0|1|13|95
+David Hale|R|Ryan McMahon|L|Lineout|X|Four-Seam Fastball|21|1|0|1|8|95
+David Hale|R|Raimel Tapia|L|Groundout|X|Four-Seam Fastball|22|0|0|2|3|94
+David Hale|R|Norichika Aoki|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|91
+David Hale|R|Norichika Aoki|L|Groundout|F|Two-Seam Fastball|1|0|1|0|11|91
+David Hale|R|Norichika Aoki|L|Groundout|B|Four-Seam Fastball|2|0|2|0|13|92
+David Hale|R|Norichika Aoki|L|Groundout|B|Changeup|3|1|2|0|11|81
+David Hale|R|Norichika Aoki|L|Groundout|F|Four-Seam Fastball|4|2|2|0|5|91
+David Hale|R|Norichika Aoki|L|Groundout|X|Four-Seam Fastball|5|2|2|0|8|93
+David Hale|R|Joe Panik|L|Groundout|C|Two-Seam Fastball|6|0|0|1|11|91
+David Hale|R|Joe Panik|L|Groundout|B|Two-Seam Fastball|7|0|1|1|11|93
+David Hale|R|Joe Panik|L|Groundout|X|Changeup|8|1|1|1|13|82
+David Hale|R|Buster Posey|R|Lineout|F|Four-Seam Fastball|9|0|0|2|8|92
+David Hale|R|Buster Posey|R|Lineout|B|Curveball|10|0|1|2|14|85
+David Hale|R|Buster Posey|R|Lineout|F|Four-Seam Fastball|11|1|1|2|6|91
+David Hale|R|Buster Posey|R|Lineout|B|Curveball|12|1|2|2|14|85
+David Hale|R|Buster Posey|R|Lineout|F|Four-Seam Fastball|13|2|2|2|8|93
+David Hale|R|Buster Posey|R|Lineout|B|Two-Seam Fastball|14|2|2|2|13|92
+David Hale|R|Buster Posey|R|Lineout|X|Curveball|15|3|2|2|14|83
+David Hale|R|Brandon Belt|L|Groundout|F|Four-Seam Fastball|16|0|0|0|8|91
+David Hale|R|Brandon Belt|L|Groundout|B|Two-Seam Fastball|17|0|1|0|11|90
+David Hale|R|Brandon Belt|L|Groundout|B|Four-Seam Fastball|18|1|1|0|11|91
+David Hale|R|Brandon Belt|L|Groundout|X|Four-Seam Fastball|19|2|1|0|6|91
+David Hale|R|Brandon Crawford|L|Double|B|Two-Seam Fastball|20|0|0|1|13|91
+David Hale|R|Brandon Crawford|L|Double|F|Four-Seam Fastball|21|1|0|1|5|90
+David Hale|R|Brandon Crawford|L|Double|B|Changeup|22|1|1|1|11|79
+David Hale|R|Brandon Crawford|L|Double|S|Two-Seam Fastball|23|2|1|1|4|90
+David Hale|R|Brandon Crawford|L|Double|F|Four-Seam Fastball|24|2|2|1|5|91
+David Hale|R|Brandon Crawford|L|Double|D|Curveball|25|2|2|1|4|83
+David Hale|R|Gregor Blanco|L|Groundout|B|Changeup|26|0|0|1|13|80
+David Hale|R|Gregor Blanco|L|Groundout|F|Changeup|27|1|0|1|13|81
+David Hale|R|Gregor Blanco|L|Groundout|X|Four-Seam Fastball|28|1|1|1|9|92
+David Hale|R|Justin Maxwell|R|Strikeout|B|Four-Seam Fastball|29|0|0|2|13|91
+David Hale|R|Justin Maxwell|R|Strikeout|F|Curveball|30|1|0|2|11|81
+David Hale|R|Justin Maxwell|R|Strikeout|F|Four-Seam Fastball|31|1|1|2|5|91
+David Hale|R|Justin Maxwell|R|Strikeout|B|Curveball|32|1|2|2|14|85
+David Hale|R|Justin Maxwell|R|Strikeout|S|Four-Seam Fastball|33|2|2|2|13|91
+David Hale|R|Casey McGehee|R|Groundout|F|Cutter|34|0|0|0|11|89
+David Hale|R|Casey McGehee|R|Groundout|X|Two-Seam Fastball|35|0|1|0|5|90
+David Hale|R|Yusmeiro Petit|R|Groundout|X|Four-Seam Fastball|36|0|0|1|3|89
+David Hale|R|Norichika Aoki|L|Groundout|B|Two-Seam Fastball|37|0|0|2|9|90
+David Hale|R|Norichika Aoki|L|Groundout|X|Four-Seam Fastball|38|1|0|2|6|91
+David Hale|R|Joe Panik|L|Double|B|Four-Seam Fastball|39|0|0|0|11|89
+David Hale|R|Joe Panik|L|Double|D|Changeup|40|1|0|0|8|78
+David Hale|R|Buster Posey|R|Flyout|S|Curveball|41|0|0|0|5|79
+David Hale|R|Buster Posey|R|Flyout|X|Curveball|42|0|1|0|8|81
+David Hale|R|Brandon Belt|L|Lineout|S|Two-Seam Fastball|43|0|0|1|4|90
+David Hale|R|Brandon Belt|L|Lineout|X|Four-Seam Fastball|44|0|1|1|5|91
+David Hale|R|Brandon Crawford|L|Lineout|S|Changeup|45|0|0|2|14|81
+David Hale|R|Brandon Crawford|L|Lineout|*B|Changeup|46|0|1|2|14|81
+David Hale|R|Brandon Crawford|L|Lineout|X|Changeup|47|1|1|2|13|79
+David Hale|R|Gregor Blanco|L|Pop Out|C|Two-Seam Fastball|48|0|0|0|8|89
+David Hale|R|Gregor Blanco|L|Pop Out|B|Two-Seam Fastball|49|0|1|0|11|90
+David Hale|R|Gregor Blanco|L|Pop Out|B|Two-Seam Fastball|50|1|1|0|12|89
+David Hale|R|Gregor Blanco|L|Pop Out|X|Two-Seam Fastball|51|2|1|0|5|89
+David Hale|R|Justin Maxwell|R|Single|S|Four-Seam Fastball|52|0|0|1|1|91
+David Hale|R|Justin Maxwell|R|Single|F|Four-Seam Fastball|53|0|1|1|1|90
+David Hale|R|Justin Maxwell|R|Single|F|Four-Seam Fastball|54|0|2|1|8|89
+David Hale|R|Justin Maxwell|R|Single|F|Curveball|55|0|2|1|14|82
+David Hale|R|Justin Maxwell|R|Single|B|Curveball|56|0|2|1|14|83
+David Hale|R|Justin Maxwell|R|Single|D|Four-Seam Fastball|57|1|2|1|6|90
+David Hale|R|Casey McGehee|R|Single|D|Four-Seam Fastball|58|0|0|1|5|90
+David Hale|R|Yusmeiro Petit|R|Sac Bunt|X|Cutter|59|0|0|1|2|87
+David Hale|R|Norichika Aoki|L|Single|F|Changeup|60|0|0|2|13|79
+David Hale|R|Norichika Aoki|L|Single|B|Changeup|61|0|1|2|8|77
+David Hale|R|Norichika Aoki|L|Single|F|Two-Seam Fastball|62|1|1|2|4|91
+David Hale|R|Norichika Aoki|L|Single|E|Changeup|63|1|2|2|7|80
+David Hale|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|64|0|0|0|11|89
+David Hale|R|Joe Panik|L|Groundout|B|Two-Seam Fastball|65|0|1|0|11|89
+David Hale|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|66|1|1|0|7|90
+David Hale|R|Joe Panik|L|Groundout|F|Four-Seam Fastball|67|1|2|0|5|89
+David Hale|R|Joe Panik|L|Groundout|B|Two-Seam Fastball|68|1|2|0|13|90
+David Hale|R|Joe Panik|L|Groundout|X|Four-Seam Fastball|69|2|2|0|9|90
+David Hale|R|Buster Posey|R|Single|C|Four-Seam Fastball|70|0|0|1|8|91
+David Hale|R|Buster Posey|R|Single|C|Four-Seam Fastball|71|0|1|1|9|91
+David Hale|R|Buster Posey|R|Single|D|Curveball|72|0|2|1|14|82
+David Hale|R|Brandon Belt|L|Lineout|B|Changeup|73|0|0|1|14|80
+David Hale|R|Brandon Belt|L|Lineout|B|Four-Seam Fastball|74|1|0|1|11|90
+David Hale|R|Brandon Belt|L|Lineout|F|Four-Seam Fastball|75|2|0|1|7|90
+David Hale|R|Brandon Belt|L|Lineout|X|Four-Seam Fastball|76|2|1|1|1|89
+David Hale|R|Brandon Crawford|L|Lineout|B|Changeup|77|0|0|2|13|81
+David Hale|R|Brandon Crawford|L|Lineout|C|Four-Seam Fastball|78|1|0|2|11|90
+David Hale|R|Brandon Crawford|L|Lineout|B|Cutter|79|1|1|2|11|91
+David Hale|R|Brandon Crawford|L|Lineout|X|Two-Seam Fastball|80|2|1|2|5|89
+David Hale|R|Gregor Blanco|L|Single|C|Four-Seam Fastball|81|0|0|0|7|88
+David Hale|R|Gregor Blanco|L|Single|D|Changeup|82|0|1|0|13|78
+David Hale|R|Justin Maxwell|R|Strikeout|F|Four-Seam Fastball|83|0|0|0|4|90
+David Hale|R|Justin Maxwell|R|Strikeout|B|Curveball|84|0|1|0|14|81
+David Hale|R|Justin Maxwell|R|Strikeout|S|Curveball|85|1|1|0|14|79
+David Hale|R|Justin Maxwell|R|Strikeout|S|Curveball|86|1|2|0|8|80
+David Hale|R|Casey McGehee|R|Lineout|S|Curveball|87|0|0|1|14|79
+David Hale|R|Casey McGehee|R|Lineout|F|Curveball|88|0|1|1|9|79
+David Hale|R|Casey McGehee|R|Lineout|*B|Curveball|89|0|2|1|14|79
+David Hale|R|Casey McGehee|R|Lineout|B|Four-Seam Fastball|90|1|2|1|14|90
+David Hale|R|Casey McGehee|R|Lineout|X|Curveball|91|2|2|1|6|80
+David Hale|R|Hunter Pence|R|Single|B|Four-Seam Fastball|92|0|0|2|14|89
+David Hale|R|Hunter Pence|R|Single|C|Four-Seam Fastball|93|1|0|2|6|90
+David Hale|R|Hunter Pence|R|Single|S|Four-Seam Fastball|94|1|1|2|6|90
+David Hale|R|Hunter Pence|R|Single|B|Four-Seam Fastball|95|1|2|2|14|91
+David Hale|R|Hunter Pence|R|Single|E|Four-Seam Fastball|96|2|2|2|14|90
+David Hale|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|90
+David Hale|R|Joc Pederson|L|Groundout|B|Two-Seam Fastball|1|1|0|0|13|91
+David Hale|R|Joc Pederson|L|Groundout|C|Two-Seam Fastball|2|2|0|0|6|90
+David Hale|R|Joc Pederson|L|Groundout|X|Two-Seam Fastball|3|2|1|0|7|91
+David Hale|R|Enrique Hernandez|R|Home Run|E|Four-Seam Fastball|4|0|0|1|5|91
+David Hale|R|Adrian Gonzalez|L|Flyout|B|Two-Seam Fastball|5|0|0|1|13|92
+David Hale|R|Adrian Gonzalez|L|Flyout|C|Changeup|6|1|0|1|7|81
+David Hale|R|Adrian Gonzalez|L|Flyout|F|Curveball|7|1|1|1|6|81
+David Hale|R|Adrian Gonzalez|L|Flyout|B|Curveball|8|1|2|1|14|83
+David Hale|R|Adrian Gonzalez|L|Flyout|X|Changeup|9|2|2|1|13|80
+David Hale|R|Yasmani Grandal|L|Strikeout|B|Two-Seam Fastball|10|0|0|2|13|91
+David Hale|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|11|1|0|2|11|91
+David Hale|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|12|2|0|2|5|91
+David Hale|R|Yasmani Grandal|L|Strikeout|F|Cutter|13|2|1|2|12|90
+David Hale|R|Yasmani Grandal|L|Strikeout|S|Curveball|14|2|2|2|14|82
+David Hale|R|Andre Ethier|L|Lineout|C|Changeup|15|0|0|0|11|77
+David Hale|R|Andre Ethier|L|Lineout|B|Four-Seam Fastball|16|0|1|0|12|90
+David Hale|R|Andre Ethier|L|Lineout|X|Four-Seam Fastball|17|1|1|0|6|90
+David Hale|R|Alberto Callaspo|L|Groundout|C|Four-Seam Fastball|18|0|0|1|11|91
+David Hale|R|Alberto Callaspo|L|Groundout|F|Changeup|19|0|1|1|14|80
+David Hale|R|Alberto Callaspo|L|Groundout|B|Changeup|20|0|2|1|13|79
+David Hale|R|Alberto Callaspo|L|Groundout|X|Four-Seam Fastball|21|1|2|1|4|92
+David Hale|R|Jimmy Rollins|L|Single|D|Two-Seam Fastball|22|0|0|2|13|90
+David Hale|R|Chris Heisey|R|Pop Out|S|Curveball|23|0|0|2|6|79
+David Hale|R|Chris Heisey|R|Pop Out|X|Curveball|24|0|1|2|5|80
+David Hale|R|Zack Greinke|R|Lineout|S|Curveball|25|0|0|0|14|79
+David Hale|R|Zack Greinke|R|Lineout|F|Four-Seam Fastball|26|0|1|0|13|89
+David Hale|R|Zack Greinke|R|Lineout|B|Curveball|27|0|2|0|14|79
+David Hale|R|Zack Greinke|R|Lineout|F|Curveball|28|1|2|0|5|79
+David Hale|R|Zack Greinke|R|Lineout|F|Curveball|29|1|2|0|9|80
+David Hale|R|Zack Greinke|R|Lineout|X|Four-Seam Fastball|30|1|2|0|13|90
+David Hale|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|31|0|0|1|13|90
+David Hale|R|Enrique Hernandez|R|Single|B|Curveball|32|0|0|1|14|82
+David Hale|R|Enrique Hernandez|R|Single|F|Four-Seam Fastball|33|1|0|1|11|89
+David Hale|R|Enrique Hernandez|R|Single|D|Curveball|34|1|1|1|8|79
+David Hale|R|Adrian Gonzalez|L|Home Run|*B|Four-Seam Fastball|35|0|0|1|14|91
+David Hale|R|Adrian Gonzalez|L|Home Run|B|Four-Seam Fastball|36|1|0|1|12|91
+David Hale|R|Adrian Gonzalez|L|Home Run|S|Four-Seam Fastball|37|2|0|1|14|91
+David Hale|R|Adrian Gonzalez|L|Home Run|F|Changeup|38|2|1|1|14|79
+David Hale|R|Adrian Gonzalez|L|Home Run|B|Four-Seam Fastball|39|2|2|1|14|91
+David Hale|R|Adrian Gonzalez|L|Home Run|E|Changeup|40|3|2|1|5|79
+David Hale|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|41|0|0|1|13|92
+David Hale|R|Yasmani Grandal|L|Groundout|X|Two-Seam Fastball|42|1|0|1|14|91
+David Hale|R|Andre Ethier|L|Groundout|S|Changeup|43|0|0|2|13|79
+David Hale|R|Andre Ethier|L|Groundout|X|Four-Seam Fastball|44|0|1|2|12|91
+David Hale|R|Alberto Callaspo|L|Single|B|Changeup|45|0|0|0|7|79
+David Hale|R|Alberto Callaspo|L|Single|C|Changeup|46|1|0|0|4|79
+David Hale|R|Alberto Callaspo|L|Single|S|Four-Seam Fastball|47|1|1|0|14|90
+David Hale|R|Alberto Callaspo|L|Single|F|Curveball|48|1|2|0|8|79
+David Hale|R|Alberto Callaspo|L|Single|F|Four-Seam Fastball|49|1|2|0|14|90
+David Hale|R|Alberto Callaspo|L|Single|B|Curveball|50|1|2|0|14|81
+David Hale|R|Alberto Callaspo|L|Single|D|Changeup|51|2|2|0|11|79
+David Hale|R|Jimmy Rollins|L|Strikeout|T|Four-Seam Fastball|52|0|0|0|6|91
+David Hale|R|Jimmy Rollins|L|Strikeout|S|Four-Seam Fastball|53|0|1|0|11|91
+David Hale|R|Jimmy Rollins|L|Strikeout|B|Four-Seam Fastball|54|0|2|0|11|91
+David Hale|R|Jimmy Rollins|L|Strikeout|S|Changeup|55|1|2|0|9|79
+David Hale|R|Chris Heisey|R|Strikeout|C|Four-Seam Fastball|56|0|0|1|9|91
+David Hale|R|Chris Heisey|R|Strikeout|F|Four-Seam Fastball|57|0|1|1|2|90
+David Hale|R|Chris Heisey|R|Strikeout|C|Four-Seam Fastball|58|0|2|1|13|89
+David Hale|R|Zack Greinke|R|Strikeout|C|Two-Seam Fastball|59|0|0|2|11|89
+David Hale|R|Zack Greinke|R|Strikeout|F|Changeup|60|0|1|2|7|78
+David Hale|R|Zack Greinke|R|Strikeout|B|Curveball|61|0|2|2|14|81
+David Hale|R|Zack Greinke|R|Strikeout|S|Two-Seam Fastball|62|1|2|2|1|90
+David Hale|R|Joc Pederson|L|Flyout|S|Changeup|63|0|0|0|11|76
+David Hale|R|Joc Pederson|L|Flyout|B|Changeup|64|0|1|0|13|80
+David Hale|R|Joc Pederson|L|Flyout|X|Changeup|65|1|1|0|4|78
+David Hale|R|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|66|0|0|1|14|91
+David Hale|R|Enrique Hernandez|R|Flyout|C|Curveball|67|1|0|1|9|79
+David Hale|R|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|68|1|1|1|12|91
+David Hale|R|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|69|2|1|1|11|89
+David Hale|R|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|70|3|1|1|1|89
+David Hale|R|Adrian Gonzalez|L|Strikeout|C|Curveball|71|0|0|2|7|78
+David Hale|R|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|72|0|1|2|2|91
+David Hale|R|Adrian Gonzalez|L|Strikeout|B|Curveball|73|0|2|2|14|79
+David Hale|R|Adrian Gonzalez|L|Strikeout|W|Changeup|74|1|2|2|13|80
+David Hale|R|Yasmani Grandal|L|Single|D|Four-Seam Fastball|75|0|0|0|6|90
+David Hale|R|Andre Ethier|L|Grounded Into DP|C|Four-Seam Fastball|76|0|0|0|11|90
+David Hale|R|Andre Ethier|L|Grounded Into DP|B|Four-Seam Fastball|77|0|1|0|12|90
+David Hale|R|Andre Ethier|L|Grounded Into DP|B|Changeup|78|1|1|0|14|78
+David Hale|R|Andre Ethier|L|Grounded Into DP|X|Changeup|79|2|1|0|13|78
+David Hale|R|Alberto Callaspo|L|Groundout|C|Four-Seam Fastball|80|0|0|2|11|90
+David Hale|R|Alberto Callaspo|L|Groundout|X|Four-Seam Fastball|81|0|1|2|5|90
+David Hale|R|Kolten Wong|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|90
+David Hale|R|Kolten Wong|L|Flyout|B|Two-Seam Fastball|1|1|0|0|11|92
+David Hale|R|Kolten Wong|L|Flyout|C|Four-Seam Fastball|2|2|0|0|13|92
+David Hale|R|Kolten Wong|L|Flyout|X|Changeup|3|2|1|0|13|80
+David Hale|R|Matt Carpenter|L|Lineout|C|Four-Seam Fastball|4|0|0|1|5|91
+David Hale|R|Matt Carpenter|L|Lineout|X|Two-Seam Fastball|5|0|1|1|5|92
+David Hale|R|Matt Holliday|R|Groundout|B|Four-Seam Fastball|6|0|0|2|13|92
+David Hale|R|Matt Holliday|R|Groundout|X|Two-Seam Fastball|7|1|0|2|13|92
+David Hale|R|Jhonny Peralta|R|Strikeout|C|Two-Seam Fastball|8|0|0|0|14|90
+David Hale|R|Jhonny Peralta|R|Strikeout|B|Curveball|9|0|1|0|14|81
+David Hale|R|Jhonny Peralta|R|Strikeout|B|Four-Seam Fastball|10|1|1|0|14|90
+David Hale|R|Jhonny Peralta|R|Strikeout|S|Changeup|11|2|1|0|8|79
+David Hale|R|Jhonny Peralta|R|Strikeout|S|Changeup|12|2|2|0|4|79
+David Hale|R|Mark Reynolds|R|Strikeout|F|Four-Seam Fastball|13|0|0|1|8|92
+David Hale|R|Mark Reynolds|R|Strikeout|S|Four-Seam Fastball|14|0|1|1|11|91
+David Hale|R|Mark Reynolds|R|Strikeout|S|Curveball|15|0|2|1|14|81
+David Hale|R|Randal Grichuk|R|Strikeout|B|Four-Seam Fastball|16|0|0|2|14|91
+David Hale|R|Randal Grichuk|R|Strikeout|F|Curveball|17|1|0|2|14|80
+David Hale|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|18|1|1|2|14|92
+David Hale|R|Randal Grichuk|R|Strikeout|B|Curveball|19|1|2|2|14|82
+David Hale|R|Randal Grichuk|R|Strikeout|S|Four-Seam Fastball|20|2|2|2|1|91
+David Hale|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|21|0|0|0|14|89
+David Hale|R|Yadier Molina|R|Groundout|X|Changeup|22|1|0|0|4|79
+David Hale|R|Jason Heyward|L|Strikeout|C|Changeup|23|0|0|1|8|78
+David Hale|R|Jason Heyward|L|Strikeout|B|Two-Seam Fastball|24|0|1|1|12|91
+David Hale|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|25|1|1|1|12|92
+David Hale|R|Jason Heyward|L|Strikeout|F|Four-Seam Fastball|26|2|1|1|8|90
+David Hale|R|Jason Heyward|L|Strikeout|F|Changeup|27|2|2|1|5|78
+David Hale|R|Jason Heyward|L|Strikeout|B|Curveball|28|2|2|1|14|81
+David Hale|R|Jason Heyward|L|Strikeout|C|Four-Seam Fastball|29|3|2|1|3|91
+David Hale|R|John Lackey|R|Flyout|X|Two-Seam Fastball|30|0|0|2|1|91
+David Hale|R|Kolten Wong|L|Home Run|C|Changeup|31|0|0|0|9|76
+David Hale|R|Kolten Wong|L|Home Run|E|Changeup|32|0|1|0|4|79
+David Hale|R|Matt Carpenter|L|Groundout|C|Two-Seam Fastball|33|0|0|0|13|92
+David Hale|R|Matt Carpenter|L|Groundout|B|Curveball|34|0|1|0|14|81
+David Hale|R|Matt Carpenter|L|Groundout|F|Two-Seam Fastball|35|1|1|0|8|90
+David Hale|R|Matt Carpenter|L|Groundout|X|Curveball|36|1|2|0|13|79
+David Hale|R|Jon Jay|L|Hit By Pitch|C|Two-Seam Fastball|37|0|0|1|3|91
+David Hale|R|Jon Jay|L|Hit By Pitch|S|Curveball|38|0|1|1|4|79
+David Hale|R|Jon Jay|L|Hit By Pitch|H|Two-Seam Fastball|39|0|2|1|14|92
+David Hale|R|Jhonny Peralta|R|Strikeout|F|Four-Seam Fastball|40|0|0|1|9|92
+David Hale|R|Jhonny Peralta|R|Strikeout|F|Two-Seam Fastball|41|0|1|1|9|90
+David Hale|R|Jhonny Peralta|R|Strikeout|B|Curveball|42|0|2|1|14|82
+David Hale|R|Jhonny Peralta|R|Strikeout|S|Changeup|43|1|2|1|14|79
+David Hale|R|Mark Reynolds|R|Groundout|*B|Two-Seam Fastball|44|0|0|2|13|91
+David Hale|R|Mark Reynolds|R|Groundout|X|Four-Seam Fastball|45|1|0|2|7|90
+David Hale|R|Randal Grichuk|R|Lineout|C|Four-Seam Fastball|46|0|0|0|3|89
+David Hale|R|Randal Grichuk|R|Lineout|B|Curveball|47|0|1|0|14|80
+David Hale|R|Randal Grichuk|R|Lineout|X|Four-Seam Fastball|48|1|1|0|4|89
+David Hale|R|Yadier Molina|R|Double|F|Curveball|49|0|0|1|6|79
+David Hale|R|Yadier Molina|R|Double|B|Curveball|50|0|1|1|14|82
+David Hale|R|Yadier Molina|R|Double|B|Curveball|51|1|1|1|14|80
+David Hale|R|Yadier Molina|R|Double|D|Changeup|52|2|1|1|7|79
+David Hale|R|Jason Heyward|L|Single|B|Four-Seam Fastball|53|0|0|1|12|92
+David Hale|R|Jason Heyward|L|Single|B|Four-Seam Fastball|54|1|0|1|12|91
+David Hale|R|Jason Heyward|L|Single|D|Four-Seam Fastball|55|2|0|1|11|91
+David Hale|R|Ed Easley|R|Sac Fly|F|Four-Seam Fastball|56|0|0|1|8|91
+David Hale|R|Ed Easley|R|Sac Fly|E|Two-Seam Fastball|57|0|1|1|8|90
+David Hale|R|Kolten Wong|L|Strikeout|F|Two-Seam Fastball|58|0|0|2|4|91
+David Hale|R|Kolten Wong|L|Strikeout|S|Four-Seam Fastball|59|0|1|2|12|91
+David Hale|R|Kolten Wong|L|Strikeout|S|Four-Seam Fastball|60|0|2|2|11|91
+David Hale|R|Matt Carpenter|L|Flyout|B|Changeup|61|0|0|0|11|76
+David Hale|R|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|62|1|0|0|5|91
+David Hale|R|Jon Jay|L|Home Run|C|Two-Seam Fastball|63|0|0|1|4|90
+David Hale|R|Jon Jay|L|Home Run|E|Changeup|64|0|1|1|4|78
+David Hale|R|Jhonny Peralta|R|Groundout|B|Four-Seam Fastball|65|0|0|1|14|91
+David Hale|R|Jhonny Peralta|R|Groundout|C|Four-Seam Fastball|66|1|0|1|9|92
+David Hale|R|Jhonny Peralta|R|Groundout|B|Changeup|67|1|1|1|14|82
+David Hale|R|Jhonny Peralta|R|Groundout|X|Two-Seam Fastball|68|2|1|1|11|91
+David Hale|R|Mark Reynolds|R|Single|F|Curveball|69|0|0|2|8|81
+David Hale|R|Mark Reynolds|R|Single|B|Curveball|70|0|1|2|14|82
+David Hale|R|Mark Reynolds|R|Single|B|Four-Seam Fastball|71|1|1|2|11|90
+David Hale|R|Mark Reynolds|R|Single|D|Four-Seam Fastball|72|2|1|2|4|90
+David Hale|R|Randal Grichuk|R|Strikeout|B|Two-Seam Fastball|73|0|0|2|13|91
+David Hale|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|74|1|0|2|6|91
+David Hale|R|Randal Grichuk|R|Strikeout|B|Two-Seam Fastball|75|1|1|2|13|92
+David Hale|R|Randal Grichuk|R|Strikeout|C|Curveball|76|2|1|2|14|80
+David Hale|R|Randal Grichuk|R|Strikeout|F|Curveball|77|2|2|2|6|80
+David Hale|R|Randal Grichuk|R|Strikeout|B|Curveball|78|2|2|2|14|82
+David Hale|R|Randal Grichuk|R|Strikeout|F|Curveball|79|3|2|2|3|80
+David Hale|R|Randal Grichuk|R|Strikeout|S|Four-Seam Fastball|80|3|2|2|14|91
+David Hale|R|Pete Kozma|R|Flyout|B|Two-Seam Fastball|81|0|0|0|11|90
+David Hale|R|Pete Kozma|R|Flyout|F|Two-Seam Fastball|82|1|0|0|6|90
+David Hale|R|Pete Kozma|R|Flyout|B|Curveball|83|1|1|0|14|80
+David Hale|R|Pete Kozma|R|Flyout|F|Four-Seam Fastball|84|2|1|0|5|91
+David Hale|R|Pete Kozma|R|Flyout|X|Four-Seam Fastball|85|2|2|0|4|91
+David Hale|R|Jason Heyward|L|Single|B|Changeup|86|0|0|1|14|79
+David Hale|R|Jason Heyward|L|Single|C|Four-Seam Fastball|87|1|0|1|6|91
+David Hale|R|Jason Heyward|L|Single|D|Four-Seam Fastball|88|1|1|1|14|91
+David Hale|R|Ed Easley|R|Grounded Into DP|X|Four-Seam Fastball|89|0|0|1|2|90
+David Hale|R|Dee Gordon|L|Single|F|Four-Seam Fastball|0|0|0|0|4|89
+David Hale|R|Dee Gordon|L|Single|D|Four-Seam Fastball|1|0|1|0|5|90
+David Hale|R|Martin Prado|R|Walk|C|Four-Seam Fastball|2|0|0|0|8|90
+David Hale|R|Martin Prado|R|Walk|P|Pitchout|3|0|1|0|12|85
+David Hale|R|Martin Prado|R|Walk|B|Curveball|4|0|2|0|14|79
+David Hale|R|Martin Prado|R|Walk|F|Curveball|5|1|2|0|9|78
+David Hale|R|Martin Prado|R|Walk|B|Four-Seam Fastball|6|1|2|0|13|89
+David Hale|R|Martin Prado|R|Walk|B|Two-Seam Fastball|7|2|2|0|13|90
+David Hale|R|Christian Yelich|L|Forceout|C|Four-Seam Fastball|8|0|0|0|14|90
+David Hale|R|Christian Yelich|L|Forceout|X|Four-Seam Fastball|9|0|1|0|6|90
+David Hale|R|Giancarlo Stanton|R|Double|B|Curveball|10|0|0|1|14|81
+David Hale|R|Giancarlo Stanton|R|Double|E|Two-Seam Fastball|11|1|0|1|13|89
+David Hale|R|Marcell Ozuna|R|Groundout|C|Two-Seam Fastball|12|0|0|1|8|89
+David Hale|R|Marcell Ozuna|R|Groundout|X|Four-Seam Fastball|13|0|1|1|11|90
+David Hale|R|Justin Bour|L|Intent Walk|B|Changeup|14|0|0|2|13|78
+David Hale|R|Justin Bour|L|Intent Walk|B|Changeup|15|1|0|2|13|78
+David Hale|R|Justin Bour|L|Intent Walk|I|Intentional Ball|16|2|0|2|11|76
+David Hale|R|Justin Bour|L|Intent Walk|I|Intentional Ball|17|2|1|2|11|75
+David Hale|R|Jeff Mathis|R|Forceout|B|Four-Seam Fastball|18|0|0|2|12|88
+David Hale|R|Jeff Mathis|R|Forceout|B|Two-Seam Fastball|19|1|0|2|11|88
+David Hale|R|Jeff Mathis|R|Forceout|F|Two-Seam Fastball|20|2|0|2|7|89
+David Hale|R|Jeff Mathis|R|Forceout|X|Two-Seam Fastball|21|2|1|2|1|89
+David Hale|R|Adeiny Hechavarria|R|Groundout|B|Four-Seam Fastball|22|0|0|0|14|88
+David Hale|R|Adeiny Hechavarria|R|Groundout|C|Changeup|23|1|0|0|11|78
+David Hale|R|Adeiny Hechavarria|R|Groundout|F|Changeup|24|1|1|0|13|78
+David Hale|R|Adeiny Hechavarria|R|Groundout|B|Curveball|25|1|2|0|12|79
+David Hale|R|Adeiny Hechavarria|R|Groundout|F|Four-Seam Fastball|26|2|2|0|9|91
+David Hale|R|Adeiny Hechavarria|R|Groundout|F|Four-Seam Fastball|27|2|2|0|12|90
+David Hale|R|Adeiny Hechavarria|R|Groundout|X|Two-Seam Fastball|28|2|2|0|11|89
+David Hale|R|Mat Latos|R|Groundout|X|Four-Seam Fastball|29|0|0|1|1|88
+David Hale|R|Dee Gordon|L|Groundout|C|Four-Seam Fastball|30|0|0|2|5|89
+David Hale|R|Dee Gordon|L|Groundout|B|Changeup|31|0|1|2|13|79
+David Hale|R|Dee Gordon|L|Groundout|F|Changeup|32|1|1|2|4|79
+David Hale|R|Dee Gordon|L|Groundout|F|Changeup|33|1|2|2|13|77
+David Hale|R|Dee Gordon|L|Groundout|X|Four-Seam Fastball|34|1|2|2|14|90
+David Hale|R|Martin Prado|R|Strikeout|C|Four-Seam Fastball|35|0|0|0|2|89
+David Hale|R|Martin Prado|R|Strikeout|F|Four-Seam Fastball|36|0|1|0|12|88
+David Hale|R|Martin Prado|R|Strikeout|B|Curveball|37|0|2|0|14|80
+David Hale|R|Martin Prado|R|Strikeout|B|Changeup|38|1|2|0|13|77
+David Hale|R|Martin Prado|R|Strikeout|S|Changeup|39|2|2|0|14|78
+David Hale|R|Christian Yelich|L|Strikeout|C|Curveball|40|0|0|1|9|77
+David Hale|R|Christian Yelich|L|Strikeout|F|Changeup|41|0|1|1|13|77
+David Hale|R|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|42|0|2|1|12|90
+David Hale|R|Christian Yelich|L|Strikeout|B|Changeup|43|1|2|1|13|79
+David Hale|R|Christian Yelich|L|Strikeout|B|Four-Seam Fastball|44|2|2|1|14|90
+David Hale|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|45|3|2|1|1|89
+David Hale|R|Christian Yelich|L|Strikeout|C|Two-Seam Fastball|46|3|2|1|1|89
+David Hale|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|47|0|0|2|14|90
+David Hale|R|Giancarlo Stanton|R|Walk|B|Changeup|48|1|0|2|13|80
+David Hale|R|Giancarlo Stanton|R|Walk|B|Changeup|49|2|0|2|13|80
+David Hale|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|50|3|0|2|14|89
+David Hale|R|Marcell Ozuna|R|Forceout|B|Curveball|51|0|0|2|14|80
+David Hale|R|Marcell Ozuna|R|Forceout|X|Two-Seam Fastball|52|1|0|2|11|88
+David Hale|R|Justin Bour|L|Strikeout|C|Four-Seam Fastball|53|0|0|0|5|89
+David Hale|R|Justin Bour|L|Strikeout|B|Four-Seam Fastball|54|0|1|0|12|87
+David Hale|R|Justin Bour|L|Strikeout|B|Changeup|55|1|1|0|11|77
+David Hale|R|Justin Bour|L|Strikeout|S|Changeup|56|2|1|0|7|78
+David Hale|R|Justin Bour|L|Strikeout|F|Four-Seam Fastball|57|2|2|0|14|89
+David Hale|R|Justin Bour|L|Strikeout|F|Changeup|58|2|2|0|13|78
+David Hale|R|Justin Bour|L|Strikeout|F|Changeup|59|2|2|0|5|78
+David Hale|R|Justin Bour|L|Strikeout|B|Four-Seam Fastball|60|2|2|0|14|89
+David Hale|R|Justin Bour|L|Strikeout|F|Changeup|61|3|2|0|13|79
+David Hale|R|Justin Bour|L|Strikeout|T|Four-Seam Fastball|62|3|2|0|1|90
+David Hale|R|Jeff Mathis|R|Groundout|X|Four-Seam Fastball|63|0|0|1|2|89
+David Hale|R|Adeiny Hechavarria|R|Flyout|S|Curveball|64|0|0|2|6|79
+David Hale|R|Adeiny Hechavarria|R|Flyout|X|Curveball|65|0|1|2|8|79
+David Hale|R|Mat Latos|R|Strikeout|C|Four-Seam Fastball|66|0|0|0|8|88
+David Hale|R|Mat Latos|R|Strikeout|B|Changeup|67|0|1|0|13|85
+David Hale|R|Mat Latos|R|Strikeout|S|Four-Seam Fastball|68|1|1|0|14|89
+David Hale|R|Mat Latos|R|Strikeout|S|Curveball|69|1|2|0|14|79
+David Hale|R|Dee Gordon|L|Strikeout|C|Changeup|70|0|0|1|7|77
+David Hale|R|Dee Gordon|L|Strikeout|B|Changeup|71|0|1|1|13|77
+David Hale|R|Dee Gordon|L|Strikeout|B|Changeup|72|1|1|1|14|77
+David Hale|R|Dee Gordon|L|Strikeout|F|Two-Seam Fastball|73|2|1|1|14|89
+David Hale|R|Dee Gordon|L|Strikeout|B|Changeup|74|2|2|1|13|77
+David Hale|R|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|75|3|2|1|2|89
+David Hale|R|Martin Prado|R|Lineout|B|Curveball|76|0|0|2|14|79
+David Hale|R|Martin Prado|R|Lineout|F|Four-Seam Fastball|77|1|0|2|8|90
+David Hale|R|Martin Prado|R|Lineout|X|Four-Seam Fastball|78|1|1|2|5|90
+David Hale|R|Christian Yelich|L|Single|B|Changeup|79|0|0|0|13|77
+David Hale|R|Christian Yelich|L|Single|C|Four-Seam Fastball|80|1|0|0|6|88
+David Hale|R|Christian Yelich|L|Single|D|Changeup|81|1|1|0|9|78
+David Hale|R|Giancarlo Stanton|R|Home Run|B|Four-Seam Fastball|82|0|0|0|14|89
+David Hale|R|Giancarlo Stanton|R|Home Run|B|Changeup|83|1|0|0|13|77
+David Hale|R|Giancarlo Stanton|R|Home Run|S|Changeup|84|2|0|0|13|76
+David Hale|R|Giancarlo Stanton|R|Home Run|F|Changeup|85|2|1|0|14|76
+David Hale|R|Giancarlo Stanton|R|Home Run|E|Changeup|86|2|2|0|13|77
+David Hale|R|Marcell Ozuna|R|Pop Out|C|Four-Seam Fastball|87|0|0|0|13|90
+David Hale|R|Marcell Ozuna|R|Pop Out|B|Four-Seam Fastball|88|0|1|0|14|89
+David Hale|R|Marcell Ozuna|R|Pop Out|B|Four-Seam Fastball|89|1|1|0|14|90
+David Hale|R|Marcell Ozuna|R|Pop Out|X|Four-Seam Fastball|90|2|1|0|8|90
+David Hale|R|Justin Bour|L|Groundout|B|Four-Seam Fastball|91|0|0|1|14|90
+David Hale|R|Justin Bour|L|Groundout|B|Four-Seam Fastball|92|1|0|1|14|90
+David Hale|R|Justin Bour|L|Groundout|C|Changeup|93|2|0|1|13|78
+David Hale|R|Justin Bour|L|Groundout|S|Changeup|94|2|1|1|13|79
+David Hale|R|Justin Bour|L|Groundout|B|Four-Seam Fastball|95|2|2|1|12|89
+David Hale|R|Justin Bour|L|Groundout|X|Two-Seam Fastball|96|3|2|1|13|89
+David Hale|R|Jeff Mathis|R|Flyout|B|Four-Seam Fastball|97|0|0|2|14|90
+David Hale|R|Jeff Mathis|R|Flyout|F|Four-Seam Fastball|98|1|0|2|13|88
+David Hale|R|Jeff Mathis|R|Flyout|X|Two-Seam Fastball|99|1|1|2|11|88
+David Hale|R|George Springer|R|Single|F|Four-Seam Fastball|0|0|0|0|4|90
+David Hale|R|George Springer|R|Single|B|Two-Seam Fastball|1|0|1|0|13|91
+David Hale|R|George Springer|R|Single|B|Four-Seam Fastball|2|1|1|0|14|91
+David Hale|R|George Springer|R|Single|F|Four-Seam Fastball|3|2|1|0|5|91
+David Hale|R|George Springer|R|Single|D|Two-Seam Fastball|4|2|2|0|4|92
+David Hale|R|Carlos Correa|R|Grounded Into DP|B|Four-Seam Fastball|5|0|0|0|14|92
+David Hale|R|Carlos Correa|R|Grounded Into DP|C|Four-Seam Fastball|6|1|0|0|5|91
+David Hale|R|Carlos Correa|R|Grounded Into DP|X|Changeup|7|1|1|0|8|79
+David Hale|R|Preston Tucker|L|Home Run|C|Two-Seam Fastball|8|0|0|2|13|92
+David Hale|R|Preston Tucker|L|Home Run|F|Four-Seam Fastball|9|0|1|2|4|90
+David Hale|R|Preston Tucker|L|Home Run|E|Four-Seam Fastball|10|0|2|2|12|91
+David Hale|R|Chris Carter|R|Strikeout|B|Two-Seam Fastball|11|0|0|2|13|91
+David Hale|R|Chris Carter|R|Strikeout|F|Two-Seam Fastball|12|1|0|2|5|90
+David Hale|R|Chris Carter|R|Strikeout|C|Four-Seam Fastball|13|1|1|2|11|88
+David Hale|R|Chris Carter|R|Strikeout|F|Curveball|14|1|2|2|4|81
+David Hale|R|Chris Carter|R|Strikeout|B|Curveball|15|1|2|2|14|82
+David Hale|R|Chris Carter|R|Strikeout|F|Four-Seam Fastball|16|2|2|2|13|90
+David Hale|R|Chris Carter|R|Strikeout|S|Curveball|17|2|2|2|14|83
+David Hale|R|Luis Valbuena|L|Strikeout|C|Four-Seam Fastball|18|0|0|0|8|89
+David Hale|R|Luis Valbuena|L|Strikeout|B|Two-Seam Fastball|19|0|1|0|13|90
+David Hale|R|Luis Valbuena|L|Strikeout|B|Two-Seam Fastball|20|1|1|0|13|90
+David Hale|R|Luis Valbuena|L|Strikeout|F|Two-Seam Fastball|21|2|1|0|8|90
+David Hale|R|Luis Valbuena|L|Strikeout|F|Four-Seam Fastball|22|2|2|0|7|91
+David Hale|R|Luis Valbuena|L|Strikeout|S|Curveball|23|2|2|0|14|82
+David Hale|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|24|0|0|1|13|89
+David Hale|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|25|1|0|1|7|91
+David Hale|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|26|1|1|1|13|90
+David Hale|R|Jason Castro|L|Strikeout|S|Changeup|27|2|1|1|13|80
+David Hale|R|Jason Castro|L|Strikeout|S|Changeup|28|2|2|1|8|78
+David Hale|R|Jake Marisnick|R|Single|B|Two-Seam Fastball|29|0|0|2|13|90
+David Hale|R|Jake Marisnick|R|Single|D|Four-Seam Fastball|30|1|0|2|8|90
+David Hale|R|Marwin Gonzalez|L|Pop Out|X|Two-Seam Fastball|31|0|0|2|13|90
+David Hale|R|Collin McHugh|R|Single|C|Four-Seam Fastball|32|0|0|0|13|89
+David Hale|R|Collin McHugh|R|Single|B|Four-Seam Fastball|33|0|1|0|14|90
+David Hale|R|Collin McHugh|R|Single|D|Four-Seam Fastball|34|1|1|0|1|90
+David Hale|R|George Springer|R|Single|S|Four-Seam Fastball|35|0|0|0|5|91
+David Hale|R|George Springer|R|Single|B|Four-Seam Fastball|36|0|1|0|6|91
+David Hale|R|George Springer|R|Single|C|Four-Seam Fastball|37|1|1|0|8|91
+David Hale|R|George Springer|R|Single|D|Two-Seam Fastball|38|1|2|0|9|91
+David Hale|R|Carlos Correa|R|Forceout|C|Curveball|39|0|0|0|7|81
+David Hale|R|Carlos Correa|R|Forceout|B|Curveball|40|0|1|0|14|83
+David Hale|R|Carlos Correa|R|Forceout|B|Two-Seam Fastball|41|1|1|0|14|90
+David Hale|R|Carlos Correa|R|Forceout|X|Changeup|42|2|1|0|14|81
+David Hale|R|Preston Tucker|L|Groundout|B|Two-Seam Fastball|43|0|0|1|13|91
+David Hale|R|Preston Tucker|L|Groundout|C|Two-Seam Fastball|44|1|0|1|13|91
+David Hale|R|Preston Tucker|L|Groundout|E|Two-Seam Fastball|45|1|1|1|14|91
+David Hale|R|Chris Carter|R|Single|B|Four-Seam Fastball|46|0|0|2|13|88
+David Hale|R|Chris Carter|R|Single|F|Two-Seam Fastball|47|1|0|2|13|89
+David Hale|R|Chris Carter|R|Single|B|Two-Seam Fastball|48|1|1|2|11|89
+David Hale|R|Chris Carter|R|Single|E|Two-Seam Fastball|49|2|1|2|13|89
+David Hale|R|Luis Valbuena|L|Strikeout|S|Four-Seam Fastball|50|0|0|2|5|88
+David Hale|R|Luis Valbuena|L|Strikeout|B|Four-Seam Fastball|51|0|1|2|13|89
+David Hale|R|Luis Valbuena|L|Strikeout|B|Two-Seam Fastball|52|1|1|2|14|90
+David Hale|R|Luis Valbuena|L|Strikeout|F|Two-Seam Fastball|53|2|1|2|5|90
+David Hale|R|Luis Valbuena|L|Strikeout|S|Curveball|54|2|2|2|14|81
+David Hale|R|Jason Castro|L|Strikeout|S|Changeup|55|0|0|0|13|78
+David Hale|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|56|0|1|0|2|90
+David Hale|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|57|0|2|0|11|90
+David Hale|R|Jason Castro|L|Strikeout|B|Curveball|58|1|2|0|14|81
+David Hale|R|Jason Castro|L|Strikeout|W|Changeup|59|2|2|0|13|81
+David Hale|R|Jake Marisnick|R|Strikeout|C|Curveball|60|0|0|1|8|82
+David Hale|R|Jake Marisnick|R|Strikeout|S|Curveball|61|0|1|1|7|80
+David Hale|R|Jake Marisnick|R|Strikeout|B|Curveball|62|0|2|1|14|80
+David Hale|R|Jake Marisnick|R|Strikeout|W|Two-Seam Fastball|63|1|2|1|13|89
+David Hale|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|64|0|0|2|14|89
+David Hale|R|Marwin Gonzalez|L|Single|S|Changeup|65|1|0|2|13|80
+David Hale|R|Marwin Gonzalez|L|Single|D|Four-Seam Fastball|66|1|1|2|3|90
+David Hale|R|Collin McHugh|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|4|89
+David Hale|R|Collin McHugh|R|Strikeout|C|Curveball|68|0|1|2|13|80
+David Hale|R|Collin McHugh|R|Strikeout|B|Curveball|69|0|2|2|14|80
+David Hale|R|Collin McHugh|R|Strikeout|B|Curveball|70|1|2|2|14|81
+David Hale|R|Collin McHugh|R|Strikeout|S|Two-Seam Fastball|71|2|2|2|13|89
+David Hale|R|George Springer|R|Flyout|X|Curveball|72|0|0|0|4|80
+David Hale|R|Carlos Correa|R|Walk|B|Two-Seam Fastball|73|0|0|1|11|89
+David Hale|R|Carlos Correa|R|Walk|B|Changeup|74|1|0|1|13|77
+David Hale|R|Carlos Correa|R|Walk|C|Two-Seam Fastball|75|2|0|1|7|89
+David Hale|R|Carlos Correa|R|Walk|B|Two-Seam Fastball|76|2|1|1|11|88
+David Hale|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|77|3|1|1|2|89
+David Hale|R|Preston Tucker|L|Double|P|Pitchout|78|0|0|1|11|81
+David Hale|R|Preston Tucker|L|Double|B|Two-Seam Fastball|79|0|1|1|14|89
+David Hale|R|Preston Tucker|L|Double|*B|Changeup|80|1|1|1|14|81
+David Hale|R|Preston Tucker|L|Double|E|Four-Seam Fastball|81|2|1|1|7|90
+David Hale|R|Chris Carter|R|Double|E|Four-Seam Fastball|82|0|0|1|7|88
+David Hale|R|Luis Valbuena|L|Single|F|Changeup|83|0|0|1|5|79
+David Hale|R|Luis Valbuena|L|Single|F|Curveball|84|0|1|1|14|78
+David Hale|R|Luis Valbuena|L|Single|D|Curveball|85|0|2|1|4|78
+David Hale|R|Jason Castro|L|Strikeout|C|Two-Seam Fastball|86|0|0|1|8|89
+David Hale|R|Jason Castro|L|Strikeout|F|Changeup|87|0|1|1|13|79
+David Hale|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|88|0|2|1|4|90
+David Hale|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|89|0|2|1|11|89
+David Hale|R|Jason Castro|L|Strikeout|*B|Changeup|90|1|2|1|13|79
+David Hale|R|Jason Castro|L|Strikeout|S|Changeup|91|2|2|1|13|78
+David Hale|R|Jake Marisnick|R|Strikeout|B|Curveball|92|0|0|2|12|79
+David Hale|R|Jake Marisnick|R|Strikeout|S|Curveball|93|1|0|2|7|80
+David Hale|R|Jake Marisnick|R|Strikeout|T|Four-Seam Fastball|94|1|1|2|11|89
+David Hale|R|Jake Marisnick|R|Strikeout|S|Curveball|95|1|2|2|14|81
+David Hale|R|A.J. Pollock|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|89
+David Hale|R|A.J. Pollock|R|Groundout|S|Changeup|1|0|1|0|13|80
+David Hale|R|A.J. Pollock|R|Groundout|B|Changeup|2|0|2|0|14|80
+David Hale|R|A.J. Pollock|R|Groundout|X|Changeup|3|1|2|0|8|79
+David Hale|R|David Peralta|L|Groundout|X|Two-Seam Fastball|4|0|0|1|13|90
+David Hale|R|Paul Goldschmidt|R|Groundout|C|Four-Seam Fastball|5|0|0|2|9|91
+David Hale|R|Paul Goldschmidt|R|Groundout|F|Four-Seam Fastball|6|0|1|2|5|91
+David Hale|R|Paul Goldschmidt|R|Groundout|X|Curveball|7|0|2|2|9|83
+David Hale|R|Yasmany Tomas|R|Groundout|C|Four-Seam Fastball|8|0|0|0|4|90
+David Hale|R|Yasmany Tomas|R|Groundout|B|Curveball|9|0|1|0|14|80
+David Hale|R|Yasmany Tomas|R|Groundout|B|Two-Seam Fastball|10|1|1|0|14|91
+David Hale|R|Yasmany Tomas|R|Groundout|B|Four-Seam Fastball|11|2|1|0|14|91
+David Hale|R|Yasmany Tomas|R|Groundout|X|Four-Seam Fastball|12|3|1|0|4|90
+David Hale|R|Jake Lamb|L|Strikeout|B|Two-Seam Fastball|13|0|0|1|13|91
+David Hale|R|Jake Lamb|L|Strikeout|C|Changeup|14|1|0|1|8|80
+David Hale|R|Jake Lamb|L|Strikeout|B|Two-Seam Fastball|15|1|1|1|12|90
+David Hale|R|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|16|2|1|1|1|90
+David Hale|R|Jake Lamb|L|Strikeout|F|Curveball|17|2|2|1|9|80
+David Hale|R|Jake Lamb|L|Strikeout|B|Curveball|18|2|2|1|14|81
+David Hale|R|Jake Lamb|L|Strikeout|T|Four-Seam Fastball|19|3|2|1|1|90
+David Hale|R|Chris Owings|R|Walk|B|Four-Seam Fastball|20|0|0|2|14|90
+David Hale|R|Chris Owings|R|Walk|B|Changeup|21|1|0|2|14|81
+David Hale|R|Chris Owings|R|Walk|F|Four-Seam Fastball|22|2|0|2|8|91
+David Hale|R|Chris Owings|R|Walk|B|Two-Seam Fastball|23|2|1|2|14|92
+David Hale|R|Chris Owings|R|Walk|B|Four-Seam Fastball|24|3|1|2|14|91
+David Hale|R|Jarrod Saltalamacchia|L|Forceout|C|Changeup|25|0|0|2|5|79
+David Hale|R|Jarrod Saltalamacchia|L|Forceout|B|Two-Seam Fastball|26|0|1|2|14|91
+David Hale|R|Jarrod Saltalamacchia|L|Forceout|X|Two-Seam Fastball|27|1|1|2|14|91
+David Hale|R|Nick Ahmed|R|Single|C|Four-Seam Fastball|28|0|0|0|9|91
+David Hale|R|Nick Ahmed|R|Single|B|Four-Seam Fastball|29|0|1|0|14|91
+David Hale|R|Nick Ahmed|R|Single|S|Changeup|30|1|1|0|13|79
+David Hale|R|Nick Ahmed|R|Single|B|Changeup|31|1|2|0|14|79
+David Hale|R|Nick Ahmed|R|Single|D|Two-Seam Fastball|32|2|2|0|6|90
+David Hale|R|Allen Webster|R|Bunt Pop Out|X|Four-Seam Fastball|33|0|0|0|12|89
+David Hale|R|A.J. Pollock|R|Forceout|X|Four-Seam Fastball|34|0|0|1|13|91
+David Hale|R|David Peralta|L|Flyout|B|Four-Seam Fastball|35|0|0|2|13|90
+David Hale|R|David Peralta|L|Flyout|X|Four-Seam Fastball|36|1|0|2|9|90
+David Hale|R|Paul Goldschmidt|R|Lineout|C|Two-Seam Fastball|37|0|0|0|13|90
+David Hale|R|Paul Goldschmidt|R|Lineout|B|Changeup|38|0|1|0|14|78
+David Hale|R|Paul Goldschmidt|R|Lineout|X|Four-Seam Fastball|39|1|1|0|9|91
+David Hale|R|Yasmany Tomas|R|Double|B|Four-Seam Fastball|40|0|0|1|14|91
+David Hale|R|Yasmany Tomas|R|Double|D|Four-Seam Fastball|41|1|0|1|2|91
+David Hale|R|Jake Lamb|L|Double|B|Changeup|42|0|0|1|14|78
+David Hale|R|Jake Lamb|L|Double|E|Two-Seam Fastball|43|1|0|1|11|90
+David Hale|R|Chris Owings|R|Double|S|Changeup|44|0|0|1|7|78
+David Hale|R|Chris Owings|R|Double|C|Four-Seam Fastball|45|0|1|1|8|92
+David Hale|R|Chris Owings|R|Double|B|Four-Seam Fastball|46|0|2|1|12|91
+David Hale|R|Chris Owings|R|Double|E|Four-Seam Fastball|47|1|2|1|6|91
+David Hale|R|Jarrod Saltalamacchia|L|Walk|*B|Two-Seam Fastball|48|0|0|1|14|92
+David Hale|R|Jarrod Saltalamacchia|L|Walk|F|Changeup|49|1|0|1|14|79
+David Hale|R|Jarrod Saltalamacchia|L|Walk|S|Changeup|50|1|1|1|13|80
+David Hale|R|Jarrod Saltalamacchia|L|Walk|*B|Changeup|51|1|2|1|14|79
+David Hale|R|Jarrod Saltalamacchia|L|Walk|F|Four-Seam Fastball|52|2|2|1|3|92
+David Hale|R|Jarrod Saltalamacchia|L|Walk|B|Changeup|53|2|2|1|14|80
+David Hale|R|Jarrod Saltalamacchia|L|Walk|F|Changeup|54|3|2|1|8|78
+David Hale|R|Jarrod Saltalamacchia|L|Walk|F|Four-Seam Fastball|55|3|2|1|14|93
+David Hale|R|Jarrod Saltalamacchia|L|Walk|B|Changeup|56|3|2|1|14|82
+David Hale|R|Nick Ahmed|R|Single|E|Two-Seam Fastball|57|0|0|1|8|91
+David Hale|R|Allen Webster|R|Strikeout|S|Four-Seam Fastball|58|0|0|1|12|90
+David Hale|R|Allen Webster|R|Strikeout|C|Four-Seam Fastball|59|0|1|1|8|91
+David Hale|R|Allen Webster|R|Strikeout|S|Four-Seam Fastball|60|0|2|1|9|92
+David Hale|R|A.J. Pollock|R|Groundout|X|Two-Seam Fastball|61|0|0|2|13|91
+David Hale|R|David Peralta|L|Walk|C|Two-Seam Fastball|62|0|0|0|1|90
+David Hale|R|David Peralta|L|Walk|F|Four-Seam Fastball|63|0|1|0|5|90
+David Hale|R|David Peralta|L|Walk|F|Curveball|64|0|2|0|9|79
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|65|0|2|0|11|90
+David Hale|R|David Peralta|L|Walk|B|Two-Seam Fastball|66|1|2|0|11|90
+David Hale|R|David Peralta|L|Walk|B|Changeup|67|2|2|0|14|80
+David Hale|R|David Peralta|L|Walk|F|Four-Seam Fastball|68|3|2|0|4|91
+David Hale|R|David Peralta|L|Walk|B|Two-Seam Fastball|69|3|2|0|12|91
+David Hale|R|Paul Goldschmidt|R|Home Run|F|Four-Seam Fastball|70|0|0|0|11|90
+David Hale|R|Paul Goldschmidt|R|Home Run|C|Four-Seam Fastball|71|0|1|0|13|90
+David Hale|R|Paul Goldschmidt|R|Home Run|*B|Changeup|72|0|2|0|14|80
+David Hale|R|Paul Goldschmidt|R|Home Run|F|Four-Seam Fastball|73|1|2|0|12|93
+David Hale|R|Paul Goldschmidt|R|Home Run|F|Two-Seam Fastball|74|1|2|0|13|90
+David Hale|R|Paul Goldschmidt|R|Home Run|*B|Changeup|75|1|2|0|13|79
+David Hale|R|Paul Goldschmidt|R|Home Run|E|Four-Seam Fastball|76|2|2|0|5|92
+David Hale|R|Yasmany Tomas|R|Single|S|Curveball|77|0|0|0|5|80
+David Hale|R|Yasmany Tomas|R|Single|D|Four-Seam Fastball|78|0|1|0|13|90
+David Hale|R|Jake Lamb|L|Pop Out|B|Four-Seam Fastball|79|0|0|0|14|90
+David Hale|R|Jake Lamb|L|Pop Out|X|Four-Seam Fastball|80|1|0|0|3|90
+David Hale|R|Chris Owings|R|Forceout|C|Four-Seam Fastball|81|0|0|1|13|89
+David Hale|R|Chris Owings|R|Forceout|*B|Changeup|82|0|1|1|13|79
+David Hale|R|Chris Owings|R|Forceout|F|Four-Seam Fastball|83|1|1|1|3|89
+David Hale|R|Chris Owings|R|Forceout|B|Four-Seam Fastball|84|1|2|1|14|90
+David Hale|R|Chris Owings|R|Forceout|F|Two-Seam Fastball|85|2|2|1|13|90
+David Hale|R|Chris Owings|R|Forceout|F|Curveball|86|2|2|1|6|82
+David Hale|R|Chris Owings|R|Forceout|X|Four-Seam Fastball|87|2|2|1|13|90
+David Hale|R|Jarrod Saltalamacchia|L|Single|D|Two-Seam Fastball|88|0|0|2|6|90
+David Hale|R|Billy Burns|L|Groundout|X|Two-Seam Fastball|0|0|0|0|8|89
+David Hale|R|Stephen Vogt|L|Single|C|Four-Seam Fastball|1|0|0|1|1|89
+David Hale|R|Stephen Vogt|L|Single|D|Two-Seam Fastball|2|0|1|1|13|89
+David Hale|R|Ben Zobrist|L|Strikeout|C|Two-Seam Fastball|3|0|0|1|5|89
+David Hale|R|Ben Zobrist|L|Strikeout|B|Changeup|4|0|1|1|14|78
+David Hale|R|Ben Zobrist|L|Strikeout|B|Two-Seam Fastball|5|1|1|1|14|90
+David Hale|R|Ben Zobrist|L|Strikeout|C|Changeup|6|2|1|1|4|77
+David Hale|R|Ben Zobrist|L|Strikeout|T|Changeup|7|2|2|1|14|79
+David Hale|R|Josh Reddick|L|Home Run|E|Four-Seam Fastball|8|0|0|2|6|89
+David Hale|R|Billy Butler|R|Single|C|Four-Seam Fastball|9|0|0|2|5|89
+David Hale|R|Billy Butler|R|Single|D|Curveball|10|0|1|2|12|79
+David Hale|R|Ike Davis|L|Home Run|C|Changeup|11|0|0|2|13|77
+David Hale|R|Ike Davis|L|Home Run|B|Two-Seam Fastball|12|0|1|2|11|88
+David Hale|R|Ike Davis|L|Home Run|B|Changeup|13|1|1|2|13|78
+David Hale|R|Ike Davis|L|Home Run|C|Four-Seam Fastball|14|2|1|2|6|89
+David Hale|R|Ike Davis|L|Home Run|E|Curveball|15|2|2|2|14|79
+David Hale|R|Brett Lawrie|R|Groundout|C|Two-Seam Fastball|16|0|0|2|7|89
+David Hale|R|Brett Lawrie|R|Groundout|X|Two-Seam Fastball|17|0|1|2|13|88
+David Hale|R|Eric Sogard|L|Single|B|Two-Seam Fastball|18|0|0|0|13|87
+David Hale|R|Eric Sogard|L|Single|C|Four-Seam Fastball|19|1|0|0|13|88
+David Hale|R|Eric Sogard|L|Single|D|Changeup|20|1|1|0|1|77
+David Hale|R|Marcus Semien|R|Grounded Into DP|C|Four-Seam Fastball|21|0|0|0|9|88
+David Hale|R|Marcus Semien|R|Grounded Into DP|X|Four-Seam Fastball|22|0|1|0|13|88
+David Hale|R|Billy Burns|L|Groundout|F|Four-Seam Fastball|23|0|0|2|13|89
+David Hale|R|Billy Burns|L|Groundout|X|Two-Seam Fastball|24|0|1|2|13|89
+David Hale|R|Stephen Vogt|L|Flyout|B|Curveball|25|0|0|0|13|78
+David Hale|R|Stephen Vogt|L|Flyout|B|Four-Seam Fastball|26|1|0|0|11|88
+David Hale|R|Stephen Vogt|L|Flyout|C|Two-Seam Fastball|27|2|0|0|13|88
+David Hale|R|Stephen Vogt|L|Flyout|X|Changeup|28|2|1|0|13|78
+David Hale|R|Ben Zobrist|L|Flyout|C|Four-Seam Fastball|29|0|0|1|13|89
+David Hale|R|Ben Zobrist|L|Flyout|B|Two-Seam Fastball|30|0|1|1|13|89
+David Hale|R|Ben Zobrist|L|Flyout|B|Curveball|31|1|1|1|13|81
+David Hale|R|Ben Zobrist|L|Flyout|B|Two-Seam Fastball|32|2|1|1|11|89
+David Hale|R|Ben Zobrist|L|Flyout|F|Two-Seam Fastball|33|3|1|1|13|88
+David Hale|R|Ben Zobrist|L|Flyout|X|Four-Seam Fastball|34|3|2|1|7|89
+David Hale|R|Josh Reddick|L|Strikeout|C|Two-Seam Fastball|35|0|0|2|13|88
+David Hale|R|Josh Reddick|L|Strikeout|B|Two-Seam Fastball|36|0|1|2|13|88
+David Hale|R|Josh Reddick|L|Strikeout|S|Changeup|37|1|1|2|14|80
+David Hale|R|Josh Reddick|L|Strikeout|W|Changeup|38|1|2|2|14|78
+David Hale|R|Billy Butler|R|Home Run|B|Curveball|39|0|0|0|14|80
+David Hale|R|Billy Butler|R|Home Run|B|Four-Seam Fastball|40|1|0|0|13|87
+David Hale|R|Billy Butler|R|Home Run|B|Two-Seam Fastball|41|2|0|0|13|88
+David Hale|R|Billy Butler|R|Home Run|C|Four-Seam Fastball|42|3|0|0|2|87
+David Hale|R|Billy Butler|R|Home Run|E|Four-Seam Fastball|43|3|1|0|8|88
+David Hale|R|Ike Davis|L|Groundout|C|Four-Seam Fastball|44|0|0|0|7|88
+David Hale|R|Ike Davis|L|Groundout|S|Changeup|45|0|1|0|8|78
+David Hale|R|Ike Davis|L|Groundout|B|Four-Seam Fastball|46|0|2|0|11|89
+David Hale|R|Ike Davis|L|Groundout|B|Changeup|47|1|2|0|13|79
+David Hale|R|Ike Davis|L|Groundout|B|Changeup|48|2|2|0|14|80
+David Hale|R|Ike Davis|L|Groundout|X|Four-Seam Fastball|49|3|2|0|13|89
+David Hale|R|Brett Lawrie|R|Groundout|B|Changeup|50|0|0|1|14|78
+David Hale|R|Brett Lawrie|R|Groundout|B|Changeup|51|1|0|1|13|78
+David Hale|R|Brett Lawrie|R|Groundout|F|Four-Seam Fastball|52|2|0|1|13|89
+David Hale|R|Brett Lawrie|R|Groundout|X|Two-Seam Fastball|53|2|1|1|13|88
+David Hale|R|Eric Sogard|L|Groundout|B|Two-Seam Fastball|54|0|0|2|11|88
+David Hale|R|Eric Sogard|L|Groundout|L|Two-Seam Fastball|55|1|0|2|13|88
+David Hale|R|Eric Sogard|L|Groundout|S|Four-Seam Fastball|56|1|1|2|11|87
+David Hale|R|Eric Sogard|L|Groundout|B|Four-Seam Fastball|57|1|2|2|13|90
+David Hale|R|Eric Sogard|L|Groundout|X|Four-Seam Fastball|58|2|2|2|4|88
+David Hale|R|Marcus Semien|R|Flyout|C|Curveball|59|0|0|0|1|77
+David Hale|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|60|0|1|0|9|86
+David Hale|R|Marcus Semien|R|Flyout|X|Changeup|61|1|1|0|7|77
+David Hale|R|Billy Burns|L|Groundout|B|Two-Seam Fastball|62|0|0|1|11|87
+David Hale|R|Billy Burns|L|Groundout|F|Changeup|63|1|0|1|13|77
+David Hale|R|Billy Burns|L|Groundout|T|Four-Seam Fastball|64|1|1|1|11|88
+David Hale|R|Billy Burns|L|Groundout|X|Two-Seam Fastball|65|1|2|1|13|88
+David Hale|R|Stephen Vogt|L|Single|B|Two-Seam Fastball|66|0|0|2|13|88
+David Hale|R|Stephen Vogt|L|Single|C|Curveball|67|1|0|2|13|78
+David Hale|R|Stephen Vogt|L|Single|B|Curveball|68|1|1|2|13|79
+David Hale|R|Stephen Vogt|L|Single|B|Four-Seam Fastball|69|2|1|2|13|88
+David Hale|R|Stephen Vogt|L|Single|C|Changeup|70|3|1|2|13|78
+David Hale|R|Stephen Vogt|L|Single|D|Four-Seam Fastball|71|3|2|2|11|88
+David Hale|R|Ben Zobrist|L|Forceout|B|Two-Seam Fastball|72|0|0|2|13|89
+David Hale|R|Ben Zobrist|L|Forceout|B|Two-Seam Fastball|73|1|0|2|14|87
+David Hale|R|Ben Zobrist|L|Forceout|C|Two-Seam Fastball|74|2|0|2|13|88
+David Hale|R|Ben Zobrist|L|Forceout|S|Four-Seam Fastball|75|2|1|2|11|89
+David Hale|R|Ben Zobrist|L|Forceout|X|Two-Seam Fastball|76|2|2|2|13|89
+David Hale|R|Josh Reddick|L|Pop Out|X|Changeup|77|0|0|0|7|77
+David Hale|R|Billy Butler|R|Groundout|C|Four-Seam Fastball|78|0|0|1|12|88
+David Hale|R|Billy Butler|R|Groundout|B|Curveball|79|0|1|1|8|78
+David Hale|R|Billy Butler|R|Groundout|B|Four-Seam Fastball|80|1|1|1|13|87
+David Hale|R|Billy Butler|R|Groundout|X|Curveball|81|2|1|1|9|79
+David Hale|R|Ike Davis|L|Double|B|Four-Seam Fastball|82|0|0|2|13|88
+David Hale|R|Ike Davis|L|Double|B|Changeup|83|1|0|2|13|79
+David Hale|R|Ike Davis|L|Double|D|Four-Seam Fastball|84|2|0|2|5|88
+David Hale|R|Brett Lawrie|R|Pop Out|*B|Four-Seam Fastball|85|0|0|2|13|88
+David Hale|R|Brett Lawrie|R|Pop Out|B|Four-Seam Fastball|86|1|0|2|11|88
+David Hale|R|Brett Lawrie|R|Pop Out|X|Changeup|87|2|0|2|8|77
+David Hale|R|Eric Sogard|L|Groundout|X|Changeup|88|0|0|0|4|76
+David Hale|R|Marcus Semien|R|Single|C|Four-Seam Fastball|89|0|0|1|5|87
+David Hale|R|Marcus Semien|R|Single|D|Four-Seam Fastball|90|0|1|1|13|88
+David Hale|R|Billy Burns|L|Lineout|C|Four-Seam Fastball|91|0|0|1|6|87
+David Hale|R|Billy Burns|L|Lineout|F|Four-Seam Fastball|92|0|1|1|4|87
+David Hale|R|Billy Burns|L|Lineout|F|Four-Seam Fastball|93|0|2|1|5|88
+David Hale|R|Billy Burns|L|Lineout|F|Two-Seam Fastball|94|0|2|1|4|89
+David Hale|R|Billy Burns|L|Lineout|*B|Changeup|95|0|2|1|13|78
+David Hale|R|Billy Burns|L|Lineout|P|Pitchout|96|1|2|1|11|81
+David Hale|R|Billy Burns|L|Lineout|F|Changeup|97|1|2|1|13|77
+David Hale|R|Billy Burns|L|Lineout|X|Two-Seam Fastball|98|1|2|1|4|89
+David Hale|R|Stephen Vogt|L|Groundout|X|Changeup|99|0|0|2|5|78
+David Hale|R|A.J. Pollock|R|Field Error|B|Four-Seam Fastball|0|0|0|0|14|88
+David Hale|R|A.J. Pollock|R|Field Error|D|Two-Seam Fastball|1|1|0|0|7|89
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|2|0|0|0|12|89
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|3|1|0|0|14|89
+David Hale|R|David Peralta|L|Walk|B|Changeup|4|2|0|0|13|78
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|5|3|0|0|14|89
+David Hale|R|Paul Goldschmidt|R|Walk|S|Four-Seam Fastball|6|0|0|0|13|89
+David Hale|R|Paul Goldschmidt|R|Walk|S|Curveball|7|0|1|0|4|78
+David Hale|R|Paul Goldschmidt|R|Walk|*B|Curveball|8|0|2|0|14|80
+David Hale|R|Paul Goldschmidt|R|Walk|B|Two-Seam Fastball|9|1|2|0|13|90
+David Hale|R|Paul Goldschmidt|R|Walk|*B|Curveball|10|2|2|0|14|81
+David Hale|R|Paul Goldschmidt|R|Walk|F|Changeup|11|3|2|0|8|79
+David Hale|R|Paul Goldschmidt|R|Walk|F|Four-Seam Fastball|12|3|2|0|9|91
+David Hale|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|13|3|2|0|13|91
+David Hale|R|Yasmany Tomas|R|Forceout|C|Four-Seam Fastball|14|0|0|0|9|90
+David Hale|R|Yasmany Tomas|R|Forceout|B|Four-Seam Fastball|15|0|1|0|14|90
+David Hale|R|Yasmany Tomas|R|Forceout|B|Four-Seam Fastball|16|1|1|0|14|91
+David Hale|R|Yasmany Tomas|R|Forceout|E|Changeup|17|2|1|0|14|79
+David Hale|R|Jake Lamb|L|Single|B|Changeup|18|0|0|1|11|78
+David Hale|R|Jake Lamb|L|Single|E|Four-Seam Fastball|19|1|0|1|12|90
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|F|Two-Seam Fastball|20|0|0|1|4|90
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|T|Two-Seam Fastball|21|0|1|1|4|90
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Changeup|22|0|2|1|13|78
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Two-Seam Fastball|23|1|2|1|13|90
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Two-Seam Fastball|24|2|2|1|14|89
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|S|Four-Seam Fastball|25|3|2|1|5|91
+David Hale|R|Chris Owings|R|Flyout|S|Curveball|26|0|0|2|14|81
+David Hale|R|Chris Owings|R|Flyout|B|Four-Seam Fastball|27|0|1|2|12|90
+David Hale|R|Chris Owings|R|Flyout|X|Curveball|28|1|1|2|8|79
+David Hale|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|29|0|0|0|14|88
+David Hale|R|Nick Ahmed|R|Groundout|B|Two-Seam Fastball|30|1|0|0|14|89
+David Hale|R|Nick Ahmed|R|Groundout|C|Four-Seam Fastball|31|2|0|0|9|89
+David Hale|R|Nick Ahmed|R|Groundout|X|Four-Seam Fastball|32|2|1|0|14|89
+David Hale|R|Patrick Corbin|L|Pop Out|C|Four-Seam Fastball|33|0|0|1|8|89
+David Hale|R|Patrick Corbin|L|Pop Out|X|Curveball|34|0|1|1|13|78
+David Hale|R|A.J. Pollock|R|Lineout|B|Four-Seam Fastball|35|0|0|2|14|88
+David Hale|R|A.J. Pollock|R|Lineout|C|Four-Seam Fastball|36|1|0|2|8|89
+David Hale|R|A.J. Pollock|R|Lineout|X|Changeup|37|1|1|2|13|78
+David Hale|R|David Peralta|L|Groundout|C|Four-Seam Fastball|38|0|0|0|3|87
+David Hale|R|David Peralta|L|Groundout|F|Changeup|39|0|1|0|13|77
+David Hale|R|David Peralta|L|Groundout|B|Curveball|40|0|2|0|14|78
+David Hale|R|David Peralta|L|Groundout|F|Four-Seam Fastball|41|1|2|0|4|89
+David Hale|R|David Peralta|L|Groundout|B|Four-Seam Fastball|42|1|2|0|12|89
+David Hale|R|David Peralta|L|Groundout|X|Curveball|43|2|2|0|4|77
+David Hale|R|Paul Goldschmidt|R|Groundout|B|Curveball|44|0|0|1|14|79
+David Hale|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|45|1|0|1|13|89
+David Hale|R|Paul Goldschmidt|R|Groundout|C|Changeup|46|2|0|1|8|78
+David Hale|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|47|2|1|1|14|90
+David Hale|R|Paul Goldschmidt|R|Groundout|S|Curveball|48|3|1|1|14|79
+David Hale|R|Paul Goldschmidt|R|Groundout|X|Two-Seam Fastball|49|3|2|1|14|91
+David Hale|R|Yasmany Tomas|R|Double|D|Four-Seam Fastball|50|0|0|2|8|89
+David Hale|R|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|51|0|0|2|9|89
+David Hale|R|Jake Lamb|L|Strikeout|S|Changeup|52|0|1|2|13|78
+David Hale|R|Jake Lamb|L|Strikeout|*B|Curveball|53|0|2|2|14|78
+David Hale|R|Jake Lamb|L|Strikeout|B|Curveball|54|1|2|2|14|80
+David Hale|R|Jake Lamb|L|Strikeout|S|Changeup|55|2|2|2|14|78
+David Hale|R|Jarrod Saltalamacchia|L|Double|T|Changeup|56|0|0|0|7|78
+David Hale|R|Jarrod Saltalamacchia|L|Double|B|Changeup|57|0|1|0|13|77
+David Hale|R|Jarrod Saltalamacchia|L|Double|S|Four-Seam Fastball|58|1|1|0|6|89
+David Hale|R|Jarrod Saltalamacchia|L|Double|B|Two-Seam Fastball|59|1|2|0|13|90
+David Hale|R|Jarrod Saltalamacchia|L|Double|B|Curveball|60|2|2|0|14|80
+David Hale|R|Jarrod Saltalamacchia|L|Double|D|Four-Seam Fastball|61|3|2|0|9|89
+David Hale|R|Chris Owings|R|Single|D|Curveball|62|0|0|0|12|79
+David Hale|R|Nick Ahmed|R|Fielders Choice Out|T|Two-Seam Fastball|63|0|0|0|13|89
+David Hale|R|Nick Ahmed|R|Fielders Choice Out|X|Two-Seam Fastball|64|0|1|0|7|90
+David Hale|R|Patrick Corbin|L|Sac Bunt|B|Two-Seam Fastball|65|0|0|1|13|90
+David Hale|R|Patrick Corbin|L|Sac Bunt|B|Two-Seam Fastball|66|1|0|1|13|89
+David Hale|R|Patrick Corbin|L|Sac Bunt|B|Four-Seam Fastball|67|2|0|1|11|88
+David Hale|R|Patrick Corbin|L|Sac Bunt|C|Four-Seam Fastball|68|3|0|1|13|89
+David Hale|R|Patrick Corbin|L|Sac Bunt|X|Four-Seam Fastball|69|3|1|1|8|90
+David Hale|R|A.J. Pollock|R|Double|B|Two-Seam Fastball|70|0|0|2|13|91
+David Hale|R|A.J. Pollock|R|Double|C|Curveball|71|1|0|2|9|79
+David Hale|R|A.J. Pollock|R|Double|B|Two-Seam Fastball|72|1|1|2|14|90
+David Hale|R|A.J. Pollock|R|Double|F|Two-Seam Fastball|73|2|1|2|8|90
+David Hale|R|A.J. Pollock|R|Double|F|Two-Seam Fastball|74|2|2|2|1|89
+David Hale|R|A.J. Pollock|R|Double|E|Two-Seam Fastball|75|2|2|2|13|90
+David Hale|R|David Peralta|L|Walk|B|Curveball|76|0|0|2|14|78
+David Hale|R|David Peralta|L|Walk|F|Four-Seam Fastball|77|1|0|2|2|88
+David Hale|R|David Peralta|L|Walk|B|Changeup|78|1|1|2|14|78
+David Hale|R|David Peralta|L|Walk|S|Curveball|79|2|1|2|14|77
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|80|2|2|2|12|90
+David Hale|R|David Peralta|L|Walk|B|Four-Seam Fastball|81|3|2|2|14|89
+David Hale|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|82|0|0|2|9|88
+David Hale|R|Paul Goldschmidt|R|Strikeout|*B|Two-Seam Fastball|83|0|1|2|13|88
+David Hale|R|Paul Goldschmidt|R|Strikeout|B|Curveball|84|1|1|2|14|81
+David Hale|R|Paul Goldschmidt|R|Strikeout|C|Curveball|85|2|1|2|14|79
+David Hale|R|Paul Goldschmidt|R|Strikeout|*B|Changeup|86|2|2|2|14|80
+David Hale|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|87|3|2|2|6|90
+David Hale|R|Paul Goldschmidt|R|Strikeout|S|Curveball|88|3|2|2|14|79
+David Hale|R|Yasmany Tomas|R|Flyout|S|Changeup|89|0|0|0|14|79
+David Hale|R|Yasmany Tomas|R|Flyout|S|Curveball|90|0|1|0|4|79
+David Hale|R|Yasmany Tomas|R|Flyout|X|Curveball|91|0|2|0|3|78
+David Hale|R|Jake Lamb|L|Groundout|B|Curveball|92|0|0|1|11|75
+David Hale|R|Jake Lamb|L|Groundout|B|Changeup|93|1|0|1|14|78
+David Hale|R|Jake Lamb|L|Groundout|S|Four-Seam Fastball|94|2|0|1|5|88
+David Hale|R|Jake Lamb|L|Groundout|C|Four-Seam Fastball|95|2|1|1|8|89
+David Hale|R|Jake Lamb|L|Groundout|B|Curveball|96|2|2|1|14|77
+David Hale|R|Jake Lamb|L|Groundout|X|Four-Seam Fastball|97|3|2|1|6|89
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Four-Seam Fastball|98|0|0|2|13|88
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Two-Seam Fastball|99|1|0|2|11|87
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|B|Changeup|100|2|0|2|13|79
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|C|Four-Seam Fastball|101|3|0|2|5|89
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|F|Four-Seam Fastball|102|3|1|2|7|88
+David Hale|R|Jarrod Saltalamacchia|L|Strikeout|C|Changeup|103|3|2|2|4|78
+David Hale|R|Kelly Johnson|L|Groundout|B|Two-Seam Fastball|0|0|0|0|13|88
+David Hale|R|Kelly Johnson|L|Groundout|S|Changeup|1|1|0|0|9|78
+David Hale|R|Kelly Johnson|L|Groundout|X|Changeup|2|1|1|0|14|80
+David Hale|R|Juan Uribe|R|Groundout|F|Four-Seam Fastball|3|0|0|1|1|91
+David Hale|R|Juan Uribe|R|Groundout|B|Two-Seam Fastball|4|0|1|1|13|89
+David Hale|R|Juan Uribe|R|Groundout|B|Changeup|5|1|1|1|13|79
+David Hale|R|Juan Uribe|R|Groundout|F|Changeup|6|2|1|1|14|80
+David Hale|R|Juan Uribe|R|Groundout|B|Two-Seam Fastball|7|2|2|1|13|90
+David Hale|R|Juan Uribe|R|Groundout|X|Four-Seam Fastball|8|3|2|1|14|92
+David Hale|R|A.J. Pierzynski|L|Groundout|B|Changeup|9|0|0|2|13|79
+David Hale|R|A.J. Pierzynski|L|Groundout|B|Two-Seam Fastball|10|1|0|2|14|91
+David Hale|R|A.J. Pierzynski|L|Groundout|C|Two-Seam Fastball|11|2|0|2|11|89
+David Hale|R|A.J. Pierzynski|L|Groundout|T|Changeup|12|2|1|2|14|80
+David Hale|R|A.J. Pierzynski|L|Groundout|X|Two-Seam Fastball|13|2|2|2|4|91
+David Hale|R|Chris Johnson|R|Double|B|Four-Seam Fastball|14|0|0|0|14|86
+David Hale|R|Chris Johnson|R|Double|D|Two-Seam Fastball|15|1|0|0|4|89
+David Hale|R|Andrelton Simmons|R|Lineout|S|Changeup|16|0|0|0|13|75
+David Hale|R|Andrelton Simmons|R|Lineout|F|Two-Seam Fastball|17|0|1|0|7|87
+David Hale|R|Andrelton Simmons|R|Lineout|F|Four-Seam Fastball|18|0|2|0|13|86
+David Hale|R|Andrelton Simmons|R|Lineout|*B|Changeup|19|0|2|0|14|78
+David Hale|R|Andrelton Simmons|R|Lineout|X|Changeup|20|1|2|0|7|78
+David Hale|R|Jake Brigham|R|Sac Bunt|X|Four-Seam Fastball|21|0|0|1|12|87
+David Hale|R|Jayson Werth|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|91
+David Hale|R|Jayson Werth|R|Flyout|C|Four-Seam Fastball|1|1|0|0|1|91
+David Hale|R|Jayson Werth|R|Flyout|B|Four-Seam Fastball|2|1|1|0|12|91
+David Hale|R|Jayson Werth|R|Flyout|S|Four-Seam Fastball|3|2|1|0|2|92
+David Hale|R|Jayson Werth|R|Flyout|X|Four-Seam Fastball|4|2|2|0|9|91
+David Hale|R|Danny Espinosa|L|Strikeout|M|Two-Seam Fastball|5|0|0|1|8|92
+David Hale|R|Danny Espinosa|L|Strikeout|B|Two-Seam Fastball|6|0|1|1|11|91
+David Hale|R|Danny Espinosa|L|Strikeout|S|Curveball|7|1|1|1|13|82
+David Hale|R|Danny Espinosa|L|Strikeout|B|Curveball|8|1|2|1|14|83
+David Hale|R|Danny Espinosa|L|Strikeout|F|Four-Seam Fastball|9|2|2|1|5|92
+David Hale|R|Danny Espinosa|L|Strikeout|B|Four-Seam Fastball|10|2|2|1|14|92
+David Hale|R|Danny Espinosa|L|Strikeout|S|Two-Seam Fastball|11|3|2|1|1|91
+David Hale|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|12|0|0|2|8|93
+David Hale|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|13|1|0|2|14|93
+David Hale|R|Bryce Harper|L|Walk|S|Changeup|14|2|0|2|9|81
+David Hale|R|Bryce Harper|L|Walk|B|Two-Seam Fastball|15|2|1|2|14|92
+David Hale|R|Bryce Harper|L|Walk|S|Changeup|16|3|1|2|13|81
+David Hale|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|17|3|2|2|14|93
+David Hale|R|Yunel Escobar|R|Home Run|F|Four-Seam Fastball|18|0|0|2|1|90
+David Hale|R|Yunel Escobar|R|Home Run|S|Two-Seam Fastball|19|0|1|2|1|89
+David Hale|R|Yunel Escobar|R|Home Run|B|Two-Seam Fastball|20|0|2|2|12|91
+David Hale|R|Yunel Escobar|R|Home Run|B|Two-Seam Fastball|21|1|2|2|13|91
+David Hale|R|Yunel Escobar|R|Home Run|F|Changeup|22|2|2|2|5|81
+David Hale|R|Yunel Escobar|R|Home Run|F|Four-Seam Fastball|23|2|2|2|11|91
+David Hale|R|Yunel Escobar|R|Home Run|B|Four-Seam Fastball|24|2|2|2|9|92
+David Hale|R|Yunel Escobar|R|Home Run|E|Four-Seam Fastball|25|3|2|2|8|92
+David Hale|R|Ian Desmond|R|Flyout|X|Changeup|26|0|0|2|4|80
+David Hale|R|Ryan Zimmerman|R|Double|B|Four-Seam Fastball|27|0|0|0|11|88
+David Hale|R|Ryan Zimmerman|R|Double|D|Curveball|28|1|0|0|9|80
+David Hale|R|Michael A. Taylor|R|Lineout|X|Two-Seam Fastball|29|0|0|0|5|89
+David Hale|R|Wilson Ramos|R|Groundout|C|Two-Seam Fastball|30|0|0|1|5|89
+David Hale|R|Wilson Ramos|R|Groundout|X|Two-Seam Fastball|31|0|1|1|13|89
+David Hale|R|Jordan Zimmermann|R|Groundout|X|Two-Seam Fastball|32|0|0|2|13|89
+David Hale|R|Jayson Werth|R|Flyout|X|Four-Seam Fastball|33|0|0|0|4|90
+David Hale|R|Danny Espinosa|L|Double|B|Four-Seam Fastball|34|0|0|1|12|91
+David Hale|R|Danny Espinosa|L|Double|B|Two-Seam Fastball|35|1|0|1|13|89
+David Hale|R|Danny Espinosa|L|Double|D|Two-Seam Fastball|36|2|0|1|13|90
+David Hale|R|Bryce Harper|L|Walk|B|Changeup|37|0|0|1|13|79
+David Hale|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|38|1|0|1|12|92
+David Hale|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|39|2|0|1|11|91
+David Hale|R|Bryce Harper|L|Walk|B|Two-Seam Fastball|40|3|0|1|11|89
+David Hale|R|Yunel Escobar|R|Single|B|Two-Seam Fastball|41|0|0|1|13|91
+David Hale|R|Yunel Escobar|R|Single|B|Two-Seam Fastball|42|1|0|1|13|91
+David Hale|R|Yunel Escobar|R|Single|E|Four-Seam Fastball|43|2|0|1|11|90
+David Hale|R|Ian Desmond|R|Single|B|Four-Seam Fastball|44|0|0|1|11|92
+David Hale|R|Ian Desmond|R|Single|F|Changeup|45|1|0|1|7|78
+David Hale|R|Ian Desmond|R|Single|C|Four-Seam Fastball|46|1|1|1|8|91
+David Hale|R|Ian Desmond|R|Single|F|Four-Seam Fastball|47|1|2|1|13|91
+David Hale|R|Ian Desmond|R|Single|E|Two-Seam Fastball|48|1|2|1|13|92
+David Hale|R|Ryan Zimmerman|R|Strikeout|C|Four-Seam Fastball|49|0|0|1|4|91
+David Hale|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|50|0|1|1|13|90
+David Hale|R|Ryan Zimmerman|R|Strikeout|F|Curveball|51|1|1|1|14|81
+David Hale|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|52|1|2|1|11|90
+David Hale|R|Ryan Zimmerman|R|Strikeout|W|Curveball|53|2|2|1|14|82
+David Hale|R|Michael A. Taylor|R|Strikeout|C|Curveball|54|0|0|2|9|80
+David Hale|R|Michael A. Taylor|R|Strikeout|S|Four-Seam Fastball|55|0|1|2|6|91
+David Hale|R|Michael A. Taylor|R|Strikeout|B|Four-Seam Fastball|56|0|2|2|12|90
+David Hale|R|Michael A. Taylor|R|Strikeout|S|Four-Seam Fastball|57|1|2|2|1|90
+David Hale|R|Wilson Ramos|R|Lineout|B|Curveball|58|0|0|0|14|80
+David Hale|R|Wilson Ramos|R|Lineout|C|Curveball|59|1|0|0|9|79
+David Hale|R|Wilson Ramos|R|Lineout|B|Curveball|60|1|1|0|11|77
+David Hale|R|Wilson Ramos|R|Lineout|F|Two-Seam Fastball|61|2|1|0|11|88
+David Hale|R|Wilson Ramos|R|Lineout|F|Four-Seam Fastball|62|2|2|0|11|88
+David Hale|R|Wilson Ramos|R|Lineout|B|Four-Seam Fastball|63|2|2|0|9|89
+David Hale|R|Wilson Ramos|R|Lineout|X|Four-Seam Fastball|64|3|2|0|4|90
+David Hale|R|Jordan Zimmermann|R|Groundout|B|Two-Seam Fastball|65|0|0|1|13|91
+David Hale|R|Jordan Zimmermann|R|Groundout|C|Two-Seam Fastball|66|1|0|1|4|89
+David Hale|R|Jordan Zimmermann|R|Groundout|F|Four-Seam Fastball|67|1|1|1|7|89
+David Hale|R|Jordan Zimmermann|R|Groundout|B|Curveball|68|1|2|1|14|82
+David Hale|R|Jordan Zimmermann|R|Groundout|X|Four-Seam Fastball|69|2|2|1|8|89
+David Hale|R|Jayson Werth|R|Single|B|Four-Seam Fastball|70|0|0|2|14|89
+David Hale|R|Jayson Werth|R|Single|C|Four-Seam Fastball|71|1|0|2|9|90
+David Hale|R|Jayson Werth|R|Single|B|Curveball|72|1|1|2|9|82
+David Hale|R|Jayson Werth|R|Single|C|Four-Seam Fastball|73|2|1|2|6|91
+David Hale|R|Jayson Werth|R|Single|D|Four-Seam Fastball|74|2|2|2|9|90
+David Hale|R|Danny Espinosa|L|Double|B|Curveball|75|0|0|2|14|81
+David Hale|R|Danny Espinosa|L|Double|F|Four-Seam Fastball|76|1|0|2|12|90
+David Hale|R|Danny Espinosa|L|Double|E|Four-Seam Fastball|77|1|1|2|14|91
+David Hale|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|78|0|0|2|13|90
+David Hale|R|Bryce Harper|L|Strikeout|B|Changeup|79|1|0|2|14|80
+David Hale|R|Bryce Harper|L|Strikeout|C|Changeup|80|2|0|2|4|79
+David Hale|R|Bryce Harper|L|Strikeout|F|Four-Seam Fastball|81|2|1|2|6|91
+David Hale|R|Bryce Harper|L|Strikeout|F|Curveball|82|2|2|2|14|82
+David Hale|R|Bryce Harper|L|Strikeout|C|Four-Seam Fastball|83|2|2|2|14|92
+David Hale|R|Yunel Escobar|R|Groundout|B|Changeup|84|0|0|0|14|78
+David Hale|R|Yunel Escobar|R|Groundout|F|Changeup|85|1|0|0|14|79
+David Hale|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|86|1|1|0|5|90
+David Hale|R|Ian Desmond|R|Single|D|Curveball|87|0|0|1|14|82
+David Hale|R|Ryan Zimmerman|R|Walk|B|Two-Seam Fastball|88|0|0|1|11|88
+David Hale|R|Ryan Zimmerman|R|Walk|B|Two-Seam Fastball|89|1|0|1|11|88
+David Hale|R|Ryan Zimmerman|R|Walk|B|Changeup|90|2|0|1|14|79
+David Hale|R|Ryan Zimmerman|R|Walk|C|Four-Seam Fastball|91|3|0|1|2|90
+David Hale|R|Ryan Zimmerman|R|Walk|B|Curveball|92|3|1|1|14|81
+David Hale|R|Michael A. Taylor|R|Flyout|F|Four-Seam Fastball|93|0|0|1|4|91
+David Hale|R|Michael A. Taylor|R|Flyout|F|Four-Seam Fastball|94|0|1|1|12|89
+David Hale|R|Michael A. Taylor|R|Flyout|X|Four-Seam Fastball|95|0|2|1|12|90
+David Hale|R|Wilson Ramos|R|Groundout|C|Four-Seam Fastball|96|0|0|2|7|90
+David Hale|R|Wilson Ramos|R|Groundout|F|Four-Seam Fastball|97|0|1|2|13|88
+David Hale|R|Wilson Ramos|R|Groundout|*B|Curveball|98|0|2|2|14|83
+David Hale|R|Wilson Ramos|R|Groundout|F|Four-Seam Fastball|99|1|2|2|4|89
+David Hale|R|Wilson Ramos|R|Groundout|B|Two-Seam Fastball|100|1|2|2|13|90
+David Hale|R|Wilson Ramos|R|Groundout|*B|Curveball|101|2|2|2|14|82
+David Hale|R|Wilson Ramos|R|Groundout|F|Four-Seam Fastball|102|3|2|2|13|91
+David Hale|R|Wilson Ramos|R|Groundout|F|Curveball|103|3|2|2|6|82
+David Hale|R|Wilson Ramos|R|Groundout|X|Curveball|104|3|2|2|14|83
+David Hale|R|Curtis Granderson|L|Walk|C|Four-Seam Fastball|0|0|0|0|3|90
+David Hale|R|Curtis Granderson|L|Walk|B|Two-Seam Fastball|1|0|1|0|11|91
+David Hale|R|Curtis Granderson|L|Walk|B|Four-Seam Fastball|2|1|1|0|13|91
+David Hale|R|Curtis Granderson|L|Walk|B|Changeup|3|2|1|0|14|81
+David Hale|R|Curtis Granderson|L|Walk|C|Two-Seam Fastball|4|3|1|0|1|91
+David Hale|R|Curtis Granderson|L|Walk|B|Two-Seam Fastball|5|3|2|0|11|90
+David Hale|R|Yoenis Cespedes|R|Strikeout|B|Four-Seam Fastball|6|0|0|0|14|92
+David Hale|R|Yoenis Cespedes|R|Strikeout|C|Curveball|7|1|0|0|1|81
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|8|1|1|0|5|91
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Changeup|9|1|2|0|8|80
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|10|1|2|0|2|92
+David Hale|R|Yoenis Cespedes|R|Strikeout|S|Curveball|11|1|2|0|14|83
+David Hale|R|Daniel Murphy|L|Double|E|Four-Seam Fastball|12|0|0|1|8|91
+David Hale|R|Juan Uribe|R|Strikeout|B|Curveball|13|0|0|1|13|82
+David Hale|R|Juan Uribe|R|Strikeout|F|Four-Seam Fastball|14|1|0|1|2|90
+David Hale|R|Juan Uribe|R|Strikeout|B|Changeup|15|1|1|1|11|80
+David Hale|R|Juan Uribe|R|Strikeout|S|Four-Seam Fastball|16|2|1|1|13|90
+David Hale|R|Juan Uribe|R|Strikeout|S|Curveball|17|2|2|1|14|82
+David Hale|R|Kelly Johnson|L|Strikeout|S|Changeup|18|0|0|2|7|81
+David Hale|R|Kelly Johnson|L|Strikeout|S|Four-Seam Fastball|19|0|1|2|7|91
+David Hale|R|Kelly Johnson|L|Strikeout|B|Four-Seam Fastball|20|0|2|2|11|91
+David Hale|R|Kelly Johnson|L|Strikeout|F|Changeup|21|1|2|2|8|81
+David Hale|R|Kelly Johnson|L|Strikeout|B|Four-Seam Fastball|22|1|2|2|12|91
+David Hale|R|Kelly Johnson|L|Strikeout|T|Four-Seam Fastball|23|2|2|2|9|91
+David Hale|R|Wilmer Flores|R|Hit By Pitch|C|Four-Seam Fastball|24|0|0|0|6|88
+David Hale|R|Wilmer Flores|R|Hit By Pitch|H|Four-Seam Fastball|25|0|1|0|11|89
+David Hale|R|Michael Conforto|L|Single|D|Two-Seam Fastball|26|0|0|0|7|90
+David Hale|R|Anthony Recker|R|Walk|B|Curveball|27|0|0|0|14|81
+David Hale|R|Anthony Recker|R|Walk|B|Four-Seam Fastball|28|1|0|0|13|89
+David Hale|R|Anthony Recker|R|Walk|C|Four-Seam Fastball|29|2|0|0|14|89
+David Hale|R|Anthony Recker|R|Walk|B|Four-Seam Fastball|30|2|1|0|14|90
+David Hale|R|Anthony Recker|R|Walk|F|Four-Seam Fastball|31|3|1|0|9|91
+David Hale|R|Anthony Recker|R|Walk|*B|Curveball|32|3|2|0|14|83
+David Hale|R|Logan Verrett|R|Strikeout|L|Four-Seam Fastball|33|0|0|0|11|89
+David Hale|R|Logan Verrett|R|Strikeout|B|Four-Seam Fastball|34|0|1|0|9|89
+David Hale|R|Logan Verrett|R|Strikeout|L|Four-Seam Fastball|35|1|1|0|4|89
+David Hale|R|Logan Verrett|R|Strikeout|B|Curveball|36|1|2|0|14|82
+David Hale|R|Logan Verrett|R|Strikeout|L|Four-Seam Fastball|37|2|2|0|1|89
+David Hale|R|Curtis Granderson|L|Strikeout|F|Two-Seam Fastball|38|0|0|1|5|90
+David Hale|R|Curtis Granderson|L|Strikeout|S|Changeup|39|0|1|1|7|79
+David Hale|R|Curtis Granderson|L|Strikeout|B|Changeup|40|0|2|1|13|78
+David Hale|R|Curtis Granderson|L|Strikeout|F|Four-Seam Fastball|41|1|2|1|6|90
+David Hale|R|Curtis Granderson|L|Strikeout|S|Curveball|42|1|2|1|5|82
+David Hale|R|Yoenis Cespedes|R|Groundout|B|Changeup|43|0|0|2|14|77
+David Hale|R|Yoenis Cespedes|R|Groundout|F|Four-Seam Fastball|44|1|0|2|8|90
+David Hale|R|Yoenis Cespedes|R|Groundout|S|Four-Seam Fastball|45|1|1|2|11|91
+David Hale|R|Yoenis Cespedes|R|Groundout|X|Curveball|46|1|2|2|14|83
+David Hale|R|Daniel Murphy|L|Single|B|Four-Seam Fastball|47|0|0|0|13|90
+David Hale|R|Daniel Murphy|L|Single|B|Changeup|48|1|0|0|11|77
+David Hale|R|Daniel Murphy|L|Single|B|Two-Seam Fastball|49|2|0|0|13|90
+David Hale|R|Daniel Murphy|L|Single|C|Two-Seam Fastball|50|3|0|0|4|89
+David Hale|R|Daniel Murphy|L|Single|D|Four-Seam Fastball|51|3|1|0|13|89
+David Hale|R|Juan Uribe|R|Strikeout|F|Two-Seam Fastball|52|0|0|0|11|90
+David Hale|R|Juan Uribe|R|Strikeout|T|Two-Seam Fastball|53|0|1|0|13|88
+David Hale|R|Juan Uribe|R|Strikeout|B|Curveball|54|0|2|0|14|81
+David Hale|R|Juan Uribe|R|Strikeout|S|Curveball|55|1|2|0|8|81
+David Hale|R|Kelly Johnson|L|Groundout|B|Four-Seam Fastball|56|0|0|1|12|90
+David Hale|R|Kelly Johnson|L|Groundout|C|Changeup|57|1|0|1|2|79
+David Hale|R|Kelly Johnson|L|Groundout|B|Changeup|58|1|1|1|11|78
+David Hale|R|Kelly Johnson|L|Groundout|X|Four-Seam Fastball|59|2|1|1|7|90
+David Hale|R|Wilmer Flores|R|Single|S|Four-Seam Fastball|60|0|0|2|6|89
+David Hale|R|Wilmer Flores|R|Single|F|Four-Seam Fastball|61|0|1|2|13|90
+David Hale|R|Wilmer Flores|R|Single|*B|Changeup|62|0|2|2|14|80
+David Hale|R|Wilmer Flores|R|Single|E|Four-Seam Fastball|63|1|2|2|14|90
+David Hale|R|Michael Conforto|L|Single|B|Two-Seam Fastball|64|0|0|2|14|89
+David Hale|R|Michael Conforto|L|Single|B|Four-Seam Fastball|65|1|0|2|12|89
+David Hale|R|Michael Conforto|L|Single|B|Four-Seam Fastball|66|2|0|2|11|88
+David Hale|R|Michael Conforto|L|Single|F|Four-Seam Fastball|67|3|0|2|9|89
+David Hale|R|Michael Conforto|L|Single|D|Four-Seam Fastball|68|3|1|2|11|89
+David Hale|R|Anthony Recker|R|Double|E|Four-Seam Fastball|69|0|0|2|4|89
+David Hale|R|Logan Verrett|R|Groundout|X|Four-Seam Fastball|70|0|0|2|7|89
+David Hale|R|Curtis Granderson|L|Flyout|C|Four-Seam Fastball|71|0|0|0|5|87
+David Hale|R|Curtis Granderson|L|Flyout|B|Two-Seam Fastball|72|0|1|0|14|89
+David Hale|R|Curtis Granderson|L|Flyout|B|Changeup|73|1|1|0|14|80
+David Hale|R|Curtis Granderson|L|Flyout|X|Four-Seam Fastball|74|2|1|0|8|89
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|75|0|0|1|2|89
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Two-Seam Fastball|76|0|1|1|13|88
+David Hale|R|Yoenis Cespedes|R|Strikeout|B|Four-Seam Fastball|77|0|2|1|12|87
+David Hale|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|78|1|2|1|11|87
+David Hale|R|Yoenis Cespedes|R|Strikeout|S|Curveball|79|1|2|1|14|81
+David Hale|R|Daniel Murphy|L|Groundout|F|Four-Seam Fastball|80|0|0|2|14|90
+David Hale|R|Daniel Murphy|L|Groundout|X|Changeup|81|0|1|2|13|79
+David Hale|R|Juan Uribe|R|Strikeout|S|Curveball|82|0|0|0|14|80
+David Hale|R|Juan Uribe|R|Strikeout|C|Curveball|83|0|1|0|6|78
+David Hale|R|Juan Uribe|R|Strikeout|S|Curveball|84|0|2|0|4|80
+David Hale|R|Kelly Johnson|L|Groundout|B|Four-Seam Fastball|85|0|0|1|13|90
+David Hale|R|Kelly Johnson|L|Groundout|X|Four-Seam Fastball|86|1|0|1|7|88
+David Hale|R|Wilmer Flores|R|Groundout|F|Two-Seam Fastball|87|0|0|2|13|89
+David Hale|R|Wilmer Flores|R|Groundout|F|Four-Seam Fastball|88|0|1|2|13|87
+David Hale|R|Wilmer Flores|R|Groundout|X|Curveball|89|0|2|2|9|82
+David Hale|R|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|90|0|0|0|2|89
+David Hale|R|Michael Conforto|L|Strikeout|S|Changeup|91|0|1|0|13|77
+David Hale|R|Michael Conforto|L|Strikeout|C|Four-Seam Fastball|92|0|2|0|1|89
+David Hale|R|Anthony Recker|R|Lineout|B|Curveball|93|0|0|1|14|81
+David Hale|R|Anthony Recker|R|Lineout|S|Four-Seam Fastball|94|1|0|1|5|90
+David Hale|R|Anthony Recker|R|Lineout|X|Two-Seam Fastball|95|1|1|1|4|88
+David Hale|R|Logan Verrett|R|Lineout|X|Four-Seam Fastball|96|0|0|2|4|90
+David Hale|R|Juan Carlo Perez|R|Groundout|F|Curveball|0|0|0|2|5|81
+David Hale|R|Juan Carlo Perez|R|Groundout|B|Four-Seam Fastball|1|0|1|2|12|91
+David Hale|R|Juan Carlo Perez|R|Groundout|S|Four-Seam Fastball|2|1|1|2|3|89
+David Hale|R|Juan Carlo Perez|R|Groundout|F|Two-Seam Fastball|3|1|2|2|3|92
+David Hale|R|Juan Carlo Perez|R|Groundout|X|Curveball|4|1|2|2|9|82
+David Hale|R|Madison Bumgarner|R|Double|C|Two-Seam Fastball|5|0|0|0|8|87
+David Hale|R|Madison Bumgarner|R|Double|F|Curveball|6|0|1|0|9|80
+David Hale|R|Madison Bumgarner|R|Double|B|Curveball|7|0|2|0|14|81
+David Hale|R|Madison Bumgarner|R|Double|B|Curveball|8|1|2|0|14|81
+David Hale|R|Madison Bumgarner|R|Double|D|Four-Seam Fastball|9|2|2|0|5|91
+David Hale|R|Gregor Blanco|L|Pop Out|C|Four-Seam Fastball|10|0|0|0|5|88
+David Hale|R|Gregor Blanco|L|Pop Out|B|Four-Seam Fastball|11|0|1|0|11|91
+David Hale|R|Gregor Blanco|L|Pop Out|F|Four-Seam Fastball|12|1|1|0|11|89
+David Hale|R|Gregor Blanco|L|Pop Out|X|Curveball|13|1|2|0|9|80
+David Hale|R|Kelby Tomlinson|R|Lineout|S|Four-Seam Fastball|14|0|0|1|11|88
+David Hale|R|Kelby Tomlinson|R|Lineout|F|Curveball|15|0|1|1|4|78
+David Hale|R|Kelby Tomlinson|R|Lineout|B|Four-Seam Fastball|16|0|2|1|14|89
+David Hale|R|Kelby Tomlinson|R|Lineout|X|Two-Seam Fastball|17|1|2|1|8|91
+David Hale|R|Matt Duffy|R|Groundout|C|Curveball|18|0|0|2|5|81
+David Hale|R|Matt Duffy|R|Groundout|X|Four-Seam Fastball|19|0|1|2|9|90
+David Hale|R|Nelson Cruz|R|Lineout|*B|Changeup|0|0|0|2|14|78
+David Hale|R|Nelson Cruz|R|Lineout|C|Two-Seam Fastball|1|1|0|2|8|91
+David Hale|R|Nelson Cruz|R|Lineout|B|Changeup|2|1|1|2|13|78
+David Hale|R|Nelson Cruz|R|Lineout|X|Four-Seam Fastball|3|2|1|2|14|92
+David Hale|R|Robinson Cano|L|Lineout|X|Two-Seam Fastball|4|0|0|0|4|90
+David Hale|R|Franklin Gutierrez|R|Home Run|B|Two-Seam Fastball|5|0|0|1|14|90
+David Hale|R|Franklin Gutierrez|R|Home Run|C|Changeup|6|1|0|1|5|77
+David Hale|R|Franklin Gutierrez|R|Home Run|E|Four-Seam Fastball|7|1|1|1|8|90
+David Hale|R|Mark Trumbo|R|Groundout|S|Curveball|8|0|0|1|14|81
+David Hale|R|Mark Trumbo|R|Groundout|B|Curveball|9|0|1|1|14|81
+David Hale|R|Mark Trumbo|R|Groundout|B|Four-Seam Fastball|10|1|1|1|13|90
+David Hale|R|Mark Trumbo|R|Groundout|B|Two-Seam Fastball|11|2|1|1|13|91
+David Hale|R|Mark Trumbo|R|Groundout|X|Two-Seam Fastball|12|3|1|1|13|90
+David Hale|R|Jesus Montero|R|Groundout|S|Curveball|13|0|0|2|14|80
+David Hale|R|Jesus Montero|R|Groundout|X|Curveball|14|0|1|2|9|81
+David Hale|R|Shawn O'Malley|L|Strikeout|B|Two-Seam Fastball|15|0|0|0|11|89
+David Hale|R|Shawn O'Malley|L|Strikeout|S|Curveball|16|1|0|0|4|79
+David Hale|R|Shawn O'Malley|L|Strikeout|B|Curveball|17|1|1|0|11|78
+David Hale|R|Shawn O'Malley|L|Strikeout|B|Two-Seam Fastball|18|2|1|0|11|89
+David Hale|R|Shawn O'Malley|L|Strikeout|C|Two-Seam Fastball|19|3|1|0|9|90
+David Hale|R|Shawn O'Malley|L|Strikeout|S|Two-Seam Fastball|20|3|2|0|13|90
+David Hale|R|John Hicks|R|Strikeout|F|Curveball|21|0|0|1|4|80
+David Hale|R|John Hicks|R|Strikeout|B|Two-Seam Fastball|22|0|1|1|13|92
+David Hale|R|John Hicks|R|Strikeout|S|Two-Seam Fastball|23|1|1|1|7|90
+David Hale|R|John Hicks|R|Strikeout|B|Curveball|24|1|2|1|14|83
+David Hale|R|John Hicks|R|Strikeout|B|Two-Seam Fastball|25|2|2|1|14|91
+David Hale|R|John Hicks|R|Strikeout|C|Four-Seam Fastball|26|3|2|1|7|91
+David Hale|R|Ketel Marte|L|Strikeout|C|Curveball|27|0|0|2|11|80
+David Hale|R|Ketel Marte|L|Strikeout|S|Curveball|28|0|1|2|13|79
+David Hale|R|Ketel Marte|L|Strikeout|B|Changeup|29|0|2|2|13|76
+David Hale|R|Ketel Marte|L|Strikeout|B|Four-Seam Fastball|30|1|2|2|13|91
+David Hale|R|Ketel Marte|L|Strikeout|F|Two-Seam Fastball|31|2|2|2|13|91
+David Hale|R|Ketel Marte|L|Strikeout|S|Changeup|32|2|2|2|7|79
+David Hale|R|Kyle Seager|L|Single|C|Two-Seam Fastball|33|0|0|0|1|89
+David Hale|R|Kyle Seager|L|Single|B|Curveball|34|0|1|0|13|79
+David Hale|R|Kyle Seager|L|Single|B|Two-Seam Fastball|35|1|1|0|13|90
+David Hale|R|Kyle Seager|L|Single|B|Changeup|36|2|1|0|11|78
+David Hale|R|Kyle Seager|L|Single|D|Two-Seam Fastball|37|3|1|0|11|89
+David Hale|R|Nelson Cruz|R|Home Run|F|Changeup|38|0|0|0|7|79
+David Hale|R|Nelson Cruz|R|Home Run|S|Curveball|39|0|1|0|14|80
+David Hale|R|Nelson Cruz|R|Home Run|E|Curveball|40|0|2|0|14|82
+David Hale|R|Robinson Cano|L|Groundout|C|Two-Seam Fastball|41|0|0|0|4|90
+David Hale|R|Robinson Cano|L|Groundout|B|Curveball|42|0|1|0|13|79
+David Hale|R|Robinson Cano|L|Groundout|B|Two-Seam Fastball|43|1|1|0|13|90
+David Hale|R|Robinson Cano|L|Groundout|S|Changeup|44|2|1|0|13|79
+David Hale|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|45|2|2|0|13|91
+David Hale|R|Franklin Gutierrez|R|Lineout|B|Curveball|46|0|0|1|14|80
+David Hale|R|Franklin Gutierrez|R|Lineout|C|Curveball|47|1|0|1|6|78
+David Hale|R|Franklin Gutierrez|R|Lineout|F|Curveball|48|1|1|1|13|79
+David Hale|R|Franklin Gutierrez|R|Lineout|B|Two-Seam Fastball|49|1|2|1|13|89
+David Hale|R|Franklin Gutierrez|R|Lineout|B|Two-Seam Fastball|50|2|2|1|13|88
+David Hale|R|Franklin Gutierrez|R|Lineout|X|Curveball|51|3|2|1|4|79
+David Hale|R|Mark Trumbo|R|Walk|B|Curveball|52|0|0|2|14|81
+David Hale|R|Mark Trumbo|R|Walk|B|Four-Seam Fastball|53|1|0|2|13|89
+David Hale|R|Mark Trumbo|R|Walk|B|Two-Seam Fastball|54|2|0|2|14|88
+David Hale|R|Mark Trumbo|R|Walk|B|Two-Seam Fastball|55|3|0|2|13|89
+David Hale|R|Carl Crawford|L|Lineout|B|Four-Seam Fastball|0|0|0|2|13|91
+David Hale|R|Carl Crawford|L|Lineout|C|Two-Seam Fastball|1|1|0|2|8|90
+David Hale|R|Carl Crawford|L|Lineout|B|Changeup|2|1|1|2|14|80
+David Hale|R|Carl Crawford|L|Lineout|X|Two-Seam Fastball|3|2|1|2|5|90
+David Hale|R|Justin Turner|R|Single|F|Four-Seam Fastball|4|0|0|0|11|91
+David Hale|R|Justin Turner|R|Single|F|Curveball|5|0|1|0|2|81
+David Hale|R|Justin Turner|R|Single|B|Curveball|6|0|2|0|14|83
+David Hale|R|Justin Turner|R|Single|B|Two-Seam Fastball|7|1|2|0|13|92
+David Hale|R|Justin Turner|R|Single|D|Two-Seam Fastball|8|2|2|0|11|91
+David Hale|R|Adrian Gonzalez|L|Grounded Into DP|F|Two-Seam Fastball|9|0|0|0|5|91
+David Hale|R|Adrian Gonzalez|L|Grounded Into DP|B|Two-Seam Fastball|10|0|1|0|11|90
+David Hale|R|Adrian Gonzalez|L|Grounded Into DP|F|Two-Seam Fastball|11|1|1|0|1|91
+David Hale|R|Adrian Gonzalez|L|Grounded Into DP|B|Curveball|12|1|2|0|14|83
+David Hale|R|Adrian Gonzalez|L|Grounded Into DP|X|Four-Seam Fastball|13|2|2|0|9|92
+David Hale|R|Yangervis Solarte|L|Lineout|C|Two-Seam Fastball|0|0|0|0|5|90
+David Hale|R|Yangervis Solarte|L|Lineout|X|Changeup|1|0|1|0|5|78
+David Hale|R|Matt Kemp|R|Double|B|Curveball|2|0|0|1|14|82
+David Hale|R|Matt Kemp|R|Double|D|Curveball|3|1|0|1|7|82
+David Hale|R|Justin Upton|R|Double|C|Four-Seam Fastball|4|0|0|1|8|92
+David Hale|R|Justin Upton|R|Double|B|Two-Seam Fastball|5|0|1|1|13|91
+David Hale|R|Justin Upton|R|Double|*B|Two-Seam Fastball|6|1|1|1|13|92
+David Hale|R|Justin Upton|R|Double|F|Changeup|7|2|1|1|7|80
+David Hale|R|Justin Upton|R|Double|*B|Four-Seam Fastball|8|2|2|1|13|92
+David Hale|R|Justin Upton|R|Double|E|Curveball|9|3|2|1|14|84
+David Hale|R|Jedd Gyorko|R|Single|D|Two-Seam Fastball|10|0|0|1|11|92
+David Hale|R|Derek Norris|R|Single|F|Four-Seam Fastball|11|0|0|1|2|91
+David Hale|R|Derek Norris|R|Single|E|Four-Seam Fastball|12|0|1|1|4|89
+David Hale|R|Cory Spangenberg|L|Forceout|S|Changeup|13|0|0|1|8|80
+David Hale|R|Cory Spangenberg|L|Forceout|F|Changeup|14|0|1|1|13|77
+David Hale|R|Cory Spangenberg|L|Forceout|*B|Changeup|15|0|2|1|13|80
+David Hale|R|Cory Spangenberg|L|Forceout|X|Four-Seam Fastball|16|1|2|1|9|92
+David Hale|R|James Shields|R|Groundout|C|Four-Seam Fastball|17|0|0|2|9|90
+David Hale|R|James Shields|R|Groundout|F|Curveball|18|0|1|2|4|82
+David Hale|R|James Shields|R|Groundout|*B|Curveball|19|0|2|2|14|83
+David Hale|R|James Shields|R|Groundout|F|Four-Seam Fastball|20|1|2|2|5|90
+David Hale|R|James Shields|R|Groundout|*B|Curveball|21|1|2|2|14|85
+David Hale|R|James Shields|R|Groundout|X|Four-Seam Fastball|22|2|2|2|5|90
+David Hale|R|Travis Jankowski|L|Strikeout|C|Two-Seam Fastball|23|0|0|0|11|86
+David Hale|R|Travis Jankowski|L|Strikeout|B|Changeup|24|0|1|0|13|77
+David Hale|R|Travis Jankowski|L|Strikeout|B|Four-Seam Fastball|25|1|1|0|14|89
+David Hale|R|Travis Jankowski|L|Strikeout|F|Two-Seam Fastball|26|2|1|0|11|89
+David Hale|R|Travis Jankowski|L|Strikeout|S|Changeup|27|2|2|0|13|79
+David Hale|R|Wil Myers|R|Strikeout|B|Two-Seam Fastball|28|0|0|1|13|90
+David Hale|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|29|1|0|1|13|90
+David Hale|R|Wil Myers|R|Strikeout|S|Curveball|30|1|1|1|13|82
+David Hale|R|Wil Myers|R|Strikeout|F|Curveball|31|1|2|1|7|81
+David Hale|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|32|1|2|1|6|91
+David Hale|R|Yangervis Solarte|L|Single|D|Changeup|33|0|0|2|13|80
+David Hale|R|Matt Kemp|R|Double|B|Two-Seam Fastball|34|0|0|2|11|88
+David Hale|R|Matt Kemp|R|Double|S|Changeup|35|1|0|2|13|79
+David Hale|R|Matt Kemp|R|Double|B|Four-Seam Fastball|36|1|1|2|14|92
+David Hale|R|Matt Kemp|R|Double|F|Changeup|37|2|1|2|13|80
+David Hale|R|Matt Kemp|R|Double|D|Curveball|38|2|2|2|4|82
+David Hale|R|Justin Upton|R|Single|E|Four-Seam Fastball|39|0|0|2|5|90
+David Hale|R|Jedd Gyorko|R|Lineout|B|Curveball|40|0|0|2|14|84
+David Hale|R|Jedd Gyorko|R|Lineout|C|Four-Seam Fastball|41|1|0|2|6|91
+David Hale|R|Jedd Gyorko|R|Lineout|S|Curveball|42|1|1|2|14|82
+David Hale|R|Jedd Gyorko|R|Lineout|*B|Curveball|43|1|2|2|14|82
+David Hale|R|Jedd Gyorko|R|Lineout|X|Two-Seam Fastball|44|2|2|2|1|89
+David Hale|R|Derek Norris|R|Flyout|B|Four-Seam Fastball|45|0|0|0|11|87
+David Hale|R|Derek Norris|R|Flyout|C|Four-Seam Fastball|46|1|0|0|5|89
+David Hale|R|Derek Norris|R|Flyout|X|Four-Seam Fastball|47|1|1|0|3|89
+David Hale|R|Cory Spangenberg|L|Field Error|B|Four-Seam Fastball|48|0|0|1|12|88
+David Hale|R|Cory Spangenberg|L|Field Error|B|Changeup|49|1|0|1|14|81
+David Hale|R|Cory Spangenberg|L|Field Error|D|Four-Seam Fastball|50|2|0|1|1|88
+David Hale|R|James Shields|R|Lineout|B|Four-Seam Fastball|51|0|0|1|11|87
+David Hale|R|James Shields|R|Lineout|X|Four-Seam Fastball|52|1|0|1|5|89
+David Hale|R|Travis Jankowski|L|Groundout|C|Four-Seam Fastball|53|0|0|2|13|89
+David Hale|R|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|54|0|1|2|2|88
+David Hale|R|Chase Utley|L|Groundout|X|Four-Seam Fastball|0|0|0|0|7|90
+David Hale|R|Jimmy Rollins|L|Triple|C|Two-Seam Fastball|1|0|0|1|13|91
+David Hale|R|Jimmy Rollins|L|Triple|D|Curveball|2|0|1|1|8|83
+David Hale|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|3|0|0|1|14|92
+David Hale|R|Adrian Gonzalez|L|Groundout|F|Four-Seam Fastball|4|1|0|1|6|92
+David Hale|R|Adrian Gonzalez|L|Groundout|*B|Changeup|5|1|1|1|14|81
+David Hale|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|6|2|1|1|14|93
+David Hale|R|Adrian Gonzalez|L|Groundout|E|Changeup|7|3|1|1|7|81
+David Hale|R|Howie Kendrick|R|Single|B|Four-Seam Fastball|8|0|0|2|14|92
+David Hale|R|Howie Kendrick|R|Single|B|Curveball|9|1|0|2|14|83
+David Hale|R|Howie Kendrick|R|Single|F|Four-Seam Fastball|10|2|0|2|11|91
+David Hale|R|Howie Kendrick|R|Single|D|Four-Seam Fastball|11|2|1|2|5|91
+David Hale|R|Andre Ethier|L|Lineout|B|Four-Seam Fastball|12|0|0|2|14|91
+David Hale|R|Andre Ethier|L|Lineout|F|Changeup|13|1|0|2|13|80
+David Hale|R|Andre Ethier|L|Lineout|X|Four-Seam Fastball|14|1|1|2|6|91
+David Hale|R|Carl Crawford|L|Single|F|Four-Seam Fastball|15|0|0|0|5|90
+David Hale|R|Carl Crawford|L|Single|C|Four-Seam Fastball|16|0|1|0|14|91
+David Hale|R|Carl Crawford|L|Single|B|Curveball|17|0|2|0|14|81
+David Hale|R|Carl Crawford|L|Single|X|Changeup|18|1|2|0|14|80
+David Hale|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|19|0|0|1|12|92
+David Hale|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|20|1|0|1|12|91
+David Hale|R|Yasmani Grandal|L|Groundout|C|Two-Seam Fastball|21|2|0|1|14|91
+David Hale|R|Yasmani Grandal|L|Groundout|B|Changeup|22|2|1|1|14|81
+David Hale|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|23|3|1|1|14|91
+David Hale|R|Yasmani Grandal|L|Groundout|X|Four-Seam Fastball|24|3|2|1|14|92
+David Hale|R|Joc Pederson|L|Walk|B|Changeup|25|0|0|2|14|80
+David Hale|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|26|1|0|2|14|92
+David Hale|R|Joc Pederson|L|Walk|S|Changeup|27|2|0|2|14|81
+David Hale|R|Joc Pederson|L|Walk|C|Four-Seam Fastball|28|2|1|2|13|92
+David Hale|R|Joc Pederson|L|Walk|B|Curveball|29|2|2|2|14|84
+David Hale|R|Joc Pederson|L|Walk|B|Curveball|30|3|2|2|13|82
+David Hale|R|Mike Bolsinger|R|Strikeout|S|Four-Seam Fastball|31|0|0|2|1|89
+David Hale|R|Mike Bolsinger|R|Strikeout|S|Four-Seam Fastball|32|0|1|2|11|88
+David Hale|R|Mike Bolsinger|R|Strikeout|C|Four-Seam Fastball|33|0|2|2|4|90
+David Hale|R|Chase Utley|L|Walk|C|Four-Seam Fastball|34|0|0|0|7|90
+David Hale|R|Chase Utley|L|Walk|B|Four-Seam Fastball|35|0|1|0|11|91
+David Hale|R|Chase Utley|L|Walk|B|Four-Seam Fastball|36|1|1|0|14|91
+David Hale|R|Chase Utley|L|Walk|F|Changeup|37|2|1|0|7|80
+David Hale|R|Chase Utley|L|Walk|F|Four-Seam Fastball|38|2|2|0|13|91
+David Hale|R|Chase Utley|L|Walk|B|Changeup|39|2|2|0|13|80
+David Hale|R|Chase Utley|L|Walk|B|Four-Seam Fastball|40|3|2|0|14|92
+David Hale|R|Jimmy Rollins|L|Single|C|Four-Seam Fastball|41|0|0|0|7|91
+David Hale|R|Jimmy Rollins|L|Single|D|Four-Seam Fastball|42|0|1|0|4|90
+David Hale|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|43|0|0|0|13|91
+David Hale|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|44|1|0|0|4|92
+David Hale|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|45|1|1|0|6|91
+David Hale|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|46|1|2|0|14|91
+David Hale|R|Adrian Gonzalez|L|Strikeout|F|Changeup|47|2|2|0|13|80
+David Hale|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|48|2|2|0|4|90
+David Hale|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|49|2|2|0|9|91
+David Hale|R|Adrian Gonzalez|L|Strikeout|S|Changeup|50|2|2|0|9|79
+David Hale|R|Howie Kendrick|R|Grounded Into DP|C|Two-Seam Fastball|51|0|0|1|7|92
+David Hale|R|Howie Kendrick|R|Grounded Into DP|S|Curveball|52|0|1|1|14|83
+David Hale|R|Howie Kendrick|R|Grounded Into DP|*B|Curveball|53|0|2|1|13|84
+David Hale|R|Howie Kendrick|R|Grounded Into DP|F|Four-Seam Fastball|54|1|2|1|11|89
+David Hale|R|Howie Kendrick|R|Grounded Into DP|X|Four-Seam Fastball|55|1|2|1|4|90
+David Hale|R|Andre Ethier|L|Groundout|C|Four-Seam Fastball|56|0|0|0|8|90
+David Hale|R|Andre Ethier|L|Groundout|B|Curveball|57|0|1|0|13|82
+David Hale|R|Andre Ethier|L|Groundout|F|Four-Seam Fastball|58|1|1|0|2|90
+David Hale|R|Andre Ethier|L|Groundout|X|Curveball|59|1|2|0|8|84
+David Hale|R|Carl Crawford|L|Groundout|B|Changeup|60|0|0|1|14|79
+David Hale|R|Carl Crawford|L|Groundout|C|Changeup|61|1|0|1|13|80
+David Hale|R|Carl Crawford|L|Groundout|S|Changeup|62|1|1|1|14|78
+David Hale|R|Carl Crawford|L|Groundout|B|Four-Seam Fastball|63|1|2|1|11|90
+David Hale|R|Carl Crawford|L|Groundout|F|Four-Seam Fastball|64|2|2|1|5|91
+David Hale|R|Carl Crawford|L|Groundout|B|Curveball|65|2|2|1|14|85
+David Hale|R|Carl Crawford|L|Groundout|X|Changeup|66|3|2|1|13|80
+David Hale|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|67|0|0|2|11|90
+David Hale|R|Yasmani Grandal|L|Groundout|B|Changeup|68|1|0|2|11|80
+David Hale|R|Yasmani Grandal|L|Groundout|C|Changeup|69|2|0|2|5|78
+David Hale|R|Yasmani Grandal|L|Groundout|X|Four-Seam Fastball|70|2|1|2|6|91
+David Hale|R|Joc Pederson|L|Groundout|B|Four-Seam Fastball|71|0|0|0|13|90
+David Hale|R|Joc Pederson|L|Groundout|S|Changeup|72|1|0|0|13|79
+David Hale|R|Joc Pederson|L|Groundout|X|Four-Seam Fastball|73|1|1|0|5|90
+David Hale|R|Alex Guerrero|R|Strikeout|F|Four-Seam Fastball|74|0|0|1|4|91
+David Hale|R|Alex Guerrero|R|Strikeout|B|Four-Seam Fastball|75|0|1|1|13|90
+David Hale|R|Alex Guerrero|R|Strikeout|F|Curveball|76|1|1|1|5|81
+David Hale|R|Alex Guerrero|R|Strikeout|B|Four-Seam Fastball|77|1|2|1|13|90
+David Hale|R|Alex Guerrero|R|Strikeout|S|Four-Seam Fastball|78|2|2|1|5|90
+David Hale|R|Chase Utley|L|Double|C|Four-Seam Fastball|79|0|0|2|8|91
+David Hale|R|Chase Utley|L|Double|B|Four-Seam Fastball|80|0|1|2|13|91
+David Hale|R|Chase Utley|L|Double|S|Changeup|81|1|1|2|13|79
+David Hale|R|Chase Utley|L|Double|D|Four-Seam Fastball|82|1|2|2|7|91
+David Hale|R|Jimmy Rollins|L|Strikeout|B|Changeup|83|0|0|2|14|78
+David Hale|R|Jimmy Rollins|L|Strikeout|B|Four-Seam Fastball|84|1|0|2|14|91
+David Hale|R|Jimmy Rollins|L|Strikeout|S|Four-Seam Fastball|85|2|0|2|8|91
+David Hale|R|Jimmy Rollins|L|Strikeout|B|Changeup|86|2|1|2|14|79
+David Hale|R|Jimmy Rollins|L|Strikeout|S|Changeup|87|3|1|2|14|81
+David Hale|R|Jimmy Rollins|L|Strikeout|S|Four-Seam Fastball|88|3|2|2|14|90
+David Hale|R|A.J. Pollock|R|Single|C|Four-Seam Fastball|0|0|0|0|8|91
+David Hale|R|A.J. Pollock|R|Single|F|Four-Seam Fastball|1|0|1|0|5|91
+David Hale|R|A.J. Pollock|R|Single|B|Two-Seam Fastball|2|0|2|0|13|91
+David Hale|R|A.J. Pollock|R|Single|D|Changeup|3|1|2|0|5|77
+David Hale|R|Phil Gosselin|R|Single|C|Two-Seam Fastball|4|0|0|0|7|91
+David Hale|R|Phil Gosselin|R|Single|C|Four-Seam Fastball|5|0|1|0|8|91
+David Hale|R|Phil Gosselin|R|Single|F|Two-Seam Fastball|6|0|2|0|13|91
+David Hale|R|Phil Gosselin|R|Single|*B|Curveball|7|0|2|0|14|85
+David Hale|R|Phil Gosselin|R|Single|*B|Curveball|8|1|2|0|14|85
+David Hale|R|Phil Gosselin|R|Single|B|Four-Seam Fastball|9|2|2|0|13|92
+David Hale|R|Phil Gosselin|R|Single|D|Four-Seam Fastball|10|3|2|0|4|91
+David Hale|R|Paul Goldschmidt|R|Sac Fly|B|Curveball|11|0|0|0|14|83
+David Hale|R|Paul Goldschmidt|R|Sac Fly|B|Two-Seam Fastball|12|1|0|0|13|90
+David Hale|R|Paul Goldschmidt|R|Sac Fly|B|Curveball|13|2|0|0|14|83
+David Hale|R|Paul Goldschmidt|R|Sac Fly|C|Four-Seam Fastball|14|3|0|0|5|89
+David Hale|R|Paul Goldschmidt|R|Sac Fly|E|Two-Seam Fastball|15|3|1|0|11|89
+David Hale|R|David Peralta|L|Single|D|Changeup|16|0|0|1|13|79
+David Hale|R|Welington Castillo|R|Groundout|E|Curveball|17|0|0|1|9|81
+David Hale|R|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|18|0|0|2|12|90
+David Hale|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|19|1|0|2|3|90
+David Hale|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|20|1|1|2|11|91
+David Hale|R|Jake Lamb|L|Strikeout|F|Curveball|21|1|2|2|14|82
+David Hale|R|Jake Lamb|L|Strikeout|B|Changeup|22|1|2|2|13|78
+David Hale|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|23|2|2|2|1|90
+David Hale|R|Jake Lamb|L|Strikeout|T|Curveball|24|2|2|2|9|82
+David Hale|R|Yasmany Tomas|R|Groundout|F|Curveball|25|0|0|0|8|80
+David Hale|R|Yasmany Tomas|R|Groundout|X|Curveball|26|0|1|0|14|82
+David Hale|R|Chris Owings|R|Flyout|B|Four-Seam Fastball|27|0|0|1|14|89
+David Hale|R|Chris Owings|R|Flyout|X|Curveball|28|1|0|1|13|82
+David Hale|R|Patrick Corbin|L|Strikeout|B|Two-Seam Fastball|29|0|0|2|13|90
+David Hale|R|Patrick Corbin|L|Strikeout|T|Four-Seam Fastball|30|1|0|2|13|90
+David Hale|R|Patrick Corbin|L|Strikeout|S|Four-Seam Fastball|31|1|1|2|13|89
+David Hale|R|Patrick Corbin|L|Strikeout|S|Four-Seam Fastball|32|1|2|2|11|91
+David Hale|R|A.J. Pollock|R|Lineout|B|Curveball|33|0|0|0|14|81
+David Hale|R|A.J. Pollock|R|Lineout|X|Curveball|34|1|0|0|8|80
+David Hale|R|Phil Gosselin|R|Lineout|B|Four-Seam Fastball|35|0|0|1|14|91
+David Hale|R|Phil Gosselin|R|Lineout|X|Four-Seam Fastball|36|1|0|1|11|90
+David Hale|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|37|0|0|2|7|91
+David Hale|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|38|0|1|2|7|89
+David Hale|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|39|0|2|2|13|87
+David Hale|R|Paul Goldschmidt|R|Strikeout|F|Curveball|40|1|2|2|9|81
+David Hale|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|41|1|2|2|11|89
+David Hale|R|Socrates Brito|L|Single|C|Four-Seam Fastball|42|0|0|0|8|89
+David Hale|R|Socrates Brito|L|Single|B|Four-Seam Fastball|43|0|1|0|12|88
+David Hale|R|Socrates Brito|L|Single|D|Four-Seam Fastball|44|1|1|0|14|89
+David Hale|R|Welington Castillo|R|Walk|B|Four-Seam Fastball|45|0|0|0|11|89
+David Hale|R|Welington Castillo|R|Walk|B|Two-Seam Fastball|46|1|0|0|13|89
+David Hale|R|Welington Castillo|R|Walk|F|Two-Seam Fastball|47|2|0|0|13|90
+David Hale|R|Welington Castillo|R|Walk|F|Curveball|48|2|1|0|14|82
+David Hale|R|Welington Castillo|R|Walk|*B|Four-Seam Fastball|49|2|2|0|13|90
+David Hale|R|Welington Castillo|R|Walk|B|Four-Seam Fastball|50|3|2|0|13|90
+David Hale|R|Jake Lamb|L|Flyout|S|Changeup|51|0|0|0|7|79
+David Hale|R|Jake Lamb|L|Flyout|B|Four-Seam Fastball|52|0|1|0|14|90
+David Hale|R|Jake Lamb|L|Flyout|X|Changeup|53|1|1|0|7|78
+David Hale|R|Yasmany Tomas|R|Groundout|S|Curveball|54|0|0|1|6|80
+David Hale|R|Yasmany Tomas|R|Groundout|B|Curveball|55|0|1|1|14|80
+David Hale|R|Yasmany Tomas|R|Groundout|E|Four-Seam Fastball|56|1|1|1|8|90
+David Hale|R|Chris Owings|R|Intent Walk|I|Intentional Ball|57|0|0|2|12|76
+David Hale|R|Chris Owings|R|Intent Walk|I|Intentional Ball|58|0|1|2|12|76
+David Hale|R|Chris Owings|R|Intent Walk|I|Intentional Ball|59|0|2|2|12|75
+David Hale|R|Chris Owings|R|Intent Walk|I|Intentional Ball|60|0|2|2|12|74
+David Hale|R|Patrick Corbin|L|Forceout|C|Two-Seam Fastball|61|0|0|2|8|90
+David Hale|R|Patrick Corbin|L|Forceout|B|Two-Seam Fastball|62|0|1|2|13|90
+David Hale|R|Patrick Corbin|L|Forceout|F|Two-Seam Fastball|63|1|1|2|4|89
+David Hale|R|Patrick Corbin|L|Forceout|X|Four-Seam Fastball|64|1|2|2|8|89
+David Hale|R|A.J. Pollock|R|Pop Out|B|Four-Seam Fastball|65|0|0|0|14|87
+David Hale|R|A.J. Pollock|R|Pop Out|C|Changeup|66|1|0|0|13|76
+David Hale|R|A.J. Pollock|R|Pop Out|C|Four-Seam Fastball|67|1|1|0|7|88
+David Hale|R|A.J. Pollock|R|Pop Out|B|Four-Seam Fastball|68|1|2|0|13|89
+David Hale|R|A.J. Pollock|R|Pop Out|X|Four-Seam Fastball|69|2|2|0|11|88
+David Hale|R|Phil Gosselin|R|Flyout|C|Curveball|70|0|0|1|7|81
+David Hale|R|Phil Gosselin|R|Flyout|X|Curveball|71|0|1|1|8|80
+David Hale|R|Paul Goldschmidt|R|Double|C|Four-Seam Fastball|72|0|0|2|1|88
+David Hale|R|Paul Goldschmidt|R|Double|B|Four-Seam Fastball|73|0|1|2|3|89
+David Hale|R|Paul Goldschmidt|R|Double|B|Two-Seam Fastball|74|1|1|2|13|88
+David Hale|R|Paul Goldschmidt|R|Double|B|Curveball|75|2|1|2|14|80
+David Hale|R|Paul Goldschmidt|R|Double|C|Curveball|76|3|1|2|5|78
+David Hale|R|Paul Goldschmidt|R|Double|D|Four-Seam Fastball|77|3|2|2|13|89
+David Hale|R|Socrates Brito|L|Triple|B|Changeup|78|0|0|2|14|77
+David Hale|R|Socrates Brito|L|Triple|S|Changeup|79|1|0|2|13|77
+David Hale|R|Socrates Brito|L|Triple|F|Four-Seam Fastball|80|1|1|2|4|90
+David Hale|R|Socrates Brito|L|Triple|E|Curveball|81|1|2|2|14|82
+David Hale|R|Welington Castillo|R|Flyout|B|Four-Seam Fastball|82|0|0|2|14|89
+David Hale|R|Welington Castillo|R|Flyout|X|Curveball|83|1|0|2|6|80
+David Hale|R|Kris Bryant|R|Flyout|X|Four-Seam Fastball|0|0|0|0|12|89
+David Hale|R|Anthony Rizzo|L|Walk|B|Two-Seam Fastball|1|0|0|1|11|90
+David Hale|R|Anthony Rizzo|L|Walk|C|Two-Seam Fastball|2|1|0|1|9|89
+David Hale|R|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|3|1|1|1|12|90
+David Hale|R|Anthony Rizzo|L|Walk|B|Changeup|4|2|1|1|9|79
+David Hale|R|Anthony Rizzo|L|Walk|F|Two-Seam Fastball|5|3|1|1|8|89
+David Hale|R|Anthony Rizzo|L|Walk|*B|Changeup|6|3|2|1|13|80
+David Hale|R|Jorge Soler|R|Flyout|B|Two-Seam Fastball|7|0|0|1|14|90
+David Hale|R|Jorge Soler|R|Flyout|B|Curveball|8|1|0|1|14|79
+David Hale|R|Jorge Soler|R|Flyout|F|Four-Seam Fastball|9|2|0|1|1|89
+David Hale|R|Jorge Soler|R|Flyout|B|Curveball|10|2|1|1|13|79
+David Hale|R|Jorge Soler|R|Flyout|F|Two-Seam Fastball|11|3|1|1|7|90
+David Hale|R|Jorge Soler|R|Flyout|X|Four-Seam Fastball|12|3|2|1|2|90
+David Hale|R|Javier Baez|R|Strikeout|S|Curveball|13|0|0|2|9|80
+David Hale|R|Javier Baez|R|Strikeout|S|Curveball|14|0|1|2|14|81
+David Hale|R|Javier Baez|R|Strikeout|*B|Curveball|15|0|2|2|14|81
+David Hale|R|Javier Baez|R|Strikeout|F|Curveball|16|1|2|2|11|79
+David Hale|R|Javier Baez|R|Strikeout|S|Two-Seam Fastball|17|1|2|2|13|89
+David Hale|R|Addison Russell|R|Bunt Groundout|F|Curveball|18|0|0|0|14|79
+David Hale|R|Addison Russell|R|Bunt Groundout|X|Four-Seam Fastball|19|0|1|0|11|89
+David Hale|R|Matt Szczur|R|Single|C|Four-Seam Fastball|20|0|0|1|8|88
+David Hale|R|Matt Szczur|R|Single|F|Curveball|21|0|1|1|9|77
+David Hale|R|Matt Szczur|R|Single|B|Four-Seam Fastball|22|0|2|1|12|91
+David Hale|R|Matt Szczur|R|Single|D|Four-Seam Fastball|23|1|2|1|13|88
+David Hale|R|David Ross|R|Walk|B|Two-Seam Fastball|24|0|0|1|11|88
+David Hale|R|David Ross|R|Walk|F|Two-Seam Fastball|25|1|0|1|13|88
+David Hale|R|David Ross|R|Walk|P|Pitchout|26|1|1|1|12|79
+David Hale|R|David Ross|R|Walk|F|Two-Seam Fastball|27|1|2|1|13|88
+David Hale|R|David Ross|R|Walk|B|Curveball|28|1|2|1|14|80
+David Hale|R|David Ross|R|Walk|B|Curveball|29|2|2|1|14|79
+David Hale|R|Jake Arrieta|R|Lineout|B|Four-Seam Fastball|30|0|0|1|14|87
+David Hale|R|Jake Arrieta|R|Lineout|X|Four-Seam Fastball|31|1|0|1|11|88
+David Hale|R|Dexter Fowler|L|Home Run|F|Two-Seam Fastball|32|0|0|2|8|90
+David Hale|R|Dexter Fowler|L|Home Run|B|Two-Seam Fastball|33|0|1|2|9|90
+David Hale|R|Dexter Fowler|L|Home Run|B|Four-Seam Fastball|34|1|1|2|13|91
+David Hale|R|Dexter Fowler|L|Home Run|E|Four-Seam Fastball|35|2|1|2|8|90
+David Hale|R|Kris Bryant|R|Single|C|Four-Seam Fastball|36|0|0|2|8|90
+David Hale|R|Kris Bryant|R|Single|B|Curveball|37|0|1|2|14|79
+David Hale|R|Kris Bryant|R|Single|F|Four-Seam Fastball|38|1|1|2|3|88
+David Hale|R|Kris Bryant|R|Single|F|Four-Seam Fastball|39|1|2|2|6|90
+David Hale|R|Kris Bryant|R|Single|D|Curveball|40|1|2|2|14|80
+David Hale|R|Brandon Phillips|R|Single|C|Curveball|0|0|0|0|14|80
+David Hale|R|Brandon Phillips|R|Single|D|Two-Seam Fastball|1|0|1|0|8|91
+David Hale|R|Devin Mesoraco|R|Lineout|B|Four-Seam Fastball|2|0|0|0|9|91
+David Hale|R|Devin Mesoraco|R|Lineout|F|Curveball|3|1|0|0|5|79
+David Hale|R|Devin Mesoraco|R|Lineout|T|Two-Seam Fastball|4|1|1|0|1|89
+David Hale|R|Devin Mesoraco|R|Lineout|B|Four-Seam Fastball|5|1|2|0|14|90
+David Hale|R|Devin Mesoraco|R|Lineout|X|Curveball|6|2|2|0|6|78

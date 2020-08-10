@@ -1,0 +1,734 @@
+Luiz Gohara|L|Miguel Rojas|R|Lineout|B|Four-Seam Fastball|0|0|0|0|13|97
+Luiz Gohara|L|Miguel Rojas|R|Lineout|S|Slider|1|1|0|0|7|82
+Luiz Gohara|L|Miguel Rojas|R|Lineout|X|Slider|2|1|1|0|11|83
+Luiz Gohara|L|Lewis Brinson|R|Flyout|B|Four-Seam Fastball|3|0|0|1|13|97
+Luiz Gohara|L|Lewis Brinson|R|Flyout|C|Four-Seam Fastball|4|1|0|1|4|95
+Luiz Gohara|L|Lewis Brinson|R|Flyout|X|Slider|5|1|1|1|8|80
+Luiz Gohara|L|Cameron Maybin|R|Single|B|Slider|6|0|0|2|13|82
+Luiz Gohara|L|Cameron Maybin|R|Single|C|Four-Seam Fastball|7|1|0|2|1|95
+Luiz Gohara|L|Cameron Maybin|R|Single|F|Four-Seam Fastball|8|1|1|2|13|96
+Luiz Gohara|L|Cameron Maybin|R|Single|D|Slider|9|1|2|2|4|83
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|11|94
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|C|Slider|11|1|0|2|8|81
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|W|Slider|12|1|1|2|13|81
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|C|Slider|13|1|2|2|7|80
+Luiz Gohara|L|Martin Prado|R|Lineout|C|Four-Seam Fastball|14|0|0|0|4|94
+Luiz Gohara|L|Martin Prado|R|Lineout|C|Four-Seam Fastball|15|0|1|0|1|94
+Luiz Gohara|L|Martin Prado|R|Lineout|X|Slider|16|0|2|0|4|84
+Luiz Gohara|L|Starlin Castro|R|Lineout|X|Four-Seam Fastball|17|0|0|1|4|94
+Luiz Gohara|L|Justin Bour|L|Walk|B|Four-Seam Fastball|18|0|0|2|13|94
+Luiz Gohara|L|Justin Bour|L|Walk|B|Four-Seam Fastball|19|1|0|2|13|95
+Luiz Gohara|L|Justin Bour|L|Walk|B|Slider|20|2|0|2|14|81
+Luiz Gohara|L|Justin Bour|L|Walk|C|Four-Seam Fastball|21|3|0|2|13|93
+Luiz Gohara|L|Justin Bour|L|Walk|B|Four-Seam Fastball|22|3|1|2|2|94
+Luiz Gohara|L|Brian Anderson|R|Walk|B|Four-Seam Fastball|23|0|0|2|13|93
+Luiz Gohara|L|Brian Anderson|R|Walk|B|Four-Seam Fastball|24|1|0|2|13|93
+Luiz Gohara|L|Brian Anderson|R|Walk|C|Four-Seam Fastball|25|2|0|2|2|93
+Luiz Gohara|L|Brian Anderson|R|Walk|*B|Slider|26|2|1|2|14|79
+Luiz Gohara|L|Brian Anderson|R|Walk|F|Four-Seam Fastball|27|3|1|2|13|92
+Luiz Gohara|L|Brian Anderson|R|Walk|B|Four-Seam Fastball|28|3|2|2|2|94
+Luiz Gohara|L|Yadiel Rivera|R|Strikeout|S|Slider|29|0|0|2|14|82
+Luiz Gohara|L|Yadiel Rivera|R|Strikeout|B|Slider|30|0|1|2|9|82
+Luiz Gohara|L|Yadiel Rivera|R|Strikeout|F|Four-Seam Fastball|31|1|1|2|2|93
+Luiz Gohara|L|Yadiel Rivera|R|Strikeout|F|Slider|32|1|2|2|6|81
+Luiz Gohara|L|Yadiel Rivera|R|Strikeout|S|Slider|33|1|2|2|7|81
+Luiz Gohara|L|Miguel Rojas|R|Lineout|C|Four-Seam Fastball|34|0|0|0|5|94
+Luiz Gohara|L|Miguel Rojas|R|Lineout|B|Four-Seam Fastball|35|0|1|0|13|94
+Luiz Gohara|L|Miguel Rojas|R|Lineout|X|Four-Seam Fastball|36|1|1|0|13|94
+Luiz Gohara|L|Lewis Brinson|R|Home Run|C|Slider|37|0|0|1|6|81
+Luiz Gohara|L|Lewis Brinson|R|Home Run|E|Slider|38|0|1|1|6|83
+Luiz Gohara|L|Cameron Maybin|R|Flyout|B|Two-Seam Fastball|39|0|0|1|11|95
+Luiz Gohara|L|Cameron Maybin|R|Flyout|X|Four-Seam Fastball|40|1|0|1|1|94
+Luiz Gohara|L|J.T. Realmuto|R|Pop Out|F|Four-Seam Fastball|41|0|0|2|14|94
+Luiz Gohara|L|J.T. Realmuto|R|Pop Out|C|Slider|42|0|1|2|5|84
+Luiz Gohara|L|J.T. Realmuto|R|Pop Out|X|Slider|43|0|2|2|5|84
+Luiz Gohara|L|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|11|93
+Luiz Gohara|L|Kyle Schwarber|L|Strikeout|B|Slider|1|0|1|2|13|83
+Luiz Gohara|L|Kyle Schwarber|L|Strikeout|C|Slider|2|1|1|2|7|80
+Luiz Gohara|L|Kyle Schwarber|L|Strikeout|S|Slider|3|1|2|2|4|82
+Luiz Gohara|L|Albert Almora Jr.|R|Flyout|F|Four-Seam Fastball|4|0|0|0|5|94
+Luiz Gohara|L|Albert Almora Jr.|R|Flyout|X|Four-Seam Fastball|5|0|1|0|2|93
+Luiz Gohara|L|Addison Russell|R|Pop Out|S|Slider|6|0|0|1|13|82
+Luiz Gohara|L|Addison Russell|R|Pop Out|B|Slider|7|0|1|1|13|82
+Luiz Gohara|L|Addison Russell|R|Pop Out|B|Four-Seam Fastball|8|1|1|1|14|94
+Luiz Gohara|L|Addison Russell|R|Pop Out|F|Four-Seam Fastball|9|2|1|1|12|94
+Luiz Gohara|L|Addison Russell|R|Pop Out|B|Slider|10|2|2|1|13|83
+Luiz Gohara|L|Addison Russell|R|Pop Out|X|Slider|11|3|2|1|4|83
+Luiz Gohara|L|David Bote|R|Pop Out|C|Slider|12|0|0|2|2|78
+Luiz Gohara|L|David Bote|R|Pop Out|B|Four-Seam Fastball|13|0|1|2|12|93
+Luiz Gohara|L|David Bote|R|Pop Out|B|Four-Seam Fastball|14|1|1|2|11|92
+Luiz Gohara|L|David Bote|R|Pop Out|X|Four-Seam Fastball|15|2|1|2|11|93
+Luiz Gohara|L|Ben Zobrist|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|11|94
+Luiz Gohara|L|Ben Zobrist|R|Strikeout|F|Slider|17|0|1|0|8|80
+Luiz Gohara|L|Ben Zobrist|R|Strikeout|S|Slider|18|0|2|0|13|82
+Luiz Gohara|L|Kris Bryant|R|Flyout|B|Slider|19|0|0|1|13|82
+Luiz Gohara|L|Kris Bryant|R|Flyout|B|Slider|20|1|0|1|13|83
+Luiz Gohara|L|Kris Bryant|R|Flyout|C|Slider|21|2|0|1|7|82
+Luiz Gohara|L|Kris Bryant|R|Flyout|X|Four-Seam Fastball|22|2|1|1|2|95
+Luiz Gohara|L|Anthony Rizzo|L|Flyout|B|Slider|23|0|0|2|13|83
+Luiz Gohara|L|Anthony Rizzo|L|Flyout|B|Slider|24|1|0|2|13|82
+Luiz Gohara|L|Anthony Rizzo|L|Flyout|X|Four-Seam Fastball|25|2|0|2|4|93
+Luiz Gohara|L|Justin Bour|L|Pop Out|X|Slider|0|0|0|0|4|80
+Luiz Gohara|L|Brian Anderson|R|Flyout|B|Four-Seam Fastball|1|0|0|1|11|93
+Luiz Gohara|L|Brian Anderson|R|Flyout|B|Four-Seam Fastball|2|1|0|1|13|92
+Luiz Gohara|L|Brian Anderson|R|Flyout|C|Slider|3|2|0|1|4|79
+Luiz Gohara|L|Brian Anderson|R|Flyout|F|Four-Seam Fastball|4|2|1|1|13|94
+Luiz Gohara|L|Brian Anderson|R|Flyout|B|Slider|5|2|2|1|11|81
+Luiz Gohara|L|Brian Anderson|R|Flyout|X|Slider|6|3|2|1|11|81
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|7|0|0|2|12|92
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|F|Slider|8|1|0|2|3|80
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|9|1|1|2|11|94
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|10|2|1|2|11|94
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|S|Slider|11|3|1|2|14|81
+Luiz Gohara|L|Derek Dietrich|L|Strikeout|S|Slider|12|3|2|2|4|82
+Luiz Gohara|L|Miguel Rojas|R|Groundout|C|Four-Seam Fastball|13|0|0|0|11|94
+Luiz Gohara|L|Miguel Rojas|R|Groundout|B|Changeup|14|0|1|0|13|88
+Luiz Gohara|L|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|15|1|1|0|11|94
+Luiz Gohara|L|Miguel Rojas|R|Groundout|F|Slider|16|2|1|0|4|80
+Luiz Gohara|L|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|17|2|2|0|13|94
+Luiz Gohara|L|Miguel Rojas|R|Groundout|X|Slider|18|3|2|0|5|82
+Luiz Gohara|L|Lewis Brinson|R|Lineout|C|Slider|19|0|0|1|9|81
+Luiz Gohara|L|Lewis Brinson|R|Lineout|X|Slider|20|0|1|1|14|82
+Luiz Gohara|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|1|94
+Luiz Gohara|L|Cesar Hernandez|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|93
+Luiz Gohara|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|12|93
+Luiz Gohara|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|12|94
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|F|Four-Seam Fastball|4|0|0|1|2|95
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|B|Four-Seam Fastball|5|0|1|1|12|95
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|B|Four-Seam Fastball|6|1|1|1|12|94
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|B|Slider|7|2|1|1|13|85
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|X|Four-Seam Fastball|8|3|1|1|5|94
+Luiz Gohara|L|Odubel Herrera|L|Pop Out|C|Four-Seam Fastball|9|0|0|2|12|96
+Luiz Gohara|L|Odubel Herrera|L|Pop Out|B|Four-Seam Fastball|10|0|1|2|11|95
+Luiz Gohara|L|Odubel Herrera|L|Pop Out|C|Two-Seam Fastball|11|1|1|2|1|96
+Luiz Gohara|L|Odubel Herrera|L|Pop Out|X|Slider|12|1|2|2|13|85
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|C|Four-Seam Fastball|13|0|0|0|8|94
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|C|Four-Seam Fastball|14|0|1|0|14|94
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|C|Four-Seam Fastball|15|0|2|0|14|93
+Luiz Gohara|L|Carlos Santana|R|Single|D|Four-Seam Fastball|16|0|0|1|6|95
+Luiz Gohara|L|Maikel Franco|R|Walk|S|Slider|17|0|0|1|13|82
+Luiz Gohara|L|Maikel Franco|R|Walk|S|Slider|18|0|1|1|13|81
+Luiz Gohara|L|Maikel Franco|R|Walk|*B|Slider|19|0|2|1|13|82
+Luiz Gohara|L|Maikel Franco|R|Walk|B|Four-Seam Fastball|20|1|2|1|11|92
+Luiz Gohara|L|Maikel Franco|R|Walk|F|Four-Seam Fastball|21|2|2|1|11|93
+Luiz Gohara|L|Maikel Franco|R|Walk|*B|Slider|22|2|2|1|13|84
+Luiz Gohara|L|Maikel Franco|R|Walk|F|Slider|23|3|2|1|5|81
+Luiz Gohara|L|Maikel Franco|R|Walk|F|Four-Seam Fastball|24|3|2|1|3|95
+Luiz Gohara|L|Maikel Franco|R|Walk|B|Four-Seam Fastball|25|3|2|1|13|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|26|0|0|1|5|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|27|0|1|1|1|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|28|0|2|1|2|95
+Luiz Gohara|L|Scott Kingery|R|Strikeout|S|Slider|29|0|0|2|13|80
+Luiz Gohara|L|Scott Kingery|R|Strikeout|W|Slider|30|0|1|2|13|83
+Luiz Gohara|L|Scott Kingery|R|Strikeout|W|Slider|31|0|2|2|13|82
+Luiz Gohara|L|Jake Arrieta|R|Strikeout|B|Four-Seam Fastball|32|0|0|0|12|95
+Luiz Gohara|L|Jake Arrieta|R|Strikeout|C|Four-Seam Fastball|33|1|0|0|12|93
+Luiz Gohara|L|Jake Arrieta|R|Strikeout|C|Four-Seam Fastball|34|1|1|0|8|93
+Luiz Gohara|L|Jake Arrieta|R|Strikeout|S|Slider|35|1|2|0|13|83
+Luiz Gohara|L|Cesar Hernandez|R|Flyout|F|Four-Seam Fastball|36|0|0|1|5|94
+Luiz Gohara|L|Cesar Hernandez|R|Flyout|B|Changeup|37|0|1|1|13|89
+Luiz Gohara|L|Cesar Hernandez|R|Flyout|B|Changeup|38|1|1|1|13|89
+Luiz Gohara|L|Cesar Hernandez|R|Flyout|X|Four-Seam Fastball|39|2|1|1|2|95
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Slider|40|0|0|2|13|82
+Luiz Gohara|L|Rhys Hoskins|R|Walk|C|Changeup|41|1|0|2|7|89
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|42|1|1|2|12|95
+Luiz Gohara|L|Rhys Hoskins|R|Walk|F|Four-Seam Fastball|43|2|1|2|9|94
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Slider|44|2|2|2|13|85
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Slider|45|3|2|2|13|85
+Luiz Gohara|L|Odubel Herrera|L|Single|D|Slider|46|0|0|2|13|83
+Luiz Gohara|L|Aaron Altherr|R|Walk|B|Four-Seam Fastball|47|0|0|2|13|94
+Luiz Gohara|L|Aaron Altherr|R|Walk|S|Changeup|48|1|0|2|14|87
+Luiz Gohara|L|Aaron Altherr|R|Walk|B|Four-Seam Fastball|49|1|1|2|14|94
+Luiz Gohara|L|Aaron Altherr|R|Walk|B|Four-Seam Fastball|50|2|1|2|13|94
+Luiz Gohara|L|Aaron Altherr|R|Walk|B|Slider|51|3|1|2|13|81
+Luiz Gohara|L|Carlos Santana|R|Single|B|Slider|52|0|0|2|13|83
+Luiz Gohara|L|Carlos Santana|R|Single|*B|Four-Seam Fastball|53|1|0|2|13|95
+Luiz Gohara|L|Carlos Santana|R|Single|C|Four-Seam Fastball|54|2|0|2|6|94
+Luiz Gohara|L|Carlos Santana|R|Single|F|Four-Seam Fastball|55|2|1|2|5|94
+Luiz Gohara|L|Carlos Santana|R|Single|E|Slider|56|2|2|2|5|84
+Luiz Gohara|L|Maikel Franco|R|Lineout|F|Four-Seam Fastball|57|0|0|2|3|95
+Luiz Gohara|L|Maikel Franco|R|Lineout|X|Four-Seam Fastball|58|0|1|2|11|95
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|B|Slider|59|0|0|0|11|83
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|60|1|0|0|6|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|F|Four-Seam Fastball|61|1|1|0|12|95
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|F|Slider|62|1|2|0|7|82
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|F|Four-Seam Fastball|63|1|2|0|3|96
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|64|1|2|0|5|95
+Luiz Gohara|L|Scott Kingery|R|Walk|B|Four-Seam Fastball|65|0|0|1|12|95
+Luiz Gohara|L|Scott Kingery|R|Walk|B|Changeup|66|1|0|1|13|90
+Luiz Gohara|L|Scott Kingery|R|Walk|B|Changeup|67|2|0|1|14|89
+Luiz Gohara|L|Scott Kingery|R|Walk|B|Four-Seam Fastball|68|3|0|1|12|95
+Luiz Gohara|L|Jake Arrieta|R|Sac Bunt|B|Four-Seam Fastball|69|0|0|1|12|93
+Luiz Gohara|L|Jake Arrieta|R|Sac Bunt|C|Four-Seam Fastball|70|1|0|1|7|94
+Luiz Gohara|L|Jake Arrieta|R|Sac Bunt|B|Four-Seam Fastball|71|1|1|1|13|95
+Luiz Gohara|L|Jake Arrieta|R|Sac Bunt|F|Four-Seam Fastball|72|2|1|1|8|93
+Luiz Gohara|L|Jake Arrieta|R|Sac Bunt|X|Four-Seam Fastball|73|2|2|1|5|94
+Luiz Gohara|L|Cesar Hernandez|R|Single|C|Slider|74|0|0|2|5|82
+Luiz Gohara|L|Cesar Hernandez|R|Single|E|Slider|75|0|1|2|6|83
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|C|Four-Seam Fastball|76|0|0|2|6|94
+Luiz Gohara|L|Rhys Hoskins|R|Flyout|X|Four-Seam Fastball|77|0|1|2|3|95
+Luiz Gohara|L|Hunter Renfroe|R|Double|B|Four-Seam Fastball|0|0|0|0|13|92
+Luiz Gohara|L|Hunter Renfroe|R|Double|B|Four-Seam Fastball|1|1|0|0|12|91
+Luiz Gohara|L|Hunter Renfroe|R|Double|F|Four-Seam Fastball|2|2|0|0|2|93
+Luiz Gohara|L|Hunter Renfroe|R|Double|B|Slider|3|2|1|0|12|79
+Luiz Gohara|L|Hunter Renfroe|R|Double|T|Four-Seam Fastball|4|3|1|0|7|90
+Luiz Gohara|L|Hunter Renfroe|R|Double|D|Four-Seam Fastball|5|3|2|0|7|92
+Luiz Gohara|L|Franmil Reyes|R|Groundout|C|Slider|6|0|0|0|14|81
+Luiz Gohara|L|Franmil Reyes|R|Groundout|X|Four-Seam Fastball|7|0|1|0|14|94
+Luiz Gohara|L|Freddy Galvis|R|Sac Fly|E|Four-Seam Fastball|8|0|0|1|8|93
+Luiz Gohara|L|Cory Spangenberg|L|Triple|B|Slider|9|0|0|2|13|82
+Luiz Gohara|L|Cory Spangenberg|L|Triple|C|Slider|10|1|0|2|9|83
+Luiz Gohara|L|Cory Spangenberg|L|Triple|B|Slider|11|1|1|2|14|81
+Luiz Gohara|L|Cory Spangenberg|L|Triple|E|Slider|12|2|1|2|14|82
+Luiz Gohara|L|Raffy Lopez|L|Single|C|Two-Seam Fastball|13|0|0|2|13|93
+Luiz Gohara|L|Raffy Lopez|L|Single|B|Slider|14|0|1|2|14|78
+Luiz Gohara|L|Raffy Lopez|L|Single|E|Four-Seam Fastball|15|1|1|2|4|95
+Luiz Gohara|L|Clayton Richard|L|Walk|S|Four-Seam Fastball|16|0|0|2|11|94
+Luiz Gohara|L|Clayton Richard|L|Walk|B|Two-Seam Fastball|17|0|1|2|13|93
+Luiz Gohara|L|Clayton Richard|L|Walk|B|Four-Seam Fastball|18|1|1|2|13|93
+Luiz Gohara|L|Clayton Richard|L|Walk|S|Four-Seam Fastball|19|2|1|2|13|92
+Luiz Gohara|L|Clayton Richard|L|Walk|B|Four-Seam Fastball|20|2|2|2|13|91
+Luiz Gohara|L|Clayton Richard|L|Walk|B|Four-Seam Fastball|21|3|2|2|13|92
+Luiz Gohara|L|Travis Jankowski|L|Double|C|Slider|22|0|0|2|9|80
+Luiz Gohara|L|Travis Jankowski|L|Double|E|Slider|23|0|1|2|6|80
+Luiz Gohara|L|Eric Hosmer|L|Double|B|Slider|24|0|0|2|12|81
+Luiz Gohara|L|Eric Hosmer|L|Double|C|Four-Seam Fastball|25|1|0|2|13|93
+Luiz Gohara|L|Eric Hosmer|L|Double|E|Four-Seam Fastball|26|1|1|2|9|94
+Luiz Gohara|L|Jose Pirela|R|Double|B|Four-Seam Fastball|27|0|0|2|11|92
+Luiz Gohara|L|Jose Pirela|R|Double|F|Four-Seam Fastball|28|1|0|2|11|92
+Luiz Gohara|L|Jose Pirela|R|Double|B|Slider|29|1|1|2|12|81
+Luiz Gohara|L|Jose Pirela|R|Double|E|Four-Seam Fastball|30|2|1|2|5|92
+Luiz Gohara|L|Enrique Hernandez|R|Home Run|F|Four-Seam Fastball|0|0|0|2|7|94
+Luiz Gohara|L|Enrique Hernandez|R|Home Run|E|Changeup|1|0|1|2|2|87
+Luiz Gohara|L|Yasiel Puig|R|Lineout|C|Four-Seam Fastball|2|0|0|2|11|94
+Luiz Gohara|L|Yasiel Puig|R|Lineout|X|Four-Seam Fastball|3|0|1|2|8|92
+Luiz Gohara|L|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|4|0|0|0|4|93
+Luiz Gohara|L|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|5|0|1|0|6|94
+Luiz Gohara|L|Cody Bellinger|L|Strikeout|F|Slider|6|0|2|0|5|83
+Luiz Gohara|L|Cody Bellinger|L|Strikeout|C|Slider|7|0|2|0|2|84
+Luiz Gohara|L|Logan Forsythe|R|Strikeout|S|Slider|8|0|0|1|13|82
+Luiz Gohara|L|Logan Forsythe|R|Strikeout|B|Changeup|9|0|1|1|13|90
+Luiz Gohara|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|10|1|1|1|12|93
+Luiz Gohara|L|Logan Forsythe|R|Strikeout|C|Slider|11|1|2|1|1|84
+Luiz Gohara|L|Austin Barnes|R|Flyout|F|Four-Seam Fastball|12|0|0|2|5|92
+Luiz Gohara|L|Austin Barnes|R|Flyout|F|Four-Seam Fastball|13|0|1|2|4|91
+Luiz Gohara|L|Austin Barnes|R|Flyout|B|Four-Seam Fastball|14|0|2|2|12|91
+Luiz Gohara|L|Austin Barnes|R|Flyout|X|Slider|15|1|2|2|6|81
+Luiz Gohara|L|Breyvic Valera|R|Flyout|X|Four-Seam Fastball|16|0|0|0|5|93
+Luiz Gohara|L|Chris Taylor|R|Flyout|B|Slider|17|0|0|1|13|79
+Luiz Gohara|L|Chris Taylor|R|Flyout|X|Four-Seam Fastball|18|1|0|1|2|93
+Luiz Gohara|L|Raffy Lopez|L|Flyout|S|Two-Seam Fastball|0|0|0|0|7|92
+Luiz Gohara|L|Raffy Lopez|L|Flyout|F|Slider|1|0|1|0|14|79
+Luiz Gohara|L|Raffy Lopez|L|Flyout|X|Slider|2|0|2|0|13|81
+Luiz Gohara|L|Cory Spangenberg|L|Lineout|S|Slider|3|0|0|1|13|82
+Luiz Gohara|L|Cory Spangenberg|L|Lineout|X|Slider|4|0|1|1|4|82
+Luiz Gohara|L|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|5|0|0|2|13|95
+Luiz Gohara|L|Travis Jankowski|L|Groundout|C|Four-Seam Fastball|6|1|0|2|5|94
+Luiz Gohara|L|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|7|1|1|2|11|94
+Luiz Gohara|L|Eric Hosmer|L|Flyout|X|Four-Seam Fastball|8|0|0|0|2|94
+Luiz Gohara|L|Jose Pirela|R|Walk|B|Four-Seam Fastball|9|0|0|1|12|95
+Luiz Gohara|L|Jose Pirela|R|Walk|F|Two-Seam Fastball|10|1|0|1|3|94
+Luiz Gohara|L|Jose Pirela|R|Walk|B|Slider|11|1|1|1|12|83
+Luiz Gohara|L|Jose Pirela|R|Walk|S|Four-Seam Fastball|12|2|1|1|12|94
+Luiz Gohara|L|Jose Pirela|R|Walk|B|Slider|13|2|2|1|12|84
+Luiz Gohara|L|Jose Pirela|R|Walk|F|Slider|14|3|2|1|4|82
+Luiz Gohara|L|Jose Pirela|R|Walk|F|Four-Seam Fastball|15|3|2|1|3|94
+Luiz Gohara|L|Jose Pirela|R|Walk|B|Slider|16|3|2|1|12|82
+Luiz Gohara|L|Hunter Renfroe|R|Single|D|Two-Seam Fastball|17|0|0|1|2|94
+Luiz Gohara|L|Jose Castillo|L|Groundout|B|Two-Seam Fastball|18|0|0|1|11|93
+Luiz Gohara|L|Jose Castillo|L|Groundout|C|Four-Seam Fastball|19|1|0|1|1|92
+Luiz Gohara|L|Jose Castillo|L|Groundout|S|Four-Seam Fastball|20|1|1|1|12|92
+Luiz Gohara|L|Jose Castillo|L|Groundout|E|Four-Seam Fastball|21|1|2|1|4|93
+Luiz Gohara|L|Freddy Galvis|R|Single|W|Slider|22|0|0|2|13|82
+Luiz Gohara|L|Freddy Galvis|R|Single|E|Slider|23|0|1|2|4|82
+Luiz Gohara|L|Greg Bird|L|Lineout|C|Four-Seam Fastball|0|0|0|0|2|95
+Luiz Gohara|L|Greg Bird|L|Lineout|S|Slider|1|0|1|0|13|87
+Luiz Gohara|L|Greg Bird|L|Lineout|B|Slider|2|0|2|0|12|84
+Luiz Gohara|L|Greg Bird|L|Lineout|F|Slider|3|1|2|0|5|84
+Luiz Gohara|L|Greg Bird|L|Lineout|X|Four-Seam Fastball|4|1|2|0|1|95
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|12|95
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|B|Four-Seam Fastball|6|1|0|1|12|94
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|S|Slider|7|2|0|1|7|83
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|B|Four-Seam Fastball|8|2|1|1|14|95
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|F|Four-Seam Fastball|9|3|1|1|5|94
+Luiz Gohara|L|Kyle Higashioka|R|Strikeout|C|Slider|10|3|2|1|14|82
+Luiz Gohara|L|Neil Walker|R|Strikeout|F|Four-Seam Fastball|11|0|0|2|13|96
+Luiz Gohara|L|Neil Walker|R|Strikeout|B|Slider|12|0|1|2|13|83
+Luiz Gohara|L|Neil Walker|R|Strikeout|S|Slider|13|1|1|2|13|85
+Luiz Gohara|L|Neil Walker|R|Strikeout|S|Slider|14|1|2|2|2|84
+Luiz Gohara|L|Brett Gardner|L|Groundout|B|Four-Seam Fastball|15|0|0|0|13|93
+Luiz Gohara|L|Brett Gardner|L|Groundout|B|Four-Seam Fastball|16|1|0|0|13|93
+Luiz Gohara|L|Brett Gardner|L|Groundout|C|Four-Seam Fastball|17|2|0|0|5|92
+Luiz Gohara|L|Brett Gardner|L|Groundout|X|Four-Seam Fastball|18|2|1|0|4|93
+Luiz Gohara|L|Aaron Judge|R|Home Run|B|Slider|19|0|0|1|13|84
+Luiz Gohara|L|Aaron Judge|R|Home Run|C|Slider|20|1|0|1|4|82
+Luiz Gohara|L|Aaron Judge|R|Home Run|B|Four-Seam Fastball|21|1|1|1|13|95
+Luiz Gohara|L|Aaron Judge|R|Home Run|E|Four-Seam Fastball|22|2|1|1|7|94
+Luiz Gohara|L|Aaron Hicks|R|Flyout|C|Slider|23|0|0|1|13|82
+Luiz Gohara|L|Aaron Hicks|R|Flyout|C|Slider|24|0|1|1|13|83
+Luiz Gohara|L|Aaron Hicks|R|Flyout|X|Slider|25|0|2|1|4|84
+Luiz Gohara|L|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|26|0|0|2|12|95
+Luiz Gohara|L|Giancarlo Stanton|R|Strikeout|S|Slider|27|1|0|2|13|84
+Luiz Gohara|L|Giancarlo Stanton|R|Strikeout|B|Slider|28|1|1|2|13|84
+Luiz Gohara|L|Giancarlo Stanton|R|Strikeout|S|Slider|29|2|1|2|13|85
+Luiz Gohara|L|Giancarlo Stanton|R|Strikeout|W|Slider|30|2|2|2|13|84
+Luiz Gohara|L|Travis Shaw|L|Groundout|C|Four-Seam Fastball|0|0|0|0|4|93
+Luiz Gohara|L|Travis Shaw|L|Groundout|B|Slider|1|0|1|0|12|84
+Luiz Gohara|L|Travis Shaw|L|Groundout|C|Slider|2|1|1|0|9|81
+Luiz Gohara|L|Travis Shaw|L|Groundout|X|Slider|3|1|2|0|5|82
+Luiz Gohara|L|Hernan Perez|R|Flyout|B|Four-Seam Fastball|4|0|0|1|12|93
+Luiz Gohara|L|Hernan Perez|R|Flyout|B|Slider|5|1|0|1|14|80
+Luiz Gohara|L|Hernan Perez|R|Flyout|C|Four-Seam Fastball|6|2|0|1|3|92
+Luiz Gohara|L|Hernan Perez|R|Flyout|B|Four-Seam Fastball|7|2|1|1|12|92
+Luiz Gohara|L|Hernan Perez|R|Flyout|X|Four-Seam Fastball|8|3|1|1|1|93
+Luiz Gohara|L|Tyler Saladino|R|Groundout|B|Slider|9|0|0|2|12|83
+Luiz Gohara|L|Tyler Saladino|R|Groundout|C|Four-Seam Fastball|10|1|0|2|6|92
+Luiz Gohara|L|Tyler Saladino|R|Groundout|F|Four-Seam Fastball|11|1|1|2|1|92
+Luiz Gohara|L|Tyler Saladino|R|Groundout|F|Slider|12|1|2|2|5|81
+Luiz Gohara|L|Tyler Saladino|R|Groundout|B|Four-Seam Fastball|13|1|2|2|12|93
+Luiz Gohara|L|Tyler Saladino|R|Groundout|X|Four-Seam Fastball|14|2|2|2|11|93
+Luiz Gohara|L|Erik Kratz|R|Groundout|F|Four-Seam Fastball|15|0|0|0|11|92
+Luiz Gohara|L|Erik Kratz|R|Groundout|X|Slider|16|0|1|0|5|80
+Luiz Gohara|L|Nate Orf|R|Strikeout|S|Four-Seam Fastball|17|0|0|1|3|94
+Luiz Gohara|L|Nate Orf|R|Strikeout|B|Four-Seam Fastball|18|0|1|1|14|93
+Luiz Gohara|L|Nate Orf|R|Strikeout|F|Four-Seam Fastball|19|1|1|1|3|93
+Luiz Gohara|L|Nate Orf|R|Strikeout|B|Slider|20|1|2|1|12|81
+Luiz Gohara|L|Nate Orf|R|Strikeout|F|Four-Seam Fastball|21|2|2|1|4|93
+Luiz Gohara|L|Nate Orf|R|Strikeout|C|Slider|22|2|2|1|14|82
+Luiz Gohara|L|Jonathan Villar|R|Strikeout|C|Slider|23|0|0|2|3|80
+Luiz Gohara|L|Jonathan Villar|R|Strikeout|B|Four-Seam Fastball|24|0|1|2|13|92
+Luiz Gohara|L|Jonathan Villar|R|Strikeout|B|Four-Seam Fastball|25|1|1|2|12|93
+Luiz Gohara|L|Jonathan Villar|R|Strikeout|C|Four-Seam Fastball|26|2|1|2|14|93
+Luiz Gohara|L|Jonathan Villar|R|Strikeout|S|Slider|27|2|2|2|9|83
+Luiz Gohara|L|Delino DeShields|R|Groundout|C|Two-Seam Fastball|0|0|0|0|14|97
+Luiz Gohara|L|Delino DeShields|R|Groundout|B|Two-Seam Fastball|1|0|1|0|12|97
+Luiz Gohara|L|Delino DeShields|R|Groundout|X|Two-Seam Fastball|2|1|1|0|12|97
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|C|Four-Seam Fastball|3|0|0|1|1|97
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|F|Four-Seam Fastball|4|0|1|1|2|97
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|5|0|2|1|11|97
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|S|Slider|6|1|2|1|13|86
+Luiz Gohara|L|Elvis Andrus|R|Home Run|B|Two-Seam Fastball|7|0|0|2|12|97
+Luiz Gohara|L|Elvis Andrus|R|Home Run|B|Two-Seam Fastball|8|1|0|2|12|97
+Luiz Gohara|L|Elvis Andrus|R|Home Run|C|Two-Seam Fastball|9|2|0|2|12|98
+Luiz Gohara|L|Elvis Andrus|R|Home Run|B|Two-Seam Fastball|10|2|1|2|12|97
+Luiz Gohara|L|Elvis Andrus|R|Home Run|E|Two-Seam Fastball|11|3|1|2|3|97
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|S|Slider|12|0|0|2|13|82
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|S|Slider|13|0|1|2|8|84
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|W|Slider|14|0|2|2|13|87
+Luiz Gohara|L|Joey Gallo|L|Pop Out|B|Two-Seam Fastball|15|0|0|0|14|95
+Luiz Gohara|L|Joey Gallo|L|Pop Out|X|Two-Seam Fastball|16|1|0|0|4|96
+Luiz Gohara|L|Mike Napoli|R|Walk|C|Two-Seam Fastball|17|0|0|1|14|96
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Changeup|18|0|1|1|14|90
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Changeup|19|1|1|1|14|90
+Luiz Gohara|L|Mike Napoli|R|Walk|F|Four-Seam Fastball|20|2|1|1|6|98
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Four-Seam Fastball|21|2|2|1|12|97
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Two-Seam Fastball|22|3|2|1|12|97
+Luiz Gohara|L|Rougned Odor|L|Strikeout|B|Two-Seam Fastball|23|0|0|1|12|96
+Luiz Gohara|L|Rougned Odor|L|Strikeout|C|Slider|24|1|0|1|2|84
+Luiz Gohara|L|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|25|1|1|1|12|97
+Luiz Gohara|L|Rougned Odor|L|Strikeout|T|Slider|26|1|2|1|11|84
+Luiz Gohara|L|Brett Nicholas|L|Groundout|S|Two-Seam Fastball|27|0|0|2|3|97
+Luiz Gohara|L|Brett Nicholas|L|Groundout|X|Four-Seam Fastball|28|0|1|2|4|97
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|C|Two-Seam Fastball|29|0|0|0|9|97
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|B|Two-Seam Fastball|30|0|1|0|12|96
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|C|Four-Seam Fastball|31|1|1|0|4|97
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|B|Four-Seam Fastball|32|1|2|0|7|97
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|B|Four-Seam Fastball|33|2|2|0|13|96
+Luiz Gohara|L|Miguel Gonzalez|R|Walk|B|Four-Seam Fastball|34|3|2|0|14|96
+Luiz Gohara|L|Delino DeShields|R|Sac Bunt|X|Four-Seam Fastball|35|0|0|0|4|97
+Luiz Gohara|L|Shin-Soo Choo|L|Flyout|C|Slider|36|0|0|1|5|84
+Luiz Gohara|L|Shin-Soo Choo|L|Flyout|S|Slider|37|0|1|1|13|85
+Luiz Gohara|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|38|0|2|1|8|95
+Luiz Gohara|L|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|39|0|2|1|13|96
+Luiz Gohara|L|Shin-Soo Choo|L|Flyout|X|Slider|40|1|2|1|1|83
+Luiz Gohara|L|Elvis Andrus|R|Single|B|Four-Seam Fastball|41|0|0|2|14|97
+Luiz Gohara|L|Elvis Andrus|R|Single|F|Slider|42|1|0|2|7|85
+Luiz Gohara|L|Elvis Andrus|R|Single|B|Slider|43|1|1|2|13|84
+Luiz Gohara|L|Elvis Andrus|R|Single|B|Four-Seam Fastball|44|2|1|2|13|96
+Luiz Gohara|L|Elvis Andrus|R|Single|C|Slider|45|3|1|2|1|83
+Luiz Gohara|L|Elvis Andrus|R|Single|E|Two-Seam Fastball|46|3|2|2|12|97
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|F|Four-Seam Fastball|47|0|0|2|5|97
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|48|0|1|2|12|96
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|T|Slider|49|1|1|2|7|83
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|F|Slider|50|1|2|2|13|84
+Luiz Gohara|L|Carlos Gomez|R|Strikeout|S|Slider|51|1|2|2|12|82
+Luiz Gohara|L|Joey Gallo|L|Walk|B|Four-Seam Fastball|52|0|0|0|12|95
+Luiz Gohara|L|Joey Gallo|L|Walk|S|Slider|53|1|0|0|13|82
+Luiz Gohara|L|Joey Gallo|L|Walk|B|Two-Seam Fastball|54|1|1|0|14|94
+Luiz Gohara|L|Joey Gallo|L|Walk|C|Four-Seam Fastball|55|2|1|0|4|95
+Luiz Gohara|L|Joey Gallo|L|Walk|B|Slider|56|2|2|0|13|85
+Luiz Gohara|L|Joey Gallo|L|Walk|B|Slider|57|3|2|0|14|82
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Changeup|58|0|0|0|14|87
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Changeup|59|1|0|0|14|88
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Four-Seam Fastball|60|2|0|0|13|96
+Luiz Gohara|L|Mike Napoli|R|Walk|C|Two-Seam Fastball|61|3|0|0|5|96
+Luiz Gohara|L|Mike Napoli|R|Walk|S|Four-Seam Fastball|62|3|1|0|5|96
+Luiz Gohara|L|Mike Napoli|R|Walk|B|Four-Seam Fastball|63|3|2|0|13|96
+Luiz Gohara|L|Rougned Odor|L|Pop Out|X|Slider|64|0|0|0|3|85
+Luiz Gohara|L|Brett Nicholas|L|Double|B|Slider|65|0|0|1|13|84
+Luiz Gohara|L|Brett Nicholas|L|Double|C|Four-Seam Fastball|66|1|0|1|7|97
+Luiz Gohara|L|Brett Nicholas|L|Double|B|Four-Seam Fastball|67|1|1|1|13|96
+Luiz Gohara|L|Brett Nicholas|L|Double|F|Four-Seam Fastball|68|2|1|1|13|96
+Luiz Gohara|L|Brett Nicholas|L|Double|F|Slider|69|2|2|1|14|83
+Luiz Gohara|L|Brett Nicholas|L|Double|F|Slider|70|2|2|1|13|86
+Luiz Gohara|L|Brett Nicholas|L|Double|E|Four-Seam Fastball|71|2|2|1|8|97
+Luiz Gohara|L|Will Middlebrooks|R|Triple|C|Slider|72|0|0|1|1|81
+Luiz Gohara|L|Will Middlebrooks|R|Triple|E|Two-Seam Fastball|73|0|1|1|14|95
+Luiz Gohara|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|74|0|0|1|4|97
+Luiz Gohara|L|Delino DeShields|R|Strikeout|B|Four-Seam Fastball|75|0|1|1|13|96
+Luiz Gohara|L|Delino DeShields|R|Strikeout|S|Changeup|76|1|1|1|9|89
+Luiz Gohara|L|Delino DeShields|R|Strikeout|B|Slider|77|1|2|1|13|85
+Luiz Gohara|L|Delino DeShields|R|Strikeout|S|Changeup|78|2|2|1|14|90
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|S|Slider|79|0|0|2|4|84
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|C|Slider|80|0|1|2|8|85
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|F|Slider|81|0|2|2|9|85
+Luiz Gohara|L|Shin-Soo Choo|L|Strikeout|S|Slider|82|0|2|2|13|87
+Luiz Gohara|L|Trea Turner|R|Single|C|Four-Seam Fastball|0|0|0|2|12|95
+Luiz Gohara|L|Trea Turner|R|Single|B|Slider|1|0|1|2|13|83
+Luiz Gohara|L|Trea Turner|R|Single|D|Four-Seam Fastball|2|1|1|2|14|96
+Luiz Gohara|L|Wilmer Difo|R|Strikeout|L|Four-Seam Fastball|3|0|0|2|3|95
+Luiz Gohara|L|Wilmer Difo|R|Strikeout|B|Four-Seam Fastball|4|0|1|2|12|95
+Luiz Gohara|L|Wilmer Difo|R|Strikeout|S|Four-Seam Fastball|5|1|1|2|3|96
+Luiz Gohara|L|Wilmer Difo|R|Strikeout|S|Slider|6|1|2|2|12|84
+Luiz Gohara|L|Anthony Rendon|R|Double|B|Four-Seam Fastball|7|0|0|0|4|97
+Luiz Gohara|L|Anthony Rendon|R|Double|B|Four-Seam Fastball|8|1|0|0|12|97
+Luiz Gohara|L|Anthony Rendon|R|Double|E|Four-Seam Fastball|9|2|0|0|13|96
+Luiz Gohara|L|Ryan Zimmerman|R|Groundout|C|Four-Seam Fastball|10|0|0|0|8|97
+Luiz Gohara|L|Ryan Zimmerman|R|Groundout|X|Slider|11|0|1|0|7|84
+Luiz Gohara|L|Howie Kendrick|R|Groundout|X|Four-Seam Fastball|12|0|0|1|13|97
+Luiz Gohara|L|Michael A. Taylor|R|Single|B|Two-Seam Fastball|13|0|0|2|13|96
+Luiz Gohara|L|Michael A. Taylor|R|Single|D|Four-Seam Fastball|14|1|0|2|9|97
+Luiz Gohara|L|Jayson Werth|R|Double|B|Four-Seam Fastball|15|0|0|2|3|97
+Luiz Gohara|L|Jayson Werth|R|Double|D|Four-Seam Fastball|16|1|0|2|6|98
+Luiz Gohara|L|Matt Wieters|R|Strikeout|B|Slider|17|0|0|0|11|84
+Luiz Gohara|L|Matt Wieters|R|Strikeout|C|Slider|18|1|0|0|5|82
+Luiz Gohara|L|Matt Wieters|R|Strikeout|F|Four-Seam Fastball|19|1|1|0|8|97
+Luiz Gohara|L|Matt Wieters|R|Strikeout|F|Slider|20|1|2|0|5|81
+Luiz Gohara|L|Matt Wieters|R|Strikeout|*B|Slider|21|1|2|0|13|85
+Luiz Gohara|L|Matt Wieters|R|Strikeout|B|Changeup|22|2|2|0|14|88
+Luiz Gohara|L|Matt Wieters|R|Strikeout|F|Slider|23|3|2|0|3|83
+Luiz Gohara|L|Matt Wieters|R|Strikeout|S|Four-Seam Fastball|24|3|2|0|5|97
+Luiz Gohara|L|Max Scherzer|R|Strikeout|B|Four-Seam Fastball|25|0|0|1|12|97
+Luiz Gohara|L|Max Scherzer|R|Strikeout|F|Four-Seam Fastball|26|1|0|1|4|96
+Luiz Gohara|L|Max Scherzer|R|Strikeout|F|Slider|27|1|1|1|4|82
+Luiz Gohara|L|Max Scherzer|R|Strikeout|C|Four-Seam Fastball|28|1|2|1|11|98
+Luiz Gohara|L|Trea Turner|R|Flyout|B|Slider|29|0|0|2|13|84
+Luiz Gohara|L|Trea Turner|R|Flyout|B|Two-Seam Fastball|30|1|0|2|12|97
+Luiz Gohara|L|Trea Turner|R|Flyout|X|Four-Seam Fastball|31|2|0|2|8|96
+Luiz Gohara|L|Wilmer Difo|R|Flyout|X|Four-Seam Fastball|32|0|0|0|4|97
+Luiz Gohara|L|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|33|0|0|1|4|98
+Luiz Gohara|L|Anthony Rendon|R|Flyout|X|Four-Seam Fastball|34|0|1|1|1|98
+Luiz Gohara|L|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|35|0|0|2|7|96
+Luiz Gohara|L|Ryan Zimmerman|R|Strikeout|F|Changeup|36|1|0|2|6|88
+Luiz Gohara|L|Ryan Zimmerman|R|Strikeout|F|Changeup|37|1|1|2|6|89
+Luiz Gohara|L|Ryan Zimmerman|R|Strikeout|W|Slider|38|1|2|2|13|87
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|C|Four-Seam Fastball|39|0|0|0|4|98
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|S|Slider|40|0|1|0|13|82
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|S|Slider|41|0|2|0|4|85
+Luiz Gohara|L|Michael A. Taylor|R|Lineout|S|Changeup|42|0|0|1|13|89
+Luiz Gohara|L|Michael A. Taylor|R|Lineout|F|Slider|43|0|1|1|4|83
+Luiz Gohara|L|Michael A. Taylor|R|Lineout|X|Slider|44|0|2|1|7|86
+Luiz Gohara|L|Jayson Werth|R|Flyout|C|Changeup|45|0|0|2|14|90
+Luiz Gohara|L|Jayson Werth|R|Flyout|X|Four-Seam Fastball|46|0|1|2|11|98
+Luiz Gohara|L|Matt Wieters|R|Flyout|C|Four-Seam Fastball|47|0|0|0|1|97
+Luiz Gohara|L|Matt Wieters|R|Flyout|B|Changeup|48|0|1|0|14|88
+Luiz Gohara|L|Matt Wieters|R|Flyout|C|Changeup|49|1|1|0|14|88
+Luiz Gohara|L|Matt Wieters|R|Flyout|X|Slider|50|1|2|0|5|84
+Luiz Gohara|L|Max Scherzer|R|Strikeout|F|Four-Seam Fastball|51|0|0|1|5|98
+Luiz Gohara|L|Max Scherzer|R|Strikeout|C|Slider|52|0|1|1|3|81
+Luiz Gohara|L|Max Scherzer|R|Strikeout|S|Slider|53|0|2|1|4|86
+Luiz Gohara|L|Trea Turner|R|Single|B|Changeup|54|0|0|2|14|87
+Luiz Gohara|L|Trea Turner|R|Single|S|Changeup|55|1|0|2|9|88
+Luiz Gohara|L|Trea Turner|R|Single|B|Changeup|56|1|1|2|14|89
+Luiz Gohara|L|Trea Turner|R|Single|D|Four-Seam Fastball|57|2|1|2|3|97
+Luiz Gohara|L|Wilmer Difo|R|Single|F|Four-Seam Fastball|58|0|0|2|6|97
+Luiz Gohara|L|Wilmer Difo|R|Single|C|Slider|59|0|1|2|11|83
+Luiz Gohara|L|Wilmer Difo|R|Single|F|Slider|60|0|2|2|8|84
+Luiz Gohara|L|Wilmer Difo|R|Single|E|Slider|61|0|2|2|3|84
+Luiz Gohara|L|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|62|0|0|2|14|97
+Luiz Gohara|L|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|63|0|1|2|12|97
+Luiz Gohara|L|Anthony Rendon|R|Flyout|X|Changeup|64|1|1|2|7|87
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|B|Four-Seam Fastball|65|0|0|0|12|97
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|B|Changeup|66|1|0|0|12|87
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|F|Changeup|67|2|0|0|5|86
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|F|Changeup|68|2|1|0|12|87
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|F|Four-Seam Fastball|69|2|2|0|5|96
+Luiz Gohara|L|Ryan Zimmerman|R|Grounded Into DP|X|Slider|70|2|2|0|2|82
+Luiz Gohara|L|Trea Turner|R|Groundout|C|Four-Seam Fastball|0|0|0|0|12|95
+Luiz Gohara|L|Trea Turner|R|Groundout|C|Four-Seam Fastball|1|0|1|0|1|94
+Luiz Gohara|L|Trea Turner|R|Groundout|X|Four-Seam Fastball|2|0|2|0|7|96
+Luiz Gohara|L|Jayson Werth|R|Flyout|X|Four-Seam Fastball|3|0|0|1|2|95
+Luiz Gohara|L|Anthony Rendon|R|Lineout|C|Four-Seam Fastball|4|0|0|2|5|97
+Luiz Gohara|L|Anthony Rendon|R|Lineout|X|Four-Seam Fastball|5|0|1|2|9|96
+Luiz Gohara|L|Ryan Zimmerman|R|Double|F|Four-Seam Fastball|6|0|0|0|3|95
+Luiz Gohara|L|Ryan Zimmerman|R|Double|B|Slider|7|0|1|0|13|81
+Luiz Gohara|L|Ryan Zimmerman|R|Double|F|Four-Seam Fastball|8|1|1|0|13|96
+Luiz Gohara|L|Ryan Zimmerman|R|Double|D|Slider|9|1|2|0|6|85
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|F|Four-Seam Fastball|10|0|0|0|9|95
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|11|0|1|0|11|95
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|F|Four-Seam Fastball|12|1|1|0|5|94
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|S|Four-Seam Fastball|13|1|2|0|2|96
+Luiz Gohara|L|Wilmer Difo|R|Flyout|B|Slider|14|0|0|1|12|79
+Luiz Gohara|L|Wilmer Difo|R|Flyout|B|Slider|15|1|0|1|14|80
+Luiz Gohara|L|Wilmer Difo|R|Flyout|B|Four-Seam Fastball|16|2|0|1|14|95
+Luiz Gohara|L|Wilmer Difo|R|Flyout|C|Four-Seam Fastball|17|3|0|1|12|95
+Luiz Gohara|L|Wilmer Difo|R|Flyout|F|Four-Seam Fastball|18|3|1|1|2|95
+Luiz Gohara|L|Wilmer Difo|R|Flyout|X|Four-Seam Fastball|19|3|2|1|11|95
+Luiz Gohara|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|20|0|0|2|11|95
+Luiz Gohara|L|Michael A. Taylor|R|Strikeout|F|Slider|21|0|1|2|8|82
+Luiz Gohara|L|Michael A. Taylor|R|Strikeout|F|Four-Seam Fastball|22|0|2|2|9|95
+Luiz Gohara|L|Michael A. Taylor|R|Strikeout|S|Slider|23|0|2|2|1|83
+Luiz Gohara|L|Matt Wieters|R|Double|B|Slider|24|0|0|0|13|79
+Luiz Gohara|L|Matt Wieters|R|Double|F|Four-Seam Fastball|25|1|0|0|7|96
+Luiz Gohara|L|Matt Wieters|R|Double|F|Four-Seam Fastball|26|1|1|0|11|96
+Luiz Gohara|L|Matt Wieters|R|Double|F|Slider|27|1|2|0|5|83
+Luiz Gohara|L|Matt Wieters|R|Double|B|Slider|28|1|2|0|13|82
+Luiz Gohara|L|Matt Wieters|R|Double|D|Slider|29|2|2|0|6|83
+Luiz Gohara|L|Max Scherzer|R|Sac Bunt|L|Four-Seam Fastball|30|0|0|0|12|95
+Luiz Gohara|L|Max Scherzer|R|Sac Bunt|X|Four-Seam Fastball|31|0|1|0|2|96
+Luiz Gohara|L|Trea Turner|R|Single|B|Four-Seam Fastball|32|0|0|1|13|96
+Luiz Gohara|L|Trea Turner|R|Single|E|Changeup|33|1|0|1|6|88
+Luiz Gohara|L|Jayson Werth|R|Pop Out|C|Four-Seam Fastball|34|0|0|1|2|96
+Luiz Gohara|L|Jayson Werth|R|Pop Out|X|Changeup|35|0|1|1|14|88
+Luiz Gohara|L|Anthony Rendon|R|Single|C|Four-Seam Fastball|36|0|0|2|6|95
+Luiz Gohara|L|Anthony Rendon|R|Single|B|Slider|37|0|1|2|12|79
+Luiz Gohara|L|Anthony Rendon|R|Single|D|Four-Seam Fastball|38|1|1|2|7|95
+Luiz Gohara|L|Ryan Zimmerman|R|Single|B|Four-Seam Fastball|39|0|0|2|13|95
+Luiz Gohara|L|Ryan Zimmerman|R|Single|E|Four-Seam Fastball|40|1|0|2|13|97
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|C|Changeup|41|0|0|2|12|86
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|F|Slider|42|0|1|2|8|83
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|F|Slider|43|0|2|2|5|83
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|F|Four-Seam Fastball|44|0|2|2|5|95
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|45|0|2|2|11|96
+Luiz Gohara|L|Howie Kendrick|R|Strikeout|W|Slider|46|1|2|2|13|83
+Luiz Gohara|L|Wilmer Difo|R|Flyout|B|Four-Seam Fastball|47|0|0|0|12|96
+Luiz Gohara|L|Wilmer Difo|R|Flyout|B|Changeup|48|1|0|0|12|87
+Luiz Gohara|L|Wilmer Difo|R|Flyout|C|Four-Seam Fastball|49|2|0|0|5|96
+Luiz Gohara|L|Wilmer Difo|R|Flyout|X|Four-Seam Fastball|50|2|1|0|4|95
+Luiz Gohara|L|Michael A. Taylor|R|Double|D|Changeup|51|0|0|1|6|89
+Luiz Gohara|L|Matt Wieters|R|Flyout|S|Four-Seam Fastball|52|0|0|1|4|96
+Luiz Gohara|L|Matt Wieters|R|Flyout|S|Four-Seam Fastball|53|0|1|1|1|95
+Luiz Gohara|L|Matt Wieters|R|Flyout|X|Four-Seam Fastball|54|0|2|1|13|97
+Luiz Gohara|L|Max Scherzer|R|Groundout|S|Slider|55|0|0|2|13|80
+Luiz Gohara|L|Max Scherzer|R|Groundout|X|Slider|56|0|1|2|5|82
+Luiz Gohara|L|Trea Turner|R|Flyout|X|Four-Seam Fastball|57|0|0|0|9|95
+Luiz Gohara|L|Jayson Werth|R|Double|F|Two-Seam Fastball|58|0|0|1|3|96
+Luiz Gohara|L|Jayson Werth|R|Double|B|Four-Seam Fastball|59|0|1|1|11|96
+Luiz Gohara|L|Jayson Werth|R|Double|D|Changeup|60|1|1|1|6|86
+Luiz Gohara|L|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|61|0|0|1|5|95
+Luiz Gohara|L|Anthony Rendon|R|Flyout|X|Slider|62|0|1|1|5|81
+Luiz Gohara|L|Ryan Zimmerman|R|Single|B|Slider|63|0|0|2|11|88
+Luiz Gohara|L|Ryan Zimmerman|R|Single|F|Changeup|64|1|0|2|13|86
+Luiz Gohara|L|Ryan Zimmerman|R|Single|S|Four-Seam Fastball|65|1|1|2|8|95
+Luiz Gohara|L|Ryan Zimmerman|R|Single|F|Two-Seam Fastball|66|1|2|2|5|96
+Luiz Gohara|L|Ryan Zimmerman|R|Single|E|Slider|67|1|2|2|13|86
+Luiz Gohara|L|Howie Kendrick|R|Single|D|Changeup|68|0|0|2|9|87
+Luiz Gohara|L|Wilmer Difo|R|Forceout|*B|Four-Seam Fastball|69|0|0|2|13|96
+Luiz Gohara|L|Wilmer Difo|R|Forceout|S|Four-Seam Fastball|70|1|0|2|1|95
+Luiz Gohara|L|Wilmer Difo|R|Forceout|X|Two-Seam Fastball|71|1|1|2|3|97
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|C|Four-Seam Fastball|72|0|0|0|11|94
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|B|Four-Seam Fastball|73|0|1|0|14|95
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|B|Slider|74|1|1|0|13|81
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|T|Four-Seam Fastball|75|2|1|0|7|96
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|F|Four-Seam Fastball|76|2|2|0|4|97
+Luiz Gohara|L|Michael A. Taylor|R|Groundout|X|Slider|77|2|2|0|4|86
+Luiz Gohara|L|Matt Wieters|R|Flyout|B|Four-Seam Fastball|78|0|0|1|11|97
+Luiz Gohara|L|Matt Wieters|R|Flyout|B|Four-Seam Fastball|79|1|0|1|4|97
+Luiz Gohara|L|Matt Wieters|R|Flyout|X|Four-Seam Fastball|80|2|0|1|4|97
+Luiz Gohara|L|Max Scherzer|R|Lineout|B|Four-Seam Fastball|81|0|0|2|13|97
+Luiz Gohara|L|Max Scherzer|R|Lineout|X|Four-Seam Fastball|82|1|0|2|13|96
+Luiz Gohara|L|Trea Turner|R|Double|D|Four-Seam Fastball|83|0|0|0|2|95
+Luiz Gohara|L|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|84|0|0|0|14|95
+Luiz Gohara|L|Jayson Werth|R|Strikeout|C|Slider|85|1|0|0|6|82
+Luiz Gohara|L|Jayson Werth|R|Strikeout|F|Four-Seam Fastball|86|1|1|0|7|96
+Luiz Gohara|L|Jayson Werth|R|Strikeout|S|Slider|87|1|2|0|14|83
+Luiz Gohara|L|Anthony Rendon|R|Double|C|Slider|88|0|0|1|8|82
+Luiz Gohara|L|Anthony Rendon|R|Double|F|Four-Seam Fastball|89|0|1|1|4|95
+Luiz Gohara|L|Anthony Rendon|R|Double|F|Slider|90|0|2|1|7|82
+Luiz Gohara|L|Anthony Rendon|R|Double|F|Slider|91|0|2|1|13|82
+Luiz Gohara|L|Anthony Rendon|R|Double|E|Slider|92|0|2|1|5|84
+Luiz Gohara|L|Cesar Hernandez|R|Single|B|Four-Seam Fastball|0|0|0|0|12|93
+Luiz Gohara|L|Cesar Hernandez|R|Single|X|Four-Seam Fastball|1|1|0|0|7|92
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|8|94
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|F|Slider|3|0|1|1|7|82
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|4|0|2|1|13|95
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|B|Four-Seam Fastball|5|0|2|1|12|93
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|6|1|2|1|13|95
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|B|Slider|7|1|2|1|13|86
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|S|Slider|8|2|2|1|4|84
+Luiz Gohara|L|Nick Williams|L|Flyout|X|Four-Seam Fastball|9|0|0|2|1|94
+Luiz Gohara|L|Rhys Hoskins|R|Groundout|B|Four-Seam Fastball|10|0|0|0|13|93
+Luiz Gohara|L|Rhys Hoskins|R|Groundout|C|Four-Seam Fastball|11|1|0|0|12|95
+Luiz Gohara|L|Rhys Hoskins|R|Groundout|X|Changeup|12|1|1|0|12|87
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|C|Two-Seam Fastball|13|0|0|1|12|95
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|F|Four-Seam Fastball|14|0|1|1|3|94
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|B|Slider|15|0|2|1|13|84
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|F|Slider|16|1|2|1|7|83
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|B|Four-Seam Fastball|17|1|2|1|13|95
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|F|Four-Seam Fastball|18|2|2|1|3|94
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|S|Slider|19|2|2|1|13|86
+Luiz Gohara|L|Maikel Franco|R|Pop Out|B|Two-Seam Fastball|20|0|0|2|12|95
+Luiz Gohara|L|Maikel Franco|R|Pop Out|B|Changeup|21|1|0|2|14|87
+Luiz Gohara|L|Maikel Franco|R|Pop Out|B|Two-Seam Fastball|22|2|0|2|12|95
+Luiz Gohara|L|Maikel Franco|R|Pop Out|X|Four-Seam Fastball|23|3|0|2|8|93
+Luiz Gohara|L|J.P. Crawford|L|Groundout|B|Four-Seam Fastball|24|0|0|0|13|93
+Luiz Gohara|L|J.P. Crawford|L|Groundout|C|Four-Seam Fastball|25|1|0|0|1|92
+Luiz Gohara|L|J.P. Crawford|L|Groundout|B|Slider|26|1|1|0|11|82
+Luiz Gohara|L|J.P. Crawford|L|Groundout|X|Slider|27|2|1|0|6|80
+Luiz Gohara|L|Jorge Alfaro|R|Single|X|Four-Seam Fastball|28|0|0|1|3|94
+Luiz Gohara|L|Nick Pivetta|R|Groundout|B|Four-Seam Fastball|29|0|0|2|13|94
+Luiz Gohara|L|Nick Pivetta|R|Groundout|C|Four-Seam Fastball|30|1|0|2|8|94
+Luiz Gohara|L|Nick Pivetta|R|Groundout|S|Two-Seam Fastball|31|1|1|2|14|94
+Luiz Gohara|L|Nick Pivetta|R|Groundout|X|Slider|32|1|2|2|12|85
+Luiz Gohara|L|Cesar Hernandez|R|Single|C|Four-Seam Fastball|33|0|0|0|8|95
+Luiz Gohara|L|Cesar Hernandez|R|Single|B|Four-Seam Fastball|34|0|1|0|13|94
+Luiz Gohara|L|Cesar Hernandez|R|Single|S|Changeup|35|1|1|0|9|86
+Luiz Gohara|L|Cesar Hernandez|R|Single|D|Four-Seam Fastball|36|1|2|0|11|95
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|B|Changeup|37|0|0|0|14|87
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|B|Changeup|38|1|0|0|12|88
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|F|Slider|39|2|0|0|7|82
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|F|Four-Seam Fastball|40|2|1|0|2|95
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|B|Changeup|41|2|2|0|13|87
+Luiz Gohara|L|Aaron Altherr|R|Strikeout|S|Changeup|42|3|2|0|14|87
+Luiz Gohara|L|Nick Williams|L|Pop Out|S|Slider|43|0|0|1|11|83
+Luiz Gohara|L|Nick Williams|L|Pop Out|F|Slider|44|0|1|1|12|82
+Luiz Gohara|L|Nick Williams|L|Pop Out|B|Four-Seam Fastball|45|0|2|1|12|94
+Luiz Gohara|L|Nick Williams|L|Pop Out|X|Slider|46|1|2|1|2|82
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Changeup|47|0|0|2|14|87
+Luiz Gohara|L|Rhys Hoskins|R|Walk|C|Changeup|48|1|0|2|12|86
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|49|1|1|2|12|94
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|50|2|1|2|11|92
+Luiz Gohara|L|Rhys Hoskins|R|Walk|B|Changeup|51|3|1|2|14|87
+Luiz Gohara|L|Tommy Joseph|R|Lineout|B|Slider|52|0|0|2|12|79
+Luiz Gohara|L|Tommy Joseph|R|Lineout|B|Four-Seam Fastball|53|1|0|2|13|95
+Luiz Gohara|L|Tommy Joseph|R|Lineout|S|Changeup|54|2|0|2|14|87
+Luiz Gohara|L|Tommy Joseph|R|Lineout|X|Four-Seam Fastball|55|2|1|2|14|94
+Luiz Gohara|L|Maikel Franco|R|Home Run|E|Changeup|56|0|0|0|8|86
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|C|Four-Seam Fastball|57|0|0|0|4|94
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|B|Four-Seam Fastball|58|0|1|0|11|95
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|B|Slider|59|1|1|0|11|84
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|F|Two-Seam Fastball|60|2|1|0|2|95
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|S|Four-Seam Fastball|61|2|2|0|13|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|C|Slider|62|0|0|1|2|80
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|63|0|1|1|13|94
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|64|1|1|1|11|96
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|C|Slider|65|2|1|1|6|81
+Luiz Gohara|L|Jorge Alfaro|R|Strikeout|S|Slider|66|2|2|1|13|85
+Luiz Gohara|L|Nick Pivetta|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|14|95
+Luiz Gohara|L|Nick Pivetta|R|Strikeout|F|Slider|68|0|1|2|2|80
+Luiz Gohara|L|Nick Pivetta|R|Strikeout|S|Slider|69|0|2|2|13|84
+Luiz Gohara|L|Cesar Hernandez|R|Single|C|Slider|70|0|0|0|6|80
+Luiz Gohara|L|Cesar Hernandez|R|Single|D|Four-Seam Fastball|71|0|1|0|5|94
+Luiz Gohara|L|Aaron Altherr|R|Grounded Into DP|B|Four-Seam Fastball|72|0|0|0|12|93
+Luiz Gohara|L|Aaron Altherr|R|Grounded Into DP|X|Slider|73|1|0|0|13|86
+Luiz Gohara|L|Nick Williams|L|Walk|B|Slider|74|0|0|2|11|82
+Luiz Gohara|L|Nick Williams|L|Walk|C|Slider|75|1|0|2|1|81
+Luiz Gohara|L|Nick Williams|L|Walk|S|Slider|76|1|1|2|7|81
+Luiz Gohara|L|Nick Williams|L|Walk|B|Four-Seam Fastball|77|1|2|2|13|94
+Luiz Gohara|L|Nick Williams|L|Walk|B|Four-Seam Fastball|78|2|2|2|11|94
+Luiz Gohara|L|Nick Williams|L|Walk|B|Slider|79|3|2|2|12|82
+Luiz Gohara|L|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|80|0|0|2|14|93
+Luiz Gohara|L|Rhys Hoskins|R|Strikeout|C|Four-Seam Fastball|81|0|1|2|12|93
+Luiz Gohara|L|Rhys Hoskins|R|Strikeout|B|Slider|82|0|2|2|12|82
+Luiz Gohara|L|Rhys Hoskins|R|Strikeout|S|Slider|83|1|2|2|3|82
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|C|Four-Seam Fastball|84|0|0|0|8|93
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|B|Four-Seam Fastball|85|0|1|0|11|95
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|B|Slider|86|1|1|0|12|82
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|F|Slider|87|2|1|0|4|81
+Luiz Gohara|L|Tommy Joseph|R|Strikeout|S|Slider|88|2|2|0|13|83
+Luiz Gohara|L|Maikel Franco|R|Pop Out|B|Two-Seam Fastball|89|0|0|1|12|94
+Luiz Gohara|L|Maikel Franco|R|Pop Out|X|Slider|90|1|0|1|12|80
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|S|Slider|91|0|0|2|13|82
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|F|Four-Seam Fastball|92|0|1|2|5|95
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|F|Slider|93|0|2|2|5|84
+Luiz Gohara|L|J.P. Crawford|L|Strikeout|C|Slider|94|0|2|2|12|84
+Luiz Gohara|L|Dee Gordon|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|97
+Luiz Gohara|L|Dee Gordon|L|Flyout|X|Four-Seam Fastball|1|1|0|0|3|97
+Luiz Gohara|L|Giancarlo Stanton|R|Flyout|C|Four-Seam Fastball|2|0|0|1|3|98
+Luiz Gohara|L|Giancarlo Stanton|R|Flyout|X|Four-Seam Fastball|3|0|1|1|6|98
+Luiz Gohara|L|Marcell Ozuna|R|Flyout|C|Four-Seam Fastball|4|0|0|2|9|98
+Luiz Gohara|L|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|5|0|1|2|8|98
+Luiz Gohara|L|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|6|1|1|2|4|98
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|C|Four-Seam Fastball|7|0|0|0|5|97
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|B|Slider|8|0|1|0|13|84
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|F|Two-Seam Fastball|9|1|1|0|3|97
+Luiz Gohara|L|J.T. Realmuto|R|Strikeout|S|Slider|10|1|2|0|7|85
+Luiz Gohara|L|Justin Bour|L|Groundout|X|Four-Seam Fastball|11|0|0|1|6|98
+Luiz Gohara|L|Brian Anderson|R|Lineout|B|Four-Seam Fastball|12|0|0|2|13|98
+Luiz Gohara|L|Brian Anderson|R|Lineout|F|Four-Seam Fastball|13|1|0|2|9|98
+Luiz Gohara|L|Brian Anderson|R|Lineout|F|Four-Seam Fastball|14|1|1|2|6|97
+Luiz Gohara|L|Brian Anderson|R|Lineout|X|Slider|15|1|2|2|4|86
+Luiz Gohara|L|Tyler Moore|R|Strikeout|F|Two-Seam Fastball|16|0|0|0|12|98
+Luiz Gohara|L|Tyler Moore|R|Strikeout|C|Four-Seam Fastball|17|0|1|0|4|98
+Luiz Gohara|L|Tyler Moore|R|Strikeout|S|Slider|18|0|2|0|13|87
+Luiz Gohara|L|Miguel Rojas|R|Double|C|Four-Seam Fastball|19|0|0|1|2|99
+Luiz Gohara|L|Miguel Rojas|R|Double|C|Four-Seam Fastball|20|0|1|1|13|100
+Luiz Gohara|L|Miguel Rojas|R|Double|D|Four-Seam Fastball|21|0|2|1|13|99
+Luiz Gohara|L|A.J. Ellis|R|Flyout|B|Slider|22|0|0|1|13|83
+Luiz Gohara|L|A.J. Ellis|R|Flyout|F|Four-Seam Fastball|23|1|0|1|2|97
+Luiz Gohara|L|A.J. Ellis|R|Flyout|B|Four-Seam Fastball|24|1|1|1|13|98
+Luiz Gohara|L|A.J. Ellis|R|Flyout|X|Four-Seam Fastball|25|2|1|1|6|97
+Luiz Gohara|L|Dee Gordon|L|Groundout|B|Slider|26|0|0|2|11|84
+Luiz Gohara|L|Dee Gordon|L|Groundout|X|Four-Seam Fastball|27|1|0|2|7|98
+Luiz Gohara|L|Giancarlo Stanton|R|Groundout|C|Four-Seam Fastball|28|0|0|0|6|98
+Luiz Gohara|L|Giancarlo Stanton|R|Groundout|F|Slider|29|0|1|0|11|86
+Luiz Gohara|L|Giancarlo Stanton|R|Groundout|B|Slider|30|0|2|0|13|89
+Luiz Gohara|L|Giancarlo Stanton|R|Groundout|F|Four-Seam Fastball|31|1|2|0|11|99
+Luiz Gohara|L|Giancarlo Stanton|R|Groundout|X|Slider|32|1|2|0|13|85
+Luiz Gohara|L|Marcell Ozuna|R|Walk|B|Two-Seam Fastball|33|0|0|1|12|98
+Luiz Gohara|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|34|1|0|1|14|91
+Luiz Gohara|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|35|2|0|1|12|98
+Luiz Gohara|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|36|3|0|1|14|98
+Luiz Gohara|L|J.T. Realmuto|R|Lineout|S|Four-Seam Fastball|37|0|0|1|12|97
+Luiz Gohara|L|J.T. Realmuto|R|Lineout|F|Four-Seam Fastball|38|0|1|1|5|97
+Luiz Gohara|L|J.T. Realmuto|R|Lineout|X|Slider|39|0|2|1|5|84
+Luiz Gohara|L|Justin Bour|L|Forceout|B|Slider|40|0|0|2|13|85
+Luiz Gohara|L|Justin Bour|L|Forceout|C|Slider|41|1|0|2|8|82
+Luiz Gohara|L|Justin Bour|L|Forceout|S|Slider|42|1|1|2|7|85
+Luiz Gohara|L|Justin Bour|L|Forceout|X|Four-Seam Fastball|43|1|2|2|11|98
+Luiz Gohara|L|Brian Anderson|R|Strikeout|C|Slider|44|0|0|0|3|81
+Luiz Gohara|L|Brian Anderson|R|Strikeout|F|Two-Seam Fastball|45|0|1|0|14|97
+Luiz Gohara|L|Brian Anderson|R|Strikeout|S|Four-Seam Fastball|46|0|2|0|5|97
+Luiz Gohara|L|Tyler Moore|R|Pop Out|S|Two-Seam Fastball|47|0|0|1|12|98
+Luiz Gohara|L|Tyler Moore|R|Pop Out|B|Four-Seam Fastball|48|0|1|1|12|98
+Luiz Gohara|L|Tyler Moore|R|Pop Out|B|Changeup|49|1|1|1|14|89
+Luiz Gohara|L|Tyler Moore|R|Pop Out|C|Four-Seam Fastball|50|2|1|1|3|97
+Luiz Gohara|L|Tyler Moore|R|Pop Out|X|Slider|51|2|2|1|2|85
+Luiz Gohara|L|Miguel Rojas|R|Groundout|B|Two-Seam Fastball|52|0|0|2|12|98
+Luiz Gohara|L|Miguel Rojas|R|Groundout|F|Changeup|53|1|0|2|6|90
+Luiz Gohara|L|Miguel Rojas|R|Groundout|F|Four-Seam Fastball|54|1|1|2|5|99
+Luiz Gohara|L|Miguel Rojas|R|Groundout|X|Slider|55|1|2|2|2|86
+Luiz Gohara|L|Mike Aviles|R|Strikeout|S|Four-Seam Fastball|56|0|0|0|9|97
+Luiz Gohara|L|Mike Aviles|R|Strikeout|F|Four-Seam Fastball|57|0|1|0|8|98
+Luiz Gohara|L|Mike Aviles|R|Strikeout|F|Four-Seam Fastball|58|0|2|0|5|98
+Luiz Gohara|L|Mike Aviles|R|Strikeout|B|Slider|59|0|2|0|13|86
+Luiz Gohara|L|Mike Aviles|R|Strikeout|B|Slider|60|1|2|0|11|84
+Luiz Gohara|L|Mike Aviles|R|Strikeout|W|Slider|61|2|2|0|13|84
+Luiz Gohara|L|Dee Gordon|L|Single|C|Four-Seam Fastball|62|0|0|1|7|99
+Luiz Gohara|L|Dee Gordon|L|Single|C|Four-Seam Fastball|63|0|1|1|13|99
+Luiz Gohara|L|Dee Gordon|L|Single|D|Four-Seam Fastball|64|0|2|1|1|99
+Luiz Gohara|L|Giancarlo Stanton|R|Double|D|Four-Seam Fastball|65|0|0|1|13|97
+Luiz Gohara|L|Marcell Ozuna|R|Double|E|Slider|66|0|0|1|4|85
+Luiz Gohara|L|J.T. Realmuto|R|Single|S|Four-Seam Fastball|67|0|0|1|5|97
+Luiz Gohara|L|J.T. Realmuto|R|Single|B|Slider|68|0|1|1|7|83
+Luiz Gohara|L|J.T. Realmuto|R|Single|D|Two-Seam Fastball|69|1|1|1|7|96
+Luiz Gohara|L|Justin Bour|L|Strikeout|S|Slider|70|0|0|1|13|84
+Luiz Gohara|L|Justin Bour|L|Strikeout|B|Four-Seam Fastball|71|0|1|1|13|97
+Luiz Gohara|L|Justin Bour|L|Strikeout|C|Slider|72|1|1|1|7|84
+Luiz Gohara|L|Justin Bour|L|Strikeout|F|Slider|73|1|2|1|4|86
+Luiz Gohara|L|Justin Bour|L|Strikeout|F|Slider|74|1|2|1|5|84
+Luiz Gohara|L|Justin Bour|L|Strikeout|W|Slider|75|1|2|1|13|84
+Luiz Gohara|L|Brian Anderson|R|Strikeout|B|Slider|76|0|0|2|12|82
+Luiz Gohara|L|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|77|1|0|2|5|97
+Luiz Gohara|L|Brian Anderson|R|Strikeout|F|Slider|78|1|1|2|7|84
+Luiz Gohara|L|Brian Anderson|R|Strikeout|S|Slider|79|1|2|2|13|84
+Luiz Gohara|L|Tyler Moore|R|Double|B|Slider|80|0|0|0|11|82
+Luiz Gohara|L|Tyler Moore|R|Double|F|Two-Seam Fastball|81|1|0|0|12|97
+Luiz Gohara|L|Tyler Moore|R|Double|B|Changeup|82|1|1|0|7|87
+Luiz Gohara|L|Tyler Moore|R|Double|B|Two-Seam Fastball|83|2|1|0|11|98
+Luiz Gohara|L|Tyler Moore|R|Double|D|Two-Seam Fastball|84|3|1|0|5|96
+Luiz Gohara|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|85|0|0|0|12|95
+Luiz Gohara|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|86|1|0|0|11|94
+Luiz Gohara|L|Miguel Rojas|R|Walk|F|Four-Seam Fastball|87|2|0|0|1|95
+Luiz Gohara|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|88|2|1|0|11|96
+Luiz Gohara|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|89|3|1|0|12|95

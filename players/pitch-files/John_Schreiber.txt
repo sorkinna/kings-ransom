@@ -1,0 +1,251 @@
+John Schreiber|R|Greg Allen|L|Walk|C|Four-Seam Fastball|0|0|0|2|4|92
+John Schreiber|R|Greg Allen|L|Walk|B|Curveball|1|0|1|2|11|83
+John Schreiber|R|Greg Allen|L|Walk|S|Four-Seam Fastball|2|1|1|2|14|91
+John Schreiber|R|Greg Allen|L|Walk|B|Two-Seam Fastball|3|1|2|2|11|92
+John Schreiber|R|Greg Allen|L|Walk|F|Curveball|4|2|2|2|3|78
+John Schreiber|R|Greg Allen|L|Walk|B|Four-Seam Fastball|5|2|2|2|11|91
+John Schreiber|R|Greg Allen|L|Walk|B|Four-Seam Fastball|6|3|2|2|11|90
+John Schreiber|R|Mike Freeman|L|Strikeout|C|Curveball|7|0|0|2|1|77
+John Schreiber|R|Mike Freeman|L|Strikeout|B|Four-Seam Fastball|8|0|1|2|13|91
+John Schreiber|R|Mike Freeman|L|Strikeout|C|Four-Seam Fastball|9|1|1|2|11|89
+John Schreiber|R|Mike Freeman|L|Strikeout|F|Curveball|10|1|2|2|9|77
+John Schreiber|R|Mike Freeman|L|Strikeout|B|Curveball|11|1|2|2|13|76
+John Schreiber|R|Mike Freeman|L|Strikeout|S|Four-Seam Fastball|12|2|2|2|1|90
+John Schreiber|R|Roberto Perez|R|Flyout|C|Four-Seam Fastball|13|0|0|0|8|91
+John Schreiber|R|Roberto Perez|R|Flyout|X|Four-Seam Fastball|14|0|1|0|6|92
+John Schreiber|R|Andrew Velazquez|L|Strikeout|B|Curveball|15|0|0|1|11|77
+John Schreiber|R|Andrew Velazquez|L|Strikeout|F|Four-Seam Fastball|16|1|0|1|4|91
+John Schreiber|R|Andrew Velazquez|L|Strikeout|S|Four-Seam Fastball|17|1|1|1|6|92
+John Schreiber|R|Andrew Velazquez|L|Strikeout|C|Four-Seam Fastball|18|1|2|1|11|90
+John Schreiber|R|Francisco Lindor|L|Strikeout|C|Two-Seam Fastball|19|0|0|2|1|92
+John Schreiber|R|Francisco Lindor|L|Strikeout|F|Changeup|20|0|1|2|13|85
+John Schreiber|R|Francisco Lindor|L|Strikeout|S|Four-Seam Fastball|21|0|2|2|1|92
+John Schreiber|R|Oscar Mercado|R|Strikeout|C|Curveball|22|0|0|0|9|77
+John Schreiber|R|Oscar Mercado|R|Strikeout|B|Curveball|23|0|1|0|14|78
+John Schreiber|R|Oscar Mercado|R|Strikeout|C|Four-Seam Fastball|24|1|1|0|9|92
+John Schreiber|R|Oscar Mercado|R|Strikeout|F|Four-Seam Fastball|25|1|2|0|2|90
+John Schreiber|R|Oscar Mercado|R|Strikeout|F|Curveball|26|1|2|0|14|80
+John Schreiber|R|Oscar Mercado|R|Strikeout|B|Four-Seam Fastball|27|1|2|0|14|93
+John Schreiber|R|Oscar Mercado|R|Strikeout|C|Four-Seam Fastball|28|2|2|0|8|92
+John Schreiber|R|Carlos Santana|L|Lineout|B|Four-Seam Fastball|29|0|0|1|12|92
+John Schreiber|R|Carlos Santana|L|Lineout|B|Curveball|30|1|0|1|14|79
+John Schreiber|R|Carlos Santana|L|Lineout|F|Four-Seam Fastball|31|2|0|1|14|91
+John Schreiber|R|Carlos Santana|L|Lineout|X|Four-Seam Fastball|32|2|1|1|9|92
+John Schreiber|R|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|33|0|0|2|11|92
+John Schreiber|R|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|34|1|0|2|14|91
+John Schreiber|R|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|35|2|0|2|7|91
+John Schreiber|R|Jorge Soler|R|Home Run|B|Four-Seam Fastball|0|0|0|0|1|91
+John Schreiber|R|Jorge Soler|R|Home Run|S|Four-Seam Fastball|1|1|0|0|9|90
+John Schreiber|R|Jorge Soler|R|Home Run|B|Four-Seam Fastball|2|1|1|0|14|92
+John Schreiber|R|Jorge Soler|R|Home Run|B|Four-Seam Fastball|3|2|1|0|13|91
+John Schreiber|R|Jorge Soler|R|Home Run|E|Four-Seam Fastball|4|3|1|0|7|90
+John Schreiber|R|Cheslor Cuthbert|R|Lineout|C|Four-Seam Fastball|5|0|0|0|9|92
+John Schreiber|R|Cheslor Cuthbert|R|Lineout|B|Curveball|6|0|1|0|14|78
+John Schreiber|R|Cheslor Cuthbert|R|Lineout|F|Two-Seam Fastball|7|1|1|0|1|89
+John Schreiber|R|Cheslor Cuthbert|R|Lineout|X|Curveball|8|1|2|0|11|79
+John Schreiber|R|Ryan O'Hearn|L|Single|C|Four-Seam Fastball|9|0|0|1|9|92
+John Schreiber|R|Ryan O'Hearn|L|Single|B|Curveball|10|0|1|1|13|79
+John Schreiber|R|Ryan O'Hearn|L|Single|D|Four-Seam Fastball|11|1|1|1|13|93
+John Schreiber|R|Bubba Starling|R|Lineout|B|Four-Seam Fastball|12|0|0|1|14|90
+John Schreiber|R|Bubba Starling|R|Lineout|X|Four-Seam Fastball|13|1|0|1|8|91
+John Schreiber|R|Meibrys Viloria|L|Single|B|Four-Seam Fastball|14|0|0|2|13|93
+John Schreiber|R|Meibrys Viloria|L|Single|D|Two-Seam Fastball|15|1|0|2|6|90
+John Schreiber|R|Ryan O'Hearn|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|91
+John Schreiber|R|Ryan O'Hearn|L|Strikeout|C|Changeup|1|1|0|0|14|86
+John Schreiber|R|Ryan O'Hearn|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|4|92
+John Schreiber|R|Ryan O'Hearn|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|12|92
+John Schreiber|R|Bubba Starling|R|Walk|C|Curveball|4|0|0|1|9|78
+John Schreiber|R|Bubba Starling|R|Walk|S|Curveball|5|0|1|1|14|80
+John Schreiber|R|Bubba Starling|R|Walk|B|Four-Seam Fastball|6|0|2|1|12|93
+John Schreiber|R|Bubba Starling|R|Walk|B|Two-Seam Fastball|7|1|2|1|14|90
+John Schreiber|R|Bubba Starling|R|Walk|B|Four-Seam Fastball|8|2|2|1|14|93
+John Schreiber|R|Bubba Starling|R|Walk|B|Four-Seam Fastball|9|3|2|1|12|92
+John Schreiber|R|Meibrys Viloria|L|Strikeout|B|Curveball|10|0|0|1|13|79
+John Schreiber|R|Meibrys Viloria|L|Strikeout|S|Four-Seam Fastball|11|1|0|1|2|91
+John Schreiber|R|Meibrys Viloria|L|Strikeout|C|Four-Seam Fastball|12|1|1|1|1|90
+John Schreiber|R|Meibrys Viloria|L|Strikeout|C|Curveball|13|1|2|1|13|79
+John Schreiber|R|Humberto Arteaga|R|Walk|B|Curveball|14|0|0|2|14|79
+John Schreiber|R|Humberto Arteaga|R|Walk|C|Four-Seam Fastball|15|1|0|2|14|92
+John Schreiber|R|Humberto Arteaga|R|Walk|B|Four-Seam Fastball|16|1|1|2|12|89
+John Schreiber|R|Humberto Arteaga|R|Walk|B|Four-Seam Fastball|17|2|1|2|12|91
+John Schreiber|R|Humberto Arteaga|R|Walk|B|Four-Seam Fastball|18|3|1|2|14|91
+John Schreiber|R|Whit Merrifield|R|Double|B|Two-Seam Fastball|19|0|0|2|14|91
+John Schreiber|R|Whit Merrifield|R|Double|E|Four-Seam Fastball|20|1|0|2|4|91
+John Schreiber|R|Alex Gordon|L|Groundout|B|Four-Seam Fastball|21|0|0|2|14|90
+John Schreiber|R|Alex Gordon|L|Groundout|F|Four-Seam Fastball|22|1|0|2|14|90
+John Schreiber|R|Alex Gordon|L|Groundout|B|Changeup|23|1|1|2|13|86
+John Schreiber|R|Alex Gordon|L|Groundout|X|Four-Seam Fastball|24|2|1|2|7|90
+John Schreiber|R|Miguel Sano|R|Groundout|B|Four-Seam Fastball|0|0|0|0|11|90
+John Schreiber|R|Miguel Sano|R|Groundout|X|Four-Seam Fastball|1|1|0|0|9|89
+John Schreiber|R|Luis Arraez|L|Lineout|C|Two-Seam Fastball|2|0|0|1|11|91
+John Schreiber|R|Luis Arraez|L|Lineout|B|Curveball|3|0|1|1|11|80
+John Schreiber|R|Luis Arraez|L|Lineout|F|Two-Seam Fastball|4|1|1|1|1|91
+John Schreiber|R|Luis Arraez|L|Lineout|F|Changeup|5|1|2|1|11|87
+John Schreiber|R|Luis Arraez|L|Lineout|B|Changeup|6|1|2|1|11|87
+John Schreiber|R|Luis Arraez|L|Lineout|F|Two-Seam Fastball|7|2|2|1|11|91
+John Schreiber|R|Luis Arraez|L|Lineout|X|Four-Seam Fastball|8|2|2|1|6|93
+John Schreiber|R|Jake Cave|L|Strikeout|C|Changeup|9|0|0|2|13|86
+John Schreiber|R|Jake Cave|L|Strikeout|B|Two-Seam Fastball|10|0|1|2|13|93
+John Schreiber|R|Jake Cave|L|Strikeout|C|Four-Seam Fastball|11|1|1|2|11|92
+John Schreiber|R|Jake Cave|L|Strikeout|B|Four-Seam Fastball|12|1|2|2|11|94
+John Schreiber|R|Jake Cave|L|Strikeout|S|Curveball|13|2|2|2|11|80
+John Schreiber|R|Willians Astudillo|R|Hit By Pitch|F|Two-Seam Fastball|14|0|0|0|11|91
+John Schreiber|R|Willians Astudillo|R|Hit By Pitch|H|Curveball|15|0|1|0|11|78
+John Schreiber|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|16|0|0|0|11|90
+John Schreiber|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|17|1|0|0|13|90
+John Schreiber|R|Jason Castro|L|Strikeout|F|Changeup|18|1|1|0|7|85
+John Schreiber|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|19|1|2|0|11|91
+John Schreiber|R|Jason Castro|L|Strikeout|S|Curveball|20|2|2|0|8|78
+John Schreiber|R|LaMonte Wade Jr|L|Forceout|C|Curveball|21|0|0|1|2|78
+John Schreiber|R|LaMonte Wade Jr|L|Forceout|X|Four-Seam Fastball|22|0|1|1|9|91
+John Schreiber|R|Jorge Polanco|L|Single|F|Four-Seam Fastball|23|0|0|2|4|91
+John Schreiber|R|Jorge Polanco|L|Single|B|Curveball|24|0|1|2|13|77
+John Schreiber|R|Jorge Polanco|L|Single|C|Four-Seam Fastball|25|1|1|2|14|92
+John Schreiber|R|Jorge Polanco|L|Single|D|Two-Seam Fastball|26|1|2|2|13|90
+John Schreiber|R|Nelson Cruz|R|Single|B|Curveball|27|0|0|2|11|76
+John Schreiber|R|Nelson Cruz|R|Single|F|Four-Seam Fastball|28|1|0|2|8|90
+John Schreiber|R|Nelson Cruz|R|Single|C|Four-Seam Fastball|29|1|1|2|14|91
+John Schreiber|R|Nelson Cruz|R|Single|*B|Curveball|30|1|2|2|14|79
+John Schreiber|R|Nelson Cruz|R|Single|E|Four-Seam Fastball|31|2|2|2|7|90
+John Schreiber|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|32|0|0|2|14|90
+John Schreiber|R|Eddie Rosario|L|Single|E|Four-Seam Fastball|33|0|1|2|6|91
+John Schreiber|R|Gleyber Torres|R|Strikeout|C|Curveball|0|0|0|0|13|79
+John Schreiber|R|Gleyber Torres|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|14|91
+John Schreiber|R|Gleyber Torres|R|Strikeout|B|Curveball|2|0|2|0|14|80
+John Schreiber|R|Gleyber Torres|R|Strikeout|F|Curveball|3|1|2|0|1|78
+John Schreiber|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|4|1|2|0|5|93
+John Schreiber|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|5|0|0|1|13|93
+John Schreiber|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|6|0|1|1|12|91
+John Schreiber|R|Brett Gardner|L|Groundout|B|Curveball|7|1|1|1|11|79
+John Schreiber|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|8|2|1|1|8|93
+John Schreiber|R|Brett Gardner|L|Groundout|F|Four-Seam Fastball|9|2|2|1|13|93
+John Schreiber|R|Brett Gardner|L|Groundout|B|Curveball|10|2|2|1|11|79
+John Schreiber|R|Brett Gardner|L|Groundout|F|Four-Seam Fastball|11|3|2|1|6|92
+John Schreiber|R|Brett Gardner|L|Groundout|F|Four-Seam Fastball|12|3|2|1|4|92
+John Schreiber|R|Brett Gardner|L|Groundout|F|Four-Seam Fastball|13|3|2|1|4|91
+John Schreiber|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|14|3|2|1|7|92
+John Schreiber|R|Gary Sanchez|R|Single|B|Curveball|15|0|0|2|14|78
+John Schreiber|R|Gary Sanchez|R|Single|B|Four-Seam Fastball|16|1|0|2|14|91
+John Schreiber|R|Gary Sanchez|R|Single|D|Two-Seam Fastball|17|2|0|2|8|89
+John Schreiber|R|Edwin Encarnacion|R|Home Run|B|Curveball|18|0|0|2|14|78
+John Schreiber|R|Edwin Encarnacion|R|Home Run|C|Curveball|19|1|0|2|13|78
+John Schreiber|R|Edwin Encarnacion|R|Home Run|E|Four-Seam Fastball|20|1|1|2|9|92
+John Schreiber|R|DJ LeMahieu|R|Single|S|Four-Seam Fastball|0|0|0|0|1|90
+John Schreiber|R|DJ LeMahieu|R|Single|S|Four-Seam Fastball|1|0|1|0|2|91
+John Schreiber|R|DJ LeMahieu|R|Single|B|Four-Seam Fastball|2|0|2|0|11|89
+John Schreiber|R|DJ LeMahieu|R|Single|B|Curveball|3|1|2|0|14|79
+John Schreiber|R|DJ LeMahieu|R|Single|D|Four-Seam Fastball|4|2|2|0|11|91
+John Schreiber|R|Aaron Judge|R|Grounded Into DP|S|Curveball|5|0|0|0|4|78
+John Schreiber|R|Aaron Judge|R|Grounded Into DP|C|Curveball|6|0|1|0|4|78
+John Schreiber|R|Aaron Judge|R|Grounded Into DP|B|Four-Seam Fastball|7|0|2|0|14|92
+John Schreiber|R|Aaron Judge|R|Grounded Into DP|*B|Curveball|8|1|2|0|14|79
+John Schreiber|R|Aaron Judge|R|Grounded Into DP|X|Four-Seam Fastball|9|2|2|0|5|92
+John Schreiber|R|Didi Gregorius|L|Flyout|C|Four-Seam Fastball|10|0|0|2|11|92
+John Schreiber|R|Didi Gregorius|L|Flyout|B|Changeup|11|0|1|2|11|85
+John Schreiber|R|Didi Gregorius|L|Flyout|B|Four-Seam Fastball|12|1|1|2|11|92
+John Schreiber|R|Didi Gregorius|L|Flyout|C|Four-Seam Fastball|13|2|1|2|13|91
+John Schreiber|R|Didi Gregorius|L|Flyout|F|Changeup|14|2|2|2|4|85
+John Schreiber|R|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|15|2|2|2|6|92
+John Schreiber|R|Hanser Alberto|R|Flyout|C|Curveball|0|0|0|2|6|77
+John Schreiber|R|Hanser Alberto|R|Flyout|W|Curveball|1|0|1|2|14|79
+John Schreiber|R|Hanser Alberto|R|Flyout|X|Curveball|2|0|2|2|4|78
+John Schreiber|R|Yolmer Sanchez|L|Single|B|Four-Seam Fastball|0|0|0|0|11|92
+John Schreiber|R|Yolmer Sanchez|L|Single|D|Four-Seam Fastball|1|1|0|0|7|90
+John Schreiber|R|Tim Anderson|R|Forceout|B|Four-Seam Fastball|2|0|0|0|14|92
+John Schreiber|R|Tim Anderson|R|Forceout|C|Four-Seam Fastball|3|1|0|0|5|90
+John Schreiber|R|Tim Anderson|R|Forceout|S|Curveball|4|1|1|0|14|79
+John Schreiber|R|Tim Anderson|R|Forceout|B|Curveball|5|1|2|0|14|79
+John Schreiber|R|Tim Anderson|R|Forceout|F|Curveball|6|2|2|0|7|78
+John Schreiber|R|Tim Anderson|R|Forceout|B|Four-Seam Fastball|7|2|2|0|14|91
+John Schreiber|R|Tim Anderson|R|Forceout|X|Four-Seam Fastball|8|3|2|0|13|92
+John Schreiber|R|Jose Abreu|R|Flyout|B|Curveball|9|0|0|1|11|77
+John Schreiber|R|Jose Abreu|R|Flyout|B|Curveball|10|1|0|1|14|77
+John Schreiber|R|Jose Abreu|R|Flyout|C|Four-Seam Fastball|11|2|0|1|6|91
+John Schreiber|R|Jose Abreu|R|Flyout|X|Curveball|12|2|1|1|8|77
+John Schreiber|R|Yoan Moncada|L|Single|B|Four-Seam Fastball|13|0|0|2|11|92
+John Schreiber|R|Yoan Moncada|L|Single|F|Changeup|14|1|0|2|13|84
+John Schreiber|R|Yoan Moncada|L|Single|B|Changeup|15|1|1|2|14|87
+John Schreiber|R|Yoan Moncada|L|Single|C|Four-Seam Fastball|16|2|1|2|14|92
+John Schreiber|R|Yoan Moncada|L|Single|D|Changeup|17|2|2|2|8|85
+John Schreiber|R|Eloy Jimenez|R|Strikeout|S|Curveball|18|0|0|2|14|78
+John Schreiber|R|Eloy Jimenez|R|Strikeout|B|Curveball|19|0|1|2|14|78
+John Schreiber|R|Eloy Jimenez|R|Strikeout|*B|Four-Seam Fastball|20|1|1|2|14|92
+John Schreiber|R|Eloy Jimenez|R|Strikeout|C|Curveball|21|2|1|2|4|77
+John Schreiber|R|Eloy Jimenez|R|Strikeout|B|Four-Seam Fastball|22|2|2|2|14|92
+John Schreiber|R|Eloy Jimenez|R|Strikeout|W|Four-Seam Fastball|23|3|2|2|9|91
+John Schreiber|R|Adam Engel|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|5|91
+John Schreiber|R|Adam Engel|R|Strikeout|S|Curveball|1|0|1|0|14|79
+John Schreiber|R|Adam Engel|R|Strikeout|B|Curveball|2|0|2|0|14|79
+John Schreiber|R|Adam Engel|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|91
+John Schreiber|R|Adam Engel|R|Strikeout|B|Curveball|4|1|2|0|14|81
+John Schreiber|R|Adam Engel|R|Strikeout|B|Four-Seam Fastball|5|2|2|0|11|92
+John Schreiber|R|Adam Engel|R|Strikeout|C|Four-Seam Fastball|6|3|2|0|11|91
+John Schreiber|R|Daniel Palka|L|Groundout|F|Changeup|7|0|0|1|11|87
+John Schreiber|R|Daniel Palka|L|Groundout|S|Four-Seam Fastball|8|0|1|1|6|92
+John Schreiber|R|Daniel Palka|L|Groundout|F|Changeup|9|0|2|1|13|87
+John Schreiber|R|Daniel Palka|L|Groundout|F|Two-Seam Fastball|10|0|2|1|2|93
+John Schreiber|R|Daniel Palka|L|Groundout|X|Four-Seam Fastball|11|0|2|1|12|93
+John Schreiber|R|Leury Garcia|L|Flyout|B|Four-Seam Fastball|12|0|0|2|11|93
+John Schreiber|R|Leury Garcia|L|Flyout|X|Curveball|13|1|0|2|4|79
+John Schreiber|R|Tim Anderson|R|Single|B|Curveball|14|0|0|0|11|78
+John Schreiber|R|Tim Anderson|R|Single|D|Four-Seam Fastball|15|1|0|0|7|92
+John Schreiber|R|Jose Abreu|R|Strikeout|C|Curveball|16|0|0|0|7|78
+John Schreiber|R|Jose Abreu|R|Strikeout|C|Two-Seam Fastball|17|0|1|0|13|90
+John Schreiber|R|Jose Abreu|R|Strikeout|F|Curveball|18|0|2|0|8|80
+John Schreiber|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|19|0|2|0|7|90
+John Schreiber|R|Eloy Jimenez|R|Strikeout|C|Four-Seam Fastball|20|0|0|1|9|92
+John Schreiber|R|Eloy Jimenez|R|Strikeout|B|Curveball|21|0|1|1|14|79
+John Schreiber|R|Eloy Jimenez|R|Strikeout|S|Curveball|22|1|1|1|14|80
+John Schreiber|R|Eloy Jimenez|R|Strikeout|S|Curveball|23|1|2|1|14|79
+John Schreiber|R|Nelson Cruz|R|Single|F|Two-Seam Fastball|0|0|0|1|1|89
+John Schreiber|R|Nelson Cruz|R|Single|E|Curveball|1|0|1|1|13|77
+John Schreiber|R|Eddie Rosario|L|Home Run|F|Two-Seam Fastball|2|0|0|1|13|90
+John Schreiber|R|Eddie Rosario|L|Home Run|B|Four-Seam Fastball|3|0|1|1|11|91
+John Schreiber|R|Eddie Rosario|L|Home Run|B|Curveball|4|1|1|1|13|77
+John Schreiber|R|Eddie Rosario|L|Home Run|F|Four-Seam Fastball|5|2|1|1|6|90
+John Schreiber|R|Eddie Rosario|L|Home Run|F|Changeup|6|2|2|1|13|86
+John Schreiber|R|Eddie Rosario|L|Home Run|F|Four-Seam Fastball|7|2|2|1|13|92
+John Schreiber|R|Eddie Rosario|L|Home Run|E|Curveball|8|2|2|1|8|79
+John Schreiber|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|9|0|0|1|13|92
+John Schreiber|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|10|0|1|1|7|89
+John Schreiber|R|Miguel Sano|R|Strikeout|S|Curveball|11|0|2|1|14|79
+John Schreiber|R|Jorge Soler|R|Strikeout|B|Curveball|0|0|0|2|14|78
+John Schreiber|R|Jorge Soler|R|Strikeout|B|Four-Seam Fastball|1|1|0|2|12|92
+John Schreiber|R|Jorge Soler|R|Strikeout|C|Curveball|2|2|0|2|14|78
+John Schreiber|R|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|3|2|1|2|3|91
+John Schreiber|R|Jorge Soler|R|Strikeout|F|Four-Seam Fastball|4|2|2|2|5|93
+John Schreiber|R|Jorge Soler|R|Strikeout|B|N/A|5|2|2|2|0|0
+John Schreiber|R|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|6|3|2|2|6|91
+John Schreiber|R|Hunter Dozier|R|Single|B|Curveball|7|0|0|0|14|79
+John Schreiber|R|Hunter Dozier|R|Single|D|Four-Seam Fastball|8|1|0|0|13|91
+John Schreiber|R|Alex Gordon|L|Walk|B|Two-Seam Fastball|9|0|0|0|11|89
+John Schreiber|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|10|1|0|0|11|90
+John Schreiber|R|Alex Gordon|L|Walk|B|Two-Seam Fastball|11|2|0|0|11|90
+John Schreiber|R|Alex Gordon|L|Walk|B|Four-Seam Fastball|12|3|0|0|14|90
+John Schreiber|R|Ryan McBroom|R|Lineout|C|Four-Seam Fastball|13|0|0|0|14|90
+John Schreiber|R|Ryan McBroom|R|Lineout|B|N/A|14|0|1|0|0|0
+John Schreiber|R|Ryan McBroom|R|Lineout|X|Curveball|15|1|1|0|14|77
+John Schreiber|R|Chad Pinder|R|Strikeout|C|Curveball|0|0|0|1|4|76
+John Schreiber|R|Chad Pinder|R|Strikeout|F|Four-Seam Fastball|1|0|1|1|8|91
+John Schreiber|R|Chad Pinder|R|Strikeout|B|Curveball|2|0|2|1|14|78
+John Schreiber|R|Chad Pinder|R|Strikeout|S|Four-Seam Fastball|3|1|2|1|14|91
+John Schreiber|R|Khris Davis|R|Flyout|S|Four-Seam Fastball|4|0|0|2|1|91
+John Schreiber|R|Khris Davis|R|Flyout|S|Curveball|5|0|1|2|14|78
+John Schreiber|R|Khris Davis|R|Flyout|X|Curveball|6|0|2|2|6|78
+John Schreiber|R|Adam Engel|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|14|92
+John Schreiber|R|Adam Engel|R|Strikeout|C|Curveball|1|0|1|0|8|79
+John Schreiber|R|Adam Engel|R|Strikeout|B|Curveball|2|0|2|0|14|80
+John Schreiber|R|Adam Engel|R|Strikeout|T|Four-Seam Fastball|3|1|2|0|3|93
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|4|0|0|1|13|93
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|B|Changeup|5|0|1|1|13|86
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|F|Two-Seam Fastball|6|1|1|1|8|92
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|7|1|2|1|11|93
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|F|Four-Seam Fastball|8|2|2|1|5|91
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|F|Curveball|9|2|2|1|12|80
+John Schreiber|R|Yolmer Sanchez|L|Strikeout|S|Two-Seam Fastball|10|2|2|1|11|93
+John Schreiber|R|Danny Mendick|R|Strikeout|F|Four-Seam Fastball|11|0|0|2|11|93
+John Schreiber|R|Danny Mendick|R|Strikeout|B|Four-Seam Fastball|12|0|1|2|9|93
+John Schreiber|R|Danny Mendick|R|Strikeout|C|Curveball|13|1|1|2|13|79
+John Schreiber|R|Danny Mendick|R|Strikeout|F|Four-Seam Fastball|14|1|2|2|3|92
+John Schreiber|R|Danny Mendick|R|Strikeout|B|Curveball|15|1|2|2|14|79
+John Schreiber|R|Danny Mendick|R|Strikeout|S|Curveball|16|2|2|2|14|80

@@ -1,0 +1,2402 @@
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|F|Four-Seam Fastball|0|0|0|2|6|93
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|B|Four-Seam Fastball|1|0|1|2|11|93
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|B|Curveball|2|1|1|2|12|82
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|C|Four-Seam Fastball|3|2|1|2|1|94
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|B|Four-Seam Fastball|4|2|2|2|12|93
+Tony Barnette|R|Mike Trout|R|Hit By Pitch|H|Four-Seam Fastball|5|3|2|2|11|94
+Tony Barnette|R|Justin Upton|R|Field Error|B|Four-Seam Fastball|6|0|0|2|14|93
+Tony Barnette|R|Justin Upton|R|Field Error|S|Curveball|7|1|0|2|14|80
+Tony Barnette|R|Justin Upton|R|Field Error|D|Sinker|8|1|1|2|11|92
+Tony Barnette|R|Albert Pujols|R|Pop Out|C|Curveball|9|0|0|2|1|79
+Tony Barnette|R|Albert Pujols|R|Pop Out|X|Curveball|10|0|1|2|8|78
+Tony Barnette|R|Andrelton Simmons|R|Lineout|F|Four-Seam Fastball|11|0|0|0|2|93
+Tony Barnette|R|Andrelton Simmons|R|Lineout|X|Four-Seam Fastball|12|0|1|0|3|94
+Tony Barnette|R|Yuli Gurriel|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|93
+Tony Barnette|R|Yuli Gurriel|R|Groundout|B|Cutter|1|0|1|0|14|90
+Tony Barnette|R|Yuli Gurriel|R|Groundout|B|Four-Seam Fastball|2|1|1|0|14|94
+Tony Barnette|R|Yuli Gurriel|R|Groundout|X|Sinker|3|2|1|0|4|92
+Tony Barnette|R|Josh Reddick|L|Walk|S|Cutter|4|0|0|1|14|90
+Tony Barnette|R|Josh Reddick|L|Walk|B|Cutter|5|0|1|1|14|91
+Tony Barnette|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|6|1|1|1|13|94
+Tony Barnette|R|Josh Reddick|L|Walk|F|Cutter|7|2|1|1|14|89
+Tony Barnette|R|Josh Reddick|L|Walk|B|Splitter|8|2|2|1|11|88
+Tony Barnette|R|Josh Reddick|L|Walk|F|Cutter|9|3|2|1|2|89
+Tony Barnette|R|Josh Reddick|L|Walk|B|Cutter|10|3|2|1|11|87
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|B|Four-Seam Fastball|11|0|0|1|11|92
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|S|Cutter|12|1|0|1|12|90
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|F|Curveball|13|1|1|1|8|80
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|*B|Curveball|14|1|2|1|14|79
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|B|Four-Seam Fastball|15|2|2|1|13|92
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|F|Cutter|16|3|2|1|9|86
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|X|Four-Seam Fastball|17|3|2|1|7|93
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Cutter|18|0|0|2|14|89
+Tony Barnette|R|Evan Gattis|R|Strikeout|*B|Curveball|19|0|1|2|13|80
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|20|1|1|2|5|93
+Tony Barnette|R|Evan Gattis|R|Strikeout|S|Curveball|21|1|2|2|14|82
+Tony Barnette|R|Max Stassi|R|Strikeout|C|Four-Seam Fastball|22|0|0|0|13|93
+Tony Barnette|R|Max Stassi|R|Strikeout|S|Cutter|23|0|1|0|2|90
+Tony Barnette|R|Max Stassi|R|Strikeout|B|Cutter|24|0|2|0|14|90
+Tony Barnette|R|Max Stassi|R|Strikeout|F|Curveball|25|1|2|0|7|81
+Tony Barnette|R|Max Stassi|R|Strikeout|F|Four-Seam Fastball|26|1|2|0|6|93
+Tony Barnette|R|Max Stassi|R|Strikeout|S|Sinker|27|1|2|0|13|93
+Tony Barnette|R|George Springer|R|Strikeout|B|Sinker|28|0|0|1|13|93
+Tony Barnette|R|George Springer|R|Strikeout|B|Curveball|29|1|0|1|12|83
+Tony Barnette|R|George Springer|R|Strikeout|C|Four-Seam Fastball|30|2|0|1|8|92
+Tony Barnette|R|George Springer|R|Strikeout|C|Cutter|31|2|1|1|7|89
+Tony Barnette|R|George Springer|R|Strikeout|B|Sinker|32|2|2|1|13|92
+Tony Barnette|R|George Springer|R|Strikeout|F|Curveball|33|3|2|1|9|83
+Tony Barnette|R|George Springer|R|Strikeout|C|Cutter|34|3|2|1|14|86
+Tony Barnette|R|Alex Bregman|R|Groundout|B|Four-Seam Fastball|35|0|0|2|14|94
+Tony Barnette|R|Alex Bregman|R|Groundout|F|Sinker|36|1|0|2|1|93
+Tony Barnette|R|Alex Bregman|R|Groundout|C|Sinker|37|1|1|2|13|93
+Tony Barnette|R|Alex Bregman|R|Groundout|B|Curveball|38|1|2|2|14|82
+Tony Barnette|R|Alex Bregman|R|Groundout|X|Sinker|39|2|2|2|2|92
+Tony Barnette|R|Teoscar Hernandez|R|Strikeout|C|Sinker|0|0|0|0|9|92
+Tony Barnette|R|Teoscar Hernandez|R|Strikeout|C|Curveball|1|0|1|0|14|82
+Tony Barnette|R|Teoscar Hernandez|R|Strikeout|W|Curveball|2|0|2|0|14|80
+Tony Barnette|R|Justin Smoak|L|Hit By Pitch|B|Four-Seam Fastball|3|0|0|1|12|93
+Tony Barnette|R|Justin Smoak|L|Hit By Pitch|C|Curveball|4|1|0|1|7|79
+Tony Barnette|R|Justin Smoak|L|Hit By Pitch|H|Cutter|5|1|1|1|12|91
+Tony Barnette|R|Yangervis Solarte|L|Forceout|B|Curveball|6|0|0|1|11|79
+Tony Barnette|R|Yangervis Solarte|L|Forceout|B|Cutter|7|1|0|1|14|90
+Tony Barnette|R|Yangervis Solarte|L|Forceout|F|Cutter|8|2|0|1|12|88
+Tony Barnette|R|Yangervis Solarte|L|Forceout|F|Sinker|9|2|1|1|4|91
+Tony Barnette|R|Yangervis Solarte|L|Forceout|F|Cutter|10|2|2|1|12|89
+Tony Barnette|R|Yangervis Solarte|L|Forceout|B|Curveball|11|2|2|1|13|77
+Tony Barnette|R|Yangervis Solarte|L|Forceout|X|Cutter|12|3|2|1|12|87
+Tony Barnette|R|Kevin Pillar|R|Strikeout|F|Sinker|13|0|0|2|13|93
+Tony Barnette|R|Kevin Pillar|R|Strikeout|F|Sinker|14|0|1|2|11|93
+Tony Barnette|R|Kevin Pillar|R|Strikeout|F|Curveball|15|0|2|2|14|81
+Tony Barnette|R|Kevin Pillar|R|Strikeout|B|Cutter|16|0|2|2|13|89
+Tony Barnette|R|Kevin Pillar|R|Strikeout|C|Curveball|17|1|2|2|13|79
+Tony Barnette|R|Russell Martin|R|Field Error|C|Four-Seam Fastball|18|0|0|0|6|93
+Tony Barnette|R|Russell Martin|R|Field Error|B|Cutter|19|0|1|0|14|90
+Tony Barnette|R|Russell Martin|R|Field Error|B|Sinker|20|1|1|0|11|93
+Tony Barnette|R|Russell Martin|R|Field Error|B|Cutter|21|2|1|0|14|91
+Tony Barnette|R|Russell Martin|R|Field Error|D|Four-Seam Fastball|22|3|1|0|6|93
+Tony Barnette|R|Lourdes Gurriel Jr.|R|Single|F|Sinker|23|0|0|0|11|93
+Tony Barnette|R|Lourdes Gurriel Jr.|R|Single|D|Sinker|24|0|1|0|5|92
+Tony Barnette|R|Randal Grichuk|R|Forceout|S|Curveball|25|0|0|0|6|82
+Tony Barnette|R|Randal Grichuk|R|Forceout|T|Curveball|26|0|1|0|14|81
+Tony Barnette|R|Randal Grichuk|R|Forceout|*B|Curveball|27|0|2|0|14|82
+Tony Barnette|R|Randal Grichuk|R|Forceout|*B|Curveball|28|1|2|0|14|81
+Tony Barnette|R|Randal Grichuk|R|Forceout|E|Sinker|29|2|2|0|9|92
+Tony Barnette|R|Aledmys Diaz|R|Flyout|X|Curveball|30|0|0|1|1|80
+Tony Barnette|R|Steve Pearce|R|Walk|B|Curveball|31|0|0|2|14|81
+Tony Barnette|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|32|1|0|2|14|92
+Tony Barnette|R|Steve Pearce|R|Walk|S|Sinker|33|2|0|2|13|90
+Tony Barnette|R|Steve Pearce|R|Walk|C|Sinker|34|2|1|2|7|92
+Tony Barnette|R|Steve Pearce|R|Walk|B|Curveball|35|2|2|2|14|82
+Tony Barnette|R|Steve Pearce|R|Walk|B|Sinker|36|3|2|2|11|92
+Tony Barnette|R|Teoscar Hernandez|R|Double|D|Curveball|37|0|0|2|6|80
+Tony Barnette|R|Hanley Ramirez|R|Groundout|*B|Sinker|0|0|0|2|14|91
+Tony Barnette|R|Hanley Ramirez|R|Groundout|X|Sinker|1|1|0|2|4|91
+Tony Barnette|R|J.D. Martinez|R|Groundout|B|Cutter|2|0|0|0|14|88
+Tony Barnette|R|J.D. Martinez|R|Groundout|C|Sinker|3|1|0|0|8|91
+Tony Barnette|R|J.D. Martinez|R|Groundout|B|Sinker|4|1|1|0|13|93
+Tony Barnette|R|J.D. Martinez|R|Groundout|F|Four-Seam Fastball|5|2|1|0|8|92
+Tony Barnette|R|J.D. Martinez|R|Groundout|B|Curveball|6|2|2|0|14|82
+Tony Barnette|R|J.D. Martinez|R|Groundout|F|Sinker|7|3|2|0|4|92
+Tony Barnette|R|J.D. Martinez|R|Groundout|X|Four-Seam Fastball|8|3|2|0|4|92
+Tony Barnette|R|Tzu-Wei Lin|L|Groundout|B|Four-Seam Fastball|9|0|0|1|11|93
+Tony Barnette|R|Tzu-Wei Lin|L|Groundout|X|Sinker|10|1|0|1|4|91
+Tony Barnette|R|Rafael Devers|L|Groundout|C|Four-Seam Fastball|11|0|0|2|2|93
+Tony Barnette|R|Rafael Devers|L|Groundout|S|Curveball|12|0|1|2|2|82
+Tony Barnette|R|Rafael Devers|L|Groundout|B|Splitter|13|0|2|2|13|88
+Tony Barnette|R|Rafael Devers|L|Groundout|F|Cutter|14|1|2|2|1|88
+Tony Barnette|R|Rafael Devers|L|Groundout|B|Cutter|15|1|2|2|13|90
+Tony Barnette|R|Rafael Devers|L|Groundout|X|Sinker|16|2|2|2|7|93
+Tony Barnette|R|Blake Swihart|L|Groundout|X|Cutter|0|0|0|0|2|91
+Tony Barnette|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|1|0|0|1|11|91
+Tony Barnette|R|Andrew Benintendi|L|Flyout|B|Four-Seam Fastball|2|1|0|1|11|91
+Tony Barnette|R|Andrew Benintendi|L|Flyout|X|Cutter|3|2|0|1|12|89
+Tony Barnette|R|J.D. Martinez|R|Strikeout|C|Curveball|4|0|0|2|7|82
+Tony Barnette|R|J.D. Martinez|R|Strikeout|B|Four-Seam Fastball|5|0|1|2|2|92
+Tony Barnette|R|J.D. Martinez|R|Strikeout|S|Curveball|6|1|1|2|14|82
+Tony Barnette|R|J.D. Martinez|R|Strikeout|C|Four-Seam Fastball|7|1|2|2|13|93
+Tony Barnette|R|Jeimer Candelario|L|Single|B|Four-Seam Fastball|0|0|0|2|14|92
+Tony Barnette|R|Jeimer Candelario|L|Single|C|Cutter|1|1|0|2|9|90
+Tony Barnette|R|Jeimer Candelario|L|Single|D|Splitter|2|1|1|2|7|86
+Tony Barnette|R|Nicholas Castellanos|R|Single|D|Four-Seam Fastball|3|0|0|2|13|91
+Tony Barnette|R|Victor Martinez|L|Groundout|X|Cutter|4|0|0|2|3|90
+Tony Barnette|R|Evan Gattis|R|Pop Out|X|Cutter|0|0|0|1|14|90
+Tony Barnette|R|Derek Fisher|L|Forceout|B|Four-Seam Fastball|1|0|0|2|12|93
+Tony Barnette|R|Derek Fisher|L|Forceout|X|Cutter|2|1|0|2|12|91
+Tony Barnette|R|Jose Altuve|R|Flyout|S|Cutter|3|0|0|0|6|90
+Tony Barnette|R|Jose Altuve|R|Flyout|B|Cutter|4|0|1|0|12|91
+Tony Barnette|R|Jose Altuve|R|Flyout|B|Curveball|5|1|1|0|14|81
+Tony Barnette|R|Jose Altuve|R|Flyout|B|Curveball|6|2|1|0|14|82
+Tony Barnette|R|Jose Altuve|R|Flyout|F|Sinker|7|3|1|0|2|93
+Tony Barnette|R|Jose Altuve|R|Flyout|X|Sinker|8|3|2|0|4|94
+Tony Barnette|R|Alex Bregman|R|Double|B|Four-Seam Fastball|9|0|0|1|14|93
+Tony Barnette|R|Alex Bregman|R|Double|C|Sinker|10|1|0|1|6|93
+Tony Barnette|R|Alex Bregman|R|Double|B|Sinker|11|1|1|1|14|94
+Tony Barnette|R|Alex Bregman|R|Double|C|Cutter|12|2|1|1|8|91
+Tony Barnette|R|Alex Bregman|R|Double|B|Cutter|13|2|2|1|14|91
+Tony Barnette|R|Alex Bregman|R|Double|D|Cutter|14|3|2|1|2|89
+Tony Barnette|R|Carlos Correa|R|Home Run|E|Four-Seam Fastball|15|0|0|1|3|93
+Tony Barnette|R|Yuli Gurriel|R|Double|C|Cutter|16|0|0|1|5|91
+Tony Barnette|R|Yuli Gurriel|R|Double|B|Curveball|17|0|1|1|14|83
+Tony Barnette|R|Yuli Gurriel|R|Double|S|Sinker|18|1|1|1|11|93
+Tony Barnette|R|Yuli Gurriel|R|Double|B|Sinker|19|1|2|1|13|93
+Tony Barnette|R|Yuli Gurriel|R|Double|F|Curveball|20|2|2|1|5|83
+Tony Barnette|R|Yuli Gurriel|R|Double|B|Cutter|21|2|2|1|14|90
+Tony Barnette|R|Yuli Gurriel|R|Double|D|Cutter|22|3|2|1|1|89
+Tony Barnette|R|Jean Segura|R|Flyout|B|Cutter|0|0|0|0|14|90
+Tony Barnette|R|Jean Segura|R|Flyout|B|Sinker|1|1|0|0|11|92
+Tony Barnette|R|Jean Segura|R|Flyout|X|Sinker|2|2|0|0|13|92
+Tony Barnette|R|Mitch Haniger|R|Lineout|C|Four-Seam Fastball|3|0|0|1|9|93
+Tony Barnette|R|Mitch Haniger|R|Lineout|B|Four-Seam Fastball|4|0|1|1|14|93
+Tony Barnette|R|Mitch Haniger|R|Lineout|B|Curveball|5|1|1|1|14|82
+Tony Barnette|R|Mitch Haniger|R|Lineout|B|Curveball|6|2|1|1|14|81
+Tony Barnette|R|Mitch Haniger|R|Lineout|X|Four-Seam Fastball|7|3|1|1|5|92
+Tony Barnette|R|Ben Gamel|L|Strikeout|B|Four-Seam Fastball|8|0|0|2|11|92
+Tony Barnette|R|Ben Gamel|L|Strikeout|B|Sinker|9|1|0|2|11|92
+Tony Barnette|R|Ben Gamel|L|Strikeout|C|Sinker|10|2|0|2|13|92
+Tony Barnette|R|Ben Gamel|L|Strikeout|F|Sinker|11|2|1|2|4|92
+Tony Barnette|R|Ben Gamel|L|Strikeout|C|Cutter|12|2|2|2|13|90
+Tony Barnette|R|Kyle Seager|L|Strikeout|C|Curveball|13|0|0|0|9|80
+Tony Barnette|R|Kyle Seager|L|Strikeout|S|Cutter|14|0|1|0|12|88
+Tony Barnette|R|Kyle Seager|L|Strikeout|B|Splitter|15|0|2|0|13|88
+Tony Barnette|R|Kyle Seager|L|Strikeout|S|Curveball|16|1|2|0|14|81
+Tony Barnette|R|Ryon Healy|R|Groundout|C|Four-Seam Fastball|17|0|0|1|14|92
+Tony Barnette|R|Ryon Healy|R|Groundout|X|Curveball|18|0|1|1|14|81
+Tony Barnette|R|Mike Zunino|R|Strikeout|F|Four-Seam Fastball|19|0|0|2|1|93
+Tony Barnette|R|Mike Zunino|R|Strikeout|C|Curveball|20|0|1|2|7|79
+Tony Barnette|R|Mike Zunino|R|Strikeout|B|Curveball|21|0|2|2|14|80
+Tony Barnette|R|Mike Zunino|R|Strikeout|S|Curveball|22|1|2|2|9|81
+Tony Barnette|R|Jose Abreu|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|93
+Tony Barnette|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|9|92
+Tony Barnette|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|8|92
+Tony Barnette|R|Jose Abreu|R|Strikeout|B|Sinker|3|1|2|0|11|93
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Curveball|4|2|2|0|14|81
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Sinker|5|2|2|0|11|93
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Cutter|6|2|2|0|11|89
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Cutter|7|2|2|0|5|89
+Tony Barnette|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|8|2|2|0|2|92
+Tony Barnette|R|Matt Davidson|R|Walk|B|Curveball|9|0|0|1|13|79
+Tony Barnette|R|Matt Davidson|R|Walk|C|Four-Seam Fastball|10|1|0|1|6|92
+Tony Barnette|R|Matt Davidson|R|Walk|B|Curveball|11|1|1|1|14|79
+Tony Barnette|R|Matt Davidson|R|Walk|B|Four-Seam Fastball|12|2|1|1|12|91
+Tony Barnette|R|Matt Davidson|R|Walk|F|Sinker|13|3|1|1|11|91
+Tony Barnette|R|Matt Davidson|R|Walk|B|Sinker|14|3|2|1|11|91
+Tony Barnette|R|Welington Castillo|R|Strikeout|F|Four-Seam Fastball|15|0|0|1|12|93
+Tony Barnette|R|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|16|0|1|1|14|92
+Tony Barnette|R|Welington Castillo|R|Strikeout|F|Sinker|17|0|2|1|11|92
+Tony Barnette|R|Welington Castillo|R|Strikeout|B|Curveball|18|0|2|1|13|79
+Tony Barnette|R|Welington Castillo|R|Strikeout|F|Sinker|19|1|2|1|13|91
+Tony Barnette|R|Welington Castillo|R|Strikeout|F|Sinker|20|1|2|1|13|91
+Tony Barnette|R|Welington Castillo|R|Strikeout|S|Curveball|21|1|2|1|13|78
+Tony Barnette|R|Daniel Palka|L|Strikeout|S|Curveball|22|0|0|2|14|79
+Tony Barnette|R|Daniel Palka|L|Strikeout|*B|Curveball|23|0|1|2|14|80
+Tony Barnette|R|Daniel Palka|L|Strikeout|S|Curveball|24|1|1|2|14|80
+Tony Barnette|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|25|1|2|2|11|91
+Tony Barnette|R|Matt Davidson|R|Strikeout|C|Cutter|0|0|0|0|14|88
+Tony Barnette|R|Matt Davidson|R|Strikeout|B|Curveball|1|0|1|0|14|79
+Tony Barnette|R|Matt Davidson|R|Strikeout|S|Curveball|2|1|1|0|14|79
+Tony Barnette|R|Matt Davidson|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|14|91
+Tony Barnette|R|Welington Castillo|R|Flyout|C|Four-Seam Fastball|4|0|0|1|8|91
+Tony Barnette|R|Welington Castillo|R|Flyout|X|Cutter|5|0|1|1|6|89
+Tony Barnette|R|Yoan Moncada|L|Pop Out|B|Four-Seam Fastball|6|0|0|2|11|90
+Tony Barnette|R|Yoan Moncada|L|Pop Out|F|Four-Seam Fastball|7|1|0|2|5|91
+Tony Barnette|R|Yoan Moncada|L|Pop Out|B|Four-Seam Fastball|8|1|1|2|11|91
+Tony Barnette|R|Yoan Moncada|L|Pop Out|B|Splitter|9|2|1|2|14|86
+Tony Barnette|R|Yoan Moncada|L|Pop Out|C|Cutter|10|3|1|2|8|89
+Tony Barnette|R|Yoan Moncada|L|Pop Out|X|Cutter|11|3|2|2|8|89
+Tony Barnette|R|Brett Gardner|L|Double|C|Four-Seam Fastball|0|0|0|1|7|90
+Tony Barnette|R|Brett Gardner|L|Double|B|Cutter|1|0|1|1|13|89
+Tony Barnette|R|Brett Gardner|L|Double|D|Cutter|2|1|1|1|4|90
+Tony Barnette|R|Aaron Judge|R|Home Run|E|Four-Seam Fastball|3|0|0|1|5|92
+Tony Barnette|R|Didi Gregorius|L|Flyout|X|Curveball|4|0|0|1|1|80
+Tony Barnette|R|Giancarlo Stanton|R|Strikeout|C|Curveball|5|0|0|2|11|81
+Tony Barnette|R|Giancarlo Stanton|R|Strikeout|F|Cutter|6|0|1|2|6|88
+Tony Barnette|R|Giancarlo Stanton|R|Strikeout|B|Curveball|7|0|2|2|13|81
+Tony Barnette|R|Giancarlo Stanton|R|Strikeout|C|Four-Seam Fastball|8|1|2|2|13|92
+Tony Barnette|R|Salvador Perez|R|Pop Out|F|Sinker|0|0|0|1|8|92
+Tony Barnette|R|Salvador Perez|R|Pop Out|X|Sinker|1|0|1|1|4|91
+Tony Barnette|R|Jorge Soler|R|Groundout|S|Curveball|2|0|0|2|6|80
+Tony Barnette|R|Jorge Soler|R|Groundout|S|Curveball|3|0|1|2|14|81
+Tony Barnette|R|Jorge Soler|R|Groundout|*B|Curveball|4|0|2|2|14|81
+Tony Barnette|R|Jorge Soler|R|Groundout|B|Cutter|5|1|2|2|14|90
+Tony Barnette|R|Jorge Soler|R|Groundout|X|Curveball|6|2|2|2|9|79
+Tony Barnette|R|Hunter Dozier|R|Single|F|Four-Seam Fastball|7|0|0|0|6|92
+Tony Barnette|R|Hunter Dozier|R|Single|F|Four-Seam Fastball|8|0|1|0|6|92
+Tony Barnette|R|Hunter Dozier|R|Single|F|Curveball|9|0|2|0|8|80
+Tony Barnette|R|Hunter Dozier|R|Single|B|Sinker|10|0|2|0|13|92
+Tony Barnette|R|Hunter Dozier|R|Single|F|Cutter|11|1|2|0|2|89
+Tony Barnette|R|Hunter Dozier|R|Single|F|Four-Seam Fastball|12|1|2|0|6|93
+Tony Barnette|R|Hunter Dozier|R|Single|B|Four-Seam Fastball|13|1|2|0|11|92
+Tony Barnette|R|Hunter Dozier|R|Single|D|Sinker|14|2|2|0|2|92
+Tony Barnette|R|Alcides Escobar|R|Bunt Pop Out|F|Four-Seam Fastball|15|0|0|0|9|93
+Tony Barnette|R|Alcides Escobar|R|Bunt Pop Out|X|Curveball|16|0|1|0|1|79
+Tony Barnette|R|Gordon Beckham|R|Single|E|Sinker|0|0|0|0|8|92
+Tony Barnette|R|Jean Segura|R|Single|S|Cutter|1|0|0|0|6|89
+Tony Barnette|R|Jean Segura|R|Single|B|Sinker|2|0|1|0|14|92
+Tony Barnette|R|Jean Segura|R|Single|D|Cutter|3|1|1|0|14|88
+Tony Barnette|R|Guillermo Heredia|R|Grounded Into DP|C|Four-Seam Fastball|4|0|0|0|2|93
+Tony Barnette|R|Guillermo Heredia|R|Grounded Into DP|X|Cutter|5|0|1|0|4|88
+Tony Barnette|R|Nick Martini|L|Flyout|C|Four-Seam Fastball|0|0|0|0|6|93
+Tony Barnette|R|Nick Martini|L|Flyout|B|Cutter|1|0|1|0|13|90
+Tony Barnette|R|Nick Martini|L|Flyout|B|Sinker|2|1|1|0|11|92
+Tony Barnette|R|Nick Martini|L|Flyout|C|Four-Seam Fastball|3|2|1|0|11|93
+Tony Barnette|R|Nick Martini|L|Flyout|B|Cutter|4|2|2|0|13|90
+Tony Barnette|R|Nick Martini|L|Flyout|X|Four-Seam Fastball|5|3|2|0|6|93
+Tony Barnette|R|Dustin Fowler|L|Single|B|Curveball|6|0|0|1|11|79
+Tony Barnette|R|Dustin Fowler|L|Single|D|Cutter|7|1|0|1|5|90
+Tony Barnette|R|Marcus Semien|R|Grounded Into DP|C|Cutter|8|0|0|1|14|90
+Tony Barnette|R|Marcus Semien|R|Grounded Into DP|X|Curveball|9|0|1|1|14|81
+Tony Barnette|R|Evan Gattis|R|Lineout|C|Curveball|0|0|0|0|9|80
+Tony Barnette|R|Evan Gattis|R|Lineout|X|Sinker|1|0|1|0|7|92
+Tony Barnette|R|Josh Reddick|L|Groundout|C|Cutter|2|0|0|1|4|89
+Tony Barnette|R|Josh Reddick|L|Groundout|X|Curveball|3|0|1|1|4|81
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|S|Curveball|4|0|0|2|9|82
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|B|Splitter|5|0|1|2|14|89
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|T|Splitter|6|1|1|2|11|88
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|B|Sinker|7|1|2|2|14|94
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|S|Curveball|8|2|2|2|13|83
+Tony Barnette|R|Brian McCann|L|Single|B|Curveball|9|0|0|0|13|80
+Tony Barnette|R|Brian McCann|L|Single|S|Sinker|10|1|0|0|11|91
+Tony Barnette|R|Brian McCann|L|Single|B|Four-Seam Fastball|11|1|1|0|14|93
+Tony Barnette|R|Brian McCann|L|Single|D|Four-Seam Fastball|12|2|1|0|1|93
+Tony Barnette|R|Tony Kemp|L|Forceout|B|Four-Seam Fastball|13|0|0|0|11|93
+Tony Barnette|R|Tony Kemp|L|Forceout|C|Four-Seam Fastball|14|1|0|0|11|92
+Tony Barnette|R|Tony Kemp|L|Forceout|X|Sinker|15|1|1|0|6|92
+Tony Barnette|R|George Springer|R|Strikeout|C|Four-Seam Fastball|16|0|0|1|9|94
+Tony Barnette|R|George Springer|R|Strikeout|C|Cutter|17|0|1|1|7|89
+Tony Barnette|R|George Springer|R|Strikeout|F|Cutter|18|0|2|1|14|90
+Tony Barnette|R|George Springer|R|Strikeout|F|Four-Seam Fastball|19|0|2|1|4|93
+Tony Barnette|R|George Springer|R|Strikeout|S|Four-Seam Fastball|20|0|2|1|4|93
+Tony Barnette|R|Alex Bregman|R|Strikeout|S|Four-Seam Fastball|21|0|0|2|12|93
+Tony Barnette|R|Alex Bregman|R|Strikeout|C|Four-Seam Fastball|22|0|1|2|7|93
+Tony Barnette|R|Alex Bregman|R|Strikeout|B|Cutter|23|0|2|2|14|89
+Tony Barnette|R|Alex Bregman|R|Strikeout|C|Cutter|24|1|2|2|13|91
+Tony Barnette|R|Matt Kemp|R|Strikeout|S|Cutter|0|0|0|0|14|90
+Tony Barnette|R|Matt Kemp|R|Strikeout|B|Curveball|1|0|1|0|14|82
+Tony Barnette|R|Matt Kemp|R|Strikeout|S|Cutter|2|1|1|0|14|89
+Tony Barnette|R|Matt Kemp|R|Strikeout|B|Cutter|3|1|2|0|14|89
+Tony Barnette|R|Matt Kemp|R|Strikeout|S|Sinker|4|2|2|0|11|92
+Tony Barnette|R|Cody Bellinger|L|Walk|B|Sinker|5|0|0|1|11|93
+Tony Barnette|R|Cody Bellinger|L|Walk|B|Cutter|6|1|0|1|12|90
+Tony Barnette|R|Cody Bellinger|L|Walk|B|Cutter|7|2|0|1|11|90
+Tony Barnette|R|Cody Bellinger|L|Walk|C|Four-Seam Fastball|8|3|0|1|2|91
+Tony Barnette|R|Cody Bellinger|L|Walk|C|Cutter|9|3|1|1|13|90
+Tony Barnette|R|Cody Bellinger|L|Walk|B|Cutter|10|3|2|1|14|89
+Tony Barnette|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|11|0|0|1|13|94
+Tony Barnette|R|Yasmani Grandal|L|Groundout|C|Cutter|12|1|0|1|1|88
+Tony Barnette|R|Yasmani Grandal|L|Groundout|F|Cutter|13|1|1|1|6|89
+Tony Barnette|R|Yasmani Grandal|L|Groundout|X|Curveball|14|1|2|1|7|78
+Tony Barnette|R|Yasiel Puig|R|Strikeout|C|Cutter|15|0|0|2|2|87
+Tony Barnette|R|Yasiel Puig|R|Strikeout|*B|Curveball|16|0|1|2|13|79
+Tony Barnette|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|17|1|1|2|13|92
+Tony Barnette|R|Yasiel Puig|R|Strikeout|B|Cutter|18|2|1|2|14|88
+Tony Barnette|R|Yasiel Puig|R|Strikeout|S|Four-Seam Fastball|19|3|1|2|9|92
+Tony Barnette|R|Yasiel Puig|R|Strikeout|F|Curveball|20|3|2|2|8|80
+Tony Barnette|R|Yasiel Puig|R|Strikeout|W|Curveball|21|3|2|2|13|80
+Tony Barnette|R|Joc Pederson|L|Double|C|Four-Seam Fastball|22|0|0|0|1|91
+Tony Barnette|R|Joc Pederson|L|Double|C|Curveball|23|0|1|0|4|79
+Tony Barnette|R|Joc Pederson|L|Double|B|Cutter|24|0|2|0|13|88
+Tony Barnette|R|Joc Pederson|L|Double|F|Four-Seam Fastball|25|1|2|0|11|92
+Tony Barnette|R|Joc Pederson|L|Double|D|Four-Seam Fastball|26|1|2|0|11|92
+Tony Barnette|R|Breyvic Valera|L|Lineout|B|Four-Seam Fastball|27|0|0|0|13|92
+Tony Barnette|R|Breyvic Valera|L|Lineout|C|Cutter|28|1|0|0|9|89
+Tony Barnette|R|Breyvic Valera|L|Lineout|B|Curveball|29|1|1|0|13|77
+Tony Barnette|R|Breyvic Valera|L|Lineout|X|Four-Seam Fastball|30|2|1|0|1|92
+Tony Barnette|R|Chris Taylor|R|Pop Out|X|Curveball|31|0|0|1|5|79
+Tony Barnette|R|Max Muncy|L|Strikeout|C|Curveball|32|0|0|2|8|79
+Tony Barnette|R|Max Muncy|L|Strikeout|W|Curveball|33|0|1|2|14|79
+Tony Barnette|R|Max Muncy|L|Strikeout|C|Cutter|34|0|2|2|13|88
+Tony Barnette|R|Nolan Arenado|R|Double|T|Curveball|0|0|0|0|1|82
+Tony Barnette|R|Nolan Arenado|R|Double|C|Cutter|1|0|1|0|9|90
+Tony Barnette|R|Nolan Arenado|R|Double|F|Four-Seam Fastball|2|0|2|0|11|93
+Tony Barnette|R|Nolan Arenado|R|Double|B|Four-Seam Fastball|3|0|2|0|11|93
+Tony Barnette|R|Nolan Arenado|R|Double|D|Curveball|4|1|2|0|8|83
+Tony Barnette|R|Trevor Story|R|Double|F|Four-Seam Fastball|5|0|0|0|11|93
+Tony Barnette|R|Trevor Story|R|Double|B|Sinker|6|0|1|0|11|93
+Tony Barnette|R|Trevor Story|R|Double|F|Cutter|7|1|1|0|1|90
+Tony Barnette|R|Trevor Story|R|Double|B|Four-Seam Fastball|8|1|2|0|11|93
+Tony Barnette|R|Trevor Story|R|Double|F|Four-Seam Fastball|9|2|2|0|2|94
+Tony Barnette|R|Trevor Story|R|Double|F|Four-Seam Fastball|10|2|2|0|11|93
+Tony Barnette|R|Trevor Story|R|Double|E|Cutter|11|2|2|0|8|90
+Tony Barnette|R|Ian Desmond|R|Strikeout|C|Curveball|12|0|0|0|4|82
+Tony Barnette|R|Ian Desmond|R|Strikeout|B|Sinker|13|0|1|0|13|93
+Tony Barnette|R|Ian Desmond|R|Strikeout|F|Curveball|14|1|1|0|5|81
+Tony Barnette|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|15|1|2|0|11|93
+Tony Barnette|R|Tom Murphy|R|Lineout|C|Cutter|16|0|0|1|9|88
+Tony Barnette|R|Tom Murphy|R|Lineout|X|Cutter|17|0|1|1|1|90
+Tony Barnette|R|Gerardo Parra|L|Groundout|B|Sinker|18|0|0|2|13|94
+Tony Barnette|R|Gerardo Parra|L|Groundout|S|Sinker|19|1|0|2|11|94
+Tony Barnette|R|Gerardo Parra|L|Groundout|B|Sinker|20|1|1|2|11|93
+Tony Barnette|R|Gerardo Parra|L|Groundout|X|Curveball|21|2|1|2|7|80
+Tony Barnette|R|Chris Iannetta|R|Strikeout|B|Cutter|22|0|0|0|12|89
+Tony Barnette|R|Chris Iannetta|R|Strikeout|C|Cutter|23|1|0|0|7|88
+Tony Barnette|R|Chris Iannetta|R|Strikeout|F|Four-Seam Fastball|24|1|1|0|1|92
+Tony Barnette|R|Chris Iannetta|R|Strikeout|B|Four-Seam Fastball|25|1|2|0|13|93
+Tony Barnette|R|Chris Iannetta|R|Strikeout|S|Four-Seam Fastball|26|2|2|0|11|92
+Tony Barnette|R|Noel Cuevas|R|Groundout|F|Curveball|27|0|0|1|4|81
+Tony Barnette|R|Noel Cuevas|R|Groundout|X|Sinker|28|0|1|1|11|92
+Tony Barnette|R|DJ LeMahieu|R|Double|C|Cutter|29|0|0|2|14|89
+Tony Barnette|R|DJ LeMahieu|R|Double|F|Four-Seam Fastball|30|0|1|2|2|94
+Tony Barnette|R|DJ LeMahieu|R|Double|B|Four-Seam Fastball|31|0|2|2|12|92
+Tony Barnette|R|DJ LeMahieu|R|Double|D|Curveball|32|1|2|2|13|81
+Tony Barnette|R|Charlie Blackmon|L|Groundout|C|Sinker|33|0|0|2|8|93
+Tony Barnette|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|34|0|1|2|11|93
+Tony Barnette|R|Charlie Blackmon|L|Groundout|F|Cutter|35|1|1|2|7|89
+Tony Barnette|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|36|1|2|2|7|92
+Tony Barnette|R|Charlie Blackmon|L|Groundout|X|Cutter|37|1|2|2|13|92
+Tony Barnette|R|Salvador Perez|R|Flyout|C|Four-Seam Fastball|0|0|0|0|14|93
+Tony Barnette|R|Salvador Perez|R|Flyout|X|Sinker|1|0|1|0|8|92
+Tony Barnette|R|Hunter Dozier|R|Flyout|C|Four-Seam Fastball|2|0|0|1|7|94
+Tony Barnette|R|Hunter Dozier|R|Flyout|X|Cutter|3|0|1|1|9|90
+Tony Barnette|R|Alcides Escobar|R|Strikeout|S|Curveball|4|0|0|2|14|82
+Tony Barnette|R|Alcides Escobar|R|Strikeout|C|Cutter|5|0|1|2|7|88
+Tony Barnette|R|Alcides Escobar|R|Strikeout|F|Splitter|6|0|2|2|8|86
+Tony Barnette|R|Alcides Escobar|R|Strikeout|B|Splitter|7|0|2|2|13|88
+Tony Barnette|R|Alcides Escobar|R|Strikeout|B|Sinker|8|1|2|2|13|92
+Tony Barnette|R|Alcides Escobar|R|Strikeout|C|Sinker|9|2|2|2|13|93
+Tony Barnette|R|Taylor Motter|R|Groundout|B|Four-Seam Fastball|0|0|0|1|14|94
+Tony Barnette|R|Taylor Motter|R|Groundout|S|Cutter|1|1|0|1|8|89
+Tony Barnette|R|Taylor Motter|R|Groundout|X|Curveball|2|1|1|1|14|80
+Tony Barnette|R|Max Kepler|L|Walk|C|Sinker|3|0|0|2|4|92
+Tony Barnette|R|Max Kepler|L|Walk|B|Splitter|4|0|1|2|13|88
+Tony Barnette|R|Max Kepler|L|Walk|S|Splitter|5|1|1|2|14|88
+Tony Barnette|R|Max Kepler|L|Walk|B|Splitter|6|1|2|2|11|88
+Tony Barnette|R|Max Kepler|L|Walk|B|Four-Seam Fastball|7|2|2|2|11|94
+Tony Barnette|R|Max Kepler|L|Walk|B|Cutter|8|3|2|2|11|90
+Tony Barnette|R|Mitch Garver|R|Strikeout|C|Curveball|9|0|0|2|14|81
+Tony Barnette|R|Mitch Garver|R|Strikeout|B|Cutter|10|0|1|2|14|91
+Tony Barnette|R|Mitch Garver|R|Strikeout|C|Curveball|11|1|1|2|9|80
+Tony Barnette|R|Mitch Garver|R|Strikeout|B|Curveball|12|1|2|2|14|81
+Tony Barnette|R|Mitch Garver|R|Strikeout|F|Four-Seam Fastball|13|2|2|2|6|95
+Tony Barnette|R|Mitch Garver|R|Strikeout|B|Splitter|14|2|2|2|11|88
+Tony Barnette|R|Mitch Garver|R|Strikeout|C|Four-Seam Fastball|15|3|2|2|8|94
+Tony Barnette|R|A.J. Ellis|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|92
+Tony Barnette|R|A.J. Ellis|R|Groundout|X|Sinker|1|0|1|0|1|92
+Tony Barnette|R|Freddy Galvis|L|Pop Out|C|Sinker|2|0|0|1|1|93
+Tony Barnette|R|Freddy Galvis|L|Pop Out|F|Splitter|3|0|1|1|11|86
+Tony Barnette|R|Freddy Galvis|L|Pop Out|B|Splitter|4|0|2|1|11|87
+Tony Barnette|R|Freddy Galvis|L|Pop Out|X|Cutter|5|1|2|1|3|90
+Tony Barnette|R|Austin Hedges|R|Strikeout|S|Four-Seam Fastball|6|0|0|2|3|93
+Tony Barnette|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|7|0|1|2|6|94
+Tony Barnette|R|Austin Hedges|R|Strikeout|B|Curveball|8|0|2|2|13|80
+Tony Barnette|R|Austin Hedges|R|Strikeout|B|Curveball|9|1|2|2|14|79
+Tony Barnette|R|Austin Hedges|R|Strikeout|S|Cutter|10|2|2|2|14|88
+Tony Barnette|R|Yoan Moncada|L|Groundout|C|Curveball|0|0|0|0|14|80
+Tony Barnette|R|Yoan Moncada|L|Groundout|E|Splitter|1|0|1|0|4|87
+Tony Barnette|R|Avisail Garcia|R|Single|S|Sinker|2|0|0|1|13|93
+Tony Barnette|R|Avisail Garcia|R|Single|B|Sinker|3|0|1|1|13|94
+Tony Barnette|R|Avisail Garcia|R|Single|E|Cutter|4|1|1|1|14|90
+Tony Barnette|R|Jose Abreu|R|Groundout|B|Curveball|5|0|0|1|13|80
+Tony Barnette|R|Jose Abreu|R|Groundout|F|Sinker|6|1|0|1|13|93
+Tony Barnette|R|Jose Abreu|R|Groundout|F|Sinker|7|1|1|1|11|92
+Tony Barnette|R|Jose Abreu|R|Groundout|X|Cutter|8|1|2|1|11|89
+Tony Barnette|R|Yuli Gurriel|R|Flyout|X|Four-Seam Fastball|0|0|0|0|12|93
+Tony Barnette|R|Evan Gattis|R|Flyout|C|Four-Seam Fastball|1|0|0|1|5|93
+Tony Barnette|R|Evan Gattis|R|Flyout|B|Curveball|2|0|1|1|14|81
+Tony Barnette|R|Evan Gattis|R|Flyout|X|Curveball|3|1|1|1|12|80
+Tony Barnette|R|Josh Reddick|L|Flyout|B|Four-Seam Fastball|4|0|0|2|11|92
+Tony Barnette|R|Josh Reddick|L|Flyout|X|Sinker|5|1|0|2|7|92
+Tony Barnette|R|Tim Federowicz|R|Strikeout|B|Cutter|6|0|0|0|12|88
+Tony Barnette|R|Tim Federowicz|R|Strikeout|C|Four-Seam Fastball|7|1|0|0|4|92
+Tony Barnette|R|Tim Federowicz|R|Strikeout|B|Four-Seam Fastball|8|1|1|0|11|92
+Tony Barnette|R|Tim Federowicz|R|Strikeout|S|Cutter|9|2|1|0|3|88
+Tony Barnette|R|Tim Federowicz|R|Strikeout|S|Curveball|10|2|2|0|14|80
+Alex Claudio|L|Marwin Gonzalez|R|Strikeout|C|Cutter|11|0|0|1|4|89
+Alex Claudio|L|Marwin Gonzalez|R|Strikeout|B|Splitter|12|0|1|1|13|87
+Alex Claudio|L|Marwin Gonzalez|R|Strikeout|B|Cutter|13|1|1|1|11|87
+Tony Barnette|R|Dansby Swanson|R|Home Run|C|Four-Seam Fastball|0|0|0|0|9|91
+Tony Barnette|R|Dansby Swanson|R|Home Run|B|Cutter|1|0|1|0|14|88
+Tony Barnette|R|Dansby Swanson|R|Home Run|B|Cutter|2|1|1|0|14|88
+Tony Barnette|R|Dansby Swanson|R|Home Run|B|Cutter|3|2|1|0|12|90
+Tony Barnette|R|Dansby Swanson|R|Home Run|C|Sinker|4|3|1|0|14|91
+Tony Barnette|R|Dansby Swanson|R|Home Run|E|Sinker|5|3|2|0|6|91
+Tony Barnette|R|Freddie Freeman|L|Single|B|Sinker|6|0|0|0|11|91
+Tony Barnette|R|Freddie Freeman|L|Single|F|Sinker|7|1|0|0|13|91
+Tony Barnette|R|Freddie Freeman|L|Single|C|Cutter|8|1|1|0|7|88
+Tony Barnette|R|Freddie Freeman|L|Single|D|Splitter|9|1|2|0|4|86
+Tony Barnette|R|Josh Donaldson|R|Flyout|C|Sinker|10|0|0|0|13|91
+Tony Barnette|R|Josh Donaldson|R|Flyout|B|Cutter|11|0|1|0|13|88
+Tony Barnette|R|Josh Donaldson|R|Flyout|B|Four-Seam Fastball|12|1|1|0|14|91
+Tony Barnette|R|Josh Donaldson|R|Flyout|B|Cutter|13|2|1|0|11|87
+Tony Barnette|R|Josh Donaldson|R|Flyout|X|Sinker|14|3|1|0|7|91
+Tony Barnette|R|Austin Riley|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|91
+Tony Barnette|R|Austin Riley|R|Flyout|B|Cutter|1|1|0|0|14|90
+Tony Barnette|R|Austin Riley|R|Flyout|B|Cutter|2|2|0|0|14|90
+Tony Barnette|R|Austin Riley|R|Flyout|C|Four-Seam Fastball|3|3|0|0|8|89
+Tony Barnette|R|Austin Riley|R|Flyout|F|Cutter|4|3|1|0|6|89
+Tony Barnette|R|Austin Riley|R|Flyout|X|Four-Seam Fastball|5|3|2|0|8|90
+Tony Barnette|R|Ronald Acuna Jr.|R|Grounded Into DP|B|Curveball|6|0|0|1|11|73
+Tony Barnette|R|Ronald Acuna Jr.|R|Grounded Into DP|C|Four-Seam Fastball|7|1|0|1|14|91
+Tony Barnette|R|Ronald Acuna Jr.|R|Grounded Into DP|B|Four-Seam Fastball|8|1|1|1|14|91
+Tony Barnette|R|Ronald Acuna Jr.|R|Grounded Into DP|X|Cutter|9|2|1|1|8|87
+Tony Barnette|R|Seth Smith|L|Single|S|Sinker|0|0|0|0|4|91
+Tony Barnette|R|Seth Smith|L|Single|B|Splitter|1|0|1|0|14|87
+Tony Barnette|R|Seth Smith|L|Single|D|Sinker|2|1|1|0|11|91
+Tony Barnette|R|Chris Iannetta|R|Lineout|B|Cutter|3|0|0|0|11|87
+Tony Barnette|R|Chris Iannetta|R|Lineout|F|Cutter|4|1|0|0|6|87
+Tony Barnette|R|Chris Iannetta|R|Lineout|S|Slider|5|1|1|0|2|81
+Tony Barnette|R|Chris Iannetta|R|Lineout|B|Cutter|6|1|2|0|11|88
+Tony Barnette|R|Chris Iannetta|R|Lineout|X|Slider|7|2|2|0|14|80
+Tony Barnette|R|Luis Sardinas|L|Strikeout|C|Sinker|8|0|0|1|13|90
+Tony Barnette|R|Luis Sardinas|L|Strikeout|F|Splitter|9|0|1|1|7|86
+Tony Barnette|R|Luis Sardinas|L|Strikeout|S|Cutter|10|0|2|1|1|86
+Tony Barnette|R|Leonys Martin|L|Double|B|Splitter|11|0|0|2|11|85
+Tony Barnette|R|Leonys Martin|L|Double|C|Splitter|12|1|0|2|8|89
+Tony Barnette|R|Leonys Martin|L|Double|E|Slider|13|1|1|2|4|80
+Tony Barnette|R|Norichika Aoki|L|Single|C|Cutter|14|0|0|2|9|88
+Tony Barnette|R|Norichika Aoki|L|Single|E|Splitter|15|0|1|2|13|85
+Tony Barnette|R|Nelson Cruz|R|Lineout|B|Cutter|0|0|0|1|14|85
+Tony Barnette|R|Nelson Cruz|R|Lineout|X|Slider|1|1|0|1|8|81
+Tony Barnette|R|Adam Lind|L|Groundout|B|Sinker|2|0|0|2|11|93
+Tony Barnette|R|Adam Lind|L|Groundout|B|Splitter|3|1|0|2|14|88
+Tony Barnette|R|Adam Lind|L|Groundout|C|Sinker|4|2|0|2|3|91
+Tony Barnette|R|Adam Lind|L|Groundout|F|Sinker|5|2|1|2|13|92
+Tony Barnette|R|Adam Lind|L|Groundout|F|Splitter|6|2|2|2|8|85
+Tony Barnette|R|Adam Lind|L|Groundout|F|Slider|7|2|2|2|1|81
+Tony Barnette|R|Adam Lind|L|Groundout|X|Splitter|8|2|2|2|13|87
+Tony Barnette|R|Seth Smith|L|Single|F|Sinker|9|0|0|0|11|92
+Tony Barnette|R|Seth Smith|L|Single|B|Cutter|10|0|1|0|14|88
+Tony Barnette|R|Seth Smith|L|Single|B|Splitter|11|1|1|0|14|86
+Tony Barnette|R|Seth Smith|L|Single|C|Cutter|12|2|1|0|7|88
+Tony Barnette|R|Seth Smith|L|Single|D|Four-Seam Fastball|13|2|2|0|4|92
+Tony Barnette|R|Luis Sardinas|L|Lineout|X|Sinker|14|0|0|0|4|93
+Tony Barnette|R|Carlos Perez|R|Lineout|B|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Carlos Perez|R|Lineout|C|Slider|1|1|0|2|5|82
+Tony Barnette|R|Carlos Perez|R|Lineout|B|Four-Seam Fastball|2|1|1|2|14|93
+Tony Barnette|R|Carlos Perez|R|Lineout|B|Four-Seam Fastball|3|2|1|2|14|94
+Tony Barnette|R|Carlos Perez|R|Lineout|C|Four-Seam Fastball|4|3|1|2|13|94
+Tony Barnette|R|Carlos Perez|R|Lineout|X|Four-Seam Fastball|5|3|2|2|6|93
+Tony Barnette|R|Mike Trout|R|Sac Fly|B|Sinker|0|0|0|1|13|92
+Tony Barnette|R|Mike Trout|R|Sac Fly|B|Cutter|1|1|0|1|12|90
+Tony Barnette|R|Mike Trout|R|Sac Fly|E|Sinker|2|2|0|1|8|93
+Tony Barnette|R|Albert Pujols|R|Groundout|C|Cutter|3|0|0|2|12|89
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Cutter|4|0|1|2|12|90
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Sinker|5|1|1|2|14|92
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Splitter|6|2|1|2|14|87
+Tony Barnette|R|Albert Pujols|R|Groundout|F|Cutter|7|3|1|2|6|88
+Tony Barnette|R|Albert Pujols|R|Groundout|X|Slider|8|3|2|2|14|84
+Tony Barnette|R|Nelson Cruz|R|Strikeout|F|Cutter|0|0|0|2|8|88
+Tony Barnette|R|Nelson Cruz|R|Strikeout|F|Cutter|1|0|1|2|12|88
+Tony Barnette|R|Nelson Cruz|R|Strikeout|F|Sinker|2|0|2|2|2|92
+Tony Barnette|R|Nelson Cruz|R|Strikeout|F|Sinker|3|0|2|2|13|91
+Tony Barnette|R|Nelson Cruz|R|Strikeout|S|Cutter|4|0|2|2|6|89
+Tony Barnette|R|Kyle Seager|L|Flyout|F|Four-Seam Fastball|5|0|0|0|2|92
+Tony Barnette|R|Kyle Seager|L|Flyout|X|Cutter|6|0|1|0|14|88
+Tony Barnette|R|Adam Lind|L|Flyout|B|Sinker|7|0|0|1|14|92
+Tony Barnette|R|Adam Lind|L|Flyout|X|Four-Seam Fastball|8|1|0|1|2|92
+Tony Barnette|R|Chris Iannetta|R|Groundout|X|Splitter|9|0|0|2|4|90
+Tony Barnette|R|Leonys Martin|L|Strikeout|C|Four-Seam Fastball|10|0|0|0|1|92
+Tony Barnette|R|Leonys Martin|L|Strikeout|F|Splitter|11|0|1|0|4|86
+Tony Barnette|R|Leonys Martin|L|Strikeout|B|Slider|12|0|2|0|14|83
+Tony Barnette|R|Leonys Martin|L|Strikeout|F|Sinker|13|1|2|0|13|92
+Tony Barnette|R|Leonys Martin|L|Strikeout|S|Cutter|14|1|2|0|14|88
+Tony Barnette|R|Ketel Marte|L|Single|C|Sinker|15|0|0|1|4|92
+Tony Barnette|R|Ketel Marte|L|Single|B|Cutter|16|0|1|1|13|86
+Tony Barnette|R|Ketel Marte|L|Single|B|Four-Seam Fastball|17|1|1|1|11|91
+Tony Barnette|R|Ketel Marte|L|Single|C|Four-Seam Fastball|18|2|1|1|7|92
+Tony Barnette|R|Ketel Marte|L|Single|D|Four-Seam Fastball|19|2|2|1|1|93
+Tony Barnette|R|Norichika Aoki|L|Flyout|C|Cutter|20|0|0|1|9|88
+Tony Barnette|R|Norichika Aoki|L|Flyout|B|Sinker|21|0|1|1|13|92
+Tony Barnette|R|Norichika Aoki|L|Flyout|X|Sinker|22|1|1|1|1|91
+Tony Barnette|R|Franklin Gutierrez|R|Forceout|C|Cutter|23|0|0|2|2|88
+Tony Barnette|R|Franklin Gutierrez|R|Forceout|X|Cutter|24|0|1|2|12|87
+Tony Barnette|R|Chris Davis|L|Hit By Pitch|H|Cutter|0|0|0|0|14|87
+Tony Barnette|R|Mark Trumbo|R|Grounded Into DP|B|Curveball|1|0|0|0|11|73
+Tony Barnette|R|Mark Trumbo|R|Grounded Into DP|C|Four-Seam Fastball|2|1|0|0|6|92
+Tony Barnette|R|Mark Trumbo|R|Grounded Into DP|X|Sinker|3|1|1|0|2|90
+Tony Barnette|R|Matt Wieters|L|Single|D|Sinker|4|0|0|2|13|92
+Tony Barnette|R|Jonathan Schoop|R|Flyout|C|Curveball|5|0|0|2|9|77
+Tony Barnette|R|Jonathan Schoop|R|Flyout|*B|Curveball|6|0|1|2|14|78
+Tony Barnette|R|Jonathan Schoop|R|Flyout|X|Cutter|7|1|1|2|3|86
+Tony Barnette|R|J.J. Hardy|R|Single|C|Four-Seam Fastball|8|0|0|0|3|93
+Tony Barnette|R|J.J. Hardy|R|Single|T|Slider|9|0|1|0|14|79
+Tony Barnette|R|J.J. Hardy|R|Single|B|Curveball|10|0|2|0|14|79
+Tony Barnette|R|J.J. Hardy|R|Single|B|Curveball|11|1|2|0|14|77
+Tony Barnette|R|J.J. Hardy|R|Single|D|Four-Seam Fastball|12|2|2|0|8|93
+Tony Barnette|R|Nolan Reimold|R|Strikeout|B|Cutter|13|0|0|0|12|88
+Tony Barnette|R|Nolan Reimold|R|Strikeout|C|Sinker|14|1|0|0|11|91
+Tony Barnette|R|Nolan Reimold|R|Strikeout|C|Cutter|15|1|1|0|8|85
+Tony Barnette|R|Nolan Reimold|R|Strikeout|S|Curveball|16|1|2|0|9|76
+Tony Barnette|R|Paul Janish|R|Pop Out|*B|Cutter|17|0|0|1|14|86
+Tony Barnette|R|Paul Janish|R|Pop Out|B|Four-Seam Fastball|18|1|0|1|14|92
+Tony Barnette|R|Paul Janish|R|Pop Out|F|Four-Seam Fastball|19|2|0|1|9|92
+Tony Barnette|R|Paul Janish|R|Pop Out|X|Cutter|20|2|1|1|5|87
+Tony Barnette|R|Adam Jones|R|Strikeout|F|Cutter|21|0|0|2|5|86
+Tony Barnette|R|Adam Jones|R|Strikeout|S|Sinker|22|0|1|2|11|91
+Tony Barnette|R|Adam Jones|R|Strikeout|B|Splitter|23|0|2|2|13|90
+Tony Barnette|R|Adam Jones|R|Strikeout|F|Sinker|24|1|2|2|13|92
+Tony Barnette|R|Adam Jones|R|Strikeout|W|Curveball|25|1|2|2|13|77
+Tony Barnette|R|Tyler White|R|Double|B|Cutter|0|0|0|0|12|88
+Tony Barnette|R|Tyler White|R|Double|F|Four-Seam Fastball|1|1|0|0|1|91
+Tony Barnette|R|Tyler White|R|Double|F|Four-Seam Fastball|2|1|1|0|4|92
+Tony Barnette|R|Tyler White|R|Double|B|Cutter|3|1|2|0|12|89
+Tony Barnette|R|Tyler White|R|Double|F|Slider|4|2|2|0|2|81
+Tony Barnette|R|Tyler White|R|Double|B|Cutter|5|2|2|0|14|88
+Tony Barnette|R|Tyler White|R|Double|F|Cutter|6|3|2|0|14|87
+Tony Barnette|R|Tyler White|R|Double|F|Cutter|7|3|2|0|11|86
+Tony Barnette|R|Tyler White|R|Double|D|Four-Seam Fastball|8|3|2|0|11|93
+Tony Barnette|R|Evan Gattis|R|Flyout|C|Cutter|9|0|0|0|11|87
+Tony Barnette|R|Evan Gattis|R|Flyout|F|Slider|10|0|1|0|9|79
+Tony Barnette|R|Evan Gattis|R|Flyout|X|Slider|11|0|2|0|4|85
+Tony Barnette|R|Carlos Gomez|R|Lineout|*B|Slider|12|0|0|1|14|81
+Tony Barnette|R|Carlos Gomez|R|Lineout|C|Four-Seam Fastball|13|1|0|1|14|92
+Tony Barnette|R|Carlos Gomez|R|Lineout|X|Cutter|14|1|1|1|7|87
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|C|Sinker|15|0|0|2|13|92
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|B|Cutter|16|0|1|2|13|87
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|X|Splitter|17|1|1|2|13|88
+Tony Barnette|R|Carlos Gomez|R|Groundout|X|Cutter|0|0|0|2|5|87
+Tony Barnette|R|Luis Valbuena|L|Groundout|B|Four-Seam Fastball|1|0|0|0|13|93
+Tony Barnette|R|Luis Valbuena|L|Groundout|C|Sinker|2|1|0|0|4|93
+Tony Barnette|R|Luis Valbuena|L|Groundout|B|Splitter|3|1|1|0|14|89
+Tony Barnette|R|Luis Valbuena|L|Groundout|B|Four-Seam Fastball|4|2|1|0|11|93
+Tony Barnette|R|Luis Valbuena|L|Groundout|X|Four-Seam Fastball|5|3|1|0|9|93
+Tony Barnette|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|6|0|0|1|5|92
+Tony Barnette|R|Jason Castro|L|Strikeout|S|Cutter|7|0|1|1|2|89
+Tony Barnette|R|Jason Castro|L|Strikeout|W|Splitter|8|0|2|1|14|89
+Tony Barnette|R|Jose Altuve|R|Strikeout|F|Four-Seam Fastball|9|0|0|2|3|92
+Tony Barnette|R|Jose Altuve|R|Strikeout|C|Curveball|10|0|1|2|6|77
+Tony Barnette|R|Jose Altuve|R|Strikeout|B|Sinker|11|0|2|2|12|92
+Tony Barnette|R|Jose Altuve|R|Strikeout|F|Splitter|12|1|2|2|9|88
+Tony Barnette|R|Jose Altuve|R|Strikeout|W|Slider|13|1|2|2|14|85
+Tony Barnette|R|George Springer|R|Groundout|S|Four-Seam Fastball|14|0|0|0|8|94
+Tony Barnette|R|George Springer|R|Groundout|B|Slider|15|0|1|0|14|84
+Tony Barnette|R|George Springer|R|Groundout|F|Cutter|16|1|1|0|9|87
+Tony Barnette|R|George Springer|R|Groundout|F|Four-Seam Fastball|17|1|2|0|14|93
+Tony Barnette|R|George Springer|R|Groundout|X|Splitter|18|1|2|0|7|88
+Tony Barnette|R|Carlos Correa|R|Single|F|Four-Seam Fastball|19|0|0|1|5|93
+Tony Barnette|R|Carlos Correa|R|Single|D|Sinker|20|0|1|1|11|93
+Tony Barnette|R|Colby Rasmus|L|Home Run|F|Four-Seam Fastball|21|0|0|1|7|92
+Tony Barnette|R|Colby Rasmus|L|Home Run|S|Four-Seam Fastball|22|0|1|1|5|92
+Tony Barnette|R|Colby Rasmus|L|Home Run|F|Four-Seam Fastball|23|0|2|1|1|93
+Tony Barnette|R|Colby Rasmus|L|Home Run|E|Slider|24|0|2|1|4|82
+Tony Barnette|R|Adam Eaton|L|Groundout|B|Sinker|0|0|0|0|14|92
+Tony Barnette|R|Adam Eaton|L|Groundout|C|Sinker|1|1|0|0|7|93
+Tony Barnette|R|Adam Eaton|L|Groundout|B|Cutter|2|1|1|0|14|89
+Tony Barnette|R|Adam Eaton|L|Groundout|F|Sinker|3|2|1|0|8|92
+Tony Barnette|R|Adam Eaton|L|Groundout|B|Sinker|4|2|2|0|12|93
+Tony Barnette|R|Adam Eaton|L|Groundout|F|Sinker|5|3|2|0|1|92
+Tony Barnette|R|Adam Eaton|L|Groundout|F|Sinker|6|3|2|0|11|92
+Tony Barnette|R|Adam Eaton|L|Groundout|X|Sinker|7|3|2|0|12|93
+Tony Barnette|R|Jimmy Rollins|L|Lineout|C|Sinker|8|0|0|1|2|94
+Tony Barnette|R|Jimmy Rollins|L|Lineout|B|Cutter|9|0|1|1|12|89
+Tony Barnette|R|Jimmy Rollins|L|Lineout|S|Splitter|10|1|1|1|14|87
+Tony Barnette|R|Jimmy Rollins|L|Lineout|B|Splitter|11|1|2|1|14|87
+Tony Barnette|R|Jimmy Rollins|L|Lineout|B|Sinker|12|2|2|1|12|93
+Tony Barnette|R|Jimmy Rollins|L|Lineout|X|Sinker|13|3|2|1|1|92
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Sinker|14|0|0|2|4|93
+Tony Barnette|R|Jose Abreu|R|Strikeout|F|Slider|15|0|1|2|7|82
+Tony Barnette|R|Jose Abreu|R|Strikeout|S|Sinker|16|0|2|2|12|93
+Tony Barnette|R|Jacoby Ellsbury|L|Flyout|C|Four-Seam Fastball|0|0|0|0|5|93
+Tony Barnette|R|Jacoby Ellsbury|L|Flyout|B|Cutter|1|0|1|0|14|88
+Tony Barnette|R|Jacoby Ellsbury|L|Flyout|X|Sinker|2|1|1|0|2|91
+Tony Barnette|R|Brett Gardner|L|Single|B|Sinker|3|0|0|1|11|92
+Tony Barnette|R|Brett Gardner|L|Single|C|Four-Seam Fastball|4|1|0|1|13|92
+Tony Barnette|R|Brett Gardner|L|Single|D|Cutter|5|1|1|1|6|89
+Tony Barnette|R|Carlos Beltran|L|Strikeout|T|Cutter|6|0|0|1|14|88
+Tony Barnette|R|Carlos Beltran|L|Strikeout|F|Sinker|7|0|1|1|11|92
+Tony Barnette|R|Carlos Beltran|L|Strikeout|B|Cutter|8|0|2|1|13|87
+Tony Barnette|R|Carlos Beltran|L|Strikeout|T|Splitter|9|1|2|1|13|84
+Tony Barnette|R|Mark Teixeira|L|Single|D|Four-Seam Fastball|10|0|0|2|4|92
+Tony Barnette|R|Brian McCann|L|Groundout|C|Cutter|11|0|0|2|9|89
+Tony Barnette|R|Brian McCann|L|Groundout|*B|Sinker|12|0|1|2|13|92
+Tony Barnette|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|13|1|1|2|3|92
+Tony Barnette|R|Brian McCann|L|Groundout|X|Splitter|14|1|2|2|13|88
+Tony Barnette|R|Rafael Ortega|L|Flyout|B|Cutter|0|0|0|0|14|89
+Tony Barnette|R|Rafael Ortega|L|Flyout|S|Four-Seam Fastball|1|1|0|0|11|91
+Tony Barnette|R|Rafael Ortega|L|Flyout|X|Cutter|2|1|1|0|9|88
+Tony Barnette|R|Yunel Escobar|R|Single|F|Sinker|3|0|0|1|8|92
+Tony Barnette|R|Yunel Escobar|R|Single|S|Sinker|4|0|1|1|13|91
+Tony Barnette|R|Yunel Escobar|R|Single|D|Cutter|5|0|2|1|5|88
+Tony Barnette|R|Johnny Giavotella|R|Grounded Into DP|B|Cutter|6|0|0|1|12|89
+Tony Barnette|R|Johnny Giavotella|R|Grounded Into DP|F|Four-Seam Fastball|7|1|0|1|12|92
+Tony Barnette|R|Johnny Giavotella|R|Grounded Into DP|B|Sinker|8|1|1|1|13|90
+Tony Barnette|R|Johnny Giavotella|R|Grounded Into DP|C|Cutter|9|2|1|1|8|87
+Tony Barnette|R|Johnny Giavotella|R|Grounded Into DP|X|Sinker|10|2|2|1|7|91
+Tony Barnette|R|Justin Smoak|L|Single|C|Sinker|0|0|0|0|1|91
+Tony Barnette|R|Justin Smoak|L|Single|B|Cutter|1|0|1|0|14|87
+Tony Barnette|R|Justin Smoak|L|Single|S|Four-Seam Fastball|2|1|1|0|12|93
+Tony Barnette|R|Justin Smoak|L|Single|B|Cutter|3|1|2|0|14|88
+Tony Barnette|R|Justin Smoak|L|Single|B|Splitter|4|2|2|0|13|87
+Tony Barnette|R|Justin Smoak|L|Single|F|Cutter|5|3|2|0|3|87
+Tony Barnette|R|Justin Smoak|L|Single|D|Sinker|6|3|2|0|7|93
+Tony Barnette|R|Ryan Goins|L|Grounded Into DP|X|Sinker|7|0|0|0|14|94
+Tony Barnette|R|Kevin Pillar|R|Single|C|Cutter|8|0|0|2|9|89
+Tony Barnette|R|Kevin Pillar|R|Single|D|Cutter|9|0|1|2|9|89
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|F|Sinker|10|0|0|2|13|91
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|S|Splitter|11|0|1|2|13|87
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|B|Four-Seam Fastball|12|0|2|2|11|92
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|B|Splitter|13|1|2|2|14|88
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|B|Cutter|14|2|2|2|13|89
+Tony Barnette|R|Ezequiel Carrera|L|Strikeout|S|Splitter|15|3|2|2|14|86
+Tony Barnette|R|Josh Donaldson|R|Lineout|B|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Josh Donaldson|R|Lineout|C|Four-Seam Fastball|1|1|0|2|14|93
+Tony Barnette|R|Josh Donaldson|R|Lineout|*B|Cutter|2|1|1|2|14|87
+Tony Barnette|R|Josh Donaldson|R|Lineout|X|Cutter|3|2|1|2|6|88
+Tony Barnette|R|Edwin Encarnacion|R|Single|C|Cutter|0|0|0|0|8|88
+Tony Barnette|R|Edwin Encarnacion|R|Single|F|Slider|1|0|1|0|6|85
+Tony Barnette|R|Edwin Encarnacion|R|Single|B|Splitter|2|0|2|0|13|88
+Tony Barnette|R|Edwin Encarnacion|R|Single|D|Cutter|3|1|2|0|9|89
+Tony Barnette|R|Justin Smoak|L|Walk|B|Cutter|4|0|0|0|14|89
+Tony Barnette|R|Justin Smoak|L|Walk|B|Cutter|5|1|0|0|14|87
+Tony Barnette|R|Justin Smoak|L|Walk|B|Sinker|6|2|0|0|13|91
+Tony Barnette|R|Justin Smoak|L|Walk|C|Four-Seam Fastball|7|3|0|0|8|93
+Tony Barnette|R|Justin Smoak|L|Walk|B|Sinker|8|3|1|0|13|94
+Tony Barnette|R|Troy Tulowitzki|R|Pop Out|*B|Cutter|9|0|0|0|14|90
+Tony Barnette|R|Troy Tulowitzki|R|Pop Out|X|Cutter|10|1|0|0|1|90
+Tony Barnette|R|Kevin Pillar|R|Walk|B|Sinker|11|0|0|1|13|93
+Tony Barnette|R|Kevin Pillar|R|Walk|B|Cutter|12|1|0|1|14|88
+Tony Barnette|R|Kevin Pillar|R|Walk|B|Cutter|13|2|0|1|14|89
+Tony Barnette|R|Kevin Pillar|R|Walk|C|Four-Seam Fastball|14|3|0|1|4|92
+Tony Barnette|R|Kevin Pillar|R|Walk|C|Sinker|15|3|1|1|9|93
+Tony Barnette|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|16|3|2|1|11|93
+Tony Barnette|R|Russell Martin|R|Single|C|Slider|17|0|0|1|6|85
+Tony Barnette|R|Russell Martin|R|Single|B|Slider|18|0|1|1|2|83
+Tony Barnette|R|Russell Martin|R|Single|E|Slider|19|1|1|1|7|84
+Tony Barnette|R|Anthony Gose|L|Single|F|Cutter|0|0|0|0|6|89
+Tony Barnette|R|Anthony Gose|L|Single|D|Splitter|1|0|1|0|8|87
+Tony Barnette|R|Jose Iglesias|R|Forceout|X|Sinker|2|0|0|0|4|92
+Tony Barnette|R|Ian Kinsler|R|Single|B|Cutter|3|0|0|1|12|88
+Tony Barnette|R|Ian Kinsler|R|Single|D|Cutter|4|1|0|1|6|88
+Tony Barnette|R|J.D. Martinez|R|Grounded Into DP|X|Curveball|5|0|0|1|9|77
+Tony Barnette|R|Miguel Cabrera|R|Single|C|Four-Seam Fastball|6|0|0|0|9|93
+Tony Barnette|R|Miguel Cabrera|R|Single|D|Cutter|7|0|1|0|8|88
+Tony Barnette|R|Victor Martinez|L|Strikeout|B|Four-Seam Fastball|8|0|0|0|13|94
+Tony Barnette|R|Victor Martinez|L|Strikeout|C|Cutter|9|1|0|0|7|88
+Tony Barnette|R|Victor Martinez|L|Strikeout|C|Curveball|10|1|1|0|11|77
+Tony Barnette|R|Victor Martinez|L|Strikeout|F|Sinker|11|1|2|0|14|93
+Tony Barnette|R|Victor Martinez|L|Strikeout|B|Curveball|12|1|2|0|13|75
+Tony Barnette|R|Victor Martinez|L|Strikeout|B|Splitter|13|2|2|0|13|85
+Tony Barnette|R|Victor Martinez|L|Strikeout|S|Sinker|14|3|2|0|13|91
+Tony Barnette|R|Justin Upton|R|Strikeout|C|Cutter|15|0|0|1|6|89
+Tony Barnette|R|Justin Upton|R|Strikeout|S|Curveball|16|0|1|1|14|77
+Tony Barnette|R|Justin Upton|R|Strikeout|*B|Curveball|17|0|2|1|14|78
+Tony Barnette|R|Justin Upton|R|Strikeout|S|Four-Seam Fastball|18|1|2|1|11|92
+Tony Barnette|R|Nicholas Castellanos|R|Single|D|Sinker|19|0|0|2|4|92
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|B|Sinker|20|0|0|2|11|93
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|C|Curveball|21|1|0|2|11|76
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|B|Sinker|22|1|1|2|11|92
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|S|Cutter|23|2|1|2|9|87
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|*B|Curveball|24|2|2|2|13|77
+Tony Barnette|R|Jarrod Saltalamacchia|L|Walk|B|Four-Seam Fastball|25|3|2|2|11|93
+Tony Barnette|R|Jose Abreu|R|Flyout|C|Cutter|0|0|0|1|14|87
+Tony Barnette|R|Jose Abreu|R|Flyout|B|Cutter|1|0|1|1|14|87
+Tony Barnette|R|Jose Abreu|R|Flyout|S|Cutter|2|1|1|1|3|88
+Tony Barnette|R|Jose Abreu|R|Flyout|B|Cutter|3|1|2|1|14|86
+Tony Barnette|R|Jose Abreu|R|Flyout|*B|Cutter|4|2|2|1|14|89
+Tony Barnette|R|Jose Abreu|R|Flyout|X|Cutter|5|3|2|1|6|87
+Tony Barnette|R|Todd Frazier|R|Single|B|Cutter|6|0|0|2|14|89
+Tony Barnette|R|Todd Frazier|R|Single|E|Cutter|7|1|0|2|8|89
+Tony Barnette|R|Jerry Sands|R|Pop Out|S|Four-Seam Fastball|8|0|0|2|8|93
+Tony Barnette|R|Jerry Sands|R|Pop Out|X|Four-Seam Fastball|9|0|1|2|11|93
+Tony Barnette|R|Adam Eaton|L|Hit By Pitch|B|Cutter|0|0|0|2|14|87
+Tony Barnette|R|Adam Eaton|L|Hit By Pitch|H|Four-Seam Fastball|1|1|0|2|12|91
+Tony Barnette|R|Austin Jackson|R|Flyout|W|Cutter|2|0|0|2|14|87
+Tony Barnette|R|Austin Jackson|R|Flyout|B|Cutter|3|0|1|2|7|87
+Tony Barnette|R|Austin Jackson|R|Flyout|C|Four-Seam Fastball|4|1|1|2|7|91
+Tony Barnette|R|Austin Jackson|R|Flyout|B|Four-Seam Fastball|5|1|2|2|11|92
+Tony Barnette|R|Austin Jackson|R|Flyout|*B|Slider|6|2|2|2|14|81
+Tony Barnette|R|Austin Jackson|R|Flyout|X|Four-Seam Fastball|7|3|2|2|2|91
+Tony Barnette|R|Darwin Barney|R|Forceout|X|Cutter|0|0|0|2|12|88
+Tony Barnette|R|Michael Saunders|L|Strikeout|C|Curveball|1|0|0|0|7|76
+Tony Barnette|R|Michael Saunders|L|Strikeout|S|Splitter|2|0|1|0|14|88
+Tony Barnette|R|Michael Saunders|L|Strikeout|S|Splitter|3|0|2|0|13|85
+Tony Barnette|R|Josh Donaldson|R|Lineout|S|Slider|4|0|0|1|9|82
+Tony Barnette|R|Josh Donaldson|R|Lineout|S|Slider|5|0|1|1|14|82
+Tony Barnette|R|Josh Donaldson|R|Lineout|B|Slider|6|0|2|1|14|82
+Tony Barnette|R|Josh Donaldson|R|Lineout|X|Four-Seam Fastball|7|1|2|1|3|92
+Tony Barnette|R|Jose Bautista|R|Double|D|Slider|8|0|0|2|8|82
+Tony Barnette|R|Edwin Encarnacion|R|Groundout|B|Slider|9|0|0|2|14|83
+Tony Barnette|R|Edwin Encarnacion|R|Groundout|F|Cutter|10|1|0|2|3|88
+Tony Barnette|R|Edwin Encarnacion|R|Groundout|*B|Cutter|11|1|1|2|14|86
+Tony Barnette|R|Edwin Encarnacion|R|Groundout|B|Slider|12|2|1|2|13|82
+Tony Barnette|R|Edwin Encarnacion|R|Groundout|X|Cutter|13|3|1|2|9|87
+Tony Barnette|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|91
+Tony Barnette|R|Colin Moran|L|Strikeout|B|Cutter|1|0|1|0|14|86
+Tony Barnette|R|Colin Moran|L|Strikeout|C|Cutter|2|1|1|0|14|89
+Tony Barnette|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|9|92
+Tony Barnette|R|Colin Moran|L|Strikeout|S|Cutter|4|1|2|0|9|89
+Tony Barnette|R|Luis Valbuena|L|Flyout|F|Four-Seam Fastball|5|0|0|1|12|92
+Tony Barnette|R|Luis Valbuena|L|Flyout|B|Curveball|6|0|1|1|14|78
+Tony Barnette|R|Luis Valbuena|L|Flyout|X|Cutter|7|1|1|1|9|89
+Tony Barnette|R|Jason Castro|L|Walk|B|Cutter|8|0|0|2|14|87
+Tony Barnette|R|Jason Castro|L|Walk|B|Cutter|9|1|0|2|14|88
+Tony Barnette|R|Jason Castro|L|Walk|S|Four-Seam Fastball|10|2|0|2|9|92
+Tony Barnette|R|Jason Castro|L|Walk|B|Cutter|11|2|1|2|14|88
+Tony Barnette|R|Jason Castro|L|Walk|F|Four-Seam Fastball|12|3|1|2|7|93
+Tony Barnette|R|Jason Castro|L|Walk|B|Four-Seam Fastball|13|3|2|2|11|93
+Tony Barnette|R|Tony Kemp|L|Strikeout|F|Four-Seam Fastball|14|0|0|2|14|91
+Tony Barnette|R|Tony Kemp|L|Strikeout|F|Four-Seam Fastball|15|0|1|2|8|91
+Tony Barnette|R|Tony Kemp|L|Strikeout|S|Curveball|16|0|2|2|14|77
+Tony Barnette|R|Jett Bandy|R|Sac Fly|C|Slider|0|0|0|0|5|83
+Tony Barnette|R|Jett Bandy|R|Sac Fly|E|Four-Seam Fastball|1|0|1|0|13|91
+Tony Barnette|R|Gregorio Petit|R|Lineout|S|Cutter|2|0|0|1|5|86
+Tony Barnette|R|Gregorio Petit|R|Lineout|B|Cutter|3|0|1|1|14|92
+Tony Barnette|R|Gregorio Petit|R|Lineout|F|Cutter|4|1|1|1|4|86
+Tony Barnette|R|Gregorio Petit|R|Lineout|X|Cutter|5|1|2|1|6|88
+Tony Barnette|R|Yunel Escobar|R|Forceout|B|Cutter|6|0|0|2|14|86
+Tony Barnette|R|Yunel Escobar|R|Forceout|C|Four-Seam Fastball|7|1|0|2|6|92
+Tony Barnette|R|Yunel Escobar|R|Forceout|X|Cutter|8|1|1|2|5|89
+Tony Barnette|R|Kole Calhoun|L|Lineout|C|Cutter|9|0|0|0|3|89
+Tony Barnette|R|Kole Calhoun|L|Lineout|X|Cutter|10|0|1|0|12|88
+Tony Barnette|R|Mike Trout|R|Groundout|C|Four-Seam Fastball|11|0|0|1|2|92
+Tony Barnette|R|Mike Trout|R|Groundout|B|Slider|12|0|1|1|14|82
+Tony Barnette|R|Mike Trout|R|Groundout|X|Sinker|13|1|1|1|11|92
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Slider|14|0|0|2|14|83
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Cutter|15|1|0|2|14|89
+Tony Barnette|R|Albert Pujols|R|Groundout|X|Cutter|16|2|0|2|9|88
+Tony Barnette|R|Andrew McCutchen|R|Flyout|C|Sinker|0|0|0|0|5|92
+Tony Barnette|R|Andrew McCutchen|R|Flyout|B|Slider|1|0|1|0|14|78
+Tony Barnette|R|Andrew McCutchen|R|Flyout|B|Sinker|2|1|1|0|11|92
+Tony Barnette|R|Andrew McCutchen|R|Flyout|X|Cutter|3|2|1|0|4|89
+Tony Barnette|R|Gregory Polanco|L|Single|B|Cutter|4|0|0|1|14|88
+Tony Barnette|R|Gregory Polanco|L|Single|F|Cutter|5|1|0|1|9|89
+Tony Barnette|R|Gregory Polanco|L|Single|F|Cutter|6|1|1|1|8|89
+Tony Barnette|R|Gregory Polanco|L|Single|D|Cutter|7|1|2|1|3|89
+Tony Barnette|R|David Freese|R|Field Error|F|Sinker|8|0|0|1|13|92
+Tony Barnette|R|David Freese|R|Field Error|D|Sinker|9|0|1|1|13|91
+Tony Barnette|R|Starling Marte|R|Forceout|B|Cutter|10|0|0|1|14|88
+Tony Barnette|R|Starling Marte|R|Forceout|S|Cutter|11|1|0|1|1|87
+Tony Barnette|R|Starling Marte|R|Forceout|X|Slider|12|1|1|1|14|83
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|C|Cutter|13|0|0|2|6|87
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|S|Cutter|14|0|1|2|2|87
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|B|Cutter|15|0|2|2|14|88
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|*B|Slider|16|1|2|2|14|79
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|F|Sinker|17|2|2|2|1|92
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|F|Cutter|18|2|2|2|5|90
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|B|Sinker|19|2|2|2|11|91
+Tony Barnette|R|Francisco Cervelli|R|Strikeout|W|Curveball|20|3|2|2|14|78
+Tony Barnette|R|Jung Ho Kang|R|Groundout|B|Cutter|0|0|0|0|14|88
+Tony Barnette|R|Jung Ho Kang|R|Groundout|B|Cutter|1|1|0|0|12|88
+Tony Barnette|R|Jung Ho Kang|R|Groundout|C|Four-Seam Fastball|2|2|0|0|5|92
+Tony Barnette|R|Jung Ho Kang|R|Groundout|C|Four-Seam Fastball|3|2|1|0|9|92
+Tony Barnette|R|Jung Ho Kang|R|Groundout|X|Slider|4|2|2|0|14|83
+Tony Barnette|R|Starling Marte|R|Double|B|Four-Seam Fastball|5|0|0|1|14|92
+Tony Barnette|R|Starling Marte|R|Double|D|Cutter|6|1|0|1|6|89
+Tony Barnette|R|Francisco Cervelli|R|Groundout|B|Cutter|7|0|0|1|12|88
+Tony Barnette|R|Francisco Cervelli|R|Groundout|X|Cutter|8|1|0|1|8|88
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|B|Cutter|9|0|0|2|11|88
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|F|Slider|10|1|0|2|13|82
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|B|Cutter|11|1|1|2|14|86
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|C|Sinker|12|2|1|2|3|93
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|F|Four-Seam Fastball|13|2|2|2|12|93
+Tony Barnette|R|Sean Rodriguez|R|Strikeout|C|Slider|14|2|2|2|9|83
+Tony Barnette|R|Jose Ramirez|L|Single|C|Sinker|0|0|0|0|1|91
+Tony Barnette|R|Jose Ramirez|L|Single|F|Cutter|1|0|1|0|8|88
+Tony Barnette|R|Jose Ramirez|L|Single|B|Splitter|2|0|2|0|13|87
+Tony Barnette|R|Jose Ramirez|L|Single|B|Four-Seam Fastball|3|1|2|0|12|92
+Tony Barnette|R|Jose Ramirez|L|Single|D|Slider|4|2|2|0|14|82
+Tony Barnette|R|Marlon Byrd|R|Strikeout|F|Cutter|5|0|0|0|14|86
+Tony Barnette|R|Marlon Byrd|R|Strikeout|F|Cutter|6|0|1|0|11|87
+Tony Barnette|R|Marlon Byrd|R|Strikeout|S|Slider|7|0|2|0|14|81
+Tony Barnette|R|Lonnie Chisenhall|L|Home Run|*B|Sinker|8|0|0|1|13|90
+Tony Barnette|R|Lonnie Chisenhall|L|Home Run|E|Cutter|9|1|0|1|9|86
+Tony Barnette|R|Yan Gomes|R|Walk|F|Cutter|10|0|0|1|3|87
+Tony Barnette|R|Yan Gomes|R|Walk|B|Slider|11|0|1|1|14|82
+Tony Barnette|R|Yan Gomes|R|Walk|B|Sinker|12|1|1|1|14|92
+Tony Barnette|R|Yan Gomes|R|Walk|B|Cutter|13|2|1|1|14|88
+Tony Barnette|R|Yan Gomes|R|Walk|S|Cutter|14|3|1|1|3|91
+Tony Barnette|R|Yan Gomes|R|Walk|B|Four-Seam Fastball|15|3|2|1|14|91
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|F|Cutter|16|0|0|1|12|88
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|C|Slider|17|0|1|1|7|82
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|B|Cutter|18|0|2|1|11|91
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|B|Curveball|19|1|2|1|11|73
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|B|Curveball|20|2|2|1|13|78
+Tony Barnette|R|Rajai Davis|R|Grounded Into DP|X|Cutter|21|3|2|1|3|91
+Tony Barnette|R|Dae-Ho Lee|R|Forceout|X|Cutter|0|0|0|2|9|90
+Tony Barnette|R|Steve Clevenger|L|Single|F|Cutter|1|0|0|0|12|87
+Tony Barnette|R|Steve Clevenger|L|Single|B|Cutter|2|0|1|0|14|88
+Tony Barnette|R|Steve Clevenger|L|Single|B|Sinker|3|1|1|0|13|92
+Tony Barnette|R|Steve Clevenger|L|Single|D|Sinker|4|2|1|0|7|92
+Tony Barnette|R|Luis Sardinas|L|Grounded Into DP|B|Sinker|5|0|0|0|13|92
+Tony Barnette|R|Luis Sardinas|L|Grounded Into DP|X|Sinker|6|1|0|0|8|91
+Tony Barnette|R|Norichika Aoki|L|Single|B|Sinker|7|0|0|2|11|91
+Tony Barnette|R|Norichika Aoki|L|Single|B|Four-Seam Fastball|8|1|0|2|11|93
+Tony Barnette|R|Norichika Aoki|L|Single|D|Sinker|9|2|0|2|2|92
+Tony Barnette|R|Seth Smith|L|Flyout|F|Cutter|10|0|0|2|5|87
+Tony Barnette|R|Seth Smith|L|Flyout|X|Cutter|11|0|1|2|5|87
+Tony Barnette|R|Carlos Correa|R|Walk|F|Cutter|0|0|0|0|14|88
+Tony Barnette|R|Carlos Correa|R|Walk|B|Sinker|1|0|1|0|13|92
+Tony Barnette|R|Carlos Correa|R|Walk|F|Curveball|2|1|1|0|14|77
+Tony Barnette|R|Carlos Correa|R|Walk|B|Four-Seam Fastball|3|1|2|0|12|92
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|4|2|2|0|13|88
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|5|3|2|0|14|87
+Tony Barnette|R|Colby Rasmus|L|Single|S|Cutter|6|0|0|0|3|88
+Tony Barnette|R|Colby Rasmus|L|Single|B|Sinker|7|0|1|0|11|89
+Tony Barnette|R|Colby Rasmus|L|Single|B|Cutter|8|1|1|0|12|87
+Tony Barnette|R|Colby Rasmus|L|Single|F|Cutter|9|2|1|0|14|87
+Tony Barnette|R|Colby Rasmus|L|Single|E|Sinker|10|2|2|0|2|91
+Tony Barnette|R|Evan Gattis|R|Strikeout|C|Cutter|11|0|0|0|6|87
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Sinker|12|0|1|0|13|91
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Sinker|13|0|2|0|3|91
+Tony Barnette|R|Evan Gattis|R|Strikeout|W|Curveball|14|0|2|0|14|77
+Tony Barnette|R|Luis Valbuena|L|Strikeout|B|Sinker|15|0|0|1|11|91
+Tony Barnette|R|Luis Valbuena|L|Strikeout|F|Cutter|16|1|0|1|5|87
+Tony Barnette|R|Luis Valbuena|L|Strikeout|T|Splitter|17|1|1|1|13|86
+Tony Barnette|R|Luis Valbuena|L|Strikeout|*B|Splitter|18|1|2|1|14|87
+Tony Barnette|R|Luis Valbuena|L|Strikeout|B|Cutter|19|2|2|1|14|88
+Tony Barnette|R|Luis Valbuena|L|Strikeout|S|Sinker|20|3|2|1|11|91
+Tony Barnette|R|Carlos Gomez|R|Groundout|S|Curveball|21|0|0|2|9|75
+Tony Barnette|R|Carlos Gomez|R|Groundout|F|Curveball|22|0|1|2|9|76
+Tony Barnette|R|Carlos Gomez|R|Groundout|B|Four-Seam Fastball|23|0|2|2|11|91
+Tony Barnette|R|Carlos Gomez|R|Groundout|X|Curveball|24|1|2|2|14|76
+Tony Barnette|R|Jake Marisnick|R|Single|B|Cutter|0|0|0|0|14|88
+Tony Barnette|R|Jake Marisnick|R|Single|B|Cutter|1|1|0|0|14|88
+Tony Barnette|R|Jake Marisnick|R|Single|C|Four-Seam Fastball|2|2|0|0|12|91
+Tony Barnette|R|Jake Marisnick|R|Single|D|Sinker|3|2|1|0|7|90
+Tony Barnette|R|George Springer|R|Groundout|B|Sinker|4|0|0|0|11|92
+Tony Barnette|R|George Springer|R|Groundout|X|Cutter|5|1|0|0|14|88
+Tony Barnette|R|Jose Altuve|R|Single|W|Curveball|6|0|0|1|14|78
+Tony Barnette|R|Jose Altuve|R|Single|E|Cutter|7|0|1|1|14|89
+Tony Barnette|R|Tony Kemp|L|Flyout|B|Four-Seam Fastball|8|0|0|1|11|91
+Tony Barnette|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|9|1|0|1|3|91
+Tony Barnette|R|Evan Gattis|R|Single|B|Cutter|10|0|0|2|14|88
+Tony Barnette|R|Evan Gattis|R|Single|D|Cutter|11|1|0|2|14|87
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|*B|Curveball|12|0|0|2|14|77
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|B|Splitter|13|1|0|2|13|87
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|*B|Splitter|14|2|0|2|13|86
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|C|Sinker|15|3|0|2|8|92
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|S|Splitter|16|3|1|2|7|90
+Tony Barnette|R|Marwin Gonzalez|L|Lineout|X|Sinker|17|3|2|2|4|91
+Tony Barnette|R|Ketel Marte|L|Groundout|B|Sinker|0|0|0|2|14|91
+Tony Barnette|R|Ketel Marte|L|Groundout|X|Sinker|1|1|0|2|9|93
+Tony Barnette|R|Seth Smith|L|Single|D|Sinker|2|0|0|0|8|92
+Tony Barnette|R|Robinson Cano|L|Single|C|Cutter|3|0|0|0|5|87
+Tony Barnette|R|Robinson Cano|L|Single|D|Sinker|4|0|1|0|7|91
+Tony Barnette|R|Nelson Cruz|R|Single|B|Splitter|5|0|0|0|12|87
+Tony Barnette|R|Nelson Cruz|R|Single|B|Cutter|6|1|0|0|14|88
+Tony Barnette|R|Nelson Cruz|R|Single|B|Splitter|7|2|0|0|11|90
+Tony Barnette|R|Nelson Cruz|R|Single|C|Sinker|8|3|0|0|5|90
+Tony Barnette|R|Nelson Cruz|R|Single|S|Four-Seam Fastball|9|3|1|0|9|92
+Tony Barnette|R|Nelson Cruz|R|Single|D|Sinker|10|3|2|0|1|94
+Tony Barnette|R|Matt Adams|L|Strikeout|F|Sinker|0|0|0|0|14|92
+Tony Barnette|R|Matt Adams|L|Strikeout|W|Splitter|1|0|1|0|13|89
+Tony Barnette|R|Matt Adams|L|Strikeout|*B|Splitter|2|0|2|0|13|89
+Tony Barnette|R|Matt Adams|L|Strikeout|*B|Cutter|3|1|2|0|13|90
+Tony Barnette|R|Matt Adams|L|Strikeout|W|Curveball|4|2|2|0|13|78
+Tony Barnette|R|Eric Fryer|R|Walk|B|Cutter|5|0|0|1|14|90
+Tony Barnette|R|Eric Fryer|R|Walk|B|Cutter|6|1|0|1|12|90
+Tony Barnette|R|Eric Fryer|R|Walk|B|Sinker|7|2|0|1|12|95
+Tony Barnette|R|Eric Fryer|R|Walk|B|Sinker|8|3|0|1|2|94
+Tony Barnette|R|Kolten Wong|L|Flyout|F|Sinker|9|0|0|1|13|94
+Tony Barnette|R|Kolten Wong|L|Flyout|*B|Sinker|10|0|1|1|14|90
+Tony Barnette|R|Kolten Wong|L|Flyout|X|Splitter|11|1|1|1|13|90
+Tony Barnette|R|Matt Carpenter|L|Single|X|Sinker|12|0|0|2|13|91
+Tony Barnette|R|Aledmys Diaz|R|Pop Out|X|Cutter|13|0|0|0|6|87
+Tony Barnette|R|Matt Holliday|R|Lineout|B|Sinker|14|0|0|1|14|93
+Tony Barnette|R|Matt Holliday|R|Lineout|X|Cutter|15|1|0|1|14|87
+Tony Barnette|R|Christian Vazquez|R|Strikeout|B|Cutter|0|0|0|0|14|87
+Tony Barnette|R|Christian Vazquez|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|6|92
+Tony Barnette|R|Christian Vazquez|R|Strikeout|F|Cutter|2|1|1|0|12|88
+Tony Barnette|R|Christian Vazquez|R|Strikeout|F|Curveball|3|1|2|0|14|77
+Tony Barnette|R|Christian Vazquez|R|Strikeout|F|Sinker|4|1|2|0|13|92
+Tony Barnette|R|Christian Vazquez|R|Strikeout|W|Curveball|5|1|2|0|14|78
+Tony Barnette|R|Mookie Betts|R|Groundout|C|Cutter|6|0|0|1|2|87
+Tony Barnette|R|Mookie Betts|R|Groundout|B|Cutter|7|0|1|1|14|88
+Tony Barnette|R|Mookie Betts|R|Groundout|B|Curveball|8|1|1|1|14|78
+Tony Barnette|R|Mookie Betts|R|Groundout|X|Sinker|9|2|1|1|9|93
+Tony Barnette|R|Dustin Pedroia|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|12|93
+Tony Barnette|R|Dustin Pedroia|R|Strikeout|F|Cutter|11|1|0|2|7|87
+Tony Barnette|R|Dustin Pedroia|R|Strikeout|B|Four-Seam Fastball|12|1|1|2|12|93
+Tony Barnette|R|Dustin Pedroia|R|Strikeout|F|Cutter|13|2|1|2|7|87
+Tony Barnette|R|Dustin Pedroia|R|Strikeout|S|Four-Seam Fastball|14|2|2|2|3|92
+Tony Barnette|R|Xander Bogaerts|R|Flyout|C|Cutter|15|0|0|0|6|86
+Tony Barnette|R|Xander Bogaerts|R|Flyout|S|Curveball|16|0|1|0|14|77
+Tony Barnette|R|Xander Bogaerts|R|Flyout|B|Curveball|17|0|2|0|14|76
+Tony Barnette|R|Xander Bogaerts|R|Flyout|B|Cutter|18|1|2|0|14|86
+Tony Barnette|R|Xander Bogaerts|R|Flyout|X|Curveball|19|2|2|0|7|76
+Tony Barnette|R|David Ortiz|L|Lineout|C|Sinker|20|0|0|1|7|91
+Tony Barnette|R|David Ortiz|L|Lineout|B|Splitter|21|0|1|1|13|88
+Tony Barnette|R|David Ortiz|L|Lineout|B|Splitter|22|1|1|1|14|88
+Tony Barnette|R|David Ortiz|L|Lineout|B|Sinker|23|2|1|1|14|91
+Tony Barnette|R|David Ortiz|L|Lineout|X|Splitter|24|3|1|1|13|90
+Tony Barnette|R|Hanley Ramirez|R|Lineout|B|Cutter|25|0|0|2|14|87
+Tony Barnette|R|Hanley Ramirez|R|Lineout|F|Sinker|26|1|0|2|13|90
+Tony Barnette|R|Hanley Ramirez|R|Lineout|B|Cutter|27|1|1|2|14|87
+Tony Barnette|R|Hanley Ramirez|R|Lineout|B|Four-Seam Fastball|28|2|1|2|12|92
+Tony Barnette|R|Hanley Ramirez|R|Lineout|X|Sinker|29|3|1|2|7|90
+Tony Barnette|R|Chase Headley|L|Strikeout|B|Cutter|0|0|0|1|14|87
+Tony Barnette|R|Chase Headley|L|Strikeout|B|Curveball|1|1|0|1|14|78
+Tony Barnette|R|Chase Headley|L|Strikeout|S|Cutter|2|2|0|1|14|87
+Tony Barnette|R|Chase Headley|L|Strikeout|F|Cutter|3|2|1|1|4|87
+Tony Barnette|R|Chase Headley|L|Strikeout|F|Cutter|4|2|2|1|3|86
+Tony Barnette|R|Chase Headley|L|Strikeout|F|Four-Seam Fastball|5|2|2|1|12|93
+Tony Barnette|R|Chase Headley|L|Strikeout|S|Splitter|6|2|2|1|14|88
+Tony Barnette|R|Aaron Hicks|L|Groundout|B|Cutter|7|0|0|2|11|89
+Tony Barnette|R|Aaron Hicks|L|Groundout|X|Cutter|8|1|0|2|5|87
+Tony Barnette|R|Jacoby Ellsbury|L|Walk|B|Sinker|9|0|0|0|11|91
+Tony Barnette|R|Jacoby Ellsbury|L|Walk|B|Cutter|10|1|0|0|11|85
+Tony Barnette|R|Jacoby Ellsbury|L|Walk|B|Sinker|11|2|0|0|13|92
+Tony Barnette|R|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|12|3|0|0|11|93
+Tony Barnette|R|Brett Gardner|L|Single|C|Sinker|13|0|0|0|11|91
+Tony Barnette|R|Brett Gardner|L|Single|B|Cutter|14|0|1|0|11|86
+Tony Barnette|R|Brett Gardner|L|Single|F|Cutter|15|1|1|0|4|86
+Tony Barnette|R|Brett Gardner|L|Single|B|Cutter|16|1|2|0|14|88
+Tony Barnette|R|Brett Gardner|L|Single|D|Sinker|17|2|2|0|11|89
+Tony Barnette|R|Carlos Beltran|L|Lineout|*B|Curveball|18|0|0|0|14|78
+Tony Barnette|R|Carlos Beltran|L|Lineout|C|Cutter|19|1|0|0|7|86
+Tony Barnette|R|Carlos Beltran|L|Lineout|X|Curveball|20|1|1|0|8|76
+Tony Barnette|R|Brian McCann|L|Strikeout|B|Cutter|21|0|0|1|13|85
+Tony Barnette|R|Brian McCann|L|Strikeout|C|Cutter|22|1|0|1|13|87
+Tony Barnette|R|Brian McCann|L|Strikeout|F|Cutter|23|1|1|1|14|86
+Tony Barnette|R|Brian McCann|L|Strikeout|S|Curveball|24|1|2|1|13|76
+Tony Barnette|R|Mark Teixeira|L|Strikeout|B|Curveball|25|0|0|2|13|75
+Tony Barnette|R|Mark Teixeira|L|Strikeout|C|Curveball|26|1|0|2|5|74
+Tony Barnette|R|Mark Teixeira|L|Strikeout|B|Cutter|27|1|1|2|14|87
+Tony Barnette|R|Mark Teixeira|L|Strikeout|F|Cutter|28|2|1|2|13|85
+Tony Barnette|R|Mark Teixeira|L|Strikeout|S|Curveball|29|2|2|2|13|76
+Tony Barnette|R|Chase Headley|L|Walk|B|Sinker|0|0|0|2|13|92
+Tony Barnette|R|Chase Headley|L|Walk|C|Cutter|1|1|0|2|5|87
+Tony Barnette|R|Chase Headley|L|Walk|B|Splitter|2|1|1|2|14|88
+Tony Barnette|R|Chase Headley|L|Walk|B|Sinker|3|2|1|2|11|91
+Tony Barnette|R|Chase Headley|L|Walk|B|Sinker|4|3|1|2|11|92
+Tony Barnette|R|Didi Gregorius|L|Sac Bunt|L|Sinker|5|0|0|2|13|91
+Tony Barnette|R|Didi Gregorius|L|Sac Bunt|X|Curveball|6|0|1|2|13|77
+Tony Barnette|R|Aaron Hicks|L|Walk|B|Cutter|7|0|0|0|11|87
+Tony Barnette|R|Aaron Hicks|L|Walk|B|Curveball|8|1|0|0|11|76
+Tony Barnette|R|Aaron Hicks|L|Walk|S|Curveball|9|2|0|0|13|76
+Tony Barnette|R|Aaron Hicks|L|Walk|B|Splitter|10|2|1|0|13|86
+Tony Barnette|R|Aaron Hicks|L|Walk|B|Splitter|11|3|1|0|11|86
+Tony Barnette|R|Starlin Castro|R|Groundout|B|Cutter|12|0|0|0|14|89
+Tony Barnette|R|Starlin Castro|R|Groundout|B|Cutter|13|1|0|0|11|87
+Tony Barnette|R|Starlin Castro|R|Groundout|X|Cutter|14|2|0|0|14|89
+Tony Barnette|R|Jacoby Ellsbury|L|Passed Ball|B|Curveball|15|0|0|1|11|75
+Tony Barnette|R|Jacoby Ellsbury|L|Passed Ball|F|Cutter|16|1|0|1|7|88
+Tony Barnette|R|Jacoby Ellsbury|L|Passed Ball|B|Cutter|17|1|1|1|13|87
+Tony Barnette|R|Brian Dozier|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|93
+Tony Barnette|R|Brian Dozier|R|Groundout|B|Cutter|1|0|1|0|14|89
+Tony Barnette|R|Brian Dozier|R|Groundout|F|Cutter|2|1|1|0|9|89
+Tony Barnette|R|Brian Dozier|R|Groundout|X|Curveball|3|1|2|0|11|76
+Tony Barnette|R|Max Kepler|L|Flyout|F|Sinker|4|0|0|1|8|92
+Tony Barnette|R|Max Kepler|L|Flyout|B|Cutter|5|0|1|1|11|88
+Tony Barnette|R|Max Kepler|L|Flyout|X|Cutter|6|1|1|1|9|88
+Tony Barnette|R|Robbie Grossman|L|Walk|F|Sinker|7|0|0|2|7|93
+Tony Barnette|R|Robbie Grossman|L|Walk|B|Cutter|8|0|1|2|13|89
+Tony Barnette|R|Robbie Grossman|L|Walk|S|Splitter|9|1|1|2|14|88
+Tony Barnette|R|Robbie Grossman|L|Walk|B|Splitter|10|1|2|2|11|83
+Tony Barnette|R|Robbie Grossman|L|Walk|B|Curveball|11|2|2|2|11|77
+Tony Barnette|R|Robbie Grossman|L|Walk|B|Splitter|12|3|2|2|13|89
+Tony Barnette|R|Kurt Suzuki|R|Flyout|C|Cutter|0|0|0|0|6|88
+Tony Barnette|R|Kurt Suzuki|R|Flyout|B|Cutter|1|0|1|0|14|87
+Tony Barnette|R|Kurt Suzuki|R|Flyout|S|Curveball|2|1|1|0|14|76
+Tony Barnette|R|Kurt Suzuki|R|Flyout|X|Curveball|3|1|2|0|14|76
+Tony Barnette|R|Eddie Rosario|L|Forceout|S|Curveball|4|0|0|1|6|77
+Tony Barnette|R|Eddie Rosario|L|Forceout|E|Curveball|5|0|1|1|4|76
+Tony Barnette|R|Danny Santana|L|Groundout|F|Sinker|6|0|0|2|5|90
+Tony Barnette|R|Danny Santana|L|Groundout|B|Curveball|7|0|1|2|11|75
+Tony Barnette|R|Danny Santana|L|Groundout|X|Cutter|8|1|1|2|12|88
+Tony Barnette|R|Eduardo Nunez|R|Groundout|X|Cutter|9|0|0|0|14|86
+Tony Barnette|R|Joe Mauer|L|Groundout|X|Splitter|10|0|0|1|5|90
+Tony Barnette|R|Miguel Sano|R|Strikeout|B|Sinker|11|0|0|2|14|92
+Tony Barnette|R|Miguel Sano|R|Strikeout|C|Cutter|12|1|0|2|2|87
+Tony Barnette|R|Miguel Sano|R|Strikeout|B|Splitter|13|1|1|2|11|90
+Tony Barnette|R|Miguel Sano|R|Strikeout|C|Cutter|14|2|1|2|1|84
+Tony Barnette|R|Miguel Sano|R|Strikeout|C|Curveball|15|2|2|2|1|76
+Tony Barnette|R|Dustin Pedroia|R|Flyout|C|Cutter|0|0|0|2|14|88
+Tony Barnette|R|Dustin Pedroia|R|Flyout|B|Slider|1|0|1|2|14|79
+Tony Barnette|R|Dustin Pedroia|R|Flyout|S|Cutter|2|1|1|2|5|88
+Tony Barnette|R|Dustin Pedroia|R|Flyout|B|Curveball|3|1|2|2|13|79
+Tony Barnette|R|Dustin Pedroia|R|Flyout|X|Cutter|4|2|2|2|6|87
+Tony Barnette|R|Xander Bogaerts|R|Hit By Pitch|B|Cutter|5|0|0|0|12|87
+Tony Barnette|R|Xander Bogaerts|R|Hit By Pitch|H|Sinker|6|1|0|0|11|91
+Tony Barnette|R|David Ortiz|L|Flyout|C|Sinker|7|0|0|0|13|91
+Tony Barnette|R|David Ortiz|L|Flyout|B|Splitter|8|0|1|0|14|88
+Tony Barnette|R|David Ortiz|L|Flyout|X|Cutter|9|1|1|0|14|88
+Tony Barnette|R|Hanley Ramirez|R|Grounded Into DP|X|Cutter|10|0|0|1|8|89
+Tony Barnette|R|Danny Santana|L|Forceout|X|Splitter|0|0|0|1|5|89
+Tony Barnette|R|Kurt Suzuki|R|Groundout|*B|Cutter|1|0|0|2|14|87
+Tony Barnette|R|Kurt Suzuki|R|Groundout|B|Cutter|2|1|0|2|14|87
+Tony Barnette|R|Kurt Suzuki|R|Groundout|C|Four-Seam Fastball|3|2|0|2|14|90
+Tony Barnette|R|Kurt Suzuki|R|Groundout|B|Four-Seam Fastball|4|2|1|2|14|92
+Tony Barnette|R|Kurt Suzuki|R|Groundout|F|Four-Seam Fastball|5|3|1|2|6|91
+Tony Barnette|R|Kurt Suzuki|R|Groundout|X|Cutter|6|3|2|2|14|87
+Tony Barnette|R|Eddie Rosario|L|Single|B|Sinker|7|0|0|0|11|89
+Tony Barnette|R|Eddie Rosario|L|Single|S|Curveball|8|1|0|0|14|77
+Tony Barnette|R|Eddie Rosario|L|Single|D|Curveball|9|1|1|0|13|77
+Tony Barnette|R|Eduardo Nunez|R|Bunt Pop Out|L|Slider|10|0|0|0|2|84
+Tony Barnette|R|Eduardo Nunez|R|Bunt Pop Out|C|Cutter|11|0|1|0|1|85
+Tony Barnette|R|Eduardo Nunez|R|Bunt Pop Out|X|Sinker|12|0|2|0|1|90
+Tony Barnette|R|Robbie Grossman|L|Strikeout|F|Sinker|13|0|0|1|5|90
+Tony Barnette|R|Robbie Grossman|L|Strikeout|B|Sinker|14|0|1|1|11|90
+Tony Barnette|R|Robbie Grossman|L|Strikeout|P|Pitchout|15|1|1|1|11|88
+Tony Barnette|R|Robbie Grossman|L|Strikeout|B|Sinker|16|1|2|1|11|91
+Tony Barnette|R|Robbie Grossman|L|Strikeout|F|Sinker|17|2|2|1|1|91
+Tony Barnette|R|Robbie Grossman|L|Strikeout|C|Curveball|18|2|2|1|13|77
+Tony Barnette|R|Miguel Sano|R|Strikeout|B|Curveball|19|0|0|2|13|76
+Tony Barnette|R|Miguel Sano|R|Strikeout|C|Cutter|20|1|0|2|1|86
+Tony Barnette|R|Miguel Sano|R|Strikeout|B|Curveball|21|1|1|2|14|78
+Tony Barnette|R|Miguel Sano|R|Strikeout|F|Slider|22|2|1|2|5|85
+Tony Barnette|R|Miguel Sano|R|Strikeout|B|Curveball|23|2|2|2|14|77
+Tony Barnette|R|Miguel Sano|R|Strikeout|S|Slider|24|3|2|2|1|85
+Tony Barnette|R|Brian Dozier|R|Pop Out|C|Cutter|25|0|0|0|3|87
+Tony Barnette|R|Brian Dozier|R|Pop Out|X|Curveball|26|0|1|0|6|78
+Tony Barnette|R|Max Kepler|L|Flyout|B|Curveball|27|0|0|1|13|77
+Tony Barnette|R|Max Kepler|L|Flyout|F|Sinker|28|1|0|1|4|92
+Tony Barnette|R|Max Kepler|L|Flyout|X|Splitter|29|1|1|1|4|81
+Tony Barnette|R|Ben Zobrist|L|Walk|C|Sinker|0|0|0|2|7|92
+Tony Barnette|R|Ben Zobrist|L|Walk|B|Cutter|1|0|1|2|11|88
+Tony Barnette|R|Ben Zobrist|L|Walk|C|Cutter|2|1|1|2|4|89
+Tony Barnette|R|Ben Zobrist|L|Walk|B|Splitter|3|1|2|2|13|84
+Tony Barnette|R|Ben Zobrist|L|Walk|B|Cutter|4|2|2|2|13|87
+Tony Barnette|R|Ben Zobrist|L|Walk|B|Sinker|5|3|2|2|14|90
+Tony Barnette|R|Kris Bryant|R|Flyout|X|Cutter|6|0|0|2|4|89
+Tony Barnette|R|Anthony Rizzo|L|Groundout|B|Splitter|7|0|0|0|14|89
+Tony Barnette|R|Anthony Rizzo|L|Groundout|F|Sinker|8|1|0|0|2|90
+Tony Barnette|R|Anthony Rizzo|L|Groundout|F|Splitter|9|1|1|0|5|87
+Tony Barnette|R|Anthony Rizzo|L|Groundout|F|Splitter|10|1|2|0|13|83
+Tony Barnette|R|Anthony Rizzo|L|Groundout|F|Cutter|11|1|2|0|14|88
+Tony Barnette|R|Anthony Rizzo|L|Groundout|X|Splitter|12|1|2|0|13|84
+Tony Barnette|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|13|0|0|1|6|93
+Tony Barnette|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|14|0|1|1|14|93
+Tony Barnette|R|Willson Contreras|R|Strikeout|F|Splitter|15|1|1|1|13|89
+Tony Barnette|R|Willson Contreras|R|Strikeout|B|Curveball|16|1|2|1|8|77
+Tony Barnette|R|Willson Contreras|R|Strikeout|F|Cutter|17|2|2|1|14|87
+Tony Barnette|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|18|2|2|1|12|93
+Tony Barnette|R|Willson Contreras|R|Strikeout|C|Four-Seam Fastball|19|3|2|1|8|93
+Tony Barnette|R|Addison Russell|R|Strikeout|F|Cutter|20|0|0|2|14|88
+Tony Barnette|R|Addison Russell|R|Strikeout|F|Cutter|21|0|1|2|14|88
+Tony Barnette|R|Addison Russell|R|Strikeout|B|Cutter|22|0|2|2|14|87
+Tony Barnette|R|Addison Russell|R|Strikeout|F|Four-Seam Fastball|23|1|2|2|12|93
+Tony Barnette|R|Addison Russell|R|Strikeout|F|Sinker|24|1|2|2|7|93
+Tony Barnette|R|Addison Russell|R|Strikeout|B|Splitter|25|1|2|2|13|89
+Tony Barnette|R|Addison Russell|R|Strikeout|S|Cutter|26|2|2|2|14|87
+Tony Barnette|R|Albert Pujols|R|Strikeout|B|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Albert Pujols|R|Strikeout|C|Cutter|1|1|0|2|6|89
+Tony Barnette|R|Albert Pujols|R|Strikeout|F|Cutter|2|1|1|2|12|88
+Tony Barnette|R|Albert Pujols|R|Strikeout|B|Slider|3|1|2|2|14|79
+Tony Barnette|R|Albert Pujols|R|Strikeout|F|Curveball|4|2|2|2|14|78
+Tony Barnette|R|Albert Pujols|R|Strikeout|S|Slider|5|2|2|2|6|78
+Tony Barnette|R|Daniel Nava|L|Field Error|F|Cutter|6|0|0|0|6|89
+Tony Barnette|R|Daniel Nava|L|Field Error|F|Cutter|7|0|1|0|9|90
+Tony Barnette|R|Daniel Nava|L|Field Error|F|Splitter|8|0|2|0|13|87
+Tony Barnette|R|Daniel Nava|L|Field Error|B|Four-Seam Fastball|9|0|2|0|11|93
+Tony Barnette|R|Daniel Nava|L|Field Error|E|Cutter|10|1|2|0|7|88
+Tony Barnette|R|Johnny Giavotella|R|Single|C|Cutter|11|0|0|0|9|90
+Tony Barnette|R|Johnny Giavotella|R|Single|E|Cutter|12|0|1|0|5|89
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|B|Sinker|13|0|0|0|13|92
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|F|Sinker|14|1|0|0|14|91
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|B|Splitter|15|1|1|0|13|89
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|B|Splitter|16|2|1|0|13|89
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|F|Splitter|17|3|1|0|13|89
+Tony Barnette|R|Ji-Man Choi|L|Grounded Into DP|X|Splitter|18|3|2|0|5|88
+Tony Barnette|R|Mike Trout|R|Flyout|C|Sinker|0|0|0|0|12|92
+Tony Barnette|R|Mike Trout|R|Flyout|B|Splitter|1|0|1|0|13|90
+Tony Barnette|R|Mike Trout|R|Flyout|X|Cutter|2|1|1|0|14|88
+Tony Barnette|R|Albert Pujols|R|Hit By Pitch|S|Four-Seam Fastball|3|0|0|1|6|92
+Tony Barnette|R|Albert Pujols|R|Hit By Pitch|T|Four-Seam Fastball|4|0|1|1|12|93
+Tony Barnette|R|Albert Pujols|R|Hit By Pitch|F|Four-Seam Fastball|5|0|2|1|12|93
+Tony Barnette|R|Albert Pujols|R|Hit By Pitch|H|Sinker|6|0|2|1|11|91
+Tony Barnette|R|Daniel Nava|L|Single|F|Splitter|7|0|0|1|13|88
+Tony Barnette|R|Daniel Nava|L|Single|B|Splitter|8|0|1|1|11|89
+Tony Barnette|R|Daniel Nava|L|Single|B|Cutter|9|1|1|1|11|86
+Tony Barnette|R|Daniel Nava|L|Single|S|Splitter|10|2|1|1|13|88
+Tony Barnette|R|Daniel Nava|L|Single|B|Splitter|11|2|2|1|13|88
+Tony Barnette|R|Daniel Nava|L|Single|D|Splitter|12|3|2|1|7|88
+Tony Barnette|R|Andrelton Simmons|R|Grounded Into DP|B|Cutter|13|0|0|1|14|85
+Tony Barnette|R|Andrelton Simmons|R|Grounded Into DP|C|Cutter|14|1|0|1|2|86
+Tony Barnette|R|Andrelton Simmons|R|Grounded Into DP|X|Sinker|15|1|1|1|8|91
+Tony Barnette|R|Brett Eibner|R|Groundout|*B|Splitter|0|0|0|0|14|87
+Tony Barnette|R|Brett Eibner|R|Groundout|C|Sinker|1|1|0|0|14|92
+Tony Barnette|R|Brett Eibner|R|Groundout|F|Cutter|2|1|1|0|14|88
+Tony Barnette|R|Brett Eibner|R|Groundout|X|Curveball|3|1|2|0|9|78
+Tony Barnette|R|Christian Colon|R|Strikeout|B|Cutter|4|0|0|1|13|87
+Tony Barnette|R|Christian Colon|R|Strikeout|S|Cutter|5|1|0|1|14|86
+Tony Barnette|R|Christian Colon|R|Strikeout|B|Curveball|6|1|1|1|14|78
+Tony Barnette|R|Christian Colon|R|Strikeout|F|Cutter|7|2|1|1|14|86
+Tony Barnette|R|Christian Colon|R|Strikeout|T|Splitter|8|2|2|1|11|89
+Tony Barnette|R|Alcides Escobar|R|Flyout|C|Four-Seam Fastball|9|0|0|2|5|92
+Tony Barnette|R|Alcides Escobar|R|Flyout|C|Cutter|10|0|1|2|13|88
+Tony Barnette|R|Alcides Escobar|R|Flyout|X|Curveball|11|0|2|2|14|78
+Tony Barnette|R|Cheslor Cuthbert|R|Strikeout|C|Cutter|12|0|0|0|11|86
+Tony Barnette|R|Cheslor Cuthbert|R|Strikeout|B|Curveball|13|0|1|0|14|78
+Tony Barnette|R|Cheslor Cuthbert|R|Strikeout|S|Splitter|14|1|1|0|13|89
+Tony Barnette|R|Cheslor Cuthbert|R|Strikeout|F|Splitter|15|1|2|0|13|84
+Tony Barnette|R|Cheslor Cuthbert|R|Strikeout|C|Cutter|16|1|2|0|12|86
+Tony Barnette|R|Eric Hosmer|L|Groundout|B|Four-Seam Fastball|17|0|0|1|12|93
+Tony Barnette|R|Eric Hosmer|L|Groundout|B|Sinker|18|1|0|1|13|93
+Tony Barnette|R|Eric Hosmer|L|Groundout|F|Sinker|19|2|0|1|11|92
+Tony Barnette|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|20|2|1|1|14|93
+Tony Barnette|R|Ryon Healy|R|Groundout|B|Sinker|0|0|0|0|11|91
+Tony Barnette|R|Ryon Healy|R|Groundout|X|Cutter|1|1|0|0|9|86
+Tony Barnette|R|Coco Crisp|L|Flyout|B|Cutter|2|0|0|1|11|87
+Tony Barnette|R|Coco Crisp|L|Flyout|B|Splitter|3|1|0|1|14|89
+Tony Barnette|R|Coco Crisp|L|Flyout|S|Sinker|4|2|0|1|11|91
+Tony Barnette|R|Coco Crisp|L|Flyout|F|Splitter|5|2|1|1|5|89
+Tony Barnette|R|Coco Crisp|L|Flyout|F|Cutter|6|2|2|1|11|88
+Tony Barnette|R|Coco Crisp|L|Flyout|B|Slider|7|2|2|1|14|78
+Tony Barnette|R|Coco Crisp|L|Flyout|X|Splitter|8|3|2|1|7|88
+Tony Barnette|R|Jed Lowrie|L|Groundout|B|Cutter|9|0|0|2|11|88
+Tony Barnette|R|Jed Lowrie|L|Groundout|B|Splitter|10|1|0|2|13|85
+Tony Barnette|R|Jed Lowrie|L|Groundout|X|Splitter|11|2|0|2|7|89
+Tony Barnette|R|Drew Butera|R|Lineout|B|Sinker|0|0|0|0|14|90
+Tony Barnette|R|Drew Butera|R|Lineout|C|Cutter|1|1|0|0|4|87
+Tony Barnette|R|Drew Butera|R|Lineout|X|Cutter|2|1|1|0|5|87
+Tony Barnette|R|Jarrod Dyson|L|Lineout|B|Curveball|3|0|0|1|14|77
+Tony Barnette|R|Jarrod Dyson|L|Lineout|X|Sinker|4|1|0|1|4|90
+Tony Barnette|R|Adalberto Mondesi|L|Groundout|B|Splitter|5|0|0|2|13|89
+Tony Barnette|R|Adalberto Mondesi|L|Groundout|X|Splitter|6|1|0|2|11|88
+Tony Barnette|R|Evan Gattis|R|Double|B|Cutter|0|0|0|0|14|87
+Tony Barnette|R|Evan Gattis|R|Double|D|Cutter|1|1|0|0|5|87
+Tony Barnette|R|Tyler White|R|Flyout|*B|Sinker|2|0|0|0|13|90
+Tony Barnette|R|Tyler White|R|Flyout|X|Sinker|3|1|0|0|4|92
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|B|Cutter|4|0|0|1|13|87
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|B|Cutter|5|1|0|1|14|86
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|C|Cutter|6|2|0|1|7|85
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|S|Curveball|7|2|1|1|13|76
+Tony Barnette|R|Marwin Gonzalez|L|Strikeout|W|Curveball|8|2|2|1|14|76
+Tony Barnette|R|Carlos Gomez|R|Flyout|C|Curveball|9|0|0|2|7|76
+Tony Barnette|R|Carlos Gomez|R|Flyout|S|Cutter|10|0|1|2|14|85
+Tony Barnette|R|Carlos Gomez|R|Flyout|F|Curveball|11|0|2|2|9|76
+Tony Barnette|R|Carlos Gomez|R|Flyout|F|Cutter|12|0|2|2|9|86
+Tony Barnette|R|Carlos Gomez|R|Flyout|B|Sinker|13|0|2|2|14|93
+Tony Barnette|R|Carlos Gomez|R|Flyout|X|Cutter|14|1|2|2|9|86
+Tony Barnette|R|Jose Altuve|R|Forceout|B|Cutter|0|0|0|1|14|87
+Tony Barnette|R|Jose Altuve|R|Forceout|B|Splitter|1|1|0|1|7|88
+Tony Barnette|R|Jose Altuve|R|Forceout|B|Cutter|2|2|0|1|14|87
+Tony Barnette|R|Jose Altuve|R|Forceout|T|Cutter|3|3|0|1|9|88
+Tony Barnette|R|Jose Altuve|R|Forceout|X|Cutter|4|3|1|1|9|86
+Tony Barnette|R|Carlos Correa|R|Single|D|Cutter|5|0|0|2|14|86
+Tony Barnette|R|Evan Gattis|R|Strikeout|B|Cutter|6|0|0|2|14|85
+Tony Barnette|R|Evan Gattis|R|Strikeout|S|Cutter|7|1|0|2|14|86
+Tony Barnette|R|Evan Gattis|R|Strikeout|S|Cutter|8|1|1|2|2|85
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Cutter|9|1|2|2|14|86
+Tony Barnette|R|Evan Gattis|R|Strikeout|S|Cutter|10|1|2|2|12|91
+Tony Barnette|R|Preston Tucker|L|Single|D|Cutter|11|0|0|0|6|85
+Tony Barnette|R|AJ Reed|L|Grounded Into DP|B|Four-Seam Fastball|12|0|0|0|14|92
+Tony Barnette|R|AJ Reed|L|Grounded Into DP|B|Cutter|13|1|0|0|14|86
+Tony Barnette|R|AJ Reed|L|Grounded Into DP|X|Splitter|14|2|0|0|7|88
+Tony Barnette|R|Ryan Raburn|R|Walk|B|Cutter|0|0|0|2|14|87
+Tony Barnette|R|Ryan Raburn|R|Walk|B|Cutter|1|1|0|2|14|86
+Tony Barnette|R|Ryan Raburn|R|Walk|S|Cutter|2|2|0|2|5|86
+Tony Barnette|R|Ryan Raburn|R|Walk|B|Cutter|3|2|1|2|14|87
+Tony Barnette|R|Ryan Raburn|R|Walk|B|Cutter|4|3|1|2|11|86
+Tony Barnette|R|Gerardo Parra|L|Groundout|S|Curveball|5|0|0|2|14|78
+Tony Barnette|R|Gerardo Parra|L|Groundout|F|Cutter|6|0|1|2|4|86
+Tony Barnette|R|Gerardo Parra|L|Groundout|X|Cutter|7|0|2|2|6|88
+Tony Barnette|R|Nick Hundley|R|Strikeout|F|Cutter|8|0|0|0|5|88
+Tony Barnette|R|Nick Hundley|R|Strikeout|F|Cutter|9|0|1|0|6|88
+Tony Barnette|R|Nick Hundley|R|Strikeout|S|Cutter|10|0|2|0|14|88
+Tony Barnette|R|Cristhian Adames|L|Groundout|S|Cutter|11|0|0|1|6|89
+Tony Barnette|R|Cristhian Adames|L|Groundout|C|Cutter|12|0|1|1|8|88
+Tony Barnette|R|Cristhian Adames|L|Groundout|B|Cutter|13|0|2|1|14|87
+Tony Barnette|R|Cristhian Adames|L|Groundout|B|Cutter|14|1|2|1|14|87
+Tony Barnette|R|Cristhian Adames|L|Groundout|B|Cutter|15|2|2|1|13|87
+Tony Barnette|R|Cristhian Adames|L|Groundout|X|Cutter|16|3|2|1|5|87
+Tony Barnette|R|Charlie Blackmon|L|Groundout|B|Cutter|17|0|0|2|14|88
+Tony Barnette|R|Charlie Blackmon|L|Groundout|S|Cutter|18|1|0|2|9|88
+Tony Barnette|R|Charlie Blackmon|L|Groundout|B|Cutter|19|1|1|2|14|88
+Tony Barnette|R|Charlie Blackmon|L|Groundout|F|Cutter|20|2|1|2|14|88
+Tony Barnette|R|Charlie Blackmon|L|Groundout|X|Cutter|21|2|2|2|4|85
+Tony Barnette|R|Tyler Collins|L|Home Run|E|Splitter|0|0|0|2|5|89
+Tony Barnette|R|Miguel Cabrera|R|Double|F|Cutter|1|0|0|2|2|88
+Tony Barnette|R|Miguel Cabrera|R|Double|S|Cutter|2|0|1|2|14|88
+Tony Barnette|R|Miguel Cabrera|R|Double|D|Cutter|3|0|2|2|9|88
+Tony Barnette|R|Victor Martinez|L|Strikeout|C|Cutter|4|0|0|2|1|88
+Tony Barnette|R|Victor Martinez|L|Strikeout|B|Cutter|5|0|1|2|14|90
+Tony Barnette|R|Victor Martinez|L|Strikeout|B|Cutter|6|1|1|2|13|90
+Tony Barnette|R|Victor Martinez|L|Strikeout|C|Cutter|7|2|1|2|13|89
+Tony Barnette|R|Victor Martinez|L|Strikeout|F|Cutter|8|2|2|2|13|88
+Tony Barnette|R|Victor Martinez|L|Strikeout|S|Cutter|9|2|2|2|14|88
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|14|92
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|C|Cutter|1|1|0|1|6|87
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|B|Sinker|2|1|1|1|14|91
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|F|Cutter|3|2|1|1|14|88
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|B|Cutter|4|2|2|1|14|87
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|F|Cutter|5|3|2|1|14|86
+Tony Barnette|R|Mikie Mahtook|R|Strikeout|S|Cutter|6|3|2|1|14|87
+Tony Barnette|R|Corey Dickerson|L|Double|B|Curveball|7|0|0|2|13|79
+Tony Barnette|R|Corey Dickerson|L|Double|D|Cutter|8|1|0|2|6|88
+Tony Barnette|R|Evan Longoria|R|Single|*B|Curveball|9|0|0|2|14|78
+Tony Barnette|R|Evan Longoria|R|Single|C|Cutter|10|1|0|2|6|86
+Tony Barnette|R|Evan Longoria|R|Single|E|Sinker|11|1|1|2|7|90
+Tony Barnette|R|Roberto Perez|R|Walk|B|Cutter|0|0|0|0|13|88
+Tony Barnette|R|Roberto Perez|R|Walk|B|Cutter|1|1|0|0|14|88
+Tony Barnette|R|Roberto Perez|R|Walk|S|Cutter|2|2|0|0|14|88
+Tony Barnette|R|Roberto Perez|R|Walk|B|Cutter|3|2|1|0|13|87
+Tony Barnette|R|Roberto Perez|R|Walk|C|Cutter|4|3|1|0|13|87
+Tony Barnette|R|Roberto Perez|R|Walk|B|Cutter|5|3|2|0|14|87
+Tony Barnette|R|Rajai Davis|R|Flyout|C|Cutter|6|0|0|0|4|88
+Tony Barnette|R|Rajai Davis|R|Flyout|*B|Cutter|7|0|1|0|14|86
+Tony Barnette|R|Rajai Davis|R|Flyout|F|Cutter|8|1|1|0|14|88
+Tony Barnette|R|Rajai Davis|R|Flyout|B|Curveball|9|1|2|0|14|78
+Tony Barnette|R|Rajai Davis|R|Flyout|X|Cutter|10|2|2|0|4|86
+Tony Barnette|R|Michael Martinez|L|Groundout|C|Cutter|11|0|0|1|9|87
+Tony Barnette|R|Michael Martinez|L|Groundout|X|Cutter|12|0|1|1|4|88
+Tony Barnette|R|Francisco Lindor|L|Groundout|B|Slider|13|0|0|2|11|85
+Tony Barnette|R|Francisco Lindor|L|Groundout|X|Cutter|14|1|0|2|9|87
+Tony Barnette|R|Abraham Almonte|L|Single|F|Sinker|0|0|0|0|11|92
+Tony Barnette|R|Abraham Almonte|L|Single|B|Sinker|1|0|1|0|14|92
+Tony Barnette|R|Abraham Almonte|L|Single|B|Cutter|2|1|1|0|14|89
+Tony Barnette|R|Abraham Almonte|L|Single|B|Cutter|3|2|1|0|13|87
+Tony Barnette|R|Abraham Almonte|L|Single|D|Sinker|4|3|1|0|4|90
+Tony Barnette|R|Tyler Naquin|L|Strikeout|F|Cutter|5|0|0|0|14|87
+Tony Barnette|R|Tyler Naquin|L|Strikeout|B|Cutter|6|0|1|0|13|86
+Tony Barnette|R|Tyler Naquin|L|Strikeout|F|Cutter|7|1|1|0|14|88
+Tony Barnette|R|Tyler Naquin|L|Strikeout|S|Four-Seam Fastball|8|1|2|0|11|91
+Tony Barnette|R|Roberto Perez|R|Strikeout|*B|Cutter|9|0|0|1|14|86
+Tony Barnette|R|Roberto Perez|R|Strikeout|C|Sinker|10|1|0|1|13|90
+Tony Barnette|R|Roberto Perez|R|Strikeout|S|Curveball|11|1|1|1|14|77
+Tony Barnette|R|Roberto Perez|R|Strikeout|*B|Curveball|12|1|2|1|13|79
+Tony Barnette|R|Roberto Perez|R|Strikeout|B|Splitter|13|2|2|1|13|87
+Tony Barnette|R|Roberto Perez|R|Strikeout|S|Sinker|14|3|2|1|11|91
+Tony Barnette|R|Carlos Santana|L|Groundout|*B|Curveball|15|0|0|2|14|77
+Tony Barnette|R|Carlos Santana|L|Groundout|S|Splitter|16|1|0|2|13|83
+Tony Barnette|R|Carlos Santana|L|Groundout|F|Cutter|17|1|1|2|12|86
+Tony Barnette|R|Carlos Santana|L|Groundout|B|Curveball|18|1|2|2|13|76
+Tony Barnette|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|19|2|2|2|2|91
+Tony Barnette|R|Shawn O'Malley|L|Strikeout|C|Sinker|0|0|0|0|4|91
+Tony Barnette|R|Shawn O'Malley|L|Strikeout|C|Sinker|1|0|1|0|6|91
+Tony Barnette|R|Shawn O'Malley|L|Strikeout|B|Splitter|2|0|2|0|11|85
+Tony Barnette|R|Shawn O'Malley|L|Strikeout|S|Curveball|3|1|2|0|9|78
+Tony Barnette|R|Ketel Marte|L|Flyout|C|Cutter|4|0|0|1|5|88
+Tony Barnette|R|Ketel Marte|L|Flyout|B|Splitter|5|0|1|1|11|89
+Tony Barnette|R|Ketel Marte|L|Flyout|X|Sinker|6|1|1|1|6|92
+Tony Barnette|R|Robinson Cano|L|Pop Out|X|Splitter|7|0|0|2|7|86
+Tony Barnette|R|Franklin Gutierrez|R|Groundout|C|Four-Seam Fastball|8|0|0|0|9|91
+Tony Barnette|R|Franklin Gutierrez|R|Groundout|S|Cutter|9|0|1|0|14|88
+Tony Barnette|R|Franklin Gutierrez|R|Groundout|F|Curveball|10|0|2|0|5|77
+Tony Barnette|R|Franklin Gutierrez|R|Groundout|X|Cutter|11|0|2|0|14|87
+Tony Barnette|R|Kyle Seager|L|Home Run|C|Sinker|12|0|0|1|7|91
+Tony Barnette|R|Kyle Seager|L|Home Run|C|Curveball|13|0|1|1|13|78
+Tony Barnette|R|Kyle Seager|L|Home Run|B|Splitter|14|0|2|1|13|86
+Tony Barnette|R|Kyle Seager|L|Home Run|B|Sinker|15|1|2|1|13|92
+Tony Barnette|R|Kyle Seager|L|Home Run|F|Cutter|16|2|2|1|4|88
+Tony Barnette|R|Kyle Seager|L|Home Run|F|Cutter|17|2|2|1|14|88
+Tony Barnette|R|Kyle Seager|L|Home Run|E|Sinker|18|2|2|1|6|92
+Tony Barnette|R|Dae-Ho Lee|R|Groundout|S|Four-Seam Fastball|19|0|0|1|5|93
+Tony Barnette|R|Dae-Ho Lee|R|Groundout|C|Four-Seam Fastball|20|0|1|1|14|93
+Tony Barnette|R|Dae-Ho Lee|R|Groundout|X|Cutter|21|0|2|1|14|89
+Tony Barnette|R|Leonys Martin|L|Groundout|B|Splitter|22|0|0|2|14|90
+Tony Barnette|R|Leonys Martin|L|Groundout|S|Sinker|23|1|0|2|4|93
+Tony Barnette|R|Leonys Martin|L|Groundout|B|Sinker|24|1|1|2|13|93
+Tony Barnette|R|Leonys Martin|L|Groundout|X|Splitter|25|2|1|2|13|90
+Tony Barnette|R|Tony Kemp|L|Strikeout|B|Cutter|0|0|0|0|14|87
+Tony Barnette|R|Tony Kemp|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|12|91
+Tony Barnette|R|Tony Kemp|L|Strikeout|B|Curveball|2|1|1|0|14|78
+Tony Barnette|R|Tony Kemp|L|Strikeout|F|Cutter|3|2|1|0|2|87
+Tony Barnette|R|Tony Kemp|L|Strikeout|S|Cutter|4|2|2|0|11|86
+Tony Barnette|R|George Springer|R|Flyout|F|Sinker|5|0|0|1|11|90
+Tony Barnette|R|George Springer|R|Flyout|F|Cutter|6|0|1|1|6|87
+Tony Barnette|R|George Springer|R|Flyout|X|Slider|7|0|2|1|9|79
+Tony Barnette|R|Alex Bregman|R|Triple|E|Curveball|8|0|0|2|7|77
+Tony Barnette|R|Jose Altuve|R|Field Error|E|Sinker|9|0|0|2|4|93
+Tony Barnette|R|Evan Gattis|R|Strikeout|B|Cutter|0|0|0|2|14|87
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Cutter|1|1|0|2|6|87
+Tony Barnette|R|Evan Gattis|R|Strikeout|C|Four-Seam Fastball|2|1|1|2|8|92
+Tony Barnette|R|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|3|1|2|2|5|92
+Tony Barnette|R|Evan Gattis|R|Strikeout|S|Cutter|4|1|2|2|12|87
+Tony Barnette|R|Colby Rasmus|L|Strikeout|S|Slider|5|0|0|0|9|79
+Tony Barnette|R|Colby Rasmus|L|Strikeout|B|Cutter|6|0|1|0|14|89
+Tony Barnette|R|Colby Rasmus|L|Strikeout|B|Four-Seam Fastball|7|1|1|0|14|92
+Tony Barnette|R|Colby Rasmus|L|Strikeout|B|Curveball|8|2|1|0|11|77
+Tony Barnette|R|Colby Rasmus|L|Strikeout|C|Four-Seam Fastball|9|3|1|0|9|92
+Tony Barnette|R|Colby Rasmus|L|Strikeout|S|Slider|10|3|2|0|14|79
+Tony Barnette|R|Tyler White|R|Groundout|F|Cutter|11|0|0|1|9|88
+Tony Barnette|R|Tyler White|R|Groundout|C|Cutter|12|0|1|1|11|86
+Tony Barnette|R|Tyler White|R|Groundout|X|Curveball|13|0|2|1|13|78
+Tony Barnette|R|Jake Marisnick|R|Strikeout|B|Slider|14|0|0|2|14|77
+Tony Barnette|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|15|1|0|2|5|91
+Tony Barnette|R|Jake Marisnick|R|Strikeout|F|Cutter|16|1|1|2|9|86
+Tony Barnette|R|Jake Marisnick|R|Strikeout|B|Curveball|17|1|2|2|14|78
+Tony Barnette|R|Jake Marisnick|R|Strikeout|B|Sinker|18|2|2|2|11|91
+Tony Barnette|R|Jake Marisnick|R|Strikeout|S|Cutter|19|3|2|2|13|87
+Tony Barnette|R|George Springer|R|Strikeout|S|Cutter|20|0|0|0|6|90
+Tony Barnette|R|George Springer|R|Strikeout|C|Cutter|21|0|1|0|8|87
+Tony Barnette|R|George Springer|R|Strikeout|F|Cutter|22|0|2|0|14|87
+Tony Barnette|R|George Springer|R|Strikeout|F|Cutter|23|0|2|0|14|87
+Tony Barnette|R|George Springer|R|Strikeout|C|Four-Seam Fastball|24|0|2|0|11|92
+Tony Barnette|R|Alex Bregman|R|Single|D|Cutter|25|0|0|1|8|88
+Tony Barnette|R|Jose Altuve|R|Intent Walk|B|Cutter|26|0|0|1|14|87
+Tony Barnette|R|Jose Altuve|R|Intent Walk|B|Cutter|27|1|0|1|14|86
+Tony Barnette|R|Jose Altuve|R|Intent Walk|I|Intentional Ball|28|2|0|1|12|81
+Tony Barnette|R|Jose Altuve|R|Intent Walk|I|Intentional Ball|29|2|1|1|12|80
+Tony Barnette|R|Carlos Correa|R|Forceout|*B|Curveball|30|0|0|1|14|78
+Tony Barnette|R|Carlos Correa|R|Forceout|W|Curveball|31|1|0|1|14|77
+Tony Barnette|R|Carlos Correa|R|Forceout|B|Sinker|32|1|1|1|13|90
+Tony Barnette|R|Carlos Correa|R|Forceout|S|Curveball|33|2|1|1|14|77
+Tony Barnette|R|Carlos Correa|R|Forceout|X|Splitter|34|2|2|1|13|86
+Tony Barnette|R|Orlando Arcia|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|92
+Tony Barnette|R|Orlando Arcia|R|Lineout|S|Cutter|1|1|0|0|9|88
+Tony Barnette|R|Orlando Arcia|R|Lineout|X|Cutter|2|1|1|0|9|89
+Tony Barnette|R|Michael Reed|R|Single|D|Sinker|3|0|0|1|4|93
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|C|Sinker|4|0|0|1|7|92
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|B|Sinker|5|0|1|1|13|90
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|B|Cutter|6|1|1|1|14|88
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|F|Sinker|7|2|1|1|13|91
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|7|92
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|F|Sinker|9|2|2|1|1|91
+Tony Barnette|R|Yadiel Rivera|R|Strikeout|C|Cutter|10|2|2|1|9|88
+Tony Barnette|R|Jonathan Villar|L|Single|B|Cutter|11|0|0|2|14|89
+Tony Barnette|R|Jonathan Villar|L|Single|D|Cutter|12|1|0|2|6|88
+Tony Barnette|R|Scooter Gennett|L|Strikeout|C|Cutter|13|0|0|2|2|88
+Tony Barnette|R|Scooter Gennett|L|Strikeout|S|Cutter|14|0|1|2|5|89
+Tony Barnette|R|Scooter Gennett|L|Strikeout|F|Cutter|15|0|2|2|14|88
+Tony Barnette|R|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|16|0|2|2|11|92
+Tony Barnette|R|Scooter Gennett|L|Strikeout|F|Cutter|17|1|2|2|8|87
+Tony Barnette|R|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|18|1|2|2|13|93
+Tony Barnette|R|Scooter Gennett|L|Strikeout|F|Cutter|19|2|2|2|8|88
+Tony Barnette|R|Scooter Gennett|L|Strikeout|W|Curveball|20|2|2|2|13|79
+Tony Barnette|R|Alexei Ramirez|R|Groundout|F|Four-Seam Fastball|0|0|0|0|9|92
+Tony Barnette|R|Alexei Ramirez|R|Groundout|F|Cutter|1|0|1|0|5|88
+Tony Barnette|R|Alexei Ramirez|R|Groundout|B|Slider|2|0|2|0|14|79
+Tony Barnette|R|Alexei Ramirez|R|Groundout|F|Cutter|3|1|2|0|6|88
+Tony Barnette|R|Alexei Ramirez|R|Groundout|X|Cutter|4|1|2|0|9|88
+Tony Barnette|R|Curt Casali|R|Walk|B|Cutter|5|0|0|1|14|87
+Tony Barnette|R|Curt Casali|R|Walk|F|Sinker|6|1|0|1|13|92
+Tony Barnette|R|Curt Casali|R|Walk|F|Sinker|7|1|1|1|11|92
+Tony Barnette|R|Curt Casali|R|Walk|B|Sinker|8|1|2|1|13|90
+Tony Barnette|R|Curt Casali|R|Walk|F|Cutter|9|2|2|1|9|87
+Tony Barnette|R|Curt Casali|R|Walk|B|Sinker|10|2|2|1|13|92
+Tony Barnette|R|Curt Casali|R|Walk|B|Sinker|11|3|2|1|11|92
+Tony Barnette|R|Juniel Querecuto|L|Forceout|C|Cutter|12|0|0|1|14|89
+Tony Barnette|R|Juniel Querecuto|L|Forceout|B|Cutter|13|0|1|1|14|89
+Tony Barnette|R|Juniel Querecuto|L|Forceout|X|Splitter|14|1|1|1|7|89
+Tony Barnette|R|Tyler Naquin|L|Groundout|C|Sinker|0|0|0|2|4|93
+Tony Barnette|R|Tyler Naquin|L|Groundout|X|Splitter|1|0|1|2|13|86
+Tony Barnette|R|Roberto Perez|R|Single|B|Four-Seam Fastball|2|0|0|0|12|94
+Tony Barnette|R|Roberto Perez|R|Single|B|Cutter|3|1|0|0|11|89
+Tony Barnette|R|Roberto Perez|R|Single|C|Cutter|4|2|0|0|3|89
+Tony Barnette|R|Roberto Perez|R|Single|S|Cutter|5|2|1|0|12|89
+Tony Barnette|R|Roberto Perez|R|Single|D|Cutter|6|2|2|0|6|88
+Tony Barnette|R|Abraham Almonte|L|Groundout|B|Sinker|7|0|0|0|11|92
+Tony Barnette|R|Abraham Almonte|L|Groundout|T|Sinker|8|1|0|0|4|92
+Tony Barnette|R|Abraham Almonte|L|Groundout|B|Splitter|9|1|1|0|14|87
+Tony Barnette|R|Abraham Almonte|L|Groundout|B|Cutter|10|2|1|0|11|89
+Tony Barnette|R|Abraham Almonte|L|Groundout|T|Cutter|11|3|1|0|1|88
+Tony Barnette|R|Abraham Almonte|L|Groundout|F|Cutter|12|3|2|0|5|88
+Tony Barnette|R|Abraham Almonte|L|Groundout|X|Four-Seam Fastball|13|3|2|0|2|92
+Tony Barnette|R|Carlos Santana|L|Strikeout|B|Cutter|14|0|0|1|14|90
+Tony Barnette|R|Carlos Santana|L|Strikeout|B|Cutter|15|1|0|1|14|89
+Tony Barnette|R|Carlos Santana|L|Strikeout|F|Cutter|16|2|0|1|12|87
+Tony Barnette|R|Carlos Santana|L|Strikeout|F|Cutter|17|2|1|1|6|88
+Tony Barnette|R|Carlos Santana|L|Strikeout|S|Curveball|18|2|2|1|5|76
+Tony Barnette|R|Matt Joyce|L|Flyout|C|Sinker|0|0|0|0|4|92
+Tony Barnette|R|Matt Joyce|L|Flyout|B|Cutter|1|0|1|0|14|89
+Tony Barnette|R|Matt Joyce|L|Flyout|B|Cutter|2|1|1|0|14|90
+Tony Barnette|R|Matt Joyce|L|Flyout|F|Sinker|3|2|1|0|11|92
+Tony Barnette|R|Matt Joyce|L|Flyout|X|Curveball|4|2|2|0|4|76
+Tony Barnette|R|Ryon Healy|R|Flyout|B|Curveball|5|0|0|1|11|75
+Tony Barnette|R|Ryon Healy|R|Flyout|B|Cutter|6|1|0|1|14|90
+Tony Barnette|R|Ryon Healy|R|Flyout|B|Cutter|7|2|0|1|11|88
+Tony Barnette|R|Ryon Healy|R|Flyout|C|Four-Seam Fastball|8|3|0|1|2|92
+Tony Barnette|R|Ryon Healy|R|Flyout|F|Four-Seam Fastball|9|3|1|1|6|92
+Tony Barnette|R|Ryon Healy|R|Flyout|F|Cutter|10|3|2|1|9|88
+Tony Barnette|R|Ryon Healy|R|Flyout|F|Sinker|11|3|2|1|13|93
+Tony Barnette|R|Ryon Healy|R|Flyout|X|Cutter|12|3|2|1|1|89
+Tony Barnette|R|Khris Davis|R|Groundout|C|Cutter|13|0|0|2|4|88
+Tony Barnette|R|Khris Davis|R|Groundout|B|Curveball|14|0|1|2|14|77
+Tony Barnette|R|Khris Davis|R|Groundout|S|Cutter|15|1|1|2|9|87
+Tony Barnette|R|Khris Davis|R|Groundout|X|Cutter|16|1|2|2|9|89
+Tony Barnette|R|Yonder Alonso|L|Single|B|Sinker|0|0|0|2|14|91
+Tony Barnette|R|Yonder Alonso|L|Single|D|Sinker|1|1|0|2|4|92
+Tony Barnette|R|Mark Canha|R|Field Error|F|Cutter|2|0|0|2|6|89
+Tony Barnette|R|Mark Canha|R|Field Error|F|Cutter|3|0|1|2|9|88
+Tony Barnette|R|Mark Canha|R|Field Error|D|Cutter|4|0|2|2|14|89
+Tony Barnette|R|Rajai Davis|R|Sac Fly|B|Cutter|5|0|0|2|14|90
+Tony Barnette|R|Rajai Davis|R|Sac Fly|E|Cutter|6|1|0|2|14|90
+Tony Barnette|R|Marcus Semien|R|Strikeout|B|Cutter|7|0|0|0|14|91
+Tony Barnette|R|Marcus Semien|R|Strikeout|C|Four-Seam Fastball|8|1|0|0|4|94
+Tony Barnette|R|Marcus Semien|R|Strikeout|B|Four-Seam Fastball|9|1|1|0|13|94
+Tony Barnette|R|Marcus Semien|R|Strikeout|S|Cutter|10|2|1|0|6|88
+Tony Barnette|R|Marcus Semien|R|Strikeout|F|Sinker|11|2|2|0|11|93
+Tony Barnette|R|Marcus Semien|R|Strikeout|S|Cutter|12|2|2|0|3|87
+Tony Barnette|R|Matt Joyce|L|Groundout|X|Cutter|13|0|0|1|2|89
+Tony Barnette|R|Mike Trout|R|Double|B|Four-Seam Fastball|0|0|0|0|14|93
+Tony Barnette|R|Mike Trout|R|Double|B|Cutter|1|1|0|0|14|88
+Tony Barnette|R|Mike Trout|R|Double|C|Cutter|2|2|0|0|9|88
+Tony Barnette|R|Mike Trout|R|Double|D|Sinker|3|2|1|0|4|92
+Tony Barnette|R|Albert Pujols|R|Lineout|C|Cutter|4|0|0|0|6|87
+Tony Barnette|R|Albert Pujols|R|Lineout|F|Sinker|5|0|1|0|13|91
+Tony Barnette|R|Albert Pujols|R|Lineout|*B|Curveball|6|0|2|0|14|78
+Tony Barnette|R|Albert Pujols|R|Lineout|F|Cutter|7|1|2|0|14|87
+Tony Barnette|R|Albert Pujols|R|Lineout|B|Curveball|8|1|2|0|14|76
+Tony Barnette|R|Albert Pujols|R|Lineout|X|Sinker|9|2|2|0|5|91
+Tony Barnette|R|Andrelton Simmons|R|Groundout|X|Cutter|10|0|0|1|5|87
+Tony Barnette|R|Cameron Maybin|R|Double|E|Cutter|11|0|0|2|14|89
+Tony Barnette|R|Jefry Marte|R|Groundout|X|Cutter|12|0|0|2|6|87
+Tony Barnette|R|Kyle Seager|L|Double|B|Curveball|0|0|0|0|11|75
+Tony Barnette|R|Kyle Seager|L|Double|C|Sinker|1|1|0|0|11|92
+Tony Barnette|R|Kyle Seager|L|Double|B|Sinker|2|1|1|0|14|92
+Tony Barnette|R|Kyle Seager|L|Double|B|Cutter|3|2|1|0|12|89
+Tony Barnette|R|Kyle Seager|L|Double|F|Sinker|4|3|1|0|2|92
+Tony Barnette|R|Kyle Seager|L|Double|F|Four-Seam Fastball|5|3|2|0|12|93
+Tony Barnette|R|Kyle Seager|L|Double|F|Splitter|6|3|2|0|13|86
+Tony Barnette|R|Kyle Seager|L|Double|F|Cutter|7|3|2|0|12|89
+Tony Barnette|R|Kyle Seager|L|Double|D|Sinker|8|3|2|0|13|92
+Tony Barnette|R|Taylor Motter|R|Strikeout|C|Cutter|9|0|0|0|1|88
+Tony Barnette|R|Taylor Motter|R|Strikeout|F|Cutter|10|0|1|0|5|87
+Tony Barnette|R|Taylor Motter|R|Strikeout|B|Curveball|11|0|2|0|11|75
+Tony Barnette|R|Taylor Motter|R|Strikeout|B|Curveball|12|1|2|0|11|75
+Tony Barnette|R|Taylor Motter|R|Strikeout|C|Cutter|13|2|2|0|13|88
+Tony Barnette|R|Danny Valencia|R|Double|E|Cutter|14|0|0|1|8|88
+Tony Barnette|R|Carlos Ruiz|R|Strikeout|C|Cutter|15|0|0|1|9|89
+Tony Barnette|R|Carlos Ruiz|R|Strikeout|B|Sinker|16|0|1|1|14|93
+Tony Barnette|R|Carlos Ruiz|R|Strikeout|S|Four-Seam Fastball|17|1|1|1|11|92
+Tony Barnette|R|Carlos Ruiz|R|Strikeout|S|Sinker|18|1|2|1|14|90
+Tony Barnette|R|Leonys Martin|L|Groundout|X|Cutter|19|0|0|2|14|88
+Tony Barnette|R|Guillermo Heredia|R|Home Run|B|Sinker|20|0|0|0|13|91
+Tony Barnette|R|Guillermo Heredia|R|Home Run|C|Cutter|21|1|0|0|9|89
+Tony Barnette|R|Guillermo Heredia|R|Home Run|S|Cutter|22|1|1|0|14|89
+Tony Barnette|R|Guillermo Heredia|R|Home Run|F|Cutter|23|1|2|0|12|88
+Tony Barnette|R|Guillermo Heredia|R|Home Run|F|Cutter|24|1|2|0|12|90
+Tony Barnette|R|Guillermo Heredia|R|Home Run|F|Four-Seam Fastball|25|1|2|0|5|93
+Tony Barnette|R|Guillermo Heredia|R|Home Run|E|Curveball|26|1|2|0|7|76
+Tony Barnette|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|27|0|0|0|14|94
+Tony Barnette|R|Mitch Haniger|R|Strikeout|F|Sinker|28|0|1|0|11|92
+Tony Barnette|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|29|0|2|0|11|93
+Tony Barnette|R|Mitch Haniger|R|Strikeout|B|Cutter|30|1|2|0|11|88
+Tony Barnette|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|31|2|2|0|6|93
+Tony Barnette|R|Jed Lowrie|L|Walk|B|Cutter|0|0|0|1|14|90
+Tony Barnette|R|Jed Lowrie|L|Walk|B|Cutter|1|1|0|1|14|89
+Tony Barnette|R|Jed Lowrie|L|Walk|F|Sinker|2|2|0|1|8|91
+Tony Barnette|R|Jed Lowrie|L|Walk|F|Cutter|3|2|1|1|12|88
+Tony Barnette|R|Jed Lowrie|L|Walk|*B|Splitter|4|2|2|1|13|86
+Tony Barnette|R|Jed Lowrie|L|Walk|B|Cutter|5|3|2|1|11|86
+Tony Barnette|R|Khris Davis|R|Sac Fly|F|Cutter|6|0|0|1|3|89
+Tony Barnette|R|Khris Davis|R|Sac Fly|S|Cutter|7|0|1|1|14|89
+Tony Barnette|R|Khris Davis|R|Sac Fly|B|Cutter|8|0|2|1|14|88
+Tony Barnette|R|Khris Davis|R|Sac Fly|E|Sinker|9|1|2|1|13|93
+Tony Barnette|R|Brandon Moss|L|Groundout|C|Four-Seam Fastball|0|0|0|0|2|95
+Tony Barnette|R|Brandon Moss|L|Groundout|S|Splitter|1|0|1|0|13|87
+Tony Barnette|R|Brandon Moss|L|Groundout|B|Splitter|2|0|2|0|13|87
+Tony Barnette|R|Brandon Moss|L|Groundout|B|Four-Seam Fastball|3|1|2|0|12|94
+Tony Barnette|R|Brandon Moss|L|Groundout|B|Cutter|4|2|2|0|14|90
+Tony Barnette|R|Brandon Moss|L|Groundout|X|Four-Seam Fastball|5|3|2|0|4|94
+Tony Barnette|R|Alcides Escobar|R|Strikeout|S|Four-Seam Fastball|6|0|0|1|5|94
+Tony Barnette|R|Alcides Escobar|R|Strikeout|F|Sinker|7|0|1|1|13|94
+Tony Barnette|R|Alcides Escobar|R|Strikeout|S|Cutter|8|0|2|1|2|90
+Tony Barnette|R|Paulo Orlando|R|Strikeout|C|Cutter|9|0|0|2|7|89
+Tony Barnette|R|Paulo Orlando|R|Strikeout|S|Curveball|10|0|1|2|14|78
+Tony Barnette|R|Paulo Orlando|R|Strikeout|W|Curveball|11|0|2|2|14|80
+Tony Barnette|R|Brian Dozier|R|Single|C|Cutter|0|0|0|2|6|89
+Tony Barnette|R|Brian Dozier|R|Single|*B|Curveball|1|0|1|2|14|78
+Tony Barnette|R|Brian Dozier|R|Single|C|Cutter|2|1|1|2|6|88
+Tony Barnette|R|Brian Dozier|R|Single|E|Cutter|3|1|2|2|12|88
+Tony Barnette|R|Jorge Polanco|L|Groundout|C|Cutter|4|0|0|2|4|89
+Tony Barnette|R|Jorge Polanco|L|Groundout|X|Splitter|5|0|1|2|4|89
+Tony Barnette|R|Andrelton Simmons|R|Lineout|C|Four-Seam Fastball|0|0|0|2|6|93
+Tony Barnette|R|Andrelton Simmons|R|Lineout|B|Sinker|1|0|1|2|8|92
+Tony Barnette|R|Andrelton Simmons|R|Lineout|S|Curveball|2|1|1|2|14|78
+Tony Barnette|R|Andrelton Simmons|R|Lineout|F|Curveball|3|1|2|2|13|79
+Tony Barnette|R|Andrelton Simmons|R|Lineout|F|Four-Seam Fastball|4|1|2|2|4|94
+Tony Barnette|R|Andrelton Simmons|R|Lineout|B|Four-Seam Fastball|5|1|2|2|13|93
+Tony Barnette|R|Andrelton Simmons|R|Lineout|X|Cutter|6|2|2|2|9|90
+Tony Barnette|R|Cameron Maybin|R|Walk|C|Curveball|7|0|0|0|8|78
+Tony Barnette|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|8|0|1|0|13|93
+Tony Barnette|R|Cameron Maybin|R|Walk|S|Curveball|9|1|1|0|13|79
+Tony Barnette|R|Cameron Maybin|R|Walk|B|Curveball|10|1|2|0|14|82
+Tony Barnette|R|Cameron Maybin|R|Walk|F|Four-Seam Fastball|11|2|2|0|11|94
+Tony Barnette|R|Cameron Maybin|R|Walk|B|Curveball|12|2|2|0|14|79
+Tony Barnette|R|Cameron Maybin|R|Walk|B|Cutter|13|3|2|0|14|89
+Tony Barnette|R|Danny Espinosa|L|Lineout|S|Cutter|14|0|0|0|14|90
+Tony Barnette|R|Danny Espinosa|L|Lineout|B|Cutter|15|0|1|0|14|89
+Tony Barnette|R|Danny Espinosa|L|Lineout|*B|Four-Seam Fastball|16|1|1|0|14|93
+Tony Barnette|R|Danny Espinosa|L|Lineout|F|Cutter|17|2|1|0|9|88
+Tony Barnette|R|Danny Espinosa|L|Lineout|B|Four-Seam Fastball|18|2|2|0|11|92
+Tony Barnette|R|Danny Espinosa|L|Lineout|X|Four-Seam Fastball|19|3|2|0|9|93
+Tony Barnette|R|Martin Maldonado|R|Pop Out|F|Cutter|20|0|0|1|5|89
+Tony Barnette|R|Martin Maldonado|R|Pop Out|S|Sinker|21|0|1|1|13|92
+Tony Barnette|R|Martin Maldonado|R|Pop Out|X|Curveball|22|0|2|1|13|78
+Tony Barnette|R|George Springer|R|Single|B|Cutter|0|0|0|0|14|91
+Tony Barnette|R|George Springer|R|Single|B|Cutter|1|1|0|0|14|90
+Tony Barnette|R|George Springer|R|Single|E|Cutter|2|2|0|0|14|89
+Tony Barnette|R|Josh Reddick|L|Forceout|B|Cutter|3|0|0|0|13|90
+Tony Barnette|R|Josh Reddick|L|Forceout|X|Sinker|4|1|0|0|13|91
+Tony Barnette|R|Jose Altuve|R|Double|C|Cutter|5|0|0|1|14|90
+Tony Barnette|R|Jose Altuve|R|Double|B|Sinker|6|0|1|1|13|93
+Tony Barnette|R|Jose Altuve|R|Double|B|Sinker|7|1|1|1|13|93
+Tony Barnette|R|Jose Altuve|R|Double|B|Cutter|8|2|1|1|14|89
+Tony Barnette|R|Jose Altuve|R|Double|E|Sinker|9|3|1|1|13|93
+Tony Barnette|R|Carlos Correa|R|Double|F|Cutter|10|0|0|1|14|91
+Tony Barnette|R|Carlos Correa|R|Double|B|Sinker|11|0|1|1|11|93
+Tony Barnette|R|Carlos Correa|R|Double|B|Cutter|12|1|1|1|3|90
+Tony Barnette|R|Carlos Correa|R|Double|E|Four-Seam Fastball|13|2|1|1|9|94
+Tony Barnette|R|Yuli Gurriel|R|Single|B|Sinker|0|0|0|0|13|91
+Tony Barnette|R|Yuli Gurriel|R|Single|B|Cutter|1|1|0|0|14|88
+Tony Barnette|R|Yuli Gurriel|R|Single|B|Four-Seam Fastball|2|2|0|0|14|93
+Tony Barnette|R|Yuli Gurriel|R|Single|C|Four-Seam Fastball|3|3|0|0|5|92
+Tony Barnette|R|Yuli Gurriel|R|Single|D|Four-Seam Fastball|4|3|1|0|9|92
+Tony Barnette|R|Marwin Gonzalez|L|Single|C|Cutter|5|0|0|0|5|89
+Tony Barnette|R|Marwin Gonzalez|L|Single|*B|Curveball|6|0|1|0|14|75
+Tony Barnette|R|Marwin Gonzalez|L|Single|F|Cutter|7|1|1|0|9|89
+Tony Barnette|R|Marwin Gonzalez|L|Single|D|Curveball|8|1|2|0|7|73
+Tony Barnette|R|Alex Bregman|R|Single|B|Sinker|9|0|0|0|11|90
+Tony Barnette|R|Alex Bregman|R|Single|S|Cutter|10|1|0|0|3|88
+Tony Barnette|R|Alex Bregman|R|Single|B|Cutter|11|1|1|0|14|89
+Tony Barnette|R|Alex Bregman|R|Single|S|Cutter|12|2|1|0|5|86
+Tony Barnette|R|Alex Bregman|R|Single|D|Cutter|13|2|2|0|14|87
+Tony Barnette|R|Guillermo Heredia|R|Groundout|C|Four-Seam Fastball|0|0|0|2|9|94
+Tony Barnette|R|Guillermo Heredia|R|Groundout|F|Cutter|1|0|1|2|14|88
+Tony Barnette|R|Guillermo Heredia|R|Groundout|B|Curveball|2|0|2|2|14|80
+Tony Barnette|R|Guillermo Heredia|R|Groundout|X|Cutter|3|1|2|2|9|88
+Tony Barnette|R|Mike Freeman|L|Groundout|B|Cutter|4|0|0|0|14|89
+Tony Barnette|R|Mike Freeman|L|Groundout|B|Four-Seam Fastball|5|1|0|0|13|93
+Tony Barnette|R|Mike Freeman|L|Groundout|C|Cutter|6|2|0|0|4|86
+Tony Barnette|R|Mike Freeman|L|Groundout|F|Cutter|7|2|1|0|8|89
+Tony Barnette|R|Mike Freeman|L|Groundout|B|Four-Seam Fastball|8|2|2|0|12|92
+Tony Barnette|R|Mike Freeman|L|Groundout|X|Cutter|9|3|2|0|13|88
+Tony Barnette|R|Jarrod Dyson|L|Lineout|B|Cutter|10|0|0|1|11|88
+Tony Barnette|R|Jarrod Dyson|L|Lineout|X|Cutter|11|1|0|1|4|87
+Tony Barnette|R|Jean Segura|R|Double|C|Cutter|12|0|0|2|8|87
+Tony Barnette|R|Jean Segura|R|Double|D|Curveball|13|0|1|2|13|78
+Tony Barnette|R|Ben Gamel|L|Strikeout|L|Cutter|14|0|0|2|12|88
+Tony Barnette|R|Ben Gamel|L|Strikeout|L|Cutter|15|0|1|2|14|86
+Tony Barnette|R|Ben Gamel|L|Strikeout|C|Cutter|16|0|2|2|5|87
+Tony Barnette|R|Robinson Cano|L|Intent Walk|V|N/A|17|0|0|0|0|0
+Tony Barnette|R|Robinson Cano|L|Intent Walk|V|N/A|18|0|1|0|0|0
+Tony Barnette|R|Robinson Cano|L|Intent Walk|V|N/A|19|0|2|0|0|0
+Tony Barnette|R|Robinson Cano|L|Intent Walk|V|N/A|20|0|2|0|0|0
+Tony Barnette|R|Nelson Cruz|R|Flyout|C|Cutter|21|0|0|0|7|89
+Tony Barnette|R|Nelson Cruz|R|Flyout|B|Sinker|22|0|1|0|13|92
+Tony Barnette|R|Nelson Cruz|R|Flyout|X|Cutter|23|1|1|0|8|88
+Tony Barnette|R|Kyle Seager|L|Groundout|C|Cutter|24|0|0|1|2|90
+Tony Barnette|R|Kyle Seager|L|Groundout|*B|Splitter|25|0|1|1|13|88
+Tony Barnette|R|Kyle Seager|L|Groundout|F|Splitter|26|1|1|1|13|85
+Tony Barnette|R|Kyle Seager|L|Groundout|*B|Splitter|27|1|2|1|13|87
+Tony Barnette|R|Kyle Seager|L|Groundout|X|Cutter|28|2|2|1|14|88
+Tony Barnette|R|Danny Valencia|R|Strikeout|B|Cutter|29|0|0|2|14|87
+Tony Barnette|R|Danny Valencia|R|Strikeout|F|Cutter|30|1|0|2|14|89
+Tony Barnette|R|Danny Valencia|R|Strikeout|S|Four-Seam Fastball|31|1|1|2|13|91
+Tony Barnette|R|Danny Valencia|R|Strikeout|B|Splitter|32|1|2|2|13|89
+Tony Barnette|R|Danny Valencia|R|Strikeout|F|Cutter|33|2|2|2|14|88
+Tony Barnette|R|Danny Valencia|R|Strikeout|F|Sinker|34|2|2|2|13|93
+Tony Barnette|R|Danny Valencia|R|Strikeout|S|Curveball|35|2|2|2|14|78
+Tony Barnette|R|Guillermo Heredia|R|Single|C|Cutter|36|0|0|0|9|86
+Tony Barnette|R|Guillermo Heredia|R|Single|B|Cutter|37|0|1|0|14|88
+Tony Barnette|R|Guillermo Heredia|R|Single|X|Cutter|38|1|1|0|3|88
+Tony Barnette|R|Tuffy Gosewisch|R|Flyout|B|Cutter|39|0|0|1|14|89
+Tony Barnette|R|Tuffy Gosewisch|R|Flyout|X|Cutter|40|1|0|1|9|88
+Tony Barnette|R|Manuel Margot|R|Sac Fly|B|Cutter|0|0|0|0|14|91
+Tony Barnette|R|Manuel Margot|R|Sac Fly|C|Sinker|1|1|0|0|13|94
+Tony Barnette|R|Manuel Margot|R|Sac Fly|F|Cutter|2|1|1|0|14|90
+Tony Barnette|R|Manuel Margot|R|Sac Fly|E|Curveball|3|1|2|0|14|80
+Tony Barnette|R|Matt Szczur|R|Lineout|X|Cutter|4|0|0|1|9|90
+Tony Barnette|R|Wil Myers|R|Groundout|C|Cutter|5|0|0|2|7|91
+Tony Barnette|R|Wil Myers|R|Groundout|B|Curveball|6|0|1|2|14|79
+Tony Barnette|R|Wil Myers|R|Groundout|X|Sinker|7|1|1|2|4|94
+Tony Barnette|R|Yangervis Solarte|L|Pop Out|B|Cutter|8|0|0|0|14|90
+Tony Barnette|R|Yangervis Solarte|L|Pop Out|X|Cutter|9|1|0|0|14|90
+Tony Barnette|R|Ryan Schimpf|L|Groundout|F|Cutter|10|0|0|1|6|91
+Tony Barnette|R|Ryan Schimpf|L|Groundout|C|Curveball|11|0|1|1|13|78
+Tony Barnette|R|Ryan Schimpf|L|Groundout|X|Curveball|12|0|2|1|7|80
+Tony Barnette|R|Trevor Plouffe|R|Single|C|Four-Seam Fastball|0|0|0|0|12|94
+Tony Barnette|R|Trevor Plouffe|R|Single|B|Cutter|1|0|1|0|14|90
+Tony Barnette|R|Trevor Plouffe|R|Single|D|Cutter|2|1|1|0|9|90
+Tony Barnette|R|Bruce Maxwell|L|Groundout|C|Sinker|3|0|0|0|7|93
+Tony Barnette|R|Bruce Maxwell|L|Groundout|X|Cutter|4|0|1|0|9|90
+Tony Barnette|R|Adam Rosales|R|Single|F|Cutter|5|0|0|1|6|89
+Tony Barnette|R|Adam Rosales|R|Single|C|Curveball|6|0|1|1|4|77
+Tony Barnette|R|Adam Rosales|R|Single|*B|Curveball|7|0|2|1|14|77
+Tony Barnette|R|Adam Rosales|R|Single|E|Four-Seam Fastball|8|1|2|1|13|92
+Tony Barnette|R|Rajai Davis|R|Single|B|Cutter|9|0|0|1|11|88
+Tony Barnette|R|Rajai Davis|R|Single|B|Cutter|10|1|0|1|14|89
+Tony Barnette|R|Rajai Davis|R|Single|S|Cutter|11|2|0|1|6|88
+Tony Barnette|R|Rajai Davis|R|Single|F|Cutter|12|2|1|1|14|88
+Tony Barnette|R|Rajai Davis|R|Single|B|Cutter|13|2|2|1|14|87
+Tony Barnette|R|Rajai Davis|R|Single|D|Cutter|14|3|2|1|5|87
+Tony Barnette|R|Matt Joyce|L|Grounded Into DP|C|Cutter|15|0|0|1|4|87
+Tony Barnette|R|Matt Joyce|L|Grounded Into DP|B|Cutter|16|0|1|1|13|88
+Tony Barnette|R|Matt Joyce|L|Grounded Into DP|X|Cutter|17|1|1|1|3|88
+Tony Barnette|R|Andres Blanco|L|Lineout|B|Sinker|0|0|0|0|13|93
+Tony Barnette|R|Andres Blanco|L|Lineout|X|Sinker|1|1|0|0|8|94
+Tony Barnette|R|Ty Kelly|L|Strikeout|B|Cutter|2|0|0|1|14|91
+Tony Barnette|R|Ty Kelly|L|Strikeout|B|Four-Seam Fastball|3|1|0|1|11|93
+Tony Barnette|R|Ty Kelly|L|Strikeout|C|Sinker|4|2|0|1|13|93
+Tony Barnette|R|Ty Kelly|L|Strikeout|F|Cutter|5|2|1|1|6|89
+Tony Barnette|R|Ty Kelly|L|Strikeout|F|Cutter|6|2|2|1|14|88
+Tony Barnette|R|Ty Kelly|L|Strikeout|S|Splitter|7|2|2|1|13|87
+Tony Barnette|R|Odubel Herrera|L|Groundout|B|Sinker|8|0|0|2|13|94
+Tony Barnette|R|Odubel Herrera|L|Groundout|S|Sinker|9|1|0|2|1|94
+Tony Barnette|R|Odubel Herrera|L|Groundout|X|Splitter|10|1|1|2|4|89
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|94
+Tony Barnette|R|Justin Upton|R|Walk|F|Curveball|1|1|0|0|7|76
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|2|1|1|0|14|93
+Tony Barnette|R|Justin Upton|R|Walk|S|Four-Seam Fastball|3|2|1|0|14|93
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|4|2|2|0|14|95
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|94
+Tony Barnette|R|Nicholas Castellanos|R|Single|S|Four-Seam Fastball|6|0|0|0|12|92
+Tony Barnette|R|Nicholas Castellanos|R|Single|D|Four-Seam Fastball|7|0|1|0|6|92
+Tony Barnette|R|James McCann|R|Sac Fly|S|Cutter|8|0|0|0|14|87
+Tony Barnette|R|James McCann|R|Sac Fly|F|Cutter|9|0|1|0|3|89
+Tony Barnette|R|James McCann|R|Sac Fly|B|Curveball|10|0|2|0|13|76
+Tony Barnette|R|James McCann|R|Sac Fly|*B|Cutter|11|1|2|0|14|90
+Tony Barnette|R|James McCann|R|Sac Fly|F|Cutter|12|2|2|0|5|87
+Tony Barnette|R|James McCann|R|Sac Fly|B|Curveball|13|2|2|0|13|75
+Tony Barnette|R|James McCann|R|Sac Fly|E|Four-Seam Fastball|14|3|2|0|5|92
+Tony Barnette|R|Andrew Romine|L|Strikeout|C|Cutter|15|0|0|1|12|89
+Tony Barnette|R|Andrew Romine|L|Strikeout|C|Sinker|16|0|1|1|9|91
+Tony Barnette|R|Andrew Romine|L|Strikeout|F|Cutter|17|0|2|1|14|89
+Tony Barnette|R|Andrew Romine|L|Strikeout|B|Splitter|18|0|2|1|13|85
+Tony Barnette|R|Andrew Romine|L|Strikeout|F|Splitter|19|1|2|1|13|85
+Tony Barnette|R|Andrew Romine|L|Strikeout|B|Four-Seam Fastball|20|1|2|1|11|91
+Tony Barnette|R|Andrew Romine|L|Strikeout|F|Cutter|21|2|2|1|14|88
+Tony Barnette|R|Andrew Romine|L|Strikeout|C|Cutter|22|2|2|1|4|89
+Tony Barnette|R|Jose Iglesias|R|Strikeout|C|Four-Seam Fastball|23|0|0|2|2|92
+Tony Barnette|R|Jose Iglesias|R|Strikeout|S|Sinker|24|0|1|2|11|92
+Tony Barnette|R|Jose Iglesias|R|Strikeout|S|Four-Seam Fastball|25|0|2|2|12|93
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|93
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|S|Cutter|1|1|0|0|9|87
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|B|Cutter|2|1|1|0|14|90
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|S|Cutter|3|2|1|0|14|89
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|S|Curveball|4|2|2|0|7|78
+Tony Barnette|R|Sandy Leon|L|Double|S|Four-Seam Fastball|5|0|0|1|5|93
+Tony Barnette|R|Sandy Leon|L|Double|C|Four-Seam Fastball|6|0|1|1|13|94
+Tony Barnette|R|Sandy Leon|L|Double|F|Splitter|7|0|2|1|11|86
+Tony Barnette|R|Sandy Leon|L|Double|B|Curveball|8|0|2|1|13|77
+Tony Barnette|R|Sandy Leon|L|Double|B|Cutter|9|1|2|1|13|87
+Tony Barnette|R|Sandy Leon|L|Double|D|Four-Seam Fastball|10|2|2|1|5|93
+Tony Barnette|R|Deven Marrero|R|Lineout|B|Cutter|11|0|0|1|14|88
+Tony Barnette|R|Deven Marrero|R|Lineout|B|Cutter|12|1|0|1|13|87
+Tony Barnette|R|Deven Marrero|R|Lineout|X|Four-Seam Fastball|13|2|0|1|8|93
+Tony Barnette|R|Mookie Betts|R|Strikeout|B|Cutter|14|0|0|2|14|89
+Tony Barnette|R|Mookie Betts|R|Strikeout|B|Four-Seam Fastball|15|1|0|2|14|93
+Tony Barnette|R|Mookie Betts|R|Strikeout|C|Cutter|16|2|0|2|7|88
+Tony Barnette|R|Mookie Betts|R|Strikeout|B|Cutter|17|2|1|2|13|87
+Tony Barnette|R|Mookie Betts|R|Strikeout|C|Four-Seam Fastball|18|3|1|2|1|93
+Tony Barnette|R|Mookie Betts|R|Strikeout|W|Curveball|19|3|2|2|14|78
+Tony Barnette|R|Dustin Pedroia|R|Single|C|Four-Seam Fastball|20|0|0|0|6|93
+Tony Barnette|R|Dustin Pedroia|R|Single|F|Cutter|21|0|1|0|7|88
+Tony Barnette|R|Dustin Pedroia|R|Single|F|Curveball|22|0|2|0|13|78
+Tony Barnette|R|Dustin Pedroia|R|Single|B|Sinker|23|0|2|0|13|93
+Tony Barnette|R|Dustin Pedroia|R|Single|D|Curveball|24|1|2|0|7|77
+Tony Barnette|R|Xander Bogaerts|R|Forceout|C|Four-Seam Fastball|25|0|0|0|9|93
+Tony Barnette|R|Xander Bogaerts|R|Forceout|X|Cutter|26|0|1|0|8|88
+Tony Barnette|R|Andrew Benintendi|L|Single|*B|Sinker|27|0|0|1|14|93
+Tony Barnette|R|Andrew Benintendi|L|Single|B|Splitter|28|1|0|1|13|86
+Tony Barnette|R|Andrew Benintendi|L|Single|F|Sinker|29|2|0|1|14|92
+Tony Barnette|R|Andrew Benintendi|L|Single|F|Sinker|30|2|1|1|13|92
+Tony Barnette|R|Andrew Benintendi|L|Single|D|Curveball|31|2|2|1|13|78
+Tony Barnette|R|Hanley Ramirez|R|Strikeout|B|Cutter|32|0|0|1|13|87
+Tony Barnette|R|Hanley Ramirez|R|Strikeout|C|Four-Seam Fastball|33|1|0|1|14|92
+Tony Barnette|R|Hanley Ramirez|R|Strikeout|S|Cutter|34|1|1|1|14|88
+Tony Barnette|R|Hanley Ramirez|R|Strikeout|B|Four-Seam Fastball|35|1|2|1|11|92
+Tony Barnette|R|Hanley Ramirez|R|Strikeout|C|Cutter|36|2|2|1|8|88
+Tony Barnette|R|Christian Vazquez|R|Grounded Into DP|C|Cutter|0|0|0|0|8|89
+Tony Barnette|R|Christian Vazquez|R|Grounded Into DP|L|Cutter|1|0|1|0|6|88
+Tony Barnette|R|Christian Vazquez|R|Grounded Into DP|X|Cutter|2|0|2|0|9|88
+Tony Barnette|R|Deven Marrero|R|Strikeout|C|Cutter|3|0|0|2|8|89
+Tony Barnette|R|Deven Marrero|R|Strikeout|W|Curveball|4|0|1|2|14|79
+Tony Barnette|R|Deven Marrero|R|Strikeout|F|Curveball|5|0|2|2|8|79
+Tony Barnette|R|Deven Marrero|R|Strikeout|B|Four-Seam Fastball|6|0|2|2|12|92
+Tony Barnette|R|Deven Marrero|R|Strikeout|W|Curveball|7|1|2|2|14|79
+Tony Barnette|R|Kevin Pillar|R|Strikeout|C|Cutter|0|0|0|1|14|89
+Tony Barnette|R|Kevin Pillar|R|Strikeout|S|Curveball|1|0|1|1|14|78
+Tony Barnette|R|Kevin Pillar|R|Strikeout|*B|Curveball|2|0|2|1|14|79
+Tony Barnette|R|Kevin Pillar|R|Strikeout|B|Sinker|3|1|2|1|13|92
+Tony Barnette|R|Kevin Pillar|R|Strikeout|F|Curveball|4|2|2|1|7|77
+Tony Barnette|R|Kevin Pillar|R|Strikeout|S|Cutter|5|2|2|1|14|87
+Tony Barnette|R|Devon Travis|R|Strikeout|B|Cutter|6|0|0|2|14|89
+Tony Barnette|R|Devon Travis|R|Strikeout|C|Cutter|7|1|0|2|14|88
+Tony Barnette|R|Devon Travis|R|Strikeout|W|Curveball|8|1|1|2|14|80
+Tony Barnette|R|Devon Travis|R|Strikeout|*B|Curveball|9|1|2|2|14|80
+Tony Barnette|R|Devon Travis|R|Strikeout|S|Cutter|10|2|2|2|14|88
+Tony Barnette|R|Colby Rasmus|L|Double|E|Curveball|0|0|0|2|8|77
+Tony Barnette|R|Kevin Kiermaier|L|Intent Walk|V|N/A|1|0|0|2|0|0
+Tony Barnette|R|Kevin Kiermaier|L|Intent Walk|V|N/A|2|0|1|2|0|0
+Tony Barnette|R|Kevin Kiermaier|L|Intent Walk|V|N/A|3|0|2|2|0|0
+Tony Barnette|R|Kevin Kiermaier|L|Intent Walk|V|N/A|4|0|2|2|0|0
+Tony Barnette|R|Tim Beckham|R|Home Run|B|Cutter|5|0|0|2|14|88
+Tony Barnette|R|Tim Beckham|R|Home Run|E|Cutter|6|1|0|2|6|87
+Tony Barnette|R|Derek Norris|R|Lineout|F|Four-Seam Fastball|7|0|0|2|6|93
+Tony Barnette|R|Derek Norris|R|Lineout|S|Cutter|8|0|1|2|14|86
+Tony Barnette|R|Derek Norris|R|Lineout|X|Curveball|9|0|2|2|13|79
+Tony Barnette|R|Daniel Robertson|R|Strikeout|C|Four-Seam Fastball|10|0|0|0|14|90
+Tony Barnette|R|Daniel Robertson|R|Strikeout|C|Cutter|11|0|1|0|9|87
+Tony Barnette|R|Daniel Robertson|R|Strikeout|B|Curveball|12|0|2|0|14|78
+Tony Barnette|R|Daniel Robertson|R|Strikeout|B|Cutter|13|1|2|0|14|87
+Tony Barnette|R|Daniel Robertson|R|Strikeout|B|Cutter|14|2|2|0|14|87
+Tony Barnette|R|Daniel Robertson|R|Strikeout|S|Cutter|15|3|2|0|14|85
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|C|Curveball|16|0|0|1|8|78
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|S|Curveball|17|0|1|1|13|77
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|B|Cutter|18|0|2|1|14|86
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|S|Curveball|19|1|2|1|14|78
+Tony Barnette|R|Corey Dickerson|L|Single|B|Cutter|20|0|0|2|14|87
+Tony Barnette|R|Corey Dickerson|L|Single|F|Cutter|21|1|0|2|14|86
+Tony Barnette|R|Corey Dickerson|L|Single|S|Curveball|22|1|1|2|13|78
+Tony Barnette|R|Corey Dickerson|L|Single|D|Curveball|23|1|2|2|14|77
+Tony Barnette|R|Evan Longoria|R|Strikeout|C|Four-Seam Fastball|24|0|0|2|5|90
+Tony Barnette|R|Evan Longoria|R|Strikeout|F|Cutter|25|0|1|2|7|87
+Tony Barnette|R|Evan Longoria|R|Strikeout|C|Four-Seam Fastball|26|0|2|2|14|92
+Tony Barnette|R|Evan Gattis|R|Pop Out|B|Cutter|0|0|0|2|14|87
+Tony Barnette|R|Evan Gattis|R|Pop Out|S|Cutter|1|1|0|2|14|87
+Tony Barnette|R|Evan Gattis|R|Pop Out|F|Cutter|2|1|1|2|14|88
+Tony Barnette|R|Evan Gattis|R|Pop Out|*B|Curveball|3|1|2|2|14|79
+Tony Barnette|R|Evan Gattis|R|Pop Out|B|Four-Seam Fastball|4|2|2|2|14|93
+Tony Barnette|R|Evan Gattis|R|Pop Out|F|Cutter|5|3|2|2|14|87
+Tony Barnette|R|Evan Gattis|R|Pop Out|X|Sinker|6|3|2|2|11|90
+Tony Barnette|R|Carlos Beltran|L|Groundout|C|Four-Seam Fastball|7|0|0|0|13|93
+Tony Barnette|R|Carlos Beltran|L|Groundout|X|Cutter|8|0|1|0|5|89
+Tony Barnette|R|Marwin Gonzalez|L|Groundout|X|Sinker|9|0|0|1|7|90
+Tony Barnette|R|Yuli Gurriel|R|Home Run|F|Sinker|10|0|0|2|4|90
+Tony Barnette|R|Yuli Gurriel|R|Home Run|B|Cutter|11|0|1|2|14|89
+Tony Barnette|R|Yuli Gurriel|R|Home Run|E|Cutter|12|1|1|2|4|88
+Tony Barnette|R|Alex Bregman|R|Strikeout|C|Cutter|13|0|0|2|14|90
+Tony Barnette|R|Alex Bregman|R|Strikeout|F|Four-Seam Fastball|14|0|1|2|3|93
+Tony Barnette|R|Alex Bregman|R|Strikeout|B|Sinker|15|0|2|2|13|90
+Tony Barnette|R|Alex Bregman|R|Strikeout|W|Curveball|16|1|2|2|14|81
+Tony Barnette|R|Jake Marisnick|R|Flyout|F|Four-Seam Fastball|17|0|0|0|3|93
+Tony Barnette|R|Jake Marisnick|R|Flyout|B|Cutter|18|0|1|0|14|88
+Tony Barnette|R|Jake Marisnick|R|Flyout|B|Curveball|19|1|1|0|14|79
+Tony Barnette|R|Jake Marisnick|R|Flyout|S|Four-Seam Fastball|20|2|1|0|5|92
+Tony Barnette|R|Jake Marisnick|R|Flyout|X|Four-Seam Fastball|21|2|2|0|3|93
+Tony Barnette|R|George Springer|R|Strikeout|C|Cutter|22|0|0|1|2|89
+Tony Barnette|R|George Springer|R|Strikeout|S|Four-Seam Fastball|23|0|1|1|9|94
+Tony Barnette|R|George Springer|R|Strikeout|F|Four-Seam Fastball|24|0|2|1|8|94
+Tony Barnette|R|George Springer|R|Strikeout|S|Four-Seam Fastball|25|0|2|1|14|94
+Tony Barnette|R|Jose Altuve|R|Walk|S|Curveball|26|0|0|2|14|80
+Tony Barnette|R|Jose Altuve|R|Walk|B|Curveball|27|0|1|2|14|81
+Tony Barnette|R|Jose Altuve|R|Walk|B|Sinker|28|1|1|2|13|90
+Tony Barnette|R|Jose Altuve|R|Walk|C|Four-Seam Fastball|29|2|1|2|9|92
+Tony Barnette|R|Jose Altuve|R|Walk|B|Curveball|30|2|2|2|14|79
+Tony Barnette|R|Jose Altuve|R|Walk|B|Four-Seam Fastball|31|3|2|2|14|93
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|32|0|0|2|14|88
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|33|1|0|2|14|89
+Tony Barnette|R|Carlos Correa|R|Walk|S|Cutter|34|2|0|2|14|88
+Tony Barnette|R|Carlos Correa|R|Walk|*B|Four-Seam Fastball|35|2|1|2|14|92
+Tony Barnette|R|Carlos Correa|R|Walk|C|Cutter|36|3|1|2|6|86
+Tony Barnette|R|Carlos Correa|R|Walk|B|Splitter|37|3|2|2|13|89
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|*B|Curveball|0|0|0|0|14|77
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|B|Cutter|1|1|0|0|14|87
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|C|Cutter|2|2|0|0|12|87
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|B|Four-Seam Fastball|3|2|1|0|12|91
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|S|Cutter|4|3|1|0|12|88
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|F|Cutter|5|3|2|0|12|87
+Tony Barnette|R|Anthony Rendon|R|Sac Fly|E|Splitter|6|3|2|0|4|88
+Tony Barnette|R|Adam Lind|L|Home Run|C|Cutter|7|0|0|1|7|88
+Tony Barnette|R|Adam Lind|L|Home Run|E|Splitter|8|0|1|1|11|88
+Tony Barnette|R|Michael A. Taylor|R|Strikeout|F|Cutter|9|0|0|1|12|89
+Tony Barnette|R|Michael A. Taylor|R|Strikeout|S|Curveball|10|0|1|1|14|78
+Tony Barnette|R|Michael A. Taylor|R|Strikeout|B|Curveball|11|0|2|1|13|77
+Tony Barnette|R|Michael A. Taylor|R|Strikeout|S|Cutter|12|1|2|1|14|89
+Tony Barnette|R|Ryan Raburn|R|Single|S|Curveball|13|0|0|2|14|78
+Tony Barnette|R|Ryan Raburn|R|Single|D|Cutter|14|0|1|2|14|88
+Tony Barnette|R|Jose Lobaton|L|Groundout|C|Cutter|15|0|0|2|4|87
+Tony Barnette|R|Jose Lobaton|L|Groundout|C|Cutter|16|0|1|2|4|87
+Tony Barnette|R|Jose Lobaton|L|Groundout|B|Cutter|17|0|2|2|12|87
+Tony Barnette|R|Jose Lobaton|L|Groundout|B|Curveball|18|1|2|2|13|76
+Tony Barnette|R|Jose Lobaton|L|Groundout|B|Cutter|19|2|2|2|11|87
+Tony Barnette|R|Jose Lobaton|L|Groundout|X|Cutter|20|3|2|2|2|86
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|0|0|0|0|14|89
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|1|1|0|0|14|89
+Tony Barnette|R|Carlos Correa|R|Walk|F|Cutter|2|2|0|0|9|87
+Tony Barnette|R|Carlos Correa|R|Walk|B|Curveball|3|2|1|0|13|76
+Tony Barnette|R|Carlos Correa|R|Walk|B|Cutter|4|3|1|0|13|85
+Tony Barnette|R|Carlos Beltran|L|Walk|S|Cutter|5|0|0|0|14|89
+Tony Barnette|R|Carlos Beltran|L|Walk|B|Cutter|6|0|1|0|14|89
+Tony Barnette|R|Carlos Beltran|L|Walk|B|Cutter|7|1|1|0|11|87
+Tony Barnette|R|Carlos Beltran|L|Walk|S|Cutter|8|2|1|0|14|88
+Tony Barnette|R|Carlos Beltran|L|Walk|*B|Cutter|9|2|2|0|14|89
+Tony Barnette|R|Carlos Beltran|L|Walk|F|Cutter|10|3|2|0|9|86
+Tony Barnette|R|Carlos Beltran|L|Walk|F|Cutter|11|3|2|0|14|85
+Tony Barnette|R|Carlos Beltran|L|Walk|F|Cutter|12|3|2|0|9|88
+Tony Barnette|R|Carlos Beltran|L|Walk|F|Curveball|13|3|2|0|8|77
+Tony Barnette|R|Carlos Beltran|L|Walk|*B|Curveball|14|3|2|0|14|79
+Tony Barnette|R|Brian McCann|L|Single|B|Cutter|15|0|0|0|2|87
+Tony Barnette|R|Brian McCann|L|Single|B|Four-Seam Fastball|16|1|0|0|14|91
+Tony Barnette|R|Brian McCann|L|Single|C|Cutter|17|2|0|0|1|88
+Tony Barnette|R|Brian McCann|L|Single|T|Cutter|18|2|1|0|14|88
+Tony Barnette|R|Brian McCann|L|Single|B|Sinker|19|2|2|0|11|92
+Tony Barnette|R|Brian McCann|L|Single|E|Cutter|20|3|2|0|5|87
+Tony Barnette|R|Marwin Gonzalez|L|Single|W|Curveball|21|0|0|0|14|78
+Tony Barnette|R|Marwin Gonzalez|L|Single|C|Curveball|22|0|1|0|7|77
+Tony Barnette|R|Marwin Gonzalez|L|Single|*B|Curveball|23|0|2|0|14|78
+Tony Barnette|R|Marwin Gonzalez|L|Single|E|Cutter|24|1|2|0|5|86
+Tony Barnette|R|Dustin Pedroia|R|Single|*B|Cutter|0|0|0|2|14|87
+Tony Barnette|R|Dustin Pedroia|R|Single|C|Four-Seam Fastball|1|1|0|2|3|93
+Tony Barnette|R|Dustin Pedroia|R|Single|F|Four-Seam Fastball|2|1|1|2|8|93
+Tony Barnette|R|Dustin Pedroia|R|Single|F|Four-Seam Fastball|3|1|2|2|1|93
+Tony Barnette|R|Dustin Pedroia|R|Single|B|Cutter|4|1|2|2|14|89
+Tony Barnette|R|Dustin Pedroia|R|Single|E|Sinker|5|2|2|2|8|91
+Tony Barnette|R|Chris Young|R|Strikeout|T|Cutter|6|0|0|2|6|88
+Tony Barnette|R|Chris Young|R|Strikeout|S|Sinker|7|0|1|2|7|90
+Tony Barnette|R|Chris Young|R|Strikeout|*B|Cutter|8|0|2|2|14|89
+Tony Barnette|R|Chris Young|R|Strikeout|S|Sinker|9|1|2|2|13|90
+Tony Barnette|R|Hanley Ramirez|R|Groundout|C|Cutter|10|0|0|0|9|87
+Tony Barnette|R|Hanley Ramirez|R|Groundout|S|Splitter|11|0|1|0|13|89
+Tony Barnette|R|Hanley Ramirez|R|Groundout|F|Four-Seam Fastball|12|0|2|0|12|91
+Tony Barnette|R|Hanley Ramirez|R|Groundout|B|Sinker|13|0|2|0|13|90
+Tony Barnette|R|Hanley Ramirez|R|Groundout|B|Cutter|14|1|2|0|14|88
+Tony Barnette|R|Hanley Ramirez|R|Groundout|X|Cutter|15|2|2|0|5|86
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|S|Cutter|16|0|0|1|9|89
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|C|Splitter|17|0|1|1|2|87
+Tony Barnette|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|18|0|2|1|11|92
+Tony Barnette|R|Sam Travis|R|Flyout|B|Cutter|19|0|0|2|8|88
+Tony Barnette|R|Sam Travis|R|Flyout|F|Four-Seam Fastball|20|1|0|2|12|93
+Tony Barnette|R|Sam Travis|R|Flyout|X|Cutter|21|1|1|2|1|85
+Tony Barnette|R|Deven Marrero|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|8|94
+Tony Barnette|R|Deven Marrero|R|Pop Out|B|Cutter|1|0|1|0|14|88
+Tony Barnette|R|Deven Marrero|R|Pop Out|S|Cutter|2|1|1|0|9|86
+Tony Barnette|R|Deven Marrero|R|Pop Out|B|Cutter|3|1|2|0|14|87
+Tony Barnette|R|Deven Marrero|R|Pop Out|B|Four-Seam Fastball|4|2|2|0|14|92
+Tony Barnette|R|Deven Marrero|R|Pop Out|X|Four-Seam Fastball|5|3|2|0|2|92
+Tony Barnette|R|Xander Bogaerts|R|Strikeout|B|Cutter|6|0|0|1|14|88
+Tony Barnette|R|Xander Bogaerts|R|Strikeout|C|Four-Seam Fastball|7|1|0|1|3|93
+Tony Barnette|R|Xander Bogaerts|R|Strikeout|T|Four-Seam Fastball|8|1|1|1|5|92
+Tony Barnette|R|Xander Bogaerts|R|Strikeout|S|Four-Seam Fastball|9|1|2|1|12|92
+Tony Barnette|R|Sam Travis|R|Strikeout|C|Four-Seam Fastball|10|0|0|2|6|93
+Tony Barnette|R|Sam Travis|R|Strikeout|B|Cutter|11|0|1|2|14|88
+Tony Barnette|R|Sam Travis|R|Strikeout|B|Cutter|12|1|1|2|14|88
+Tony Barnette|R|Sam Travis|R|Strikeout|F|Cutter|13|2|1|2|5|88
+Tony Barnette|R|Sam Travis|R|Strikeout|S|Four-Seam Fastball|14|2|2|2|3|94
+Tony Barnette|R|Manny Machado|R|Single|E|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Jonathan Schoop|R|Flyout|F|Curveball|1|0|0|2|14|78
+Tony Barnette|R|Jonathan Schoop|R|Flyout|F|Four-Seam Fastball|2|0|1|2|12|94
+Tony Barnette|R|Jonathan Schoop|R|Flyout|*B|Curveball|3|0|2|2|14|79
+Tony Barnette|R|Jonathan Schoop|R|Flyout|X|Curveball|4|1|2|2|4|77
+Tony Barnette|R|Chris Davis|L|Groundout|C|Four-Seam Fastball|5|0|0|0|7|93
+Tony Barnette|R|Chris Davis|L|Groundout|B|Cutter|6|0|1|0|14|89
+Tony Barnette|R|Chris Davis|L|Groundout|X|Cutter|7|1|1|0|9|88
+Tony Barnette|R|Mark Trumbo|R|Strikeout|C|Cutter|8|0|0|1|4|88
+Tony Barnette|R|Mark Trumbo|R|Strikeout|F|Curveball|9|0|1|1|8|78
+Tony Barnette|R|Mark Trumbo|R|Strikeout|B|Splitter|10|0|2|1|13|89
+Tony Barnette|R|Mark Trumbo|R|Strikeout|S|Cutter|11|1|2|1|14|88
+Tony Barnette|R|Trey Mancini|R|Strikeout|S|Cutter|12|0|0|2|14|89
+Tony Barnette|R|Trey Mancini|R|Strikeout|S|Curveball|13|0|1|2|14|79
+Tony Barnette|R|Trey Mancini|R|Strikeout|B|Curveball|14|0|2|2|14|80
+Tony Barnette|R|Trey Mancini|R|Strikeout|F|Sinker|15|1|2|2|4|93
+Tony Barnette|R|Trey Mancini|R|Strikeout|B|Cutter|16|1|2|2|14|89
+Tony Barnette|R|Trey Mancini|R|Strikeout|C|Four-Seam Fastball|17|2|2|2|8|94
+Tony Barnette|R|Seth Smith|L|Home Run|B|Cutter|18|0|0|0|14|86
+Tony Barnette|R|Seth Smith|L|Home Run|C|Four-Seam Fastball|19|1|0|0|3|92
+Tony Barnette|R|Seth Smith|L|Home Run|C|Cutter|20|1|1|0|7|87
+Tony Barnette|R|Seth Smith|L|Home Run|B|Curveball|21|1|2|0|14|78
+Tony Barnette|R|Seth Smith|L|Home Run|E|Cutter|22|2|2|0|14|87
+Tony Barnette|R|Welington Castillo|R|Strikeout|C|Four-Seam Fastball|23|0|0|0|3|93
+Tony Barnette|R|Welington Castillo|R|Strikeout|F|Cutter|24|0|1|0|2|85
+Tony Barnette|R|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|25|0|2|0|12|93
+Tony Barnette|R|Welington Castillo|R|Strikeout|S|Splitter|26|1|2|0|13|87
+Tony Barnette|R|Ruben Tejada|R|Single|C|Four-Seam Fastball|27|0|0|1|14|93
+Tony Barnette|R|Ruben Tejada|R|Single|B|Curveball|28|0|1|1|14|79
+Tony Barnette|R|Ruben Tejada|R|Single|D|Four-Seam Fastball|29|1|1|1|8|92
+Tony Barnette|R|Hyun Soo Kim|L|Grounded Into DP|X|Cutter|30|0|0|1|5|88
+Tony Barnette|R|Evan Longoria|R|Flyout|B|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Evan Longoria|R|Flyout|S|Four-Seam Fastball|1|1|0|2|8|92
+Tony Barnette|R|Evan Longoria|R|Flyout|X|Cutter|2|1|1|2|9|88
+Tony Barnette|R|Logan Morrison|L|Groundout|B|Four-Seam Fastball|3|0|0|0|12|92
+Tony Barnette|R|Logan Morrison|L|Groundout|B|Cutter|4|1|0|0|14|89
+Tony Barnette|R|Logan Morrison|L|Groundout|X|Cutter|5|2|0|0|2|89
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|F|Cutter|6|0|0|1|14|90
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|B|Curveball|7|0|1|1|14|78
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|B|Cutter|8|1|1|1|3|88
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|F|Cutter|9|2|1|1|5|89
+Tony Barnette|R|Steven Souza Jr.|R|Strikeout|C|Four-Seam Fastball|10|2|2|1|4|92
+Tony Barnette|R|Shane Peterson|L|Strikeout|C|Cutter|11|0|0|2|5|88
+Tony Barnette|R|Shane Peterson|L|Strikeout|C|Four-Seam Fastball|12|0|1|2|9|93
+Tony Barnette|R|Shane Peterson|L|Strikeout|W|Splitter|13|0|2|2|13|86
+Tony Barnette|R|Adeiny Hechavarria|R|Strikeout|S|Curveball|14|0|0|0|14|78
+Tony Barnette|R|Adeiny Hechavarria|R|Strikeout|S|Four-Seam Fastball|15|0|1|0|12|91
+Tony Barnette|R|Adeiny Hechavarria|R|Strikeout|F|Four-Seam Fastball|16|0|2|0|12|91
+Tony Barnette|R|Adeiny Hechavarria|R|Strikeout|S|Curveball|17|0|2|0|14|78
+Tony Barnette|R|Mallex Smith|L|Single|D|Cutter|18|0|0|1|12|87
+Tony Barnette|R|Jesus Sucre|R|Flyout|B|Splitter|19|0|0|1|12|89
+Tony Barnette|R|Jesus Sucre|R|Flyout|F|Cutter|20|1|0|1|8|88
+Tony Barnette|R|Jesus Sucre|R|Flyout|X|Cutter|21|1|1|1|9|87
+Tony Barnette|R|Corey Dickerson|L|Strikeout|F|Cutter|22|0|0|2|14|88
+Tony Barnette|R|Corey Dickerson|L|Strikeout|B|Four-Seam Fastball|23|0|1|2|11|90
+Tony Barnette|R|Corey Dickerson|L|Strikeout|B|Four-Seam Fastball|24|1|1|2|11|92
+Tony Barnette|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|25|2|1|2|12|91
+Tony Barnette|R|Corey Dickerson|L|Strikeout|B|Four-Seam Fastball|26|2|2|2|12|92
+Tony Barnette|R|Corey Dickerson|L|Strikeout|S|Four-Seam Fastball|27|3|2|2|11|92
+Tony Barnette|R|Caleb Joseph|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|92
+Tony Barnette|R|Caleb Joseph|R|Strikeout|C|Cutter|1|1|0|0|7|89
+Tony Barnette|R|Caleb Joseph|R|Strikeout|S|Cutter|2|1|1|0|12|89
+Tony Barnette|R|Caleb Joseph|R|Strikeout|B|Curveball|3|1|2|0|14|80
+Tony Barnette|R|Caleb Joseph|R|Strikeout|F|Cutter|4|2|2|0|2|88
+Tony Barnette|R|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|5|92
+Tony Barnette|R|Caleb Joseph|R|Strikeout|S|Splitter|6|2|2|0|13|88
+Tony Barnette|R|Ruben Tejada|R|Strikeout|S|Curveball|7|0|0|1|14|79
+Tony Barnette|R|Ruben Tejada|R|Strikeout|F|Four-Seam Fastball|8|0|1|1|1|92
+Tony Barnette|R|Ruben Tejada|R|Strikeout|B|Four-Seam Fastball|9|0|2|1|12|92
+Tony Barnette|R|Ruben Tejada|R|Strikeout|F|Cutter|10|1|2|1|3|90
+Tony Barnette|R|Ruben Tejada|R|Strikeout|B|Splitter|11|1|2|1|13|88
+Tony Barnette|R|Ruben Tejada|R|Strikeout|C|Cutter|12|2|2|1|13|87
+Tony Barnette|R|Adam Jones|R|Strikeout|S|Curveball|13|0|0|2|14|79
+Tony Barnette|R|Adam Jones|R|Strikeout|F|Curveball|14|0|1|2|14|80
+Tony Barnette|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|15|0|2|2|12|93
+Tony Barnette|R|Adam Jones|R|Strikeout|B|Splitter|16|0|2|2|13|89
+Tony Barnette|R|Adam Jones|R|Strikeout|S|Curveball|17|1|2|2|14|79
+Tony Barnette|R|Manny Machado|R|Field Error|B|Cutter|18|0|0|0|13|89
+Tony Barnette|R|Manny Machado|R|Field Error|B|Curveball|19|1|0|0|13|78
+Tony Barnette|R|Manny Machado|R|Field Error|F|Four-Seam Fastball|20|2|0|0|12|91
+Tony Barnette|R|Manny Machado|R|Field Error|D|Cutter|21|2|1|0|14|88
+Tony Barnette|R|Jonathan Schoop|R|Strikeout|F|Cutter|22|0|0|0|11|87
+Tony Barnette|R|Jonathan Schoop|R|Strikeout|S|Curveball|23|0|1|0|14|79
+Tony Barnette|R|Jonathan Schoop|R|Strikeout|*B|Curveball|24|0|2|0|14|79
+Tony Barnette|R|Jonathan Schoop|R|Strikeout|S|Cutter|25|1|2|0|12|90
+Tony Barnette|R|Chris Davis|L|Intent Walk|V|N/A|26|0|0|1|0|0
+Tony Barnette|R|Chris Davis|L|Intent Walk|V|N/A|27|0|1|1|0|0
+Tony Barnette|R|Chris Davis|L|Intent Walk|V|N/A|28|0|2|1|0|0
+Tony Barnette|R|Chris Davis|L|Intent Walk|V|N/A|29|0|2|1|0|0
+Tony Barnette|R|Mark Trumbo|R|Strikeout|F|Four-Seam Fastball|30|0|0|1|4|92
+Tony Barnette|R|Mark Trumbo|R|Strikeout|*B|Curveball|31|0|1|1|14|79
+Tony Barnette|R|Mark Trumbo|R|Strikeout|B|Four-Seam Fastball|32|1|1|1|13|92
+Tony Barnette|R|Mark Trumbo|R|Strikeout|F|Sinker|33|2|1|1|11|92
+Tony Barnette|R|Mark Trumbo|R|Strikeout|C|Cutter|34|2|2|1|7|88
+Tony Barnette|R|Trey Mancini|R|Strikeout|*B|Curveball|35|0|0|2|14|80
+Tony Barnette|R|Trey Mancini|R|Strikeout|S|Cutter|36|1|0|2|6|86
+Tony Barnette|R|Trey Mancini|R|Strikeout|F|Cutter|37|1|1|2|14|87
+Tony Barnette|R|Trey Mancini|R|Strikeout|B|Four-Seam Fastball|38|1|2|2|12|92
+Tony Barnette|R|Trey Mancini|R|Strikeout|W|Curveball|39|2|2|2|14|78
+Tony Barnette|R|Seth Smith|L|Groundout|C|Cutter|40|0|0|0|12|87
+Tony Barnette|R|Seth Smith|L|Groundout|B|Curveball|41|0|1|0|13|79
+Tony Barnette|R|Seth Smith|L|Groundout|X|Splitter|42|1|1|0|8|88
+Tony Barnette|R|Caleb Joseph|R|Groundout|B|Four-Seam Fastball|43|0|0|1|14|91
+Tony Barnette|R|Caleb Joseph|R|Groundout|F|Four-Seam Fastball|44|1|0|1|12|91
+Tony Barnette|R|Caleb Joseph|R|Groundout|C|Curveball|45|1|1|1|2|78
+Tony Barnette|R|Caleb Joseph|R|Groundout|X|Four-Seam Fastball|46|1|2|1|12|91
+Tony Barnette|R|Ruben Tejada|R|Walk|B|Cutter|47|0|0|2|14|88
+Tony Barnette|R|Ruben Tejada|R|Walk|C|Cutter|48|1|0|2|14|87
+Tony Barnette|R|Ruben Tejada|R|Walk|B|Curveball|49|1|1|2|14|79
+Tony Barnette|R|Ruben Tejada|R|Walk|B|Four-Seam Fastball|50|2|1|2|14|91
+Tony Barnette|R|Ruben Tejada|R|Walk|B|Four-Seam Fastball|51|3|1|2|12|91
+Tony Barnette|R|Adam Jones|R|Groundout|C|Cutter|52|0|0|2|9|87
+Tony Barnette|R|Adam Jones|R|Groundout|B|Cutter|53|0|1|2|14|86
+Tony Barnette|R|Adam Jones|R|Groundout|F|Four-Seam Fastball|54|1|1|2|12|92
+Tony Barnette|R|Adam Jones|R|Groundout|X|Splitter|55|1|2|2|11|87
+Tony Barnette|R|Ben Gamel|L|Flyout|X|Sinker|0|0|0|1|5|91
+Tony Barnette|R|Jarrod Dyson|L|Single|B|Four-Seam Fastball|1|0|0|2|8|91
+Tony Barnette|R|Jarrod Dyson|L|Single|E|Sinker|2|1|0|2|5|92
+Tony Barnette|R|Robinson Cano|L|Double|B|Cutter|3|0|0|2|14|89
+Tony Barnette|R|Robinson Cano|L|Double|E|Sinker|4|1|0|2|13|92
+Tony Barnette|R|Nelson Cruz|R|Single|D|Cutter|5|0|0|2|8|88
+Tony Barnette|R|Kyle Seager|L|Groundout|B|Splitter|6|0|0|2|13|87
+Tony Barnette|R|Kyle Seager|L|Groundout|F|Splitter|7|1|0|2|13|87
+Tony Barnette|R|Kyle Seager|L|Groundout|X|Splitter|8|1|1|2|5|87
+Tony Barnette|R|Byron Buxton|R|Strikeout|B|Cutter|0|0|0|2|9|88
+Tony Barnette|R|Byron Buxton|R|Strikeout|B|Cutter|1|1|0|2|14|88
+Tony Barnette|R|Byron Buxton|R|Strikeout|C|Four-Seam Fastball|2|2|0|2|3|92
+Tony Barnette|R|Byron Buxton|R|Strikeout|T|Four-Seam Fastball|3|2|1|2|14|92
+Tony Barnette|R|Byron Buxton|R|Strikeout|*B|Curveball|4|2|2|2|14|78
+Tony Barnette|R|Byron Buxton|R|Strikeout|S|Four-Seam Fastball|5|3|2|2|2|93
+Tony Barnette|R|Jorge Polanco|L|Pop Out|B|Four-Seam Fastball|6|0|0|0|12|93
+Tony Barnette|R|Jorge Polanco|L|Pop Out|B|Splitter|7|1|0|0|13|88
+Tony Barnette|R|Jorge Polanco|L|Pop Out|C|Four-Seam Fastball|8|2|0|0|5|93
+Tony Barnette|R|Jorge Polanco|L|Pop Out|S|Cutter|9|2|1|0|14|91
+Tony Barnette|R|Jorge Polanco|L|Pop Out|X|Cutter|10|2|2|0|3|91
+Tony Barnette|R|Brian Dozier|R|Single|B|Four-Seam Fastball|11|0|0|1|4|95
+Tony Barnette|R|Brian Dozier|R|Single|C|Cutter|12|1|0|1|11|89
+Tony Barnette|R|Brian Dozier|R|Single|D|Four-Seam Fastball|13|1|1|1|1|93
+Tony Barnette|R|Eduardo Escobar|L|Walk|C|Four-Seam Fastball|14|0|0|1|1|92
+Tony Barnette|R|Eduardo Escobar|L|Walk|B|Splitter|15|0|1|1|11|86
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Cutter|16|1|1|1|12|88
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Curveball|17|1|2|1|6|78
+Tony Barnette|R|Eduardo Escobar|L|Walk|*B|Cutter|18|1|2|1|14|88
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Cutter|19|2|2|1|9|88
+Tony Barnette|R|Eduardo Escobar|L|Walk|B|Splitter|20|2|2|1|13|87
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Cutter|21|3|2|1|9|88
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Cutter|22|3|2|1|2|92
+Tony Barnette|R|Eduardo Escobar|L|Walk|F|Four-Seam Fastball|23|3|2|1|12|92
+Tony Barnette|R|Eduardo Escobar|L|Walk|B|Splitter|24|3|2|1|11|87
+Tony Barnette|R|Miguel Sano|R|Hit By Pitch|C|Cutter|25|0|0|1|4|87
+Tony Barnette|R|Miguel Sano|R|Hit By Pitch|T|Cutter|26|0|1|1|9|88
+Tony Barnette|R|Miguel Sano|R|Hit By Pitch|B|Curveball|27|0|2|1|14|78
+Tony Barnette|R|Miguel Sano|R|Hit By Pitch|B|Cutter|28|1|2|1|14|87
+Tony Barnette|R|Miguel Sano|R|Hit By Pitch|H|Four-Seam Fastball|29|2|2|1|11|91
+Tony Barnette|R|Joe Mauer|L|Sac Fly|C|Four-Seam Fastball|30|0|0|1|4|91
+Tony Barnette|R|Joe Mauer|L|Sac Fly|*B|Cutter|31|0|1|1|14|89
+Tony Barnette|R|Joe Mauer|L|Sac Fly|F|Cutter|32|1|1|1|12|87
+Tony Barnette|R|Joe Mauer|L|Sac Fly|*B|Cutter|33|1|2|1|14|90
+Tony Barnette|R|Joe Mauer|L|Sac Fly|F|Splitter|34|2|2|1|1|85
+Tony Barnette|R|Joe Mauer|L|Sac Fly|F|Four-Seam Fastball|35|2|2|1|3|92
+Tony Barnette|R|Joe Mauer|L|Sac Fly|F|Four-Seam Fastball|36|2|2|1|6|92
+Tony Barnette|R|Joe Mauer|L|Sac Fly|B|Cutter|37|2|2|1|13|87
+Tony Barnette|R|Joe Mauer|L|Sac Fly|E|Four-Seam Fastball|38|3|2|1|3|91
+Tony Barnette|R|Robbie Grossman|L|Strikeout|F|Four-Seam Fastball|39|0|0|2|14|91
+Tony Barnette|R|Robbie Grossman|L|Strikeout|B|Cutter|40|0|1|2|14|88
+Tony Barnette|R|Robbie Grossman|L|Strikeout|T|Splitter|41|1|1|2|14|86
+Tony Barnette|R|Robbie Grossman|L|Strikeout|S|Four-Seam Fastball|42|1|2|2|11|90
+Tony Barnette|R|Neil Walker|L|Single|D|Four-Seam Fastball|0|0|0|0|5|92
+Tony Barnette|R|Jose Reyes|L|Flyout|X|Cutter|1|0|0|0|8|89
+Tony Barnette|R|Travis d'Arnaud|R|Strikeout|C|Cutter|2|0|0|1|6|88
+Tony Barnette|R|Travis d'Arnaud|R|Strikeout|*B|Curveball|3|0|1|1|14|80
+Tony Barnette|R|Travis d'Arnaud|R|Strikeout|C|Cutter|4|1|1|1|14|88
+Tony Barnette|R|Travis d'Arnaud|R|Strikeout|F|Cutter|5|1|2|1|14|88
+Tony Barnette|R|Travis d'Arnaud|R|Strikeout|W|Curveball|6|1|2|1|14|78
+Tony Barnette|R|Amed Rosario|R|Groundout|C|Cutter|7|0|0|2|4|87
+Tony Barnette|R|Amed Rosario|R|Groundout|F|Cutter|8|0|1|2|9|88
+Tony Barnette|R|Amed Rosario|R|Groundout|X|Curveball|9|0|2|2|13|78
+Tony Barnette|R|Josh Reddick|L|Groundout|F|Curveball|0|0|0|0|6|78
+Tony Barnette|R|Josh Reddick|L|Groundout|X|Cutter|1|0|1|0|13|88
+Tony Barnette|R|Jose Altuve|R|Pop Out|B|Cutter|2|0|0|1|14|89
+Tony Barnette|R|Jose Altuve|R|Pop Out|F|Cutter|3|1|0|1|14|89
+Tony Barnette|R|Jose Altuve|R|Pop Out|C|Curveball|4|1|1|1|6|78
+Tony Barnette|R|Jose Altuve|R|Pop Out|F|Cutter|5|1|2|1|7|89
+Tony Barnette|R|Jose Altuve|R|Pop Out|X|Cutter|6|1|2|1|2|89
+Tony Barnette|R|Alex Bregman|R|Groundout|B|Cutter|7|0|0|2|11|89
+Tony Barnette|R|Alex Bregman|R|Groundout|B|Cutter|8|1|0|2|12|88
+Tony Barnette|R|Alex Bregman|R|Groundout|C|Cutter|9|2|0|2|14|90
+Tony Barnette|R|Alex Bregman|R|Groundout|F|Four-Seam Fastball|10|2|1|2|2|93
+Tony Barnette|R|Alex Bregman|R|Groundout|F|Curveball|11|2|2|2|14|79
+Tony Barnette|R|Alex Bregman|R|Groundout|X|Cutter|12|2|2|2|14|90
+Tony Barnette|R|Justin Upton|R|Lineout|B|Curveball|0|0|0|2|14|79
+Tony Barnette|R|Justin Upton|R|Lineout|C|Cutter|1|1|0|2|6|88
+Tony Barnette|R|Justin Upton|R|Lineout|B|Curveball|2|1|1|2|14|79
+Tony Barnette|R|Justin Upton|R|Lineout|X|Cutter|3|2|1|2|8|89
+Tony Barnette|R|Miguel Cabrera|R|Lineout|S|Curveball|4|0|0|0|14|80
+Tony Barnette|R|Miguel Cabrera|R|Lineout|S|Curveball|5|0|1|0|14|79
+Tony Barnette|R|Miguel Cabrera|R|Lineout|B|Curveball|6|0|2|0|14|80
+Tony Barnette|R|Miguel Cabrera|R|Lineout|X|Cutter|7|1|2|0|14|91
+Tony Barnette|R|Nicholas Castellanos|R|Strikeout|S|Four-Seam Fastball|8|0|0|1|6|94
+Tony Barnette|R|Nicholas Castellanos|R|Strikeout|B|Cutter|9|0|1|1|14|89
+Tony Barnette|R|Nicholas Castellanos|R|Strikeout|F|Four-Seam Fastball|10|1|1|1|9|94
+Tony Barnette|R|Nicholas Castellanos|R|Strikeout|F|Cutter|11|1|2|1|8|90
+Tony Barnette|R|Nicholas Castellanos|R|Strikeout|S|Curveball|12|1|2|1|14|79
+Tony Barnette|R|Victor Martinez|L|Walk|B|Four-Seam Fastball|13|0|0|2|11|92
+Tony Barnette|R|Victor Martinez|L|Walk|B|Cutter|14|1|0|2|13|89
+Tony Barnette|R|Victor Martinez|L|Walk|B|Cutter|15|2|0|2|7|90
+Tony Barnette|R|Victor Martinez|L|Walk|B|Four-Seam Fastball|16|3|0|2|14|93
+Tony Barnette|R|John Hicks|R|Double|B|Cutter|17|0|0|2|14|90
+Tony Barnette|R|John Hicks|R|Double|B|Cutter|18|1|0|2|14|88
+Tony Barnette|R|John Hicks|R|Double|C|Four-Seam Fastball|19|2|0|2|14|93
+Tony Barnette|R|John Hicks|R|Double|F|Cutter|20|2|1|2|12|88
+Tony Barnette|R|John Hicks|R|Double|D|Cutter|21|2|2|2|5|87
+Tony Barnette|R|Alex Presley|L|Groundout|C|Cutter|22|0|0|2|11|90
+Tony Barnette|R|Alex Presley|L|Groundout|S|Curveball|23|0|1|2|9|80
+Tony Barnette|R|Alex Presley|L|Groundout|*B|Curveball|24|0|2|2|14|81
+Tony Barnette|R|Alex Presley|L|Groundout|F|Cutter|25|1|2|2|1|88
+Tony Barnette|R|Alex Presley|L|Groundout|*B|Curveball|26|1|2|2|13|79
+Tony Barnette|R|Alex Presley|L|Groundout|E|Four-Seam Fastball|27|2|2|2|3|93
+Tony Barnette|R|Jose Iglesias|R|Groundout|B|Cutter|28|0|0|0|14|90
+Tony Barnette|R|Jose Iglesias|R|Groundout|B|Cutter|29|1|0|0|12|89
+Tony Barnette|R|Jose Iglesias|R|Groundout|C|Four-Seam Fastball|30|2|0|0|4|94
+Tony Barnette|R|Jose Iglesias|R|Groundout|S|Cutter|31|2|1|0|12|88
+Tony Barnette|R|Jose Iglesias|R|Groundout|F|Cutter|32|2|2|0|12|90
+Tony Barnette|R|Jose Iglesias|R|Groundout|E|Cutter|33|2|2|0|4|87
+Tony Barnette|R|Ian Kinsler|R|Single|B|Curveball|34|0|0|1|14|81
+Tony Barnette|R|Ian Kinsler|R|Single|B|Cutter|35|1|0|1|11|89
+Tony Barnette|R|Ian Kinsler|R|Single|F|Four-Seam Fastball|36|2|0|1|11|92
+Tony Barnette|R|Ian Kinsler|R|Single|F|Four-Seam Fastball|37|2|1|1|12|92
+Tony Barnette|R|Ian Kinsler|R|Single|F|Cutter|38|2|2|1|5|86
+Tony Barnette|R|Ian Kinsler|R|Single|D|Cutter|39|2|2|1|14|87
+Tony Barnette|R|Adam Engel|R|Lineout|C|Cutter|0|0|0|2|3|88
+Tony Barnette|R|Adam Engel|R|Lineout|*B|Curveball|1|0|1|2|14|78
+Tony Barnette|R|Adam Engel|R|Lineout|X|Cutter|2|1|1|2|9|88
+Tony Barnette|R|Leury Garcia|L|Groundout|X|Cutter|3|0|0|0|2|89
+Tony Barnette|R|Yoan Moncada|L|Strikeout|S|Cutter|4|0|0|1|5|90
+Tony Barnette|R|Yoan Moncada|L|Strikeout|F|Cutter|5|0|1|1|3|90
+Tony Barnette|R|Yoan Moncada|L|Strikeout|B|Curveball|6|0|2|1|14|79
+Tony Barnette|R|Yoan Moncada|L|Strikeout|S|Splitter|7|1|2|1|8|89
+Tony Barnette|R|Jose Abreu|R|Flyout|X|Cutter|8|0|0|2|9|91
+Tony Barnette|R|Tim Anderson|R|Flyout|B|Cutter|0|0|0|0|14|88
+Tony Barnette|R|Tim Anderson|R|Flyout|F|Cutter|1|1|0|0|11|88
+Tony Barnette|R|Tim Anderson|R|Flyout|X|Curveball|2|1|1|0|1|78
+Tony Barnette|R|Tyler Saladino|R|Strikeout|F|Four-Seam Fastball|3|0|0|1|3|93
+Tony Barnette|R|Tyler Saladino|R|Strikeout|B|Cutter|4|0|1|1|14|89
+Tony Barnette|R|Tyler Saladino|R|Strikeout|C|Four-Seam Fastball|5|1|1|1|11|93
+Tony Barnette|R|Tyler Saladino|R|Strikeout|B|Cutter|6|1|2|1|14|89
+Tony Barnette|R|Tyler Saladino|R|Strikeout|S|Curveball|7|2|2|1|8|77
+Tony Barnette|R|Adam Engel|R|Strikeout|B|Curveball|8|0|0|2|14|79
+Tony Barnette|R|Adam Engel|R|Strikeout|C|Cutter|9|1|0|2|7|88
+Tony Barnette|R|Adam Engel|R|Strikeout|S|Cutter|10|1|1|2|14|90
+Tony Barnette|R|Adam Engel|R|Strikeout|S|Four-Seam Fastball|11|1|2|2|3|94
+Tony Barnette|R|Leury Garcia|L|Single|B|Cutter|12|0|0|0|13|87
+Tony Barnette|R|Leury Garcia|L|Single|B|Cutter|13|1|0|0|11|89
+Tony Barnette|R|Leury Garcia|L|Single|C|Four-Seam Fastball|14|2|0|0|11|93
+Tony Barnette|R|Leury Garcia|L|Single|D|Four-Seam Fastball|15|2|1|0|2|92
+Tony Barnette|R|Yolmer Sanchez|L|Grounded Into DP|C|Four-Seam Fastball|16|0|0|0|11|92
+Tony Barnette|R|Yolmer Sanchez|L|Grounded Into DP|F|Cutter|17|0|1|0|8|88
+Tony Barnette|R|Yolmer Sanchez|L|Grounded Into DP|B|Cutter|18|0|2|0|13|88
+Tony Barnette|R|Yolmer Sanchez|L|Grounded Into DP|X|Curveball|19|1|2|0|13|77
+Tony Barnette|R|Jose Abreu|R|Groundout|B|Cutter|20|0|0|2|14|90
+Tony Barnette|R|Jose Abreu|R|Groundout|S|Four-Seam Fastball|21|1|0|2|9|94
+Tony Barnette|R|Jose Abreu|R|Groundout|B|Curveball|22|1|1|2|14|80
+Tony Barnette|R|Jose Abreu|R|Groundout|B|Cutter|23|2|1|2|14|88
+Tony Barnette|R|Jose Abreu|R|Groundout|X|Four-Seam Fastball|24|3|1|2|14|93
+Tony Barnette|R|Cameron Maybin|R|Flyout|X|Cutter|0|0|0|1|2|89
+Tony Barnette|R|Mike Trout|R|Flyout|C|Four-Seam Fastball|1|0|0|2|5|93
+Tony Barnette|R|Mike Trout|R|Flyout|B|Four-Seam Fastball|2|0|1|2|11|93
+Tony Barnette|R|Mike Trout|R|Flyout|C|Splitter|3|1|1|2|7|87
+Tony Barnette|R|Mike Trout|R|Flyout|B|Four-Seam Fastball|4|1|2|2|11|92
+Tony Barnette|R|Mike Trout|R|Flyout|B|Splitter|5|2|2|2|13|88
+Tony Barnette|R|Mike Trout|R|Flyout|X|Four-Seam Fastball|6|3|2|2|4|92
+Tony Barnette|R|Albert Pujols|R|Groundout|S|Four-Seam Fastball|7|0|0|0|12|92
+Tony Barnette|R|Albert Pujols|R|Groundout|B|Four-Seam Fastball|8|0|1|0|14|93
+Tony Barnette|R|Albert Pujols|R|Groundout|X|Curveball|9|1|1|0|9|79
+Tony Barnette|R|Kole Calhoun|L|Double|S|Cutter|10|0|0|1|12|89
+Tony Barnette|R|Kole Calhoun|L|Double|B|Four-Seam Fastball|11|0|1|1|12|92
+Tony Barnette|R|Kole Calhoun|L|Double|C|Curveball|12|1|1|1|4|77
+Tony Barnette|R|Kole Calhoun|L|Double|B|Cutter|13|1|2|1|12|90
+Tony Barnette|R|Kole Calhoun|L|Double|D|Splitter|14|2|2|1|8|88
+Tony Barnette|R|Andrelton Simmons|R|Groundout|C|Cutter|15|0|0|1|4|89
+Tony Barnette|R|Andrelton Simmons|R|Groundout|X|Curveball|16|0|1|1|8|78
+Tony Barnette|R|Luis Valbuena|L|Single|B|Cutter|17|0|0|2|12|89
+Tony Barnette|R|Luis Valbuena|L|Single|C|Splitter|18|1|0|2|1|87
+Tony Barnette|R|Luis Valbuena|L|Single|E|Cutter|19|1|1|2|3|88
+Tony Barnette|R|C.J. Cron|R|Lineout|F|Cutter|20|0|0|2|12|89
+Tony Barnette|R|C.J. Cron|R|Lineout|X|Curveball|21|0|1|2|9|78
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|B|Cutter|0|0|0|0|14|89
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|W|Curveball|1|1|0|0|14|78
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|B|Curveball|2|1|1|0|11|77
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|X|Cutter|3|2|1|0|12|87
+Tony Barnette|R|Kole Calhoun|L|Single|C|Cutter|4|0|0|2|12|91
+Tony Barnette|R|Kole Calhoun|L|Single|*B|Curveball|5|0|1|2|13|79
+Tony Barnette|R|Kole Calhoun|L|Single|B|Cutter|6|1|1|2|12|88
+Tony Barnette|R|Kole Calhoun|L|Single|E|Four-Seam Fastball|7|2|1|2|2|93
+Tony Barnette|R|Andrelton Simmons|R|Flyout|X|Cutter|8|0|0|2|11|88
+Tony Barnette|R|Mark Canha|R|Strikeout|B|Cutter|0|0|0|1|14|88
+Tony Barnette|R|Mark Canha|R|Strikeout|B|Cutter|1|1|0|1|13|89
+Tony Barnette|R|Mark Canha|R|Strikeout|C|Cutter|2|2|0|1|4|88
+Tony Barnette|R|Mark Canha|R|Strikeout|B|Cutter|3|2|1|1|14|88
+Tony Barnette|R|Mark Canha|R|Strikeout|C|Four-Seam Fastball|4|3|1|1|13|93
+Tony Barnette|R|Mark Canha|R|Strikeout|S|Cutter|5|3|2|1|13|89
+Tony Barnette|R|Matt Chapman|R|Pop Out|C|Cutter|6|0|0|2|14|90
+Tony Barnette|R|Matt Chapman|R|Pop Out|B|Curveball|7|0|1|2|14|78
+Tony Barnette|R|Matt Chapman|R|Pop Out|C|Four-Seam Fastball|8|1|1|2|6|92
+Tony Barnette|R|Matt Chapman|R|Pop Out|X|Curveball|9|1|2|2|5|78
+Tony Barnette|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|10|0|0|2|12|91
+Tony Barnette|R|Matt Joyce|L|Walk|B|Curveball|11|1|0|2|11|76
+Tony Barnette|R|Matt Joyce|L|Walk|B|Cutter|12|2|0|2|14|89
+Tony Barnette|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|13|3|0|2|11|92
+Tony Barnette|R|Dustin Garneau|R|Flyout|C|Four-Seam Fastball|14|0|0|2|2|91
+Tony Barnette|R|Dustin Garneau|R|Flyout|S|Cutter|15|0|1|2|1|89
+Tony Barnette|R|Dustin Garneau|R|Flyout|B|Cutter|16|0|2|2|14|89
+Tony Barnette|R|Dustin Garneau|R|Flyout|B|Cutter|17|1|2|2|14|88
+Tony Barnette|R|Dustin Garneau|R|Flyout|F|Four-Seam Fastball|18|2|2|2|1|92
+Tony Barnette|R|Dustin Garneau|R|Flyout|X|Curveball|19|2|2|2|4|76
+Tony Barnette|R|Marcus Semien|R|Walk|C|Four-Seam Fastball|20|0|0|0|5|91
+Tony Barnette|R|Marcus Semien|R|Walk|*B|Cutter|21|0|1|0|14|88
+Tony Barnette|R|Marcus Semien|R|Walk|B|Curveball|22|1|1|0|11|74
+Tony Barnette|R|Marcus Semien|R|Walk|B|Cutter|23|2|1|0|12|86
+Tony Barnette|R|Marcus Semien|R|Walk|*B|Cutter|24|3|1|0|14|87
+Tony Barnette|R|Chad Pinder|R|Flyout|B|Four-Seam Fastball|25|0|0|0|14|92
+Tony Barnette|R|Chad Pinder|R|Flyout|B|Cutter|26|1|0|0|14|87
+Tony Barnette|R|Chad Pinder|R|Flyout|T|Cutter|27|2|0|0|9|91
+Tony Barnette|R|Chad Pinder|R|Flyout|F|Cutter|28|2|1|0|6|86
+Tony Barnette|R|Chad Pinder|R|Flyout|F|Cutter|29|2|2|0|8|86
+Tony Barnette|R|Chad Pinder|R|Flyout|B|Cutter|30|2|2|0|14|86
+Tony Barnette|R|Chad Pinder|R|Flyout|F|Four-Seam Fastball|31|3|2|0|3|90
+Tony Barnette|R|Chad Pinder|R|Flyout|X|Four-Seam Fastball|32|3|2|0|9|91
+Tony Barnette|R|Jed Lowrie|L|Double|B|Four-Seam Fastball|33|0|0|1|11|92
+Tony Barnette|R|Jed Lowrie|L|Double|F|Cutter|34|1|0|1|8|87
+Tony Barnette|R|Jed Lowrie|L|Double|B|Four-Seam Fastball|35|1|1|1|12|91
+Tony Barnette|R|Jed Lowrie|L|Double|C|Cutter|36|2|1|1|2|87
+Tony Barnette|R|Jed Lowrie|L|Double|B|Curveball|37|2|2|1|11|73
+Tony Barnette|R|Jed Lowrie|L|Double|E|Cutter|38|3|2|1|7|85
+Tony Barnette|R|Yuli Gurriel|R|Flyout|S|Four-Seam Fastball|0|0|0|0|2|93
+Tony Barnette|R|Yuli Gurriel|R|Flyout|F|Four-Seam Fastball|1|0|1|0|5|94
+Tony Barnette|R|Yuli Gurriel|R|Flyout|B|Splitter|2|0|2|0|13|89
+Tony Barnette|R|Yuli Gurriel|R|Flyout|B|Curveball|3|1|2|0|14|80
+Tony Barnette|R|Yuli Gurriel|R|Flyout|B|Four-Seam Fastball|4|2|2|0|12|93
+Tony Barnette|R|Yuli Gurriel|R|Flyout|F|Four-Seam Fastball|5|3|2|0|1|94
+Tony Barnette|R|Yuli Gurriel|R|Flyout|X|Cutter|6|3|2|0|14|88
+Tony Barnette|R|Evan Gattis|R|Flyout|C|Four-Seam Fastball|7|0|0|1|14|94
+Tony Barnette|R|Evan Gattis|R|Flyout|F|Cutter|8|0|1|1|6|88
+Tony Barnette|R|Evan Gattis|R|Flyout|X|Cutter|9|0|2|1|5|89
+Tony Barnette|R|Derek Fisher|L|Hit By Pitch|C|Cutter|10|0|0|2|8|88
+Tony Barnette|R|Derek Fisher|L|Hit By Pitch|B|Curveball|11|0|1|2|14|79
+Tony Barnette|R|Derek Fisher|L|Hit By Pitch|H|Four-Seam Fastball|12|1|1|2|12|91
+Tony Barnette|R|Marwin Gonzalez|L|Flyout|X|Cutter|13|0|0|2|6|88
+Tony Barnette|R|Martin Maldonado|R|Flyout|C|Cutter|0|0|0|0|9|88
+Tony Barnette|R|Martin Maldonado|R|Flyout|X|Curveball|1|0|1|0|4|77
+Tony Barnette|R|Cliff Pennington|L|Single|B|Four-Seam Fastball|2|0|0|1|12|93
+Tony Barnette|R|Cliff Pennington|L|Single|C|Cutter|3|1|0|1|4|87
+Tony Barnette|R|Cliff Pennington|L|Single|S|Curveball|4|1|1|1|14|79
+Tony Barnette|R|Cliff Pennington|L|Single|B|Curveball|5|1|2|1|14|78
+Tony Barnette|R|Cliff Pennington|L|Single|D|Cutter|6|2|2|1|5|88
+Tony Barnette|R|Brandon Phillips|R|Strikeout|F|Cutter|7|0|0|1|14|88
+Tony Barnette|R|Brandon Phillips|R|Strikeout|S|Cutter|8|0|1|1|14|88
+Tony Barnette|R|Brandon Phillips|R|Strikeout|F|Curveball|9|0|2|1|14|77
+Tony Barnette|R|Brandon Phillips|R|Strikeout|*B|Curveball|10|0|2|1|14|79
+Tony Barnette|R|Brandon Phillips|R|Strikeout|B|Cutter|11|1|2|1|14|89
+Tony Barnette|R|Brandon Phillips|R|Strikeout|F|Cutter|12|2|2|1|7|88
+Tony Barnette|R|Brandon Phillips|R|Strikeout|S|Cutter|13|2|2|1|14|89
+Tony Barnette|R|Mike Trout|R|Walk|C|Four-Seam Fastball|14|0|0|2|5|94
+Tony Barnette|R|Mike Trout|R|Walk|B|Curveball|15|0|1|2|14|80
+Tony Barnette|R|Mike Trout|R|Walk|B|Four-Seam Fastball|16|1|1|2|11|92
+Tony Barnette|R|Mike Trout|R|Walk|S|Four-Seam Fastball|17|2|1|2|2|93
+Tony Barnette|R|Mike Trout|R|Walk|B|Four-Seam Fastball|18|2|2|2|11|94
+Tony Barnette|R|Mike Trout|R|Walk|B|Four-Seam Fastball|19|3|2|2|11|93
+Tony Barnette|R|Justin Upton|R|Flyout|B|Cutter|20|0|0|2|14|89
+Tony Barnette|R|Justin Upton|R|Flyout|X|Four-Seam Fastball|21|1|0|2|3|94
+Tony Barnette|R|Mike Trout|R|Groundout|B|Four-Seam Fastball|0|0|0|2|11|91
+Tony Barnette|R|Mike Trout|R|Groundout|F|Cutter|1|1|0|2|5|89
+Tony Barnette|R|Mike Trout|R|Groundout|F|Four-Seam Fastball|2|1|1|2|2|92
+Tony Barnette|R|Mike Trout|R|Groundout|B|Four-Seam Fastball|3|1|2|2|11|92
+Tony Barnette|R|Mike Trout|R|Groundout|X|Curveball|4|2|2|2|14|78
+Tony Barnette|R|Justin Upton|R|Single|B|Curveball|5|0|0|0|13|78
+Tony Barnette|R|Justin Upton|R|Single|D|Cutter|6|1|0|0|9|88
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|B|Curveball|7|0|0|0|14|78
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|C|Cutter|8|1|0|0|6|88
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|S|Curveball|9|1|1|0|14|78
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|*B|Curveball|10|1|2|0|14|79
+Tony Barnette|R|Albert Pujols|R|Grounded Into DP|X|Cutter|11|2|2|0|14|88
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|0|0|0|2|14|93
+Tony Barnette|R|Justin Upton|R|Walk|B|Curveball|1|1|0|2|14|78
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|2|2|0|2|12|93
+Tony Barnette|R|Justin Upton|R|Walk|B|Four-Seam Fastball|3|3|0|2|11|93
+Tony Barnette|R|Albert Pujols|R|Pop Out|B|Curveball|4|0|0|2|14|78
+Tony Barnette|R|Albert Pujols|R|Pop Out|C|Curveball|5|1|0|2|14|77
+Tony Barnette|R|Albert Pujols|R|Pop Out|S|Four-Seam Fastball|6|1|1|2|9|94
+Tony Barnette|R|Albert Pujols|R|Pop Out|F|Four-Seam Fastball|7|1|2|2|12|94
+Tony Barnette|R|Albert Pujols|R|Pop Out|F|Curveball|8|1|2|2|14|79
+Tony Barnette|R|Albert Pujols|R|Pop Out|X|Curveball|9|1|2|2|14|79
+Tony Barnette|R|Andrelton Simmons|R|Double|C|Cutter|10|0|0|0|5|87
+Tony Barnette|R|Andrelton Simmons|R|Double|E|Curveball|11|0|1|0|6|77
+Tony Barnette|R|C.J. Cron|R|Strikeout|B|Cutter|12|0|0|0|14|89
+Tony Barnette|R|C.J. Cron|R|Strikeout|B|Curveball|13|1|0|0|11|77
+Tony Barnette|R|C.J. Cron|R|Strikeout|B|Cutter|14|2|0|0|14|88
+Tony Barnette|R|C.J. Cron|R|Strikeout|C|Cutter|15|3|0|0|6|88
+Tony Barnette|R|C.J. Cron|R|Strikeout|T|Cutter|16|3|1|0|6|90
+Tony Barnette|R|C.J. Cron|R|Strikeout|T|Cutter|17|3|2|0|6|87
+Tony Barnette|R|Kole Calhoun|L|Intent Walk|V|N/A|18|0|0|1|0|0
+Tony Barnette|R|Kole Calhoun|L|Intent Walk|V|N/A|19|0|1|1|0|0
+Tony Barnette|R|Kole Calhoun|L|Intent Walk|V|N/A|20|0|2|1|0|0
+Tony Barnette|R|Kole Calhoun|L|Intent Walk|V|N/A|21|0|2|1|0|0
+Tony Barnette|R|Kaleb Cowart|L|Walk|B|Cutter|22|0|0|1|12|89
+Tony Barnette|R|Kaleb Cowart|L|Walk|B|Four-Seam Fastball|23|1|0|1|12|93
+Tony Barnette|R|Kaleb Cowart|L|Walk|B|Cutter|24|2|0|1|11|89
+Tony Barnette|R|Kaleb Cowart|L|Walk|B|Four-Seam Fastball|25|3|0|1|12|91
+Tony Barnette|R|Luis Valbuena|L|Forceout|C|Curveball|26|0|0|1|6|77
+Tony Barnette|R|Luis Valbuena|L|Forceout|F|Four-Seam Fastball|27|0|1|1|11|94
+Tony Barnette|R|Luis Valbuena|L|Forceout|B|Four-Seam Fastball|28|0|2|1|11|94
+Tony Barnette|R|Luis Valbuena|L|Forceout|X|Curveball|29|1|2|1|11|78
+Tony Barnette|R|Nick Markakis|L|Groundout|C|Four-Seam Fastball|0|0|0|0|7|90
+Tony Barnette|R|Nick Markakis|L|Groundout|B|Curveball|1|0|1|0|14|79
+Tony Barnette|R|Nick Markakis|L|Groundout|B|Cutter|2|1|1|0|14|88
+Tony Barnette|R|Nick Markakis|L|Groundout|X|Cutter|3|2|1|0|14|89
+Tony Barnette|R|Kurt Suzuki|R|Double|F|Four-Seam Fastball|4|0|0|1|12|93
+Tony Barnette|R|Kurt Suzuki|R|Double|F|Cutter|5|0|1|1|12|90
+Tony Barnette|R|Kurt Suzuki|R|Double|F|Curveball|6|0|2|1|5|79
+Tony Barnette|R|Kurt Suzuki|R|Double|F|Splitter|7|0|2|1|8|88
+Tony Barnette|R|Kurt Suzuki|R|Double|F|Curveball|8|0|2|1|5|79
+Tony Barnette|R|Kurt Suzuki|R|Double|B|Four-Seam Fastball|9|0|2|1|14|94
+Tony Barnette|R|Kurt Suzuki|R|Double|B|Cutter|10|1|2|1|14|90
+Tony Barnette|R|Kurt Suzuki|R|Double|D|Cutter|11|2|2|1|9|90
+Tony Barnette|R|Dansby Swanson|R|Groundout|C|Cutter|12|0|0|1|6|90
+Tony Barnette|R|Dansby Swanson|R|Groundout|X|Cutter|13|0|1|1|14|89
+Tony Barnette|R|Todd Frazier|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|3|93
+Tony Barnette|R|Todd Frazier|R|Strikeout|S|Cutter|1|0|1|0|14|89
+Tony Barnette|R|Todd Frazier|R|Strikeout|B|Cutter|2|0|2|0|14|90
+Tony Barnette|R|Todd Frazier|R|Strikeout|C|Cutter|3|1|2|0|5|88
+Tony Barnette|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|4|0|0|1|12|93
+Tony Barnette|R|Brett Gardner|L|Strikeout|C|Curveball|5|0|1|1|5|80
+Tony Barnette|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|6|0|2|1|11|93
+Tony Barnette|R|Brett Gardner|L|Strikeout|F|Cutter|7|1|2|1|9|90
+Tony Barnette|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|8|1|2|1|12|94
+Tony Barnette|R|Brett Gardner|L|Strikeout|B|Cutter|9|2|2|1|11|89
+Tony Barnette|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|10|3|2|1|4|92
+Tony Barnette|R|Brett Gardner|L|Strikeout|S|Sinker|11|3|2|1|11|93
+Tony Barnette|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|12|0|0|2|11|94
+Tony Barnette|R|Aaron Judge|R|Strikeout|S|Cutter|13|1|0|2|12|90
+Tony Barnette|R|Aaron Judge|R|Strikeout|B|Cutter|14|1|1|2|14|89
+Tony Barnette|R|Aaron Judge|R|Strikeout|F|Four-Seam Fastball|15|2|1|2|5|94
+Tony Barnette|R|Aaron Judge|R|Strikeout|F|Cutter|16|2|2|2|6|89
+Tony Barnette|R|Aaron Judge|R|Strikeout|S|Cutter|17|2|2|2|14|88
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|C|Four-Seam Fastball|0|0|0|2|6|93
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|C|Cutter|1|0|1|2|7|89
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|B|Curveball|2|0|2|2|14|80
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|B|Cutter|3|1|2|2|14|89
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|B|Cutter|4|2|2|2|14|89
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|F|Four-Seam Fastball|5|3|2|2|6|93
+Tony Barnette|R|Guillermo Heredia|R|Pop Out|X|Four-Seam Fastball|6|3|2|2|11|92
+Tony Barnette|R|Ben Gamel|L|Single|D|Cutter|7|0|0|0|6|88
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|B|Cutter|8|0|0|0|12|88
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|B|Cutter|9|1|0|0|14|88
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|B|Four-Seam Fastball|10|2|0|0|12|92
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|C|Four-Seam Fastball|11|3|0|0|5|92
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|S|Cutter|12|3|1|0|12|88
+Tony Barnette|R|Jean Segura|R|Grounded Into DP|X|Cutter|13|3|2|0|4|88
+Tony Barnette|R|Mitch Haniger|R|Strikeout|B|Cutter|14|0|0|2|11|89
+Tony Barnette|R|Mitch Haniger|R|Strikeout|B|Cutter|15|1|0|2|12|89
+Tony Barnette|R|Mitch Haniger|R|Strikeout|F|Cutter|16|2|0|2|3|88
+Tony Barnette|R|Mitch Haniger|R|Strikeout|F|Four-Seam Fastball|17|2|1|2|2|91
+Tony Barnette|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|18|2|2|2|11|92
+Tony Barnette|R|Albert Pujols|R|Lineout|F|Cutter|0|0|0|0|12|88
+Tony Barnette|R|Albert Pujols|R|Lineout|S|Curveball|1|0|1|0|14|79
+Tony Barnette|R|Albert Pujols|R|Lineout|B|Curveball|2|0|2|0|14|80
+Tony Barnette|R|Albert Pujols|R|Lineout|B|Cutter|3|1|2|0|13|86
+Tony Barnette|R|Albert Pujols|R|Lineout|F|Cutter|4|2|2|0|12|92
+Tony Barnette|R|Albert Pujols|R|Lineout|X|Cutter|5|2|2|0|5|87
+Tony Barnette|R|Andrelton Simmons|R|Walk|B|Four-Seam Fastball|6|0|0|1|11|92
+Tony Barnette|R|Andrelton Simmons|R|Walk|C|Four-Seam Fastball|7|1|0|1|6|92
+Tony Barnette|R|Andrelton Simmons|R|Walk|B|Sinker|8|1|1|1|11|92
+Tony Barnette|R|Andrelton Simmons|R|Walk|B|Four-Seam Fastball|9|2|1|1|11|92
+Tony Barnette|R|Andrelton Simmons|R|Walk|B|Four-Seam Fastball|10|3|1|1|11|92
+Tony Barnette|R|C.J. Cron|R|Caught Stealing 2B|T|Four-Seam Fastball|11|0|0|1|3|91
+Tony Barnette|R|C.J. Cron|R|Caught Stealing 2B|B|Cutter|12|0|1|1|14|89
+Tony Barnette|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|0|0|0|1|12|93
+Tony Barnette|R|Yonder Alonso|L|Walk|B|Cutter|1|1|0|1|13|90
+Tony Barnette|R|Yonder Alonso|L|Walk|S|Cutter|2|2|0|1|8|89
+Tony Barnette|R|Yonder Alonso|L|Walk|S|Cutter|3|2|1|1|14|90
+Tony Barnette|R|Yonder Alonso|L|Walk|B|Curveball|4|2|2|1|14|81
+Tony Barnette|R|Yonder Alonso|L|Walk|B|Cutter|5|3|2|1|13|90
+Tony Barnette|R|Mike Zunino|R|Single|B|Cutter|6|0|0|1|14|89
+Tony Barnette|R|Mike Zunino|R|Single|S|Four-Seam Fastball|7|1|0|1|1|93
+Tony Barnette|R|Mike Zunino|R|Single|*B|Curveball|8|1|1|1|14|81
+Tony Barnette|R|Mike Zunino|R|Single|D|Four-Seam Fastball|9|2|1|1|5|94
+Tony Barnette|R|Guillermo Heredia|R|Single|*B|Curveball|10|0|0|1|14|80
+Tony Barnette|R|Guillermo Heredia|R|Single|B|Curveball|11|1|0|1|14|78
+Tony Barnette|R|Guillermo Heredia|R|Single|B|Cutter|12|2|0|1|11|89
+Tony Barnette|R|Guillermo Heredia|R|Single|C|Cutter|13|3|0|1|6|88
+Tony Barnette|R|Guillermo Heredia|R|Single|F|Cutter|14|3|1|1|14|89
+Tony Barnette|R|Guillermo Heredia|R|Single|F|Four-Seam Fastball|15|3|2|1|2|93
+Tony Barnette|R|Guillermo Heredia|R|Single|F|Four-Seam Fastball|16|3|2|1|5|93
+Tony Barnette|R|Guillermo Heredia|R|Single|F|Four-Seam Fastball|17|3|2|1|14|93
+Tony Barnette|R|Guillermo Heredia|R|Single|F|Cutter|18|3|2|1|7|88
+Tony Barnette|R|Guillermo Heredia|R|Single|D|Four-Seam Fastball|19|3|2|1|12|92
+Tony Barnette|R|Ben Gamel|L|Lineout|*B|Curveball|20|0|0|2|14|79
+Tony Barnette|R|Ben Gamel|L|Lineout|F|Cutter|21|1|0|2|12|88
+Tony Barnette|R|Ben Gamel|L|Lineout|F|Cutter|22|1|1|2|12|88
+Tony Barnette|R|Ben Gamel|L|Lineout|X|Curveball|23|1|2|2|8|78
+Tony Barnette|R|Chad Pinder|R|Lineout|F|Cutter|0|0|0|0|3|86
+Tony Barnette|R|Chad Pinder|R|Lineout|B|Four-Seam Fastball|1|0|1|0|14|91
+Tony Barnette|R|Chad Pinder|R|Lineout|X|Cutter|2|1|1|0|14|87
+Tony Barnette|R|Matt Chapman|R|Single|B|Cutter|3|0|0|1|14|89
+Tony Barnette|R|Matt Chapman|R|Single|F|Cutter|4|1|0|1|12|88
+Tony Barnette|R|Matt Chapman|R|Single|S|Curveball|5|1|1|1|14|78
+Tony Barnette|R|Matt Chapman|R|Single|B|Curveball|6|1|2|1|14|79
+Tony Barnette|R|Matt Chapman|R|Single|D|Cutter|7|2|2|1|14|87
+Tony Barnette|R|Josh Phegley|R|Strikeout|C|Four-Seam Fastball|8|0|0|1|3|91
+Tony Barnette|R|Josh Phegley|R|Strikeout|S|Curveball|9|0|1|1|14|76
+Tony Barnette|R|Josh Phegley|R|Strikeout|B|Cutter|10|0|2|1|12|88
+Tony Barnette|R|Josh Phegley|R|Strikeout|S|Cutter|11|1|2|1|14|86
+Tony Barnette|R|Marcus Semien|R|Single|B|Cutter|12|0|0|2|12|90
+Tony Barnette|R|Marcus Semien|R|Single|S|Four-Seam Fastball|13|1|0|2|14|92
+Tony Barnette|R|Marcus Semien|R|Single|D|Cutter|14|1|1|2|14|88
+Tony Barnette|R|Matt Joyce|L|Pop Out|X|Cutter|15|0|0|2|6|88
+Tony Barnette|R|Ryon Healy|R|Strikeout|B|Cutter|0|0|0|2|14|89
+Tony Barnette|R|Ryon Healy|R|Strikeout|C|Cutter|1|1|0|2|14|88
+Tony Barnette|R|Ryon Healy|R|Strikeout|S|Curveball|2|1|1|2|14|78
+Tony Barnette|R|Ryon Healy|R|Strikeout|W|Curveball|3|1|2|2|14|79
+Tony Barnette|R|Mark Canha|R|Single|S|Four-Seam Fastball|4|0|0|0|3|91
+Tony Barnette|R|Mark Canha|R|Single|B|Four-Seam Fastball|5|0|1|0|14|92
+Tony Barnette|R|Mark Canha|R|Single|D|Cutter|6|1|1|0|6|89
+Tony Barnette|R|Josh Phegley|R|Double|B|Cutter|7|0|0|0|14|88
+Tony Barnette|R|Josh Phegley|R|Double|B|Four-Seam Fastball|8|1|0|0|13|92
+Tony Barnette|R|Josh Phegley|R|Double|B|Four-Seam Fastball|9|2|0|0|14|93
+Tony Barnette|R|Josh Phegley|R|Double|E|Four-Seam Fastball|10|3|0|0|4|92
+Tony Barnette|R|Jake Smolinski|R|Groundout|F|Cutter|11|0|0|0|6|89
+Tony Barnette|R|Jake Smolinski|R|Groundout|C|Cutter|12|0|1|0|14|88
+Tony Barnette|R|Jake Smolinski|R|Groundout|X|Curveball|13|0|2|0|3|77
+Tony Barnette|R|Marcus Semien|R|Groundout|B|Curveball|14|0|0|1|11|75
+Tony Barnette|R|Marcus Semien|R|Groundout|S|Cutter|15|1|0|1|11|86
+Tony Barnette|R|Marcus Semien|R|Groundout|F|Cutter|16|1|1|1|5|86
+Tony Barnette|R|Marcus Semien|R|Groundout|F|Cutter|17|1|2|1|13|87
+Tony Barnette|R|Marcus Semien|R|Groundout|B|Cutter|18|1|2|1|11|85
+Tony Barnette|R|Marcus Semien|R|Groundout|F|Curveball|19|2|2|1|11|74
+Tony Barnette|R|Marcus Semien|R|Groundout|B|Four-Seam Fastball|20|2|2|1|12|91
+Tony Barnette|R|Marcus Semien|R|Groundout|X|Cutter|21|3|2|1|9|86
+Tony Barnette|R|Matt Chapman|R|Double|C|Cutter|22|0|0|2|12|88
+Tony Barnette|R|Matt Chapman|R|Double|C|Curveball|23|0|1|2|3|75
+Tony Barnette|R|Matt Chapman|R|Double|*B|Curveball|24|0|2|2|14|77
+Tony Barnette|R|Matt Chapman|R|Double|*B|Splitter|25|1|2|2|14|88
+Tony Barnette|R|Matt Chapman|R|Double|B|Four-Seam Fastball|26|2|2|2|14|92
+Tony Barnette|R|Matt Chapman|R|Double|F|Cutter|27|3|2|2|2|85
+Tony Barnette|R|Matt Chapman|R|Double|E|Cutter|28|3|2|2|6|86
+Tony Barnette|R|Yuli Gurriel|R|Walk|C|Four-Seam Fastball|0|0|0|0|9|94
+Tony Barnette|R|Yuli Gurriel|R|Walk|S|Curveball|1|0|1|0|14|78
+Tony Barnette|R|Yuli Gurriel|R|Walk|*B|Curveball|2|0|2|0|14|79
+Tony Barnette|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|3|1|2|0|13|93
+Tony Barnette|R|Yuli Gurriel|R|Walk|*B|Curveball|4|2|2|0|14|79
+Tony Barnette|R|Yuli Gurriel|R|Walk|F|Four-Seam Fastball|5|3|2|0|9|93
+Tony Barnette|R|Yuli Gurriel|R|Walk|F|Cutter|6|3|2|0|14|88
+Tony Barnette|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|7|3|2|0|14|94
+Tony Barnette|R|Tony Kemp|L|Single|E|Four-Seam Fastball|8|0|0|0|5|94
+Tony Barnette|R|George Springer|R|Home Run|F|Cutter|9|0|0|0|14|89
+Tony Barnette|R|George Springer|R|Home Run|E|Cutter|10|0|1|0|3|89
+Tony Barnette|R|Alex Bregman|R|Single|D|Cutter|11|0|0|0|5|90
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|S|Four-Seam Fastball|12|0|0|0|3|93
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|C|Four-Seam Fastball|13|0|1|0|5|94
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|B|Curveball|14|0|2|0|14|79
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|F|Four-Seam Fastball|15|1|2|0|5|94
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|B|Curveball|16|1|2|0|12|82
+Tony Barnette|R|Jose Altuve|R|Fielders Choice Out|X|Cutter|17|2|2|0|2|88
+Tony Barnette|R|Carlos Correa|R|Home Run|E|Sinker|18|0|0|1|2|92

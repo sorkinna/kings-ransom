@@ -1,0 +1,2947 @@
+Josh Collmenter|R|Norichika Aoki|L|Lineout|C|Cutter|0|0|0|0|5|85
+Josh Collmenter|R|Norichika Aoki|L|Lineout|X|Cutter|1|0|1|0|4|84
+Josh Collmenter|R|Joe Panik|L|Single|C|Cutter|2|0|0|1|4|86
+Josh Collmenter|R|Joe Panik|L|Single|D|Cutter|3|0|1|1|3|85
+Josh Collmenter|R|Angel Pagan|L|Double|C|Cutter|4|0|0|1|8|85
+Josh Collmenter|R|Angel Pagan|L|Double|D|Changeup|5|0|1|1|14|78
+Josh Collmenter|R|Buster Posey|R|Strikeout|B|Cutter|6|0|0|1|13|85
+Josh Collmenter|R|Buster Posey|R|Strikeout|C|Cutter|7|1|0|1|8|85
+Josh Collmenter|R|Buster Posey|R|Strikeout|F|Cutter|8|1|1|1|4|86
+Josh Collmenter|R|Buster Posey|R|Strikeout|T|Changeup|9|1|2|1|14|79
+Josh Collmenter|R|Brandon Belt|L|Flyout|F|Cutter|10|0|0|2|4|85
+Josh Collmenter|R|Brandon Belt|L|Flyout|X|Cutter|11|0|1|2|8|86
+Josh Collmenter|R|Casey McGehee|R|Groundout|B|Cutter|12|0|0|0|12|83
+Josh Collmenter|R|Casey McGehee|R|Groundout|B|Cutter|13|1|0|0|12|84
+Josh Collmenter|R|Casey McGehee|R|Groundout|B|Cutter|14|2|0|0|12|84
+Josh Collmenter|R|Casey McGehee|R|Groundout|C|Cutter|15|3|0|0|5|83
+Josh Collmenter|R|Casey McGehee|R|Groundout|X|Cutter|16|3|1|0|14|85
+Josh Collmenter|R|Brandon Crawford|L|Groundout|C|Cutter|17|0|0|1|5|85
+Josh Collmenter|R|Brandon Crawford|L|Groundout|B|Cutter|18|0|1|1|13|84
+Josh Collmenter|R|Brandon Crawford|L|Groundout|B|Changeup|19|1|1|1|11|79
+Josh Collmenter|R|Brandon Crawford|L|Groundout|X|Cutter|20|2|1|1|12|86
+Josh Collmenter|R|Gregor Blanco|L|Lineout|F|Cutter|21|0|0|2|5|85
+Josh Collmenter|R|Gregor Blanco|L|Lineout|B|Curveball|22|0|1|2|13|74
+Josh Collmenter|R|Gregor Blanco|L|Lineout|X|Cutter|23|1|1|2|12|86
+Josh Collmenter|R|Madison Bumgarner|R|Groundout|X|Cutter|24|0|0|0|12|84
+Josh Collmenter|R|Norichika Aoki|L|Single|C|Changeup|25|0|0|1|8|76
+Josh Collmenter|R|Norichika Aoki|L|Single|B|Changeup|26|0|1|1|13|75
+Josh Collmenter|R|Norichika Aoki|L|Single|B|Cutter|27|1|1|1|12|84
+Josh Collmenter|R|Norichika Aoki|L|Single|B|Changeup|28|2|1|1|14|77
+Josh Collmenter|R|Norichika Aoki|L|Single|F|Cutter|29|3|1|1|14|86
+Josh Collmenter|R|Norichika Aoki|L|Single|D|Cutter|30|3|2|1|4|87
+Josh Collmenter|R|Joe Panik|L|Double|X|Cutter|31|0|0|1|1|84
+Josh Collmenter|R|Angel Pagan|L|Single|B|Cutter|32|0|0|2|11|86
+Josh Collmenter|R|Angel Pagan|L|Single|C|Cutter|33|1|0|2|5|86
+Josh Collmenter|R|Angel Pagan|L|Single|E|Cutter|34|1|1|2|8|86
+Josh Collmenter|R|Buster Posey|R|Flyout|F|Changeup|35|0|0|2|8|78
+Josh Collmenter|R|Buster Posey|R|Flyout|X|Cutter|36|0|1|2|5|86
+Josh Collmenter|R|Brandon Belt|L|Strikeout|L|Cutter|37|0|0|0|9|85
+Josh Collmenter|R|Brandon Belt|L|Strikeout|F|Changeup|38|0|1|0|13|78
+Josh Collmenter|R|Brandon Belt|L|Strikeout|S|Changeup|39|0|2|0|11|76
+Josh Collmenter|R|Casey McGehee|R|Single|B|Curveball|40|0|0|1|14|73
+Josh Collmenter|R|Casey McGehee|R|Single|C|Changeup|41|1|0|1|12|76
+Josh Collmenter|R|Casey McGehee|R|Single|B|Cutter|42|1|1|1|12|86
+Josh Collmenter|R|Casey McGehee|R|Single|F|Changeup|43|2|1|1|3|77
+Josh Collmenter|R|Casey McGehee|R|Single|B|Cutter|44|2|2|1|8|86
+Josh Collmenter|R|Casey McGehee|R|Single|F|Cutter|45|3|2|1|13|86
+Josh Collmenter|R|Casey McGehee|R|Single|D|Cutter|46|3|2|1|14|86
+Josh Collmenter|R|Brandon Crawford|L|Single|B|Cutter|47|0|0|1|13|85
+Josh Collmenter|R|Brandon Crawford|L|Single|S|Changeup|48|1|0|1|13|77
+Josh Collmenter|R|Brandon Crawford|L|Single|B|Changeup|49|1|1|1|11|76
+Josh Collmenter|R|Brandon Crawford|L|Single|F|Cutter|50|2|1|1|14|84
+Josh Collmenter|R|Brandon Crawford|L|Single|D|Cutter|51|2|2|1|13|85
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|C|Cutter|52|0|0|1|11|85
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|S|Changeup|53|0|1|1|13|77
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|*B|Changeup|54|0|2|1|13|78
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|B|Cutter|55|1|2|1|13|86
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|W|Changeup|56|2|2|1|13|78
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|B|Curveball|57|0|0|2|12|72
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|C|Changeup|58|1|0|2|9|77
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|S|Changeup|59|1|1|2|14|76
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|F|Cutter|60|1|2|2|2|86
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|B|Changeup|61|1|2|2|14|76
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|F|Cutter|62|2|2|2|5|86
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|B|Changeup|63|2|2|2|14|77
+Josh Collmenter|R|Madison Bumgarner|R|Strikeout|S|Changeup|64|3|2|2|14|78
+Josh Collmenter|R|Norichika Aoki|L|Single|B|Cutter|65|0|0|0|11|83
+Josh Collmenter|R|Norichika Aoki|L|Single|F|Cutter|66|1|0|0|2|84
+Josh Collmenter|R|Norichika Aoki|L|Single|D|Curveball|67|1|1|0|4|72
+Josh Collmenter|R|Joe Panik|L|Single|C|Cutter|68|0|0|0|8|84
+Josh Collmenter|R|Joe Panik|L|Single|B|Changeup|69|0|1|0|13|77
+Josh Collmenter|R|Joe Panik|L|Single|*B|Cutter|70|1|1|0|13|84
+Josh Collmenter|R|Joe Panik|L|Single|F|Changeup|71|2|1|0|7|78
+Josh Collmenter|R|Joe Panik|L|Single|D|Cutter|72|2|2|0|2|84
+Josh Collmenter|R|Angel Pagan|L|Double|E|Cutter|73|0|0|0|8|85
+Josh Collmenter|R|Buster Posey|R|Sac Fly|B|Cutter|74|0|0|0|14|85
+Josh Collmenter|R|Buster Posey|R|Sac Fly|E|Changeup|75|1|0|0|9|78
+Josh Collmenter|R|Brandon Belt|L|Groundout|C|Curveball|76|0|0|1|2|72
+Josh Collmenter|R|Brandon Belt|L|Groundout|S|Changeup|77|0|1|1|13|78
+Josh Collmenter|R|Brandon Belt|L|Groundout|B|Changeup|78|0|2|1|13|77
+Josh Collmenter|R|Brandon Belt|L|Groundout|F|Cutter|79|1|2|1|14|84
+Josh Collmenter|R|Brandon Belt|L|Groundout|F|Cutter|80|1|2|1|7|85
+Josh Collmenter|R|Brandon Belt|L|Groundout|X|Changeup|81|1|2|1|13|77
+Josh Collmenter|R|Casey McGehee|R|Walk|F|Cutter|82|0|0|2|2|85
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Cutter|83|0|1|2|13|85
+Josh Collmenter|R|Casey McGehee|R|Walk|C|Cutter|84|1|1|2|7|85
+Josh Collmenter|R|Casey McGehee|R|Walk|F|Cutter|85|1|2|2|11|86
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Changeup|86|1|2|2|14|77
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Cutter|87|2|2|2|13|86
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Changeup|88|3|2|2|14|79
+Josh Collmenter|R|Jimmy Rollins|L|Single|B|Cutter|0|0|0|0|13|84
+Josh Collmenter|R|Jimmy Rollins|L|Single|D|Cutter|1|1|0|0|5|85
+Josh Collmenter|R|Yasiel Puig|R|Flyout|F|Cutter|2|0|0|0|14|83
+Josh Collmenter|R|Yasiel Puig|R|Flyout|F|Cutter|3|0|1|0|13|84
+Josh Collmenter|R|Yasiel Puig|R|Flyout|B|Changeup|4|0|2|0|14|76
+Josh Collmenter|R|Yasiel Puig|R|Flyout|B|Changeup|5|1|2|0|14|77
+Josh Collmenter|R|Yasiel Puig|R|Flyout|X|Cutter|6|2|2|0|3|84
+Josh Collmenter|R|Adrian Gonzalez|L|Pop Out|C|Curveball|7|0|0|1|7|71
+Josh Collmenter|R|Adrian Gonzalez|L|Pop Out|X|Cutter|8|0|1|1|3|83
+Josh Collmenter|R|Howie Kendrick|R|Pickoff Caught Stealing 2B|B|Cutter|9|0|0|2|12|84
+Josh Collmenter|R|Howie Kendrick|R|Pickoff Caught Stealing 2B|B|Cutter|10|1|0|2|12|83
+Josh Collmenter|R|Howie Kendrick|R|Pickoff Caught Stealing 2B|C|Changeup|11|2|0|2|3|77
+Josh Collmenter|R|Howie Kendrick|R|Flyout|X|Curveball|12|0|0|0|8|71
+Josh Collmenter|R|Yasmani Grandal|L|Groundout|B|Cutter|13|0|0|1|12|84
+Josh Collmenter|R|Yasmani Grandal|L|Groundout|C|Cutter|14|1|0|1|13|83
+Josh Collmenter|R|Yasmani Grandal|L|Groundout|B|Curveball|15|1|1|1|13|74
+Josh Collmenter|R|Yasmani Grandal|L|Groundout|C|Changeup|16|2|1|1|8|77
+Josh Collmenter|R|Yasmani Grandal|L|Groundout|X|Cutter|17|2|2|1|12|85
+Josh Collmenter|R|Andre Ethier|L|Triple|D|Cutter|18|0|0|2|13|84
+Josh Collmenter|R|Alex Guerrero|R|Groundout|B|Curveball|19|0|0|2|11|73
+Josh Collmenter|R|Alex Guerrero|R|Groundout|F|Changeup|20|1|0|2|14|78
+Josh Collmenter|R|Alex Guerrero|R|Groundout|X|Cutter|21|1|1|2|13|86
+Josh Collmenter|R|Joc Pederson|L|Double|F|Cutter|22|0|0|0|2|84
+Josh Collmenter|R|Joc Pederson|L|Double|B|Cutter|23|0|1|0|12|83
+Josh Collmenter|R|Joc Pederson|L|Double|F|Changeup|24|1|1|0|13|75
+Josh Collmenter|R|Joc Pederson|L|Double|F|Changeup|25|1|2|0|13|76
+Josh Collmenter|R|Joc Pederson|L|Double|D|Cutter|26|1|2|0|12|84
+Josh Collmenter|R|Zack Greinke|R|Sac Bunt|X|Cutter|27|0|0|0|14|83
+Josh Collmenter|R|Jimmy Rollins|L|Sac Fly|B|Changeup|28|0|0|1|13|77
+Josh Collmenter|R|Jimmy Rollins|L|Sac Fly|E|Changeup|29|1|0|1|13|78
+Josh Collmenter|R|Yasiel Puig|R|Walk|B|Cutter|30|0|0|2|13|84
+Josh Collmenter|R|Yasiel Puig|R|Walk|B|Cutter|31|1|0|2|14|84
+Josh Collmenter|R|Yasiel Puig|R|Walk|B|Changeup|32|2|0|2|12|78
+Josh Collmenter|R|Yasiel Puig|R|Walk|B|Cutter|33|3|0|2|12|84
+Josh Collmenter|R|Adrian Gonzalez|L|Groundout|X|Cutter|34|0|0|2|13|84
+Josh Collmenter|R|Howie Kendrick|R|Lineout|X|Cutter|35|0|0|0|3|84
+Josh Collmenter|R|Yasmani Grandal|L|Single|B|Cutter|36|0|0|1|13|84
+Josh Collmenter|R|Yasmani Grandal|L|Single|C|Cutter|37|1|0|1|13|85
+Josh Collmenter|R|Yasmani Grandal|L|Single|B|Changeup|38|1|1|1|11|77
+Josh Collmenter|R|Yasmani Grandal|L|Single|B|Changeup|39|2|1|1|13|77
+Josh Collmenter|R|Yasmani Grandal|L|Single|C|Changeup|40|3|1|1|12|78
+Josh Collmenter|R|Yasmani Grandal|L|Single|D|Cutter|41|3|2|1|12|87
+Josh Collmenter|R|Andre Ethier|L|Single|D|Curveball|42|0|0|1|13|74
+Josh Collmenter|R|Alex Guerrero|R|Single|B|Changeup|43|0|0|1|12|77
+Josh Collmenter|R|Alex Guerrero|R|Single|F|Cutter|44|1|0|1|3|86
+Josh Collmenter|R|Alex Guerrero|R|Single|E|Cutter|45|1|1|1|7|85
+Josh Collmenter|R|Joc Pederson|L|Single|D|Changeup|46|0|0|1|7|77
+Josh Collmenter|R|Zack Greinke|R|Strikeout|S|Changeup|47|0|0|1|9|78
+Josh Collmenter|R|Zack Greinke|R|Strikeout|F|Cutter|48|0|1|1|5|85
+Josh Collmenter|R|Zack Greinke|R|Strikeout|C|Cutter|49|0|2|1|7|86
+Josh Collmenter|R|Jimmy Rollins|L|Groundout|B|Cutter|50|0|0|2|13|85
+Josh Collmenter|R|Jimmy Rollins|L|Groundout|B|Cutter|51|1|0|2|11|86
+Josh Collmenter|R|Jimmy Rollins|L|Groundout|S|Changeup|52|2|0|2|7|79
+Josh Collmenter|R|Jimmy Rollins|L|Groundout|B|Changeup|53|2|1|2|13|78
+Josh Collmenter|R|Jimmy Rollins|L|Groundout|X|Cutter|54|3|1|2|7|87
+Josh Collmenter|R|Yasiel Puig|R|Home Run|F|Cutter|55|0|0|0|1|85
+Josh Collmenter|R|Yasiel Puig|R|Home Run|B|Cutter|56|0|1|0|12|84
+Josh Collmenter|R|Yasiel Puig|R|Home Run|C|Cutter|57|1|1|0|13|86
+Josh Collmenter|R|Yasiel Puig|R|Home Run|B|Changeup|58|1|2|0|11|78
+Josh Collmenter|R|Yasiel Puig|R|Home Run|F|Changeup|59|2|2|0|11|78
+Josh Collmenter|R|Yasiel Puig|R|Home Run|B|Cutter|60|2|2|0|13|87
+Josh Collmenter|R|Yasiel Puig|R|Home Run|E|Cutter|61|3|2|0|7|87
+Josh Collmenter|R|Adrian Gonzalez|L|Double|S|Changeup|62|0|0|0|13|78
+Josh Collmenter|R|Adrian Gonzalez|L|Double|B|Four-Seam Fastball|63|0|1|0|12|84
+Josh Collmenter|R|Adrian Gonzalez|L|Double|B|Cutter|64|1|1|0|12|85
+Josh Collmenter|R|Adrian Gonzalez|L|Double|S|Changeup|65|2|1|0|13|78
+Josh Collmenter|R|Adrian Gonzalez|L|Double|D|Cutter|66|2|2|0|11|85
+Josh Collmenter|R|Howie Kendrick|R|Groundout|C|Cutter|67|0|0|0|11|85
+Josh Collmenter|R|Howie Kendrick|R|Groundout|C|Cutter|68|0|1|0|13|86
+Josh Collmenter|R|Howie Kendrick|R|Groundout|X|Changeup|69|0|2|0|8|78
+Josh Collmenter|R|Yasmani Grandal|L|Pop Out|F|Changeup|70|0|0|1|2|77
+Josh Collmenter|R|Yasmani Grandal|L|Pop Out|X|Cutter|71|0|1|1|3|85
+Josh Collmenter|R|Andre Ethier|L|Groundout|C|Changeup|72|0|0|2|9|78
+Josh Collmenter|R|Andre Ethier|L|Groundout|X|Changeup|73|0|1|2|13|79
+Josh Collmenter|R|Norichika Aoki|L|Groundout|B|Cutter|0|0|0|0|11|82
+Josh Collmenter|R|Norichika Aoki|L|Groundout|C|Cutter|1|1|0|0|4|83
+Josh Collmenter|R|Norichika Aoki|L|Groundout|F|Changeup|2|1|1|0|8|76
+Josh Collmenter|R|Norichika Aoki|L|Groundout|B|Cutter|3|1|2|0|12|82
+Josh Collmenter|R|Norichika Aoki|L|Groundout|X|Cutter|4|2|2|0|14|84
+Josh Collmenter|R|Joe Panik|L|Flyout|B|Cutter|5|0|0|1|13|83
+Josh Collmenter|R|Joe Panik|L|Flyout|X|Changeup|6|1|0|1|5|76
+Josh Collmenter|R|Angel Pagan|L|Single|C|Cutter|7|0|0|2|5|83
+Josh Collmenter|R|Angel Pagan|L|Single|C|Curveball|8|0|1|2|8|71
+Josh Collmenter|R|Angel Pagan|L|Single|D|Cutter|9|0|2|2|4|83
+Josh Collmenter|R|Buster Posey|R|Forceout|S|Changeup|10|0|0|2|8|74
+Josh Collmenter|R|Buster Posey|R|Forceout|B|Cutter|11|0|1|2|14|82
+Josh Collmenter|R|Buster Posey|R|Forceout|X|Cutter|12|1|1|2|14|82
+Josh Collmenter|R|Casey McGehee|R|Groundout|C|Cutter|13|0|0|0|12|81
+Josh Collmenter|R|Casey McGehee|R|Groundout|B|Curveball|14|0|1|0|14|69
+Josh Collmenter|R|Casey McGehee|R|Groundout|B|Cutter|15|1|1|0|14|82
+Josh Collmenter|R|Casey McGehee|R|Groundout|X|Cutter|16|2|1|0|12|83
+Josh Collmenter|R|Brandon Belt|L|Groundout|B|Cutter|17|0|0|1|14|81
+Josh Collmenter|R|Brandon Belt|L|Groundout|B|Cutter|18|1|0|1|12|82
+Josh Collmenter|R|Brandon Belt|L|Groundout|B|Cutter|19|2|0|1|12|83
+Josh Collmenter|R|Brandon Belt|L|Groundout|C|Cutter|20|3|0|1|12|82
+Josh Collmenter|R|Brandon Belt|L|Groundout|S|Changeup|21|3|1|1|14|75
+Josh Collmenter|R|Brandon Belt|L|Groundout|X|Changeup|22|3|2|1|13|75
+Josh Collmenter|R|Gregor Blanco|L|Single|B|Cutter|23|0|0|2|13|82
+Josh Collmenter|R|Gregor Blanco|L|Single|C|Cutter|24|1|0|2|5|83
+Josh Collmenter|R|Gregor Blanco|L|Single|D|Curveball|25|1|1|2|7|73
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|F|Cutter|26|0|0|2|4|82
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|B|Cutter|27|0|1|2|13|81
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|S|Changeup|28|1|1|2|13|75
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|S|Changeup|29|1|2|2|13|75
+Josh Collmenter|R|Jake Peavy|R|Flyout|C|Cutter|30|0|0|0|9|81
+Josh Collmenter|R|Jake Peavy|R|Flyout|X|Cutter|31|0|1|0|14|81
+Josh Collmenter|R|Norichika Aoki|L|Pop Out|C|Cutter|32|0|0|1|1|82
+Josh Collmenter|R|Norichika Aoki|L|Pop Out|B|Cutter|33|0|1|1|12|80
+Josh Collmenter|R|Norichika Aoki|L|Pop Out|X|Cutter|34|1|1|1|12|83
+Josh Collmenter|R|Joe Panik|L|Single|C|Cutter|35|0|0|2|6|83
+Josh Collmenter|R|Joe Panik|L|Single|B|Curveball|36|0|1|2|13|71
+Josh Collmenter|R|Joe Panik|L|Single|D|Changeup|37|1|1|2|13|75
+Josh Collmenter|R|Angel Pagan|L|Forceout|B|Cutter|38|0|0|2|13|82
+Josh Collmenter|R|Angel Pagan|L|Forceout|B|Cutter|39|1|0|2|13|81
+Josh Collmenter|R|Angel Pagan|L|Forceout|C|Cutter|40|2|0|2|7|83
+Josh Collmenter|R|Angel Pagan|L|Forceout|C|Cutter|41|2|1|2|14|83
+Josh Collmenter|R|Angel Pagan|L|Forceout|X|Cutter|42|2|2|2|3|83
+Josh Collmenter|R|Buster Posey|R|Flyout|C|Cutter|43|0|0|0|9|81
+Josh Collmenter|R|Buster Posey|R|Flyout|C|Cutter|44|0|1|0|7|83
+Josh Collmenter|R|Buster Posey|R|Flyout|B|Cutter|45|0|2|0|12|83
+Josh Collmenter|R|Buster Posey|R|Flyout|X|Cutter|46|1|2|0|4|84
+Josh Collmenter|R|Casey McGehee|R|Walk|F|Cutter|47|0|0|1|2|82
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Changeup|48|0|1|1|12|75
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Changeup|49|1|1|1|12|76
+Josh Collmenter|R|Casey McGehee|R|Walk|S|Cutter|50|2|1|1|8|83
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Cutter|51|2|2|1|12|84
+Josh Collmenter|R|Casey McGehee|R|Walk|B|Cutter|52|3|2|1|11|84
+Josh Collmenter|R|Brandon Belt|L|Double Play|B|Changeup|53|0|0|1|13|77
+Josh Collmenter|R|Brandon Belt|L|Double Play|X|Cutter|54|1|0|1|14|82
+Josh Collmenter|R|Gregor Blanco|L|Pop Out|B|Cutter|55|0|0|0|12|82
+Josh Collmenter|R|Gregor Blanco|L|Pop Out|C|Changeup|56|1|0|0|13|74
+Josh Collmenter|R|Gregor Blanco|L|Pop Out|B|Changeup|57|1|1|0|13|75
+Josh Collmenter|R|Gregor Blanco|L|Pop Out|X|Changeup|58|2|1|0|5|75
+Josh Collmenter|R|Brandon Crawford|L|Groundout|B|Cutter|59|0|0|1|14|83
+Josh Collmenter|R|Brandon Crawford|L|Groundout|S|Changeup|60|1|0|1|13|75
+Josh Collmenter|R|Brandon Crawford|L|Groundout|X|Changeup|61|1|1|1|7|76
+Josh Collmenter|R|Joaquin Arias|R|Flyout|C|Cutter|62|0|0|2|4|83
+Josh Collmenter|R|Joaquin Arias|R|Flyout|B|Changeup|63|0|1|2|14|75
+Josh Collmenter|R|Joaquin Arias|R|Flyout|X|Cutter|64|1|1|2|8|84
+Josh Collmenter|R|Norichika Aoki|L|Groundout|B|Cutter|65|0|0|0|13|80
+Josh Collmenter|R|Norichika Aoki|L|Groundout|X|Cutter|66|1|0|0|4|80
+Josh Collmenter|R|Joe Panik|L|Groundout|B|Curveball|67|0|0|1|13|70
+Josh Collmenter|R|Joe Panik|L|Groundout|C|Cutter|68|1|0|1|14|83
+Josh Collmenter|R|Joe Panik|L|Groundout|B|Cutter|69|1|1|1|12|83
+Josh Collmenter|R|Joe Panik|L|Groundout|F|Cutter|70|2|1|1|12|84
+Josh Collmenter|R|Joe Panik|L|Groundout|B|Curveball|71|2|2|1|13|72
+Josh Collmenter|R|Joe Panik|L|Groundout|F|Changeup|72|3|2|1|5|76
+Josh Collmenter|R|Joe Panik|L|Groundout|X|Changeup|73|3|2|1|13|75
+Josh Collmenter|R|Angel Pagan|L|Groundout|F|Cutter|74|0|0|2|12|82
+Josh Collmenter|R|Angel Pagan|L|Groundout|B|Cutter|75|0|1|2|13|84
+Josh Collmenter|R|Angel Pagan|L|Groundout|B|Cutter|76|1|1|2|14|84
+Josh Collmenter|R|Angel Pagan|L|Groundout|B|Cutter|77|2|1|2|12|84
+Josh Collmenter|R|Angel Pagan|L|Groundout|X|Cutter|78|3|1|2|12|84
+Josh Collmenter|R|Buster Posey|R|Flyout|B|Cutter|79|0|0|0|11|80
+Josh Collmenter|R|Buster Posey|R|Flyout|B|Cutter|80|1|0|0|14|81
+Josh Collmenter|R|Buster Posey|R|Flyout|C|Cutter|81|2|0|0|14|83
+Josh Collmenter|R|Buster Posey|R|Flyout|X|Changeup|82|2|1|0|14|76
+Josh Collmenter|R|Casey McGehee|R|Lineout|F|Changeup|83|0|0|1|4|75
+Josh Collmenter|R|Casey McGehee|R|Lineout|C|Cutter|84|0|1|1|7|82
+Josh Collmenter|R|Casey McGehee|R|Lineout|B|Cutter|85|0|2|1|11|83
+Josh Collmenter|R|Casey McGehee|R|Lineout|B|Changeup|86|1|2|1|14|76
+Josh Collmenter|R|Casey McGehee|R|Lineout|X|Curveball|87|2|2|1|6|72
+Josh Collmenter|R|Brandon Belt|L|Groundout|X|Cutter|88|0|0|2|5|82
+Josh Collmenter|R|Gregor Blanco|L|Groundout|F|Cutter|89|0|0|0|3|80
+Josh Collmenter|R|Gregor Blanco|L|Groundout|B|Cutter|90|0|1|0|7|82
+Josh Collmenter|R|Gregor Blanco|L|Groundout|F|Changeup|91|1|1|0|2|75
+Josh Collmenter|R|Gregor Blanco|L|Groundout|X|Cutter|92|1|2|0|7|83
+Josh Collmenter|R|Brandon Crawford|L|Flyout|B|Cutter|93|0|0|1|13|83
+Josh Collmenter|R|Brandon Crawford|L|Flyout|B|Changeup|94|1|0|1|13|76
+Josh Collmenter|R|Brandon Crawford|L|Flyout|B|Cutter|95|2|0|1|12|83
+Josh Collmenter|R|Brandon Crawford|L|Flyout|C|Cutter|96|3|0|1|6|82
+Josh Collmenter|R|Brandon Crawford|L|Flyout|T|Cutter|97|3|1|1|12|84
+Josh Collmenter|R|Brandon Crawford|L|Flyout|X|Cutter|98|3|2|1|3|84
+Josh Collmenter|R|Matt Duffy|R|Flyout|B|Cutter|99|0|0|2|14|82
+Josh Collmenter|R|Matt Duffy|R|Flyout|B|Cutter|100|1|0|2|13|84
+Josh Collmenter|R|Matt Duffy|R|Flyout|X|Cutter|101|2|0|2|5|84
+Josh Collmenter|R|Norichika Aoki|L|Groundout|F|Cutter|102|0|0|0|12|80
+Josh Collmenter|R|Norichika Aoki|L|Groundout|X|Changeup|103|0|1|0|4|75
+Josh Collmenter|R|Joe Panik|L|Double|C|Cutter|104|0|0|1|11|82
+Josh Collmenter|R|Joe Panik|L|Double|D|Curveball|105|0|1|1|4|70
+Josh Collmenter|R|Justin Maxwell|R|Strikeout|C|Cutter|106|0|0|1|13|84
+Josh Collmenter|R|Justin Maxwell|R|Strikeout|B|Cutter|107|0|1|1|14|82
+Josh Collmenter|R|Justin Maxwell|R|Strikeout|S|Changeup|108|1|1|1|13|74
+Josh Collmenter|R|Justin Maxwell|R|Strikeout|S|Cutter|109|1|2|1|7|85
+Josh Collmenter|R|Hector Sanchez|L|Pop Out|C|Cutter|110|0|0|2|2|85
+Josh Collmenter|R|Hector Sanchez|L|Pop Out|S|Cutter|111|0|1|2|14|84
+Josh Collmenter|R|Hector Sanchez|L|Pop Out|*B|Changeup|112|0|2|2|13|77
+Josh Collmenter|R|Hector Sanchez|L|Pop Out|X|Cutter|113|1|2|2|12|85
+Josh Collmenter|R|Josh Harrison|R|Single|B|Cutter|0|0|0|0|3|84
+Josh Collmenter|R|Josh Harrison|R|Single|D|Cutter|1|1|0|0|14|83
+Josh Collmenter|R|Gregory Polanco|L|Forceout|C|Cutter|2|0|0|0|13|83
+Josh Collmenter|R|Gregory Polanco|L|Forceout|X|Cutter|3|0|1|0|9|84
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|B|Cutter|4|0|0|1|12|82
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|B|Cutter|5|1|0|1|14|82
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|C|Cutter|6|2|0|1|1|84
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|F|Cutter|7|2|1|1|6|83
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|B|Changeup|8|2|2|1|14|78
+Josh Collmenter|R|Andrew McCutchen|R|Flyout|X|Cutter|9|3|2|1|1|85
+Josh Collmenter|R|Neil Walker|L|Single|C|Cutter|10|0|0|2|8|85
+Josh Collmenter|R|Neil Walker|L|Single|B|Cutter|11|0|1|2|14|84
+Josh Collmenter|R|Neil Walker|L|Single|B|Cutter|12|1|1|2|13|84
+Josh Collmenter|R|Neil Walker|L|Single|E|Cutter|13|2|1|2|5|86
+Josh Collmenter|R|Starling Marte|R|Groundout|T|Cutter|14|0|0|2|4|84
+Josh Collmenter|R|Starling Marte|R|Groundout|B|Cutter|15|0|1|2|11|84
+Josh Collmenter|R|Starling Marte|R|Groundout|F|Cutter|16|1|1|2|8|84
+Josh Collmenter|R|Starling Marte|R|Groundout|B|Cutter|17|1|2|2|11|84
+Josh Collmenter|R|Starling Marte|R|Groundout|F|Changeup|18|2|2|2|7|77
+Josh Collmenter|R|Starling Marte|R|Groundout|X|Cutter|19|2|2|2|5|84
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|C|Cutter|20|0|0|0|13|82
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|B|Cutter|21|0|1|0|12|84
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|B|Cutter|22|1|1|0|12|84
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|X|Changeup|23|2|1|0|11|78
+Josh Collmenter|R|Francisco Cervelli|R|Groundout|B|Cutter|24|0|0|1|12|83
+Josh Collmenter|R|Francisco Cervelli|R|Groundout|F|Cutter|25|1|0|1|6|84
+Josh Collmenter|R|Francisco Cervelli|R|Groundout|B|Changeup|26|1|1|1|13|76
+Josh Collmenter|R|Francisco Cervelli|R|Groundout|F|Changeup|27|2|1|1|8|77
+Josh Collmenter|R|Francisco Cervelli|R|Groundout|X|Cutter|28|2|2|1|7|85
+Josh Collmenter|R|Jordy Mercer|R|Single|B|Cutter|29|0|0|2|14|85
+Josh Collmenter|R|Jordy Mercer|R|Single|D|Cutter|30|1|0|2|2|84
+Josh Collmenter|R|Gerrit Cole|R|Single|C|Cutter|31|0|0|2|3|84
+Josh Collmenter|R|Gerrit Cole|R|Single|B|Cutter|32|0|1|2|14|84
+Josh Collmenter|R|Gerrit Cole|R|Single|F|Cutter|33|1|1|2|2|84
+Josh Collmenter|R|Gerrit Cole|R|Single|*B|Curveball|34|1|2|2|13|73
+Josh Collmenter|R|Gerrit Cole|R|Single|D|Cutter|35|2|2|2|4|84
+Josh Collmenter|R|Josh Harrison|R|Double|F|Changeup|36|0|0|2|8|79
+Josh Collmenter|R|Josh Harrison|R|Double|F|Cutter|37|0|1|2|5|84
+Josh Collmenter|R|Josh Harrison|R|Double|B|Cutter|38|0|2|2|11|85
+Josh Collmenter|R|Josh Harrison|R|Double|F|Changeup|39|1|2|2|9|78
+Josh Collmenter|R|Josh Harrison|R|Double|E|Cutter|40|1|2|2|6|86
+Josh Collmenter|R|Gregory Polanco|L|Groundout|C|Curveball|41|0|0|0|1|70
+Josh Collmenter|R|Gregory Polanco|L|Groundout|F|Cutter|42|0|1|0|12|84
+Josh Collmenter|R|Gregory Polanco|L|Groundout|X|Changeup|43|0|2|0|13|75
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|B|Curveball|44|0|0|1|14|70
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|B|Changeup|45|1|0|1|14|77
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|B|Cutter|46|2|0|1|12|83
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|C|Cutter|47|3|0|1|13|84
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|X|Cutter|48|3|1|1|1|85
+Josh Collmenter|R|Neil Walker|L|Groundout|F|Cutter|49|0|0|2|2|83
+Josh Collmenter|R|Neil Walker|L|Groundout|X|Cutter|50|0|1|2|14|85
+Josh Collmenter|R|Starling Marte|R|Strikeout|C|Cutter|51|0|0|0|11|84
+Josh Collmenter|R|Starling Marte|R|Strikeout|C|Cutter|52|0|1|0|4|84
+Josh Collmenter|R|Starling Marte|R|Strikeout|B|Changeup|53|0|2|0|13|76
+Josh Collmenter|R|Starling Marte|R|Strikeout|S|Changeup|54|1|2|0|13|77
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|B|Cutter|55|0|0|1|12|85
+Josh Collmenter|R|Pedro Alvarez|L|Groundout|X|Cutter|56|1|0|1|14|84
+Josh Collmenter|R|Francisco Cervelli|R|Flyout|C|Cutter|57|0|0|2|4|84
+Josh Collmenter|R|Francisco Cervelli|R|Flyout|B|Changeup|58|0|1|2|13|78
+Josh Collmenter|R|Francisco Cervelli|R|Flyout|C|Cutter|59|1|1|2|11|85
+Josh Collmenter|R|Francisco Cervelli|R|Flyout|X|Cutter|60|1|2|2|1|85
+Josh Collmenter|R|Jordy Mercer|R|Flyout|B|Curveball|61|0|0|0|14|70
+Josh Collmenter|R|Jordy Mercer|R|Flyout|C|Changeup|62|1|0|0|12|77
+Josh Collmenter|R|Jordy Mercer|R|Flyout|B|Changeup|63|1|1|0|14|76
+Josh Collmenter|R|Jordy Mercer|R|Flyout|B|Cutter|64|2|1|0|11|84
+Josh Collmenter|R|Jordy Mercer|R|Flyout|X|Cutter|65|3|1|0|2|85
+Josh Collmenter|R|Gerrit Cole|R|Strikeout|C|Cutter|66|0|0|1|5|85
+Josh Collmenter|R|Gerrit Cole|R|Strikeout|B|Cutter|67|0|1|1|14|83
+Josh Collmenter|R|Gerrit Cole|R|Strikeout|F|Cutter|68|1|1|1|12|85
+Josh Collmenter|R|Gerrit Cole|R|Strikeout|C|Cutter|69|1|2|1|4|85
+Josh Collmenter|R|Josh Harrison|R|Flyout|T|Changeup|70|0|0|2|9|79
+Josh Collmenter|R|Josh Harrison|R|Flyout|B|Cutter|71|0|1|2|13|85
+Josh Collmenter|R|Josh Harrison|R|Flyout|X|Cutter|72|1|1|2|13|85
+Josh Collmenter|R|Gregory Polanco|L|Groundout|C|Changeup|73|0|0|0|7|76
+Josh Collmenter|R|Gregory Polanco|L|Groundout|B|Changeup|74|0|1|0|13|75
+Josh Collmenter|R|Gregory Polanco|L|Groundout|B|Cutter|75|1|1|0|12|85
+Josh Collmenter|R|Gregory Polanco|L|Groundout|X|Cutter|76|2|1|0|12|84
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|B|Cutter|77|0|0|1|12|84
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|C|Cutter|78|1|0|1|8|84
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|S|Changeup|79|1|1|1|13|76
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|F|Changeup|80|1|2|1|8|78
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|B|Changeup|81|1|2|1|13|78
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|S|Changeup|82|2|2|1|13|79
+Josh Collmenter|R|Neil Walker|L|Groundout|C|Cutter|83|0|0|2|3|86
+Josh Collmenter|R|Neil Walker|L|Groundout|X|Cutter|84|0|1|2|6|86
+Josh Collmenter|R|Starling Marte|R|Double|D|Cutter|85|0|0|0|7|82
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|C|Cutter|0|0|0|0|1|83
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|F|Changeup|1|0|1|0|7|74
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|S|Cutter|2|0|2|0|12|83
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|C|Curveball|3|0|0|1|3|69
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|F|Cutter|4|0|1|1|4|83
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|F|Cutter|5|0|2|1|2|83
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|F|Cutter|6|0|2|1|12|84
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|F|Cutter|7|0|2|1|6|84
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|F|Changeup|8|0|2|1|13|75
+Josh Collmenter|R|Corey Dickerson|L|Strikeout|S|Cutter|9|0|2|1|12|84
+Josh Collmenter|R|Troy Tulowitzki|R|Double|B|Curveball|10|0|0|2|12|71
+Josh Collmenter|R|Troy Tulowitzki|R|Double|S|Cutter|11|1|0|2|14|84
+Josh Collmenter|R|Troy Tulowitzki|R|Double|B|Cutter|12|1|1|2|12|84
+Josh Collmenter|R|Troy Tulowitzki|R|Double|B|Changeup|13|2|1|2|12|76
+Josh Collmenter|R|Troy Tulowitzki|R|Double|D|Cutter|14|3|1|2|2|84
+Josh Collmenter|R|Justin Morneau|L|Field Error|C|Cutter|15|0|0|2|11|83
+Josh Collmenter|R|Justin Morneau|L|Field Error|S|Changeup|16|0|1|2|13|75
+Josh Collmenter|R|Justin Morneau|L|Field Error|B|Changeup|17|0|2|2|13|76
+Josh Collmenter|R|Justin Morneau|L|Field Error|B|Cutter|18|1|2|2|13|84
+Josh Collmenter|R|Justin Morneau|L|Field Error|F|Cutter|19|2|2|2|2|85
+Josh Collmenter|R|Justin Morneau|L|Field Error|D|Cutter|20|2|2|2|5|85
+Josh Collmenter|R|Nolan Arenado|R|Single|B|Cutter|21|0|0|2|13|84
+Josh Collmenter|R|Nolan Arenado|R|Single|E|Cutter|22|1|0|2|14|84
+Josh Collmenter|R|Carlos Gonzalez|L|Lineout|X|Changeup|23|0|0|2|7|77
+Josh Collmenter|R|Nick Hundley|R|Single|B|Cutter|24|0|0|0|12|81
+Josh Collmenter|R|Nick Hundley|R|Single|S|Curveball|25|1|0|0|9|68
+Josh Collmenter|R|Nick Hundley|R|Single|F|Cutter|26|1|1|0|12|82
+Josh Collmenter|R|Nick Hundley|R|Single|B|Changeup|27|1|2|0|14|74
+Josh Collmenter|R|Nick Hundley|R|Single|F|Changeup|28|2|2|0|13|75
+Josh Collmenter|R|Nick Hundley|R|Single|D|Cutter|29|2|2|0|7|84
+Josh Collmenter|R|Daniel Descalso|L|Lineout|X|Cutter|30|0|0|0|3|82
+Josh Collmenter|R|Jordan Lyles|R|Double Play|C|Cutter|31|0|0|1|6|83
+Josh Collmenter|R|Jordan Lyles|R|Double Play|X|Cutter|32|0|1|1|12|84
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|C|Changeup|33|0|0|0|7|73
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|B|Cutter|34|0|1|0|11|83
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|X|Cutter|35|1|1|0|14|84
+Josh Collmenter|R|Corey Dickerson|L|Flyout|B|Cutter|36|0|0|1|11|83
+Josh Collmenter|R|Corey Dickerson|L|Flyout|C|Changeup|37|1|0|1|13|76
+Josh Collmenter|R|Corey Dickerson|L|Flyout|X|Cutter|38|1|1|1|9|84
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|B|Curveball|39|0|0|2|14|70
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|B|Cutter|40|1|0|2|11|85
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|B|Changeup|41|2|0|2|14|78
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|X|Cutter|42|3|0|2|8|85
+Josh Collmenter|R|Justin Morneau|L|Groundout|X|Cutter|43|0|0|0|4|82
+Josh Collmenter|R|Nolan Arenado|R|Pop Out|C|Cutter|44|0|0|1|5|84
+Josh Collmenter|R|Nolan Arenado|R|Pop Out|X|Cutter|45|0|1|1|7|84
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|B|Cutter|46|0|0|2|12|85
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|B|Cutter|47|1|0|2|12|85
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|C|Cutter|48|2|0|2|9|86
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|T|Cutter|49|2|1|2|3|86
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|F|Changeup|50|2|2|2|13|77
+Josh Collmenter|R|Carlos Gonzalez|L|Strikeout|C|Cutter|51|2|2|2|13|86
+Josh Collmenter|R|Nick Hundley|R|Flyout|C|Curveball|52|0|0|0|3|70
+Josh Collmenter|R|Nick Hundley|R|Flyout|F|Cutter|53|0|1|0|4|83
+Josh Collmenter|R|Nick Hundley|R|Flyout|B|Cutter|54|0|2|0|12|84
+Josh Collmenter|R|Nick Hundley|R|Flyout|B|Changeup|55|1|2|0|14|76
+Josh Collmenter|R|Nick Hundley|R|Flyout|F|Cutter|56|2|2|0|3|85
+Josh Collmenter|R|Nick Hundley|R|Flyout|X|Cutter|57|2|2|0|4|86
+Josh Collmenter|R|Daniel Descalso|L|Groundout|C|Cutter|58|0|0|1|12|85
+Josh Collmenter|R|Daniel Descalso|L|Groundout|B|Cutter|59|0|1|1|11|83
+Josh Collmenter|R|Daniel Descalso|L|Groundout|X|Changeup|60|1|1|1|7|76
+Josh Collmenter|R|Jordan Lyles|R|Strikeout|C|Curveball|61|0|0|2|12|69
+Josh Collmenter|R|Jordan Lyles|R|Strikeout|C|Cutter|62|0|1|2|14|84
+Josh Collmenter|R|Jordan Lyles|R|Strikeout|B|Curveball|63|0|2|2|14|71
+Josh Collmenter|R|Jordan Lyles|R|Strikeout|C|Cutter|64|1|2|2|8|84
+Josh Collmenter|R|Charlie Blackmon|L|Lineout|L|Cutter|65|0|0|0|1|82
+Josh Collmenter|R|Charlie Blackmon|L|Lineout|X|Curveball|66|0|1|0|13|69
+Josh Collmenter|R|Corey Dickerson|L|Double|D|Cutter|67|0|0|1|12|83
+Josh Collmenter|R|Troy Tulowitzki|R|Single|B|Cutter|68|0|0|1|14|82
+Josh Collmenter|R|Troy Tulowitzki|R|Single|X|Cutter|69|1|0|1|5|84
+Josh Collmenter|R|Justin Morneau|L|Lineout|X|Cutter|70|0|0|2|7|82
+Josh Collmenter|R|Nolan Arenado|R|Pop Out|X|Cutter|71|0|0|0|11|82
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|B|Changeup|72|0|0|1|12|76
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|B|Cutter|73|1|0|1|12|83
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|F|Cutter|74|2|0|1|3|83
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|S|Cutter|75|2|1|1|12|84
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|B|Changeup|76|2|2|1|12|76
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|X|Cutter|77|3|2|1|14|84
+Josh Collmenter|R|Nick Hundley|R|Groundout|B|Curveball|78|0|0|2|12|69
+Josh Collmenter|R|Nick Hundley|R|Groundout|F|Cutter|79|1|0|2|11|83
+Josh Collmenter|R|Nick Hundley|R|Groundout|F|Cutter|80|1|1|2|4|83
+Josh Collmenter|R|Nick Hundley|R|Groundout|B|Changeup|81|1|2|2|13|75
+Josh Collmenter|R|Nick Hundley|R|Groundout|X|Cutter|82|2|2|2|6|84
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|C|Changeup|83|0|0|0|1|73
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|B|Cutter|84|0|1|0|12|82
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|F|Curveball|85|1|1|0|5|68
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|B|Cutter|86|1|2|0|12|83
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|F|Cutter|87|2|2|0|12|83
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|F|Cutter|88|2|2|0|4|83
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|F|Changeup|89|2|2|0|11|75
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|C|Curveball|90|2|2|0|3|72
+Josh Collmenter|R|Drew Stubbs|R|Strikeout|C|Cutter|91|0|0|1|4|82
+Josh Collmenter|R|Drew Stubbs|R|Strikeout|F|Cutter|92|0|1|1|1|83
+Josh Collmenter|R|Drew Stubbs|R|Strikeout|B|Changeup|93|0|2|1|13|75
+Josh Collmenter|R|Drew Stubbs|R|Strikeout|B|Changeup|94|1|2|1|11|75
+Josh Collmenter|R|Drew Stubbs|R|Strikeout|S|Curveball|95|2|2|1|14|70
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|B|Cutter|96|0|0|2|14|85
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|B|Cutter|97|1|0|2|14|85
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|B|Cutter|98|2|0|2|14|84
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|C|Cutter|99|3|0|2|4|85
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|F|Cutter|100|3|1|2|12|84
+Josh Collmenter|R|Charlie Blackmon|L|Groundout|X|Cutter|101|3|2|2|8|86
+Josh Collmenter|R|Cristhian Adames|L|Single|D|Cutter|0|0|0|1|3|85
+Josh Collmenter|R|DJ LeMahieu|R|Forceout|C|Cutter|1|0|0|1|13|85
+Josh Collmenter|R|DJ LeMahieu|R|Forceout|B|Cutter|2|0|1|1|13|85
+Josh Collmenter|R|DJ LeMahieu|R|Forceout|X|Cutter|3|1|1|1|7|87
+Josh Collmenter|R|Charlie Blackmon|L|Single|D|Cutter|0|0|0|0|5|83
+Josh Collmenter|R|Corey Dickerson|L|Double Play|B|Cutter|1|0|0|0|7|84
+Josh Collmenter|R|Corey Dickerson|L|Double Play|F|Cutter|2|1|0|0|3|84
+Josh Collmenter|R|Corey Dickerson|L|Double Play|X|Cutter|3|1|1|0|12|84
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|T|Cutter|4|0|0|2|12|85
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|B|Cutter|5|0|1|2|12|84
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|B|Changeup|6|1|1|2|11|77
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|F|Changeup|7|2|1|2|13|77
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|S|Cutter|8|2|2|2|3|86
+Josh Collmenter|R|Justin Morneau|L|Lineout|L|Cutter|9|0|0|0|5|82
+Josh Collmenter|R|Justin Morneau|L|Lineout|B|Cutter|10|0|1|0|12|83
+Josh Collmenter|R|Justin Morneau|L|Lineout|X|Cutter|11|1|1|0|12|85
+Josh Collmenter|R|Nolan Arenado|R|Flyout|X|Cutter|12|0|0|1|4|84
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|C|Cutter|13|0|0|2|4|84
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|B|Cutter|14|0|1|2|12|83
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|B|Cutter|15|1|1|2|12|85
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|B|Cutter|16|2|1|2|12|85
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|C|Changeup|17|3|1|2|11|75
+Josh Collmenter|R|Carlos Gonzalez|L|Pop Out|X|Cutter|18|3|2|2|6|86
+Josh Collmenter|R|Nick Hundley|R|Lineout|B|Changeup|19|0|0|0|12|75
+Josh Collmenter|R|Nick Hundley|R|Lineout|C|Cutter|20|1|0|0|13|83
+Josh Collmenter|R|Nick Hundley|R|Lineout|X|Changeup|21|1|1|0|4|76
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|B|Cutter|22|0|0|1|14|84
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|C|Curveball|23|1|0|1|5|69
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|B|Cutter|24|1|1|1|13|84
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|X|Cutter|25|2|1|1|13|84
+Josh Collmenter|R|Christian Bergman|R|Flyout|C|Cutter|26|0|0|2|6|84
+Josh Collmenter|R|Christian Bergman|R|Flyout|B|Curveball|27|0|1|2|12|71
+Josh Collmenter|R|Christian Bergman|R|Flyout|X|Cutter|28|1|1|2|11|84
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|C|Curveball|29|0|0|0|12|69
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|B|Cutter|30|0|1|0|12|84
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|C|Changeup|31|1|1|0|13|76
+Josh Collmenter|R|Charlie Blackmon|L|Strikeout|T|Cutter|32|1|2|0|2|86
+Josh Collmenter|R|Corey Dickerson|L|Lineout|B|Cutter|33|0|0|1|12|84
+Josh Collmenter|R|Corey Dickerson|L|Lineout|X|Cutter|34|1|0|1|3|85
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|B|Cutter|35|0|0|2|12|85
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|F|Changeup|36|1|0|2|11|77
+Josh Collmenter|R|Troy Tulowitzki|R|Flyout|X|Changeup|37|1|1|2|8|77
+Josh Collmenter|R|Justin Morneau|L|Home Run|B|Cutter|38|0|0|0|12|83
+Josh Collmenter|R|Justin Morneau|L|Home Run|E|Curveball|39|1|0|0|2|69
+Josh Collmenter|R|Nolan Arenado|R|Double|F|Cutter|40|0|0|0|1|84
+Josh Collmenter|R|Nolan Arenado|R|Double|D|Cutter|41|0|1|0|4|84
+Josh Collmenter|R|Carlos Gonzalez|L|Single|C|Cutter|42|0|0|0|8|84
+Josh Collmenter|R|Carlos Gonzalez|L|Single|B|Cutter|43|0|1|0|13|84
+Josh Collmenter|R|Carlos Gonzalez|L|Single|S|Changeup|44|1|1|0|13|76
+Josh Collmenter|R|Carlos Gonzalez|L|Single|B|Cutter|45|1|2|0|14|84
+Josh Collmenter|R|Carlos Gonzalez|L|Single|B|Cutter|46|2|2|0|12|86
+Josh Collmenter|R|Carlos Gonzalez|L|Single|D|Cutter|47|3|2|0|8|86
+Josh Collmenter|R|Nick Hundley|R|Sac Fly|E|Changeup|48|0|0|0|13|77
+Josh Collmenter|R|DJ LeMahieu|R|Strikeout|S|Cutter|49|0|0|1|14|84
+Josh Collmenter|R|DJ LeMahieu|R|Strikeout|F|Cutter|50|0|1|1|4|84
+Josh Collmenter|R|DJ LeMahieu|R|Strikeout|S|Cutter|51|0|2|1|14|84
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|C|Cutter|52|0|0|2|1|85
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|F|Changeup|53|0|1|2|13|77
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|B|Cutter|54|0|2|2|13|84
+Josh Collmenter|R|Daniel Descalso|L|Strikeout|C|Changeup|55|1|2|2|11|76
+Josh Collmenter|R|Charlie Blackmon|L|Single|B|Changeup|56|0|0|0|13|75
+Josh Collmenter|R|Charlie Blackmon|L|Single|C|Cutter|57|1|0|0|13|84
+Josh Collmenter|R|Charlie Blackmon|L|Single|F|Cutter|58|1|1|0|14|83
+Josh Collmenter|R|Charlie Blackmon|L|Single|B|Changeup|59|1|2|0|13|75
+Josh Collmenter|R|Charlie Blackmon|L|Single|D|Changeup|60|2|2|0|7|76
+Josh Collmenter|R|Corey Dickerson|L|Pop Out|F|Cutter|61|0|0|0|14|83
+Josh Collmenter|R|Corey Dickerson|L|Pop Out|B|Changeup|62|0|1|0|13|77
+Josh Collmenter|R|Corey Dickerson|L|Pop Out|B|Changeup|63|1|1|0|13|76
+Josh Collmenter|R|Corey Dickerson|L|Pop Out|X|Cutter|64|2|1|0|12|85
+Josh Collmenter|R|Troy Tulowitzki|R|Lineout|F|Cutter|65|0|0|1|14|85
+Josh Collmenter|R|Troy Tulowitzki|R|Lineout|X|Cutter|66|0|1|1|7|85
+Josh Collmenter|R|Justin Morneau|L|Single|F|Cutter|67|0|0|2|14|85
+Josh Collmenter|R|Justin Morneau|L|Single|C|Cutter|68|0|1|2|13|85
+Josh Collmenter|R|Justin Morneau|L|Single|B|Cutter|69|0|2|2|12|84
+Josh Collmenter|R|Justin Morneau|L|Single|D|Cutter|70|1|2|2|12|86
+Josh Collmenter|R|Nolan Arenado|R|Groundout|B|Changeup|71|0|0|2|13|79
+Josh Collmenter|R|Nolan Arenado|R|Groundout|X|Cutter|72|1|0|2|12|84
+Josh Collmenter|R|Carlos Gonzalez|L|Flyout|B|Changeup|73|0|0|0|13|74
+Josh Collmenter|R|Carlos Gonzalez|L|Flyout|B|Changeup|74|1|0|0|14|76
+Josh Collmenter|R|Carlos Gonzalez|L|Flyout|F|Cutter|75|2|0|0|9|86
+Josh Collmenter|R|Carlos Gonzalez|L|Flyout|B|Changeup|76|2|1|0|12|76
+Josh Collmenter|R|Carlos Gonzalez|L|Flyout|X|Cutter|77|3|1|0|12|86
+Josh Collmenter|R|Nick Hundley|R|Home Run|F|Cutter|78|0|0|1|5|85
+Josh Collmenter|R|Nick Hundley|R|Home Run|B|Cutter|79|0|1|1|12|83
+Josh Collmenter|R|Nick Hundley|R|Home Run|B|Cutter|80|1|1|1|14|83
+Josh Collmenter|R|Nick Hundley|R|Home Run|F|Changeup|81|2|1|1|13|76
+Josh Collmenter|R|Nick Hundley|R|Home Run|B|Cutter|82|2|2|1|14|85
+Josh Collmenter|R|Nick Hundley|R|Home Run|F|Cutter|83|3|2|1|2|85
+Josh Collmenter|R|Nick Hundley|R|Home Run|E|Changeup|84|3|2|1|9|76
+Josh Collmenter|R|DJ LeMahieu|R|Single|D|Curveball|85|0|0|1|7|72
+Josh Collmenter|R|Rafael Ynoa|L|Strikeout|C|Cutter|86|0|0|1|7|84
+Josh Collmenter|R|Rafael Ynoa|L|Strikeout|F|Cutter|87|0|1|1|4|84
+Josh Collmenter|R|Rafael Ynoa|L|Strikeout|*B|Cutter|88|0|2|1|14|84
+Josh Collmenter|R|Rafael Ynoa|L|Strikeout|B|Cutter|89|1|2|1|13|85
+Josh Collmenter|R|Rafael Ynoa|L|Strikeout|S|Cutter|90|2|2|1|14|85
+Josh Collmenter|R|Charlie Blackmon|L|Lineout|B|Cutter|91|0|0|2|14|85
+Josh Collmenter|R|Charlie Blackmon|L|Lineout|B|Changeup|92|1|0|2|13|77
+Josh Collmenter|R|Charlie Blackmon|L|Lineout|X|Cutter|93|2|0|2|8|85
+Josh Collmenter|R|Corey Dickerson|L|Triple|B|Changeup|94|0|0|0|13|76
+Josh Collmenter|R|Corey Dickerson|L|Triple|B|Changeup|95|1|0|0|14|75
+Josh Collmenter|R|Corey Dickerson|L|Triple|C|Changeup|96|2|0|0|3|76
+Josh Collmenter|R|Corey Dickerson|L|Triple|S|Cutter|97|2|1|0|12|85
+Josh Collmenter|R|Corey Dickerson|L|Triple|B|Cutter|98|2|2|0|12|85
+Josh Collmenter|R|Corey Dickerson|L|Triple|D|Changeup|99|3|2|0|1|77
+Josh Collmenter|R|Drew Stubbs|R|Home Run|B|Cutter|100|0|0|0|14|84
+Josh Collmenter|R|Drew Stubbs|R|Home Run|E|Cutter|101|1|0|0|7|85
+Josh Collmenter|R|Denard Span|L|Home Run|C|Cutter|0|0|0|0|2|84
+Josh Collmenter|R|Denard Span|L|Home Run|E|Cutter|1|0|1|0|6|83
+Josh Collmenter|R|Yunel Escobar|R|Single|D|Cutter|2|0|0|0|14|83
+Josh Collmenter|R|Jayson Werth|R|Walk|C|Cutter|3|0|0|0|12|82
+Josh Collmenter|R|Jayson Werth|R|Walk|*B|Changeup|4|0|1|0|14|76
+Josh Collmenter|R|Jayson Werth|R|Walk|B|Cutter|5|1|1|0|13|83
+Josh Collmenter|R|Jayson Werth|R|Walk|B|Cutter|6|2|1|0|13|83
+Josh Collmenter|R|Jayson Werth|R|Walk|*B|Changeup|7|3|1|0|14|76
+Josh Collmenter|R|Bryce Harper|L|Flyout|B|Cutter|8|0|0|0|12|85
+Josh Collmenter|R|Bryce Harper|L|Flyout|B|Cutter|9|1|0|0|14|84
+Josh Collmenter|R|Bryce Harper|L|Flyout|S|Changeup|10|2|0|0|4|77
+Josh Collmenter|R|Bryce Harper|L|Flyout|B|Changeup|11|2|1|0|13|77
+Josh Collmenter|R|Bryce Harper|L|Flyout|X|Cutter|12|3|1|0|3|85
+Josh Collmenter|R|Ryan Zimmerman|R|Home Run|B|Cutter|13|0|0|1|14|83
+Josh Collmenter|R|Ryan Zimmerman|R|Home Run|S|Cutter|14|1|0|1|11|85
+Josh Collmenter|R|Ryan Zimmerman|R|Home Run|B|Cutter|15|1|1|1|13|84
+Josh Collmenter|R|Ryan Zimmerman|R|Home Run|E|Cutter|16|2|1|1|1|84
+Josh Collmenter|R|Wilson Ramos|R|Lineout|C|Changeup|17|0|0|1|9|78
+Josh Collmenter|R|Wilson Ramos|R|Lineout|X|Cutter|18|0|1|1|1|84
+Josh Collmenter|R|Ian Desmond|R|Groundout|B|Cutter|19|0|0|2|12|83
+Josh Collmenter|R|Ian Desmond|R|Groundout|S|Changeup|20|1|0|2|14|76
+Josh Collmenter|R|Ian Desmond|R|Groundout|S|Changeup|21|1|1|2|6|76
+Josh Collmenter|R|Ian Desmond|R|Groundout|B|Cutter|22|1|2|2|11|83
+Josh Collmenter|R|Ian Desmond|R|Groundout|F|Cutter|23|2|2|2|4|83
+Josh Collmenter|R|Ian Desmond|R|Groundout|X|Changeup|24|2|2|2|9|77
+Josh Collmenter|R|Danny Espinosa|L|Single|B|Cutter|25|0|0|0|13|82
+Josh Collmenter|R|Danny Espinosa|L|Single|B|Cutter|26|1|0|0|1|82
+Josh Collmenter|R|Danny Espinosa|L|Single|D|Changeup|27|2|0|0|14|76
+Josh Collmenter|R|Max Scherzer|R|Single|L|Cutter|28|0|0|0|3|82
+Josh Collmenter|R|Max Scherzer|R|Single|D|Changeup|29|0|1|0|14|76
+Josh Collmenter|R|Denard Span|L|Single|*B|Curveball|30|0|0|0|13|70
+Josh Collmenter|R|Denard Span|L|Single|E|Cutter|31|1|0|0|8|83
+Josh Collmenter|R|Yunel Escobar|R|Single|C|Changeup|32|0|0|0|5|78
+Josh Collmenter|R|Yunel Escobar|R|Single|F|Cutter|33|0|1|0|11|84
+Josh Collmenter|R|Yunel Escobar|R|Single|B|Changeup|34|0|2|0|14|76
+Josh Collmenter|R|Yunel Escobar|R|Single|D|Cutter|35|1|2|0|1|84
+Josh Collmenter|R|Jayson Werth|R|Sac Fly|B|Changeup|36|0|0|0|12|77
+Josh Collmenter|R|Jayson Werth|R|Sac Fly|F|Changeup|37|1|0|0|7|76
+Josh Collmenter|R|Jayson Werth|R|Sac Fly|E|Changeup|38|1|1|0|14|77
+Josh Collmenter|R|Bryce Harper|L|Single|S|Changeup|39|0|0|1|13|76
+Josh Collmenter|R|Bryce Harper|L|Single|F|Cutter|40|0|1|1|12|84
+Josh Collmenter|R|Bryce Harper|L|Single|*B|Changeup|41|0|2|1|13|76
+Josh Collmenter|R|Bryce Harper|L|Single|F|Changeup|42|1|2|1|4|73
+Josh Collmenter|R|Bryce Harper|L|Single|B|Cutter|43|1|2|1|11|84
+Josh Collmenter|R|Bryce Harper|L|Single|F|Cutter|44|2|2|1|12|85
+Josh Collmenter|R|Bryce Harper|L|Single|B|Cutter|45|2|2|1|12|85
+Josh Collmenter|R|Bryce Harper|L|Single|E|Changeup|46|3|2|1|13|77
+Josh Collmenter|R|Ben Revere|L|Single|C|Cutter|0|0|0|0|6|83
+Josh Collmenter|R|Ben Revere|L|Single|B|Cutter|1|0|1|0|12|81
+Josh Collmenter|R|Ben Revere|L|Single|S|Changeup|2|1|1|0|13|73
+Josh Collmenter|R|Ben Revere|L|Single|D|Cutter|3|1|2|0|2|83
+Josh Collmenter|R|Andres Blanco|L|Flyout|B|Cutter|4|0|0|0|13|82
+Josh Collmenter|R|Andres Blanco|L|Flyout|B|Changeup|5|1|0|0|13|73
+Josh Collmenter|R|Andres Blanco|L|Flyout|X|Cutter|6|2|0|0|3|83
+Josh Collmenter|R|Grady Sizemore|L|Groundout|B|Changeup|7|0|0|1|11|74
+Josh Collmenter|R|Grady Sizemore|L|Groundout|X|Cutter|8|1|0|1|8|82
+Josh Collmenter|R|Darin Ruf|R|Walk|B|Curveball|9|0|0|2|14|72
+Josh Collmenter|R|Darin Ruf|R|Walk|C|Cutter|10|1|0|2|8|84
+Josh Collmenter|R|Darin Ruf|R|Walk|B|Cutter|11|1|1|2|11|83
+Josh Collmenter|R|Darin Ruf|R|Walk|B|Changeup|12|2|1|2|13|77
+Josh Collmenter|R|Darin Ruf|R|Walk|B|Cutter|13|3|1|2|14|83
+Josh Collmenter|R|Maikel Franco|R|Flyout|B|Cutter|14|0|0|2|11|84
+Josh Collmenter|R|Maikel Franco|R|Flyout|X|Cutter|15|1|0|2|6|83
+Josh Collmenter|R|Cesar Hernandez|L|Double|B|Changeup|16|0|0|0|11|73
+Josh Collmenter|R|Cesar Hernandez|L|Double|C|Cutter|17|1|0|0|12|83
+Josh Collmenter|R|Cesar Hernandez|L|Double|D|Changeup|18|1|1|0|8|74
+Josh Collmenter|R|Odubel Herrera|L|Sac Bunt|B|Cutter|19|0|0|0|12|83
+Josh Collmenter|R|Odubel Herrera|L|Sac Bunt|F|Cutter|20|1|0|0|12|84
+Josh Collmenter|R|Odubel Herrera|L|Sac Bunt|X|Cutter|21|1|1|0|12|83
+Josh Collmenter|R|Cameron Rupp|R|Sac Fly|E|Cutter|22|0|0|1|1|84
+Josh Collmenter|R|Sean O'Sullivan|R|Groundout|B|Cutter|23|0|0|2|12|83
+Josh Collmenter|R|Sean O'Sullivan|R|Groundout|C|Cutter|24|1|0|2|8|82
+Josh Collmenter|R|Sean O'Sullivan|R|Groundout|F|Cutter|25|1|1|2|6|82
+Josh Collmenter|R|Sean O'Sullivan|R|Groundout|B|Changeup|26|1|2|2|12|74
+Josh Collmenter|R|Sean O'Sullivan|R|Groundout|X|Cutter|27|2|2|2|14|83
+Josh Collmenter|R|Ben Revere|L|Walk|B|Curveball|28|0|0|0|13|69
+Josh Collmenter|R|Ben Revere|L|Walk|B|Curveball|29|1|0|0|12|68
+Josh Collmenter|R|Ben Revere|L|Walk|C|Cutter|30|2|0|0|13|82
+Josh Collmenter|R|Ben Revere|L|Walk|B|Changeup|31|2|1|0|13|73
+Josh Collmenter|R|Ben Revere|L|Walk|B|Cutter|32|3|1|0|14|84
+Josh Collmenter|R|Andres Blanco|L|Grounded Into DP|P|Pitchout|33|0|0|0|11|78
+Josh Collmenter|R|Andres Blanco|L|Grounded Into DP|X|Cutter|34|0|1|0|5|83
+Josh Collmenter|R|Grady Sizemore|L|Lineout|C|Curveball|35|0|0|2|4|71
+Josh Collmenter|R|Grady Sizemore|L|Lineout|B|Changeup|36|0|1|2|13|74
+Josh Collmenter|R|Grady Sizemore|L|Lineout|X|Cutter|37|1|1|2|1|82
+Josh Collmenter|R|Darin Ruf|R|Home Run|C|Curveball|38|0|0|0|9|69
+Josh Collmenter|R|Darin Ruf|R|Home Run|E|Cutter|39|0|1|0|7|84
+Josh Collmenter|R|Maikel Franco|R|Flyout|B|Cutter|40|0|0|0|14|83
+Josh Collmenter|R|Maikel Franco|R|Flyout|X|Changeup|41|1|0|0|8|75
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|42|0|0|1|12|83
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|43|0|1|1|14|84
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|B|Changeup|44|0|2|1|13|73
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|B|Changeup|45|1|2|1|13|74
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|46|2|2|1|7|83
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|C|Cutter|47|2|2|1|7|83
+Josh Collmenter|R|Odubel Herrera|L|Pop Out|X|Cutter|48|0|0|2|14|84
+Josh Collmenter|R|Cameron Rupp|R|Pop Out|C|Curveball|49|0|0|0|12|70
+Josh Collmenter|R|Cameron Rupp|R|Pop Out|B|Cutter|50|0|1|0|14|83
+Josh Collmenter|R|Cameron Rupp|R|Pop Out|F|Cutter|51|1|1|0|11|83
+Josh Collmenter|R|Cameron Rupp|R|Pop Out|F|Cutter|52|1|2|0|7|84
+Josh Collmenter|R|Cameron Rupp|R|Pop Out|X|Cutter|53|1|2|0|12|84
+Josh Collmenter|R|Sean O'Sullivan|R|Flyout|B|Curveball|54|0|0|1|14|69
+Josh Collmenter|R|Sean O'Sullivan|R|Flyout|F|Cutter|55|1|0|1|14|83
+Josh Collmenter|R|Sean O'Sullivan|R|Flyout|B|Cutter|56|1|1|1|12|83
+Josh Collmenter|R|Sean O'Sullivan|R|Flyout|X|Cutter|57|2|1|1|9|83
+Josh Collmenter|R|Ben Revere|L|Groundout|B|Cutter|58|0|0|2|12|83
+Josh Collmenter|R|Ben Revere|L|Groundout|C|Curveball|59|1|0|2|4|70
+Josh Collmenter|R|Ben Revere|L|Groundout|X|Cutter|60|1|1|2|6|84
+Josh Collmenter|R|Andres Blanco|L|Pop Out|C|Cutter|61|0|0|0|12|83
+Josh Collmenter|R|Andres Blanco|L|Pop Out|X|Cutter|62|0|1|0|9|83
+Josh Collmenter|R|Grady Sizemore|L|Groundout|B|Cutter|63|0|0|1|14|84
+Josh Collmenter|R|Grady Sizemore|L|Groundout|C|Curveball|64|1|0|1|7|69
+Josh Collmenter|R|Grady Sizemore|L|Groundout|X|Changeup|65|1|1|1|7|75
+Josh Collmenter|R|Darin Ruf|R|Single|B|Cutter|66|0|0|2|14|83
+Josh Collmenter|R|Darin Ruf|R|Single|B|Curveball|67|1|0|2|14|70
+Josh Collmenter|R|Darin Ruf|R|Single|C|Cutter|68|2|0|2|14|84
+Josh Collmenter|R|Darin Ruf|R|Single|D|Changeup|69|2|1|2|6|76
+Josh Collmenter|R|Maikel Franco|R|Triple|B|Cutter|70|0|0|2|13|84
+Josh Collmenter|R|Maikel Franco|R|Triple|B|Cutter|71|1|0|2|14|83
+Josh Collmenter|R|Maikel Franco|R|Triple|F|Cutter|72|2|0|2|6|84
+Josh Collmenter|R|Maikel Franco|R|Triple|E|Cutter|73|2|1|2|5|85
+Josh Collmenter|R|Cesar Hernandez|L|Double|B|Cutter|74|0|0|2|14|85
+Josh Collmenter|R|Cesar Hernandez|L|Double|E|Cutter|75|1|0|2|5|84
+Josh Collmenter|R|Odubel Herrera|L|Pop Out|B|Cutter|76|0|0|2|14|84
+Josh Collmenter|R|Odubel Herrera|L|Pop Out|X|Cutter|77|1|0|2|3|84
+Josh Collmenter|R|Dexter Fowler|L|Strikeout|C|Cutter|0|0|0|0|7|83
+Josh Collmenter|R|Dexter Fowler|L|Strikeout|F|Cutter|1|0|1|0|14|82
+Josh Collmenter|R|Dexter Fowler|L|Strikeout|C|Changeup|2|0|2|0|7|73
+Josh Collmenter|R|Kris Bryant|R|Flyout|B|Cutter|3|0|0|1|14|82
+Josh Collmenter|R|Kris Bryant|R|Flyout|B|Changeup|4|1|0|1|14|75
+Josh Collmenter|R|Kris Bryant|R|Flyout|X|Cutter|5|2|0|1|6|83
+Josh Collmenter|R|Anthony Rizzo|L|Pop Out|B|Cutter|6|0|0|2|12|83
+Josh Collmenter|R|Anthony Rizzo|L|Pop Out|C|Changeup|7|1|0|2|8|75
+Josh Collmenter|R|Anthony Rizzo|L|Pop Out|B|Cutter|8|1|1|2|14|83
+Josh Collmenter|R|Anthony Rizzo|L|Pop Out|F|Cutter|9|2|1|2|5|83
+Josh Collmenter|R|Anthony Rizzo|L|Pop Out|X|Cutter|10|2|2|2|6|84
+Josh Collmenter|R|Starlin Castro|R|Double|B|Curveball|11|0|0|0|12|68
+Josh Collmenter|R|Starlin Castro|R|Double|F|Cutter|12|1|0|0|1|82
+Josh Collmenter|R|Starlin Castro|R|Double|B|Changeup|13|1|1|0|14|74
+Josh Collmenter|R|Starlin Castro|R|Double|B|Changeup|14|2|1|0|12|74
+Josh Collmenter|R|Starlin Castro|R|Double|C|Cutter|15|3|1|0|9|83
+Josh Collmenter|R|Starlin Castro|R|Double|F|Changeup|16|3|2|0|4|74
+Josh Collmenter|R|Starlin Castro|R|Double|F|Cutter|17|3|2|0|5|84
+Josh Collmenter|R|Starlin Castro|R|Double|D|Cutter|18|3|2|0|3|84
+Josh Collmenter|R|Jorge Soler|R|Lineout|S|Cutter|19|0|0|0|3|83
+Josh Collmenter|R|Jorge Soler|R|Lineout|X|Changeup|20|0|1|0|5|73
+Josh Collmenter|R|Junior Lake|R|Lineout|T|Cutter|21|0|0|1|8|82
+Josh Collmenter|R|Junior Lake|R|Lineout|C|Cutter|22|0|1|1|13|82
+Josh Collmenter|R|Junior Lake|R|Lineout|B|Cutter|23|0|2|1|11|82
+Josh Collmenter|R|Junior Lake|R|Lineout|B|Changeup|24|1|2|1|14|74
+Josh Collmenter|R|Junior Lake|R|Lineout|B|Cutter|25|2|2|1|11|82
+Josh Collmenter|R|Junior Lake|R|Lineout|F|Cutter|26|3|2|1|5|83
+Josh Collmenter|R|Junior Lake|R|Lineout|F|Cutter|27|3|2|1|4|84
+Josh Collmenter|R|Junior Lake|R|Lineout|F|Changeup|28|3|2|1|14|75
+Josh Collmenter|R|Junior Lake|R|Lineout|F|Changeup|29|3|2|1|13|77
+Josh Collmenter|R|Junior Lake|R|Lineout|X|Cutter|30|3|2|1|2|85
+Josh Collmenter|R|David Ross|R|Walk|S|Changeup|31|0|0|2|8|74
+Josh Collmenter|R|David Ross|R|Walk|S|Cutter|32|0|1|2|8|83
+Josh Collmenter|R|David Ross|R|Walk|F|Cutter|33|0|2|2|7|84
+Josh Collmenter|R|David Ross|R|Walk|B|Cutter|34|0|2|2|12|83
+Josh Collmenter|R|David Ross|R|Walk|B|Changeup|35|1|2|2|13|75
+Josh Collmenter|R|David Ross|R|Walk|F|Cutter|36|2|2|2|5|85
+Josh Collmenter|R|David Ross|R|Walk|B|Cutter|37|2|2|2|14|85
+Josh Collmenter|R|David Ross|R|Walk|B|Cutter|38|3|2|2|12|85
+Josh Collmenter|R|Jon Lester|L|Groundout|C|Changeup|39|0|0|2|4|75
+Josh Collmenter|R|Jon Lester|L|Groundout|X|Cutter|40|0|1|2|3|82
+Josh Collmenter|R|Addison Russell|R|Lineout|C|Cutter|41|0|0|0|12|82
+Josh Collmenter|R|Addison Russell|R|Lineout|F|Cutter|42|0|1|0|4|83
+Josh Collmenter|R|Addison Russell|R|Lineout|X|Cutter|43|0|2|0|3|83
+Josh Collmenter|R|Dexter Fowler|L|Home Run|C|Curveball|44|0|0|1|3|69
+Josh Collmenter|R|Dexter Fowler|L|Home Run|B|Cutter|45|0|1|1|14|84
+Josh Collmenter|R|Dexter Fowler|L|Home Run|B|Changeup|46|1|1|1|13|73
+Josh Collmenter|R|Dexter Fowler|L|Home Run|S|Changeup|47|2|1|1|8|74
+Josh Collmenter|R|Dexter Fowler|L|Home Run|B|Changeup|48|2|2|1|13|74
+Josh Collmenter|R|Dexter Fowler|L|Home Run|E|Cutter|49|3|2|1|8|85
+Josh Collmenter|R|Kris Bryant|R|Flyout|C|Curveball|50|0|0|1|5|70
+Josh Collmenter|R|Kris Bryant|R|Flyout|B|Cutter|51|0|1|1|11|84
+Josh Collmenter|R|Kris Bryant|R|Flyout|F|Cutter|52|1|1|1|4|84
+Josh Collmenter|R|Kris Bryant|R|Flyout|B|Changeup|53|1|2|1|13|76
+Josh Collmenter|R|Kris Bryant|R|Flyout|B|Changeup|54|2|2|1|13|76
+Josh Collmenter|R|Kris Bryant|R|Flyout|F|Cutter|55|3|2|1|5|85
+Josh Collmenter|R|Kris Bryant|R|Flyout|F|Cutter|56|3|2|1|13|85
+Josh Collmenter|R|Kris Bryant|R|Flyout|X|Changeup|57|3|2|1|7|77
+Josh Collmenter|R|Anthony Rizzo|L|Double|D|Curveball|58|0|0|2|7|70
+Josh Collmenter|R|Starlin Castro|R|Groundout|B|Changeup|59|0|0|2|14|75
+Josh Collmenter|R|Starlin Castro|R|Groundout|C|Changeup|60|1|0|2|9|76
+Josh Collmenter|R|Starlin Castro|R|Groundout|F|Cutter|61|1|1|2|6|84
+Josh Collmenter|R|Starlin Castro|R|Groundout|F|Changeup|62|1|2|2|14|76
+Josh Collmenter|R|Starlin Castro|R|Groundout|X|Changeup|63|1|2|2|14|77
+Josh Collmenter|R|Jorge Soler|R|Double|B|Cutter|64|0|0|0|14|82
+Josh Collmenter|R|Jorge Soler|R|Double|F|Cutter|65|1|0|0|5|83
+Josh Collmenter|R|Jorge Soler|R|Double|B|Changeup|66|1|1|0|13|75
+Josh Collmenter|R|Jorge Soler|R|Double|D|Cutter|67|2|1|0|4|84
+Josh Collmenter|R|Junior Lake|R|Single|D|Changeup|68|0|0|0|13|75
+Josh Collmenter|R|David Ross|R|Strikeout|F|Changeup|69|0|0|0|9|75
+Josh Collmenter|R|David Ross|R|Strikeout|S|Cutter|70|0|1|0|1|84
+Josh Collmenter|R|David Ross|R|Strikeout|T|Cutter|71|0|2|0|6|84
+Josh Collmenter|R|Jon Lester|L|Strikeout|L|Cutter|72|0|0|1|6|84
+Josh Collmenter|R|Jon Lester|L|Strikeout|L|Cutter|73|0|1|1|8|84
+Josh Collmenter|R|Jon Lester|L|Strikeout|S|Changeup|74|0|2|1|13|74
+Josh Collmenter|R|Addison Russell|R|Single|B|Changeup|75|0|0|2|14|77
+Josh Collmenter|R|Addison Russell|R|Single|B|Changeup|76|1|0|2|13|76
+Josh Collmenter|R|Addison Russell|R|Single|B|Cutter|77|2|0|2|12|84
+Josh Collmenter|R|Addison Russell|R|Single|C|Cutter|78|3|0|2|3|83
+Josh Collmenter|R|Addison Russell|R|Single|S|Changeup|79|3|1|2|7|76
+Josh Collmenter|R|Addison Russell|R|Single|E|Changeup|80|3|2|2|6|77
+Josh Collmenter|R|Dexter Fowler|L|Groundout|S|Changeup|81|0|0|2|13|75
+Josh Collmenter|R|Dexter Fowler|L|Groundout|B|Changeup|82|0|1|2|13|75
+Josh Collmenter|R|Dexter Fowler|L|Groundout|X|Cutter|83|1|1|2|12|84
+Josh Collmenter|R|Kris Bryant|R|Strikeout|F|Cutter|84|0|0|0|7|83
+Josh Collmenter|R|Kris Bryant|R|Strikeout|C|Cutter|85|0|1|0|9|82
+Josh Collmenter|R|Kris Bryant|R|Strikeout|C|Cutter|86|0|2|0|14|82
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|B|Cutter|87|0|0|1|13|84
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|F|Cutter|88|1|0|1|14|83
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|X|Cutter|89|1|1|1|12|84
+Josh Collmenter|R|Starlin Castro|R|Lineout|S|Cutter|90|0|0|2|9|84
+Josh Collmenter|R|Starlin Castro|R|Lineout|F|Cutter|91|0|1|2|11|84
+Josh Collmenter|R|Starlin Castro|R|Lineout|B|Curveball|92|0|2|2|14|69
+Josh Collmenter|R|Starlin Castro|R|Lineout|B|Changeup|93|1|2|2|14|74
+Josh Collmenter|R|Starlin Castro|R|Lineout|X|Cutter|94|2|2|2|11|85
+Josh Collmenter|R|Kolten Wong|L|Home Run|E|Cutter|0|0|0|0|3|83
+Josh Collmenter|R|Matt Carpenter|L|Flyout|C|Cutter|1|0|0|0|4|83
+Josh Collmenter|R|Matt Carpenter|L|Flyout|B|Cutter|2|0|1|0|11|83
+Josh Collmenter|R|Matt Carpenter|L|Flyout|X|Changeup|3|1|1|0|4|75
+Josh Collmenter|R|Matt Holliday|R|Lineout|C|Cutter|4|0|0|1|14|83
+Josh Collmenter|R|Matt Holliday|R|Lineout|F|Cutter|5|0|1|1|7|84
+Josh Collmenter|R|Matt Holliday|R|Lineout|X|Cutter|6|0|2|1|2|84
+Josh Collmenter|R|Jhonny Peralta|R|Flyout|B|Cutter|7|0|0|2|14|83
+Josh Collmenter|R|Jhonny Peralta|R|Flyout|X|Cutter|8|1|0|2|6|84
+Josh Collmenter|R|Randal Grichuk|R|Groundout|B|Cutter|9|0|0|0|12|83
+Josh Collmenter|R|Randal Grichuk|R|Groundout|X|Cutter|10|1|0|0|14|84
+Josh Collmenter|R|Yadier Molina|R|Double|C|Curveball|11|0|0|1|3|70
+Josh Collmenter|R|Yadier Molina|R|Double|B|Cutter|12|0|1|1|14|84
+Josh Collmenter|R|Yadier Molina|R|Double|B|Cutter|13|1|1|1|12|84
+Josh Collmenter|R|Yadier Molina|R|Double|S|Changeup|14|2|1|1|5|76
+Josh Collmenter|R|Yadier Molina|R|Double|D|Cutter|15|2|2|1|11|85
+Josh Collmenter|R|Mark Reynolds|R|Single|B|Cutter|16|0|0|1|14|84
+Josh Collmenter|R|Mark Reynolds|R|Single|C|Changeup|17|1|0|1|9|76
+Josh Collmenter|R|Mark Reynolds|R|Single|B|Cutter|18|1|1|1|14|84
+Josh Collmenter|R|Mark Reynolds|R|Single|C|Cutter|19|2|1|1|14|84
+Josh Collmenter|R|Mark Reynolds|R|Single|E|Changeup|20|2|2|1|8|75
+Josh Collmenter|R|Jason Heyward|L|Pop Out|*B|Cutter|21|0|0|1|13|83
+Josh Collmenter|R|Jason Heyward|L|Pop Out|*B|Cutter|22|1|0|1|14|85
+Josh Collmenter|R|Jason Heyward|L|Pop Out|S|Changeup|23|2|0|1|13|78
+Josh Collmenter|R|Jason Heyward|L|Pop Out|S|Changeup|24|2|1|1|13|76
+Josh Collmenter|R|Jason Heyward|L|Pop Out|X|Changeup|25|2|2|1|13|76
+Josh Collmenter|R|Lance Lynn|R|Strikeout|B|Cutter|26|0|0|2|12|83
+Josh Collmenter|R|Lance Lynn|R|Strikeout|C|Cutter|27|1|0|2|14|83
+Josh Collmenter|R|Lance Lynn|R|Strikeout|S|Cutter|28|1|1|2|14|83
+Josh Collmenter|R|Lance Lynn|R|Strikeout|F|Cutter|29|1|2|2|12|84
+Josh Collmenter|R|Lance Lynn|R|Strikeout|C|Cutter|30|1|2|2|13|85
+Josh Collmenter|R|Kolten Wong|L|Pop Out|B|Cutter|31|0|0|0|13|83
+Josh Collmenter|R|Kolten Wong|L|Pop Out|B|Cutter|32|1|0|0|11|83
+Josh Collmenter|R|Kolten Wong|L|Pop Out|B|Changeup|33|2|0|0|14|75
+Josh Collmenter|R|Kolten Wong|L|Pop Out|C|Cutter|34|3|0|0|3|84
+Josh Collmenter|R|Kolten Wong|L|Pop Out|F|Changeup|35|3|1|0|4|75
+Josh Collmenter|R|Kolten Wong|L|Pop Out|F|Changeup|36|3|2|0|8|72
+Josh Collmenter|R|Kolten Wong|L|Pop Out|X|Cutter|37|3|2|0|12|84
+Josh Collmenter|R|Matt Carpenter|L|Lineout|C|Curveball|38|0|0|1|14|69
+Josh Collmenter|R|Matt Carpenter|L|Lineout|B|Changeup|39|0|1|1|13|74
+Josh Collmenter|R|Matt Carpenter|L|Lineout|F|Changeup|40|1|1|1|12|75
+Josh Collmenter|R|Matt Carpenter|L|Lineout|B|Cutter|41|1|2|1|12|85
+Josh Collmenter|R|Matt Carpenter|L|Lineout|X|Cutter|42|2|2|1|14|86
+Josh Collmenter|R|Matt Holliday|R|Strikeout|B|Changeup|43|0|0|2|14|77
+Josh Collmenter|R|Matt Holliday|R|Strikeout|F|Cutter|44|1|0|2|5|85
+Josh Collmenter|R|Matt Holliday|R|Strikeout|S|Changeup|45|1|1|2|9|76
+Josh Collmenter|R|Matt Holliday|R|Strikeout|B|Changeup|46|1|2|2|14|76
+Josh Collmenter|R|Matt Holliday|R|Strikeout|F|Cutter|47|2|2|2|6|86
+Josh Collmenter|R|Matt Holliday|R|Strikeout|S|Cutter|48|2|2|2|1|86
+Josh Collmenter|R|Jhonny Peralta|R|Single|S|Changeup|49|0|0|0|9|76
+Josh Collmenter|R|Jhonny Peralta|R|Single|B|Cutter|50|0|1|0|12|86
+Josh Collmenter|R|Jhonny Peralta|R|Single|S|Cutter|51|1|1|0|12|85
+Josh Collmenter|R|Jhonny Peralta|R|Single|F|Cutter|52|1|2|0|4|85
+Josh Collmenter|R|Jhonny Peralta|R|Single|B|Changeup|53|1|2|0|13|76
+Josh Collmenter|R|Jhonny Peralta|R|Single|B|Changeup|54|2|2|0|14|77
+Josh Collmenter|R|Jhonny Peralta|R|Single|D|Cutter|55|3|2|0|4|86
+Josh Collmenter|R|Randal Grichuk|R|Double|S|Changeup|56|0|0|0|14|76
+Josh Collmenter|R|Randal Grichuk|R|Double|B|Changeup|57|0|1|0|14|76
+Josh Collmenter|R|Randal Grichuk|R|Double|S|Cutter|58|1|1|0|12|85
+Josh Collmenter|R|Randal Grichuk|R|Double|B|Cutter|59|1|2|0|14|86
+Josh Collmenter|R|Randal Grichuk|R|Double|F|Cutter|60|2|2|0|4|86
+Josh Collmenter|R|Randal Grichuk|R|Double|D|Changeup|61|2|2|0|13|78
+Josh Collmenter|R|Yadier Molina|R|Groundout|B|Cutter|62|0|0|0|14|86
+Josh Collmenter|R|Yadier Molina|R|Groundout|B|Cutter|63|1|0|0|12|86
+Josh Collmenter|R|Yadier Molina|R|Groundout|F|Changeup|64|2|0|0|13|78
+Josh Collmenter|R|Yadier Molina|R|Groundout|B|Cutter|65|2|1|0|14|85
+Josh Collmenter|R|Yadier Molina|R|Groundout|F|Cutter|66|3|1|0|12|85
+Josh Collmenter|R|Yadier Molina|R|Groundout|X|Changeup|67|3|2|0|14|78
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|68|0|0|1|14|85
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Changeup|69|1|0|1|14|76
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|70|2|0|1|12|86
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Changeup|71|3|0|1|14|79
+Josh Collmenter|R|Jason Heyward|L|Pop Out|C|Cutter|72|0|0|1|13|85
+Josh Collmenter|R|Jason Heyward|L|Pop Out|X|Cutter|73|0|1|1|12|86
+Josh Collmenter|R|Lance Lynn|R|Flyout|B|Cutter|74|0|0|2|14|86
+Josh Collmenter|R|Lance Lynn|R|Flyout|S|Cutter|75|1|0|2|5|86
+Josh Collmenter|R|Lance Lynn|R|Flyout|F|Cutter|76|1|1|2|5|86
+Josh Collmenter|R|Lance Lynn|R|Flyout|F|Cutter|77|1|2|2|3|87
+Josh Collmenter|R|Lance Lynn|R|Flyout|*B|Changeup|78|1|2|2|14|78
+Josh Collmenter|R|Lance Lynn|R|Flyout|B|Cutter|79|2|2|2|13|86
+Josh Collmenter|R|Lance Lynn|R|Flyout|X|Four-Seam Fastball|80|3|2|2|2|88
+Josh Collmenter|R|Kolten Wong|L|Groundout|C|Cutter|81|0|0|0|1|84
+Josh Collmenter|R|Kolten Wong|L|Groundout|X|Changeup|82|0|1|0|5|74
+Josh Collmenter|R|Matt Carpenter|L|Walk|C|Cutter|83|0|0|1|13|84
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Cutter|84|0|1|1|13|85
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Changeup|85|1|1|1|13|76
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Changeup|86|2|1|1|13|76
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Cutter|87|3|1|1|11|86
+Josh Collmenter|R|Matt Holliday|R|Single|F|Cutter|88|0|0|1|2|85
+Josh Collmenter|R|Matt Holliday|R|Single|D|Cutter|89|0|1|1|6|85
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|S|Changeup|90|0|0|1|7|78
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|B|Changeup|91|0|1|1|14|78
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|B|Cutter|92|1|1|1|12|85
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|X|Changeup|93|2|1|1|8|75
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|F|Cutter|94|0|0|2|6|84
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|B|Cutter|95|0|1|2|11|84
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|B|Cutter|96|1|1|2|12|86
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|S|Changeup|97|2|1|2|14|77
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|F|Cutter|98|2|2|2|1|87
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|F|Changeup|99|2|2|2|7|78
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|F|Cutter|100|2|2|2|4|87
+Josh Collmenter|R|Randal Grichuk|R|Strikeout|S|Cutter|101|2|2|2|12|87
+Josh Collmenter|R|Jace Peterson|L|Bunt Groundout|X|Cutter|0|0|0|0|9|83
+Josh Collmenter|R|Andrelton Simmons|R|Groundout|C|Cutter|1|0|0|1|12|84
+Josh Collmenter|R|Andrelton Simmons|R|Groundout|B|Changeup|2|0|1|1|14|73
+Josh Collmenter|R|Andrelton Simmons|R|Groundout|F|Changeup|3|1|1|1|12|74
+Josh Collmenter|R|Andrelton Simmons|R|Groundout|B|Curveball|4|1|2|1|14|70
+Josh Collmenter|R|Andrelton Simmons|R|Groundout|X|Cutter|5|2|2|1|6|85
+Josh Collmenter|R|Freddie Freeman|L|Single|C|Cutter|6|0|0|2|7|83
+Josh Collmenter|R|Freddie Freeman|L|Single|B|Cutter|7|0|1|2|12|83
+Josh Collmenter|R|Freddie Freeman|L|Single|B|Changeup|8|1|1|2|13|76
+Josh Collmenter|R|Freddie Freeman|L|Single|B|Cutter|9|2|1|2|13|84
+Josh Collmenter|R|Freddie Freeman|L|Single|S|Changeup|10|3|1|2|4|76
+Josh Collmenter|R|Freddie Freeman|L|Single|F|Cutter|11|3|2|2|1|85
+Josh Collmenter|R|Freddie Freeman|L|Single|F|Cutter|12|3|2|2|9|86
+Josh Collmenter|R|Freddie Freeman|L|Single|F|Cutter|13|3|2|2|4|87
+Josh Collmenter|R|Freddie Freeman|L|Single|F|Changeup|14|3|2|2|5|77
+Josh Collmenter|R|Freddie Freeman|L|Single|D|Cutter|15|3|2|2|3|86
+Josh Collmenter|R|Nick Markakis|L|Double|C|Cutter|16|0|0|2|4|83
+Josh Collmenter|R|Nick Markakis|L|Double|B|Changeup|17|0|1|2|13|74
+Josh Collmenter|R|Nick Markakis|L|Double|B|Cutter|18|1|1|2|12|85
+Josh Collmenter|R|Nick Markakis|L|Double|C|Changeup|19|2|1|2|13|76
+Josh Collmenter|R|Nick Markakis|L|Double|F|Cutter|20|2|2|2|4|85
+Josh Collmenter|R|Nick Markakis|L|Double|F|Cutter|21|2|2|2|13|86
+Josh Collmenter|R|Nick Markakis|L|Double|E|Cutter|22|2|2|2|5|85
+Josh Collmenter|R|Juan Uribe|R|Strikeout|C|Curveball|23|0|0|2|12|70
+Josh Collmenter|R|Juan Uribe|R|Strikeout|B|Cutter|24|0|1|2|12|84
+Josh Collmenter|R|Juan Uribe|R|Strikeout|B|Cutter|25|1|1|2|12|84
+Josh Collmenter|R|Juan Uribe|R|Strikeout|B|Changeup|26|2|1|2|14|75
+Josh Collmenter|R|Juan Uribe|R|Strikeout|F|Cutter|27|3|1|2|8|86
+Josh Collmenter|R|Juan Uribe|R|Strikeout|C|Cutter|28|3|2|2|11|86
+Josh Collmenter|R|A.J. Pierzynski|L|Lineout|F|Cutter|29|0|0|0|7|81
+Josh Collmenter|R|A.J. Pierzynski|L|Lineout|B|Changeup|30|0|1|0|13|74
+Josh Collmenter|R|A.J. Pierzynski|L|Lineout|B|Curveball|31|1|1|0|14|69
+Josh Collmenter|R|A.J. Pierzynski|L|Lineout|X|Cutter|32|2|1|0|1|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|B|Cutter|33|0|0|1|14|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|B|Cutter|34|1|0|1|12|84
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|B|Cutter|35|2|0|1|12|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|C|Cutter|36|3|0|1|3|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|F|Cutter|37|3|1|1|12|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|C|Cutter|38|3|2|1|9|85
+Josh Collmenter|R|Todd Cunningham|L|Single|B|Cutter|39|0|0|2|13|83
+Josh Collmenter|R|Todd Cunningham|L|Single|C|Cutter|40|1|0|2|13|84
+Josh Collmenter|R|Todd Cunningham|L|Single|B|Cutter|41|1|1|2|13|83
+Josh Collmenter|R|Todd Cunningham|L|Single|C|Changeup|42|2|1|2|4|75
+Josh Collmenter|R|Todd Cunningham|L|Single|B|Cutter|43|2|2|2|13|85
+Josh Collmenter|R|Todd Cunningham|L|Single|F|Changeup|44|3|2|2|5|74
+Josh Collmenter|R|Todd Cunningham|L|Single|D|Cutter|45|3|2|2|12|85
+Josh Collmenter|R|Shelby Miller|R|Groundout|B|Cutter|46|0|0|2|12|84
+Josh Collmenter|R|Shelby Miller|R|Groundout|S|Cutter|47|1|0|2|2|83
+Josh Collmenter|R|Shelby Miller|R|Groundout|C|Cutter|48|1|1|2|1|82
+Josh Collmenter|R|Shelby Miller|R|Groundout|X|Curveball|49|1|2|2|9|70
+Josh Collmenter|R|Jace Peterson|L|Flyout|X|Cutter|50|0|0|0|2|81
+Josh Collmenter|R|Andrelton Simmons|R|Flyout|B|Cutter|51|0|0|1|14|82
+Josh Collmenter|R|Andrelton Simmons|R|Flyout|B|Changeup|52|1|0|1|14|74
+Josh Collmenter|R|Andrelton Simmons|R|Flyout|X|Cutter|53|2|0|1|4|84
+Josh Collmenter|R|Freddie Freeman|L|Lineout|B|Curveball|54|0|0|2|12|67
+Josh Collmenter|R|Freddie Freeman|L|Lineout|B|Changeup|55|1|0|2|2|73
+Josh Collmenter|R|Freddie Freeman|L|Lineout|B|Cutter|56|2|0|2|13|84
+Josh Collmenter|R|Freddie Freeman|L|Lineout|F|Cutter|57|3|0|2|2|84
+Josh Collmenter|R|Freddie Freeman|L|Lineout|F|Cutter|58|3|1|2|9|84
+Josh Collmenter|R|Freddie Freeman|L|Lineout|X|Cutter|59|3|2|2|6|87
+Josh Collmenter|R|Nick Markakis|L|Groundout|B|Cutter|60|0|0|0|13|82
+Josh Collmenter|R|Nick Markakis|L|Groundout|C|Changeup|61|1|0|0|7|75
+Josh Collmenter|R|Nick Markakis|L|Groundout|C|Cutter|62|1|1|0|13|84
+Josh Collmenter|R|Nick Markakis|L|Groundout|X|Cutter|63|1|2|0|4|85
+Josh Collmenter|R|Juan Uribe|R|Single|B|Cutter|64|0|0|1|12|83
+Josh Collmenter|R|Juan Uribe|R|Single|B|Cutter|65|1|0|1|12|84
+Josh Collmenter|R|Juan Uribe|R|Single|D|Cutter|66|2|0|1|6|84
+Josh Collmenter|R|A.J. Pierzynski|L|Grounded Into DP|C|Cutter|67|0|0|1|13|84
+Josh Collmenter|R|A.J. Pierzynski|L|Grounded Into DP|B|Cutter|68|0|1|1|13|83
+Josh Collmenter|R|A.J. Pierzynski|L|Grounded Into DP|B|Cutter|69|1|1|1|13|83
+Josh Collmenter|R|A.J. Pierzynski|L|Grounded Into DP|X|Cutter|70|2|1|1|13|85
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|B|Cutter|71|0|0|0|14|82
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|C|Cutter|72|1|0|0|12|82
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|C|Cutter|73|1|1|0|4|83
+Josh Collmenter|R|Jonny Gomes|R|Strikeout|S|Cutter|74|1|2|0|14|84
+Josh Collmenter|R|Todd Cunningham|L|Groundout|C|Cutter|75|0|0|1|14|84
+Josh Collmenter|R|Todd Cunningham|L|Groundout|B|Cutter|76|0|1|1|14|84
+Josh Collmenter|R|Todd Cunningham|L|Groundout|B|Cutter|77|1|1|1|12|85
+Josh Collmenter|R|Todd Cunningham|L|Groundout|X|Cutter|78|2|1|1|8|85
+Josh Collmenter|R|Shelby Miller|R|Pop Out|B|Cutter|79|0|0|2|14|84
+Josh Collmenter|R|Shelby Miller|R|Pop Out|C|Cutter|80|1|0|2|9|83
+Josh Collmenter|R|Shelby Miller|R|Pop Out|X|Cutter|81|1|1|2|2|84
+Josh Collmenter|R|Jace Peterson|L|Single|B|Cutter|82|0|0|0|12|83
+Josh Collmenter|R|Jace Peterson|L|Single|B|Changeup|83|1|0|0|9|76
+Josh Collmenter|R|Jace Peterson|L|Single|C|Changeup|84|2|0|0|8|75
+Josh Collmenter|R|Jace Peterson|L|Single|D|Cutter|85|2|1|0|2|83
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|B|Cutter|86|0|0|0|14|83
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|B|Cutter|87|1|0|0|14|84
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|C|Cutter|88|2|0|0|5|84
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|F|Cutter|89|2|1|0|5|85
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|B|Cutter|90|2|2|0|13|86
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|F|Cutter|91|3|2|0|1|87
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|F|Cutter|92|3|2|0|11|86
+Josh Collmenter|R|Andrelton Simmons|R|Lineout|X|Changeup|93|3|2|0|7|76
+Josh Collmenter|R|Freddie Freeman|L|Forceout|X|Cutter|94|0|0|1|5|84
+Josh Collmenter|R|Nick Markakis|L|Double|B|Cutter|95|0|0|2|1|83
+Josh Collmenter|R|Nick Markakis|L|Double|C|Cutter|96|1|0|2|1|83
+Josh Collmenter|R|Nick Markakis|L|Double|B|Cutter|97|1|1|2|13|84
+Josh Collmenter|R|Nick Markakis|L|Double|F|Cutter|98|2|1|2|3|86
+Josh Collmenter|R|Nick Markakis|L|Double|D|Cutter|99|2|2|2|14|86
+Josh Collmenter|R|Curtis Granderson|L|Home Run|B|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Curtis Granderson|L|Home Run|B|Cutter|1|1|0|0|14|83
+Josh Collmenter|R|Curtis Granderson|L|Home Run|F|Cutter|2|2|0|0|1|82
+Josh Collmenter|R|Curtis Granderson|L|Home Run|E|Changeup|3|2|1|0|4|75
+Josh Collmenter|R|Ruben Tejada|R|Lineout|B|Cutter|4|0|0|0|14|84
+Josh Collmenter|R|Ruben Tejada|R|Lineout|C|Cutter|5|1|0|0|14|83
+Josh Collmenter|R|Ruben Tejada|R|Lineout|X|Cutter|6|1|1|0|13|83
+Josh Collmenter|R|Lucas Duda|L|Flyout|C|Cutter|7|0|0|1|5|84
+Josh Collmenter|R|Lucas Duda|L|Flyout|B|Cutter|8|0|1|1|12|85
+Josh Collmenter|R|Lucas Duda|L|Flyout|F|Cutter|9|1|1|1|12|84
+Josh Collmenter|R|Lucas Duda|L|Flyout|X|Changeup|10|1|2|1|8|75
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|S|Changeup|11|0|0|2|6|75
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|B|Changeup|12|0|1|2|14|75
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|F|Cutter|13|1|1|2|2|84
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|X|Cutter|14|1|2|2|4|85
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|C|Cutter|15|0|0|0|9|82
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|C|Cutter|16|0|1|0|14|83
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|B|Curveball|17|0|2|0|14|68
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|B|Cutter|18|1|2|0|14|84
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|X|Cutter|19|2|2|0|12|84
+Josh Collmenter|R|Juan Lagares|R|Double|D|Cutter|20|0|0|1|5|83
+Josh Collmenter|R|Eric Campbell|R|Home Run|B|Changeup|21|0|0|1|14|75
+Josh Collmenter|R|Eric Campbell|R|Home Run|F|Cutter|22|1|0|1|6|83
+Josh Collmenter|R|Eric Campbell|R|Home Run|E|Cutter|23|1|1|1|4|83
+Josh Collmenter|R|Kevin Plawecki|R|Single|C|Changeup|24|0|0|1|5|76
+Josh Collmenter|R|Kevin Plawecki|R|Single|C|Curveball|25|0|1|1|12|69
+Josh Collmenter|R|Kevin Plawecki|R|Single|B|Cutter|26|0|2|1|12|83
+Josh Collmenter|R|Kevin Plawecki|R|Single|B|Changeup|27|1|2|1|14|74
+Josh Collmenter|R|Kevin Plawecki|R|Single|D|Cutter|28|2|2|1|12|82
+Josh Collmenter|R|Jacob deGrom|L|Grounded Into DP|F|Cutter|29|0|0|1|14|83
+Josh Collmenter|R|Jacob deGrom|L|Grounded Into DP|X|Cutter|30|0|1|1|6|83
+Josh Collmenter|R|Curtis Granderson|L|Flyout|C|Cutter|31|0|0|0|12|83
+Josh Collmenter|R|Curtis Granderson|L|Flyout|F|Cutter|32|0|1|0|14|83
+Josh Collmenter|R|Curtis Granderson|L|Flyout|X|Cutter|33|0|2|0|2|84
+Josh Collmenter|R|Ruben Tejada|R|Groundout|S|Changeup|34|0|0|1|8|75
+Josh Collmenter|R|Ruben Tejada|R|Groundout|B|Changeup|35|0|1|1|14|75
+Josh Collmenter|R|Ruben Tejada|R|Groundout|B|Cutter|36|1|1|1|14|83
+Josh Collmenter|R|Ruben Tejada|R|Groundout|S|Changeup|37|2|1|1|13|75
+Josh Collmenter|R|Ruben Tejada|R|Groundout|F|Cutter|38|2|2|1|2|84
+Josh Collmenter|R|Ruben Tejada|R|Groundout|B|Cutter|39|2|2|1|12|83
+Josh Collmenter|R|Ruben Tejada|R|Groundout|F|Cutter|40|3|2|1|11|84
+Josh Collmenter|R|Ruben Tejada|R|Groundout|X|Changeup|41|3|2|1|5|77
+Josh Collmenter|R|Lucas Duda|L|Groundout|C|Cutter|42|0|0|2|14|83
+Josh Collmenter|R|Lucas Duda|L|Groundout|F|Curveball|43|0|1|2|4|68
+Josh Collmenter|R|Lucas Duda|L|Groundout|B|Changeup|44|0|2|2|13|76
+Josh Collmenter|R|Lucas Duda|L|Groundout|B|Cutter|45|1|2|2|14|85
+Josh Collmenter|R|Lucas Duda|L|Groundout|X|Cutter|46|2|2|2|12|84
+Josh Collmenter|R|Michael Cuddyer|R|Single|D|Cutter|47|0|0|0|14|82
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|B|Cutter|48|0|0|0|12|83
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|B|Changeup|49|1|0|0|14|75
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|F|Cutter|50|2|0|0|2|84
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|B|Cutter|51|2|1|0|11|83
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|F|Cutter|52|3|1|0|3|84
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|F|Changeup|53|3|2|0|14|76
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|F|Cutter|54|3|2|0|2|86
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|F|Cutter|55|3|2|0|5|85
+Josh Collmenter|R|Wilmer Flores|R|Pop Out|X|Changeup|56|3|2|0|2|77
+Josh Collmenter|R|Juan Lagares|R|Double|B|Curveball|57|0|0|1|14|70
+Josh Collmenter|R|Juan Lagares|R|Double|B|Cutter|58|1|0|1|12|85
+Josh Collmenter|R|Juan Lagares|R|Double|F|Cutter|59|2|0|1|1|84
+Josh Collmenter|R|Juan Lagares|R|Double|B|Cutter|60|2|1|1|12|84
+Josh Collmenter|R|Juan Lagares|R|Double|F|Cutter|61|3|1|1|8|85
+Josh Collmenter|R|Juan Lagares|R|Double|D|Changeup|62|3|2|1|9|78
+Josh Collmenter|R|Eric Campbell|R|Lineout|C|Changeup|63|0|0|1|12|77
+Josh Collmenter|R|Eric Campbell|R|Lineout|B|Changeup|64|0|1|1|14|76
+Josh Collmenter|R|Eric Campbell|R|Lineout|F|Changeup|65|1|1|1|5|75
+Josh Collmenter|R|Eric Campbell|R|Lineout|B|Changeup|66|1|2|1|14|75
+Josh Collmenter|R|Eric Campbell|R|Lineout|X|Cutter|67|2|2|1|4|84
+Josh Collmenter|R|Kevin Plawecki|R|Intent Walk|I|Intentional Ball|68|0|0|2|12|59
+Josh Collmenter|R|Kevin Plawecki|R|Intent Walk|I|Intentional Ball|69|0|1|2|12|64
+Josh Collmenter|R|Kevin Plawecki|R|Intent Walk|I|Intentional Ball|70|0|2|2|12|63
+Josh Collmenter|R|Kevin Plawecki|R|Intent Walk|I|Intentional Ball|71|0|2|2|12|67
+Josh Collmenter|R|Jacob deGrom|L|Pop Out|T|Changeup|72|0|0|2|13|76
+Josh Collmenter|R|Jacob deGrom|L|Pop Out|F|Changeup|73|0|1|2|13|73
+Josh Collmenter|R|Jacob deGrom|L|Pop Out|B|Cutter|74|0|2|2|12|85
+Josh Collmenter|R|Jacob deGrom|L|Pop Out|B|Changeup|75|1|2|2|11|75
+Josh Collmenter|R|Jacob deGrom|L|Pop Out|X|Changeup|76|2|2|2|13|74
+Josh Collmenter|R|Curtis Granderson|L|Home Run|C|Curveball|77|0|0|0|2|65
+Josh Collmenter|R|Curtis Granderson|L|Home Run|F|Cutter|78|0|1|0|3|82
+Josh Collmenter|R|Curtis Granderson|L|Home Run|B|Cutter|79|0|2|0|12|82
+Josh Collmenter|R|Curtis Granderson|L|Home Run|F|Changeup|80|1|2|0|13|73
+Josh Collmenter|R|Curtis Granderson|L|Home Run|B|Cutter|81|1|2|0|12|84
+Josh Collmenter|R|Curtis Granderson|L|Home Run|E|Cutter|82|2|2|0|5|83
+Josh Collmenter|R|Ruben Tejada|R|Flyout|C|Cutter|83|0|0|0|7|82
+Josh Collmenter|R|Ruben Tejada|R|Flyout|F|Changeup|84|0|1|0|13|74
+Josh Collmenter|R|Ruben Tejada|R|Flyout|B|Changeup|85|0|2|0|14|74
+Josh Collmenter|R|Ruben Tejada|R|Flyout|X|Cutter|86|1|2|0|4|83
+Josh Collmenter|R|Lucas Duda|L|Pop Out|X|Cutter|87|0|0|1|3|83
+Josh Collmenter|R|Michael Cuddyer|R|Strikeout|C|Changeup|88|0|0|2|3|74
+Josh Collmenter|R|Michael Cuddyer|R|Strikeout|B|Changeup|89|0|1|2|13|74
+Josh Collmenter|R|Michael Cuddyer|R|Strikeout|C|Cutter|90|1|1|2|11|83
+Josh Collmenter|R|Michael Cuddyer|R|Strikeout|F|Cutter|91|1|2|2|2|83
+Josh Collmenter|R|Michael Cuddyer|R|Strikeout|S|Changeup|92|1|2|2|14|74
+Josh Collmenter|R|Wilmer Flores|R|Home Run|C|Cutter|93|0|0|0|13|84
+Josh Collmenter|R|Wilmer Flores|R|Home Run|B|Changeup|94|0|1|0|14|76
+Josh Collmenter|R|Wilmer Flores|R|Home Run|B|Changeup|95|1|1|0|14|75
+Josh Collmenter|R|Wilmer Flores|R|Home Run|S|Cutter|96|2|1|0|12|84
+Josh Collmenter|R|Wilmer Flores|R|Home Run|E|Cutter|97|2|2|0|7|85
+Josh Collmenter|R|Juan Lagares|R|Single|F|Cutter|98|0|0|0|2|84
+Josh Collmenter|R|Juan Lagares|R|Single|D|Cutter|99|0|1|0|4|84
+Josh Collmenter|R|Eric Campbell|R|Grounded Into DP|*B|Changeup|100|0|0|0|14|75
+Josh Collmenter|R|Eric Campbell|R|Grounded Into DP|C|Cutter|101|1|0|0|12|82
+Josh Collmenter|R|Eric Campbell|R|Grounded Into DP|X|Changeup|102|1|1|0|9|76
+Josh Collmenter|R|Kevin Plawecki|R|Lineout|X|Cutter|103|0|0|2|1|83
+Josh Collmenter|R|Efren Navarro|L|Single|B|Changeup|0|0|0|1|7|75
+Josh Collmenter|R|Efren Navarro|L|Single|C|Changeup|1|1|0|1|9|76
+Josh Collmenter|R|Efren Navarro|L|Single|E|Cutter|2|1|1|1|12|85
+Josh Collmenter|R|Carlos Perez|R|Double|B|Cutter|3|0|0|1|13|84
+Josh Collmenter|R|Carlos Perez|R|Double|B|Changeup|4|1|0|1|14|77
+Josh Collmenter|R|Carlos Perez|R|Double|F|Changeup|5|2|0|1|14|76
+Josh Collmenter|R|Carlos Perez|R|Double|E|Changeup|6|2|1|1|3|76
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|*B|Cutter|7|0|0|1|13|80
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|B|Changeup|8|1|0|1|14|77
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|B|Cutter|9|2|0|1|12|85
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|C|Cutter|10|3|0|1|3|84
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|S|Cutter|11|3|1|1|4|84
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|F|Cutter|12|3|2|1|4|85
+Josh Collmenter|R|Taylor Featherston|R|Strikeout|C|Changeup|13|3|2|1|7|77
+Josh Collmenter|R|C.J. Wilson|L|Strikeout|S|Cutter|14|0|0|2|12|84
+Josh Collmenter|R|C.J. Wilson|L|Strikeout|F|Changeup|15|0|1|2|13|76
+Josh Collmenter|R|C.J. Wilson|L|Strikeout|C|Changeup|16|0|2|2|9|73
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|B|Changeup|17|0|0|0|14|76
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|C|Changeup|18|1|0|0|14|76
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|F|Cutter|19|1|1|0|5|84
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|B|Changeup|20|1|2|0|12|75
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|F|Cutter|21|2|2|0|12|85
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|B|Changeup|22|2|2|0|12|77
+Josh Collmenter|R|Johnny Giavotella|R|Flyout|X|Cutter|23|3|2|0|2|85
+Josh Collmenter|R|Kole Calhoun|L|Groundout|B|Cutter|24|0|0|1|14|85
+Josh Collmenter|R|Kole Calhoun|L|Groundout|B|Cutter|25|1|0|1|12|85
+Josh Collmenter|R|Kole Calhoun|L|Groundout|B|Changeup|26|2|0|1|11|75
+Josh Collmenter|R|Kole Calhoun|L|Groundout|C|Cutter|27|3|0|1|12|85
+Josh Collmenter|R|Kole Calhoun|L|Groundout|F|Cutter|28|3|1|1|12|85
+Josh Collmenter|R|Kole Calhoun|L|Groundout|X|Cutter|29|3|2|1|6|87
+Josh Collmenter|R|Mike Trout|R|Double|C|Cutter|30|0|0|2|4|85
+Josh Collmenter|R|Mike Trout|R|Double|C|Changeup|31|0|1|2|13|76
+Josh Collmenter|R|Mike Trout|R|Double|B|Changeup|32|0|2|2|12|75
+Josh Collmenter|R|Mike Trout|R|Double|B|Cutter|33|1|2|2|13|87
+Josh Collmenter|R|Mike Trout|R|Double|F|Cutter|34|2|2|2|7|86
+Josh Collmenter|R|Mike Trout|R|Double|B|Curveball|35|2|2|2|12|71
+Josh Collmenter|R|Mike Trout|R|Double|D|Cutter|36|3|2|2|4|86
+Josh Collmenter|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|37|0|0|2|12|61
+Josh Collmenter|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|38|0|1|2|12|65
+Josh Collmenter|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|39|0|2|2|12|66
+Josh Collmenter|R|Albert Pujols|R|Intent Walk|I|Intentional Ball|40|0|2|2|12|65
+Josh Collmenter|R|David Freese|R|Lineout|B|Changeup|41|0|0|2|11|75
+Josh Collmenter|R|David Freese|R|Lineout|S|Changeup|42|1|0|2|6|75
+Josh Collmenter|R|David Freese|R|Lineout|X|Changeup|43|1|1|2|5|77
+Josh Collmenter|R|Efren Navarro|L|Pop Out|B|Cutter|44|0|0|0|12|83
+Josh Collmenter|R|Efren Navarro|L|Pop Out|B|Cutter|45|1|0|0|12|83
+Josh Collmenter|R|Efren Navarro|L|Pop Out|X|Cutter|46|2|0|0|12|83
+Josh Collmenter|R|Carlos Perez|R|Flyout|C|Cutter|47|0|0|1|1|83
+Josh Collmenter|R|Carlos Perez|R|Flyout|X|Changeup|48|0|1|1|9|75
+Josh Collmenter|R|Taylor Featherston|R|Flyout|C|Changeup|49|0|0|2|4|75
+Josh Collmenter|R|Taylor Featherston|R|Flyout|B|Cutter|50|0|1|2|13|83
+Josh Collmenter|R|Taylor Featherston|R|Flyout|B|Changeup|51|1|1|2|14|76
+Josh Collmenter|R|Taylor Featherston|R|Flyout|X|Changeup|52|2|1|2|5|75
+Josh Collmenter|R|Rafael Ynoa|L|Flyout|X|Cutter|0|0|0|0|6|87
+Josh Collmenter|R|Nick Hundley|R|Lineout|C|Cutter|1|0|0|1|9|87
+Josh Collmenter|R|Nick Hundley|R|Lineout|B|Curveball|2|0|1|1|14|72
+Josh Collmenter|R|Nick Hundley|R|Lineout|F|Cutter|3|1|1|1|14|86
+Josh Collmenter|R|Nick Hundley|R|Lineout|B|Changeup|4|1|2|1|12|78
+Josh Collmenter|R|Nick Hundley|R|Lineout|F|Cutter|5|2|2|1|2|87
+Josh Collmenter|R|Nick Hundley|R|Lineout|X|Changeup|6|2|2|1|3|77
+Josh Collmenter|R|Brandon Barnes|R|Home Run|B|Cutter|7|0|0|2|14|88
+Josh Collmenter|R|Brandon Barnes|R|Home Run|B|Cutter|8|1|0|2|14|87
+Josh Collmenter|R|Brandon Barnes|R|Home Run|E|Cutter|9|2|0|2|1|87
+Josh Collmenter|R|Daniel Descalso|L|Pop Out|X|Cutter|10|0|0|2|6|87
+Josh Collmenter|R|Justin Upton|R|Flyout|B|Cutter|0|0|0|2|11|84
+Josh Collmenter|R|Justin Upton|R|Flyout|C|Cutter|1|1|0|2|11|85
+Josh Collmenter|R|Justin Upton|R|Flyout|X|Changeup|2|1|1|2|8|76
+Josh Collmenter|R|Derek Norris|R|Flyout|X|Cutter|3|0|0|0|1|85
+Josh Collmenter|R|Will Venable|L|Single|B|Cutter|4|0|0|1|12|86
+Josh Collmenter|R|Will Venable|L|Single|S|Cutter|5|1|0|1|2|85
+Josh Collmenter|R|Will Venable|L|Single|D|Changeup|6|1|1|1|1|75
+Josh Collmenter|R|Clint Barmes|R|Double|C|Cutter|7|0|0|1|13|84
+Josh Collmenter|R|Clint Barmes|R|Double|D|Cutter|8|0|1|1|7|85
+Josh Collmenter|R|Alexi Amarista|L|Lineout|B|Changeup|9|0|0|1|13|77
+Josh Collmenter|R|Alexi Amarista|L|Lineout|X|Changeup|10|1|0|1|13|76
+Josh Collmenter|R|Brett Wallace|L|Pop Out|B|Cutter|11|0|0|2|12|84
+Josh Collmenter|R|Brett Wallace|L|Pop Out|X|Changeup|12|1|0|2|5|76
+Josh Collmenter|R|Matt Kemp|R|Groundout|C|Cutter|13|0|0|0|1|85
+Josh Collmenter|R|Matt Kemp|R|Groundout|F|Changeup|14|0|1|0|6|76
+Josh Collmenter|R|Matt Kemp|R|Groundout|B|Changeup|15|0|2|0|12|76
+Josh Collmenter|R|Matt Kemp|R|Groundout|X|Changeup|16|1|2|0|12|75
+Josh Collmenter|R|Yangervis Solarte|L|Single|C|Changeup|17|0|0|1|8|76
+Josh Collmenter|R|Yangervis Solarte|L|Single|D|Changeup|18|0|1|1|11|74
+Josh Collmenter|R|Yonder Alonso|L|Lineout|B|Cutter|19|0|0|1|12|84
+Josh Collmenter|R|Yonder Alonso|L|Lineout|B|Cutter|20|1|0|1|14|85
+Josh Collmenter|R|Yonder Alonso|L|Lineout|X|Changeup|21|2|0|1|6|76
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|B|Changeup|0|0|0|2|13|79
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|F|Cutter|1|1|0|2|4|84
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|F|Changeup|2|1|1|2|14|77
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|F|Changeup|3|1|2|2|8|75
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|F|Cutter|4|1|2|2|1|85
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|B|Changeup|5|1|2|2|12|75
+Josh Collmenter|R|Scott Van Slyke|R|Flyout|X|Cutter|6|2|2|2|13|86
+Josh Collmenter|R|Joc Pederson|L|Groundout|C|Cutter|7|0|0|0|12|85
+Josh Collmenter|R|Joc Pederson|L|Groundout|B|Cutter|8|0|1|0|12|85
+Josh Collmenter|R|Joc Pederson|L|Groundout|F|Changeup|9|1|1|0|8|77
+Josh Collmenter|R|Joc Pederson|L|Groundout|X|Changeup|10|1|2|0|13|76
+Josh Collmenter|R|Jimmy Rollins|L|Single|B|Changeup|11|0|0|1|13|77
+Josh Collmenter|R|Jimmy Rollins|L|Single|D|Changeup|12|1|0|1|13|77
+Josh Collmenter|R|A.J. Ellis|R|Caught Stealing 2B|B|Cutter|13|0|0|1|11|84
+Josh Collmenter|R|A.J. Ellis|R|Caught Stealing 2B|F|Cutter|14|1|0|1|4|84
+Josh Collmenter|R|A.J. Ellis|R|Caught Stealing 2B|C|Cutter|15|1|1|1|6|85
+Josh Collmenter|R|A.J. Ellis|R|Walk|B|Cutter|16|0|0|2|12|84
+Josh Collmenter|R|A.J. Ellis|R|Walk|B|Cutter|17|1|0|2|12|85
+Josh Collmenter|R|A.J. Ellis|R|Walk|C|Cutter|18|2|0|2|12|84
+Josh Collmenter|R|A.J. Ellis|R|Walk|C|Cutter|19|2|1|2|11|85
+Josh Collmenter|R|A.J. Ellis|R|Walk|F|Cutter|20|2|2|2|11|86
+Josh Collmenter|R|A.J. Ellis|R|Walk|B|Changeup|21|2|2|2|7|76
+Josh Collmenter|R|A.J. Ellis|R|Walk|B|Cutter|22|3|2|2|11|86
+Josh Collmenter|R|Adrian Gonzalez|L|Lineout|C|Cutter|23|0|0|2|6|86
+Josh Collmenter|R|Adrian Gonzalez|L|Lineout|B|Cutter|24|0|1|2|12|86
+Josh Collmenter|R|Adrian Gonzalez|L|Lineout|B|Changeup|25|1|1|2|13|79
+Josh Collmenter|R|Adrian Gonzalez|L|Lineout|F|Cutter|26|2|1|2|5|85
+Josh Collmenter|R|Adrian Gonzalez|L|Lineout|X|Cutter|27|2|2|2|3|87
+Josh Collmenter|R|Enrique Hernandez|R|Pop Out|*B|Changeup|28|0|0|0|13|78
+Josh Collmenter|R|Enrique Hernandez|R|Pop Out|C|Cutter|29|1|0|0|3|85
+Josh Collmenter|R|Enrique Hernandez|R|Pop Out|B|Cutter|30|1|1|0|11|86
+Josh Collmenter|R|Enrique Hernandez|R|Pop Out|X|Cutter|31|2|1|0|4|86
+Josh Collmenter|R|Howie Kendrick|R|Walk|F|Cutter|32|0|0|1|3|85
+Josh Collmenter|R|Howie Kendrick|R|Walk|B|Cutter|33|0|1|1|13|86
+Josh Collmenter|R|Howie Kendrick|R|Walk|C|Cutter|34|1|1|1|11|86
+Josh Collmenter|R|Howie Kendrick|R|Walk|*B|Changeup|35|1|2|1|13|76
+Josh Collmenter|R|Howie Kendrick|R|Walk|F|Cutter|36|2|2|1|4|86
+Josh Collmenter|R|Howie Kendrick|R|Walk|B|Changeup|37|2|2|1|13|79
+Josh Collmenter|R|Howie Kendrick|R|Walk|B|Cutter|38|3|2|1|11|86
+Josh Collmenter|R|Justin Turner|R|Strikeout|B|Cutter|39|0|0|1|14|84
+Josh Collmenter|R|Justin Turner|R|Strikeout|T|Cutter|40|1|0|1|6|85
+Josh Collmenter|R|Justin Turner|R|Strikeout|F|Cutter|41|1|1|1|1|85
+Josh Collmenter|R|Justin Turner|R|Strikeout|S|Changeup|42|1|2|1|14|78
+Josh Collmenter|R|Wilin Rosario|R|Lineout|C|Changeup|0|0|0|0|9|77
+Josh Collmenter|R|Wilin Rosario|R|Lineout|C|Curveball|1|0|1|0|14|71
+Josh Collmenter|R|Wilin Rosario|R|Lineout|B|Cutter|2|0|2|0|14|85
+Josh Collmenter|R|Wilin Rosario|R|Lineout|B|Changeup|3|1|2|0|14|75
+Josh Collmenter|R|Wilin Rosario|R|Lineout|F|Cutter|4|2|2|0|8|86
+Josh Collmenter|R|Wilin Rosario|R|Lineout|X|Changeup|5|2|2|0|14|78
+Josh Collmenter|R|Charlie Blackmon|L|Double|C|Cutter|6|0|0|1|6|85
+Josh Collmenter|R|Charlie Blackmon|L|Double|B|Changeup|7|0|1|1|14|79
+Josh Collmenter|R|Charlie Blackmon|L|Double|B|Cutter|8|1|1|1|11|86
+Josh Collmenter|R|Charlie Blackmon|L|Double|D|Changeup|9|2|1|1|8|79
+Josh Collmenter|R|DJ LeMahieu|R|Lineout|B|Cutter|10|0|0|1|14|85
+Josh Collmenter|R|DJ LeMahieu|R|Lineout|C|Cutter|11|1|0|1|12|85
+Josh Collmenter|R|DJ LeMahieu|R|Lineout|X|Cutter|12|1|1|1|14|85
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|*B|Changeup|13|0|0|2|14|78
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|C|Changeup|14|1|0|2|6|78
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|B|Cutter|15|1|1|2|11|85
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|B|Cutter|16|2|1|2|13|85
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|C|Cutter|17|3|1|2|7|86
+Josh Collmenter|R|Troy Tulowitzki|R|Pop Out|X|Cutter|18|3|2|2|13|86
+Josh Collmenter|R|Wilmer Flores|R|Single|C|Cutter|0|0|0|0|9|86
+Josh Collmenter|R|Wilmer Flores|R|Single|B|Changeup|1|0|1|0|13|76
+Josh Collmenter|R|Wilmer Flores|R|Single|C|Cutter|2|1|1|0|7|85
+Josh Collmenter|R|Wilmer Flores|R|Single|F|Curveball|3|1|2|0|9|72
+Josh Collmenter|R|Wilmer Flores|R|Single|D|Cutter|4|1|2|0|5|87
+Josh Collmenter|R|Lucas Duda|L|Strikeout|C|Cutter|5|0|0|0|13|86
+Josh Collmenter|R|Lucas Duda|L|Strikeout|F|Cutter|6|0|1|0|3|85
+Josh Collmenter|R|Lucas Duda|L|Strikeout|F|Changeup|7|0|2|0|4|75
+Josh Collmenter|R|Lucas Duda|L|Strikeout|T|Cutter|8|0|2|0|12|85
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|B|Cutter|9|0|0|1|14|85
+Josh Collmenter|R|Michael Cuddyer|R|Flyout|X|Cutter|10|1|0|1|4|85
+Josh Collmenter|R|Kevin Plawecki|R|Walk|S|Cutter|11|0|0|2|6|85
+Josh Collmenter|R|Kevin Plawecki|R|Walk|C|Cutter|12|0|1|2|1|85
+Josh Collmenter|R|Kevin Plawecki|R|Walk|B|Cutter|13|0|2|2|11|85
+Josh Collmenter|R|Kevin Plawecki|R|Walk|B|Cutter|14|1|2|2|11|86
+Josh Collmenter|R|Kevin Plawecki|R|Walk|F|Cutter|15|2|2|2|1|87
+Josh Collmenter|R|Kevin Plawecki|R|Walk|*B|Changeup|16|2|2|2|14|77
+Josh Collmenter|R|Kevin Plawecki|R|Walk|B|Cutter|17|3|2|2|11|87
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Walk|C|Cutter|18|0|0|2|13|86
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Walk|B|Cutter|19|0|1|2|12|85
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Walk|B|Cutter|20|1|1|2|12|87
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Walk|B|Changeup|21|2|1|2|11|77
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Walk|B|Cutter|22|3|1|2|13|86
+Josh Collmenter|R|Juan Lagares|R|Lineout|C|Cutter|23|0|0|2|4|87
+Josh Collmenter|R|Juan Lagares|R|Lineout|B|Cutter|24|0|1|2|11|88
+Josh Collmenter|R|Juan Lagares|R|Lineout|X|Cutter|25|1|1|2|7|86
+Josh Collmenter|R|Angel Pagan|L|Lineout|C|Changeup|0|0|0|0|4|76
+Josh Collmenter|R|Angel Pagan|L|Lineout|B|Cutter|1|0|1|0|14|83
+Josh Collmenter|R|Angel Pagan|L|Lineout|X|Cutter|2|1|1|0|12|85
+Josh Collmenter|R|Joe Panik|L|Walk|B|Changeup|3|0|0|1|13|77
+Josh Collmenter|R|Joe Panik|L|Walk|F|Cutter|4|1|0|1|6|85
+Josh Collmenter|R|Joe Panik|L|Walk|T|Changeup|5|1|1|1|13|77
+Josh Collmenter|R|Joe Panik|L|Walk|B|Cutter|6|1|2|1|12|85
+Josh Collmenter|R|Joe Panik|L|Walk|B|Cutter|7|2|2|1|12|86
+Josh Collmenter|R|Joe Panik|L|Walk|B|Cutter|8|3|2|1|12|86
+Josh Collmenter|R|Matt Duffy|R|Groundout|C|Curveball|9|0|0|1|11|70
+Josh Collmenter|R|Matt Duffy|R|Groundout|B|Cutter|10|0|1|1|14|85
+Josh Collmenter|R|Matt Duffy|R|Groundout|F|Cutter|11|1|1|1|1|85
+Josh Collmenter|R|Matt Duffy|R|Groundout|B|Cutter|12|1|2|1|13|86
+Josh Collmenter|R|Matt Duffy|R|Groundout|F|Changeup|13|2|2|1|14|76
+Josh Collmenter|R|Matt Duffy|R|Groundout|X|Changeup|14|2|2|1|13|78
+Josh Collmenter|R|Buster Posey|R|Walk|*B|Curveball|15|0|0|2|14|73
+Josh Collmenter|R|Buster Posey|R|Walk|B|Cutter|16|1|0|2|13|85
+Josh Collmenter|R|Buster Posey|R|Walk|B|Cutter|17|2|0|2|12|86
+Josh Collmenter|R|Buster Posey|R|Walk|C|Cutter|18|3|0|2|3|85
+Josh Collmenter|R|Buster Posey|R|Walk|F|Cutter|19|3|1|2|6|86
+Josh Collmenter|R|Buster Posey|R|Walk|B|Cutter|20|3|2|2|11|85
+Josh Collmenter|R|Hunter Pence|R|Walk|S|Cutter|21|0|0|2|5|86
+Josh Collmenter|R|Hunter Pence|R|Walk|B|Cutter|22|0|1|2|12|85
+Josh Collmenter|R|Hunter Pence|R|Walk|F|Cutter|23|1|1|2|1|87
+Josh Collmenter|R|Hunter Pence|R|Walk|B|Cutter|24|1|2|2|13|86
+Josh Collmenter|R|Hunter Pence|R|Walk|*B|Changeup|25|2|2|2|13|77
+Josh Collmenter|R|Hunter Pence|R|Walk|F|Changeup|26|3|2|2|13|78
+Josh Collmenter|R|Hunter Pence|R|Walk|B|Cutter|27|3|2|2|13|87
+Josh Collmenter|R|Brandon Crawford|L|Groundout|S|Changeup|28|0|0|2|13|78
+Josh Collmenter|R|Brandon Crawford|L|Groundout|X|Cutter|29|0|1|2|4|85
+Josh Collmenter|R|Brandon Belt|L|Lineout|B|Curveball|30|0|0|0|12|69
+Josh Collmenter|R|Brandon Belt|L|Lineout|S|Changeup|31|1|0|0|13|75
+Josh Collmenter|R|Brandon Belt|L|Lineout|B|Cutter|32|1|1|0|12|84
+Josh Collmenter|R|Brandon Belt|L|Lineout|S|Changeup|33|2|1|0|13|76
+Josh Collmenter|R|Brandon Belt|L|Lineout|X|Cutter|34|2|2|0|3|84
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|C|Cutter|35|0|0|1|6|84
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|F|Cutter|36|0|1|1|2|85
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|F|Cutter|37|0|2|1|12|84
+Josh Collmenter|R|Gregor Blanco|L|Strikeout|S|Cutter|38|0|2|1|12|85
+Josh Collmenter|R|Jake Peavy|R|Groundout|S|Cutter|39|0|0|2|14|84
+Josh Collmenter|R|Jake Peavy|R|Groundout|B|Cutter|40|0|1|2|14|85
+Josh Collmenter|R|Jake Peavy|R|Groundout|S|Cutter|41|1|1|2|12|85
+Josh Collmenter|R|Jake Peavy|R|Groundout|X|Cutter|42|1|2|2|2|85
+Josh Collmenter|R|Donovan Solano|R|Flyout|C|Cutter|0|0|0|0|6|84
+Josh Collmenter|R|Donovan Solano|R|Flyout|B|Cutter|1|0|1|0|14|83
+Josh Collmenter|R|Donovan Solano|R|Flyout|B|Changeup|2|1|1|0|14|74
+Josh Collmenter|R|Donovan Solano|R|Flyout|X|Cutter|3|2|1|0|8|84
+Josh Collmenter|R|J.T. Realmuto|R|Single|B|Cutter|4|0|0|1|14|83
+Josh Collmenter|R|J.T. Realmuto|R|Single|F|Cutter|5|1|0|1|9|84
+Josh Collmenter|R|J.T. Realmuto|R|Single|B|Cutter|6|1|1|1|14|83
+Josh Collmenter|R|J.T. Realmuto|R|Single|D|Cutter|7|2|1|1|14|84
+Josh Collmenter|R|Adeiny Hechavarria|R|Single|D|Cutter|8|0|0|1|11|84
+Josh Collmenter|R|Miguel Rojas|R|Walk|B|Changeup|9|0|0|1|12|75
+Josh Collmenter|R|Miguel Rojas|R|Walk|C|Changeup|10|1|0|1|7|73
+Josh Collmenter|R|Miguel Rojas|R|Walk|F|Cutter|11|1|1|1|11|84
+Josh Collmenter|R|Miguel Rojas|R|Walk|F|Cutter|12|1|2|1|3|85
+Josh Collmenter|R|Miguel Rojas|R|Walk|B|Cutter|13|1|2|1|12|81
+Josh Collmenter|R|Miguel Rojas|R|Walk|B|Cutter|14|2|2|1|11|85
+Josh Collmenter|R|Miguel Rojas|R|Walk|B|Cutter|15|3|2|1|11|85
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|B|Cutter|16|0|0|2|11|84
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|C|Changeup|17|1|0|2|1|76
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|F|Cutter|18|1|1|2|2|84
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|F|Cutter|19|1|2|2|12|85
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|B|Cutter|20|1|2|2|12|85
+Josh Collmenter|R|Ichiro Suzuki|L|Groundout|X|Cutter|21|2|2|2|12|85
+Josh Collmenter|R|Casey McGehee|R|Caught Stealing 2B|B|Cutter|0|0|0|2|11|81
+Josh Collmenter|R|Casey McGehee|R|Caught Stealing 2B|B|Cutter|1|1|0|2|7|83
+Josh Collmenter|R|Mark Trumbo|R|Double|C|Cutter|0|0|0|0|2|86
+Josh Collmenter|R|Mark Trumbo|R|Double|B|Cutter|1|0|1|0|11|86
+Josh Collmenter|R|Mark Trumbo|R|Double|T|Cutter|2|1|1|0|4|86
+Josh Collmenter|R|Mark Trumbo|R|Double|F|Cutter|3|1|2|0|5|87
+Josh Collmenter|R|Mark Trumbo|R|Double|F|Changeup|4|1|2|0|7|79
+Josh Collmenter|R|Mark Trumbo|R|Double|B|Cutter|5|1|2|0|11|87
+Josh Collmenter|R|Mark Trumbo|R|Double|D|Cutter|6|2|2|0|14|79
+Josh Collmenter|R|Brad Miller|L|Single|B|Cutter|7|0|0|0|11|86
+Josh Collmenter|R|Brad Miller|L|Single|E|Cutter|8|1|0|0|8|86
+Josh Collmenter|R|Mike Zunino|R|Strikeout|C|Cutter|9|0|0|0|3|85
+Josh Collmenter|R|Mike Zunino|R|Strikeout|S|Cutter|10|0|1|0|11|86
+Josh Collmenter|R|Mike Zunino|R|Strikeout|B|Cutter|11|0|2|0|11|86
+Josh Collmenter|R|Mike Zunino|R|Strikeout|S|Cutter|12|1|2|0|11|87
+Josh Collmenter|R|Dustin Ackley|L|Grounded Into DP|C|Cutter|13|0|0|1|4|86
+Josh Collmenter|R|Dustin Ackley|L|Grounded Into DP|X|Changeup|14|0|1|1|13|76
+Josh Collmenter|R|Brad Miller|L|Strikeout|B|Cutter|0|0|0|2|14|85
+Josh Collmenter|R|Brad Miller|L|Strikeout|C|Changeup|1|1|0|2|9|76
+Josh Collmenter|R|Brad Miller|L|Strikeout|B|Cutter|2|1|1|2|13|85
+Josh Collmenter|R|Brad Miller|L|Strikeout|C|Changeup|3|2|1|2|3|77
+Josh Collmenter|R|Brad Miller|L|Strikeout|S|Cutter|4|2|2|2|12|86
+Josh Collmenter|R|Dustin Ackley|L|Double|B|Cutter|5|0|0|0|13|86
+Josh Collmenter|R|Dustin Ackley|L|Double|B|Cutter|6|1|0|0|13|86
+Josh Collmenter|R|Dustin Ackley|L|Double|C|Cutter|7|2|0|0|5|86
+Josh Collmenter|R|Dustin Ackley|L|Double|F|Changeup|8|2|1|0|7|77
+Josh Collmenter|R|Dustin Ackley|L|Double|F|Cutter|9|2|2|0|6|87
+Josh Collmenter|R|Dustin Ackley|L|Double|F|Cutter|10|2|2|0|8|87
+Josh Collmenter|R|Dustin Ackley|L|Double|F|Curveball|11|2|2|0|3|72
+Josh Collmenter|R|Dustin Ackley|L|Double|B|Changeup|12|2|2|0|13|78
+Josh Collmenter|R|Dustin Ackley|L|Double|D|Cutter|13|3|2|0|9|88
+Josh Collmenter|R|Seth Smith|L|Flyout|C|Cutter|14|0|0|0|7|86
+Josh Collmenter|R|Seth Smith|L|Flyout|C|Cutter|15|0|1|0|13|86
+Josh Collmenter|R|Seth Smith|L|Flyout|B|Cutter|16|0|2|0|11|85
+Josh Collmenter|R|Seth Smith|L|Flyout|X|Cutter|17|1|2|0|3|86
+Josh Collmenter|R|Chris Taylor|R|Flyout|B|Cutter|18|0|0|1|12|86
+Josh Collmenter|R|Chris Taylor|R|Flyout|B|Cutter|19|1|0|1|11|87
+Josh Collmenter|R|Chris Taylor|R|Flyout|F|Cutter|20|2|0|1|4|87
+Josh Collmenter|R|Chris Taylor|R|Flyout|C|Cutter|21|2|1|1|13|87
+Josh Collmenter|R|Chris Taylor|R|Flyout|F|Cutter|22|2|2|1|7|88
+Josh Collmenter|R|Chris Taylor|R|Flyout|*B|Cutter|23|2|2|1|13|80
+Josh Collmenter|R|Chris Taylor|R|Flyout|X|Cutter|24|3|2|1|1|88
+Josh Collmenter|R|Carlos Correa|R|Strikeout|B|Cutter|0|0|0|1|1|84
+Josh Collmenter|R|Carlos Correa|R|Strikeout|F|Cutter|1|1|0|1|7|85
+Josh Collmenter|R|Carlos Correa|R|Strikeout|*B|Changeup|2|1|1|1|14|75
+Josh Collmenter|R|Carlos Correa|R|Strikeout|F|Cutter|3|2|1|1|8|85
+Josh Collmenter|R|Carlos Correa|R|Strikeout|F|Cutter|4|2|2|1|1|85
+Josh Collmenter|R|Carlos Correa|R|Strikeout|C|Cutter|5|2|2|1|14|85
+Josh Collmenter|R|Preston Tucker|L|Strikeout|C|Cutter|6|0|0|2|6|85
+Josh Collmenter|R|Preston Tucker|L|Strikeout|F|Cutter|7|0|1|2|3|84
+Josh Collmenter|R|Preston Tucker|L|Strikeout|B|Cutter|8|0|2|2|13|85
+Josh Collmenter|R|Preston Tucker|L|Strikeout|W|Changeup|9|1|2|2|13|76
+Josh Collmenter|R|Evan Gattis|R|Single|C|Cutter|10|0|0|0|4|85
+Josh Collmenter|R|Evan Gattis|R|Single|B|Cutter|11|0|1|0|14|84
+Josh Collmenter|R|Evan Gattis|R|Single|B|Cutter|12|1|1|0|14|84
+Josh Collmenter|R|Evan Gattis|R|Single|D|Cutter|13|2|1|0|1|86
+Josh Collmenter|R|Jed Lowrie|L|Forceout|B|Cutter|14|0|0|0|12|85
+Josh Collmenter|R|Jed Lowrie|L|Forceout|S|Changeup|15|1|0|0|6|77
+Josh Collmenter|R|Jed Lowrie|L|Forceout|F|Changeup|16|1|1|0|13|76
+Josh Collmenter|R|Jed Lowrie|L|Forceout|F|Cutter|17|1|2|0|14|84
+Josh Collmenter|R|Jed Lowrie|L|Forceout|X|Cutter|18|1|2|0|1|86
+Josh Collmenter|R|Colby Rasmus|L|Single|C|Changeup|19|0|0|1|9|76
+Josh Collmenter|R|Colby Rasmus|L|Single|D|Cutter|20|0|1|1|9|84
+Josh Collmenter|R|Chris Carter|R|Flyout|B|Cutter|21|0|0|1|12|84
+Josh Collmenter|R|Chris Carter|R|Flyout|C|Cutter|22|1|0|1|12|85
+Josh Collmenter|R|Chris Carter|R|Flyout|B|Cutter|23|1|1|1|12|85
+Josh Collmenter|R|Chris Carter|R|Flyout|X|Changeup|24|2|1|1|9|77
+Josh Collmenter|R|Hank Conger|L|Groundout|S|Changeup|25|0|0|2|7|77
+Josh Collmenter|R|Hank Conger|L|Groundout|*B|Changeup|26|0|1|2|13|76
+Josh Collmenter|R|Hank Conger|L|Groundout|X|Changeup|27|1|1|2|1|76
+Josh Collmenter|R|Jose Altuve|R|Flyout|C|Cutter|28|0|0|0|11|85
+Josh Collmenter|R|Jose Altuve|R|Flyout|B|Curveball|29|0|1|0|14|70
+Josh Collmenter|R|Jose Altuve|R|Flyout|F|Cutter|30|1|1|0|6|85
+Josh Collmenter|R|Jose Altuve|R|Flyout|X|Cutter|31|1|2|0|1|86
+Josh Collmenter|R|Carlos Gomez|R|Single|C|Cutter|32|0|0|1|12|85
+Josh Collmenter|R|Carlos Gomez|R|Single|F|Cutter|33|0|1|1|4|86
+Josh Collmenter|R|Carlos Gomez|R|Single|F|Cutter|34|0|2|1|2|85
+Josh Collmenter|R|Carlos Gomez|R|Single|B|Cutter|35|0|2|1|12|87
+Josh Collmenter|R|Carlos Gomez|R|Single|D|Cutter|36|1|2|1|13|86
+Josh Collmenter|R|Carlos Correa|R|Home Run|B|Cutter|37|0|0|1|14|84
+Josh Collmenter|R|Carlos Correa|R|Home Run|S|Changeup|38|1|0|1|14|76
+Josh Collmenter|R|Carlos Correa|R|Home Run|E|Cutter|39|1|1|1|5|85
+Josh Collmenter|R|Preston Tucker|L|Groundout|C|Changeup|40|0|0|1|6|79
+Josh Collmenter|R|Preston Tucker|L|Groundout|B|Changeup|41|0|1|1|13|75
+Josh Collmenter|R|Preston Tucker|L|Groundout|S|Changeup|42|1|1|1|13|77
+Josh Collmenter|R|Preston Tucker|L|Groundout|B|Changeup|43|1|2|1|13|77
+Josh Collmenter|R|Preston Tucker|L|Groundout|X|Changeup|44|2|2|1|11|77
+Josh Collmenter|R|Evan Gattis|R|Pop Out|B|Cutter|45|0|0|2|14|84
+Josh Collmenter|R|Evan Gattis|R|Pop Out|X|Changeup|46|1|0|2|13|76
+Josh Collmenter|R|Jed Lowrie|L|Pop Out|B|Cutter|47|0|0|0|14|83
+Josh Collmenter|R|Jed Lowrie|L|Pop Out|X|Cutter|48|1|0|0|6|83
+Josh Collmenter|R|Colby Rasmus|L|Single|C|Cutter|49|0|0|1|6|84
+Josh Collmenter|R|Colby Rasmus|L|Single|B|Changeup|50|0|1|1|13|76
+Josh Collmenter|R|Colby Rasmus|L|Single|B|Changeup|51|1|1|1|13|77
+Josh Collmenter|R|Colby Rasmus|L|Single|D|Cutter|52|2|1|1|8|85
+Josh Collmenter|R|Chris Carter|R|Grounded Into DP|C|Cutter|53|0|0|1|14|84
+Josh Collmenter|R|Chris Carter|R|Grounded Into DP|F|Cutter|54|0|1|1|6|84
+Josh Collmenter|R|Chris Carter|R|Grounded Into DP|*B|Changeup|55|0|2|1|14|76
+Josh Collmenter|R|Chris Carter|R|Grounded Into DP|X|Cutter|56|1|2|1|12|84
+Josh Collmenter|R|Hank Conger|L|Single|B|Changeup|57|0|0|0|13|75
+Josh Collmenter|R|Hank Conger|L|Single|F|Cutter|58|1|0|0|12|84
+Josh Collmenter|R|Hank Conger|L|Single|C|Cutter|59|1|1|0|7|85
+Josh Collmenter|R|Hank Conger|L|Single|B|Changeup|60|1|2|0|13|76
+Josh Collmenter|R|Hank Conger|L|Single|F|Changeup|61|2|2|0|5|78
+Josh Collmenter|R|Hank Conger|L|Single|D|Cutter|62|2|2|0|6|87
+Josh Collmenter|R|Jose Altuve|R|Groundout|C|Cutter|63|0|0|0|9|85
+Josh Collmenter|R|Jose Altuve|R|Groundout|B|Cutter|64|0|1|0|12|84
+Josh Collmenter|R|Jose Altuve|R|Groundout|B|Changeup|65|1|1|0|14|76
+Josh Collmenter|R|Jose Altuve|R|Groundout|X|Cutter|66|2|1|0|1|86
+Josh Collmenter|R|Carlos Gomez|R|Single|X|Changeup|67|0|0|1|9|77
+Josh Collmenter|R|Carlos Correa|R|Lineout|B|Cutter|68|0|0|2|14|83
+Josh Collmenter|R|Carlos Correa|R|Lineout|C|Cutter|69|1|0|2|14|85
+Josh Collmenter|R|Carlos Correa|R|Lineout|C|Changeup|70|1|1|2|14|76
+Josh Collmenter|R|Carlos Correa|R|Lineout|B|Cutter|71|1|2|2|11|85
+Josh Collmenter|R|Carlos Correa|R|Lineout|F|Changeup|72|2|2|2|13|78
+Josh Collmenter|R|Carlos Correa|R|Lineout|F|Cutter|73|2|2|2|8|86
+Josh Collmenter|R|Carlos Correa|R|Lineout|B|Cutter|74|2|2|2|13|87
+Josh Collmenter|R|Carlos Correa|R|Lineout|X|Cutter|75|3|2|2|6|87
+Josh Collmenter|R|Ryan Zimmerman|R|Grounded Into DP|C|Cutter|0|0|0|1|13|84
+Josh Collmenter|R|Ryan Zimmerman|R|Grounded Into DP|X|Cutter|1|0|1|1|12|83
+Josh Collmenter|R|Jayson Werth|R|Flyout|S|Cutter|2|0|0|0|12|84
+Josh Collmenter|R|Jayson Werth|R|Flyout|B|Cutter|3|0|1|0|14|83
+Josh Collmenter|R|Jayson Werth|R|Flyout|B|Changeup|4|1|1|0|8|76
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Cutter|5|2|1|0|4|85
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Cutter|6|2|2|0|4|86
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Changeup|7|2|2|0|9|77
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Cutter|8|2|2|0|12|85
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Cutter|9|2|2|0|4|87
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Changeup|10|2|2|0|13|79
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Changeup|11|2|2|0|8|78
+Josh Collmenter|R|Jayson Werth|R|Flyout|F|Cutter|12|2|2|0|7|86
+Josh Collmenter|R|Jayson Werth|R|Flyout|X|Cutter|13|2|2|0|9|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|B|Changeup|14|0|0|1|12|77
+Josh Collmenter|R|Ian Desmond|R|Strikeout|F|Changeup|15|1|0|1|7|77
+Josh Collmenter|R|Ian Desmond|R|Strikeout|B|Cutter|16|1|1|1|11|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|F|Cutter|17|2|1|1|5|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|C|Cutter|18|2|2|1|7|86
+Josh Collmenter|R|Wilson Ramos|R|Single|B|Curveball|19|0|0|2|14|70
+Josh Collmenter|R|Wilson Ramos|R|Single|B|Cutter|20|1|0|2|14|85
+Josh Collmenter|R|Wilson Ramos|R|Single|D|Cutter|21|2|0|2|4|86
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|F|Cutter|22|0|0|2|6|85
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|B|Changeup|23|0|1|2|12|78
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|B|Changeup|24|1|1|2|14|76
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|F|Cutter|25|2|1|2|14|85
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|F|Cutter|26|2|2|2|1|87
+Josh Collmenter|R|Michael A. Taylor|R|Lineout|X|Changeup|27|2|2|2|5|80
+Josh Collmenter|R|Max Scherzer|R|Walk|B|Cutter|28|0|0|0|14|83
+Josh Collmenter|R|Max Scherzer|R|Walk|T|Cutter|29|1|0|0|9|84
+Josh Collmenter|R|Max Scherzer|R|Walk|B|Cutter|30|1|1|0|14|84
+Josh Collmenter|R|Max Scherzer|R|Walk|B|Cutter|31|2|1|0|14|85
+Josh Collmenter|R|Max Scherzer|R|Walk|F|Cutter|32|3|1|0|9|85
+Josh Collmenter|R|Max Scherzer|R|Walk|B|Cutter|33|3|2|0|12|87
+Josh Collmenter|R|Yunel Escobar|R|Lineout|C|Cutter|34|0|0|0|11|87
+Josh Collmenter|R|Yunel Escobar|R|Lineout|*B|Changeup|35|0|1|0|13|77
+Josh Collmenter|R|Yunel Escobar|R|Lineout|C|Cutter|36|1|1|0|12|86
+Josh Collmenter|R|Yunel Escobar|R|Lineout|X|Cutter|37|1|2|0|5|86
+Josh Collmenter|R|Anthony Rendon|R|Lineout|C|Cutter|38|0|0|1|13|84
+Josh Collmenter|R|Anthony Rendon|R|Lineout|B|Cutter|39|0|1|1|14|85
+Josh Collmenter|R|Anthony Rendon|R|Lineout|F|Changeup|40|1|1|1|14|75
+Josh Collmenter|R|Anthony Rendon|R|Lineout|B|Changeup|41|1|2|1|14|77
+Josh Collmenter|R|Anthony Rendon|R|Lineout|B|Cutter|42|2|2|1|13|86
+Josh Collmenter|R|Anthony Rendon|R|Lineout|X|Cutter|43|3|2|1|9|87
+Josh Collmenter|R|Bryce Harper|L|Groundout|C|Cutter|44|0|0|2|11|85
+Josh Collmenter|R|Bryce Harper|L|Groundout|B|Cutter|45|0|1|2|11|85
+Josh Collmenter|R|Bryce Harper|L|Groundout|S|Changeup|46|1|1|2|13|79
+Josh Collmenter|R|Bryce Harper|L|Groundout|X|Changeup|47|1|2|2|13|79
+Josh Collmenter|R|Ryan Zimmerman|R|Lineout|C|Changeup|48|0|0|0|9|78
+Josh Collmenter|R|Ryan Zimmerman|R|Lineout|C|Cutter|49|0|1|0|13|85
+Josh Collmenter|R|Ryan Zimmerman|R|Lineout|B|Changeup|50|0|2|0|13|78
+Josh Collmenter|R|Ryan Zimmerman|R|Lineout|X|Cutter|51|1|2|0|14|85
+Josh Collmenter|R|Jayson Werth|R|Groundout|B|Changeup|52|0|0|1|14|77
+Josh Collmenter|R|Jayson Werth|R|Groundout|B|Changeup|53|1|0|1|14|79
+Josh Collmenter|R|Jayson Werth|R|Groundout|C|Cutter|54|2|0|1|9|86
+Josh Collmenter|R|Jayson Werth|R|Groundout|X|Cutter|55|2|1|1|13|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|C|Cutter|56|0|0|2|14|85
+Josh Collmenter|R|Ian Desmond|R|Strikeout|B|Cutter|57|0|1|2|12|85
+Josh Collmenter|R|Ian Desmond|R|Strikeout|B|Cutter|58|1|1|2|13|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|S|Cutter|59|2|1|2|1|86
+Josh Collmenter|R|Ian Desmond|R|Strikeout|F|Changeup|60|2|2|2|7|79
+Josh Collmenter|R|Ian Desmond|R|Strikeout|S|Cutter|61|2|2|2|5|86
+Josh Collmenter|R|Billy Hamilton|L|Strikeout|M|Changeup|0|0|0|0|8|75
+Josh Collmenter|R|Billy Hamilton|L|Strikeout|F|Cutter|1|0|1|0|12|84
+Josh Collmenter|R|Billy Hamilton|L|Strikeout|B|Changeup|2|0|2|0|13|74
+Josh Collmenter|R|Billy Hamilton|L|Strikeout|S|Changeup|3|1|2|0|13|75
+Josh Collmenter|R|Brandon Phillips|R|Groundout|C|Cutter|4|0|0|1|9|83
+Josh Collmenter|R|Brandon Phillips|R|Groundout|B|Cutter|5|0|1|1|12|83
+Josh Collmenter|R|Brandon Phillips|R|Groundout|F|Cutter|6|1|1|1|4|84
+Josh Collmenter|R|Brandon Phillips|R|Groundout|B|Changeup|7|1|2|1|13|77
+Josh Collmenter|R|Brandon Phillips|R|Groundout|F|Changeup|8|2|2|1|13|77
+Josh Collmenter|R|Brandon Phillips|R|Groundout|F|Cutter|9|2|2|1|4|85
+Josh Collmenter|R|Brandon Phillips|R|Groundout|X|Cutter|10|2|2|1|12|85
+Josh Collmenter|R|Joey Votto|L|Groundout|B|Cutter|11|0|0|2|14|85
+Josh Collmenter|R|Joey Votto|L|Groundout|F|Changeup|12|1|0|2|13|76
+Josh Collmenter|R|Joey Votto|L|Groundout|X|Changeup|13|1|1|2|7|77
+Josh Collmenter|R|Carlos Ruiz|R|Pop Out|C|Cutter|0|0|0|0|1|84
+Josh Collmenter|R|Carlos Ruiz|R|Pop Out|C|Cutter|1|0|1|0|13|84
+Josh Collmenter|R|Carlos Ruiz|R|Pop Out|X|Cutter|2|0|2|0|1|84
+Josh Collmenter|R|Andres Blanco|L|Pop Out|C|Cutter|3|0|0|1|11|85
+Josh Collmenter|R|Andres Blanco|L|Pop Out|B|Changeup|4|0|1|1|13|76
+Josh Collmenter|R|Andres Blanco|L|Pop Out|X|Cutter|5|1|1|1|3|84
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|C|Cutter|6|0|0|2|3|84
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|F|Cutter|7|0|1|2|7|85
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|F|Cutter|8|0|2|2|13|86
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|B|Cutter|9|0|2|2|12|86
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|B|Changeup|10|1|2|2|13|75
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|F|Cutter|11|2|2|2|11|86
+Josh Collmenter|R|Jeff Francoeur|R|Strikeout|C|Curveball|12|2|2|2|6|72
+Josh Collmenter|R|Odubel Herrera|L|Groundout|C|Changeup|0|0|0|2|4|74
+Josh Collmenter|R|Odubel Herrera|L|Groundout|B|Cutter|1|0|1|2|12|80
+Josh Collmenter|R|Odubel Herrera|L|Groundout|X|Cutter|2|1|1|2|3|82
+Josh Collmenter|R|Ryan Howard|L|Lineout|B|Cutter|3|0|0|0|12|83
+Josh Collmenter|R|Ryan Howard|L|Lineout|F|Cutter|4|1|0|0|6|82
+Josh Collmenter|R|Ryan Howard|L|Lineout|B|Cutter|5|1|1|0|13|82
+Josh Collmenter|R|Ryan Howard|L|Lineout|F|Cutter|6|2|1|0|14|84
+Josh Collmenter|R|Ryan Howard|L|Lineout|X|Cutter|7|2|2|0|12|85
+Josh Collmenter|R|Jeff Francoeur|R|Groundout|B|Cutter|8|0|0|1|12|83
+Josh Collmenter|R|Jeff Francoeur|R|Groundout|X|Changeup|9|1|0|1|14|76
+Josh Collmenter|R|Cody Asche|L|Groundout|F|Cutter|10|0|0|2|12|83
+Josh Collmenter|R|Cody Asche|L|Groundout|B|Cutter|11|0|1|2|12|84
+Josh Collmenter|R|Cody Asche|L|Groundout|X|Cutter|12|1|1|2|6|85
+Josh Collmenter|R|Francisco Cervelli|R|Single|B|Changeup|0|0|0|2|14|74
+Josh Collmenter|R|Francisco Cervelli|R|Single|C|Cutter|1|1|0|2|1|85
+Josh Collmenter|R|Francisco Cervelli|R|Single|F|Cutter|2|1|1|2|7|85
+Josh Collmenter|R|Francisco Cervelli|R|Single|B|Cutter|3|1|2|2|13|86
+Josh Collmenter|R|Francisco Cervelli|R|Single|F|Curveball|4|2|2|2|6|71
+Josh Collmenter|R|Francisco Cervelli|R|Single|E|Cutter|5|2|2|2|7|87
+Josh Collmenter|R|Francisco Liriano|L|Strikeout|S|Changeup|6|0|0|2|13|77
+Josh Collmenter|R|Francisco Liriano|L|Strikeout|B|Changeup|7|0|1|2|13|76
+Josh Collmenter|R|Francisco Liriano|L|Strikeout|B|Cutter|8|1|1|2|13|84
+Josh Collmenter|R|Francisco Liriano|L|Strikeout|F|Cutter|9|2|1|2|2|85
+Josh Collmenter|R|Francisco Liriano|L|Strikeout|S|Cutter|10|2|2|2|12|85
+Josh Collmenter|R|Gregory Polanco|L|Flyout|X|Cutter|11|0|0|0|9|85
+Josh Collmenter|R|Starling Marte|R|Flyout|B|Cutter|12|0|0|1|14|84
+Josh Collmenter|R|Starling Marte|R|Flyout|C|Changeup|13|1|0|1|9|77
+Josh Collmenter|R|Starling Marte|R|Flyout|F|Cutter|14|1|1|1|7|85
+Josh Collmenter|R|Starling Marte|R|Flyout|B|Cutter|15|1|2|1|11|86
+Josh Collmenter|R|Starling Marte|R|Flyout|X|Changeup|16|2|2|1|6|78
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|B|Cutter|17|0|0|2|12|85
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|S|Cutter|18|1|0|2|12|84
+Josh Collmenter|R|Andrew McCutchen|R|Groundout|X|Changeup|19|1|1|2|3|78
+Josh Collmenter|R|Aramis Ramirez|R|Flyout|C|Cutter|20|0|0|0|12|84
+Josh Collmenter|R|Aramis Ramirez|R|Flyout|B|Curveball|21|0|1|0|12|69
+Josh Collmenter|R|Aramis Ramirez|R|Flyout|B|Cutter|22|1|1|0|11|85
+Josh Collmenter|R|Aramis Ramirez|R|Flyout|X|Changeup|23|2|1|0|14|78
+Josh Collmenter|R|Jung Ho Kang|R|Home Run|B|Cutter|24|0|0|1|11|85
+Josh Collmenter|R|Jung Ho Kang|R|Home Run|E|Changeup|25|1|0|1|8|76
+Josh Collmenter|R|Neil Walker|L|Groundout|F|Cutter|26|0|0|1|6|85
+Josh Collmenter|R|Neil Walker|L|Groundout|X|Cutter|27|0|1|1|6|85
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|B|Cutter|28|0|0|2|12|85
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|C|Cutter|29|1|0|2|6|86
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|S|Cutter|30|1|1|2|6|86
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|B|Changeup|31|1|2|2|13|79
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|B|Cutter|32|2|2|2|12|86
+Josh Collmenter|R|Pedro Alvarez|L|Strikeout|S|Cutter|33|3|2|2|12|88
+Josh Collmenter|R|Todd Frazier|R|Strikeout|F|Cutter|0|0|0|0|12|84
+Josh Collmenter|R|Todd Frazier|R|Strikeout|B|Changeup|1|0|1|0|14|76
+Josh Collmenter|R|Todd Frazier|R|Strikeout|F|Cutter|2|1|1|0|5|85
+Josh Collmenter|R|Todd Frazier|R|Strikeout|F|Cutter|3|1|2|0|14|86
+Josh Collmenter|R|Todd Frazier|R|Strikeout|F|Changeup|4|1|2|0|4|78
+Josh Collmenter|R|Todd Frazier|R|Strikeout|F|Curveball|5|1|2|0|14|73
+Josh Collmenter|R|Todd Frazier|R|Strikeout|B|Cutter|6|1|2|0|13|87
+Josh Collmenter|R|Todd Frazier|R|Strikeout|S|Cutter|7|2|2|0|2|87
+Josh Collmenter|R|Jay Bruce|L|Lineout|C|Cutter|8|0|0|1|8|85
+Josh Collmenter|R|Jay Bruce|L|Lineout|X|Cutter|9|0|1|1|14|85
+Josh Collmenter|R|Ivan De Jesus Jr.|R|Strikeout|C|Cutter|10|0|0|2|1|86
+Josh Collmenter|R|Ivan De Jesus Jr.|R|Strikeout|B|Cutter|11|0|1|2|13|86
+Josh Collmenter|R|Ivan De Jesus Jr.|R|Strikeout|C|Cutter|12|1|1|2|14|85
+Josh Collmenter|R|Ivan De Jesus Jr.|R|Strikeout|B|Cutter|13|1|2|2|11|87
+Josh Collmenter|R|Ivan De Jesus Jr.|R|Strikeout|C|Cutter|14|2|2|2|11|86
+Josh Collmenter|R|Skip Schumaker|L|Groundout|C|Cutter|15|0|0|0|2|84
+Josh Collmenter|R|Skip Schumaker|L|Groundout|B|Curveball|16|0|1|0|13|69
+Josh Collmenter|R|Skip Schumaker|L|Groundout|X|Cutter|17|1|1|0|12|85
+Josh Collmenter|R|Tucker Barnhart|L|Groundout|B|Cutter|18|0|0|1|14|84
+Josh Collmenter|R|Tucker Barnhart|L|Groundout|B|Changeup|19|1|0|1|13|77
+Josh Collmenter|R|Tucker Barnhart|L|Groundout|X|Changeup|20|2|0|1|13|78
+Josh Collmenter|R|John Lamb|L|Groundout|C|Cutter|21|0|0|2|11|85
+Josh Collmenter|R|John Lamb|L|Groundout|X|Cutter|22|0|1|2|12|85
+Josh Collmenter|R|Jason Bourgeois|R|Lineout|C|Cutter|23|0|0|0|12|83
+Josh Collmenter|R|Jason Bourgeois|R|Lineout|C|Curveball|24|0|1|0|3|69
+Josh Collmenter|R|Jason Bourgeois|R|Lineout|B|Changeup|25|0|2|0|14|76
+Josh Collmenter|R|Jason Bourgeois|R|Lineout|X|Cutter|26|1|2|0|11|85
+Josh Collmenter|R|Eugenio Suarez|R|Strikeout|B|Curveball|27|0|0|1|9|70
+Josh Collmenter|R|Eugenio Suarez|R|Strikeout|B|Cutter|28|1|0|1|11|85
+Josh Collmenter|R|Eugenio Suarez|R|Strikeout|C|Changeup|29|2|0|1|5|76
+Josh Collmenter|R|Eugenio Suarez|R|Strikeout|C|Cutter|30|2|1|1|14|85
+Josh Collmenter|R|Eugenio Suarez|R|Strikeout|T|Cutter|31|2|2|1|3|86
+Josh Collmenter|R|Joey Votto|L|Groundout|B|Cutter|32|0|0|2|14|85
+Josh Collmenter|R|Joey Votto|L|Groundout|F|Cutter|33|1|0|2|6|86
+Josh Collmenter|R|Joey Votto|L|Groundout|B|Cutter|34|1|1|2|12|86
+Josh Collmenter|R|Joey Votto|L|Groundout|B|Changeup|35|2|1|2|13|77
+Josh Collmenter|R|Joey Votto|L|Groundout|X|Cutter|36|3|1|2|3|87
+Josh Collmenter|R|Mark Reynolds|R|Flyout|C|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Mark Reynolds|R|Flyout|B|Cutter|1|0|1|0|13|85
+Josh Collmenter|R|Mark Reynolds|R|Flyout|C|Cutter|2|1|1|0|13|85
+Josh Collmenter|R|Mark Reynolds|R|Flyout|B|Changeup|3|1|2|0|13|78
+Josh Collmenter|R|Mark Reynolds|R|Flyout|F|Changeup|4|2|2|0|13|78
+Josh Collmenter|R|Mark Reynolds|R|Flyout|B|Cutter|5|2|2|0|7|86
+Josh Collmenter|R|Mark Reynolds|R|Flyout|F|Cutter|6|3|2|0|1|87
+Josh Collmenter|R|Mark Reynolds|R|Flyout|X|Cutter|7|3|2|0|5|87
+Josh Collmenter|R|Brandon Moss|L|Walk|B|Cutter|8|0|0|1|14|86
+Josh Collmenter|R|Brandon Moss|L|Walk|B|Changeup|9|1|0|1|13|78
+Josh Collmenter|R|Brandon Moss|L|Walk|B|Cutter|10|2|0|1|11|86
+Josh Collmenter|R|Brandon Moss|L|Walk|B|Cutter|11|3|0|1|13|85
+Josh Collmenter|R|Pete Kozma|R|Pop Out|B|Cutter|12|0|0|1|12|86
+Josh Collmenter|R|Pete Kozma|R|Pop Out|C|Cutter|13|1|0|1|4|86
+Josh Collmenter|R|Pete Kozma|R|Pop Out|C|Cutter|14|1|1|1|11|85
+Josh Collmenter|R|Pete Kozma|R|Pop Out|B|Changeup|15|1|2|1|13|78
+Josh Collmenter|R|Pete Kozma|R|Pop Out|F|Cutter|16|2|2|1|2|86
+Josh Collmenter|R|Pete Kozma|R|Pop Out|X|Cutter|17|2|2|1|8|87
+Josh Collmenter|R|Matt Carpenter|L|Pop Out|C|Curveball|18|0|0|2|3|69
+Josh Collmenter|R|Matt Carpenter|L|Pop Out|F|Cutter|19|0|1|2|12|86
+Josh Collmenter|R|Matt Carpenter|L|Pop Out|B|Cutter|20|0|2|2|12|86
+Josh Collmenter|R|Matt Carpenter|L|Pop Out|X|Cutter|21|1|2|2|12|87
+Josh Collmenter|R|Tommy Pham|R|Lineout|B|Cutter|22|0|0|0|14|84
+Josh Collmenter|R|Tommy Pham|R|Lineout|X|Changeup|23|1|0|0|13|75
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|S|Cutter|24|0|0|1|3|86
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|B|Curveball|25|0|1|1|14|72
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|F|Cutter|26|1|1|1|5|86
+Josh Collmenter|R|Jhonny Peralta|R|Lineout|X|Cutter|27|1|2|1|8|86
+Josh Collmenter|R|Jason Heyward|L|Single|D|Cutter|28|0|0|2|5|86
+Josh Collmenter|R|Yadier Molina|R|Flyout|B|Cutter|29|0|0|2|11|84
+Josh Collmenter|R|Yadier Molina|R|Flyout|X|Cutter|30|1|0|2|13|85
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|B|Curveball|0|0|0|0|12|68
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Cutter|1|1|0|0|4|84
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Changeup|2|1|1|0|13|75
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|B|Cutter|3|1|2|0|11|85
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Cutter|4|2|2|0|1|85
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Changeup|5|2|2|0|13|76
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Changeup|6|2|2|0|14|75
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|F|Cutter|7|2|2|0|11|86
+Josh Collmenter|R|Stephen Piscotty|R|Flyout|X|Cutter|8|2|2|0|13|86
+Josh Collmenter|R|Kolten Wong|L|Groundout|B|Cutter|9|0|0|1|12|84
+Josh Collmenter|R|Kolten Wong|L|Groundout|X|Cutter|10|1|0|1|9|85
+Josh Collmenter|R|Mark Reynolds|R|Walk|C|Curveball|11|0|0|2|6|69
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|12|0|1|2|12|84
+Josh Collmenter|R|Mark Reynolds|R|Walk|F|Changeup|13|1|1|2|7|76
+Josh Collmenter|R|Mark Reynolds|R|Walk|F|Cutter|14|1|2|2|14|85
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|15|1|2|2|13|86
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|16|2|2|2|11|86
+Josh Collmenter|R|Mark Reynolds|R|Walk|F|Cutter|17|3|2|2|13|86
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|18|3|2|2|11|86
+Josh Collmenter|R|Brandon Moss|L|Flyout|B|Cutter|19|0|0|2|14|84
+Josh Collmenter|R|Brandon Moss|L|Flyout|S|Changeup|20|1|0|2|4|76
+Josh Collmenter|R|Brandon Moss|L|Flyout|X|Changeup|21|1|1|2|4|75
+Josh Collmenter|R|Danny Valencia|R|Single|B|Cutter|0|0|0|0|6|83
+Josh Collmenter|R|Danny Valencia|R|Single|C|Cutter|1|1|0|0|4|83
+Josh Collmenter|R|Danny Valencia|R|Single|S|Changeup|2|1|1|0|13|74
+Josh Collmenter|R|Danny Valencia|R|Single|B|Changeup|3|1|2|0|13|74
+Josh Collmenter|R|Danny Valencia|R|Single|D|Cutter|4|2|2|0|1|85
+Josh Collmenter|R|Stephen Vogt|L|Single|C|Cutter|5|0|0|0|8|83
+Josh Collmenter|R|Stephen Vogt|L|Single|B|Cutter|6|0|1|0|12|83
+Josh Collmenter|R|Stephen Vogt|L|Single|S|Cutter|7|1|1|0|12|84
+Josh Collmenter|R|Stephen Vogt|L|Single|D|Changeup|8|1|2|0|13|75
+Josh Collmenter|R|Josh Phegley|R|Strikeout|F|Cutter|9|0|0|0|1|83
+Josh Collmenter|R|Josh Phegley|R|Strikeout|S|Cutter|10|0|1|0|1|83
+Josh Collmenter|R|Josh Phegley|R|Strikeout|S|Cutter|11|0|2|0|2|84
+Josh Collmenter|R|Marcus Semien|R|Flyout|X|Cutter|12|0|0|1|4|84
+Josh Collmenter|R|Eric Sogard|L|Pop Out|C|Cutter|13|0|0|2|2|83
+Josh Collmenter|R|Eric Sogard|L|Pop Out|F|Changeup|14|0|1|2|7|73
+Josh Collmenter|R|Eric Sogard|L|Pop Out|B|Cutter|15|0|2|2|11|82
+Josh Collmenter|R|Eric Sogard|L|Pop Out|F|Cutter|16|1|2|2|12|85
+Josh Collmenter|R|Eric Sogard|L|Pop Out|F|Changeup|17|1|2|2|13|76
+Josh Collmenter|R|Eric Sogard|L|Pop Out|X|Changeup|18|1|2|2|5|74
+Josh Collmenter|R|Coco Crisp|L|Single|F|Cutter|19|0|0|0|9|84
+Josh Collmenter|R|Coco Crisp|L|Single|F|Cutter|20|0|1|0|11|83
+Josh Collmenter|R|Coco Crisp|L|Single|B|Changeup|21|0|2|0|13|75
+Josh Collmenter|R|Coco Crisp|L|Single|D|Cutter|22|1|2|0|12|85
+Josh Collmenter|R|Billy Burns|L|Strikeout|L|Changeup|23|0|0|0|13|76
+Josh Collmenter|R|Billy Burns|L|Strikeout|S|Changeup|24|0|1|0|13|75
+Josh Collmenter|R|Billy Burns|L|Strikeout|S|Changeup|25|0|2|0|13|75
+Josh Collmenter|R|Mark Canha|R|Double|B|Cutter|26|0|0|1|11|84
+Josh Collmenter|R|Mark Canha|R|Double|C|Cutter|27|1|0|1|4|83
+Josh Collmenter|R|Mark Canha|R|Double|E|Cutter|28|1|1|1|11|85
+Josh Collmenter|R|Cristhian Adames|L|Groundout|C|Cutter|0|0|0|0|4|85
+Josh Collmenter|R|Cristhian Adames|L|Groundout|B|Changeup|1|0|1|0|13|77
+Josh Collmenter|R|Cristhian Adames|L|Groundout|F|Changeup|2|1|1|0|8|77
+Josh Collmenter|R|Cristhian Adames|L|Groundout|B|Cutter|3|1|2|0|12|86
+Josh Collmenter|R|Cristhian Adames|L|Groundout|X|Cutter|4|2|2|0|2|87
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|B|Cutter|5|0|0|1|12|87
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|F|Cutter|6|1|0|1|12|85
+Josh Collmenter|R|Carlos Gonzalez|L|Groundout|X|Cutter|7|1|1|1|14|87
+Josh Collmenter|R|Nolan Arenado|R|Double|D|Cutter|8|0|0|2|6|86
+Josh Collmenter|R|Ben Paulsen|L|Groundout|B|Cutter|9|0|0|2|12|86
+Josh Collmenter|R|Ben Paulsen|L|Groundout|X|Changeup|10|1|0|2|8|77
+Josh Collmenter|R|DJ LeMahieu|R|Single|B|Changeup|11|0|0|0|14|78
+Josh Collmenter|R|DJ LeMahieu|R|Single|B|Cutter|12|1|0|0|11|86
+Josh Collmenter|R|DJ LeMahieu|R|Single|B|Cutter|13|2|0|0|11|86
+Josh Collmenter|R|DJ LeMahieu|R|Single|C|Cutter|14|3|0|0|3|85
+Josh Collmenter|R|DJ LeMahieu|R|Single|C|Cutter|15|3|1|0|1|86
+Josh Collmenter|R|DJ LeMahieu|R|Single|F|Cutter|16|3|2|0|12|87
+Josh Collmenter|R|DJ LeMahieu|R|Single|D|Cutter|17|3|2|0|11|88
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|C|Cutter|18|0|0|0|1|84
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|B|Cutter|19|0|1|0|11|85
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|*B|Changeup|20|1|1|0|13|78
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|F|Cutter|21|2|1|0|6|86
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|F|Cutter|22|2|2|0|11|86
+Josh Collmenter|R|Daniel Descalso|L|Grounded Into DP|X|Cutter|23|2|2|0|6|86
+Josh Collmenter|R|Nick Hundley|R|Strikeout|C|Cutter|24|0|0|2|9|86
+Josh Collmenter|R|Nick Hundley|R|Strikeout|B|Cutter|25|0|1|2|12|85
+Josh Collmenter|R|Nick Hundley|R|Strikeout|S|Changeup|26|1|1|2|14|79
+Josh Collmenter|R|Nick Hundley|R|Strikeout|B|Cutter|27|1|2|2|12|87
+Josh Collmenter|R|Nick Hundley|R|Strikeout|S|Cutter|28|2|2|2|11|86
+Josh Collmenter|R|Austin Jackson|R|Double|B|Cutter|0|0|0|2|12|83
+Josh Collmenter|R|Austin Jackson|R|Double|C|Cutter|1|1|0|2|9|84
+Josh Collmenter|R|Austin Jackson|R|Double|B|Cutter|2|1|1|2|13|84
+Josh Collmenter|R|Austin Jackson|R|Double|B|Cutter|3|2|1|2|13|84
+Josh Collmenter|R|Austin Jackson|R|Double|D|Cutter|4|3|1|2|6|85
+Josh Collmenter|R|Chris Coghlan|L|Flyout|B|Changeup|5|0|0|2|11|76
+Josh Collmenter|R|Chris Coghlan|L|Flyout|X|Changeup|6|1|0|2|1|75
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|C|Cutter|7|0|0|0|3|85
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|B|Cutter|8|0|1|0|12|85
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|S|Cutter|9|1|1|0|12|85
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|F|Changeup|10|1|2|0|13|77
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|F|Cutter|11|1|2|0|13|86
+Josh Collmenter|R|Anthony Rizzo|L|Groundout|X|Cutter|12|1|2|0|1|85
+Josh Collmenter|R|Kris Bryant|R|Flyout|X|Cutter|13|0|0|1|13|85
+Josh Collmenter|R|Miguel Montero|L|Groundout|B|Cutter|14|0|0|2|14|84
+Josh Collmenter|R|Miguel Montero|L|Groundout|X|Cutter|15|1|0|2|14|84
+Josh Collmenter|R|Javier Baez|R|Strikeout|C|Cutter|16|0|0|0|5|85
+Josh Collmenter|R|Javier Baez|R|Strikeout|C|Cutter|17|0|1|0|13|85
+Josh Collmenter|R|Javier Baez|R|Strikeout|C|Cutter|18|0|2|0|13|84
+Josh Collmenter|R|Chris Denorfia|R|Double|D|Changeup|19|0|0|1|6|77
+Josh Collmenter|R|Addison Russell|R|Lineout|C|Cutter|20|0|0|1|4|85
+Josh Collmenter|R|Addison Russell|R|Lineout|F|Cutter|21|0|1|1|1|84
+Josh Collmenter|R|Addison Russell|R|Lineout|X|Changeup|22|0|2|1|14|77
+Josh Collmenter|R|Gregor Blanco|L|Groundout|B|Cutter|0|0|0|0|12|83
+Josh Collmenter|R|Gregor Blanco|L|Groundout|B|Cutter|1|1|0|0|14|83
+Josh Collmenter|R|Gregor Blanco|L|Groundout|C|Changeup|2|2|0|0|8|76
+Josh Collmenter|R|Gregor Blanco|L|Groundout|X|Changeup|3|2|1|0|7|75
+Josh Collmenter|R|Tim Hudson|R|Single|C|Cutter|4|0|0|1|3|82
+Josh Collmenter|R|Tim Hudson|R|Single|D|Cutter|5|0|1|1|12|83
+Josh Collmenter|R|Angel Pagan|L|Forceout|C|Cutter|6|0|0|1|5|84
+Josh Collmenter|R|Angel Pagan|L|Forceout|*B|Changeup|7|0|1|1|13|74
+Josh Collmenter|R|Angel Pagan|L|Forceout|S|Changeup|8|1|1|1|5|74
+Josh Collmenter|R|Angel Pagan|L|Forceout|X|Cutter|9|1|2|1|14|84
+Josh Collmenter|R|Joe Panik|L|Hit By Pitch|H|Cutter|10|0|0|2|12|84
+Josh Collmenter|R|Matt Duffy|R|Strikeout|C|Cutter|11|0|0|2|7|84
+Josh Collmenter|R|Matt Duffy|R|Strikeout|B|Changeup|12|0|1|2|14|76
+Josh Collmenter|R|Matt Duffy|R|Strikeout|B|Changeup|13|1|1|2|14|76
+Josh Collmenter|R|Matt Duffy|R|Strikeout|B|Cutter|14|2|1|2|11|84
+Josh Collmenter|R|Matt Duffy|R|Strikeout|C|Cutter|15|3|1|2|11|84
+Josh Collmenter|R|Matt Duffy|R|Strikeout|F|Cutter|16|3|2|2|5|85
+Josh Collmenter|R|Matt Duffy|R|Strikeout|S|Cutter|17|3|2|2|8|86
+Josh Collmenter|R|Buster Posey|R|Lineout|X|Changeup|18|0|0|2|6|76
+Josh Collmenter|R|Marlon Byrd|R|Strikeout|C|Cutter|19|0|0|0|6|83
+Josh Collmenter|R|Marlon Byrd|R|Strikeout|C|Cutter|20|0|1|0|1|83
+Josh Collmenter|R|Marlon Byrd|R|Strikeout|B|Changeup|21|0|2|0|13|76
+Josh Collmenter|R|Marlon Byrd|R|Strikeout|S|Cutter|22|1|2|0|12|85
+Josh Collmenter|R|Brandon Belt|L|Walk|S|Changeup|23|0|0|1|4|76
+Josh Collmenter|R|Brandon Belt|L|Walk|B|Cutter|24|0|1|1|12|83
+Josh Collmenter|R|Brandon Belt|L|Walk|B|Cutter|25|1|1|1|12|84
+Josh Collmenter|R|Brandon Belt|L|Walk|B|Cutter|26|2|1|1|12|86
+Josh Collmenter|R|Brandon Belt|L|Walk|*B|Changeup|27|3|1|1|14|77
+Josh Collmenter|R|Ehire Adrianza|L|Pop Out|C|Curveball|28|0|0|1|8|70
+Josh Collmenter|R|Ehire Adrianza|L|Pop Out|S|Cutter|29|0|1|1|9|83
+Josh Collmenter|R|Ehire Adrianza|L|Pop Out|X|Changeup|30|0|2|1|14|73
+Josh Collmenter|R|Corey Seager|L|Home Run|B|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Corey Seager|L|Home Run|C|Cutter|1|1|0|0|13|84
+Josh Collmenter|R|Corey Seager|L|Home Run|F|Changeup|2|1|1|0|1|75
+Josh Collmenter|R|Corey Seager|L|Home Run|E|Cutter|3|1|2|0|12|85
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|C|Changeup|4|0|0|0|8|76
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|F|Cutter|5|0|1|0|3|83
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|B|Changeup|6|0|2|0|13|75
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|B|Cutter|7|1|2|0|12|85
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|S|Changeup|8|2|2|0|14|76
+Josh Collmenter|R|Joc Pederson|L|Single|L|Cutter|9|0|0|1|12|84
+Josh Collmenter|R|Joc Pederson|L|Single|F|Changeup|10|0|1|1|13|78
+Josh Collmenter|R|Joc Pederson|L|Single|B|Changeup|11|0|2|1|13|76
+Josh Collmenter|R|Joc Pederson|L|Single|F|Curveball|12|1|2|1|13|72
+Josh Collmenter|R|Joc Pederson|L|Single|D|Cutter|13|1|2|1|14|84
+Josh Collmenter|R|Chris Heisey|R|Flyout|B|Cutter|14|0|0|1|14|83
+Josh Collmenter|R|Chris Heisey|R|Flyout|C|Cutter|15|1|0|1|13|83
+Josh Collmenter|R|Chris Heisey|R|Flyout|*B|Changeup|16|1|1|1|13|77
+Josh Collmenter|R|Chris Heisey|R|Flyout|X|Cutter|17|2|1|1|5|84
+Josh Collmenter|R|Scott Schebler|L|Flyout|B|Changeup|18|0|0|2|13|76
+Josh Collmenter|R|Scott Schebler|L|Flyout|C|Cutter|19|1|0|2|7|84
+Josh Collmenter|R|Scott Schebler|L|Flyout|X|Cutter|20|1|1|2|2|84
+Josh Collmenter|R|Chase Utley|L|Lineout|B|Cutter|21|0|0|0|13|84
+Josh Collmenter|R|Chase Utley|L|Lineout|B|Changeup|22|1|0|0|13|77
+Josh Collmenter|R|Chase Utley|L|Lineout|X|Cutter|23|2|0|0|3|85
+Josh Collmenter|R|Adrian Gonzalez|L|Groundout|X|Changeup|24|0|0|1|13|77
+Josh Collmenter|R|Justin Turner|R|Groundout|B|Cutter|25|0|0|2|12|85
+Josh Collmenter|R|Justin Turner|R|Groundout|C|Cutter|26|1|0|2|1|85
+Josh Collmenter|R|Justin Turner|R|Groundout|B|Cutter|27|1|1|2|11|84
+Josh Collmenter|R|Justin Turner|R|Groundout|X|Changeup|28|2|1|2|9|76
+Josh Collmenter|R|Brett Wallace|L|Groundout|S|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Brett Wallace|L|Groundout|B|Changeup|1|0|1|0|13|76
+Josh Collmenter|R|Brett Wallace|L|Groundout|S|Changeup|2|1|1|0|13|76
+Josh Collmenter|R|Brett Wallace|L|Groundout|F|Changeup|3|1|2|0|13|76
+Josh Collmenter|R|Brett Wallace|L|Groundout|X|Cutter|4|1|2|0|13|86
+Josh Collmenter|R|Jedd Gyorko|R|Lineout|C|Curveball|5|0|0|1|1|71
+Josh Collmenter|R|Jedd Gyorko|R|Lineout|B|Changeup|6|0|1|1|14|75
+Josh Collmenter|R|Jedd Gyorko|R|Lineout|X|Cutter|7|1|1|1|13|85
+Josh Collmenter|R|Cory Spangenberg|L|Bunt Groundout|X|Cutter|8|0|0|2|5|85
+Josh Collmenter|R|B.J. Upton|R|Groundout|B|Cutter|9|0|0|0|14|84
+Josh Collmenter|R|B.J. Upton|R|Groundout|X|Cutter|10|1|0|0|14|84
+Josh Collmenter|R|Austin Hedges|R|Groundout|C|Cutter|11|0|0|1|11|84
+Josh Collmenter|R|Austin Hedges|R|Groundout|F|Cutter|12|0|1|1|11|85
+Josh Collmenter|R|Austin Hedges|R|Groundout|X|Changeup|13|0|2|1|14|77
+Josh Collmenter|R|Craig Kimbrel|R|Strikeout|C|Cutter|14|0|0|2|2|85
+Josh Collmenter|R|Craig Kimbrel|R|Strikeout|F|Cutter|15|0|1|2|6|84
+Josh Collmenter|R|Craig Kimbrel|R|Strikeout|B|Cutter|16|0|2|2|14|86
+Josh Collmenter|R|Craig Kimbrel|R|Strikeout|B|Curveball|17|1|2|2|13|72
+Josh Collmenter|R|Craig Kimbrel|R|Strikeout|C|Cutter|18|2|2|2|13|86
+Josh Collmenter|R|Buster Posey|R|Single|B|Cutter|0|0|0|0|11|84
+Josh Collmenter|R|Buster Posey|R|Single|C|Cutter|1|1|0|0|8|84
+Josh Collmenter|R|Buster Posey|R|Single|D|Cutter|2|1|1|0|1|83
+Josh Collmenter|R|Marlon Byrd|R|Groundout|C|Cutter|3|0|0|0|7|84
+Josh Collmenter|R|Marlon Byrd|R|Groundout|X|Cutter|4|0|1|0|14|83
+Josh Collmenter|R|Juan Carlo Perez|R|Groundout|F|Cutter|5|0|0|1|5|84
+Josh Collmenter|R|Juan Carlo Perez|R|Groundout|*B|Cutter|6|0|1|1|13|84
+Josh Collmenter|R|Juan Carlo Perez|R|Groundout|B|Changeup|7|1|1|1|12|75
+Josh Collmenter|R|Juan Carlo Perez|R|Groundout|B|Cutter|8|2|1|1|13|85
+Josh Collmenter|R|Juan Carlo Perez|R|Groundout|X|Cutter|9|3|1|1|13|86
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|*B|Changeup|10|0|0|2|13|76
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|B|Changeup|11|1|0|2|13|77
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|S|Changeup|12|2|0|2|7|78
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|F|Cutter|13|2|1|2|2|85
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|F|Cutter|14|2|2|2|12|85
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|*B|Changeup|15|2|2|2|13|77
+Josh Collmenter|R|Brandon Crawford|L|Strikeout|S|Changeup|16|3|2|2|6|77
+Josh Collmenter|R|Corey Seager|L|Lineout|X|Cutter|0|0|0|0|5|84
+Josh Collmenter|R|A.J. Ellis|R|Lineout|C|Curveball|1|0|0|1|12|69
+Josh Collmenter|R|A.J. Ellis|R|Lineout|F|Cutter|2|0|1|1|4|85
+Josh Collmenter|R|A.J. Ellis|R|Lineout|X|Cutter|3|0|2|1|4|87
+Josh Collmenter|R|Scott Schebler|L|Groundout|X|Changeup|4|0|0|2|8|78
+Josh Collmenter|R|Cory Spangenberg|L|Single|B|Cutter|0|0|0|0|14|83
+Josh Collmenter|R|Cory Spangenberg|L|Single|B|Changeup|1|1|0|0|13|76
+Josh Collmenter|R|Cory Spangenberg|L|Single|S|Changeup|2|2|0|0|6|77
+Josh Collmenter|R|Cory Spangenberg|L|Single|B|Cutter|3|2|1|0|14|84
+Josh Collmenter|R|Cory Spangenberg|L|Single|F|Cutter|4|3|1|0|6|85
+Josh Collmenter|R|Cory Spangenberg|L|Single|F|Cutter|5|3|2|0|6|86
+Josh Collmenter|R|Cory Spangenberg|L|Single|D|Cutter|6|3|2|0|3|85
+Josh Collmenter|R|Matt Kemp|R|Single|C|Cutter|7|0|0|0|7|83
+Josh Collmenter|R|Matt Kemp|R|Single|D|Changeup|8|0|1|0|13|76
+Josh Collmenter|R|Justin Upton|R|Double|S|Cutter|9|0|0|0|3|83
+Josh Collmenter|R|Justin Upton|R|Double|E|Cutter|10|0|1|0|8|84
+Josh Collmenter|R|Jedd Gyorko|R|Sac Fly|C|Curveball|11|0|0|0|12|69
+Josh Collmenter|R|Jedd Gyorko|R|Sac Fly|S|Cutter|12|0|1|0|2|84
+Josh Collmenter|R|Jedd Gyorko|R|Sac Fly|E|Cutter|13|0|2|0|12|83
+Josh Collmenter|R|Carlos Correa|R|Home Run|B|Cutter|0|0|0|0|14|82
+Josh Collmenter|R|Carlos Correa|R|Home Run|E|Cutter|1|1|0|0|8|83
+Josh Collmenter|R|Colby Rasmus|L|Lineout|C|Changeup|2|0|0|0|8|76
+Josh Collmenter|R|Colby Rasmus|L|Lineout|F|Cutter|3|0|1|0|6|83
+Josh Collmenter|R|Colby Rasmus|L|Lineout|B|Changeup|4|0|2|0|14|74
+Josh Collmenter|R|Colby Rasmus|L|Lineout|X|Changeup|5|1|2|0|6|76
+Josh Collmenter|R|Luis Valbuena|L|Groundout|C|Cutter|6|0|0|1|1|83
+Josh Collmenter|R|Luis Valbuena|L|Groundout|X|Changeup|7|0|1|1|8|77
+Josh Collmenter|R|Chris Carter|R|Flyout|C|Changeup|8|0|0|2|8|75
+Josh Collmenter|R|Chris Carter|R|Flyout|B|Curveball|9|0|1|2|14|71
+Josh Collmenter|R|Chris Carter|R|Flyout|B|Cutter|10|1|1|2|14|84
+Josh Collmenter|R|Chris Carter|R|Flyout|X|Changeup|11|2|1|2|9|77
+Josh Collmenter|R|Preston Tucker|L|Groundout|B|Changeup|12|0|0|0|14|76
+Josh Collmenter|R|Preston Tucker|L|Groundout|F|Changeup|13|1|0|0|5|76
+Josh Collmenter|R|Preston Tucker|L|Groundout|X|Cutter|14|1|1|0|6|83
+Josh Collmenter|R|Jason Castro|L|Groundout|C|Cutter|15|0|0|1|7|83
+Josh Collmenter|R|Jason Castro|L|Groundout|F|Cutter|16|0|1|1|5|83
+Josh Collmenter|R|Jason Castro|L|Groundout|B|Cutter|17|0|2|1|12|83
+Josh Collmenter|R|Jason Castro|L|Groundout|X|Cutter|18|1|2|1|14|84
+Josh Collmenter|R|Dallas Keuchel|L|Strikeout|C|Cutter|19|0|0|2|7|84
+Josh Collmenter|R|Dallas Keuchel|L|Strikeout|B|Cutter|20|0|1|2|14|82
+Josh Collmenter|R|Dallas Keuchel|L|Strikeout|F|Cutter|21|1|1|2|6|84
+Josh Collmenter|R|Dallas Keuchel|L|Strikeout|W|Curveball|22|1|2|2|14|72
+Josh Collmenter|R|George Springer|R|Strikeout|B|Changeup|0|0|0|2|3|76
+Josh Collmenter|R|George Springer|R|Strikeout|S|Cutter|1|1|0|2|5|83
+Josh Collmenter|R|George Springer|R|Strikeout|B|Cutter|2|1|1|2|13|84
+Josh Collmenter|R|George Springer|R|Strikeout|F|Cutter|3|2|1|2|4|85
+Josh Collmenter|R|George Springer|R|Strikeout|F|Cutter|4|2|2|2|4|86
+Josh Collmenter|R|George Springer|R|Strikeout|F|Changeup|5|2|2|2|13|78
+Josh Collmenter|R|George Springer|R|Strikeout|S|Cutter|6|2|2|2|1|86
+Josh Collmenter|R|Carlos Correa|R|Groundout|B|Changeup|7|0|0|0|14|75
+Josh Collmenter|R|Carlos Correa|R|Groundout|C|Cutter|8|1|0|0|4|84
+Josh Collmenter|R|Carlos Correa|R|Groundout|B|Changeup|9|1|1|0|13|76
+Josh Collmenter|R|Carlos Correa|R|Groundout|X|Cutter|10|2|1|0|2|84
+Josh Collmenter|R|Colby Rasmus|L|Single|D|Cutter|11|0|0|1|6|84
+Josh Collmenter|R|Jed Lowrie|L|Walk|B|Cutter|12|0|0|1|12|83
+Josh Collmenter|R|Jed Lowrie|L|Walk|B|Cutter|13|1|0|1|12|84
+Josh Collmenter|R|Jed Lowrie|L|Walk|B|Changeup|14|2|0|1|12|77
+Josh Collmenter|R|Jed Lowrie|L|Walk|C|Cutter|15|3|0|1|12|84
+Josh Collmenter|R|Jed Lowrie|L|Walk|F|Cutter|16|3|1|1|12|84
+Josh Collmenter|R|Jed Lowrie|L|Walk|B|Cutter|17|3|2|1|14|85
+Josh Collmenter|R|Matt Duffy|R|Strikeout|C|Cutter|18|0|0|1|1|85
+Josh Collmenter|R|Matt Duffy|R|Strikeout|C|Changeup|19|0|1|1|14|75
+Josh Collmenter|R|Matt Duffy|R|Strikeout|B|Changeup|20|0|2|1|14|77
+Josh Collmenter|R|Matt Duffy|R|Strikeout|F|Cutter|21|1|2|1|5|85
+Josh Collmenter|R|Matt Duffy|R|Strikeout|S|Cutter|22|1|2|1|1|85
+Josh Collmenter|R|Jake Marisnick|R|Flyout|B|Changeup|23|0|0|2|12|76
+Josh Collmenter|R|Jake Marisnick|R|Flyout|S|Cutter|24|1|0|2|5|84
+Josh Collmenter|R|Jake Marisnick|R|Flyout|X|Cutter|25|1|1|2|4|85
+Josh Collmenter|R|Jon Jay|L|Flyout|X|Cutter|0|0|0|0|11|84
+Josh Collmenter|R|Wil Myers|R|Walk|C|Cutter|1|0|0|1|14|84
+Josh Collmenter|R|Wil Myers|R|Walk|B|Cutter|2|0|1|1|13|84
+Josh Collmenter|R|Wil Myers|R|Walk|B|Curveball|3|1|1|1|14|70
+Josh Collmenter|R|Wil Myers|R|Walk|B|Changeup|4|2|1|1|14|77
+Josh Collmenter|R|Wil Myers|R|Walk|C|Cutter|5|3|1|1|9|84
+Josh Collmenter|R|Wil Myers|R|Walk|B|Cutter|6|3|2|1|13|85
+Josh Collmenter|R|Matt Kemp|R|Single|B|Cutter|7|0|0|1|12|84
+Josh Collmenter|R|Matt Kemp|R|Single|B|Changeup|8|1|0|1|13|75
+Josh Collmenter|R|Matt Kemp|R|Single|C|Cutter|9|2|0|1|14|83
+Josh Collmenter|R|Matt Kemp|R|Single|*B|Changeup|10|2|1|1|14|77
+Josh Collmenter|R|Matt Kemp|R|Single|D|Cutter|11|3|1|1|9|85
+Josh Collmenter|R|Yangervis Solarte|L|Home Run|*B|Changeup|12|0|0|1|13|76
+Josh Collmenter|R|Yangervis Solarte|L|Home Run|C|Cutter|13|1|0|1|13|84
+Josh Collmenter|R|Yangervis Solarte|L|Home Run|E|Changeup|14|1|1|1|5|78
+Josh Collmenter|R|B.J. Upton|R|Single|D|Cutter|15|0|0|1|9|83
+Josh Collmenter|R|Brett Wallace|L|Walk|C|Cutter|16|0|0|1|6|83
+Josh Collmenter|R|Brett Wallace|L|Walk|B|Curveball|17|0|1|1|14|71
+Josh Collmenter|R|Brett Wallace|L|Walk|B|Cutter|18|1|1|1|12|83
+Josh Collmenter|R|Brett Wallace|L|Walk|B|Changeup|19|2|1|1|12|77
+Josh Collmenter|R|Brett Wallace|L|Walk|F|Cutter|20|3|1|1|5|84
+Josh Collmenter|R|Brett Wallace|L|Walk|B|Cutter|21|3|2|1|11|85
+Josh Collmenter|R|Derek Norris|R|Double|B|Cutter|22|0|0|1|11|83
+Josh Collmenter|R|Derek Norris|R|Double|B|Cutter|23|1|0|1|12|84
+Josh Collmenter|R|Derek Norris|R|Double|F|Cutter|24|2|0|1|5|83
+Josh Collmenter|R|Derek Norris|R|Double|F|Changeup|25|2|1|1|13|77
+Josh Collmenter|R|Derek Norris|R|Double|B|Changeup|26|2|2|1|13|77
+Josh Collmenter|R|Derek Norris|R|Double|F|Cutter|27|3|2|1|6|84
+Josh Collmenter|R|Derek Norris|R|Double|E|Cutter|28|3|2|1|9|84
+Josh Collmenter|R|Carlos Correa|R|Strikeout|C|Cutter|0|0|0|0|8|85
+Josh Collmenter|R|Carlos Correa|R|Strikeout|B|Changeup|1|0|1|0|13|77
+Josh Collmenter|R|Carlos Correa|R|Strikeout|F|Changeup|2|1|1|0|7|78
+Josh Collmenter|R|Carlos Correa|R|Strikeout|B|Changeup|3|1|2|0|13|76
+Josh Collmenter|R|Carlos Correa|R|Strikeout|C|Cutter|4|2|2|0|13|86
+Josh Collmenter|R|Colby Rasmus|L|Single|S|Changeup|5|0|0|1|13|77
+Josh Collmenter|R|Colby Rasmus|L|Single|B|Cutter|6|0|1|1|11|85
+Josh Collmenter|R|Colby Rasmus|L|Single|F|Cutter|7|1|1|1|9|85
+Josh Collmenter|R|Colby Rasmus|L|Single|B|Cutter|8|1|2|1|11|85
+Josh Collmenter|R|Colby Rasmus|L|Single|B|Changeup|9|2|2|1|13|77
+Josh Collmenter|R|Colby Rasmus|L|Single|D|Cutter|10|3|2|1|7|87
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|C|Cutter|11|0|0|1|4|85
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|C|Cutter|12|0|1|1|7|85
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|X|Cutter|13|0|2|1|14|85
+Josh Collmenter|R|Marwin Gonzalez|L|Field Error|F|Cutter|14|0|0|0|8|84
+Josh Collmenter|R|Marwin Gonzalez|L|Field Error|B|Changeup|15|0|1|0|11|77
+Josh Collmenter|R|Marwin Gonzalez|L|Field Error|S|Changeup|16|1|1|0|13|77
+Josh Collmenter|R|Marwin Gonzalez|L|Field Error|B|Cutter|17|1|2|0|14|84
+Josh Collmenter|R|Marwin Gonzalez|L|Field Error|D|Changeup|18|2|2|0|5|76
+Josh Collmenter|R|Jake Marisnick|R|Flyout|B|Cutter|19|0|0|0|12|84
+Josh Collmenter|R|Jake Marisnick|R|Flyout|B|Cutter|20|1|0|0|11|84
+Josh Collmenter|R|Jake Marisnick|R|Flyout|F|Cutter|21|2|0|0|6|84
+Josh Collmenter|R|Jake Marisnick|R|Flyout|X|Cutter|22|2|1|0|4|86
+Josh Collmenter|R|Jason Castro|L|Grounded Into DP|F|Cutter|23|0|0|1|14|86
+Josh Collmenter|R|Jason Castro|L|Grounded Into DP|B|Cutter|24|0|1|1|14|85
+Josh Collmenter|R|Jason Castro|L|Grounded Into DP|X|Cutter|25|1|1|1|9|86
+Josh Collmenter|R|Evan Gattis|R|Walk|C|Curveball|0|0|0|2|9|69
+Josh Collmenter|R|Evan Gattis|R|Walk|B|Cutter|1|0|1|2|12|82
+Josh Collmenter|R|Evan Gattis|R|Walk|B|Changeup|2|1|1|2|14|73
+Josh Collmenter|R|Evan Gattis|R|Walk|B|Cutter|3|2|1|2|13|84
+Josh Collmenter|R|Evan Gattis|R|Walk|B|Cutter|4|3|1|2|14|84
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|B|Cutter|5|0|0|2|12|82
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|*B|Changeup|6|1|0|2|14|76
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|F|Cutter|7|2|0|2|6|84
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|F|Cutter|8|2|1|2|5|84
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|B|Changeup|9|2|2|2|13|79
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|F|Changeup|10|3|2|2|4|78
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|F|Cutter|11|3|2|2|12|85
+Josh Collmenter|R|Tyler White|R|Grounded Into DP|X|Cutter|12|3|2|2|2|84
+Josh Collmenter|R|Luis Valbuena|L|Groundout|C|Changeup|13|0|0|1|9|77
+Josh Collmenter|R|Luis Valbuena|L|Groundout|B|Changeup|14|0|1|1|13|76
+Josh Collmenter|R|Luis Valbuena|L|Groundout|B|Cutter|15|1|1|1|14|83
+Josh Collmenter|R|Luis Valbuena|L|Groundout|X|Changeup|16|2|1|1|11|75
+Josh Collmenter|R|Carlos Gomez|R|Walk|B|Cutter|17|0|0|2|12|83
+Josh Collmenter|R|Carlos Gomez|R|Walk|B|Changeup|18|1|0|2|13|76
+Josh Collmenter|R|Carlos Gomez|R|Walk|B|Cutter|19|2|0|2|11|84
+Josh Collmenter|R|Carlos Gomez|R|Walk|B|Cutter|20|3|0|2|12|83
+Josh Collmenter|R|Jake Marisnick|R|Grounded Into DP|B|Curveball|21|0|0|2|14|71
+Josh Collmenter|R|Jake Marisnick|R|Grounded Into DP|X|Cutter|22|1|0|2|4|84
+Josh Collmenter|R|Marwin Gonzalez|L|Single|C|Changeup|23|0|0|1|8|76
+Josh Collmenter|R|Marwin Gonzalez|L|Single|D|Changeup|24|0|1|1|5|76
+Josh Collmenter|R|George Springer|R|Hit By Pitch|B|Curveball|25|0|0|1|12|69
+Josh Collmenter|R|George Springer|R|Hit By Pitch|F|Cutter|26|1|0|1|14|83
+Josh Collmenter|R|George Springer|R|Hit By Pitch|C|Cutter|27|1|1|1|13|84
+Josh Collmenter|R|George Springer|R|Hit By Pitch|B|Changeup|28|1|2|1|13|77
+Josh Collmenter|R|George Springer|R|Hit By Pitch|H|Cutter|29|2|2|1|11|84
+Josh Collmenter|R|Jose Altuve|R|Lineout|B|Cutter|30|0|0|1|12|83
+Josh Collmenter|R|Jose Altuve|R|Lineout|B|Cutter|31|1|0|1|12|84
+Josh Collmenter|R|Jose Altuve|R|Lineout|B|Cutter|32|2|0|1|11|84
+Josh Collmenter|R|Jose Altuve|R|Lineout|X|Cutter|33|3|0|1|14|84
+Josh Collmenter|R|Tommy La Stella|L|Groundout|X|Cutter|0|0|0|0|8|83
+Josh Collmenter|R|Dexter Fowler|L|Groundout|C|Curveball|1|0|0|1|7|69
+Josh Collmenter|R|Dexter Fowler|L|Groundout|B|Changeup|2|0|1|1|13|76
+Josh Collmenter|R|Dexter Fowler|L|Groundout|S|Changeup|3|1|1|1|7|76
+Josh Collmenter|R|Dexter Fowler|L|Groundout|B|Cutter|4|1|2|1|12|83
+Josh Collmenter|R|Dexter Fowler|L|Groundout|B|Changeup|5|2|2|1|13|75
+Josh Collmenter|R|Dexter Fowler|L|Groundout|X|Cutter|6|3|2|1|1|85
+Josh Collmenter|R|Jason Heyward|L|Strikeout|C|Cutter|7|0|0|2|13|83
+Josh Collmenter|R|Jason Heyward|L|Strikeout|S|Changeup|8|0|1|2|11|76
+Josh Collmenter|R|Jason Heyward|L|Strikeout|B|Changeup|9|0|2|2|13|76
+Josh Collmenter|R|Jason Heyward|L|Strikeout|B|Cutter|10|1|2|2|11|84
+Josh Collmenter|R|Jason Heyward|L|Strikeout|C|Cutter|11|2|2|2|7|84
+Josh Collmenter|R|Mikie Mahtook|R|Groundout|B|Cutter|0|0|0|0|12|82
+Josh Collmenter|R|Mikie Mahtook|R|Groundout|C|Cutter|1|1|0|0|9|81
+Josh Collmenter|R|Mikie Mahtook|R|Groundout|B|Changeup|2|1|1|0|13|76
+Josh Collmenter|R|Mikie Mahtook|R|Groundout|X|Cutter|3|2|1|0|4|85
+Josh Collmenter|R|Tim Beckham|R|Walk|B|Curveball|4|0|0|1|13|69
+Josh Collmenter|R|Tim Beckham|R|Walk|B|Cutter|5|1|0|1|12|83
+Josh Collmenter|R|Tim Beckham|R|Walk|S|Cutter|6|2|0|1|6|83
+Josh Collmenter|R|Tim Beckham|R|Walk|B|Cutter|7|2|1|1|12|83
+Josh Collmenter|R|Tim Beckham|R|Walk|F|Cutter|8|3|1|1|6|83
+Josh Collmenter|R|Tim Beckham|R|Walk|*B|Changeup|9|3|2|1|13|79
+Josh Collmenter|R|Evan Longoria|R|Strikeout|B|Changeup|10|0|0|1|13|77
+Josh Collmenter|R|Evan Longoria|R|Strikeout|C|Changeup|11|1|0|1|8|77
+Josh Collmenter|R|Evan Longoria|R|Strikeout|C|Cutter|12|1|1|1|6|83
+Josh Collmenter|R|Evan Longoria|R|Strikeout|*B|Changeup|13|1|2|1|13|78
+Josh Collmenter|R|Evan Longoria|R|Strikeout|C|Cutter|14|2|2|1|13|84
+Josh Collmenter|R|Logan Morrison|L|Groundout|B|Cutter|15|0|0|2|11|84
+Josh Collmenter|R|Logan Morrison|L|Groundout|X|Changeup|16|1|0|2|13|77
+Josh Collmenter|R|Steven Souza Jr.|R|Strikeout|C|Curveball|17|0|0|0|14|69
+Josh Collmenter|R|Steven Souza Jr.|R|Strikeout|F|Changeup|18|0|1|0|13|77
+Josh Collmenter|R|Steven Souza Jr.|R|Strikeout|B|Changeup|19|0|2|0|13|77
+Josh Collmenter|R|Steven Souza Jr.|R|Strikeout|C|Cutter|20|1|2|0|14|84
+Josh Collmenter|R|Desmond Jennings|R|Walk|B|Curveball|21|0|0|1|14|70
+Josh Collmenter|R|Desmond Jennings|R|Walk|C|Cutter|22|1|0|1|9|84
+Josh Collmenter|R|Desmond Jennings|R|Walk|B|Changeup|23|1|1|1|13|77
+Josh Collmenter|R|Desmond Jennings|R|Walk|F|Cutter|24|2|1|1|6|84
+Josh Collmenter|R|Desmond Jennings|R|Walk|B|Curveball|25|2|2|1|14|73
+Josh Collmenter|R|Desmond Jennings|R|Walk|B|Cutter|26|3|2|1|13|86
+Josh Collmenter|R|Brad Miller|L|Forceout|*B|Changeup|27|0|0|1|13|78
+Josh Collmenter|R|Brad Miller|L|Forceout|C|Cutter|28|1|0|1|4|83
+Josh Collmenter|R|Brad Miller|L|Forceout|F|Changeup|29|1|1|1|13|77
+Josh Collmenter|R|Brad Miller|L|Forceout|X|Changeup|30|1|2|1|9|77
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|C|Cutter|31|0|0|2|14|84
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|B|Changeup|32|0|1|2|13|78
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|S|Changeup|33|1|1|2|13|79
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|*B|Changeup|34|1|2|2|13|79
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|F|Cutter|35|2|2|2|11|84
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|F|Cutter|36|2|2|2|8|86
+Josh Collmenter|R|Curt Casali|R|Caught Stealing 2B|B|Cutter|37|2|2|2|14|85
+Josh Collmenter|R|Miguel Rojas|R|Groundout|B|Cutter|0|0|0|0|14|81
+Josh Collmenter|R|Miguel Rojas|R|Groundout|C|Cutter|1|1|0|0|7|83
+Josh Collmenter|R|Miguel Rojas|R|Groundout|X|Cutter|2|1|1|0|11|83
+Josh Collmenter|R|Jeff Mathis|R|Single|B|Curveball|3|0|0|1|12|68
+Josh Collmenter|R|Jeff Mathis|R|Single|C|Cutter|4|1|0|1|14|81
+Josh Collmenter|R|Jeff Mathis|R|Single|D|Cutter|5|1|1|1|4|84
+Josh Collmenter|R|Ichiro Suzuki|L|Forceout|C|Cutter|6|0|0|1|1|82
+Josh Collmenter|R|Ichiro Suzuki|L|Forceout|X|Changeup|7|0|1|1|13|74
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|C|Cutter|8|0|0|2|7|83
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|X|Cutter|9|0|1|2|1|83
+Josh Collmenter|R|Martin Prado|R|Groundout|C|Cutter|10|0|0|0|14|81
+Josh Collmenter|R|Martin Prado|R|Groundout|B|Cutter|11|0|1|0|11|83
+Josh Collmenter|R|Martin Prado|R|Groundout|X|Changeup|12|1|1|0|4|75
+Josh Collmenter|R|Christian Yelich|L|Groundout|B|Curveball|13|0|0|1|14|68
+Josh Collmenter|R|Christian Yelich|L|Groundout|X|Changeup|14|1|0|1|4|76
+Josh Collmenter|R|Marcell Ozuna|R|Flyout|B|Cutter|15|0|0|2|12|82
+Josh Collmenter|R|Marcell Ozuna|R|Flyout|X|Cutter|16|1|0|2|12|82
+Josh Collmenter|R|Trayce Thompson|R|Flyout|C|Cutter|0|0|0|0|6|82
+Josh Collmenter|R|Trayce Thompson|R|Flyout|B|Changeup|1|0|1|0|14|74
+Josh Collmenter|R|Trayce Thompson|R|Flyout|B|Cutter|2|1|1|0|11|83
+Josh Collmenter|R|Trayce Thompson|R|Flyout|S|Changeup|3|2|1|0|14|75
+Josh Collmenter|R|Trayce Thompson|R|Flyout|B|Cutter|4|2|2|0|11|84
+Josh Collmenter|R|Trayce Thompson|R|Flyout|F|Changeup|5|3|2|0|4|76
+Josh Collmenter|R|Trayce Thompson|R|Flyout|F|Changeup|6|3|2|0|5|75
+Josh Collmenter|R|Trayce Thompson|R|Flyout|X|Cutter|7|3|2|0|6|83
+Josh Collmenter|R|Joc Pederson|L|Pop Out|B|Changeup|8|0|0|1|13|76
+Josh Collmenter|R|Joc Pederson|L|Pop Out|B|Cutter|9|1|0|1|12|83
+Josh Collmenter|R|Joc Pederson|L|Pop Out|B|Cutter|10|2|0|1|12|83
+Josh Collmenter|R|Joc Pederson|L|Pop Out|C|Cutter|11|3|0|1|12|84
+Josh Collmenter|R|Joc Pederson|L|Pop Out|X|Changeup|12|3|1|1|4|76
+Josh Collmenter|R|Yasmani Grandal|L|Single|B|Cutter|13|0|0|2|13|82
+Josh Collmenter|R|Yasmani Grandal|L|Single|D|Cutter|14|1|0|2|3|82
+Josh Collmenter|R|Will Venable|L|Groundout|C|Cutter|15|0|0|2|11|82
+Josh Collmenter|R|Will Venable|L|Groundout|*B|Changeup|16|0|1|2|13|75
+Josh Collmenter|R|Will Venable|L|Groundout|X|Cutter|17|1|1|2|12|83
+Josh Collmenter|R|Scott Van Slyke|R|Single|B|Cutter|18|0|0|0|14|81
+Josh Collmenter|R|Scott Van Slyke|R|Single|D|Cutter|19|1|0|0|14|82
+Josh Collmenter|R|Chase Utley|L|Flyout|C|Cutter|20|0|0|0|4|83
+Josh Collmenter|R|Chase Utley|L|Flyout|X|Cutter|21|0|1|0|3|83
+Josh Collmenter|R|Corey Seager|L|Strikeout|F|Cutter|22|0|0|1|12|84
+Josh Collmenter|R|Corey Seager|L|Strikeout|F|Cutter|23|0|1|1|5|83
+Josh Collmenter|R|Corey Seager|L|Strikeout|S|Changeup|24|0|2|1|13|75
+Josh Collmenter|R|Justin Turner|R|Walk|B|Cutter|25|0|0|2|14|83
+Josh Collmenter|R|Justin Turner|R|Walk|S|Cutter|26|1|0|2|2|83
+Josh Collmenter|R|Justin Turner|R|Walk|B|Cutter|27|1|1|2|11|83
+Josh Collmenter|R|Justin Turner|R|Walk|F|Cutter|28|2|1|2|4|84
+Josh Collmenter|R|Justin Turner|R|Walk|F|Changeup|29|2|2|2|13|78
+Josh Collmenter|R|Justin Turner|R|Walk|B|Changeup|30|2|2|2|13|77
+Josh Collmenter|R|Justin Turner|R|Walk|F|Cutter|31|3|2|2|11|84
+Josh Collmenter|R|Justin Turner|R|Walk|B|Curveball|32|3|2|2|14|70
+Josh Collmenter|R|Adrian Gonzalez|L|Strikeout|F|Changeup|33|0|0|2|4|76
+Josh Collmenter|R|Adrian Gonzalez|L|Strikeout|F|Cutter|34|0|1|2|14|84
+Josh Collmenter|R|Adrian Gonzalez|L|Strikeout|*B|Changeup|35|0|2|2|13|76
+Josh Collmenter|R|Adrian Gonzalez|L|Strikeout|S|Changeup|36|1|2|2|13|77
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|C|Curveball|0|0|0|2|5|68
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|B|Cutter|1|0|1|2|13|84
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|B|Changeup|2|1|1|2|14|75
+Josh Collmenter|R|DJ LeMahieu|R|Groundout|X|Cutter|3|2|1|2|4|85
+Josh Collmenter|R|Brandon Barnes|R|Double|B|Curveball|0|0|0|2|11|66
+Josh Collmenter|R|Brandon Barnes|R|Double|B|Cutter|1|1|0|2|12|82
+Josh Collmenter|R|Brandon Barnes|R|Double|B|Cutter|2|2|0|2|14|82
+Josh Collmenter|R|Brandon Barnes|R|Double|C|Cutter|3|3|0|2|4|84
+Josh Collmenter|R|Brandon Barnes|R|Double|S|Cutter|4|3|1|2|11|83
+Josh Collmenter|R|Brandon Barnes|R|Double|F|Cutter|5|3|2|2|11|85
+Josh Collmenter|R|Brandon Barnes|R|Double|D|Cutter|6|3|2|2|11|85
+Josh Collmenter|R|Tony Wolters|L|Sac Bunt|X|Changeup|7|0|0|2|8|75
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|8|0|0|0|11|84
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|9|1|0|0|13|84
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Changeup|10|2|0|0|11|76
+Josh Collmenter|R|Mark Reynolds|R|Walk|C|Cutter|11|3|0|0|11|84
+Josh Collmenter|R|Mark Reynolds|R|Walk|B|Cutter|12|3|1|0|11|86
+Josh Collmenter|R|Charlie Blackmon|L|Single|F|Cutter|13|0|0|0|12|84
+Josh Collmenter|R|Charlie Blackmon|L|Single|F|Cutter|14|0|1|0|14|84
+Josh Collmenter|R|Charlie Blackmon|L|Single|E|Changeup|15|0|2|0|11|77
+Josh Collmenter|R|DJ LeMahieu|R|Home Run|B|Cutter|16|0|0|0|12|83
+Josh Collmenter|R|DJ LeMahieu|R|Home Run|F|Cutter|17|1|0|0|11|84
+Josh Collmenter|R|DJ LeMahieu|R|Home Run|C|Cutter|18|1|1|0|14|85
+Josh Collmenter|R|DJ LeMahieu|R|Home Run|B|Cutter|19|1|2|0|14|84
+Josh Collmenter|R|DJ LeMahieu|R|Home Run|E|Cutter|20|2|2|0|1|85
+Josh Collmenter|R|Nolan Arenado|R|Lineout|C|Curveball|21|0|0|0|2|70
+Josh Collmenter|R|Nolan Arenado|R|Lineout|B|Cutter|22|0|1|0|11|84
+Josh Collmenter|R|Nolan Arenado|R|Lineout|X|Changeup|23|1|1|0|3|77
+Josh Collmenter|R|Carlos Gonzalez|L|Double|C|Changeup|24|0|0|1|1|75
+Josh Collmenter|R|Carlos Gonzalez|L|Double|D|Cutter|25|0|1|1|13|82
+Josh Collmenter|R|Trevor Story|R|Intent Walk|I|Intentional Ball|26|0|0|1|14|65
+Josh Collmenter|R|Trevor Story|R|Intent Walk|I|Intentional Ball|27|0|1|1|12|67
+Josh Collmenter|R|Trevor Story|R|Intent Walk|I|Intentional Ball|28|0|2|1|12|67
+Josh Collmenter|R|Trevor Story|R|Intent Walk|I|Intentional Ball|29|0|2|1|12|65
+Josh Collmenter|R|Gonzalez Germen|R|Strikeout|C|Cutter|30|0|0|1|9|81
+Josh Collmenter|R|Gonzalez Germen|R|Strikeout|C|Cutter|31|0|1|1|9|81
+Josh Collmenter|R|Gonzalez Germen|R|Strikeout|C|Cutter|32|0|2|1|11|83
+Josh Collmenter|R|Cesar Hernandez|L|Single|S|Changeup|0|0|0|2|7|74
+Josh Collmenter|R|Cesar Hernandez|L|Single|B|Cutter|1|0|1|2|13|82
+Josh Collmenter|R|Cesar Hernandez|L|Single|B|Cutter|2|1|1|2|11|83
+Josh Collmenter|R|Cesar Hernandez|L|Single|S|Changeup|3|2|1|2|9|75
+Josh Collmenter|R|Cesar Hernandez|L|Single|*B|Changeup|4|2|2|2|13|75
+Josh Collmenter|R|Cesar Hernandez|L|Single|E|Changeup|5|3|2|2|5|76
+Josh Collmenter|R|Cody Asche|L|Flyout|X|Cutter|6|0|0|2|13|83
+Josh Collmenter|R|Odubel Herrera|L|Double|C|Changeup|7|0|0|0|8|74
+Josh Collmenter|R|Odubel Herrera|L|Double|D|Cutter|8|0|1|0|14|81
+Josh Collmenter|R|Peter Bourjos|R|Strikeout|C|Cutter|9|0|0|0|14|81
+Josh Collmenter|R|Peter Bourjos|R|Strikeout|S|Cutter|10|0|1|0|14|81
+Josh Collmenter|R|Peter Bourjos|R|Strikeout|B|Cutter|11|0|2|0|14|82
+Josh Collmenter|R|Peter Bourjos|R|Strikeout|S|Cutter|12|1|2|0|1|84
+Josh Collmenter|R|Tommy Joseph|R|Lineout|X|Cutter|13|0|0|1|6|82
+Josh Collmenter|R|Maikel Franco|R|Groundout|C|Curveball|14|0|0|2|12|69
+Josh Collmenter|R|Maikel Franco|R|Groundout|C|Cutter|15|0|1|2|7|83
+Josh Collmenter|R|Maikel Franco|R|Groundout|X|Cutter|16|0|2|2|4|83
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|C|Curveball|17|0|0|0|12|67
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|B|Changeup|18|0|1|0|14|72
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|C|Cutter|19|1|1|0|9|81
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|B|Changeup|20|1|2|0|14|75
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|B|Cutter|21|2|2|0|13|83
+Josh Collmenter|R|Cameron Rupp|R|Strikeout|T|Cutter|22|3|2|0|11|83
+Josh Collmenter|R|Freddy Galvis|L|Groundout|B|Changeup|23|0|0|1|13|76
+Josh Collmenter|R|Freddy Galvis|L|Groundout|F|Cutter|24|1|0|1|3|83
+Josh Collmenter|R|Freddy Galvis|L|Groundout|F|Changeup|25|1|1|1|13|74
+Josh Collmenter|R|Freddy Galvis|L|Groundout|B|Cutter|26|1|2|1|13|84
+Josh Collmenter|R|Freddy Galvis|L|Groundout|F|Cutter|27|2|2|1|12|84
+Josh Collmenter|R|Freddy Galvis|L|Groundout|X|Curveball|28|2|2|1|3|70
+Josh Collmenter|R|Jimmy Paredes|L|Single|B|Cutter|29|0|0|2|13|83
+Josh Collmenter|R|Jimmy Paredes|L|Single|D|Changeup|30|1|0|2|4|75
+Josh Collmenter|R|Cesar Hernandez|L|Single|F|Cutter|31|0|0|2|4|82
+Josh Collmenter|R|Cesar Hernandez|L|Single|B|Cutter|32|0|1|2|11|83
+Josh Collmenter|R|Cesar Hernandez|L|Single|D|Cutter|33|1|1|2|1|82
+Josh Collmenter|R|Cody Asche|L|Flyout|C|Changeup|34|0|0|2|5|75
+Josh Collmenter|R|Cody Asche|L|Flyout|X|Cutter|35|0|1|2|5|83
+Josh Collmenter|R|Wil Myers|R|Strikeout|B|Cutter|0|0|0|0|12|81
+Josh Collmenter|R|Wil Myers|R|Strikeout|C|Cutter|1|1|0|0|14|80
+Josh Collmenter|R|Wil Myers|R|Strikeout|F|Cutter|2|1|1|0|11|82
+Josh Collmenter|R|Wil Myers|R|Strikeout|C|Changeup|3|1|2|0|12|75
+Josh Collmenter|R|Matt Kemp|R|Groundout|B|Cutter|4|0|0|1|14|81
+Josh Collmenter|R|Matt Kemp|R|Groundout|S|Changeup|5|1|0|1|14|75
+Josh Collmenter|R|Matt Kemp|R|Groundout|B|Cutter|6|1|1|1|14|82
+Josh Collmenter|R|Matt Kemp|R|Groundout|X|Cutter|7|2|1|1|12|82
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|C|Curveball|8|0|0|2|6|68
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|B|Changeup|9|0|1|2|13|76
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|C|Changeup|10|1|1|2|2|76
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|F|Cutter|11|1|2|2|12|83
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|B|Changeup|12|1|2|2|13|76
+Josh Collmenter|R|Yangervis Solarte|L|Lineout|X|Cutter|13|2|2|2|1|84
+Josh Collmenter|R|Wil Myers|R|Single|D|Curveball|0|0|0|0|8|67
+Josh Collmenter|R|Matt Kemp|R|Walk|B|Changeup|1|0|0|0|14|74
+Josh Collmenter|R|Matt Kemp|R|Walk|S|Changeup|2|1|0|0|3|75
+Josh Collmenter|R|Matt Kemp|R|Walk|B|Cutter|3|1|1|0|13|82
+Josh Collmenter|R|Matt Kemp|R|Walk|B|Changeup|4|2|1|0|13|74
+Josh Collmenter|R|Matt Kemp|R|Walk|S|Changeup|5|3|1|0|5|76
+Josh Collmenter|R|Matt Kemp|R|Walk|F|Cutter|6|3|2|0|8|84
+Josh Collmenter|R|Matt Kemp|R|Walk|B|Cutter|7|3|2|0|13|83
+Josh Collmenter|R|Yangervis Solarte|L|Home Run|E|Changeup|8|0|0|0|4|75
+Josh Collmenter|R|B.J. Upton|R|Groundout|B|Cutter|9|0|0|0|14|82
+Josh Collmenter|R|B.J. Upton|R|Groundout|X|Changeup|10|1|0|0|7|75
+Josh Collmenter|R|Derek Norris|R|Strikeout|C|Curveball|11|0|0|1|5|68
+Josh Collmenter|R|Derek Norris|R|Strikeout|S|Cutter|12|0|1|1|1|83
+Josh Collmenter|R|Derek Norris|R|Strikeout|B|Cutter|13|0|2|1|11|82
+Josh Collmenter|R|Derek Norris|R|Strikeout|B|Cutter|14|1|2|1|11|83
+Josh Collmenter|R|Derek Norris|R|Strikeout|F|Changeup|15|2|2|1|1|76
+Josh Collmenter|R|Derek Norris|R|Strikeout|C|Cutter|16|2|2|1|11|83
+Josh Collmenter|R|Ryan Schimpf|L|Home Run|C|Cutter|17|0|0|2|4|82
+Josh Collmenter|R|Ryan Schimpf|L|Home Run|E|Changeup|18|0|1|2|4|75
+Josh Collmenter|R|Alexei Ramirez|R|Pop Out|C|Cutter|19|0|0|2|4|83
+Josh Collmenter|R|Alexei Ramirez|R|Pop Out|F|Cutter|20|0|1|2|4|83
+Josh Collmenter|R|Alexei Ramirez|R|Pop Out|X|Cutter|21|0|2|2|12|83
+Josh Collmenter|R|Justin Turner|R|Strikeout|B|Cutter|0|0|0|0|12|83
+Josh Collmenter|R|Justin Turner|R|Strikeout|B|Cutter|1|1|0|0|14|84
+Josh Collmenter|R|Justin Turner|R|Strikeout|C|Changeup|2|2|0|0|3|77
+Josh Collmenter|R|Justin Turner|R|Strikeout|S|Cutter|3|2|1|0|2|85
+Josh Collmenter|R|Justin Turner|R|Strikeout|F|Cutter|4|2|2|0|8|85
+Josh Collmenter|R|Justin Turner|R|Strikeout|C|Cutter|5|2|2|0|14|84
+Josh Collmenter|R|Adrian Gonzalez|L|Groundout|C|Cutter|6|0|0|1|9|84
+Josh Collmenter|R|Adrian Gonzalez|L|Groundout|X|Changeup|7|0|1|1|11|76
+Josh Collmenter|R|Yasiel Puig|R|Groundout|B|Cutter|8|0|0|2|14|83
+Josh Collmenter|R|Yasiel Puig|R|Groundout|B|Cutter|9|1|0|2|13|84
+Josh Collmenter|R|Yasiel Puig|R|Groundout|C|Cutter|10|2|0|2|13|84
+Josh Collmenter|R|Yasiel Puig|R|Groundout|B|Cutter|11|2|1|2|12|85
+Josh Collmenter|R|Yasiel Puig|R|Groundout|X|Cutter|12|3|1|2|4|85
+Josh Collmenter|R|Scott Van Slyke|R|Hit By Pitch|F|Cutter|13|0|0|0|14|82
+Josh Collmenter|R|Scott Van Slyke|R|Hit By Pitch|C|Cutter|14|0|1|0|14|83
+Josh Collmenter|R|Scott Van Slyke|R|Hit By Pitch|B|Cutter|15|0|2|0|12|83
+Josh Collmenter|R|Scott Van Slyke|R|Hit By Pitch|H|Cutter|16|1|2|0|11|84
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|F|Cutter|17|0|0|0|5|83
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|B|Cutter|18|0|1|0|7|84
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|S|Changeup|19|1|1|0|13|77
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|B|Changeup|20|1|2|0|13|74
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|F|Cutter|21|2|2|0|9|83
+Josh Collmenter|R|Yasmani Grandal|L|Strikeout|W|Curveball|22|2|2|0|13|70
+Josh Collmenter|R|Chris Taylor|R|Bunt Groundout|X|Cutter|23|0|0|1|12|84
+Josh Collmenter|R|Chase Utley|L|Groundout|B|Cutter|24|0|0|2|13|84
+Josh Collmenter|R|Chase Utley|L|Groundout|B|Cutter|25|1|0|2|11|84
+Josh Collmenter|R|Chase Utley|L|Groundout|C|Changeup|26|2|0|2|7|78
+Josh Collmenter|R|Chase Utley|L|Groundout|C|Cutter|27|2|1|2|1|85
+Josh Collmenter|R|Chase Utley|L|Groundout|B|Curveball|28|2|2|2|14|71
+Josh Collmenter|R|Chase Utley|L|Groundout|X|Cutter|29|3|2|2|14|86
+Josh Collmenter|R|Russell Martin|R|Walk|B|Cutter|0|0|0|2|14|84
+Josh Collmenter|R|Russell Martin|R|Walk|B|Cutter|1|1|0|2|13|84
+Josh Collmenter|R|Russell Martin|R|Walk|B|Changeup|2|2|0|2|14|75
+Josh Collmenter|R|Russell Martin|R|Walk|C|Cutter|3|3|0|2|3|84
+Josh Collmenter|R|Russell Martin|R|Walk|S|Cutter|4|3|1|2|5|85
+Josh Collmenter|R|Russell Martin|R|Walk|B|Cutter|5|3|2|2|11|86
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|C|Curveball|6|0|0|2|9|71
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|C|Cutter|7|0|1|2|4|85
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|B|Cutter|8|0|2|2|14|85
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|*B|Changeup|9|1|2|2|14|77
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|B|Cutter|10|2|2|2|13|86
+Josh Collmenter|R|Troy Tulowitzki|R|Strikeout|C|Cutter|11|3|2|2|13|86
+Josh Collmenter|R|Kevin Pillar|R|Pop Out|C|Cutter|12|0|0|0|11|85
+Josh Collmenter|R|Kevin Pillar|R|Pop Out|X|Curveball|13|0|1|0|9|68
+Josh Collmenter|R|Junior Lake|R|Groundout|B|Cutter|14|0|0|1|14|84
+Josh Collmenter|R|Junior Lake|R|Groundout|X|Changeup|15|1|0|1|7|76
+Josh Collmenter|R|Devon Travis|R|Pop Out|C|Changeup|16|0|0|2|9|78
+Josh Collmenter|R|Devon Travis|R|Pop Out|S|Cutter|17|0|1|2|11|84
+Josh Collmenter|R|Devon Travis|R|Pop Out|B|Changeup|18|0|2|2|13|79
+Josh Collmenter|R|Devon Travis|R|Pop Out|B|Cutter|19|1|2|2|11|85
+Josh Collmenter|R|Devon Travis|R|Pop Out|X|Curveball|20|2|2|2|7|73
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Groundout|B|Cutter|0|0|0|0|14|82
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Groundout|B|Changeup|1|1|0|0|14|75
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Groundout|F|Changeup|2|2|0|0|4|76
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Groundout|B|Cutter|3|2|1|0|14|84
+Josh Collmenter|R|Kirk Nieuwenhuis|L|Groundout|X|Cutter|4|3|1|0|9|83
+Josh Collmenter|R|Hernan Perez|R|Strikeout|C|Cutter|5|0|0|1|7|83
+Josh Collmenter|R|Hernan Perez|R|Strikeout|F|Curveball|6|0|1|1|13|70
+Josh Collmenter|R|Hernan Perez|R|Strikeout|F|Cutter|7|0|2|1|5|85
+Josh Collmenter|R|Hernan Perez|R|Strikeout|C|Cutter|8|0|2|1|13|84
+Josh Collmenter|R|Ramon Flores|L|Lineout|B|Cutter|9|0|0|2|12|84
+Josh Collmenter|R|Ramon Flores|L|Lineout|X|Cutter|10|1|0|2|6|84
+Josh Collmenter|R|Martin Maldonado|R|Single|C|Cutter|11|0|0|0|1|82
+Josh Collmenter|R|Martin Maldonado|R|Single|C|Cutter|12|0|1|0|13|82
+Josh Collmenter|R|Martin Maldonado|R|Single|B|Cutter|13|0|2|0|14|83
+Josh Collmenter|R|Martin Maldonado|R|Single|D|Changeup|14|1|2|0|14|76
+Josh Collmenter|R|Chris Carter|R|Strikeout|B|Cutter|15|0|0|0|14|83
+Josh Collmenter|R|Chris Carter|R|Strikeout|C|Cutter|16|1|0|0|4|84
+Josh Collmenter|R|Chris Carter|R|Strikeout|F|Changeup|17|1|1|0|2|76
+Josh Collmenter|R|Chris Carter|R|Strikeout|S|Cutter|18|1|2|0|13|85
+Josh Collmenter|R|Jonathan Villar|L|Lineout|C|Changeup|19|0|0|1|2|78
+Josh Collmenter|R|Jonathan Villar|L|Lineout|F|Cutter|20|0|1|1|2|84
+Josh Collmenter|R|Jonathan Villar|L|Lineout|B|Cutter|21|0|2|1|12|83
+Josh Collmenter|R|Jonathan Villar|L|Lineout|B|Cutter|22|1|2|1|12|84
+Josh Collmenter|R|Jonathan Villar|L|Lineout|X|Cutter|23|2|2|1|3|85
+Josh Collmenter|R|Scooter Gennett|L|Strikeout|F|Changeup|24|0|0|2|3|77
+Josh Collmenter|R|Scooter Gennett|L|Strikeout|F|Cutter|25|0|1|2|14|84
+Josh Collmenter|R|Scooter Gennett|L|Strikeout|*B|Curveball|26|0|2|2|14|72
+Josh Collmenter|R|Scooter Gennett|L|Strikeout|S|Cutter|27|1|2|2|12|85
+Josh Collmenter|R|Trea Turner|R|Home Run|F|Cutter|0|0|0|0|4|84
+Josh Collmenter|R|Trea Turner|R|Home Run|B|Cutter|1|0|1|0|12|85
+Josh Collmenter|R|Trea Turner|R|Home Run|E|Changeup|2|1|1|0|11|77
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Cutter|3|0|0|0|14|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|C|Cutter|4|1|0|0|9|84
+Josh Collmenter|R|Jayson Werth|R|Strikeout|C|Cutter|5|1|1|0|9|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Cutter|6|1|2|0|13|86
+Josh Collmenter|R|Jayson Werth|R|Strikeout|T|Cutter|7|2|2|0|1|86
+Josh Collmenter|R|Daniel Murphy|L|Groundout|X|Cutter|8|0|0|1|2|86
+Josh Collmenter|R|Bryce Harper|L|Strikeout|C|Cutter|9|0|0|2|4|84
+Josh Collmenter|R|Bryce Harper|L|Strikeout|B|Changeup|10|0|1|2|13|76
+Josh Collmenter|R|Bryce Harper|L|Strikeout|F|Cutter|11|1|1|2|12|85
+Josh Collmenter|R|Bryce Harper|L|Strikeout|F|Cutter|12|1|2|2|11|85
+Josh Collmenter|R|Bryce Harper|L|Strikeout|S|Changeup|13|1|2|2|13|76
+Josh Collmenter|R|Anthony Rendon|R|Walk|B|Cutter|14|0|0|0|12|84
+Josh Collmenter|R|Anthony Rendon|R|Walk|F|Cutter|15|1|0|0|8|84
+Josh Collmenter|R|Anthony Rendon|R|Walk|B|Cutter|16|1|1|0|11|85
+Josh Collmenter|R|Anthony Rendon|R|Walk|B|Changeup|17|2|1|0|12|77
+Josh Collmenter|R|Anthony Rendon|R|Walk|C|Cutter|18|3|1|0|3|85
+Josh Collmenter|R|Anthony Rendon|R|Walk|B|Cutter|19|3|2|0|12|86
+Josh Collmenter|R|Ryan Zimmerman|R|Walk|B|Cutter|20|0|0|0|14|84
+Josh Collmenter|R|Ryan Zimmerman|R|Walk|B|Curveball|21|1|0|0|12|69
+Josh Collmenter|R|Ryan Zimmerman|R|Walk|B|Cutter|22|2|0|0|12|84
+Josh Collmenter|R|Ryan Zimmerman|R|Walk|B|Cutter|23|3|0|0|3|84
+Josh Collmenter|R|Danny Espinosa|L|Sac Bunt|X|Cutter|24|0|0|0|12|83
+Josh Collmenter|R|Pedro Severino|R|Walk|*B|Curveball|25|0|0|1|14|70
+Josh Collmenter|R|Pedro Severino|R|Walk|B|Cutter|26|1|0|1|12|85
+Josh Collmenter|R|Pedro Severino|R|Walk|B|Cutter|27|2|0|1|14|85
+Josh Collmenter|R|Pedro Severino|R|Walk|F|Cutter|28|3|0|1|3|85
+Josh Collmenter|R|Pedro Severino|R|Walk|F|Cutter|29|3|1|1|14|86
+Josh Collmenter|R|Pedro Severino|R|Walk|B|Cutter|30|3|2|1|11|86
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|B|Cutter|31|0|0|1|12|86
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|C|Cutter|32|1|0|1|3|86
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|S|Cutter|33|1|1|1|2|85
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|B|Cutter|34|1|2|1|12|86
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|F|Cutter|35|2|2|1|3|86
+Josh Collmenter|R|Gio Gonzalez|R|Strikeout|C|Curveball|36|2|2|1|6|70
+Josh Collmenter|R|Trea Turner|R|Strikeout|B|Cutter|37|0|0|2|12|87
+Josh Collmenter|R|Trea Turner|R|Strikeout|C|Cutter|38|1|0|2|9|86
+Josh Collmenter|R|Trea Turner|R|Strikeout|B|Cutter|39|1|1|2|14|87
+Josh Collmenter|R|Trea Turner|R|Strikeout|B|Cutter|40|2|1|2|12|87
+Josh Collmenter|R|Trea Turner|R|Strikeout|S|Cutter|41|3|1|2|5|87
+Josh Collmenter|R|Trea Turner|R|Strikeout|F|Cutter|42|3|2|2|3|87
+Josh Collmenter|R|Trea Turner|R|Strikeout|F|Cutter|43|3|2|2|12|88
+Josh Collmenter|R|Trea Turner|R|Strikeout|S|Cutter|44|3|2|2|8|89
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Cutter|45|0|0|0|3|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|46|1|0|0|4|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Changeup|47|1|1|0|2|78
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|48|1|2|0|12|84
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Curveball|49|1|2|0|14|69
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|50|2|2|0|1|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|51|2|2|0|12|86
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Changeup|52|2|2|0|8|77
+Josh Collmenter|R|Jayson Werth|R|Strikeout|T|Changeup|53|2|2|0|3|77
+Josh Collmenter|R|Daniel Murphy|L|Double|C|Cutter|54|0|0|1|6|85
+Josh Collmenter|R|Daniel Murphy|L|Double|D|Cutter|55|0|1|1|9|85
+Josh Collmenter|R|Bryce Harper|L|Groundout|B|Cutter|56|0|0|1|11|84
+Josh Collmenter|R|Bryce Harper|L|Groundout|*B|Curveball|57|1|0|1|14|70
+Josh Collmenter|R|Bryce Harper|L|Groundout|C|Changeup|58|2|0|1|3|77
+Josh Collmenter|R|Bryce Harper|L|Groundout|B|Cutter|59|2|1|1|11|85
+Josh Collmenter|R|Bryce Harper|L|Groundout|S|Changeup|60|3|1|1|7|75
+Josh Collmenter|R|Bryce Harper|L|Groundout|F|Changeup|61|3|2|1|6|75
+Josh Collmenter|R|Bryce Harper|L|Groundout|X|Cutter|62|3|2|1|12|87
+Josh Collmenter|R|Anthony Rendon|R|Flyout|C|Cutter|63|0|0|2|11|85
+Josh Collmenter|R|Anthony Rendon|R|Flyout|B|Cutter|64|0|1|2|12|86
+Josh Collmenter|R|Anthony Rendon|R|Flyout|C|Cutter|65|1|1|2|11|85
+Josh Collmenter|R|Anthony Rendon|R|Flyout|X|Cutter|66|1|2|2|14|86
+Josh Collmenter|R|Ryan Zimmerman|R|Single|D|Cutter|67|0|0|0|12|82
+Josh Collmenter|R|Danny Espinosa|L|Strikeout|F|Changeup|68|0|0|0|13|75
+Josh Collmenter|R|Danny Espinosa|L|Strikeout|B|Cutter|69|0|1|0|14|83
+Josh Collmenter|R|Danny Espinosa|L|Strikeout|S|Cutter|70|1|1|0|3|84
+Josh Collmenter|R|Danny Espinosa|L|Strikeout|S|Cutter|71|1|2|0|12|84
+Josh Collmenter|R|Pedro Severino|R|Flyout|B|Changeup|72|0|0|1|14|76
+Josh Collmenter|R|Pedro Severino|R|Flyout|X|Cutter|73|1|0|1|6|83
+Josh Collmenter|R|Gio Gonzalez|R|Flyout|X|Cutter|74|0|0|2|6|83
+Josh Collmenter|R|Trea Turner|R|Home Run|E|Cutter|75|0|0|0|1|83
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Curveball|76|0|0|0|12|68
+Josh Collmenter|R|Jayson Werth|R|Strikeout|C|Cutter|77|1|0|0|8|83
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|78|1|1|0|4|84
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|79|1|2|0|14|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|80|1|2|0|13|84
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Changeup|81|1|2|0|13|77
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Changeup|82|1|2|0|5|74
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Cutter|83|1|2|0|9|85
+Josh Collmenter|R|Jayson Werth|R|Strikeout|F|Curveball|84|1|2|0|14|71
+Josh Collmenter|R|Jayson Werth|R|Strikeout|B|Cutter|85|1|2|0|11|84
+Josh Collmenter|R|Jayson Werth|R|Strikeout|S|Cutter|86|2|2|0|1|85
+Josh Collmenter|R|Daniel Murphy|L|Lineout|X|Changeup|87|0|0|1|13|74
+Josh Collmenter|R|Bryce Harper|L|Strikeout|B|Cutter|88|0|0|2|13|83
+Josh Collmenter|R|Bryce Harper|L|Strikeout|S|Changeup|89|1|0|2|4|76
+Josh Collmenter|R|Bryce Harper|L|Strikeout|B|Changeup|90|1|1|2|13|76
+Josh Collmenter|R|Bryce Harper|L|Strikeout|S|Changeup|91|2|1|2|8|76
+Josh Collmenter|R|Bryce Harper|L|Strikeout|B|Cutter|92|2|2|2|11|85
+Josh Collmenter|R|Bryce Harper|L|Strikeout|S|Cutter|93|3|2|2|11|87
+Josh Collmenter|R|Dee Gordon|L|Groundout|C|Cutter|0|0|0|0|11|82
+Josh Collmenter|R|Dee Gordon|L|Groundout|X|Changeup|1|0|1|0|7|73
+Josh Collmenter|R|Marcell Ozuna|R|Field Error|C|Cutter|2|0|0|1|14|82
+Josh Collmenter|R|Marcell Ozuna|R|Field Error|B|Cutter|3|0|1|1|14|81
+Josh Collmenter|R|Marcell Ozuna|R|Field Error|S|Changeup|4|1|1|1|5|74
+Josh Collmenter|R|Marcell Ozuna|R|Field Error|D|Cutter|5|1|2|1|5|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|B|Cutter|6|0|0|1|12|82
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|B|Cutter|7|1|0|1|14|81
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|B|Cutter|8|2|0|1|13|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|C|Cutter|9|3|0|1|3|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|X|Changeup|10|3|1|1|7|74
+Josh Collmenter|R|Christian Yelich|L|Groundout|C|Cutter|11|0|0|0|7|82
+Josh Collmenter|R|Christian Yelich|L|Groundout|B|Cutter|12|0|1|0|14|81
+Josh Collmenter|R|Christian Yelich|L|Groundout|X|Changeup|13|1|1|0|13|73
+Josh Collmenter|R|Giancarlo Stanton|R|Pop Out|B|Cutter|14|0|0|1|14|83
+Josh Collmenter|R|Giancarlo Stanton|R|Pop Out|X|Changeup|15|1|0|1|13|74
+Josh Collmenter|R|Justin Bour|L|Walk|B|Cutter|16|0|0|2|11|83
+Josh Collmenter|R|Justin Bour|L|Walk|B|Cutter|17|1|0|2|13|83
+Josh Collmenter|R|Justin Bour|L|Walk|B|Cutter|18|2|0|2|13|84
+Josh Collmenter|R|Justin Bour|L|Walk|C|Cutter|19|3|0|2|8|83
+Josh Collmenter|R|Justin Bour|L|Walk|C|Cutter|20|3|1|2|9|84
+Josh Collmenter|R|Justin Bour|L|Walk|B|Cutter|21|3|2|2|14|85
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|B|Cutter|22|0|0|2|14|83
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|S|Changeup|23|1|0|2|14|74
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|B|Cutter|24|1|1|2|13|84
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|F|Cutter|25|2|1|2|9|85
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|S|Cutter|26|2|2|2|14|85
+Josh Collmenter|R|Adeiny Hechavarria|R|Lineout|C|Cutter|27|0|0|0|14|82
+Josh Collmenter|R|Adeiny Hechavarria|R|Lineout|B|Cutter|28|0|1|0|12|83
+Josh Collmenter|R|Adeiny Hechavarria|R|Lineout|X|Changeup|29|1|1|0|6|74
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|B|Cutter|30|0|0|1|12|83
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|B|Curveball|31|1|0|1|11|67
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|C|Cutter|32|2|0|1|6|83
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|F|Cutter|33|2|1|1|5|85
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|B|Cutter|34|2|2|1|14|84
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|F|Cutter|35|3|2|1|11|85
+Josh Collmenter|R|Xavier Scruggs|R|Flyout|X|Cutter|36|3|2|1|3|85
+Josh Collmenter|R|Dee Gordon|L|Triple|F|Changeup|37|0|0|2|6|75
+Josh Collmenter|R|Dee Gordon|L|Triple|B|Cutter|38|0|1|2|12|83
+Josh Collmenter|R|Dee Gordon|L|Triple|B|Cutter|39|1|1|2|12|83
+Josh Collmenter|R|Dee Gordon|L|Triple|B|Cutter|40|2|1|2|13|83
+Josh Collmenter|R|Dee Gordon|L|Triple|F|Changeup|41|3|1|2|6|75
+Josh Collmenter|R|Dee Gordon|L|Triple|D|Changeup|42|3|2|2|7|76
+Josh Collmenter|R|Marcell Ozuna|R|Single|E|Cutter|43|0|0|2|14|84
+Josh Collmenter|R|Martin Prado|R|Forceout|C|Curveball|44|0|0|2|14|68
+Josh Collmenter|R|Martin Prado|R|Forceout|B|Cutter|45|0|1|2|13|84
+Josh Collmenter|R|Martin Prado|R|Forceout|B|Cutter|46|1|1|2|14|84
+Josh Collmenter|R|Martin Prado|R|Forceout|X|Cutter|47|2|1|2|13|84
+Josh Collmenter|R|Christian Yelich|L|Groundout|C|Curveball|48|0|0|0|13|68
+Josh Collmenter|R|Christian Yelich|L|Groundout|S|Changeup|49|0|1|0|14|71
+Josh Collmenter|R|Christian Yelich|L|Groundout|B|Changeup|50|0|2|0|14|71
+Josh Collmenter|R|Christian Yelich|L|Groundout|B|Changeup|51|1|2|0|13|73
+Josh Collmenter|R|Christian Yelich|L|Groundout|X|Cutter|52|2|2|0|8|85
+Josh Collmenter|R|Giancarlo Stanton|R|Groundout|B|Cutter|53|0|0|1|12|83
+Josh Collmenter|R|Giancarlo Stanton|R|Groundout|C|Cutter|54|1|0|1|4|86
+Josh Collmenter|R|Giancarlo Stanton|R|Groundout|B|Cutter|55|1|1|1|13|85
+Josh Collmenter|R|Giancarlo Stanton|R|Groundout|F|Cutter|56|2|1|1|4|85
+Josh Collmenter|R|Giancarlo Stanton|R|Groundout|X|Changeup|57|2|2|1|4|77
+Josh Collmenter|R|Justin Bour|L|Flyout|C|Curveball|58|0|0|2|5|68
+Josh Collmenter|R|Justin Bour|L|Flyout|B|Changeup|59|0|1|2|13|71
+Josh Collmenter|R|Justin Bour|L|Flyout|X|Cutter|60|1|1|2|14|84
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|F|Changeup|61|0|0|0|13|72
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|F|Cutter|62|0|1|0|14|81
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|B|Cutter|63|0|2|0|14|82
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|F|Cutter|64|1|2|0|4|84
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|B|Changeup|65|1|2|0|13|75
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|F|Cutter|66|2|2|0|8|86
+Josh Collmenter|R|J.T. Realmuto|R|Strikeout|C|Cutter|67|2|2|0|7|85
+Josh Collmenter|R|Adeiny Hechavarria|R|Single|S|Cutter|68|0|0|1|12|83
+Josh Collmenter|R|Adeiny Hechavarria|R|Single|C|Curveball|69|0|1|1|14|69
+Josh Collmenter|R|Adeiny Hechavarria|R|Single|D|Changeup|70|0|2|1|14|72
+Josh Collmenter|R|Tomas Telis|L|Forceout|*B|Cutter|71|0|0|1|13|83
+Josh Collmenter|R|Tomas Telis|L|Forceout|X|Cutter|72|1|0|1|9|85
+Josh Collmenter|R|Dee Gordon|L|Pop Out|B|Cutter|73|0|0|2|13|83
+Josh Collmenter|R|Dee Gordon|L|Pop Out|X|Curveball|74|1|0|2|3|69
+Josh Collmenter|R|Marcell Ozuna|R|Single|C|Changeup|75|0|0|0|9|73
+Josh Collmenter|R|Marcell Ozuna|R|Single|B|Changeup|76|0|1|0|14|71
+Josh Collmenter|R|Marcell Ozuna|R|Single|D|Cutter|77|1|1|0|6|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|C|Cutter|78|0|0|0|5|82
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|F|Cutter|79|0|1|0|8|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|B|Cutter|80|0|2|0|11|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|B|Cutter|81|1|2|0|14|83
+Josh Collmenter|R|Martin Prado|R|Grounded Into DP|X|Cutter|82|2|2|0|2|84
+Josh Collmenter|R|Christian Yelich|L|Walk|S|Changeup|83|0|0|2|7|73
+Josh Collmenter|R|Christian Yelich|L|Walk|B|Cutter|84|0|1|2|14|83
+Josh Collmenter|R|Christian Yelich|L|Walk|B|Curveball|85|1|1|2|11|69
+Josh Collmenter|R|Christian Yelich|L|Walk|F|Curveball|86|2|1|2|14|68
+Josh Collmenter|R|Christian Yelich|L|Walk|B|Cutter|87|2|2|2|14|85
+Josh Collmenter|R|Christian Yelich|L|Walk|*B|Changeup|88|3|2|2|13|73
+Josh Collmenter|R|Giancarlo Stanton|R|Pop Out|X|Cutter|89|0|0|2|14|82
+Josh Collmenter|R|Justin Bour|L|Strikeout|C|Curveball|90|0|0|0|4|68
+Josh Collmenter|R|Justin Bour|L|Strikeout|B|Changeup|91|0|1|0|13|72
+Josh Collmenter|R|Justin Bour|L|Strikeout|C|Cutter|92|1|1|0|13|82
+Josh Collmenter|R|Justin Bour|L|Strikeout|F|Changeup|93|1|2|0|13|73
+Josh Collmenter|R|Justin Bour|L|Strikeout|S|Changeup|94|1|2|0|13|75
+Josh Collmenter|R|J.T. Realmuto|R|Home Run|E|Cutter|95|0|0|1|7|82
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|C|Changeup|96|0|0|1|9|73
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|B|Cutter|97|0|1|1|14|81
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|B|Cutter|98|1|1|1|14|81
+Josh Collmenter|R|Adeiny Hechavarria|R|Groundout|X|Curveball|99|2|1|1|13|69
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|C|Cutter|100|0|0|2|4|82
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|B|Curveball|101|0|1|2|13|68
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|B|Changeup|102|1|1|2|13|72
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|F|Changeup|103|2|1|2|1|73
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|B|Cutter|104|2|2|2|12|84
+Josh Collmenter|R|Ichiro Suzuki|L|Strikeout|C|Cutter|105|3|2|2|13|84
+Josh Collmenter|R|Cesar Hernandez|L|Lineout|C|Cutter|0|0|0|0|4|83
+Josh Collmenter|R|Cesar Hernandez|L|Lineout|C|Cutter|1|0|1|0|12|84
+Josh Collmenter|R|Cesar Hernandez|L|Lineout|B|Cutter|2|0|2|0|14|83
+Josh Collmenter|R|Cesar Hernandez|L|Lineout|F|Changeup|3|1|2|0|13|74
+Josh Collmenter|R|Cesar Hernandez|L|Lineout|X|Changeup|4|1|2|0|13|74
+Josh Collmenter|R|Freddy Galvis|L|Groundout|F|Cutter|5|0|0|1|11|84
+Josh Collmenter|R|Freddy Galvis|L|Groundout|X|Cutter|6|0|1|1|1|83
+Josh Collmenter|R|Odubel Herrera|L|Groundout|C|Cutter|7|0|0|2|13|83
+Josh Collmenter|R|Odubel Herrera|L|Groundout|F|Changeup|8|0|1|2|8|75
+Josh Collmenter|R|Odubel Herrera|L|Groundout|B|Cutter|9|0|2|2|11|84
+Josh Collmenter|R|Odubel Herrera|L|Groundout|X|Cutter|10|1|2|2|9|85
+Josh Collmenter|R|Tommy Joseph|R|Single|C|Cutter|11|0|0|0|9|82
+Josh Collmenter|R|Tommy Joseph|R|Single|B|Changeup|12|0|1|0|14|73
+Josh Collmenter|R|Tommy Joseph|R|Single|B|Cutter|13|1|1|0|14|83
+Josh Collmenter|R|Tommy Joseph|R|Single|F|Changeup|14|2|1|0|5|74
+Josh Collmenter|R|Tommy Joseph|R|Single|D|Cutter|15|2|2|0|7|85
+Josh Collmenter|R|Maikel Franco|R|Flyout|B|Cutter|16|0|0|0|14|82
+Josh Collmenter|R|Maikel Franco|R|Flyout|B|Cutter|17|1|0|0|13|84
+Josh Collmenter|R|Maikel Franco|R|Flyout|X|Cutter|18|2|0|0|9|83
+Josh Collmenter|R|Cody Asche|L|Strikeout|B|Changeup|19|0|0|1|13|74
+Josh Collmenter|R|Cody Asche|L|Strikeout|B|Changeup|20|1|0|1|13|75
+Josh Collmenter|R|Cody Asche|L|Strikeout|S|Cutter|21|2|0|1|3|84
+Josh Collmenter|R|Cody Asche|L|Strikeout|F|Cutter|22|2|1|1|6|84
+Josh Collmenter|R|Cody Asche|L|Strikeout|B|Curveball|23|2|2|1|9|71
+Josh Collmenter|R|Cody Asche|L|Strikeout|C|Changeup|24|3|2|1|6|76
+Josh Collmenter|R|A.J. Ellis|R|Groundout|C|Cutter|25|0|0|2|14|83
+Josh Collmenter|R|A.J. Ellis|R|Groundout|B|Cutter|26|0|1|2|12|84
+Josh Collmenter|R|A.J. Ellis|R|Groundout|F|Cutter|27|1|1|2|14|83
+Josh Collmenter|R|A.J. Ellis|R|Groundout|X|Cutter|28|1|2|2|13|85
+Josh Collmenter|R|Aaron Altherr|R|Lineout|B|Cutter|29|0|0|0|14|83
+Josh Collmenter|R|Aaron Altherr|R|Lineout|X|Cutter|30|1|0|0|8|83
+Josh Collmenter|R|Jeremy Hellickson|R|Single|C|Cutter|31|0|0|1|9|83
+Josh Collmenter|R|Jeremy Hellickson|R|Single|C|Cutter|32|0|1|1|9|84
+Josh Collmenter|R|Jeremy Hellickson|R|Single|B|Cutter|33|0|2|1|14|85
+Josh Collmenter|R|Jeremy Hellickson|R|Single|F|Curveball|34|1|2|1|6|70
+Josh Collmenter|R|Jeremy Hellickson|R|Single|D|Cutter|35|1|2|1|8|85
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|B|Cutter|36|0|0|1|14|83
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|B|Cutter|37|1|0|1|12|85
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|S|Changeup|38|2|0|1|14|76
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|S|Cutter|39|2|1|1|14|84
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|40|2|2|1|3|86
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|41|2|2|1|14|86
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|F|Cutter|42|2|2|1|12|86
+Josh Collmenter|R|Cesar Hernandez|L|Strikeout|C|Curveball|43|2|2|1|1|71
+Josh Collmenter|R|Freddy Galvis|L|Hit By Pitch|C|Curveball|44|0|0|2|6|69
+Josh Collmenter|R|Freddy Galvis|L|Hit By Pitch|S|Changeup|45|0|1|2|9|74
+Josh Collmenter|R|Freddy Galvis|L|Hit By Pitch|*B|Changeup|46|0|2|2|13|74
+Josh Collmenter|R|Freddy Galvis|L|Hit By Pitch|H|Cutter|47|1|2|2|12|85
+Josh Collmenter|R|Odubel Herrera|L|Single|E|Cutter|48|0|0|2|6|84
+Josh Collmenter|R|Tommy Joseph|R|Forceout|F|Cutter|49|0|0|2|12|83
+Josh Collmenter|R|Tommy Joseph|R|Forceout|X|Cutter|50|0|1|2|13|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|C|Cutter|51|0|0|0|4|82
+Josh Collmenter|R|Maikel Franco|R|Groundout|F|Changeup|52|0|1|0|11|75
+Josh Collmenter|R|Maikel Franco|R|Groundout|F|Cutter|53|0|2|0|8|83
+Josh Collmenter|R|Maikel Franco|R|Groundout|B|Cutter|54|0|2|0|13|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|X|Cutter|55|1|2|0|8|85
+Josh Collmenter|R|Cody Asche|L|Pop Out|F|Changeup|56|0|0|1|8|75
+Josh Collmenter|R|Cody Asche|L|Pop Out|F|Changeup|57|0|1|1|13|74
+Josh Collmenter|R|Cody Asche|L|Pop Out|B|Cutter|58|0|2|1|13|85
+Josh Collmenter|R|Cody Asche|L|Pop Out|F|Changeup|59|1|2|1|13|73
+Josh Collmenter|R|Cody Asche|L|Pop Out|F|Cutter|60|1|2|1|5|85
+Josh Collmenter|R|Cody Asche|L|Pop Out|B|Curveball|61|1|2|1|13|72
+Josh Collmenter|R|Cody Asche|L|Pop Out|F|Changeup|62|2|2|1|7|74
+Josh Collmenter|R|Cody Asche|L|Pop Out|X|Cutter|63|2|2|1|6|85
+Josh Collmenter|R|A.J. Ellis|R|Flyout|F|Cutter|64|0|0|2|6|82
+Josh Collmenter|R|A.J. Ellis|R|Flyout|B|Cutter|65|0|1|2|14|83
+Josh Collmenter|R|A.J. Ellis|R|Flyout|C|Cutter|66|1|1|2|9|84
+Josh Collmenter|R|A.J. Ellis|R|Flyout|B|Curveball|67|1|2|2|11|71
+Josh Collmenter|R|A.J. Ellis|R|Flyout|F|Cutter|68|2|2|2|13|85
+Josh Collmenter|R|A.J. Ellis|R|Flyout|X|Cutter|69|2|2|2|8|86
+Josh Collmenter|R|Aaron Altherr|R|Single|B|Curveball|70|0|0|0|12|66
+Josh Collmenter|R|Aaron Altherr|R|Single|C|Curveball|71|1|0|0|14|66
+Josh Collmenter|R|Aaron Altherr|R|Single|B|Cutter|72|1|1|0|11|84
+Josh Collmenter|R|Aaron Altherr|R|Single|B|Changeup|73|2|1|0|3|71
+Josh Collmenter|R|Aaron Altherr|R|Single|D|Cutter|74|3|1|0|6|81
+Josh Collmenter|R|Colton Murray|R|Strikeout|C|Cutter|75|0|0|0|9|82
+Josh Collmenter|R|Colton Murray|R|Strikeout|L|Curveball|76|0|1|0|4|68
+Josh Collmenter|R|Colton Murray|R|Strikeout|L|Cutter|77|0|2|0|6|83
+Josh Collmenter|R|Cesar Hernandez|L|Sac Bunt|X|Cutter|78|0|0|1|4|84
+Josh Collmenter|R|Freddy Galvis|L|Single|F|Changeup|79|0|0|2|13|75
+Josh Collmenter|R|Freddy Galvis|L|Single|X|Changeup|80|0|1|2|13|70
+Josh Collmenter|R|Odubel Herrera|L|Flyout|X|Changeup|81|0|0|0|13|73
+Josh Collmenter|R|Tommy Joseph|R|Flyout|C|Cutter|82|0|0|1|9|82
+Josh Collmenter|R|Tommy Joseph|R|Flyout|B|Curveball|83|0|1|1|11|68
+Josh Collmenter|R|Tommy Joseph|R|Flyout|B|Cutter|84|1|1|1|13|84
+Josh Collmenter|R|Tommy Joseph|R|Flyout|X|Cutter|85|2|1|1|11|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|S|Changeup|86|0|0|2|4|75
+Josh Collmenter|R|Maikel Franco|R|Groundout|B|Cutter|87|0|1|2|13|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|C|Cutter|88|1|1|2|4|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|B|Cutter|89|1|2|2|13|84
+Josh Collmenter|R|Maikel Franco|R|Groundout|F|Changeup|90|2|2|2|11|75
+Josh Collmenter|R|Maikel Franco|R|Groundout|X|Cutter|91|2|2|2|7|85
+Josh Collmenter|R|Cody Asche|L|Flyout|B|Changeup|92|0|0|0|13|73
+Josh Collmenter|R|Cody Asche|L|Flyout|X|Changeup|93|1|0|0|13|73
+Josh Collmenter|R|A.J. Ellis|R|Single|B|Cutter|94|0|0|1|14|82
+Josh Collmenter|R|A.J. Ellis|R|Single|B|Cutter|95|1|0|1|14|81
+Josh Collmenter|R|A.J. Ellis|R|Single|C|Cutter|96|2|0|1|6|83
+Josh Collmenter|R|A.J. Ellis|R|Single|F|Cutter|97|2|1|1|11|83
+Josh Collmenter|R|A.J. Ellis|R|Single|D|Cutter|98|2|2|1|3|84
+Josh Collmenter|R|Aaron Altherr|R|Lineout|B|Curveball|99|0|0|1|14|69
+Josh Collmenter|R|Aaron Altherr|R|Lineout|X|Cutter|100|1|0|1|13|85
+Josh Collmenter|R|Darin Ruf|R|Strikeout|C|Cutter|101|0|0|2|4|84
+Josh Collmenter|R|Darin Ruf|R|Strikeout|B|Cutter|102|0|1|2|12|83
+Josh Collmenter|R|Darin Ruf|R|Strikeout|B|Cutter|103|1|1|2|11|83
+Josh Collmenter|R|Darin Ruf|R|Strikeout|S|Changeup|104|2|1|2|14|75
+Josh Collmenter|R|Darin Ruf|R|Strikeout|T|Cutter|105|2|2|2|13|85
+Josh Collmenter|R|David Freese|R|Home Run|B|Cutter|0|0|0|0|14|82
+Josh Collmenter|R|David Freese|R|Home Run|B|Cutter|1|1|0|0|14|82
+Josh Collmenter|R|David Freese|R|Home Run|F|Changeup|2|2|0|0|3|75
+Josh Collmenter|R|David Freese|R|Home Run|F|Cutter|3|2|1|0|4|83
+Josh Collmenter|R|David Freese|R|Home Run|E|Changeup|4|2|2|0|2|73
+Josh Collmenter|R|Francisco Cervelli|R|Home Run|C|Cutter|5|0|0|0|3|81
+Josh Collmenter|R|Francisco Cervelli|R|Home Run|C|Curveball|6|0|1|0|12|68
+Josh Collmenter|R|Francisco Cervelli|R|Home Run|B|Cutter|7|0|2|0|14|82
+Josh Collmenter|R|Francisco Cervelli|R|Home Run|F|Cutter|8|1|2|0|4|82
+Josh Collmenter|R|Francisco Cervelli|R|Home Run|E|Cutter|9|1|2|0|13|83
+Josh Collmenter|R|Josh Harrison|R|Lineout|B|Cutter|10|0|0|0|14|81
+Josh Collmenter|R|Josh Harrison|R|Lineout|B|Changeup|11|1|0|0|13|74
+Josh Collmenter|R|Josh Harrison|R|Lineout|F|Cutter|12|2|0|0|9|81
+Josh Collmenter|R|Josh Harrison|R|Lineout|X|Changeup|13|2|1|0|9|75
+Josh Collmenter|R|Jordy Mercer|R|Single|C|Curveball|14|0|0|1|14|67
+Josh Collmenter|R|Jordy Mercer|R|Single|D|Changeup|15|0|1|1|13|73
+Josh Collmenter|R|Ivan Nova|R|Sac Bunt|M|Cutter|16|0|0|1|14|81
+Josh Collmenter|R|Ivan Nova|R|Sac Bunt|X|Cutter|17|0|1|1|12|81
+Josh Collmenter|R|Starling Marte|R|Strikeout|C|Curveball|18|0|0|2|4|65
+Josh Collmenter|R|Starling Marte|R|Strikeout|B|Cutter|19|0|1|2|14|80
+Josh Collmenter|R|Starling Marte|R|Strikeout|S|Changeup|20|1|1|2|14|74
+Josh Collmenter|R|Starling Marte|R|Strikeout|C|Cutter|21|1|2|2|7|82
+Josh Collmenter|R|Josh Bell|L|Field Error|C|Cutter|22|0|0|0|4|82
+Josh Collmenter|R|Josh Bell|L|Field Error|C|Changeup|23|0|1|0|8|74
+Josh Collmenter|R|Josh Bell|L|Field Error|B|Curveball|24|0|2|0|14|67
+Josh Collmenter|R|Josh Bell|L|Field Error|F|Changeup|25|1|2|0|13|72
+Josh Collmenter|R|Josh Bell|L|Field Error|D|Cutter|26|1|2|0|12|83
+Josh Collmenter|R|Andrew McCutchen|R|Forceout|B|Cutter|27|0|0|0|12|82
+Josh Collmenter|R|Andrew McCutchen|R|Forceout|C|Changeup|28|1|0|0|4|75
+Josh Collmenter|R|Andrew McCutchen|R|Forceout|F|Cutter|29|1|1|0|4|82
+Josh Collmenter|R|Andrew McCutchen|R|Forceout|*B|Curveball|30|1|2|0|14|68
+Josh Collmenter|R|Andrew McCutchen|R|Forceout|X|Changeup|31|2|2|0|14|77
+Josh Collmenter|R|Gregory Polanco|L|Groundout|B|Cutter|32|0|0|1|11|82
+Josh Collmenter|R|Gregory Polanco|L|Groundout|C|Changeup|33|1|0|1|8|74
+Josh Collmenter|R|Gregory Polanco|L|Groundout|F|Cutter|34|1|1|1|9|82
+Josh Collmenter|R|Gregory Polanco|L|Groundout|B|Cutter|35|1|2|1|13|81
+Josh Collmenter|R|Gregory Polanco|L|Groundout|X|Changeup|36|2|2|1|13|73
+Josh Collmenter|R|David Freese|R|Flyout|B|Curveball|37|0|0|2|12|67
+Josh Collmenter|R|David Freese|R|Flyout|X|Changeup|38|1|0|2|6|76
+Josh Collmenter|R|Travis Jankowski|L|Flyout|B|Cutter|0|0|0|0|11|85
+Josh Collmenter|R|Travis Jankowski|L|Flyout|C|Changeup|1|1|0|0|6|75
+Josh Collmenter|R|Travis Jankowski|L|Flyout|S|Cutter|2|1|1|0|14|85
+Josh Collmenter|R|Travis Jankowski|L|Flyout|X|Changeup|3|1|2|0|8|76
+Josh Collmenter|R|Wil Myers|R|Single|B|Curveball|4|0|0|1|11|68
+Josh Collmenter|R|Wil Myers|R|Single|D|Cutter|5|1|0|1|12|85
+Josh Collmenter|R|Yangervis Solarte|L|Pop Out|X|Changeup|6|0|0|1|12|76
+Josh Collmenter|R|Ryan Schimpf|L|Flyout|C|Cutter|7|0|0|2|6|84
+Josh Collmenter|R|Ryan Schimpf|L|Flyout|B|Changeup|8|0|1|2|6|75
+Josh Collmenter|R|Ryan Schimpf|L|Flyout|*B|Cutter|9|1|1|2|14|85
+Josh Collmenter|R|Ryan Schimpf|L|Flyout|X|Cutter|10|2|1|2|12|86
+Josh Collmenter|R|Ryan Zimmerman|R|Single|B|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Ryan Zimmerman|R|Single|B|Changeup|1|1|0|0|14|78
+Josh Collmenter|R|Ryan Zimmerman|R|Single|D|Cutter|2|2|0|0|14|84
+Josh Collmenter|R|Chris Heisey|R|Strikeout|B|Cutter|3|0|0|0|14|84
+Josh Collmenter|R|Chris Heisey|R|Strikeout|B|Changeup|4|1|0|0|14|78
+Josh Collmenter|R|Chris Heisey|R|Strikeout|C|Cutter|5|2|0|0|1|83
+Josh Collmenter|R|Chris Heisey|R|Strikeout|B|Changeup|6|2|1|0|14|78
+Josh Collmenter|R|Chris Heisey|R|Strikeout|S|Cutter|7|3|1|0|5|85
+Josh Collmenter|R|Chris Heisey|R|Strikeout|S|Cutter|8|3|2|0|7|86
+Josh Collmenter|R|Matt Wieters|L|Groundout|C|Changeup|9|0|0|1|8|78
+Josh Collmenter|R|Matt Wieters|L|Groundout|B|Cutter|10|0|1|1|13|84
+Josh Collmenter|R|Matt Wieters|L|Groundout|X|Cutter|11|1|1|1|14|85
+Josh Collmenter|R|Wilmer Difo|L|Intent Walk|V|N/A|12|0|0|2|0|0
+Josh Collmenter|R|Wilmer Difo|L|Intent Walk|V|N/A|13|0|1|2|0|0
+Josh Collmenter|R|Wilmer Difo|L|Intent Walk|V|N/A|14|0|2|2|0|0
+Josh Collmenter|R|Wilmer Difo|L|Intent Walk|V|N/A|15|0|2|2|0|0
+Josh Collmenter|R|Joe Ross|R|Groundout|B|Cutter|16|0|0|2|12|84
+Josh Collmenter|R|Joe Ross|R|Groundout|X|Cutter|17|1|0|2|14|84
+Josh Collmenter|R|Adam Eaton|L|Strikeout|B|Cutter|18|0|0|0|12|84
+Josh Collmenter|R|Adam Eaton|L|Strikeout|F|Changeup|19|1|0|0|14|77
+Josh Collmenter|R|Adam Eaton|L|Strikeout|C|Cutter|20|1|1|0|14|85
+Josh Collmenter|R|Adam Eaton|L|Strikeout|B|Cutter|21|1|2|0|11|85
+Josh Collmenter|R|Adam Eaton|L|Strikeout|F|Cutter|22|2|2|0|6|85
+Josh Collmenter|R|Adam Eaton|L|Strikeout|S|Changeup|23|2|2|0|14|78
+Josh Collmenter|R|Anthony Rendon|R|Single|S|Curveball|24|0|0|1|8|70
+Josh Collmenter|R|Anthony Rendon|R|Single|B|Cutter|25|0|1|1|13|86
+Josh Collmenter|R|Anthony Rendon|R|Single|D|Cutter|26|1|1|1|4|85
+Josh Collmenter|R|Bryce Harper|L|Single|F|Cutter|27|0|0|1|14|86
+Josh Collmenter|R|Bryce Harper|L|Single|B|Cutter|28|0|1|1|12|85
+Josh Collmenter|R|Bryce Harper|L|Single|D|Cutter|29|1|1|1|3|86
+Josh Collmenter|R|Daniel Murphy|L|Grounded Into DP|C|Changeup|30|0|0|1|4|78
+Josh Collmenter|R|Daniel Murphy|L|Grounded Into DP|*B|Changeup|31|0|1|1|13|76
+Josh Collmenter|R|Daniel Murphy|L|Grounded Into DP|X|Cutter|32|1|1|1|8|85
+Josh Collmenter|R|Ryan Zimmerman|R|Single|F|N/A|33|0|0|0|0|0
+Josh Collmenter|R|Ryan Zimmerman|R|Single|B|N/A|34|0|1|0|0|0
+Josh Collmenter|R|Ryan Zimmerman|R|Single|B|N/A|35|1|1|0|0|0
+Josh Collmenter|R|Ryan Zimmerman|R|Single|F|N/A|36|2|1|0|0|0
+Josh Collmenter|R|Ryan Zimmerman|R|Single|D|N/A|37|2|2|0|0|0
+Josh Collmenter|R|Chris Heisey|R|Flyout|F|N/A|38|0|0|0|0|0
+Josh Collmenter|R|Chris Heisey|R|Flyout|B|N/A|39|0|1|0|0|0
+Josh Collmenter|R|Chris Heisey|R|Flyout|B|N/A|40|1|1|0|0|0
+Josh Collmenter|R|Chris Heisey|R|Flyout|B|N/A|41|2|1|0|0|0
+Josh Collmenter|R|Chris Heisey|R|Flyout|X|N/A|42|3|1|0|0|0
+Josh Collmenter|R|Matt Wieters|L|Strikeout|F|N/A|43|0|0|1|0|0
+Josh Collmenter|R|Matt Wieters|L|Strikeout|S|N/A|44|0|1|1|0|0
+Josh Collmenter|R|Matt Wieters|L|Strikeout|B|N/A|45|0|2|1|0|0
+Josh Collmenter|R|Matt Wieters|L|Strikeout|S|N/A|46|1|2|1|0|0
+Josh Collmenter|R|Wilmer Difo|L|Double|D|N/A|47|0|0|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|B|N/A|48|0|0|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|B|N/A|49|1|0|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|F|N/A|50|2|0|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|C|N/A|51|2|1|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|B|N/A|52|2|2|2|0|0
+Josh Collmenter|R|Joe Ross|R|Flyout|X|N/A|53|3|2|2|0|0
+Josh Collmenter|R|Hernan Perez|R|Flyout|F|Cutter|0|0|0|0|3|85
+Josh Collmenter|R|Hernan Perez|R|Flyout|C|Cutter|1|0|1|0|13|85
+Josh Collmenter|R|Hernan Perez|R|Flyout|X|Changeup|2|0|2|0|13|77
+Josh Collmenter|R|Jett Bandy|R|Strikeout|C|Curveball|3|0|0|1|8|70
+Josh Collmenter|R|Jett Bandy|R|Strikeout|F|Cutter|4|0|1|1|14|85
+Josh Collmenter|R|Jett Bandy|R|Strikeout|S|Changeup|5|0|2|1|13|78
+Josh Collmenter|R|Keon Broxton|R|Strikeout|C|Cutter|6|0|0|2|4|86
+Josh Collmenter|R|Keon Broxton|R|Strikeout|B|Curveball|7|0|1|2|13|72
+Josh Collmenter|R|Keon Broxton|R|Strikeout|B|Cutter|8|1|1|2|13|86
+Josh Collmenter|R|Keon Broxton|R|Strikeout|S|Curveball|9|2|1|2|14|70
+Josh Collmenter|R|Keon Broxton|R|Strikeout|B|Changeup|10|2|2|2|13|78
+Josh Collmenter|R|Keon Broxton|R|Strikeout|C|Cutter|11|3|2|2|11|87
+Josh Collmenter|R|Keon Broxton|R|Strikeout|C|Cutter|0|0|0|0|9|84
+Josh Collmenter|R|Keon Broxton|R|Strikeout|B|Cutter|1|0|1|0|13|83
+Josh Collmenter|R|Keon Broxton|R|Strikeout|S|Cutter|2|1|1|0|1|84
+Josh Collmenter|R|Keon Broxton|R|Strikeout|F|Cutter|3|1|2|0|7|85
+Josh Collmenter|R|Keon Broxton|R|Strikeout|S|Cutter|4|1|2|0|12|85
+Josh Collmenter|R|Orlando Arcia|R|Single|B|Curveball|5|0|0|1|11|69
+Josh Collmenter|R|Orlando Arcia|R|Single|C|Changeup|6|1|0|1|6|75
+Josh Collmenter|R|Orlando Arcia|R|Single|B|Cutter|7|1|1|1|13|84
+Josh Collmenter|R|Orlando Arcia|R|Single|F|Changeup|8|2|1|1|11|75
+Josh Collmenter|R|Orlando Arcia|R|Single|B|Cutter|9|2|2|1|13|85
+Josh Collmenter|R|Orlando Arcia|R|Single|D|Cutter|10|3|2|1|13|85
+Josh Collmenter|R|Manny Pina|R|Pop Out|B|Cutter|11|0|0|1|13|84
+Josh Collmenter|R|Manny Pina|R|Pop Out|B|Cutter|12|1|0|1|13|85
+Josh Collmenter|R|Manny Pina|R|Pop Out|C|Changeup|13|2|0|1|2|77
+Josh Collmenter|R|Manny Pina|R|Pop Out|X|Cutter|14|2|1|1|13|85
+Josh Collmenter|R|Jonathan Villar|L|Groundout|B|Cutter|15|0|0|2|11|83
+Josh Collmenter|R|Jonathan Villar|L|Groundout|X|Changeup|16|1|0|2|1|76
+Josh Collmenter|R|Eric Thames|L|Strikeout|C|Cutter|17|0|0|0|13|84
+Josh Collmenter|R|Eric Thames|L|Strikeout|S|Changeup|18|0|1|0|13|77
+Josh Collmenter|R|Eric Thames|L|Strikeout|B|Changeup|19|0|2|0|13|76
+Josh Collmenter|R|Eric Thames|L|Strikeout|S|Changeup|20|1|2|0|13|77
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|B|Cutter|21|0|0|1|13|86
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|C|Cutter|22|1|0|1|7|84
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|C|Cutter|23|1|1|1|13|85
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|B|Changeup|24|1|2|1|11|79
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|F|Cutter|25|2|2|1|13|86
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|F|Cutter|26|2|2|1|2|86
+Josh Collmenter|R|Jesus Aguilar|R|Strikeout|S|Changeup|27|2|2|1|13|77
+Josh Collmenter|R|Hernan Perez|R|Strikeout|C|Curveball|28|0|0|2|5|69
+Josh Collmenter|R|Hernan Perez|R|Strikeout|B|Cutter|29|0|1|2|13|85
+Josh Collmenter|R|Hernan Perez|R|Strikeout|F|Cutter|30|1|1|2|13|85
+Josh Collmenter|R|Hernan Perez|R|Strikeout|B|Changeup|31|1|2|2|13|76
+Josh Collmenter|R|Hernan Perez|R|Strikeout|S|Changeup|32|2|2|2|13|78
+Josh Collmenter|R|Jay Bruce|L|Groundout|S|Changeup|0|0|0|0|7|74
+Josh Collmenter|R|Jay Bruce|L|Groundout|C|Cutter|1|0|1|0|13|83
+Josh Collmenter|R|Jay Bruce|L|Groundout|B|Changeup|2|0|2|0|13|74
+Josh Collmenter|R|Jay Bruce|L|Groundout|B|Cutter|3|1|2|0|13|85
+Josh Collmenter|R|Jay Bruce|L|Groundout|X|Cutter|4|2|2|0|9|85
+Josh Collmenter|R|Neil Walker|L|Single|B|Cutter|5|0|0|1|13|84
+Josh Collmenter|R|Neil Walker|L|Single|S|Changeup|6|1|0|1|13|76
+Josh Collmenter|R|Neil Walker|L|Single|D|Changeup|7|1|1|1|13|76
+Josh Collmenter|R|Curtis Granderson|L|Double|C|Cutter|8|0|0|1|1|83
+Josh Collmenter|R|Curtis Granderson|L|Double|S|Changeup|9|0|1|1|8|75
+Josh Collmenter|R|Curtis Granderson|L|Double|F|Changeup|10|0|2|1|13|72
+Josh Collmenter|R|Curtis Granderson|L|Double|F|Four-Seam Fastball|11|0|2|1|11|83
+Josh Collmenter|R|Curtis Granderson|L|Double|*B|Changeup|12|0|2|1|13|76
+Josh Collmenter|R|Curtis Granderson|L|Double|*B|Changeup|13|1|2|1|13|75
+Josh Collmenter|R|Curtis Granderson|L|Double|D|Cutter|14|2|2|1|7|85
+Josh Collmenter|R|Jose Reyes|L|Sac Fly|F|Changeup|15|0|0|1|8|77
+Josh Collmenter|R|Jose Reyes|L|Sac Fly|E|Cutter|16|0|1|1|12|84
+Josh Collmenter|R|Rene Rivera|R|Single|C|Cutter|17|0|0|2|13|85
+Josh Collmenter|R|Rene Rivera|R|Single|E|Cutter|18|0|1|2|11|84
+Josh Collmenter|R|T.J. Rivera|R|Double|B|Cutter|19|0|0|2|14|83
+Josh Collmenter|R|T.J. Rivera|R|Double|D|Cutter|20|1|0|2|13|85
+Josh Collmenter|R|Jacob deGrom|L|Single|S|Changeup|21|0|0|2|8|77
+Josh Collmenter|R|Jacob deGrom|L|Single|E|Changeup|22|0|1|2|4|76
+Josh Collmenter|R|Michael Conforto|L|Strikeout|C|Cutter|23|0|0|2|12|83
+Josh Collmenter|R|Michael Conforto|L|Strikeout|S|Changeup|24|0|1|2|14|78
+Josh Collmenter|R|Michael Conforto|L|Strikeout|B|Changeup|25|0|2|2|13|77
+Josh Collmenter|R|Michael Conforto|L|Strikeout|S|Changeup|26|1|2|2|13|77
+Josh Collmenter|R|Aledmys Diaz|R|Walk|B|Curveball|0|0|0|0|11|69
+Josh Collmenter|R|Aledmys Diaz|R|Walk|C|Cutter|1|1|0|0|8|85
+Josh Collmenter|R|Aledmys Diaz|R|Walk|B|Cutter|2|1|1|0|12|84
+Josh Collmenter|R|Aledmys Diaz|R|Walk|S|Changeup|3|2|1|0|13|77
+Josh Collmenter|R|Aledmys Diaz|R|Walk|F|Changeup|4|2|2|0|11|78
+Josh Collmenter|R|Aledmys Diaz|R|Walk|B|Cutter|5|2|2|0|13|85
+Josh Collmenter|R|Aledmys Diaz|R|Walk|B|Changeup|6|3|2|0|11|77
+Josh Collmenter|R|Randal Grichuk|R|Double|C|Curveball|7|0|0|0|9|69
+Josh Collmenter|R|Randal Grichuk|R|Double|*B|Cutter|8|0|1|0|13|84
+Josh Collmenter|R|Randal Grichuk|R|Double|D|Changeup|9|1|1|0|1|78
+Josh Collmenter|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|10|0|0|0|1|84
+Josh Collmenter|R|Tommy Pham|R|Strikeout|B|Changeup|11|0|1|0|11|79
+Josh Collmenter|R|Tommy Pham|R|Strikeout|C|Cutter|12|1|1|0|13|85
+Josh Collmenter|R|Tommy Pham|R|Strikeout|F|Changeup|13|1|2|0|13|79
+Josh Collmenter|R|Tommy Pham|R|Strikeout|B|Cutter|14|1|2|0|14|85
+Josh Collmenter|R|Tommy Pham|R|Strikeout|*B|Cutter|15|2|2|0|13|81
+Josh Collmenter|R|Tommy Pham|R|Strikeout|S|Cutter|16|3|2|0|11|87
+Josh Collmenter|R|Lance Lynn|R|Strikeout|S|Cutter|17|0|0|1|14|85
+Josh Collmenter|R|Lance Lynn|R|Strikeout|W|Curveball|18|0|1|1|14|72
+Josh Collmenter|R|Lance Lynn|R|Strikeout|C|Cutter|19|0|2|1|13|85
+Josh Collmenter|R|Kolten Wong|L|Lineout|B|Cutter|20|0|0|2|11|85
+Josh Collmenter|R|Kolten Wong|L|Lineout|X|Cutter|21|1|0|2|3|85
+Josh Collmenter|R|Jose Martinez|R|Strikeout|C|Cutter|22|0|0|0|13|84
+Josh Collmenter|R|Jose Martinez|R|Strikeout|B|Curveball|23|0|1|0|14|70
+Josh Collmenter|R|Jose Martinez|R|Strikeout|B|Changeup|24|1|1|0|13|76
+Josh Collmenter|R|Jose Martinez|R|Strikeout|B|Changeup|25|2|1|0|13|78
+Josh Collmenter|R|Jose Martinez|R|Strikeout|C|Four-Seam Fastball|26|3|1|0|7|84
+Josh Collmenter|R|Jose Martinez|R|Strikeout|S|Changeup|27|3|2|0|13|78
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Curveball|28|0|0|1|11|69
+Josh Collmenter|R|Matt Carpenter|L|Walk|C|Changeup|29|1|0|1|11|76
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Changeup|30|1|1|1|13|75
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Changeup|31|2|1|1|13|76
+Josh Collmenter|R|Matt Carpenter|L|Walk|S|Cutter|32|3|1|1|6|85
+Josh Collmenter|R|Matt Carpenter|L|Walk|B|Changeup|33|3|2|1|11|76
+Josh Collmenter|R|Jedd Gyorko|R|Flyout|B|Cutter|34|0|0|1|12|83
+Josh Collmenter|R|Jedd Gyorko|R|Flyout|B|Changeup|35|1|0|1|13|77
+Josh Collmenter|R|Jedd Gyorko|R|Flyout|X|Cutter|36|2|0|1|5|84
+Josh Collmenter|R|Yadier Molina|R|Single|S|Cutter|37|0|0|2|6|83
+Josh Collmenter|R|Yadier Molina|R|Single|B|Curveball|38|0|1|2|14|70
+Josh Collmenter|R|Yadier Molina|R|Single|B|Cutter|39|1|1|2|13|85
+Josh Collmenter|R|Yadier Molina|R|Single|D|Cutter|40|2|1|2|13|85
+Josh Collmenter|R|Aledmys Diaz|R|Single|E|Cutter|41|0|0|2|4|85
+Josh Collmenter|R|Randal Grichuk|R|Single|C|Changeup|42|0|0|2|3|76
+Josh Collmenter|R|Randal Grichuk|R|Single|B|Four-Seam Fastball|43|0|1|2|12|83
+Josh Collmenter|R|Randal Grichuk|R|Single|*B|Changeup|44|1|1|2|13|78
+Josh Collmenter|R|Randal Grichuk|R|Single|E|Cutter|45|2|1|2|7|86
+Josh Collmenter|R|Tommy Pham|R|Flyout|*B|Changeup|46|0|0|2|14|77
+Josh Collmenter|R|Tommy Pham|R|Flyout|X|Four-Seam Fastball|47|1|0|2|14|83
+Josh Collmenter|R|Aledmys Diaz|R|Flyout|C|Curveball|0|0|0|2|5|68
+Josh Collmenter|R|Aledmys Diaz|R|Flyout|B|Cutter|1|0|1|2|13|84
+Josh Collmenter|R|Aledmys Diaz|R|Flyout|B|Four-Seam Fastball|2|1|1|2|13|84
+Josh Collmenter|R|Aledmys Diaz|R|Flyout|X|Changeup|3|2|1|2|3|75
+Josh Collmenter|R|Magneuris Sierra|L|Field Error|C|Curveball|4|0|0|0|4|69
+Josh Collmenter|R|Magneuris Sierra|L|Field Error|B|Cutter|5|0|1|0|13|84
+Josh Collmenter|R|Magneuris Sierra|L|Field Error|S|Changeup|6|1|1|0|13|76
+Josh Collmenter|R|Magneuris Sierra|L|Field Error|D|Changeup|7|1|2|0|11|76
+Josh Collmenter|R|Tommy Pham|R|Home Run|B|Cutter|8|0|0|0|11|83
+Josh Collmenter|R|Tommy Pham|R|Home Run|E|Cutter|9|1|0|0|4|83
+Josh Collmenter|R|Eric Fryer|R|Walk|B|Curveball|10|0|0|0|14|69
+Josh Collmenter|R|Eric Fryer|R|Walk|F|Changeup|11|1|0|0|2|76
+Josh Collmenter|R|Eric Fryer|R|Walk|F|Curveball|12|1|1|0|6|69
+Josh Collmenter|R|Eric Fryer|R|Walk|B|Cutter|13|1|2|0|11|84
+Josh Collmenter|R|Eric Fryer|R|Walk|B|Changeup|14|2|2|0|13|77
+Josh Collmenter|R|Eric Fryer|R|Walk|B|Changeup|15|3|2|0|13|78
+Josh Collmenter|R|Kolten Wong|L|Lineout|X|Cutter|16|0|0|0|1|83
+Josh Collmenter|R|Randal Grichuk|R|Pop Out|C|Curveball|17|0|0|1|2|69
+Josh Collmenter|R|Randal Grichuk|R|Pop Out|F|Cutter|18|0|1|1|3|84
+Josh Collmenter|R|Randal Grichuk|R|Pop Out|X|Cutter|19|0|2|1|11|84
+Josh Collmenter|R|Jose Bautista|R|Single|B|Curveball|0|0|0|0|14|70
+Josh Collmenter|R|Jose Bautista|R|Single|B|Cutter|1|1|0|0|14|84
+Josh Collmenter|R|Jose Bautista|R|Single|F|Cutter|2|2|0|0|14|85
+Josh Collmenter|R|Jose Bautista|R|Single|C|Changeup|3|2|1|0|3|76
+Josh Collmenter|R|Jose Bautista|R|Single|F|Changeup|4|2|2|0|7|78
+Josh Collmenter|R|Jose Bautista|R|Single|D|Cutter|5|2|2|0|9|86
+Josh Collmenter|R|Kendrys Morales|L|Flyout|C|Changeup|6|0|0|0|5|77
+Josh Collmenter|R|Kendrys Morales|L|Flyout|X|Cutter|7|0|1|0|4|84
+Josh Collmenter|R|Justin Smoak|L|Home Run|B|Curveball|8|0|0|1|14|70
+Josh Collmenter|R|Justin Smoak|L|Home Run|E|Changeup|9|1|0|1|5|76
+Josh Collmenter|R|Devon Travis|R|Strikeout|B|Curveball|10|0|0|1|14|70
+Josh Collmenter|R|Devon Travis|R|Strikeout|F|Cutter|11|1|0|1|4|85
+Josh Collmenter|R|Devon Travis|R|Strikeout|F|Changeup|12|1|1|1|13|78
+Josh Collmenter|R|Devon Travis|R|Strikeout|C|Cutter|13|1|2|1|12|84
+Josh Collmenter|R|Ryan Goins|L|Strikeout|B|Changeup|14|0|0|2|13|78
+Josh Collmenter|R|Ryan Goins|L|Strikeout|C|Cutter|15|1|0|2|1|84
+Josh Collmenter|R|Ryan Goins|L|Strikeout|C|Curveball|16|1|1|2|13|70
+Josh Collmenter|R|Ryan Goins|L|Strikeout|B|Changeup|17|1|2|2|11|78
+Josh Collmenter|R|Ryan Goins|L|Strikeout|F|Cutter|18|2|2|2|12|85
+Josh Collmenter|R|Ryan Goins|L|Strikeout|F|Cutter|19|2|2|2|13|85
+Josh Collmenter|R|Ryan Goins|L|Strikeout|C|Cutter|20|2|2|2|5|86
+Josh Collmenter|R|Chris Coghlan|L|Single|C|Cutter|0|0|0|0|14|84
+Josh Collmenter|R|Chris Coghlan|L|Single|B|Changeup|1|0|1|0|14|76
+Josh Collmenter|R|Chris Coghlan|L|Single|F|Changeup|2|1|1|0|14|76
+Josh Collmenter|R|Chris Coghlan|L|Single|F|Cutter|3|1|2|0|12|85
+Josh Collmenter|R|Chris Coghlan|L|Single|D|Cutter|4|1|2|0|8|84
+Josh Collmenter|R|Darwin Barney|R|Pop Out|B|Cutter|5|0|0|0|11|85
+Josh Collmenter|R|Darwin Barney|R|Pop Out|F|Changeup|6|1|0|0|5|77
+Josh Collmenter|R|Darwin Barney|R|Pop Out|X|Cutter|7|1|1|0|11|84
+Josh Collmenter|R|Ryan Goins|L|Lineout|S|Changeup|8|0|0|1|13|76
+Josh Collmenter|R|Ryan Goins|L|Lineout|B|Cutter|9|0|1|1|13|83
+Josh Collmenter|R|Ryan Goins|L|Lineout|X|Cutter|10|1|1|1|6|85
+Josh Collmenter|R|Luke Maile|R|Groundout|C|Cutter|11|0|0|2|13|85
+Josh Collmenter|R|Luke Maile|R|Groundout|B|Cutter|12|0|1|2|14|85
+Josh Collmenter|R|Luke Maile|R|Groundout|B|Changeup|13|1|1|2|13|78
+Josh Collmenter|R|Luke Maile|R|Groundout|X|Changeup|14|2|1|2|8|78
+Josh Collmenter|R|Ryan Tepera|R|Strikeout|B|Cutter|15|0|0|0|14|84
+Josh Collmenter|R|Ryan Tepera|R|Strikeout|F|Cutter|16|1|0|0|14|83
+Josh Collmenter|R|Ryan Tepera|R|Strikeout|C|Cutter|17|1|1|0|14|85
+Josh Collmenter|R|Ryan Tepera|R|Strikeout|S|Curveball|18|1|2|0|9|70
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|B|Curveball|19|0|0|1|14|71
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|C|Changeup|20|1|0|1|12|75
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|C|Cutter|21|1|1|1|4|84
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|B|Changeup|22|1|2|1|13|76
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|F|Cutter|23|2|2|1|12|85
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|B|Changeup|24|2|2|1|14|76
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|F|Changeup|25|3|2|1|8|77
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|F|Cutter|26|3|2|1|12|86
+Josh Collmenter|R|Ezequiel Carrera|L|Walk|B|Cutter|27|3|2|1|12|86
+Josh Collmenter|R|Jose Bautista|R|Groundout|C|Cutter|28|0|0|1|14|85
+Josh Collmenter|R|Jose Bautista|R|Groundout|X|Changeup|29|0|1|1|13|79
+Josh Collmenter|R|Kendrys Morales|L|Groundout|*B|Changeup|30|0|0|2|13|76
+Josh Collmenter|R|Kendrys Morales|L|Groundout|F|Changeup|31|1|0|2|8|76
+Josh Collmenter|R|Kendrys Morales|L|Groundout|F|Cutter|32|1|1|2|9|86
+Josh Collmenter|R|Kendrys Morales|L|Groundout|X|Changeup|33|1|2|2|13|77
+Josh Collmenter|R|Andrew McCutchen|R|Single|C|Cutter|0|0|0|0|14|83
+Josh Collmenter|R|Andrew McCutchen|R|Single|S|Cutter|1|0|1|0|2|84
+Josh Collmenter|R|Andrew McCutchen|R|Single|B|Changeup|2|0|2|0|13|77
+Josh Collmenter|R|Andrew McCutchen|R|Single|F|Cutter|3|1|2|0|8|84
+Josh Collmenter|R|Andrew McCutchen|R|Single|B|Changeup|4|1|2|0|13|76
+Josh Collmenter|R|Andrew McCutchen|R|Single|D|Cutter|5|2|2|0|14|84
+Josh Collmenter|R|Chris Stewart|R|Sac Bunt|L|Cutter|6|0|0|0|12|83
+Josh Collmenter|R|Chris Stewart|R|Sac Bunt|X|Curveball|7|0|1|0|3|69
+Josh Collmenter|R|Gift Ngoepe|R|Double|C|Cutter|8|0|0|1|5|83
+Josh Collmenter|R|Gift Ngoepe|R|Double|C|Changeup|9|0|1|1|14|76
+Josh Collmenter|R|Gift Ngoepe|R|Double|B|Cutter|10|0|2|1|12|83
+Josh Collmenter|R|Gift Ngoepe|R|Double|E|Cutter|11|1|2|1|4|85
+Josh Collmenter|R|Adam Frazier|L|Intent Walk|V|N/A|12|0|0|1|0|0
+Josh Collmenter|R|Adam Frazier|L|Intent Walk|V|N/A|13|0|1|1|0|0
+Josh Collmenter|R|Adam Frazier|L|Intent Walk|V|N/A|14|0|2|1|0|0
+Josh Collmenter|R|Adam Frazier|L|Intent Walk|V|N/A|15|0|2|1|0|0
+Josh Collmenter|R|Josh Harrison|R|Single|C|Changeup|16|0|0|1|12|76
+Josh Collmenter|R|Josh Harrison|R|Single|B|Changeup|17|0|1|1|14|78
+Josh Collmenter|R|Josh Harrison|R|Single|E|Changeup|18|1|1|1|5|76
+Josh Collmenter|R|Josh Bell|L|Flyout|X|Curveball|19|0|0|1|9|69
+Josh Collmenter|R|David Freese|R|Home Run|F|Cutter|20|0|0|2|5|84
+Josh Collmenter|R|David Freese|R|Home Run|E|Changeup|21|0|1|2|6|79
+Josh Collmenter|R|Jose Osuna|R|Home Run|C|Curveball|22|0|0|2|5|69
+Josh Collmenter|R|Jose Osuna|R|Home Run|B|Cutter|23|0|1|2|12|83
+Josh Collmenter|R|Jose Osuna|R|Home Run|F|Cutter|24|1|1|2|3|83
+Josh Collmenter|R|Jose Osuna|R|Home Run|E|Cutter|25|1|2|2|4|84
+Josh Collmenter|R|Jordy Mercer|R|Home Run|B|Cutter|26|0|0|2|14|84
+Josh Collmenter|R|Jordy Mercer|R|Home Run|C|Curveball|27|1|0|2|13|70
+Josh Collmenter|R|Jordy Mercer|R|Home Run|B|Cutter|28|1|1|2|14|83
+Josh Collmenter|R|Jordy Mercer|R|Home Run|B|Cutter|29|2|1|2|14|85
+Josh Collmenter|R|Jordy Mercer|R|Home Run|E|Cutter|30|3|1|2|9|83
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|F|Cutter|31|0|0|2|12|84
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|C|Cutter|32|0|1|2|13|84
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|F|Curveball|33|0|2|2|14|70
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|B|Cutter|34|0|2|2|13|85
+Josh Collmenter|R|Andrew McCutchen|R|Strikeout|W|Curveball|35|1|2|2|14|73

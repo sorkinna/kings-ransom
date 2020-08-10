@@ -1,0 +1,416 @@
+Andres Munoz|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|0|0|0|2|14|99
+Andres Munoz|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|1|0|1|2|9|99
+Andres Munoz|R|Raimel Tapia|L|Strikeout|B|Slider|2|0|2|2|13|97
+Andres Munoz|R|Raimel Tapia|L|Strikeout|F|Slider|3|1|2|2|14|85
+Andres Munoz|R|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|4|1|2|2|11|99
+Andres Munoz|R|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|5|2|2|2|13|98
+Andres Munoz|R|Charlie Blackmon|L|Double|B|Slider|6|0|0|0|13|95
+Andres Munoz|R|Charlie Blackmon|L|Double|C|Four-Seam Fastball|7|1|0|0|11|98
+Andres Munoz|R|Charlie Blackmon|L|Double|B|Slider|8|1|1|0|13|84
+Andres Munoz|R|Charlie Blackmon|L|Double|S|Four-Seam Fastball|9|2|1|0|11|97
+Andres Munoz|R|Charlie Blackmon|L|Double|D|Slider|10|2|2|0|4|94
+Andres Munoz|R|Ryan McMahon|L|Single|B|Four-Seam Fastball|11|0|0|0|11|98
+Andres Munoz|R|Ryan McMahon|L|Single|B|Cutter|12|1|0|0|11|96
+Andres Munoz|R|Ryan McMahon|L|Single|C|Four-Seam Fastball|13|2|0|0|13|99
+Andres Munoz|R|Ryan McMahon|L|Single|E|Four-Seam Fastball|14|2|1|0|4|98
+Andres Munoz|R|Sam Hilliard|L|Flyout|X|Four-Seam Fastball|15|0|0|0|4|98
+Andres Munoz|R|Garrett Hampson|R|Walk|*B|Slider|16|0|0|1|13|84
+Andres Munoz|R|Garrett Hampson|R|Walk|B|Four-Seam Fastball|17|1|0|1|14|99
+Andres Munoz|R|Garrett Hampson|R|Walk|B|Four-Seam Fastball|18|2|0|1|11|96
+Andres Munoz|R|Garrett Hampson|R|Walk|C|Four-Seam Fastball|19|3|0|1|6|99
+Andres Munoz|R|Garrett Hampson|R|Walk|F|Four-Seam Fastball|20|3|1|1|11|99
+Andres Munoz|R|Garrett Hampson|R|Walk|B|Slider|21|3|2|1|14|84
+Andres Munoz|R|Cody Bellinger|L|Flyout|S|Four-Seam Fastball|0|0|0|2|1|100
+Andres Munoz|R|Cody Bellinger|L|Flyout|S|Four-Seam Fastball|1|0|1|2|5|100
+Andres Munoz|R|Cody Bellinger|L|Flyout|B|Four-Seam Fastball|2|0|2|2|11|101
+Andres Munoz|R|Cody Bellinger|L|Flyout|F|Slider|3|1|2|2|5|85
+Andres Munoz|R|Cody Bellinger|L|Flyout|X|Four-Seam Fastball|4|1|2|2|6|101
+Andres Munoz|R|Corey Seager|L|Strikeout|F|Four-Seam Fastball|5|0|0|0|11|101
+Andres Munoz|R|Corey Seager|L|Strikeout|B|Slider|6|0|1|0|14|86
+Andres Munoz|R|Corey Seager|L|Strikeout|C|Slider|7|1|1|0|2|83
+Andres Munoz|R|Corey Seager|L|Strikeout|B|Four-Seam Fastball|8|1|2|0|12|102
+Andres Munoz|R|Corey Seager|L|Strikeout|B|Slider|9|2|2|0|14|85
+Andres Munoz|R|Corey Seager|L|Strikeout|C|Four-Seam Fastball|10|3|2|0|14|101
+Andres Munoz|R|Will Smith|R|Flyout|B|Slider|11|0|0|1|14|87
+Andres Munoz|R|Will Smith|R|Flyout|B|Four-Seam Fastball|12|1|0|1|14|101
+Andres Munoz|R|Will Smith|R|Flyout|B|Four-Seam Fastball|13|2|0|1|14|101
+Andres Munoz|R|Will Smith|R|Flyout|C|Four-Seam Fastball|14|3|0|1|4|101
+Andres Munoz|R|Will Smith|R|Flyout|X|Four-Seam Fastball|15|3|1|1|13|100
+Andres Munoz|R|Corey Seager|L|Walk|S|Four-Seam Fastball|0|0|0|0|11|100
+Andres Munoz|R|Corey Seager|L|Walk|B|Four-Seam Fastball|1|0|1|0|12|101
+Andres Munoz|R|Corey Seager|L|Walk|B|Four-Seam Fastball|2|1|1|0|13|99
+Andres Munoz|R|Corey Seager|L|Walk|S|Slider|3|2|1|0|14|85
+Andres Munoz|R|Corey Seager|L|Walk|B|Four-Seam Fastball|4|2|2|0|11|100
+Andres Munoz|R|Corey Seager|L|Walk|F|Four-Seam Fastball|5|3|2|0|4|99
+Andres Munoz|R|Corey Seager|L|Walk|B|Slider|6|3|2|0|14|84
+Andres Munoz|R|Max Muncy|L|Single|F|Two-Seam Fastball|7|0|0|0|2|100
+Andres Munoz|R|Max Muncy|L|Single|S|Slider|8|0|1|0|8|83
+Andres Munoz|R|Max Muncy|L|Single|D|Four-Seam Fastball|9|0|2|0|11|100
+Andres Munoz|R|A.J. Pollock|R|Double|*B|Slider|10|0|0|0|14|85
+Andres Munoz|R|A.J. Pollock|R|Double|E|Four-Seam Fastball|11|1|0|0|14|101
+Andres Munoz|R|Matt Beaty|L|Groundout|F|Four-Seam Fastball|12|0|0|0|4|100
+Andres Munoz|R|Matt Beaty|L|Groundout|S|Slider|13|0|1|0|9|86
+Andres Munoz|R|Matt Beaty|L|Groundout|B|Slider|14|0|2|0|14|85
+Andres Munoz|R|Matt Beaty|L|Groundout|E|Four-Seam Fastball|15|1|2|0|3|101
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|C|Four-Seam Fastball|16|0|0|1|12|101
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|S|Slider|17|0|1|1|14|87
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|*B|Slider|18|0|2|1|14|86
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|F|Four-Seam Fastball|19|1|2|1|12|101
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|F|Four-Seam Fastball|20|1|2|1|5|101
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|B|Slider|21|1|2|1|14|87
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|F|Four-Seam Fastball|22|2|2|1|11|100
+Andres Munoz|R|Justin Turner|R|Fielders Choice Out|X|Slider|23|2|2|1|6|86
+Andres Munoz|R|Russell Martin|R|Walk|B|Four-Seam Fastball|24|0|0|2|11|100
+Andres Munoz|R|Russell Martin|R|Walk|B|Slider|25|1|0|2|14|85
+Andres Munoz|R|Russell Martin|R|Walk|B|Four-Seam Fastball|26|2|0|2|14|101
+Andres Munoz|R|Russell Martin|R|Walk|C|Four-Seam Fastball|27|3|0|2|11|99
+Andres Munoz|R|Russell Martin|R|Walk|B|Four-Seam Fastball|28|3|1|2|13|100
+Andres Munoz|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|99
+Andres Munoz|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|99
+Andres Munoz|R|Pete Alonso|R|Walk|C|Four-Seam Fastball|2|2|0|0|6|99
+Andres Munoz|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|3|2|1|0|11|99
+Andres Munoz|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|99
+Andres Munoz|R|Robinson Cano|L|Lineout|F|Slider|5|0|0|0|14|86
+Andres Munoz|R|Robinson Cano|L|Lineout|B|Four-Seam Fastball|6|0|1|0|11|101
+Andres Munoz|R|Robinson Cano|L|Lineout|*B|Slider|7|1|1|0|14|86
+Andres Munoz|R|Robinson Cano|L|Lineout|F|Four-Seam Fastball|8|2|1|0|8|101
+Andres Munoz|R|Robinson Cano|L|Lineout|X|Four-Seam Fastball|9|2|2|0|13|101
+Andres Munoz|R|Todd Frazier|R|Groundout|B|Four-Seam Fastball|10|0|0|1|13|102
+Andres Munoz|R|Todd Frazier|R|Groundout|X|Four-Seam Fastball|11|1|0|1|8|101
+Andres Munoz|R|Dominic Smith|L|Lineout|B|Four-Seam Fastball|12|0|0|2|11|100
+Andres Munoz|R|Dominic Smith|L|Lineout|B|Slider|13|1|0|2|14|87
+Andres Munoz|R|Dominic Smith|L|Lineout|F|Four-Seam Fastball|14|2|0|2|14|101
+Andres Munoz|R|Dominic Smith|L|Lineout|F|Four-Seam Fastball|15|2|1|2|14|100
+Andres Munoz|R|Dominic Smith|L|Lineout|F|Slider|16|2|2|2|14|87
+Andres Munoz|R|Dominic Smith|L|Lineout|F|Slider|17|2|2|2|14|86
+Andres Munoz|R|Dominic Smith|L|Lineout|B|Four-Seam Fastball|18|2|2|2|11|100
+Andres Munoz|R|Dominic Smith|L|Lineout|X|Four-Seam Fastball|19|3|2|2|8|99
+Andres Munoz|R|Nick Markakis|L|Walk|S|Four-Seam Fastball|0|0|0|0|5|100
+Andres Munoz|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|1|0|1|0|12|100
+Andres Munoz|R|Nick Markakis|L|Walk|B|Slider|2|1|1|0|13|85
+Andres Munoz|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|99
+Andres Munoz|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|100
+Andres Munoz|R|Austin Riley|R|Grounded Into DP|F|Four-Seam Fastball|5|0|0|0|7|100
+Andres Munoz|R|Austin Riley|R|Grounded Into DP|X|Four-Seam Fastball|6|0|1|0|11|101
+Andres Munoz|R|Brian McCann|L|Strikeout|C|Slider|7|0|0|2|6|88
+Andres Munoz|R|Brian McCann|L|Strikeout|C|Four-Seam Fastball|8|0|1|2|8|101
+Andres Munoz|R|Brian McCann|L|Strikeout|F|Four-Seam Fastball|9|0|2|2|11|101
+Andres Munoz|R|Brian McCann|L|Strikeout|B|Four-Seam Fastball|10|0|2|2|11|100
+Andres Munoz|R|Brian McCann|L|Strikeout|S|Slider|11|1|2|2|13|87
+Andres Munoz|R|Ozzie Albies|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|3|99
+Andres Munoz|R|Ozzie Albies|L|Strikeout|T|Four-Seam Fastball|1|0|1|2|1|99
+Andres Munoz|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|2|0|2|2|2|99
+Andres Munoz|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|3|0|0|0|9|97
+Andres Munoz|R|Brian McCann|L|Groundout|C|Slider|4|0|1|0|13|84
+Andres Munoz|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|5|0|2|0|1|98
+Andres Munoz|R|Austin Riley|R|Strikeout|C|Cutter|6|0|0|1|2|98
+Andres Munoz|R|Austin Riley|R|Strikeout|S|Four-Seam Fastball|7|0|1|1|5|99
+Andres Munoz|R|Austin Riley|R|Strikeout|S|Cutter|8|0|2|1|12|99
+Andres Munoz|R|Charlie Culberson|R|Field Error|B|Slider|9|0|0|2|14|86
+Andres Munoz|R|Charlie Culberson|R|Field Error|S|Four-Seam Fastball|10|1|0|2|12|100
+Andres Munoz|R|Charlie Culberson|R|Field Error|F|Four-Seam Fastball|11|1|1|2|4|100
+Andres Munoz|R|Charlie Culberson|R|Field Error|D|Four-Seam Fastball|12|1|2|2|7|101
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|B|Slider|13|0|0|2|14|88
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|B|Four-Seam Fastball|14|1|0|2|11|100
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|F|Four-Seam Fastball|15|2|0|2|1|99
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|S|Slider|16|2|1|2|14|86
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|B|Four-Seam Fastball|17|2|2|2|11|101
+Andres Munoz|R|Ronald Acuna Jr.|R|Field Error|D|Slider|18|3|2|2|13|87
+Andres Munoz|R|Dansby Swanson|R|Flyout|B|Four-Seam Fastball|19|0|0|2|14|101
+Andres Munoz|R|Dansby Swanson|R|Flyout|C|Slider|20|1|0|2|6|85
+Andres Munoz|R|Dansby Swanson|R|Flyout|X|Slider|21|1|1|2|9|87
+Andres Munoz|R|Donovan Solano|R|Strikeout|C|Four-Seam Fastball|0|0|0|2|1|98
+Andres Munoz|R|Donovan Solano|R|Strikeout|S|Slider|1|0|1|2|14|85
+Andres Munoz|R|Donovan Solano|R|Strikeout|S|Slider|2|0|2|2|5|85
+Andres Munoz|R|Brandon Belt|L|Flyout|F|Four-Seam Fastball|3|0|0|0|11|98
+Andres Munoz|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|4|0|1|0|11|98
+Andres Munoz|R|Brandon Belt|L|Flyout|C|Four-Seam Fastball|5|1|1|0|11|98
+Andres Munoz|R|Brandon Belt|L|Flyout|B|Slider|6|1|2|0|13|86
+Andres Munoz|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|7|2|2|0|4|98
+Andres Munoz|R|Alex Dickerson|L|Strikeout|C|Four-Seam Fastball|8|0|0|1|13|100
+Andres Munoz|R|Alex Dickerson|L|Strikeout|S|Slider|9|0|1|1|8|84
+Andres Munoz|R|Alex Dickerson|L|Strikeout|F|Slider|10|0|2|1|6|85
+Andres Munoz|R|Alex Dickerson|L|Strikeout|B|Four-Seam Fastball|11|0|2|1|11|99
+Andres Munoz|R|Alex Dickerson|L|Strikeout|S|Four-Seam Fastball|12|1|2|1|1|98
+Andres Munoz|R|Hanser Alberto|R|Pop Out|C|Four-Seam Fastball|0|0|0|1|12|99
+Andres Munoz|R|Hanser Alberto|R|Pop Out|X|Slider|1|0|1|1|8|84
+Andres Munoz|R|Chance Sisco|L|Lineout|X|Four-Seam Fastball|2|0|0|2|7|99
+Andres Munoz|R|Stevie Wilkerson|L|Strikeout|B|Four-Seam Fastball|3|0|0|0|11|98
+Andres Munoz|R|Stevie Wilkerson|L|Strikeout|C|Four-Seam Fastball|4|1|0|0|11|98
+Andres Munoz|R|Stevie Wilkerson|L|Strikeout|C|Slider|5|1|1|0|2|84
+Andres Munoz|R|Stevie Wilkerson|L|Strikeout|B|Four-Seam Fastball|6|1|2|0|12|99
+Andres Munoz|R|Stevie Wilkerson|L|Strikeout|S|Slider|7|2|2|0|13|81
+Andres Munoz|R|Dwight Smith Jr|L|Single|B|Four-Seam Fastball|8|0|0|1|14|100
+Andres Munoz|R|Dwight Smith Jr|L|Single|B|Four-Seam Fastball|9|1|0|1|13|98
+Andres Munoz|R|Dwight Smith Jr|L|Single|S|Four-Seam Fastball|10|2|0|1|14|100
+Andres Munoz|R|Dwight Smith Jr|L|Single|D|Four-Seam Fastball|11|2|1|1|6|101
+Andres Munoz|R|Jonathan Villar|L|Strikeout|S|Slider|12|0|0|1|14|88
+Andres Munoz|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|13|0|1|1|11|100
+Andres Munoz|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|14|1|1|1|9|98
+Andres Munoz|R|Jonathan Villar|L|Strikeout|S|Slider|15|1|2|1|11|85
+Andres Munoz|R|Trey Mancini|R|Double|B|Four-Seam Fastball|16|0|0|2|14|102
+Andres Munoz|R|Trey Mancini|R|Double|C|Slider|17|1|0|2|5|84
+Andres Munoz|R|Trey Mancini|R|Double|C|Four-Seam Fastball|18|1|1|2|3|99
+Andres Munoz|R|Trey Mancini|R|Double|D|Four-Seam Fastball|19|1|2|2|8|102
+Andres Munoz|R|Anthony Santander|L|Lineout|F|Slider|20|0|0|2|4|84
+Andres Munoz|R|Anthony Santander|L|Lineout|X|Four-Seam Fastball|21|0|1|2|2|100
+Andres Munoz|R|Nolan Arenado|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|99
+Andres Munoz|R|Nolan Arenado|R|Flyout|B|Slider|1|1|0|0|14|85
+Andres Munoz|R|Nolan Arenado|R|Flyout|C|Four-Seam Fastball|2|2|0|0|4|100
+Andres Munoz|R|Nolan Arenado|R|Flyout|C|Four-Seam Fastball|3|2|1|0|2|100
+Andres Munoz|R|Nolan Arenado|R|Flyout|X|Slider|4|2|2|0|6|87
+Andres Munoz|R|Ryan McMahon|L|Walk|C|Two-Seam Fastball|5|0|0|1|13|101
+Andres Munoz|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|6|0|1|1|6|101
+Andres Munoz|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|7|0|2|1|4|102
+Andres Munoz|R|Ryan McMahon|L|Walk|B|Slider|8|0|2|1|14|88
+Andres Munoz|R|Ryan McMahon|L|Walk|F|Slider|9|1|2|1|13|85
+Andres Munoz|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|10|1|2|1|11|100
+Andres Munoz|R|Ryan McMahon|L|Walk|B|Slider|11|2|2|1|14|84
+Andres Munoz|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|12|3|2|1|11|100
+Andres Munoz|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|13|0|0|1|14|101
+Andres Munoz|R|Raimel Tapia|L|Strikeout|S|Slider|14|0|1|1|14|87
+Andres Munoz|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|15|0|2|1|1|101
+Andres Munoz|R|Raimel Tapia|L|Strikeout|S|Slider|16|0|2|1|14|85
+Andres Munoz|R|Yonathan Daza|R|Walk|B|Four-Seam Fastball|17|0|0|2|14|102
+Andres Munoz|R|Yonathan Daza|R|Walk|B|Four-Seam Fastball|18|1|0|2|14|101
+Andres Munoz|R|Yonathan Daza|R|Walk|B|Four-Seam Fastball|19|2|0|2|14|101
+Andres Munoz|R|Yonathan Daza|R|Walk|B|Four-Seam Fastball|20|3|0|2|11|99
+Andres Munoz|R|Chris Iannetta|R|Strikeout|B|Four-Seam Fastball|21|0|0|2|12|100
+Andres Munoz|R|Chris Iannetta|R|Strikeout|C|Four-Seam Fastball|22|1|0|2|6|99
+Andres Munoz|R|Chris Iannetta|R|Strikeout|S|Slider|23|1|1|2|14|86
+Andres Munoz|R|Chris Iannetta|R|Strikeout|S|Slider|24|1|2|2|3|85
+Andres Munoz|R|Michael Brosseau|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|99
+Andres Munoz|R|Michael Brosseau|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|99
+Andres Munoz|R|Michael Brosseau|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|11|100
+Andres Munoz|R|Michael Brosseau|R|Strikeout|F|Slider|3|2|1|0|8|86
+Andres Munoz|R|Michael Brosseau|R|Strikeout|B|Slider|4|2|2|0|14|86
+Andres Munoz|R|Michael Brosseau|R|Strikeout|C|Slider|5|3|2|0|1|83
+Andres Munoz|R|Ji-Man Choi|L|Groundout|X|Four-Seam Fastball|6|0|0|1|13|100
+Andres Munoz|R|Willy Adames|R|Walk|F|Slider|7|0|0|2|5|84
+Andres Munoz|R|Willy Adames|R|Walk|B|Four-Seam Fastball|8|0|1|2|13|99
+Andres Munoz|R|Willy Adames|R|Walk|B|Four-Seam Fastball|9|1|1|2|3|99
+Andres Munoz|R|Willy Adames|R|Walk|F|Slider|10|2|1|2|5|86
+Andres Munoz|R|Willy Adames|R|Walk|B|Four-Seam Fastball|11|2|2|2|14|100
+Andres Munoz|R|Willy Adames|R|Walk|*B|Slider|12|3|2|2|14|86
+Andres Munoz|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|13|0|0|2|12|98
+Andres Munoz|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|14|1|0|2|14|101
+Andres Munoz|R|Eric Sogard|L|Walk|C|Four-Seam Fastball|15|2|0|2|6|97
+Andres Munoz|R|Eric Sogard|L|Walk|B|Four-Seam Fastball|16|2|1|2|11|100
+Andres Munoz|R|Eric Sogard|L|Walk|B|Slider|17|3|1|2|14|87
+Andres Munoz|R|Eric Sogard|L|Flyout|C|Four-Seam Fastball|0|0|0|0|3|99
+Andres Munoz|R|Eric Sogard|L|Flyout|B|Four-Seam Fastball|1|0|1|0|11|97
+Andres Munoz|R|Eric Sogard|L|Flyout|X|Four-Seam Fastball|2|1|1|0|3|97
+Andres Munoz|R|Tommy Pham|R|Single|B|Four-Seam Fastball|3|0|0|1|11|98
+Andres Munoz|R|Tommy Pham|R|Single|B|Four-Seam Fastball|4|1|0|1|14|98
+Andres Munoz|R|Tommy Pham|R|Single|F|Four-Seam Fastball|5|2|0|1|11|97
+Andres Munoz|R|Tommy Pham|R|Single|S|Four-Seam Fastball|6|2|1|1|3|99
+Andres Munoz|R|Tommy Pham|R|Single|B|Slider|7|2|2|1|14|88
+Andres Munoz|R|Tommy Pham|R|Single|D|Four-Seam Fastball|8|3|2|1|13|99
+Andres Munoz|R|Michael Brosseau|R|Grounded Into DP|B|Slider|9|0|0|1|13|84
+Andres Munoz|R|Michael Brosseau|R|Grounded Into DP|B|Four-Seam Fastball|10|1|0|1|11|98
+Andres Munoz|R|Michael Brosseau|R|Grounded Into DP|B|Four-Seam Fastball|11|2|0|1|14|97
+Andres Munoz|R|Michael Brosseau|R|Grounded Into DP|C|Four-Seam Fastball|12|3|0|1|5|99
+Andres Munoz|R|Michael Brosseau|R|Grounded Into DP|X|Four-Seam Fastball|13|3|1|1|13|98
+Andres Munoz|R|Mookie Betts|R|Flyout|X|Four-Seam Fastball|0|0|0|1|1|98
+Andres Munoz|R|Rafael Devers|L|Groundout|C|Four-Seam Fastball|1|0|0|2|8|100
+Andres Munoz|R|Rafael Devers|L|Groundout|S|Slider|2|0|1|2|14|88
+Andres Munoz|R|Rafael Devers|L|Groundout|B|Four-Seam Fastball|3|0|2|2|11|100
+Andres Munoz|R|Rafael Devers|L|Groundout|B|Four-Seam Fastball|4|1|2|2|11|99
+Andres Munoz|R|Rafael Devers|L|Groundout|F|Slider|5|2|2|2|14|88
+Andres Munoz|R|Rafael Devers|L|Groundout|F|Slider|6|2|2|2|13|85
+Andres Munoz|R|Rafael Devers|L|Groundout|F|Four-Seam Fastball|7|2|2|2|9|99
+Andres Munoz|R|Rafael Devers|L|Groundout|F|Slider|8|2|2|2|14|87
+Andres Munoz|R|Rafael Devers|L|Groundout|X|Slider|9|2|2|2|8|85
+Andres Munoz|R|Xander Bogaerts|R|Single|C|Four-Seam Fastball|10|0|0|0|4|98
+Andres Munoz|R|Xander Bogaerts|R|Single|D|Four-Seam Fastball|11|0|1|0|2|99
+Andres Munoz|R|J.D. Martinez|R|Strikeout|S|Slider|12|0|0|0|14|85
+Andres Munoz|R|J.D. Martinez|R|Strikeout|C|Four-Seam Fastball|13|0|1|0|9|99
+Andres Munoz|R|J.D. Martinez|R|Strikeout|S|Four-Seam Fastball|14|0|2|0|12|99
+Andres Munoz|R|Brock Holt|L|Single|D|Four-Seam Fastball|0|0|0|0|6|98
+Andres Munoz|R|Mookie Betts|R|Fielders Choice|B|Four-Seam Fastball|1|0|0|0|14|99
+Andres Munoz|R|Mookie Betts|R|Fielders Choice|D|Slider|2|1|0|0|5|83
+Andres Munoz|R|Rafael Devers|L|Grounded Into DP|S|Four-Seam Fastball|3|0|0|0|2|100
+Andres Munoz|R|Rafael Devers|L|Grounded Into DP|F|Slider|4|0|1|0|14|87
+Andres Munoz|R|Rafael Devers|L|Grounded Into DP|X|Four-Seam Fastball|5|0|2|0|8|100
+Andres Munoz|R|Xander Bogaerts|R|Walk|C|Slider|6|0|0|2|8|86
+Andres Munoz|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|7|0|1|2|12|100
+Andres Munoz|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|8|1|1|2|14|100
+Andres Munoz|R|Xander Bogaerts|R|Walk|B|Slider|9|2|1|2|14|86
+Andres Munoz|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|10|3|1|2|14|99
+Andres Munoz|R|J.D. Martinez|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|5|101
+Andres Munoz|R|J.D. Martinez|R|Strikeout|S|Four-Seam Fastball|12|0|1|2|5|101
+Andres Munoz|R|J.D. Martinez|R|Strikeout|B|Slider|13|0|2|2|14|88
+Andres Munoz|R|J.D. Martinez|R|Strikeout|B|Four-Seam Fastball|14|1|2|2|12|101
+Andres Munoz|R|J.D. Martinez|R|Strikeout|F|Four-Seam Fastball|15|2|2|2|5|99
+Andres Munoz|R|J.D. Martinez|R|Strikeout|F|Four-Seam Fastball|16|2|2|2|6|101
+Andres Munoz|R|J.D. Martinez|R|Strikeout|S|Slider|17|2|2|2|14|89
+Andres Munoz|R|Matt Beaty|L|Flyout|C|Four-Seam Fastball|0|0|0|0|9|99
+Andres Munoz|R|Matt Beaty|L|Flyout|B|Slider|1|0|1|0|14|85
+Andres Munoz|R|Matt Beaty|L|Flyout|X|Four-Seam Fastball|2|1|1|0|11|97
+Andres Munoz|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|3|0|0|1|1|99
+Andres Munoz|R|Justin Turner|R|Strikeout|F|Four-Seam Fastball|4|0|1|1|5|100
+Andres Munoz|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|5|0|2|1|12|99
+Andres Munoz|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|6|1|2|1|11|98
+Andres Munoz|R|Justin Turner|R|Strikeout|B|Slider|7|2|2|1|14|86
+Andres Munoz|R|Justin Turner|R|Strikeout|S|Slider|8|3|2|1|9|86
+Andres Munoz|R|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|9|0|0|2|5|100
+Andres Munoz|R|Cody Bellinger|L|Strikeout|F|Four-Seam Fastball|10|0|1|2|7|99
+Andres Munoz|R|Cody Bellinger|L|Strikeout|C|Slider|11|0|2|2|9|87
+Andres Munoz|R|Trevor Story|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|100
+Andres Munoz|R|Trevor Story|R|Groundout|B|Slider|1|0|1|0|14|88
+Andres Munoz|R|Trevor Story|R|Groundout|X|Slider|2|1|1|0|3|85
+Andres Munoz|R|Charlie Blackmon|L|Lineout|C|Four-Seam Fastball|3|0|0|1|13|100
+Andres Munoz|R|Charlie Blackmon|L|Lineout|X|Four-Seam Fastball|4|0|1|1|4|101
+Andres Munoz|R|Nolan Arenado|R|Flyout|C|Four-Seam Fastball|5|0|0|2|9|101
+Andres Munoz|R|Nolan Arenado|R|Flyout|B|Four-Seam Fastball|6|0|1|2|14|101
+Andres Munoz|R|Nolan Arenado|R|Flyout|F|Four-Seam Fastball|7|1|1|2|14|100
+Andres Munoz|R|Nolan Arenado|R|Flyout|B|Slider|8|1|2|2|14|92
+Andres Munoz|R|Nolan Arenado|R|Flyout|F|Slider|9|2|2|2|8|87
+Andres Munoz|R|Nolan Arenado|R|Flyout|X|Slider|10|2|2|2|14|85
+Andres Munoz|R|Anthony Rizzo|L|Single|B|Four-Seam Fastball|0|0|0|0|11|98
+Andres Munoz|R|Anthony Rizzo|L|Single|C|Four-Seam Fastball|1|1|0|0|8|97
+Andres Munoz|R|Anthony Rizzo|L|Single|F|Slider|2|1|1|0|7|84
+Andres Munoz|R|Anthony Rizzo|L|Single|D|Four-Seam Fastball|3|1|2|0|11|98
+Andres Munoz|R|Kris Bryant|R|Home Run|E|Four-Seam Fastball|4|0|0|0|1|99
+Andres Munoz|R|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|5|0|0|0|5|100
+Andres Munoz|R|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|6|0|1|0|5|99
+Andres Munoz|R|Willson Contreras|R|Pop Out|X|Slider|7|0|2|0|9|87
+Andres Munoz|R|Jason Heyward|L|Home Run|F|Four-Seam Fastball|8|0|0|1|4|99
+Andres Munoz|R|Jason Heyward|L|Home Run|S|Four-Seam Fastball|9|0|1|1|5|99
+Andres Munoz|R|Jason Heyward|L|Home Run|B|Four-Seam Fastball|10|0|2|1|12|99
+Andres Munoz|R|Jason Heyward|L|Home Run|F|Slider|11|1|2|1|14|88
+Andres Munoz|R|Jason Heyward|L|Home Run|B|Four-Seam Fastball|12|1|2|1|14|101
+Andres Munoz|R|Jason Heyward|L|Home Run|E|Four-Seam Fastball|13|2|2|1|8|99
+Andres Munoz|R|Nico Hoerner|R|Single|S|Slider|14|0|0|1|14|86
+Andres Munoz|R|Nico Hoerner|R|Single|C|Four-Seam Fastball|15|0|1|1|8|98
+Andres Munoz|R|Nico Hoerner|R|Single|D|Slider|16|0|2|1|14|86
+Andres Munoz|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|17|0|0|1|13|99
+Andres Munoz|R|Ian Happ|L|Strikeout|F|Slider|18|1|0|1|14|87
+Andres Munoz|R|Ian Happ|L|Strikeout|C|Four-Seam Fastball|19|1|1|1|14|99
+Andres Munoz|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|20|1|2|1|1|97
+Andres Munoz|R|Tony Kemp|L|Strikeout|B|Four-Seam Fastball|21|0|0|2|13|98
+Andres Munoz|R|Tony Kemp|L|Strikeout|F|Four-Seam Fastball|22|1|0|2|8|98
+Andres Munoz|R|Tony Kemp|L|Strikeout|C|Slider|23|1|1|2|1|87
+Andres Munoz|R|Tony Kemp|L|Strikeout|C|Four-Seam Fastball|24|1|2|2|13|98
+Andres Munoz|R|Mallex Smith|L|Double|B|Four-Seam Fastball|0|0|0|0|14|98
+Andres Munoz|R|Mallex Smith|L|Double|B|Four-Seam Fastball|1|1|0|0|14|98
+Andres Munoz|R|Mallex Smith|L|Double|C|Four-Seam Fastball|2|2|0|0|2|99
+Andres Munoz|R|Mallex Smith|L|Double|S|Four-Seam Fastball|3|2|1|0|5|99
+Andres Munoz|R|Mallex Smith|L|Double|F|Four-Seam Fastball|4|2|2|0|11|100
+Andres Munoz|R|Mallex Smith|L|Double|D|Four-Seam Fastball|5|2|2|0|6|99
+Andres Munoz|R|J.P. Crawford|L|Sac Bunt|L|Four-Seam Fastball|6|0|0|0|14|100
+Andres Munoz|R|J.P. Crawford|L|Sac Bunt|D|Four-Seam Fastball|7|0|1|0|12|101
+Andres Munoz|R|Domingo Santana|R|Strikeout|C|Four-Seam Fastball|8|0|0|0|3|100
+Andres Munoz|R|Domingo Santana|R|Strikeout|S|Slider|9|0|1|0|14|86
+Andres Munoz|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|10|0|2|0|14|100
+Andres Munoz|R|Domingo Santana|R|Strikeout|S|Slider|11|1|2|0|14|85
+Andres Munoz|R|Daniel Vogelbach|L|Forceout|S|Slider|12|0|0|1|14|85
+Andres Munoz|R|Daniel Vogelbach|L|Forceout|E|Four-Seam Fastball|13|0|1|1|11|100
+Andres Munoz|R|Tom Murphy|R|Strikeout|C|Four-Seam Fastball|14|0|0|2|1|100
+Andres Munoz|R|Tom Murphy|R|Strikeout|B|Four-Seam Fastball|15|0|1|2|11|100
+Andres Munoz|R|Tom Murphy|R|Strikeout|F|Four-Seam Fastball|16|1|1|2|11|99
+Andres Munoz|R|Tom Murphy|R|Strikeout|S|Slider|17|1|2|2|7|83
+Andres Munoz|R|Buster Posey|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|14|99
+Andres Munoz|R|Buster Posey|R|Strikeout|B|Four-Seam Fastball|1|1|0|2|14|98
+Andres Munoz|R|Buster Posey|R|Strikeout|C|Four-Seam Fastball|2|2|0|2|1|97
+Andres Munoz|R|Buster Posey|R|Strikeout|F|Four-Seam Fastball|3|2|1|2|13|97
+Andres Munoz|R|Buster Posey|R|Strikeout|F|Slider|4|2|2|2|12|85
+Andres Munoz|R|Buster Posey|R|Strikeout|F|Four-Seam Fastball|5|2|2|2|5|99
+Andres Munoz|R|Buster Posey|R|Strikeout|B|Slider|6|2|2|2|14|86
+Andres Munoz|R|Buster Posey|R|Strikeout|S|Slider|7|3|2|2|14|87
+Andres Munoz|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|8|0|0|0|8|99
+Andres Munoz|R|Kevin Pillar|R|Strikeout|B|Four-Seam Fastball|9|0|1|0|14|99
+Andres Munoz|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|10|1|1|0|9|98
+Andres Munoz|R|Kevin Pillar|R|Strikeout|S|Slider|11|1|2|0|14|88
+Andres Munoz|R|Brandon Crawford|L|Walk|F|Four-Seam Fastball|12|0|0|1|4|99
+Andres Munoz|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|13|0|1|1|11|99
+Andres Munoz|R|Brandon Crawford|L|Walk|B|Slider|14|1|1|1|13|84
+Andres Munoz|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|15|2|1|1|11|99
+Andres Munoz|R|Brandon Crawford|L|Walk|F|Four-Seam Fastball|16|3|1|1|2|98
+Andres Munoz|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|17|3|2|1|14|99
+Andres Munoz|R|Stephen Vogt|L|Double|B|Four-Seam Fastball|18|0|0|1|14|100
+Andres Munoz|R|Stephen Vogt|L|Double|E|Four-Seam Fastball|19|1|0|1|14|100
+Andres Munoz|R|Donovan Solano|R|Groundout|C|Four-Seam Fastball|20|0|0|1|3|101
+Andres Munoz|R|Donovan Solano|R|Groundout|B|Slider|21|0|1|1|14|89
+Andres Munoz|R|Donovan Solano|R|Groundout|S|Four-Seam Fastball|22|1|1|1|12|100
+Andres Munoz|R|Donovan Solano|R|Groundout|B|Four-Seam Fastball|23|1|2|1|12|100
+Andres Munoz|R|Donovan Solano|R|Groundout|X|Four-Seam Fastball|24|2|2|1|11|99
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|97
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|9|97
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|4|99
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|99
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|F|Slider|4|1|2|0|14|88
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|F|Slider|5|1|2|0|8|87
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|6|1|2|0|11|99
+Andres Munoz|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|7|2|2|0|11|98
+Andres Munoz|R|Kevin Pillar|R|Strikeout|S|Slider|8|0|0|1|9|84
+Andres Munoz|R|Kevin Pillar|R|Strikeout|S|Slider|9|0|1|1|1|83
+Andres Munoz|R|Kevin Pillar|R|Strikeout|F|Slider|10|0|2|1|14|85
+Andres Munoz|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|11|0|2|1|12|100
+Andres Munoz|R|Kevin Pillar|R|Strikeout|B|Slider|12|0|2|1|14|84
+Andres Munoz|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|13|1|2|1|12|101
+Andres Munoz|R|Kevin Pillar|R|Strikeout|B|Four-Seam Fastball|14|1|2|1|14|100
+Andres Munoz|R|Kevin Pillar|R|Strikeout|S|Slider|15|2|2|1|14|86
+Andres Munoz|R|Evan Longoria|R|Strikeout|C|Slider|16|0|0|2|2|84
+Andres Munoz|R|Evan Longoria|R|Strikeout|B|Two-Seam Fastball|17|0|1|2|14|101
+Andres Munoz|R|Evan Longoria|R|Strikeout|S|Slider|18|1|1|2|14|84
+Andres Munoz|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|19|1|2|2|14|100
+Andres Munoz|R|Evan Longoria|R|Strikeout|C|Four-Seam Fastball|20|2|2|2|9|100
+Andres Munoz|R|Bryce Harper|L|Strikeout|L|Four-Seam Fastball|0|0|0|0|14|99
+Andres Munoz|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|100
+Andres Munoz|R|Bryce Harper|L|Strikeout|F|Slider|2|1|1|0|8|85
+Andres Munoz|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|11|100
+Andres Munoz|R|J.T. Realmuto|R|Strikeout|B|Four-Seam Fastball|4|0|0|1|11|100
+Andres Munoz|R|J.T. Realmuto|R|Strikeout|S|Four-Seam Fastball|5|1|0|1|4|100
+Andres Munoz|R|J.T. Realmuto|R|Strikeout|B|Slider|6|1|1|1|14|88
+Andres Munoz|R|J.T. Realmuto|R|Strikeout|S|Four-Seam Fastball|7|2|1|1|5|100
+Andres Munoz|R|J.T. Realmuto|R|Strikeout|S|Slider|8|2|2|1|8|88
+Andres Munoz|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|9|0|0|2|7|101
+Andres Munoz|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|10|0|1|2|5|100
+Andres Munoz|R|Corey Dickerson|L|Pop Out|F|Slider|11|0|2|2|14|88
+Andres Munoz|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|12|0|2|2|11|100
+Andres Munoz|R|Corey Dickerson|L|Pop Out|X|Slider|13|1|2|2|14|86
+Andres Munoz|R|Rhys Hoskins|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|98
+Andres Munoz|R|Rhys Hoskins|R|Flyout|B|Four-Seam Fastball|1|1|0|0|12|98
+Andres Munoz|R|Rhys Hoskins|R|Flyout|F|Four-Seam Fastball|2|2|0|0|6|98
+Andres Munoz|R|Rhys Hoskins|R|Flyout|B|Four-Seam Fastball|3|2|1|0|11|97
+Andres Munoz|R|Rhys Hoskins|R|Flyout|X|Four-Seam Fastball|4|3|1|0|7|98
+Andres Munoz|R|J.T. Realmuto|R|Flyout|S|Slider|5|0|0|1|14|87
+Andres Munoz|R|J.T. Realmuto|R|Flyout|B|Slider|6|0|1|1|14|82
+Andres Munoz|R|J.T. Realmuto|R|Flyout|F|Slider|7|1|1|1|8|85
+Andres Munoz|R|J.T. Realmuto|R|Flyout|B|Four-Seam Fastball|8|1|2|1|12|98
+Andres Munoz|R|J.T. Realmuto|R|Flyout|F|Slider|9|2|2|1|9|86
+Andres Munoz|R|J.T. Realmuto|R|Flyout|X|Four-Seam Fastball|10|2|2|1|1|98
+Andres Munoz|R|Adam Haseley|L|Pop Out|S|Four-Seam Fastball|11|0|0|2|9|100
+Andres Munoz|R|Adam Haseley|L|Pop Out|X|Four-Seam Fastball|12|0|1|2|6|99
+Andres Munoz|R|Martin Prado|R|Groundout|C|Four-Seam Fastball|0|0|0|0|2|99
+Andres Munoz|R|Martin Prado|R|Groundout|C|Slider|1|0|1|0|5|85
+Andres Munoz|R|Martin Prado|R|Groundout|B|Slider|2|0|2|0|14|85
+Andres Munoz|R|Martin Prado|R|Groundout|X|Four-Seam Fastball|3|1|2|0|9|100
+Andres Munoz|R|Miguel Rojas|R|Groundout|X|Four-Seam Fastball|4|0|0|1|13|101
+Andres Munoz|R|Neil Walker|L|Lineout|S|Four-Seam Fastball|5|0|0|2|6|101
+Andres Munoz|R|Neil Walker|L|Lineout|B|Four-Seam Fastball|6|0|1|2|12|101
+Andres Munoz|R|Neil Walker|L|Lineout|S|Slider|7|1|1|2|14|89
+Andres Munoz|R|Neil Walker|L|Lineout|X|Four-Seam Fastball|8|1|2|2|9|102
+Andres Munoz|R|Garrett Cooper|R|Double|F|Four-Seam Fastball|9|0|0|0|4|98
+Andres Munoz|R|Garrett Cooper|R|Double|F|Slider|10|0|1|0|8|87
+Andres Munoz|R|Garrett Cooper|R|Double|F|Four-Seam Fastball|11|0|2|0|3|99
+Andres Munoz|R|Garrett Cooper|R|Double|F|Slider|12|0|2|0|14|84
+Andres Munoz|R|Garrett Cooper|R|Double|B|Slider|13|0|2|0|14|86
+Andres Munoz|R|Garrett Cooper|R|Double|D|Four-Seam Fastball|14|1|2|0|2|99
+Andres Munoz|R|Brian Anderson|R|Strikeout|C|Four-Seam Fastball|15|0|0|0|9|100
+Andres Munoz|R|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|16|0|1|0|14|100
+Andres Munoz|R|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|17|1|1|0|1|100
+Andres Munoz|R|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|18|1|2|0|12|101
+Andres Munoz|R|Brian Anderson|R|Strikeout|S|Slider|19|2|2|0|3|86
+Andres Munoz|R|Starlin Castro|R|Strikeout|F|Slider|20|0|0|1|14|87
+Andres Munoz|R|Starlin Castro|R|Strikeout|B|Four-Seam Fastball|21|0|1|1|12|101
+Andres Munoz|R|Starlin Castro|R|Strikeout|C|Four-Seam Fastball|22|1|1|1|6|100
+Andres Munoz|R|Starlin Castro|R|Strikeout|*B|Slider|23|1|2|1|14|87
+Andres Munoz|R|Starlin Castro|R|Strikeout|S|Slider|24|2|2|1|14|86
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|25|0|0|2|14|101
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|C|Four-Seam Fastball|26|1|0|2|8|100
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|27|1|1|2|14|101
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|S|Slider|28|2|1|2|14|88
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|F|Four-Seam Fastball|29|2|2|2|14|102
+Andres Munoz|R|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|30|2|2|2|6|101

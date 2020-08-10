@@ -1,0 +1,519 @@
+Adam Loewen|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|12|89
+Adam Loewen|L|Jake Lamb|L|Strikeout|S|Curveball|1|1|0|1|13|82
+Adam Loewen|L|Jake Lamb|L|Strikeout|S|Curveball|2|1|1|1|13|83
+Adam Loewen|L|Jake Lamb|L|Strikeout|S|Curveball|3|1|2|1|13|83
+Adam Loewen|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|4|0|0|2|12|80
+Adam Loewen|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|5|0|1|2|12|81
+Adam Loewen|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|6|0|2|2|12|82
+Adam Loewen|L|Paul Goldschmidt|R|Intent Walk|I|Intentional Ball|7|0|2|2|12|82
+Adam Loewen|L|David Peralta|L|Single|B|Curveball|8|0|0|2|13|82
+Adam Loewen|L|David Peralta|L|Single|B|Four-Seam Fastball|9|1|0|2|13|91
+Adam Loewen|L|David Peralta|L|Single|F|Four-Seam Fastball|10|2|0|2|13|91
+Adam Loewen|L|David Peralta|L|Single|E|Curveball|11|2|1|2|13|83
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|91
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|91
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|12|90
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|B|Four-Seam Fastball|3|2|1|0|13|91
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|C|Four-Seam Fastball|4|3|1|0|4|91
+Adam Loewen|L|Jeremy Hellickson|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|13|91
+Adam Loewen|L|A.J. Pollock|R|Double|C|Curveball|6|0|0|1|11|80
+Adam Loewen|L|A.J. Pollock|R|Double|D|Curveball|7|0|1|1|8|82
+Adam Loewen|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|8|0|0|1|11|91
+Adam Loewen|L|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|9|1|0|1|13|89
+Adam Loewen|L|Jake Lamb|L|Strikeout|S|Curveball|10|1|1|1|13|82
+Adam Loewen|L|Jake Lamb|L|Strikeout|*B|Curveball|11|1|2|1|13|84
+Adam Loewen|L|Jake Lamb|L|Strikeout|B|Two-Seam Fastball|12|2|2|1|13|92
+Adam Loewen|L|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|13|3|2|1|8|92
+Adam Loewen|L|Paul Goldschmidt|R|Walk|*B|Curveball|14|0|0|2|13|83
+Adam Loewen|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|15|1|0|2|14|92
+Adam Loewen|L|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|16|2|0|2|6|90
+Adam Loewen|L|Paul Goldschmidt|R|Walk|B|Changeup|17|2|1|2|14|84
+Adam Loewen|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|18|3|1|2|14|92
+Adam Loewen|L|David Peralta|L|Single|F|Curveball|19|0|0|2|4|81
+Adam Loewen|L|David Peralta|L|Single|F|Curveball|20|0|1|2|2|81
+Adam Loewen|L|David Peralta|L|Single|E|Two-Seam Fastball|21|0|2|2|8|90
+Adam Loewen|L|Ender Inciarte|L|Lineout|S|Four-Seam Fastball|22|0|0|2|1|91
+Adam Loewen|L|Ender Inciarte|L|Lineout|*B|Curveball|23|0|1|2|13|82
+Adam Loewen|L|Ender Inciarte|L|Lineout|F|Four-Seam Fastball|24|1|1|2|11|90
+Adam Loewen|L|Ender Inciarte|L|Lineout|X|Curveball|25|1|2|2|2|81
+Adam Loewen|L|Jarrod Saltalamacchia|R|Home Run|C|Four-Seam Fastball|26|0|0|0|14|89
+Adam Loewen|L|Jarrod Saltalamacchia|R|Home Run|E|Changeup|27|0|1|0|6|83
+Adam Loewen|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|28|0|0|0|8|89
+Adam Loewen|L|Aaron Hill|R|Strikeout|C|Four-Seam Fastball|29|0|1|0|14|90
+Adam Loewen|L|Aaron Hill|R|Strikeout|F|Four-Seam Fastball|30|0|2|0|12|91
+Adam Loewen|L|Aaron Hill|R|Strikeout|W|Curveball|31|0|2|0|13|82
+Adam Loewen|L|Chris Owings|R|Strikeout|C|Four-Seam Fastball|32|0|0|1|9|91
+Adam Loewen|L|Chris Owings|R|Strikeout|S|Four-Seam Fastball|33|0|1|1|2|90
+Adam Loewen|L|Chris Owings|R|Strikeout|S|Curveball|34|0|2|1|13|81
+Adam Loewen|L|Jeremy Hellickson|R|Walk|F|Four-Seam Fastball|35|0|0|2|2|89
+Adam Loewen|L|Jeremy Hellickson|R|Walk|B|Curveball|36|0|1|2|13|82
+Adam Loewen|L|Jeremy Hellickson|R|Walk|B|Four-Seam Fastball|37|1|1|2|12|89
+Adam Loewen|L|Jeremy Hellickson|R|Walk|C|Four-Seam Fastball|38|2|1|2|3|90
+Adam Loewen|L|Jeremy Hellickson|R|Walk|F|Four-Seam Fastball|39|2|2|2|12|91
+Adam Loewen|L|Jeremy Hellickson|R|Walk|B|Four-Seam Fastball|40|2|2|2|12|90
+Adam Loewen|L|Jeremy Hellickson|R|Walk|*B|Four-Seam Fastball|41|3|2|2|13|90
+Adam Loewen|L|A.J. Pollock|R|Flyout|X|Curveball|42|0|0|2|5|81
+Adam Loewen|L|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|0|0|0|2|11|93
+Adam Loewen|L|Scooter Gennett|L|Strikeout|B|Curveball|1|1|0|2|8|81
+Adam Loewen|L|Scooter Gennett|L|Strikeout|S|Four-Seam Fastball|2|2|0|2|1|92
+Adam Loewen|L|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|3|2|1|2|12|93
+Adam Loewen|L|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|4|3|1|2|2|92
+Adam Loewen|L|Scooter Gennett|L|Strikeout|W|Curveball|5|3|2|2|13|82
+Adam Loewen|L|Jean Segura|R|Groundout|F|Four-Seam Fastball|6|0|0|0|11|92
+Adam Loewen|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|7|0|1|0|12|90
+Adam Loewen|L|Jean Segura|R|Groundout|F|Curveball|8|1|1|0|8|82
+Adam Loewen|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|9|1|2|0|12|90
+Adam Loewen|L|Jean Segura|R|Groundout|X|Curveball|10|2|2|0|13|82
+Adam Loewen|L|Elian Herrera|R|Strikeout|F|Four-Seam Fastball|11|0|0|1|6|92
+Adam Loewen|L|Elian Herrera|R|Strikeout|C|Curveball|12|0|1|1|3|81
+Adam Loewen|L|Elian Herrera|R|Strikeout|S|Four-Seam Fastball|13|0|2|1|12|91
+Adam Loewen|L|Taylor Jungmann|R|Flyout|F|Four-Seam Fastball|14|0|0|2|8|92
+Adam Loewen|L|Taylor Jungmann|R|Flyout|X|Four-Seam Fastball|15|0|1|2|11|91
+Adam Loewen|L|Shane Peterson|L|Walk|B|Four-Seam Fastball|16|0|0|0|8|91
+Adam Loewen|L|Shane Peterson|L|Walk|F|Four-Seam Fastball|17|1|0|0|8|91
+Adam Loewen|L|Shane Peterson|L|Walk|C|Two-Seam Fastball|18|1|1|0|4|92
+Adam Loewen|L|Shane Peterson|L|Walk|B|Curveball|19|1|2|0|12|80
+Adam Loewen|L|Shane Peterson|L|Walk|B|Curveball|20|2|2|0|13|85
+Adam Loewen|L|Shane Peterson|L|Walk|B|Four-Seam Fastball|21|3|2|0|11|92
+Adam Loewen|L|Jonathan Lucroy|R|Walk|C|Changeup|22|0|0|0|7|85
+Adam Loewen|L|Jonathan Lucroy|R|Walk|B|Curveball|23|0|1|0|13|80
+Adam Loewen|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|24|1|1|0|11|92
+Adam Loewen|L|Jonathan Lucroy|R|Walk|B|Curveball|25|2|1|0|14|83
+Adam Loewen|L|Jonathan Lucroy|R|Walk|B|Four-Seam Fastball|26|3|1|0|11|91
+Adam Loewen|L|Ryan Braun|R|Fielders Choice Out|X|Four-Seam Fastball|27|0|0|0|7|92
+Adam Loewen|L|Adam Lind|L|Single|B|Four-Seam Fastball|28|0|0|1|7|92
+Adam Loewen|L|Adam Lind|L|Single|B|Four-Seam Fastball|29|1|0|1|13|92
+Adam Loewen|L|Adam Lind|L|Single|D|Four-Seam Fastball|30|2|0|1|2|92
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|91
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|4|92
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|B|Curveball|2|1|1|0|11|79
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|5|92
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|4|93
+Adam Loewen|L|Ezequiel Carrera|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|11|92
+Adam Loewen|L|Ben Revere|L|Walk|C|Curveball|6|0|0|1|2|82
+Adam Loewen|L|Ben Revere|L|Walk|B|Curveball|7|0|1|1|12|81
+Adam Loewen|L|Ben Revere|L|Walk|B|Four-Seam Fastball|8|1|1|1|11|91
+Adam Loewen|L|Ben Revere|L|Walk|B|Four-Seam Fastball|9|2|1|1|11|92
+Adam Loewen|L|Ben Revere|L|Walk|B|Four-Seam Fastball|10|3|1|1|11|90
+Adam Loewen|L|Cliff Pennington|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|5|90
+Adam Loewen|L|Cliff Pennington|R|Strikeout|B|Four-Seam Fastball|12|0|1|1|11|91
+Adam Loewen|L|Cliff Pennington|R|Strikeout|F|Four-Seam Fastball|13|1|1|1|13|92
+Adam Loewen|L|Cliff Pennington|R|Strikeout|W|Curveball|14|1|2|1|13|81
+Adam Loewen|L|Kevin Pillar|R|Hit By Pitch|F|Curveball|15|0|0|2|9|81
+Adam Loewen|L|Kevin Pillar|R|Hit By Pitch|F|Curveball|16|0|1|2|13|81
+Adam Loewen|L|Kevin Pillar|R|Hit By Pitch|H|Four-Seam Fastball|17|0|2|2|11|90
+Adam Loewen|L|Troy Tulowitzki|R|Strikeout|*B|Curveball|18|0|0|2|13|83
+Adam Loewen|L|Troy Tulowitzki|R|Strikeout|C|Two-Seam Fastball|19|1|0|2|4|92
+Adam Loewen|L|Troy Tulowitzki|R|Strikeout|F|Curveball|20|1|1|2|13|84
+Adam Loewen|L|Troy Tulowitzki|R|Strikeout|B|Curveball|21|1|2|2|12|83
+Adam Loewen|L|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|22|2|2|2|6|93
+Adam Loewen|L|J.T. Realmuto|R|Groundout|S|Changeup|0|0|0|0|14|83
+Adam Loewen|L|J.T. Realmuto|R|Groundout|B|Changeup|1|0|1|0|13|83
+Adam Loewen|L|J.T. Realmuto|R|Groundout|B|Changeup|2|1|1|0|13|83
+Adam Loewen|L|J.T. Realmuto|R|Groundout|X|Four-Seam Fastball|3|2|1|0|4|91
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|4|0|0|1|11|91
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|5|1|0|1|12|92
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|6|2|0|1|8|90
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|7|2|1|1|11|90
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|B|Curveball|8|2|2|1|12|79
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|9|3|2|1|3|90
+Adam Loewen|L|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|10|3|2|1|13|92
+Adam Loewen|L|Cole Gillespie|R|Grounded Into DP|C|Changeup|11|0|0|1|8|82
+Adam Loewen|L|Cole Gillespie|R|Grounded Into DP|B|Four-Seam Fastball|12|0|1|1|13|89
+Adam Loewen|L|Cole Gillespie|R|Grounded Into DP|X|Four-Seam Fastball|13|1|1|1|4|91
+Adam Loewen|L|Dee Gordon|L|Strikeout|C|Curveball|14|0|0|0|3|79
+Adam Loewen|L|Dee Gordon|L|Strikeout|B|Two-Seam Fastball|15|0|1|0|13|89
+Adam Loewen|L|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|16|1|1|0|11|90
+Adam Loewen|L|Dee Gordon|L|Strikeout|L|Four-Seam Fastball|17|2|1|0|11|89
+Adam Loewen|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|18|2|2|0|11|91
+Adam Loewen|L|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|19|2|2|0|2|90
+Adam Loewen|L|Ichiro Suzuki|L|Triple|B|Four-Seam Fastball|20|0|0|1|11|89
+Adam Loewen|L|Ichiro Suzuki|L|Triple|B|Four-Seam Fastball|21|1|0|1|13|90
+Adam Loewen|L|Ichiro Suzuki|L|Triple|D|Four-Seam Fastball|22|2|0|1|2|91
+Adam Loewen|L|Martin Prado|R|Sac Fly|B|Curveball|23|0|0|1|11|79
+Adam Loewen|L|Martin Prado|R|Sac Fly|E|Changeup|24|1|0|1|5|86
+Adam Loewen|L|Justin Bour|L|Strikeout|B|Curveball|25|0|0|2|11|80
+Adam Loewen|L|Justin Bour|L|Strikeout|C|Four-Seam Fastball|26|1|0|2|4|90
+Adam Loewen|L|Justin Bour|L|Strikeout|C|Four-Seam Fastball|27|1|1|2|3|90
+Adam Loewen|L|Justin Bour|L|Strikeout|S|Curveball|28|1|2|2|13|83
+Adam Loewen|L|Wilmer Flores|R|Lineout|B|Curveball|0|0|0|0|14|80
+Adam Loewen|L|Wilmer Flores|R|Lineout|C|Four-Seam Fastball|1|1|0|0|6|91
+Adam Loewen|L|Wilmer Flores|R|Lineout|F|Curveball|2|1|1|0|13|82
+Adam Loewen|L|Wilmer Flores|R|Lineout|X|Changeup|3|1|2|0|5|84
+Adam Loewen|L|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|4|0|0|1|12|91
+Adam Loewen|L|Travis d'Arnaud|R|Single|D|Changeup|5|1|0|1|3|84
+Adam Loewen|L|Michael Cuddyer|R|Walk|B|Curveball|6|0|0|1|12|80
+Adam Loewen|L|Michael Cuddyer|R|Walk|C|Four-Seam Fastball|7|1|0|1|8|91
+Adam Loewen|L|Michael Cuddyer|R|Walk|*B|Four-Seam Fastball|8|1|1|1|13|92
+Adam Loewen|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|9|2|1|1|12|91
+Adam Loewen|L|Michael Cuddyer|R|Walk|B|Four-Seam Fastball|10|3|1|1|12|90
+Adam Loewen|L|Ruben Tejada|R|Lineout|B|Four-Seam Fastball|11|0|0|1|13|88
+Adam Loewen|L|Ruben Tejada|R|Lineout|F|Changeup|12|1|0|1|5|83
+Adam Loewen|L|Ruben Tejada|R|Lineout|X|Changeup|13|1|1|1|5|83
+Adam Loewen|L|Juan Uribe|R|Flyout|B|Changeup|14|0|0|2|13|83
+Adam Loewen|L|Juan Uribe|R|Flyout|X|Changeup|15|1|0|2|14|83
+Adam Loewen|L|Juan Lagares|R|Strikeout|B|Four-Seam Fastball|16|0|0|0|12|90
+Adam Loewen|L|Juan Lagares|R|Strikeout|S|Four-Seam Fastball|17|1|0|0|12|91
+Adam Loewen|L|Juan Lagares|R|Strikeout|F|Curveball|18|1|1|0|13|81
+Adam Loewen|L|Juan Lagares|R|Strikeout|W|Curveball|19|1|2|0|13|81
+Adam Loewen|L|Daniel Murphy|L|Double|B|Four-Seam Fastball|20|0|0|1|6|91
+Adam Loewen|L|Daniel Murphy|L|Double|D|Curveball|21|1|0|1|2|81
+Adam Loewen|L|Yoenis Cespedes|R|Home Run|C|Changeup|22|0|0|1|9|85
+Adam Loewen|L|Yoenis Cespedes|R|Home Run|S|Four-Seam Fastball|23|0|1|1|1|92
+Adam Loewen|L|Yoenis Cespedes|R|Home Run|F|Curveball|24|0|2|1|13|82
+Adam Loewen|L|Yoenis Cespedes|R|Home Run|E|Curveball|25|0|2|1|7|82
+Adam Loewen|L|David Wright|R|Flyout|B|Four-Seam Fastball|26|0|0|1|12|92
+Adam Loewen|L|David Wright|R|Flyout|B|Four-Seam Fastball|27|1|0|1|2|89
+Adam Loewen|L|David Wright|R|Flyout|X|Four-Seam Fastball|28|2|0|1|3|90
+Adam Loewen|L|Wilmer Flores|R|Groundout|B|Changeup|29|0|0|2|12|83
+Adam Loewen|L|Wilmer Flores|R|Groundout|C|Four-Seam Fastball|30|1|0|2|8|91
+Adam Loewen|L|Wilmer Flores|R|Groundout|B|Changeup|31|1|1|2|13|85
+Adam Loewen|L|Wilmer Flores|R|Groundout|F|Four-Seam Fastball|32|2|1|2|4|91
+Adam Loewen|L|Wilmer Flores|R|Groundout|F|Four-Seam Fastball|33|2|2|2|5|92
+Adam Loewen|L|Wilmer Flores|R|Groundout|F|Curveball|34|2|2|2|11|80
+Adam Loewen|L|Wilmer Flores|R|Groundout|B|Four-Seam Fastball|35|2|2|2|12|91
+Adam Loewen|L|Wilmer Flores|R|Groundout|F|Four-Seam Fastball|36|3|2|2|6|91
+Adam Loewen|L|Wilmer Flores|R|Groundout|X|Four-Seam Fastball|37|3|2|2|9|93
+Adam Loewen|L|Curtis Granderson|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|91
+Adam Loewen|L|Curtis Granderson|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|91
+Adam Loewen|L|Curtis Granderson|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|90
+Adam Loewen|L|Curtis Granderson|L|Walk|C|Four-Seam Fastball|3|3|0|0|1|89
+Adam Loewen|L|Curtis Granderson|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|B|Four-Seam Fastball|5|0|0|0|12|90
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|B|Four-Seam Fastball|6|1|0|0|12|88
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|C|Four-Seam Fastball|7|2|0|0|3|90
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|S|Four-Seam Fastball|8|2|1|0|12|90
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|B|Four-Seam Fastball|9|2|2|0|12|89
+Adam Loewen|L|Yoenis Cespedes|R|Forceout|X|Four-Seam Fastball|10|3|2|0|7|90
+Adam Loewen|L|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|11|0|0|1|13|91
+Adam Loewen|L|Daniel Murphy|L|Flyout|X|Curveball|12|1|0|1|7|82
+Adam Loewen|L|David Wright|R|Strikeout|B|Changeup|13|0|0|2|12|83
+Adam Loewen|L|David Wright|R|Strikeout|C|Four-Seam Fastball|14|1|0|2|5|90
+Adam Loewen|L|David Wright|R|Strikeout|B|Four-Seam Fastball|15|1|1|2|11|90
+Adam Loewen|L|David Wright|R|Strikeout|S|Curveball|16|2|1|2|13|82
+Adam Loewen|L|David Wright|R|Strikeout|W|Curveball|17|2|2|2|14|81
+Adam Loewen|L|Yonder Alonso|L|Single|F|Four-Seam Fastball|0|0|0|0|2|92
+Adam Loewen|L|Yonder Alonso|L|Single|B|Curveball|1|0|1|0|13|83
+Adam Loewen|L|Yonder Alonso|L|Single|C|Curveball|2|1|1|0|6|82
+Adam Loewen|L|Yonder Alonso|L|Single|F|Four-Seam Fastball|3|1|2|0|4|93
+Adam Loewen|L|Yonder Alonso|L|Single|B|Curveball|4|1|2|0|13|86
+Adam Loewen|L|Yonder Alonso|L|Single|B|Curveball|5|2|2|0|13|86
+Adam Loewen|L|Yonder Alonso|L|Single|D|Four-Seam Fastball|6|3|2|0|5|93
+Adam Loewen|L|Jedd Gyorko|R|Single|C|Four-Seam Fastball|7|0|0|0|3|92
+Adam Loewen|L|Jedd Gyorko|R|Single|B|Four-Seam Fastball|8|0|1|0|11|92
+Adam Loewen|L|Jedd Gyorko|R|Single|B|Four-Seam Fastball|9|1|1|0|11|92
+Adam Loewen|L|Jedd Gyorko|R|Single|B|Four-Seam Fastball|10|2|1|0|12|92
+Adam Loewen|L|Jedd Gyorko|R|Single|D|Four-Seam Fastball|11|3|1|0|4|92
+Adam Loewen|L|Clint Barmes|R|Single|T|Curveball|12|0|0|0|4|84
+Adam Loewen|L|Clint Barmes|R|Single|B|Four-Seam Fastball|13|0|1|0|12|91
+Adam Loewen|L|Clint Barmes|R|Single|E|Four-Seam Fastball|14|1|1|0|1|91
+Adam Loewen|L|Brett Wallace|L|Single|B|Curveball|15|0|0|0|13|85
+Adam Loewen|L|Brett Wallace|L|Single|C|Four-Seam Fastball|16|1|0|0|3|90
+Adam Loewen|L|Brett Wallace|L|Single|B|Curveball|17|1|1|0|14|81
+Adam Loewen|L|Brett Wallace|L|Single|F|Four-Seam Fastball|18|2|1|0|8|92
+Adam Loewen|L|Brett Wallace|L|Single|F|Curveball|19|2|2|0|11|82
+Adam Loewen|L|Brett Wallace|L|Single|B|Four-Seam Fastball|20|2|2|0|13|93
+Adam Loewen|L|Brett Wallace|L|Single|E|Four-Seam Fastball|21|3|2|0|13|92
+Adam Loewen|L|B.J. Upton|R|Walk|F|Four-Seam Fastball|22|0|0|0|13|90
+Adam Loewen|L|B.J. Upton|R|Walk|S|Changeup|23|0|1|0|12|84
+Adam Loewen|L|B.J. Upton|R|Walk|*B|Curveball|24|0|2|0|14|84
+Adam Loewen|L|B.J. Upton|R|Walk|B|Four-Seam Fastball|25|1|2|0|12|91
+Adam Loewen|L|B.J. Upton|R|Walk|*B|Changeup|26|2|2|0|13|83
+Adam Loewen|L|B.J. Upton|R|Walk|B|Four-Seam Fastball|27|3|2|0|11|91
+Adam Loewen|L|Michael Conforto|L|Single|D|Four-Seam Fastball|0|0|0|0|5|90
+Adam Loewen|L|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|1|0|0|0|13|92
+Adam Loewen|L|Travis d'Arnaud|R|Single|C|Four-Seam Fastball|2|1|0|0|9|93
+Adam Loewen|L|Travis d'Arnaud|R|Single|F|Changeup|3|1|1|0|4|84
+Adam Loewen|L|Travis d'Arnaud|R|Single|D|Four-Seam Fastball|4|1|2|0|4|92
+Adam Loewen|L|Kelly Johnson|L|Forceout|B|Curveball|5|0|0|1|13|84
+Adam Loewen|L|Kelly Johnson|L|Forceout|F|Four-Seam Fastball|6|1|0|1|13|93
+Adam Loewen|L|Kelly Johnson|L|Forceout|S|Four-Seam Fastball|7|1|1|1|1|93
+Adam Loewen|L|Kelly Johnson|L|Forceout|X|Curveball|8|1|2|1|8|83
+Adam Loewen|L|Ruben Tejada|R|Single|F|Four-Seam Fastball|9|0|0|2|13|93
+Adam Loewen|L|Ruben Tejada|R|Single|B|Four-Seam Fastball|10|0|1|2|14|93
+Adam Loewen|L|Ruben Tejada|R|Single|S|Four-Seam Fastball|11|1|1|2|13|92
+Adam Loewen|L|Ruben Tejada|R|Single|*B|Curveball|12|1|2|2|13|85
+Adam Loewen|L|Ruben Tejada|R|Single|F|Four-Seam Fastball|13|2|2|2|11|93
+Adam Loewen|L|Ruben Tejada|R|Single|F|Four-Seam Fastball|14|2|2|2|12|92
+Adam Loewen|L|Ruben Tejada|R|Single|B|Curveball|15|2|2|2|9|84
+Adam Loewen|L|Ruben Tejada|R|Single|E|Four-Seam Fastball|16|3|2|2|7|93
+Adam Loewen|L|Juan Uribe|R|Strikeout|C|Changeup|17|0|0|2|7|86
+Adam Loewen|L|Juan Uribe|R|Strikeout|C|Changeup|18|0|1|2|9|85
+Adam Loewen|L|Juan Uribe|R|Strikeout|F|Changeup|19|0|2|2|7|85
+Adam Loewen|L|Juan Uribe|R|Strikeout|B|Four-Seam Fastball|20|0|2|2|12|93
+Adam Loewen|L|Juan Uribe|R|Strikeout|S|Curveball|21|1|2|2|11|84
+Adam Loewen|L|Josh Rutledge|R|Groundout|C|Four-Seam Fastball|0|0|0|0|7|90
+Adam Loewen|L|Josh Rutledge|R|Groundout|X|Four-Seam Fastball|1|0|1|0|13|91
+Adam Loewen|L|Jackie Bradley Jr.|L|Single|C|Curveball|2|0|0|1|7|79
+Adam Loewen|L|Jackie Bradley Jr.|L|Single|F|Two-Seam Fastball|3|0|1|1|4|90
+Adam Loewen|L|Jackie Bradley Jr.|L|Single|B|Two-Seam Fastball|4|0|2|1|11|91
+Adam Loewen|L|Jackie Bradley Jr.|L|Single|D|Curveball|5|1|2|1|13|81
+Adam Loewen|L|Mookie Betts|R|Single|*B|Changeup|6|0|0|1|13|85
+Adam Loewen|L|Mookie Betts|R|Single|D|Four-Seam Fastball|7|1|0|1|13|91
+Adam Loewen|L|Brock Holt|L|Walk|B|Four-Seam Fastball|8|0|0|1|11|91
+Adam Loewen|L|Brock Holt|L|Walk|B|Four-Seam Fastball|9|1|0|1|13|91
+Adam Loewen|L|Brock Holt|L|Walk|B|Four-Seam Fastball|10|2|0|1|13|93
+Adam Loewen|L|Brock Holt|L|Walk|C|Four-Seam Fastball|11|3|0|1|11|90
+Adam Loewen|L|Brock Holt|L|Walk|S|Four-Seam Fastball|12|3|1|1|7|91
+Adam Loewen|L|Brock Holt|L|Walk|B|Four-Seam Fastball|13|3|2|1|12|92
+Adam Loewen|L|Nick Markakis|L|Flyout|B|Four-Seam Fastball|0|0|0|0|12|90
+Adam Loewen|L|Nick Markakis|L|Flyout|F|Four-Seam Fastball|1|1|0|0|11|91
+Adam Loewen|L|Nick Markakis|L|Flyout|F|Four-Seam Fastball|2|1|1|0|1|91
+Adam Loewen|L|Nick Markakis|L|Flyout|X|Curveball|3|1|2|0|13|82
+Adam Loewen|L|Hector Olivera|R|Walk|B|Four-Seam Fastball|4|0|0|1|13|91
+Adam Loewen|L|Hector Olivera|R|Walk|F|Changeup|5|1|0|1|9|85
+Adam Loewen|L|Hector Olivera|R|Walk|B|Changeup|6|1|1|1|14|86
+Adam Loewen|L|Hector Olivera|R|Walk|B|Four-Seam Fastball|7|2|1|1|12|92
+Adam Loewen|L|Hector Olivera|R|Walk|B|Four-Seam Fastball|8|3|1|1|12|92
+Adam Loewen|L|Freddie Freeman|L|Strikeout|B|Curveball|9|0|0|1|1|81
+Adam Loewen|L|Freddie Freeman|L|Strikeout|S|Four-Seam Fastball|10|1|0|1|1|91
+Adam Loewen|L|Freddie Freeman|L|Strikeout|C|Curveball|11|1|1|1|4|81
+Adam Loewen|L|Freddie Freeman|L|Strikeout|T|Curveball|12|1|2|1|13|83
+Adam Loewen|L|Pedro Ciriaco|R|Strikeout|W|Changeup|13|0|0|2|14|85
+Adam Loewen|L|Pedro Ciriaco|R|Strikeout|F|Changeup|14|0|1|2|5|83
+Adam Loewen|L|Pedro Ciriaco|R|Strikeout|S|Four-Seam Fastball|15|0|2|2|12|91
+Adam Loewen|L|Kyle Schwarber|L|Flyout|F|Four-Seam Fastball|0|0|0|2|4|92
+Adam Loewen|L|Kyle Schwarber|L|Flyout|B|Curveball|1|0|1|2|12|82
+Adam Loewen|L|Kyle Schwarber|L|Flyout|B|Curveball|2|1|1|2|12|81
+Adam Loewen|L|Kyle Schwarber|L|Flyout|B|Four-Seam Fastball|3|2|1|2|12|91
+Adam Loewen|L|Kyle Schwarber|L|Flyout|X|Four-Seam Fastball|4|3|1|2|11|91
+Adam Loewen|L|Bryce Harper|L|Forceout|X|Curveball|0|0|0|2|7|81
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|C|Curveball|1|0|0|0|8|82
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|B|Two-Seam Fastball|2|0|1|0|13|90
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|*B|Two-Seam Fastball|3|1|1|0|14|92
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|F|Curveball|4|2|1|0|11|83
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|B|Two-Seam Fastball|5|2|2|0|14|90
+Adam Loewen|L|Jayson Werth|R|Grounded Into DP|X|Two-Seam Fastball|6|3|2|0|13|91
+Adam Loewen|L|Yunel Escobar|R|Walk|B|Two-Seam Fastball|0|0|0|0|12|91
+Adam Loewen|L|Yunel Escobar|R|Walk|B|Two-Seam Fastball|1|1|0|0|13|92
+Adam Loewen|L|Yunel Escobar|R|Walk|C|Two-Seam Fastball|2|2|0|0|14|91
+Adam Loewen|L|Yunel Escobar|R|Walk|C|Curveball|3|2|1|0|6|82
+Adam Loewen|L|Yunel Escobar|R|Walk|F|Two-Seam Fastball|4|2|2|0|13|91
+Adam Loewen|L|Yunel Escobar|R|Walk|B|Curveball|5|2|2|0|12|83
+Adam Loewen|L|Yunel Escobar|R|Walk|B|Two-Seam Fastball|6|3|2|0|14|92
+Adam Loewen|L|Bryce Harper|L|Home Run|B|Curveball|7|0|0|0|12|83
+Adam Loewen|L|Bryce Harper|L|Home Run|C|Two-Seam Fastball|8|1|0|0|13|91
+Adam Loewen|L|Bryce Harper|L|Home Run|E|Two-Seam Fastball|9|1|1|0|4|90
+Adam Loewen|L|Jayson Werth|R|Strikeout|B|Curveball|10|0|0|0|14|83
+Adam Loewen|L|Jayson Werth|R|Strikeout|C|Changeup|11|1|0|0|5|87
+Adam Loewen|L|Jayson Werth|R|Strikeout|F|Curveball|12|1|1|0|13|85
+Adam Loewen|L|Jayson Werth|R|Strikeout|B|Curveball|13|1|2|0|13|84
+Adam Loewen|L|Jayson Werth|R|Strikeout|B|Two-Seam Fastball|14|2|2|0|13|92
+Adam Loewen|L|Jayson Werth|R|Strikeout|F|Two-Seam Fastball|15|3|2|0|13|92
+Adam Loewen|L|Jayson Werth|R|Strikeout|F|Two-Seam Fastball|16|3|2|0|13|92
+Adam Loewen|L|Jayson Werth|R|Strikeout|F|Two-Seam Fastball|17|3|2|0|13|92
+Adam Loewen|L|Jayson Werth|R|Strikeout|W|Curveball|18|3|2|0|13|85
+Adam Loewen|L|Clint Robinson|L|Strikeout|S|Curveball|19|0|0|1|7|85
+Adam Loewen|L|Clint Robinson|L|Strikeout|S|Curveball|20|0|1|1|13|85
+Adam Loewen|L|Clint Robinson|L|Strikeout|B|Curveball|21|0|2|1|13|85
+Adam Loewen|L|Clint Robinson|L|Strikeout|F|Two-Seam Fastball|22|1|2|1|12|91
+Adam Loewen|L|Clint Robinson|L|Strikeout|F|Curveball|23|1|2|1|7|84
+Adam Loewen|L|Clint Robinson|L|Strikeout|S|Two-Seam Fastball|24|1|2|1|4|91
+Adam Loewen|L|Christian Yelich|L|Lineout|C|Two-Seam Fastball|0|0|0|0|4|91
+Adam Loewen|L|Christian Yelich|L|Lineout|C|Two-Seam Fastball|1|0|1|0|1|90
+Adam Loewen|L|Christian Yelich|L|Lineout|B|Two-Seam Fastball|2|0|2|0|11|91
+Adam Loewen|L|Christian Yelich|L|Lineout|F|Two-Seam Fastball|3|1|2|0|14|92
+Adam Loewen|L|Christian Yelich|L|Lineout|B|Curveball|4|1|2|0|13|83
+Adam Loewen|L|Christian Yelich|L|Lineout|X|Two-Seam Fastball|5|2|2|0|7|92
+Adam Loewen|L|Justin Bour|L|Lineout|B|Two-Seam Fastball|6|0|0|1|12|91
+Adam Loewen|L|Justin Bour|L|Lineout|S|Curveball|7|1|0|1|13|82
+Adam Loewen|L|Justin Bour|L|Lineout|B|Curveball|8|1|1|1|13|82
+Adam Loewen|L|Justin Bour|L|Lineout|X|Two-Seam Fastball|9|2|1|1|8|91
+Adam Loewen|L|Marcell Ozuna|R|Groundout|F|Two-Seam Fastball|10|0|0|2|5|91
+Adam Loewen|L|Marcell Ozuna|R|Groundout|B|Changeup|11|0|1|2|14|85
+Adam Loewen|L|Marcell Ozuna|R|Groundout|F|Curveball|12|1|1|2|11|83
+Adam Loewen|L|Marcell Ozuna|R|Groundout|X|Two-Seam Fastball|13|1|2|2|4|93
+Adam Loewen|L|Derek Dietrich|L|Lineout|B|Curveball|14|0|0|0|11|84
+Adam Loewen|L|Derek Dietrich|L|Lineout|S|Curveball|15|1|0|0|13|83
+Adam Loewen|L|Derek Dietrich|L|Lineout|B|Curveball|16|1|1|0|11|83
+Adam Loewen|L|Derek Dietrich|L|Lineout|X|Two-Seam Fastball|17|2|1|0|12|91
+Adam Loewen|L|Martin Prado|R|Single|B|Two-Seam Fastball|0|0|0|0|12|90
+Adam Loewen|L|Martin Prado|R|Single|C|Two-Seam Fastball|1|1|0|0|4|90
+Adam Loewen|L|Martin Prado|R|Single|F|Two-Seam Fastball|2|1|1|0|7|91
+Adam Loewen|L|Martin Prado|R|Single|D|Curveball|3|1|2|0|5|82
+Adam Loewen|L|Dee Gordon|L|Sac Bunt|L|Two-Seam Fastball|4|0|0|0|13|92
+Adam Loewen|L|Dee Gordon|L|Sac Bunt|X|Two-Seam Fastball|5|0|1|0|3|91
+Adam Loewen|L|Ichiro Suzuki|L|Groundout|C|Two-Seam Fastball|6|0|0|1|5|91
+Adam Loewen|L|Ichiro Suzuki|L|Groundout|F|Two-Seam Fastball|7|0|1|1|7|91
+Adam Loewen|L|Ichiro Suzuki|L|Groundout|X|Two-Seam Fastball|8|0|2|1|13|91
+Adam Loewen|L|Christian Yelich|L|Strikeout|C|Two-Seam Fastball|9|0|0|2|12|90
+Adam Loewen|L|Christian Yelich|L|Strikeout|B|Two-Seam Fastball|10|0|1|2|13|92
+Adam Loewen|L|Christian Yelich|L|Strikeout|T|Two-Seam Fastball|11|1|1|2|11|91
+Adam Loewen|L|Christian Yelich|L|Strikeout|B|Two-Seam Fastball|12|1|2|2|13|92
+Adam Loewen|L|Christian Yelich|L|Strikeout|S|Curveball|13|2|2|2|13|84
+Adam Loewen|L|Bryce Harper|L|Walk|B|Two-Seam Fastball|0|0|0|0|13|92
+Adam Loewen|L|Bryce Harper|L|Walk|B|Curveball|1|1|0|0|12|82
+Adam Loewen|L|Bryce Harper|L|Walk|B|Two-Seam Fastball|2|2|0|0|11|91
+Adam Loewen|L|Bryce Harper|L|Walk|C|Two-Seam Fastball|3|3|0|0|4|92
+Adam Loewen|L|Bryce Harper|L|Walk|F|Two-Seam Fastball|4|3|1|0|2|92
+Adam Loewen|L|Bryce Harper|L|Walk|F|Two-Seam Fastball|5|3|2|0|6|92
+Adam Loewen|L|Bryce Harper|L|Walk|B|Curveball|6|3|2|0|13|83
+Adam Loewen|L|Jayson Werth|R|Walk|C|Two-Seam Fastball|7|0|0|0|7|92
+Adam Loewen|L|Jayson Werth|R|Walk|B|Two-Seam Fastball|8|0|1|0|9|92
+Adam Loewen|L|Jayson Werth|R|Walk|B|Two-Seam Fastball|9|1|1|0|13|91
+Adam Loewen|L|Jayson Werth|R|Walk|S|Two-Seam Fastball|10|2|1|0|3|91
+Adam Loewen|L|Jayson Werth|R|Walk|B|Two-Seam Fastball|11|2|2|0|13|91
+Adam Loewen|L|Jayson Werth|R|Walk|B|Two-Seam Fastball|12|3|2|0|14|91
+Adam Loewen|L|Clint Robinson|L|Lineout|*B|Curveball|13|0|0|0|13|84
+Adam Loewen|L|Clint Robinson|L|Lineout|F|Two-Seam Fastball|14|1|0|0|5|91
+Adam Loewen|L|Clint Robinson|L|Lineout|X|Two-Seam Fastball|15|1|1|0|14|90
+Adam Loewen|L|Lucas Duda|L|Strikeout|B|Curveball|0|0|0|2|14|81
+Adam Loewen|L|Lucas Duda|L|Strikeout|B|Two-Seam Fastball|1|1|0|2|13|92
+Adam Loewen|L|Lucas Duda|L|Strikeout|C|Curveball|2|2|0|2|5|82
+Adam Loewen|L|Lucas Duda|L|Strikeout|S|Curveball|3|2|1|2|9|81
+Adam Loewen|L|Lucas Duda|L|Strikeout|W|Curveball|4|2|2|2|13|83
+Adam Loewen|L|Daniel Murphy|L|Forceout|X|Curveball|0|0|0|2|2|81
+Adam Loewen|L|Kirk Nieuwenhuis|L|Hit By Pitch|H|Two-Seam Fastball|1|0|0|0|12|90
+Adam Loewen|L|Lucas Duda|L|Strikeout|B|Two-Seam Fastball|2|0|0|0|12|91
+Adam Loewen|L|Lucas Duda|L|Strikeout|C|Curveball|3|1|0|0|4|80
+Adam Loewen|L|Lucas Duda|L|Strikeout|*B|Curveball|4|1|1|0|13|81
+Adam Loewen|L|Lucas Duda|L|Strikeout|B|Two-Seam Fastball|5|2|1|0|13|91
+Adam Loewen|L|Lucas Duda|L|Strikeout|S|Curveball|6|3|1|0|7|81
+Adam Loewen|L|Lucas Duda|L|Strikeout|S|Curveball|7|3|2|0|13|83
+Adam Loewen|L|Travis d'Arnaud|R|Walk|F|Two-Seam Fastball|8|0|0|1|1|91
+Adam Loewen|L|Travis d'Arnaud|R|Walk|B|Two-Seam Fastball|9|0|1|1|13|91
+Adam Loewen|L|Travis d'Arnaud|R|Walk|B|Changeup|10|1|1|1|13|87
+Adam Loewen|L|Travis d'Arnaud|R|Walk|B|Curveball|11|2|1|1|12|83
+Adam Loewen|L|Travis d'Arnaud|R|Walk|B|Two-Seam Fastball|12|3|1|1|12|92
+Adam Loewen|L|Michael Conforto|L|Flyout|C|Curveball|13|0|0|1|5|81
+Adam Loewen|L|Michael Conforto|L|Flyout|B|Two-Seam Fastball|14|0|1|1|13|92
+Adam Loewen|L|Michael Conforto|L|Flyout|X|Curveball|15|1|1|1|5|81
+Adam Loewen|L|Dee Gordon|L|Hit By Pitch|B|Curveball|0|0|0|0|12|77
+Adam Loewen|L|Dee Gordon|L|Hit By Pitch|C|Two-Seam Fastball|1|1|0|0|13|88
+Adam Loewen|L|Dee Gordon|L|Hit By Pitch|H|Curveball|2|1|1|0|12|77
+Adam Loewen|L|Christian Yelich|L|Walk|S|Curveball|3|0|0|0|13|79
+Adam Loewen|L|Christian Yelich|L|Walk|B|Curveball|4|0|1|0|13|79
+Adam Loewen|L|Christian Yelich|L|Walk|B|Two-Seam Fastball|5|1|1|0|13|88
+Adam Loewen|L|Christian Yelich|L|Walk|S|Two-Seam Fastball|6|2|1|0|13|89
+Adam Loewen|L|Christian Yelich|L|Walk|B|Curveball|7|2|2|0|13|81
+Adam Loewen|L|Christian Yelich|L|Walk|B|Two-Seam Fastball|8|3|2|0|13|89
+Adam Loewen|L|Martin Prado|R|Grounded Into DP|B|Two-Seam Fastball|9|0|0|1|12|89
+Adam Loewen|L|Martin Prado|R|Grounded Into DP|F|Two-Seam Fastball|10|1|0|1|3|89
+Adam Loewen|L|Martin Prado|R|Grounded Into DP|*B|Changeup|11|1|1|1|13|86
+Adam Loewen|L|Martin Prado|R|Grounded Into DP|X|Two-Seam Fastball|12|2|1|1|4|90
+Adam Loewen|L|Chase Utley|L|Caught Stealing 2B|B|Four-Seam Fastball|0|0|0|1|11|90
+Adam Loewen|L|Chase Utley|L|Caught Stealing 2B|C|Two-Seam Fastball|1|1|0|1|4|88
+Adam Loewen|L|Chase Utley|L|Caught Stealing 2B|B|Two-Seam Fastball|2|1|1|1|13|90
+Adam Loewen|L|Chase Utley|L|Flyout|C|Two-Seam Fastball|3|0|0|2|1|88
+Adam Loewen|L|Chase Utley|L|Flyout|B|Curveball|4|0|1|2|12|81
+Adam Loewen|L|Chase Utley|L|Flyout|S|Curveball|5|1|1|2|13|82
+Adam Loewen|L|Chase Utley|L|Flyout|B|Two-Seam Fastball|6|1|2|2|11|91
+Adam Loewen|L|Chase Utley|L|Flyout|B|Two-Seam Fastball|7|2|2|2|13|91
+Adam Loewen|L|Chase Utley|L|Flyout|X|Two-Seam Fastball|8|3|2|2|8|89
+Adam Loewen|L|Corey Seager|L|Walk|B|Two-Seam Fastball|9|0|0|0|11|89
+Adam Loewen|L|Corey Seager|L|Walk|C|Two-Seam Fastball|10|1|0|0|13|89
+Adam Loewen|L|Corey Seager|L|Walk|B|Four-Seam Fastball|11|1|1|0|13|90
+Adam Loewen|L|Corey Seager|L|Walk|B|Two-Seam Fastball|12|2|1|0|13|90
+Adam Loewen|L|Corey Seager|L|Walk|F|Two-Seam Fastball|13|3|1|0|1|91
+Adam Loewen|L|Corey Seager|L|Walk|B|Four-Seam Fastball|14|3|2|0|12|89
+Adam Loewen|L|Justin Turner|R|Lineout|B|Two-Seam Fastball|15|0|0|0|11|89
+Adam Loewen|L|Justin Turner|R|Lineout|F|Four-Seam Fastball|16|1|0|0|3|89
+Adam Loewen|L|Justin Turner|R|Lineout|X|Two-Seam Fastball|17|1|1|0|2|89
+Adam Loewen|L|Adrian Gonzalez|L|Single|F|Curveball|18|0|0|1|9|82
+Adam Loewen|L|Adrian Gonzalez|L|Single|F|Two-Seam Fastball|19|0|1|1|7|91
+Adam Loewen|L|Adrian Gonzalez|L|Single|D|Two-Seam Fastball|20|0|2|1|4|91
+Adam Loewen|L|Chris Heisey|R|Sac Fly|F|Two-Seam Fastball|0|0|0|1|1|88
+Adam Loewen|L|Chris Heisey|R|Sac Fly|B|Two-Seam Fastball|1|0|1|1|11|89
+Adam Loewen|L|Chris Heisey|R|Sac Fly|*B|Changeup|2|1|1|1|14|84
+Adam Loewen|L|Chris Heisey|R|Sac Fly|F|Two-Seam Fastball|3|2|1|1|1|90
+Adam Loewen|L|Chris Heisey|R|Sac Fly|E|Curveball|4|2|2|1|7|83
+Adam Loewen|L|Bryce Harper|L|Lineout|B|Curveball|5|0|0|2|12|81
+Adam Loewen|L|Bryce Harper|L|Lineout|B|Two-Seam Fastball|6|1|0|2|11|90
+Adam Loewen|L|Bryce Harper|L|Lineout|C|Two-Seam Fastball|7|2|0|2|11|89
+Adam Loewen|L|Bryce Harper|L|Lineout|X|Two-Seam Fastball|8|2|1|2|11|91
+Adam Loewen|L|Chris Heisey|R|Hit By Pitch|H|Two-Seam Fastball|0|0|0|0|11|89
+Adam Loewen|L|Danny Espinosa|R|Groundout|B|Two-Seam Fastball|1|0|0|0|11|90
+Adam Loewen|L|Danny Espinosa|R|Groundout|C|Two-Seam Fastball|2|1|0|0|11|89
+Adam Loewen|L|Danny Espinosa|R|Groundout|X|Changeup|3|1|1|0|14|84
+Adam Loewen|L|Wilmer Difo|R|Lineout|X|Changeup|4|0|0|1|6|84
+Adam Loewen|L|Clint Robinson|L|Groundout|C|Curveball|5|0|0|2|1|81
+Adam Loewen|L|Clint Robinson|L|Groundout|B|Curveball|6|0|1|2|13|83
+Adam Loewen|L|Clint Robinson|L|Groundout|B|Curveball|7|1|1|2|13|83
+Adam Loewen|L|Clint Robinson|L|Groundout|X|Four-Seam Fastball|8|2|1|2|7|89
+Adam Loewen|L|Kirk Nieuwenhuis|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|11|91
+Adam Loewen|L|Kirk Nieuwenhuis|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|7|90
+Adam Loewen|L|Kirk Nieuwenhuis|L|Strikeout|S|Curveball|2|1|1|0|13|83
+Adam Loewen|L|Kirk Nieuwenhuis|L|Strikeout|B|Curveball|3|1|2|0|13|83
+Adam Loewen|L|Kirk Nieuwenhuis|L|Strikeout|S|Curveball|4|2|2|0|8|82
+Adam Loewen|L|Orlando Arcia|R|Pop Out|F|Curveball|5|0|0|1|13|81
+Adam Loewen|L|Orlando Arcia|R|Pop Out|X|Two-Seam Fastball|6|0|1|1|1|91
+Adam Loewen|L|Martin Maldonado|R|Strikeout|B|Curveball|7|0|0|2|13|83
+Adam Loewen|L|Martin Maldonado|R|Strikeout|B|Curveball|8|1|0|2|13|83
+Adam Loewen|L|Martin Maldonado|R|Strikeout|C|Two-Seam Fastball|9|2|0|2|1|92
+Adam Loewen|L|Martin Maldonado|R|Strikeout|C|Two-Seam Fastball|10|2|1|2|13|91
+Adam Loewen|L|Martin Maldonado|R|Strikeout|B|Curveball|11|2|2|2|13|84
+Adam Loewen|L|Martin Maldonado|R|Strikeout|S|Two-Seam Fastball|12|3|2|2|12|91
+Adam Loewen|L|Orlando Arcia|R|Walk|B|Two-Seam Fastball|0|0|0|0|13|89
+Adam Loewen|L|Orlando Arcia|R|Walk|C|Four-Seam Fastball|1|1|0|0|13|91
+Adam Loewen|L|Orlando Arcia|R|Walk|B|Curveball|2|1|1|0|13|83
+Adam Loewen|L|Orlando Arcia|R|Walk|B|Changeup|3|2|1|0|12|85
+Adam Loewen|L|Orlando Arcia|R|Walk|B|Two-Seam Fastball|4|3|1|0|13|91
+Adam Loewen|L|Ryan Braun|R|Single|D|Two-Seam Fastball|5|0|0|0|13|92
+Adam Loewen|L|Hernan Perez|R|Strikeout|C|Curveball|6|0|0|0|2|83
+Adam Loewen|L|Hernan Perez|R|Strikeout|S|Two-Seam Fastball|7|0|1|0|5|91
+Adam Loewen|L|Hernan Perez|R|Strikeout|S|Two-Seam Fastball|8|0|2|0|11|92
+Adam Loewen|L|Jake Elmore|R|Walk|B|Two-Seam Fastball|9|0|0|1|12|90
+Adam Loewen|L|Jake Elmore|R|Walk|B|Two-Seam Fastball|10|1|0|1|12|90
+Adam Loewen|L|Jake Elmore|R|Walk|C|Curveball|11|2|0|1|2|82
+Adam Loewen|L|Jake Elmore|R|Walk|B|Two-Seam Fastball|12|2|1|1|12|90
+Adam Loewen|L|Jake Elmore|R|Walk|B|Four-Seam Fastball|13|3|1|1|13|90
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|B|Curveball|14|0|0|1|13|82
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|B|Two-Seam Fastball|15|1|0|1|13|90
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|S|Two-Seam Fastball|16|2|0|1|3|90
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|S|Two-Seam Fastball|17|2|1|1|12|90
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|B|Two-Seam Fastball|18|2|2|1|13|91
+Adam Loewen|L|Scooter Gennett|L|Sac Fly|E|Two-Seam Fastball|19|3|2|1|1|90
+Adam Loewen|L|Keon Broxton|R|Single|B|Curveball|20|0|0|2|13|83
+Adam Loewen|L|Keon Broxton|R|Single|S|Two-Seam Fastball|21|1|0|2|8|91
+Adam Loewen|L|Keon Broxton|R|Single|E|Two-Seam Fastball|22|1|1|2|9|91
+Adam Loewen|L|Martin Maldonado|R|Walk|S|Two-Seam Fastball|23|0|0|2|12|90
+Adam Loewen|L|Martin Maldonado|R|Walk|B|Curveball|24|0|1|2|13|84
+Adam Loewen|L|Martin Maldonado|R|Walk|B|Four-Seam Fastball|25|1|1|2|12|89
+Adam Loewen|L|Martin Maldonado|R|Walk|B|Two-Seam Fastball|26|2|1|2|12|90
+Adam Loewen|L|Martin Maldonado|R|Walk|B|Two-Seam Fastball|27|3|1|2|13|89
+Adam Loewen|L|Neil Walker|R|Single|B|Two-Seam Fastball|0|0|0|0|13|91
+Adam Loewen|L|Neil Walker|R|Single|B|Two-Seam Fastball|1|1|0|0|7|92
+Adam Loewen|L|Neil Walker|R|Single|B|Two-Seam Fastball|2|2|0|0|12|91
+Adam Loewen|L|Neil Walker|R|Single|C|Two-Seam Fastball|3|3|0|0|1|92
+Adam Loewen|L|Neil Walker|R|Single|D|Two-Seam Fastball|4|3|1|0|5|91
+Adam Loewen|L|Jay Bruce|L|Groundout|B|Curveball|5|0|0|0|13|83
+Adam Loewen|L|Jay Bruce|L|Groundout|*B|Curveball|6|1|0|0|13|84
+Adam Loewen|L|Jay Bruce|L|Groundout|C|Two-Seam Fastball|7|2|0|0|11|92
+Adam Loewen|L|Jay Bruce|L|Groundout|X|Two-Seam Fastball|8|2|1|0|13|91
+Adam Loewen|L|Aaron Hill|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|89
+Adam Loewen|L|Aaron Hill|R|Pop Out|C|Two-Seam Fastball|1|1|0|0|12|91
+Adam Loewen|L|Aaron Hill|R|Pop Out|B|Two-Seam Fastball|2|1|1|0|12|90
+Adam Loewen|L|Aaron Hill|R|Pop Out|F|Changeup|3|2|1|0|14|85
+Adam Loewen|L|Aaron Hill|R|Pop Out|B|Four-Seam Fastball|4|2|2|0|11|89
+Adam Loewen|L|Aaron Hill|R|Pop Out|F|Changeup|5|3|2|0|2|86
+Adam Loewen|L|Aaron Hill|R|Pop Out|X|Two-Seam Fastball|6|3|2|0|3|91
+Adam Loewen|L|Sandy Leon|R|Groundout|X|Two-Seam Fastball|7|0|0|1|6|91
+Adam Loewen|L|Brock Holt|L|Flyout|C|Two-Seam Fastball|8|0|0|2|1|92
+Adam Loewen|L|Brock Holt|L|Flyout|B|Curveball|9|0|1|2|13|83
+Adam Loewen|L|Brock Holt|L|Flyout|X|Curveball|10|1|1|2|8|83
+Adam Loewen|L|Sandy Leon|R|Walk|C|Two-Seam Fastball|0|0|0|0|6|91
+Adam Loewen|L|Sandy Leon|R|Walk|B|Curveball|1|0|1|0|12|81
+Adam Loewen|L|Sandy Leon|R|Walk|B|Four-Seam Fastball|2|1|1|0|11|90
+Adam Loewen|L|Sandy Leon|R|Walk|S|Two-Seam Fastball|3|2|1|0|4|91
+Adam Loewen|L|Sandy Leon|R|Walk|B|Two-Seam Fastball|4|2|2|0|11|91
+Adam Loewen|L|Sandy Leon|R|Walk|B|Two-Seam Fastball|5|3|2|0|12|91
+Adam Loewen|L|Andrew Benintendi|L|Single|C|Curveball|6|0|0|0|13|81
+Adam Loewen|L|Andrew Benintendi|L|Single|C|Two-Seam Fastball|7|0|1|0|7|92
+Adam Loewen|L|Andrew Benintendi|L|Single|B|Curveball|8|0|2|0|13|83
+Adam Loewen|L|Andrew Benintendi|L|Single|F|Curveball|9|1|2|0|14|83
+Adam Loewen|L|Andrew Benintendi|L|Single|F|Two-Seam Fastball|10|1|2|0|1|92
+Adam Loewen|L|Andrew Benintendi|L|Single|D|Curveball|11|1|2|0|13|84
+Adam Loewen|L|Dustin Pedroia|R|Single|B|Two-Seam Fastball|12|0|0|0|12|90
+Adam Loewen|L|Dustin Pedroia|R|Single|B|Two-Seam Fastball|13|1|0|0|11|91
+Adam Loewen|L|Dustin Pedroia|R|Single|E|Two-Seam Fastball|14|2|0|0|4|91
+Adam Loewen|L|Brock Holt|L|Lineout|B|Two-Seam Fastball|15|0|0|0|11|90
+Adam Loewen|L|Brock Holt|L|Lineout|C|Two-Seam Fastball|16|1|0|0|7|91
+Adam Loewen|L|Brock Holt|L|Lineout|F|Two-Seam Fastball|17|1|1|0|7|91
+Adam Loewen|L|Brock Holt|L|Lineout|F|Two-Seam Fastball|18|1|2|0|6|94
+Adam Loewen|L|Brock Holt|L|Lineout|X|Curveball|19|1|2|0|7|82
+Adam Loewen|L|Mookie Betts|R|Home Run|B|Two-Seam Fastball|20|0|0|1|11|91
+Adam Loewen|L|Mookie Betts|R|Home Run|E|Two-Seam Fastball|21|1|0|1|13|92
+Adam Loewen|L|David Ortiz|L|Walk|B|Two-Seam Fastball|22|0|0|1|11|91
+Adam Loewen|L|David Ortiz|L|Walk|B|Two-Seam Fastball|23|1|0|1|12|90
+Adam Loewen|L|David Ortiz|L|Walk|B|Two-Seam Fastball|24|2|0|1|13|92
+Adam Loewen|L|David Ortiz|L|Walk|B|Two-Seam Fastball|25|3|0|1|14|91

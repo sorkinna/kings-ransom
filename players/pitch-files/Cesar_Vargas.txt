@@ -1,0 +1,607 @@
+Cesar Vargas|R|Kolten Wong|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|88
+Cesar Vargas|R|Kolten Wong|L|Strikeout|B|Cutter|1|1|0|0|11|88
+Cesar Vargas|R|Kolten Wong|L|Strikeout|B|Four-Seam Fastball|2|2|0|0|11|87
+Cesar Vargas|R|Kolten Wong|L|Strikeout|C|Cutter|3|3|0|0|11|87
+Cesar Vargas|R|Kolten Wong|L|Strikeout|F|Four-Seam Fastball|4|3|1|0|6|88
+Cesar Vargas|R|Kolten Wong|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|4|89
+Cesar Vargas|R|Stephen Piscotty|R|Groundout|C|Slider|6|0|0|1|7|78
+Cesar Vargas|R|Stephen Piscotty|R|Groundout|S|Four-Seam Fastball|7|0|1|1|9|91
+Cesar Vargas|R|Stephen Piscotty|R|Groundout|B|Slider|8|0|2|1|14|80
+Cesar Vargas|R|Stephen Piscotty|R|Groundout|X|Slider|9|1|2|1|14|79
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Four-Seam Fastball|10|0|0|2|14|90
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Four-Seam Fastball|11|1|0|2|14|89
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Cutter|12|2|0|2|12|89
+Cesar Vargas|R|Matt Holliday|R|Walk|C|Cutter|13|3|0|2|2|90
+Cesar Vargas|R|Matt Holliday|R|Walk|T|Four-Seam Fastball|14|3|1|2|3|89
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Four-Seam Fastball|15|3|2|2|12|90
+Cesar Vargas|R|Brandon Moss|L|Flyout|C|Four-Seam Fastball|16|0|0|2|4|89
+Cesar Vargas|R|Brandon Moss|L|Flyout|B|Slider|17|0|1|2|13|77
+Cesar Vargas|R|Brandon Moss|L|Flyout|X|Four-Seam Fastball|18|1|1|2|7|88
+Cesar Vargas|R|Randal Grichuk|R|Flyout|X|Four-Seam Fastball|19|0|0|0|12|90
+Cesar Vargas|R|Yadier Molina|R|Groundout|B|Four-Seam Fastball|20|0|0|1|14|90
+Cesar Vargas|R|Yadier Molina|R|Groundout|C|Four-Seam Fastball|21|1|0|1|9|89
+Cesar Vargas|R|Yadier Molina|R|Groundout|B|Slider|22|1|1|1|9|78
+Cesar Vargas|R|Yadier Molina|R|Groundout|F|Four-Seam Fastball|23|2|1|1|14|89
+Cesar Vargas|R|Yadier Molina|R|Groundout|B|Slider|24|2|2|1|14|79
+Cesar Vargas|R|Yadier Molina|R|Groundout|X|Four-Seam Fastball|25|3|2|1|14|90
+Cesar Vargas|R|Jedd Gyorko|R|Single|B|Slider|26|0|0|2|14|80
+Cesar Vargas|R|Jedd Gyorko|R|Single|B|Four-Seam Fastball|27|1|0|2|14|90
+Cesar Vargas|R|Jedd Gyorko|R|Single|D|Four-Seam Fastball|28|2|0|2|12|89
+Cesar Vargas|R|Aledmys Diaz|R|Single|C|Slider|29|0|0|2|8|79
+Cesar Vargas|R|Aledmys Diaz|R|Single|B|Slider|30|0|1|2|14|80
+Cesar Vargas|R|Aledmys Diaz|R|Single|D|Four-Seam Fastball|31|1|1|2|2|90
+Cesar Vargas|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|32|0|0|2|3|89
+Cesar Vargas|R|Michael Wacha|R|Strikeout|F|Slider|33|0|1|2|14|78
+Cesar Vargas|R|Michael Wacha|R|Strikeout|B|Slider|34|0|2|2|14|79
+Cesar Vargas|R|Michael Wacha|R|Strikeout|B|Slider|35|1|2|2|14|80
+Cesar Vargas|R|Michael Wacha|R|Strikeout|F|Four-Seam Fastball|36|2|2|2|4|88
+Cesar Vargas|R|Michael Wacha|R|Strikeout|S|Four-Seam Fastball|37|2|2|2|12|90
+Cesar Vargas|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|38|0|0|0|11|89
+Cesar Vargas|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|39|1|0|0|14|89
+Cesar Vargas|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|40|1|1|0|12|89
+Cesar Vargas|R|Kolten Wong|L|Groundout|C|Slider|41|2|1|0|11|77
+Cesar Vargas|R|Kolten Wong|L|Groundout|B|Slider|42|2|2|0|14|79
+Cesar Vargas|R|Kolten Wong|L|Groundout|X|Four-Seam Fastball|43|3|2|0|11|89
+Cesar Vargas|R|Stephen Piscotty|R|Single|C|Slider|44|0|0|1|14|80
+Cesar Vargas|R|Stephen Piscotty|R|Single|B|Four-Seam Fastball|45|0|1|1|11|88
+Cesar Vargas|R|Stephen Piscotty|R|Single|D|Slider|46|1|1|1|14|79
+Cesar Vargas|R|Matt Holliday|R|Groundout|B|Four-Seam Fastball|47|0|0|1|13|88
+Cesar Vargas|R|Matt Holliday|R|Groundout|X|Four-Seam Fastball|48|1|0|1|14|89
+Cesar Vargas|R|Brandon Moss|L|Strikeout|C|Four-Seam Fastball|49|0|0|2|6|87
+Cesar Vargas|R|Brandon Moss|L|Strikeout|S|Slider|50|0|1|2|14|78
+Cesar Vargas|R|Brandon Moss|L|Strikeout|W|Slider|51|0|2|2|14|78
+Cesar Vargas|R|Randal Grichuk|R|Groundout|C|Four-Seam Fastball|52|0|0|0|3|88
+Cesar Vargas|R|Randal Grichuk|R|Groundout|B|Four-Seam Fastball|53|0|1|0|13|89
+Cesar Vargas|R|Randal Grichuk|R|Groundout|B|Four-Seam Fastball|54|1|1|0|14|89
+Cesar Vargas|R|Randal Grichuk|R|Groundout|F|Slider|55|2|1|0|14|79
+Cesar Vargas|R|Randal Grichuk|R|Groundout|F|Four-Seam Fastball|56|2|2|0|9|88
+Cesar Vargas|R|Randal Grichuk|R|Groundout|B|Slider|57|2|2|0|14|81
+Cesar Vargas|R|Randal Grichuk|R|Groundout|F|Four-Seam Fastball|58|3|2|0|14|89
+Cesar Vargas|R|Randal Grichuk|R|Groundout|X|Slider|59|3|2|0|14|80
+Cesar Vargas|R|Yadier Molina|R|Walk|S|Curveball|60|0|0|1|14|75
+Cesar Vargas|R|Yadier Molina|R|Walk|B|Slider|61|0|1|1|14|80
+Cesar Vargas|R|Yadier Molina|R|Walk|B|Four-Seam Fastball|62|1|1|1|11|88
+Cesar Vargas|R|Yadier Molina|R|Walk|B|Slider|63|2|1|1|3|80
+Cesar Vargas|R|Yadier Molina|R|Walk|B|Four-Seam Fastball|64|3|1|1|12|89
+Cesar Vargas|R|Jedd Gyorko|R|Forceout|B|Slider|65|0|0|1|14|80
+Cesar Vargas|R|Jedd Gyorko|R|Forceout|B|Four-Seam Fastball|66|1|0|1|12|88
+Cesar Vargas|R|Jedd Gyorko|R|Forceout|X|Four-Seam Fastball|67|2|0|1|3|87
+Cesar Vargas|R|Aledmys Diaz|R|Single|C|Slider|68|0|0|2|8|79
+Cesar Vargas|R|Aledmys Diaz|R|Single|B|Slider|69|0|1|2|14|80
+Cesar Vargas|R|Aledmys Diaz|R|Single|D|Slider|70|1|1|2|5|80
+Cesar Vargas|R|Michael Wacha|R|Grounded Into DP|B|Curveball|71|0|0|2|14|72
+Cesar Vargas|R|Michael Wacha|R|Grounded Into DP|L|Four-Seam Fastball|72|1|0|2|9|85
+Cesar Vargas|R|Michael Wacha|R|Grounded Into DP|B|Four-Seam Fastball|73|1|1|2|11|86
+Cesar Vargas|R|Michael Wacha|R|Grounded Into DP|X|Four-Seam Fastball|74|2|1|2|9|84
+Cesar Vargas|R|Kolten Wong|L|Groundout|C|Slider|75|0|0|1|1|78
+Cesar Vargas|R|Kolten Wong|L|Groundout|B|Slider|76|0|1|1|14|80
+Cesar Vargas|R|Kolten Wong|L|Groundout|X|Four-Seam Fastball|77|1|1|1|3|87
+Cesar Vargas|R|Stephen Piscotty|R|Home Run|F|Four-Seam Fastball|78|0|0|2|14|86
+Cesar Vargas|R|Stephen Piscotty|R|Home Run|B|Four-Seam Fastball|79|0|1|2|14|88
+Cesar Vargas|R|Stephen Piscotty|R|Home Run|E|Slider|80|1|1|2|5|78
+Cesar Vargas|R|Matt Holliday|R|Walk|F|Four-Seam Fastball|81|0|0|2|8|88
+Cesar Vargas|R|Matt Holliday|R|Walk|S|Slider|82|0|1|2|14|81
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Slider|83|0|2|2|14|79
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Four-Seam Fastball|84|1|2|2|11|87
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Slider|85|2|2|2|14|80
+Cesar Vargas|R|Matt Holliday|R|Walk|F|Cutter|86|3|2|2|5|87
+Cesar Vargas|R|Matt Holliday|R|Walk|B|Four-Seam Fastball|87|3|2|2|14|88
+Cesar Vargas|R|Chase Utley|L|Flyout|C|Four-Seam Fastball|0|0|0|0|8|89
+Cesar Vargas|R|Chase Utley|L|Flyout|B|Four-Seam Fastball|1|0|1|0|14|90
+Cesar Vargas|R|Chase Utley|L|Flyout|B|Four-Seam Fastball|2|1|1|0|11|91
+Cesar Vargas|R|Chase Utley|L|Flyout|F|Four-Seam Fastball|3|2|1|0|14|90
+Cesar Vargas|R|Chase Utley|L|Flyout|F|Slider|4|2|2|0|14|79
+Cesar Vargas|R|Chase Utley|L|Flyout|X|Slider|5|2|2|0|7|80
+Cesar Vargas|R|Corey Seager|L|Groundout|X|Two-Seam Fastball|6|0|0|1|9|92
+Cesar Vargas|R|Justin Turner|R|Hit By Pitch|C|Four-Seam Fastball|7|0|0|2|5|92
+Cesar Vargas|R|Justin Turner|R|Hit By Pitch|B|Four-Seam Fastball|8|0|1|2|14|91
+Cesar Vargas|R|Justin Turner|R|Hit By Pitch|S|Four-Seam Fastball|9|1|1|2|12|90
+Cesar Vargas|R|Justin Turner|R|Hit By Pitch|H|Four-Seam Fastball|10|1|2|2|11|90
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|11|0|0|2|11|90
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|C|Slider|12|1|0|2|5|78
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|B|Slider|13|1|1|2|14|81
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|F|Four-Seam Fastball|14|2|1|2|6|90
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|*B|Slider|15|2|2|2|14|81
+Cesar Vargas|R|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|16|3|2|2|11|89
+Cesar Vargas|R|Yasiel Puig|R|Forceout|X|Four-Seam Fastball|17|0|0|2|6|90
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|C|Curveball|18|0|0|0|11|74
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|19|0|1|0|14|89
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Slider|20|0|2|0|13|78
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|F|Slider|21|1|2|0|6|80
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|22|1|2|0|12|88
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Curveball|23|2|2|0|13|76
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|C|Two-Seam Fastball|24|3|2|0|11|90
+Cesar Vargas|R|Carl Crawford|L|Groundout|F|Slider|25|0|0|1|14|79
+Cesar Vargas|R|Carl Crawford|L|Groundout|B|Four-Seam Fastball|26|0|1|1|14|88
+Cesar Vargas|R|Carl Crawford|L|Groundout|B|Four-Seam Fastball|27|1|1|1|11|89
+Cesar Vargas|R|Carl Crawford|L|Groundout|X|Slider|28|2|1|1|13|79
+Cesar Vargas|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|29|0|0|2|14|91
+Cesar Vargas|R|Joc Pederson|L|Walk|C|Slider|30|1|0|2|7|79
+Cesar Vargas|R|Joc Pederson|L|Walk|S|Slider|31|1|1|2|14|81
+Cesar Vargas|R|Joc Pederson|L|Walk|B|Slider|32|1|2|2|14|81
+Cesar Vargas|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|33|2|2|2|12|89
+Cesar Vargas|R|Joc Pederson|L|Walk|F|Four-Seam Fastball|34|3|2|2|14|89
+Cesar Vargas|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|35|3|2|2|13|89
+Cesar Vargas|R|Alex Wood|R|Single|D|Four-Seam Fastball|36|0|0|2|5|89
+Cesar Vargas|R|Chase Utley|L|Strikeout|C|Slider|37|0|0|2|13|78
+Cesar Vargas|R|Chase Utley|L|Strikeout|C|Curveball|38|0|1|2|14|75
+Cesar Vargas|R|Chase Utley|L|Strikeout|*B|Slider|39|0|2|2|14|79
+Cesar Vargas|R|Chase Utley|L|Strikeout|S|Four-Seam Fastball|40|1|2|2|14|89
+Cesar Vargas|R|Corey Seager|L|Double|S|Slider|41|0|0|0|13|78
+Cesar Vargas|R|Corey Seager|L|Double|D|Slider|42|0|1|0|4|76
+Cesar Vargas|R|Justin Turner|R|Strikeout|C|Two-Seam Fastball|43|0|0|0|1|88
+Cesar Vargas|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|44|0|1|0|14|88
+Cesar Vargas|R|Justin Turner|R|Strikeout|B|Two-Seam Fastball|45|1|1|0|12|89
+Cesar Vargas|R|Justin Turner|R|Strikeout|F|Four-Seam Fastball|46|2|1|0|12|88
+Cesar Vargas|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|47|2|2|0|7|88
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|S|Slider|48|0|0|1|13|79
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|49|0|1|1|11|88
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|W|Slider|50|0|2|1|14|79
+Cesar Vargas|R|Yasiel Puig|R|Pop Out|B|Four-Seam Fastball|51|0|0|2|13|88
+Cesar Vargas|R|Yasiel Puig|R|Pop Out|S|Four-Seam Fastball|52|1|0|2|14|89
+Cesar Vargas|R|Yasiel Puig|R|Pop Out|X|Four-Seam Fastball|53|1|1|2|4|88
+Cesar Vargas|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|54|0|0|0|12|87
+Cesar Vargas|R|Yasmani Grandal|L|Single|C|Four-Seam Fastball|55|1|0|0|4|86
+Cesar Vargas|R|Yasmani Grandal|L|Single|S|Two-Seam Fastball|56|1|1|0|6|87
+Cesar Vargas|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|57|1|2|0|14|86
+Cesar Vargas|R|Yasmani Grandal|L|Single|X|Slider|58|2|2|0|8|78
+Cesar Vargas|R|Carl Crawford|L|Groundout|B|Slider|59|0|0|1|13|80
+Cesar Vargas|R|Carl Crawford|L|Groundout|B|Four-Seam Fastball|60|1|0|1|14|90
+Cesar Vargas|R|Carl Crawford|L|Groundout|X|Four-Seam Fastball|61|2|0|1|4|88
+Cesar Vargas|R|Joc Pederson|L|Single|S|Curveball|62|0|0|2|9|75
+Cesar Vargas|R|Joc Pederson|L|Single|B|Slider|63|0|1|2|14|81
+Cesar Vargas|R|Joc Pederson|L|Single|D|Four-Seam Fastball|64|1|1|2|12|89
+Cesar Vargas|R|Alex Wood|R|Walk|L|Four-Seam Fastball|65|0|0|2|2|89
+Cesar Vargas|R|Alex Wood|R|Walk|B|Four-Seam Fastball|66|0|1|2|12|89
+Cesar Vargas|R|Alex Wood|R|Walk|F|Slider|67|1|1|2|8|78
+Cesar Vargas|R|Alex Wood|R|Walk|*B|Slider|68|1|2|2|14|79
+Cesar Vargas|R|Alex Wood|R|Walk|B|Four-Seam Fastball|69|2|2|2|12|88
+Cesar Vargas|R|Alex Wood|R|Walk|B|Four-Seam Fastball|70|3|2|2|11|86
+Cesar Vargas|R|Chase Utley|L|Strikeout|B|Four-Seam Fastball|71|0|0|2|11|87
+Cesar Vargas|R|Chase Utley|L|Strikeout|B|Four-Seam Fastball|72|1|0|2|14|89
+Cesar Vargas|R|Chase Utley|L|Strikeout|C|Four-Seam Fastball|73|2|0|2|4|87
+Cesar Vargas|R|Chase Utley|L|Strikeout|C|Four-Seam Fastball|74|2|1|2|1|88
+Cesar Vargas|R|Chase Utley|L|Strikeout|W|Slider|75|2|2|2|14|78
+Cesar Vargas|R|Corey Seager|L|Groundout|B|Four-Seam Fastball|76|0|0|0|9|88
+Cesar Vargas|R|Corey Seager|L|Groundout|B|Four-Seam Fastball|77|1|0|0|14|88
+Cesar Vargas|R|Corey Seager|L|Groundout|X|Four-Seam Fastball|78|2|0|0|13|88
+Cesar Vargas|R|Justin Turner|R|Groundout|F|Four-Seam Fastball|79|0|0|1|6|88
+Cesar Vargas|R|Justin Turner|R|Groundout|C|Four-Seam Fastball|80|0|1|1|1|89
+Cesar Vargas|R|Justin Turner|R|Groundout|B|Slider|81|0|2|1|14|80
+Cesar Vargas|R|Justin Turner|R|Groundout|B|Four-Seam Fastball|82|1|2|1|12|89
+Cesar Vargas|R|Justin Turner|R|Groundout|X|Four-Seam Fastball|83|2|2|1|14|88
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|C|Four-Seam Fastball|84|0|0|2|13|88
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|F|Slider|85|0|1|2|7|79
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|B|Four-Seam Fastball|86|0|2|2|11|89
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|B|Changeup|87|1|2|2|14|80
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|C|Slider|88|2|2|2|6|79
+Cesar Vargas|R|Yasiel Puig|R|Pop Out|X|Four-Seam Fastball|89|0|0|0|12|87
+Cesar Vargas|R|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|88
+Cesar Vargas|R|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|13|90
+Cesar Vargas|R|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|13|89
+Cesar Vargas|R|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|1|89
+Cesar Vargas|R|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|4|2|2|0|13|90
+Cesar Vargas|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|89
+Cesar Vargas|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|6|1|0|1|13|89
+Cesar Vargas|R|Trevor Story|R|Strikeout|S|Four-Seam Fastball|7|2|0|1|12|90
+Cesar Vargas|R|Trevor Story|R|Strikeout|S|Slider|8|2|1|1|14|79
+Cesar Vargas|R|Trevor Story|R|Strikeout|S|Slider|9|2|2|1|14|80
+Cesar Vargas|R|Carlos Gonzalez|L|Single|F|Four-Seam Fastball|10|0|0|2|12|90
+Cesar Vargas|R|Carlos Gonzalez|L|Single|D|Cutter|11|0|1|2|6|89
+Cesar Vargas|R|Nolan Arenado|R|Flyout|C|Four-Seam Fastball|12|0|0|2|12|88
+Cesar Vargas|R|Nolan Arenado|R|Flyout|B|Slider|13|0|1|2|14|80
+Cesar Vargas|R|Nolan Arenado|R|Flyout|B|Slider|14|1|1|2|14|79
+Cesar Vargas|R|Nolan Arenado|R|Flyout|S|Four-Seam Fastball|15|2|1|2|14|89
+Cesar Vargas|R|Nolan Arenado|R|Flyout|B|Slider|16|2|2|2|14|79
+Cesar Vargas|R|Nolan Arenado|R|Flyout|F|Four-Seam Fastball|17|3|2|2|12|90
+Cesar Vargas|R|Nolan Arenado|R|Flyout|X|Four-Seam Fastball|18|3|2|2|3|89
+Cesar Vargas|R|Mark Reynolds|R|Single|B|Four-Seam Fastball|19|0|0|0|12|88
+Cesar Vargas|R|Mark Reynolds|R|Single|B|Four-Seam Fastball|20|1|0|0|12|88
+Cesar Vargas|R|Mark Reynolds|R|Single|B|Four-Seam Fastball|21|2|0|0|14|87
+Cesar Vargas|R|Mark Reynolds|R|Single|C|Four-Seam Fastball|22|3|0|0|5|89
+Cesar Vargas|R|Mark Reynolds|R|Single|F|Four-Seam Fastball|23|3|1|0|6|89
+Cesar Vargas|R|Mark Reynolds|R|Single|F|Four-Seam Fastball|24|3|2|0|12|89
+Cesar Vargas|R|Mark Reynolds|R|Single|D|Four-Seam Fastball|25|3|2|0|9|89
+Cesar Vargas|R|Ryan Raburn|R|Flyout|C|Four-Seam Fastball|26|0|0|0|13|87
+Cesar Vargas|R|Ryan Raburn|R|Flyout|X|Four-Seam Fastball|27|0|1|0|8|89
+Cesar Vargas|R|Tony Wolters|L|Grounded Into DP|C|Four-Seam Fastball|28|0|0|1|13|89
+Cesar Vargas|R|Tony Wolters|L|Grounded Into DP|X|Four-Seam Fastball|29|0|1|1|7|88
+Cesar Vargas|R|Tyler Chatwood|R|Strikeout|B|Four-Seam Fastball|30|0|0|0|12|88
+Cesar Vargas|R|Tyler Chatwood|R|Strikeout|S|Four-Seam Fastball|31|1|0|0|14|88
+Cesar Vargas|R|Tyler Chatwood|R|Strikeout|F|Four-Seam Fastball|32|1|1|0|14|89
+Cesar Vargas|R|Tyler Chatwood|R|Strikeout|C|Four-Seam Fastball|33|1|2|0|11|90
+Cesar Vargas|R|Cristhian Adames|L|Groundout|B|Four-Seam Fastball|34|0|0|1|11|88
+Cesar Vargas|R|Cristhian Adames|L|Groundout|X|Changeup|35|1|0|1|4|80
+Cesar Vargas|R|Charlie Blackmon|L|Double|C|Changeup|36|0|0|2|8|81
+Cesar Vargas|R|Charlie Blackmon|L|Double|B|Curveball|37|0|1|2|13|74
+Cesar Vargas|R|Charlie Blackmon|L|Double|D|Four-Seam Fastball|38|1|1|2|5|89
+Cesar Vargas|R|Trevor Story|R|Walk|*B|Slider|39|0|0|2|14|79
+Cesar Vargas|R|Trevor Story|R|Walk|B|Four-Seam Fastball|40|1|0|2|14|89
+Cesar Vargas|R|Trevor Story|R|Walk|F|Four-Seam Fastball|41|2|0|2|14|89
+Cesar Vargas|R|Trevor Story|R|Walk|S|Four-Seam Fastball|42|2|1|2|3|89
+Cesar Vargas|R|Trevor Story|R|Walk|B|Four-Seam Fastball|43|2|2|2|14|90
+Cesar Vargas|R|Trevor Story|R|Walk|*B|Slider|44|3|2|2|14|80
+Cesar Vargas|R|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|45|0|0|2|11|87
+Cesar Vargas|R|Carlos Gonzalez|L|Groundout|X|Changeup|46|1|0|2|4|80
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|C|Slider|47|0|0|0|4|77
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|B|Curveball|48|0|1|0|14|75
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|F|Slider|49|1|1|0|14|80
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|X|Slider|50|1|2|0|3|80
+Cesar Vargas|R|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|51|0|0|1|14|90
+Cesar Vargas|R|Mark Reynolds|R|Groundout|C|Slider|52|1|0|1|6|78
+Cesar Vargas|R|Mark Reynolds|R|Groundout|X|Four-Seam Fastball|53|1|1|1|9|89
+Cesar Vargas|R|Ryan Raburn|R|Pop Out|C|Slider|54|0|0|2|5|78
+Cesar Vargas|R|Ryan Raburn|R|Pop Out|X|Four-Seam Fastball|55|0|1|2|4|89
+Cesar Vargas|R|Tony Wolters|L|Walk|B|Four-Seam Fastball|56|0|0|0|11|87
+Cesar Vargas|R|Tony Wolters|L|Walk|T|Changeup|57|1|0|0|8|79
+Cesar Vargas|R|Tony Wolters|L|Walk|B|Curveball|58|1|1|0|3|74
+Cesar Vargas|R|Tony Wolters|L|Walk|F|Changeup|59|2|1|0|13|79
+Cesar Vargas|R|Tony Wolters|L|Walk|B|Four-Seam Fastball|60|2|2|0|13|90
+Cesar Vargas|R|Tony Wolters|L|Walk|B|Four-Seam Fastball|61|3|2|0|13|89
+Cesar Vargas|R|Tyler Chatwood|R|Single|D|Four-Seam Fastball|62|0|0|0|5|87
+Cesar Vargas|R|Cristhian Adames|L|Forceout|E|Changeup|63|0|0|0|13|79
+Cesar Vargas|R|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|64|0|0|1|11|89
+Cesar Vargas|R|Charlie Blackmon|L|Walk|*B|Changeup|65|1|0|1|13|79
+Cesar Vargas|R|Charlie Blackmon|L|Walk|F|Four-Seam Fastball|66|2|0|1|11|89
+Cesar Vargas|R|Charlie Blackmon|L|Walk|B|Changeup|67|2|1|1|13|81
+Cesar Vargas|R|Charlie Blackmon|L|Walk|B|Four-Seam Fastball|68|3|1|1|11|89
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|B|Four-Seam Fastball|69|0|0|1|11|89
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|S|Four-Seam Fastball|70|1|0|1|9|89
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|B|Slider|71|1|1|1|14|80
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|B|Four-Seam Fastball|72|2|1|1|12|88
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|S|Four-Seam Fastball|73|3|1|1|12|89
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|F|Four-Seam Fastball|74|3|2|1|2|89
+Cesar Vargas|R|Trevor Story|R|Grounded Into DP|X|Four-Seam Fastball|75|3|2|1|8|89
+Cesar Vargas|R|Carlos Gonzalez|L|Groundout|X|Four-Seam Fastball|76|0|0|0|9|89
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|B|Four-Seam Fastball|77|0|0|1|12|88
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|B|Slider|78|1|0|1|14|78
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|F|Four-Seam Fastball|79|2|0|1|9|88
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|F|Four-Seam Fastball|80|2|1|1|3|89
+Cesar Vargas|R|Nolan Arenado|R|Pop Out|X|Four-Seam Fastball|81|2|2|1|7|89
+Cesar Vargas|R|Mark Reynolds|R|Flyout|B|Slider|82|0|0|2|14|80
+Cesar Vargas|R|Mark Reynolds|R|Flyout|B|Four-Seam Fastball|83|1|0|2|14|90
+Cesar Vargas|R|Mark Reynolds|R|Flyout|X|Four-Seam Fastball|84|2|0|2|5|89
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|89
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|89
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|1|88
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|3|2|1|0|14|90
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|F|Four-Seam Fastball|4|3|1|0|8|89
+Cesar Vargas|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|4|89
+Cesar Vargas|R|Jason Heyward|L|Lineout|F|Four-Seam Fastball|6|0|0|1|14|89
+Cesar Vargas|R|Jason Heyward|L|Lineout|S|Slider|7|0|1|1|8|77
+Cesar Vargas|R|Jason Heyward|L|Lineout|B|Slider|8|0|2|1|13|78
+Cesar Vargas|R|Jason Heyward|L|Lineout|B|Slider|9|1|2|1|14|80
+Cesar Vargas|R|Jason Heyward|L|Lineout|B|Four-Seam Fastball|10|2|2|1|12|89
+Cesar Vargas|R|Jason Heyward|L|Lineout|X|Four-Seam Fastball|11|3|2|1|11|89
+Cesar Vargas|R|Kris Bryant|R|Lineout|C|Two-Seam Fastball|12|0|0|2|6|90
+Cesar Vargas|R|Kris Bryant|R|Lineout|B|Four-Seam Fastball|13|0|1|2|12|92
+Cesar Vargas|R|Kris Bryant|R|Lineout|F|Four-Seam Fastball|14|1|1|2|12|91
+Cesar Vargas|R|Kris Bryant|R|Lineout|B|Slider|15|1|2|2|14|81
+Cesar Vargas|R|Kris Bryant|R|Lineout|B|Four-Seam Fastball|16|2|2|2|12|92
+Cesar Vargas|R|Kris Bryant|R|Lineout|X|Four-Seam Fastball|17|3|2|2|12|90
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|B|Curveball|18|0|0|0|11|73
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|C|Four-Seam Fastball|19|1|0|0|3|88
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|X|Four-Seam Fastball|20|1|1|0|14|89
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|21|0|0|1|13|90
+Cesar Vargas|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|22|1|0|1|1|89
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Curveball|23|1|1|1|13|74
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|24|2|1|1|11|90
+Cesar Vargas|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|25|3|1|1|4|90
+Cesar Vargas|R|Javier Baez|R|Single|D|Four-Seam Fastball|26|0|0|1|5|90
+Cesar Vargas|R|Addison Russell|R|Double|F|Four-Seam Fastball|27|0|0|1|9|89
+Cesar Vargas|R|Addison Russell|R|Double|B|Four-Seam Fastball|28|0|1|1|13|89
+Cesar Vargas|R|Addison Russell|R|Double|E|Four-Seam Fastball|29|1|1|1|12|90
+Cesar Vargas|R|David Ross|R|Walk|B|Four-Seam Fastball|30|0|0|2|12|90
+Cesar Vargas|R|David Ross|R|Walk|B|Slider|31|1|0|2|14|80
+Cesar Vargas|R|David Ross|R|Walk|C|Four-Seam Fastball|32|2|0|2|14|90
+Cesar Vargas|R|David Ross|R|Walk|B|Slider|33|2|1|2|14|77
+Cesar Vargas|R|David Ross|R|Walk|B|Four-Seam Fastball|34|3|1|2|11|90
+Cesar Vargas|R|Jon Lester|L|Forceout|B|Four-Seam Fastball|35|0|0|2|11|89
+Cesar Vargas|R|Jon Lester|L|Forceout|F|Four-Seam Fastball|36|1|0|2|4|90
+Cesar Vargas|R|Jon Lester|L|Forceout|B|Slider|37|1|1|2|11|78
+Cesar Vargas|R|Jon Lester|L|Forceout|X|Four-Seam Fastball|38|2|1|2|13|90
+Cesar Vargas|R|Dexter Fowler|L|Single|B|Four-Seam Fastball|39|0|0|0|11|88
+Cesar Vargas|R|Dexter Fowler|L|Single|D|Four-Seam Fastball|40|1|0|0|7|89
+Cesar Vargas|R|Jason Heyward|L|Single|B|Four-Seam Fastball|41|0|0|0|11|87
+Cesar Vargas|R|Jason Heyward|L|Single|C|Two-Seam Fastball|42|1|0|0|1|89
+Cesar Vargas|R|Jason Heyward|L|Single|D|Four-Seam Fastball|43|1|1|0|2|88
+Cesar Vargas|R|Kris Bryant|R|Double|S|Slider|44|0|0|0|14|80
+Cesar Vargas|R|Kris Bryant|R|Double|*B|Slider|45|0|1|0|14|82
+Cesar Vargas|R|Kris Bryant|R|Double|B|Two-Seam Fastball|46|1|1|0|14|90
+Cesar Vargas|R|Kris Bryant|R|Double|E|Four-Seam Fastball|47|2|1|0|2|89
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|S|Slider|48|0|0|0|8|80
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|F|Four-Seam Fastball|49|0|1|0|3|90
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|*B|Slider|50|0|2|0|14|79
+Cesar Vargas|R|Anthony Rizzo|L|Groundout|X|Four-Seam Fastball|51|1|2|0|11|90
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Slider|52|0|0|1|14|78
+Cesar Vargas|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|53|1|0|1|7|90
+Cesar Vargas|R|Ben Zobrist|L|Single|C|Slider|54|1|1|1|6|78
+Cesar Vargas|R|Ben Zobrist|L|Single|E|Four-Seam Fastball|55|1|2|1|3|90
+Cesar Vargas|R|Javier Baez|R|Double|C|Four-Seam Fastball|56|0|0|1|2|89
+Cesar Vargas|R|Javier Baez|R|Double|D|Changeup|57|0|1|1|14|80
+Cesar Vargas|R|Addison Russell|R|Intent Walk|I|Intentional Ball|58|0|0|1|12|73
+Cesar Vargas|R|Addison Russell|R|Intent Walk|I|Intentional Ball|59|0|1|1|12|72
+Cesar Vargas|R|Addison Russell|R|Intent Walk|I|Intentional Ball|60|0|2|1|12|73
+Cesar Vargas|R|Addison Russell|R|Intent Walk|I|Intentional Ball|61|0|2|1|12|73
+Cesar Vargas|R|David Ross|R|Sac Fly|B|Slider|62|0|0|1|14|79
+Cesar Vargas|R|David Ross|R|Sac Fly|B|Four-Seam Fastball|63|1|0|1|14|90
+Cesar Vargas|R|David Ross|R|Sac Fly|B|Four-Seam Fastball|64|2|0|1|14|90
+Cesar Vargas|R|David Ross|R|Sac Fly|C|Four-Seam Fastball|65|3|0|1|14|88
+Cesar Vargas|R|David Ross|R|Sac Fly|E|Four-Seam Fastball|66|3|1|1|14|89
+Cesar Vargas|R|Jon Lester|L|Flyout|X|Four-Seam Fastball|67|0|0|2|5|89
+Cesar Vargas|R|Dexter Fowler|L|Walk|B|Curveball|68|0|0|0|13|74
+Cesar Vargas|R|Dexter Fowler|L|Walk|F|Slider|69|1|0|0|8|79
+Cesar Vargas|R|Dexter Fowler|L|Walk|B|Slider|70|1|1|0|13|78
+Cesar Vargas|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|71|2|1|0|12|88
+Cesar Vargas|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|72|3|1|0|11|87
+Cesar Vargas|R|Jason Heyward|L|Forceout|B|Slider|73|0|0|0|11|76
+Cesar Vargas|R|Jason Heyward|L|Forceout|S|Four-Seam Fastball|74|1|0|0|11|88
+Cesar Vargas|R|Jason Heyward|L|Forceout|X|Slider|75|1|1|0|7|79
+Cesar Vargas|R|Kris Bryant|R|Groundout|F|Four-Seam Fastball|76|0|0|1|2|88
+Cesar Vargas|R|Kris Bryant|R|Groundout|B|Changeup|77|0|1|1|11|78
+Cesar Vargas|R|Kris Bryant|R|Groundout|B|Slider|78|1|1|1|13|79
+Cesar Vargas|R|Kris Bryant|R|Groundout|X|Four-Seam Fastball|79|2|1|1|6|89
+Cesar Vargas|R|Anthony Rizzo|L|Single|C|Four-Seam Fastball|80|0|0|2|11|88
+Cesar Vargas|R|Anthony Rizzo|L|Single|*B|Slider|81|0|1|2|14|79
+Cesar Vargas|R|Anthony Rizzo|L|Single|B|Four-Seam Fastball|82|1|1|2|14|88
+Cesar Vargas|R|Anthony Rizzo|L|Single|B|Slider|83|2|1|2|13|79
+Cesar Vargas|R|Anthony Rizzo|L|Single|F|Four-Seam Fastball|84|3|1|2|6|89
+Cesar Vargas|R|Anthony Rizzo|L|Single|D|Four-Seam Fastball|85|3|2|2|13|88
+Cesar Vargas|R|Ben Zobrist|L|Single|C|Slider|86|0|0|2|13|78
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Slider|87|0|1|2|14|78
+Cesar Vargas|R|Ben Zobrist|L|Single|B|Curveball|88|1|1|2|12|75
+Cesar Vargas|R|Ben Zobrist|L|Single|E|Four-Seam Fastball|89|2|1|2|8|87
+Cesar Vargas|R|Javier Baez|R|Flyout|B|Four-Seam Fastball|90|0|0|2|11|91
+Cesar Vargas|R|Javier Baez|R|Flyout|X|Four-Seam Fastball|91|1|0|2|9|89
+Cesar Vargas|R|Jonathan Villar|L|Double|C|Four-Seam Fastball|0|0|0|0|8|88
+Cesar Vargas|R|Jonathan Villar|L|Double|B|Four-Seam Fastball|1|0|1|0|14|87
+Cesar Vargas|R|Jonathan Villar|L|Double|C|Slider|2|1|1|0|11|78
+Cesar Vargas|R|Jonathan Villar|L|Double|B|Curveball|3|1|2|0|13|77
+Cesar Vargas|R|Jonathan Villar|L|Double|F|Four-Seam Fastball|4|2|2|0|14|88
+Cesar Vargas|R|Jonathan Villar|L|Double|D|Slider|5|2|2|0|6|79
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|6|0|0|0|7|89
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|7|0|1|0|13|88
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|L|Slider|8|1|1|0|13|78
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|*B|Curveball|9|1|2|0|13|76
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|10|2|2|0|13|88
+Cesar Vargas|R|Jonathan Lucroy|R|Fielders Choice|C|Four-Seam Fastball|11|0|0|1|2|88
+Cesar Vargas|R|Jonathan Lucroy|R|Fielders Choice|D|Four-Seam Fastball|12|0|1|1|9|88
+Cesar Vargas|R|Chris Carter|R|Strikeout|S|Slider|13|0|0|1|8|77
+Cesar Vargas|R|Chris Carter|R|Strikeout|B|Four-Seam Fastball|14|0|1|1|14|89
+Cesar Vargas|R|Chris Carter|R|Strikeout|B|Slider|15|1|1|1|14|77
+Cesar Vargas|R|Chris Carter|R|Strikeout|S|Four-Seam Fastball|16|2|1|1|9|88
+Cesar Vargas|R|Chris Carter|R|Strikeout|*B|Slider|17|2|2|1|14|79
+Cesar Vargas|R|Chris Carter|R|Strikeout|C|Four-Seam Fastball|18|3|2|1|6|88
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|C|Curveball|19|0|0|2|4|72
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|20|0|1|2|2|86
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|21|0|2|2|11|88
+Cesar Vargas|R|Alex Presley|L|Flyout|C|Slider|22|0|0|0|5|77
+Cesar Vargas|R|Alex Presley|L|Flyout|X|Four-Seam Fastball|23|0|1|0|5|88
+Cesar Vargas|R|Hernan Perez|R|Single|B|Four-Seam Fastball|24|0|0|1|14|88
+Cesar Vargas|R|Hernan Perez|R|Single|F|Four-Seam Fastball|25|1|0|1|14|90
+Cesar Vargas|R|Hernan Perez|R|Single|S|Curveball|26|1|1|1|14|75
+Cesar Vargas|R|Hernan Perez|R|Single|B|Slider|27|1|2|1|14|79
+Cesar Vargas|R|Hernan Perez|R|Single|B|Four-Seam Fastball|28|2|2|1|13|89
+Cesar Vargas|R|Hernan Perez|R|Single|D|Four-Seam Fastball|29|3|2|1|12|90
+Cesar Vargas|R|Ramon Flores|L|Double|B|Four-Seam Fastball|30|0|0|1|13|88
+Cesar Vargas|R|Ramon Flores|L|Double|C|Four-Seam Fastball|31|1|0|1|7|88
+Cesar Vargas|R|Ramon Flores|L|Double|D|Four-Seam Fastball|32|1|1|1|11|88
+Cesar Vargas|R|Zach Davies|R|Single|W|Slider|33|0|0|1|14|79
+Cesar Vargas|R|Zach Davies|R|Single|M|Slider|34|0|1|1|14|78
+Cesar Vargas|R|Zach Davies|R|Single|*B|Curveball|35|0|2|1|14|76
+Cesar Vargas|R|Zach Davies|R|Single|*B|Slider|36|1|2|1|14|77
+Cesar Vargas|R|Zach Davies|R|Single|D|Four-Seam Fastball|37|2|2|1|6|90
+Cesar Vargas|R|Jonathan Villar|L|Forceout|C|Four-Seam Fastball|38|0|0|1|1|88
+Cesar Vargas|R|Jonathan Villar|L|Forceout|C|Four-Seam Fastball|39|0|1|1|5|89
+Cesar Vargas|R|Jonathan Villar|L|Forceout|B|Four-Seam Fastball|40|0|2|1|12|88
+Cesar Vargas|R|Jonathan Villar|L|Forceout|B|Four-Seam Fastball|41|1|2|1|12|89
+Cesar Vargas|R|Jonathan Villar|L|Forceout|X|Four-Seam Fastball|42|2|2|1|4|89
+Cesar Vargas|R|Scooter Gennett|L|Groundout|X|Slider|43|0|0|2|14|78
+Cesar Vargas|R|Jonathan Lucroy|R|Lineout|C|Curveball|44|0|0|0|1|75
+Cesar Vargas|R|Jonathan Lucroy|R|Lineout|B|Slider|45|0|1|0|12|77
+Cesar Vargas|R|Jonathan Lucroy|R|Lineout|X|Four-Seam Fastball|46|1|1|0|4|89
+Cesar Vargas|R|Chris Carter|R|Home Run|T|Slider|47|0|0|1|8|78
+Cesar Vargas|R|Chris Carter|R|Home Run|E|Four-Seam Fastball|48|0|1|1|8|89
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|C|Slider|49|0|0|1|13|78
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|50|0|1|1|14|90
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|W|Slider|51|0|2|1|14|80
+Cesar Vargas|R|Alex Presley|L|Single|C|Four-Seam Fastball|52|0|0|2|7|91
+Cesar Vargas|R|Alex Presley|L|Single|B|Four-Seam Fastball|53|0|1|2|14|90
+Cesar Vargas|R|Alex Presley|L|Single|F|Four-Seam Fastball|54|1|1|2|12|89
+Cesar Vargas|R|Alex Presley|L|Single|B|Slider|55|1|2|2|14|79
+Cesar Vargas|R|Alex Presley|L|Single|F|Four-Seam Fastball|56|2|2|2|7|89
+Cesar Vargas|R|Alex Presley|L|Single|D|Curveball|57|2|2|2|4|74
+Cesar Vargas|R|Hernan Perez|R|Lineout|B|Four-Seam Fastball|58|0|0|2|11|87
+Cesar Vargas|R|Hernan Perez|R|Lineout|X|Two-Seam Fastball|59|1|0|2|4|86
+Cesar Vargas|R|Ramon Flores|L|Pop Out|C|Four-Seam Fastball|60|0|0|0|1|88
+Cesar Vargas|R|Ramon Flores|L|Pop Out|F|Four-Seam Fastball|61|0|1|0|7|88
+Cesar Vargas|R|Ramon Flores|L|Pop Out|B|Four-Seam Fastball|62|0|2|0|14|88
+Cesar Vargas|R|Ramon Flores|L|Pop Out|B|Curveball|63|1|2|0|14|76
+Cesar Vargas|R|Ramon Flores|L|Pop Out|F|Four-Seam Fastball|64|2|2|0|11|89
+Cesar Vargas|R|Ramon Flores|L|Pop Out|F|Slider|65|2|2|0|6|78
+Cesar Vargas|R|Ramon Flores|L|Pop Out|X|Four-Seam Fastball|66|2|2|0|2|88
+Cesar Vargas|R|Zach Davies|R|Groundout|X|Four-Seam Fastball|67|0|0|1|4|89
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|68|0|0|2|14|88
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|C|Changeup|69|1|0|2|4|79
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|70|1|1|2|2|89
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|71|1|2|2|11|89
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|72|2|2|2|1|88
+Cesar Vargas|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|73|2|2|2|14|89
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|74|0|0|0|4|87
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|B|Changeup|75|0|1|0|11|78
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|76|1|1|0|13|88
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|B|Slider|77|2|1|0|11|76
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|78|3|1|0|11|88
+Cesar Vargas|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|79|3|2|0|1|88
+Cesar Vargas|R|Jonathan Lucroy|R|Home Run|F|Four-Seam Fastball|80|0|0|1|6|88
+Cesar Vargas|R|Jonathan Lucroy|R|Home Run|B|Curveball|81|0|1|1|14|75
+Cesar Vargas|R|Jonathan Lucroy|R|Home Run|E|Four-Seam Fastball|82|1|1|1|2|88
+Cesar Vargas|R|Chris Carter|R|Single|B|Slider|83|0|0|1|14|80
+Cesar Vargas|R|Chris Carter|R|Single|B|Slider|84|1|0|1|14|79
+Cesar Vargas|R|Chris Carter|R|Single|C|Four-Seam Fastball|85|2|0|1|14|90
+Cesar Vargas|R|Chris Carter|R|Single|B|Four-Seam Fastball|86|2|1|1|13|88
+Cesar Vargas|R|Chris Carter|R|Single|D|Four-Seam Fastball|87|3|1|1|6|89
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|L|Four-Seam Fastball|88|0|0|1|9|87
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|89|0|1|1|9|87
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|B|Two-Seam Fastball|90|0|2|1|12|87
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|*B|Slider|91|1|2|1|14|76
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|F|Four-Seam Fastball|92|2|2|1|11|88
+Cesar Vargas|R|Kirk Nieuwenhuis|L|Strikeout|S|Four-Seam Fastball|93|2|2|1|14|88
+Cesar Vargas|R|Alex Presley|L|Groundout|S|Four-Seam Fastball|94|0|0|2|14|87
+Cesar Vargas|R|Alex Presley|L|Groundout|X|Four-Seam Fastball|95|0|1|2|7|87
+Cesar Vargas|R|Chase Utley|L|Groundout|X|Four-Seam Fastball|0|0|0|0|14|91
+Cesar Vargas|R|Corey Seager|L|Groundout|X|Four-Seam Fastball|1|0|0|1|8|93
+Cesar Vargas|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|2|0|0|2|5|92
+Cesar Vargas|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|3|0|1|2|14|92
+Cesar Vargas|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|4|1|1|2|14|92
+Cesar Vargas|R|Justin Turner|R|Strikeout|S|Four-Seam Fastball|5|1|2|2|4|91
+Cesar Vargas|R|Adrian Gonzalez|L|Single|B|Four-Seam Fastball|6|0|0|0|14|91
+Cesar Vargas|R|Adrian Gonzalez|L|Single|D|Four-Seam Fastball|7|1|0|0|7|91
+Cesar Vargas|R|Trayce Thompson|R|Forceout|C|Four-Seam Fastball|8|0|0|0|6|90
+Cesar Vargas|R|Trayce Thompson|R|Forceout|X|Four-Seam Fastball|9|0|1|0|14|91
+Cesar Vargas|R|Joc Pederson|L|Single|D|Four-Seam Fastball|10|0|0|1|5|89
+Cesar Vargas|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|11|90
+Cesar Vargas|R|Yasiel Puig|R|Strikeout|S|Four-Seam Fastball|12|1|0|1|2|92
+Cesar Vargas|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|13|1|1|1|13|90
+Cesar Vargas|R|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|14|2|1|1|8|91
+Cesar Vargas|R|Yasiel Puig|R|Strikeout|C|Four-Seam Fastball|15|2|2|1|13|90
+Cesar Vargas|R|Yasmani Grandal|L|Groundout|B|Curveball|16|0|0|2|13|74
+Cesar Vargas|R|Yasmani Grandal|L|Groundout|B|Four-Seam Fastball|17|1|0|2|11|89
+Cesar Vargas|R|Yasmani Grandal|L|Groundout|C|Slider|18|2|0|2|4|79
+Cesar Vargas|R|Yasmani Grandal|L|Groundout|F|Four-Seam Fastball|19|2|1|2|2|89
+Cesar Vargas|R|Yasmani Grandal|L|Groundout|X|Slider|20|2|2|2|9|79
+Cesar Vargas|R|Alex Wood|R|Groundout|B|Four-Seam Fastball|21|0|0|0|14|89
+Cesar Vargas|R|Alex Wood|R|Groundout|X|Four-Seam Fastball|22|1|0|0|14|89
+Cesar Vargas|R|Chase Utley|L|Walk|B|Cutter|23|0|0|1|14|90
+Cesar Vargas|R|Chase Utley|L|Walk|B|Four-Seam Fastball|24|1|0|1|14|91
+Cesar Vargas|R|Chase Utley|L|Walk|B|Cutter|25|2|0|1|11|89
+Cesar Vargas|R|Chase Utley|L|Walk|C|Four-Seam Fastball|26|3|0|1|9|89
+Cesar Vargas|R|Chase Utley|L|Walk|C|Four-Seam Fastball|27|3|1|1|9|90
+Cesar Vargas|R|Chase Utley|L|Walk|F|Four-Seam Fastball|28|3|2|1|9|90
+Cesar Vargas|R|Chase Utley|L|Walk|B|Four-Seam Fastball|29|3|2|1|11|88
+Cesar Vargas|R|Corey Seager|L|Forceout|F|Four-Seam Fastball|30|0|0|1|2|91
+Cesar Vargas|R|Corey Seager|L|Forceout|F|Four-Seam Fastball|31|0|1|1|4|90
+Cesar Vargas|R|Corey Seager|L|Forceout|B|Four-Seam Fastball|32|0|2|1|11|90
+Cesar Vargas|R|Corey Seager|L|Forceout|B|Slider|33|1|2|1|11|78
+Cesar Vargas|R|Corey Seager|L|Forceout|B|Four-Seam Fastball|34|2|2|1|11|89
+Cesar Vargas|R|Corey Seager|L|Forceout|X|Four-Seam Fastball|35|3|2|1|4|89
+Cesar Vargas|R|Justin Turner|R|Pop Out|X|Four-Seam Fastball|36|0|0|2|13|90
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|C|Slider|37|0|0|0|2|78
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|B|Slider|38|0|1|0|14|80
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|F|Cutter|39|1|1|0|11|89
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|B|Slider|40|1|2|0|14|80
+Cesar Vargas|R|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|41|2|2|0|14|89
+Cesar Vargas|R|Trayce Thompson|R|Groundout|C|Slider|42|0|0|1|7|82
+Cesar Vargas|R|Trayce Thompson|R|Groundout|X|Four-Seam Fastball|43|0|1|1|13|90
+Cesar Vargas|R|Joc Pederson|L|Groundout|C|Slider|44|0|0|2|13|80
+Cesar Vargas|R|Joc Pederson|L|Groundout|B|Slider|45|0|1|2|13|79
+Cesar Vargas|R|Joc Pederson|L|Groundout|X|Four-Seam Fastball|46|1|1|2|6|90
+Cesar Vargas|R|Yasiel Puig|R|Lineout|F|Cutter|47|0|0|0|13|88
+Cesar Vargas|R|Yasiel Puig|R|Lineout|C|Changeup|48|0|1|0|13|81
+Cesar Vargas|R|Yasiel Puig|R|Lineout|B|Four-Seam Fastball|49|0|2|0|13|89
+Cesar Vargas|R|Yasiel Puig|R|Lineout|B|Slider|50|1|2|0|14|79
+Cesar Vargas|R|Yasiel Puig|R|Lineout|B|Cutter|51|2|2|0|14|89
+Cesar Vargas|R|Yasiel Puig|R|Lineout|F|Cutter|52|3|2|0|7|88
+Cesar Vargas|R|Yasiel Puig|R|Lineout|F|Four-Seam Fastball|53|3|2|0|13|90
+Cesar Vargas|R|Yasiel Puig|R|Lineout|X|Four-Seam Fastball|54|3|2|0|5|91
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Cutter|55|0|0|1|12|90
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|C|Slider|56|1|0|1|7|80
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|57|1|1|1|9|90
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Cutter|58|1|2|1|11|89
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|C|Cutter|59|2|2|1|11|90
+Cesar Vargas|R|Alex Wood|R|Strikeout|F|Four-Seam Fastball|60|0|0|2|2|90
+Cesar Vargas|R|Alex Wood|R|Strikeout|S|Slider|61|0|1|2|13|79
+Cesar Vargas|R|Alex Wood|R|Strikeout|B|Cutter|62|0|2|2|14|84
+Cesar Vargas|R|Alex Wood|R|Strikeout|B|Four-Seam Fastball|63|1|2|2|12|91
+Cesar Vargas|R|Alex Wood|R|Strikeout|C|Four-Seam Fastball|64|2|2|2|14|88
+Cesar Vargas|R|Chase Utley|L|Groundout|B|Curveball|65|0|0|0|13|75
+Cesar Vargas|R|Chase Utley|L|Groundout|F|Four-Seam Fastball|66|1|0|0|13|86
+Cesar Vargas|R|Chase Utley|L|Groundout|B|Slider|67|1|1|0|13|77
+Cesar Vargas|R|Chase Utley|L|Groundout|B|Four-Seam Fastball|68|2|1|0|11|88
+Cesar Vargas|R|Chase Utley|L|Groundout|X|Four-Seam Fastball|69|3|1|0|8|88
+Cesar Vargas|R|Corey Seager|L|Strikeout|B|Curveball|70|0|0|1|13|73
+Cesar Vargas|R|Corey Seager|L|Strikeout|T|Changeup|71|1|0|1|8|81
+Cesar Vargas|R|Corey Seager|L|Strikeout|F|Four-Seam Fastball|72|1|1|1|14|87
+Cesar Vargas|R|Corey Seager|L|Strikeout|S|Slider|73|1|2|1|8|78
+Cesar Vargas|R|Justin Turner|R|Groundout|C|Four-Seam Fastball|74|0|0|2|5|88
+Cesar Vargas|R|Justin Turner|R|Groundout|X|Four-Seam Fastball|75|0|1|2|13|87
+Cesar Vargas|R|Adrian Gonzalez|L|Single|D|Cutter|76|0|0|0|7|85
+Cesar Vargas|R|Trayce Thompson|R|Home Run|*B|Four-Seam Fastball|77|0|0|0|14|87
+Cesar Vargas|R|Trayce Thompson|R|Home Run|C|Four-Seam Fastball|78|1|0|0|14|86
+Cesar Vargas|R|Trayce Thompson|R|Home Run|F|Slider|79|1|1|0|8|77
+Cesar Vargas|R|Trayce Thompson|R|Home Run|E|Four-Seam Fastball|80|1|2|0|4|86
+Cesar Vargas|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|81|0|0|0|12|90
+Cesar Vargas|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|82|1|0|0|12|88
+Cesar Vargas|R|Joc Pederson|L|Lineout|C|Four-Seam Fastball|83|2|0|0|7|86
+Cesar Vargas|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|84|2|1|0|12|87
+Cesar Vargas|R|Joc Pederson|L|Lineout|C|Four-Seam Fastball|85|3|1|0|1|87
+Cesar Vargas|R|Joc Pederson|L|Lineout|X|Four-Seam Fastball|86|3|2|0|13|86
+Cesar Vargas|R|Yasiel Puig|R|Groundout|C|Four-Seam Fastball|87|0|0|1|9|88
+Cesar Vargas|R|Yasiel Puig|R|Groundout|B|Changeup|88|0|1|1|13|77
+Cesar Vargas|R|Yasiel Puig|R|Groundout|B|Changeup|89|1|1|1|13|81
+Cesar Vargas|R|Yasiel Puig|R|Groundout|X|Four-Seam Fastball|90|2|1|1|6|87
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|S|Slider|91|0|0|2|14|78
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|B|Curveball|92|0|1|2|14|75
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|93|1|1|2|9|86
+Cesar Vargas|R|Yasmani Grandal|L|Strikeout|S|Slider|94|1|2|2|13|79
+Cesar Vargas|R|Jean Segura|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|88
+Cesar Vargas|R|Jean Segura|R|Strikeout|T|Four-Seam Fastball|1|0|1|0|9|90
+Cesar Vargas|R|Jean Segura|R|Strikeout|W|Slider|2|0|2|0|14|79
+Cesar Vargas|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|3|0|0|1|13|90
+Cesar Vargas|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|4|1|0|1|13|90
+Cesar Vargas|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|5|2|0|1|13|89
+Cesar Vargas|R|Michael Bourn|L|Walk|C|Four-Seam Fastball|6|3|0|1|13|89
+Cesar Vargas|R|Michael Bourn|L|Walk|B|Four-Seam Fastball|7|3|1|1|13|89
+Cesar Vargas|R|Paul Goldschmidt|R|Double|C|Four-Seam Fastball|8|0|0|1|14|89
+Cesar Vargas|R|Paul Goldschmidt|R|Double|D|Four-Seam Fastball|9|0|1|1|14|87
+Cesar Vargas|R|Jake Lamb|L|Single|B|Slider|10|0|0|1|13|76
+Cesar Vargas|R|Jake Lamb|L|Single|B|Four-Seam Fastball|11|1|0|1|13|89
+Cesar Vargas|R|Jake Lamb|L|Single|C|Four-Seam Fastball|12|2|0|1|13|89
+Cesar Vargas|R|Jake Lamb|L|Single|E|Four-Seam Fastball|13|2|1|1|6|89
+Cesar Vargas|R|Welington Castillo|R|Forceout|B|Four-Seam Fastball|14|0|0|1|14|90
+Cesar Vargas|R|Welington Castillo|R|Forceout|S|Four-Seam Fastball|15|1|0|1|14|89
+Cesar Vargas|R|Welington Castillo|R|Forceout|X|Curveball|16|1|1|1|14|73
+Cesar Vargas|R|Brandon Drury|R|Forceout|B|Four-Seam Fastball|17|0|0|2|14|90
+Cesar Vargas|R|Brandon Drury|R|Forceout|X|Four-Seam Fastball|18|1|0|2|9|89
+Cesar Vargas|R|Chris Owings|R|Single|F|Four-Seam Fastball|19|0|0|0|14|90
+Cesar Vargas|R|Chris Owings|R|Single|B|Curveball|20|0|1|0|14|75
+Cesar Vargas|R|Chris Owings|R|Single|D|Four-Seam Fastball|21|1|1|0|14|89
+Cesar Vargas|R|Zack Greinke|R|Single|C|Four-Seam Fastball|22|0|0|0|13|90
+Cesar Vargas|R|Zack Greinke|R|Single|B|Four-Seam Fastball|23|0|1|0|11|90
+Cesar Vargas|R|Zack Greinke|R|Single|L|Four-Seam Fastball|24|1|1|0|4|89
+Cesar Vargas|R|Zack Greinke|R|Single|D|Slider|25|1|2|0|14|78
+Cesar Vargas|R|Nick Ahmed|R|Walk|B|Slider|26|0|0|0|3|79
+Cesar Vargas|R|Nick Ahmed|R|Walk|F|Four-Seam Fastball|27|1|0|0|8|88
+Cesar Vargas|R|Nick Ahmed|R|Walk|B|Slider|28|1|1|0|14|80
+Cesar Vargas|R|Nick Ahmed|R|Walk|F|Four-Seam Fastball|29|2|1|0|8|88
+Cesar Vargas|R|Nick Ahmed|R|Walk|F|Slider|30|2|2|0|6|78
+Cesar Vargas|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|31|2|2|0|13|89
+Cesar Vargas|R|Nick Ahmed|R|Walk|F|Slider|32|3|2|0|14|79
+Cesar Vargas|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|33|3|2|0|13|88
+Cesar Vargas|R|Jean Segura|R|Sac Fly|*B|Slider|34|0|0|0|14|78
+Cesar Vargas|R|Jean Segura|R|Sac Fly|S|Four-Seam Fastball|35|1|0|0|3|89
+Cesar Vargas|R|Jean Segura|R|Sac Fly|F|Four-Seam Fastball|36|1|1|0|14|90
+Cesar Vargas|R|Jean Segura|R|Sac Fly|*B|Slider|37|1|2|0|14|78
+Cesar Vargas|R|Jean Segura|R|Sac Fly|F|Four-Seam Fastball|38|2|2|0|1|89
+Cesar Vargas|R|Jean Segura|R|Sac Fly|B|Four-Seam Fastball|39|2|2|0|12|90
+Cesar Vargas|R|Jean Segura|R|Sac Fly|F|Four-Seam Fastball|40|3|2|0|2|90
+Cesar Vargas|R|Jean Segura|R|Sac Fly|F|Four-Seam Fastball|41|3|2|0|9|90
+Cesar Vargas|R|Jean Segura|R|Sac Fly|E|Four-Seam Fastball|42|3|2|0|4|89
+Cesar Vargas|R|Michael Bourn|L|Single|C|Slider|43|0|0|1|1|76
+Cesar Vargas|R|Michael Bourn|L|Single|*B|Curveball|44|0|1|1|14|74
+Cesar Vargas|R|Michael Bourn|L|Single|B|Four-Seam Fastball|45|1|1|1|13|90
+Cesar Vargas|R|Michael Bourn|L|Single|F|Changeup|46|2|1|1|11|81
+Cesar Vargas|R|Michael Bourn|L|Single|E|Four-Seam Fastball|47|2|2|1|1|89
+Cesar Vargas|R|Paul Goldschmidt|R|Home Run|B|Four-Seam Fastball|48|0|0|1|11|89
+Cesar Vargas|R|Paul Goldschmidt|R|Home Run|E|Four-Seam Fastball|49|1|0|1|1|88
+Cesar Vargas|R|Jake Lamb|L|Groundout|C|Four-Seam Fastball|50|0|0|1|2|92
+Cesar Vargas|R|Jake Lamb|L|Groundout|B|Two-Seam Fastball|51|0|1|1|14|85
+Cesar Vargas|R|Jake Lamb|L|Groundout|S|Four-Seam Fastball|52|1|1|1|11|91
+Cesar Vargas|R|Jake Lamb|L|Groundout|F|Four-Seam Fastball|53|1|2|1|13|91
+Cesar Vargas|R|Jake Lamb|L|Groundout|B|Slider|54|1|2|1|14|81
+Cesar Vargas|R|Jake Lamb|L|Groundout|F|Four-Seam Fastball|55|2|2|1|4|91
+Cesar Vargas|R|Jake Lamb|L|Groundout|B|Two-Seam Fastball|56|2|2|1|12|90
+Cesar Vargas|R|Jake Lamb|L|Groundout|F|Two-Seam Fastball|57|3|2|1|4|84
+Cesar Vargas|R|Jake Lamb|L|Groundout|F|Four-Seam Fastball|58|3|2|1|12|90
+Cesar Vargas|R|Jake Lamb|L|Groundout|F|Four-Seam Fastball|59|3|2|1|4|90
+Cesar Vargas|R|Jake Lamb|L|Groundout|X|Four-Seam Fastball|60|3|2|1|13|91

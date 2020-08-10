@@ -1,0 +1,693 @@
+Tony Gonsolin|R|Jarrod Dyson|L|Single|S|Four-Seam Fastball|0|0|0|0|13|95
+Tony Gonsolin|R|Jarrod Dyson|L|Single|F|Splitter|1|0|1|0|13|87
+Tony Gonsolin|R|Jarrod Dyson|L|Single|B|Splitter|2|0|2|0|13|87
+Tony Gonsolin|R|Jarrod Dyson|L|Single|D|Four-Seam Fastball|3|1|2|0|13|95
+Tony Gonsolin|R|Tim Locastro|R|Single|C|Four-Seam Fastball|4|0|0|0|1|94
+Tony Gonsolin|R|Tim Locastro|R|Single|*B|Slider|5|0|1|0|14|91
+Tony Gonsolin|R|Tim Locastro|R|Single|C|Four-Seam Fastball|6|1|1|0|8|95
+Tony Gonsolin|R|Tim Locastro|R|Single|D|Four-Seam Fastball|7|1|2|0|14|96
+Tony Gonsolin|R|David Peralta|L|Field Error|B|Splitter|8|0|0|0|11|86
+Tony Gonsolin|R|David Peralta|L|Field Error|C|Splitter|9|1|0|0|4|87
+Tony Gonsolin|R|David Peralta|L|Field Error|W|Slider|10|1|1|0|14|91
+Tony Gonsolin|R|David Peralta|L|Field Error|B|Splitter|11|1|2|0|13|86
+Tony Gonsolin|R|David Peralta|L|Field Error|E|Slider|12|2|2|0|14|89
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|*B|Curveball|13|0|0|0|13|81
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|B|Curveball|14|1|0|0|13|81
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|F|Splitter|15|2|0|0|13|85
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|S|Four-Seam Fastball|16|2|1|0|11|95
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|E|Four-Seam Fastball|17|2|2|0|6|94
+Tony Gonsolin|R|Jake Lamb|L|Groundout|B|Four-Seam Fastball|18|0|0|0|13|95
+Tony Gonsolin|R|Jake Lamb|L|Groundout|B|Splitter|19|1|0|0|11|86
+Tony Gonsolin|R|Jake Lamb|L|Groundout|C|Slider|20|2|0|0|1|90
+Tony Gonsolin|R|Jake Lamb|L|Groundout|F|Slider|21|2|1|0|14|90
+Tony Gonsolin|R|Jake Lamb|L|Groundout|X|Splitter|22|2|2|0|13|87
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|S|Four-Seam Fastball|23|0|0|1|11|95
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|B|Splitter|24|0|1|1|11|87
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|B|Slider|25|1|1|1|14|90
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|B|Splitter|26|2|1|1|14|86
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|X|Four-Seam Fastball|27|3|1|1|8|94
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|B|Curveball|28|0|0|2|14|83
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|B|Four-Seam Fastball|29|1|0|2|12|94
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|30|2|0|2|6|94
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|31|2|1|2|5|94
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|S|Splitter|32|2|2|2|1|87
+Tony Gonsolin|R|Caleb Joseph|R|Field Error|B|Slider|33|0|0|0|14|88
+Tony Gonsolin|R|Caleb Joseph|R|Field Error|S|Slider|34|1|0|0|14|88
+Tony Gonsolin|R|Caleb Joseph|R|Field Error|D|Four-Seam Fastball|35|1|1|0|5|93
+Tony Gonsolin|R|Taylor Clarke|R|Forceout|X|Four-Seam Fastball|36|0|0|0|4|92
+Tony Gonsolin|R|Jarrod Dyson|L|Double|S|Slider|37|0|0|1|14|90
+Tony Gonsolin|R|Jarrod Dyson|L|Double|F|Four-Seam Fastball|38|0|1|1|7|94
+Tony Gonsolin|R|Jarrod Dyson|L|Double|B|Splitter|39|0|2|1|13|87
+Tony Gonsolin|R|Jarrod Dyson|L|Double|D|Splitter|40|1|2|1|13|85
+Tony Gonsolin|R|Tim Locastro|R|Sac Fly|C|Curveball|41|0|0|1|5|81
+Tony Gonsolin|R|Tim Locastro|R|Sac Fly|F|Four-Seam Fastball|42|0|1|1|12|94
+Tony Gonsolin|R|Tim Locastro|R|Sac Fly|E|Splitter|43|0|2|1|9|86
+Tony Gonsolin|R|David Peralta|L|Flyout|X|Splitter|44|0|0|2|8|87
+Tony Gonsolin|R|Eduardo Escobar|L|Groundout|C|Four-Seam Fastball|45|0|0|0|8|93
+Tony Gonsolin|R|Eduardo Escobar|L|Groundout|B|Splitter|46|0|1|0|11|87
+Tony Gonsolin|R|Eduardo Escobar|L|Groundout|F|Splitter|47|1|1|0|9|87
+Tony Gonsolin|R|Eduardo Escobar|L|Groundout|X|Splitter|48|1|2|0|7|86
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|49|0|0|1|13|93
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|B|Splitter|50|1|0|1|13|86
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|B|Slider|51|2|0|1|14|90
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|52|3|0|1|8|94
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|53|3|1|1|7|94
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|54|3|2|1|4|94
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|B|Slider|55|0|0|2|14|89
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|C|Four-Seam Fastball|56|1|0|2|8|94
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|C|Four-Seam Fastball|57|1|1|2|13|94
+Tony Gonsolin|R|Ildemaro Vargas|L|Groundout|X|Curveball|58|1|2|2|8|81
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|B|Four-Seam Fastball|59|0|0|0|14|93
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Slider|60|1|0|0|14|88
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|61|1|1|0|5|93
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|62|1|2|0|5|94
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|B|Slider|63|1|2|0|14|88
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|F|Curveball|64|2|2|0|13|81
+Tony Gonsolin|R|Nick Ahmed|R|Strikeout|W|Splitter|65|2|2|0|14|86
+Tony Gonsolin|R|Caleb Joseph|R|Double|D|Four-Seam Fastball|66|0|0|1|13|94
+Tony Gonsolin|R|Taylor Clarke|R|Flyout|C|Four-Seam Fastball|67|0|0|1|14|92
+Tony Gonsolin|R|Taylor Clarke|R|Flyout|*B|Curveball|68|0|1|1|14|81
+Tony Gonsolin|R|Taylor Clarke|R|Flyout|X|Four-Seam Fastball|69|1|1|1|6|92
+Tony Gonsolin|R|Jarrod Dyson|L|Single|E|Splitter|70|0|0|2|4|87
+Tony Gonsolin|R|Tim Locastro|R|Groundout|S|Four-Seam Fastball|71|0|0|2|11|93
+Tony Gonsolin|R|Tim Locastro|R|Groundout|B|Four-Seam Fastball|72|0|1|2|12|93
+Tony Gonsolin|R|Tim Locastro|R|Groundout|B|Slider|73|1|1|2|14|90
+Tony Gonsolin|R|Tim Locastro|R|Groundout|B|Four-Seam Fastball|74|2|1|2|14|94
+Tony Gonsolin|R|Tim Locastro|R|Groundout|F|Four-Seam Fastball|75|3|1|2|6|93
+Tony Gonsolin|R|Tim Locastro|R|Groundout|X|Four-Seam Fastball|76|3|2|2|5|94
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|93
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|C|Four-Seam Fastball|2|2|0|0|3|92
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|C|Four-Seam Fastball|3|2|1|0|8|92
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|B|Curveball|4|2|2|0|14|82
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|F|Four-Seam Fastball|5|3|2|0|11|93
+Tony Gonsolin|R|Jarrod Dyson|L|Walk|B|Four-Seam Fastball|6|3|2|0|11|93
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|B|Four-Seam Fastball|7|0|0|0|11|91
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|F|Four-Seam Fastball|8|1|0|0|2|93
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|F|Four-Seam Fastball|9|1|1|0|4|93
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|B|Four-Seam Fastball|10|1|2|0|11|93
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|B|Splitter|11|2|2|0|11|86
+Tony Gonsolin|R|Josh Rojas|L|Strikeout|S|Splitter|12|3|2|0|4|85
+Tony Gonsolin|R|Eduardo Escobar|L|Pop Out|B|Curveball|13|0|0|1|14|79
+Tony Gonsolin|R|Eduardo Escobar|L|Pop Out|C|Splitter|14|1|0|1|13|86
+Tony Gonsolin|R|Eduardo Escobar|L|Pop Out|*B|Curveball|15|1|1|1|14|82
+Tony Gonsolin|R|Eduardo Escobar|L|Pop Out|X|Four-Seam Fastball|16|2|1|1|2|92
+Tony Gonsolin|R|Christian Walker|R|Flyout|X|Four-Seam Fastball|17|0|0|2|9|93
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|18|0|0|0|11|92
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|C|Splitter|19|1|0|0|7|86
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|20|1|1|0|11|93
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|21|2|1|0|4|93
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|F|Slider|22|2|2|0|1|87
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|W|Slider|23|2|2|0|14|88
+Tony Gonsolin|R|Adam Jones|R|Groundout|C|Four-Seam Fastball|24|0|0|1|2|93
+Tony Gonsolin|R|Adam Jones|R|Groundout|X|Slider|25|0|1|1|14|88
+Tony Gonsolin|R|Nick Ahmed|R|Flyout|F|Four-Seam Fastball|26|0|0|2|6|94
+Tony Gonsolin|R|Nick Ahmed|R|Flyout|S|Slider|27|0|1|2|13|88
+Tony Gonsolin|R|Nick Ahmed|R|Flyout|B|Four-Seam Fastball|28|0|2|2|12|94
+Tony Gonsolin|R|Nick Ahmed|R|Flyout|X|Four-Seam Fastball|29|1|2|2|7|94
+Tony Gonsolin|R|Alex Avila|L|Strikeout|C|Four-Seam Fastball|30|0|0|0|13|91
+Tony Gonsolin|R|Alex Avila|L|Strikeout|C|Curveball|31|0|1|0|1|79
+Tony Gonsolin|R|Alex Avila|L|Strikeout|B|Slider|32|0|2|0|9|87
+Tony Gonsolin|R|Alex Avila|L|Strikeout|F|Slider|33|1|2|0|9|87
+Tony Gonsolin|R|Alex Avila|L|Strikeout|F|Four-Seam Fastball|34|1|2|0|1|93
+Tony Gonsolin|R|Alex Avila|L|Strikeout|C|Curveball|35|1|2|0|13|81
+Tony Gonsolin|R|Zac Gallen|R|Groundout|C|Four-Seam Fastball|36|0|0|1|9|93
+Tony Gonsolin|R|Zac Gallen|R|Groundout|B|Four-Seam Fastball|37|0|1|1|14|93
+Tony Gonsolin|R|Zac Gallen|R|Groundout|X|Four-Seam Fastball|38|1|1|1|13|92
+Tony Gonsolin|R|Jarrod Dyson|L|Groundout|C|Four-Seam Fastball|39|0|0|2|5|93
+Tony Gonsolin|R|Jarrod Dyson|L|Groundout|X|Splitter|40|0|1|2|11|86
+Tony Gonsolin|R|Josh Rojas|L|Groundout|B|Curveball|41|0|0|0|14|81
+Tony Gonsolin|R|Josh Rojas|L|Groundout|B|Splitter|42|1|0|0|11|85
+Tony Gonsolin|R|Josh Rojas|L|Groundout|C|Four-Seam Fastball|43|2|0|0|7|94
+Tony Gonsolin|R|Josh Rojas|L|Groundout|B|Splitter|44|2|1|0|11|84
+Tony Gonsolin|R|Josh Rojas|L|Groundout|X|Four-Seam Fastball|45|3|1|0|5|92
+Tony Gonsolin|R|Eduardo Escobar|L|Double|F|Splitter|46|0|0|1|5|86
+Tony Gonsolin|R|Eduardo Escobar|L|Double|B|Four-Seam Fastball|47|0|1|1|11|93
+Tony Gonsolin|R|Eduardo Escobar|L|Double|B|Four-Seam Fastball|48|1|1|1|11|93
+Tony Gonsolin|R|Eduardo Escobar|L|Double|D|Four-Seam Fastball|49|2|1|1|6|94
+Tony Gonsolin|R|Christian Walker|R|Groundout|B|Slider|50|0|0|1|14|87
+Tony Gonsolin|R|Christian Walker|R|Groundout|C|Four-Seam Fastball|51|1|0|1|9|93
+Tony Gonsolin|R|Christian Walker|R|Groundout|B|Four-Seam Fastball|52|1|1|1|12|93
+Tony Gonsolin|R|Christian Walker|R|Groundout|X|Slider|53|2|1|1|9|88
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|S|Splitter|54|0|0|2|11|85
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|C|Slider|55|0|1|2|2|86
+Tony Gonsolin|R|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|56|0|2|2|1|92
+Tony Gonsolin|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|57|0|0|0|14|91
+Tony Gonsolin|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|58|0|1|0|12|91
+Tony Gonsolin|R|Adam Jones|R|Strikeout|B|Curveball|59|1|1|0|14|80
+Tony Gonsolin|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|60|2|1|0|9|94
+Tony Gonsolin|R|Adam Jones|R|Strikeout|C|Curveball|61|2|2|0|14|80
+Tony Gonsolin|R|Nick Ahmed|R|Double|S|Slider|62|0|0|1|2|86
+Tony Gonsolin|R|Nick Ahmed|R|Double|S|Splitter|63|0|1|1|11|85
+Tony Gonsolin|R|Nick Ahmed|R|Double|F|Slider|64|0|2|1|9|86
+Tony Gonsolin|R|Nick Ahmed|R|Double|F|Splitter|65|0|2|1|13|85
+Tony Gonsolin|R|Nick Ahmed|R|Double|D|Four-Seam Fastball|66|0|2|1|9|94
+Tony Gonsolin|R|Alex Avila|L|Groundout|B|Curveball|67|0|0|1|14|79
+Tony Gonsolin|R|Alex Avila|L|Groundout|S|Slider|68|1|0|1|13|88
+Tony Gonsolin|R|Alex Avila|L|Groundout|B|Four-Seam Fastball|69|1|1|1|11|92
+Tony Gonsolin|R|Alex Avila|L|Groundout|F|Slider|70|2|1|1|7|87
+Tony Gonsolin|R|Alex Avila|L|Groundout|*B|Slider|71|2|2|1|14|87
+Tony Gonsolin|R|Alex Avila|L|Groundout|X|Four-Seam Fastball|72|3|2|1|9|92
+Tony Gonsolin|R|Wilmer Flores|R|Walk|C|Slider|73|0|0|2|9|86
+Tony Gonsolin|R|Wilmer Flores|R|Walk|B|Curveball|74|0|1|2|14|81
+Tony Gonsolin|R|Wilmer Flores|R|Walk|C|Four-Seam Fastball|75|1|1|2|5|92
+Tony Gonsolin|R|Wilmer Flores|R|Walk|*B|Curveball|76|1|2|2|14|81
+Tony Gonsolin|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|77|2|2|2|11|92
+Tony Gonsolin|R|Wilmer Flores|R|Walk|B|Four-Seam Fastball|78|3|2|2|12|94
+Tony Gonsolin|R|Jarrod Dyson|L|Pop Out|B|Splitter|79|0|0|2|11|84
+Tony Gonsolin|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|80|1|0|2|6|92
+Tony Gonsolin|R|Josh Rojas|L|Walk|C|Four-Seam Fastball|81|0|0|0|13|91
+Tony Gonsolin|R|Josh Rojas|L|Walk|B|Four-Seam Fastball|82|0|1|0|11|91
+Tony Gonsolin|R|Josh Rojas|L|Walk|B|Curveball|83|1|1|0|14|81
+Tony Gonsolin|R|Josh Rojas|L|Walk|F|Four-Seam Fastball|84|2|1|0|7|92
+Tony Gonsolin|R|Josh Rojas|L|Walk|B|Four-Seam Fastball|85|2|2|0|11|93
+Tony Gonsolin|R|Josh Rojas|L|Walk|F|Four-Seam Fastball|86|3|2|0|2|92
+Tony Gonsolin|R|Josh Rojas|L|Walk|*B|Slider|87|3|2|0|14|87
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|C|Four-Seam Fastball|88|0|0|0|7|91
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|F|Curveball|89|0|1|0|14|79
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|B|Splitter|90|0|2|0|11|85
+Tony Gonsolin|R|Eduardo Escobar|L|Home Run|E|Four-Seam Fastball|91|1|2|0|11|90
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|B|Curveball|0|0|0|0|14|80
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|4|93
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|C|Splitter|2|1|1|0|11|86
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|B|Splitter|3|1|2|0|13|85
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|S|Splitter|4|2|2|0|13|86
+Tony Gonsolin|R|Trey Mancini|R|Strikeout|F|Four-Seam Fastball|5|0|0|1|12|92
+Tony Gonsolin|R|Trey Mancini|R|Strikeout|C|Curveball|6|0|1|1|14|78
+Tony Gonsolin|R|Trey Mancini|R|Strikeout|B|Splitter|7|0|2|1|14|86
+Tony Gonsolin|R|Trey Mancini|R|Strikeout|S|Slider|8|1|2|1|5|88
+Tony Gonsolin|R|Anthony Santander|L|Strikeout|B|Four-Seam Fastball|9|0|0|2|13|93
+Tony Gonsolin|R|Anthony Santander|L|Strikeout|C|Splitter|10|1|0|2|13|85
+Tony Gonsolin|R|Anthony Santander|L|Strikeout|F|Slider|11|1|1|2|14|87
+Tony Gonsolin|R|Anthony Santander|L|Strikeout|S|Splitter|12|1|2|2|11|86
+Tony Gonsolin|R|Renato Nunez|R|Flyout|C|Curveball|13|0|0|0|8|78
+Tony Gonsolin|R|Renato Nunez|R|Flyout|X|Four-Seam Fastball|14|0|1|0|2|92
+Tony Gonsolin|R|Austin Hays|R|Groundout|C|Four-Seam Fastball|15|0|0|1|6|93
+Tony Gonsolin|R|Austin Hays|R|Groundout|X|Slider|16|0|1|1|11|87
+Tony Gonsolin|R|DJ Stewart|L|Pop Out|B|Four-Seam Fastball|17|0|0|2|11|92
+Tony Gonsolin|R|DJ Stewart|L|Pop Out|F|Splitter|18|1|0|2|11|86
+Tony Gonsolin|R|DJ Stewart|L|Pop Out|X|Curveball|19|1|1|2|9|79
+Tony Gonsolin|R|Pedro Severino|R|Home Run|C|Four-Seam Fastball|20|0|0|0|12|91
+Tony Gonsolin|R|Pedro Severino|R|Home Run|B|Four-Seam Fastball|21|0|1|0|11|90
+Tony Gonsolin|R|Pedro Severino|R|Home Run|S|Slider|22|1|1|0|14|86
+Tony Gonsolin|R|Pedro Severino|R|Home Run|B|Splitter|23|1|2|0|13|85
+Tony Gonsolin|R|Pedro Severino|R|Home Run|B|Splitter|24|2|2|0|13|86
+Tony Gonsolin|R|Pedro Severino|R|Home Run|E|Four-Seam Fastball|25|3|2|0|7|92
+Tony Gonsolin|R|Rio Ruiz|L|Single|B|Four-Seam Fastball|26|0|0|0|13|91
+Tony Gonsolin|R|Rio Ruiz|L|Single|B|Splitter|27|1|0|0|13|84
+Tony Gonsolin|R|Rio Ruiz|L|Single|B|Four-Seam Fastball|28|2|0|0|14|91
+Tony Gonsolin|R|Rio Ruiz|L|Single|D|Four-Seam Fastball|29|3|0|0|7|91
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|F|Four-Seam Fastball|30|0|0|0|14|91
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|*B|Slider|31|0|1|0|14|87
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|F|Slider|32|1|1|0|14|86
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|B|Splitter|33|1|2|0|13|84
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|B|Splitter|34|2|2|0|13|86
+Tony Gonsolin|R|Hanser Alberto|R|Fielders Choice Out|X|Slider|35|3|2|0|14|87
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|36|0|0|1|13|90
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|37|1|0|1|13|90
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|L|Four-Seam Fastball|38|1|1|1|12|91
+Tony Gonsolin|R|Jonathan Villar|L|Strikeout|C|Splitter|39|1|2|1|14|89
+Tony Gonsolin|R|Trey Mancini|R|Groundout|X|Four-Seam Fastball|40|0|0|2|9|91
+Tony Gonsolin|R|Ian Desmond|R|Groundout|X|Four-Seam Fastball|0|0|0|0|14|96
+Tony Gonsolin|R|Ryan McMahon|L|Groundout|C|Four-Seam Fastball|1|0|0|1|7|96
+Tony Gonsolin|R|Ryan McMahon|L|Groundout|B|Splitter|2|0|1|1|14|87
+Tony Gonsolin|R|Ryan McMahon|L|Groundout|B|Four-Seam Fastball|3|1|1|1|1|95
+Tony Gonsolin|R|Ryan McMahon|L|Groundout|X|Four-Seam Fastball|4|2|1|1|4|95
+Tony Gonsolin|R|Raimel Tapia|L|Groundout|X|Splitter|5|0|0|2|4|87
+Tony Gonsolin|R|Chris Iannetta|R|Lineout|C|Four-Seam Fastball|6|0|0|0|3|94
+Tony Gonsolin|R|Chris Iannetta|R|Lineout|B|Slider|7|0|1|0|13|84
+Tony Gonsolin|R|Chris Iannetta|R|Lineout|B|Four-Seam Fastball|8|1|1|0|12|94
+Tony Gonsolin|R|Chris Iannetta|R|Lineout|X|Four-Seam Fastball|9|2|1|0|5|95
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|C|Four-Seam Fastball|10|0|0|1|7|95
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|B|Slider|11|0|1|1|11|82
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|B|Splitter|12|1|1|1|14|88
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|13|2|1|1|1|94
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|F|Splitter|14|2|2|1|4|89
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|F|Slider|15|2|2|1|5|84
+Tony Gonsolin|R|Yonder Alonso|L|Strikeout|S|Splitter|16|2|2|1|5|87
+Tony Gonsolin|R|David Dahl|L|Flyout|B|Splitter|17|0|0|2|14|88
+Tony Gonsolin|R|David Dahl|L|Flyout|C|Four-Seam Fastball|18|1|0|2|13|95
+Tony Gonsolin|R|David Dahl|L|Flyout|B|Splitter|19|1|1|2|14|89
+Tony Gonsolin|R|David Dahl|L|Flyout|C|Four-Seam Fastball|20|2|1|2|7|95
+Tony Gonsolin|R|David Dahl|L|Flyout|X|Splitter|21|2|2|2|8|89
+Tony Gonsolin|R|Trevor Story|R|Flyout|B|Four-Seam Fastball|22|0|0|0|14|94
+Tony Gonsolin|R|Trevor Story|R|Flyout|X|Four-Seam Fastball|23|1|0|0|2|95
+Tony Gonsolin|R|Nolan Arenado|R|Strikeout|C|Four-Seam Fastball|24|0|0|1|3|95
+Tony Gonsolin|R|Nolan Arenado|R|Strikeout|B|Splitter|25|0|1|1|13|88
+Tony Gonsolin|R|Nolan Arenado|R|Strikeout|C|Slider|26|1|1|1|2|84
+Tony Gonsolin|R|Nolan Arenado|R|Strikeout|B|Splitter|27|1|2|1|14|88
+Tony Gonsolin|R|Nolan Arenado|R|Strikeout|S|Slider|28|2|2|1|6|85
+Tony Gonsolin|R|Daniel Murphy|L|Groundout|X|Splitter|29|0|0|2|5|89
+Tony Gonsolin|R|Ian Desmond|R|Groundout|C|Four-Seam Fastball|30|0|0|0|14|94
+Tony Gonsolin|R|Ian Desmond|R|Groundout|X|Slider|31|0|1|0|8|84
+Tony Gonsolin|R|Ryan McMahon|L|Groundout|X|Four-Seam Fastball|32|0|0|1|13|94
+Tony Gonsolin|R|Raimel Tapia|L|Single|C|Four-Seam Fastball|33|0|0|2|8|95
+Tony Gonsolin|R|Raimel Tapia|L|Single|D|Splitter|34|0|1|2|14|88
+Tony Gonsolin|R|Chris Iannetta|R|Single|W|Slider|35|0|0|2|14|84
+Tony Gonsolin|R|Chris Iannetta|R|Single|B|Four-Seam Fastball|36|0|1|2|12|94
+Tony Gonsolin|R|Chris Iannetta|R|Single|C|Slider|37|1|1|2|3|83
+Tony Gonsolin|R|Chris Iannetta|R|Single|*B|Slider|38|1|2|2|14|86
+Tony Gonsolin|R|Chris Iannetta|R|Single|B|Slider|39|2|2|2|12|85
+Tony Gonsolin|R|Chris Iannetta|R|Single|D|Four-Seam Fastball|40|3|2|2|8|95
+Tony Gonsolin|R|Garrett Hampson|R|Double|E|Four-Seam Fastball|41|0|0|2|9|94
+Tony Gonsolin|R|David Dahl|L|Strikeout|B|Four-Seam Fastball|42|0|0|2|11|94
+Tony Gonsolin|R|David Dahl|L|Strikeout|B|Splitter|43|1|0|2|14|88
+Tony Gonsolin|R|David Dahl|L|Strikeout|F|Four-Seam Fastball|44|2|0|2|13|93
+Tony Gonsolin|R|David Dahl|L|Strikeout|F|Four-Seam Fastball|45|2|1|2|8|94
+Tony Gonsolin|R|David Dahl|L|Strikeout|F|Splitter|46|2|2|2|13|89
+Tony Gonsolin|R|David Dahl|L|Strikeout|F|Four-Seam Fastball|47|2|2|2|4|95
+Tony Gonsolin|R|David Dahl|L|Strikeout|S|Splitter|48|2|2|2|14|87
+Tony Gonsolin|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Tony Gonsolin|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|93
+Tony Gonsolin|R|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|3|95
+Tony Gonsolin|R|Matt Carpenter|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|13|94
+Tony Gonsolin|R|Matt Carpenter|L|Strikeout|T|Four-Seam Fastball|4|2|2|0|11|95
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|5|0|0|1|13|94
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|S|Splitter|6|1|0|1|14|87
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|S|Splitter|7|1|1|1|14|87
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|8|1|2|1|11|95
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|S|Splitter|9|2|2|1|13|87
+Tony Gonsolin|R|Paul Goldschmidt|R|Groundout|X|Four-Seam Fastball|10|0|0|2|9|95
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|B|Slider|11|0|0|0|14|89
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|C|Slider|12|1|0|0|2|88
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|F|Splitter|13|1|1|0|9|86
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|14|1|2|0|12|94
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|B|Slider|15|2|2|0|14|88
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|F|Four-Seam Fastball|16|3|2|0|1|94
+Tony Gonsolin|R|Marcell Ozuna|R|Walk|B|Splitter|17|3|2|0|14|87
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|F|Four-Seam Fastball|18|0|0|0|6|95
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|B|Four-Seam Fastball|19|0|1|0|1|95
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|B|Slider|20|1|1|0|14|90
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|B|Four-Seam Fastball|21|2|1|0|11|95
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|F|Four-Seam Fastball|22|3|1|0|2|94
+Tony Gonsolin|R|Paul DeJong|R|Pop Out|X|Four-Seam Fastball|23|3|2|0|2|95
+Tony Gonsolin|R|Jose Martinez|R|Flyout|C|Four-Seam Fastball|24|0|0|1|5|95
+Tony Gonsolin|R|Jose Martinez|R|Flyout|B|Slider|25|0|1|1|14|91
+Tony Gonsolin|R|Jose Martinez|R|Flyout|X|Four-Seam Fastball|26|1|1|1|4|95
+Tony Gonsolin|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|27|0|0|2|4|94
+Tony Gonsolin|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|28|0|1|2|14|95
+Tony Gonsolin|R|Kolten Wong|L|Groundout|B|Splitter|29|1|1|2|11|87
+Tony Gonsolin|R|Kolten Wong|L|Groundout|X|Four-Seam Fastball|30|2|1|2|14|94
+Tony Gonsolin|R|Matt Wieters|L|Flyout|C|Four-Seam Fastball|31|0|0|0|14|93
+Tony Gonsolin|R|Matt Wieters|L|Flyout|B|Curveball|32|0|1|0|14|82
+Tony Gonsolin|R|Matt Wieters|L|Flyout|X|Curveball|33|1|1|0|5|81
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|34|0|0|1|14|94
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|B|Slider|35|0|1|1|14|87
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|B|Four-Seam Fastball|36|1|1|1|14|94
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|F|Four-Seam Fastball|37|2|1|1|1|94
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|B|Curveball|38|2|2|1|14|82
+Tony Gonsolin|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|39|3|2|1|7|94
+Tony Gonsolin|R|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|40|0|0|2|14|95
+Tony Gonsolin|R|Matt Carpenter|L|Flyout|C|Slider|41|1|0|2|9|85
+Tony Gonsolin|R|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|42|1|1|2|4|94
+Tony Gonsolin|R|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|43|1|2|2|12|95
+Tony Gonsolin|R|Matt Carpenter|L|Flyout|X|Splitter|44|2|2|2|11|88
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|C|Curveball|45|0|0|0|14|80
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|S|Splitter|46|0|1|0|13|84
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|47|0|2|0|11|93
+Tony Gonsolin|R|Dexter Fowler|L|Strikeout|S|Splitter|48|1|2|0|14|85
+Tony Gonsolin|R|Paul Goldschmidt|R|Groundout|C|Four-Seam Fastball|49|0|0|1|9|94
+Tony Gonsolin|R|Paul Goldschmidt|R|Groundout|F|Slider|50|0|1|1|2|89
+Tony Gonsolin|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|51|0|2|1|12|94
+Tony Gonsolin|R|Paul Goldschmidt|R|Groundout|X|Splitter|52|1|2|1|9|87
+Tony Gonsolin|R|Marcell Ozuna|R|Pop Out|B|Curveball|53|0|0|2|14|82
+Tony Gonsolin|R|Marcell Ozuna|R|Pop Out|S|Splitter|54|1|0|2|9|86
+Tony Gonsolin|R|Marcell Ozuna|R|Pop Out|X|Splitter|55|1|1|2|5|86
+Tony Gonsolin|R|Paul DeJong|R|Groundout|C|Four-Seam Fastball|56|0|0|0|2|93
+Tony Gonsolin|R|Paul DeJong|R|Groundout|S|Splitter|57|0|1|0|9|86
+Tony Gonsolin|R|Paul DeJong|R|Groundout|X|Slider|58|0|2|0|14|89
+Tony Gonsolin|R|Jose Martinez|R|Flyout|X|Four-Seam Fastball|59|0|0|1|11|93
+Tony Gonsolin|R|Kolten Wong|L|Double|C|Four-Seam Fastball|60|0|0|2|14|94
+Tony Gonsolin|R|Kolten Wong|L|Double|B|Splitter|61|0|1|2|14|87
+Tony Gonsolin|R|Kolten Wong|L|Double|B|Splitter|62|1|1|2|11|86
+Tony Gonsolin|R|Kolten Wong|L|Double|B|Four-Seam Fastball|63|2|1|2|11|95
+Tony Gonsolin|R|Kolten Wong|L|Double|D|Four-Seam Fastball|64|3|1|2|5|92
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|B|Four-Seam Fastball|65|0|0|2|12|94
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|C|Splitter|66|1|0|2|1|83
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|B|Four-Seam Fastball|67|1|1|2|13|93
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|B|Splitter|68|2|1|2|14|86
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|C|Four-Seam Fastball|69|3|1|2|13|93
+Tony Gonsolin|R|Matt Wieters|L|Strikeout|S|Splitter|70|3|2|2|6|86
+Tony Gonsolin|R|Lane Thomas|R|Strikeout|B|Four-Seam Fastball|71|0|0|0|14|93
+Tony Gonsolin|R|Lane Thomas|R|Strikeout|B|Four-Seam Fastball|72|1|0|0|14|93
+Tony Gonsolin|R|Lane Thomas|R|Strikeout|C|Four-Seam Fastball|73|2|0|0|12|92
+Tony Gonsolin|R|Lane Thomas|R|Strikeout|F|Four-Seam Fastball|74|2|1|0|12|93
+Tony Gonsolin|R|Lane Thomas|R|Strikeout|C|Curveball|75|2|2|0|3|81
+Tony Gonsolin|R|Matt Carpenter|L|Groundout|C|Curveball|76|0|0|1|9|79
+Tony Gonsolin|R|Matt Carpenter|L|Groundout|S|Splitter|77|0|1|1|9|87
+Tony Gonsolin|R|Matt Carpenter|L|Groundout|X|Four-Seam Fastball|78|0|2|1|5|94
+Tony Gonsolin|R|Dexter Fowler|L|Single|B|Curveball|79|0|0|2|14|81
+Tony Gonsolin|R|Dexter Fowler|L|Single|C|Four-Seam Fastball|80|1|0|2|8|93
+Tony Gonsolin|R|Dexter Fowler|L|Single|F|Splitter|81|1|1|2|7|86
+Tony Gonsolin|R|Dexter Fowler|L|Single|F|Four-Seam Fastball|82|1|2|2|11|95
+Tony Gonsolin|R|Dexter Fowler|L|Single|B|Slider|83|1|2|2|14|89
+Tony Gonsolin|R|Dexter Fowler|L|Single|F|Splitter|84|2|2|2|8|88
+Tony Gonsolin|R|Dexter Fowler|L|Single|D|Splitter|85|2|2|2|11|88
+Tony Gonsolin|R|Paul Goldschmidt|R|Strikeout|S|Slider|86|0|0|2|14|87
+Tony Gonsolin|R|Paul Goldschmidt|R|Strikeout|S|Splitter|87|0|1|2|7|87
+Tony Gonsolin|R|Paul Goldschmidt|R|Strikeout|*B|Slider|88|0|2|2|14|90
+Tony Gonsolin|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|89|1|2|2|12|95
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|F|Four-Seam Fastball|0|0|0|0|12|92
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|F|Four-Seam Fastball|1|0|1|0|1|92
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|B|Curveball|2|0|2|0|14|80
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|3|1|2|0|11|92
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|F|Four-Seam Fastball|4|2|2|0|3|94
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|B|Slider|5|2|2|0|14|88
+Tony Gonsolin|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|6|3|2|0|11|94
+Tony Gonsolin|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|7|0|0|0|11|93
+Tony Gonsolin|R|Aaron Judge|R|Strikeout|C|Curveball|8|1|0|0|6|78
+Tony Gonsolin|R|Aaron Judge|R|Strikeout|S|Slider|9|1|1|0|14|87
+Tony Gonsolin|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|10|1|2|0|11|92
+Tony Gonsolin|R|Aaron Judge|R|Strikeout|S|Slider|11|2|2|0|14|88
+Tony Gonsolin|R|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|12|0|0|1|11|93
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|B|Curveball|13|0|0|2|11|79
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|S|Slider|14|1|0|2|6|87
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|B|Four-Seam Fastball|15|1|1|2|11|93
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|B|Curveball|16|2|1|2|14|79
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|F|Four-Seam Fastball|17|3|1|2|11|93
+Tony Gonsolin|R|Gleyber Torres|R|Groundout|X|Slider|18|3|2|2|12|88
+Tony Gonsolin|R|Brett Gardner|L|Lineout|C|Four-Seam Fastball|19|0|0|0|7|92
+Tony Gonsolin|R|Brett Gardner|L|Lineout|B|Splitter|20|0|1|0|11|86
+Tony Gonsolin|R|Brett Gardner|L|Lineout|B|Curveball|21|1|1|0|14|79
+Tony Gonsolin|R|Brett Gardner|L|Lineout|X|Splitter|22|2|1|0|4|85
+Tony Gonsolin|R|Gio Urshela|R|Lineout|F|Four-Seam Fastball|23|0|0|1|3|92
+Tony Gonsolin|R|Gio Urshela|R|Lineout|B|Four-Seam Fastball|24|0|1|1|12|92
+Tony Gonsolin|R|Gio Urshela|R|Lineout|X|Slider|25|1|1|1|8|87
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|B|Four-Seam Fastball|26|0|0|2|13|92
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|S|Splitter|27|1|0|2|4|84
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|B|Splitter|28|1|1|2|14|84
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|B|Four-Seam Fastball|29|2|1|2|11|93
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|F|Splitter|30|3|1|2|13|85
+Tony Gonsolin|R|Mike Tauchman|L|Pop Out|X|Splitter|31|3|2|2|11|83
+Tony Gonsolin|R|Austin Romine|R|Groundout|S|Slider|32|0|0|0|14|87
+Tony Gonsolin|R|Austin Romine|R|Groundout|X|Slider|33|0|1|0|14|86
+Tony Gonsolin|R|CC Sabathia|L|Lineout|F|Four-Seam Fastball|34|0|0|1|7|93
+Tony Gonsolin|R|CC Sabathia|L|Lineout|B|Curveball|35|0|1|1|11|77
+Tony Gonsolin|R|CC Sabathia|L|Lineout|X|Four-Seam Fastball|36|1|1|1|2|92
+Tony Gonsolin|R|DJ LeMahieu|R|Groundout|X|Curveball|37|0|0|2|8|79
+Tony Gonsolin|R|Aaron Judge|R|Home Run|B|Curveball|38|0|0|0|14|79
+Tony Gonsolin|R|Aaron Judge|R|Home Run|S|Splitter|39|1|0|0|4|83
+Tony Gonsolin|R|Aaron Judge|R|Home Run|C|Four-Seam Fastball|40|1|1|0|5|93
+Tony Gonsolin|R|Aaron Judge|R|Home Run|B|Slider|41|1|2|0|14|86
+Tony Gonsolin|R|Aaron Judge|R|Home Run|B|Splitter|42|2|2|0|14|84
+Tony Gonsolin|R|Aaron Judge|R|Home Run|E|Four-Seam Fastball|43|3|2|0|5|93
+Tony Gonsolin|R|Didi Gregorius|L|Flyout|B|Splitter|44|0|0|0|14|84
+Tony Gonsolin|R|Didi Gregorius|L|Flyout|B|Splitter|45|1|0|0|11|85
+Tony Gonsolin|R|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|46|2|0|0|7|93
+Tony Gonsolin|R|Gleyber Torres|R|Walk|C|Four-Seam Fastball|47|0|0|1|11|92
+Tony Gonsolin|R|Gleyber Torres|R|Walk|B|Curveball|48|0|1|1|14|80
+Tony Gonsolin|R|Gleyber Torres|R|Walk|B|Splitter|49|1|1|1|14|84
+Tony Gonsolin|R|Gleyber Torres|R|Walk|B|Slider|50|2|1|1|14|87
+Tony Gonsolin|R|Gleyber Torres|R|Walk|S|Four-Seam Fastball|51|3|1|1|12|95
+Tony Gonsolin|R|Gleyber Torres|R|Walk|F|Four-Seam Fastball|52|3|2|1|4|95
+Tony Gonsolin|R|Gleyber Torres|R|Walk|F|Slider|53|3|2|1|14|88
+Tony Gonsolin|R|Gleyber Torres|R|Walk|F|Splitter|54|3|2|1|6|86
+Tony Gonsolin|R|Gleyber Torres|R|Walk|B|Four-Seam Fastball|55|3|2|1|12|94
+Tony Gonsolin|R|Brett Gardner|L|Double Play|C|Four-Seam Fastball|56|0|0|1|14|93
+Tony Gonsolin|R|Brett Gardner|L|Double Play|X|Curveball|57|0|1|1|9|79
+Tony Gonsolin|R|Gio Urshela|R|Groundout|X|Slider|58|0|0|0|6|87
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|B|Four-Seam Fastball|59|0|0|1|14|93
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|C|Four-Seam Fastball|60|1|0|1|6|93
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|L|Splitter|61|1|1|1|7|83
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|B|Splitter|62|1|2|1|13|85
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|F|Splitter|63|2|2|1|14|84
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|B|Four-Seam Fastball|64|2|2|1|11|95
+Tony Gonsolin|R|Mike Tauchman|L|Flyout|X|Splitter|65|3|2|1|2|85
+Tony Gonsolin|R|Austin Romine|R|Single|C|Four-Seam Fastball|66|0|0|2|12|94
+Tony Gonsolin|R|Austin Romine|R|Single|B|Slider|67|0|1|2|14|89
+Tony Gonsolin|R|Austin Romine|R|Single|S|Slider|68|1|1|2|14|88
+Tony Gonsolin|R|Austin Romine|R|Single|B|Splitter|69|1|2|2|14|85
+Tony Gonsolin|R|Austin Romine|R|Single|D|Slider|70|2|2|2|9|88
+Tony Gonsolin|R|Mike Ford|L|Strikeout|C|Curveball|71|0|0|2|2|79
+Tony Gonsolin|R|Mike Ford|L|Strikeout|C|Four-Seam Fastball|72|0|1|2|11|93
+Tony Gonsolin|R|Mike Ford|L|Strikeout|*B|Curveball|73|0|2|2|14|83
+Tony Gonsolin|R|Mike Ford|L|Strikeout|B|Four-Seam Fastball|74|1|2|2|11|93
+Tony Gonsolin|R|Mike Ford|L|Strikeout|S|Splitter|75|2|2|2|13|85
+Tony Gonsolin|R|Mike Yastrzemski|L|Single|C|Four-Seam Fastball|0|0|0|0|1|93
+Tony Gonsolin|R|Mike Yastrzemski|L|Single|S|Splitter|1|0|1|0|13|86
+Tony Gonsolin|R|Mike Yastrzemski|L|Single|D|Splitter|2|0|2|0|13|86
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|B|Four-Seam Fastball|3|0|0|0|11|92
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|C|Curveball|4|1|0|0|6|80
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|F|Four-Seam Fastball|5|1|1|0|11|93
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|B|Slider|6|1|2|0|14|88
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|B|Four-Seam Fastball|7|2|2|0|11|95
+Tony Gonsolin|R|Brandon Belt|L|Pop Out|X|Four-Seam Fastball|8|3|2|0|1|93
+Tony Gonsolin|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|9|0|0|1|14|94
+Tony Gonsolin|R|Evan Longoria|R|Walk|T|Slider|10|1|0|1|14|88
+Tony Gonsolin|R|Evan Longoria|R|Walk|B|Slider|11|1|1|1|14|88
+Tony Gonsolin|R|Evan Longoria|R|Walk|S|Splitter|12|2|1|1|13|86
+Tony Gonsolin|R|Evan Longoria|R|Walk|*B|Splitter|13|2|2|1|14|86
+Tony Gonsolin|R|Evan Longoria|R|Walk|F|Four-Seam Fastball|14|3|2|1|14|93
+Tony Gonsolin|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|15|3|2|1|14|94
+Tony Gonsolin|R|Stephen Vogt|L|Single|B|Four-Seam Fastball|16|0|0|1|11|93
+Tony Gonsolin|R|Stephen Vogt|L|Single|B|Four-Seam Fastball|17|1|0|1|11|93
+Tony Gonsolin|R|Stephen Vogt|L|Single|F|Four-Seam Fastball|18|2|0|1|7|92
+Tony Gonsolin|R|Stephen Vogt|L|Single|F|Slider|19|2|1|1|2|90
+Tony Gonsolin|R|Stephen Vogt|L|Single|F|Four-Seam Fastball|20|2|2|1|11|93
+Tony Gonsolin|R|Stephen Vogt|L|Single|F|Slider|21|2|2|1|14|88
+Tony Gonsolin|R|Stephen Vogt|L|Single|D|Four-Seam Fastball|22|2|2|1|13|93
+Tony Gonsolin|R|Kevin Pillar|R|Groundout|F|Splitter|23|0|0|1|13|87
+Tony Gonsolin|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|24|0|1|1|12|93
+Tony Gonsolin|R|Kevin Pillar|R|Groundout|B|Slider|25|0|2|1|14|89
+Tony Gonsolin|R|Kevin Pillar|R|Groundout|F|Splitter|26|1|2|1|11|86
+Tony Gonsolin|R|Kevin Pillar|R|Groundout|E|Four-Seam Fastball|27|1|2|1|11|91
+Tony Gonsolin|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|28|0|0|2|13|92
+Tony Gonsolin|R|Brandon Crawford|L|Walk|C|Four-Seam Fastball|29|1|0|2|13|93
+Tony Gonsolin|R|Brandon Crawford|L|Walk|B|Curveball|30|1|1|2|14|80
+Tony Gonsolin|R|Brandon Crawford|L|Walk|B|Splitter|31|2|1|2|11|86
+Tony Gonsolin|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|32|3|1|2|14|92
+Tony Gonsolin|R|Austin Slater|R|Strikeout|C|Four-Seam Fastball|33|0|0|2|8|92
+Tony Gonsolin|R|Austin Slater|R|Strikeout|B|Curveball|34|0|1|2|12|80
+Tony Gonsolin|R|Austin Slater|R|Strikeout|B|Four-Seam Fastball|35|1|1|2|12|92
+Tony Gonsolin|R|Austin Slater|R|Strikeout|S|Four-Seam Fastball|36|2|1|2|2|93
+Tony Gonsolin|R|Austin Slater|R|Strikeout|F|Four-Seam Fastball|37|2|2|2|4|93
+Tony Gonsolin|R|Austin Slater|R|Strikeout|T|Splitter|38|2|2|2|11|86
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|C|Four-Seam Fastball|39|0|0|0|2|92
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|B|Four-Seam Fastball|40|0|1|0|12|92
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|F|Four-Seam Fastball|41|1|1|0|2|92
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|F|Splitter|42|1|2|0|7|86
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|B|Slider|43|1|2|0|14|89
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|B|Four-Seam Fastball|44|2|2|0|14|93
+Tony Gonsolin|R|Mauricio Dubon|R|Flyout|X|Four-Seam Fastball|45|3|2|0|13|93
+Tony Gonsolin|R|Tyler Beede|R|Flyout|S|Four-Seam Fastball|46|0|0|1|2|92
+Tony Gonsolin|R|Tyler Beede|R|Flyout|B|Slider|47|0|1|1|14|88
+Tony Gonsolin|R|Tyler Beede|R|Flyout|X|Four-Seam Fastball|48|1|1|1|5|92
+Tony Gonsolin|R|Mike Yastrzemski|L|Walk|B|Curveball|49|0|0|2|11|79
+Tony Gonsolin|R|Mike Yastrzemski|L|Walk|B|Splitter|50|1|0|2|13|86
+Tony Gonsolin|R|Mike Yastrzemski|L|Walk|B|Splitter|51|2|0|2|13|86
+Tony Gonsolin|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|52|3|0|2|11|92
+Tony Gonsolin|R|Brandon Belt|L|Flyout|B|Curveball|53|0|0|2|12|80
+Tony Gonsolin|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|54|1|0|2|7|93
+Tony Gonsolin|R|Evan Longoria|R|Lineout|B|Slider|55|0|0|0|14|86
+Tony Gonsolin|R|Evan Longoria|R|Lineout|S|Splitter|56|1|0|0|8|84
+Tony Gonsolin|R|Evan Longoria|R|Lineout|S|Splitter|57|1|1|0|14|86
+Tony Gonsolin|R|Evan Longoria|R|Lineout|F|Slider|58|1|2|0|14|87
+Tony Gonsolin|R|Evan Longoria|R|Lineout|F|Four-Seam Fastball|59|1|2|0|12|92
+Tony Gonsolin|R|Evan Longoria|R|Lineout|X|Splitter|60|1|2|0|11|87
+Tony Gonsolin|R|Stephen Vogt|L|Strikeout|C|Splitter|61|0|0|1|8|87
+Tony Gonsolin|R|Stephen Vogt|L|Strikeout|F|Four-Seam Fastball|62|0|1|1|14|93
+Tony Gonsolin|R|Stephen Vogt|L|Strikeout|B|Splitter|63|0|2|1|11|87
+Tony Gonsolin|R|Stephen Vogt|L|Strikeout|S|Slider|64|1|2|1|14|88
+Tony Gonsolin|R|Kevin Pillar|R|Flyout|C|Four-Seam Fastball|65|0|0|2|1|92
+Tony Gonsolin|R|Kevin Pillar|R|Flyout|F|Splitter|66|0|1|2|14|86
+Tony Gonsolin|R|Kevin Pillar|R|Flyout|F|Splitter|67|0|2|2|13|86
+Tony Gonsolin|R|Kevin Pillar|R|Flyout|F|Slider|68|0|2|2|14|89
+Tony Gonsolin|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|69|0|2|2|5|94
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|C|Curveball|70|0|0|0|6|80
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|F|Splitter|71|0|1|0|14|86
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|B|Slider|72|0|2|0|14|88
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|B|Splitter|73|1|2|0|13|86
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|74|2|2|0|13|92
+Tony Gonsolin|R|Brandon Crawford|L|Strikeout|S|Splitter|75|3|2|0|4|86
+Tony Gonsolin|R|Austin Slater|R|Strikeout|S|Four-Seam Fastball|76|0|0|1|5|92
+Tony Gonsolin|R|Austin Slater|R|Strikeout|F|Four-Seam Fastball|77|0|1|1|11|92
+Tony Gonsolin|R|Austin Slater|R|Strikeout|B|Slider|78|0|2|1|14|89
+Tony Gonsolin|R|Austin Slater|R|Strikeout|S|Splitter|79|1|2|1|13|86
+Tony Gonsolin|R|Mauricio Dubon|R|Walk|B|Slider|80|0|0|2|12|86
+Tony Gonsolin|R|Mauricio Dubon|R|Walk|F|Slider|81|1|0|2|14|89
+Tony Gonsolin|R|Mauricio Dubon|R|Walk|B|Splitter|82|1|1|2|13|85
+Tony Gonsolin|R|Mauricio Dubon|R|Walk|B|Four-Seam Fastball|83|2|1|2|1|93
+Tony Gonsolin|R|Mauricio Dubon|R|Walk|B|Four-Seam Fastball|84|3|1|2|11|92
+Tony Gonsolin|R|Tyler Beede|R|Strikeout|S|Four-Seam Fastball|85|0|0|2|2|92
+Tony Gonsolin|R|Tyler Beede|R|Strikeout|S|Slider|86|0|1|2|9|88
+Tony Gonsolin|R|Tyler Beede|R|Strikeout|S|Slider|87|0|2|2|14|88
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|94
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|6|94
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|S|Splitter|2|1|1|0|5|87
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|B|Splitter|3|1|2|0|14|87
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|F|Slider|4|2|2|0|14|89
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|F|Splitter|5|2|2|0|11|87
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|12|95
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|F|Splitter|7|3|2|0|11|87
+Tony Gonsolin|R|Travis d'Arnaud|R|Strikeout|S|Four-Seam Fastball|8|3|2|0|7|95
+Tony Gonsolin|R|Joey Wendle|L|Flyout|B|Curveball|9|0|0|1|14|81
+Tony Gonsolin|R|Joey Wendle|L|Flyout|C|Four-Seam Fastball|10|1|0|1|11|94
+Tony Gonsolin|R|Joey Wendle|L|Flyout|X|Four-Seam Fastball|11|1|1|1|11|95
+Tony Gonsolin|R|Avisail Garcia|R|Groundout|F|Four-Seam Fastball|12|0|0|2|3|94
+Tony Gonsolin|R|Avisail Garcia|R|Groundout|B|Splitter|13|0|1|2|14|87
+Tony Gonsolin|R|Avisail Garcia|R|Groundout|F|Splitter|14|1|1|2|5|87
+Tony Gonsolin|R|Avisail Garcia|R|Groundout|B|Four-Seam Fastball|15|1|2|2|11|94
+Tony Gonsolin|R|Avisail Garcia|R|Groundout|X|Curveball|16|2|2|2|9|81
+Tony Gonsolin|R|Willy Adames|R|Walk|F|Four-Seam Fastball|17|0|0|0|6|93
+Tony Gonsolin|R|Willy Adames|R|Walk|B|Four-Seam Fastball|18|0|1|0|11|93
+Tony Gonsolin|R|Willy Adames|R|Walk|B|Splitter|19|1|1|0|14|86
+Tony Gonsolin|R|Willy Adames|R|Walk|S|Splitter|20|2|1|0|13|87
+Tony Gonsolin|R|Willy Adames|R|Walk|B|Splitter|21|2|2|0|14|87
+Tony Gonsolin|R|Willy Adames|R|Walk|B|Four-Seam Fastball|22|3|2|0|11|94
+Tony Gonsolin|R|Brendan McKay|L|Flyout|X|Four-Seam Fastball|23|0|0|0|4|93
+Tony Gonsolin|R|Austin Meadows|L|Walk|B|Curveball|24|0|0|1|11|79
+Tony Gonsolin|R|Austin Meadows|L|Walk|C|Four-Seam Fastball|25|1|0|1|11|92
+Tony Gonsolin|R|Austin Meadows|L|Walk|B|Curveball|26|1|1|1|11|79
+Tony Gonsolin|R|Austin Meadows|L|Walk|B|Splitter|27|2|1|1|13|87
+Tony Gonsolin|R|Austin Meadows|L|Walk|F|Four-Seam Fastball|28|3|1|1|8|92
+Tony Gonsolin|R|Austin Meadows|L|Walk|*B|Curveball|29|3|2|1|14|80
+Tony Gonsolin|R|Tommy Pham|R|Double|S|Splitter|30|0|0|1|14|87
+Tony Gonsolin|R|Tommy Pham|R|Double|E|Splitter|31|0|1|1|8|87
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|T|Curveball|32|0|0|1|14|80
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|C|Curveball|33|0|1|1|4|79
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|F|Four-Seam Fastball|34|0|2|1|14|93
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|B|Four-Seam Fastball|35|0|2|1|13|92
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|B|Slider|36|1|2|1|14|90
+Tony Gonsolin|R|Nate Lowe|L|Strikeout|S|Splitter|37|2|2|1|13|86
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|C|Splitter|38|0|0|2|11|86
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|B|Four-Seam Fastball|39|0|1|2|7|93
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|B|Four-Seam Fastball|40|1|1|2|14|94
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|*B|Splitter|41|2|1|2|14|86
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|F|Four-Seam Fastball|42|3|1|2|9|93
+Tony Gonsolin|R|Ji-Man Choi|L|Walk|B|Splitter|43|3|2|2|11|85
+Tony Gonsolin|R|Travis d'Arnaud|R|Lineout|C|Splitter|44|0|0|2|11|85
+Tony Gonsolin|R|Travis d'Arnaud|R|Lineout|F|Slider|45|0|1|2|13|87
+Tony Gonsolin|R|Travis d'Arnaud|R|Lineout|F|Four-Seam Fastball|46|0|2|2|6|93
+Tony Gonsolin|R|Travis d'Arnaud|R|Lineout|F|Slider|47|0|2|2|13|86
+Tony Gonsolin|R|Travis d'Arnaud|R|Lineout|X|Splitter|48|0|2|2|11|86
+Tony Gonsolin|R|Ronald Bolanos|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|14|93
+Tony Gonsolin|R|Ronald Bolanos|R|Strikeout|S|Slider|1|0|1|0|9|88
+Tony Gonsolin|R|Ronald Bolanos|R|Strikeout|S|Slider|2|0|2|0|14|90
+Tony Gonsolin|R|Manuel Margot|R|Lineout|B|Four-Seam Fastball|3|0|0|1|13|94
+Tony Gonsolin|R|Manuel Margot|R|Lineout|B|Four-Seam Fastball|4|1|0|1|11|94
+Tony Gonsolin|R|Manuel Margot|R|Lineout|B|Splitter|5|2|0|1|14|87
+Tony Gonsolin|R|Manuel Margot|R|Lineout|C|Four-Seam Fastball|6|3|0|1|1|94
+Tony Gonsolin|R|Manuel Margot|R|Lineout|X|Four-Seam Fastball|7|3|1|1|4|95
+Tony Gonsolin|R|Nick Martini|L|Groundout|B|Four-Seam Fastball|8|0|0|2|13|95
+Tony Gonsolin|R|Nick Martini|L|Groundout|B|Splitter|9|1|0|2|14|87
+Tony Gonsolin|R|Nick Martini|L|Groundout|C|Four-Seam Fastball|10|2|0|2|4|94
+Tony Gonsolin|R|Nick Martini|L|Groundout|X|Four-Seam Fastball|11|2|1|2|7|94
+Tony Gonsolin|R|Manny Machado|R|Strikeout|B|Four-Seam Fastball|12|0|0|0|14|94
+Tony Gonsolin|R|Manny Machado|R|Strikeout|C|Splitter|13|1|0|0|1|87
+Tony Gonsolin|R|Manny Machado|R|Strikeout|C|Slider|14|1|1|0|4|89
+Tony Gonsolin|R|Manny Machado|R|Strikeout|B|Slider|15|1|2|0|14|88
+Tony Gonsolin|R|Manny Machado|R|Strikeout|B|Four-Seam Fastball|16|2|2|0|14|95
+Tony Gonsolin|R|Manny Machado|R|Strikeout|S|Splitter|17|3|2|0|13|88
+Tony Gonsolin|R|Eric Hosmer|L|Strikeout|C|Curveball|18|0|0|1|14|81
+Tony Gonsolin|R|Eric Hosmer|L|Strikeout|F|Splitter|19|0|1|1|8|88
+Tony Gonsolin|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|20|0|2|1|11|95
+Tony Gonsolin|R|Hunter Renfroe|R|Pop Out|C|Four-Seam Fastball|21|0|0|2|8|94
+Tony Gonsolin|R|Hunter Renfroe|R|Pop Out|B|Slider|22|0|1|2|13|88
+Tony Gonsolin|R|Hunter Renfroe|R|Pop Out|X|Four-Seam Fastball|23|1|1|2|7|93
+Tony Gonsolin|R|Mike Yastrzemski|L|Lineout|B|Four-Seam Fastball|0|0|0|0|11|93
+Tony Gonsolin|R|Mike Yastrzemski|L|Lineout|X|Splitter|1|1|0|0|4|87
+Tony Gonsolin|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|2|0|0|1|14|93
+Tony Gonsolin|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|3|1|0|1|13|94
+Tony Gonsolin|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|4|2|0|1|13|93
+Tony Gonsolin|R|Brandon Belt|L|Walk|C|Four-Seam Fastball|5|3|0|1|11|94
+Tony Gonsolin|R|Brandon Belt|L|Walk|F|Splitter|6|3|1|1|13|87
+Tony Gonsolin|R|Brandon Belt|L|Walk|B|Splitter|7|3|2|1|11|87
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|B|Curveball|8|0|0|1|12|78
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|C|Splitter|9|1|0|1|6|86
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|B|Slider|10|1|1|1|12|88
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|S|Splitter|11|2|1|1|1|85
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|F|Splitter|12|2|2|1|13|86
+Tony Gonsolin|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|13|2|2|1|4|92
+Tony Gonsolin|R|Stephen Vogt|L|Walk|C|Four-Seam Fastball|14|0|0|2|3|93
+Tony Gonsolin|R|Stephen Vogt|L|Walk|B|Splitter|15|0|1|2|11|86
+Tony Gonsolin|R|Stephen Vogt|L|Walk|B|Splitter|16|1|1|2|11|86
+Tony Gonsolin|R|Stephen Vogt|L|Walk|S|Four-Seam Fastball|17|2|1|2|1|94
+Tony Gonsolin|R|Stephen Vogt|L|Walk|*B|Four-Seam Fastball|18|2|2|2|14|94
+Tony Gonsolin|R|Stephen Vogt|L|Walk|F|Four-Seam Fastball|19|3|2|2|4|94
+Tony Gonsolin|R|Stephen Vogt|L|Walk|F|Splitter|20|3|2|2|12|86
+Tony Gonsolin|R|Stephen Vogt|L|Walk|F|Four-Seam Fastball|21|3|2|2|13|95
+Tony Gonsolin|R|Stephen Vogt|L|Walk|F|Splitter|22|3|2|2|9|87
+Tony Gonsolin|R|Stephen Vogt|L|Walk|*B|Slider|23|3|2|2|14|91
+Tony Gonsolin|R|Kevin Pillar|R|Hit By Pitch|*B|Four-Seam Fastball|24|0|0|2|14|93
+Tony Gonsolin|R|Kevin Pillar|R|Hit By Pitch|S|Splitter|25|1|0|2|11|85
+Tony Gonsolin|R|Kevin Pillar|R|Hit By Pitch|F|Four-Seam Fastball|26|1|1|2|7|93
+Tony Gonsolin|R|Kevin Pillar|R|Hit By Pitch|F|Slider|27|1|2|2|14|89
+Tony Gonsolin|R|Kevin Pillar|R|Hit By Pitch|H|Four-Seam Fastball|28|1|2|2|11|93
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|B|Splitter|29|0|0|2|13|85
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|F|Four-Seam Fastball|30|1|0|2|8|93
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|*B|Splitter|31|1|1|2|13|87
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|F|Four-Seam Fastball|32|2|1|2|13|92
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|*B|Splitter|33|2|2|2|13|87
+Tony Gonsolin|R|Alex Dickerson|L|Flyout|X|Four-Seam Fastball|34|3|2|2|8|95
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Field Error|C|Four-Seam Fastball|0|0|0|0|2|92
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Field Error|S|Slider|1|0|1|0|14|85
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Field Error|B|Splitter|2|0|2|0|12|90
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Field Error|F|Four-Seam Fastball|3|1|2|0|12|92
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Field Error|D|Splitter|4|1|2|0|14|85
+Tony Gonsolin|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|5|0|0|0|11|92
+Tony Gonsolin|R|Ozzie Albies|L|Groundout|X|Four-Seam Fastball|6|1|0|0|7|92
+Tony Gonsolin|R|Freddie Freeman|L|Flyout|F|Four-Seam Fastball|7|0|0|1|11|92
+Tony Gonsolin|R|Freddie Freeman|L|Flyout|F|Splitter|8|0|1|1|7|84
+Tony Gonsolin|R|Freddie Freeman|L|Flyout|B|Four-Seam Fastball|9|0|2|1|11|93
+Tony Gonsolin|R|Freddie Freeman|L|Flyout|F|Slider|10|1|2|1|3|86
+Tony Gonsolin|R|Freddie Freeman|L|Flyout|X|Splitter|11|1|2|1|13|85
+Tony Gonsolin|R|Josh Donaldson|R|Strikeout|S|Slider|12|0|0|2|9|87
+Tony Gonsolin|R|Josh Donaldson|R|Strikeout|B|Slider|13|0|1|2|14|88
+Tony Gonsolin|R|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|14|1|1|2|5|93
+Tony Gonsolin|R|Josh Donaldson|R|Strikeout|S|Slider|15|1|2|2|12|87
+Tony Gonsolin|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|16|0|0|0|13|91
+Tony Gonsolin|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|17|1|0|0|5|91
+Tony Gonsolin|R|Brian McCann|L|Groundout|B|Curveball|18|1|1|0|14|78
+Tony Gonsolin|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|19|2|1|0|12|91
+Tony Gonsolin|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|20|3|1|0|1|92
+Tony Gonsolin|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|21|0|0|1|13|92
+Tony Gonsolin|R|Matt Joyce|L|Flyout|B|Slider|22|1|0|1|14|86
+Tony Gonsolin|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|23|2|0|1|11|92
+Tony Gonsolin|R|Matt Joyce|L|Flyout|C|Splitter|24|3|0|1|12|89
+Tony Gonsolin|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|25|3|1|1|7|91
+Tony Gonsolin|R|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|26|0|0|2|11|93
+Tony Gonsolin|R|Adeiny Hechavarria|R|Single|B|Slider|27|0|1|2|14|85
+Tony Gonsolin|R|Adeiny Hechavarria|R|Single|B|Slider|28|1|1|2|14|86
+Tony Gonsolin|R|Adeiny Hechavarria|R|Single|D|Four-Seam Fastball|29|2|1|2|5|92
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|*B|Curveball|30|0|0|2|14|77
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|S|Four-Seam Fastball|31|1|0|2|12|90
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|W|Curveball|32|1|1|2|14|78
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|X|Four-Seam Fastball|33|1|2|2|1|93
+Tony Gonsolin|R|Max Fried|L|Double|B|Four-Seam Fastball|34|0|0|0|9|93
+Tony Gonsolin|R|Max Fried|L|Double|C|Four-Seam Fastball|35|1|0|0|8|92
+Tony Gonsolin|R|Max Fried|L|Double|D|Splitter|36|1|1|0|2|86
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Single|B|Four-Seam Fastball|37|0|0|0|12|93
+Tony Gonsolin|R|Ronald Acuna Jr.|R|Single|D|Splitter|38|1|0|0|14|84
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|39|0|0|0|11|91
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|B|Curveball|40|1|0|0|14|80
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|C|Four-Seam Fastball|41|2|0|0|11|93
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|B|Splitter|42|2|1|0|11|85
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|F|Four-Seam Fastball|43|3|1|0|12|92
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|F|Curveball|44|3|2|0|3|81
+Tony Gonsolin|R|Ozzie Albies|L|Flyout|X|Four-Seam Fastball|45|3|2|0|1|93
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|46|0|0|1|4|93
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|B|Slider|47|0|1|1|12|87
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|B|Slider|48|1|1|1|14|85
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|49|2|1|1|4|92
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|50|2|2|1|1|94
+Tony Gonsolin|R|Freddie Freeman|L|Strikeout|S|Slider|51|2|2|1|12|87
+Tony Gonsolin|R|Josh Donaldson|R|Groundout|S|Four-Seam Fastball|52|0|0|2|3|93
+Tony Gonsolin|R|Josh Donaldson|R|Groundout|B|Four-Seam Fastball|53|0|1|2|13|92
+Tony Gonsolin|R|Josh Donaldson|R|Groundout|X|Slider|54|1|1|2|14|87
+Tony Gonsolin|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|55|0|0|0|13|93
+Tony Gonsolin|R|Brian McCann|L|Groundout|B|Splitter|56|1|0|0|13|85
+Tony Gonsolin|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|57|2|0|0|4|93
+Tony Gonsolin|R|Matt Joyce|L|Single|B|Curveball|58|0|0|1|14|80
+Tony Gonsolin|R|Matt Joyce|L|Single|D|Four-Seam Fastball|59|1|0|1|11|92
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|C|Four-Seam Fastball|60|0|0|1|3|94
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|S|Curveball|61|0|1|1|8|81
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|B|Curveball|62|0|2|1|11|80
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|B|Slider|63|1|2|1|14|88
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|B|Four-Seam Fastball|64|2|2|1|12|94
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|F|Four-Seam Fastball|65|3|2|1|7|94
+Tony Gonsolin|R|Adeiny Hechavarria|R|Double|E|Four-Seam Fastball|66|3|2|1|5|94
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|S|Curveball|67|0|0|1|14|80
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|B|Splitter|68|0|1|1|14|86
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|B|Curveball|69|1|1|1|12|81
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|*B|Curveball|70|2|1|1|14|81
+Tony Gonsolin|R|Rafael Ortega|L|Lineout|X|Splitter|71|3|1|1|11|86

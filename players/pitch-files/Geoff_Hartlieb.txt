@@ -1,0 +1,651 @@
+Geoff Hartlieb|R|Shohei Ohtani|L|Single|D|Four-Seam Fastball|0|0|0|2|9|97
+Geoff Hartlieb|R|Kole Calhoun|L|Single|B|Four-Seam Fastball|1|0|0|2|11|97
+Geoff Hartlieb|R|Kole Calhoun|L|Single|D|Four-Seam Fastball|2|1|0|2|5|96
+Geoff Hartlieb|R|Albert Pujols|R|Single|B|Changeup|3|0|0|2|14|91
+Geoff Hartlieb|R|Albert Pujols|R|Single|F|Four-Seam Fastball|4|1|0|2|14|98
+Geoff Hartlieb|R|Albert Pujols|R|Single|F|Four-Seam Fastball|5|1|1|2|13|98
+Geoff Hartlieb|R|Albert Pujols|R|Single|F|Four-Seam Fastball|6|1|2|2|13|98
+Geoff Hartlieb|R|Albert Pujols|R|Single|E|Sinker|7|1|2|2|8|96
+Geoff Hartlieb|R|David Fletcher|R|Sac Bunt|B|Slider|8|0|0|2|14|86
+Geoff Hartlieb|R|David Fletcher|R|Sac Bunt|C|Four-Seam Fastball|9|1|0|2|7|97
+Geoff Hartlieb|R|David Fletcher|R|Sac Bunt|X|Slider|10|1|1|2|11|85
+Geoff Hartlieb|R|Luis Rengifo|L|Single|*B|Four-Seam Fastball|11|0|0|0|14|96
+Geoff Hartlieb|R|Luis Rengifo|L|Single|S|Slider|12|1|0|0|9|84
+Geoff Hartlieb|R|Luis Rengifo|L|Single|F|Four-Seam Fastball|13|1|1|0|5|96
+Geoff Hartlieb|R|Luis Rengifo|L|Single|*B|Slider|14|1|2|0|14|86
+Geoff Hartlieb|R|Luis Rengifo|L|Single|F|Four-Seam Fastball|15|2|2|0|6|96
+Geoff Hartlieb|R|Luis Rengifo|L|Single|F|Sinker|16|2|2|0|13|96
+Geoff Hartlieb|R|Luis Rengifo|L|Single|E|Slider|17|2|2|0|9|86
+Geoff Hartlieb|R|Anthony Bemboom|L|Strikeout|S|Changeup|18|0|0|0|7|91
+Geoff Hartlieb|R|Anthony Bemboom|L|Strikeout|F|Changeup|19|0|1|0|5|90
+Geoff Hartlieb|R|Anthony Bemboom|L|Strikeout|C|Four-Seam Fastball|20|0|2|0|7|98
+Geoff Hartlieb|R|Wilfredo Tovar|R|Caught Stealing 2B|F|Slider|21|0|0|1|9|85
+Geoff Hartlieb|R|Wilfredo Tovar|R|Caught Stealing 2B|F|Slider|22|0|1|1|14|86
+Geoff Hartlieb|R|Wilfredo Tovar|R|Caught Stealing 2B|F|Slider|23|0|2|1|14|86
+Geoff Hartlieb|R|Wilfredo Tovar|R|Caught Stealing 2B|B|Four-Seam Fastball|24|0|2|1|9|96
+Geoff Hartlieb|R|Tony Kemp|L|Single|F|Four-Seam Fastball|0|0|0|2|2|95
+Geoff Hartlieb|R|Tony Kemp|L|Single|E|Four-Seam Fastball|1|0|1|2|5|95
+Geoff Hartlieb|R|Anthony Rizzo|L|Single|B|Four-Seam Fastball|2|0|0|2|11|96
+Geoff Hartlieb|R|Anthony Rizzo|L|Single|S|Changeup|3|1|0|2|14|89
+Geoff Hartlieb|R|Anthony Rizzo|L|Single|D|Four-Seam Fastball|4|1|1|2|6|96
+Geoff Hartlieb|R|Nick Castellanos|R|Double|F|Four-Seam Fastball|5|0|0|2|2|95
+Geoff Hartlieb|R|Nick Castellanos|R|Double|C|Slider|6|0|1|2|5|83
+Geoff Hartlieb|R|Nick Castellanos|R|Double|E|Four-Seam Fastball|7|0|2|2|5|97
+Geoff Hartlieb|R|Kris Bryant|R|Lineout|F|Slider|8|0|0|2|5|85
+Geoff Hartlieb|R|Kris Bryant|R|Lineout|B|Slider|9|0|1|2|13|85
+Geoff Hartlieb|R|Kris Bryant|R|Lineout|X|Changeup|10|1|1|2|9|90
+Geoff Hartlieb|R|Willson Contreras|R|Groundout|F|Sinker|11|0|0|0|7|92
+Geoff Hartlieb|R|Willson Contreras|R|Groundout|X|Sinker|12|0|1|0|13|94
+Geoff Hartlieb|R|Kyle Schwarber|L|Strikeout|B|Changeup|13|0|0|1|14|88
+Geoff Hartlieb|R|Kyle Schwarber|L|Strikeout|B|Sinker|14|1|0|1|14|93
+Geoff Hartlieb|R|Kyle Schwarber|L|Strikeout|C|Changeup|15|2|0|1|9|88
+Geoff Hartlieb|R|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|16|2|1|1|1|94
+Geoff Hartlieb|R|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|17|2|2|1|8|96
+Geoff Hartlieb|R|Nico Hoerner|R|Walk|B|Sinker|18|0|0|2|14|94
+Geoff Hartlieb|R|Nico Hoerner|R|Walk|B|Sinker|19|1|0|2|13|93
+Geoff Hartlieb|R|Nico Hoerner|R|Walk|B|Four-Seam Fastball|20|2|0|2|14|94
+Geoff Hartlieb|R|Nico Hoerner|R|Walk|C|Four-Seam Fastball|21|3|0|2|7|93
+Geoff Hartlieb|R|Nico Hoerner|R|Walk|B|Four-Seam Fastball|22|3|1|2|14|95
+Geoff Hartlieb|R|David Bote|R|Groundout|B|Four-Seam Fastball|23|0|0|2|11|95
+Geoff Hartlieb|R|David Bote|R|Groundout|X|Sinker|24|1|0|2|7|93
+Geoff Hartlieb|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|25|0|0|0|11|95
+Geoff Hartlieb|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|26|1|0|0|13|93
+Geoff Hartlieb|R|Jason Heyward|L|Strikeout|C|Changeup|27|2|0|0|13|88
+Geoff Hartlieb|R|Jason Heyward|L|Strikeout|T|Four-Seam Fastball|28|2|1|0|12|95
+Geoff Hartlieb|R|Jason Heyward|L|Strikeout|S|Slider|29|2|2|0|2|84
+Geoff Hartlieb|R|Alec Mills|R|Groundout|X|Four-Seam Fastball|30|0|0|1|7|93
+Geoff Hartlieb|R|Victor Caratini|L|Lineout|X|Four-Seam Fastball|31|0|0|2|2|94
+Geoff Hartlieb|R|Ian Happ|L|Flyout|F|Sinker|0|0|0|0|13|92
+Geoff Hartlieb|R|Ian Happ|L|Flyout|F|Four-Seam Fastball|1|0|1|0|14|95
+Geoff Hartlieb|R|Ian Happ|L|Flyout|F|Four-Seam Fastball|2|0|2|0|2|95
+Geoff Hartlieb|R|Ian Happ|L|Flyout|X|Slider|3|0|2|0|9|86
+Geoff Hartlieb|R|Nick Castellanos|R|Single|D|Sinker|4|0|0|1|5|95
+Geoff Hartlieb|R|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|13|96
+Geoff Hartlieb|R|Kris Bryant|R|Strikeout|B|Slider|6|0|1|1|14|85
+Geoff Hartlieb|R|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|7|1|1|1|13|95
+Geoff Hartlieb|R|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|8|1|2|1|12|95
+Geoff Hartlieb|R|Kyle Schwarber|L|Home Run|E|Sinker|9|0|0|2|8|96
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|C|Slider|10|0|0|2|14|87
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|F|Slider|11|0|1|2|9|84
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|F|Four-Seam Fastball|12|0|2|2|3|95
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|F|Four-Seam Fastball|13|0|2|2|11|95
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|B|Changeup|14|0|2|2|14|90
+Geoff Hartlieb|R|Albert Almora Jr.|R|Strikeout|T|Slider|15|1|2|2|8|86
+Geoff Hartlieb|R|Lucas Sims|R|Strikeout|C|Changeup|0|0|0|0|2|92
+Geoff Hartlieb|R|Lucas Sims|R|Strikeout|F|Changeup|1|0|1|0|2|91
+Geoff Hartlieb|R|Lucas Sims|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|14|96
+Geoff Hartlieb|R|Nick Senzel|R|Double|F|Four-Seam Fastball|3|0|0|1|6|96
+Geoff Hartlieb|R|Nick Senzel|R|Double|B|Slider|4|0|1|1|14|84
+Geoff Hartlieb|R|Nick Senzel|R|Double|F|Sinker|5|1|1|1|11|93
+Geoff Hartlieb|R|Nick Senzel|R|Double|F|Sinker|6|1|2|1|2|96
+Geoff Hartlieb|R|Nick Senzel|R|Double|F|Slider|7|1|2|1|5|85
+Geoff Hartlieb|R|Nick Senzel|R|Double|D|Four-Seam Fastball|8|1|2|1|6|97
+Geoff Hartlieb|R|Jesse Winker|L|Double|B|Sinker|9|0|0|1|13|96
+Geoff Hartlieb|R|Jesse Winker|L|Double|F|Four-Seam Fastball|10|1|0|1|8|95
+Geoff Hartlieb|R|Jesse Winker|L|Double|F|Four-Seam Fastball|11|1|1|1|4|98
+Geoff Hartlieb|R|Jesse Winker|L|Double|E|Slider|12|1|2|1|8|84
+Geoff Hartlieb|R|Eugenio Suarez|R|Strikeout|F|Sinker|13|0|0|1|9|93
+Geoff Hartlieb|R|Eugenio Suarez|R|Strikeout|B|Sinker|14|0|1|1|13|95
+Geoff Hartlieb|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|15|1|1|1|14|95
+Geoff Hartlieb|R|Eugenio Suarez|R|Strikeout|S|Slider|16|1|2|1|14|86
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|F|Four-Seam Fastball|17|0|0|2|6|97
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|E|Four-Seam Fastball|18|0|1|2|6|97
+Geoff Hartlieb|R|Yasiel Puig|R|Single|S|Slider|19|0|0|2|14|86
+Geoff Hartlieb|R|Yasiel Puig|R|Single|B|Slider|20|0|1|2|14|86
+Geoff Hartlieb|R|Yasiel Puig|R|Single|F|Four-Seam Fastball|21|1|1|2|1|96
+Geoff Hartlieb|R|Yasiel Puig|R|Single|D|Slider|22|1|2|2|14|86
+Geoff Hartlieb|R|Jose Iglesias|R|Double|D|Four-Seam Fastball|23|0|0|2|3|94
+Geoff Hartlieb|R|Tucker Barnhart|L|Single|B|Changeup|24|0|0|2|14|89
+Geoff Hartlieb|R|Tucker Barnhart|L|Single|E|Sinker|25|1|0|2|7|94
+Geoff Hartlieb|R|Jose Peraza|R|Flyout|F|Sinker|26|0|0|0|7|93
+Geoff Hartlieb|R|Jose Peraza|R|Flyout|B|Sinker|27|0|1|0|13|94
+Geoff Hartlieb|R|Jose Peraza|R|Flyout|B|Four-Seam Fastball|28|1|1|0|12|94
+Geoff Hartlieb|R|Jose Peraza|R|Flyout|B|Four-Seam Fastball|29|2|1|0|14|93
+Geoff Hartlieb|R|Jose Peraza|R|Flyout|X|Sinker|30|3|1|0|2|93
+Geoff Hartlieb|R|Lucas Sims|R|Flyout|C|Four-Seam Fastball|31|0|0|1|6|95
+Geoff Hartlieb|R|Lucas Sims|R|Flyout|X|Four-Seam Fastball|32|0|1|1|11|94
+Geoff Hartlieb|R|Nick Senzel|R|Lineout|B|Changeup|33|0|0|2|14|90
+Geoff Hartlieb|R|Nick Senzel|R|Lineout|X|Slider|34|1|0|2|6|83
+Geoff Hartlieb|R|Jesse Winker|L|Groundout|F|Changeup|35|0|0|0|14|89
+Geoff Hartlieb|R|Jesse Winker|L|Groundout|B|Changeup|36|0|1|0|13|89
+Geoff Hartlieb|R|Jesse Winker|L|Groundout|X|Sinker|37|1|1|0|4|93
+Geoff Hartlieb|R|Eugenio Suarez|R|Walk|F|Sinker|38|0|0|1|1|96
+Geoff Hartlieb|R|Eugenio Suarez|R|Walk|B|Sinker|39|0|1|1|13|95
+Geoff Hartlieb|R|Eugenio Suarez|R|Walk|B|Changeup|40|1|1|1|14|91
+Geoff Hartlieb|R|Eugenio Suarez|R|Walk|B|Sinker|41|2|1|1|11|94
+Geoff Hartlieb|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|42|3|1|1|14|94
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|B|Sinker|43|0|0|1|14|95
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|F|Changeup|44|1|0|1|14|90
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|B|Sinker|45|1|1|1|11|92
+Geoff Hartlieb|R|Derek Dietrich|L|Home Run|E|Sinker|46|2|1|1|5|94
+Geoff Hartlieb|R|Nick Senzel|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|97
+Geoff Hartlieb|R|Nick Senzel|R|Strikeout|S|Slider|1|0|1|0|12|86
+Geoff Hartlieb|R|Nick Senzel|R|Strikeout|B|Slider|2|0|2|0|14|87
+Geoff Hartlieb|R|Nick Senzel|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|14|97
+Geoff Hartlieb|R|Nick Senzel|R|Strikeout|W|Slider|4|2|2|0|13|87
+Geoff Hartlieb|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|5|0|0|1|14|96
+Geoff Hartlieb|R|Jose Iglesias|R|Walk|B|Slider|6|1|0|1|11|84
+Geoff Hartlieb|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|7|2|0|1|14|94
+Geoff Hartlieb|R|Jose Iglesias|R|Walk|B|Sinker|8|3|0|1|14|94
+Geoff Hartlieb|R|Derek Dietrich|L|Strikeout|S|Sinker|9|0|0|1|8|96
+Geoff Hartlieb|R|Derek Dietrich|L|Strikeout|W|Sinker|10|0|1|1|14|96
+Geoff Hartlieb|R|Derek Dietrich|L|Strikeout|C|Slider|11|0|2|1|14|87
+Geoff Hartlieb|R|Kyle Farmer|R|Single|B|Four-Seam Fastball|12|0|0|2|14|97
+Geoff Hartlieb|R|Kyle Farmer|R|Single|D|Sinker|13|1|0|2|2|93
+Geoff Hartlieb|R|Jesse Winker|L|Single|B|Sinker|14|0|0|2|13|95
+Geoff Hartlieb|R|Jesse Winker|L|Single|*B|Sinker|15|1|0|2|14|96
+Geoff Hartlieb|R|Jesse Winker|L|Single|F|Sinker|16|2|0|2|11|95
+Geoff Hartlieb|R|Jesse Winker|L|Single|E|Sinker|17|2|1|2|8|95
+Geoff Hartlieb|R|Joey Votto|L|Strikeout|S|Changeup|18|0|0|2|8|91
+Geoff Hartlieb|R|Joey Votto|L|Strikeout|F|Sinker|19|0|1|2|8|97
+Geoff Hartlieb|R|Joey Votto|L|Strikeout|C|Slider|20|0|2|2|13|88
+Geoff Hartlieb|R|Dom Nunez|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|97
+Geoff Hartlieb|R|Dom Nunez|L|Strikeout|C|Slider|1|1|0|0|13|84
+Geoff Hartlieb|R|Dom Nunez|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|13|98
+Geoff Hartlieb|R|Dom Nunez|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|3|95
+Geoff Hartlieb|R|Dom Nunez|L|Strikeout|S|Slider|4|1|2|0|13|87
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|11|98
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|B|Slider|6|1|0|1|14|84
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|B|Slider|7|2|0|1|11|83
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|C|Four-Seam Fastball|8|3|0|1|5|96
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|9|3|1|1|9|96
+Geoff Hartlieb|R|Trevor Story|R|Strikeout|S|Four-Seam Fastball|10|3|2|1|9|97
+Geoff Hartlieb|R|Ryan McMahon|L|Strikeout|B|Four-Seam Fastball|11|0|0|2|13|97
+Geoff Hartlieb|R|Ryan McMahon|L|Strikeout|S|Four-Seam Fastball|12|1|0|2|11|95
+Geoff Hartlieb|R|Ryan McMahon|L|Strikeout|B|Four-Seam Fastball|13|1|1|2|14|96
+Geoff Hartlieb|R|Ryan McMahon|L|Strikeout|C|Four-Seam Fastball|14|2|1|2|7|96
+Geoff Hartlieb|R|Ryan McMahon|L|Strikeout|T|Four-Seam Fastball|15|2|2|2|3|98
+Geoff Hartlieb|R|Yuli Gurriel|R|Groundout|F|Sinker|0|0|0|0|7|92
+Geoff Hartlieb|R|Yuli Gurriel|R|Groundout|X|Slider|1|0|1|0|12|84
+Geoff Hartlieb|R|Josh Reddick|L|Lineout|B|Sinker|2|0|0|1|13|94
+Geoff Hartlieb|R|Josh Reddick|L|Lineout|F|Four-Seam Fastball|3|1|0|1|2|95
+Geoff Hartlieb|R|Josh Reddick|L|Lineout|B|Sinker|4|1|1|1|13|95
+Geoff Hartlieb|R|Josh Reddick|L|Lineout|X|Changeup|5|2|1|1|5|90
+Geoff Hartlieb|R|Max Stassi|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|12|97
+Geoff Hartlieb|R|Max Stassi|R|Strikeout|F|Slider|7|0|1|2|5|85
+Geoff Hartlieb|R|Max Stassi|R|Strikeout|C|Four-Seam Fastball|8|0|2|2|3|97
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|F|Changeup|0|0|0|2|13|92
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|F|Four-Seam Fastball|1|0|1|2|2|96
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|B|Slider|2|0|2|2|14|84
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|B|Four-Seam Fastball|3|1|2|2|6|97
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|*B|Sinker|4|2|2|2|14|94
+Geoff Hartlieb|R|Chris Iannetta|R|Walk|B|Sinker|5|3|2|2|11|95
+Geoff Hartlieb|R|Daniel Murphy|L|Single|B|Sinker|6|0|0|2|14|94
+Geoff Hartlieb|R|Daniel Murphy|L|Single|C|Sinker|7|1|0|2|7|93
+Geoff Hartlieb|R|Daniel Murphy|L|Single|E|Sinker|8|1|1|2|8|93
+Geoff Hartlieb|R|Ian Desmond|R|Forceout|B|Sinker|9|0|0|2|14|94
+Geoff Hartlieb|R|Ian Desmond|R|Forceout|B|Sinker|10|1|0|2|13|94
+Geoff Hartlieb|R|Ian Desmond|R|Forceout|S|Four-Seam Fastball|11|2|0|2|12|95
+Geoff Hartlieb|R|Ian Desmond|R|Forceout|B|Sinker|12|2|1|2|13|93
+Geoff Hartlieb|R|Ian Desmond|R|Forceout|X|Four-Seam Fastball|13|3|1|2|9|95
+Geoff Hartlieb|R|Joc Pederson|L|Single|C|Sinker|0|1|1|1|9|93
+Geoff Hartlieb|R|Joc Pederson|L|Single|D|Sinker|1|1|2|1|13|95
+Geoff Hartlieb|R|Cody Bellinger|L|Home Run|C|Sinker|2|0|0|1|1|94
+Geoff Hartlieb|R|Cody Bellinger|L|Home Run|E|Sinker|3|0|1|1|8|94
+Geoff Hartlieb|R|Corey Seager|L|Walk|B|Sinker|4|0|0|1|11|95
+Geoff Hartlieb|R|Corey Seager|L|Walk|B|Changeup|5|1|0|1|13|88
+Geoff Hartlieb|R|Corey Seager|L|Walk|B|Sinker|6|2|0|1|11|94
+Geoff Hartlieb|R|Corey Seager|L|Walk|C|Sinker|7|3|0|1|8|95
+Geoff Hartlieb|R|Corey Seager|L|Walk|S|Sinker|8|3|1|1|11|94
+Geoff Hartlieb|R|Corey Seager|L|Walk|F|Four-Seam Fastball|9|3|2|1|7|97
+Geoff Hartlieb|R|Corey Seager|L|Walk|B|Four-Seam Fastball|10|3|2|1|14|96
+Geoff Hartlieb|R|David Freese|R|Single|D|Sinker|11|0|0|1|13|97
+Geoff Hartlieb|R|Enrique Hernandez|R|Flyout|B|Slider|12|0|0|1|14|82
+Geoff Hartlieb|R|Enrique Hernandez|R|Flyout|S|Four-Seam Fastball|13|1|0|1|4|96
+Geoff Hartlieb|R|Enrique Hernandez|R|Flyout|S|Sinker|14|1|1|1|7|95
+Geoff Hartlieb|R|Enrique Hernandez|R|Flyout|X|Slider|15|1|2|1|5|83
+Geoff Hartlieb|R|Austin Barnes|R|Strikeout|S|Sinker|16|0|0|2|9|94
+Geoff Hartlieb|R|Austin Barnes|R|Strikeout|S|Sinker|17|0|1|2|13|95
+Geoff Hartlieb|R|Austin Barnes|R|Strikeout|S|Sinker|18|0|2|2|8|97
+Geoff Hartlieb|R|Kyle Garlick|R|Strikeout|F|Sinker|19|0|0|0|11|93
+Geoff Hartlieb|R|Kyle Garlick|R|Strikeout|F|Sinker|20|0|1|0|4|94
+Geoff Hartlieb|R|Kyle Garlick|R|Strikeout|B|Slider|21|0|2|0|14|84
+Geoff Hartlieb|R|Kyle Garlick|R|Strikeout|W|Sinker|22|1|2|0|13|96
+Geoff Hartlieb|R|Chris Taylor|R|Single|D|Sinker|23|0|0|1|6|95
+Geoff Hartlieb|R|Max Muncy|L|Groundout|B|Sinker|24|0|0|1|13|94
+Geoff Hartlieb|R|Max Muncy|L|Groundout|F|Sinker|25|1|0|1|2|94
+Geoff Hartlieb|R|Max Muncy|L|Groundout|S|Changeup|26|1|1|1|9|89
+Geoff Hartlieb|R|Max Muncy|L|Groundout|F|Changeup|27|1|2|1|14|90
+Geoff Hartlieb|R|Max Muncy|L|Groundout|F|Four-Seam Fastball|28|1|2|1|12|97
+Geoff Hartlieb|R|Max Muncy|L|Groundout|B|Changeup|29|1|2|1|14|89
+Geoff Hartlieb|R|Max Muncy|L|Groundout|X|Sinker|30|2|2|1|13|94
+Geoff Hartlieb|R|Joc Pederson|L|Triple|E|Changeup|31|0|0|2|4|88
+Geoff Hartlieb|R|Cody Bellinger|L|Pop Out|B|Sinker|32|0|0|2|13|94
+Geoff Hartlieb|R|Cody Bellinger|L|Pop Out|F|Changeup|33|1|0|2|13|89
+Geoff Hartlieb|R|Cody Bellinger|L|Pop Out|X|Four-Seam Fastball|34|1|1|2|2|96
+Geoff Hartlieb|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|9|98
+Geoff Hartlieb|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|98
+Geoff Hartlieb|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|12|96
+Geoff Hartlieb|R|Yasmani Grandal|L|Strikeout|F|Changeup|3|1|2|0|13|92
+Geoff Hartlieb|R|Yasmani Grandal|L|Strikeout|S|Changeup|4|1|2|0|11|92
+Geoff Hartlieb|R|Keston Hiura|R|Walk|B|Sinker|5|0|0|1|13|97
+Geoff Hartlieb|R|Keston Hiura|R|Walk|B|Four-Seam Fastball|6|1|0|1|14|96
+Geoff Hartlieb|R|Keston Hiura|R|Walk|C|Four-Seam Fastball|7|2|0|1|9|97
+Geoff Hartlieb|R|Keston Hiura|R|Walk|B|Four-Seam Fastball|8|2|1|1|12|98
+Geoff Hartlieb|R|Keston Hiura|R|Walk|B|Four-Seam Fastball|9|3|1|1|14|98
+Geoff Hartlieb|R|Hernan Perez|R|Walk|B|Slider|10|0|0|1|14|85
+Geoff Hartlieb|R|Hernan Perez|R|Walk|C|Slider|11|1|0|1|6|84
+Geoff Hartlieb|R|Hernan Perez|R|Walk|B|Sinker|12|1|1|1|14|95
+Geoff Hartlieb|R|Hernan Perez|R|Walk|B|Four-Seam Fastball|13|2|1|1|14|97
+Geoff Hartlieb|R|Hernan Perez|R|Walk|F|Four-Seam Fastball|14|3|1|1|6|96
+Geoff Hartlieb|R|Hernan Perez|R|Walk|F|Sinker|15|3|2|1|4|96
+Geoff Hartlieb|R|Hernan Perez|R|Walk|B|Sinker|16|3|2|1|14|96
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|B|Slider|17|0|0|1|14|85
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|*B|Slider|18|1|0|1|14|84
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|B|Four-Seam Fastball|19|2|0|1|14|97
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|C|Four-Seam Fastball|20|3|0|1|9|96
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|F|Four-Seam Fastball|21|3|1|1|2|96
+Geoff Hartlieb|R|Orlando Arcia|R|Flyout|X|Sinker|22|3|2|1|11|95
+Geoff Hartlieb|R|Jesus Aguilar|R|Groundout|B|Four-Seam Fastball|23|0|0|2|14|98
+Geoff Hartlieb|R|Jesus Aguilar|R|Groundout|C|Sinker|24|1|0|2|7|95
+Geoff Hartlieb|R|Jesus Aguilar|R|Groundout|X|Slider|25|1|1|2|3|84
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|26|0|0|0|2|95
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|C|Slider|27|0|1|0|13|84
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|S|Sinker|28|0|2|0|13|94
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|B|Sinker|29|0|0|1|11|95
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|B|Sinker|30|1|0|1|13|94
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|31|2|0|1|11|95
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|F|Four-Seam Fastball|32|2|1|1|5|95
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|B|Sinker|33|2|2|1|13|92
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|S|Changeup|34|3|2|1|14|91
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Sinker|35|0|0|2|11|95
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Sinker|36|1|0|2|1|94
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|37|1|1|2|11|97
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Slider|38|1|2|2|11|86
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|39|2|2|2|11|97
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|S|Four-Seam Fastball|40|2|2|2|12|98
+Geoff Hartlieb|R|Johan Camargo|L|Double|B|Changeup|0|0|0|2|13|89
+Geoff Hartlieb|R|Johan Camargo|L|Double|D|Sinker|1|1|0|2|6|92
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Groundout|B|Four-Seam Fastball|2|0|0|2|11|95
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Groundout|X|Four-Seam Fastball|3|1|0|2|13|95
+Geoff Hartlieb|R|Dansby Swanson|R|Single|C|Four-Seam Fastball|4|0|0|0|4|95
+Geoff Hartlieb|R|Dansby Swanson|R|Single|F|Sinker|5|0|1|0|8|94
+Geoff Hartlieb|R|Dansby Swanson|R|Single|D|Slider|6|0|2|0|9|85
+Geoff Hartlieb|R|Freddie Freeman|L|Double|D|Sinker|7|0|0|0|14|94
+Geoff Hartlieb|R|Josh Donaldson|R|Home Run|F|Sinker|8|0|0|0|8|95
+Geoff Hartlieb|R|Josh Donaldson|R|Home Run|S|Slider|9|0|1|0|5|83
+Geoff Hartlieb|R|Josh Donaldson|R|Home Run|E|Slider|10|0|2|0|2|85
+Geoff Hartlieb|R|Nick Markakis|L|Groundout|F|Changeup|11|0|0|0|14|90
+Geoff Hartlieb|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|12|0|1|0|13|96
+Geoff Hartlieb|R|Nick Markakis|L|Groundout|B|Changeup|13|1|1|0|13|90
+Geoff Hartlieb|R|Nick Markakis|L|Groundout|F|Sinker|14|2|1|0|8|95
+Geoff Hartlieb|R|Nick Markakis|L|Groundout|X|Changeup|15|2|2|0|13|90
+Geoff Hartlieb|R|Austin Riley|R|Lineout|F|Sinker|16|0|0|1|13|96
+Geoff Hartlieb|R|Austin Riley|R|Lineout|X|Four-Seam Fastball|17|0|1|1|8|97
+Geoff Hartlieb|R|Ozzie Albies|L|Groundout|B|Changeup|18|0|0|2|14|91
+Geoff Hartlieb|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|19|1|0|2|12|97
+Geoff Hartlieb|R|Ozzie Albies|L|Groundout|X|Sinker|20|2|0|2|13|94
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|2|96
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|7|96
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|B|Slider|2|1|1|0|11|83
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|C|Sinker|3|2|1|0|14|94
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|12|96
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|F|Sinker|5|2|2|0|14|94
+Geoff Hartlieb|R|Manuel Margot|R|Strikeout|S|Slider|6|2|2|0|14|85
+Geoff Hartlieb|R|Austin Hedges|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|5|96
+Geoff Hartlieb|R|Austin Hedges|R|Strikeout|B|Slider|8|0|1|1|14|84
+Geoff Hartlieb|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|9|1|1|1|1|96
+Geoff Hartlieb|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|10|1|2|1|6|97
+Geoff Hartlieb|R|Austin Hedges|R|Strikeout|S|Slider|11|1|2|1|14|85
+Geoff Hartlieb|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|12|0|0|2|14|97
+Geoff Hartlieb|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|13|1|0|2|14|94
+Geoff Hartlieb|R|Greg Garcia|L|Walk|B|Sinker|14|2|0|2|14|93
+Geoff Hartlieb|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|15|3|0|2|14|94
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|C|Sinker|16|0|0|2|7|93
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|B|Four-Seam Fastball|17|0|1|2|14|96
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|C|Slider|18|1|1|2|14|83
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|*B|Slider|19|1|2|2|14|83
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|F|Four-Seam Fastball|20|2|2|2|14|95
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|B|Slider|21|2|2|2|11|84
+Geoff Hartlieb|R|Fernando Tatis Jr.|R|Walk|B|Slider|22|3|2|2|13|82
+Geoff Hartlieb|R|Eric Hosmer|L|Walk|B|Sinker|23|0|0|2|14|94
+Geoff Hartlieb|R|Eric Hosmer|L|Walk|B|Changeup|24|1|0|2|13|88
+Geoff Hartlieb|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|25|2|0|2|11|94
+Geoff Hartlieb|R|Eric Hosmer|L|Walk|S|Four-Seam Fastball|26|3|0|2|6|95
+Geoff Hartlieb|R|Eric Hosmer|L|Walk|*B|Four-Seam Fastball|27|3|1|2|14|95
+Geoff Hartlieb|R|Manny Machado|R|Single|B|Slider|28|0|0|2|13|83
+Geoff Hartlieb|R|Manny Machado|R|Single|B|Four-Seam Fastball|29|1|0|2|11|94
+Geoff Hartlieb|R|Manny Machado|R|Single|E|Sinker|30|2|0|2|13|94
+Geoff Hartlieb|R|Hunter Renfroe|R|Caught Stealing Home|C|Four-Seam Fastball|31|0|0|2|3|95
+Geoff Hartlieb|R|Hunter Renfroe|R|Caught Stealing Home|F|Slider|32|0|1|2|9|83
+Geoff Hartlieb|R|Hunter Renfroe|R|Caught Stealing Home|B|Four-Seam Fastball|33|0|2|2|14|95
+Geoff Hartlieb|R|Hunter Renfroe|R|Caught Stealing Home|F|Sinker|34|1|2|2|11|94
+Geoff Hartlieb|R|Hunter Renfroe|R|Caught Stealing Home|B|Slider|35|1|2|2|13|84
+Geoff Hartlieb|R|Adeiny Hechavarria|R|Groundout|C|Slider|0|0|0|2|11|84
+Geoff Hartlieb|R|Adeiny Hechavarria|R|Groundout|X|Sinker|1|0|1|2|5|96
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|98
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|94
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Sinker|2|2|0|0|13|94
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|3|3|0|0|7|96
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|4|3|1|0|13|98
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|S|Slider|5|3|2|0|9|86
+Geoff Hartlieb|R|Trent Grisham|L|Sac Fly|B|Four-Seam Fastball|6|0|0|1|14|97
+Geoff Hartlieb|R|Trent Grisham|L|Sac Fly|E|Four-Seam Fastball|7|1|0|1|5|97
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|*B|Slider|8|0|0|2|14|86
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|X|Four-Seam Fastball|9|1|0|2|5|97
+Geoff Hartlieb|R|Christian Yelich|L|Home Run|C|Slider|10|0|0|0|9|83
+Geoff Hartlieb|R|Christian Yelich|L|Home Run|C|Four-Seam Fastball|11|0|1|0|9|98
+Geoff Hartlieb|R|Christian Yelich|L|Home Run|E|Slider|12|0|2|0|12|85
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|B|Four-Seam Fastball|13|0|0|0|13|96
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|F|Four-Seam Fastball|14|1|0|0|9|96
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|C|Four-Seam Fastball|15|1|1|0|11|96
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|B|Slider|16|1|2|0|14|87
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|B|Four-Seam Fastball|17|2|2|0|11|96
+Geoff Hartlieb|R|Keston Hiura|R|Flyout|X|Slider|18|3|2|0|9|86
+Geoff Hartlieb|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|19|0|0|1|14|97
+Geoff Hartlieb|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|20|1|0|1|14|97
+Geoff Hartlieb|R|Mike Moustakas|L|Walk|B|Four-Seam Fastball|21|2|0|1|14|96
+Geoff Hartlieb|R|Mike Moustakas|L|Walk|B|Sinker|22|3|0|1|14|95
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|23|0|0|1|13|97
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|B|Sinker|24|1|0|1|14|96
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|C|Sinker|25|2|0|1|14|96
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|B|Sinker|26|2|1|1|13|94
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|C|Sinker|27|3|1|1|7|94
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|F|Sinker|28|3|2|1|8|95
+Geoff Hartlieb|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|29|3|2|1|13|96
+Geoff Hartlieb|R|Eric Thames|L|Strikeout|C|Four-Seam Fastball|30|0|0|2|7|98
+Geoff Hartlieb|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|31|0|1|2|11|97
+Geoff Hartlieb|R|Eric Thames|L|Strikeout|*B|Slider|32|0|2|2|14|86
+Geoff Hartlieb|R|Eric Thames|L|Strikeout|F|Four-Seam Fastball|33|1|2|2|6|97
+Geoff Hartlieb|R|Eric Thames|L|Strikeout|W|Slider|34|1|2|2|14|88
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|B|Sinker|0|0|0|0|13|94
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|C|Changeup|1|1|0|0|11|90
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|B|Slider|2|1|1|0|12|84
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|B|Sinker|3|2|1|0|14|94
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|C|Sinker|4|3|1|0|6|93
+Geoff Hartlieb|R|Yasmani Grandal|L|Groundout|X|Sinker|5|3|2|0|5|94
+Geoff Hartlieb|R|Mike Moustakas|L|Groundout|B|Sinker|6|0|0|1|13|96
+Geoff Hartlieb|R|Mike Moustakas|L|Groundout|B|Four-Seam Fastball|7|1|0|1|14|96
+Geoff Hartlieb|R|Mike Moustakas|L|Groundout|X|Sinker|8|2|0|1|4|95
+Geoff Hartlieb|R|Keston Hiura|R|Strikeout|S|Slider|9|0|0|2|14|86
+Geoff Hartlieb|R|Keston Hiura|R|Strikeout|F|Four-Seam Fastball|10|0|1|2|8|96
+Geoff Hartlieb|R|Keston Hiura|R|Strikeout|F|Sinker|11|0|2|2|6|96
+Geoff Hartlieb|R|Keston Hiura|R|Strikeout|W|Slider|12|0|2|2|14|86
+Geoff Hartlieb|R|Jon Berti|R|Groundout|B|Slider|0|0|0|2|14|83
+Geoff Hartlieb|R|Jon Berti|R|Groundout|X|Sinker|1|1|0|2|5|94
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|B|Slider|2|0|0|0|14|84
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|F|Four-Seam Fastball|3|1|0|0|2|96
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|F|Sinker|4|1|1|0|13|95
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|F|Slider|5|1|2|0|12|86
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|B|Slider|6|1|2|0|14|86
+Geoff Hartlieb|R|Miguel Rojas|R|Flyout|X|Four-Seam Fastball|7|2|2|0|4|95
+Geoff Hartlieb|R|Starlin Castro|R|Single|B|Four-Seam Fastball|8|0|0|1|11|96
+Geoff Hartlieb|R|Starlin Castro|R|Single|C|Four-Seam Fastball|9|1|0|1|7|94
+Geoff Hartlieb|R|Starlin Castro|R|Single|D|Sinker|10|1|1|1|8|94
+Geoff Hartlieb|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|11|0|0|1|6|96
+Geoff Hartlieb|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|12|0|1|1|13|94
+Geoff Hartlieb|R|Neil Walker|L|Strikeout|F|Slider|13|1|1|1|6|84
+Geoff Hartlieb|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|14|1|2|1|11|95
+Geoff Hartlieb|R|Neil Walker|L|Strikeout|S|Slider|15|2|2|1|14|85
+Geoff Hartlieb|R|Garrett Cooper|R|Double|E|Slider|16|0|0|2|8|84
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|B|Changeup|17|0|0|2|14|90
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|F|Changeup|18|1|0|2|5|89
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|S|Four-Seam Fastball|19|1|1|2|14|95
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|B|Slider|20|1|2|2|14|86
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|F|Slider|21|2|2|2|5|85
+Geoff Hartlieb|R|Isan Diaz|L|Pop Out|X|Changeup|22|2|2|2|4|89
+Geoff Hartlieb|R|Austin Dean|R|Double|B|Four-Seam Fastball|0|0|0|0|12|95
+Geoff Hartlieb|R|Austin Dean|R|Double|D|Sinker|1|1|0|0|8|94
+Geoff Hartlieb|R|Jon Berti|R|Walk|B|Sinker|2|0|0|0|8|95
+Geoff Hartlieb|R|Jon Berti|R|Walk|B|Slider|3|1|0|0|11|83
+Geoff Hartlieb|R|Jon Berti|R|Walk|B|Sinker|4|2|0|0|13|95
+Geoff Hartlieb|R|Jon Berti|R|Walk|C|Four-Seam Fastball|5|3|0|0|3|97
+Geoff Hartlieb|R|Jon Berti|R|Walk|B|Four-Seam Fastball|6|3|1|0|12|95
+Geoff Hartlieb|R|Starlin Castro|R|Single|B|Slider|7|0|0|0|14|85
+Geoff Hartlieb|R|Starlin Castro|R|Single|B|Sinker|8|1|0|0|14|95
+Geoff Hartlieb|R|Starlin Castro|R|Single|D|Four-Seam Fastball|9|2|0|0|13|96
+Geoff Hartlieb|R|Garrett Cooper|R|Walk|B|Four-Seam Fastball|10|0|0|0|8|97
+Geoff Hartlieb|R|Garrett Cooper|R|Walk|B|Four-Seam Fastball|11|1|0|0|9|97
+Geoff Hartlieb|R|Garrett Cooper|R|Walk|S|Sinker|12|2|0|0|13|96
+Geoff Hartlieb|R|Garrett Cooper|R|Walk|B|Sinker|13|2|1|0|14|96
+Geoff Hartlieb|R|Garrett Cooper|R|Walk|B|Sinker|14|3|1|0|13|95
+Geoff Hartlieb|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|95
+Geoff Hartlieb|R|Harrison Bader|R|Walk|B|Slider|1|1|0|0|14|84
+Geoff Hartlieb|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|95
+Geoff Hartlieb|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|3|3|0|0|13|94
+Geoff Hartlieb|R|Adam Wainwright|R|Single|F|Four-Seam Fastball|4|0|0|0|14|97
+Geoff Hartlieb|R|Adam Wainwright|R|Single|B|Four-Seam Fastball|5|0|1|0|14|96
+Geoff Hartlieb|R|Adam Wainwright|R|Single|D|Four-Seam Fastball|6|1|1|0|9|96
+Geoff Hartlieb|R|Dexter Fowler|L|Strikeout|*B|Slider|7|0|0|0|14|85
+Geoff Hartlieb|R|Dexter Fowler|L|Strikeout|B|Four-Seam Fastball|8|1|0|0|14|96
+Geoff Hartlieb|R|Dexter Fowler|L|Strikeout|F|Four-Seam Fastball|9|2|0|0|14|96
+Geoff Hartlieb|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|10|2|1|0|14|97
+Geoff Hartlieb|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|11|2|2|0|14|98
+Geoff Hartlieb|R|Kolten Wong|L|Forceout|C|Four-Seam Fastball|12|0|0|1|14|98
+Geoff Hartlieb|R|Kolten Wong|L|Forceout|B|Four-Seam Fastball|13|0|1|1|11|97
+Geoff Hartlieb|R|Kolten Wong|L|Forceout|S|Slider|14|1|1|1|8|86
+Geoff Hartlieb|R|Kolten Wong|L|Forceout|B|Four-Seam Fastball|15|1|2|1|14|97
+Geoff Hartlieb|R|Kolten Wong|L|Forceout|X|Four-Seam Fastball|16|2|2|1|9|97
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|S|Slider|17|0|0|2|14|87
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|B|Slider|18|0|1|2|13|85
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|S|Four-Seam Fastball|19|1|1|2|5|96
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|B|Slider|20|1|2|2|14|87
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|21|2|2|2|14|97
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|F|Four-Seam Fastball|22|3|2|2|2|95
+Geoff Hartlieb|R|Paul Goldschmidt|R|Walk|B|Slider|23|3|2|2|14|86
+Geoff Hartlieb|R|Marcell Ozuna|R|Groundout|S|Four-Seam Fastball|24|0|0|2|7|97
+Geoff Hartlieb|R|Marcell Ozuna|R|Groundout|*B|Sinker|25|0|1|2|14|95
+Geoff Hartlieb|R|Marcell Ozuna|R|Groundout|B|Slider|26|1|1|2|14|86
+Geoff Hartlieb|R|Marcell Ozuna|R|Groundout|C|Slider|27|2|1|2|13|85
+Geoff Hartlieb|R|Marcell Ozuna|R|Groundout|X|Four-Seam Fastball|28|2|2|2|13|97
+Geoff Hartlieb|R|Dee Gordon|L|Lineout|F|Four-Seam Fastball|0|0|0|2|11|94
+Geoff Hartlieb|R|Dee Gordon|L|Lineout|B|Sinker|1|0|1|2|13|92
+Geoff Hartlieb|R|Dee Gordon|L|Lineout|X|Four-Seam Fastball|2|1|1|2|5|93
+Geoff Hartlieb|R|Dylan Moore|R|Groundout|B|Slider|3|0|0|0|13|84
+Geoff Hartlieb|R|Dylan Moore|R|Groundout|F|Four-Seam Fastball|4|1|0|0|8|94
+Geoff Hartlieb|R|Dylan Moore|R|Groundout|B|Slider|5|1|1|0|13|83
+Geoff Hartlieb|R|Dylan Moore|R|Groundout|X|Slider|6|2|1|0|9|84
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|T|Changeup|7|0|0|1|9|92
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|C|Four-Seam Fastball|8|0|1|1|8|93
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|B|Sinker|9|0|2|1|13|93
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|F|Four-Seam Fastball|10|1|2|1|1|93
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|B|Slider|11|1|2|1|13|83
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|B|Four-Seam Fastball|12|2|2|1|11|95
+Geoff Hartlieb|R|Tommy Milone|L|Groundout|X|Four-Seam Fastball|13|3|2|1|2|94
+Geoff Hartlieb|R|Ian Kinsler|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|95
+Geoff Hartlieb|R|Ian Kinsler|R|Strikeout|B|Sinker|1|0|1|0|14|95
+Geoff Hartlieb|R|Ian Kinsler|R|Strikeout|S|Sinker|2|1|1|0|9|95
+Geoff Hartlieb|R|Ian Kinsler|R|Strikeout|S|Sinker|3|1|2|0|13|98
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|C|Slider|4|0|0|1|3|84
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|B|Sinker|5|0|1|1|13|95
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|B|Slider|6|1|1|1|14|84
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|B|Sinker|7|2|1|1|13|94
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|C|Four-Seam Fastball|8|3|1|1|6|96
+Geoff Hartlieb|R|Franmil Reyes|R|Groundout|X|Sinker|9|3|2|1|5|95
+Geoff Hartlieb|R|Manny Machado|R|Pop Out|B|Four-Seam Fastball|10|0|0|2|14|97
+Geoff Hartlieb|R|Manny Machado|R|Pop Out|B|Four-Seam Fastball|11|1|0|2|14|95
+Geoff Hartlieb|R|Manny Machado|R|Pop Out|X|Four-Seam Fastball|12|2|0|2|6|95
+Geoff Hartlieb|R|Austin Allen|L|Groundout|B|Sinker|0|0|0|0|13|92
+Geoff Hartlieb|R|Austin Allen|L|Groundout|B|Four-Seam Fastball|1|1|0|0|13|93
+Geoff Hartlieb|R|Austin Allen|L|Groundout|X|Sinker|2|2|0|0|8|92
+Geoff Hartlieb|R|Wil Myers|R|Walk|B|Four-Seam Fastball|3|0|0|1|12|96
+Geoff Hartlieb|R|Wil Myers|R|Walk|B|Four-Seam Fastball|4|1|0|1|14|93
+Geoff Hartlieb|R|Wil Myers|R|Walk|B|Sinker|5|2|0|1|14|93
+Geoff Hartlieb|R|Wil Myers|R|Walk|C|Four-Seam Fastball|6|3|0|1|7|95
+Geoff Hartlieb|R|Wil Myers|R|Walk|B|Sinker|7|3|1|1|9|93
+Geoff Hartlieb|R|Ty France|R|Groundout|C|Slider|8|0|0|1|5|83
+Geoff Hartlieb|R|Ty France|R|Groundout|*B|Slider|9|0|1|1|14|81
+Geoff Hartlieb|R|Ty France|R|Groundout|B|Sinker|10|1|1|1|14|94
+Geoff Hartlieb|R|Ty France|R|Groundout|B|Four-Seam Fastball|11|2|1|1|14|94
+Geoff Hartlieb|R|Ty France|R|Groundout|S|Sinker|12|3|1|1|7|94
+Geoff Hartlieb|R|Ty France|R|Groundout|X|Sinker|13|3|2|1|5|94
+Geoff Hartlieb|R|Matt Carpenter|L|Sac Fly|B|Changeup|0|0|0|1|14|91
+Geoff Hartlieb|R|Matt Carpenter|L|Sac Fly|E|Sinker|1|1|0|1|4|95
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|C|Sinker|2|0|0|2|6|97
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|B|Four-Seam Fastball|3|0|1|2|1|97
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|F|Slider|4|1|1|2|8|84
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|5|1|2|2|2|98
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|F|Sinker|6|1|2|2|13|96
+Geoff Hartlieb|R|Kolten Wong|L|Groundout|X|Slider|7|1|2|2|7|86
+Geoff Hartlieb|R|Tommy Edman|L|Single|C|Four-Seam Fastball|0|0|0|0|9|97
+Geoff Hartlieb|R|Tommy Edman|L|Single|B|Four-Seam Fastball|1|0|1|0|11|96
+Geoff Hartlieb|R|Tommy Edman|L|Single|B|Sinker|2|1|1|0|14|94
+Geoff Hartlieb|R|Tommy Edman|L|Single|D|Four-Seam Fastball|3|2|1|0|2|95
+Geoff Hartlieb|R|Dexter Fowler|L|Home Run|B|Four-Seam Fastball|4|0|0|0|13|97
+Geoff Hartlieb|R|Dexter Fowler|L|Home Run|B|Four-Seam Fastball|5|1|0|0|11|96
+Geoff Hartlieb|R|Dexter Fowler|L|Home Run|B|Sinker|6|2|0|0|13|95
+Geoff Hartlieb|R|Dexter Fowler|L|Home Run|E|Four-Seam Fastball|7|3|0|0|8|95
+Geoff Hartlieb|R|Paul Goldschmidt|R|Single|F|Sinker|8|0|0|0|13|96
+Geoff Hartlieb|R|Paul Goldschmidt|R|Single|B|Slider|9|0|1|0|13|85
+Geoff Hartlieb|R|Paul Goldschmidt|R|Single|D|Slider|10|1|1|0|7|84
+Geoff Hartlieb|R|Marcell Ozuna|R|Single|S|Four-Seam Fastball|11|0|0|0|8|97
+Geoff Hartlieb|R|Marcell Ozuna|R|Single|F|Sinker|12|0|1|0|13|94
+Geoff Hartlieb|R|Marcell Ozuna|R|Single|F|Slider|13|0|2|0|14|87
+Geoff Hartlieb|R|Marcell Ozuna|R|Single|B|Four-Seam Fastball|14|0|2|0|12|96
+Geoff Hartlieb|R|Marcell Ozuna|R|Single|D|Slider|15|1|2|0|14|85
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|B|Sinker|0|0|0|0|13|94
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|1|1|0|0|6|94
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|3|97
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|98
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|8|96
+Geoff Hartlieb|R|Dansby Swanson|R|Strikeout|S|Slider|5|2|2|0|9|87
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|B|Changeup|6|0|0|1|13|91
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|B|Sinker|7|1|0|1|13|95
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|F|Sinker|8|2|0|1|13|97
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|9|2|1|1|14|96
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|S|Sinker|10|3|1|1|13|95
+Geoff Hartlieb|R|Freddie Freeman|L|Groundout|X|Four-Seam Fastball|11|3|2|1|4|97
+Geoff Hartlieb|R|Johan Camargo|L|Double|F|Sinker|12|0|0|2|13|96
+Geoff Hartlieb|R|Johan Camargo|L|Double|B|Sinker|13|0|1|2|13|96
+Geoff Hartlieb|R|Johan Camargo|L|Double|D|Four-Seam Fastball|14|1|1|2|8|96
+Geoff Hartlieb|R|Nick Markakis|L|Single|B|Four-Seam Fastball|15|0|0|2|14|96
+Geoff Hartlieb|R|Nick Markakis|L|Single|B|Changeup|16|1|0|2|13|90
+Geoff Hartlieb|R|Nick Markakis|L|Single|E|Four-Seam Fastball|17|2|0|2|9|96
+Geoff Hartlieb|R|Austin Riley|R|Pop Out|X|Slider|18|0|0|2|9|84
+Geoff Hartlieb|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|19|0|0|0|11|94
+Geoff Hartlieb|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|20|1|0|0|14|92
+Geoff Hartlieb|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|21|1|1|0|11|94
+Geoff Hartlieb|R|Brian McCann|L|Groundout|X|Sinker|22|2|1|0|7|93
+Geoff Hartlieb|R|Ozzie Albies|L|Home Run|E|Sinker|23|0|0|1|5|94
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|B|Changeup|24|0|0|1|14|89
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|F|Sinker|25|1|0|1|5|94
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|B|Four-Seam Fastball|26|1|1|1|14|94
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|F|Changeup|27|2|1|1|14|90
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|X|Four-Seam Fastball|28|2|2|1|4|96
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Strikeout|C|Slider|29|0|0|2|4|84
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|30|0|1|2|7|97
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Strikeout|C|Slider|31|1|1|2|2|85
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|32|1|2|2|6|96
+Geoff Hartlieb|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|95
+Geoff Hartlieb|R|Brian McCann|L|Groundout|S|Four-Seam Fastball|1|1|0|0|8|94
+Geoff Hartlieb|R|Brian McCann|L|Groundout|S|Four-Seam Fastball|2|1|1|0|12|96
+Geoff Hartlieb|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|3|1|2|0|6|97
+Geoff Hartlieb|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|4|1|2|0|14|97
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|*B|Slider|5|0|0|1|14|84
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|B|Four-Seam Fastball|6|1|0|1|14|96
+Geoff Hartlieb|R|Matt Joyce|L|Groundout|E|Sinker|7|2|0|1|8|94
+Geoff Hartlieb|R|Julio Teheran|R|Strikeout|S|Sinker|8|0|0|2|13|94
+Geoff Hartlieb|R|Julio Teheran|R|Strikeout|B|Sinker|9|0|1|2|13|95
+Geoff Hartlieb|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|10|1|1|2|9|95
+Geoff Hartlieb|R|Julio Teheran|R|Strikeout|B|Sinker|11|1|2|2|13|95
+Geoff Hartlieb|R|Julio Teheran|R|Strikeout|S|Four-Seam Fastball|12|2|2|2|14|96
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Single|C|Sinker|13|0|0|0|9|93
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Single|T|Four-Seam Fastball|14|0|1|0|5|96
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Single|F|Slider|15|0|2|0|7|85
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Single|B|Slider|16|0|2|0|14|86
+Geoff Hartlieb|R|Ronald Acuna Jr.|R|Single|D|Four-Seam Fastball|17|1|2|0|7|97
+Geoff Hartlieb|R|Dansby Swanson|R|Forceout|C|Four-Seam Fastball|18|0|0|0|14|97
+Geoff Hartlieb|R|Dansby Swanson|R|Forceout|B|Sinker|19|0|1|0|13|95
+Geoff Hartlieb|R|Dansby Swanson|R|Forceout|*B|Four-Seam Fastball|20|1|1|0|14|96
+Geoff Hartlieb|R|Dansby Swanson|R|Forceout|C|Slider|21|2|1|0|7|84
+Geoff Hartlieb|R|Dansby Swanson|R|Forceout|X|Four-Seam Fastball|22|2|2|0|13|97
+Geoff Hartlieb|R|Freddie Freeman|L|Lineout|X|Sinker|23|0|0|1|14|94
+Geoff Hartlieb|R|Josh Donaldson|R|Groundout|C|Slider|24|0|0|2|7|85
+Geoff Hartlieb|R|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|25|0|1|2|13|97
+Geoff Hartlieb|R|Josh Donaldson|R|Groundout|X|Sinker|26|0|2|2|13|96
+Geoff Hartlieb|R|Garrett Cooper|R|Single|C|Sinker|0|0|0|0|14|93
+Geoff Hartlieb|R|Garrett Cooper|R|Single|D|Sinker|1|0|1|0|5|93
+Geoff Hartlieb|R|Brian Anderson|R|Double|C|Slider|2|0|0|0|9|84
+Geoff Hartlieb|R|Brian Anderson|R|Double|D|Slider|3|0|1|0|9|84
+Geoff Hartlieb|R|Starlin Castro|R|Groundout|B|Sinker|4|0|0|0|13|96
+Geoff Hartlieb|R|Starlin Castro|R|Groundout|F|Sinker|5|1|0|0|11|93
+Geoff Hartlieb|R|Starlin Castro|R|Groundout|F|Sinker|6|1|1|0|13|96
+Geoff Hartlieb|R|Starlin Castro|R|Groundout|E|Sinker|7|1|2|0|13|97
+Geoff Hartlieb|R|Harold Ramirez|R|Single|C|Sinker|8|0|0|1|5|95
+Geoff Hartlieb|R|Harold Ramirez|R|Single|C|Slider|9|0|1|1|9|85
+Geoff Hartlieb|R|Harold Ramirez|R|Single|B|Four-Seam Fastball|10|0|2|1|14|98
+Geoff Hartlieb|R|Harold Ramirez|R|Single|F|Slider|11|1|2|1|9|84
+Geoff Hartlieb|R|Harold Ramirez|R|Single|F|Four-Seam Fastball|12|1|2|1|9|98
+Geoff Hartlieb|R|Harold Ramirez|R|Single|X|Four-Seam Fastball|13|1|2|1|11|98
+Geoff Hartlieb|R|JT Riddle|L|Groundout|C|Sinker|14|0|0|2|9|96
+Geoff Hartlieb|R|JT Riddle|L|Groundout|X|Changeup|15|0|1|2|13|89
+Geoff Hartlieb|R|Jorge Alfaro|R|Groundout|C|Sinker|16|0|0|0|8|94
+Geoff Hartlieb|R|Jorge Alfaro|R|Groundout|X|Slider|17|0|1|0|8|85
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|F|Sinker|18|0|0|1|13|95
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|B|Sinker|19|0|1|1|13|95
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|B|Slider|20|1|1|1|13|85
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|F|Sinker|21|2|1|1|13|95
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|B|Slider|22|2|2|1|14|85
+Geoff Hartlieb|R|Miguel Rojas|R|Walk|B|Four-Seam Fastball|23|3|2|1|13|97
+Geoff Hartlieb|R|Pablo Lopez|L|Strikeout|S|Sinker|24|0|0|1|13|94
+Geoff Hartlieb|R|Pablo Lopez|L|Strikeout|M|Sinker|25|0|1|1|13|94
+Geoff Hartlieb|R|Pablo Lopez|L|Strikeout|L|Sinker|26|0|2|1|13|96
+Geoff Hartlieb|R|Curtis Granderson|L|Strikeout|C|Sinker|27|0|0|2|13|93
+Geoff Hartlieb|R|Curtis Granderson|L|Strikeout|W|Changeup|28|0|1|2|14|89
+Geoff Hartlieb|R|Curtis Granderson|L|Strikeout|S|Changeup|29|0|2|2|13|89
+Geoff Hartlieb|R|Lorenzo Cain|R|Single|E|Sinker|0|0|0|1|8|97
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|F|Changeup|1|0|0|1|14|90
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|C|Changeup|2|0|1|1|13|89
+Geoff Hartlieb|R|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|3|0|2|1|4|97
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Sinker|4|0|0|2|8|96
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|B|Sinker|5|0|1|2|13|94
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|S|Four-Seam Fastball|6|1|1|2|12|97
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|7|1|2|2|12|97
+Geoff Hartlieb|R|Ryan Braun|R|Strikeout|W|Slider|8|1|2|2|14|86
+Geoff Hartlieb|R|Mike Moustakas|L|Single|C|Four-Seam Fastball|9|0|0|0|14|95
+Geoff Hartlieb|R|Mike Moustakas|L|Single|B|Changeup|10|0|1|0|13|89
+Geoff Hartlieb|R|Mike Moustakas|L|Single|B|Four-Seam Fastball|11|1|1|0|12|95
+Geoff Hartlieb|R|Mike Moustakas|L|Single|D|Sinker|12|2|1|0|2|93
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|C|Four-Seam Fastball|13|0|0|0|4|95
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Changeup|14|0|1|0|4|90
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Four-Seam Fastball|15|0|2|0|3|97
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Four-Seam Fastball|16|0|2|0|12|96
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Changeup|17|0|2|0|13|91
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Slider|18|0|2|0|6|84
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Four-Seam Fastball|19|0|2|0|3|97
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|F|Changeup|20|0|2|0|11|91
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|B|Sinker|21|0|2|0|13|95
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|B|Changeup|22|1|2|0|13|90
+Geoff Hartlieb|R|Yasmani Grandal|L|Single|D|Slider|23|2|2|0|5|84
+Geoff Hartlieb|R|Eric Thames|L|Flyout|X|Four-Seam Fastball|24|0|0|0|12|96
+Geoff Hartlieb|R|Travis Shaw|L|Strikeout|S|Changeup|25|0|0|1|13|89
+Geoff Hartlieb|R|Travis Shaw|L|Strikeout|B|Changeup|26|0|1|1|13|89
+Geoff Hartlieb|R|Travis Shaw|L|Strikeout|B|Four-Seam Fastball|27|1|1|1|3|96
+Geoff Hartlieb|R|Travis Shaw|L|Strikeout|F|Changeup|28|2|1|1|4|90
+Geoff Hartlieb|R|Travis Shaw|L|Strikeout|S|Four-Seam Fastball|29|2|2|1|3|98
+Geoff Hartlieb|R|Orlando Arcia|R|Groundout|B|Four-Seam Fastball|30|0|0|2|14|96
+Geoff Hartlieb|R|Orlando Arcia|R|Groundout|X|Sinker|31|1|0|2|13|94
+Geoff Hartlieb|R|Orlando Arcia|R|Sac Fly|C|Changeup|0|0|0|0|3|91
+Geoff Hartlieb|R|Orlando Arcia|R|Sac Fly|S|Slider|1|0|1|0|9|83
+Geoff Hartlieb|R|Orlando Arcia|R|Sac Fly|B|Slider|2|0|2|0|12|84
+Geoff Hartlieb|R|Orlando Arcia|R|Sac Fly|E|Four-Seam Fastball|3|1|2|0|2|96
+Geoff Hartlieb|R|Ben Gamel|L|Forceout|X|Sinker|4|0|0|1|5|95
+Geoff Hartlieb|R|Lorenzo Cain|R|Forceout|X|Sinker|5|0|0|2|13|95
+Geoff Hartlieb|R|Lorenzo Cain|R|Forceout|X|Sinker|0|0|0|2|4|95
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|C|Changeup|1|0|0|0|11|87
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|2|0|1|0|11|94
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|C|Sinker|3|1|1|0|11|94
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|F|Slider|4|1|2|0|12|86
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|F|Slider|5|1|2|0|6|85
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|6|1|2|0|13|98
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|F|Sinker|7|2|2|0|5|93
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|8|2|2|0|13|94
+Geoff Hartlieb|R|Yasmani Grandal|L|Walk|B|Sinker|9|3|2|0|14|94
+Geoff Hartlieb|R|Mike Moustakas|L|Lineout|B|Changeup|10|0|0|0|1|88
+Geoff Hartlieb|R|Mike Moustakas|L|Lineout|X|Four-Seam Fastball|11|1|0|0|5|95
+Geoff Hartlieb|R|Eric Thames|L|Single|B|Four-Seam Fastball|12|0|0|1|13|95
+Geoff Hartlieb|R|Eric Thames|L|Single|B|Changeup|13|1|0|1|14|88
+Geoff Hartlieb|R|Eric Thames|L|Single|D|Sinker|14|2|0|1|13|94
+Geoff Hartlieb|R|Cory Spangenberg|L|Single|F|Changeup|15|0|0|1|2|88
+Geoff Hartlieb|R|Cory Spangenberg|L|Single|C|Four-Seam Fastball|16|0|1|1|1|95
+Geoff Hartlieb|R|Cory Spangenberg|L|Single|D|Sinker|17|0|2|1|14|96
+Geoff Hartlieb|R|Trent Grisham|L|Triple|C|Four-Seam Fastball|18|0|0|1|7|96
+Geoff Hartlieb|R|Trent Grisham|L|Triple|E|Changeup|19|0|1|1|8|89
+Geoff Hartlieb|R|Manny Pina|R|Sac Fly|B|Slider|20|0|0|1|13|84
+Geoff Hartlieb|R|Manny Pina|R|Sac Fly|S|Sinker|21|1|0|1|13|95
+Geoff Hartlieb|R|Manny Pina|R|Sac Fly|S|Sinker|22|1|1|1|13|95
+Geoff Hartlieb|R|Manny Pina|R|Sac Fly|F|Sinker|23|1|2|1|13|96
+Geoff Hartlieb|R|Manny Pina|R|Sac Fly|E|Slider|24|1|2|1|12|85
+Geoff Hartlieb|R|Orlando Arcia|R|Strikeout|C|Slider|25|0|0|2|6|84
+Geoff Hartlieb|R|Orlando Arcia|R|Strikeout|F|Four-Seam Fastball|26|0|1|2|3|94
+Geoff Hartlieb|R|Orlando Arcia|R|Strikeout|S|Slider|27|0|2|2|14|85

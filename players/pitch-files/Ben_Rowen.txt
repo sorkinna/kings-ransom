@@ -1,0 +1,60 @@
+Ben Rowen|R|Andrew McCutchen|R|Pop Out|C|Sinker|0|0|0|0|3|81
+Ben Rowen|R|Andrew McCutchen|R|Pop Out|B|Sinker|1|0|1|0|12|81
+Ben Rowen|R|Andrew McCutchen|R|Pop Out|F|Sinker|2|1|1|0|8|80
+Ben Rowen|R|Andrew McCutchen|R|Pop Out|X|Slider|3|1|2|0|6|73
+Ben Rowen|R|Alen Hanson|L|Lineout|B|Sinker|4|0|0|1|11|80
+Ben Rowen|R|Alen Hanson|L|Lineout|F|Sinker|5|1|0|1|2|81
+Ben Rowen|R|Alen Hanson|L|Lineout|B|Changeup|6|1|1|1|13|77
+Ben Rowen|R|Alen Hanson|L|Lineout|B|Sinker|7|2|1|1|12|80
+Ben Rowen|R|Alen Hanson|L|Lineout|F|Sinker|8|3|1|1|2|79
+Ben Rowen|R|Alen Hanson|L|Lineout|X|Sinker|9|3|2|1|2|81
+Ben Rowen|R|Starling Marte|R|Strikeout|B|Sinker|10|0|0|2|14|80
+Ben Rowen|R|Starling Marte|R|Strikeout|F|Sinker|11|1|0|2|13|80
+Ben Rowen|R|Starling Marte|R|Strikeout|F|Slider|12|1|1|2|5|72
+Ben Rowen|R|Starling Marte|R|Strikeout|B|Slider|13|1|2|2|14|73
+Ben Rowen|R|Starling Marte|R|Strikeout|F|Sinker|14|2|2|2|14|80
+Ben Rowen|R|Starling Marte|R|Strikeout|F|Sinker|15|2|2|2|8|80
+Ben Rowen|R|Starling Marte|R|Strikeout|B|Sinker|16|2|2|2|12|81
+Ben Rowen|R|Starling Marte|R|Strikeout|F|Sinker|17|3|2|2|13|80
+Ben Rowen|R|Starling Marte|R|Strikeout|C|Sinker|18|3|2|2|4|80
+Ben Rowen|R|Jorge Soler|R|Single|C|Changeup|0|0|0|1|4|78
+Ben Rowen|R|Jorge Soler|R|Single|C|Slider|1|0|1|1|7|72
+Ben Rowen|R|Jorge Soler|R|Single|B|Slider|2|0|2|1|12|72
+Ben Rowen|R|Jorge Soler|R|Single|D|Slider|3|1|2|1|14|71
+Ben Rowen|R|Addison Russell|R|Single|C|Slider|4|0|0|1|7|72
+Ben Rowen|R|Addison Russell|R|Single|D|Changeup|5|0|1|1|9|78
+Ben Rowen|R|Jason Heyward|L|Field Error|E|Changeup|6|0|0|1|13|78
+Ben Rowen|R|Javier Baez|R|Single|E|Slider|7|0|0|1|5|71
+Ben Rowen|R|Jedd Gyorko|R|Single|D|Sinker|0|0|0|2|1|80
+Ben Rowen|R|Stephen Piscotty|R|Groundout|C|Sinker|1|0|0|2|6|81
+Ben Rowen|R|Stephen Piscotty|R|Groundout|X|Sinker|2|0|1|2|8|80
+Ben Rowen|R|Jose Martinez|R|Single|C|Sinker|3|0|0|0|13|81
+Ben Rowen|R|Jose Martinez|R|Single|S|Slider|4|0|1|0|7|71
+Ben Rowen|R|Jose Martinez|R|Single|F|Sinker|5|0|2|0|13|80
+Ben Rowen|R|Jose Martinez|R|Single|E|Sinker|6|0|2|0|7|80
+Ben Rowen|R|Brandon Moss|L|Single|D|Sinker|7|0|0|0|7|80
+Ben Rowen|R|Randal Grichuk|R|Strikeout|F|Slider|8|0|0|0|2|72
+Ben Rowen|R|Randal Grichuk|R|Strikeout|S|Slider|9|0|1|0|14|72
+Ben Rowen|R|Randal Grichuk|R|Strikeout|S|Slider|10|0|2|0|14|72
+Ben Rowen|R|Jhonny Peralta|R|Lineout|C|Slider|11|0|0|1|14|72
+Ben Rowen|R|Jhonny Peralta|R|Lineout|X|Sinker|12|0|1|1|7|81
+Ben Rowen|R|Andrew McCutchen|R|Single|C|Sinker|0|0|0|0|7|79
+Ben Rowen|R|Andrew McCutchen|R|Single|B|Slider|1|0|1|0|14|71
+Ben Rowen|R|Andrew McCutchen|R|Single|C|Sinker|2|1|1|0|2|80
+Ben Rowen|R|Andrew McCutchen|R|Single|B|Sinker|3|1|2|0|13|78
+Ben Rowen|R|Andrew McCutchen|R|Single|D|Sinker|4|2|2|0|12|79
+Ben Rowen|R|Gregory Polanco|L|Lineout|B|Sinker|5|0|0|0|13|79
+Ben Rowen|R|Gregory Polanco|L|Lineout|B|Sinker|6|1|0|0|13|79
+Ben Rowen|R|Gregory Polanco|L|Lineout|X|Sinker|7|2|0|0|6|79
+Ben Rowen|R|Jung Ho Kang|R|Grounded Into DP|B|Slider|8|0|0|1|12|72
+Ben Rowen|R|Jung Ho Kang|R|Grounded Into DP|B|Slider|9|1|0|1|14|71
+Ben Rowen|R|Jung Ho Kang|R|Grounded Into DP|C|Sinker|10|2|0|1|4|80
+Ben Rowen|R|Jung Ho Kang|R|Grounded Into DP|X|Sinker|11|2|1|1|2|80
+Ben Rowen|R|Francisco Cervelli|R|Single|B|Sinker|12|0|0|0|13|79
+Ben Rowen|R|Francisco Cervelli|R|Single|C|Sinker|13|1|0|0|14|79
+Ben Rowen|R|Francisco Cervelli|R|Single|D|Slider|14|1|1|0|14|71
+Ben Rowen|R|Sean Rodriguez|R|Single|L|Slider|15|0|0|0|9|71
+Ben Rowen|R|Sean Rodriguez|R|Single|B|Slider|16|0|1|0|14|71
+Ben Rowen|R|Sean Rodriguez|R|Single|D|Sinker|17|1|1|0|14|79
+Ben Rowen|R|Jordy Mercer|R|Single|B|Sinker|18|0|0|0|12|80
+Ben Rowen|R|Jordy Mercer|R|Single|E|Sinker|19|1|0|0|7|80

@@ -1,0 +1,345 @@
+Emmanuel Clase|R|Brian Goodwin|L|Flyout|C|Cutter|0|0|0|0|5|99
+Emmanuel Clase|R|Brian Goodwin|L|Flyout|X|Four-Seam Fastball|1|0|1|0|2|99
+Emmanuel Clase|R|David Fletcher|R|Walk|B|Cutter|2|0|0|1|14|100
+Emmanuel Clase|R|David Fletcher|R|Walk|B|Cutter|3|1|0|1|14|98
+Emmanuel Clase|R|David Fletcher|R|Walk|C|Cutter|4|2|0|1|9|99
+Emmanuel Clase|R|David Fletcher|R|Walk|B|Cutter|5|2|1|1|14|99
+Emmanuel Clase|R|David Fletcher|R|Walk|B|Cutter|6|3|1|1|14|99
+Emmanuel Clase|R|Shohei Ohtani|L|Double|D|Cutter|7|0|0|1|8|99
+Emmanuel Clase|R|Justin Upton|R|Walk|B|Slider|8|0|0|1|14|90
+Emmanuel Clase|R|Justin Upton|R|Walk|C|Slider|9|1|0|1|13|89
+Emmanuel Clase|R|Justin Upton|R|Walk|B|Cutter|10|1|1|1|14|98
+Emmanuel Clase|R|Justin Upton|R|Walk|C|Slider|11|2|1|1|7|90
+Emmanuel Clase|R|Justin Upton|R|Walk|F|Cutter|12|2|2|1|6|98
+Emmanuel Clase|R|Justin Upton|R|Walk|B|Slider|13|2|2|1|14|92
+Emmanuel Clase|R|Justin Upton|R|Walk|*B|Cutter|14|3|2|1|14|99
+Emmanuel Clase|R|Kole Calhoun|L|Grounded Into DP|F|Cutter|15|0|0|1|2|99
+Emmanuel Clase|R|Kole Calhoun|L|Grounded Into DP|X|Cutter|16|0|1|1|12|98
+Emmanuel Clase|R|Rio Ruiz|L|Forceout|X|Cutter|0|0|0|1|5|99
+Emmanuel Clase|R|Hanser Alberto|R|Flyout|C|Cutter|1|0|0|2|1|100
+Emmanuel Clase|R|Hanser Alberto|R|Flyout|X|Cutter|2|0|1|2|7|99
+Emmanuel Clase|R|Rio Ruiz|L|Flyout|B|Cutter|0|0|0|0|13|99
+Emmanuel Clase|R|Rio Ruiz|L|Flyout|F|Cutter|1|1|0|0|13|99
+Emmanuel Clase|R|Rio Ruiz|L|Flyout|S|Slider|2|1|1|0|5|92
+Emmanuel Clase|R|Rio Ruiz|L|Flyout|X|Cutter|3|1|2|0|5|99
+Emmanuel Clase|R|Hanser Alberto|R|Groundout|B|Slider|4|0|0|1|11|91
+Emmanuel Clase|R|Hanser Alberto|R|Groundout|F|Cutter|5|1|0|1|2|99
+Emmanuel Clase|R|Hanser Alberto|R|Groundout|F|Slider|6|1|1|1|4|90
+Emmanuel Clase|R|Hanser Alberto|R|Groundout|X|Slider|7|1|2|1|13|91
+Emmanuel Clase|R|Trey Mancini|R|Groundout|B|Cutter|8|0|0|2|11|100
+Emmanuel Clase|R|Trey Mancini|R|Groundout|X|Cutter|9|1|0|2|13|98
+Emmanuel Clase|R|Roberto Perez|R|Groundout|C|Cutter|0|0|0|0|7|99
+Emmanuel Clase|R|Roberto Perez|R|Groundout|F|Cutter|1|0|1|0|6|98
+Emmanuel Clase|R|Roberto Perez|R|Groundout|F|Cutter|2|0|2|0|9|98
+Emmanuel Clase|R|Roberto Perez|R|Groundout|F|Slider|3|0|2|0|1|91
+Emmanuel Clase|R|Roberto Perez|R|Groundout|X|Four-Seam Fastball|4|0|2|0|9|98
+Emmanuel Clase|R|Greg Allen|L|Lineout|S|Cutter|5|0|0|1|14|99
+Emmanuel Clase|R|Greg Allen|L|Lineout|B|Cutter|6|0|1|1|2|99
+Emmanuel Clase|R|Greg Allen|L|Lineout|S|Cutter|7|1|1|1|14|99
+Emmanuel Clase|R|Greg Allen|L|Lineout|X|Cutter|8|1|2|1|9|98
+Emmanuel Clase|R|Francisco Lindor|L|Groundout|C|Cutter|9|0|0|2|5|100
+Emmanuel Clase|R|Francisco Lindor|L|Groundout|S|Cutter|10|0|1|2|14|98
+Emmanuel Clase|R|Francisco Lindor|L|Groundout|B|Cutter|11|0|2|2|11|96
+Emmanuel Clase|R|Francisco Lindor|L|Groundout|X|Four-Seam Fastball|12|1|2|2|14|98
+Emmanuel Clase|R|Jose Altuve|R|Home Run|B|Slider|0|0|0|0|11|90
+Emmanuel Clase|R|Jose Altuve|R|Home Run|B|Cutter|1|1|0|0|11|99
+Emmanuel Clase|R|Jose Altuve|R|Home Run|F|Cutter|2|2|0|0|11|99
+Emmanuel Clase|R|Jose Altuve|R|Home Run|E|Cutter|3|2|1|0|2|99
+Emmanuel Clase|R|Michael Brantley|L|Groundout|B|Cutter|4|0|0|0|14|99
+Emmanuel Clase|R|Michael Brantley|L|Groundout|C|Cutter|5|1|0|0|3|100
+Emmanuel Clase|R|Michael Brantley|L|Groundout|C|Slider|6|1|1|0|1|89
+Emmanuel Clase|R|Michael Brantley|L|Groundout|X|Cutter|7|1|2|0|6|98
+Emmanuel Clase|R|Alex Bregman|R|Strikeout|C|Slider|8|0|0|1|7|90
+Emmanuel Clase|R|Alex Bregman|R|Strikeout|C|Cutter|9|0|1|1|11|98
+Emmanuel Clase|R|Alex Bregman|R|Strikeout|S|Cutter|10|0|2|1|11|99
+Emmanuel Clase|R|Yordan Alvarez|L|Single|C|Cutter|11|0|0|2|3|100
+Emmanuel Clase|R|Yordan Alvarez|L|Single|B|Slider|12|0|1|2|14|90
+Emmanuel Clase|R|Yordan Alvarez|L|Single|C|Cutter|13|1|1|2|7|99
+Emmanuel Clase|R|Yordan Alvarez|L|Single|D|Cutter|14|1|2|2|9|99
+Emmanuel Clase|R|Yuli Gurriel|R|Strikeout|C|Cutter|15|0|0|2|7|98
+Emmanuel Clase|R|Yuli Gurriel|R|Strikeout|C|Slider|16|0|1|2|5|89
+Emmanuel Clase|R|Yuli Gurriel|R|Strikeout|S|Cutter|17|0|2|2|14|99
+Emmanuel Clase|R|Robbie Grossman|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|99
+Emmanuel Clase|R|Robbie Grossman|L|Groundout|X|Cutter|1|1|0|0|14|99
+Emmanuel Clase|R|Marcus Semien|R|Groundout|S|Slider|2|0|0|1|8|90
+Emmanuel Clase|R|Marcus Semien|R|Groundout|S|Four-Seam Fastball|3|0|1|1|14|98
+Emmanuel Clase|R|Marcus Semien|R|Groundout|X|Cutter|4|0|2|1|9|99
+Emmanuel Clase|R|Matt Chapman|R|Double|B|Four-Seam Fastball|5|0|0|2|11|101
+Emmanuel Clase|R|Matt Chapman|R|Double|C|Cutter|6|1|0|2|7|99
+Emmanuel Clase|R|Matt Chapman|R|Double|S|Cutter|7|1|1|2|2|99
+Emmanuel Clase|R|Matt Chapman|R|Double|F|Cutter|8|1|2|2|8|100
+Emmanuel Clase|R|Matt Chapman|R|Double|B|Cutter|9|1|2|2|12|99
+Emmanuel Clase|R|Matt Chapman|R|Double|D|Slider|10|2|2|2|8|90
+Emmanuel Clase|R|Matt Olson|L|Strikeout|F|Cutter|11|0|0|2|8|99
+Emmanuel Clase|R|Matt Olson|L|Strikeout|F|Four-Seam Fastball|12|0|1|2|7|99
+Emmanuel Clase|R|Matt Olson|L|Strikeout|F|Cutter|13|0|2|2|6|99
+Emmanuel Clase|R|Matt Olson|L|Strikeout|*B|Slider|14|0|2|2|14|89
+Emmanuel Clase|R|Matt Olson|L|Strikeout|C|Cutter|15|1|2|2|1|98
+Emmanuel Clase|R|Brandon Dixon|R|Flyout|B|Cutter|0|0|0|1|14|99
+Emmanuel Clase|R|Brandon Dixon|R|Flyout|X|Four-Seam Fastball|1|1|0|1|5|99
+Emmanuel Clase|R|Jeimer Candelario|L|Groundout|S|Cutter|2|0|0|2|14|101
+Emmanuel Clase|R|Jeimer Candelario|L|Groundout|X|Cutter|3|0|1|2|2|100
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|C|Cutter|4|0|0|0|5|98
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|C|Slider|5|0|1|0|7|92
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|B|Cutter|6|0|2|0|12|100
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|B|Slider|7|1|2|0|14|91
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|B|Slider|8|2|2|0|11|88
+Emmanuel Clase|R|Travis Demeritte|R|Groundout|X|Cutter|9|3|2|0|9|100
+Emmanuel Clase|R|Victor Reyes|L|Groundout|C|Cutter|10|0|0|1|4|100
+Emmanuel Clase|R|Victor Reyes|L|Groundout|B|Cutter|11|0|1|1|11|100
+Emmanuel Clase|R|Victor Reyes|L|Groundout|B|Cutter|12|1|1|1|12|99
+Emmanuel Clase|R|Victor Reyes|L|Groundout|F|Cutter|13|2|1|1|12|100
+Emmanuel Clase|R|Victor Reyes|L|Groundout|F|Cutter|14|2|2|1|3|99
+Emmanuel Clase|R|Victor Reyes|L|Groundout|X|Cutter|15|2|2|1|6|98
+Emmanuel Clase|R|John Hicks|R|Walk|B|Slider|16|0|0|2|13|91
+Emmanuel Clase|R|John Hicks|R|Walk|B|Cutter|17|1|0|2|2|98
+Emmanuel Clase|R|John Hicks|R|Walk|S|Cutter|18|2|0|2|12|98
+Emmanuel Clase|R|John Hicks|R|Walk|F|Cutter|19|2|1|2|14|98
+Emmanuel Clase|R|John Hicks|R|Walk|B|Slider|20|2|2|2|11|89
+Emmanuel Clase|R|John Hicks|R|Walk|B|Cutter|21|3|2|2|12|98
+Emmanuel Clase|R|Gordon Beckham|R|Strikeout|C|Cutter|22|0|0|2|5|98
+Emmanuel Clase|R|Gordon Beckham|R|Strikeout|S|Cutter|23|0|1|2|3|98
+Emmanuel Clase|R|Gordon Beckham|R|Strikeout|T|Cutter|24|0|2|2|11|98
+Emmanuel Clase|R|Marwin Gonzalez|L|Groundout|S|Cutter|0|0|0|2|14|100
+Emmanuel Clase|R|Marwin Gonzalez|L|Groundout|X|Cutter|1|0|1|2|5|100
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|C|Cutter|2|0|0|0|1|101
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|B|Cutter|3|0|1|0|13|100
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|F|Cutter|4|1|1|0|4|99
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|F|Slider|5|1|2|0|13|91
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|B|Slider|6|1|2|0|13|92
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|F|Cutter|7|2|2|0|4|99
+Emmanuel Clase|R|Eddie Rosario|L|Strikeout|S|Cutter|8|2|2|0|12|99
+Emmanuel Clase|R|Ehire Adrianza|L|Double|B|Cutter|9|0|0|1|14|100
+Emmanuel Clase|R|Ehire Adrianza|L|Double|D|Cutter|10|1|0|1|5|98
+Emmanuel Clase|R|Mitch Garver|R|Groundout|B|Cutter|11|0|0|1|13|100
+Emmanuel Clase|R|Mitch Garver|R|Groundout|X|Cutter|12|1|0|1|5|99
+Emmanuel Clase|R|Ehire Adrianza|L|Single|D|Cutter|0|0|0|0|2|99
+Emmanuel Clase|R|Jason Castro|L|Double|B|Cutter|1|0|0|0|13|100
+Emmanuel Clase|R|Jason Castro|L|Double|S|Cutter|2|1|0|0|8|99
+Emmanuel Clase|R|Jason Castro|L|Double|D|Cutter|3|1|1|0|9|100
+Emmanuel Clase|R|Jake Cave|L|Strikeout|F|Slider|4|0|0|0|14|92
+Emmanuel Clase|R|Jake Cave|L|Strikeout|B|Slider|5|0|1|0|11|91
+Emmanuel Clase|R|Jake Cave|L|Strikeout|S|Slider|6|1|1|0|13|91
+Emmanuel Clase|R|Jake Cave|L|Strikeout|B|Slider|7|1|2|0|4|91
+Emmanuel Clase|R|Jake Cave|L|Strikeout|S|Cutter|8|2|2|0|11|99
+Emmanuel Clase|R|C.J. Cron|R|Fielders Choice Out|B|Slider|9|0|0|1|13|90
+Emmanuel Clase|R|C.J. Cron|R|Fielders Choice Out|X|Cutter|10|1|0|1|8|99
+Emmanuel Clase|R|Miguel Sano|R|Walk|B|Cutter|11|0|0|2|1|100
+Emmanuel Clase|R|Miguel Sano|R|Walk|B|Cutter|12|1|0|2|3|98
+Emmanuel Clase|R|Miguel Sano|R|Walk|B|Cutter|13|2|0|2|11|99
+Emmanuel Clase|R|Miguel Sano|R|Walk|B|Cutter|14|3|0|2|14|98
+Emmanuel Clase|R|Jorge Polanco|L|Triple|B|Cutter|15|0|0|2|14|99
+Emmanuel Clase|R|Jorge Polanco|L|Triple|B|Cutter|16|1|0|2|11|98
+Emmanuel Clase|R|Jorge Polanco|L|Triple|C|Cutter|17|2|0|2|14|98
+Emmanuel Clase|R|Jorge Polanco|L|Triple|E|Cutter|18|2|1|2|14|99
+Emmanuel Clase|R|Eddie Rosario|L|Flyout|S|Slider|19|0|0|2|13|91
+Emmanuel Clase|R|Eddie Rosario|L|Flyout|X|Slider|20|0|1|2|8|90
+Emmanuel Clase|R|Kole Calhoun|L|Groundout|X|Cutter|0|0|0|2|6|99
+Emmanuel Clase|R|David Fletcher|R|Groundout|B|Cutter|1|0|0|0|14|100
+Emmanuel Clase|R|David Fletcher|R|Groundout|C|Cutter|2|1|0|0|3|99
+Emmanuel Clase|R|David Fletcher|R|Groundout|B|Slider|3|1|1|0|14|91
+Emmanuel Clase|R|David Fletcher|R|Groundout|C|Cutter|4|2|1|0|13|100
+Emmanuel Clase|R|David Fletcher|R|Groundout|X|Cutter|5|2|2|0|4|101
+Emmanuel Clase|R|Mike Trout|R|Strikeout|C|Cutter|6|0|0|1|1|100
+Emmanuel Clase|R|Mike Trout|R|Strikeout|B|Cutter|7|0|1|1|11|101
+Emmanuel Clase|R|Mike Trout|R|Strikeout|F|Cutter|8|1|1|1|2|99
+Emmanuel Clase|R|Mike Trout|R|Strikeout|C|Slider|9|1|2|1|3|91
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|C|Cutter|10|0|0|2|8|99
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|B|Cutter|11|0|1|2|11|99
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|B|Slider|12|1|1|2|11|90
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|S|Cutter|13|2|1|2|8|99
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|F|Cutter|14|2|2|2|5|99
+Emmanuel Clase|R|Shohei Ohtani|L|Lineout|X|Slider|15|2|2|2|13|90
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|C|Cutter|16|0|0|0|5|100
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|C|Slider|17|0|1|0|1|89
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|F|Cutter|18|0|2|0|14|100
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|F|Slider|19|0|2|0|8|91
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|F|Cutter|20|0|2|0|12|99
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|B|Cutter|21|0|2|0|11|100
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|B|Slider|22|1|2|0|13|89
+Emmanuel Clase|R|Anthony Bemboom|L|Strikeout|T|Cutter|23|2|2|0|14|99
+Emmanuel Clase|R|Albert Pujols|R|Groundout|F|Cutter|24|0|0|1|6|100
+Emmanuel Clase|R|Albert Pujols|R|Groundout|X|Slider|25|0|1|1|14|89
+Emmanuel Clase|R|Omar Narvaez|L|Single|C|Cutter|0|0|0|0|14|98
+Emmanuel Clase|R|Omar Narvaez|L|Single|S|Slider|1|0|1|0|14|90
+Emmanuel Clase|R|Omar Narvaez|L|Single|D|Cutter|2|0|2|0|11|99
+Emmanuel Clase|R|Jake Fraley|L|Strikeout|B|Cutter|3|0|0|0|14|99
+Emmanuel Clase|R|Jake Fraley|L|Strikeout|S|Cutter|4|1|0|0|14|99
+Emmanuel Clase|R|Jake Fraley|L|Strikeout|F|Cutter|5|1|1|0|9|100
+Emmanuel Clase|R|Jake Fraley|L|Strikeout|B|Slider|6|1|2|0|11|91
+Emmanuel Clase|R|Jake Fraley|L|Strikeout|S|Cutter|7|2|2|0|14|99
+Emmanuel Clase|R|Dee Gordon|L|Groundout|X|Cutter|8|0|0|1|3|99
+Emmanuel Clase|R|Mallex Smith|L|Lineout|X|Cutter|9|0|0|2|2|100
+Emmanuel Clase|R|Keon Broxton|R|Strikeout|B|Slider|0|0|0|1|13|91
+Emmanuel Clase|R|Keon Broxton|R|Strikeout|B|Cutter|1|1|0|1|14|99
+Emmanuel Clase|R|Keon Broxton|R|Strikeout|F|Cutter|2|2|0|1|5|99
+Emmanuel Clase|R|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|3|2|1|1|8|101
+Emmanuel Clase|R|Keon Broxton|R|Strikeout|S|Slider|4|2|2|1|5|91
+Emmanuel Clase|R|Eric Sogard|L|Groundout|C|Four-Seam Fastball|0|0|0|2|2|100
+Emmanuel Clase|R|Eric Sogard|L|Groundout|B|Cutter|1|0|1|2|11|101
+Emmanuel Clase|R|Eric Sogard|L|Groundout|C|Cutter|2|1|1|2|12|100
+Emmanuel Clase|R|Eric Sogard|L|Groundout|X|Cutter|3|1|2|2|14|101
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|C|Slider|4|0|0|0|2|90
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|F|Cutter|5|0|1|0|12|101
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|F|Slider|6|0|2|0|5|89
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|B|Four-Seam Fastball|7|0|2|0|11|99
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|F|Cutter|8|1|2|0|12|100
+Emmanuel Clase|R|Joey Wendle|L|Strikeout|T|Slider|9|1|2|0|4|89
+Emmanuel Clase|R|Austin Meadows|L|Strikeout|C|Cutter|10|0|0|1|3|100
+Emmanuel Clase|R|Austin Meadows|L|Strikeout|B|Cutter|11|0|1|1|12|100
+Emmanuel Clase|R|Austin Meadows|L|Strikeout|B|Cutter|12|1|1|1|11|99
+Emmanuel Clase|R|Austin Meadows|L|Strikeout|C|Cutter|13|2|1|1|1|100
+Emmanuel Clase|R|Austin Meadows|L|Strikeout|C|Cutter|14|2|2|1|1|99
+Emmanuel Clase|R|Matt Duffy|R|Single|B|Slider|15|0|0|2|13|88
+Emmanuel Clase|R|Matt Duffy|R|Single|B|Cutter|16|1|0|2|11|98
+Emmanuel Clase|R|Matt Duffy|R|Single|S|Cutter|17|2|0|2|14|98
+Emmanuel Clase|R|Matt Duffy|R|Single|D|Cutter|18|2|1|2|5|99
+Emmanuel Clase|R|Nate Lowe|L|Forceout|F|Cutter|19|0|0|2|6|98
+Emmanuel Clase|R|Nate Lowe|L|Forceout|X|Cutter|20|0|1|2|12|98
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|C|Cutter|21|0|0|0|5|98
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|C|Slider|22|0|1|0|7|88
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|B|Cutter|23|0|2|0|11|97
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|F|Slider|24|1|2|0|13|87
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|B|Cutter|25|1|2|0|12|98
+Emmanuel Clase|R|Ji-Man Choi|L|Strikeout|S|Cutter|26|2|2|0|14|97
+Emmanuel Clase|R|Willy Adames|R|Single|B|Cutter|27|0|0|1|11|97
+Emmanuel Clase|R|Willy Adames|R|Single|B|Four-Seam Fastball|28|1|0|1|12|97
+Emmanuel Clase|R|Willy Adames|R|Single|D|Cutter|29|2|0|1|9|97
+Emmanuel Clase|R|Kean Wong|L|Field Error|B|Slider|30|0|0|1|13|87
+Emmanuel Clase|R|Kean Wong|L|Field Error|E|Cutter|31|1|0|1|12|97
+Emmanuel Clase|R|Guillermo Heredia|R|Single|B|Cutter|32|0|0|1|12|98
+Emmanuel Clase|R|Guillermo Heredia|R|Single|F|Cutter|33|1|0|1|3|96
+Emmanuel Clase|R|Guillermo Heredia|R|Single|B|Slider|34|1|1|1|13|86
+Emmanuel Clase|R|Guillermo Heredia|R|Single|E|Slider|35|2|1|1|5|86
+Emmanuel Clase|R|Marcus Semien|R|Groundout|X|Slider|0|0|0|0|11|89
+Emmanuel Clase|R|Ramon Laureano|R|Double|D|Cutter|1|0|0|1|14|99
+Emmanuel Clase|R|Matt Chapman|R|Flyout|B|Slider|2|0|0|1|14|92
+Emmanuel Clase|R|Matt Chapman|R|Flyout|C|Slider|3|1|0|1|4|91
+Emmanuel Clase|R|Matt Chapman|R|Flyout|B|Cutter|4|1|1|1|13|101
+Emmanuel Clase|R|Matt Chapman|R|Flyout|X|Cutter|5|2|1|1|6|99
+Emmanuel Clase|R|Matt Olson|L|Flyout|B|Four-Seam Fastball|6|0|0|2|11|101
+Emmanuel Clase|R|Matt Olson|L|Flyout|S|Cutter|7|1|0|2|5|100
+Emmanuel Clase|R|Matt Olson|L|Flyout|X|Cutter|8|1|1|2|12|100
+Emmanuel Clase|R|Xander Bogaerts|R|Lineout|C|Slider|0|0|0|0|8|91
+Emmanuel Clase|R|Xander Bogaerts|R|Lineout|B|Slider|1|0|1|0|14|90
+Emmanuel Clase|R|Xander Bogaerts|R|Lineout|X|Cutter|2|1|1|0|1|100
+Emmanuel Clase|R|J.D. Martinez|R|Strikeout|B|Cutter|3|0|0|1|12|100
+Emmanuel Clase|R|J.D. Martinez|R|Strikeout|C|Cutter|4|1|0|1|12|99
+Emmanuel Clase|R|J.D. Martinez|R|Strikeout|C|Cutter|5|1|1|1|13|99
+Emmanuel Clase|R|J.D. Martinez|R|Strikeout|B|Cutter|6|1|2|1|13|101
+Emmanuel Clase|R|J.D. Martinez|R|Strikeout|S|Cutter|7|2|2|1|14|99
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|B|Cutter|8|0|0|2|13|100
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|F|Cutter|9|1|0|2|12|100
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|T|Cutter|10|1|1|2|12|99
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|B|Cutter|11|1|2|2|11|99
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|F|Cutter|12|2|2|2|12|98
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|F|Cutter|13|2|2|2|12|100
+Emmanuel Clase|R|Mitch Moreland|L|Groundout|X|Slider|14|2|2|2|2|92
+Emmanuel Clase|R|Mike Ford|L|Single|B|Four-Seam Fastball|0|0|0|0|12|100
+Emmanuel Clase|R|Mike Ford|L|Single|C|Cutter|1|1|0|0|8|99
+Emmanuel Clase|R|Mike Ford|L|Single|D|Cutter|2|1|1|0|5|99
+Emmanuel Clase|R|DJ LeMahieu|R|Forceout|B|Slider|3|0|0|0|14|91
+Emmanuel Clase|R|DJ LeMahieu|R|Forceout|X|Cutter|4|1|0|0|6|99
+Emmanuel Clase|R|Aaron Judge|R|Grounded Into DP|C|Cutter|5|0|0|1|6|99
+Emmanuel Clase|R|Aaron Judge|R|Grounded Into DP|B|Cutter|6|0|1|1|11|99
+Emmanuel Clase|R|Aaron Judge|R|Grounded Into DP|B|Cutter|7|1|1|1|3|99
+Emmanuel Clase|R|Aaron Judge|R|Grounded Into DP|B|Cutter|8|2|1|1|13|98
+Emmanuel Clase|R|Aaron Judge|R|Grounded Into DP|X|Cutter|9|3|1|1|8|100
+Emmanuel Clase|R|Tyler Wade|L|Groundout|B|Cutter|10|0|0|0|11|98
+Emmanuel Clase|R|Tyler Wade|L|Groundout|X|Cutter|11|1|0|0|2|98
+Emmanuel Clase|R|Giancarlo Stanton|R|Single|C|Cutter|12|0|0|1|12|100
+Emmanuel Clase|R|Giancarlo Stanton|R|Single|D|Cutter|13|0|1|1|9|98
+Emmanuel Clase|R|Luke Voit|R|Strikeout|B|Slider|14|0|0|1|13|89
+Emmanuel Clase|R|Luke Voit|R|Strikeout|B|Cutter|15|1|0|1|14|101
+Emmanuel Clase|R|Luke Voit|R|Strikeout|F|Cutter|16|2|0|1|4|100
+Emmanuel Clase|R|Luke Voit|R|Strikeout|C|Cutter|17|2|1|1|11|100
+Emmanuel Clase|R|Luke Voit|R|Strikeout|F|Cutter|18|2|2|1|9|99
+Emmanuel Clase|R|Luke Voit|R|Strikeout|B|Cutter|19|2|2|1|11|99
+Emmanuel Clase|R|Luke Voit|R|Strikeout|F|Cutter|20|3|2|1|7|99
+Emmanuel Clase|R|Luke Voit|R|Strikeout|S|Cutter|21|3|2|1|14|100
+Emmanuel Clase|R|Didi Gregorius|L|Groundout|B|Cutter|22|0|0|2|12|100
+Emmanuel Clase|R|Didi Gregorius|L|Groundout|C|Cutter|23|1|0|2|11|98
+Emmanuel Clase|R|Didi Gregorius|L|Groundout|X|Cutter|24|1|1|2|5|98
+Emmanuel Clase|R|Bo Bichette|R|Groundout|F|Cutter|0|0|0|0|14|97
+Emmanuel Clase|R|Bo Bichette|R|Groundout|B|Slider|1|0|1|0|14|91
+Emmanuel Clase|R|Bo Bichette|R|Groundout|S|Slider|2|1|1|0|13|89
+Emmanuel Clase|R|Bo Bichette|R|Groundout|B|Cutter|3|1|2|0|14|99
+Emmanuel Clase|R|Bo Bichette|R|Groundout|F|Slider|4|2|2|0|5|88
+Emmanuel Clase|R|Bo Bichette|R|Groundout|X|Cutter|5|2|2|0|9|99
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|B|Cutter|6|0|0|1|14|100
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|F|Cutter|7|1|0|1|6|98
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|B|Slider|8|1|1|1|11|90
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|C|Slider|9|2|1|1|11|90
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|S|Cutter|10|2|2|1|14|99
+Emmanuel Clase|R|Vladimir Guerrero Jr.|R|Groundout|X|Cutter|11|0|0|2|5|99
+Emmanuel Clase|R|Danny Jansen|R|Single|B|Cutter|0|0|0|2|14|97
+Emmanuel Clase|R|Danny Jansen|R|Single|C|Cutter|1|1|0|2|1|97
+Emmanuel Clase|R|Danny Jansen|R|Single|B|Slider|2|1|1|2|11|88
+Emmanuel Clase|R|Danny Jansen|R|Single|F|Cutter|3|2|1|2|2|96
+Emmanuel Clase|R|Danny Jansen|R|Single|E|Slider|4|2|2|2|5|90
+Emmanuel Clase|R|Bo Bichette|R|Double|B|Cutter|5|0|0|2|14|99
+Emmanuel Clase|R|Bo Bichette|R|Double|B|Cutter|6|1|0|2|11|96
+Emmanuel Clase|R|Bo Bichette|R|Double|C|Cutter|7|2|0|2|9|97
+Emmanuel Clase|R|Bo Bichette|R|Double|B|Cutter|8|2|1|2|12|97
+Emmanuel Clase|R|Bo Bichette|R|Double|C|Cutter|9|3|1|2|1|96
+Emmanuel Clase|R|Bo Bichette|R|Double|D|Cutter|10|3|2|2|6|98
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|C|Cutter|11|0|0|2|2|99
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|S|Cutter|12|0|1|2|14|97
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|B|Cutter|13|0|2|2|12|98
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|B|Cutter|14|1|2|2|13|97
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|*B|Cutter|15|2|2|2|14|98
+Emmanuel Clase|R|Cavan Biggio|L|Strikeout|S|Cutter|16|3|2|2|14|98
+Emmanuel Clase|R|Adam Engel|R|Single|D|Cutter|0|0|0|0|9|98
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|L|Four-Seam Fastball|1|0|0|0|1|99
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|*B|Cutter|2|0|1|0|14|99
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|F|Cutter|3|1|1|0|12|97
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|F|Four-Seam Fastball|4|1|2|0|2|99
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|B|Cutter|5|1|2|0|13|98
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|F|Cutter|6|2|2|0|14|99
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|B|Four-Seam Fastball|7|2|2|0|11|98
+Emmanuel Clase|R|Yolmer Sanchez|L|Walk|B|Cutter|8|3|2|0|13|98
+Emmanuel Clase|R|Leury Garcia|L|Hit By Pitch|S|Cutter|9|0|0|0|7|97
+Emmanuel Clase|R|Leury Garcia|L|Hit By Pitch|L|Four-Seam Fastball|10|0|1|0|14|98
+Emmanuel Clase|R|Leury Garcia|L|Hit By Pitch|H|Slider|11|0|2|0|14|90
+Emmanuel Clase|R|Tim Anderson|R|Strikeout|C|Cutter|12|0|0|0|1|99
+Emmanuel Clase|R|Tim Anderson|R|Strikeout|F|Cutter|13|0|1|0|5|99
+Emmanuel Clase|R|Tim Anderson|R|Strikeout|S|Cutter|14|0|2|0|12|99
+Emmanuel Clase|R|Jose Abreu|R|Forceout|B|Four-Seam Fastball|15|0|0|1|11|99
+Emmanuel Clase|R|Jose Abreu|R|Forceout|T|Cutter|16|1|0|1|6|99
+Emmanuel Clase|R|Jose Abreu|R|Forceout|F|Slider|17|1|1|1|7|91
+Emmanuel Clase|R|Jose Abreu|R|Forceout|B|Cutter|18|1|2|1|12|99
+Emmanuel Clase|R|Jose Abreu|R|Forceout|E|Slider|19|2|2|1|14|91
+Emmanuel Clase|R|Gleyber Torres|R|Strikeout|C|Cutter|0|0|0|0|2|98
+Emmanuel Clase|R|Gleyber Torres|R|Strikeout|F|Slider|1|0|1|0|14|90
+Emmanuel Clase|R|Gleyber Torres|R|Strikeout|S|Cutter|2|0|2|0|2|98
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|F|Cutter|3|0|0|1|14|100
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|F|Cutter|4|0|1|1|14|99
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|B|Cutter|5|0|2|1|12|100
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|F|Slider|6|1|2|1|14|92
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|B|Slider|7|1|2|1|14|91
+Emmanuel Clase|R|Gary Sanchez|R|Strikeout|C|Cutter|8|2|2|1|2|98
+Emmanuel Clase|R|Mike Ford|L|Single|B|Cutter|9|0|0|2|11|99
+Emmanuel Clase|R|Mike Ford|L|Single|C|Cutter|10|1|0|2|13|99
+Emmanuel Clase|R|Mike Ford|L|Single|T|Cutter|11|1|1|2|8|100
+Emmanuel Clase|R|Mike Ford|L|Single|F|Cutter|12|1|2|2|14|100
+Emmanuel Clase|R|Mike Ford|L|Single|D|Cutter|13|1|2|2|12|98
+Emmanuel Clase|R|Luke Voit|R|Groundout|X|Cutter|14|0|0|2|9|100
+Emmanuel Clase|R|Hernan Perez|R|Groundout|B|Cutter|0|0|0|0|14|99
+Emmanuel Clase|R|Hernan Perez|R|Groundout|X|Cutter|1|1|0|0|7|98
+Emmanuel Clase|R|Ben Gamel|L|Walk|B|Cutter|2|0|0|1|12|98
+Emmanuel Clase|R|Ben Gamel|L|Walk|C|Cutter|3|1|0|1|2|98
+Emmanuel Clase|R|Ben Gamel|L|Walk|B|Cutter|4|1|1|1|11|97
+Emmanuel Clase|R|Ben Gamel|L|Walk|B|Cutter|5|2|1|1|14|98
+Emmanuel Clase|R|Ben Gamel|L|Walk|B|Cutter|6|3|1|1|11|97
+Emmanuel Clase|R|Lorenzo Cain|R|Grounded Into DP|F|Cutter|7|0|0|1|8|98
+Emmanuel Clase|R|Lorenzo Cain|R|Grounded Into DP|X|Cutter|8|0|1|1|5|97
+Emmanuel Clase|R|Keston Hiura|R|Strikeout|B|Cutter|9|0|0|0|12|97
+Emmanuel Clase|R|Keston Hiura|R|Strikeout|F|Cutter|10|1|0|0|13|97
+Emmanuel Clase|R|Keston Hiura|R|Strikeout|C|Cutter|11|1|1|0|4|97
+Emmanuel Clase|R|Keston Hiura|R|Strikeout|S|Cutter|12|1|2|0|1|98
+Emmanuel Clase|R|Mike Moustakas|L|Groundout|X|Cutter|13|0|0|1|6|97
+Emmanuel Clase|R|Eric Thames|L|Home Run|C|Cutter|14|0|0|2|1|96
+Emmanuel Clase|R|Eric Thames|L|Home Run|B|Cutter|15|0|1|2|11|96
+Emmanuel Clase|R|Eric Thames|L|Home Run|B|Cutter|16|1|1|2|12|96
+Emmanuel Clase|R|Eric Thames|L|Home Run|B|Cutter|17|2|1|2|11|97
+Emmanuel Clase|R|Eric Thames|L|Home Run|E|Cutter|18|3|1|2|12|96

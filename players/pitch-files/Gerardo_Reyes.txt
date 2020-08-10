@@ -1,0 +1,461 @@
+Gerardo Reyes|R|David Peralta|L|Groundout|C|Four-Seam Fastball|0|0|0|1|6|96
+Gerardo Reyes|R|David Peralta|L|Groundout|F|Curveball|1|0|1|1|13|81
+Gerardo Reyes|R|David Peralta|L|Groundout|B|Slider|2|0|2|1|14|85
+Gerardo Reyes|R|David Peralta|L|Groundout|X|Four-Seam Fastball|3|1|2|1|14|96
+Gerardo Reyes|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|4|0|0|2|12|97
+Gerardo Reyes|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|5|0|1|2|12|98
+Gerardo Reyes|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|6|1|1|2|14|96
+Gerardo Reyes|R|Adam Jones|R|Strikeout|F|Curveball|7|2|1|2|13|80
+Gerardo Reyes|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|8|2|2|2|12|97
+Gerardo Reyes|R|Adam Jones|R|Strikeout|S|Slider|9|2|2|2|13|85
+Gerardo Reyes|R|David Peralta|L|Walk|S|Four-Seam Fastball|0|0|0|0|11|95
+Gerardo Reyes|R|David Peralta|L|Walk|B|Four-Seam Fastball|1|0|1|0|12|96
+Gerardo Reyes|R|David Peralta|L|Walk|F|Curveball|2|1|1|0|9|82
+Gerardo Reyes|R|David Peralta|L|Walk|B|Slider|3|1|2|0|14|86
+Gerardo Reyes|R|David Peralta|L|Walk|B|Curveball|4|2|2|0|14|82
+Gerardo Reyes|R|David Peralta|L|Walk|B|Four-Seam Fastball|5|3|2|0|14|98
+Gerardo Reyes|R|Christian Walker|R|Strikeout|S|Four-Seam Fastball|6|0|0|0|2|97
+Gerardo Reyes|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|7|0|1|0|14|96
+Gerardo Reyes|R|Christian Walker|R|Strikeout|S|Curveball|8|1|1|0|14|82
+Gerardo Reyes|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|9|1|2|0|12|98
+Gerardo Reyes|R|Christian Walker|R|Strikeout|F|Slider|10|2|2|0|5|85
+Gerardo Reyes|R|Christian Walker|R|Strikeout|C|Slider|11|2|2|0|14|84
+Gerardo Reyes|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|12|0|0|1|5|96
+Gerardo Reyes|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|13|0|1|1|14|96
+Gerardo Reyes|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|14|1|1|1|3|97
+Gerardo Reyes|R|Eduardo Escobar|L|Single|D|Slider|15|1|2|1|14|85
+Gerardo Reyes|R|Nick Ahmed|R|Single|B|Curveball|16|0|0|1|11|81
+Gerardo Reyes|R|Nick Ahmed|R|Single|E|Four-Seam Fastball|17|1|0|1|3|96
+Gerardo Reyes|R|Carson Kelly|R|Double|C|Four-Seam Fastball|18|0|0|1|14|96
+Gerardo Reyes|R|Carson Kelly|R|Double|B|Curveball|19|0|1|1|2|82
+Gerardo Reyes|R|Carson Kelly|R|Double|F|Four-Seam Fastball|20|1|1|1|9|97
+Gerardo Reyes|R|Carson Kelly|R|Double|B|Four-Seam Fastball|21|1|2|1|11|97
+Gerardo Reyes|R|Carson Kelly|R|Double|E|Curveball|22|2|2|1|4|84
+Gerardo Reyes|R|Jake Lamb|L|Flyout|B|Sinker|0|0|0|2|14|97
+Gerardo Reyes|R|Jake Lamb|L|Flyout|F|Sinker|1|1|0|2|7|94
+Gerardo Reyes|R|Jake Lamb|L|Flyout|X|Sinker|2|1|1|2|7|94
+Gerardo Reyes|R|Tim Locastro|R|Groundout|S|Sinker|3|0|0|0|7|95
+Gerardo Reyes|R|Tim Locastro|R|Groundout|F|Sinker|4|0|1|0|14|95
+Gerardo Reyes|R|Tim Locastro|R|Groundout|B|Slider|5|0|2|0|12|91
+Gerardo Reyes|R|Tim Locastro|R|Groundout|X|Slider|6|1|2|0|12|91
+Gerardo Reyes|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|7|0|0|1|13|96
+Gerardo Reyes|R|Nick Ahmed|R|Groundout|F|Sinker|8|1|0|1|11|96
+Gerardo Reyes|R|Nick Ahmed|R|Groundout|B|Sinker|9|1|1|1|14|96
+Gerardo Reyes|R|Nick Ahmed|R|Groundout|S|Four-Seam Fastball|10|2|1|1|14|97
+Gerardo Reyes|R|Nick Ahmed|R|Groundout|X|Slider|11|2|2|1|6|91
+Gerardo Reyes|R|Alex Avila|L|Flyout|C|Sinker|12|0|0|2|14|96
+Gerardo Reyes|R|Alex Avila|L|Flyout|B|Slider|13|0|1|2|11|91
+Gerardo Reyes|R|Alex Avila|L|Flyout|X|Slider|14|1|1|2|3|90
+Gerardo Reyes|R|Nolan Arenado|R|Sac Fly|C|Four-Seam Fastball|0|0|0|1|4|96
+Gerardo Reyes|R|Nolan Arenado|R|Sac Fly|B|Slider|1|0|1|1|13|85
+Gerardo Reyes|R|Nolan Arenado|R|Sac Fly|B|Slider|2|1|1|1|14|84
+Gerardo Reyes|R|Nolan Arenado|R|Sac Fly|C|Slider|3|2|1|1|2|84
+Gerardo Reyes|R|Nolan Arenado|R|Sac Fly|E|Four-Seam Fastball|4|2|2|1|12|98
+Gerardo Reyes|R|Mark Reynolds|R|Flyout|X|Four-Seam Fastball|5|0|0|2|12|97
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|B|Four-Seam Fastball|0|0|0|0|13|97
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|C|Four-Seam Fastball|1|1|0|0|4|97
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|B|Sinker|2|1|1|0|14|98
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|F|Four-Seam Fastball|3|2|1|0|2|97
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|F|Four-Seam Fastball|4|2|2|0|3|99
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|B|Slider|5|2|2|0|14|85
+Gerardo Reyes|R|Charlie Blackmon|L|Lineout|X|Four-Seam Fastball|6|3|2|0|8|97
+Gerardo Reyes|R|Trevor Story|R|Single|B|Four-Seam Fastball|7|0|0|1|2|98
+Gerardo Reyes|R|Trevor Story|R|Single|B|Four-Seam Fastball|8|1|0|1|11|97
+Gerardo Reyes|R|Trevor Story|R|Single|S|Four-Seam Fastball|9|2|0|1|5|97
+Gerardo Reyes|R|Trevor Story|R|Single|B|Four-Seam Fastball|10|2|1|1|11|98
+Gerardo Reyes|R|Trevor Story|R|Single|S|Four-Seam Fastball|11|3|1|1|5|97
+Gerardo Reyes|R|Trevor Story|R|Single|D|Four-Seam Fastball|12|3|2|1|1|98
+Gerardo Reyes|R|David Dahl|L|Hit By Pitch|F|Sinker|13|0|0|1|4|97
+Gerardo Reyes|R|David Dahl|L|Hit By Pitch|B|Sinker|14|0|1|1|12|96
+Gerardo Reyes|R|David Dahl|L|Hit By Pitch|B|Sinker|15|1|1|1|11|96
+Gerardo Reyes|R|David Dahl|L|Hit By Pitch|F|Four-Seam Fastball|16|2|1|1|2|97
+Gerardo Reyes|R|David Dahl|L|Hit By Pitch|H|Slider|17|2|2|1|14|86
+Gerardo Reyes|R|Nolan Arenado|R|Intent Walk|B|Slider|18|0|0|1|14|83
+Gerardo Reyes|R|Nolan Arenado|R|Intent Walk|V|N/A|19|1|0|1|0|0
+Gerardo Reyes|R|Nolan Arenado|R|Intent Walk|V|N/A|20|1|1|1|0|0
+Gerardo Reyes|R|Nolan Arenado|R|Intent Walk|V|N/A|21|1|2|1|0|0
+Gerardo Reyes|R|Charlie Blackmon|L|Home Run|B|Four-Seam Fastball|0|0|0|0|11|95
+Gerardo Reyes|R|Charlie Blackmon|L|Home Run|F|Four-Seam Fastball|1|1|0|0|6|95
+Gerardo Reyes|R|Charlie Blackmon|L|Home Run|B|Slider|2|1|1|0|11|85
+Gerardo Reyes|R|Charlie Blackmon|L|Home Run|B|Four-Seam Fastball|3|2|1|0|12|95
+Gerardo Reyes|R|Charlie Blackmon|L|Home Run|E|Four-Seam Fastball|4|3|1|0|4|96
+Gerardo Reyes|R|Trevor Story|R|Strikeout|C|Slider|5|0|0|0|5|86
+Gerardo Reyes|R|Trevor Story|R|Strikeout|B|Slider|6|0|1|0|13|87
+Gerardo Reyes|R|Trevor Story|R|Strikeout|B|Slider|7|1|1|0|14|87
+Gerardo Reyes|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|8|2|1|0|12|96
+Gerardo Reyes|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|9|3|1|0|2|96
+Gerardo Reyes|R|Trevor Story|R|Strikeout|C|Slider|10|3|2|0|2|87
+Gerardo Reyes|R|David Dahl|L|Flyout|C|Four-Seam Fastball|11|0|0|1|13|96
+Gerardo Reyes|R|David Dahl|L|Flyout|X|Slider|12|0|1|1|14|88
+Gerardo Reyes|R|Nolan Arenado|R|Single|D|Slider|13|0|0|2|14|87
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|14|0|0|2|14|96
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|15|1|0|2|12|96
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|F|Four-Seam Fastball|16|2|0|2|2|96
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|X|Slider|17|2|1|2|6|87
+Gerardo Reyes|R|Ian Desmond|R|Groundout|B|Slider|18|0|0|0|12|86
+Gerardo Reyes|R|Ian Desmond|R|Groundout|X|Slider|19|1|0|0|6|86
+Gerardo Reyes|R|Ryan McMahon|L|Groundout|B|Sinker|20|0|0|1|13|95
+Gerardo Reyes|R|Ryan McMahon|L|Groundout|F|Four-Seam Fastball|21|1|0|1|5|95
+Gerardo Reyes|R|Ryan McMahon|L|Groundout|X|Four-Seam Fastball|22|1|1|1|8|95
+Gerardo Reyes|R|Tony Wolters|L|Single|F|Four-Seam Fastball|23|0|0|2|12|95
+Gerardo Reyes|R|Tony Wolters|L|Single|B|Four-Seam Fastball|24|0|1|2|11|96
+Gerardo Reyes|R|Tony Wolters|L|Single|S|Slider|25|1|1|2|14|87
+Gerardo Reyes|R|Tony Wolters|L|Single|B|Slider|26|1|2|2|14|89
+Gerardo Reyes|R|Tony Wolters|L|Single|D|Four-Seam Fastball|27|2|2|2|8|98
+Gerardo Reyes|R|Raimel Tapia|L|Walk|C|Sinker|28|0|0|2|13|95
+Gerardo Reyes|R|Raimel Tapia|L|Walk|B|Four-Seam Fastball|29|0|1|2|11|96
+Gerardo Reyes|R|Raimel Tapia|L|Walk|B|Four-Seam Fastball|30|1|1|2|14|96
+Gerardo Reyes|R|Raimel Tapia|L|Walk|B|Four-Seam Fastball|31|2|1|2|11|95
+Gerardo Reyes|R|Raimel Tapia|L|Walk|*B|Four-Seam Fastball|32|3|1|2|14|96
+Gerardo Reyes|R|Trevor Story|R|Walk|B|Slider|0|0|0|0|13|87
+Gerardo Reyes|R|Trevor Story|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|95
+Gerardo Reyes|R|Trevor Story|R|Walk|B|Four-Seam Fastball|2|2|0|0|3|95
+Gerardo Reyes|R|Trevor Story|R|Walk|C|Four-Seam Fastball|3|3|0|0|5|95
+Gerardo Reyes|R|Trevor Story|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|96
+Gerardo Reyes|R|Nolan Arenado|R|Single|C|Four-Seam Fastball|5|0|0|0|3|95
+Gerardo Reyes|R|Nolan Arenado|R|Single|F|Slider|6|0|1|0|1|86
+Gerardo Reyes|R|Nolan Arenado|R|Single|D|Slider|7|0|2|0|5|87
+Gerardo Reyes|R|David Dahl|L|Triple|E|Four-Seam Fastball|8|0|0|0|14|96
+Gerardo Reyes|R|Ian Desmond|R|Sac Fly|S|Slider|9|0|0|0|3|88
+Gerardo Reyes|R|Ian Desmond|R|Sac Fly|B|Slider|10|0|1|0|14|88
+Gerardo Reyes|R|Ian Desmond|R|Sac Fly|E|Four-Seam Fastball|11|1|1|0|1|96
+Gerardo Reyes|R|Ryan McMahon|L|Single|S|Four-Seam Fastball|12|0|0|1|12|96
+Gerardo Reyes|R|Ryan McMahon|L|Single|D|Four-Seam Fastball|13|0|1|1|14|96
+Gerardo Reyes|R|Chad Bettis|R|Sac Bunt|X|Four-Seam Fastball|14|0|0|1|13|94
+Gerardo Reyes|R|Tony Wolters|L|Lineout|X|Four-Seam Fastball|15|0|0|2|4|95
+Gerardo Reyes|R|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|16|0|0|0|12|94
+Gerardo Reyes|R|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|17|0|1|0|12|95
+Gerardo Reyes|R|Daniel Murphy|L|Strikeout|S|Slider|18|0|2|0|3|88
+Gerardo Reyes|R|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|19|0|0|1|1|96
+Gerardo Reyes|R|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|20|0|1|1|14|97
+Gerardo Reyes|R|Charlie Blackmon|L|Strikeout|F|Slider|21|1|1|1|4|89
+Gerardo Reyes|R|Charlie Blackmon|L|Strikeout|B|Sinker|22|1|2|1|11|98
+Gerardo Reyes|R|Charlie Blackmon|L|Strikeout|S|Four-Seam Fastball|23|2|2|1|1|97
+Gerardo Reyes|R|Trevor Story|R|Flyout|B|Four-Seam Fastball|24|0|0|2|11|97
+Gerardo Reyes|R|Trevor Story|R|Flyout|S|Slider|25|1|0|2|7|88
+Gerardo Reyes|R|Trevor Story|R|Flyout|X|Slider|26|1|1|2|5|88
+Gerardo Reyes|R|Raimel Tapia|L|Strikeout|T|Four-Seam Fastball|0|0|0|0|12|96
+Gerardo Reyes|R|Raimel Tapia|L|Strikeout|T|Four-Seam Fastball|1|0|1|0|3|96
+Gerardo Reyes|R|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|2|0|2|0|7|98
+Gerardo Reyes|R|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|3|0|2|0|11|97
+Gerardo Reyes|R|Chris Iannetta|R|Strikeout|F|Four-Seam Fastball|4|0|0|1|1|97
+Gerardo Reyes|R|Chris Iannetta|R|Strikeout|C|Slider|5|0|1|1|14|88
+Gerardo Reyes|R|Chris Iannetta|R|Strikeout|S|Slider|6|0|2|1|2|89
+Gerardo Reyes|R|Mark Reynolds|R|Strikeout|S|Four-Seam Fastball|7|0|0|2|9|98
+Gerardo Reyes|R|Mark Reynolds|R|Strikeout|C|Slider|8|0|1|2|14|89
+Gerardo Reyes|R|Mark Reynolds|R|Strikeout|S|Four-Seam Fastball|9|0|2|2|14|98
+Gerardo Reyes|R|Tony Wolters|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|96
+Gerardo Reyes|R|Tony Wolters|L|Flyout|X|Four-Seam Fastball|1|0|1|0|5|96
+Gerardo Reyes|R|Yonder Alonso|L|Strikeout|B|Slider|2|0|0|1|12|91
+Gerardo Reyes|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|3|1|0|1|6|96
+Gerardo Reyes|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|4|1|1|1|1|96
+Gerardo Reyes|R|Yonder Alonso|L|Strikeout|B|Slider|5|1|2|1|1|93
+Gerardo Reyes|R|Yonder Alonso|L|Strikeout|T|Four-Seam Fastball|6|2|2|1|14|97
+Gerardo Reyes|R|Trevor Story|R|Double|D|Four-Seam Fastball|7|0|0|2|9|96
+Gerardo Reyes|R|Daniel Murphy|L|Double|B|Four-Seam Fastball|8|0|0|2|14|95
+Gerardo Reyes|R|Daniel Murphy|L|Double|E|Four-Seam Fastball|9|1|0|2|12|96
+Gerardo Reyes|R|Nolan Arenado|R|Groundout|C|Four-Seam Fastball|10|0|0|2|6|98
+Gerardo Reyes|R|Nolan Arenado|R|Groundout|X|Slider|11|0|1|2|3|91
+Gerardo Reyes|R|Charlie Blackmon|L|Hit By Pitch|H|Four-Seam Fastball|12|0|0|0|12|95
+Gerardo Reyes|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|13|0|0|0|5|94
+Gerardo Reyes|R|Ian Desmond|R|Strikeout|F|Four-Seam Fastball|14|0|1|0|12|95
+Gerardo Reyes|R|Ian Desmond|R|Strikeout|F|Four-Seam Fastball|15|0|2|0|12|97
+Gerardo Reyes|R|Ian Desmond|R|Strikeout|C|Slider|16|0|2|0|5|91
+Gerardo Reyes|R|Garrett Hampson|R|Strikeout|B|Four-Seam Fastball|17|0|0|1|12|95
+Gerardo Reyes|R|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|18|1|0|1|14|95
+Gerardo Reyes|R|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|19|1|1|1|6|95
+Gerardo Reyes|R|Garrett Hampson|R|Strikeout|F|Four-Seam Fastball|20|1|2|1|12|97
+Gerardo Reyes|R|Garrett Hampson|R|Strikeout|S|Slider|21|1|2|1|14|93
+Gerardo Reyes|R|Pat Valaika|R|Strikeout|S|Four-Seam Fastball|22|0|0|2|3|96
+Gerardo Reyes|R|Pat Valaika|R|Strikeout|F|Four-Seam Fastball|23|0|1|2|2|97
+Gerardo Reyes|R|Pat Valaika|R|Strikeout|B|Slider|24|0|2|2|12|91
+Gerardo Reyes|R|Pat Valaika|R|Strikeout|S|Slider|25|1|2|2|6|92
+Gerardo Reyes|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|97
+Gerardo Reyes|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|8|98
+Gerardo Reyes|R|Joc Pederson|L|Strikeout|B|Sinker|2|1|1|0|14|97
+Gerardo Reyes|R|Joc Pederson|L|Strikeout|S|Slider|3|2|1|0|14|88
+Gerardo Reyes|R|Joc Pederson|L|Strikeout|C|Sinker|4|2|2|0|3|99
+Gerardo Reyes|R|Alex Verdugo|L|Groundout|X|Sinker|5|0|0|1|7|98
+Gerardo Reyes|R|Justin Turner|R|Strikeout|C|Sinker|6|0|0|2|5|98
+Gerardo Reyes|R|Justin Turner|R|Strikeout|S|Slider|7|0|1|2|14|89
+Gerardo Reyes|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|8|0|2|2|11|99
+Gerardo Reyes|R|Justin Turner|R|Strikeout|S|Four-Seam Fastball|9|1|2|2|11|99
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|S|Sinker|10|0|0|0|11|95
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|B|Sinker|11|0|1|0|11|96
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|C|Sinker|12|1|1|0|13|96
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|B|Sinker|13|1|2|0|11|98
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|F|Sinker|14|2|2|0|5|97
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|X|Slider|15|2|2|0|9|88
+Gerardo Reyes|R|Max Muncy|L|Strikeout|B|Sinker|16|0|0|1|11|97
+Gerardo Reyes|R|Max Muncy|L|Strikeout|S|Slider|17|1|0|1|8|86
+Gerardo Reyes|R|Max Muncy|L|Strikeout|C|Slider|18|1|1|1|3|87
+Gerardo Reyes|R|Max Muncy|L|Strikeout|F|Slider|19|1|2|1|12|88
+Gerardo Reyes|R|Max Muncy|L|Strikeout|S|Slider|20|1|2|1|14|87
+Gerardo Reyes|R|Enrique Hernandez|R|Single|B|Four-Seam Fastball|21|0|0|2|11|97
+Gerardo Reyes|R|Enrique Hernandez|R|Single|S|Slider|22|1|0|2|14|87
+Gerardo Reyes|R|Enrique Hernandez|R|Single|D|Four-Seam Fastball|23|1|1|2|2|97
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|C|Four-Seam Fastball|24|0|0|2|7|96
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|B|Sinker|25|0|1|2|11|96
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|F|Sinker|26|1|1|2|1|96
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|*B|Slider|27|1|2|2|14|88
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|F|Sinker|28|2|2|2|4|97
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|29|2|2|2|11|97
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|30|3|2|2|2|98
+Gerardo Reyes|R|Tomas Nido|R|Strikeout|S|Four-Seam Fastball|0|0|0|1|11|97
+Gerardo Reyes|R|Tomas Nido|R|Strikeout|S|Four-Seam Fastball|1|0|1|1|11|97
+Gerardo Reyes|R|Tomas Nido|R|Strikeout|S|Four-Seam Fastball|2|0|2|1|11|99
+Gerardo Reyes|R|Todd Frazier|R|Strikeout|S|Slider|3|0|0|2|14|84
+Gerardo Reyes|R|Todd Frazier|R|Strikeout|S|Four-Seam Fastball|4|0|1|2|12|99
+Gerardo Reyes|R|Todd Frazier|R|Strikeout|S|Four-Seam Fastball|5|0|2|2|3|99
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|F|Four-Seam Fastball|6|0|0|0|2|97
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|B|Sinker|7|0|1|0|13|98
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|F|Slider|8|1|1|0|13|82
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|B|Sinker|9|1|2|0|11|99
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|F|Four-Seam Fastball|10|2|2|0|5|98
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|B|Sinker|11|2|2|0|11|98
+Gerardo Reyes|R|Jeff McNeil|L|Groundout|X|Four-Seam Fastball|12|3|2|0|3|97
+Gerardo Reyes|R|Amed Rosario|R|Strikeout|C|Slider|13|0|0|1|14|83
+Gerardo Reyes|R|Amed Rosario|R|Strikeout|C|Slider|14|0|1|1|1|84
+Gerardo Reyes|R|Amed Rosario|R|Strikeout|T|Four-Seam Fastball|15|0|2|1|5|99
+Gerardo Reyes|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|16|0|0|2|11|98
+Gerardo Reyes|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|17|1|0|2|6|97
+Gerardo Reyes|R|Josh Bell|L|Groundout|B|Four-Seam Fastball|0|0|0|2|11|97
+Gerardo Reyes|R|Josh Bell|L|Groundout|F|Four-Seam Fastball|1|1|0|2|3|98
+Gerardo Reyes|R|Josh Bell|L|Groundout|F|Four-Seam Fastball|2|1|1|2|12|98
+Gerardo Reyes|R|Josh Bell|L|Groundout|X|Sinker|3|1|2|2|4|99
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|B|Sinker|4|0|0|0|11|95
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|F|Four-Seam Fastball|5|1|0|0|11|96
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|B|Slider|6|1|1|0|13|84
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|B|Four-Seam Fastball|7|2|1|0|14|97
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|F|Four-Seam Fastball|8|3|1|0|5|96
+Gerardo Reyes|R|Bryan Reynolds|L|Pop Out|X|Four-Seam Fastball|9|3|2|0|12|97
+Gerardo Reyes|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|10|0|0|1|12|98
+Gerardo Reyes|R|Elias Diaz|R|Walk|F|Four-Seam Fastball|11|1|0|1|5|98
+Gerardo Reyes|R|Elias Diaz|R|Walk|B|Sinker|12|1|1|1|11|97
+Gerardo Reyes|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|13|2|1|1|14|97
+Gerardo Reyes|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|14|3|1|1|11|97
+Gerardo Reyes|R|Gregory Polanco|L|Single|C|Four-Seam Fastball|15|0|0|1|14|97
+Gerardo Reyes|R|Gregory Polanco|L|Single|B|Sinker|16|0|1|1|11|97
+Gerardo Reyes|R|Gregory Polanco|L|Single|D|Sinker|17|1|1|1|13|97
+Gerardo Reyes|R|Cole Tucker|L|Single|C|Four-Seam Fastball|18|0|0|1|9|98
+Gerardo Reyes|R|Cole Tucker|L|Single|F|Four-Seam Fastball|19|0|1|1|6|98
+Gerardo Reyes|R|Cole Tucker|L|Single|F|Four-Seam Fastball|20|0|2|1|1|97
+Gerardo Reyes|R|Cole Tucker|L|Single|B|Slider|21|0|2|1|11|84
+Gerardo Reyes|R|Cole Tucker|L|Single|E|Slider|22|1|2|1|6|85
+Gerardo Reyes|R|Colin Moran|L|Single|B|Four-Seam Fastball|23|0|0|1|11|98
+Gerardo Reyes|R|Colin Moran|L|Single|F|Four-Seam Fastball|24|1|0|1|6|97
+Gerardo Reyes|R|Colin Moran|L|Single|F|Four-Seam Fastball|25|1|1|1|2|98
+Gerardo Reyes|R|Colin Moran|L|Single|E|Sinker|26|1|2|1|11|98
+Gerardo Reyes|R|Adam Frazier|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|96
+Gerardo Reyes|R|Adam Frazier|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|13|97
+Gerardo Reyes|R|Adam Frazier|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|5|97
+Gerardo Reyes|R|Adam Frazier|L|Strikeout|C|Four-Seam Fastball|3|1|2|0|9|98
+Gerardo Reyes|R|Starling Marte|R|Single|B|Four-Seam Fastball|4|0|0|1|11|97
+Gerardo Reyes|R|Starling Marte|R|Single|B|Four-Seam Fastball|5|1|0|1|11|98
+Gerardo Reyes|R|Starling Marte|R|Single|C|Four-Seam Fastball|6|2|0|1|9|97
+Gerardo Reyes|R|Starling Marte|R|Single|D|Four-Seam Fastball|7|2|1|1|3|97
+Gerardo Reyes|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|8|0|0|1|13|97
+Gerardo Reyes|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|9|1|0|1|9|96
+Gerardo Reyes|R|Gregory Polanco|L|Strikeout|C|Sinker|10|1|1|1|9|97
+Gerardo Reyes|R|Gregory Polanco|L|Strikeout|S|Sinker|11|1|2|1|11|98
+Gerardo Reyes|R|Josh Bell|L|Walk|C|Four-Seam Fastball|12|0|0|2|9|98
+Gerardo Reyes|R|Josh Bell|L|Walk|B|Sinker|13|0|1|2|11|98
+Gerardo Reyes|R|Josh Bell|L|Walk|B|Four-Seam Fastball|14|1|1|2|11|97
+Gerardo Reyes|R|Josh Bell|L|Walk|*B|Four-Seam Fastball|15|2|1|2|14|98
+Gerardo Reyes|R|Josh Bell|L|Walk|B|Four-Seam Fastball|16|3|1|2|13|97
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|B|Sinker|17|0|0|2|11|97
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|S|Sinker|18|1|0|2|11|96
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|S|Sinker|19|1|1|2|11|97
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|B|Sinker|20|1|2|2|11|97
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|B|Sinker|21|2|2|2|11|97
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|F|Sinker|22|3|2|2|4|98
+Gerardo Reyes|R|Bryan Reynolds|L|Walk|B|Sinker|23|3|2|2|11|97
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|C|Four-Seam Fastball|0|0|0|0|3|95
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|B|Slider|1|0|1|0|14|84
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|B|Slider|2|1|1|0|11|84
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|S|Four-Seam Fastball|3|2|1|0|3|95
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|F|Four-Seam Fastball|4|2|2|0|11|96
+Gerardo Reyes|R|Kurt Suzuki|R|Lineout|X|Four-Seam Fastball|5|2|2|0|11|96
+Gerardo Reyes|R|Victor Robles|R|Flyout|B|Four-Seam Fastball|6|0|0|1|11|95
+Gerardo Reyes|R|Victor Robles|R|Flyout|C|Four-Seam Fastball|7|1|0|1|3|95
+Gerardo Reyes|R|Victor Robles|R|Flyout|S|Slider|8|1|1|1|8|86
+Gerardo Reyes|R|Victor Robles|R|Flyout|X|Slider|9|1|2|1|9|86
+Gerardo Reyes|R|Matt Adams|L|Strikeout|S|Four-Seam Fastball|10|0|0|2|11|95
+Gerardo Reyes|R|Matt Adams|L|Strikeout|F|Four-Seam Fastball|11|0|1|2|4|95
+Gerardo Reyes|R|Matt Adams|L|Strikeout|B|Four-Seam Fastball|12|0|2|2|11|97
+Gerardo Reyes|R|Matt Adams|L|Strikeout|B|Slider|13|1|2|2|11|85
+Gerardo Reyes|R|Matt Adams|L|Strikeout|F|Four-Seam Fastball|14|2|2|2|2|95
+Gerardo Reyes|R|Matt Adams|L|Strikeout|S|Four-Seam Fastball|15|2|2|2|1|96
+Gerardo Reyes|R|Ryan Braun|R|Flyout|C|Four-Seam Fastball|0|0|0|0|14|95
+Gerardo Reyes|R|Ryan Braun|R|Flyout|X|Four-Seam Fastball|1|0|1|0|2|96
+Gerardo Reyes|R|Yasmani Grandal|L|Home Run|F|Four-Seam Fastball|2|0|0|1|2|96
+Gerardo Reyes|R|Yasmani Grandal|L|Home Run|E|Four-Seam Fastball|3|0|1|1|6|96
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|S|Slider|4|0|0|1|14|89
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|C|Slider|5|0|1|1|1|88
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|S|Four-Seam Fastball|6|0|2|1|1|98
+Gerardo Reyes|R|Ozzie Albies|L|Flyout|C|Slider|0|0|0|0|11|84
+Gerardo Reyes|R|Ozzie Albies|L|Flyout|S|Sinker|1|0|1|0|2|97
+Gerardo Reyes|R|Ozzie Albies|L|Flyout|B|Sinker|2|0|2|0|11|98
+Gerardo Reyes|R|Ozzie Albies|L|Flyout|X|Slider|3|1|2|0|4|86
+Gerardo Reyes|R|Dallas Keuchel|L|Groundout|C|Four-Seam Fastball|4|0|0|1|13|96
+Gerardo Reyes|R|Dallas Keuchel|L|Groundout|C|Four-Seam Fastball|5|0|1|1|8|96
+Gerardo Reyes|R|Dallas Keuchel|L|Groundout|X|Sinker|6|0|2|1|7|97
+Gerardo Reyes|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|7|0|0|2|3|97
+Gerardo Reyes|R|Ronald Acuna Jr.|R|Strikeout|F|Slider|8|1|0|2|7|85
+Gerardo Reyes|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|9|1|1|2|6|97
+Gerardo Reyes|R|Ronald Acuna Jr.|R|Strikeout|F|Slider|10|1|2|2|13|87
+Gerardo Reyes|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|11|1|2|2|9|99
+Gerardo Reyes|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|95
+Gerardo Reyes|R|Josh Donaldson|R|Walk|B|Slider|1|1|0|0|11|83
+Gerardo Reyes|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|95
+Gerardo Reyes|R|Josh Donaldson|R|Walk|S|Four-Seam Fastball|3|3|0|0|1|96
+Gerardo Reyes|R|Josh Donaldson|R|Walk|B|Sinker|4|3|1|0|13|95
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|0|0|0|0|12|95
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|C|Four-Seam Fastball|1|1|0|0|3|95
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|B|Four-Seam Fastball|2|1|1|0|12|96
+Gerardo Reyes|R|Daniel Murphy|L|Flyout|X|Four-Seam Fastball|3|2|1|0|2|95
+Gerardo Reyes|R|Nolan Arenado|R|Walk|B|Slider|4|0|0|1|11|84
+Gerardo Reyes|R|Nolan Arenado|R|Walk|C|Four-Seam Fastball|5|1|0|1|4|95
+Gerardo Reyes|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|6|1|1|1|11|96
+Gerardo Reyes|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|7|2|1|1|11|94
+Gerardo Reyes|R|Nolan Arenado|R|Walk|B|Four-Seam Fastball|8|3|1|1|11|95
+Gerardo Reyes|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|9|0|0|1|3|95
+Gerardo Reyes|R|Ryan McMahon|L|Walk|B|Slider|10|0|1|1|11|86
+Gerardo Reyes|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|11|1|1|1|12|95
+Gerardo Reyes|R|Ryan McMahon|L|Walk|F|Slider|12|2|1|1|6|86
+Gerardo Reyes|R|Ryan McMahon|L|Walk|F|Slider|13|2|2|1|6|87
+Gerardo Reyes|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|14|2|2|1|3|98
+Gerardo Reyes|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|15|2|2|1|11|96
+Gerardo Reyes|R|Ryan McMahon|L|Walk|B|Slider|16|2|2|1|11|86
+Gerardo Reyes|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|17|3|2|1|11|96
+Gerardo Reyes|R|Daniel Descalso|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|95
+Gerardo Reyes|R|Daniel Descalso|L|Strikeout|C|Sinker|1|0|1|0|3|96
+Gerardo Reyes|R|Daniel Descalso|L|Strikeout|S|Four-Seam Fastball|2|0|2|0|12|97
+Gerardo Reyes|R|David Bote|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|12|97
+Gerardo Reyes|R|David Bote|R|Strikeout|C|Four-Seam Fastball|4|1|0|1|8|96
+Gerardo Reyes|R|David Bote|R|Strikeout|C|Slider|5|1|1|1|5|90
+Gerardo Reyes|R|David Bote|R|Strikeout|S|Four-Seam Fastball|6|1|2|1|3|97
+Gerardo Reyes|R|Tony Kemp|L|Field Error|B|Four-Seam Fastball|7|0|0|2|11|96
+Gerardo Reyes|R|Tony Kemp|L|Field Error|C|Four-Seam Fastball|8|1|0|2|12|96
+Gerardo Reyes|R|Tony Kemp|L|Field Error|D|Four-Seam Fastball|9|1|1|2|2|96
+Gerardo Reyes|R|Ian Happ|L|Groundout|B|Four-Seam Fastball|10|0|0|2|12|96
+Gerardo Reyes|R|Ian Happ|L|Groundout|F|Four-Seam Fastball|11|1|0|2|14|95
+Gerardo Reyes|R|Ian Happ|L|Groundout|B|Four-Seam Fastball|12|1|1|2|14|96
+Gerardo Reyes|R|Ian Happ|L|Groundout|S|Slider|13|2|1|2|14|91
+Gerardo Reyes|R|Ian Happ|L|Groundout|B|Sinker|14|2|2|2|14|97
+Gerardo Reyes|R|Ian Happ|L|Groundout|X|Four-Seam Fastball|15|3|2|2|5|96
+Gerardo Reyes|R|Victor Caratini|L|Single|B|Four-Seam Fastball|0|0|0|0|14|96
+Gerardo Reyes|R|Victor Caratini|L|Single|D|Four-Seam Fastball|1|1|0|0|2|96
+Gerardo Reyes|R|Jason Heyward|L|Lineout|S|Four-Seam Fastball|2|0|0|0|3|97
+Gerardo Reyes|R|Jason Heyward|L|Lineout|X|Sinker|3|0|1|0|7|96
+Gerardo Reyes|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|4|0|0|1|3|97
+Gerardo Reyes|R|Ian Happ|L|Strikeout|B|Sinker|5|0|1|1|14|97
+Gerardo Reyes|R|Ian Happ|L|Strikeout|F|Four-Seam Fastball|6|1|1|1|5|96
+Gerardo Reyes|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|7|1|2|1|11|97
+Gerardo Reyes|R|Ian Happ|L|Strikeout|T|Sinker|8|2|2|1|5|97
+Gerardo Reyes|R|Nico Hoerner|R|Single|S|Four-Seam Fastball|9|0|0|2|3|96
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Four-Seam Fastball|10|0|1|2|7|96
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Slider|11|0|2|2|13|90
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Four-Seam Fastball|12|0|2|2|12|98
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Slider|13|0|2|2|5|91
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Four-Seam Fastball|14|0|2|2|5|98
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Four-Seam Fastball|15|0|2|2|8|98
+Gerardo Reyes|R|Nico Hoerner|R|Single|F|Slider|16|0|2|2|14|91
+Gerardo Reyes|R|Nico Hoerner|R|Single|B|Four-Seam Fastball|17|0|2|2|12|97
+Gerardo Reyes|R|Nico Hoerner|R|Single|D|Slider|18|1|2|2|14|89
+Gerardo Reyes|R|Tony Kemp|L|Hit By Pitch|T|Four-Seam Fastball|19|0|0|2|1|95
+Gerardo Reyes|R|Tony Kemp|L|Hit By Pitch|H|Four-Seam Fastball|20|0|1|2|14|96
+Gerardo Reyes|R|Anthony Rizzo|L|Pop Out|B|Four-Seam Fastball|21|0|0|2|11|96
+Gerardo Reyes|R|Anthony Rizzo|L|Pop Out|B|Sinker|22|1|0|2|14|96
+Gerardo Reyes|R|Anthony Rizzo|L|Pop Out|B|Four-Seam Fastball|23|2|0|2|14|96
+Gerardo Reyes|R|Anthony Rizzo|L|Pop Out|C|Four-Seam Fastball|24|3|0|2|14|95
+Gerardo Reyes|R|Anthony Rizzo|L|Pop Out|X|Sinker|25|3|1|2|4|95
+Gerardo Reyes|R|Wilmer Flores|R|Single|S|Four-Seam Fastball|0|0|0|2|12|96
+Gerardo Reyes|R|Wilmer Flores|R|Single|F|Four-Seam Fastball|1|0|1|2|12|97
+Gerardo Reyes|R|Wilmer Flores|R|Single|F|Four-Seam Fastball|2|0|2|2|5|97
+Gerardo Reyes|R|Wilmer Flores|R|Single|E|Four-Seam Fastball|3|0|2|2|11|96
+Gerardo Reyes|R|Adam Jones|R|Flyout|S|Slider|4|0|0|2|12|91
+Gerardo Reyes|R|Adam Jones|R|Flyout|S|Slider|5|0|1|2|6|92
+Gerardo Reyes|R|Adam Jones|R|Flyout|B|Four-Seam Fastball|6|0|2|2|12|92
+Gerardo Reyes|R|Adam Jones|R|Flyout|X|Slider|7|1|2|2|14|91
+Gerardo Reyes|R|Max Muncy|L|Home Run|E|Four-Seam Fastball|0|0|0|2|11|95
+Gerardo Reyes|R|Justin Turner|R|Flyout|C|Four-Seam Fastball|1|0|0|2|7|96
+Gerardo Reyes|R|Justin Turner|R|Flyout|X|Slider|2|0|1|2|4|90
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|B|Four-Seam Fastball|3|0|0|0|13|95
+Gerardo Reyes|R|Cody Bellinger|L|Pop Out|X|Four-Seam Fastball|4|1|0|0|5|94
+Gerardo Reyes|R|Corey Seager|L|Double|D|Four-Seam Fastball|5|0|0|1|6|95
+Gerardo Reyes|R|A.J. Pollock|R|Flyout|B|Four-Seam Fastball|6|0|0|1|12|96
+Gerardo Reyes|R|A.J. Pollock|R|Flyout|C|Slider|7|1|0|1|3|89
+Gerardo Reyes|R|A.J. Pollock|R|Flyout|B|Slider|8|1|1|1|14|90
+Gerardo Reyes|R|A.J. Pollock|R|Flyout|X|Sinker|9|2|1|1|2|96
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|B|Four-Seam Fastball|10|0|0|2|9|95
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|S|Sinker|11|1|0|2|1|96
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|C|Slider|12|1|1|2|1|90
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|S|Four-Seam Fastball|13|1|2|2|2|96
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|B|Sinker|0|0|0|0|11|95
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|B|Sinker|1|1|0|0|13|95
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|C|Sinker|2|2|0|0|9|96
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|F|Sinker|3|2|1|0|1|95
+Gerardo Reyes|R|Gavin Lux|L|Strikeout|S|Slider|4|2|2|0|4|90
+Gerardo Reyes|R|A.J. Pollock|R|Strikeout|C|Slider|5|0|0|1|5|90
+Gerardo Reyes|R|A.J. Pollock|R|Strikeout|S|Four-Seam Fastball|6|0|1|1|12|96
+Gerardo Reyes|R|A.J. Pollock|R|Strikeout|B|Slider|7|0|2|1|12|90
+Gerardo Reyes|R|A.J. Pollock|R|Strikeout|S|Slider|8|1|2|1|14|92
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|9|0|0|2|4|96
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|F|Slider|10|0|1|2|9|91
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|11|0|2|2|1|97
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|B|Slider|12|0|2|2|14|91
+Gerardo Reyes|R|Chris Taylor|R|Strikeout|S|Slider|13|1|2|2|14|90
+Gerardo Reyes|R|Kevin Pillar|R|Lineout|F|Four-Seam Fastball|0|0|0|0|12|97
+Gerardo Reyes|R|Kevin Pillar|R|Lineout|X|Slider|1|0|1|0|9|87
+Gerardo Reyes|R|Steven Duggar|L|Strikeout|C|Four-Seam Fastball|2|0|0|1|11|97
+Gerardo Reyes|R|Steven Duggar|L|Strikeout|F|Four-Seam Fastball|3|0|1|1|3|97
+Gerardo Reyes|R|Steven Duggar|L|Strikeout|B|Four-Seam Fastball|4|0|2|1|14|97
+Gerardo Reyes|R|Steven Duggar|L|Strikeout|C|Slider|5|1|2|1|4|87
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|6|0|0|2|11|97
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|S|Slider|7|1|0|2|14|87
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|F|Slider|8|1|1|2|8|89
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|9|1|2|2|11|97
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|10|2|2|2|11|96
+Gerardo Reyes|R|Brandon Belt|L|Strikeout|S|Four-Seam Fastball|11|3|2|2|1|97
+Gerardo Reyes|R|Brian Anderson|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|96
+Gerardo Reyes|R|Brian Anderson|R|Walk|B|Four-Seam Fastball|1|1|0|2|12|95
+Gerardo Reyes|R|Brian Anderson|R|Walk|C|Four-Seam Fastball|2|2|0|2|8|96
+Gerardo Reyes|R|Brian Anderson|R|Walk|B|Sinker|3|2|1|2|14|97
+Gerardo Reyes|R|Brian Anderson|R|Walk|B|Four-Seam Fastball|4|3|1|2|11|96
+Gerardo Reyes|R|Starlin Castro|R|Triple|*B|Slider|5|0|0|2|13|85
+Gerardo Reyes|R|Starlin Castro|R|Triple|*B|Slider|6|1|0|2|14|85
+Gerardo Reyes|R|Starlin Castro|R|Triple|C|Four-Seam Fastball|7|2|0|2|9|97
+Gerardo Reyes|R|Starlin Castro|R|Triple|B|Four-Seam Fastball|8|2|1|2|14|97
+Gerardo Reyes|R|Starlin Castro|R|Triple|C|Four-Seam Fastball|9|3|1|2|14|97
+Gerardo Reyes|R|Starlin Castro|R|Triple|E|Four-Seam Fastball|10|3|2|2|14|98
+Gerardo Reyes|R|Jorge Alfaro|R|Strikeout|B|Slider|11|0|0|2|14|87
+Gerardo Reyes|R|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|12|1|0|2|1|96
+Gerardo Reyes|R|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|13|1|1|2|2|96
+Gerardo Reyes|R|Jorge Alfaro|R|Strikeout|T|Four-Seam Fastball|14|1|2|2|12|97
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|9|96
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|95
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|14|96
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|1|97
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|F|Slider|4|1|2|0|14|92
+Gerardo Reyes|R|Ryan Braun|R|Strikeout|T|Four-Seam Fastball|5|1|2|0|12|98
+Gerardo Reyes|R|Eric Thames|L|Groundout|X|Sinker|6|0|0|1|4|96
+Gerardo Reyes|R|Lorenzo Cain|R|Strikeout|S|Four-Seam Fastball|7|0|0|2|14|97
+Gerardo Reyes|R|Lorenzo Cain|R|Strikeout|S|Four-Seam Fastball|8|0|1|2|6|92
+Gerardo Reyes|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|9|0|2|2|14|97
+Gerardo Reyes|R|Lorenzo Cain|R|Strikeout|T|Four-Seam Fastball|10|1|2|2|14|98
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|95
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|S|Four-Seam Fastball|1|0|1|0|11|96
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|B|Slider|2|0|2|0|11|91
+Gerardo Reyes|R|Hernan Perez|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|3|97
+Gerardo Reyes|R|Manny Pina|R|Flyout|B|Four-Seam Fastball|4|0|0|1|11|96
+Gerardo Reyes|R|Manny Pina|R|Flyout|B|Four-Seam Fastball|5|1|0|1|12|95
+Gerardo Reyes|R|Manny Pina|R|Flyout|F|Four-Seam Fastball|6|2|0|1|11|96
+Gerardo Reyes|R|Manny Pina|R|Flyout|S|Four-Seam Fastball|7|2|1|1|2|96
+Gerardo Reyes|R|Manny Pina|R|Flyout|F|Four-Seam Fastball|8|2|2|1|12|98
+Gerardo Reyes|R|Manny Pina|R|Flyout|X|Four-Seam Fastball|9|2|2|1|4|98
+Gerardo Reyes|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|14|96
+Gerardo Reyes|R|Orlando Arcia|R|Strikeout|T|Four-Seam Fastball|11|1|0|2|2|95
+Gerardo Reyes|R|Orlando Arcia|R|Strikeout|S|Slider|12|1|1|2|9|91
+Gerardo Reyes|R|Orlando Arcia|R|Strikeout|F|Four-Seam Fastball|13|1|2|2|2|98
+Gerardo Reyes|R|Orlando Arcia|R|Strikeout|T|Four-Seam Fastball|14|1|2|2|11|97

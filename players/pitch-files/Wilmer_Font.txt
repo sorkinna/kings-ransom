@@ -1,0 +1,2485 @@
+Wilmer Font|R|Evan Longoria|R|Flyout|C|Four-Seam Fastball|0|0|0|0|14|93
+Wilmer Font|R|Evan Longoria|R|Flyout|F|Four-Seam Fastball|1|0|1|0|3|94
+Wilmer Font|R|Evan Longoria|R|Flyout|F|Four-Seam Fastball|2|0|2|0|4|95
+Wilmer Font|R|Evan Longoria|R|Flyout|B|Four-Seam Fastball|3|0|2|0|14|95
+Wilmer Font|R|Evan Longoria|R|Flyout|F|Curveball|4|1|2|0|8|75
+Wilmer Font|R|Evan Longoria|R|Flyout|B|Curveball|5|1|2|0|14|75
+Wilmer Font|R|Evan Longoria|R|Flyout|X|Four-Seam Fastball|6|2|2|0|5|95
+Wilmer Font|R|Hunter Pence|R|Single|S|Curveball|7|0|0|1|14|75
+Wilmer Font|R|Hunter Pence|R|Single|B|Curveball|8|0|1|1|14|76
+Wilmer Font|R|Hunter Pence|R|Single|F|Four-Seam Fastball|9|1|1|1|5|95
+Wilmer Font|R|Hunter Pence|R|Single|F|Curveball|10|1|2|1|6|74
+Wilmer Font|R|Hunter Pence|R|Single|F|Four-Seam Fastball|11|1|2|1|11|94
+Wilmer Font|R|Hunter Pence|R|Single|B|Curveball|12|1|2|1|14|75
+Wilmer Font|R|Hunter Pence|R|Single|D|Four-Seam Fastball|13|2|2|1|2|95
+Wilmer Font|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|14|0|0|1|14|93
+Wilmer Font|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|15|1|0|1|5|93
+Wilmer Font|R|Brandon Crawford|L|Groundout|C|Curveball|16|0|0|2|8|74
+Wilmer Font|R|Brandon Crawford|L|Groundout|B|Splitter|17|0|1|2|14|82
+Wilmer Font|R|Brandon Crawford|L|Groundout|B|Four-Seam Fastball|18|1|1|2|14|93
+Wilmer Font|R|Brandon Crawford|L|Groundout|B|Four-Seam Fastball|19|2|1|2|11|92
+Wilmer Font|R|Brandon Crawford|L|Groundout|X|Four-Seam Fastball|20|3|1|2|5|90
+Wilmer Font|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Wilmer Font|R|Ketel Marte|L|Flyout|F|Four-Seam Fastball|1|1|0|0|4|91
+Wilmer Font|R|Ketel Marte|L|Flyout|B|Curveball|2|1|1|0|13|73
+Wilmer Font|R|Ketel Marte|L|Flyout|C|Four-Seam Fastball|3|2|1|0|14|92
+Wilmer Font|R|Ketel Marte|L|Flyout|X|Four-Seam Fastball|4|2|2|0|3|94
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|5|0|0|1|2|94
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|6|0|1|1|12|94
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|7|1|1|1|14|91
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|8|2|1|1|5|91
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|9|2|2|1|4|93
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|10|2|2|1|11|93
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|F|Curveball|11|2|2|1|9|74
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|12|2|2|1|2|94
+Wilmer Font|R|Paul Goldschmidt|R|Strikeout|C|Curveball|13|2|2|1|13|75
+Wilmer Font|R|A.J. Pollock|R|Strikeout|S|Curveball|14|0|0|2|14|74
+Wilmer Font|R|A.J. Pollock|R|Strikeout|C|Curveball|15|0|1|2|8|74
+Wilmer Font|R|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|16|0|2|2|11|94
+Wilmer Font|R|A.J. Pollock|R|Strikeout|B|Curveball|17|1|2|2|13|73
+Wilmer Font|R|A.J. Pollock|R|Strikeout|S|Four-Seam Fastball|18|2|2|2|12|95
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Curveball|19|0|0|0|5|71
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Curveball|20|0|1|0|8|74
+Wilmer Font|R|Chris Owings|R|Strikeout|B|Four-Seam Fastball|21|0|2|0|14|95
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Four-Seam Fastball|22|1|2|0|12|95
+Wilmer Font|R|Jake Lamb|L|Single|B|Curveball|23|0|0|1|11|75
+Wilmer Font|R|Jake Lamb|L|Single|B|Four-Seam Fastball|24|1|0|1|14|94
+Wilmer Font|R|Jake Lamb|L|Single|B|Sinker|25|2|0|1|13|91
+Wilmer Font|R|Jake Lamb|L|Single|F|Sinker|26|3|0|1|14|91
+Wilmer Font|R|Jake Lamb|L|Single|D|Four-Seam Fastball|27|3|1|1|14|95
+Wilmer Font|R|Nick Ahmed|R|Flyout|B|Four-Seam Fastball|28|0|0|1|14|91
+Wilmer Font|R|Nick Ahmed|R|Flyout|S|Four-Seam Fastball|29|1|0|1|13|92
+Wilmer Font|R|Nick Ahmed|R|Flyout|C|Curveball|30|1|1|1|6|73
+Wilmer Font|R|Nick Ahmed|R|Flyout|F|Curveball|31|1|2|1|14|73
+Wilmer Font|R|Nick Ahmed|R|Flyout|X|Four-Seam Fastball|32|1|2|1|5|94
+Wilmer Font|R|Alex Avila|L|Caught Stealing 2B|B|Four-Seam Fastball|33|0|0|2|12|94
+Wilmer Font|R|Alex Avila|L|Caught Stealing 2B|B|Four-Seam Fastball|34|1|0|2|12|93
+Wilmer Font|R|Alex Avila|L|Caught Stealing 2B|F|Four-Seam Fastball|35|2|0|2|11|92
+Wilmer Font|R|Alex Avila|L|Caught Stealing 2B|B|Curveball|36|2|1|2|11|73
+Wilmer Font|R|Alex Avila|L|Lineout|B|Curveball|37|0|0|0|13|72
+Wilmer Font|R|Alex Avila|L|Lineout|X|Four-Seam Fastball|38|1|0|0|4|90
+Wilmer Font|R|Fernando Salas|R|Groundout|C|Four-Seam Fastball|39|0|0|1|3|91
+Wilmer Font|R|Fernando Salas|R|Groundout|X|Four-Seam Fastball|40|0|1|1|2|91
+Wilmer Font|R|David Peralta|L|Flyout|B|Four-Seam Fastball|41|0|0|2|14|94
+Wilmer Font|R|David Peralta|L|Flyout|X|Four-Seam Fastball|42|1|0|2|4|91
+Wilmer Font|R|Ketel Marte|L|Single|F|Four-Seam Fastball|43|0|0|0|11|91
+Wilmer Font|R|Ketel Marte|L|Single|B|Four-Seam Fastball|44|0|1|0|13|93
+Wilmer Font|R|Ketel Marte|L|Single|F|Curveball|45|1|1|0|4|73
+Wilmer Font|R|Ketel Marte|L|Single|F|Four-Seam Fastball|46|1|2|0|5|95
+Wilmer Font|R|Ketel Marte|L|Single|D|Four-Seam Fastball|47|1|2|0|1|94
+Wilmer Font|R|Paul Goldschmidt|R|Flyout|C|Four-Seam Fastball|48|0|0|0|5|91
+Wilmer Font|R|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|49|0|1|0|11|94
+Wilmer Font|R|Paul Goldschmidt|R|Flyout|F|Four-Seam Fastball|50|1|1|0|6|89
+Wilmer Font|R|Paul Goldschmidt|R|Flyout|X|Four-Seam Fastball|51|1|2|0|5|94
+Wilmer Font|R|A.J. Pollock|R|Double Play|C|Curveball|52|0|0|1|12|73
+Wilmer Font|R|A.J. Pollock|R|Double Play|F|Four-Seam Fastball|53|0|1|1|5|93
+Wilmer Font|R|A.J. Pollock|R|Double Play|F|Curveball|54|0|2|1|5|73
+Wilmer Font|R|A.J. Pollock|R|Double Play|X|Four-Seam Fastball|55|0|2|1|12|93
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Four-Seam Fastball|56|0|0|0|9|91
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Four-Seam Fastball|57|0|1|0|9|92
+Wilmer Font|R|Chris Owings|R|Strikeout|B|Curveball|58|0|2|0|11|73
+Wilmer Font|R|Chris Owings|R|Strikeout|S|Four-Seam Fastball|59|1|2|0|3|93
+Wilmer Font|R|Jake Lamb|L|Single|B|Four-Seam Fastball|60|0|0|1|14|91
+Wilmer Font|R|Jake Lamb|L|Single|B|Curveball|61|1|0|1|14|72
+Wilmer Font|R|Jake Lamb|L|Single|F|Four-Seam Fastball|62|2|0|1|1|89
+Wilmer Font|R|Jake Lamb|L|Single|F|Four-Seam Fastball|63|2|1|1|8|91
+Wilmer Font|R|Jake Lamb|L|Single|F|Four-Seam Fastball|64|2|2|1|12|94
+Wilmer Font|R|Jake Lamb|L|Single|F|Curveball|65|2|2|1|7|73
+Wilmer Font|R|Jake Lamb|L|Single|B|Four-Seam Fastball|66|2|2|1|11|92
+Wilmer Font|R|Jake Lamb|L|Single|F|Splitter|67|3|2|1|12|88
+Wilmer Font|R|Jake Lamb|L|Single|D|Four-Seam Fastball|68|3|2|1|9|90
+Wilmer Font|R|Nick Ahmed|R|Double|C|Curveball|69|0|0|1|1|70
+Wilmer Font|R|Nick Ahmed|R|Double|B|Four-Seam Fastball|70|0|1|1|14|91
+Wilmer Font|R|Nick Ahmed|R|Double|E|Four-Seam Fastball|71|1|1|1|5|90
+Wilmer Font|R|Alex Avila|L|Intent Walk|V|N/A|72|0|0|1|0|0
+Wilmer Font|R|Alex Avila|L|Intent Walk|V|N/A|73|0|1|1|0|0
+Wilmer Font|R|Alex Avila|L|Intent Walk|V|N/A|74|0|2|1|0|0
+Wilmer Font|R|Alex Avila|L|Intent Walk|V|N/A|75|0|2|1|0|0
+Wilmer Font|R|Jeff Mathis|R|Single|C|Curveball|76|0|0|1|12|71
+Wilmer Font|R|Jeff Mathis|R|Single|E|Curveball|77|0|1|1|12|71
+Wilmer Font|R|Kelby Tomlinson|R|Single|F|Four-Seam Fastball|0|0|0|0|8|92
+Wilmer Font|R|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|1|0|1|0|11|94
+Wilmer Font|R|Kelby Tomlinson|R|Single|F|Four-Seam Fastball|2|1|1|0|1|92
+Wilmer Font|R|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|3|1|2|0|11|94
+Wilmer Font|R|Kelby Tomlinson|R|Single|F|Four-Seam Fastball|4|2|2|0|12|93
+Wilmer Font|R|Kelby Tomlinson|R|Single|D|Four-Seam Fastball|5|2|2|0|1|94
+Wilmer Font|R|Joe Panik|L|Single|C|Curveball|6|0|0|0|11|72
+Wilmer Font|R|Joe Panik|L|Single|B|Four-Seam Fastball|7|0|1|0|11|93
+Wilmer Font|R|Joe Panik|L|Single|D|Four-Seam Fastball|8|1|1|0|12|94
+Wilmer Font|R|Andrew McCutchen|R|Home Run|C|Curveball|9|0|0|0|11|74
+Wilmer Font|R|Andrew McCutchen|R|Home Run|B|Four-Seam Fastball|10|0|1|0|13|94
+Wilmer Font|R|Andrew McCutchen|R|Home Run|S|Four-Seam Fastball|11|1|1|0|2|94
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|12|1|2|0|11|94
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|13|1|2|0|11|94
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Curveball|14|1|2|0|8|74
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|15|1|2|0|12|93
+Wilmer Font|R|Andrew McCutchen|R|Home Run|*B|Curveball|16|1|2|0|14|75
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|17|2|2|0|5|93
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|18|2|2|0|12|93
+Wilmer Font|R|Andrew McCutchen|R|Home Run|F|Four-Seam Fastball|19|2|2|0|11|92
+Wilmer Font|R|Andrew McCutchen|R|Home Run|E|Four-Seam Fastball|20|2|2|0|11|94
+Wilmer Font|R|Jed Lowrie|L|Single|C|Curveball|0|0|0|0|6|72
+Wilmer Font|R|Jed Lowrie|L|Single|B|Four-Seam Fastball|1|0|1|0|12|95
+Wilmer Font|R|Jed Lowrie|L|Single|F|Sinker|2|1|1|0|13|89
+Wilmer Font|R|Jed Lowrie|L|Single|D|Four-Seam Fastball|3|1|2|0|7|96
+Wilmer Font|R|Khris Davis|R|Strikeout|F|Curveball|4|0|0|0|7|74
+Wilmer Font|R|Khris Davis|R|Strikeout|F|Curveball|5|0|1|0|4|74
+Wilmer Font|R|Khris Davis|R|Strikeout|F|Four-Seam Fastball|6|0|2|0|5|93
+Wilmer Font|R|Khris Davis|R|Strikeout|S|Four-Seam Fastball|7|0|2|0|11|94
+Wilmer Font|R|Matt Chapman|R|Home Run|B|Curveball|8|0|0|1|13|73
+Wilmer Font|R|Matt Chapman|R|Home Run|E|Curveball|9|1|0|1|7|73
+Wilmer Font|R|Jake Smolinski|R|Groundout|C|Four-Seam Fastball|10|0|0|1|9|94
+Wilmer Font|R|Jake Smolinski|R|Groundout|B|Four-Seam Fastball|11|0|1|1|11|96
+Wilmer Font|R|Jake Smolinski|R|Groundout|S|Four-Seam Fastball|12|1|1|1|6|94
+Wilmer Font|R|Jake Smolinski|R|Groundout|B|Curveball|13|1|2|1|14|76
+Wilmer Font|R|Jake Smolinski|R|Groundout|B|Four-Seam Fastball|14|2|2|1|11|94
+Wilmer Font|R|Jake Smolinski|R|Groundout|X|Four-Seam Fastball|15|3|2|1|5|92
+Wilmer Font|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|16|0|0|2|14|92
+Wilmer Font|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|17|1|0|2|14|93
+Wilmer Font|R|Jonathan Lucroy|R|Groundout|X|Sinker|18|2|0|2|13|91
+Wilmer Font|R|Trayce Thompson|R|Single|B|Sinker|19|0|0|0|14|90
+Wilmer Font|R|Trayce Thompson|R|Single|F|Sinker|20|1|0|0|13|90
+Wilmer Font|R|Trayce Thompson|R|Single|F|Four-Seam Fastball|21|1|1|0|3|92
+Wilmer Font|R|Trayce Thompson|R|Single|B|Slider|22|1|2|0|13|80
+Wilmer Font|R|Trayce Thompson|R|Single|D|Four-Seam Fastball|23|2|2|0|14|93
+Wilmer Font|R|Matt Joyce|L|Single|B|Four-Seam Fastball|24|0|0|0|14|93
+Wilmer Font|R|Matt Joyce|L|Single|*B|Curveball|25|1|0|0|13|74
+Wilmer Font|R|Matt Joyce|L|Single|D|Sinker|26|2|0|0|7|90
+Wilmer Font|R|Marcus Semien|R|Forceout|S|Sinker|27|0|0|0|1|91
+Wilmer Font|R|Marcus Semien|R|Forceout|C|Sinker|28|0|1|0|7|90
+Wilmer Font|R|Marcus Semien|R|Forceout|*B|Curveball|29|0|2|0|14|75
+Wilmer Font|R|Marcus Semien|R|Forceout|E|Sinker|30|1|2|0|7|93
+Wilmer Font|R|Matt Olson|L|Single|C|Curveball|31|0|0|1|13|74
+Wilmer Font|R|Matt Olson|L|Single|B|Four-Seam Fastball|32|0|1|1|11|95
+Wilmer Font|R|Matt Olson|L|Single|F|Four-Seam Fastball|33|1|1|1|4|94
+Wilmer Font|R|Matt Olson|L|Single|*B|Curveball|34|1|2|1|14|75
+Wilmer Font|R|Matt Olson|L|Single|D|Curveball|35|2|2|1|7|75
+Wilmer Font|R|Jed Lowrie|L|Home Run|B|Curveball|36|0|0|1|14|77
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Four-Seam Fastball|37|1|0|1|3|89
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Four-Seam Fastball|38|1|1|1|11|95
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Sinker|39|1|2|1|13|93
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Four-Seam Fastball|40|1|2|1|6|95
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Curveball|41|1|2|1|12|75
+Wilmer Font|R|Jed Lowrie|L|Home Run|B|Four-Seam Fastball|42|1|2|1|11|95
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Four-Seam Fastball|43|2|2|1|6|93
+Wilmer Font|R|Jed Lowrie|L|Home Run|F|Sinker|44|2|2|1|4|92
+Wilmer Font|R|Jed Lowrie|L|Home Run|B|Curveball|45|2|2|1|11|72
+Wilmer Font|R|Jed Lowrie|L|Home Run|E|Four-Seam Fastball|46|3|2|1|9|93
+Wilmer Font|R|Khris Davis|R|Flyout|B|Slider|47|0|0|1|14|83
+Wilmer Font|R|Khris Davis|R|Flyout|F|Sinker|48|1|0|1|11|91
+Wilmer Font|R|Khris Davis|R|Flyout|X|Four-Seam Fastball|49|1|1|1|13|92
+Wilmer Font|R|Matt Chapman|R|Pop Out|C|Curveball|50|0|0|2|14|75
+Wilmer Font|R|Matt Chapman|R|Pop Out|B|Slider|51|0|1|2|12|82
+Wilmer Font|R|Matt Chapman|R|Pop Out|S|Sinker|52|1|1|2|1|91
+Wilmer Font|R|Matt Chapman|R|Pop Out|B|Four-Seam Fastball|53|1|2|2|11|93
+Wilmer Font|R|Matt Chapman|R|Pop Out|B|Four-Seam Fastball|54|2|2|2|13|92
+Wilmer Font|R|Matt Chapman|R|Pop Out|X|Sinker|55|3|2|2|11|90
+Wilmer Font|R|Paul Goldschmidt|R|Lineout|C|Sinker|0|0|0|2|8|91
+Wilmer Font|R|Paul Goldschmidt|R|Lineout|B|Four-Seam Fastball|1|0|1|2|14|93
+Wilmer Font|R|Paul Goldschmidt|R|Lineout|F|Four-Seam Fastball|2|1|1|2|11|94
+Wilmer Font|R|Paul Goldschmidt|R|Lineout|X|Slider|3|1|2|2|5|80
+Wilmer Font|R|A.J. Pollock|R|Home Run|S|Curveball|4|0|0|0|14|73
+Wilmer Font|R|A.J. Pollock|R|Home Run|E|Slider|5|0|1|0|8|79
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Four-Seam Fastball|6|0|0|0|13|93
+Wilmer Font|R|Chris Owings|R|Strikeout|F|Four-Seam Fastball|7|0|1|0|1|93
+Wilmer Font|R|Chris Owings|R|Strikeout|S|Four-Seam Fastball|8|0|2|0|12|96
+Wilmer Font|R|Nick Ahmed|R|Flyout|F|Sinker|9|0|0|1|11|94
+Wilmer Font|R|Nick Ahmed|R|Flyout|B|Curveball|10|0|1|1|14|77
+Wilmer Font|R|Nick Ahmed|R|Flyout|S|Four-Seam Fastball|11|1|1|1|1|94
+Wilmer Font|R|Nick Ahmed|R|Flyout|X|Four-Seam Fastball|12|1|2|1|4|95
+Wilmer Font|R|Alex Avila|L|Home Run|B|Curveball|13|0|0|2|14|74
+Wilmer Font|R|Alex Avila|L|Home Run|E|Four-Seam Fastball|14|1|0|2|9|93
+Wilmer Font|R|Deven Marrero|R|Strikeout|B|Sinker|15|0|0|2|13|92
+Wilmer Font|R|Deven Marrero|R|Strikeout|C|Sinker|16|1|0|2|13|90
+Wilmer Font|R|Deven Marrero|R|Strikeout|C|Sinker|17|1|1|2|14|92
+Wilmer Font|R|Deven Marrero|R|Strikeout|T|Four-Seam Fastball|18|1|2|2|11|95
+Wilmer Font|R|Daniel Descalso|L|Groundout|S|Sinker|19|0|0|0|11|93
+Wilmer Font|R|Daniel Descalso|L|Groundout|S|Splitter|20|0|1|0|9|83
+Wilmer Font|R|Daniel Descalso|L|Groundout|F|Sinker|21|0|2|0|2|96
+Wilmer Font|R|Daniel Descalso|L|Groundout|X|Splitter|22|0|2|0|14|82
+Wilmer Font|R|David Peralta|L|Single|D|Curveball|23|0|0|1|7|74
+Wilmer Font|R|Ketel Marte|L|Groundout|F|Four-Seam Fastball|24|0|0|1|14|93
+Wilmer Font|R|Ketel Marte|L|Groundout|F|Curveball|25|0|1|1|7|74
+Wilmer Font|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|26|0|2|1|13|95
+Wilmer Font|R|Ketel Marte|L|Groundout|*B|Splitter|27|1|2|1|14|83
+Wilmer Font|R|Ketel Marte|L|Groundout|X|Sinker|28|2|2|1|4|93
+Wilmer Font|R|Jose Pirela|R|Groundout|C|Sinker|0|0|0|0|7|92
+Wilmer Font|R|Jose Pirela|R|Groundout|C|Four-Seam Fastball|1|0|1|0|6|95
+Wilmer Font|R|Jose Pirela|R|Groundout|X|Four-Seam Fastball|2|0|2|0|12|96
+Wilmer Font|R|Franchy Cordero|L|Groundout|B|Sinker|3|0|0|1|13|94
+Wilmer Font|R|Franchy Cordero|L|Groundout|X|Four-Seam Fastball|4|1|0|1|14|94
+Wilmer Font|R|Eric Hosmer|L|Groundout|B|Four-Seam Fastball|5|0|0|2|11|96
+Wilmer Font|R|Eric Hosmer|L|Groundout|S|Four-Seam Fastball|6|1|0|2|12|96
+Wilmer Font|R|Eric Hosmer|L|Groundout|S|Curveball|7|1|1|2|13|75
+Wilmer Font|R|Eric Hosmer|L|Groundout|F|Splitter|8|1|2|2|5|83
+Wilmer Font|R|Eric Hosmer|L|Groundout|F|Four-Seam Fastball|9|1|2|2|6|97
+Wilmer Font|R|Eric Hosmer|L|Groundout|F|Four-Seam Fastball|10|1|2|2|1|95
+Wilmer Font|R|Eric Hosmer|L|Groundout|X|Slider|11|1|2|2|9|83
+Wilmer Font|R|George Springer|R|Home Run|B|Four-Seam Fastball|0|0|0|0|14|94
+Wilmer Font|R|George Springer|R|Home Run|F|Sinker|1|1|0|0|6|91
+Wilmer Font|R|George Springer|R|Home Run|B|Four-Seam Fastball|2|1|1|0|11|94
+Wilmer Font|R|George Springer|R|Home Run|E|Slider|3|2|1|0|8|78
+Wilmer Font|R|Jose Altuve|R|Home Run|B|Four-Seam Fastball|4|0|0|0|12|94
+Wilmer Font|R|Jose Altuve|R|Home Run|C|Curveball|5|1|0|0|3|74
+Wilmer Font|R|Jose Altuve|R|Home Run|B|Four-Seam Fastball|6|1|1|0|12|95
+Wilmer Font|R|Jose Altuve|R|Home Run|B|Four-Seam Fastball|7|2|1|0|12|93
+Wilmer Font|R|Jose Altuve|R|Home Run|E|Four-Seam Fastball|8|3|1|0|4|91
+Wilmer Font|R|Carlos Correa|R|Lineout|C|Curveball|9|0|0|0|9|75
+Wilmer Font|R|Carlos Correa|R|Lineout|C|Curveball|10|0|1|0|9|76
+Wilmer Font|R|Carlos Correa|R|Lineout|B|Four-Seam Fastball|11|0|2|0|11|94
+Wilmer Font|R|Carlos Correa|R|Lineout|B|Four-Seam Fastball|12|1|2|0|14|95
+Wilmer Font|R|Carlos Correa|R|Lineout|X|Curveball|13|2|2|0|14|76
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|B|Curveball|14|0|0|1|12|76
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|S|Four-Seam Fastball|15|1|0|1|14|95
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|B|Four-Seam Fastball|16|1|1|1|12|95
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|F|Curveball|17|2|1|1|13|75
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|F|Four-Seam Fastball|18|2|2|1|11|96
+Wilmer Font|R|Yuli Gurriel|R|Strikeout|W|Slider|19|2|2|1|14|82
+Wilmer Font|R|Josh Reddick|L|Strikeout|C|Sinker|20|0|0|2|13|91
+Wilmer Font|R|Josh Reddick|L|Strikeout|B|Curveball|21|0|1|2|11|74
+Wilmer Font|R|Josh Reddick|L|Strikeout|S|Sinker|22|1|1|2|2|96
+Wilmer Font|R|Josh Reddick|L|Strikeout|F|Splitter|23|1|2|2|11|83
+Wilmer Font|R|Josh Reddick|L|Strikeout|F|Four-Seam Fastball|24|1|2|2|11|95
+Wilmer Font|R|Josh Reddick|L|Strikeout|F|Splitter|25|1|2|2|14|83
+Wilmer Font|R|Josh Reddick|L|Strikeout|F|Four-Seam Fastball|26|1|2|2|12|95
+Wilmer Font|R|Josh Reddick|L|Strikeout|F|Sinker|27|1|2|2|11|94
+Wilmer Font|R|Josh Reddick|L|Strikeout|B|Curveball|28|1|2|2|13|74
+Wilmer Font|R|Josh Reddick|L|Strikeout|W|Splitter|29|2|2|2|14|81
+Wilmer Font|R|Alex Bregman|R|Flyout|B|Slider|30|0|0|0|14|79
+Wilmer Font|R|Alex Bregman|R|Flyout|C|Four-Seam Fastball|31|1|0|0|9|93
+Wilmer Font|R|Alex Bregman|R|Flyout|B|Four-Seam Fastball|32|1|1|0|12|94
+Wilmer Font|R|Alex Bregman|R|Flyout|B|Curveball|33|2|1|0|11|72
+Wilmer Font|R|Alex Bregman|R|Flyout|X|Four-Seam Fastball|34|3|1|0|4|91
+Wilmer Font|R|Marwin Gonzalez|L|Home Run|F|Sinker|35|0|0|1|4|92
+Wilmer Font|R|Marwin Gonzalez|L|Home Run|B|Four-Seam Fastball|36|0|1|1|14|95
+Wilmer Font|R|Marwin Gonzalez|L|Home Run|B|Splitter|37|1|1|1|14|84
+Wilmer Font|R|Marwin Gonzalez|L|Home Run|E|Four-Seam Fastball|38|2|1|1|12|92
+Wilmer Font|R|Evan Gattis|R|Pop Out|B|Sinker|39|0|0|1|14|94
+Wilmer Font|R|Evan Gattis|R|Pop Out|X|Four-Seam Fastball|40|1|0|1|5|95
+Wilmer Font|R|Derek Fisher|L|Strikeout|B|Sinker|41|0|0|2|13|92
+Wilmer Font|R|Derek Fisher|L|Strikeout|C|Curveball|42|1|0|2|8|75
+Wilmer Font|R|Derek Fisher|L|Strikeout|S|Four-Seam Fastball|43|1|1|2|6|95
+Wilmer Font|R|Derek Fisher|L|Strikeout|S|Four-Seam Fastball|44|1|2|2|12|95
+Wilmer Font|R|Evan Gattis|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|95
+Wilmer Font|R|Evan Gattis|R|Groundout|S|Four-Seam Fastball|1|1|0|0|12|95
+Wilmer Font|R|Evan Gattis|R|Groundout|X|Curveball|2|1|1|0|8|75
+Wilmer Font|R|Josh Reddick|L|Walk|S|Four-Seam Fastball|3|0|0|1|3|95
+Wilmer Font|R|Josh Reddick|L|Walk|B|Curveball|4|0|1|1|13|76
+Wilmer Font|R|Josh Reddick|L|Walk|C|Curveball|5|1|1|1|4|76
+Wilmer Font|R|Josh Reddick|L|Walk|F|Four-Seam Fastball|6|1|2|1|11|96
+Wilmer Font|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|7|1|2|1|14|96
+Wilmer Font|R|Josh Reddick|L|Walk|B|Curveball|8|2|2|1|13|76
+Wilmer Font|R|Josh Reddick|L|Walk|F|Four-Seam Fastball|9|3|2|1|12|95
+Wilmer Font|R|Josh Reddick|L|Walk|B|Sinker|10|3|2|1|11|92
+Wilmer Font|R|Max Stassi|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|14|94
+Wilmer Font|R|Max Stassi|R|Strikeout|B|Curveball|12|1|0|1|12|75
+Wilmer Font|R|Max Stassi|R|Strikeout|C|Four-Seam Fastball|13|2|0|1|3|92
+Wilmer Font|R|Max Stassi|R|Strikeout|C|Four-Seam Fastball|14|2|1|1|13|93
+Wilmer Font|R|Max Stassi|R|Strikeout|S|Four-Seam Fastball|15|2|2|1|14|96
+Wilmer Font|R|George Springer|R|Single|B|Four-Seam Fastball|16|0|0|2|14|96
+Wilmer Font|R|George Springer|R|Single|C|Curveball|17|1|0|2|5|75
+Wilmer Font|R|George Springer|R|Single|S|Four-Seam Fastball|18|1|1|2|4|94
+Wilmer Font|R|George Springer|R|Single|*B|Curveball|19|1|2|2|13|76
+Wilmer Font|R|George Springer|R|Single|F|Four-Seam Fastball|20|2|2|2|5|97
+Wilmer Font|R|George Springer|R|Single|D|Curveball|21|2|2|2|9|76
+Wilmer Font|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|22|0|0|2|5|94
+Wilmer Font|R|Derek Fisher|L|Home Run|B|Four-Seam Fastball|23|0|0|0|11|94
+Wilmer Font|R|Derek Fisher|L|Home Run|F|Four-Seam Fastball|24|1|0|0|1|93
+Wilmer Font|R|Derek Fisher|L|Home Run|B|Curveball|25|1|1|0|11|75
+Wilmer Font|R|Derek Fisher|L|Home Run|B|Four-Seam Fastball|26|2|1|0|11|94
+Wilmer Font|R|Derek Fisher|L|Home Run|E|Four-Seam Fastball|27|3|1|0|12|93
+Wilmer Font|R|Yuli Gurriel|R|Walk|B|Curveball|28|0|0|0|11|76
+Wilmer Font|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|29|1|0|0|14|96
+Wilmer Font|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|30|2|0|0|11|94
+Wilmer Font|R|Yuli Gurriel|R|Walk|B|Four-Seam Fastball|31|3|0|0|11|94
+Wilmer Font|R|Alex Bregman|R|Double|C|Four-Seam Fastball|32|0|0|0|12|94
+Wilmer Font|R|Alex Bregman|R|Double|S|Four-Seam Fastball|33|0|1|0|6|94
+Wilmer Font|R|Alex Bregman|R|Double|F|Four-Seam Fastball|34|0|2|0|5|95
+Wilmer Font|R|Alex Bregman|R|Double|B|Curveball|35|0|2|0|11|77
+Wilmer Font|R|Alex Bregman|R|Double|F|Four-Seam Fastball|36|1|2|0|3|95
+Wilmer Font|R|Alex Bregman|R|Double|D|Curveball|37|1|2|0|9|77
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|B|Sinker|38|0|0|0|14|93
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|C|Curveball|39|1|0|0|5|76
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|E|Four-Seam Fastball|40|1|1|0|8|95
+Wilmer Font|R|Evan Gattis|R|Strikeout|B|Four-Seam Fastball|41|0|0|1|11|93
+Wilmer Font|R|Evan Gattis|R|Strikeout|F|Four-Seam Fastball|42|1|0|1|3|94
+Wilmer Font|R|Evan Gattis|R|Strikeout|S|Four-Seam Fastball|43|1|1|1|12|95
+Wilmer Font|R|Evan Gattis|R|Strikeout|*B|Curveball|44|1|2|1|14|76
+Wilmer Font|R|Evan Gattis|R|Strikeout|C|Four-Seam Fastball|45|2|2|1|14|95
+Wilmer Font|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|46|0|0|2|6|93
+Wilmer Font|R|Jake Marisnick|R|Strikeout|*B|Curveball|47|0|1|2|14|77
+Wilmer Font|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|48|1|1|2|14|94
+Wilmer Font|R|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|49|1|2|2|12|94
+Wilmer Font|R|Jake Marisnick|R|Strikeout|F|Curveball|50|2|2|2|4|75
+Wilmer Font|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|51|2|2|2|11|96
+Wilmer Font|R|Max Stassi|R|Groundout|S|Slider|52|0|0|0|14|82
+Wilmer Font|R|Max Stassi|R|Groundout|B|Slider|53|0|1|0|14|81
+Wilmer Font|R|Max Stassi|R|Groundout|C|Four-Seam Fastball|54|1|1|0|14|95
+Wilmer Font|R|Max Stassi|R|Groundout|F|Four-Seam Fastball|55|1|2|0|2|92
+Wilmer Font|R|Max Stassi|R|Groundout|B|Slider|56|1|2|0|14|83
+Wilmer Font|R|Max Stassi|R|Groundout|X|Four-Seam Fastball|57|2|2|0|12|92
+Wilmer Font|R|George Springer|R|Single|B|Slider|58|0|0|1|14|82
+Wilmer Font|R|George Springer|R|Single|S|Slider|59|1|0|1|14|82
+Wilmer Font|R|George Springer|R|Single|D|Four-Seam Fastball|60|1|1|1|14|94
+Wilmer Font|R|Jose Altuve|R|Single|F|Four-Seam Fastball|61|0|0|1|2|94
+Wilmer Font|R|Jose Altuve|R|Single|B|Slider|62|0|1|1|11|81
+Wilmer Font|R|Jose Altuve|R|Single|D|Slider|63|1|1|1|5|81
+Wilmer Font|R|Derek Fisher|L|Strikeout|C|Sinker|64|0|0|1|5|90
+Wilmer Font|R|Derek Fisher|L|Strikeout|C|Sinker|65|0|1|1|9|92
+Wilmer Font|R|Derek Fisher|L|Strikeout|T|Curveball|66|0|2|1|7|75
+Wilmer Font|R|Yuli Gurriel|R|Single|F|Four-Seam Fastball|67|0|0|2|5|94
+Wilmer Font|R|Yuli Gurriel|R|Single|E|Slider|68|0|1|2|14|82
+Wilmer Font|R|Alex Bregman|R|Double|B|Four-Seam Fastball|69|0|0|2|12|93
+Wilmer Font|R|Alex Bregman|R|Double|B|Four-Seam Fastball|70|1|0|2|14|91
+Wilmer Font|R|Alex Bregman|R|Double|E|Four-Seam Fastball|71|2|0|2|5|92
+Wilmer Font|R|Miguel Andujar|R|Single|B|Four-Seam Fastball|0|0|0|0|12|95
+Wilmer Font|R|Miguel Andujar|R|Single|B|Four-Seam Fastball|1|1|0|0|14|95
+Wilmer Font|R|Miguel Andujar|R|Single|B|Four-Seam Fastball|2|2|0|0|12|93
+Wilmer Font|R|Miguel Andujar|R|Single|C|Four-Seam Fastball|3|3|0|0|3|92
+Wilmer Font|R|Miguel Andujar|R|Single|D|Four-Seam Fastball|4|3|1|0|8|93
+Wilmer Font|R|Ronald Torreyes|R|Pop Out|B|Four-Seam Fastball|5|0|0|0|12|93
+Wilmer Font|R|Ronald Torreyes|R|Pop Out|B|Four-Seam Fastball|6|1|0|0|12|93
+Wilmer Font|R|Ronald Torreyes|R|Pop Out|B|Four-Seam Fastball|7|2|0|0|12|92
+Wilmer Font|R|Ronald Torreyes|R|Pop Out|C|Four-Seam Fastball|8|3|0|0|14|92
+Wilmer Font|R|Ronald Torreyes|R|Pop Out|X|Four-Seam Fastball|9|3|1|0|5|93
+Wilmer Font|R|Brett Gardner|L|Flyout|B|Four-Seam Fastball|10|0|0|1|13|94
+Wilmer Font|R|Brett Gardner|L|Flyout|F|Sinker|11|1|0|1|1|94
+Wilmer Font|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|12|1|1|1|11|92
+Wilmer Font|R|Aaron Judge|R|Single|C|Curveball|13|0|0|2|12|76
+Wilmer Font|R|Aaron Judge|R|Single|B|Slider|14|0|1|2|14|80
+Wilmer Font|R|Aaron Judge|R|Single|E|Four-Seam Fastball|15|1|1|2|5|95
+Wilmer Font|R|Didi Gregorius|L|Forceout|C|Four-Seam Fastball|16|0|0|2|9|93
+Wilmer Font|R|Didi Gregorius|L|Forceout|B|Slider|17|0|1|2|13|84
+Wilmer Font|R|Didi Gregorius|L|Forceout|F|Four-Seam Fastball|18|1|1|2|12|94
+Wilmer Font|R|Didi Gregorius|L|Forceout|B|Splitter|19|1|2|2|11|82
+Wilmer Font|R|Didi Gregorius|L|Forceout|F|Sinker|20|2|2|2|13|93
+Wilmer Font|R|Didi Gregorius|L|Forceout|X|Four-Seam Fastball|21|2|2|2|4|95
+Wilmer Font|R|Gio Urshela|R|Flyout|X|Four-Seam Fastball|0|0|0|0|13|93
+Wilmer Font|R|Justin Smoak|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|7|96
+Wilmer Font|R|Justin Smoak|L|Strikeout|S|Splitter|2|0|1|1|13|83
+Wilmer Font|R|Justin Smoak|L|Strikeout|B|Four-Seam Fastball|3|0|2|1|11|95
+Wilmer Font|R|Justin Smoak|L|Strikeout|F|Splitter|4|1|2|1|13|86
+Wilmer Font|R|Justin Smoak|L|Strikeout|C|Splitter|5|1|2|1|13|83
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|6|0|0|2|13|95
+Wilmer Font|R|Teoscar Hernandez|R|Walk|S|Four-Seam Fastball|7|1|0|2|1|96
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|8|1|1|2|14|97
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|9|2|1|2|11|95
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|10|3|1|2|12|93
+Wilmer Font|R|Yangervis Solarte|L|Home Run|E|Four-Seam Fastball|11|0|0|2|1|94
+Wilmer Font|R|Dwight Smith Jr|L|Walk|B|Four-Seam Fastball|12|0|0|2|9|97
+Wilmer Font|R|Dwight Smith Jr|L|Walk|F|Four-Seam Fastball|13|1|0|2|2|93
+Wilmer Font|R|Dwight Smith Jr|L|Walk|B|Sinker|14|1|1|2|11|91
+Wilmer Font|R|Dwight Smith Jr|L|Walk|B|Four-Seam Fastball|15|2|1|2|11|94
+Wilmer Font|R|Dwight Smith Jr|L|Walk|S|Four-Seam Fastball|16|3|1|2|5|92
+Wilmer Font|R|Dwight Smith Jr|L|Walk|F|Four-Seam Fastball|17|3|2|2|8|94
+Wilmer Font|R|Dwight Smith Jr|L|Walk|B|Four-Seam Fastball|18|3|2|2|14|96
+Wilmer Font|R|Kendrys Morales|L|Strikeout|S|Four-Seam Fastball|19|0|0|2|11|96
+Wilmer Font|R|Kendrys Morales|L|Strikeout|F|Four-Seam Fastball|20|0|1|2|8|96
+Wilmer Font|R|Kendrys Morales|L|Strikeout|*B|Splitter|21|0|2|2|14|84
+Wilmer Font|R|Kendrys Morales|L|Strikeout|S|Splitter|22|1|2|2|7|83
+Wilmer Font|R|Matt Chapman|R|Lineout|C|Four-Seam Fastball|0|0|0|0|3|93
+Wilmer Font|R|Matt Chapman|R|Lineout|C|Curveball|1|0|1|0|11|74
+Wilmer Font|R|Matt Chapman|R|Lineout|F|Splitter|2|0|2|0|1|80
+Wilmer Font|R|Matt Chapman|R|Lineout|X|Splitter|3|0|2|0|14|83
+Wilmer Font|R|Jed Lowrie|L|Single|B|Curveball|4|0|0|1|13|75
+Wilmer Font|R|Jed Lowrie|L|Single|F|Curveball|5|1|0|1|9|74
+Wilmer Font|R|Jed Lowrie|L|Single|C|Splitter|6|1|1|1|1|83
+Wilmer Font|R|Jed Lowrie|L|Single|B|Four-Seam Fastball|7|1|2|1|11|95
+Wilmer Font|R|Jed Lowrie|L|Single|F|Four-Seam Fastball|8|2|2|1|12|94
+Wilmer Font|R|Jed Lowrie|L|Single|B|Splitter|9|2|2|1|14|83
+Wilmer Font|R|Jed Lowrie|L|Single|D|Splitter|10|3|2|1|3|80
+Wilmer Font|R|Matt Olson|L|Flyout|F|Four-Seam Fastball|11|0|0|1|8|95
+Wilmer Font|R|Matt Olson|L|Flyout|S|Four-Seam Fastball|12|0|1|1|5|95
+Wilmer Font|R|Matt Olson|L|Flyout|X|Four-Seam Fastball|13|0|2|1|11|96
+Wilmer Font|R|Stephen Piscotty|R|Groundout|B|Four-Seam Fastball|14|0|0|2|14|94
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Four-Seam Fastball|15|1|0|2|13|95
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Curveball|16|1|1|2|5|74
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Four-Seam Fastball|17|1|2|2|3|95
+Wilmer Font|R|Stephen Piscotty|R|Groundout|B|Four-Seam Fastball|18|1|2|2|12|97
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Curveball|19|2|2|2|14|76
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Four-Seam Fastball|20|2|2|2|5|95
+Wilmer Font|R|Stephen Piscotty|R|Groundout|F|Curveball|21|2|2|2|7|76
+Wilmer Font|R|Stephen Piscotty|R|Groundout|X|Splitter|22|2|2|2|9|83
+Wilmer Font|R|Jonathan Lucroy|R|Flyout|C|Four-Seam Fastball|23|0|0|0|9|94
+Wilmer Font|R|Jonathan Lucroy|R|Flyout|X|Four-Seam Fastball|24|0|1|0|3|94
+Wilmer Font|R|Dustin Fowler|L|Flyout|F|Four-Seam Fastball|25|0|0|1|7|94
+Wilmer Font|R|Dustin Fowler|L|Flyout|C|Curveball|26|0|1|1|4|75
+Wilmer Font|R|Dustin Fowler|L|Flyout|X|Four-Seam Fastball|27|0|2|1|2|94
+Wilmer Font|R|Mark Canha|R|Strikeout|S|Four-Seam Fastball|28|0|0|2|12|95
+Wilmer Font|R|Mark Canha|R|Strikeout|B|Curveball|29|0|1|2|14|76
+Wilmer Font|R|Mark Canha|R|Strikeout|S|Four-Seam Fastball|30|1|1|2|11|94
+Wilmer Font|R|Mark Canha|R|Strikeout|B|Splitter|31|1|2|2|14|86
+Wilmer Font|R|Mark Canha|R|Strikeout|F|Four-Seam Fastball|32|2|2|2|11|94
+Wilmer Font|R|Mark Canha|R|Strikeout|B|Splitter|33|2|2|2|14|84
+Wilmer Font|R|Mark Canha|R|Strikeout|S|Four-Seam Fastball|34|3|2|2|11|95
+Wilmer Font|R|Nelson Cruz|R|Groundout|B|Slider|0|0|0|1|14|82
+Wilmer Font|R|Nelson Cruz|R|Groundout|S|Four-Seam Fastball|1|1|0|1|12|95
+Wilmer Font|R|Nelson Cruz|R|Groundout|X|Four-Seam Fastball|2|1|1|1|12|95
+Wilmer Font|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|3|0|0|2|12|96
+Wilmer Font|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|4|1|0|2|12|95
+Wilmer Font|R|Mitch Haniger|R|Walk|F|Four-Seam Fastball|5|2|0|2|5|94
+Wilmer Font|R|Mitch Haniger|R|Walk|C|Four-Seam Fastball|6|2|1|2|6|96
+Wilmer Font|R|Mitch Haniger|R|Walk|B|Splitter|7|2|2|2|14|84
+Wilmer Font|R|Mitch Haniger|R|Walk|F|Four-Seam Fastball|8|3|2|2|11|93
+Wilmer Font|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|9|3|2|2|12|95
+Wilmer Font|R|Ben Gamel|L|Hit By Pitch|H|Four-Seam Fastball|10|0|0|2|12|94
+Wilmer Font|R|Ryon Healy|R|Forceout|F|Four-Seam Fastball|11|0|0|2|12|94
+Wilmer Font|R|Ryon Healy|R|Forceout|*B|Slider|12|0|1|2|14|80
+Wilmer Font|R|Ryon Healy|R|Forceout|X|Four-Seam Fastball|13|1|1|2|3|94
+Wilmer Font|R|Ryon Healy|R|Home Run|C|Four-Seam Fastball|0|0|0|0|4|93
+Wilmer Font|R|Ryon Healy|R|Home Run|F|Curveball|1|0|1|0|8|74
+Wilmer Font|R|Ryon Healy|R|Home Run|F|Four-Seam Fastball|2|0|2|0|2|95
+Wilmer Font|R|Ryon Healy|R|Home Run|B|Splitter|3|0|2|0|13|85
+Wilmer Font|R|Ryon Healy|R|Home Run|B|Four-Seam Fastball|4|1|2|0|11|96
+Wilmer Font|R|Ryon Healy|R|Home Run|E|Splitter|5|2|2|0|1|83
+Wilmer Font|R|Denard Span|L|Groundout|F|Four-Seam Fastball|6|0|0|0|5|92
+Wilmer Font|R|Denard Span|L|Groundout|X|Splitter|7|0|1|0|4|84
+Wilmer Font|R|Guillermo Heredia|R|Walk|B|Sinker|8|0|0|1|13|93
+Wilmer Font|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|9|1|0|1|11|93
+Wilmer Font|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|10|2|0|1|11|94
+Wilmer Font|R|Guillermo Heredia|R|Walk|B|Four-Seam Fastball|11|3|0|1|11|95
+Wilmer Font|R|Mike Zunino|R|Single|C|Four-Seam Fastball|12|0|0|1|9|94
+Wilmer Font|R|Mike Zunino|R|Single|S|Four-Seam Fastball|13|0|1|1|12|95
+Wilmer Font|R|Mike Zunino|R|Single|B|Four-Seam Fastball|14|0|2|1|14|95
+Wilmer Font|R|Mike Zunino|R|Single|D|Four-Seam Fastball|15|1|2|1|6|95
+Wilmer Font|R|Dee Gordon|L|Forceout|B|Sinker|16|0|0|1|11|91
+Wilmer Font|R|Dee Gordon|L|Forceout|X|Four-Seam Fastball|17|1|0|1|6|93
+Wilmer Font|R|Jean Segura|R|Groundout|C|Four-Seam Fastball|18|0|0|2|7|94
+Wilmer Font|R|Jean Segura|R|Groundout|C|Curveball|19|0|1|2|7|75
+Wilmer Font|R|Jean Segura|R|Groundout|F|Four-Seam Fastball|20|0|2|2|12|96
+Wilmer Font|R|Jean Segura|R|Groundout|B|Curveball|21|0|2|2|14|77
+Wilmer Font|R|Jean Segura|R|Groundout|F|Four-Seam Fastball|22|1|2|2|13|95
+Wilmer Font|R|Jean Segura|R|Groundout|F|Curveball|23|1|2|2|5|75
+Wilmer Font|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|24|1|2|2|11|95
+Wilmer Font|R|Jean Segura|R|Groundout|F|Curveball|25|2|2|2|11|75
+Wilmer Font|R|Jean Segura|R|Groundout|X|Curveball|26|2|2|2|11|75
+Wilmer Font|R|Mitch Haniger|R|Pop Out|F|Four-Seam Fastball|27|0|0|0|11|95
+Wilmer Font|R|Mitch Haniger|R|Pop Out|B|Four-Seam Fastball|28|0|1|0|11|93
+Wilmer Font|R|Mitch Haniger|R|Pop Out|C|Curveball|29|1|1|0|5|75
+Wilmer Font|R|Mitch Haniger|R|Pop Out|B|Four-Seam Fastball|30|1|2|0|12|96
+Wilmer Font|R|Mitch Haniger|R|Pop Out|B|Curveball|31|2|2|0|11|74
+Wilmer Font|R|Mitch Haniger|R|Pop Out|F|Four-Seam Fastball|32|3|2|0|13|92
+Wilmer Font|R|Mitch Haniger|R|Pop Out|X|Four-Seam Fastball|33|3|2|0|11|93
+Wilmer Font|R|Nelson Cruz|R|Walk|B|Curveball|34|0|0|1|13|76
+Wilmer Font|R|Nelson Cruz|R|Walk|T|Four-Seam Fastball|35|1|0|1|12|94
+Wilmer Font|R|Nelson Cruz|R|Walk|S|Slider|36|1|1|1|14|82
+Wilmer Font|R|Nelson Cruz|R|Walk|B|Slider|37|1|2|1|14|81
+Wilmer Font|R|Nelson Cruz|R|Walk|B|Four-Seam Fastball|38|2|2|1|12|96
+Wilmer Font|R|Nelson Cruz|R|Walk|B|Four-Seam Fastball|39|3|2|1|13|92
+Wilmer Font|R|Matt Adams|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|93
+Wilmer Font|R|Matt Adams|L|Flyout|B|Slider|1|1|0|0|14|81
+Wilmer Font|R|Matt Adams|L|Flyout|C|Four-Seam Fastball|2|2|0|0|13|91
+Wilmer Font|R|Matt Adams|L|Flyout|B|Four-Seam Fastball|3|2|1|0|13|92
+Wilmer Font|R|Matt Adams|L|Flyout|F|Four-Seam Fastball|4|3|1|0|3|92
+Wilmer Font|R|Matt Adams|L|Flyout|X|Splitter|5|3|2|0|7|83
+Wilmer Font|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|6|0|0|1|11|94
+Wilmer Font|R|Juan Soto|L|Flyout|S|Slider|7|1|0|1|1|79
+Wilmer Font|R|Juan Soto|L|Flyout|C|Splitter|8|1|1|1|8|84
+Wilmer Font|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|9|1|2|1|11|96
+Wilmer Font|R|Juan Soto|L|Flyout|B|Splitter|10|2|2|1|14|87
+Wilmer Font|R|Juan Soto|L|Flyout|X|Four-Seam Fastball|11|3|2|1|1|93
+Wilmer Font|R|Michael A. Taylor|R|Flyout|B|Slider|12|0|0|2|14|80
+Wilmer Font|R|Michael A. Taylor|R|Flyout|B|Splitter|13|1|0|2|12|82
+Wilmer Font|R|Michael A. Taylor|R|Flyout|X|Four-Seam Fastball|14|2|0|2|3|94
+Wilmer Font|R|Wilmer Difo|L|Flyout|C|Four-Seam Fastball|15|0|0|0|1|94
+Wilmer Font|R|Wilmer Difo|L|Flyout|B|Curveball|16|0|1|0|11|73
+Wilmer Font|R|Wilmer Difo|L|Flyout|B|Splitter|17|1|1|0|11|84
+Wilmer Font|R|Wilmer Difo|L|Flyout|F|Four-Seam Fastball|18|2|1|0|5|93
+Wilmer Font|R|Wilmer Difo|L|Flyout|F|Splitter|19|2|2|0|2|85
+Wilmer Font|R|Wilmer Difo|L|Flyout|B|Curveball|20|2|2|0|11|73
+Wilmer Font|R|Wilmer Difo|L|Flyout|F|Four-Seam Fastball|21|3|2|0|11|95
+Wilmer Font|R|Wilmer Difo|L|Flyout|X|Four-Seam Fastball|22|3|2|0|6|94
+Wilmer Font|R|Pedro Severino|R|Strikeout|C|Slider|23|0|0|1|9|81
+Wilmer Font|R|Pedro Severino|R|Strikeout|F|Four-Seam Fastball|24|0|1|1|2|95
+Wilmer Font|R|Pedro Severino|R|Strikeout|F|Slider|25|0|2|1|12|80
+Wilmer Font|R|Pedro Severino|R|Strikeout|S|Four-Seam Fastball|26|0|2|1|12|96
+Wilmer Font|R|Max Scherzer|R|Groundout|C|Four-Seam Fastball|27|0|0|2|14|94
+Wilmer Font|R|Max Scherzer|R|Groundout|S|Slider|28|0|1|2|14|81
+Wilmer Font|R|Max Scherzer|R|Groundout|B|Slider|29|0|2|2|14|81
+Wilmer Font|R|Max Scherzer|R|Groundout|B|Four-Seam Fastball|30|1|2|2|12|96
+Wilmer Font|R|Max Scherzer|R|Groundout|F|Four-Seam Fastball|31|2|2|2|1|95
+Wilmer Font|R|Max Scherzer|R|Groundout|X|Slider|32|2|2|2|2|80
+Wilmer Font|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|95
+Wilmer Font|R|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|13|96
+Wilmer Font|R|Dee Gordon|L|Strikeout|S|Splitter|2|0|2|0|11|85
+Wilmer Font|R|Jean Segura|R|Pop Out|C|Four-Seam Fastball|3|0|0|1|3|98
+Wilmer Font|R|Jean Segura|R|Pop Out|F|Slider|4|0|1|1|6|83
+Wilmer Font|R|Jean Segura|R|Pop Out|F|Four-Seam Fastball|5|0|2|1|4|97
+Wilmer Font|R|Jean Segura|R|Pop Out|F|Four-Seam Fastball|6|0|2|1|9|98
+Wilmer Font|R|Jean Segura|R|Pop Out|F|Splitter|7|0|2|1|2|87
+Wilmer Font|R|Jean Segura|R|Pop Out|B|Slider|8|0|2|1|12|83
+Wilmer Font|R|Jean Segura|R|Pop Out|B|Splitter|9|1|2|1|14|85
+Wilmer Font|R|Jean Segura|R|Pop Out|X|Splitter|10|2|2|1|11|84
+Wilmer Font|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|11|0|0|2|12|97
+Wilmer Font|R|Mitch Haniger|R|Strikeout|C|Curveball|12|1|0|2|2|75
+Wilmer Font|R|Mitch Haniger|R|Strikeout|F|Slider|13|1|1|2|6|81
+Wilmer Font|R|Mitch Haniger|R|Strikeout|S|Four-Seam Fastball|14|1|2|2|11|97
+Wilmer Font|R|Nelson Cruz|R|Groundout|B|Four-Seam Fastball|15|0|0|0|12|96
+Wilmer Font|R|Nelson Cruz|R|Groundout|C|Curveball|16|1|0|0|13|74
+Wilmer Font|R|Nelson Cruz|R|Groundout|F|Four-Seam Fastball|17|1|1|0|2|97
+Wilmer Font|R|Nelson Cruz|R|Groundout|B|Four-Seam Fastball|18|1|2|0|12|97
+Wilmer Font|R|Nelson Cruz|R|Groundout|B|Slider|19|2|2|0|14|83
+Wilmer Font|R|Nelson Cruz|R|Groundout|X|Curveball|20|3|2|0|4|75
+Wilmer Font|R|Kyle Seager|L|Strikeout|B|Four-Seam Fastball|21|0|0|1|14|97
+Wilmer Font|R|Kyle Seager|L|Strikeout|F|Four-Seam Fastball|22|1|0|1|11|95
+Wilmer Font|R|Kyle Seager|L|Strikeout|C|Four-Seam Fastball|23|1|1|1|4|96
+Wilmer Font|R|Kyle Seager|L|Strikeout|B|Curveball|24|1|2|1|11|77
+Wilmer Font|R|Kyle Seager|L|Strikeout|B|Splitter|25|2|2|1|14|86
+Wilmer Font|R|Kyle Seager|L|Strikeout|S|Four-Seam Fastball|26|3|2|1|11|95
+Wilmer Font|R|Mike Zunino|R|Strikeout|C|Four-Seam Fastball|27|0|0|2|3|97
+Wilmer Font|R|Mike Zunino|R|Strikeout|F|Slider|28|0|1|2|14|83
+Wilmer Font|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|29|0|2|2|11|97
+Wilmer Font|R|Ben Gamel|L|Walk|B|Curveball|30|0|0|0|11|73
+Wilmer Font|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|31|1|0|0|11|94
+Wilmer Font|R|Ben Gamel|L|Walk|F|Four-Seam Fastball|32|2|0|0|8|94
+Wilmer Font|R|Ben Gamel|L|Walk|F|Curveball|33|2|1|0|4|74
+Wilmer Font|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|34|2|2|0|12|97
+Wilmer Font|R|Ben Gamel|L|Walk|F|Curveball|35|3|2|0|7|73
+Wilmer Font|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|36|3|2|0|11|95
+Wilmer Font|R|Guillermo Heredia|R|Single|C|Four-Seam Fastball|37|0|0|0|12|94
+Wilmer Font|R|Guillermo Heredia|R|Single|C|Curveball|38|0|1|0|13|74
+Wilmer Font|R|Guillermo Heredia|R|Single|B|Four-Seam Fastball|39|0|2|0|14|98
+Wilmer Font|R|Guillermo Heredia|R|Single|D|Curveball|40|1|2|0|14|75
+Wilmer Font|R|Daniel Vogelbach|L|Single|E|Four-Seam Fastball|41|0|0|0|11|95
+Wilmer Font|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|42|0|0|0|2|94
+Wilmer Font|R|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|43|0|1|0|14|97
+Wilmer Font|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|44|1|1|0|13|94
+Wilmer Font|R|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|45|1|2|0|11|96
+Wilmer Font|R|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|46|1|2|0|12|97
+Wilmer Font|R|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|47|1|2|0|5|94
+Wilmer Font|R|Curtis Granderson|L|Single|B|Four-Seam Fastball|0|0|0|0|12|92
+Wilmer Font|R|Curtis Granderson|L|Single|C|Four-Seam Fastball|1|1|0|0|7|94
+Wilmer Font|R|Curtis Granderson|L|Single|B|Curveball|2|1|1|0|11|73
+Wilmer Font|R|Curtis Granderson|L|Single|D|Four-Seam Fastball|3|2|1|0|8|93
+Wilmer Font|R|Justin Smoak|L|Lineout|F|Four-Seam Fastball|4|0|0|0|2|94
+Wilmer Font|R|Justin Smoak|L|Lineout|F|Four-Seam Fastball|5|0|1|0|4|95
+Wilmer Font|R|Justin Smoak|L|Lineout|B|Four-Seam Fastball|6|0|2|0|11|95
+Wilmer Font|R|Justin Smoak|L|Lineout|F|Splitter|7|1|2|0|13|87
+Wilmer Font|R|Justin Smoak|L|Lineout|F|Splitter|8|1|2|0|13|84
+Wilmer Font|R|Justin Smoak|L|Lineout|X|Four-Seam Fastball|9|1|2|0|1|96
+Wilmer Font|R|Teoscar Hernandez|R|Walk|*B|Slider|10|0|0|1|14|81
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|11|1|0|1|11|94
+Wilmer Font|R|Teoscar Hernandez|R|Walk|F|Slider|12|2|0|1|1|80
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Splitter|13|2|1|1|11|84
+Wilmer Font|R|Teoscar Hernandez|R|Walk|B|Curveball|14|3|1|1|11|73
+Wilmer Font|R|Yangervis Solarte|L|Groundout|B|Sinker|15|0|0|1|11|92
+Wilmer Font|R|Yangervis Solarte|L|Groundout|C|Sinker|16|1|0|1|11|90
+Wilmer Font|R|Yangervis Solarte|L|Groundout|F|Sinker|17|1|1|1|1|92
+Wilmer Font|R|Yangervis Solarte|L|Groundout|*B|Splitter|18|1|2|1|13|86
+Wilmer Font|R|Yangervis Solarte|L|Groundout|F|Splitter|19|2|2|1|5|85
+Wilmer Font|R|Yangervis Solarte|L|Groundout|F|Sinker|20|2|2|1|11|94
+Wilmer Font|R|Yangervis Solarte|L|Groundout|X|Four-Seam Fastball|21|2|2|1|6|95
+Wilmer Font|R|Kevin Pillar|R|Pop Out|B|Four-Seam Fastball|22|0|0|2|12|96
+Wilmer Font|R|Kevin Pillar|R|Pop Out|B|Four-Seam Fastball|23|1|0|2|14|94
+Wilmer Font|R|Kevin Pillar|R|Pop Out|S|Four-Seam Fastball|24|2|0|2|9|94
+Wilmer Font|R|Kevin Pillar|R|Pop Out|B|Four-Seam Fastball|25|2|1|2|13|94
+Wilmer Font|R|Kevin Pillar|R|Pop Out|S|Four-Seam Fastball|26|3|1|2|12|95
+Wilmer Font|R|Kevin Pillar|R|Pop Out|X|Four-Seam Fastball|27|3|2|2|2|95
+Wilmer Font|R|Russell Martin|R|Field Error|C|Four-Seam Fastball|28|0|0|0|9|94
+Wilmer Font|R|Russell Martin|R|Field Error|B|Slider|29|0|1|0|14|80
+Wilmer Font|R|Russell Martin|R|Field Error|D|Four-Seam Fastball|30|1|1|0|2|94
+Wilmer Font|R|Randal Grichuk|R|Walk|S|Four-Seam Fastball|31|0|0|0|1|94
+Wilmer Font|R|Randal Grichuk|R|Walk|C|Four-Seam Fastball|32|0|1|0|7|93
+Wilmer Font|R|Randal Grichuk|R|Walk|F|Four-Seam Fastball|33|0|2|0|12|96
+Wilmer Font|R|Randal Grichuk|R|Walk|B|Curveball|34|0|2|0|14|75
+Wilmer Font|R|Randal Grichuk|R|Walk|B|Four-Seam Fastball|35|1|2|0|12|96
+Wilmer Font|R|Randal Grichuk|R|Walk|B|Four-Seam Fastball|36|2|2|0|14|94
+Wilmer Font|R|Randal Grichuk|R|Walk|F|Four-Seam Fastball|37|3|2|0|7|92
+Wilmer Font|R|Randal Grichuk|R|Walk|B|Four-Seam Fastball|38|3|2|0|11|94
+Wilmer Font|R|Aledmys Diaz|R|Flyout|X|Four-Seam Fastball|39|0|0|0|9|91
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|C|Four-Seam Fastball|40|0|0|1|5|93
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|C|Four-Seam Fastball|41|0|1|1|2|94
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|B|Slider|42|0|2|1|14|82
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|F|Four-Seam Fastball|43|1|2|1|12|96
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|B|Slider|44|1|2|1|12|81
+Wilmer Font|R|Gio Urshela|R|Grounded Into DP|X|Four-Seam Fastball|45|2|2|1|2|95
+Wilmer Font|R|Curtis Granderson|L|Single|B|Four-Seam Fastball|46|0|0|0|13|93
+Wilmer Font|R|Curtis Granderson|L|Single|C|Four-Seam Fastball|47|1|0|0|8|93
+Wilmer Font|R|Curtis Granderson|L|Single|F|Four-Seam Fastball|48|1|1|0|3|94
+Wilmer Font|R|Curtis Granderson|L|Single|D|Splitter|49|1|2|0|5|86
+Wilmer Font|R|Justin Smoak|L|Flyout|C|Four-Seam Fastball|50|0|0|0|11|92
+Wilmer Font|R|Justin Smoak|L|Flyout|X|Sinker|51|0|1|0|7|92
+Wilmer Font|R|Teoscar Hernandez|R|Strikeout|S|Four-Seam Fastball|52|0|0|1|11|95
+Wilmer Font|R|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|53|0|1|1|11|94
+Wilmer Font|R|Teoscar Hernandez|R|Strikeout|C|Slider|54|1|1|1|3|81
+Wilmer Font|R|Teoscar Hernandez|R|Strikeout|S|Four-Seam Fastball|55|1|2|1|5|96
+Wilmer Font|R|Yangervis Solarte|L|Pop Out|B|Four-Seam Fastball|56|0|0|2|11|94
+Wilmer Font|R|Yangervis Solarte|L|Pop Out|B|Splitter|57|1|0|2|11|85
+Wilmer Font|R|Yangervis Solarte|L|Pop Out|X|Four-Seam Fastball|58|2|0|2|5|94
+Wilmer Font|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|59|0|0|0|2|92
+Wilmer Font|R|Russell Martin|R|Walk|C|Four-Seam Fastball|60|0|0|1|6|91
+Wilmer Font|R|Russell Martin|R|Walk|C|Four-Seam Fastball|61|0|1|1|4|94
+Wilmer Font|R|Russell Martin|R|Walk|B|Splitter|62|0|2|1|11|87
+Wilmer Font|R|Russell Martin|R|Walk|B|Splitter|63|1|2|1|14|84
+Wilmer Font|R|Russell Martin|R|Walk|B|Four-Seam Fastball|64|2|2|1|11|95
+Wilmer Font|R|Russell Martin|R|Walk|B|Four-Seam Fastball|65|3|2|1|11|93
+Wilmer Font|R|Aaron Hicks|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|95
+Wilmer Font|R|Aaron Hicks|L|Groundout|C|Four-Seam Fastball|1|1|0|0|7|93
+Wilmer Font|R|Aaron Hicks|L|Groundout|C|Curveball|2|1|1|0|13|75
+Wilmer Font|R|Aaron Hicks|L|Groundout|B|Splitter|3|1|2|0|13|87
+Wilmer Font|R|Aaron Hicks|L|Groundout|X|Four-Seam Fastball|4|2|2|0|5|98
+Wilmer Font|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|14|96
+Wilmer Font|R|Aaron Judge|R|Strikeout|S|Four-Seam Fastball|6|0|1|1|6|97
+Wilmer Font|R|Aaron Judge|R|Strikeout|F|Four-Seam Fastball|7|0|2|1|1|97
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Slider|8|0|2|1|14|83
+Wilmer Font|R|Aaron Judge|R|Strikeout|F|Four-Seam Fastball|9|1|2|1|7|98
+Wilmer Font|R|Aaron Judge|R|Strikeout|S|Four-Seam Fastball|10|1|2|1|5|98
+Wilmer Font|R|Didi Gregorius|L|Triple|C|Four-Seam Fastball|11|0|0|2|5|93
+Wilmer Font|R|Didi Gregorius|L|Triple|D|Four-Seam Fastball|12|0|1|2|11|96
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Slider|13|0|0|2|14|83
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Slider|14|1|0|2|14|83
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|15|2|0|2|13|96
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|16|3|0|2|13|96
+Wilmer Font|R|Greg Bird|L|Flyout|B|Four-Seam Fastball|17|0|0|2|13|93
+Wilmer Font|R|Greg Bird|L|Flyout|B|Curveball|18|1|0|2|12|75
+Wilmer Font|R|Greg Bird|L|Flyout|C|Four-Seam Fastball|19|2|0|2|5|92
+Wilmer Font|R|Greg Bird|L|Flyout|F|Four-Seam Fastball|20|2|1|2|1|93
+Wilmer Font|R|Greg Bird|L|Flyout|F|Curveball|21|2|2|2|11|76
+Wilmer Font|R|Greg Bird|L|Flyout|F|Four-Seam Fastball|22|2|2|2|5|97
+Wilmer Font|R|Greg Bird|L|Flyout|X|Four-Seam Fastball|23|2|2|2|5|96
+Wilmer Font|R|Gary Sanchez|R|Single|C|Four-Seam Fastball|24|0|0|0|6|94
+Wilmer Font|R|Gary Sanchez|R|Single|D|Four-Seam Fastball|25|0|1|0|14|97
+Wilmer Font|R|Miguel Andujar|R|Forceout|F|Four-Seam Fastball|26|0|0|0|6|95
+Wilmer Font|R|Miguel Andujar|R|Forceout|X|Slider|27|0|1|0|9|82
+Wilmer Font|R|Neil Walker|L|Groundout|S|Sinker|28|0|0|1|13|91
+Wilmer Font|R|Neil Walker|L|Groundout|B|Curveball|29|0|1|1|14|76
+Wilmer Font|R|Neil Walker|L|Groundout|S|Sinker|30|1|1|1|5|93
+Wilmer Font|R|Neil Walker|L|Groundout|B|Splitter|31|1|2|1|14|87
+Wilmer Font|R|Neil Walker|L|Groundout|X|Four-Seam Fastball|32|2|2|1|14|98
+Wilmer Font|R|Gleyber Torres|R|Strikeout|C|Slider|33|0|0|2|1|80
+Wilmer Font|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|34|0|1|2|4|97
+Wilmer Font|R|Gleyber Torres|R|Strikeout|B|Slider|35|0|2|2|14|82
+Wilmer Font|R|Gleyber Torres|R|Strikeout|B|Four-Seam Fastball|36|1|2|2|11|96
+Wilmer Font|R|Gleyber Torres|R|Strikeout|B|Slider|37|2|2|2|14|84
+Wilmer Font|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|38|3|2|2|2|96
+Wilmer Font|R|Aaron Hicks|L|Pop Out|B|Curveball|39|0|0|0|13|73
+Wilmer Font|R|Aaron Hicks|L|Pop Out|B|Four-Seam Fastball|40|1|0|0|13|95
+Wilmer Font|R|Aaron Hicks|L|Pop Out|X|Four-Seam Fastball|41|2|0|0|1|94
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Slider|42|0|0|1|12|82
+Wilmer Font|R|Aaron Judge|R|Groundout|X|Four-Seam Fastball|43|1|0|1|7|96
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|44|0|0|2|11|94
+Wilmer Font|R|Didi Gregorius|L|Groundout|B|Splitter|45|0|1|2|14|85
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|46|1|1|2|2|94
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|47|1|2|2|11|97
+Wilmer Font|R|Didi Gregorius|L|Groundout|X|Sinker|48|1|2|2|12|96
+Wilmer Font|R|Giancarlo Stanton|R|Single|D|Four-Seam Fastball|49|0|0|0|2|95
+Wilmer Font|R|Greg Bird|L|Strikeout|B|Sinker|50|0|0|0|11|91
+Wilmer Font|R|Greg Bird|L|Strikeout|C|Curveball|51|1|0|0|3|75
+Wilmer Font|R|Greg Bird|L|Strikeout|B|Sinker|52|1|1|0|11|93
+Wilmer Font|R|Greg Bird|L|Strikeout|S|Four-Seam Fastball|53|2|1|0|1|92
+Wilmer Font|R|Greg Bird|L|Strikeout|S|Four-Seam Fastball|54|2|2|0|1|96
+Wilmer Font|R|Gary Sanchez|R|Forceout|C|Slider|55|0|0|1|9|81
+Wilmer Font|R|Gary Sanchez|R|Forceout|B|Four-Seam Fastball|56|0|1|1|12|96
+Wilmer Font|R|Gary Sanchez|R|Forceout|B|Four-Seam Fastball|57|1|1|1|14|95
+Wilmer Font|R|Gary Sanchez|R|Forceout|B|Slider|58|2|1|1|14|82
+Wilmer Font|R|Gary Sanchez|R|Forceout|F|Four-Seam Fastball|59|3|1|1|11|96
+Wilmer Font|R|Gary Sanchez|R|Forceout|F|Four-Seam Fastball|60|3|2|1|6|96
+Wilmer Font|R|Gary Sanchez|R|Forceout|X|Four-Seam Fastball|61|3|2|1|3|96
+Wilmer Font|R|Miguel Andujar|R|Strikeout|C|Four-Seam Fastball|62|0|0|2|11|94
+Wilmer Font|R|Miguel Andujar|R|Strikeout|F|Four-Seam Fastball|63|0|1|2|5|97
+Wilmer Font|R|Miguel Andujar|R|Strikeout|C|Four-Seam Fastball|64|0|2|2|14|97
+Wilmer Font|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|65|0|0|0|11|92
+Wilmer Font|R|Neil Walker|L|Strikeout|C|Curveball|66|0|1|0|8|76
+Wilmer Font|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|67|0|2|0|11|96
+Wilmer Font|R|Neil Walker|L|Strikeout|C|Curveball|68|1|2|0|1|77
+Wilmer Font|R|Gleyber Torres|R|Groundout|S|Four-Seam Fastball|69|0|0|1|6|96
+Wilmer Font|R|Gleyber Torres|R|Groundout|X|Slider|70|0|1|1|6|81
+Wilmer Font|R|Aaron Hicks|L|Home Run|C|Curveball|71|0|0|2|1|76
+Wilmer Font|R|Aaron Hicks|L|Home Run|B|Sinker|72|0|1|2|11|95
+Wilmer Font|R|Aaron Hicks|L|Home Run|E|Four-Seam Fastball|73|1|1|2|1|95
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|93
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|1|1|0|0|11|94
+Wilmer Font|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|2|2|0|0|8|92
+Wilmer Font|R|Brett Gardner|L|Groundout|F|Four-Seam Fastball|3|2|1|0|2|93
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Curveball|4|2|2|0|11|76
+Wilmer Font|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|5|3|2|0|11|94
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|6|0|0|1|12|96
+Wilmer Font|R|Aaron Judge|R|Strikeout|C|Slider|7|1|0|1|9|83
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Slider|8|1|1|1|14|84
+Wilmer Font|R|Aaron Judge|R|Strikeout|T|Four-Seam Fastball|9|2|1|1|1|95
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|10|2|2|1|11|95
+Wilmer Font|R|Aaron Judge|R|Strikeout|C|Slider|11|3|2|1|4|84
+Wilmer Font|R|Didi Gregorius|L|Lineout|B|Sinker|12|0|0|2|13|94
+Wilmer Font|R|Didi Gregorius|L|Lineout|F|Splitter|13|1|0|2|13|85
+Wilmer Font|R|Didi Gregorius|L|Lineout|X|Four-Seam Fastball|14|1|1|2|6|95
+Wilmer Font|R|Giancarlo Stanton|R|Double|B|Slider|15|0|0|0|14|85
+Wilmer Font|R|Giancarlo Stanton|R|Double|B|Slider|16|1|0|0|14|82
+Wilmer Font|R|Giancarlo Stanton|R|Double|F|Slider|17|2|0|0|6|82
+Wilmer Font|R|Giancarlo Stanton|R|Double|F|Four-Seam Fastball|18|2|1|0|12|95
+Wilmer Font|R|Giancarlo Stanton|R|Double|D|Four-Seam Fastball|19|2|2|0|11|96
+Wilmer Font|R|Aaron Hicks|L|Lineout|B|Curveball|20|0|0|0|11|74
+Wilmer Font|R|Aaron Hicks|L|Lineout|F|Splitter|21|1|0|0|13|85
+Wilmer Font|R|Aaron Hicks|L|Lineout|B|Four-Seam Fastball|22|1|1|0|11|95
+Wilmer Font|R|Aaron Hicks|L|Lineout|C|Four-Seam Fastball|23|2|1|0|9|95
+Wilmer Font|R|Aaron Hicks|L|Lineout|B|Curveball|24|2|2|0|11|78
+Wilmer Font|R|Aaron Hicks|L|Lineout|X|Splitter|25|3|2|0|11|85
+Wilmer Font|R|Greg Bird|L|Strikeout|C|Curveball|26|0|0|1|8|74
+Wilmer Font|R|Greg Bird|L|Strikeout|F|Four-Seam Fastball|27|0|1|1|5|96
+Wilmer Font|R|Greg Bird|L|Strikeout|S|Curveball|28|0|2|1|14|78
+Wilmer Font|R|Miguel Andujar|R|Groundout|X|Four-Seam Fastball|29|0|0|2|9|97
+Wilmer Font|R|Austin Romine|R|Double|B|Four-Seam Fastball|30|0|0|0|14|93
+Wilmer Font|R|Austin Romine|R|Double|B|Slider|31|1|0|0|14|83
+Wilmer Font|R|Austin Romine|R|Double|B|Four-Seam Fastball|32|2|0|0|11|93
+Wilmer Font|R|Austin Romine|R|Double|C|Four-Seam Fastball|33|3|0|0|1|90
+Wilmer Font|R|Austin Romine|R|Double|D|Four-Seam Fastball|34|3|1|0|9|91
+Wilmer Font|R|Neil Walker|L|Flyout|B|Four-Seam Fastball|35|0|0|0|11|93
+Wilmer Font|R|Neil Walker|L|Flyout|X|Four-Seam Fastball|36|1|0|0|1|91
+Wilmer Font|R|Brett Gardner|L|Flyout|C|Four-Seam Fastball|37|0|0|1|11|93
+Wilmer Font|R|Brett Gardner|L|Flyout|B|Splitter|38|0|1|1|13|84
+Wilmer Font|R|Brett Gardner|L|Flyout|B|Four-Seam Fastball|39|1|1|1|11|94
+Wilmer Font|R|Brett Gardner|L|Flyout|B|Four-Seam Fastball|40|2|1|1|11|92
+Wilmer Font|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|41|3|1|1|7|92
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Four-Seam Fastball|42|0|0|2|14|96
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Slider|43|1|0|2|14|84
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Slider|44|2|0|2|14|81
+Wilmer Font|R|Aaron Judge|R|Groundout|F|Four-Seam Fastball|45|3|0|2|11|95
+Wilmer Font|R|Aaron Judge|R|Groundout|C|Four-Seam Fastball|46|3|1|2|7|94
+Wilmer Font|R|Aaron Judge|R|Groundout|X|Curveball|47|3|2|2|8|76
+Wilmer Font|R|Didi Gregorius|L|Single|C|Four-Seam Fastball|48|0|0|0|8|93
+Wilmer Font|R|Didi Gregorius|L|Single|D|Four-Seam Fastball|49|0|1|0|12|94
+Wilmer Font|R|Giancarlo Stanton|R|Grounded Into DP|B|Four-Seam Fastball|50|0|0|0|12|94
+Wilmer Font|R|Giancarlo Stanton|R|Grounded Into DP|X|Slider|51|1|0|0|14|81
+Wilmer Font|R|Aaron Hicks|L|Strikeout|S|Splitter|52|0|0|2|7|83
+Wilmer Font|R|Aaron Hicks|L|Strikeout|F|Curveball|53|0|1|2|9|76
+Wilmer Font|R|Aaron Hicks|L|Strikeout|S|Splitter|54|0|2|2|11|86
+Wilmer Font|R|Greg Bird|L|Groundout|X|Four-Seam Fastball|55|0|0|0|2|93
+Wilmer Font|R|Miguel Andujar|R|Lineout|C|Four-Seam Fastball|56|0|0|1|11|95
+Wilmer Font|R|Miguel Andujar|R|Lineout|B|Slider|57|0|1|1|14|84
+Wilmer Font|R|Miguel Andujar|R|Lineout|S|Slider|58|1|1|1|8|83
+Wilmer Font|R|Miguel Andujar|R|Lineout|X|Four-Seam Fastball|59|1|2|1|6|96
+Wilmer Font|R|Austin Romine|R|Strikeout|B|Four-Seam Fastball|60|0|0|2|11|95
+Wilmer Font|R|Austin Romine|R|Strikeout|B|Four-Seam Fastball|61|1|0|2|11|92
+Wilmer Font|R|Austin Romine|R|Strikeout|B|Four-Seam Fastball|62|2|0|2|14|91
+Wilmer Font|R|Austin Romine|R|Strikeout|C|Four-Seam Fastball|63|3|0|2|5|91
+Wilmer Font|R|Austin Romine|R|Strikeout|C|Slider|64|3|1|2|11|80
+Wilmer Font|R|Austin Romine|R|Strikeout|C|Slider|65|3|2|2|2|81
+Wilmer Font|R|Neil Walker|L|Lineout|C|Four-Seam Fastball|66|0|0|0|13|92
+Wilmer Font|R|Neil Walker|L|Lineout|F|Splitter|67|0|1|0|13|81
+Wilmer Font|R|Neil Walker|L|Lineout|X|Splitter|68|0|2|0|1|84
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Curveball|69|0|0|1|14|74
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|70|1|0|1|11|91
+Wilmer Font|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|71|2|0|1|6|91
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Splitter|72|2|1|1|14|83
+Wilmer Font|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|73|3|1|1|5|90
+Wilmer Font|R|Aaron Judge|R|Walk|B|Slider|74|0|0|2|14|83
+Wilmer Font|R|Aaron Judge|R|Walk|S|Four-Seam Fastball|75|1|0|2|12|93
+Wilmer Font|R|Aaron Judge|R|Walk|B|Sinker|76|1|1|2|13|94
+Wilmer Font|R|Aaron Judge|R|Walk|F|Four-Seam Fastball|77|2|1|2|6|94
+Wilmer Font|R|Aaron Judge|R|Walk|B|Four-Seam Fastball|78|2|2|2|11|94
+Wilmer Font|R|Aaron Judge|R|Walk|B|Four-Seam Fastball|79|3|2|2|14|93
+Wilmer Font|R|Alex Bregman|R|Lineout|X|Four-Seam Fastball|0|0|0|0|6|94
+Wilmer Font|R|Jose Altuve|R|Pop Out|C|Four-Seam Fastball|1|0|0|1|2|93
+Wilmer Font|R|Jose Altuve|R|Pop Out|C|Four-Seam Fastball|2|0|1|1|3|95
+Wilmer Font|R|Jose Altuve|R|Pop Out|X|Four-Seam Fastball|3|0|2|1|11|97
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Four-Seam Fastball|4|0|0|2|11|95
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Four-Seam Fastball|5|1|0|2|14|94
+Wilmer Font|R|Josh Reddick|L|Groundout|C|Four-Seam Fastball|6|2|0|2|13|94
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Four-Seam Fastball|7|2|1|2|11|95
+Wilmer Font|R|Josh Reddick|L|Groundout|X|Four-Seam Fastball|8|3|1|2|13|93
+Wilmer Font|R|Evan Gattis|R|Groundout|B|Slider|9|0|0|0|14|84
+Wilmer Font|R|Evan Gattis|R|Groundout|F|Four-Seam Fastball|10|1|0|0|3|95
+Wilmer Font|R|Evan Gattis|R|Groundout|S|Four-Seam Fastball|11|1|1|0|3|97
+Wilmer Font|R|Evan Gattis|R|Groundout|X|Curveball|12|1|2|0|5|78
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|B|Four-Seam Fastball|13|0|0|1|13|94
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|S|Splitter|14|1|0|1|13|86
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|B|Four-Seam Fastball|15|1|1|1|13|95
+Wilmer Font|R|Marwin Gonzalez|L|Groundout|X|Four-Seam Fastball|16|2|1|1|13|96
+Wilmer Font|R|AJ Reed|L|Pop Out|F|Four-Seam Fastball|17|0|0|2|5|96
+Wilmer Font|R|AJ Reed|L|Pop Out|C|Curveball|18|0|1|2|2|77
+Wilmer Font|R|AJ Reed|L|Pop Out|X|Four-Seam Fastball|19|0|2|2|11|96
+Wilmer Font|R|Max Stassi|R|Walk|C|Four-Seam Fastball|20|0|0|0|3|93
+Wilmer Font|R|Max Stassi|R|Walk|B|Curveball|21|0|1|0|11|75
+Wilmer Font|R|Max Stassi|R|Walk|C|Slider|22|1|1|0|12|82
+Wilmer Font|R|Max Stassi|R|Walk|B|Four-Seam Fastball|23|1|2|0|12|97
+Wilmer Font|R|Max Stassi|R|Walk|B|Four-Seam Fastball|24|2|2|0|12|96
+Wilmer Font|R|Max Stassi|R|Walk|F|Four-Seam Fastball|25|3|2|0|2|94
+Wilmer Font|R|Max Stassi|R|Walk|B|Slider|26|3|2|0|11|83
+Wilmer Font|R|Tony Kemp|L|Lineout|C|Four-Seam Fastball|27|0|0|0|3|93
+Wilmer Font|R|Tony Kemp|L|Lineout|*B|Curveball|28|0|1|0|14|75
+Wilmer Font|R|Tony Kemp|L|Lineout|F|Four-Seam Fastball|29|1|1|0|12|91
+Wilmer Font|R|Tony Kemp|L|Lineout|X|Splitter|30|1|2|0|4|86
+Wilmer Font|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|31|0|0|1|12|95
+Wilmer Font|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|32|0|1|1|12|96
+Wilmer Font|R|Jake Marisnick|R|Strikeout|*B|Slider|33|0|2|1|14|83
+Wilmer Font|R|Jake Marisnick|R|Strikeout|B|Slider|34|1|2|1|12|84
+Wilmer Font|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|35|2|2|1|5|95
+Wilmer Font|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|36|2|2|1|2|94
+Wilmer Font|R|Jake Marisnick|R|Strikeout|S|Curveball|37|2|2|1|8|75
+Wilmer Font|R|Alex Bregman|R|Flyout|C|Slider|38|0|0|2|9|82
+Wilmer Font|R|Alex Bregman|R|Flyout|F|Four-Seam Fastball|39|0|1|2|2|96
+Wilmer Font|R|Alex Bregman|R|Flyout|B|Curveball|40|0|2|2|11|78
+Wilmer Font|R|Alex Bregman|R|Flyout|B|Four-Seam Fastball|41|1|2|2|14|96
+Wilmer Font|R|Alex Bregman|R|Flyout|X|Four-Seam Fastball|42|2|2|2|3|97
+Wilmer Font|R|Jose Altuve|R|Groundout|S|Slider|43|0|0|0|3|83
+Wilmer Font|R|Jose Altuve|R|Groundout|F|Four-Seam Fastball|44|0|1|0|11|96
+Wilmer Font|R|Jose Altuve|R|Groundout|X|Four-Seam Fastball|45|0|2|0|11|96
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Curveball|46|0|0|1|13|73
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Splitter|47|1|0|1|13|85
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Splitter|48|2|0|1|13|82
+Wilmer Font|R|Josh Reddick|L|Groundout|C|Four-Seam Fastball|49|3|0|1|4|91
+Wilmer Font|R|Josh Reddick|L|Groundout|X|Four-Seam Fastball|50|3|1|1|11|91
+Wilmer Font|R|Evan Gattis|R|Strikeout|C|Four-Seam Fastball|51|0|0|2|6|95
+Wilmer Font|R|Evan Gattis|R|Strikeout|S|Curveball|52|0|1|2|6|77
+Wilmer Font|R|Evan Gattis|R|Strikeout|T|Four-Seam Fastball|53|0|2|2|3|96
+Wilmer Font|R|Marwin Gonzalez|L|Strikeout|C|Four-Seam Fastball|54|0|0|0|5|93
+Wilmer Font|R|Marwin Gonzalez|L|Strikeout|B|Splitter|55|0|1|0|13|83
+Wilmer Font|R|Marwin Gonzalez|L|Strikeout|B|Four-Seam Fastball|56|1|1|0|11|94
+Wilmer Font|R|Marwin Gonzalez|L|Strikeout|F|Four-Seam Fastball|57|2|1|0|2|92
+Wilmer Font|R|Marwin Gonzalez|L|Strikeout|C|Curveball|58|2|2|0|5|75
+Wilmer Font|R|AJ Reed|L|Groundout|X|Splitter|59|0|0|1|4|84
+Wilmer Font|R|Max Stassi|R|Double|C|Slider|60|0|0|2|3|83
+Wilmer Font|R|Max Stassi|R|Double|S|Curveball|61|0|1|2|14|76
+Wilmer Font|R|Max Stassi|R|Double|F|Four-Seam Fastball|62|0|2|2|5|96
+Wilmer Font|R|Max Stassi|R|Double|B|Curveball|63|0|2|2|14|76
+Wilmer Font|R|Max Stassi|R|Double|B|Curveball|64|1|2|2|13|76
+Wilmer Font|R|Max Stassi|R|Double|F|Four-Seam Fastball|65|2|2|2|12|96
+Wilmer Font|R|Max Stassi|R|Double|D|Four-Seam Fastball|66|2|2|2|9|97
+Wilmer Font|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|67|0|0|2|4|91
+Wilmer Font|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|68|0|0|0|12|92
+Wilmer Font|R|Jake Marisnick|R|Walk|B|Slider|69|1|0|0|14|82
+Wilmer Font|R|Jake Marisnick|R|Walk|B|Splitter|70|2|0|0|12|88
+Wilmer Font|R|Jake Marisnick|R|Walk|B|Four-Seam Fastball|71|3|0|0|14|89
+Diego Castillo|R|Alex Bregman|R|Home Run|C|Splitter|72|0|0|0|6|86
+Diego Castillo|R|Alex Bregman|R|Home Run|B|Curveball|73|0|1|0|14|72
+Diego Castillo|R|Alex Bregman|R|Home Run|B|Slider|74|1|1|0|14|78
+Diego Castillo|R|Alex Bregman|R|Home Run|B|Splitter|75|2|1|0|12|87
+Wilmer Font|R|Tim Locastro|R|Flyout|C|Four-Seam Fastball|0|0|0|0|6|92
+Wilmer Font|R|Tim Locastro|R|Flyout|B|Curveball|1|0|1|0|14|76
+Wilmer Font|R|Tim Locastro|R|Flyout|C|Curveball|2|1|1|0|5|76
+Wilmer Font|R|Tim Locastro|R|Flyout|X|Splitter|3|1|2|0|7|87
+Wilmer Font|R|Eduardo Escobar|L|Flyout|X|Curveball|4|0|0|1|5|76
+Wilmer Font|R|Adam Jones|R|Pop Out|B|Four-Seam Fastball|5|0|0|2|12|93
+Wilmer Font|R|Adam Jones|R|Pop Out|B|Four-Seam Fastball|6|1|0|2|11|93
+Wilmer Font|R|Adam Jones|R|Pop Out|X|Slider|7|2|0|2|13|84
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|92
+Wilmer Font|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|5|91
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|11|94
+Wilmer Font|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|2|93
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Splitter|4|2|2|0|13|86
+Wilmer Font|R|Jonathan Villar|L|Strikeout|T|Four-Seam Fastball|5|3|2|0|2|93
+Wilmer Font|R|Trey Mancini|R|Flyout|C|Curveball|6|0|0|1|4|76
+Wilmer Font|R|Trey Mancini|R|Flyout|X|Four-Seam Fastball|7|0|1|1|11|95
+Wilmer Font|R|Anthony Santander|L|Single|C|Curveball|8|0|0|2|9|77
+Wilmer Font|R|Anthony Santander|L|Single|D|Sinker|9|0|1|2|11|95
+Wilmer Font|R|Renato Nunez|R|Pop Out|B|Four-Seam Fastball|10|0|0|2|12|94
+Wilmer Font|R|Renato Nunez|R|Pop Out|B|Slider|11|1|0|2|14|84
+Wilmer Font|R|Renato Nunez|R|Pop Out|F|Four-Seam Fastball|12|2|0|2|5|95
+Wilmer Font|R|Renato Nunez|R|Pop Out|F|Curveball|13|2|1|2|14|78
+Wilmer Font|R|Renato Nunez|R|Pop Out|X|Four-Seam Fastball|14|2|2|2|12|96
+Wilmer Font|R|Jace Peterson|L|Groundout|C|Four-Seam Fastball|15|0|0|0|8|94
+Wilmer Font|R|Jace Peterson|L|Groundout|X|Splitter|16|0|1|0|11|83
+Wilmer Font|R|Pedro Severino|R|Flyout|B|Four-Seam Fastball|17|0|0|1|14|94
+Wilmer Font|R|Pedro Severino|R|Flyout|B|Curveball|18|1|0|1|14|77
+Wilmer Font|R|Pedro Severino|R|Flyout|B|Curveball|19|2|0|1|14|76
+Wilmer Font|R|Pedro Severino|R|Flyout|C|Four-Seam Fastball|20|3|0|1|14|93
+Wilmer Font|R|Pedro Severino|R|Flyout|X|Four-Seam Fastball|21|3|1|1|7|95
+Wilmer Font|R|Chance Sisco|L|Strikeout|C|Curveball|22|0|0|2|13|77
+Wilmer Font|R|Chance Sisco|L|Strikeout|F|Splitter|23|0|1|2|13|85
+Wilmer Font|R|Chance Sisco|L|Strikeout|B|Four-Seam Fastball|24|0|2|2|14|97
+Wilmer Font|R|Chance Sisco|L|Strikeout|S|Four-Seam Fastball|25|1|2|2|13|96
+Wilmer Font|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|93
+Wilmer Font|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|1|0|1|0|2|94
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Splitter|2|0|2|0|13|85
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|13|95
+Wilmer Font|R|Jonathan Villar|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|1|96
+Wilmer Font|R|Jonathan Villar|L|Strikeout|C|Slider|5|2|2|0|14|84
+Wilmer Font|R|Hanser Alberto|R|Pop Out|S|Slider|6|0|0|1|14|84
+Wilmer Font|R|Hanser Alberto|R|Pop Out|X|Four-Seam Fastball|7|0|1|1|2|95
+Wilmer Font|R|Trey Mancini|R|Single|D|Sinker|8|0|0|2|4|94
+Wilmer Font|R|Anthony Santander|L|Lineout|C|Four-Seam Fastball|9|0|0|2|8|95
+Wilmer Font|R|Anthony Santander|L|Lineout|B|Four-Seam Fastball|10|0|1|2|13|97
+Wilmer Font|R|Anthony Santander|L|Lineout|X|Slider|11|1|1|2|14|83
+Wilmer Font|R|Renato Nunez|R|Strikeout|C|Curveball|12|0|0|0|8|74
+Wilmer Font|R|Renato Nunez|R|Strikeout|S|Slider|13|0|1|0|14|84
+Wilmer Font|R|Renato Nunez|R|Strikeout|S|Four-Seam Fastball|14|0|2|0|12|96
+Wilmer Font|R|Mark Trumbo|R|Lineout|F|Four-Seam Fastball|15|0|0|1|11|94
+Wilmer Font|R|Mark Trumbo|R|Lineout|S|Splitter|16|0|1|1|5|82
+Wilmer Font|R|Mark Trumbo|R|Lineout|B|Slider|17|0|2|1|14|84
+Wilmer Font|R|Mark Trumbo|R|Lineout|X|Four-Seam Fastball|18|1|2|1|12|96
+Wilmer Font|R|Austin Hays|R|Walk|C|Curveball|19|0|0|2|4|77
+Wilmer Font|R|Austin Hays|R|Walk|F|Curveball|20|0|1|2|9|77
+Wilmer Font|R|Austin Hays|R|Walk|B|Four-Seam Fastball|21|0|2|2|11|95
+Wilmer Font|R|Austin Hays|R|Walk|B|Four-Seam Fastball|22|1|2|2|11|95
+Wilmer Font|R|Austin Hays|R|Walk|B|Slider|23|2|2|2|14|83
+Wilmer Font|R|Austin Hays|R|Walk|B|Four-Seam Fastball|24|3|2|2|11|93
+Wilmer Font|R|Rio Ruiz|L|Forceout|X|Sinker|25|0|0|2|13|93
+Wilmer Font|R|Tyler Chatwood|R|Walk|C|Four-Seam Fastball|0|0|0|0|6|93
+Wilmer Font|R|Tyler Chatwood|R|Walk|S|Curveball|1|0|1|0|14|76
+Wilmer Font|R|Tyler Chatwood|R|Walk|B|Curveball|2|0|2|0|12|76
+Wilmer Font|R|Tyler Chatwood|R|Walk|F|Four-Seam Fastball|3|1|2|0|1|94
+Wilmer Font|R|Tyler Chatwood|R|Walk|B|Curveball|4|1|2|0|14|78
+Wilmer Font|R|Tyler Chatwood|R|Walk|B|Four-Seam Fastball|5|2|2|0|12|92
+Wilmer Font|R|Tyler Chatwood|R|Walk|*B|Curveball|6|3|2|0|14|75
+Wilmer Font|R|Daniel Descalso|L|Strikeout|C|Sinker|7|0|0|0|1|91
+Wilmer Font|R|Daniel Descalso|L|Strikeout|S|Splitter|8|0|1|0|4|83
+Wilmer Font|R|Daniel Descalso|L|Strikeout|F|Four-Seam Fastball|9|0|2|0|6|94
+Wilmer Font|R|Daniel Descalso|L|Strikeout|S|Curveball|10|0|2|0|14|77
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|B|Splitter|11|0|0|1|14|86
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|12|1|0|1|14|93
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|F|Sinker|13|2|0|1|11|91
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|C|Curveball|14|2|1|1|12|77
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|S|Four-Seam Fastball|15|2|2|1|6|94
+Wilmer Font|R|Kris Bryant|R|Strikeout|C|Slider|16|0|0|2|12|83
+Wilmer Font|R|Kris Bryant|R|Strikeout|*B|Four-Seam Fastball|17|0|1|2|14|94
+Wilmer Font|R|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|18|1|1|2|6|96
+Wilmer Font|R|Kris Bryant|R|Strikeout|S|Curveball|19|1|2|2|14|77
+Wilmer Font|R|Anthony Rizzo|L|Walk|C|Four-Seam Fastball|20|0|0|0|13|94
+Wilmer Font|R|Anthony Rizzo|L|Walk|B|Sinker|21|0|1|0|11|93
+Wilmer Font|R|Anthony Rizzo|L|Walk|S|Four-Seam Fastball|22|1|1|0|11|93
+Wilmer Font|R|Anthony Rizzo|L|Walk|B|Sinker|23|1|2|0|11|95
+Wilmer Font|R|Anthony Rizzo|L|Walk|B|Curveball|24|2|2|0|13|78
+Wilmer Font|R|Anthony Rizzo|L|Walk|F|Curveball|25|3|2|0|4|77
+Wilmer Font|R|Anthony Rizzo|L|Walk|F|Four-Seam Fastball|26|3|2|0|1|94
+Wilmer Font|R|Anthony Rizzo|L|Walk|F|Four-Seam Fastball|27|3|2|0|11|93
+Wilmer Font|R|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|28|3|2|0|13|94
+Wilmer Font|R|Javier Baez|R|Flyout|X|Sinker|29|0|0|0|7|91
+Wilmer Font|R|Willson Contreras|R|Double|C|Four-Seam Fastball|30|0|0|1|6|93
+Wilmer Font|R|Willson Contreras|R|Double|B|Slider|31|0|1|1|12|84
+Wilmer Font|R|Willson Contreras|R|Double|B|Slider|32|1|1|1|12|83
+Wilmer Font|R|Willson Contreras|R|Double|S|Four-Seam Fastball|33|2|1|1|11|93
+Wilmer Font|R|Willson Contreras|R|Double|D|Curveball|34|2|2|1|13|78
+Wilmer Font|R|Jason Heyward|L|Groundout|C|Four-Seam Fastball|35|0|0|1|1|94
+Wilmer Font|R|Jason Heyward|L|Groundout|X|Splitter|36|0|1|1|7|84
+Wilmer Font|R|Carlos Gonzalez|L|Intent Walk|V|N/A|37|0|0|2|0|0
+Wilmer Font|R|Carlos Gonzalez|L|Intent Walk|V|N/A|38|0|1|2|0|0
+Wilmer Font|R|Carlos Gonzalez|L|Intent Walk|V|N/A|39|0|2|2|0|0
+Wilmer Font|R|Carlos Gonzalez|L|Intent Walk|V|N/A|40|0|2|2|0|0
+Wilmer Font|R|Adbert Alzolay|R|Groundout|X|Four-Seam Fastball|41|0|0|2|8|93
+Wilmer Font|R|Daniel Descalso|L|Strikeout|C|Sinker|42|0|0|0|13|91
+Wilmer Font|R|Daniel Descalso|L|Strikeout|B|Splitter|43|0|1|0|13|83
+Wilmer Font|R|Daniel Descalso|L|Strikeout|C|Sinker|44|1|1|0|6|91
+Wilmer Font|R|Daniel Descalso|L|Strikeout|B|Sinker|45|1|2|0|11|95
+Wilmer Font|R|Daniel Descalso|L|Strikeout|S|Four-Seam Fastball|46|2|2|0|12|95
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|S|Splitter|47|0|0|1|13|84
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|F|Sinker|48|0|1|1|11|92
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|B|Curveball|49|0|2|1|14|77
+Wilmer Font|R|Kyle Schwarber|L|Strikeout|C|Curveball|50|1|2|1|2|76
+Wilmer Font|R|Kris Bryant|R|Groundout|B|Four-Seam Fastball|51|0|0|2|14|94
+Wilmer Font|R|Kris Bryant|R|Groundout|S|Four-Seam Fastball|52|1|0|2|6|93
+Wilmer Font|R|Kris Bryant|R|Groundout|B|Sinker|53|1|1|2|13|94
+Wilmer Font|R|Kris Bryant|R|Groundout|X|Slider|54|2|1|2|6|83
+Wilmer Font|R|Jeimer Candelario|L|Walk|B|Sinker|0|2|1|0|14|93
+Wilmer Font|R|Jeimer Candelario|L|Walk|B|Four-Seam Fastball|1|3|1|0|9|95
+Wilmer Font|R|Brandon Dixon|R|Strikeout|B|Four-Seam Fastball|2|0|0|0|11|93
+Wilmer Font|R|Brandon Dixon|R|Strikeout|*B|Slider|3|1|0|0|14|82
+Wilmer Font|R|Brandon Dixon|R|Strikeout|S|Four-Seam Fastball|4|2|0|0|5|92
+Wilmer Font|R|Brandon Dixon|R|Strikeout|C|Four-Seam Fastball|5|2|1|0|5|93
+Wilmer Font|R|Brandon Dixon|R|Strikeout|S|Four-Seam Fastball|6|2|2|0|1|94
+Wilmer Font|R|Niko Goodrum|L|Strikeout|S|Curveball|7|0|0|1|13|78
+Wilmer Font|R|Niko Goodrum|L|Strikeout|S|Four-Seam Fastball|8|0|1|1|1|95
+Wilmer Font|R|Niko Goodrum|L|Strikeout|S|Four-Seam Fastball|9|0|2|1|11|96
+Wilmer Font|R|John Hicks|R|Home Run|S|Four-Seam Fastball|10|0|0|2|2|95
+Wilmer Font|R|John Hicks|R|Home Run|S|Slider|11|0|1|2|14|87
+Wilmer Font|R|John Hicks|R|Home Run|B|Four-Seam Fastball|12|0|2|2|11|95
+Wilmer Font|R|John Hicks|R|Home Run|B|Four-Seam Fastball|13|1|2|2|12|96
+Wilmer Font|R|John Hicks|R|Home Run|E|Slider|14|2|2|2|7|86
+Wilmer Font|R|Jordy Mercer|R|Single|F|Four-Seam Fastball|15|0|0|2|8|94
+Wilmer Font|R|Jordy Mercer|R|Single|T|Four-Seam Fastball|16|0|1|2|11|95
+Wilmer Font|R|Jordy Mercer|R|Single|B|Curveball|17|0|2|2|14|78
+Wilmer Font|R|Jordy Mercer|R|Single|D|Four-Seam Fastball|18|1|2|2|12|95
+Wilmer Font|R|JaCoby Jones|R|Forceout|B|Curveball|19|0|0|2|11|77
+Wilmer Font|R|JaCoby Jones|R|Forceout|X|Slider|20|1|0|2|6|84
+Wilmer Font|R|Harold Castro|L|Strikeout|C|Four-Seam Fastball|21|0|0|0|11|93
+Wilmer Font|R|Harold Castro|L|Strikeout|B|Four-Seam Fastball|22|0|1|0|12|93
+Wilmer Font|R|Harold Castro|L|Strikeout|S|Four-Seam Fastball|23|1|1|0|2|95
+Wilmer Font|R|Harold Castro|L|Strikeout|B|Curveball|24|1|2|0|14|78
+Wilmer Font|R|Harold Castro|L|Strikeout|F|Four-Seam Fastball|25|2|2|0|2|94
+Wilmer Font|R|Harold Castro|L|Strikeout|S|Four-Seam Fastball|26|2|2|0|12|95
+Wilmer Font|R|Miguel Cabrera|R|Pop Out|C|Slider|27|0|0|1|9|83
+Wilmer Font|R|Miguel Cabrera|R|Pop Out|X|Four-Seam Fastball|28|0|1|1|11|94
+Wilmer Font|R|Nick Castellanos|R|Strikeout|B|Slider|29|0|0|2|14|82
+Wilmer Font|R|Nick Castellanos|R|Strikeout|F|Four-Seam Fastball|30|1|0|2|1|94
+Wilmer Font|R|Nick Castellanos|R|Strikeout|B|Splitter|31|1|1|2|13|84
+Wilmer Font|R|Nick Castellanos|R|Strikeout|F|Four-Seam Fastball|32|2|1|2|6|94
+Wilmer Font|R|Nick Castellanos|R|Strikeout|S|Four-Seam Fastball|33|2|2|2|13|96
+Wilmer Font|R|Whit Merrifield|R|Single|C|Curveball|0|0|0|0|5|75
+Wilmer Font|R|Whit Merrifield|R|Single|F|Curveball|1|0|1|0|14|75
+Wilmer Font|R|Whit Merrifield|R|Single|B|Slider|2|0|2|0|14|83
+Wilmer Font|R|Whit Merrifield|R|Single|E|Sinker|3|1|2|0|3|94
+Wilmer Font|R|Adalberto Mondesi|L|Double|F|Sinker|4|0|0|0|5|94
+Wilmer Font|R|Adalberto Mondesi|L|Double|B|Curveball|5|0|1|0|13|75
+Wilmer Font|R|Adalberto Mondesi|L|Double|S|Curveball|6|1|1|0|9|75
+Wilmer Font|R|Adalberto Mondesi|L|Double|B|Slider|7|1|2|0|12|87
+Wilmer Font|R|Adalberto Mondesi|L|Double|B|Four-Seam Fastball|8|2|2|0|14|95
+Wilmer Font|R|Adalberto Mondesi|L|Double|E|Curveball|9|3|2|0|4|75
+Wilmer Font|R|Hunter Dozier|R|Walk|B|Four-Seam Fastball|10|0|0|0|14|94
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Four-Seam Fastball|11|1|0|0|4|94
+Wilmer Font|R|Hunter Dozier|R|Walk|B|Four-Seam Fastball|12|1|1|0|14|95
+Wilmer Font|R|Hunter Dozier|R|Walk|B|Curveball|13|2|1|0|13|74
+Wilmer Font|R|Hunter Dozier|R|Walk|T|Four-Seam Fastball|14|3|1|0|6|94
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Four-Seam Fastball|15|3|2|0|3|94
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Four-Seam Fastball|16|3|2|0|11|94
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Slider|17|3|2|0|12|82
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Curveball|18|3|2|0|14|74
+Wilmer Font|R|Hunter Dozier|R|Walk|F|Four-Seam Fastball|19|3|2|0|2|93
+Wilmer Font|R|Hunter Dozier|R|Walk|B|Curveball|20|3|2|0|13|74
+Wilmer Font|R|Jorge Soler|R|Strikeout|S|Slider|21|0|0|0|14|83
+Wilmer Font|R|Jorge Soler|R|Strikeout|B|Slider|22|0|1|0|14|85
+Wilmer Font|R|Jorge Soler|R|Strikeout|S|Four-Seam Fastball|23|1|1|0|12|95
+Wilmer Font|R|Jorge Soler|R|Strikeout|B|Four-Seam Fastball|24|1|2|0|14|96
+Wilmer Font|R|Jorge Soler|R|Strikeout|C|Curveball|25|2|2|0|11|74
+Wilmer Font|R|Kelvin Gutierrez|R|Forceout|B|Slider|26|0|0|1|12|84
+Wilmer Font|R|Kelvin Gutierrez|R|Forceout|B|Four-Seam Fastball|27|1|0|1|14|95
+Wilmer Font|R|Kelvin Gutierrez|R|Forceout|F|Four-Seam Fastball|28|2|0|1|2|93
+Wilmer Font|R|Kelvin Gutierrez|R|Forceout|B|Four-Seam Fastball|29|2|1|1|12|94
+Wilmer Font|R|Kelvin Gutierrez|R|Forceout|E|Four-Seam Fastball|30|3|1|1|5|92
+Wilmer Font|R|Ryan O'Hearn|L|Flyout|B|Curveball|31|0|0|2|14|75
+Wilmer Font|R|Ryan O'Hearn|L|Flyout|X|Sinker|32|1|0|2|11|93
+Wilmer Font|R|Cam Gallagher|R|Strikeout|B|Four-Seam Fastball|33|0|0|0|14|93
+Wilmer Font|R|Cam Gallagher|R|Strikeout|F|Four-Seam Fastball|34|1|0|0|1|91
+Wilmer Font|R|Cam Gallagher|R|Strikeout|B|Curveball|35|1|1|0|13|74
+Wilmer Font|R|Cam Gallagher|R|Strikeout|C|Slider|36|2|1|0|3|82
+Wilmer Font|R|Cam Gallagher|R|Strikeout|B|Curveball|37|2|2|0|14|75
+Wilmer Font|R|Cam Gallagher|R|Strikeout|C|Curveball|38|3|2|0|14|74
+Wilmer Font|R|Terrance Gore|R|Groundout|C|Four-Seam Fastball|39|0|0|1|11|93
+Wilmer Font|R|Terrance Gore|R|Groundout|S|Slider|40|0|1|1|12|83
+Wilmer Font|R|Terrance Gore|R|Groundout|X|Curveball|41|0|2|1|7|77
+Wilmer Font|R|Billy Hamilton|L|Single|C|Sinker|42|0|0|2|2|94
+Wilmer Font|R|Billy Hamilton|L|Single|C|Splitter|43|0|1|2|4|82
+Wilmer Font|R|Billy Hamilton|L|Single|B|Four-Seam Fastball|44|0|2|2|12|95
+Wilmer Font|R|Billy Hamilton|L|Single|D|Curveball|45|1|2|2|13|77
+Wilmer Font|R|Whit Merrifield|R|Flyout|C|Four-Seam Fastball|46|0|0|2|14|93
+Wilmer Font|R|Whit Merrifield|R|Flyout|X|Slider|47|0|1|2|2|82
+Wilmer Font|R|Adalberto Mondesi|L|Single|B|Sinker|48|0|0|0|14|93
+Wilmer Font|R|Adalberto Mondesi|L|Single|C|Sinker|49|1|0|0|13|92
+Wilmer Font|R|Adalberto Mondesi|L|Single|B|Splitter|50|1|1|0|14|83
+Wilmer Font|R|Adalberto Mondesi|L|Single|B|Splitter|51|2|1|0|13|89
+Wilmer Font|R|Adalberto Mondesi|L|Single|F|Four-Seam Fastball|52|3|1|0|5|91
+Wilmer Font|R|Adalberto Mondesi|L|Single|D|Four-Seam Fastball|53|3|2|0|6|92
+Wilmer Font|R|Hunter Dozier|R|Pop Out|S|Curveball|54|0|0|0|14|75
+Wilmer Font|R|Hunter Dozier|R|Pop Out|C|Curveball|55|0|1|0|3|76
+Wilmer Font|R|Hunter Dozier|R|Pop Out|X|Slider|56|0|2|0|9|83
+Wilmer Font|R|Jorge Soler|R|Grounded Into DP|S|Slider|57|0|0|1|9|85
+Wilmer Font|R|Jorge Soler|R|Grounded Into DP|X|Sinker|58|0|1|1|11|93
+Wilmer Font|R|Nicky Lopez|L|Single|C|Curveball|0|0|0|0|6|75
+Wilmer Font|R|Nicky Lopez|L|Single|F|Four-Seam Fastball|1|0|1|0|2|93
+Wilmer Font|R|Nicky Lopez|L|Single|F|Four-Seam Fastball|2|0|2|0|12|95
+Wilmer Font|R|Nicky Lopez|L|Single|B|Slider|3|0|2|0|11|83
+Wilmer Font|R|Nicky Lopez|L|Single|D|Four-Seam Fastball|4|1|2|0|2|94
+Wilmer Font|R|Humberto Arteaga|R|Lineout|S|Four-Seam Fastball|5|0|0|0|6|94
+Wilmer Font|R|Humberto Arteaga|R|Lineout|B|Four-Seam Fastball|6|0|1|0|11|93
+Wilmer Font|R|Humberto Arteaga|R|Lineout|*B|Curveball|7|1|1|0|14|77
+Wilmer Font|R|Humberto Arteaga|R|Lineout|B|Four-Seam Fastball|8|2|1|0|11|93
+Wilmer Font|R|Humberto Arteaga|R|Lineout|S|Slider|9|3|1|0|9|82
+Wilmer Font|R|Humberto Arteaga|R|Lineout|X|Four-Seam Fastball|10|3|2|0|8|92
+Wilmer Font|R|Meibrys Viloria|L|Strikeout|F|Curveball|11|0|0|1|9|77
+Wilmer Font|R|Meibrys Viloria|L|Strikeout|T|Four-Seam Fastball|12|0|1|1|5|95
+Wilmer Font|R|Meibrys Viloria|L|Strikeout|*B|Curveball|13|0|2|1|13|78
+Wilmer Font|R|Meibrys Viloria|L|Strikeout|S|Four-Seam Fastball|14|1|2|1|11|97
+Wilmer Font|R|Whit Merrifield|R|Single|B|Slider|15|0|0|2|14|84
+Wilmer Font|R|Whit Merrifield|R|Single|S|Curveball|16|1|0|2|13|77
+Wilmer Font|R|Whit Merrifield|R|Single|L|Four-Seam Fastball|17|1|1|2|3|95
+Wilmer Font|R|Whit Merrifield|R|Single|D|Four-Seam Fastball|18|1|2|2|1|96
+Wilmer Font|R|Alex Gordon|L|Groundout|C|Curveball|19|0|0|2|8|77
+Wilmer Font|R|Alex Gordon|L|Groundout|X|Slider|20|0|1|2|1|84
+Wilmer Font|R|Hunter Dozier|R|Single|C|Curveball|21|0|0|0|14|77
+Wilmer Font|R|Hunter Dozier|R|Single|F|Four-Seam Fastball|22|0|1|0|5|95
+Wilmer Font|R|Hunter Dozier|R|Single|B|Slider|23|0|2|0|14|85
+Wilmer Font|R|Hunter Dozier|R|Single|F|Slider|24|1|2|0|4|84
+Wilmer Font|R|Hunter Dozier|R|Single|B|Splitter|25|1|2|0|14|83
+Wilmer Font|R|Hunter Dozier|R|Single|F|Four-Seam Fastball|26|2|2|0|7|95
+Wilmer Font|R|Hunter Dozier|R|Single|F|Curveball|27|2|2|0|3|78
+Wilmer Font|R|Hunter Dozier|R|Single|D|Four-Seam Fastball|28|2|2|0|12|96
+Wilmer Font|R|Jorge Soler|R|Pop Out|B|Slider|29|0|0|0|14|82
+Wilmer Font|R|Jorge Soler|R|Pop Out|X|Slider|30|1|0|0|4|80
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|B|Curveball|31|0|0|1|13|76
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|C|Four-Seam Fastball|32|1|0|1|8|92
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|S|Curveball|33|1|1|1|9|77
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|*B|Curveball|34|1|2|1|14|78
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Slider|35|2|2|1|13|83
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Sinker|36|2|2|1|11|94
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Curveball|37|2|2|1|11|76
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Four-Seam Fastball|38|2|2|1|1|95
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Four-Seam Fastball|39|2|2|1|4|96
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|F|Splitter|40|2|2|1|11|84
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|B|Four-Seam Fastball|41|2|2|1|14|96
+Wilmer Font|R|Ryan O'Hearn|L|Grounded Into DP|X|Curveball|42|3|2|1|2|75
+Wilmer Font|R|Chris Taylor|R|Single|D|N/A|0|0|0|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|T|N/A|1|0|0|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|B|N/A|2|0|1|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|B|N/A|3|1|1|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|C|N/A|4|2|1|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|B|N/A|5|2|2|2|0|0
+Wilmer Font|R|Russell Martin|R|Groundout|X|N/A|6|3|2|2|0|0
+Wilmer Font|R|Matt Beaty|L|Groundout|C|N/A|7|0|0|0|0|0
+Wilmer Font|R|Matt Beaty|L|Groundout|B|N/A|8|0|1|0|0|0
+Wilmer Font|R|Matt Beaty|L|Groundout|X|N/A|9|1|1|0|0|0
+Wilmer Font|R|Enrique Hernandez|R|Flyout|F|N/A|10|0|0|1|0|0
+Wilmer Font|R|Enrique Hernandez|R|Flyout|X|N/A|11|0|1|1|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|S|N/A|12|0|0|2|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|B|N/A|13|0|1|2|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|B|N/A|14|1|1|2|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|B|N/A|15|2|1|2|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|C|N/A|16|3|1|2|0|0
+Wilmer Font|R|Max Muncy|L|Groundout|X|N/A|17|3|2|2|0|0
+Wilmer Font|R|Joc Pederson|L|Walk|C|Four-Seam Fastball|0|0|0|0|5|93
+Wilmer Font|R|Joc Pederson|L|Walk|C|Curveball|1|0|1|0|5|77
+Wilmer Font|R|Joc Pederson|L|Walk|B|Sinker|2|0|2|0|14|96
+Wilmer Font|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|3|1|2|0|11|96
+Wilmer Font|R|Joc Pederson|L|Walk|B|Splitter|4|2|2|0|14|86
+Wilmer Font|R|Joc Pederson|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|93
+Wilmer Font|R|Max Muncy|L|Strikeout|S|Four-Seam Fastball|6|0|0|0|12|93
+Wilmer Font|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|7|0|1|0|11|95
+Wilmer Font|R|Max Muncy|L|Strikeout|F|Curveball|8|0|2|0|1|76
+Wilmer Font|R|Max Muncy|L|Strikeout|F|Four-Seam Fastball|9|0|2|0|3|96
+Wilmer Font|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|10|0|2|0|9|95
+Wilmer Font|R|Justin Turner|R|Strikeout|B|Curveball|11|0|0|1|14|77
+Wilmer Font|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|12|1|0|1|14|95
+Wilmer Font|R|Justin Turner|R|Strikeout|F|Four-Seam Fastball|13|2|0|1|1|94
+Wilmer Font|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|14|2|1|1|7|94
+Wilmer Font|R|Justin Turner|R|Strikeout|T|Four-Seam Fastball|15|2|2|1|11|95
+Wilmer Font|R|Cody Bellinger|L|Lineout|B|Sinker|16|0|0|2|13|94
+Wilmer Font|R|Cody Bellinger|L|Lineout|C|Four-Seam Fastball|17|1|0|2|13|93
+Wilmer Font|R|Cody Bellinger|L|Lineout|C|Four-Seam Fastball|18|1|1|2|7|95
+Wilmer Font|R|Cody Bellinger|L|Lineout|B|Four-Seam Fastball|19|1|2|2|11|95
+Wilmer Font|R|Cody Bellinger|L|Lineout|F|Curveball|20|2|2|2|14|79
+Wilmer Font|R|Cody Bellinger|L|Lineout|F|Four-Seam Fastball|21|2|2|2|8|96
+Wilmer Font|R|Cody Bellinger|L|Lineout|X|Curveball|22|2|2|2|13|77
+Wilmer Font|R|Corey Seager|L|Double|B|Curveball|23|0|0|0|11|75
+Wilmer Font|R|Corey Seager|L|Double|D|Four-Seam Fastball|24|1|0|0|6|94
+Wilmer Font|R|Will Smith|R|Strikeout|C|Curveball|25|0|0|0|5|77
+Wilmer Font|R|Will Smith|R|Strikeout|F|Four-Seam Fastball|26|0|1|0|2|94
+Wilmer Font|R|Will Smith|R|Strikeout|F|Four-Seam Fastball|27|0|2|0|3|94
+Wilmer Font|R|Will Smith|R|Strikeout|S|Curveball|28|0|2|0|12|79
+Wilmer Font|R|Chris Taylor|R|Groundout|B|Four-Seam Fastball|29|0|0|1|14|93
+Wilmer Font|R|Chris Taylor|R|Groundout|C|Curveball|30|1|0|1|4|77
+Wilmer Font|R|Chris Taylor|R|Groundout|B|Curveball|31|1|1|1|11|78
+Wilmer Font|R|Chris Taylor|R|Groundout|X|Four-Seam Fastball|32|2|1|1|8|95
+Wilmer Font|R|Matt Beaty|L|Intent Walk|V|N/A|33|0|0|2|0|0
+Wilmer Font|R|Matt Beaty|L|Intent Walk|V|N/A|34|0|1|2|0|0
+Wilmer Font|R|Matt Beaty|L|Intent Walk|V|N/A|35|0|2|2|0|0
+Wilmer Font|R|Matt Beaty|L|Intent Walk|V|N/A|36|0|2|2|0|0
+Wilmer Font|R|Walker Buehler|R|Strikeout|B|Four-Seam Fastball|37|0|0|2|11|94
+Wilmer Font|R|Walker Buehler|R|Strikeout|S|Four-Seam Fastball|38|1|0|2|4|95
+Wilmer Font|R|Walker Buehler|R|Strikeout|B|Four-Seam Fastball|39|1|1|2|11|93
+Wilmer Font|R|Walker Buehler|R|Strikeout|S|Four-Seam Fastball|40|2|1|2|4|92
+Wilmer Font|R|Walker Buehler|R|Strikeout|S|Four-Seam Fastball|41|2|2|2|1|95
+Wilmer Font|R|Adam Eaton|L|Walk|F|Four-Seam Fastball|0|0|0|0|11|93
+Wilmer Font|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|1|0|1|0|11|94
+Wilmer Font|R|Adam Eaton|L|Walk|C|Four-Seam Fastball|2|1|1|0|12|93
+Wilmer Font|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|3|1|2|0|12|95
+Wilmer Font|R|Adam Eaton|L|Walk|B|Splitter|4|2|2|0|14|84
+Wilmer Font|R|Adam Eaton|L|Walk|B|Four-Seam Fastball|5|3|2|0|12|92
+Wilmer Font|R|Victor Robles|R|Single|B|Four-Seam Fastball|6|0|0|0|12|92
+Wilmer Font|R|Victor Robles|R|Single|D|Four-Seam Fastball|7|1|0|0|3|91
+Wilmer Font|R|Anthony Rendon|R|Double|F|Four-Seam Fastball|8|0|0|0|2|93
+Wilmer Font|R|Anthony Rendon|R|Double|B|Slider|9|0|1|0|14|84
+Wilmer Font|R|Anthony Rendon|R|Double|B|Four-Seam Fastball|10|1|1|0|11|93
+Wilmer Font|R|Anthony Rendon|R|Double|B|Four-Seam Fastball|11|2|1|0|11|92
+Wilmer Font|R|Anthony Rendon|R|Double|F|Four-Seam Fastball|12|3|1|0|6|89
+Wilmer Font|R|Anthony Rendon|R|Double|F|Four-Seam Fastball|13|3|2|0|12|92
+Wilmer Font|R|Anthony Rendon|R|Double|E|Four-Seam Fastball|14|3|2|0|6|92
+Wilmer Font|R|Juan Soto|L|Groundout|E|Curveball|15|0|0|0|9|75
+Wilmer Font|R|Howie Kendrick|R|Single|*B|Slider|16|0|0|1|14|82
+Wilmer Font|R|Howie Kendrick|R|Single|E|Four-Seam Fastball|17|1|0|1|3|91
+Wilmer Font|R|Brian Dozier|R|Strikeout|C|Sinker|18|0|0|1|14|90
+Wilmer Font|R|Brian Dozier|R|Strikeout|C|Slider|19|0|1|1|3|81
+Wilmer Font|R|Brian Dozier|R|Strikeout|B|Splitter|20|0|2|1|14|83
+Wilmer Font|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|21|1|2|1|9|95
+Wilmer Font|R|Brian Dozier|R|Strikeout|F|Slider|22|1|2|1|5|82
+Wilmer Font|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|23|1|2|1|3|95
+Wilmer Font|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|24|1|2|1|12|96
+Wilmer Font|R|Brian Dozier|R|Strikeout|S|Four-Seam Fastball|25|1|2|1|11|96
+Wilmer Font|R|Yan Gomes|R|Caught Stealing 2B|C|Slider|26|0|0|2|2|82
+Wilmer Font|R|Yan Gomes|R|Caught Stealing 2B|F|Four-Seam Fastball|27|0|1|2|2|94
+Wilmer Font|R|Yan Gomes|R|Caught Stealing 2B|F|Four-Seam Fastball|28|0|2|2|11|95
+Wilmer Font|R|Yan Gomes|R|Caught Stealing 2B|B|Four-Seam Fastball|29|0|2|2|12|96
+Wilmer Font|R|Yan Gomes|R|Pop Out|B|Four-Seam Fastball|30|0|0|0|12|92
+Wilmer Font|R|Yan Gomes|R|Pop Out|F|Four-Seam Fastball|31|1|0|0|6|91
+Wilmer Font|R|Yan Gomes|R|Pop Out|X|Four-Seam Fastball|32|1|1|0|12|93
+Wilmer Font|R|Wilmer Difo|L|Strikeout|B|Four-Seam Fastball|33|0|0|1|11|94
+Wilmer Font|R|Wilmer Difo|L|Strikeout|C|Four-Seam Fastball|34|1|0|1|1|91
+Wilmer Font|R|Wilmer Difo|L|Strikeout|B|Four-Seam Fastball|35|1|1|1|12|93
+Wilmer Font|R|Wilmer Difo|L|Strikeout|S|Slider|36|2|1|1|2|83
+Wilmer Font|R|Wilmer Difo|L|Strikeout|B|Four-Seam Fastball|37|2|2|1|11|94
+Wilmer Font|R|Wilmer Difo|L|Strikeout|S|Slider|38|3|2|1|2|81
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Sinker|39|0|0|2|13|93
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|40|1|0|2|11|93
+Wilmer Font|R|Patrick Corbin|L|Walk|C|Four-Seam Fastball|41|2|0|2|3|90
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|42|2|1|2|13|91
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|43|3|1|2|13|90
+Wilmer Font|R|Adam Eaton|L|Flyout|B|Four-Seam Fastball|44|0|0|2|11|93
+Wilmer Font|R|Adam Eaton|L|Flyout|C|Four-Seam Fastball|45|1|0|2|1|91
+Wilmer Font|R|Adam Eaton|L|Flyout|F|Curveball|46|1|1|2|9|76
+Wilmer Font|R|Adam Eaton|L|Flyout|F|Splitter|47|1|2|2|2|83
+Wilmer Font|R|Adam Eaton|L|Flyout|B|Four-Seam Fastball|48|1|2|2|11|93
+Wilmer Font|R|Adam Eaton|L|Flyout|X|Slider|49|2|2|2|13|82
+Wilmer Font|R|Victor Robles|R|Home Run|F|Slider|50|0|0|0|2|78
+Wilmer Font|R|Victor Robles|R|Home Run|E|Four-Seam Fastball|51|0|1|0|3|91
+Wilmer Font|R|Anthony Rendon|R|Double|B|Slider|52|0|0|0|14|82
+Wilmer Font|R|Anthony Rendon|R|Double|B|Slider|53|1|0|0|14|81
+Wilmer Font|R|Anthony Rendon|R|Double|D|Four-Seam Fastball|54|2|0|0|8|91
+Wilmer Font|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|55|0|0|0|14|91
+Wilmer Font|R|Juan Soto|L|Flyout|C|Splitter|56|1|0|0|8|81
+Wilmer Font|R|Juan Soto|L|Flyout|F|Four-Seam Fastball|57|1|1|0|3|92
+Wilmer Font|R|Juan Soto|L|Flyout|*B|Splitter|58|1|2|0|13|83
+Wilmer Font|R|Juan Soto|L|Flyout|F|Splitter|59|2|2|0|11|81
+Wilmer Font|R|Juan Soto|L|Flyout|X|Four-Seam Fastball|60|2|2|0|9|92
+Wilmer Font|R|Howie Kendrick|R|Double|F|Splitter|61|0|0|1|4|80
+Wilmer Font|R|Howie Kendrick|R|Double|E|Four-Seam Fastball|62|0|1|1|1|91
+Wilmer Font|R|Trea Turner|R|Double|C|Four-Seam Fastball|0|0|0|0|6|90
+Wilmer Font|R|Trea Turner|R|Double|C|Curveball|1|0|1|0|5|74
+Wilmer Font|R|Trea Turner|R|Double|B|Sinker|2|0|2|0|14|89
+Wilmer Font|R|Trea Turner|R|Double|F|Four-Seam Fastball|3|1|2|0|12|95
+Wilmer Font|R|Trea Turner|R|Double|B|Splitter|4|1|2|0|14|86
+Wilmer Font|R|Trea Turner|R|Double|E|Four-Seam Fastball|5|2|2|0|5|94
+Wilmer Font|R|Adam Eaton|L|Strikeout|C|Splitter|6|0|0|0|6|85
+Wilmer Font|R|Adam Eaton|L|Strikeout|B|Four-Seam Fastball|7|0|1|0|12|94
+Wilmer Font|R|Adam Eaton|L|Strikeout|T|Sinker|8|1|1|0|7|92
+Wilmer Font|R|Adam Eaton|L|Strikeout|F|Four-Seam Fastball|9|1|2|0|6|94
+Wilmer Font|R|Adam Eaton|L|Strikeout|T|Splitter|10|1|2|0|4|86
+Wilmer Font|R|Anthony Rendon|R|Walk|*B|Slider|11|0|0|1|14|80
+Wilmer Font|R|Anthony Rendon|R|Walk|B|Four-Seam Fastball|12|1|0|1|12|94
+Wilmer Font|R|Anthony Rendon|R|Walk|C|Slider|13|2|0|1|8|81
+Wilmer Font|R|Anthony Rendon|R|Walk|B|Four-Seam Fastball|14|2|1|1|11|91
+Wilmer Font|R|Anthony Rendon|R|Walk|C|Sinker|15|3|1|1|2|92
+Wilmer Font|R|Anthony Rendon|R|Walk|*B|Splitter|16|3|2|1|14|86
+Wilmer Font|R|Juan Soto|L|Flyout|C|Sinker|17|0|0|1|3|91
+Wilmer Font|R|Juan Soto|L|Flyout|B|Curveball|18|0|1|1|11|75
+Wilmer Font|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|19|1|1|1|12|93
+Wilmer Font|R|Juan Soto|L|Flyout|S|Curveball|20|2|1|1|9|73
+Wilmer Font|R|Juan Soto|L|Flyout|F|Slider|21|2|2|1|13|81
+Wilmer Font|R|Juan Soto|L|Flyout|X|Four-Seam Fastball|22|2|2|1|14|94
+Wilmer Font|R|Howie Kendrick|R|Strikeout|B|Curveball|23|0|0|2|11|75
+Wilmer Font|R|Howie Kendrick|R|Strikeout|S|Slider|24|1|0|2|14|82
+Wilmer Font|R|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|25|1|1|2|11|93
+Wilmer Font|R|Howie Kendrick|R|Strikeout|S|Slider|26|2|1|2|12|82
+Wilmer Font|R|Howie Kendrick|R|Strikeout|T|Slider|27|2|2|2|6|81
+Wilmer Font|R|Gerardo Parra|L|Groundout|B|Curveball|28|0|0|0|13|73
+Wilmer Font|R|Gerardo Parra|L|Groundout|B|Splitter|29|1|0|0|13|89
+Wilmer Font|R|Gerardo Parra|L|Groundout|B|Four-Seam Fastball|30|2|0|0|13|89
+Wilmer Font|R|Gerardo Parra|L|Groundout|C|Four-Seam Fastball|31|3|0|0|6|90
+Wilmer Font|R|Gerardo Parra|L|Groundout|C|Curveball|32|3|1|0|5|73
+Wilmer Font|R|Gerardo Parra|L|Groundout|X|Splitter|33|3|2|0|4|82
+Wilmer Font|R|Victor Robles|R|Flyout|C|Slider|34|0|0|1|8|80
+Wilmer Font|R|Victor Robles|R|Flyout|X|Slider|35|0|1|1|5|80
+Wilmer Font|R|Yan Gomes|R|Strikeout|B|Four-Seam Fastball|36|0|0|2|9|93
+Wilmer Font|R|Yan Gomes|R|Strikeout|C|Slider|37|1|0|2|8|79
+Wilmer Font|R|Yan Gomes|R|Strikeout|F|Four-Seam Fastball|38|1|1|2|2|93
+Wilmer Font|R|Yan Gomes|R|Strikeout|F|Splitter|39|1|2|2|9|86
+Wilmer Font|R|Yan Gomes|R|Strikeout|C|Slider|40|1|2|2|3|82
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Splitter|41|0|0|0|13|89
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|42|1|0|0|14|92
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|43|2|0|0|14|89
+Wilmer Font|R|Patrick Corbin|L|Walk|C|Four-Seam Fastball|44|3|0|0|9|89
+Wilmer Font|R|Patrick Corbin|L|Walk|B|Four-Seam Fastball|45|3|1|0|14|89
+Wilmer Font|R|Trea Turner|R|Flyout|C|Slider|46|0|0|0|8|79
+Wilmer Font|R|Trea Turner|R|Flyout|X|Four-Seam Fastball|47|0|1|0|9|91
+Wilmer Font|R|Adam Eaton|L|Grounded Into DP|C|Splitter|48|0|0|1|7|84
+Wilmer Font|R|Adam Eaton|L|Grounded Into DP|F|Curveball|49|0|1|1|6|74
+Wilmer Font|R|Adam Eaton|L|Grounded Into DP|B|Four-Seam Fastball|50|0|2|1|12|93
+Wilmer Font|R|Adam Eaton|L|Grounded Into DP|X|Curveball|51|1|2|1|4|76
+Wilmer Font|R|Anthony Rendon|R|Home Run|C|Slider|52|0|0|0|4|78
+Wilmer Font|R|Anthony Rendon|R|Home Run|E|Sinker|53|0|1|0|8|91
+Wilmer Font|R|Juan Soto|L|Lineout|B|Curveball|54|0|0|0|11|74
+Wilmer Font|R|Juan Soto|L|Lineout|C|Curveball|55|1|0|0|11|73
+Wilmer Font|R|Juan Soto|L|Lineout|X|Four-Seam Fastball|56|1|1|0|1|93
+Wilmer Font|R|Howie Kendrick|R|Groundout|C|Four-Seam Fastball|57|0|0|1|3|94
+Wilmer Font|R|Howie Kendrick|R|Groundout|S|Slider|58|0|1|1|14|81
+Wilmer Font|R|Howie Kendrick|R|Groundout|X|Splitter|59|0|2|1|9|85
+Wilmer Font|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|60|0|0|2|14|91
+Wilmer Font|R|Gerardo Parra|L|Walk|B|Curveball|61|1|0|2|11|74
+Wilmer Font|R|Gerardo Parra|L|Walk|B|Slider|62|2|0|2|13|81
+Wilmer Font|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|63|3|0|2|13|88
+Wilmer Font|R|Victor Robles|R|Walk|B|Slider|64|0|0|2|12|80
+Wilmer Font|R|Victor Robles|R|Walk|C|Four-Seam Fastball|65|1|0|2|3|93
+Wilmer Font|R|Victor Robles|R|Walk|B|Curveball|66|1|1|2|11|73
+Wilmer Font|R|Victor Robles|R|Walk|B|Four-Seam Fastball|67|2|1|2|11|91
+Wilmer Font|R|Victor Robles|R|Walk|B|Slider|68|3|1|2|14|78
+Wilmer Font|R|Yan Gomes|R|Single|S|Slider|69|0|0|2|14|79
+Wilmer Font|R|Yan Gomes|R|Single|E|Slider|70|0|1|2|6|81
+Wilmer Font|R|Patrick Corbin|L|Groundout|B|Four-Seam Fastball|71|0|0|2|13|91
+Wilmer Font|R|Patrick Corbin|L|Groundout|C|Curveball|72|1|0|2|13|72
+Wilmer Font|R|Patrick Corbin|L|Groundout|T|Four-Seam Fastball|73|1|1|2|14|90
+Wilmer Font|R|Patrick Corbin|L|Groundout|X|Curveball|74|1|2|2|13|73
+Wilmer Font|R|Niko Goodrum|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|92
+Wilmer Font|R|Niko Goodrum|L|Flyout|B|Curveball|1|1|0|0|14|73
+Wilmer Font|R|Niko Goodrum|L|Flyout|F|Four-Seam Fastball|2|2|0|0|6|90
+Wilmer Font|R|Niko Goodrum|L|Flyout|F|Curveball|3|2|1|0|8|73
+Wilmer Font|R|Niko Goodrum|L|Flyout|F|Splitter|4|2|2|0|11|85
+Wilmer Font|R|Niko Goodrum|L|Flyout|X|Splitter|5|2|2|0|1|84
+Wilmer Font|R|Dawel Lugo|R|Single|C|Curveball|6|0|0|1|6|73
+Wilmer Font|R|Dawel Lugo|R|Single|D|Slider|7|0|1|1|8|82
+Wilmer Font|R|Nick Castellanos|R|Grounded Into DP|B|Curveball|8|0|0|1|12|74
+Wilmer Font|R|Nick Castellanos|R|Grounded Into DP|S|Splitter|9|1|0|1|11|89
+Wilmer Font|R|Nick Castellanos|R|Grounded Into DP|B|Curveball|10|1|1|1|12|75
+Wilmer Font|R|Nick Castellanos|R|Grounded Into DP|F|Splitter|11|2|1|1|13|89
+Wilmer Font|R|Nick Castellanos|R|Grounded Into DP|X|Splitter|12|2|2|1|12|84
+Wilmer Font|R|Miguel Cabrera|R|Groundout|S|Four-Seam Fastball|13|0|0|0|1|94
+Wilmer Font|R|Miguel Cabrera|R|Groundout|B|Slider|14|0|1|0|14|84
+Wilmer Font|R|Miguel Cabrera|R|Groundout|B|Four-Seam Fastball|15|1|1|0|14|93
+Wilmer Font|R|Miguel Cabrera|R|Groundout|X|Curveball|16|2|1|0|14|76
+Wilmer Font|R|Christin Stewart|L|Walk|B|Curveball|17|0|0|1|9|78
+Wilmer Font|R|Christin Stewart|L|Walk|S|Curveball|18|1|0|1|13|77
+Wilmer Font|R|Christin Stewart|L|Walk|B|Four-Seam Fastball|19|1|1|1|14|94
+Wilmer Font|R|Christin Stewart|L|Walk|S|Curveball|20|2|1|1|14|76
+Wilmer Font|R|Christin Stewart|L|Walk|B|Curveball|21|2|2|1|13|78
+Wilmer Font|R|Christin Stewart|L|Walk|B|Curveball|22|3|2|1|14|74
+Wilmer Font|R|Josh Harrison|R|Single|S|Four-Seam Fastball|23|0|0|1|11|92
+Wilmer Font|R|Josh Harrison|R|Single|B|Sinker|24|0|1|1|8|92
+Wilmer Font|R|Josh Harrison|R|Single|F|Splitter|25|1|1|1|11|89
+Wilmer Font|R|Josh Harrison|R|Single|B|Curveball|26|1|2|1|11|76
+Wilmer Font|R|Josh Harrison|R|Single|D|Curveball|27|2|2|1|4|75
+Wilmer Font|R|Grayson Greiner|R|Strikeout|B|Four-Seam Fastball|28|0|0|1|14|93
+Wilmer Font|R|Grayson Greiner|R|Strikeout|B|Four-Seam Fastball|29|1|0|1|11|92
+Wilmer Font|R|Grayson Greiner|R|Strikeout|F|Splitter|30|2|0|1|11|89
+Wilmer Font|R|Grayson Greiner|R|Strikeout|C|Four-Seam Fastball|31|2|1|1|6|91
+Wilmer Font|R|Grayson Greiner|R|Strikeout|B|Splitter|32|2|2|1|14|86
+Wilmer Font|R|Grayson Greiner|R|Strikeout|S|Curveball|33|3|2|1|9|75
+Wilmer Font|R|JaCoby Jones|R|Strikeout|C|Curveball|34|0|0|2|11|75
+Wilmer Font|R|JaCoby Jones|R|Strikeout|B|Four-Seam Fastball|35|0|1|2|12|93
+Wilmer Font|R|JaCoby Jones|R|Strikeout|F|Curveball|36|1|1|2|4|76
+Wilmer Font|R|JaCoby Jones|R|Strikeout|B|Four-Seam Fastball|37|1|2|2|12|94
+Wilmer Font|R|JaCoby Jones|R|Strikeout|B|Curveball|38|2|2|2|11|76
+Wilmer Font|R|JaCoby Jones|R|Strikeout|C|Curveball|39|3|2|2|2|73
+Wilmer Font|R|Tony Wolters|L|Flyout|*B|Curveball|0|0|0|2|13|74
+Wilmer Font|R|Tony Wolters|L|Flyout|X|Four-Seam Fastball|1|1|0|2|3|93
+Wilmer Font|R|Kolten Wong|L|Flyout|C|Sinker|0|0|0|0|9|91
+Wilmer Font|R|Kolten Wong|L|Flyout|F|Four-Seam Fastball|1|0|1|0|12|94
+Wilmer Font|R|Kolten Wong|L|Flyout|B|Sinker|2|0|2|0|13|94
+Wilmer Font|R|Kolten Wong|L|Flyout|F|Splitter|3|1|2|0|8|88
+Wilmer Font|R|Kolten Wong|L|Flyout|X|Four-Seam Fastball|4|1|2|0|11|95
+Wilmer Font|R|Dakota Hudson|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|8|93
+Wilmer Font|R|Dakota Hudson|R|Strikeout|C|Slider|6|0|1|1|7|85
+Wilmer Font|R|Dakota Hudson|R|Strikeout|F|Four-Seam Fastball|7|0|2|1|12|96
+Wilmer Font|R|Dakota Hudson|R|Strikeout|B|Slider|8|0|2|1|14|84
+Wilmer Font|R|Dakota Hudson|R|Strikeout|B|Four-Seam Fastball|9|1|2|1|12|96
+Wilmer Font|R|Dakota Hudson|R|Strikeout|B|Curveball|10|2|2|1|13|75
+Wilmer Font|R|Dakota Hudson|R|Strikeout|F|Four-Seam Fastball|11|3|2|1|1|93
+Wilmer Font|R|Dakota Hudson|R|Strikeout|C|Four-Seam Fastball|12|3|2|1|6|93
+Wilmer Font|R|Matt Carpenter|L|Flyout|C|Curveball|13|0|0|2|7|74
+Wilmer Font|R|Matt Carpenter|L|Flyout|B|Splitter|14|0|1|2|11|88
+Wilmer Font|R|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|15|1|1|2|4|95
+Wilmer Font|R|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|16|1|2|2|7|95
+Wilmer Font|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|17|0|0|0|11|94
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Curveball|18|1|0|0|5|76
+Wilmer Font|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|19|1|1|0|11|94
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|20|2|1|0|5|94
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Slider|21|2|2|0|8|83
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|22|2|2|0|3|96
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Curveball|23|2|2|0|8|78
+Wilmer Font|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|24|2|2|0|8|95
+Wilmer Font|R|Paul DeJong|R|Strikeout|B|Splitter|25|2|2|0|14|85
+Wilmer Font|R|Paul DeJong|R|Strikeout|S|Curveball|26|3|2|0|2|76
+Wilmer Font|R|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|27|0|0|1|6|95
+Wilmer Font|R|Paul Goldschmidt|R|Walk|B|Slider|28|0|1|1|13|85
+Wilmer Font|R|Paul Goldschmidt|R|Walk|B|Curveball|29|1|1|1|13|78
+Wilmer Font|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|30|2|1|1|14|95
+Wilmer Font|R|Paul Goldschmidt|R|Walk|B|Curveball|31|3|1|1|13|75
+Wilmer Font|R|Jose Martinez|R|Strikeout|C|Sinker|32|0|0|1|8|93
+Wilmer Font|R|Jose Martinez|R|Strikeout|C|Four-Seam Fastball|33|0|1|1|8|96
+Wilmer Font|R|Jose Martinez|R|Strikeout|B|Four-Seam Fastball|34|0|2|1|11|95
+Wilmer Font|R|Jose Martinez|R|Strikeout|S|Sinker|35|1|2|1|11|96
+Wilmer Font|R|Dexter Fowler|L|Flyout|S|Sinker|36|0|0|2|1|95
+Wilmer Font|R|Dexter Fowler|L|Flyout|X|Sinker|37|0|1|2|11|95
+Wilmer Font|R|Yadier Molina|R|Groundout|C|Curveball|38|0|0|0|9|77
+Wilmer Font|R|Yadier Molina|R|Groundout|F|Splitter|39|0|1|0|5|87
+Wilmer Font|R|Yadier Molina|R|Groundout|X|Slider|40|0|2|0|5|86
+Wilmer Font|R|Harrison Bader|R|Field Error|C|Slider|41|0|0|1|6|85
+Wilmer Font|R|Harrison Bader|R|Field Error|B|Splitter|42|0|1|1|14|88
+Wilmer Font|R|Harrison Bader|R|Field Error|B|Sinker|43|1|1|1|11|95
+Wilmer Font|R|Harrison Bader|R|Field Error|C|Curveball|44|2|1|1|11|77
+Wilmer Font|R|Harrison Bader|R|Field Error|F|Four-Seam Fastball|45|2|2|1|4|96
+Wilmer Font|R|Harrison Bader|R|Field Error|F|Sinker|46|2|2|1|11|96
+Wilmer Font|R|Harrison Bader|R|Field Error|B|Curveball|47|2|2|1|12|78
+Wilmer Font|R|Harrison Bader|R|Field Error|F|Four-Seam Fastball|48|3|2|1|9|96
+Wilmer Font|R|Harrison Bader|R|Field Error|D|Curveball|49|3|2|1|3|75
+Wilmer Font|R|Kolten Wong|L|Pop Out|X|Sinker|50|0|0|1|1|92
+Wilmer Font|R|Marcell Ozuna|R|Forceout|C|Slider|51|0|0|2|4|86
+Wilmer Font|R|Marcell Ozuna|R|Forceout|B|Four-Seam Fastball|52|0|1|2|12|96
+Wilmer Font|R|Marcell Ozuna|R|Forceout|S|Sinker|53|1|1|2|11|93
+Wilmer Font|R|Marcell Ozuna|R|Forceout|X|Four-Seam Fastball|54|1|2|2|7|96
+Wilmer Font|R|Mike Soroka|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|13|93
+Wilmer Font|R|Mike Soroka|R|Pop Out|C|Four-Seam Fastball|1|1|0|0|9|92
+Wilmer Font|R|Mike Soroka|R|Pop Out|B|Sinker|2|1|1|0|13|91
+Wilmer Font|R|Mike Soroka|R|Pop Out|X|Four-Seam Fastball|3|2|1|0|4|92
+Wilmer Font|R|Ronald Acuna Jr.|R|Lineout|B|Splitter|4|0|0|1|13|83
+Wilmer Font|R|Ronald Acuna Jr.|R|Lineout|X|Four-Seam Fastball|5|1|0|1|8|93
+Wilmer Font|R|Ozzie Albies|L|Strikeout|B|Curveball|6|0|0|2|14|78
+Wilmer Font|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|7|1|0|2|11|94
+Wilmer Font|R|Ozzie Albies|L|Strikeout|S|Sinker|8|1|1|2|11|94
+Wilmer Font|R|Ozzie Albies|L|Strikeout|S|Sinker|9|1|2|2|11|95
+Wilmer Font|R|Josh Donaldson|R|Groundout|B|Sinker|0|0|0|0|11|92
+Wilmer Font|R|Josh Donaldson|R|Groundout|S|Four-Seam Fastball|1|1|0|0|12|93
+Wilmer Font|R|Josh Donaldson|R|Groundout|*B|Slider|2|1|1|0|14|84
+Wilmer Font|R|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|3|2|1|0|12|94
+Wilmer Font|R|Josh Donaldson|R|Groundout|X|Sinker|4|2|2|0|13|95
+Wilmer Font|R|Nick Markakis|L|Strikeout|C|Slider|5|0|0|1|3|84
+Wilmer Font|R|Nick Markakis|L|Strikeout|B|Splitter|6|0|1|1|14|84
+Wilmer Font|R|Nick Markakis|L|Strikeout|B|Four-Seam Fastball|7|1|1|1|11|93
+Wilmer Font|R|Nick Markakis|L|Strikeout|C|Sinker|8|2|1|1|9|93
+Wilmer Font|R|Nick Markakis|L|Strikeout|F|Four-Seam Fastball|9|2|2|1|12|94
+Wilmer Font|R|Nick Markakis|L|Strikeout|T|Slider|10|2|2|1|11|82
+Wilmer Font|R|Austin Riley|R|Pop Out|B|Sinker|11|0|0|2|11|93
+Wilmer Font|R|Austin Riley|R|Pop Out|F|Splitter|12|1|0|2|4|84
+Wilmer Font|R|Austin Riley|R|Pop Out|B|Slider|13|1|1|2|12|84
+Wilmer Font|R|Austin Riley|R|Pop Out|F|Four-Seam Fastball|14|2|1|2|4|94
+Wilmer Font|R|Austin Riley|R|Pop Out|X|Sinker|15|2|2|2|7|93
+Wilmer Font|R|Johan Camargo|L|Groundout|B|Curveball|16|0|0|0|14|76
+Wilmer Font|R|Johan Camargo|L|Groundout|S|Splitter|17|1|0|0|7|82
+Wilmer Font|R|Johan Camargo|L|Groundout|X|Splitter|18|1|1|0|11|82
+Wilmer Font|R|Tyler Flowers|R|Strikeout|S|Four-Seam Fastball|19|0|0|1|12|95
+Wilmer Font|R|Tyler Flowers|R|Strikeout|S|Four-Seam Fastball|20|0|1|1|3|95
+Wilmer Font|R|Tyler Flowers|R|Strikeout|S|Four-Seam Fastball|21|0|2|1|11|95
+Wilmer Font|R|Charlie Culberson|R|Strikeout|B|Sinker|22|0|0|2|14|94
+Wilmer Font|R|Charlie Culberson|R|Strikeout|S|Sinker|23|1|0|2|13|92
+Wilmer Font|R|Charlie Culberson|R|Strikeout|B|Splitter|24|1|1|2|13|85
+Wilmer Font|R|Charlie Culberson|R|Strikeout|S|Four-Seam Fastball|25|2|1|2|4|93
+Wilmer Font|R|Charlie Culberson|R|Strikeout|S|Four-Seam Fastball|26|2|2|2|2|94
+Wilmer Font|R|Gio Urshela|R|Home Run|B|Slider|0|0|0|1|14|82
+Wilmer Font|R|Gio Urshela|R|Home Run|B|Slider|1|1|0|1|14|81
+Wilmer Font|R|Gio Urshela|R|Home Run|B|Four-Seam Fastball|2|2|0|1|11|94
+Wilmer Font|R|Gio Urshela|R|Home Run|C|Four-Seam Fastball|3|3|0|1|6|93
+Wilmer Font|R|Gio Urshela|R|Home Run|F|Four-Seam Fastball|4|3|1|1|6|94
+Wilmer Font|R|Gio Urshela|R|Home Run|E|Slider|5|3|2|1|4|82
+Wilmer Font|R|Brett Gardner|L|Groundout|C|Curveball|6|0|0|1|12|75
+Wilmer Font|R|Brett Gardner|L|Groundout|B|Sinker|7|0|1|1|11|94
+Wilmer Font|R|Brett Gardner|L|Groundout|X|Splitter|8|1|1|1|1|84
+Wilmer Font|R|Domingo German|R|Strikeout|B|Four-Seam Fastball|9|0|0|2|11|94
+Wilmer Font|R|Domingo German|R|Strikeout|B|Four-Seam Fastball|10|1|0|2|11|91
+Wilmer Font|R|Domingo German|R|Strikeout|C|Four-Seam Fastball|11|2|0|2|3|91
+Wilmer Font|R|Domingo German|R|Strikeout|C|Four-Seam Fastball|12|2|1|2|5|91
+Wilmer Font|R|Domingo German|R|Strikeout|C|Four-Seam Fastball|13|2|2|2|3|94
+Wilmer Font|R|DJ LeMahieu|R|Double|B|Four-Seam Fastball|14|0|0|0|14|94
+Wilmer Font|R|DJ LeMahieu|R|Double|B|Curveball|15|1|0|0|14|77
+Wilmer Font|R|DJ LeMahieu|R|Double|D|Four-Seam Fastball|16|2|0|0|8|92
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Sinker|17|0|0|0|13|92
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Sinker|18|1|0|0|14|94
+Wilmer Font|R|Aaron Judge|R|Groundout|F|Sinker|19|2|0|0|7|93
+Wilmer Font|R|Aaron Judge|R|Groundout|B|Slider|20|2|1|0|12|84
+Wilmer Font|R|Aaron Judge|R|Groundout|F|Four-Seam Fastball|21|3|1|0|5|93
+Wilmer Font|R|Aaron Judge|R|Groundout|X|Sinker|22|3|2|0|4|92
+Wilmer Font|R|Gary Sanchez|R|Flyout|B|Four-Seam Fastball|23|0|0|1|14|96
+Wilmer Font|R|Gary Sanchez|R|Flyout|C|Slider|24|1|0|1|6|83
+Wilmer Font|R|Gary Sanchez|R|Flyout|C|Four-Seam Fastball|25|1|1|1|6|95
+Wilmer Font|R|Gary Sanchez|R|Flyout|X|Curveball|26|1|2|1|14|77
+Wilmer Font|R|Aaron Hicks|L|Walk|*B|Splitter|27|0|0|2|13|83
+Wilmer Font|R|Aaron Hicks|L|Walk|B|Splitter|28|1|0|2|14|85
+Wilmer Font|R|Aaron Hicks|L|Walk|B|Sinker|29|2|0|2|13|93
+Wilmer Font|R|Aaron Hicks|L|Walk|C|Sinker|30|3|0|2|7|93
+Wilmer Font|R|Aaron Hicks|L|Walk|*B|Splitter|31|3|1|2|14|85
+Wilmer Font|R|Gleyber Torres|R|Single|S|Four-Seam Fastball|32|0|0|2|3|95
+Wilmer Font|R|Gleyber Torres|R|Single|B|Four-Seam Fastball|33|0|1|2|12|95
+Wilmer Font|R|Gleyber Torres|R|Single|F|Four-Seam Fastball|34|1|1|2|14|94
+Wilmer Font|R|Gleyber Torres|R|Single|B|Sinker|35|1|2|2|11|96
+Wilmer Font|R|Gleyber Torres|R|Single|B|Four-Seam Fastball|36|2|2|2|12|96
+Wilmer Font|R|Gleyber Torres|R|Single|F|Four-Seam Fastball|37|3|2|2|3|94
+Wilmer Font|R|Gleyber Torres|R|Single|F|Four-Seam Fastball|38|3|2|2|12|93
+Wilmer Font|R|Gleyber Torres|R|Single|E|Sinker|39|3|2|2|6|93
+Wilmer Font|R|Scott Kingery|R|Flyout|C|Slider|0|0|0|0|6|84
+Wilmer Font|R|Scott Kingery|R|Flyout|B|Four-Seam Fastball|1|0|1|0|12|95
+Wilmer Font|R|Scott Kingery|R|Flyout|X|Four-Seam Fastball|2|1|1|0|1|94
+Wilmer Font|R|Jean Segura|R|Single|B|Four-Seam Fastball|3|0|0|1|14|95
+Wilmer Font|R|Jean Segura|R|Single|C|Four-Seam Fastball|4|1|0|1|5|95
+Wilmer Font|R|Jean Segura|R|Single|B|Four-Seam Fastball|5|1|1|1|11|95
+Wilmer Font|R|Jean Segura|R|Single|D|Four-Seam Fastball|6|2|1|1|4|94
+Wilmer Font|R|Bryce Harper|L|Pop Out|F|Sinker|7|0|0|1|13|94
+Wilmer Font|R|Bryce Harper|L|Pop Out|B|Four-Seam Fastball|8|0|1|1|12|94
+Wilmer Font|R|Bryce Harper|L|Pop Out|B|Sinker|9|1|1|1|13|93
+Wilmer Font|R|Bryce Harper|L|Pop Out|X|Four-Seam Fastball|10|2|1|1|12|96
+Wilmer Font|R|Rhys Hoskins|R|Hit By Pitch|H|Sinker|11|0|0|2|11|96
+Wilmer Font|R|J.T. Realmuto|R|Forceout|F|Four-Seam Fastball|12|0|0|2|6|95
+Wilmer Font|R|J.T. Realmuto|R|Forceout|F|Four-Seam Fastball|13|0|1|2|11|96
+Wilmer Font|R|J.T. Realmuto|R|Forceout|X|Curveball|14|0|2|2|2|79
+Wilmer Font|R|Jay Bruce|L|Home Run|B|Splitter|15|0|0|0|14|86
+Wilmer Font|R|Jay Bruce|L|Home Run|E|Sinker|16|1|0|0|5|93
+Wilmer Font|R|Cesar Hernandez|L|Single|C|Four-Seam Fastball|17|0|0|0|11|94
+Wilmer Font|R|Cesar Hernandez|L|Single|D|Splitter|18|0|1|0|4|85
+Wilmer Font|R|Maikel Franco|R|Flyout|B|Slider|19|0|0|0|14|85
+Wilmer Font|R|Maikel Franco|R|Flyout|B|Slider|20|1|0|0|14|86
+Wilmer Font|R|Maikel Franco|R|Flyout|X|Four-Seam Fastball|21|2|0|0|1|94
+Wilmer Font|R|Brad Miller|L|Strikeout|C|Sinker|22|0|0|1|4|95
+Wilmer Font|R|Brad Miller|L|Strikeout|B|Four-Seam Fastball|23|0|1|1|14|94
+Wilmer Font|R|Brad Miller|L|Strikeout|F|Four-Seam Fastball|24|1|1|1|3|95
+Wilmer Font|R|Brad Miller|L|Strikeout|B|Four-Seam Fastball|25|1|2|1|12|97
+Wilmer Font|R|Brad Miller|L|Strikeout|S|Four-Seam Fastball|26|2|2|1|12|97
+Wilmer Font|R|Scott Kingery|R|Strikeout|C|Four-Seam Fastball|27|0|0|2|12|95
+Wilmer Font|R|Scott Kingery|R|Strikeout|F|Slider|28|0|1|2|6|86
+Wilmer Font|R|Scott Kingery|R|Strikeout|S|Four-Seam Fastball|29|0|2|2|12|97
+Wilmer Font|R|Jean Segura|R|Lineout|F|Curveball|30|0|0|0|8|75
+Wilmer Font|R|Jean Segura|R|Lineout|X|Four-Seam Fastball|31|0|1|0|11|95
+Wilmer Font|R|Bryce Harper|L|Flyout|F|Sinker|32|0|0|1|13|95
+Wilmer Font|R|Bryce Harper|L|Flyout|B|Four-Seam Fastball|33|0|1|1|11|96
+Wilmer Font|R|Bryce Harper|L|Flyout|X|Four-Seam Fastball|34|1|1|1|12|96
+Wilmer Font|R|Rhys Hoskins|R|Home Run|F|Four-Seam Fastball|35|0|0|2|2|96
+Wilmer Font|R|Rhys Hoskins|R|Home Run|B|Four-Seam Fastball|36|0|1|2|11|96
+Wilmer Font|R|Rhys Hoskins|R|Home Run|C|Slider|37|1|1|2|12|85
+Wilmer Font|R|Rhys Hoskins|R|Home Run|F|Four-Seam Fastball|38|1|2|2|5|96
+Wilmer Font|R|Rhys Hoskins|R|Home Run|B|Slider|39|1|2|2|14|85
+Wilmer Font|R|Rhys Hoskins|R|Home Run|B|Curveball|40|2|2|2|14|79
+Wilmer Font|R|Rhys Hoskins|R|Home Run|E|Four-Seam Fastball|41|3|2|2|2|97
+Wilmer Font|R|J.T. Realmuto|R|Lineout|F|Four-Seam Fastball|42|0|0|2|11|96
+Wilmer Font|R|J.T. Realmuto|R|Lineout|C|Curveball|43|0|1|2|9|77
+Wilmer Font|R|J.T. Realmuto|R|Lineout|F|Four-Seam Fastball|44|0|2|2|11|97
+Wilmer Font|R|J.T. Realmuto|R|Lineout|B|Slider|45|0|2|2|11|83
+Wilmer Font|R|J.T. Realmuto|R|Lineout|B|Four-Seam Fastball|46|1|2|2|14|98
+Wilmer Font|R|J.T. Realmuto|R|Lineout|B|Slider|47|2|2|2|14|86
+Wilmer Font|R|J.T. Realmuto|R|Lineout|X|Curveball|48|3|2|2|9|77
+Wilmer Font|R|Ian Kinsler|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|92
+Wilmer Font|R|Ian Kinsler|R|Lineout|B|Four-Seam Fastball|1|1|0|0|14|94
+Wilmer Font|R|Ian Kinsler|R|Lineout|X|Four-Seam Fastball|2|2|0|0|9|92
+Wilmer Font|R|Franmil Reyes|R|Strikeout|C|Four-Seam Fastball|3|0|0|1|9|94
+Wilmer Font|R|Franmil Reyes|R|Strikeout|B|Sinker|4|0|1|1|13|93
+Wilmer Font|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|5|1|1|1|14|93
+Wilmer Font|R|Franmil Reyes|R|Strikeout|F|Four-Seam Fastball|6|2|1|1|6|94
+Wilmer Font|R|Franmil Reyes|R|Strikeout|S|Slider|7|2|2|1|8|84
+Wilmer Font|R|Manny Machado|R|Flyout|B|Four-Seam Fastball|8|0|0|2|14|94
+Wilmer Font|R|Manny Machado|R|Flyout|F|Four-Seam Fastball|9|1|0|2|8|94
+Wilmer Font|R|Manny Machado|R|Flyout|X|Sinker|10|1|1|2|1|94
+Wilmer Font|R|Eric Hosmer|L|Home Run|S|Sinker|11|0|0|0|13|92
+Wilmer Font|R|Eric Hosmer|L|Home Run|E|Sinker|12|0|1|0|8|93
+Wilmer Font|R|Hunter Renfroe|R|Flyout|C|Four-Seam Fastball|13|0|0|0|5|94
+Wilmer Font|R|Hunter Renfroe|R|Flyout|B|Slider|14|0|1|0|14|85
+Wilmer Font|R|Hunter Renfroe|R|Flyout|B|Slider|15|1|1|0|14|84
+Wilmer Font|R|Hunter Renfroe|R|Flyout|F|Sinker|16|2|1|0|13|92
+Wilmer Font|R|Hunter Renfroe|R|Flyout|X|Slider|17|2|2|0|2|86
+Wilmer Font|R|Ty France|R|Flyout|C|Curveball|18|0|0|1|8|75
+Wilmer Font|R|Ty France|R|Flyout|S|Four-Seam Fastball|19|0|1|1|12|94
+Wilmer Font|R|Ty France|R|Flyout|B|Four-Seam Fastball|20|0|2|1|12|95
+Wilmer Font|R|Ty France|R|Flyout|B|Slider|21|1|2|1|14|85
+Wilmer Font|R|Ty France|R|Flyout|B|Four-Seam Fastball|22|2|2|1|14|96
+Wilmer Font|R|Ty France|R|Flyout|F|Four-Seam Fastball|23|3|2|1|7|94
+Wilmer Font|R|Ty France|R|Flyout|F|Curveball|24|3|2|1|13|75
+Wilmer Font|R|Ty France|R|Flyout|F|Four-Seam Fastball|25|3|2|1|9|93
+Wilmer Font|R|Ty France|R|Flyout|X|Four-Seam Fastball|26|3|2|1|4|92
+Wilmer Font|R|Manuel Margot|R|Flyout|C|Slider|27|0|0|2|6|83
+Wilmer Font|R|Manuel Margot|R|Flyout|B|Four-Seam Fastball|28|0|1|2|12|94
+Wilmer Font|R|Manuel Margot|R|Flyout|S|Splitter|29|1|1|2|14|83
+Wilmer Font|R|Manuel Margot|R|Flyout|X|Slider|30|1|2|2|12|83
+Wilmer Font|R|Austin Hedges|R|Groundout|B|Four-Seam Fastball|31|0|0|0|14|93
+Wilmer Font|R|Austin Hedges|R|Groundout|B|Sinker|32|1|0|0|13|91
+Wilmer Font|R|Austin Hedges|R|Groundout|F|Four-Seam Fastball|33|2|0|0|4|92
+Wilmer Font|R|Austin Hedges|R|Groundout|S|Four-Seam Fastball|34|2|1|0|1|92
+Wilmer Font|R|Austin Hedges|R|Groundout|X|Slider|35|2|2|0|14|83
+Wilmer Font|R|Matt Strahm|R|Double|D|Four-Seam Fastball|36|0|0|1|5|94
+Wilmer Font|R|Ian Kinsler|R|Groundout|C|Four-Seam Fastball|37|0|0|1|7|92
+Wilmer Font|R|Ian Kinsler|R|Groundout|*B|Splitter|38|0|1|1|13|84
+Wilmer Font|R|Ian Kinsler|R|Groundout|X|Four-Seam Fastball|39|1|1|1|8|94
+Wilmer Font|R|Franmil Reyes|R|Single|S|Four-Seam Fastball|40|0|0|2|4|94
+Wilmer Font|R|Franmil Reyes|R|Single|B|Four-Seam Fastball|41|0|1|2|13|93
+Wilmer Font|R|Franmil Reyes|R|Single|B|Four-Seam Fastball|42|1|1|2|13|95
+Wilmer Font|R|Franmil Reyes|R|Single|E|Curveball|43|2|1|2|4|76
+Wilmer Font|R|Manny Machado|R|Flyout|S|Slider|44|0|0|2|14|83
+Wilmer Font|R|Manny Machado|R|Flyout|F|Four-Seam Fastball|45|0|1|2|7|94
+Wilmer Font|R|Manny Machado|R|Flyout|X|Four-Seam Fastball|46|0|2|2|12|95
+Wilmer Font|R|Eric Hosmer|L|Groundout|B|Four-Seam Fastball|47|0|0|0|12|92
+Wilmer Font|R|Eric Hosmer|L|Groundout|B|Splitter|48|1|0|0|14|81
+Wilmer Font|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|49|2|0|0|14|93
+Wilmer Font|R|Hunter Renfroe|R|Groundout|F|Slider|50|0|0|1|3|82
+Wilmer Font|R|Hunter Renfroe|R|Groundout|F|Four-Seam Fastball|51|0|1|1|3|94
+Wilmer Font|R|Hunter Renfroe|R|Groundout|X|Four-Seam Fastball|52|0|2|1|6|93
+Wilmer Font|R|Ty France|R|Groundout|B|Four-Seam Fastball|53|0|0|2|12|94
+Wilmer Font|R|Ty France|R|Groundout|B|Slider|54|1|0|2|14|83
+Wilmer Font|R|Ty France|R|Groundout|C|Four-Seam Fastball|55|2|0|2|13|91
+Wilmer Font|R|Ty France|R|Groundout|C|Curveball|56|2|1|2|6|75
+Wilmer Font|R|Ty France|R|Groundout|B|Four-Seam Fastball|57|2|2|2|11|94
+Wilmer Font|R|Ty France|R|Groundout|F|Four-Seam Fastball|58|3|2|2|7|91
+Wilmer Font|R|Ty France|R|Groundout|X|Curveball|59|3|2|2|9|76
+Wilmer Font|R|Mallex Smith|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Wilmer Font|R|Mallex Smith|L|Walk|B|Curveball|1|1|0|0|14|75
+Wilmer Font|R|Mallex Smith|L|Walk|F|Four-Seam Fastball|2|2|0|0|9|91
+Wilmer Font|R|Mallex Smith|L|Walk|B|Four-Seam Fastball|3|2|1|0|14|94
+Wilmer Font|R|Mallex Smith|L|Walk|B|Four-Seam Fastball|4|3|1|0|14|92
+Wilmer Font|R|J.P. Crawford|L|Double|B|Four-Seam Fastball|5|0|0|0|12|92
+Wilmer Font|R|J.P. Crawford|L|Double|C|Four-Seam Fastball|6|1|0|0|7|92
+Wilmer Font|R|J.P. Crawford|L|Double|F|Four-Seam Fastball|7|1|1|0|3|93
+Wilmer Font|R|J.P. Crawford|L|Double|F|Curveball|8|1|2|0|5|75
+Wilmer Font|R|J.P. Crawford|L|Double|B|Four-Seam Fastball|9|1|2|0|11|93
+Wilmer Font|R|J.P. Crawford|L|Double|D|Curveball|10|2|2|0|6|75
+Wilmer Font|R|Austin Nola|R|Strikeout|B|Curveball|11|0|0|0|12|76
+Wilmer Font|R|Austin Nola|R|Strikeout|S|Four-Seam Fastball|12|1|0|0|6|93
+Wilmer Font|R|Austin Nola|R|Strikeout|F|Four-Seam Fastball|13|1|1|0|2|94
+Wilmer Font|R|Austin Nola|R|Strikeout|F|Four-Seam Fastball|14|1|2|0|6|95
+Wilmer Font|R|Austin Nola|R|Strikeout|B|Four-Seam Fastball|15|1|2|0|12|95
+Wilmer Font|R|Austin Nola|R|Strikeout|F|Curveball|16|2|2|0|8|78
+Wilmer Font|R|Austin Nola|R|Strikeout|B|Four-Seam Fastball|17|2|2|0|14|95
+Wilmer Font|R|Austin Nola|R|Strikeout|C|Four-Seam Fastball|18|3|2|0|9|94
+Wilmer Font|R|Kyle Seager|L|Single|C|Four-Seam Fastball|19|0|0|1|1|94
+Wilmer Font|R|Kyle Seager|L|Single|B|Splitter|20|0|1|1|11|83
+Wilmer Font|R|Kyle Seager|L|Single|E|Four-Seam Fastball|21|1|1|1|2|94
+Wilmer Font|R|Omar Narvaez|L|Lineout|B|Four-Seam Fastball|22|0|0|1|11|93
+Wilmer Font|R|Omar Narvaez|L|Lineout|C|Curveball|23|1|0|1|4|75
+Wilmer Font|R|Omar Narvaez|L|Lineout|B|Curveball|24|1|1|1|11|76
+Wilmer Font|R|Omar Narvaez|L|Lineout|F|Sinker|25|2|1|1|11|92
+Wilmer Font|R|Omar Narvaez|L|Lineout|X|Four-Seam Fastball|26|2|2|1|1|95
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|B|Curveball|27|0|0|2|11|77
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|B|Four-Seam Fastball|28|1|0|2|11|95
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|C|Four-Seam Fastball|29|2|0|2|13|93
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|B|Curveball|30|2|1|2|13|75
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|S|Four-Seam Fastball|31|3|1|2|11|94
+Wilmer Font|R|Daniel Vogelbach|L|Groundout|X|Four-Seam Fastball|32|3|2|2|13|93
+Wilmer Font|R|Gerardo Parra|L|Flyout|C|Sinker|0|0|0|0|11|93
+Wilmer Font|R|Gerardo Parra|L|Flyout|B|Curveball|1|0|1|0|11|75
+Wilmer Font|R|Gerardo Parra|L|Flyout|X|Four-Seam Fastball|2|1|1|0|3|95
+Wilmer Font|R|Kevin Pillar|R|Single|S|Four-Seam Fastball|3|0|0|1|8|95
+Wilmer Font|R|Kevin Pillar|R|Single|B|Slider|4|0|1|1|14|85
+Wilmer Font|R|Kevin Pillar|R|Single|D|Sinker|5|1|1|1|6|95
+Wilmer Font|R|Joe Panik|L|Groundout|C|Four-Seam Fastball|6|0|0|1|8|94
+Wilmer Font|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|7|0|1|1|11|91
+Wilmer Font|R|Joe Panik|L|Groundout|C|Curveball|8|1|1|1|1|76
+Wilmer Font|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|9|1|2|1|11|94
+Wilmer Font|R|Joe Panik|L|Groundout|X|Curveball|10|2|2|1|13|75
+Wilmer Font|R|Pablo Sandoval|L|Double|C|Curveball|11|0|0|2|13|76
+Wilmer Font|R|Pablo Sandoval|L|Double|E|Four-Seam Fastball|12|0|1|2|1|96
+Wilmer Font|R|Steven Duggar|L|Double|F|Sinker|13|0|0|2|4|92
+Wilmer Font|R|Steven Duggar|L|Double|B|Curveball|14|0|1|2|11|75
+Wilmer Font|R|Steven Duggar|L|Double|S|Slider|15|1|1|2|7|84
+Wilmer Font|R|Steven Duggar|L|Double|E|Slider|16|1|2|2|7|85
+Wilmer Font|R|Nolan Arenado|R|Double|*B|Four-Seam Fastball|0|0|0|1|14|92
+Wilmer Font|R|Nolan Arenado|R|Double|E|Sinker|1|1|0|1|13|91
+Wilmer Font|R|Trevor Story|R|Pop Out|B|Sinker|2|0|0|1|11|91
+Wilmer Font|R|Trevor Story|R|Pop Out|X|Slider|3|1|0|1|7|82
+Wilmer Font|R|Ian Desmond|R|Walk|C|Four-Seam Fastball|0|0|0|2|14|94
+Wilmer Font|R|Ian Desmond|R|Walk|S|Curveball|1|0|1|2|6|75
+Wilmer Font|R|Ian Desmond|R|Walk|F|Slider|2|0|2|2|5|86
+Wilmer Font|R|Ian Desmond|R|Walk|B|Curveball|3|0|2|2|12|77
+Wilmer Font|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|4|1|2|2|12|95
+Wilmer Font|R|Ian Desmond|R|Walk|F|Splitter|5|2|2|2|2|85
+Wilmer Font|R|Ian Desmond|R|Walk|B|Curveball|6|2|2|2|12|76
+Wilmer Font|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|7|3|2|2|12|94
+Wilmer Font|R|Mark Reynolds|R|Pop Out|X|Slider|8|0|0|2|5|81
+Wilmer Font|R|Chris Iannetta|R|Grounded Into DP|B|Sinker|9|0|0|0|11|90
+Wilmer Font|R|Chris Iannetta|R|Grounded Into DP|X|Slider|10|1|0|0|1|81
+Wilmer Font|R|Raimel Tapia|L|Flyout|C|Four-Seam Fastball|11|0|0|2|7|92
+Wilmer Font|R|Raimel Tapia|L|Flyout|S|Curveball|12|0|1|2|5|76
+Wilmer Font|R|Raimel Tapia|L|Flyout|F|Curveball|13|0|2|2|6|78
+Wilmer Font|R|Raimel Tapia|L|Flyout|F|Sinker|14|0|2|2|11|93
+Wilmer Font|R|Raimel Tapia|L|Flyout|X|Splitter|15|0|2|2|2|85
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|F|Sinker|16|0|0|0|11|93
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|F|Slider|17|0|1|0|7|84
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|18|0|2|0|12|94
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|F|Curveball|19|1|2|0|8|75
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|B|Slider|20|1|2|0|11|83
+Wilmer Font|R|Charlie Blackmon|L|Strikeout|S|Sinker|21|2|2|0|1|93
+Wilmer Font|R|Garrett Hampson|R|Groundout|B|Slider|22|0|0|1|14|84
+Wilmer Font|R|Garrett Hampson|R|Groundout|C|Four-Seam Fastball|23|1|0|1|12|92
+Wilmer Font|R|Garrett Hampson|R|Groundout|X|Four-Seam Fastball|24|1|1|1|3|94
+Wilmer Font|R|Renato Nunez|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|6|94
+Wilmer Font|R|Renato Nunez|R|Pop Out|B|Slider|1|0|1|0|14|85
+Wilmer Font|R|Renato Nunez|R|Pop Out|F|Slider|2|1|1|0|6|83
+Wilmer Font|R|Renato Nunez|R|Pop Out|B|Four-Seam Fastball|3|1|2|0|14|96
+Wilmer Font|R|Renato Nunez|R|Pop Out|B|Slider|4|2|2|0|14|86
+Wilmer Font|R|Renato Nunez|R|Pop Out|F|Four-Seam Fastball|5|3|2|0|14|96
+Wilmer Font|R|Renato Nunez|R|Pop Out|X|Four-Seam Fastball|6|3|2|0|5|93
+Wilmer Font|R|Rio Ruiz|L|Home Run|B|Sinker|7|0|0|1|14|94
+Wilmer Font|R|Rio Ruiz|L|Home Run|B|Four-Seam Fastball|8|1|0|1|12|94
+Wilmer Font|R|Rio Ruiz|L|Home Run|C|Four-Seam Fastball|9|2|0|1|8|94
+Wilmer Font|R|Rio Ruiz|L|Home Run|E|Four-Seam Fastball|10|2|1|1|12|93
+Wilmer Font|R|Joey Rickard|R|Strikeout|B|Slider|11|0|0|1|11|82
+Wilmer Font|R|Joey Rickard|R|Strikeout|S|Slider|12|1|0|1|9|84
+Wilmer Font|R|Joey Rickard|R|Strikeout|B|Four-Seam Fastball|13|1|1|1|14|95
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Slider|14|2|1|1|5|86
+Wilmer Font|R|Joey Rickard|R|Strikeout|B|Sinker|15|2|2|1|14|96
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Slider|16|3|2|1|11|82
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Four-Seam Fastball|17|3|2|1|11|93
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Four-Seam Fastball|18|3|2|1|6|95
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Slider|19|3|2|1|7|84
+Wilmer Font|R|Joey Rickard|R|Strikeout|F|Four-Seam Fastball|20|3|2|1|9|96
+Wilmer Font|R|Joey Rickard|R|Strikeout|S|Curveball|21|3|2|1|8|74
+Wilmer Font|R|Jesus Sucre|R|Lineout|B|Curveball|22|0|0|2|13|74
+Wilmer Font|R|Jesus Sucre|R|Lineout|X|Four-Seam Fastball|23|1|0|2|5|94
+Wilmer Font|R|Richie Martin|R|Strikeout|B|Four-Seam Fastball|24|0|0|0|14|95
+Wilmer Font|R|Richie Martin|R|Strikeout|C|Slider|25|1|0|0|7|81
+Wilmer Font|R|Richie Martin|R|Strikeout|C|Curveball|26|1|1|0|6|76
+Wilmer Font|R|Richie Martin|R|Strikeout|B|Curveball|27|1|2|0|14|78
+Wilmer Font|R|Richie Martin|R|Strikeout|B|Four-Seam Fastball|28|2|2|0|14|95
+Wilmer Font|R|Richie Martin|R|Strikeout|F|Curveball|29|3|2|0|9|75
+Wilmer Font|R|Richie Martin|R|Strikeout|F|Slider|30|3|2|0|6|81
+Wilmer Font|R|Richie Martin|R|Strikeout|S|Four-Seam Fastball|31|3|2|0|3|92
+Wilmer Font|R|Cedric Mullins|L|Strikeout|C|Curveball|32|0|0|1|8|75
+Wilmer Font|R|Cedric Mullins|L|Strikeout|F|Curveball|33|0|1|1|14|78
+Wilmer Font|R|Cedric Mullins|L|Strikeout|W|Curveball|34|0|2|1|14|76
+Wilmer Font|R|Jonathan Villar|L|Walk|B|Sinker|35|0|0|2|12|93
+Wilmer Font|R|Jonathan Villar|L|Walk|F|Sinker|36|1|0|2|5|92
+Wilmer Font|R|Jonathan Villar|L|Walk|F|Curveball|37|1|1|2|14|77
+Wilmer Font|R|Jonathan Villar|L|Walk|B|Slider|38|1|2|2|12|86
+Wilmer Font|R|Jonathan Villar|L|Walk|B|Curveball|39|2|2|2|13|77
+Wilmer Font|R|Jonathan Villar|L|Walk|B|Curveball|40|3|2|2|14|75
+Wilmer Font|R|Trey Mancini|R|Strikeout|T|Slider|41|0|0|2|2|84
+Wilmer Font|R|Trey Mancini|R|Strikeout|S|Curveball|42|0|1|2|13|76
+Wilmer Font|R|Trey Mancini|R|Strikeout|S|Curveball|43|0|2|2|14|77
+Wilmer Font|R|Mookie Betts|R|Double|B|Four-Seam Fastball|0|0|0|0|12|92
+Wilmer Font|R|Mookie Betts|R|Double|C|Sinker|1|1|0|0|9|93
+Wilmer Font|R|Mookie Betts|R|Double|C|Curveball|2|1|1|0|2|75
+Wilmer Font|R|Mookie Betts|R|Double|B|Slider|3|1|2|0|12|85
+Wilmer Font|R|Mookie Betts|R|Double|B|Four-Seam Fastball|4|2|2|0|9|95
+Wilmer Font|R|Mookie Betts|R|Double|D|Slider|5|3|2|0|14|83
+Wilmer Font|R|Mitch Moreland|L|Single|S|Four-Seam Fastball|6|0|0|0|14|94
+Wilmer Font|R|Mitch Moreland|L|Single|B|Four-Seam Fastball|7|0|1|0|14|93
+Wilmer Font|R|Mitch Moreland|L|Single|S|Curveball|8|1|1|0|7|75
+Wilmer Font|R|Mitch Moreland|L|Single|D|Curveball|9|1|2|0|14|76
+Wilmer Font|R|J.D. Martinez|R|Single|*B|Slider|10|0|0|0|14|85
+Wilmer Font|R|J.D. Martinez|R|Single|B|Four-Seam Fastball|11|1|0|0|11|93
+Wilmer Font|R|J.D. Martinez|R|Single|S|Sinker|12|2|0|0|11|91
+Wilmer Font|R|J.D. Martinez|R|Single|F|Four-Seam Fastball|13|2|1|0|5|92
+Wilmer Font|R|J.D. Martinez|R|Single|E|Sinker|14|2|2|0|6|94
+Wilmer Font|R|Xander Bogaerts|R|Strikeout|B|Slider|15|0|0|0|14|88
+Wilmer Font|R|Xander Bogaerts|R|Strikeout|S|Sinker|16|1|0|0|13|92
+Wilmer Font|R|Xander Bogaerts|R|Strikeout|C|Slider|17|1|1|0|4|88
+Wilmer Font|R|Xander Bogaerts|R|Strikeout|F|Slider|18|1|2|0|14|86
+Wilmer Font|R|Xander Bogaerts|R|Strikeout|S|Slider|19|1|2|0|13|87
+Wilmer Font|R|Rafael Devers|L|Strikeout|C|Curveball|20|0|0|1|12|76
+Wilmer Font|R|Rafael Devers|L|Strikeout|S|Four-Seam Fastball|21|0|1|1|6|94
+Wilmer Font|R|Rafael Devers|L|Strikeout|*B|Slider|22|0|2|1|14|85
+Wilmer Font|R|Rafael Devers|L|Strikeout|S|Four-Seam Fastball|23|1|2|1|1|94
+Wilmer Font|R|Christian Vazquez|R|Strikeout|F|Sinker|24|0|0|2|7|93
+Wilmer Font|R|Christian Vazquez|R|Strikeout|F|Slider|25|0|1|2|3|85
+Wilmer Font|R|Christian Vazquez|R|Strikeout|S|Slider|26|0|2|2|14|87
+Wilmer Font|R|Adalberto Mondesi|L|Strikeout|C|Curveball|0|0|0|2|12|77
+Wilmer Font|R|Adalberto Mondesi|L|Strikeout|C|Four-Seam Fastball|1|0|1|2|6|93
+Wilmer Font|R|Adalberto Mondesi|L|Strikeout|F|Four-Seam Fastball|2|0|2|2|2|95
+Wilmer Font|R|Adalberto Mondesi|L|Strikeout|S|Curveball|3|0|2|2|13|78
+Wilmer Font|R|Chris Owings|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|93
+Wilmer Font|R|Chris Owings|R|Strikeout|S|Curveball|1|1|0|0|14|75
+Wilmer Font|R|Chris Owings|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|6|95
+Wilmer Font|R|Chris Owings|R|Strikeout|B|Curveball|3|1|2|0|14|78
+Wilmer Font|R|Chris Owings|R|Strikeout|F|Slider|4|2|2|0|14|85
+Wilmer Font|R|Chris Owings|R|Strikeout|B|Four-Seam Fastball|5|2|2|0|12|95
+Wilmer Font|R|Chris Owings|R|Strikeout|C|Curveball|6|3|2|0|5|74
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|B|Sinker|7|0|0|1|11|93
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|C|Curveball|8|1|0|1|8|76
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|C|Splitter|9|1|1|1|8|84
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|F|Curveball|10|1|2|1|13|77
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|B|Four-Seam Fastball|11|1|2|1|12|94
+Wilmer Font|R|Ryan O'Hearn|L|Groundout|X|Curveball|12|2|2|1|8|76
+Wilmer Font|R|Cam Gallagher|R|Groundout|C|Slider|13|0|0|2|1|86
+Wilmer Font|R|Cam Gallagher|R|Groundout|B|Curveball|14|0|1|2|12|77
+Wilmer Font|R|Cam Gallagher|R|Groundout|X|Slider|15|1|1|2|8|83
+Wilmer Font|R|Ji-Man Choi|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|11|93
+Wilmer Font|R|Ji-Man Choi|L|Strikeout|C|Four-Seam Fastball|1|0|1|0|9|96
+Wilmer Font|R|Ji-Man Choi|L|Strikeout|S|Slider|2|0|2|0|11|84
+Wilmer Font|R|Tommy Pham|R|Groundout|C|Curveball|3|0|0|1|5|77
+Wilmer Font|R|Tommy Pham|R|Groundout|S|Four-Seam Fastball|4|0|1|1|11|96
+Wilmer Font|R|Tommy Pham|R|Groundout|F|Four-Seam Fastball|5|0|2|1|11|97
+Wilmer Font|R|Tommy Pham|R|Groundout|X|Sinker|6|0|2|1|1|96
+Wilmer Font|R|Austin Meadows|L|Strikeout|S|Sinker|7|0|0|2|1|94
+Wilmer Font|R|Austin Meadows|L|Strikeout|B|Four-Seam Fastball|8|0|1|2|11|96
+Wilmer Font|R|Austin Meadows|L|Strikeout|B|Splitter|9|1|1|2|13|86
+Wilmer Font|R|Austin Meadows|L|Strikeout|F|Sinker|10|2|1|2|11|94
+Wilmer Font|R|Austin Meadows|L|Strikeout|S|Splitter|11|2|2|2|5|86
+Wilmer Font|R|Avisail Garcia|R|Strikeout|C|Four-Seam Fastball|12|0|0|0|12|94
+Wilmer Font|R|Avisail Garcia|R|Strikeout|B|Slider|13|0|1|0|14|85
+Wilmer Font|R|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|14|1|1|0|12|97
+Wilmer Font|R|Avisail Garcia|R|Strikeout|F|Four-Seam Fastball|15|1|2|0|5|96
+Wilmer Font|R|Avisail Garcia|R|Strikeout|B|Slider|16|1|2|0|14|85
+Wilmer Font|R|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|17|2|2|0|12|95
+Wilmer Font|R|Eric Sogard|L|Double|B|Sinker|18|0|0|1|13|92
+Wilmer Font|R|Eric Sogard|L|Double|F|Four-Seam Fastball|19|1|0|1|12|96
+Wilmer Font|R|Eric Sogard|L|Double|B|Splitter|20|1|1|1|11|83
+Wilmer Font|R|Eric Sogard|L|Double|F|Four-Seam Fastball|21|2|1|1|7|95
+Wilmer Font|R|Eric Sogard|L|Double|D|Four-Seam Fastball|22|2|2|1|8|96
+Wilmer Font|R|Michael Brosseau|R|Hit By Pitch|B|Curveball|23|0|0|1|14|78
+Wilmer Font|R|Michael Brosseau|R|Hit By Pitch|H|Four-Seam Fastball|24|1|0|1|11|94
+Wilmer Font|R|Kevin Kiermaier|L|Strikeout|C|Curveball|25|0|0|1|6|76
+Wilmer Font|R|Kevin Kiermaier|L|Strikeout|F|Four-Seam Fastball|26|0|1|1|14|94
+Wilmer Font|R|Kevin Kiermaier|L|Strikeout|S|Four-Seam Fastball|27|0|2|1|11|97
+Wilmer Font|R|Mike Zunino|R|Strikeout|B|Curveball|28|0|0|2|14|79
+Wilmer Font|R|Mike Zunino|R|Strikeout|C|Four-Seam Fastball|29|1|0|2|3|95
+Wilmer Font|R|Mike Zunino|R|Strikeout|B|Curveball|30|1|1|2|11|77
+Wilmer Font|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|31|2|1|2|11|96
+Wilmer Font|R|Mike Zunino|R|Strikeout|F|Four-Seam Fastball|32|2|2|2|2|97
+Wilmer Font|R|Mike Zunino|R|Strikeout|B|Slider|33|2|2|2|14|86
+Wilmer Font|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|34|3|2|2|1|96
+Wilmer Font|R|Willy Adames|R|Lineout|B|Slider|35|0|0|0|14|85
+Wilmer Font|R|Willy Adames|R|Lineout|C|Four-Seam Fastball|36|1|0|0|9|95
+Wilmer Font|R|Willy Adames|R|Lineout|B|Four-Seam Fastball|37|1|1|0|14|95
+Wilmer Font|R|Willy Adames|R|Lineout|C|Sinker|38|2|1|0|5|94
+Wilmer Font|R|Willy Adames|R|Lineout|F|Four-Seam Fastball|39|2|2|0|3|96
+Wilmer Font|R|Willy Adames|R|Lineout|X|Four-Seam Fastball|40|2|2|0|8|95
+Wilmer Font|R|Ji-Man Choi|L|Sac Fly|F|Four-Seam Fastball|0|0|0|1|2|92
+Wilmer Font|R|Ji-Man Choi|L|Sac Fly|F|Four-Seam Fastball|1|0|1|1|2|93
+Wilmer Font|R|Ji-Man Choi|L|Sac Fly|E|Splitter|2|0|2|1|11|85
+Wilmer Font|R|Travis d'Arnaud|R|Double|B|Four-Seam Fastball|3|0|0|2|13|93
+Wilmer Font|R|Travis d'Arnaud|R|Double|C|Sinker|4|1|0|2|8|94
+Wilmer Font|R|Travis d'Arnaud|R|Double|W|Splitter|5|1|1|2|14|84
+Wilmer Font|R|Travis d'Arnaud|R|Double|E|Splitter|6|1|2|2|11|85
+Wilmer Font|R|Nate Lowe|L|Strikeout|B|Curveball|7|0|0|2|11|76
+Wilmer Font|R|Nate Lowe|L|Strikeout|F|Four-Seam Fastball|8|1|0|2|14|94
+Wilmer Font|R|Nate Lowe|L|Strikeout|C|Four-Seam Fastball|9|1|1|2|11|95
+Wilmer Font|R|Nate Lowe|L|Strikeout|S|Sinker|10|1|2|2|1|96
+Wilmer Font|R|Danny Jansen|R|Walk|C|Four-Seam Fastball|0|0|0|0|2|93
+Wilmer Font|R|Danny Jansen|R|Walk|S|Four-Seam Fastball|1|0|1|0|6|95
+Wilmer Font|R|Danny Jansen|R|Walk|F|Slider|2|0|2|0|14|84
+Wilmer Font|R|Danny Jansen|R|Walk|B|Four-Seam Fastball|3|0|2|0|12|96
+Wilmer Font|R|Danny Jansen|R|Walk|F|Four-Seam Fastball|4|1|2|0|2|95
+Wilmer Font|R|Danny Jansen|R|Walk|B|Slider|5|1|2|0|14|85
+Wilmer Font|R|Danny Jansen|R|Walk|B|Four-Seam Fastball|6|2|2|0|13|96
+Wilmer Font|R|Danny Jansen|R|Walk|B|Four-Seam Fastball|7|3|2|0|11|94
+Wilmer Font|R|Billy McKinney|L|Home Run|B|Sinker|8|0|0|0|13|91
+Wilmer Font|R|Billy McKinney|L|Home Run|C|Four-Seam Fastball|9|1|0|0|14|90
+Wilmer Font|R|Billy McKinney|L|Home Run|S|Curveball|10|1|1|0|2|74
+Wilmer Font|R|Billy McKinney|L|Home Run|B|Curveball|11|1|2|0|11|75
+Wilmer Font|R|Billy McKinney|L|Home Run|F|Four-Seam Fastball|12|2|2|0|2|94
+Wilmer Font|R|Billy McKinney|L|Home Run|F|Four-Seam Fastball|13|2|2|0|3|93
+Wilmer Font|R|Billy McKinney|L|Home Run|B|Curveball|14|2|2|0|13|73
+Wilmer Font|R|Billy McKinney|L|Home Run|F|Four-Seam Fastball|15|3|2|0|11|92
+Wilmer Font|R|Billy McKinney|L|Home Run|F|Four-Seam Fastball|16|3|2|0|14|92
+Wilmer Font|R|Billy McKinney|L|Home Run|E|Four-Seam Fastball|17|3|2|0|5|93
+Wilmer Font|R|Freddy Galvis|L|Strikeout|C|Curveball|18|0|0|0|4|74
+Wilmer Font|R|Freddy Galvis|L|Strikeout|S|Slider|19|0|1|0|6|85
+Wilmer Font|R|Freddy Galvis|L|Strikeout|T|Slider|20|0|2|0|12|85
+Wilmer Font|R|Justin Smoak|L|Strikeout|C|Sinker|21|0|0|1|6|94
+Wilmer Font|R|Justin Smoak|L|Strikeout|B|Splitter|22|0|1|1|14|85
+Wilmer Font|R|Justin Smoak|L|Strikeout|C|Slider|23|1|1|1|1|84
+Wilmer Font|R|Justin Smoak|L|Strikeout|B|Slider|24|1|2|1|14|85
+Wilmer Font|R|Justin Smoak|L|Strikeout|B|Sinker|25|2|2|1|14|96
+Wilmer Font|R|Justin Smoak|L|Strikeout|F|Four-Seam Fastball|26|3|2|1|14|95
+Wilmer Font|R|Justin Smoak|L|Strikeout|F|Slider|27|3|2|1|9|83
+Wilmer Font|R|Justin Smoak|L|Strikeout|S|Sinker|28|3|2|1|11|91
+Wilmer Font|R|Randal Grichuk|R|Strikeout|C|Slider|29|0|0|2|9|83
+Wilmer Font|R|Randal Grichuk|R|Strikeout|B|Sinker|30|0|1|2|14|94
+Wilmer Font|R|Randal Grichuk|R|Strikeout|B|Slider|31|1|1|2|12|85
+Wilmer Font|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|32|2|1|2|14|93
+Wilmer Font|R|Randal Grichuk|R|Strikeout|S|Slider|33|2|2|2|12|86
+Wilmer Font|R|Jason Kipnis|L|Flyout|C|Curveball|0|0|0|0|2|75
+Wilmer Font|R|Jason Kipnis|L|Flyout|X|Splitter|1|0|1|0|13|83
+Wilmer Font|R|Jose Ramirez|L|Single|B|Curveball|2|0|0|1|13|76
+Wilmer Font|R|Jose Ramirez|L|Single|F|Four-Seam Fastball|3|1|0|1|2|94
+Wilmer Font|R|Jose Ramirez|L|Single|B|Splitter|4|1|1|1|13|83
+Wilmer Font|R|Jose Ramirez|L|Single|B|Splitter|5|2|1|1|11|82
+Wilmer Font|R|Jose Ramirez|L|Single|D|Four-Seam Fastball|6|3|1|1|7|94
+Wilmer Font|R|Jake Bauers|L|Fan Interference|F|Sinker|7|0|0|1|13|91
+Wilmer Font|R|Jake Bauers|L|Fan Interference|B|Splitter|8|0|1|1|11|81
+Wilmer Font|R|Jake Bauers|L|Fan Interference|D|Curveball|9|1|1|1|5|77
+Wilmer Font|R|Jordan Luplow|R|Groundout|B|Four-Seam Fastball|10|0|0|1|11|94
+Wilmer Font|R|Jordan Luplow|R|Groundout|E|Curveball|11|1|0|1|9|79
+Wilmer Font|R|Greg Allen|L|Single|C|Four-Seam Fastball|12|0|0|2|7|94
+Wilmer Font|R|Greg Allen|L|Single|B|Four-Seam Fastball|13|0|1|2|11|95
+Wilmer Font|R|Greg Allen|L|Single|F|Four-Seam Fastball|14|1|1|2|12|95
+Wilmer Font|R|Greg Allen|L|Single|B|Sinker|15|1|2|2|14|95
+Wilmer Font|R|Greg Allen|L|Single|F|Four-Seam Fastball|16|2|2|2|14|96
+Wilmer Font|R|Greg Allen|L|Single|F|Four-Seam Fastball|17|2|2|2|2|96
+Wilmer Font|R|Greg Allen|L|Single|E|Sinker|18|2|2|2|2|94
+Wilmer Font|R|Kevin Plawecki|R|Strikeout|F|Slider|19|0|0|2|14|85
+Wilmer Font|R|Kevin Plawecki|R|Strikeout|T|Four-Seam Fastball|20|0|1|2|9|95
+Wilmer Font|R|Kevin Plawecki|R|Strikeout|S|Four-Seam Fastball|21|0|2|2|3|95
+Wilmer Font|R|Travis d'Arnaud|R|Walk|B|Curveball|0|0|0|0|14|77
+Wilmer Font|R|Travis d'Arnaud|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|93
+Wilmer Font|R|Travis d'Arnaud|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|95
+Wilmer Font|R|Travis d'Arnaud|R|Walk|B|Four-Seam Fastball|3|3|0|0|14|93
+Wilmer Font|R|Joey Wendle|L|Double|B|Sinker|4|0|0|0|14|92
+Wilmer Font|R|Joey Wendle|L|Double|C|Splitter|5|1|0|0|14|83
+Wilmer Font|R|Joey Wendle|L|Double|*B|Four-Seam Fastball|6|1|1|0|14|93
+Wilmer Font|R|Joey Wendle|L|Double|C|Slider|7|2|1|0|2|82
+Wilmer Font|R|Joey Wendle|L|Double|*B|Splitter|8|2|2|0|13|83
+Wilmer Font|R|Joey Wendle|L|Double|D|Curveball|9|3|2|0|6|75
+Wilmer Font|R|Michael Brosseau|R|Strikeout|*B|Slider|10|0|0|0|14|83
+Wilmer Font|R|Michael Brosseau|R|Strikeout|B|Four-Seam Fastball|11|1|0|0|12|94
+Wilmer Font|R|Michael Brosseau|R|Strikeout|S|Curveball|12|2|0|0|14|76
+Wilmer Font|R|Michael Brosseau|R|Strikeout|S|Curveball|13|2|1|0|14|77
+Wilmer Font|R|Michael Brosseau|R|Strikeout|C|Four-Seam Fastball|14|2|2|0|4|94
+Wilmer Font|R|Guillermo Heredia|R|Sac Fly|S|Curveball|15|0|0|1|9|78
+Wilmer Font|R|Guillermo Heredia|R|Sac Fly|E|Four-Seam Fastball|16|0|1|1|2|93
+Wilmer Font|R|Mike Zunino|R|Pop Out|B|Curveball|17|0|0|2|14|78
+Wilmer Font|R|Mike Zunino|R|Pop Out|T|Four-Seam Fastball|18|1|0|2|1|94
+Wilmer Font|R|Mike Zunino|R|Pop Out|X|Four-Seam Fastball|19|1|1|2|4|94
+Wilmer Font|R|Willy Adames|R|Groundout|C|Four-Seam Fastball|20|0|0|0|12|93
+Wilmer Font|R|Willy Adames|R|Groundout|X|Slider|21|0|1|0|14|82
+Wilmer Font|R|Matt Duffy|R|Strikeout|C|Four-Seam Fastball|22|0|0|1|8|93
+Wilmer Font|R|Matt Duffy|R|Strikeout|S|Four-Seam Fastball|23|0|1|1|13|92
+Wilmer Font|R|Matt Duffy|R|Strikeout|C|Four-Seam Fastball|24|0|2|1|9|95
+Wilmer Font|R|Tommy Pham|R|Strikeout|B|Curveball|25|0|0|2|14|79
+Wilmer Font|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|26|1|0|2|7|95
+Wilmer Font|R|Tommy Pham|R|Strikeout|B|Curveball|27|1|1|2|14|85
+Wilmer Font|R|Tommy Pham|R|Strikeout|C|Curveball|28|2|1|2|13|76
+Wilmer Font|R|Tommy Pham|R|Strikeout|C|Four-Seam Fastball|29|2|2|2|13|94
+Wilmer Font|R|Austin Meadows|L|Groundout|B|Four-Seam Fastball|30|0|0|0|14|93
+Wilmer Font|R|Austin Meadows|L|Groundout|X|Splitter|31|1|0|0|4|84
+Wilmer Font|R|Travis d'Arnaud|R|Groundout|C|Four-Seam Fastball|32|0|0|1|2|93
+Wilmer Font|R|Travis d'Arnaud|R|Groundout|F|Splitter|33|0|1|1|13|83
+Wilmer Font|R|Travis d'Arnaud|R|Groundout|F|Four-Seam Fastball|34|0|2|1|4|94
+Wilmer Font|R|Travis d'Arnaud|R|Groundout|X|Curveball|35|0|2|1|6|78
+Wilmer Font|R|Joey Wendle|L|Pop Out|B|Splitter|36|0|0|2|11|82
+Wilmer Font|R|Joey Wendle|L|Pop Out|X|Four-Seam Fastball|37|1|0|2|2|93
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|94
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Curveball|1|0|1|0|14|77
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|8|94
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|F|Splitter|3|1|2|0|6|83
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|F|Four-Seam Fastball|4|1|2|0|4|96
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Splitter|5|1|2|0|11|83
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|11|96
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|C|Curveball|7|3|2|0|7|75
+Wilmer Font|R|Aaron Judge|R|Flyout|B|Curveball|8|0|0|1|13|75
+Wilmer Font|R|Aaron Judge|R|Flyout|F|Four-Seam Fastball|9|1|0|1|4|94
+Wilmer Font|R|Aaron Judge|R|Flyout|B|Splitter|10|1|1|1|13|83
+Wilmer Font|R|Aaron Judge|R|Flyout|B|Four-Seam Fastball|11|2|1|1|14|94
+Wilmer Font|R|Aaron Judge|R|Flyout|C|Four-Seam Fastball|12|3|1|1|13|93
+Wilmer Font|R|Aaron Judge|R|Flyout|X|Four-Seam Fastball|13|3|2|1|1|96
+Wilmer Font|R|Didi Gregorius|L|Groundout|S|Curveball|14|0|0|2|13|75
+Wilmer Font|R|Didi Gregorius|L|Groundout|B|Splitter|15|0|1|2|11|81
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|16|1|1|2|2|94
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|17|1|2|2|14|95
+Wilmer Font|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|18|1|2|2|11|95
+Wilmer Font|R|Didi Gregorius|L|Groundout|X|Curveball|19|1|2|2|14|78
+Wilmer Font|R|Gary Sanchez|R|Strikeout|C|Sinker|20|0|0|0|5|94
+Wilmer Font|R|Gary Sanchez|R|Strikeout|S|Curveball|21|0|1|0|13|76
+Wilmer Font|R|Gary Sanchez|R|Strikeout|S|Four-Seam Fastball|22|0|2|0|12|96
+Wilmer Font|R|Gio Urshela|R|Strikeout|B|Four-Seam Fastball|23|0|0|1|12|95
+Wilmer Font|R|Gio Urshela|R|Strikeout|S|Four-Seam Fastball|24|1|0|1|6|95
+Wilmer Font|R|Gio Urshela|R|Strikeout|F|Four-Seam Fastball|25|1|1|1|1|97
+Wilmer Font|R|Gio Urshela|R|Strikeout|C|Four-Seam Fastball|26|1|2|1|14|96
+Wilmer Font|R|Brett Gardner|L|Pop Out|B|Curveball|27|0|0|2|14|78
+Wilmer Font|R|Brett Gardner|L|Pop Out|C|Four-Seam Fastball|28|1|0|2|12|95
+Wilmer Font|R|Brett Gardner|L|Pop Out|B|Splitter|29|1|1|2|14|84
+Wilmer Font|R|Brett Gardner|L|Pop Out|F|Four-Seam Fastball|30|2|1|2|6|95
+Wilmer Font|R|Brett Gardner|L|Pop Out|F|Curveball|31|2|2|2|11|77
+Wilmer Font|R|Brett Gardner|L|Pop Out|F|Four-Seam Fastball|32|2|2|2|11|95
+Wilmer Font|R|Brett Gardner|L|Pop Out|B|Splitter|33|2|2|2|11|81
+Wilmer Font|R|Brett Gardner|L|Pop Out|F|Four-Seam Fastball|34|3|2|2|3|94
+Wilmer Font|R|Brett Gardner|L|Pop Out|F|Curveball|35|3|2|2|6|76
+Wilmer Font|R|Brett Gardner|L|Pop Out|X|Sinker|36|3|2|2|11|93
+Wilmer Font|R|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|94
+Wilmer Font|R|Shin-Soo Choo|L|Walk|B|Splitter|1|1|0|0|14|83
+Wilmer Font|R|Shin-Soo Choo|L|Walk|C|Four-Seam Fastball|2|2|0|0|7|93
+Wilmer Font|R|Shin-Soo Choo|L|Walk|F|Four-Seam Fastball|3|2|1|0|8|96
+Wilmer Font|R|Shin-Soo Choo|L|Walk|F|Four-Seam Fastball|4|2|2|0|2|96
+Wilmer Font|R|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|5|2|2|0|12|96
+Wilmer Font|R|Shin-Soo Choo|L|Walk|*B|Curveball|6|3|2|0|14|75
+Wilmer Font|R|Danny Santana|L|Double|B|Four-Seam Fastball|7|0|0|0|13|94
+Wilmer Font|R|Danny Santana|L|Double|B|Four-Seam Fastball|8|1|0|0|13|92
+Wilmer Font|R|Danny Santana|L|Double|F|Four-Seam Fastball|9|2|0|0|7|93
+Wilmer Font|R|Danny Santana|L|Double|F|Four-Seam Fastball|10|2|1|0|7|93
+Wilmer Font|R|Danny Santana|L|Double|D|Four-Seam Fastball|11|2|2|0|11|94
+Wilmer Font|R|Elvis Andrus|R|Pop Out|F|Four-Seam Fastball|12|0|0|0|12|95
+Wilmer Font|R|Elvis Andrus|R|Pop Out|X|Curveball|13|0|1|0|14|77
+Wilmer Font|R|Willie Calhoun|L|Walk|B|Splitter|14|0|0|1|11|84
+Wilmer Font|R|Willie Calhoun|L|Walk|B|Splitter|15|1|0|1|13|84
+Wilmer Font|R|Willie Calhoun|L|Walk|F|Four-Seam Fastball|16|2|0|1|11|95
+Wilmer Font|R|Willie Calhoun|L|Walk|B|Four-Seam Fastball|17|2|1|1|12|95
+Wilmer Font|R|Willie Calhoun|L|Walk|B|Curveball|18|3|1|1|11|77
+Wilmer Font|R|Hunter Pence|R|Pop Out|B|Curveball|19|0|0|1|14|77
+Wilmer Font|R|Hunter Pence|R|Pop Out|C|Four-Seam Fastball|20|1|0|1|7|94
+Wilmer Font|R|Hunter Pence|R|Pop Out|X|Four-Seam Fastball|21|1|1|1|11|94
+Wilmer Font|R|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|22|0|0|2|8|94
+Wilmer Font|R|Rougned Odor|L|Strikeout|T|Four-Seam Fastball|23|0|1|2|2|95
+Wilmer Font|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|24|0|2|2|12|96
+Wilmer Font|R|Rougned Odor|L|Strikeout|S|Curveball|25|1|2|2|12|78
+Wilmer Font|R|Logan Forsythe|R|Pop Out|B|Four-Seam Fastball|26|0|0|0|14|93
+Wilmer Font|R|Logan Forsythe|R|Pop Out|B|Four-Seam Fastball|27|1|0|0|14|93
+Wilmer Font|R|Logan Forsythe|R|Pop Out|F|Four-Seam Fastball|28|2|0|0|5|91
+Wilmer Font|R|Logan Forsythe|R|Pop Out|X|Four-Seam Fastball|29|2|1|0|4|93
+Wilmer Font|R|Delino DeShields|R|Pop Out|B|Curveball|30|0|0|1|14|75
+Wilmer Font|R|Delino DeShields|R|Pop Out|F|Four-Seam Fastball|31|1|0|1|13|94
+Wilmer Font|R|Delino DeShields|R|Pop Out|B|Slider|32|1|1|1|14|82
+Wilmer Font|R|Delino DeShields|R|Pop Out|X|Four-Seam Fastball|33|2|1|1|2|93
+Wilmer Font|R|Jeff Mathis|R|Strikeout|B|Four-Seam Fastball|34|0|0|2|12|94
+Wilmer Font|R|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|35|1|0|2|7|93
+Wilmer Font|R|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|36|1|1|2|4|94
+Wilmer Font|R|Jeff Mathis|R|Strikeout|B|Four-Seam Fastball|37|1|2|2|11|95
+Wilmer Font|R|Jeff Mathis|R|Strikeout|S|Four-Seam Fastball|38|2|2|2|5|95
+Wilmer Font|R|Tim Lopes|R|Single|F|Four-Seam Fastball|0|0|0|0|5|94
+Wilmer Font|R|Tim Lopes|R|Single|B|Curveball|1|0|1|0|14|77
+Wilmer Font|R|Tim Lopes|R|Single|D|Curveball|2|1|1|0|1|75
+Wilmer Font|R|Dee Gordon|L|Pop Out|F|Four-Seam Fastball|3|0|0|0|4|92
+Wilmer Font|R|Dee Gordon|L|Pop Out|S|Four-Seam Fastball|4|0|1|0|5|94
+Wilmer Font|R|Dee Gordon|L|Pop Out|B|Four-Seam Fastball|5|0|2|0|12|95
+Wilmer Font|R|Dee Gordon|L|Pop Out|B|Four-Seam Fastball|6|1|2|0|11|94
+Wilmer Font|R|Dee Gordon|L|Pop Out|F|Four-Seam Fastball|7|2|2|0|11|94
+Wilmer Font|R|Dee Gordon|L|Pop Out|X|Curveball|8|2|2|0|8|76
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|F|Four-Seam Fastball|9|0|0|1|11|92
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|F|Four-Seam Fastball|10|0|1|1|8|94
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|F|Four-Seam Fastball|11|0|2|1|2|95
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|F|Four-Seam Fastball|12|0|2|1|12|93
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|B|Curveball|13|0|2|1|14|78
+Wilmer Font|R|Austin Nola|R|Grounded Into DP|X|Four-Seam Fastball|14|1|2|1|6|94
+Wilmer Font|R|Kyle Seager|L|Home Run|B|Sinker|15|0|0|0|11|93
+Wilmer Font|R|Kyle Seager|L|Home Run|B|Curveball|16|1|0|0|14|75
+Wilmer Font|R|Kyle Seager|L|Home Run|B|Four-Seam Fastball|17|2|0|0|11|94
+Wilmer Font|R|Kyle Seager|L|Home Run|F|Four-Seam Fastball|18|3|0|0|9|92
+Wilmer Font|R|Kyle Seager|L|Home Run|C|Curveball|19|3|1|0|8|75
+Wilmer Font|R|Kyle Seager|L|Home Run|E|Sinker|20|3|2|0|5|94
+Wilmer Font|R|Domingo Santana|R|Strikeout|C|Curveball|21|0|0|0|1|76
+Wilmer Font|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|22|0|1|0|11|95
+Wilmer Font|R|Domingo Santana|R|Strikeout|S|Four-Seam Fastball|23|1|1|0|2|94
+Wilmer Font|R|Domingo Santana|R|Strikeout|F|Four-Seam Fastball|24|1|2|0|11|94
+Wilmer Font|R|Domingo Santana|R|Strikeout|S|Curveball|25|1|2|0|6|77
+Wilmer Font|R|Daniel Vogelbach|L|Strikeout|B|Sinker|26|0|0|1|13|94
+Wilmer Font|R|Daniel Vogelbach|L|Strikeout|C|Curveball|27|1|0|1|2|76
+Wilmer Font|R|Daniel Vogelbach|L|Strikeout|F|Slider|28|1|1|1|1|83
+Wilmer Font|R|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|29|1|2|1|5|96
+Wilmer Font|R|Tom Murphy|R|Double|C|Curveball|30|0|0|2|1|75
+Wilmer Font|R|Tom Murphy|R|Double|B|Four-Seam Fastball|31|0|1|2|11|94
+Wilmer Font|R|Tom Murphy|R|Double|F|Four-Seam Fastball|32|1|1|2|11|93
+Wilmer Font|R|Tom Murphy|R|Double|D|Four-Seam Fastball|33|1|2|2|2|97
+Wilmer Font|R|Keon Broxton|R|Strikeout|C|Four-Seam Fastball|34|0|0|2|9|94
+Wilmer Font|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|35|0|1|2|14|95
+Wilmer Font|R|Keon Broxton|R|Strikeout|F|Curveball|36|1|1|2|5|75
+Wilmer Font|R|Keon Broxton|R|Strikeout|B|Four-Seam Fastball|37|1|2|2|11|95
+Wilmer Font|R|Keon Broxton|R|Strikeout|F|Curveball|38|2|2|2|14|77
+Wilmer Font|R|Keon Broxton|R|Strikeout|S|Four-Seam Fastball|39|2|2|2|11|96
+Wilmer Font|R|Ronald Acuna Jr.|R|Double|D|Four-Seam Fastball|0|0|0|0|5|92
+Wilmer Font|R|Ozzie Albies|L|Strikeout|S|Four-Seam Fastball|1|0|0|0|11|92
+Wilmer Font|R|Ozzie Albies|L|Strikeout|F|Sinker|2|0|1|0|11|93
+Wilmer Font|R|Ozzie Albies|L|Strikeout|B|Sinker|3|0|2|0|11|94
+Wilmer Font|R|Ozzie Albies|L|Strikeout|F|Four-Seam Fastball|4|1|2|0|12|94
+Wilmer Font|R|Ozzie Albies|L|Strikeout|S|Curveball|5|1|2|0|3|76
+Wilmer Font|R|Freddie Freeman|L|Groundout|F|Four-Seam Fastball|6|0|0|1|5|94
+Wilmer Font|R|Freddie Freeman|L|Groundout|B|Splitter|7|0|1|1|13|83
+Wilmer Font|R|Freddie Freeman|L|Groundout|*B|Splitter|8|1|1|1|14|84
+Wilmer Font|R|Freddie Freeman|L|Groundout|F|Sinker|9|2|1|1|11|92
+Wilmer Font|R|Freddie Freeman|L|Groundout|B|Curveball|10|2|2|1|14|78
+Wilmer Font|R|Freddie Freeman|L|Groundout|X|Slider|11|3|2|1|8|83
+Wilmer Font|R|Josh Donaldson|R|Flyout|B|Four-Seam Fastball|12|0|0|2|11|92
+Wilmer Font|R|Josh Donaldson|R|Flyout|B|Curveball|13|1|0|2|11|76
+Wilmer Font|R|Josh Donaldson|R|Flyout|X|Four-Seam Fastball|14|2|0|2|5|93
+Wilmer Font|R|Matt Joyce|L|Strikeout|C|Sinker|15|0|0|0|5|92
+Wilmer Font|R|Matt Joyce|L|Strikeout|C|Four-Seam Fastball|16|0|1|0|8|94
+Wilmer Font|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|17|0|2|0|11|96
+Wilmer Font|R|Matt Joyce|L|Strikeout|F|Sinker|18|1|2|0|11|95
+Wilmer Font|R|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|19|1|2|0|12|94
+Wilmer Font|R|Matt Joyce|L|Strikeout|F|Four-Seam Fastball|20|2|2|0|11|95
+Wilmer Font|R|Matt Joyce|L|Strikeout|S|Splitter|21|2|2|0|12|83
+Wilmer Font|R|Dansby Swanson|R|Strikeout|C|Curveball|22|0|0|1|3|74
+Wilmer Font|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|23|0|1|1|6|95
+Wilmer Font|R|Dansby Swanson|R|Strikeout|B|Slider|24|0|2|1|14|86
+Wilmer Font|R|Dansby Swanson|R|Strikeout|T|Four-Seam Fastball|25|1|2|1|11|94
+Wilmer Font|R|Rafael Ortega|L|Strikeout|C|Curveball|26|0|0|2|6|74
+Wilmer Font|R|Rafael Ortega|L|Strikeout|S|Splitter|27|0|1|2|4|84
+Wilmer Font|R|Rafael Ortega|L|Strikeout|B|Sinker|28|0|2|2|11|94
+Wilmer Font|R|Rafael Ortega|L|Strikeout|T|Four-Seam Fastball|29|1|2|2|12|95
+Wilmer Font|R|Jose Altuve|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|93
+Wilmer Font|R|Jose Altuve|R|Groundout|B|Sinker|1|1|0|0|13|92
+Wilmer Font|R|Jose Altuve|R|Groundout|F|Four-Seam Fastball|2|2|0|0|4|93
+Wilmer Font|R|Jose Altuve|R|Groundout|S|Slider|3|2|1|0|14|84
+Wilmer Font|R|Jose Altuve|R|Groundout|F|Slider|4|2|2|0|3|82
+Wilmer Font|R|Jose Altuve|R|Groundout|B|Four-Seam Fastball|5|2|2|0|11|95
+Wilmer Font|R|Jose Altuve|R|Groundout|F|Slider|6|3|2|0|7|82
+Wilmer Font|R|Jose Altuve|R|Groundout|X|Four-Seam Fastball|7|3|2|0|2|94
+Wilmer Font|R|Michael Brantley|L|Strikeout|B|Curveball|8|0|0|1|14|75
+Wilmer Font|R|Michael Brantley|L|Strikeout|C|Curveball|9|1|0|1|8|73
+Wilmer Font|R|Michael Brantley|L|Strikeout|T|Sinker|10|1|1|1|11|94
+Wilmer Font|R|Michael Brantley|L|Strikeout|W|Splitter|11|1|2|1|13|83
+Wilmer Font|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|12|0|0|2|14|94
+Wilmer Font|R|Alex Bregman|R|Walk|B|Slider|13|1|0|2|14|83
+Wilmer Font|R|Alex Bregman|R|Walk|F|Four-Seam Fastball|14|2|0|2|3|94
+Wilmer Font|R|Alex Bregman|R|Walk|F|Four-Seam Fastball|15|2|1|2|6|95
+Wilmer Font|R|Alex Bregman|R|Walk|B|Splitter|16|2|2|2|14|85
+Wilmer Font|R|Alex Bregman|R|Walk|F|Four-Seam Fastball|17|3|2|2|12|95
+Wilmer Font|R|Alex Bregman|R|Walk|*B|Curveball|18|3|2|2|14|76
+Wilmer Font|R|Yordan Alvarez|L|Strikeout|F|Sinker|19|0|0|2|7|92
+Wilmer Font|R|Yordan Alvarez|L|Strikeout|C|Four-Seam Fastball|20|0|1|2|4|93
+Wilmer Font|R|Yordan Alvarez|L|Strikeout|B|Sinker|21|0|2|2|11|94
+Wilmer Font|R|Yordan Alvarez|L|Strikeout|S|Sinker|22|1|2|2|11|93
+Wilmer Font|R|Aledmys Diaz|R|Double|C|Four-Seam Fastball|23|0|0|0|6|94
+Wilmer Font|R|Aledmys Diaz|R|Double|D|Curveball|24|0|1|0|14|76
+Wilmer Font|R|Abraham Toro|L|Strikeout|C|Four-Seam Fastball|25|0|0|0|5|93
+Wilmer Font|R|Abraham Toro|L|Strikeout|B|Sinker|26|0|1|0|11|94
+Wilmer Font|R|Abraham Toro|L|Strikeout|F|Splitter|27|1|1|0|13|83
+Wilmer Font|R|Abraham Toro|L|Strikeout|S|Sinker|28|1|2|0|11|95
+Wilmer Font|R|Josh Reddick|L|Groundout|F|Sinker|29|0|0|1|13|93
+Wilmer Font|R|Josh Reddick|L|Groundout|B|Splitter|30|0|1|1|14|84
+Wilmer Font|R|Josh Reddick|L|Groundout|F|Four-Seam Fastball|31|1|1|1|11|94
+Wilmer Font|R|Josh Reddick|L|Groundout|F|Slider|32|1|2|1|14|85
+Wilmer Font|R|Josh Reddick|L|Groundout|F|Sinker|33|1|2|1|11|95
+Wilmer Font|R|Josh Reddick|L|Groundout|F|Four-Seam Fastball|34|1|2|1|4|96
+Wilmer Font|R|Josh Reddick|L|Groundout|X|Splitter|35|1|2|1|14|84
+Wilmer Font|R|Robinson Chirinos|R|Flyout|C|Four-Seam Fastball|36|0|0|2|8|95
+Wilmer Font|R|Robinson Chirinos|R|Flyout|S|Four-Seam Fastball|37|0|1|2|2|95
+Wilmer Font|R|Robinson Chirinos|R|Flyout|X|Four-Seam Fastball|38|0|2|2|2|96
+Wilmer Font|R|Brock Holt|L|Flyout|X|Sinker|0|0|0|0|11|93
+Wilmer Font|R|Xander Bogaerts|R|Groundout|C|Four-Seam Fastball|1|0|0|1|3|94
+Wilmer Font|R|Xander Bogaerts|R|Groundout|F|Four-Seam Fastball|2|0|1|1|12|96
+Wilmer Font|R|Xander Bogaerts|R|Groundout|X|Curveball|3|0|2|1|14|78
+Wilmer Font|R|Rafael Devers|L|Single|D|Sinker|4|0|0|2|5|93
+Wilmer Font|R|J.D. Martinez|R|Flyout|*B|Curveball|5|0|0|2|14|75
+Wilmer Font|R|J.D. Martinez|R|Flyout|B|Sinker|6|1|0|2|11|92
+Wilmer Font|R|J.D. Martinez|R|Flyout|F|Four-Seam Fastball|7|2|0|2|9|93
+Wilmer Font|R|J.D. Martinez|R|Flyout|X|Four-Seam Fastball|8|2|1|2|9|94
+Wilmer Font|R|Mitch Moreland|L|Strikeout|C|Curveball|9|0|0|0|4|76
+Wilmer Font|R|Mitch Moreland|L|Strikeout|F|Four-Seam Fastball|10|0|1|0|11|95
+Wilmer Font|R|Mitch Moreland|L|Strikeout|B|Sinker|11|0|2|0|11|95
+Wilmer Font|R|Mitch Moreland|L|Strikeout|B|Four-Seam Fastball|12|1|2|0|11|95
+Wilmer Font|R|Mitch Moreland|L|Strikeout|F|Splitter|13|2|2|0|11|85
+Wilmer Font|R|Mitch Moreland|L|Strikeout|S|Sinker|14|2|2|0|11|95
+Wilmer Font|R|Andrew Benintendi|L|Pop Out|S|Sinker|15|0|0|1|13|93
+Wilmer Font|R|Andrew Benintendi|L|Pop Out|X|Four-Seam Fastball|16|0|1|1|12|95
+Wilmer Font|R|Christian Vazquez|R|Field Error|C|Curveball|17|0|0|2|3|78
+Wilmer Font|R|Christian Vazquez|R|Field Error|F|Four-Seam Fastball|18|0|1|2|5|95
+Wilmer Font|R|Christian Vazquez|R|Field Error|D|Four-Seam Fastball|19|0|2|2|6|95
+Wilmer Font|R|Jackie Bradley Jr.|L|Strikeout|C|Sinker|20|0|0|2|1|93
+Wilmer Font|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|21|0|1|2|2|94
+Wilmer Font|R|Jackie Bradley Jr.|L|Strikeout|S|Sinker|22|0|2|2|5|93
+Wilmer Font|R|Clint Frazier|R|Strikeout|C|Curveball|0|0|0|2|6|74
+Wilmer Font|R|Clint Frazier|R|Strikeout|F|Four-Seam Fastball|1|0|1|2|5|94
+Wilmer Font|R|Clint Frazier|R|Strikeout|S|Four-Seam Fastball|2|0|2|2|5|95
+Wilmer Font|R|Austin Romine|R|Strikeout|F|Four-Seam Fastball|3|0|0|0|7|94
+Wilmer Font|R|Austin Romine|R|Strikeout|C|Four-Seam Fastball|4|0|1|0|13|95
+Wilmer Font|R|Austin Romine|R|Strikeout|B|Four-Seam Fastball|5|0|2|0|11|96
+Wilmer Font|R|Austin Romine|R|Strikeout|F|Splitter|6|1|2|0|4|83
+Wilmer Font|R|Austin Romine|R|Strikeout|T|Four-Seam Fastball|7|1|2|0|11|94
+Wilmer Font|R|DJ LeMahieu|R|Lineout|F|Curveball|8|0|0|1|4|76
+Wilmer Font|R|DJ LeMahieu|R|Lineout|C|Four-Seam Fastball|9|0|1|1|8|94
+Wilmer Font|R|DJ LeMahieu|R|Lineout|F|Four-Seam Fastball|10|0|2|1|11|96
+Wilmer Font|R|DJ LeMahieu|R|Lineout|B|Four-Seam Fastball|11|0|2|1|13|94
+Wilmer Font|R|DJ LeMahieu|R|Lineout|X|Four-Seam Fastball|12|1|2|1|11|94
+Wilmer Font|R|Gleyber Torres|R|Groundout|B|Splitter|13|0|0|2|14|81
+Wilmer Font|R|Gleyber Torres|R|Groundout|X|Four-Seam Fastball|14|1|0|2|3|94
+Wilmer Font|R|Aaron Judge|R|Strikeout|C|Curveball|15|0|0|0|1|76
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Slider|16|0|1|0|14|85
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Four-Seam Fastball|17|1|1|0|13|94
+Wilmer Font|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|18|2|1|0|9|95
+Wilmer Font|R|Aaron Judge|R|Strikeout|F|Four-Seam Fastball|19|2|2|0|6|95
+Wilmer Font|R|Aaron Judge|R|Strikeout|F|Sinker|20|2|2|0|11|93
+Wilmer Font|R|Aaron Judge|R|Strikeout|B|Curveball|21|2|2|0|12|76
+Wilmer Font|R|Aaron Judge|R|Strikeout|S|Curveball|22|3|2|0|14|74
+Wilmer Font|R|Gio Urshela|R|Groundout|S|Four-Seam Fastball|23|0|0|1|2|94
+Wilmer Font|R|Gio Urshela|R|Groundout|F|Four-Seam Fastball|24|0|1|1|6|94
+Wilmer Font|R|Gio Urshela|R|Groundout|X|Splitter|25|0|2|1|9|83
+Wilmer Font|R|DJ LeMahieu|R|Lineout|B|Slider|0|0|0|0|14|82
+Wilmer Font|R|DJ LeMahieu|R|Lineout|C|Sinker|1|1|0|0|8|94
+Wilmer Font|R|DJ LeMahieu|R|Lineout|X|Sinker|2|1|1|0|13|93
+Wilmer Font|R|Aaron Judge|R|Home Run|F|Four-Seam Fastball|3|0|0|1|3|95
+Wilmer Font|R|Aaron Judge|R|Home Run|S|Slider|4|0|1|1|3|85
+Wilmer Font|R|Aaron Judge|R|Home Run|E|Four-Seam Fastball|5|0|2|1|5|95
+Wilmer Font|R|Didi Gregorius|L|Strikeout|C|Sinker|6|0|0|1|9|91
+Wilmer Font|R|Didi Gregorius|L|Strikeout|C|Four-Seam Fastball|7|0|1|1|3|93
+Wilmer Font|R|Didi Gregorius|L|Strikeout|S|Four-Seam Fastball|8|0|2|1|4|95
+Wilmer Font|R|Gleyber Torres|R|Flyout|C|Curveball|9|0|0|2|3|77
+Wilmer Font|R|Gleyber Torres|R|Flyout|S|Four-Seam Fastball|10|0|1|2|11|95
+Wilmer Font|R|Gleyber Torres|R|Flyout|B|Four-Seam Fastball|11|0|2|2|11|94
+Wilmer Font|R|Gleyber Torres|R|Flyout|B|Splitter|12|1|2|2|14|84
+Wilmer Font|R|Gleyber Torres|R|Flyout|X|Four-Seam Fastball|13|2|2|2|1|94
+Wilmer Font|R|Dwight Smith Jr|L|Home Run|B|Curveball|0|0|0|0|14|75
+Wilmer Font|R|Dwight Smith Jr|L|Home Run|C|Curveball|1|1|0|0|4|73
+Wilmer Font|R|Dwight Smith Jr|L|Home Run|B|Slider|2|1|1|0|12|80
+Wilmer Font|R|Dwight Smith Jr|L|Home Run|E|Four-Seam Fastball|3|2|1|0|8|93
+Wilmer Font|R|DJ Stewart|L|Flyout|S|Splitter|4|0|0|0|9|82
+Wilmer Font|R|DJ Stewart|L|Flyout|B|Four-Seam Fastball|5|0|1|0|11|93
+Wilmer Font|R|DJ Stewart|L|Flyout|X|Curveball|6|1|1|0|8|76
+Wilmer Font|R|Stevie Wilkerson|L|Strikeout|B|Splitter|7|0|0|1|11|81
+Wilmer Font|R|Stevie Wilkerson|L|Strikeout|S|Four-Seam Fastball|8|1|0|1|2|94
+Wilmer Font|R|Stevie Wilkerson|L|Strikeout|B|Splitter|9|1|1|1|13|81
+Wilmer Font|R|Stevie Wilkerson|L|Strikeout|F|Four-Seam Fastball|10|2|1|1|5|93
+Wilmer Font|R|Stevie Wilkerson|L|Strikeout|W|Curveball|11|2|2|1|14|77
+Wilmer Font|R|Austin Wynns|R|Home Run|C|Slider|12|0|0|2|6|82
+Wilmer Font|R|Austin Wynns|R|Home Run|E|Four-Seam Fastball|13|0|1|2|5|95
+Wilmer Font|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|14|0|0|2|12|94
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|15|0|1|2|12|94
+Wilmer Font|R|Jonathan Villar|L|Strikeout|B|Splitter|16|1|1|2|14|83
+Wilmer Font|R|Jonathan Villar|L|Strikeout|C|Curveball|17|2|1|2|5|76
+Wilmer Font|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|18|2|2|2|12|95
+Wilmer Font|R|Austin Hays|R|Lineout|C|Curveball|19|0|0|0|6|76
+Wilmer Font|R|Austin Hays|R|Lineout|F|Splitter|20|0|1|0|11|81
+Wilmer Font|R|Austin Hays|R|Lineout|X|Four-Seam Fastball|21|0|2|0|12|94
+Wilmer Font|R|Trey Mancini|R|Single|B|Four-Seam Fastball|22|0|0|1|11|93
+Wilmer Font|R|Trey Mancini|R|Single|B|Splitter|23|1|0|1|14|85
+Wilmer Font|R|Trey Mancini|R|Single|C|Curveball|24|2|0|1|2|76
+Wilmer Font|R|Trey Mancini|R|Single|C|Curveball|25|2|1|1|11|76
+Wilmer Font|R|Trey Mancini|R|Single|D|Slider|26|2|2|1|3|83
+Wilmer Font|R|Renato Nunez|R|Flyout|X|Sinker|27|0|0|1|6|93
+Wilmer Font|R|Rio Ruiz|L|Strikeout|S|Four-Seam Fastball|28|0|0|2|11|94
+Wilmer Font|R|Rio Ruiz|L|Strikeout|B|Sinker|29|0|1|2|11|95
+Wilmer Font|R|Rio Ruiz|L|Strikeout|C|Sinker|30|1|1|2|6|94
+Wilmer Font|R|Rio Ruiz|L|Strikeout|S|Slider|31|1|2|2|12|85
+Wilmer Font|R|DJ Stewart|L|Walk|B|Curveball|0|0|0|2|11|73
+Wilmer Font|R|DJ Stewart|L|Walk|*B|Curveball|1|1|0|2|13|72
+Wilmer Font|R|DJ Stewart|L|Walk|B|Four-Seam Fastball|2|2|0|2|13|92
+Wilmer Font|R|DJ Stewart|L|Walk|B|Four-Seam Fastball|3|3|0|2|14|90
+Wilmer Font|R|Chris Davis|L|Flyout|B|Curveball|4|0|0|2|14|73
+Wilmer Font|R|Chris Davis|L|Flyout|B|Four-Seam Fastball|5|1|0|2|13|92
+Wilmer Font|R|Chris Davis|L|Flyout|C|Four-Seam Fastball|6|2|0|2|11|93
+Wilmer Font|R|Chris Davis|L|Flyout|F|Four-Seam Fastball|7|2|1|2|13|92
+Wilmer Font|R|Chris Davis|L|Flyout|B|Splitter|8|2|2|2|11|81
+Wilmer Font|R|Chris Davis|L|Flyout|X|Four-Seam Fastball|9|3|2|2|2|91
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|B|Curveball|0|0|0|0|11|73
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|94
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|F|Slider|2|1|1|0|8|84
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|12|94
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|F|Slider|4|1|2|0|11|83
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|B|Curveball|5|1|2|0|14|75
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|11|94
+Wilmer Font|R|Jesus Aguilar|R|Strikeout|S|Curveball|7|3|2|0|7|71
+Wilmer Font|R|Guillermo Heredia|R|Flyout|B|Curveball|8|0|0|1|13|74
+Wilmer Font|R|Guillermo Heredia|R|Flyout|B|Splitter|9|1|0|1|11|80
+Wilmer Font|R|Guillermo Heredia|R|Flyout|X|Four-Seam Fastball|10|2|0|1|2|93
+Wilmer Font|R|Michael Brosseau|R|Strikeout|S|Four-Seam Fastball|11|0|0|2|1|93
+Wilmer Font|R|Michael Brosseau|R|Strikeout|B|Curveball|12|0|1|2|13|74
+Wilmer Font|R|Michael Brosseau|R|Strikeout|C|Slider|13|1|1|2|2|82
+Wilmer Font|R|Michael Brosseau|R|Strikeout|B|Four-Seam Fastball|14|1|2|2|14|96
+Wilmer Font|R|Michael Brosseau|R|Strikeout|F|Four-Seam Fastball|15|2|2|2|6|94
+Wilmer Font|R|Michael Brosseau|R|Strikeout|S|Four-Seam Fastball|16|2|2|2|12|94
+Wilmer Font|R|Daniel Robertson|R|Single|C|Curveball|17|0|0|0|11|73
+Wilmer Font|R|Daniel Robertson|R|Single|S|Sinker|18|0|1|0|11|92
+Wilmer Font|R|Daniel Robertson|R|Single|B|Four-Seam Fastball|19|0|2|0|12|95
+Wilmer Font|R|Daniel Robertson|R|Single|F|Four-Seam Fastball|20|1|2|0|11|95
+Wilmer Font|R|Daniel Robertson|R|Single|F|Curveball|21|1|2|0|5|77
+Wilmer Font|R|Daniel Robertson|R|Single|B|Four-Seam Fastball|22|1|2|0|11|95
+Wilmer Font|R|Daniel Robertson|R|Single|D|Four-Seam Fastball|23|2|2|0|1|94
+Wilmer Font|R|Matt Duffy|R|Groundout|F|Four-Seam Fastball|24|0|0|0|11|91
+Wilmer Font|R|Matt Duffy|R|Groundout|B|Splitter|25|0|1|0|11|81
+Wilmer Font|R|Matt Duffy|R|Groundout|B|Four-Seam Fastball|26|1|1|0|11|93
+Wilmer Font|R|Matt Duffy|R|Groundout|C|Four-Seam Fastball|27|2|1|0|12|92
+Wilmer Font|R|Matt Duffy|R|Groundout|X|Curveball|28|2|2|0|9|74
+Wilmer Font|R|Mike Zunino|R|Groundout|X|Curveball|29|0|0|1|5|74
+Wilmer Font|R|Johnny Davis|L|Strikeout|S|Splitter|30|0|0|2|14|81
+Wilmer Font|R|Johnny Davis|L|Strikeout|B|Four-Seam Fastball|31|0|1|2|11|94
+Wilmer Font|R|Johnny Davis|L|Strikeout|F|Four-Seam Fastball|32|1|1|2|1|94
+Wilmer Font|R|Johnny Davis|L|Strikeout|W|Splitter|33|1|2|2|14|82
+Wilmer Font|R|Jay Bruce|L|Groundout|F|Four-Seam Fastball|0|0|0|1|11|93
+Wilmer Font|R|Jay Bruce|L|Groundout|B|Splitter|1|0|1|1|11|84
+Wilmer Font|R|Jay Bruce|L|Groundout|S|Splitter|2|1|1|1|11|86
+Wilmer Font|R|Jay Bruce|L|Groundout|E|Four-Seam Fastball|3|1|2|1|2|94
+Wilmer Font|R|Cesar Hernandez|L|Single|F|Curveball|4|0|0|2|12|77
+Wilmer Font|R|Cesar Hernandez|L|Single|E|Splitter|5|0|1|2|11|85
+Wilmer Font|R|Maikel Franco|R|Home Run|B|Four-Seam Fastball|6|0|0|2|12|94
+Wilmer Font|R|Maikel Franco|R|Home Run|B|Slider|7|1|0|2|12|84
+Wilmer Font|R|Maikel Franco|R|Home Run|S|Four-Seam Fastball|8|2|0|2|6|94
+Wilmer Font|R|Maikel Franco|R|Home Run|E|Four-Seam Fastball|9|2|1|2|3|95
+Wilmer Font|R|Brad Miller|L|Home Run|B|Sinker|10|0|0|2|11|91
+Wilmer Font|R|Brad Miller|L|Home Run|C|Splitter|11|1|0|2|13|84
+Wilmer Font|R|Brad Miller|L|Home Run|B|Sinker|12|1|1|2|11|93
+Wilmer Font|R|Brad Miller|L|Home Run|B|Curveball|13|2|1|2|14|75
+Wilmer Font|R|Brad Miller|L|Home Run|C|Four-Seam Fastball|14|3|1|2|11|95
+Wilmer Font|R|Brad Miller|L|Home Run|E|Curveball|15|3|2|2|8|77
+Wilmer Font|R|Scott Kingery|R|Hit By Pitch|C|Curveball|16|0|0|2|2|77
+Wilmer Font|R|Scott Kingery|R|Hit By Pitch|B|Slider|17|0|1|2|11|84
+Wilmer Font|R|Scott Kingery|R|Hit By Pitch|H|Four-Seam Fastball|18|1|1|2|11|94
+Wilmer Font|R|Ronald Acuna Jr.|R|Triple|D|Four-Seam Fastball|0|0|0|0|9|94
+Wilmer Font|R|Ozzie Albies|L|Single|F|Four-Seam Fastball|1|0|0|0|2|93
+Wilmer Font|R|Ozzie Albies|L|Single|B|Sinker|2|0|1|0|13|94
+Wilmer Font|R|Ozzie Albies|L|Single|S|Splitter|3|1|1|0|14|86
+Wilmer Font|R|Ozzie Albies|L|Single|B|Sinker|4|1|2|0|11|96
+Wilmer Font|R|Ozzie Albies|L|Single|F|Four-Seam Fastball|5|2|2|0|1|96
+Wilmer Font|R|Ozzie Albies|L|Single|B|Four-Seam Fastball|6|2|2|0|12|94
+Wilmer Font|R|Ozzie Albies|L|Single|F|Curveball|7|3|2|0|5|75
+Wilmer Font|R|Ozzie Albies|L|Single|E|Splitter|8|3|2|0|13|83
+Wilmer Font|R|Freddie Freeman|L|Double|B|Splitter|9|0|0|0|14|81
+Wilmer Font|R|Freddie Freeman|L|Double|D|Sinker|10|1|0|0|13|91
+Wilmer Font|R|Josh Donaldson|R|Single|F|Four-Seam Fastball|11|0|0|0|2|94
+Wilmer Font|R|Josh Donaldson|R|Single|F|Four-Seam Fastball|12|0|1|0|11|95
+Wilmer Font|R|Josh Donaldson|R|Single|E|Sinker|13|0|2|0|11|95
+Wilmer Font|R|Matt Joyce|L|Double Play|F|Four-Seam Fastball|14|0|0|0|11|93
+Wilmer Font|R|Matt Joyce|L|Double Play|X|Splitter|15|0|1|0|2|82
+Wilmer Font|R|Dansby Swanson|R|Strikeout|C|Curveball|16|0|0|2|9|77
+Wilmer Font|R|Dansby Swanson|R|Strikeout|F|Curveball|17|0|1|2|9|77
+Wilmer Font|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|18|0|2|2|1|95
+Wilmer Font|R|Jose Abreu|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|95
+Wilmer Font|R|Jose Abreu|R|Groundout|C|Sinker|1|1|0|0|13|94
+Wilmer Font|R|Jose Abreu|R|Groundout|X|Slider|2|1|1|0|9|86
+Wilmer Font|R|Yonder Alonso|L|Flyout|F|Four-Seam Fastball|3|0|0|1|2|95
+Wilmer Font|R|Yonder Alonso|L|Flyout|B|Splitter|4|0|1|1|13|88
+Wilmer Font|R|Yonder Alonso|L|Flyout|F|Four-Seam Fastball|5|1|1|1|6|96
+Wilmer Font|R|Yonder Alonso|L|Flyout|X|Slider|6|1|2|1|6|90
+Wilmer Font|R|Tim Anderson|R|Single|S|Curveball|7|0|0|2|14|78
+Wilmer Font|R|Tim Anderson|R|Single|F|Sinker|8|0|1|2|7|96
+Wilmer Font|R|Tim Anderson|R|Single|D|Slider|9|0|2|2|14|88
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|C|Four-Seam Fastball|10|0|0|2|6|94
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Sinker|11|0|1|2|4|96
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Four-Seam Fastball|12|0|2|2|12|95
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|B|Curveball|13|0|2|2|14|78
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|B|Slider|14|1|2|2|14|89
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Slider|15|2|2|2|11|85
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Sinker|16|2|2|2|11|94
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Sinker|17|2|2|2|11|95
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|F|Four-Seam Fastball|18|2|2|2|11|96
+Wilmer Font|R|Welington Castillo|R|Fielders Choice Out|X|Sinker|19|2|2|2|11|95
+Wilmer Font|R|Eloy Jimenez|R|Lineout|B|Curveball|20|0|0|0|14|77
+Wilmer Font|R|Eloy Jimenez|R|Lineout|X|Sinker|21|1|0|0|13|95
+Wilmer Font|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|22|0|0|1|11|94
+Wilmer Font|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|23|1|0|1|11|95
+Wilmer Font|R|Daniel Palka|L|Strikeout|C|Curveball|24|1|1|1|4|77
+Wilmer Font|R|Daniel Palka|L|Strikeout|B|Sinker|25|1|2|1|11|94
+Wilmer Font|R|Daniel Palka|L|Strikeout|F|Slider|26|2|2|1|8|87
+Wilmer Font|R|Daniel Palka|L|Strikeout|B|Four-Seam Fastball|27|2|2|1|12|96
+Wilmer Font|R|Daniel Palka|L|Strikeout|C|Slider|28|3|2|1|4|85
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|29|0|0|2|12|95
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|30|1|0|2|11|95
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|31|2|0|2|2|95
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|B|Four-Seam Fastball|32|2|1|2|12|95
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|C|Slider|33|3|1|2|5|84
+Wilmer Font|R|Yolmer Sanchez|L|Strikeout|S|Slider|34|3|2|2|4|85
+Wilmer Font|R|Leury Garcia|L|Strikeout|B|Sinker|35|0|0|0|11|90
+Wilmer Font|R|Leury Garcia|L|Strikeout|C|Four-Seam Fastball|36|1|0|0|5|93
+Wilmer Font|R|Leury Garcia|L|Strikeout|S|Four-Seam Fastball|37|1|1|0|11|93
+Wilmer Font|R|Leury Garcia|L|Strikeout|C|Slider|38|1|2|0|9|87
+Wilmer Font|R|Yoan Moncada|L|Single|C|Four-Seam Fastball|39|0|0|1|13|95
+Wilmer Font|R|Yoan Moncada|L|Single|F|Curveball|40|0|1|1|14|78
+Wilmer Font|R|Yoan Moncada|L|Single|B|Slider|41|0|2|1|14|86
+Wilmer Font|R|Yoan Moncada|L|Single|B|Slider|42|1|2|1|14|88
+Wilmer Font|R|Yoan Moncada|L|Single|F|Four-Seam Fastball|43|2|2|1|3|96
+Wilmer Font|R|Yoan Moncada|L|Single|F|Four-Seam Fastball|44|2|2|1|4|96
+Wilmer Font|R|Yoan Moncada|L|Single|D|Slider|45|2|2|1|4|84
+Wilmer Font|R|Jose Abreu|R|Flyout|B|Four-Seam Fastball|46|0|0|1|14|95
+Wilmer Font|R|Jose Abreu|R|Flyout|B|Sinker|47|1|0|1|14|92
+Wilmer Font|R|Jose Abreu|R|Flyout|S|Four-Seam Fastball|48|2|0|1|3|94
+Wilmer Font|R|Jose Abreu|R|Flyout|B|Slider|49|2|1|1|11|84
+Wilmer Font|R|Jose Abreu|R|Flyout|X|Four-Seam Fastball|50|3|1|1|5|94
+Wilmer Font|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|51|0|0|2|11|92
+Wilmer Font|R|Yonder Alonso|L|Walk|B|Slider|52|1|0|2|11|83
+Wilmer Font|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|53|2|0|2|11|90
+Wilmer Font|R|Yonder Alonso|L|Walk|S|Four-Seam Fastball|54|3|0|2|1|94
+Wilmer Font|R|Yonder Alonso|L|Walk|S|Four-Seam Fastball|55|3|1|2|13|94
+Wilmer Font|R|Yonder Alonso|L|Walk|B|Sinker|56|3|2|2|13|90
+Wilmer Font|R|DJ LeMahieu|R|Groundout|B|Curveball|0|0|0|2|11|76
+Wilmer Font|R|DJ LeMahieu|R|Groundout|C|Four-Seam Fastball|1|1|0|2|11|93
+Wilmer Font|R|DJ LeMahieu|R|Groundout|B|Splitter|2|1|1|2|11|84
+Wilmer Font|R|DJ LeMahieu|R|Groundout|X|Curveball|3|2|1|2|13|75
+Wilmer Font|R|Aaron Hicks|L|Double|B|Sinker|4|0|0|0|14|92
+Wilmer Font|R|Aaron Hicks|L|Double|B|Splitter|5|1|0|0|13|87
+Wilmer Font|R|Aaron Hicks|L|Double|C|Four-Seam Fastball|6|2|0|0|1|94
+Wilmer Font|R|Aaron Hicks|L|Double|B|Curveball|7|2|1|0|11|75
+Wilmer Font|R|Aaron Hicks|L|Double|D|Four-Seam Fastball|8|3|1|0|5|94
+Wilmer Font|R|Luke Voit|R|Strikeout|B|Four-Seam Fastball|9|0|0|0|11|94
+Wilmer Font|R|Luke Voit|R|Strikeout|B|Four-Seam Fastball|10|1|0|0|11|94
+Wilmer Font|R|Luke Voit|R|Strikeout|C|Splitter|11|2|0|0|5|89
+Wilmer Font|R|Luke Voit|R|Strikeout|B|Splitter|12|2|1|0|14|87
+Wilmer Font|R|Luke Voit|R|Strikeout|C|Curveball|13|3|1|0|4|75
+Wilmer Font|R|Luke Voit|R|Strikeout|F|Curveball|14|3|2|0|2|77
+Wilmer Font|R|Luke Voit|R|Strikeout|S|Four-Seam Fastball|15|3|2|0|13|95
+Wilmer Font|R|Gary Sanchez|R|Lineout|S|Four-Seam Fastball|16|0|0|1|4|95
+Wilmer Font|R|Gary Sanchez|R|Lineout|X|Splitter|17|0|1|1|8|87
+Wilmer Font|R|Didi Gregorius|L|Groundout|B|Four-Seam Fastball|18|0|0|2|11|94
+Wilmer Font|R|Didi Gregorius|L|Groundout|S|Splitter|19|1|0|2|13|88
+Wilmer Font|R|Didi Gregorius|L|Groundout|X|Four-Seam Fastball|20|1|1|2|4|95
+Wilmer Font|R|Clint Frazier|R|Double|C|Curveball|21|0|0|0|11|75
+Wilmer Font|R|Clint Frazier|R|Double|B|Slider|22|0|1|0|14|81
+Wilmer Font|R|Clint Frazier|R|Double|D|Splitter|23|1|1|0|9|87
+Wilmer Font|R|Kendrys Morales|L|Groundout|X|Splitter|24|0|0|0|1|86
+Wilmer Font|R|Gio Urshela|R|Double|C|Slider|25|0|0|1|6|83
+Wilmer Font|R|Gio Urshela|R|Double|S|Four-Seam Fastball|26|0|1|1|1|95
+Wilmer Font|R|Gio Urshela|R|Double|F|Four-Seam Fastball|27|0|2|1|11|97
+Wilmer Font|R|Gio Urshela|R|Double|E|Curveball|28|0|2|1|1|77
+Wilmer Font|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|29|0|0|1|11|95
+Wilmer Font|R|Brett Gardner|L|Walk|*B|Splitter|30|1|0|1|13|87
+Wilmer Font|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|31|2|0|1|13|94
+Wilmer Font|R|Brett Gardner|L|Walk|C|Four-Seam Fastball|32|3|0|1|6|95
+Wilmer Font|R|Brett Gardner|L|Walk|B|Splitter|33|3|1|1|11|88
+Wilmer Font|R|DJ LeMahieu|R|Double Play|B|Sinker|34|0|0|1|13|92
+Wilmer Font|R|DJ LeMahieu|R|Double Play|C|Sinker|35|1|0|1|13|92
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Four-Seam Fastball|36|1|1|1|1|95
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Four-Seam Fastball|37|1|2|1|11|95
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Slider|38|1|2|1|9|84
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Four-Seam Fastball|39|1|2|1|11|96
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Slider|40|1|2|1|14|84
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Splitter|41|1|2|1|7|87
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Four-Seam Fastball|42|1|2|1|6|96
+Wilmer Font|R|DJ LeMahieu|R|Double Play|B|Slider|43|1|2|1|14|85
+Wilmer Font|R|DJ LeMahieu|R|Double Play|F|Four-Seam Fastball|44|2|2|1|12|95
+Wilmer Font|R|DJ LeMahieu|R|Double Play|X|Curveball|45|2|2|1|5|76
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|94
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Splitter|1|0|1|0|14|84
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|F|Splitter|2|1|1|0|11|82
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Slider|3|1|2|0|12|85
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|F|Sinker|4|2|2|0|1|95
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|S|Four-Seam Fastball|5|2|2|0|11|96
+Wilmer Font|R|Aaron Judge|R|Home Run|B|Slider|6|0|0|1|14|85
+Wilmer Font|R|Aaron Judge|R|Home Run|E|Slider|7|1|0|1|4|83
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Curveball|8|0|0|1|14|78
+Wilmer Font|R|Giancarlo Stanton|R|Walk|F|Four-Seam Fastball|9|1|0|1|14|95
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Sinker|10|1|1|1|11|94
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|11|2|1|1|11|95
+Wilmer Font|R|Giancarlo Stanton|R|Walk|F|Slider|12|3|1|1|6|83
+Wilmer Font|R|Giancarlo Stanton|R|Walk|B|Four-Seam Fastball|13|3|2|1|13|95
+Wilmer Font|R|Luke Voit|R|Walk|B|Four-Seam Fastball|14|0|0|1|14|95
+Wilmer Font|R|Luke Voit|R|Walk|B|Curveball|15|1|0|1|14|76
+Wilmer Font|R|Luke Voit|R|Walk|C|Four-Seam Fastball|16|2|0|1|9|95
+Wilmer Font|R|Luke Voit|R|Walk|C|Sinker|17|2|1|1|13|91
+Wilmer Font|R|Luke Voit|R|Walk|*B|Splitter|18|2|2|1|14|85
+Wilmer Font|R|Luke Voit|R|Walk|B|Curveball|19|3|2|1|14|77
+Wilmer Font|R|Brett Gardner|L|Home Run|C|Sinker|20|0|0|1|4|91
+Wilmer Font|R|Brett Gardner|L|Home Run|B|Four-Seam Fastball|21|0|1|1|12|93
+Wilmer Font|R|Brett Gardner|L|Home Run|*B|Splitter|22|1|1|1|14|84
+Wilmer Font|R|Brett Gardner|L|Home Run|B|Four-Seam Fastball|23|2|1|1|11|91
+Wilmer Font|R|Brett Gardner|L|Home Run|E|Four-Seam Fastball|24|3|1|1|4|92
+Wilmer Font|R|Gio Urshela|R|Groundout|B|Curveball|25|0|0|1|14|75
+Wilmer Font|R|Gio Urshela|R|Groundout|F|Four-Seam Fastball|26|1|0|1|9|94
+Wilmer Font|R|Gio Urshela|R|Groundout|S|Four-Seam Fastball|27|1|1|1|5|95
+Wilmer Font|R|Gio Urshela|R|Groundout|F|Four-Seam Fastball|28|1|2|1|12|96
+Wilmer Font|R|Gio Urshela|R|Groundout|X|Splitter|29|1|2|1|1|83
+Wilmer Font|R|Cameron Maybin|R|Groundout|C|Four-Seam Fastball|30|0|0|2|2|95
+Wilmer Font|R|Cameron Maybin|R|Groundout|T|Four-Seam Fastball|31|0|1|2|1|95
+Wilmer Font|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|32|0|2|2|11|96
+Wilmer Font|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|33|1|2|2|11|95
+Wilmer Font|R|Cameron Maybin|R|Groundout|B|Curveball|34|2|2|2|11|77
+Wilmer Font|R|Cameron Maybin|R|Groundout|X|Slider|35|3|2|2|6|83
+Wilmer Font|R|Manuel Margot|R|Walk|C|Sinker|0|0|0|2|14|93
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|1|0|1|2|14|96
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|2|1|1|2|13|93
+Wilmer Font|R|Manuel Margot|R|Walk|F|Sinker|3|2|1|2|12|93
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|4|2|2|2|14|96
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|5|3|2|2|13|93
+Wilmer Font|R|Carlos Asuaje|L|Lineout|B|Curveball|6|0|0|2|13|72
+Wilmer Font|R|Carlos Asuaje|L|Lineout|F|Sinker|7|1|0|2|11|92
+Wilmer Font|R|Carlos Asuaje|L|Lineout|F|Sinker|8|1|1|2|3|93
+Wilmer Font|R|Carlos Asuaje|L|Lineout|*B|Splitter|9|1|2|2|14|82
+Wilmer Font|R|Carlos Asuaje|L|Lineout|F|Sinker|10|2|2|2|1|95
+Wilmer Font|R|Carlos Asuaje|L|Lineout|B|Sinker|11|2|2|2|14|95
+Wilmer Font|R|Carlos Asuaje|L|Lineout|X|Sinker|12|3|2|2|2|93
+Wilmer Font|R|Jose Pirela|R|Lineout|F|Slider|13|0|0|0|7|79
+Wilmer Font|R|Jose Pirela|R|Lineout|C|Sinker|14|0|1|0|12|95
+Wilmer Font|R|Jose Pirela|R|Lineout|F|Sinker|15|0|2|0|11|96
+Wilmer Font|R|Jose Pirela|R|Lineout|*B|Splitter|16|0|2|0|14|82
+Wilmer Font|R|Jose Pirela|R|Lineout|X|Sinker|17|1|2|0|11|95
+Wilmer Font|R|Yangervis Solarte|L|Pop Out|B|Curveball|18|0|0|1|14|74
+Wilmer Font|R|Yangervis Solarte|L|Pop Out|X|Sinker|19|1|0|1|11|93
+Wilmer Font|R|Wil Myers|R|Walk|B|Sinker|20|0|0|2|12|94
+Wilmer Font|R|Wil Myers|R|Walk|B|Sinker|21|1|0|2|14|93
+Wilmer Font|R|Wil Myers|R|Walk|B|Sinker|22|2|0|2|11|92
+Wilmer Font|R|Wil Myers|R|Walk|C|Sinker|23|3|0|2|11|89
+Wilmer Font|R|Wil Myers|R|Walk|B|Sinker|24|3|1|2|14|91
+Wilmer Font|R|Cory Spangenberg|L|Double|B|Sinker|25|0|0|2|13|91
+Wilmer Font|R|Cory Spangenberg|L|Double|B|Sinker|26|1|0|2|11|91
+Wilmer Font|R|Cory Spangenberg|L|Double|B|Sinker|27|2|0|2|11|90
+Wilmer Font|R|Cory Spangenberg|L|Double|C|Sinker|28|3|0|2|11|91
+Wilmer Font|R|Cory Spangenberg|L|Double|D|Sinker|29|3|1|2|5|89
+Wilmer Font|R|Jabari Blash|R|Single|F|Sinker|30|0|0|2|11|93
+Wilmer Font|R|Jabari Blash|R|Single|E|Sinker|31|0|1|2|5|95
+Wilmer Font|R|Austin Hedges|R|Strikeout|B|Sinker|32|0|0|2|12|93
+Wilmer Font|R|Austin Hedges|R|Strikeout|S|Sinker|33|1|0|2|5|93
+Wilmer Font|R|Austin Hedges|R|Strikeout|S|Sinker|34|1|1|2|11|94
+Wilmer Font|R|Austin Hedges|R|Strikeout|F|Sinker|35|1|2|2|11|95
+Wilmer Font|R|Austin Hedges|R|Strikeout|B|Splitter|36|1|2|2|14|82
+Wilmer Font|R|Austin Hedges|R|Strikeout|S|Sinker|37|2|2|2|11|95
+Wilmer Font|R|Hector Sanchez|L|Groundout|E|Curveball|38|0|0|0|13|73
+Wilmer Font|R|Manuel Margot|R|Walk|F|Slider|39|0|0|1|6|80
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|40|0|1|1|11|95
+Wilmer Font|R|Manuel Margot|R|Walk|F|Sinker|41|1|1|1|6|93
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|42|1|2|1|11|96
+Wilmer Font|R|Manuel Margot|R|Walk|F|Sinker|43|2|2|1|3|95
+Wilmer Font|R|Manuel Margot|R|Walk|B|Splitter|44|2|2|1|14|81
+Wilmer Font|R|Manuel Margot|R|Walk|B|Sinker|45|3|2|1|11|92
+Wilmer Font|R|Rey Fuentes|L|Walk|B|Four-Seam Fastball|0|0|0|0|14|91
+Wilmer Font|R|Rey Fuentes|L|Walk|S|Slider|1|1|0|0|13|80
+Wilmer Font|R|Rey Fuentes|L|Walk|B|Four-Seam Fastball|2|1|1|0|14|94
+Wilmer Font|R|Rey Fuentes|L|Walk|B|Four-Seam Fastball|3|2|1|0|14|91
+Wilmer Font|R|Rey Fuentes|L|Walk|F|Four-Seam Fastball|4|3|1|0|2|92
+Wilmer Font|R|Rey Fuentes|L|Walk|F|Four-Seam Fastball|5|3|2|0|4|93
+Wilmer Font|R|Rey Fuentes|L|Walk|B|Four-Seam Fastball|6|3|2|0|12|93
+Wilmer Font|R|David Peralta|L|Pop Out|F|Slider|7|0|0|0|2|79
+Wilmer Font|R|David Peralta|L|Pop Out|X|Four-Seam Fastball|8|0|1|0|12|91
+Wilmer Font|R|Kristopher Negron|R|Double|C|Slider|9|0|0|1|9|80
+Wilmer Font|R|Kristopher Negron|R|Double|B|Four-Seam Fastball|10|0|1|1|11|92
+Wilmer Font|R|Kristopher Negron|R|Double|B|Slider|11|1|1|1|14|82
+Wilmer Font|R|Kristopher Negron|R|Double|S|Four-Seam Fastball|12|2|1|1|11|92
+Wilmer Font|R|Kristopher Negron|R|Double|F|Four-Seam Fastball|13|2|2|1|1|94
+Wilmer Font|R|Kristopher Negron|R|Double|D|Four-Seam Fastball|14|2|2|1|8|95
+Wilmer Font|R|A.J. Pollock|R|Single|E|Curveball|15|0|0|1|9|75
+Wilmer Font|R|J.D. Martinez|R|Home Run|*B|Slider|16|0|0|1|14|85
+Wilmer Font|R|J.D. Martinez|R|Home Run|E|Slider|17|1|0|1|8|83
+Wilmer Font|R|Brandon Drury|R|Pop Out|S|Four-Seam Fastball|18|0|0|1|12|94
+Wilmer Font|R|Brandon Drury|R|Pop Out|X|Slider|19|0|1|1|4|83
+Wilmer Font|R|Jake Lamb|L|Strikeout|C|Four-Seam Fastball|20|0|0|2|6|93
+Wilmer Font|R|Jake Lamb|L|Strikeout|B|Splitter|21|0|1|2|13|83
+Wilmer Font|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|22|1|1|2|3|94
+Wilmer Font|R|Jake Lamb|L|Strikeout|B|Slider|23|1|2|2|11|81
+Wilmer Font|R|Jake Lamb|L|Strikeout|B|Slider|24|2|2|2|13|83
+Wilmer Font|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|25|3|2|2|11|93
+Wilmer Font|R|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|26|3|2|2|1|93
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|C|Slider|0|0|0|0|8|78
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|93
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|94
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|S|Slider|3|2|1|0|14|81
+Wilmer Font|R|DJ LeMahieu|R|Strikeout|S|Four-Seam Fastball|4|2|2|0|1|94
+Wilmer Font|R|Nolan Arenado|R|Pop Out|C|Curveball|5|0|0|1|4|74
+Wilmer Font|R|Nolan Arenado|R|Pop Out|F|Four-Seam Fastball|6|0|1|1|12|95
+Wilmer Font|R|Nolan Arenado|R|Pop Out|B|Slider|7|0|2|1|11|80
+Wilmer Font|R|Nolan Arenado|R|Pop Out|X|Four-Seam Fastball|8|1|2|1|2|94
+Wilmer Font|R|Trevor Story|R|Home Run|C|Curveball|9|0|0|2|8|74
+Wilmer Font|R|Trevor Story|R|Home Run|B|Four-Seam Fastball|10|0|1|2|11|94
+Wilmer Font|R|Trevor Story|R|Home Run|E|Four-Seam Fastball|11|1|1|2|5|94
+Wilmer Font|R|Carlos Gonzalez|L|Double|B|Four-Seam Fastball|12|0|0|2|14|93
+Wilmer Font|R|Carlos Gonzalez|L|Double|D|Curveball|13|1|0|2|9|76
+Wilmer Font|R|Mark Reynolds|R|Lineout|B|Curveball|14|0|0|2|12|77
+Wilmer Font|R|Mark Reynolds|R|Lineout|C|Slider|15|1|0|2|2|81
+Wilmer Font|R|Mark Reynolds|R|Lineout|S|Curveball|16|1|1|2|1|76
+Wilmer Font|R|Mark Reynolds|R|Lineout|X|Four-Seam Fastball|17|1|2|2|5|97

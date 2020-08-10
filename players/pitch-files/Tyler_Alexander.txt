@@ -1,0 +1,918 @@
+Tyler Alexander|L|Eric Sogard|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|92
+Tyler Alexander|L|Eric Sogard|L|Pop Out|C|Four-Seam Fastball|1|1|0|0|8|91
+Tyler Alexander|L|Eric Sogard|L|Pop Out|B|Two-Seam Fastball|2|1|1|0|14|91
+Tyler Alexander|L|Eric Sogard|L|Pop Out|X|Slider|3|2|1|0|7|87
+Tyler Alexander|L|Freddy Galvis|R|Single|C|Curveball|4|0|0|1|14|81
+Tyler Alexander|L|Freddy Galvis|R|Single|B|Four-Seam Fastball|5|0|1|1|11|91
+Tyler Alexander|L|Freddy Galvis|R|Single|S|Changeup|6|1|1|1|14|85
+Tyler Alexander|L|Freddy Galvis|R|Single|D|Four-Seam Fastball|7|1|2|1|11|92
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Double|B|Two-Seam Fastball|8|0|0|1|12|91
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Double|E|Two-Seam Fastball|9|1|0|1|7|90
+Tyler Alexander|L|Randal Grichuk|R|Strikeout|F|Curveball|10|0|0|1|5|79
+Tyler Alexander|L|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|11|0|1|1|11|90
+Tyler Alexander|L|Randal Grichuk|R|Strikeout|S|Curveball|12|0|2|1|1|80
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Groundout|X|Two-Seam Fastball|13|0|0|2|14|92
+Tyler Alexander|L|Justin Smoak|R|Walk|C|Four-Seam Fastball|14|0|0|0|7|91
+Tyler Alexander|L|Justin Smoak|R|Walk|B|Slider|15|0|1|0|13|86
+Tyler Alexander|L|Justin Smoak|R|Walk|B|Four-Seam Fastball|16|1|1|0|14|90
+Tyler Alexander|L|Justin Smoak|R|Walk|S|Slider|17|2|1|0|13|85
+Tyler Alexander|L|Justin Smoak|R|Walk|F|Four-Seam Fastball|18|2|2|0|1|92
+Tyler Alexander|L|Justin Smoak|R|Walk|B|Four-Seam Fastball|19|2|2|0|13|92
+Tyler Alexander|L|Justin Smoak|R|Walk|B|Four-Seam Fastball|20|3|2|0|13|92
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|F|Two-Seam Fastball|21|0|0|0|12|92
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|F|Curveball|22|0|1|0|6|80
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|F|Curveball|23|0|2|0|8|81
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|B|Four-Seam Fastball|24|0|2|0|12|90
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|X|Slider|25|1|2|0|5|85
+Tyler Alexander|L|Brandon Drury|R|Flyout|F|Slider|26|0|0|1|13|84
+Tyler Alexander|L|Brandon Drury|R|Flyout|X|Four-Seam Fastball|27|0|1|1|2|91
+Tyler Alexander|L|Luke Maile|R|Groundout|C|Two-Seam Fastball|28|0|0|2|14|91
+Tyler Alexander|L|Luke Maile|R|Groundout|B|Two-Seam Fastball|29|0|1|2|12|90
+Tyler Alexander|L|Luke Maile|R|Groundout|S|Changeup|30|1|1|2|9|84
+Tyler Alexander|L|Luke Maile|R|Groundout|B|Four-Seam Fastball|31|1|2|2|11|91
+Tyler Alexander|L|Luke Maile|R|Groundout|X|Changeup|32|2|2|2|9|84
+Tyler Alexander|L|Eric Sogard|L|Single|C|Slider|33|0|0|0|2|85
+Tyler Alexander|L|Eric Sogard|L|Single|B|Two-Seam Fastball|34|0|1|0|14|91
+Tyler Alexander|L|Eric Sogard|L|Single|B|Two-Seam Fastball|35|1|1|0|14|91
+Tyler Alexander|L|Eric Sogard|L|Single|B|Slider|36|2|1|0|12|88
+Tyler Alexander|L|Eric Sogard|L|Single|F|Four-Seam Fastball|37|3|1|0|2|91
+Tyler Alexander|L|Eric Sogard|L|Single|D|Two-Seam Fastball|38|3|2|0|5|91
+Tyler Alexander|L|Freddy Galvis|R|Grounded Into DP|B|Curveball|39|0|0|0|12|80
+Tyler Alexander|L|Freddy Galvis|R|Grounded Into DP|B|Two-Seam Fastball|40|1|0|0|12|90
+Tyler Alexander|L|Freddy Galvis|R|Grounded Into DP|T|Two-Seam Fastball|41|2|0|0|6|91
+Tyler Alexander|L|Freddy Galvis|R|Grounded Into DP|X|Two-Seam Fastball|42|2|1|0|12|91
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|L|Curveball|43|0|0|2|13|81
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|B|Curveball|44|0|1|2|14|82
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|S|Changeup|45|1|1|2|14|85
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|B|Curveball|46|1|2|2|13|81
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|X|Changeup|47|2|2|2|13|86
+Tyler Alexander|L|Randal Grichuk|R|Flyout|C|Two-Seam Fastball|48|0|0|0|6|90
+Tyler Alexander|L|Randal Grichuk|R|Flyout|S|Slider|49|0|1|0|13|87
+Tyler Alexander|L|Randal Grichuk|R|Flyout|X|Slider|50|0|2|0|4|85
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Flyout|B|Curveball|51|0|0|1|12|79
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Flyout|F|Curveball|52|1|0|1|12|80
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Flyout|X|Four-Seam Fastball|53|1|1|1|1|90
+Tyler Alexander|L|Justin Smoak|R|Flyout|X|Four-Seam Fastball|54|0|0|2|2|91
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|F|Curveball|55|0|0|0|13|79
+Tyler Alexander|L|Teoscar Hernandez|R|Flyout|X|Two-Seam Fastball|56|0|1|0|9|90
+Tyler Alexander|L|Brandon Drury|R|Flyout|B|Two-Seam Fastball|57|0|0|1|14|92
+Tyler Alexander|L|Brandon Drury|R|Flyout|F|Slider|58|1|0|1|11|86
+Tyler Alexander|L|Brandon Drury|R|Flyout|S|Changeup|59|1|1|1|13|85
+Tyler Alexander|L|Brandon Drury|R|Flyout|F|Curveball|60|1|2|1|11|82
+Tyler Alexander|L|Brandon Drury|R|Flyout|B|Four-Seam Fastball|61|1|2|1|13|91
+Tyler Alexander|L|Brandon Drury|R|Flyout|F|Slider|62|2|2|1|13|86
+Tyler Alexander|L|Brandon Drury|R|Flyout|X|Changeup|63|2|2|1|6|83
+Tyler Alexander|L|Luke Maile|R|Lineout|B|Curveball|64|0|0|2|12|80
+Tyler Alexander|L|Luke Maile|R|Lineout|C|Two-Seam Fastball|65|1|0|2|14|90
+Tyler Alexander|L|Luke Maile|R|Lineout|S|Changeup|66|1|1|2|14|84
+Tyler Alexander|L|Luke Maile|R|Lineout|B|Four-Seam Fastball|67|1|2|2|12|90
+Tyler Alexander|L|Luke Maile|R|Lineout|F|Curveball|68|2|2|2|7|80
+Tyler Alexander|L|Luke Maile|R|Lineout|X|Four-Seam Fastball|69|2|2|2|4|91
+Tyler Alexander|L|Eric Sogard|L|Groundout|X|Two-Seam Fastball|70|0|0|0|3|90
+Tyler Alexander|L|Freddy Galvis|R|Groundout|B|Two-Seam Fastball|71|0|0|1|13|90
+Tyler Alexander|L|Freddy Galvis|R|Groundout|B|Curveball|72|1|0|1|12|80
+Tyler Alexander|L|Freddy Galvis|R|Groundout|X|Two-Seam Fastball|73|2|0|1|14|89
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|C|Curveball|74|0|0|2|7|81
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|S|Slider|75|0|1|2|11|85
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|B|Curveball|76|0|2|2|13|81
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|F|Curveball|77|1|2|2|13|81
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|B|Four-Seam Fastball|78|1|2|2|11|90
+Tyler Alexander|L|Lourdes Gurriel Jr.|R|Flyout|X|Slider|79|2|2|2|13|84
+Tyler Alexander|L|Randal Grichuk|R|Flyout|F|Curveball|80|0|0|0|13|79
+Tyler Alexander|L|Randal Grichuk|R|Flyout|X|Two-Seam Fastball|81|0|1|0|8|90
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Lineout|C|Curveball|82|0|0|1|7|80
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Lineout|B|Changeup|83|0|1|1|14|84
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Lineout|B|Two-Seam Fastball|84|1|1|1|14|90
+Tyler Alexander|L|Vladimir Guerrero Jr.|R|Lineout|X|Curveball|85|2|1|1|8|80
+Tyler Alexander|L|Justin Smoak|R|Groundout|B|Curveball|86|0|0|2|12|82
+Tyler Alexander|L|Justin Smoak|R|Groundout|B|Four-Seam Fastball|87|1|0|2|13|90
+Tyler Alexander|L|Justin Smoak|R|Groundout|C|Four-Seam Fastball|88|2|0|2|13|91
+Tyler Alexander|L|Justin Smoak|R|Groundout|F|Four-Seam Fastball|89|2|1|2|4|91
+Tyler Alexander|L|Justin Smoak|R|Groundout|B|Slider|90|2|2|2|13|86
+Tyler Alexander|L|Justin Smoak|R|Groundout|X|Two-Seam Fastball|91|3|2|2|9|90
+Tyler Alexander|L|Leury Garcia|R|Groundout|X|Slider|0|0|0|0|5|85
+Tyler Alexander|L|Tim Anderson|R|Single|B|Two-Seam Fastball|1|0|0|1|13|90
+Tyler Alexander|L|Tim Anderson|R|Single|F|Slider|2|1|0|1|7|86
+Tyler Alexander|L|Tim Anderson|R|Single|B|Four-Seam Fastball|3|1|1|1|13|90
+Tyler Alexander|L|Tim Anderson|R|Single|D|Slider|4|2|1|1|8|86
+Tyler Alexander|L|Jose Abreu|R|Single|C|Slider|5|0|0|1|7|84
+Tyler Alexander|L|Jose Abreu|R|Single|B|Four-Seam Fastball|6|0|1|1|11|89
+Tyler Alexander|L|Jose Abreu|R|Single|B|Curveball|7|1|1|1|14|78
+Tyler Alexander|L|Jose Abreu|R|Single|F|Slider|8|2|1|1|5|86
+Tyler Alexander|L|Jose Abreu|R|Single|D|Four-Seam Fastball|9|2|2|1|13|90
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|C|Changeup|10|0|0|1|8|85
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|B|Changeup|11|0|1|1|14|85
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Four-Seam Fastball|12|1|1|1|13|90
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|S|Curveball|13|1|2|1|13|82
+Tyler Alexander|L|James McCann|R|Double|F|Four-Seam Fastball|14|0|0|2|4|90
+Tyler Alexander|L|James McCann|R|Double|B|Four-Seam Fastball|15|0|1|2|11|90
+Tyler Alexander|L|James McCann|R|Double|C|Two-Seam Fastball|16|1|1|2|6|89
+Tyler Alexander|L|James McCann|R|Double|E|Curveball|17|1|2|2|8|80
+Tyler Alexander|L|Welington Castillo|R|Strikeout|B|Changeup|18|0|0|2|12|84
+Tyler Alexander|L|Welington Castillo|R|Strikeout|F|Slider|19|1|0|2|5|83
+Tyler Alexander|L|Welington Castillo|R|Strikeout|B|Four-Seam Fastball|20|1|1|2|11|89
+Tyler Alexander|L|Welington Castillo|R|Strikeout|S|Slider|21|2|1|2|6|86
+Tyler Alexander|L|Welington Castillo|R|Strikeout|S|Curveball|22|2|2|2|13|83
+Tyler Alexander|L|Ryan Goins|L|Groundout|B|Four-Seam Fastball|23|0|0|0|13|89
+Tyler Alexander|L|Ryan Goins|L|Groundout|B|Slider|24|1|0|0|13|85
+Tyler Alexander|L|Ryan Goins|L|Groundout|X|Two-Seam Fastball|25|2|0|0|6|90
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|C|Two-Seam Fastball|26|0|0|1|8|91
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Four-Seam Fastball|27|0|1|1|14|91
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|C|Slider|28|1|1|1|3|85
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Curveball|29|1|2|1|13|81
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Two-Seam Fastball|30|2|2|1|6|91
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Slider|31|2|2|1|14|84
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|S|Changeup|32|2|2|1|14|84
+Tyler Alexander|L|Ryan Cordell|R|Home Run|B|Two-Seam Fastball|33|0|0|2|14|91
+Tyler Alexander|L|Ryan Cordell|R|Home Run|B|Four-Seam Fastball|34|1|0|2|13|90
+Tyler Alexander|L|Ryan Cordell|R|Home Run|E|Four-Seam Fastball|35|2|0|2|7|91
+Tyler Alexander|L|Leury Garcia|R|Groundout|C|Slider|36|0|0|2|4|84
+Tyler Alexander|L|Leury Garcia|R|Groundout|B|Slider|37|0|1|2|13|86
+Tyler Alexander|L|Leury Garcia|R|Groundout|C|Four-Seam Fastball|38|1|1|2|5|91
+Tyler Alexander|L|Leury Garcia|R|Groundout|B|Slider|39|1|2|2|13|83
+Tyler Alexander|L|Leury Garcia|R|Groundout|B|Changeup|40|2|2|2|13|85
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Two-Seam Fastball|41|3|2|2|14|91
+Tyler Alexander|L|Leury Garcia|R|Groundout|X|Two-Seam Fastball|42|3|2|2|12|90
+Tyler Alexander|L|Tim Anderson|R|Single|B|Changeup|43|0|0|0|14|83
+Tyler Alexander|L|Tim Anderson|R|Single|C|Two-Seam Fastball|44|1|0|0|9|90
+Tyler Alexander|L|Tim Anderson|R|Single|F|Four-Seam Fastball|45|1|1|0|14|89
+Tyler Alexander|L|Tim Anderson|R|Single|F|Four-Seam Fastball|46|1|2|0|11|91
+Tyler Alexander|L|Tim Anderson|R|Single|D|Curveball|47|1|2|0|5|79
+Tyler Alexander|L|Jose Abreu|R|Strikeout|F|Curveball|48|0|0|0|13|79
+Tyler Alexander|L|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|49|0|1|0|7|89
+Tyler Alexander|L|Jose Abreu|R|Strikeout|B|Changeup|50|0|2|0|14|84
+Tyler Alexander|L|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|51|1|2|0|8|89
+Tyler Alexander|L|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|52|1|2|0|11|89
+Tyler Alexander|L|Eloy Jimenez|R|Pop Out|B|Curveball|53|0|0|1|12|78
+Tyler Alexander|L|Eloy Jimenez|R|Pop Out|B|Changeup|54|1|0|1|13|83
+Tyler Alexander|L|Eloy Jimenez|R|Pop Out|X|Slider|55|2|0|1|4|85
+Tyler Alexander|L|James McCann|R|Fielders Choice|C|Slider|56|0|0|2|13|85
+Tyler Alexander|L|James McCann|R|Fielders Choice|S|Four-Seam Fastball|57|0|1|2|11|90
+Tyler Alexander|L|James McCann|R|Fielders Choice|B|Two-Seam Fastball|58|0|2|2|14|91
+Tyler Alexander|L|James McCann|R|Fielders Choice|B|Changeup|59|1|2|2|14|84
+Tyler Alexander|L|James McCann|R|Fielders Choice|F|Four-Seam Fastball|60|2|2|2|2|90
+Tyler Alexander|L|James McCann|R|Fielders Choice|F|Four-Seam Fastball|61|2|2|2|12|90
+Tyler Alexander|L|James McCann|R|Fielders Choice|D|Curveball|62|2|2|2|9|79
+Tyler Alexander|L|Welington Castillo|R|Double|E|Curveball|63|0|0|2|7|78
+Tyler Alexander|L|Ryan Goins|L|Strikeout|C|Slider|64|0|0|2|7|83
+Tyler Alexander|L|Ryan Goins|L|Strikeout|B|Two-Seam Fastball|65|0|1|2|14|88
+Tyler Alexander|L|Ryan Goins|L|Strikeout|B|Four-Seam Fastball|66|1|1|2|13|89
+Tyler Alexander|L|Ryan Goins|L|Strikeout|F|Slider|67|2|1|2|8|85
+Tyler Alexander|L|Ryan Goins|L|Strikeout|F|Two-Seam Fastball|68|2|2|2|9|90
+Tyler Alexander|L|Ryan Goins|L|Strikeout|B|Two-Seam Fastball|69|2|2|2|12|89
+Tyler Alexander|L|Ryan Goins|L|Strikeout|F|Four-Seam Fastball|70|3|2|2|4|90
+Tyler Alexander|L|Ryan Goins|L|Strikeout|S|Slider|71|3|2|2|6|85
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|C|Two-Seam Fastball|72|0|0|0|14|88
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|S|Four-Seam Fastball|73|0|1|0|2|89
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|B|Two-Seam Fastball|74|0|2|0|12|91
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|B|Curveball|75|1|2|0|13|81
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|F|Four-Seam Fastball|76|2|2|0|11|90
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|F|Two-Seam Fastball|77|2|2|0|9|90
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|F|Slider|78|2|2|0|6|84
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|F|Slider|79|2|2|0|4|84
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|B|Changeup|80|2|2|0|13|84
+Tyler Alexander|L|Yolmer Sanchez|R|Walk|B|Two-Seam Fastball|81|3|2|0|13|91
+Tyler Alexander|L|Ryan Cordell|R|Pop Out|F|Slider|82|0|0|0|4|84
+Tyler Alexander|L|Ryan Cordell|R|Pop Out|B|Two-Seam Fastball|83|0|1|0|12|89
+Tyler Alexander|L|Ryan Cordell|R|Pop Out|B|Curveball|84|1|1|0|14|79
+Tyler Alexander|L|Ryan Cordell|R|Pop Out|X|Slider|85|2|1|0|13|84
+Tyler Alexander|L|Leury Garcia|R|Grounded Into DP|B|Two-Seam Fastball|86|0|0|1|12|89
+Tyler Alexander|L|Leury Garcia|R|Grounded Into DP|X|Four-Seam Fastball|87|1|0|1|4|88
+Tyler Alexander|L|Tim Anderson|R|Single|D|Four-Seam Fastball|88|0|0|0|8|87
+Tyler Alexander|L|Jose Abreu|R|Double|S|Changeup|89|0|0|0|13|82
+Tyler Alexander|L|Jose Abreu|R|Double|E|Curveball|90|0|1|0|14|78
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|S|Slider|91|0|0|0|13|83
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Slider|92|0|1|0|5|84
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|B|Four-Seam Fastball|93|0|2|0|11|88
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|S|Four-Seam Fastball|94|1|2|0|1|89
+Tyler Alexander|L|James McCann|R|Single|C|Curveball|95|0|0|1|5|82
+Tyler Alexander|L|James McCann|R|Single|S|Four-Seam Fastball|96|0|1|1|5|89
+Tyler Alexander|L|James McCann|R|Single|F|Four-Seam Fastball|97|0|2|1|11|88
+Tyler Alexander|L|James McCann|R|Single|B|Two-Seam Fastball|98|0|2|1|14|89
+Tyler Alexander|L|James McCann|R|Single|*B|Curveball|99|1|2|1|13|80
+Tyler Alexander|L|James McCann|R|Single|F|Four-Seam Fastball|100|2|2|1|4|89
+Tyler Alexander|L|James McCann|R|Single|E|Curveball|101|2|2|1|6|83
+Tyler Alexander|L|Humberto Arteaga|R|Single|B|Four-Seam Fastball|0|0|0|0|13|90
+Tyler Alexander|L|Humberto Arteaga|R|Single|D|Changeup|1|1|0|0|14|82
+Tyler Alexander|L|Billy Hamilton|R|Double|B|Two-Seam Fastball|2|0|0|0|13|90
+Tyler Alexander|L|Billy Hamilton|R|Double|F|Two-Seam Fastball|3|1|0|0|8|89
+Tyler Alexander|L|Billy Hamilton|R|Double|B|Slider|4|1|1|0|13|84
+Tyler Alexander|L|Billy Hamilton|R|Double|D|Four-Seam Fastball|5|2|1|0|3|90
+Tyler Alexander|L|Whit Merrifield|R|Single|B|Four-Seam Fastball|6|0|0|0|11|91
+Tyler Alexander|L|Whit Merrifield|R|Single|C|Four-Seam Fastball|7|1|0|0|6|90
+Tyler Alexander|L|Whit Merrifield|R|Single|T|Slider|8|1|1|0|2|84
+Tyler Alexander|L|Whit Merrifield|R|Single|F|Slider|9|1|2|0|8|84
+Tyler Alexander|L|Whit Merrifield|R|Single|E|Four-Seam Fastball|10|1|2|0|11|90
+Tyler Alexander|L|Alex Gordon|L|Single|B|Four-Seam Fastball|11|0|0|0|13|90
+Tyler Alexander|L|Alex Gordon|L|Single|B|Slider|12|1|0|0|13|84
+Tyler Alexander|L|Alex Gordon|L|Single|D|Slider|13|2|0|0|2|86
+Tyler Alexander|L|J.P. Crawford|L|Double|B|Four-Seam Fastball|0|0|0|0|13|92
+Tyler Alexander|L|J.P. Crawford|L|Double|B|Four-Seam Fastball|1|1|0|0|13|91
+Tyler Alexander|L|J.P. Crawford|L|Double|C|Slider|2|2|0|0|6|88
+Tyler Alexander|L|J.P. Crawford|L|Double|D|Curveball|3|2|1|0|6|79
+Tyler Alexander|L|Omar Narvaez|L|Walk|B|Four-Seam Fastball|4|0|0|0|11|90
+Tyler Alexander|L|Omar Narvaez|L|Walk|B|Curveball|5|1|0|0|14|77
+Tyler Alexander|L|Omar Narvaez|L|Walk|B|Curveball|6|2|0|0|9|77
+Tyler Alexander|L|Omar Narvaez|L|Walk|B|Four-Seam Fastball|7|3|0|0|12|91
+Tyler Alexander|L|Kyle Seager|L|Single|E|Slider|8|0|0|0|5|86
+Tyler Alexander|L|Austin Nola|R|Pop Out|B|Four-Seam Fastball|9|0|0|0|13|91
+Tyler Alexander|L|Austin Nola|R|Pop Out|F|Four-Seam Fastball|10|1|0|0|13|91
+Tyler Alexander|L|Austin Nola|R|Pop Out|S|Slider|11|1|1|0|11|86
+Tyler Alexander|L|Austin Nola|R|Pop Out|X|Slider|12|1|2|0|13|87
+Tyler Alexander|L|Daniel Vogelbach|L|Lineout|C|Slider|13|0|0|1|7|88
+Tyler Alexander|L|Daniel Vogelbach|L|Lineout|C|Curveball|14|0|1|1|13|79
+Tyler Alexander|L|Daniel Vogelbach|L|Lineout|B|Curveball|15|0|2|1|13|81
+Tyler Alexander|L|Daniel Vogelbach|L|Lineout|F|Slider|16|1|2|1|4|87
+Tyler Alexander|L|Daniel Vogelbach|L|Lineout|X|Curveball|17|1|2|1|13|80
+Tyler Alexander|L|Dee Gordon|L|Groundout|B|Slider|18|0|0|2|13|87
+Tyler Alexander|L|Dee Gordon|L|Groundout|X|Curveball|19|1|0|2|9|80
+Tyler Alexander|L|Didi Gregorius|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|90
+Tyler Alexander|L|Didi Gregorius|L|Flyout|C|Curveball|1|1|0|0|13|82
+Tyler Alexander|L|Didi Gregorius|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|92
+Tyler Alexander|L|Didi Gregorius|L|Flyout|B|Two-Seam Fastball|3|2|1|0|12|90
+Tyler Alexander|L|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|4|3|1|0|9|91
+Tyler Alexander|L|Gio Urshela|R|Strikeout|C|Curveball|5|0|0|1|13|82
+Tyler Alexander|L|Gio Urshela|R|Strikeout|B|Two-Seam Fastball|6|0|1|1|12|91
+Tyler Alexander|L|Gio Urshela|R|Strikeout|S|Two-Seam Fastball|7|1|1|1|14|91
+Tyler Alexander|L|Gio Urshela|R|Strikeout|F|Four-Seam Fastball|8|1|2|1|11|91
+Tyler Alexander|L|Gio Urshela|R|Strikeout|F|Four-Seam Fastball|9|1|2|1|2|91
+Tyler Alexander|L|Gio Urshela|R|Strikeout|F|Curveball|10|1|2|1|7|80
+Tyler Alexander|L|Gio Urshela|R|Strikeout|F|Two-Seam Fastball|11|1|2|1|12|90
+Tyler Alexander|L|Gio Urshela|R|Strikeout|S|Slider|12|1|2|1|11|85
+Tyler Alexander|L|Mike Ford|L|Groundout|C|Curveball|13|0|0|2|13|80
+Tyler Alexander|L|Mike Ford|L|Groundout|S|Slider|14|0|1|2|13|83
+Tyler Alexander|L|Mike Ford|L|Groundout|B|Four-Seam Fastball|15|0|2|2|13|91
+Tyler Alexander|L|Mike Ford|L|Groundout|B|Four-Seam Fastball|16|1|2|2|13|90
+Tyler Alexander|L|Mike Ford|L|Groundout|X|Curveball|17|2|2|2|13|82
+Tyler Alexander|L|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|18|0|0|0|12|89
+Tyler Alexander|L|Clint Frazier|R|Strikeout|C|Changeup|19|1|0|0|11|82
+Tyler Alexander|L|Clint Frazier|R|Strikeout|C|Curveball|20|1|1|0|14|81
+Tyler Alexander|L|Clint Frazier|R|Strikeout|C|Four-Seam Fastball|21|1|2|0|3|90
+Tyler Alexander|L|Tyler Wade|L|Flyout|B|Curveball|22|0|0|1|11|82
+Tyler Alexander|L|Tyler Wade|L|Flyout|B|Curveball|23|1|0|1|13|83
+Tyler Alexander|L|Tyler Wade|L|Flyout|X|Four-Seam Fastball|24|2|0|1|3|90
+Tyler Alexander|L|Gleyber Torres|R|Home Run|C|Four-Seam Fastball|25|0|0|2|3|91
+Tyler Alexander|L|Gleyber Torres|R|Home Run|B|Changeup|26|0|1|2|14|83
+Tyler Alexander|L|Gleyber Torres|R|Home Run|F|Slider|27|1|1|2|13|86
+Tyler Alexander|L|Gleyber Torres|R|Home Run|B|Changeup|28|1|2|2|12|83
+Tyler Alexander|L|Gleyber Torres|R|Home Run|E|Changeup|29|2|2|2|6|84
+Tyler Alexander|L|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|30|0|0|2|5|91
+Tyler Alexander|L|Brett Gardner|L|Strikeout|B|Slider|31|0|1|2|13|84
+Tyler Alexander|L|Brett Gardner|L|Strikeout|C|Two-Seam Fastball|32|1|1|2|12|91
+Tyler Alexander|L|Brett Gardner|L|Strikeout|B|Slider|33|1|2|2|13|84
+Tyler Alexander|L|Brett Gardner|L|Strikeout|S|Four-Seam Fastball|34|2|2|2|4|92
+Tyler Alexander|L|Gary Sanchez|R|Flyout|C|Two-Seam Fastball|35|0|0|0|14|90
+Tyler Alexander|L|Gary Sanchez|R|Flyout|C|Curveball|36|0|1|0|14|81
+Tyler Alexander|L|Gary Sanchez|R|Flyout|B|Four-Seam Fastball|37|0|2|0|12|90
+Tyler Alexander|L|Gary Sanchez|R|Flyout|F|Four-Seam Fastball|38|1|2|0|12|91
+Tyler Alexander|L|Gary Sanchez|R|Flyout|F|Slider|39|1|2|0|2|82
+Tyler Alexander|L|Gary Sanchez|R|Flyout|B|Two-Seam Fastball|40|1|2|0|12|91
+Tyler Alexander|L|Gary Sanchez|R|Flyout|X|Four-Seam Fastball|41|2|2|0|6|91
+Tyler Alexander|L|Edwin Encarnacion|R|Lineout|S|Curveball|42|0|0|1|8|82
+Tyler Alexander|L|Edwin Encarnacion|R|Lineout|F|Four-Seam Fastball|43|0|1|1|7|90
+Tyler Alexander|L|Edwin Encarnacion|R|Lineout|B|Two-Seam Fastball|44|0|2|1|12|90
+Tyler Alexander|L|Edwin Encarnacion|R|Lineout|X|Curveball|45|1|2|1|3|82
+Tyler Alexander|L|Didi Gregorius|L|Home Run|E|Curveball|46|0|0|2|7|81
+Tyler Alexander|L|Gio Urshela|R|Flyout|F|Two-Seam Fastball|47|0|0|2|9|90
+Tyler Alexander|L|Gio Urshela|R|Flyout|X|Four-Seam Fastball|48|0|1|2|4|89
+Tyler Alexander|L|Mike Ford|L|Groundout|F|Four-Seam Fastball|49|0|0|0|4|89
+Tyler Alexander|L|Mike Ford|L|Groundout|B|Curveball|50|0|1|0|13|82
+Tyler Alexander|L|Mike Ford|L|Groundout|C|Two-Seam Fastball|51|1|1|0|2|90
+Tyler Alexander|L|Mike Ford|L|Groundout|F|Four-Seam Fastball|52|1|2|0|4|91
+Tyler Alexander|L|Mike Ford|L|Groundout|X|Two-Seam Fastball|53|1|2|0|12|90
+Tyler Alexander|L|Clint Frazier|R|Strikeout|B|Curveball|54|0|0|1|12|80
+Tyler Alexander|L|Clint Frazier|R|Strikeout|C|Two-Seam Fastball|55|1|0|1|12|89
+Tyler Alexander|L|Clint Frazier|R|Strikeout|T|Changeup|56|1|1|1|2|84
+Tyler Alexander|L|Clint Frazier|R|Strikeout|F|Two-Seam Fastball|57|1|2|1|8|91
+Tyler Alexander|L|Clint Frazier|R|Strikeout|F|Four-Seam Fastball|58|1|2|1|13|91
+Tyler Alexander|L|Clint Frazier|R|Strikeout|S|Changeup|59|1|2|1|14|83
+Tyler Alexander|L|Tyler Wade|L|Pop Out|B|Curveball|60|0|0|2|13|82
+Tyler Alexander|L|Tyler Wade|L|Pop Out|B|Four-Seam Fastball|61|1|0|2|11|90
+Tyler Alexander|L|Tyler Wade|L|Pop Out|X|Four-Seam Fastball|62|2|0|2|5|90
+Tyler Alexander|L|Hanser Alberto|R|Flyout|X|Four-Seam Fastball|0|0|0|0|14|91
+Tyler Alexander|L|Trey Mancini|R|Groundout|B|Two-Seam Fastball|1|0|0|1|12|91
+Tyler Alexander|L|Trey Mancini|R|Groundout|C|Four-Seam Fastball|2|1|0|1|8|90
+Tyler Alexander|L|Trey Mancini|R|Groundout|F|Two-Seam Fastball|3|1|1|1|14|92
+Tyler Alexander|L|Trey Mancini|R|Groundout|X|Slider|4|1|2|1|11|84
+Tyler Alexander|L|Anthony Santander|R|Pop Out|B|Two-Seam Fastball|5|0|0|2|12|91
+Tyler Alexander|L|Anthony Santander|R|Pop Out|B|Two-Seam Fastball|6|1|0|2|14|91
+Tyler Alexander|L|Anthony Santander|R|Pop Out|S|Two-Seam Fastball|7|2|0|2|12|92
+Tyler Alexander|L|Anthony Santander|R|Pop Out|F|Two-Seam Fastball|8|2|1|2|8|92
+Tyler Alexander|L|Anthony Santander|R|Pop Out|F|Curveball|9|2|2|2|13|82
+Tyler Alexander|L|Anthony Santander|R|Pop Out|X|Four-Seam Fastball|10|2|2|2|11|91
+Tyler Alexander|L|Renato Nunez|R|Groundout|C|Four-Seam Fastball|11|0|0|0|5|90
+Tyler Alexander|L|Renato Nunez|R|Groundout|F|Changeup|12|0|1|0|8|83
+Tyler Alexander|L|Renato Nunez|R|Groundout|B|Two-Seam Fastball|13|0|2|0|14|92
+Tyler Alexander|L|Renato Nunez|R|Groundout|X|Two-Seam Fastball|14|1|2|0|12|91
+Tyler Alexander|L|Jonathan Villar|R|Flyout|B|Two-Seam Fastball|15|0|0|1|12|91
+Tyler Alexander|L|Jonathan Villar|R|Flyout|F|Changeup|16|1|0|1|6|84
+Tyler Alexander|L|Jonathan Villar|R|Flyout|B|Four-Seam Fastball|17|1|1|1|12|90
+Tyler Alexander|L|Jonathan Villar|R|Flyout|B|Two-Seam Fastball|18|2|1|1|14|90
+Tyler Alexander|L|Jonathan Villar|R|Flyout|X|Two-Seam Fastball|19|3|1|1|14|91
+Tyler Alexander|L|Austin Hays|R|Strikeout|C|Four-Seam Fastball|20|0|0|2|8|91
+Tyler Alexander|L|Austin Hays|R|Strikeout|C|Four-Seam Fastball|21|0|1|2|7|91
+Tyler Alexander|L|Austin Hays|R|Strikeout|B|Slider|22|0|2|2|13|84
+Tyler Alexander|L|Austin Hays|R|Strikeout|S|Changeup|23|1|2|2|12|84
+Tyler Alexander|L|Pedro Severino|R|Groundout|X|Two-Seam Fastball|24|0|0|0|9|89
+Tyler Alexander|L|Stevie Wilkerson|R|Groundout|C|Four-Seam Fastball|25|0|0|1|2|90
+Tyler Alexander|L|Stevie Wilkerson|R|Groundout|B|Two-Seam Fastball|26|0|1|1|14|90
+Tyler Alexander|L|Stevie Wilkerson|R|Groundout|X|Slider|27|1|1|1|4|86
+Tyler Alexander|L|Richie Martin|R|Single|C|Two-Seam Fastball|28|0|0|2|8|90
+Tyler Alexander|L|Richie Martin|R|Single|F|Changeup|29|0|1|2|7|84
+Tyler Alexander|L|Richie Martin|R|Single|D|Changeup|30|0|2|2|14|84
+Tyler Alexander|L|Hanser Alberto|R|Flyout|C|Slider|31|0|0|2|9|84
+Tyler Alexander|L|Hanser Alberto|R|Flyout|F|Slider|32|0|1|2|13|84
+Tyler Alexander|L|Hanser Alberto|R|Flyout|F|Curveball|33|0|2|2|13|81
+Tyler Alexander|L|Hanser Alberto|R|Flyout|B|Four-Seam Fastball|34|0|2|2|11|91
+Tyler Alexander|L|Hanser Alberto|R|Flyout|X|Four-Seam Fastball|35|1|2|2|2|91
+Tyler Alexander|L|Trey Mancini|R|Double|D|Four-Seam Fastball|36|0|0|0|4|89
+Tyler Alexander|L|Anthony Santander|R|Groundout|F|Curveball|37|0|0|0|2|82
+Tyler Alexander|L|Anthony Santander|R|Groundout|F|Changeup|38|0|1|0|4|82
+Tyler Alexander|L|Anthony Santander|R|Groundout|F|Four-Seam Fastball|39|0|2|0|11|91
+Tyler Alexander|L|Anthony Santander|R|Groundout|X|Changeup|40|0|2|0|9|83
+Tyler Alexander|L|Renato Nunez|R|Strikeout|F|Changeup|41|0|0|1|6|83
+Tyler Alexander|L|Renato Nunez|R|Strikeout|F|Two-Seam Fastball|42|0|1|1|3|91
+Tyler Alexander|L|Renato Nunez|R|Strikeout|F|Curveball|43|0|2|1|13|82
+Tyler Alexander|L|Renato Nunez|R|Strikeout|S|Four-Seam Fastball|44|0|2|1|4|90
+Tyler Alexander|L|Jonathan Villar|R|Flyout|B|Slider|45|0|0|2|12|83
+Tyler Alexander|L|Jonathan Villar|R|Flyout|S|Four-Seam Fastball|46|1|0|2|9|90
+Tyler Alexander|L|Jonathan Villar|R|Flyout|F|Four-Seam Fastball|47|1|1|2|12|91
+Tyler Alexander|L|Jonathan Villar|R|Flyout|X|Four-Seam Fastball|48|1|2|2|5|89
+Tyler Alexander|L|Austin Hays|R|Lineout|B|Curveball|49|0|0|0|14|78
+Tyler Alexander|L|Austin Hays|R|Lineout|F|Curveball|50|1|0|0|2|82
+Tyler Alexander|L|Austin Hays|R|Lineout|B|Slider|51|1|1|0|12|83
+Tyler Alexander|L|Austin Hays|R|Lineout|X|Four-Seam Fastball|52|2|1|0|11|89
+Tyler Alexander|L|Pedro Severino|R|Flyout|B|Changeup|53|0|0|1|13|84
+Tyler Alexander|L|Pedro Severino|R|Flyout|B|Two-Seam Fastball|54|1|0|1|14|90
+Tyler Alexander|L|Pedro Severino|R|Flyout|C|Two-Seam Fastball|55|2|0|1|14|91
+Tyler Alexander|L|Pedro Severino|R|Flyout|F|Two-Seam Fastball|56|2|1|1|12|91
+Tyler Alexander|L|Pedro Severino|R|Flyout|B|Changeup|57|2|2|1|14|85
+Tyler Alexander|L|Pedro Severino|R|Flyout|X|Two-Seam Fastball|58|3|2|1|6|91
+Tyler Alexander|L|Stevie Wilkerson|R|Lineout|C|Two-Seam Fastball|59|0|0|2|14|91
+Tyler Alexander|L|Stevie Wilkerson|R|Lineout|C|Slider|60|0|1|2|13|86
+Tyler Alexander|L|Stevie Wilkerson|R|Lineout|F|Two-Seam Fastball|61|0|2|2|9|91
+Tyler Alexander|L|Stevie Wilkerson|R|Lineout|X|Two-Seam Fastball|62|0|2|2|6|91
+Tyler Alexander|L|Richie Martin|R|Strikeout|C|Two-Seam Fastball|63|0|0|0|3|88
+Tyler Alexander|L|Richie Martin|R|Strikeout|F|Two-Seam Fastball|64|0|1|0|14|90
+Tyler Alexander|L|Richie Martin|R|Strikeout|T|Four-Seam Fastball|65|0|2|0|2|91
+Tyler Alexander|L|Hanser Alberto|R|Flyout|B|Slider|66|0|0|1|12|85
+Tyler Alexander|L|Hanser Alberto|R|Flyout|X|Two-Seam Fastball|67|1|0|1|6|90
+Tyler Alexander|L|Trey Mancini|R|Home Run|B|Four-Seam Fastball|68|0|0|2|12|91
+Tyler Alexander|L|Trey Mancini|R|Home Run|C|Slider|69|1|0|2|5|85
+Tyler Alexander|L|Trey Mancini|R|Home Run|B|Changeup|70|1|1|2|14|84
+Tyler Alexander|L|Trey Mancini|R|Home Run|B|Changeup|71|2|1|2|2|83
+Tyler Alexander|L|Trey Mancini|R|Home Run|E|Four-Seam Fastball|72|3|1|2|5|90
+Tyler Alexander|L|Anthony Santander|R|Single|C|Two-Seam Fastball|73|0|0|2|5|90
+Tyler Alexander|L|Anthony Santander|R|Single|B|Slider|74|0|1|2|14|85
+Tyler Alexander|L|Anthony Santander|R|Single|F|Four-Seam Fastball|75|1|1|2|7|91
+Tyler Alexander|L|Anthony Santander|R|Single|F|Four-Seam Fastball|76|1|2|2|12|91
+Tyler Alexander|L|Anthony Santander|R|Single|B|Two-Seam Fastball|77|1|2|2|13|91
+Tyler Alexander|L|Anthony Santander|R|Single|B|Four-Seam Fastball|78|2|2|2|14|90
+Tyler Alexander|L|Anthony Santander|R|Single|D|Slider|79|3|2|2|5|87
+Tyler Alexander|L|Renato Nunez|R|Pop Out|C|Two-Seam Fastball|80|0|0|2|14|90
+Tyler Alexander|L|Renato Nunez|R|Pop Out|S|Four-Seam Fastball|81|0|1|2|8|90
+Tyler Alexander|L|Renato Nunez|R|Pop Out|F|Changeup|82|0|2|2|12|83
+Tyler Alexander|L|Renato Nunez|R|Pop Out|B|Four-Seam Fastball|83|0|2|2|12|90
+Tyler Alexander|L|Renato Nunez|R|Pop Out|X|Four-Seam Fastball|84|1|2|2|12|90
+Tyler Alexander|L|Leury Garcia|R|Flyout|X|Two-Seam Fastball|0|0|0|0|6|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|C|Two-Seam Fastball|1|0|0|1|14|91
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Four-Seam Fastball|2|0|1|1|2|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|B|Four-Seam Fastball|3|0|2|1|12|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Slider|4|1|2|1|11|86
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Curveball|5|1|2|1|13|83
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Four-Seam Fastball|6|1|2|1|12|91
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Slider|7|1|2|1|6|85
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Two-Seam Fastball|8|1|2|1|12|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|X|Curveball|9|1|2|1|13|83
+Tyler Alexander|L|Jose Abreu|R|Single|C|Curveball|10|0|0|2|8|81
+Tyler Alexander|L|Jose Abreu|R|Single|B|Slider|11|0|1|2|11|85
+Tyler Alexander|L|Jose Abreu|R|Single|B|Two-Seam Fastball|12|1|1|2|14|90
+Tyler Alexander|L|Jose Abreu|R|Single|D|Two-Seam Fastball|13|2|1|2|9|91
+Tyler Alexander|L|Eloy Jimenez|R|Pop Out|C|Two-Seam Fastball|14|0|0|2|9|90
+Tyler Alexander|L|Eloy Jimenez|R|Pop Out|X|Four-Seam Fastball|15|0|1|2|11|90
+Tyler Alexander|L|Yoan Moncada|R|Strikeout|B|Two-Seam Fastball|16|0|0|0|12|89
+Tyler Alexander|L|Yoan Moncada|R|Strikeout|C|Slider|17|1|0|0|11|82
+Tyler Alexander|L|Yoan Moncada|R|Strikeout|F|Two-Seam Fastball|18|1|1|0|14|90
+Tyler Alexander|L|Yoan Moncada|R|Strikeout|F|Changeup|19|1|2|0|12|83
+Tyler Alexander|L|Yoan Moncada|R|Strikeout|C|Four-Seam Fastball|20|1|2|0|7|90
+Tyler Alexander|L|James McCann|R|Groundout|X|Two-Seam Fastball|21|0|0|1|8|90
+Tyler Alexander|L|Welington Castillo|R|Double|B|Two-Seam Fastball|22|0|0|2|13|90
+Tyler Alexander|L|Welington Castillo|R|Double|F|Four-Seam Fastball|23|1|0|2|5|90
+Tyler Alexander|L|Welington Castillo|R|Double|F|Slider|24|1|1|2|13|85
+Tyler Alexander|L|Welington Castillo|R|Double|D|Curveball|25|1|2|2|8|82
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|S|Four-Seam Fastball|26|0|0|2|6|89
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Two-Seam Fastball|27|0|1|2|12|89
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Four-Seam Fastball|28|1|1|2|11|89
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Two-Seam Fastball|29|1|2|2|6|91
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Curveball|30|1|2|2|13|82
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Four-Seam Fastball|31|1|2|2|5|90
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Changeup|32|1|2|2|14|82
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|S|Changeup|33|2|2|2|9|84
+Tyler Alexander|L|Adam Engel|R|Single|D|Two-Seam Fastball|34|0|0|0|5|89
+Tyler Alexander|L|Leury Garcia|R|Single|D|Changeup|35|0|0|0|4|81
+Tyler Alexander|L|Tim Anderson|R|Strikeout|B|Four-Seam Fastball|36|0|0|0|13|90
+Tyler Alexander|L|Tim Anderson|R|Strikeout|F|Curveball|37|1|0|0|8|82
+Tyler Alexander|L|Tim Anderson|R|Strikeout|F|Curveball|38|1|1|0|3|81
+Tyler Alexander|L|Tim Anderson|R|Strikeout|S|Four-Seam Fastball|39|1|2|0|5|90
+Tyler Alexander|L|Jose Abreu|R|Flyout|B|Slider|40|0|0|1|13|85
+Tyler Alexander|L|Jose Abreu|R|Flyout|B|Four-Seam Fastball|41|1|0|1|2|90
+Tyler Alexander|L|Jose Abreu|R|Flyout|X|Slider|42|2|0|1|8|84
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|S|Changeup|43|0|0|2|5|84
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|*B|Changeup|44|0|1|2|14|85
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Four-Seam Fastball|45|1|1|2|8|90
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|B|Curveball|46|1|2|2|13|83
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Changeup|47|2|2|2|14|84
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|*B|Changeup|48|2|2|2|14|84
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|C|Four-Seam Fastball|49|3|2|2|8|90
+Tyler Alexander|L|Yoan Moncada|R|Lineout|X|Changeup|50|0|0|0|14|81
+Tyler Alexander|L|James McCann|R|Double|B|Two-Seam Fastball|51|0|0|1|12|89
+Tyler Alexander|L|James McCann|R|Double|F|Two-Seam Fastball|52|1|0|1|14|90
+Tyler Alexander|L|James McCann|R|Double|B|Four-Seam Fastball|53|1|1|1|11|90
+Tyler Alexander|L|James McCann|R|Double|B|Changeup|54|2|1|1|14|83
+Tyler Alexander|L|James McCann|R|Double|F|Two-Seam Fastball|55|3|1|1|3|90
+Tyler Alexander|L|James McCann|R|Double|F|Four-Seam Fastball|56|3|2|1|3|91
+Tyler Alexander|L|James McCann|R|Double|D|Four-Seam Fastball|57|3|2|1|6|91
+Tyler Alexander|L|Welington Castillo|R|Single|C|Slider|58|0|0|1|7|85
+Tyler Alexander|L|Welington Castillo|R|Single|S|Changeup|59|0|1|1|14|83
+Tyler Alexander|L|Welington Castillo|R|Single|B|Changeup|60|0|2|1|14|83
+Tyler Alexander|L|Welington Castillo|R|Single|F|Two-Seam Fastball|61|1|2|1|9|90
+Tyler Alexander|L|Welington Castillo|R|Single|F|Four-Seam Fastball|62|1|2|1|5|90
+Tyler Alexander|L|Welington Castillo|R|Single|F|Four-Seam Fastball|63|1|2|1|1|89
+Tyler Alexander|L|Welington Castillo|R|Single|D|Curveball|64|1|2|1|5|81
+Tyler Alexander|L|Yolmer Sanchez|R|Pop Out|F|Four-Seam Fastball|65|0|0|1|1|89
+Tyler Alexander|L|Yolmer Sanchez|R|Pop Out|L|Slider|66|0|1|1|11|84
+Tyler Alexander|L|Yolmer Sanchez|R|Pop Out|X|Four-Seam Fastball|67|0|2|1|11|90
+Tyler Alexander|L|Adam Engel|R|Pop Out|B|Changeup|68|0|0|2|14|82
+Tyler Alexander|L|Adam Engel|R|Pop Out|T|Slider|69|1|0|2|5|84
+Tyler Alexander|L|Adam Engel|R|Pop Out|B|Changeup|70|1|1|2|14|83
+Tyler Alexander|L|Adam Engel|R|Pop Out|S|Slider|71|2|1|2|5|85
+Tyler Alexander|L|Adam Engel|R|Pop Out|X|Slider|72|2|2|2|7|83
+Tyler Alexander|L|Leury Garcia|R|Groundout|C|Slider|73|0|0|0|4|84
+Tyler Alexander|L|Leury Garcia|R|Groundout|X|Changeup|74|0|1|0|14|82
+Tyler Alexander|L|Tim Anderson|R|Home Run|B|Curveball|75|0|0|1|14|81
+Tyler Alexander|L|Tim Anderson|R|Home Run|B|Four-Seam Fastball|76|1|0|1|13|89
+Tyler Alexander|L|Tim Anderson|R|Home Run|T|Slider|77|2|0|1|13|85
+Tyler Alexander|L|Tim Anderson|R|Home Run|E|Slider|78|2|1|1|13|86
+Tyler Alexander|L|Jose Abreu|R|Single|B|Curveball|79|0|0|1|14|82
+Tyler Alexander|L|Jose Abreu|R|Single|C|Four-Seam Fastball|80|1|0|1|13|89
+Tyler Alexander|L|Jose Abreu|R|Single|B|Two-Seam Fastball|81|1|1|1|14|91
+Tyler Alexander|L|Jose Abreu|R|Single|D|Curveball|82|2|1|1|9|82
+Tyler Alexander|L|Eloy Jimenez|R|Single|B|Changeup|83|0|0|1|12|82
+Tyler Alexander|L|Eloy Jimenez|R|Single|F|Four-Seam Fastball|84|1|0|1|1|88
+Tyler Alexander|L|Eloy Jimenez|R|Single|D|Changeup|85|1|1|1|12|82
+Tyler Alexander|L|Yoan Moncada|R|Triple|C|Four-Seam Fastball|86|0|0|1|5|89
+Tyler Alexander|L|Yoan Moncada|R|Triple|B|Four-Seam Fastball|87|0|1|1|11|89
+Tyler Alexander|L|Yoan Moncada|R|Triple|S|Slider|88|1|1|1|6|86
+Tyler Alexander|L|Yoan Moncada|R|Triple|F|Four-Seam Fastball|89|1|2|1|6|89
+Tyler Alexander|L|Yoan Moncada|R|Triple|E|Changeup|90|1|2|1|3|82
+Tyler Alexander|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|90
+Tyler Alexander|L|Alex Bregman|R|Walk|F|Changeup|1|1|0|0|7|83
+Tyler Alexander|L|Alex Bregman|R|Walk|B|Slider|2|1|1|0|13|86
+Tyler Alexander|L|Alex Bregman|R|Walk|B|Two-Seam Fastball|3|2|1|0|14|90
+Tyler Alexander|L|Alex Bregman|R|Walk|F|Slider|4|3|1|0|13|85
+Tyler Alexander|L|Alex Bregman|R|Walk|B|Changeup|5|3|2|0|12|83
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|C|Four-Seam Fastball|6|0|0|0|4|90
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|F|Curveball|7|0|1|0|9|80
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|B|Slider|8|0|2|0|13|84
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|F|Curveball|9|1|2|0|11|81
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|B|Four-Seam Fastball|10|1|2|0|11|90
+Tyler Alexander|L|Yordan Alvarez|L|Lineout|X|Slider|11|2|2|0|4|86
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|C|Two-Seam Fastball|12|0|0|1|6|89
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|C|Slider|13|0|1|1|7|86
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|F|Slider|14|0|2|1|13|84
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|B|Four-Seam Fastball|15|0|2|1|11|89
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|F|Slider|16|1|2|1|5|86
+Tyler Alexander|L|Yuli Gurriel|R|Flyout|X|Changeup|17|1|2|1|6|83
+Tyler Alexander|L|Robinson Chirinos|R|Single|C|Curveball|18|0|0|2|12|79
+Tyler Alexander|L|Robinson Chirinos|R|Single|D|Curveball|19|0|1|2|14|81
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|C|Two-Seam Fastball|20|0|0|2|6|89
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|B|Two-Seam Fastball|21|0|1|2|14|90
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|F|Slider|22|1|1|2|13|85
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|S|Curveball|23|1|2|2|13|82
+Tyler Alexander|L|Jack Mayfield|R|Strikeout|B|Two-Seam Fastball|24|0|0|0|14|90
+Tyler Alexander|L|Jack Mayfield|R|Strikeout|F|Two-Seam Fastball|25|1|0|0|9|89
+Tyler Alexander|L|Jack Mayfield|R|Strikeout|F|Two-Seam Fastball|26|1|1|0|14|89
+Tyler Alexander|L|Jack Mayfield|R|Strikeout|T|Changeup|27|1|2|0|14|83
+Tyler Alexander|L|Myles Straw|R|Lineout|C|Two-Seam Fastball|28|0|0|1|2|91
+Tyler Alexander|L|Myles Straw|R|Lineout|F|Two-Seam Fastball|29|0|1|1|14|91
+Tyler Alexander|L|Myles Straw|R|Lineout|B|Slider|30|0|2|1|11|85
+Tyler Alexander|L|Myles Straw|R|Lineout|B|Slider|31|1|2|1|13|85
+Tyler Alexander|L|Myles Straw|R|Lineout|X|Two-Seam Fastball|32|2|2|1|12|91
+Tyler Alexander|L|George Springer|R|Single|B|Two-Seam Fastball|33|0|0|2|14|91
+Tyler Alexander|L|George Springer|R|Single|B|Changeup|34|1|0|2|14|83
+Tyler Alexander|L|George Springer|R|Single|C|Two-Seam Fastball|35|2|0|2|14|91
+Tyler Alexander|L|George Springer|R|Single|F|Slider|36|2|1|2|13|86
+Tyler Alexander|L|George Springer|R|Single|B|Two-Seam Fastball|37|2|2|2|14|91
+Tyler Alexander|L|George Springer|R|Single|F|Slider|38|3|2|2|4|85
+Tyler Alexander|L|George Springer|R|Single|D|Changeup|39|3|2|2|12|83
+Tyler Alexander|L|Jose Altuve|R|Flyout|B|Slider|40|0|0|2|11|84
+Tyler Alexander|L|Jose Altuve|R|Flyout|B|Two-Seam Fastball|41|1|0|2|14|89
+Tyler Alexander|L|Jose Altuve|R|Flyout|C|Two-Seam Fastball|42|2|0|2|6|91
+Tyler Alexander|L|Jose Altuve|R|Flyout|B|Slider|43|2|1|2|12|85
+Tyler Alexander|L|Jose Altuve|R|Flyout|S|Two-Seam Fastball|44|3|1|2|14|90
+Tyler Alexander|L|Jose Altuve|R|Flyout|F|Two-Seam Fastball|45|3|2|2|2|91
+Tyler Alexander|L|Jose Altuve|R|Flyout|X|Curveball|46|3|2|2|3|80
+Tyler Alexander|L|Alex Bregman|R|Flyout|C|Two-Seam Fastball|47|0|0|0|8|89
+Tyler Alexander|L|Alex Bregman|R|Flyout|B|Slider|48|0|1|0|13|84
+Tyler Alexander|L|Alex Bregman|R|Flyout|B|Two-Seam Fastball|49|1|1|0|14|90
+Tyler Alexander|L|Alex Bregman|R|Flyout|X|Two-Seam Fastball|50|2|1|0|6|89
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|B|Slider|51|0|0|1|13|85
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|C|Four-Seam Fastball|52|1|0|1|8|90
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|F|Four-Seam Fastball|53|1|1|1|5|90
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|B|Curveball|54|1|2|1|13|82
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|B|Four-Seam Fastball|55|2|2|1|13|89
+Tyler Alexander|L|Yordan Alvarez|L|Groundout|X|Four-Seam Fastball|56|3|2|1|7|90
+Tyler Alexander|L|Yuli Gurriel|R|Pop Out|C|Two-Seam Fastball|57|0|0|2|14|90
+Tyler Alexander|L|Yuli Gurriel|R|Pop Out|F|Changeup|58|0|1|2|12|83
+Tyler Alexander|L|Yuli Gurriel|R|Pop Out|X|Slider|59|0|2|2|13|83
+Tyler Alexander|L|Robinson Chirinos|R|Home Run|E|Two-Seam Fastball|60|0|0|0|5|89
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|F|Two-Seam Fastball|61|0|0|0|6|89
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|F|Slider|62|0|1|0|13|85
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|63|0|2|0|1|89
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|B|Curveball|64|0|2|0|13|82
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|F|Two-Seam Fastball|65|1|2|0|12|89
+Tyler Alexander|L|Jake Marisnick|R|Strikeout|S|Curveball|66|1|2|0|1|82
+Tyler Alexander|L|Jack Mayfield|R|Lineout|X|Two-Seam Fastball|67|0|0|1|14|90
+Tyler Alexander|L|Myles Straw|R|Flyout|B|Two-Seam Fastball|68|0|0|2|12|89
+Tyler Alexander|L|Myles Straw|R|Flyout|B|Changeup|69|1|0|2|14|83
+Tyler Alexander|L|Myles Straw|R|Flyout|C|Two-Seam Fastball|70|2|0|2|14|89
+Tyler Alexander|L|Myles Straw|R|Flyout|C|Slider|71|2|1|2|5|85
+Tyler Alexander|L|Myles Straw|R|Flyout|X|Slider|72|2|2|2|7|83
+Tyler Alexander|L|Matt Olson|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|91
+Tyler Alexander|L|Matt Olson|L|Strikeout|S|Two-Seam Fastball|1|1|0|0|9|90
+Tyler Alexander|L|Matt Olson|L|Strikeout|B|Curveball|2|1|1|0|13|80
+Tyler Alexander|L|Matt Olson|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|7|91
+Tyler Alexander|L|Matt Olson|L|Strikeout|S|Two-Seam Fastball|4|2|2|0|12|90
+Tyler Alexander|L|Mark Canha|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|11|90
+Tyler Alexander|L|Mark Canha|R|Strikeout|C|Changeup|6|0|1|1|14|84
+Tyler Alexander|L|Mark Canha|R|Strikeout|F|Four-Seam Fastball|7|0|2|1|2|91
+Tyler Alexander|L|Mark Canha|R|Strikeout|B|Changeup|8|0|2|1|12|84
+Tyler Alexander|L|Mark Canha|R|Strikeout|F|Four-Seam Fastball|9|1|2|1|1|91
+Tyler Alexander|L|Mark Canha|R|Strikeout|C|Two-Seam Fastball|10|1|2|1|14|91
+Tyler Alexander|L|Seth Brown|L|Flyout|X|Four-Seam Fastball|11|0|0|2|1|92
+Tyler Alexander|L|Khris Davis|R|Groundout|C|Two-Seam Fastball|12|0|0|0|14|90
+Tyler Alexander|L|Khris Davis|R|Groundout|X|Changeup|13|0|1|0|6|83
+Tyler Alexander|L|Jurickson Profar|R|Single|B|Two-Seam Fastball|14|0|0|1|14|91
+Tyler Alexander|L|Jurickson Profar|R|Single|D|Slider|15|1|0|1|4|85
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|B|Changeup|16|0|0|1|12|83
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|B|Two-Seam Fastball|17|1|0|1|9|90
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|B|Two-Seam Fastball|18|2|0|1|12|89
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|F|Two-Seam Fastball|19|3|0|1|6|90
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|C|Changeup|20|3|1|1|12|83
+Tyler Alexander|L|Ramon Laureano|R|Strikeout|S|Two-Seam Fastball|21|3|2|1|12|91
+Tyler Alexander|L|Josh Phegley|R|Groundout|B|Two-Seam Fastball|22|0|0|2|12|91
+Tyler Alexander|L|Josh Phegley|R|Groundout|S|Changeup|23|1|0|2|14|83
+Tyler Alexander|L|Josh Phegley|R|Groundout|X|Two-Seam Fastball|24|1|1|2|12|90
+Tyler Alexander|L|Marcus Semien|R|Flyout|X|Four-Seam Fastball|25|0|0|0|4|89
+Tyler Alexander|L|Matt Chapman|R|Strikeout|C|Two-Seam Fastball|26|0|0|1|12|89
+Tyler Alexander|L|Matt Chapman|R|Strikeout|C|Curveball|27|0|1|1|6|80
+Tyler Alexander|L|Matt Chapman|R|Strikeout|B|Four-Seam Fastball|28|0|2|1|12|90
+Tyler Alexander|L|Matt Chapman|R|Strikeout|S|Two-Seam Fastball|29|1|2|1|6|91
+Tyler Alexander|L|Matt Olson|L|Strikeout|C|Curveball|30|0|0|2|3|80
+Tyler Alexander|L|Matt Olson|L|Strikeout|B|Two-Seam Fastball|31|0|1|2|14|89
+Tyler Alexander|L|Matt Olson|L|Strikeout|C|Four-Seam Fastball|32|1|1|2|8|90
+Tyler Alexander|L|Matt Olson|L|Strikeout|B|Four-Seam Fastball|33|1|2|2|11|90
+Tyler Alexander|L|Matt Olson|L|Strikeout|S|Four-Seam Fastball|34|2|2|2|13|90
+Tyler Alexander|L|Mallex Smith|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|89
+Tyler Alexander|L|Mallex Smith|L|Strikeout|F|Two-Seam Fastball|1|0|1|0|12|89
+Tyler Alexander|L|Mallex Smith|L|Strikeout|B|Curveball|2|0|2|0|13|81
+Tyler Alexander|L|Mallex Smith|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|12|90
+Tyler Alexander|L|Mallex Smith|L|Strikeout|S|Curveball|4|1|2|0|1|81
+Tyler Alexander|L|Domingo Santana|R|Walk|B|Two-Seam Fastball|5|0|0|1|14|91
+Tyler Alexander|L|Domingo Santana|R|Walk|B|Two-Seam Fastball|6|1|0|1|14|90
+Tyler Alexander|L|Domingo Santana|R|Walk|B|Two-Seam Fastball|7|2|0|1|14|90
+Tyler Alexander|L|Domingo Santana|R|Walk|C|Four-Seam Fastball|8|3|0|1|12|90
+Tyler Alexander|L|Domingo Santana|R|Walk|B|Four-Seam Fastball|9|3|1|1|12|91
+Tyler Alexander|L|Omar Narvaez|L|Grounded Into DP|C|Slider|10|0|0|1|13|83
+Tyler Alexander|L|Omar Narvaez|L|Grounded Into DP|X|Slider|11|0|1|1|13|85
+Tyler Alexander|L|Tim Beckham|R|Strikeout|S|Curveball|12|0|0|0|14|79
+Tyler Alexander|L|Tim Beckham|R|Strikeout|B|Changeup|13|0|1|0|14|84
+Tyler Alexander|L|Tim Beckham|R|Strikeout|C|Slider|14|1|1|0|12|84
+Tyler Alexander|L|Tim Beckham|R|Strikeout|B|Four-Seam Fastball|15|1|2|0|11|89
+Tyler Alexander|L|Tim Beckham|R|Strikeout|B|Curveball|16|2|2|0|13|80
+Tyler Alexander|L|Tim Beckham|R|Strikeout|C|Four-Seam Fastball|17|3|2|0|5|90
+Tyler Alexander|L|Daniel Vogelbach|L|Hit By Pitch|C|Four-Seam Fastball|18|0|0|1|4|91
+Tyler Alexander|L|Daniel Vogelbach|L|Hit By Pitch|H|Two-Seam Fastball|19|0|1|1|12|90
+Tyler Alexander|L|Austin Nola|R|Strikeout|C|Two-Seam Fastball|20|0|0|1|14|90
+Tyler Alexander|L|Austin Nola|R|Strikeout|B|Changeup|21|0|1|1|14|84
+Tyler Alexander|L|Austin Nola|R|Strikeout|S|Four-Seam Fastball|22|1|1|1|1|90
+Tyler Alexander|L|Austin Nola|R|Strikeout|B|Four-Seam Fastball|23|1|2|1|12|90
+Tyler Alexander|L|Austin Nola|R|Strikeout|F|Four-Seam Fastball|24|2|2|1|4|91
+Tyler Alexander|L|Austin Nola|R|Strikeout|B|Changeup|25|2|2|1|14|85
+Tyler Alexander|L|Austin Nola|R|Strikeout|F|Four-Seam Fastball|26|3|2|1|4|89
+Tyler Alexander|L|Austin Nola|R|Strikeout|F|Slider|27|3|2|1|5|83
+Tyler Alexander|L|Austin Nola|R|Strikeout|C|Two-Seam Fastball|28|3|2|1|14|90
+Tyler Alexander|L|Kyle Seager|L|Flyout|X|Slider|29|0|0|2|7|85
+Tyler Alexander|L|Ryan Court|R|Strikeout|C|Curveball|30|0|0|0|8|79
+Tyler Alexander|L|Ryan Court|R|Strikeout|F|Slider|31|0|1|0|7|85
+Tyler Alexander|L|Ryan Court|R|Strikeout|B|Four-Seam Fastball|32|0|2|0|12|89
+Tyler Alexander|L|Ryan Court|R|Strikeout|B|Four-Seam Fastball|33|1|2|0|11|89
+Tyler Alexander|L|Ryan Court|R|Strikeout|F|Curveball|34|2|2|0|7|80
+Tyler Alexander|L|Ryan Court|R|Strikeout|C|Four-Seam Fastball|35|2|2|0|7|89
+Tyler Alexander|L|Dylan Moore|R|Strikeout|B|Curveball|36|0|0|1|14|79
+Tyler Alexander|L|Dylan Moore|R|Strikeout|C|Four-Seam Fastball|37|1|0|1|9|90
+Tyler Alexander|L|Dylan Moore|R|Strikeout|B|Changeup|38|1|1|1|13|84
+Tyler Alexander|L|Dylan Moore|R|Strikeout|T|Two-Seam Fastball|39|2|1|1|9|90
+Tyler Alexander|L|Dylan Moore|R|Strikeout|S|Four-Seam Fastball|40|2|2|1|14|91
+Tyler Alexander|L|Mallex Smith|L|Single|F|Slider|41|0|0|2|13|85
+Tyler Alexander|L|Mallex Smith|L|Single|B|Curveball|42|0|1|2|14|79
+Tyler Alexander|L|Mallex Smith|L|Single|D|Slider|43|1|1|2|2|84
+Tyler Alexander|L|Domingo Santana|R|Strikeout|F|Two-Seam Fastball|44|0|0|2|9|89
+Tyler Alexander|L|Domingo Santana|R|Strikeout|F|Four-Seam Fastball|45|0|1|2|4|89
+Tyler Alexander|L|Domingo Santana|R|Strikeout|C|Curveball|46|0|2|2|14|79
+Tyler Alexander|L|Omar Narvaez|L|Single|C|Four-Seam Fastball|47|0|0|0|7|89
+Tyler Alexander|L|Omar Narvaez|L|Single|B|Curveball|48|0|1|0|13|80
+Tyler Alexander|L|Omar Narvaez|L|Single|F|Four-Seam Fastball|49|1|1|0|8|89
+Tyler Alexander|L|Omar Narvaez|L|Single|B|Four-Seam Fastball|50|1|2|0|11|89
+Tyler Alexander|L|Omar Narvaez|L|Single|D|Curveball|51|2|2|0|6|80
+Tyler Alexander|L|Tim Beckham|R|Single|C|Curveball|52|0|0|0|6|79
+Tyler Alexander|L|Tim Beckham|R|Single|F|Changeup|53|0|1|0|14|83
+Tyler Alexander|L|Tim Beckham|R|Single|B|Four-Seam Fastball|54|0|2|0|12|90
+Tyler Alexander|L|Tim Beckham|R|Single|D|Curveball|55|1|2|0|9|80
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|B|Curveball|56|0|0|0|14|80
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|B|Slider|57|1|0|0|14|84
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|58|2|0|0|11|91
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|B|Four-Seam Fastball|59|2|1|0|13|89
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|60|3|1|0|9|90
+Tyler Alexander|L|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|61|3|2|0|13|90
+Tyler Alexander|L|Austin Nola|R|Triple|E|Two-Seam Fastball|62|0|0|1|8|90
+Tyler Alexander|L|Kyle Seager|L|Strikeout|F|Curveball|63|0|0|1|3|80
+Tyler Alexander|L|Kyle Seager|L|Strikeout|F|Curveball|64|0|1|1|5|82
+Tyler Alexander|L|Kyle Seager|L|Strikeout|S|Four-Seam Fastball|65|0|2|1|11|90
+Tyler Alexander|L|Ryan Court|R|Single|C|Curveball|66|0|0|2|6|80
+Tyler Alexander|L|Ryan Court|R|Single|E|Curveball|67|0|1|2|14|81
+Tyler Alexander|L|Dylan Moore|R|Strikeout|B|Two-Seam Fastball|68|0|0|2|14|90
+Tyler Alexander|L|Dylan Moore|R|Strikeout|S|Four-Seam Fastball|69|1|0|2|4|89
+Tyler Alexander|L|Dylan Moore|R|Strikeout|B|Four-Seam Fastball|70|1|1|2|11|89
+Tyler Alexander|L|Dylan Moore|R|Strikeout|*B|Slider|71|2|1|2|14|84
+Tyler Alexander|L|Dylan Moore|R|Strikeout|F|Two-Seam Fastball|72|3|1|2|5|89
+Tyler Alexander|L|Dylan Moore|R|Strikeout|F|Four-Seam Fastball|73|3|2|2|4|89
+Tyler Alexander|L|Dylan Moore|R|Strikeout|F|Curveball|74|3|2|2|13|80
+Tyler Alexander|L|Dylan Moore|R|Strikeout|S|Four-Seam Fastball|75|3|2|2|7|89
+Tyler Alexander|L|Mallex Smith|L|Single|S|Slider|76|0|0|0|11|83
+Tyler Alexander|L|Mallex Smith|L|Single|B|Two-Seam Fastball|77|0|1|0|12|89
+Tyler Alexander|L|Mallex Smith|L|Single|B|Two-Seam Fastball|78|1|1|0|12|89
+Tyler Alexander|L|Mallex Smith|L|Single|F|Four-Seam Fastball|79|2|1|0|7|89
+Tyler Alexander|L|Mallex Smith|L|Single|D|Slider|80|2|2|0|11|85
+Tyler Alexander|L|Domingo Santana|R|Flyout|B|Four-Seam Fastball|81|0|0|0|14|89
+Tyler Alexander|L|Domingo Santana|R|Flyout|B|Four-Seam Fastball|82|1|0|0|12|89
+Tyler Alexander|L|Domingo Santana|R|Flyout|B|Four-Seam Fastball|83|2|0|0|14|89
+Tyler Alexander|L|Domingo Santana|R|Flyout|X|Four-Seam Fastball|84|3|0|0|5|90
+Tyler Alexander|L|Omar Narvaez|L|Single|S|Four-Seam Fastball|85|0|0|1|4|89
+Tyler Alexander|L|Omar Narvaez|L|Single|D|Four-Seam Fastball|86|0|1|1|3|89
+Tyler Alexander|L|Tim Beckham|R|Double|E|Four-Seam Fastball|87|0|0|1|2|88
+Tyler Alexander|L|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|90
+Tyler Alexander|L|Shin-Soo Choo|L|Flyout|X|Four-Seam Fastball|1|1|0|0|5|89
+Tyler Alexander|L|Danny Santana|R|Single|B|Four-Seam Fastball|2|0|0|1|11|91
+Tyler Alexander|L|Danny Santana|R|Single|B|Slider|3|1|0|1|12|84
+Tyler Alexander|L|Danny Santana|R|Single|D|Slider|4|2|0|1|2|85
+Tyler Alexander|L|Elvis Andrus|R|Flyout|C|Four-Seam Fastball|5|0|0|1|14|90
+Tyler Alexander|L|Elvis Andrus|R|Flyout|X|Four-Seam Fastball|6|0|1|1|11|89
+Tyler Alexander|L|Hunter Pence|R|Single|B|Changeup|7|0|0|2|14|83
+Tyler Alexander|L|Hunter Pence|R|Single|E|Two-Seam Fastball|8|1|0|2|14|90
+Tyler Alexander|L|Willie Calhoun|L|Groundout|C|Curveball|9|0|0|2|14|78
+Tyler Alexander|L|Willie Calhoun|L|Groundout|X|Slider|10|0|1|2|6|84
+Tyler Alexander|L|Rougned Odor|L|Field Error|C|Four-Seam Fastball|11|0|0|0|7|90
+Tyler Alexander|L|Rougned Odor|L|Field Error|D|Slider|12|0|1|0|13|85
+Tyler Alexander|L|Scott Heineman|R|Flyout|S|Two-Seam Fastball|13|0|0|0|6|90
+Tyler Alexander|L|Scott Heineman|R|Flyout|F|Four-Seam Fastball|14|0|1|0|5|90
+Tyler Alexander|L|Scott Heineman|R|Flyout|B|Four-Seam Fastball|15|0|2|0|12|91
+Tyler Alexander|L|Scott Heineman|R|Flyout|B|Slider|16|1|2|0|13|85
+Tyler Alexander|L|Scott Heineman|R|Flyout|X|Slider|17|2|2|0|3|85
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Grounded Into DP|S|Changeup|18|0|0|1|14|83
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Grounded Into DP|C|Four-Seam Fastball|19|0|1|1|7|90
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Grounded Into DP|F|Two-Seam Fastball|20|0|2|1|12|90
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Grounded Into DP|X|Curveball|21|0|2|1|6|78
+Tyler Alexander|L|Jeff Mathis|R|Double|D|Two-Seam Fastball|22|0|0|0|14|90
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|B|Curveball|23|0|0|0|12|76
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|B|Two-Seam Fastball|24|1|0|0|12|89
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|F|Four-Seam Fastball|25|2|0|0|4|91
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|X|Two-Seam Fastball|26|2|1|0|6|89
+Tyler Alexander|L|Danny Santana|R|Sac Fly|*B|Curveball|27|0|0|1|13|81
+Tyler Alexander|L|Danny Santana|R|Sac Fly|F|Slider|28|1|0|1|2|85
+Tyler Alexander|L|Danny Santana|R|Sac Fly|E|Four-Seam Fastball|29|1|1|1|11|90
+Tyler Alexander|L|Elvis Andrus|R|Single|B|Changeup|30|0|0|2|14|83
+Tyler Alexander|L|Elvis Andrus|R|Single|B|Two-Seam Fastball|31|1|0|2|14|90
+Tyler Alexander|L|Elvis Andrus|R|Single|D|Slider|32|2|0|2|4|85
+Tyler Alexander|L|Hunter Pence|R|Pop Out|C|Slider|33|0|0|2|1|85
+Tyler Alexander|L|Hunter Pence|R|Pop Out|X|Changeup|34|0|1|2|14|83
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|B|Slider|35|0|0|0|13|86
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|F|Two-Seam Fastball|36|1|0|0|9|90
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|B|Changeup|37|1|1|0|11|84
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|F|Four-Seam Fastball|38|2|1|0|1|91
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|B|Four-Seam Fastball|39|2|2|0|11|91
+Tyler Alexander|L|Willie Calhoun|L|Strikeout|S|Four-Seam Fastball|40|3|2|0|4|90
+Tyler Alexander|L|Rougned Odor|L|Home Run|B|Two-Seam Fastball|41|0|0|1|13|91
+Tyler Alexander|L|Rougned Odor|L|Home Run|E|Curveball|42|1|0|1|5|80
+Tyler Alexander|L|Scott Heineman|R|Single|F|Two-Seam Fastball|43|0|0|1|4|90
+Tyler Alexander|L|Scott Heineman|R|Single|F|Four-Seam Fastball|44|0|1|1|12|91
+Tyler Alexander|L|Scott Heineman|R|Single|B|Curveball|45|0|2|1|13|82
+Tyler Alexander|L|Scott Heineman|R|Single|B|Four-Seam Fastball|46|1|2|1|12|90
+Tyler Alexander|L|Scott Heineman|R|Single|F|Two-Seam Fastball|47|2|2|1|12|91
+Tyler Alexander|L|Scott Heineman|R|Single|D|Changeup|48|2|2|1|14|85
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Single|C|Curveball|49|0|0|1|6|79
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Single|F|Changeup|50|0|1|1|14|84
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Single|D|Curveball|51|0|2|1|5|82
+Tyler Alexander|L|Jeff Mathis|R|Strikeout|F|Curveball|52|0|0|1|7|78
+Tyler Alexander|L|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|53|0|1|1|2|89
+Tyler Alexander|L|Jeff Mathis|R|Strikeout|S|Two-Seam Fastball|54|0|2|1|12|89
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|C|Curveball|55|0|0|2|6|78
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|S|Curveball|56|0|1|2|5|81
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|B|Two-Seam Fastball|57|0|2|2|12|91
+Tyler Alexander|L|Shin-Soo Choo|L|Groundout|X|Two-Seam Fastball|58|1|2|2|12|90
+Tyler Alexander|L|Danny Santana|R|Triple|B|Changeup|59|0|0|0|12|83
+Tyler Alexander|L|Danny Santana|R|Triple|B|Two-Seam Fastball|60|1|0|0|14|89
+Tyler Alexander|L|Danny Santana|R|Triple|C|Four-Seam Fastball|61|2|0|0|13|89
+Tyler Alexander|L|Danny Santana|R|Triple|D|Four-Seam Fastball|62|2|1|0|6|90
+Tyler Alexander|L|Elvis Andrus|R|Double|B|Curveball|63|0|0|0|12|79
+Tyler Alexander|L|Elvis Andrus|R|Double|F|Curveball|64|1|0|0|6|82
+Tyler Alexander|L|Elvis Andrus|R|Double|T|Four-Seam Fastball|65|1|1|0|12|90
+Tyler Alexander|L|Elvis Andrus|R|Double|E|Four-Seam Fastball|66|1|2|0|1|91
+Tyler Alexander|L|Hunter Pence|R|Flyout|F|Four-Seam Fastball|67|0|0|0|2|90
+Tyler Alexander|L|Hunter Pence|R|Flyout|B|Four-Seam Fastball|68|0|1|0|1|90
+Tyler Alexander|L|Hunter Pence|R|Flyout|X|Changeup|69|1|1|0|12|85
+Tyler Alexander|L|Willie Calhoun|L|Groundout|F|Four-Seam Fastball|70|0|0|1|5|90
+Tyler Alexander|L|Willie Calhoun|L|Groundout|X|Two-Seam Fastball|71|0|1|1|12|89
+Tyler Alexander|L|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|72|0|0|2|2|90
+Tyler Alexander|L|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|73|0|1|2|11|91
+Tyler Alexander|L|Rougned Odor|L|Strikeout|F|Two-Seam Fastball|74|1|1|2|12|90
+Tyler Alexander|L|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|75|1|2|2|2|92
+Tyler Alexander|L|Rougned Odor|L|Strikeout|S|Slider|76|1|2|2|12|84
+Tyler Alexander|L|Scott Heineman|R|Strikeout|C|Curveball|77|0|0|0|12|78
+Tyler Alexander|L|Scott Heineman|R|Strikeout|B|Two-Seam Fastball|78|0|1|0|14|89
+Tyler Alexander|L|Scott Heineman|R|Strikeout|S|Curveball|79|1|1|0|13|82
+Tyler Alexander|L|Scott Heineman|R|Strikeout|S|Curveball|80|1|2|0|13|81
+Tyler Alexander|L|Isiah Kiner-Falefa|R|Lineout|X|Four-Seam Fastball|81|0|0|1|5|90
+Tyler Alexander|L|Jeff Mathis|R|Single|D|Curveball|82|0|0|2|14|78
+Tyler Alexander|L|Shin-Soo Choo|L|Field Error|B|Curveball|83|0|0|2|13|80
+Tyler Alexander|L|Shin-Soo Choo|L|Field Error|D|Four-Seam Fastball|84|1|0|2|6|90
+Tyler Alexander|L|Leury Garcia|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|91
+Tyler Alexander|L|Leury Garcia|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|13|91
+Tyler Alexander|L|Leury Garcia|R|Strikeout|F|Four-Seam Fastball|2|0|2|0|12|91
+Tyler Alexander|L|Leury Garcia|R|Strikeout|F|Four-Seam Fastball|3|0|2|0|4|92
+Tyler Alexander|L|Leury Garcia|R|Strikeout|W|Curveball|4|0|2|0|8|81
+Tyler Alexander|L|Yoan Moncada|R|Home Run|B|Four-Seam Fastball|5|0|0|1|13|92
+Tyler Alexander|L|Yoan Moncada|R|Home Run|B|Four-Seam Fastball|6|1|0|1|13|92
+Tyler Alexander|L|Yoan Moncada|R|Home Run|E|Four-Seam Fastball|7|2|0|1|4|92
+Tyler Alexander|L|Jose Abreu|R|Single|C|Two-Seam Fastball|8|0|0|1|9|92
+Tyler Alexander|L|Jose Abreu|R|Single|D|Changeup|9|0|1|1|9|86
+Tyler Alexander|L|James McCann|R|Strikeout|C|Two-Seam Fastball|10|0|0|1|14|91
+Tyler Alexander|L|James McCann|R|Strikeout|B|Two-Seam Fastball|11|0|1|1|14|91
+Tyler Alexander|L|James McCann|R|Strikeout|C|Two-Seam Fastball|12|1|1|1|8|92
+Tyler Alexander|L|James McCann|R|Strikeout|B|Four-Seam Fastball|13|1|2|1|12|91
+Tyler Alexander|L|James McCann|R|Strikeout|B|Two-Seam Fastball|14|2|2|1|12|92
+Tyler Alexander|L|James McCann|R|Strikeout|S|Two-Seam Fastball|15|3|2|1|8|92
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|X|Slider|16|0|0|2|6|86
+Tyler Alexander|L|Jon Jay|L|Groundout|C|Four-Seam Fastball|17|0|0|0|7|91
+Tyler Alexander|L|Jon Jay|L|Groundout|F|Curveball|18|0|1|0|7|82
+Tyler Alexander|L|Jon Jay|L|Groundout|B|Curveball|19|0|2|0|13|81
+Tyler Alexander|L|Jon Jay|L|Groundout|B|Two-Seam Fastball|20|1|2|0|11|90
+Tyler Alexander|L|Jon Jay|L|Groundout|F|Four-Seam Fastball|21|2|2|0|4|92
+Tyler Alexander|L|Jon Jay|L|Groundout|X|Curveball|22|2|2|0|6|81
+Tyler Alexander|L|Yolmer Sanchez|R|Single|C|Four-Seam Fastball|23|0|0|1|2|92
+Tyler Alexander|L|Yolmer Sanchez|R|Single|C|Four-Seam Fastball|24|0|1|1|9|92
+Tyler Alexander|L|Yolmer Sanchez|R|Single|B|Four-Seam Fastball|25|0|2|1|12|92
+Tyler Alexander|L|Yolmer Sanchez|R|Single|B|Four-Seam Fastball|26|1|2|1|12|93
+Tyler Alexander|L|Yolmer Sanchez|R|Single|F|Curveball|27|2|2|1|3|83
+Tyler Alexander|L|Yolmer Sanchez|R|Single|B|Two-Seam Fastball|28|2|2|1|12|92
+Tyler Alexander|L|Yolmer Sanchez|R|Single|F|Two-Seam Fastball|29|3|2|1|6|92
+Tyler Alexander|L|Yolmer Sanchez|R|Single|D|Two-Seam Fastball|30|3|2|1|6|92
+Tyler Alexander|L|Ryan Cordell|R|Flyout|F|Two-Seam Fastball|31|0|0|1|5|90
+Tyler Alexander|L|Ryan Cordell|R|Flyout|C|Curveball|32|0|1|1|4|80
+Tyler Alexander|L|Ryan Cordell|R|Flyout|F|Two-Seam Fastball|33|0|2|1|11|91
+Tyler Alexander|L|Ryan Cordell|R|Flyout|X|Curveball|34|0|2|1|4|82
+Tyler Alexander|L|Zack Collins|L|Groundout|B|Curveball|35|0|0|2|13|81
+Tyler Alexander|L|Zack Collins|L|Groundout|C|Four-Seam Fastball|36|1|0|2|8|90
+Tyler Alexander|L|Zack Collins|L|Groundout|C|Four-Seam Fastball|37|1|1|2|13|91
+Tyler Alexander|L|Zack Collins|L|Groundout|B|Four-Seam Fastball|38|1|2|2|1|91
+Tyler Alexander|L|Zack Collins|L|Groundout|B|Four-Seam Fastball|39|2|2|2|13|92
+Tyler Alexander|L|Zack Collins|L|Groundout|X|Four-Seam Fastball|40|3|2|2|5|91
+Tyler Alexander|L|Leury Garcia|R|Single|B|Curveball|41|0|0|0|13|80
+Tyler Alexander|L|Leury Garcia|R|Single|D|Four-Seam Fastball|42|1|0|0|7|90
+Tyler Alexander|L|Yoan Moncada|R|Flyout|F|Four-Seam Fastball|43|0|0|0|2|90
+Tyler Alexander|L|Yoan Moncada|R|Flyout|X|Changeup|44|0|1|0|12|85
+Tyler Alexander|L|Jose Abreu|R|Groundout|C|Four-Seam Fastball|45|0|0|1|7|91
+Tyler Alexander|L|Jose Abreu|R|Groundout|B|Curveball|46|0|1|1|12|81
+Tyler Alexander|L|Jose Abreu|R|Groundout|F|Four-Seam Fastball|47|1|1|1|5|91
+Tyler Alexander|L|Jose Abreu|R|Groundout|B|Curveball|48|1|2|1|13|80
+Tyler Alexander|L|Jose Abreu|R|Groundout|F|Four-Seam Fastball|49|2|2|1|12|91
+Tyler Alexander|L|Jose Abreu|R|Groundout|B|Curveball|50|2|2|1|13|81
+Tyler Alexander|L|Jose Abreu|R|Groundout|X|Four-Seam Fastball|51|3|2|1|13|91
+Tyler Alexander|L|James McCann|R|Groundout|X|Changeup|52|0|0|2|8|86
+Tyler Alexander|L|Eloy Jimenez|R|Groundout|B|Curveball|53|0|0|0|12|80
+Tyler Alexander|L|Eloy Jimenez|R|Groundout|B|Two-Seam Fastball|54|1|0|0|14|90
+Tyler Alexander|L|Eloy Jimenez|R|Groundout|X|Two-Seam Fastball|55|2|0|0|9|90
+Tyler Alexander|L|Jon Jay|L|Strikeout|B|Curveball|56|0|0|1|13|81
+Tyler Alexander|L|Jon Jay|L|Strikeout|S|Curveball|57|1|0|1|13|82
+Tyler Alexander|L|Jon Jay|L|Strikeout|F|Two-Seam Fastball|58|1|1|1|3|90
+Tyler Alexander|L|Jon Jay|L|Strikeout|B|Four-Seam Fastball|59|1|2|1|11|90
+Tyler Alexander|L|Jon Jay|L|Strikeout|C|Curveball|60|2|2|1|12|81
+Tyler Alexander|L|Yolmer Sanchez|R|Lineout|C|Curveball|61|0|0|2|7|80
+Tyler Alexander|L|Yolmer Sanchez|R|Lineout|X|Changeup|62|0|1|2|9|86
+Tyler Alexander|L|Ryan Cordell|R|Home Run|B|Two-Seam Fastball|63|0|0|0|13|91
+Tyler Alexander|L|Ryan Cordell|R|Home Run|C|Curveball|64|1|0|0|13|80
+Tyler Alexander|L|Ryan Cordell|R|Home Run|F|Four-Seam Fastball|65|1|1|0|8|90
+Tyler Alexander|L|Ryan Cordell|R|Home Run|E|Four-Seam Fastball|66|1|2|0|6|90
+Tyler Alexander|L|Zack Collins|L|Strikeout|C|Curveball|67|0|0|0|5|79
+Tyler Alexander|L|Zack Collins|L|Strikeout|F|Curveball|68|0|1|0|6|80
+Tyler Alexander|L|Zack Collins|L|Strikeout|B|Four-Seam Fastball|69|0|2|0|11|90
+Tyler Alexander|L|Zack Collins|L|Strikeout|S|Curveball|70|1|2|0|3|80
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Curveball|71|0|0|1|13|80
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Two-Seam Fastball|72|0|1|1|3|91
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Curveball|73|0|2|1|13|81
+Tyler Alexander|L|Leury Garcia|R|Groundout|B|Curveball|74|0|2|1|13|81
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Curveball|75|1|2|1|13|81
+Tyler Alexander|L|Leury Garcia|R|Groundout|B|Two-Seam Fastball|76|1|2|1|12|92
+Tyler Alexander|L|Leury Garcia|R|Groundout|F|Curveball|77|2|2|1|4|80
+Tyler Alexander|L|Leury Garcia|R|Groundout|X|Changeup|78|2|2|1|6|85
+Tyler Alexander|L|Yoan Moncada|R|Pop Out|B|Changeup|79|0|0|2|13|86
+Tyler Alexander|L|Yoan Moncada|R|Pop Out|B|Changeup|80|1|0|2|14|85
+Tyler Alexander|L|Yoan Moncada|R|Pop Out|F|Changeup|81|2|0|2|5|86
+Tyler Alexander|L|Yoan Moncada|R|Pop Out|S|Two-Seam Fastball|82|2|1|2|6|91
+Tyler Alexander|L|Yoan Moncada|R|Pop Out|X|Curveball|83|2|2|2|4|81
+Tyler Alexander|L|Leury Garcia|R|Single|D|Two-Seam Fastball|0|0|0|0|2|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Two-Seam Fastball|1|0|0|0|9|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Slider|2|0|1|0|2|84
+Tyler Alexander|L|Tim Anderson|R|Flyout|F|Four-Seam Fastball|3|0|2|0|5|91
+Tyler Alexander|L|Tim Anderson|R|Flyout|B|Four-Seam Fastball|4|0|2|0|12|90
+Tyler Alexander|L|Tim Anderson|R|Flyout|X|Curveball|5|1|2|0|7|82
+Tyler Alexander|L|Jose Abreu|R|Double Play|C|Slider|6|0|0|1|2|84
+Tyler Alexander|L|Jose Abreu|R|Double Play|F|Two-Seam Fastball|7|0|1|1|6|92
+Tyler Alexander|L|Jose Abreu|R|Double Play|F|Four-Seam Fastball|8|0|2|1|12|90
+Tyler Alexander|L|Jose Abreu|R|Double Play|X|Slider|9|0|2|1|4|84
+Tyler Alexander|L|Eloy Jimenez|R|Single|D|Curveball|10|0|0|0|4|79
+Tyler Alexander|L|James McCann|R|Single|B|Two-Seam Fastball|11|0|0|0|13|89
+Tyler Alexander|L|James McCann|R|Single|F|Slider|12|1|0|0|13|84
+Tyler Alexander|L|James McCann|R|Single|B|Two-Seam Fastball|13|1|1|0|12|90
+Tyler Alexander|L|James McCann|R|Single|F|Two-Seam Fastball|14|2|1|0|14|90
+Tyler Alexander|L|James McCann|R|Single|F|Four-Seam Fastball|15|2|2|0|1|89
+Tyler Alexander|L|James McCann|R|Single|D|Slider|16|2|2|0|5|84
+Tyler Alexander|L|Yolmer Sanchez|R|Flyout|F|Two-Seam Fastball|17|0|0|0|12|91
+Tyler Alexander|L|Yolmer Sanchez|R|Flyout|S|Changeup|18|0|1|0|14|83
+Tyler Alexander|L|Yolmer Sanchez|R|Flyout|X|Four-Seam Fastball|19|0|2|0|11|90
+Tyler Alexander|L|Danny Mendick|R|Strikeout|B|Changeup|20|0|0|1|14|84
+Tyler Alexander|L|Danny Mendick|R|Strikeout|F|Two-Seam Fastball|21|1|0|1|4|90
+Tyler Alexander|L|Danny Mendick|R|Strikeout|B|Curveball|22|1|1|1|14|81
+Tyler Alexander|L|Danny Mendick|R|Strikeout|F|Changeup|23|2|1|1|14|83
+Tyler Alexander|L|Danny Mendick|R|Strikeout|C|Four-Seam Fastball|24|2|2|1|6|90
+Tyler Alexander|L|Zack Collins|L|Single|*B|Curveball|25|0|0|2|13|81
+Tyler Alexander|L|Zack Collins|L|Single|C|Four-Seam Fastball|26|1|0|2|13|89
+Tyler Alexander|L|Zack Collins|L|Single|E|Two-Seam Fastball|27|1|1|2|14|89
+Tyler Alexander|L|Adam Engel|R|Double|D|Changeup|28|0|0|2|12|81
+Tyler Alexander|L|Leury Garcia|R|Groundout|X|Four-Seam Fastball|29|0|0|2|1|89
+Tyler Alexander|L|Tim Anderson|R|Walk|C|Two-Seam Fastball|30|0|0|0|14|90
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Two-Seam Fastball|31|0|1|0|14|90
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Four-Seam Fastball|32|0|2|0|12|90
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Curveball|33|1|2|0|12|81
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Four-Seam Fastball|34|1|2|0|12|90
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Curveball|35|2|2|0|6|82
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Slider|36|2|2|0|11|86
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Four-Seam Fastball|37|2|2|0|6|91
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Two-Seam Fastball|38|2|2|0|12|91
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Four-Seam Fastball|39|3|2|0|2|90
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Four-Seam Fastball|40|3|2|0|4|90
+Tyler Alexander|L|Tim Anderson|R|Walk|F|Two-Seam Fastball|41|3|2|0|12|91
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Slider|42|3|2|0|12|85
+Tyler Alexander|L|Jose Abreu|R|Grounded Into DP|C|Four-Seam Fastball|43|0|0|0|13|89
+Tyler Alexander|L|Jose Abreu|R|Grounded Into DP|F|Curveball|44|0|1|0|14|82
+Tyler Alexander|L|Jose Abreu|R|Grounded Into DP|X|Curveball|45|0|2|0|14|82
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|C|Four-Seam Fastball|46|0|0|2|11|90
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|B|Changeup|47|0|1|2|14|84
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|S|Changeup|48|1|1|2|14|83
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|B|Curveball|49|1|2|2|14|83
+Tyler Alexander|L|Eloy Jimenez|R|Lineout|X|Four-Seam Fastball|50|2|2|2|12|90
+Tyler Alexander|L|James McCann|R|Groundout|X|Slider|51|0|0|0|2|84
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|C|Two-Seam Fastball|52|0|0|1|13|90
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Slider|53|0|1|1|13|85
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|B|Changeup|54|1|1|1|13|84
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|C|Four-Seam Fastball|55|2|1|1|14|90
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|F|Four-Seam Fastball|56|2|2|1|3|90
+Tyler Alexander|L|Yolmer Sanchez|R|Strikeout|W|Curveball|57|2|2|1|13|82
+Tyler Alexander|L|Danny Mendick|R|Single|D|Slider|58|0|0|2|11|84
+Tyler Alexander|L|Zack Collins|L|Hit By Pitch|F|Four-Seam Fastball|59|0|0|2|5|89
+Tyler Alexander|L|Zack Collins|L|Hit By Pitch|F|Curveball|60|0|1|2|9|82
+Tyler Alexander|L|Zack Collins|L|Hit By Pitch|B|Curveball|61|0|2|2|13|83
+Tyler Alexander|L|Zack Collins|L|Hit By Pitch|F|Curveball|62|1|2|2|13|82
+Tyler Alexander|L|Zack Collins|L|Hit By Pitch|H|Two-Seam Fastball|63|1|2|2|12|89
+Tyler Alexander|L|Adam Engel|R|Strikeout|C|Slider|64|0|0|2|9|84
+Tyler Alexander|L|Adam Engel|R|Strikeout|B|Two-Seam Fastball|65|0|1|2|12|89
+Tyler Alexander|L|Adam Engel|R|Strikeout|F|Four-Seam Fastball|66|1|1|2|13|89
+Tyler Alexander|L|Adam Engel|R|Strikeout|B|Two-Seam Fastball|67|1|2|2|11|90
+Tyler Alexander|L|Adam Engel|R|Strikeout|S|Two-Seam Fastball|68|2|2|2|12|89
+Tyler Alexander|L|Leury Garcia|R|Lineout|C|Slider|69|0|0|0|13|83
+Tyler Alexander|L|Leury Garcia|R|Lineout|B|Changeup|70|0|1|0|13|83
+Tyler Alexander|L|Leury Garcia|R|Lineout|X|Four-Seam Fastball|71|1|1|0|11|89
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Changeup|72|0|0|1|14|83
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Four-Seam Fastball|73|1|0|1|11|91
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Slider|74|2|0|1|11|85
+Tyler Alexander|L|Tim Anderson|R|Walk|B|Two-Seam Fastball|75|3|0|1|12|89
+Tyler Alexander|L|Jose Abreu|R|Single|D|Curveball|76|0|0|1|6|81
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Four-Seam Fastball|77|0|0|1|4|89
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|B|Four-Seam Fastball|78|0|1|1|11|89
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|F|Slider|79|1|1|1|6|83
+Tyler Alexander|L|Eloy Jimenez|R|Strikeout|S|Changeup|80|1|2|1|14|85
+Tyler Alexander|L|James McCann|R|Flyout|S|Changeup|81|0|0|2|9|83
+Tyler Alexander|L|James McCann|R|Flyout|B|Four-Seam Fastball|82|0|1|2|11|90
+Tyler Alexander|L|James McCann|R|Flyout|S|Four-Seam Fastball|83|1|1|2|11|89
+Tyler Alexander|L|James McCann|R|Flyout|F|Four-Seam Fastball|84|1|2|2|4|90
+Tyler Alexander|L|James McCann|R|Flyout|X|Four-Seam Fastball|85|1|2|2|4|90

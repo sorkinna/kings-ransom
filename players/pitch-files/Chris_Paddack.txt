@@ -1,0 +1,2284 @@
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|4|92
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|B|Curveball|1|0|1|0|11|73
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|F|Four-Seam Fastball|2|1|1|0|3|93
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|B|Changeup|3|1|2|0|13|83
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|X|Changeup|4|2|2|0|13|82
+Chris Paddack|R|Wilmer Flores|R|Double|C|Curveball|5|0|0|1|9|75
+Chris Paddack|R|Wilmer Flores|R|Double|C|Four-Seam Fastball|6|0|1|1|7|93
+Chris Paddack|R|Wilmer Flores|R|Double|B|Four-Seam Fastball|7|0|2|1|12|95
+Chris Paddack|R|Wilmer Flores|R|Double|D|Four-Seam Fastball|8|1|2|1|6|94
+Chris Paddack|R|David Peralta|L|Groundout|C|Changeup|9|0|0|1|9|83
+Chris Paddack|R|David Peralta|L|Groundout|S|Four-Seam Fastball|10|0|1|1|3|94
+Chris Paddack|R|David Peralta|L|Groundout|F|Four-Seam Fastball|11|0|2|1|3|94
+Chris Paddack|R|David Peralta|L|Groundout|F|Four-Seam Fastball|12|0|2|1|4|94
+Chris Paddack|R|David Peralta|L|Groundout|X|Changeup|13|0|2|1|13|84
+Chris Paddack|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|14|0|0|2|1|94
+Chris Paddack|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|15|0|1|2|11|94
+Chris Paddack|R|Adam Jones|R|Strikeout|S|Changeup|16|1|1|2|13|85
+Chris Paddack|R|Adam Jones|R|Strikeout|S|Changeup|17|1|2|2|13|85
+Chris Paddack|R|Eduardo Escobar|L|Flyout|X|Four-Seam Fastball|18|0|0|0|1|91
+Chris Paddack|R|Christian Walker|R|Walk|B|Four-Seam Fastball|19|0|0|1|12|93
+Chris Paddack|R|Christian Walker|R|Walk|B|Curveball|20|1|0|1|14|73
+Chris Paddack|R|Christian Walker|R|Walk|B|Changeup|21|2|0|1|9|84
+Chris Paddack|R|Christian Walker|R|Walk|C|Four-Seam Fastball|22|3|0|1|3|92
+Chris Paddack|R|Christian Walker|R|Walk|S|Four-Seam Fastball|23|3|1|1|2|93
+Chris Paddack|R|Christian Walker|R|Walk|F|Four-Seam Fastball|24|3|2|1|5|93
+Chris Paddack|R|Christian Walker|R|Walk|F|Four-Seam Fastball|25|3|2|1|4|93
+Chris Paddack|R|Christian Walker|R|Walk|B|Changeup|26|3|2|1|14|84
+Chris Paddack|R|Nick Ahmed|R|Lineout|C|Four-Seam Fastball|27|0|0|1|5|93
+Chris Paddack|R|Nick Ahmed|R|Lineout|C|Curveball|28|0|1|1|2|76
+Chris Paddack|R|Nick Ahmed|R|Lineout|F|Four-Seam Fastball|29|0|2|1|11|93
+Chris Paddack|R|Nick Ahmed|R|Lineout|B|Changeup|30|0|2|1|13|84
+Chris Paddack|R|Nick Ahmed|R|Lineout|B|Changeup|31|1|2|1|13|84
+Chris Paddack|R|Nick Ahmed|R|Lineout|F|Changeup|32|2|2|1|1|84
+Chris Paddack|R|Nick Ahmed|R|Lineout|X|Four-Seam Fastball|33|2|2|1|11|94
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|34|0|0|2|5|94
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|35|0|1|2|4|93
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|36|0|2|2|11|93
+Chris Paddack|R|Carson Kelly|R|Strikeout|*B|Curveball|37|0|2|2|14|76
+Chris Paddack|R|Carson Kelly|R|Strikeout|B|Changeup|38|1|2|2|13|84
+Chris Paddack|R|Carson Kelly|R|Strikeout|T|Four-Seam Fastball|39|2|2|2|14|95
+Chris Paddack|R|Luke Weaver|R|Strikeout|C|Four-Seam Fastball|40|0|0|0|14|91
+Chris Paddack|R|Luke Weaver|R|Strikeout|B|Four-Seam Fastball|41|0|1|0|14|93
+Chris Paddack|R|Luke Weaver|R|Strikeout|S|Changeup|42|1|1|0|13|82
+Chris Paddack|R|Luke Weaver|R|Strikeout|S|Four-Seam Fastball|43|1|2|0|14|93
+Chris Paddack|R|Jarrod Dyson|L|Double|C|Four-Seam Fastball|44|0|0|1|13|92
+Chris Paddack|R|Jarrod Dyson|L|Double|B|Four-Seam Fastball|45|0|1|1|12|93
+Chris Paddack|R|Jarrod Dyson|L|Double|F|Four-Seam Fastball|46|1|1|1|5|93
+Chris Paddack|R|Jarrod Dyson|L|Double|D|Changeup|47|1|2|1|7|84
+Chris Paddack|R|Wilmer Flores|R|Groundout|B|Changeup|48|0|0|1|14|83
+Chris Paddack|R|Wilmer Flores|R|Groundout|X|Changeup|49|1|0|1|14|84
+Chris Paddack|R|David Peralta|L|Single|B|Four-Seam Fastball|50|0|0|2|14|94
+Chris Paddack|R|David Peralta|L|Single|F|Curveball|51|1|0|2|14|74
+Chris Paddack|R|David Peralta|L|Single|F|Changeup|52|1|1|2|14|84
+Chris Paddack|R|David Peralta|L|Single|E|Four-Seam Fastball|53|1|2|2|4|95
+Chris Paddack|R|Adam Jones|R|Lineout|S|Four-Seam Fastball|54|0|0|2|5|94
+Chris Paddack|R|Adam Jones|R|Lineout|X|Curveball|55|0|1|2|7|77
+Chris Paddack|R|Eduardo Escobar|L|Groundout|C|Four-Seam Fastball|56|0|0|0|4|92
+Chris Paddack|R|Eduardo Escobar|L|Groundout|B|Changeup|57|0|1|0|14|83
+Chris Paddack|R|Eduardo Escobar|L|Groundout|X|Changeup|58|1|1|0|13|83
+Chris Paddack|R|Christian Walker|R|Flyout|F|Changeup|59|0|0|1|4|82
+Chris Paddack|R|Christian Walker|R|Flyout|F|Four-Seam Fastball|60|0|1|1|5|93
+Chris Paddack|R|Christian Walker|R|Flyout|F|Four-Seam Fastball|61|0|2|1|2|94
+Chris Paddack|R|Christian Walker|R|Flyout|X|Changeup|62|0|2|1|4|84
+Chris Paddack|R|Nick Ahmed|R|Flyout|C|Four-Seam Fastball|63|0|0|2|2|93
+Chris Paddack|R|Nick Ahmed|R|Flyout|B|Curveball|64|0|1|2|12|74
+Chris Paddack|R|Nick Ahmed|R|Flyout|F|Four-Seam Fastball|65|1|1|2|6|94
+Chris Paddack|R|Nick Ahmed|R|Flyout|X|Curveball|66|1|2|2|11|76
+Chris Paddack|R|Carson Kelly|R|Strikeout|C|Changeup|67|0|0|0|13|84
+Chris Paddack|R|Carson Kelly|R|Strikeout|B|Four-Seam Fastball|68|0|1|0|13|93
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Changeup|69|1|1|0|7|83
+Chris Paddack|R|Carson Kelly|R|Strikeout|B|Changeup|70|1|2|0|13|84
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|71|2|2|0|12|94
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|72|2|2|0|1|94
+Chris Paddack|R|Carson Kelly|R|Strikeout|F|Four-Seam Fastball|73|2|2|0|4|94
+Chris Paddack|R|Carson Kelly|R|Strikeout|S|Changeup|74|2|2|0|9|84
+Chris Paddack|R|Luke Weaver|R|Strikeout|C|Four-Seam Fastball|75|0|0|1|8|92
+Chris Paddack|R|Luke Weaver|R|Strikeout|C|Curveball|76|0|1|1|9|73
+Chris Paddack|R|Luke Weaver|R|Strikeout|F|Four-Seam Fastball|77|0|2|1|1|94
+Chris Paddack|R|Luke Weaver|R|Strikeout|S|Changeup|78|0|2|1|8|85
+Chris Paddack|R|Jarrod Dyson|L|Groundout|S|Four-Seam Fastball|79|0|0|2|11|94
+Chris Paddack|R|Jarrod Dyson|L|Groundout|X|Four-Seam Fastball|80|0|1|2|6|94
+Chris Paddack|R|Wilmer Flores|R|Lineout|C|Changeup|81|0|0|0|7|81
+Chris Paddack|R|Wilmer Flores|R|Lineout|S|Changeup|82|0|1|0|13|83
+Chris Paddack|R|Wilmer Flores|R|Lineout|F|Changeup|83|0|2|0|13|82
+Chris Paddack|R|Wilmer Flores|R|Lineout|F|Four-Seam Fastball|84|0|2|0|11|94
+Chris Paddack|R|Wilmer Flores|R|Lineout|B|Curveball|85|0|2|0|14|76
+Chris Paddack|R|Wilmer Flores|R|Lineout|B|Changeup|86|1|2|0|13|84
+Chris Paddack|R|Wilmer Flores|R|Lineout|X|Four-Seam Fastball|87|2|2|0|4|93
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|92
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|B|Curveball|1|0|1|0|14|77
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|4|94
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|B|Changeup|3|1|2|0|11|84
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|B|Curveball|4|2|2|0|11|76
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|2|93
+Chris Paddack|R|Ketel Marte|L|Single|B|Four-Seam Fastball|6|0|0|1|14|93
+Chris Paddack|R|Ketel Marte|L|Single|D|Four-Seam Fastball|7|1|0|1|4|92
+Chris Paddack|R|Eduardo Escobar|L|Forceout|X|Changeup|8|0|0|1|7|84
+Chris Paddack|R|Christian Walker|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|3|93
+Chris Paddack|R|Christian Walker|R|Strikeout|C|Four-Seam Fastball|10|0|1|2|9|94
+Chris Paddack|R|Christian Walker|R|Strikeout|S|Four-Seam Fastball|11|0|2|2|1|95
+Chris Paddack|R|Wilmer Flores|R|Strikeout|C|Four-Seam Fastball|12|0|0|0|14|92
+Chris Paddack|R|Wilmer Flores|R|Strikeout|B|Four-Seam Fastball|13|0|1|0|11|93
+Chris Paddack|R|Wilmer Flores|R|Strikeout|F|Four-Seam Fastball|14|1|1|0|6|94
+Chris Paddack|R|Wilmer Flores|R|Strikeout|F|Four-Seam Fastball|15|1|2|0|11|94
+Chris Paddack|R|Wilmer Flores|R|Strikeout|B|Four-Seam Fastball|16|1|2|0|12|94
+Chris Paddack|R|Wilmer Flores|R|Strikeout|S|Changeup|17|2|2|0|14|83
+Chris Paddack|R|Josh Rojas|L|Flyout|F|Four-Seam Fastball|18|0|0|1|11|93
+Chris Paddack|R|Josh Rojas|L|Flyout|B|Four-Seam Fastball|19|0|1|1|11|94
+Chris Paddack|R|Josh Rojas|L|Flyout|B|Changeup|20|1|1|1|13|85
+Chris Paddack|R|Josh Rojas|L|Flyout|S|Changeup|21|2|1|1|13|85
+Chris Paddack|R|Josh Rojas|L|Flyout|B|Changeup|22|2|2|1|14|85
+Chris Paddack|R|Josh Rojas|L|Flyout|X|Changeup|23|3|2|1|9|85
+Chris Paddack|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|24|0|0|2|12|93
+Chris Paddack|R|Nick Ahmed|R|Groundout|C|Curveball|25|1|0|2|3|76
+Chris Paddack|R|Nick Ahmed|R|Groundout|F|Four-Seam Fastball|26|1|1|2|13|94
+Chris Paddack|R|Nick Ahmed|R|Groundout|F|Changeup|27|1|2|2|13|85
+Chris Paddack|R|Nick Ahmed|R|Groundout|F|Four-Seam Fastball|28|1|2|2|12|95
+Chris Paddack|R|Nick Ahmed|R|Groundout|X|Four-Seam Fastball|29|1|2|2|5|95
+Chris Paddack|R|Carson Kelly|R|Walk|C|Four-Seam Fastball|30|0|0|0|14|92
+Chris Paddack|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|31|0|1|0|14|93
+Chris Paddack|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|32|1|1|0|14|94
+Chris Paddack|R|Carson Kelly|R|Walk|B|Changeup|33|2|1|0|14|85
+Chris Paddack|R|Carson Kelly|R|Walk|B|Four-Seam Fastball|34|3|1|0|12|93
+Chris Paddack|R|Zac Gallen|R|Pop Out|B|Four-Seam Fastball|35|0|0|0|3|93
+Chris Paddack|R|Zac Gallen|R|Pop Out|C|Four-Seam Fastball|36|1|0|0|2|93
+Chris Paddack|R|Zac Gallen|R|Pop Out|L|Four-Seam Fastball|37|1|1|0|4|93
+Chris Paddack|R|Zac Gallen|R|Pop Out|X|Four-Seam Fastball|38|1|2|0|1|94
+Chris Paddack|R|Jarrod Dyson|L|Walk|*B|Curveball|39|0|0|1|14|77
+Chris Paddack|R|Jarrod Dyson|L|Walk|B|Changeup|40|1|0|1|14|84
+Chris Paddack|R|Jarrod Dyson|L|Walk|B|Four-Seam Fastball|41|2|0|1|14|94
+Chris Paddack|R|Jarrod Dyson|L|Walk|B|Four-Seam Fastball|42|3|0|1|12|94
+Chris Paddack|R|Ketel Marte|L|Strikeout|C|Four-Seam Fastball|43|0|0|1|11|94
+Chris Paddack|R|Ketel Marte|L|Strikeout|C|Four-Seam Fastball|44|0|1|1|13|94
+Chris Paddack|R|Ketel Marte|L|Strikeout|*B|Changeup|45|0|2|1|13|86
+Chris Paddack|R|Ketel Marte|L|Strikeout|S|Four-Seam Fastball|46|1|2|1|11|95
+Chris Paddack|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|47|0|0|2|13|94
+Chris Paddack|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|48|1|0|2|5|94
+Chris Paddack|R|Eduardo Escobar|L|Groundout|B|Four-Seam Fastball|49|1|1|2|12|95
+Chris Paddack|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|50|2|1|2|2|94
+Chris Paddack|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|51|2|2|2|12|95
+Chris Paddack|R|Eduardo Escobar|L|Groundout|F|Four-Seam Fastball|52|2|2|2|13|95
+Chris Paddack|R|Eduardo Escobar|L|Groundout|*B|Changeup|53|2|2|2|13|86
+Chris Paddack|R|Eduardo Escobar|L|Groundout|X|Changeup|54|3|2|2|7|85
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Curveball|55|0|0|0|4|75
+Chris Paddack|R|Christian Walker|R|Strikeout|S|Changeup|56|0|1|0|13|84
+Chris Paddack|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|57|0|2|0|14|94
+Chris Paddack|R|Christian Walker|R|Strikeout|T|Four-Seam Fastball|58|1|2|0|4|94
+Chris Paddack|R|Wilmer Flores|R|Single|F|Changeup|59|0|0|1|14|84
+Chris Paddack|R|Wilmer Flores|R|Single|F|Four-Seam Fastball|60|0|1|1|1|94
+Chris Paddack|R|Wilmer Flores|R|Single|D|Four-Seam Fastball|61|0|2|1|6|94
+Chris Paddack|R|Josh Rojas|L|Strikeout|C|Changeup|62|0|0|1|6|83
+Chris Paddack|R|Josh Rojas|L|Strikeout|B|Four-Seam Fastball|63|0|1|1|13|94
+Chris Paddack|R|Josh Rojas|L|Strikeout|F|Four-Seam Fastball|64|1|1|1|8|93
+Chris Paddack|R|Josh Rojas|L|Strikeout|B|Four-Seam Fastball|65|1|2|1|11|95
+Chris Paddack|R|Josh Rojas|L|Strikeout|C|Curveball|66|2|2|1|2|77
+Chris Paddack|R|Nick Ahmed|R|Forceout|S|Changeup|67|0|0|2|9|84
+Chris Paddack|R|Nick Ahmed|R|Forceout|F|Four-Seam Fastball|68|0|1|2|3|94
+Chris Paddack|R|Nick Ahmed|R|Forceout|X|Curveball|69|0|2|2|14|79
+Chris Paddack|R|Carson Kelly|R|Groundout|B|Four-Seam Fastball|70|0|0|0|14|92
+Chris Paddack|R|Carson Kelly|R|Groundout|B|Four-Seam Fastball|71|1|0|0|14|92
+Chris Paddack|R|Carson Kelly|R|Groundout|F|Four-Seam Fastball|72|2|0|0|8|92
+Chris Paddack|R|Carson Kelly|R|Groundout|F|Four-Seam Fastball|73|2|1|0|11|93
+Chris Paddack|R|Carson Kelly|R|Groundout|X|Changeup|74|2|2|0|14|84
+Chris Paddack|R|Zac Gallen|R|Strikeout|C|Four-Seam Fastball|75|0|0|1|5|92
+Chris Paddack|R|Zac Gallen|R|Strikeout|B|Four-Seam Fastball|76|0|1|1|14|93
+Chris Paddack|R|Zac Gallen|R|Strikeout|B|Four-Seam Fastball|77|1|1|1|12|93
+Chris Paddack|R|Zac Gallen|R|Strikeout|S|Four-Seam Fastball|78|2|1|1|2|93
+Chris Paddack|R|Zac Gallen|R|Strikeout|S|Changeup|79|2|2|1|14|85
+Chris Paddack|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|80|0|0|2|6|93
+Chris Paddack|R|Ketel Marte|L|Single|F|Four-Seam Fastball|81|0|0|0|7|92
+Chris Paddack|R|Ketel Marte|L|Single|D|Four-Seam Fastball|82|0|1|0|1|93
+Chris Paddack|R|Eduardo Escobar|L|Single|C|Changeup|83|0|0|0|8|85
+Chris Paddack|R|Eduardo Escobar|L|Single|D|Changeup|84|0|1|0|4|84
+Chris Paddack|R|Christian Walker|R|Strikeout|B|Changeup|85|0|0|0|13|85
+Chris Paddack|R|Christian Walker|R|Strikeout|S|Changeup|86|1|0|0|13|85
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|87|1|1|0|2|94
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Changeup|88|1|2|0|13|85
+Chris Paddack|R|Christian Walker|R|Strikeout|C|Four-Seam Fastball|89|1|2|0|12|95
+Chris Paddack|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|91
+Chris Paddack|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|5|93
+Chris Paddack|R|Joc Pederson|L|Strikeout|S|Changeup|2|0|2|0|7|83
+Chris Paddack|R|Max Muncy|L|Lineout|B|Four-Seam Fastball|3|0|0|1|11|93
+Chris Paddack|R|Max Muncy|L|Lineout|C|Four-Seam Fastball|4|1|0|1|5|92
+Chris Paddack|R|Max Muncy|L|Lineout|B|Curveball|5|1|1|1|14|74
+Chris Paddack|R|Max Muncy|L|Lineout|F|Changeup|6|2|1|1|9|83
+Chris Paddack|R|Max Muncy|L|Lineout|X|Changeup|7|2|2|1|4|84
+Chris Paddack|R|Justin Turner|R|Hit By Pitch|H|Four-Seam Fastball|8|0|0|2|11|93
+Chris Paddack|R|Cody Bellinger|L|Pop Out|F|Four-Seam Fastball|9|0|0|2|4|93
+Chris Paddack|R|Cody Bellinger|L|Pop Out|X|Four-Seam Fastball|10|0|1|2|5|93
+Chris Paddack|R|Alex Verdugo|L|Lineout|B|Four-Seam Fastball|11|0|0|0|11|92
+Chris Paddack|R|Alex Verdugo|L|Lineout|C|Four-Seam Fastball|12|1|0|0|7|92
+Chris Paddack|R|Alex Verdugo|L|Lineout|S|Changeup|13|1|1|0|13|83
+Chris Paddack|R|Alex Verdugo|L|Lineout|B|Four-Seam Fastball|14|1|2|0|12|93
+Chris Paddack|R|Alex Verdugo|L|Lineout|X|Four-Seam Fastball|15|2|2|0|4|94
+Chris Paddack|R|Corey Seager|L|Groundout|B|Changeup|16|0|0|1|14|84
+Chris Paddack|R|Corey Seager|L|Groundout|X|Changeup|17|1|0|1|9|83
+Chris Paddack|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|18|0|0|2|3|93
+Chris Paddack|R|Chris Taylor|R|Strikeout|C|Four-Seam Fastball|19|0|1|2|5|94
+Chris Paddack|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|20|0|2|2|1|95
+Chris Paddack|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|21|0|2|2|12|94
+Chris Paddack|R|Chris Taylor|R|Strikeout|B|Changeup|22|1|2|2|14|84
+Chris Paddack|R|Chris Taylor|R|Strikeout|B|Changeup|23|2|2|2|14|85
+Chris Paddack|R|Chris Taylor|R|Strikeout|C|Changeup|24|3|2|2|9|83
+Chris Paddack|R|Austin Barnes|R|Field Error|D|Four-Seam Fastball|25|0|0|0|9|92
+Chris Paddack|R|Clayton Kershaw|L|Sac Bunt|C|Four-Seam Fastball|26|0|0|0|6|91
+Chris Paddack|R|Clayton Kershaw|L|Sac Bunt|X|Four-Seam Fastball|27|0|1|0|4|93
+Chris Paddack|R|Joc Pederson|L|Home Run|*B|Curveball|28|0|0|1|14|76
+Chris Paddack|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|29|1|0|1|5|93
+Chris Paddack|R|Max Muncy|L|Walk|B|Four-Seam Fastball|30|0|0|1|11|93
+Chris Paddack|R|Max Muncy|L|Walk|B|Curveball|31|1|0|1|13|75
+Chris Paddack|R|Max Muncy|L|Walk|C|Changeup|32|2|0|1|9|83
+Chris Paddack|R|Max Muncy|L|Walk|C|Changeup|33|2|1|1|9|84
+Chris Paddack|R|Max Muncy|L|Walk|B|Four-Seam Fastball|34|2|2|1|12|94
+Chris Paddack|R|Max Muncy|L|Walk|F|Four-Seam Fastball|35|3|2|1|6|93
+Chris Paddack|R|Max Muncy|L|Walk|F|Four-Seam Fastball|36|3|2|1|11|94
+Chris Paddack|R|Max Muncy|L|Walk|B|Changeup|37|3|2|1|14|84
+Chris Paddack|R|Justin Turner|R|Lineout|C|Four-Seam Fastball|38|0|0|1|6|94
+Chris Paddack|R|Justin Turner|R|Lineout|B|Curveball|39|0|1|1|12|76
+Chris Paddack|R|Justin Turner|R|Lineout|B|Changeup|40|1|1|1|14|83
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|41|2|1|1|6|93
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|42|2|2|1|1|94
+Chris Paddack|R|Justin Turner|R|Lineout|X|Changeup|43|2|2|1|6|85
+Chris Paddack|R|Cody Bellinger|L|Home Run|B|Curveball|44|0|0|2|14|76
+Chris Paddack|R|Cody Bellinger|L|Home Run|B|Four-Seam Fastball|45|1|0|2|12|93
+Chris Paddack|R|Cody Bellinger|L|Home Run|F|Changeup|46|2|0|2|7|84
+Chris Paddack|R|Cody Bellinger|L|Home Run|C|Four-Seam Fastball|47|2|1|2|6|94
+Chris Paddack|R|Cody Bellinger|L|Home Run|F|Four-Seam Fastball|48|2|2|2|4|94
+Chris Paddack|R|Cody Bellinger|L|Home Run|F|Changeup|49|2|2|2|13|84
+Chris Paddack|R|Cody Bellinger|L|Home Run|E|Changeup|50|2|2|2|11|84
+Chris Paddack|R|Alex Verdugo|L|Strikeout|C|Four-Seam Fastball|51|0|0|2|1|93
+Chris Paddack|R|Alex Verdugo|L|Strikeout|B|Four-Seam Fastball|52|0|1|2|14|93
+Chris Paddack|R|Alex Verdugo|L|Strikeout|F|Four-Seam Fastball|53|1|1|2|4|94
+Chris Paddack|R|Alex Verdugo|L|Strikeout|C|Curveball|54|1|2|2|3|74
+Chris Paddack|R|Corey Seager|L|Double|D|Changeup|55|0|0|0|8|82
+Chris Paddack|R|Chris Taylor|R|Single|E|Four-Seam Fastball|56|0|0|0|5|92
+Chris Paddack|R|Austin Barnes|R|Flyout|C|Four-Seam Fastball|57|0|0|0|5|92
+Chris Paddack|R|Austin Barnes|R|Flyout|F|Four-Seam Fastball|58|0|1|0|2|92
+Chris Paddack|R|Austin Barnes|R|Flyout|B|Four-Seam Fastball|59|0|2|0|12|94
+Chris Paddack|R|Austin Barnes|R|Flyout|X|Four-Seam Fastball|60|1|2|0|4|94
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|B|Four-Seam Fastball|61|0|0|1|11|93
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|B|Four-Seam Fastball|62|1|0|1|11|93
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|B|Four-Seam Fastball|63|2|0|1|11|93
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|C|Four-Seam Fastball|64|3|0|1|11|91
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|S|Four-Seam Fastball|65|3|1|1|13|93
+Chris Paddack|R|Clayton Kershaw|L|Bunt Pop Out|X|Four-Seam Fastball|66|3|2|1|8|93
+Chris Paddack|R|Joc Pederson|L|Groundout|C|Four-Seam Fastball|67|0|0|2|14|94
+Chris Paddack|R|Joc Pederson|L|Groundout|B|Curveball|68|0|1|2|14|77
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Four-Seam Fastball|69|1|1|2|5|93
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Four-Seam Fastball|70|1|2|2|5|95
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Changeup|71|1|2|2|8|84
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Four-Seam Fastball|72|1|2|2|12|94
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Curveball|73|1|2|2|6|76
+Chris Paddack|R|Joc Pederson|L|Groundout|B|Four-Seam Fastball|74|1|2|2|13|95
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Four-Seam Fastball|75|2|2|2|5|95
+Chris Paddack|R|Joc Pederson|L|Groundout|B|Changeup|76|2|2|2|14|85
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Changeup|77|3|2|2|8|84
+Chris Paddack|R|Joc Pederson|L|Groundout|X|Changeup|78|3|2|2|5|84
+Chris Paddack|R|Max Muncy|L|Double|B|Curveball|79|0|0|0|11|72
+Chris Paddack|R|Max Muncy|L|Double|C|Changeup|80|1|0|0|9|83
+Chris Paddack|R|Max Muncy|L|Double|T|Four-Seam Fastball|81|1|1|0|4|93
+Chris Paddack|R|Max Muncy|L|Double|D|Four-Seam Fastball|82|1|2|0|12|92
+Chris Paddack|R|Justin Turner|R|Flyout|C|Four-Seam Fastball|83|0|0|0|11|93
+Chris Paddack|R|Justin Turner|R|Flyout|B|Changeup|84|0|1|0|14|84
+Chris Paddack|R|Justin Turner|R|Flyout|X|Four-Seam Fastball|85|1|1|0|2|94
+Chris Paddack|R|Cody Bellinger|L|Groundout|F|Four-Seam Fastball|86|0|0|1|2|94
+Chris Paddack|R|Cody Bellinger|L|Groundout|B|Four-Seam Fastball|87|0|1|1|12|95
+Chris Paddack|R|Cody Bellinger|L|Groundout|C|Changeup|88|1|1|1|9|84
+Chris Paddack|R|Cody Bellinger|L|Groundout|B|Four-Seam Fastball|89|1|2|1|12|95
+Chris Paddack|R|Cody Bellinger|L|Groundout|F|Changeup|90|2|2|1|13|85
+Chris Paddack|R|Cody Bellinger|L|Groundout|E|Four-Seam Fastball|91|2|2|1|7|96
+Chris Paddack|R|Joc Pederson|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|93
+Chris Paddack|R|Joc Pederson|L|Groundout|X|Four-Seam Fastball|1|0|1|0|2|93
+Chris Paddack|R|Alex Verdugo|L|Flyout|C|Four-Seam Fastball|2|0|0|1|5|92
+Chris Paddack|R|Alex Verdugo|L|Flyout|B|Changeup|3|0|1|1|13|85
+Chris Paddack|R|Alex Verdugo|L|Flyout|S|Four-Seam Fastball|4|1|1|1|3|93
+Chris Paddack|R|Alex Verdugo|L|Flyout|F|Four-Seam Fastball|5|1|2|1|3|95
+Chris Paddack|R|Alex Verdugo|L|Flyout|B|Four-Seam Fastball|6|1|2|1|13|95
+Chris Paddack|R|Alex Verdugo|L|Flyout|B|Four-Seam Fastball|7|2|2|1|11|94
+Chris Paddack|R|Alex Verdugo|L|Flyout|X|Changeup|8|3|2|1|2|85
+Chris Paddack|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|9|0|0|2|12|93
+Chris Paddack|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|10|1|0|2|12|93
+Chris Paddack|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|11|2|0|2|11|93
+Chris Paddack|R|Justin Turner|R|Lineout|C|Four-Seam Fastball|12|3|0|2|5|93
+Chris Paddack|R|Justin Turner|R|Lineout|X|Four-Seam Fastball|13|3|1|2|5|93
+Chris Paddack|R|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|14|0|0|0|7|92
+Chris Paddack|R|Cody Bellinger|L|Strikeout|S|Curveball|15|0|1|0|7|75
+Chris Paddack|R|Cody Bellinger|L|Strikeout|S|Four-Seam Fastball|16|0|2|0|2|93
+Chris Paddack|R|Max Muncy|L|Strikeout|C|Changeup|17|0|0|1|13|84
+Chris Paddack|R|Max Muncy|L|Strikeout|B|Four-Seam Fastball|18|0|1|1|11|93
+Chris Paddack|R|Max Muncy|L|Strikeout|B|Four-Seam Fastball|19|1|1|1|14|94
+Chris Paddack|R|Max Muncy|L|Strikeout|B|Changeup|20|2|1|1|14|85
+Chris Paddack|R|Max Muncy|L|Strikeout|F|Four-Seam Fastball|21|3|1|1|1|93
+Chris Paddack|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|22|3|2|1|13|95
+Chris Paddack|R|Matt Beaty|L|Groundout|B|Four-Seam Fastball|23|0|0|2|14|93
+Chris Paddack|R|Matt Beaty|L|Groundout|C|Four-Seam Fastball|24|1|0|2|7|94
+Chris Paddack|R|Matt Beaty|L|Groundout|X|Changeup|25|1|1|2|14|86
+Chris Paddack|R|Chris Taylor|R|Lineout|B|Four-Seam Fastball|26|0|0|0|12|92
+Chris Paddack|R|Chris Taylor|R|Lineout|F|Changeup|27|1|0|0|14|84
+Chris Paddack|R|Chris Taylor|R|Lineout|C|Changeup|28|1|1|0|6|85
+Chris Paddack|R|Chris Taylor|R|Lineout|F|Four-Seam Fastball|29|1|2|0|3|95
+Chris Paddack|R|Chris Taylor|R|Lineout|F|Four-Seam Fastball|30|1|2|0|1|93
+Chris Paddack|R|Chris Taylor|R|Lineout|F|Curveball|31|1|2|0|5|76
+Chris Paddack|R|Chris Taylor|R|Lineout|F|Four-Seam Fastball|32|1|2|0|1|94
+Chris Paddack|R|Chris Taylor|R|Lineout|B|Four-Seam Fastball|33|1|2|0|12|95
+Chris Paddack|R|Chris Taylor|R|Lineout|X|Changeup|34|2|2|0|9|86
+Chris Paddack|R|Russell Martin|R|Groundout|C|Four-Seam Fastball|35|0|0|1|8|93
+Chris Paddack|R|Russell Martin|R|Groundout|B|Curveball|36|0|1|1|11|76
+Chris Paddack|R|Russell Martin|R|Groundout|C|Curveball|37|1|1|1|6|76
+Chris Paddack|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|38|1|2|1|12|95
+Chris Paddack|R|Russell Martin|R|Groundout|X|Changeup|39|2|2|1|9|84
+Chris Paddack|R|Kenta Maeda|R|Strikeout|C|Four-Seam Fastball|40|0|0|2|4|93
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|41|0|1|2|5|94
+Chris Paddack|R|Kenta Maeda|R|Strikeout|B|Curveball|42|0|2|2|14|76
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|43|1|2|2|3|94
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Changeup|44|1|2|2|8|85
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|45|1|2|2|9|94
+Chris Paddack|R|Kenta Maeda|R|Strikeout|S|Changeup|46|1|2|2|6|84
+Chris Paddack|R|Joc Pederson|L|Strikeout|C|Changeup|47|0|0|0|4|83
+Chris Paddack|R|Joc Pederson|L|Strikeout|F|Changeup|48|0|1|0|13|84
+Chris Paddack|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|49|0|2|0|11|94
+Chris Paddack|R|Joc Pederson|L|Strikeout|F|Four-Seam Fastball|50|0|2|0|5|94
+Chris Paddack|R|Joc Pederson|L|Strikeout|S|Changeup|51|0|2|0|11|85
+Chris Paddack|R|Alex Verdugo|L|Groundout|C|Four-Seam Fastball|52|0|0|1|4|91
+Chris Paddack|R|Alex Verdugo|L|Groundout|F|Curveball|53|0|1|1|14|76
+Chris Paddack|R|Alex Verdugo|L|Groundout|X|Changeup|54|0|2|1|13|85
+Chris Paddack|R|Justin Turner|R|Single|D|Changeup|55|0|0|2|9|85
+Chris Paddack|R|Cody Bellinger|L|Lineout|X|Four-Seam Fastball|56|0|0|2|4|94
+Chris Paddack|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|57|0|0|0|2|91
+Chris Paddack|R|Max Muncy|L|Strikeout|B|Changeup|58|0|1|0|13|84
+Chris Paddack|R|Max Muncy|L|Strikeout|S|Changeup|59|1|1|0|13|84
+Chris Paddack|R|Max Muncy|L|Strikeout|F|Four-Seam Fastball|60|1|2|0|7|94
+Chris Paddack|R|Max Muncy|L|Strikeout|S|Four-Seam Fastball|61|1|2|0|2|93
+Chris Paddack|R|Matt Beaty|L|Double|D|Changeup|62|0|0|1|4|83
+Chris Paddack|R|Chris Taylor|R|Walk|B|Changeup|63|0|0|1|14|85
+Chris Paddack|R|Chris Taylor|R|Walk|B|Four-Seam Fastball|64|1|0|1|12|93
+Chris Paddack|R|Chris Taylor|R|Walk|B|Changeup|65|2|0|1|14|85
+Chris Paddack|R|Chris Taylor|R|Walk|F|Four-Seam Fastball|66|3|0|1|2|93
+Chris Paddack|R|Chris Taylor|R|Walk|F|Changeup|67|3|1|1|14|85
+Chris Paddack|R|Chris Taylor|R|Walk|B|Four-Seam Fastball|68|3|2|1|8|94
+Chris Paddack|R|Russell Martin|R|Single|C|Four-Seam Fastball|69|0|0|1|8|94
+Chris Paddack|R|Russell Martin|R|Single|F|Changeup|70|0|1|1|8|84
+Chris Paddack|R|Russell Martin|R|Single|D|Four-Seam Fastball|71|0|2|1|6|95
+Chris Paddack|R|Kenta Maeda|R|Strikeout|S|Changeup|72|0|0|1|14|84
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|73|0|1|1|4|95
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Changeup|74|0|2|1|5|84
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|75|0|2|1|8|96
+Chris Paddack|R|Kenta Maeda|R|Strikeout|S|Changeup|76|0|2|1|14|85
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Changeup|77|0|0|2|9|85
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Changeup|78|0|1|2|5|84
+Chris Paddack|R|Joc Pederson|L|Groundout|F|Four-Seam Fastball|79|0|2|2|11|96
+Chris Paddack|R|Joc Pederson|L|Groundout|X|Four-Seam Fastball|80|0|2|2|3|95
+Chris Paddack|R|Alex Verdugo|L|Groundout|B|Curveball|81|0|0|0|11|73
+Chris Paddack|R|Alex Verdugo|L|Groundout|B|Curveball|82|1|0|0|14|76
+Chris Paddack|R|Alex Verdugo|L|Groundout|C|Four-Seam Fastball|83|2|0|0|8|93
+Chris Paddack|R|Alex Verdugo|L|Groundout|F|Changeup|84|2|1|0|14|85
+Chris Paddack|R|Alex Verdugo|L|Groundout|X|Changeup|85|2|2|0|13|86
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|86|0|0|1|2|93
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|87|0|1|1|1|94
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|88|0|2|1|3|95
+Chris Paddack|R|Justin Turner|R|Lineout|F|Changeup|89|0|2|1|12|85
+Chris Paddack|R|Justin Turner|R|Lineout|F|Curveball|90|0|2|1|14|77
+Chris Paddack|R|Justin Turner|R|Lineout|F|Four-Seam Fastball|91|0|2|1|1|94
+Chris Paddack|R|Justin Turner|R|Lineout|B|Changeup|92|0|2|1|14|86
+Chris Paddack|R|Justin Turner|R|Lineout|B|Changeup|93|1|2|1|14|86
+Chris Paddack|R|Justin Turner|R|Lineout|B|Four-Seam Fastball|94|2|2|1|14|94
+Chris Paddack|R|Justin Turner|R|Lineout|X|Changeup|95|3|2|1|9|85
+Chris Paddack|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|0|0|0|0|7|92
+Chris Paddack|R|Alex Verdugo|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|4|93
+Chris Paddack|R|Alex Verdugo|L|Strikeout|S|Curveball|2|0|1|1|13|78
+Chris Paddack|R|Alex Verdugo|L|Strikeout|F|Four-Seam Fastball|3|0|2|1|6|94
+Chris Paddack|R|Alex Verdugo|L|Strikeout|S|Four-Seam Fastball|4|0|2|1|11|94
+Chris Paddack|R|Corey Seager|L|Strikeout|C|Four-Seam Fastball|5|0|0|2|13|93
+Chris Paddack|R|Corey Seager|L|Strikeout|B|Four-Seam Fastball|6|0|1|2|13|94
+Chris Paddack|R|Corey Seager|L|Strikeout|T|Four-Seam Fastball|7|1|1|2|12|94
+Chris Paddack|R|Corey Seager|L|Strikeout|S|Four-Seam Fastball|8|1|2|2|12|95
+Chris Paddack|R|Max Muncy|L|Home Run|C|Four-Seam Fastball|9|0|0|0|5|93
+Chris Paddack|R|Max Muncy|L|Home Run|S|Four-Seam Fastball|10|0|1|0|4|94
+Chris Paddack|R|Max Muncy|L|Home Run|E|Four-Seam Fastball|11|0|2|0|2|95
+Chris Paddack|R|A.J. Pollock|R|Flyout|X|Four-Seam Fastball|12|0|0|0|14|94
+Chris Paddack|R|Matt Beaty|L|Walk|B|Curveball|13|0|0|1|14|77
+Chris Paddack|R|Matt Beaty|L|Walk|B|Curveball|14|1|0|1|14|78
+Chris Paddack|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|15|2|0|1|13|94
+Chris Paddack|R|Matt Beaty|L|Walk|C|Four-Seam Fastball|16|3|0|1|8|94
+Chris Paddack|R|Matt Beaty|L|Walk|*B|Changeup|17|3|1|1|14|85
+Chris Paddack|R|Kristopher Negron|R|Strikeout|S|Four-Seam Fastball|18|0|0|1|6|93
+Chris Paddack|R|Kristopher Negron|R|Strikeout|B|Four-Seam Fastball|19|0|1|1|11|93
+Chris Paddack|R|Kristopher Negron|R|Strikeout|S|Changeup|20|1|1|1|14|84
+Chris Paddack|R|Kristopher Negron|R|Strikeout|S|Four-Seam Fastball|21|1|2|1|13|94
+Chris Paddack|R|Russell Martin|R|Home Run|C|Changeup|22|0|0|2|4|85
+Chris Paddack|R|Russell Martin|R|Home Run|F|Four-Seam Fastball|23|0|1|2|14|94
+Chris Paddack|R|Russell Martin|R|Home Run|B|Curveball|24|0|2|2|14|78
+Chris Paddack|R|Russell Martin|R|Home Run|E|Four-Seam Fastball|25|1|2|2|6|97
+Chris Paddack|R|Kenta Maeda|R|Strikeout|C|Four-Seam Fastball|26|0|0|2|3|94
+Chris Paddack|R|Kenta Maeda|R|Strikeout|B|Changeup|27|0|1|2|14|86
+Chris Paddack|R|Kenta Maeda|R|Strikeout|F|Four-Seam Fastball|28|1|1|2|1|95
+Chris Paddack|R|Kenta Maeda|R|Strikeout|S|Four-Seam Fastball|29|1|2|2|12|96
+Chris Paddack|R|Joc Pederson|L|Lineout|C|Four-Seam Fastball|30|0|0|0|4|90
+Chris Paddack|R|Joc Pederson|L|Lineout|B|Four-Seam Fastball|31|0|1|0|12|92
+Chris Paddack|R|Joc Pederson|L|Lineout|C|Curveball|32|1|1|0|7|76
+Chris Paddack|R|Joc Pederson|L|Lineout|B|Changeup|33|1|2|0|13|84
+Chris Paddack|R|Joc Pederson|L|Lineout|B|Changeup|34|2|2|0|13|84
+Chris Paddack|R|Joc Pederson|L|Lineout|X|Changeup|35|3|2|0|4|85
+Chris Paddack|R|Alex Verdugo|L|Groundout|F|Changeup|36|0|0|1|5|83
+Chris Paddack|R|Alex Verdugo|L|Groundout|B|Four-Seam Fastball|37|0|1|1|3|92
+Chris Paddack|R|Alex Verdugo|L|Groundout|C|Four-Seam Fastball|38|1|1|1|8|93
+Chris Paddack|R|Alex Verdugo|L|Groundout|F|Changeup|39|1|2|1|13|85
+Chris Paddack|R|Alex Verdugo|L|Groundout|B|Four-Seam Fastball|40|1|2|1|13|95
+Chris Paddack|R|Alex Verdugo|L|Groundout|X|Curveball|41|2|2|1|8|78
+Chris Paddack|R|Corey Seager|L|Strikeout|B|Changeup|42|0|0|2|13|84
+Chris Paddack|R|Corey Seager|L|Strikeout|C|Curveball|43|1|0|2|11|76
+Chris Paddack|R|Corey Seager|L|Strikeout|T|Four-Seam Fastball|44|1|1|2|11|94
+Chris Paddack|R|Corey Seager|L|Strikeout|C|Four-Seam Fastball|45|1|2|2|13|95
+Chris Paddack|R|Max Muncy|L|Double|B|Curveball|46|0|0|0|14|75
+Chris Paddack|R|Max Muncy|L|Double|C|Four-Seam Fastball|47|1|0|0|11|92
+Chris Paddack|R|Max Muncy|L|Double|B|Curveball|48|1|1|0|14|77
+Chris Paddack|R|Max Muncy|L|Double|F|Four-Seam Fastball|49|2|1|0|1|93
+Chris Paddack|R|Max Muncy|L|Double|F|Four-Seam Fastball|50|2|2|0|4|95
+Chris Paddack|R|Max Muncy|L|Double|B|Four-Seam Fastball|51|2|2|0|12|94
+Chris Paddack|R|Max Muncy|L|Double|D|Four-Seam Fastball|52|3|2|0|7|94
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|C|Changeup|53|0|0|0|9|84
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|F|Curveball|54|0|1|0|14|78
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|B|Four-Seam Fastball|55|0|2|0|11|93
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|F|Four-Seam Fastball|56|1|2|0|2|93
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|*B|Changeup|57|1|2|0|14|85
+Chris Paddack|R|A.J. Pollock|R|Hit By Pitch|H|Four-Seam Fastball|58|2|2|0|11|94
+Chris Paddack|R|Matt Beaty|L|Double|*B|Changeup|59|0|0|0|13|84
+Chris Paddack|R|Matt Beaty|L|Double|C|Curveball|60|1|0|0|1|76
+Chris Paddack|R|Matt Beaty|L|Double|*B|Changeup|61|1|1|0|13|84
+Chris Paddack|R|Matt Beaty|L|Double|C|Four-Seam Fastball|62|2|1|0|13|93
+Chris Paddack|R|Matt Beaty|L|Double|E|Four-Seam Fastball|63|2|2|0|11|95
+Chris Paddack|R|Kristopher Negron|R|Single|E|Changeup|64|0|0|0|7|85
+Chris Paddack|R|Russell Martin|R|Fielders Choice Out|C|Four-Seam Fastball|65|0|0|0|13|94
+Chris Paddack|R|Russell Martin|R|Fielders Choice Out|F|Four-Seam Fastball|66|0|1|0|6|93
+Chris Paddack|R|Russell Martin|R|Fielders Choice Out|X|Four-Seam Fastball|67|0|2|0|12|95
+Chris Paddack|R|Cody Bellinger|L|Strikeout|C|Curveball|68|0|0|1|14|77
+Chris Paddack|R|Cody Bellinger|L|Strikeout|S|Four-Seam Fastball|69|0|1|1|4|94
+Chris Paddack|R|Cody Bellinger|L|Strikeout|S|Four-Seam Fastball|70|0|2|1|5|95
+Chris Paddack|R|Joc Pederson|L|Flyout|B|Changeup|71|0|0|2|14|85
+Chris Paddack|R|Joc Pederson|L|Flyout|C|Four-Seam Fastball|72|1|0|2|13|94
+Chris Paddack|R|Joc Pederson|L|Flyout|X|Four-Seam Fastball|73|1|1|2|4|95
+Chris Paddack|R|Alex Verdugo|L|Single|C|Four-Seam Fastball|74|0|0|0|4|91
+Chris Paddack|R|Alex Verdugo|L|Single|B|Four-Seam Fastball|75|0|1|0|11|92
+Chris Paddack|R|Alex Verdugo|L|Single|D|Four-Seam Fastball|76|1|1|0|5|92
+Chris Paddack|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|92
+Chris Paddack|R|Jeff McNeil|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|13|94
+Chris Paddack|R|Jeff McNeil|L|Strikeout|B|Curveball|2|1|1|0|11|76
+Chris Paddack|R|Jeff McNeil|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|5|93
+Chris Paddack|R|Jeff McNeil|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|4|95
+Chris Paddack|R|Jeff McNeil|L|Strikeout|S|Curveball|5|2|2|0|4|78
+Chris Paddack|R|Michael Conforto|L|Flyout|B|Four-Seam Fastball|6|0|0|1|13|94
+Chris Paddack|R|Michael Conforto|L|Flyout|S|Four-Seam Fastball|7|1|0|1|11|94
+Chris Paddack|R|Michael Conforto|L|Flyout|X|Curveball|8|1|1|1|5|78
+Chris Paddack|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|9|0|0|2|14|95
+Chris Paddack|R|Pete Alonso|R|Walk|S|Four-Seam Fastball|10|1|0|2|5|96
+Chris Paddack|R|Pete Alonso|R|Walk|B|Changeup|11|1|1|2|14|88
+Chris Paddack|R|Pete Alonso|R|Walk|B|Changeup|12|2|1|2|13|87
+Chris Paddack|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|13|3|1|2|11|96
+Chris Paddack|R|Robinson Cano|L|Single|F|Changeup|14|0|0|2|5|87
+Chris Paddack|R|Robinson Cano|L|Single|F|Changeup|15|0|1|2|13|86
+Chris Paddack|R|Robinson Cano|L|Single|F|Four-Seam Fastball|16|0|2|2|1|96
+Chris Paddack|R|Robinson Cano|L|Single|F|Curveball|17|0|2|2|2|78
+Chris Paddack|R|Robinson Cano|L|Single|D|Changeup|18|0|2|2|13|87
+Chris Paddack|R|Wilson Ramos|R|Groundout|C|Four-Seam Fastball|19|0|0|2|8|94
+Chris Paddack|R|Wilson Ramos|R|Groundout|*B|Changeup|20|0|1|2|14|87
+Chris Paddack|R|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|21|1|1|2|4|95
+Chris Paddack|R|Dominic Smith|L|Strikeout|B|Changeup|22|0|0|0|13|84
+Chris Paddack|R|Dominic Smith|L|Strikeout|C|Four-Seam Fastball|23|1|0|0|5|93
+Chris Paddack|R|Dominic Smith|L|Strikeout|B|Four-Seam Fastball|24|1|1|0|12|94
+Chris Paddack|R|Dominic Smith|L|Strikeout|F|Changeup|25|2|1|0|8|86
+Chris Paddack|R|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|26|2|2|0|12|94
+Chris Paddack|R|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|27|2|2|0|2|94
+Chris Paddack|R|Dominic Smith|L|Strikeout|F|Curveball|28|2|2|0|6|79
+Chris Paddack|R|Dominic Smith|L|Strikeout|B|Changeup|29|2|2|0|13|86
+Chris Paddack|R|Dominic Smith|L|Strikeout|F|Changeup|30|3|2|0|13|86
+Chris Paddack|R|Dominic Smith|L|Strikeout|T|Four-Seam Fastball|31|3|2|0|11|95
+Chris Paddack|R|Todd Frazier|R|Lineout|X|Four-Seam Fastball|32|0|0|1|2|93
+Chris Paddack|R|Amed Rosario|R|Groundout|C|Four-Seam Fastball|33|0|0|2|1|94
+Chris Paddack|R|Amed Rosario|R|Groundout|B|Four-Seam Fastball|34|0|1|2|14|95
+Chris Paddack|R|Amed Rosario|R|Groundout|X|Changeup|35|1|1|2|8|87
+Chris Paddack|R|Jason Vargas|L|Strikeout|B|Four-Seam Fastball|36|0|0|0|11|93
+Chris Paddack|R|Jason Vargas|L|Strikeout|C|Four-Seam Fastball|37|1|0|0|7|93
+Chris Paddack|R|Jason Vargas|L|Strikeout|C|Four-Seam Fastball|38|1|1|0|8|94
+Chris Paddack|R|Jason Vargas|L|Strikeout|C|Four-Seam Fastball|39|1|2|0|9|94
+Chris Paddack|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|40|0|0|1|14|94
+Chris Paddack|R|Jeff McNeil|L|Single|B|Changeup|41|1|0|1|13|86
+Chris Paddack|R|Jeff McNeil|L|Single|S|Four-Seam Fastball|42|2|0|1|4|94
+Chris Paddack|R|Jeff McNeil|L|Single|F|Four-Seam Fastball|43|2|1|1|9|95
+Chris Paddack|R|Jeff McNeil|L|Single|F|Four-Seam Fastball|44|2|2|1|4|96
+Chris Paddack|R|Jeff McNeil|L|Single|D|Changeup|45|2|2|1|13|86
+Chris Paddack|R|Michael Conforto|L|Flyout|X|Changeup|46|0|0|1|4|86
+Chris Paddack|R|Pete Alonso|R|Groundout|X|Curveball|47|0|0|2|14|79
+Chris Paddack|R|Robinson Cano|L|Home Run|B|Four-Seam Fastball|48|0|0|0|11|93
+Chris Paddack|R|Robinson Cano|L|Home Run|B|Changeup|49|1|0|0|11|86
+Chris Paddack|R|Robinson Cano|L|Home Run|E|Changeup|50|2|0|0|5|86
+Chris Paddack|R|Wilson Ramos|R|Lineout|X|Four-Seam Fastball|51|0|0|0|2|93
+Chris Paddack|R|Dominic Smith|L|Lineout|B|Four-Seam Fastball|52|0|0|1|11|94
+Chris Paddack|R|Dominic Smith|L|Lineout|S|Four-Seam Fastball|53|1|0|1|2|94
+Chris Paddack|R|Dominic Smith|L|Lineout|B|Changeup|54|1|1|1|13|86
+Chris Paddack|R|Dominic Smith|L|Lineout|B|Changeup|55|2|1|1|13|87
+Chris Paddack|R|Dominic Smith|L|Lineout|X|Four-Seam Fastball|56|3|1|1|2|94
+Chris Paddack|R|Todd Frazier|R|Flyout|C|Four-Seam Fastball|57|0|0|2|5|94
+Chris Paddack|R|Todd Frazier|R|Flyout|F|Curveball|58|0|1|2|4|77
+Chris Paddack|R|Todd Frazier|R|Flyout|X|Four-Seam Fastball|59|0|2|2|12|95
+Chris Paddack|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|60|0|0|0|4|92
+Chris Paddack|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|61|0|1|0|1|94
+Chris Paddack|R|Amed Rosario|R|Flyout|B|Changeup|62|0|2|0|9|86
+Chris Paddack|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|63|1|2|0|5|95
+Chris Paddack|R|Amed Rosario|R|Flyout|B|Curveball|64|1|2|0|14|78
+Chris Paddack|R|Amed Rosario|R|Flyout|X|Four-Seam Fastball|65|2|2|0|13|95
+Chris Paddack|R|Jason Vargas|L|Strikeout|F|Four-Seam Fastball|66|0|0|1|7|93
+Chris Paddack|R|Jason Vargas|L|Strikeout|C|Curveball|67|0|1|1|4|76
+Chris Paddack|R|Jason Vargas|L|Strikeout|T|Four-Seam Fastball|68|0|2|1|1|95
+Chris Paddack|R|Jeff McNeil|L|Hit By Pitch|C|Curveball|69|0|0|2|11|75
+Chris Paddack|R|Jeff McNeil|L|Hit By Pitch|F|Curveball|70|0|1|2|13|77
+Chris Paddack|R|Jeff McNeil|L|Hit By Pitch|H|Four-Seam Fastball|71|0|2|2|12|95
+Chris Paddack|R|Michael Conforto|L|Flyout|C|Four-Seam Fastball|72|0|0|2|13|94
+Chris Paddack|R|Michael Conforto|L|Flyout|B|Changeup|73|0|1|2|13|86
+Chris Paddack|R|Michael Conforto|L|Flyout|X|Changeup|74|1|1|2|13|86
+Chris Paddack|R|Pete Alonso|R|Walk|C|Four-Seam Fastball|75|0|0|0|8|95
+Chris Paddack|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|76|0|1|0|13|96
+Chris Paddack|R|Pete Alonso|R|Walk|B|Curveball|77|1|1|0|14|78
+Chris Paddack|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|78|2|1|0|11|95
+Chris Paddack|R|Pete Alonso|R|Walk|B|Four-Seam Fastball|79|3|1|0|11|95
+Chris Paddack|R|Robinson Cano|L|Home Run|B|Four-Seam Fastball|80|0|0|0|13|95
+Chris Paddack|R|Robinson Cano|L|Home Run|C|Four-Seam Fastball|81|1|0|0|1|95
+Chris Paddack|R|Robinson Cano|L|Home Run|C|Four-Seam Fastball|82|1|1|0|7|95
+Chris Paddack|R|Robinson Cano|L|Home Run|F|Four-Seam Fastball|83|1|2|0|11|96
+Chris Paddack|R|Robinson Cano|L|Home Run|E|Curveball|84|1|2|0|5|78
+Chris Paddack|R|Wilson Ramos|R|Single|C|Four-Seam Fastball|85|0|0|0|6|94
+Chris Paddack|R|Wilson Ramos|R|Single|F|Four-Seam Fastball|86|0|1|0|2|95
+Chris Paddack|R|Wilson Ramos|R|Single|D|Four-Seam Fastball|87|0|2|0|11|95
+Chris Paddack|R|Kevin Newman|R|Single|C|Four-Seam Fastball|0|0|0|0|9|90
+Chris Paddack|R|Kevin Newman|R|Single|F|Four-Seam Fastball|1|0|1|0|1|91
+Chris Paddack|R|Kevin Newman|R|Single|F|Four-Seam Fastball|2|0|2|0|12|93
+Chris Paddack|R|Kevin Newman|R|Single|D|Curveball|3|0|2|0|14|74
+Chris Paddack|R|Bryan Reynolds|L|Forceout|C|Four-Seam Fastball|4|0|0|0|9|92
+Chris Paddack|R|Bryan Reynolds|L|Forceout|B|Changeup|5|0|1|0|11|82
+Chris Paddack|R|Bryan Reynolds|L|Forceout|B|Four-Seam Fastball|6|1|1|0|11|92
+Chris Paddack|R|Bryan Reynolds|L|Forceout|C|Changeup|7|2|1|0|11|83
+Chris Paddack|R|Bryan Reynolds|L|Forceout|B|Four-Seam Fastball|8|2|2|0|13|94
+Chris Paddack|R|Bryan Reynolds|L|Forceout|X|Changeup|9|3|2|0|13|83
+Chris Paddack|R|Starling Marte|R|Grounded Into DP|B|Four-Seam Fastball|10|0|0|1|14|93
+Chris Paddack|R|Starling Marte|R|Grounded Into DP|X|Four-Seam Fastball|11|1|0|1|4|92
+Chris Paddack|R|Josh Bell|L|Strikeout|F|Four-Seam Fastball|12|0|0|0|4|92
+Chris Paddack|R|Josh Bell|L|Strikeout|F|Four-Seam Fastball|13|0|1|0|12|92
+Chris Paddack|R|Josh Bell|L|Strikeout|B|Changeup|14|0|2|0|13|84
+Chris Paddack|R|Josh Bell|L|Strikeout|B|Changeup|15|1|2|0|13|84
+Chris Paddack|R|Josh Bell|L|Strikeout|S|Changeup|16|2|2|0|14|84
+Chris Paddack|R|Colin Moran|L|Flyout|S|Four-Seam Fastball|17|0|0|1|12|92
+Chris Paddack|R|Colin Moran|L|Flyout|B|Four-Seam Fastball|18|0|1|1|12|93
+Chris Paddack|R|Colin Moran|L|Flyout|F|Four-Seam Fastball|19|1|1|1|13|93
+Chris Paddack|R|Colin Moran|L|Flyout|F|Four-Seam Fastball|20|1|2|1|14|94
+Chris Paddack|R|Colin Moran|L|Flyout|F|Four-Seam Fastball|21|1|2|1|11|93
+Chris Paddack|R|Colin Moran|L|Flyout|B|Changeup|22|1|2|1|13|84
+Chris Paddack|R|Colin Moran|L|Flyout|F|Curveball|23|2|2|1|3|76
+Chris Paddack|R|Colin Moran|L|Flyout|X|Four-Seam Fastball|24|2|2|1|5|94
+Chris Paddack|R|Corey Dickerson|L|Flyout|C|Four-Seam Fastball|25|0|0|2|4|92
+Chris Paddack|R|Corey Dickerson|L|Flyout|B|Changeup|26|0|1|2|13|85
+Chris Paddack|R|Corey Dickerson|L|Flyout|F|Changeup|27|1|1|2|4|85
+Chris Paddack|R|Corey Dickerson|L|Flyout|F|Curveball|28|1|2|2|11|75
+Chris Paddack|R|Corey Dickerson|L|Flyout|F|Four-Seam Fastball|29|1|2|2|11|94
+Chris Paddack|R|Corey Dickerson|L|Flyout|B|Four-Seam Fastball|30|1|2|2|12|94
+Chris Paddack|R|Corey Dickerson|L|Flyout|X|Changeup|31|2|2|2|14|85
+Chris Paddack|R|Adam Frazier|L|Walk|B|Curveball|32|0|0|0|14|75
+Chris Paddack|R|Adam Frazier|L|Walk|B|Curveball|33|1|0|0|11|75
+Chris Paddack|R|Adam Frazier|L|Walk|F|Changeup|34|2|0|0|9|83
+Chris Paddack|R|Adam Frazier|L|Walk|B|Changeup|35|2|1|0|14|84
+Chris Paddack|R|Adam Frazier|L|Walk|B|Four-Seam Fastball|36|3|1|0|12|92
+Chris Paddack|R|Jacob Stallings|R|Flyout|X|Four-Seam Fastball|37|0|0|0|11|92
+Chris Paddack|R|Chris Archer|R|Sac Bunt|C|Four-Seam Fastball|38|0|0|1|8|92
+Chris Paddack|R|Chris Archer|R|Sac Bunt|B|Four-Seam Fastball|39|0|1|1|12|93
+Chris Paddack|R|Chris Archer|R|Sac Bunt|X|Four-Seam Fastball|40|1|1|1|5|93
+Chris Paddack|R|Kevin Newman|R|Flyout|C|Four-Seam Fastball|41|0|0|2|13|93
+Chris Paddack|R|Kevin Newman|R|Flyout|F|Four-Seam Fastball|42|0|1|2|2|94
+Chris Paddack|R|Kevin Newman|R|Flyout|F|Four-Seam Fastball|43|0|2|2|11|95
+Chris Paddack|R|Kevin Newman|R|Flyout|F|Four-Seam Fastball|44|0|2|2|12|94
+Chris Paddack|R|Kevin Newman|R|Flyout|X|Changeup|45|0|2|2|5|85
+Chris Paddack|R|Bryan Reynolds|L|Double|T|Four-Seam Fastball|46|0|0|0|1|91
+Chris Paddack|R|Bryan Reynolds|L|Double|B|Four-Seam Fastball|47|0|1|0|12|92
+Chris Paddack|R|Bryan Reynolds|L|Double|B|Changeup|48|1|1|0|13|83
+Chris Paddack|R|Bryan Reynolds|L|Double|C|Four-Seam Fastball|49|2|1|0|11|93
+Chris Paddack|R|Bryan Reynolds|L|Double|F|Four-Seam Fastball|50|2|2|0|11|93
+Chris Paddack|R|Bryan Reynolds|L|Double|B|Changeup|51|2|2|0|14|84
+Chris Paddack|R|Bryan Reynolds|L|Double|D|Changeup|52|3|2|0|8|85
+Chris Paddack|R|Starling Marte|R|Walk|B|Four-Seam Fastball|53|0|0|0|14|93
+Chris Paddack|R|Starling Marte|R|Walk|F|Four-Seam Fastball|54|1|0|0|8|93
+Chris Paddack|R|Starling Marte|R|Walk|B|Four-Seam Fastball|55|1|1|0|11|94
+Chris Paddack|R|Starling Marte|R|Walk|F|Changeup|56|2|1|0|7|84
+Chris Paddack|R|Starling Marte|R|Walk|B|Changeup|57|2|2|0|13|86
+Chris Paddack|R|Starling Marte|R|Walk|B|Four-Seam Fastball|58|3|2|0|13|94
+Chris Paddack|R|Josh Bell|L|Walk|S|Changeup|59|0|0|0|13|84
+Chris Paddack|R|Josh Bell|L|Walk|B|Four-Seam Fastball|60|0|1|0|12|93
+Chris Paddack|R|Josh Bell|L|Walk|B|Four-Seam Fastball|61|1|1|0|13|94
+Chris Paddack|R|Josh Bell|L|Walk|B|Changeup|62|2|1|0|13|85
+Chris Paddack|R|Josh Bell|L|Walk|B|Changeup|63|3|1|0|14|85
+Chris Paddack|R|Colin Moran|L|Pop Out|C|Four-Seam Fastball|64|0|0|0|13|92
+Chris Paddack|R|Colin Moran|L|Pop Out|X|Four-Seam Fastball|65|0|1|0|12|94
+Chris Paddack|R|Corey Dickerson|L|Grounded Into DP|B|Changeup|66|0|0|1|13|84
+Chris Paddack|R|Corey Dickerson|L|Grounded Into DP|C|Four-Seam Fastball|67|1|0|1|13|94
+Chris Paddack|R|Corey Dickerson|L|Grounded Into DP|T|Four-Seam Fastball|68|1|1|1|1|93
+Chris Paddack|R|Corey Dickerson|L|Grounded Into DP|B|Four-Seam Fastball|69|1|2|1|11|95
+Chris Paddack|R|Corey Dickerson|L|Grounded Into DP|X|Changeup|70|2|2|1|13|85
+Chris Paddack|R|Adam Frazier|L|Flyout|C|Curveball|71|0|0|0|11|73
+Chris Paddack|R|Adam Frazier|L|Flyout|X|Curveball|72|0|1|0|13|74
+Chris Paddack|R|Jacob Stallings|R|Single|C|Four-Seam Fastball|73|0|0|1|12|90
+Chris Paddack|R|Jacob Stallings|R|Single|S|Four-Seam Fastball|74|0|1|1|2|92
+Chris Paddack|R|Jacob Stallings|R|Single|D|Four-Seam Fastball|75|0|2|1|12|92
+Chris Paddack|R|Jose Osuna|R|Home Run|E|Four-Seam Fastball|76|0|0|1|6|92
+Chris Paddack|R|Kevin Newman|R|Groundout|F|Four-Seam Fastball|77|0|0|1|1|91
+Chris Paddack|R|Kevin Newman|R|Groundout|X|Changeup|78|0|1|1|14|84
+Chris Paddack|R|Bryan Reynolds|L|Single|B|Four-Seam Fastball|79|0|0|2|13|91
+Chris Paddack|R|Bryan Reynolds|L|Single|B|Changeup|80|1|0|2|14|84
+Chris Paddack|R|Bryan Reynolds|L|Single|C|Four-Seam Fastball|81|2|0|2|1|92
+Chris Paddack|R|Bryan Reynolds|L|Single|D|Four-Seam Fastball|82|2|1|2|7|92
+Chris Paddack|R|Starling Marte|R|Forceout|W|Changeup|83|0|0|2|14|83
+Chris Paddack|R|Starling Marte|R|Forceout|X|Four-Seam Fastball|84|0|1|2|13|93
+Chris Paddack|R|Steven Duggar|L|Flyout|X|Four-Seam Fastball|0|0|0|0|5|93
+Chris Paddack|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|1|0|0|1|12|93
+Chris Paddack|R|Joe Panik|L|Groundout|B|Four-Seam Fastball|2|1|0|1|14|94
+Chris Paddack|R|Joe Panik|L|Groundout|F|Four-Seam Fastball|3|2|0|1|4|93
+Chris Paddack|R|Joe Panik|L|Groundout|F|Four-Seam Fastball|4|2|1|1|11|94
+Chris Paddack|R|Joe Panik|L|Groundout|X|Changeup|5|2|2|1|9|85
+Chris Paddack|R|Yangervis Solarte|L|Pop Out|C|Four-Seam Fastball|6|0|0|2|8|94
+Chris Paddack|R|Yangervis Solarte|L|Pop Out|F|Four-Seam Fastball|7|0|1|2|6|94
+Chris Paddack|R|Yangervis Solarte|L|Pop Out|B|Four-Seam Fastball|8|0|2|2|11|95
+Chris Paddack|R|Yangervis Solarte|L|Pop Out|B|Four-Seam Fastball|9|1|2|2|13|94
+Chris Paddack|R|Yangervis Solarte|L|Pop Out|X|Four-Seam Fastball|10|2|2|2|2|95
+Chris Paddack|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|11|0|0|0|3|92
+Chris Paddack|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|12|0|1|0|1|92
+Chris Paddack|R|Brandon Belt|L|Strikeout|T|Four-Seam Fastball|13|0|2|0|13|93
+Chris Paddack|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|14|0|0|1|11|94
+Chris Paddack|R|Brandon Crawford|L|Strikeout|S|Changeup|15|1|0|1|8|83
+Chris Paddack|R|Brandon Crawford|L|Strikeout|T|Four-Seam Fastball|16|1|1|1|5|93
+Chris Paddack|R|Brandon Crawford|L|Strikeout|B|Changeup|17|1|2|1|13|84
+Chris Paddack|R|Brandon Crawford|L|Strikeout|S|Changeup|18|2|2|1|6|84
+Chris Paddack|R|Gerardo Parra|L|Strikeout|C|Four-Seam Fastball|19|0|0|2|11|94
+Chris Paddack|R|Gerardo Parra|L|Strikeout|B|Curveball|20|0|1|2|11|74
+Chris Paddack|R|Gerardo Parra|L|Strikeout|F|Changeup|21|1|1|2|14|84
+Chris Paddack|R|Gerardo Parra|L|Strikeout|S|Changeup|22|1|2|2|8|85
+Chris Paddack|R|Pablo Sandoval|L|Strikeout|B|Four-Seam Fastball|23|0|0|0|11|91
+Chris Paddack|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|24|1|0|0|11|93
+Chris Paddack|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|25|1|1|0|2|93
+Chris Paddack|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|26|1|2|0|13|95
+Chris Paddack|R|Pablo Sandoval|L|Strikeout|T|Four-Seam Fastball|27|1|2|0|11|94
+Chris Paddack|R|Erik Kratz|R|Groundout|X|Four-Seam Fastball|28|0|0|1|9|94
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|29|0|0|2|14|93
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|C|Four-Seam Fastball|30|1|0|2|8|94
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|C|Four-Seam Fastball|31|1|1|2|14|93
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|F|Four-Seam Fastball|32|1|2|2|14|95
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|F|Four-Seam Fastball|33|1|2|2|11|94
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|B|Changeup|34|1|2|2|14|84
+Chris Paddack|R|Jeff Samardzija|R|Strikeout|S|Changeup|35|2|2|2|8|83
+Chris Paddack|R|Steven Duggar|L|Strikeout|C|Four-Seam Fastball|36|0|0|0|13|91
+Chris Paddack|R|Steven Duggar|L|Strikeout|C|Changeup|37|0|1|0|7|82
+Chris Paddack|R|Steven Duggar|L|Strikeout|B|Changeup|38|0|2|0|13|82
+Chris Paddack|R|Steven Duggar|L|Strikeout|F|Changeup|39|1|2|0|6|83
+Chris Paddack|R|Steven Duggar|L|Strikeout|F|Four-Seam Fastball|40|1|2|0|4|94
+Chris Paddack|R|Steven Duggar|L|Strikeout|F|Four-Seam Fastball|41|1|2|0|2|94
+Chris Paddack|R|Steven Duggar|L|Strikeout|B|Four-Seam Fastball|42|1|2|0|11|95
+Chris Paddack|R|Steven Duggar|L|Strikeout|B|Changeup|43|2|2|0|13|84
+Chris Paddack|R|Steven Duggar|L|Strikeout|C|Changeup|44|3|2|0|3|82
+Chris Paddack|R|Joe Panik|L|Walk|C|Curveball|45|0|0|1|4|74
+Chris Paddack|R|Joe Panik|L|Walk|B|Changeup|46|0|1|1|14|83
+Chris Paddack|R|Joe Panik|L|Walk|B|Changeup|47|1|1|1|14|82
+Chris Paddack|R|Joe Panik|L|Walk|B|Four-Seam Fastball|48|2|1|1|13|93
+Chris Paddack|R|Joe Panik|L|Walk|F|Four-Seam Fastball|49|3|1|1|12|91
+Chris Paddack|R|Joe Panik|L|Walk|F|Four-Seam Fastball|50|3|2|1|4|95
+Chris Paddack|R|Joe Panik|L|Walk|F|Four-Seam Fastball|51|3|2|1|13|95
+Chris Paddack|R|Joe Panik|L|Walk|B|Four-Seam Fastball|52|3|2|1|12|94
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|B|Four-Seam Fastball|53|0|0|1|13|93
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|S|Changeup|54|1|0|1|14|84
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|F|Changeup|55|1|1|1|5|83
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|B|Changeup|56|1|2|1|13|84
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|F|Four-Seam Fastball|57|2|2|1|9|94
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|B|Four-Seam Fastball|58|2|2|1|13|94
+Chris Paddack|R|Yangervis Solarte|L|Strikeout Double Play|S|Changeup|59|3|2|1|8|83
+Chris Paddack|R|Brandon Belt|L|Groundout|C|Changeup|60|0|0|0|8|81
+Chris Paddack|R|Brandon Belt|L|Groundout|X|Four-Seam Fastball|61|0|1|0|3|92
+Chris Paddack|R|Brandon Crawford|L|Single|S|Curveball|62|0|0|1|14|73
+Chris Paddack|R|Brandon Crawford|L|Single|D|Changeup|63|0|1|1|5|83
+Chris Paddack|R|Gerardo Parra|L|Flyout|B|Curveball|64|0|0|1|13|74
+Chris Paddack|R|Gerardo Parra|L|Flyout|F|Four-Seam Fastball|65|1|0|1|4|94
+Chris Paddack|R|Gerardo Parra|L|Flyout|X|Four-Seam Fastball|66|1|1|1|5|93
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Changeup|67|0|0|2|7|84
+Chris Paddack|R|Pablo Sandoval|L|Double|S|Four-Seam Fastball|68|0|1|2|4|94
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Four-Seam Fastball|69|0|2|2|11|95
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Four-Seam Fastball|70|0|2|2|2|95
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Curveball|71|0|2|2|5|75
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Changeup|72|0|2|2|14|84
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Changeup|73|0|2|2|13|83
+Chris Paddack|R|Pablo Sandoval|L|Double|F|Four-Seam Fastball|74|0|2|2|12|95
+Chris Paddack|R|Pablo Sandoval|L|Double|B|Four-Seam Fastball|75|0|2|2|11|95
+Chris Paddack|R|Pablo Sandoval|L|Double|E|Curveball|76|1|2|2|13|75
+Chris Paddack|R|Erik Kratz|R|Flyout|C|Four-Seam Fastball|77|0|0|2|1|93
+Chris Paddack|R|Erik Kratz|R|Flyout|X|Four-Seam Fastball|78|0|1|2|3|94
+Chris Paddack|R|Joey Votto|L|Home Run|F|Four-Seam Fastball|0|0|0|0|6|92
+Chris Paddack|R|Joey Votto|L|Home Run|S|Four-Seam Fastball|1|0|1|0|2|93
+Chris Paddack|R|Joey Votto|L|Home Run|E|Four-Seam Fastball|2|0|2|0|2|94
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|3|0|0|0|12|92
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|4|1|0|0|6|93
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|B|Changeup|5|1|1|0|14|83
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|C|Changeup|6|2|1|0|14|83
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|B|Changeup|7|2|2|0|14|84
+Chris Paddack|R|Eugenio Suarez|R|Strikeout|S|Changeup|8|3|2|0|8|83
+Chris Paddack|R|Jesse Winker|L|Groundout|B|Curveball|9|0|0|1|12|74
+Chris Paddack|R|Jesse Winker|L|Groundout|F|Four-Seam Fastball|10|1|0|1|3|93
+Chris Paddack|R|Jesse Winker|L|Groundout|X|Changeup|11|1|1|1|7|83
+Chris Paddack|R|Matt Kemp|R|Lineout|B|Curveball|12|0|0|2|14|74
+Chris Paddack|R|Matt Kemp|R|Lineout|C|Four-Seam Fastball|13|1|0|2|14|92
+Chris Paddack|R|Matt Kemp|R|Lineout|B|Changeup|14|1|1|2|14|82
+Chris Paddack|R|Matt Kemp|R|Lineout|S|Changeup|15|2|1|2|8|83
+Chris Paddack|R|Matt Kemp|R|Lineout|F|Four-Seam Fastball|16|2|2|2|14|95
+Chris Paddack|R|Matt Kemp|R|Lineout|X|Four-Seam Fastball|17|2|2|2|2|93
+Chris Paddack|R|Derek Dietrich|L|Pop Out|B|Four-Seam Fastball|18|0|0|0|11|91
+Chris Paddack|R|Derek Dietrich|L|Pop Out|S|Changeup|19|1|0|0|7|82
+Chris Paddack|R|Derek Dietrich|L|Pop Out|B|Four-Seam Fastball|20|1|1|0|12|92
+Chris Paddack|R|Derek Dietrich|L|Pop Out|X|Four-Seam Fastball|21|2|1|0|3|91
+Chris Paddack|R|Scott Schebler|L|Strikeout|C|Curveball|22|0|0|1|14|74
+Chris Paddack|R|Scott Schebler|L|Strikeout|C|Four-Seam Fastball|23|0|1|1|14|92
+Chris Paddack|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|24|0|2|1|12|94
+Chris Paddack|R|Scott Schebler|L|Strikeout|S|Four-Seam Fastball|25|1|2|1|3|93
+Chris Paddack|R|Jose Iglesias|R|Pop Out|C|Four-Seam Fastball|26|0|0|2|14|93
+Chris Paddack|R|Jose Iglesias|R|Pop Out|B|Curveball|27|0|1|2|14|76
+Chris Paddack|R|Jose Iglesias|R|Pop Out|B|Four-Seam Fastball|28|1|1|2|14|93
+Chris Paddack|R|Jose Iglesias|R|Pop Out|S|Changeup|29|2|1|2|8|84
+Chris Paddack|R|Jose Iglesias|R|Pop Out|F|Four-Seam Fastball|30|2|2|2|12|94
+Chris Paddack|R|Jose Iglesias|R|Pop Out|X|Curveball|31|2|2|2|11|75
+Chris Paddack|R|Tanner Roark|R|Strikeout|C|Four-Seam Fastball|32|0|0|0|14|91
+Chris Paddack|R|Tanner Roark|R|Strikeout|F|Four-Seam Fastball|33|0|1|0|3|92
+Chris Paddack|R|Tanner Roark|R|Strikeout|B|Changeup|34|0|2|0|13|82
+Chris Paddack|R|Tanner Roark|R|Strikeout|S|Changeup|35|1|2|0|4|81
+Chris Paddack|R|Tucker Barnhart|L|Strikeout|B|Four-Seam Fastball|36|0|0|1|11|93
+Chris Paddack|R|Tucker Barnhart|L|Strikeout|B|Changeup|37|1|0|1|14|83
+Chris Paddack|R|Tucker Barnhart|L|Strikeout|S|Four-Seam Fastball|38|2|0|1|1|92
+Chris Paddack|R|Tucker Barnhart|L|Strikeout|S|Four-Seam Fastball|39|2|1|1|3|93
+Chris Paddack|R|Tucker Barnhart|L|Strikeout|S|Changeup|40|2|2|1|5|83
+Chris Paddack|R|Joey Votto|L|Strikeout|B|Four-Seam Fastball|41|0|0|2|13|93
+Chris Paddack|R|Joey Votto|L|Strikeout|F|Four-Seam Fastball|42|1|0|2|3|93
+Chris Paddack|R|Joey Votto|L|Strikeout|B|Changeup|43|1|1|2|14|84
+Chris Paddack|R|Joey Votto|L|Strikeout|B|Changeup|44|2|1|2|14|83
+Chris Paddack|R|Joey Votto|L|Strikeout|C|Changeup|45|3|1|2|8|83
+Chris Paddack|R|Joey Votto|L|Strikeout|C|Changeup|46|3|2|2|13|83
+Chris Paddack|R|Eugenio Suarez|R|Groundout|F|Four-Seam Fastball|47|0|0|0|2|91
+Chris Paddack|R|Eugenio Suarez|R|Groundout|B|Curveball|48|0|1|0|11|74
+Chris Paddack|R|Eugenio Suarez|R|Groundout|B|Changeup|49|1|1|0|13|82
+Chris Paddack|R|Eugenio Suarez|R|Groundout|C|Four-Seam Fastball|50|2|1|0|6|92
+Chris Paddack|R|Eugenio Suarez|R|Groundout|F|Changeup|51|2|2|0|5|83
+Chris Paddack|R|Eugenio Suarez|R|Groundout|X|Four-Seam Fastball|52|2|2|0|4|93
+Chris Paddack|R|Jesse Winker|L|Flyout|C|Changeup|53|0|0|1|1|83
+Chris Paddack|R|Jesse Winker|L|Flyout|X|Four-Seam Fastball|54|0|1|1|3|93
+Chris Paddack|R|Matt Kemp|R|Single|C|Four-Seam Fastball|55|0|0|2|9|92
+Chris Paddack|R|Matt Kemp|R|Single|B|Four-Seam Fastball|56|0|1|2|14|94
+Chris Paddack|R|Matt Kemp|R|Single|F|Four-Seam Fastball|57|1|1|2|8|94
+Chris Paddack|R|Matt Kemp|R|Single|D|Curveball|58|1|2|2|6|74
+Chris Paddack|R|Derek Dietrich|L|Groundout|C|Four-Seam Fastball|59|0|0|2|11|93
+Chris Paddack|R|Derek Dietrich|L|Groundout|B|Changeup|60|0|1|2|13|84
+Chris Paddack|R|Derek Dietrich|L|Groundout|X|Changeup|61|1|1|2|13|83
+Chris Paddack|R|Scott Schebler|L|Walk|B|Changeup|62|0|0|0|13|82
+Chris Paddack|R|Scott Schebler|L|Walk|C|Changeup|63|1|0|0|14|81
+Chris Paddack|R|Scott Schebler|L|Walk|S|Changeup|64|1|1|0|13|83
+Chris Paddack|R|Scott Schebler|L|Walk|B|Four-Seam Fastball|65|1|2|0|12|93
+Chris Paddack|R|Scott Schebler|L|Walk|B|Four-Seam Fastball|66|2|2|0|12|93
+Chris Paddack|R|Scott Schebler|L|Walk|B|Changeup|67|3|2|0|13|83
+Chris Paddack|R|Jose Iglesias|R|Lineout|C|Four-Seam Fastball|68|0|0|0|5|93
+Chris Paddack|R|Jose Iglesias|R|Lineout|S|Changeup|69|0|1|0|14|84
+Chris Paddack|R|Jose Iglesias|R|Lineout|F|Changeup|70|0|2|0|11|83
+Chris Paddack|R|Jose Iglesias|R|Lineout|X|Four-Seam Fastball|71|0|2|0|11|93
+Chris Paddack|R|Tanner Roark|R|Flyout|L|Four-Seam Fastball|72|0|0|1|8|92
+Chris Paddack|R|Tanner Roark|R|Flyout|L|Four-Seam Fastball|73|0|1|1|11|94
+Chris Paddack|R|Tanner Roark|R|Flyout|B|Four-Seam Fastball|74|0|2|1|14|93
+Chris Paddack|R|Tanner Roark|R|Flyout|X|Four-Seam Fastball|75|1|2|1|9|92
+Chris Paddack|R|Tucker Barnhart|L|Home Run|E|Four-Seam Fastball|76|0|0|2|5|92
+Chris Paddack|R|Joey Votto|L|Groundout|C|Four-Seam Fastball|77|0|0|2|2|92
+Chris Paddack|R|Joey Votto|L|Groundout|B|Curveball|78|0|1|2|14|75
+Chris Paddack|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|79|1|1|2|14|91
+Chris Paddack|R|Joey Votto|L|Groundout|C|Changeup|80|2|1|2|13|83
+Chris Paddack|R|Joey Votto|L|Groundout|F|Four-Seam Fastball|81|2|2|2|7|93
+Chris Paddack|R|Joey Votto|L|Groundout|F|Four-Seam Fastball|82|2|2|2|12|93
+Chris Paddack|R|Joey Votto|L|Groundout|X|Changeup|83|2|2|2|8|83
+Chris Paddack|R|Eugenio Suarez|R|Lineout|X|Changeup|84|0|0|0|5|81
+Chris Paddack|R|Jesse Winker|L|Lineout|C|Four-Seam Fastball|85|0|0|1|13|90
+Chris Paddack|R|Jesse Winker|L|Lineout|X|Changeup|86|0|1|1|8|82
+Chris Paddack|R|Matt Kemp|R|Flyout|X|Changeup|87|0|0|2|5|82
+Chris Paddack|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|91
+Chris Paddack|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|91
+Chris Paddack|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|2|2|0|0|13|90
+Chris Paddack|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|3|3|0|0|14|90
+Chris Paddack|R|Daniel Vogelbach|L|Pop Out|C|Four-Seam Fastball|4|0|0|0|13|91
+Chris Paddack|R|Daniel Vogelbach|L|Pop Out|B|Changeup|5|0|1|0|13|84
+Chris Paddack|R|Daniel Vogelbach|L|Pop Out|F|Changeup|6|1|1|0|4|83
+Chris Paddack|R|Daniel Vogelbach|L|Pop Out|X|Four-Seam Fastball|7|1|2|0|3|93
+Chris Paddack|R|Domingo Santana|R|Single|F|Curveball|8|0|0|1|8|73
+Chris Paddack|R|Domingo Santana|R|Single|F|Four-Seam Fastball|9|0|1|1|4|93
+Chris Paddack|R|Domingo Santana|R|Single|F|Four-Seam Fastball|10|0|2|1|11|94
+Chris Paddack|R|Domingo Santana|R|Single|D|Changeup|11|0|2|1|8|84
+Chris Paddack|R|Omar Narvaez|L|Groundout|X|Changeup|12|0|0|1|9|83
+Chris Paddack|R|Tim Beckham|R|Hit By Pitch|C|Four-Seam Fastball|13|0|0|2|8|93
+Chris Paddack|R|Tim Beckham|R|Hit By Pitch|*B|Curveball|14|0|1|2|14|75
+Chris Paddack|R|Tim Beckham|R|Hit By Pitch|H|Four-Seam Fastball|15|1|1|2|11|93
+Chris Paddack|R|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|16|0|0|2|1|93
+Chris Paddack|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|17|0|1|2|13|94
+Chris Paddack|R|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|18|0|2|2|2|94
+Chris Paddack|R|Dee Gordon|L|Strikeout|S|Changeup|19|0|2|2|11|83
+Chris Paddack|R|Ryon Healy|R|Flyout|X|Four-Seam Fastball|20|0|0|0|5|91
+Chris Paddack|R|Mallex Smith|L|Strikeout|C|Four-Seam Fastball|21|0|0|1|7|92
+Chris Paddack|R|Mallex Smith|L|Strikeout|C|Curveball|22|0|1|1|6|73
+Chris Paddack|R|Mallex Smith|L|Strikeout|B|Four-Seam Fastball|23|0|2|1|12|94
+Chris Paddack|R|Mallex Smith|L|Strikeout|S|Four-Seam Fastball|24|1|2|1|6|94
+Chris Paddack|R|Felix Hernandez|R|Strikeout|C|Four-Seam Fastball|25|0|0|2|5|92
+Chris Paddack|R|Felix Hernandez|R|Strikeout|F|Four-Seam Fastball|26|0|1|2|1|93
+Chris Paddack|R|Felix Hernandez|R|Strikeout|B|Four-Seam Fastball|27|0|2|2|12|94
+Chris Paddack|R|Felix Hernandez|R|Strikeout|F|Four-Seam Fastball|28|1|2|2|3|93
+Chris Paddack|R|Felix Hernandez|R|Strikeout|S|Changeup|29|1|2|2|4|83
+Chris Paddack|R|Mitch Haniger|R|Pop Out|X|Four-Seam Fastball|30|0|0|0|5|92
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|C|Four-Seam Fastball|31|0|0|1|13|91
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|B|Changeup|32|0|1|1|14|83
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|B|Changeup|33|1|1|1|13|83
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|C|Changeup|34|2|1|1|9|82
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|S|Four-Seam Fastball|35|2|2|1|13|93
+Chris Paddack|R|Domingo Santana|R|Flyout|F|Four-Seam Fastball|36|0|0|2|8|92
+Chris Paddack|R|Domingo Santana|R|Flyout|X|Curveball|37|0|1|2|1|75
+Chris Paddack|R|Omar Narvaez|L|Strikeout|C|Curveball|38|0|0|0|7|72
+Chris Paddack|R|Omar Narvaez|L|Strikeout|B|Four-Seam Fastball|39|0|1|0|12|91
+Chris Paddack|R|Omar Narvaez|L|Strikeout|B|Four-Seam Fastball|40|1|1|0|11|92
+Chris Paddack|R|Omar Narvaez|L|Strikeout|F|Changeup|41|2|1|0|14|83
+Chris Paddack|R|Omar Narvaez|L|Strikeout|C|Four-Seam Fastball|42|2|2|0|9|94
+Chris Paddack|R|Tim Beckham|R|Strikeout|F|Changeup|43|0|0|1|7|82
+Chris Paddack|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|44|0|1|1|11|92
+Chris Paddack|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|45|0|2|1|2|93
+Chris Paddack|R|Tim Beckham|R|Strikeout|B|Four-Seam Fastball|46|0|2|1|14|94
+Chris Paddack|R|Tim Beckham|R|Strikeout|F|Curveball|47|1|2|1|9|74
+Chris Paddack|R|Tim Beckham|R|Strikeout|B|Four-Seam Fastball|48|1|2|1|11|94
+Chris Paddack|R|Tim Beckham|R|Strikeout|S|Changeup|49|2|2|1|7|84
+Chris Paddack|R|Dee Gordon|L|Groundout|X|Changeup|50|0|0|2|5|83
+Chris Paddack|R|Ryon Healy|R|Flyout|X|Four-Seam Fastball|51|0|0|0|6|92
+Chris Paddack|R|Mallex Smith|L|Groundout|B|Four-Seam Fastball|52|0|0|1|3|92
+Chris Paddack|R|Mallex Smith|L|Groundout|S|Four-Seam Fastball|53|1|0|1|4|92
+Chris Paddack|R|Mallex Smith|L|Groundout|X|Changeup|54|1|1|1|9|83
+Chris Paddack|R|Felix Hernandez|R|Groundout|C|Four-Seam Fastball|55|0|0|2|5|92
+Chris Paddack|R|Felix Hernandez|R|Groundout|S|Changeup|56|0|1|2|13|83
+Chris Paddack|R|Felix Hernandez|R|Groundout|B|Four-Seam Fastball|57|0|2|2|12|94
+Chris Paddack|R|Felix Hernandez|R|Groundout|F|Four-Seam Fastball|58|1|2|2|4|94
+Chris Paddack|R|Felix Hernandez|R|Groundout|X|Four-Seam Fastball|59|1|2|2|5|93
+Chris Paddack|R|Mitch Haniger|R|Pop Out|C|Four-Seam Fastball|60|0|0|0|2|91
+Chris Paddack|R|Mitch Haniger|R|Pop Out|B|Changeup|61|0|1|0|14|83
+Chris Paddack|R|Mitch Haniger|R|Pop Out|C|Changeup|62|1|1|0|9|83
+Chris Paddack|R|Mitch Haniger|R|Pop Out|X|Four-Seam Fastball|63|1|2|0|5|94
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|B|Curveball|64|0|0|1|11|74
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|S|Changeup|65|1|0|1|8|81
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|F|Curveball|66|1|1|1|13|76
+Chris Paddack|R|Daniel Vogelbach|L|Strikeout|S|Four-Seam Fastball|67|1|2|1|12|94
+Chris Paddack|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|68|0|0|2|3|93
+Chris Paddack|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|69|1|0|2|11|92
+Chris Paddack|R|Domingo Santana|R|Strikeout|F|Four-Seam Fastball|70|2|0|2|5|93
+Chris Paddack|R|Domingo Santana|R|Strikeout|S|Changeup|71|2|1|2|14|83
+Chris Paddack|R|Domingo Santana|R|Strikeout|B|Four-Seam Fastball|72|2|2|2|3|95
+Chris Paddack|R|Domingo Santana|R|Strikeout|S|Changeup|73|3|2|2|13|84
+Chris Paddack|R|Omar Narvaez|L|Groundout|F|Changeup|74|0|0|0|4|82
+Chris Paddack|R|Omar Narvaez|L|Groundout|X|Changeup|75|0|1|0|4|82
+Chris Paddack|R|Tim Beckham|R|Strikeout|B|Curveball|76|0|0|1|11|73
+Chris Paddack|R|Tim Beckham|R|Strikeout|C|Curveball|77|1|0|1|6|73
+Chris Paddack|R|Tim Beckham|R|Strikeout|C|Changeup|78|1|1|1|8|83
+Chris Paddack|R|Tim Beckham|R|Strikeout|S|Four-Seam Fastball|79|1|2|1|3|95
+Chris Paddack|R|Dee Gordon|L|Flyout|F|Four-Seam Fastball|80|0|0|2|4|93
+Chris Paddack|R|Dee Gordon|L|Flyout|B|Four-Seam Fastball|81|0|1|2|12|92
+Chris Paddack|R|Dee Gordon|L|Flyout|X|Changeup|82|1|1|2|13|83
+Chris Paddack|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Chris Paddack|R|Jeff McNeil|L|Strikeout|S|Four-Seam Fastball|1|1|0|0|5|92
+Chris Paddack|R|Jeff McNeil|L|Strikeout|F|Changeup|2|1|1|0|14|84
+Chris Paddack|R|Jeff McNeil|L|Strikeout|B|Changeup|3|1|2|0|13|84
+Chris Paddack|R|Jeff McNeil|L|Strikeout|F|Changeup|4|2|2|0|14|83
+Chris Paddack|R|Jeff McNeil|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|12|95
+Chris Paddack|R|Pete Alonso|R|Strikeout|C|Four-Seam Fastball|6|0|0|1|3|96
+Chris Paddack|R|Pete Alonso|R|Strikeout|B|Four-Seam Fastball|7|0|1|1|11|96
+Chris Paddack|R|Pete Alonso|R|Strikeout|C|Four-Seam Fastball|8|1|1|1|11|96
+Chris Paddack|R|Pete Alonso|R|Strikeout|S|Four-Seam Fastball|9|1|2|1|2|97
+Chris Paddack|R|Robinson Cano|L|Groundout|F|Four-Seam Fastball|10|0|0|2|1|94
+Chris Paddack|R|Robinson Cano|L|Groundout|S|Curveball|11|0|1|2|2|75
+Chris Paddack|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|12|0|2|2|11|97
+Chris Paddack|R|Robinson Cano|L|Groundout|X|Changeup|13|1|2|2|13|84
+Chris Paddack|R|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|14|0|0|0|6|93
+Chris Paddack|R|Michael Conforto|L|Strikeout|S|Changeup|15|0|1|0|13|84
+Chris Paddack|R|Michael Conforto|L|Strikeout|S|Four-Seam Fastball|16|0|2|0|11|96
+Chris Paddack|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|17|0|0|1|5|93
+Chris Paddack|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|18|0|1|1|1|95
+Chris Paddack|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|19|0|2|1|12|96
+Chris Paddack|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|20|0|2|1|8|94
+Chris Paddack|R|Todd Frazier|R|Single|D|Four-Seam Fastball|21|0|0|2|5|95
+Chris Paddack|R|Adeiny Hechavarria|R|Strikeout|C|Four-Seam Fastball|22|0|0|2|4|94
+Chris Paddack|R|Adeiny Hechavarria|R|Strikeout|*B|Curveball|23|0|1|2|14|77
+Chris Paddack|R|Adeiny Hechavarria|R|Strikeout|S|Changeup|24|1|1|2|13|84
+Chris Paddack|R|Adeiny Hechavarria|R|Strikeout|T|Four-Seam Fastball|25|1|2|2|11|96
+Chris Paddack|R|Juan Lagares|R|Groundout|F|Four-Seam Fastball|26|0|0|0|5|93
+Chris Paddack|R|Juan Lagares|R|Groundout|B|Four-Seam Fastball|27|0|1|0|11|94
+Chris Paddack|R|Juan Lagares|R|Groundout|X|Curveball|28|1|1|0|8|75
+Chris Paddack|R|Jacob deGrom|L|Strikeout|S|Four-Seam Fastball|29|0|0|1|6|94
+Chris Paddack|R|Jacob deGrom|L|Strikeout|C|Four-Seam Fastball|30|0|1|1|9|93
+Chris Paddack|R|Jacob deGrom|L|Strikeout|B|Four-Seam Fastball|31|0|2|1|14|94
+Chris Paddack|R|Jacob deGrom|L|Strikeout|S|Changeup|32|1|2|1|7|84
+Chris Paddack|R|Jeff McNeil|L|Single|F|Changeup|33|0|0|2|14|83
+Chris Paddack|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|34|0|1|2|12|94
+Chris Paddack|R|Jeff McNeil|L|Single|B|Curveball|35|1|1|2|14|75
+Chris Paddack|R|Jeff McNeil|L|Single|D|Changeup|36|2|1|2|13|84
+Chris Paddack|R|Pete Alonso|R|Strikeout|C|Curveball|37|0|0|2|2|75
+Chris Paddack|R|Pete Alonso|R|Strikeout|F|Four-Seam Fastball|38|0|1|2|11|96
+Chris Paddack|R|Pete Alonso|R|Strikeout|F|Four-Seam Fastball|39|0|2|2|11|97
+Chris Paddack|R|Pete Alonso|R|Strikeout|S|Four-Seam Fastball|40|0|2|2|11|97
+Chris Paddack|R|Robinson Cano|L|Lineout|B|Changeup|41|0|0|0|14|83
+Chris Paddack|R|Robinson Cano|L|Lineout|X|Changeup|42|1|0|0|13|83
+Chris Paddack|R|Michael Conforto|L|Strikeout|C|Four-Seam Fastball|43|0|0|1|6|93
+Chris Paddack|R|Michael Conforto|L|Strikeout|S|Four-Seam Fastball|44|0|1|1|3|93
+Chris Paddack|R|Michael Conforto|L|Strikeout|C|Four-Seam Fastball|45|0|2|1|1|95
+Chris Paddack|R|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|46|0|0|2|9|93
+Chris Paddack|R|Todd Frazier|R|Lineout|C|Four-Seam Fastball|47|0|0|0|12|92
+Chris Paddack|R|Todd Frazier|R|Lineout|X|Changeup|48|0|1|0|9|83
+Chris Paddack|R|Adeiny Hechavarria|R|Flyout|S|Four-Seam Fastball|49|0|0|1|12|93
+Chris Paddack|R|Adeiny Hechavarria|R|Flyout|F|Four-Seam Fastball|50|0|1|1|5|93
+Chris Paddack|R|Adeiny Hechavarria|R|Flyout|X|Four-Seam Fastball|51|0|2|1|4|95
+Chris Paddack|R|Juan Lagares|R|Strikeout|S|Changeup|52|0|0|2|14|84
+Chris Paddack|R|Juan Lagares|R|Strikeout|C|Four-Seam Fastball|53|0|1|2|8|93
+Chris Paddack|R|Juan Lagares|R|Strikeout|B|Changeup|54|0|2|2|13|85
+Chris Paddack|R|Juan Lagares|R|Strikeout|S|Changeup|55|1|2|2|7|84
+Chris Paddack|R|Jacob deGrom|L|Single|D|Four-Seam Fastball|56|0|0|0|6|91
+Chris Paddack|R|Jeff McNeil|L|Groundout|X|Changeup|57|0|0|0|13|84
+Chris Paddack|R|Pete Alonso|R|Groundout|B|Changeup|58|0|0|1|14|85
+Chris Paddack|R|Pete Alonso|R|Groundout|S|Changeup|59|1|0|1|14|84
+Chris Paddack|R|Pete Alonso|R|Groundout|B|Four-Seam Fastball|60|1|1|1|13|95
+Chris Paddack|R|Pete Alonso|R|Groundout|X|Changeup|61|2|1|1|14|85
+Chris Paddack|R|Robinson Cano|L|Walk|C|Four-Seam Fastball|62|0|0|2|13|94
+Chris Paddack|R|Robinson Cano|L|Walk|B|Four-Seam Fastball|63|0|1|2|13|96
+Chris Paddack|R|Robinson Cano|L|Walk|C|Four-Seam Fastball|64|1|1|2|3|94
+Chris Paddack|R|Robinson Cano|L|Walk|B|Four-Seam Fastball|65|1|2|2|11|96
+Chris Paddack|R|Robinson Cano|L|Walk|B|Changeup|66|2|2|2|13|85
+Chris Paddack|R|Robinson Cano|L|Walk|B|Four-Seam Fastball|67|3|2|2|12|95
+Chris Paddack|R|Michael Conforto|L|Flyout|S|Changeup|68|0|0|2|13|84
+Chris Paddack|R|Michael Conforto|L|Flyout|X|Four-Seam Fastball|69|0|1|2|5|94
+Chris Paddack|R|Wilson Ramos|R|Strikeout|C|Changeup|70|0|0|0|9|84
+Chris Paddack|R|Wilson Ramos|R|Strikeout|S|Changeup|71|0|1|0|5|83
+Chris Paddack|R|Wilson Ramos|R|Strikeout|B|Changeup|72|0|2|0|14|84
+Chris Paddack|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|73|1|2|0|11|94
+Chris Paddack|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|74|2|2|0|11|94
+Chris Paddack|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|75|2|2|0|11|94
+Chris Paddack|R|Wilson Ramos|R|Strikeout|S|Changeup|76|3|2|0|8|85
+Chris Paddack|R|Todd Frazier|R|Groundout|B|Changeup|77|0|0|1|14|85
+Chris Paddack|R|Todd Frazier|R|Groundout|S|Four-Seam Fastball|78|1|0|1|11|93
+Chris Paddack|R|Todd Frazier|R|Groundout|B|Four-Seam Fastball|79|1|1|1|14|95
+Chris Paddack|R|Todd Frazier|R|Groundout|X|Four-Seam Fastball|80|2|1|1|2|93
+Chris Paddack|R|Adeiny Hechavarria|R|Flyout|X|Curveball|81|0|0|2|11|73
+Chris Paddack|R|Juan Lagares|R|Strikeout|C|Four-Seam Fastball|82|0|0|0|12|91
+Chris Paddack|R|Juan Lagares|R|Strikeout|C|Four-Seam Fastball|83|0|1|0|11|93
+Chris Paddack|R|Juan Lagares|R|Strikeout|B|Changeup|84|0|2|0|13|83
+Chris Paddack|R|Juan Lagares|R|Strikeout|W|Changeup|85|1|2|0|13|85
+Chris Paddack|R|Brandon Nimmo|L|Groundout|F|Four-Seam Fastball|86|0|0|1|3|92
+Chris Paddack|R|Brandon Nimmo|L|Groundout|X|Changeup|87|0|1|1|7|84
+Chris Paddack|R|Jeff McNeil|L|Single|B|Four-Seam Fastball|88|0|0|2|12|92
+Chris Paddack|R|Jeff McNeil|L|Single|B|Changeup|89|1|0|2|13|82
+Chris Paddack|R|Jeff McNeil|L|Single|D|Changeup|90|2|0|2|4|83
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|92
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|F|Changeup|1|0|1|0|4|84
+Chris Paddack|R|Jarrod Dyson|L|Strikeout|S|Changeup|2|0|2|0|13|82
+Chris Paddack|R|Ketel Marte|L|Groundout|C|Four-Seam Fastball|3|0|0|1|4|93
+Chris Paddack|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|4|0|1|1|12|93
+Chris Paddack|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|5|1|1|1|12|93
+Chris Paddack|R|Ketel Marte|L|Groundout|X|Four-Seam Fastball|6|2|1|1|8|93
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|C|Four-Seam Fastball|7|0|0|2|11|92
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|S|Four-Seam Fastball|8|0|1|2|11|94
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|C|Four-Seam Fastball|9|0|2|2|9|94
+Chris Paddack|R|David Peralta|L|Groundout|F|Four-Seam Fastball|10|0|0|0|11|90
+Chris Paddack|R|David Peralta|L|Groundout|B|Four-Seam Fastball|11|0|1|0|12|91
+Chris Paddack|R|David Peralta|L|Groundout|F|Four-Seam Fastball|12|1|1|0|3|93
+Chris Paddack|R|David Peralta|L|Groundout|X|Curveball|13|1|2|0|13|74
+Chris Paddack|R|Christian Walker|R|Strikeout|C|Four-Seam Fastball|14|0|0|1|9|92
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|15|0|1|1|3|93
+Chris Paddack|R|Christian Walker|R|Strikeout|S|Four-Seam Fastball|16|0|2|1|11|94
+Chris Paddack|R|Blake Swihart|L|Strikeout|C|Four-Seam Fastball|17|0|0|2|4|93
+Chris Paddack|R|Blake Swihart|L|Strikeout|B|Curveball|18|0|1|2|13|74
+Chris Paddack|R|Blake Swihart|L|Strikeout|B|Changeup|19|1|1|2|14|85
+Chris Paddack|R|Blake Swihart|L|Strikeout|C|Four-Seam Fastball|20|2|1|2|13|93
+Chris Paddack|R|Blake Swihart|L|Strikeout|S|Four-Seam Fastball|21|2|2|2|1|94
+Chris Paddack|R|Nick Ahmed|R|Single|B|Four-Seam Fastball|22|0|0|0|12|91
+Chris Paddack|R|Nick Ahmed|R|Single|C|Four-Seam Fastball|23|1|0|0|12|92
+Chris Paddack|R|Nick Ahmed|R|Single|F|Four-Seam Fastball|24|1|1|0|2|92
+Chris Paddack|R|Nick Ahmed|R|Single|F|Four-Seam Fastball|25|1|2|0|2|94
+Chris Paddack|R|Nick Ahmed|R|Single|D|Four-Seam Fastball|26|1|2|0|5|94
+Chris Paddack|R|Carson Kelly|R|Single|C|Four-Seam Fastball|27|0|0|0|3|92
+Chris Paddack|R|Carson Kelly|R|Single|B|Curveball|28|0|1|0|14|76
+Chris Paddack|R|Carson Kelly|R|Single|B|Four-Seam Fastball|29|1|1|0|11|92
+Chris Paddack|R|Carson Kelly|R|Single|B|Changeup|30|2|1|0|14|84
+Chris Paddack|R|Carson Kelly|R|Single|D|Four-Seam Fastball|31|3|1|0|4|92
+Chris Paddack|R|Luke Weaver|R|Forceout|C|Four-Seam Fastball|32|0|0|0|7|93
+Chris Paddack|R|Luke Weaver|R|Forceout|X|Four-Seam Fastball|33|0|1|0|11|94
+Chris Paddack|R|Jarrod Dyson|L|Forceout|C|Four-Seam Fastball|34|0|0|1|4|94
+Chris Paddack|R|Jarrod Dyson|L|Forceout|F|Four-Seam Fastball|35|0|1|1|2|94
+Chris Paddack|R|Jarrod Dyson|L|Forceout|B|Four-Seam Fastball|36|0|2|1|13|95
+Chris Paddack|R|Jarrod Dyson|L|Forceout|F|Four-Seam Fastball|37|1|2|1|3|95
+Chris Paddack|R|Jarrod Dyson|L|Forceout|B|Changeup|38|1|2|1|11|85
+Chris Paddack|R|Jarrod Dyson|L|Forceout|E|Changeup|39|2|2|1|5|85
+Chris Paddack|R|Ketel Marte|L|Single|B|Four-Seam Fastball|40|0|0|2|11|94
+Chris Paddack|R|Ketel Marte|L|Single|B|Four-Seam Fastball|41|1|0|2|12|93
+Chris Paddack|R|Ketel Marte|L|Single|D|Four-Seam Fastball|42|2|0|2|2|93
+Chris Paddack|R|Eduardo Escobar|L|Flyout|X|Curveball|43|0|0|2|13|76
+Chris Paddack|R|David Peralta|L|Pop Out|C|Four-Seam Fastball|44|0|0|0|9|90
+Chris Paddack|R|David Peralta|L|Pop Out|C|Four-Seam Fastball|45|0|1|0|13|92
+Chris Paddack|R|David Peralta|L|Pop Out|F|Changeup|46|0|2|0|14|84
+Chris Paddack|R|David Peralta|L|Pop Out|B|Four-Seam Fastball|47|0|2|0|12|93
+Chris Paddack|R|David Peralta|L|Pop Out|F|Four-Seam Fastball|48|1|2|0|12|93
+Chris Paddack|R|David Peralta|L|Pop Out|B|Changeup|49|1|2|0|13|84
+Chris Paddack|R|David Peralta|L|Pop Out|F|Changeup|50|2|2|0|13|84
+Chris Paddack|R|David Peralta|L|Pop Out|X|Four-Seam Fastball|51|2|2|0|12|94
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Changeup|52|0|0|1|4|83
+Chris Paddack|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|53|0|1|1|12|93
+Chris Paddack|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|54|1|1|1|2|93
+Chris Paddack|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|55|1|2|1|12|94
+Chris Paddack|R|Christian Walker|R|Strikeout|S|Changeup|56|2|2|1|13|85
+Chris Paddack|R|Blake Swihart|L|Flyout|S|Four-Seam Fastball|57|0|0|2|2|93
+Chris Paddack|R|Blake Swihart|L|Flyout|C|Curveball|58|0|1|2|8|76
+Chris Paddack|R|Blake Swihart|L|Flyout|X|Four-Seam Fastball|59|0|2|2|1|95
+Chris Paddack|R|Nick Ahmed|R|Single|D|Changeup|60|0|0|0|5|82
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|C|Curveball|61|0|0|0|9|74
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|B|Four-Seam Fastball|62|0|1|0|12|92
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|F|Four-Seam Fastball|63|1|1|0|4|92
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|F|Four-Seam Fastball|64|1|2|0|11|93
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|B|Changeup|65|1|2|0|14|83
+Chris Paddack|R|Carson Kelly|R|Grounded Into DP|X|Changeup|66|2|2|0|8|83
+Chris Paddack|R|Luke Weaver|R|Strikeout|C|Four-Seam Fastball|67|0|0|2|6|92
+Chris Paddack|R|Luke Weaver|R|Strikeout|B|Four-Seam Fastball|68|0|1|2|12|93
+Chris Paddack|R|Luke Weaver|R|Strikeout|B|Four-Seam Fastball|69|1|1|2|13|92
+Chris Paddack|R|Luke Weaver|R|Strikeout|S|Four-Seam Fastball|70|2|1|2|14|92
+Chris Paddack|R|Luke Weaver|R|Strikeout|C|Four-Seam Fastball|71|2|2|2|8|94
+Chris Paddack|R|Jarrod Dyson|L|Groundout|C|Changeup|72|0|0|0|14|82
+Chris Paddack|R|Jarrod Dyson|L|Groundout|B|Changeup|73|0|1|0|14|84
+Chris Paddack|R|Jarrod Dyson|L|Groundout|X|Changeup|74|1|1|0|13|84
+Chris Paddack|R|Ketel Marte|L|Double|B|Curveball|75|0|0|1|14|75
+Chris Paddack|R|Ketel Marte|L|Double|D|Four-Seam Fastball|76|1|0|1|12|91
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|B|Four-Seam Fastball|77|0|0|1|11|93
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|S|Four-Seam Fastball|78|1|0|1|11|93
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|S|Four-Seam Fastball|79|1|1|1|2|93
+Chris Paddack|R|Eduardo Escobar|L|Strikeout|S|Four-Seam Fastball|80|1|2|1|11|95
+Chris Paddack|R|David Peralta|L|Hit By Pitch|B|Four-Seam Fastball|81|0|0|2|11|93
+Chris Paddack|R|David Peralta|L|Hit By Pitch|S|Four-Seam Fastball|82|1|0|2|11|92
+Chris Paddack|R|David Peralta|L|Hit By Pitch|S|Four-Seam Fastball|83|1|1|2|11|94
+Chris Paddack|R|David Peralta|L|Hit By Pitch|H|Four-Seam Fastball|84|1|2|2|12|94
+Chris Paddack|R|Christian Walker|R|Flyout|F|Changeup|85|0|0|2|4|84
+Chris Paddack|R|Christian Walker|R|Flyout|F|Four-Seam Fastball|86|0|1|2|3|93
+Chris Paddack|R|Christian Walker|R|Flyout|F|Four-Seam Fastball|87|0|2|2|11|96
+Chris Paddack|R|Christian Walker|R|Flyout|X|Four-Seam Fastball|88|0|2|2|2|95
+Chris Paddack|R|Cesar Hernandez|L|Groundout|C|Four-Seam Fastball|0|0|0|0|2|91
+Chris Paddack|R|Cesar Hernandez|L|Groundout|F|Curveball|1|0|1|0|7|73
+Chris Paddack|R|Cesar Hernandez|L|Groundout|B|Four-Seam Fastball|2|0|2|0|12|94
+Chris Paddack|R|Cesar Hernandez|L|Groundout|B|Changeup|3|1|2|0|13|83
+Chris Paddack|R|Cesar Hernandez|L|Groundout|X|Changeup|4|2|2|0|13|83
+Chris Paddack|R|Bryce Harper|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|92
+Chris Paddack|R|Bryce Harper|L|Groundout|F|Four-Seam Fastball|6|1|0|1|5|92
+Chris Paddack|R|Bryce Harper|L|Groundout|X|Changeup|7|1|1|1|13|83
+Chris Paddack|R|Jean Segura|R|Strikeout|B|Four-Seam Fastball|8|0|0|2|13|92
+Chris Paddack|R|Jean Segura|R|Strikeout|C|Four-Seam Fastball|9|1|0|2|9|93
+Chris Paddack|R|Jean Segura|R|Strikeout|T|Four-Seam Fastball|10|1|1|2|4|93
+Chris Paddack|R|Jean Segura|R|Strikeout|B|Four-Seam Fastball|11|1|2|2|11|95
+Chris Paddack|R|Jean Segura|R|Strikeout|B|Changeup|12|2|2|2|14|84
+Chris Paddack|R|Jean Segura|R|Strikeout|T|Changeup|13|3|2|2|7|84
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|C|Four-Seam Fastball|14|0|0|0|14|91
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|S|Changeup|15|0|1|0|13|83
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|16|0|2|0|11|93
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|17|1|2|0|1|94
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|F|Changeup|18|1|2|0|8|83
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|19|1|2|0|14|94
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|20|2|2|0|11|93
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|21|2|2|0|14|94
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|F|Changeup|22|3|2|0|7|82
+Chris Paddack|R|Rhys Hoskins|R|Strikeout|S|Four-Seam Fastball|23|3|2|0|12|94
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|C|Changeup|24|0|0|1|4|83
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|B|Changeup|25|0|1|1|14|83
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|C|Four-Seam Fastball|26|1|1|1|12|94
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|S|Four-Seam Fastball|27|1|2|1|4|94
+Chris Paddack|R|Jay Bruce|L|Double|F|Four-Seam Fastball|28|0|0|2|7|93
+Chris Paddack|R|Jay Bruce|L|Double|F|Four-Seam Fastball|29|0|1|2|4|93
+Chris Paddack|R|Jay Bruce|L|Double|D|Changeup|30|0|2|2|13|84
+Chris Paddack|R|Scott Kingery|R|Double|B|Curveball|31|0|0|2|11|73
+Chris Paddack|R|Scott Kingery|R|Double|C|Four-Seam Fastball|32|1|0|2|12|93
+Chris Paddack|R|Scott Kingery|R|Double|F|Changeup|33|1|1|2|11|83
+Chris Paddack|R|Scott Kingery|R|Double|B|Four-Seam Fastball|34|1|2|2|11|94
+Chris Paddack|R|Scott Kingery|R|Double|E|Changeup|35|2|2|2|13|83
+Chris Paddack|R|Adam Haseley|L|Pop Out|C|Four-Seam Fastball|36|0|0|2|13|92
+Chris Paddack|R|Adam Haseley|L|Pop Out|X|Changeup|37|0|1|2|1|83
+Chris Paddack|R|Jerad Eickhoff|R|Groundout|C|Four-Seam Fastball|38|0|0|0|6|91
+Chris Paddack|R|Jerad Eickhoff|R|Groundout|C|Four-Seam Fastball|39|0|1|0|8|92
+Chris Paddack|R|Jerad Eickhoff|R|Groundout|B|Four-Seam Fastball|40|0|2|0|12|93
+Chris Paddack|R|Jerad Eickhoff|R|Groundout|X|Changeup|41|1|2|0|13|83
+Chris Paddack|R|Cesar Hernandez|L|Groundout|C|Curveball|42|0|0|1|5|73
+Chris Paddack|R|Cesar Hernandez|L|Groundout|F|Curveball|43|0|1|1|7|74
+Chris Paddack|R|Cesar Hernandez|L|Groundout|X|Changeup|44|0|2|1|13|83
+Chris Paddack|R|Bryce Harper|L|Single|D|Curveball|45|0|0|2|1|74
+Chris Paddack|R|Jean Segura|R|Double|D|Four-Seam Fastball|46|0|0|2|3|92
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|B|Four-Seam Fastball|47|0|0|2|11|94
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|F|Four-Seam Fastball|48|1|0|2|11|93
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|C|Changeup|49|1|1|2|7|84
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|X|Four-Seam Fastball|50|1|2|2|11|95
+Chris Paddack|R|J.T. Realmuto|R|Single|C|Curveball|51|0|0|0|2|72
+Chris Paddack|R|J.T. Realmuto|R|Single|B|Changeup|52|0|1|0|14|84
+Chris Paddack|R|J.T. Realmuto|R|Single|B|Changeup|53|1|1|0|14|83
+Chris Paddack|R|J.T. Realmuto|R|Single|B|Changeup|54|2|1|0|14|83
+Chris Paddack|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|55|3|1|0|5|91
+Chris Paddack|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|56|3|2|0|9|92
+Chris Paddack|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|57|3|2|0|7|92
+Chris Paddack|R|J.T. Realmuto|R|Single|D|Four-Seam Fastball|58|3|2|0|6|93
+Chris Paddack|R|Jay Bruce|L|Home Run|F|Four-Seam Fastball|59|0|0|0|9|90
+Chris Paddack|R|Jay Bruce|L|Home Run|F|Four-Seam Fastball|60|0|1|0|3|93
+Chris Paddack|R|Jay Bruce|L|Home Run|E|Four-Seam Fastball|61|0|2|0|1|93
+Chris Paddack|R|Scott Kingery|R|Home Run|B|Four-Seam Fastball|62|0|0|0|12|93
+Chris Paddack|R|Scott Kingery|R|Home Run|B|Four-Seam Fastball|63|1|0|0|12|93
+Chris Paddack|R|Scott Kingery|R|Home Run|E|Four-Seam Fastball|64|2|0|0|2|91
+Chris Paddack|R|Adam Haseley|L|Pop Out|C|Four-Seam Fastball|65|0|0|0|9|93
+Chris Paddack|R|Adam Haseley|L|Pop Out|B|Changeup|66|0|1|0|14|84
+Chris Paddack|R|Adam Haseley|L|Pop Out|S|Changeup|67|1|1|0|13|84
+Chris Paddack|R|Adam Haseley|L|Pop Out|F|Changeup|68|1|2|0|11|83
+Chris Paddack|R|Adam Haseley|L|Pop Out|X|Four-Seam Fastball|69|1|2|0|3|92
+Chris Paddack|R|Jerad Eickhoff|R|Strikeout|C|Four-Seam Fastball|70|0|0|1|9|91
+Chris Paddack|R|Jerad Eickhoff|R|Strikeout|F|Curveball|71|0|1|1|14|75
+Chris Paddack|R|Jerad Eickhoff|R|Strikeout|C|Four-Seam Fastball|72|0|2|1|13|93
+Chris Paddack|R|Cesar Hernandez|L|Flyout|C|Four-Seam Fastball|73|0|0|2|5|91
+Chris Paddack|R|Cesar Hernandez|L|Flyout|B|Four-Seam Fastball|74|0|1|2|12|92
+Chris Paddack|R|Cesar Hernandez|L|Flyout|X|Curveball|75|1|1|2|2|75
+Chris Paddack|R|Bryce Harper|L|Single|F|Changeup|76|0|0|0|8|82
+Chris Paddack|R|Bryce Harper|L|Single|F|Four-Seam Fastball|77|0|1|0|12|92
+Chris Paddack|R|Bryce Harper|L|Single|F|Four-Seam Fastball|78|0|2|0|11|92
+Chris Paddack|R|Bryce Harper|L|Single|B|Four-Seam Fastball|79|0|2|0|12|93
+Chris Paddack|R|Bryce Harper|L|Single|D|Changeup|80|1|2|0|11|84
+Chris Paddack|R|Jean Segura|R|Fielders Choice|B|Four-Seam Fastball|81|0|0|0|13|91
+Chris Paddack|R|Jean Segura|R|Fielders Choice|C|Changeup|82|1|0|0|6|83
+Chris Paddack|R|Jean Segura|R|Fielders Choice|B|Four-Seam Fastball|83|1|1|0|11|91
+Chris Paddack|R|Jean Segura|R|Fielders Choice|D|Changeup|84|2|1|0|13|83
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|B|Four-Seam Fastball|85|0|0|0|12|91
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|F|Four-Seam Fastball|86|1|0|0|4|92
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|B|Changeup|87|1|1|0|11|83
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|F|Changeup|88|2|1|0|4|83
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|F|Changeup|89|2|2|0|13|83
+Chris Paddack|R|Rhys Hoskins|R|Pop Out|X|Four-Seam Fastball|90|2|2|0|2|93
+Chris Paddack|R|Tommy Edman|L|Home Run|C|Four-Seam Fastball|0|0|0|0|4|94
+Chris Paddack|R|Tommy Edman|L|Home Run|B|Four-Seam Fastball|1|0|1|0|12|94
+Chris Paddack|R|Tommy Edman|L|Home Run|B|Changeup|2|1|1|0|14|86
+Chris Paddack|R|Tommy Edman|L|Home Run|E|Four-Seam Fastball|3|2|1|0|8|93
+Chris Paddack|R|Jose Martinez|R|Flyout|S|Four-Seam Fastball|4|0|0|0|2|94
+Chris Paddack|R|Jose Martinez|R|Flyout|F|Four-Seam Fastball|5|0|1|0|1|94
+Chris Paddack|R|Jose Martinez|R|Flyout|X|Four-Seam Fastball|6|0|2|0|3|95
+Chris Paddack|R|Paul DeJong|R|Strikeout|B|Curveball|7|0|0|1|14|78
+Chris Paddack|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|8|1|0|1|4|94
+Chris Paddack|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|9|1|1|1|6|94
+Chris Paddack|R|Paul DeJong|R|Strikeout|W|Changeup|10|1|2|1|13|85
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|11|0|0|2|11|94
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|C|Four-Seam Fastball|12|1|0|2|2|94
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|S|Four-Seam Fastball|13|1|1|2|11|95
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|X|Four-Seam Fastball|14|1|2|2|5|96
+Chris Paddack|R|Tyler O'Neill|R|Strikeout|C|Four-Seam Fastball|15|0|0|0|6|92
+Chris Paddack|R|Tyler O'Neill|R|Strikeout|C|Four-Seam Fastball|16|0|1|0|4|93
+Chris Paddack|R|Tyler O'Neill|R|Strikeout|S|Four-Seam Fastball|17|0|2|0|5|94
+Chris Paddack|R|Dexter Fowler|L|Groundout|F|Changeup|18|0|0|1|13|84
+Chris Paddack|R|Dexter Fowler|L|Groundout|B|Changeup|19|0|1|1|13|85
+Chris Paddack|R|Dexter Fowler|L|Groundout|X|Changeup|20|1|1|1|13|85
+Chris Paddack|R|Yadier Molina|R|Strikeout|S|Four-Seam Fastball|21|0|0|2|4|93
+Chris Paddack|R|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|22|0|1|2|1|94
+Chris Paddack|R|Yadier Molina|R|Strikeout|B|Curveball|23|0|2|2|12|76
+Chris Paddack|R|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|24|1|2|2|4|95
+Chris Paddack|R|Yadier Molina|R|Strikeout|B|Changeup|25|1|2|2|14|86
+Chris Paddack|R|Yadier Molina|R|Strikeout|F|Changeup|26|2|2|2|6|86
+Chris Paddack|R|Yadier Molina|R|Strikeout|S|Four-Seam Fastball|27|2|2|2|14|96
+Chris Paddack|R|Kolten Wong|L|Flyout|C|Four-Seam Fastball|28|0|0|0|11|90
+Chris Paddack|R|Kolten Wong|L|Flyout|C|Curveball|29|0|1|0|2|73
+Chris Paddack|R|Kolten Wong|L|Flyout|F|Four-Seam Fastball|30|0|2|0|13|94
+Chris Paddack|R|Kolten Wong|L|Flyout|X|Four-Seam Fastball|31|0|2|0|2|92
+Chris Paddack|R|Daniel Ponce de Leon|R|Strikeout|C|Four-Seam Fastball|32|0|0|1|6|93
+Chris Paddack|R|Daniel Ponce de Leon|R|Strikeout|T|Four-Seam Fastball|33|0|1|1|5|92
+Chris Paddack|R|Daniel Ponce de Leon|R|Strikeout|F|Four-Seam Fastball|34|0|2|1|8|94
+Chris Paddack|R|Daniel Ponce de Leon|R|Strikeout|B|Four-Seam Fastball|35|0|2|1|14|94
+Chris Paddack|R|Daniel Ponce de Leon|R|Strikeout|S|Changeup|36|1|2|1|13|85
+Chris Paddack|R|Tommy Edman|L|Flyout|C|Four-Seam Fastball|37|0|0|2|2|93
+Chris Paddack|R|Tommy Edman|L|Flyout|S|Curveball|38|0|1|2|8|76
+Chris Paddack|R|Tommy Edman|L|Flyout|F|Four-Seam Fastball|39|0|2|2|1|96
+Chris Paddack|R|Tommy Edman|L|Flyout|B|Changeup|40|0|2|2|13|85
+Chris Paddack|R|Tommy Edman|L|Flyout|X|Four-Seam Fastball|41|1|2|2|9|95
+Chris Paddack|R|Jose Martinez|R|Field Error|B|Four-Seam Fastball|42|0|0|0|3|92
+Chris Paddack|R|Jose Martinez|R|Field Error|B|Four-Seam Fastball|43|1|0|0|14|93
+Chris Paddack|R|Jose Martinez|R|Field Error|F|Four-Seam Fastball|44|2|0|0|4|93
+Chris Paddack|R|Jose Martinez|R|Field Error|C|Four-Seam Fastball|45|2|1|0|7|93
+Chris Paddack|R|Jose Martinez|R|Field Error|F|Four-Seam Fastball|46|2|2|0|1|93
+Chris Paddack|R|Jose Martinez|R|Field Error|D|Changeup|47|2|2|0|13|85
+Chris Paddack|R|Paul DeJong|R|Flyout|X|Changeup|48|0|0|0|5|83
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|49|0|0|1|6|92
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|C|Curveball|50|0|1|1|9|76
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|51|0|2|1|1|94
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|52|0|2|1|13|94
+Chris Paddack|R|Tyler O'Neill|R|Walk|B|Four-Seam Fastball|53|0|0|2|12|93
+Chris Paddack|R|Tyler O'Neill|R|Walk|B|Changeup|54|1|0|2|13|85
+Chris Paddack|R|Tyler O'Neill|R|Walk|C|Four-Seam Fastball|55|2|0|2|14|93
+Chris Paddack|R|Tyler O'Neill|R|Walk|B|Four-Seam Fastball|56|2|1|2|14|93
+Chris Paddack|R|Tyler O'Neill|R|Walk|C|Four-Seam Fastball|57|3|1|2|14|93
+Chris Paddack|R|Tyler O'Neill|R|Walk|*B|Changeup|58|3|2|2|14|85
+Chris Paddack|R|Dexter Fowler|L|Strikeout|F|Changeup|59|0|0|2|8|85
+Chris Paddack|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|60|0|1|2|7|94
+Chris Paddack|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|61|0|2|2|11|94
+Chris Paddack|R|Yadier Molina|R|Strikeout|B|Four-Seam Fastball|62|0|0|0|14|90
+Chris Paddack|R|Yadier Molina|R|Strikeout|B|Four-Seam Fastball|63|1|0|0|12|91
+Chris Paddack|R|Yadier Molina|R|Strikeout|C|Four-Seam Fastball|64|2|0|0|9|91
+Chris Paddack|R|Yadier Molina|R|Strikeout|T|Four-Seam Fastball|65|2|1|0|12|92
+Chris Paddack|R|Yadier Molina|R|Strikeout|S|Four-Seam Fastball|66|2|2|0|6|93
+Chris Paddack|R|Kolten Wong|L|Strikeout|B|Four-Seam Fastball|67|0|0|1|14|92
+Chris Paddack|R|Kolten Wong|L|Strikeout|C|Four-Seam Fastball|68|1|0|1|7|92
+Chris Paddack|R|Kolten Wong|L|Strikeout|C|Curveball|69|1|1|1|14|76
+Chris Paddack|R|Kolten Wong|L|Strikeout|S|Changeup|70|1|2|1|13|85
+Chris Paddack|R|Daniel Ponce de Leon|R|Groundout|B|Four-Seam Fastball|71|0|0|2|14|92
+Chris Paddack|R|Daniel Ponce de Leon|R|Groundout|C|Four-Seam Fastball|72|1|0|2|9|92
+Chris Paddack|R|Daniel Ponce de Leon|R|Groundout|C|Four-Seam Fastball|73|1|1|2|8|92
+Chris Paddack|R|Daniel Ponce de Leon|R|Groundout|B|Four-Seam Fastball|74|1|2|2|12|94
+Chris Paddack|R|Daniel Ponce de Leon|R|Groundout|X|Four-Seam Fastball|75|2|2|2|7|94
+Chris Paddack|R|Tommy Edman|L|Groundout|B|Curveball|76|0|0|0|11|72
+Chris Paddack|R|Tommy Edman|L|Groundout|C|Four-Seam Fastball|77|1|0|0|6|91
+Chris Paddack|R|Tommy Edman|L|Groundout|S|Changeup|78|1|1|0|13|84
+Chris Paddack|R|Tommy Edman|L|Groundout|B|Four-Seam Fastball|79|1|2|0|12|93
+Chris Paddack|R|Tommy Edman|L|Groundout|F|Changeup|80|2|2|0|13|84
+Chris Paddack|R|Tommy Edman|L|Groundout|X|Changeup|81|2|2|0|8|84
+Chris Paddack|R|Jose Martinez|R|Single|C|Four-Seam Fastball|82|0|0|1|8|93
+Chris Paddack|R|Jose Martinez|R|Single|D|Four-Seam Fastball|83|0|1|1|5|93
+Chris Paddack|R|Yairo Munoz|R|Groundout|S|Four-Seam Fastball|84|0|0|1|12|91
+Chris Paddack|R|Yairo Munoz|R|Groundout|S|Changeup|85|0|1|1|13|85
+Chris Paddack|R|Yairo Munoz|R|Groundout|F|Four-Seam Fastball|86|0|2|1|12|94
+Chris Paddack|R|Yairo Munoz|R|Groundout|F|Four-Seam Fastball|87|0|2|1|7|94
+Chris Paddack|R|Yairo Munoz|R|Groundout|X|Four-Seam Fastball|88|0|2|1|7|95
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|F|Changeup|89|0|0|2|7|85
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|90|0|1|2|12|94
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|91|1|1|2|14|93
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|S|Changeup|92|2|1|2|14|85
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|*B|Changeup|93|2|2|2|13|85
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|F|Four-Seam Fastball|94|3|2|2|14|95
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|F|Changeup|95|3|2|2|14|85
+Chris Paddack|R|Paul Goldschmidt|R|Pop Out|X|Four-Seam Fastball|96|3|2|2|6|94
+Chris Paddack|R|Jonathan Villar|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|11|93
+Chris Paddack|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|94
+Chris Paddack|R|Jonathan Villar|L|Strikeout|C|Four-Seam Fastball|2|1|1|0|4|94
+Chris Paddack|R|Jonathan Villar|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|95
+Chris Paddack|R|Jonathan Villar|L|Strikeout|S|Changeup|4|2|2|0|13|86
+Chris Paddack|R|Trey Mancini|R|Flyout|C|Four-Seam Fastball|5|0|0|1|3|93
+Chris Paddack|R|Trey Mancini|R|Flyout|B|Curveball|6|0|1|1|14|78
+Chris Paddack|R|Trey Mancini|R|Flyout|X|Curveball|7|1|1|1|8|78
+Chris Paddack|R|Anthony Santander|L|Field Error|B|Four-Seam Fastball|8|0|0|2|13|94
+Chris Paddack|R|Anthony Santander|L|Field Error|B|Four-Seam Fastball|9|1|0|2|13|94
+Chris Paddack|R|Anthony Santander|L|Field Error|C|Four-Seam Fastball|10|2|0|2|13|94
+Chris Paddack|R|Anthony Santander|L|Field Error|S|Four-Seam Fastball|11|2|1|2|8|95
+Chris Paddack|R|Anthony Santander|L|Field Error|D|Four-Seam Fastball|12|2|2|2|11|96
+Chris Paddack|R|Renato Nunez|R|Flyout|B|Four-Seam Fastball|13|0|0|2|12|94
+Chris Paddack|R|Renato Nunez|R|Flyout|S|Four-Seam Fastball|14|1|0|2|2|94
+Chris Paddack|R|Renato Nunez|R|Flyout|B|Four-Seam Fastball|15|1|1|2|11|94
+Chris Paddack|R|Renato Nunez|R|Flyout|F|Changeup|16|2|1|2|11|86
+Chris Paddack|R|Renato Nunez|R|Flyout|X|Four-Seam Fastball|17|2|2|2|11|95
+Chris Paddack|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|18|0|0|0|11|92
+Chris Paddack|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|19|1|0|0|11|92
+Chris Paddack|R|Jace Peterson|L|Strikeout|C|Four-Seam Fastball|20|2|0|0|14|93
+Chris Paddack|R|Jace Peterson|L|Strikeout|S|Changeup|21|2|1|0|13|85
+Chris Paddack|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|22|2|2|0|13|95
+Chris Paddack|R|Jace Peterson|L|Strikeout|S|Changeup|23|3|2|0|13|86
+Chris Paddack|R|Hanser Alberto|R|Groundout|C|Curveball|24|0|0|1|2|76
+Chris Paddack|R|Hanser Alberto|R|Groundout|F|Four-Seam Fastball|25|0|1|1|8|94
+Chris Paddack|R|Hanser Alberto|R|Groundout|B|Four-Seam Fastball|26|0|2|1|12|94
+Chris Paddack|R|Hanser Alberto|R|Groundout|F|Changeup|27|1|2|1|13|87
+Chris Paddack|R|Hanser Alberto|R|Groundout|F|Four-Seam Fastball|28|1|2|1|13|94
+Chris Paddack|R|Hanser Alberto|R|Groundout|X|Changeup|29|1|2|1|4|86
+Chris Paddack|R|Chance Sisco|L|Strikeout|C|Four-Seam Fastball|30|0|0|2|13|93
+Chris Paddack|R|Chance Sisco|L|Strikeout|C|Changeup|31|0|1|2|13|85
+Chris Paddack|R|Chance Sisco|L|Strikeout|B|Curveball|32|0|2|2|14|78
+Chris Paddack|R|Chance Sisco|L|Strikeout|S|Four-Seam Fastball|33|1|2|2|1|94
+Chris Paddack|R|Stevie Wilkerson|L|Groundout|C|Four-Seam Fastball|34|0|0|0|11|91
+Chris Paddack|R|Stevie Wilkerson|L|Groundout|C|Changeup|35|0|1|0|13|84
+Chris Paddack|R|Stevie Wilkerson|L|Groundout|B|Changeup|36|0|2|0|13|84
+Chris Paddack|R|Stevie Wilkerson|L|Groundout|X|Four-Seam Fastball|37|1|2|0|1|93
+Chris Paddack|R|David Hess|R|Pop Out|X|Four-Seam Fastball|38|0|0|1|5|92
+Chris Paddack|R|Jonathan Villar|L|Single|C|Four-Seam Fastball|39|0|0|2|4|93
+Chris Paddack|R|Jonathan Villar|L|Single|D|Curveball|40|0|1|2|9|77
+Chris Paddack|R|Trey Mancini|R|Walk|F|Curveball|41|0|0|2|13|76
+Chris Paddack|R|Trey Mancini|R|Walk|F|Four-Seam Fastball|42|0|1|2|5|92
+Chris Paddack|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|43|0|2|2|12|94
+Chris Paddack|R|Trey Mancini|R|Walk|B|Changeup|44|1|2|2|13|86
+Chris Paddack|R|Trey Mancini|R|Walk|F|Four-Seam Fastball|45|2|2|2|11|94
+Chris Paddack|R|Trey Mancini|R|Walk|*B|Curveball|46|2|2|2|14|78
+Chris Paddack|R|Trey Mancini|R|Walk|F|Four-Seam Fastball|47|3|2|2|6|95
+Chris Paddack|R|Trey Mancini|R|Walk|B|Four-Seam Fastball|48|3|2|2|14|95
+Chris Paddack|R|Anthony Santander|L|Single|B|Changeup|49|0|0|2|13|86
+Chris Paddack|R|Anthony Santander|L|Single|B|Four-Seam Fastball|50|1|0|2|11|94
+Chris Paddack|R|Anthony Santander|L|Single|E|Four-Seam Fastball|51|2|0|2|9|94
+Chris Paddack|R|Renato Nunez|R|Pop Out|C|Four-Seam Fastball|52|0|0|2|2|94
+Chris Paddack|R|Renato Nunez|R|Pop Out|B|Four-Seam Fastball|53|0|1|2|12|94
+Chris Paddack|R|Renato Nunez|R|Pop Out|X|Changeup|54|1|1|2|8|86
+Chris Paddack|R|Jace Peterson|L|Lineout|B|Changeup|55|0|0|0|13|84
+Chris Paddack|R|Jace Peterson|L|Lineout|S|Changeup|56|1|0|0|8|85
+Chris Paddack|R|Jace Peterson|L|Lineout|X|Four-Seam Fastball|57|1|1|0|4|92
+Chris Paddack|R|Hanser Alberto|R|Groundout|X|Four-Seam Fastball|58|0|0|1|14|92
+Chris Paddack|R|Chance Sisco|L|Strikeout|C|Four-Seam Fastball|59|0|0|2|2|92
+Chris Paddack|R|Chance Sisco|L|Strikeout|B|Four-Seam Fastball|60|0|1|2|14|93
+Chris Paddack|R|Chance Sisco|L|Strikeout|B|Changeup|61|1|1|2|13|85
+Chris Paddack|R|Chance Sisco|L|Strikeout|S|Changeup|62|2|1|2|14|85
+Chris Paddack|R|Chance Sisco|L|Strikeout|B|Four-Seam Fastball|63|2|2|2|14|94
+Chris Paddack|R|Chance Sisco|L|Strikeout|F|Changeup|64|3|2|2|13|86
+Chris Paddack|R|Chance Sisco|L|Strikeout|S|Changeup|65|3|2|2|7|86
+Chris Paddack|R|Stevie Wilkerson|L|Walk|C|Four-Seam Fastball|66|0|0|0|11|90
+Chris Paddack|R|Stevie Wilkerson|L|Walk|B|Four-Seam Fastball|67|0|1|0|11|92
+Chris Paddack|R|Stevie Wilkerson|L|Walk|B|Changeup|68|1|1|0|13|85
+Chris Paddack|R|Stevie Wilkerson|L|Walk|B|Four-Seam Fastball|69|2|1|0|11|92
+Chris Paddack|R|Stevie Wilkerson|L|Walk|B|Four-Seam Fastball|70|3|1|0|11|92
+Chris Paddack|R|David Hess|R|Strikeout|L|Four-Seam Fastball|71|0|0|0|11|92
+Chris Paddack|R|David Hess|R|Strikeout|B|Four-Seam Fastball|72|0|1|0|11|93
+Chris Paddack|R|David Hess|R|Strikeout|C|Four-Seam Fastball|73|1|1|0|8|93
+Chris Paddack|R|David Hess|R|Strikeout|L|Four-Seam Fastball|74|1|2|0|11|93
+Chris Paddack|R|Jonathan Villar|L|Forceout|C|Four-Seam Fastball|75|0|0|1|7|92
+Chris Paddack|R|Jonathan Villar|L|Forceout|B|Four-Seam Fastball|76|0|1|1|12|93
+Chris Paddack|R|Jonathan Villar|L|Forceout|F|Four-Seam Fastball|77|1|1|1|6|93
+Chris Paddack|R|Jonathan Villar|L|Forceout|F|Changeup|78|1|2|1|13|85
+Chris Paddack|R|Jonathan Villar|L|Forceout|X|Changeup|79|1|2|1|11|85
+Chris Paddack|R|Trey Mancini|R|Forceout|C|Changeup|80|0|0|2|13|85
+Chris Paddack|R|Trey Mancini|R|Forceout|*B|Changeup|81|0|1|2|13|86
+Chris Paddack|R|Trey Mancini|R|Forceout|X|Four-Seam Fastball|82|1|1|2|9|93
+Chris Paddack|R|Anthony Santander|L|Field Error|B|Curveball|83|0|0|0|13|75
+Chris Paddack|R|Anthony Santander|L|Field Error|F|Four-Seam Fastball|84|1|0|0|8|91
+Chris Paddack|R|Anthony Santander|L|Field Error|D|Changeup|85|1|1|0|4|84
+Chris Paddack|R|Renato Nunez|R|Single|C|Curveball|86|0|0|0|14|76
+Chris Paddack|R|Renato Nunez|R|Single|D|Four-Seam Fastball|87|0|1|0|1|93
+Chris Paddack|R|Jace Peterson|L|Lineout|F|Four-Seam Fastball|88|0|0|0|4|93
+Chris Paddack|R|Jace Peterson|L|Lineout|F|Changeup|89|0|1|0|13|85
+Chris Paddack|R|Jace Peterson|L|Lineout|B|Four-Seam Fastball|90|0|2|0|11|94
+Chris Paddack|R|Jace Peterson|L|Lineout|B|Four-Seam Fastball|91|1|2|0|11|94
+Chris Paddack|R|Jace Peterson|L|Lineout|X|Changeup|92|2|2|0|13|86
+Chris Paddack|R|Charlie Blackmon|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|93
+Chris Paddack|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|1|1|0|0|8|93
+Chris Paddack|R|Charlie Blackmon|L|Groundout|X|Changeup|2|1|1|0|13|84
+Chris Paddack|R|Trevor Story|R|Flyout|B|Four-Seam Fastball|3|0|0|1|12|93
+Chris Paddack|R|Trevor Story|R|Flyout|X|Four-Seam Fastball|4|1|0|1|2|93
+Chris Paddack|R|Daniel Murphy|L|Strikeout|C|Four-Seam Fastball|5|0|0|2|11|92
+Chris Paddack|R|Daniel Murphy|L|Strikeout|F|Four-Seam Fastball|6|0|1|2|1|93
+Chris Paddack|R|Daniel Murphy|L|Strikeout|S|Four-Seam Fastball|7|0|2|2|1|95
+Chris Paddack|R|Nolan Arenado|R|Groundout|C|Four-Seam Fastball|8|0|0|0|3|92
+Chris Paddack|R|Nolan Arenado|R|Groundout|F|Four-Seam Fastball|9|0|1|0|4|93
+Chris Paddack|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|10|0|2|0|9|95
+Chris Paddack|R|Ryan McMahon|L|Strikeout|S|Curveball|11|0|0|1|13|75
+Chris Paddack|R|Ryan McMahon|L|Strikeout|F|Changeup|12|0|1|1|7|83
+Chris Paddack|R|Ryan McMahon|L|Strikeout|B|Four-Seam Fastball|13|0|2|1|12|95
+Chris Paddack|R|Ryan McMahon|L|Strikeout|B|Four-Seam Fastball|14|1|2|1|11|95
+Chris Paddack|R|Ryan McMahon|L|Strikeout|T|Four-Seam Fastball|15|2|2|1|3|94
+Chris Paddack|R|Raimel Tapia|L|Double|C|Four-Seam Fastball|16|0|0|2|4|94
+Chris Paddack|R|Raimel Tapia|L|Double|D|Four-Seam Fastball|17|0|1|2|14|94
+Chris Paddack|R|Yonathan Daza|R|Single|B|Four-Seam Fastball|18|0|0|2|14|94
+Chris Paddack|R|Yonathan Daza|R|Single|E|Curveball|19|1|0|2|5|76
+Chris Paddack|R|Chris Iannetta|R|Groundout|C|Four-Seam Fastball|20|0|0|2|12|94
+Chris Paddack|R|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|21|0|1|2|14|94
+Chris Paddack|R|Chris Iannetta|R|Groundout|C|Changeup|22|1|1|2|13|84
+Chris Paddack|R|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|23|1|2|2|12|94
+Chris Paddack|R|Chris Iannetta|R|Groundout|B|Four-Seam Fastball|24|2|2|2|12|95
+Chris Paddack|R|Chris Iannetta|R|Groundout|X|Changeup|25|3|2|2|5|85
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|C|Four-Seam Fastball|26|0|0|0|6|91
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|S|Four-Seam Fastball|27|0|1|0|11|92
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|F|Four-Seam Fastball|28|0|2|0|11|93
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|F|Four-Seam Fastball|29|0|2|0|2|93
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|F|Changeup|30|0|2|0|5|82
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|B|Four-Seam Fastball|31|0|2|0|12|95
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|F|Changeup|32|1|2|0|7|85
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|F|Four-Seam Fastball|33|1|2|0|11|94
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|B|Curveball|34|1|2|0|14|75
+Chris Paddack|R|Chi Chi Gonzalez|R|Strikeout|C|Curveball|35|2|2|0|9|76
+Chris Paddack|R|Charlie Blackmon|L|Lineout|C|Four-Seam Fastball|36|0|0|1|1|93
+Chris Paddack|R|Charlie Blackmon|L|Lineout|X|Changeup|37|0|1|1|13|84
+Chris Paddack|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|38|0|0|2|5|92
+Chris Paddack|R|Trevor Story|R|Strikeout|B|Four-Seam Fastball|39|0|1|2|12|94
+Chris Paddack|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|40|1|1|2|1|93
+Chris Paddack|R|Trevor Story|R|Strikeout|F|Changeup|41|1|2|2|7|83
+Chris Paddack|R|Trevor Story|R|Strikeout|T|Changeup|42|1|2|2|8|86
+Chris Paddack|R|Daniel Murphy|L|Groundout|B|Curveball|43|0|0|0|11|74
+Chris Paddack|R|Daniel Murphy|L|Groundout|C|Four-Seam Fastball|44|1|0|0|7|92
+Chris Paddack|R|Daniel Murphy|L|Groundout|B|Changeup|45|1|1|0|13|83
+Chris Paddack|R|Daniel Murphy|L|Groundout|X|Changeup|46|2|1|0|4|83
+Chris Paddack|R|Nolan Arenado|R|Home Run|F|Four-Seam Fastball|47|0|0|1|6|93
+Chris Paddack|R|Nolan Arenado|R|Home Run|F|Four-Seam Fastball|48|0|1|1|6|93
+Chris Paddack|R|Nolan Arenado|R|Home Run|F|Four-Seam Fastball|49|0|2|1|1|95
+Chris Paddack|R|Nolan Arenado|R|Home Run|B|Four-Seam Fastball|50|0|2|1|14|95
+Chris Paddack|R|Nolan Arenado|R|Home Run|B|Changeup|51|1|2|1|14|84
+Chris Paddack|R|Nolan Arenado|R|Home Run|B|Changeup|52|2|2|1|13|84
+Chris Paddack|R|Nolan Arenado|R|Home Run|E|Changeup|53|3|2|1|5|85
+Chris Paddack|R|Ryan McMahon|L|Groundout|X|Changeup|54|0|0|1|8|84
+Chris Paddack|R|Raimel Tapia|L|Groundout|F|Four-Seam Fastball|55|0|0|2|4|93
+Chris Paddack|R|Raimel Tapia|L|Groundout|X|Changeup|56|0|1|2|13|84
+Chris Paddack|R|Yonathan Daza|R|Lineout|F|Four-Seam Fastball|57|0|0|0|3|93
+Chris Paddack|R|Yonathan Daza|R|Lineout|X|Four-Seam Fastball|58|0|1|0|8|93
+Chris Paddack|R|Chris Iannetta|R|Strikeout|B|Four-Seam Fastball|59|0|0|1|12|93
+Chris Paddack|R|Chris Iannetta|R|Strikeout|C|Curveball|60|1|0|1|12|75
+Chris Paddack|R|Chris Iannetta|R|Strikeout|F|Four-Seam Fastball|61|1|1|1|9|94
+Chris Paddack|R|Chris Iannetta|R|Strikeout|S|Four-Seam Fastball|62|1|2|1|11|94
+Chris Paddack|R|Chi Chi Gonzalez|R|Groundout|C|Four-Seam Fastball|63|0|0|2|5|92
+Chris Paddack|R|Chi Chi Gonzalez|R|Groundout|B|Curveball|64|0|1|2|14|77
+Chris Paddack|R|Chi Chi Gonzalez|R|Groundout|X|Curveball|65|1|1|2|8|76
+Chris Paddack|R|Charlie Blackmon|L|Lineout|B|Changeup|66|0|0|0|13|82
+Chris Paddack|R|Charlie Blackmon|L|Lineout|C|Four-Seam Fastball|67|1|0|0|7|91
+Chris Paddack|R|Charlie Blackmon|L|Lineout|X|Changeup|68|1|1|0|7|83
+Chris Paddack|R|Trevor Story|R|Double|C|Four-Seam Fastball|69|0|0|1|6|92
+Chris Paddack|R|Trevor Story|R|Double|D|Changeup|70|0|1|1|13|83
+Chris Paddack|R|Daniel Murphy|L|Pop Out|X|Changeup|71|0|0|1|4|83
+Chris Paddack|R|Nolan Arenado|R|Single|E|Four-Seam Fastball|72|0|0|2|14|93
+Chris Paddack|R|Ryan McMahon|L|Walk|*B|Four-Seam Fastball|73|0|0|2|13|93
+Chris Paddack|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|74|1|0|2|14|92
+Chris Paddack|R|Ryan McMahon|L|Walk|F|Changeup|75|2|0|2|13|84
+Chris Paddack|R|Ryan McMahon|L|Walk|C|Four-Seam Fastball|76|2|1|2|8|94
+Chris Paddack|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|77|2|2|2|12|94
+Chris Paddack|R|Ryan McMahon|L|Walk|F|Four-Seam Fastball|78|3|2|2|9|94
+Chris Paddack|R|Ryan McMahon|L|Walk|B|Four-Seam Fastball|79|3|2|2|11|94
+Chris Paddack|R|Raimel Tapia|L|Field Error|F|Four-Seam Fastball|80|0|0|2|4|94
+Chris Paddack|R|Raimel Tapia|L|Field Error|D|Four-Seam Fastball|81|0|1|2|7|93
+Chris Paddack|R|Yonathan Daza|R|Groundout|S|Four-Seam Fastball|82|0|0|2|11|94
+Chris Paddack|R|Yonathan Daza|R|Groundout|F|Four-Seam Fastball|83|0|1|2|11|95
+Chris Paddack|R|Yonathan Daza|R|Groundout|B|Four-Seam Fastball|84|0|2|2|12|96
+Chris Paddack|R|Yonathan Daza|R|Groundout|X|Four-Seam Fastball|85|1|2|2|11|96
+Chris Paddack|R|Mookie Betts|R|Double|B|Four-Seam Fastball|0|0|0|0|11|93
+Chris Paddack|R|Mookie Betts|R|Double|D|Four-Seam Fastball|1|1|0|0|5|94
+Chris Paddack|R|Rafael Devers|L|Single|C|Four-Seam Fastball|2|0|0|0|13|93
+Chris Paddack|R|Rafael Devers|L|Single|*B|Changeup|3|0|1|0|13|85
+Chris Paddack|R|Rafael Devers|L|Single|S|Four-Seam Fastball|4|1|1|0|12|94
+Chris Paddack|R|Rafael Devers|L|Single|D|Changeup|5|1|2|0|13|85
+Chris Paddack|R|Xander Bogaerts|R|Pop Out|B|Four-Seam Fastball|6|0|0|0|3|94
+Chris Paddack|R|Xander Bogaerts|R|Pop Out|F|Four-Seam Fastball|7|1|0|0|3|94
+Chris Paddack|R|Xander Bogaerts|R|Pop Out|X|Four-Seam Fastball|8|1|1|0|1|95
+Chris Paddack|R|J.D. Martinez|R|Home Run|B|Curveball|9|0|0|1|14|77
+Chris Paddack|R|J.D. Martinez|R|Home Run|E|Four-Seam Fastball|10|1|0|1|4|94
+Chris Paddack|R|Andrew Benintendi|L|Pop Out|C|Four-Seam Fastball|11|0|0|1|7|93
+Chris Paddack|R|Andrew Benintendi|L|Pop Out|S|Four-Seam Fastball|12|0|1|1|4|94
+Chris Paddack|R|Andrew Benintendi|L|Pop Out|B|Four-Seam Fastball|13|0|2|1|12|95
+Chris Paddack|R|Andrew Benintendi|L|Pop Out|X|Curveball|14|1|2|1|6|78
+Chris Paddack|R|Christian Vazquez|R|Groundout|S|Four-Seam Fastball|15|0|0|2|12|93
+Chris Paddack|R|Christian Vazquez|R|Groundout|X|Four-Seam Fastball|16|0|1|2|6|94
+Chris Paddack|R|Mitch Moreland|L|Walk|B|Four-Seam Fastball|17|0|0|0|11|92
+Chris Paddack|R|Mitch Moreland|L|Walk|B|Changeup|18|1|0|0|14|83
+Chris Paddack|R|Mitch Moreland|L|Walk|B|Four-Seam Fastball|19|2|0|0|12|92
+Chris Paddack|R|Mitch Moreland|L|Walk|C|Four-Seam Fastball|20|3|0|0|13|93
+Chris Paddack|R|Mitch Moreland|L|Walk|*B|Changeup|21|3|1|0|14|85
+Chris Paddack|R|Brock Holt|L|Single|C|Four-Seam Fastball|22|0|0|0|11|93
+Chris Paddack|R|Brock Holt|L|Single|*B|Changeup|23|0|1|0|14|84
+Chris Paddack|R|Brock Holt|L|Single|D|Changeup|24|1|1|0|8|84
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|L|Four-Seam Fastball|25|0|0|0|4|92
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|B|Changeup|26|0|1|0|14|84
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|F|Four-Seam Fastball|27|1|1|0|2|93
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|B|Four-Seam Fastball|28|1|2|0|11|94
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|B|Four-Seam Fastball|29|2|2|0|14|94
+Chris Paddack|R|Eduardo Rodriguez|L|Sac Bunt|X|Four-Seam Fastball|30|3|2|0|3|93
+Chris Paddack|R|Mookie Betts|R|Sac Fly|B|Four-Seam Fastball|31|0|0|1|14|94
+Chris Paddack|R|Mookie Betts|R|Sac Fly|B|Changeup|32|1|0|1|14|85
+Chris Paddack|R|Mookie Betts|R|Sac Fly|F|Changeup|33|2|0|1|8|85
+Chris Paddack|R|Mookie Betts|R|Sac Fly|B|Four-Seam Fastball|34|2|1|1|11|94
+Chris Paddack|R|Mookie Betts|R|Sac Fly|C|Changeup|35|3|1|1|9|85
+Chris Paddack|R|Mookie Betts|R|Sac Fly|E|Four-Seam Fastball|36|3|2|1|11|94
+Chris Paddack|R|Rafael Devers|L|Double|F|Changeup|37|0|0|2|5|84
+Chris Paddack|R|Rafael Devers|L|Double|B|Four-Seam Fastball|38|0|1|2|11|94
+Chris Paddack|R|Rafael Devers|L|Double|B|Four-Seam Fastball|39|1|1|2|12|94
+Chris Paddack|R|Rafael Devers|L|Double|E|Changeup|40|2|1|2|6|84
+Chris Paddack|R|Xander Bogaerts|R|Double|*B|Curveball|41|0|0|2|14|78
+Chris Paddack|R|Xander Bogaerts|R|Double|F|Four-Seam Fastball|42|1|0|2|7|94
+Chris Paddack|R|Xander Bogaerts|R|Double|E|Four-Seam Fastball|43|1|1|2|12|94
+Chris Paddack|R|J.D. Martinez|R|Groundout|S|Changeup|44|0|0|2|14|85
+Chris Paddack|R|J.D. Martinez|R|Groundout|B|Changeup|45|0|1|2|14|84
+Chris Paddack|R|J.D. Martinez|R|Groundout|*B|Curveball|46|1|1|2|14|80
+Chris Paddack|R|J.D. Martinez|R|Groundout|X|Four-Seam Fastball|47|2|1|2|6|93
+Chris Paddack|R|Andrew Benintendi|L|Single|C|Four-Seam Fastball|48|0|0|0|13|90
+Chris Paddack|R|Andrew Benintendi|L|Single|B|Four-Seam Fastball|49|0|1|0|14|91
+Chris Paddack|R|Andrew Benintendi|L|Single|F|Changeup|50|1|1|0|5|83
+Chris Paddack|R|Andrew Benintendi|L|Single|F|Four-Seam Fastball|51|1|2|0|3|93
+Chris Paddack|R|Andrew Benintendi|L|Single|F|Curveball|52|1|2|0|6|76
+Chris Paddack|R|Andrew Benintendi|L|Single|F|Changeup|53|1|2|0|13|83
+Chris Paddack|R|Andrew Benintendi|L|Single|D|Four-Seam Fastball|54|1|2|0|11|92
+Chris Paddack|R|Christian Vazquez|R|Flyout|B|Four-Seam Fastball|55|0|0|0|11|93
+Chris Paddack|R|Christian Vazquez|R|Flyout|C|Four-Seam Fastball|56|1|0|0|3|92
+Chris Paddack|R|Christian Vazquez|R|Flyout|*B|Changeup|57|1|1|0|14|84
+Chris Paddack|R|Christian Vazquez|R|Flyout|F|Four-Seam Fastball|58|2|1|0|11|92
+Chris Paddack|R|Christian Vazquez|R|Flyout|F|Four-Seam Fastball|59|2|2|0|11|93
+Chris Paddack|R|Christian Vazquez|R|Flyout|*B|Changeup|60|2|2|0|14|84
+Chris Paddack|R|Christian Vazquez|R|Flyout|X|Four-Seam Fastball|61|3|2|0|12|92
+Chris Paddack|R|Tony Kemp|L|Flyout|F|Four-Seam Fastball|0|0|0|0|11|92
+Chris Paddack|R|Tony Kemp|L|Flyout|S|Four-Seam Fastball|1|0|1|0|11|93
+Chris Paddack|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|2|0|2|0|4|94
+Chris Paddack|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|3|0|0|1|11|92
+Chris Paddack|R|Kyle Schwarber|L|Strikeout|F|Four-Seam Fastball|4|1|0|1|2|93
+Chris Paddack|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|5|1|1|1|11|93
+Chris Paddack|R|Kyle Schwarber|L|Strikeout|F|Four-Seam Fastball|6|2|1|1|6|93
+Chris Paddack|R|Kyle Schwarber|L|Strikeout|S|Changeup|7|2|2|1|13|84
+Chris Paddack|R|Nick Castellanos|R|Strikeout|C|Four-Seam Fastball|8|0|0|2|14|93
+Chris Paddack|R|Nick Castellanos|R|Strikeout|B|Curveball|9|0|1|2|11|75
+Chris Paddack|R|Nick Castellanos|R|Strikeout|S|Curveball|10|1|1|2|14|76
+Chris Paddack|R|Nick Castellanos|R|Strikeout|S|Four-Seam Fastball|11|1|2|2|11|94
+Chris Paddack|R|Anthony Rizzo|L|Triple|B|Four-Seam Fastball|12|0|0|0|11|91
+Chris Paddack|R|Anthony Rizzo|L|Triple|B|Curveball|13|1|0|0|11|73
+Chris Paddack|R|Anthony Rizzo|L|Triple|F|Four-Seam Fastball|14|2|0|0|7|92
+Chris Paddack|R|Anthony Rizzo|L|Triple|D|Changeup|15|2|1|0|13|84
+Chris Paddack|R|Kris Bryant|R|Flyout|B|Four-Seam Fastball|16|0|0|0|14|93
+Chris Paddack|R|Kris Bryant|R|Flyout|B|Four-Seam Fastball|17|1|0|0|14|93
+Chris Paddack|R|Kris Bryant|R|Flyout|X|Four-Seam Fastball|18|2|0|0|11|94
+Chris Paddack|R|Willson Contreras|R|Strikeout|C|Four-Seam Fastball|19|0|0|1|12|94
+Chris Paddack|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|20|0|1|1|2|95
+Chris Paddack|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|21|0|2|1|2|96
+Chris Paddack|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|22|0|2|1|12|95
+Chris Paddack|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|23|0|2|1|11|95
+Chris Paddack|R|Jason Heyward|L|Groundout|X|Changeup|24|0|0|2|4|86
+Chris Paddack|R|Nico Hoerner|R|Lineout|C|Four-Seam Fastball|25|0|0|0|2|90
+Chris Paddack|R|Nico Hoerner|R|Lineout|X|Curveball|26|0|1|0|8|76
+Chris Paddack|R|Cole Hamels|L|Strikeout|C|Four-Seam Fastball|27|0|0|1|7|92
+Chris Paddack|R|Cole Hamels|L|Strikeout|B|Curveball|28|0|1|1|13|76
+Chris Paddack|R|Cole Hamels|L|Strikeout|C|Four-Seam Fastball|29|1|1|1|2|93
+Chris Paddack|R|Cole Hamels|L|Strikeout|C|Four-Seam Fastball|30|1|2|1|3|94
+Chris Paddack|R|Tony Kemp|L|Flyout|B|Four-Seam Fastball|31|0|0|2|12|92
+Chris Paddack|R|Tony Kemp|L|Flyout|B|Four-Seam Fastball|32|1|0|2|11|93
+Chris Paddack|R|Tony Kemp|L|Flyout|C|Four-Seam Fastball|33|2|0|2|11|92
+Chris Paddack|R|Tony Kemp|L|Flyout|X|Four-Seam Fastball|34|2|1|2|13|93
+Chris Paddack|R|Kyle Schwarber|L|Flyout|B|Curveball|35|0|0|0|13|74
+Chris Paddack|R|Kyle Schwarber|L|Flyout|X|Four-Seam Fastball|36|1|0|0|5|93
+Chris Paddack|R|Nick Castellanos|R|Flyout|X|Curveball|37|0|0|1|8|75
+Chris Paddack|R|Anthony Rizzo|L|Lineout|B|Four-Seam Fastball|38|0|0|2|13|93
+Chris Paddack|R|Anthony Rizzo|L|Lineout|F|Four-Seam Fastball|39|1|0|2|12|93
+Chris Paddack|R|Anthony Rizzo|L|Lineout|B|Four-Seam Fastball|40|1|1|2|14|93
+Chris Paddack|R|Anthony Rizzo|L|Lineout|T|Four-Seam Fastball|41|2|1|2|11|93
+Chris Paddack|R|Anthony Rizzo|L|Lineout|F|Four-Seam Fastball|42|2|2|2|12|94
+Chris Paddack|R|Anthony Rizzo|L|Lineout|F|Four-Seam Fastball|43|2|2|2|1|94
+Chris Paddack|R|Anthony Rizzo|L|Lineout|F|Curveball|44|2|2|2|9|78
+Chris Paddack|R|Anthony Rizzo|L|Lineout|F|Changeup|45|2|2|2|7|85
+Chris Paddack|R|Anthony Rizzo|L|Lineout|X|Changeup|46|2|2|2|13|85
+Chris Paddack|R|Kris Bryant|R|Single|B|Four-Seam Fastball|47|0|0|0|13|91
+Chris Paddack|R|Kris Bryant|R|Single|S|Changeup|48|1|0|0|13|83
+Chris Paddack|R|Kris Bryant|R|Single|F|Four-Seam Fastball|49|1|1|0|14|93
+Chris Paddack|R|Kris Bryant|R|Single|D|Four-Seam Fastball|50|1|2|0|2|94
+Chris Paddack|R|Willson Contreras|R|Strikeout|*B|Changeup|51|0|0|0|14|84
+Chris Paddack|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|52|1|0|0|2|93
+Chris Paddack|R|Willson Contreras|R|Strikeout|S|Changeup|53|1|1|0|12|85
+Chris Paddack|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|54|1|2|0|11|94
+Chris Paddack|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|55|1|2|0|11|94
+Chris Paddack|R|Willson Contreras|R|Strikeout|W|Changeup|56|1|2|0|13|84
+Chris Paddack|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|57|0|0|1|14|93
+Chris Paddack|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|58|1|0|1|14|93
+Chris Paddack|R|Jason Heyward|L|Groundout|S|Changeup|59|2|0|1|13|85
+Chris Paddack|R|Jason Heyward|L|Groundout|S|Changeup|60|2|1|1|8|85
+Chris Paddack|R|Jason Heyward|L|Groundout|F|Four-Seam Fastball|61|2|2|1|11|95
+Chris Paddack|R|Jason Heyward|L|Groundout|F|Curveball|62|2|2|1|14|78
+Chris Paddack|R|Jason Heyward|L|Groundout|B|Changeup|63|2|2|1|14|85
+Chris Paddack|R|Jason Heyward|L|Groundout|X|Changeup|64|3|2|1|5|84
+Chris Paddack|R|Nico Hoerner|R|Intent Walk|V|N/A|65|0|0|2|0|0
+Chris Paddack|R|Nico Hoerner|R|Intent Walk|V|N/A|66|0|1|2|0|0
+Chris Paddack|R|Nico Hoerner|R|Intent Walk|V|N/A|67|0|2|2|0|0
+Chris Paddack|R|Nico Hoerner|R|Intent Walk|V|N/A|68|0|2|2|0|0
+Chris Paddack|R|Cole Hamels|L|Strikeout|B|Four-Seam Fastball|69|0|0|2|12|92
+Chris Paddack|R|Cole Hamels|L|Strikeout|B|Four-Seam Fastball|70|1|0|2|12|93
+Chris Paddack|R|Cole Hamels|L|Strikeout|S|Four-Seam Fastball|71|2|0|2|11|93
+Chris Paddack|R|Cole Hamels|L|Strikeout|F|Four-Seam Fastball|72|2|1|2|5|93
+Chris Paddack|R|Cole Hamels|L|Strikeout|S|Four-Seam Fastball|73|2|2|2|2|95
+Chris Paddack|R|Tony Kemp|L|Strikeout|C|Curveball|74|0|0|2|13|74
+Chris Paddack|R|Tony Kemp|L|Strikeout|S|Changeup|75|0|1|2|13|82
+Chris Paddack|R|Tony Kemp|L|Strikeout|B|Changeup|76|0|2|2|13|82
+Chris Paddack|R|Tony Kemp|L|Strikeout|B|Changeup|77|1|2|2|13|84
+Chris Paddack|R|Tony Kemp|L|Strikeout|S|Changeup|78|2|2|2|13|83
+Chris Paddack|R|Kyle Schwarber|L|Flyout|B|Four-Seam Fastball|79|0|0|0|11|92
+Chris Paddack|R|Kyle Schwarber|L|Flyout|C|Four-Seam Fastball|80|1|0|0|4|92
+Chris Paddack|R|Kyle Schwarber|L|Flyout|C|Four-Seam Fastball|81|1|1|0|9|92
+Chris Paddack|R|Kyle Schwarber|L|Flyout|B|Four-Seam Fastball|82|1|2|0|12|94
+Chris Paddack|R|Kyle Schwarber|L|Flyout|X|Changeup|83|2|2|0|8|84
+Chris Paddack|R|Nick Castellanos|R|Single|S|Changeup|84|0|0|1|6|84
+Chris Paddack|R|Nick Castellanos|R|Single|B|Changeup|85|0|1|1|14|84
+Chris Paddack|R|Nick Castellanos|R|Single|S|Changeup|86|1|1|1|8|84
+Chris Paddack|R|Nick Castellanos|R|Single|D|Four-Seam Fastball|87|1|2|1|11|94
+Chris Paddack|R|Anthony Rizzo|L|Groundout|C|Curveball|88|0|0|1|6|76
+Chris Paddack|R|Anthony Rizzo|L|Groundout|W|Changeup|89|0|1|1|14|83
+Chris Paddack|R|Anthony Rizzo|L|Groundout|F|Changeup|90|0|2|1|14|84
+Chris Paddack|R|Anthony Rizzo|L|Groundout|F|Four-Seam Fastball|91|0|2|1|9|94
+Chris Paddack|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|92|0|2|1|13|94
+Chris Paddack|R|Anthony Rizzo|L|Groundout|F|Four-Seam Fastball|93|1|2|1|11|94
+Chris Paddack|R|Anthony Rizzo|L|Groundout|F|Curveball|94|1|2|1|4|76
+Chris Paddack|R|Anthony Rizzo|L|Groundout|B|Changeup|95|1|2|1|14|84
+Chris Paddack|R|Anthony Rizzo|L|Groundout|X|Four-Seam Fastball|96|2|2|1|9|94
+Chris Paddack|R|Joe Panik|L|Lineout|C|Four-Seam Fastball|0|0|0|0|4|93
+Chris Paddack|R|Joe Panik|L|Lineout|B|Four-Seam Fastball|1|0|1|0|12|92
+Chris Paddack|R|Joe Panik|L|Lineout|F|Curveball|2|1|1|0|5|75
+Chris Paddack|R|Joe Panik|L|Lineout|F|Four-Seam Fastball|3|1|2|0|12|94
+Chris Paddack|R|Joe Panik|L|Lineout|B|Four-Seam Fastball|4|1|2|0|13|94
+Chris Paddack|R|Joe Panik|L|Lineout|B|Changeup|5|2|2|0|13|84
+Chris Paddack|R|Joe Panik|L|Lineout|F|Changeup|6|3|2|0|4|84
+Chris Paddack|R|Joe Panik|L|Lineout|X|Changeup|7|3|2|0|13|84
+Chris Paddack|R|Mike Yastrzemski|L|Walk|S|Four-Seam Fastball|8|0|0|1|1|92
+Chris Paddack|R|Mike Yastrzemski|L|Walk|B|Curveball|9|0|1|1|14|76
+Chris Paddack|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|10|1|1|1|12|94
+Chris Paddack|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|11|2|1|1|11|93
+Chris Paddack|R|Mike Yastrzemski|L|Walk|F|Four-Seam Fastball|12|3|1|1|5|93
+Chris Paddack|R|Mike Yastrzemski|L|Walk|F|Four-Seam Fastball|13|3|2|1|5|95
+Chris Paddack|R|Mike Yastrzemski|L|Walk|B|Four-Seam Fastball|14|3|2|1|11|95
+Chris Paddack|R|Evan Longoria|R|Single|B|Curveball|15|0|0|1|14|77
+Chris Paddack|R|Evan Longoria|R|Single|F|Four-Seam Fastball|16|1|0|1|1|94
+Chris Paddack|R|Evan Longoria|R|Single|B|Curveball|17|1|1|1|14|79
+Chris Paddack|R|Evan Longoria|R|Single|D|Changeup|18|2|1|1|8|84
+Chris Paddack|R|Pablo Sandoval|L|Grounded Into DP|C|Four-Seam Fastball|19|0|0|1|11|94
+Chris Paddack|R|Pablo Sandoval|L|Grounded Into DP|B|Four-Seam Fastball|20|0|1|1|13|95
+Chris Paddack|R|Pablo Sandoval|L|Grounded Into DP|B|Four-Seam Fastball|21|1|1|1|13|94
+Chris Paddack|R|Pablo Sandoval|L|Grounded Into DP|X|Changeup|22|2|1|1|13|85
+Chris Paddack|R|Stephen Vogt|L|Flyout|B|Four-Seam Fastball|23|0|0|0|11|93
+Chris Paddack|R|Stephen Vogt|L|Flyout|S|Four-Seam Fastball|24|1|0|0|1|93
+Chris Paddack|R|Stephen Vogt|L|Flyout|C|Curveball|25|1|1|0|6|76
+Chris Paddack|R|Stephen Vogt|L|Flyout|X|Four-Seam Fastball|26|1|2|0|5|95
+Chris Paddack|R|Brandon Crawford|L|Groundout|X|Curveball|27|0|0|1|8|76
+Chris Paddack|R|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|28|0|0|2|3|93
+Chris Paddack|R|Tyler Austin|R|Strikeout|S|Curveball|29|0|1|2|13|77
+Chris Paddack|R|Tyler Austin|R|Strikeout|B|Curveball|30|0|2|2|14|77
+Chris Paddack|R|Tyler Austin|R|Strikeout|T|Four-Seam Fastball|31|1|2|2|11|95
+Chris Paddack|R|Steven Duggar|L|Field Error|C|Curveball|32|0|0|0|14|75
+Chris Paddack|R|Steven Duggar|L|Field Error|D|Four-Seam Fastball|33|0|1|0|6|94
+Chris Paddack|R|Tyler Beede|R|Sac Bunt|X|Four-Seam Fastball|34|0|0|0|12|92
+Chris Paddack|R|Joe Panik|L|Single|C|Changeup|35|0|0|1|1|84
+Chris Paddack|R|Joe Panik|L|Single|F|Four-Seam Fastball|36|0|1|1|5|94
+Chris Paddack|R|Joe Panik|L|Single|B|Curveball|37|0|2|1|11|77
+Chris Paddack|R|Joe Panik|L|Single|D|Four-Seam Fastball|38|1|2|1|11|95
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|X|Four-Seam Fastball|39|0|0|1|2|94
+Chris Paddack|R|Evan Longoria|R|Strikeout|C|Four-Seam Fastball|40|0|0|2|1|94
+Chris Paddack|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|41|0|1|2|6|94
+Chris Paddack|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|42|0|2|2|4|95
+Chris Paddack|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|43|0|2|2|5|96
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|44|0|2|2|11|96
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|45|1|2|2|14|97
+Chris Paddack|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|46|2|2|2|12|96
+Chris Paddack|R|Pablo Sandoval|L|Single|F|Four-Seam Fastball|47|0|0|0|11|92
+Chris Paddack|R|Pablo Sandoval|L|Single|B|Four-Seam Fastball|48|0|1|0|12|94
+Chris Paddack|R|Pablo Sandoval|L|Single|F|Four-Seam Fastball|49|1|1|0|12|94
+Chris Paddack|R|Pablo Sandoval|L|Single|B|Four-Seam Fastball|50|1|2|0|14|94
+Chris Paddack|R|Pablo Sandoval|L|Single|B|Changeup|51|2|2|0|14|85
+Chris Paddack|R|Pablo Sandoval|L|Single|D|Four-Seam Fastball|52|3|2|0|5|95
+Chris Paddack|R|Stephen Vogt|L|Single|X|Changeup|53|0|0|0|4|83
+Chris Paddack|R|Brandon Crawford|L|Groundout|S|Four-Seam Fastball|54|0|0|1|6|95
+Chris Paddack|R|Brandon Crawford|L|Groundout|X|Changeup|55|0|1|1|13|86
+Chris Paddack|R|Tyler Austin|R|Single|C|Four-Seam Fastball|56|0|0|2|5|96
+Chris Paddack|R|Tyler Austin|R|Single|S|Four-Seam Fastball|57|0|1|2|2|95
+Chris Paddack|R|Tyler Austin|R|Single|F|Four-Seam Fastball|58|0|2|2|11|97
+Chris Paddack|R|Tyler Austin|R|Single|B|Four-Seam Fastball|59|0|2|2|12|96
+Chris Paddack|R|Tyler Austin|R|Single|B|Curveball|60|1|2|2|14|78
+Chris Paddack|R|Tyler Austin|R|Single|B|Four-Seam Fastball|61|2|2|2|12|96
+Chris Paddack|R|Tyler Austin|R|Single|E|Four-Seam Fastball|62|3|2|2|1|95
+Chris Paddack|R|Steven Duggar|L|Home Run|F|Changeup|63|0|0|2|8|85
+Chris Paddack|R|Steven Duggar|L|Home Run|E|Changeup|64|0|1|2|5|84
+Chris Paddack|R|Tyler Beede|R|Strikeout|C|Four-Seam Fastball|65|0|0|2|12|93
+Chris Paddack|R|Tyler Beede|R|Strikeout|F|Four-Seam Fastball|66|0|1|2|5|95
+Chris Paddack|R|Tyler Beede|R|Strikeout|C|Changeup|67|0|2|2|12|84
+Chris Paddack|R|Joe Panik|L|Strikeout|C|Four-Seam Fastball|68|0|0|0|2|91
+Chris Paddack|R|Joe Panik|L|Strikeout|F|Four-Seam Fastball|69|0|1|0|2|91
+Chris Paddack|R|Joe Panik|L|Strikeout|B|Changeup|70|0|2|0|13|83
+Chris Paddack|R|Joe Panik|L|Strikeout|B|Changeup|71|1|2|0|13|83
+Chris Paddack|R|Joe Panik|L|Strikeout|F|Changeup|72|2|2|0|4|84
+Chris Paddack|R|Joe Panik|L|Strikeout|B|Four-Seam Fastball|73|2|2|0|14|93
+Chris Paddack|R|Joe Panik|L|Strikeout|C|Four-Seam Fastball|74|3|2|0|13|93
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|75|0|0|1|8|92
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|76|0|1|1|9|93
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|77|0|2|1|11|94
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|S|Changeup|78|1|2|1|13|84
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Curveball|79|0|0|2|14|76
+Chris Paddack|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|80|1|0|2|6|92
+Chris Paddack|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|81|1|1|2|11|92
+Chris Paddack|R|Evan Longoria|R|Strikeout|F|Changeup|82|1|2|2|4|84
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Changeup|83|1|2|2|14|83
+Chris Paddack|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|84|2|2|2|12|94
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|8|93
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|T|Four-Seam Fastball|1|0|1|0|4|93
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|B|Four-Seam Fastball|2|0|2|0|11|94
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|B|Changeup|3|1|2|0|13|84
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|F|Changeup|4|2|2|0|8|85
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|F|Four-Seam Fastball|5|2|2|0|3|95
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|F|Four-Seam Fastball|6|2|2|0|11|94
+Chris Paddack|R|Mike Yastrzemski|L|Pop Out|X|Changeup|7|2|2|0|4|85
+Chris Paddack|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|8|0|0|1|1|93
+Chris Paddack|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|9|0|1|1|12|94
+Chris Paddack|R|Brandon Belt|L|Strikeout|F|Changeup|10|1|1|1|13|85
+Chris Paddack|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|11|1|2|1|3|95
+Chris Paddack|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|12|1|2|1|1|93
+Chris Paddack|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|13|0|0|2|2|93
+Chris Paddack|R|Evan Longoria|R|Strikeout|C|Four-Seam Fastball|14|0|1|2|14|94
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|15|0|2|2|12|94
+Chris Paddack|R|Evan Longoria|R|Strikeout|B|Curveball|16|1|2|2|14|78
+Chris Paddack|R|Evan Longoria|R|Strikeout|S|Four-Seam Fastball|17|2|2|2|12|95
+Chris Paddack|R|Alex Dickerson|L|Lineout|B|Four-Seam Fastball|18|0|0|0|13|92
+Chris Paddack|R|Alex Dickerson|L|Lineout|X|Four-Seam Fastball|19|1|0|0|9|93
+Chris Paddack|R|Buster Posey|R|Strikeout|C|Four-Seam Fastball|20|0|0|1|6|93
+Chris Paddack|R|Buster Posey|R|Strikeout|B|Curveball|21|0|1|1|14|77
+Chris Paddack|R|Buster Posey|R|Strikeout|B|Changeup|22|1|1|1|14|85
+Chris Paddack|R|Buster Posey|R|Strikeout|F|Changeup|23|2|1|1|2|85
+Chris Paddack|R|Buster Posey|R|Strikeout|F|Four-Seam Fastball|24|2|2|1|5|94
+Chris Paddack|R|Buster Posey|R|Strikeout|S|Curveball|25|2|2|1|4|77
+Chris Paddack|R|Kevin Pillar|R|Groundout|C|Four-Seam Fastball|26|0|0|2|14|93
+Chris Paddack|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|27|0|1|2|12|94
+Chris Paddack|R|Kevin Pillar|R|Groundout|X|Curveball|28|0|2|2|5|79
+Chris Paddack|R|Brandon Crawford|L|Lineout|S|Four-Seam Fastball|29|0|0|0|4|92
+Chris Paddack|R|Brandon Crawford|L|Lineout|X|Changeup|30|0|1|0|13|84
+Chris Paddack|R|Mauricio Dubon|R|Flyout|C|Four-Seam Fastball|31|0|0|1|12|92
+Chris Paddack|R|Mauricio Dubon|R|Flyout|B|Four-Seam Fastball|32|0|1|1|14|94
+Chris Paddack|R|Mauricio Dubon|R|Flyout|F|Four-Seam Fastball|33|1|1|1|6|94
+Chris Paddack|R|Mauricio Dubon|R|Flyout|F|Four-Seam Fastball|34|1|2|1|11|94
+Chris Paddack|R|Mauricio Dubon|R|Flyout|X|Curveball|35|1|2|1|11|77
+Chris Paddack|R|Dereck Rodriguez|R|Strikeout|F|Four-Seam Fastball|36|0|0|2|5|93
+Chris Paddack|R|Dereck Rodriguez|R|Strikeout|C|Four-Seam Fastball|37|0|1|2|6|94
+Chris Paddack|R|Dereck Rodriguez|R|Strikeout|B|Curveball|38|0|2|2|14|78
+Chris Paddack|R|Dereck Rodriguez|R|Strikeout|S|Four-Seam Fastball|39|1|2|2|12|95
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|C|Four-Seam Fastball|40|0|0|0|1|92
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|S|Four-Seam Fastball|41|0|1|0|12|92
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|42|0|2|0|11|94
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|B|Four-Seam Fastball|43|1|2|0|11|94
+Chris Paddack|R|Mike Yastrzemski|L|Strikeout|T|Changeup|44|2|2|0|11|85
+Chris Paddack|R|Brandon Belt|L|Home Run|B|Four-Seam Fastball|45|0|0|1|13|94
+Chris Paddack|R|Brandon Belt|L|Home Run|E|Changeup|46|1|0|1|8|85
+Chris Paddack|R|Evan Longoria|R|Double|B|Curveball|47|0|0|1|13|76
+Chris Paddack|R|Evan Longoria|R|Double|D|Four-Seam Fastball|48|1|0|1|2|92
+Chris Paddack|R|Alex Dickerson|L|Groundout|X|Changeup|49|0|0|1|7|85
+Chris Paddack|R|Buster Posey|R|Groundout|B|Four-Seam Fastball|50|0|0|2|14|94
+Chris Paddack|R|Buster Posey|R|Groundout|C|Four-Seam Fastball|51|1|0|2|9|94
+Chris Paddack|R|Buster Posey|R|Groundout|*B|Changeup|52|1|1|2|14|85
+Chris Paddack|R|Buster Posey|R|Groundout|X|Changeup|53|2|1|2|5|86
+Chris Paddack|R|Kevin Pillar|R|Single|D|Four-Seam Fastball|54|0|0|0|2|91
+Chris Paddack|R|Brandon Crawford|L|Strikeout|B|Changeup|55|0|0|0|13|84
+Chris Paddack|R|Brandon Crawford|L|Strikeout|F|Changeup|56|1|0|0|13|84
+Chris Paddack|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|57|1|1|0|14|92
+Chris Paddack|R|Brandon Crawford|L|Strikeout|C|Four-Seam Fastball|58|2|1|0|13|93
+Chris Paddack|R|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|59|2|2|0|12|93
+Chris Paddack|R|Brandon Crawford|L|Strikeout|F|Changeup|60|3|2|0|13|85
+Chris Paddack|R|Brandon Crawford|L|Strikeout|T|Four-Seam Fastball|61|3|2|0|5|93
+Chris Paddack|R|Mauricio Dubon|R|Single|D|Four-Seam Fastball|62|0|0|1|6|92
+Chris Paddack|R|Austin Slater|R|Strikeout|S|Curveball|63|0|0|1|14|77
+Chris Paddack|R|Austin Slater|R|Strikeout|S|Four-Seam Fastball|64|0|1|1|5|93
+Chris Paddack|R|Austin Slater|R|Strikeout|S|Four-Seam Fastball|65|0|2|1|13|94
+Chris Paddack|R|Mike Yastrzemski|L|Flyout|C|Changeup|66|0|0|2|5|85
+Chris Paddack|R|Mike Yastrzemski|L|Flyout|T|Changeup|67|0|1|2|13|85
+Chris Paddack|R|Mike Yastrzemski|L|Flyout|X|Four-Seam Fastball|68|0|2|2|11|96
+Chris Paddack|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|69|0|0|0|11|91
+Chris Paddack|R|Brandon Belt|L|Flyout|B|Four-Seam Fastball|70|1|0|0|12|92
+Chris Paddack|R|Brandon Belt|L|Flyout|C|Four-Seam Fastball|71|2|0|0|11|92
+Chris Paddack|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|72|2|1|0|1|93
+Chris Paddack|R|Evan Longoria|R|Flyout|B|Curveball|73|0|0|1|14|76
+Chris Paddack|R|Evan Longoria|R|Flyout|C|Changeup|74|1|0|1|7|84
+Chris Paddack|R|Evan Longoria|R|Flyout|F|Curveball|75|1|1|1|8|76
+Chris Paddack|R|Evan Longoria|R|Flyout|X|Four-Seam Fastball|76|1|2|1|9|94
+Chris Paddack|R|Alex Dickerson|L|Strikeout|B|Curveball|77|0|0|2|14|77
+Chris Paddack|R|Alex Dickerson|L|Strikeout|F|Changeup|78|1|0|2|13|85
+Chris Paddack|R|Alex Dickerson|L|Strikeout|C|Changeup|79|1|1|2|11|84
+Chris Paddack|R|Alex Dickerson|L|Strikeout|S|Four-Seam Fastball|80|1|2|2|12|94
+Chris Paddack|R|Buster Posey|R|Single|S|Four-Seam Fastball|81|0|0|0|2|92
+Chris Paddack|R|Buster Posey|R|Single|B|Four-Seam Fastball|82|0|1|0|14|92
+Chris Paddack|R|Buster Posey|R|Single|D|Curveball|83|1|1|0|14|76
+Chris Paddack|R|Kevin Pillar|R|Pop Out|F|Changeup|84|0|0|0|13|83
+Chris Paddack|R|Kevin Pillar|R|Pop Out|C|Four-Seam Fastball|85|0|1|0|14|92
+Chris Paddack|R|Kevin Pillar|R|Pop Out|X|Four-Seam Fastball|86|0|2|0|12|93
+Chris Paddack|R|Brandon Crawford|L|Flyout|F|Four-Seam Fastball|87|0|0|1|7|92
+Chris Paddack|R|Brandon Crawford|L|Flyout|X|Four-Seam Fastball|88|0|1|1|12|93
+Chris Paddack|R|Mauricio Dubon|R|Lineout|B|Curveball|89|0|0|2|14|76
+Chris Paddack|R|Mauricio Dubon|R|Lineout|C|Four-Seam Fastball|90|1|0|2|6|93
+Chris Paddack|R|Mauricio Dubon|R|Lineout|X|Four-Seam Fastball|91|1|1|2|6|93
+Chris Paddack|R|Matt Carpenter|L|Walk|S|Four-Seam Fastball|0|0|0|0|11|91
+Chris Paddack|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|1|0|1|0|11|93
+Chris Paddack|R|Matt Carpenter|L|Walk|C|Changeup|2|1|1|0|13|83
+Chris Paddack|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|3|1|2|0|11|93
+Chris Paddack|R|Matt Carpenter|L|Walk|F|Four-Seam Fastball|4|2|2|0|6|93
+Chris Paddack|R|Matt Carpenter|L|Walk|B|Four-Seam Fastball|5|2|2|0|11|94
+Chris Paddack|R|Matt Carpenter|L|Walk|F|Changeup|6|3|2|0|8|84
+Chris Paddack|R|Matt Carpenter|L|Walk|B|Changeup|7|3|2|0|12|83
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|8|0|0|0|13|93
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|9|0|1|0|13|94
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|10|1|1|0|6|94
+Chris Paddack|R|Paul Goldschmidt|R|Strikeout|S|Changeup|11|1|2|0|13|84
+Chris Paddack|R|Paul DeJong|R|Forceout|B|Four-Seam Fastball|12|0|0|1|14|93
+Chris Paddack|R|Paul DeJong|R|Forceout|*B|Changeup|13|1|0|1|14|85
+Chris Paddack|R|Paul DeJong|R|Forceout|F|Changeup|14|2|0|1|8|85
+Chris Paddack|R|Paul DeJong|R|Forceout|X|Four-Seam Fastball|15|2|1|1|11|93
+Chris Paddack|R|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|16|0|0|2|14|94
+Chris Paddack|R|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|17|1|0|2|4|93
+Chris Paddack|R|Yadier Molina|R|Single|C|Four-Seam Fastball|18|0|0|0|6|93
+Chris Paddack|R|Yadier Molina|R|Single|F|Changeup|19|0|1|0|9|83
+Chris Paddack|R|Yadier Molina|R|Single|F|Changeup|20|0|2|0|13|83
+Chris Paddack|R|Yadier Molina|R|Single|B|Four-Seam Fastball|21|0|2|0|12|93
+Chris Paddack|R|Yadier Molina|R|Single|B|Four-Seam Fastball|22|1|2|0|12|92
+Chris Paddack|R|Yadier Molina|R|Single|B|Four-Seam Fastball|23|2|2|0|12|93
+Chris Paddack|R|Yadier Molina|R|Single|F|Four-Seam Fastball|24|3|2|0|6|93
+Chris Paddack|R|Yadier Molina|R|Single|D|Changeup|25|3|2|0|14|83
+Chris Paddack|R|Dexter Fowler|L|Field Error|S|Four-Seam Fastball|26|0|0|0|1|93
+Chris Paddack|R|Dexter Fowler|L|Field Error|B|Four-Seam Fastball|27|0|1|0|11|94
+Chris Paddack|R|Dexter Fowler|L|Field Error|X|Four-Seam Fastball|28|1|1|0|13|94
+Chris Paddack|R|Kolten Wong|L|Sac Fly|B|Changeup|29|0|0|1|14|84
+Chris Paddack|R|Kolten Wong|L|Sac Fly|B|Changeup|30|1|0|1|13|85
+Chris Paddack|R|Kolten Wong|L|Sac Fly|C|Changeup|31|2|0|1|9|85
+Chris Paddack|R|Kolten Wong|L|Sac Fly|F|Four-Seam Fastball|32|2|1|1|4|94
+Chris Paddack|R|Kolten Wong|L|Sac Fly|F|Four-Seam Fastball|33|2|2|1|1|95
+Chris Paddack|R|Kolten Wong|L|Sac Fly|F|Four-Seam Fastball|34|2|2|1|6|95
+Chris Paddack|R|Kolten Wong|L|Sac Fly|F|Changeup|35|2|2|1|13|85
+Chris Paddack|R|Kolten Wong|L|Sac Fly|E|Four-Seam Fastball|36|2|2|1|7|96
+Chris Paddack|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|37|0|0|2|12|95
+Chris Paddack|R|Harrison Bader|R|Walk|F|Changeup|38|1|0|2|4|84
+Chris Paddack|R|Harrison Bader|R|Walk|F|Four-Seam Fastball|39|1|1|2|1|94
+Chris Paddack|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|40|1|2|2|14|95
+Chris Paddack|R|Harrison Bader|R|Walk|F|Four-Seam Fastball|41|2|2|2|1|94
+Chris Paddack|R|Harrison Bader|R|Walk|F|Changeup|42|2|2|2|3|84
+Chris Paddack|R|Harrison Bader|R|Walk|F|Changeup|43|2|2|2|6|85
+Chris Paddack|R|Harrison Bader|R|Walk|F|Four-Seam Fastball|44|2|2|2|1|97
+Chris Paddack|R|Harrison Bader|R|Walk|B|Curveball|45|2|2|2|11|73
+Chris Paddack|R|Harrison Bader|R|Walk|*B|Changeup|46|3|2|2|14|84
+Chris Paddack|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|47|0|0|2|8|95
+Chris Paddack|R|Michael Wacha|R|Strikeout|S|Four-Seam Fastball|48|0|1|2|8|94
+Chris Paddack|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|49|0|2|2|14|94
+Chris Paddack|R|Matt Carpenter|L|Strikeout|C|Curveball|50|0|0|0|1|71
+Chris Paddack|R|Matt Carpenter|L|Strikeout|B|Changeup|51|0|1|0|14|82
+Chris Paddack|R|Matt Carpenter|L|Strikeout|C|Changeup|52|1|1|0|13|82
+Chris Paddack|R|Matt Carpenter|L|Strikeout|T|Four-Seam Fastball|53|1|2|0|11|93
+Chris Paddack|R|Paul Goldschmidt|R|Flyout|B|Curveball|54|0|0|1|11|72
+Chris Paddack|R|Paul Goldschmidt|R|Flyout|B|Curveball|55|1|0|1|14|74
+Chris Paddack|R|Paul Goldschmidt|R|Flyout|C|Four-Seam Fastball|56|2|0|1|9|92
+Chris Paddack|R|Paul Goldschmidt|R|Flyout|X|Four-Seam Fastball|57|2|1|1|5|93
+Chris Paddack|R|Paul DeJong|R|Lineout|C|Four-Seam Fastball|58|0|0|2|6|93
+Chris Paddack|R|Paul DeJong|R|Lineout|B|Four-Seam Fastball|59|0|1|2|11|93
+Chris Paddack|R|Paul DeJong|R|Lineout|X|Four-Seam Fastball|60|1|1|2|11|93
+Chris Paddack|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|61|0|0|0|2|93
+Chris Paddack|R|Marcell Ozuna|R|Strikeout|C|Changeup|62|0|1|0|7|83
+Chris Paddack|R|Marcell Ozuna|R|Strikeout|T|Four-Seam Fastball|63|0|2|0|11|94
+Chris Paddack|R|Yadier Molina|R|Lineout|C|Curveball|64|0|0|1|2|73
+Chris Paddack|R|Yadier Molina|R|Lineout|F|Changeup|65|0|1|1|13|84
+Chris Paddack|R|Yadier Molina|R|Lineout|F|Four-Seam Fastball|66|0|2|1|4|94
+Chris Paddack|R|Yadier Molina|R|Lineout|F|Four-Seam Fastball|67|0|2|1|11|94
+Chris Paddack|R|Yadier Molina|R|Lineout|B|Four-Seam Fastball|68|0|2|1|12|94
+Chris Paddack|R|Yadier Molina|R|Lineout|B|Curveball|69|1|2|1|11|74
+Chris Paddack|R|Yadier Molina|R|Lineout|F|Four-Seam Fastball|70|2|2|1|12|95
+Chris Paddack|R|Yadier Molina|R|Lineout|F|Changeup|71|2|2|1|14|84
+Chris Paddack|R|Yadier Molina|R|Lineout|B|Four-Seam Fastball|72|2|2|1|14|96
+Chris Paddack|R|Yadier Molina|R|Lineout|X|Four-Seam Fastball|73|3|2|1|13|94
+Chris Paddack|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|74|0|0|2|13|94
+Chris Paddack|R|Dexter Fowler|L|Walk|B|Changeup|75|1|0|2|14|84
+Chris Paddack|R|Dexter Fowler|L|Walk|S|Changeup|76|2|0|2|14|84
+Chris Paddack|R|Dexter Fowler|L|Walk|F|Four-Seam Fastball|77|2|1|2|6|93
+Chris Paddack|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|78|2|2|2|14|95
+Chris Paddack|R|Dexter Fowler|L|Walk|F|Changeup|79|3|2|2|8|84
+Chris Paddack|R|Dexter Fowler|L|Walk|B|Changeup|80|3|2|2|14|85
+Chris Paddack|R|Kolten Wong|L|Walk|B|Curveball|81|0|0|2|12|76
+Chris Paddack|R|Kolten Wong|L|Walk|C|Four-Seam Fastball|82|1|0|2|1|94
+Chris Paddack|R|Kolten Wong|L|Walk|B|Changeup|83|1|1|2|14|84
+Chris Paddack|R|Kolten Wong|L|Walk|S|Changeup|84|2|1|2|7|84
+Chris Paddack|R|Kolten Wong|L|Walk|F|Four-Seam Fastball|85|2|2|2|12|94
+Chris Paddack|R|Kolten Wong|L|Walk|B|Curveball|86|2|2|2|12|75
+Chris Paddack|R|Kolten Wong|L|Walk|F|Four-Seam Fastball|87|3|2|2|1|94
+Chris Paddack|R|Kolten Wong|L|Walk|B|Four-Seam Fastball|88|3|2|2|13|94
+Chris Paddack|R|Roman Quinn|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|91
+Chris Paddack|R|Roman Quinn|L|Strikeout|T|Four-Seam Fastball|1|0|1|0|5|93
+Chris Paddack|R|Roman Quinn|L|Strikeout|T|Four-Seam Fastball|2|0|2|0|1|93
+Chris Paddack|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|3|0|0|1|1|94
+Chris Paddack|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|4|0|1|1|11|94
+Chris Paddack|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|5|0|2|1|12|95
+Chris Paddack|R|Bryce Harper|L|Strikeout|S|Curveball|6|1|2|1|13|77
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|F|Four-Seam Fastball|7|0|0|2|4|94
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|F|Four-Seam Fastball|8|0|1|2|1|95
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|B|Four-Seam Fastball|9|0|2|2|12|95
+Chris Paddack|R|J.T. Realmuto|R|Strikeout|S|Changeup|10|1|2|2|14|84
+Chris Paddack|R|Corey Dickerson|L|Groundout|B|Four-Seam Fastball|11|0|0|0|12|93
+Chris Paddack|R|Corey Dickerson|L|Groundout|S|Four-Seam Fastball|12|1|0|0|4|93
+Chris Paddack|R|Corey Dickerson|L|Groundout|X|Changeup|13|1|1|0|7|84
+Chris Paddack|R|Jean Segura|R|Single|B|Curveball|14|0|0|1|14|75
+Chris Paddack|R|Jean Segura|R|Single|D|Four-Seam Fastball|15|1|0|1|4|93
+Chris Paddack|R|Logan Morrison|L|Single|C|Changeup|16|0|0|1|8|85
+Chris Paddack|R|Logan Morrison|L|Single|B|Four-Seam Fastball|17|0|1|1|12|93
+Chris Paddack|R|Logan Morrison|L|Single|F|Changeup|18|1|1|1|5|84
+Chris Paddack|R|Logan Morrison|L|Single|F|Four-Seam Fastball|19|1|2|1|11|94
+Chris Paddack|R|Logan Morrison|L|Single|D|Changeup|20|1|2|1|7|85
+Chris Paddack|R|Scott Kingery|R|Pop Out|B|Four-Seam Fastball|21|0|0|1|12|94
+Chris Paddack|R|Scott Kingery|R|Pop Out|B|Changeup|22|1|0|1|14|83
+Chris Paddack|R|Scott Kingery|R|Pop Out|X|Changeup|23|2|0|1|11|84
+Chris Paddack|R|Cesar Hernandez|L|Single|F|Changeup|24|0|0|2|7|84
+Chris Paddack|R|Cesar Hernandez|L|Single|S|Four-Seam Fastball|25|0|1|2|12|95
+Chris Paddack|R|Cesar Hernandez|L|Single|F|Four-Seam Fastball|26|0|2|2|3|96
+Chris Paddack|R|Cesar Hernandez|L|Single|F|Four-Seam Fastball|27|0|2|2|2|96
+Chris Paddack|R|Cesar Hernandez|L|Single|E|Changeup|28|0|2|2|13|86
+Chris Paddack|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|29|0|0|2|5|94
+Chris Paddack|R|Vince Velasquez|R|Strikeout|B|Four-Seam Fastball|30|0|1|2|12|95
+Chris Paddack|R|Vince Velasquez|R|Strikeout|B|Four-Seam Fastball|31|1|1|2|12|95
+Chris Paddack|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|32|2|1|2|11|94
+Chris Paddack|R|Vince Velasquez|R|Strikeout|B|Changeup|33|2|2|2|14|85
+Chris Paddack|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|34|3|2|2|1|95
+Chris Paddack|R|Vince Velasquez|R|Strikeout|S|Four-Seam Fastball|35|3|2|2|11|95
+Chris Paddack|R|Roman Quinn|L|Home Run|L|Four-Seam Fastball|36|0|0|0|6|91
+Chris Paddack|R|Roman Quinn|L|Home Run|E|Four-Seam Fastball|37|0|1|0|5|93
+Chris Paddack|R|Bryce Harper|L|Strikeout|F|Four-Seam Fastball|38|0|0|0|11|93
+Chris Paddack|R|Bryce Harper|L|Strikeout|F|Changeup|39|0|1|0|7|84
+Chris Paddack|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|40|0|2|0|11|94
+Chris Paddack|R|Bryce Harper|L|Strikeout|W|Curveball|41|1|2|0|14|77
+Chris Paddack|R|J.T. Realmuto|R|Home Run|B|Four-Seam Fastball|42|0|0|1|14|92
+Chris Paddack|R|J.T. Realmuto|R|Home Run|E|Curveball|43|1|0|1|1|76
+Chris Paddack|R|Corey Dickerson|L|Lineout|B|Changeup|44|0|0|1|14|84
+Chris Paddack|R|Corey Dickerson|L|Lineout|S|Four-Seam Fastball|45|1|0|1|4|94
+Chris Paddack|R|Corey Dickerson|L|Lineout|S|Changeup|46|1|1|1|14|84
+Chris Paddack|R|Corey Dickerson|L|Lineout|F|Four-Seam Fastball|47|1|2|1|11|94
+Chris Paddack|R|Corey Dickerson|L|Lineout|F|Four-Seam Fastball|48|1|2|1|1|94
+Chris Paddack|R|Corey Dickerson|L|Lineout|B|Four-Seam Fastball|49|1|2|1|13|94
+Chris Paddack|R|Corey Dickerson|L|Lineout|X|Changeup|50|2|2|1|8|84
+Chris Paddack|R|Jean Segura|R|Pop Out|C|Four-Seam Fastball|51|0|0|2|8|93
+Chris Paddack|R|Jean Segura|R|Pop Out|X|Four-Seam Fastball|52|0|1|2|5|94
+Chris Paddack|R|Logan Morrison|L|Pop Out|C|Changeup|53|0|0|0|7|83
+Chris Paddack|R|Logan Morrison|L|Pop Out|F|Four-Seam Fastball|54|0|1|0|3|93
+Chris Paddack|R|Logan Morrison|L|Pop Out|F|Four-Seam Fastball|55|0|2|0|12|93
+Chris Paddack|R|Logan Morrison|L|Pop Out|B|Changeup|56|0|2|0|13|84
+Chris Paddack|R|Logan Morrison|L|Pop Out|X|Four-Seam Fastball|57|1|2|0|12|93
+Chris Paddack|R|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|58|0|0|1|3|92
+Chris Paddack|R|Scott Kingery|R|Strikeout|S|Four-Seam Fastball|59|1|0|1|12|93
+Chris Paddack|R|Scott Kingery|R|Strikeout|F|Curveball|60|1|1|1|8|77
+Chris Paddack|R|Scott Kingery|R|Strikeout|S|Four-Seam Fastball|61|1|2|1|12|94
+Chris Paddack|R|Cesar Hernandez|L|Walk|C|Curveball|62|0|0|2|9|78
+Chris Paddack|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|63|0|1|2|14|94
+Chris Paddack|R|Cesar Hernandez|L|Walk|B|Changeup|64|1|1|2|13|85
+Chris Paddack|R|Cesar Hernandez|L|Walk|F|Changeup|65|2|1|2|5|84
+Chris Paddack|R|Cesar Hernandez|L|Walk|F|Four-Seam Fastball|66|2|2|2|12|95
+Chris Paddack|R|Cesar Hernandez|L|Walk|B|Curveball|67|2|2|2|14|78
+Chris Paddack|R|Cesar Hernandez|L|Walk|B|Changeup|68|3|2|2|11|85
+Chris Paddack|R|Vince Velasquez|R|Single|B|Four-Seam Fastball|69|0|0|2|12|92
+Chris Paddack|R|Vince Velasquez|R|Single|F|Four-Seam Fastball|70|1|0|2|12|92
+Chris Paddack|R|Vince Velasquez|R|Single|F|Four-Seam Fastball|71|1|1|2|5|94
+Chris Paddack|R|Vince Velasquez|R|Single|D|Curveball|72|1|2|2|8|76
+Chris Paddack|R|Roman Quinn|L|Groundout|S|Changeup|73|0|0|2|13|84
+Chris Paddack|R|Roman Quinn|L|Groundout|X|Changeup|74|0|1|2|13|84
+Chris Paddack|R|Bryce Harper|L|Single|F|Four-Seam Fastball|75|0|0|0|2|92
+Chris Paddack|R|Bryce Harper|L|Single|B|Changeup|76|0|1|0|11|83
+Chris Paddack|R|Bryce Harper|L|Single|B|Changeup|77|1|1|0|13|82
+Chris Paddack|R|Bryce Harper|L|Single|B|Four-Seam Fastball|78|2|1|0|11|92
+Chris Paddack|R|Bryce Harper|L|Single|S|Changeup|79|3|1|0|13|85
+Chris Paddack|R|Bryce Harper|L|Single|D|Four-Seam Fastball|80|3|2|0|11|94
+Chris Paddack|R|J.T. Realmuto|R|Double|B|Changeup|81|0|0|0|14|83
+Chris Paddack|R|J.T. Realmuto|R|Double|C|Four-Seam Fastball|82|1|0|0|5|93
+Chris Paddack|R|J.T. Realmuto|R|Double|B|Curveball|83|1|1|0|14|78
+Chris Paddack|R|J.T. Realmuto|R|Double|F|Four-Seam Fastball|84|2|1|0|12|93
+Chris Paddack|R|J.T. Realmuto|R|Double|F|Changeup|85|2|2|0|13|84
+Chris Paddack|R|J.T. Realmuto|R|Double|F|Four-Seam Fastball|86|2|2|0|13|94
+Chris Paddack|R|J.T. Realmuto|R|Double|E|Four-Seam Fastball|87|2|2|0|5|93
+Chris Paddack|R|Corey Dickerson|L|Flyout|F|Changeup|88|0|0|0|9|84
+Chris Paddack|R|Corey Dickerson|L|Flyout|X|Changeup|89|0|1|0|9|84
+Chris Paddack|R|Jean Segura|R|Fielders Choice Out|X|Four-Seam Fastball|90|0|0|1|8|92
+Chris Paddack|R|Logan Morrison|L|Double|C|Four-Seam Fastball|91|0|0|2|5|92
+Chris Paddack|R|Logan Morrison|L|Double|E|Curveball|92|0|1|2|7|77
+Chris Paddack|R|Ozzie Albies|L|Groundout|C|Four-Seam Fastball|0|0|0|0|7|91
+Chris Paddack|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|1|0|1|0|7|93
+Chris Paddack|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|2|0|2|0|2|94
+Chris Paddack|R|Ozzie Albies|L|Groundout|X|Changeup|3|0|2|0|7|83
+Chris Paddack|R|Dansby Swanson|R|Groundout|C|Four-Seam Fastball|4|0|0|1|14|93
+Chris Paddack|R|Dansby Swanson|R|Groundout|B|Curveball|5|0|1|1|14|75
+Chris Paddack|R|Dansby Swanson|R|Groundout|C|Curveball|6|1|1|1|5|76
+Chris Paddack|R|Dansby Swanson|R|Groundout|F|Four-Seam Fastball|7|1|2|1|3|96
+Chris Paddack|R|Dansby Swanson|R|Groundout|B|Changeup|8|1|2|1|14|84
+Chris Paddack|R|Dansby Swanson|R|Groundout|F|Changeup|9|2|2|1|14|83
+Chris Paddack|R|Dansby Swanson|R|Groundout|B|Four-Seam Fastball|10|2|2|1|11|94
+Chris Paddack|R|Dansby Swanson|R|Groundout|F|Changeup|11|3|2|1|7|83
+Chris Paddack|R|Dansby Swanson|R|Groundout|F|Changeup|12|3|2|1|8|83
+Chris Paddack|R|Dansby Swanson|R|Groundout|X|Four-Seam Fastball|13|3|2|1|5|94
+Chris Paddack|R|Freddie Freeman|L|Groundout|F|Curveball|14|0|0|2|14|76
+Chris Paddack|R|Freddie Freeman|L|Groundout|F|Curveball|15|0|1|2|4|74
+Chris Paddack|R|Freddie Freeman|L|Groundout|F|Four-Seam Fastball|16|0|2|2|2|95
+Chris Paddack|R|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|17|0|2|2|13|95
+Chris Paddack|R|Freddie Freeman|L|Groundout|X|Changeup|18|1|2|2|13|83
+Chris Paddack|R|Ronald Acuna Jr.|R|Lineout|C|Curveball|19|0|0|0|14|72
+Chris Paddack|R|Ronald Acuna Jr.|R|Lineout|B|Four-Seam Fastball|20|0|1|0|12|93
+Chris Paddack|R|Ronald Acuna Jr.|R|Lineout|F|Four-Seam Fastball|21|1|1|0|11|93
+Chris Paddack|R|Ronald Acuna Jr.|R|Lineout|X|Four-Seam Fastball|22|1|2|0|9|95
+Chris Paddack|R|Nick Markakis|L|Single|F|Four-Seam Fastball|23|0|0|1|5|93
+Chris Paddack|R|Nick Markakis|L|Single|D|Changeup|24|0|1|1|13|85
+Chris Paddack|R|Johan Camargo|L|Single|D|Four-Seam Fastball|25|0|0|1|7|93
+Chris Paddack|R|Brian McCann|L|Flyout|C|Changeup|26|0|0|1|11|82
+Chris Paddack|R|Brian McCann|L|Flyout|*B|Changeup|27|0|1|1|14|84
+Chris Paddack|R|Brian McCann|L|Flyout|F|Four-Seam Fastball|28|1|1|1|13|94
+Chris Paddack|R|Brian McCann|L|Flyout|X|Changeup|29|1|2|1|8|83
+Chris Paddack|R|Matt Joyce|L|Single|C|Curveball|30|0|0|2|2|73
+Chris Paddack|R|Matt Joyce|L|Single|S|Four-Seam Fastball|31|0|1|2|1|94
+Chris Paddack|R|Matt Joyce|L|Single|F|Four-Seam Fastball|32|0|2|2|3|95
+Chris Paddack|R|Matt Joyce|L|Single|E|Four-Seam Fastball|33|0|2|2|5|96
+Chris Paddack|R|Julio Teheran|R|Flyout|X|Four-Seam Fastball|34|0|0|2|5|94
+Chris Paddack|R|Ozzie Albies|L|Pop Out|B|Four-Seam Fastball|35|0|0|0|11|92
+Chris Paddack|R|Ozzie Albies|L|Pop Out|X|Changeup|36|1|0|0|13|83
+Chris Paddack|R|Dansby Swanson|R|Strikeout|C|Four-Seam Fastball|37|0|0|1|9|93
+Chris Paddack|R|Dansby Swanson|R|Strikeout|B|Changeup|38|0|1|1|13|83
+Chris Paddack|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|39|1|1|1|11|93
+Chris Paddack|R|Dansby Swanson|R|Strikeout|C|Four-Seam Fastball|40|2|1|1|14|94
+Chris Paddack|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|41|2|2|1|2|95
+Chris Paddack|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|42|2|2|1|1|95
+Chris Paddack|R|Freddie Freeman|L|Flyout|F|Four-Seam Fastball|43|0|0|2|12|94
+Chris Paddack|R|Freddie Freeman|L|Flyout|B|Four-Seam Fastball|44|0|1|2|12|94
+Chris Paddack|R|Freddie Freeman|L|Flyout|S|Four-Seam Fastball|45|1|1|2|5|94
+Chris Paddack|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|46|1|2|2|11|96
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|F|Curveball|47|0|0|0|7|72
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|48|0|1|0|12|92
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|F|Changeup|49|1|1|0|8|82
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|50|1|2|0|2|95
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|F|Changeup|51|2|2|0|13|84
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|52|2|2|0|4|94
+Chris Paddack|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|53|0|0|1|11|94
+Chris Paddack|R|Nick Markakis|L|Walk|B|Changeup|54|1|0|1|14|85
+Chris Paddack|R|Nick Markakis|L|Walk|B|Changeup|55|2|0|1|11|84
+Chris Paddack|R|Nick Markakis|L|Walk|C|Four-Seam Fastball|56|3|0|1|6|92
+Chris Paddack|R|Nick Markakis|L|Walk|F|Four-Seam Fastball|57|3|1|1|5|93
+Chris Paddack|R|Nick Markakis|L|Walk|F|Four-Seam Fastball|58|3|2|1|6|95
+Chris Paddack|R|Nick Markakis|L|Walk|B|Four-Seam Fastball|59|3|2|1|13|94
+Chris Paddack|R|Johan Camargo|L|Pop Out|S|Changeup|60|0|0|1|14|83
+Chris Paddack|R|Johan Camargo|L|Pop Out|C|Four-Seam Fastball|61|0|1|1|13|95
+Chris Paddack|R|Johan Camargo|L|Pop Out|F|Four-Seam Fastball|62|0|2|1|11|94
+Chris Paddack|R|Johan Camargo|L|Pop Out|X|Four-Seam Fastball|63|0|2|1|2|94
+Chris Paddack|R|Brian McCann|L|Single|C|Curveball|64|0|0|2|5|74
+Chris Paddack|R|Brian McCann|L|Single|D|Changeup|65|0|1|2|13|83
+Chris Paddack|R|Matt Joyce|L|Flyout|C|Changeup|66|0|0|2|4|84
+Chris Paddack|R|Matt Joyce|L|Flyout|F|Changeup|67|0|1|2|13|84
+Chris Paddack|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|68|0|2|2|11|95
+Chris Paddack|R|Julio Teheran|R|Strikeout|B|Curveball|69|0|0|0|11|72
+Chris Paddack|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|70|1|0|0|12|93
+Chris Paddack|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|71|1|1|0|7|93
+Chris Paddack|R|Julio Teheran|R|Strikeout|W|Changeup|72|1|2|0|13|82
+Chris Paddack|R|Ozzie Albies|L|Flyout|X|Four-Seam Fastball|73|0|0|1|6|93
+Chris Paddack|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|74|0|0|2|1|93
+Chris Paddack|R|Dansby Swanson|R|Strikeout|B|Curveball|75|0|1|2|14|74
+Chris Paddack|R|Dansby Swanson|R|Strikeout|S|Curveball|76|1|1|2|5|73
+Chris Paddack|R|Dansby Swanson|R|Strikeout|S|Four-Seam Fastball|77|1|2|2|12|96
+Chris Paddack|R|Freddie Freeman|L|Groundout|X|Changeup|78|0|0|0|7|80
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|79|0|0|1|8|93
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|B|Changeup|80|0|1|1|14|82
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|S|Changeup|81|1|1|1|14|82
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|82|1|2|1|11|95
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|F|Changeup|83|2|2|1|7|83
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|84|2|2|1|3|95
+Chris Paddack|R|Ronald Acuna Jr.|R|Strikeout|C|Four-Seam Fastball|85|2|2|1|11|94
+Chris Paddack|R|Nick Markakis|L|Lineout|B|Changeup|86|0|0|2|14|84
+Chris Paddack|R|Nick Markakis|L|Lineout|C|Changeup|87|1|0|2|8|83
+Chris Paddack|R|Nick Markakis|L|Lineout|X|Curveball|88|1|1|2|4|75
+Chris Paddack|R|Miguel Rojas|R|Flyout|X|Four-Seam Fastball|0|0|0|0|2|93
+Chris Paddack|R|Neil Walker|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|14|93
+Chris Paddack|R|Neil Walker|L|Strikeout|B|Curveball|2|0|1|1|13|76
+Chris Paddack|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|3|1|1|1|7|94
+Chris Paddack|R|Neil Walker|L|Strikeout|W|Curveball|4|1|2|1|14|78
+Chris Paddack|R|Garrett Cooper|R|Strikeout|C|Four-Seam Fastball|5|0|0|2|6|94
+Chris Paddack|R|Garrett Cooper|R|Strikeout|F|Four-Seam Fastball|6|0|1|2|13|94
+Chris Paddack|R|Garrett Cooper|R|Strikeout|S|Four-Seam Fastball|7|0|2|2|11|94
+Chris Paddack|R|Brian Anderson|R|Strikeout|C|Four-Seam Fastball|8|0|0|0|4|93
+Chris Paddack|R|Brian Anderson|R|Strikeout|B|Changeup|9|0|1|0|14|85
+Chris Paddack|R|Brian Anderson|R|Strikeout|S|Changeup|10|1|1|0|14|85
+Chris Paddack|R|Brian Anderson|R|Strikeout|B|Changeup|11|1|2|0|14|85
+Chris Paddack|R|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|12|2|2|0|12|94
+Chris Paddack|R|Brian Anderson|R|Strikeout|S|Changeup|13|3|2|0|13|85
+Chris Paddack|R|Starlin Castro|R|Strikeout|C|Four-Seam Fastball|14|0|0|1|8|94
+Chris Paddack|R|Starlin Castro|R|Strikeout|S|Four-Seam Fastball|15|0|1|1|11|94
+Chris Paddack|R|Starlin Castro|R|Strikeout|B|Changeup|16|0|2|1|13|86
+Chris Paddack|R|Starlin Castro|R|Strikeout|S|Four-Seam Fastball|17|1|2|1|11|95
+Chris Paddack|R|Curtis Granderson|L|Flyout|C|Four-Seam Fastball|18|0|0|2|1|94
+Chris Paddack|R|Curtis Granderson|L|Flyout|C|Curveball|19|0|1|2|9|78
+Chris Paddack|R|Curtis Granderson|L|Flyout|B|Four-Seam Fastball|20|0|2|2|11|95
+Chris Paddack|R|Curtis Granderson|L|Flyout|B|Four-Seam Fastball|21|1|2|2|13|96
+Chris Paddack|R|Curtis Granderson|L|Flyout|B|Changeup|22|2|2|2|14|87
+Chris Paddack|R|Curtis Granderson|L|Flyout|X|Changeup|23|3|2|2|4|86
+Chris Paddack|R|Cesar Puello|R|Groundout|B|Changeup|24|0|0|0|13|85
+Chris Paddack|R|Cesar Puello|R|Groundout|F|Four-Seam Fastball|25|1|0|0|2|93
+Chris Paddack|R|Cesar Puello|R|Groundout|X|Four-Seam Fastball|26|1|1|0|11|94
+Chris Paddack|R|Bryan Holaday|R|Pop Out|B|Curveball|27|0|0|1|11|76
+Chris Paddack|R|Bryan Holaday|R|Pop Out|B|Four-Seam Fastball|28|1|0|1|11|93
+Chris Paddack|R|Bryan Holaday|R|Pop Out|C|Four-Seam Fastball|29|2|0|1|5|93
+Chris Paddack|R|Bryan Holaday|R|Pop Out|B|Four-Seam Fastball|30|2|1|1|11|94
+Chris Paddack|R|Bryan Holaday|R|Pop Out|C|Four-Seam Fastball|31|3|1|1|9|93
+Chris Paddack|R|Bryan Holaday|R|Pop Out|X|Four-Seam Fastball|32|3|2|1|2|94
+Chris Paddack|R|Trevor Richards|R|Strikeout|C|Four-Seam Fastball|33|0|0|2|13|93
+Chris Paddack|R|Trevor Richards|R|Strikeout|B|Curveball|34|0|1|2|14|76
+Chris Paddack|R|Trevor Richards|R|Strikeout|T|Four-Seam Fastball|35|1|1|2|6|94
+Chris Paddack|R|Trevor Richards|R|Strikeout|S|Changeup|36|1|2|2|14|85
+Chris Paddack|R|Miguel Rojas|R|Flyout|B|Four-Seam Fastball|37|0|0|0|14|92
+Chris Paddack|R|Miguel Rojas|R|Flyout|B|Four-Seam Fastball|38|1|0|0|12|93
+Chris Paddack|R|Miguel Rojas|R|Flyout|C|Four-Seam Fastball|39|2|0|0|13|92
+Chris Paddack|R|Miguel Rojas|R|Flyout|B|Changeup|40|2|1|0|14|85
+Chris Paddack|R|Miguel Rojas|R|Flyout|X|Four-Seam Fastball|41|3|1|0|5|93
+Chris Paddack|R|Neil Walker|L|Groundout|F|Changeup|42|0|0|1|8|84
+Chris Paddack|R|Neil Walker|L|Groundout|B|Curveball|43|0|1|1|14|77
+Chris Paddack|R|Neil Walker|L|Groundout|C|Four-Seam Fastball|44|1|1|1|14|94
+Chris Paddack|R|Neil Walker|L|Groundout|X|Four-Seam Fastball|45|1|2|1|14|94
+Chris Paddack|R|Garrett Cooper|R|Strikeout|F|Changeup|46|0|0|2|8|85
+Chris Paddack|R|Garrett Cooper|R|Strikeout|S|Four-Seam Fastball|47|0|1|2|11|94
+Chris Paddack|R|Garrett Cooper|R|Strikeout|B|Four-Seam Fastball|48|0|2|2|14|95
+Chris Paddack|R|Garrett Cooper|R|Strikeout|F|Four-Seam Fastball|49|1|2|2|4|95
+Chris Paddack|R|Garrett Cooper|R|Strikeout|S|Changeup|50|1|2|2|13|85
+Chris Paddack|R|Brian Anderson|R|Groundout|C|Changeup|51|0|0|0|8|84
+Chris Paddack|R|Brian Anderson|R|Groundout|B|Changeup|52|0|1|0|14|85
+Chris Paddack|R|Brian Anderson|R|Groundout|B|Changeup|53|1|1|0|14|85
+Chris Paddack|R|Brian Anderson|R|Groundout|C|Four-Seam Fastball|54|2|1|0|9|93
+Chris Paddack|R|Brian Anderson|R|Groundout|B|Four-Seam Fastball|55|2|2|0|11|94
+Chris Paddack|R|Brian Anderson|R|Groundout|X|Changeup|56|3|2|0|14|85
+Chris Paddack|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|57|0|0|1|4|93
+Chris Paddack|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|58|0|1|1|1|93
+Chris Paddack|R|Starlin Castro|R|Strikeout|S|Four-Seam Fastball|59|0|2|1|12|95
+Chris Paddack|R|Curtis Granderson|L|Groundout|C|Changeup|60|0|0|2|9|86
+Chris Paddack|R|Curtis Granderson|L|Groundout|B|Four-Seam Fastball|61|0|1|2|11|94
+Chris Paddack|R|Curtis Granderson|L|Groundout|X|Changeup|62|1|1|2|14|86
+Chris Paddack|R|Cesar Puello|R|Field Error|F|Changeup|63|0|0|0|8|83
+Chris Paddack|R|Cesar Puello|R|Field Error|F|Four-Seam Fastball|64|0|1|0|11|92
+Chris Paddack|R|Cesar Puello|R|Field Error|F|Four-Seam Fastball|65|0|2|0|14|93
+Chris Paddack|R|Cesar Puello|R|Field Error|D|Four-Seam Fastball|66|0|2|0|13|93
+Chris Paddack|R|Bryan Holaday|R|Grounded Into DP|X|Four-Seam Fastball|67|0|0|0|5|93
+Chris Paddack|R|Yadiel Rivera|R|Walk|S|Four-Seam Fastball|68|0|0|2|9|93
+Chris Paddack|R|Yadiel Rivera|R|Walk|B|Changeup|69|0|1|2|14|84
+Chris Paddack|R|Yadiel Rivera|R|Walk|B|Changeup|70|1|1|2|14|85
+Chris Paddack|R|Yadiel Rivera|R|Walk|S|Changeup|71|2|1|2|13|85
+Chris Paddack|R|Yadiel Rivera|R|Walk|B|Four-Seam Fastball|72|2|2|2|13|95
+Chris Paddack|R|Yadiel Rivera|R|Walk|*B|Changeup|73|3|2|2|13|85
+Chris Paddack|R|Miguel Rojas|R|Groundout|F|Changeup|74|0|0|2|5|84
+Chris Paddack|R|Miguel Rojas|R|Groundout|X|Four-Seam Fastball|75|0|1|2|1|94
+Chris Paddack|R|Neil Walker|L|Flyout|C|Four-Seam Fastball|76|0|0|0|7|92
+Chris Paddack|R|Neil Walker|L|Flyout|X|Four-Seam Fastball|77|0|1|0|2|92
+Chris Paddack|R|Garrett Cooper|R|Flyout|X|Changeup|78|0|0|1|7|84
+Chris Paddack|R|Brian Anderson|R|Lineout|C|Four-Seam Fastball|79|0|0|2|3|93
+Chris Paddack|R|Brian Anderson|R|Lineout|C|Four-Seam Fastball|80|0|1|2|1|94
+Chris Paddack|R|Brian Anderson|R|Lineout|X|Four-Seam Fastball|81|0|2|2|2|95
+Chris Paddack|R|Starlin Castro|R|Home Run|B|Changeup|82|0|0|0|13|84
+Chris Paddack|R|Starlin Castro|R|Home Run|E|Four-Seam Fastball|83|1|0|0|7|92
+Chris Paddack|R|Curtis Granderson|L|Lineout|C|Four-Seam Fastball|84|0|0|0|8|93
+Chris Paddack|R|Curtis Granderson|L|Lineout|F|Curveball|85|0|1|0|14|77
+Chris Paddack|R|Curtis Granderson|L|Lineout|F|Four-Seam Fastball|86|0|2|0|11|94
+Chris Paddack|R|Curtis Granderson|L|Lineout|B|Changeup|87|0|2|0|13|86
+Chris Paddack|R|Curtis Granderson|L|Lineout|X|Changeup|88|1|2|0|13|86
+Chris Paddack|R|Cesar Puello|R|Strikeout|B|Four-Seam Fastball|89|0|0|1|11|92
+Chris Paddack|R|Cesar Puello|R|Strikeout|C|Changeup|90|1|0|1|13|85
+Chris Paddack|R|Cesar Puello|R|Strikeout|W|Changeup|91|1|1|1|13|85
+Chris Paddack|R|Cesar Puello|R|Strikeout|F|Four-Seam Fastball|92|1|2|1|1|94
+Chris Paddack|R|Cesar Puello|R|Strikeout|S|Four-Seam Fastball|93|1|2|1|3|95
+Chris Paddack|R|DJ LeMahieu|R|Home Run|C|Four-Seam Fastball|0|0|0|0|12|92
+Chris Paddack|R|DJ LeMahieu|R|Home Run|F|Four-Seam Fastball|1|0|1|0|1|93
+Chris Paddack|R|DJ LeMahieu|R|Home Run|E|Changeup|2|0|2|0|2|83
+Chris Paddack|R|Luke Voit|R|Home Run|S|Changeup|3|0|0|0|1|82
+Chris Paddack|R|Luke Voit|R|Home Run|E|Four-Seam Fastball|4|0|1|0|1|92
+Chris Paddack|R|Kendrys Morales|L|Groundout|C|Four-Seam Fastball|5|0|0|0|11|92
+Chris Paddack|R|Kendrys Morales|L|Groundout|F|Curveball|6|0|1|0|8|75
+Chris Paddack|R|Kendrys Morales|L|Groundout|F|Four-Seam Fastball|7|0|2|0|5|95
+Chris Paddack|R|Kendrys Morales|L|Groundout|B|Changeup|8|0|2|0|13|84
+Chris Paddack|R|Kendrys Morales|L|Groundout|X|Changeup|9|1|2|0|13|83
+Chris Paddack|R|Gleyber Torres|R|Strikeout|C|Curveball|10|0|0|1|13|74
+Chris Paddack|R|Gleyber Torres|R|Strikeout|F|Changeup|11|0|1|1|14|84
+Chris Paddack|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|12|0|2|1|6|94
+Chris Paddack|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|13|0|0|2|7|92
+Chris Paddack|R|Clint Frazier|R|Strikeout|C|Four-Seam Fastball|14|0|0|0|9|92
+Chris Paddack|R|Clint Frazier|R|Strikeout|C|Four-Seam Fastball|15|0|1|0|14|94
+Chris Paddack|R|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|16|0|2|0|14|94
+Chris Paddack|R|Clint Frazier|R|Strikeout|S|Changeup|17|1|2|0|14|84
+Chris Paddack|R|Gio Urshela|R|Home Run|S|Changeup|18|0|0|1|5|83
+Chris Paddack|R|Gio Urshela|R|Home Run|C|Curveball|19|0|1|1|3|76
+Chris Paddack|R|Gio Urshela|R|Home Run|B|Four-Seam Fastball|20|0|2|1|12|94
+Chris Paddack|R|Gio Urshela|R|Home Run|F|Four-Seam Fastball|21|1|2|1|1|93
+Chris Paddack|R|Gio Urshela|R|Home Run|E|Changeup|22|1|2|1|4|84
+Chris Paddack|R|Cameron Maybin|R|Single|D|Four-Seam Fastball|23|0|0|1|9|94
+Chris Paddack|R|Austin Romine|R|Single|C|Four-Seam Fastball|24|0|0|1|14|94
+Chris Paddack|R|Austin Romine|R|Single|*B|Curveball|25|0|1|1|14|77
+Chris Paddack|R|Austin Romine|R|Single|D|Changeup|26|1|1|1|6|83
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|27|0|0|1|14|94
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|28|1|0|1|11|93
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|29|2|0|1|12|93
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|30|3|0|1|12|93
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|S|Changeup|31|3|1|1|13|84
+Chris Paddack|R|DJ LeMahieu|R|Strikeout|C|Four-Seam Fastball|32|3|2|1|8|94
+Chris Paddack|R|Luke Voit|R|Groundout|B|Curveball|33|0|0|2|14|76
+Chris Paddack|R|Luke Voit|R|Groundout|F|Changeup|34|1|0|2|5|84
+Chris Paddack|R|Luke Voit|R|Groundout|*B|Curveball|35|1|1|2|14|77
+Chris Paddack|R|Luke Voit|R|Groundout|B|Changeup|36|2|1|2|13|85
+Chris Paddack|R|Luke Voit|R|Groundout|X|Changeup|37|3|1|2|8|85
+Chris Paddack|R|Kendrys Morales|L|Groundout|F|Four-Seam Fastball|38|0|0|0|13|91
+Chris Paddack|R|Kendrys Morales|L|Groundout|B|Four-Seam Fastball|39|0|1|0|14|91
+Chris Paddack|R|Kendrys Morales|L|Groundout|C|Changeup|40|1|1|0|13|83
+Chris Paddack|R|Kendrys Morales|L|Groundout|F|Four-Seam Fastball|41|1|2|0|13|93
+Chris Paddack|R|Kendrys Morales|L|Groundout|F|Four-Seam Fastball|42|1|2|0|11|94
+Chris Paddack|R|Kendrys Morales|L|Groundout|X|Changeup|43|1|2|0|13|84
+Chris Paddack|R|Gleyber Torres|R|Groundout|X|Four-Seam Fastball|44|0|0|1|5|93
+Chris Paddack|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|45|0|0|2|11|93
+Chris Paddack|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|46|0|1|2|14|93
+Chris Paddack|R|Brett Gardner|L|Strikeout|C|Curveball|47|1|1|2|4|75
+Chris Paddack|R|Brett Gardner|L|Strikeout|S|Four-Seam Fastball|48|1|2|2|12|95
+Chris Paddack|R|Clint Frazier|R|Hit By Pitch|S|Changeup|49|0|0|0|9|83
+Chris Paddack|R|Clint Frazier|R|Hit By Pitch|F|Changeup|50|0|1|0|7|82
+Chris Paddack|R|Clint Frazier|R|Hit By Pitch|B|Four-Seam Fastball|51|0|2|0|12|94
+Chris Paddack|R|Clint Frazier|R|Hit By Pitch|H|Four-Seam Fastball|52|1|2|0|11|93
+Chris Paddack|R|Gio Urshela|R|Lineout|B|Curveball|53|0|0|0|14|75
+Chris Paddack|R|Gio Urshela|R|Lineout|X|Curveball|54|1|0|0|14|75
+Chris Paddack|R|Cameron Maybin|R|Pop Out|C|Curveball|55|0|0|1|2|74
+Chris Paddack|R|Cameron Maybin|R|Pop Out|C|Changeup|56|0|1|1|13|84
+Chris Paddack|R|Cameron Maybin|R|Pop Out|*B|Curveball|57|0|2|1|14|77
+Chris Paddack|R|Cameron Maybin|R|Pop Out|F|Four-Seam Fastball|58|1|2|1|4|95
+Chris Paddack|R|Cameron Maybin|R|Pop Out|F|Changeup|59|1|2|1|13|84
+Chris Paddack|R|Cameron Maybin|R|Pop Out|*B|Curveball|60|1|2|1|14|77
+Chris Paddack|R|Cameron Maybin|R|Pop Out|X|Four-Seam Fastball|61|2|2|1|1|95
+Chris Paddack|R|Austin Romine|R|Strikeout|F|Changeup|62|0|0|2|14|83
+Chris Paddack|R|Austin Romine|R|Strikeout|S|Four-Seam Fastball|63|0|1|2|11|94
+Chris Paddack|R|Austin Romine|R|Strikeout|S|Four-Seam Fastball|64|0|2|2|1|96
+Chris Paddack|R|DJ LeMahieu|R|Walk|B|Curveball|65|0|0|0|14|74
+Chris Paddack|R|DJ LeMahieu|R|Walk|C|Four-Seam Fastball|66|1|0|0|14|92
+Chris Paddack|R|DJ LeMahieu|R|Walk|F|Curveball|67|1|1|0|5|74
+Chris Paddack|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|68|1|2|0|11|94
+Chris Paddack|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|69|2|2|0|14|94
+Chris Paddack|R|DJ LeMahieu|R|Walk|B|Changeup|70|3|2|0|11|83
+Chris Paddack|R|Luke Voit|R|Fielders Choice|B|Four-Seam Fastball|71|0|0|0|12|92
+Chris Paddack|R|Luke Voit|R|Fielders Choice|F|Changeup|72|1|0|0|4|83
+Chris Paddack|R|Luke Voit|R|Fielders Choice|B|Changeup|73|1|1|0|13|84
+Chris Paddack|R|Luke Voit|R|Fielders Choice|D|Changeup|74|2|1|0|6|83
+Chris Paddack|R|Kendrys Morales|L|Flyout|C|Four-Seam Fastball|75|0|0|0|1|93
+Chris Paddack|R|Kendrys Morales|L|Flyout|T|Changeup|76|0|1|0|8|83
+Chris Paddack|R|Kendrys Morales|L|Flyout|X|Changeup|77|0|2|0|13|83
+Chris Paddack|R|Gleyber Torres|R|Single|D|Curveball|78|0|0|1|9|74
+Chris Paddack|R|Brett Gardner|L|Sac Fly|F|Curveball|79|0|0|1|14|75
+Chris Paddack|R|Brett Gardner|L|Sac Fly|E|Changeup|80|0|1|1|13|83
+Chris Paddack|R|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|81|0|0|2|3|94
+Chris Paddack|R|Clint Frazier|R|Strikeout|F|Four-Seam Fastball|82|1|0|2|4|92
+Chris Paddack|R|Clint Frazier|R|Strikeout|F|Curveball|83|1|1|2|14|75
+Chris Paddack|R|Clint Frazier|R|Strikeout|B|Four-Seam Fastball|84|1|2|2|12|94
+Chris Paddack|R|Clint Frazier|R|Strikeout|S|Four-Seam Fastball|85|2|2|2|5|95
+Chris Paddack|R|Trent Grisham|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|1|91
+Chris Paddack|R|Trent Grisham|L|Strikeout|S|Four-Seam Fastball|1|0|1|0|11|93
+Chris Paddack|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|94
+Chris Paddack|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|94
+Chris Paddack|R|Trent Grisham|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|11|94
+Chris Paddack|R|Trent Grisham|L|Strikeout|F|Changeup|5|2|2|0|13|84
+Chris Paddack|R|Trent Grisham|L|Strikeout|B|Four-Seam Fastball|6|2|2|0|11|94
+Chris Paddack|R|Trent Grisham|L|Strikeout|F|Changeup|7|3|2|0|13|84
+Chris Paddack|R|Trent Grisham|L|Strikeout|F|Four-Seam Fastball|8|3|2|0|1|94
+Chris Paddack|R|Trent Grisham|L|Strikeout|C|Four-Seam Fastball|9|3|2|0|7|95
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|10|0|0|1|11|94
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|B|Changeup|11|0|1|1|14|84
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|12|1|1|1|11|95
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|13|2|1|1|12|94
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|14|2|2|1|12|95
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|T|Four-Seam Fastball|15|3|2|1|11|95
+Chris Paddack|R|Mike Moustakas|L|Strikeout|S|Four-Seam Fastball|16|0|0|2|1|94
+Chris Paddack|R|Mike Moustakas|L|Strikeout|B|Four-Seam Fastball|17|0|1|2|12|94
+Chris Paddack|R|Mike Moustakas|L|Strikeout|B|Curveball|18|1|1|2|14|79
+Chris Paddack|R|Mike Moustakas|L|Strikeout|C|Changeup|19|2|1|2|7|85
+Chris Paddack|R|Mike Moustakas|L|Strikeout|B|Changeup|20|2|2|2|13|85
+Chris Paddack|R|Mike Moustakas|L|Strikeout|S|Changeup|21|3|2|2|13|85
+Chris Paddack|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|22|0|0|0|3|91
+Chris Paddack|R|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|23|0|1|0|11|93
+Chris Paddack|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|24|1|1|0|2|93
+Chris Paddack|R|Ryan Braun|R|Strikeout|S|Four-Seam Fastball|25|1|2|0|11|94
+Chris Paddack|R|Keston Hiura|R|Groundout|X|Curveball|26|0|0|1|8|76
+Chris Paddack|R|Eric Thames|L|Flyout|B|Four-Seam Fastball|27|0|0|2|11|94
+Chris Paddack|R|Eric Thames|L|Flyout|X|Four-Seam Fastball|28|1|0|2|4|94
+Chris Paddack|R|Lorenzo Cain|R|Home Run|C|Four-Seam Fastball|29|0|0|0|6|92
+Chris Paddack|R|Lorenzo Cain|R|Home Run|S|Four-Seam Fastball|30|0|1|0|11|93
+Chris Paddack|R|Lorenzo Cain|R|Home Run|F|Four-Seam Fastball|31|0|2|0|11|94
+Chris Paddack|R|Lorenzo Cain|R|Home Run|F|Four-Seam Fastball|32|0|2|0|12|94
+Chris Paddack|R|Lorenzo Cain|R|Home Run|B|Four-Seam Fastball|33|0|2|0|11|94
+Chris Paddack|R|Lorenzo Cain|R|Home Run|B|Four-Seam Fastball|34|1|2|0|11|94
+Chris Paddack|R|Lorenzo Cain|R|Home Run|E|Four-Seam Fastball|35|2|2|0|3|94
+Chris Paddack|R|Gio Gonzalez|R|Flyout|C|Four-Seam Fastball|36|0|0|0|12|94
+Chris Paddack|R|Gio Gonzalez|R|Flyout|S|Four-Seam Fastball|37|0|1|0|12|93
+Chris Paddack|R|Gio Gonzalez|R|Flyout|B|Four-Seam Fastball|38|0|2|0|12|94
+Chris Paddack|R|Gio Gonzalez|R|Flyout|X|Four-Seam Fastball|39|1|2|0|11|94
+Chris Paddack|R|Cory Spangenberg|L|Strikeout|F|Four-Seam Fastball|40|0|0|1|11|93
+Chris Paddack|R|Cory Spangenberg|L|Strikeout|B|Curveball|41|0|1|1|14|77
+Chris Paddack|R|Cory Spangenberg|L|Strikeout|B|Changeup|42|1|1|1|14|83
+Chris Paddack|R|Cory Spangenberg|L|Strikeout|F|Changeup|43|2|1|1|14|84
+Chris Paddack|R|Cory Spangenberg|L|Strikeout|S|Four-Seam Fastball|44|2|2|1|12|94
+Chris Paddack|R|Trent Grisham|L|Groundout|F|Four-Seam Fastball|45|0|0|2|13|92
+Chris Paddack|R|Trent Grisham|L|Groundout|B|Curveball|46|0|1|2|14|77
+Chris Paddack|R|Trent Grisham|L|Groundout|B|Four-Seam Fastball|47|1|1|2|12|93
+Chris Paddack|R|Trent Grisham|L|Groundout|C|Four-Seam Fastball|48|2|1|2|12|93
+Chris Paddack|R|Trent Grisham|L|Groundout|X|Four-Seam Fastball|49|2|2|2|6|93
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|C|Changeup|50|0|0|0|9|83
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|51|0|1|0|12|92
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|52|1|1|0|11|92
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|53|2|1|0|2|92
+Chris Paddack|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|54|2|2|0|1|93
+Chris Paddack|R|Mike Moustakas|L|Flyout|C|Curveball|55|0|0|1|14|76
+Chris Paddack|R|Mike Moustakas|L|Flyout|B|Four-Seam Fastball|56|0|1|1|12|93
+Chris Paddack|R|Mike Moustakas|L|Flyout|S|Four-Seam Fastball|57|1|1|1|3|93
+Chris Paddack|R|Mike Moustakas|L|Flyout|B|Changeup|58|1|2|1|13|84
+Chris Paddack|R|Mike Moustakas|L|Flyout|F|Four-Seam Fastball|59|2|2|1|5|93
+Chris Paddack|R|Mike Moustakas|L|Flyout|X|Four-Seam Fastball|60|2|2|1|2|93
+Chris Paddack|R|Ryan Braun|R|Strikeout|B|Changeup|61|0|0|2|14|83
+Chris Paddack|R|Ryan Braun|R|Strikeout|F|Changeup|62|1|0|2|8|84
+Chris Paddack|R|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|63|1|1|2|6|93
+Chris Paddack|R|Ryan Braun|R|Strikeout|C|Changeup|64|1|2|2|7|83
+Chris Paddack|R|Keston Hiura|R|Groundout|B|Changeup|65|0|0|0|14|83
+Chris Paddack|R|Keston Hiura|R|Groundout|B|Four-Seam Fastball|66|1|0|0|11|92
+Chris Paddack|R|Keston Hiura|R|Groundout|F|Four-Seam Fastball|67|2|0|0|4|93
+Chris Paddack|R|Keston Hiura|R|Groundout|C|Changeup|68|2|1|0|8|83
+Chris Paddack|R|Keston Hiura|R|Groundout|X|Four-Seam Fastball|69|2|2|0|12|94
+Chris Paddack|R|Eric Thames|L|Walk|S|Changeup|70|0|0|1|1|84
+Chris Paddack|R|Eric Thames|L|Walk|B|Four-Seam Fastball|71|0|1|1|11|93
+Chris Paddack|R|Eric Thames|L|Walk|F|Four-Seam Fastball|72|1|1|1|11|93
+Chris Paddack|R|Eric Thames|L|Walk|B|Four-Seam Fastball|73|1|2|1|11|94
+Chris Paddack|R|Eric Thames|L|Walk|B|Changeup|74|2|2|1|14|85
+Chris Paddack|R|Eric Thames|L|Walk|F|Changeup|75|3|2|1|13|85
+Chris Paddack|R|Eric Thames|L|Walk|B|Changeup|76|3|2|1|13|85
+Chris Paddack|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|77|0|0|1|5|93
+Chris Paddack|R|Lorenzo Cain|R|Strikeout|S|Changeup|78|0|1|1|9|83
+Chris Paddack|R|Lorenzo Cain|R|Strikeout|B|Four-Seam Fastball|79|0|2|1|12|95
+Chris Paddack|R|Lorenzo Cain|R|Strikeout|T|Changeup|80|1|2|1|13|84
+Chris Paddack|R|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|81|0|0|2|12|94
+Chris Paddack|R|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|82|0|1|2|6|94
+Chris Paddack|R|Tyler Austin|R|Strikeout|S|Four-Seam Fastball|83|0|2|2|1|94

@@ -1,0 +1,693 @@
+Gavin Floyd|R|Josh Donaldson|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|94
+Gavin Floyd|R|Josh Donaldson|R|Groundout|F|Two-Seam Fastball|1|0|1|0|4|94
+Gavin Floyd|R|Josh Donaldson|R|Groundout|F|Curveball|2|0|2|0|11|82
+Gavin Floyd|R|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|3|0|2|0|3|94
+Gavin Floyd|R|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|4|0|2|0|11|92
+Gavin Floyd|R|Josh Donaldson|R|Groundout|B|Curveball|5|0|2|0|13|83
+Gavin Floyd|R|Josh Donaldson|R|Groundout|X|Four-Seam Fastball|6|1|2|0|8|92
+Gavin Floyd|R|Jose Bautista|R|Lineout|S|Four-Seam Fastball|7|0|0|1|2|95
+Gavin Floyd|R|Jose Bautista|R|Lineout|X|Four-Seam Fastball|8|0|1|1|2|94
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|B|Four-Seam Fastball|9|0|0|2|11|91
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|C|Four-Seam Fastball|10|1|0|2|2|94
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|S|Two-Seam Fastball|11|1|1|2|13|94
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|B|Curveball|12|1|2|2|14|81
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|B|Four-Seam Fastball|13|2|2|2|14|94
+Gavin Floyd|R|Edwin Encarnacion|R|Groundout|X|Four-Seam Fastball|14|3|2|2|4|92
+Gavin Floyd|R|Ian Kinsler|R|Flyout|F|Two-Seam Fastball|0|0|0|0|11|92
+Gavin Floyd|R|Ian Kinsler|R|Flyout|X|Two-Seam Fastball|1|0|1|0|13|93
+Gavin Floyd|R|Miguel Cabrera|R|Flyout|B|Two-Seam Fastball|2|0|0|1|13|93
+Gavin Floyd|R|Miguel Cabrera|R|Flyout|C|Curveball|3|1|0|1|9|81
+Gavin Floyd|R|Miguel Cabrera|R|Flyout|F|Two-Seam Fastball|4|1|1|1|13|93
+Gavin Floyd|R|Miguel Cabrera|R|Flyout|X|Curveball|5|1|2|1|14|82
+Gavin Floyd|R|J.D. Martinez|R|Hit By Pitch|F|Cutter|6|0|0|2|9|88
+Gavin Floyd|R|J.D. Martinez|R|Hit By Pitch|H|Four-Seam Fastball|7|0|1|2|11|91
+Gavin Floyd|R|Victor Martinez|L|Single|B|Four-Seam Fastball|8|0|0|2|13|93
+Gavin Floyd|R|Victor Martinez|L|Single|D|Two-Seam Fastball|9|1|0|2|13|91
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|B|Cutter|10|0|0|2|14|87
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|B|Four-Seam Fastball|11|1|0|2|14|90
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|*B|Four-Seam Fastball|12|2|0|2|14|89
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|C|Four-Seam Fastball|13|3|0|2|9|91
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|S|Four-Seam Fastball|14|3|1|2|5|92
+Gavin Floyd|R|Nicholas Castellanos|R|Groundout|X|Four-Seam Fastball|15|3|2|2|6|93
+Gavin Floyd|R|Tyler Collins|L|Lineout|B|Four-Seam Fastball|16|0|0|0|14|91
+Gavin Floyd|R|Tyler Collins|L|Lineout|S|Curveball|17|1|0|0|14|81
+Gavin Floyd|R|Tyler Collins|L|Lineout|B|Curveball|18|1|1|0|14|80
+Gavin Floyd|R|Tyler Collins|L|Lineout|B|Four-Seam Fastball|19|2|1|0|11|89
+Gavin Floyd|R|Tyler Collins|L|Lineout|C|Four-Seam Fastball|20|3|1|0|11|93
+Gavin Floyd|R|Tyler Collins|L|Lineout|X|Four-Seam Fastball|21|3|2|0|13|92
+Gavin Floyd|R|James McCann|R|Groundout|B|Curveball|22|0|0|1|11|82
+Gavin Floyd|R|James McCann|R|Groundout|B|Cutter|23|1|0|1|14|89
+Gavin Floyd|R|James McCann|R|Groundout|X|Four-Seam Fastball|24|2|0|1|13|92
+Gavin Floyd|R|Andrew Romine|L|Walk|C|Four-Seam Fastball|25|0|0|2|8|91
+Gavin Floyd|R|Andrew Romine|L|Walk|B|Two-Seam Fastball|26|0|1|2|14|91
+Gavin Floyd|R|Andrew Romine|L|Walk|C|Four-Seam Fastball|27|1|1|2|7|93
+Gavin Floyd|R|Andrew Romine|L|Walk|B|Curveball|28|1|2|2|9|80
+Gavin Floyd|R|Andrew Romine|L|Walk|B|Four-Seam Fastball|29|2|2|2|13|92
+Gavin Floyd|R|Andrew Romine|L|Walk|F|Four-Seam Fastball|30|3|2|2|8|92
+Gavin Floyd|R|Andrew Romine|L|Walk|B|Four-Seam Fastball|31|3|2|2|11|91
+Gavin Floyd|R|Rajai Davis|R|Lineout|B|Two-Seam Fastball|32|0|0|2|11|91
+Gavin Floyd|R|Rajai Davis|R|Lineout|X|Four-Seam Fastball|33|1|0|2|12|90
+Gavin Floyd|R|Rob Brantly|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|92
+Gavin Floyd|R|Rob Brantly|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|92
+Gavin Floyd|R|Rob Brantly|L|Walk|F|Four-Seam Fastball|2|2|0|0|7|94
+Gavin Floyd|R|Rob Brantly|L|Walk|B|Two-Seam Fastball|3|2|1|0|11|87
+Gavin Floyd|R|Rob Brantly|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|92
+Gavin Floyd|R|Mike Olt|R|Pop Out|S|Four-Seam Fastball|5|0|0|0|14|89
+Gavin Floyd|R|Mike Olt|R|Pop Out|T|Four-Seam Fastball|6|0|1|0|14|89
+Gavin Floyd|R|Mike Olt|R|Pop Out|X|Four-Seam Fastball|7|0|2|0|11|91
+Gavin Floyd|R|Yolmer Sanchez|L|Strikeout|C|Four-Seam Fastball|8|0|0|1|13|89
+Gavin Floyd|R|Yolmer Sanchez|L|Strikeout|S|Changeup|9|0|1|1|11|85
+Gavin Floyd|R|Yolmer Sanchez|L|Strikeout|*B|Curveball|10|0|2|1|14|80
+Gavin Floyd|R|Yolmer Sanchez|L|Strikeout|W|Four-Seam Fastball|11|1|2|1|14|89
+Gavin Floyd|R|Adam Eaton|L|Groundout|X|Two-Seam Fastball|12|0|0|2|13|91
+Gavin Floyd|R|Nicholas Castellanos|R|Single|D|Two-Seam Fastball|0|0|0|0|7|92
+Gavin Floyd|R|Alex Avila|L|Walk|B|Two-Seam Fastball|1|0|0|0|11|92
+Gavin Floyd|R|Alex Avila|L|Walk|T|Two-Seam Fastball|2|1|0|0|4|92
+Gavin Floyd|R|Alex Avila|L|Walk|C|Two-Seam Fastball|3|1|1|0|11|93
+Gavin Floyd|R|Alex Avila|L|Walk|B|Curveball|4|1|2|0|14|82
+Gavin Floyd|R|Alex Avila|L|Walk|B|Curveball|5|2|2|0|13|80
+Gavin Floyd|R|Alex Avila|L|Walk|F|Four-Seam Fastball|6|3|2|0|2|92
+Gavin Floyd|R|Alex Avila|L|Walk|B|Two-Seam Fastball|7|3|2|0|11|93
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|B|Four-Seam Fastball|8|0|0|0|12|89
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|F|Four-Seam Fastball|9|1|0|0|2|91
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|B|Cutter|10|1|1|0|11|87
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|B|Four-Seam Fastball|11|2|1|0|12|92
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|F|Four-Seam Fastball|12|3|1|0|2|91
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|F|Four-Seam Fastball|13|3|2|0|5|93
+Gavin Floyd|R|Josh Wilson|R|Grounded Into DP|X|Four-Seam Fastball|14|3|2|0|9|91
+Gavin Floyd|R|Andrew Romine|L|Single|E|Four-Seam Fastball|15|0|0|2|5|92
+Gavin Floyd|R|Rajai Davis|R|Strikeout|F|Four-Seam Fastball|16|0|0|2|2|89
+Gavin Floyd|R|Rajai Davis|R|Strikeout|F|Two-Seam Fastball|17|0|1|2|8|92
+Gavin Floyd|R|Rajai Davis|R|Strikeout|S|Curveball|18|0|2|2|4|80
+Gavin Floyd|R|Tyler Collins|L|Groundout|C|Curveball|19|0|0|0|8|80
+Gavin Floyd|R|Tyler Collins|L|Groundout|B|Changeup|20|0|1|0|13|88
+Gavin Floyd|R|Tyler Collins|L|Groundout|C|Curveball|21|1|1|0|4|80
+Gavin Floyd|R|Tyler Collins|L|Groundout|B|Four-Seam Fastball|22|1|2|0|11|91
+Gavin Floyd|R|Tyler Collins|L|Groundout|X|Cutter|23|2|2|0|6|87
+Gavin Floyd|R|Miguel Cabrera|R|Groundout|X|Cutter|24|0|0|1|8|87
+Gavin Floyd|R|J.D. Martinez|R|Single|S|Cutter|25|0|0|2|14|88
+Gavin Floyd|R|J.D. Martinez|R|Single|B|Cutter|26|0|1|2|14|88
+Gavin Floyd|R|J.D. Martinez|R|Single|B|Cutter|27|1|1|2|14|88
+Gavin Floyd|R|J.D. Martinez|R|Single|C|Four-Seam Fastball|28|2|1|2|14|92
+Gavin Floyd|R|J.D. Martinez|R|Single|F|Four-Seam Fastball|29|2|2|2|12|93
+Gavin Floyd|R|J.D. Martinez|R|Single|D|Cutter|30|2|2|2|9|87
+Gavin Floyd|R|Victor Martinez|L|Groundout|B|Two-Seam Fastball|31|0|0|2|11|92
+Gavin Floyd|R|Victor Martinez|L|Groundout|B|Four-Seam Fastball|32|1|0|2|11|91
+Gavin Floyd|R|Victor Martinez|L|Groundout|B|Four-Seam Fastball|33|2|0|2|11|92
+Gavin Floyd|R|Victor Martinez|L|Groundout|C|Four-Seam Fastball|34|3|0|2|1|93
+Gavin Floyd|R|Victor Martinez|L|Groundout|F|Four-Seam Fastball|35|3|1|2|12|92
+Gavin Floyd|R|Victor Martinez|L|Groundout|F|Four-Seam Fastball|36|3|2|2|3|91
+Gavin Floyd|R|Victor Martinez|L|Groundout|X|Four-Seam Fastball|37|3|2|2|11|93
+Gavin Floyd|R|Jarrod Dyson|L|Pop Out|F|Four-Seam Fastball|0|0|0|0|4|94
+Gavin Floyd|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|1|0|1|0|12|92
+Gavin Floyd|R|Ben Zobrist|L|Strikeout|C|Four-Seam Fastball|2|0|0|1|1|92
+Gavin Floyd|R|Ben Zobrist|L|Strikeout|C|Changeup|3|0|1|1|11|87
+Gavin Floyd|R|Ben Zobrist|L|Strikeout|F|Four-Seam Fastball|4|0|2|1|13|94
+Gavin Floyd|R|Ben Zobrist|L|Strikeout|B|Curveball|5|0|2|1|11|80
+Gavin Floyd|R|Ben Zobrist|L|Strikeout|S|Curveball|6|1|2|1|8|81
+Gavin Floyd|R|Mike Moustakas|L|Strikeout|B|Four-Seam Fastball|7|0|0|2|12|93
+Gavin Floyd|R|Mike Moustakas|L|Strikeout|F|Changeup|8|1|0|2|8|87
+Gavin Floyd|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|9|1|1|2|11|94
+Gavin Floyd|R|Mike Moustakas|L|Strikeout|T|Four-Seam Fastball|10|1|2|2|11|93
+Gavin Floyd|R|Kendrys Morales|L|Strikeout|T|Four-Seam Fastball|11|0|0|0|1|89
+Gavin Floyd|R|Kendrys Morales|L|Strikeout|F|Two-Seam Fastball|12|0|1|0|13|92
+Gavin Floyd|R|Kendrys Morales|L|Strikeout|S|Curveball|13|0|2|0|13|80
+Gavin Floyd|R|Eric Hosmer|L|Groundout|B|Changeup|14|0|0|1|9|85
+Gavin Floyd|R|Eric Hosmer|L|Groundout|B|Four-Seam Fastball|15|1|0|1|14|91
+Gavin Floyd|R|Eric Hosmer|L|Groundout|X|Four-Seam Fastball|16|2|0|1|8|89
+Gavin Floyd|R|Salvador Perez|R|Single|B|Four-Seam Fastball|17|0|0|2|14|92
+Gavin Floyd|R|Salvador Perez|R|Single|C|Cutter|18|1|0|2|9|89
+Gavin Floyd|R|Salvador Perez|R|Single|D|Four-Seam Fastball|19|1|1|2|2|90
+Gavin Floyd|R|Alex Rios|R|Double|*B|Four-Seam Fastball|20|0|0|2|14|90
+Gavin Floyd|R|Alex Rios|R|Double|B|Four-Seam Fastball|21|1|0|2|3|91
+Gavin Floyd|R|Alex Rios|R|Double|S|Cutter|22|2|0|2|14|88
+Gavin Floyd|R|Alex Rios|R|Double|D|Four-Seam Fastball|23|2|1|2|2|91
+Gavin Floyd|R|Omar Infante|R|Single|C|Cutter|24|0|0|2|14|87
+Gavin Floyd|R|Omar Infante|R|Single|B|Four-Seam Fastball|25|0|1|2|14|89
+Gavin Floyd|R|Omar Infante|R|Single|B|Four-Seam Fastball|26|1|1|2|12|92
+Gavin Floyd|R|Omar Infante|R|Single|S|Cutter|27|2|1|2|9|89
+Gavin Floyd|R|Omar Infante|R|Single|B|Four-Seam Fastball|28|2|2|2|12|90
+Gavin Floyd|R|Omar Infante|R|Single|E|Four-Seam Fastball|29|3|2|2|5|92
+Gavin Floyd|R|Alcides Escobar|R|Single|B|Two-Seam Fastball|30|0|0|2|13|91
+Gavin Floyd|R|Alcides Escobar|R|Single|*B|Four-Seam Fastball|31|1|0|2|13|89
+Gavin Floyd|R|Alcides Escobar|R|Single|D|Four-Seam Fastball|32|2|0|2|7|88
+Gavin Floyd|R|Kurt Suzuki|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|94
+Gavin Floyd|R|Kurt Suzuki|R|Groundout|X|Two-Seam Fastball|1|0|1|0|7|93
+Gavin Floyd|R|Eduardo Escobar|L|Walk|F|Two-Seam Fastball|2|0|0|1|4|92
+Gavin Floyd|R|Eduardo Escobar|L|Walk|B|Changeup|3|0|1|1|11|86
+Gavin Floyd|R|Eduardo Escobar|L|Walk|C|Curveball|4|1|1|1|5|80
+Gavin Floyd|R|Eduardo Escobar|L|Walk|B|Curveball|5|1|2|1|14|80
+Gavin Floyd|R|Eduardo Escobar|L|Walk|B|Two-Seam Fastball|6|2|2|1|11|91
+Gavin Floyd|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|7|3|2|1|11|90
+Gavin Floyd|R|Aaron Hicks|L|Strikeout|C|Four-Seam Fastball|8|0|0|1|11|90
+Gavin Floyd|R|Aaron Hicks|L|Strikeout|C|Four-Seam Fastball|9|0|1|1|8|90
+Gavin Floyd|R|Aaron Hicks|L|Strikeout|*B|Curveball|10|0|2|1|14|77
+Gavin Floyd|R|Aaron Hicks|L|Strikeout|S|Curveball|11|1|2|1|13|78
+Gavin Floyd|R|Brian Dozier|R|Forceout|X|Slider|12|0|0|2|3|86
+Gavin Floyd|R|Joe Mauer|L|Groundout|C|Four-Seam Fastball|13|0|0|0|4|91
+Gavin Floyd|R|Joe Mauer|L|Groundout|B|Four-Seam Fastball|14|0|1|0|14|91
+Gavin Floyd|R|Joe Mauer|L|Groundout|B|Changeup|15|1|1|0|13|87
+Gavin Floyd|R|Joe Mauer|L|Groundout|X|Slider|16|2|1|0|6|89
+Gavin Floyd|R|Miguel Sano|R|Single|C|Slider|17|0|0|1|9|88
+Gavin Floyd|R|Miguel Sano|R|Single|D|Slider|18|0|1|1|6|85
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|B|Four-Seam Fastball|19|0|0|1|12|90
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|C|Slider|20|1|0|1|11|86
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|B|Slider|21|1|1|1|12|87
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|F|Four-Seam Fastball|22|2|1|1|5|90
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|F|Curveball|23|2|2|1|1|79
+Gavin Floyd|R|Trevor Plouffe|R|Flyout|X|Slider|24|2|2|1|14|90
+Gavin Floyd|R|Eddie Rosario|L|Groundout|C|Two-Seam Fastball|25|0|0|2|7|89
+Gavin Floyd|R|Eddie Rosario|L|Groundout|B|Curveball|26|0|1|2|11|77
+Gavin Floyd|R|Eddie Rosario|L|Groundout|F|Changeup|27|1|1|2|11|86
+Gavin Floyd|R|Eddie Rosario|L|Groundout|X|Curveball|28|1|2|2|13|78
+Gavin Floyd|R|Torii Hunter|R|Groundout|B|Slider|29|0|0|0|13|88
+Gavin Floyd|R|Torii Hunter|R|Groundout|F|Slider|30|1|0|0|14|89
+Gavin Floyd|R|Torii Hunter|R|Groundout|C|Curveball|31|1|1|0|4|78
+Gavin Floyd|R|Torii Hunter|R|Groundout|B|Slider|32|1|2|0|14|88
+Gavin Floyd|R|Torii Hunter|R|Groundout|F|Slider|33|2|2|0|1|89
+Gavin Floyd|R|Torii Hunter|R|Groundout|X|Four-Seam Fastball|34|2|2|0|14|91
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|B|Four-Seam Fastball|35|0|0|1|14|90
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|F|Four-Seam Fastball|36|1|0|1|5|89
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|F|Slider|37|1|1|1|14|85
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|B|Curveball|38|1|2|1|14|77
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|F|Slider|39|2|2|1|14|89
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|B|Curveball|40|2|2|1|14|77
+Gavin Floyd|R|Kurt Suzuki|R|Flyout|X|Four-Seam Fastball|41|3|2|1|2|91
+Gavin Floyd|R|Brian Dozier|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|91
+Gavin Floyd|R|Brian Dozier|R|Flyout|B|Cutter|1|1|0|0|12|88
+Gavin Floyd|R|Brian Dozier|R|Flyout|C|Four-Seam Fastball|2|2|0|0|1|91
+Gavin Floyd|R|Brian Dozier|R|Flyout|X|Four-Seam Fastball|3|2|1|0|3|89
+Gavin Floyd|R|Joe Mauer|L|Groundout|F|Four-Seam Fastball|4|0|0|1|1|92
+Gavin Floyd|R|Joe Mauer|L|Groundout|B|Four-Seam Fastball|5|0|1|1|12|89
+Gavin Floyd|R|Joe Mauer|L|Groundout|B|Changeup|6|1|1|1|13|86
+Gavin Floyd|R|Joe Mauer|L|Groundout|X|Two-Seam Fastball|7|2|1|1|13|94
+Gavin Floyd|R|Miguel Sano|R|Lineout|B|Cutter|8|0|0|2|14|88
+Gavin Floyd|R|Miguel Sano|R|Lineout|B|Four-Seam Fastball|9|1|0|2|14|91
+Gavin Floyd|R|Miguel Sano|R|Lineout|X|Four-Seam Fastball|10|2|0|2|6|90
+Gavin Floyd|R|Trevor Plouffe|R|Lineout|X|Four-Seam Fastball|11|0|0|0|5|91
+Gavin Floyd|R|Eddie Rosario|L|Flyout|C|Two-Seam Fastball|12|0|0|1|8|90
+Gavin Floyd|R|Eddie Rosario|L|Flyout|B|Changeup|13|0|1|1|11|85
+Gavin Floyd|R|Eddie Rosario|L|Flyout|X|Changeup|14|1|1|1|2|85
+Gavin Floyd|R|Torii Hunter|R|Groundout|F|Four-Seam Fastball|15|0|0|2|4|92
+Gavin Floyd|R|Torii Hunter|R|Groundout|F|Four-Seam Fastball|16|0|1|2|3|92
+Gavin Floyd|R|Torii Hunter|R|Groundout|X|Curveball|17|0|2|2|9|81
+Gavin Floyd|R|Eduardo Nunez|R|Double|C|Four-Seam Fastball|18|0|0|0|9|91
+Gavin Floyd|R|Eduardo Nunez|R|Double|B|Curveball|19|0|1|0|14|80
+Gavin Floyd|R|Eduardo Nunez|R|Double|F|Four-Seam Fastball|20|1|1|0|12|91
+Gavin Floyd|R|Eduardo Nunez|R|Double|B|Four-Seam Fastball|21|1|2|0|11|91
+Gavin Floyd|R|Eduardo Nunez|R|Double|B|Four-Seam Fastball|22|2|2|0|14|92
+Gavin Floyd|R|Eduardo Nunez|R|Double|D|Cutter|23|3|2|0|12|89
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|F|Four-Seam Fastball|24|0|0|0|3|91
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|S|Four-Seam Fastball|25|0|1|0|1|91
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|F|Curveball|26|0|2|0|14|79
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|F|Cutter|27|0|2|0|14|86
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|*B|Curveball|28|0|2|0|13|80
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|B|Four-Seam Fastball|29|1|2|0|14|91
+Gavin Floyd|R|Kurt Suzuki|R|Strikeout|S|Cutter|30|2|2|0|3|88
+Gavin Floyd|R|Byron Buxton|R|Single|C|Four-Seam Fastball|31|0|0|1|6|90
+Gavin Floyd|R|Byron Buxton|R|Single|B|Cutter|32|0|1|1|14|88
+Gavin Floyd|R|Byron Buxton|R|Single|E|Four-Seam Fastball|33|1|1|1|9|91
+Gavin Floyd|R|Brian Dozier|R|Flyout|B|Cutter|34|0|0|1|14|88
+Gavin Floyd|R|Brian Dozier|R|Flyout|C|Four-Seam Fastball|35|1|0|1|1|90
+Gavin Floyd|R|Brian Dozier|R|Flyout|B|Cutter|36|1|1|1|12|87
+Gavin Floyd|R|Brian Dozier|R|Flyout|X|Four-Seam Fastball|37|2|1|1|2|91
+Gavin Floyd|R|Joe Mauer|L|Groundout|B|Four-Seam Fastball|38|0|0|2|11|91
+Gavin Floyd|R|Joe Mauer|L|Groundout|F|Changeup|39|1|0|2|7|85
+Gavin Floyd|R|Joe Mauer|L|Groundout|F|Four-Seam Fastball|40|1|1|2|3|91
+Gavin Floyd|R|Joe Mauer|L|Groundout|*B|Curveball|41|1|2|2|14|81
+Gavin Floyd|R|Joe Mauer|L|Groundout|X|Two-Seam Fastball|42|2|2|2|13|91
+Gavin Floyd|R|Corey Dickerson|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|13|89
+Gavin Floyd|R|Corey Dickerson|L|Strikeout|B|Curveball|1|0|1|0|14|78
+Gavin Floyd|R|Corey Dickerson|L|Strikeout|F|Cutter|2|1|1|0|5|87
+Gavin Floyd|R|Corey Dickerson|L|Strikeout|F|Cutter|3|1|2|0|6|86
+Gavin Floyd|R|Corey Dickerson|L|Strikeout|S|Two-Seam Fastball|4|1|2|0|13|91
+Gavin Floyd|R|Logan Forsythe|R|Lineout|X|Four-Seam Fastball|5|0|0|1|9|90
+Gavin Floyd|R|Logan Morrison|L|Strikeout|B|Curveball|6|0|0|2|14|74
+Gavin Floyd|R|Logan Morrison|L|Strikeout|F|Four-Seam Fastball|7|1|0|2|14|91
+Gavin Floyd|R|Logan Morrison|L|Strikeout|F|Four-Seam Fastball|8|1|1|2|11|89
+Gavin Floyd|R|Logan Morrison|L|Strikeout|*B|Cutter|9|1|2|2|14|84
+Gavin Floyd|R|Logan Morrison|L|Strikeout|*B|Curveball|10|2|2|2|14|78
+Gavin Floyd|R|Logan Morrison|L|Strikeout|S|Cutter|11|3|2|2|8|85
+Gavin Floyd|R|Evan Longoria|R|Single|C|Four-Seam Fastball|12|0|0|0|9|91
+Gavin Floyd|R|Evan Longoria|R|Single|F|Cutter|13|0|1|0|4|85
+Gavin Floyd|R|Evan Longoria|R|Single|B|Cutter|14|0|2|0|14|87
+Gavin Floyd|R|Evan Longoria|R|Single|D|Cutter|15|1|2|0|8|87
+Gavin Floyd|R|Steve Pearce|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|13|90
+Gavin Floyd|R|Steve Pearce|R|Strikeout|B|Curveball|17|0|1|0|14|78
+Gavin Floyd|R|Steve Pearce|R|Strikeout|S|Curveball|18|1|1|0|14|79
+Gavin Floyd|R|Steve Pearce|R|Strikeout|S|Cutter|19|1|2|0|14|83
+Gavin Floyd|R|Desmond Jennings|R|Single|C|Four-Seam Fastball|20|0|0|1|12|90
+Gavin Floyd|R|Desmond Jennings|R|Single|B|Curveball|21|0|1|1|14|79
+Gavin Floyd|R|Desmond Jennings|R|Single|B|Two-Seam Fastball|22|1|1|1|13|89
+Gavin Floyd|R|Desmond Jennings|R|Single|D|Four-Seam Fastball|23|2|1|1|14|90
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|0|0|0|0|11|94
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|B|Two-Seam Fastball|1|0|1|0|11|93
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|B|Cutter|2|1|1|0|14|87
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|14|89
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|13|92
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|B|Curveball|5|2|2|0|14|78
+Gavin Floyd|R|Jackie Bradley Jr.|L|Strikeout|W|Cutter|6|3|2|0|13|84
+Gavin Floyd|R|Mookie Betts|R|Pop Out|B|Four-Seam Fastball|7|0|0|1|12|91
+Gavin Floyd|R|Mookie Betts|R|Pop Out|B|Four-Seam Fastball|8|1|0|1|12|92
+Gavin Floyd|R|Mookie Betts|R|Pop Out|S|Four-Seam Fastball|9|2|0|1|9|91
+Gavin Floyd|R|Mookie Betts|R|Pop Out|B|Changeup|10|2|1|1|13|85
+Gavin Floyd|R|Mookie Betts|R|Pop Out|F|Changeup|11|3|1|1|13|84
+Gavin Floyd|R|Mookie Betts|R|Pop Out|X|Cutter|12|3|2|1|13|88
+Gavin Floyd|R|Dustin Pedroia|R|Groundout|C|Four-Seam Fastball|13|0|0|2|8|92
+Gavin Floyd|R|Dustin Pedroia|R|Groundout|B|Curveball|14|0|1|2|14|76
+Gavin Floyd|R|Dustin Pedroia|R|Groundout|F|Four-Seam Fastball|15|1|1|2|8|91
+Gavin Floyd|R|Dustin Pedroia|R|Groundout|B|Curveball|16|1|2|2|13|81
+Gavin Floyd|R|Dustin Pedroia|R|Groundout|X|Curveball|17|2|2|2|1|80
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|92
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|B|Curveball|1|0|1|0|13|79
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|B|Two-Seam Fastball|2|1|1|0|13|90
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|C|Curveball|3|2|1|0|1|81
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|B|Cutter|4|2|2|0|14|86
+Gavin Floyd|R|Didi Gregorius|L|Strikeout|S|Curveball|5|3|2|0|14|81
+Gavin Floyd|R|Jacoby Ellsbury|L|Groundout|B|Four-Seam Fastball|6|0|0|1|11|92
+Gavin Floyd|R|Jacoby Ellsbury|L|Groundout|B|Curveball|7|1|0|1|14|80
+Gavin Floyd|R|Jacoby Ellsbury|L|Groundout|X|Four-Seam Fastball|8|2|0|1|11|90
+Gavin Floyd|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|9|0|0|2|11|91
+Gavin Floyd|R|Jackie Bradley Jr.|L|Groundout|C|Two-Seam Fastball|0|0|0|0|1|93
+Gavin Floyd|R|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|1|0|1|0|1|88
+Gavin Floyd|R|Mookie Betts|R|Flyout|B|Curveball|2|0|0|1|14|82
+Gavin Floyd|R|Mookie Betts|R|Flyout|B|Curveball|3|1|0|1|14|81
+Gavin Floyd|R|Mookie Betts|R|Flyout|C|Four-Seam Fastball|4|2|0|1|14|93
+Gavin Floyd|R|Mookie Betts|R|Flyout|X|Four-Seam Fastball|5|2|1|1|6|88
+Gavin Floyd|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|6|0|0|2|12|94
+Gavin Floyd|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|7|1|0|2|14|93
+Gavin Floyd|R|Dustin Pedroia|R|Walk|C|Four-Seam Fastball|8|2|0|2|9|92
+Gavin Floyd|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|9|2|1|2|14|93
+Gavin Floyd|R|Dustin Pedroia|R|Walk|F|Cutter|10|3|1|2|9|88
+Gavin Floyd|R|Dustin Pedroia|R|Walk|B|Four-Seam Fastball|11|3|2|2|14|93
+Gavin Floyd|R|Xander Bogaerts|R|Flyout|X|Four-Seam Fastball|12|0|0|2|5|92
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|4|91
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|11|93
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|C|Curveball|2|0|1|1|1|80
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|B|Curveball|3|0|2|1|14|80
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|B|Two-Seam Fastball|4|1|2|1|13|92
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|S|Four-Seam Fastball|5|2|2|1|2|93
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|S|Four-Seam Fastball|6|0|0|2|1|93
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|B|Four-Seam Fastball|7|0|1|2|14|92
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|F|Curveball|8|1|1|2|2|80
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|B|Four-Seam Fastball|9|1|2|2|14|92
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|F|Curveball|10|2|2|2|8|80
+Gavin Floyd|R|Jonathan Schoop|R|Groundout|X|Four-Seam Fastball|11|2|2|2|14|93
+Gavin Floyd|R|Pedro Alvarez|L|Groundout|F|Four-Seam Fastball|12|0|0|0|5|93
+Gavin Floyd|R|Pedro Alvarez|L|Groundout|X|Four-Seam Fastball|13|0|1|0|6|93
+Gavin Floyd|R|Caleb Joseph|R|Strikeout|C|Four-Seam Fastball|14|0|0|1|3|92
+Gavin Floyd|R|Caleb Joseph|R|Strikeout|S|Cutter|15|0|1|1|14|86
+Gavin Floyd|R|Caleb Joseph|R|Strikeout|B|Curveball|16|0|2|1|14|80
+Gavin Floyd|R|Caleb Joseph|R|Strikeout|S|Curveball|17|1|2|1|14|80
+Gavin Floyd|R|Joey Rickard|R|Double|C|Four-Seam Fastball|18|0|0|2|8|91
+Gavin Floyd|R|Joey Rickard|R|Double|B|Four-Seam Fastball|19|0|1|2|3|91
+Gavin Floyd|R|Joey Rickard|R|Double|B|Cutter|20|1|1|2|14|86
+Gavin Floyd|R|Joey Rickard|R|Double|C|Four-Seam Fastball|21|2|1|2|11|92
+Gavin Floyd|R|Joey Rickard|R|Double|F|Four-Seam Fastball|22|2|2|2|3|91
+Gavin Floyd|R|Joey Rickard|R|Double|B|Curveball|23|2|2|2|14|80
+Gavin Floyd|R|Joey Rickard|R|Double|D|Four-Seam Fastball|24|3|2|2|2|92
+Gavin Floyd|R|Manny Machado|R|Intent Walk|B|Curveball|25|0|0|2|1|80
+Gavin Floyd|R|Manny Machado|R|Intent Walk|B|Curveball|26|1|0|2|14|80
+Gavin Floyd|R|Manny Machado|R|Intent Walk|B|Four-Seam Fastball|27|2|0|2|12|92
+Gavin Floyd|R|Manny Machado|R|Intent Walk|I|Intentional Ball|28|3|0|2|12|73
+Gavin Floyd|R|Adam Jones|R|Groundout|C|Curveball|29|0|0|2|8|79
+Gavin Floyd|R|Adam Jones|R|Groundout|B|Two-Seam Fastball|30|0|1|2|13|92
+Gavin Floyd|R|Adam Jones|R|Groundout|B|Curveball|31|1|1|2|11|79
+Gavin Floyd|R|Adam Jones|R|Groundout|X|Cutter|32|2|1|2|3|85
+Gavin Floyd|R|Billy Burns|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|92
+Gavin Floyd|R|Billy Burns|L|Strikeout|S|Curveball|1|0|1|0|14|80
+Gavin Floyd|R|Billy Burns|L|Strikeout|F|Curveball|2|0|2|0|9|81
+Gavin Floyd|R|Billy Burns|L|Strikeout|F|Four-Seam Fastball|3|0|2|0|11|92
+Gavin Floyd|R|Billy Burns|L|Strikeout|F|Cutter|4|0|2|0|4|86
+Gavin Floyd|R|Billy Burns|L|Strikeout|S|Curveball|5|0|2|0|13|81
+Gavin Floyd|R|Mark Canha|R|Strikeout|F|Four-Seam Fastball|6|0|0|1|8|92
+Gavin Floyd|R|Mark Canha|R|Strikeout|F|Four-Seam Fastball|7|0|1|1|12|94
+Gavin Floyd|R|Mark Canha|R|Strikeout|B|Cutter|8|0|2|1|14|87
+Gavin Floyd|R|Mark Canha|R|Strikeout|S|Curveball|9|1|2|1|9|81
+Gavin Floyd|R|Jed Lowrie|L|Groundout|B|Four-Seam Fastball|10|0|0|2|13|92
+Gavin Floyd|R|Jed Lowrie|L|Groundout|X|Two-Seam Fastball|11|1|0|2|13|92
+Gavin Floyd|R|Billy Butler|R|Groundout|C|Four-Seam Fastball|12|0|0|0|8|91
+Gavin Floyd|R|Billy Butler|R|Groundout|B|Curveball|13|0|1|0|14|81
+Gavin Floyd|R|Billy Butler|R|Groundout|B|Cutter|14|1|1|0|14|87
+Gavin Floyd|R|Billy Butler|R|Groundout|F|Four-Seam Fastball|15|2|1|0|14|92
+Gavin Floyd|R|Billy Butler|R|Groundout|F|Changeup|16|2|2|0|12|87
+Gavin Floyd|R|Billy Butler|R|Groundout|X|Curveball|17|2|2|0|12|81
+Gavin Floyd|R|Khris Davis|R|Lineout|C|Cutter|18|0|0|1|4|87
+Gavin Floyd|R|Khris Davis|R|Lineout|C|Curveball|19|0|1|1|9|81
+Gavin Floyd|R|Khris Davis|R|Lineout|B|Curveball|20|0|2|1|14|81
+Gavin Floyd|R|Khris Davis|R|Lineout|X|Four-Seam Fastball|21|1|2|1|5|91
+Gavin Floyd|R|Coco Crisp|L|Groundout|B|Four-Seam Fastball|22|0|0|2|11|92
+Gavin Floyd|R|Coco Crisp|L|Groundout|B|Four-Seam Fastball|23|1|0|2|13|92
+Gavin Floyd|R|Coco Crisp|L|Groundout|C|Four-Seam Fastball|24|2|0|2|11|92
+Gavin Floyd|R|Coco Crisp|L|Groundout|C|Cutter|25|2|1|2|13|85
+Gavin Floyd|R|Coco Crisp|L|Groundout|F|Curveball|26|2|2|2|14|77
+Gavin Floyd|R|Coco Crisp|L|Groundout|X|Curveball|27|2|2|2|13|80
+Gavin Floyd|R|Todd Frazier|R|Double|S|Four-Seam Fastball|0|0|0|2|11|93
+Gavin Floyd|R|Todd Frazier|R|Double|E|Four-Seam Fastball|1|0|1|2|2|91
+Gavin Floyd|R|Melky Cabrera|L|Walk|B|Two-Seam Fastball|2|0|0|2|13|93
+Gavin Floyd|R|Melky Cabrera|L|Walk|C|Two-Seam Fastball|3|1|0|2|13|87
+Gavin Floyd|R|Melky Cabrera|L|Walk|B|Four-Seam Fastball|4|1|1|2|14|91
+Gavin Floyd|R|Melky Cabrera|L|Walk|W|Curveball|5|2|1|2|14|81
+Gavin Floyd|R|Melky Cabrera|L|Walk|*B|Curveball|6|2|2|2|14|80
+Gavin Floyd|R|Melky Cabrera|L|Walk|B|Curveball|7|3|2|2|13|79
+Gavin Floyd|R|Brett Lawrie|R|Strikeout|F|Four-Seam Fastball|8|0|0|2|11|93
+Gavin Floyd|R|Brett Lawrie|R|Strikeout|S|Changeup|9|0|1|2|5|87
+Gavin Floyd|R|Brett Lawrie|R|Strikeout|W|Curveball|10|0|2|2|14|81
+Gavin Floyd|R|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|11|0|0|0|14|92
+Gavin Floyd|R|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|12|1|0|0|14|92
+Gavin Floyd|R|Avisail Garcia|R|Strikeout|C|Four-Seam Fastball|13|2|0|0|9|91
+Gavin Floyd|R|Avisail Garcia|R|Strikeout|S|Cutter|14|2|1|0|14|86
+Gavin Floyd|R|Avisail Garcia|R|Strikeout|S|Curveball|15|2|2|0|14|80
+Gavin Floyd|R|Dioner Navarro|L|Double|B|Four-Seam Fastball|16|0|0|1|13|90
+Gavin Floyd|R|Dioner Navarro|L|Double|B|Four-Seam Fastball|17|1|0|1|11|91
+Gavin Floyd|R|Dioner Navarro|L|Double|B|Four-Seam Fastball|18|2|0|1|11|89
+Gavin Floyd|R|Dioner Navarro|L|Double|C|Four-Seam Fastball|19|3|0|1|11|92
+Gavin Floyd|R|Dioner Navarro|L|Double|S|Changeup|20|3|1|1|13|86
+Gavin Floyd|R|Dioner Navarro|L|Double|D|Four-Seam Fastball|21|3|2|1|1|92
+Gavin Floyd|R|Austin Jackson|R|Groundout|B|Cutter|22|0|0|1|11|85
+Gavin Floyd|R|Austin Jackson|R|Groundout|F|Four-Seam Fastball|23|1|0|1|13|91
+Gavin Floyd|R|Austin Jackson|R|Groundout|B|Curveball|24|1|1|1|1|79
+Gavin Floyd|R|Austin Jackson|R|Groundout|S|Four-Seam Fastball|25|2|1|1|13|88
+Gavin Floyd|R|Austin Jackson|R|Groundout|*B|Curveball|26|2|2|1|14|78
+Gavin Floyd|R|Austin Jackson|R|Groundout|X|Two-Seam Fastball|27|3|2|1|11|92
+Gavin Floyd|R|Austin Jackson|R|Double|C|Four-Seam Fastball|0|0|0|0|1|91
+Gavin Floyd|R|Austin Jackson|R|Double|S|Curveball|1|0|1|0|14|80
+Gavin Floyd|R|Austin Jackson|R|Double|B|Curveball|2|0|2|0|14|81
+Gavin Floyd|R|Austin Jackson|R|Double|F|Curveball|3|1|2|0|8|82
+Gavin Floyd|R|Austin Jackson|R|Double|B|Cutter|4|1|2|0|14|86
+Gavin Floyd|R|Austin Jackson|R|Double|D|Four-Seam Fastball|5|2|2|0|2|93
+Gavin Floyd|R|Adam Eaton|L|Groundout|X|Two-Seam Fastball|6|0|0|0|1|93
+Gavin Floyd|R|Jimmy Rollins|L|Groundout|B|Curveball|7|0|0|1|14|80
+Gavin Floyd|R|Jimmy Rollins|L|Groundout|C|Curveball|8|1|0|1|9|81
+Gavin Floyd|R|Jimmy Rollins|L|Groundout|B|Four-Seam Fastball|9|1|1|1|14|92
+Gavin Floyd|R|Jimmy Rollins|L|Groundout|X|Four-Seam Fastball|10|2|1|1|11|91
+Gavin Floyd|R|Jose Abreu|R|Groundout|W|Curveball|11|0|0|2|14|79
+Gavin Floyd|R|Jose Abreu|R|Groundout|T|Two-Seam Fastball|12|0|1|2|11|92
+Gavin Floyd|R|Jose Abreu|R|Groundout|F|Curveball|13|0|2|2|12|81
+Gavin Floyd|R|Jose Abreu|R|Groundout|F|Curveball|14|0|2|2|13|80
+Gavin Floyd|R|Jose Abreu|R|Groundout|B|Four-Seam Fastball|15|0|2|2|12|92
+Gavin Floyd|R|Jose Abreu|R|Groundout|X|Four-Seam Fastball|16|1|2|2|3|91
+Gavin Floyd|R|Rougned Odor|L|Double Play|B|Curveball|0|0|0|1|14|82
+Gavin Floyd|R|Rougned Odor|L|Double Play|F|Two-Seam Fastball|1|1|0|1|8|93
+Gavin Floyd|R|Rougned Odor|L|Double Play|B|Changeup|2|1|1|1|11|86
+Gavin Floyd|R|Rougned Odor|L|Double Play|X|Four-Seam Fastball|3|2|1|1|1|93
+Gavin Floyd|R|Nomar Mazara|L|Home Run|B|Four-Seam Fastball|4|0|0|0|11|92
+Gavin Floyd|R|Nomar Mazara|L|Home Run|S|Cutter|5|1|0|0|14|87
+Gavin Floyd|R|Nomar Mazara|L|Home Run|E|Cutter|6|1|1|0|1|87
+Gavin Floyd|R|Adrian Beltre|R|Strikeout|F|Four-Seam Fastball|7|0|0|0|8|93
+Gavin Floyd|R|Adrian Beltre|R|Strikeout|C|Curveball|8|0|1|0|11|81
+Gavin Floyd|R|Adrian Beltre|R|Strikeout|B|Curveball|9|0|2|0|14|79
+Gavin Floyd|R|Adrian Beltre|R|Strikeout|S|Two-Seam Fastball|10|1|2|0|13|90
+Gavin Floyd|R|Prince Fielder|L|Strikeout|C|Curveball|11|0|0|1|11|82
+Gavin Floyd|R|Prince Fielder|L|Strikeout|S|Curveball|12|0|1|1|14|80
+Gavin Floyd|R|Prince Fielder|L|Strikeout|W|Curveball|13|0|2|1|14|79
+Gavin Floyd|R|Ian Desmond|R|Hit By Pitch|H|Curveball|14|0|0|2|11|81
+Gavin Floyd|R|Justin Turner|R|Groundout|S|Curveball|0|0|0|2|14|81
+Gavin Floyd|R|Justin Turner|R|Groundout|X|Curveball|1|0|1|2|14|81
+Gavin Floyd|R|Adrian Gonzalez|L|Flyout|C|Four-Seam Fastball|2|0|0|0|13|92
+Gavin Floyd|R|Adrian Gonzalez|L|Flyout|B|Four-Seam Fastball|3|0|1|0|12|92
+Gavin Floyd|R|Adrian Gonzalez|L|Flyout|B|Curveball|4|1|1|0|13|81
+Gavin Floyd|R|Adrian Gonzalez|L|Flyout|F|Two-Seam Fastball|5|2|1|0|13|92
+Gavin Floyd|R|Adrian Gonzalez|L|Flyout|X|Cutter|6|2|2|0|3|87
+Gavin Floyd|R|Yasiel Puig|R|Flyout|S|Curveball|7|0|0|1|14|81
+Gavin Floyd|R|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|8|0|1|1|4|92
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|B|Two-Seam Fastball|0|0|0|1|13|92
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|C|Curveball|1|1|0|1|4|80
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|S|Four-Seam Fastball|2|1|1|1|12|93
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|F|Curveball|3|1|2|1|9|81
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|B|Curveball|4|1|2|1|14|81
+Gavin Floyd|R|Justin Turner|R|Hit By Pitch|H|Two-Seam Fastball|5|2|2|1|11|93
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|B|Two-Seam Fastball|6|0|0|1|14|92
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|7|1|0|1|8|93
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|S|Curveball|8|1|1|1|7|80
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|F|Curveball|9|1|2|1|13|81
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|*B|Curveball|10|1|2|1|14|81
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|11|2|2|1|12|93
+Gavin Floyd|R|Adrian Gonzalez|L|Strikeout|S|Four-Seam Fastball|12|2|2|1|14|88
+Gavin Floyd|R|Yasmani Grandal|L|Strikeout|B|Curveball|13|0|0|2|13|82
+Gavin Floyd|R|Yasmani Grandal|L|Strikeout|B|Two-Seam Fastball|14|1|0|2|11|93
+Gavin Floyd|R|Yasmani Grandal|L|Strikeout|C|Two-Seam Fastball|15|2|0|2|8|92
+Gavin Floyd|R|Yasmani Grandal|L|Strikeout|C|Four-Seam Fastball|16|2|1|2|11|88
+Gavin Floyd|R|Yasmani Grandal|L|Strikeout|C|Curveball|17|2|2|2|4|82
+Gavin Floyd|R|Matt Duffy|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|91
+Gavin Floyd|R|Matt Duffy|R|Strikeout|B|Cutter|1|0|1|0|14|87
+Gavin Floyd|R|Matt Duffy|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|11|91
+Gavin Floyd|R|Matt Duffy|R|Strikeout|F|Curveball|3|1|2|0|5|82
+Gavin Floyd|R|Matt Duffy|R|Strikeout|S|Cutter|4|1|2|0|14|87
+Gavin Floyd|R|Brandon Belt|L|Lineout|B|Curveball|5|0|0|1|11|81
+Gavin Floyd|R|Brandon Belt|L|Lineout|B|Cutter|6|1|0|1|11|87
+Gavin Floyd|R|Brandon Belt|L|Lineout|B|Two-Seam Fastball|7|2|0|1|11|91
+Gavin Floyd|R|Brandon Belt|L|Lineout|C|Four-Seam Fastball|8|3|0|1|6|92
+Gavin Floyd|R|Brandon Belt|L|Lineout|C|Four-Seam Fastball|9|3|1|1|11|93
+Gavin Floyd|R|Brandon Belt|L|Lineout|X|Two-Seam Fastball|10|3|2|1|13|93
+Gavin Floyd|R|Hunter Pence|R|Groundout|X|Cutter|11|0|0|2|8|87
+Gavin Floyd|R|Joe Panik|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|93
+Gavin Floyd|R|Joe Panik|L|Flyout|X|Four-Seam Fastball|1|1|0|0|5|92
+Gavin Floyd|R|Matt Duffy|R|Single|D|Cutter|2|0|0|1|8|88
+Gavin Floyd|R|Buster Posey|R|Pop Out|B|Two-Seam Fastball|3|0|0|1|13|93
+Gavin Floyd|R|Buster Posey|R|Pop Out|B|Curveball|4|1|0|1|14|80
+Gavin Floyd|R|Buster Posey|R|Pop Out|X|Two-Seam Fastball|5|2|0|1|2|93
+Gavin Floyd|R|Hunter Pence|R|Strikeout|*B|Curveball|6|0|0|2|14|81
+Gavin Floyd|R|Hunter Pence|R|Strikeout|C|Two-Seam Fastball|7|1|0|2|12|93
+Gavin Floyd|R|Hunter Pence|R|Strikeout|C|Two-Seam Fastball|8|1|1|2|6|94
+Gavin Floyd|R|Hunter Pence|R|Strikeout|W|Curveball|9|1|2|2|14|82
+Gavin Floyd|R|Brandon Crawford|L|Strikeout|B|Curveball|10|0|0|0|11|81
+Gavin Floyd|R|Brandon Crawford|L|Strikeout|F|Cutter|11|1|0|0|5|88
+Gavin Floyd|R|Brandon Crawford|L|Strikeout|S|Four-Seam Fastball|12|1|1|0|11|93
+Gavin Floyd|R|Brandon Crawford|L|Strikeout|T|Curveball|13|1|2|0|7|82
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|B|Two-Seam Fastball|14|0|0|1|14|92
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|S|Cutter|15|1|0|1|8|88
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|F|Two-Seam Fastball|16|1|1|1|8|94
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|F|Curveball|17|1|2|1|8|81
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|B|Two-Seam Fastball|18|1|2|1|14|94
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|B|Four-Seam Fastball|19|2|2|1|11|93
+Gavin Floyd|R|Kelby Tomlinson|R|Walk|B|Four-Seam Fastball|20|3|2|1|12|94
+Gavin Floyd|R|Gregor Blanco|L|Grounded Into DP|X|Two-Seam Fastball|21|0|0|1|7|92
+Gavin Floyd|R|Bobby Wilson|R|Strikeout|S|Cutter|0|0|0|0|6|86
+Gavin Floyd|R|Bobby Wilson|R|Strikeout|S|Curveball|1|0|1|0|13|81
+Gavin Floyd|R|Bobby Wilson|R|Strikeout|S|Curveball|2|0|2|0|14|81
+Gavin Floyd|R|Rougned Odor|L|Groundout|C|Curveball|3|0|0|1|13|80
+Gavin Floyd|R|Rougned Odor|L|Groundout|B|Two-Seam Fastball|4|0|1|1|13|93
+Gavin Floyd|R|Rougned Odor|L|Groundout|S|Curveball|5|1|1|1|14|82
+Gavin Floyd|R|Rougned Odor|L|Groundout|X|Curveball|6|1|2|1|8|82
+Gavin Floyd|R|Ian Desmond|R|Single|F|Curveball|7|0|0|2|4|81
+Gavin Floyd|R|Ian Desmond|R|Single|C|Four-Seam Fastball|8|0|1|2|9|92
+Gavin Floyd|R|Ian Desmond|R|Single|B|Cutter|9|0|2|2|12|87
+Gavin Floyd|R|Ian Desmond|R|Single|D|Curveball|10|1|2|2|8|82
+Gavin Floyd|R|Nomar Mazara|L|Groundout|B|Four-Seam Fastball|11|0|0|2|13|94
+Gavin Floyd|R|Nomar Mazara|L|Groundout|C|Four-Seam Fastball|12|1|0|2|13|92
+Gavin Floyd|R|Nomar Mazara|L|Groundout|C|Curveball|13|1|1|2|13|81
+Gavin Floyd|R|Nomar Mazara|L|Groundout|X|Curveball|14|1|2|2|13|81
+Gavin Floyd|R|Adrian Beltre|R|Lineout|X|Four-Seam Fastball|15|0|0|0|5|91
+Gavin Floyd|R|Prince Fielder|L|Strikeout|S|Cutter|16|0|0|1|14|87
+Gavin Floyd|R|Prince Fielder|L|Strikeout|B|Curveball|17|0|1|1|14|81
+Gavin Floyd|R|Prince Fielder|L|Strikeout|S|Curveball|18|1|1|1|8|81
+Gavin Floyd|R|Prince Fielder|L|Strikeout|S|Curveball|19|1|2|1|14|81
+Gavin Floyd|R|Drew Stubbs|R|Home Run|C|Two-Seam Fastball|20|0|0|2|6|91
+Gavin Floyd|R|Drew Stubbs|R|Home Run|F|Curveball|21|0|1|2|9|80
+Gavin Floyd|R|Drew Stubbs|R|Home Run|B|Four-Seam Fastball|22|0|2|2|14|93
+Gavin Floyd|R|Drew Stubbs|R|Home Run|F|Two-Seam Fastball|23|1|2|2|6|93
+Gavin Floyd|R|Drew Stubbs|R|Home Run|E|Cutter|24|1|2|2|5|86
+Gavin Floyd|R|Steven Souza Jr.|R|Single|B|Two-Seam Fastball|0|0|0|0|13|93
+Gavin Floyd|R|Steven Souza Jr.|R|Single|S|Four-Seam Fastball|1|1|0|0|4|93
+Gavin Floyd|R|Steven Souza Jr.|R|Single|F|Two-Seam Fastball|2|1|1|0|13|93
+Gavin Floyd|R|Steven Souza Jr.|R|Single|B|Four-Seam Fastball|3|1|2|0|12|94
+Gavin Floyd|R|Steven Souza Jr.|R|Single|F|Curveball|4|2|2|0|13|81
+Gavin Floyd|R|Steven Souza Jr.|R|Single|D|Two-Seam Fastball|5|2|2|0|7|93
+Gavin Floyd|R|Logan Morrison|L|Lineout|*B|Two-Seam Fastball|6|0|0|0|13|93
+Gavin Floyd|R|Logan Morrison|L|Lineout|X|Two-Seam Fastball|7|1|0|0|11|91
+Gavin Floyd|R|Desmond Jennings|R|Groundout|S|Two-Seam Fastball|8|0|0|1|8|91
+Gavin Floyd|R|Desmond Jennings|R|Groundout|C|Two-Seam Fastball|9|0|1|1|13|94
+Gavin Floyd|R|Desmond Jennings|R|Groundout|X|Curveball|10|0|2|1|5|82
+Gavin Floyd|R|Kevin Kiermaier|L|Lineout|C|Two-Seam Fastball|11|0|0|2|13|94
+Gavin Floyd|R|Kevin Kiermaier|L|Lineout|B|Four-Seam Fastball|12|0|1|2|11|93
+Gavin Floyd|R|Kevin Kiermaier|L|Lineout|C|Curveball|13|1|1|2|4|81
+Gavin Floyd|R|Kevin Kiermaier|L|Lineout|X|Four-Seam Fastball|14|1|2|2|4|93
+Gavin Floyd|R|Hank Conger|L|Groundout|X|Two-Seam Fastball|15|0|0|0|1|92
+Gavin Floyd|R|Tim Beckham|R|Double|C|Two-Seam Fastball|16|0|0|1|8|92
+Gavin Floyd|R|Tim Beckham|R|Double|S|Curveball|17|0|1|1|13|80
+Gavin Floyd|R|Tim Beckham|R|Double|B|Curveball|18|0|2|1|9|82
+Gavin Floyd|R|Tim Beckham|R|Double|B|Curveball|19|1|2|1|14|79
+Gavin Floyd|R|Tim Beckham|R|Double|D|Two-Seam Fastball|20|2|2|1|8|92
+Gavin Floyd|R|Brandon Guyer|R|Strikeout|C|Curveball|21|0|0|1|6|81
+Gavin Floyd|R|Brandon Guyer|R|Strikeout|S|Two-Seam Fastball|22|0|1|1|13|91
+Gavin Floyd|R|Brandon Guyer|R|Strikeout|B|Curveball|23|0|2|1|14|79
+Gavin Floyd|R|Brandon Guyer|R|Strikeout|S|Curveball|24|1|2|1|14|81
+Gavin Floyd|R|Taylor Motter|R|Groundout|S|Curveball|25|0|0|2|8|81
+Gavin Floyd|R|Taylor Motter|R|Groundout|B|Curveball|26|0|1|2|14|79
+Gavin Floyd|R|Taylor Motter|R|Groundout|B|Four-Seam Fastball|27|1|1|2|12|93
+Gavin Floyd|R|Taylor Motter|R|Groundout|B|Two-Seam Fastball|28|2|1|2|11|91
+Gavin Floyd|R|Taylor Motter|R|Groundout|X|Four-Seam Fastball|29|3|1|2|11|92
+Gavin Floyd|R|Brian Dozier|R|Hit By Pitch|H|Curveball|0|0|0|1|11|80
+Gavin Floyd|R|Eduardo Nunez|R|Home Run|B|Four-Seam Fastball|1|0|0|1|13|93
+Gavin Floyd|R|Eduardo Nunez|R|Home Run|S|Two-Seam Fastball|2|1|0|1|13|93
+Gavin Floyd|R|Eduardo Nunez|R|Home Run|E|Four-Seam Fastball|3|1|1|1|7|92
+Gavin Floyd|R|Miguel Sano|R|Strikeout|C|Curveball|4|0|0|1|8|81
+Gavin Floyd|R|Miguel Sano|R|Strikeout|S|Curveball|5|0|1|1|14|79
+Gavin Floyd|R|Miguel Sano|R|Strikeout|S|Curveball|6|0|2|1|14|81
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|C|Curveball|7|0|0|2|4|81
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|C|Four-Seam Fastball|8|0|1|2|12|92
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|B|Curveball|9|0|2|2|14|82
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|B|Curveball|10|1|2|2|14|81
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|F|Four-Seam Fastball|11|2|2|2|11|90
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|B|Four-Seam Fastball|12|2|2|2|14|91
+Gavin Floyd|R|Trevor Plouffe|R|Pop Out|X|Four-Seam Fastball|13|3|2|2|6|91
+Gavin Floyd|R|Jacoby Ellsbury|L|Single|B|Four-Seam Fastball|0|0|0|0|11|94
+Gavin Floyd|R|Jacoby Ellsbury|L|Single|D|Two-Seam Fastball|1|1|0|0|9|95
+Gavin Floyd|R|Brett Gardner|L|Groundout|B|Two-Seam Fastball|2|0|0|0|11|94
+Gavin Floyd|R|Brett Gardner|L|Groundout|F|Two-Seam Fastball|3|1|0|0|5|94
+Gavin Floyd|R|Brett Gardner|L|Groundout|X|Curveball|4|1|1|0|9|82
+Gavin Floyd|R|Aaron Hicks|L|Flyout|B|Two-Seam Fastball|5|0|0|1|11|95
+Gavin Floyd|R|Aaron Hicks|L|Flyout|C|Curveball|6|1|0|1|1|81
+Gavin Floyd|R|Aaron Hicks|L|Flyout|X|Four-Seam Fastball|7|1|1|1|13|94
+Gavin Floyd|R|Starlin Castro|R|Strikeout|C|Curveball|8|0|0|2|5|82
+Gavin Floyd|R|Starlin Castro|R|Strikeout|W|Curveball|9|0|1|2|14|82
+Gavin Floyd|R|Starlin Castro|R|Strikeout|*B|Curveball|10|0|2|2|14|82
+Gavin Floyd|R|Starlin Castro|R|Strikeout|W|Curveball|11|1|2|2|14|83
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|12|94
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|S|Curveball|1|0|1|0|14|81
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|B|Curveball|2|0|2|0|14|83
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|B|Curveball|3|1|2|0|14|82
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|12|94
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|5|2|2|0|14|95
+Gavin Floyd|R|Xander Bogaerts|R|Strikeout|S|Curveball|6|3|2|0|14|83
+Gavin Floyd|R|David Ortiz|L|Home Run|B|Four-Seam Fastball|7|0|0|1|14|95
+Gavin Floyd|R|David Ortiz|L|Home Run|B|Curveball|8|1|0|1|14|81
+Gavin Floyd|R|David Ortiz|L|Home Run|F|Two-Seam Fastball|9|2|0|1|13|95
+Gavin Floyd|R|David Ortiz|L|Home Run|E|Curveball|10|2|1|1|7|81
+Gavin Floyd|R|Hanley Ramirez|R|Pop Out|B|Four-Seam Fastball|11|0|0|1|14|94
+Gavin Floyd|R|Hanley Ramirez|R|Pop Out|X|Four-Seam Fastball|12|1|0|1|5|93
+Gavin Floyd|R|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|13|0|0|2|1|93
+Gavin Floyd|R|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|14|0|1|2|8|94
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|92
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|C|Two-Seam Fastball|1|1|0|0|13|93
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|B|Four-Seam Fastball|2|1|1|0|14|89
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|B|Four-Seam Fastball|3|2|1|0|14|91
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|C|Four-Seam Fastball|4|3|1|0|9|94
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|F|Two-Seam Fastball|5|3|2|0|13|95
+Gavin Floyd|R|Ryan Hanigan|R|Groundout|X|Four-Seam Fastball|6|3|2|0|13|89
+Gavin Floyd|R|Blake Swihart|L|Walk|B|Four-Seam Fastball|7|0|0|1|13|90
+Gavin Floyd|R|Blake Swihart|L|Walk|B|Four-Seam Fastball|8|1|0|1|14|88
+Gavin Floyd|R|Blake Swihart|L|Walk|B|Four-Seam Fastball|9|2|0|1|13|90
+Gavin Floyd|R|Blake Swihart|L|Walk|*B|Four-Seam Fastball|10|3|0|1|14|89
+Gavin Floyd|R|Mookie Betts|R|Walk|*B|Two-Seam Fastball|11|0|0|1|14|88
+Gavin Floyd|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|12|1|0|1|6|88
+Gavin Floyd|R|Mookie Betts|R|Walk|B|Curveball|13|1|1|1|12|80
+Gavin Floyd|R|Mookie Betts|R|Walk|B|Two-Seam Fastball|14|2|1|1|11|92
+Gavin Floyd|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|15|3|1|1|5|91
+Gavin Floyd|R|Mookie Betts|R|Walk|F|Four-Seam Fastball|16|3|2|1|14|88
+Gavin Floyd|R|Mookie Betts|R|Walk|B|Cutter|17|3|2|1|13|82
+Gavin Floyd|R|Nicholas Castellanos|R|Single|C|Curveball|0|0|0|0|14|81
+Gavin Floyd|R|Nicholas Castellanos|R|Single|D|Four-Seam Fastball|1|0|1|0|5|93
+Gavin Floyd|R|Justin Upton|R|Single|C|Two-Seam Fastball|2|0|0|0|11|95
+Gavin Floyd|R|Justin Upton|R|Single|C|Curveball|3|0|1|0|6|82
+Gavin Floyd|R|Justin Upton|R|Single|E|Curveball|4|0|2|0|7|82
+Gavin Floyd|R|James McCann|R|Strikeout|C|Two-Seam Fastball|5|0|0|0|7|95
+Gavin Floyd|R|James McCann|R|Strikeout|S|Two-Seam Fastball|6|0|1|0|13|95
+Gavin Floyd|R|James McCann|R|Strikeout|B|Curveball|7|0|2|0|14|81
+Gavin Floyd|R|James McCann|R|Strikeout|C|Curveball|8|1|2|0|4|81
+Gavin Floyd|R|Jose Iglesias|R|Lineout|C|Two-Seam Fastball|9|0|0|1|11|93
+Gavin Floyd|R|Jose Iglesias|R|Lineout|B|Four-Seam Fastball|10|0|1|1|12|94
+Gavin Floyd|R|Jose Iglesias|R|Lineout|B|Curveball|11|1|1|1|11|80
+Gavin Floyd|R|Jose Iglesias|R|Lineout|F|Four-Seam Fastball|12|2|1|1|12|94
+Gavin Floyd|R|Jose Iglesias|R|Lineout|X|Curveball|13|2|2|1|4|80
+Gavin Floyd|R|Ian Kinsler|R|Single|B|Curveball|14|0|0|2|14|81
+Gavin Floyd|R|Ian Kinsler|R|Single|C|Two-Seam Fastball|15|1|0|2|13|94
+Gavin Floyd|R|Ian Kinsler|R|Single|E|Four-Seam Fastball|16|1|1|2|4|93
+Gavin Floyd|R|Cameron Maybin|R|Single|B|Cutter|17|0|0|2|14|87
+Gavin Floyd|R|Cameron Maybin|R|Single|B|Four-Seam Fastball|18|1|0|2|12|93
+Gavin Floyd|R|Cameron Maybin|R|Single|C|Four-Seam Fastball|19|2|0|2|9|92
+Gavin Floyd|R|Cameron Maybin|R|Single|D|Four-Seam Fastball|20|2|1|2|3|94
+Gavin Floyd|R|Miguel Cabrera|R|Single|S|Four-Seam Fastball|21|0|0|2|14|88
+Gavin Floyd|R|Miguel Cabrera|R|Single|B|Two-Seam Fastball|22|0|1|2|13|94
+Gavin Floyd|R|Miguel Cabrera|R|Single|B|Curveball|23|1|1|2|14|82
+Gavin Floyd|R|Miguel Cabrera|R|Single|E|Cutter|24|2|1|2|8|88
+Gavin Floyd|R|Victor Martinez|L|Walk|*B|Four-Seam Fastball|25|0|0|2|13|90
+Gavin Floyd|R|Victor Martinez|L|Walk|B|Curveball|26|1|0|2|14|76
+Gavin Floyd|R|Victor Martinez|L|Walk|B|Four-Seam Fastball|27|2|0|2|11|91
+Gavin Floyd|R|Victor Martinez|L|Walk|B|Four-Seam Fastball|28|3|0|2|3|91
+Gavin Floyd|R|Ian Kinsler|R|Strikeout|C|Four-Seam Fastball|0|0|0|1|8|93
+Gavin Floyd|R|Ian Kinsler|R|Strikeout|B|Cutter|1|0|1|1|12|88
+Gavin Floyd|R|Ian Kinsler|R|Strikeout|S|Four-Seam Fastball|2|1|1|1|12|93
+Gavin Floyd|R|Ian Kinsler|R|Strikeout|B|Four-Seam Fastball|3|1|2|1|12|94
+Gavin Floyd|R|Ian Kinsler|R|Strikeout|W|Cutter|4|2|2|1|14|87
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|C|Four-Seam Fastball|0|0|0|1|14|88
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|X|Four-Seam Fastball|1|0|1|1|2|93
+Gavin Floyd|R|Matt Wieters|L|Flyout|B|Four-Seam Fastball|2|0|0|2|11|93
+Gavin Floyd|R|Matt Wieters|L|Flyout|B|Four-Seam Fastball|3|1|0|2|14|90
+Gavin Floyd|R|Matt Wieters|L|Flyout|X|Two-Seam Fastball|4|2|0|2|4|93
+Gavin Floyd|R|Jonathan Schoop|R|Sac Fly|E|Four-Seam Fastball|0|0|0|0|2|94
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|C|Two-Seam Fastball|1|0|0|1|13|95
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|B|Curveball|2|0|1|1|9|82
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|*B|Curveball|3|1|1|1|14|82
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|F|Two-Seam Fastball|4|2|1|1|11|95
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|B|Four-Seam Fastball|5|2|2|1|12|94
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|F|Curveball|6|3|2|1|13|81
+Gavin Floyd|R|Hyun Soo Kim|L|Walk|B|Curveball|7|3|2|1|13|81
+Gavin Floyd|R|Francisco Pena|R|Grounded Into DP|T|Four-Seam Fastball|8|0|0|1|12|95
+Gavin Floyd|R|Francisco Pena|R|Grounded Into DP|B|Curveball|9|0|1|1|13|81
+Gavin Floyd|R|Francisco Pena|R|Grounded Into DP|X|Four-Seam Fastball|10|1|1|1|6|93
+Gavin Floyd|R|Ryan Howard|L|Flyout|X|Four-Seam Fastball|0|0|0|0|4|93
+Gavin Floyd|R|Cameron Rupp|R|Flyout|B|Four-Seam Fastball|1|0|0|1|14|92
+Gavin Floyd|R|Cameron Rupp|R|Flyout|B|Four-Seam Fastball|2|1|0|1|13|90
+Gavin Floyd|R|Cameron Rupp|R|Flyout|X|Four-Seam Fastball|3|2|0|1|6|92
+Gavin Floyd|R|Cody Asche|L|Flyout|F|Four-Seam Fastball|4|0|0|2|1|92
+Gavin Floyd|R|Cody Asche|L|Flyout|S|Curveball|5|0|1|2|13|80
+Gavin Floyd|R|Cody Asche|L|Flyout|B|Curveball|6|0|2|2|14|79
+Gavin Floyd|R|Cody Asche|L|Flyout|F|Curveball|7|1|2|2|13|78
+Gavin Floyd|R|Cody Asche|L|Flyout|X|Two-Seam Fastball|8|1|2|2|13|92
+Gavin Floyd|R|Peter Bourjos|R|Double|B|Four-Seam Fastball|0|0|0|0|11|94
+Gavin Floyd|R|Peter Bourjos|R|Double|D|Four-Seam Fastball|1|1|0|0|6|94
+Gavin Floyd|R|Odubel Herrera|L|Single|E|Four-Seam Fastball|2|0|0|0|4|94
+Gavin Floyd|R|Freddy Galvis|L|Flyout|C|Curveball|3|0|0|0|13|83
+Gavin Floyd|R|Freddy Galvis|L|Flyout|X|Two-Seam Fastball|4|0|1|0|2|95
+Gavin Floyd|R|Maikel Franco|R|Pop Out|W|Curveball|5|0|0|1|14|82
+Gavin Floyd|R|Maikel Franco|R|Pop Out|X|Curveball|6|0|1|1|11|81
+Gavin Floyd|R|Tommy Joseph|R|Strikeout|F|Two-Seam Fastball|7|0|0|2|11|95
+Gavin Floyd|R|Tommy Joseph|R|Strikeout|B|Curveball|8|0|1|2|11|83
+Gavin Floyd|R|Tommy Joseph|R|Strikeout|F|Curveball|9|1|1|2|11|81
+Gavin Floyd|R|Tommy Joseph|R|Strikeout|S|Curveball|10|1|2|2|14|81
+Gavin Floyd|R|Pedro Alvarez|L|Flyout|C|Curveball|0|0|0|0|1|82
+Gavin Floyd|R|Pedro Alvarez|L|Flyout|B|Four-Seam Fastball|1|0|1|0|11|95
+Gavin Floyd|R|Pedro Alvarez|L|Flyout|X|Two-Seam Fastball|2|1|1|0|13|94
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|12|95
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|B|Four-Seam Fastball|4|1|0|1|12|95
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|C|Two-Seam Fastball|5|2|0|1|5|95
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|F|Four-Seam Fastball|6|2|1|1|3|94
+Gavin Floyd|R|J.J. Hardy|R|Strikeout|S|Curveball|7|2|2|1|14|81
+Gavin Floyd|R|Ryan Flaherty|L|Groundout|X|Two-Seam Fastball|8|0|0|2|13|94
+Gavin Floyd|R|Adam Jones|R|Strikeout|S|Cutter|9|0|0|0|9|87
+Gavin Floyd|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|10|0|1|0|13|91
+Gavin Floyd|R|Adam Jones|R|Strikeout|B|Curveball|11|1|1|0|11|80
+Gavin Floyd|R|Adam Jones|R|Strikeout|S|Four-Seam Fastball|12|2|1|0|14|89
+Gavin Floyd|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|13|2|2|0|12|89
+Gavin Floyd|R|Adam Jones|R|Strikeout|S|Curveball|14|2|2|0|14|82
+Gavin Floyd|R|Hyun Soo Kim|L|Groundout|F|Curveball|15|0|0|1|9|82
+Gavin Floyd|R|Hyun Soo Kim|L|Groundout|B|Cutter|16|0|1|1|13|88
+Gavin Floyd|R|Hyun Soo Kim|L|Groundout|B|Changeup|17|1|1|1|13|87
+Gavin Floyd|R|Hyun Soo Kim|L|Groundout|X|Curveball|18|2|1|1|13|79
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|B|Cutter|19|0|0|2|14|89
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|C|Curveball|20|1|0|2|11|79
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|C|Curveball|21|1|1|2|7|81
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|B|Curveball|22|1|2|2|14|79
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|F|Four-Seam Fastball|23|2|2|2|12|93
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|B|Cutter|24|2|2|2|14|88
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|F|Curveball|25|3|2|2|4|81
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|F|Two-Seam Fastball|26|3|2|2|11|93
+Gavin Floyd|R|Mark Trumbo|R|Pop Out|X|Curveball|27|3|2|2|8|81
+Gavin Floyd|R|Nick Ahmed|R|Flyout|F|Four-Seam Fastball|0|0|0|0|3|94
+Gavin Floyd|R|Nick Ahmed|R|Flyout|X|Four-Seam Fastball|1|0|1|0|3|90
+Gavin Floyd|R|Michael Bourn|L|Strikeout|S|Four-Seam Fastball|2|0|0|1|1|94
+Gavin Floyd|R|Michael Bourn|L|Strikeout|C|Four-Seam Fastball|3|0|1|1|11|94
+Gavin Floyd|R|Michael Bourn|L|Strikeout|B|Curveball|4|0|2|1|14|83
+Gavin Floyd|R|Michael Bourn|L|Strikeout|C|Curveball|5|1|2|1|13|82
+Gavin Floyd|R|Jean Segura|R|Flyout|B|Four-Seam Fastball|6|0|0|2|11|94
+Gavin Floyd|R|Jean Segura|R|Flyout|B|Four-Seam Fastball|7|1|0|2|11|93
+Gavin Floyd|R|Jean Segura|R|Flyout|B|Cutter|8|2|0|2|14|89
+Gavin Floyd|R|Jean Segura|R|Flyout|C|Four-Seam Fastball|9|3|0|2|1|94
+Gavin Floyd|R|Jean Segura|R|Flyout|F|Four-Seam Fastball|10|3|1|2|11|94
+Gavin Floyd|R|Jean Segura|R|Flyout|X|Curveball|11|3|2|2|8|82
+Gavin Floyd|R|Brett Lawrie|R|Single|E|Four-Seam Fastball|0|0|0|1|3|94
+Gavin Floyd|R|Dioner Navarro|L|Flyout|X|Two-Seam Fastball|1|0|0|1|4|94
+Jesse Chavez|R|JB Shuck|L|Groundout|B|Changeup|2|0|0|2|12|86
+Jesse Chavez|R|JB Shuck|L|Groundout|B|Four-Seam Fastball|3|1|0|2|9|91

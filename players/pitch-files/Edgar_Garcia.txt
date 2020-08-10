@@ -1,0 +1,729 @@
+Edgar Garcia|R|Kris Bryant|R|Single|B|Slider|0|0|0|0|14|87
+Edgar Garcia|R|Kris Bryant|R|Single|D|Slider|1|1|0|0|8|87
+Edgar Garcia|R|Anthony Rizzo|L|Flyout|C|Slider|2|0|0|0|4|86
+Edgar Garcia|R|Anthony Rizzo|L|Flyout|B|Four-Seam Fastball|3|0|1|0|13|92
+Edgar Garcia|R|Anthony Rizzo|L|Flyout|*B|Slider|4|1|1|0|14|87
+Edgar Garcia|R|Anthony Rizzo|L|Flyout|C|Four-Seam Fastball|5|2|1|0|13|93
+Edgar Garcia|R|Anthony Rizzo|L|Flyout|X|Slider|6|2|2|0|11|87
+Edgar Garcia|R|Willson Contreras|R|Flyout|C|Four-Seam Fastball|7|0|0|1|5|93
+Edgar Garcia|R|Willson Contreras|R|Flyout|X|Slider|8|0|1|1|6|86
+Edgar Garcia|R|Addison Russell|R|Groundout|B|Four-Seam Fastball|0|0|0|2|14|93
+Edgar Garcia|R|Addison Russell|R|Groundout|X|Four-Seam Fastball|1|1|0|2|9|94
+Edgar Garcia|R|David Bote|R|Walk|C|Slider|2|0|0|0|4|87
+Edgar Garcia|R|David Bote|R|Walk|B|Four-Seam Fastball|3|0|1|0|12|94
+Edgar Garcia|R|David Bote|R|Walk|B|Four-Seam Fastball|4|1|1|0|14|94
+Edgar Garcia|R|David Bote|R|Walk|B|Slider|5|2|1|0|11|86
+Edgar Garcia|R|David Bote|R|Walk|F|Four-Seam Fastball|6|3|1|0|14|93
+Edgar Garcia|R|David Bote|R|Walk|B|Slider|7|3|2|0|11|87
+Edgar Garcia|R|Tyler Chatwood|R|Sac Bunt|X|Four-Seam Fastball|8|0|0|0|2|91
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|F|Slider|9|0|0|1|11|86
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|10|0|1|1|14|93
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|F|Slider|11|1|1|1|14|87
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|F|Slider|12|1|2|1|14|87
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|B|Slider|13|1|2|1|14|86
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|14|2|2|1|14|94
+Edgar Garcia|R|Kyle Schwarber|L|Strikeout|W|Slider|15|3|2|1|14|88
+Edgar Garcia|R|Kris Bryant|R|Pop Out|F|Slider|16|0|0|2|11|87
+Edgar Garcia|R|Kris Bryant|R|Pop Out|S|Four-Seam Fastball|17|0|1|2|6|94
+Edgar Garcia|R|Kris Bryant|R|Pop Out|B|Four-Seam Fastball|18|0|2|2|12|93
+Edgar Garcia|R|Kris Bryant|R|Pop Out|X|Slider|19|1|2|2|11|86
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|95
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|94
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|F|Four-Seam Fastball|2|2|0|0|6|94
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|S|Slider|3|2|1|0|4|88
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|B|Changeup|4|2|2|0|14|90
+Edgar Garcia|R|Bradley Zimmer|L|Strikeout|S|Slider|5|3|2|0|5|88
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|6|0|0|1|9|96
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|S|Four-Seam Fastball|7|1|0|1|5|96
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|8|1|1|1|14|95
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|9|2|1|1|14|94
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|F|Slider|10|3|1|1|6|88
+Edgar Garcia|R|Franmil Reyes|R|Strikeout|S|Four-Seam Fastball|11|3|2|1|2|95
+Edgar Garcia|R|Jake Bauers|L|Flyout|S|Slider|12|0|0|2|13|89
+Edgar Garcia|R|Jake Bauers|L|Flyout|B|Two-Seam Fastball|13|0|1|2|13|89
+Edgar Garcia|R|Jake Bauers|L|Flyout|B|Four-Seam Fastball|14|1|1|2|13|95
+Edgar Garcia|R|Jake Bauers|L|Flyout|X|Slider|15|2|1|2|13|88
+Edgar Garcia|R|Kelvin Gutierrez|R|Strikeout|C|Slider|0|0|0|0|8|86
+Edgar Garcia|R|Kelvin Gutierrez|R|Strikeout|S|Slider|1|0|1|0|14|85
+Edgar Garcia|R|Kelvin Gutierrez|R|Strikeout|*B|Slider|2|0|2|0|14|85
+Edgar Garcia|R|Kelvin Gutierrez|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|9|93
+Edgar Garcia|R|Martin Maldonado|R|Flyout|B|Slider|4|0|0|1|14|85
+Edgar Garcia|R|Martin Maldonado|R|Flyout|*B|Four-Seam Fastball|5|1|0|1|14|92
+Edgar Garcia|R|Martin Maldonado|R|Flyout|S|Four-Seam Fastball|6|2|0|1|14|92
+Edgar Garcia|R|Martin Maldonado|R|Flyout|S|Slider|7|2|1|1|14|86
+Edgar Garcia|R|Martin Maldonado|R|Flyout|X|Slider|8|2|2|1|5|85
+Edgar Garcia|R|Will Smith|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|93
+Edgar Garcia|R|Will Smith|R|Strikeout|S|Slider|1|0|1|0|13|85
+Edgar Garcia|R|Will Smith|R|Strikeout|W|Slider|2|0|2|0|13|86
+Edgar Garcia|R|David Freese|R|Single|S|Slider|3|0|0|1|14|87
+Edgar Garcia|R|David Freese|R|Single|S|Slider|4|0|1|1|14|86
+Edgar Garcia|R|David Freese|R|Single|D|Slider|5|0|2|1|11|84
+Edgar Garcia|R|Joc Pederson|L|Strikeout|B|Slider|6|0|0|1|13|86
+Edgar Garcia|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|7|1|0|1|13|94
+Edgar Garcia|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|8|1|1|1|8|93
+Edgar Garcia|R|Joc Pederson|L|Strikeout|S|Slider|9|1|2|1|14|86
+Edgar Garcia|R|Max Muncy|L|Strikeout|*B|Four-Seam Fastball|10|0|0|2|14|92
+Edgar Garcia|R|Max Muncy|L|Strikeout|F|Slider|11|1|0|2|1|87
+Edgar Garcia|R|Max Muncy|L|Strikeout|B|Four-Seam Fastball|12|1|1|2|11|94
+Edgar Garcia|R|Max Muncy|L|Strikeout|T|Four-Seam Fastball|13|2|1|2|1|93
+Edgar Garcia|R|Max Muncy|L|Strikeout|F|Slider|14|2|2|2|6|86
+Edgar Garcia|R|Max Muncy|L|Strikeout|S|Slider|15|2|2|2|8|86
+Edgar Garcia|R|Justin Turner|R|Walk|B|Slider|0|0|0|2|14|86
+Edgar Garcia|R|Justin Turner|R|Walk|*B|Slider|1|1|0|2|14|85
+Edgar Garcia|R|Justin Turner|R|Walk|C|Four-Seam Fastball|2|2|0|2|9|92
+Edgar Garcia|R|Justin Turner|R|Walk|B|Slider|3|2|1|2|14|86
+Edgar Garcia|R|Justin Turner|R|Walk|F|Four-Seam Fastball|4|3|1|2|6|92
+Edgar Garcia|R|Justin Turner|R|Walk|*B|Slider|5|3|2|2|14|87
+Edgar Garcia|R|Joc Pederson|L|Groundout|X|Slider|6|0|0|2|8|85
+Edgar Garcia|R|Max Muncy|L|Double|B|Four-Seam Fastball|7|0|0|0|11|92
+Edgar Garcia|R|Max Muncy|L|Double|B|Four-Seam Fastball|8|1|0|0|11|93
+Edgar Garcia|R|Max Muncy|L|Double|B|Four-Seam Fastball|9|2|0|0|13|93
+Edgar Garcia|R|Max Muncy|L|Double|D|Four-Seam Fastball|10|3|0|0|11|93
+Edgar Garcia|R|Corey Seager|L|Walk|B|Slider|11|0|0|0|14|87
+Edgar Garcia|R|Corey Seager|L|Walk|*B|Four-Seam Fastball|12|1|0|0|13|93
+Edgar Garcia|R|Corey Seager|L|Walk|B|Four-Seam Fastball|13|2|0|0|13|92
+Edgar Garcia|R|Corey Seager|L|Walk|B|Four-Seam Fastball|14|3|0|0|13|93
+Edgar Garcia|R|Cody Bellinger|L|Flyout|S|Slider|15|0|0|0|13|86
+Edgar Garcia|R|Cody Bellinger|L|Flyout|X|Slider|16|0|1|0|7|86
+Edgar Garcia|R|Alex Verdugo|L|Single|E|Slider|17|0|0|1|4|86
+Edgar Garcia|R|David Freese|R|Single|*B|Slider|18|0|0|1|14|88
+Edgar Garcia|R|David Freese|R|Single|*B|Four-Seam Fastball|19|1|0|1|14|92
+Edgar Garcia|R|David Freese|R|Single|B|Four-Seam Fastball|20|2|0|1|14|94
+Edgar Garcia|R|David Freese|R|Single|F|Four-Seam Fastball|21|3|0|1|7|92
+Edgar Garcia|R|David Freese|R|Single|S|Slider|22|3|1|1|14|87
+Edgar Garcia|R|David Freese|R|Single|F|Slider|23|3|2|1|8|87
+Edgar Garcia|R|David Freese|R|Single|E|Slider|24|3|2|1|4|85
+Edgar Garcia|R|Yan Gomes|R|Strikeout|B|Slider|0|0|0|1|14|87
+Edgar Garcia|R|Yan Gomes|R|Strikeout|F|Four-Seam Fastball|1|1|0|1|11|94
+Edgar Garcia|R|Yan Gomes|R|Strikeout|B|Slider|2|1|1|1|14|86
+Edgar Garcia|R|Yan Gomes|R|Strikeout|B|Four-Seam Fastball|3|2|1|1|14|95
+Edgar Garcia|R|Yan Gomes|R|Strikeout|F|Four-Seam Fastball|4|3|1|1|3|93
+Edgar Garcia|R|Yan Gomes|R|Strikeout|F|Four-Seam Fastball|5|3|2|1|12|93
+Edgar Garcia|R|Yan Gomes|R|Strikeout|F|Slider|6|3|2|1|14|86
+Edgar Garcia|R|Yan Gomes|R|Strikeout|S|Four-Seam Fastball|7|3|2|1|14|95
+Edgar Garcia|R|Michael A. Taylor|R|Groundout|S|Slider|8|0|0|2|13|86
+Edgar Garcia|R|Michael A. Taylor|R|Groundout|X|Slider|9|0|1|2|7|86
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Slider|1|1|0|0|14|87
+Edgar Garcia|R|Anthony Rendon|R|Walk|C|Slider|2|2|0|0|8|88
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|3|2|1|0|7|88
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|4|2|2|0|3|88
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|5|2|2|0|2|87
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Four-Seam Fastball|6|2|2|0|12|93
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Slider|7|2|2|0|14|86
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|8|3|2|0|1|86
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|9|3|2|0|13|85
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Four-Seam Fastball|10|3|2|0|11|94
+Edgar Garcia|R|Juan Soto|L|Walk|*B|Slider|11|0|0|0|13|85
+Edgar Garcia|R|Juan Soto|L|Walk|B|Slider|12|1|0|0|13|84
+Edgar Garcia|R|Juan Soto|L|Walk|*B|Four-Seam Fastball|13|2|0|0|14|94
+Edgar Garcia|R|Juan Soto|L|Walk|F|Slider|14|3|0|0|4|85
+Edgar Garcia|R|Juan Soto|L|Walk|B|Slider|15|3|1|0|11|86
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|C|Slider|16|0|0|0|7|85
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|17|0|1|0|13|93
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|*B|Four-Seam Fastball|18|1|1|0|13|92
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Slider|19|2|1|0|11|86
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|*B|Four-Seam Fastball|20|3|1|0|14|93
+Edgar Garcia|R|Brian Dozier|R|Pop Out|*B|Changeup|21|0|0|0|14|87
+Edgar Garcia|R|Brian Dozier|R|Pop Out|C|Four-Seam Fastball|22|1|0|0|9|93
+Edgar Garcia|R|Brian Dozier|R|Pop Out|S|Slider|23|1|1|0|9|86
+Edgar Garcia|R|Brian Dozier|R|Pop Out|*B|Slider|24|1|2|0|14|87
+Edgar Garcia|R|Brian Dozier|R|Pop Out|X|Four-Seam Fastball|25|2|2|0|9|93
+Edgar Garcia|R|Victor Robles|R|Strikeout|S|Slider|26|0|0|1|14|86
+Edgar Garcia|R|Victor Robles|R|Strikeout|B|Four-Seam Fastball|27|0|1|1|14|93
+Edgar Garcia|R|Victor Robles|R|Strikeout|W|Slider|28|1|1|1|14|85
+Edgar Garcia|R|Victor Robles|R|Strikeout|C|Four-Seam Fastball|29|1|2|1|13|94
+Edgar Garcia|R|Raudy Read|R|Strikeout|B|Four-Seam Fastball|30|0|0|2|14|93
+Edgar Garcia|R|Raudy Read|R|Strikeout|S|Slider|31|1|0|2|8|84
+Edgar Garcia|R|Raudy Read|R|Strikeout|B|Four-Seam Fastball|32|1|1|2|14|94
+Edgar Garcia|R|Raudy Read|R|Strikeout|B|Slider|33|2|1|2|14|87
+Edgar Garcia|R|Raudy Read|R|Strikeout|S|Slider|34|3|1|2|9|86
+Edgar Garcia|R|Raudy Read|R|Strikeout|S|Slider|35|3|2|2|6|85
+Edgar Garcia|R|Trea Turner|R|Single|C|Slider|0|0|0|0|5|87
+Edgar Garcia|R|Trea Turner|R|Single|B|Slider|1|0|1|0|13|85
+Edgar Garcia|R|Trea Turner|R|Single|F|Four-Seam Fastball|2|1|1|0|4|94
+Edgar Garcia|R|Trea Turner|R|Single|D|Slider|3|1|2|0|8|87
+Edgar Garcia|R|Adam Eaton|L|Grounded Into DP|B|Four-Seam Fastball|4|0|0|0|11|94
+Edgar Garcia|R|Adam Eaton|L|Grounded Into DP|X|Slider|5|1|0|0|5|88
+Edgar Garcia|R|Anthony Rendon|R|Walk|C|Slider|6|0|0|2|14|87
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Slider|7|0|1|2|14|88
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Slider|8|1|1|2|14|89
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Slider|9|2|1|2|13|86
+Edgar Garcia|R|Anthony Rendon|R|Walk|F|Four-Seam Fastball|10|2|2|2|3|95
+Edgar Garcia|R|Anthony Rendon|R|Walk|B|Four-Seam Fastball|11|2|2|2|14|94
+Edgar Garcia|R|Anthony Rendon|R|Walk|*B|Slider|12|3|2|2|14|87
+Edgar Garcia|R|Juan Soto|L|Groundout|*B|Slider|13|0|0|2|14|89
+Edgar Garcia|R|Juan Soto|L|Groundout|B|Slider|14|1|0|2|13|87
+Edgar Garcia|R|Juan Soto|L|Groundout|X|Four-Seam Fastball|15|2|0|2|13|94
+Edgar Garcia|R|Yan Gomes|R|Double|C|Slider|0|0|0|0|9|86
+Edgar Garcia|R|Yan Gomes|R|Double|D|Four-Seam Fastball|1|0|1|0|8|94
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|C|Slider|2|0|0|0|5|87
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|S|Slider|3|0|1|0|13|89
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|*B|Slider|4|0|2|0|14|87
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|B|Slider|5|1|2|0|11|88
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|B|Four-Seam Fastball|6|2|2|0|11|94
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|F|Slider|7|3|2|0|14|87
+Edgar Garcia|R|Gerardo Parra|L|Strikeout|S|Slider|8|3|2|0|9|88
+Edgar Garcia|R|Trea Turner|R|Strikeout|*B|Four-Seam Fastball|9|0|0|1|14|95
+Edgar Garcia|R|Trea Turner|R|Strikeout|S|Slider|10|1|0|1|14|87
+Edgar Garcia|R|Trea Turner|R|Strikeout|C|Four-Seam Fastball|11|1|1|1|13|94
+Edgar Garcia|R|Trea Turner|R|Strikeout|F|Slider|12|1|2|1|14|87
+Edgar Garcia|R|Trea Turner|R|Strikeout|F|Slider|13|1|2|1|11|88
+Edgar Garcia|R|Trea Turner|R|Strikeout|T|Slider|14|1|2|1|9|87
+Edgar Garcia|R|Adam Eaton|L|Flyout|B|Slider|15|0|0|2|13|89
+Edgar Garcia|R|Adam Eaton|L|Flyout|S|Changeup|16|1|0|2|13|88
+Edgar Garcia|R|Adam Eaton|L|Flyout|*B|Four-Seam Fastball|17|1|1|2|14|94
+Edgar Garcia|R|Adam Eaton|L|Flyout|S|Slider|18|2|1|2|14|86
+Edgar Garcia|R|Adam Eaton|L|Flyout|F|Slider|19|2|2|2|13|89
+Edgar Garcia|R|Adam Eaton|L|Flyout|X|Slider|20|2|2|2|14|87
+Edgar Garcia|R|Yan Gomes|R|Walk|B|Slider|0|0|0|1|14|85
+Edgar Garcia|R|Yan Gomes|R|Walk|B|Four-Seam Fastball|1|1|0|1|14|93
+Edgar Garcia|R|Yan Gomes|R|Walk|*B|Four-Seam Fastball|2|2|0|1|14|92
+Edgar Garcia|R|Yan Gomes|R|Walk|C|Four-Seam Fastball|3|3|0|1|2|92
+Edgar Garcia|R|Yan Gomes|R|Walk|B|Four-Seam Fastball|4|3|1|1|11|91
+Edgar Garcia|R|Michael A. Taylor|R|Strikeout|C|Slider|5|0|0|1|7|86
+Edgar Garcia|R|Michael A. Taylor|R|Strikeout|C|Slider|6|0|1|1|13|86
+Edgar Garcia|R|Michael A. Taylor|R|Strikeout|S|Slider|7|0|2|1|5|85
+Edgar Garcia|R|Gerardo Parra|L|Intent Walk|B|Slider|8|0|0|2|13|86
+Edgar Garcia|R|Gerardo Parra|L|Intent Walk|B|Four-Seam Fastball|9|1|0|2|14|94
+Edgar Garcia|R|Gerardo Parra|L|Intent Walk|V|N/A|10|2|0|2|0|0
+Edgar Garcia|R|Gerardo Parra|L|Intent Walk|V|N/A|11|2|1|2|0|0
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|B|Four-Seam Fastball|12|0|0|2|14|93
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|C|Four-Seam Fastball|13|1|0|2|7|92
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|B|Four-Seam Fastball|14|1|1|2|13|93
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|S|Slider|15|2|1|2|14|85
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|*B|Slider|16|2|2|2|13|85
+Edgar Garcia|R|Stephen Strasburg|R|Strikeout|W|Slider|17|3|2|2|14|85
+Edgar Garcia|R|J.D. Davis|R|Groundout|B|Four-Seam Fastball|0|0|0|1|14|93
+Edgar Garcia|R|J.D. Davis|R|Groundout|F|Slider|1|1|0|1|14|87
+Edgar Garcia|R|J.D. Davis|R|Groundout|*B|Slider|2|1|1|1|13|87
+Edgar Garcia|R|J.D. Davis|R|Groundout|B|Four-Seam Fastball|3|2|1|1|14|93
+Edgar Garcia|R|J.D. Davis|R|Groundout|F|Slider|4|3|1|1|13|85
+Edgar Garcia|R|J.D. Davis|R|Groundout|X|Slider|5|3|2|1|14|86
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|6|0|0|2|11|92
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|B|Slider|7|1|0|2|13|85
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|8|2|0|2|12|92
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|C|Four-Seam Fastball|9|3|0|2|6|93
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|F|Slider|10|3|1|2|14|86
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|F|Slider|11|3|2|2|4|87
+Edgar Garcia|R|Jeff McNeil|L|Strikeout|W|Slider|12|3|2|2|14|87
+Edgar Garcia|R|Franmil Reyes|R|Home Run|C|Slider|0|0|0|0|14|86
+Edgar Garcia|R|Franmil Reyes|R|Home Run|B|Slider|1|0|1|0|13|86
+Edgar Garcia|R|Franmil Reyes|R|Home Run|B|Four-Seam Fastball|2|1|1|0|14|93
+Edgar Garcia|R|Franmil Reyes|R|Home Run|B|Slider|3|2|1|0|14|85
+Edgar Garcia|R|Franmil Reyes|R|Home Run|F|Four-Seam Fastball|4|3|1|0|11|93
+Edgar Garcia|R|Franmil Reyes|R|Home Run|E|Slider|5|3|2|0|5|86
+Edgar Garcia|R|Manny Machado|R|Walk|C|Slider|6|0|0|0|14|87
+Edgar Garcia|R|Manny Machado|R|Walk|B|Four-Seam Fastball|7|0|1|0|14|94
+Edgar Garcia|R|Manny Machado|R|Walk|B|Four-Seam Fastball|8|1|1|0|14|94
+Edgar Garcia|R|Manny Machado|R|Walk|B|Four-Seam Fastball|9|2|1|0|14|93
+Edgar Garcia|R|Manny Machado|R|Walk|B|Slider|10|3|1|0|14|86
+Edgar Garcia|R|Eric Hosmer|L|Home Run|*B|Slider|11|0|0|0|14|86
+Edgar Garcia|R|Eric Hosmer|L|Home Run|B|Slider|12|1|0|0|13|86
+Edgar Garcia|R|Eric Hosmer|L|Home Run|E|Four-Seam Fastball|13|2|0|0|7|92
+Edgar Garcia|R|Marcell Ozuna|R|Flyout|C|Slider|0|0|0|0|5|87
+Edgar Garcia|R|Marcell Ozuna|R|Flyout|S|Slider|1|0|1|0|6|86
+Edgar Garcia|R|Marcell Ozuna|R|Flyout|F|Slider|2|0|2|0|1|86
+Edgar Garcia|R|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|3|0|2|0|6|94
+Edgar Garcia|R|Jose Martinez|R|Single|C|Four-Seam Fastball|4|0|0|1|9|94
+Edgar Garcia|R|Jose Martinez|R|Single|D|Slider|5|0|1|1|5|87
+Edgar Garcia|R|Yadier Molina|R|Single|C|Four-Seam Fastball|6|0|0|1|3|93
+Edgar Garcia|R|Yadier Molina|R|Single|B|Two-Seam Fastball|7|0|1|1|11|93
+Edgar Garcia|R|Yadier Molina|R|Single|D|Slider|8|1|1|1|14|85
+Edgar Garcia|R|Kolten Wong|L|Sac Fly|S|Slider|9|0|0|1|13|85
+Edgar Garcia|R|Kolten Wong|L|Sac Fly|B|Four-Seam Fastball|10|0|1|1|14|94
+Edgar Garcia|R|Kolten Wong|L|Sac Fly|F|Slider|11|1|1|1|14|86
+Edgar Garcia|R|Kolten Wong|L|Sac Fly|*B|Slider|12|1|2|1|14|87
+Edgar Garcia|R|Kolten Wong|L|Sac Fly|E|Four-Seam Fastball|13|2|2|1|1|93
+Edgar Garcia|R|Harrison Bader|R|Intent Walk|V|N/A|14|0|0|2|0|0
+Edgar Garcia|R|Harrison Bader|R|Intent Walk|V|N/A|15|0|1|2|0|0
+Edgar Garcia|R|Harrison Bader|R|Intent Walk|V|N/A|16|0|2|2|0|0
+Edgar Garcia|R|Harrison Bader|R|Intent Walk|V|N/A|17|0|2|2|0|0
+Edgar Garcia|R|Miles Mikolas|R|Flyout|S|Slider|18|0|0|2|8|85
+Edgar Garcia|R|Miles Mikolas|R|Flyout|B|Slider|19|0|1|2|14|84
+Edgar Garcia|R|Miles Mikolas|R|Flyout|B|Four-Seam Fastball|20|1|1|2|14|94
+Edgar Garcia|R|Miles Mikolas|R|Flyout|B|Four-Seam Fastball|21|2|1|2|14|91
+Edgar Garcia|R|Miles Mikolas|R|Flyout|C|Four-Seam Fastball|22|3|1|2|7|93
+Edgar Garcia|R|Miles Mikolas|R|Flyout|F|Four-Seam Fastball|23|3|2|2|5|93
+Edgar Garcia|R|Miles Mikolas|R|Flyout|X|Four-Seam Fastball|24|3|2|2|3|93
+Edgar Garcia|R|Paul DeJong|R|Walk|C|Four-Seam Fastball|0|0|0|0|8|93
+Edgar Garcia|R|Paul DeJong|R|Walk|F|Slider|1|0|1|0|9|87
+Edgar Garcia|R|Paul DeJong|R|Walk|B|Slider|2|0|2|0|14|84
+Edgar Garcia|R|Paul DeJong|R|Walk|B|Slider|3|1|2|0|14|88
+Edgar Garcia|R|Paul DeJong|R|Walk|F|Four-Seam Fastball|4|2|2|0|12|93
+Edgar Garcia|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|5|2|2|0|14|94
+Edgar Garcia|R|Paul DeJong|R|Walk|F|Four-Seam Fastball|6|3|2|0|1|93
+Edgar Garcia|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|7|3|2|0|11|93
+Edgar Garcia|R|Jedd Gyorko|R|Strikeout|S|Four-Seam Fastball|8|0|0|0|14|92
+Edgar Garcia|R|Jedd Gyorko|R|Strikeout|F|Slider|9|0|1|0|11|85
+Edgar Garcia|R|Jedd Gyorko|R|Strikeout|*B|Slider|10|0|2|0|13|86
+Edgar Garcia|R|Jedd Gyorko|R|Strikeout|S|Slider|11|1|2|0|14|85
+Edgar Garcia|R|Jose Martinez|R|Strikeout|S|Slider|12|0|0|1|14|86
+Edgar Garcia|R|Jose Martinez|R|Strikeout|B|Four-Seam Fastball|13|0|1|1|14|93
+Edgar Garcia|R|Jose Martinez|R|Strikeout|B|Four-Seam Fastball|14|1|1|1|14|94
+Edgar Garcia|R|Jose Martinez|R|Strikeout|F|Slider|15|2|1|1|8|86
+Edgar Garcia|R|Jose Martinez|R|Strikeout|C|Slider|16|2|2|1|5|86
+Edgar Garcia|R|Harrison Bader|R|Lineout|B|Four-Seam Fastball|17|0|0|2|14|93
+Edgar Garcia|R|Harrison Bader|R|Lineout|X|Four-Seam Fastball|18|1|0|2|6|93
+Edgar Garcia|R|Jesus Aguilar|R|Walk|C|Four-Seam Fastball|0|0|0|0|9|93
+Edgar Garcia|R|Jesus Aguilar|R|Walk|B|Slider|1|0|1|0|14|87
+Edgar Garcia|R|Jesus Aguilar|R|Walk|B|Four-Seam Fastball|2|1|1|0|14|93
+Edgar Garcia|R|Jesus Aguilar|R|Walk|F|Slider|3|2|1|0|14|87
+Edgar Garcia|R|Jesus Aguilar|R|Walk|B|Slider|4|2|2|0|14|87
+Edgar Garcia|R|Jesus Aguilar|R|Walk|B|Slider|5|3|2|0|14|86
+Edgar Garcia|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|6|0|0|0|13|93
+Edgar Garcia|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|7|1|0|0|13|92
+Edgar Garcia|R|Yasmani Grandal|L|Single|B|Four-Seam Fastball|8|2|0|0|13|92
+Edgar Garcia|R|Yasmani Grandal|L|Single|C|Four-Seam Fastball|9|3|0|0|8|93
+Edgar Garcia|R|Yasmani Grandal|L|Single|D|Four-Seam Fastball|10|3|1|0|4|93
+Edgar Garcia|R|Keston Hiura|R|Single|B|Four-Seam Fastball|11|0|0|0|11|93
+Edgar Garcia|R|Keston Hiura|R|Single|B|Slider|12|1|0|0|12|87
+Edgar Garcia|R|Keston Hiura|R|Single|F|Four-Seam Fastball|13|2|0|0|6|92
+Edgar Garcia|R|Keston Hiura|R|Single|C|Slider|14|2|1|0|13|85
+Edgar Garcia|R|Keston Hiura|R|Single|D|Slider|15|2|2|0|6|87
+Edgar Garcia|R|Orlando Arcia|R|Pop Out|B|Slider|16|0|0|0|12|84
+Edgar Garcia|R|Orlando Arcia|R|Pop Out|C|Four-Seam Fastball|17|1|0|0|9|92
+Edgar Garcia|R|Orlando Arcia|R|Pop Out|X|Four-Seam Fastball|18|1|1|0|11|92
+Edgar Garcia|R|Ben Gamel|L|Single|B|Four-Seam Fastball|19|0|0|1|13|93
+Edgar Garcia|R|Ben Gamel|L|Single|E|Four-Seam Fastball|20|1|0|1|13|92
+Edgar Garcia|R|Lorenzo Cain|R|Strikeout|C|Slider|21|0|0|1|11|85
+Edgar Garcia|R|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|22|0|1|1|11|92
+Edgar Garcia|R|Lorenzo Cain|R|Strikeout|S|Slider|23|0|2|1|14|86
+Edgar Garcia|R|Christian Yelich|L|Groundout|X|Slider|24|0|0|2|2|87
+Edgar Garcia|R|Eric Thames|L|Walk|B|Four-Seam Fastball|25|0|0|0|11|90
+Edgar Garcia|R|Eric Thames|L|Walk|C|Slider|26|1|0|0|4|87
+Edgar Garcia|R|Eric Thames|L|Walk|F|Slider|27|1|1|0|13|87
+Edgar Garcia|R|Eric Thames|L|Walk|B|Slider|28|1|2|0|11|85
+Edgar Garcia|R|Eric Thames|L|Walk|B|Four-Seam Fastball|29|2|2|0|11|93
+Edgar Garcia|R|Eric Thames|L|Walk|B|Slider|30|3|2|0|11|86
+Edgar Garcia|R|Mike Moustakas|L|Pop Out|X|Four-Seam Fastball|31|0|0|0|4|91
+Edgar Garcia|R|Jesus Aguilar|R|Grounded Into DP|F|Four-Seam Fastball|32|0|0|1|3|92
+Edgar Garcia|R|Jesus Aguilar|R|Grounded Into DP|C|Four-Seam Fastball|33|0|1|1|7|92
+Edgar Garcia|R|Jesus Aguilar|R|Grounded Into DP|X|Slider|34|0|2|1|9|88
+Edgar Garcia|R|Christian Yelich|L|Home Run|F|Slider|0|0|0|0|4|88
+Edgar Garcia|R|Christian Yelich|L|Home Run|E|Slider|1|0|1|0|5|87
+Edgar Garcia|R|Ryan Braun|R|Single|B|Four-Seam Fastball|2|0|0|0|14|94
+Edgar Garcia|R|Ryan Braun|R|Single|C|Four-Seam Fastball|3|1|0|0|14|94
+Edgar Garcia|R|Ryan Braun|R|Single|D|Slider|4|1|1|0|14|89
+Edgar Garcia|R|Mike Moustakas|L|Single|B|Slider|5|0|0|0|13|88
+Edgar Garcia|R|Mike Moustakas|L|Single|B|Four-Seam Fastball|6|1|0|0|14|94
+Edgar Garcia|R|Mike Moustakas|L|Single|D|Four-Seam Fastball|7|2|0|0|13|93
+Edgar Garcia|R|Yasmani Grandal|L|Walk|C|Four-Seam Fastball|8|0|0|0|11|95
+Edgar Garcia|R|Yasmani Grandal|L|Walk|*B|Slider|9|0|1|0|13|88
+Edgar Garcia|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|10|1|1|0|11|92
+Edgar Garcia|R|Yasmani Grandal|L|Walk|*B|Changeup|11|2|1|0|13|89
+Edgar Garcia|R|Yasmani Grandal|L|Walk|F|Four-Seam Fastball|12|3|1|0|2|93
+Edgar Garcia|R|Yasmani Grandal|L|Walk|F|Slider|13|3|2|0|14|88
+Edgar Garcia|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|14|3|2|0|14|95
+Edgar Garcia|R|Keston Hiura|R|Strikeout|S|Four-Seam Fastball|15|0|0|0|6|94
+Edgar Garcia|R|Keston Hiura|R|Strikeout|B|Four-Seam Fastball|16|0|1|0|11|93
+Edgar Garcia|R|Keston Hiura|R|Strikeout|S|Slider|17|1|1|0|14|87
+Edgar Garcia|R|Keston Hiura|R|Strikeout|F|Four-Seam Fastball|18|1|2|0|12|94
+Edgar Garcia|R|Keston Hiura|R|Strikeout|B|Four-Seam Fastball|19|1|2|0|11|94
+Edgar Garcia|R|Keston Hiura|R|Strikeout|S|Slider|20|2|2|0|12|87
+Edgar Garcia|R|Eric Thames|L|Walk|B|Four-Seam Fastball|21|0|0|1|11|93
+Edgar Garcia|R|Eric Thames|L|Walk|B|Four-Seam Fastball|22|1|0|1|12|92
+Edgar Garcia|R|Eric Thames|L|Walk|B|Slider|23|2|0|1|11|86
+Edgar Garcia|R|Eric Thames|L|Walk|B|Four-Seam Fastball|24|3|0|1|11|93
+Edgar Garcia|R|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|25|0|0|1|11|92
+Edgar Garcia|R|Orlando Arcia|R|Strikeout|C|Four-Seam Fastball|26|1|0|1|4|93
+Edgar Garcia|R|Orlando Arcia|R|Strikeout|C|Slider|27|1|1|1|7|87
+Edgar Garcia|R|Orlando Arcia|R|Strikeout|S|Slider|28|1|2|1|7|87
+Edgar Garcia|R|Hernan Perez|R|Lineout|C|Four-Seam Fastball|29|0|0|2|3|92
+Edgar Garcia|R|Hernan Perez|R|Lineout|F|Four-Seam Fastball|30|0|1|2|5|93
+Edgar Garcia|R|Hernan Perez|R|Lineout|B|Slider|31|0|2|2|11|87
+Edgar Garcia|R|Hernan Perez|R|Lineout|X|Slider|32|1|2|2|5|87
+Edgar Garcia|R|Chris Iannetta|R|Flyout|C|Slider|0|0|0|2|4|86
+Edgar Garcia|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|1|0|1|2|12|93
+Edgar Garcia|R|Chris Iannetta|R|Flyout|X|Slider|2|1|1|2|9|88
+Edgar Garcia|R|Marcell Ozuna|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|93
+Edgar Garcia|R|Marcell Ozuna|R|Pop Out|B|Slider|1|1|0|0|14|87
+Edgar Garcia|R|Marcell Ozuna|R|Pop Out|F|Slider|2|2|0|0|1|87
+Edgar Garcia|R|Marcell Ozuna|R|Pop Out|B|Four-Seam Fastball|3|2|1|0|14|95
+Edgar Garcia|R|Marcell Ozuna|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|1|93
+Edgar Garcia|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|5|0|0|1|11|93
+Edgar Garcia|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|6|1|0|1|13|94
+Edgar Garcia|R|Matt Carpenter|L|Groundout|F|Four-Seam Fastball|7|2|0|1|4|93
+Edgar Garcia|R|Matt Carpenter|L|Groundout|C|Slider|8|2|1|1|11|86
+Edgar Garcia|R|Matt Carpenter|L|Groundout|F|Slider|9|2|2|1|8|88
+Edgar Garcia|R|Matt Carpenter|L|Groundout|X|Slider|10|2|2|1|13|87
+Edgar Garcia|R|Yadier Molina|R|Strikeout|B|Slider|11|0|0|2|13|87
+Edgar Garcia|R|Yadier Molina|R|Strikeout|B|Four-Seam Fastball|12|1|0|2|14|93
+Edgar Garcia|R|Yadier Molina|R|Strikeout|C|Four-Seam Fastball|13|2|0|2|9|92
+Edgar Garcia|R|Yadier Molina|R|Strikeout|B|Four-Seam Fastball|14|2|1|2|12|94
+Edgar Garcia|R|Yadier Molina|R|Strikeout|F|Four-Seam Fastball|15|3|1|2|1|93
+Edgar Garcia|R|Yadier Molina|R|Strikeout|T|Four-Seam Fastball|16|3|2|2|8|94
+Edgar Garcia|R|Kolten Wong|L|Strikeout|B|Slider|17|0|0|0|13|86
+Edgar Garcia|R|Kolten Wong|L|Strikeout|C|Four-Seam Fastball|18|1|0|0|7|93
+Edgar Garcia|R|Kolten Wong|L|Strikeout|S|Slider|19|1|1|0|14|87
+Edgar Garcia|R|Kolten Wong|L|Strikeout|B|Four-Seam Fastball|20|1|2|0|11|93
+Edgar Garcia|R|Kolten Wong|L|Strikeout|W|Slider|21|2|2|0|13|87
+Edgar Garcia|R|Harrison Bader|R|Pop Out|X|Slider|22|0|0|1|5|88
+Edgar Garcia|R|Jedd Gyorko|R|Single|C|Slider|23|0|0|2|13|88
+Edgar Garcia|R|Jedd Gyorko|R|Single|S|Slider|24|0|1|2|13|86
+Edgar Garcia|R|Jedd Gyorko|R|Single|B|Slider|25|0|2|2|13|87
+Edgar Garcia|R|Jedd Gyorko|R|Single|B|Four-Seam Fastball|26|1|2|2|12|93
+Edgar Garcia|R|Jedd Gyorko|R|Single|F|Slider|27|2|2|2|7|86
+Edgar Garcia|R|Jedd Gyorko|R|Single|D|Four-Seam Fastball|28|2|2|2|9|95
+Edgar Garcia|R|Harrison Bader|R|Flyout|B|Slider|0|0|0|0|14|86
+Edgar Garcia|R|Harrison Bader|R|Flyout|C|Slider|1|1|0|0|8|85
+Edgar Garcia|R|Harrison Bader|R|Flyout|B|Slider|2|1|1|0|14|86
+Edgar Garcia|R|Harrison Bader|R|Flyout|X|Four-Seam Fastball|3|2|1|0|3|92
+Edgar Garcia|R|Matt Carpenter|L|Home Run|C|Four-Seam Fastball|4|0|0|1|14|94
+Edgar Garcia|R|Matt Carpenter|L|Home Run|B|Slider|5|0|1|1|13|86
+Edgar Garcia|R|Matt Carpenter|L|Home Run|F|Slider|6|1|1|1|7|86
+Edgar Garcia|R|Matt Carpenter|L|Home Run|B|Slider|7|1|2|1|14|87
+Edgar Garcia|R|Matt Carpenter|L|Home Run|E|Four-Seam Fastball|8|2|2|1|4|93
+Edgar Garcia|R|Kolten Wong|L|Flyout|B|Slider|9|0|0|1|14|86
+Edgar Garcia|R|Kolten Wong|L|Flyout|B|Four-Seam Fastball|10|1|0|1|13|92
+Edgar Garcia|R|Kolten Wong|L|Flyout|X|Four-Seam Fastball|11|2|0|1|5|93
+Edgar Garcia|R|Tim Locastro|R|Flyout|C|Four-Seam Fastball|0|0|0|0|5|94
+Edgar Garcia|R|Tim Locastro|R|Flyout|C|Slider|1|0|1|0|4|86
+Edgar Garcia|R|Tim Locastro|R|Flyout|X|Slider|2|0|2|0|5|87
+Edgar Garcia|R|Ketel Marte|L|Flyout|B|Slider|3|0|0|1|11|87
+Edgar Garcia|R|Ketel Marte|L|Flyout|X|Two-Seam Fastball|4|1|0|1|11|94
+Edgar Garcia|R|David Peralta|L|Walk|B|Two-Seam Fastball|5|0|0|2|11|95
+Edgar Garcia|R|David Peralta|L|Walk|B|Four-Seam Fastball|6|1|0|2|11|93
+Edgar Garcia|R|David Peralta|L|Walk|F|Four-Seam Fastball|7|2|0|2|7|94
+Edgar Garcia|R|David Peralta|L|Walk|F|Slider|8|2|1|2|7|87
+Edgar Garcia|R|David Peralta|L|Walk|B|Four-Seam Fastball|9|2|2|2|11|95
+Edgar Garcia|R|David Peralta|L|Walk|B|Four-Seam Fastball|10|3|2|2|11|94
+Edgar Garcia|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|11|0|0|2|3|94
+Edgar Garcia|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|12|0|1|2|6|95
+Edgar Garcia|R|Adam Jones|R|Strikeout|B|Slider|13|0|2|2|14|88
+Edgar Garcia|R|Adam Jones|R|Strikeout|S|Slider|14|1|2|2|14|86
+Edgar Garcia|R|Miguel Rojas|R|Single|D|Four-Seam Fastball|0|0|0|0|9|94
+Edgar Garcia|R|Harold Ramirez|R|Grounded Into DP|C|Slider|1|0|0|0|7|88
+Edgar Garcia|R|Harold Ramirez|R|Grounded Into DP|X|Slider|2|0|1|0|8|88
+Edgar Garcia|R|Garrett Cooper|R|Home Run|E|Four-Seam Fastball|3|0|0|2|3|93
+Edgar Garcia|R|Brian Anderson|R|Home Run|C|Slider|4|0|0|2|4|86
+Edgar Garcia|R|Brian Anderson|R|Home Run|F|Four-Seam Fastball|5|0|1|2|3|94
+Edgar Garcia|R|Brian Anderson|R|Home Run|E|Slider|6|0|2|2|4|85
+Edgar Garcia|R|Starlin Castro|R|Single|B|Four-Seam Fastball|7|0|0|2|14|94
+Edgar Garcia|R|Starlin Castro|R|Single|S|Slider|8|1|0|2|14|87
+Edgar Garcia|R|Starlin Castro|R|Single|D|Slider|9|1|1|2|14|86
+Edgar Garcia|R|Cesar Puello|R|Groundout|*B|Slider|10|0|0|2|14|87
+Edgar Garcia|R|Cesar Puello|R|Groundout|B|Four-Seam Fastball|11|1|0|2|14|94
+Edgar Garcia|R|Cesar Puello|R|Groundout|*B|Slider|12|2|0|2|14|87
+Edgar Garcia|R|Cesar Puello|R|Groundout|C|Four-Seam Fastball|13|3|0|2|14|94
+Edgar Garcia|R|Cesar Puello|R|Groundout|C|Four-Seam Fastball|14|3|1|2|9|94
+Edgar Garcia|R|Cesar Puello|R|Groundout|X|Four-Seam Fastball|15|3|2|2|14|93
+Edgar Garcia|R|Todd Frazier|R|Groundout|B|Slider|0|0|0|0|12|88
+Edgar Garcia|R|Todd Frazier|R|Groundout|C|Slider|1|1|0|0|3|87
+Edgar Garcia|R|Todd Frazier|R|Groundout|X|Two-Seam Fastball|2|1|1|0|1|95
+Edgar Garcia|R|J.D. Davis|R|Strikeout|S|Slider|3|0|0|1|14|89
+Edgar Garcia|R|J.D. Davis|R|Strikeout|B|Slider|4|0|1|1|14|88
+Edgar Garcia|R|J.D. Davis|R|Strikeout|S|Slider|5|1|1|1|13|89
+Edgar Garcia|R|J.D. Davis|R|Strikeout|F|Slider|6|1|2|1|7|88
+Edgar Garcia|R|J.D. Davis|R|Strikeout|B|Four-Seam Fastball|7|1|2|1|11|94
+Edgar Garcia|R|J.D. Davis|R|Strikeout|F|Two-Seam Fastball|8|2|2|1|11|95
+Edgar Garcia|R|J.D. Davis|R|Strikeout|B|Slider|9|2|2|1|14|88
+Edgar Garcia|R|J.D. Davis|R|Strikeout|S|Slider|10|3|2|1|6|89
+Edgar Garcia|R|Amed Rosario|R|Flyout|B|Four-Seam Fastball|11|0|0|2|14|96
+Edgar Garcia|R|Amed Rosario|R|Flyout|B|Slider|12|1|0|2|14|89
+Edgar Garcia|R|Amed Rosario|R|Flyout|S|Slider|13|2|0|2|14|89
+Edgar Garcia|R|Amed Rosario|R|Flyout|F|Slider|14|2|1|2|13|88
+Edgar Garcia|R|Amed Rosario|R|Flyout|B|Slider|15|2|2|2|13|88
+Edgar Garcia|R|Amed Rosario|R|Flyout|X|Slider|16|3|2|2|7|88
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|95
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Slider|1|1|0|0|14|88
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|C|Four-Seam Fastball|2|2|0|0|12|94
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Slider|3|2|1|0|14|87
+Edgar Garcia|R|Ryan Zimmerman|R|Walk|B|Two-Seam Fastball|4|3|1|0|13|94
+Edgar Garcia|R|Brian Dozier|R|Strikeout|C|Four-Seam Fastball|5|0|0|0|2|94
+Edgar Garcia|R|Brian Dozier|R|Strikeout|C|Four-Seam Fastball|6|0|1|0|3|95
+Edgar Garcia|R|Brian Dozier|R|Strikeout|B|Slider|7|0|2|0|9|87
+Edgar Garcia|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|8|1|2|0|12|95
+Edgar Garcia|R|Brian Dozier|R|Strikeout|S|Slider|9|1|2|0|12|85
+Edgar Garcia|R|Kurt Suzuki|R|Flyout|X|Slider|10|0|0|1|6|88
+Edgar Garcia|R|Victor Robles|R|Lineout|*B|Slider|11|0|0|2|14|88
+Edgar Garcia|R|Victor Robles|R|Lineout|B|Four-Seam Fastball|12|1|0|2|14|94
+Edgar Garcia|R|Victor Robles|R|Lineout|W|Four-Seam Fastball|13|2|0|2|14|95
+Edgar Garcia|R|Victor Robles|R|Lineout|F|Slider|14|2|1|2|5|87
+Edgar Garcia|R|Victor Robles|R|Lineout|X|Slider|15|2|2|2|8|86
+Edgar Garcia|R|Cody Bellinger|L|Single|C|Four-Seam Fastball|0|0|0|0|8|92
+Edgar Garcia|R|Cody Bellinger|L|Single|*B|Changeup|1|0|1|0|14|89
+Edgar Garcia|R|Cody Bellinger|L|Single|D|Four-Seam Fastball|2|1|1|0|4|92
+Edgar Garcia|R|Yimi Garcia|R|Strikeout|C|Four-Seam Fastball|3|0|0|0|1|92
+Edgar Garcia|R|Yimi Garcia|R|Strikeout|C|Four-Seam Fastball|4|0|1|0|8|94
+Edgar Garcia|R|Yimi Garcia|R|Strikeout|*B|Four-Seam Fastball|5|0|2|0|14|93
+Edgar Garcia|R|Yimi Garcia|R|Strikeout|*B|Four-Seam Fastball|6|1|2|0|14|92
+Edgar Garcia|R|Yimi Garcia|R|Strikeout|C|Four-Seam Fastball|7|2|2|0|4|91
+Edgar Garcia|R|Corey Seager|L|Walk|*B|Slider|8|0|0|1|13|87
+Edgar Garcia|R|Corey Seager|L|Walk|F|Four-Seam Fastball|9|1|0|1|13|93
+Edgar Garcia|R|Corey Seager|L|Walk|*B|Slider|10|1|1|1|14|87
+Edgar Garcia|R|Corey Seager|L|Walk|*B|Slider|11|2|1|1|14|86
+Edgar Garcia|R|Corey Seager|L|Walk|B|Four-Seam Fastball|12|3|1|1|14|94
+Edgar Garcia|R|Enrique Hernandez|R|Walk|*B|Slider|13|0|0|1|14|85
+Edgar Garcia|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|14|1|0|1|14|93
+Edgar Garcia|R|Enrique Hernandez|R|Walk|*B|Two-Seam Fastball|15|2|0|1|14|94
+Edgar Garcia|R|Enrique Hernandez|R|Walk|*B|Four-Seam Fastball|16|3|0|1|14|93
+Edgar Garcia|R|Austin Barnes|R|Sac Fly|B|Four-Seam Fastball|17|0|0|1|14|94
+Edgar Garcia|R|Austin Barnes|R|Sac Fly|B|Four-Seam Fastball|18|1|0|1|14|93
+Edgar Garcia|R|Austin Barnes|R|Sac Fly|C|Four-Seam Fastball|19|2|0|1|5|93
+Edgar Garcia|R|Austin Barnes|R|Sac Fly|E|Four-Seam Fastball|20|2|1|1|8|93
+Edgar Garcia|R|Matt Beaty|L|Walk|B|Slider|21|0|0|2|13|87
+Edgar Garcia|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|22|1|0|2|13|94
+Edgar Garcia|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|23|2|0|2|13|94
+Edgar Garcia|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|24|3|0|2|14|93
+Edgar Garcia|R|A.J. Pollock|R|Groundout|C|Four-Seam Fastball|0|0|0|0|14|94
+Edgar Garcia|R|A.J. Pollock|R|Groundout|B|Slider|1|0|1|0|14|87
+Edgar Garcia|R|A.J. Pollock|R|Groundout|F|Slider|2|1|1|0|8|88
+Edgar Garcia|R|A.J. Pollock|R|Groundout|X|Four-Seam Fastball|3|1|2|0|8|95
+Edgar Garcia|R|Corey Seager|L|Lineout|C|Four-Seam Fastball|4|0|0|1|7|94
+Edgar Garcia|R|Corey Seager|L|Lineout|X|Slider|5|0|1|1|8|86
+Edgar Garcia|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|6|0|0|2|14|94
+Edgar Garcia|R|Enrique Hernandez|R|Walk|B|Slider|7|1|0|2|14|87
+Edgar Garcia|R|Enrique Hernandez|R|Walk|B|Four-Seam Fastball|8|2|0|2|14|94
+Edgar Garcia|R|Enrique Hernandez|R|Walk|C|Slider|9|3|0|2|1|86
+Edgar Garcia|R|Enrique Hernandez|R|Walk|B|Slider|10|3|1|2|14|87
+Edgar Garcia|R|Russell Martin|R|Walk|S|Slider|11|0|0|2|14|88
+Edgar Garcia|R|Russell Martin|R|Walk|B|Four-Seam Fastball|12|0|1|2|14|95
+Edgar Garcia|R|Russell Martin|R|Walk|*B|Four-Seam Fastball|13|1|1|2|14|95
+Edgar Garcia|R|Russell Martin|R|Walk|F|Slider|14|2|1|2|9|88
+Edgar Garcia|R|Russell Martin|R|Walk|*B|Slider|15|2|2|2|14|88
+Edgar Garcia|R|Russell Martin|R|Walk|B|Slider|16|3|2|2|14|87
+Edgar Garcia|R|Julio Urias|L|Single|B|Four-Seam Fastball|17|0|0|2|11|94
+Edgar Garcia|R|Julio Urias|L|Single|B|Four-Seam Fastball|18|1|0|2|13|93
+Edgar Garcia|R|Julio Urias|L|Single|C|Four-Seam Fastball|19|2|0|2|7|94
+Edgar Garcia|R|Julio Urias|L|Single|F|Four-Seam Fastball|20|2|1|2|5|94
+Edgar Garcia|R|Julio Urias|L|Single|B|Four-Seam Fastball|21|2|2|2|13|94
+Edgar Garcia|R|Julio Urias|L|Single|E|Four-Seam Fastball|22|3|2|2|8|95
+Edgar Garcia|R|Joc Pederson|L|Strikeout|B|Slider|23|0|0|2|14|88
+Edgar Garcia|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|24|1|0|2|14|94
+Edgar Garcia|R|Joc Pederson|L|Strikeout|S|Two-Seam Fastball|25|2|0|2|13|94
+Edgar Garcia|R|Joc Pederson|L|Strikeout|B|Two-Seam Fastball|26|2|1|2|14|95
+Edgar Garcia|R|Joc Pederson|L|Strikeout|T|Four-Seam Fastball|27|3|1|2|14|94
+Edgar Garcia|R|Joc Pederson|L|Strikeout|C|Four-Seam Fastball|28|3|2|2|9|94
+Edgar Garcia|R|Yefry Ramirez|R|Flyout|B|Four-Seam Fastball|0|0|0|0|11|92
+Edgar Garcia|R|Yefry Ramirez|R|Flyout|X|Four-Seam Fastball|1|1|0|0|11|93
+Edgar Garcia|R|Starling Marte|R|Single|C|Four-Seam Fastball|2|0|0|1|5|94
+Edgar Garcia|R|Starling Marte|R|Single|F|Slider|3|0|1|1|8|87
+Edgar Garcia|R|Starling Marte|R|Single|D|Four-Seam Fastball|4|0|2|1|3|95
+Edgar Garcia|R|Josh Bell|L|Grounded Into DP|C|Four-Seam Fastball|5|0|0|1|13|94
+Edgar Garcia|R|Josh Bell|L|Grounded Into DP|S|Changeup|6|0|1|1|13|89
+Edgar Garcia|R|Josh Bell|L|Grounded Into DP|B|Four-Seam Fastball|7|0|2|1|12|93
+Edgar Garcia|R|Josh Bell|L|Grounded Into DP|X|Slider|8|1|2|1|1|89
+Edgar Garcia|R|Colin Moran|L|Groundout|X|Four-Seam Fastball|9|0|0|0|8|94
+Edgar Garcia|R|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|10|0|0|1|11|92
+Edgar Garcia|R|Jose Osuna|R|Strikeout|F|Slider|11|0|1|1|8|85
+Edgar Garcia|R|Jose Osuna|R|Strikeout|S|Slider|12|0|2|1|14|87
+Edgar Garcia|R|Adam Frazier|L|Double|D|Four-Seam Fastball|13|0|0|2|4|94
+Edgar Garcia|R|Jacob Stallings|R|Flyout|X|Slider|14|0|0|2|1|86
+Edgar Garcia|R|Wilson Ramos|R|Groundout|S|Two-Seam Fastball|0|0|0|1|11|94
+Edgar Garcia|R|Wilson Ramos|R|Groundout|B|Slider|1|0|1|1|13|85
+Edgar Garcia|R|Wilson Ramos|R|Groundout|C|Two-Seam Fastball|2|1|1|1|7|94
+Edgar Garcia|R|Wilson Ramos|R|Groundout|X|Two-Seam Fastball|3|1|2|1|5|95
+Edgar Garcia|R|Juan Lagares|R|Groundout|S|Slider|4|0|0|2|14|85
+Edgar Garcia|R|Juan Lagares|R|Groundout|B|Slider|5|0|1|2|14|87
+Edgar Garcia|R|Juan Lagares|R|Groundout|X|Two-Seam Fastball|6|1|1|2|13|94
+Edgar Garcia|R|Jeff McNeil|L|Lineout|X|Slider|7|0|0|0|11|89
+Edgar Garcia|R|Pete Alonso|R|Single|B|Two-Seam Fastball|8|0|0|1|14|95
+Edgar Garcia|R|Pete Alonso|R|Single|C|Two-Seam Fastball|9|1|0|1|4|95
+Edgar Garcia|R|Pete Alonso|R|Single|D|Slider|10|1|1|1|9|86
+Edgar Garcia|R|Michael Conforto|L|Home Run|E|Slider|11|0|0|1|5|86
+Edgar Garcia|R|J.D. Davis|R|Walk|B|Slider|12|0|0|1|14|88
+Edgar Garcia|R|J.D. Davis|R|Walk|B|Two-Seam Fastball|13|1|0|1|13|94
+Edgar Garcia|R|J.D. Davis|R|Walk|B|Four-Seam Fastball|14|2|0|1|14|94
+Edgar Garcia|R|J.D. Davis|R|Walk|B|Four-Seam Fastball|15|3|0|1|12|94
+Edgar Garcia|R|Joe Panik|L|Double|B|Two-Seam Fastball|16|0|0|1|14|95
+Edgar Garcia|R|Joe Panik|L|Double|*B|Two-Seam Fastball|17|1|0|1|13|94
+Edgar Garcia|R|Joe Panik|L|Double|C|Four-Seam Fastball|18|2|0|1|8|93
+Edgar Garcia|R|Joe Panik|L|Double|*B|Changeup|19|2|1|1|14|88
+Edgar Garcia|R|Joe Panik|L|Double|D|Four-Seam Fastball|20|3|1|1|11|94
+Edgar Garcia|R|Amed Rosario|R|Strikeout|F|Four-Seam Fastball|21|0|0|1|11|93
+Edgar Garcia|R|Amed Rosario|R|Strikeout|S|Slider|22|0|1|1|14|86
+Edgar Garcia|R|Amed Rosario|R|Strikeout|S|Slider|23|0|2|1|14|85
+Edgar Garcia|R|Todd Frazier|R|Home Run|E|Two-Seam Fastball|24|0|0|2|4|93
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|B|Two-Seam Fastball|25|0|0|2|13|94
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|26|1|0|2|14|95
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|C|Two-Seam Fastball|27|2|0|2|9|93
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|28|2|1|2|13|93
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|F|Two-Seam Fastball|29|2|2|2|11|94
+Edgar Garcia|R|Wilson Ramos|R|Strikeout|S|Slider|30|2|2|2|8|85
+Edgar Garcia|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Edgar Garcia|R|Dansby Swanson|R|Walk|C|Four-Seam Fastball|1|1|0|0|8|93
+Edgar Garcia|R|Dansby Swanson|R|Walk|B|Slider|2|1|1|0|14|87
+Edgar Garcia|R|Dansby Swanson|R|Walk|B|Slider|3|2|1|0|1|85
+Edgar Garcia|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|92
+Edgar Garcia|R|Rafael Ortega|L|Grounded Into DP|S|Two-Seam Fastball|5|0|0|0|13|92
+Edgar Garcia|R|Rafael Ortega|L|Grounded Into DP|B|Two-Seam Fastball|6|0|1|0|13|93
+Edgar Garcia|R|Rafael Ortega|L|Grounded Into DP|F|Slider|7|1|1|0|11|88
+Edgar Garcia|R|Rafael Ortega|L|Grounded Into DP|X|Slider|8|1|2|0|13|88
+Edgar Garcia|R|Johan Camargo|L|Strikeout|F|Four-Seam Fastball|9|0|0|2|4|93
+Edgar Garcia|R|Johan Camargo|L|Strikeout|C|Changeup|10|0|1|2|8|89
+Edgar Garcia|R|Johan Camargo|L|Strikeout|B|Changeup|11|0|2|2|14|88
+Edgar Garcia|R|Johan Camargo|L|Strikeout|F|Slider|12|1|2|2|14|87
+Edgar Garcia|R|Johan Camargo|L|Strikeout|B|Four-Seam Fastball|13|1|2|2|11|93
+Edgar Garcia|R|Johan Camargo|L|Strikeout|F|Slider|14|2|2|2|5|88
+Edgar Garcia|R|Johan Camargo|L|Strikeout|F|Changeup|15|2|2|2|14|89
+Edgar Garcia|R|Johan Camargo|L|Strikeout|S|Two-Seam Fastball|16|2|2|2|13|92
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|B|Two-Seam Fastball|0|0|0|2|14|93
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|B|Slider|1|1|0|2|14|87
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|*B|Two-Seam Fastball|2|2|0|2|13|93
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|F|Four-Seam Fastball|3|3|0|2|3|92
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|C|Slider|4|3|1|2|11|85
+Edgar Garcia|R|Ronald Acuna Jr.|R|Flyout|X|Slider|5|3|2|2|4|85
+Edgar Garcia|R|Ozzie Albies|L|Strikeout|C|Slider|6|0|0|0|11|88
+Edgar Garcia|R|Ozzie Albies|L|Strikeout|S|Two-Seam Fastball|7|0|1|0|11|94
+Edgar Garcia|R|Ozzie Albies|L|Strikeout|S|Changeup|8|0|2|0|13|89
+Edgar Garcia|R|Freddie Freeman|L|Single|S|Slider|9|0|0|1|4|86
+Edgar Garcia|R|Freddie Freeman|L|Single|D|Two-Seam Fastball|10|0|1|1|4|94
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|B|Two-Seam Fastball|11|0|0|1|13|93
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|B|Slider|12|1|0|1|14|86
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|F|Four-Seam Fastball|13|2|0|1|7|94
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|F|Two-Seam Fastball|14|2|1|1|4|93
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|F|Slider|15|2|2|1|6|86
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|F|Four-Seam Fastball|16|2|2|1|1|93
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|B|Slider|17|2|2|1|11|88
+Edgar Garcia|R|Josh Donaldson|R|Batter Interference|S|Slider|18|3|2|1|9|88
+Edgar Garcia|R|Austin Dean|R|Lineout|B|Four-Seam Fastball|0|0|0|0|12|92
+Edgar Garcia|R|Austin Dean|R|Lineout|C|Slider|1|1|0|0|11|85
+Edgar Garcia|R|Austin Dean|R|Lineout|S|Slider|2|1|1|0|13|85
+Edgar Garcia|R|Austin Dean|R|Lineout|X|Slider|3|1|2|0|14|85
+Edgar Garcia|R|Bryan Holaday|R|Flyout|B|Slider|4|0|0|1|14|86
+Edgar Garcia|R|Bryan Holaday|R|Flyout|C|Four-Seam Fastball|5|1|0|1|12|92
+Edgar Garcia|R|Bryan Holaday|R|Flyout|B|Slider|6|1|1|1|14|86
+Edgar Garcia|R|Bryan Holaday|R|Flyout|X|Four-Seam Fastball|7|2|1|1|8|91
+Edgar Garcia|R|Sandy Alcantara|R|Strikeout|C|Four-Seam Fastball|8|0|0|2|6|92
+Edgar Garcia|R|Sandy Alcantara|R|Strikeout|C|Four-Seam Fastball|9|0|1|2|9|92
+Edgar Garcia|R|Sandy Alcantara|R|Strikeout|B|Slider|10|0|2|2|14|85
+Edgar Garcia|R|Sandy Alcantara|R|Strikeout|C|Four-Seam Fastball|11|1|2|2|5|91
+Edgar Garcia|R|Jon Berti|R|Single|B|Slider|12|0|0|0|14|87
+Edgar Garcia|R|Jon Berti|R|Single|B|Four-Seam Fastball|13|1|0|0|12|93
+Edgar Garcia|R|Jon Berti|R|Single|C|Four-Seam Fastball|14|2|0|0|9|93
+Edgar Garcia|R|Jon Berti|R|Single|C|Slider|15|2|1|0|13|86
+Edgar Garcia|R|Jon Berti|R|Single|F|Four-Seam Fastball|16|2|2|0|6|93
+Edgar Garcia|R|Jon Berti|R|Single|D|Slider|17|2|2|0|14|86
+Edgar Garcia|R|Martin Prado|R|Home Run|B|Four-Seam Fastball|18|0|0|0|14|92
+Edgar Garcia|R|Martin Prado|R|Home Run|F|Four-Seam Fastball|19|1|0|0|11|93
+Edgar Garcia|R|Martin Prado|R|Home Run|B|Four-Seam Fastball|20|1|1|0|12|93
+Edgar Garcia|R|Martin Prado|R|Home Run|E|Four-Seam Fastball|21|2|1|0|1|93
+Edgar Garcia|R|Curtis Granderson|L|Flyout|X|Four-Seam Fastball|22|0|0|1|11|93
+Edgar Garcia|R|Starlin Castro|R|Flyout|B|Slider|23|0|0|2|14|86
+Edgar Garcia|R|Starlin Castro|R|Flyout|C|Slider|24|1|0|2|13|85
+Edgar Garcia|R|Starlin Castro|R|Flyout|X|Four-Seam Fastball|25|1|1|2|9|92
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|13|96
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|S|Slider|1|0|1|0|14|88
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|F|Slider|2|0|2|0|14|88
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|3|0|2|0|12|94
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|B|Two-Seam Fastball|4|1|2|0|13|95
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|B|Two-Seam Fastball|5|2|2|0|11|95
+Edgar Garcia|R|Ronald Acuna Jr.|R|Strikeout|W|Slider|6|3|2|0|14|88
+Edgar Garcia|R|Dansby Swanson|R|Flyout|B|Slider|7|0|0|1|14|87
+Edgar Garcia|R|Dansby Swanson|R|Flyout|S|Two-Seam Fastball|8|1|0|1|13|94
+Edgar Garcia|R|Dansby Swanson|R|Flyout|B|Slider|9|1|1|1|14|88
+Edgar Garcia|R|Dansby Swanson|R|Flyout|B|Four-Seam Fastball|10|2|1|1|11|94
+Edgar Garcia|R|Dansby Swanson|R|Flyout|F|Two-Seam Fastball|11|3|1|1|13|95
+Edgar Garcia|R|Dansby Swanson|R|Flyout|X|Two-Seam Fastball|12|3|2|1|11|94
+Edgar Garcia|R|Freddie Freeman|L|Home Run|B|Two-Seam Fastball|13|0|0|2|13|95
+Edgar Garcia|R|Freddie Freeman|L|Home Run|S|Two-Seam Fastball|14|1|0|2|4|95
+Edgar Garcia|R|Freddie Freeman|L|Home Run|B|Slider|15|1|1|2|14|88
+Edgar Garcia|R|Freddie Freeman|L|Home Run|E|Two-Seam Fastball|16|2|1|2|11|94
+Edgar Garcia|R|Josh Donaldson|R|Home Run|B|Slider|17|0|0|2|14|88
+Edgar Garcia|R|Josh Donaldson|R|Home Run|B|Slider|18|1|0|2|14|87
+Edgar Garcia|R|Josh Donaldson|R|Home Run|E|Two-Seam Fastball|19|2|0|2|8|94
+Edgar Garcia|R|Nick Markakis|L|Strikeout|S|Four-Seam Fastball|20|0|0|2|2|93
+Edgar Garcia|R|Nick Markakis|L|Strikeout|S|Slider|21|0|1|2|14|87
+Edgar Garcia|R|Nick Markakis|L|Strikeout|B|Slider|22|0|2|2|14|87
+Edgar Garcia|R|Nick Markakis|L|Strikeout|B|Four-Seam Fastball|23|1|2|2|11|93
+Edgar Garcia|R|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|24|2|2|2|14|94
+Edgar Garcia|R|Austin Riley|R|Strikeout|C|Four-Seam Fastball|25|0|0|0|6|94
+Edgar Garcia|R|Austin Riley|R|Strikeout|B|Two-Seam Fastball|26|0|1|0|13|94
+Edgar Garcia|R|Austin Riley|R|Strikeout|S|Slider|27|1|1|0|14|89
+Edgar Garcia|R|Austin Riley|R|Strikeout|B|Four-Seam Fastball|28|1|2|0|12|94
+Edgar Garcia|R|Austin Riley|R|Strikeout|B|Slider|29|2|2|0|14|88
+Edgar Garcia|R|Austin Riley|R|Strikeout|S|Slider|30|3|2|0|14|88
+Edgar Garcia|R|Brian McCann|L|Strikeout|C|Four-Seam Fastball|31|0|0|1|8|95
+Edgar Garcia|R|Brian McCann|L|Strikeout|B|Four-Seam Fastball|32|0|1|1|12|95
+Edgar Garcia|R|Brian McCann|L|Strikeout|B|Four-Seam Fastball|33|1|1|1|11|95
+Edgar Garcia|R|Brian McCann|L|Strikeout|S|Slider|34|2|1|1|13|89
+Edgar Garcia|R|Brian McCann|L|Strikeout|F|Four-Seam Fastball|35|2|2|1|11|95
+Edgar Garcia|R|Brian McCann|L|Strikeout|B|Slider|36|2|2|1|11|87
+Edgar Garcia|R|Brian McCann|L|Strikeout|S|Slider|37|3|2|1|8|88
+Edgar Garcia|R|Ozzie Albies|L|Lineout|F|Slider|38|0|0|2|8|89
+Edgar Garcia|R|Ozzie Albies|L|Lineout|F|Slider|39|0|1|2|9|89
+Edgar Garcia|R|Ozzie Albies|L|Lineout|B|Four-Seam Fastball|40|0|2|2|11|94
+Edgar Garcia|R|Ozzie Albies|L|Lineout|F|Slider|41|1|2|2|7|88
+Edgar Garcia|R|Ozzie Albies|L|Lineout|B|Slider|42|1|2|2|13|85
+Edgar Garcia|R|Ozzie Albies|L|Lineout|F|Four-Seam Fastball|43|2|2|2|13|95
+Edgar Garcia|R|Ozzie Albies|L|Lineout|B|Slider|44|2|2|2|14|87
+Edgar Garcia|R|Ozzie Albies|L|Lineout|X|Slider|45|3|2|2|13|88
+Edgar Garcia|R|Brian Anderson|R|Grounded Into DP|B|Slider|0|0|0|1|13|88
+Edgar Garcia|R|Brian Anderson|R|Grounded Into DP|B|Two-Seam Fastball|1|1|0|1|11|94
+Edgar Garcia|R|Brian Anderson|R|Grounded Into DP|B|Two-Seam Fastball|2|2|0|1|13|93
+Edgar Garcia|R|Brian Anderson|R|Grounded Into DP|C|Four-Seam Fastball|3|3|0|1|2|94
+Edgar Garcia|R|Brian Anderson|R|Grounded Into DP|X|Two-Seam Fastball|4|3|1|1|13|94
+Edgar Garcia|R|Neil Walker|L|Flyout|B|Slider|5|0|0|0|13|86
+Edgar Garcia|R|Neil Walker|L|Flyout|F|Four-Seam Fastball|6|1|0|0|4|94
+Edgar Garcia|R|Neil Walker|L|Flyout|B|Four-Seam Fastball|7|1|1|0|11|93
+Edgar Garcia|R|Neil Walker|L|Flyout|T|Four-Seam Fastball|8|2|1|0|2|94
+Edgar Garcia|R|Neil Walker|L|Flyout|B|Slider|9|2|2|0|14|87
+Edgar Garcia|R|Neil Walker|L|Flyout|X|Four-Seam Fastball|10|3|2|0|4|94
+Edgar Garcia|R|Starlin Castro|R|Strikeout|F|Slider|11|0|0|1|9|86
+Edgar Garcia|R|Starlin Castro|R|Strikeout|B|Two-Seam Fastball|12|0|1|1|14|94
+Edgar Garcia|R|Starlin Castro|R|Strikeout|B|Slider|13|1|1|1|14|86
+Edgar Garcia|R|Starlin Castro|R|Strikeout|F|Slider|14|2|1|1|9|86
+Edgar Garcia|R|Starlin Castro|R|Strikeout|F|Slider|15|2|2|1|14|87
+Edgar Garcia|R|Starlin Castro|R|Strikeout|B|Four-Seam Fastball|16|2|2|1|14|94
+Edgar Garcia|R|Starlin Castro|R|Strikeout|F|Slider|17|3|2|1|13|88
+Edgar Garcia|R|Starlin Castro|R|Strikeout|T|Four-Seam Fastball|18|3|2|1|6|94
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|B|Two-Seam Fastball|19|0|0|2|13|95
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|S|Slider|20|1|0|2|14|88
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|S|Slider|21|1|1|2|14|88
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|S|Slider|22|1|2|2|14|87
+Edgar Garcia|R|Miguel Rojas|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|94
+Edgar Garcia|R|Miguel Rojas|R|Strikeout|F|Slider|1|0|1|0|8|87
+Edgar Garcia|R|Miguel Rojas|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|14|96
+Edgar Garcia|R|Miguel Rojas|R|Strikeout|S|Slider|3|1|2|0|14|87
+Edgar Garcia|R|Harold Ramirez|R|Flyout|C|Four-Seam Fastball|4|0|0|1|4|95
+Edgar Garcia|R|Harold Ramirez|R|Flyout|X|Four-Seam Fastball|5|0|1|1|11|95
+Edgar Garcia|R|Garrett Cooper|R|Strikeout|C|Four-Seam Fastball|6|0|0|2|13|95
+Edgar Garcia|R|Garrett Cooper|R|Strikeout|B|Slider|7|0|1|2|14|87
+Edgar Garcia|R|Garrett Cooper|R|Strikeout|S|Slider|8|1|1|2|14|87
+Edgar Garcia|R|Garrett Cooper|R|Strikeout|B|Slider|9|1|2|2|14|86
+Edgar Garcia|R|Garrett Cooper|R|Strikeout|W|Slider|10|2|2|2|14|87
+Edgar Garcia|R|Starlin Castro|R|Lineout|X|Slider|0|0|0|0|8|86
+Edgar Garcia|R|Harold Ramirez|R|Double|C|Four-Seam Fastball|1|0|0|1|9|94
+Edgar Garcia|R|Harold Ramirez|R|Double|T|Slider|2|0|1|1|8|87
+Edgar Garcia|R|Harold Ramirez|R|Double|F|Slider|3|0|2|1|14|86
+Edgar Garcia|R|Harold Ramirez|R|Double|B|Four-Seam Fastball|4|0|2|1|12|93
+Edgar Garcia|R|Harold Ramirez|R|Double|D|Slider|5|1|2|1|14|87
+Edgar Garcia|R|Isan Diaz|L|Walk|B|Slider|6|0|0|1|14|86
+Edgar Garcia|R|Isan Diaz|L|Walk|C|Slider|7|1|0|1|13|87
+Edgar Garcia|R|Isan Diaz|L|Walk|B|Slider|8|1|1|1|13|86
+Edgar Garcia|R|Isan Diaz|L|Walk|C|Four-Seam Fastball|9|2|1|1|8|93
+Edgar Garcia|R|Isan Diaz|L|Walk|*B|Slider|10|2|2|1|14|88
+Edgar Garcia|R|Isan Diaz|L|Walk|B|Four-Seam Fastball|11|3|2|1|11|93
+Edgar Garcia|R|Garrett Cooper|R|Groundout|X|Two-Seam Fastball|12|0|0|1|13|93
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|C|Slider|13|0|0|2|6|87
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|S|Slider|14|0|1|2|14|86
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|B|Slider|15|0|2|2|14|86
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|*B|Slider|16|1|2|2|14|88
+Edgar Garcia|R|Jorge Alfaro|R|Strikeout|S|Four-Seam Fastball|17|2|2|2|2|94
+Edgar Garcia|R|Keston Hiura|R|Single|B|Four-Seam Fastball|0|0|0|0|13|94
+Edgar Garcia|R|Keston Hiura|R|Single|C|Four-Seam Fastball|1|1|0|0|8|93
+Edgar Garcia|R|Keston Hiura|R|Single|D|Slider|2|1|1|0|14|87
+Edgar Garcia|R|Orlando Arcia|R|Groundout|B|Slider|3|0|0|0|14|87
+Edgar Garcia|R|Orlando Arcia|R|Groundout|B|Slider|4|1|0|0|14|87
+Edgar Garcia|R|Orlando Arcia|R|Groundout|F|Four-Seam Fastball|5|2|0|0|11|94
+Edgar Garcia|R|Orlando Arcia|R|Groundout|C|Four-Seam Fastball|6|2|1|0|2|93
+Edgar Garcia|R|Orlando Arcia|R|Groundout|X|Slider|7|2|2|0|14|86
+Edgar Garcia|R|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|8|0|0|1|1|94
+Edgar Garcia|R|Jesus Aguilar|R|Strikeout|*B|Slider|9|0|1|1|14|85
+Edgar Garcia|R|Jesus Aguilar|R|Strikeout|*B|Slider|10|1|1|1|14|89
+Edgar Garcia|R|Jesus Aguilar|R|Strikeout|F|Slider|11|2|1|1|9|87
+Edgar Garcia|R|Jesus Aguilar|R|Strikeout|C|Four-Seam Fastball|12|2|2|1|9|94
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|B|Four-Seam Fastball|13|0|0|2|14|93
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|14|1|0|2|5|93
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|*B|Slider|15|1|1|2|14|86
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|16|2|1|2|3|93
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|*B|Slider|17|2|2|2|14|88
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|18|3|2|2|9|94
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|F|Four-Seam Fastball|19|3|2|2|2|93
+Edgar Garcia|R|Lorenzo Cain|R|Groundout|X|Four-Seam Fastball|20|3|2|2|14|93
+Edgar Garcia|R|Ben Gamel|L|Strikeout|B|Four-Seam Fastball|0|0|0|2|11|90
+Edgar Garcia|R|Ben Gamel|L|Strikeout|S|Slider|1|1|0|2|14|84
+Edgar Garcia|R|Ben Gamel|L|Strikeout|B|Four-Seam Fastball|2|1|1|2|13|91
+Edgar Garcia|R|Ben Gamel|L|Strikeout|F|Four-Seam Fastball|3|2|1|2|13|91
+Edgar Garcia|R|Ben Gamel|L|Strikeout|W|Slider|4|2|2|2|14|87

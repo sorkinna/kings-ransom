@@ -1,0 +1,427 @@
+Randy Dobnak|R|Mookie Betts|R|Lineout|B|Sinker|0|0|0|0|14|92
+Randy Dobnak|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|1|1|0|0|14|93
+Randy Dobnak|R|Mookie Betts|R|Lineout|F|Four-Seam Fastball|2|2|0|0|14|94
+Randy Dobnak|R|Mookie Betts|R|Lineout|X|Changeup|3|2|1|0|11|85
+Randy Dobnak|R|Rafael Devers|L|Strikeout|C|Sinker|4|0|0|1|4|93
+Randy Dobnak|R|Rafael Devers|L|Strikeout|F|Sinker|5|0|1|1|4|92
+Randy Dobnak|R|Rafael Devers|L|Strikeout|B|Sinker|6|0|2|1|11|93
+Randy Dobnak|R|Rafael Devers|L|Strikeout|F|Curveball|7|1|2|1|14|85
+Randy Dobnak|R|Rafael Devers|L|Strikeout|F|Curveball|8|1|2|1|13|83
+Randy Dobnak|R|Rafael Devers|L|Strikeout|T|Sinker|9|1|2|1|13|94
+Randy Dobnak|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|10|0|0|2|12|94
+Randy Dobnak|R|Xander Bogaerts|R|Walk|B|Sinker|11|1|0|2|13|92
+Randy Dobnak|R|Xander Bogaerts|R|Walk|B|Sinker|12|2|0|2|14|93
+Randy Dobnak|R|Xander Bogaerts|R|Walk|C|Four-Seam Fastball|13|3|0|2|5|94
+Randy Dobnak|R|Xander Bogaerts|R|Walk|B|Sinker|14|3|1|2|14|93
+Randy Dobnak|R|J.D. Martinez|R|Strikeout|B|Curveball|15|0|0|2|11|83
+Randy Dobnak|R|J.D. Martinez|R|Strikeout|F|Four-Seam Fastball|16|1|0|2|5|94
+Randy Dobnak|R|J.D. Martinez|R|Strikeout|F|Curveball|17|1|1|2|11|84
+Randy Dobnak|R|J.D. Martinez|R|Strikeout|S|Curveball|18|1|2|2|1|83
+Randy Dobnak|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+Randy Dobnak|R|Francisco Lindor|L|Single|S|Changeup|1|1|0|0|8|86
+Randy Dobnak|R|Francisco Lindor|L|Single|F|Four-Seam Fastball|2|1|1|0|14|93
+Randy Dobnak|R|Francisco Lindor|L|Single|B|Sinker|3|1|2|0|11|93
+Randy Dobnak|R|Francisco Lindor|L|Single|B|Curveball|4|2|2|0|14|84
+Randy Dobnak|R|Francisco Lindor|L|Single|D|Sinker|5|3|2|0|13|93
+Randy Dobnak|R|Oscar Mercado|R|Single|B|Four-Seam Fastball|6|0|0|0|14|93
+Randy Dobnak|R|Oscar Mercado|R|Single|S|Sinker|7|1|0|0|13|92
+Randy Dobnak|R|Oscar Mercado|R|Single|D|Sinker|8|1|1|0|6|93
+Randy Dobnak|R|Carlos Santana|L|Forceout|B|Sinker|9|0|0|0|13|92
+Randy Dobnak|R|Carlos Santana|L|Forceout|S|Changeup|10|1|0|0|13|86
+Randy Dobnak|R|Carlos Santana|L|Forceout|E|Four-Seam Fastball|11|1|1|0|5|93
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Four-Seam Fastball|12|0|0|1|13|93
+Randy Dobnak|R|Yasiel Puig|R|Walk|S|Curveball|13|1|0|1|14|82
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Curveball|14|1|1|1|14|84
+Randy Dobnak|R|Yasiel Puig|R|Walk|*B|Curveball|15|2|1|1|14|86
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Sinker|16|3|1|1|11|93
+Randy Dobnak|R|Jason Kipnis|L|Forceout|C|Changeup|17|0|0|1|1|86
+Randy Dobnak|R|Jason Kipnis|L|Forceout|E|Sinker|18|0|1|1|13|93
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|19|0|0|2|13|94
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|S|Curveball|20|1|0|2|14|84
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|B|Curveball|21|1|1|2|14|83
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|22|2|1|2|13|93
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|F|Curveball|23|3|1|2|9|85
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|F|Four-Seam Fastball|24|3|2|2|1|94
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|S|Curveball|25|3|2|2|14|85
+Randy Dobnak|R|Greg Allen|L|Single|B|Sinker|26|0|0|0|13|91
+Randy Dobnak|R|Greg Allen|L|Single|B|Changeup|27|1|0|0|14|86
+Randy Dobnak|R|Greg Allen|L|Single|D|Changeup|28|2|0|0|13|86
+Randy Dobnak|R|Roberto Perez|R|Hit By Pitch|H|Sinker|29|0|0|0|13|88
+Randy Dobnak|R|Ryan Flaherty|L|Grounded Into DP|M|Changeup|30|0|0|0|8|85
+Randy Dobnak|R|Ryan Flaherty|L|Grounded Into DP|X|Four-Seam Fastball|31|0|1|0|6|92
+Randy Dobnak|R|Francisco Lindor|L|Strikeout|F|Four-Seam Fastball|32|0|0|2|4|92
+Randy Dobnak|R|Francisco Lindor|L|Strikeout|F|Changeup|33|0|1|2|13|85
+Randy Dobnak|R|Francisco Lindor|L|Strikeout|B|Curveball|34|0|2|2|14|84
+Randy Dobnak|R|Francisco Lindor|L|Strikeout|C|Sinker|35|1|2|2|9|92
+Randy Dobnak|R|Oscar Mercado|R|Single|C|Four-Seam Fastball|36|0|0|0|2|91
+Randy Dobnak|R|Oscar Mercado|R|Single|C|Four-Seam Fastball|37|0|1|0|14|92
+Randy Dobnak|R|Oscar Mercado|R|Single|F|Curveball|38|0|2|0|6|83
+Randy Dobnak|R|Oscar Mercado|R|Single|D|Four-Seam Fastball|39|0|2|0|12|93
+Randy Dobnak|R|Carlos Santana|L|Flyout|B|Changeup|40|0|0|0|14|84
+Randy Dobnak|R|Carlos Santana|L|Flyout|X|Sinker|41|1|0|0|5|91
+Randy Dobnak|R|Yasiel Puig|R|Single|C|Four-Seam Fastball|42|0|0|1|8|93
+Randy Dobnak|R|Yasiel Puig|R|Single|B|Curveball|43|0|1|1|14|85
+Randy Dobnak|R|Yasiel Puig|R|Single|S|Four-Seam Fastball|44|1|1|1|3|94
+Randy Dobnak|R|Yasiel Puig|R|Single|D|Four-Seam Fastball|45|1|2|1|5|94
+Randy Dobnak|R|Jason Kipnis|L|Groundout|X|Sinker|46|0|0|2|8|90
+Randy Dobnak|R|Franmil Reyes|R|Groundout|T|Four-Seam Fastball|47|0|0|0|3|92
+Randy Dobnak|R|Franmil Reyes|R|Groundout|C|Four-Seam Fastball|48|0|1|0|9|91
+Randy Dobnak|R|Franmil Reyes|R|Groundout|X|Four-Seam Fastball|49|0|2|0|14|94
+Randy Dobnak|R|Greg Allen|L|Groundout|X|Sinker|50|0|0|1|8|93
+Randy Dobnak|R|Roberto Perez|R|Single|B|Sinker|51|0|0|2|11|91
+Randy Dobnak|R|Roberto Perez|R|Single|B|Curveball|52|1|0|2|14|84
+Randy Dobnak|R|Roberto Perez|R|Single|S|Sinker|53|2|0|2|6|92
+Randy Dobnak|R|Roberto Perez|R|Single|F|Sinker|54|2|1|2|7|92
+Randy Dobnak|R|Roberto Perez|R|Single|B|Sinker|55|2|2|2|13|94
+Randy Dobnak|R|Roberto Perez|R|Single|D|Sinker|56|3|2|2|2|93
+Randy Dobnak|R|Ryan Flaherty|L|Groundout|B|Sinker|57|0|0|2|13|93
+Randy Dobnak|R|Ryan Flaherty|L|Groundout|*B|Changeup|58|1|0|2|14|86
+Randy Dobnak|R|Ryan Flaherty|L|Groundout|B|Sinker|59|2|0|2|13|91
+Randy Dobnak|R|Ryan Flaherty|L|Groundout|C|Four-Seam Fastball|60|3|0|2|9|92
+Randy Dobnak|R|Ryan Flaherty|L|Groundout|X|Four-Seam Fastball|61|3|1|2|8|92
+Randy Dobnak|R|Francisco Lindor|L|Groundout|C|Sinker|62|0|0|0|13|91
+Randy Dobnak|R|Francisco Lindor|L|Groundout|B|Changeup|63|0|1|0|13|84
+Randy Dobnak|R|Francisco Lindor|L|Groundout|B|Four-Seam Fastball|64|1|1|0|14|92
+Randy Dobnak|R|Francisco Lindor|L|Groundout|X|Sinker|65|2|1|0|8|92
+Randy Dobnak|R|Oscar Mercado|R|Lineout|F|Curveball|66|0|0|1|7|83
+Randy Dobnak|R|Oscar Mercado|R|Lineout|X|Four-Seam Fastball|67|0|1|1|6|94
+Randy Dobnak|R|Carlos Santana|L|Groundout|C|Sinker|68|0|0|2|4|93
+Randy Dobnak|R|Carlos Santana|L|Groundout|F|Sinker|69|0|1|2|5|93
+Randy Dobnak|R|Carlos Santana|L|Groundout|B|Changeup|70|0|2|2|13|86
+Randy Dobnak|R|Carlos Santana|L|Groundout|B|Changeup|71|1|2|2|13|86
+Randy Dobnak|R|Carlos Santana|L|Groundout|B|Sinker|72|2|2|2|14|93
+Randy Dobnak|R|Carlos Santana|L|Groundout|X|Sinker|73|3|2|2|13|93
+Randy Dobnak|R|Willi Castro|L|Strikeout|C|Curveball|0|0|0|0|8|83
+Randy Dobnak|R|Willi Castro|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|92
+Randy Dobnak|R|Willi Castro|L|Strikeout|F|Changeup|2|1|1|0|13|85
+Randy Dobnak|R|Willi Castro|L|Strikeout|S|Curveball|3|1|2|0|14|84
+Randy Dobnak|R|Miguel Cabrera|R|Single|D|Four-Seam Fastball|4|0|0|1|8|93
+Randy Dobnak|R|Ronny Rodriguez|R|Strikeout|S|Sinker|5|0|0|1|9|89
+Randy Dobnak|R|Ronny Rodriguez|R|Strikeout|S|Curveball|6|0|1|1|14|83
+Randy Dobnak|R|Ronny Rodriguez|R|Strikeout|*B|Curveball|7|0|2|1|13|83
+Randy Dobnak|R|Ronny Rodriguez|R|Strikeout|S|Sinker|8|1|2|1|14|91
+Randy Dobnak|R|Dawel Lugo|R|Single|S|Curveball|9|0|0|2|14|83
+Randy Dobnak|R|Dawel Lugo|R|Single|S|Curveball|10|0|1|2|14|84
+Randy Dobnak|R|Dawel Lugo|R|Single|F|Curveball|11|0|2|2|14|85
+Randy Dobnak|R|Dawel Lugo|R|Single|D|Curveball|12|0|2|2|4|85
+Randy Dobnak|R|Brandon Dixon|R|Strikeout|F|Sinker|13|0|0|2|13|93
+Randy Dobnak|R|Brandon Dixon|R|Strikeout|C|Curveball|14|0|1|2|7|84
+Randy Dobnak|R|Brandon Dixon|R|Strikeout|F|Curveball|15|0|2|2|14|84
+Randy Dobnak|R|Brandon Dixon|R|Strikeout|W|Curveball|16|0|2|2|14|84
+Randy Dobnak|R|Victor Reyes|L|Lineout|C|Sinker|0|0|0|0|13|92
+Randy Dobnak|R|Victor Reyes|L|Lineout|X|Sinker|1|0|1|0|8|92
+Randy Dobnak|R|Harold Castro|L|Flyout|C|Sinker|2|0|0|1|5|91
+Randy Dobnak|R|Harold Castro|L|Flyout|B|Curveball|3|0|1|1|14|83
+Randy Dobnak|R|Harold Castro|L|Flyout|X|Four-Seam Fastball|4|1|1|1|3|93
+Randy Dobnak|R|Miguel Cabrera|R|Field Error|B|Curveball|5|0|0|2|14|84
+Randy Dobnak|R|Miguel Cabrera|R|Field Error|C|Sinker|6|1|0|2|14|93
+Randy Dobnak|R|Miguel Cabrera|R|Field Error|D|Sinker|7|1|1|2|13|93
+Randy Dobnak|R|Jeimer Candelario|L|Double|E|Sinker|8|0|0|2|13|92
+Randy Dobnak|R|Christin Stewart|L|Pop Out|C|Curveball|9|0|0|2|6|84
+Randy Dobnak|R|Christin Stewart|L|Pop Out|F|Curveball|10|0|1|2|5|85
+Randy Dobnak|R|Christin Stewart|L|Pop Out|B|Four-Seam Fastball|11|0|2|2|11|95
+Randy Dobnak|R|Christin Stewart|L|Pop Out|X|Curveball|12|1|2|2|14|85
+Randy Dobnak|R|Dawel Lugo|R|Flyout|B|Sinker|13|0|0|0|14|91
+Randy Dobnak|R|Dawel Lugo|R|Flyout|F|Sinker|14|1|0|0|13|92
+Randy Dobnak|R|Dawel Lugo|R|Flyout|X|Changeup|15|1|1|0|11|84
+Randy Dobnak|R|Jordy Mercer|R|Flyout|C|Curveball|16|0|0|1|13|85
+Randy Dobnak|R|Jordy Mercer|R|Flyout|B|Curveball|17|0|1|1|14|84
+Randy Dobnak|R|Jordy Mercer|R|Flyout|X|Sinker|18|1|1|1|14|92
+Randy Dobnak|R|Grayson Greiner|R|Groundout|S|Curveball|19|0|0|2|14|84
+Randy Dobnak|R|Grayson Greiner|R|Groundout|X|Sinker|20|0|1|2|7|92
+Randy Dobnak|R|Willi Castro|L|Strikeout|B|Four-Seam Fastball|21|0|0|0|14|90
+Randy Dobnak|R|Willi Castro|L|Strikeout|F|Sinker|22|1|0|0|14|91
+Randy Dobnak|R|Willi Castro|L|Strikeout|F|Changeup|23|1|1|0|5|85
+Randy Dobnak|R|Willi Castro|L|Strikeout|C|Curveball|24|1|2|0|7|85
+Randy Dobnak|R|Victor Reyes|L|Groundout|C|Curveball|25|0|0|1|9|84
+Randy Dobnak|R|Victor Reyes|L|Groundout|F|Changeup|26|0|1|1|13|86
+Randy Dobnak|R|Victor Reyes|L|Groundout|B|Curveball|27|0|2|1|13|85
+Randy Dobnak|R|Victor Reyes|L|Groundout|B|Four-Seam Fastball|28|1|2|1|11|94
+Randy Dobnak|R|Victor Reyes|L|Groundout|X|Changeup|29|2|2|1|7|85
+Randy Dobnak|R|Harold Castro|L|Strikeout|F|Curveball|30|0|0|2|13|84
+Randy Dobnak|R|Harold Castro|L|Strikeout|S|Four-Seam Fastball|31|0|1|2|4|94
+Randy Dobnak|R|Harold Castro|L|Strikeout|W|Curveball|32|0|2|2|14|86
+Randy Dobnak|R|Miguel Cabrera|R|Field Error|S|Curveball|33|0|0|0|14|84
+Randy Dobnak|R|Miguel Cabrera|R|Field Error|D|Curveball|34|0|1|0|8|85
+Randy Dobnak|R|Jeimer Candelario|L|Flyout|C|Changeup|35|0|0|0|14|86
+Randy Dobnak|R|Jeimer Candelario|L|Flyout|*B|Changeup|36|0|1|0|14|86
+Randy Dobnak|R|Jeimer Candelario|L|Flyout|C|Curveball|37|1|1|0|4|83
+Randy Dobnak|R|Jeimer Candelario|L|Flyout|X|Curveball|38|1|2|0|13|85
+Randy Dobnak|R|Christin Stewart|L|Forceout|B|Sinker|39|0|0|1|13|92
+Randy Dobnak|R|Christin Stewart|L|Forceout|S|Sinker|40|1|0|1|11|92
+Randy Dobnak|R|Christin Stewart|L|Forceout|S|Curveball|41|1|1|1|14|84
+Randy Dobnak|R|Christin Stewart|L|Forceout|X|Curveball|42|1|2|1|14|83
+Randy Dobnak|R|Dawel Lugo|R|Groundout|B|Sinker|43|0|0|2|14|92
+Randy Dobnak|R|Dawel Lugo|R|Groundout|T|Sinker|44|1|0|2|13|92
+Randy Dobnak|R|Dawel Lugo|R|Groundout|B|Sinker|45|1|1|2|13|92
+Randy Dobnak|R|Dawel Lugo|R|Groundout|W|Curveball|46|2|1|2|14|85
+Randy Dobnak|R|Dawel Lugo|R|Groundout|X|Sinker|47|2|2|2|9|93
+Randy Dobnak|R|Jordy Mercer|R|Groundout|B|Sinker|48|0|0|0|11|91
+Randy Dobnak|R|Jordy Mercer|R|Groundout|C|Sinker|49|1|0|0|9|91
+Randy Dobnak|R|Jordy Mercer|R|Groundout|B|Changeup|50|1|1|0|14|83
+Randy Dobnak|R|Jordy Mercer|R|Groundout|X|Sinker|51|2|1|0|13|91
+Randy Dobnak|R|Grayson Greiner|R|Strikeout|C|Curveball|52|0|0|1|9|84
+Randy Dobnak|R|Grayson Greiner|R|Strikeout|B|Curveball|53|0|1|1|14|83
+Randy Dobnak|R|Grayson Greiner|R|Strikeout|S|Curveball|54|1|1|1|14|83
+Randy Dobnak|R|Grayson Greiner|R|Strikeout|S|Curveball|55|1|2|1|14|84
+Randy Dobnak|R|Willi Castro|L|Flyout|S|Curveball|56|0|0|2|14|83
+Randy Dobnak|R|Willi Castro|L|Flyout|F|Four-Seam Fastball|57|0|1|2|14|93
+Randy Dobnak|R|Willi Castro|L|Flyout|F|Four-Seam Fastball|58|0|2|2|1|94
+Randy Dobnak|R|Willi Castro|L|Flyout|F|Curveball|59|0|2|2|14|84
+Randy Dobnak|R|Willi Castro|L|Flyout|X|Sinker|60|0|2|2|4|93
+Randy Dobnak|R|Victor Reyes|L|Strikeout|C|Four-Seam Fastball|61|0|0|0|1|93
+Randy Dobnak|R|Victor Reyes|L|Strikeout|B|Four-Seam Fastball|62|0|1|0|11|92
+Randy Dobnak|R|Victor Reyes|L|Strikeout|S|Changeup|63|1|1|0|14|86
+Randy Dobnak|R|Victor Reyes|L|Strikeout|F|Curveball|64|1|2|0|14|84
+Randy Dobnak|R|Victor Reyes|L|Strikeout|S|Curveball|65|1|2|0|8|84
+Randy Dobnak|R|Harold Castro|L|Strikeout|C|Four-Seam Fastball|66|0|0|1|3|93
+Randy Dobnak|R|Harold Castro|L|Strikeout|B|Four-Seam Fastball|67|0|1|1|14|94
+Randy Dobnak|R|Harold Castro|L|Strikeout|C|Curveball|68|1|1|1|7|84
+Randy Dobnak|R|Harold Castro|L|Strikeout|F|Four-Seam Fastball|69|1|2|1|11|95
+Randy Dobnak|R|Harold Castro|L|Strikeout|F|Changeup|70|1|2|1|13|86
+Randy Dobnak|R|Harold Castro|L|Strikeout|S|Curveball|71|1|2|1|1|85
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|B|Sinker|72|0|0|2|13|92
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|S|Changeup|73|1|0|2|14|87
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|B|Four-Seam Fastball|74|1|1|2|12|94
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|C|Curveball|75|2|1|2|13|84
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|F|Sinker|76|2|2|2|14|94
+Randy Dobnak|R|Miguel Cabrera|R|Strikeout|S|Changeup|77|2|2|2|13|86
+Randy Dobnak|R|Greg Allen|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|95
+Randy Dobnak|R|Greg Allen|L|Groundout|X|Four-Seam Fastball|1|1|0|0|8|94
+Randy Dobnak|R|Francisco Lindor|L|Single|C|Four-Seam Fastball|2|0|0|1|4|94
+Randy Dobnak|R|Francisco Lindor|L|Single|B|Changeup|3|0|1|1|14|87
+Randy Dobnak|R|Francisco Lindor|L|Single|B|Changeup|4|1|1|1|11|86
+Randy Dobnak|R|Francisco Lindor|L|Single|D|Sinker|5|2|1|1|4|93
+Randy Dobnak|R|Oscar Mercado|R|Flyout|X|Four-Seam Fastball|6|0|0|1|11|91
+Randy Dobnak|R|Carlos Santana|L|Pop Out|X|Four-Seam Fastball|7|0|0|2|6|93
+Randy Dobnak|R|Yasiel Puig|R|Single|B|Curveball|8|0|0|0|11|82
+Randy Dobnak|R|Yasiel Puig|R|Single|B|Sinker|9|1|0|0|13|92
+Randy Dobnak|R|Yasiel Puig|R|Single|F|Four-Seam Fastball|10|2|0|0|8|93
+Randy Dobnak|R|Yasiel Puig|R|Single|S|Curveball|11|2|1|0|14|83
+Randy Dobnak|R|Yasiel Puig|R|Single|F|Sinker|12|2|2|0|4|94
+Randy Dobnak|R|Yasiel Puig|R|Single|D|Curveball|13|2|2|0|14|85
+Randy Dobnak|R|Jose Ramirez|L|Single|C|Sinker|14|0|0|0|7|91
+Randy Dobnak|R|Jose Ramirez|L|Single|*B|Sinker|15|0|1|0|14|91
+Randy Dobnak|R|Jose Ramirez|L|Single|F|Four-Seam Fastball|16|1|1|0|6|92
+Randy Dobnak|R|Jose Ramirez|L|Single|*B|Curveball|17|1|2|0|14|81
+Randy Dobnak|R|Jose Ramirez|L|Single|F|Sinker|18|2|2|0|14|92
+Randy Dobnak|R|Jose Ramirez|L|Single|B|Four-Seam Fastball|19|2|2|0|11|92
+Randy Dobnak|R|Jose Ramirez|L|Single|F|Sinker|20|3|2|0|13|91
+Randy Dobnak|R|Jose Ramirez|L|Single|F|Four-Seam Fastball|21|3|2|0|1|94
+Randy Dobnak|R|Jose Ramirez|L|Single|D|Curveball|22|3|2|0|4|82
+Randy Dobnak|R|Roberto Perez|R|Strikeout|C|Curveball|23|0|0|0|9|83
+Randy Dobnak|R|Roberto Perez|R|Strikeout|S|Sinker|24|0|1|0|7|92
+Randy Dobnak|R|Roberto Perez|R|Strikeout|S|Sinker|25|0|2|0|13|92
+Randy Dobnak|R|Jason Kipnis|L|Fielders Choice Out|B|Changeup|26|0|0|1|11|86
+Randy Dobnak|R|Jason Kipnis|L|Fielders Choice Out|B|Sinker|27|1|0|1|13|92
+Randy Dobnak|R|Jason Kipnis|L|Fielders Choice Out|F|Changeup|28|2|0|1|14|85
+Randy Dobnak|R|Jason Kipnis|L|Fielders Choice Out|X|Sinker|29|2|1|1|7|92
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|S|Curveball|30|0|0|2|14|83
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|*B|Curveball|31|0|1|2|14|83
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|T|Four-Seam Fastball|32|1|1|2|2|93
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|F|Curveball|33|1|2|2|7|84
+Randy Dobnak|R|Franmil Reyes|R|Strikeout|S|Curveball|34|1|2|2|14|84
+Randy Dobnak|R|Greg Allen|L|Single|B|Four-Seam Fastball|35|0|0|0|12|91
+Randy Dobnak|R|Greg Allen|L|Single|B|Four-Seam Fastball|36|1|0|0|1|92
+Randy Dobnak|R|Greg Allen|L|Single|F|Four-Seam Fastball|37|2|0|0|2|92
+Randy Dobnak|R|Greg Allen|L|Single|D|Four-Seam Fastball|38|2|1|0|3|92
+Randy Dobnak|R|Francisco Lindor|L|Grounded Into DP|M|Changeup|39|0|0|0|14|84
+Randy Dobnak|R|Francisco Lindor|L|Grounded Into DP|B|Changeup|40|0|1|0|13|84
+Randy Dobnak|R|Francisco Lindor|L|Grounded Into DP|X|Sinker|41|1|1|0|7|91
+Randy Dobnak|R|Oscar Mercado|R|Single|B|Sinker|42|0|0|2|13|92
+Randy Dobnak|R|Oscar Mercado|R|Single|F|Curveball|43|1|0|2|1|81
+Randy Dobnak|R|Oscar Mercado|R|Single|D|Sinker|44|1|1|2|4|92
+Randy Dobnak|R|Carlos Santana|L|Groundout|B|Sinker|45|0|0|2|11|88
+Randy Dobnak|R|Carlos Santana|L|Groundout|B|Four-Seam Fastball|46|1|0|2|14|91
+Randy Dobnak|R|Carlos Santana|L|Groundout|C|Sinker|47|2|0|2|4|91
+Randy Dobnak|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|48|2|1|2|6|92
+Randy Dobnak|R|Yasiel Puig|R|Single|C|Curveball|49|0|0|0|4|82
+Randy Dobnak|R|Yasiel Puig|R|Single|D|Sinker|50|0|1|0|9|91
+Randy Dobnak|R|Jose Ramirez|L|Lineout|C|Four-Seam Fastball|51|0|0|0|4|89
+Randy Dobnak|R|Jose Ramirez|L|Lineout|C|Sinker|52|0|1|0|7|90
+Randy Dobnak|R|Jose Ramirez|L|Lineout|B|Curveball|53|0|2|0|13|82
+Randy Dobnak|R|Jose Ramirez|L|Lineout|B|Four-Seam Fastball|54|1|2|0|11|93
+Randy Dobnak|R|Jose Ramirez|L|Lineout|F|Sinker|55|2|2|0|4|90
+Randy Dobnak|R|Jose Ramirez|L|Lineout|F|Four-Seam Fastball|56|2|2|0|1|92
+Randy Dobnak|R|Jose Ramirez|L|Lineout|B|Sinker|57|2|2|0|11|91
+Randy Dobnak|R|Jose Ramirez|L|Lineout|F|Four-Seam Fastball|58|3|2|0|11|91
+Randy Dobnak|R|Jose Ramirez|L|Lineout|F|Sinker|59|3|2|0|13|91
+Randy Dobnak|R|Jose Ramirez|L|Lineout|F|Four-Seam Fastball|60|3|2|0|5|92
+Randy Dobnak|R|Jose Ramirez|L|Lineout|X|Curveball|61|3|2|0|7|83
+Randy Dobnak|R|Roberto Perez|R|Strikeout|F|Curveball|62|0|0|1|7|82
+Randy Dobnak|R|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|63|0|1|1|14|93
+Randy Dobnak|R|Roberto Perez|R|Strikeout|*B|Sinker|64|0|2|1|13|92
+Randy Dobnak|R|Roberto Perez|R|Strikeout|B|Changeup|65|1|2|1|13|85
+Randy Dobnak|R|Roberto Perez|R|Strikeout|S|Changeup|66|2|2|1|13|85
+Randy Dobnak|R|Jason Kipnis|L|Groundout|X|Sinker|67|0|0|2|8|91
+Randy Dobnak|R|Francisco Lindor|L|Pop Out|C|Sinker|0|0|0|0|7|91
+Randy Dobnak|R|Francisco Lindor|L|Pop Out|X|Four-Seam Fastball|1|0|1|0|5|92
+Randy Dobnak|R|Oscar Mercado|R|Pop Out|C|Four-Seam Fastball|2|0|0|1|14|93
+Randy Dobnak|R|Oscar Mercado|R|Pop Out|B|Sinker|3|0|1|1|14|93
+Randy Dobnak|R|Oscar Mercado|R|Pop Out|C|Sinker|4|1|1|1|12|93
+Randy Dobnak|R|Oscar Mercado|R|Pop Out|X|Four-Seam Fastball|5|1|2|1|9|94
+Randy Dobnak|R|Carlos Santana|L|Lineout|C|Sinker|6|0|0|2|7|92
+Randy Dobnak|R|Carlos Santana|L|Lineout|X|Changeup|7|0|1|2|13|86
+Randy Dobnak|R|Yasiel Puig|R|Walk|C|Four-Seam Fastball|8|0|0|0|6|92
+Randy Dobnak|R|Yasiel Puig|R|Walk|F|Curveball|9|0|1|0|6|82
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Curveball|10|0|2|0|14|82
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Curveball|11|1|2|0|14|82
+Randy Dobnak|R|Yasiel Puig|R|Walk|F|Four-Seam Fastball|12|2|2|0|6|94
+Randy Dobnak|R|Yasiel Puig|R|Walk|F|Four-Seam Fastball|13|2|2|0|9|93
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Curveball|14|2|2|0|14|83
+Randy Dobnak|R|Yasiel Puig|R|Walk|B|Four-Seam Fastball|15|3|2|0|11|93
+Randy Dobnak|R|Jason Kipnis|L|Double|B|Sinker|16|0|0|0|11|90
+Randy Dobnak|R|Jason Kipnis|L|Double|B|Sinker|17|1|0|0|11|91
+Randy Dobnak|R|Jason Kipnis|L|Double|D|Sinker|18|2|0|0|5|90
+Randy Dobnak|R|Franmil Reyes|R|Single|C|Four-Seam Fastball|19|0|0|0|12|93
+Randy Dobnak|R|Franmil Reyes|R|Single|*B|Curveball|20|0|1|0|14|82
+Randy Dobnak|R|Franmil Reyes|R|Single|F|Four-Seam Fastball|21|1|1|0|9|93
+Randy Dobnak|R|Franmil Reyes|R|Single|E|Four-Seam Fastball|22|1|2|0|12|93
+Randy Dobnak|R|Greg Allen|L|Single|S|Sinker|23|0|0|0|13|92
+Randy Dobnak|R|Greg Allen|L|Single|X|Sinker|24|0|1|0|8|91
+Randy Dobnak|R|Kevin Plawecki|R|Groundout|S|Curveball|25|0|0|1|14|82
+Randy Dobnak|R|Kevin Plawecki|R|Groundout|B|Sinker|26|0|1|1|13|92
+Randy Dobnak|R|Kevin Plawecki|R|Groundout|X|Curveball|27|1|1|1|14|83
+Randy Dobnak|R|Yu Chang|R|Strikeout|B|Four-Seam Fastball|28|0|0|2|12|92
+Randy Dobnak|R|Yu Chang|R|Strikeout|S|Curveball|29|1|0|2|14|84
+Randy Dobnak|R|Yu Chang|R|Strikeout|F|Curveball|30|1|1|2|5|83
+Randy Dobnak|R|Yu Chang|R|Strikeout|B|Changeup|31|1|2|2|14|86
+Randy Dobnak|R|Yu Chang|R|Strikeout|S|Curveball|32|2|2|2|14|84
+Randy Dobnak|R|Victor Robles|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|91
+Randy Dobnak|R|Victor Robles|R|Strikeout|F|Curveball|1|0|1|0|7|82
+Randy Dobnak|R|Victor Robles|R|Strikeout|W|Curveball|2|0|2|0|14|84
+Randy Dobnak|R|Trea Turner|R|Home Run|F|Sinker|3|0|0|1|7|92
+Randy Dobnak|R|Trea Turner|R|Home Run|B|Sinker|4|0|1|1|13|90
+Randy Dobnak|R|Trea Turner|R|Home Run|E|Curveball|5|1|1|1|13|83
+Randy Dobnak|R|Adam Eaton|L|Groundout|B|Sinker|6|0|0|1|13|92
+Randy Dobnak|R|Adam Eaton|L|Groundout|X|Sinker|7|1|0|1|7|91
+Randy Dobnak|R|Anthony Rendon|R|Lineout|B|Curveball|8|0|0|2|13|83
+Randy Dobnak|R|Anthony Rendon|R|Lineout|F|Sinker|9|1|0|2|7|92
+Randy Dobnak|R|Anthony Rendon|R|Lineout|X|Sinker|10|1|1|2|4|93
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|C|Sinker|0|0|0|0|5|91
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|B|Sinker|1|0|1|0|14|92
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|S|Four-Seam Fastball|2|1|1|0|6|93
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|B|Curveball|3|1|2|0|14|86
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|B|Curveball|4|2|2|0|14|85
+Randy Dobnak|R|Whit Merrifield|R|Pop Out|X|Four-Seam Fastball|5|3|2|0|11|94
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|S|Curveball|6|0|0|1|8|84
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|S|Curveball|7|0|1|1|8|84
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|S|Four-Seam Fastball|8|0|2|1|2|95
+Randy Dobnak|R|Jorge Soler|R|Strikeout|C|Sinker|9|0|0|2|9|93
+Randy Dobnak|R|Jorge Soler|R|Strikeout|B|Changeup|10|0|1|2|14|86
+Randy Dobnak|R|Jorge Soler|R|Strikeout|F|Changeup|11|1|1|2|7|86
+Randy Dobnak|R|Jorge Soler|R|Strikeout|B|Curveball|12|1|2|2|11|86
+Randy Dobnak|R|Jorge Soler|R|Strikeout|S|Sinker|13|2|2|2|9|93
+Randy Dobnak|R|Hunter Dozier|R|Groundout|S|Curveball|14|0|0|0|14|83
+Randy Dobnak|R|Hunter Dozier|R|Groundout|F|Sinker|15|0|1|0|9|92
+Randy Dobnak|R|Hunter Dozier|R|Groundout|F|Curveball|16|0|2|0|14|84
+Randy Dobnak|R|Hunter Dozier|R|Groundout|X|Sinker|17|0|2|0|5|92
+Randy Dobnak|R|Alex Gordon|L|Hit By Pitch|H|Curveball|18|0|0|1|14|83
+Randy Dobnak|R|Ryan McBroom|R|Single|C|Sinker|19|0|0|1|2|91
+Randy Dobnak|R|Ryan McBroom|R|Single|D|Sinker|20|0|1|1|9|91
+Randy Dobnak|R|Erick Mejia|L|Forceout|B|Sinker|21|0|0|1|13|91
+Randy Dobnak|R|Erick Mejia|L|Forceout|X|Sinker|22|1|0|1|5|91
+Randy Dobnak|R|Nicky Lopez|L|Flyout|C|Changeup|23|0|0|2|6|84
+Randy Dobnak|R|Nicky Lopez|L|Flyout|X|Changeup|24|0|1|2|4|84
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|B|Curveball|25|0|0|0|14|82
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|F|Sinker|26|1|0|0|8|91
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|S|Sinker|27|1|1|0|13|91
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|F|Curveball|28|1|2|0|14|85
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|F|Curveball|29|1|2|0|14|83
+Randy Dobnak|R|Nick Dini|R|Hit By Pitch|H|Sinker|30|1|2|0|11|92
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|C|Sinker|31|0|0|0|3|90
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|C|Sinker|32|0|1|0|6|91
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|*B|Curveball|33|0|2|0|14|84
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|T|Four-Seam Fastball|34|1|2|0|11|93
+Randy Dobnak|R|Adalberto Mondesi|L|Forceout|C|Sinker|35|0|0|1|9|90
+Randy Dobnak|R|Adalberto Mondesi|L|Forceout|B|Changeup|36|0|1|1|14|84
+Randy Dobnak|R|Adalberto Mondesi|L|Forceout|X|Changeup|37|1|1|1|13|85
+Randy Dobnak|R|Jorge Soler|R|Walk|S|Changeup|38|0|0|2|13|83
+Randy Dobnak|R|Jorge Soler|R|Walk|B|Curveball|39|0|1|2|14|85
+Randy Dobnak|R|Jorge Soler|R|Walk|B|Changeup|40|1|1|2|14|84
+Randy Dobnak|R|Jorge Soler|R|Walk|F|Sinker|41|2|1|2|1|92
+Randy Dobnak|R|Jorge Soler|R|Walk|B|Sinker|42|2|2|2|14|93
+Randy Dobnak|R|Jorge Soler|R|Walk|B|Changeup|43|3|2|2|13|86
+Randy Dobnak|R|Hunter Dozier|R|Pop Out|B|Sinker|44|0|0|2|14|94
+Randy Dobnak|R|Hunter Dozier|R|Pop Out|B|Curveball|45|1|0|2|14|85
+Randy Dobnak|R|Hunter Dozier|R|Pop Out|C|Sinker|46|2|0|2|1|92
+Randy Dobnak|R|Hunter Dozier|R|Pop Out|*B|Curveball|47|2|1|2|14|85
+Randy Dobnak|R|Hunter Dozier|R|Pop Out|X|Changeup|48|3|1|2|4|86
+Randy Dobnak|R|Alex Gordon|L|Groundout|B|Sinker|49|0|0|0|13|90
+Randy Dobnak|R|Alex Gordon|L|Groundout|B|Sinker|50|1|0|0|11|91
+Randy Dobnak|R|Alex Gordon|L|Groundout|X|Four-Seam Fastball|51|2|0|0|3|92
+Randy Dobnak|R|Ryan McBroom|R|Single|B|Sinker|52|0|0|1|14|93
+Randy Dobnak|R|Ryan McBroom|R|Single|D|Changeup|53|1|0|1|8|85
+Randy Dobnak|R|Erick Mejia|L|Grounded Into DP|B|Sinker|54|0|0|1|13|90
+Randy Dobnak|R|Erick Mejia|L|Grounded Into DP|*B|Sinker|55|1|0|1|13|91
+Randy Dobnak|R|Erick Mejia|L|Grounded Into DP|C|Sinker|56|2|0|1|11|91
+Randy Dobnak|R|Erick Mejia|L|Grounded Into DP|X|Sinker|57|2|1|1|4|91
+Randy Dobnak|R|Nicky Lopez|L|Walk|B|Sinker|58|0|0|0|14|91
+Randy Dobnak|R|Nicky Lopez|L|Walk|B|Four-Seam Fastball|59|1|0|0|12|92
+Randy Dobnak|R|Nicky Lopez|L|Walk|B|Sinker|60|2|0|0|14|91
+Randy Dobnak|R|Nicky Lopez|L|Walk|B|Four-Seam Fastball|61|3|0|0|11|93
+Randy Dobnak|R|Nick Dini|R|Lineout|B|Sinker|62|0|0|0|14|92
+Randy Dobnak|R|Nick Dini|R|Lineout|X|Sinker|63|1|0|0|5|92
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|C|Curveball|64|0|0|1|14|84
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|F|Sinker|65|0|1|1|11|92
+Randy Dobnak|R|Whit Merrifield|R|Strikeout|C|Curveball|66|0|2|1|4|85
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|F|Changeup|67|0|0|2|8|85
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|F|Changeup|68|0|1|2|7|85
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|B|Curveball|69|0|2|2|13|86
+Randy Dobnak|R|Adalberto Mondesi|L|Strikeout|C|Curveball|70|1|2|2|7|86
+Randy Dobnak|R|Jorge Soler|R|Single|C|Curveball|71|0|0|0|14|83
+Randy Dobnak|R|Jorge Soler|R|Single|D|Curveball|72|0|1|0|14|84
+Randy Dobnak|R|Hunter Dozier|R|Groundout|X|Sinker|73|0|0|0|14|91
+Randy Dobnak|R|Yolmer Sanchez|L|Single|B|Sinker|0|0|0|0|14|93
+Randy Dobnak|R|Yolmer Sanchez|L|Single|B|Sinker|1|1|0|0|14|93
+Randy Dobnak|R|Yolmer Sanchez|L|Single|C|Sinker|2|2|0|0|1|92
+Randy Dobnak|R|Yolmer Sanchez|L|Single|D|Sinker|3|2|1|0|8|92
+Randy Dobnak|R|Adam Engel|R|Single|C|Sinker|4|0|0|0|2|90
+Randy Dobnak|R|Adam Engel|R|Single|S|Curveball|5|0|1|0|14|83
+Randy Dobnak|R|Adam Engel|R|Single|F|Curveball|6|0|2|0|14|82
+Randy Dobnak|R|Adam Engel|R|Single|D|Sinker|7|0|2|0|13|91
+Randy Dobnak|R|Leury Garcia|L|Lineout|F|Four-Seam Fastball|8|0|0|0|2|94
+Randy Dobnak|R|Leury Garcia|L|Lineout|X|Four-Seam Fastball|9|0|1|0|6|93
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|C|Sinker|10|0|0|1|7|91
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|F|Changeup|11|0|1|1|7|84
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|F|Sinker|12|0|2|1|11|93
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|B|Curveball|13|0|2|1|13|84
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|F|Sinker|14|1|2|1|9|91
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|F|Changeup|15|1|2|1|14|86
+Randy Dobnak|R|Ryan Goins|L|Grounded Into DP|X|Sinker|16|1|2|1|7|93
+Randy Dobnak|R|Jose Abreu|R|Single|B|Curveball|17|0|0|0|13|81
+Randy Dobnak|R|Jose Abreu|R|Single|D|Sinker|18|1|0|0|7|92
+Randy Dobnak|R|Yoan Moncada|L|Single|B|Sinker|19|0|0|0|13|91
+Randy Dobnak|R|Yoan Moncada|L|Single|D|Sinker|20|1|0|0|4|90
+Randy Dobnak|R|James McCann|R|Pop Out|C|Four-Seam Fastball|21|0|0|0|12|93
+Randy Dobnak|R|James McCann|R|Pop Out|S|Curveball|22|0|1|0|14|83
+Randy Dobnak|R|James McCann|R|Pop Out|B|Four-Seam Fastball|23|0|2|0|12|94
+Randy Dobnak|R|James McCann|R|Pop Out|F|Curveball|24|1|2|0|7|84
+Randy Dobnak|R|James McCann|R|Pop Out|F|Sinker|25|1|2|0|14|92
+Randy Dobnak|R|James McCann|R|Pop Out|X|Curveball|26|1|2|0|13|83
+Randy Dobnak|R|Eloy Jimenez|R|Lineout|B|Four-Seam Fastball|27|0|0|1|14|94
+Randy Dobnak|R|Eloy Jimenez|R|Lineout|C|Four-Seam Fastball|28|1|0|1|14|93
+Randy Dobnak|R|Eloy Jimenez|R|Lineout|S|Four-Seam Fastball|29|1|1|1|6|93
+Randy Dobnak|R|Eloy Jimenez|R|Lineout|X|Sinker|30|1|2|1|8|93
+Randy Dobnak|R|Matt Skole|L|Groundout|X|Four-Seam Fastball|31|0|0|2|9|94
+Randy Dobnak|R|Yolmer Sanchez|L|Field Error|C|Sinker|32|0|0|0|11|91
+Randy Dobnak|R|Yolmer Sanchez|L|Field Error|D|Changeup|33|0|1|0|13|84
+Randy Dobnak|R|Adam Engel|R|Fielders Choice|B|Sinker|34|0|0|0|11|91
+Randy Dobnak|R|Adam Engel|R|Fielders Choice|S|Sinker|35|1|0|0|13|91
+Randy Dobnak|R|Adam Engel|R|Fielders Choice|B|Changeup|36|1|1|0|13|84
+Randy Dobnak|R|Adam Engel|R|Fielders Choice|D|Sinker|37|2|1|0|1|91
+Randy Dobnak|R|Leury Garcia|L|Forceout|C|Sinker|38|0|0|0|5|91
+Randy Dobnak|R|Leury Garcia|L|Forceout|E|Four-Seam Fastball|39|0|1|0|8|93
+Randy Dobnak|R|Ryan Goins|L|Groundout|C|Sinker|40|0|0|1|9|91
+Randy Dobnak|R|Ryan Goins|L|Groundout|X|Changeup|41|0|1|1|13|85
+Randy Dobnak|R|Jose Abreu|R|Double|C|Four-Seam Fastball|42|0|0|2|6|94
+Randy Dobnak|R|Jose Abreu|R|Double|*B|Curveball|43|0|1|2|14|83
+Randy Dobnak|R|Jose Abreu|R|Double|B|Four-Seam Fastball|44|1|1|2|9|95
+Randy Dobnak|R|Jose Abreu|R|Double|S|Four-Seam Fastball|45|2|1|2|6|94
+Randy Dobnak|R|Jose Abreu|R|Double|F|Four-Seam Fastball|46|2|2|2|14|95
+Randy Dobnak|R|Jose Abreu|R|Double|E|Curveball|47|2|2|2|6|85
+Randy Dobnak|R|Yoan Moncada|L|Groundout|B|Sinker|48|0|0|2|11|93
+Randy Dobnak|R|Yoan Moncada|L|Groundout|B|Changeup|49|1|0|2|11|85
+Randy Dobnak|R|Yoan Moncada|L|Groundout|C|Sinker|50|2|0|2|11|91
+Randy Dobnak|R|Yoan Moncada|L|Groundout|B|Changeup|51|2|1|2|11|86
+Randy Dobnak|R|Yoan Moncada|L|Groundout|X|Sinker|52|3|1|2|4|92

@@ -1,0 +1,541 @@
+Brett Graves|R|Mark Trumbo|R|Groundout|C|Four-Seam Fastball|0|0|0|2|6|92
+Brett Graves|R|Mark Trumbo|R|Groundout|X|Slider|1|0|1|2|5|87
+Brett Graves|R|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|91
+Brett Graves|R|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|14|90
+Brett Graves|R|Nolan Arenado|R|Strikeout|C|Slider|2|2|0|0|11|86
+Brett Graves|R|Nolan Arenado|R|Strikeout|F|Slider|3|2|1|0|8|87
+Brett Graves|R|Nolan Arenado|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|11|94
+Brett Graves|R|Nolan Arenado|R|Strikeout|S|Slider|5|3|2|0|1|87
+Brett Graves|R|Trevor Story|R|Double|C|Slider|6|0|0|1|6|88
+Brett Graves|R|Trevor Story|R|Double|C|Curveball|7|0|1|1|4|81
+Brett Graves|R|Trevor Story|R|Double|F|Curveball|8|0|2|1|1|79
+Brett Graves|R|Trevor Story|R|Double|B|Four-Seam Fastball|9|0|2|1|12|95
+Brett Graves|R|Trevor Story|R|Double|F|Slider|10|1|2|1|14|87
+Brett Graves|R|Trevor Story|R|Double|B|Four-Seam Fastball|11|1|2|1|11|95
+Brett Graves|R|Trevor Story|R|Double|F|Slider|12|2|2|1|6|88
+Brett Graves|R|Trevor Story|R|Double|D|Curveball|13|2|2|1|14|80
+Brett Graves|R|Ian Desmond|R|Flyout|C|Curveball|14|0|0|1|9|80
+Brett Graves|R|Ian Desmond|R|Flyout|X|Slider|15|0|1|1|1|85
+Brett Graves|R|Tom Murphy|R|Single|B|Four-Seam Fastball|16|0|0|2|14|92
+Brett Graves|R|Tom Murphy|R|Single|E|Slider|17|1|0|2|6|86
+Brett Graves|R|Carlos Gonzalez|L|Strikeout|S|Curveball|18|0|0|2|13|79
+Brett Graves|R|Carlos Gonzalez|L|Strikeout|S|Curveball|19|0|1|2|8|81
+Brett Graves|R|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|20|0|2|2|11|94
+Brett Graves|R|Daniel Descalso|L|Groundout|X|Two-Seam Fastball|0|0|0|0|8|90
+Brett Graves|R|Nick Ahmed|R|Groundout|B|Four-Seam Fastball|1|0|0|1|14|91
+Brett Graves|R|Nick Ahmed|R|Groundout|X|Four-Seam Fastball|2|1|0|1|9|91
+Brett Graves|R|Jarrod Dyson|L|Single|D|Two-Seam Fastball|3|0|0|2|4|89
+Brett Graves|R|Jeff Mathis|R|Groundout|C|Four-Seam Fastball|4|0|0|2|8|90
+Brett Graves|R|Jeff Mathis|R|Groundout|B|Four-Seam Fastball|5|0|1|2|14|92
+Brett Graves|R|Jeff Mathis|R|Groundout|S|Slider|6|1|1|2|8|90
+Brett Graves|R|Jeff Mathis|R|Groundout|B|Curveball|7|1|2|2|14|83
+Brett Graves|R|Jeff Mathis|R|Groundout|X|Curveball|8|2|2|2|4|82
+Brett Graves|R|Ketel Marte|L|Single|D|Two-Seam Fastball|9|0|0|0|4|88
+Brett Graves|R|Jon Jay|L|Grounded Into DP|S|Two-Seam Fastball|10|0|0|0|11|89
+Brett Graves|R|Jon Jay|L|Grounded Into DP|B|Slider|11|0|1|0|11|88
+Brett Graves|R|Jon Jay|L|Grounded Into DP|B|Two-Seam Fastball|12|1|1|0|14|90
+Brett Graves|R|Jon Jay|L|Grounded Into DP|F|Four-Seam Fastball|13|2|1|0|4|90
+Brett Graves|R|Jon Jay|L|Grounded Into DP|X|Two-Seam Fastball|14|2|2|0|13|89
+Brett Graves|R|Paul Goldschmidt|R|Lineout|B|Slider|15|0|0|2|11|88
+Brett Graves|R|Paul Goldschmidt|R|Lineout|X|Two-Seam Fastball|16|1|0|2|13|90
+Brett Graves|R|Daniel Robertson|R|Hit By Pitch|F|Two-Seam Fastball|0|0|0|1|13|90
+Brett Graves|R|Daniel Robertson|R|Hit By Pitch|H|Two-Seam Fastball|1|0|1|1|11|92
+Brett Graves|R|Adeiny Hechavarria|R|Single|C|Four-Seam Fastball|2|0|0|1|14|91
+Brett Graves|R|Adeiny Hechavarria|R|Single|*B|Slider|3|0|1|1|14|88
+Brett Graves|R|Adeiny Hechavarria|R|Single|B|Four-Seam Fastball|4|1|1|1|14|93
+Brett Graves|R|Adeiny Hechavarria|R|Single|*B|Four-Seam Fastball|5|2|1|1|14|91
+Brett Graves|R|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|6|3|1|1|9|92
+Brett Graves|R|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|7|3|2|1|7|92
+Brett Graves|R|Adeiny Hechavarria|R|Single|D|Four-Seam Fastball|8|3|2|1|5|93
+Brett Graves|R|Johnny Field|R|Flyout|S|Slider|9|0|0|1|5|88
+Brett Graves|R|Johnny Field|R|Flyout|S|Slider|10|0|1|1|6|89
+Brett Graves|R|Johnny Field|R|Flyout|X|Four-Seam Fastball|11|0|2|1|5|94
+Brett Graves|R|Carlos Gomez|R|Double Play|X|Slider|12|0|0|2|11|88
+Brett Graves|R|Kevin Kiermaier|L|Groundout|B|Two-Seam Fastball|13|0|0|1|13|90
+Brett Graves|R|Kevin Kiermaier|L|Groundout|X|Four-Seam Fastball|14|1|0|1|12|91
+Brett Graves|R|Matt Duffy|R|Groundout|B|Curveball|15|0|0|2|14|80
+Brett Graves|R|Matt Duffy|R|Groundout|F|Two-Seam Fastball|16|1|0|2|13|92
+Brett Graves|R|Matt Duffy|R|Groundout|F|Slider|17|1|1|2|12|87
+Brett Graves|R|Matt Duffy|R|Groundout|B|Four-Seam Fastball|18|1|2|2|11|93
+Brett Graves|R|Matt Duffy|R|Groundout|X|Slider|19|2|2|2|2|88
+Brett Graves|R|Jake Bauers|L|Strikeout|B|Curveball|20|0|0|0|14|81
+Brett Graves|R|Jake Bauers|L|Strikeout|C|Four-Seam Fastball|21|1|0|0|14|92
+Brett Graves|R|Jake Bauers|L|Strikeout|C|Four-Seam Fastball|22|1|1|0|5|94
+Brett Graves|R|Jake Bauers|L|Strikeout|W|Curveball|23|1|2|0|14|83
+Brett Graves|R|Wilson Ramos|R|Groundout|C|Curveball|24|0|0|1|13|78
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Slider|25|0|1|1|14|86
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Slider|26|1|1|1|12|87
+Brett Graves|R|Wilson Ramos|R|Groundout|F|Four-Seam Fastball|27|2|1|1|1|90
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Four-Seam Fastball|28|2|2|1|14|92
+Brett Graves|R|Wilson Ramos|R|Groundout|X|Slider|29|3|2|1|14|88
+Brett Graves|R|Vidal Nuno|L|Single|X|Four-Seam Fastball|30|0|0|2|14|93
+Brett Graves|R|Daniel Robertson|R|Walk|B|Curveball|31|0|0|0|14|81
+Brett Graves|R|Daniel Robertson|R|Walk|B|Four-Seam Fastball|32|1|0|0|12|91
+Brett Graves|R|Daniel Robertson|R|Walk|S|Slider|33|2|0|0|14|88
+Brett Graves|R|Daniel Robertson|R|Walk|B|Four-Seam Fastball|34|2|1|0|1|92
+Brett Graves|R|Daniel Robertson|R|Walk|B|Two-Seam Fastball|35|3|1|0|14|91
+Brett Graves|R|Adeiny Hechavarria|R|Groundout|B|Slider|36|0|0|0|14|88
+Brett Graves|R|Adeiny Hechavarria|R|Groundout|F|Four-Seam Fastball|37|1|0|0|1|92
+Brett Graves|R|Adeiny Hechavarria|R|Groundout|F|Slider|38|1|1|0|2|87
+Brett Graves|R|Adeiny Hechavarria|R|Groundout|F|Curveball|39|1|2|0|11|82
+Brett Graves|R|Adeiny Hechavarria|R|Groundout|X|Curveball|40|1|2|0|14|82
+Brett Graves|R|Johnny Field|R|Single|B|Four-Seam Fastball|41|0|0|1|14|89
+Brett Graves|R|Johnny Field|R|Single|D|Slider|42|1|0|1|14|86
+Brett Graves|R|Carlos Gomez|R|Hit By Pitch|F|Four-Seam Fastball|43|0|0|1|9|90
+Brett Graves|R|Carlos Gomez|R|Hit By Pitch|H|Slider|44|0|1|1|11|86
+Brett Graves|R|Kevin Kiermaier|L|Grounded Into DP|X|Two-Seam Fastball|45|0|0|1|7|91
+Brett Graves|R|Matt Duffy|R|Walk|C|Slider|46|0|0|0|6|87
+Brett Graves|R|Matt Duffy|R|Walk|F|Four-Seam Fastball|47|0|1|0|11|90
+Brett Graves|R|Matt Duffy|R|Walk|*B|Curveball|48|0|2|0|14|81
+Brett Graves|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|49|1|2|0|12|93
+Brett Graves|R|Matt Duffy|R|Walk|*B|Curveball|50|2|2|0|14|80
+Brett Graves|R|Matt Duffy|R|Walk|B|Four-Seam Fastball|51|3|2|0|12|91
+Brett Graves|R|Jake Bauers|L|Double|B|Curveball|52|0|0|0|13|78
+Brett Graves|R|Jake Bauers|L|Double|C|Four-Seam Fastball|53|1|0|0|9|89
+Brett Graves|R|Jake Bauers|L|Double|E|Curveball|54|1|1|0|5|78
+Brett Graves|R|Wilson Ramos|R|Intent Walk|V|N/A|55|0|0|0|0|0
+Brett Graves|R|Wilson Ramos|R|Intent Walk|V|N/A|56|0|1|0|0|0
+Brett Graves|R|Wilson Ramos|R|Intent Walk|V|N/A|57|0|2|0|0|0
+Brett Graves|R|Wilson Ramos|R|Intent Walk|V|N/A|58|0|2|0|0|0
+Brett Graves|R|Vidal Nuno|L|Single|B|Two-Seam Fastball|59|0|0|0|11|88
+Brett Graves|R|Vidal Nuno|L|Single|E|Four-Seam Fastball|60|1|0|0|14|90
+Brett Graves|R|Daniel Robertson|R|Double|C|Slider|61|0|0|0|1|85
+Brett Graves|R|Daniel Robertson|R|Double|B|Two-Seam Fastball|62|0|1|0|14|89
+Brett Graves|R|Daniel Robertson|R|Double|S|Slider|63|1|1|0|9|86
+Brett Graves|R|Daniel Robertson|R|Double|B|Curveball|64|1|2|0|14|80
+Brett Graves|R|Daniel Robertson|R|Double|F|Slider|65|2|2|0|14|86
+Brett Graves|R|Daniel Robertson|R|Double|B|Four-Seam Fastball|66|2|2|0|14|92
+Brett Graves|R|Daniel Robertson|R|Double|F|Four-Seam Fastball|67|3|2|0|5|90
+Brett Graves|R|Daniel Robertson|R|Double|E|Four-Seam Fastball|68|3|2|0|12|90
+Brett Graves|R|Adeiny Hechavarria|R|Lineout|C|Slider|69|0|0|0|14|87
+Brett Graves|R|Adeiny Hechavarria|R|Lineout|S|Slider|70|0|1|0|14|87
+Brett Graves|R|Adeiny Hechavarria|R|Lineout|X|Slider|71|0|2|0|14|86
+Brett Graves|R|Ronald Acuna Jr.|R|Double|B|Four-Seam Fastball|0|0|0|0|14|92
+Brett Graves|R|Ronald Acuna Jr.|R|Double|F|Slider|1|1|0|0|6|88
+Brett Graves|R|Ronald Acuna Jr.|R|Double|C|Four-Seam Fastball|2|1|1|0|6|92
+Brett Graves|R|Ronald Acuna Jr.|R|Double|F|Curveball|3|1|2|0|14|80
+Brett Graves|R|Ronald Acuna Jr.|R|Double|D|Curveball|4|1|2|0|14|81
+Brett Graves|R|Charlie Culberson|R|Single|S|Four-Seam Fastball|5|0|0|0|8|90
+Brett Graves|R|Charlie Culberson|R|Single|F|Four-Seam Fastball|6|0|1|0|4|91
+Brett Graves|R|Charlie Culberson|R|Single|B|Four-Seam Fastball|7|0|2|0|12|92
+Brett Graves|R|Charlie Culberson|R|Single|B|Two-Seam Fastball|8|1|2|0|14|91
+Brett Graves|R|Charlie Culberson|R|Single|B|Curveball|9|2|2|0|14|81
+Brett Graves|R|Charlie Culberson|R|Single|E|Two-Seam Fastball|10|3|2|0|6|91
+Brett Graves|R|Freddie Freeman|L|Lineout|X|Four-Seam Fastball|11|0|0|0|9|90
+Brett Graves|R|Nick Markakis|L|Lineout|C|Four-Seam Fastball|12|0|0|1|13|90
+Brett Graves|R|Nick Markakis|L|Lineout|F|Four-Seam Fastball|13|0|1|1|6|92
+Brett Graves|R|Nick Markakis|L|Lineout|F|Curveball|14|0|2|1|14|79
+Brett Graves|R|Nick Markakis|L|Lineout|B|Four-Seam Fastball|15|0|2|1|11|91
+Brett Graves|R|Nick Markakis|L|Lineout|B|Two-Seam Fastball|16|1|2|1|14|92
+Brett Graves|R|Nick Markakis|L|Lineout|B|Two-Seam Fastball|17|2|2|1|11|90
+Brett Graves|R|Nick Markakis|L|Lineout|X|Two-Seam Fastball|18|3|2|1|7|90
+Brett Graves|R|Kurt Suzuki|R|Flyout|F|Four-Seam Fastball|19|0|0|2|3|91
+Brett Graves|R|Kurt Suzuki|R|Flyout|F|Four-Seam Fastball|20|0|1|2|12|92
+Brett Graves|R|Kurt Suzuki|R|Flyout|B|Four-Seam Fastball|21|0|2|2|11|91
+Brett Graves|R|Kurt Suzuki|R|Flyout|X|Slider|22|1|2|2|6|88
+Brett Graves|R|Johan Camargo|L|Single|C|Four-Seam Fastball|23|0|0|0|7|89
+Brett Graves|R|Johan Camargo|L|Single|D|Curveball|24|0|1|0|5|76
+Brett Graves|R|Ender Inciarte|L|Single|B|Two-Seam Fastball|25|0|0|0|11|89
+Brett Graves|R|Ender Inciarte|L|Single|C|Two-Seam Fastball|26|1|0|0|8|89
+Brett Graves|R|Ender Inciarte|L|Single|D|Two-Seam Fastball|27|1|1|0|4|88
+Brett Graves|R|Dansby Swanson|R|Forceout|X|Slider|28|0|0|0|9|87
+Brett Graves|R|Preston Tucker|L|Hit By Pitch|B|Four-Seam Fastball|29|0|0|1|12|90
+Brett Graves|R|Preston Tucker|L|Hit By Pitch|C|Two-Seam Fastball|30|1|0|1|1|90
+Brett Graves|R|Preston Tucker|L|Hit By Pitch|H|Slider|31|1|1|1|14|87
+Brett Graves|R|Ronald Acuna Jr.|R|Walk|B|Slider|32|0|0|1|13|86
+Brett Graves|R|Ronald Acuna Jr.|R|Walk|B|Slider|33|1|0|1|14|85
+Brett Graves|R|Ronald Acuna Jr.|R|Walk|B|Two-Seam Fastball|34|2|0|1|14|90
+Brett Graves|R|Ronald Acuna Jr.|R|Walk|C|Four-Seam Fastball|35|3|0|1|5|89
+Brett Graves|R|Ronald Acuna Jr.|R|Walk|B|Four-Seam Fastball|36|3|1|1|14|90
+Brett Graves|R|Charlie Culberson|R|Groundout|E|Two-Seam Fastball|37|0|0|1|11|89
+Brett Graves|R|Ryan Flaherty|L|Strikeout|B|Two-Seam Fastball|38|0|0|2|13|89
+Brett Graves|R|Ryan Flaherty|L|Strikeout|B|Four-Seam Fastball|39|1|0|2|12|89
+Brett Graves|R|Ryan Flaherty|L|Strikeout|C|Four-Seam Fastball|40|2|0|2|13|90
+Brett Graves|R|Ryan Flaherty|L|Strikeout|F|Four-Seam Fastball|41|2|1|2|2|90
+Brett Graves|R|Ryan Flaherty|L|Strikeout|S|Curveball|42|2|2|2|14|78
+Brett Graves|R|Wilmer Difo|L|Strikeout|C|Curveball|0|0|0|0|7|78
+Brett Graves|R|Wilmer Difo|L|Strikeout|S|Four-Seam Fastball|1|0|1|0|2|90
+Brett Graves|R|Wilmer Difo|L|Strikeout|S|Four-Seam Fastball|2|0|2|0|5|92
+Brett Graves|R|Spencer Kieboom|R|Groundout|B|Four-Seam Fastball|3|0|0|1|14|93
+Brett Graves|R|Spencer Kieboom|R|Groundout|C|Four-Seam Fastball|4|1|0|1|7|91
+Brett Graves|R|Spencer Kieboom|R|Groundout|B|Curveball|5|1|1|1|14|80
+Brett Graves|R|Spencer Kieboom|R|Groundout|X|Two-Seam Fastball|6|2|1|1|8|91
+Brett Graves|R|Trea Turner|R|Flyout|C|Curveball|7|0|0|2|9|79
+Brett Graves|R|Trea Turner|R|Flyout|B|Slider|8|0|1|2|14|87
+Brett Graves|R|Trea Turner|R|Flyout|B|Two-Seam Fastball|9|1|1|2|11|91
+Brett Graves|R|Trea Turner|R|Flyout|X|Four-Seam Fastball|10|2|1|2|9|91
+Brett Graves|R|Luke Jackson|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|89
+Brett Graves|R|Luke Jackson|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|90
+Brett Graves|R|Luke Jackson|R|Walk|B|Four-Seam Fastball|2|2|0|0|13|90
+Brett Graves|R|Luke Jackson|R|Walk|B|Slider|3|3|0|0|11|87
+Brett Graves|R|Ronald Acuna Jr.|R|Single|D|Curveball|4|0|0|0|13|78
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|B|Four-Seam Fastball|5|0|0|0|14|91
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|X|Four-Seam Fastball|6|1|0|0|8|91
+Brett Graves|R|Freddie Freeman|L|Single|S|Slider|7|0|0|2|1|88
+Brett Graves|R|Freddie Freeman|L|Single|S|Four-Seam Fastball|8|0|1|2|11|91
+Brett Graves|R|Freddie Freeman|L|Single|E|Slider|9|0|2|2|3|89
+Brett Graves|R|Nick Markakis|L|Groundout|C|Four-Seam Fastball|10|0|0|2|8|90
+Brett Graves|R|Nick Markakis|L|Groundout|*B|Curveball|11|0|1|2|14|81
+Brett Graves|R|Nick Markakis|L|Groundout|B|Slider|12|1|1|2|14|90
+Brett Graves|R|Nick Markakis|L|Groundout|X|Slider|13|2|1|2|13|90
+Brett Graves|R|Kurt Suzuki|R|Lineout|B|Slider|14|0|0|0|14|85
+Brett Graves|R|Kurt Suzuki|R|Lineout|B|Four-Seam Fastball|15|1|0|0|14|91
+Brett Graves|R|Kurt Suzuki|R|Lineout|B|Four-Seam Fastball|16|2|0|0|14|89
+Brett Graves|R|Kurt Suzuki|R|Lineout|C|Four-Seam Fastball|17|3|0|0|3|90
+Brett Graves|R|Kurt Suzuki|R|Lineout|X|Four-Seam Fastball|18|3|1|0|12|91
+Brett Graves|R|Johan Camargo|L|Walk|B|Four-Seam Fastball|19|0|0|1|11|92
+Brett Graves|R|Johan Camargo|L|Walk|B|Slider|20|1|0|1|13|90
+Brett Graves|R|Johan Camargo|L|Walk|F|Two-Seam Fastball|21|2|0|1|13|90
+Brett Graves|R|Johan Camargo|L|Walk|B|Four-Seam Fastball|22|2|1|1|13|90
+Brett Graves|R|Johan Camargo|L|Walk|F|Two-Seam Fastball|23|3|1|1|8|92
+Brett Graves|R|Johan Camargo|L|Walk|B|Slider|24|3|2|1|11|90
+Brett Graves|R|Ender Inciarte|L|Single|D|Four-Seam Fastball|25|0|0|1|2|91
+Brett Graves|R|Dansby Swanson|R|Grounded Into DP|C|Slider|26|0|0|1|1|87
+Brett Graves|R|Dansby Swanson|R|Grounded Into DP|B|Curveball|27|0|1|1|14|79
+Brett Graves|R|Dansby Swanson|R|Grounded Into DP|S|Slider|28|1|1|1|5|89
+Brett Graves|R|Dansby Swanson|R|Grounded Into DP|F|Two-Seam Fastball|29|1|2|1|11|90
+Brett Graves|R|Dansby Swanson|R|Grounded Into DP|X|Slider|30|1|2|1|3|87
+Brett Graves|R|Kolten Wong|L|Double|C|Four-Seam Fastball|0|0|0|0|13|92
+Brett Graves|R|Kolten Wong|L|Double|B|Curveball|1|0|1|0|14|80
+Brett Graves|R|Kolten Wong|L|Double|B|Curveball|2|1|1|0|14|79
+Brett Graves|R|Kolten Wong|L|Double|C|Four-Seam Fastball|3|2|1|0|9|92
+Brett Graves|R|Kolten Wong|L|Double|D|Four-Seam Fastball|4|2|2|0|11|93
+Brett Graves|R|Adolis Garcia|R|Groundout|B|Four-Seam Fastball|5|0|0|0|1|92
+Brett Graves|R|Adolis Garcia|R|Groundout|F|Four-Seam Fastball|6|1|0|0|6|92
+Brett Graves|R|Adolis Garcia|R|Groundout|*B|Slider|7|1|1|0|14|90
+Brett Graves|R|Adolis Garcia|R|Groundout|F|Four-Seam Fastball|8|2|1|0|4|93
+Brett Graves|R|Adolis Garcia|R|Groundout|X|Slider|9|2|2|0|5|89
+Brett Graves|R|Greg Garcia|L|Strikeout|C|Four-Seam Fastball|10|0|0|1|13|93
+Brett Graves|R|Greg Garcia|L|Strikeout|S|Curveball|11|0|1|1|14|80
+Brett Graves|R|Greg Garcia|L|Strikeout|B|Curveball|12|0|2|1|14|81
+Brett Graves|R|Greg Garcia|L|Strikeout|S|Four-Seam Fastball|13|1|2|1|2|94
+Brett Graves|R|Matt Carpenter|L|Intent Walk|V|N/A|14|0|0|2|0|0
+Brett Graves|R|Matt Carpenter|L|Intent Walk|V|N/A|15|0|1|2|0|0
+Brett Graves|R|Matt Carpenter|L|Intent Walk|V|N/A|16|0|2|2|0|0
+Brett Graves|R|Matt Carpenter|L|Intent Walk|V|N/A|17|0|2|2|0|0
+Brett Graves|R|Yadier Molina|R|Double|B|Slider|18|0|0|2|14|89
+Brett Graves|R|Yadier Molina|R|Double|E|Four-Seam Fastball|19|1|0|2|5|93
+Brett Graves|R|Harrison Bader|R|Strikeout|S|Four-Seam Fastball|20|0|0|2|2|94
+Brett Graves|R|Harrison Bader|R|Strikeout|F|Slider|21|0|1|2|11|89
+Brett Graves|R|Harrison Bader|R|Strikeout|B|Four-Seam Fastball|22|0|2|2|12|94
+Brett Graves|R|Harrison Bader|R|Strikeout|S|Curveball|23|1|2|2|8|79
+Brett Graves|R|Tyler Flowers|R|Single|B|Four-Seam Fastball|0|0|0|0|14|93
+Brett Graves|R|Tyler Flowers|R|Single|B|Four-Seam Fastball|1|1|0|0|14|93
+Brett Graves|R|Tyler Flowers|R|Single|C|Four-Seam Fastball|2|2|0|0|6|92
+Brett Graves|R|Tyler Flowers|R|Single|D|Slider|3|2|1|0|9|91
+Brett Graves|R|Dansby Swanson|R|Strikeout|S|Slider|4|0|0|0|11|90
+Brett Graves|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|5|0|1|0|14|93
+Brett Graves|R|Dansby Swanson|R|Strikeout|B|Slider|6|1|1|0|14|91
+Brett Graves|R|Dansby Swanson|R|Strikeout|C|Four-Seam Fastball|7|2|1|0|9|94
+Brett Graves|R|Dansby Swanson|R|Strikeout|F|Two-Seam Fastball|8|2|2|0|3|94
+Brett Graves|R|Dansby Swanson|R|Strikeout|B|Four-Seam Fastball|9|2|2|0|14|93
+Brett Graves|R|Dansby Swanson|R|Strikeout|F|Four-Seam Fastball|10|3|2|0|5|94
+Brett Graves|R|Dansby Swanson|R|Strikeout|S|Slider|11|3|2|0|14|90
+Brett Graves|R|Ryan Flaherty|L|Lineout|C|Four-Seam Fastball|12|0|0|1|14|93
+Brett Graves|R|Ryan Flaherty|L|Lineout|B|Slider|13|0|1|1|12|90
+Brett Graves|R|Ryan Flaherty|L|Lineout|F|Curveball|14|1|1|1|13|80
+Brett Graves|R|Ryan Flaherty|L|Lineout|B|Four-Seam Fastball|15|1|2|1|12|94
+Brett Graves|R|Ryan Flaherty|L|Lineout|X|Curveball|16|2|2|1|4|82
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|C|Slider|17|0|0|2|9|91
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|F|Curveball|18|0|1|2|13|82
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|19|0|2|2|11|94
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|20|1|2|2|12|95
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|*B|Curveball|21|2|2|2|14|82
+Brett Graves|R|Ronald Acuna Jr.|R|Strikeout|C|Slider|22|3|2|2|13|91
+Brett Graves|R|Adam Duvall|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Brett Graves|R|Adam Duvall|R|Flyout|X|Four-Seam Fastball|1|1|0|0|4|91
+Brett Graves|R|Ozzie Albies|L|Groundout|X|Four-Seam Fastball|2|0|0|1|6|93
+Brett Graves|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|3|0|0|2|13|92
+Brett Graves|R|Freddie Freeman|L|Single|F|Four-Seam Fastball|4|1|0|2|14|93
+Brett Graves|R|Freddie Freeman|L|Single|B|Slider|5|1|1|2|14|91
+Brett Graves|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|6|2|1|2|3|94
+Brett Graves|R|Freddie Freeman|L|Single|D|Two-Seam Fastball|7|3|1|2|7|92
+Brett Graves|R|Nick Markakis|L|Groundout|C|Four-Seam Fastball|8|0|0|2|1|92
+Brett Graves|R|Nick Markakis|L|Groundout|X|Slider|9|0|1|2|14|91
+Brett Graves|R|Charlie Culberson|R|Single|B|Slider|10|0|0|0|11|89
+Brett Graves|R|Charlie Culberson|R|Single|B|Four-Seam Fastball|11|1|0|0|14|91
+Brett Graves|R|Charlie Culberson|R|Single|F|Two-Seam Fastball|12|2|0|0|8|92
+Brett Graves|R|Charlie Culberson|R|Single|D|Slider|13|2|1|0|14|88
+Brett Graves|R|Ender Inciarte|L|Lineout|X|Two-Seam Fastball|14|0|0|0|13|91
+Brett Graves|R|Tyler Flowers|R|Strikeout|B|Slider|15|0|0|1|12|89
+Brett Graves|R|Tyler Flowers|R|Strikeout|S|Slider|16|1|0|1|12|90
+Brett Graves|R|Tyler Flowers|R|Strikeout|S|Two-Seam Fastball|17|1|1|1|13|92
+Brett Graves|R|Tyler Flowers|R|Strikeout|S|Curveball|18|1|2|1|7|80
+Brett Graves|R|Dansby Swanson|R|Flyout|B|Slider|19|0|0|2|14|91
+Brett Graves|R|Dansby Swanson|R|Flyout|B|Slider|20|1|0|2|14|90
+Brett Graves|R|Dansby Swanson|R|Flyout|F|Four-Seam Fastball|21|2|0|2|8|94
+Brett Graves|R|Dansby Swanson|R|Flyout|X|Slider|22|2|1|2|4|89
+Brett Graves|R|Anthony Rendon|R|Groundout|C|Slider|0|0|0|2|3|90
+Brett Graves|R|Anthony Rendon|R|Groundout|B|Slider|1|0|1|2|12|91
+Brett Graves|R|Anthony Rendon|R|Groundout|F|Four-Seam Fastball|2|1|1|2|2|93
+Brett Graves|R|Anthony Rendon|R|Groundout|B|Curveball|3|1|2|2|11|81
+Brett Graves|R|Anthony Rendon|R|Groundout|X|Slider|4|2|2|2|14|90
+Brett Graves|R|Bryce Harper|L|Groundout|S|Curveball|5|0|0|0|14|81
+Brett Graves|R|Bryce Harper|L|Groundout|B|Curveball|6|0|1|0|14|82
+Brett Graves|R|Bryce Harper|L|Groundout|B|Four-Seam Fastball|7|1|1|0|14|94
+Brett Graves|R|Bryce Harper|L|Groundout|B|Slider|8|2|1|0|14|90
+Brett Graves|R|Bryce Harper|L|Groundout|X|Two-Seam Fastball|9|3|1|0|4|92
+Brett Graves|R|Ryan Zimmerman|R|Groundout|B|Curveball|10|0|0|1|14|82
+Brett Graves|R|Ryan Zimmerman|R|Groundout|C|Slider|11|1|0|1|5|90
+Brett Graves|R|Ryan Zimmerman|R|Groundout|B|Four-Seam Fastball|12|1|1|1|12|92
+Brett Graves|R|Ryan Zimmerman|R|Groundout|X|Slider|13|2|1|1|14|90
+Brett Graves|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|0|0|0|0|12|91
+Brett Graves|R|Nick Markakis|L|Double|B|Four-Seam Fastball|1|0|0|1|13|90
+Brett Graves|R|Nick Markakis|L|Double|C|Four-Seam Fastball|2|1|0|1|6|92
+Brett Graves|R|Nick Markakis|L|Double|D|Curveball|3|1|1|1|14|79
+Brett Graves|R|Johan Camargo|L|Single|D|Curveball|4|0|0|1|14|79
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|B|Four-Seam Fastball|5|0|0|1|12|91
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|B|Two-Seam Fastball|6|1|0|1|13|90
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|C|Slider|7|2|0|1|11|89
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|B|Four-Seam Fastball|8|2|1|1|12|92
+Brett Graves|R|Ozzie Albies|L|Grounded Into DP|X|Two-Seam Fastball|9|3|1|1|13|90
+Brett Graves|R|Charlie Culberson|R|Single|C|Slider|10|0|0|0|14|87
+Brett Graves|R|Charlie Culberson|R|Single|S|Four-Seam Fastball|11|0|1|0|6|92
+Brett Graves|R|Charlie Culberson|R|Single|D|Four-Seam Fastball|12|0|2|0|2|94
+Brett Graves|R|Tyler Flowers|R|Lineout|S|Two-Seam Fastball|13|0|0|0|4|90
+Brett Graves|R|Tyler Flowers|R|Lineout|B|Slider|14|0|1|0|14|89
+Brett Graves|R|Tyler Flowers|R|Lineout|X|Slider|15|1|1|0|9|89
+Brett Graves|R|Adam Duvall|R|Groundout|X|Slider|16|0|0|1|14|89
+Brett Graves|R|Ronald Acuna Jr.|R|Groundout|X|Four-Seam Fastball|17|0|0|2|11|91
+Brett Graves|R|Ender Inciarte|L|Walk|B|Four-Seam Fastball|18|0|0|0|14|90
+Brett Graves|R|Ender Inciarte|L|Walk|B|Two-Seam Fastball|19|1|0|0|13|90
+Brett Graves|R|Ender Inciarte|L|Walk|B|Four-Seam Fastball|20|2|0|0|11|91
+Brett Graves|R|Ender Inciarte|L|Walk|B|Four-Seam Fastball|21|3|0|0|11|90
+Brett Graves|R|Freddie Freeman|L|Flyout|F|Slider|22|0|0|0|6|87
+Brett Graves|R|Freddie Freeman|L|Flyout|B|Two-Seam Fastball|23|0|1|0|11|91
+Brett Graves|R|Freddie Freeman|L|Flyout|S|Four-Seam Fastball|24|1|1|0|11|91
+Brett Graves|R|Freddie Freeman|L|Flyout|F|Four-Seam Fastball|25|1|2|0|11|92
+Brett Graves|R|Freddie Freeman|L|Flyout|F|Curveball|26|1|2|0|13|80
+Brett Graves|R|Freddie Freeman|L|Flyout|B|Slider|27|1|2|0|14|90
+Brett Graves|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|28|2|2|0|11|92
+Brett Graves|R|Nick Markakis|L|Flyout|B|Slider|29|0|0|1|14|89
+Brett Graves|R|Nick Markakis|L|Flyout|C|Four-Seam Fastball|30|1|0|1|11|91
+Brett Graves|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|31|1|1|1|13|91
+Brett Graves|R|Nick Markakis|L|Flyout|X|Slider|32|2|1|1|6|88
+Brett Graves|R|Johan Camargo|L|Single|D|Slider|33|0|0|2|8|88
+Brett Graves|R|Ozzie Albies|L|Flyout|S|Four-Seam Fastball|34|0|0|2|11|92
+Brett Graves|R|Ozzie Albies|L|Flyout|X|Slider|35|0|1|2|3|89
+Brett Graves|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|90
+Brett Graves|R|Nick Markakis|L|Flyout|C|Four-Seam Fastball|1|1|0|0|7|90
+Brett Graves|R|Nick Markakis|L|Flyout|B|Four-Seam Fastball|2|1|1|0|11|91
+Brett Graves|R|Nick Markakis|L|Flyout|F|Slider|3|2|1|0|5|89
+Brett Graves|R|Nick Markakis|L|Flyout|F|Curveball|4|2|2|0|14|80
+Brett Graves|R|Nick Markakis|L|Flyout|X|Four-Seam Fastball|5|2|2|0|5|92
+Brett Graves|R|Johan Camargo|L|Double|D|Slider|6|0|0|1|7|89
+Brett Graves|R|Adam Duvall|R|Strikeout|F|Slider|7|0|0|1|8|89
+Brett Graves|R|Adam Duvall|R|Strikeout|B|Four-Seam Fastball|8|0|1|1|12|93
+Brett Graves|R|Adam Duvall|R|Strikeout|*B|Curveball|9|1|1|1|14|81
+Brett Graves|R|Adam Duvall|R|Strikeout|F|Slider|10|2|1|1|14|88
+Brett Graves|R|Adam Duvall|R|Strikeout|T|Four-Seam Fastball|11|2|2|1|2|93
+Brett Graves|R|Tyler Flowers|R|Flyout|B|Slider|12|0|0|2|14|89
+Brett Graves|R|Tyler Flowers|R|Flyout|X|Slider|13|1|0|2|9|88
+Brett Graves|R|Brock Holt|L|Single|C|Four-Seam Fastball|0|0|0|2|9|92
+Brett Graves|R|Brock Holt|L|Single|B|Slider|1|0|1|2|14|91
+Brett Graves|R|Brock Holt|L|Single|B|Two-Seam Fastball|2|1|1|2|13|92
+Brett Graves|R|Brock Holt|L|Single|D|Two-Seam Fastball|3|2|1|2|13|92
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|B|Slider|4|0|0|2|13|90
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|C|Four-Seam Fastball|5|1|0|2|6|92
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|F|Four-Seam Fastball|6|1|1|2|11|94
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|*B|Curveball|7|1|2|2|14|82
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|B|Slider|8|2|2|2|14|89
+Brett Graves|R|J.D. Martinez|R|Grounded Into DP|X|Slider|9|3|2|2|14|91
+Brett Graves|R|Xander Bogaerts|R|Lineout|B|Four-Seam Fastball|10|0|0|1|14|95
+Brett Graves|R|Xander Bogaerts|R|Lineout|C|Slider|11|1|0|1|14|91
+Brett Graves|R|Xander Bogaerts|R|Lineout|B|Curveball|12|1|1|1|14|82
+Brett Graves|R|Xander Bogaerts|R|Lineout|F|Slider|13|2|1|1|9|92
+Brett Graves|R|Xander Bogaerts|R|Lineout|X|Four-Seam Fastball|14|2|2|1|12|94
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|91
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|92
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|8|91
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|5|92
+Brett Graves|R|Billy McKinney|L|Groundout|S|Curveball|4|0|0|1|14|79
+Brett Graves|R|Billy McKinney|L|Groundout|X|Slider|5|0|1|1|5|90
+Brett Graves|R|Devon Travis|R|Groundout|B|Four-Seam Fastball|6|0|0|2|14|92
+Brett Graves|R|Devon Travis|R|Groundout|C|Four-Seam Fastball|7|1|0|2|5|91
+Brett Graves|R|Devon Travis|R|Groundout|X|Two-Seam Fastball|8|1|1|2|8|91
+Brett Graves|R|Kendrys Morales|L|Strikeout|C|Four-Seam Fastball|9|0|0|0|8|92
+Brett Graves|R|Kendrys Morales|L|Strikeout|C|Slider|10|0|1|0|13|89
+Brett Graves|R|Kendrys Morales|L|Strikeout|W|Curveball|11|0|2|0|13|81
+Brett Graves|R|Randal Grichuk|R|Hit By Pitch|B|Curveball|12|0|0|1|11|78
+Brett Graves|R|Randal Grichuk|R|Hit By Pitch|H|Two-Seam Fastball|13|1|0|1|11|88
+Brett Graves|R|Lourdes Gurriel Jr.|R|Single|F|Slider|14|0|0|1|3|89
+Brett Graves|R|Lourdes Gurriel Jr.|R|Single|T|Four-Seam Fastball|15|0|1|1|6|92
+Brett Graves|R|Lourdes Gurriel Jr.|R|Single|F|Curveball|16|0|2|1|13|80
+Brett Graves|R|Lourdes Gurriel Jr.|R|Single|B|Curveball|17|0|2|1|14|81
+Brett Graves|R|Lourdes Gurriel Jr.|R|Single|D|Slider|18|1|2|1|14|88
+Brett Graves|R|Aledmys Diaz|R|Groundout|B|Four-Seam Fastball|19|0|0|1|14|92
+Brett Graves|R|Aledmys Diaz|R|Groundout|S|Slider|20|1|0|1|14|89
+Brett Graves|R|Aledmys Diaz|R|Groundout|*B|Curveball|21|1|1|1|14|81
+Brett Graves|R|Aledmys Diaz|R|Groundout|X|Two-Seam Fastball|22|2|1|1|8|91
+Brett Graves|R|Teoscar Hernandez|R|Home Run|*B|Curveball|23|0|0|2|14|81
+Brett Graves|R|Teoscar Hernandez|R|Home Run|C|Two-Seam Fastball|24|1|0|2|9|92
+Brett Graves|R|Teoscar Hernandez|R|Home Run|S|Slider|25|1|1|2|14|89
+Brett Graves|R|Teoscar Hernandez|R|Home Run|E|Curveball|26|1|2|2|8|82
+Brett Graves|R|Luke Maile|R|Double|B|Four-Seam Fastball|27|0|0|2|14|93
+Brett Graves|R|Luke Maile|R|Double|D|Slider|28|1|0|2|9|89
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|C|Four-Seam Fastball|29|0|0|2|14|91
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|S|Two-Seam Fastball|30|0|1|2|14|91
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|F|Four-Seam Fastball|31|0|2|2|12|93
+Brett Graves|R|Sean Reid-Foley|R|Strikeout|S|Curveball|32|0|2|2|8|80
+Brett Graves|R|Odubel Herrera|L|Groundout|C|Curveball|0|0|0|0|8|79
+Brett Graves|R|Odubel Herrera|L|Groundout|C|Slider|1|0|1|0|8|89
+Brett Graves|R|Odubel Herrera|L|Groundout|B|Curveball|2|0|2|0|14|81
+Brett Graves|R|Odubel Herrera|L|Groundout|F|Curveball|3|1|2|0|13|80
+Brett Graves|R|Odubel Herrera|L|Groundout|X|Two-Seam Fastball|4|1|2|0|13|93
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Four-Seam Fastball|5|0|0|1|14|94
+Brett Graves|R|Wilson Ramos|R|Groundout|T|Two-Seam Fastball|6|1|0|1|5|92
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Slider|7|1|1|1|14|90
+Brett Graves|R|Wilson Ramos|R|Groundout|X|Slider|8|2|1|1|6|89
+Brett Graves|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|9|0|0|2|14|91
+Brett Graves|R|Asdrubal Cabrera|L|Walk|B|Slider|10|1|0|2|12|89
+Brett Graves|R|Asdrubal Cabrera|L|Walk|C|Two-Seam Fastball|11|2|0|2|7|91
+Brett Graves|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|12|2|1|2|13|92
+Brett Graves|R|Asdrubal Cabrera|L|Walk|F|Slider|13|3|1|2|2|89
+Brett Graves|R|Asdrubal Cabrera|L|Walk|F|Slider|14|3|2|2|11|90
+Brett Graves|R|Asdrubal Cabrera|L|Walk|F|Four-Seam Fastball|15|3|2|2|2|94
+Brett Graves|R|Asdrubal Cabrera|L|Walk|B|Curveball|16|3|2|2|14|82
+Brett Graves|R|Nick Williams|L|Flyout|B|Two-Seam Fastball|17|0|0|2|13|92
+Brett Graves|R|Nick Williams|L|Flyout|X|Four-Seam Fastball|18|1|0|2|6|92
+Brett Graves|R|Cesar Hernandez|L|Single|C|Four-Seam Fastball|19|0|0|0|7|89
+Brett Graves|R|Cesar Hernandez|L|Single|B|Slider|20|0|1|0|12|89
+Brett Graves|R|Cesar Hernandez|L|Single|B|Curveball|21|1|1|0|13|79
+Brett Graves|R|Cesar Hernandez|L|Single|D|Two-Seam Fastball|22|2|1|0|13|90
+Brett Graves|R|Scott Kingery|R|Flyout|B|Slider|23|0|0|0|11|88
+Brett Graves|R|Scott Kingery|R|Flyout|X|Slider|24|1|0|0|5|89
+Brett Graves|R|Jake Arrieta|R|Bunt Pop Out|X|Four-Seam Fastball|25|0|0|1|11|91
+Brett Graves|R|Carlos Santana|L|Groundout|C|Two-Seam Fastball|26|0|0|2|4|90
+Brett Graves|R|Carlos Santana|L|Groundout|B|Slider|27|0|1|2|13|90
+Brett Graves|R|Carlos Santana|L|Groundout|X|Two-Seam Fastball|28|1|1|2|13|91
+Brett Graves|R|Adam Frazier|L|Double|C|Four-Seam Fastball|0|0|0|0|14|91
+Brett Graves|R|Adam Frazier|L|Double|F|Curveball|1|0|1|0|14|79
+Brett Graves|R|Adam Frazier|L|Double|B|Curveball|2|0|2|0|9|80
+Brett Graves|R|Adam Frazier|L|Double|B|Four-Seam Fastball|3|1|2|0|11|92
+Brett Graves|R|Adam Frazier|L|Double|F|Four-Seam Fastball|4|2|2|0|3|91
+Brett Graves|R|Adam Frazier|L|Double|D|Curveball|5|2|2|0|8|81
+Brett Graves|R|Starling Marte|R|Groundout|B|Slider|6|0|0|0|2|89
+Brett Graves|R|Starling Marte|R|Groundout|F|Four-Seam Fastball|7|1|0|0|5|92
+Brett Graves|R|Starling Marte|R|Groundout|X|Two-Seam Fastball|8|1|1|0|13|92
+Brett Graves|R|Jordan Luplow|R|Groundout|C|Curveball|9|0|0|1|9|81
+Brett Graves|R|Jordan Luplow|R|Groundout|B|Slider|10|0|1|1|14|89
+Brett Graves|R|Jordan Luplow|R|Groundout|F|Slider|11|1|1|1|6|90
+Brett Graves|R|Jordan Luplow|R|Groundout|B|Four-Seam Fastball|12|1|2|1|11|91
+Brett Graves|R|Jordan Luplow|R|Groundout|X|Four-Seam Fastball|13|2|2|1|8|95
+Brett Graves|R|Josh Bell|L|Home Run|F|Four-Seam Fastball|14|0|0|2|1|90
+Brett Graves|R|Josh Bell|L|Home Run|B|Slider|15|0|1|2|11|89
+Brett Graves|R|Josh Bell|L|Home Run|S|Slider|16|1|1|2|12|88
+Brett Graves|R|Josh Bell|L|Home Run|F|Four-Seam Fastball|17|1|2|2|14|93
+Brett Graves|R|Josh Bell|L|Home Run|B|Curveball|18|1|2|2|13|81
+Brett Graves|R|Josh Bell|L|Home Run|B|Slider|19|2|2|2|12|90
+Brett Graves|R|Josh Bell|L|Home Run|E|Four-Seam Fastball|20|3|2|2|6|92
+Brett Graves|R|Jose Osuna|R|Pop Out|B|Four-Seam Fastball|21|0|0|2|14|93
+Brett Graves|R|Jose Osuna|R|Pop Out|C|Slider|22|1|0|2|9|89
+Brett Graves|R|Jose Osuna|R|Pop Out|B|Slider|23|1|1|2|14|89
+Brett Graves|R|Jose Osuna|R|Pop Out|B|Slider|24|2|1|2|14|88
+Brett Graves|R|Jose Osuna|R|Pop Out|X|Two-Seam Fastball|25|3|1|2|7|91
+Brett Graves|R|Pablo Reyes|R|Groundout|C|Four-Seam Fastball|26|0|0|0|6|92
+Brett Graves|R|Pablo Reyes|R|Groundout|X|Curveball|27|0|1|0|14|80
+Brett Graves|R|Kevin Newman|R|Strikeout|B|Slider|28|0|0|1|14|88
+Brett Graves|R|Kevin Newman|R|Strikeout|C|Four-Seam Fastball|29|1|0|1|9|91
+Brett Graves|R|Kevin Newman|R|Strikeout|C|Curveball|30|1|1|1|8|80
+Brett Graves|R|Kevin Newman|R|Strikeout|S|Slider|31|1|2|1|14|89
+Brett Graves|R|Wilson Ramos|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|93
+Brett Graves|R|Wilson Ramos|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|92
+Brett Graves|R|Wilson Ramos|R|Walk|B|Slider|2|2|0|0|14|89
+Brett Graves|R|Wilson Ramos|R|Walk|C|Four-Seam Fastball|3|3|0|0|4|92
+Brett Graves|R|Wilson Ramos|R|Walk|B|Two-Seam Fastball|4|3|1|0|9|92
+Brett Graves|R|Carlos Santana|L|Field Error|C|Two-Seam Fastball|5|0|0|0|11|91
+Brett Graves|R|Carlos Santana|L|Field Error|B|Slider|6|0|1|0|14|89
+Brett Graves|R|Carlos Santana|L|Field Error|D|Two-Seam Fastball|7|1|1|0|2|91
+Brett Graves|R|Aaron Altherr|R|Walk|C|Four-Seam Fastball|8|0|0|0|6|92
+Brett Graves|R|Aaron Altherr|R|Walk|S|Curveball|9|0|1|0|13|80
+Brett Graves|R|Aaron Altherr|R|Walk|*B|Curveball|10|0|2|0|14|81
+Brett Graves|R|Aaron Altherr|R|Walk|B|Slider|11|1|2|0|14|90
+Brett Graves|R|Aaron Altherr|R|Walk|B|Slider|12|2|2|0|12|90
+Brett Graves|R|Aaron Altherr|R|Walk|B|Slider|13|3|2|0|14|88
+Brett Graves|R|Roman Quinn|L|Strikeout|F|Slider|14|0|0|0|1|89
+Brett Graves|R|Roman Quinn|L|Strikeout|S|Four-Seam Fastball|15|0|1|0|2|92
+Brett Graves|R|Roman Quinn|L|Strikeout|S|Four-Seam Fastball|16|0|2|0|2|93
+Brett Graves|R|Asdrubal Cabrera|L|Strikeout|B|Two-Seam Fastball|17|0|0|1|14|92
+Brett Graves|R|Asdrubal Cabrera|L|Strikeout|T|Two-Seam Fastball|18|1|0|1|4|92
+Brett Graves|R|Asdrubal Cabrera|L|Strikeout|F|Two-Seam Fastball|19|1|1|1|8|92
+Brett Graves|R|Asdrubal Cabrera|L|Strikeout|*B|Curveball|20|1|2|1|13|82
+Brett Graves|R|Asdrubal Cabrera|L|Strikeout|T|Two-Seam Fastball|21|2|2|1|11|94
+Brett Graves|R|Justin Bour|L|Single|F|Slider|22|0|0|2|6|91
+Brett Graves|R|Justin Bour|L|Single|B|Two-Seam Fastball|23|0|1|2|11|92
+Brett Graves|R|Justin Bour|L|Single|E|Two-Seam Fastball|24|1|1|2|13|92
+Brett Graves|R|Cesar Hernandez|L|Forceout|B|Slider|25|0|0|2|11|90
+Brett Graves|R|Cesar Hernandez|L|Forceout|F|Curveball|26|1|0|2|5|80
+Brett Graves|R|Cesar Hernandez|L|Forceout|S|Four-Seam Fastball|27|1|1|2|2|93
+Brett Graves|R|Cesar Hernandez|L|Forceout|X|Slider|28|1|2|2|4|90
+Brett Graves|R|Rhys Hoskins|R|Strikeout|C|Slider|29|0|0|0|1|86
+Brett Graves|R|Rhys Hoskins|R|Strikeout|B|Curveball|30|0|1|0|13|79
+Brett Graves|R|Rhys Hoskins|R|Strikeout|C|Slider|31|1|1|0|8|89
+Brett Graves|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|32|1|2|0|11|91
+Brett Graves|R|Rhys Hoskins|R|Strikeout|S|Slider|33|2|2|0|14|87
+Brett Graves|R|Jose Bautista|R|Pop Out|C|Curveball|34|0|0|1|6|79
+Brett Graves|R|Jose Bautista|R|Pop Out|F|Two-Seam Fastball|35|0|1|1|1|90
+Brett Graves|R|Jose Bautista|R|Pop Out|B|Curveball|36|0|2|1|13|79
+Brett Graves|R|Jose Bautista|R|Pop Out|B|Slider|37|1|2|1|14|89
+Brett Graves|R|Jose Bautista|R|Pop Out|X|Slider|38|2|2|1|12|89
+Brett Graves|R|Wilson Ramos|R|Groundout|S|Slider|39|0|0|2|14|88
+Brett Graves|R|Wilson Ramos|R|Groundout|F|Slider|40|0|1|2|5|88
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Curveball|41|0|2|2|13|81
+Brett Graves|R|Wilson Ramos|R|Groundout|B|Two-Seam Fastball|42|1|2|2|14|90
+Brett Graves|R|Wilson Ramos|R|Groundout|X|Slider|43|2|2|2|5|89
+Brett Graves|R|Billy Hamilton|L|Single|D|Four-Seam Fastball|0|0|0|0|9|92
+Brett Graves|R|Scott Schebler|L|Grounded Into DP|*B|Slider|1|0|0|0|14|90
+Brett Graves|R|Scott Schebler|L|Grounded Into DP|B|Four-Seam Fastball|2|1|0|0|11|92
+Brett Graves|R|Scott Schebler|L|Grounded Into DP|B|Two-Seam Fastball|3|2|0|0|13|91
+Brett Graves|R|Scott Schebler|L|Grounded Into DP|F|Four-Seam Fastball|4|3|0|0|1|91
+Brett Graves|R|Scott Schebler|L|Grounded Into DP|X|Two-Seam Fastball|5|3|1|0|13|91
+Brett Graves|R|Jose Peraza|R|Pop Out|B|Curveball|6|0|0|2|11|80
+Brett Graves|R|Jose Peraza|R|Pop Out|B|Slider|7|1|0|2|14|89
+Brett Graves|R|Jose Peraza|R|Pop Out|X|Four-Seam Fastball|8|2|0|2|1|92
+Brett Graves|R|Mark Reynolds|R|Flyout|C|Curveball|0|0|0|0|4|78
+Brett Graves|R|Mark Reynolds|R|Flyout|B|Slider|1|0|1|0|14|88
+Brett Graves|R|Mark Reynolds|R|Flyout|B|Slider|2|1|1|0|14|88
+Brett Graves|R|Mark Reynolds|R|Flyout|B|Four-Seam Fastball|3|2|1|0|14|92
+Brett Graves|R|Mark Reynolds|R|Flyout|X|Four-Seam Fastball|4|3|1|0|5|92
+Brett Graves|R|Adam Eaton|L|Strikeout|C|Four-Seam Fastball|5|0|0|1|7|92
+Brett Graves|R|Adam Eaton|L|Strikeout|T|Four-Seam Fastball|6|0|1|1|11|93
+Brett Graves|R|Adam Eaton|L|Strikeout|F|Slider|7|0|2|1|8|89
+Brett Graves|R|Adam Eaton|L|Strikeout|S|Curveball|8|0|2|1|13|81
+Brett Graves|R|Trea Turner|R|Single|B|Slider|9|0|0|2|14|88
+Brett Graves|R|Trea Turner|R|Single|D|Slider|10|1|0|2|11|87
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|11|0|0|2|14|92
+Brett Graves|R|Bryce Harper|L|Strikeout|F|Two-Seam Fastball|12|1|0|2|8|92
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Slider|13|1|1|2|14|89
+Brett Graves|R|Bryce Harper|L|Strikeout|F|Curveball|14|2|1|2|13|81
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|15|2|2|2|11|94
+Brett Graves|R|Bryce Harper|L|Strikeout|T|Four-Seam Fastball|16|3|2|2|5|94
+Brett Graves|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Brett Graves|R|Juan Soto|L|Flyout|B|Four-Seam Fastball|1|1|0|0|14|93
+Brett Graves|R|Juan Soto|L|Flyout|S|Slider|2|2|0|0|9|90
+Brett Graves|R|Juan Soto|L|Flyout|B|Curveball|3|2|1|0|13|81
+Brett Graves|R|Juan Soto|L|Flyout|C|Two-Seam Fastball|4|3|1|0|7|93
+Brett Graves|R|Juan Soto|L|Flyout|X|Four-Seam Fastball|5|3|2|0|6|95
+Brett Graves|R|Mark Reynolds|R|Double|D|Slider|6|0|0|1|5|91
+Brett Graves|R|Adrian Sanchez|R|Single|B|Curveball|7|0|0|1|14|82
+Brett Graves|R|Adrian Sanchez|R|Single|C|Slider|8|1|0|1|14|91
+Brett Graves|R|Adrian Sanchez|R|Single|F|Two-Seam Fastball|9|1|1|1|11|93
+Brett Graves|R|Adrian Sanchez|R|Single|F|Four-Seam Fastball|10|1|2|1|9|95
+Brett Graves|R|Adrian Sanchez|R|Single|F|Curveball|11|1|2|1|14|82
+Brett Graves|R|Adrian Sanchez|R|Single|B|Four-Seam Fastball|12|1|2|1|11|95
+Brett Graves|R|Adrian Sanchez|R|Single|D|Slider|13|2|2|1|14|90
+Brett Graves|R|Spencer Kieboom|R|Single|E|Slider|14|0|0|1|8|90
+Brett Graves|R|Matt Grace|L|Flyout|M|Four-Seam Fastball|15|0|0|1|11|93
+Brett Graves|R|Matt Grace|L|Flyout|X|Four-Seam Fastball|16|0|1|1|4|93
+Brett Graves|R|Victor Robles|R|Home Run|C|Curveball|17|0|0|2|13|80
+Brett Graves|R|Victor Robles|R|Home Run|B|Curveball|18|0|1|2|14|82
+Brett Graves|R|Victor Robles|R|Home Run|E|Two-Seam Fastball|19|1|1|2|2|93
+Brett Graves|R|Trea Turner|R|Walk|B|Curveball|20|0|0|2|11|80
+Brett Graves|R|Trea Turner|R|Walk|B|Slider|21|1|0|2|11|88
+Brett Graves|R|Trea Turner|R|Walk|F|Two-Seam Fastball|22|2|0|2|4|91
+Brett Graves|R|Trea Turner|R|Walk|B|Slider|23|2|1|2|14|89
+Brett Graves|R|Trea Turner|R|Walk|B|Four-Seam Fastball|24|3|1|2|14|93
+Brett Graves|R|Bryce Harper|L|Strikeout|S|Two-Seam Fastball|25|0|0|2|13|86
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Two-Seam Fastball|26|0|1|2|14|86
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|27|1|1|2|12|93
+Brett Graves|R|Bryce Harper|L|Strikeout|B|Slider|28|2|1|2|13|90
+Brett Graves|R|Bryce Harper|L|Strikeout|F|Two-Seam Fastball|29|3|1|2|11|92
+Brett Graves|R|Bryce Harper|L|Strikeout|C|Two-Seam Fastball|30|3|2|2|14|85

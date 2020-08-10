@@ -1,0 +1,778 @@
+Hoby Milner|L|Freddie Freeman|L|Home Run|F|Sinker|0|0|0|1|12|89
+Hoby Milner|L|Freddie Freeman|L|Home Run|F|Sinker|1|0|1|1|3|89
+Hoby Milner|L|Freddie Freeman|L|Home Run|*B|Curveball|2|0|2|1|13|78
+Hoby Milner|L|Freddie Freeman|L|Home Run|F|Sinker|3|1|2|1|3|89
+Hoby Milner|L|Freddie Freeman|L|Home Run|*B|Curveball|4|1|2|1|13|77
+Hoby Milner|L|Freddie Freeman|L|Home Run|*B|Curveball|5|2|2|1|13|77
+Hoby Milner|L|Freddie Freeman|L|Home Run|E|Sinker|6|3|2|1|6|90
+Hoby Milner|L|Nick Markakis|L|Groundout|X|Sinker|7|0|0|1|5|90
+Hoby Milner|L|Freddie Freeman|L|Walk|F|Curveball|0|0|0|2|13|75
+Hoby Milner|L|Freddie Freeman|L|Walk|B|Sinker|1|0|1|2|11|88
+Hoby Milner|L|Freddie Freeman|L|Walk|B|Sinker|2|1|1|2|12|88
+Hoby Milner|L|Freddie Freeman|L|Walk|B|Curveball|3|2|1|2|13|77
+Hoby Milner|L|Freddie Freeman|L|Walk|B|Sinker|4|3|1|2|13|89
+Hoby Milner|L|Nick Markakis|L|Flyout|X|Sinker|5|0|0|2|14|88
+Hoby Milner|L|Freddie Freeman|L|Field Error|B|Sinker|0|0|0|2|14|88
+Hoby Milner|L|Freddie Freeman|L|Field Error|C|Sinker|1|1|0|2|2|88
+Hoby Milner|L|Freddie Freeman|L|Field Error|F|Sinker|2|1|1|2|6|88
+Hoby Milner|L|Freddie Freeman|L|Field Error|D|Sinker|3|1|2|2|12|89
+Hoby Milner|L|Nick Markakis|L|Single|E|Sinker|4|0|0|2|12|88
+Hoby Milner|L|Preston Tucker|L|Groundout|F|Sinker|5|0|0|2|9|89
+Hoby Milner|L|Preston Tucker|L|Groundout|F|Sinker|6|0|1|2|14|89
+Hoby Milner|L|Preston Tucker|L|Groundout|B|Curveball|7|0|2|2|13|75
+Hoby Milner|L|Preston Tucker|L|Groundout|F|Sinker|8|1|2|2|12|89
+Hoby Milner|L|Preston Tucker|L|Groundout|X|Sinker|9|1|2|2|9|89
+Hoby Milner|L|Jay Bruce|L|Strikeout|C|Curveball|0|0|0|1|7|76
+Hoby Milner|L|Jay Bruce|L|Strikeout|C|Sinker|1|0|1|1|14|88
+Hoby Milner|L|Jay Bruce|L|Strikeout|B|Curveball|2|0|2|1|13|77
+Hoby Milner|L|Jay Bruce|L|Strikeout|B|Sinker|3|1|2|1|14|89
+Hoby Milner|L|Jay Bruce|L|Strikeout|C|Sinker|4|2|2|1|13|88
+Hoby Milner|L|Todd Frazier|R|Single|C|Curveball|5|0|0|2|14|76
+Hoby Milner|L|Todd Frazier|R|Single|B|Sinker|6|0|1|2|11|89
+Hoby Milner|L|Todd Frazier|R|Single|D|Curveball|7|1|1|2|8|76
+Hoby Milner|L|Justin Bour|L|Walk|B|Curveball|0|0|0|1|13|77
+Hoby Milner|L|Justin Bour|L|Walk|B|Sinker|1|1|0|1|12|88
+Hoby Milner|L|Justin Bour|L|Walk|B|Sinker|2|2|0|1|13|90
+Hoby Milner|L|Justin Bour|L|Walk|C|Sinker|3|3|0|1|9|88
+Hoby Milner|L|Justin Bour|L|Walk|C|Sinker|4|3|1|1|14|91
+Hoby Milner|L|Justin Bour|L|Walk|F|Sinker|5|3|2|1|12|88
+Hoby Milner|L|Justin Bour|L|Walk|B|Sinker|6|3|2|1|13|91
+Hoby Milner|L|Joey Votto|L|Flyout|B|Curveball|0|0|0|0|13|76
+Hoby Milner|L|Joey Votto|L|Flyout|X|Sinker|1|1|0|0|8|88
+Hoby Milner|L|Scooter Gennett|L|Strikeout|B|Sinker|2|0|0|1|13|90
+Hoby Milner|L|Scooter Gennett|L|Strikeout|C|Sinker|3|1|0|1|11|89
+Hoby Milner|L|Scooter Gennett|L|Strikeout|B|Curveball|4|1|1|1|13|76
+Hoby Milner|L|Scooter Gennett|L|Strikeout|B|Sinker|5|2|1|1|13|88
+Hoby Milner|L|Scooter Gennett|L|Strikeout|C|Sinker|6|3|1|1|4|89
+Hoby Milner|L|Scooter Gennett|L|Strikeout|C|Sinker|7|3|2|1|13|89
+Hoby Milner|L|Adam Duvall|R|Strikeout|C|Sinker|8|0|0|2|5|89
+Hoby Milner|L|Adam Duvall|R|Strikeout|B|Sinker|9|0|1|2|14|89
+Hoby Milner|L|Adam Duvall|R|Strikeout|B|Curveball|10|1|1|2|14|76
+Hoby Milner|L|Adam Duvall|R|Strikeout|T|Sinker|11|2|1|2|8|90
+Hoby Milner|L|Adam Duvall|R|Strikeout|B|Sinker|12|2|2|2|14|90
+Hoby Milner|L|Adam Duvall|R|Strikeout|C|Sinker|13|3|2|2|7|91
+Hoby Milner|L|Billy Hamilton|R|Flyout|C|Sinker|0|0|0|0|13|88
+Hoby Milner|L|Billy Hamilton|R|Flyout|B|Sinker|1|0|1|0|14|87
+Hoby Milner|L|Billy Hamilton|R|Flyout|F|Sinker|2|1|1|0|6|88
+Hoby Milner|L|Billy Hamilton|R|Flyout|B|Sinker|3|1|2|0|13|89
+Hoby Milner|L|Billy Hamilton|R|Flyout|F|Sinker|4|2|2|0|6|90
+Hoby Milner|L|Billy Hamilton|R|Flyout|B|Curveball|5|2|2|0|13|76
+Hoby Milner|L|Billy Hamilton|R|Flyout|X|Sinker|6|3|2|0|14|89
+Hoby Milner|L|Jesse Winker|L|Groundout|X|Curveball|7|0|0|1|13|76
+Hoby Milner|L|Denard Span|L|Pop Out|C|Curveball|0|0|0|0|4|77
+Hoby Milner|L|Denard Span|L|Pop Out|X|Sinker|1|0|1|0|12|89
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|0|0|0|0|12|87
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|1|0|1|0|14|89
+Hoby Milner|L|Nick Markakis|L|Flyout|B|Curveball|2|0|2|0|13|78
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|3|1|2|0|5|90
+Hoby Milner|L|Nick Markakis|L|Flyout|B|Sinker|4|1|2|0|13|90
+Hoby Milner|L|Nick Markakis|L|Flyout|X|Curveball|5|2|2|0|9|77
+Hoby Milner|L|Preston Tucker|L|Lineout|X|Sinker|6|0|0|1|6|88
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|F|Curveball|0|0|0|0|5|78
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|B|Curveball|1|0|1|0|13|77
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|B|Sinker|2|1|1|0|14|89
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|F|Curveball|3|2|1|0|5|78
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|H|Sinker|4|2|2|0|12|89
+Hoby Milner|L|Nick Markakis|L|Single|D|Sinker|5|0|0|0|8|87
+Hoby Milner|L|Kurt Suzuki|R|Single|E|Sinker|6|0|0|0|4|88
+Hoby Milner|L|Peter Bourjos|R|Groundout|L|Curveball|7|0|0|0|8|77
+Hoby Milner|L|Peter Bourjos|R|Groundout|*B|Curveball|8|0|1|0|13|77
+Hoby Milner|L|Peter Bourjos|R|Groundout|X|Sinker|9|1|1|0|14|90
+Hoby Milner|L|Dansby Swanson|R|Intent Walk|V|N/A|10|0|0|1|0|0
+Hoby Milner|L|Dansby Swanson|R|Intent Walk|V|N/A|11|0|1|1|0|0
+Hoby Milner|L|Dansby Swanson|R|Intent Walk|V|N/A|12|0|2|1|0|0
+Hoby Milner|L|Dansby Swanson|R|Intent Walk|V|N/A|13|0|2|1|0|0
+Hoby Milner|L|Ryan Flaherty|L|Single|B|Curveball|14|0|0|1|13|79
+Hoby Milner|L|Ryan Flaherty|L|Single|E|Sinker|15|1|0|1|14|89
+Hoby Milner|L|Lane Adams|R|Strikeout|S|Sinker|16|0|0|1|4|89
+Hoby Milner|L|Lane Adams|R|Strikeout|*B|Changeup|17|0|1|1|14|82
+Hoby Milner|L|Lane Adams|R|Strikeout|S|Sinker|18|1|1|1|6|90
+Hoby Milner|L|Lane Adams|R|Strikeout|S|Sinker|19|1|2|1|3|91
+Hoby Milner|L|Mitch Garver|R|Walk|B|Sinker|0|0|0|2|14|89
+Hoby Milner|L|Mitch Garver|R|Walk|C|Sinker|1|1|0|2|8|89
+Hoby Milner|L|Mitch Garver|R|Walk|C|Sinker|2|1|1|2|13|90
+Hoby Milner|L|Mitch Garver|R|Walk|B|Changeup|3|1|2|2|14|82
+Hoby Milner|L|Mitch Garver|R|Walk|B|Sinker|4|2|2|2|13|90
+Hoby Milner|L|Mitch Garver|R|Walk|F|Sinker|5|3|2|2|4|89
+Hoby Milner|L|Mitch Garver|R|Walk|B|Curveball|6|3|2|2|13|79
+Hoby Milner|L|Joe Mauer|L|Strikeout|C|Curveball|7|0|0|2|8|80
+Hoby Milner|L|Joe Mauer|L|Strikeout|*B|Curveball|8|0|1|2|13|80
+Hoby Milner|L|Joe Mauer|L|Strikeout|B|Sinker|9|1|1|2|13|89
+Hoby Milner|L|Joe Mauer|L|Strikeout|F|Sinker|10|2|1|2|6|89
+Hoby Milner|L|Joe Mauer|L|Strikeout|S|Curveball|11|2|2|2|13|81
+Hoby Milner|L|Eddie Rosario|L|Strikeout|S|Curveball|12|0|0|0|14|80
+Hoby Milner|L|Eddie Rosario|L|Strikeout|S|Curveball|13|0|1|0|13|80
+Hoby Milner|L|Eddie Rosario|L|Strikeout|F|Curveball|14|0|2|0|8|78
+Hoby Milner|L|Eddie Rosario|L|Strikeout|B|Sinker|15|0|2|0|11|90
+Hoby Milner|L|Eddie Rosario|L|Strikeout|F|Curveball|16|1|2|0|13|80
+Hoby Milner|L|Eddie Rosario|L|Strikeout|S|Curveball|17|1|2|0|13|80
+Hoby Milner|L|Derek Dietrich|L|Home Run|C|Curveball|0|0|0|1|13|79
+Hoby Milner|L|Derek Dietrich|L|Home Run|B|Curveball|1|0|1|1|13|78
+Hoby Milner|L|Derek Dietrich|L|Home Run|E|Curveball|2|1|1|1|4|79
+Hoby Milner|L|Brian Anderson|R|Walk|C|Sinker|3|0|0|1|7|89
+Hoby Milner|L|Brian Anderson|R|Walk|C|Sinker|4|0|1|1|13|88
+Hoby Milner|L|Brian Anderson|R|Walk|B|Curveball|5|0|2|1|14|79
+Hoby Milner|L|Brian Anderson|R|Walk|B|Changeup|6|1|2|1|14|81
+Hoby Milner|L|Brian Anderson|R|Walk|B|Sinker|7|2|2|1|11|89
+Hoby Milner|L|Brian Anderson|R|Walk|F|Sinker|8|3|2|1|13|89
+Hoby Milner|L|Brian Anderson|R|Walk|F|Sinker|9|3|2|1|6|89
+Hoby Milner|L|Brian Anderson|R|Walk|B|Changeup|10|3|2|1|14|81
+Hoby Milner|L|J.T. Realmuto|R|Double|E|Sinker|11|0|0|1|4|88
+Hoby Milner|L|Justin Bour|L|Pop Out|C|Sinker|12|0|0|1|13|88
+Hoby Milner|L|Justin Bour|L|Pop Out|X|Sinker|13|0|1|1|5|87
+Hoby Milner|L|Starlin Castro|R|Groundout|B|Sinker|14|0|0|2|11|88
+Hoby Milner|L|Starlin Castro|R|Groundout|C|Sinker|15|1|0|2|13|88
+Hoby Milner|L|Starlin Castro|R|Groundout|S|Changeup|16|1|1|2|14|80
+Hoby Milner|L|Starlin Castro|R|Groundout|X|Sinker|17|1|2|2|5|89
+Hoby Milner|L|Giancarlo Stanton|R|Home Run|B|Sinker|0|0|0|0|14|88
+Hoby Milner|L|Giancarlo Stanton|R|Home Run|F|Sinker|1|1|0|0|5|87
+Hoby Milner|L|Giancarlo Stanton|R|Home Run|B|Sinker|2|1|1|0|13|88
+Hoby Milner|L|Giancarlo Stanton|R|Home Run|E|Changeup|3|2|1|0|8|81
+Hoby Milner|L|Tyler Wade|L|Strikeout|S|Sinker|4|0|0|0|14|89
+Hoby Milner|L|Tyler Wade|L|Strikeout|B|Curveball|5|0|1|0|13|77
+Hoby Milner|L|Tyler Wade|L|Strikeout|C|Sinker|6|1|1|0|8|89
+Hoby Milner|L|Tyler Wade|L|Strikeout|C|Sinker|7|1|2|0|4|90
+Hoby Milner|L|Kyle Higashioka|R|Flyout|C|Curveball|8|0|0|1|6|77
+Hoby Milner|L|Kyle Higashioka|R|Flyout|B|Sinker|9|0|1|1|11|88
+Hoby Milner|L|Kyle Higashioka|R|Flyout|B|Changeup|10|1|1|1|14|79
+Hoby Milner|L|Kyle Higashioka|R|Flyout|B|Sinker|11|2|1|1|13|88
+Hoby Milner|L|Kyle Higashioka|R|Flyout|X|Sinker|12|3|1|1|6|89
+Hoby Milner|L|Gleyber Torres|R|Strikeout|F|Sinker|13|0|0|2|5|88
+Hoby Milner|L|Gleyber Torres|R|Strikeout|F|Sinker|14|0|1|2|8|89
+Hoby Milner|L|Gleyber Torres|R|Strikeout|B|Changeup|15|0|2|2|14|79
+Hoby Milner|L|Gleyber Torres|R|Strikeout|B|Curveball|16|1|2|2|12|77
+Hoby Milner|L|Gleyber Torres|R|Strikeout|F|Sinker|17|2|2|2|4|89
+Hoby Milner|L|Gleyber Torres|R|Strikeout|B|Sinker|18|2|2|2|11|88
+Hoby Milner|L|Gleyber Torres|R|Strikeout|S|Changeup|19|3|2|2|14|80
+Hoby Milner|L|Luke Maile|R|Pop Out|B|Sinker|0|0|0|1|13|87
+Hoby Milner|L|Luke Maile|R|Pop Out|C|Sinker|1|1|0|1|9|88
+Hoby Milner|L|Luke Maile|R|Pop Out|B|Sinker|2|1|1|1|14|88
+Hoby Milner|L|Luke Maile|R|Pop Out|B|Sinker|3|2|1|1|12|88
+Hoby Milner|L|Luke Maile|R|Pop Out|C|Sinker|4|3|1|1|4|88
+Hoby Milner|L|Luke Maile|R|Pop Out|F|Sinker|5|3|2|1|5|89
+Hoby Milner|L|Luke Maile|R|Pop Out|F|Sinker|6|3|2|1|4|89
+Hoby Milner|L|Luke Maile|R|Pop Out|X|Sinker|7|3|2|1|11|89
+Hoby Milner|L|Mallex Smith|L|Groundout|F|Sinker|0|0|0|0|14|87
+Hoby Milner|L|Mallex Smith|L|Groundout|X|Sinker|1|0|1|0|14|86
+Hoby Milner|L|J.P. Crawford|L|Groundout|B|Sinker|2|0|0|1|12|88
+Hoby Milner|L|J.P. Crawford|L|Groundout|C|Sinker|3|1|0|1|2|87
+Hoby Milner|L|J.P. Crawford|L|Groundout|X|Sinker|4|1|1|1|3|87
+Hoby Milner|L|Austin Nola|R|Walk|B|Sinker|5|0|0|2|13|88
+Hoby Milner|L|Austin Nola|R|Walk|B|Sinker|6|1|0|2|13|87
+Hoby Milner|L|Austin Nola|R|Walk|B|Sinker|7|2|0|2|1|88
+Hoby Milner|L|Austin Nola|R|Walk|C|Sinker|8|3|0|2|13|87
+Hoby Milner|L|Austin Nola|R|Walk|B|Curveball|9|3|1|2|13|76
+Hoby Milner|L|Kyle Seager|L|Double|B|Curveball|10|0|0|2|14|76
+Hoby Milner|L|Kyle Seager|L|Double|C|Sinker|11|1|0|2|5|87
+Hoby Milner|L|Kyle Seager|L|Double|F|Sinker|12|1|1|2|6|87
+Hoby Milner|L|Kyle Seager|L|Double|F|Sinker|13|1|2|2|12|88
+Hoby Milner|L|Kyle Seager|L|Double|B|Changeup|14|1|2|2|14|78
+Hoby Milner|L|Kyle Seager|L|Double|F|Sinker|15|2|2|2|2|89
+Hoby Milner|L|Kyle Seager|L|Double|B|Curveball|16|2|2|2|14|74
+Hoby Milner|L|Kyle Seager|L|Double|E|Changeup|17|3|2|2|14|77
+Hoby Milner|L|Tom Murphy|R|Flyout|C|Sinker|18|0|0|2|6|87
+Hoby Milner|L|Tom Murphy|R|Flyout|C|Curveball|19|0|1|2|9|76
+Hoby Milner|L|Tom Murphy|R|Flyout|B|Sinker|20|0|2|2|12|89
+Hoby Milner|L|Tom Murphy|R|Flyout|B|Sinker|21|1|2|2|11|87
+Hoby Milner|L|Tom Murphy|R|Flyout|F|Curveball|22|2|2|2|4|75
+Hoby Milner|L|Tom Murphy|R|Flyout|X|Sinker|23|2|2|2|3|88
+Hoby Milner|L|Omar Narvaez|L|Pop Out|C|Curveball|24|0|0|0|5|75
+Hoby Milner|L|Omar Narvaez|L|Pop Out|X|Sinker|25|0|1|0|14|86
+Hoby Milner|L|Tim Lopes|R|Double|C|Sinker|26|0|0|1|2|85
+Hoby Milner|L|Tim Lopes|R|Double|B|Curveball|27|0|1|1|13|75
+Hoby Milner|L|Tim Lopes|R|Double|B|Sinker|28|1|1|1|11|86
+Hoby Milner|L|Tim Lopes|R|Double|S|Sinker|29|2|1|1|12|86
+Hoby Milner|L|Tim Lopes|R|Double|D|Curveball|30|2|2|1|7|75
+Hoby Milner|L|Dee Gordon|L|Pop Out|F|Sinker|31|0|0|1|12|87
+Hoby Milner|L|Dee Gordon|L|Pop Out|C|Sinker|32|0|1|1|2|86
+Hoby Milner|L|Dee Gordon|L|Pop Out|F|Curveball|33|0|2|1|14|74
+Hoby Milner|L|Dee Gordon|L|Pop Out|B|Sinker|34|0|2|1|11|88
+Hoby Milner|L|Dee Gordon|L|Pop Out|X|Curveball|35|1|2|1|7|74
+Hoby Milner|L|Keon Broxton|R|Strikeout|B|Curveball|36|0|0|2|13|75
+Hoby Milner|L|Keon Broxton|R|Strikeout|B|Sinker|37|1|0|2|11|87
+Hoby Milner|L|Keon Broxton|R|Strikeout|F|Sinker|38|2|0|2|13|86
+Hoby Milner|L|Keon Broxton|R|Strikeout|C|Sinker|39|2|1|2|11|87
+Hoby Milner|L|Keon Broxton|R|Strikeout|S|Sinker|40|2|2|2|12|88
+Hoby Milner|L|Jake Bauers|L|Strikeout|C|Curveball|0|0|0|1|13|74
+Hoby Milner|L|Jake Bauers|L|Strikeout|B|Sinker|1|0|1|1|14|87
+Hoby Milner|L|Jake Bauers|L|Strikeout|B|Sinker|2|1|1|1|4|87
+Hoby Milner|L|Jake Bauers|L|Strikeout|S|Sinker|3|2|1|1|12|87
+Hoby Milner|L|Jake Bauers|L|Strikeout|C|Sinker|4|2|2|1|7|88
+Hoby Milner|L|Kevin Plawecki|R|Groundout|C|Sinker|5|0|0|2|7|87
+Hoby Milner|L|Kevin Plawecki|R|Groundout|B|Sinker|6|0|1|2|11|87
+Hoby Milner|L|Kevin Plawecki|R|Groundout|B|Curveball|7|1|1|2|14|74
+Hoby Milner|L|Kevin Plawecki|R|Groundout|X|Sinker|8|2|1|2|4|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|B|Sinker|0|0|0|0|13|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|B|Sinker|1|1|0|0|11|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|B|Sinker|2|2|0|0|14|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|C|Sinker|3|3|0|0|3|86
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|T|Sinker|4|3|1|0|1|86
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|F|Sinker|5|3|2|0|7|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|F|Curveball|6|3|2|0|13|76
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|F|Sinker|7|3|2|0|12|87
+Hoby Milner|L|Stevie Wilkerson|R|Strikeout|C|Curveball|8|3|2|0|14|75
+Hoby Milner|L|Hanser Alberto|R|Flyout|B|Sinker|9|0|0|1|11|87
+Hoby Milner|L|Hanser Alberto|R|Flyout|X|Curveball|10|1|0|1|13|75
+Hoby Milner|L|Mason Williams|L|Single|D|Sinker|11|0|0|2|9|87
+Hoby Milner|L|Mark Trumbo|R|Double|E|Sinker|12|0|0|2|5|87
+Hoby Milner|L|Pedro Severino|R|Pop Out|C|Curveball|13|0|0|2|14|75
+Hoby Milner|L|Pedro Severino|R|Pop Out|F|Sinker|14|0|1|2|5|88
+Hoby Milner|L|Pedro Severino|R|Pop Out|B|Sinker|15|0|2|2|12|89
+Hoby Milner|L|Pedro Severino|R|Pop Out|B|Curveball|16|1|2|2|14|75
+Hoby Milner|L|Pedro Severino|R|Pop Out|X|Changeup|17|2|2|2|6|78
+Hoby Milner|L|Cavan Biggio|L|Hit By Pitch|C|Curveball|0|0|0|0|4|77
+Hoby Milner|L|Cavan Biggio|L|Hit By Pitch|H|Sinker|1|0|1|0|12|88
+Hoby Milner|L|A.J. Ellis|R|Strikeout|B|Sinker|0|0|0|2|11|89
+Hoby Milner|L|A.J. Ellis|R|Strikeout|F|Sinker|1|1|0|2|9|88
+Hoby Milner|L|A.J. Ellis|R|Strikeout|C|Sinker|2|1|1|2|1|90
+Hoby Milner|L|A.J. Ellis|R|Strikeout|B|Sinker|3|1|2|2|11|89
+Hoby Milner|L|A.J. Ellis|R|Strikeout|F|Curveball|4|2|2|2|8|76
+Hoby Milner|L|A.J. Ellis|R|Strikeout|S|Changeup|5|2|2|2|14|81
+Hoby Milner|L|Daniel Descalso|L|Single|C|Sinker|0|0|0|0|11|87
+Hoby Milner|L|Daniel Descalso|L|Single|F|Sinker|1|0|1|0|3|87
+Hoby Milner|L|Daniel Descalso|L|Single|B|Curveball|2|0|2|0|13|78
+Hoby Milner|L|Daniel Descalso|L|Single|B|Curveball|3|1|2|0|13|76
+Hoby Milner|L|Daniel Descalso|L|Single|B|Sinker|4|2|2|0|13|87
+Hoby Milner|L|Daniel Descalso|L|Single|D|Sinker|5|3|2|0|5|87
+Hoby Milner|L|Chris Herrmann|L|Single|C|Sinker|6|0|0|0|4|89
+Hoby Milner|L|Chris Herrmann|L|Single|B|Sinker|7|0|1|0|13|88
+Hoby Milner|L|Chris Herrmann|L|Single|E|Sinker|8|1|1|0|5|86
+Hoby Milner|L|Robbie Ray|L|Walk|B|Sinker|9|0|0|0|11|86
+Hoby Milner|L|Robbie Ray|L|Walk|B|Sinker|10|1|0|0|11|86
+Hoby Milner|L|Robbie Ray|L|Walk|C|Sinker|11|2|0|0|5|86
+Hoby Milner|L|Robbie Ray|L|Walk|B|Sinker|12|2|1|0|13|85
+Hoby Milner|L|Robbie Ray|L|Walk|L|Sinker|13|3|1|0|4|86
+Hoby Milner|L|Robbie Ray|L|Walk|B|Sinker|14|3|2|0|13|87
+Hoby Milner|L|Gregor Blanco|L|Lineout|C|Curveball|15|0|0|0|8|77
+Hoby Milner|L|Gregor Blanco|L|Lineout|X|Curveball|16|0|1|0|13|76
+Hoby Milner|L|David Peralta|L|Hit By Pitch|H|Curveball|17|0|0|1|14|76
+Hoby Milner|L|Paul Goldschmidt|R|Groundout|F|Sinker|18|0|0|1|9|86
+Hoby Milner|L|Paul Goldschmidt|R|Groundout|X|Changeup|19|0|1|1|14|80
+Hoby Milner|L|Jake Lamb|L|Strikeout|C|Sinker|20|0|0|2|5|86
+Hoby Milner|L|Jake Lamb|L|Strikeout|S|Sinker|21|0|1|2|12|87
+Hoby Milner|L|Jake Lamb|L|Strikeout|B|Sinker|22|0|2|2|12|87
+Hoby Milner|L|Jake Lamb|L|Strikeout|T|Sinker|23|1|2|2|12|87
+Hoby Milner|L|Chris Owings|R|Single|D|Sinker|0|0|0|0|14|87
+Hoby Milner|L|Daniel Descalso|L|Strikeout|C|Sinker|1|0|0|0|7|87
+Hoby Milner|L|Daniel Descalso|L|Strikeout|C|Sinker|2|0|1|0|5|89
+Hoby Milner|L|Daniel Descalso|L|Strikeout|F|Curveball|3|0|2|0|8|78
+Hoby Milner|L|Daniel Descalso|L|Strikeout|F|Sinker|4|0|2|0|12|88
+Hoby Milner|L|Daniel Descalso|L|Strikeout|B|Curveball|5|0|2|0|13|76
+Hoby Milner|L|Daniel Descalso|L|Strikeout|B|Sinker|6|1|2|0|12|89
+Hoby Milner|L|Daniel Descalso|L|Strikeout|B|Sinker|7|2|2|0|11|88
+Hoby Milner|L|Daniel Descalso|L|Strikeout|C|Sinker|8|3|2|0|7|88
+Hoby Milner|L|Rey Fuentes|L|Forceout|F|Curveball|9|0|0|1|9|75
+Hoby Milner|L|Rey Fuentes|L|Forceout|B|Sinker|10|0|1|1|13|88
+Hoby Milner|L|Rey Fuentes|L|Forceout|X|Sinker|11|1|1|1|5|88
+Hoby Milner|L|Jeff Mathis|R|Single|B|Sinker|12|0|0|2|14|87
+Hoby Milner|L|Jeff Mathis|R|Single|C|Sinker|13|1|0|2|4|88
+Hoby Milner|L|Jeff Mathis|R|Single|*B|Changeup|14|1|1|2|13|81
+Hoby Milner|L|Jeff Mathis|R|Single|D|Sinker|15|2|1|2|6|88
+Hoby Milner|L|Brandon Drury|R|Strikeout|B|Changeup|16|0|0|2|14|81
+Hoby Milner|L|Brandon Drury|R|Strikeout|B|Sinker|17|1|0|2|14|88
+Hoby Milner|L|Brandon Drury|R|Strikeout|B|Changeup|18|2|0|2|14|79
+Hoby Milner|L|Brandon Drury|R|Strikeout|C|Sinker|19|3|0|2|14|87
+Hoby Milner|L|Brandon Drury|R|Strikeout|F|Sinker|20|3|1|2|1|88
+Hoby Milner|L|Brandon Drury|R|Strikeout|S|Sinker|21|3|2|2|11|89
+Hoby Milner|L|Jay Bruce|L|Pop Out|B|Sinker|0|0|0|0|11|88
+Hoby Milner|L|Jay Bruce|L|Pop Out|X|Sinker|1|1|0|0|6|88
+Hoby Milner|L|Lucas Duda|L|Strikeout|C|Curveball|2|0|0|1|6|76
+Hoby Milner|L|Lucas Duda|L|Strikeout|B|Sinker|3|0|1|1|12|89
+Hoby Milner|L|Lucas Duda|L|Strikeout|F|Sinker|4|1|1|1|12|88
+Hoby Milner|L|Lucas Duda|L|Strikeout|B|Curveball|5|1|2|1|13|75
+Hoby Milner|L|Lucas Duda|L|Strikeout|B|Curveball|6|2|2|1|13|72
+Hoby Milner|L|Lucas Duda|L|Strikeout|F|Sinker|7|3|2|1|2|88
+Hoby Milner|L|Lucas Duda|L|Strikeout|S|Curveball|8|3|2|1|7|74
+Hoby Milner|L|Josh Bell|R|Lineout|C|Curveball|0|0|0|2|4|75
+Hoby Milner|L|Josh Bell|R|Lineout|B|Changeup|1|0|1|2|13|81
+Hoby Milner|L|Josh Bell|R|Lineout|C|Sinker|2|1|1|2|8|88
+Hoby Milner|L|Josh Bell|R|Lineout|B|Sinker|3|1|2|2|13|88
+Hoby Milner|L|Josh Bell|R|Lineout|B|Curveball|4|2|2|2|14|74
+Hoby Milner|L|Josh Bell|R|Lineout|X|Sinker|5|3|2|2|2|88
+Hoby Milner|L|Josh Bell|R|Groundout|S|Changeup|0|0|0|2|14|80
+Hoby Milner|L|Josh Bell|R|Groundout|B|Sinker|1|0|1|2|13|88
+Hoby Milner|L|Josh Bell|R|Groundout|X|Changeup|2|1|1|2|14|80
+Hoby Milner|L|Dee Gordon|L|Groundout|C|Sinker|0|0|0|2|13|89
+Hoby Milner|L|Dee Gordon|L|Groundout|F|Curveball|1|0|1|2|13|76
+Hoby Milner|L|Dee Gordon|L|Groundout|F|Sinker|2|0|2|2|3|90
+Hoby Milner|L|Dee Gordon|L|Groundout|X|Curveball|3|0|2|2|13|76
+Hoby Milner|L|Justin Bour|L|Single|B|Sinker|0|0|0|1|11|89
+Hoby Milner|L|Justin Bour|L|Single|B|Curveball|1|1|0|1|13|74
+Hoby Milner|L|Justin Bour|L|Single|D|Sinker|2|2|0|1|12|88
+Hoby Milner|L|Derek Dietrich|L|Single|B|Sinker|3|0|0|1|11|89
+Hoby Milner|L|Derek Dietrich|L|Single|S|Sinker|4|1|0|1|11|89
+Hoby Milner|L|Derek Dietrich|L|Single|B|Curveball|5|1|1|1|13|75
+Hoby Milner|L|Derek Dietrich|L|Single|D|Sinker|6|2|1|1|2|89
+Hoby Milner|L|Brett Phillips|L|Flyout|B|Sinker|0|0|0|0|12|87
+Hoby Milner|L|Brett Phillips|L|Flyout|B|Sinker|1|1|0|0|7|88
+Hoby Milner|L|Brett Phillips|L|Flyout|C|Sinker|2|2|0|0|5|88
+Hoby Milner|L|Brett Phillips|L|Flyout|B|Curveball|3|2|1|0|14|77
+Hoby Milner|L|Brett Phillips|L|Flyout|X|Sinker|4|3|1|0|2|88
+Hoby Milner|L|Orlando Arcia|R|Walk|B|Sinker|5|0|0|1|14|88
+Hoby Milner|L|Orlando Arcia|R|Walk|B|Curveball|6|1|0|1|13|77
+Hoby Milner|L|Orlando Arcia|R|Walk|B|Sinker|7|2|0|1|12|88
+Hoby Milner|L|Orlando Arcia|R|Walk|C|Sinker|8|3|0|1|2|88
+Hoby Milner|L|Orlando Arcia|R|Walk|C|Curveball|9|3|1|1|9|76
+Hoby Milner|L|Orlando Arcia|R|Walk|B|Curveball|10|3|2|1|13|76
+Hoby Milner|L|Jonathan Villar|R|Strikeout|B|Sinker|11|0|0|1|14|88
+Hoby Milner|L|Jonathan Villar|R|Strikeout|F|Sinker|12|1|0|1|5|88
+Hoby Milner|L|Jonathan Villar|R|Strikeout|F|Sinker|13|1|1|1|12|88
+Hoby Milner|L|Jonathan Villar|R|Strikeout|*B|Changeup|14|1|2|1|14|79
+Hoby Milner|L|Jonathan Villar|R|Strikeout|B|Sinker|15|2|2|1|12|89
+Hoby Milner|L|Jonathan Villar|R|Strikeout|S|Sinker|16|3|2|1|3|88
+Hoby Milner|L|Eric Sogard|L|Flyout|S|Curveball|17|0|0|2|7|78
+Hoby Milner|L|Eric Sogard|L|Flyout|X|Curveball|18|0|1|2|5|77
+Hoby Milner|L|Josh Reddick|L|Single|C|Sinker|0|0|0|1|4|87
+Hoby Milner|L|Josh Reddick|L|Single|C|Sinker|1|0|1|1|7|89
+Hoby Milner|L|Josh Reddick|L|Single|D|Curveball|2|0|2|1|13|73
+Hoby Milner|L|Yuli Gurriel|R|Walk|B|Sinker|3|0|0|1|11|89
+Hoby Milner|L|Yuli Gurriel|R|Walk|B|Sinker|4|1|0|1|13|88
+Hoby Milner|L|Yuli Gurriel|R|Walk|F|Sinker|5|2|0|1|13|88
+Hoby Milner|L|Yuli Gurriel|R|Walk|S|Changeup|6|2|1|1|14|79
+Hoby Milner|L|Yuli Gurriel|R|Walk|B|Changeup|7|2|2|1|14|78
+Hoby Milner|L|Yuli Gurriel|R|Walk|B|Curveball|8|3|2|1|14|73
+Hoby Milner|L|Marwin Gonzalez|R|Grounded Into DP|C|Sinker|9|0|0|1|8|88
+Hoby Milner|L|Marwin Gonzalez|R|Grounded Into DP|X|Changeup|10|0|1|1|14|79
+Hoby Milner|L|Joe Musgrove|R|Groundout|C|Sinker|11|0|0|0|13|87
+Hoby Milner|L|Joe Musgrove|R|Groundout|B|Sinker|12|0|1|0|11|88
+Hoby Milner|L|Joe Musgrove|R|Groundout|B|Changeup|13|1|1|0|14|79
+Hoby Milner|L|Joe Musgrove|R|Groundout|F|Sinker|14|2|1|0|12|88
+Hoby Milner|L|Joe Musgrove|R|Groundout|B|Sinker|15|2|2|0|11|89
+Hoby Milner|L|Joe Musgrove|R|Groundout|X|Sinker|16|3|2|0|6|88
+Hoby Milner|L|Brian McCann|L|Double|C|Curveball|17|0|0|1|13|76
+Hoby Milner|L|Brian McCann|L|Double|F|Sinker|18|0|1|1|2|89
+Hoby Milner|L|Brian McCann|L|Double|B|Curveball|19|0|2|1|13|78
+Hoby Milner|L|Brian McCann|L|Double|D|Curveball|20|1|2|1|14|73
+Hoby Milner|L|Alex Bregman|R|Flyout|C|Curveball|21|0|0|1|9|75
+Hoby Milner|L|Alex Bregman|R|Flyout|B|Changeup|22|0|1|1|14|78
+Hoby Milner|L|Alex Bregman|R|Flyout|F|Sinker|23|1|1|1|8|88
+Hoby Milner|L|Alex Bregman|R|Flyout|B|Sinker|24|1|2|1|12|90
+Hoby Milner|L|Alex Bregman|R|Flyout|B|Sinker|25|2|2|1|13|88
+Hoby Milner|L|Alex Bregman|R|Flyout|X|Sinker|26|3|2|1|6|88
+Hoby Milner|L|Tyler White|R|Lineout|C|Changeup|27|0|0|2|8|80
+Hoby Milner|L|Tyler White|R|Lineout|C|Changeup|28|0|1|2|9|80
+Hoby Milner|L|Tyler White|R|Lineout|*B|Changeup|29|0|2|2|14|78
+Hoby Milner|L|Tyler White|R|Lineout|X|Sinker|30|1|2|2|4|88
+Hoby Milner|L|Norichika Aoki|L|Hit By Pitch|C|Sinker|31|0|0|0|12|87
+Hoby Milner|L|Norichika Aoki|L|Hit By Pitch|B|Curveball|32|0|1|0|13|75
+Hoby Milner|L|Norichika Aoki|L|Hit By Pitch|C|Sinker|33|1|1|0|14|86
+Hoby Milner|L|Norichika Aoki|L|Hit By Pitch|F|Curveball|34|1|2|0|6|73
+Hoby Milner|L|Norichika Aoki|L|Hit By Pitch|H|Sinker|35|1|2|0|12|86
+Hoby Milner|L|Jose Altuve|R|Double|F|Changeup|36|0|0|0|14|80
+Hoby Milner|L|Jose Altuve|R|Double|B|Sinker|37|0|1|0|11|87
+Hoby Milner|L|Jose Altuve|R|Double|D|Curveball|38|1|1|0|6|74
+Hoby Milner|L|Josh Reddick|L|Groundout|B|Sinker|39|0|0|0|13|87
+Hoby Milner|L|Josh Reddick|L|Groundout|F|Sinker|40|1|0|0|4|86
+Hoby Milner|L|Josh Reddick|L|Groundout|E|Sinker|41|1|1|0|6|88
+Hoby Milner|L|Yuli Gurriel|R|Sac Fly|B|Sinker|42|0|0|1|13|88
+Hoby Milner|L|Yuli Gurriel|R|Sac Fly|*B|Changeup|43|1|0|1|13|79
+Hoby Milner|L|Yuli Gurriel|R|Sac Fly|B|Sinker|44|2|0|1|11|87
+Hoby Milner|L|Yuli Gurriel|R|Sac Fly|C|Sinker|45|3|0|1|14|86
+Hoby Milner|L|Yuli Gurriel|R|Sac Fly|E|Sinker|46|3|1|1|1|86
+Hoby Milner|L|Marwin Gonzalez|R|Flyout|C|Sinker|47|0|0|2|8|87
+Hoby Milner|L|Marwin Gonzalez|R|Flyout|X|Sinker|48|0|1|2|6|86
+Hoby Milner|L|Freddie Freeman|L|Strikeout|S|Sinker|0|0|0|2|2|88
+Hoby Milner|L|Freddie Freeman|L|Strikeout|F|Sinker|1|0|1|2|12|89
+Hoby Milner|L|Freddie Freeman|L|Strikeout|S|Curveball|2|0|2|2|7|76
+Hoby Milner|L|Danny Santana|R|Groundout|C|Sinker|3|0|0|0|6|89
+Hoby Milner|L|Danny Santana|R|Groundout|F|Sinker|4|0|1|0|5|89
+Hoby Milner|L|Danny Santana|R|Groundout|X|Changeup|5|0|2|0|12|81
+Hoby Milner|L|Matt Adams|L|Walk|B|Curveball|6|0|0|1|13|79
+Hoby Milner|L|Matt Adams|L|Walk|C|Sinker|7|1|0|1|4|90
+Hoby Milner|L|Matt Adams|L|Walk|B|Sinker|8|1|1|1|13|89
+Hoby Milner|L|Matt Adams|L|Walk|B|Curveball|9|2|1|1|13|76
+Hoby Milner|L|Matt Adams|L|Walk|F|Sinker|10|3|1|1|5|88
+Hoby Milner|L|Matt Adams|L|Walk|F|Sinker|11|3|2|1|1|88
+Hoby Milner|L|Matt Adams|L|Walk|B|Sinker|12|3|2|1|11|90
+Hoby Milner|L|Nick Markakis|L|Pop Out|C|Sinker|13|0|0|1|9|89
+Hoby Milner|L|Nick Markakis|L|Pop Out|S|Sinker|14|0|1|1|2|88
+Hoby Milner|L|Nick Markakis|L|Pop Out|X|Sinker|15|0|2|1|6|89
+Hoby Milner|L|Kurt Suzuki|R|Home Run|E|Sinker|16|0|0|2|5|87
+Hoby Milner|L|Johan Camargo|R|Groundout|X|Sinker|17|0|0|2|9|88
+Hoby Milner|L|Sean Rodriguez|R|Home Run|C|Sinker|18|0|0|0|14|88
+Hoby Milner|L|Sean Rodriguez|R|Home Run|S|Changeup|19|0|1|0|14|81
+Hoby Milner|L|Sean Rodriguez|R|Home Run|B|Changeup|20|0|2|0|14|80
+Hoby Milner|L|Sean Rodriguez|R|Home Run|B|Sinker|21|1|2|0|13|88
+Hoby Milner|L|Sean Rodriguez|R|Home Run|E|Changeup|22|2|2|0|6|81
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Curveball|23|0|0|0|13|79
+Hoby Milner|L|Ender Inciarte|L|Lineout|F|Sinker|24|1|0|0|1|88
+Hoby Milner|L|Ender Inciarte|L|Lineout|F|Sinker|25|1|1|0|3|88
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Curveball|26|1|2|0|13|77
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Sinker|27|2|2|0|11|88
+Hoby Milner|L|Ender Inciarte|L|Lineout|X|Sinker|28|3|2|0|6|88
+Hoby Milner|L|Brandon Phillips|R|Single|D|Sinker|29|0|0|1|12|87
+Hoby Milner|L|Freddie Freeman|L|Strikeout|C|Curveball|30|0|0|1|14|77
+Hoby Milner|L|Freddie Freeman|L|Strikeout|B|Sinker|31|0|1|1|12|87
+Hoby Milner|L|Freddie Freeman|L|Strikeout|B|Sinker|32|1|1|1|11|87
+Hoby Milner|L|Freddie Freeman|L|Strikeout|S|Sinker|33|2|1|1|3|88
+Hoby Milner|L|Freddie Freeman|L|Strikeout|S|Sinker|34|2|2|1|11|88
+Hoby Milner|L|Freddie Freeman|L|Groundout|C|Curveball|0|0|0|0|9|75
+Hoby Milner|L|Freddie Freeman|L|Groundout|S|Sinker|1|0|1|0|1|88
+Hoby Milner|L|Freddie Freeman|L|Groundout|F|Sinker|2|0|2|0|11|88
+Hoby Milner|L|Freddie Freeman|L|Groundout|X|Sinker|3|0|2|0|11|89
+Hoby Milner|L|Tyler Flowers|R|Double|B|Sinker|4|0|0|1|13|88
+Hoby Milner|L|Tyler Flowers|R|Double|B|Changeup|5|1|0|1|14|80
+Hoby Milner|L|Tyler Flowers|R|Double|D|Sinker|6|2|0|1|5|89
+Hoby Milner|L|Matt Adams|L|Groundout|X|Curveball|7|0|0|1|9|74
+Hoby Milner|L|Nick Markakis|L|Strikeout|C|Sinker|8|0|0|2|2|87
+Hoby Milner|L|Nick Markakis|L|Strikeout|S|Sinker|9|0|1|2|12|87
+Hoby Milner|L|Nick Markakis|L|Strikeout|B|Sinker|10|0|2|2|12|88
+Hoby Milner|L|Nick Markakis|L|Strikeout|S|Sinker|11|1|2|2|12|87
+Hoby Milner|L|Gerardo Parra|L|Groundout|B|Sinker|0|0|0|1|7|89
+Hoby Milner|L|Gerardo Parra|L|Groundout|F|Sinker|1|1|0|1|12|89
+Hoby Milner|L|Gerardo Parra|L|Groundout|B|Curveball|2|1|1|1|13|78
+Hoby Milner|L|Gerardo Parra|L|Groundout|B|Curveball|3|2|1|1|12|76
+Hoby Milner|L|Gerardo Parra|L|Groundout|X|Sinker|4|3|1|1|1|88
+Hoby Milner|L|Mark Reynolds|R|Single|D|Sinker|5|0|0|2|6|89
+Hoby Milner|L|Carlos Gonzalez|L|Lineout|C|Sinker|6|0|0|2|9|88
+Hoby Milner|L|Carlos Gonzalez|L|Lineout|B|Sinker|7|0|1|2|12|88
+Hoby Milner|L|Carlos Gonzalez|L|Lineout|F|Sinker|8|1|1|2|12|90
+Hoby Milner|L|Carlos Gonzalez|L|Lineout|X|Curveball|9|1|2|2|7|78
+Hoby Milner|L|Ender Inciarte|L|Lineout|C|Sinker|0|0|0|0|6|88
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Sinker|1|0|1|0|12|87
+Hoby Milner|L|Ender Inciarte|L|Lineout|F|Sinker|2|1|1|0|2|88
+Hoby Milner|L|Ender Inciarte|L|Lineout|F|Sinker|3|1|2|0|12|89
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Curveball|4|1|2|0|14|75
+Hoby Milner|L|Ender Inciarte|L|Lineout|F|Sinker|5|2|2|0|12|89
+Hoby Milner|L|Ender Inciarte|L|Lineout|B|Curveball|6|2|2|0|13|76
+Hoby Milner|L|Ender Inciarte|L|Lineout|X|Sinker|7|3|2|0|3|89
+Hoby Milner|L|Brandon Phillips|R|Single|S|Curveball|8|0|0|1|7|77
+Hoby Milner|L|Brandon Phillips|R|Single|B|Curveball|9|0|1|1|13|76
+Hoby Milner|L|Brandon Phillips|R|Single|S|Sinker|10|1|1|1|14|88
+Hoby Milner|L|Brandon Phillips|R|Single|D|Changeup|11|1|2|1|14|79
+Hoby Milner|L|Freddie Freeman|L|Forceout|B|Sinker|12|0|0|1|12|88
+Hoby Milner|L|Freddie Freeman|L|Forceout|F|Sinker|13|1|0|1|12|88
+Hoby Milner|L|Freddie Freeman|L|Forceout|F|Sinker|14|1|1|1|12|88
+Hoby Milner|L|Freddie Freeman|L|Forceout|B|Sinker|15|1|2|1|12|89
+Hoby Milner|L|Freddie Freeman|L|Forceout|B|Curveball|16|2|2|1|13|74
+Hoby Milner|L|Freddie Freeman|L|Forceout|F|Sinker|17|3|2|1|12|89
+Hoby Milner|L|Freddie Freeman|L|Forceout|F|Sinker|18|3|2|1|12|90
+Hoby Milner|L|Freddie Freeman|L|Forceout|X|Sinker|19|3|2|1|5|90
+Hoby Milner|L|Nick Markakis|L|Groundout|B|Curveball|20|0|0|2|13|77
+Hoby Milner|L|Nick Markakis|L|Groundout|C|Sinker|21|1|0|2|2|89
+Hoby Milner|L|Nick Markakis|L|Groundout|X|Sinker|22|1|1|2|6|88
+Hoby Milner|L|Freddie Freeman|L|Flyout|F|Curveball|0|0|0|1|14|75
+Hoby Milner|L|Freddie Freeman|L|Flyout|S|Sinker|1|0|1|1|2|89
+Hoby Milner|L|Freddie Freeman|L|Flyout|B|Curveball|2|0|2|1|13|76
+Hoby Milner|L|Freddie Freeman|L|Flyout|F|Sinker|3|1|2|1|12|89
+Hoby Milner|L|Freddie Freeman|L|Flyout|B|Sinker|4|1|2|1|12|88
+Hoby Milner|L|Freddie Freeman|L|Flyout|X|Sinker|5|2|2|1|2|88
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|6|0|0|2|12|88
+Hoby Milner|L|Nick Markakis|L|Flyout|B|Sinker|7|0|1|2|12|87
+Hoby Milner|L|Nick Markakis|L|Flyout|B|Curveball|8|1|1|2|14|74
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|9|2|1|2|12|88
+Hoby Milner|L|Nick Markakis|L|Flyout|B|Curveball|10|2|2|2|13|77
+Hoby Milner|L|Nick Markakis|L|Flyout|F|Sinker|11|3|2|2|12|89
+Hoby Milner|L|Nick Markakis|L|Flyout|X|Sinker|12|3|2|2|5|89
+Hoby Milner|L|Michael Conforto|L|Pop Out|C|Sinker|0|0|0|0|1|89
+Hoby Milner|L|Michael Conforto|L|Pop Out|B|Sinker|1|0|1|0|12|88
+Hoby Milner|L|Michael Conforto|L|Pop Out|S|Sinker|2|1|1|0|3|89
+Hoby Milner|L|Michael Conforto|L|Pop Out|F|Curveball|3|1|2|0|7|77
+Hoby Milner|L|Michael Conforto|L|Pop Out|X|Sinker|4|1|2|0|12|90
+Hoby Milner|L|Asdrubal Cabrera|R|Single|D|Sinker|5|0|0|1|5|88
+Hoby Milner|L|Cory Spangenberg|L|Strikeout|C|Curveball|0|0|0|0|2|76
+Hoby Milner|L|Cory Spangenberg|L|Strikeout|B|Sinker|1|0|1|0|7|86
+Hoby Milner|L|Cory Spangenberg|L|Strikeout|F|Curveball|2|1|1|0|4|74
+Hoby Milner|L|Cory Spangenberg|L|Strikeout|S|Sinker|3|1|2|0|12|88
+Hoby Milner|L|Hector Sanchez|R|Single|C|Curveball|4|0|0|1|5|74
+Hoby Milner|L|Hector Sanchez|R|Single|D|Sinker|5|0|1|1|12|87
+Hoby Milner|L|Hunter Renfroe|R|Walk|C|Sinker|6|0|0|1|7|88
+Hoby Milner|L|Hunter Renfroe|R|Walk|S|Changeup|7|0|1|1|14|80
+Hoby Milner|L|Hunter Renfroe|R|Walk|B|Changeup|8|0|2|1|14|79
+Hoby Milner|L|Hunter Renfroe|R|Walk|B|Sinker|9|1|2|1|2|89
+Hoby Milner|L|Hunter Renfroe|R|Walk|F|Changeup|10|2|2|1|9|79
+Hoby Milner|L|Hunter Renfroe|R|Walk|*B|Curveball|11|2|2|1|13|74
+Hoby Milner|L|Hunter Renfroe|R|Walk|B|Sinker|12|3|2|1|11|88
+Hoby Milner|L|Matt Szczur|R|Lineout|X|Sinker|13|0|0|1|14|87
+Hoby Milner|L|Manuel Margot|R|Walk|B|Curveball|14|0|0|2|14|79
+Hoby Milner|L|Manuel Margot|R|Walk|B|Sinker|15|1|0|2|13|88
+Hoby Milner|L|Manuel Margot|R|Walk|B|Curveball|16|2|0|2|13|75
+Hoby Milner|L|Manuel Margot|R|Walk|B|Sinker|17|3|0|2|13|88
+Hoby Milner|L|Carlos Asuaje|L|Groundout|B|Sinker|18|0|0|2|13|88
+Hoby Milner|L|Carlos Asuaje|L|Groundout|F|Sinker|19|1|0|2|12|87
+Hoby Milner|L|Carlos Asuaje|L|Groundout|F|Curveball|20|1|1|2|13|75
+Hoby Milner|L|Carlos Asuaje|L|Groundout|F|Sinker|21|1|2|2|14|88
+Hoby Milner|L|Carlos Asuaje|L|Groundout|F|Sinker|22|1|2|2|3|87
+Hoby Milner|L|Carlos Asuaje|L|Groundout|B|Sinker|23|1|2|2|12|88
+Hoby Milner|L|Carlos Asuaje|L|Groundout|X|Curveball|24|2|2|2|11|76
+Hoby Milner|L|Denard Span|L|Pop Out|S|Sinker|0|0|0|1|5|89
+Hoby Milner|L|Denard Span|L|Pop Out|B|Sinker|1|0|1|1|12|88
+Hoby Milner|L|Denard Span|L|Pop Out|B|Sinker|2|1|1|1|13|89
+Hoby Milner|L|Denard Span|L|Pop Out|F|Sinker|3|2|1|1|12|88
+Hoby Milner|L|Denard Span|L|Pop Out|X|Curveball|4|2|2|1|5|73
+Hoby Milner|L|Hunter Pence|R|Intent Walk|V|N/A|5|0|0|2|0|0
+Hoby Milner|L|Hunter Pence|R|Intent Walk|V|N/A|6|0|1|2|0|0
+Hoby Milner|L|Hunter Pence|R|Intent Walk|V|N/A|7|0|2|2|0|0
+Hoby Milner|L|Hunter Pence|R|Intent Walk|V|N/A|8|0|2|2|0|0
+Hoby Milner|L|Jarrett Parker|L|Groundout|F|Sinker|9|0|0|2|6|89
+Hoby Milner|L|Jarrett Parker|L|Groundout|B|Sinker|10|0|1|2|12|87
+Hoby Milner|L|Jarrett Parker|L|Groundout|B|Curveball|11|1|1|2|14|74
+Hoby Milner|L|Jarrett Parker|L|Groundout|X|Sinker|12|2|1|2|6|88
+Hoby Milner|L|Buster Posey|R|Single|C|Sinker|13|0|0|0|4|87
+Hoby Milner|L|Buster Posey|R|Single|D|Curveball|14|0|1|0|7|74
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|B|Sinker|15|0|0|0|13|87
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|F|Changeup|16|1|0|0|9|80
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|B|Sinker|17|1|1|0|13|89
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|C|Sinker|18|2|1|0|12|89
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|X|Sinker|19|2|2|0|11|88
+Hoby Milner|L|Brandon Crawford|L|Pop Out|F|Sinker|20|0|0|1|12|88
+Hoby Milner|L|Brandon Crawford|L|Pop Out|B|Curveball|21|0|1|1|13|74
+Hoby Milner|L|Brandon Crawford|L|Pop Out|X|Curveball|22|1|1|1|13|75
+Hoby Milner|L|Ryder Jones|L|Pop Out|C|Sinker|23|0|0|2|5|88
+Hoby Milner|L|Ryder Jones|L|Pop Out|B|Sinker|24|0|1|2|12|88
+Hoby Milner|L|Ryder Jones|L|Pop Out|X|Curveball|25|1|1|2|13|76
+Hoby Milner|L|Jarrett Parker|L|Groundout|B|Sinker|0|0|0|0|12|87
+Hoby Milner|L|Jarrett Parker|L|Groundout|F|Sinker|1|1|0|0|5|88
+Hoby Milner|L|Jarrett Parker|L|Groundout|X|Curveball|2|1|1|0|3|75
+Hoby Milner|L|Buster Posey|R|Groundout|B|Sinker|3|0|0|1|14|88
+Hoby Milner|L|Buster Posey|R|Groundout|F|Sinker|4|1|0|1|6|88
+Hoby Milner|L|Buster Posey|R|Groundout|B|Sinker|5|1|1|1|11|89
+Hoby Milner|L|Buster Posey|R|Groundout|S|Sinker|6|2|1|1|12|88
+Hoby Milner|L|Buster Posey|R|Groundout|F|Sinker|7|2|2|1|11|90
+Hoby Milner|L|Buster Posey|R|Groundout|X|Sinker|8|2|2|1|5|90
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|B|Sinker|9|0|0|2|14|89
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|C|Sinker|10|1|0|2|14|88
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|B|Changeup|11|1|1|2|14|81
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|S|Sinker|12|2|1|2|11|88
+Hoby Milner|L|Pablo Sandoval|R|Pop Out|X|Sinker|13|2|2|2|11|90
+Hoby Milner|L|Jarrett Parker|L|Single|B|Sinker|0|0|0|2|13|89
+Hoby Milner|L|Jarrett Parker|L|Single|B|Curveball|1|1|0|2|14|73
+Hoby Milner|L|Jarrett Parker|L|Single|F|Sinker|2|2|0|2|5|89
+Hoby Milner|L|Jarrett Parker|L|Single|D|Sinker|3|2|1|2|2|90
+Hoby Milner|L|Derek Dietrich|L|Hit By Pitch|B|Sinker|0|0|0|2|12|87
+Hoby Milner|L|Derek Dietrich|L|Hit By Pitch|H|Sinker|1|1|0|2|12|88
+Hoby Milner|L|A.J. Ellis|R|Strikeout|S|Sinker|2|0|0|2|14|87
+Hoby Milner|L|A.J. Ellis|R|Strikeout|B|Sinker|3|0|1|2|14|86
+Hoby Milner|L|A.J. Ellis|R|Strikeout|C|Sinker|4|1|1|2|1|89
+Hoby Milner|L|A.J. Ellis|R|Strikeout|S|Sinker|5|1|2|2|1|89
+Hoby Milner|L|Mike Aviles|R|Single|C|Sinker|6|0|0|0|4|86
+Hoby Milner|L|Mike Aviles|R|Single|F|Sinker|7|0|1|0|12|87
+Hoby Milner|L|Mike Aviles|R|Single|D|Sinker|8|0|2|0|3|87
+Hoby Milner|L|Tyler Moore|R|Strikeout|S|Changeup|9|0|0|0|14|79
+Hoby Milner|L|Tyler Moore|R|Strikeout|F|Sinker|10|0|1|0|12|87
+Hoby Milner|L|Tyler Moore|R|Strikeout|S|Changeup|11|0|2|0|9|79
+Hoby Milner|L|Miguel Rojas|R|Double Play|C|Sinker|12|0|0|1|5|87
+Hoby Milner|L|Miguel Rojas|R|Double Play|S|Sinker|13|0|1|1|2|88
+Hoby Milner|L|Miguel Rojas|R|Double Play|F|Sinker|14|0|2|1|1|88
+Hoby Milner|L|Miguel Rojas|R|Double Play|X|Changeup|15|0|2|1|14|81
+Hoby Milner|L|Alex Avila|L|Single|C|Sinker|0|0|0|0|6|89
+Hoby Milner|L|Alex Avila|L|Single|S|Sinker|1|0|1|0|12|89
+Hoby Milner|L|Alex Avila|L|Single|D|Sinker|2|0|2|0|12|90
+Hoby Milner|L|Jason Heyward|L|Forceout|C|Curveball|3|0|0|0|4|76
+Hoby Milner|L|Jason Heyward|L|Forceout|B|Curveball|4|0|1|0|13|75
+Hoby Milner|L|Jason Heyward|L|Forceout|X|Sinker|5|1|1|0|12|90
+Hoby Milner|L|Javier Baez|R|Single|B|Changeup|6|0|0|1|14|81
+Hoby Milner|L|Javier Baez|R|Single|D|Sinker|7|1|0|1|1|89
+Hoby Milner|L|Albert Almora Jr.|R|Lineout|B|Sinker|8|0|0|1|14|89
+Hoby Milner|L|Albert Almora Jr.|R|Lineout|B|Sinker|9|1|0|1|14|89
+Hoby Milner|L|Albert Almora Jr.|R|Lineout|X|Sinker|10|2|0|1|6|88
+Hoby Milner|L|Ben Zobrist|R|Groundout|B|Sinker|11|0|0|2|14|90
+Hoby Milner|L|Ben Zobrist|R|Groundout|X|Curveball|12|1|0|2|7|75
+Hoby Milner|L|Anthony Rizzo|L|Groundout|C|Sinker|0|0|0|1|3|89
+Hoby Milner|L|Anthony Rizzo|L|Groundout|B|Curveball|1|0|1|1|13|76
+Hoby Milner|L|Anthony Rizzo|L|Groundout|C|Sinker|2|1|1|1|2|88
+Hoby Milner|L|Anthony Rizzo|L|Groundout|X|Curveball|3|1|2|1|6|75
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|F|Curveball|0|0|0|2|8|76
+Hoby Milner|L|Freddie Freeman|L|Hit By Pitch|H|Sinker|1|0|1|2|12|89
+Hoby Milner|L|Matt Kemp|R|Forceout|X|Changeup|2|0|0|2|14|82
+Hoby Milner|L|Nick Markakis|L|Single|C|Sinker|3|0|0|0|4|89
+Hoby Milner|L|Nick Markakis|L|Single|B|Sinker|4|0|1|0|13|89
+Hoby Milner|L|Nick Markakis|L|Single|B|Sinker|5|1|1|0|12|89
+Hoby Milner|L|Nick Markakis|L|Single|D|Sinker|6|2|1|0|14|89
+Hoby Milner|L|Dansby Swanson|R|Walk|B|Sinker|7|0|0|0|13|89
+Hoby Milner|L|Dansby Swanson|R|Walk|B|Sinker|8|1|0|0|14|88
+Hoby Milner|L|Dansby Swanson|R|Walk|C|Sinker|9|2|0|0|3|89
+Hoby Milner|L|Dansby Swanson|R|Walk|S|Sinker|10|2|1|0|13|89
+Hoby Milner|L|Dansby Swanson|R|Walk|F|Sinker|11|2|2|0|9|89
+Hoby Milner|L|Dansby Swanson|R|Walk|*B|Changeup|12|2|2|0|14|81
+Hoby Milner|L|Dansby Swanson|R|Walk|B|Sinker|13|3|2|0|13|90
+Hoby Milner|L|Jace Peterson|L|Sac Bunt|X|Sinker|14|0|0|0|5|89
+Hoby Milner|L|Ichiro Suzuki|L|Strikeout|C|Sinker|0|0|0|2|2|89
+Hoby Milner|L|Ichiro Suzuki|L|Strikeout|B|Curveball|1|0|1|2|13|76
+Hoby Milner|L|Ichiro Suzuki|L|Strikeout|C|Sinker|2|1|1|2|4|90
+Hoby Milner|L|Ichiro Suzuki|L|Strikeout|S|Curveball|3|1|2|2|13|75
+Hoby Milner|L|Dee Gordon|L|Lineout|B|Sinker|4|0|0|0|11|90
+Hoby Milner|L|Dee Gordon|L|Lineout|F|Sinker|5|1|0|0|2|89
+Hoby Milner|L|Dee Gordon|L|Lineout|X|Curveball|6|1|1|0|4|77
+Hoby Milner|L|Norichika Aoki|L|Groundout|B|Curveball|0|0|0|0|13|76
+Hoby Milner|L|Norichika Aoki|L|Groundout|C|Sinker|1|1|0|0|4|89
+Hoby Milner|L|Norichika Aoki|L|Groundout|F|Sinker|2|1|1|0|2|88
+Hoby Milner|L|Norichika Aoki|L|Groundout|F|Sinker|3|1|2|0|2|90
+Hoby Milner|L|Norichika Aoki|L|Groundout|B|Curveball|4|1|2|0|13|76
+Hoby Milner|L|Norichika Aoki|L|Groundout|F|Sinker|5|2|2|0|8|90
+Hoby Milner|L|Norichika Aoki|L|Groundout|X|Sinker|6|2|2|0|2|90
+Hoby Milner|L|Asdrubal Cabrera|R|Single|D|Sinker|7|0|0|1|7|90
+Hoby Milner|L|Travis d'Arnaud|R|Double|B|Sinker|8|0|0|1|14|89
+Hoby Milner|L|Travis d'Arnaud|R|Double|*B|Curveball|9|1|0|1|13|75
+Hoby Milner|L|Travis d'Arnaud|R|Double|D|Sinker|10|2|0|1|3|89
+Hoby Milner|L|Brandon Nimmo|L|Walk|B|Curveball|11|0|0|1|7|76
+Hoby Milner|L|Brandon Nimmo|L|Walk|B|Sinker|12|1|0|1|13|89
+Hoby Milner|L|Brandon Nimmo|L|Walk|C|Sinker|13|2|0|1|4|89
+Hoby Milner|L|Brandon Nimmo|L|Walk|C|Sinker|14|2|1|1|9|90
+Hoby Milner|L|Brandon Nimmo|L|Walk|B|Curveball|15|2|2|1|13|76
+Hoby Milner|L|Brandon Nimmo|L|Walk|B|Sinker|16|3|2|1|13|89
+Hoby Milner|L|Juan Lagares|R|Grounded Into DP|B|Changeup|17|0|0|1|14|81
+Hoby Milner|L|Juan Lagares|R|Grounded Into DP|S|Changeup|18|1|0|1|6|82
+Hoby Milner|L|Juan Lagares|R|Grounded Into DP|B|Sinker|19|1|1|1|14|89
+Hoby Milner|L|Juan Lagares|R|Grounded Into DP|B|Curveball|20|2|1|1|14|75
+Hoby Milner|L|Juan Lagares|R|Grounded Into DP|X|Changeup|21|3|1|1|6|82
+Hoby Milner|L|Michael A. Taylor|R|Single|C|Curveball|0|0|0|0|12|74
+Hoby Milner|L|Michael A. Taylor|R|Single|D|Changeup|1|0|1|0|12|80
+Hoby Milner|L|Alejandro De Aza|L|Sac Bunt|X|Sinker|2|0|0|0|11|89
+Hoby Milner|L|Rafael Bautista|R|Strikeout|B|Sinker|3|0|0|1|12|89
+Hoby Milner|L|Rafael Bautista|R|Strikeout|C|Sinker|4|1|0|1|7|90
+Hoby Milner|L|Rafael Bautista|R|Strikeout|B|Changeup|5|1|1|1|13|81
+Hoby Milner|L|Rafael Bautista|R|Strikeout|F|Sinker|6|2|1|1|3|89
+Hoby Milner|L|Rafael Bautista|R|Strikeout|F|Sinker|7|2|2|1|2|90
+Hoby Milner|L|Rafael Bautista|R|Strikeout|*B|Changeup|8|2|2|1|14|82
+Hoby Milner|L|Rafael Bautista|R|Strikeout|T|Sinker|9|3|2|1|13|91
+Hoby Milner|L|Trea Turner|R|Walk|B|Curveball|10|0|0|2|13|75
+Hoby Milner|L|Trea Turner|R|Walk|B|Sinker|11|1|0|2|13|89
+Hoby Milner|L|Trea Turner|R|Walk|*B|Changeup|12|2|0|2|13|82
+Hoby Milner|L|Trea Turner|R|Walk|C|Sinker|13|3|0|2|9|89
+Hoby Milner|L|Trea Turner|R|Walk|B|Changeup|14|3|1|2|13|81
+Hoby Milner|L|Raudy Read|R|Single|B|Sinker|15|0|0|2|11|89
+Hoby Milner|L|Raudy Read|R|Single|C|Curveball|16|1|0|2|6|75
+Hoby Milner|L|Raudy Read|R|Single|D|Changeup|17|1|1|2|6|81
+Hoby Milner|L|Daniel Murphy|L|Lineout|B|Sinker|18|0|0|2|13|90
+Hoby Milner|L|Daniel Murphy|L|Lineout|B|Sinker|19|1|0|2|11|90
+Hoby Milner|L|Daniel Murphy|L|Lineout|C|Curveball|20|2|0|2|14|75
+Hoby Milner|L|Daniel Murphy|L|Lineout|X|Sinker|21|2|1|2|12|90
+Hoby Milner|L|Derek Dietrich|L|Groundout|B|Curveball|0|0|0|0|13|77
+Hoby Milner|L|Derek Dietrich|L|Groundout|X|Sinker|1|1|0|0|12|89
+Hoby Milner|L|Miguel Rojas|R|Double|S|Sinker|2|0|0|1|2|89
+Hoby Milner|L|Miguel Rojas|R|Double|*B|Changeup|3|0|1|1|14|80
+Hoby Milner|L|Miguel Rojas|R|Double|L|Sinker|4|1|1|1|11|89
+Hoby Milner|L|Miguel Rojas|R|Double|E|Sinker|5|1|2|1|2|89
+Hoby Milner|L|Dillon Peters|L|Strikeout|B|Sinker|6|0|0|1|13|88
+Hoby Milner|L|Dillon Peters|L|Strikeout|B|Sinker|7|1|0|1|13|89
+Hoby Milner|L|Dillon Peters|L|Strikeout|C|Sinker|8|2|0|1|5|88
+Hoby Milner|L|Dillon Peters|L|Strikeout|L|Sinker|9|2|1|1|8|89
+Hoby Milner|L|Dillon Peters|L|Strikeout|L|Sinker|10|2|2|1|5|89
+Hoby Milner|L|Dee Gordon|L|Groundout|B|Sinker|11|0|0|2|12|89
+Hoby Milner|L|Dee Gordon|L|Groundout|X|Sinker|12|1|0|2|12|89
+Hoby Milner|L|Justin Bour|L|Groundout|C|Curveball|0|0|0|0|9|76
+Hoby Milner|L|Justin Bour|L|Groundout|B|Sinker|1|0|1|0|8|90
+Hoby Milner|L|Justin Bour|L|Groundout|B|Sinker|2|1|1|0|12|91
+Hoby Milner|L|Justin Bour|L|Groundout|C|Curveball|3|2|1|0|14|76
+Hoby Milner|L|Justin Bour|L|Groundout|F|Sinker|4|2|2|0|3|91
+Hoby Milner|L|Justin Bour|L|Groundout|X|Sinker|5|2|2|0|14|91
+Hoby Milner|L|Derek Dietrich|L|Groundout|B|Sinker|6|0|0|1|11|90
+Hoby Milner|L|Derek Dietrich|L|Groundout|B|Curveball|7|1|0|1|14|76
+Hoby Milner|L|Derek Dietrich|L|Groundout|T|Sinker|8|2|0|1|3|90
+Hoby Milner|L|Derek Dietrich|L|Groundout|C|Sinker|9|2|1|1|12|91
+Hoby Milner|L|Derek Dietrich|L|Groundout|X|Sinker|10|2|2|1|12|90
+Hoby Milner|L|Brian Anderson|R|Strikeout|S|Changeup|11|0|0|2|14|81
+Hoby Milner|L|Brian Anderson|R|Strikeout|B|Sinker|12|0|1|2|14|90
+Hoby Milner|L|Brian Anderson|R|Strikeout|F|Sinker|13|1|1|2|2|90
+Hoby Milner|L|Brian Anderson|R|Strikeout|S|Sinker|14|1|2|2|2|90
+Hoby Milner|L|Matt Olson|L|Groundout|S|Sinker|0|0|0|0|12|89
+Hoby Milner|L|Matt Olson|L|Groundout|C|Sinker|1|0|1|0|6|89
+Hoby Milner|L|Matt Olson|L|Groundout|B|Curveball|2|0|2|0|13|76
+Hoby Milner|L|Matt Olson|L|Groundout|X|Curveball|3|1|2|0|13|76
+Hoby Milner|L|Mark Canha|R|Pop Out|C|Curveball|4|0|0|1|8|76
+Hoby Milner|L|Mark Canha|R|Pop Out|B|Sinker|5|0|1|1|11|89
+Hoby Milner|L|Mark Canha|R|Pop Out|C|Sinker|6|1|1|1|11|89
+Hoby Milner|L|Mark Canha|R|Pop Out|X|Sinker|7|1|2|1|4|89
+Hoby Milner|L|Bruce Maxwell|L|Walk|F|Sinker|8|0|0|2|5|89
+Hoby Milner|L|Bruce Maxwell|L|Walk|B|Curveball|9|0|1|2|13|77
+Hoby Milner|L|Bruce Maxwell|L|Walk|S|Curveball|10|1|1|2|13|76
+Hoby Milner|L|Bruce Maxwell|L|Walk|B|Curveball|11|1|2|2|13|77
+Hoby Milner|L|Bruce Maxwell|L|Walk|B|Sinker|12|2|2|2|14|88
+Hoby Milner|L|Bruce Maxwell|L|Walk|B|Sinker|13|3|2|2|13|89
+Hoby Milner|L|Matt Olson|L|Strikeout|C|Curveball|0|0|0|0|14|74
+Hoby Milner|L|Matt Olson|L|Strikeout|S|Sinker|1|0|1|0|6|88
+Hoby Milner|L|Matt Olson|L|Strikeout|B|Curveball|2|0|2|0|13|74
+Hoby Milner|L|Matt Olson|L|Strikeout|*B|Curveball|3|1|2|0|13|74
+Hoby Milner|L|Matt Olson|L|Strikeout|B|Sinker|4|2|2|0|11|90
+Hoby Milner|L|Matt Olson|L|Strikeout|S|Sinker|5|3|2|0|3|89
+Hoby Milner|L|Enrique Hernandez|R|Double|B|Curveball|0|0|0|0|13|76
+Hoby Milner|L|Enrique Hernandez|R|Double|E|Curveball|1|1|0|0|8|76
+Hoby Milner|L|Chris Taylor|R|Strikeout|C|Sinker|2|0|0|0|4|89
+Hoby Milner|L|Chris Taylor|R|Strikeout|B|Sinker|3|0|1|0|13|90
+Hoby Milner|L|Chris Taylor|R|Strikeout|B|Sinker|4|1|1|0|13|90
+Hoby Milner|L|Chris Taylor|R|Strikeout|C|Sinker|5|2|1|0|13|89
+Hoby Milner|L|Chris Taylor|R|Strikeout|F|Sinker|6|2|2|0|3|91
+Hoby Milner|L|Chris Taylor|R|Strikeout|F|Sinker|7|2|2|0|1|90
+Hoby Milner|L|Chris Taylor|R|Strikeout|B|Sinker|8|2|2|0|11|91
+Hoby Milner|L|Chris Taylor|R|Strikeout|F|Sinker|9|3|2|0|11|90
+Hoby Milner|L|Chris Taylor|R|Strikeout|S|Changeup|10|3|2|0|14|80
+Hoby Milner|L|Corey Seager|L|Lineout|B|Curveball|11|0|0|1|13|76
+Hoby Milner|L|Corey Seager|L|Lineout|F|Sinker|12|1|0|1|8|90
+Hoby Milner|L|Corey Seager|L|Lineout|X|Curveball|13|1|1|1|2|76
+Hoby Milner|L|Justin Turner|R|Intent Walk|V|N/A|14|0|0|2|0|0
+Hoby Milner|L|Justin Turner|R|Intent Walk|V|N/A|15|0|1|2|0|0
+Hoby Milner|L|Justin Turner|R|Intent Walk|V|N/A|16|0|2|2|0|0
+Hoby Milner|L|Justin Turner|R|Intent Walk|V|N/A|17|0|2|2|0|0
+Hoby Milner|L|Cody Bellinger|L|Double|S|Sinker|18|0|0|2|6|90
+Hoby Milner|L|Cody Bellinger|L|Double|S|Sinker|19|0|1|2|2|91
+Hoby Milner|L|Cody Bellinger|L|Double|*B|Curveball|20|0|2|2|13|75
+Hoby Milner|L|Cody Bellinger|L|Double|E|Sinker|21|1|2|2|12|90
+Hoby Milner|L|Cody Bellinger|L|Groundout|B|Curveball|0|0|0|1|14|75
+Hoby Milner|L|Cody Bellinger|L|Groundout|B|Curveball|1|1|0|1|14|75
+Hoby Milner|L|Cody Bellinger|L|Groundout|F|Sinker|2|2|0|1|2|90
+Hoby Milner|L|Cody Bellinger|L|Groundout|E|Sinker|3|2|1|1|3|90
+Hoby Milner|L|Yasiel Puig|R|Strikeout|S|Changeup|4|0|0|2|14|82
+Hoby Milner|L|Yasiel Puig|R|Strikeout|B|Changeup|5|0|1|2|14|81
+Hoby Milner|L|Yasiel Puig|R|Strikeout|S|Sinker|6|1|1|2|11|91
+Hoby Milner|L|Yasiel Puig|R|Strikeout|B|Sinker|7|1|2|2|12|91
+Hoby Milner|L|Yasiel Puig|R|Strikeout|C|Sinker|8|2|2|2|1|91
+Hoby Milner|L|Enrique Hernandez|R|Walk|B|Changeup|9|0|0|0|12|81
+Hoby Milner|L|Enrique Hernandez|R|Walk|C|Changeup|10|1|0|0|9|81
+Hoby Milner|L|Enrique Hernandez|R|Walk|B|Sinker|11|1|1|0|13|89
+Hoby Milner|L|Enrique Hernandez|R|Walk|B|Sinker|12|2|1|0|11|89
+Hoby Milner|L|Enrique Hernandez|R|Walk|B|Changeup|13|3|1|0|14|81
+Hoby Milner|L|Ender Inciarte|L|Walk|B|Curveball|0|0|0|2|13|77
+Hoby Milner|L|Ender Inciarte|L|Walk|B|Sinker|1|1|0|2|7|89
+Hoby Milner|L|Ender Inciarte|L|Walk|B|Sinker|2|2|0|2|11|89
+Hoby Milner|L|Ender Inciarte|L|Walk|B|Sinker|3|3|0|2|11|89
+Hoby Milner|L|Ozzie Albies|R|Lineout|C|Sinker|4|0|0|2|8|88
+Hoby Milner|L|Ozzie Albies|R|Lineout|S|Changeup|5|0|1|2|14|81
+Hoby Milner|L|Ozzie Albies|R|Lineout|X|Changeup|6|0|2|2|14|81
+Hoby Milner|L|Bryce Harper|L|Strikeout|B|Sinker|0|0|0|0|11|91
+Hoby Milner|L|Bryce Harper|L|Strikeout|C|Sinker|1|1|0|0|1|90
+Hoby Milner|L|Bryce Harper|L|Strikeout|S|Sinker|2|1|1|0|12|90
+Hoby Milner|L|Bryce Harper|L|Strikeout|B|Curveball|3|1|2|0|13|78
+Hoby Milner|L|Bryce Harper|L|Strikeout|F|Sinker|4|2|2|0|3|91
+Hoby Milner|L|Bryce Harper|L|Strikeout|S|Curveball|5|2|2|0|13|76
+Hoby Milner|L|Daniel Murphy|L|Walk|C|Sinker|6|0|0|1|14|90
+Hoby Milner|L|Daniel Murphy|L|Walk|B|Sinker|7|0|1|1|12|88
+Hoby Milner|L|Daniel Murphy|L|Walk|B|Curveball|8|1|1|1|13|78
+Hoby Milner|L|Daniel Murphy|L|Walk|B|Curveball|9|2|1|1|13|77
+Hoby Milner|L|Daniel Murphy|L|Walk|C|Sinker|10|3|1|1|5|90
+Hoby Milner|L|Daniel Murphy|L|Walk|B|Curveball|11|3|2|1|13|77
+Hoby Milner|L|Brandon Nimmo|L|Flyout|C|Curveball|0|0|0|1|7|76
+Hoby Milner|L|Brandon Nimmo|L|Flyout|F|Sinker|1|0|1|1|9|89
+Hoby Milner|L|Brandon Nimmo|L|Flyout|B|Sinker|2|0|2|1|12|88
+Hoby Milner|L|Brandon Nimmo|L|Flyout|F|Sinker|3|1|2|1|12|90
+Hoby Milner|L|Brandon Nimmo|L|Flyout|X|Curveball|4|1|2|1|8|77
+Hoby Milner|L|Kevin Plawecki|R|Intent Walk|V|N/A|5|0|0|2|0|0
+Hoby Milner|L|Kevin Plawecki|R|Intent Walk|V|N/A|6|0|1|2|0|0
+Hoby Milner|L|Kevin Plawecki|R|Intent Walk|V|N/A|7|0|2|2|0|0
+Hoby Milner|L|Kevin Plawecki|R|Intent Walk|V|N/A|8|0|2|2|0|0
+Hoby Milner|L|Dominic Smith|L|Groundout|B|Curveball|9|0|0|2|14|76
+Hoby Milner|L|Dominic Smith|L|Groundout|X|Sinker|10|1|0|2|12|88
+Hoby Milner|L|Travis Taijeron|R|Flyout|C|Changeup|0|0|0|0|7|82
+Hoby Milner|L|Travis Taijeron|R|Flyout|B|Sinker|1|0|1|0|13|90
+Hoby Milner|L|Travis Taijeron|R|Flyout|X|Sinker|2|1|1|0|3|89
+Hoby Milner|L|Norichika Aoki|L|Groundout|B|Sinker|3|0|0|1|13|89
+Hoby Milner|L|Norichika Aoki|L|Groundout|F|Sinker|4|1|0|1|5|89
+Hoby Milner|L|Norichika Aoki|L|Groundout|B|Curveball|5|1|1|1|14|76
+Hoby Milner|L|Norichika Aoki|L|Groundout|X|Sinker|6|2|1|1|9|89
+Hoby Milner|L|Phillip Evans|R|Strikeout|C|Sinker|7|0|0|2|1|89
+Hoby Milner|L|Phillip Evans|R|Strikeout|B|Sinker|8|0|1|2|13|89
+Hoby Milner|L|Phillip Evans|R|Strikeout|S|Sinker|9|1|1|2|7|89
+Hoby Milner|L|Phillip Evans|R|Strikeout|B|Changeup|10|1|2|2|14|81
+Hoby Milner|L|Phillip Evans|R|Strikeout|C|Sinker|11|2|2|2|11|90
+Hoby Milner|L|Brandon Nimmo|L|Strikeout|F|Sinker|12|0|0|0|14|89
+Hoby Milner|L|Brandon Nimmo|L|Strikeout|B|Sinker|13|0|1|0|14|89
+Hoby Milner|L|Brandon Nimmo|L|Strikeout|F|Sinker|14|1|1|0|12|89
+Hoby Milner|L|Brandon Nimmo|L|Strikeout|C|Curveball|15|1|2|0|14|73
+Hoby Milner|L|Dominic Smith|L|Pop Out|B|Curveball|16|0|0|1|13|75
+Hoby Milner|L|Dominic Smith|L|Pop Out|C|Sinker|17|1|0|1|5|89
+Hoby Milner|L|Dominic Smith|L|Pop Out|X|Sinker|18|1|1|1|12|88
+Hoby Milner|L|Tomas Nido|R|Groundout|B|Sinker|19|0|0|2|13|88
+Hoby Milner|L|Tomas Nido|R|Groundout|F|Changeup|20|1|0|2|13|82
+Hoby Milner|L|Tomas Nido|R|Groundout|C|Sinker|21|1|1|2|1|89
+Hoby Milner|L|Tomas Nido|R|Groundout|B|Sinker|22|1|2|2|11|90
+Hoby Milner|L|Tomas Nido|R|Groundout|X|Changeup|23|2|2|2|9|81

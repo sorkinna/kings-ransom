@@ -1,0 +1,976 @@
+Jason Adam|R|Leonys Martin|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|96
+Jason Adam|R|Leonys Martin|L|Walk|B|Four-Seam Fastball|1|1|0|0|14|95
+Jason Adam|R|Leonys Martin|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|95
+Jason Adam|R|Leonys Martin|L|Walk|C|Four-Seam Fastball|3|3|0|0|5|94
+Jason Adam|R|Leonys Martin|L|Walk|B|Four-Seam Fastball|4|3|1|0|14|95
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|C|Four-Seam Fastball|5|0|0|0|13|95
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|*B|Changeup|6|0|1|0|13|89
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|W|Changeup|7|1|1|0|13|90
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|*B|Curveball|8|1|2|0|14|78
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|*B|Changeup|9|2|2|0|14|90
+Jason Adam|R|Jeimer Candelario|L|Strikeout Double Play|S|Four-Seam Fastball|10|3|2|0|11|96
+Jason Adam|R|Nicholas Castellanos|R|Double|B|Four-Seam Fastball|11|0|0|2|14|96
+Jason Adam|R|Nicholas Castellanos|R|Double|S|Four-Seam Fastball|12|1|0|2|5|95
+Jason Adam|R|Nicholas Castellanos|R|Double|F|Four-Seam Fastball|13|1|1|2|2|95
+Jason Adam|R|Nicholas Castellanos|R|Double|D|Curveball|14|1|2|2|7|78
+Jason Adam|R|Victor Martinez|L|Groundout|*B|Changeup|15|0|0|2|13|89
+Jason Adam|R|Victor Martinez|L|Groundout|F|Four-Seam Fastball|16|1|0|2|1|94
+Jason Adam|R|Victor Martinez|L|Groundout|F|Four-Seam Fastball|17|1|1|2|4|95
+Jason Adam|R|Victor Martinez|L|Groundout|X|Changeup|18|1|2|2|8|91
+Jason Adam|R|Mark Trumbo|R|Single|D|Four-Seam Fastball|0|0|0|0|6|95
+Jason Adam|R|Anthony Santander|L|Pop Out|*B|Changeup|1|0|0|0|14|88
+Jason Adam|R|Anthony Santander|L|Pop Out|F|Four-Seam Fastball|2|1|0|0|4|95
+Jason Adam|R|Anthony Santander|L|Pop Out|X|Four-Seam Fastball|3|1|1|0|1|94
+Jason Adam|R|Jace Peterson|L|Flyout|B|Four-Seam Fastball|4|0|0|1|12|93
+Jason Adam|R|Jace Peterson|L|Flyout|C|Changeup|5|1|0|1|5|88
+Jason Adam|R|Jace Peterson|L|Flyout|*B|Curveball|6|1|1|1|14|77
+Jason Adam|R|Jace Peterson|L|Flyout|X|Four-Seam Fastball|7|2|1|1|1|94
+Jason Adam|R|Chance Sisco|L|Flyout|C|Curveball|8|0|0|2|13|75
+Jason Adam|R|Chance Sisco|L|Flyout|X|Four-Seam Fastball|9|0|1|2|9|96
+Jason Adam|R|Trey Mancini|R|Groundout|C|Curveball|10|0|0|0|7|75
+Jason Adam|R|Trey Mancini|R|Groundout|F|Four-Seam Fastball|11|0|1|0|9|94
+Jason Adam|R|Trey Mancini|R|Groundout|B|Four-Seam Fastball|12|0|2|0|11|95
+Jason Adam|R|Trey Mancini|R|Groundout|X|Four-Seam Fastball|13|1|2|0|2|94
+Jason Adam|R|Adam Jones|R|Pop Out|S|Four-Seam Fastball|14|0|0|1|5|94
+Jason Adam|R|Adam Jones|R|Pop Out|X|Four-Seam Fastball|15|0|1|1|11|94
+Jason Adam|R|Manny Machado|R|Single|B|Four-Seam Fastball|16|0|0|2|14|95
+Jason Adam|R|Manny Machado|R|Single|D|Four-Seam Fastball|17|1|0|2|5|93
+Jason Adam|R|Jonathan Schoop|R|Pop Out|C|Curveball|18|0|0|2|12|76
+Jason Adam|R|Jonathan Schoop|R|Pop Out|X|Four-Seam Fastball|19|0|1|2|5|93
+Jason Adam|R|C.J. Cron|R|Strikeout|C|Four-Seam Fastball|0|0|0|1|2|94
+Jason Adam|R|C.J. Cron|R|Strikeout|S|Curveball|1|0|1|1|13|76
+Jason Adam|R|C.J. Cron|R|Strikeout|B|Four-Seam Fastball|2|0|2|1|11|95
+Jason Adam|R|C.J. Cron|R|Strikeout|S|Four-Seam Fastball|3|1|2|1|12|94
+Jason Adam|R|Matt Duffy|R|Single|F|Four-Seam Fastball|4|0|0|2|12|93
+Jason Adam|R|Matt Duffy|R|Single|C|Curveball|5|0|1|2|12|77
+Jason Adam|R|Matt Duffy|R|Single|D|Changeup|6|0|2|2|1|89
+Jason Adam|R|Wilson Ramos|R|Strikeout|C|Curveball|7|0|0|2|1|76
+Jason Adam|R|Wilson Ramos|R|Strikeout|B|Curveball|8|0|1|2|11|76
+Jason Adam|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|9|1|1|2|11|93
+Jason Adam|R|Wilson Ramos|R|Strikeout|F|Curveball|10|1|2|2|5|77
+Jason Adam|R|Wilson Ramos|R|Strikeout|F|Curveball|11|1|2|2|14|77
+Jason Adam|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|12|1|2|2|12|95
+Jason Adam|R|Wilson Ramos|R|Strikeout|S|Four-Seam Fastball|13|2|2|2|11|95
+Jason Adam|R|Daniel Robertson|R|Strikeout|S|Curveball|14|0|0|0|12|78
+Jason Adam|R|Daniel Robertson|R|Strikeout|B|Curveball|15|0|1|0|14|78
+Jason Adam|R|Daniel Robertson|R|Strikeout|F|Four-Seam Fastball|16|1|1|0|3|94
+Jason Adam|R|Daniel Robertson|R|Strikeout|C|Curveball|17|1|2|0|2|78
+Jason Adam|R|Johnny Field|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|11|93
+Jason Adam|R|Johnny Field|R|Strikeout|S|Four-Seam Fastball|1|0|1|0|4|94
+Jason Adam|R|Johnny Field|R|Strikeout|B|Curveball|2|0|2|0|14|79
+Jason Adam|R|Johnny Field|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|5|95
+Jason Adam|R|Johnny Field|R|Strikeout|B|Four-Seam Fastball|4|1|2|0|11|94
+Jason Adam|R|Johnny Field|R|Strikeout|T|Curveball|5|2|2|0|9|77
+Jason Adam|R|Denard Span|L|Lineout|B|Four-Seam Fastball|6|0|0|1|11|94
+Jason Adam|R|Denard Span|L|Lineout|S|Changeup|7|1|0|1|13|89
+Jason Adam|R|Denard Span|L|Lineout|F|Changeup|8|1|1|1|7|90
+Jason Adam|R|Denard Span|L|Lineout|B|Four-Seam Fastball|9|1|2|1|11|95
+Jason Adam|R|Denard Span|L|Lineout|X|Four-Seam Fastball|10|2|2|1|6|94
+Jason Adam|R|C.J. Cron|R|Strikeout|B|Curveball|11|0|0|2|14|78
+Jason Adam|R|C.J. Cron|R|Strikeout|B|Four-Seam Fastball|12|1|0|2|11|93
+Jason Adam|R|C.J. Cron|R|Strikeout|C|Four-Seam Fastball|13|2|0|2|4|94
+Jason Adam|R|C.J. Cron|R|Strikeout|S|Four-Seam Fastball|14|2|1|2|6|94
+Jason Adam|R|C.J. Cron|R|Strikeout|W|Curveball|15|2|2|2|14|79
+Jason Adam|R|Tyler Austin|R|Groundout|B|Curveball|0|0|0|0|11|75
+Jason Adam|R|Tyler Austin|R|Groundout|X|Four-Seam Fastball|1|1|0|0|14|94
+Jason Adam|R|Miguel Andujar|R|Home Run|C|Four-Seam Fastball|2|0|0|1|14|94
+Jason Adam|R|Miguel Andujar|R|Home Run|S|Curveball|3|0|1|1|14|77
+Jason Adam|R|Miguel Andujar|R|Home Run|F|Four-Seam Fastball|4|0|2|1|11|95
+Jason Adam|R|Miguel Andujar|R|Home Run|F|Four-Seam Fastball|5|0|2|1|9|94
+Jason Adam|R|Miguel Andujar|R|Home Run|F|Curveball|6|0|2|1|13|77
+Jason Adam|R|Miguel Andujar|R|Home Run|B|Curveball|7|0|2|1|11|78
+Jason Adam|R|Miguel Andujar|R|Home Run|E|Four-Seam Fastball|8|1|2|1|3|94
+Jason Adam|R|Austin Romine|R|Home Run|B|Four-Seam Fastball|9|0|0|1|14|94
+Jason Adam|R|Austin Romine|R|Home Run|B|Curveball|10|1|0|1|14|77
+Jason Adam|R|Austin Romine|R|Home Run|F|Four-Seam Fastball|11|2|0|1|4|93
+Jason Adam|R|Austin Romine|R|Home Run|B|Four-Seam Fastball|12|2|1|1|11|95
+Jason Adam|R|Austin Romine|R|Home Run|F|Four-Seam Fastball|13|3|1|1|8|94
+Jason Adam|R|Austin Romine|R|Home Run|E|Four-Seam Fastball|14|3|2|1|7|93
+Jason Adam|R|Ronald Torreyes|R|Flyout|X|Four-Seam Fastball|15|0|0|1|3|93
+Jason Adam|R|Gleyber Torres|R|Strikeout|C|Curveball|16|0|0|2|8|77
+Jason Adam|R|Gleyber Torres|R|Strikeout|B|Curveball|17|0|1|2|14|78
+Jason Adam|R|Gleyber Torres|R|Strikeout|F|Four-Seam Fastball|18|1|1|2|8|93
+Jason Adam|R|Gleyber Torres|R|Strikeout|B|Curveball|19|1|2|2|14|78
+Jason Adam|R|Gleyber Torres|R|Strikeout|C|Four-Seam Fastball|20|2|2|2|14|93
+Jason Adam|R|Tommy Pham|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|14|96
+Jason Adam|R|Tommy Pham|R|Strikeout|B|Four-Seam Fastball|1|1|0|2|14|95
+Jason Adam|R|Tommy Pham|R|Strikeout|S|Four-Seam Fastball|2|2|0|2|6|95
+Jason Adam|R|Tommy Pham|R|Strikeout|F|Four-Seam Fastball|3|2|1|2|12|95
+Jason Adam|R|Tommy Pham|R|Strikeout|B|Curveball|4|2|2|2|11|77
+Jason Adam|R|Tommy Pham|R|Strikeout|F|Four-Seam Fastball|5|3|2|2|2|95
+Jason Adam|R|Tommy Pham|R|Strikeout|S|Curveball|6|3|2|2|8|77
+Jason Adam|R|Matt Carpenter|L|Home Run|E|Four-Seam Fastball|7|0|0|0|2|93
+Jason Adam|R|Jose Martinez|R|Strikeout|F|Four-Seam Fastball|8|0|0|0|9|93
+Jason Adam|R|Jose Martinez|R|Strikeout|B|Curveball|9|0|1|0|11|75
+Jason Adam|R|Jose Martinez|R|Strikeout|B|Changeup|10|1|1|0|14|88
+Jason Adam|R|Jose Martinez|R|Strikeout|B|Curveball|11|2|1|0|14|76
+Jason Adam|R|Jose Martinez|R|Strikeout|S|Four-Seam Fastball|12|3|1|0|4|93
+Jason Adam|R|Jose Martinez|R|Strikeout|F|Four-Seam Fastball|13|3|2|0|3|94
+Jason Adam|R|Jose Martinez|R|Strikeout|C|Curveball|14|3|2|0|13|75
+Jason Adam|R|Marcell Ozuna|R|Strikeout|C|Curveball|15|0|0|1|2|76
+Jason Adam|R|Marcell Ozuna|R|Strikeout|B|Curveball|16|0|1|1|14|77
+Jason Adam|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|17|1|1|1|6|93
+Jason Adam|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|18|1|2|1|12|94
+Jason Adam|R|Marcell Ozuna|R|Strikeout|W|Curveball|19|1|2|1|14|77
+Jason Adam|R|Tyler O'Neill|R|Strikeout|B|Curveball|20|0|0|2|14|77
+Jason Adam|R|Tyler O'Neill|R|Strikeout|S|Changeup|21|1|0|2|8|88
+Jason Adam|R|Tyler O'Neill|R|Strikeout|B|Curveball|22|1|1|2|14|77
+Jason Adam|R|Tyler O'Neill|R|Strikeout|S|Changeup|23|2|1|2|14|89
+Jason Adam|R|Tyler O'Neill|R|Strikeout|S|Four-Seam Fastball|24|2|2|2|12|94
+Jason Adam|R|Isiah Kiner-Falefa|R|Single|B|Four-Seam Fastball|0|0|0|0|7|96
+Jason Adam|R|Isiah Kiner-Falefa|R|Single|B|Four-Seam Fastball|1|1|0|0|14|95
+Jason Adam|R|Isiah Kiner-Falefa|R|Single|C|Four-Seam Fastball|2|2|0|0|8|96
+Jason Adam|R|Isiah Kiner-Falefa|R|Single|D|Four-Seam Fastball|3|2|1|0|1|96
+Jason Adam|R|Nomar Mazara|L|Flyout|B|Curveball|4|0|0|0|13|77
+Jason Adam|R|Nomar Mazara|L|Flyout|F|Four-Seam Fastball|5|1|0|0|12|95
+Jason Adam|R|Nomar Mazara|L|Flyout|F|Four-Seam Fastball|6|1|1|0|11|96
+Jason Adam|R|Nomar Mazara|L|Flyout|B|Curveball|7|1|2|0|14|78
+Jason Adam|R|Nomar Mazara|L|Flyout|B|Four-Seam Fastball|8|2|2|0|11|95
+Jason Adam|R|Nomar Mazara|L|Flyout|X|Four-Seam Fastball|9|3|2|0|2|95
+Jason Adam|R|Jurickson Profar|L|Walk|B|Curveball|10|0|0|1|14|73
+Jason Adam|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|11|1|0|1|11|95
+Jason Adam|R|Jurickson Profar|L|Walk|F|Four-Seam Fastball|12|2|0|1|5|95
+Jason Adam|R|Jurickson Profar|L|Walk|F|Four-Seam Fastball|13|2|1|1|12|95
+Jason Adam|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|14|2|2|1|11|95
+Jason Adam|R|Jurickson Profar|L|Walk|F|Four-Seam Fastball|15|3|2|1|12|95
+Jason Adam|R|Jurickson Profar|L|Walk|F|Four-Seam Fastball|16|3|2|1|6|95
+Jason Adam|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|17|3|2|1|11|96
+Jason Adam|R|Joey Gallo|L|Strikeout|B|Changeup|18|0|0|1|11|89
+Jason Adam|R|Joey Gallo|L|Strikeout|B|Four-Seam Fastball|19|1|0|1|11|94
+Jason Adam|R|Joey Gallo|L|Strikeout|B|Four-Seam Fastball|20|2|0|1|11|94
+Jason Adam|R|Joey Gallo|L|Strikeout|S|Four-Seam Fastball|21|3|0|1|8|94
+Jason Adam|R|Joey Gallo|L|Strikeout|F|Four-Seam Fastball|22|3|1|1|11|93
+Jason Adam|R|Joey Gallo|L|Strikeout|F|Four-Seam Fastball|23|3|2|1|4|94
+Jason Adam|R|Joey Gallo|L|Strikeout|F|Four-Seam Fastball|24|3|2|1|1|93
+Jason Adam|R|Joey Gallo|L|Strikeout|S|Four-Seam Fastball|25|3|2|1|11|93
+Jason Adam|R|Rougned Odor|L|Pop Out|S|Four-Seam Fastball|26|0|0|2|6|93
+Jason Adam|R|Rougned Odor|L|Pop Out|B|Four-Seam Fastball|27|0|1|2|11|94
+Jason Adam|R|Rougned Odor|L|Pop Out|F|Four-Seam Fastball|28|1|1|2|12|93
+Jason Adam|R|Rougned Odor|L|Pop Out|X|Four-Seam Fastball|29|1|2|2|3|94
+Jason Adam|R|Eddie Rosario|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|94
+Jason Adam|R|Eddie Rosario|L|Groundout|B|Four-Seam Fastball|1|1|0|0|11|94
+Jason Adam|R|Eddie Rosario|L|Groundout|C|Four-Seam Fastball|2|2|0|0|13|93
+Jason Adam|R|Eddie Rosario|L|Groundout|F|Four-Seam Fastball|3|2|1|0|11|94
+Jason Adam|R|Eddie Rosario|L|Groundout|B|Four-Seam Fastball|4|2|2|0|11|95
+Jason Adam|R|Eddie Rosario|L|Groundout|X|Four-Seam Fastball|5|3|2|0|11|94
+Jason Adam|R|Miguel Sano|R|Flyout|X|Four-Seam Fastball|6|0|0|1|13|96
+Jason Adam|R|Eduardo Escobar|L|Hit By Pitch|B|Four-Seam Fastball|7|0|0|2|14|94
+Jason Adam|R|Eduardo Escobar|L|Hit By Pitch|H|Curveball|8|1|0|2|14|79
+Jason Adam|R|Max Kepler|L|Walk|C|Four-Seam Fastball|9|0|0|2|11|94
+Jason Adam|R|Max Kepler|L|Walk|F|Four-Seam Fastball|10|0|1|2|13|95
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|11|0|2|2|11|95
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|12|1|2|2|11|95
+Jason Adam|R|Max Kepler|L|Walk|*B|Changeup|13|2|2|2|14|88
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|14|3|2|2|11|94
+Jason Adam|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|15|0|0|2|11|93
+Jason Adam|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|16|1|0|2|11|92
+Jason Adam|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|17|2|0|2|14|93
+Jason Adam|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|18|3|0|2|11|92
+Jason Adam|R|Byron Buxton|R|Flyout|B|Four-Seam Fastball|19|0|0|2|11|92
+Jason Adam|R|Byron Buxton|R|Flyout|X|Four-Seam Fastball|20|1|0|2|1|93
+Jason Adam|R|Chad Pinder|R|Flyout|S|Four-Seam Fastball|0|0|0|0|12|93
+Jason Adam|R|Chad Pinder|R|Flyout|S|Four-Seam Fastball|1|0|1|0|14|94
+Jason Adam|R|Chad Pinder|R|Flyout|X|Four-Seam Fastball|2|0|2|0|11|95
+Jason Adam|R|Stephen Piscotty|R|Double|F|Four-Seam Fastball|3|0|0|1|2|94
+Jason Adam|R|Stephen Piscotty|R|Double|E|Four-Seam Fastball|4|0|1|1|7|94
+Jason Adam|R|Dustin Fowler|L|Home Run|C|Four-Seam Fastball|5|0|0|1|13|94
+Jason Adam|R|Dustin Fowler|L|Home Run|W|Curveball|6|0|1|1|14|77
+Jason Adam|R|Dustin Fowler|L|Home Run|B|Four-Seam Fastball|7|0|2|1|11|95
+Jason Adam|R|Dustin Fowler|L|Home Run|E|Four-Seam Fastball|8|1|2|1|6|94
+Jason Adam|R|Jonathan Lucroy|R|Triple|B|Four-Seam Fastball|9|0|0|1|13|94
+Jason Adam|R|Jonathan Lucroy|R|Triple|B|Curveball|10|1|0|1|14|77
+Jason Adam|R|Jonathan Lucroy|R|Triple|F|Four-Seam Fastball|11|2|0|1|9|93
+Jason Adam|R|Jonathan Lucroy|R|Triple|C|Four-Seam Fastball|12|2|1|1|9|93
+Jason Adam|R|Jonathan Lucroy|R|Triple|B|Curveball|13|2|2|1|13|77
+Jason Adam|R|Jonathan Lucroy|R|Triple|F|Four-Seam Fastball|14|3|2|1|14|93
+Jason Adam|R|Jonathan Lucroy|R|Triple|D|Four-Seam Fastball|15|3|2|1|6|92
+Jason Adam|R|Matt Joyce|L|Sac Fly|F|Four-Seam Fastball|16|0|0|1|11|92
+Jason Adam|R|Matt Joyce|L|Sac Fly|C|Curveball|17|0|1|1|13|77
+Jason Adam|R|Matt Joyce|L|Sac Fly|B|Curveball|18|0|2|1|14|77
+Jason Adam|R|Matt Joyce|L|Sac Fly|B|Four-Seam Fastball|19|1|2|1|12|93
+Jason Adam|R|Matt Joyce|L|Sac Fly|F|Four-Seam Fastball|20|2|2|1|4|93
+Jason Adam|R|Matt Joyce|L|Sac Fly|*B|Changeup|21|2|2|1|14|89
+Jason Adam|R|Matt Joyce|L|Sac Fly|E|Four-Seam Fastball|22|3|2|1|11|94
+Jason Adam|R|Matt Chapman|R|Strikeout|S|Four-Seam Fastball|23|0|0|2|6|94
+Jason Adam|R|Matt Chapman|R|Strikeout|B|Curveball|24|0|1|2|13|78
+Jason Adam|R|Matt Chapman|R|Strikeout|F|Four-Seam Fastball|25|1|1|2|6|93
+Jason Adam|R|Matt Chapman|R|Strikeout|S|Curveball|26|1|2|2|14|77
+Jason Adam|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|93
+Jason Adam|R|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|1|1|0|0|4|93
+Jason Adam|R|Dustin Fowler|L|Single|F|Four-Seam Fastball|2|0|0|1|2|94
+Jason Adam|R|Dustin Fowler|L|Single|D|Four-Seam Fastball|3|0|1|1|12|93
+Jason Adam|R|Marcus Semien|R|Grounded Into DP|S|Four-Seam Fastball|4|0|0|1|3|93
+Jason Adam|R|Marcus Semien|R|Grounded Into DP|F|Four-Seam Fastball|5|0|1|1|1|93
+Jason Adam|R|Marcus Semien|R|Grounded Into DP|X|Changeup|6|0|2|1|13|89
+Jason Adam|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|6|94
+Jason Adam|R|Andrelton Simmons|R|Pop Out|B|Curveball|1|0|1|0|14|78
+Jason Adam|R|Andrelton Simmons|R|Pop Out|C|Curveball|2|1|1|0|5|77
+Jason Adam|R|Andrelton Simmons|R|Pop Out|B|Changeup|3|1|2|0|14|89
+Jason Adam|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|4|2|2|0|5|95
+Jason Adam|R|Andrelton Simmons|R|Pop Out|F|Four-Seam Fastball|5|2|2|0|11|95
+Jason Adam|R|Andrelton Simmons|R|Pop Out|B|Changeup|6|2|2|0|14|90
+Jason Adam|R|Andrelton Simmons|R|Pop Out|X|Four-Seam Fastball|7|3|2|0|4|95
+Jason Adam|R|Zack Cozart|R|Strikeout|F|Four-Seam Fastball|8|0|0|1|11|93
+Jason Adam|R|Zack Cozart|R|Strikeout|F|Four-Seam Fastball|9|0|1|1|12|95
+Jason Adam|R|Zack Cozart|R|Strikeout|W|Curveball|10|0|2|1|14|78
+Jason Adam|R|Jefry Marte|R|Single|B|Four-Seam Fastball|11|0|0|2|14|94
+Jason Adam|R|Jefry Marte|R|Single|D|Four-Seam Fastball|12|1|0|2|2|94
+Jason Adam|R|Martin Maldonado|R|Pickoff 1B|B|Four-Seam Fastball|13|0|0|2|12|94
+Jason Adam|R|Martin Maldonado|R|Pickoff 1B|C|Four-Seam Fastball|14|1|0|2|5|94
+Jason Adam|R|Martin Maldonado|R|Pickoff 1B|S|Curveball|15|1|1|2|14|78
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|B|Curveball|0|0|0|1|13|75
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|B|Four-Seam Fastball|1|1|0|1|14|93
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|B|Curveball|2|2|0|1|11|77
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|C|Four-Seam Fastball|3|3|0|1|2|92
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|F|Four-Seam Fastball|4|3|1|1|11|94
+Jason Adam|R|Stephen Piscotty|R|Fielders Choice|E|Curveball|5|3|2|1|14|78
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|6|0|0|1|13|92
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|F|Four-Seam Fastball|7|1|0|1|2|93
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|S|Four-Seam Fastball|8|1|1|1|12|93
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|W|Curveball|9|1|2|1|13|79
+Jason Adam|R|Nick Martini|L|Flyout|B|Four-Seam Fastball|10|0|0|2|14|94
+Jason Adam|R|Nick Martini|L|Flyout|F|Four-Seam Fastball|11|1|0|2|1|93
+Jason Adam|R|Nick Martini|L|Flyout|*B|Curveball|12|1|1|2|14|78
+Jason Adam|R|Nick Martini|L|Flyout|B|Four-Seam Fastball|13|2|1|2|11|93
+Jason Adam|R|Nick Martini|L|Flyout|X|Four-Seam Fastball|14|3|1|2|12|91
+Jason Adam|R|Matt Chapman|R|Home Run|F|Four-Seam Fastball|0|0|0|0|5|91
+Jason Adam|R|Matt Chapman|R|Home Run|B|Curveball|1|0|1|0|14|74
+Jason Adam|R|Matt Chapman|R|Home Run|E|Four-Seam Fastball|2|1|1|0|2|92
+Jason Adam|R|Mark Canha|R|Pop Out|F|Four-Seam Fastball|3|0|0|0|12|91
+Jason Adam|R|Mark Canha|R|Pop Out|C|Curveball|4|0|1|0|8|75
+Jason Adam|R|Mark Canha|R|Pop Out|X|Curveball|5|0|2|0|8|74
+Jason Adam|R|Stephen Piscotty|R|Groundout|B|Curveball|6|0|0|1|14|76
+Jason Adam|R|Stephen Piscotty|R|Groundout|F|Four-Seam Fastball|7|1|0|1|6|91
+Jason Adam|R|Stephen Piscotty|R|Groundout|S|Four-Seam Fastball|8|1|1|1|11|91
+Jason Adam|R|Stephen Piscotty|R|Groundout|F|Curveball|9|1|2|1|14|76
+Jason Adam|R|Stephen Piscotty|R|Groundout|X|Curveball|10|1|2|1|9|75
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|S|Four-Seam Fastball|11|0|0|2|6|91
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|C|Curveball|12|0|1|2|1|75
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|F|Curveball|13|0|2|2|5|75
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|14|0|2|2|11|92
+Jason Adam|R|Jonathan Lucroy|R|Strikeout|S|Four-Seam Fastball|15|1|2|2|3|92
+Jason Adam|R|Adam Duvall|R|Home Run|B|Curveball|0|0|0|0|11|76
+Jason Adam|R|Adam Duvall|R|Home Run|T|Four-Seam Fastball|1|1|0|0|5|94
+Jason Adam|R|Adam Duvall|R|Home Run|B|Curveball|2|1|1|0|13|77
+Jason Adam|R|Adam Duvall|R|Home Run|F|Four-Seam Fastball|3|2|1|0|9|94
+Jason Adam|R|Adam Duvall|R|Home Run|E|Four-Seam Fastball|4|2|2|0|1|94
+Jason Adam|R|Curt Casali|R|Lineout|C|Curveball|5|0|0|0|7|78
+Jason Adam|R|Curt Casali|R|Lineout|F|Curveball|6|0|1|0|8|78
+Jason Adam|R|Curt Casali|R|Lineout|X|Four-Seam Fastball|7|0|2|0|12|94
+Jason Adam|R|Billy Hamilton|L|Groundout|B|Four-Seam Fastball|8|0|0|1|11|92
+Jason Adam|R|Billy Hamilton|L|Groundout|X|Four-Seam Fastball|9|1|0|1|14|93
+Jason Adam|R|Scott Schebler|L|Hit By Pitch|H|Curveball|10|0|0|2|14|79
+Jason Adam|R|Jose Peraza|R|Pop Out|F|Four-Seam Fastball|11|0|0|2|5|93
+Jason Adam|R|Jose Peraza|R|Pop Out|B|Curveball|12|0|1|2|11|77
+Jason Adam|R|Jose Peraza|R|Pop Out|X|Four-Seam Fastball|13|1|1|2|11|93
+Jason Adam|R|Jean Segura|R|Lineout|C|Four-Seam Fastball|0|0|0|2|4|94
+Jason Adam|R|Jean Segura|R|Lineout|S|Curveball|1|0|1|2|14|77
+Jason Adam|R|Jean Segura|R|Lineout|X|Four-Seam Fastball|2|0|2|2|14|95
+Jason Adam|R|Mitch Haniger|R|Walk|F|Four-Seam Fastball|3|0|0|0|1|95
+Jason Adam|R|Mitch Haniger|R|Walk|B|Curveball|4|0|1|0|14|78
+Jason Adam|R|Mitch Haniger|R|Walk|B|Four-Seam Fastball|5|1|1|0|14|94
+Jason Adam|R|Mitch Haniger|R|Walk|C|Curveball|6|2|1|0|2|77
+Jason Adam|R|Mitch Haniger|R|Walk|B|Changeup|7|2|2|0|14|89
+Jason Adam|R|Mitch Haniger|R|Walk|*B|Curveball|8|3|2|0|14|77
+Jason Adam|R|Nelson Cruz|R|Pop Out|*B|Curveball|9|0|0|0|14|77
+Jason Adam|R|Nelson Cruz|R|Pop Out|F|Four-Seam Fastball|10|1|0|0|2|94
+Jason Adam|R|Nelson Cruz|R|Pop Out|C|Four-Seam Fastball|11|1|1|0|8|95
+Jason Adam|R|Nelson Cruz|R|Pop Out|*B|Curveball|12|1|2|0|14|79
+Jason Adam|R|Nelson Cruz|R|Pop Out|F|Changeup|13|2|2|0|11|89
+Jason Adam|R|Nelson Cruz|R|Pop Out|F|Curveball|14|2|2|0|5|78
+Jason Adam|R|Nelson Cruz|R|Pop Out|X|Four-Seam Fastball|15|2|2|0|4|95
+Jason Adam|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|16|0|0|1|11|93
+Jason Adam|R|Kyle Seager|L|Walk|C|Changeup|17|1|0|1|8|87
+Jason Adam|R|Kyle Seager|L|Walk|B|Curveball|18|1|1|1|9|78
+Jason Adam|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|19|2|1|1|11|94
+Jason Adam|R|Kyle Seager|L|Walk|S|Four-Seam Fastball|20|3|1|1|1|93
+Jason Adam|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|21|3|2|1|11|93
+Jason Adam|R|Ryon Healy|R|Flyout|X|Four-Seam Fastball|22|0|0|1|9|94
+Jason Adam|R|Jose Ramirez|L|Flyout|C|Curveball|0|0|0|0|2|76
+Jason Adam|R|Jose Ramirez|L|Flyout|B|Curveball|1|0|1|0|14|78
+Jason Adam|R|Jose Ramirez|L|Flyout|B|Changeup|2|1|1|0|14|89
+Jason Adam|R|Jose Ramirez|L|Flyout|X|Four-Seam Fastball|3|2|1|0|4|94
+Jason Adam|R|Edwin Encarnacion|R|Groundout|F|Four-Seam Fastball|4|0|0|1|8|94
+Jason Adam|R|Edwin Encarnacion|R|Groundout|F|Curveball|5|0|1|1|7|78
+Jason Adam|R|Edwin Encarnacion|R|Groundout|X|Changeup|6|0|2|1|1|90
+Jason Adam|R|Yonder Alonso|L|Walk|B|Curveball|7|0|0|2|14|78
+Jason Adam|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|8|1|0|2|11|94
+Jason Adam|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|9|2|0|2|14|94
+Jason Adam|R|Yonder Alonso|L|Walk|B|Four-Seam Fastball|10|3|0|2|11|94
+Jason Adam|R|Jason Kipnis|L|Forceout|C|Four-Seam Fastball|11|0|0|2|9|94
+Jason Adam|R|Jason Kipnis|L|Forceout|W|Changeup|12|0|1|2|13|89
+Jason Adam|R|Jason Kipnis|L|Forceout|B|Four-Seam Fastball|13|0|2|2|11|95
+Jason Adam|R|Jason Kipnis|L|Forceout|F|Four-Seam Fastball|14|1|2|2|12|94
+Jason Adam|R|Jason Kipnis|L|Forceout|X|Changeup|15|1|2|2|11|89
+Jason Adam|R|Christian Vazquez|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|6|93
+Jason Adam|R|Christian Vazquez|R|Strikeout|F|Curveball|1|0|1|0|14|77
+Jason Adam|R|Christian Vazquez|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|12|94
+Jason Adam|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|3|0|0|1|12|94
+Jason Adam|R|Jackie Bradley Jr.|L|Strikeout|C|Curveball|4|0|1|1|13|77
+Jason Adam|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|5|0|2|1|11|95
+Jason Adam|R|Jackie Bradley Jr.|L|Strikeout|S|Changeup|6|1|2|1|13|87
+Jason Adam|R|Mookie Betts|R|Strikeout|C|Four-Seam Fastball|7|0|0|2|3|94
+Jason Adam|R|Mookie Betts|R|Strikeout|B|Four-Seam Fastball|8|0|1|2|12|94
+Jason Adam|R|Mookie Betts|R|Strikeout|B|Curveball|9|1|1|2|14|77
+Jason Adam|R|Mookie Betts|R|Strikeout|F|Changeup|10|2|1|2|4|88
+Jason Adam|R|Mookie Betts|R|Strikeout|S|Curveball|11|2|2|2|14|78
+Jason Adam|R|Andrew Benintendi|L|Walk|F|Four-Seam Fastball|12|0|0|0|5|93
+Jason Adam|R|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|13|0|1|0|11|93
+Jason Adam|R|Andrew Benintendi|L|Walk|B|Changeup|14|1|1|0|13|87
+Jason Adam|R|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|15|2|1|0|11|92
+Jason Adam|R|Andrew Benintendi|L|Walk|B|Four-Seam Fastball|16|3|1|0|12|93
+Jason Adam|R|J.D. Martinez|R|Double|C|Curveball|17|0|0|0|7|77
+Jason Adam|R|J.D. Martinez|R|Double|F|Four-Seam Fastball|18|0|1|0|12|94
+Jason Adam|R|J.D. Martinez|R|Double|B|Four-Seam Fastball|19|0|2|0|11|92
+Jason Adam|R|J.D. Martinez|R|Double|B|Four-Seam Fastball|20|1|2|0|11|93
+Jason Adam|R|J.D. Martinez|R|Double|D|Curveball|21|2|2|0|5|77
+Jason Adam|R|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+Jason Adam|R|Jackie Bradley Jr.|L|Single|B|Changeup|1|1|0|0|13|87
+Jason Adam|R|Jackie Bradley Jr.|L|Single|C|Four-Seam Fastball|2|2|0|0|13|93
+Jason Adam|R|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|3|2|1|0|14|93
+Jason Adam|R|Jackie Bradley Jr.|L|Single|F|Four-Seam Fastball|4|3|1|0|2|93
+Jason Adam|R|Jackie Bradley Jr.|L|Single|D|Four-Seam Fastball|5|3|2|0|4|93
+Jason Adam|R|Mookie Betts|R|Pop Out|C|Four-Seam Fastball|6|0|0|0|14|94
+Jason Adam|R|Mookie Betts|R|Pop Out|*B|Curveball|7|0|1|0|14|78
+Jason Adam|R|Mookie Betts|R|Pop Out|B|Curveball|8|1|1|0|14|77
+Jason Adam|R|Mookie Betts|R|Pop Out|X|Four-Seam Fastball|9|2|1|0|3|93
+Jason Adam|R|Andrew Benintendi|L|Strikeout|C|Curveball|10|0|0|1|5|76
+Jason Adam|R|Andrew Benintendi|L|Strikeout|F|Four-Seam Fastball|11|0|1|1|12|92
+Jason Adam|R|Andrew Benintendi|L|Strikeout|B|Four-Seam Fastball|12|0|2|1|12|93
+Jason Adam|R|Andrew Benintendi|L|Strikeout|B|Curveball|13|1|2|1|14|76
+Jason Adam|R|Andrew Benintendi|L|Strikeout|S|Curveball|14|2|2|1|9|75
+Jason Adam|R|Steve Pearce|R|Walk|B|Curveball|15|0|0|2|14|76
+Jason Adam|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|16|1|0|2|12|93
+Jason Adam|R|Steve Pearce|R|Walk|*B|Curveball|17|2|0|2|14|75
+Jason Adam|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|18|3|0|2|12|92
+Jason Adam|R|Mitch Moreland|L|Groundout|B|Curveball|19|0|0|2|13|75
+Jason Adam|R|Mitch Moreland|L|Groundout|X|Changeup|20|1|0|2|1|87
+Jason Adam|R|Brian Dozier|R|Strikeout|C|Four-Seam Fastball|0|0|0|2|2|94
+Jason Adam|R|Brian Dozier|R|Strikeout|S|Curveball|1|0|1|2|9|76
+Jason Adam|R|Brian Dozier|R|Strikeout|C|Curveball|2|0|2|2|11|78
+Jason Adam|R|Eduardo Escobar|L|Flyout|X|Four-Seam Fastball|3|0|0|0|12|94
+Jason Adam|R|Logan Morrison|L|Lineout|B|Four-Seam Fastball|4|0|0|1|13|94
+Jason Adam|R|Logan Morrison|L|Lineout|C|Four-Seam Fastball|5|1|0|1|7|94
+Jason Adam|R|Logan Morrison|L|Lineout|F|Four-Seam Fastball|6|1|1|1|11|94
+Jason Adam|R|Logan Morrison|L|Lineout|X|Curveball|7|1|2|1|1|77
+Jason Adam|R|Charlie Tilson|L|Groundout|C|Four-Seam Fastball|0|0|0|0|8|92
+Jason Adam|R|Charlie Tilson|L|Groundout|F|Four-Seam Fastball|1|0|1|0|12|92
+Jason Adam|R|Charlie Tilson|L|Groundout|B|Curveball|2|0|2|0|14|78
+Jason Adam|R|Charlie Tilson|L|Groundout|X|Changeup|3|1|2|0|13|89
+Jason Adam|R|Yoan Moncada|L|Flyout|B|Four-Seam Fastball|4|0|0|1|14|92
+Jason Adam|R|Yoan Moncada|L|Flyout|B|Changeup|5|1|0|1|13|87
+Jason Adam|R|Yoan Moncada|L|Flyout|B|Four-Seam Fastball|6|2|0|1|11|93
+Jason Adam|R|Yoan Moncada|L|Flyout|C|Four-Seam Fastball|7|3|0|1|2|92
+Jason Adam|R|Yoan Moncada|L|Flyout|X|Four-Seam Fastball|8|3|1|1|6|93
+Jason Adam|R|Yolmer Sanchez|L|Groundout|C|Four-Seam Fastball|9|0|0|2|5|92
+Jason Adam|R|Yolmer Sanchez|L|Groundout|X|Changeup|10|0|1|2|7|89
+Jason Adam|R|Yoan Moncada|L|Double|C|Four-Seam Fastball|0|0|0|0|8|94
+Jason Adam|R|Yoan Moncada|L|Double|B|Changeup|1|0|1|0|14|90
+Jason Adam|R|Yoan Moncada|L|Double|B|Curveball|2|1|1|0|13|77
+Jason Adam|R|Yoan Moncada|L|Double|D|Four-Seam Fastball|3|2|1|0|8|94
+Jason Adam|R|Yolmer Sanchez|L|Single|B|Curveball|4|0|0|0|11|77
+Jason Adam|R|Yolmer Sanchez|L|Single|S|Four-Seam Fastball|5|1|0|0|2|94
+Jason Adam|R|Yolmer Sanchez|L|Single|E|Four-Seam Fastball|6|1|1|0|1|94
+Jason Adam|R|Jose Abreu|R|Strikeout|B|Four-Seam Fastball|7|0|0|0|11|93
+Jason Adam|R|Jose Abreu|R|Strikeout|B|Four-Seam Fastball|8|1|0|0|14|93
+Jason Adam|R|Jose Abreu|R|Strikeout|*B|Four-Seam Fastball|9|2|0|0|14|93
+Jason Adam|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|10|3|0|0|7|93
+Jason Adam|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|11|3|1|0|12|93
+Jason Adam|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|12|3|2|0|14|93
+Jason Adam|R|Daniel Palka|L|Strikeout|C|Four-Seam Fastball|13|0|0|1|13|94
+Jason Adam|R|Daniel Palka|L|Strikeout|F|Four-Seam Fastball|14|0|1|1|4|94
+Jason Adam|R|Daniel Palka|L|Strikeout|F|Curveball|15|0|2|1|8|77
+Jason Adam|R|Daniel Palka|L|Strikeout|S|Four-Seam Fastball|16|0|2|1|12|93
+Jason Adam|R|Leury Garcia|L|Strikeout|S|Four-Seam Fastball|17|0|0|2|8|93
+Jason Adam|R|Leury Garcia|L|Strikeout|F|Four-Seam Fastball|18|0|1|2|12|93
+Jason Adam|R|Leury Garcia|L|Strikeout|B|Four-Seam Fastball|19|0|2|2|11|94
+Jason Adam|R|Leury Garcia|L|Strikeout|S|Curveball|20|1|2|2|14|78
+Jason Adam|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|0|0|0|0|2|93
+Jason Adam|R|Eddie Rosario|L|Single|B|Curveball|1|0|1|0|14|77
+Jason Adam|R|Eddie Rosario|L|Single|B|Four-Seam Fastball|2|1|1|0|14|94
+Jason Adam|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|3|2|1|0|3|94
+Jason Adam|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|4|2|2|0|13|95
+Jason Adam|R|Eddie Rosario|L|Single|F|Four-Seam Fastball|5|2|2|0|12|94
+Jason Adam|R|Eddie Rosario|L|Single|D|Changeup|6|2|2|0|1|89
+Jason Adam|R|Brian Dozier|R|Pop Out|F|Four-Seam Fastball|7|0|0|0|1|93
+Jason Adam|R|Brian Dozier|R|Pop Out|B|Curveball|8|0|1|0|14|78
+Jason Adam|R|Brian Dozier|R|Pop Out|*B|Curveball|9|1|1|0|14|78
+Jason Adam|R|Brian Dozier|R|Pop Out|B|Curveball|10|2|1|0|13|75
+Jason Adam|R|Brian Dozier|R|Pop Out|X|Four-Seam Fastball|11|3|1|0|12|94
+Jason Adam|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|12|0|0|1|13|93
+Jason Adam|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|13|1|0|1|1|93
+Jason Adam|R|Eduardo Escobar|L|Single|E|Changeup|14|1|1|1|7|88
+Jason Adam|R|Jeimer Candelario|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|9|92
+Jason Adam|R|Jeimer Candelario|L|Strikeout|B|Curveball|1|0|1|0|13|77
+Jason Adam|R|Jeimer Candelario|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|14|93
+Jason Adam|R|Jeimer Candelario|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|94
+Jason Adam|R|Jeimer Candelario|L|Strikeout|F|Changeup|4|2|2|0|13|86
+Jason Adam|R|Jeimer Candelario|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|14|93
+Jason Adam|R|Niko Goodrum|L|Walk|B|Curveball|6|0|0|1|13|75
+Jason Adam|R|Niko Goodrum|L|Walk|S|Four-Seam Fastball|7|1|0|1|14|94
+Jason Adam|R|Niko Goodrum|L|Walk|B|Changeup|8|1|1|1|14|89
+Jason Adam|R|Niko Goodrum|L|Walk|B|Four-Seam Fastball|9|2|1|1|14|94
+Jason Adam|R|Niko Goodrum|L|Walk|B|Four-Seam Fastball|10|3|1|1|13|94
+Jason Adam|R|Nicholas Castellanos|R|Strikeout|F|Four-Seam Fastball|11|0|0|1|14|94
+Jason Adam|R|Nicholas Castellanos|R|Strikeout|S|Curveball|12|0|1|1|14|79
+Jason Adam|R|Nicholas Castellanos|R|Strikeout|B|Curveball|13|0|2|1|1|78
+Jason Adam|R|Nicholas Castellanos|R|Strikeout|S|Curveball|14|1|2|1|14|79
+Jason Adam|R|John Hicks|R|Walk|B|Four-Seam Fastball|15|0|0|2|14|94
+Jason Adam|R|John Hicks|R|Walk|F|Four-Seam Fastball|16|1|0|2|6|93
+Jason Adam|R|John Hicks|R|Walk|B|Curveball|17|1|1|2|14|78
+Jason Adam|R|John Hicks|R|Walk|B|Four-Seam Fastball|18|2|1|2|11|94
+Jason Adam|R|John Hicks|R|Walk|B|Four-Seam Fastball|19|3|1|2|11|94
+Jason Adam|R|Victor Martinez|L|Single|E|Four-Seam Fastball|20|0|0|2|2|93
+Jason Adam|R|Ronny Rodriguez|R|Pop Out|F|Four-Seam Fastball|21|0|0|2|1|94
+Jason Adam|R|Ronny Rodriguez|R|Pop Out|S|Curveball|22|0|1|2|14|79
+Jason Adam|R|Ronny Rodriguez|R|Pop Out|B|Four-Seam Fastball|23|0|2|2|11|94
+Jason Adam|R|Ronny Rodriguez|R|Pop Out|F|Four-Seam Fastball|24|1|2|2|1|94
+Jason Adam|R|Ronny Rodriguez|R|Pop Out|X|Curveball|25|1|2|2|14|78
+Jason Adam|R|Miguel Andujar|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|12|94
+Jason Adam|R|Didi Gregorius|L|Lineout|C|Four-Seam Fastball|1|0|0|1|11|94
+Jason Adam|R|Didi Gregorius|L|Lineout|F|Curveball|2|0|1|1|5|78
+Jason Adam|R|Didi Gregorius|L|Lineout|B|Four-Seam Fastball|3|0|2|1|11|94
+Jason Adam|R|Didi Gregorius|L|Lineout|X|Four-Seam Fastball|4|1|2|1|4|95
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|B|Curveball|5|0|0|2|11|77
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|S|Four-Seam Fastball|6|1|0|2|5|93
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|F|Four-Seam Fastball|7|1|1|2|11|93
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|F|Four-Seam Fastball|8|1|2|2|14|95
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|F|Curveball|9|1|2|2|8|78
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|B|Curveball|10|1|2|2|14|78
+Jason Adam|R|Giancarlo Stanton|R|Strikeout|S|Curveball|11|2|2|2|9|78
+Jason Adam|R|Miguel Andujar|R|Lineout|C|Curveball|0|0|0|2|5|77
+Jason Adam|R|Miguel Andujar|R|Lineout|X|Four-Seam Fastball|1|0|1|2|6|94
+Jason Adam|R|Neil Walker|L|Hit By Pitch|B|Four-Seam Fastball|2|0|0|0|13|92
+Jason Adam|R|Neil Walker|L|Hit By Pitch|B|Four-Seam Fastball|3|1|0|0|11|93
+Jason Adam|R|Neil Walker|L|Hit By Pitch|C|Four-Seam Fastball|4|2|0|0|11|92
+Jason Adam|R|Neil Walker|L|Hit By Pitch|H|Curveball|5|2|1|0|14|76
+Jason Adam|R|Austin Romine|R|Double|B|Curveball|6|0|0|0|11|76
+Jason Adam|R|Austin Romine|R|Double|D|Four-Seam Fastball|7|1|0|0|4|93
+Jason Adam|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|8|0|0|0|1|94
+Jason Adam|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|9|0|1|0|12|93
+Jason Adam|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|10|1|1|0|14|94
+Jason Adam|R|Brett Gardner|L|Strikeout|S|Changeup|11|2|1|0|13|89
+Jason Adam|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|12|2|2|0|11|94
+Jason Adam|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|13|3|2|0|5|95
+Jason Adam|R|Brett Gardner|L|Strikeout|S|Four-Seam Fastball|14|3|2|0|1|93
+Jason Adam|R|Giancarlo Stanton|R|Sac Fly|B|Curveball|15|0|0|1|14|78
+Jason Adam|R|Giancarlo Stanton|R|Sac Fly|E|Four-Seam Fastball|16|1|0|1|13|95
+Jason Adam|R|Didi Gregorius|L|Pop Out|B|Changeup|17|0|0|2|11|89
+Jason Adam|R|Didi Gregorius|L|Pop Out|X|Four-Seam Fastball|18|1|0|2|2|94
+Jason Adam|R|Yolmer Sanchez|L|Flyout|C|Four-Seam Fastball|0|0|0|2|4|94
+Jason Adam|R|Yolmer Sanchez|L|Flyout|S|Curveball|1|0|1|2|9|76
+Jason Adam|R|Yolmer Sanchez|L|Flyout|X|Curveball|2|0|2|2|13|78
+Jason Adam|R|Jose Abreu|R|Home Run|B|Curveball|3|0|0|0|13|78
+Jason Adam|R|Jose Abreu|R|Home Run|B|Curveball|4|1|0|0|11|77
+Jason Adam|R|Jose Abreu|R|Home Run|E|Changeup|5|2|0|0|6|89
+Jason Adam|R|Avisail Garcia|R|Double|F|Four-Seam Fastball|6|0|0|0|13|95
+Jason Adam|R|Avisail Garcia|R|Double|S|Four-Seam Fastball|7|0|1|0|11|95
+Jason Adam|R|Avisail Garcia|R|Double|D|Curveball|8|0|2|0|4|78
+Jason Adam|R|Omar Narvaez|L|Intent Walk|V|N/A|9|0|0|0|0|0
+Jason Adam|R|Omar Narvaez|L|Intent Walk|V|N/A|10|0|1|0|0|0
+Jason Adam|R|Omar Narvaez|L|Intent Walk|V|N/A|11|0|2|0|0|0
+Jason Adam|R|Omar Narvaez|L|Intent Walk|V|N/A|12|0|2|0|0|0
+Jason Adam|R|Logan Morrison|L|Strikeout|B|Curveball|0|0|0|1|13|76
+Jason Adam|R|Logan Morrison|L|Strikeout|B|Four-Seam Fastball|1|1|0|1|11|94
+Jason Adam|R|Logan Morrison|L|Strikeout|F|Four-Seam Fastball|2|2|0|1|8|94
+Jason Adam|R|Logan Morrison|L|Strikeout|F|Curveball|3|2|1|1|7|76
+Jason Adam|R|Logan Morrison|L|Strikeout|B|Changeup|4|2|2|1|13|91
+Jason Adam|R|Logan Morrison|L|Strikeout|F|Changeup|5|3|2|1|13|90
+Jason Adam|R|Logan Morrison|L|Strikeout|S|Four-Seam Fastball|6|3|2|1|11|95
+Jason Adam|R|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|7|0|0|2|6|94
+Jason Adam|R|Logan Forsythe|R|Strikeout|B|Four-Seam Fastball|8|0|1|2|14|95
+Jason Adam|R|Logan Forsythe|R|Strikeout|C|Curveball|9|1|1|2|8|77
+Jason Adam|R|Logan Forsythe|R|Strikeout|*B|Curveball|10|1|2|2|14|78
+Jason Adam|R|Logan Forsythe|R|Strikeout|B|Curveball|11|2|2|2|11|78
+Jason Adam|R|Logan Forsythe|R|Strikeout|S|Four-Seam Fastball|12|3|2|2|2|94
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|13|0|0|0|12|92
+Jason Adam|R|Max Kepler|L|Walk|B|Curveball|14|1|0|0|11|75
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|15|2|0|0|12|92
+Jason Adam|R|Max Kepler|L|Walk|S|Four-Seam Fastball|16|3|0|0|11|92
+Jason Adam|R|Max Kepler|L|Walk|C|Four-Seam Fastball|17|3|1|0|1|91
+Jason Adam|R|Max Kepler|L|Walk|B|Four-Seam Fastball|18|3|2|0|11|92
+Jason Adam|R|Joe Mauer|L|Lineout|B|Four-Seam Fastball|0|0|0|0|12|92
+Jason Adam|R|Joe Mauer|L|Lineout|C|Four-Seam Fastball|1|1|0|0|8|92
+Jason Adam|R|Joe Mauer|L|Lineout|B|Curveball|2|1|1|0|14|76
+Jason Adam|R|Joe Mauer|L|Lineout|F|Four-Seam Fastball|3|2|1|0|8|94
+Jason Adam|R|Joe Mauer|L|Lineout|X|Four-Seam Fastball|4|2|2|0|9|94
+Jason Adam|R|Eddie Rosario|L|Strikeout|F|Four-Seam Fastball|5|0|0|1|4|93
+Jason Adam|R|Eddie Rosario|L|Strikeout|B|Curveball|6|0|1|1|11|76
+Jason Adam|R|Eddie Rosario|L|Strikeout|F|Curveball|7|1|1|1|14|77
+Jason Adam|R|Eddie Rosario|L|Strikeout|S|Curveball|8|1|2|1|13|78
+Jason Adam|R|Jorge Polanco|L|Groundout|F|Four-Seam Fastball|9|0|0|2|8|94
+Jason Adam|R|Jorge Polanco|L|Groundout|B|Curveball|10|0|1|2|14|77
+Jason Adam|R|Jorge Polanco|L|Groundout|B|Four-Seam Fastball|11|1|1|2|14|94
+Jason Adam|R|Jorge Polanco|L|Groundout|X|Four-Seam Fastball|12|2|1|2|8|94
+Jason Adam|R|Marcell Ozuna|R|Strikeout|B|Curveball|0|0|0|0|14|77
+Jason Adam|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|6|94
+Jason Adam|R|Marcell Ozuna|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|3|93
+Jason Adam|R|Marcell Ozuna|R|Strikeout|W|Curveball|3|1|2|0|14|77
+Jason Adam|R|Paul DeJong|R|Strikeout|B|Curveball|4|0|0|1|14|77
+Jason Adam|R|Paul DeJong|R|Strikeout|B|Curveball|5|1|0|1|14|78
+Jason Adam|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|6|2|0|1|12|95
+Jason Adam|R|Paul DeJong|R|Strikeout|C|Four-Seam Fastball|7|3|0|1|6|94
+Jason Adam|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|8|3|1|1|3|94
+Jason Adam|R|Paul DeJong|R|Strikeout|C|Curveball|9|3|2|1|11|77
+Jason Adam|R|Jedd Gyorko|R|Flyout|X|Four-Seam Fastball|10|0|0|2|9|95
+Jason Adam|R|Kolten Wong|L|Pop Out|B|Four-Seam Fastball|11|0|0|0|11|92
+Jason Adam|R|Kolten Wong|L|Pop Out|B|Four-Seam Fastball|12|1|0|0|14|93
+Jason Adam|R|Kolten Wong|L|Pop Out|F|Four-Seam Fastball|13|2|0|0|4|93
+Jason Adam|R|Kolten Wong|L|Pop Out|X|Four-Seam Fastball|14|2|1|0|2|93
+Jason Adam|R|Adolis Garcia|R|Single|D|Curveball|15|0|0|1|8|77
+Jason Adam|R|Harrison Bader|R|Strikeout|S|Four-Seam Fastball|16|0|0|1|8|93
+Jason Adam|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|17|0|1|1|12|94
+Jason Adam|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|18|0|2|1|12|94
+Jason Adam|R|Harrison Bader|R|Strikeout|S|Curveball|19|0|2|1|14|79
+Jason Adam|R|Matt Carpenter|L|Strikeout|*B|Curveball|20|0|0|2|14|78
+Jason Adam|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|21|1|0|2|11|94
+Jason Adam|R|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|22|2|0|2|13|93
+Jason Adam|R|Matt Carpenter|L|Strikeout|F|Four-Seam Fastball|23|2|1|2|1|93
+Jason Adam|R|Matt Carpenter|L|Strikeout|C|Curveball|24|2|2|2|11|78
+Jason Adam|R|Aledmys Diaz|R|Flyout|F|Four-Seam Fastball|0|0|0|0|5|92
+Jason Adam|R|Aledmys Diaz|R|Flyout|B|Curveball|1|0|1|0|13|75
+Jason Adam|R|Aledmys Diaz|R|Flyout|C|Curveball|2|1|1|0|1|76
+Jason Adam|R|Aledmys Diaz|R|Flyout|X|Curveball|3|1|2|0|8|78
+Jason Adam|R|Kevin Pillar|R|Pop Out|B|Curveball|4|0|0|1|14|78
+Jason Adam|R|Kevin Pillar|R|Pop Out|S|Four-Seam Fastball|5|1|0|1|12|93
+Jason Adam|R|Kevin Pillar|R|Pop Out|X|Four-Seam Fastball|6|1|1|1|11|94
+Jason Adam|R|Danny Jansen|R|Groundout|C|Curveball|7|0|0|2|13|78
+Jason Adam|R|Danny Jansen|R|Groundout|S|Curveball|8|0|1|2|14|78
+Jason Adam|R|Danny Jansen|R|Groundout|B|Curveball|9|0|2|2|13|78
+Jason Adam|R|Danny Jansen|R|Groundout|B|Four-Seam Fastball|10|1|2|2|12|95
+Jason Adam|R|Danny Jansen|R|Groundout|X|Curveball|11|2|2|2|9|77
+Jason Adam|R|Curtis Granderson|L|Pop Out|B|Changeup|12|0|0|2|13|85
+Jason Adam|R|Curtis Granderson|L|Pop Out|X|Four-Seam Fastball|13|1|0|2|12|92
+Jason Adam|R|Devon Travis|R|Strikeout|B|Four-Seam Fastball|14|0|0|0|12|93
+Jason Adam|R|Devon Travis|R|Strikeout|C|Curveball|15|1|0|0|11|75
+Jason Adam|R|Devon Travis|R|Strikeout|S|Curveball|16|1|1|0|8|77
+Jason Adam|R|Devon Travis|R|Strikeout|B|Curveball|17|1|2|0|14|79
+Jason Adam|R|Devon Travis|R|Strikeout|F|Curveball|18|2|2|0|2|77
+Jason Adam|R|Devon Travis|R|Strikeout|S|Four-Seam Fastball|19|2|2|0|11|95
+Jason Adam|R|Justin Smoak|L|Walk|B|Curveball|20|0|0|1|11|77
+Jason Adam|R|Justin Smoak|L|Walk|B|Four-Seam Fastball|21|1|0|1|11|94
+Jason Adam|R|Justin Smoak|L|Walk|B|Curveball|22|2|0|1|14|77
+Jason Adam|R|Justin Smoak|L|Walk|C|Four-Seam Fastball|23|3|0|1|11|92
+Jason Adam|R|Justin Smoak|L|Walk|B|Curveball|24|3|1|1|14|77
+Jason Adam|R|Teoscar Hernandez|R|Pop Out|X|Four-Seam Fastball|25|0|0|1|5|93
+Jason Adam|R|Jose Abreu|R|Home Run|E|Four-Seam Fastball|0|0|0|0|2|93
+Jason Adam|R|Matt Davidson|R|Strikeout|C|Four-Seam Fastball|1|0|0|0|6|93
+Jason Adam|R|Matt Davidson|R|Strikeout|B|Curveball|2|0|1|0|11|77
+Jason Adam|R|Matt Davidson|R|Strikeout|F|Curveball|3|1|1|0|13|76
+Jason Adam|R|Matt Davidson|R|Strikeout|B|Four-Seam Fastball|4|1|2|0|14|93
+Jason Adam|R|Matt Davidson|R|Strikeout|C|Curveball|5|2|2|0|2|77
+Jason Adam|R|Leury Garcia|L|Single|C|Curveball|6|0|0|1|13|74
+Jason Adam|R|Leury Garcia|L|Single|B|Four-Seam Fastball|7|0|1|1|14|91
+Jason Adam|R|Leury Garcia|L|Single|B|Curveball|8|1|1|1|14|75
+Jason Adam|R|Leury Garcia|L|Single|F|Four-Seam Fastball|9|2|1|1|14|93
+Jason Adam|R|Leury Garcia|L|Single|F|Curveball|10|2|2|1|8|76
+Jason Adam|R|Leury Garcia|L|Single|D|Curveball|11|2|2|1|14|76
+Jason Adam|R|Omar Narvaez|L|Walk|B|Curveball|12|0|0|1|14|76
+Jason Adam|R|Omar Narvaez|L|Walk|B|Curveball|13|1|0|1|14|77
+Jason Adam|R|Omar Narvaez|L|Walk|B|Four-Seam Fastball|14|2|0|1|11|91
+Jason Adam|R|Omar Narvaez|L|Walk|*B|Four-Seam Fastball|15|3|0|1|13|92
+Jason Adam|R|Tim Anderson|R|Single|B|Four-Seam Fastball|16|0|0|1|11|92
+Jason Adam|R|Tim Anderson|R|Single|C|Curveball|17|1|0|1|6|75
+Jason Adam|R|Tim Anderson|R|Single|E|Curveball|18|1|1|1|6|76
+Jason Adam|R|Nicky Delmonico|L|Home Run|E|Four-Seam Fastball|19|0|0|1|6|91
+Jason Adam|R|Trey Mancini|R|Home Run|B|Four-Seam Fastball|0|0|0|0|11|94
+Jason Adam|R|Trey Mancini|R|Home Run|E|Four-Seam Fastball|1|1|0|0|6|95
+Jason Adam|R|Anthony Santander|L|Flyout|B|Curveball|2|0|0|0|14|78
+Jason Adam|R|Anthony Santander|L|Flyout|C|Four-Seam Fastball|3|1|0|0|7|94
+Jason Adam|R|Anthony Santander|L|Flyout|F|Changeup|4|1|1|0|11|87
+Jason Adam|R|Anthony Santander|L|Flyout|F|Four-Seam Fastball|5|1|2|0|2|95
+Jason Adam|R|Anthony Santander|L|Flyout|F|Curveball|6|1|2|0|14|78
+Jason Adam|R|Anthony Santander|L|Flyout|X|Changeup|7|1|2|0|8|89
+Jason Adam|R|Renato Nunez|R|Flyout|B|Curveball|8|0|0|1|14|78
+Jason Adam|R|Renato Nunez|R|Flyout|B|Curveball|9|1|0|1|14|78
+Jason Adam|R|Renato Nunez|R|Flyout|X|Four-Seam Fastball|10|2|0|1|6|95
+Jason Adam|R|Jace Peterson|L|Flyout|C|Four-Seam Fastball|11|0|0|2|5|94
+Jason Adam|R|Jace Peterson|L|Flyout|B|Curveball|12|0|1|2|14|78
+Jason Adam|R|Jace Peterson|L|Flyout|S|Four-Seam Fastball|13|1|1|2|12|94
+Jason Adam|R|Jace Peterson|L|Flyout|F|Four-Seam Fastball|14|1|2|2|1|94
+Jason Adam|R|Jace Peterson|L|Flyout|B|Curveball|15|1|2|2|12|78
+Jason Adam|R|Jace Peterson|L|Flyout|B|Four-Seam Fastball|16|2|2|2|12|95
+Jason Adam|R|Jace Peterson|L|Flyout|F|Four-Seam Fastball|17|3|2|2|4|94
+Jason Adam|R|Jace Peterson|L|Flyout|X|Four-Seam Fastball|18|3|2|2|3|94
+Jason Adam|R|Pedro Severino|R|Walk|B|Curveball|0|0|0|0|12|78
+Jason Adam|R|Pedro Severino|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|95
+Jason Adam|R|Pedro Severino|R|Walk|S|Four-Seam Fastball|2|2|0|0|12|94
+Jason Adam|R|Pedro Severino|R|Walk|C|Curveball|3|2|1|0|9|79
+Jason Adam|R|Pedro Severino|R|Walk|F|Four-Seam Fastball|4|2|2|0|2|95
+Jason Adam|R|Pedro Severino|R|Walk|B|Curveball|5|2|2|0|11|78
+Jason Adam|R|Pedro Severino|R|Walk|*B|Four-Seam Fastball|6|3|2|0|14|97
+Jason Adam|R|Jonathan Villar|L|Pop Out|B|Four-Seam Fastball|7|0|0|0|12|94
+Jason Adam|R|Jonathan Villar|L|Pop Out|X|Four-Seam Fastball|8|1|0|0|14|94
+Jason Adam|R|Chris Davis|L|Strikeout|*B|Curveball|9|0|0|1|14|78
+Jason Adam|R|Chris Davis|L|Strikeout|C|Four-Seam Fastball|10|1|0|1|7|95
+Jason Adam|R|Chris Davis|L|Strikeout|F|Four-Seam Fastball|11|1|1|1|3|95
+Jason Adam|R|Chris Davis|L|Strikeout|B|Curveball|12|1|2|1|14|79
+Jason Adam|R|Chris Davis|L|Strikeout|C|Curveball|13|2|2|1|8|78
+Jason Adam|R|Stevie Wilkerson|L|Lineout|C|Curveball|14|0|0|2|9|78
+Jason Adam|R|Stevie Wilkerson|L|Lineout|B|N/A|15|0|1|2|0|0
+Jason Adam|R|Stevie Wilkerson|L|Lineout|X|Changeup|16|1|1|2|5|89
+Jason Adam|R|Chris Taylor|R|Single|B|Curveball|0|0|0|0|14|76
+Jason Adam|R|Chris Taylor|R|Single|S|Four-Seam Fastball|1|1|0|0|6|94
+Jason Adam|R|Chris Taylor|R|Single|D|Four-Seam Fastball|2|1|1|0|1|95
+Jason Adam|R|Matt Beaty|L|Grounded Into DP|C|Four-Seam Fastball|3|0|0|0|4|94
+Jason Adam|R|Matt Beaty|L|Grounded Into DP|F|Four-Seam Fastball|4|0|1|0|2|95
+Jason Adam|R|Matt Beaty|L|Grounded Into DP|F|Four-Seam Fastball|5|0|2|0|11|95
+Jason Adam|R|Matt Beaty|L|Grounded Into DP|F|Curveball|6|0|2|0|8|77
+Jason Adam|R|Matt Beaty|L|Grounded Into DP|X|Four-Seam Fastball|7|0|2|0|1|96
+Jason Adam|R|Jedd Gyorko|R|Pop Out|B|Curveball|8|0|0|2|13|78
+Jason Adam|R|Jedd Gyorko|R|Pop Out|B|Four-Seam Fastball|9|1|0|2|14|95
+Jason Adam|R|Jedd Gyorko|R|Pop Out|F|Four-Seam Fastball|10|2|0|2|3|94
+Jason Adam|R|Jedd Gyorko|R|Pop Out|S|Four-Seam Fastball|11|2|1|2|3|95
+Jason Adam|R|Jedd Gyorko|R|Pop Out|X|Curveball|12|2|2|2|3|78
+Jason Adam|R|Joc Pederson|L|Strikeout|C|Curveball|0|0|0|0|2|77
+Jason Adam|R|Joc Pederson|L|Strikeout|B|Changeup|1|0|1|0|14|88
+Jason Adam|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|11|94
+Jason Adam|R|Joc Pederson|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|7|94
+Jason Adam|R|Joc Pederson|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|12|94
+Jason Adam|R|Joc Pederson|L|Strikeout|S|Four-Seam Fastball|5|3|2|0|4|94
+Jason Adam|R|Russell Martin|R|Lineout|F|Four-Seam Fastball|6|0|0|1|9|94
+Jason Adam|R|Russell Martin|R|Lineout|B|Four-Seam Fastball|7|0|1|1|12|94
+Jason Adam|R|Russell Martin|R|Lineout|B|Curveball|8|1|1|1|14|79
+Jason Adam|R|Russell Martin|R|Lineout|F|Four-Seam Fastball|9|2|1|1|1|94
+Jason Adam|R|Russell Martin|R|Lineout|F|Four-Seam Fastball|10|2|2|1|11|94
+Jason Adam|R|Russell Martin|R|Lineout|B|Changeup|11|2|2|1|14|89
+Jason Adam|R|Russell Martin|R|Lineout|X|Four-Seam Fastball|12|3|2|1|5|94
+Jason Adam|R|Matt Beaty|L|Walk|B|Changeup|13|0|0|2|14|89
+Jason Adam|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|14|1|0|2|14|95
+Jason Adam|R|Matt Beaty|L|Walk|F|Four-Seam Fastball|15|2|0|2|12|94
+Jason Adam|R|Matt Beaty|L|Walk|B|Changeup|16|2|1|2|14|88
+Jason Adam|R|Matt Beaty|L|Walk|B|Four-Seam Fastball|17|3|1|2|11|94
+Jason Adam|R|Austin Nola|R|Single|B|Four-Seam Fastball|0|0|0|0|14|94
+Jason Adam|R|Austin Nola|R|Single|F|Four-Seam Fastball|1|1|0|0|11|94
+Jason Adam|R|Austin Nola|R|Single|C|Curveball|2|1|1|0|2|77
+Jason Adam|R|Austin Nola|R|Single|B|Four-Seam Fastball|3|1|2|0|12|94
+Jason Adam|R|Austin Nola|R|Single|D|Curveball|4|2|2|0|14|77
+Jason Adam|R|Kyle Seager|L|Pop Out|F|Four-Seam Fastball|5|0|0|0|9|94
+Jason Adam|R|Kyle Seager|L|Pop Out|B|Four-Seam Fastball|6|0|1|0|12|93
+Jason Adam|R|Kyle Seager|L|Pop Out|B|Four-Seam Fastball|7|1|1|0|13|95
+Jason Adam|R|Kyle Seager|L|Pop Out|F|Four-Seam Fastball|8|2|1|0|12|94
+Jason Adam|R|Kyle Seager|L|Pop Out|X|Curveball|9|2|2|0|5|77
+Jason Adam|R|Omar Narvaez|L|Sac Fly|F|Four-Seam Fastball|10|0|0|1|11|94
+Jason Adam|R|Omar Narvaez|L|Sac Fly|E|Curveball|11|0|1|1|13|77
+Jason Adam|R|Tom Murphy|R|Strikeout|B|Four-Seam Fastball|12|0|0|2|12|93
+Jason Adam|R|Tom Murphy|R|Strikeout|C|Curveball|13|1|0|2|9|77
+Jason Adam|R|Tom Murphy|R|Strikeout|S|Curveball|14|1|1|2|9|78
+Jason Adam|R|Tom Murphy|R|Strikeout|B|Four-Seam Fastball|15|1|2|2|12|94
+Jason Adam|R|Tom Murphy|R|Strikeout|C|Four-Seam Fastball|16|2|2|2|5|94
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|B|Curveball|0|0|0|0|14|78
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|1|95
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|B|Curveball|2|1|1|0|11|78
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|S|Changeup|3|2|1|0|13|89
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|B|Changeup|4|2|2|0|14|89
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|5|3|2|0|12|95
+Jason Adam|R|Travis d'Arnaud|R|Strikeout|S|Four-Seam Fastball|6|3|2|0|12|95
+Jason Adam|R|Austin Meadows|L|Single|B|Four-Seam Fastball|7|0|0|1|14|95
+Jason Adam|R|Austin Meadows|L|Single|F|Changeup|8|1|0|1|1|89
+Jason Adam|R|Austin Meadows|L|Single|B|Four-Seam Fastball|9|1|1|1|11|95
+Jason Adam|R|Austin Meadows|L|Single|B|Four-Seam Fastball|10|2|1|1|13|95
+Jason Adam|R|Austin Meadows|L|Single|D|Changeup|11|3|1|1|13|89
+Jason Adam|R|Michael Brosseau|R|Flyout|B|Curveball|12|0|0|1|14|77
+Jason Adam|R|Michael Brosseau|R|Flyout|S|Four-Seam Fastball|13|1|0|1|12|95
+Jason Adam|R|Michael Brosseau|R|Flyout|F|Four-Seam Fastball|14|1|1|1|12|95
+Jason Adam|R|Michael Brosseau|R|Flyout|*B|Curveball|15|1|2|1|14|80
+Jason Adam|R|Michael Brosseau|R|Flyout|X|Curveball|16|2|2|1|12|79
+Jason Adam|R|Eric Sogard|L|Intent Walk|V|N/A|17|0|0|2|0|0
+Jason Adam|R|Eric Sogard|L|Intent Walk|V|N/A|18|0|1|2|0|0
+Jason Adam|R|Eric Sogard|L|Intent Walk|V|N/A|19|0|2|2|0|0
+Jason Adam|R|Eric Sogard|L|Intent Walk|V|N/A|20|0|2|2|0|0
+Jason Adam|R|Avisail Garcia|R|Strikeout|C|Four-Seam Fastball|21|0|0|2|14|95
+Jason Adam|R|Avisail Garcia|R|Strikeout|S|Changeup|22|0|1|2|14|90
+Jason Adam|R|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|23|0|2|2|12|94
+Jason Adam|R|Avisail Garcia|R|Strikeout|*B|Changeup|24|1|2|2|14|90
+Jason Adam|R|Avisail Garcia|R|Strikeout|F|Changeup|25|2|2|2|11|89
+Jason Adam|R|Avisail Garcia|R|Strikeout|F|Four-Seam Fastball|26|2|2|2|12|95
+Jason Adam|R|Avisail Garcia|R|Strikeout|F|Changeup|27|2|2|2|13|89
+Jason Adam|R|Avisail Garcia|R|Strikeout|F|Changeup|28|2|2|2|11|89
+Jason Adam|R|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|29|2|2|2|11|94
+Jason Adam|R|Tommy Pham|R|Double|B|Curveball|0|0|0|2|11|75
+Jason Adam|R|Tommy Pham|R|Double|D|Four-Seam Fastball|1|1|0|2|6|95
+Jason Adam|R|Ji-Man Choi|L|Lineout|B|Four-Seam Fastball|2|0|0|2|11|94
+Jason Adam|R|Ji-Man Choi|L|Lineout|*B|Changeup|3|1|0|2|14|88
+Jason Adam|R|Ji-Man Choi|L|Lineout|F|Four-Seam Fastball|4|2|0|2|12|92
+Jason Adam|R|Ji-Man Choi|L|Lineout|C|Curveball|5|2|1|2|8|76
+Jason Adam|R|Ji-Man Choi|L|Lineout|X|Curveball|6|2|2|2|11|76
+Jason Adam|R|Travis d'Arnaud|R|Fielders Choice Out|B|Curveball|7|0|0|0|14|77
+Jason Adam|R|Travis d'Arnaud|R|Fielders Choice Out|S|Four-Seam Fastball|8|1|0|0|11|93
+Jason Adam|R|Travis d'Arnaud|R|Fielders Choice Out|B|Four-Seam Fastball|9|1|1|0|12|95
+Jason Adam|R|Travis d'Arnaud|R|Fielders Choice Out|C|Four-Seam Fastball|10|2|1|0|12|94
+Jason Adam|R|Travis d'Arnaud|R|Fielders Choice Out|X|Curveball|11|2|2|0|14|78
+Jason Adam|R|Kevin Kiermaier|L|Hit By Pitch|B|Four-Seam Fastball|12|0|0|1|14|94
+Jason Adam|R|Kevin Kiermaier|L|Hit By Pitch|C|Curveball|13|1|0|1|9|77
+Jason Adam|R|Kevin Kiermaier|L|Hit By Pitch|H|Curveball|14|1|1|1|14|79
+Jason Adam|R|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|15|0|0|1|14|95
+Jason Adam|R|Avisail Garcia|R|Strikeout|C|Four-Seam Fastball|16|1|0|1|8|94
+Jason Adam|R|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|17|1|1|1|14|94
+Jason Adam|R|Avisail Garcia|R|Strikeout|B|Curveball|18|2|1|1|14|77
+Jason Adam|R|Avisail Garcia|R|Strikeout|C|Curveball|19|3|1|1|6|77
+Jason Adam|R|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|20|3|2|1|12|94
+Jason Adam|R|Nate Lowe|L|Strikeout|C|Curveball|0|0|0|2|3|76
+Jason Adam|R|Nate Lowe|L|Strikeout|S|Four-Seam Fastball|1|0|1|2|12|94
+Jason Adam|R|Nate Lowe|L|Strikeout|B|Four-Seam Fastball|2|0|2|2|12|94
+Jason Adam|R|Nate Lowe|L|Strikeout|*B|Curveball|3|1|2|2|14|78
+Jason Adam|R|Nate Lowe|L|Strikeout|F|Changeup|4|2|2|2|4|90
+Jason Adam|R|Nate Lowe|L|Strikeout|S|Four-Seam Fastball|5|2|2|2|11|94
+Jason Adam|R|Kean Wong|L|Single|M|Changeup|6|0|0|0|14|88
+Jason Adam|R|Kean Wong|L|Single|B|Four-Seam Fastball|7|0|1|0|12|93
+Jason Adam|R|Kean Wong|L|Single|B|Changeup|8|1|1|0|11|88
+Jason Adam|R|Kean Wong|L|Single|D|Four-Seam Fastball|9|2|1|0|14|93
+Jason Adam|R|Daniel Robertson|R|Double|L|Four-Seam Fastball|10|0|0|0|11|93
+Jason Adam|R|Daniel Robertson|R|Double|B|Curveball|11|0|1|0|14|76
+Jason Adam|R|Daniel Robertson|R|Double|B|Curveball|12|1|1|0|14|78
+Jason Adam|R|Daniel Robertson|R|Double|B|Four-Seam Fastball|13|2|1|0|14|94
+Jason Adam|R|Daniel Robertson|R|Double|S|Four-Seam Fastball|14|3|1|0|12|93
+Jason Adam|R|Daniel Robertson|R|Double|F|Four-Seam Fastball|15|3|2|0|6|94
+Jason Adam|R|Daniel Robertson|R|Double|E|Curveball|16|3|2|0|6|77
+Jason Adam|R|Aaron Judge|R|Pop Out|B|Curveball|0|0|0|1|14|78
+Jason Adam|R|Aaron Judge|R|Pop Out|B|Four-Seam Fastball|1|1|0|1|11|93
+Jason Adam|R|Aaron Judge|R|Pop Out|B|Curveball|2|2|0|1|14|78
+Jason Adam|R|Aaron Judge|R|Pop Out|F|Four-Seam Fastball|3|3|0|1|6|94
+Jason Adam|R|Aaron Judge|R|Pop Out|X|Four-Seam Fastball|4|3|1|1|4|94
+Jason Adam|R|Gio Urshela|R|Flyout|X|Four-Seam Fastball|5|0|0|2|4|94
+Jason Adam|R|Didi Gregorius|L|Lineout|C|Four-Seam Fastball|6|0|0|0|12|93
+Jason Adam|R|Didi Gregorius|L|Lineout|S|Curveball|7|0|1|0|14|78
+Jason Adam|R|Didi Gregorius|L|Lineout|F|Four-Seam Fastball|8|0|2|0|12|94
+Jason Adam|R|Didi Gregorius|L|Lineout|X|Curveball|9|0|2|0|14|80
+Jason Adam|R|Cameron Maybin|R|Groundout|C|Curveball|10|0|0|1|14|79
+Jason Adam|R|Cameron Maybin|R|Groundout|S|Four-Seam Fastball|11|0|1|1|2|94
+Jason Adam|R|Cameron Maybin|R|Groundout|B|Curveball|12|0|2|1|14|79
+Jason Adam|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|13|1|2|1|11|94
+Jason Adam|R|Cameron Maybin|R|Groundout|F|Four-Seam Fastball|14|2|2|1|11|94
+Jason Adam|R|Cameron Maybin|R|Groundout|X|Four-Seam Fastball|15|2|2|1|7|95
+Jason Adam|R|Mike Tauchman|L|Flyout|B|Curveball|16|0|0|2|12|78
+Jason Adam|R|Mike Tauchman|L|Flyout|B|Curveball|17|1|0|2|14|79
+Jason Adam|R|Mike Tauchman|L|Flyout|X|Four-Seam Fastball|18|2|0|2|6|94
+Jason Adam|R|Austin Romine|R|Single|F|Four-Seam Fastball|19|0|0|0|3|93
+Jason Adam|R|Austin Romine|R|Single|D|Curveball|20|0|1|0|14|79
+Jason Adam|R|Mike Ford|L|Hit By Pitch|H|Curveball|21|0|0|0|14|79
+Jason Adam|R|Breyvic Valera|L|Flyout|C|Four-Seam Fastball|22|0|0|0|12|93
+Jason Adam|R|Breyvic Valera|L|Flyout|B|Changeup|23|0|1|0|11|89
+Jason Adam|R|Breyvic Valera|L|Flyout|B|Four-Seam Fastball|24|1|1|0|12|93
+Jason Adam|R|Breyvic Valera|L|Flyout|B|Four-Seam Fastball|25|2|1|0|11|92
+Jason Adam|R|Breyvic Valera|L|Flyout|X|Four-Seam Fastball|26|3|1|0|14|93
+Jason Adam|R|DJ LeMahieu|R|Flyout|X|Four-Seam Fastball|27|0|0|1|8|93
+Jason Adam|R|Aaron Judge|R|Flyout|B|Four-Seam Fastball|28|0|0|2|11|93
+Jason Adam|R|Aaron Judge|R|Flyout|*B|Curveball|29|1|0|2|14|79
+Jason Adam|R|Aaron Judge|R|Flyout|B|Four-Seam Fastball|30|2|0|2|13|94
+Jason Adam|R|Aaron Judge|R|Flyout|X|Four-Seam Fastball|31|3|0|2|2|95
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|B|Four-Seam Fastball|0|0|0|1|11|93
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|B|Changeup|1|1|0|1|14|88
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|S|Four-Seam Fastball|2|2|0|1|5|95
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|B|Four-Seam Fastball|3|2|1|1|11|95
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|S|Four-Seam Fastball|4|3|1|1|3|95
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|F|Four-Seam Fastball|5|3|2|1|6|96
+Jason Adam|R|DJ LeMahieu|R|Sac Fly|E|Four-Seam Fastball|6|3|2|1|6|95
+Jason Adam|R|Aaron Judge|R|Walk|C|Four-Seam Fastball|7|0|0|2|6|94
+Jason Adam|R|Aaron Judge|R|Walk|*B|Curveball|8|0|1|2|13|78
+Jason Adam|R|Aaron Judge|R|Walk|B|Four-Seam Fastball|9|1|1|2|12|96
+Jason Adam|R|Aaron Judge|R|Walk|B|Four-Seam Fastball|10|2|1|2|14|95
+Jason Adam|R|Aaron Judge|R|Walk|F|Four-Seam Fastball|11|3|1|2|4|94
+Jason Adam|R|Aaron Judge|R|Walk|B|Four-Seam Fastball|12|3|2|2|14|96
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Four-Seam Fastball|13|0|0|2|12|93
+Jason Adam|R|Didi Gregorius|L|Groundout|S|Four-Seam Fastball|14|1|0|2|12|94
+Jason Adam|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|15|1|1|2|3|94
+Jason Adam|R|Didi Gregorius|L|Groundout|F|Changeup|16|1|2|2|13|88
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Changeup|17|1|2|2|13|88
+Jason Adam|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|18|2|2|2|6|94
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Changeup|19|2|2|2|13|88
+Jason Adam|R|Didi Gregorius|L|Groundout|X|Changeup|20|3|2|2|13|89
+Jason Adam|R|Gary Sanchez|R|Strikeout|S|Four-Seam Fastball|21|0|0|0|11|93
+Jason Adam|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|22|0|1|0|12|93
+Jason Adam|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|23|1|1|0|12|94
+Jason Adam|R|Gary Sanchez|R|Strikeout|F|Four-Seam Fastball|24|2|1|0|2|94
+Jason Adam|R|Gary Sanchez|R|Strikeout|F|Four-Seam Fastball|25|2|2|0|12|94
+Jason Adam|R|Gary Sanchez|R|Strikeout|S|Four-Seam Fastball|26|2|2|0|11|94
+Jason Adam|R|Gio Urshela|R|Strikeout|B|Four-Seam Fastball|27|0|0|1|14|95
+Jason Adam|R|Gio Urshela|R|Strikeout|S|Four-Seam Fastball|28|1|0|1|3|94
+Jason Adam|R|Gio Urshela|R|Strikeout|B|Curveball|29|1|1|1|14|80
+Jason Adam|R|Gio Urshela|R|Strikeout|S|Four-Seam Fastball|30|2|1|1|6|94
+Jason Adam|R|Gio Urshela|R|Strikeout|S|Four-Seam Fastball|31|2|2|1|3|95
+Jason Adam|R|Dansby Swanson|R|Lineout|B|Curveball|0|0|0|2|14|77
+Jason Adam|R|Dansby Swanson|R|Lineout|F|Four-Seam Fastball|1|1|0|2|6|94
+Jason Adam|R|Dansby Swanson|R|Lineout|C|Curveball|2|1|1|2|3|77
+Jason Adam|R|Dansby Swanson|R|Lineout|*B|Curveball|3|1|2|2|14|78
+Jason Adam|R|Dansby Swanson|R|Lineout|B|Four-Seam Fastball|4|2|2|2|12|93
+Jason Adam|R|Dansby Swanson|R|Lineout|X|Four-Seam Fastball|5|3|2|2|9|94
+Jason Adam|R|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|0|0|0|2|6|94
+Jason Adam|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|1|0|1|2|12|94
+Jason Adam|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|2|1|1|2|6|94
+Jason Adam|R|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|3|1|2|2|5|95
+Jason Adam|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|4|1|2|2|5|96
+Jason Adam|R|Ozzie Albies|L|Walk|B|Changeup|5|0|0|0|14|88
+Jason Adam|R|Ozzie Albies|L|Walk|T|Four-Seam Fastball|6|1|0|0|1|94
+Jason Adam|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|7|1|1|0|11|95
+Jason Adam|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|8|2|1|0|11|94
+Jason Adam|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|9|3|1|0|13|93
+Jason Adam|R|Freddie Freeman|L|Hit By Pitch|B|Four-Seam Fastball|10|0|0|0|12|93
+Jason Adam|R|Freddie Freeman|L|Hit By Pitch|*B|Changeup|11|1|0|0|13|87
+Jason Adam|R|Freddie Freeman|L|Hit By Pitch|H|Curveball|12|2|0|0|12|76
+Jason Adam|R|Josh Donaldson|R|Walk|B|Curveball|13|0|0|0|14|77
+Jason Adam|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|14|1|0|0|14|94
+Jason Adam|R|Josh Donaldson|R|Walk|F|Four-Seam Fastball|15|2|0|0|5|95
+Jason Adam|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|16|2|1|0|12|94
+Jason Adam|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|17|3|1|0|14|94
+Jason Adam|R|Yordan Alvarez|L|Single|C|Curveball|0|0|0|0|12|76
+Jason Adam|R|Yordan Alvarez|L|Single|B|Four-Seam Fastball|1|0|1|0|11|94
+Jason Adam|R|Yordan Alvarez|L|Single|C|Four-Seam Fastball|2|1|1|0|1|93
+Jason Adam|R|Yordan Alvarez|L|Single|B|Curveball|3|1|2|0|14|76
+Jason Adam|R|Yordan Alvarez|L|Single|B|Curveball|4|2|2|0|13|76
+Jason Adam|R|Yordan Alvarez|L|Single|D|Four-Seam Fastball|5|3|2|0|9|94
+Jason Adam|R|Yuli Gurriel|R|Double|B|Curveball|6|0|0|0|14|76
+Jason Adam|R|Yuli Gurriel|R|Double|D|Four-Seam Fastball|7|1|0|0|5|94
+Jason Adam|R|Aledmys Diaz|R|Sac Fly|S|Four-Seam Fastball|8|0|0|0|11|95
+Jason Adam|R|Aledmys Diaz|R|Sac Fly|*B|Curveball|9|0|1|0|14|77
+Jason Adam|R|Aledmys Diaz|R|Sac Fly|E|Four-Seam Fastball|10|1|1|0|3|95
+Jason Adam|R|Robinson Chirinos|R|Pop Out|S|Curveball|11|0|0|1|14|78
+Jason Adam|R|Robinson Chirinos|R|Pop Out|X|Four-Seam Fastball|12|0|1|1|1|94
+Jason Adam|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|13|0|0|2|12|93
+Jason Adam|R|Josh Reddick|L|Walk|C|Four-Seam Fastball|14|1|0|2|13|93
+Jason Adam|R|Josh Reddick|L|Walk|B|Four-Seam Fastball|15|1|1|2|13|94
+Jason Adam|R|Josh Reddick|L|Walk|F|Four-Seam Fastball|16|2|1|2|8|94
+Jason Adam|R|Josh Reddick|L|Walk|B|Curveball|17|2|2|2|14|78
+Jason Adam|R|Josh Reddick|L|Walk|*B|Curveball|18|3|2|2|14|77
+Jason Adam|R|George Springer|R|Double|C|Curveball|19|0|0|2|6|78
+Jason Adam|R|George Springer|R|Double|B|Curveball|20|0|1|2|14|78
+Jason Adam|R|George Springer|R|Double|S|Four-Seam Fastball|21|1|1|2|3|94
+Jason Adam|R|George Springer|R|Double|E|Four-Seam Fastball|22|1|2|2|14|95
+Jason Adam|R|Jose Altuve|R|Flyout|B|Curveball|23|0|0|2|14|78
+Jason Adam|R|Jose Altuve|R|Flyout|C|Curveball|24|1|0|2|14|77
+Jason Adam|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|25|1|1|2|12|93
+Jason Adam|R|Juan Centeno|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|12|94
+Jason Adam|R|Juan Centeno|L|Pop Out|F|Four-Seam Fastball|1|1|0|0|4|94
+Jason Adam|R|Juan Centeno|L|Pop Out|B|Changeup|2|1|1|0|14|90
+Jason Adam|R|Juan Centeno|L|Pop Out|B|Four-Seam Fastball|3|2|1|0|11|94
+Jason Adam|R|Juan Centeno|L|Pop Out|X|Four-Seam Fastball|4|3|1|0|12|95
+Jason Adam|R|Jackie Bradley Jr.|L|Groundout|B|Curveball|5|0|0|1|11|77
+Jason Adam|R|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|6|1|0|1|13|94
+Jason Adam|R|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|7|1|1|1|11|95
+Jason Adam|R|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|8|2|1|1|5|94
+Jason Adam|R|Marco Hernandez|L|Flyout|B|Four-Seam Fastball|9|0|0|2|11|94
+Jason Adam|R|Marco Hernandez|L|Flyout|F|Four-Seam Fastball|10|1|0|2|6|94
+Jason Adam|R|Marco Hernandez|L|Flyout|X|Four-Seam Fastball|11|1|1|2|12|94
+Jason Adam|R|Gio Urshela|R|Single|B|Curveball|0|0|0|1|14|76
+Jason Adam|R|Gio Urshela|R|Single|B|Four-Seam Fastball|1|1|0|1|14|93
+Jason Adam|R|Gio Urshela|R|Single|F|Four-Seam Fastball|2|2|0|1|12|91
+Jason Adam|R|Gio Urshela|R|Single|C|Curveball|3|2|1|1|2|76
+Jason Adam|R|Gio Urshela|R|Single|F|Four-Seam Fastball|4|2|2|1|12|93
+Jason Adam|R|Gio Urshela|R|Single|E|Curveball|5|2|2|1|8|75
+Jason Adam|R|Cameron Maybin|R|Walk|C|Curveball|0|0|0|2|7|74
+Jason Adam|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|1|0|1|2|12|91
+Jason Adam|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|2|1|1|2|12|92
+Jason Adam|R|Cameron Maybin|R|Walk|C|Curveball|3|2|1|2|8|75
+Jason Adam|R|Cameron Maybin|R|Walk|B|Changeup|4|2|2|2|13|89
+Jason Adam|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|5|3|2|2|11|91
+Jason Adam|R|Kyle Higashioka|R|Pop Out|X|Four-Seam Fastball|6|0|0|2|1|91
+Jason Adam|R|Jonathan Villar|L|Flyout|B|Curveball|0|0|0|0|11|75
+Jason Adam|R|Jonathan Villar|L|Flyout|B|Four-Seam Fastball|1|1|0|0|11|93
+Jason Adam|R|Jonathan Villar|L|Flyout|C|Four-Seam Fastball|2|2|0|0|1|93
+Jason Adam|R|Jonathan Villar|L|Flyout|X|Curveball|3|2|1|0|5|75
+Jason Adam|R|Austin Hays|R|Strikeout|C|Curveball|4|0|0|1|4|77
+Jason Adam|R|Austin Hays|R|Strikeout|B|Curveball|5|0|1|1|14|78
+Jason Adam|R|Austin Hays|R|Strikeout|S|Four-Seam Fastball|6|1|1|1|11|93
+Jason Adam|R|Austin Hays|R|Strikeout|B|Four-Seam Fastball|7|1|2|1|11|93
+Jason Adam|R|Austin Hays|R|Strikeout|F|Curveball|8|2|2|1|9|77
+Jason Adam|R|Austin Hays|R|Strikeout|C|Four-Seam Fastball|9|2|2|1|6|94
+Jason Adam|R|Trey Mancini|R|Pop Out|F|Four-Seam Fastball|10|0|0|2|5|93
+Jason Adam|R|Trey Mancini|R|Pop Out|F|Four-Seam Fastball|11|0|1|2|2|94
+Jason Adam|R|Trey Mancini|R|Pop Out|B|Curveball|12|0|2|2|14|78
+Jason Adam|R|Trey Mancini|R|Pop Out|X|Four-Seam Fastball|13|1|2|2|11|93
+Jason Adam|R|Rio Ruiz|L|Single|B|Curveball|0|0|0|0|14|75
+Jason Adam|R|Rio Ruiz|L|Single|T|Four-Seam Fastball|1|1|0|0|2|92
+Jason Adam|R|Rio Ruiz|L|Single|B|Four-Seam Fastball|2|1|1|0|12|94
+Jason Adam|R|Rio Ruiz|L|Single|F|Four-Seam Fastball|3|2|1|0|2|94
+Jason Adam|R|Rio Ruiz|L|Single|D|Changeup|4|2|2|0|8|90
+Jason Adam|R|Hanser Alberto|R|Strikeout|C|Curveball|5|0|0|0|6|77
+Jason Adam|R|Hanser Alberto|R|Strikeout|S|Changeup|6|0|1|0|4|90
+Jason Adam|R|Hanser Alberto|R|Strikeout|F|Four-Seam Fastball|7|0|2|0|12|94
+Jason Adam|R|Hanser Alberto|R|Strikeout|F|Four-Seam Fastball|8|0|2|0|12|94
+Jason Adam|R|Hanser Alberto|R|Strikeout|*B|Curveball|9|0|2|0|14|79
+Jason Adam|R|Hanser Alberto|R|Strikeout|T|Four-Seam Fastball|10|1|2|0|11|95
+Jason Adam|R|DJ Stewart|L|Strikeout|C|Curveball|11|0|0|1|5|77
+Jason Adam|R|DJ Stewart|L|Strikeout|B|Four-Seam Fastball|12|0|1|1|11|94
+Jason Adam|R|DJ Stewart|L|Strikeout|B|Changeup|13|1|1|1|13|89
+Jason Adam|R|DJ Stewart|L|Strikeout|F|Curveball|14|2|1|1|9|76
+Jason Adam|R|DJ Stewart|L|Strikeout|S|Four-Seam Fastball|15|2|2|1|6|93
+Jason Adam|R|Chris Davis|L|Walk|B|Four-Seam Fastball|16|0|0|2|3|94
+Jason Adam|R|Chris Davis|L|Walk|B|Changeup|17|1|0|2|11|88
+Jason Adam|R|Chris Davis|L|Walk|B|Four-Seam Fastball|18|2|0|2|14|93
+Jason Adam|R|Chris Davis|L|Walk|B|Four-Seam Fastball|19|3|0|2|11|93
+Jason Adam|R|Austin Wynns|R|Lineout|B|Curveball|20|0|0|2|14|76
+Jason Adam|R|Austin Wynns|R|Lineout|B|Four-Seam Fastball|21|1|0|2|12|92
+Jason Adam|R|Austin Wynns|R|Lineout|B|Four-Seam Fastball|22|2|0|2|11|92
+Jason Adam|R|Austin Wynns|R|Lineout|C|Four-Seam Fastball|23|3|0|2|5|93
+Jason Adam|R|Austin Wynns|R|Lineout|X|Four-Seam Fastball|24|3|1|2|14|93
+Jason Adam|R|Tommy Pham|R|Walk|B|Curveball|0|0|0|0|14|76
+Jason Adam|R|Tommy Pham|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|95
+Jason Adam|R|Tommy Pham|R|Walk|S|Four-Seam Fastball|2|2|0|0|11|95
+Jason Adam|R|Tommy Pham|R|Walk|B|Four-Seam Fastball|3|2|1|0|12|94
+Jason Adam|R|Tommy Pham|R|Walk|F|Four-Seam Fastball|4|3|1|0|12|94
+Jason Adam|R|Tommy Pham|R|Walk|B|Four-Seam Fastball|5|3|2|0|11|95
+Jason Adam|R|Brandon Lowe|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|12|93
+Jason Adam|R|Brandon Lowe|L|Strikeout|T|Changeup|7|1|0|0|13|89
+Jason Adam|R|Brandon Lowe|L|Strikeout|F|Changeup|8|1|1|0|5|90
+Jason Adam|R|Brandon Lowe|L|Strikeout|S|Four-Seam Fastball|9|1|2|0|1|94
+Jason Adam|R|Jesus Aguilar|R|Flyout|C|Four-Seam Fastball|10|0|0|1|8|94
+Jason Adam|R|Jesus Aguilar|R|Flyout|X|Four-Seam Fastball|11|0|1|1|3|94
+Jason Adam|R|Nate Lowe|L|Pop Out|X|Four-Seam Fastball|12|0|0|2|12|93
+Jason Adam|R|Michael Brosseau|R|Single|B|Curveball|0|0|0|1|12|76
+Jason Adam|R|Michael Brosseau|R|Single|B|Curveball|1|1|0|1|14|75
+Jason Adam|R|Michael Brosseau|R|Single|D|Four-Seam Fastball|2|2|0|1|5|92
+Jason Adam|R|Daniel Robertson|R|Forceout|X|Four-Seam Fastball|3|0|0|1|2|92
+Jason Adam|R|Nate Lowe|L|Lineout|B|Curveball|4|0|0|2|12|77
+Jason Adam|R|Nate Lowe|L|Lineout|C|Four-Seam Fastball|5|1|0|2|7|93
+Jason Adam|R|Nate Lowe|L|Lineout|X|Changeup|6|1|1|2|9|89
+Jason Adam|R|Ozzie Albies|L|Groundout|B|Changeup|0|0|0|0|11|88
+Jason Adam|R|Ozzie Albies|L|Groundout|B|Four-Seam Fastball|1|1|0|0|11|93
+Jason Adam|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|2|2|0|0|7|94
+Jason Adam|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|3|2|1|0|3|93
+Jason Adam|R|Ozzie Albies|L|Groundout|B|Changeup|4|2|2|0|14|89
+Jason Adam|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|5|3|2|0|4|93
+Jason Adam|R|Ozzie Albies|L|Groundout|X|Four-Seam Fastball|6|3|2|0|5|94
+Jason Adam|R|Freddie Freeman|L|Pop Out|S|Changeup|7|0|0|1|7|88
+Jason Adam|R|Freddie Freeman|L|Pop Out|F|Four-Seam Fastball|8|0|1|1|4|94
+Jason Adam|R|Freddie Freeman|L|Pop Out|X|Four-Seam Fastball|9|0|2|1|11|94
+Jason Adam|R|Josh Donaldson|R|Strikeout|C|Four-Seam Fastball|10|0|0|2|5|94
+Jason Adam|R|Josh Donaldson|R|Strikeout|B|Changeup|11|0|1|2|13|89
+Jason Adam|R|Josh Donaldson|R|Strikeout|C|Curveball|12|1|1|2|1|77
+Jason Adam|R|Josh Donaldson|R|Strikeout|F|Curveball|13|1|2|2|6|77
+Jason Adam|R|Josh Donaldson|R|Strikeout|C|Changeup|14|1|2|2|8|90
+Jason Adam|R|Matt Joyce|L|Groundout|X|Four-Seam Fastball|15|0|0|0|5|93
+Jason Adam|R|Dansby Swanson|R|Single|C|Four-Seam Fastball|16|0|0|1|9|93
+Jason Adam|R|Dansby Swanson|R|Single|B|Curveball|17|0|1|1|11|76
+Jason Adam|R|Dansby Swanson|R|Single|C|Curveball|18|1|1|1|3|77
+Jason Adam|R|Dansby Swanson|R|Single|D|Four-Seam Fastball|19|1|2|1|12|93
+Jason Adam|R|Francisco Cervelli|R|Grounded Into DP|B|Four-Seam Fastball|20|0|0|1|14|92
+Jason Adam|R|Francisco Cervelli|R|Grounded Into DP|S|Four-Seam Fastball|21|1|0|1|3|93
+Jason Adam|R|Francisco Cervelli|R|Grounded Into DP|F|Four-Seam Fastball|22|1|1|1|6|93
+Jason Adam|R|Francisco Cervelli|R|Grounded Into DP|X|Curveball|23|1|2|1|1|76
+Jason Adam|R|Didi Gregorius|L|Groundout|C|Four-Seam Fastball|0|0|0|0|11|94
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Changeup|1|0|1|0|14|90
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Changeup|2|1|1|0|13|90
+Jason Adam|R|Didi Gregorius|L|Groundout|B|Four-Seam Fastball|3|2|1|0|12|95
+Jason Adam|R|Didi Gregorius|L|Groundout|F|Four-Seam Fastball|4|3|1|0|2|95
+Jason Adam|R|Didi Gregorius|L|Groundout|X|Four-Seam Fastball|5|3|2|0|6|94
+Jason Adam|R|Gleyber Torres|R|Strikeout|C|Four-Seam Fastball|6|0|0|1|1|95
+Jason Adam|R|Gleyber Torres|R|Strikeout|B|Four-Seam Fastball|7|0|1|1|12|95
+Jason Adam|R|Gleyber Torres|R|Strikeout|C|Curveball|8|1|1|1|1|78
+Jason Adam|R|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|9|1|2|1|12|94
+Jason Adam|R|Luke Voit|R|Strikeout|B|Curveball|10|0|0|2|13|77
+Jason Adam|R|Luke Voit|R|Strikeout|S|Four-Seam Fastball|11|1|0|2|11|94
+Jason Adam|R|Luke Voit|R|Strikeout|F|Four-Seam Fastball|12|1|1|2|6|95
+Jason Adam|R|Luke Voit|R|Strikeout|B|Four-Seam Fastball|13|1|2|2|12|94
+Jason Adam|R|Luke Voit|R|Strikeout|S|Four-Seam Fastball|14|2|2|2|11|94
+Jason Adam|R|DJ LeMahieu|R|Pop Out|T|Four-Seam Fastball|0|0|0|0|2|94
+Jason Adam|R|DJ LeMahieu|R|Pop Out|B|Curveball|1|0|1|0|14|78
+Jason Adam|R|DJ LeMahieu|R|Pop Out|B|Changeup|2|1|1|0|13|90
+Jason Adam|R|DJ LeMahieu|R|Pop Out|B|Curveball|3|2|1|0|11|77
+Jason Adam|R|DJ LeMahieu|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|1|94
+Jason Adam|R|Aaron Judge|R|Strikeout|T|Four-Seam Fastball|5|0|0|1|3|94
+Jason Adam|R|Aaron Judge|R|Strikeout|B|Changeup|6|0|1|1|13|91
+Jason Adam|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|7|1|1|1|11|93
+Jason Adam|R|Aaron Judge|R|Strikeout|C|Four-Seam Fastball|8|1|2|1|5|96
+Jason Adam|R|Thairo Estrada|R|Groundout|C|Curveball|9|0|0|2|4|77
+Jason Adam|R|Thairo Estrada|R|Groundout|S|Curveball|10|0|1|2|14|79
+Jason Adam|R|Thairo Estrada|R|Groundout|X|Four-Seam Fastball|11|0|2|2|14|95

@@ -1,0 +1,385 @@
+Tim Stauffer|R|Ian Kinsler|R|Double|C|Changeup|0|0|0|0|8|81
+Tim Stauffer|R|Ian Kinsler|R|Double|C|Two-Seam Fastball|1|0|1|0|14|88
+Tim Stauffer|R|Ian Kinsler|R|Double|F|Changeup|2|0|2|0|13|78
+Tim Stauffer|R|Ian Kinsler|R|Double|E|Curveball|3|0|2|0|9|72
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|C|Two-Seam Fastball|4|0|0|0|9|88
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|B|Two-Seam Fastball|5|0|1|0|11|88
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|F|Changeup|6|1|1|0|13|78
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|B|Two-Seam Fastball|7|1|2|0|14|89
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|F|Two-Seam Fastball|8|2|2|0|12|88
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|F|Changeup|9|2|2|0|14|79
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|B|Two-Seam Fastball|10|2|2|0|14|90
+Tim Stauffer|R|Miguel Cabrera|R|Groundout|X|Changeup|11|3|2|0|14|78
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|I|Intentional Ball|12|0|0|1|11|72
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|I|Intentional Ball|13|0|1|1|11|77
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|I|Intentional Ball|14|0|2|1|11|75
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|I|Intentional Ball|15|0|2|1|11|74
+Tim Stauffer|R|J.D. Martinez|R|Lineout|B|Curveball|16|0|0|1|14|71
+Tim Stauffer|R|J.D. Martinez|R|Lineout|B|Changeup|17|1|0|1|14|78
+Tim Stauffer|R|J.D. Martinez|R|Lineout|F|Two-Seam Fastball|18|2|0|1|8|87
+Tim Stauffer|R|J.D. Martinez|R|Lineout|C|Two-Seam Fastball|19|2|1|1|14|89
+Tim Stauffer|R|J.D. Martinez|R|Lineout|X|Changeup|20|2|2|1|14|78
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|B|Curveball|21|0|0|2|14|73
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|B|Two-Seam Fastball|22|1|0|2|12|87
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|X|Two-Seam Fastball|23|2|0|2|6|88
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|C|Two-Seam Fastball|24|0|0|0|9|87
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|C|Two-Seam Fastball|25|0|1|0|14|87
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|F|Two-Seam Fastball|26|0|2|0|6|89
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|B|Changeup|27|0|2|0|13|79
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|F|Two-Seam Fastball|28|1|2|0|5|89
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|B|Changeup|29|1|2|0|14|78
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|B|Changeup|30|2|2|0|14|79
+Tim Stauffer|R|Nicholas Castellanos|R|Groundout|X|Two-Seam Fastball|31|3|2|0|6|88
+Tim Stauffer|R|Alex Avila|L|Walk|S|Changeup|32|0|0|1|13|78
+Tim Stauffer|R|Alex Avila|L|Walk|B|Two-Seam Fastball|33|0|1|1|11|89
+Tim Stauffer|R|Alex Avila|L|Walk|B|Curveball|34|1|1|1|14|72
+Tim Stauffer|R|Alex Avila|L|Walk|C|Two-Seam Fastball|35|2|1|1|11|87
+Tim Stauffer|R|Alex Avila|L|Walk|F|Changeup|36|2|2|1|4|78
+Tim Stauffer|R|Alex Avila|L|Walk|B|Two-Seam Fastball|37|2|2|1|12|88
+Tim Stauffer|R|Alex Avila|L|Walk|B|Two-Seam Fastball|38|3|2|1|11|87
+Tim Stauffer|R|Jose Iglesias|R|Single|C|Two-Seam Fastball|39|0|0|1|3|87
+Tim Stauffer|R|Jose Iglesias|R|Single|D|Two-Seam Fastball|40|0|1|1|4|87
+Tim Stauffer|R|Anthony Gose|L|Single|F|Two-Seam Fastball|41|0|0|1|6|87
+Tim Stauffer|R|Anthony Gose|L|Single|D|Two-Seam Fastball|42|0|1|1|5|88
+Tim Stauffer|R|Ian Kinsler|R|Sac Fly|C|Two-Seam Fastball|43|0|0|1|3|88
+Tim Stauffer|R|Ian Kinsler|R|Sac Fly|B|Two-Seam Fastball|44|0|1|1|14|87
+Tim Stauffer|R|Ian Kinsler|R|Sac Fly|S|Two-Seam Fastball|45|1|1|1|11|87
+Tim Stauffer|R|Ian Kinsler|R|Sac Fly|E|Changeup|46|1|2|1|14|79
+Tim Stauffer|R|Miguel Cabrera|R|Single|E|Two-Seam Fastball|47|0|0|2|9|88
+Tim Stauffer|R|Alex Rios|R|Flyout|B|Slider|0|0|0|1|14|83
+Tim Stauffer|R|Alex Rios|R|Flyout|B|Slider|1|1|0|1|14|82
+Tim Stauffer|R|Alex Rios|R|Flyout|C|Two-Seam Fastball|2|2|0|1|14|88
+Tim Stauffer|R|Alex Rios|R|Flyout|X|Changeup|3|2|1|1|9|79
+Tim Stauffer|R|Salvador Perez|R|Single|B|Slider|4|0|0|2|14|83
+Tim Stauffer|R|Salvador Perez|R|Single|C|Two-Seam Fastball|5|1|0|2|14|88
+Tim Stauffer|R|Salvador Perez|R|Single|B|Changeup|6|1|1|2|11|77
+Tim Stauffer|R|Salvador Perez|R|Single|B|Slider|7|2|1|2|12|83
+Tim Stauffer|R|Salvador Perez|R|Single|E|Slider|8|3|1|2|9|83
+Tim Stauffer|R|Omar Infante|R|Forceout|*B|Two-Seam Fastball|9|0|0|2|14|89
+Tim Stauffer|R|Omar Infante|R|Forceout|X|Two-Seam Fastball|10|1|0|2|9|88
+Tim Stauffer|R|Alcides Escobar|R|Groundout|C|Two-Seam Fastball|11|0|0|0|6|87
+Tim Stauffer|R|Alcides Escobar|R|Groundout|C|Two-Seam Fastball|12|0|1|0|13|88
+Tim Stauffer|R|Alcides Escobar|R|Groundout|X|Two-Seam Fastball|13|0|2|0|5|87
+Tim Stauffer|R|Mike Moustakas|L|Groundout|C|Curveball|14|0|0|1|4|70
+Tim Stauffer|R|Mike Moustakas|L|Groundout|B|Two-Seam Fastball|15|0|1|1|12|88
+Tim Stauffer|R|Mike Moustakas|L|Groundout|C|Two-Seam Fastball|16|1|1|1|3|88
+Tim Stauffer|R|Mike Moustakas|L|Groundout|X|Changeup|17|1|2|1|13|78
+Tim Stauffer|R|Lorenzo Cain|R|Groundout|B|Slider|18|0|0|2|14|84
+Tim Stauffer|R|Lorenzo Cain|R|Groundout|F|Slider|19|1|0|2|6|82
+Tim Stauffer|R|Lorenzo Cain|R|Groundout|B|Curveball|20|1|1|2|14|72
+Tim Stauffer|R|Lorenzo Cain|R|Groundout|F|Changeup|21|2|1|2|4|78
+Tim Stauffer|R|Lorenzo Cain|R|Groundout|X|Two-Seam Fastball|22|2|2|2|7|87
+Tim Stauffer|R|Eric Hosmer|L|Single|C|Slider|23|0|0|0|14|83
+Tim Stauffer|R|Eric Hosmer|L|Single|B|Two-Seam Fastball|24|0|1|0|13|87
+Tim Stauffer|R|Eric Hosmer|L|Single|D|Four-Seam Fastball|25|1|1|0|9|87
+Tim Stauffer|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|26|0|0|0|11|87
+Tim Stauffer|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|27|1|0|0|13|87
+Tim Stauffer|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|28|2|0|0|13|87
+Tim Stauffer|R|Kendrys Morales|L|Walk|B|Two-Seam Fastball|29|3|0|0|11|86
+Tim Stauffer|R|Alcides Escobar|R|Forceout|B|Slider|0|0|0|1|14|82
+Tim Stauffer|R|Alcides Escobar|R|Forceout|X|Two-Seam Fastball|1|1|0|1|11|87
+Tim Stauffer|R|Carlos Santana|L|Strikeout|C|Slider|0|0|0|0|11|82
+Tim Stauffer|R|Carlos Santana|L|Strikeout|B|Two-Seam Fastball|1|0|1|0|13|88
+Tim Stauffer|R|Carlos Santana|L|Strikeout|F|Two-Seam Fastball|2|1|1|0|13|88
+Tim Stauffer|R|Carlos Santana|L|Strikeout|C|Slider|3|1|2|0|9|83
+Tim Stauffer|R|Brandon Moss|L|Home Run|E|Two-Seam Fastball|4|0|0|1|11|88
+Tim Stauffer|R|David Murphy|L|Strikeout|B|Slider|5|0|0|1|13|83
+Tim Stauffer|R|David Murphy|L|Strikeout|C|Two-Seam Fastball|6|1|0|1|13|88
+Tim Stauffer|R|David Murphy|L|Strikeout|F|Changeup|7|1|1|1|7|79
+Tim Stauffer|R|David Murphy|L|Strikeout|B|Slider|8|1|2|1|12|83
+Tim Stauffer|R|David Murphy|L|Strikeout|W|Changeup|9|2|2|1|13|79
+Tim Stauffer|R|Lonnie Chisenhall|L|Single|C|Slider|10|0|0|2|4|83
+Tim Stauffer|R|Lonnie Chisenhall|L|Single|F|Four-Seam Fastball|11|0|1|2|1|89
+Tim Stauffer|R|Lonnie Chisenhall|L|Single|D|Changeup|12|0|2|2|13|78
+Tim Stauffer|R|Roberto Perez|R|Groundout|C|Two-Seam Fastball|13|0|0|2|9|88
+Tim Stauffer|R|Roberto Perez|R|Groundout|F|Slider|14|0|1|2|14|83
+Tim Stauffer|R|Roberto Perez|R|Groundout|X|Two-Seam Fastball|15|0|2|2|11|89
+Tim Stauffer|R|Paulo Orlando|R|Triple|B|Two-Seam Fastball|0|0|0|2|11|87
+Tim Stauffer|R|Paulo Orlando|R|Triple|E|Two-Seam Fastball|1|1|0|2|8|87
+Tim Stauffer|R|Christian Colon|R|Flyout|X|Slider|2|0|0|2|12|83
+Tim Stauffer|R|Logan Morrison|L|Groundout|X|Two-Seam Fastball|0|0|0|1|13|87
+Tim Stauffer|R|Dustin Ackley|L|Groundout|C|Two-Seam Fastball|1|0|0|2|7|88
+Tim Stauffer|R|Dustin Ackley|L|Groundout|X|Changeup|2|0|1|2|11|78
+Tim Stauffer|R|Mike Zunino|R|Groundout|F|Two-Seam Fastball|3|0|0|0|2|88
+Tim Stauffer|R|Mike Zunino|R|Groundout|C|Curveball|4|0|1|0|3|71
+Tim Stauffer|R|Mike Zunino|R|Groundout|B|Four-Seam Fastball|5|0|2|0|12|89
+Tim Stauffer|R|Mike Zunino|R|Groundout|B|Two-Seam Fastball|6|1|2|0|14|88
+Tim Stauffer|R|Mike Zunino|R|Groundout|B|Changeup|7|2|2|0|11|79
+Tim Stauffer|R|Mike Zunino|R|Groundout|F|Two-Seam Fastball|8|3|2|0|11|89
+Tim Stauffer|R|Mike Zunino|R|Groundout|X|Two-Seam Fastball|9|3|2|0|13|89
+Tim Stauffer|R|Brad Miller|L|Pop Out|X|Curveball|10|0|0|1|9|72
+Tim Stauffer|R|Austin Jackson|R|Double|B|Slider|11|0|0|2|14|83
+Tim Stauffer|R|Austin Jackson|R|Double|C|Slider|12|1|0|2|14|84
+Tim Stauffer|R|Austin Jackson|R|Double|C|Two-Seam Fastball|13|1|1|2|6|88
+Tim Stauffer|R|Austin Jackson|R|Double|D|Changeup|14|1|2|2|13|80
+Tim Stauffer|R|Seth Smith|L|Flyout|B|Two-Seam Fastball|15|0|0|2|14|90
+Tim Stauffer|R|Seth Smith|L|Flyout|C|Changeup|16|1|0|2|13|79
+Tim Stauffer|R|Seth Smith|L|Flyout|F|Two-Seam Fastball|17|1|1|2|6|89
+Tim Stauffer|R|Seth Smith|L|Flyout|B|Changeup|18|1|2|2|13|80
+Tim Stauffer|R|Seth Smith|L|Flyout|X|Two-Seam Fastball|19|2|2|2|1|89
+Tim Stauffer|R|Robinson Cano|L|Double|B|Two-Seam Fastball|20|0|0|0|1|87
+Tim Stauffer|R|Robinson Cano|L|Double|C|Two-Seam Fastball|21|1|0|0|6|89
+Tim Stauffer|R|Robinson Cano|L|Double|D|Two-Seam Fastball|22|1|1|0|1|88
+Tim Stauffer|R|Nelson Cruz|R|Groundout|X|Two-Seam Fastball|23|0|0|0|11|88
+Tim Stauffer|R|Miguel Cabrera|R|Grounded Into DP|C|Slider|0|0|0|0|2|82
+Tim Stauffer|R|Miguel Cabrera|R|Grounded Into DP|B|Two-Seam Fastball|1|0|1|0|13|88
+Tim Stauffer|R|Miguel Cabrera|R|Grounded Into DP|B|Two-Seam Fastball|2|1|1|0|13|88
+Tim Stauffer|R|Miguel Cabrera|R|Grounded Into DP|B|Two-Seam Fastball|3|2|1|0|14|88
+Tim Stauffer|R|Miguel Cabrera|R|Grounded Into DP|X|Two-Seam Fastball|4|3|1|0|13|88
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|B|Four-Seam Fastball|5|0|0|2|12|88
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|B|Four-Seam Fastball|6|1|0|2|12|88
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|B|Changeup|7|2|0|2|13|79
+Tim Stauffer|R|Victor Martinez|L|Intent Walk|I|Intentional Ball|8|3|0|2|11|77
+Tim Stauffer|R|J.D. Martinez|R|Forceout|X|Two-Seam Fastball|9|0|0|2|13|88
+Tim Stauffer|R|Yoenis Cespedes|R|Double|C|Two-Seam Fastball|10|0|0|0|6|87
+Tim Stauffer|R|Yoenis Cespedes|R|Double|D|Curveball|11|0|1|0|4|71
+Tim Stauffer|R|Alex Avila|L|Flyout|B|Four-Seam Fastball|12|0|0|0|11|88
+Tim Stauffer|R|Alex Avila|L|Flyout|B|Changeup|13|1|0|0|11|78
+Tim Stauffer|R|Alex Avila|L|Flyout|X|Four-Seam Fastball|14|2|0|0|6|88
+Tim Stauffer|R|Hernan Perez|R|Groundout|M|Slider|15|0|0|1|2|81
+Tim Stauffer|R|Hernan Perez|R|Groundout|X|Two-Seam Fastball|16|0|1|1|11|88
+Tim Stauffer|R|Anthony Gose|L|Walk|C|Slider|17|0|0|2|11|82
+Tim Stauffer|R|Anthony Gose|L|Walk|B|Four-Seam Fastball|18|0|1|2|12|88
+Tim Stauffer|R|Anthony Gose|L|Walk|F|Four-Seam Fastball|19|1|1|2|14|89
+Tim Stauffer|R|Anthony Gose|L|Walk|B|Four-Seam Fastball|20|1|2|2|12|90
+Tim Stauffer|R|Anthony Gose|L|Walk|B|Slider|21|2|2|2|11|83
+Tim Stauffer|R|Anthony Gose|L|Walk|B|Slider|22|3|2|2|11|83
+Tim Stauffer|R|Ian Kinsler|R|Lineout|B|Slider|23|0|0|2|12|82
+Tim Stauffer|R|Ian Kinsler|R|Lineout|C|Two-Seam Fastball|24|1|0|2|5|88
+Tim Stauffer|R|Ian Kinsler|R|Lineout|C|Two-Seam Fastball|25|1|1|2|14|87
+Tim Stauffer|R|Ian Kinsler|R|Lineout|X|Two-Seam Fastball|26|1|2|2|13|88
+Tim Stauffer|R|Jose Iglesias|R|Triple|C|Curveball|27|0|0|0|4|71
+Tim Stauffer|R|Jose Iglesias|R|Triple|B|Two-Seam Fastball|28|0|1|0|11|87
+Tim Stauffer|R|Jose Iglesias|R|Triple|B|Two-Seam Fastball|29|1|1|0|11|87
+Tim Stauffer|R|Jose Iglesias|R|Triple|B|Slider|30|2|1|0|12|83
+Tim Stauffer|R|Jose Iglesias|R|Triple|C|Two-Seam Fastball|31|3|1|0|11|88
+Tim Stauffer|R|Jose Iglesias|R|Triple|D|Two-Seam Fastball|32|3|2|0|2|87
+Tim Stauffer|R|Miguel Cabrera|R|Walk|B|Two-Seam Fastball|33|0|0|0|13|88
+Tim Stauffer|R|Miguel Cabrera|R|Walk|B|Slider|34|1|0|0|14|83
+Tim Stauffer|R|Miguel Cabrera|R|Walk|C|Two-Seam Fastball|35|2|0|0|14|88
+Tim Stauffer|R|Miguel Cabrera|R|Walk|B|Two-Seam Fastball|36|2|1|0|14|89
+Tim Stauffer|R|Miguel Cabrera|R|Walk|F|Two-Seam Fastball|37|3|1|0|14|88
+Tim Stauffer|R|Miguel Cabrera|R|Walk|B|Changeup|38|3|2|0|13|78
+Tim Stauffer|R|Miguel Cabrera|R|Home Run|B|Two-Seam Fastball|0|0|0|2|11|89
+Tim Stauffer|R|Miguel Cabrera|R|Home Run|C|Two-Seam Fastball|1|1|0|2|6|89
+Tim Stauffer|R|Miguel Cabrera|R|Home Run|B|Slider|2|1|1|2|14|84
+Tim Stauffer|R|Miguel Cabrera|R|Home Run|E|Slider|3|2|1|2|6|84
+Tim Stauffer|R|Victor Martinez|L|Groundout|F|Two-Seam Fastball|4|0|0|2|13|89
+Tim Stauffer|R|Victor Martinez|L|Groundout|B|Changeup|5|0|1|2|14|80
+Tim Stauffer|R|Victor Martinez|L|Groundout|C|Changeup|6|1|1|2|2|80
+Tim Stauffer|R|Victor Martinez|L|Groundout|X|Two-Seam Fastball|7|1|2|2|12|90
+Tim Stauffer|R|J.D. Martinez|R|Home Run|B|Two-Seam Fastball|8|0|0|0|13|89
+Tim Stauffer|R|J.D. Martinez|R|Home Run|B|Two-Seam Fastball|9|1|0|0|12|90
+Tim Stauffer|R|J.D. Martinez|R|Home Run|C|Two-Seam Fastball|10|2|0|0|12|89
+Tim Stauffer|R|J.D. Martinez|R|Home Run|E|Slider|11|2|1|0|8|84
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|C|Two-Seam Fastball|12|0|0|0|9|90
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|C|Two-Seam Fastball|13|0|1|0|6|90
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|B|Four-Seam Fastball|14|0|2|0|11|91
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|F|Two-Seam Fastball|15|1|2|0|14|90
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|F|Curveball|16|1|2|0|14|74
+Tim Stauffer|R|Yoenis Cespedes|R|Groundout|X|Two-Seam Fastball|17|1|2|0|11|90
+Tim Stauffer|R|Nicholas Castellanos|R|Single|F|Two-Seam Fastball|18|0|0|1|5|90
+Tim Stauffer|R|Nicholas Castellanos|R|Single|B|Two-Seam Fastball|19|0|1|1|11|89
+Tim Stauffer|R|Nicholas Castellanos|R|Single|D|Two-Seam Fastball|20|1|1|1|11|89
+Tim Stauffer|R|Josh Donaldson|R|Groundout|B|Two-Seam Fastball|0|0|0|1|11|88
+Tim Stauffer|R|Josh Donaldson|R|Groundout|C|Two-Seam Fastball|1|1|0|1|9|87
+Tim Stauffer|R|Josh Donaldson|R|Groundout|B|Two-Seam Fastball|2|1|1|1|14|88
+Tim Stauffer|R|Josh Donaldson|R|Groundout|F|Two-Seam Fastball|3|2|1|1|14|89
+Tim Stauffer|R|Josh Donaldson|R|Groundout|F|Changeup|4|2|2|1|4|79
+Tim Stauffer|R|Josh Donaldson|R|Groundout|X|Two-Seam Fastball|5|2|2|1|9|89
+Tim Stauffer|R|Josh Donaldson|R|Groundout|B|Two-Seam Fastball|0|0|0|0|12|89
+Tim Stauffer|R|Josh Donaldson|R|Groundout|B|Two-Seam Fastball|1|1|0|0|14|89
+Tim Stauffer|R|Josh Donaldson|R|Groundout|X|Two-Seam Fastball|2|2|0|0|5|89
+Tim Stauffer|R|Jose Bautista|R|Walk|C|Two-Seam Fastball|3|0|0|1|12|89
+Tim Stauffer|R|Jose Bautista|R|Walk|B|Two-Seam Fastball|4|0|1|1|14|89
+Tim Stauffer|R|Jose Bautista|R|Walk|B|Two-Seam Fastball|5|1|1|1|14|89
+Tim Stauffer|R|Jose Bautista|R|Walk|F|Changeup|6|2|1|1|1|78
+Tim Stauffer|R|Jose Bautista|R|Walk|B|Two-Seam Fastball|7|2|2|1|12|89
+Tim Stauffer|R|Jose Bautista|R|Walk|B|Two-Seam Fastball|8|3|2|1|11|89
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|F|Two-Seam Fastball|9|0|0|1|5|88
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|B|Two-Seam Fastball|10|0|1|1|11|89
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|B|Two-Seam Fastball|11|1|1|1|14|88
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|B|Two-Seam Fastball|12|2|1|1|12|88
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|C|Two-Seam Fastball|13|3|1|1|9|89
+Tim Stauffer|R|Edwin Encarnacion|R|Groundout|X|Two-Seam Fastball|14|3|2|1|9|89
+Tim Stauffer|R|Russell Martin|R|Single|B|Two-Seam Fastball|15|0|0|2|3|89
+Tim Stauffer|R|Russell Martin|R|Single|B|Two-Seam Fastball|16|1|0|2|13|88
+Tim Stauffer|R|Russell Martin|R|Single|B|Two-Seam Fastball|17|2|0|2|14|89
+Tim Stauffer|R|Russell Martin|R|Single|E|Two-Seam Fastball|18|3|0|2|5|88
+Tim Stauffer|R|Chris Colabello|R|Groundout|F|Slider|19|0|0|2|14|83
+Tim Stauffer|R|Chris Colabello|R|Groundout|B|Two-Seam Fastball|20|0|1|2|8|88
+Tim Stauffer|R|Chris Colabello|R|Groundout|T|Two-Seam Fastball|21|1|1|2|6|87
+Tim Stauffer|R|Chris Colabello|R|Groundout|X|Two-Seam Fastball|22|1|2|2|11|87
+Tim Stauffer|R|Ezequiel Carrera|L|Single|L|Two-Seam Fastball|23|0|0|0|7|86
+Tim Stauffer|R|Ezequiel Carrera|L|Single|B|Curveball|24|0|1|0|13|70
+Tim Stauffer|R|Ezequiel Carrera|L|Single|B|Changeup|25|1|1|0|14|78
+Tim Stauffer|R|Ezequiel Carrera|L|Single|D|Two-Seam Fastball|26|2|1|0|6|87
+Tim Stauffer|R|Kevin Pillar|R|Grounded Into DP|X|Two-Seam Fastball|27|0|0|0|5|87
+Tim Stauffer|R|Ryan Goins|L|Groundout|X|Changeup|28|0|0|2|6|78
+Tim Stauffer|R|Jose Reyes|L|Single|B|Curveball|29|0|0|0|11|69
+Tim Stauffer|R|Jose Reyes|L|Single|B|Two-Seam Fastball|30|1|0|0|13|85
+Tim Stauffer|R|Jose Reyes|L|Single|C|Two-Seam Fastball|31|2|0|0|11|87
+Tim Stauffer|R|Jose Reyes|L|Single|X|Two-Seam Fastball|32|2|1|0|4|86
+Tim Stauffer|R|Josh Donaldson|R|Home Run|B|Two-Seam Fastball|33|0|0|1|11|87
+Tim Stauffer|R|Josh Donaldson|R|Home Run|B|Two-Seam Fastball|34|1|0|1|14|87
+Tim Stauffer|R|Josh Donaldson|R|Home Run|C|Two-Seam Fastball|35|2|0|1|9|88
+Tim Stauffer|R|Josh Donaldson|R|Home Run|E|Two-Seam Fastball|36|2|1|1|3|88
+Tim Stauffer|R|Jose Bautista|R|Double|B|Slider|37|0|0|1|14|83
+Tim Stauffer|R|Jose Bautista|R|Double|C|Two-Seam Fastball|38|1|0|1|14|88
+Tim Stauffer|R|Jose Bautista|R|Double|D|Two-Seam Fastball|39|1|1|1|5|87
+Tim Stauffer|R|Rusney Castillo|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|90
+Tim Stauffer|R|Rusney Castillo|R|Strikeout|S|Curveball|1|0|1|0|13|72
+Tim Stauffer|R|Rusney Castillo|R|Strikeout|F|Two-Seam Fastball|2|0|2|0|13|89
+Tim Stauffer|R|Rusney Castillo|R|Strikeout|S|Curveball|3|0|2|0|8|72
+Tim Stauffer|R|Dustin Pedroia|R|Single|B|Four-Seam Fastball|4|0|0|1|12|90
+Tim Stauffer|R|Dustin Pedroia|R|Single|S|Four-Seam Fastball|5|1|0|1|6|89
+Tim Stauffer|R|Dustin Pedroia|R|Single|X|Changeup|6|1|1|1|8|79
+Tim Stauffer|R|Mookie Betts|R|Groundout|B|Curveball|7|0|0|2|11|71
+Tim Stauffer|R|Mookie Betts|R|Groundout|B|Four-Seam Fastball|8|1|0|2|12|90
+Tim Stauffer|R|Mookie Betts|R|Groundout|F|Four-Seam Fastball|9|2|0|2|6|90
+Tim Stauffer|R|Mookie Betts|R|Groundout|C|Slider|10|2|1|2|6|82
+Tim Stauffer|R|Mookie Betts|R|Groundout|F|Changeup|11|2|2|2|7|79
+Tim Stauffer|R|Mookie Betts|R|Groundout|X|Two-Seam Fastball|12|2|2|2|1|90
+Tim Stauffer|R|Carlos Gomez|R|Strikeout|F|Four-Seam Fastball|0|0|0|1|4|89
+Tim Stauffer|R|Carlos Gomez|R|Strikeout|F|Two-Seam Fastball|1|0|1|1|13|89
+Tim Stauffer|R|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|2|0|2|1|12|89
+Tim Stauffer|R|Carlos Gomez|R|Strikeout|B|Two-Seam Fastball|3|1|2|1|13|89
+Tim Stauffer|R|Carlos Gomez|R|Strikeout|W|Changeup|4|2|2|1|13|78
+Tim Stauffer|R|Adam Lind|L|Single|E|Changeup|5|0|0|2|13|78
+Tim Stauffer|R|Jonathan Lucroy|R|Flyout|C|Four-Seam Fastball|6|0|0|2|14|89
+Tim Stauffer|R|Jonathan Lucroy|R|Flyout|S|Changeup|7|0|1|2|13|78
+Tim Stauffer|R|Jonathan Lucroy|R|Flyout|X|Two-Seam Fastball|8|0|2|2|4|88
+Tim Stauffer|R|Jean Segura|R|Strikeout|B|Slider|0|0|0|0|12|83
+Tim Stauffer|R|Jean Segura|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|12|88
+Tim Stauffer|R|Jean Segura|R|Strikeout|B|Two-Seam Fastball|2|1|1|0|11|89
+Tim Stauffer|R|Jean Segura|R|Strikeout|C|Two-Seam Fastball|3|2|1|0|3|89
+Tim Stauffer|R|Jean Segura|R|Strikeout|S|Two-Seam Fastball|4|2|2|0|11|89
+Tim Stauffer|R|Jason Rogers|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|3|90
+Tim Stauffer|R|Jason Rogers|R|Strikeout|S|Slider|6|0|1|1|14|84
+Tim Stauffer|R|Jason Rogers|R|Strikeout|T|Two-Seam Fastball|7|0|2|1|1|89
+Tim Stauffer|R|Luis Sardinas|L|Field Error|C|Changeup|8|0|0|2|1|78
+Tim Stauffer|R|Luis Sardinas|L|Field Error|F|Slider|9|0|1|2|14|84
+Tim Stauffer|R|Luis Sardinas|L|Field Error|B|Four-Seam Fastball|10|0|2|2|12|90
+Tim Stauffer|R|Luis Sardinas|L|Field Error|B|Changeup|11|1|2|2|13|78
+Tim Stauffer|R|Luis Sardinas|L|Field Error|D|Four-Seam Fastball|12|2|2|2|5|91
+Tim Stauffer|R|Carlos Gomez|R|Double|B|Slider|13|0|0|2|12|82
+Tim Stauffer|R|Carlos Gomez|R|Double|E|Two-Seam Fastball|14|1|0|2|7|88
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|15|0|0|2|14|89
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|16|1|0|2|3|88
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|S|Two-Seam Fastball|17|1|1|2|13|88
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|F|Two-Seam Fastball|18|1|2|2|13|88
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|F|Two-Seam Fastball|19|1|2|2|13|87
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|F|Two-Seam Fastball|20|1|2|2|14|88
+Tim Stauffer|R|Jonathan Lucroy|R|Groundout|X|Slider|21|1|2|2|14|82
+Tim Stauffer|R|Daniel Castro|R|Single|C|Two-Seam Fastball|0|0|0|0|12|89
+Tim Stauffer|R|Daniel Castro|R|Single|D|Slider|1|0|1|0|14|84
+Tim Stauffer|R|Freddie Freeman|L|Single|D|Slider|2|0|0|0|6|85
+Tim Stauffer|R|Adonis Garcia|R|Grounded Into DP|B|Two-Seam Fastball|3|0|0|0|14|89
+Tim Stauffer|R|Adonis Garcia|R|Grounded Into DP|B|Two-Seam Fastball|4|1|0|0|11|89
+Tim Stauffer|R|Adonis Garcia|R|Grounded Into DP|F|Slider|5|2|0|0|5|84
+Tim Stauffer|R|Adonis Garcia|R|Grounded Into DP|E|Slider|6|2|1|0|12|84
+Tim Stauffer|R|Hector Olivera|R|Hit By Pitch|C|Slider|7|0|0|2|4|84
+Tim Stauffer|R|Hector Olivera|R|Hit By Pitch|H|Two-Seam Fastball|8|0|1|2|11|89
+Tim Stauffer|R|Andrelton Simmons|R|Forceout|C|Curveball|9|0|0|2|13|72
+Tim Stauffer|R|Andrelton Simmons|R|Forceout|X|Slider|10|0|1|2|6|85
+Tim Stauffer|R|Christian Bethancourt|R|Single|L|Two-Seam Fastball|11|0|0|2|4|88
+Tim Stauffer|R|Christian Bethancourt|R|Single|D|Two-Seam Fastball|12|0|1|2|9|89
+Tim Stauffer|R|Martin Prado|R|Strikeout|C|Two-Seam Fastball|0|0|1|0|11|88
+Tim Stauffer|R|Martin Prado|R|Strikeout|F|Two-Seam Fastball|1|0|2|0|3|89
+Tim Stauffer|R|Martin Prado|R|Strikeout|B|Slider|2|0|2|0|13|84
+Tim Stauffer|R|Martin Prado|R|Strikeout|B|Curveball|3|1|2|0|14|74
+Tim Stauffer|R|Martin Prado|R|Strikeout|F|Two-Seam Fastball|4|2|2|0|2|89
+Tim Stauffer|R|Martin Prado|R|Strikeout|C|Slider|5|2|2|0|7|84
+Tim Stauffer|R|Justin Bour|L|Strikeout|C|Two-Seam Fastball|6|0|0|1|11|89
+Tim Stauffer|R|Justin Bour|L|Strikeout|B|Two-Seam Fastball|7|0|1|1|13|89
+Tim Stauffer|R|Justin Bour|L|Strikeout|B|Changeup|8|1|1|1|14|80
+Tim Stauffer|R|Justin Bour|L|Strikeout|F|Two-Seam Fastball|9|2|1|1|13|89
+Tim Stauffer|R|Justin Bour|L|Strikeout|B|Slider|10|2|2|1|13|84
+Tim Stauffer|R|Justin Bour|L|Strikeout|T|Four-Seam Fastball|11|3|2|1|11|89
+Tim Stauffer|R|Brian McCann|L|Single|C|Two-Seam Fastball|0|0|0|2|7|88
+Tim Stauffer|R|Brian McCann|L|Single|E|Two-Seam Fastball|1|0|1|2|13|88
+Tim Stauffer|R|Greg Bird|L|Home Run|B|Four-Seam Fastball|2|0|0|2|14|89
+Tim Stauffer|R|Greg Bird|L|Home Run|B|Two-Seam Fastball|3|1|0|2|14|88
+Tim Stauffer|R|Greg Bird|L|Home Run|B|Two-Seam Fastball|4|2|0|2|11|88
+Tim Stauffer|R|Greg Bird|L|Home Run|C|Two-Seam Fastball|5|3|0|2|13|89
+Tim Stauffer|R|Greg Bird|L|Home Run|E|Two-Seam Fastball|6|3|1|2|4|89
+Tim Stauffer|R|Chase Headley|L|Walk|C|Two-Seam Fastball|7|0|0|2|7|90
+Tim Stauffer|R|Chase Headley|L|Walk|B|Slider|8|0|1|2|11|84
+Tim Stauffer|R|Chase Headley|L|Walk|F|Changeup|9|1|1|2|1|80
+Tim Stauffer|R|Chase Headley|L|Walk|F|Four-Seam Fastball|10|1|2|2|6|89
+Tim Stauffer|R|Chase Headley|L|Walk|F|Curveball|11|1|2|2|8|72
+Tim Stauffer|R|Chase Headley|L|Walk|B|Slider|12|1|2|2|13|84
+Tim Stauffer|R|Chase Headley|L|Walk|B|Four-Seam Fastball|13|2|2|2|13|88
+Tim Stauffer|R|Chase Headley|L|Walk|B|Two-Seam Fastball|14|3|2|2|13|88
+Tim Stauffer|R|Stephen Drew|L|Flyout|B|Two-Seam Fastball|15|0|0|2|13|88
+Tim Stauffer|R|Stephen Drew|L|Flyout|X|Two-Seam Fastball|16|1|0|2|13|87
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|C|Two-Seam Fastball|17|0|0|0|7|87
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|B|Changeup|18|0|1|0|11|77
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|B|Two-Seam Fastball|19|1|1|0|14|87
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|C|Two-Seam Fastball|20|2|1|0|3|87
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|F|Changeup|21|2|2|0|7|78
+Tim Stauffer|R|Rob Refsnyder|R|Strikeout|S|Two-Seam Fastball|22|2|2|0|1|87
+Tim Stauffer|R|Slade Heathcott|L|Flyout|S|Two-Seam Fastball|23|0|0|1|11|87
+Tim Stauffer|R|Slade Heathcott|L|Flyout|F|Two-Seam Fastball|24|0|1|1|11|87
+Tim Stauffer|R|Slade Heathcott|L|Flyout|B|Changeup|25|0|2|1|11|79
+Tim Stauffer|R|Slade Heathcott|L|Flyout|X|Slider|26|1|2|1|4|82
+Tim Stauffer|R|Chris Young|R|Strikeout|B|Slider|27|0|0|2|14|83
+Tim Stauffer|R|Chris Young|R|Strikeout|F|Two-Seam Fastball|28|1|0|2|7|87
+Tim Stauffer|R|Chris Young|R|Strikeout|B|Changeup|29|1|1|2|13|79
+Tim Stauffer|R|Chris Young|R|Strikeout|B|Changeup|30|2|1|2|11|78
+Tim Stauffer|R|Chris Young|R|Strikeout|C|Two-Seam Fastball|31|3|1|2|9|88
+Tim Stauffer|R|Chris Young|R|Strikeout|S|Two-Seam Fastball|32|3|2|2|14|88
+Tim Stauffer|R|Adam Duvall|R|Home Run|C|Two-Seam Fastball|0|0|0|0|14|89
+Tim Stauffer|R|Adam Duvall|R|Home Run|C|Four-Seam Fastball|1|0|1|0|12|90
+Tim Stauffer|R|Adam Duvall|R|Home Run|E|Two-Seam Fastball|2|0|2|0|3|90
+Tim Stauffer|R|Ramon Cabrera|L|Single|B|Four-Seam Fastball|3|0|0|0|11|90
+Tim Stauffer|R|Ramon Cabrera|L|Single|S|Changeup|4|1|0|0|4|79
+Tim Stauffer|R|Ramon Cabrera|L|Single|F|Changeup|5|1|1|0|7|79
+Tim Stauffer|R|Ramon Cabrera|L|Single|B|Four-Seam Fastball|6|1|2|0|12|90
+Tim Stauffer|R|Ramon Cabrera|L|Single|B|Slider|7|2|2|0|13|83
+Tim Stauffer|R|Ramon Cabrera|L|Single|D|Four-Seam Fastball|8|3|2|0|7|90
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|B|Two-Seam Fastball|9|0|0|0|13|89
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|B|Changeup|10|1|0|0|11|79
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|S|Two-Seam Fastball|11|2|0|0|14|88
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|F|Four-Seam Fastball|12|2|1|0|7|89
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|F|Four-Seam Fastball|13|2|2|0|5|90
+Tim Stauffer|R|Brennan Boesch|L|Strikeout|T|Four-Seam Fastball|14|2|2|0|11|90
+Tim Stauffer|R|Jason Bourgeois|R|Strikeout|B|Curveball|15|0|0|1|11|72
+Tim Stauffer|R|Jason Bourgeois|R|Strikeout|C|Two-Seam Fastball|16|1|0|1|1|90
+Tim Stauffer|R|Jason Bourgeois|R|Strikeout|S|Changeup|17|1|1|1|9|80
+Tim Stauffer|R|Jason Bourgeois|R|Strikeout|S|Four-Seam Fastball|18|1|2|1|6|90
+Tim Stauffer|R|Joey Votto|L|Walk|B|Two-Seam Fastball|19|0|0|2|11|89
+Tim Stauffer|R|Joey Votto|L|Walk|B|Two-Seam Fastball|20|1|0|2|11|88
+Tim Stauffer|R|Joey Votto|L|Walk|C|Changeup|21|2|0|2|4|79
+Tim Stauffer|R|Joey Votto|L|Walk|B|Four-Seam Fastball|22|2|1|2|11|91
+Tim Stauffer|R|Joey Votto|L|Walk|C|Two-Seam Fastball|23|3|1|2|13|89
+Tim Stauffer|R|Joey Votto|L|Walk|B|Four-Seam Fastball|24|3|2|2|12|90
+Tim Stauffer|R|Odubel Herrera|L|Double|B|Two-Seam Fastball|0|0|0|0|14|89
+Tim Stauffer|R|Odubel Herrera|L|Double|B|Two-Seam Fastball|1|1|0|0|11|89
+Tim Stauffer|R|Odubel Herrera|L|Double|C|Two-Seam Fastball|2|2|0|0|13|89
+Tim Stauffer|R|Odubel Herrera|L|Double|D|Two-Seam Fastball|3|2|1|0|1|90
+Tim Stauffer|R|Aaron Altherr|R|Flyout|F|Slider|4|0|0|0|14|84
+Tim Stauffer|R|Aaron Altherr|R|Flyout|F|Curveball|5|0|1|0|9|72
+Tim Stauffer|R|Aaron Altherr|R|Flyout|*B|Curveball|6|0|2|0|14|74
+Tim Stauffer|R|Aaron Altherr|R|Flyout|B|Slider|7|1|2|0|11|83
+Tim Stauffer|R|Aaron Altherr|R|Flyout|F|Changeup|8|2|2|0|11|78
+Tim Stauffer|R|Aaron Altherr|R|Flyout|*B|Two-Seam Fastball|9|2|2|0|14|89
+Tim Stauffer|R|Aaron Altherr|R|Flyout|X|Slider|10|3|2|0|5|85
+Tim Stauffer|R|Jeff Francoeur|R|Strikeout|C|Changeup|11|0|0|1|9|79
+Tim Stauffer|R|Jeff Francoeur|R|Strikeout|*B|Curveball|12|0|1|1|14|74
+Tim Stauffer|R|Jeff Francoeur|R|Strikeout|F|Slider|13|1|1|1|14|84
+Tim Stauffer|R|Jeff Francoeur|R|Strikeout|B|Two-Seam Fastball|14|1|2|1|14|90
+Tim Stauffer|R|Jeff Francoeur|R|Strikeout|S|Curveball|15|2|2|1|5|73
+Tim Stauffer|R|Darin Ruf|R|Groundout|B|Slider|16|0|0|2|12|84
+Tim Stauffer|R|Darin Ruf|R|Groundout|B|Two-Seam Fastball|17|1|0|2|14|89
+Tim Stauffer|R|Darin Ruf|R|Groundout|C|Slider|18|2|0|2|12|83
+Tim Stauffer|R|Darin Ruf|R|Groundout|S|Changeup|19|2|1|2|13|79
+Tim Stauffer|R|Darin Ruf|R|Groundout|*B|Curveball|20|2|2|2|14|74
+Tim Stauffer|R|Darin Ruf|R|Groundout|X|Changeup|21|3|2|2|2|78
+Tim Stauffer|R|Cody Asche|L|Bunt Groundout|X|Two-Seam Fastball|22|0|0|0|13|87
+Tim Stauffer|R|Carlos Ruiz|R|Strikeout|C|Two-Seam Fastball|23|0|0|1|3|87
+Tim Stauffer|R|Carlos Ruiz|R|Strikeout|B|Changeup|24|0|1|1|11|79
+Tim Stauffer|R|Carlos Ruiz|R|Strikeout|F|Slider|25|1|1|1|5|84
+Tim Stauffer|R|Carlos Ruiz|R|Strikeout|C|Two-Seam Fastball|26|1|2|1|9|89
+Tim Stauffer|R|Chase d'Arnaud|R|Groundout|F|Two-Seam Fastball|27|0|0|2|13|88
+Tim Stauffer|R|Chase d'Arnaud|R|Groundout|X|Changeup|28|0|1|2|5|79

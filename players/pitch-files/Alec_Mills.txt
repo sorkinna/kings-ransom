@@ -1,0 +1,931 @@
+Alec Mills|R|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|0|0|0|2|14|91
+Alec Mills|R|Marcell Ozuna|R|Groundout|C|Four-Seam Fastball|1|1|0|2|9|91
+Alec Mills|R|Marcell Ozuna|R|Groundout|C|Four-Seam Fastball|2|1|1|2|6|91
+Alec Mills|R|Marcell Ozuna|R|Groundout|F|Slider|3|1|2|2|14|79
+Alec Mills|R|Marcell Ozuna|R|Groundout|F|Two-Seam Fastball|4|1|2|2|1|92
+Alec Mills|R|Marcell Ozuna|R|Groundout|X|Changeup|5|1|2|2|7|81
+Alec Mills|R|Tommy Pham|R|Flyout|B|Curveball|6|0|0|0|14|71
+Alec Mills|R|Tommy Pham|R|Flyout|B|Slider|7|1|0|0|14|78
+Alec Mills|R|Tommy Pham|R|Flyout|C|Four-Seam Fastball|8|2|0|0|9|91
+Alec Mills|R|Tommy Pham|R|Flyout|F|Four-Seam Fastball|9|2|1|0|12|92
+Alec Mills|R|Tommy Pham|R|Flyout|B|Four-Seam Fastball|10|2|2|0|12|91
+Alec Mills|R|Tommy Pham|R|Flyout|F|Four-Seam Fastball|11|3|2|0|12|91
+Alec Mills|R|Tommy Pham|R|Flyout|X|Slider|12|3|2|0|9|78
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|13|0|0|1|5|91
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Slider|14|0|1|1|4|78
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|15|0|2|1|8|91
+Alec Mills|R|Yairo Munoz|R|Strikeout|C|Slider|16|0|0|2|1|77
+Alec Mills|R|Yairo Munoz|R|Strikeout|F|Two-Seam Fastball|17|0|1|2|11|90
+Alec Mills|R|Yairo Munoz|R|Strikeout|F|Changeup|18|0|2|2|13|80
+Alec Mills|R|Yairo Munoz|R|Strikeout|B|Four-Seam Fastball|19|0|2|2|12|91
+Alec Mills|R|Yairo Munoz|R|Strikeout|B|Slider|20|1|2|2|14|79
+Alec Mills|R|Yairo Munoz|R|Strikeout|W|Changeup|21|2|2|2|14|81
+Alec Mills|R|Harrison Bader|R|Flyout|C|Four-Seam Fastball|22|0|0|0|9|91
+Alec Mills|R|Harrison Bader|R|Flyout|B|Four-Seam Fastball|23|0|1|0|14|91
+Alec Mills|R|Harrison Bader|R|Flyout|X|Slider|24|1|1|0|14|78
+Alec Mills|R|Matt Carpenter|L|Lineout|B|Slider|25|0|0|1|14|77
+Alec Mills|R|Matt Carpenter|L|Lineout|X|Four-Seam Fastball|26|1|0|1|13|91
+Alec Mills|R|Billy Hamilton|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|11|90
+Alec Mills|R|Billy Hamilton|L|Strikeout|B|Changeup|1|0|1|0|13|81
+Alec Mills|R|Billy Hamilton|L|Strikeout|B|Two-Seam Fastball|2|1|1|0|13|91
+Alec Mills|R|Billy Hamilton|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|2|91
+Alec Mills|R|Billy Hamilton|L|Strikeout|T|Four-Seam Fastball|4|2|2|0|13|91
+Alec Mills|R|Jose Peraza|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|12|91
+Alec Mills|R|Jose Peraza|R|Strikeout|F|Four-Seam Fastball|6|1|0|1|1|91
+Alec Mills|R|Jose Peraza|R|Strikeout|F|Two-Seam Fastball|7|1|1|1|1|91
+Alec Mills|R|Jose Peraza|R|Strikeout|B|Two-Seam Fastball|8|1|2|1|11|92
+Alec Mills|R|Jose Peraza|R|Strikeout|T|Four-Seam Fastball|9|2|2|1|12|91
+Alec Mills|R|Scooter Gennett|L|Single|C|Two-Seam Fastball|10|0|0|2|13|91
+Alec Mills|R|Scooter Gennett|L|Single|F|Four-Seam Fastball|11|0|1|2|4|90
+Alec Mills|R|Scooter Gennett|L|Single|D|Two-Seam Fastball|12|0|2|2|11|91
+Alec Mills|R|Eugenio Suarez|R|Flyout|F|Four-Seam Fastball|13|0|0|2|1|92
+Alec Mills|R|Eugenio Suarez|R|Flyout|B|Four-Seam Fastball|14|0|1|2|11|90
+Alec Mills|R|Eugenio Suarez|R|Flyout|X|Four-Seam Fastball|15|1|1|2|12|91
+Alec Mills|R|Mason Williams|L|Double|D|Four-Seam Fastball|16|0|0|0|7|90
+Alec Mills|R|Phillip Ervin|R|Double|C|Curveball|17|0|0|0|4|70
+Alec Mills|R|Phillip Ervin|R|Double|B|Curveball|18|0|1|0|11|71
+Alec Mills|R|Phillip Ervin|R|Double|E|Curveball|19|1|1|0|4|71
+Alec Mills|R|Tucker Barnhart|L|Groundout|B|Changeup|20|0|0|0|11|79
+Alec Mills|R|Tucker Barnhart|L|Groundout|B|Curveball|21|1|0|0|13|72
+Alec Mills|R|Tucker Barnhart|L|Groundout|F|Two-Seam Fastball|22|2|0|0|11|90
+Alec Mills|R|Tucker Barnhart|L|Groundout|X|Curveball|23|2|1|0|13|73
+Alec Mills|R|Brandon Dixon|R|Strikeout|C|Slider|24|0|0|1|6|77
+Alec Mills|R|Brandon Dixon|R|Strikeout|F|Changeup|25|0|1|1|11|81
+Alec Mills|R|Brandon Dixon|R|Strikeout|*B|Slider|26|0|2|1|14|78
+Alec Mills|R|Brandon Dixon|R|Strikeout|F|Slider|27|1|2|1|12|78
+Alec Mills|R|Brandon Dixon|R|Strikeout|S|Two-Seam Fastball|28|1|2|1|2|91
+Alec Mills|R|Matt Harvey|R|Strikeout|C|Slider|29|0|0|2|1|77
+Alec Mills|R|Matt Harvey|R|Strikeout|C|Four-Seam Fastball|30|0|1|2|12|90
+Alec Mills|R|Matt Harvey|R|Strikeout|C|Two-Seam Fastball|31|0|2|2|14|90
+Alec Mills|R|Billy Hamilton|L|Lineout|C|Changeup|32|0|0|0|11|79
+Alec Mills|R|Billy Hamilton|L|Lineout|B|Changeup|33|0|1|0|14|80
+Alec Mills|R|Billy Hamilton|L|Lineout|S|Two-Seam Fastball|34|1|1|0|13|89
+Alec Mills|R|Billy Hamilton|L|Lineout|B|Four-Seam Fastball|35|1|2|0|14|89
+Alec Mills|R|Billy Hamilton|L|Lineout|B|Two-Seam Fastball|36|2|2|0|13|90
+Alec Mills|R|Billy Hamilton|L|Lineout|X|Two-Seam Fastball|37|3|2|0|5|90
+Alec Mills|R|Jose Peraza|R|Strikeout|C|Slider|38|0|0|1|4|79
+Alec Mills|R|Jose Peraza|R|Strikeout|C|Two-Seam Fastball|39|0|1|1|2|90
+Alec Mills|R|Jose Peraza|R|Strikeout|F|Slider|40|0|2|1|14|79
+Alec Mills|R|Jose Peraza|R|Strikeout|B|Four-Seam Fastball|41|0|2|1|12|90
+Alec Mills|R|Jose Peraza|R|Strikeout|C|Two-Seam Fastball|42|1|2|1|14|89
+Alec Mills|R|Scooter Gennett|L|Groundout|F|Four-Seam Fastball|43|0|0|2|8|90
+Alec Mills|R|Scooter Gennett|L|Groundout|F|Four-Seam Fastball|44|0|1|2|14|89
+Alec Mills|R|Scooter Gennett|L|Groundout|X|Four-Seam Fastball|45|0|2|2|1|90
+Alec Mills|R|Eugenio Suarez|R|Strikeout|S|Slider|46|0|0|0|14|76
+Alec Mills|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|47|0|1|0|6|88
+Alec Mills|R|Eugenio Suarez|R|Strikeout|B|Two-Seam Fastball|48|0|2|0|14|89
+Alec Mills|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|49|1|2|0|6|89
+Alec Mills|R|Eugenio Suarez|R|Strikeout|S|Changeup|50|1|2|0|14|81
+Alec Mills|R|Mason Williams|L|Strikeout|C|Four-Seam Fastball|51|0|0|1|6|90
+Alec Mills|R|Mason Williams|L|Strikeout|F|Changeup|52|0|1|1|13|81
+Alec Mills|R|Mason Williams|L|Strikeout|W|Changeup|53|0|2|1|13|81
+Alec Mills|R|Phillip Ervin|R|Pop Out|C|Slider|54|0|0|2|2|78
+Alec Mills|R|Phillip Ervin|R|Pop Out|B|Slider|55|0|1|2|2|79
+Alec Mills|R|Phillip Ervin|R|Pop Out|X|Two-Seam Fastball|56|1|1|2|2|89
+Alec Mills|R|Tucker Barnhart|L|Groundout|B|Curveball|57|0|0|0|13|72
+Alec Mills|R|Tucker Barnhart|L|Groundout|S|Changeup|58|1|0|0|7|81
+Alec Mills|R|Tucker Barnhart|L|Groundout|B|Curveball|59|1|1|0|11|73
+Alec Mills|R|Tucker Barnhart|L|Groundout|X|Two-Seam Fastball|60|2|1|0|13|89
+Alec Mills|R|Brandon Dixon|R|Strikeout|S|Slider|61|0|0|1|6|78
+Alec Mills|R|Brandon Dixon|R|Strikeout|S|Slider|62|0|1|1|14|79
+Alec Mills|R|Brandon Dixon|R|Strikeout|B|Four-Seam Fastball|63|0|2|1|14|89
+Alec Mills|R|Brandon Dixon|R|Strikeout|S|Slider|64|1|2|1|14|78
+Alec Mills|R|Matt Harvey|R|Groundout|B|Two-Seam Fastball|65|0|0|2|14|88
+Alec Mills|R|Matt Harvey|R|Groundout|B|Four-Seam Fastball|66|1|0|2|14|88
+Alec Mills|R|Matt Harvey|R|Groundout|F|Two-Seam Fastball|67|2|0|2|2|88
+Alec Mills|R|Matt Harvey|R|Groundout|X|Two-Seam Fastball|68|2|1|2|13|89
+Alec Mills|R|Billy Hamilton|L|Groundout|B|Changeup|69|0|0|0|11|79
+Alec Mills|R|Billy Hamilton|L|Groundout|F|Two-Seam Fastball|70|1|0|0|13|88
+Alec Mills|R|Billy Hamilton|L|Groundout|X|Curveball|71|1|1|0|7|71
+Alec Mills|R|Jose Peraza|R|Groundout|B|Four-Seam Fastball|72|0|0|1|12|88
+Alec Mills|R|Jose Peraza|R|Groundout|X|Slider|73|1|0|1|6|75
+Alec Mills|R|Scooter Gennett|L|Double|S|Four-Seam Fastball|74|0|0|2|13|88
+Alec Mills|R|Scooter Gennett|L|Double|D|Four-Seam Fastball|75|0|1|2|1|88
+Alec Mills|R|Eugenio Suarez|R|Walk|C|Four-Seam Fastball|76|0|0|2|3|89
+Alec Mills|R|Eugenio Suarez|R|Walk|W|Slider|77|0|1|2|14|76
+Alec Mills|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|78|0|2|2|12|88
+Alec Mills|R|Eugenio Suarez|R|Walk|F|Two-Seam Fastball|79|1|2|2|6|89
+Alec Mills|R|Eugenio Suarez|R|Walk|B|Changeup|80|1|2|2|14|80
+Alec Mills|R|Eugenio Suarez|R|Walk|B|Slider|81|2|2|2|14|79
+Alec Mills|R|Eugenio Suarez|R|Walk|F|Changeup|82|3|2|2|14|79
+Alec Mills|R|Eugenio Suarez|R|Walk|B|Two-Seam Fastball|83|3|2|2|6|90
+Alec Mills|R|Amed Rosario|R|Single|C|Four-Seam Fastball|0|0|0|0|9|90
+Alec Mills|R|Amed Rosario|R|Single|B|Four-Seam Fastball|1|0|1|0|14|90
+Alec Mills|R|Amed Rosario|R|Single|B|Changeup|2|1|1|0|11|80
+Alec Mills|R|Amed Rosario|R|Single|D|Four-Seam Fastball|3|2|1|0|6|90
+Alec Mills|R|Jeff McNeil|L|Forceout|B|Four-Seam Fastball|4|0|0|0|11|90
+Alec Mills|R|Jeff McNeil|L|Forceout|X|Two-Seam Fastball|5|1|0|0|4|90
+Alec Mills|R|Austin Jackson|R|Single|D|Four-Seam Fastball|6|0|0|1|8|90
+Alec Mills|R|Jay Bruce|L|Strikeout|C|Changeup|7|0|0|1|11|81
+Alec Mills|R|Jay Bruce|L|Strikeout|F|Four-Seam Fastball|8|0|1|1|7|90
+Alec Mills|R|Jay Bruce|L|Strikeout|B|Two-Seam Fastball|9|0|2|1|13|91
+Alec Mills|R|Jay Bruce|L|Strikeout|S|Changeup|10|1|2|1|14|81
+Alec Mills|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|11|0|0|2|14|90
+Alec Mills|R|Michael Conforto|L|Walk|B|Curveball|12|1|0|2|9|72
+Alec Mills|R|Michael Conforto|L|Walk|W|Changeup|13|2|0|2|13|82
+Alec Mills|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|14|2|1|2|12|91
+Alec Mills|R|Michael Conforto|L|Walk|B|Changeup|15|3|1|2|13|81
+Alec Mills|R|Todd Frazier|R|Home Run|B|Two-Seam Fastball|16|0|0|2|11|91
+Alec Mills|R|Todd Frazier|R|Home Run|B|Two-Seam Fastball|17|1|0|2|11|91
+Alec Mills|R|Todd Frazier|R|Home Run|E|Four-Seam Fastball|18|2|0|2|3|91
+Alec Mills|R|Brandon Nimmo|L|Strikeout|C|Two-Seam Fastball|19|0|0|2|11|89
+Alec Mills|R|Brandon Nimmo|L|Strikeout|B|Four-Seam Fastball|20|0|1|2|12|90
+Alec Mills|R|Brandon Nimmo|L|Strikeout|F|Two-Seam Fastball|21|1|1|2|5|88
+Alec Mills|R|Brandon Nimmo|L|Strikeout|F|Four-Seam Fastball|22|1|2|2|2|89
+Alec Mills|R|Brandon Nimmo|L|Strikeout|F|Curveball|23|1|2|2|9|74
+Alec Mills|R|Brandon Nimmo|L|Strikeout|F|Two-Seam Fastball|24|1|2|2|4|89
+Alec Mills|R|Brandon Nimmo|L|Strikeout|S|Slider|25|1|2|2|14|79
+Alec Mills|R|Kevin Plawecki|R|Strikeout|C|Two-Seam Fastball|26|0|0|0|8|89
+Alec Mills|R|Kevin Plawecki|R|Strikeout|S|Changeup|27|0|1|0|8|78
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Slider|28|0|2|0|14|79
+Alec Mills|R|Kevin Plawecki|R|Strikeout|F|Two-Seam Fastball|29|1|2|0|7|90
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Four-Seam Fastball|30|1|2|0|12|89
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Changeup|31|2|2|0|14|81
+Alec Mills|R|Kevin Plawecki|R|Strikeout|S|Changeup|32|3|2|0|14|81
+Alec Mills|R|Jason Vargas|L|Flyout|X|Four-Seam Fastball|33|0|0|1|11|88
+Alec Mills|R|Amed Rosario|R|Groundout|C|Slider|34|0|0|2|4|78
+Alec Mills|R|Amed Rosario|R|Groundout|B|Slider|35|0|1|2|12|80
+Alec Mills|R|Amed Rosario|R|Groundout|X|Four-Seam Fastball|36|1|1|2|14|90
+Alec Mills|R|Jeff McNeil|L|Groundout|B|Two-Seam Fastball|37|0|0|0|13|89
+Alec Mills|R|Jeff McNeil|L|Groundout|F|Changeup|38|1|0|0|7|80
+Alec Mills|R|Jeff McNeil|L|Groundout|B|Changeup|39|1|1|0|13|81
+Alec Mills|R|Jeff McNeil|L|Groundout|C|Changeup|40|2|1|0|13|80
+Alec Mills|R|Jeff McNeil|L|Groundout|F|Four-Seam Fastball|41|2|2|0|12|88
+Alec Mills|R|Jeff McNeil|L|Groundout|X|Two-Seam Fastball|42|2|2|0|4|91
+Alec Mills|R|Austin Jackson|R|Strikeout|C|Slider|43|0|0|1|9|79
+Alec Mills|R|Austin Jackson|R|Strikeout|S|Changeup|44|0|1|1|11|80
+Alec Mills|R|Austin Jackson|R|Strikeout|S|Four-Seam Fastball|45|0|2|1|1|88
+Alec Mills|R|Jay Bruce|L|Double|S|Changeup|46|0|0|2|8|79
+Alec Mills|R|Jay Bruce|L|Double|S|Changeup|47|0|1|2|13|80
+Alec Mills|R|Jay Bruce|L|Double|B|Changeup|48|0|2|2|13|81
+Alec Mills|R|Jay Bruce|L|Double|F|Four-Seam Fastball|49|1|2|2|12|90
+Alec Mills|R|Jay Bruce|L|Double|F|Four-Seam Fastball|50|1|2|2|7|91
+Alec Mills|R|Jay Bruce|L|Double|B|Four-Seam Fastball|51|1|2|2|11|91
+Alec Mills|R|Jay Bruce|L|Double|B|Changeup|52|2|2|2|13|81
+Alec Mills|R|Jay Bruce|L|Double|D|Four-Seam Fastball|53|3|2|2|4|91
+Alec Mills|R|Michael Conforto|L|Walk|B|Curveball|54|0|0|2|11|72
+Alec Mills|R|Michael Conforto|L|Walk|B|Two-Seam Fastball|55|1|0|2|11|89
+Alec Mills|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|56|2|0|2|12|89
+Alec Mills|R|Michael Conforto|L|Walk|C|Two-Seam Fastball|57|3|0|2|4|88
+Alec Mills|R|Michael Conforto|L|Walk|B|Changeup|58|3|1|2|11|81
+Alec Mills|R|Todd Frazier|R|Pickoff 1B|C|Four-Seam Fastball|59|0|0|2|5|89
+Alec Mills|R|Todd Frazier|R|Groundout|C|Curveball|60|0|0|0|3|70
+Alec Mills|R|Todd Frazier|R|Groundout|B|Two-Seam Fastball|61|0|1|0|14|89
+Alec Mills|R|Todd Frazier|R|Groundout|B|Two-Seam Fastball|62|1|1|0|13|89
+Alec Mills|R|Todd Frazier|R|Groundout|X|Two-Seam Fastball|63|2|1|0|11|89
+Alec Mills|R|Brandon Nimmo|L|Single|F|Changeup|64|0|0|1|9|79
+Alec Mills|R|Brandon Nimmo|L|Single|D|Changeup|65|0|1|1|7|79
+Alec Mills|R|Kevin Plawecki|R|Strikeout|C|Curveball|66|0|0|1|11|68
+Alec Mills|R|Kevin Plawecki|R|Strikeout|C|Slider|67|0|1|1|9|77
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Four-Seam Fastball|68|0|2|1|14|89
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Changeup|69|1|2|1|14|79
+Alec Mills|R|Kevin Plawecki|R|Strikeout|B|Changeup|70|2|2|1|11|79
+Alec Mills|R|Kevin Plawecki|R|Strikeout|F|Slider|71|3|2|1|8|78
+Alec Mills|R|Kevin Plawecki|R|Strikeout|F|Two-Seam Fastball|72|3|2|1|11|90
+Alec Mills|R|Kevin Plawecki|R|Strikeout|C|Two-Seam Fastball|73|3|2|1|9|90
+Alec Mills|R|Jason Vargas|L|Groundout|B|Changeup|74|0|0|2|13|79
+Alec Mills|R|Jason Vargas|L|Groundout|X|Two-Seam Fastball|75|1|0|2|4|89
+Alec Mills|R|Amed Rosario|R|Lineout|C|Slider|76|0|0|0|3|78
+Alec Mills|R|Amed Rosario|R|Lineout|B|Slider|77|0|1|0|14|79
+Alec Mills|R|Amed Rosario|R|Lineout|S|Two-Seam Fastball|78|1|1|0|13|89
+Alec Mills|R|Amed Rosario|R|Lineout|B|Changeup|79|1|2|0|14|80
+Alec Mills|R|Amed Rosario|R|Lineout|B|Changeup|80|2|2|0|14|81
+Alec Mills|R|Amed Rosario|R|Lineout|F|Two-Seam Fastball|81|3|2|0|11|90
+Alec Mills|R|Amed Rosario|R|Lineout|X|Four-Seam Fastball|82|3|2|0|6|90
+Alec Mills|R|Jeff McNeil|L|Flyout|B|Four-Seam Fastball|83|0|0|1|12|88
+Alec Mills|R|Jeff McNeil|L|Flyout|X|Two-Seam Fastball|84|1|0|1|13|89
+Alec Mills|R|Austin Jackson|R|Flyout|C|Curveball|85|0|0|2|5|71
+Alec Mills|R|Austin Jackson|R|Flyout|B|Curveball|86|0|1|2|14|71
+Alec Mills|R|Austin Jackson|R|Flyout|B|Changeup|87|1|1|2|11|79
+Alec Mills|R|Austin Jackson|R|Flyout|X|Changeup|88|2|1|2|14|80
+Alec Mills|R|Ketel Marte|L|Flyout|F|Two-Seam Fastball|0|0|0|0|13|91
+Alec Mills|R|Ketel Marte|L|Flyout|X|Four-Seam Fastball|1|0|1|0|6|90
+Alec Mills|R|John Ryan Murphy|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|13|91
+Alec Mills|R|John Ryan Murphy|R|Strikeout|C|Slider|3|1|0|1|3|78
+Alec Mills|R|John Ryan Murphy|R|Strikeout|C|Curveball|4|1|1|1|6|70
+Alec Mills|R|John Ryan Murphy|R|Strikeout|S|Changeup|5|1|2|1|14|82
+Alec Mills|R|Christian Walker|R|Strikeout|B|Two-Seam Fastball|6|0|0|2|9|91
+Alec Mills|R|Christian Walker|R|Strikeout|F|Changeup|7|1|0|2|13|80
+Alec Mills|R|Christian Walker|R|Strikeout|S|Slider|8|1|1|2|9|78
+Alec Mills|R|Christian Walker|R|Strikeout|F|Four-Seam Fastball|9|1|2|2|6|91
+Alec Mills|R|Christian Walker|R|Strikeout|B|Four-Seam Fastball|10|1|2|2|11|90
+Alec Mills|R|Christian Walker|R|Strikeout|C|Changeup|11|2|2|2|14|82
+Alec Mills|R|Matt Koch|L|Field Error|C|Two-Seam Fastball|12|0|0|0|13|89
+Alec Mills|R|Matt Koch|L|Field Error|D|Two-Seam Fastball|13|0|1|0|7|90
+Alec Mills|R|Chris Owings|R|Strikeout|C|Four-Seam Fastball|14|0|0|0|9|89
+Alec Mills|R|Chris Owings|R|Strikeout|F|Changeup|15|0|1|0|9|80
+Alec Mills|R|Chris Owings|R|Strikeout|S|Changeup|16|0|2|0|11|79
+Alec Mills|R|Ildemaro Vargas|L|Grounded Into DP|X|Two-Seam Fastball|17|0|0|1|4|89
+Alec Mills|R|Colin Moran|L|Strikeout|B|Changeup|0|0|0|1|14|81
+Alec Mills|R|Colin Moran|L|Strikeout|B|Four-Seam Fastball|1|1|0|1|14|90
+Alec Mills|R|Colin Moran|L|Strikeout|F|Four-Seam Fastball|2|2|0|1|5|90
+Alec Mills|R|Colin Moran|L|Strikeout|C|Curveball|3|2|1|1|8|73
+Alec Mills|R|Colin Moran|L|Strikeout|B|Four-Seam Fastball|4|2|2|1|14|91
+Alec Mills|R|Colin Moran|L|Strikeout|S|Four-Seam Fastball|5|3|2|1|14|91
+Alec Mills|R|Jordan Luplow|R|Walk|C|Curveball|6|0|0|2|8|73
+Alec Mills|R|Jordan Luplow|R|Walk|B|Slider|7|0|1|2|14|78
+Alec Mills|R|Jordan Luplow|R|Walk|B|Four-Seam Fastball|8|1|1|2|12|91
+Alec Mills|R|Jordan Luplow|R|Walk|B|Curveball|9|2|1|2|14|73
+Alec Mills|R|Jordan Luplow|R|Walk|B|Four-Seam Fastball|10|3|1|2|14|91
+Alec Mills|R|Kevin Newman|R|Forceout|B|Four-Seam Fastball|11|0|0|2|14|89
+Alec Mills|R|Kevin Newman|R|Forceout|X|Two-Seam Fastball|12|1|0|2|13|91
+Alec Mills|R|Kevin Kramer|L|Flyout|B|Curveball|13|0|0|0|11|73
+Alec Mills|R|Kevin Kramer|L|Flyout|X|Four-Seam Fastball|14|1|0|0|2|90
+Alec Mills|R|Pablo Reyes|R|Walk|B|Curveball|0|0|0|0|13|69
+Alec Mills|R|Pablo Reyes|R|Walk|B|Slider|1|1|0|0|14|76
+Alec Mills|R|Pablo Reyes|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|90
+Alec Mills|R|Pablo Reyes|R|Walk|B|Four-Seam Fastball|3|3|0|0|14|90
+Alec Mills|R|Kevin Newman|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|2|89
+Alec Mills|R|Kevin Newman|R|Strikeout|C|Four-Seam Fastball|5|0|1|0|8|89
+Alec Mills|R|Kevin Newman|R|Strikeout|C|Four-Seam Fastball|6|0|2|0|6|90
+Alec Mills|R|Chris Archer|R|Single|C|Four-Seam Fastball|7|0|0|1|9|89
+Alec Mills|R|Chris Archer|R|Single|B|Four-Seam Fastball|8|0|1|1|14|89
+Alec Mills|R|Chris Archer|R|Single|D|Four-Seam Fastball|9|1|1|1|5|90
+Alec Mills|R|Yairo Munoz|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|90
+Alec Mills|R|Yairo Munoz|R|Strikeout|F|Two-Seam Fastball|1|0|1|0|1|91
+Alec Mills|R|Yairo Munoz|R|Strikeout|F|Changeup|2|0|2|0|13|83
+Alec Mills|R|Yairo Munoz|R|Strikeout|B|Changeup|3|0|2|0|14|82
+Alec Mills|R|Yairo Munoz|R|Strikeout|C|Changeup|4|1|2|0|14|83
+Alec Mills|R|Francisco Pena|R|Groundout|B|Slider|5|0|0|1|14|77
+Alec Mills|R|Francisco Pena|R|Groundout|S|Two-Seam Fastball|6|1|0|1|9|91
+Alec Mills|R|Francisco Pena|R|Groundout|X|Two-Seam Fastball|7|1|1|1|13|90
+Alec Mills|R|Adolis Garcia|R|Strikeout|C|Two-Seam Fastball|8|0|0|2|9|91
+Alec Mills|R|Adolis Garcia|R|Strikeout|S|Changeup|9|0|1|2|14|83
+Alec Mills|R|Adolis Garcia|R|Strikeout|F|Changeup|10|0|2|2|13|82
+Alec Mills|R|Adolis Garcia|R|Strikeout|B|Two-Seam Fastball|11|0|2|2|14|92
+Alec Mills|R|Adolis Garcia|R|Strikeout|B|Two-Seam Fastball|12|1|2|2|14|92
+Alec Mills|R|Adolis Garcia|R|Strikeout|W|Changeup|13|2|2|2|14|83
+Alec Mills|R|Matt Carpenter|L|Flyout|C|Curveball|14|0|0|0|14|73
+Alec Mills|R|Matt Carpenter|L|Flyout|B|Two-Seam Fastball|15|0|1|0|13|91
+Alec Mills|R|Matt Carpenter|L|Flyout|C|Four-Seam Fastball|16|1|1|0|13|90
+Alec Mills|R|Matt Carpenter|L|Flyout|F|Changeup|17|1|2|0|13|83
+Alec Mills|R|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|18|1|2|0|11|92
+Alec Mills|R|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|19|1|2|0|12|91
+Alec Mills|R|Matt Carpenter|L|Flyout|B|Two-Seam Fastball|20|2|2|0|13|92
+Alec Mills|R|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|21|3|2|0|7|93
+Alec Mills|R|Jose Martinez|R|Walk|B|Slider|22|0|0|1|11|77
+Alec Mills|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|23|1|0|1|14|90
+Alec Mills|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|24|2|0|1|13|92
+Alec Mills|R|Jose Martinez|R|Walk|B|Four-Seam Fastball|25|3|0|1|14|91
+Alec Mills|R|Paul DeJong|R|Pop Out|C|Four-Seam Fastball|26|0|0|1|2|90
+Alec Mills|R|Paul DeJong|R|Pop Out|B|Two-Seam Fastball|27|0|1|1|14|90
+Alec Mills|R|Paul DeJong|R|Pop Out|F|Changeup|28|1|1|1|8|82
+Alec Mills|R|Paul DeJong|R|Pop Out|B|Changeup|29|1|2|1|14|83
+Alec Mills|R|Paul DeJong|R|Pop Out|F|Two-Seam Fastball|30|2|2|1|8|92
+Alec Mills|R|Paul DeJong|R|Pop Out|X|Two-Seam Fastball|31|2|2|1|11|91
+Alec Mills|R|Tyler O'Neill|R|Strikeout|C|Four-Seam Fastball|32|0|0|2|6|90
+Alec Mills|R|Tyler O'Neill|R|Strikeout|C|Four-Seam Fastball|33|0|1|2|14|91
+Alec Mills|R|Tyler O'Neill|R|Strikeout|S|Four-Seam Fastball|34|0|2|2|12|92
+Alec Mills|R|Patrick Wisdom|R|Double|C|Four-Seam Fastball|35|0|0|0|2|89
+Alec Mills|R|Patrick Wisdom|R|Double|B|Two-Seam Fastball|36|0|1|0|13|91
+Alec Mills|R|Patrick Wisdom|R|Double|S|Four-Seam Fastball|37|1|1|0|6|90
+Alec Mills|R|Patrick Wisdom|R|Double|F|Changeup|38|1|2|0|8|83
+Alec Mills|R|Patrick Wisdom|R|Double|B|Four-Seam Fastball|39|1|2|0|11|90
+Alec Mills|R|Patrick Wisdom|R|Double|F|Two-Seam Fastball|40|2|2|0|11|90
+Alec Mills|R|Patrick Wisdom|R|Double|F|Four-Seam Fastball|41|2|2|0|8|92
+Alec Mills|R|Patrick Wisdom|R|Double|D|Two-Seam Fastball|42|2|2|0|4|91
+Alec Mills|R|Harrison Bader|R|Walk|B|Two-Seam Fastball|43|0|0|0|13|91
+Alec Mills|R|Harrison Bader|R|Walk|C|Two-Seam Fastball|44|1|0|0|8|90
+Alec Mills|R|Harrison Bader|R|Walk|S|Slider|45|1|1|0|14|79
+Alec Mills|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|46|1|2|0|14|91
+Alec Mills|R|Harrison Bader|R|Walk|B|Slider|47|2|2|0|14|79
+Alec Mills|R|Harrison Bader|R|Walk|B|Four-Seam Fastball|48|3|2|0|14|91
+Alec Mills|R|Jesse Winker|L|Groundout|C|Four-Seam Fastball|0|0|0|0|9|91
+Alec Mills|R|Jesse Winker|L|Groundout|X|Four-Seam Fastball|1|0|1|0|12|90
+Alec Mills|R|Joey Votto|L|Flyout|F|Two-Seam Fastball|2|0|0|1|5|91
+Alec Mills|R|Joey Votto|L|Flyout|B|Changeup|3|0|1|1|14|81
+Alec Mills|R|Joey Votto|L|Flyout|X|Two-Seam Fastball|4|1|1|1|5|91
+Alec Mills|R|Eugenio Suarez|R|Home Run|C|Four-Seam Fastball|5|0|0|2|9|91
+Alec Mills|R|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|6|0|1|2|14|91
+Alec Mills|R|Eugenio Suarez|R|Home Run|S|Changeup|7|1|1|2|13|79
+Alec Mills|R|Eugenio Suarez|R|Home Run|F|Two-Seam Fastball|8|1|2|2|7|92
+Alec Mills|R|Eugenio Suarez|R|Home Run|B|Slider|9|1|2|2|14|80
+Alec Mills|R|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|10|2|2|2|14|92
+Alec Mills|R|Eugenio Suarez|R|Home Run|E|Four-Seam Fastball|11|3|2|2|14|91
+Alec Mills|R|Yasiel Puig|R|Hit By Pitch|F|Two-Seam Fastball|12|0|0|2|7|90
+Alec Mills|R|Yasiel Puig|R|Hit By Pitch|B|Four-Seam Fastball|13|0|1|2|11|89
+Alec Mills|R|Yasiel Puig|R|Hit By Pitch|H|Curveball|14|1|1|2|13|62
+Alec Mills|R|Derek Dietrich|L|Hit By Pitch|H|Four-Seam Fastball|15|0|0|2|12|89
+Alec Mills|R|Nick Senzel|R|Single|C|Slider|16|0|0|2|14|78
+Alec Mills|R|Nick Senzel|R|Single|S|Four-Seam Fastball|17|0|1|2|1|90
+Alec Mills|R|Nick Senzel|R|Single|E|Changeup|18|0|2|2|13|80
+Alec Mills|R|Jose Peraza|R|Double|B|Four-Seam Fastball|19|0|0|2|14|89
+Alec Mills|R|Jose Peraza|R|Double|E|Four-Seam Fastball|20|1|0|2|6|89
+Alec Mills|R|Anthony DeSclafani|R|Lineout|C|Four-Seam Fastball|21|0|0|0|1|88
+Alec Mills|R|Anthony DeSclafani|R|Lineout|X|Four-Seam Fastball|22|0|1|0|14|89
+Alec Mills|R|Kyle Farmer|R|Strikeout|C|Four-Seam Fastball|23|0|0|1|6|89
+Alec Mills|R|Kyle Farmer|R|Strikeout|B|Slider|24|0|1|1|12|79
+Alec Mills|R|Kyle Farmer|R|Strikeout|S|Changeup|25|1|1|1|14|80
+Alec Mills|R|Kyle Farmer|R|Strikeout|S|Changeup|26|1|2|1|14|80
+Alec Mills|R|Jesse Winker|L|Hit By Pitch|B|Slider|27|0|0|2|14|79
+Alec Mills|R|Jesse Winker|L|Hit By Pitch|F|Four-Seam Fastball|28|1|0|2|6|88
+Alec Mills|R|Jesse Winker|L|Hit By Pitch|F|Slider|29|1|1|2|14|78
+Alec Mills|R|Jesse Winker|L|Hit By Pitch|H|Slider|30|1|2|2|14|78
+Alec Mills|R|Joey Votto|L|Lineout|S|Changeup|31|0|0|2|7|79
+Alec Mills|R|Joey Votto|L|Lineout|F|Two-Seam Fastball|32|0|1|2|13|89
+Alec Mills|R|Joey Votto|L|Lineout|X|Two-Seam Fastball|33|0|2|2|7|89
+Alec Mills|R|Eugenio Suarez|R|Strikeout|C|Curveball|34|0|0|0|11|68
+Alec Mills|R|Eugenio Suarez|R|Strikeout|S|Changeup|35|0|1|0|7|79
+Alec Mills|R|Eugenio Suarez|R|Strikeout|S|Changeup|36|0|2|0|13|80
+Alec Mills|R|Yasiel Puig|R|Groundout|B|Two-Seam Fastball|37|0|0|1|14|89
+Alec Mills|R|Yasiel Puig|R|Groundout|X|Two-Seam Fastball|38|1|0|1|8|90
+Alec Mills|R|Derek Dietrich|L|Walk|B|Curveball|39|0|0|2|14|68
+Alec Mills|R|Derek Dietrich|L|Walk|F|Four-Seam Fastball|40|1|0|2|9|88
+Alec Mills|R|Derek Dietrich|L|Walk|B|Four-Seam Fastball|41|1|1|2|12|90
+Alec Mills|R|Derek Dietrich|L|Walk|B|Four-Seam Fastball|42|2|1|2|14|91
+Alec Mills|R|Derek Dietrich|L|Walk|B|Changeup|43|3|1|2|13|81
+Alec Mills|R|Nick Senzel|R|Forceout|X|Two-Seam Fastball|44|0|0|2|4|89
+Alec Mills|R|Jose Peraza|R|Groundout|X|Slider|45|0|0|0|14|77
+Alec Mills|R|Anthony DeSclafani|R|Single|B|Four-Seam Fastball|46|0|0|1|14|88
+Alec Mills|R|Anthony DeSclafani|R|Single|B|Four-Seam Fastball|47|1|0|1|14|88
+Alec Mills|R|Anthony DeSclafani|R|Single|B|Four-Seam Fastball|48|2|0|1|14|89
+Alec Mills|R|Anthony DeSclafani|R|Single|C|Four-Seam Fastball|49|3|0|1|5|88
+Alec Mills|R|Anthony DeSclafani|R|Single|F|Four-Seam Fastball|50|3|1|1|14|88
+Alec Mills|R|Anthony DeSclafani|R|Single|D|Four-Seam Fastball|51|3|2|1|3|89
+Alec Mills|R|Kyle Farmer|R|Strikeout|F|Slider|52|0|0|1|4|76
+Alec Mills|R|Kyle Farmer|R|Strikeout|F|Changeup|53|0|1|1|5|78
+Alec Mills|R|Kyle Farmer|R|Strikeout|F|Changeup|54|0|2|1|4|79
+Alec Mills|R|Kyle Farmer|R|Strikeout|B|Four-Seam Fastball|55|0|2|1|14|91
+Alec Mills|R|Kyle Farmer|R|Strikeout|*B|Changeup|56|1|2|1|14|81
+Alec Mills|R|Kyle Farmer|R|Strikeout|B|Two-Seam Fastball|57|2|2|1|14|90
+Alec Mills|R|Kyle Farmer|R|Strikeout|S|Changeup|58|3|2|1|14|79
+Alec Mills|R|Jesse Winker|L|Forceout|X|Two-Seam Fastball|59|0|0|2|13|89
+Alec Mills|R|Joey Votto|L|Strikeout|B|Two-Seam Fastball|60|0|0|0|13|88
+Alec Mills|R|Joey Votto|L|Strikeout|C|Changeup|61|1|0|0|3|79
+Alec Mills|R|Joey Votto|L|Strikeout|F|Four-Seam Fastball|62|1|1|0|14|88
+Alec Mills|R|Joey Votto|L|Strikeout|B|Two-Seam Fastball|63|1|2|0|13|89
+Alec Mills|R|Joey Votto|L|Strikeout|B|Changeup|64|2|2|0|13|79
+Alec Mills|R|Joey Votto|L|Strikeout|F|Two-Seam Fastball|65|3|2|0|11|90
+Alec Mills|R|Joey Votto|L|Strikeout|C|Two-Seam Fastball|66|3|2|0|3|89
+Alec Mills|R|Eugenio Suarez|R|Strikeout|F|Changeup|67|0|0|1|8|79
+Alec Mills|R|Eugenio Suarez|R|Strikeout|F|Two-Seam Fastball|68|0|1|1|13|89
+Alec Mills|R|Eugenio Suarez|R|Strikeout|C|Slider|69|0|2|1|14|77
+Alec Mills|R|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|70|0|0|2|6|88
+Alec Mills|R|Derek Dietrich|L|Hit By Pitch|B|Curveball|71|0|0|0|14|67
+Alec Mills|R|Derek Dietrich|L|Hit By Pitch|B|Curveball|72|1|0|0|14|66
+Alec Mills|R|Derek Dietrich|L|Hit By Pitch|H|Four-Seam Fastball|73|2|0|0|14|89
+Alec Mills|R|Nick Senzel|R|Single|D|Changeup|74|0|0|0|8|78
+Alec Mills|R|Jose Peraza|R|Grounded Into DP|X|Slider|75|0|0|0|8|77
+Alec Mills|R|Anthony DeSclafani|R|Strikeout|*B|Slider|76|0|0|2|14|76
+Alec Mills|R|Anthony DeSclafani|R|Strikeout|F|Four-Seam Fastball|77|1|0|2|3|88
+Alec Mills|R|Anthony DeSclafani|R|Strikeout|B|Changeup|78|1|1|2|12|79
+Alec Mills|R|Anthony DeSclafani|R|Strikeout|C|Four-Seam Fastball|79|2|1|2|14|90
+Alec Mills|R|Anthony DeSclafani|R|Strikeout|C|Slider|80|2|2|2|14|79
+Alec Mills|R|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|4|88
+Alec Mills|R|Jose Osuna|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|90
+Alec Mills|R|Jose Osuna|R|Strikeout|B|Two-Seam Fastball|2|1|1|0|13|90
+Alec Mills|R|Jose Osuna|R|Strikeout|C|Two-Seam Fastball|3|2|1|0|9|90
+Alec Mills|R|Jose Osuna|R|Strikeout|C|Two-Seam Fastball|4|2|2|0|8|90
+Alec Mills|R|Pablo Reyes|R|Strikeout|B|Two-Seam Fastball|5|0|0|1|11|90
+Alec Mills|R|Pablo Reyes|R|Strikeout|B|Slider|6|1|0|1|14|77
+Alec Mills|R|Pablo Reyes|R|Strikeout|C|Four-Seam Fastball|7|2|0|1|6|90
+Alec Mills|R|Pablo Reyes|R|Strikeout|B|Two-Seam Fastball|8|2|1|1|14|90
+Alec Mills|R|Pablo Reyes|R|Strikeout|C|Two-Seam Fastball|9|3|1|1|9|90
+Alec Mills|R|Pablo Reyes|R|Strikeout|T|Two-Seam Fastball|10|3|2|1|8|90
+Alec Mills|R|Adam Frazier|L|Strikeout|C|Two-Seam Fastball|11|0|0|2|6|91
+Alec Mills|R|Adam Frazier|L|Strikeout|S|Curveball|12|0|1|2|6|68
+Alec Mills|R|Adam Frazier|L|Strikeout|S|Changeup|13|0|2|2|13|82
+Alec Mills|R|Elias Diaz|R|Pop Out|B|Two-Seam Fastball|14|0|0|0|11|90
+Alec Mills|R|Elias Diaz|R|Pop Out|B|Two-Seam Fastball|15|1|0|0|14|90
+Alec Mills|R|Elias Diaz|R|Pop Out|C|Four-Seam Fastball|16|2|0|0|3|89
+Alec Mills|R|Elias Diaz|R|Pop Out|S|Slider|17|2|1|0|14|78
+Alec Mills|R|Elias Diaz|R|Pop Out|X|Curveball|18|2|2|0|2|67
+Alec Mills|R|Cole Tucker|L|Triple|C|Curveball|19|0|0|1|13|67
+Alec Mills|R|Cole Tucker|L|Triple|D|Four-Seam Fastball|20|0|1|1|7|90
+Alec Mills|R|Kevin Newman|R|Single|E|Two-Seam Fastball|21|0|0|1|1|90
+Alec Mills|R|Kevin Kramer|L|Pop Out|B|Curveball|22|0|0|1|11|67
+Alec Mills|R|Kevin Kramer|L|Pop Out|C|Curveball|23|1|0|1|5|66
+Alec Mills|R|Kevin Kramer|L|Pop Out|F|Changeup|24|1|1|1|11|80
+Alec Mills|R|Kevin Kramer|L|Pop Out|B|Four-Seam Fastball|25|1|2|1|11|90
+Alec Mills|R|Kevin Kramer|L|Pop Out|B|Four-Seam Fastball|26|2|2|1|11|90
+Alec Mills|R|Kevin Kramer|L|Pop Out|X|Curveball|27|3|2|1|4|70
+Alec Mills|R|Melky Cabrera|L|Flyout|X|Two-Seam Fastball|28|0|0|2|4|91
+Alec Mills|R|Erik Gonzalez|R|Lineout|S|Four-Seam Fastball|29|0|0|0|6|87
+Alec Mills|R|Erik Gonzalez|R|Lineout|F|Two-Seam Fastball|30|0|1|0|8|88
+Alec Mills|R|Erik Gonzalez|R|Lineout|F|Curveball|31|0|2|0|14|64
+Alec Mills|R|Erik Gonzalez|R|Lineout|X|Four-Seam Fastball|32|0|2|0|3|89
+Alec Mills|R|Jose Osuna|R|Strikeout|C|Slider|33|0|0|1|8|77
+Alec Mills|R|Jose Osuna|R|Strikeout|S|Slider|34|0|1|1|13|76
+Alec Mills|R|Jose Osuna|R|Strikeout|B|Slider|35|0|2|1|14|78
+Alec Mills|R|Jose Osuna|R|Strikeout|S|Two-Seam Fastball|36|1|2|1|13|90
+Alec Mills|R|Pablo Reyes|R|Groundout|C|Slider|37|0|0|2|14|77
+Alec Mills|R|Pablo Reyes|R|Groundout|C|Two-Seam Fastball|38|0|1|2|14|90
+Alec Mills|R|Pablo Reyes|R|Groundout|X|Slider|39|0|2|2|14|78
+Alec Mills|R|Aristides Aquino|R|Strikeout|S|Two-Seam Fastball|0|0|0|2|7|88
+Alec Mills|R|Aristides Aquino|R|Strikeout|S|Changeup|1|0|1|2|14|80
+Alec Mills|R|Aristides Aquino|R|Strikeout|B|Changeup|2|0|2|2|14|81
+Alec Mills|R|Aristides Aquino|R|Strikeout|T|Two-Seam Fastball|3|1|2|2|9|91
+Alec Mills|R|Curt Casali|R|Pop Out|C|Curveball|4|0|0|0|11|67
+Alec Mills|R|Curt Casali|R|Pop Out|B|Changeup|5|0|1|0|14|81
+Alec Mills|R|Curt Casali|R|Pop Out|B|Two-Seam Fastball|6|1|1|0|14|90
+Alec Mills|R|Curt Casali|R|Pop Out|X|Changeup|7|2|1|0|4|80
+Alec Mills|R|Michael Lorenzen|R|Strikeout|C|Slider|8|0|0|1|8|78
+Alec Mills|R|Michael Lorenzen|R|Strikeout|S|Changeup|9|0|1|1|11|81
+Alec Mills|R|Michael Lorenzen|R|Strikeout|B|Slider|10|0|2|1|14|80
+Alec Mills|R|Michael Lorenzen|R|Strikeout|C|Two-Seam Fastball|11|1|2|1|14|92
+Alec Mills|R|Jose Peraza|R|Single|C|Four-Seam Fastball|12|0|0|2|8|89
+Alec Mills|R|Jose Peraza|R|Single|B|Slider|13|0|1|2|14|77
+Alec Mills|R|Jose Peraza|R|Single|D|Four-Seam Fastball|14|1|1|2|9|90
+Alec Mills|R|Derek Dietrich|L|Strikeout|B|Curveball|15|0|0|2|14|67
+Alec Mills|R|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|16|1|0|2|12|89
+Alec Mills|R|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|17|1|1|2|12|89
+Alec Mills|R|Derek Dietrich|L|Strikeout|B|Two-Seam Fastball|18|2|1|2|14|90
+Alec Mills|R|Derek Dietrich|L|Strikeout|C|Changeup|19|3|1|2|13|79
+Alec Mills|R|Derek Dietrich|L|Strikeout|S|Changeup|20|3|2|2|14|81
+Alec Mills|R|Tucker Barnhart|L|Flyout|X|Curveball|21|0|0|0|9|67
+Alec Mills|R|Alex Blandino|R|Groundout|F|Curveball|22|0|0|1|13|67
+Alec Mills|R|Alex Blandino|R|Groundout|X|Two-Seam Fastball|23|0|1|1|11|90
+Alec Mills|R|Dexter Fowler|L|Groundout|C|Four-Seam Fastball|0|0|0|0|4|88
+Alec Mills|R|Dexter Fowler|L|Groundout|C|Curveball|1|0|1|0|6|68
+Alec Mills|R|Dexter Fowler|L|Groundout|F|Two-Seam Fastball|2|0|2|0|2|90
+Alec Mills|R|Dexter Fowler|L|Groundout|F|Changeup|3|0|2|0|7|80
+Alec Mills|R|Dexter Fowler|L|Groundout|B|Four-Seam Fastball|4|0|2|0|12|90
+Alec Mills|R|Dexter Fowler|L|Groundout|B|Two-Seam Fastball|5|1|2|0|12|90
+Alec Mills|R|Dexter Fowler|L|Groundout|X|Two-Seam Fastball|6|2|2|0|12|90
+Alec Mills|R|Tommy Edman|L|Hit By Pitch|C|Curveball|7|0|0|1|6|69
+Alec Mills|R|Tommy Edman|L|Hit By Pitch|C|Curveball|8|0|1|1|11|68
+Alec Mills|R|Tommy Edman|L|Hit By Pitch|H|Changeup|9|0|2|1|14|83
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|S|Two-Seam Fastball|10|0|0|1|4|89
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|B|Two-Seam Fastball|11|0|1|1|12|89
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|F|Two-Seam Fastball|12|1|1|1|4|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|F|Changeup|13|1|2|1|11|79
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|14|1|2|1|11|90
+Alec Mills|R|Marcell Ozuna|R|Pop Out|S|Curveball|15|0|0|2|9|68
+Alec Mills|R|Marcell Ozuna|R|Pop Out|X|Curveball|16|0|1|2|14|66
+Alec Mills|R|Matt Carpenter|L|Groundout|C|Four-Seam Fastball|17|0|0|0|6|88
+Alec Mills|R|Matt Carpenter|L|Groundout|F|Curveball|18|0|1|0|8|69
+Alec Mills|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|19|0|2|0|11|89
+Alec Mills|R|Matt Carpenter|L|Groundout|X|Changeup|20|1|2|0|13|81
+Alec Mills|R|Yadier Molina|R|Single|S|Two-Seam Fastball|21|0|0|1|13|90
+Alec Mills|R|Yadier Molina|R|Single|F|Curveball|22|0|1|1|5|66
+Alec Mills|R|Yadier Molina|R|Single|B|Slider|23|0|2|1|14|78
+Alec Mills|R|Yadier Molina|R|Single|D|Four-Seam Fastball|24|1|2|1|12|91
+Alec Mills|R|Paul DeJong|R|Strikeout|B|Two-Seam Fastball|25|0|0|1|12|89
+Alec Mills|R|Paul DeJong|R|Strikeout|F|Two-Seam Fastball|26|1|0|1|11|89
+Alec Mills|R|Paul DeJong|R|Strikeout|F|Two-Seam Fastball|27|1|1|1|11|90
+Alec Mills|R|Paul DeJong|R|Strikeout|F|Changeup|28|1|2|1|7|82
+Alec Mills|R|Paul DeJong|R|Strikeout|B|Two-Seam Fastball|29|1|2|1|12|90
+Alec Mills|R|Paul DeJong|R|Strikeout|S|Four-Seam Fastball|30|2|2|1|12|91
+Alec Mills|R|Harrison Bader|R|Strikeout|C|Curveball|31|0|0|2|7|67
+Alec Mills|R|Harrison Bader|R|Strikeout|B|Curveball|32|0|1|2|14|68
+Alec Mills|R|Harrison Bader|R|Strikeout|B|Changeup|33|1|1|2|14|82
+Alec Mills|R|Harrison Bader|R|Strikeout|F|Changeup|34|2|1|2|5|80
+Alec Mills|R|Harrison Bader|R|Strikeout|S|Slider|35|2|2|2|9|78
+Alec Mills|R|Michael Wacha|R|Strikeout|C|Two-Seam Fastball|36|0|0|0|7|89
+Alec Mills|R|Michael Wacha|R|Strikeout|B|Two-Seam Fastball|37|0|1|0|14|88
+Alec Mills|R|Michael Wacha|R|Strikeout|F|Two-Seam Fastball|38|1|1|0|4|89
+Alec Mills|R|Michael Wacha|R|Strikeout|C|Four-Seam Fastball|39|1|2|0|3|91
+Alec Mills|R|Dexter Fowler|L|Walk|S|Curveball|40|0|0|1|14|66
+Alec Mills|R|Dexter Fowler|L|Walk|B|Changeup|41|0|1|1|14|81
+Alec Mills|R|Dexter Fowler|L|Walk|B|Curveball|42|1|1|1|14|68
+Alec Mills|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|43|2|1|1|12|90
+Alec Mills|R|Dexter Fowler|L|Walk|B|Two-Seam Fastball|44|3|1|1|14|89
+Alec Mills|R|Tommy Edman|L|Double|C|Two-Seam Fastball|45|0|0|1|11|90
+Alec Mills|R|Tommy Edman|L|Double|B|Changeup|46|0|1|1|14|79
+Alec Mills|R|Tommy Edman|L|Double|D|Two-Seam Fastball|47|1|1|1|7|89
+Alec Mills|R|Paul Goldschmidt|R|Flyout|X|Curveball|48|0|0|1|8|66
+Alec Mills|R|Marcell Ozuna|R|Flyout|B|Changeup|49|0|0|2|14|82
+Alec Mills|R|Marcell Ozuna|R|Flyout|B|Curveball|50|1|0|2|14|68
+Alec Mills|R|Marcell Ozuna|R|Flyout|X|Curveball|51|2|0|2|5|67
+Alec Mills|R|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|52|0|0|0|12|88
+Alec Mills|R|Matt Carpenter|L|Groundout|C|Two-Seam Fastball|53|1|0|0|11|89
+Alec Mills|R|Matt Carpenter|L|Groundout|F|Changeup|54|1|1|0|13|80
+Alec Mills|R|Matt Carpenter|L|Groundout|B|Changeup|55|1|2|0|11|82
+Alec Mills|R|Matt Carpenter|L|Groundout|F|Two-Seam Fastball|56|2|2|0|8|90
+Alec Mills|R|Matt Carpenter|L|Groundout|F|Four-Seam Fastball|57|2|2|0|2|89
+Alec Mills|R|Matt Carpenter|L|Groundout|X|Changeup|58|2|2|0|13|82
+Alec Mills|R|Yadier Molina|R|Groundout|S|Curveball|59|0|0|1|11|66
+Alec Mills|R|Yadier Molina|R|Groundout|F|Curveball|60|0|1|1|4|67
+Alec Mills|R|Yadier Molina|R|Groundout|B|Slider|61|0|2|1|14|78
+Alec Mills|R|Yadier Molina|R|Groundout|X|Changeup|62|1|2|1|13|81
+Alec Mills|R|Paul DeJong|R|Groundout|B|Four-Seam Fastball|63|0|0|2|12|89
+Alec Mills|R|Paul DeJong|R|Groundout|X|Curveball|64|1|0|2|5|67
+Alec Mills|R|Harrison Bader|R|Strikeout|C|Four-Seam Fastball|65|0|0|0|12|89
+Alec Mills|R|Harrison Bader|R|Strikeout|S|Four-Seam Fastball|66|0|1|0|3|89
+Alec Mills|R|Harrison Bader|R|Strikeout|B|Four-Seam Fastball|67|0|2|0|12|89
+Alec Mills|R|Harrison Bader|R|Strikeout|F|Curveball|68|1|2|0|6|65
+Alec Mills|R|Harrison Bader|R|Strikeout|S|Slider|69|1|2|0|14|79
+Alec Mills|R|Rangel Ravelo|R|Strikeout|F|Curveball|70|0|0|1|9|67
+Alec Mills|R|Rangel Ravelo|R|Strikeout|S|Curveball|71|0|1|1|9|67
+Alec Mills|R|Rangel Ravelo|R|Strikeout|B|Four-Seam Fastball|72|0|2|1|12|90
+Alec Mills|R|Rangel Ravelo|R|Strikeout|B|Two-Seam Fastball|73|1|2|1|12|91
+Alec Mills|R|Rangel Ravelo|R|Strikeout|S|Slider|74|2|2|1|14|78
+Alec Mills|R|Dexter Fowler|L|Walk|F|Four-Seam Fastball|75|0|0|2|6|89
+Alec Mills|R|Dexter Fowler|L|Walk|B|Four-Seam Fastball|76|0|1|2|12|90
+Alec Mills|R|Dexter Fowler|L|Walk|S|Changeup|77|1|1|2|13|81
+Alec Mills|R|Dexter Fowler|L|Walk|B|Slider|78|1|2|2|14|79
+Alec Mills|R|Dexter Fowler|L|Walk|B|Curveball|79|2|2|2|11|68
+Alec Mills|R|Dexter Fowler|L|Walk|B|Two-Seam Fastball|80|3|2|2|14|91
+Alec Mills|R|Jose Peraza|R|Strikeout|S|Curveball|0|0|0|0|14|67
+Alec Mills|R|Jose Peraza|R|Strikeout|B|Changeup|1|0|1|0|14|80
+Alec Mills|R|Jose Peraza|R|Strikeout|C|Two-Seam Fastball|2|1|1|0|13|89
+Alec Mills|R|Jose Peraza|R|Strikeout|B|Curveball|3|1|2|0|14|67
+Alec Mills|R|Jose Peraza|R|Strikeout|C|Slider|4|2|2|0|8|78
+Alec Mills|R|Sonny Gray|R|Groundout|X|Curveball|5|0|0|1|9|68
+Alec Mills|R|Jesse Winker|L|Walk|B|Changeup|6|0|0|2|14|79
+Alec Mills|R|Jesse Winker|L|Walk|B|Changeup|7|1|0|2|14|81
+Alec Mills|R|Jesse Winker|L|Walk|B|Curveball|8|2|0|2|14|68
+Alec Mills|R|Jesse Winker|L|Walk|B|Two-Seam Fastball|9|3|0|2|13|90
+Alec Mills|R|Joey Votto|L|Flyout|X|Two-Seam Fastball|10|0|0|2|13|89
+Alec Mills|R|Kyle Farmer|R|Home Run|B|Curveball|11|0|0|0|3|67
+Alec Mills|R|Kyle Farmer|R|Home Run|F|Two-Seam Fastball|12|1|0|0|4|89
+Alec Mills|R|Kyle Farmer|R|Home Run|E|Slider|13|1|1|0|4|75
+Alec Mills|R|Josh VanMeter|L|Groundout|C|Four-Seam Fastball|14|0|0|0|3|88
+Alec Mills|R|Josh VanMeter|L|Groundout|B|Changeup|15|0|1|0|13|80
+Alec Mills|R|Josh VanMeter|L|Groundout|S|Changeup|16|1|1|0|8|80
+Alec Mills|R|Josh VanMeter|L|Groundout|X|Changeup|17|1|2|0|13|80
+Alec Mills|R|Aristides Aquino|R|Walk|B|Curveball|18|0|0|1|14|67
+Alec Mills|R|Aristides Aquino|R|Walk|B|Changeup|19|1|0|1|14|81
+Alec Mills|R|Aristides Aquino|R|Walk|B|Curveball|20|2|0|1|14|69
+Alec Mills|R|Aristides Aquino|R|Walk|B|Curveball|21|3|0|1|14|68
+Alec Mills|R|Nick Senzel|R|Forceout|F|Two-Seam Fastball|22|0|0|1|1|89
+Alec Mills|R|Nick Senzel|R|Forceout|X|Two-Seam Fastball|23|0|1|1|11|89
+Alec Mills|R|Tucker Barnhart|L|Walk|C|Curveball|24|0|0|2|4|69
+Alec Mills|R|Tucker Barnhart|L|Walk|*B|Changeup|25|0|1|2|14|81
+Alec Mills|R|Tucker Barnhart|L|Walk|B|Changeup|26|1|1|2|13|80
+Alec Mills|R|Tucker Barnhart|L|Walk|S|Curveball|27|2|1|2|14|70
+Alec Mills|R|Tucker Barnhart|L|Walk|B|Changeup|28|2|2|2|13|81
+Alec Mills|R|Tucker Barnhart|L|Walk|F|Curveball|29|3|2|2|14|69
+Alec Mills|R|Tucker Barnhart|L|Walk|B|Changeup|30|3|2|2|11|80
+Alec Mills|R|Jose Peraza|R|Hit By Pitch|S|Curveball|31|0|0|2|14|67
+Alec Mills|R|Jose Peraza|R|Hit By Pitch|B|Two-Seam Fastball|32|0|1|2|13|89
+Alec Mills|R|Jose Peraza|R|Hit By Pitch|F|Two-Seam Fastball|33|1|1|2|1|88
+Alec Mills|R|Jose Peraza|R|Hit By Pitch|F|Curveball|34|1|2|2|5|66
+Alec Mills|R|Jose Peraza|R|Hit By Pitch|H|Two-Seam Fastball|35|1|2|2|11|90
+Alec Mills|R|Sal Romano|L|Groundout|S|Changeup|36|0|0|2|11|80
+Alec Mills|R|Sal Romano|L|Groundout|X|Changeup|37|0|1|2|13|81
+Alec Mills|R|Jesse Winker|L|Lineout|X|Curveball|38|0|0|0|7|68
+Alec Mills|R|Brian O'Grady|L|Single|B|Four-Seam Fastball|39|0|0|1|14|86
+Alec Mills|R|Brian O'Grady|L|Single|D|Changeup|40|1|0|1|7|81
+Alec Mills|R|Kyle Farmer|R|Forceout|C|Two-Seam Fastball|41|0|0|1|4|89
+Alec Mills|R|Kyle Farmer|R|Forceout|B|Two-Seam Fastball|42|0|1|1|14|89
+Alec Mills|R|Kyle Farmer|R|Forceout|F|Changeup|43|1|1|1|13|81
+Alec Mills|R|Kyle Farmer|R|Forceout|X|Two-Seam Fastball|44|1|2|1|11|88
+Alec Mills|R|Josh VanMeter|L|Double|B|Four-Seam Fastball|45|0|0|2|12|87
+Alec Mills|R|Josh VanMeter|L|Double|B|Changeup|46|1|0|2|13|80
+Alec Mills|R|Josh VanMeter|L|Double|C|Two-Seam Fastball|47|2|0|2|13|89
+Alec Mills|R|Josh VanMeter|L|Double|D|Four-Seam Fastball|48|2|1|2|1|88
+Alec Mills|R|Aristides Aquino|R|Strikeout|B|Two-Seam Fastball|49|0|0|2|13|90
+Alec Mills|R|Aristides Aquino|R|Strikeout|C|Curveball|50|1|0|2|1|66
+Alec Mills|R|Aristides Aquino|R|Strikeout|S|Changeup|51|1|1|2|7|82
+Alec Mills|R|Aristides Aquino|R|Strikeout|S|Changeup|52|1|2|2|14|83
+Alec Mills|R|Nick Senzel|R|Groundout|F|Curveball|53|0|0|0|7|66
+Alec Mills|R|Nick Senzel|R|Groundout|B|Two-Seam Fastball|54|0|1|0|13|88
+Alec Mills|R|Nick Senzel|R|Groundout|F|Two-Seam Fastball|55|1|1|0|13|89
+Alec Mills|R|Nick Senzel|R|Groundout|X|Two-Seam Fastball|56|1|2|0|4|90
+Alec Mills|R|Tucker Barnhart|L|Groundout|C|Four-Seam Fastball|57|0|0|1|2|87
+Alec Mills|R|Tucker Barnhart|L|Groundout|X|Curveball|58|0|1|1|8|69
+Alec Mills|R|Jose Peraza|R|Single|D|Changeup|59|0|0|2|1|80
+Alec Mills|R|Sal Romano|L|Strikeout|C|Curveball|60|0|0|2|7|67
+Alec Mills|R|Sal Romano|L|Strikeout|B|Two-Seam Fastball|61|0|1|2|11|89
+Alec Mills|R|Sal Romano|L|Strikeout|*B|Changeup|62|1|1|2|14|80
+Alec Mills|R|Sal Romano|L|Strikeout|T|Two-Seam Fastball|63|2|1|2|7|88
+Alec Mills|R|Sal Romano|L|Strikeout|B|Two-Seam Fastball|64|2|2|2|13|89
+Alec Mills|R|Sal Romano|L|Strikeout|S|Four-Seam Fastball|65|3|2|2|11|89
+Alec Mills|R|Greg Garcia|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|89
+Alec Mills|R|Greg Garcia|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|7|90
+Alec Mills|R|Greg Garcia|L|Strikeout|S|Curveball|2|1|1|0|8|69
+Alec Mills|R|Greg Garcia|L|Strikeout|W|Changeup|3|1|2|0|14|82
+Alec Mills|R|Nick Martini|L|Single|C|Two-Seam Fastball|4|0|0|1|8|90
+Alec Mills|R|Nick Martini|L|Single|D|Curveball|5|0|1|1|7|69
+Alec Mills|R|Ty France|R|Flyout|B|Four-Seam Fastball|6|0|0|1|14|88
+Alec Mills|R|Ty France|R|Flyout|F|Two-Seam Fastball|7|1|0|1|13|89
+Alec Mills|R|Ty France|R|Flyout|X|Two-Seam Fastball|8|1|1|1|8|90
+Alec Mills|R|Seth Mejias-Brean|R|Strikeout|B|Four-Seam Fastball|9|0|0|2|14|89
+Alec Mills|R|Seth Mejias-Brean|R|Strikeout|C|Curveball|10|1|0|2|5|67
+Alec Mills|R|Seth Mejias-Brean|R|Strikeout|B|Curveball|11|1|1|2|14|67
+Alec Mills|R|Seth Mejias-Brean|R|Strikeout|F|Four-Seam Fastball|12|2|1|2|9|90
+Alec Mills|R|Seth Mejias-Brean|R|Strikeout|S|Changeup|13|2|2|2|13|79
+Alec Mills|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|89
+Alec Mills|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|90
+Alec Mills|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|2|90
+Alec Mills|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|12|90
+Alec Mills|R|Brandon Belt|L|Strikeout|F|Changeup|4|1|2|0|7|82
+Alec Mills|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|5|1|2|0|11|91
+Alec Mills|R|Mike Yastrzemski|L|Groundout|C|Two-Seam Fastball|6|0|0|1|7|90
+Alec Mills|R|Mike Yastrzemski|L|Groundout|S|Curveball|7|0|1|1|14|69
+Alec Mills|R|Mike Yastrzemski|L|Groundout|X|Four-Seam Fastball|8|0|2|1|11|90
+Alec Mills|R|Pablo Sandoval|L|Strikeout|B|Two-Seam Fastball|9|0|0|2|13|90
+Alec Mills|R|Pablo Sandoval|L|Strikeout|F|Two-Seam Fastball|10|1|0|2|7|91
+Alec Mills|R|Pablo Sandoval|L|Strikeout|B|Four-Seam Fastball|11|1|1|2|12|89
+Alec Mills|R|Pablo Sandoval|L|Strikeout|S|Changeup|12|2|1|2|13|81
+Alec Mills|R|Pablo Sandoval|L|Strikeout|F|Four-Seam Fastball|13|2|2|2|5|91
+Alec Mills|R|Pablo Sandoval|L|Strikeout|B|Changeup|14|2|2|2|13|80
+Alec Mills|R|Pablo Sandoval|L|Strikeout|F|Two-Seam Fastball|15|3|2|2|7|91
+Alec Mills|R|Pablo Sandoval|L|Strikeout|F|Two-Seam Fastball|16|3|2|2|13|91
+Alec Mills|R|Pablo Sandoval|L|Strikeout|S|Changeup|17|3|2|2|13|82
+Alec Mills|R|Stephen Vogt|L|Strikeout|C|Four-Seam Fastball|18|0|0|0|11|89
+Alec Mills|R|Stephen Vogt|L|Strikeout|F|Two-Seam Fastball|19|0|1|0|7|89
+Alec Mills|R|Stephen Vogt|L|Strikeout|B|Four-Seam Fastball|20|0|2|0|11|89
+Alec Mills|R|Stephen Vogt|L|Strikeout|F|Changeup|21|1|2|0|13|82
+Alec Mills|R|Stephen Vogt|L|Strikeout|S|Changeup|22|1|2|0|13|80
+Alec Mills|R|Brandon Crawford|L|Groundout|C|Curveball|23|0|0|1|9|68
+Alec Mills|R|Brandon Crawford|L|Groundout|S|Changeup|24|0|1|1|13|80
+Alec Mills|R|Brandon Crawford|L|Groundout|F|Changeup|25|0|2|1|13|80
+Alec Mills|R|Brandon Crawford|L|Groundout|B|Changeup|26|0|2|1|13|80
+Alec Mills|R|Brandon Crawford|L|Groundout|B|Curveball|27|1|2|1|14|69
+Alec Mills|R|Brandon Crawford|L|Groundout|X|Changeup|28|2|2|1|13|82
+Alec Mills|R|Kevin Pillar|R|Single|C|Four-Seam Fastball|29|0|0|2|3|89
+Alec Mills|R|Kevin Pillar|R|Single|B|Slider|30|0|1|2|14|78
+Alec Mills|R|Kevin Pillar|R|Single|D|Four-Seam Fastball|31|1|1|2|6|90
+Alec Mills|R|Austin Slater|R|Walk|S|Four-Seam Fastball|32|0|0|2|1|89
+Alec Mills|R|Austin Slater|R|Walk|B|Slider|33|0|1|2|14|78
+Alec Mills|R|Austin Slater|R|Walk|*B|Changeup|34|1|1|2|14|81
+Alec Mills|R|Austin Slater|R|Walk|C|Four-Seam Fastball|35|2|1|2|14|90
+Alec Mills|R|Austin Slater|R|Walk|*B|Slider|36|2|2|2|14|79
+Alec Mills|R|Austin Slater|R|Walk|F|Four-Seam Fastball|37|3|2|2|3|91
+Alec Mills|R|Austin Slater|R|Walk|B|Four-Seam Fastball|38|3|2|2|12|90
+Alec Mills|R|Joe Panik|L|Groundout|B|Two-Seam Fastball|39|0|0|2|13|89
+Alec Mills|R|Joe Panik|L|Groundout|C|Two-Seam Fastball|40|1|0|2|8|90
+Alec Mills|R|Joe Panik|L|Groundout|X|Changeup|41|1|1|2|13|78
+Alec Mills|R|Shaun Anderson|R|Strikeout|F|Four-Seam Fastball|42|0|0|0|6|87
+Alec Mills|R|Shaun Anderson|R|Strikeout|C|Four-Seam Fastball|43|0|1|0|9|89
+Alec Mills|R|Shaun Anderson|R|Strikeout|B|Slider|44|0|2|0|14|77
+Alec Mills|R|Shaun Anderson|R|Strikeout|S|Slider|45|1|2|0|14|79
+Alec Mills|R|Brandon Belt|L|Lineout|B|Four-Seam Fastball|46|0|0|1|11|88
+Alec Mills|R|Brandon Belt|L|Lineout|F|Changeup|47|1|0|1|13|80
+Alec Mills|R|Brandon Belt|L|Lineout|S|Changeup|48|1|1|1|13|82
+Alec Mills|R|Brandon Belt|L|Lineout|X|Four-Seam Fastball|49|1|2|1|1|91
+Alec Mills|R|Mike Yastrzemski|L|Single|B|Curveball|50|0|0|2|14|68
+Alec Mills|R|Mike Yastrzemski|L|Single|B|Changeup|51|1|0|2|11|79
+Alec Mills|R|Mike Yastrzemski|L|Single|D|Two-Seam Fastball|52|2|0|2|13|89
+Alec Mills|R|Pablo Sandoval|L|Groundout|B|Changeup|53|0|0|2|13|79
+Alec Mills|R|Pablo Sandoval|L|Groundout|S|Changeup|54|1|0|2|14|78
+Alec Mills|R|Pablo Sandoval|L|Groundout|X|Two-Seam Fastball|55|1|1|2|13|90
+Alec Mills|R|Stephen Vogt|L|Double|B|Two-Seam Fastball|56|0|0|0|13|88
+Alec Mills|R|Stephen Vogt|L|Double|F|Two-Seam Fastball|57|1|0|0|5|88
+Alec Mills|R|Stephen Vogt|L|Double|B|Changeup|58|1|1|0|14|80
+Alec Mills|R|Stephen Vogt|L|Double|D|Changeup|59|2|1|0|13|80
+Alec Mills|R|Brandon Crawford|L|Single|C|Curveball|60|0|0|0|4|67
+Alec Mills|R|Brandon Crawford|L|Single|D|Changeup|61|0|1|0|9|78
+Alec Mills|R|Kevin Pillar|R|Grounded Into DP|E|Slider|62|0|0|0|14|77
+Alec Mills|R|Austin Slater|R|Groundout|B|Slider|63|0|0|2|14|78
+Alec Mills|R|Austin Slater|R|Groundout|X|Two-Seam Fastball|64|1|0|2|11|88
+Alec Mills|R|Joe Panik|L|Single|F|Two-Seam Fastball|65|0|0|0|13|88
+Alec Mills|R|Joe Panik|L|Single|D|Four-Seam Fastball|66|0|1|0|5|87
+Alec Mills|R|Zach Green|R|Strikeout|S|Slider|67|0|0|0|7|76
+Alec Mills|R|Zach Green|R|Strikeout|C|Two-Seam Fastball|68|0|1|0|7|87
+Alec Mills|R|Zach Green|R|Strikeout|F|Changeup|69|0|2|0|13|79
+Alec Mills|R|Zach Green|R|Strikeout|C|Slider|70|0|2|0|12|78
+Alec Mills|R|Brandon Belt|L|Single|D|Changeup|71|0|0|1|13|80
+Alec Mills|R|Mike Yastrzemski|L|Single|S|Changeup|72|0|0|1|13|80
+Alec Mills|R|Mike Yastrzemski|L|Single|*B|Changeup|73|0|1|1|14|81
+Alec Mills|R|Mike Yastrzemski|L|Single|*B|Curveball|74|1|1|1|14|68
+Alec Mills|R|Mike Yastrzemski|L|Single|E|Two-Seam Fastball|75|2|1|1|5|90
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|89
+Alec Mills|R|Dexter Fowler|L|Strikeout|B|Curveball|1|0|1|0|13|66
+Alec Mills|R|Dexter Fowler|L|Strikeout|B|Curveball|2|1|1|0|14|69
+Alec Mills|R|Dexter Fowler|L|Strikeout|F|Changeup|3|2|1|0|13|80
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Two-Seam Fastball|4|2|2|0|6|91
+Alec Mills|R|Tommy Edman|L|Single|C|Curveball|5|0|0|1|13|67
+Alec Mills|R|Tommy Edman|L|Single|D|Four-Seam Fastball|6|0|1|1|3|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|7|0|0|1|12|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|8|1|0|1|3|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|9|1|1|1|3|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|10|1|2|1|3|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|11|1|2|1|6|91
+Alec Mills|R|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|12|0|0|2|14|90
+Alec Mills|R|Marcell Ozuna|R|Walk|B|Curveball|13|1|0|2|13|66
+Alec Mills|R|Marcell Ozuna|R|Walk|B|Curveball|14|2|0|2|12|65
+Alec Mills|R|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|15|3|0|2|14|91
+Alec Mills|R|Yadier Molina|R|Flyout|X|Curveball|16|0|0|2|6|66
+Alec Mills|R|Matt Carpenter|L|Single|F|Four-Seam Fastball|17|0|0|0|7|88
+Alec Mills|R|Matt Carpenter|L|Single|D|Four-Seam Fastball|18|0|1|0|6|89
+Alec Mills|R|Paul DeJong|R|Strikeout|C|Two-Seam Fastball|19|0|0|0|13|89
+Alec Mills|R|Paul DeJong|R|Strikeout|B|Two-Seam Fastball|20|0|1|0|13|89
+Alec Mills|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|21|1|1|0|3|90
+Alec Mills|R|Paul DeJong|R|Strikeout|B|Four-Seam Fastball|22|1|2|0|12|90
+Alec Mills|R|Paul DeJong|R|Strikeout|S|Four-Seam Fastball|23|2|2|0|12|91
+Alec Mills|R|Harrison Bader|R|Strikeout|B|Four-Seam Fastball|24|0|0|1|14|91
+Alec Mills|R|Harrison Bader|R|Strikeout|C|Four-Seam Fastball|25|1|0|1|9|90
+Alec Mills|R|Harrison Bader|R|Strikeout|*B|Slider|26|1|1|1|14|78
+Alec Mills|R|Harrison Bader|R|Strikeout|F|Four-Seam Fastball|27|2|1|1|1|91
+Alec Mills|R|Harrison Bader|R|Strikeout|F|Curveball|28|2|2|1|13|64
+Alec Mills|R|Harrison Bader|R|Strikeout|S|Slider|29|2|2|1|14|78
+Alec Mills|R|Dakota Hudson|R|Forceout|S|Two-Seam Fastball|30|0|0|2|9|90
+Alec Mills|R|Dakota Hudson|R|Forceout|B|Four-Seam Fastball|31|0|1|2|14|90
+Alec Mills|R|Dakota Hudson|R|Forceout|X|Two-Seam Fastball|32|1|1|2|4|90
+Alec Mills|R|Dexter Fowler|L|Groundout|F|Four-Seam Fastball|33|0|0|0|3|89
+Alec Mills|R|Dexter Fowler|L|Groundout|B|Four-Seam Fastball|34|0|1|0|12|89
+Alec Mills|R|Dexter Fowler|L|Groundout|B|Four-Seam Fastball|35|1|1|0|13|90
+Alec Mills|R|Dexter Fowler|L|Groundout|X|Four-Seam Fastball|36|2|1|0|3|89
+Alec Mills|R|Tommy Edman|L|Double|B|Two-Seam Fastball|37|0|0|1|11|90
+Alec Mills|R|Tommy Edman|L|Double|D|Curveball|38|1|0|1|9|67
+Alec Mills|R|Paul Goldschmidt|R|Flyout|B|Four-Seam Fastball|39|0|0|1|12|90
+Alec Mills|R|Paul Goldschmidt|R|Flyout|C|Changeup|40|1|0|1|9|78
+Alec Mills|R|Paul Goldschmidt|R|Flyout|F|Two-Seam Fastball|41|1|1|1|11|90
+Alec Mills|R|Paul Goldschmidt|R|Flyout|X|Four-Seam Fastball|42|1|2|1|14|90
+Alec Mills|R|Marcell Ozuna|R|Groundout|F|Two-Seam Fastball|43|0|0|2|11|90
+Alec Mills|R|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|44|0|1|2|14|91
+Alec Mills|R|Marcell Ozuna|R|Groundout|C|Four-Seam Fastball|45|1|1|2|14|91
+Alec Mills|R|Marcell Ozuna|R|Groundout|X|Slider|46|1|2|2|14|79
+Alec Mills|R|Yadier Molina|R|Flyout|B|Two-Seam Fastball|47|0|0|0|11|88
+Alec Mills|R|Yadier Molina|R|Flyout|B|Four-Seam Fastball|48|1|0|0|12|89
+Alec Mills|R|Yadier Molina|R|Flyout|X|Two-Seam Fastball|49|2|0|0|4|89
+Alec Mills|R|Matt Carpenter|L|Home Run|C|Changeup|50|0|0|1|14|81
+Alec Mills|R|Matt Carpenter|L|Home Run|B|Changeup|51|0|1|1|14|82
+Alec Mills|R|Matt Carpenter|L|Home Run|B|Two-Seam Fastball|52|1|1|1|11|90
+Alec Mills|R|Matt Carpenter|L|Home Run|S|Two-Seam Fastball|53|2|1|1|4|90
+Alec Mills|R|Matt Carpenter|L|Home Run|E|Two-Seam Fastball|54|2|2|1|7|91
+Alec Mills|R|Paul DeJong|R|Walk|B|Curveball|55|0|0|1|11|65
+Alec Mills|R|Paul DeJong|R|Walk|B|Slider|56|1|0|1|14|79
+Alec Mills|R|Paul DeJong|R|Walk|B|Slider|57|2|0|1|14|79
+Alec Mills|R|Paul DeJong|R|Walk|C|Four-Seam Fastball|58|3|0|1|6|89
+Alec Mills|R|Paul DeJong|R|Walk|B|Curveball|59|3|1|1|14|68
+Alec Mills|R|Harrison Bader|R|Strikeout|C|Four-Seam Fastball|60|0|0|1|12|89
+Alec Mills|R|Harrison Bader|R|Strikeout|B|Four-Seam Fastball|61|0|1|1|12|88
+Alec Mills|R|Harrison Bader|R|Strikeout|T|Four-Seam Fastball|62|1|1|1|11|89
+Alec Mills|R|Harrison Bader|R|Strikeout|F|Two-Seam Fastball|63|1|2|1|11|88
+Alec Mills|R|Harrison Bader|R|Strikeout|S|Slider|64|1|2|1|14|77
+Alec Mills|R|Dakota Hudson|R|Strikeout|F|Two-Seam Fastball|65|0|0|2|13|88
+Alec Mills|R|Dakota Hudson|R|Strikeout|B|Four-Seam Fastball|66|0|1|2|12|89
+Alec Mills|R|Dakota Hudson|R|Strikeout|T|Four-Seam Fastball|67|1|1|2|6|88
+Alec Mills|R|Dakota Hudson|R|Strikeout|B|Four-Seam Fastball|68|1|2|2|11|89
+Alec Mills|R|Dakota Hudson|R|Strikeout|C|Two-Seam Fastball|69|2|2|2|13|88
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Curveball|70|0|0|0|9|66
+Alec Mills|R|Dexter Fowler|L|Strikeout|B|Changeup|71|0|1|0|13|79
+Alec Mills|R|Dexter Fowler|L|Strikeout|C|Changeup|72|1|1|0|13|80
+Alec Mills|R|Dexter Fowler|L|Strikeout|S|Four-Seam Fastball|73|1|2|0|2|89
+Alec Mills|R|Tommy Edman|L|Single|F|Curveball|74|0|0|1|4|67
+Alec Mills|R|Tommy Edman|L|Single|B|Slider|75|0|1|1|11|76
+Alec Mills|R|Tommy Edman|L|Single|S|Changeup|76|1|1|1|8|81
+Alec Mills|R|Tommy Edman|L|Single|F|Four-Seam Fastball|77|1|2|1|11|90
+Alec Mills|R|Tommy Edman|L|Single|B|Two-Seam Fastball|78|1|2|1|12|89
+Alec Mills|R|Tommy Edman|L|Single|B|Changeup|79|2|2|1|14|82
+Alec Mills|R|Tommy Edman|L|Single|F|Four-Seam Fastball|80|3|2|1|11|90
+Alec Mills|R|Tommy Edman|L|Single|F|Changeup|81|3|2|1|7|81
+Alec Mills|R|Tommy Edman|L|Single|D|Two-Seam Fastball|82|3|2|1|6|90
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|83|0|0|1|12|88
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|84|1|0|1|12|89
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|85|1|1|1|3|87
+Alec Mills|R|Paul Goldschmidt|R|Strikeout|C|Changeup|86|1|2|1|13|80
+Alec Mills|R|Marcell Ozuna|R|Strikeout|*B|Slider|87|0|0|2|14|77
+Alec Mills|R|Marcell Ozuna|R|Strikeout|C|Two-Seam Fastball|88|1|0|2|13|88
+Alec Mills|R|Marcell Ozuna|R|Strikeout|S|Curveball|89|1|1|2|9|66
+Alec Mills|R|Marcell Ozuna|R|Strikeout|S|Four-Seam Fastball|90|1|2|2|12|91
+Alec Mills|R|Aaron Nola|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|88
+Alec Mills|R|Aaron Nola|R|Walk|B|Four-Seam Fastball|1|1|0|2|12|89
+Alec Mills|R|Aaron Nola|R|Walk|B|Four-Seam Fastball|2|2|0|2|12|89
+Alec Mills|R|Aaron Nola|R|Walk|B|Four-Seam Fastball|3|3|0|2|12|89
+Alec Mills|R|Rhys Hoskins|R|Forceout|C|Curveball|4|0|0|2|11|67
+Alec Mills|R|Rhys Hoskins|R|Forceout|B|Four-Seam Fastball|5|0|1|2|12|91
+Alec Mills|R|Rhys Hoskins|R|Forceout|B|Slider|6|1|1|2|14|78
+Alec Mills|R|Rhys Hoskins|R|Forceout|X|Four-Seam Fastball|7|2|1|2|9|90
+Alec Mills|R|J.T. Realmuto|R|Home Run|F|Two-Seam Fastball|8|0|0|0|13|90
+Alec Mills|R|J.T. Realmuto|R|Home Run|F|Slider|9|0|1|0|9|79
+Alec Mills|R|J.T. Realmuto|R|Home Run|E|Changeup|10|0|2|0|4|80
+Alec Mills|R|Bryce Harper|L|Single|B|Changeup|11|0|0|0|11|80
+Alec Mills|R|Bryce Harper|L|Single|F|Two-Seam Fastball|12|1|0|0|6|90
+Alec Mills|R|Bryce Harper|L|Single|S|Two-Seam Fastball|13|1|1|0|7|91
+Alec Mills|R|Bryce Harper|L|Single|D|Changeup|14|1|2|0|13|82
+Alec Mills|R|Jean Segura|R|Grounded Into DP|X|Two-Seam Fastball|15|0|0|0|4|89
+Alec Mills|R|Scott Kingery|R|Groundout|B|Curveball|16|0|0|2|14|67
+Alec Mills|R|Scott Kingery|R|Groundout|B|Four-Seam Fastball|17|1|0|2|14|88
+Alec Mills|R|Scott Kingery|R|Groundout|X|Four-Seam Fastball|18|2|0|2|12|88
+Alec Mills|R|Roman Quinn|L|Lineout|B|Changeup|19|0|0|0|11|81
+Alec Mills|R|Roman Quinn|L|Lineout|B|Two-Seam Fastball|20|1|0|0|13|89
+Alec Mills|R|Roman Quinn|L|Lineout|F|Four-Seam Fastball|21|2|0|0|8|88
+Alec Mills|R|Roman Quinn|L|Lineout|B|Four-Seam Fastball|22|2|1|0|11|88
+Alec Mills|R|Roman Quinn|L|Lineout|X|Four-Seam Fastball|23|3|1|0|7|87
+Alec Mills|R|Cesar Hernandez|L|Walk|B|Slider|24|0|0|1|14|78
+Alec Mills|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|25|1|0|1|13|88
+Alec Mills|R|Cesar Hernandez|L|Walk|B|Two-Seam Fastball|26|2|0|1|13|89
+Alec Mills|R|Cesar Hernandez|L|Walk|*B|Four-Seam Fastball|27|3|0|1|14|87
+Alec Mills|R|Adam Haseley|L|Groundout|F|Four-Seam Fastball|28|0|0|1|1|88
+Alec Mills|R|Adam Haseley|L|Groundout|F|Slider|29|0|1|1|14|77
+Alec Mills|R|Adam Haseley|L|Groundout|X|Slider|30|0|2|1|5|78
+Alec Mills|R|Aaron Nola|R|Groundout|X|Four-Seam Fastball|31|0|0|2|12|86
+Alec Mills|R|Rhys Hoskins|R|Pop Out|B|Four-Seam Fastball|32|0|0|0|14|89
+Alec Mills|R|Rhys Hoskins|R|Pop Out|X|Four-Seam Fastball|33|1|0|0|5|87
+Alec Mills|R|J.T. Realmuto|R|Groundout|C|Four-Seam Fastball|34|0|0|1|14|89
+Alec Mills|R|J.T. Realmuto|R|Groundout|X|Two-Seam Fastball|35|0|1|1|13|88
+Alec Mills|R|Bryce Harper|L|Home Run|B|Curveball|36|0|0|2|11|67
+Alec Mills|R|Bryce Harper|L|Home Run|B|Four-Seam Fastball|37|1|0|2|11|89
+Alec Mills|R|Bryce Harper|L|Home Run|E|Four-Seam Fastball|38|2|0|2|8|88
+Alec Mills|R|Jean Segura|R|Single|C|Four-Seam Fastball|39|0|0|2|14|90
+Alec Mills|R|Jean Segura|R|Single|B|Slider|40|0|1|2|14|80
+Alec Mills|R|Jean Segura|R|Single|D|Two-Seam Fastball|41|1|1|2|13|88
+Alec Mills|R|Scott Kingery|R|Forceout|F|Slider|42|0|0|2|7|77
+Alec Mills|R|Scott Kingery|R|Forceout|X|Four-Seam Fastball|43|0|1|2|14|86
+Alec Mills|R|Roman Quinn|L|Grounded Into DP|S|Changeup|44|0|0|0|13|80
+Alec Mills|R|Roman Quinn|L|Grounded Into DP|B|Two-Seam Fastball|45|0|1|0|13|88
+Alec Mills|R|Roman Quinn|L|Grounded Into DP|F|Slider|46|1|1|0|9|78
+Alec Mills|R|Roman Quinn|L|Grounded Into DP|X|Changeup|47|1|2|0|13|81
+Alec Mills|R|Cesar Hernandez|L|Strikeout|C|Four-Seam Fastball|48|0|0|2|13|86
+Alec Mills|R|Cesar Hernandez|L|Strikeout|C|Slider|49|0|1|2|14|77
+Alec Mills|R|Cesar Hernandez|L|Strikeout|B|Four-Seam Fastball|50|0|2|2|11|86
+Alec Mills|R|Cesar Hernandez|L|Strikeout|B|Slider|51|1|2|2|14|77
+Alec Mills|R|Cesar Hernandez|L|Strikeout|F|Four-Seam Fastball|52|2|2|2|11|88
+Alec Mills|R|Cesar Hernandez|L|Strikeout|C|Two-Seam Fastball|53|2|2|2|6|87
+Alec Mills|R|Adam Haseley|L|Strikeout|C|Four-Seam Fastball|54|0|0|0|8|87
+Alec Mills|R|Adam Haseley|L|Strikeout|F|Slider|55|0|1|0|13|77
+Alec Mills|R|Adam Haseley|L|Strikeout|B|Four-Seam Fastball|56|0|2|0|12|87
+Alec Mills|R|Adam Haseley|L|Strikeout|S|Curveball|57|1|2|0|13|65
+Alec Mills|R|Logan Morrison|L|Flyout|B|Four-Seam Fastball|58|0|0|1|13|86
+Alec Mills|R|Logan Morrison|L|Flyout|F|Curveball|59|1|0|1|6|67
+Alec Mills|R|Logan Morrison|L|Flyout|B|Four-Seam Fastball|60|1|1|1|11|88
+Alec Mills|R|Logan Morrison|L|Flyout|T|Four-Seam Fastball|61|2|1|1|5|88
+Alec Mills|R|Logan Morrison|L|Flyout|B|Changeup|62|2|2|1|13|80
+Alec Mills|R|Logan Morrison|L|Flyout|X|Four-Seam Fastball|63|3|2|1|4|88
+Alec Mills|R|Sean Rodriguez|R|Groundout|S|Four-Seam Fastball|64|0|0|2|9|86
+Alec Mills|R|Sean Rodriguez|R|Groundout|F|Four-Seam Fastball|65|0|1|2|6|87
+Alec Mills|R|Sean Rodriguez|R|Groundout|X|Slider|66|0|2|2|2|77
+Alec Mills|R|Andrew Knapp|L|Hit By Pitch|C|Slider|67|0|0|0|4|76
+Alec Mills|R|Andrew Knapp|L|Hit By Pitch|S|Curveball|68|0|1|0|14|65
+Alec Mills|R|Andrew Knapp|L|Hit By Pitch|B|Two-Seam Fastball|69|0|2|0|14|86
+Alec Mills|R|Andrew Knapp|L|Hit By Pitch|H|Curveball|70|1|2|0|14|66
+Alec Mills|R|Brad Miller|L|Strikeout|C|Two-Seam Fastball|71|0|0|0|1|87
+Alec Mills|R|Brad Miller|L|Strikeout|B|Two-Seam Fastball|72|0|1|0|13|88
+Alec Mills|R|Brad Miller|L|Strikeout|B|Changeup|73|1|1|0|13|79
+Alec Mills|R|Brad Miller|L|Strikeout|F|Four-Seam Fastball|74|2|1|0|14|88
+Alec Mills|R|Brad Miller|L|Strikeout|F|Four-Seam Fastball|75|2|2|0|8|88
+Alec Mills|R|Brad Miller|L|Strikeout|C|Four-Seam Fastball|76|2|2|0|14|88
+Alec Mills|R|Jean Segura|R|Strikeout|C|Curveball|77|0|0|1|4|66
+Alec Mills|R|Jean Segura|R|Strikeout|F|Slider|78|0|1|1|6|78
+Alec Mills|R|Jean Segura|R|Strikeout|C|Two-Seam Fastball|79|0|2|1|12|88
+Alec Mills|R|Josh Rutledge|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|91
+Alec Mills|R|Josh Rutledge|R|Walk|B|Four-Seam Fastball|1|1|0|0|14|90
+Alec Mills|R|Josh Rutledge|R|Walk|B|Four-Seam Fastball|2|2|0|0|14|90
+Alec Mills|R|Josh Rutledge|R|Walk|C|Two-Seam Fastball|3|3|0|0|7|90
+Alec Mills|R|Josh Rutledge|R|Walk|B|Two-Seam Fastball|4|3|1|0|14|92
+Alec Mills|R|Jackie Bradley Jr.|L|Single|B|Two-Seam Fastball|5|0|0|0|13|91
+Alec Mills|R|Jackie Bradley Jr.|L|Single|C|Four-Seam Fastball|6|1|0|0|7|91
+Alec Mills|R|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|7|1|1|0|14|91
+Alec Mills|R|Jackie Bradley Jr.|L|Single|F|Four-Seam Fastball|8|2|1|0|8|92
+Alec Mills|R|Jackie Bradley Jr.|L|Single|D|Changeup|9|2|2|0|14|78
+Alec Mills|R|Christian Vazquez|R|Groundout|F|Four-Seam Fastball|10|0|0|0|8|91
+Alec Mills|R|Christian Vazquez|R|Groundout|F|Curveball|11|0|1|0|2|78
+Alec Mills|R|Christian Vazquez|R|Groundout|E|Two-Seam Fastball|12|0|2|0|8|93
+Alec Mills|R|Brock Holt|L|Pop Out|X|Changeup|13|0|0|1|8|75
+Alec Mills|R|Mookie Betts|R|Hit By Pitch|B|Four-Seam Fastball|14|0|0|2|11|90
+Alec Mills|R|Mookie Betts|R|Hit By Pitch|F|Curveball|15|1|0|2|8|78
+Alec Mills|R|Mookie Betts|R|Hit By Pitch|H|Two-Seam Fastball|16|1|1|2|11|92
+Alec Mills|R|Xander Bogaerts|R|Walk|B|Curveball|17|0|0|2|11|78
+Alec Mills|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|18|1|0|2|11|90
+Alec Mills|R|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|19|2|0|2|11|90
+Alec Mills|R|Xander Bogaerts|R|Walk|B|Two-Seam Fastball|20|3|0|2|11|91
+Alec Mills|R|Brett Eibner|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|92
+Alec Mills|R|Brett Eibner|R|Walk|C|Four-Seam Fastball|1|1|0|0|8|92
+Alec Mills|R|Brett Eibner|R|Walk|B|Curveball|2|1|1|0|14|81
+Alec Mills|R|Brett Eibner|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|93
+Alec Mills|R|Brett Eibner|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|92
+Alec Mills|R|Joey Wendle|L|Strikeout|F|Four-Seam Fastball|5|0|0|0|2|92
+Alec Mills|R|Joey Wendle|L|Strikeout|F|Two-Seam Fastball|6|0|1|0|11|92
+Alec Mills|R|Joey Wendle|L|Strikeout|B|Four-Seam Fastball|7|0|2|0|14|91
+Alec Mills|R|Joey Wendle|L|Strikeout|F|Curveball|8|1|2|0|14|81
+Alec Mills|R|Joey Wendle|L|Strikeout|F|Four-Seam Fastball|9|1|2|0|5|93
+Alec Mills|R|Joey Wendle|L|Strikeout|T|Two-Seam Fastball|10|1|2|0|13|93
+Alec Mills|R|Matt Olson|L|Walk|B|Two-Seam Fastball|11|0|0|1|11|91
+Alec Mills|R|Matt Olson|L|Walk|B|Two-Seam Fastball|12|1|0|1|13|91
+Alec Mills|R|Matt Olson|L|Walk|B|Two-Seam Fastball|13|2|0|1|13|91
+Alec Mills|R|Matt Olson|L|Walk|B|Four-Seam Fastball|14|3|0|1|11|91
+Alec Mills|R|Renato Nunez|R|Groundout|B|Curveball|15|0|0|1|11|79
+Alec Mills|R|Renato Nunez|R|Groundout|W|Curveball|16|1|0|1|14|81
+Alec Mills|R|Renato Nunez|R|Groundout|S|Four-Seam Fastball|17|1|1|1|4|91
+Alec Mills|R|Renato Nunez|R|Groundout|F|Four-Seam Fastball|18|1|2|1|14|92
+Alec Mills|R|Renato Nunez|R|Groundout|F|Curveball|19|1|2|1|14|81
+Alec Mills|R|Renato Nunez|R|Groundout|F|Curveball|20|1|2|1|9|79
+Alec Mills|R|Renato Nunez|R|Groundout|B|Two-Seam Fastball|21|1|2|1|13|92
+Alec Mills|R|Renato Nunez|R|Groundout|F|Two-Seam Fastball|22|2|2|1|14|92
+Alec Mills|R|Renato Nunez|R|Groundout|X|Curveball|23|2|2|1|14|79
+Alec Mills|R|Arismendy Alcantara|L|Double|F|Two-Seam Fastball|24|0|0|2|13|91
+Alec Mills|R|Arismendy Alcantara|L|Double|E|Two-Seam Fastball|25|0|1|2|13|91
+Alec Mills|R|Max Muncy|L|Walk|B|Two-Seam Fastball|26|0|0|2|14|91
+Alec Mills|R|Max Muncy|L|Walk|B|Four-Seam Fastball|27|1|0|2|14|91
+Alec Mills|R|Max Muncy|L|Walk|B|Four-Seam Fastball|28|2|0|2|11|90
+Alec Mills|R|Max Muncy|L|Walk|B|Four-Seam Fastball|29|3|0|2|13|91
+Alec Mills|R|Ryon Healy|R|Double|B|Two-Seam Fastball|30|0|0|2|14|91
+Alec Mills|R|Ryon Healy|R|Double|B|Four-Seam Fastball|31|1|0|2|14|91
+Alec Mills|R|Ryon Healy|R|Double|C|Four-Seam Fastball|32|2|0|2|9|90
+Alec Mills|R|Ryon Healy|R|Double|E|Four-Seam Fastball|33|2|1|2|9|90
+Alec Mills|R|Marcus Semien|R|Flyout|B|Curveball|34|0|0|2|14|80
+Alec Mills|R|Marcus Semien|R|Flyout|F|Two-Seam Fastball|35|1|0|2|13|89
+Alec Mills|R|Marcus Semien|R|Flyout|X|Two-Seam Fastball|36|1|1|2|11|90
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Two-Seam Fastball|0|0|0|1|7|92
+Alec Mills|R|Jake Smolinski|R|Strikeout|*B|Two-Seam Fastball|1|0|1|1|13|93
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Curveball|2|1|1|1|7|81
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Curveball|3|1|2|1|4|80
+Alec Mills|R|Jake Smolinski|R|Strikeout|B|Curveball|4|1|2|1|11|79
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Four-Seam Fastball|5|2|2|1|8|94
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Curveball|6|2|2|1|4|81
+Alec Mills|R|Jake Smolinski|R|Strikeout|F|Curveball|7|2|2|1|7|73
+Alec Mills|R|Jake Smolinski|R|Strikeout|B|Four-Seam Fastball|8|2|2|1|14|93
+Alec Mills|R|Jake Smolinski|R|Strikeout|S|Two-Seam Fastball|9|3|2|1|13|93
+Alec Mills|R|Joey Wendle|L|Groundout|X|Curveball|10|0|0|2|14|80
+Alec Mills|R|Arismendy Alcantara|L|Flyout|B|Two-Seam Fastball|11|0|0|0|13|92
+Alec Mills|R|Arismendy Alcantara|L|Flyout|S|Curveball|12|1|0|0|13|81
+Alec Mills|R|Arismendy Alcantara|L|Flyout|B|Curveball|13|1|1|0|14|80
+Alec Mills|R|Arismendy Alcantara|L|Flyout|F|Two-Seam Fastball|14|2|1|0|13|92
+Alec Mills|R|Arismendy Alcantara|L|Flyout|B|Curveball|15|2|2|0|13|80
+Alec Mills|R|Arismendy Alcantara|L|Flyout|F|Two-Seam Fastball|16|3|2|0|14|92
+Alec Mills|R|Arismendy Alcantara|L|Flyout|X|Two-Seam Fastball|17|3|2|0|4|92
+Alec Mills|R|Chad Pinder|R|Strikeout|B|Four-Seam Fastball|18|0|0|1|14|92
+Alec Mills|R|Chad Pinder|R|Strikeout|B|Four-Seam Fastball|19|1|0|1|14|92
+Alec Mills|R|Chad Pinder|R|Strikeout|S|Two-Seam Fastball|20|2|0|1|13|91
+Alec Mills|R|Chad Pinder|R|Strikeout|B|Two-Seam Fastball|21|2|1|1|13|91
+Alec Mills|R|Chad Pinder|R|Strikeout|F|Four-Seam Fastball|22|3|1|1|2|90
+Alec Mills|R|Chad Pinder|R|Strikeout|S|Two-Seam Fastball|23|3|2|1|14|92
+Alec Mills|R|Max Muncy|L|Strikeout|C|Curveball|24|0|0|2|3|74
+Alec Mills|R|Max Muncy|L|Strikeout|F|Two-Seam Fastball|25|0|1|2|14|93
+Alec Mills|R|Max Muncy|L|Strikeout|B|Curveball|26|0|2|2|13|74
+Alec Mills|R|Max Muncy|L|Strikeout|S|Curveball|27|1|2|2|13|81

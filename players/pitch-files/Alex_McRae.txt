@@ -1,0 +1,682 @@
+Alex McRae|R|Ben Zobrist|L|Groundout|B|Two-Seam Fastball|0|0|0|0|14|93
+Alex McRae|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|1|1|0|0|11|92
+Alex McRae|R|Ben Zobrist|L|Groundout|X|Two-Seam Fastball|2|2|0|0|2|93
+Alex McRae|R|Jason Heyward|L|Groundout|F|Curveball|3|0|0|1|8|78
+Alex McRae|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|4|0|1|1|11|93
+Alex McRae|R|Jason Heyward|L|Groundout|B|Slider|5|1|1|1|11|88
+Alex McRae|R|Jason Heyward|L|Groundout|X|Two-Seam Fastball|6|2|1|1|14|93
+Alex McRae|R|Javier Baez|R|Double|B|Slider|7|0|0|2|14|88
+Alex McRae|R|Javier Baez|R|Double|C|Two-Seam Fastball|8|1|0|2|9|92
+Alex McRae|R|Javier Baez|R|Double|S|Slider|9|1|1|2|1|89
+Alex McRae|R|Javier Baez|R|Double|D|Four-Seam Fastball|10|1|2|2|6|94
+Alex McRae|R|Ian Happ|L|Strikeout|C|Two-Seam Fastball|11|0|0|2|14|94
+Alex McRae|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|12|0|1|2|11|93
+Alex McRae|R|Ian Happ|L|Strikeout|F|Changeup|13|1|1|2|14|85
+Alex McRae|R|Ian Happ|L|Strikeout|B|Changeup|14|1|2|2|14|86
+Alex McRae|R|Ian Happ|L|Strikeout|T|Slider|15|2|2|2|14|89
+Alex McRae|R|Kyle Schwarber|L|Strikeout|B|Curveball|16|0|0|0|11|76
+Alex McRae|R|Kyle Schwarber|L|Strikeout|F|Slider|17|1|0|0|14|86
+Alex McRae|R|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|18|1|1|0|11|92
+Alex McRae|R|Kyle Schwarber|L|Strikeout|B|Changeup|19|1|2|0|13|85
+Alex McRae|R|Kyle Schwarber|L|Strikeout|F|Changeup|20|2|2|0|4|85
+Alex McRae|R|Kyle Schwarber|L|Strikeout|S|Slider|21|2|2|0|3|88
+Alex McRae|R|Willson Contreras|R|Double|F|Two-Seam Fastball|22|0|0|1|13|93
+Alex McRae|R|Willson Contreras|R|Double|S|Slider|23|0|1|1|14|88
+Alex McRae|R|Willson Contreras|R|Double|D|Two-Seam Fastball|24|0|2|1|7|92
+Alex McRae|R|Tommy La Stella|L|Hit By Pitch|C|Two-Seam Fastball|25|0|0|1|5|93
+Alex McRae|R|Tommy La Stella|L|Hit By Pitch|B|Changeup|26|0|1|1|13|86
+Alex McRae|R|Tommy La Stella|L|Hit By Pitch|H|Four-Seam Fastball|27|1|1|1|12|93
+Alex McRae|R|Addison Russell|R|Walk|C|Slider|28|0|0|1|11|88
+Alex McRae|R|Addison Russell|R|Walk|F|Slider|29|0|1|1|12|89
+Alex McRae|R|Addison Russell|R|Walk|B|Curveball|30|0|2|1|13|78
+Alex McRae|R|Addison Russell|R|Walk|B|Slider|31|1|2|1|14|89
+Alex McRae|R|Addison Russell|R|Walk|B|Two-Seam Fastball|32|2|2|1|14|93
+Alex McRae|R|Addison Russell|R|Walk|B|Slider|33|3|2|1|14|89
+Alex McRae|R|Anthony Rizzo|L|Groundout|C|Two-Seam Fastball|34|0|0|1|1|92
+Alex McRae|R|Anthony Rizzo|L|Groundout|*B|Two-Seam Fastball|35|0|1|1|13|94
+Alex McRae|R|Anthony Rizzo|L|Groundout|E|Changeup|36|1|1|1|13|86
+Alex McRae|R|Ben Zobrist|L|Flyout|B|Changeup|37|0|0|2|13|85
+Alex McRae|R|Ben Zobrist|L|Flyout|C|Two-Seam Fastball|38|1|0|2|1|93
+Alex McRae|R|Ben Zobrist|L|Flyout|C|Slider|39|1|1|2|4|88
+Alex McRae|R|Ben Zobrist|L|Flyout|B|Changeup|40|1|2|2|13|86
+Alex McRae|R|Ben Zobrist|L|Flyout|X|Four-Seam Fastball|41|2|2|2|8|92
+Alex McRae|R|Jason Heyward|L|Strikeout|F|Two-Seam Fastball|42|0|0|0|13|92
+Alex McRae|R|Jason Heyward|L|Strikeout|S|Changeup|43|0|1|0|13|85
+Alex McRae|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|44|0|2|0|11|94
+Alex McRae|R|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|45|1|2|0|14|92
+Alex McRae|R|Jason Heyward|L|Strikeout|C|Slider|46|2|2|0|14|89
+Alex McRae|R|Javier Baez|R|Single|B|Curveball|47|0|0|1|14|80
+Alex McRae|R|Javier Baez|R|Single|B|Two-Seam Fastball|48|1|0|1|13|92
+Alex McRae|R|Javier Baez|R|Single|B|Slider|49|2|0|1|14|88
+Alex McRae|R|Javier Baez|R|Single|C|Two-Seam Fastball|50|3|0|1|7|91
+Alex McRae|R|Javier Baez|R|Single|F|Two-Seam Fastball|51|3|1|1|2|92
+Alex McRae|R|Javier Baez|R|Single|D|Two-Seam Fastball|52|3|2|1|14|93
+Alex McRae|R|Ian Happ|L|Double Play|B|Changeup|53|0|0|1|11|85
+Alex McRae|R|Ian Happ|L|Double Play|C|Two-Seam Fastball|54|1|0|1|5|91
+Alex McRae|R|Ian Happ|L|Double Play|X|Two-Seam Fastball|55|1|1|1|7|92
+Alex McRae|R|Jose Martinez|R|Double|C|Slider|0|0|0|0|14|88
+Alex McRae|R|Jose Martinez|R|Double|B|Two-Seam Fastball|1|0|1|0|14|92
+Alex McRae|R|Jose Martinez|R|Double|F|Slider|2|1|1|0|6|87
+Alex McRae|R|Jose Martinez|R|Double|F|Four-Seam Fastball|3|1|2|0|2|94
+Alex McRae|R|Jose Martinez|R|Double|B|Four-Seam Fastball|4|1|2|0|11|94
+Alex McRae|R|Jose Martinez|R|Double|B|Four-Seam Fastball|5|2|2|0|12|93
+Alex McRae|R|Jose Martinez|R|Double|F|Slider|6|3|2|0|14|87
+Alex McRae|R|Jose Martinez|R|Double|D|Slider|7|3|2|0|14|87
+Alex McRae|R|Jedd Gyorko|R|Double|C|Two-Seam Fastball|8|0|0|0|7|92
+Alex McRae|R|Jedd Gyorko|R|Double|E|Slider|9|0|1|0|12|87
+Alex McRae|R|Kolten Wong|L|Single|C|Two-Seam Fastball|10|0|0|0|13|93
+Alex McRae|R|Kolten Wong|L|Single|M|Two-Seam Fastball|11|0|1|0|11|91
+Alex McRae|R|Kolten Wong|L|Single|B|Curveball|12|0|2|0|11|77
+Alex McRae|R|Kolten Wong|L|Single|D|Two-Seam Fastball|13|1|2|0|11|92
+Alex McRae|R|Harrison Bader|R|Groundout|C|Slider|14|0|0|0|9|89
+Alex McRae|R|Harrison Bader|R|Groundout|E|Two-Seam Fastball|15|0|1|0|8|91
+Alex McRae|R|Greg Garcia|L|Groundout|B|Slider|16|0|0|1|14|88
+Alex McRae|R|Greg Garcia|L|Groundout|X|Slider|17|1|0|1|6|86
+Alex McRae|R|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|18|0|0|2|12|91
+Alex McRae|R|Matt Carpenter|L|Strikeout|C|Changeup|19|1|0|2|13|84
+Alex McRae|R|Matt Carpenter|L|Strikeout|B|Changeup|20|1|1|2|11|84
+Alex McRae|R|Matt Carpenter|L|Strikeout|F|Slider|21|2|1|2|6|87
+Alex McRae|R|Matt Carpenter|L|Strikeout|S|Slider|22|2|2|2|14|87
+Alex McRae|R|Yadier Molina|R|Groundout|C|Four-Seam Fastball|23|0|0|0|1|92
+Alex McRae|R|Yadier Molina|R|Groundout|B|Slider|24|0|1|0|14|88
+Alex McRae|R|Yadier Molina|R|Groundout|F|Slider|25|1|1|0|6|87
+Alex McRae|R|Yadier Molina|R|Groundout|X|Two-Seam Fastball|26|1|2|0|11|92
+Alex McRae|R|Paul DeJong|R|Walk|C|Slider|27|0|0|1|9|87
+Alex McRae|R|Paul DeJong|R|Walk|B|Slider|28|0|1|1|14|87
+Alex McRae|R|Paul DeJong|R|Walk|B|Two-Seam Fastball|29|1|1|1|14|92
+Alex McRae|R|Paul DeJong|R|Walk|B|Slider|30|2|1|1|12|85
+Alex McRae|R|Paul DeJong|R|Walk|B|Two-Seam Fastball|31|3|1|1|11|90
+Alex McRae|R|Marcell Ozuna|R|Groundout|C|Slider|32|0|0|1|11|86
+Alex McRae|R|Marcell Ozuna|R|Groundout|F|Two-Seam Fastball|33|0|1|1|13|91
+Alex McRae|R|Marcell Ozuna|R|Groundout|X|Slider|34|0|2|1|14|87
+Alex McRae|R|Jose Martinez|R|Walk|T|Two-Seam Fastball|35|0|0|2|13|91
+Alex McRae|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|36|0|1|2|13|92
+Alex McRae|R|Jose Martinez|R|Walk|F|Two-Seam Fastball|37|1|1|2|13|92
+Alex McRae|R|Jose Martinez|R|Walk|B|Four-Seam Fastball|38|1|2|2|11|92
+Alex McRae|R|Jose Martinez|R|Walk|*B|Slider|39|2|2|2|14|88
+Alex McRae|R|Jose Martinez|R|Walk|F|Four-Seam Fastball|40|3|2|2|3|94
+Alex McRae|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|41|3|2|2|14|92
+Alex McRae|R|Jedd Gyorko|R|Walk|B|Slider|42|0|0|2|14|88
+Alex McRae|R|Jedd Gyorko|R|Walk|B|Two-Seam Fastball|43|1|0|2|14|91
+Alex McRae|R|Jedd Gyorko|R|Walk|*B|Two-Seam Fastball|44|2|0|2|14|92
+Alex McRae|R|Jedd Gyorko|R|Walk|F|Four-Seam Fastball|45|3|0|2|12|91
+Alex McRae|R|Jedd Gyorko|R|Walk|B|Four-Seam Fastball|46|3|1|2|12|91
+Alex McRae|R|Kolten Wong|L|Single|E|Two-Seam Fastball|47|0|0|2|8|91
+Alex McRae|R|Harrison Bader|R|Lineout|X|Slider|48|0|0|2|6|86
+Alex McRae|R|Dakota Hudson|R|Groundout|B|Two-Seam Fastball|49|0|0|0|14|90
+Alex McRae|R|Dakota Hudson|R|Groundout|B|Four-Seam Fastball|50|1|0|0|12|90
+Alex McRae|R|Dakota Hudson|R|Groundout|C|Four-Seam Fastball|51|2|0|0|2|90
+Alex McRae|R|Dakota Hudson|R|Groundout|C|Two-Seam Fastball|52|2|1|0|14|91
+Alex McRae|R|Dakota Hudson|R|Groundout|X|Two-Seam Fastball|53|2|2|0|5|90
+Alex McRae|R|Matt Carpenter|L|Strikeout|C|Two-Seam Fastball|54|0|0|1|5|90
+Alex McRae|R|Matt Carpenter|L|Strikeout|B|Changeup|55|0|1|1|13|84
+Alex McRae|R|Matt Carpenter|L|Strikeout|F|Slider|56|1|1|1|2|87
+Alex McRae|R|Matt Carpenter|L|Strikeout|B|Two-Seam Fastball|57|1|2|1|12|92
+Alex McRae|R|Matt Carpenter|L|Strikeout|F|Slider|58|2|2|1|14|87
+Alex McRae|R|Matt Carpenter|L|Strikeout|B|Changeup|59|2|2|1|11|83
+Alex McRae|R|Matt Carpenter|L|Strikeout|S|Slider|60|3|2|1|14|87
+Alex McRae|R|Yadier Molina|R|Single|F|Four-Seam Fastball|61|0|0|2|3|92
+Alex McRae|R|Yadier Molina|R|Single|D|Two-Seam Fastball|62|0|1|2|6|92
+Alex McRae|R|Paul DeJong|R|Flyout|B|Slider|63|0|0|2|11|87
+Alex McRae|R|Paul DeJong|R|Flyout|X|Two-Seam Fastball|64|1|0|2|1|91
+Alex McRae|R|Marcell Ozuna|R|Walk|B|Two-Seam Fastball|65|0|0|0|14|90
+Alex McRae|R|Marcell Ozuna|R|Walk|B|Slider|66|1|0|0|14|89
+Alex McRae|R|Marcell Ozuna|R|Walk|F|Two-Seam Fastball|67|2|0|0|8|92
+Alex McRae|R|Marcell Ozuna|R|Walk|B|Two-Seam Fastball|68|2|1|0|11|91
+Alex McRae|R|Marcell Ozuna|R|Walk|C|Two-Seam Fastball|69|3|1|0|12|92
+Alex McRae|R|Marcell Ozuna|R|Walk|F|Two-Seam Fastball|70|3|2|0|14|91
+Alex McRae|R|Marcell Ozuna|R|Walk|B|Two-Seam Fastball|71|3|2|0|11|91
+Alex McRae|R|Jose Martinez|R|Flyout|C|Two-Seam Fastball|72|0|0|0|5|91
+Alex McRae|R|Jose Martinez|R|Flyout|B|Two-Seam Fastball|73|0|1|0|14|91
+Alex McRae|R|Jose Martinez|R|Flyout|B|Two-Seam Fastball|74|1|1|0|14|92
+Alex McRae|R|Jose Martinez|R|Flyout|F|Two-Seam Fastball|75|2|1|0|4|91
+Alex McRae|R|Jose Martinez|R|Flyout|B|Two-Seam Fastball|76|2|2|0|14|93
+Alex McRae|R|Jose Martinez|R|Flyout|X|Slider|77|3|2|0|6|88
+Alex McRae|R|Nick Castellanos|R|Walk|B|Two-Seam Fastball|0|0|0|2|14|93
+Alex McRae|R|Nick Castellanos|R|Walk|F|Slider|1|1|0|2|14|86
+Alex McRae|R|Nick Castellanos|R|Walk|B|Slider|2|1|1|2|14|85
+Alex McRae|R|Nick Castellanos|R|Walk|B|Two-Seam Fastball|3|2|1|2|14|92
+Alex McRae|R|Nick Castellanos|R|Walk|C|Slider|4|3|1|2|13|85
+Alex McRae|R|Nick Castellanos|R|Walk|B|Slider|5|3|2|2|14|86
+Alex McRae|R|Kris Bryant|R|Walk|B|Two-Seam Fastball|6|0|0|2|13|91
+Alex McRae|R|Kris Bryant|R|Walk|B|Two-Seam Fastball|7|1|0|2|14|91
+Alex McRae|R|Kris Bryant|R|Walk|B|Slider|8|2|0|2|11|84
+Alex McRae|R|Kris Bryant|R|Walk|C|Four-Seam Fastball|9|3|0|2|7|90
+Alex McRae|R|Kris Bryant|R|Walk|F|Four-Seam Fastball|10|3|1|2|6|90
+Alex McRae|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|11|3|2|2|14|92
+Alex McRae|R|Willson Contreras|R|Walk|*B|Slider|12|0|0|2|13|86
+Alex McRae|R|Willson Contreras|R|Walk|*B|Changeup|13|1|0|2|14|85
+Alex McRae|R|Willson Contreras|R|Walk|B|Two-Seam Fastball|14|2|0|2|14|92
+Alex McRae|R|Willson Contreras|R|Walk|C|Four-Seam Fastball|15|3|0|2|8|91
+Alex McRae|R|Willson Contreras|R|Walk|F|Four-Seam Fastball|16|3|1|2|14|92
+Alex McRae|R|Willson Contreras|R|Walk|B|Slider|17|3|2|2|11|84
+Alex McRae|R|Kyle Schwarber|L|Strikeout|B|Curveball|18|0|0|2|14|79
+Alex McRae|R|Kyle Schwarber|L|Strikeout|C|Changeup|19|1|0|2|7|85
+Alex McRae|R|Kyle Schwarber|L|Strikeout|B|Four-Seam Fastball|20|1|1|2|14|92
+Alex McRae|R|Kyle Schwarber|L|Strikeout|S|Changeup|21|2|1|2|13|86
+Alex McRae|R|Kyle Schwarber|L|Strikeout|B|Changeup|22|2|2|2|14|86
+Alex McRae|R|Kyle Schwarber|L|Strikeout|F|Changeup|23|3|2|2|13|86
+Alex McRae|R|Kyle Schwarber|L|Strikeout|S|Changeup|24|3|2|2|8|86
+Alex McRae|R|Nico Hoerner|R|Lineout|C|Two-Seam Fastball|25|0|0|0|9|91
+Alex McRae|R|Nico Hoerner|R|Lineout|B|Curveball|26|0|1|0|11|78
+Alex McRae|R|Nico Hoerner|R|Lineout|B|Two-Seam Fastball|27|1|1|0|13|91
+Alex McRae|R|Nico Hoerner|R|Lineout|B|Two-Seam Fastball|28|2|1|0|13|91
+Alex McRae|R|Nico Hoerner|R|Lineout|C|Four-Seam Fastball|29|3|1|0|14|90
+Alex McRae|R|Nico Hoerner|R|Lineout|X|Four-Seam Fastball|30|3|2|0|5|92
+Alex McRae|R|David Bote|R|Flyout|C|Two-Seam Fastball|31|0|0|1|9|91
+Alex McRae|R|David Bote|R|Flyout|B|Four-Seam Fastball|32|0|1|1|14|91
+Alex McRae|R|David Bote|R|Flyout|B|Slider|33|1|1|1|14|86
+Alex McRae|R|David Bote|R|Flyout|T|Four-Seam Fastball|34|2|1|1|6|92
+Alex McRae|R|David Bote|R|Flyout|X|Four-Seam Fastball|35|2|2|1|8|93
+Alex McRae|R|Albert Almora Jr.|R|Single|C|Slider|36|0|0|2|9|85
+Alex McRae|R|Albert Almora Jr.|R|Single|B|Curveball|37|0|1|2|14|80
+Alex McRae|R|Albert Almora Jr.|R|Single|B|Two-Seam Fastball|38|1|1|2|13|92
+Alex McRae|R|Albert Almora Jr.|R|Single|D|Slider|39|2|1|2|5|85
+Alex McRae|R|Jon Lester|L|Groundout|C|Two-Seam Fastball|40|0|0|2|14|92
+Alex McRae|R|Jon Lester|L|Groundout|B|Two-Seam Fastball|41|0|1|2|14|91
+Alex McRae|R|Jon Lester|L|Groundout|B|Two-Seam Fastball|42|1|1|2|14|88
+Alex McRae|R|Jon Lester|L|Groundout|F|Two-Seam Fastball|43|2|1|2|5|92
+Alex McRae|R|Jon Lester|L|Groundout|X|Four-Seam Fastball|44|2|2|2|14|93
+Alex McRae|R|Victor Caratini|L|Groundout|C|Curveball|0|0|0|0|5|77
+Alex McRae|R|Victor Caratini|L|Groundout|X|Changeup|1|0|1|0|11|85
+Alex McRae|R|Jonathan Lucroy|R|Home Run|B|Two-Seam Fastball|2|0|0|1|14|91
+Alex McRae|R|Jonathan Lucroy|R|Home Run|B|Slider|3|1|0|1|14|87
+Alex McRae|R|Jonathan Lucroy|R|Home Run|B|Four-Seam Fastball|4|2|0|1|14|90
+Alex McRae|R|Jonathan Lucroy|R|Home Run|C|Four-Seam Fastball|5|3|0|1|9|90
+Alex McRae|R|Jonathan Lucroy|R|Home Run|E|Four-Seam Fastball|6|3|1|1|7|89
+Alex McRae|R|Nico Hoerner|R|Groundout|S|Two-Seam Fastball|7|0|0|1|13|92
+Alex McRae|R|Nico Hoerner|R|Groundout|X|Two-Seam Fastball|8|0|1|1|13|91
+Alex McRae|R|David Bote|R|Single|B|Curveball|9|0|0|2|11|77
+Alex McRae|R|David Bote|R|Single|B|Two-Seam Fastball|10|1|0|2|9|92
+Alex McRae|R|David Bote|R|Single|C|Two-Seam Fastball|11|2|0|2|9|92
+Alex McRae|R|David Bote|R|Single|D|Two-Seam Fastball|12|2|1|2|13|91
+Alex McRae|R|Ian Happ|L|Groundout|F|Four-Seam Fastball|13|0|0|2|6|90
+Alex McRae|R|Ian Happ|L|Groundout|F|Curveball|14|0|1|2|8|79
+Alex McRae|R|Ian Happ|L|Groundout|*B|Curveball|15|0|2|2|14|79
+Alex McRae|R|Ian Happ|L|Groundout|X|Curveball|16|1|2|2|13|79
+Alex McRae|R|Derek Dietrich|L|Hit By Pitch|B|N/A|0|0|0|0|0|0
+Alex McRae|R|Derek Dietrich|L|Hit By Pitch|F|N/A|1|1|0|0|0|0
+Alex McRae|R|Derek Dietrich|L|Hit By Pitch|H|N/A|2|1|1|0|0|0
+Alex McRae|R|Yasiel Puig|R|Pop Out|B|N/A|3|0|0|0|0|0
+Alex McRae|R|Yasiel Puig|R|Pop Out|C|N/A|4|1|0|0|0|0
+Alex McRae|R|Yasiel Puig|R|Pop Out|F|N/A|5|1|1|0|0|0
+Alex McRae|R|Yasiel Puig|R|Pop Out|X|N/A|6|1|2|0|0|0
+Alex McRae|R|Jose Iglesias|R|Grounded Into DP|C|N/A|7|0|0|1|0|0
+Alex McRae|R|Jose Iglesias|R|Grounded Into DP|F|N/A|8|0|1|1|0|0
+Alex McRae|R|Jose Iglesias|R|Grounded Into DP|B|N/A|9|0|2|1|0|0
+Alex McRae|R|Jose Iglesias|R|Grounded Into DP|F|N/A|10|1|2|1|0|0
+Alex McRae|R|Jose Iglesias|R|Grounded Into DP|X|N/A|11|1|2|1|0|0
+Alex McRae|R|Jose Peraza|R|Pop Out|B|N/A|12|0|0|0|0|0
+Alex McRae|R|Jose Peraza|R|Pop Out|F|N/A|13|1|0|0|0|0
+Alex McRae|R|Jose Peraza|R|Pop Out|X|N/A|14|1|1|0|0|0
+Alex McRae|R|Curt Casali|R|Strikeout|B|N/A|15|0|0|1|0|0
+Alex McRae|R|Curt Casali|R|Strikeout|F|N/A|16|1|0|1|0|0
+Alex McRae|R|Curt Casali|R|Strikeout|S|N/A|17|1|1|1|0|0
+Alex McRae|R|Curt Casali|R|Strikeout|C|N/A|18|1|2|1|0|0
+Alex McRae|R|Josh VanMeter|L|Single|C|N/A|19|0|0|2|0|0
+Alex McRae|R|Josh VanMeter|L|Single|F|N/A|20|0|1|2|0|0
+Alex McRae|R|Josh VanMeter|L|Single|D|N/A|21|0|2|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|B|N/A|22|0|0|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|B|N/A|23|1|0|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|S|N/A|24|2|0|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|F|N/A|25|2|1|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|F|N/A|26|2|2|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|B|N/A|27|2|2|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|F|N/A|28|3|2|2|0|0
+Alex McRae|R|Nick Senzel|R|Strikeout|S|N/A|29|3|2|2|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|C|N/A|30|0|0|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|F|N/A|31|0|1|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|B|N/A|32|0|2|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|F|N/A|33|1|2|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|B|N/A|34|1|2|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|F|N/A|35|2|2|0|0|0
+Alex McRae|R|Jesse Winker|L|Pop Out|X|N/A|36|2|2|0|0|0
+Alex McRae|R|Eugenio Suarez|R|Strikeout|S|N/A|37|0|0|1|0|0
+Alex McRae|R|Eugenio Suarez|R|Strikeout|F|N/A|38|0|1|1|0|0
+Alex McRae|R|Eugenio Suarez|R|Strikeout|F|N/A|39|0|2|1|0|0
+Alex McRae|R|Eugenio Suarez|R|Strikeout|S|N/A|40|0|2|1|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|C|N/A|41|0|0|2|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|B|N/A|42|0|1|2|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|B|N/A|43|1|1|2|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|F|N/A|44|2|1|2|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|B|N/A|45|2|2|2|0|0
+Alex McRae|R|Derek Dietrich|L|Home Run|E|N/A|46|3|2|2|0|0
+Alex McRae|R|Yasiel Puig|R|Home Run|E|N/A|47|0|0|2|0|0
+Alex McRae|R|Jose Iglesias|R|Lineout|C|N/A|48|0|0|2|0|0
+Alex McRae|R|Jose Iglesias|R|Lineout|X|N/A|49|0|1|2|0|0
+Alex McRae|R|Jesse Winker|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|91
+Alex McRae|R|Jesse Winker|L|Groundout|X|Two-Seam Fastball|1|1|0|0|13|92
+Alex McRae|R|Joey Votto|L|Single|D|Two-Seam Fastball|2|0|0|1|13|91
+Alex McRae|R|Eugenio Suarez|R|Groundout|B|Two-Seam Fastball|3|0|0|1|13|91
+Alex McRae|R|Eugenio Suarez|R|Groundout|B|Two-Seam Fastball|4|1|0|1|13|91
+Alex McRae|R|Eugenio Suarez|R|Groundout|S|Slider|5|2|0|1|14|87
+Alex McRae|R|Eugenio Suarez|R|Groundout|S|Two-Seam Fastball|6|2|1|1|13|93
+Alex McRae|R|Eugenio Suarez|R|Groundout|X|Slider|7|2|2|1|14|88
+Alex McRae|R|Yasiel Puig|R|Groundout|B|Two-Seam Fastball|8|0|0|2|13|93
+Alex McRae|R|Yasiel Puig|R|Groundout|X|Slider|9|1|0|2|9|86
+Alex McRae|R|Josh VanMeter|L|Double|C|Two-Seam Fastball|10|0|0|0|4|92
+Alex McRae|R|Josh VanMeter|L|Double|D|Four-Seam Fastball|11|0|1|0|7|92
+Alex McRae|R|Scooter Gennett|L|Double|F|Slider|12|0|0|0|12|86
+Alex McRae|R|Scooter Gennett|L|Double|E|Slider|13|0|1|0|9|86
+Alex McRae|R|Jose Iglesias|R|Flyout|B|Two-Seam Fastball|14|0|0|0|14|92
+Alex McRae|R|Jose Iglesias|R|Flyout|B|Two-Seam Fastball|15|1|0|0|14|91
+Alex McRae|R|Jose Iglesias|R|Flyout|X|Slider|16|2|0|0|8|87
+Alex McRae|R|Tucker Barnhart|L|Single|F|Slider|17|0|0|1|14|87
+Alex McRae|R|Tucker Barnhart|L|Single|E|Slider|18|0|1|1|3|86
+Alex McRae|R|Sonny Gray|R|Walk|M|Two-Seam Fastball|19|0|0|1|7|91
+Alex McRae|R|Sonny Gray|R|Walk|B|Two-Seam Fastball|20|0|1|1|14|91
+Alex McRae|R|Sonny Gray|R|Walk|*B|Two-Seam Fastball|21|1|1|1|14|91
+Alex McRae|R|Sonny Gray|R|Walk|B|Two-Seam Fastball|22|2|1|1|14|91
+Alex McRae|R|Sonny Gray|R|Walk|*B|Two-Seam Fastball|23|3|1|1|14|91
+Alex McRae|R|Jesse Winker|L|Walk|F|Four-Seam Fastball|24|0|0|1|1|91
+Alex McRae|R|Jesse Winker|L|Walk|B|Four-Seam Fastball|25|0|1|1|12|92
+Alex McRae|R|Jesse Winker|L|Walk|B|Two-Seam Fastball|26|1|1|1|8|92
+Alex McRae|R|Jesse Winker|L|Walk|B|Slider|27|2|1|1|14|89
+Alex McRae|R|Jesse Winker|L|Walk|B|Changeup|28|3|1|1|11|86
+Alex McRae|R|Joey Votto|L|Single|B|Slider|29|0|0|1|14|87
+Alex McRae|R|Joey Votto|L|Single|F|Changeup|30|1|0|1|13|86
+Alex McRae|R|Joey Votto|L|Single|F|Two-Seam Fastball|31|1|1|1|6|92
+Alex McRae|R|Joey Votto|L|Single|F|Slider|32|1|2|1|3|87
+Alex McRae|R|Joey Votto|L|Single|B|Slider|33|1|2|1|14|88
+Alex McRae|R|Joey Votto|L|Single|E|Two-Seam Fastball|34|2|2|1|5|93
+Alex McRae|R|Eugenio Suarez|R|Single|C|Two-Seam Fastball|35|0|0|1|8|91
+Alex McRae|R|Eugenio Suarez|R|Single|W|Curveball|36|0|1|1|14|80
+Alex McRae|R|Eugenio Suarez|R|Single|D|Slider|37|0|2|1|14|88
+Alex McRae|R|Mike Moustakas|L|Single|B|Curveball|0|0|0|2|11|78
+Alex McRae|R|Mike Moustakas|L|Single|S|Changeup|1|1|0|2|13|86
+Alex McRae|R|Mike Moustakas|L|Single|F|Four-Seam Fastball|2|1|1|2|5|92
+Alex McRae|R|Mike Moustakas|L|Single|D|Four-Seam Fastball|3|1|2|2|2|94
+Alex McRae|R|Yasmani Grandal|L|Flyout|X|Changeup|4|0|0|2|5|85
+Alex McRae|R|Keston Hiura|R|Strikeout|B|Slider|5|0|0|0|14|87
+Alex McRae|R|Keston Hiura|R|Strikeout|C|Slider|6|1|0|0|1|86
+Alex McRae|R|Keston Hiura|R|Strikeout|B|Two-Seam Fastball|7|1|1|0|13|91
+Alex McRae|R|Keston Hiura|R|Strikeout|S|Curveball|8|2|1|0|14|80
+Alex McRae|R|Keston Hiura|R|Strikeout|B|Curveball|9|2|2|0|14|81
+Alex McRae|R|Keston Hiura|R|Strikeout|W|Curveball|10|3|2|0|14|79
+Alex McRae|R|Eric Thames|L|Intent Walk|B|Changeup|11|0|0|1|11|87
+Alex McRae|R|Eric Thames|L|Intent Walk|B|Curveball|12|1|0|1|13|79
+Alex McRae|R|Eric Thames|L|Intent Walk|B|Curveball|13|2|0|1|13|78
+Alex McRae|R|Eric Thames|L|Intent Walk|V|N/A|14|3|0|1|0|0
+Alex McRae|R|Orlando Arcia|R|Groundout|X|Curveball|15|0|0|1|14|78
+Alex McRae|R|Ryan Braun|R|Groundout|F|Two-Seam Fastball|16|0|0|2|2|92
+Alex McRae|R|Ryan Braun|R|Groundout|B|Slider|17|0|1|2|14|87
+Alex McRae|R|Ryan Braun|R|Groundout|X|Two-Seam Fastball|18|1|1|2|13|92
+Alex McRae|R|Ben Gamel|L|Groundout|B|Two-Seam Fastball|19|0|0|0|11|93
+Alex McRae|R|Ben Gamel|L|Groundout|B|Curveball|20|1|0|0|14|80
+Alex McRae|R|Ben Gamel|L|Groundout|S|Two-Seam Fastball|21|2|0|0|11|93
+Alex McRae|R|Ben Gamel|L|Groundout|C|Two-Seam Fastball|22|2|1|0|9|93
+Alex McRae|R|Ben Gamel|L|Groundout|B|Curveball|23|2|2|0|12|81
+Alex McRae|R|Ben Gamel|L|Groundout|X|Two-Seam Fastball|24|3|2|0|9|93
+Alex McRae|R|Christian Yelich|L|Walk|B|Curveball|25|0|0|1|14|80
+Alex McRae|R|Christian Yelich|L|Walk|B|Changeup|26|1|0|1|13|86
+Alex McRae|R|Christian Yelich|L|Walk|F|Two-Seam Fastball|27|2|0|1|13|94
+Alex McRae|R|Christian Yelich|L|Walk|F|Four-Seam Fastball|28|2|1|1|11|94
+Alex McRae|R|Christian Yelich|L|Walk|F|Curveball|29|2|2|1|14|81
+Alex McRae|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|30|2|2|1|14|94
+Alex McRae|R|Christian Yelich|L|Walk|B|Four-Seam Fastball|31|3|2|1|12|93
+Alex McRae|R|Lorenzo Cain|R|Double|F|Two-Seam Fastball|32|0|0|1|5|94
+Alex McRae|R|Lorenzo Cain|R|Double|B|Two-Seam Fastball|33|0|1|1|11|93
+Alex McRae|R|Lorenzo Cain|R|Double|F|Two-Seam Fastball|34|1|1|1|6|94
+Alex McRae|R|Lorenzo Cain|R|Double|*B|Curveball|35|1|2|1|14|81
+Alex McRae|R|Lorenzo Cain|R|Double|E|Curveball|36|2|2|1|8|79
+Alex McRae|R|Mike Moustakas|L|Single|B|Four-Seam Fastball|37|0|0|1|14|94
+Alex McRae|R|Mike Moustakas|L|Single|C|Two-Seam Fastball|38|1|0|1|12|94
+Alex McRae|R|Mike Moustakas|L|Single|*B|Curveball|39|1|1|1|14|79
+Alex McRae|R|Mike Moustakas|L|Single|E|Changeup|40|2|1|1|4|86
+Alex McRae|R|Yasmani Grandal|L|Single|D|Two-Seam Fastball|41|0|0|1|4|92
+Alex McRae|R|Keston Hiura|R|Groundout|X|Slider|42|0|0|1|9|85
+Alex McRae|R|Keston Hiura|R|Single|F|Slider|0|0|0|0|14|88
+Alex McRae|R|Keston Hiura|R|Single|W|Slider|1|0|1|0|14|86
+Alex McRae|R|Keston Hiura|R|Single|B|Curveball|2|0|2|0|14|79
+Alex McRae|R|Keston Hiura|R|Single|B|Curveball|3|1|2|0|14|80
+Alex McRae|R|Keston Hiura|R|Single|F|Two-Seam Fastball|4|2|2|0|4|92
+Alex McRae|R|Keston Hiura|R|Single|F|Two-Seam Fastball|5|2|2|0|11|93
+Alex McRae|R|Keston Hiura|R|Single|F|Two-Seam Fastball|6|2|2|0|8|93
+Alex McRae|R|Keston Hiura|R|Single|D|Slider|7|2|2|0|14|87
+Alex McRae|R|Hernan Perez|R|Strikeout|C|Two-Seam Fastball|8|0|0|0|14|93
+Alex McRae|R|Hernan Perez|R|Strikeout|*B|Four-Seam Fastball|9|0|1|0|14|93
+Alex McRae|R|Hernan Perez|R|Strikeout|S|Slider|10|1|1|0|14|88
+Alex McRae|R|Hernan Perez|R|Strikeout|W|Curveball|11|1|2|0|13|79
+Alex McRae|R|Orlando Arcia|R|Strikeout|C|Two-Seam Fastball|12|0|0|1|9|93
+Alex McRae|R|Orlando Arcia|R|Strikeout|S|Slider|13|0|1|1|6|89
+Alex McRae|R|Orlando Arcia|R|Strikeout|F|Two-Seam Fastball|14|0|2|1|13|94
+Alex McRae|R|Orlando Arcia|R|Strikeout|S|Curveball|15|0|2|1|13|80
+Alex McRae|R|Ben Gamel|L|Walk|F|Two-Seam Fastball|16|0|0|2|7|94
+Alex McRae|R|Ben Gamel|L|Walk|B|Curveball|17|0|1|2|14|80
+Alex McRae|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|18|1|1|2|12|94
+Alex McRae|R|Ben Gamel|L|Walk|B|Curveball|19|2|1|2|13|80
+Alex McRae|R|Ben Gamel|L|Walk|B|Two-Seam Fastball|20|3|1|2|11|94
+Alex McRae|R|Lorenzo Cain|R|Strikeout|S|Two-Seam Fastball|21|0|0|2|13|94
+Alex McRae|R|Lorenzo Cain|R|Strikeout|F|Two-Seam Fastball|22|0|1|2|13|95
+Alex McRae|R|Lorenzo Cain|R|Strikeout|F|Two-Seam Fastball|23|0|2|2|7|94
+Alex McRae|R|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|24|0|2|2|12|94
+Alex McRae|R|Lorenzo Cain|R|Strikeout|S|Slider|25|0|2|2|14|89
+Alex McRae|R|Christian Yelich|L|Groundout|C|Two-Seam Fastball|26|0|0|0|13|93
+Alex McRae|R|Christian Yelich|L|Groundout|B|Four-Seam Fastball|27|0|1|0|12|92
+Alex McRae|R|Christian Yelich|L|Groundout|X|Changeup|28|1|1|0|7|86
+Alex McRae|R|Zach Davies|R|Strikeout|C|Two-Seam Fastball|29|0|0|1|14|93
+Alex McRae|R|Zach Davies|R|Strikeout|C|Two-Seam Fastball|30|0|1|1|5|94
+Alex McRae|R|Zach Davies|R|Strikeout|B|Slider|31|0|2|1|14|86
+Alex McRae|R|Zach Davies|R|Strikeout|B|Four-Seam Fastball|32|1|2|1|14|94
+Alex McRae|R|Zach Davies|R|Strikeout|C|Two-Seam Fastball|33|2|2|1|9|94
+Alex McRae|R|Manny Pina|R|Strikeout|C|Slider|34|0|0|2|5|87
+Alex McRae|R|Manny Pina|R|Strikeout|C|Two-Seam Fastball|35|0|1|2|12|93
+Alex McRae|R|Manny Pina|R|Strikeout|B|Four-Seam Fastball|36|0|2|2|12|93
+Alex McRae|R|Manny Pina|R|Strikeout|S|Slider|37|1|2|2|14|87
+Alex McRae|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|38|0|0|0|11|92
+Alex McRae|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|39|1|0|0|11|91
+Alex McRae|R|Yasmani Grandal|L|Groundout|B|Two-Seam Fastball|40|2|0|0|11|92
+Alex McRae|R|Yasmani Grandal|L|Groundout|C|Two-Seam Fastball|41|3|0|0|4|91
+Alex McRae|R|Yasmani Grandal|L|Groundout|C|Two-Seam Fastball|42|3|1|0|5|92
+Alex McRae|R|Yasmani Grandal|L|Groundout|X|Two-Seam Fastball|43|3|2|0|11|93
+Alex McRae|R|Keston Hiura|R|Flyout|X|Two-Seam Fastball|44|0|0|1|11|92
+Alex McRae|R|Hernan Perez|R|Double|C|Slider|45|0|0|2|6|87
+Alex McRae|R|Hernan Perez|R|Double|C|Two-Seam Fastball|46|0|1|2|12|93
+Alex McRae|R|Hernan Perez|R|Double|B|Slider|47|0|2|2|14|89
+Alex McRae|R|Hernan Perez|R|Double|B|Slider|48|1|2|2|14|87
+Alex McRae|R|Hernan Perez|R|Double|F|Two-Seam Fastball|49|2|2|2|11|93
+Alex McRae|R|Hernan Perez|R|Double|F|Four-Seam Fastball|50|2|2|2|12|95
+Alex McRae|R|Hernan Perez|R|Double|B|Changeup|51|2|2|2|14|86
+Alex McRae|R|Hernan Perez|R|Double|D|Slider|52|3|2|2|5|87
+Alex McRae|R|Orlando Arcia|R|Home Run|F|Two-Seam Fastball|53|0|0|2|5|93
+Alex McRae|R|Orlando Arcia|R|Home Run|E|Two-Seam Fastball|54|0|1|2|13|93
+Alex McRae|R|Ben Gamel|L|Groundout|B|Two-Seam Fastball|55|0|0|2|11|93
+Alex McRae|R|Ben Gamel|L|Groundout|C|Curveball|56|1|0|2|13|78
+Alex McRae|R|Ben Gamel|L|Groundout|F|Changeup|57|1|1|2|13|86
+Alex McRae|R|Ben Gamel|L|Groundout|B|Four-Seam Fastball|58|1|2|2|12|94
+Alex McRae|R|Ben Gamel|L|Groundout|F|Curveball|59|2|2|2|13|79
+Alex McRae|R|Ben Gamel|L|Groundout|X|Changeup|60|2|2|2|13|86
+Alex McRae|R|Matt Wieters|L|Flyout|F|Two-Seam Fastball|0|0|0|0|2|93
+Alex McRae|R|Matt Wieters|L|Flyout|C|Slider|1|0|1|0|4|87
+Alex McRae|R|Matt Wieters|L|Flyout|X|Curveball|2|0|2|0|14|80
+Alex McRae|R|Yairo Munoz|R|Groundout|X|Slider|3|0|0|1|8|87
+Alex McRae|R|Miles Mikolas|R|Pop Out|B|Two-Seam Fastball|4|0|0|2|13|92
+Alex McRae|R|Miles Mikolas|R|Pop Out|S|Two-Seam Fastball|5|1|0|2|13|93
+Alex McRae|R|Miles Mikolas|R|Pop Out|F|Four-Seam Fastball|6|1|1|2|12|91
+Alex McRae|R|Miles Mikolas|R|Pop Out|X|Slider|7|1|2|2|2|88
+Alex McRae|R|Tommy Edman|L|Pop Out|S|Four-Seam Fastball|8|0|0|0|12|91
+Alex McRae|R|Tommy Edman|L|Pop Out|B|Two-Seam Fastball|9|0|1|0|11|92
+Alex McRae|R|Tommy Edman|L|Pop Out|F|Four-Seam Fastball|10|1|1|0|3|91
+Alex McRae|R|Tommy Edman|L|Pop Out|X|Two-Seam Fastball|11|1|2|0|3|93
+Alex McRae|R|Dexter Fowler|L|Flyout|C|Changeup|12|0|0|1|4|87
+Alex McRae|R|Dexter Fowler|L|Flyout|F|Two-Seam Fastball|13|0|1|1|1|93
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Two-Seam Fastball|14|0|2|1|11|92
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Two-Seam Fastball|15|1|2|1|13|93
+Alex McRae|R|Dexter Fowler|L|Flyout|F|Slider|16|2|2|1|14|89
+Alex McRae|R|Dexter Fowler|L|Flyout|X|Two-Seam Fastball|17|2|2|1|8|94
+Alex McRae|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|18|0|0|2|14|95
+Alex McRae|R|Jose Martinez|R|Walk|C|Four-Seam Fastball|19|1|0|2|9|93
+Alex McRae|R|Jose Martinez|R|Walk|B|Slider|20|1|1|2|14|89
+Alex McRae|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|21|2|1|2|13|93
+Alex McRae|R|Jose Martinez|R|Walk|B|Two-Seam Fastball|22|3|1|2|14|95
+Alex McRae|R|Dexter Fowler|L|Lineout|C|Two-Seam Fastball|0|0|0|0|7|92
+Alex McRae|R|Dexter Fowler|L|Lineout|X|Changeup|1|0|1|0|4|87
+Alex McRae|R|Kolten Wong|L|Single|F|Two-Seam Fastball|2|0|0|1|13|92
+Alex McRae|R|Kolten Wong|L|Single|F|Two-Seam Fastball|3|0|1|1|13|92
+Alex McRae|R|Kolten Wong|L|Single|B|Four-Seam Fastball|4|0|2|1|11|92
+Alex McRae|R|Kolten Wong|L|Single|B|Two-Seam Fastball|5|1|2|1|13|93
+Alex McRae|R|Kolten Wong|L|Single|D|Slider|6|2|2|1|8|87
+Alex McRae|R|Paul Goldschmidt|R|Walk|*B|Slider|7|0|0|1|14|87
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Two-Seam Fastball|8|1|0|1|13|93
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Two-Seam Fastball|9|2|0|1|13|92
+Alex McRae|R|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|10|3|0|1|9|93
+Alex McRae|R|Paul Goldschmidt|R|Walk|F|Four-Seam Fastball|11|3|1|1|5|92
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Two-Seam Fastball|12|3|2|1|14|93
+Alex McRae|R|Marcell Ozuna|R|Grounded Into DP|X|Two-Seam Fastball|13|0|0|1|7|93
+Alex McRae|R|Paul DeJong|R|Single|B|Curveball|14|0|0|0|14|80
+Alex McRae|R|Paul DeJong|R|Single|F|Four-Seam Fastball|15|1|0|0|4|91
+Alex McRae|R|Paul DeJong|R|Single|F|Four-Seam Fastball|16|1|1|0|11|90
+Alex McRae|R|Paul DeJong|R|Single|B|Slider|17|1|2|0|14|87
+Alex McRae|R|Paul DeJong|R|Single|F|Four-Seam Fastball|18|2|2|0|11|92
+Alex McRae|R|Paul DeJong|R|Single|F|Two-Seam Fastball|19|2|2|0|13|92
+Alex McRae|R|Paul DeJong|R|Single|B|Curveball|20|2|2|0|14|80
+Alex McRae|R|Paul DeJong|R|Single|D|Slider|21|3|2|0|5|86
+Alex McRae|R|Yadier Molina|R|Lineout|B|Two-Seam Fastball|22|0|0|0|14|93
+Alex McRae|R|Yadier Molina|R|Lineout|S|Slider|23|1|0|0|14|86
+Alex McRae|R|Yadier Molina|R|Lineout|X|Two-Seam Fastball|24|1|1|0|4|91
+Alex McRae|R|Tommy Edman|L|Home Run|F|Four-Seam Fastball|25|0|0|1|1|92
+Alex McRae|R|Tommy Edman|L|Home Run|B|Four-Seam Fastball|26|0|1|1|12|92
+Alex McRae|R|Tommy Edman|L|Home Run|C|Slider|27|1|1|1|3|87
+Alex McRae|R|Tommy Edman|L|Home Run|B|Two-Seam Fastball|28|1|2|1|14|93
+Alex McRae|R|Tommy Edman|L|Home Run|F|Curveball|29|2|2|1|9|81
+Alex McRae|R|Tommy Edman|L|Home Run|F|Four-Seam Fastball|30|2|2|1|5|93
+Alex McRae|R|Tommy Edman|L|Home Run|B|Four-Seam Fastball|31|2|2|1|12|92
+Alex McRae|R|Tommy Edman|L|Home Run|F|Slider|32|3|2|1|14|88
+Alex McRae|R|Tommy Edman|L|Home Run|F|Four-Seam Fastball|33|3|2|1|11|93
+Alex McRae|R|Tommy Edman|L|Home Run|E|Two-Seam Fastball|34|3|2|1|3|92
+Alex McRae|R|Harrison Bader|R|Flyout|C|Slider|35|0|0|1|11|86
+Alex McRae|R|Harrison Bader|R|Flyout|C|Four-Seam Fastball|36|0|1|1|5|93
+Alex McRae|R|Harrison Bader|R|Flyout|B|Slider|37|0|2|1|14|86
+Alex McRae|R|Harrison Bader|R|Flyout|B|Slider|38|1|2|1|14|87
+Alex McRae|R|Harrison Bader|R|Flyout|X|Four-Seam Fastball|39|2|2|1|4|92
+Alex McRae|R|Miles Mikolas|R|Strikeout|C|Two-Seam Fastball|40|0|0|2|7|92
+Alex McRae|R|Miles Mikolas|R|Strikeout|B|Slider|41|0|1|2|14|87
+Alex McRae|R|Miles Mikolas|R|Strikeout|S|Four-Seam Fastball|42|1|1|2|8|93
+Alex McRae|R|Miles Mikolas|R|Strikeout|B|Four-Seam Fastball|43|1|2|2|14|93
+Alex McRae|R|Miles Mikolas|R|Strikeout|F|Two-Seam Fastball|44|2|2|2|4|93
+Alex McRae|R|Miles Mikolas|R|Strikeout|F|Four-Seam Fastball|45|2|2|2|5|91
+Alex McRae|R|Miles Mikolas|R|Strikeout|S|Curveball|46|2|2|2|6|80
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Changeup|47|0|0|0|14|85
+Alex McRae|R|Dexter Fowler|L|Flyout|X|Two-Seam Fastball|48|1|0|0|12|91
+Alex McRae|R|Kolten Wong|L|Groundout|C|Curveball|49|0|0|1|14|79
+Alex McRae|R|Kolten Wong|L|Groundout|B|Changeup|50|0|1|1|13|86
+Alex McRae|R|Kolten Wong|L|Groundout|X|Changeup|51|1|1|1|4|86
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Two-Seam Fastball|52|0|0|2|14|93
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Slider|53|1|0|2|14|87
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|54|2|0|2|14|93
+Alex McRae|R|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|55|3|0|2|13|91
+Alex McRae|R|Paul Goldschmidt|R|Walk|C|Changeup|56|3|1|2|13|86
+Alex McRae|R|Paul Goldschmidt|R|Walk|F|Four-Seam Fastball|57|3|2|2|5|93
+Alex McRae|R|Paul Goldschmidt|R|Walk|B|Changeup|58|3|2|2|14|86
+Alex McRae|R|Marcell Ozuna|R|Groundout|C|Curveball|59|0|0|2|14|80
+Alex McRae|R|Marcell Ozuna|R|Groundout|F|Curveball|60|0|1|2|5|79
+Alex McRae|R|Marcell Ozuna|R|Groundout|B|Two-Seam Fastball|61|0|2|2|11|92
+Alex McRae|R|Marcell Ozuna|R|Groundout|X|Two-Seam Fastball|62|1|2|2|11|92
+Alex McRae|R|Paul DeJong|R|Groundout|B|Curveball|63|0|0|0|11|78
+Alex McRae|R|Paul DeJong|R|Groundout|B|Two-Seam Fastball|64|1|0|0|11|90
+Alex McRae|R|Paul DeJong|R|Groundout|B|Two-Seam Fastball|65|2|0|0|11|91
+Alex McRae|R|Paul DeJong|R|Groundout|C|Four-Seam Fastball|66|3|0|0|7|90
+Alex McRae|R|Paul DeJong|R|Groundout|X|Changeup|67|3|1|0|13|85
+Alex McRae|R|Yadier Molina|R|Groundout|C|Four-Seam Fastball|68|0|0|1|14|91
+Alex McRae|R|Yadier Molina|R|Groundout|C|Four-Seam Fastball|69|0|1|1|2|90
+Alex McRae|R|Yadier Molina|R|Groundout|B|Curveball|70|0|2|1|14|79
+Alex McRae|R|Yadier Molina|R|Groundout|B|Curveball|71|1|2|1|14|79
+Alex McRae|R|Yadier Molina|R|Groundout|X|Slider|72|2|2|1|14|85
+Alex McRae|R|Tommy Edman|L|Groundout|C|Four-Seam Fastball|73|0|0|2|1|91
+Alex McRae|R|Tommy Edman|L|Groundout|B|Four-Seam Fastball|74|0|1|2|14|87
+Alex McRae|R|Tommy Edman|L|Groundout|B|Changeup|75|1|1|2|11|85
+Alex McRae|R|Tommy Edman|L|Groundout|X|Slider|76|2|1|2|8|84
+Alex McRae|R|Harrison Bader|R|Lineout|C|Curveball|77|0|0|0|5|77
+Alex McRae|R|Harrison Bader|R|Lineout|C|Slider|78|0|1|0|9|83
+Alex McRae|R|Harrison Bader|R|Lineout|B|Four-Seam Fastball|79|0|2|0|11|90
+Alex McRae|R|Harrison Bader|R|Lineout|X|Four-Seam Fastball|80|1|2|0|5|92
+Alex McRae|R|Miles Mikolas|R|Flyout|B|Slider|81|0|0|1|14|83
+Alex McRae|R|Miles Mikolas|R|Flyout|B|Four-Seam Fastball|82|1|0|1|14|90
+Alex McRae|R|Miles Mikolas|R|Flyout|C|Two-Seam Fastball|83|2|0|1|4|90
+Alex McRae|R|Miles Mikolas|R|Flyout|X|Two-Seam Fastball|84|2|1|1|11|91
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Slider|85|0|0|2|14|85
+Alex McRae|R|Dexter Fowler|L|Flyout|F|Changeup|86|1|0|2|8|85
+Alex McRae|R|Dexter Fowler|L|Flyout|C|Two-Seam Fastball|87|1|1|2|13|91
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Changeup|88|1|2|2|13|86
+Alex McRae|R|Dexter Fowler|L|Flyout|B|Curveball|89|2|2|2|14|79
+Alex McRae|R|Dexter Fowler|L|Flyout|X|Two-Seam Fastball|90|3|2|2|8|93
+Alex McRae|R|Michael Lorenzen|R|Single|S|Curveball|0|0|0|0|9|80
+Alex McRae|R|Michael Lorenzen|R|Single|B|Curveball|1|0|1|0|14|81
+Alex McRae|R|Michael Lorenzen|R|Single|S|Curveball|2|1|1|0|14|81
+Alex McRae|R|Michael Lorenzen|R|Single|D|Four-Seam Fastball|3|1|2|0|5|93
+Alex McRae|R|Joey Votto|L|Grounded Into DP|X|Changeup|4|0|0|0|14|87
+Alex McRae|R|Eugenio Suarez|R|Single|S|Two-Seam Fastball|5|0|0|2|13|93
+Alex McRae|R|Eugenio Suarez|R|Single|B|Slider|6|0|1|2|14|88
+Alex McRae|R|Eugenio Suarez|R|Single|F|Two-Seam Fastball|7|1|1|2|7|93
+Alex McRae|R|Eugenio Suarez|R|Single|D|Slider|8|1|2|2|8|86
+Alex McRae|R|Aristides Aquino|R|Strikeout|B|Two-Seam Fastball|9|0|0|2|14|93
+Alex McRae|R|Aristides Aquino|R|Strikeout|*B|Curveball|10|1|0|2|14|81
+Alex McRae|R|Aristides Aquino|R|Strikeout|W|Curveball|11|2|0|2|14|81
+Alex McRae|R|Aristides Aquino|R|Strikeout|F|Two-Seam Fastball|12|2|1|2|13|93
+Alex McRae|R|Aristides Aquino|R|Strikeout|F|Two-Seam Fastball|13|2|2|2|7|94
+Alex McRae|R|Aristides Aquino|R|Strikeout|S|Curveball|14|2|2|2|14|82
+Alex McRae|R|Kyle Farmer|R|Single|S|Curveball|15|0|0|0|14|81
+Alex McRae|R|Kyle Farmer|R|Single|B|Four-Seam Fastball|16|0|1|0|14|93
+Alex McRae|R|Kyle Farmer|R|Single|B|Two-Seam Fastball|17|1|1|0|14|93
+Alex McRae|R|Kyle Farmer|R|Single|D|Curveball|18|2|1|0|14|82
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|C|Two-Seam Fastball|19|0|0|0|8|93
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|B|Curveball|20|0|1|0|14|81
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|S|Two-Seam Fastball|21|1|1|0|6|92
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|F|Slider|22|1|2|0|14|89
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|F|Slider|23|1|2|0|14|88
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|F|Curveball|24|1|2|0|14|82
+Alex McRae|R|Phillip Ervin|R|Hit By Pitch|H|Two-Seam Fastball|25|1|2|0|11|93
+Alex McRae|R|Tucker Barnhart|L|Double Play|B|Four-Seam Fastball|26|0|0|0|14|92
+Alex McRae|R|Tucker Barnhart|L|Double Play|X|Changeup|27|1|0|0|8|86
+Alex McRae|R|Jose Iglesias|R|Double|B|Slider|28|0|0|2|8|88
+Alex McRae|R|Jose Iglesias|R|Double|B|Curveball|29|1|0|2|14|81
+Alex McRae|R|Jose Iglesias|R|Double|B|Curveball|30|2|0|2|14|80
+Alex McRae|R|Jose Iglesias|R|Double|C|Two-Seam Fastball|31|3|0|2|7|93
+Alex McRae|R|Jose Iglesias|R|Double|E|Two-Seam Fastball|32|3|1|2|7|92
+Alex McRae|R|R.J. Alaniz|R|Single|C|Two-Seam Fastball|33|0|0|2|8|92
+Alex McRae|R|R.J. Alaniz|R|Single|B|Slider|34|0|1|2|14|87
+Alex McRae|R|R.J. Alaniz|R|Single|S|Two-Seam Fastball|35|1|1|2|9|92
+Alex McRae|R|R.J. Alaniz|R|Single|F|Four-Seam Fastball|36|1|2|2|2|92
+Alex McRae|R|R.J. Alaniz|R|Single|E|Curveball|37|1|2|2|5|79
+Alex McRae|R|Michael Lorenzen|R|Forceout|B|Curveball|38|0|0|2|14|80
+Alex McRae|R|Michael Lorenzen|R|Forceout|X|Two-Seam Fastball|39|1|0|2|4|93
+Alex McRae|R|Nick Markakis|L|Strikeout|B|Two-Seam Fastball|0|0|0|2|13|92
+Alex McRae|R|Nick Markakis|L|Strikeout|F|Two-Seam Fastball|1|1|0|2|13|92
+Alex McRae|R|Nick Markakis|L|Strikeout|F|Four-Seam Fastball|2|1|1|2|14|93
+Alex McRae|R|Nick Markakis|L|Strikeout|B|Four-Seam Fastball|3|1|2|2|14|93
+Alex McRae|R|Nick Markakis|L|Strikeout|S|Curveball|4|2|2|2|14|80
+Alex McRae|R|Austin Riley|R|Hit By Pitch|B|Two-Seam Fastball|5|0|0|0|14|92
+Alex McRae|R|Austin Riley|R|Hit By Pitch|F|Four-Seam Fastball|6|1|0|0|4|92
+Alex McRae|R|Austin Riley|R|Hit By Pitch|S|Two-Seam Fastball|7|1|1|0|13|92
+Alex McRae|R|Austin Riley|R|Hit By Pitch|F|Two-Seam Fastball|8|1|2|0|13|91
+Alex McRae|R|Austin Riley|R|Hit By Pitch|H|Curveball|9|1|2|0|11|78
+Alex McRae|R|Brian McCann|L|Walk|B|Two-Seam Fastball|10|0|0|0|14|93
+Alex McRae|R|Brian McCann|L|Walk|B|Two-Seam Fastball|11|1|0|0|13|91
+Alex McRae|R|Brian McCann|L|Walk|B|Two-Seam Fastball|12|2|0|0|13|93
+Alex McRae|R|Brian McCann|L|Walk|C|Two-Seam Fastball|13|3|0|0|13|91
+Alex McRae|R|Brian McCann|L|Walk|B|Two-Seam Fastball|14|3|1|0|13|91
+Alex McRae|R|Ozzie Albies|L|Groundout|F|Two-Seam Fastball|15|0|0|0|7|92
+Alex McRae|R|Ozzie Albies|L|Groundout|C|Four-Seam Fastball|16|0|1|0|9|92
+Alex McRae|R|Ozzie Albies|L|Groundout|F|Four-Seam Fastball|17|0|2|0|14|92
+Alex McRae|R|Ozzie Albies|L|Groundout|X|Curveball|18|0|2|0|13|78
+Alex McRae|R|Kevin Gausman|L|Strikeout|F|Two-Seam Fastball|19|0|0|1|4|91
+Alex McRae|R|Kevin Gausman|L|Strikeout|C|Two-Seam Fastball|20|0|1|1|9|92
+Alex McRae|R|Kevin Gausman|L|Strikeout|B|Two-Seam Fastball|21|0|2|1|14|92
+Alex McRae|R|Kevin Gausman|L|Strikeout|B|Two-Seam Fastball|22|1|2|1|14|93
+Alex McRae|R|Kevin Gausman|L|Strikeout|S|Four-Seam Fastball|23|2|2|1|14|91
+Alex McRae|R|Ronald Acuna Jr.|R|Home Run|F|Two-Seam Fastball|24|0|0|1|4|92
+Alex McRae|R|Ronald Acuna Jr.|R|Home Run|B|Two-Seam Fastball|25|0|1|1|13|91
+Alex McRae|R|Ronald Acuna Jr.|R|Home Run|E|Curveball|26|1|1|1|6|79
+Alex McRae|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|27|0|0|1|14|92
+Alex McRae|R|Dansby Swanson|R|Walk|B|Slider|28|1|0|1|14|88
+Alex McRae|R|Dansby Swanson|R|Walk|S|Slider|29|2|0|1|14|87
+Alex McRae|R|Dansby Swanson|R|Walk|C|Two-Seam Fastball|30|2|1|1|13|92
+Alex McRae|R|Dansby Swanson|R|Walk|B|Slider|31|2|2|1|14|89
+Alex McRae|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|32|3|2|1|14|92
+Alex McRae|R|Freddie Freeman|L|Flyout|F|Two-Seam Fastball|33|0|0|1|14|92
+Alex McRae|R|Freddie Freeman|L|Flyout|X|Two-Seam Fastball|34|0|1|1|8|90
+Alex McRae|R|Johan Camargo|L|Single|B|Two-Seam Fastball|35|0|0|2|13|91
+Alex McRae|R|Johan Camargo|L|Single|D|Curveball|36|1|0|2|14|80
+Alex McRae|R|Nick Markakis|L|Single|E|Two-Seam Fastball|37|0|0|2|5|92
+Alex McRae|R|Austin Riley|R|Flyout|S|Slider|38|0|0|2|14|88
+Alex McRae|R|Austin Riley|R|Flyout|*B|Two-Seam Fastball|39|0|1|2|13|92
+Alex McRae|R|Austin Riley|R|Flyout|X|Slider|40|1|1|2|8|87
+Alex McRae|R|Brian McCann|L|Groundout|B|Two-Seam Fastball|41|0|0|0|13|92
+Alex McRae|R|Brian McCann|L|Groundout|C|Changeup|42|1|0|0|13|84
+Alex McRae|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|43|1|1|0|3|93
+Alex McRae|R|Brian McCann|L|Groundout|B|Slider|44|1|2|0|14|87
+Alex McRae|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|45|2|2|0|13|91
+Alex McRae|R|Brian McCann|L|Groundout|F|Slider|46|2|2|0|6|88
+Alex McRae|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|47|2|2|0|1|91
+Alex McRae|R|Ozzie Albies|L|Home Run|F|Changeup|48|0|0|1|14|85
+Alex McRae|R|Ozzie Albies|L|Home Run|F|Four-Seam Fastball|49|0|1|1|5|92
+Alex McRae|R|Ozzie Albies|L|Home Run|B|Four-Seam Fastball|50|0|2|1|11|93
+Alex McRae|R|Ozzie Albies|L|Home Run|E|Changeup|51|1|2|1|4|85
+Alex McRae|R|Sean Newcomb|L|Strikeout|F|Two-Seam Fastball|52|0|0|1|8|93
+Alex McRae|R|Sean Newcomb|L|Strikeout|S|Two-Seam Fastball|53|0|1|1|8|93
+Alex McRae|R|Sean Newcomb|L|Strikeout|F|Two-Seam Fastball|54|0|2|1|7|93
+Alex McRae|R|Sean Newcomb|L|Strikeout|S|Slider|55|0|2|1|14|88
+Alex McRae|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|56|0|0|2|5|94
+Alex McRae|R|Ronald Acuna Jr.|R|Strikeout|B|Slider|57|0|1|2|14|88
+Alex McRae|R|Ronald Acuna Jr.|R|Strikeout|C|Two-Seam Fastball|58|1|1|2|14|92
+Alex McRae|R|Ronald Acuna Jr.|R|Strikeout|T|Four-Seam Fastball|59|1|2|2|14|93
+Alex McRae|R|Dansby Swanson|R|Walk|B|Slider|60|0|0|0|14|88
+Alex McRae|R|Dansby Swanson|R|Walk|B|Slider|61|1|0|0|14|86
+Alex McRae|R|Dansby Swanson|R|Walk|B|Two-Seam Fastball|62|2|0|0|13|91
+Alex McRae|R|Dansby Swanson|R|Walk|B|Four-Seam Fastball|63|3|0|0|14|90
+Alex McRae|R|Freddie Freeman|L|Home Run|*B|Two-Seam Fastball|64|0|0|0|13|91
+Alex McRae|R|Freddie Freeman|L|Home Run|B|Changeup|65|1|0|0|13|84
+Alex McRae|R|Freddie Freeman|L|Home Run|F|Two-Seam Fastball|66|2|0|0|14|92
+Alex McRae|R|Freddie Freeman|L|Home Run|E|Two-Seam Fastball|67|2|1|0|4|92
+Alex McRae|R|Johan Camargo|L|Strikeout|C|Changeup|68|0|0|0|9|85
+Alex McRae|R|Johan Camargo|L|Strikeout|F|Slider|69|0|1|0|5|86
+Alex McRae|R|Johan Camargo|L|Strikeout|C|Four-Seam Fastball|70|0|2|0|6|91
+Alex McRae|R|Nick Markakis|L|Single|B|Slider|71|0|0|1|14|88
+Alex McRae|R|Nick Markakis|L|Single|D|Changeup|72|1|0|1|13|84
+Alex McRae|R|Austin Riley|R|Lineout|B|Slider|73|0|0|1|14|87
+Alex McRae|R|Austin Riley|R|Lineout|B|Two-Seam Fastball|74|1|0|1|14|91
+Alex McRae|R|Austin Riley|R|Lineout|F|Slider|75|2|0|1|6|88
+Alex McRae|R|Austin Riley|R|Lineout|F|Two-Seam Fastball|76|2|1|1|14|91
+Alex McRae|R|Austin Riley|R|Lineout|X|Two-Seam Fastball|77|2|2|1|8|91
+Alex McRae|R|Brian McCann|L|Flyout|C|Two-Seam Fastball|78|0|0|2|8|92
+Alex McRae|R|Brian McCann|L|Flyout|B|Four-Seam Fastball|79|0|1|2|14|92
+Alex McRae|R|Brian McCann|L|Flyout|B|Two-Seam Fastball|80|1|1|2|3|92
+Alex McRae|R|Brian McCann|L|Flyout|F|Two-Seam Fastball|81|2|1|2|2|91
+Alex McRae|R|Brian McCann|L|Flyout|F|Slider|82|2|2|2|14|88
+Alex McRae|R|Brian McCann|L|Flyout|X|Four-Seam Fastball|83|2|2|2|4|92
+Alex McRae|R|Ozzie Albies|L|Groundout|F|Two-Seam Fastball|84|0|0|0|1|89
+Alex McRae|R|Ozzie Albies|L|Groundout|S|Four-Seam Fastball|85|0|1|0|2|90
+Alex McRae|R|Ozzie Albies|L|Groundout|X|Four-Seam Fastball|86|0|2|0|8|91
+Alex McRae|R|Sean Newcomb|L|Strikeout|C|Two-Seam Fastball|87|0|0|1|9|91
+Alex McRae|R|Sean Newcomb|L|Strikeout|B|Two-Seam Fastball|88|0|1|1|14|91
+Alex McRae|R|Sean Newcomb|L|Strikeout|F|Four-Seam Fastball|89|1|1|1|8|91
+Alex McRae|R|Sean Newcomb|L|Strikeout|C|Slider|90|1|2|1|8|87
+Alex McRae|R|Ronald Acuna Jr.|R|Pop Out|B|Two-Seam Fastball|91|0|0|2|14|91
+Alex McRae|R|Ronald Acuna Jr.|R|Pop Out|F|Two-Seam Fastball|92|1|0|2|1|92
+Alex McRae|R|Ronald Acuna Jr.|R|Pop Out|B|Two-Seam Fastball|93|1|1|2|13|91
+Alex McRae|R|Ronald Acuna Jr.|R|Pop Out|X|Two-Seam Fastball|94|2|1|2|13|92
+Alex McRae|R|Trent Grisham|L|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+Alex McRae|R|Trent Grisham|L|Single|B|Two-Seam Fastball|1|1|0|0|14|92
+Alex McRae|R|Trent Grisham|L|Single|D|Two-Seam Fastball|2|2|0|0|8|92
+Alex McRae|R|Yasmani Grandal|L|Walk|C|Curveball|3|0|0|0|11|78
+Alex McRae|R|Yasmani Grandal|L|Walk|B|Changeup|4|0|1|0|13|87
+Alex McRae|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|5|1|1|0|14|92
+Alex McRae|R|Yasmani Grandal|L|Walk|B|Changeup|6|2|1|0|11|86
+Alex McRae|R|Yasmani Grandal|L|Walk|S|Changeup|7|3|1|0|13|85
+Alex McRae|R|Yasmani Grandal|L|Walk|*B|Slider|8|3|2|0|14|87
+Alex McRae|R|Mike Moustakas|L|Flyout|F|Two-Seam Fastball|9|0|0|0|13|93
+Alex McRae|R|Mike Moustakas|L|Flyout|X|Two-Seam Fastball|10|0|1|0|7|94
+Alex McRae|R|Keston Hiura|R|Lineout|S|Slider|11|0|0|1|14|89
+Alex McRae|R|Keston Hiura|R|Lineout|B|Slider|12|0|1|1|14|87
+Alex McRae|R|Keston Hiura|R|Lineout|B|Two-Seam Fastball|13|1|1|1|14|88
+Alex McRae|R|Keston Hiura|R|Lineout|F|Two-Seam Fastball|14|2|1|1|13|93
+Alex McRae|R|Keston Hiura|R|Lineout|X|Two-Seam Fastball|15|2|2|1|13|92
+Alex McRae|R|Ryan Braun|R|Double|C|Slider|16|0|0|2|9|86
+Alex McRae|R|Ryan Braun|R|Double|B|Curveball|17|0|1|2|14|82
+Alex McRae|R|Ryan Braun|R|Double|B|Slider|18|1|1|2|14|87
+Alex McRae|R|Ryan Braun|R|Double|B|Two-Seam Fastball|19|2|1|2|13|93
+Alex McRae|R|Ryan Braun|R|Double|F|Two-Seam Fastball|20|3|1|2|8|93
+Alex McRae|R|Ryan Braun|R|Double|F|Two-Seam Fastball|21|3|2|2|4|94
+Alex McRae|R|Ryan Braun|R|Double|E|Slider|22|3|2|2|8|88
+Alex McRae|R|Eric Thames|L|Flyout|X|Changeup|23|0|0|2|1|87
+Alex McRae|R|Lorenzo Cain|R|Flyout|B|Slider|24|0|0|0|14|85
+Alex McRae|R|Lorenzo Cain|R|Flyout|F|Two-Seam Fastball|25|1|0|0|6|90
+Alex McRae|R|Lorenzo Cain|R|Flyout|B|Two-Seam Fastball|26|1|1|0|11|90
+Alex McRae|R|Lorenzo Cain|R|Flyout|X|Changeup|27|2|1|0|2|86
+Alex McRae|R|Orlando Arcia|R|Groundout|F|Four-Seam Fastball|28|0|0|1|9|91
+Alex McRae|R|Orlando Arcia|R|Groundout|X|Slider|29|0|1|1|4|85
+Alex McRae|R|Cory Spangenberg|L|Walk|B|Two-Seam Fastball|30|0|0|2|14|92
+Alex McRae|R|Cory Spangenberg|L|Walk|B|Curveball|31|1|0|2|11|79
+Alex McRae|R|Cory Spangenberg|L|Walk|S|Slider|32|2|0|2|14|85
+Alex McRae|R|Cory Spangenberg|L|Walk|B|Slider|33|2|1|2|14|86
+Alex McRae|R|Cory Spangenberg|L|Walk|B|Two-Seam Fastball|34|3|1|2|13|92
+Alex McRae|R|Trent Grisham|L|Home Run|B|Slider|35|0|0|2|14|86
+Alex McRae|R|Trent Grisham|L|Home Run|B|Two-Seam Fastball|36|1|0|2|13|92
+Alex McRae|R|Trent Grisham|L|Home Run|B|Two-Seam Fastball|37|2|0|2|13|92
+Alex McRae|R|Trent Grisham|L|Home Run|C|Two-Seam Fastball|38|3|0|2|13|92
+Alex McRae|R|Trent Grisham|L|Home Run|E|Two-Seam Fastball|39|3|1|2|13|92
+Alex McRae|R|Yasmani Grandal|L|Strikeout|C|Slider|40|0|0|2|14|88
+Alex McRae|R|Yasmani Grandal|L|Strikeout|F|Changeup|41|0|1|2|7|86
+Alex McRae|R|Yasmani Grandal|L|Strikeout|B|Curveball|42|0|2|2|14|80
+Alex McRae|R|Yasmani Grandal|L|Strikeout|B|Four-Seam Fastball|43|1|2|2|11|90
+Alex McRae|R|Yasmani Grandal|L|Strikeout|C|Changeup|44|2|2|2|6|86

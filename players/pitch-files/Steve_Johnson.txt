@@ -1,0 +1,414 @@
+Steve Johnson|R|Brandon Guyer|R|Double|C|Four-Seam Fastball|0|0|0|2|8|87
+Steve Johnson|R|Brandon Guyer|R|Double|E|Four-Seam Fastball|1|0|1|2|2|89
+Steve Johnson|R|J.P. Arencibia|R|Single|B|Changeup|2|0|0|2|12|79
+Steve Johnson|R|J.P. Arencibia|R|Single|S|Four-Seam Fastball|3|1|0|2|1|88
+Steve Johnson|R|J.P. Arencibia|R|Single|B|Four-Seam Fastball|4|1|1|2|12|87
+Steve Johnson|R|J.P. Arencibia|R|Single|B|Four-Seam Fastball|5|2|1|2|13|90
+Steve Johnson|R|J.P. Arencibia|R|Single|S|Four-Seam Fastball|6|3|1|2|14|87
+Steve Johnson|R|J.P. Arencibia|R|Single|F|Four-Seam Fastball|7|3|2|2|14|89
+Steve Johnson|R|J.P. Arencibia|R|Single|F|Four-Seam Fastball|8|3|2|2|11|88
+Steve Johnson|R|J.P. Arencibia|R|Single|E|Four-Seam Fastball|9|3|2|2|8|89
+Steve Johnson|R|Grady Sizemore|L|Flyout|C|Four-Seam Fastball|10|0|0|2|9|87
+Steve Johnson|R|Grady Sizemore|L|Flyout|B|Changeup|11|0|1|2|14|79
+Steve Johnson|R|Grady Sizemore|L|Flyout|B|Four-Seam Fastball|12|1|1|2|14|87
+Steve Johnson|R|Grady Sizemore|L|Flyout|B|Changeup|13|2|1|2|13|78
+Steve Johnson|R|Grady Sizemore|L|Flyout|X|Four-Seam Fastball|14|3|1|2|6|86
+Steve Johnson|R|Daniel Nava|L|Walk|B|Four-Seam Fastball|15|0|0|0|12|86
+Steve Johnson|R|Daniel Nava|L|Walk|B|Four-Seam Fastball|16|1|0|0|9|87
+Steve Johnson|R|Daniel Nava|L|Walk|B|Four-Seam Fastball|17|2|0|0|11|86
+Steve Johnson|R|Daniel Nava|L|Walk|C|Four-Seam Fastball|18|3|0|0|11|87
+Steve Johnson|R|Daniel Nava|L|Walk|B|Four-Seam Fastball|19|3|1|0|14|87
+Steve Johnson|R|Evan Longoria|R|Walk|*B|Slider|20|0|0|0|14|80
+Steve Johnson|R|Evan Longoria|R|Walk|C|Four-Seam Fastball|21|1|0|0|6|87
+Steve Johnson|R|Evan Longoria|R|Walk|B|Changeup|22|1|1|0|13|79
+Steve Johnson|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|23|2|1|0|14|87
+Steve Johnson|R|Evan Longoria|R|Walk|S|Four-Seam Fastball|24|3|1|0|9|85
+Steve Johnson|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|25|3|2|0|14|87
+Steve Johnson|R|Ben Revere|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|87
+Steve Johnson|R|Ben Revere|L|Strikeout|C|Four-Seam Fastball|1|0|1|0|11|89
+Steve Johnson|R|Ben Revere|L|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|89
+Steve Johnson|R|Ben Revere|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|12|90
+Steve Johnson|R|Josh Donaldson|R|Walk|C|Four-Seam Fastball|4|0|0|1|13|89
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|5|0|1|1|13|90
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|6|1|1|1|11|89
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|7|2|1|1|11|89
+Steve Johnson|R|Josh Donaldson|R|Walk|F|Four-Seam Fastball|8|3|1|1|11|88
+Steve Johnson|R|Josh Donaldson|R|Walk|F|Four-Seam Fastball|9|3|2|1|5|90
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|10|3|2|1|14|90
+Steve Johnson|R|Jose Bautista|R|Grounded Into DP|B|Curveball|11|0|0|1|14|65
+Steve Johnson|R|Jose Bautista|R|Grounded Into DP|B|Four-Seam Fastball|12|1|0|1|14|89
+Steve Johnson|R|Jose Bautista|R|Grounded Into DP|X|Slider|13|2|0|1|5|79
+Steve Johnson|R|Edwin Encarnacion|R|Groundout|C|Four-Seam Fastball|14|0|0|0|9|88
+Steve Johnson|R|Edwin Encarnacion|R|Groundout|F|Four-Seam Fastball|15|0|1|0|7|89
+Steve Johnson|R|Edwin Encarnacion|R|Groundout|B|Four-Seam Fastball|16|0|2|0|11|88
+Steve Johnson|R|Edwin Encarnacion|R|Groundout|F|Four-Seam Fastball|17|1|2|0|4|89
+Steve Johnson|R|Edwin Encarnacion|R|Groundout|X|Four-Seam Fastball|18|1|2|0|6|89
+Steve Johnson|R|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|19|0|0|1|7|88
+Steve Johnson|R|Troy Tulowitzki|R|Strikeout|F|Four-Seam Fastball|20|0|1|1|7|89
+Steve Johnson|R|Troy Tulowitzki|R|Strikeout|C|Four-Seam Fastball|21|0|2|1|6|90
+Steve Johnson|R|Chris Colabello|R|Single|B|Curveball|22|0|0|2|14|65
+Steve Johnson|R|Chris Colabello|R|Single|C|Four-Seam Fastball|23|1|0|2|8|89
+Steve Johnson|R|Chris Colabello|R|Single|B|Four-Seam Fastball|24|1|1|2|13|89
+Steve Johnson|R|Chris Colabello|R|Single|D|Four-Seam Fastball|25|2|1|2|6|89
+Steve Johnson|R|Dioner Navarro|L|Double|*B|Four-Seam Fastball|26|0|0|2|14|87
+Steve Johnson|R|Dioner Navarro|L|Double|B|Four-Seam Fastball|27|1|0|2|13|88
+Steve Johnson|R|Dioner Navarro|L|Double|D|Four-Seam Fastball|28|2|0|2|8|88
+Steve Johnson|R|Lorenzo Cain|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|87
+Steve Johnson|R|Lorenzo Cain|R|Flyout|S|Four-Seam Fastball|1|1|0|0|5|88
+Steve Johnson|R|Lorenzo Cain|R|Flyout|X|Four-Seam Fastball|2|1|1|0|4|88
+Steve Johnson|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|3|0|0|1|13|87
+Steve Johnson|R|Eric Hosmer|L|Walk|B|Changeup|4|1|0|1|14|79
+Steve Johnson|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|5|2|0|1|13|87
+Steve Johnson|R|Eric Hosmer|L|Walk|B|Four-Seam Fastball|6|3|0|1|14|87
+Steve Johnson|R|Kendrys Morales|L|Double|F|Four-Seam Fastball|7|0|0|1|11|87
+Steve Johnson|R|Kendrys Morales|L|Double|S|Four-Seam Fastball|8|0|1|1|1|87
+Steve Johnson|R|Kendrys Morales|L|Double|D|Four-Seam Fastball|9|0|2|1|3|89
+Steve Johnson|R|Mike Moustakas|L|Home Run|B|Four-Seam Fastball|10|0|0|1|9|87
+Steve Johnson|R|Mike Moustakas|L|Home Run|F|Four-Seam Fastball|11|1|0|1|11|87
+Steve Johnson|R|Mike Moustakas|L|Home Run|E|Changeup|12|1|1|1|1|78
+Steve Johnson|R|Salvador Perez|R|Groundout|C|Slider|13|0|0|1|8|79
+Steve Johnson|R|Salvador Perez|R|Groundout|F|Four-Seam Fastball|14|0|1|1|3|87
+Steve Johnson|R|Salvador Perez|R|Groundout|B|Curveball|15|0|2|1|14|66
+Steve Johnson|R|Salvador Perez|R|Groundout|X|Four-Seam Fastball|16|1|2|1|12|87
+Steve Johnson|R|Alex Rios|R|Single|D|Four-Seam Fastball|17|0|0|2|5|85
+Steve Johnson|R|Alcides Escobar|R|Pop Out|C|Four-Seam Fastball|18|0|0|2|5|86
+Steve Johnson|R|Alcides Escobar|R|Pop Out|X|Slider|19|0|1|2|4|80
+Steve Johnson|R|Travis Shaw|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|85
+Steve Johnson|R|Travis Shaw|L|Flyout|C|Four-Seam Fastball|1|1|0|0|14|85
+Steve Johnson|R|Travis Shaw|L|Flyout|S|Four-Seam Fastball|2|1|1|0|2|85
+Steve Johnson|R|Travis Shaw|L|Flyout|X|Four-Seam Fastball|3|1|2|0|9|87
+Steve Johnson|R|Rusney Castillo|R|Flyout|S|Four-Seam Fastball|4|0|0|1|11|84
+Steve Johnson|R|Rusney Castillo|R|Flyout|X|Four-Seam Fastball|5|0|1|1|5|85
+Steve Johnson|R|Blake Swihart|L|Flyout|C|Four-Seam Fastball|6|0|0|2|13|85
+Steve Johnson|R|Blake Swihart|L|Flyout|B|Curveball|7|0|1|2|13|62
+Steve Johnson|R|Blake Swihart|L|Flyout|B|Four-Seam Fastball|8|1|1|2|14|85
+Steve Johnson|R|Blake Swihart|L|Flyout|C|Four-Seam Fastball|9|2|1|2|9|84
+Steve Johnson|R|Blake Swihart|L|Flyout|X|Four-Seam Fastball|10|2|2|2|8|88
+Steve Johnson|R|Xander Bogaerts|R|Field Error|B|Four-Seam Fastball|0|0|0|2|11|84
+Steve Johnson|R|Xander Bogaerts|R|Field Error|C|Four-Seam Fastball|1|1|0|2|6|84
+Steve Johnson|R|Xander Bogaerts|R|Field Error|C|Four-Seam Fastball|2|1|1|2|13|87
+Steve Johnson|R|Xander Bogaerts|R|Field Error|F|Four-Seam Fastball|3|1|2|2|11|89
+Steve Johnson|R|Xander Bogaerts|R|Field Error|E|Curveball|4|1|2|2|4|65
+Steve Johnson|R|Travis Shaw|L|Strikeout|B|Four-Seam Fastball|5|0|0|2|11|84
+Steve Johnson|R|Travis Shaw|L|Strikeout|F|Changeup|6|1|0|2|13|76
+Steve Johnson|R|Travis Shaw|L|Strikeout|S|Four-Seam Fastball|7|1|1|2|1|87
+Steve Johnson|R|Travis Shaw|L|Strikeout|T|Four-Seam Fastball|8|1|2|2|11|88
+Steve Johnson|R|Ben Revere|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|87
+Steve Johnson|R|Ben Revere|L|Groundout|C|Four-Seam Fastball|1|1|0|0|8|87
+Steve Johnson|R|Ben Revere|L|Groundout|B|Four-Seam Fastball|2|1|1|0|14|88
+Steve Johnson|R|Ben Revere|L|Groundout|X|Four-Seam Fastball|3|2|1|0|8|86
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Curveball|4|0|0|1|14|65
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|88
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|6|2|0|1|14|87
+Steve Johnson|R|Josh Donaldson|R|Walk|C|Four-Seam Fastball|7|3|0|1|9|86
+Steve Johnson|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|8|3|1|1|13|87
+Steve Johnson|R|Jose Bautista|R|Flyout|C|Four-Seam Fastball|9|0|0|1|8|86
+Steve Johnson|R|Jose Bautista|R|Flyout|*B|Curveball|10|0|1|1|13|67
+Steve Johnson|R|Jose Bautista|R|Flyout|X|Four-Seam Fastball|11|1|1|1|8|87
+Steve Johnson|R|Edwin Encarnacion|R|Home Run|E|Four-Seam Fastball|12|0|0|2|4|86
+Steve Johnson|R|Justin Smoak|L|Groundout|B|Four-Seam Fastball|13|0|0|2|11|87
+Steve Johnson|R|Justin Smoak|L|Groundout|B|Changeup|14|1|0|2|11|79
+Steve Johnson|R|Justin Smoak|L|Groundout|C|Four-Seam Fastball|15|2|0|2|5|87
+Steve Johnson|R|Justin Smoak|L|Groundout|C|Four-Seam Fastball|16|2|1|2|13|86
+Steve Johnson|R|Justin Smoak|L|Groundout|X|Four-Seam Fastball|17|2|2|2|5|88
+Steve Johnson|R|Mark Canha|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|88
+Steve Johnson|R|Mark Canha|R|Groundout|S|Four-Seam Fastball|1|1|0|0|1|88
+Steve Johnson|R|Mark Canha|R|Groundout|C|Four-Seam Fastball|2|1|1|0|4|88
+Steve Johnson|R|Mark Canha|R|Groundout|X|Four-Seam Fastball|3|1|2|0|13|89
+Steve Johnson|R|Khris Davis|R|Home Run|B|Four-Seam Fastball|4|0|0|1|13|90
+Steve Johnson|R|Khris Davis|R|Home Run|E|Four-Seam Fastball|5|1|0|1|1|89
+Steve Johnson|R|Billy Butler|R|Groundout|X|Four-Seam Fastball|6|0|0|1|2|89
+Steve Johnson|R|Josh Phegley|R|Pop Out|X|Four-Seam Fastball|7|0|0|2|11|89
+Steve Johnson|R|Preston Tucker|L|Pop Out|B|Four-Seam Fastball|0|0|0|2|12|87
+Steve Johnson|R|Preston Tucker|L|Pop Out|F|Four-Seam Fastball|1|1|0|2|5|87
+Steve Johnson|R|Preston Tucker|L|Pop Out|X|Curveball|2|1|1|2|4|62
+Steve Johnson|R|Carlos Gomez|R|Walk|B|Slider|3|0|0|0|11|77
+Steve Johnson|R|Carlos Gomez|R|Walk|S|Four-Seam Fastball|4|1|0|0|6|87
+Steve Johnson|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|5|1|1|0|14|89
+Steve Johnson|R|Carlos Gomez|R|Walk|B|Curveball|6|2|1|0|14|64
+Steve Johnson|R|Carlos Gomez|R|Walk|B|Four-Seam Fastball|7|3|1|0|14|90
+Steve Johnson|R|Luis Valbuena|L|Strikeout|B|Four-Seam Fastball|8|0|0|0|14|89
+Steve Johnson|R|Luis Valbuena|L|Strikeout|F|Four-Seam Fastball|9|1|0|0|5|87
+Steve Johnson|R|Luis Valbuena|L|Strikeout|F|Four-Seam Fastball|10|1|1|0|3|88
+Steve Johnson|R|Luis Valbuena|L|Strikeout|C|Four-Seam Fastball|11|1|2|0|8|90
+Steve Johnson|R|Marwin Gonzalez|L|Walk|C|Four-Seam Fastball|12|0|0|1|8|87
+Steve Johnson|R|Marwin Gonzalez|L|Walk|B|Changeup|13|0|1|1|11|82
+Steve Johnson|R|Marwin Gonzalez|L|Walk|*B|Four-Seam Fastball|14|1|1|1|14|88
+Steve Johnson|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|15|2|1|1|11|87
+Steve Johnson|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|16|3|1|1|13|87
+Steve Johnson|R|Jason Castro|L|Strikeout|B|Curveball|17|0|0|1|13|64
+Steve Johnson|R|Jason Castro|L|Strikeout|*B|Changeup|18|1|0|1|14|77
+Steve Johnson|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|19|2|0|1|11|87
+Steve Johnson|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|20|3|0|1|4|88
+Steve Johnson|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|21|3|1|1|7|86
+Steve Johnson|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|22|3|2|1|7|88
+Steve Johnson|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|23|0|0|2|14|90
+Steve Johnson|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|24|1|0|2|8|88
+Steve Johnson|R|Jose Altuve|R|Flyout|F|Slider|25|1|1|2|5|80
+Steve Johnson|R|Jose Altuve|R|Flyout|X|Slider|26|1|2|2|12|79
+Steve Johnson|R|Tyler White|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|87
+Steve Johnson|R|Tyler White|R|Strikeout|S|Four-Seam Fastball|1|0|1|0|2|88
+Steve Johnson|R|Tyler White|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|12|89
+Steve Johnson|R|Jason Castro|L|Strikeout|C|Four-Seam Fastball|3|0|0|1|7|89
+Steve Johnson|R|Jason Castro|L|Strikeout|B|Curveball|4|0|1|1|14|64
+Steve Johnson|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|5|1|1|1|8|89
+Steve Johnson|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|6|1|2|1|5|89
+Steve Johnson|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|7|1|2|1|12|89
+Steve Johnson|R|Jason Castro|L|Strikeout|F|Four-Seam Fastball|8|2|2|1|8|89
+Steve Johnson|R|Jason Castro|L|Strikeout|B|Four-Seam Fastball|9|2|2|1|11|89
+Steve Johnson|R|Jason Castro|L|Strikeout|S|Four-Seam Fastball|10|3|2|1|11|90
+Steve Johnson|R|Jake Marisnick|R|Pop Out|F|Four-Seam Fastball|11|0|0|2|5|89
+Steve Johnson|R|Jake Marisnick|R|Pop Out|B|Slider|12|0|1|2|11|76
+Steve Johnson|R|Jake Marisnick|R|Pop Out|F|Four-Seam Fastball|13|1|1|2|13|89
+Steve Johnson|R|Jake Marisnick|R|Pop Out|F|Four-Seam Fastball|14|1|2|2|12|89
+Steve Johnson|R|Jake Marisnick|R|Pop Out|X|Curveball|15|1|2|2|1|64
+Steve Johnson|R|Steve Pearce|R|Walk|F|Four-Seam Fastball|0|0|0|1|14|89
+Steve Johnson|R|Steve Pearce|R|Walk|B|Curveball|1|0|1|1|12|65
+Steve Johnson|R|Steve Pearce|R|Walk|F|Four-Seam Fastball|2|1|1|1|3|89
+Steve Johnson|R|Steve Pearce|R|Walk|F|Four-Seam Fastball|3|1|2|1|14|91
+Steve Johnson|R|Steve Pearce|R|Walk|B|Slider|4|1|2|1|12|80
+Steve Johnson|R|Steve Pearce|R|Walk|F|Four-Seam Fastball|5|2|2|1|12|88
+Steve Johnson|R|Steve Pearce|R|Walk|B|Curveball|6|2|2|1|13|63
+Steve Johnson|R|Steve Pearce|R|Walk|F|Four-Seam Fastball|7|3|2|1|11|89
+Steve Johnson|R|Steve Pearce|R|Walk|B|Four-Seam Fastball|8|3|2|1|12|88
+Steve Johnson|R|Kevin Kiermaier|L|Pop Out|F|Four-Seam Fastball|9|0|0|1|11|88
+Steve Johnson|R|Kevin Kiermaier|L|Pop Out|B|Curveball|10|0|1|1|11|63
+Steve Johnson|R|Kevin Kiermaier|L|Pop Out|X|Four-Seam Fastball|11|1|1|1|6|87
+Steve Johnson|R|Hank Conger|L|Forceout|C|Curveball|12|0|0|2|1|63
+Steve Johnson|R|Hank Conger|L|Forceout|C|Four-Seam Fastball|13|0|1|2|9|89
+Steve Johnson|R|Hank Conger|L|Forceout|F|Four-Seam Fastball|14|0|2|2|11|88
+Steve Johnson|R|Hank Conger|L|Forceout|X|Four-Seam Fastball|15|0|2|2|13|89
+Steve Johnson|R|Brandon Guyer|R|Single|B|Four-Seam Fastball|16|0|0|0|14|88
+Steve Johnson|R|Brandon Guyer|R|Single|D|Four-Seam Fastball|17|1|0|0|2|88
+Steve Johnson|R|Brad Miller|L|Flyout|C|Four-Seam Fastball|18|0|0|0|4|89
+Steve Johnson|R|Brad Miller|L|Flyout|X|Four-Seam Fastball|19|0|1|0|9|88
+Steve Johnson|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|20|0|0|1|11|87
+Steve Johnson|R|Evan Longoria|R|Walk|B|Two-Seam Fastball|21|1|0|1|14|88
+Steve Johnson|R|Evan Longoria|R|Walk|B|Two-Seam Fastball|22|2|0|1|11|87
+Steve Johnson|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|23|3|0|1|14|89
+Steve Johnson|R|Corey Dickerson|L|Flyout|B|Curveball|24|0|0|1|11|63
+Steve Johnson|R|Corey Dickerson|L|Flyout|C|Four-Seam Fastball|25|1|0|1|13|89
+Steve Johnson|R|Corey Dickerson|L|Flyout|X|Curveball|26|1|1|1|5|63
+Steve Johnson|R|Steven Souza Jr.|R|Flyout|B|Two-Seam Fastball|27|0|0|2|12|89
+Steve Johnson|R|Steven Souza Jr.|R|Flyout|X|Four-Seam Fastball|28|1|0|2|4|88
+Steve Johnson|R|Hyun Soo Kim|L|Field Error|B|Four-Seam Fastball|0|0|0|0|6|88
+Steve Johnson|R|Hyun Soo Kim|L|Field Error|F|Four-Seam Fastball|1|1|0|0|3|87
+Steve Johnson|R|Hyun Soo Kim|L|Field Error|C|Four-Seam Fastball|2|1|1|0|7|88
+Steve Johnson|R|Hyun Soo Kim|L|Field Error|D|Four-Seam Fastball|3|1|2|0|8|89
+Steve Johnson|R|Pedro Alvarez|L|Forceout|F|Four-Seam Fastball|4|0|0|0|5|88
+Steve Johnson|R|Pedro Alvarez|L|Forceout|S|Curveball|5|0|1|0|13|64
+Steve Johnson|R|Pedro Alvarez|L|Forceout|X|Curveball|6|0|2|0|6|65
+Steve Johnson|R|Mark Trumbo|R|Flyout|C|Four-Seam Fastball|7|0|0|1|8|87
+Steve Johnson|R|Mark Trumbo|R|Flyout|F|Curveball|8|0|1|1|7|65
+Steve Johnson|R|Mark Trumbo|R|Flyout|F|Four-Seam Fastball|9|0|2|1|14|90
+Steve Johnson|R|Mark Trumbo|R|Flyout|F|Four-Seam Fastball|10|0|2|1|2|89
+Steve Johnson|R|Mark Trumbo|R|Flyout|B|Four-Seam Fastball|11|0|2|1|12|89
+Steve Johnson|R|Mark Trumbo|R|Flyout|X|Slider|12|1|2|1|7|82
+Steve Johnson|R|Caleb Joseph|R|Strikeout|B|Four-Seam Fastball|13|0|0|2|14|88
+Steve Johnson|R|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|14|1|0|2|9|88
+Steve Johnson|R|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|15|1|1|2|14|89
+Steve Johnson|R|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|16|1|2|2|6|90
+Steve Johnson|R|Caleb Joseph|R|Strikeout|F|Curveball|17|1|2|2|14|67
+Steve Johnson|R|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|18|1|2|2|1|90
+Steve Johnson|R|Caleb Joseph|R|Strikeout|S|Four-Seam Fastball|19|1|2|2|3|88
+Steve Johnson|R|Tyler Ladendorf|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|4|89
+Steve Johnson|R|Tyler Ladendorf|R|Strikeout|B|Curveball|1|0|1|0|14|66
+Steve Johnson|R|Tyler Ladendorf|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|6|90
+Steve Johnson|R|Tyler Ladendorf|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|8|91
+Steve Johnson|R|Jake Smolinski|R|Pop Out|B|Two-Seam Fastball|4|0|0|1|14|90
+Steve Johnson|R|Jake Smolinski|R|Pop Out|C|Slider|5|1|0|1|4|80
+Steve Johnson|R|Jake Smolinski|R|Pop Out|B|Four-Seam Fastball|6|1|1|1|13|91
+Steve Johnson|R|Jake Smolinski|R|Pop Out|F|Four-Seam Fastball|7|2|1|1|13|90
+Steve Johnson|R|Jake Smolinski|R|Pop Out|X|Four-Seam Fastball|8|2|2|1|5|91
+Steve Johnson|R|Coco Crisp|L|Single|C|Four-Seam Fastball|9|0|0|2|7|90
+Steve Johnson|R|Coco Crisp|L|Single|C|Four-Seam Fastball|10|0|1|2|7|91
+Steve Johnson|R|Coco Crisp|L|Single|F|Four-Seam Fastball|11|0|2|2|11|91
+Steve Johnson|R|Coco Crisp|L|Single|D|Curveball|12|0|2|2|13|65
+Steve Johnson|R|Billy Burns|L|Single|C|Four-Seam Fastball|13|0|0|2|9|89
+Steve Johnson|R|Billy Burns|L|Single|F|Four-Seam Fastball|14|0|1|2|11|88
+Steve Johnson|R|Billy Burns|L|Single|D|Four-Seam Fastball|15|0|2|2|13|91
+Steve Johnson|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|16|0|0|2|11|90
+Steve Johnson|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|17|1|0|2|13|89
+Steve Johnson|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|18|2|0|2|13|90
+Steve Johnson|R|Stephen Vogt|L|Walk|B|Four-Seam Fastball|19|3|0|2|11|89
+Steve Johnson|R|Danny Valencia|R|Flyout|B|Curveball|20|0|0|2|13|65
+Steve Johnson|R|Danny Valencia|R|Flyout|*B|Four-Seam Fastball|21|1|0|2|14|91
+Steve Johnson|R|Danny Valencia|R|Flyout|B|Four-Seam Fastball|22|2|0|2|13|91
+Steve Johnson|R|Danny Valencia|R|Flyout|C|Four-Seam Fastball|23|3|0|2|9|89
+Steve Johnson|R|Danny Valencia|R|Flyout|F|Four-Seam Fastball|24|3|1|2|5|88
+Steve Johnson|R|Danny Valencia|R|Flyout|F|Four-Seam Fastball|25|3|2|2|13|91
+Steve Johnson|R|Danny Valencia|R|Flyout|X|Four-Seam Fastball|26|3|2|2|7|89
+Steve Johnson|R|Tyler Ladendorf|R|Flyout|X|Four-Seam Fastball|0|0|0|0|7|88
+Steve Johnson|R|Jed Lowrie|L|Single|C|Four-Seam Fastball|1|0|0|1|4|89
+Steve Johnson|R|Jed Lowrie|L|Single|D|Curveball|2|0|1|1|11|63
+Steve Johnson|R|Billy Butler|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|9|89
+Steve Johnson|R|Billy Butler|R|Strikeout|F|Four-Seam Fastball|4|1|0|1|2|88
+Steve Johnson|R|Billy Butler|R|Strikeout|B|Curveball|5|1|1|1|12|64
+Steve Johnson|R|Billy Butler|R|Strikeout|B|Four-Seam Fastball|6|2|1|1|14|89
+Steve Johnson|R|Billy Butler|R|Strikeout|C|Four-Seam Fastball|7|3|1|1|7|87
+Steve Johnson|R|Billy Butler|R|Strikeout|T|Four-Seam Fastball|8|3|2|1|12|89
+Steve Johnson|R|Yonder Alonso|L|Strikeout|C|Four-Seam Fastball|9|0|0|2|7|88
+Steve Johnson|R|Yonder Alonso|L|Strikeout|F|Four-Seam Fastball|10|0|1|2|11|91
+Steve Johnson|R|Yonder Alonso|L|Strikeout|S|Four-Seam Fastball|11|0|2|2|11|90
+Steve Johnson|R|Robbie Grossman|L|Walk|C|Four-Seam Fastball|0|0|0|0|8|87
+Steve Johnson|R|Robbie Grossman|L|Walk|C|Two-Seam Fastball|1|0|1|0|14|87
+Steve Johnson|R|Robbie Grossman|L|Walk|B|Two-Seam Fastball|2|0|2|0|12|88
+Steve Johnson|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|3|1|2|0|13|90
+Steve Johnson|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|4|2|2|0|11|90
+Steve Johnson|R|Robbie Grossman|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|89
+Steve Johnson|R|ByungHo Park|R|Strikeout|C|Four-Seam Fastball|6|0|0|0|6|87
+Steve Johnson|R|ByungHo Park|R|Strikeout|S|Four-Seam Fastball|7|0|1|0|1|88
+Steve Johnson|R|ByungHo Park|R|Strikeout|B|Two-Seam Fastball|8|0|2|0|12|90
+Steve Johnson|R|ByungHo Park|R|Strikeout|F|Curveball|9|1|2|0|13|62
+Steve Johnson|R|ByungHo Park|R|Strikeout|S|Four-Seam Fastball|10|1|2|0|11|90
+Steve Johnson|R|Kurt Suzuki|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|5|87
+Steve Johnson|R|Kurt Suzuki|R|Strikeout|F|Four-Seam Fastball|12|0|1|1|9|88
+Steve Johnson|R|Kurt Suzuki|R|Strikeout|C|Four-Seam Fastball|13|0|2|1|6|89
+Steve Johnson|R|Danny Santana|L|Strikeout|C|Four-Seam Fastball|14|0|0|2|4|88
+Steve Johnson|R|Danny Santana|L|Strikeout|F|Four-Seam Fastball|15|0|1|2|2|89
+Steve Johnson|R|Danny Santana|L|Strikeout|T|Four-Seam Fastball|16|0|2|2|4|90
+Steve Johnson|R|Eduardo Nunez|R|Strikeout|C|Four-Seam Fastball|17|0|0|0|1|88
+Steve Johnson|R|Eduardo Nunez|R|Strikeout|B|Curveball|18|0|1|0|12|63
+Steve Johnson|R|Eduardo Nunez|R|Strikeout|B|Four-Seam Fastball|19|1|1|0|13|89
+Steve Johnson|R|Eduardo Nunez|R|Strikeout|C|Four-Seam Fastball|20|2|1|0|6|89
+Steve Johnson|R|Eduardo Nunez|R|Strikeout|S|Four-Seam Fastball|21|2|2|0|1|87
+Steve Johnson|R|Brian Dozier|R|Strikeout|S|Four-Seam Fastball|22|0|0|1|6|90
+Steve Johnson|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|23|0|1|1|14|90
+Steve Johnson|R|Brian Dozier|R|Strikeout|F|Four-Seam Fastball|24|1|1|1|6|89
+Steve Johnson|R|Brian Dozier|R|Strikeout|B|Four-Seam Fastball|25|1|2|1|12|91
+Steve Johnson|R|Brian Dozier|R|Strikeout|S|Four-Seam Fastball|26|2|2|1|12|90
+Steve Johnson|R|Joe Mauer|L|Walk|C|Two-Seam Fastball|27|0|0|2|8|89
+Steve Johnson|R|Joe Mauer|L|Walk|B|Changeup|28|0|1|2|12|79
+Steve Johnson|R|Joe Mauer|L|Walk|F|Four-Seam Fastball|29|1|1|2|4|90
+Steve Johnson|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|30|1|2|2|14|89
+Steve Johnson|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|31|2|2|2|11|90
+Steve Johnson|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|32|3|2|2|11|88
+Steve Johnson|R|Miguel Sano|R|Pop Out|B|Curveball|33|0|0|2|12|62
+Steve Johnson|R|Miguel Sano|R|Pop Out|C|Slider|34|1|0|2|6|76
+Steve Johnson|R|Miguel Sano|R|Pop Out|B|Slider|35|1|1|2|11|76
+Steve Johnson|R|Miguel Sano|R|Pop Out|B|Curveball|36|2|1|2|11|72
+Steve Johnson|R|Miguel Sano|R|Pop Out|X|Four-Seam Fastball|37|3|1|2|8|89
+Steve Johnson|R|Miguel Sano|R|Strikeout|B|Curveball|0|0|0|0|13|60
+Steve Johnson|R|Miguel Sano|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|6|87
+Steve Johnson|R|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|14|88
+Steve Johnson|R|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|3|1|2|0|8|90
+Steve Johnson|R|Robbie Grossman|L|Groundout|B|Four-Seam Fastball|4|0|0|1|14|88
+Steve Johnson|R|Robbie Grossman|L|Groundout|F|Four-Seam Fastball|5|1|0|1|1|88
+Steve Johnson|R|Robbie Grossman|L|Groundout|C|Four-Seam Fastball|6|1|1|1|7|88
+Steve Johnson|R|Robbie Grossman|L|Groundout|X|Curveball|7|1|2|1|7|65
+Steve Johnson|R|ByungHo Park|R|Pop Out|B|Four-Seam Fastball|8|0|0|2|14|89
+Steve Johnson|R|ByungHo Park|R|Pop Out|C|Four-Seam Fastball|9|1|0|2|5|88
+Steve Johnson|R|ByungHo Park|R|Pop Out|F|Four-Seam Fastball|10|1|1|2|7|88
+Steve Johnson|R|ByungHo Park|R|Pop Out|X|Four-Seam Fastball|11|1|2|2|11|89
+Steve Johnson|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|14|88
+Steve Johnson|R|Wil Myers|R|Strikeout|S|Four-Seam Fastball|1|1|0|1|4|88
+Steve Johnson|R|Wil Myers|R|Strikeout|B|Four-Seam Fastball|2|1|1|1|14|89
+Steve Johnson|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|3|2|1|1|8|89
+Steve Johnson|R|Wil Myers|R|Strikeout|S|Four-Seam Fastball|4|2|2|1|3|91
+Steve Johnson|R|Derek Norris|R|Double|F|Four-Seam Fastball|0|0|0|0|11|84
+Steve Johnson|R|Derek Norris|R|Double|F|Four-Seam Fastball|1|0|1|0|3|86
+Steve Johnson|R|Derek Norris|R|Double|D|Four-Seam Fastball|2|0|2|0|8|88
+Steve Johnson|R|Alexei Ramirez|R|Home Run|E|Four-Seam Fastball|3|0|0|0|11|86
+Steve Johnson|R|Adam Rosales|R|Single|C|Curveball|4|0|0|0|12|60
+Steve Johnson|R|Adam Rosales|R|Single|D|Curveball|5|0|1|0|6|62
+Steve Johnson|R|Alexi Amarista|L|Pop Out|B|Four-Seam Fastball|6|0|0|0|12|86
+Steve Johnson|R|Alexi Amarista|L|Pop Out|B|Four-Seam Fastball|7|1|0|0|13|86
+Steve Johnson|R|Alexi Amarista|L|Pop Out|X|Four-Seam Fastball|8|2|0|0|6|86
+Steve Johnson|R|Jon Jay|L|Single|B|Four-Seam Fastball|9|0|0|1|13|87
+Steve Johnson|R|Jon Jay|L|Single|F|Four-Seam Fastball|10|1|0|1|8|86
+Steve Johnson|R|Jon Jay|L|Single|D|Four-Seam Fastball|11|1|1|1|13|86
+Steve Johnson|R|Wil Myers|R|Sac Fly|B|Curveball|12|0|0|1|13|61
+Steve Johnson|R|Wil Myers|R|Sac Fly|F|Four-Seam Fastball|13|1|0|1|1|88
+Steve Johnson|R|Wil Myers|R|Sac Fly|C|Four-Seam Fastball|14|1|1|1|7|88
+Steve Johnson|R|Wil Myers|R|Sac Fly|F|Four-Seam Fastball|15|1|2|1|9|88
+Steve Johnson|R|Wil Myers|R|Sac Fly|F|Four-Seam Fastball|16|1|2|1|11|88
+Steve Johnson|R|Wil Myers|R|Sac Fly|F|Four-Seam Fastball|17|1|2|1|6|89
+Steve Johnson|R|Wil Myers|R|Sac Fly|*B|Slider|18|1|2|1|14|79
+Steve Johnson|R|Wil Myers|R|Sac Fly|E|Four-Seam Fastball|19|2|2|1|5|89
+Steve Johnson|R|Matt Kemp|R|Groundout|B|Four-Seam Fastball|20|0|0|2|11|86
+Steve Johnson|R|Matt Kemp|R|Groundout|F|Four-Seam Fastball|21|1|0|2|14|87
+Steve Johnson|R|Matt Kemp|R|Groundout|X|Four-Seam Fastball|22|1|1|2|9|88
+Steve Johnson|R|Bryan Holaday|R|Flyout|B|Four-Seam Fastball|0|0|0|0|7|86
+Steve Johnson|R|Bryan Holaday|R|Flyout|X|Four-Seam Fastball|1|1|0|0|4|87
+Steve Johnson|R|Jurickson Profar|L|Lineout|B|Four-Seam Fastball|2|0|0|1|11|88
+Steve Johnson|R|Jurickson Profar|L|Lineout|F|Four-Seam Fastball|3|1|0|1|8|87
+Steve Johnson|R|Jurickson Profar|L|Lineout|X|Four-Seam Fastball|4|1|1|1|2|87
+Steve Johnson|R|Ian Desmond|R|Lineout|X|Four-Seam Fastball|5|0|0|2|5|89
+Steve Johnson|R|Nomar Mazara|L|Home Run|C|Four-Seam Fastball|6|0|0|0|7|88
+Steve Johnson|R|Nomar Mazara|L|Home Run|B|Curveball|7|0|1|0|11|63
+Steve Johnson|R|Nomar Mazara|L|Home Run|B|Four-Seam Fastball|8|1|1|0|14|88
+Steve Johnson|R|Nomar Mazara|L|Home Run|E|Four-Seam Fastball|9|2|1|0|4|88
+Steve Johnson|R|Adrian Beltre|R|Flyout|B|Four-Seam Fastball|10|0|0|0|11|89
+Steve Johnson|R|Adrian Beltre|R|Flyout|X|Four-Seam Fastball|11|1|0|0|7|90
+Steve Johnson|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|12|0|0|1|11|88
+Steve Johnson|R|Rougned Odor|L|Groundout|F|Four-Seam Fastball|13|1|0|1|1|88
+Steve Johnson|R|Rougned Odor|L|Groundout|F|Four-Seam Fastball|14|1|1|1|11|88
+Steve Johnson|R|Rougned Odor|L|Groundout|X|Curveball|15|1|2|1|11|63
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|16|0|0|2|14|87
+Steve Johnson|R|Ryan Rua|R|Walk|C|Slider|17|1|0|2|3|75
+Steve Johnson|R|Ryan Rua|R|Walk|B|Curveball|18|1|1|2|13|62
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|19|2|1|2|13|89
+Steve Johnson|R|Ryan Rua|R|Walk|F|Four-Seam Fastball|20|3|1|2|2|89
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|21|3|2|2|13|90
+Steve Johnson|R|Mitch Moreland|L|Walk|B|Four-Seam Fastball|22|0|0|2|11|88
+Steve Johnson|R|Mitch Moreland|L|Walk|F|Four-Seam Fastball|23|1|0|2|7|88
+Steve Johnson|R|Mitch Moreland|L|Walk|F|Four-Seam Fastball|24|1|1|2|7|88
+Steve Johnson|R|Mitch Moreland|L|Walk|F|Four-Seam Fastball|25|1|2|2|1|90
+Steve Johnson|R|Mitch Moreland|L|Walk|B|Changeup|26|1|2|2|14|78
+Steve Johnson|R|Mitch Moreland|L|Walk|*B|Changeup|27|2|2|2|14|79
+Steve Johnson|R|Mitch Moreland|L|Walk|B|Four-Seam Fastball|28|3|2|2|11|89
+Steve Johnson|R|Elvis Andrus|R|Lineout|B|Four-Seam Fastball|29|0|0|2|13|90
+Steve Johnson|R|Elvis Andrus|R|Lineout|B|Four-Seam Fastball|30|1|0|2|11|87
+Steve Johnson|R|Elvis Andrus|R|Lineout|F|Four-Seam Fastball|31|2|0|2|13|89
+Steve Johnson|R|Elvis Andrus|R|Lineout|F|Four-Seam Fastball|32|2|1|2|13|87
+Steve Johnson|R|Elvis Andrus|R|Lineout|F|Four-Seam Fastball|33|2|2|2|2|89
+Steve Johnson|R|Elvis Andrus|R|Lineout|X|Four-Seam Fastball|34|2|2|2|7|91
+Steve Johnson|R|Mike Napoli|R|Groundout|B|Two-Seam Fastball|0|0|0|0|12|88
+Steve Johnson|R|Mike Napoli|R|Groundout|B|Four-Seam Fastball|1|1|0|0|13|90
+Steve Johnson|R|Mike Napoli|R|Groundout|B|Four-Seam Fastball|2|2|0|0|14|88
+Steve Johnson|R|Mike Napoli|R|Groundout|X|Four-Seam Fastball|3|3|0|0|6|89
+Steve Johnson|R|Jose Ramirez|L|Flyout|B|Four-Seam Fastball|4|0|0|1|14|89
+Steve Johnson|R|Jose Ramirez|L|Flyout|C|Four-Seam Fastball|5|1|0|1|1|90
+Steve Johnson|R|Jose Ramirez|L|Flyout|S|Four-Seam Fastball|6|1|1|1|1|89
+Steve Johnson|R|Jose Ramirez|L|Flyout|F|Four-Seam Fastball|7|1|2|1|2|91
+Steve Johnson|R|Jose Ramirez|L|Flyout|B|Curveball|8|1|2|1|11|63
+Steve Johnson|R|Jose Ramirez|L|Flyout|F|Four-Seam Fastball|9|2|2|1|5|90
+Steve Johnson|R|Jose Ramirez|L|Flyout|F|Four-Seam Fastball|10|2|2|1|8|90
+Steve Johnson|R|Jose Ramirez|L|Flyout|X|Changeup|11|2|2|1|7|83
+Steve Johnson|R|Lonnie Chisenhall|L|Pop Out|C|Four-Seam Fastball|12|0|0|2|8|89
+Steve Johnson|R|Lonnie Chisenhall|L|Pop Out|X|Four-Seam Fastball|13|0|1|2|9|90
+Steve Johnson|R|Bobby Wilson|R|Strikeout|F|Four-Seam Fastball|0|0|0|2|4|89
+Steve Johnson|R|Bobby Wilson|R|Strikeout|F|Four-Seam Fastball|1|0|1|2|2|89
+Steve Johnson|R|Bobby Wilson|R|Strikeout|S|Four-Seam Fastball|2|0|2|2|11|89
+Steve Johnson|R|Ryan Rua|R|Walk|B|Curveball|0|0|0|2|7|60
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|1|1|0|2|14|86
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|2|2|0|2|14|88
+Steve Johnson|R|Ryan Rua|R|Walk|B|Four-Seam Fastball|3|3|0|2|11|87
+Steve Johnson|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|4|0|0|2|11|88
+Steve Johnson|R|Prince Fielder|L|Walk|C|Four-Seam Fastball|5|1|0|2|13|86
+Steve Johnson|R|Prince Fielder|L|Walk|C|Four-Seam Fastball|6|1|1|2|4|88
+Steve Johnson|R|Prince Fielder|L|Walk|F|Two-Seam Fastball|7|1|2|2|12|90
+Steve Johnson|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|8|1|2|2|11|88
+Steve Johnson|R|Prince Fielder|L|Walk|F|Four-Seam Fastball|9|2|2|2|7|89
+Steve Johnson|R|Prince Fielder|L|Walk|*B|Four-Seam Fastball|10|2|2|2|13|89
+Steve Johnson|R|Prince Fielder|L|Walk|F|Four-Seam Fastball|11|3|2|2|11|89
+Steve Johnson|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|12|3|2|2|13|89
+Steve Johnson|R|Elvis Andrus|R|Single|E|Four-Seam Fastball|13|0|0|2|6|87
+Steve Johnson|R|Taylor Motter|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|86
+Steve Johnson|R|Taylor Motter|R|Pop Out|C|Four-Seam Fastball|1|1|0|0|11|87
+Steve Johnson|R|Taylor Motter|R|Pop Out|B|Four-Seam Fastball|2|1|1|0|13|86
+Steve Johnson|R|Taylor Motter|R|Pop Out|B|Four-Seam Fastball|3|2|1|0|13|87
+Steve Johnson|R|Taylor Motter|R|Pop Out|F|Four-Seam Fastball|4|3|1|0|1|87
+Steve Johnson|R|Taylor Motter|R|Pop Out|F|Four-Seam Fastball|5|3|2|0|5|88
+Steve Johnson|R|Taylor Motter|R|Pop Out|X|Four-Seam Fastball|6|3|2|0|11|88
+Steve Johnson|R|Desmond Jennings|R|Strikeout|B|Four-Seam Fastball|7|0|0|1|11|88
+Steve Johnson|R|Desmond Jennings|R|Strikeout|B|Four-Seam Fastball|8|1|0|1|14|89
+Steve Johnson|R|Desmond Jennings|R|Strikeout|F|Four-Seam Fastball|9|2|0|1|4|85
+Steve Johnson|R|Desmond Jennings|R|Strikeout|S|Four-Seam Fastball|10|2|1|1|6|88
+Steve Johnson|R|Desmond Jennings|R|Strikeout|S|Four-Seam Fastball|11|2|2|1|6|90
+Steve Johnson|R|Curt Casali|R|Single|B|Four-Seam Fastball|12|0|0|2|11|88
+Steve Johnson|R|Curt Casali|R|Single|D|Four-Seam Fastball|13|1|0|2|8|88
+Steve Johnson|R|Logan Forsythe|R|Single|*B|Four-Seam Fastball|14|0|0|2|14|88
+Steve Johnson|R|Logan Forsythe|R|Single|C|Four-Seam Fastball|15|1|0|2|5|87
+Steve Johnson|R|Logan Forsythe|R|Single|D|Four-Seam Fastball|16|1|1|2|4|88
+Steve Johnson|R|Brad Miller|L|Pop Out|X|Curveball|17|0|0|2|8|64

@@ -1,0 +1,606 @@
+Dalier Hinojosa|R|Alex Rodriguez|R|Strikeout|B|Four-Seam Fastball|0|0|0|1|14|90
+Dalier Hinojosa|R|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|1|1|0|1|6|90
+Dalier Hinojosa|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|2|1|1|1|14|92
+Dalier Hinojosa|R|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|3|1|2|1|6|92
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|C|Four-Seam Fastball|4|0|0|2|2|90
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|F|Changeup|5|0|1|2|5|84
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|B|Four-Seam Fastball|6|0|2|2|14|93
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|B|Four-Seam Fastball|7|1|2|2|14|93
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|*B|Changeup|8|2|2|2|14|85
+Dalier Hinojosa|R|Mark Teixeira|L|Walk|B|Four-Seam Fastball|9|3|2|2|14|92
+Dalier Hinojosa|R|Brian McCann|L|Flyout|B|Four-Seam Fastball|10|0|0|2|14|92
+Dalier Hinojosa|R|Brian McCann|L|Flyout|X|Four-Seam Fastball|11|1|0|2|4|91
+Dalier Hinojosa|R|Chris Young|R|Strikeout|C|Changeup|12|0|0|0|6|83
+Dalier Hinojosa|R|Chris Young|R|Strikeout|F|Four-Seam Fastball|13|0|1|0|1|91
+Dalier Hinojosa|R|Chris Young|R|Strikeout|C|Four-Seam Fastball|14|0|2|0|7|90
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|B|Four-Seam Fastball|15|0|0|1|11|92
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|B|Changeup|16|1|0|1|14|84
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|B|Four-Seam Fastball|17|2|0|1|11|91
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|C|Four-Seam Fastball|18|3|0|1|9|90
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|F|Four-Seam Fastball|19|3|1|1|2|90
+Dalier Hinojosa|R|Chase Headley|L|Hit By Pitch|H|Four-Seam Fastball|20|3|2|1|12|91
+Dalier Hinojosa|R|Stephen Drew|L|Flyout|C|Four-Seam Fastball|21|0|0|1|7|90
+Dalier Hinojosa|R|Stephen Drew|L|Flyout|X|Four-Seam Fastball|22|0|1|1|5|91
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|B|Four-Seam Fastball|23|0|0|2|14|92
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|S|Changeup|24|1|0|2|8|84
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|B|Four-Seam Fastball|25|1|1|2|14|92
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|B|Four-Seam Fastball|26|2|1|2|11|90
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|F|Four-Seam Fastball|27|3|1|2|5|90
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|F|Four-Seam Fastball|28|3|2|2|14|91
+Dalier Hinojosa|R|Didi Gregorius|L|Walk|B|Slider|29|3|2|2|14|83
+Dalier Hinojosa|R|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|30|0|0|2|14|91
+Dalier Hinojosa|R|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|31|1|0|2|12|91
+Dalier Hinojosa|R|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|32|2|0|2|13|91
+Dalier Hinojosa|R|Jacoby Ellsbury|L|Walk|B|Four-Seam Fastball|33|3|0|2|11|88
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|B|Changeup|34|0|0|2|11|81
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|35|1|0|2|14|90
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|B|Four-Seam Fastball|36|2|0|2|11|89
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|37|3|0|2|5|88
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|C|Four-Seam Fastball|38|3|1|2|11|89
+Dalier Hinojosa|R|Brett Gardner|L|Groundout|X|Four-Seam Fastball|39|3|2|2|2|91
+Dalier Hinojosa|R|Eury Perez|R|Groundout|B|Two-Seam Fastball|0|0|0|0|14|93
+Dalier Hinojosa|R|Eury Perez|R|Groundout|C|Two-Seam Fastball|1|1|0|0|3|93
+Dalier Hinojosa|R|Eury Perez|R|Groundout|C|Slider|2|1|1|0|3|85
+Dalier Hinojosa|R|Eury Perez|R|Groundout|X|Slider|3|1|2|0|13|86
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Two-Seam Fastball|4|0|0|1|2|94
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|S|Four-Seam Fastball|5|0|1|1|12|95
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Four-Seam Fastball|6|0|2|1|12|96
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|B|Slider|7|0|2|1|14|86
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Slider|8|1|2|1|11|86
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|B|Four-Seam Fastball|9|1|2|1|14|96
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Four-Seam Fastball|10|2|2|1|3|95
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Four-Seam Fastball|11|2|2|1|12|94
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|F|Four-Seam Fastball|12|2|2|1|11|94
+Dalier Hinojosa|R|Daniel Castro|R|Pop Out|X|Two-Seam Fastball|13|2|2|1|7|95
+Dalier Hinojosa|R|Pedro Ciriaco|R|Flyout|F|Four-Seam Fastball|14|0|0|2|14|95
+Dalier Hinojosa|R|Pedro Ciriaco|R|Flyout|S|Four-Seam Fastball|15|0|1|2|5|95
+Dalier Hinojosa|R|Pedro Ciriaco|R|Flyout|F|Four-Seam Fastball|16|0|2|2|2|95
+Dalier Hinojosa|R|Pedro Ciriaco|R|Flyout|X|Slider|17|0|2|2|8|86
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|F|Two-Seam Fastball|0|0|0|0|3|93
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|B|Two-Seam Fastball|1|0|1|0|13|94
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|F|Two-Seam Fastball|2|1|1|0|13|94
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|F|Four-Seam Fastball|3|1|2|0|14|95
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|F|Two-Seam Fastball|4|1|2|0|13|95
+Dalier Hinojosa|R|A.J. Pierzynski|L|Groundout|X|Slider|5|1|2|0|13|86
+Dalier Hinojosa|R|Adonis Garcia|R|Pop Out|B|Two-Seam Fastball|6|0|0|1|12|94
+Dalier Hinojosa|R|Adonis Garcia|R|Pop Out|F|Four-Seam Fastball|7|1|0|1|4|94
+Dalier Hinojosa|R|Adonis Garcia|R|Pop Out|B|Slider|8|1|1|1|14|86
+Dalier Hinojosa|R|Adonis Garcia|R|Pop Out|X|Slider|9|2|1|1|5|85
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|B|Four-Seam Fastball|10|0|0|2|11|94
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|B|Two-Seam Fastball|11|1|0|2|13|95
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|S|Two-Seam Fastball|12|2|0|2|4|93
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|F|Four-Seam Fastball|13|2|1|2|1|93
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|B|Four-Seam Fastball|14|2|2|2|13|95
+Dalier Hinojosa|R|Jace Peterson|L|Pop Out|X|Two-Seam Fastball|15|3|2|2|4|94
+Dalier Hinojosa|R|Carl Crawford|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|1|92
+Dalier Hinojosa|R|Carl Crawford|L|Strikeout|C|Changeup|1|0|1|0|1|87
+Dalier Hinojosa|R|Carl Crawford|L|Strikeout|B|Two-Seam Fastball|2|0|2|0|12|93
+Dalier Hinojosa|R|Carl Crawford|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|5|94
+Dalier Hinojosa|R|Alberto Callaspo|L|Single|B|Four-Seam Fastball|4|0|0|1|3|93
+Dalier Hinojosa|R|Alberto Callaspo|L|Single|F|Four-Seam Fastball|5|1|0|1|12|93
+Dalier Hinojosa|R|Alberto Callaspo|L|Single|B|Changeup|6|1|1|1|11|88
+Dalier Hinojosa|R|Alberto Callaspo|L|Single|D|Two-Seam Fastball|7|2|1|1|8|93
+Dalier Hinojosa|R|Joc Pederson|L|Single|C|Changeup|8|0|0|1|11|85
+Dalier Hinojosa|R|Joc Pederson|L|Single|C|Slider|9|0|1|1|4|83
+Dalier Hinojosa|R|Joc Pederson|L|Single|F|Two-Seam Fastball|10|0|2|1|4|93
+Dalier Hinojosa|R|Joc Pederson|L|Single|D|Slider|11|0|2|1|14|85
+Dalier Hinojosa|R|Yasiel Puig|R|Strikeout|F|Two-Seam Fastball|12|0|0|1|4|93
+Dalier Hinojosa|R|Yasiel Puig|R|Strikeout|C|Slider|13|0|1|1|14|85
+Dalier Hinojosa|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|14|0|2|1|12|95
+Dalier Hinojosa|R|Yasiel Puig|R|Strikeout|B|Four-Seam Fastball|15|1|2|1|12|94
+Dalier Hinojosa|R|Yasiel Puig|R|Strikeout|S|Two-Seam Fastball|16|2|2|1|5|93
+Dalier Hinojosa|R|Jimmy Rollins|L|Groundout|C|Changeup|17|0|0|2|1|87
+Dalier Hinojosa|R|Jimmy Rollins|L|Groundout|B|Two-Seam Fastball|18|0|1|2|11|93
+Dalier Hinojosa|R|Jimmy Rollins|L|Groundout|B|Four-Seam Fastball|19|1|1|2|14|93
+Dalier Hinojosa|R|Jimmy Rollins|L|Groundout|X|Changeup|20|2|1|2|13|86
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|C|Two-Seam Fastball|21|0|0|0|2|92
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|B|Slider|22|0|1|0|13|81
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|F|Two-Seam Fastball|23|1|1|0|11|93
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|F|Two-Seam Fastball|24|1|2|0|5|95
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|25|1|2|0|12|94
+Dalier Hinojosa|R|Howie Kendrick|R|Strikeout|T|Changeup|26|2|2|0|13|87
+Dalier Hinojosa|R|Adrian Gonzalez|L|Groundout|S|Changeup|27|0|0|1|5|86
+Dalier Hinojosa|R|Adrian Gonzalez|L|Groundout|B|Changeup|28|0|1|1|13|87
+Dalier Hinojosa|R|Adrian Gonzalez|L|Groundout|X|Changeup|29|1|1|1|13|88
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|B|Changeup|30|0|0|2|14|87
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|31|1|0|2|4|93
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|B|Two-Seam Fastball|32|1|1|2|12|94
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|B|Two-Seam Fastball|33|2|1|2|13|93
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|S|Two-Seam Fastball|34|3|1|2|4|93
+Dalier Hinojosa|R|Yasmani Grandal|L|Strikeout|S|Four-Seam Fastball|35|3|2|2|8|93
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|B|Changeup|36|0|0|0|11|85
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|S|Four-Seam Fastball|37|1|0|0|1|91
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|B|Four-Seam Fastball|38|1|1|0|13|94
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|F|Two-Seam Fastball|39|2|1|0|4|93
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|F|Changeup|40|2|2|0|2|86
+Dalier Hinojosa|R|Andre Ethier|L|Flyout|X|Two-Seam Fastball|41|2|2|0|5|93
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|C|Slider|42|0|0|1|8|80
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|C|Changeup|43|0|1|1|1|86
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|B|Two-Seam Fastball|44|0|2|1|14|93
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|F|Two-Seam Fastball|45|1|2|1|3|93
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|B|Slider|46|1|2|1|14|85
+Dalier Hinojosa|R|Scott Van Slyke|R|Pop Out|X|Two-Seam Fastball|47|2|2|1|2|93
+Dalier Hinojosa|R|Alberto Callaspo|L|Strikeout|F|Changeup|48|0|0|2|5|87
+Dalier Hinojosa|R|Alberto Callaspo|L|Strikeout|F|Two-Seam Fastball|49|0|1|2|1|92
+Dalier Hinojosa|R|Alberto Callaspo|L|Strikeout|C|Two-Seam Fastball|50|0|2|2|11|94
+Dalier Hinojosa|R|David Wright|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|93
+Dalier Hinojosa|R|David Wright|R|Walk|F|Two-Seam Fastball|1|1|0|0|6|93
+Dalier Hinojosa|R|David Wright|R|Walk|B|Slider|2|1|1|0|14|88
+Dalier Hinojosa|R|David Wright|R|Walk|F|Two-Seam Fastball|3|2|1|0|11|93
+Dalier Hinojosa|R|David Wright|R|Walk|B|Four-Seam Fastball|4|2|2|0|13|94
+Dalier Hinojosa|R|David Wright|R|Walk|B|Two-Seam Fastball|5|3|2|0|12|93
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|B|Two-Seam Fastball|6|0|0|0|14|93
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|F|Four-Seam Fastball|7|1|0|0|12|92
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|X|Four-Seam Fastball|8|1|1|0|12|93
+Dalier Hinojosa|R|Travis d'Arnaud|R|Double|D|Four-Seam Fastball|9|0|0|1|7|93
+Dalier Hinojosa|R|Kelly Johnson|L|Intent Walk|I|Intentional Ball|10|0|0|1|11|67
+Dalier Hinojosa|R|Kelly Johnson|L|Intent Walk|I|Intentional Ball|11|0|1|1|11|61
+Dalier Hinojosa|R|Kelly Johnson|L|Intent Walk|I|Intentional Ball|12|0|2|1|11|59
+Dalier Hinojosa|R|Kelly Johnson|L|Intent Walk|I|Intentional Ball|13|0|2|1|11|60
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|F|Slider|14|0|0|1|5|86
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|E|Two-Seam Fastball|15|0|1|1|11|93
+Dalier Hinojosa|R|Matt Harvey|R|Flyout|X|Slider|16|0|0|2|4|85
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|C|Four-Seam Fastball|17|0|0|0|2|92
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|B|Changeup|18|0|1|0|11|87
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|F|Changeup|19|1|1|0|8|85
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|F|Four-Seam Fastball|20|1|2|0|2|94
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|X|Four-Seam Fastball|21|1|2|0|6|94
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|C|Four-Seam Fastball|22|0|0|1|14|94
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|D|Slider|23|0|1|1|14|86
+Dalier Hinojosa|R|Michael Cuddyer|R|Flyout|S|Four-Seam Fastball|24|0|0|1|2|93
+Dalier Hinojosa|R|Michael Cuddyer|R|Flyout|B|Four-Seam Fastball|25|0|1|1|14|93
+Dalier Hinojosa|R|Michael Cuddyer|R|Flyout|F|Slider|26|1|1|1|13|85
+Dalier Hinojosa|R|Michael Cuddyer|R|Flyout|F|Slider|27|1|2|1|14|87
+Dalier Hinojosa|R|Michael Cuddyer|R|Flyout|X|Four-Seam Fastball|28|1|2|1|5|93
+Dalier Hinojosa|R|David Wright|R|Single|C|Slider|29|0|0|2|11|84
+Dalier Hinojosa|R|David Wright|R|Single|B|Four-Seam Fastball|30|0|1|2|14|94
+Dalier Hinojosa|R|David Wright|R|Single|S|Four-Seam Fastball|31|1|1|2|11|94
+Dalier Hinojosa|R|David Wright|R|Single|B|Four-Seam Fastball|32|1|2|2|12|94
+Dalier Hinojosa|R|David Wright|R|Single|X|Slider|33|2|2|2|14|88
+Dalier Hinojosa|R|Allen Craig|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|91
+Dalier Hinojosa|R|Allen Craig|R|Groundout|C|Four-Seam Fastball|1|1|0|0|12|91
+Dalier Hinojosa|R|Allen Craig|R|Groundout|S|Four-Seam Fastball|2|1|1|0|8|93
+Dalier Hinojosa|R|Allen Craig|R|Groundout|F|Four-Seam Fastball|3|1|2|0|4|94
+Dalier Hinojosa|R|Allen Craig|R|Groundout|X|Slider|4|1|2|0|8|86
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|B|Four-Seam Fastball|5|0|0|1|13|92
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|C|Four-Seam Fastball|6|1|0|1|13|92
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|B|Slider|7|1|1|1|13|82
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|S|Changeup|8|2|1|1|13|85
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|B|Changeup|9|2|2|1|13|86
+Dalier Hinojosa|R|Travis Shaw|L|Flyout|X|Four-Seam Fastball|10|3|2|1|5|92
+Dalier Hinojosa|R|Rusney Castillo|R|Groundout|B|Four-Seam Fastball|11|0|0|2|14|94
+Dalier Hinojosa|R|Rusney Castillo|R|Groundout|F|Four-Seam Fastball|12|1|0|2|9|92
+Dalier Hinojosa|R|Rusney Castillo|R|Groundout|X|Changeup|13|1|1|2|14|85
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|C|Four-Seam Fastball|14|0|0|0|12|92
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|15|0|1|0|14|93
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|C|Changeup|16|1|1|0|1|87
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|17|1|2|0|14|95
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|F|Four-Seam Fastball|18|2|2|0|11|92
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|B|Changeup|19|2|2|0|13|87
+Dalier Hinojosa|R|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|20|3|2|0|13|92
+Dalier Hinojosa|R|Josh Rutledge|R|Strikeout|C|Four-Seam Fastball|21|0|0|0|4|91
+Dalier Hinojosa|R|Josh Rutledge|R|Strikeout|B|Four-Seam Fastball|22|0|1|0|12|93
+Dalier Hinojosa|R|Josh Rutledge|R|Strikeout|C|Four-Seam Fastball|23|1|1|0|14|93
+Dalier Hinojosa|R|Josh Rutledge|R|Strikeout|T|Changeup|24|1|2|0|1|86
+Dalier Hinojosa|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|25|0|0|1|9|93
+Dalier Hinojosa|R|Jackie Bradley Jr.|L|Strikeout|F|Changeup|26|0|1|1|1|86
+Dalier Hinojosa|R|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|27|0|2|1|14|94
+Dalier Hinojosa|R|Jackie Bradley Jr.|L|Strikeout|S|Slider|28|1|2|1|4|85
+Dalier Hinojosa|R|Mookie Betts|R|Walk|B|Changeup|29|0|0|2|13|86
+Dalier Hinojosa|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|30|1|0|2|14|93
+Dalier Hinojosa|R|Mookie Betts|R|Walk|C|Four-Seam Fastball|31|2|0|2|5|92
+Dalier Hinojosa|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|32|2|1|2|14|93
+Dalier Hinojosa|R|Mookie Betts|R|Walk|B|Four-Seam Fastball|33|3|1|2|14|92
+Dalier Hinojosa|R|Brock Holt|L|Walk|C|Changeup|34|0|0|2|4|87
+Dalier Hinojosa|R|Brock Holt|L|Walk|B|Changeup|35|0|1|2|13|87
+Dalier Hinojosa|R|Brock Holt|L|Walk|B|Four-Seam Fastball|36|1|1|2|13|93
+Dalier Hinojosa|R|Brock Holt|L|Walk|B|Changeup|37|2|1|2|13|85
+Dalier Hinojosa|R|Brock Holt|L|Walk|B|Four-Seam Fastball|38|3|1|2|13|92
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|F|Four-Seam Fastball|39|0|0|2|5|93
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|B|Changeup|40|0|1|2|13|88
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|F|Four-Seam Fastball|41|1|1|2|5|94
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|F|Four-Seam Fastball|42|1|2|2|11|94
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|F|Slider|43|1|2|2|2|87
+Dalier Hinojosa|R|Xander Bogaerts|R|Forceout|X|Slider|44|1|2|2|14|86
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|*B|Slider|0|0|0|1|14|85
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|B|Four-Seam Fastball|1|1|0|1|12|93
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|F|Four-Seam Fastball|2|2|0|1|12|94
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|C|Four-Seam Fastball|3|2|1|1|9|94
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|F|Slider|4|2|2|1|11|86
+Dalier Hinojosa|R|Hector Olivera|R|Strikeout|T|Slider|5|2|2|1|4|86
+Dalier Hinojosa|R|Freddie Freeman|L|Groundout|C|Four-Seam Fastball|6|0|0|2|9|94
+Dalier Hinojosa|R|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|7|0|1|2|14|94
+Dalier Hinojosa|R|Freddie Freeman|L|Groundout|F|Changeup|8|1|1|2|7|87
+Dalier Hinojosa|R|Freddie Freeman|L|Groundout|X|Changeup|9|1|2|2|11|89
+Dalier Hinojosa|R|Kris Bryant|R|Single|B|Four-Seam Fastball|0|0|0|1|12|93
+Dalier Hinojosa|R|Kris Bryant|R|Single|B|Four-Seam Fastball|1|1|0|1|14|93
+Dalier Hinojosa|R|Kris Bryant|R|Single|F|Four-Seam Fastball|2|2|0|1|7|92
+Dalier Hinojosa|R|Kris Bryant|R|Single|F|Four-Seam Fastball|3|2|1|1|11|92
+Dalier Hinojosa|R|Kris Bryant|R|Single|B|Four-Seam Fastball|4|2|2|1|14|94
+Dalier Hinojosa|R|Kris Bryant|R|Single|E|Four-Seam Fastball|5|3|2|1|8|94
+Dalier Hinojosa|R|Miguel Montero|L|Single|B|Changeup|6|0|0|1|13|86
+Dalier Hinojosa|R|Miguel Montero|L|Single|B|Four-Seam Fastball|7|1|0|1|13|92
+Dalier Hinojosa|R|Miguel Montero|L|Single|F|Four-Seam Fastball|8|2|0|1|8|92
+Dalier Hinojosa|R|Miguel Montero|L|Single|C|Slider|9|2|1|1|11|84
+Dalier Hinojosa|R|Miguel Montero|L|Single|D|Changeup|10|2|2|1|13|85
+Dalier Hinojosa|R|Javier Baez|R|Flyout|X|Slider|11|0|0|1|13|85
+Dalier Hinojosa|R|Kyle Hendricks|R|Strikeout|B|Four-Seam Fastball|12|0|0|2|12|94
+Dalier Hinojosa|R|Kyle Hendricks|R|Strikeout|S|Four-Seam Fastball|13|1|0|2|5|93
+Dalier Hinojosa|R|Kyle Hendricks|R|Strikeout|S|Four-Seam Fastball|14|1|1|2|2|94
+Dalier Hinojosa|R|Kyle Hendricks|R|Strikeout|S|Four-Seam Fastball|15|1|2|2|11|93
+Dalier Hinojosa|R|Addison Russell|R|Strikeout|B|Four-Seam Fastball|16|0|0|0|11|91
+Dalier Hinojosa|R|Addison Russell|R|Strikeout|C|Slider|17|1|0|0|11|83
+Dalier Hinojosa|R|Addison Russell|R|Strikeout|F|Four-Seam Fastball|18|1|1|0|6|93
+Dalier Hinojosa|R|Addison Russell|R|Strikeout|B|Slider|19|1|2|0|14|83
+Dalier Hinojosa|R|Addison Russell|R|Strikeout|W|Slider|20|2|2|0|14|84
+Dalier Hinojosa|R|Dexter Fowler|L|Flyout|C|Four-Seam Fastball|21|0|0|1|4|92
+Dalier Hinojosa|R|Dexter Fowler|L|Flyout|B|Changeup|22|0|1|1|11|85
+Dalier Hinojosa|R|Dexter Fowler|L|Flyout|X|Changeup|23|1|1|1|7|86
+Dalier Hinojosa|R|Addison Russell|R|Field Error|B|Four-Seam Fastball|0|0|0|0|14|92
+Dalier Hinojosa|R|Addison Russell|R|Field Error|B|Four-Seam Fastball|1|1|0|0|14|92
+Dalier Hinojosa|R|Addison Russell|R|Field Error|F|Four-Seam Fastball|2|2|0|0|5|91
+Dalier Hinojosa|R|Addison Russell|R|Field Error|D|Slider|3|2|1|0|4|82
+Dalier Hinojosa|R|Dexter Fowler|L|Flyout|X|Four-Seam Fastball|4|0|0|0|5|90
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|5|0|0|1|11|91
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|B|Slider|6|0|1|1|13|85
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|7|1|1|1|13|92
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|B|Changeup|8|2|1|1|13|85
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|F|Four-Seam Fastball|9|3|1|1|2|91
+Dalier Hinojosa|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|10|3|2|1|11|92
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|B|Four-Seam Fastball|11|0|0|1|13|92
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|B|Slider|12|1|0|1|11|83
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|B|Four-Seam Fastball|13|2|0|1|13|90
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|C|Four-Seam Fastball|14|3|0|1|5|90
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|S|Four-Seam Fastball|15|3|1|1|2|90
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|F|Four-Seam Fastball|16|3|2|1|2|91
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|F|Slider|17|3|2|1|9|83
+Dalier Hinojosa|R|Chris Coghlan|L|Lineout|X|Four-Seam Fastball|18|3|2|1|8|92
+Dalier Hinojosa|R|Anthony Rizzo|L|Field Error|F|Four-Seam Fastball|19|0|0|2|6|93
+Dalier Hinojosa|R|Anthony Rizzo|L|Field Error|B|Four-Seam Fastball|20|0|1|2|14|93
+Dalier Hinojosa|R|Anthony Rizzo|L|Field Error|F|Slider|21|1|1|2|13|85
+Dalier Hinojosa|R|Anthony Rizzo|L|Field Error|*B|Slider|22|1|2|2|14|85
+Dalier Hinojosa|R|Anthony Rizzo|L|Field Error|D|Slider|23|2|2|2|13|84
+Dalier Hinojosa|R|Kris Bryant|R|Flyout|B|Slider|24|0|0|2|11|81
+Dalier Hinojosa|R|Kris Bryant|R|Flyout|C|Slider|25|1|0|2|3|83
+Dalier Hinojosa|R|Kris Bryant|R|Flyout|F|Four-Seam Fastball|26|1|1|2|4|92
+Dalier Hinojosa|R|Kris Bryant|R|Flyout|X|Slider|27|1|2|2|14|84
+Dalier Hinojosa|R|Bryce Harper|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|1|91
+Dalier Hinojosa|R|Bryce Harper|L|Strikeout|F|Changeup|1|0|1|2|11|86
+Dalier Hinojosa|R|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|2|0|2|2|12|93
+Dalier Hinojosa|R|Jayson Werth|R|Home Run|F|Slider|3|0|0|0|9|85
+Dalier Hinojosa|R|Jayson Werth|R|Home Run|B|Slider|4|0|1|0|14|85
+Dalier Hinojosa|R|Jayson Werth|R|Home Run|B|Four-Seam Fastball|5|1|1|0|14|93
+Dalier Hinojosa|R|Jayson Werth|R|Home Run|B|Four-Seam Fastball|6|2|1|0|11|92
+Dalier Hinojosa|R|Jayson Werth|R|Home Run|E|Four-Seam Fastball|7|3|1|0|5|92
+Dalier Hinojosa|R|Clint Robinson|L|Single|C|Four-Seam Fastball|8|0|0|0|4|91
+Dalier Hinojosa|R|Clint Robinson|L|Single|C|Changeup|9|0|1|0|13|86
+Dalier Hinojosa|R|Clint Robinson|L|Single|B|Changeup|10|0|2|0|13|86
+Dalier Hinojosa|R|Clint Robinson|L|Single|F|Four-Seam Fastball|11|1|2|0|11|92
+Dalier Hinojosa|R|Clint Robinson|L|Single|D|Slider|12|1|2|0|4|84
+Dalier Hinojosa|R|Ian Desmond|R|Single|S|Slider|13|0|0|0|6|84
+Dalier Hinojosa|R|Ian Desmond|R|Single|*B|Slider|14|0|1|0|14|82
+Dalier Hinojosa|R|Ian Desmond|R|Single|C|Four-Seam Fastball|15|1|1|0|9|92
+Dalier Hinojosa|R|Ian Desmond|R|Single|*B|Slider|16|1|2|0|14|84
+Dalier Hinojosa|R|Ian Desmond|R|Single|F|Slider|17|2|2|0|2|82
+Dalier Hinojosa|R|Ian Desmond|R|Single|D|Slider|18|2|2|0|14|84
+Dalier Hinojosa|R|Jose Lobaton|L|Strikeout|W|Slider|19|0|0|0|13|83
+Dalier Hinojosa|R|Jose Lobaton|L|Strikeout|F|Slider|20|0|1|0|13|82
+Dalier Hinojosa|R|Jose Lobaton|L|Strikeout|C|Four-Seam Fastball|21|0|2|0|13|92
+Dalier Hinojosa|R|Michael A. Taylor|R|Groundout|X|Slider|22|0|0|1|8|83
+Dalier Hinojosa|R|Cameron Maybin|R|Groundout|C|Four-Seam Fastball|0|0|0|2|14|94
+Dalier Hinojosa|R|Cameron Maybin|R|Groundout|X|Slider|1|0|1|2|8|85
+Dalier Hinojosa|R|Andrelton Simmons|R|Groundout|C|Four-Seam Fastball|2|0|0|0|6|94
+Dalier Hinojosa|R|Andrelton Simmons|R|Groundout|B|Four-Seam Fastball|3|0|1|0|12|94
+Dalier Hinojosa|R|Andrelton Simmons|R|Groundout|X|Slider|4|1|1|0|5|85
+Dalier Hinojosa|R|Hector Olivera|R|Single|C|Slider|5|0|0|1|8|85
+Dalier Hinojosa|R|Hector Olivera|R|Single|B|Four-Seam Fastball|6|0|1|1|14|94
+Dalier Hinojosa|R|Hector Olivera|R|Single|D|Slider|7|1|1|1|8|85
+Dalier Hinojosa|R|Christian Bethancourt|R|Forceout|B|Four-Seam Fastball|8|0|0|1|12|93
+Dalier Hinojosa|R|Christian Bethancourt|R|Forceout|X|Slider|9|1|0|1|4|84
+Dalier Hinojosa|R|A.J. Pierzynski|L|Strikeout|C|Four-Seam Fastball|10|0|0|2|13|92
+Dalier Hinojosa|R|A.J. Pierzynski|L|Strikeout|B|Changeup|11|0|1|2|13|86
+Dalier Hinojosa|R|A.J. Pierzynski|L|Strikeout|S|Changeup|12|1|1|2|11|86
+Dalier Hinojosa|R|A.J. Pierzynski|L|Strikeout|S|Four-Seam Fastball|13|1|2|2|14|94
+Dalier Hinojosa|R|Nick Markakis|L|Strikeout|F|Four-Seam Fastball|14|0|0|0|8|93
+Dalier Hinojosa|R|Nick Markakis|L|Strikeout|F|Four-Seam Fastball|15|0|1|0|2|93
+Dalier Hinojosa|R|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|16|0|2|0|14|93
+Dalier Hinojosa|R|Daniel Castro|R|Groundout|F|Slider|17|0|0|1|14|85
+Dalier Hinojosa|R|Daniel Castro|R|Groundout|B|Slider|18|0|1|1|14|88
+Dalier Hinojosa|R|Daniel Castro|R|Groundout|X|Slider|19|1|1|1|8|85
+Dalier Hinojosa|R|Julio Teheran|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|93
+Dalier Hinojosa|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|2|91
+Dalier Hinojosa|R|Julio Teheran|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|9|93
+Dalier Hinojosa|R|Julio Teheran|R|Strikeout|C|Slider|3|1|2|0|1|83
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|B|Four-Seam Fastball|4|0|0|1|11|93
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|F|Four-Seam Fastball|5|1|0|1|6|92
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|C|Changeup|6|1|1|1|11|86
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|B|Changeup|7|1|2|1|13|87
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|B|Four-Seam Fastball|8|2|2|1|11|92
+Dalier Hinojosa|R|Michael Bourn|L|Groundout|X|Four-Seam Fastball|9|3|2|1|13|93
+Dalier Hinojosa|R|Hector Olivera|R|Single|C|Slider|10|0|0|2|5|84
+Dalier Hinojosa|R|Hector Olivera|R|Single|D|Slider|11|0|1|2|14|87
+Dalier Hinojosa|R|Freddie Freeman|L|Walk|B|Four-Seam Fastball|12|0|0|2|13|92
+Dalier Hinojosa|R|Freddie Freeman|L|Walk|F|Four-Seam Fastball|13|1|0|2|7|93
+Dalier Hinojosa|R|Freddie Freeman|L|Walk|B|Four-Seam Fastball|14|1|1|2|14|94
+Dalier Hinojosa|R|Freddie Freeman|L|Walk|B|Changeup|15|2|1|2|13|86
+Dalier Hinojosa|R|Freddie Freeman|L|Walk|B|Four-Seam Fastball|16|3|1|2|11|93
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|B|Four-Seam Fastball|17|0|0|2|11|94
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|F|Slider|18|1|0|2|1|83
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|*B|Four-Seam Fastball|19|1|1|2|13|94
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|F|Four-Seam Fastball|20|2|1|2|13|92
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|F|Slider|21|2|2|2|13|86
+Dalier Hinojosa|R|Adonis Garcia|R|Strikeout|S|Slider|22|2|2|2|14|86
+Dalier Hinojosa|R|Dee Gordon|L|Lineout|C|Four-Seam Fastball|0|0|0|0|5|92
+Dalier Hinojosa|R|Dee Gordon|L|Lineout|B|Four-Seam Fastball|1|0|1|0|11|93
+Dalier Hinojosa|R|Dee Gordon|L|Lineout|X|Four-Seam Fastball|2|1|1|0|5|92
+Dalier Hinojosa|R|Donovan Solano|R|Single|C|Four-Seam Fastball|3|0|0|1|1|93
+Dalier Hinojosa|R|Donovan Solano|R|Single|D|Changeup|4|0|1|1|8|88
+Dalier Hinojosa|R|Christian Yelich|L|Grounded Into DP|X|Four-Seam Fastball|5|0|0|1|3|93
+Dalier Hinojosa|R|Anthony Rendon|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|90
+Dalier Hinojosa|R|Anthony Rendon|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|6|91
+Dalier Hinojosa|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|2|91
+Dalier Hinojosa|R|Anthony Rendon|R|Strikeout|B|Slider|3|1|2|0|13|86
+Dalier Hinojosa|R|Anthony Rendon|R|Strikeout|S|Slider|4|2|2|0|13|86
+Dalier Hinojosa|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|5|0|0|1|7|94
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|B|Four-Seam Fastball|6|0|0|2|11|93
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|B|Changeup|7|1|0|2|14|87
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|F|Four-Seam Fastball|8|2|0|2|2|93
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|F|Four-Seam Fastball|9|2|1|2|11|92
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|B|Four-Seam Fastball|10|2|2|2|13|94
+Dalier Hinojosa|R|Bryce Harper|L|Lineout|X|Slider|11|3|2|2|4|84
+Dalier Hinojosa|R|Bryce Harper|L|Flyout|C|Four-Seam Fastball|0|0|0|0|5|93
+Dalier Hinojosa|R|Bryce Harper|L|Flyout|B|Four-Seam Fastball|1|0|1|0|12|94
+Dalier Hinojosa|R|Bryce Harper|L|Flyout|S|Four-Seam Fastball|2|1|1|0|3|93
+Dalier Hinojosa|R|Bryce Harper|L|Flyout|X|Four-Seam Fastball|3|1|2|0|3|88
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|B|Four-Seam Fastball|4|0|0|1|14|94
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|B|Four-Seam Fastball|5|1|0|1|12|93
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|B|Four-Seam Fastball|6|2|0|1|12|93
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|C|Four-Seam Fastball|7|3|0|1|6|93
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|S|Slider|8|3|1|1|14|84
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|F|Four-Seam Fastball|9|3|2|1|9|94
+Dalier Hinojosa|R|Yunel Escobar|R|Lineout|X|Four-Seam Fastball|10|3|2|1|8|93
+Dalier Hinojosa|R|Clint Robinson|L|Lineout|B|Four-Seam Fastball|11|0|0|2|14|94
+Dalier Hinojosa|R|Clint Robinson|L|Lineout|X|Four-Seam Fastball|12|1|0|2|5|93
+Dalier Hinojosa|R|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|0|0|0|0|12|92
+Dalier Hinojosa|R|Travis d'Arnaud|R|Single|C|Four-Seam Fastball|1|1|0|0|12|92
+Dalier Hinojosa|R|Travis d'Arnaud|R|Single|C|Slider|2|1|1|0|3|85
+Dalier Hinojosa|R|Travis d'Arnaud|R|Single|B|Slider|3|1|2|0|14|85
+Dalier Hinojosa|R|Travis d'Arnaud|R|Single|D|Slider|4|2|2|0|14|85
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|B|Four-Seam Fastball|5|0|0|0|12|92
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|B|Four-Seam Fastball|6|1|0|0|11|91
+Dalier Hinojosa|R|Michael Conforto|L|Flyout|X|Four-Seam Fastball|7|2|0|0|1|91
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|C|Four-Seam Fastball|8|0|0|1|14|92
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|S|Four-Seam Fastball|9|0|1|1|7|93
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|F|Four-Seam Fastball|10|0|2|1|8|94
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|F|Four-Seam Fastball|11|0|2|1|5|94
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|F|Slider|12|0|2|1|14|86
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|B|Four-Seam Fastball|13|0|2|1|9|94
+Dalier Hinojosa|R|Ruben Tejada|R|Field Error|D|Slider|14|1|2|1|2|86
+Dalier Hinojosa|R|Kelly Johnson|L|Walk|B|Four-Seam Fastball|15|0|0|1|11|93
+Dalier Hinojosa|R|Kelly Johnson|L|Walk|*B|Changeup|16|1|0|1|13|85
+Dalier Hinojosa|R|Kelly Johnson|L|Walk|B|Four-Seam Fastball|17|2|0|1|14|93
+Dalier Hinojosa|R|Kelly Johnson|L|Walk|F|Four-Seam Fastball|18|3|0|1|14|92
+Dalier Hinojosa|R|Kelly Johnson|L|Walk|*B|Four-Seam Fastball|19|3|1|1|13|92
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|C|Four-Seam Fastball|20|0|0|1|5|93
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|*B|Slider|21|0|1|1|14|87
+Dalier Hinojosa|R|Curtis Granderson|L|Flyout|X|Slider|22|1|1|1|9|86
+Dalier Hinojosa|R|David Wright|R|Flyout|B|Slider|23|0|0|2|14|86
+Dalier Hinojosa|R|David Wright|R|Flyout|X|Four-Seam Fastball|24|1|0|2|2|94
+Dalier Hinojosa|R|Michael Conforto|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|93
+Dalier Hinojosa|R|Michael Conforto|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|13|91
+Dalier Hinojosa|R|Michael Conforto|L|Strikeout|C|Slider|2|1|1|0|4|85
+Dalier Hinojosa|R|Michael Conforto|L|Strikeout|W|Slider|3|1|2|0|14|87
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|C|Four-Seam Fastball|4|0|0|1|8|93
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|S|Slider|5|0|1|1|13|86
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|B|Slider|6|0|2|1|14|87
+Dalier Hinojosa|R|Ruben Tejada|R|Groundout|X|Slider|7|1|2|1|9|86
+Dalier Hinojosa|R|Kelly Johnson|L|Pop Out|X|Slider|8|0|0|2|6|86
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|12|91
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|S|Slider|1|0|1|0|14|86
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|93
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|14|93
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|3|93
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|F|Slider|5|2|2|0|8|86
+Dalier Hinojosa|R|Jeff Mathis|R|Strikeout|S|Slider|6|2|2|0|3|86
+Dalier Hinojosa|R|Donovan Solano|R|Strikeout|C|Slider|7|0|0|1|5|84
+Dalier Hinojosa|R|Donovan Solano|R|Strikeout|S|Slider|8|0|1|1|14|84
+Dalier Hinojosa|R|Donovan Solano|R|Strikeout|S|Four-Seam Fastball|9|0|2|1|2|93
+Dalier Hinojosa|R|Ichiro Suzuki|L|Groundout|B|Four-Seam Fastball|10|0|0|2|13|93
+Dalier Hinojosa|R|Ichiro Suzuki|L|Groundout|F|Four-Seam Fastball|11|1|0|2|11|92
+Dalier Hinojosa|R|Ichiro Suzuki|L|Groundout|F|Four-Seam Fastball|12|1|1|2|4|92
+Dalier Hinojosa|R|Ichiro Suzuki|L|Groundout|X|Slider|13|1|2|2|7|85
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|91
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|11|91
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|B|Four-Seam Fastball|2|2|0|0|11|89
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|C|Four-Seam Fastball|3|3|0|0|2|90
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|F|Four-Seam Fastball|4|3|1|0|12|90
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|F|Four-Seam Fastball|5|3|2|0|1|90
+Dalier Hinojosa|R|Ichiro Suzuki|L|Strikeout|S|Four-Seam Fastball|6|3|2|0|12|91
+Dalier Hinojosa|R|Marcell Ozuna|R|Groundout|B|Slider|7|0|0|1|14|86
+Dalier Hinojosa|R|Marcell Ozuna|R|Groundout|C|Four-Seam Fastball|8|1|0|1|14|93
+Dalier Hinojosa|R|Marcell Ozuna|R|Groundout|X|Four-Seam Fastball|9|1|1|1|4|93
+Dalier Hinojosa|R|Justin Bour|L|Double|B|Changeup|10|0|0|2|13|87
+Dalier Hinojosa|R|Justin Bour|L|Double|C|Four-Seam Fastball|11|1|0|2|8|93
+Dalier Hinojosa|R|Justin Bour|L|Double|D|Four-Seam Fastball|12|1|1|2|5|93
+Dalier Hinojosa|R|Derek Dietrich|L|Groundout|B|Slider|13|0|0|2|14|83
+Dalier Hinojosa|R|Derek Dietrich|L|Groundout|F|Four-Seam Fastball|14|1|0|2|7|93
+Dalier Hinojosa|R|Derek Dietrich|L|Groundout|W|Slider|15|1|1|2|14|87
+Dalier Hinojosa|R|Derek Dietrich|L|Groundout|*B|Slider|16|1|2|2|14|85
+Dalier Hinojosa|R|Derek Dietrich|L|Groundout|X|Slider|17|2|2|2|5|85
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|B|Four-Seam Fastball|0|0|0|0|13|93
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|B|Four-Seam Fastball|1|1|0|0|14|93
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|D|Four-Seam Fastball|2|2|0|0|14|93
+Dalier Hinojosa|R|Joey Votto|L|Flyout|B|Four-Seam Fastball|3|0|0|0|14|93
+Dalier Hinojosa|R|Joey Votto|L|Flyout|F|Four-Seam Fastball|4|1|0|0|14|92
+Dalier Hinojosa|R|Joey Votto|L|Flyout|X|Four-Seam Fastball|5|1|1|0|3|92
+Dalier Hinojosa|R|Devin Mesoraco|R|Single|B|Slider|6|0|0|1|8|86
+Dalier Hinojosa|R|Devin Mesoraco|R|Single|D|Four-Seam Fastball|7|1|0|1|8|93
+Dalier Hinojosa|R|Jay Bruce|L|Single|F|Four-Seam Fastball|8|0|0|1|5|93
+Dalier Hinojosa|R|Jay Bruce|L|Single|D|Four-Seam Fastball|9|0|1|1|6|94
+Dalier Hinojosa|R|Scott Schebler|L|Double|B|Four-Seam Fastball|10|0|0|1|14|93
+Dalier Hinojosa|R|Scott Schebler|L|Double|C|Slider|11|1|0|1|3|85
+Dalier Hinojosa|R|Scott Schebler|L|Double|S|Four-Seam Fastball|12|1|1|1|2|94
+Dalier Hinojosa|R|Scott Schebler|L|Double|*B|Slider|13|1|2|1|14|87
+Dalier Hinojosa|R|Scott Schebler|L|Double|F|Four-Seam Fastball|14|2|2|1|4|94
+Dalier Hinojosa|R|Scott Schebler|L|Double|E|Four-Seam Fastball|15|2|2|1|5|93
+Dalier Hinojosa|R|Scott Schebler|L|Single|F|Four-Seam Fastball|0|0|0|0|9|90
+Dalier Hinojosa|R|Scott Schebler|L|Single|D|Sinker|1|0|1|0|13|88
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|S|Four-Seam Fastball|2|0|0|0|2|91
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|B|Sinker|3|0|1|0|14|88
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|B|Slider|4|1|1|0|12|83
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|F|Four-Seam Fastball|5|2|1|0|1|90
+Dalier Hinojosa|R|Eugenio Suarez|R|Single|D|Slider|6|2|2|0|14|85
+Dalier Hinojosa|R|Joey Votto|L|Flyout|*B|Four-Seam Fastball|7|0|0|0|14|93
+Dalier Hinojosa|R|Joey Votto|L|Flyout|X|Four-Seam Fastball|8|1|0|0|4|91
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|F|Slider|9|0|0|1|6|86
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|F|Four-Seam Fastball|10|0|1|1|13|92
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|F|Four-Seam Fastball|11|0|2|1|14|91
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|B|Slider|12|0|2|1|12|85
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|F|Slider|13|1|2|1|4|84
+Dalier Hinojosa|R|Adam Duvall|R|Strikeout|S|Slider|14|1|2|1|6|84
+Dalier Hinojosa|R|Jay Bruce|L|Pickoff 1B|B|Slider|15|0|0|2|14|84
+Dalier Hinojosa|R|Jay Bruce|L|Pickoff 1B|C|Slider|16|1|0|2|13|84
+Dalier Hinojosa|R|Asdrubal Cabrera|L|Pop Out|C|N/A|0|0|0|2|0|0
+Dalier Hinojosa|R|Asdrubal Cabrera|L|Pop Out|*B|Slider|1|0|1|2|14|85
+Dalier Hinojosa|R|Asdrubal Cabrera|L|Pop Out|X|Slider|2|1|1|2|6|84
+Dalier Hinojosa|R|Travis d'Arnaud|R|Lineout|B|Four-Seam Fastball|3|0|0|0|13|92
+Dalier Hinojosa|R|Travis d'Arnaud|R|Lineout|*B|Slider|4|1|0|0|14|84
+Dalier Hinojosa|R|Travis d'Arnaud|R|Lineout|C|Four-Seam Fastball|5|2|0|0|9|94
+Dalier Hinojosa|R|Travis d'Arnaud|R|Lineout|*B|Changeup|6|2|1|0|13|85
+Dalier Hinojosa|R|Travis d'Arnaud|R|Lineout|X|Four-Seam Fastball|7|3|1|0|5|92
+Dalier Hinojosa|R|Matt Kemp|R|Grounded Into DP|C|Four-Seam Fastball|0|0|0|1|14|92
+Dalier Hinojosa|R|Matt Kemp|R|Grounded Into DP|S|Slider|1|0|1|1|9|84
+Dalier Hinojosa|R|Matt Kemp|R|Grounded Into DP|B|Four-Seam Fastball|2|0|2|1|12|94
+Dalier Hinojosa|R|Matt Kemp|R|Grounded Into DP|F|Sinker|3|1|2|1|13|89
+Dalier Hinojosa|R|Matt Kemp|R|Grounded Into DP|X|Slider|4|1|2|1|9|86
+Dalier Hinojosa|R|Wil Myers|R|Groundout|S|Four-Seam Fastball|5|0|0|0|3|93
+Dalier Hinojosa|R|Wil Myers|R|Groundout|C|Changeup|6|0|1|0|8|85
+Dalier Hinojosa|R|Wil Myers|R|Groundout|B|Slider|7|0|2|0|14|85
+Dalier Hinojosa|R|Wil Myers|R|Groundout|X|Slider|8|1|2|0|14|86
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|B|Changeup|9|0|0|1|11|85
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|F|Four-Seam Fastball|10|1|0|1|4|93
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|B|Changeup|11|1|1|1|13|86
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|B|Slider|12|2|1|1|2|84
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|F|Four-Seam Fastball|13|3|1|1|11|93
+Dalier Hinojosa|R|Travis Jankowski|L|Walk|*B|Slider|14|3|2|1|14|87
+Dalier Hinojosa|R|Derek Norris|R|Forceout|B|Four-Seam Fastball|15|0|0|1|14|92
+Dalier Hinojosa|R|Derek Norris|R|Forceout|X|Four-Seam Fastball|16|1|0|1|9|92
+Dalier Hinojosa|R|Alexei Ramirez|R|Forceout|F|Four-Seam Fastball|17|0|0|2|5|92
+Dalier Hinojosa|R|Alexei Ramirez|R|Forceout|F|Four-Seam Fastball|18|0|1|2|13|90
+Dalier Hinojosa|R|Alexei Ramirez|R|Forceout|B|Slider|19|0|2|2|14|85
+Dalier Hinojosa|R|Alexei Ramirez|R|Forceout|X|Slider|20|1|2|2|12|84
+Dalier Hinojosa|R|Wilson Ramos|R|Groundout|C|Four-Seam Fastball|0|0|0|2|14|92
+Dalier Hinojosa|R|Wilson Ramos|R|Groundout|B|Slider|1|0|1|2|14|84
+Dalier Hinojosa|R|Wilson Ramos|R|Groundout|F|Slider|2|1|1|2|9|85
+Dalier Hinojosa|R|Wilson Ramos|R|Groundout|F|Four-Seam Fastball|3|1|2|2|6|94
+Dalier Hinojosa|R|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|4|1|2|2|8|94
+Dalier Hinojosa|R|Danny Espinosa|L|Strikeout|F|Four-Seam Fastball|5|0|0|0|9|94
+Dalier Hinojosa|R|Danny Espinosa|L|Strikeout|B|Sinker|6|0|1|0|13|91
+Dalier Hinojosa|R|Danny Espinosa|L|Strikeout|S|Sinker|7|1|1|0|13|90
+Dalier Hinojosa|R|Danny Espinosa|L|Strikeout|C|Changeup|8|1|2|0|8|85
+Dalier Hinojosa|R|Max Scherzer|R|Groundout|C|Four-Seam Fastball|9|0|0|1|9|94
+Dalier Hinojosa|R|Max Scherzer|R|Groundout|S|Slider|10|0|1|1|14|86
+Dalier Hinojosa|R|Max Scherzer|R|Groundout|X|Slider|11|0|2|1|6|85
+Dalier Hinojosa|R|Michael A. Taylor|R|Flyout|B|Slider|12|0|0|2|14|84
+Dalier Hinojosa|R|Michael A. Taylor|R|Flyout|F|Four-Seam Fastball|13|1|0|2|13|94
+Dalier Hinojosa|R|Michael A. Taylor|R|Flyout|X|Slider|14|1|1|2|8|87
+Dalier Hinojosa|R|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|15|0|0|0|14|95
+Dalier Hinojosa|R|Anthony Rendon|R|Groundout|B|Slider|16|0|1|0|14|86
+Dalier Hinojosa|R|Anthony Rendon|R|Groundout|F|Slider|17|1|1|0|5|86
+Dalier Hinojosa|R|Anthony Rendon|R|Groundout|X|Sinker|18|1|2|0|4|91
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|F|Slider|19|0|0|1|5|83
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|S|Four-Seam Fastball|20|0|1|1|12|94
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|B|Four-Seam Fastball|21|0|2|1|12|94
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|F|Changeup|22|1|2|1|3|87
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|B|Changeup|23|1|2|1|14|85
+Dalier Hinojosa|R|Bryce Harper|L|Groundout|X|Four-Seam Fastball|24|2|2|1|11|93
+Dalier Hinojosa|R|Neil Walker|L|Flyout|C|Four-Seam Fastball|0|0|0|0|4|94
+Dalier Hinojosa|R|Neil Walker|L|Flyout|B|Sinker|1|0|1|0|14|87
+Dalier Hinojosa|R|Neil Walker|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|93
+Dalier Hinojosa|R|Neil Walker|L|Flyout|X|Four-Seam Fastball|3|2|1|0|9|94
+Dalier Hinojosa|R|Wilmer Flores|R|Groundout|C|Four-Seam Fastball|4|0|0|1|9|93
+Dalier Hinojosa|R|Wilmer Flores|R|Groundout|B|Slider|5|0|1|1|14|88
+Dalier Hinojosa|R|Wilmer Flores|R|Groundout|B|Slider|6|1|1|1|12|85
+Dalier Hinojosa|R|Wilmer Flores|R|Groundout|X|Four-Seam Fastball|7|2|1|1|9|95
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|S|Four-Seam Fastball|8|0|0|2|6|94
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|F|Sinker|9|0|1|2|7|89
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|F|Four-Seam Fastball|10|0|2|2|12|95
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|B|Slider|11|0|2|2|14|86
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|B|Changeup|12|1|2|2|13|86
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|F|Slider|13|2|2|2|2|85
+Dalier Hinojosa|R|Travis d'Arnaud|R|Pop Out|X|Four-Seam Fastball|14|2|2|2|1|94
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|C|Slider|0|0|0|0|14|86
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|11|94
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|14|93
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|2|93
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|F|Slider|4|1|2|0|11|86
+Dalier Hinojosa|R|Travis d'Arnaud|R|Strikeout|W|Sinker|5|1|2|0|14|91
+Dalier Hinojosa|R|Alejandro De Aza|L|Groundout|S|Changeup|6|0|0|1|13|86
+Dalier Hinojosa|R|Alejandro De Aza|L|Groundout|X|Sinker|7|0|1|1|13|90
+Dalier Hinojosa|R|Curtis Granderson|L|Strikeout|B|Changeup|8|0|0|2|13|85
+Dalier Hinojosa|R|Curtis Granderson|L|Strikeout|C|Four-Seam Fastball|9|1|0|2|13|93
+Dalier Hinojosa|R|Curtis Granderson|L|Strikeout|S|Sinker|10|1|1|2|13|89
+Dalier Hinojosa|R|Curtis Granderson|L|Strikeout|B|Changeup|11|1|2|2|14|85
+Dalier Hinojosa|R|Curtis Granderson|L|Strikeout|C|Four-Seam Fastball|12|2|2|2|14|93
+Dalier Hinojosa|R|David Wright|R|Strikeout|S|Slider|13|0|0|0|13|86
+Dalier Hinojosa|R|David Wright|R|Strikeout|S|Sinker|14|0|1|0|13|91
+Dalier Hinojosa|R|David Wright|R|Strikeout|B|Sinker|15|0|2|0|13|90
+Dalier Hinojosa|R|David Wright|R|Strikeout|C|Four-Seam Fastball|16|1|2|0|7|94
+Dalier Hinojosa|R|Michael Conforto|L|Groundout|B|Four-Seam Fastball|17|0|0|1|13|94
+Dalier Hinojosa|R|Michael Conforto|L|Groundout|B|Four-Seam Fastball|18|1|0|1|14|93
+Dalier Hinojosa|R|Michael Conforto|L|Groundout|X|Sinker|19|2|0|1|8|90
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|C|Four-Seam Fastball|20|0|0|2|13|92
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|F|Sinker|21|0|1|2|8|91
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|F|Four-Seam Fastball|22|0|2|2|2|94
+Dalier Hinojosa|R|Yoenis Cespedes|R|Single|D|Four-Seam Fastball|23|0|2|2|14|94
+Dalier Hinojosa|R|Lucas Duda|L|Flyout|X|Sinker|24|0|0|2|4|88
+Dalier Hinojosa|R|Chris Carter|R|Home Run|B|Four-Seam Fastball|0|0|0|0|13|93
+Dalier Hinojosa|R|Chris Carter|R|Home Run|E|Slider|1|1|0|0|5|84
+Dalier Hinojosa|R|Domingo Santana|R|Single|D|Four-Seam Fastball|2|0|0|0|7|93
+Dalier Hinojosa|R|Colin Walsh|L|Walk|B|Sinker|3|0|0|0|13|88
+Dalier Hinojosa|R|Colin Walsh|L|Walk|B|Four-Seam Fastball|4|1|0|0|14|92
+Dalier Hinojosa|R|Colin Walsh|L|Walk|B|Four-Seam Fastball|5|2|0|0|14|93
+Dalier Hinojosa|R|Colin Walsh|L|Walk|B|Four-Seam Fastball|6|3|0|0|14|93
+Dalier Hinojosa|R|Alex Presley|L|Flyout|*B|Sinker|7|0|0|0|14|88
+Dalier Hinojosa|R|Alex Presley|L|Flyout|F|Four-Seam Fastball|8|1|0|0|4|92
+Dalier Hinojosa|R|Alex Presley|L|Flyout|X|Four-Seam Fastball|9|1|1|0|11|93
+Dalier Hinojosa|R|Aaron Hill|R|Sac Fly|E|Four-Seam Fastball|10|0|0|1|7|93
+Dalier Hinojosa|R|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|91
+Dalier Hinojosa|R|Ryan Braun|R|Strikeout|F|Slider|1|0|1|0|6|85
+Dalier Hinojosa|R|Ryan Braun|R|Strikeout|B|Sinker|2|0|2|0|14|91
+Dalier Hinojosa|R|Ryan Braun|R|Strikeout|B|Changeup|3|1|2|0|13|83
+Dalier Hinojosa|R|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|8|93
+Dalier Hinojosa|R|Chris Carter|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|94
+Dalier Hinojosa|R|Chris Carter|R|Strikeout|B|Four-Seam Fastball|6|1|0|1|12|93
+Dalier Hinojosa|R|Chris Carter|R|Strikeout|C|Four-Seam Fastball|7|2|0|1|9|93
+Dalier Hinojosa|R|Chris Carter|R|Strikeout|S|Slider|8|2|1|1|14|86
+Dalier Hinojosa|R|Chris Carter|R|Strikeout|W|Slider|9|2|2|1|14|86
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|B|Four-Seam Fastball|10|0|0|2|14|93
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|B|Four-Seam Fastball|11|1|0|2|14|93
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|S|Four-Seam Fastball|12|2|0|2|8|92
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|F|Four-Seam Fastball|13|2|1|2|6|92
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|F|Four-Seam Fastball|14|2|2|2|12|92
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|B|Sinker|15|2|2|2|14|90
+Dalier Hinojosa|R|Kirk Nieuwenhuis|L|Groundout|X|Four-Seam Fastball|16|3|2|2|2|92
+Dalier Hinojosa|R|Stephen Drew|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|8|91
+Dalier Hinojosa|R|Stephen Drew|L|Strikeout|B|Changeup|1|0|1|2|11|84
+Dalier Hinojosa|R|Stephen Drew|L|Strikeout|F|Changeup|2|1|1|2|14|86
+Dalier Hinojosa|R|Stephen Drew|L|Strikeout|S|Four-Seam Fastball|3|1|2|2|4|93
+Dalier Hinojosa|R|Pedro Severino|R|Walk|C|Four-Seam Fastball|4|0|0|0|14|93
+Dalier Hinojosa|R|Pedro Severino|R|Walk|B|Slider|5|0|1|0|14|85
+Dalier Hinojosa|R|Pedro Severino|R|Walk|B|Slider|6|1|1|0|14|85
+Dalier Hinojosa|R|Pedro Severino|R|Walk|S|Four-Seam Fastball|7|2|1|0|6|93
+Dalier Hinojosa|R|Pedro Severino|R|Walk|F|Four-Seam Fastball|8|2|2|0|6|93
+Dalier Hinojosa|R|Pedro Severino|R|Walk|F|Slider|9|2|2|0|3|85
+Dalier Hinojosa|R|Pedro Severino|R|Walk|B|Four-Seam Fastball|10|2|2|0|14|94
+Dalier Hinojosa|R|Pedro Severino|R|Walk|B|Four-Seam Fastball|11|3|2|0|12|93
+Dalier Hinojosa|R|Chris Heisey|R|Lineout|C|Slider|12|0|0|0|6|83
+Dalier Hinojosa|R|Chris Heisey|R|Lineout|*B|Slider|13|0|1|0|14|85
+Dalier Hinojosa|R|Chris Heisey|R|Lineout|X|Slider|14|1|1|0|5|83
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|C|Changeup|15|0|0|1|1|82
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|F|Four-Seam Fastball|16|0|1|1|4|92
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|B|Slider|17|0|2|1|13|84
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|*B|Sinker|18|1|2|1|14|89
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|*B|Changeup|19|2|2|1|14|86
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|F|Four-Seam Fastball|20|3|2|1|6|93
+Dalier Hinojosa|R|Matthew den Dekker|L|Single|D|Four-Seam Fastball|21|3|2|1|7|92

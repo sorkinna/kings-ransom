@@ -1,0 +1,2661 @@
+Enny Romero|L|Jesse Winker|L|Walk|B|Four-Seam Fastball|0|0|0|0|12|93
+Enny Romero|L|Jesse Winker|L|Walk|C|Four-Seam Fastball|1|1|0|0|1|93
+Enny Romero|L|Jesse Winker|L|Walk|S|Slider|2|1|1|0|4|86
+Enny Romero|L|Jesse Winker|L|Walk|B|Four-Seam Fastball|3|1|2|0|11|96
+Enny Romero|L|Jesse Winker|L|Walk|B|Four-Seam Fastball|4|2|2|0|13|94
+Enny Romero|L|Jesse Winker|L|Walk|*B|Slider|5|3|2|0|13|87
+Enny Romero|L|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|6|0|0|0|11|94
+Enny Romero|L|Eugenio Suarez|R|Home Run|F|Four-Seam Fastball|7|1|0|0|5|94
+Enny Romero|L|Eugenio Suarez|R|Home Run|F|Four-Seam Fastball|8|1|1|0|8|95
+Enny Romero|L|Eugenio Suarez|R|Home Run|B|Four-Seam Fastball|9|1|2|0|11|96
+Enny Romero|L|Eugenio Suarez|R|Home Run|E|Slider|10|2|2|0|5|88
+Enny Romero|L|Joey Votto|L|Strikeout|C|Slider|11|0|0|0|9|86
+Enny Romero|L|Joey Votto|L|Strikeout|B|Curveball|12|0|1|0|14|81
+Enny Romero|L|Joey Votto|L|Strikeout|B|Slider|13|1|1|0|13|86
+Enny Romero|L|Joey Votto|L|Strikeout|B|Four-Seam Fastball|14|2|1|0|12|93
+Enny Romero|L|Joey Votto|L|Strikeout|S|Four-Seam Fastball|15|3|1|0|3|95
+Enny Romero|L|Joey Votto|L|Strikeout|S|Four-Seam Fastball|16|3|2|0|2|96
+Enny Romero|L|Scooter Gennett|L|Single|F|Four-Seam Fastball|17|0|0|1|8|94
+Enny Romero|L|Scooter Gennett|L|Single|B|Slider|18|0|1|1|13|84
+Enny Romero|L|Scooter Gennett|L|Single|B|Slider|19|1|1|1|14|84
+Enny Romero|L|Scooter Gennett|L|Single|D|Four-Seam Fastball|20|2|1|1|5|95
+Enny Romero|L|Scott Schebler|L|Lineout|B|Four-Seam Fastball|21|0|0|1|13|97
+Enny Romero|L|Scott Schebler|L|Lineout|B|Four-Seam Fastball|22|1|0|1|12|96
+Enny Romero|L|Scott Schebler|L|Lineout|X|Four-Seam Fastball|23|2|0|1|14|94
+Enny Romero|L|Ryan Flaherty|L|Hit By Pitch|B|Four-Seam Fastball|0|0|0|2|12|95
+Enny Romero|L|Ryan Flaherty|L|Hit By Pitch|C|Four-Seam Fastball|1|1|0|2|2|95
+Enny Romero|L|Ryan Flaherty|L|Hit By Pitch|B|Four-Seam Fastball|2|1|1|2|13|94
+Enny Romero|L|Ryan Flaherty|L|Hit By Pitch|H|Four-Seam Fastball|3|2|1|2|12|96
+Enny Romero|L|Chris Stewart|R|Lineout|B|Four-Seam Fastball|4|0|0|2|12|94
+Enny Romero|L|Chris Stewart|R|Lineout|F|Four-Seam Fastball|5|1|0|2|2|95
+Enny Romero|L|Chris Stewart|R|Lineout|B|Four-Seam Fastball|6|1|1|2|11|95
+Enny Romero|L|Chris Stewart|R|Lineout|X|Four-Seam Fastball|7|2|1|2|8|96
+Enny Romero|L|Shane Carle|R|Strikeout|C|Four-Seam Fastball|8|0|0|0|6|93
+Enny Romero|L|Shane Carle|R|Strikeout|B|Four-Seam Fastball|9|0|1|0|13|93
+Enny Romero|L|Shane Carle|R|Strikeout|B|Four-Seam Fastball|10|1|1|0|12|94
+Enny Romero|L|Shane Carle|R|Strikeout|S|Four-Seam Fastball|11|2|1|0|4|95
+Enny Romero|L|Shane Carle|R|Strikeout|S|Four-Seam Fastball|12|2|2|0|14|94
+Enny Romero|L|Ender Inciarte|L|Flyout|C|Four-Seam Fastball|13|0|0|1|14|95
+Enny Romero|L|Ender Inciarte|L|Flyout|F|Four-Seam Fastball|14|0|1|1|12|92
+Enny Romero|L|Ender Inciarte|L|Flyout|B|Four-Seam Fastball|15|0|2|1|14|95
+Enny Romero|L|Ender Inciarte|L|Flyout|X|Slider|16|1|2|1|2|85
+Enny Romero|L|Ozzie Albies|R|Double|B|Four-Seam Fastball|17|0|0|2|14|95
+Enny Romero|L|Ozzie Albies|R|Double|C|Slider|18|1|0|2|5|89
+Enny Romero|L|Ozzie Albies|R|Double|B|Curveball|19|1|1|2|14|80
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|20|2|1|2|11|96
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|21|2|2|2|6|95
+Enny Romero|L|Ozzie Albies|R|Double|B|Four-Seam Fastball|22|2|2|2|12|95
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|23|3|2|2|5|96
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|24|3|2|2|5|95
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|25|3|2|2|6|97
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|26|3|2|2|5|97
+Enny Romero|L|Ozzie Albies|R|Double|F|Four-Seam Fastball|27|3|2|2|5|96
+Enny Romero|L|Ozzie Albies|R|Double|D|Four-Seam Fastball|28|3|2|2|7|96
+Enny Romero|L|Freddie Freeman|L|Single|B|Slider|29|0|0|2|13|87
+Enny Romero|L|Freddie Freeman|L|Single|B|Slider|30|1|0|2|13|85
+Enny Romero|L|Freddie Freeman|L|Single|C|Slider|31|2|0|2|13|87
+Enny Romero|L|Freddie Freeman|L|Single|S|Four-Seam Fastball|32|2|1|2|9|96
+Enny Romero|L|Freddie Freeman|L|Single|*B|Slider|33|2|2|2|13|85
+Enny Romero|L|Freddie Freeman|L|Single|E|Slider|34|3|2|2|8|86
+Enny Romero|L|Nick Markakis|L|Single|F|Four-Seam Fastball|35|0|0|2|8|96
+Enny Romero|L|Nick Markakis|L|Single|D|Four-Seam Fastball|36|0|1|2|7|94
+Enny Romero|L|Preston Tucker|L|Groundout|X|Slider|37|0|0|2|13|88
+Enny Romero|L|Charlie Blackmon|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|92
+Enny Romero|L|Charlie Blackmon|L|Flyout|X|Four-Seam Fastball|1|1|0|0|2|93
+Enny Romero|L|Gerardo Parra|L|Double|B|Four-Seam Fastball|2|0|0|1|11|94
+Enny Romero|L|Gerardo Parra|L|Double|C|Four-Seam Fastball|3|1|0|1|7|93
+Enny Romero|L|Gerardo Parra|L|Double|D|Four-Seam Fastball|4|1|1|1|6|95
+Enny Romero|L|Ian Desmond|R|Groundout|B|Curveball|5|0|0|1|14|82
+Enny Romero|L|Ian Desmond|R|Groundout|B|Curveball|6|1|0|1|14|82
+Enny Romero|L|Ian Desmond|R|Groundout|S|Four-Seam Fastball|7|2|0|1|12|93
+Enny Romero|L|Ian Desmond|R|Groundout|S|Four-Seam Fastball|8|2|1|1|11|94
+Enny Romero|L|Ian Desmond|R|Groundout|E|Four-Seam Fastball|9|2|2|1|1|95
+Enny Romero|L|Trevor Story|R|Single|D|Four-Seam Fastball|10|0|0|2|13|94
+Enny Romero|L|Ryan McMahon|L|Strikeout|C|Curveball|11|0|0|2|8|82
+Enny Romero|L|Ryan McMahon|L|Strikeout|C|Four-Seam Fastball|12|0|1|2|11|95
+Enny Romero|L|Ryan McMahon|L|Strikeout|C|Four-Seam Fastball|13|0|2|2|13|97
+Enny Romero|L|Mike Tauchman|L|Strikeout|B|Four-Seam Fastball|14|0|0|0|11|91
+Enny Romero|L|Mike Tauchman|L|Strikeout|F|Four-Seam Fastball|15|1|0|0|4|92
+Enny Romero|L|Mike Tauchman|L|Strikeout|C|Slider|16|1|1|0|9|85
+Enny Romero|L|Mike Tauchman|L|Strikeout|W|Curveball|17|1|2|0|13|81
+Enny Romero|L|Tony Wolters|L|Strikeout|C|Four-Seam Fastball|18|0|0|1|13|92
+Enny Romero|L|Tony Wolters|L|Strikeout|S|Slider|19|0|1|1|7|84
+Enny Romero|L|Tony Wolters|L|Strikeout|B|Curveball|20|0|2|1|13|82
+Enny Romero|L|Tony Wolters|L|Strikeout|S|Slider|21|1|2|1|9|86
+Enny Romero|L|DJ LeMahieu|R|Single|D|Four-Seam Fastball|22|0|0|2|1|95
+Enny Romero|L|Chris Iannetta|R|Flyout|C|Slider|23|0|0|2|6|87
+Enny Romero|L|Chris Iannetta|R|Flyout|B|Slider|24|0|1|2|14|84
+Enny Romero|L|Chris Iannetta|R|Flyout|X|Four-Seam Fastball|25|1|1|2|4|95
+Enny Romero|L|Jeimer Candelario|R|Field Error|C|Four-Seam Fastball|0|0|0|0|9|93
+Enny Romero|L|Jeimer Candelario|R|Field Error|B|Four-Seam Fastball|1|0|1|0|14|94
+Enny Romero|L|Jeimer Candelario|R|Field Error|D|Four-Seam Fastball|2|1|1|0|9|95
+Enny Romero|L|Miguel Cabrera|R|Double|D|Four-Seam Fastball|3|0|0|0|4|95
+Enny Romero|L|Nicholas Castellanos|R|Single|S|Slider|4|0|0|0|13|87
+Enny Romero|L|Nicholas Castellanos|R|Single|B|Four-Seam Fastball|5|0|1|0|13|97
+Enny Romero|L|Nicholas Castellanos|R|Single|E|Four-Seam Fastball|6|1|1|0|4|97
+Enny Romero|L|JaCoby Jones|R|Walk|B|Four-Seam Fastball|7|0|0|0|13|93
+Enny Romero|L|JaCoby Jones|R|Walk|B|Slider|8|1|0|0|14|82
+Enny Romero|L|JaCoby Jones|R|Walk|B|Four-Seam Fastball|9|2|0|0|14|94
+Enny Romero|L|JaCoby Jones|R|Walk|B|Four-Seam Fastball|10|3|0|0|14|95
+Enny Romero|L|Niko Goodrum|R|Single|C|Slider|11|0|0|0|13|82
+Enny Romero|L|Niko Goodrum|R|Single|D|Four-Seam Fastball|12|0|1|0|4|95
+Enny Romero|L|James McCann|R|Pop Out|S|Curveball|13|0|0|0|13|83
+Enny Romero|L|James McCann|R|Pop Out|S|Slider|14|0|1|0|14|83
+Enny Romero|L|James McCann|R|Pop Out|F|Curveball|15|0|2|0|9|82
+Enny Romero|L|James McCann|R|Pop Out|B|Slider|16|0|2|0|14|84
+Enny Romero|L|James McCann|R|Pop Out|X|Slider|17|1|2|0|5|84
+Enny Romero|L|Jose Iglesias|R|Sac Fly|E|Four-Seam Fastball|18|0|0|1|11|94
+Enny Romero|L|Victor Martinez|R|Intent Walk|B|Four-Seam Fastball|19|0|0|2|14|94
+Enny Romero|L|Victor Martinez|R|Intent Walk|*B|Slider|20|1|0|2|13|86
+Enny Romero|L|Victor Martinez|R|Intent Walk|V|N/A|21|2|0|2|0|0
+Enny Romero|L|Victor Martinez|R|Intent Walk|V|N/A|22|2|1|2|0|0
+Enny Romero|L|Leonys Martin|L|Pop Out|X|Four-Seam Fastball|23|0|0|2|4|95
+Enny Romero|L|Jeimer Candelario|R|Strikeout|B|Curveball|24|0|0|0|11|81
+Enny Romero|L|Jeimer Candelario|R|Strikeout|B|Four-Seam Fastball|25|1|0|0|12|93
+Enny Romero|L|Jeimer Candelario|R|Strikeout|S|Four-Seam Fastball|26|2|0|0|5|94
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|27|2|1|0|2|94
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|28|2|2|0|2|95
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|29|2|2|0|5|95
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|30|2|2|0|2|96
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|31|2|2|0|12|95
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|32|2|2|0|11|95
+Enny Romero|L|Jeimer Candelario|R|Strikeout|W|Slider|33|2|2|0|13|84
+Enny Romero|L|Miguel Cabrera|R|Double|B|Curveball|34|0|0|1|12|82
+Enny Romero|L|Miguel Cabrera|R|Double|F|Four-Seam Fastball|35|1|0|1|5|95
+Enny Romero|L|Miguel Cabrera|R|Double|B|Slider|36|1|1|1|14|85
+Enny Romero|L|Miguel Cabrera|R|Double|D|Four-Seam Fastball|37|2|1|1|4|95
+Enny Romero|L|Nicholas Castellanos|R|Intent Walk|V|N/A|38|0|0|1|0|0
+Enny Romero|L|Nicholas Castellanos|R|Intent Walk|V|N/A|39|0|1|1|0|0
+Enny Romero|L|Nicholas Castellanos|R|Intent Walk|V|N/A|40|0|2|1|0|0
+Enny Romero|L|Nicholas Castellanos|R|Intent Walk|V|N/A|41|0|2|1|0|0
+Enny Romero|L|JaCoby Jones|R|Strikeout|S|Four-Seam Fastball|42|0|0|1|11|94
+Enny Romero|L|JaCoby Jones|R|Strikeout|B|Four-Seam Fastball|43|0|1|1|13|95
+Enny Romero|L|JaCoby Jones|R|Strikeout|S|Slider|44|1|1|1|13|85
+Enny Romero|L|JaCoby Jones|R|Strikeout|B|Slider|45|1|2|1|14|83
+Enny Romero|L|JaCoby Jones|R|Strikeout|S|Slider|46|2|2|1|7|84
+Enny Romero|L|Niko Goodrum|R|Field Error|E|Slider|47|0|0|2|6|83
+Enny Romero|L|James McCann|R|Flyout|B|Four-Seam Fastball|48|0|0|2|11|93
+Enny Romero|L|James McCann|R|Flyout|C|Four-Seam Fastball|49|1|0|2|1|95
+Enny Romero|L|James McCann|R|Flyout|X|Four-Seam Fastball|50|1|1|2|4|95
+Enny Romero|L|Mitch Moreland|L|Sac Fly|B|Four-Seam Fastball|0|0|0|0|13|93
+Enny Romero|L|Mitch Moreland|L|Sac Fly|*B|Slider|1|1|0|0|13|87
+Enny Romero|L|Mitch Moreland|L|Sac Fly|F|Four-Seam Fastball|2|2|0|0|3|95
+Enny Romero|L|Mitch Moreland|L|Sac Fly|E|Four-Seam Fastball|3|2|1|0|8|95
+Enny Romero|L|Xander Bogaerts|R|Intent Walk|V|N/A|4|0|0|1|0|0
+Enny Romero|L|Xander Bogaerts|R|Intent Walk|V|N/A|5|0|1|1|0|0
+Enny Romero|L|Xander Bogaerts|R|Intent Walk|V|N/A|6|0|2|1|0|0
+Enny Romero|L|Xander Bogaerts|R|Intent Walk|V|N/A|7|0|2|1|0|0
+Enny Romero|L|Brock Holt|L|Flyout|B|Four-Seam Fastball|8|0|0|1|13|94
+Enny Romero|L|Brock Holt|L|Flyout|X|Four-Seam Fastball|9|1|0|1|9|94
+Enny Romero|L|Rafael Devers|L|Walk|B|Four-Seam Fastball|10|0|0|2|13|95
+Enny Romero|L|Rafael Devers|L|Walk|F|Four-Seam Fastball|11|1|0|2|5|95
+Enny Romero|L|Rafael Devers|L|Walk|B|Four-Seam Fastball|12|1|1|2|14|96
+Enny Romero|L|Rafael Devers|L|Walk|B|Four-Seam Fastball|13|2|1|2|12|96
+Enny Romero|L|Rafael Devers|L|Walk|B|Four-Seam Fastball|14|3|1|2|14|94
+Enny Romero|L|Christian Vazquez|R|Single|B|Four-Seam Fastball|15|0|0|2|12|95
+Enny Romero|L|Christian Vazquez|R|Single|E|Four-Seam Fastball|16|1|0|2|4|96
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|17|0|0|2|14|94
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|S|Slider|18|1|0|2|13|87
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|19|1|1|2|14|95
+Enny Romero|L|Rafael Devers|L|Strikeout|B|Slider|0|0|0|0|11|90
+Enny Romero|L|Rafael Devers|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|91
+Enny Romero|L|Rafael Devers|L|Strikeout|F|Four-Seam Fastball|2|2|0|0|1|92
+Enny Romero|L|Rafael Devers|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|6|92
+Enny Romero|L|Rafael Devers|L|Strikeout|T|Curveball|4|2|2|0|8|82
+Enny Romero|L|Eduardo Nunez|R|Single|F|Curveball|5|0|0|1|8|81
+Enny Romero|L|Eduardo Nunez|R|Single|*B|Slider|6|0|1|1|13|83
+Enny Romero|L|Eduardo Nunez|R|Single|F|Four-Seam Fastball|7|1|1|1|11|93
+Enny Romero|L|Eduardo Nunez|R|Single|*B|Slider|8|1|2|1|14|85
+Enny Romero|L|Eduardo Nunez|R|Single|F|Four-Seam Fastball|9|2|2|1|13|94
+Enny Romero|L|Eduardo Nunez|R|Single|E|Four-Seam Fastball|10|2|2|1|4|95
+Enny Romero|L|Sandy Leon|R|Grounded Into DP|*B|Slider|11|0|0|1|13|84
+Enny Romero|L|Sandy Leon|R|Grounded Into DP|X|Four-Seam Fastball|12|1|0|1|13|94
+Enny Romero|L|Joe Mauer|L|Groundout|C|Four-Seam Fastball|0|0|0|2|6|93
+Enny Romero|L|Joe Mauer|L|Groundout|X|Slider|1|0|1|2|8|85
+Enny Romero|L|Eddie Rosario|L|Single|B|Slider|2|0|0|0|14|83
+Enny Romero|L|Eddie Rosario|L|Single|D|Slider|3|1|0|0|8|88
+Enny Romero|L|Brian Dozier|R|Home Run|B|Four-Seam Fastball|4|0|0|0|11|94
+Enny Romero|L|Brian Dozier|R|Home Run|E|Four-Seam Fastball|5|1|0|0|1|96
+Enny Romero|L|Eduardo Escobar|R|Lineout|F|Slider|6|0|0|0|7|84
+Enny Romero|L|Eduardo Escobar|R|Lineout|X|Slider|7|0|1|0|6|84
+Enny Romero|L|Logan Morrison|L|Home Run|F|Four-Seam Fastball|8|0|0|1|5|96
+Enny Romero|L|Logan Morrison|L|Home Run|B|Four-Seam Fastball|9|0|1|1|11|97
+Enny Romero|L|Logan Morrison|L|Home Run|B|Slider|10|1|1|1|13|85
+Enny Romero|L|Logan Morrison|L|Home Run|B|Slider|11|2|1|1|14|85
+Enny Romero|L|Logan Morrison|L|Home Run|E|Four-Seam Fastball|12|3|1|1|2|96
+Enny Romero|L|Jorge Polanco|R|Strikeout|B|Four-Seam Fastball|13|0|0|1|13|96
+Enny Romero|L|Jorge Polanco|R|Strikeout|C|Four-Seam Fastball|14|1|0|1|4|96
+Enny Romero|L|Jorge Polanco|R|Strikeout|F|Four-Seam Fastball|15|1|1|1|6|97
+Enny Romero|L|Jorge Polanco|R|Strikeout|S|Four-Seam Fastball|16|1|2|1|1|97
+Enny Romero|L|Yoan Moncada|R|Home Run|B|Four-Seam Fastball|0|0|0|0|14|92
+Enny Romero|L|Yoan Moncada|R|Home Run|C|Four-Seam Fastball|1|1|0|0|8|93
+Enny Romero|L|Yoan Moncada|R|Home Run|C|Four-Seam Fastball|2|1|1|0|7|94
+Enny Romero|L|Yoan Moncada|R|Home Run|B|Four-Seam Fastball|3|1|2|0|12|95
+Enny Romero|L|Yoan Moncada|R|Home Run|F|Four-Seam Fastball|4|2|2|0|13|95
+Enny Romero|L|Yoan Moncada|R|Home Run|F|Four-Seam Fastball|5|2|2|0|12|95
+Enny Romero|L|Yoan Moncada|R|Home Run|E|Four-Seam Fastball|6|2|2|0|4|94
+Enny Romero|L|Yolmer Sanchez|R|Strikeout|B|Four-Seam Fastball|7|0|0|0|12|94
+Enny Romero|L|Yolmer Sanchez|R|Strikeout|F|Four-Seam Fastball|8|1|0|0|3|93
+Enny Romero|L|Yolmer Sanchez|R|Strikeout|F|Four-Seam Fastball|9|1|1|0|4|94
+Enny Romero|L|Yolmer Sanchez|R|Strikeout|T|Four-Seam Fastball|10|1|2|0|11|96
+Enny Romero|L|Jose Abreu|R|Lineout|B|Four-Seam Fastball|11|0|0|1|14|94
+Enny Romero|L|Jose Abreu|R|Lineout|X|Four-Seam Fastball|12|1|0|1|4|94
+Enny Romero|L|Daniel Palka|L|Single|C|Curveball|13|0|0|2|6|81
+Enny Romero|L|Daniel Palka|L|Single|B|Curveball|14|0|1|2|14|81
+Enny Romero|L|Daniel Palka|L|Single|B|Slider|15|1|1|2|14|83
+Enny Romero|L|Daniel Palka|L|Single|C|Slider|16|2|1|2|5|83
+Enny Romero|L|Daniel Palka|L|Single|D|Four-Seam Fastball|17|2|2|2|11|96
+Enny Romero|L|Leury Garcia|R|Single|D|Four-Seam Fastball|18|0|0|2|4|95
+Enny Romero|L|Matt Davidson|R|Single|C|Four-Seam Fastball|19|0|0|2|13|96
+Enny Romero|L|Matt Davidson|R|Single|D|Four-Seam Fastball|20|0|1|2|5|97
+Enny Romero|L|Tim Anderson|R|Double|B|Slider|21|0|0|2|12|83
+Enny Romero|L|Tim Anderson|R|Double|B|Four-Seam Fastball|22|1|0|2|11|96
+Enny Romero|L|Tim Anderson|R|Double|E|Four-Seam Fastball|23|2|0|2|13|95
+Enny Romero|L|Kevan Smith|R|Double|E|Four-Seam Fastball|24|0|0|2|13|95
+Enny Romero|L|Adam Engel|R|Groundout|F|Four-Seam Fastball|25|0|0|2|8|95
+Enny Romero|L|Adam Engel|R|Groundout|B|Four-Seam Fastball|26|0|1|2|3|95
+Enny Romero|L|Adam Engel|R|Groundout|S|Slider|27|1|1|2|13|84
+Enny Romero|L|Adam Engel|R|Groundout|X|Four-Seam Fastball|28|1|2|2|6|96
+Enny Romero|L|Marcus Semien|R|Groundout|B|Four-Seam Fastball|0|0|0|2|12|93
+Enny Romero|L|Marcus Semien|R|Groundout|F|Four-Seam Fastball|1|1|0|2|7|93
+Enny Romero|L|Marcus Semien|R|Groundout|X|Cutter|2|1|1|2|4|91
+Enny Romero|L|Josh Reddick|L|Single|C|Four-Seam Fastball|3|0|0|0|9|96
+Enny Romero|L|Josh Reddick|L|Single|S|Four-Seam Fastball|4|0|1|0|3|97
+Enny Romero|L|Josh Reddick|L|Single|D|Four-Seam Fastball|5|0|2|0|13|97
+Enny Romero|L|Billy Butler|R|Grounded Into DP|C|Four-Seam Fastball|6|0|0|0|1|96
+Enny Romero|L|Billy Butler|R|Grounded Into DP|X|Four-Seam Fastball|7|0|1|0|6|97
+Enny Romero|L|Andy Parrino|R|Strikeout|B|Four-Seam Fastball|8|0|0|1|12|92
+Enny Romero|L|Andy Parrino|R|Strikeout|B|Four-Seam Fastball|9|1|0|1|12|93
+Enny Romero|L|Andy Parrino|R|Strikeout|F|Four-Seam Fastball|10|2|0|1|6|93
+Enny Romero|L|Andy Parrino|R|Strikeout|F|Four-Seam Fastball|11|2|1|1|4|94
+Enny Romero|L|Andy Parrino|R|Strikeout|B|Slider|12|2|2|1|14|78
+Enny Romero|L|Andy Parrino|R|Strikeout|F|Four-Seam Fastball|13|3|2|1|6|93
+Enny Romero|L|Andy Parrino|R|Strikeout|T|Four-Seam Fastball|14|3|2|1|2|93
+Enny Romero|L|Josh Phegley|R|Lineout|B|Cutter|15|0|0|2|14|89
+Enny Romero|L|Josh Phegley|R|Lineout|C|Slider|16|1|0|2|14|81
+Enny Romero|L|Josh Phegley|R|Lineout|S|Slider|17|1|1|2|14|80
+Enny Romero|L|Josh Phegley|R|Lineout|F|Four-Seam Fastball|18|1|2|2|12|95
+Enny Romero|L|Josh Phegley|R|Lineout|X|Slider|19|1|2|2|14|80
+Enny Romero|L|Eric Sogard|L|Walk|B|Two-Seam Fastball|20|0|0|0|11|94
+Enny Romero|L|Eric Sogard|L|Walk|B|Cutter|21|1|0|0|12|88
+Enny Romero|L|Eric Sogard|L|Walk|B|Four-Seam Fastball|22|2|0|0|12|95
+Enny Romero|L|Eric Sogard|L|Walk|C|Four-Seam Fastball|23|3|0|0|9|95
+Enny Romero|L|Eric Sogard|L|Walk|B|Four-Seam Fastball|24|3|1|0|14|95
+Enny Romero|L|Mark Canha|R|Walk|F|Four-Seam Fastball|25|0|0|0|3|95
+Enny Romero|L|Mark Canha|R|Walk|B|Four-Seam Fastball|26|0|1|0|12|97
+Enny Romero|L|Mark Canha|R|Walk|B|Four-Seam Fastball|27|1|1|0|12|96
+Enny Romero|L|Mark Canha|R|Walk|B|Cutter|28|2|1|0|12|88
+Enny Romero|L|Mark Canha|R|Walk|B|Four-Seam Fastball|29|3|1|0|12|96
+Enny Romero|L|Sam Fuld|L|Walk|B|Four-Seam Fastball|30|0|0|0|12|94
+Enny Romero|L|Sam Fuld|L|Walk|*B|Four-Seam Fastball|31|1|0|0|14|93
+Enny Romero|L|Sam Fuld|L|Walk|C|Four-Seam Fastball|32|2|0|0|5|97
+Enny Romero|L|Sam Fuld|L|Walk|B|Four-Seam Fastball|33|2|1|0|14|97
+Enny Romero|L|Sam Fuld|L|Walk|B|Four-Seam Fastball|34|3|1|0|14|96
+Enny Romero|L|Billy Burns|R|Walk|B|Four-Seam Fastball|35|0|0|0|14|94
+Enny Romero|L|Billy Burns|R|Walk|B|Four-Seam Fastball|36|1|0|0|14|93
+Enny Romero|L|Billy Burns|R|Walk|C|Four-Seam Fastball|37|2|0|0|2|95
+Enny Romero|L|Billy Burns|R|Walk|B|Four-Seam Fastball|38|2|1|0|12|94
+Enny Romero|L|Billy Burns|R|Walk|B|Four-Seam Fastball|39|3|1|0|12|95
+Enny Romero|L|Marcus Semien|R|Lineout|C|Four-Seam Fastball|40|0|0|0|14|96
+Enny Romero|L|Marcus Semien|R|Lineout|S|Cutter|41|0|1|0|7|91
+Enny Romero|L|Marcus Semien|R|Lineout|B|Four-Seam Fastball|42|0|2|0|12|96
+Enny Romero|L|Marcus Semien|R|Lineout|X|Cutter|43|1|2|0|14|89
+Enny Romero|L|Josh Reddick|L|Pop Out|B|Four-Seam Fastball|44|0|0|1|11|92
+Enny Romero|L|Josh Reddick|L|Pop Out|C|Four-Seam Fastball|45|1|0|1|7|92
+Enny Romero|L|Josh Reddick|L|Pop Out|B|Slider|46|1|1|1|14|85
+Enny Romero|L|Josh Reddick|L|Pop Out|B|Four-Seam Fastball|47|2|1|1|14|92
+Enny Romero|L|Josh Reddick|L|Pop Out|F|Four-Seam Fastball|48|3|1|1|6|93
+Enny Romero|L|Josh Reddick|L|Pop Out|F|Four-Seam Fastball|49|3|2|1|7|93
+Enny Romero|L|Josh Reddick|L|Pop Out|X|Four-Seam Fastball|50|3|2|1|3|94
+Enny Romero|L|Billy Butler|R|Strikeout|C|Cutter|51|0|0|2|12|87
+Enny Romero|L|Billy Butler|R|Strikeout|B|Changeup|52|0|1|2|14|84
+Enny Romero|L|Billy Butler|R|Strikeout|F|Cutter|53|1|1|2|14|87
+Enny Romero|L|Billy Butler|R|Strikeout|F|Four-Seam Fastball|54|1|2|2|11|95
+Enny Romero|L|Billy Butler|R|Strikeout|W|Slider|55|1|2|2|14|81
+Enny Romero|L|Andy Parrino|R|Walk|C|Four-Seam Fastball|56|0|0|0|3|94
+Enny Romero|L|Andy Parrino|R|Walk|B|Changeup|57|0|1|0|14|85
+Enny Romero|L|Andy Parrino|R|Walk|B|Slider|58|1|1|0|13|80
+Enny Romero|L|Andy Parrino|R|Walk|B|Four-Seam Fastball|59|2|1|0|13|94
+Enny Romero|L|Andy Parrino|R|Walk|C|Four-Seam Fastball|60|3|1|0|9|93
+Enny Romero|L|Andy Parrino|R|Walk|B|Four-Seam Fastball|61|3|2|0|14|93
+Enny Romero|L|Josh Phegley|R|Strikeout|B|Four-Seam Fastball|62|0|0|0|12|94
+Enny Romero|L|Josh Phegley|R|Strikeout|C|Four-Seam Fastball|63|1|0|0|5|94
+Enny Romero|L|Josh Phegley|R|Strikeout|F|Four-Seam Fastball|64|1|1|0|5|93
+Enny Romero|L|Josh Phegley|R|Strikeout|W|Slider|65|1|2|0|13|84
+Enny Romero|L|Kole Calhoun|L|Single|E|Four-Seam Fastball|0|0|0|2|11|96
+Enny Romero|L|David Freese|R|Groundout|B|Four-Seam Fastball|1|0|0|2|12|96
+Enny Romero|L|David Freese|R|Groundout|C|Cutter|2|1|0|2|5|89
+Enny Romero|L|David Freese|R|Groundout|B|Cutter|3|1|1|2|12|91
+Enny Romero|L|David Freese|R|Groundout|S|Cutter|4|2|1|2|13|90
+Enny Romero|L|David Freese|R|Groundout|B|Four-Seam Fastball|5|2|2|2|12|97
+Enny Romero|L|David Freese|R|Groundout|X|Cutter|6|3|2|2|2|88
+Enny Romero|L|Matt Joyce|L|Groundout|C|Slider|7|0|0|0|11|83
+Enny Romero|L|Matt Joyce|L|Groundout|B|Slider|8|0|1|0|12|82
+Enny Romero|L|Matt Joyce|L|Groundout|X|Cutter|9|1|1|0|4|87
+Enny Romero|L|Carlos Perez|R|Flyout|B|Four-Seam Fastball|10|0|0|1|14|94
+Enny Romero|L|Carlos Perez|R|Flyout|C|Cutter|11|1|0|1|7|87
+Enny Romero|L|Carlos Perez|R|Flyout|C|Slider|12|1|1|1|7|82
+Enny Romero|L|Carlos Perez|R|Flyout|F|Four-Seam Fastball|13|1|2|1|11|94
+Enny Romero|L|Carlos Perez|R|Flyout|F|Slider|14|1|2|1|8|84
+Enny Romero|L|Carlos Perez|R|Flyout|B|Four-Seam Fastball|15|1|2|1|14|96
+Enny Romero|L|Carlos Perez|R|Flyout|F|Slider|16|2|2|1|13|84
+Enny Romero|L|Carlos Perez|R|Flyout|F|Four-Seam Fastball|17|2|2|1|13|97
+Enny Romero|L|Carlos Perez|R|Flyout|X|Cutter|18|2|2|1|14|88
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|B|Four-Seam Fastball|19|0|0|2|13|96
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|S|Cutter|20|1|0|2|5|87
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|C|Slider|21|1|1|2|9|83
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|B|Four-Seam Fastball|22|1|2|2|8|98
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|B|Cutter|23|2|2|2|13|87
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|F|Cutter|24|3|2|2|7|88
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|F|Four-Seam Fastball|25|3|2|2|14|97
+Enny Romero|L|Kirk Nieuwenhuis|L|Strikeout|S|Cutter|26|3|2|2|13|87
+Enny Romero|L|Johnny Giavotella|R|Lineout|C|Four-Seam Fastball|27|0|0|0|6|92
+Enny Romero|L|Johnny Giavotella|R|Lineout|B|Slider|28|0|1|0|12|80
+Enny Romero|L|Johnny Giavotella|R|Lineout|B|Cutter|29|1|1|0|12|87
+Enny Romero|L|Johnny Giavotella|R|Lineout|X|Four-Seam Fastball|30|2|1|0|12|92
+Enny Romero|L|Erick Aybar|R|Single|C|Slider|31|0|0|1|6|83
+Enny Romero|L|Erick Aybar|R|Single|D|Four-Seam Fastball|32|0|1|1|8|95
+Enny Romero|L|Mike Trout|R|Single|B|Four-Seam Fastball|33|0|0|1|14|95
+Enny Romero|L|Mike Trout|R|Single|C|Cutter|34|1|0|1|6|90
+Enny Romero|L|Mike Trout|R|Single|F|Cutter|35|1|1|1|13|89
+Enny Romero|L|Mike Trout|R|Single|F|Four-Seam Fastball|36|1|2|1|11|95
+Enny Romero|L|Mike Trout|R|Single|B|Four-Seam Fastball|37|1|2|1|14|96
+Enny Romero|L|Mike Trout|R|Single|B|Four-Seam Fastball|38|2|2|1|12|96
+Enny Romero|L|Mike Trout|R|Single|D|Cutter|39|3|2|1|9|89
+Enny Romero|L|Albert Pujols|R|Single|B|Cutter|40|0|0|1|13|89
+Enny Romero|L|Albert Pujols|R|Single|F|Four-Seam Fastball|41|1|0|1|1|96
+Enny Romero|L|Albert Pujols|R|Single|B|Four-Seam Fastball|42|1|1|1|14|96
+Enny Romero|L|Albert Pujols|R|Single|C|Cutter|43|2|1|1|14|88
+Enny Romero|L|Albert Pujols|R|Single|D|Cutter|44|2|2|1|14|88
+Enny Romero|L|Kole Calhoun|L|Single|F|Cutter|45|0|0|1|8|88
+Enny Romero|L|Kole Calhoun|L|Single|E|Four-Seam Fastball|46|0|1|1|13|97
+Enny Romero|L|Taylor Featherston|R|Double|W|Cutter|47|0|0|1|13|87
+Enny Romero|L|Taylor Featherston|R|Double|E|Cutter|48|0|1|1|4|88
+Enny Romero|L|Matt Joyce|L|Strikeout|C|Four-Seam Fastball|49|0|0|1|9|96
+Enny Romero|L|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|50|0|1|1|13|96
+Enny Romero|L|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|51|1|1|1|13|94
+Enny Romero|L|Matt Joyce|L|Strikeout|F|Cutter|52|2|1|1|4|89
+Enny Romero|L|Matt Joyce|L|Strikeout|B|Four-Seam Fastball|53|2|2|1|11|96
+Enny Romero|L|Matt Joyce|L|Strikeout|C|Cutter|54|3|2|1|11|88
+Enny Romero|L|Carlos Perez|R|Flyout|B|Cutter|55|0|0|2|14|88
+Enny Romero|L|Carlos Perez|R|Flyout|F|Slider|56|1|0|2|5|82
+Enny Romero|L|Carlos Perez|R|Flyout|X|Slider|57|1|1|2|2|84
+Enny Romero|L|Wilson Ramos|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|12|93
+Enny Romero|L|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|3|94
+Enny Romero|L|Wilson Ramos|R|Strikeout|S|Cutter|2|0|2|0|8|91
+Enny Romero|L|Tyler Moore|R|Groundout|C|Four-Seam Fastball|3|0|0|1|9|95
+Enny Romero|L|Tyler Moore|R|Groundout|S|Four-Seam Fastball|4|0|1|1|3|95
+Enny Romero|L|Tyler Moore|R|Groundout|B|Four-Seam Fastball|5|0|2|1|12|96
+Enny Romero|L|Tyler Moore|R|Groundout|B|Cutter|6|1|2|1|11|91
+Enny Romero|L|Tyler Moore|R|Groundout|X|Four-Seam Fastball|7|2|2|1|14|95
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Four-Seam Fastball|8|0|0|2|12|94
+Enny Romero|L|Danny Espinosa|R|Pop Out|S|Slider|9|0|1|2|14|84
+Enny Romero|L|Danny Espinosa|R|Pop Out|B|Slider|10|0|2|2|14|83
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Cutter|11|1|2|2|13|91
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Slider|12|1|2|2|13|85
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Four-Seam Fastball|13|1|2|2|14|95
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Four-Seam Fastball|14|1|2|2|8|96
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Cutter|15|1|2|2|3|89
+Enny Romero|L|Danny Espinosa|R|Pop Out|F|Cutter|16|1|2|2|13|86
+Enny Romero|L|Danny Espinosa|R|Pop Out|X|Changeup|17|1|2|2|14|89
+Enny Romero|L|Danny Espinosa|R|Single|S|Four-Seam Fastball|0|0|0|1|6|94
+Enny Romero|L|Danny Espinosa|R|Single|B|Four-Seam Fastball|1|0|1|1|14|93
+Enny Romero|L|Danny Espinosa|R|Single|C|Cutter|2|1|1|1|13|91
+Enny Romero|L|Danny Espinosa|R|Single|F|Four-Seam Fastball|3|1|2|1|12|96
+Enny Romero|L|Danny Espinosa|R|Single|D|Cutter|4|1|2|1|6|90
+Enny Romero|L|Michael A. Taylor|R|Single|S|Cutter|5|0|0|1|13|91
+Enny Romero|L|Michael A. Taylor|R|Single|B|Four-Seam Fastball|6|0|1|1|14|95
+Enny Romero|L|Michael A. Taylor|R|Single|F|Cutter|7|1|1|1|9|89
+Enny Romero|L|Michael A. Taylor|R|Single|D|Cutter|8|1|2|1|2|91
+Enny Romero|L|Ian Desmond|R|Single|E|Four-Seam Fastball|9|0|0|1|5|96
+Enny Romero|L|Denard Span|L|Field Error|B|Four-Seam Fastball|10|0|0|1|13|95
+Enny Romero|L|Denard Span|L|Field Error|E|Four-Seam Fastball|11|1|0|1|3|96
+Enny Romero|L|Anthony Rendon|R|Double Play|B|Four-Seam Fastball|12|0|0|1|14|95
+Enny Romero|L|Anthony Rendon|R|Double Play|*B|Cutter|13|1|0|1|14|89
+Enny Romero|L|Anthony Rendon|R|Double Play|S|Four-Seam Fastball|14|2|0|1|3|95
+Enny Romero|L|Anthony Rendon|R|Double Play|F|Four-Seam Fastball|15|2|1|1|7|94
+Enny Romero|L|Anthony Rendon|R|Double Play|F|Four-Seam Fastball|16|2|2|1|2|95
+Enny Romero|L|Anthony Rendon|R|Double Play|X|Two-Seam Fastball|17|2|2|1|5|92
+Enny Romero|L|Yunel Escobar|R|Strikeout|B|Four-Seam Fastball|18|0|0|0|12|91
+Enny Romero|L|Yunel Escobar|R|Strikeout|C|Four-Seam Fastball|19|1|0|0|14|92
+Enny Romero|L|Yunel Escobar|R|Strikeout|F|Four-Seam Fastball|20|1|1|0|5|93
+Enny Romero|L|Yunel Escobar|R|Strikeout|S|Slider|21|1|2|0|13|84
+Enny Romero|L|Bryce Harper|L|Single|B|Four-Seam Fastball|22|0|0|1|14|96
+Enny Romero|L|Bryce Harper|L|Single|D|Cutter|23|1|0|1|5|90
+Enny Romero|L|Wilson Ramos|R|Grounded Into DP|C|Cutter|24|0|0|1|7|90
+Enny Romero|L|Wilson Ramos|R|Grounded Into DP|*B|Four-Seam Fastball|25|0|1|1|14|94
+Enny Romero|L|Wilson Ramos|R|Grounded Into DP|X|Cutter|26|1|1|1|8|90
+Enny Romero|L|Clint Robinson|L|Single|C|Four-Seam Fastball|27|0|0|0|8|92
+Enny Romero|L|Clint Robinson|L|Single|C|Slider|28|0|1|0|11|85
+Enny Romero|L|Clint Robinson|L|Single|D|Slider|29|0|2|0|6|81
+Enny Romero|L|Danny Espinosa|R|Single|B|Four-Seam Fastball|30|0|0|0|14|93
+Enny Romero|L|Danny Espinosa|R|Single|B|Slider|31|1|0|0|12|84
+Enny Romero|L|Danny Espinosa|R|Single|B|Four-Seam Fastball|32|2|0|0|13|95
+Enny Romero|L|Danny Espinosa|R|Single|C|Four-Seam Fastball|33|3|0|0|14|93
+Enny Romero|L|Danny Espinosa|R|Single|F|Four-Seam Fastball|34|3|1|0|5|95
+Enny Romero|L|Danny Espinosa|R|Single|F|Four-Seam Fastball|35|3|2|0|14|96
+Enny Romero|L|Danny Espinosa|R|Single|D|Four-Seam Fastball|36|3|2|0|14|96
+Enny Romero|L|Michael A. Taylor|R|Flyout|X|Cutter|37|0|0|0|4|91
+Enny Romero|L|Ian Desmond|R|Walk|*B|Cutter|38|0|0|1|13|89
+Enny Romero|L|Ian Desmond|R|Walk|F|Cutter|39|1|0|1|13|90
+Enny Romero|L|Ian Desmond|R|Walk|B|Four-Seam Fastball|40|1|1|1|14|95
+Enny Romero|L|Ian Desmond|R|Walk|*B|Cutter|41|2|1|1|14|90
+Enny Romero|L|Ian Desmond|R|Walk|S|Four-Seam Fastball|42|3|1|1|14|95
+Enny Romero|L|Ian Desmond|R|Walk|B|Four-Seam Fastball|43|3|2|1|12|96
+Enny Romero|L|Munenori Kawasaki|L|Groundout|C|Four-Seam Fastball|0|0|0|0|13|93
+Enny Romero|L|Munenori Kawasaki|L|Groundout|X|Four-Seam Fastball|1|0|1|0|4|94
+Enny Romero|L|Jose Reyes|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|12|95
+Enny Romero|L|Jose Reyes|R|Strikeout|C|Cutter|3|1|0|1|2|90
+Enny Romero|L|Jose Reyes|R|Strikeout|B|Slider|4|1|1|1|11|83
+Enny Romero|L|Jose Reyes|R|Strikeout|F|Cutter|5|2|1|1|13|90
+Enny Romero|L|Jose Reyes|R|Strikeout|F|Four-Seam Fastball|6|2|2|1|2|96
+Enny Romero|L|Jose Reyes|R|Strikeout|S|Four-Seam Fastball|7|2|2|1|6|96
+Enny Romero|L|Jose Bautista|R|Walk|B|Slider|8|0|0|2|14|86
+Enny Romero|L|Jose Bautista|R|Walk|B|Four-Seam Fastball|9|1|0|2|14|97
+Enny Romero|L|Jose Bautista|R|Walk|C|Cutter|10|2|0|2|12|89
+Enny Romero|L|Jose Bautista|R|Walk|B|Four-Seam Fastball|11|2|1|2|14|97
+Enny Romero|L|Jose Bautista|R|Walk|B|Four-Seam Fastball|12|3|1|2|3|97
+Enny Romero|L|Edwin Encarnacion|R|Strikeout|C|Cutter|13|0|0|2|1|89
+Enny Romero|L|Edwin Encarnacion|R|Strikeout|S|Four-Seam Fastball|14|0|1|2|4|96
+Enny Romero|L|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|15|0|2|2|12|97
+Enny Romero|L|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|16|1|2|2|14|98
+Enny Romero|L|Edwin Encarnacion|R|Strikeout|S|Four-Seam Fastball|17|2|2|2|6|97
+Enny Romero|L|Dioner Navarro|R|Flyout|C|Slider|18|0|0|0|9|82
+Enny Romero|L|Dioner Navarro|R|Flyout|B|Four-Seam Fastball|19|0|1|0|12|93
+Enny Romero|L|Dioner Navarro|R|Flyout|F|Slider|20|1|1|0|8|82
+Enny Romero|L|Dioner Navarro|R|Flyout|X|Four-Seam Fastball|21|1|2|0|6|96
+Enny Romero|L|Chris Colabello|R|Strikeout|B|Slider|22|0|0|1|12|83
+Enny Romero|L|Chris Colabello|R|Strikeout|S|Slider|23|1|0|1|7|84
+Enny Romero|L|Chris Colabello|R|Strikeout|S|Slider|24|1|1|1|9|83
+Enny Romero|L|Chris Colabello|R|Strikeout|B|Slider|25|1|2|1|14|84
+Enny Romero|L|Chris Colabello|R|Strikeout|S|Four-Seam Fastball|26|2|2|1|9|97
+Enny Romero|L|Ezequiel Carrera|L|Single|B|Four-Seam Fastball|27|0|0|2|13|97
+Enny Romero|L|Ezequiel Carrera|L|Single|B|Four-Seam Fastball|28|1|0|2|13|96
+Enny Romero|L|Ezequiel Carrera|L|Single|B|Four-Seam Fastball|29|2|0|2|13|96
+Enny Romero|L|Ezequiel Carrera|L|Single|C|Four-Seam Fastball|30|3|0|2|4|95
+Enny Romero|L|Ezequiel Carrera|L|Single|F|Four-Seam Fastball|31|3|1|2|12|95
+Enny Romero|L|Ezequiel Carrera|L|Single|F|Four-Seam Fastball|32|3|2|2|6|96
+Enny Romero|L|Ezequiel Carrera|L|Single|D|Four-Seam Fastball|33|3|2|2|2|96
+Enny Romero|L|Danny Valencia|R|Single|B|Slider|34|0|0|2|12|85
+Enny Romero|L|Danny Valencia|R|Single|B|Cutter|35|1|0|2|14|91
+Enny Romero|L|Danny Valencia|R|Single|S|Cutter|36|2|0|2|13|92
+Enny Romero|L|Danny Valencia|R|Single|F|Cutter|37|2|1|2|5|89
+Enny Romero|L|Danny Valencia|R|Single|E|Slider|38|2|2|2|1|85
+Enny Romero|L|Kevin Pillar|R|Single|B|Four-Seam Fastball|39|0|0|2|14|95
+Enny Romero|L|Kevin Pillar|R|Single|C|Four-Seam Fastball|40|1|0|2|8|97
+Enny Romero|L|Kevin Pillar|R|Single|F|Four-Seam Fastball|41|1|1|2|12|96
+Enny Romero|L|Kevin Pillar|R|Single|B|Four-Seam Fastball|42|1|2|2|12|97
+Enny Romero|L|Kevin Pillar|R|Single|D|Four-Seam Fastball|43|2|2|2|8|97
+Enny Romero|L|Munenori Kawasaki|L|Groundout|B|Four-Seam Fastball|44|0|0|2|14|97
+Enny Romero|L|Munenori Kawasaki|L|Groundout|F|Four-Seam Fastball|45|1|0|2|7|95
+Enny Romero|L|Munenori Kawasaki|L|Groundout|F|Four-Seam Fastball|46|1|1|2|11|97
+Enny Romero|L|Munenori Kawasaki|L|Groundout|B|Cutter|47|1|2|2|12|86
+Enny Romero|L|Munenori Kawasaki|L|Groundout|B|Four-Seam Fastball|48|2|2|2|12|97
+Enny Romero|L|Munenori Kawasaki|L|Groundout|X|Four-Seam Fastball|49|3|2|2|9|97
+Enny Romero|L|Evan Gattis|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|94
+Enny Romero|L|Evan Gattis|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|95
+Enny Romero|L|Evan Gattis|R|Walk|B|Four-Seam Fastball|2|2|0|0|12|96
+Enny Romero|L|Evan Gattis|R|Walk|B|Four-Seam Fastball|3|3|0|0|12|94
+Enny Romero|L|Jake Marisnick|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|5|95
+Enny Romero|L|Jake Marisnick|R|Strikeout|F|Slider|5|0|1|0|4|83
+Enny Romero|L|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|6|0|2|0|1|97
+Enny Romero|L|Jake Marisnick|R|Strikeout|B|Slider|7|0|2|0|13|85
+Enny Romero|L|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|8|1|2|0|6|97
+Enny Romero|L|Chris Carter|R|Strikeout|C|Four-Seam Fastball|9|0|0|1|8|97
+Enny Romero|L|Chris Carter|R|Strikeout|B|Four-Seam Fastball|10|0|1|1|14|97
+Enny Romero|L|Chris Carter|R|Strikeout|S|Four-Seam Fastball|11|1|1|1|14|97
+Enny Romero|L|Chris Carter|R|Strikeout|B|Four-Seam Fastball|12|1|2|1|12|98
+Enny Romero|L|Chris Carter|R|Strikeout|F|Four-Seam Fastball|13|2|2|1|12|98
+Enny Romero|L|Chris Carter|R|Strikeout|B|Four-Seam Fastball|14|2|2|1|12|99
+Enny Romero|L|Chris Carter|R|Strikeout|F|Four-Seam Fastball|15|3|2|1|14|97
+Enny Romero|L|Chris Carter|R|Strikeout|C|Four-Seam Fastball|16|3|2|1|4|98
+Enny Romero|L|Jose Altuve|R|Single|B|Four-Seam Fastball|17|0|0|2|12|96
+Enny Romero|L|Jose Altuve|R|Single|S|Slider|18|1|0|2|13|84
+Enny Romero|L|Jose Altuve|R|Single|F|Four-Seam Fastball|19|1|1|2|12|97
+Enny Romero|L|Jose Altuve|R|Single|F|Slider|20|1|2|2|4|84
+Enny Romero|L|Jose Altuve|R|Single|B|Four-Seam Fastball|21|1|2|2|12|97
+Enny Romero|L|Jose Altuve|R|Single|F|Four-Seam Fastball|22|2|2|2|5|98
+Enny Romero|L|Jose Altuve|R|Single|B|Four-Seam Fastball|23|2|2|2|13|98
+Enny Romero|L|Jose Altuve|R|Single|D|Four-Seam Fastball|24|3|2|2|13|98
+Enny Romero|L|Marwin Gonzalez|R|Flyout|*B|Four-Seam Fastball|25|0|0|2|13|97
+Enny Romero|L|Marwin Gonzalez|R|Flyout|X|Four-Seam Fastball|26|1|0|2|6|97
+Enny Romero|L|Billy Butler|R|Flyout|C|Four-Seam Fastball|0|0|0|0|3|93
+Enny Romero|L|Billy Butler|R|Flyout|F|Four-Seam Fastball|1|0|1|0|13|95
+Enny Romero|L|Billy Butler|R|Flyout|F|Four-Seam Fastball|2|0|2|0|12|96
+Enny Romero|L|Billy Butler|R|Flyout|X|Four-Seam Fastball|3|0|2|0|2|97
+Enny Romero|L|Eric Sogard|L|Groundout|C|Four-Seam Fastball|4|0|0|1|4|95
+Enny Romero|L|Eric Sogard|L|Groundout|B|Slider|5|0|1|1|12|85
+Enny Romero|L|Eric Sogard|L|Groundout|B|Cutter|6|1|1|1|13|87
+Enny Romero|L|Eric Sogard|L|Groundout|X|Four-Seam Fastball|7|2|1|1|12|95
+Enny Romero|L|Sam Fuld|L|Strikeout|B|Four-Seam Fastball|8|0|0|2|13|93
+Enny Romero|L|Sam Fuld|L|Strikeout|C|Four-Seam Fastball|9|1|0|2|4|94
+Enny Romero|L|Sam Fuld|L|Strikeout|C|Four-Seam Fastball|10|1|1|2|7|95
+Enny Romero|L|Sam Fuld|L|Strikeout|S|Four-Seam Fastball|11|1|2|2|9|97
+Enny Romero|L|Byron Buxton|R|Strikeout|C|Cutter|0|0|0|0|7|88
+Enny Romero|L|Byron Buxton|R|Strikeout|S|Four-Seam Fastball|1|0|1|0|2|95
+Enny Romero|L|Byron Buxton|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|95
+Enny Romero|L|Byron Buxton|R|Strikeout|S|Cutter|3|1|2|0|14|88
+Enny Romero|L|Brian Dozier|R|Lineout|C|Cutter|4|0|0|1|8|88
+Enny Romero|L|Brian Dozier|R|Lineout|F|Cutter|5|0|1|1|14|87
+Enny Romero|L|Brian Dozier|R|Lineout|B|Four-Seam Fastball|6|0|2|1|12|96
+Enny Romero|L|Brian Dozier|R|Lineout|B|Four-Seam Fastball|7|1|2|1|12|97
+Enny Romero|L|Brian Dozier|R|Lineout|X|Slider|8|2|2|1|13|83
+Enny Romero|L|Joe Mauer|L|Flyout|C|Four-Seam Fastball|9|0|0|2|1|95
+Enny Romero|L|Joe Mauer|L|Flyout|X|Four-Seam Fastball|10|0|1|2|9|96
+Enny Romero|L|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|11|0|0|0|12|94
+Enny Romero|L|Miguel Sano|R|Strikeout|C|Cutter|12|1|0|0|11|87
+Enny Romero|L|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|13|1|1|0|2|95
+Enny Romero|L|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|14|1|2|0|12|96
+Enny Romero|L|Trevor Plouffe|R|Groundout|B|Slider|15|0|0|1|13|82
+Enny Romero|L|Trevor Plouffe|R|Groundout|B|Slider|16|1|0|1|14|86
+Enny Romero|L|Trevor Plouffe|R|Groundout|B|Four-Seam Fastball|17|2|0|1|12|94
+Enny Romero|L|Trevor Plouffe|R|Groundout|X|Four-Seam Fastball|18|3|0|1|13|95
+Enny Romero|L|Eddie Rosario|L|Triple|S|Slider|19|0|0|2|2|85
+Enny Romero|L|Eddie Rosario|L|Triple|F|Slider|20|0|1|2|8|82
+Enny Romero|L|Eddie Rosario|L|Triple|B|Four-Seam Fastball|21|0|2|2|11|96
+Enny Romero|L|Eddie Rosario|L|Triple|D|Cutter|22|1|2|2|5|88
+Enny Romero|L|Torii Hunter|R|Strikeout|B|Slider|23|0|0|2|14|85
+Enny Romero|L|Torii Hunter|R|Strikeout|B|Four-Seam Fastball|24|1|0|2|2|95
+Enny Romero|L|Torii Hunter|R|Strikeout|C|Four-Seam Fastball|25|2|0|2|12|96
+Enny Romero|L|Torii Hunter|R|Strikeout|F|Four-Seam Fastball|26|2|1|2|12|96
+Enny Romero|L|Torii Hunter|R|Strikeout|C|Four-Seam Fastball|27|2|2|2|4|98
+Enny Romero|L|Joe Mauer|L|Double|B|Four-Seam Fastball|0|0|0|0|13|91
+Enny Romero|L|Joe Mauer|L|Double|D|Four-Seam Fastball|1|1|0|0|5|91
+Enny Romero|L|Miguel Sano|R|Strikeout|C|Four-Seam Fastball|2|0|0|0|13|94
+Enny Romero|L|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|3|0|1|0|13|94
+Enny Romero|L|Miguel Sano|R|Strikeout|*B|Slider|4|1|1|0|13|83
+Enny Romero|L|Miguel Sano|R|Strikeout|S|Changeup|5|2|1|0|5|89
+Enny Romero|L|Miguel Sano|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|3|96
+Enny Romero|L|Miguel Sano|R|Strikeout|S|Four-Seam Fastball|7|3|2|0|3|95
+Enny Romero|L|Trevor Plouffe|R|Flyout|X|Four-Seam Fastball|8|0|0|1|5|94
+Enny Romero|L|Eddie Rosario|L|Strikeout|C|Slider|9|0|0|2|4|84
+Enny Romero|L|Eddie Rosario|L|Strikeout|F|Slider|10|0|1|2|13|83
+Enny Romero|L|Eddie Rosario|L|Strikeout|S|Four-Seam Fastball|11|0|2|2|12|97
+Enny Romero|L|Kendrys Morales|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|94
+Enny Romero|L|Kendrys Morales|R|Groundout|S|Cutter|1|1|0|0|13|89
+Enny Romero|L|Kendrys Morales|R|Groundout|S|Cutter|2|1|1|0|5|89
+Enny Romero|L|Kendrys Morales|R|Groundout|B|Four-Seam Fastball|3|1|2|0|12|96
+Enny Romero|L|Kendrys Morales|R|Groundout|F|Cutter|4|2|2|0|8|88
+Enny Romero|L|Kendrys Morales|R|Groundout|F|Four-Seam Fastball|5|2|2|0|5|97
+Enny Romero|L|Kendrys Morales|R|Groundout|B|Four-Seam Fastball|6|2|2|0|14|95
+Enny Romero|L|Kendrys Morales|R|Groundout|X|Cutter|7|3|2|0|14|89
+Enny Romero|L|Mike Moustakas|L|Strikeout|S|Slider|8|0|0|1|13|84
+Enny Romero|L|Mike Moustakas|L|Strikeout|B|Slider|9|0|1|1|14|83
+Enny Romero|L|Mike Moustakas|L|Strikeout|S|Cutter|10|1|1|1|13|88
+Enny Romero|L|Mike Moustakas|L|Strikeout|C|Cutter|11|1|2|1|8|86
+Enny Romero|L|Salvador Perez|R|Lineout|B|Four-Seam Fastball|12|0|0|2|14|96
+Enny Romero|L|Salvador Perez|R|Lineout|C|Cutter|13|1|0|2|4|88
+Enny Romero|L|Salvador Perez|R|Lineout|C|Four-Seam Fastball|14|1|1|2|14|97
+Enny Romero|L|Salvador Perez|R|Lineout|X|Four-Seam Fastball|15|1|2|2|6|97
+Enny Romero|L|Paulo Orlando|R|Flyout|B|Four-Seam Fastball|16|0|0|0|13|95
+Enny Romero|L|Paulo Orlando|R|Flyout|S|Cutter|17|1|0|0|13|88
+Enny Romero|L|Paulo Orlando|R|Flyout|C|Slider|18|1|1|0|9|82
+Enny Romero|L|Paulo Orlando|R|Flyout|B|Four-Seam Fastball|19|1|2|0|12|96
+Enny Romero|L|Paulo Orlando|R|Flyout|B|Four-Seam Fastball|20|2|2|0|12|96
+Enny Romero|L|Paulo Orlando|R|Flyout|F|Cutter|21|3|2|0|7|88
+Enny Romero|L|Paulo Orlando|R|Flyout|X|Four-Seam Fastball|22|3|2|0|2|96
+Enny Romero|L|Jarrod Dyson|L|Lineout|C|Cutter|23|0|0|1|11|87
+Enny Romero|L|Jarrod Dyson|L|Lineout|B|Slider|24|0|1|1|14|82
+Enny Romero|L|Jarrod Dyson|L|Lineout|B|Cutter|25|1|1|1|12|87
+Enny Romero|L|Jarrod Dyson|L|Lineout|F|Four-Seam Fastball|26|2|1|1|5|96
+Enny Romero|L|Jarrod Dyson|L|Lineout|F|Four-Seam Fastball|27|2|2|1|3|97
+Enny Romero|L|Jarrod Dyson|L|Lineout|B|Four-Seam Fastball|28|2|2|1|13|97
+Enny Romero|L|Jarrod Dyson|L|Lineout|X|Cutter|29|3|2|1|5|87
+Enny Romero|L|Alcides Escobar|R|Field Error|B|Four-Seam Fastball|30|0|0|2|14|95
+Enny Romero|L|Alcides Escobar|R|Field Error|S|Cutter|31|1|0|2|13|88
+Enny Romero|L|Alcides Escobar|R|Field Error|S|Slider|32|1|1|2|13|84
+Enny Romero|L|Alcides Escobar|R|Field Error|F|Four-Seam Fastball|33|1|2|2|4|98
+Enny Romero|L|Alcides Escobar|R|Field Error|B|Slider|34|1|2|2|13|84
+Enny Romero|L|Alcides Escobar|R|Field Error|D|Cutter|35|2|2|2|5|90
+Enny Romero|L|Ben Zobrist|R|Forceout|C|Four-Seam Fastball|36|0|0|2|13|94
+Enny Romero|L|Ben Zobrist|R|Forceout|X|Cutter|37|0|1|2|4|91
+Enny Romero|L|Lorenzo Cain|R|Strikeout|F|Cutter|38|0|0|0|1|90
+Enny Romero|L|Lorenzo Cain|R|Strikeout|B|Slider|39|0|1|0|13|82
+Enny Romero|L|Lorenzo Cain|R|Strikeout|F|Slider|40|1|1|0|14|83
+Enny Romero|L|Lorenzo Cain|R|Strikeout|B|Cutter|41|1|2|0|13|88
+Enny Romero|L|Lorenzo Cain|R|Strikeout|T|Four-Seam Fastball|42|2|2|0|8|96
+Enny Romero|L|Eric Hosmer|L|Single|F|Four-Seam Fastball|43|0|0|1|6|96
+Enny Romero|L|Eric Hosmer|L|Single|C|Four-Seam Fastball|44|0|1|1|8|96
+Enny Romero|L|Eric Hosmer|L|Single|B|Four-Seam Fastball|45|0|2|1|13|96
+Enny Romero|L|Eric Hosmer|L|Single|D|Four-Seam Fastball|46|1|2|1|7|97
+Enny Romero|L|Kendrys Morales|R|Groundout|B|Cutter|47|0|0|1|11|89
+Enny Romero|L|Kendrys Morales|R|Groundout|B|Cutter|48|1|0|1|9|89
+Enny Romero|L|Kendrys Morales|R|Groundout|T|Four-Seam Fastball|49|2|0|1|5|97
+Enny Romero|L|Kendrys Morales|R|Groundout|C|Four-Seam Fastball|50|2|1|1|6|97
+Enny Romero|L|Kendrys Morales|R|Groundout|*B|Slider|51|2|2|1|14|86
+Enny Romero|L|Kendrys Morales|R|Groundout|X|Cutter|52|3|2|1|9|91
+Enny Romero|L|Mike Moustakas|L|Single|B|Four-Seam Fastball|53|0|0|2|14|97
+Enny Romero|L|Mike Moustakas|L|Single|B|Four-Seam Fastball|54|1|0|2|14|97
+Enny Romero|L|Mike Moustakas|L|Single|*B|Cutter|55|2|0|2|14|91
+Enny Romero|L|Mike Moustakas|L|Single|F|Four-Seam Fastball|56|3|0|2|2|95
+Enny Romero|L|Mike Moustakas|L|Single|E|Four-Seam Fastball|57|3|1|2|13|97
+Enny Romero|L|Salvador Perez|R|Single|C|Cutter|58|0|0|2|4|89
+Enny Romero|L|Salvador Perez|R|Single|T|Cutter|59|0|1|2|13|89
+Enny Romero|L|Salvador Perez|R|Single|D|Changeup|60|0|2|2|6|96
+Enny Romero|L|Didi Gregorius|L|Pop Out|B|Cutter|0|0|0|1|14|88
+Enny Romero|L|Didi Gregorius|L|Pop Out|B|Four-Seam Fastball|1|1|0|1|13|96
+Enny Romero|L|Didi Gregorius|L|Pop Out|X|Four-Seam Fastball|2|2|0|1|6|96
+Enny Romero|L|Stephen Drew|L|Groundout|B|Four-Seam Fastball|3|0|0|2|3|95
+Enny Romero|L|Stephen Drew|L|Groundout|C|Four-Seam Fastball|4|1|0|2|11|95
+Enny Romero|L|Stephen Drew|L|Groundout|X|Four-Seam Fastball|5|1|1|2|7|96
+Enny Romero|L|Chris Young|R|Strikeout|B|Four-Seam Fastball|6|0|0|0|14|95
+Enny Romero|L|Chris Young|R|Strikeout|B|Cutter|7|1|0|0|12|89
+Enny Romero|L|Chris Young|R|Strikeout|C|Four-Seam Fastball|8|2|0|0|1|95
+Enny Romero|L|Chris Young|R|Strikeout|F|Four-Seam Fastball|9|2|1|0|11|95
+Enny Romero|L|Chris Young|R|Strikeout|C|Four-Seam Fastball|10|2|2|0|8|97
+Enny Romero|L|Brett Gardner|L|Single|C|Four-Seam Fastball|11|0|0|1|9|97
+Enny Romero|L|Brett Gardner|L|Single|F|Four-Seam Fastball|12|0|1|1|8|96
+Enny Romero|L|Brett Gardner|L|Single|D|Four-Seam Fastball|13|0|2|1|5|99
+Enny Romero|L|Brett Gardner|L|Forceout|C|Four-Seam Fastball|0|0|0|1|5|96
+Enny Romero|L|Brett Gardner|L|Forceout|S|Four-Seam Fastball|1|0|1|1|7|97
+Enny Romero|L|Brett Gardner|L|Forceout|E|Four-Seam Fastball|2|0|2|1|13|98
+Enny Romero|L|Carlos Beltran|R|Pop Out|S|Cutter|3|0|0|2|13|93
+Enny Romero|L|Carlos Beltran|R|Pop Out|B|Cutter|4|0|1|2|13|93
+Enny Romero|L|Carlos Beltran|R|Pop Out|B|Four-Seam Fastball|5|1|1|2|13|97
+Enny Romero|L|Carlos Beltran|R|Pop Out|F|Four-Seam Fastball|6|2|1|2|4|97
+Enny Romero|L|Carlos Beltran|R|Pop Out|X|Four-Seam Fastball|7|2|2|2|1|98
+Enny Romero|L|Anthony Gose|L|Flyout|F|Four-Seam Fastball|0|0|0|2|13|94
+Enny Romero|L|Anthony Gose|L|Flyout|B|Four-Seam Fastball|1|0|1|2|12|96
+Enny Romero|L|Anthony Gose|L|Flyout|X|Four-Seam Fastball|2|1|1|2|6|96
+Enny Romero|L|Josh Wilson|R|Strikeout|B|Four-Seam Fastball|3|0|0|0|12|95
+Enny Romero|L|Josh Wilson|R|Strikeout|F|Four-Seam Fastball|4|1|0|0|6|94
+Enny Romero|L|Josh Wilson|R|Strikeout|S|Slider|5|1|1|0|14|83
+Enny Romero|L|Josh Wilson|R|Strikeout|B|Four-Seam Fastball|6|1|2|0|14|96
+Enny Romero|L|Josh Wilson|R|Strikeout|B|Four-Seam Fastball|7|2|2|0|12|96
+Enny Romero|L|Josh Wilson|R|Strikeout|C|Four-Seam Fastball|8|3|2|0|8|95
+Enny Romero|L|Bryan Holaday|R|Double|B|Slider|9|0|0|1|14|83
+Enny Romero|L|Bryan Holaday|R|Double|B|Slider|10|1|0|1|14|87
+Enny Romero|L|Bryan Holaday|R|Double|C|Four-Seam Fastball|11|2|0|1|11|95
+Enny Romero|L|Bryan Holaday|R|Double|S|Slider|12|2|1|1|14|87
+Enny Romero|L|Bryan Holaday|R|Double|B|Four-Seam Fastball|13|2|2|1|13|96
+Enny Romero|L|Bryan Holaday|R|Double|D|Four-Seam Fastball|14|3|2|1|1|96
+Enny Romero|L|Steven Moya|L|Strikeout|B|Slider|15|0|0|1|11|87
+Enny Romero|L|Steven Moya|L|Strikeout|S|Four-Seam Fastball|16|1|0|1|8|97
+Enny Romero|L|Steven Moya|L|Strikeout|S|Four-Seam Fastball|17|1|1|1|1|97
+Enny Romero|L|Steven Moya|L|Strikeout|S|Four-Seam Fastball|18|1|2|1|1|98
+Enny Romero|L|Travis Shaw|L|Double|B|Cutter|0|0|0|0|13|90
+Enny Romero|L|Travis Shaw|L|Double|C|Four-Seam Fastball|1|1|0|0|13|97
+Enny Romero|L|Travis Shaw|L|Double|B|Four-Seam Fastball|2|1|1|0|13|97
+Enny Romero|L|Travis Shaw|L|Double|F|Four-Seam Fastball|3|2|1|0|6|97
+Enny Romero|L|Travis Shaw|L|Double|E|Cutter|4|2|2|0|8|89
+Enny Romero|L|Pablo Sandoval|R|Single|C|Four-Seam Fastball|5|0|0|0|4|96
+Enny Romero|L|Pablo Sandoval|R|Single|F|Four-Seam Fastball|6|0|1|0|7|97
+Enny Romero|L|Pablo Sandoval|R|Single|E|Four-Seam Fastball|7|0|2|0|4|97
+Enny Romero|L|Deven Marrero|R|Flyout|C|Four-Seam Fastball|0|0|0|2|7|93
+Enny Romero|L|Deven Marrero|R|Flyout|B|Four-Seam Fastball|1|0|1|2|14|94
+Enny Romero|L|Deven Marrero|R|Flyout|X|Four-Seam Fastball|2|1|1|2|4|94
+Enny Romero|L|Sandy Leon|R|Strikeout|B|Four-Seam Fastball|3|0|0|0|12|95
+Enny Romero|L|Sandy Leon|R|Strikeout|S|Four-Seam Fastball|4|1|0|0|3|95
+Enny Romero|L|Sandy Leon|R|Strikeout|F|Four-Seam Fastball|5|1|1|0|9|96
+Enny Romero|L|Sandy Leon|R|Strikeout|F|Four-Seam Fastball|6|1|2|0|7|96
+Enny Romero|L|Sandy Leon|R|Strikeout|F|Four-Seam Fastball|7|1|2|0|7|96
+Enny Romero|L|Sandy Leon|R|Strikeout|F|Four-Seam Fastball|8|1|2|0|7|96
+Enny Romero|L|Sandy Leon|R|Strikeout|F|Four-Seam Fastball|9|1|2|0|7|97
+Enny Romero|L|Sandy Leon|R|Strikeout|S|Four-Seam Fastball|10|1|2|0|4|96
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|11|0|0|1|8|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|12|0|1|1|13|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|B|Slider|13|1|1|1|11|85
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|F|Four-Seam Fastball|14|2|1|1|7|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|15|2|2|1|1|97
+Enny Romero|L|Mookie Betts|R|Pop Out|B|Four-Seam Fastball|16|0|0|2|12|94
+Enny Romero|L|Mookie Betts|R|Pop Out|X|Four-Seam Fastball|17|1|0|2|6|94
+Enny Romero|L|Dustin Pedroia|R|Single|B|Four-Seam Fastball|18|0|0|0|9|93
+Enny Romero|L|Dustin Pedroia|R|Single|F|Cutter|19|1|0|0|11|89
+Enny Romero|L|Dustin Pedroia|R|Single|D|Four-Seam Fastball|20|1|1|0|4|94
+Enny Romero|L|Xander Bogaerts|R|Single|C|Cutter|21|0|0|0|1|91
+Enny Romero|L|Xander Bogaerts|R|Single|D|Four-Seam Fastball|22|0|1|0|7|96
+Enny Romero|L|Travis Shaw|L|Single|B|Four-Seam Fastball|23|0|0|0|14|96
+Enny Romero|L|Travis Shaw|L|Single|D|Cutter|24|1|0|0|13|90
+Enny Romero|L|Didi Gregorius|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|94
+Enny Romero|L|Didi Gregorius|L|Walk|C|Four-Seam Fastball|1|1|0|0|13|95
+Enny Romero|L|Didi Gregorius|L|Walk|B|Four-Seam Fastball|2|1|1|0|13|96
+Enny Romero|L|Didi Gregorius|L|Walk|S|Four-Seam Fastball|3|2|1|0|9|96
+Enny Romero|L|Didi Gregorius|L|Walk|B|Four-Seam Fastball|4|2|2|0|14|97
+Enny Romero|L|Didi Gregorius|L|Walk|B|Four-Seam Fastball|5|3|2|0|14|97
+Enny Romero|L|Chris Young|R|Lineout|B|Four-Seam Fastball|6|0|0|0|14|96
+Enny Romero|L|Chris Young|R|Lineout|C|Four-Seam Fastball|7|1|0|0|7|95
+Enny Romero|L|Chris Young|R|Lineout|F|Four-Seam Fastball|8|1|1|0|5|95
+Enny Romero|L|Chris Young|R|Lineout|B|Four-Seam Fastball|9|1|2|0|11|97
+Enny Romero|L|Chris Young|R|Lineout|X|Four-Seam Fastball|10|2|2|0|5|97
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|C|Four-Seam Fastball|11|0|0|1|13|96
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|C|Four-Seam Fastball|12|0|1|1|13|96
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|T|Four-Seam Fastball|13|0|2|1|13|97
+Enny Romero|L|Brett Gardner|L|Lineout|B|Four-Seam Fastball|14|0|0|2|13|97
+Enny Romero|L|Brett Gardner|L|Lineout|C|Four-Seam Fastball|15|1|0|2|1|97
+Enny Romero|L|Brett Gardner|L|Lineout|*B|Four-Seam Fastball|16|1|1|2|13|97
+Enny Romero|L|Brett Gardner|L|Lineout|X|Four-Seam Fastball|17|2|1|2|5|97
+Enny Romero|L|Travis Shaw|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|96
+Enny Romero|L|Travis Shaw|L|Flyout|X|Four-Seam Fastball|1|0|1|0|5|96
+Enny Romero|L|Rusney Castillo|R|Strikeout|F|Four-Seam Fastball|2|0|0|1|12|96
+Enny Romero|L|Rusney Castillo|R|Strikeout|B|Cutter|3|0|1|1|2|91
+Enny Romero|L|Rusney Castillo|R|Strikeout|S|Cutter|4|1|1|1|13|90
+Enny Romero|L|Rusney Castillo|R|Strikeout|F|Four-Seam Fastball|5|1|2|1|3|98
+Enny Romero|L|Rusney Castillo|R|Strikeout|F|Four-Seam Fastball|6|1|2|1|6|97
+Enny Romero|L|Rusney Castillo|R|Strikeout|B|Four-Seam Fastball|7|1|2|1|12|97
+Enny Romero|L|Rusney Castillo|R|Strikeout|C|Four-Seam Fastball|8|2|2|1|13|97
+Enny Romero|L|Brock Holt|L|Single|B|Four-Seam Fastball|9|0|0|2|13|96
+Enny Romero|L|Brock Holt|L|Single|D|Four-Seam Fastball|10|1|0|2|1|96
+Enny Romero|L|Ryan Hanigan|R|Walk|B|Cutter|11|0|0|2|11|91
+Enny Romero|L|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|12|1|0|2|14|96
+Enny Romero|L|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|13|2|0|2|13|96
+Enny Romero|L|Ryan Hanigan|R|Walk|C|Four-Seam Fastball|14|3|0|2|13|95
+Enny Romero|L|Ryan Hanigan|R|Walk|C|Four-Seam Fastball|15|3|1|2|13|97
+Enny Romero|L|Ryan Hanigan|R|Walk|B|Four-Seam Fastball|16|3|2|2|13|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|*B|Four-Seam Fastball|17|0|0|2|13|98
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|18|1|0|2|13|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|C|Four-Seam Fastball|19|2|0|2|8|95
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|B|Four-Seam Fastball|20|2|1|2|14|97
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|F|Four-Seam Fastball|21|3|1|2|8|96
+Enny Romero|L|Jackie Bradley Jr.|L|Groundout|X|Four-Seam Fastball|22|3|2|2|8|98
+Enny Romero|L|David Ortiz|L|Lineout|C|Four-Seam Fastball|0|0|0|2|6|96
+Enny Romero|L|David Ortiz|L|Lineout|C|Four-Seam Fastball|1|0|1|2|2|97
+Enny Romero|L|David Ortiz|L|Lineout|B|Four-Seam Fastball|2|0|2|2|14|98
+Enny Romero|L|David Ortiz|L|Lineout|X|Four-Seam Fastball|3|1|2|2|12|98
+Enny Romero|L|Cliff Pennington|R|Strikeout|C|Four-Seam Fastball|0|0|0|2|1|93
+Enny Romero|L|Cliff Pennington|R|Strikeout|C|Four-Seam Fastball|1|0|1|2|11|94
+Enny Romero|L|Cliff Pennington|R|Strikeout|S|Four-Seam Fastball|2|0|2|2|12|97
+Enny Romero|L|Darwin Barney|R|Single|C|Four-Seam Fastball|3|0|0|0|6|91
+Enny Romero|L|Darwin Barney|R|Single|F|Four-Seam Fastball|4|0|1|0|5|94
+Enny Romero|L|Darwin Barney|R|Single|B|Four-Seam Fastball|5|0|2|0|12|95
+Enny Romero|L|Darwin Barney|R|Single|D|Four-Seam Fastball|6|1|2|0|5|95
+Enny Romero|L|Ben Revere|L|Sac Bunt|X|Four-Seam Fastball|7|0|0|0|2|93
+Enny Romero|L|Josh Donaldson|R|Walk|B|Four-Seam Fastball|8|0|0|1|6|96
+Enny Romero|L|Josh Donaldson|R|Walk|S|Four-Seam Fastball|9|1|0|1|5|95
+Enny Romero|L|Josh Donaldson|R|Walk|F|Four-Seam Fastball|10|1|1|1|6|97
+Enny Romero|L|Josh Donaldson|R|Walk|B|Four-Seam Fastball|11|1|2|1|11|97
+Enny Romero|L|Josh Donaldson|R|Walk|B|Four-Seam Fastball|12|2|2|1|13|97
+Enny Romero|L|Josh Donaldson|R|Walk|B|Four-Seam Fastball|13|3|2|1|13|98
+Enny Romero|L|Jose Bautista|R|Strikeout|C|Cutter|14|0|0|1|11|89
+Enny Romero|L|Jose Bautista|R|Strikeout|F|Cutter|15|0|1|1|11|92
+Enny Romero|L|Jose Bautista|R|Strikeout|B|Four-Seam Fastball|16|0|2|1|12|97
+Enny Romero|L|Jose Bautista|R|Strikeout|F|Four-Seam Fastball|17|1|2|1|4|97
+Enny Romero|L|Jose Bautista|R|Strikeout|C|Four-Seam Fastball|18|1|2|1|3|97
+Enny Romero|L|Edwin Encarnacion|R|Forceout|C|Four-Seam Fastball|19|0|0|2|9|96
+Enny Romero|L|Edwin Encarnacion|R|Forceout|B|Cutter|20|0|1|2|11|90
+Enny Romero|L|Edwin Encarnacion|R|Forceout|*B|Four-Seam Fastball|21|1|1|2|14|97
+Enny Romero|L|Edwin Encarnacion|R|Forceout|X|Four-Seam Fastball|22|2|1|2|7|95
+Enny Romero|L|Edwin Encarnacion|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|13|94
+Enny Romero|L|Justin Smoak|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|4|93
+Enny Romero|L|Justin Smoak|R|Strikeout|S|Slider|2|0|1|1|14|85
+Enny Romero|L|Justin Smoak|R|Strikeout|B|Four-Seam Fastball|3|0|2|1|14|95
+Enny Romero|L|Justin Smoak|R|Strikeout|C|Four-Seam Fastball|4|1|2|1|4|95
+Enny Romero|L|Dioner Navarro|R|Groundout|C|Cutter|5|0|0|2|7|89
+Enny Romero|L|Dioner Navarro|R|Groundout|T|Slider|6|0|1|2|7|83
+Enny Romero|L|Dioner Navarro|R|Groundout|X|Four-Seam Fastball|7|0|2|2|4|96
+Enny Romero|L|Kevin Pillar|R|Bunt Groundout|X|Cutter|8|0|0|0|11|86
+Enny Romero|L|Ryan Goins|L|Strikeout|B|Slider|9|0|0|1|13|86
+Enny Romero|L|Ryan Goins|L|Strikeout|S|Slider|10|1|0|1|7|86
+Enny Romero|L|Ryan Goins|L|Strikeout|B|Slider|11|1|1|1|12|81
+Enny Romero|L|Ryan Goins|L|Strikeout|C|Four-Seam Fastball|12|2|1|1|8|94
+Enny Romero|L|Ryan Goins|L|Strikeout|C|Four-Seam Fastball|13|2|2|1|7|95
+Enny Romero|L|Darwin Barney|R|Double|B|Cutter|14|0|0|2|11|89
+Enny Romero|L|Darwin Barney|R|Double|D|Four-Seam Fastball|15|1|0|2|5|94
+Enny Romero|L|Ben Revere|L|Walk|B|Four-Seam Fastball|16|0|0|2|13|95
+Enny Romero|L|Ben Revere|L|Walk|*B|Four-Seam Fastball|17|1|0|2|14|95
+Enny Romero|L|Ben Revere|L|Walk|*B|Four-Seam Fastball|18|2|0|2|13|95
+Enny Romero|L|Ben Revere|L|Walk|B|Four-Seam Fastball|19|3|0|2|14|95
+Enny Romero|L|Christian Yelich|L|Double|B|Four-Seam Fastball|0|0|0|0|13|93
+Enny Romero|L|Christian Yelich|L|Double|B|Four-Seam Fastball|1|1|0|0|13|93
+Enny Romero|L|Christian Yelich|L|Double|D|Four-Seam Fastball|2|2|0|0|5|94
+Enny Romero|L|Martin Prado|R|Single|C|Four-Seam Fastball|3|0|0|0|5|94
+Enny Romero|L|Martin Prado|R|Single|C|Four-Seam Fastball|4|0|1|0|8|95
+Enny Romero|L|Martin Prado|R|Single|F|Four-Seam Fastball|5|0|2|0|2|96
+Enny Romero|L|Martin Prado|R|Single|F|Four-Seam Fastball|6|0|2|0|9|96
+Enny Romero|L|Martin Prado|R|Single|D|Four-Seam Fastball|7|0|2|0|13|96
+Enny Romero|L|Justin Bour|L|Grounded Into DP|B|Four-Seam Fastball|8|0|0|0|13|96
+Enny Romero|L|Justin Bour|L|Grounded Into DP|S|Cutter|9|1|0|0|7|88
+Enny Romero|L|Justin Bour|L|Grounded Into DP|B|Four-Seam Fastball|10|1|1|0|13|97
+Enny Romero|L|Justin Bour|L|Grounded Into DP|B|Four-Seam Fastball|11|2|1|0|13|96
+Enny Romero|L|Justin Bour|L|Grounded Into DP|E|Cutter|12|3|1|0|7|89
+Enny Romero|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|13|0|0|2|14|97
+Enny Romero|L|Marcell Ozuna|R|Walk|C|Four-Seam Fastball|14|1|0|2|8|96
+Enny Romero|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|15|1|1|2|13|96
+Enny Romero|L|Marcell Ozuna|R|Walk|B|Changeup|16|2|1|2|14|95
+Enny Romero|L|Marcell Ozuna|R|Walk|B|Four-Seam Fastball|17|3|1|2|12|97
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|18|0|0|2|14|97
+Enny Romero|L|Derek Dietrich|L|Strikeout|S|Cutter|19|1|0|2|13|88
+Enny Romero|L|Derek Dietrich|L|Strikeout|S|Cutter|20|1|1|2|13|89
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|21|1|2|2|13|98
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|22|2|2|2|14|98
+Enny Romero|L|Derek Dietrich|L|Strikeout|S|Cutter|23|3|2|2|13|89
+Enny Romero|L|Ryan Goins|L|Triple|F|Cutter|0|0|0|1|11|87
+Enny Romero|L|Ryan Goins|L|Triple|B|Slider|1|0|1|1|3|84
+Enny Romero|L|Ryan Goins|L|Triple|E|Cutter|2|1|1|1|1|88
+Enny Romero|L|Ben Revere|L|Sac Fly|E|Four-Seam Fastball|3|0|0|1|6|95
+Enny Romero|L|Josh Donaldson|R|Groundout|B|Four-Seam Fastball|4|0|0|2|14|96
+Enny Romero|L|Josh Donaldson|R|Groundout|F|Cutter|5|1|0|2|6|90
+Enny Romero|L|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|6|1|1|2|13|96
+Enny Romero|L|Josh Donaldson|R|Groundout|B|Four-Seam Fastball|7|1|2|2|11|95
+Enny Romero|L|Josh Donaldson|R|Groundout|B|Four-Seam Fastball|8|2|2|2|12|97
+Enny Romero|L|Josh Donaldson|R|Groundout|F|Four-Seam Fastball|9|3|2|2|3|96
+Enny Romero|L|Josh Donaldson|R|Groundout|X|Four-Seam Fastball|10|3|2|2|13|95
+Enny Romero|L|Dalton Pompey|R|Double|C|Four-Seam Fastball|0|0|0|0|5|93
+Enny Romero|L|Dalton Pompey|R|Double|B|Four-Seam Fastball|1|0|1|0|7|93
+Enny Romero|L|Dalton Pompey|R|Double|F|Four-Seam Fastball|2|1|1|0|5|94
+Enny Romero|L|Dalton Pompey|R|Double|D|Four-Seam Fastball|3|1|2|0|8|95
+Enny Romero|L|Darwin Barney|R|Home Run|C|Four-Seam Fastball|4|0|0|0|7|96
+Enny Romero|L|Darwin Barney|R|Home Run|F|Four-Seam Fastball|5|0|1|0|5|96
+Enny Romero|L|Darwin Barney|R|Home Run|B|Four-Seam Fastball|6|0|2|0|12|96
+Enny Romero|L|Darwin Barney|R|Home Run|F|Cutter|7|1|2|0|3|90
+Enny Romero|L|Darwin Barney|R|Home Run|E|Four-Seam Fastball|8|1|2|0|11|95
+Enny Romero|L|Munenori Kawasaki|L|Single|F|Four-Seam Fastball|9|0|0|0|6|94
+Enny Romero|L|Munenori Kawasaki|L|Single|D|Four-Seam Fastball|10|0|1|0|5|94
+Enny Romero|L|Jonathan Diaz|R|Single|C|Four-Seam Fastball|11|0|0|0|14|95
+Enny Romero|L|Jonathan Diaz|R|Single|C|Cutter|12|0|1|0|3|87
+Enny Romero|L|Jonathan Diaz|R|Single|D|Four-Seam Fastball|13|0|2|0|9|97
+Enny Romero|L|Cliff Pennington|R|Flyout|B|Four-Seam Fastball|14|0|0|0|13|96
+Enny Romero|L|Cliff Pennington|R|Flyout|F|Four-Seam Fastball|15|1|0|0|8|95
+Enny Romero|L|Cliff Pennington|R|Flyout|B|Cutter|16|1|1|0|12|86
+Enny Romero|L|Cliff Pennington|R|Flyout|B|Four-Seam Fastball|17|2|1|0|13|96
+Enny Romero|L|Cliff Pennington|R|Flyout|X|Four-Seam Fastball|18|3|1|0|13|95
+Enny Romero|L|Ezequiel Carrera|L|Forceout|S|Slider|19|0|0|1|7|85
+Enny Romero|L|Ezequiel Carrera|L|Forceout|F|Four-Seam Fastball|20|0|1|1|13|97
+Enny Romero|L|Ezequiel Carrera|L|Forceout|F|Slider|21|0|2|1|8|83
+Enny Romero|L|Ezequiel Carrera|L|Forceout|F|Four-Seam Fastball|22|0|2|1|9|98
+Enny Romero|L|Ezequiel Carrera|L|Forceout|X|Cutter|23|0|2|1|13|90
+Enny Romero|L|Justin Smoak|R|Lineout|X|Four-Seam Fastball|24|0|0|2|9|97
+Enny Romero|L|Justin Smoak|R|Strikeout|C|Four-Seam Fastball|0|0|0|2|7|95
+Enny Romero|L|Justin Smoak|R|Strikeout|*B|Four-Seam Fastball|1|0|1|2|14|95
+Enny Romero|L|Justin Smoak|R|Strikeout|F|Four-Seam Fastball|2|1|1|2|12|96
+Enny Romero|L|Justin Smoak|R|Strikeout|T|Four-Seam Fastball|3|1|2|2|13|96
+Enny Romero|L|Michael Saunders|L|Groundout|B|Four-Seam Fastball|0|0|0|0|9|95
+Enny Romero|L|Michael Saunders|L|Groundout|F|Four-Seam Fastball|1|1|0|0|8|94
+Enny Romero|L|Michael Saunders|L|Groundout|X|Cutter|2|1|1|0|5|87
+Enny Romero|L|Russell Martin|R|Lineout|B|Four-Seam Fastball|3|0|0|1|7|96
+Enny Romero|L|Russell Martin|R|Lineout|C|Cutter|4|1|0|1|9|89
+Enny Romero|L|Russell Martin|R|Lineout|B|Slider|5|1|1|1|14|82
+Enny Romero|L|Russell Martin|R|Lineout|B|Four-Seam Fastball|6|2|1|1|11|97
+Enny Romero|L|Russell Martin|R|Lineout|F|Four-Seam Fastball|7|3|1|1|8|95
+Enny Romero|L|Russell Martin|R|Lineout|X|Four-Seam Fastball|8|3|2|1|7|96
+Enny Romero|L|Ryan Goins|L|Strikeout|C|Four-Seam Fastball|9|0|0|2|6|97
+Enny Romero|L|Ryan Goins|L|Strikeout|S|Cutter|10|0|1|2|9|86
+Enny Romero|L|Ryan Goins|L|Strikeout|S|Four-Seam Fastball|11|0|2|2|12|98
+Enny Romero|L|Jonathan Schoop|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|93
+Enny Romero|L|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|1|1|0|0|2|94
+Enny Romero|L|Jonathan Schoop|R|Strikeout|B|Cutter|2|1|1|0|13|90
+Enny Romero|L|Jonathan Schoop|R|Strikeout|B|Cutter|3|2|1|0|14|87
+Enny Romero|L|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|4|3|1|0|1|93
+Enny Romero|L|Jonathan Schoop|R|Strikeout|F|Four-Seam Fastball|5|3|2|0|11|94
+Enny Romero|L|Jonathan Schoop|R|Strikeout|C|Four-Seam Fastball|6|3|2|0|13|94
+Enny Romero|L|Ryan Flaherty|L|Pop Out|B|Four-Seam Fastball|7|0|0|1|11|94
+Enny Romero|L|Ryan Flaherty|L|Pop Out|B|Four-Seam Fastball|8|1|0|1|6|94
+Enny Romero|L|Ryan Flaherty|L|Pop Out|T|Four-Seam Fastball|9|2|0|1|11|94
+Enny Romero|L|Ryan Flaherty|L|Pop Out|C|Four-Seam Fastball|10|2|1|1|8|94
+Enny Romero|L|Ryan Flaherty|L|Pop Out|B|Four-Seam Fastball|11|2|2|1|14|95
+Enny Romero|L|Ryan Flaherty|L|Pop Out|X|Four-Seam Fastball|12|3|2|1|3|94
+Enny Romero|L|Joey Rickard|R|Groundout|C|Cutter|13|0|0|2|6|88
+Enny Romero|L|Joey Rickard|R|Groundout|B|Slider|14|0|1|2|14|79
+Enny Romero|L|Joey Rickard|R|Groundout|B|Cutter|15|1|1|2|13|94
+Enny Romero|L|Joey Rickard|R|Groundout|F|Four-Seam Fastball|16|2|1|2|13|95
+Enny Romero|L|Joey Rickard|R|Groundout|X|Four-Seam Fastball|17|2|2|2|8|95
+Enny Romero|L|Nolan Reimold|R|Pop Out|B|Cutter|18|0|0|0|13|91
+Enny Romero|L|Nolan Reimold|R|Pop Out|C|Cutter|19|1|0|0|13|91
+Enny Romero|L|Nolan Reimold|R|Pop Out|B|Slider|20|1|1|0|12|87
+Enny Romero|L|Nolan Reimold|R|Pop Out|F|Four-Seam Fastball|21|2|1|0|11|94
+Enny Romero|L|Nolan Reimold|R|Pop Out|F|Four-Seam Fastball|22|2|2|0|13|95
+Enny Romero|L|Nolan Reimold|R|Pop Out|B|Slider|23|2|2|0|12|82
+Enny Romero|L|Nolan Reimold|R|Pop Out|X|Four-Seam Fastball|24|3|2|0|4|92
+Enny Romero|L|Manny Machado|R|Groundout|X|Cutter|25|0|0|1|1|92
+Enny Romero|L|Chris Davis|L|Flyout|B|Four-Seam Fastball|26|0|0|2|13|95
+Enny Romero|L|Chris Davis|L|Flyout|S|Cutter|27|1|0|2|14|88
+Enny Romero|L|Chris Davis|L|Flyout|S|Cutter|28|1|1|2|7|89
+Enny Romero|L|Chris Davis|L|Flyout|B|Cutter|29|1|2|2|11|93
+Enny Romero|L|Chris Davis|L|Flyout|B|Four-Seam Fastball|30|2|2|2|13|95
+Enny Romero|L|Chris Davis|L|Flyout|F|Cutter|31|3|2|2|6|88
+Enny Romero|L|Chris Davis|L|Flyout|X|Slider|32|3|2|2|6|87
+Enny Romero|L|Pedro Alvarez|L|Single|B|Four-Seam Fastball|0|0|0|2|12|94
+Enny Romero|L|Pedro Alvarez|L|Single|S|Slider|1|1|0|2|13|87
+Enny Romero|L|Pedro Alvarez|L|Single|F|Slider|2|1|1|2|13|86
+Enny Romero|L|Pedro Alvarez|L|Single|E|Four-Seam Fastball|3|1|2|2|5|96
+Enny Romero|L|J.J. Hardy|R|Flyout|C|Cutter|4|0|0|2|8|87
+Enny Romero|L|J.J. Hardy|R|Flyout|X|Four-Seam Fastball|5|0|1|2|1|94
+Enny Romero|L|Francisco Pena|R|Strikeout|B|Cutter|6|0|0|0|11|87
+Enny Romero|L|Francisco Pena|R|Strikeout|B|Four-Seam Fastball|7|1|0|0|14|93
+Enny Romero|L|Francisco Pena|R|Strikeout|S|Four-Seam Fastball|8|2|0|0|12|93
+Enny Romero|L|Francisco Pena|R|Strikeout|S|Four-Seam Fastball|9|2|1|0|12|94
+Enny Romero|L|Francisco Pena|R|Strikeout|S|Four-Seam Fastball|10|2|2|0|2|94
+Enny Romero|L|Adam Jones|R|Strikeout|C|Cutter|11|0|0|1|6|88
+Enny Romero|L|Adam Jones|R|Strikeout|B|Four-Seam Fastball|12|0|1|1|12|95
+Enny Romero|L|Adam Jones|R|Strikeout|S|Slider|13|1|1|1|14|80
+Enny Romero|L|Adam Jones|R|Strikeout|S|Four-Seam Fastball|14|1|2|1|12|96
+Enny Romero|L|Hyun Soo Kim|L|Walk|B|Four-Seam Fastball|15|0|0|2|14|97
+Enny Romero|L|Hyun Soo Kim|L|Walk|B|Cutter|16|1|0|2|11|85
+Enny Romero|L|Hyun Soo Kim|L|Walk|B|Slider|17|2|0|2|13|86
+Enny Romero|L|Hyun Soo Kim|L|Walk|C|Four-Seam Fastball|18|3|0|2|2|94
+Enny Romero|L|Hyun Soo Kim|L|Walk|S|Four-Seam Fastball|19|3|1|2|5|94
+Enny Romero|L|Hyun Soo Kim|L|Walk|F|Four-Seam Fastball|20|3|2|2|6|97
+Enny Romero|L|Hyun Soo Kim|L|Walk|B|Four-Seam Fastball|21|3|2|2|11|96
+Enny Romero|L|Manny Machado|R|Lineout|F|Four-Seam Fastball|22|0|0|2|6|95
+Enny Romero|L|Manny Machado|R|Lineout|X|Cutter|23|0|1|2|3|89
+Enny Romero|L|Dioner Navarro|R|Flyout|B|Cutter|0|0|0|1|13|91
+Enny Romero|L|Dioner Navarro|R|Flyout|C|Four-Seam Fastball|1|1|0|1|8|96
+Enny Romero|L|Dioner Navarro|R|Flyout|S|Cutter|2|1|1|1|13|92
+Enny Romero|L|Dioner Navarro|R|Flyout|F|Four-Seam Fastball|3|1|2|1|8|97
+Enny Romero|L|Dioner Navarro|R|Flyout|X|Four-Seam Fastball|4|1|2|1|2|96
+Enny Romero|L|Tyler Saladino|R|Lineout|F|Four-Seam Fastball|5|0|0|2|1|95
+Enny Romero|L|Tyler Saladino|R|Lineout|S|Four-Seam Fastball|6|0|1|2|12|95
+Enny Romero|L|Tyler Saladino|R|Lineout|B|Four-Seam Fastball|7|0|2|2|12|96
+Enny Romero|L|Tyler Saladino|R|Lineout|F|Four-Seam Fastball|8|1|2|2|12|97
+Enny Romero|L|Tyler Saladino|R|Lineout|X|Four-Seam Fastball|9|1|2|2|5|96
+Enny Romero|L|Adam Eaton|L|Groundout|S|Four-Seam Fastball|10|0|0|0|5|95
+Enny Romero|L|Adam Eaton|L|Groundout|B|Slider|11|0|1|0|14|84
+Enny Romero|L|Adam Eaton|L|Groundout|B|Cutter|12|1|1|0|12|88
+Enny Romero|L|Adam Eaton|L|Groundout|X|Four-Seam Fastball|13|2|1|0|7|95
+Enny Romero|L|David Ortiz|L|Flyout|C|Four-Seam Fastball|0|0|0|0|11|98
+Enny Romero|L|David Ortiz|L|Flyout|F|Four-Seam Fastball|1|0|1|0|1|98
+Enny Romero|L|David Ortiz|L|Flyout|X|Four-Seam Fastball|2|0|2|0|2|98
+Enny Romero|L|Hanley Ramirez|R|Strikeout|C|Four-Seam Fastball|3|0|0|1|2|98
+Enny Romero|L|Hanley Ramirez|R|Strikeout|C|Slider|4|0|1|1|6|86
+Enny Romero|L|Hanley Ramirez|R|Strikeout|T|Four-Seam Fastball|5|0|2|1|11|99
+Enny Romero|L|Travis Shaw|L|Groundout|S|Cutter|6|0|0|2|13|91
+Enny Romero|L|Travis Shaw|L|Groundout|X|Cutter|7|0|1|2|14|91
+Enny Romero|L|Brock Holt|L|Strikeout|C|Four-Seam Fastball|8|0|0|0|4|97
+Enny Romero|L|Brock Holt|L|Strikeout|C|Slider|9|0|1|0|6|83
+Enny Romero|L|Brock Holt|L|Strikeout|F|Four-Seam Fastball|10|0|2|0|8|98
+Enny Romero|L|Brock Holt|L|Strikeout|C|Cutter|11|0|2|0|6|90
+Enny Romero|L|Christian Vazquez|R|Walk|B|Four-Seam Fastball|12|0|0|1|12|99
+Enny Romero|L|Christian Vazquez|R|Walk|B|Cutter|13|1|0|1|2|89
+Enny Romero|L|Christian Vazquez|R|Walk|B|Four-Seam Fastball|14|2|0|1|12|98
+Enny Romero|L|Christian Vazquez|R|Walk|C|Four-Seam Fastball|15|3|0|1|4|96
+Enny Romero|L|Christian Vazquez|R|Walk|B|Four-Seam Fastball|16|3|1|1|14|98
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|17|0|0|1|11|98
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|C|Cutter|18|0|1|1|4|90
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|S|Cutter|19|0|2|1|6|91
+Enny Romero|L|Brett Gardner|L|Single|B|Four-Seam Fastball|0|0|0|2|13|96
+Enny Romero|L|Brett Gardner|L|Single|C|Four-Seam Fastball|1|1|0|2|7|96
+Enny Romero|L|Brett Gardner|L|Single|T|Cutter|2|1|1|2|3|89
+Enny Romero|L|Brett Gardner|L|Single|F|Four-Seam Fastball|3|1|2|2|5|97
+Enny Romero|L|Brett Gardner|L|Single|D|Four-Seam Fastball|4|1|2|2|4|97
+Enny Romero|L|Carlos Beltran|R|Flyout|C|Four-Seam Fastball|5|0|0|2|7|97
+Enny Romero|L|Carlos Beltran|R|Flyout|X|Four-Seam Fastball|6|0|1|2|11|97
+Enny Romero|L|Mark Teixeira|R|Pop Out|X|Four-Seam Fastball|7|0|0|0|11|96
+Enny Romero|L|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|8|0|0|1|12|95
+Enny Romero|L|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|9|0|1|1|13|96
+Enny Romero|L|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|10|0|2|1|4|96
+Enny Romero|L|Brian McCann|L|Walk|B|Four-Seam Fastball|11|0|0|2|14|95
+Enny Romero|L|Brian McCann|L|Walk|B|Slider|12|1|0|2|12|87
+Enny Romero|L|Brian McCann|L|Walk|B|Four-Seam Fastball|13|2|0|2|13|94
+Enny Romero|L|Brian McCann|L|Walk|B|Four-Seam Fastball|14|3|0|2|14|92
+Enny Romero|L|Starlin Castro|R|Flyout|B|Four-Seam Fastball|15|0|0|2|12|94
+Enny Romero|L|Starlin Castro|R|Flyout|B|Slider|16|1|0|2|12|81
+Enny Romero|L|Starlin Castro|R|Flyout|C|Four-Seam Fastball|17|2|0|2|13|93
+Enny Romero|L|Starlin Castro|R|Flyout|F|Four-Seam Fastball|18|2|1|2|2|94
+Enny Romero|L|Starlin Castro|R|Flyout|F|Slider|19|2|2|2|8|88
+Enny Romero|L|Starlin Castro|R|Flyout|B|Four-Seam Fastball|20|2|2|2|11|95
+Enny Romero|L|Starlin Castro|R|Flyout|X|Cutter|21|3|2|2|4|93
+Enny Romero|L|Pedro Alvarez|L|Pop Out|B|Cutter|0|0|0|2|11|90
+Enny Romero|L|Pedro Alvarez|L|Pop Out|X|Four-Seam Fastball|1|1|0|2|7|97
+Enny Romero|L|Chris Davis|L|Groundout|S|Four-Seam Fastball|0|0|0|2|14|93
+Enny Romero|L|Chris Davis|L|Groundout|B|Slider|1|0|1|2|14|83
+Enny Romero|L|Chris Davis|L|Groundout|X|Four-Seam Fastball|2|1|1|2|13|97
+Enny Romero|L|Mark Trumbo|R|Strikeout|B|Slider|3|0|0|0|11|83
+Enny Romero|L|Mark Trumbo|R|Strikeout|S|Slider|4|1|0|0|14|85
+Enny Romero|L|Mark Trumbo|R|Strikeout|S|Slider|5|1|1|0|13|80
+Enny Romero|L|Mark Trumbo|R|Strikeout|B|Four-Seam Fastball|6|1|2|0|11|95
+Enny Romero|L|Mark Trumbo|R|Strikeout|S|Slider|7|2|2|0|14|85
+Enny Romero|L|J.J. Hardy|R|Groundout|C|Four-Seam Fastball|8|0|0|1|8|95
+Enny Romero|L|J.J. Hardy|R|Groundout|B|Four-Seam Fastball|9|0|1|1|14|96
+Enny Romero|L|J.J. Hardy|R|Groundout|C|Slider|10|1|1|1|8|87
+Enny Romero|L|J.J. Hardy|R|Groundout|X|Four-Seam Fastball|11|1|2|1|1|95
+Enny Romero|L|Pedro Alvarez|L|Single|F|Four-Seam Fastball|12|0|0|2|5|96
+Enny Romero|L|Pedro Alvarez|L|Single|D|Cutter|13|0|1|2|4|91
+Enny Romero|L|Justin Smoak|R|Flyout|X|Four-Seam Fastball|0|0|0|0|6|97
+Enny Romero|L|Kevin Pillar|R|Home Run|C|Four-Seam Fastball|1|0|0|1|13|96
+Enny Romero|L|Kevin Pillar|R|Home Run|B|Slider|2|0|1|1|14|82
+Enny Romero|L|Kevin Pillar|R|Home Run|E|Four-Seam Fastball|3|1|1|1|2|96
+Enny Romero|L|Ryan Goins|L|Groundout|S|Cutter|4|0|0|1|7|91
+Enny Romero|L|Ryan Goins|L|Groundout|S|Cutter|5|0|1|1|13|90
+Enny Romero|L|Ryan Goins|L|Groundout|B|Cutter|6|0|2|1|13|92
+Enny Romero|L|Ryan Goins|L|Groundout|X|Four-Seam Fastball|7|1|2|1|11|98
+Enny Romero|L|Josh Thole|L|Walk|B|Four-Seam Fastball|8|0|0|2|13|97
+Enny Romero|L|Josh Thole|L|Walk|B|Cutter|9|1|0|2|14|90
+Enny Romero|L|Josh Thole|L|Walk|C|Four-Seam Fastball|10|2|0|2|11|97
+Enny Romero|L|Josh Thole|L|Walk|B|Four-Seam Fastball|11|2|1|2|13|96
+Enny Romero|L|Josh Thole|L|Walk|B|Four-Seam Fastball|12|3|1|2|11|95
+Enny Romero|L|Michael Saunders|L|Walk|B|Cutter|13|0|0|2|12|88
+Enny Romero|L|Michael Saunders|L|Walk|S|Cutter|14|1|0|2|7|88
+Enny Romero|L|Michael Saunders|L|Walk|S|Cutter|15|1|1|2|7|90
+Enny Romero|L|Michael Saunders|L|Walk|B|Cutter|16|1|2|2|14|89
+Enny Romero|L|Michael Saunders|L|Walk|B|Four-Seam Fastball|17|2|2|2|12|98
+Enny Romero|L|Michael Saunders|L|Walk|B|Cutter|18|3|2|2|13|88
+Enny Romero|L|Adrian Gonzalez|L|Walk|C|Four-Seam Fastball|0|0|0|0|8|92
+Enny Romero|L|Adrian Gonzalez|L|Walk|B|Cutter|1|0|1|0|13|88
+Enny Romero|L|Adrian Gonzalez|L|Walk|B|Cutter|2|1|1|0|14|88
+Enny Romero|L|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|3|2|1|0|13|96
+Enny Romero|L|Adrian Gonzalez|L|Walk|F|Four-Seam Fastball|4|3|1|0|5|96
+Enny Romero|L|Adrian Gonzalez|L|Walk|B|Four-Seam Fastball|5|3|2|0|13|96
+Enny Romero|L|Justin Turner|R|Single|B|Four-Seam Fastball|6|0|0|0|12|95
+Enny Romero|L|Justin Turner|R|Single|F|Four-Seam Fastball|7|1|0|0|7|96
+Enny Romero|L|Justin Turner|R|Single|F|Four-Seam Fastball|8|1|1|0|2|95
+Enny Romero|L|Justin Turner|R|Single|D|Slider|9|1|2|0|7|83
+Enny Romero|L|Howie Kendrick|R|Walk|B|Four-Seam Fastball|10|0|0|0|13|95
+Enny Romero|L|Howie Kendrick|R|Walk|B|Four-Seam Fastball|11|1|0|0|13|96
+Enny Romero|L|Howie Kendrick|R|Walk|B|Four-Seam Fastball|12|2|0|0|13|96
+Enny Romero|L|Howie Kendrick|R|Walk|C|Four-Seam Fastball|13|3|0|0|11|93
+Enny Romero|L|Howie Kendrick|R|Walk|B|Four-Seam Fastball|14|3|1|0|13|95
+Enny Romero|L|Chase Utley|L|Walk|*B|Four-Seam Fastball|15|0|0|0|14|97
+Enny Romero|L|Chase Utley|L|Walk|*B|Four-Seam Fastball|16|1|0|0|13|95
+Enny Romero|L|Chase Utley|L|Walk|C|Four-Seam Fastball|17|2|0|0|4|96
+Enny Romero|L|Chase Utley|L|Walk|B|Four-Seam Fastball|18|2|1|0|13|96
+Enny Romero|L|Chase Utley|L|Walk|*B|Four-Seam Fastball|19|3|1|0|14|95
+Enny Romero|L|Leonys Martin|L|Lineout|X|Four-Seam Fastball|0|0|0|2|7|95
+Enny Romero|L|Norichika Aoki|L|Groundout|F|Cutter|1|0|0|0|6|91
+Enny Romero|L|Norichika Aoki|L|Groundout|X|Cutter|2|0|1|0|5|89
+Enny Romero|L|Ketel Marte|R|Groundout|F|Cutter|3|0|0|1|13|90
+Enny Romero|L|Ketel Marte|R|Groundout|C|Cutter|4|0|1|1|12|89
+Enny Romero|L|Ketel Marte|R|Groundout|X|Four-Seam Fastball|5|0|2|1|2|96
+Enny Romero|L|Robinson Cano|L|Strikeout|S|Slider|6|0|0|2|13|87
+Enny Romero|L|Robinson Cano|L|Strikeout|F|Four-Seam Fastball|7|0|1|2|7|95
+Enny Romero|L|Robinson Cano|L|Strikeout|F|Four-Seam Fastball|8|0|2|2|14|97
+Enny Romero|L|Robinson Cano|L|Strikeout|C|Cutter|9|0|2|2|1|90
+Enny Romero|L|Dae-Ho Lee|R|Flyout|B|Four-Seam Fastball|0|0|0|0|13|93
+Enny Romero|L|Dae-Ho Lee|R|Flyout|X|Four-Seam Fastball|1|1|0|0|4|94
+Enny Romero|L|Luis Sardinas|R|Groundout|X|Slider|2|0|0|1|13|82
+Enny Romero|L|Leonys Martin|L|Groundout|B|Cutter|3|0|0|2|13|89
+Enny Romero|L|Leonys Martin|L|Groundout|B|Four-Seam Fastball|4|1|0|2|14|95
+Enny Romero|L|Leonys Martin|L|Groundout|F|Cutter|5|2|0|2|14|93
+Enny Romero|L|Leonys Martin|L|Groundout|X|Cutter|6|2|1|2|8|88
+Enny Romero|L|Ketel Marte|R|Strikeout|C|Slider|7|0|0|0|14|86
+Enny Romero|L|Ketel Marte|R|Strikeout|F|Cutter|8|0|1|0|5|89
+Enny Romero|L|Ketel Marte|R|Strikeout|B|Four-Seam Fastball|9|0|2|0|12|93
+Enny Romero|L|Ketel Marte|R|Strikeout|F|Cutter|10|1|2|0|13|89
+Enny Romero|L|Ketel Marte|R|Strikeout|F|Slider|11|1|2|0|13|85
+Enny Romero|L|Ketel Marte|R|Strikeout|B|Slider|12|1|2|0|14|82
+Enny Romero|L|Ketel Marte|R|Strikeout|T|Four-Seam Fastball|13|2|2|0|13|95
+Enny Romero|L|Franklin Gutierrez|R|Pop Out|C|Cutter|14|0|0|1|8|88
+Enny Romero|L|Franklin Gutierrez|R|Pop Out|S|Four-Seam Fastball|15|0|1|1|12|96
+Enny Romero|L|Franklin Gutierrez|R|Pop Out|B|Slider|16|0|2|1|14|82
+Enny Romero|L|Franklin Gutierrez|R|Pop Out|X|Cutter|17|1|2|1|1|95
+Enny Romero|L|Robinson Cano|L|Groundout|C|Slider|18|0|0|2|9|82
+Enny Romero|L|Robinson Cano|L|Groundout|X|Cutter|19|0|1|2|4|89
+Enny Romero|L|Kyle Seager|L|Lineout|B|Cutter|0|0|0|0|13|89
+Enny Romero|L|Kyle Seager|L|Lineout|F|Cutter|1|1|0|0|7|91
+Enny Romero|L|Kyle Seager|L|Lineout|B|Cutter|2|1|1|0|11|89
+Enny Romero|L|Kyle Seager|L|Lineout|X|Four-Seam Fastball|3|2|1|0|12|96
+Enny Romero|L|Seth Smith|L|Lineout|B|Four-Seam Fastball|4|0|0|1|12|95
+Enny Romero|L|Seth Smith|L|Lineout|C|Cutter|5|1|0|1|7|89
+Enny Romero|L|Seth Smith|L|Lineout|X|Cutter|6|1|1|1|4|89
+Enny Romero|L|Michael Saunders|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|94
+Enny Romero|L|Michael Saunders|L|Groundout|X|Cutter|1|1|0|0|7|93
+Enny Romero|L|Josh Thole|L|Flyout|B|Cutter|2|0|0|1|13|88
+Enny Romero|L|Josh Thole|L|Flyout|X|Four-Seam Fastball|3|1|0|1|6|95
+Enny Romero|L|Darwin Barney|R|Single|B|Four-Seam Fastball|4|0|0|2|13|96
+Enny Romero|L|Darwin Barney|R|Single|D|Four-Seam Fastball|5|1|0|2|8|95
+Enny Romero|L|Kevin Pillar|R|Lineout|B|Four-Seam Fastball|6|0|0|2|13|96
+Enny Romero|L|Kevin Pillar|R|Lineout|B|Four-Seam Fastball|7|1|0|2|13|96
+Enny Romero|L|Kevin Pillar|R|Lineout|S|Four-Seam Fastball|8|2|0|2|13|96
+Enny Romero|L|Kevin Pillar|R|Lineout|S|Slider|9|2|1|2|13|83
+Enny Romero|L|Kevin Pillar|R|Lineout|X|Four-Seam Fastball|10|2|2|2|2|96
+Enny Romero|L|Russell Martin|R|Groundout|X|Four-Seam Fastball|0|0|0|0|4|92
+Enny Romero|L|Ryan Goins|L|Strikeout|C|Cutter|1|0|0|1|4|94
+Enny Romero|L|Ryan Goins|L|Strikeout|C|Four-Seam Fastball|2|0|1|1|13|94
+Enny Romero|L|Ryan Goins|L|Strikeout|B|Four-Seam Fastball|3|0|2|1|11|96
+Enny Romero|L|Ryan Goins|L|Strikeout|S|Slider|4|1|2|1|13|84
+Enny Romero|L|Michael Saunders|L|Strikeout|B|Slider|5|0|0|2|14|81
+Enny Romero|L|Michael Saunders|L|Strikeout|C|Four-Seam Fastball|6|1|0|2|9|94
+Enny Romero|L|Michael Saunders|L|Strikeout|C|Slider|7|1|1|2|9|87
+Enny Romero|L|Michael Saunders|L|Strikeout|S|Four-Seam Fastball|8|1|2|2|2|97
+Enny Romero|L|Justin Upton|R|Single|B|Four-Seam Fastball|0|0|0|1|12|96
+Enny Romero|L|Justin Upton|R|Single|D|Four-Seam Fastball|1|1|0|1|9|96
+Enny Romero|L|Cameron Maybin|R|Forceout|L|Four-Seam Fastball|2|0|0|1|5|95
+Enny Romero|L|Cameron Maybin|R|Forceout|F|Four-Seam Fastball|3|0|1|1|4|95
+Enny Romero|L|Cameron Maybin|R|Forceout|F|Four-Seam Fastball|4|0|2|1|12|97
+Enny Romero|L|Cameron Maybin|R|Forceout|B|Four-Seam Fastball|5|0|2|1|12|97
+Enny Romero|L|Cameron Maybin|R|Forceout|F|Cutter|6|1|2|1|8|90
+Enny Romero|L|Cameron Maybin|R|Forceout|F|Four-Seam Fastball|7|1|2|1|2|98
+Enny Romero|L|Cameron Maybin|R|Forceout|B|Cutter|8|1|2|1|11|98
+Enny Romero|L|Cameron Maybin|R|Forceout|X|Slider|9|2|2|1|9|84
+Enny Romero|L|James McCann|R|Grounded Into DP|B|Four-Seam Fastball|10|0|0|2|14|96
+Enny Romero|L|James McCann|R|Grounded Into DP|B|Four-Seam Fastball|11|1|0|2|13|96
+Enny Romero|L|James McCann|R|Grounded Into DP|X|Cutter|12|2|0|2|5|96
+Enny Romero|L|Cole Gillespie|R|Sac Fly|B|Cutter|0|0|0|0|11|89
+Enny Romero|L|Cole Gillespie|R|Sac Fly|E|Four-Seam Fastball|1|1|0|0|5|95
+Enny Romero|L|Ichiro Suzuki|L|Single|B|Four-Seam Fastball|2|0|0|1|13|94
+Enny Romero|L|Ichiro Suzuki|L|Single|D|Four-Seam Fastball|3|1|0|1|6|94
+Enny Romero|L|Giancarlo Stanton|R|Home Run|F|Four-Seam Fastball|0|0|0|2|7|93
+Enny Romero|L|Giancarlo Stanton|R|Home Run|E|Four-Seam Fastball|1|0|1|2|7|93
+Enny Romero|L|Marcell Ozuna|R|Double|D|Four-Seam Fastball|2|0|0|2|8|95
+Enny Romero|L|Derek Dietrich|L|Single|E|Cutter|3|0|0|2|2|89
+Enny Romero|L|J.T. Realmuto|R|Flyout|C|Four-Seam Fastball|4|0|0|2|12|95
+Enny Romero|L|J.T. Realmuto|R|Flyout|X|Four-Seam Fastball|5|0|1|2|9|95
+Enny Romero|L|Ronald Torreyes|R|Walk|F|Four-Seam Fastball|0|0|0|2|2|96
+Enny Romero|L|Ronald Torreyes|R|Walk|B|Four-Seam Fastball|1|0|1|2|13|96
+Enny Romero|L|Ronald Torreyes|R|Walk|B|Four-Seam Fastball|2|1|1|2|12|97
+Enny Romero|L|Ronald Torreyes|R|Walk|B|Four-Seam Fastball|3|2|1|2|13|96
+Enny Romero|L|Ronald Torreyes|R|Walk|C|Four-Seam Fastball|4|3|1|2|14|97
+Enny Romero|L|Ronald Torreyes|R|Walk|B|Four-Seam Fastball|5|3|2|2|12|97
+Enny Romero|L|Alex Rodriguez|R|Strikeout|S|Cutter|6|0|0|2|8|87
+Enny Romero|L|Alex Rodriguez|R|Strikeout|F|Four-Seam Fastball|7|0|1|2|7|98
+Enny Romero|L|Alex Rodriguez|R|Strikeout|B|Four-Seam Fastball|8|0|2|2|12|98
+Enny Romero|L|Alex Rodriguez|R|Strikeout|S|Four-Seam Fastball|9|1|2|2|3|98
+Enny Romero|L|Starlin Castro|R|Strikeout|C|Slider|10|0|0|0|9|82
+Enny Romero|L|Starlin Castro|R|Strikeout|S|Cutter|11|0|1|0|8|88
+Enny Romero|L|Starlin Castro|R|Strikeout|C|Four-Seam Fastball|12|0|2|0|6|97
+Enny Romero|L|Dustin Ackley|L|Single|C|Cutter|13|0|0|1|1|87
+Enny Romero|L|Dustin Ackley|L|Single|B|Slider|14|0|1|1|9|80
+Enny Romero|L|Dustin Ackley|L|Single|D|Cutter|15|1|1|1|2|90
+Enny Romero|L|Chase Headley|R|Single|S|Four-Seam Fastball|16|0|0|1|2|96
+Enny Romero|L|Chase Headley|R|Single|F|Four-Seam Fastball|17|0|1|1|2|96
+Enny Romero|L|Chase Headley|R|Single|B|Four-Seam Fastball|18|0|2|1|12|97
+Enny Romero|L|Chase Headley|R|Single|B|Four-Seam Fastball|19|1|2|1|12|97
+Enny Romero|L|Chase Headley|R|Single|F|Four-Seam Fastball|20|2|2|1|12|97
+Enny Romero|L|Chase Headley|R|Single|B|Four-Seam Fastball|21|2|2|1|11|96
+Enny Romero|L|Chase Headley|R|Single|D|Four-Seam Fastball|22|3|2|1|11|96
+Enny Romero|L|Didi Gregorius|L|Single|F|Four-Seam Fastball|23|0|0|1|12|96
+Enny Romero|L|Didi Gregorius|L|Single|F|Four-Seam Fastball|24|0|1|1|3|97
+Enny Romero|L|Didi Gregorius|L|Single|E|Cutter|25|0|2|1|4|89
+Enny Romero|L|Austin Romine|R|Single|B|Four-Seam Fastball|26|0|0|1|13|96
+Enny Romero|L|Austin Romine|R|Single|B|Cutter|27|1|0|1|14|89
+Enny Romero|L|Austin Romine|R|Single|S|Four-Seam Fastball|28|2|0|1|6|96
+Enny Romero|L|Austin Romine|R|Single|F|Four-Seam Fastball|29|2|1|1|2|97
+Enny Romero|L|Austin Romine|R|Single|E|Four-Seam Fastball|30|2|2|1|1|97
+Enny Romero|L|Lorenzo Cain|R|Single|D|Four-Seam Fastball|0|0|0|0|5|93
+Enny Romero|L|Eric Hosmer|L|Single|C|Four-Seam Fastball|1|0|0|0|13|94
+Enny Romero|L|Eric Hosmer|L|Single|S|Slider|2|0|1|0|13|88
+Enny Romero|L|Eric Hosmer|L|Single|D|Four-Seam Fastball|3|0|2|0|11|97
+Enny Romero|L|Kendrys Morales|R|Single|F|Slider|4|0|0|0|4|86
+Enny Romero|L|Kendrys Morales|R|Single|S|Cutter|5|0|1|0|14|90
+Enny Romero|L|Kendrys Morales|R|Single|B|Four-Seam Fastball|6|0|2|0|12|97
+Enny Romero|L|Kendrys Morales|R|Single|F|Cutter|7|1|2|0|8|91
+Enny Romero|L|Kendrys Morales|R|Single|D|Four-Seam Fastball|8|1|2|0|11|98
+Enny Romero|L|Paulo Orlando|R|Strikeout|S|Cutter|9|0|0|0|14|91
+Enny Romero|L|Paulo Orlando|R|Strikeout|S|Four-Seam Fastball|10|0|1|0|13|96
+Enny Romero|L|Paulo Orlando|R|Strikeout|S|Four-Seam Fastball|11|0|2|0|1|98
+Enny Romero|L|Omar Infante|R|Sac Fly|C|Cutter|12|0|0|1|5|90
+Enny Romero|L|Omar Infante|R|Sac Fly|T|Four-Seam Fastball|13|0|1|1|4|97
+Enny Romero|L|Omar Infante|R|Sac Fly|F|Four-Seam Fastball|14|0|2|1|11|97
+Enny Romero|L|Omar Infante|R|Sac Fly|E|Cutter|15|0|2|1|7|91
+Enny Romero|L|Jarrod Dyson|L|Groundout|B|Cutter|16|0|0|2|14|89
+Enny Romero|L|Jarrod Dyson|L|Groundout|C|Four-Seam Fastball|17|1|0|2|11|96
+Enny Romero|L|Jarrod Dyson|L|Groundout|B|Cutter|18|1|1|2|14|90
+Enny Romero|L|Jarrod Dyson|L|Groundout|C|Cutter|19|2|1|2|8|89
+Enny Romero|L|Jarrod Dyson|L|Groundout|X|Cutter|20|2|2|2|7|90
+Enny Romero|L|ByungHo Park|R|Lineout|C|Four-Seam Fastball|0|0|0|0|8|93
+Enny Romero|L|ByungHo Park|R|Lineout|B|Slider|1|0|1|0|14|83
+Enny Romero|L|ByungHo Park|R|Lineout|F|Cutter|2|1|1|0|7|89
+Enny Romero|L|ByungHo Park|R|Lineout|B|Four-Seam Fastball|3|1|2|0|12|96
+Enny Romero|L|ByungHo Park|R|Lineout|F|Four-Seam Fastball|4|2|2|0|3|96
+Enny Romero|L|ByungHo Park|R|Lineout|F|Cutter|5|2|2|0|3|87
+Enny Romero|L|ByungHo Park|R|Lineout|X|Four-Seam Fastball|6|2|2|0|4|96
+Enny Romero|L|Max Kepler|L|Strikeout|B|Four-Seam Fastball|7|0|0|1|14|92
+Enny Romero|L|Max Kepler|L|Strikeout|F|Cutter|8|1|0|1|8|88
+Enny Romero|L|Max Kepler|L|Strikeout|S|Slider|9|1|1|1|13|83
+Enny Romero|L|Max Kepler|L|Strikeout|B|Four-Seam Fastball|10|1|2|1|13|97
+Enny Romero|L|Max Kepler|L|Strikeout|W|Slider|11|2|2|1|13|85
+Enny Romero|L|Juan Centeno|L|Strikeout|B|Four-Seam Fastball|12|0|0|2|13|94
+Enny Romero|L|Juan Centeno|L|Strikeout|F|Slider|13|1|0|2|13|88
+Enny Romero|L|Juan Centeno|L|Strikeout|C|Slider|14|1|1|2|13|83
+Enny Romero|L|Juan Centeno|L|Strikeout|F|Four-Seam Fastball|15|1|2|2|13|96
+Enny Romero|L|Juan Centeno|L|Strikeout|S|Slider|16|1|2|2|12|84
+Enny Romero|L|Byron Buxton|R|Strikeout|B|Slider|17|0|0|0|13|87
+Enny Romero|L|Byron Buxton|R|Strikeout|C|Cutter|18|1|0|0|2|87
+Enny Romero|L|Byron Buxton|R|Strikeout|S|Slider|19|1|1|0|5|82
+Enny Romero|L|Byron Buxton|R|Strikeout|B|Four-Seam Fastball|20|1|2|0|12|95
+Enny Romero|L|Byron Buxton|R|Strikeout|F|Slider|21|2|2|0|12|83
+Enny Romero|L|Byron Buxton|R|Strikeout|C|Slider|22|2|2|0|6|83
+Enny Romero|L|Eduardo Nunez|R|Flyout|B|Cutter|23|0|0|1|13|88
+Enny Romero|L|Eduardo Nunez|R|Flyout|F|Four-Seam Fastball|24|1|0|1|2|96
+Enny Romero|L|Eduardo Nunez|R|Flyout|B|Slider|25|1|1|1|12|82
+Enny Romero|L|Eduardo Nunez|R|Flyout|X|Cutter|26|2|1|1|6|89
+Enny Romero|L|Joe Mauer|L|Lineout|C|Four-Seam Fastball|27|0|0|2|14|95
+Enny Romero|L|Joe Mauer|L|Lineout|B|Slider|28|0|1|2|14|81
+Enny Romero|L|Joe Mauer|L|Lineout|X|Slider|29|1|1|2|5|87
+Enny Romero|L|Rickie Weeks Jr.|R|Walk|C|Four-Seam Fastball|0|0|0|2|14|94
+Enny Romero|L|Rickie Weeks Jr.|R|Walk|B|Four-Seam Fastball|1|0|1|2|12|95
+Enny Romero|L|Rickie Weeks Jr.|R|Walk|*B|Slider|2|1|1|2|14|88
+Enny Romero|L|Rickie Weeks Jr.|R|Walk|B|Cutter|3|2|1|2|13|88
+Enny Romero|L|Rickie Weeks Jr.|R|Walk|*B|Four-Seam Fastball|4|3|1|2|14|94
+Enny Romero|L|Welington Castillo|R|Walk|*B|Four-Seam Fastball|5|0|0|2|14|94
+Enny Romero|L|Welington Castillo|R|Walk|*B|Cutter|6|1|0|2|13|88
+Enny Romero|L|Welington Castillo|R|Walk|*B|Four-Seam Fastball|7|2|0|2|13|96
+Enny Romero|L|Welington Castillo|R|Walk|B|Four-Seam Fastball|8|3|0|2|14|94
+Enny Romero|L|Jason Castro|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|94
+Enny Romero|L|Jason Castro|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|94
+Enny Romero|L|Jason Castro|L|Walk|B|Four-Seam Fastball|2|2|0|0|14|95
+Enny Romero|L|Jason Castro|L|Walk|B|Four-Seam Fastball|3|3|0|0|12|95
+Enny Romero|L|Jake Marisnick|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|7|96
+Enny Romero|L|Jake Marisnick|R|Strikeout|S|Cutter|5|0|1|0|13|90
+Enny Romero|L|Jake Marisnick|R|Strikeout|F|Cutter|6|0|2|0|7|90
+Enny Romero|L|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|7|0|2|0|12|96
+Enny Romero|L|Jake Marisnick|R|Strikeout|B|Cutter|8|1|2|0|13|91
+Enny Romero|L|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|9|2|2|0|14|96
+Enny Romero|L|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|10|3|2|0|2|95
+Enny Romero|L|Denard Span|L|Groundout|F|Four-Seam Fastball|0|0|0|0|7|94
+Enny Romero|L|Denard Span|L|Groundout|C|Cutter|1|0|1|0|8|89
+Enny Romero|L|Denard Span|L|Groundout|B|Four-Seam Fastball|2|0|2|0|11|97
+Enny Romero|L|Denard Span|L|Groundout|X|Cutter|3|1|2|0|11|89
+Enny Romero|L|Joe Panik|L|Groundout|B|Cutter|4|0|0|1|13|89
+Enny Romero|L|Joe Panik|L|Groundout|S|Cutter|5|1|0|1|7|87
+Enny Romero|L|Joe Panik|L|Groundout|X|Slider|6|1|1|1|4|82
+Enny Romero|L|Brandon Belt|L|Home Run|C|Cutter|7|0|0|2|11|88
+Enny Romero|L|Brandon Belt|L|Home Run|B|Slider|8|0|1|2|3|80
+Enny Romero|L|Brandon Belt|L|Home Run|E|Four-Seam Fastball|9|1|1|2|11|97
+Enny Romero|L|Buster Posey|R|Walk|B|Four-Seam Fastball|10|0|0|2|13|97
+Enny Romero|L|Buster Posey|R|Walk|C|Slider|11|1|0|2|6|82
+Enny Romero|L|Buster Posey|R|Walk|C|Cutter|12|1|1|2|11|90
+Enny Romero|L|Buster Posey|R|Walk|B|Four-Seam Fastball|13|1|2|2|12|98
+Enny Romero|L|Buster Posey|R|Walk|B|Slider|14|2|2|2|14|84
+Enny Romero|L|Buster Posey|R|Walk|B|Cutter|15|3|2|2|11|90
+Enny Romero|L|Brandon Crawford|L|Strikeout|F|Four-Seam Fastball|16|0|0|2|12|96
+Enny Romero|L|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|17|0|1|2|11|96
+Enny Romero|L|Brandon Crawford|L|Strikeout|B|Four-Seam Fastball|18|1|1|2|14|96
+Enny Romero|L|Brandon Crawford|L|Strikeout|C|Cutter|19|2|1|2|12|90
+Enny Romero|L|Brandon Crawford|L|Strikeout|B|Slider|20|2|2|2|3|85
+Enny Romero|L|Brandon Crawford|L|Strikeout|S|Four-Seam Fastball|21|3|2|2|9|96
+Enny Romero|L|Matt Duffy|R|Strikeout|F|Four-Seam Fastball|22|0|0|0|8|94
+Enny Romero|L|Matt Duffy|R|Strikeout|B|Four-Seam Fastball|23|0|1|0|13|95
+Enny Romero|L|Matt Duffy|R|Strikeout|F|Slider|24|1|1|0|13|83
+Enny Romero|L|Matt Duffy|R|Strikeout|S|Four-Seam Fastball|25|1|2|0|14|97
+Enny Romero|L|Angel Pagan|R|Strikeout|B|Slider|26|0|0|1|14|82
+Enny Romero|L|Angel Pagan|R|Strikeout|C|Four-Seam Fastball|27|1|0|1|5|94
+Enny Romero|L|Angel Pagan|R|Strikeout|B|Four-Seam Fastball|28|1|1|1|13|95
+Enny Romero|L|Angel Pagan|R|Strikeout|B|Cutter|29|2|1|1|12|89
+Enny Romero|L|Angel Pagan|R|Strikeout|F|Four-Seam Fastball|30|3|1|1|4|95
+Enny Romero|L|Angel Pagan|R|Strikeout|F|Four-Seam Fastball|31|3|2|1|7|97
+Enny Romero|L|Angel Pagan|R|Strikeout|F|Four-Seam Fastball|32|3|2|1|11|96
+Enny Romero|L|Angel Pagan|R|Strikeout|F|Cutter|33|3|2|1|1|85
+Enny Romero|L|Angel Pagan|R|Strikeout|C|Four-Seam Fastball|34|3|2|1|7|96
+Enny Romero|L|Trevor Brown|R|Strikeout|S|Cutter|35|0|0|2|13|89
+Enny Romero|L|Trevor Brown|R|Strikeout|S|Four-Seam Fastball|36|0|1|2|12|96
+Enny Romero|L|Trevor Brown|R|Strikeout|B|Four-Seam Fastball|37|0|2|2|14|96
+Enny Romero|L|Trevor Brown|R|Strikeout|S|Cutter|38|1|2|2|7|88
+Enny Romero|L|Trevor Brown|R|Flyout|X|Four-Seam Fastball|0|0|0|0|3|93
+Enny Romero|L|Gregor Blanco|L|Walk|B|Four-Seam Fastball|1|0|0|1|14|92
+Enny Romero|L|Gregor Blanco|L|Walk|B|Slider|2|1|0|1|9|85
+Enny Romero|L|Gregor Blanco|L|Walk|B|Four-Seam Fastball|3|2|0|1|12|94
+Enny Romero|L|Gregor Blanco|L|Walk|C|Four-Seam Fastball|4|3|0|1|4|94
+Enny Romero|L|Gregor Blanco|L|Walk|C|Four-Seam Fastball|5|3|1|1|5|93
+Enny Romero|L|Gregor Blanco|L|Walk|B|Four-Seam Fastball|6|3|2|1|11|95
+Enny Romero|L|Denard Span|L|Walk|B|Four-Seam Fastball|7|0|0|1|3|94
+Enny Romero|L|Denard Span|L|Walk|B|Four-Seam Fastball|8|1|0|1|11|94
+Enny Romero|L|Denard Span|L|Walk|B|Four-Seam Fastball|9|2|0|1|12|94
+Enny Romero|L|Denard Span|L|Walk|C|Four-Seam Fastball|10|3|0|1|4|94
+Enny Romero|L|Denard Span|L|Walk|B|Four-Seam Fastball|11|3|1|1|13|94
+Enny Romero|L|Joe Panik|L|Grounded Into DP|C|Cutter|12|0|0|1|8|88
+Enny Romero|L|Joe Panik|L|Grounded Into DP|B|Cutter|13|0|1|1|13|89
+Enny Romero|L|Joe Panik|L|Grounded Into DP|S|Cutter|14|1|1|1|14|87
+Enny Romero|L|Joe Panik|L|Grounded Into DP|F|Cutter|15|1|2|1|7|89
+Enny Romero|L|Joe Panik|L|Grounded Into DP|X|Four-Seam Fastball|16|1|2|1|8|97
+Enny Romero|L|Francisco Lindor|R|Flyout|C|Slider|0|0|0|1|9|86
+Enny Romero|L|Francisco Lindor|R|Flyout|X|Four-Seam Fastball|1|0|1|1|12|94
+Enny Romero|L|David Ortiz|L|Single|F|Four-Seam Fastball|0|0|0|1|4|96
+Enny Romero|L|David Ortiz|L|Single|D|Four-Seam Fastball|1|0|1|1|6|97
+Enny Romero|L|Hanley Ramirez|R|Single|B|Cutter|2|0|0|1|13|91
+Enny Romero|L|Hanley Ramirez|R|Single|F|Four-Seam Fastball|3|1|0|1|1|97
+Enny Romero|L|Hanley Ramirez|R|Single|B|Four-Seam Fastball|4|1|1|1|12|98
+Enny Romero|L|Hanley Ramirez|R|Single|C|Cutter|5|2|1|1|6|90
+Enny Romero|L|Hanley Ramirez|R|Single|E|Four-Seam Fastball|6|2|2|1|1|97
+Enny Romero|L|Jackie Bradley Jr.|L|Forceout|S|Four-Seam Fastball|7|0|0|1|5|97
+Enny Romero|L|Jackie Bradley Jr.|L|Forceout|X|Four-Seam Fastball|8|0|1|1|9|98
+Enny Romero|L|Travis Shaw|L|Double|F|Cutter|9|0|0|2|7|88
+Enny Romero|L|Travis Shaw|L|Double|E|Slider|10|0|1|2|4|84
+Enny Romero|L|Bryce Brentz|R|Strikeout|F|Four-Seam Fastball|11|0|0|2|12|97
+Enny Romero|L|Bryce Brentz|R|Strikeout|B|Four-Seam Fastball|12|0|1|2|13|97
+Enny Romero|L|Bryce Brentz|R|Strikeout|F|Four-Seam Fastball|13|1|1|2|5|97
+Enny Romero|L|Bryce Brentz|R|Strikeout|B|Four-Seam Fastball|14|1|2|2|11|99
+Enny Romero|L|Bryce Brentz|R|Strikeout|S|Four-Seam Fastball|15|2|2|2|11|99
+Enny Romero|L|Christian Vazquez|R|Pop Out|X|Four-Seam Fastball|16|0|0|0|5|95
+Enny Romero|L|Marco Hernandez|L|Strikeout|C|Four-Seam Fastball|17|0|0|1|11|96
+Enny Romero|L|Marco Hernandez|L|Strikeout|C|Slider|18|0|1|1|3|84
+Enny Romero|L|Marco Hernandez|L|Strikeout|F|Four-Seam Fastball|19|0|2|1|1|97
+Enny Romero|L|Marco Hernandez|L|Strikeout|B|Four-Seam Fastball|20|0|2|1|11|96
+Enny Romero|L|Marco Hernandez|L|Strikeout|B|Four-Seam Fastball|21|1|2|1|12|98
+Enny Romero|L|Marco Hernandez|L|Strikeout|S|Four-Seam Fastball|22|2|2|1|12|98
+Enny Romero|L|Mookie Betts|R|Flyout|C|Cutter|23|0|0|2|9|87
+Enny Romero|L|Mookie Betts|R|Flyout|B|Slider|24|0|1|2|12|84
+Enny Romero|L|Mookie Betts|R|Flyout|X|Four-Seam Fastball|25|1|1|2|5|97
+Enny Romero|L|Cameron Maybin|R|Single|B|Four-Seam Fastball|0|0|0|0|14|93
+Enny Romero|L|Cameron Maybin|R|Single|F|Four-Seam Fastball|1|1|0|0|1|94
+Enny Romero|L|Cameron Maybin|R|Single|B|Four-Seam Fastball|2|1|1|0|14|95
+Enny Romero|L|Cameron Maybin|R|Single|B|Four-Seam Fastball|3|2|1|0|14|95
+Enny Romero|L|Cameron Maybin|R|Single|D|Four-Seam Fastball|4|3|1|0|4|94
+Enny Romero|L|Miguel Cabrera|R|Single|D|Cutter|5|0|0|0|7|88
+Enny Romero|L|Victor Martinez|R|Home Run|F|Four-Seam Fastball|6|0|0|0|6|95
+Enny Romero|L|Victor Martinez|R|Home Run|E|Cutter|7|0|1|0|4|89
+Enny Romero|L|Nicholas Castellanos|R|Flyout|B|Four-Seam Fastball|8|0|0|0|2|95
+Enny Romero|L|Nicholas Castellanos|R|Flyout|F|Four-Seam Fastball|9|1|0|0|3|94
+Enny Romero|L|Nicholas Castellanos|R|Flyout|X|Four-Seam Fastball|10|1|1|0|7|96
+Enny Romero|L|Justin Upton|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|9|95
+Enny Romero|L|Justin Upton|R|Strikeout|S|Slider|12|0|1|1|14|84
+Enny Romero|L|Justin Upton|R|Strikeout|F|Four-Seam Fastball|13|0|2|1|1|96
+Enny Romero|L|Justin Upton|R|Strikeout|B|Four-Seam Fastball|14|0|2|1|12|96
+Enny Romero|L|Justin Upton|R|Strikeout|B|Four-Seam Fastball|15|1|2|1|14|97
+Enny Romero|L|Justin Upton|R|Strikeout|C|Slider|16|2|2|1|5|84
+Enny Romero|L|Mike Aviles|R|Single|C|Four-Seam Fastball|17|0|0|2|5|96
+Enny Romero|L|Mike Aviles|R|Single|B|Four-Seam Fastball|18|0|1|2|12|96
+Enny Romero|L|Mike Aviles|R|Single|B|Slider|19|1|1|2|13|84
+Enny Romero|L|Mike Aviles|R|Single|C|Slider|20|2|1|2|12|83
+Enny Romero|L|Mike Aviles|R|Single|F|Four-Seam Fastball|21|2|2|2|12|96
+Enny Romero|L|Mike Aviles|R|Single|B|Four-Seam Fastball|22|2|2|2|13|97
+Enny Romero|L|Mike Aviles|R|Single|D|Four-Seam Fastball|23|3|2|2|13|96
+Enny Romero|L|Kole Calhoun|L|Walk|F|Cutter|0|0|0|0|1|86
+Enny Romero|L|Kole Calhoun|L|Walk|C|Slider|1|0|1|0|1|83
+Enny Romero|L|Kole Calhoun|L|Walk|B|Four-Seam Fastball|2|0|2|0|11|97
+Enny Romero|L|Kole Calhoun|L|Walk|F|Four-Seam Fastball|3|1|2|0|11|97
+Enny Romero|L|Kole Calhoun|L|Walk|B|Four-Seam Fastball|4|1|2|0|12|97
+Enny Romero|L|Kole Calhoun|L|Walk|B|Slider|5|2|2|0|14|85
+Enny Romero|L|Kole Calhoun|L|Walk|B|Four-Seam Fastball|6|3|2|0|14|97
+Enny Romero|L|Albert Pujols|R|Single|B|Four-Seam Fastball|7|0|0|0|14|97
+Enny Romero|L|Albert Pujols|R|Single|C|Cutter|8|1|0|0|8|90
+Enny Romero|L|Albert Pujols|R|Single|B|Four-Seam Fastball|9|1|1|0|12|98
+Enny Romero|L|Albert Pujols|R|Single|F|Four-Seam Fastball|10|2|1|0|7|97
+Enny Romero|L|Albert Pujols|R|Single|F|Cutter|11|2|2|0|6|89
+Enny Romero|L|Albert Pujols|R|Single|D|Slider|12|2|2|0|9|85
+Enny Romero|L|C.J. Cron|R|Home Run|C|Four-Seam Fastball|13|0|0|0|2|97
+Enny Romero|L|C.J. Cron|R|Home Run|E|Four-Seam Fastball|14|0|1|0|5|97
+Enny Romero|L|Kole Calhoun|L|Strikeout|S|Cutter|0|0|0|2|13|86
+Enny Romero|L|Kole Calhoun|L|Strikeout|B|Four-Seam Fastball|1|0|1|2|11|94
+Enny Romero|L|Kole Calhoun|L|Strikeout|B|Slider|2|1|1|2|13|86
+Enny Romero|L|Kole Calhoun|L|Strikeout|F|Four-Seam Fastball|3|2|1|2|8|93
+Enny Romero|L|Kole Calhoun|L|Strikeout|C|Slider|4|2|2|2|12|86
+Enny Romero|L|Chris Davis|L|Double|C|Four-Seam Fastball|0|0|0|0|13|94
+Enny Romero|L|Chris Davis|L|Double|X|Four-Seam Fastball|1|0|1|0|8|95
+Enny Romero|L|Matt Wieters|R|Intent Walk|I|N/A|2|0|0|1|0|0
+Enny Romero|L|Matt Wieters|R|Intent Walk|I|Intentional Ball|3|0|1|1|12|52
+Enny Romero|L|Matt Wieters|R|Intent Walk|I|Intentional Ball|4|0|2|1|12|49
+Enny Romero|L|Matt Wieters|R|Intent Walk|I|N/A|5|0|2|1|0|0
+Enny Romero|L|Mark Reynolds|R|Groundout|F|Four-Seam Fastball|0|0|0|0|1|93
+Enny Romero|L|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|1|0|1|0|12|95
+Enny Romero|L|Mark Reynolds|R|Groundout|S|Four-Seam Fastball|2|1|1|0|3|95
+Enny Romero|L|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|3|1|2|0|11|96
+Enny Romero|L|Mark Reynolds|R|Groundout|F|Four-Seam Fastball|4|2|2|0|3|96
+Enny Romero|L|Mark Reynolds|R|Groundout|F|Four-Seam Fastball|5|2|2|0|1|95
+Enny Romero|L|Mark Reynolds|R|Groundout|X|Four-Seam Fastball|6|2|2|0|5|96
+Enny Romero|L|Nick Hundley|R|Groundout|X|Four-Seam Fastball|7|0|0|1|8|95
+Enny Romero|L|Tyler Anderson|L|Groundout|B|Four-Seam Fastball|8|0|0|2|14|95
+Enny Romero|L|Tyler Anderson|L|Groundout|X|Four-Seam Fastball|9|1|0|2|9|95
+Enny Romero|L|Tony Wolters|L|Single|B|Four-Seam Fastball|0|0|0|0|11|94
+Enny Romero|L|Tony Wolters|L|Single|B|Four-Seam Fastball|1|1|0|0|11|94
+Enny Romero|L|Tony Wolters|L|Single|B|Four-Seam Fastball|2|2|0|0|12|95
+Enny Romero|L|Tony Wolters|L|Single|C|Four-Seam Fastball|3|3|0|0|11|95
+Enny Romero|L|Tony Wolters|L|Single|F|Four-Seam Fastball|4|3|1|0|6|94
+Enny Romero|L|Tony Wolters|L|Single|D|Four-Seam Fastball|5|3|2|0|9|96
+Enny Romero|L|Brandon Barnes|R|Pop Out|X|Four-Seam Fastball|6|0|0|0|11|95
+Enny Romero|L|Ryan Raburn|R|Walk|B|Four-Seam Fastball|7|0|0|1|13|95
+Enny Romero|L|Ryan Raburn|R|Walk|*B|Slider|8|1|0|1|13|83
+Enny Romero|L|Ryan Raburn|R|Walk|C|Cutter|9|2|0|1|5|89
+Enny Romero|L|Ryan Raburn|R|Walk|B|Cutter|10|2|1|1|13|90
+Enny Romero|L|Ryan Raburn|R|Walk|B|Four-Seam Fastball|11|3|1|1|13|97
+Enny Romero|L|DJ LeMahieu|R|Flyout|C|Four-Seam Fastball|12|0|0|1|11|97
+Enny Romero|L|DJ LeMahieu|R|Flyout|C|Cutter|13|0|1|1|2|90
+Enny Romero|L|DJ LeMahieu|R|Flyout|X|Slider|14|0|2|1|13|86
+Enny Romero|L|Cristhian Adames|R|Strikeout|C|Cutter|15|0|0|2|4|89
+Enny Romero|L|Cristhian Adames|R|Strikeout|S|Slider|16|0|1|2|8|85
+Enny Romero|L|Cristhian Adames|R|Strikeout|S|Slider|17|0|2|2|13|83
+Enny Romero|L|Josh Reddick|L|Walk|*B|Cutter|0|0|0|2|13|88
+Enny Romero|L|Josh Reddick|L|Walk|B|Cutter|1|1|0|2|13|87
+Enny Romero|L|Josh Reddick|L|Walk|*B|Slider|2|2|0|2|13|87
+Enny Romero|L|Josh Reddick|L|Walk|C|Four-Seam Fastball|3|3|0|2|8|93
+Enny Romero|L|Josh Reddick|L|Walk|B|Slider|4|3|1|2|13|86
+Enny Romero|L|Kendrys Morales|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|95
+Enny Romero|L|Kendrys Morales|R|Strikeout|B|Cutter|1|0|1|0|13|91
+Enny Romero|L|Kendrys Morales|R|Strikeout|S|Cutter|2|1|1|0|8|90
+Enny Romero|L|Kendrys Morales|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|97
+Enny Romero|L|Kendrys Morales|R|Strikeout|T|Four-Seam Fastball|4|2|2|0|12|98
+Enny Romero|L|Salvador Perez|R|Single|D|Four-Seam Fastball|5|0|0|1|12|96
+Enny Romero|L|Alex Gordon|L|Flyout|X|Four-Seam Fastball|6|0|0|1|6|97
+Enny Romero|L|Paulo Orlando|R|Single|C|Cutter|7|0|0|2|4|90
+Enny Romero|L|Paulo Orlando|R|Single|D|Slider|8|0|1|2|8|85
+Enny Romero|L|Adalberto Mondesi|R|Groundout|B|Four-Seam Fastball|9|0|0|2|12|98
+Enny Romero|L|Adalberto Mondesi|R|Groundout|S|Cutter|10|1|0|2|13|90
+Enny Romero|L|Adalberto Mondesi|R|Groundout|S|Cutter|11|1|1|2|13|90
+Enny Romero|L|Adalberto Mondesi|R|Groundout|F|Four-Seam Fastball|12|1|2|2|3|96
+Enny Romero|L|Adalberto Mondesi|R|Groundout|F|Four-Seam Fastball|13|1|2|2|13|98
+Enny Romero|L|Adalberto Mondesi|R|Groundout|B|Four-Seam Fastball|14|1|2|2|11|98
+Enny Romero|L|Adalberto Mondesi|R|Groundout|X|Cutter|15|2|2|2|4|93
+Enny Romero|L|Kendrys Morales|R|Walk|C|Four-Seam Fastball|0|0|0|0|12|94
+Enny Romero|L|Kendrys Morales|R|Walk|B|Cutter|1|0|1|0|13|90
+Enny Romero|L|Kendrys Morales|R|Walk|F|Cutter|2|1|1|0|13|89
+Enny Romero|L|Kendrys Morales|R|Walk|B|Four-Seam Fastball|3|1|2|0|11|95
+Enny Romero|L|Kendrys Morales|R|Walk|F|Cutter|4|2|2|0|13|91
+Enny Romero|L|Kendrys Morales|R|Walk|B|Four-Seam Fastball|5|2|2|0|12|97
+Enny Romero|L|Kendrys Morales|R|Walk|B|Cutter|6|3|2|0|14|89
+Enny Romero|L|Salvador Perez|R|Flyout|C|Cutter|7|0|0|0|13|89
+Enny Romero|L|Salvador Perez|R|Flyout|B|Four-Seam Fastball|8|0|1|0|14|96
+Enny Romero|L|Salvador Perez|R|Flyout|B|Four-Seam Fastball|9|1|1|0|12|96
+Enny Romero|L|Salvador Perez|R|Flyout|B|Cutter|10|2|1|0|13|89
+Enny Romero|L|Salvador Perez|R|Flyout|X|Four-Seam Fastball|11|3|1|0|8|96
+Enny Romero|L|Billy Burns|R|Flyout|C|Four-Seam Fastball|12|0|0|1|13|96
+Enny Romero|L|Billy Burns|R|Flyout|C|Slider|13|0|1|1|5|83
+Enny Romero|L|Billy Burns|R|Flyout|B|Four-Seam Fastball|14|0|2|1|11|96
+Enny Romero|L|Billy Burns|R|Flyout|X|Slider|15|1|2|1|2|84
+Enny Romero|L|Paulo Orlando|R|Strikeout|B|Four-Seam Fastball|16|0|0|2|13|96
+Enny Romero|L|Paulo Orlando|R|Strikeout|B|Cutter|17|1|0|2|13|90
+Enny Romero|L|Paulo Orlando|R|Strikeout|C|Four-Seam Fastball|18|2|0|2|13|97
+Enny Romero|L|Paulo Orlando|R|Strikeout|F|Slider|19|2|1|2|5|85
+Enny Romero|L|Paulo Orlando|R|Strikeout|B|Four-Seam Fastball|20|2|2|2|11|96
+Enny Romero|L|Paulo Orlando|R|Strikeout|F|Four-Seam Fastball|21|3|2|2|12|97
+Enny Romero|L|Paulo Orlando|R|Strikeout|F|Four-Seam Fastball|22|3|2|2|13|97
+Enny Romero|L|Paulo Orlando|R|Strikeout|S|Cutter|23|3|2|2|14|90
+Enny Romero|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|0|0|0|2|12|95
+Enny Romero|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|1|1|0|2|12|95
+Enny Romero|L|Jonathan Lucroy|R|Groundout|F|Four-Seam Fastball|2|2|0|2|2|96
+Enny Romero|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|3|2|1|2|13|96
+Enny Romero|L|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|4|3|1|2|9|95
+Enny Romero|L|Mitch Moreland|L|Strikeout|B|Four-Seam Fastball|5|0|0|0|11|96
+Enny Romero|L|Mitch Moreland|L|Strikeout|C|Cutter|6|1|0|0|5|90
+Enny Romero|L|Mitch Moreland|L|Strikeout|S|Slider|7|1|1|0|5|84
+Enny Romero|L|Mitch Moreland|L|Strikeout|W|Cutter|8|1|2|0|13|86
+Enny Romero|L|Chris Young|R|Walk|B|Four-Seam Fastball|0|0|0|2|3|91
+Enny Romero|L|Chris Young|R|Walk|S|Cutter|1|1|0|2|13|86
+Enny Romero|L|Chris Young|R|Walk|C|Slider|2|1|1|2|4|83
+Enny Romero|L|Chris Young|R|Walk|B|Four-Seam Fastball|3|1|2|2|12|95
+Enny Romero|L|Chris Young|R|Walk|F|Slider|4|2|2|2|7|83
+Enny Romero|L|Chris Young|R|Walk|B|Slider|5|2|2|2|14|83
+Enny Romero|L|Chris Young|R|Walk|B|Four-Seam Fastball|6|3|2|2|11|94
+Enny Romero|L|Aaron Hill|R|Grounded Into DP|C|Slider|7|0|0|2|7|86
+Enny Romero|L|Aaron Hill|R|Grounded Into DP|B|Cutter|8|0|1|2|12|88
+Enny Romero|L|Aaron Hill|R|Grounded Into DP|C|Cutter|9|1|1|2|6|89
+Enny Romero|L|Aaron Hill|R|Grounded Into DP|F|Four-Seam Fastball|10|1|2|2|3|95
+Enny Romero|L|Aaron Hill|R|Grounded Into DP|X|Slider|11|1|2|2|8|83
+Enny Romero|L|Andrew Benintendi|L|Strikeout|B|Slider|12|0|0|1|12|83
+Enny Romero|L|Andrew Benintendi|L|Strikeout|S|Cutter|13|1|0|1|4|86
+Enny Romero|L|Andrew Benintendi|L|Strikeout|F|Slider|14|1|1|1|14|83
+Enny Romero|L|Andrew Benintendi|L|Strikeout|W|Slider|15|1|2|1|13|82
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|B|Slider|0|0|0|2|3|82
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|B|Cutter|1|1|0|2|11|87
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|C|Four-Seam Fastball|2|2|0|2|11|94
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|S|Cutter|3|2|1|2|14|87
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|S|Slider|4|2|2|2|13|81
+Enny Romero|L|David Ortiz|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|11|95
+Enny Romero|L|David Ortiz|L|Strikeout|S|Cutter|1|1|0|1|7|91
+Enny Romero|L|David Ortiz|L|Strikeout|F|Four-Seam Fastball|2|1|1|1|12|97
+Enny Romero|L|David Ortiz|L|Strikeout|F|Four-Seam Fastball|3|1|2|1|3|97
+Enny Romero|L|David Ortiz|L|Strikeout|B|Four-Seam Fastball|4|1|2|1|12|97
+Enny Romero|L|David Ortiz|L|Strikeout|C|Cutter|5|2|2|1|2|88
+Enny Romero|L|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|3|94
+Enny Romero|L|Jake Marisnick|R|Strikeout|C|Cutter|1|0|1|0|6|87
+Enny Romero|L|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|12|96
+Enny Romero|L|George Springer|R|Walk|B|Slider|3|0|0|1|14|85
+Enny Romero|L|George Springer|R|Walk|B|Four-Seam Fastball|4|1|0|1|12|95
+Enny Romero|L|George Springer|R|Walk|B|Slider|5|2|0|1|14|87
+Enny Romero|L|George Springer|R|Walk|C|Four-Seam Fastball|6|3|0|1|9|94
+Enny Romero|L|George Springer|R|Walk|B|Four-Seam Fastball|7|3|1|1|14|95
+Enny Romero|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|8|0|0|1|12|96
+Enny Romero|L|Alex Bregman|R|Strikeout|S|Cutter|9|1|0|1|8|87
+Enny Romero|L|Alex Bregman|R|Strikeout|S|Cutter|10|1|1|1|14|88
+Enny Romero|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|11|1|2|1|12|96
+Enny Romero|L|Alex Bregman|R|Strikeout|S|Cutter|12|2|2|1|2|87
+Enny Romero|L|Jose Altuve|R|Strikeout|B|Slider|13|0|0|2|14|82
+Enny Romero|L|Jose Altuve|R|Strikeout|C|Slider|14|1|0|2|12|82
+Enny Romero|L|Jose Altuve|R|Strikeout|C|Four-Seam Fastball|15|1|1|2|14|95
+Enny Romero|L|Jose Altuve|R|Strikeout|B|Four-Seam Fastball|16|1|2|2|12|97
+Enny Romero|L|Jose Altuve|R|Strikeout|B|Four-Seam Fastball|17|2|2|2|12|97
+Enny Romero|L|Jose Altuve|R|Strikeout|S|Four-Seam Fastball|18|3|2|2|12|96
+Enny Romero|L|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Enny Romero|L|Teoscar Hernandez|R|Walk|B|Cutter|1|1|0|0|11|87
+Enny Romero|L|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|94
+Enny Romero|L|Teoscar Hernandez|R|Walk|C|Four-Seam Fastball|3|3|0|0|6|93
+Enny Romero|L|Teoscar Hernandez|R|Walk|B|Four-Seam Fastball|4|3|1|0|11|94
+Enny Romero|L|Tony Kemp|L|Flyout|B|Cutter|5|0|0|0|12|86
+Enny Romero|L|Tony Kemp|L|Flyout|C|Cutter|6|1|0|0|6|86
+Enny Romero|L|Tony Kemp|L|Flyout|X|Cutter|7|1|1|0|5|86
+Enny Romero|L|George Springer|R|Field Error|D|Cutter|8|0|0|1|14|88
+Enny Romero|L|Alex Bregman|R|Strikeout|F|Cutter|9|0|0|1|13|87
+Enny Romero|L|Alex Bregman|R|Strikeout|S|Four-Seam Fastball|10|0|1|1|12|94
+Enny Romero|L|Alex Bregman|R|Strikeout|B|Four-Seam Fastball|11|0|2|1|12|96
+Enny Romero|L|Alex Bregman|R|Strikeout|S|Slider|12|1|2|1|13|83
+Enny Romero|L|Jose Altuve|R|Groundout|C|Four-Seam Fastball|13|0|0|2|14|95
+Enny Romero|L|Jose Altuve|R|Groundout|B|Four-Seam Fastball|14|0|1|2|12|96
+Enny Romero|L|Jose Altuve|R|Groundout|T|Cutter|15|1|1|2|6|90
+Enny Romero|L|Jose Altuve|R|Groundout|X|Four-Seam Fastball|16|1|2|2|11|96
+Enny Romero|L|Chris Young|R|Strikeout|B|Slider|0|0|0|0|13|86
+Enny Romero|L|Chris Young|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|11|94
+Enny Romero|L|Chris Young|R|Strikeout|C|Four-Seam Fastball|2|2|0|0|8|94
+Enny Romero|L|Chris Young|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|4|94
+Enny Romero|L|Chris Young|R|Strikeout|S|Slider|4|2|2|0|14|81
+Enny Romero|L|Bryan Holaday|R|Groundout|C|Cutter|5|0|0|1|6|87
+Enny Romero|L|Bryan Holaday|R|Groundout|B|Four-Seam Fastball|6|0|1|1|12|95
+Enny Romero|L|Bryan Holaday|R|Groundout|B|Four-Seam Fastball|7|1|1|1|12|96
+Enny Romero|L|Bryan Holaday|R|Groundout|X|Cutter|8|2|1|1|14|87
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|C|Cutter|9|0|0|2|4|88
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|B|Slider|10|0|1|2|14|83
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|B|Four-Seam Fastball|11|1|1|2|12|95
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|C|Cutter|12|2|1|2|2|88
+Enny Romero|L|Jackie Bradley Jr.|L|Strikeout|S|Four-Seam Fastball|13|2|2|2|1|97
+Enny Romero|L|Russell Martin|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|94
+Enny Romero|L|Russell Martin|R|Walk|C|Cutter|1|1|0|0|3|87
+Enny Romero|L|Russell Martin|R|Walk|B|Slider|2|1|1|0|12|81
+Enny Romero|L|Russell Martin|R|Walk|C|Cutter|3|2|1|0|1|89
+Enny Romero|L|Russell Martin|R|Walk|F|Four-Seam Fastball|4|2|2|0|5|95
+Enny Romero|L|Russell Martin|R|Walk|B|Cutter|5|2|2|0|12|88
+Enny Romero|L|Russell Martin|R|Walk|B|Cutter|6|3|2|0|14|86
+Enny Romero|L|Troy Tulowitzki|R|Walk|S|Four-Seam Fastball|7|0|0|0|2|94
+Enny Romero|L|Troy Tulowitzki|R|Walk|F|Four-Seam Fastball|8|0|1|0|1|94
+Enny Romero|L|Troy Tulowitzki|R|Walk|B|Four-Seam Fastball|9|0|2|0|12|96
+Enny Romero|L|Troy Tulowitzki|R|Walk|B|Four-Seam Fastball|10|1|2|0|12|96
+Enny Romero|L|Troy Tulowitzki|R|Walk|*B|Slider|11|2|2|0|14|83
+Enny Romero|L|Troy Tulowitzki|R|Walk|B|Four-Seam Fastball|12|3|2|0|13|95
+Enny Romero|L|B.J. Upton|R|Pop Out|X|Four-Seam Fastball|13|0|0|0|7|95
+Enny Romero|L|Dioner Navarro|R|Groundout|B|Four-Seam Fastball|14|0|0|1|13|95
+Enny Romero|L|Dioner Navarro|R|Groundout|C|Cutter|15|1|0|1|8|87
+Enny Romero|L|Dioner Navarro|R|Groundout|W|Cutter|16|1|1|1|14|88
+Enny Romero|L|Dioner Navarro|R|Groundout|B|Cutter|17|1|2|1|13|90
+Enny Romero|L|Dioner Navarro|R|Groundout|F|Cutter|18|2|2|1|7|88
+Enny Romero|L|Dioner Navarro|R|Groundout|F|Four-Seam Fastball|19|2|2|1|8|96
+Enny Romero|L|Dioner Navarro|R|Groundout|F|Slider|20|2|2|1|9|83
+Enny Romero|L|Dioner Navarro|R|Groundout|B|Four-Seam Fastball|21|2|2|1|11|96
+Enny Romero|L|Dioner Navarro|R|Groundout|E|Cutter|22|3|2|1|14|88
+Enny Romero|L|Kevin Pillar|R|Walk|B|Four-Seam Fastball|23|0|0|2|13|95
+Enny Romero|L|Kevin Pillar|R|Walk|C|Cutter|24|1|0|2|8|88
+Enny Romero|L|Kevin Pillar|R|Walk|*B|Slider|25|1|1|2|13|83
+Enny Romero|L|Kevin Pillar|R|Walk|B|Cutter|26|2|1|2|14|88
+Enny Romero|L|Kevin Pillar|R|Walk|B|Four-Seam Fastball|27|3|1|2|13|97
+Enny Romero|L|Devon Travis|R|Single|B|Cutter|28|0|0|2|13|88
+Enny Romero|L|Devon Travis|R|Single|C|Four-Seam Fastball|29|1|0|2|4|96
+Enny Romero|L|Devon Travis|R|Single|F|Four-Seam Fastball|30|1|1|2|5|95
+Enny Romero|L|Devon Travis|R|Single|B|Four-Seam Fastball|31|1|2|2|11|95
+Enny Romero|L|Devon Travis|R|Single|B|Four-Seam Fastball|32|2|2|2|11|96
+Enny Romero|L|Devon Travis|R|Single|F|Four-Seam Fastball|33|3|2|2|5|97
+Enny Romero|L|Devon Travis|R|Single|E|Four-Seam Fastball|34|3|2|2|8|95
+Enny Romero|L|Steve Pearce|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|93
+Enny Romero|L|Steve Pearce|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|5|93
+Enny Romero|L|Steve Pearce|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|94
+Enny Romero|L|Steve Pearce|R|Strikeout|S|Cutter|3|2|1|0|13|87
+Enny Romero|L|Steve Pearce|R|Strikeout|S|Slider|4|2|2|0|8|81
+Enny Romero|L|Adam Jones|R|Flyout|S|Slider|5|0|0|1|13|85
+Enny Romero|L|Adam Jones|R|Flyout|B|Four-Seam Fastball|6|0|1|1|12|95
+Enny Romero|L|Adam Jones|R|Flyout|S|Slider|7|1|1|1|14|82
+Enny Romero|L|Adam Jones|R|Flyout|X|Four-Seam Fastball|8|1|2|1|8|95
+Enny Romero|L|Pedro Alvarez|L|Strikeout|B|Cutter|9|0|0|2|12|86
+Enny Romero|L|Pedro Alvarez|L|Strikeout|B|Cutter|10|1|0|2|13|87
+Enny Romero|L|Pedro Alvarez|L|Strikeout|S|Cutter|11|2|0|2|14|87
+Enny Romero|L|Pedro Alvarez|L|Strikeout|C|Cutter|12|2|1|2|2|86
+Enny Romero|L|Pedro Alvarez|L|Strikeout|S|Slider|13|2|2|2|4|82
+Enny Romero|L|Matt Wieters|R|Single|C|Four-Seam Fastball|0|0|0|0|6|92
+Enny Romero|L|Matt Wieters|R|Single|D|Cutter|1|0|1|0|13|87
+Enny Romero|L|Jonathan Schoop|R|Forceout|C|Four-Seam Fastball|2|0|0|0|6|93
+Enny Romero|L|Jonathan Schoop|R|Forceout|F|Four-Seam Fastball|3|0|1|0|2|95
+Enny Romero|L|Jonathan Schoop|R|Forceout|X|Four-Seam Fastball|4|0|2|0|3|97
+Enny Romero|L|J.J. Hardy|R|Walk|*B|Four-Seam Fastball|5|0|0|1|14|94
+Enny Romero|L|J.J. Hardy|R|Walk|C|Cutter|6|1|0|1|7|87
+Enny Romero|L|J.J. Hardy|R|Walk|B|Four-Seam Fastball|7|1|1|1|12|95
+Enny Romero|L|J.J. Hardy|R|Walk|B|Four-Seam Fastball|8|2|1|1|14|95
+Enny Romero|L|J.J. Hardy|R|Walk|F|Four-Seam Fastball|9|3|1|1|2|95
+Enny Romero|L|J.J. Hardy|R|Walk|B|Four-Seam Fastball|10|3|2|1|12|95
+Enny Romero|L|Nolan Reimold|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|12|95
+Enny Romero|L|Nolan Reimold|R|Strikeout|C|Cutter|12|1|0|1|2|87
+Enny Romero|L|Nolan Reimold|R|Strikeout|F|Cutter|13|1|1|1|8|86
+Enny Romero|L|Nolan Reimold|R|Strikeout|C|Four-Seam Fastball|14|1|2|1|4|96
+Enny Romero|L|Pedro Alvarez|L|Single|C|Four-Seam Fastball|15|0|0|2|5|97
+Enny Romero|L|Pedro Alvarez|L|Single|*B|Slider|16|0|1|2|13|83
+Enny Romero|L|Pedro Alvarez|L|Single|E|Four-Seam Fastball|17|1|1|2|13|97
+Enny Romero|L|Manny Machado|R|Single|B|Four-Seam Fastball|18|0|0|2|14|96
+Enny Romero|L|Manny Machado|R|Single|F|Four-Seam Fastball|19|1|0|2|6|97
+Enny Romero|L|Manny Machado|R|Single|F|Cutter|20|1|1|2|7|89
+Enny Romero|L|Manny Machado|R|Single|E|Four-Seam Fastball|21|1|2|2|12|97
+Enny Romero|L|Drew Stubbs|R|Strikeout|C|Four-Seam Fastball|22|0|0|2|14|97
+Enny Romero|L|Drew Stubbs|R|Strikeout|C|Four-Seam Fastball|23|0|1|2|8|97
+Enny Romero|L|Drew Stubbs|R|Strikeout|B|Four-Seam Fastball|24|0|2|2|12|98
+Enny Romero|L|Drew Stubbs|R|Strikeout|B|Four-Seam Fastball|25|1|2|2|12|98
+Enny Romero|L|Drew Stubbs|R|Strikeout|C|Four-Seam Fastball|26|2|2|2|11|97
+Enny Romero|L|Brian McCann|L|Flyout|B|Slider|0|0|0|0|13|85
+Enny Romero|L|Brian McCann|L|Flyout|X|Four-Seam Fastball|1|1|0|0|13|94
+Enny Romero|L|Chase Headley|R|Pop Out|B|Cutter|2|0|0|1|14|88
+Enny Romero|L|Chase Headley|R|Pop Out|X|Four-Seam Fastball|3|1|0|1|4|95
+Enny Romero|L|Brett Gardner|L|Single|B|Slider|0|0|0|0|13|87
+Enny Romero|L|Brett Gardner|L|Single|C|Cutter|1|1|0|0|4|88
+Enny Romero|L|Brett Gardner|L|Single|F|Slider|2|1|1|0|8|82
+Enny Romero|L|Brett Gardner|L|Single|D|Four-Seam Fastball|3|1|2|0|12|95
+Enny Romero|L|Jacoby Ellsbury|L|Double|C|Four-Seam Fastball|4|0|0|0|4|95
+Enny Romero|L|Jacoby Ellsbury|L|Double|C|Four-Seam Fastball|5|0|1|0|7|96
+Enny Romero|L|Jacoby Ellsbury|L|Double|D|Four-Seam Fastball|6|0|2|0|11|97
+Enny Romero|L|Gary Sanchez|R|Sac Fly|Z|Pitchout|7|0|0|0|12|51
+Enny Romero|L|Didi Gregorius|L|Sac Fly|E|Four-Seam Fastball|8|0|0|1|7|97
+Enny Romero|L|Starlin Castro|R|Groundout|C|Cutter|9|0|0|2|9|91
+Enny Romero|L|Starlin Castro|R|Groundout|F|Slider|10|0|1|2|14|83
+Enny Romero|L|Starlin Castro|R|Groundout|X|Four-Seam Fastball|11|0|2|2|14|96
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|B|Changeup|0|0|0|0|11|93
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|F|Slider|1|1|0|0|5|85
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|B|Slider|2|1|1|0|3|85
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|C|Slider|3|2|1|0|5|84
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|B|Cutter|4|2|2|0|11|87
+Enny Romero|L|Jacoby Ellsbury|L|Strikeout|S|Slider|5|3|2|0|13|86
+Enny Romero|L|Gary Sanchez|R|Walk|B|Slider|6|0|0|1|14|83
+Enny Romero|L|Gary Sanchez|R|Walk|C|Cutter|7|1|0|1|2|89
+Enny Romero|L|Gary Sanchez|R|Walk|B|Slider|8|1|1|1|14|83
+Enny Romero|L|Gary Sanchez|R|Walk|B|Four-Seam Fastball|9|2|1|1|14|96
+Enny Romero|L|Gary Sanchez|R|Walk|S|Four-Seam Fastball|10|3|1|1|11|96
+Enny Romero|L|Gary Sanchez|R|Walk|F|Four-Seam Fastball|11|3|2|1|6|97
+Enny Romero|L|Gary Sanchez|R|Walk|B|Four-Seam Fastball|12|3|2|1|11|97
+Enny Romero|L|Brian McCann|L|Strikeout|T|Four-Seam Fastball|13|0|0|1|1|96
+Enny Romero|L|Brian McCann|L|Strikeout|F|Cutter|14|0|1|1|5|87
+Enny Romero|L|Brian McCann|L|Strikeout|C|Four-Seam Fastball|15|0|2|1|7|97
+Enny Romero|L|Mark Teixeira|R|Strikeout|C|Four-Seam Fastball|16|0|0|2|13|97
+Enny Romero|L|Mark Teixeira|R|Strikeout|B|Cutter|17|0|1|2|12|89
+Enny Romero|L|Mark Teixeira|R|Strikeout|F|Four-Seam Fastball|18|1|1|2|4|96
+Enny Romero|L|Mark Teixeira|R|Strikeout|F|Four-Seam Fastball|19|1|2|2|1|97
+Enny Romero|L|Mark Teixeira|R|Strikeout|B|Four-Seam Fastball|20|1|2|2|12|97
+Enny Romero|L|Mark Teixeira|R|Strikeout|C|Slider|21|2|2|2|13|85
+Enny Romero|L|Justin Morneau|L|Home Run|S|Slider|0|0|0|2|14|86
+Enny Romero|L|Justin Morneau|L|Home Run|E|Cutter|1|0|1|2|6|88
+Enny Romero|L|Todd Frazier|R|Pop Out|B|Four-Seam Fastball|2|0|0|2|12|97
+Enny Romero|L|Todd Frazier|R|Pop Out|B|Cutter|3|1|0|2|12|91
+Enny Romero|L|Todd Frazier|R|Pop Out|S|Four-Seam Fastball|4|2|0|2|12|96
+Enny Romero|L|Todd Frazier|R|Pop Out|B|Cutter|5|2|1|2|13|90
+Enny Romero|L|Todd Frazier|R|Pop Out|X|Four-Seam Fastball|6|3|1|2|4|96
+Enny Romero|L|Avisail Garcia|R|Groundout|B|Four-Seam Fastball|7|0|0|0|11|95
+Enny Romero|L|Avisail Garcia|R|Groundout|S|Four-Seam Fastball|8|1|0|0|12|96
+Enny Romero|L|Avisail Garcia|R|Groundout|X|Slider|9|1|1|0|9|85
+Enny Romero|L|Omar Narvaez|L|Single|B|Cutter|10|0|0|1|12|88
+Enny Romero|L|Omar Narvaez|L|Single|C|Cutter|11|1|0|1|7|88
+Enny Romero|L|Omar Narvaez|L|Single|B|Four-Seam Fastball|12|1|1|1|14|95
+Enny Romero|L|Omar Narvaez|L|Single|F|Cutter|13|2|1|1|9|88
+Enny Romero|L|Omar Narvaez|L|Single|F|Four-Seam Fastball|14|2|2|1|1|97
+Enny Romero|L|Omar Narvaez|L|Single|B|Four-Seam Fastball|15|2|2|1|13|96
+Enny Romero|L|Omar Narvaez|L|Single|F|Four-Seam Fastball|16|3|2|1|14|96
+Enny Romero|L|Omar Narvaez|L|Single|D|Four-Seam Fastball|17|3|2|1|6|97
+Enny Romero|L|Yolmer Sanchez|R|Home Run|E|Four-Seam Fastball|18|0|0|1|4|94
+Enny Romero|L|Leury Garcia|R|Flyout|X|Four-Seam Fastball|19|0|0|1|9|96
+Enny Romero|L|Tim Anderson|R|Flyout|B|Cutter|20|0|0|2|14|90
+Enny Romero|L|Tim Anderson|R|Flyout|S|Cutter|21|1|0|2|9|88
+Enny Romero|L|Tim Anderson|R|Flyout|B|Slider|22|1|1|2|12|85
+Enny Romero|L|Tim Anderson|R|Flyout|X|Four-Seam Fastball|23|2|1|2|4|96
+Enny Romero|L|Adrian Beltre|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|2|95
+Enny Romero|L|Adrian Beltre|R|Pop Out|F|Four-Seam Fastball|1|0|1|0|11|97
+Enny Romero|L|Adrian Beltre|R|Pop Out|X|Four-Seam Fastball|2|0|2|0|11|97
+Enny Romero|L|Rougned Odor|L|Double|D|Four-Seam Fastball|3|0|0|1|8|96
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|B|Slider|4|0|0|1|13|88
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|B|Cutter|5|1|0|1|13|88
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|6|2|0|1|13|96
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|7|3|0|1|13|96
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|S|Cutter|8|3|1|1|13|90
+Enny Romero|L|Jonathan Lucroy|R|Strikeout|S|Four-Seam Fastball|9|3|2|1|3|96
+Enny Romero|L|Shin-Soo Choo|L|Flyout|B|Slider|10|0|0|2|14|88
+Enny Romero|L|Shin-Soo Choo|L|Flyout|S|Four-Seam Fastball|11|1|0|2|2|97
+Enny Romero|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|12|1|1|2|1|97
+Enny Romero|L|Shin-Soo Choo|L|Flyout|X|Four-Seam Fastball|13|1|2|2|11|97
+Enny Romero|L|Derek Dietrich|L|Hit By Pitch|H|Four-Seam Fastball|0|0|0|2|12|97
+Enny Romero|L|Adeiny Hechavarria|R|Single|C|Slider|1|0|0|2|11|91
+Enny Romero|L|Adeiny Hechavarria|R|Single|F|Four-Seam Fastball|2|0|1|2|4|97
+Enny Romero|L|Adeiny Hechavarria|R|Single|B|Four-Seam Fastball|3|0|2|2|11|94
+Enny Romero|L|Adeiny Hechavarria|R|Single|D|Four-Seam Fastball|4|1|2|2|3|97
+Enny Romero|L|Miguel Rojas|R|Grounded Into DP|F|Four-Seam Fastball|5|0|0|2|6|98
+Enny Romero|L|Miguel Rojas|R|Grounded Into DP|X|Four-Seam Fastball|6|0|1|2|4|94
+Enny Romero|L|Dee Gordon|L|Strikeout|F|Slider|7|0|0|1|5|91
+Enny Romero|L|Dee Gordon|L|Strikeout|T|Four-Seam Fastball|8|0|1|1|6|98
+Enny Romero|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|9|0|2|1|1|99
+Enny Romero|L|Dee Gordon|L|Strikeout|S|Slider|10|0|2|1|2|89
+Enny Romero|L|J.T. Realmuto|R|Home Run|B|Slider|11|0|0|2|11|86
+Enny Romero|L|J.T. Realmuto|R|Home Run|C|Slider|12|1|0|2|13|84
+Enny Romero|L|J.T. Realmuto|R|Home Run|B|Slider|13|1|1|2|14|91
+Enny Romero|L|J.T. Realmuto|R|Home Run|E|Slider|14|2|1|2|5|90
+Enny Romero|L|Christian Yelich|L|Single|B|Slider|15|0|0|2|12|86
+Enny Romero|L|Christian Yelich|L|Single|F|Four-Seam Fastball|16|1|0|2|5|97
+Enny Romero|L|Christian Yelich|L|Single|S|Slider|17|1|1|2|14|90
+Enny Romero|L|Christian Yelich|L|Single|B|Slider|18|1|2|2|11|90
+Enny Romero|L|Christian Yelich|L|Single|D|Four-Seam Fastball|19|2|2|2|12|97
+Enny Romero|L|Howie Kendrick|R|Single|B|Four-Seam Fastball|0|0|0|2|13|94
+Enny Romero|L|Howie Kendrick|R|Single|C|Four-Seam Fastball|1|1|0|2|13|95
+Enny Romero|L|Howie Kendrick|R|Single|D|Four-Seam Fastball|2|1|1|2|1|96
+Enny Romero|L|Odubel Herrera|L|Walk|B|Four-Seam Fastball|3|0|0|2|13|96
+Enny Romero|L|Odubel Herrera|L|Walk|S|Slider|4|1|0|2|7|91
+Enny Romero|L|Odubel Herrera|L|Walk|F|Four-Seam Fastball|5|1|1|2|7|96
+Enny Romero|L|Odubel Herrera|L|Walk|B|Four-Seam Fastball|6|1|2|2|12|96
+Enny Romero|L|Odubel Herrera|L|Walk|F|Slider|7|2|2|2|13|92
+Enny Romero|L|Odubel Herrera|L|Walk|B|Four-Seam Fastball|8|2|2|2|13|98
+Enny Romero|L|Odubel Herrera|L|Walk|B|Slider|9|3|2|2|13|91
+Enny Romero|L|Maikel Franco|R|Double|E|Four-Seam Fastball|0|0|0|2|5|95
+Enny Romero|L|Michael Saunders|L|Double|S|Four-Seam Fastball|1|0|0|2|12|97
+Enny Romero|L|Michael Saunders|L|Double|T|Four-Seam Fastball|2|0|1|2|2|97
+Enny Romero|L|Michael Saunders|L|Double|B|Four-Seam Fastball|3|0|2|2|13|98
+Enny Romero|L|Michael Saunders|L|Double|B|Four-Seam Fastball|4|1|2|2|14|96
+Enny Romero|L|Michael Saunders|L|Double|B|Slider|5|2|2|2|11|88
+Enny Romero|L|Michael Saunders|L|Double|F|Four-Seam Fastball|6|3|2|2|6|97
+Enny Romero|L|Michael Saunders|L|Double|E|Four-Seam Fastball|7|3|2|2|9|97
+Enny Romero|L|Tommy Joseph|R|Single|F|Slider|8|0|0|2|4|86
+Enny Romero|L|Tommy Joseph|R|Single|B|Four-Seam Fastball|9|0|1|2|11|97
+Enny Romero|L|Tommy Joseph|R|Single|F|Four-Seam Fastball|10|1|1|2|6|96
+Enny Romero|L|Tommy Joseph|R|Single|B|Four-Seam Fastball|11|1|2|2|11|98
+Enny Romero|L|Tommy Joseph|R|Single|F|Four-Seam Fastball|12|2|2|2|7|97
+Enny Romero|L|Tommy Joseph|R|Single|E|Four-Seam Fastball|13|2|2|2|2|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|F|Slider|14|0|0|2|11|89
+Enny Romero|L|Cameron Rupp|R|Strikeout|B|Four-Seam Fastball|15|0|1|2|13|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|B|Four-Seam Fastball|16|1|1|2|6|97
+Enny Romero|L|Cameron Rupp|R|Strikeout|C|Slider|17|2|1|2|14|86
+Enny Romero|L|Cameron Rupp|R|Strikeout|F|Four-Seam Fastball|18|2|2|2|13|93
+Enny Romero|L|Cameron Rupp|R|Strikeout|F|Four-Seam Fastball|19|2|2|2|13|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|S|Four-Seam Fastball|20|2|2|2|9|98
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Slider|21|0|0|0|12|85
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Four-Seam Fastball|22|1|0|0|12|96
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|23|2|0|0|5|95
+Enny Romero|L|Freddy Galvis|R|Strikeout|C|Slider|24|2|1|0|6|89
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|25|2|2|0|1|96
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Slider|26|2|2|0|11|90
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|27|3|2|0|11|94
+Enny Romero|L|Freddy Galvis|R|Strikeout|S|Four-Seam Fastball|28|3|2|0|12|97
+Enny Romero|L|Aaron Nola|R|Single|B|Four-Seam Fastball|29|0|0|1|11|96
+Enny Romero|L|Aaron Nola|R|Single|C|Four-Seam Fastball|30|1|0|1|5|95
+Enny Romero|L|Aaron Nola|R|Single|C|Four-Seam Fastball|31|1|1|1|14|95
+Enny Romero|L|Aaron Nola|R|Single|D|Four-Seam Fastball|32|1|2|1|6|97
+Enny Romero|L|Cesar Hernandez|R|Field Error|B|Four-Seam Fastball|33|0|0|1|13|96
+Enny Romero|L|Cesar Hernandez|R|Field Error|C|Slider|34|1|0|1|1|83
+Enny Romero|L|Cesar Hernandez|R|Field Error|D|Four-Seam Fastball|35|1|1|1|5|95
+Enny Romero|L|Howie Kendrick|R|Lineout|B|Slider|36|0|0|1|13|90
+Enny Romero|L|Howie Kendrick|R|Lineout|C|Slider|37|1|0|1|1|89
+Enny Romero|L|Howie Kendrick|R|Lineout|B|Four-Seam Fastball|38|1|1|1|13|97
+Enny Romero|L|Howie Kendrick|R|Lineout|F|Four-Seam Fastball|39|2|1|1|7|96
+Enny Romero|L|Howie Kendrick|R|Lineout|X|Four-Seam Fastball|40|2|2|1|7|97
+Enny Romero|L|Odubel Herrera|L|Field Error|F|Slider|41|0|0|2|1|89
+Enny Romero|L|Odubel Herrera|L|Field Error|F|Slider|42|0|1|2|9|86
+Enny Romero|L|Odubel Herrera|L|Field Error|F|Four-Seam Fastball|43|0|2|2|6|98
+Enny Romero|L|Odubel Herrera|L|Field Error|F|Slider|44|0|2|2|13|86
+Enny Romero|L|Odubel Herrera|L|Field Error|B|Slider|45|0|2|2|13|85
+Enny Romero|L|Odubel Herrera|L|Field Error|E|Four-Seam Fastball|46|1|2|2|13|96
+Enny Romero|L|Maikel Franco|R|Groundout|C|Slider|47|0|0|2|5|88
+Enny Romero|L|Maikel Franco|R|Groundout|S|Slider|48|0|1|2|8|88
+Enny Romero|L|Maikel Franco|R|Groundout|*B|Slider|49|0|2|2|13|89
+Enny Romero|L|Maikel Franco|R|Groundout|B|Four-Seam Fastball|50|1|2|2|12|97
+Enny Romero|L|Maikel Franco|R|Groundout|X|Four-Seam Fastball|51|2|2|2|11|98
+Enny Romero|L|Mike Leake|R|Groundout|B|Four-Seam Fastball|0|0|0|2|12|93
+Enny Romero|L|Mike Leake|R|Groundout|X|Four-Seam Fastball|1|1|0|2|13|95
+Enny Romero|L|Dexter Fowler|R|Single|B|Four-Seam Fastball|2|0|0|0|12|95
+Enny Romero|L|Dexter Fowler|R|Single|X|Slider|3|1|0|0|2|91
+Enny Romero|L|Greg Garcia|L|Hit By Pitch|H|Four-Seam Fastball|4|0|0|1|12|96
+Enny Romero|L|Matt Carpenter|L|Strikeout|C|Slider|5|0|0|1|11|89
+Enny Romero|L|Matt Carpenter|L|Strikeout|S|Slider|6|0|1|1|5|86
+Enny Romero|L|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|7|0|2|1|5|98
+Enny Romero|L|Chase d'Arnaud|R|Walk|B|N/A|0|0|0|0|0|0
+Enny Romero|L|Chase d'Arnaud|R|Walk|B|N/A|1|1|0|0|0|0
+Enny Romero|L|Chase d'Arnaud|R|Walk|B|N/A|2|2|0|0|0|0
+Enny Romero|L|Chase d'Arnaud|R|Walk|B|N/A|3|3|0|0|0|0
+Enny Romero|L|Dansby Swanson|R|Groundout|C|N/A|4|0|0|0|0|0
+Enny Romero|L|Dansby Swanson|R|Groundout|C|N/A|5|0|1|0|0|0
+Enny Romero|L|Dansby Swanson|R|Groundout|B|N/A|6|0|2|0|0|0
+Enny Romero|L|Dansby Swanson|R|Groundout|X|N/A|7|1|2|0|0|0
+Enny Romero|L|Freddie Freeman|L|Single|B|N/A|8|0|0|1|0|0
+Enny Romero|L|Freddie Freeman|L|Single|B|N/A|9|1|0|1|0|0
+Enny Romero|L|Freddie Freeman|L|Single|B|N/A|10|2|0|1|0|0
+Enny Romero|L|Freddie Freeman|L|Single|C|N/A|11|3|0|1|0|0
+Enny Romero|L|Freddie Freeman|L|Single|E|N/A|12|3|1|1|0|0
+Enny Romero|L|Nick Markakis|L|Strikeout|B|N/A|13|0|0|1|0|0
+Enny Romero|L|Nick Markakis|L|Strikeout|B|N/A|14|1|0|1|0|0
+Enny Romero|L|Nick Markakis|L|Strikeout|T|N/A|15|2|0|1|0|0
+Enny Romero|L|Nick Markakis|L|Strikeout|F|N/A|16|2|1|1|0|0
+Enny Romero|L|Nick Markakis|L|Strikeout|T|N/A|17|2|2|1|0|0
+Enny Romero|L|Brandon Phillips|R|Groundout|F|N/A|18|0|0|2|0|0
+Enny Romero|L|Brandon Phillips|R|Groundout|B|N/A|19|0|1|2|0|0
+Enny Romero|L|Brandon Phillips|R|Groundout|B|N/A|20|1|1|2|0|0
+Enny Romero|L|Brandon Phillips|R|Groundout|S|N/A|21|2|1|2|0|0
+Enny Romero|L|Brandon Phillips|R|Groundout|X|N/A|22|2|2|2|0|0
+Enny Romero|L|Jay Bruce|L|Flyout|B|Slider|0|0|0|2|11|85
+Enny Romero|L|Jay Bruce|L|Flyout|X|Four-Seam Fastball|1|1|0|2|4|97
+Enny Romero|L|Neil Walker|R|Flyout|X|Four-Seam Fastball|2|0|0|0|8|97
+Enny Romero|L|Curtis Granderson|L|Pop Out|B|Slider|3|0|0|1|13|86
+Enny Romero|L|Curtis Granderson|L|Pop Out|B|Slider|4|1|0|1|13|91
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|5|2|0|1|2|98
+Enny Romero|L|Curtis Granderson|L|Pop Out|T|Four-Seam Fastball|6|2|1|1|5|98
+Enny Romero|L|Curtis Granderson|L|Pop Out|B|Four-Seam Fastball|7|2|2|1|12|99
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|8|3|2|1|1|99
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|9|3|2|1|11|98
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|10|3|2|1|11|98
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|11|3|2|1|7|98
+Enny Romero|L|Curtis Granderson|L|Pop Out|F|Four-Seam Fastball|12|3|2|1|4|99
+Enny Romero|L|Curtis Granderson|L|Pop Out|X|Four-Seam Fastball|13|3|2|1|2|97
+Enny Romero|L|Jose Reyes|R|Flyout|C|Four-Seam Fastball|0|0|0|0|1|95
+Enny Romero|L|Jose Reyes|R|Flyout|B|Four-Seam Fastball|1|0|1|0|12|97
+Enny Romero|L|Jose Reyes|R|Flyout|B|Slider|2|1|1|0|11|85
+Enny Romero|L|Jose Reyes|R|Flyout|X|Slider|3|2|1|0|2|91
+Enny Romero|L|Juan Lagares|R|Flyout|X|Slider|4|0|0|1|4|90
+Enny Romero|L|Michael Conforto|L|Strikeout|B|Four-Seam Fastball|5|0|0|2|12|97
+Enny Romero|L|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|6|1|0|2|1|96
+Enny Romero|L|Michael Conforto|L|Strikeout|C|Slider|7|1|1|2|2|84
+Enny Romero|L|Michael Conforto|L|Strikeout|S|Slider|8|1|2|2|13|85
+Enny Romero|L|Asdrubal Cabrera|R|Strikeout|C|Four-Seam Fastball|9|0|0|0|11|96
+Enny Romero|L|Asdrubal Cabrera|R|Strikeout|S|Four-Seam Fastball|10|0|1|0|4|97
+Enny Romero|L|Asdrubal Cabrera|R|Strikeout|S|Four-Seam Fastball|11|0|2|0|6|98
+Enny Romero|L|Jay Bruce|L|Flyout|B|Slider|12|0|0|1|13|86
+Enny Romero|L|Jay Bruce|L|Flyout|F|Four-Seam Fastball|13|1|0|1|2|98
+Enny Romero|L|Jay Bruce|L|Flyout|X|Four-Seam Fastball|14|1|1|1|1|98
+Enny Romero|L|Trevor Story|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|96
+Enny Romero|L|Trevor Story|R|Pop Out|B|Four-Seam Fastball|1|1|0|0|7|94
+Enny Romero|L|Trevor Story|R|Pop Out|B|Four-Seam Fastball|2|2|0|0|11|97
+Enny Romero|L|Trevor Story|R|Pop Out|C|Four-Seam Fastball|3|3|0|0|1|96
+Enny Romero|L|Trevor Story|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|11|97
+Enny Romero|L|Tony Wolters|L|Strikeout|B|Slider|5|0|0|1|11|86
+Enny Romero|L|Tony Wolters|L|Strikeout|C|Four-Seam Fastball|6|1|0|1|11|96
+Enny Romero|L|Tony Wolters|L|Strikeout|C|Slider|7|1|1|1|5|85
+Enny Romero|L|Tony Wolters|L|Strikeout|F|Slider|8|1|2|1|11|85
+Enny Romero|L|Tony Wolters|L|Strikeout|W|Slider|9|1|2|1|13|85
+Enny Romero|L|Pat Valaika|R|Double|S|Four-Seam Fastball|10|0|0|2|11|97
+Enny Romero|L|Pat Valaika|R|Double|B|Four-Seam Fastball|11|0|1|2|12|97
+Enny Romero|L|Pat Valaika|R|Double|D|Four-Seam Fastball|12|1|1|2|11|97
+Enny Romero|L|Charlie Blackmon|L|Home Run|C|Four-Seam Fastball|13|0|0|2|4|97
+Enny Romero|L|Charlie Blackmon|L|Home Run|E|Slider|14|0|1|2|14|86
+Enny Romero|L|Gerardo Parra|L|Groundout|C|Four-Seam Fastball|0|0|0|2|4|95
+Enny Romero|L|Gerardo Parra|L|Groundout|C|Four-Seam Fastball|1|0|1|2|1|96
+Enny Romero|L|Gerardo Parra|L|Groundout|F|Four-Seam Fastball|2|0|2|2|1|98
+Enny Romero|L|Gerardo Parra|L|Groundout|B|Four-Seam Fastball|3|0|2|2|7|97
+Enny Romero|L|Gerardo Parra|L|Groundout|B|Four-Seam Fastball|4|1|2|2|13|97
+Enny Romero|L|Gerardo Parra|L|Groundout|F|Four-Seam Fastball|5|2|2|2|4|97
+Enny Romero|L|Gerardo Parra|L|Groundout|F|Four-Seam Fastball|6|2|2|2|1|98
+Enny Romero|L|Gerardo Parra|L|Groundout|X|Four-Seam Fastball|7|2|2|2|13|97
+Enny Romero|L|Trevor Story|R|Flyout|B|Curveball|8|0|0|0|14|81
+Enny Romero|L|Trevor Story|R|Flyout|F|Four-Seam Fastball|9|1|0|0|12|95
+Enny Romero|L|Trevor Story|R|Flyout|B|Four-Seam Fastball|10|1|1|0|11|95
+Enny Romero|L|Trevor Story|R|Flyout|X|Four-Seam Fastball|11|2|1|0|3|95
+Enny Romero|L|Tony Wolters|L|Single|C|Four-Seam Fastball|12|0|0|1|1|95
+Enny Romero|L|Tony Wolters|L|Single|B|Four-Seam Fastball|13|0|1|1|11|98
+Enny Romero|L|Tony Wolters|L|Single|C|Slider|14|1|1|1|2|86
+Enny Romero|L|Tony Wolters|L|Single|D|Four-Seam Fastball|15|1|2|1|1|96
+Enny Romero|L|Cristhian Adames|R|Forceout|X|Four-Seam Fastball|16|0|0|1|2|96
+Enny Romero|L|Charlie Blackmon|L|Groundout|X|Four-Seam Fastball|17|0|0|2|8|98
+Enny Romero|L|Neil Walker|R|Strikeout|C|Slider|0|0|0|0|9|83
+Enny Romero|L|Neil Walker|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|97
+Enny Romero|L|Neil Walker|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|1|98
+Enny Romero|L|Neil Walker|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|99
+Enny Romero|L|Neil Walker|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|99
+Enny Romero|L|Neil Walker|R|Strikeout|S|Four-Seam Fastball|5|2|2|0|3|99
+Enny Romero|L|Curtis Granderson|L|Flyout|B|Four-Seam Fastball|6|0|0|1|12|98
+Enny Romero|L|Curtis Granderson|L|Flyout|X|Four-Seam Fastball|7|1|0|1|1|99
+Enny Romero|L|Jose Reyes|R|Walk|C|Slider|8|0|0|2|11|90
+Enny Romero|L|Jose Reyes|R|Walk|B|Four-Seam Fastball|9|0|1|2|12|98
+Enny Romero|L|Jose Reyes|R|Walk|B|Four-Seam Fastball|10|1|1|2|12|99
+Enny Romero|L|Jose Reyes|R|Walk|B|Slider|11|2|1|2|14|90
+Enny Romero|L|Jose Reyes|R|Walk|B|Four-Seam Fastball|12|3|1|2|12|99
+Enny Romero|L|T.J. Rivera|R|Flyout|X|Four-Seam Fastball|13|0|0|2|8|98
+Enny Romero|L|Juan Lagares|R|Flyout|B|Slider|0|0|0|2|12|84
+Enny Romero|L|Juan Lagares|R|Flyout|C|Four-Seam Fastball|1|1|0|2|9|96
+Enny Romero|L|Juan Lagares|R|Flyout|F|Four-Seam Fastball|2|1|1|2|9|97
+Enny Romero|L|Juan Lagares|R|Flyout|B|Four-Seam Fastball|3|1|2|2|14|98
+Enny Romero|L|Juan Lagares|R|Flyout|B|Four-Seam Fastball|4|2|2|2|14|98
+Enny Romero|L|Juan Lagares|R|Flyout|X|Four-Seam Fastball|5|3|2|2|11|100
+Enny Romero|L|Michael Conforto|L|Home Run|B|Four-Seam Fastball|6|0|0|0|13|98
+Enny Romero|L|Michael Conforto|L|Home Run|C|Slider|7|1|0|0|6|88
+Enny Romero|L|Michael Conforto|L|Home Run|B|Slider|8|1|1|0|12|86
+Enny Romero|L|Michael Conforto|L|Home Run|B|Four-Seam Fastball|9|2|1|0|7|99
+Enny Romero|L|Michael Conforto|L|Home Run|E|Four-Seam Fastball|10|3|1|0|7|98
+Enny Romero|L|Asdrubal Cabrera|R|Groundout|S|Four-Seam Fastball|11|0|0|0|13|99
+Enny Romero|L|Asdrubal Cabrera|R|Groundout|F|Four-Seam Fastball|12|0|1|0|2|99
+Enny Romero|L|Asdrubal Cabrera|R|Groundout|X|Four-Seam Fastball|13|0|2|0|9|99
+Enny Romero|L|Jay Bruce|L|Groundout|F|Four-Seam Fastball|14|0|0|1|7|100
+Enny Romero|L|Jay Bruce|L|Groundout|X|Four-Seam Fastball|15|0|1|1|7|99
+Enny Romero|L|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|4|98
+Enny Romero|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|13|100
+Enny Romero|L|Jake Lamb|L|Strikeout|B|Four-Seam Fastball|2|1|1|0|11|100
+Enny Romero|L|Jake Lamb|L|Strikeout|T|Four-Seam Fastball|3|2|1|0|7|100
+Enny Romero|L|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|8|100
+Enny Romero|L|Jake Lamb|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|13|100
+Enny Romero|L|Yasmany Tomas|R|Strikeout|S|Four-Seam Fastball|6|0|0|1|13|100
+Enny Romero|L|Yasmany Tomas|R|Strikeout|S|Four-Seam Fastball|7|0|1|1|1|100
+Enny Romero|L|Yasmany Tomas|R|Strikeout|S|Four-Seam Fastball|8|0|2|1|12|100
+Enny Romero|L|Chris Iannetta|R|Single|F|Four-Seam Fastball|9|0|0|2|5|99
+Enny Romero|L|Chris Iannetta|R|Single|D|Four-Seam Fastball|10|0|1|2|8|100
+Enny Romero|L|Daniel Descalso|L|Groundout|B|Four-Seam Fastball|11|0|0|2|13|100
+Enny Romero|L|Daniel Descalso|L|Groundout|X|Four-Seam Fastball|12|1|0|2|5|99
+Enny Romero|L|Michael Saunders|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|8|97
+Enny Romero|L|Michael Saunders|L|Strikeout|F|Four-Seam Fastball|1|0|1|2|2|98
+Enny Romero|L|Michael Saunders|L|Strikeout|S|Four-Seam Fastball|2|0|2|2|13|97
+Enny Romero|L|Cameron Rupp|R|Strikeout|C|Slider|3|0|0|0|11|89
+Enny Romero|L|Cameron Rupp|R|Strikeout|S|Slider|4|0|1|0|13|87
+Enny Romero|L|Cameron Rupp|R|Strikeout|B|Four-Seam Fastball|5|0|2|0|12|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|F|Four-Seam Fastball|6|1|2|0|12|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|B|Four-Seam Fastball|7|1|2|0|12|98
+Enny Romero|L|Cameron Rupp|R|Strikeout|S|Four-Seam Fastball|8|2|2|0|12|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|S|Four-Seam Fastball|9|0|0|1|11|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|10|0|1|1|2|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Four-Seam Fastball|11|0|2|1|12|98
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Four-Seam Fastball|12|1|2|1|11|98
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|13|2|2|1|13|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|B|Slider|14|2|2|1|13|88
+Enny Romero|L|Freddy Galvis|R|Strikeout|S|Four-Seam Fastball|15|3|2|1|3|99
+Enny Romero|L|Daniel Nava|R|Groundout|B|Slider|16|0|0|2|13|85
+Enny Romero|L|Daniel Nava|R|Groundout|B|Four-Seam Fastball|17|1|0|2|13|97
+Enny Romero|L|Daniel Nava|R|Groundout|F|Four-Seam Fastball|18|2|0|2|13|99
+Enny Romero|L|Daniel Nava|R|Groundout|X|Four-Seam Fastball|19|2|1|2|5|98
+Enny Romero|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|14|94
+Enny Romero|L|Andrew Knapp|R|Strikeout|C|Four-Seam Fastball|1|1|0|2|6|96
+Enny Romero|L|Andrew Knapp|R|Strikeout|T|Four-Seam Fastball|2|1|1|2|11|97
+Enny Romero|L|Andrew Knapp|R|Strikeout|C|Four-Seam Fastball|3|1|2|2|5|98
+Enny Romero|L|Brock Stassi|L|Single|B|Four-Seam Fastball|4|0|0|0|13|98
+Enny Romero|L|Brock Stassi|L|Single|B|Four-Seam Fastball|5|1|0|0|13|98
+Enny Romero|L|Brock Stassi|L|Single|*B|Four-Seam Fastball|6|2|0|0|13|95
+Enny Romero|L|Brock Stassi|L|Single|C|Four-Seam Fastball|7|3|0|0|3|97
+Enny Romero|L|Brock Stassi|L|Single|D|Four-Seam Fastball|8|3|1|0|14|98
+Enny Romero|L|Cesar Hernandez|R|Forceout|B|Four-Seam Fastball|9|0|0|0|13|98
+Enny Romero|L|Cesar Hernandez|R|Forceout|X|Four-Seam Fastball|10|1|0|0|14|98
+Enny Romero|L|Daniel Nava|R|Flyout|X|Four-Seam Fastball|11|0|0|1|11|97
+Enny Romero|L|Chris Davis|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|97
+Enny Romero|L|Chris Davis|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|99
+Enny Romero|L|Chris Davis|L|Walk|B|Four-Seam Fastball|2|2|0|0|13|98
+Enny Romero|L|Chris Davis|L|Walk|C|N/A|3|3|0|0|0|0
+Enny Romero|L|Chris Davis|L|Walk|B|Four-Seam Fastball|4|3|1|0|14|98
+Enny Romero|L|Mark Trumbo|R|Forceout|C|Four-Seam Fastball|5|0|0|0|7|99
+Enny Romero|L|Mark Trumbo|R|Forceout|S|Four-Seam Fastball|6|0|1|0|4|100
+Enny Romero|L|Mark Trumbo|R|Forceout|X|Four-Seam Fastball|7|0|2|0|4|100
+Enny Romero|L|Trey Mancini|R|Lineout|X|Four-Seam Fastball|8|0|0|1|7|100
+Enny Romero|L|Jonathan Schoop|R|Double|B|Four-Seam Fastball|9|0|0|2|13|101
+Enny Romero|L|Jonathan Schoop|R|Double|F|Four-Seam Fastball|10|1|0|2|8|100
+Enny Romero|L|Jonathan Schoop|R|Double|B|Four-Seam Fastball|11|1|1|2|12|99
+Enny Romero|L|Jonathan Schoop|R|Double|E|Four-Seam Fastball|12|2|1|2|3|101
+Enny Romero|L|J.J. Hardy|R|Single|B|Four-Seam Fastball|13|0|0|2|11|100
+Enny Romero|L|J.J. Hardy|R|Single|B|Four-Seam Fastball|14|1|0|2|3|98
+Enny Romero|L|J.J. Hardy|R|Single|E|Four-Seam Fastball|15|2|0|2|5|99
+Enny Romero|L|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|16|0|0|2|3|99
+Enny Romero|L|Caleb Joseph|R|Strikeout|F|Four-Seam Fastball|17|0|1|2|6|99
+Enny Romero|L|Caleb Joseph|R|Strikeout|S|Four-Seam Fastball|18|0|2|2|12|100
+Enny Romero|L|Seth Smith|L|Single|B|Four-Seam Fastball|19|0|0|0|11|97
+Enny Romero|L|Seth Smith|L|Single|C|Four-Seam Fastball|20|1|0|0|5|96
+Enny Romero|L|Seth Smith|L|Single|C|Slider|21|1|1|0|3|85
+Enny Romero|L|Seth Smith|L|Single|F|Four-Seam Fastball|22|1|2|0|1|99
+Enny Romero|L|Seth Smith|L|Single|B|Slider|23|1|2|0|14|86
+Enny Romero|L|Seth Smith|L|Single|B|Slider|24|2|2|0|12|86
+Enny Romero|L|Seth Smith|L|Single|D|Four-Seam Fastball|25|3|2|0|1|99
+Enny Romero|L|Ty Kelly|R|Double|B|Curveball|0|0|0|0|14|82
+Enny Romero|L|Ty Kelly|R|Double|C|Four-Seam Fastball|1|1|0|0|11|94
+Enny Romero|L|Ty Kelly|R|Double|F|Four-Seam Fastball|2|1|1|0|11|97
+Enny Romero|L|Ty Kelly|R|Double|F|Four-Seam Fastball|3|1|2|0|12|98
+Enny Romero|L|Ty Kelly|R|Double|F|Four-Seam Fastball|4|1|2|0|12|97
+Enny Romero|L|Ty Kelly|R|Double|F|Four-Seam Fastball|5|1|2|0|1|99
+Enny Romero|L|Ty Kelly|R|Double|B|Four-Seam Fastball|6|1|2|0|11|99
+Enny Romero|L|Ty Kelly|R|Double|D|Four-Seam Fastball|7|2|2|0|4|98
+Enny Romero|L|Cesar Hernandez|R|Pop Out|B|Four-Seam Fastball|8|0|0|0|11|98
+Enny Romero|L|Cesar Hernandez|R|Pop Out|B|Four-Seam Fastball|9|1|0|0|11|97
+Enny Romero|L|Cesar Hernandez|R|Pop Out|B|Four-Seam Fastball|10|2|0|0|11|98
+Enny Romero|L|Cesar Hernandez|R|Pop Out|C|Four-Seam Fastball|11|3|0|0|11|97
+Enny Romero|L|Cesar Hernandez|R|Pop Out|S|Four-Seam Fastball|12|3|1|0|5|98
+Enny Romero|L|Cesar Hernandez|R|Pop Out|F|Four-Seam Fastball|13|3|2|0|11|98
+Enny Romero|L|Cesar Hernandez|R|Pop Out|F|Four-Seam Fastball|14|3|2|0|3|99
+Enny Romero|L|Cesar Hernandez|R|Pop Out|X|Four-Seam Fastball|15|3|2|0|13|98
+Enny Romero|L|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|16|0|0|1|13|98
+Enny Romero|L|Odubel Herrera|L|Strikeout|B|Four-Seam Fastball|17|1|0|1|11|98
+Enny Romero|L|Odubel Herrera|L|Strikeout|S|Slider|18|2|0|1|4|89
+Enny Romero|L|Odubel Herrera|L|Strikeout|F|Four-Seam Fastball|19|2|1|1|5|99
+Enny Romero|L|Odubel Herrera|L|Strikeout|S|Four-Seam Fastball|20|2|2|1|13|98
+Enny Romero|L|Cesar Hernandez|R|Lineout|S|Four-Seam Fastball|0|0|0|1|2|94
+Enny Romero|L|Cesar Hernandez|R|Lineout|B|Four-Seam Fastball|1|0|1|1|12|97
+Enny Romero|L|Cesar Hernandez|R|Lineout|B|Four-Seam Fastball|2|1|1|1|11|98
+Enny Romero|L|Cesar Hernandez|R|Lineout|F|Four-Seam Fastball|3|2|1|1|1|96
+Enny Romero|L|Cesar Hernandez|R|Lineout|F|Four-Seam Fastball|4|2|2|1|3|96
+Enny Romero|L|Cesar Hernandez|R|Lineout|X|Slider|5|2|2|1|8|90
+Enny Romero|L|Daniel Nava|R|Groundout|B|Four-Seam Fastball|6|0|0|2|13|97
+Enny Romero|L|Daniel Nava|R|Groundout|C|Four-Seam Fastball|7|1|0|2|11|98
+Enny Romero|L|Daniel Nava|R|Groundout|X|Four-Seam Fastball|8|1|1|2|2|98
+Enny Romero|L|John Jaso|L|Flyout|C|Four-Seam Fastball|0|0|0|0|4|97
+Enny Romero|L|John Jaso|L|Flyout|B|Four-Seam Fastball|1|0|1|0|11|98
+Enny Romero|L|John Jaso|L|Flyout|S|Four-Seam Fastball|2|1|1|0|4|97
+Enny Romero|L|John Jaso|L|Flyout|B|Four-Seam Fastball|3|1|2|0|11|98
+Enny Romero|L|John Jaso|L|Flyout|B|Four-Seam Fastball|4|2|2|0|13|99
+Enny Romero|L|John Jaso|L|Flyout|X|Four-Seam Fastball|5|3|2|0|11|99
+Enny Romero|L|David Freese|R|Groundout|F|Slider|6|0|0|1|7|89
+Enny Romero|L|David Freese|R|Groundout|B|Four-Seam Fastball|7|0|1|1|3|98
+Enny Romero|L|David Freese|R|Groundout|T|Four-Seam Fastball|8|1|1|1|1|98
+Enny Romero|L|David Freese|R|Groundout|X|Four-Seam Fastball|9|1|2|1|13|98
+Enny Romero|L|Josh Bell|R|Strikeout|C|Slider|10|0|0|2|3|87
+Enny Romero|L|Josh Bell|R|Strikeout|F|Slider|11|0|1|2|14|85
+Enny Romero|L|Josh Bell|R|Strikeout|F|Four-Seam Fastball|12|0|2|2|3|97
+Enny Romero|L|Josh Bell|R|Strikeout|F|Four-Seam Fastball|13|0|2|2|8|98
+Enny Romero|L|Josh Bell|R|Strikeout|B|Four-Seam Fastball|14|0|2|2|14|99
+Enny Romero|L|Josh Bell|R|Strikeout|B|Four-Seam Fastball|15|1|2|2|13|98
+Enny Romero|L|Josh Bell|R|Strikeout|S|Slider|16|2|2|2|13|90
+Enny Romero|L|Josh Bell|R|Flyout|S|Four-Seam Fastball|0|0|0|1|3|95
+Enny Romero|L|Josh Bell|R|Flyout|S|Four-Seam Fastball|1|0|1|1|7|97
+Enny Romero|L|Josh Bell|R|Flyout|X|Four-Seam Fastball|2|0|2|1|11|98
+Enny Romero|L|John Jaso|L|Groundout|C|Slider|3|0|0|2|1|85
+Enny Romero|L|John Jaso|L|Groundout|X|Four-Seam Fastball|4|0|1|2|13|97
+Enny Romero|L|Jordy Mercer|R|Walk|C|Four-Seam Fastball|5|0|0|0|6|94
+Enny Romero|L|Jordy Mercer|R|Walk|B|Slider|6|0|1|0|12|88
+Enny Romero|L|Jordy Mercer|R|Walk|B|Slider|7|1|1|0|13|87
+Enny Romero|L|Jordy Mercer|R|Walk|F|Four-Seam Fastball|8|2|1|0|11|95
+Enny Romero|L|Jordy Mercer|R|Walk|B|Four-Seam Fastball|9|2|2|0|14|95
+Enny Romero|L|Jordy Mercer|R|Walk|F|Slider|10|3|2|0|9|90
+Enny Romero|L|Jordy Mercer|R|Walk|B|Four-Seam Fastball|11|3|2|0|14|97
+Enny Romero|L|Danny Ortiz|L|Single|B|Four-Seam Fastball|12|0|0|0|12|95
+Enny Romero|L|Danny Ortiz|L|Single|B|Slider|13|1|0|0|12|87
+Enny Romero|L|Danny Ortiz|L|Single|F|Four-Seam Fastball|14|2|0|0|14|95
+Enny Romero|L|Danny Ortiz|L|Single|S|Four-Seam Fastball|15|2|1|0|14|97
+Enny Romero|L|Danny Ortiz|L|Single|D|Four-Seam Fastball|16|2|2|0|9|97
+Enny Romero|L|Chris Stewart|R|Single|B|Four-Seam Fastball|17|0|0|1|12|95
+Enny Romero|L|Chris Stewart|R|Single|F|Four-Seam Fastball|18|1|0|1|4|97
+Enny Romero|L|Chris Stewart|R|Single|F|Four-Seam Fastball|19|1|1|1|4|97
+Enny Romero|L|Chris Stewart|R|Single|F|Four-Seam Fastball|20|1|2|1|8|98
+Enny Romero|L|Chris Stewart|R|Single|B|Four-Seam Fastball|21|1|2|1|12|96
+Enny Romero|L|Chris Stewart|R|Single|F|Four-Seam Fastball|22|2|2|1|11|97
+Enny Romero|L|Chris Stewart|R|Single|B|Four-Seam Fastball|23|2|2|1|13|99
+Enny Romero|L|Chris Stewart|R|Single|D|Four-Seam Fastball|24|3|2|1|8|98
+Enny Romero|L|Gift Ngoepe|R|Strikeout|C|Four-Seam Fastball|25|0|0|1|11|96
+Enny Romero|L|Gift Ngoepe|R|Strikeout|F|Slider|26|0|1|1|7|91
+Enny Romero|L|Gift Ngoepe|R|Strikeout|B|Four-Seam Fastball|27|0|2|1|12|99
+Enny Romero|L|Gift Ngoepe|R|Strikeout|S|Four-Seam Fastball|28|1|2|1|2|99
+Enny Romero|L|Adam Frazier|L|Single|E|Four-Seam Fastball|29|0|0|2|2|96
+Enny Romero|L|Josh Harrison|R|Flyout|X|Four-Seam Fastball|30|0|0|2|6|97
+Enny Romero|L|Ender Inciarte|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|3|94
+Enny Romero|L|Ender Inciarte|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|11|95
+Enny Romero|L|Ender Inciarte|L|Strikeout|S|Four-Seam Fastball|2|0|2|0|9|98
+Enny Romero|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|3|0|0|1|14|96
+Enny Romero|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|4|1|0|1|9|98
+Enny Romero|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|5|2|0|1|12|97
+Enny Romero|L|Brandon Phillips|R|Walk|C|Four-Seam Fastball|6|3|0|1|13|97
+Enny Romero|L|Brandon Phillips|R|Walk|B|Four-Seam Fastball|7|3|1|1|12|97
+Enny Romero|L|Nick Markakis|L|Single|B|Slider|8|0|0|1|11|88
+Enny Romero|L|Nick Markakis|L|Single|S|Slider|9|1|0|1|7|88
+Enny Romero|L|Nick Markakis|L|Single|F|Four-Seam Fastball|10|1|1|1|5|98
+Enny Romero|L|Nick Markakis|L|Single|F|Four-Seam Fastball|11|1|2|1|8|97
+Enny Romero|L|Nick Markakis|L|Single|F|Four-Seam Fastball|12|1|2|1|2|98
+Enny Romero|L|Nick Markakis|L|Single|B|Four-Seam Fastball|13|1|2|1|13|97
+Enny Romero|L|Nick Markakis|L|Single|F|Four-Seam Fastball|14|2|2|1|13|98
+Enny Romero|L|Nick Markakis|L|Single|E|Four-Seam Fastball|15|2|2|1|14|97
+Enny Romero|L|Matt Kemp|R|Lineout|B|Slider|16|0|0|1|13|90
+Enny Romero|L|Matt Kemp|R|Lineout|F|Slider|17|1|0|1|13|90
+Enny Romero|L|Matt Kemp|R|Lineout|X|Four-Seam Fastball|18|1|1|1|3|97
+Enny Romero|L|Kurt Suzuki|R|Home Run|C|Four-Seam Fastball|19|0|0|2|8|96
+Enny Romero|L|Kurt Suzuki|R|Home Run|B|Slider|20|0|1|2|13|90
+Enny Romero|L|Kurt Suzuki|R|Home Run|E|Slider|21|1|1|2|6|90
+Enny Romero|L|Johan Camargo|R|Flyout|B|Slider|22|0|0|2|12|90
+Enny Romero|L|Johan Camargo|R|Flyout|X|Four-Seam Fastball|23|1|0|2|14|98
+Enny Romero|L|Kyle Seager|L|Lineout|B|Four-Seam Fastball|0|0|0|0|12|94
+Enny Romero|L|Kyle Seager|L|Lineout|F|Four-Seam Fastball|1|1|0|0|11|96
+Enny Romero|L|Kyle Seager|L|Lineout|B|Slider|2|1|1|0|11|89
+Enny Romero|L|Kyle Seager|L|Lineout|F|Four-Seam Fastball|3|2|1|0|11|97
+Enny Romero|L|Kyle Seager|L|Lineout|X|Four-Seam Fastball|4|2|2|0|2|97
+Enny Romero|L|Robinson Cano|L|Single|D|Slider|5|0|0|1|5|85
+Enny Romero|L|Danny Valencia|R|Flyout|B|Four-Seam Fastball|6|0|0|1|13|98
+Enny Romero|L|Danny Valencia|R|Flyout|F|Four-Seam Fastball|7|1|0|1|12|98
+Enny Romero|L|Danny Valencia|R|Flyout|C|Four-Seam Fastball|8|1|1|1|11|99
+Enny Romero|L|Danny Valencia|R|Flyout|F|Four-Seam Fastball|9|1|2|1|1|98
+Enny Romero|L|Danny Valencia|R|Flyout|F|Four-Seam Fastball|10|1|2|1|12|99
+Enny Romero|L|Danny Valencia|R|Flyout|B|Four-Seam Fastball|11|1|2|1|11|99
+Enny Romero|L|Danny Valencia|R|Flyout|X|Four-Seam Fastball|12|2|2|1|2|98
+Enny Romero|L|Wil Myers|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|96
+Enny Romero|L|Wil Myers|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|98
+Enny Romero|L|Wil Myers|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|2|98
+Enny Romero|L|Wil Myers|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|98
+Enny Romero|L|Wil Myers|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|11|99
+Enny Romero|L|Wil Myers|R|Strikeout|F|Four-Seam Fastball|5|3|2|0|13|99
+Enny Romero|L|Wil Myers|R|Strikeout|S|Four-Seam Fastball|6|3|2|0|6|99
+Enny Romero|L|Ryan Schimpf|L|Strikeout|C|Four-Seam Fastball|7|0|0|1|13|97
+Enny Romero|L|Ryan Schimpf|L|Strikeout|S|Slider|8|0|1|1|8|86
+Enny Romero|L|Ryan Schimpf|L|Strikeout|W|Slider|9|0|2|1|13|87
+Enny Romero|L|Hunter Renfroe|R|Walk|F|Four-Seam Fastball|10|0|0|2|5|99
+Enny Romero|L|Hunter Renfroe|R|Walk|C|Four-Seam Fastball|11|0|1|2|7|99
+Enny Romero|L|Hunter Renfroe|R|Walk|B|Four-Seam Fastball|12|0|2|2|11|99
+Enny Romero|L|Hunter Renfroe|R|Walk|B|Four-Seam Fastball|13|1|2|2|13|99
+Enny Romero|L|Hunter Renfroe|R|Walk|B|Four-Seam Fastball|14|2|2|2|13|99
+Enny Romero|L|Hunter Renfroe|R|Walk|B|Four-Seam Fastball|15|3|2|2|13|100
+Enny Romero|L|Franchy Cordero|L|Strikeout|B|Four-Seam Fastball|16|0|0|2|13|99
+Enny Romero|L|Franchy Cordero|L|Strikeout|F|Four-Seam Fastball|17|1|0|2|4|97
+Enny Romero|L|Franchy Cordero|L|Strikeout|B|Four-Seam Fastball|18|1|1|2|11|100
+Enny Romero|L|Franchy Cordero|L|Strikeout|S|Four-Seam Fastball|19|2|1|2|4|99
+Enny Romero|L|Franchy Cordero|L|Strikeout|C|Four-Seam Fastball|20|2|2|2|11|99
+Enny Romero|L|Matt Joyce|L|Groundout|B|Four-Seam Fastball|0|0|0|2|13|94
+Enny Romero|L|Matt Joyce|L|Groundout|C|Four-Seam Fastball|1|1|0|2|11|95
+Enny Romero|L|Matt Joyce|L|Groundout|B|Four-Seam Fastball|2|1|1|2|11|96
+Enny Romero|L|Matt Joyce|L|Groundout|F|Four-Seam Fastball|3|2|1|2|7|96
+Enny Romero|L|Matt Joyce|L|Groundout|F|Four-Seam Fastball|4|2|2|2|6|98
+Enny Romero|L|Matt Joyce|L|Groundout|B|Four-Seam Fastball|5|2|2|2|11|98
+Enny Romero|L|Matt Joyce|L|Groundout|X|Four-Seam Fastball|6|3|2|2|7|97
+Enny Romero|L|Chad Pinder|R|Walk|B|Four-Seam Fastball|7|0|0|0|13|95
+Enny Romero|L|Chad Pinder|R|Walk|B|Four-Seam Fastball|8|1|0|0|13|96
+Enny Romero|L|Chad Pinder|R|Walk|T|Four-Seam Fastball|9|2|0|0|1|97
+Enny Romero|L|Chad Pinder|R|Walk|B|Four-Seam Fastball|10|2|1|0|1|97
+Enny Romero|L|Chad Pinder|R|Walk|F|Four-Seam Fastball|11|3|1|0|1|96
+Enny Romero|L|Chad Pinder|R|Walk|B|Four-Seam Fastball|12|3|2|0|11|98
+Enny Romero|L|Jed Lowrie|R|Pop Out|S|Four-Seam Fastball|13|0|0|0|13|97
+Enny Romero|L|Jed Lowrie|R|Pop Out|*B|Slider|14|0|1|0|14|86
+Enny Romero|L|Jed Lowrie|R|Pop Out|X|Four-Seam Fastball|15|1|1|0|13|96
+Enny Romero|L|Khris Davis|R|Strikeout|S|Four-Seam Fastball|16|0|0|1|5|97
+Enny Romero|L|Khris Davis|R|Strikeout|S|Four-Seam Fastball|17|0|1|1|11|98
+Enny Romero|L|Khris Davis|R|Strikeout|B|Four-Seam Fastball|18|0|2|1|11|98
+Enny Romero|L|Khris Davis|R|Strikeout|S|Four-Seam Fastball|19|1|2|1|13|97
+Enny Romero|L|Yonder Alonso|L|Walk|B|Four-Seam Fastball|20|0|0|2|13|98
+Enny Romero|L|Yonder Alonso|L|Walk|B|Slider|21|1|0|2|14|88
+Enny Romero|L|Yonder Alonso|L|Walk|C|Four-Seam Fastball|22|2|0|2|13|98
+Enny Romero|L|Yonder Alonso|L|Walk|C|Four-Seam Fastball|23|2|1|2|7|98
+Enny Romero|L|Yonder Alonso|L|Walk|B|Slider|24|2|2|2|13|85
+Enny Romero|L|Yonder Alonso|L|Walk|B|Four-Seam Fastball|25|3|2|2|14|99
+Enny Romero|L|Trevor Plouffe|R|Pop Out|B|Four-Seam Fastball|26|0|0|2|14|99
+Enny Romero|L|Trevor Plouffe|R|Pop Out|X|Four-Seam Fastball|27|1|0|2|11|99
+Enny Romero|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|94
+Enny Romero|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|96
+Enny Romero|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|96
+Enny Romero|L|Yasiel Puig|R|Walk|B|Four-Seam Fastball|3|3|0|0|11|95
+Enny Romero|L|Brett Eibner|R|Strikeout|C|Four-Seam Fastball|4|0|0|0|7|96
+Enny Romero|L|Brett Eibner|R|Strikeout|B|Four-Seam Fastball|5|0|1|0|13|93
+Enny Romero|L|Brett Eibner|R|Strikeout|F|Slider|6|1|1|0|7|89
+Enny Romero|L|Brett Eibner|R|Strikeout|B|Four-Seam Fastball|7|1|2|0|12|96
+Enny Romero|L|Brett Eibner|R|Strikeout|B|Four-Seam Fastball|8|2|2|0|12|98
+Enny Romero|L|Brett Eibner|R|Strikeout|T|Four-Seam Fastball|9|3|2|0|5|97
+Enny Romero|L|Yasmani Grandal|R|Lineout|X|Four-Seam Fastball|10|0|0|1|4|98
+Enny Romero|L|Logan Forsythe|R|Strikeout|B|Four-Seam Fastball|11|0|0|2|11|99
+Enny Romero|L|Logan Forsythe|R|Strikeout|C|Slider|12|1|0|2|11|90
+Enny Romero|L|Logan Forsythe|R|Strikeout|B|Slider|13|1|1|2|13|92
+Enny Romero|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|14|2|1|2|12|98
+Enny Romero|L|Logan Forsythe|R|Strikeout|T|Four-Seam Fastball|15|2|2|2|5|98
+Enny Romero|L|Corey Seager|L|Double|D|Slider|16|0|0|0|5|87
+Enny Romero|L|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|17|0|0|0|1|96
+Enny Romero|L|Chris Taylor|R|Strikeout|S|Slider|18|0|1|0|13|89
+Enny Romero|L|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|19|0|2|0|3|97
+Enny Romero|L|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|20|0|2|0|12|98
+Enny Romero|L|Franklin Gutierrez|R|Strikeout|C|Slider|21|0|0|1|5|91
+Enny Romero|L|Franklin Gutierrez|R|Strikeout|S|Four-Seam Fastball|22|0|1|1|14|98
+Enny Romero|L|Franklin Gutierrez|R|Strikeout|S|Four-Seam Fastball|23|0|2|1|3|98
+Enny Romero|L|Enrique Hernandez|R|Groundout|B|Four-Seam Fastball|24|0|0|2|13|97
+Enny Romero|L|Enrique Hernandez|R|Groundout|S|Four-Seam Fastball|25|1|0|2|5|97
+Enny Romero|L|Enrique Hernandez|R|Groundout|B|Four-Seam Fastball|26|1|1|2|14|97
+Enny Romero|L|Enrique Hernandez|R|Groundout|F|Four-Seam Fastball|27|2|1|2|8|99
+Enny Romero|L|Enrique Hernandez|R|Groundout|F|Four-Seam Fastball|28|2|2|2|5|98
+Enny Romero|L|Enrique Hernandez|R|Groundout|B|Four-Seam Fastball|29|2|2|2|13|99
+Enny Romero|L|Enrique Hernandez|R|Groundout|X|Four-Seam Fastball|30|3|2|2|6|98
+Enny Romero|L|Corey Seager|L|Groundout|B|Slider|0|0|0|1|13|87
+Enny Romero|L|Corey Seager|L|Groundout|B|Four-Seam Fastball|1|1|0|1|13|94
+Enny Romero|L|Corey Seager|L|Groundout|F|Four-Seam Fastball|2|2|0|1|6|96
+Enny Romero|L|Corey Seager|L|Groundout|X|Four-Seam Fastball|3|2|1|1|1|94
+Enny Romero|L|Adrian Gonzalez|L|Field Error|D|Slider|4|0|0|2|5|88
+Enny Romero|L|Yasmani Grandal|R|Caught Stealing 2B|B|Four-Seam Fastball|5|0|0|2|14|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|11|97
+Enny Romero|L|Jurickson Profar|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|13|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|B|Slider|2|1|1|0|11|91
+Enny Romero|L|Jurickson Profar|R|Strikeout|S|Four-Seam Fastball|3|2|1|0|11|97
+Enny Romero|L|Jurickson Profar|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|12|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|4|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|F|Four-Seam Fastball|6|2|2|0|11|99
+Enny Romero|L|Jurickson Profar|R|Strikeout|F|Four-Seam Fastball|7|2|2|0|12|99
+Enny Romero|L|Jurickson Profar|R|Strikeout|B|Slider|8|2|2|0|14|89
+Enny Romero|L|Jurickson Profar|R|Strikeout|S|Four-Seam Fastball|9|3|2|0|11|99
+Enny Romero|L|Joey Gallo|L|Double|D|Four-Seam Fastball|10|0|0|1|6|98
+Enny Romero|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|4|100
+Enny Romero|L|Delino DeShields|R|Strikeout|*B|Slider|12|0|1|1|13|92
+Enny Romero|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|13|1|1|1|12|93
+Enny Romero|L|Delino DeShields|R|Strikeout|S|Four-Seam Fastball|14|1|2|1|12|100
+Enny Romero|L|Andrew Cashner|R|Field Error|C|Four-Seam Fastball|15|0|0|2|8|98
+Enny Romero|L|Andrew Cashner|R|Field Error|C|Four-Seam Fastball|16|0|1|2|12|98
+Enny Romero|L|Andrew Cashner|R|Field Error|F|Four-Seam Fastball|17|0|2|2|4|100
+Enny Romero|L|Andrew Cashner|R|Field Error|F|Four-Seam Fastball|18|0|2|2|3|99
+Enny Romero|L|Andrew Cashner|R|Field Error|B|Four-Seam Fastball|19|0|2|2|12|99
+Enny Romero|L|Andrew Cashner|R|Field Error|D|Four-Seam Fastball|20|1|2|2|8|99
+Enny Romero|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|21|0|0|2|13|99
+Enny Romero|L|Shin-Soo Choo|L|Walk|B|Slider|22|1|0|2|12|91
+Enny Romero|L|Shin-Soo Choo|L|Walk|*B|Slider|23|2|0|2|14|91
+Enny Romero|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|24|3|0|2|11|98
+Enny Romero|L|Elvis Andrus|R|Strikeout|B|Slider|25|0|0|2|11|91
+Enny Romero|L|Elvis Andrus|R|Strikeout|C|Four-Seam Fastball|26|1|0|2|5|98
+Enny Romero|L|Elvis Andrus|R|Strikeout|B|Four-Seam Fastball|27|1|1|2|12|99
+Enny Romero|L|Elvis Andrus|R|Strikeout|C|Four-Seam Fastball|28|2|1|2|14|98
+Enny Romero|L|Elvis Andrus|R|Strikeout|S|Four-Seam Fastball|29|2|2|2|12|99
+Enny Romero|L|Jared Hoying|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|11|93
+Enny Romero|L|Jared Hoying|L|Pop Out|S|Four-Seam Fastball|1|0|1|0|13|97
+Enny Romero|L|Jared Hoying|L|Pop Out|X|Four-Seam Fastball|2|0|2|0|1|97
+Enny Romero|L|Jurickson Profar|R|Strikeout|C|Four-Seam Fastball|3|0|0|1|7|97
+Enny Romero|L|Jurickson Profar|R|Strikeout|B|Four-Seam Fastball|4|0|1|1|12|96
+Enny Romero|L|Jurickson Profar|R|Strikeout|S|Four-Seam Fastball|5|1|1|1|11|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|F|Four-Seam Fastball|6|1|2|1|11|98
+Enny Romero|L|Jurickson Profar|R|Strikeout|C|Four-Seam Fastball|7|1|2|1|12|98
+Enny Romero|L|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|8|0|0|2|5|99
+Enny Romero|L|Jonathan Lucroy|R|Groundout|F|Four-Seam Fastball|9|0|1|2|12|98
+Enny Romero|L|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|10|0|2|2|8|98
+Enny Romero|L|Shin-Soo Choo|L|Flyout|C|Four-Seam Fastball|11|0|0|0|11|95
+Enny Romero|L|Shin-Soo Choo|L|Flyout|B|Slider|12|0|1|0|11|89
+Enny Romero|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|13|1|1|0|8|97
+Enny Romero|L|Shin-Soo Choo|L|Flyout|B|Four-Seam Fastball|14|1|2|0|13|98
+Enny Romero|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|15|2|2|0|11|99
+Enny Romero|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|16|2|2|0|4|98
+Enny Romero|L|Shin-Soo Choo|L|Flyout|F|Four-Seam Fastball|17|2|2|0|11|99
+Enny Romero|L|Shin-Soo Choo|L|Flyout|B|Slider|18|2|2|0|12|89
+Enny Romero|L|Shin-Soo Choo|L|Flyout|X|Four-Seam Fastball|19|3|2|0|11|99
+Enny Romero|L|Danny Santana|R|Hit By Pitch|H|Four-Seam Fastball|0|0|0|1|11|97
+Enny Romero|L|Ender Inciarte|L|Sac Fly|E|Four-Seam Fastball|1|0|0|1|5|97
+Enny Romero|L|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|11|95
+Enny Romero|L|Nick Markakis|L|Strikeout|C|Four-Seam Fastball|1|0|1|2|11|96
+Enny Romero|L|Nick Markakis|L|Strikeout|C|Slider|2|0|2|2|2|88
+Enny Romero|L|Matt Kemp|R|Walk|B|Slider|3|0|0|0|11|88
+Enny Romero|L|Matt Kemp|R|Walk|F|Slider|4|1|0|0|11|88
+Enny Romero|L|Matt Kemp|R|Walk|B|Four-Seam Fastball|5|1|1|0|12|97
+Enny Romero|L|Matt Kemp|R|Walk|B|Slider|6|2|1|0|11|92
+Enny Romero|L|Matt Kemp|R|Walk|S|Four-Seam Fastball|7|3|1|0|1|98
+Enny Romero|L|Matt Kemp|R|Walk|B|Four-Seam Fastball|8|3|2|0|12|98
+Enny Romero|L|Matt Adams|L|Grounded Into DP|F|Four-Seam Fastball|9|0|0|0|5|97
+Enny Romero|L|Matt Adams|L|Grounded Into DP|F|Four-Seam Fastball|10|0|1|0|12|98
+Enny Romero|L|Matt Adams|L|Grounded Into DP|F|Four-Seam Fastball|11|0|2|0|3|98
+Enny Romero|L|Matt Adams|L|Grounded Into DP|X|Four-Seam Fastball|12|0|2|0|13|98
+Enny Romero|L|Tyler Flowers|R|Strikeout|C|Slider|13|0|0|2|12|90
+Enny Romero|L|Tyler Flowers|R|Strikeout|B|Four-Seam Fastball|14|0|1|2|11|97
+Enny Romero|L|Tyler Flowers|R|Strikeout|F|Slider|15|1|1|2|8|90
+Enny Romero|L|Tyler Flowers|R|Strikeout|B|Four-Seam Fastball|16|1|2|2|12|98
+Enny Romero|L|Tyler Flowers|R|Strikeout|B|Four-Seam Fastball|17|2|2|2|12|97
+Enny Romero|L|Tyler Flowers|R|Strikeout|T|Four-Seam Fastball|18|3|2|2|6|96
+Enny Romero|L|Rio Ruiz|L|Strikeout|C|Four-Seam Fastball|19|0|0|0|5|97
+Enny Romero|L|Rio Ruiz|L|Strikeout|B|Four-Seam Fastball|20|0|1|0|14|97
+Enny Romero|L|Rio Ruiz|L|Strikeout|C|Four-Seam Fastball|21|1|1|0|4|97
+Enny Romero|L|Rio Ruiz|L|Strikeout|F|Four-Seam Fastball|22|1|2|0|4|96
+Enny Romero|L|Rio Ruiz|L|Strikeout|F|Four-Seam Fastball|23|1|2|0|4|97
+Enny Romero|L|Rio Ruiz|L|Strikeout|S|Four-Seam Fastball|24|1|2|0|1|98
+Enny Romero|L|Dansby Swanson|R|Single|C|Four-Seam Fastball|25|0|0|1|4|98
+Enny Romero|L|Dansby Swanson|R|Single|D|Slider|26|0|1|1|1|87
+Enny Romero|L|Lane Adams|R|Strikeout|C|Four-Seam Fastball|27|0|0|1|14|98
+Enny Romero|L|Lane Adams|R|Strikeout|B|Four-Seam Fastball|28|0|1|1|14|95
+Enny Romero|L|Lane Adams|R|Strikeout|S|Four-Seam Fastball|29|1|1|1|11|99
+Enny Romero|L|Lane Adams|R|Strikeout|S|Four-Seam Fastball|30|1|2|1|11|97
+Enny Romero|L|Lucas Duda|L|Flyout|C|Four-Seam Fastball|0|0|0|1|7|96
+Enny Romero|L|Lucas Duda|L|Flyout|B|Four-Seam Fastball|1|0|1|1|14|97
+Enny Romero|L|Lucas Duda|L|Flyout|B|Four-Seam Fastball|2|1|1|1|13|97
+Enny Romero|L|Lucas Duda|L|Flyout|F|Four-Seam Fastball|3|2|1|1|12|98
+Enny Romero|L|Lucas Duda|L|Flyout|B|Four-Seam Fastball|4|2|2|1|13|98
+Enny Romero|L|Lucas Duda|L|Flyout|X|Four-Seam Fastball|5|3|2|1|12|98
+Enny Romero|L|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|6|0|0|2|14|98
+Enny Romero|L|Travis d'Arnaud|R|Single|F|Four-Seam Fastball|7|1|0|2|6|97
+Enny Romero|L|Travis d'Arnaud|R|Single|S|Four-Seam Fastball|8|1|1|2|6|97
+Enny Romero|L|Travis d'Arnaud|R|Single|F|Four-Seam Fastball|9|1|2|2|14|96
+Enny Romero|L|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|10|1|2|2|12|98
+Enny Romero|L|Travis d'Arnaud|R|Single|F|Four-Seam Fastball|11|2|2|2|12|98
+Enny Romero|L|Travis d'Arnaud|R|Single|F|Four-Seam Fastball|12|2|2|2|14|98
+Enny Romero|L|Travis d'Arnaud|R|Single|B|Four-Seam Fastball|13|2|2|2|13|99
+Enny Romero|L|Travis d'Arnaud|R|Single|D|Four-Seam Fastball|14|3|2|2|9|97
+Enny Romero|L|Jose Reyes|R|Single|E|Four-Seam Fastball|15|0|0|2|4|97
+Enny Romero|L|Rene Rivera|R|Strikeout|B|Four-Seam Fastball|16|0|0|2|14|95
+Enny Romero|L|Rene Rivera|R|Strikeout|F|Four-Seam Fastball|17|1|0|2|2|98
+Enny Romero|L|Rene Rivera|R|Strikeout|T|Four-Seam Fastball|18|1|1|2|4|98
+Enny Romero|L|Rene Rivera|R|Strikeout|B|Four-Seam Fastball|19|1|2|2|11|98
+Enny Romero|L|Rene Rivera|R|Strikeout|F|Four-Seam Fastball|20|2|2|2|1|97
+Enny Romero|L|Rene Rivera|R|Strikeout|S|Four-Seam Fastball|21|2|2|2|11|99
+Enny Romero|L|Matt Reynolds|R|Flyout|B|Four-Seam Fastball|22|0|0|0|13|93
+Enny Romero|L|Matt Reynolds|R|Flyout|B|Four-Seam Fastball|23|1|0|0|13|95
+Enny Romero|L|Matt Reynolds|R|Flyout|C|Four-Seam Fastball|24|2|0|0|2|95
+Enny Romero|L|Matt Reynolds|R|Flyout|X|Four-Seam Fastball|25|2|1|0|4|94
+Enny Romero|L|Michael Conforto|L|Single|C|Four-Seam Fastball|26|0|0|1|3|95
+Enny Romero|L|Michael Conforto|L|Single|S|Slider|27|0|1|1|14|84
+Enny Romero|L|Michael Conforto|L|Single|B|Slider|28|0|2|1|13|86
+Enny Romero|L|Michael Conforto|L|Single|D|Slider|29|1|2|1|8|86
+Enny Romero|L|Yoenis Cespedes|R|Grounded Into DP|*B|Four-Seam Fastball|30|0|0|1|14|97
+Enny Romero|L|Yoenis Cespedes|R|Grounded Into DP|B|Four-Seam Fastball|31|1|0|1|14|97
+Enny Romero|L|Yoenis Cespedes|R|Grounded Into DP|X|Four-Seam Fastball|32|2|0|1|14|98
+Enny Romero|L|Justin Bour|L|Single|B|N/A|0|0|0|0|0|0
+Enny Romero|L|Justin Bour|L|Single|B|Slider|1|1|0|0|13|89
+Enny Romero|L|Justin Bour|L|Single|D|Slider|2|2|0|0|8|89
+Enny Romero|L|J.T. Realmuto|R|Grounded Into DP|S|Four-Seam Fastball|3|0|0|0|3|98
+Enny Romero|L|J.T. Realmuto|R|Grounded Into DP|S|Four-Seam Fastball|4|0|1|0|5|98
+Enny Romero|L|J.T. Realmuto|R|Grounded Into DP|F|Four-Seam Fastball|5|0|2|0|6|98
+Enny Romero|L|J.T. Realmuto|R|Grounded Into DP|F|Four-Seam Fastball|6|0|2|0|14|98
+Enny Romero|L|J.T. Realmuto|R|Grounded Into DP|X|Four-Seam Fastball|7|0|2|0|2|98
+Enny Romero|L|Derek Dietrich|L|Strikeout|C|Slider|8|0|0|2|11|87
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|9|0|1|2|13|97
+Enny Romero|L|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|10|1|1|2|13|99
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|11|1|2|2|11|99
+Enny Romero|L|Derek Dietrich|L|Strikeout|B|Four-Seam Fastball|12|2|2|2|13|99
+Enny Romero|L|Derek Dietrich|L|Strikeout|S|Four-Seam Fastball|13|3|2|2|13|99
+Enny Romero|L|JT Riddle|L|Pop Out|C|Four-Seam Fastball|14|0|0|0|5|96
+Enny Romero|L|JT Riddle|L|Pop Out|X|Slider|15|0|1|0|12|84
+Enny Romero|L|Tyler Moore|R|Strikeout|B|Four-Seam Fastball|16|0|0|1|11|97
+Enny Romero|L|Tyler Moore|R|Strikeout|F|Four-Seam Fastball|17|1|0|1|3|97
+Enny Romero|L|Tyler Moore|R|Strikeout|S|Slider|18|1|1|1|2|89
+Enny Romero|L|Tyler Moore|R|Strikeout|B|Four-Seam Fastball|19|1|2|1|11|98
+Enny Romero|L|Tyler Moore|R|Strikeout|S|Four-Seam Fastball|20|2|2|1|6|99
+Enny Romero|L|Dee Gordon|L|Walk|B|Four-Seam Fastball|21|0|0|2|13|97
+Enny Romero|L|Dee Gordon|L|Walk|B|Slider|22|1|0|2|13|90
+Enny Romero|L|Dee Gordon|L|Walk|B|Four-Seam Fastball|23|2|0|2|13|97
+Enny Romero|L|Dee Gordon|L|Walk|B|Four-Seam Fastball|24|3|0|2|13|96
+Enny Romero|L|Giancarlo Stanton|R|Field Error|S|Four-Seam Fastball|25|0|0|2|5|97
+Enny Romero|L|Giancarlo Stanton|R|Field Error|S|Four-Seam Fastball|26|0|1|2|13|98
+Enny Romero|L|Giancarlo Stanton|R|Field Error|D|Four-Seam Fastball|27|0|2|2|9|98
+Enny Romero|L|Christian Yelich|L|Walk|B|Four-Seam Fastball|28|0|0|2|13|96
+Enny Romero|L|Christian Yelich|L|Walk|B|Four-Seam Fastball|29|1|0|2|14|98
+Enny Romero|L|Christian Yelich|L|Walk|F|Four-Seam Fastball|30|2|0|2|12|98
+Enny Romero|L|Christian Yelich|L|Walk|B|Four-Seam Fastball|31|2|1|2|14|97
+Enny Romero|L|Christian Yelich|L|Walk|C|Four-Seam Fastball|32|3|1|2|2|98
+Enny Romero|L|Christian Yelich|L|Walk|B|Four-Seam Fastball|33|3|2|2|11|98
+Enny Romero|L|Marcell Ozuna|R|Single|F|Slider|34|0|0|2|6|86
+Enny Romero|L|Marcell Ozuna|R|Single|S|Four-Seam Fastball|35|0|1|2|13|99
+Enny Romero|L|Marcell Ozuna|R|Single|E|Four-Seam Fastball|36|0|2|2|4|97
+Enny Romero|L|Scooter Gennett|L|Flyout|B|Slider|0|0|0|0|13|90
+Enny Romero|L|Scooter Gennett|L|Flyout|F|Four-Seam Fastball|1|1|0|0|1|98
+Enny Romero|L|Scooter Gennett|L|Flyout|B|Four-Seam Fastball|2|1|1|0|11|98
+Enny Romero|L|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|3|2|1|0|1|98
+Enny Romero|L|Joey Votto|L|Groundout|F|Four-Seam Fastball|4|0|0|1|6|99
+Enny Romero|L|Joey Votto|L|Groundout|B|Slider|5|0|1|1|14|92
+Enny Romero|L|Joey Votto|L|Groundout|F|Slider|6|1|1|1|8|91
+Enny Romero|L|Joey Votto|L|Groundout|X|Four-Seam Fastball|7|1|2|1|12|99
+Enny Romero|L|Adam Duvall|R|Pop Out|C|Four-Seam Fastball|8|0|0|2|1|99
+Enny Romero|L|Adam Duvall|R|Pop Out|B|Four-Seam Fastball|9|0|1|2|12|99
+Enny Romero|L|Adam Duvall|R|Pop Out|B|Four-Seam Fastball|10|1|1|2|11|98
+Enny Romero|L|Adam Duvall|R|Pop Out|X|Four-Seam Fastball|11|2|1|2|12|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|B|Four-Seam Fastball|0|0|0|0|13|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|S|Four-Seam Fastball|1|1|0|0|11|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|F|Four-Seam Fastball|2|1|1|0|1|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|F|Four-Seam Fastball|3|1|2|0|12|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|X|Four-Seam Fastball|4|1|2|0|4|99
+Enny Romero|L|Kris Bryant|R|Flyout|B|Slider|0|0|0|0|12|89
+Enny Romero|L|Kris Bryant|R|Flyout|X|Four-Seam Fastball|1|1|0|0|11|95
+Enny Romero|L|Willson Contreras|R|Walk|B|Four-Seam Fastball|2|0|0|1|12|96
+Enny Romero|L|Willson Contreras|R|Walk|B|Four-Seam Fastball|3|1|0|1|12|96
+Enny Romero|L|Willson Contreras|R|Walk|C|Four-Seam Fastball|4|2|0|1|12|96
+Enny Romero|L|Willson Contreras|R|Walk|S|Four-Seam Fastball|5|2|1|1|4|96
+Enny Romero|L|Willson Contreras|R|Walk|B|Four-Seam Fastball|6|2|2|1|12|98
+Enny Romero|L|Willson Contreras|R|Walk|*B|Four-Seam Fastball|7|3|2|1|13|97
+Enny Romero|L|Jon Jay|L|Grounded Into DP|B|Four-Seam Fastball|8|0|0|1|11|96
+Enny Romero|L|Jon Jay|L|Grounded Into DP|F|Four-Seam Fastball|9|1|0|1|3|96
+Enny Romero|L|Jon Jay|L|Grounded Into DP|C|Four-Seam Fastball|10|1|1|1|13|96
+Enny Romero|L|Jon Jay|L|Grounded Into DP|F|Four-Seam Fastball|11|1|2|1|12|98
+Enny Romero|L|Jon Jay|L|Grounded Into DP|X|Four-Seam Fastball|12|1|2|1|12|97
+Enny Romero|L|Mark Zagunis|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|1|97
+Enny Romero|L|Mark Zagunis|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|98
+Enny Romero|L|Mark Zagunis|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|99
+Enny Romero|L|Mark Zagunis|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|5|99
+Enny Romero|L|Anthony Rizzo|L|Home Run|B|Four-Seam Fastball|4|0|0|1|13|98
+Enny Romero|L|Anthony Rizzo|L|Home Run|B|Slider|5|1|0|1|13|91
+Enny Romero|L|Anthony Rizzo|L|Home Run|E|Four-Seam Fastball|6|2|0|1|5|97
+Enny Romero|L|Jeimer Candelario|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|4|98
+Enny Romero|L|Jeimer Candelario|R|Strikeout|B|Four-Seam Fastball|8|0|1|1|12|98
+Enny Romero|L|Jeimer Candelario|R|Strikeout|C|Four-Seam Fastball|9|1|1|1|14|92
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|10|1|2|1|6|98
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|11|1|2|1|11|100
+Enny Romero|L|Jeimer Candelario|R|Strikeout|F|Four-Seam Fastball|12|1|2|1|9|100
+Enny Romero|L|Jeimer Candelario|R|Strikeout|S|Four-Seam Fastball|13|1|2|1|1|100
+Enny Romero|L|Ian Happ|R|Single|F|Four-Seam Fastball|14|0|0|2|7|99
+Enny Romero|L|Ian Happ|R|Single|F|Four-Seam Fastball|15|0|1|2|1|98
+Enny Romero|L|Ian Happ|R|Single|B|Four-Seam Fastball|16|0|2|2|14|99
+Enny Romero|L|Ian Happ|R|Single|F|Four-Seam Fastball|17|1|2|2|12|99
+Enny Romero|L|Ian Happ|R|Single|D|Four-Seam Fastball|18|1|2|2|3|99
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|19|0|0|2|1|100
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|20|0|1|2|5|99
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|21|0|2|2|11|100
+Enny Romero|L|Willson Contreras|R|Pop Out|B|Four-Seam Fastball|22|0|2|2|11|99
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|23|1|2|2|11|99
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|24|1|2|2|5|100
+Enny Romero|L|Willson Contreras|R|Pop Out|B|Four-Seam Fastball|25|1|2|2|11|99
+Enny Romero|L|Willson Contreras|R|Pop Out|F|Four-Seam Fastball|26|2|2|2|12|100
+Enny Romero|L|Willson Contreras|R|Pop Out|X|Four-Seam Fastball|27|2|2|2|11|99
+Enny Romero|L|Jose Martinez|R|Strikeout|B|Slider|0|0|0|0|14|88
+Enny Romero|L|Jose Martinez|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|8|94
+Enny Romero|L|Jose Martinez|R|Strikeout|B|Slider|2|1|1|0|14|85
+Enny Romero|L|Jose Martinez|R|Strikeout|C|Four-Seam Fastball|3|2|1|0|6|96
+Enny Romero|L|Jose Martinez|R|Strikeout|S|Four-Seam Fastball|4|2|2|0|9|98
+Enny Romero|L|Matt Carpenter|L|Single|B|Four-Seam Fastball|5|0|0|1|14|96
+Enny Romero|L|Matt Carpenter|L|Single|F|Slider|6|1|0|1|7|88
+Enny Romero|L|Matt Carpenter|L|Single|B|Slider|7|1|1|1|12|86
+Enny Romero|L|Matt Carpenter|L|Single|S|Slider|8|2|1|1|8|90
+Enny Romero|L|Matt Carpenter|L|Single|D|Four-Seam Fastball|9|2|2|1|6|97
+Enny Romero|L|Tommy Pham|R|Home Run|B|Four-Seam Fastball|10|0|0|1|14|97
+Enny Romero|L|Tommy Pham|R|Home Run|C|Four-Seam Fastball|11|1|0|1|7|97
+Enny Romero|L|Tommy Pham|R|Home Run|F|Four-Seam Fastball|12|1|1|1|8|94
+Enny Romero|L|Tommy Pham|R|Home Run|B|Four-Seam Fastball|13|1|2|1|12|98
+Enny Romero|L|Tommy Pham|R|Home Run|B|Four-Seam Fastball|14|2|2|1|12|98
+Enny Romero|L|Tommy Pham|R|Home Run|E|Four-Seam Fastball|15|3|2|1|3|96
+Enny Romero|L|Stephen Piscotty|R|Double|C|Four-Seam Fastball|16|0|0|1|6|98
+Enny Romero|L|Stephen Piscotty|R|Double|B|Four-Seam Fastball|17|0|1|1|12|98
+Enny Romero|L|Stephen Piscotty|R|Double|B|Four-Seam Fastball|18|1|1|1|12|97
+Enny Romero|L|Stephen Piscotty|R|Double|C|Four-Seam Fastball|19|2|1|1|13|97
+Enny Romero|L|Stephen Piscotty|R|Double|B|Four-Seam Fastball|20|2|2|1|11|98
+Enny Romero|L|Stephen Piscotty|R|Double|D|Four-Seam Fastball|21|3|2|1|8|95
+Enny Romero|L|Jedd Gyorko|R|Strikeout|C|Slider|22|0|0|1|4|91
+Enny Romero|L|Jedd Gyorko|R|Strikeout|F|Slider|23|0|1|1|4|86
+Enny Romero|L|Jedd Gyorko|R|Strikeout|S|Four-Seam Fastball|24|0|2|1|12|98
+Enny Romero|L|Yadier Molina|R|Lineout|C|Slider|25|0|0|2|1|88
+Enny Romero|L|Yadier Molina|R|Lineout|S|Four-Seam Fastball|26|0|1|2|11|98
+Enny Romero|L|Yadier Molina|R|Lineout|F|Four-Seam Fastball|27|0|2|2|14|97
+Enny Romero|L|Yadier Molina|R|Lineout|X|Four-Seam Fastball|28|0|2|2|5|98
+Enny Romero|L|Johan Camargo|R|Double|B|Four-Seam Fastball|0|0|0|0|11|97
+Enny Romero|L|Johan Camargo|R|Double|C|Four-Seam Fastball|1|1|0|0|1|97
+Enny Romero|L|Johan Camargo|R|Double|F|Four-Seam Fastball|2|1|1|0|1|98
+Enny Romero|L|Johan Camargo|R|Double|B|Four-Seam Fastball|3|1|2|0|12|99
+Enny Romero|L|Johan Camargo|R|Double|F|Four-Seam Fastball|4|2|2|0|3|99
+Enny Romero|L|Johan Camargo|R|Double|D|Four-Seam Fastball|5|2|2|0|4|98
+Enny Romero|L|Freddie Freeman|L|Strikeout|C|Four-Seam Fastball|6|0|0|0|11|98
+Enny Romero|L|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|7|0|1|0|4|98
+Enny Romero|L|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|8|0|2|0|4|100
+Enny Romero|L|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|9|0|2|0|11|100
+Enny Romero|L|Freddie Freeman|L|Strikeout|S|Four-Seam Fastball|10|1|2|0|12|100
+Enny Romero|L|Matt Kemp|R|Strikeout|B|Slider|11|0|0|1|12|92
+Enny Romero|L|Matt Kemp|R|Strikeout|C|Slider|12|1|0|1|2|91
+Enny Romero|L|Matt Kemp|R|Strikeout|B|Four-Seam Fastball|13|1|1|1|11|99
+Enny Romero|L|Matt Kemp|R|Strikeout|F|Four-Seam Fastball|14|2|1|1|3|99
+Enny Romero|L|Matt Kemp|R|Strikeout|T|Four-Seam Fastball|15|2|2|1|1|99
+Enny Romero|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|16|0|0|2|13|99
+Enny Romero|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|17|1|0|2|14|99
+Enny Romero|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|18|2|0|2|14|100
+Enny Romero|L|Nick Markakis|L|Groundout|C|Four-Seam Fastball|19|3|0|2|8|99
+Enny Romero|L|Nick Markakis|L|Groundout|X|Four-Seam Fastball|20|3|1|2|7|99
+Enny Romero|L|Tucker Barnhart|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|96
+Enny Romero|L|Tucker Barnhart|R|Strikeout|S|Four-Seam Fastball|1|1|0|0|12|95
+Enny Romero|L|Tucker Barnhart|R|Strikeout|C|Slider|2|1|1|0|2|91
+Enny Romero|L|Tucker Barnhart|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|98
+Enny Romero|L|Tucker Barnhart|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|12|97
+Enny Romero|L|Tucker Barnhart|R|Strikeout|C|Four-Seam Fastball|5|3|2|0|11|98
+Enny Romero|L|Arismendy Alcantara|R|Strikeout|C|Slider|6|0|0|1|2|84
+Enny Romero|L|Arismendy Alcantara|R|Strikeout|S|Slider|7|0|1|1|2|84
+Enny Romero|L|Arismendy Alcantara|R|Strikeout|B|Slider|8|0|2|1|13|87
+Enny Romero|L|Arismendy Alcantara|R|Strikeout|F|Four-Seam Fastball|9|1|2|1|12|98
+Enny Romero|L|Arismendy Alcantara|R|Strikeout|C|Four-Seam Fastball|10|1|2|1|11|96
+Enny Romero|L|Billy Hamilton|R|Strikeout|B|Slider|11|0|0|2|12|83
+Enny Romero|L|Billy Hamilton|R|Strikeout|F|Slider|12|1|0|2|12|85
+Enny Romero|L|Billy Hamilton|R|Strikeout|F|Slider|13|1|1|2|9|87
+Enny Romero|L|Billy Hamilton|R|Strikeout|S|Four-Seam Fastball|14|1|2|2|11|98
+Enny Romero|L|Billy Hamilton|R|Single|F|Four-Seam Fastball|0|0|0|0|3|96
+Enny Romero|L|Billy Hamilton|R|Single|F|Slider|1|0|1|0|4|87
+Enny Romero|L|Billy Hamilton|R|Single|B|Four-Seam Fastball|2|0|2|0|12|97
+Enny Romero|L|Billy Hamilton|R|Single|D|Four-Seam Fastball|3|1|2|0|11|97
+Enny Romero|L|Jesse Winker|L|Lineout|C|Four-Seam Fastball|4|0|0|0|13|97
+Enny Romero|L|Jesse Winker|L|Lineout|X|Slider|5|0|1|0|5|88
+Enny Romero|L|Joey Votto|L|Walk|B|Four-Seam Fastball|6|0|0|1|13|97
+Enny Romero|L|Joey Votto|L|Walk|C|Four-Seam Fastball|7|1|0|1|1|97
+Enny Romero|L|Joey Votto|L|Walk|C|Four-Seam Fastball|8|1|1|1|6|98
+Enny Romero|L|Joey Votto|L|Walk|B|Four-Seam Fastball|9|1|2|1|13|98
+Enny Romero|L|Joey Votto|L|Walk|B|Four-Seam Fastball|10|2|2|1|12|98
+Enny Romero|L|Joey Votto|L|Walk|B|Four-Seam Fastball|11|3|2|1|14|98
+Enny Romero|L|Adam Duvall|R|Strikeout|B|Slider|12|0|0|1|14|87
+Enny Romero|L|Adam Duvall|R|Strikeout|S|Four-Seam Fastball|13|1|0|1|5|98
+Enny Romero|L|Adam Duvall|R|Strikeout|S|Four-Seam Fastball|14|1|1|1|5|98
+Enny Romero|L|Adam Duvall|R|Strikeout|F|Four-Seam Fastball|15|1|2|1|12|97
+Enny Romero|L|Adam Duvall|R|Strikeout|S|N/A|16|1|2|1|0|0
+Enny Romero|L|Scooter Gennett|L|Single|F|Four-Seam Fastball|17|0|0|2|6|98
+Enny Romero|L|Scooter Gennett|L|Single|B|Four-Seam Fastball|18|0|1|2|13|98
+Enny Romero|L|Scooter Gennett|L|Single|B|Four-Seam Fastball|19|1|1|2|13|98
+Enny Romero|L|Scooter Gennett|L|Single|E|Four-Seam Fastball|20|2|1|2|12|99
+Enny Romero|L|Eugenio Suarez|R|Strikeout|B|Slider|21|0|0|2|14|89
+Enny Romero|L|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|22|1|0|2|1|99
+Enny Romero|L|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|23|1|1|2|1|98
+Enny Romero|L|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|24|1|2|2|1|97
+Enny Romero|L|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|25|1|2|2|1|98
+Enny Romero|L|Shane Robinson|R|Flyout|X|Four-Seam Fastball|0|0|0|0|12|96
+Enny Romero|L|Cliff Pennington|R|Single|B|Four-Seam Fastball|1|0|0|1|11|97
+Enny Romero|L|Cliff Pennington|R|Single|S|Slider|2|1|0|1|8|86
+Enny Romero|L|Cliff Pennington|R|Single|D|Four-Seam Fastball|3|1|1|1|11|96
+Enny Romero|L|Ben Revere|L|Lineout|B|Four-Seam Fastball|4|0|0|1|13|96
+Enny Romero|L|Ben Revere|L|Lineout|F|Four-Seam Fastball|5|1|0|1|12|96
+Enny Romero|L|Ben Revere|L|Lineout|B|Slider|6|1|1|1|12|87
+Enny Romero|L|Ben Revere|L|Lineout|B|Slider|7|2|1|1|14|91
+Enny Romero|L|Ben Revere|L|Lineout|X|Four-Seam Fastball|8|3|1|1|6|95
+Enny Romero|L|Yunel Escobar|R|Groundout|B|Four-Seam Fastball|9|0|0|2|11|98
+Enny Romero|L|Yunel Escobar|R|Groundout|X|Slider|10|1|0|2|5|87
+Enny Romero|L|A.J. Pollock|R|Triple|F|Four-Seam Fastball|0|0|0|0|3|97
+Enny Romero|L|A.J. Pollock|R|Triple|B|Slider|1|0|1|0|12|89
+Enny Romero|L|A.J. Pollock|R|Triple|C|Slider|2|1|1|0|9|89
+Enny Romero|L|A.J. Pollock|R|Triple|D|Four-Seam Fastball|3|1|2|0|2|99
+Enny Romero|L|Jake Lamb|L|Intent Walk|V|N/A|4|0|0|0|0|0
+Enny Romero|L|Jake Lamb|L|Intent Walk|V|N/A|5|0|1|0|0|0
+Enny Romero|L|Jake Lamb|L|Intent Walk|V|N/A|6|0|2|0|0|0
+Enny Romero|L|Jake Lamb|L|Intent Walk|V|N/A|7|0|2|0|0|0
+Enny Romero|L|Paul Goldschmidt|R|Intent Walk|V|N/A|8|0|0|0|0|0
+Enny Romero|L|Paul Goldschmidt|R|Intent Walk|V|N/A|9|0|1|0|0|0
+Enny Romero|L|Paul Goldschmidt|R|Intent Walk|V|N/A|10|0|2|0|0|0
+Enny Romero|L|Paul Goldschmidt|R|Intent Walk|V|N/A|11|0|2|0|0|0
+Enny Romero|L|Gregor Blanco|L|Flyout|B|Four-Seam Fastball|12|0|0|0|11|97
+Enny Romero|L|Gregor Blanco|L|Flyout|S|Four-Seam Fastball|13|1|0|0|7|98
+Enny Romero|L|Gregor Blanco|L|Flyout|X|Four-Seam Fastball|14|1|1|0|5|98
+Enny Romero|L|Brandon Drury|R|Single|B|Four-Seam Fastball|15|0|0|1|13|99
+Enny Romero|L|Brandon Drury|R|Single|B|Four-Seam Fastball|16|1|0|1|11|99
+Enny Romero|L|Brandon Drury|R|Single|F|Four-Seam Fastball|17|2|0|1|5|98
+Enny Romero|L|Brandon Drury|R|Single|E|Four-Seam Fastball|18|2|1|1|5|99
+Enny Romero|L|Chris Herrmann|L|Pop Out|B|Four-Seam Fastball|0|0|0|2|11|95
+Enny Romero|L|Chris Herrmann|L|Pop Out|F|Four-Seam Fastball|1|1|0|2|8|95
+Enny Romero|L|Chris Herrmann|L|Pop Out|B|Slider|2|1|1|2|13|86
+Enny Romero|L|Chris Herrmann|L|Pop Out|X|Four-Seam Fastball|3|2|1|2|3|97
+Enny Romero|L|Brandon Drury|R|Single|D|Four-Seam Fastball|4|0|0|0|4|97
+Enny Romero|L|Gregor Blanco|L|Single|F|Four-Seam Fastball|5|0|0|0|5|97
+Enny Romero|L|Gregor Blanco|L|Single|F|Four-Seam Fastball|6|0|1|0|5|97
+Enny Romero|L|Gregor Blanco|L|Single|D|Four-Seam Fastball|7|0|2|0|6|98
+Enny Romero|L|A.J. Pollock|R|Strikeout|B|Four-Seam Fastball|8|0|0|0|14|99
+Enny Romero|L|A.J. Pollock|R|Strikeout|F|Four-Seam Fastball|9|1|0|0|3|98
+Enny Romero|L|A.J. Pollock|R|Strikeout|F|Four-Seam Fastball|10|1|1|0|7|99
+Enny Romero|L|A.J. Pollock|R|Strikeout|S|Four-Seam Fastball|11|1|2|0|12|99
+Enny Romero|L|Daniel Descalso|L|Groundout|C|Four-Seam Fastball|12|0|0|1|13|98
+Enny Romero|L|Daniel Descalso|L|Groundout|S|Four-Seam Fastball|13|0|1|1|9|99
+Enny Romero|L|Daniel Descalso|L|Groundout|B|Four-Seam Fastball|14|0|2|1|13|98
+Enny Romero|L|Daniel Descalso|L|Groundout|X|Four-Seam Fastball|15|1|2|1|11|99
+Enny Romero|L|Ketel Marte|R|Strikeout|C|Four-Seam Fastball|16|0|0|2|6|97
+Enny Romero|L|Ketel Marte|R|Strikeout|S|Slider|17|0|1|2|14|88
+Enny Romero|L|Ketel Marte|R|Strikeout|S|Slider|18|0|2|2|14|88
+Enny Romero|L|David Peralta|L|Groundout|B|Four-Seam Fastball|19|0|0|0|14|97
+Enny Romero|L|David Peralta|L|Groundout|C|Slider|20|1|0|0|14|91
+Enny Romero|L|David Peralta|L|Groundout|S|Slider|21|1|1|0|7|86
+Enny Romero|L|David Peralta|L|Groundout|B|Four-Seam Fastball|22|1|2|0|13|97
+Enny Romero|L|David Peralta|L|Groundout|X|Slider|23|2|2|0|12|88
+Enny Romero|L|Paul Goldschmidt|R|Walk|B|Slider|24|0|0|1|14|89
+Enny Romero|L|Paul Goldschmidt|R|Walk|B|Slider|25|1|0|1|14|90
+Enny Romero|L|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|26|2|0|1|2|98
+Enny Romero|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|27|2|1|1|12|97
+Enny Romero|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|28|3|1|1|14|98
+Enny Romero|L|Jonathan Villar|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|9|95
+Enny Romero|L|Jonathan Villar|R|Pop Out|B|Slider|1|0|1|0|12|88
+Enny Romero|L|Jonathan Villar|R|Pop Out|F|Slider|2|1|1|0|2|88
+Enny Romero|L|Jonathan Villar|R|Pop Out|X|Slider|3|1|2|0|12|86
+Enny Romero|L|Lewis Brinson|R|Home Run|B|Four-Seam Fastball|4|0|0|1|12|96
+Enny Romero|L|Lewis Brinson|R|Home Run|E|Four-Seam Fastball|5|1|0|1|2|97
+Enny Romero|L|Jett Bandy|R|Groundout|F|Four-Seam Fastball|6|0|0|1|12|98
+Enny Romero|L|Jett Bandy|R|Groundout|F|Four-Seam Fastball|7|0|1|1|2|98
+Enny Romero|L|Jett Bandy|R|Groundout|X|Four-Seam Fastball|8|0|2|1|11|98
+Enny Romero|L|Orlando Arcia|R|Lineout|B|Four-Seam Fastball|9|0|0|2|13|97
+Enny Romero|L|Orlando Arcia|R|Lineout|C|Slider|10|1|0|2|12|86
+Enny Romero|L|Orlando Arcia|R|Lineout|B|Slider|11|1|1|2|12|86
+Enny Romero|L|Orlando Arcia|R|Lineout|B|Slider|12|2|1|2|14|89
+Enny Romero|L|Orlando Arcia|R|Lineout|S|Four-Seam Fastball|13|3|1|2|3|98
+Enny Romero|L|Orlando Arcia|R|Lineout|F|Four-Seam Fastball|14|3|2|2|2|98
+Enny Romero|L|Orlando Arcia|R|Lineout|X|Four-Seam Fastball|15|3|2|2|13|97
+Enny Romero|L|Raimel Tapia|L|Groundout|X|Four-Seam Fastball|0|0|0|0|12|97
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|13|97
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|F|Slider|2|0|1|1|8|86
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|3|0|2|1|11|98
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|B|Four-Seam Fastball|4|1|2|1|13|98
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|F|Slider|5|2|2|1|1|86
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|F|Slider|6|2|2|1|5|87
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|F|Four-Seam Fastball|7|2|2|1|12|99
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|F|Four-Seam Fastball|8|2|2|1|4|98
+Enny Romero|L|Carlos Gonzalez|L|Strikeout|S|Four-Seam Fastball|9|2|2|1|12|99
+Enny Romero|L|Trevor Story|R|Strikeout|B|Four-Seam Fastball|10|0|0|1|12|97
+Enny Romero|L|Trevor Story|R|Strikeout|S|Slider|11|1|0|1|7|87
+Enny Romero|L|Trevor Story|R|Strikeout|S|Four-Seam Fastball|12|1|1|1|4|99
+Enny Romero|L|Trevor Story|R|Strikeout|C|Four-Seam Fastball|13|1|2|1|7|98
+Enny Romero|L|Ryan Hanigan|R|Strikeout|B|Four-Seam Fastball|14|0|0|2|3|96
+Enny Romero|L|Ryan Hanigan|R|Strikeout|B|Slider|15|1|0|2|14|89
+Enny Romero|L|Ryan Hanigan|R|Strikeout|F|Four-Seam Fastball|16|2|0|2|1|98
+Enny Romero|L|Ryan Hanigan|R|Strikeout|S|Four-Seam Fastball|17|2|1|2|3|98
+Enny Romero|L|Ryan Hanigan|R|Strikeout|S|Four-Seam Fastball|18|2|2|2|12|99
+Enny Romero|L|Miguel Rojas|R|Walk|C|Slider|0|0|0|0|5|87
+Enny Romero|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|1|0|1|0|11|95
+Enny Romero|L|Miguel Rojas|R|Walk|B|Slider|2|1|1|0|13|86
+Enny Romero|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|3|2|1|0|11|97
+Enny Romero|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|95
+Enny Romero|L|Vance Worley|R|Strikeout|L|Four-Seam Fastball|5|0|0|0|9|95
+Enny Romero|L|Vance Worley|R|Strikeout|B|Four-Seam Fastball|6|0|1|0|12|96
+Enny Romero|L|Vance Worley|R|Strikeout|L|Four-Seam Fastball|7|1|1|0|12|94
+Enny Romero|L|Vance Worley|R|Strikeout|L|Four-Seam Fastball|8|1|2|0|12|96
+Enny Romero|L|Dee Gordon|L|Single|S|Slider|9|0|0|1|2|84
+Enny Romero|L|Dee Gordon|L|Single|E|Slider|10|0|1|1|8|83
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|11|0|0|1|13|96
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|C|Slider|12|1|0|1|9|88
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|F|Four-Seam Fastball|13|1|1|1|13|96
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|14|1|2|1|12|96
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|15|2|2|1|11|97
+Enny Romero|L|Giancarlo Stanton|R|Strikeout|T|Four-Seam Fastball|16|3|2|1|11|97
+Enny Romero|L|Keon Broxton|R|Flyout|B|Four-Seam Fastball|0|0|0|2|11|96
+Enny Romero|L|Keon Broxton|R|Flyout|S|Four-Seam Fastball|1|1|0|2|11|97
+Enny Romero|L|Keon Broxton|R|Flyout|F|Four-Seam Fastball|2|1|1|2|11|97
+Enny Romero|L|Keon Broxton|R|Flyout|B|Four-Seam Fastball|3|1|2|2|11|98
+Enny Romero|L|Keon Broxton|R|Flyout|X|Four-Seam Fastball|4|2|2|2|11|97
+Enny Romero|L|Manny Pina|R|Walk|B|Four-Seam Fastball|5|0|0|0|11|95
+Enny Romero|L|Manny Pina|R|Walk|S|Slider|6|1|0|0|7|89
+Enny Romero|L|Manny Pina|R|Walk|B|Slider|7|1|1|0|13|86
+Enny Romero|L|Manny Pina|R|Walk|F|Four-Seam Fastball|8|2|1|0|5|96
+Enny Romero|L|Manny Pina|R|Walk|F|Slider|9|2|2|0|2|89
+Enny Romero|L|Manny Pina|R|Walk|B|Four-Seam Fastball|10|2|2|0|11|97
+Enny Romero|L|Manny Pina|R|Walk|F|Four-Seam Fastball|11|3|2|0|2|98
+Enny Romero|L|Manny Pina|R|Walk|B|Four-Seam Fastball|12|3|2|0|11|97
+Enny Romero|L|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|13|0|0|0|2|97
+Enny Romero|L|Orlando Arcia|R|Strikeout|F|Four-Seam Fastball|14|1|0|0|4|93
+Enny Romero|L|Orlando Arcia|R|Strikeout|S|Four-Seam Fastball|15|1|1|0|11|98
+Enny Romero|L|Orlando Arcia|R|Strikeout|B|Four-Seam Fastball|16|1|2|0|13|98
+Enny Romero|L|Orlando Arcia|R|Strikeout|S|Four-Seam Fastball|17|2|2|0|11|98
+Enny Romero|L|Jesus Aguilar|R|Single|F|Four-Seam Fastball|18|0|0|1|2|98
+Enny Romero|L|Jesus Aguilar|R|Single|B|Slider|19|0|1|1|13|88
+Enny Romero|L|Jesus Aguilar|R|Single|D|Four-Seam Fastball|20|1|1|1|13|98
+Enny Romero|L|Jonathan Villar|R|Strikeout|C|Four-Seam Fastball|21|0|0|1|8|98
+Enny Romero|L|Jonathan Villar|R|Strikeout|*B|Slider|22|0|1|1|14|88
+Enny Romero|L|Jonathan Villar|R|Strikeout|F|Slider|23|1|1|1|14|88
+Enny Romero|L|Jonathan Villar|R|Strikeout|S|Four-Seam Fastball|24|1|2|1|12|98
+Enny Romero|L|Neil Walker|R|Groundout|C|Four-Seam Fastball|25|0|0|2|13|97
+Enny Romero|L|Neil Walker|R|Groundout|F|Four-Seam Fastball|26|0|1|2|11|98
+Enny Romero|L|Neil Walker|R|Groundout|B|Four-Seam Fastball|27|0|2|2|11|99
+Enny Romero|L|Neil Walker|R|Groundout|B|Four-Seam Fastball|28|1|2|2|12|99
+Enny Romero|L|Neil Walker|R|Groundout|X|Four-Seam Fastball|29|2|2|2|11|97
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|B|Four-Seam Fastball|0|0|0|2|2|96
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|B|Slider|1|1|0|2|13|88
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|S|Four-Seam Fastball|2|2|0|2|11|97
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|B|Four-Seam Fastball|3|2|1|2|14|96
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|F|Four-Seam Fastball|4|3|1|2|11|97
+Enny Romero|L|Giancarlo Stanton|R|Pop Out|X|Four-Seam Fastball|5|3|2|2|11|98
+Enny Romero|L|Christian Yelich|L|Flyout|C|Slider|6|0|0|0|3|87
+Enny Romero|L|Christian Yelich|L|Flyout|B|Slider|7|0|1|0|14|85
+Enny Romero|L|Christian Yelich|L|Flyout|S|Slider|8|1|1|0|13|85
+Enny Romero|L|Christian Yelich|L|Flyout|B|Slider|9|1|2|0|14|84
+Enny Romero|L|Christian Yelich|L|Flyout|X|Slider|10|2|2|0|4|86
+Enny Romero|L|Marcell Ozuna|R|Flyout|B|Slider|11|0|0|1|13|88
+Enny Romero|L|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|12|1|0|1|14|97
+Enny Romero|L|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|13|2|0|1|7|97
+Enny Romero|L|Freddie Freeman|L|Single|D|Four-Seam Fastball|0|0|0|2|2|96
+Enny Romero|L|Matt Kemp|R|Pop Out|B|Four-Seam Fastball|1|0|0|2|12|96
+Enny Romero|L|Matt Kemp|R|Pop Out|F|Four-Seam Fastball|2|1|0|2|11|97
+Enny Romero|L|Matt Kemp|R|Pop Out|*B|Slider|3|1|1|2|14|90
+Enny Romero|L|Matt Kemp|R|Pop Out|S|Four-Seam Fastball|4|2|1|2|11|97
+Enny Romero|L|Matt Kemp|R|Pop Out|F|Four-Seam Fastball|5|2|2|2|2|97
+Enny Romero|L|Matt Kemp|R|Pop Out|X|Four-Seam Fastball|6|2|2|2|11|97
+Enny Romero|L|Nick Markakis|L|Groundout|S|Four-Seam Fastball|7|0|0|0|3|97
+Enny Romero|L|Nick Markakis|L|Groundout|*B|Slider|8|0|1|0|13|87
+Enny Romero|L|Nick Markakis|L|Groundout|X|Slider|9|1|1|0|14|88
+Enny Romero|L|Kurt Suzuki|R|Strikeout|C|Four-Seam Fastball|10|0|0|1|11|98
+Enny Romero|L|Kurt Suzuki|R|Strikeout|B|Four-Seam Fastball|11|0|1|1|13|98
+Enny Romero|L|Kurt Suzuki|R|Strikeout|S|Four-Seam Fastball|12|1|1|1|12|98
+Enny Romero|L|Kurt Suzuki|R|Strikeout|B|Four-Seam Fastball|13|1|2|1|11|98
+Enny Romero|L|Kurt Suzuki|R|Strikeout|B|Four-Seam Fastball|14|2|2|1|13|99
+Enny Romero|L|Kurt Suzuki|R|Strikeout|S|Four-Seam Fastball|15|3|2|1|11|98
+Enny Romero|L|Corey Seager|L|Flyout|C|Slider|0|0|0|0|1|89
+Enny Romero|L|Corey Seager|L|Flyout|S|Slider|1|0|1|0|7|85
+Enny Romero|L|Corey Seager|L|Flyout|X|Four-Seam Fastball|2|0|2|0|11|97
+Enny Romero|L|Justin Turner|R|Groundout|C|Slider|3|0|0|1|4|86
+Enny Romero|L|Justin Turner|R|Groundout|B|Slider|4|0|1|1|13|89
+Enny Romero|L|Justin Turner|R|Groundout|X|Slider|5|1|1|1|6|90
+Enny Romero|L|Cody Bellinger|L|Double|C|Four-Seam Fastball|6|0|0|2|7|98
+Enny Romero|L|Cody Bellinger|L|Double|D|Four-Seam Fastball|7|0|1|2|4|98
+Enny Romero|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|8|0|0|2|8|98
+Enny Romero|L|Yasiel Puig|R|Flyout|B|Four-Seam Fastball|9|1|0|2|11|98
+Enny Romero|L|Yasiel Puig|R|Flyout|X|Four-Seam Fastball|10|2|0|2|1|98
+Enny Romero|L|Asdrubal Cabrera|R|Single|B|Four-Seam Fastball|0|0|0|0|11|98
+Enny Romero|L|Asdrubal Cabrera|R|Single|F|Four-Seam Fastball|1|1|0|0|11|98
+Enny Romero|L|Asdrubal Cabrera|R|Single|F|Four-Seam Fastball|2|1|1|0|11|97
+Enny Romero|L|Asdrubal Cabrera|R|Single|B|Four-Seam Fastball|3|1|2|0|11|98
+Enny Romero|L|Asdrubal Cabrera|R|Single|X|Four-Seam Fastball|4|2|2|0|11|97
+Enny Romero|L|Brandon Nimmo|L|Strikeout|F|Four-Seam Fastball|5|0|0|1|2|98
+Enny Romero|L|Brandon Nimmo|L|Strikeout|S|Slider|6|0|1|1|8|88
+Enny Romero|L|Brandon Nimmo|L|Strikeout|S|Slider|7|0|2|1|13|88
+Enny Romero|L|Travis d'Arnaud|R|Flyout|C|Four-Seam Fastball|8|0|0|2|11|97
+Enny Romero|L|Travis d'Arnaud|R|Flyout|B|Slider|9|0|1|2|14|87
+Enny Romero|L|Travis d'Arnaud|R|Flyout|B|Slider|10|1|1|2|13|88
+Enny Romero|L|Travis d'Arnaud|R|Flyout|X|Four-Seam Fastball|11|2|1|2|4|98
+Enny Romero|L|Freddy Galvis|R|Walk|C|Four-Seam Fastball|0|0|0|0|12|96
+Enny Romero|L|Freddy Galvis|R|Walk|B|Cutter|1|0|1|0|13|89
+Enny Romero|L|Freddy Galvis|R|Walk|C|Four-Seam Fastball|2|1|1|0|3|97
+Enny Romero|L|Freddy Galvis|R|Walk|B|Four-Seam Fastball|3|1|2|0|11|98
+Enny Romero|L|Freddy Galvis|R|Walk|B|Four-Seam Fastball|4|2|2|0|11|98
+Enny Romero|L|Freddy Galvis|R|Walk|B|Four-Seam Fastball|5|3|2|0|13|99
+Enny Romero|L|Aaron Altherr|R|Groundout|B|Four-Seam Fastball|6|0|0|0|13|97
+Enny Romero|L|Aaron Altherr|R|Groundout|F|Four-Seam Fastball|7|1|0|0|6|98
+Enny Romero|L|Aaron Altherr|R|Groundout|X|Four-Seam Fastball|8|1|1|0|11|98
+Enny Romero|L|Rhys Hoskins|R|Sac Fly|C|Four-Seam Fastball|9|0|0|1|1|97
+Enny Romero|L|Rhys Hoskins|R|Sac Fly|F|Four-Seam Fastball|10|0|1|1|1|98
+Enny Romero|L|Rhys Hoskins|R|Sac Fly|E|Four-Seam Fastball|11|0|2|1|3|98
+Enny Romero|L|Tommy Joseph|R|Strikeout|B|Cutter|12|0|0|2|12|86
+Enny Romero|L|Tommy Joseph|R|Strikeout|S|Cutter|13|1|0|2|3|88
+Enny Romero|L|Tommy Joseph|R|Strikeout|S|Cutter|14|1|1|2|9|86
+Enny Romero|L|Tommy Joseph|R|Strikeout|S|Cutter|15|1|2|2|14|86
+Enny Romero|L|Tommy Joseph|R|Single|B|Four-Seam Fastball|0|0|0|0|12|96
+Enny Romero|L|Tommy Joseph|R|Single|B|Four-Seam Fastball|1|1|0|0|12|96
+Enny Romero|L|Tommy Joseph|R|Single|B|Four-Seam Fastball|2|2|0|0|12|96
+Enny Romero|L|Tommy Joseph|R|Single|C|Four-Seam Fastball|3|3|0|0|2|96
+Enny Romero|L|Tommy Joseph|R|Single|C|Four-Seam Fastball|4|3|1|0|5|97
+Enny Romero|L|Tommy Joseph|R|Single|D|Four-Seam Fastball|5|3|2|0|9|97
+Enny Romero|L|J.P. Crawford|L|Pop Out|C|Four-Seam Fastball|6|0|0|0|8|96
+Enny Romero|L|J.P. Crawford|L|Pop Out|*B|Slider|7|0|1|0|13|85
+Enny Romero|L|J.P. Crawford|L|Pop Out|F|Slider|8|1|1|0|4|88
+Enny Romero|L|J.P. Crawford|L|Pop Out|B|Four-Seam Fastball|9|1|2|0|13|97
+Enny Romero|L|J.P. Crawford|L|Pop Out|B|Slider|10|2|2|0|14|88
+Enny Romero|L|J.P. Crawford|L|Pop Out|X|Four-Seam Fastball|11|3|2|0|3|98
+Enny Romero|L|Andrew Knapp|R|Single|D|Four-Seam Fastball|12|0|0|1|5|97
+Enny Romero|L|Cesar Hernandez|R|Fielders Choice|B|Four-Seam Fastball|13|0|0|1|14|97
+Enny Romero|L|Cesar Hernandez|R|Fielders Choice|C|Four-Seam Fastball|14|1|0|1|8|97
+Enny Romero|L|Cesar Hernandez|R|Fielders Choice|F|Four-Seam Fastball|15|1|1|1|5|97
+Enny Romero|L|Cesar Hernandez|R|Fielders Choice|B|Four-Seam Fastball|16|1|2|1|11|97
+Enny Romero|L|Cesar Hernandez|R|Fielders Choice|E|Four-Seam Fastball|17|2|2|1|2|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Slider|18|0|0|1|3|88
+Enny Romero|L|Freddy Galvis|R|Strikeout|*B|Slider|19|0|1|1|14|88
+Enny Romero|L|Freddy Galvis|R|Strikeout|S|Four-Seam Fastball|20|1|1|1|4|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|F|Four-Seam Fastball|21|1|2|1|11|97
+Enny Romero|L|Freddy Galvis|R|Strikeout|S|Four-Seam Fastball|22|1|2|1|11|98
+Enny Romero|L|Nick Williams|L|Groundout|B|Slider|23|0|0|2|12|87
+Enny Romero|L|Nick Williams|L|Groundout|F|Slider|24|1|0|2|14|88
+Enny Romero|L|Nick Williams|L|Groundout|X|Slider|25|1|1|2|11|87
+Enny Romero|L|Elias Diaz|R|Groundout|S|Four-Seam Fastball|0|0|0|0|5|95
+Enny Romero|L|Elias Diaz|R|Groundout|B|Slider|1|0|1|0|13|88
+Enny Romero|L|Elias Diaz|R|Groundout|B|Four-Seam Fastball|2|1|1|0|11|96
+Enny Romero|L|Elias Diaz|R|Groundout|X|Four-Seam Fastball|3|2|1|0|11|96
+Enny Romero|L|Max Moroff|R|Walk|B|Slider|4|0|0|1|9|84
+Enny Romero|L|Max Moroff|R|Walk|B|Four-Seam Fastball|5|1|0|1|11|95
+Enny Romero|L|Max Moroff|R|Walk|C|Four-Seam Fastball|6|2|0|1|5|96
+Enny Romero|L|Max Moroff|R|Walk|F|Four-Seam Fastball|7|2|1|1|1|96
+Enny Romero|L|Max Moroff|R|Walk|B|Four-Seam Fastball|8|2|2|1|11|98
+Enny Romero|L|Max Moroff|R|Walk|B|Four-Seam Fastball|9|3|2|1|11|97
+Enny Romero|L|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|10|0|0|1|2|97
+Enny Romero|L|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|11|0|1|1|11|97
+Enny Romero|L|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|12|0|2|1|12|98
+Enny Romero|L|Jose Osuna|R|Strikeout|B|Four-Seam Fastball|13|0|2|1|11|96
+Enny Romero|L|Jose Osuna|R|Strikeout|S|Four-Seam Fastball|14|1|2|1|11|98
+Enny Romero|L|Adam Frazier|L|Strikeout|B|Slider|15|0|0|2|12|87
+Enny Romero|L|Adam Frazier|L|Strikeout|C|Slider|16|1|0|2|6|86
+Enny Romero|L|Adam Frazier|L|Strikeout|F|Slider|17|1|1|2|12|87
+Enny Romero|L|Adam Frazier|L|Strikeout|W|Slider|18|1|2|2|14|87

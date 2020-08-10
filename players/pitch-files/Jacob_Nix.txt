@@ -1,0 +1,656 @@
+Jacob Nix|R|Cesar Hernandez|L|Flyout|C|Four-Seam Fastball|0|0|0|0|1|94
+Jacob Nix|R|Cesar Hernandez|L|Flyout|C|Four-Seam Fastball|1|0|1|0|13|94
+Jacob Nix|R|Cesar Hernandez|L|Flyout|B|Changeup|2|0|2|0|13|81
+Jacob Nix|R|Cesar Hernandez|L|Flyout|F|Four-Seam Fastball|3|1|2|0|11|95
+Jacob Nix|R|Cesar Hernandez|L|Flyout|B|Four-Seam Fastball|4|1|2|0|11|94
+Jacob Nix|R|Cesar Hernandez|L|Flyout|F|Four-Seam Fastball|5|2|2|0|5|95
+Jacob Nix|R|Cesar Hernandez|L|Flyout|B|Changeup|6|2|2|0|14|82
+Jacob Nix|R|Cesar Hernandez|L|Flyout|X|Four-Seam Fastball|7|3|2|0|4|95
+Jacob Nix|R|Rhys Hoskins|R|Lineout|B|Four-Seam Fastball|8|0|0|1|14|94
+Jacob Nix|R|Rhys Hoskins|R|Lineout|F|Four-Seam Fastball|9|1|0|1|13|94
+Jacob Nix|R|Rhys Hoskins|R|Lineout|F|Curveball|10|1|1|1|14|76
+Jacob Nix|R|Rhys Hoskins|R|Lineout|X|Curveball|11|1|2|1|5|77
+Jacob Nix|R|Nick Williams|L|Single|F|Four-Seam Fastball|12|0|0|2|11|94
+Jacob Nix|R|Nick Williams|L|Single|F|Curveball|13|0|1|2|5|77
+Jacob Nix|R|Nick Williams|L|Single|D|Four-Seam Fastball|14|0|2|2|6|95
+Jacob Nix|R|Carlos Santana|L|Walk|B|Four-Seam Fastball|15|0|0|2|11|93
+Jacob Nix|R|Carlos Santana|L|Walk|B|Changeup|16|1|0|2|13|81
+Jacob Nix|R|Carlos Santana|L|Walk|F|Four-Seam Fastball|17|2|0|2|2|93
+Jacob Nix|R|Carlos Santana|L|Walk|F|Four-Seam Fastball|18|2|1|2|12|94
+Jacob Nix|R|Carlos Santana|L|Walk|B|Four-Seam Fastball|19|2|2|2|12|95
+Jacob Nix|R|Carlos Santana|L|Walk|B|Changeup|20|3|2|2|14|82
+Jacob Nix|R|Asdrubal Cabrera|L|Single|C|Four-Seam Fastball|21|0|0|2|12|93
+Jacob Nix|R|Asdrubal Cabrera|L|Single|D|Curveball|22|0|1|2|5|77
+Jacob Nix|R|Odubel Herrera|L|Groundout|B|Four-Seam Fastball|23|0|0|2|14|94
+Jacob Nix|R|Odubel Herrera|L|Groundout|X|Four-Seam Fastball|24|1|0|2|4|94
+Jacob Nix|R|Maikel Franco|R|Groundout|X|Curveball|25|0|0|0|3|75
+Jacob Nix|R|Jorge Alfaro|R|Single|C|Four-Seam Fastball|26|0|0|1|9|93
+Jacob Nix|R|Jorge Alfaro|R|Single|S|Four-Seam Fastball|27|0|1|1|11|92
+Jacob Nix|R|Jorge Alfaro|R|Single|F|Four-Seam Fastball|28|0|2|1|11|93
+Jacob Nix|R|Jorge Alfaro|R|Single|F|Four-Seam Fastball|29|0|2|1|11|93
+Jacob Nix|R|Jorge Alfaro|R|Single|D|Curveball|30|0|2|1|9|77
+Jacob Nix|R|Zach Eflin|R|Forceout|X|Four-Seam Fastball|31|0|0|1|11|93
+Jacob Nix|R|Cesar Hernandez|L|Walk|C|Four-Seam Fastball|32|0|0|2|1|93
+Jacob Nix|R|Cesar Hernandez|L|Walk|*B|Curveball|33|0|1|2|14|77
+Jacob Nix|R|Cesar Hernandez|L|Walk|B|Changeup|34|1|1|2|11|81
+Jacob Nix|R|Cesar Hernandez|L|Walk|B|Changeup|35|2|1|2|11|79
+Jacob Nix|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|36|3|1|2|12|91
+Jacob Nix|R|Rhys Hoskins|R|Lineout|*B|Curveball|37|0|0|2|14|77
+Jacob Nix|R|Rhys Hoskins|R|Lineout|F|Four-Seam Fastball|38|1|0|2|4|92
+Jacob Nix|R|Rhys Hoskins|R|Lineout|X|Four-Seam Fastball|39|1|1|2|2|93
+Jacob Nix|R|Nick Williams|L|Strikeout|C|Four-Seam Fastball|40|0|0|0|6|92
+Jacob Nix|R|Nick Williams|L|Strikeout|F|Curveball|41|0|1|0|9|75
+Jacob Nix|R|Nick Williams|L|Strikeout|C|Four-Seam Fastball|42|0|2|0|9|93
+Jacob Nix|R|Carlos Santana|L|Pop Out|C|Four-Seam Fastball|43|0|0|1|1|93
+Jacob Nix|R|Carlos Santana|L|Pop Out|B|Four-Seam Fastball|44|0|1|1|14|93
+Jacob Nix|R|Carlos Santana|L|Pop Out|S|Four-Seam Fastball|45|1|1|1|11|92
+Jacob Nix|R|Carlos Santana|L|Pop Out|X|Changeup|46|1|2|1|13|80
+Jacob Nix|R|Asdrubal Cabrera|L|Flyout|C|Four-Seam Fastball|47|0|0|2|9|93
+Jacob Nix|R|Asdrubal Cabrera|L|Flyout|X|Four-Seam Fastball|48|0|1|2|12|93
+Jacob Nix|R|Odubel Herrera|L|Flyout|C|Curveball|49|0|0|0|4|76
+Jacob Nix|R|Odubel Herrera|L|Flyout|F|Four-Seam Fastball|50|0|1|0|4|92
+Jacob Nix|R|Odubel Herrera|L|Flyout|X|Four-Seam Fastball|51|0|2|0|3|93
+Jacob Nix|R|Maikel Franco|R|Groundout|B|Four-Seam Fastball|52|0|0|1|14|92
+Jacob Nix|R|Maikel Franco|R|Groundout|B|Four-Seam Fastball|53|1|0|1|11|91
+Jacob Nix|R|Maikel Franco|R|Groundout|C|Four-Seam Fastball|54|2|0|1|1|92
+Jacob Nix|R|Maikel Franco|R|Groundout|X|Four-Seam Fastball|55|2|1|1|4|91
+Jacob Nix|R|Jorge Alfaro|R|Strikeout|B|Four-Seam Fastball|56|0|0|2|14|92
+Jacob Nix|R|Jorge Alfaro|R|Strikeout|C|Four-Seam Fastball|57|1|0|2|5|92
+Jacob Nix|R|Jorge Alfaro|R|Strikeout|F|Slider|58|1|1|2|12|79
+Jacob Nix|R|Jorge Alfaro|R|Strikeout|W|Changeup|59|1|2|2|13|79
+Jacob Nix|R|Zach Eflin|R|Groundout|C|Four-Seam Fastball|60|0|0|0|9|92
+Jacob Nix|R|Zach Eflin|R|Groundout|B|Curveball|61|0|1|0|13|74
+Jacob Nix|R|Zach Eflin|R|Groundout|B|Four-Seam Fastball|62|1|1|0|14|92
+Jacob Nix|R|Zach Eflin|R|Groundout|S|Four-Seam Fastball|63|2|1|0|3|92
+Jacob Nix|R|Zach Eflin|R|Groundout|X|Four-Seam Fastball|64|2|2|0|4|92
+Jacob Nix|R|Cesar Hernandez|L|Single|B|Curveball|65|0|0|1|13|74
+Jacob Nix|R|Cesar Hernandez|L|Single|D|Four-Seam Fastball|66|1|0|1|4|92
+Jacob Nix|R|Rhys Hoskins|R|Strikeout|B|Four-Seam Fastball|67|0|0|1|14|92
+Jacob Nix|R|Rhys Hoskins|R|Strikeout|C|Four-Seam Fastball|68|1|0|1|6|93
+Jacob Nix|R|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|69|1|1|1|11|93
+Jacob Nix|R|Rhys Hoskins|R|Strikeout|S|Changeup|70|1|2|1|13|79
+Jacob Nix|R|Nick Williams|L|Groundout|C|Curveball|71|0|0|2|7|76
+Jacob Nix|R|Nick Williams|L|Groundout|C|Curveball|72|0|1|2|1|75
+Jacob Nix|R|Nick Williams|L|Groundout|X|Four-Seam Fastball|73|0|2|2|12|93
+Jacob Nix|R|Carlos Santana|L|Strikeout|C|Changeup|74|0|0|0|9|79
+Jacob Nix|R|Carlos Santana|L|Strikeout|C|Curveball|75|0|1|0|13|75
+Jacob Nix|R|Carlos Santana|L|Strikeout|F|Changeup|76|0|2|0|13|80
+Jacob Nix|R|Carlos Santana|L|Strikeout|B|Curveball|77|0|2|0|14|76
+Jacob Nix|R|Carlos Santana|L|Strikeout|B|Four-Seam Fastball|78|1|2|0|12|94
+Jacob Nix|R|Carlos Santana|L|Strikeout|S|Four-Seam Fastball|79|2|2|0|12|93
+Jacob Nix|R|Asdrubal Cabrera|L|Groundout|C|Four-Seam Fastball|80|0|0|1|5|95
+Jacob Nix|R|Asdrubal Cabrera|L|Groundout|S|Four-Seam Fastball|81|0|1|1|4|93
+Jacob Nix|R|Asdrubal Cabrera|L|Groundout|F|Four-Seam Fastball|82|0|2|1|1|94
+Jacob Nix|R|Asdrubal Cabrera|L|Groundout|B|Four-Seam Fastball|83|0|2|1|14|94
+Jacob Nix|R|Asdrubal Cabrera|L|Groundout|X|Curveball|84|1|2|1|11|77
+Jacob Nix|R|Odubel Herrera|L|Groundout|S|Changeup|85|0|0|2|4|80
+Jacob Nix|R|Odubel Herrera|L|Groundout|F|Four-Seam Fastball|86|0|1|2|3|94
+Jacob Nix|R|Odubel Herrera|L|Groundout|X|Curveball|87|0|2|2|11|76
+Jacob Nix|R|Jon Jay|L|Double|B|Four-Seam Fastball|0|0|0|0|13|93
+Jacob Nix|R|Jon Jay|L|Double|S|Four-Seam Fastball|1|1|0|0|11|92
+Jacob Nix|R|Jon Jay|L|Double|C|Curveball|2|1|1|0|2|77
+Jacob Nix|R|Jon Jay|L|Double|D|Four-Seam Fastball|3|1|2|0|11|94
+Jacob Nix|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|4|0|0|0|14|93
+Jacob Nix|R|A.J. Pollock|R|Walk|F|Four-Seam Fastball|5|1|0|0|8|93
+Jacob Nix|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|6|1|1|0|13|92
+Jacob Nix|R|A.J. Pollock|R|Walk|*B|Curveball|7|2|1|0|14|77
+Jacob Nix|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|8|3|1|0|13|91
+Jacob Nix|R|David Peralta|L|Home Run|B|Four-Seam Fastball|9|0|0|0|11|93
+Jacob Nix|R|David Peralta|L|Home Run|B|Changeup|10|1|0|0|11|81
+Jacob Nix|R|David Peralta|L|Home Run|B|Four-Seam Fastball|11|2|0|0|14|93
+Jacob Nix|R|David Peralta|L|Home Run|E|Four-Seam Fastball|12|3|0|0|4|92
+Jacob Nix|R|Paul Goldschmidt|R|Single|C|Four-Seam Fastball|13|0|0|0|9|94
+Jacob Nix|R|Paul Goldschmidt|R|Single|B|Four-Seam Fastball|14|0|1|0|14|94
+Jacob Nix|R|Paul Goldschmidt|R|Single|B|Four-Seam Fastball|15|1|1|0|14|93
+Jacob Nix|R|Paul Goldschmidt|R|Single|D|Four-Seam Fastball|16|2|1|0|8|94
+Jacob Nix|R|Eduardo Escobar|L|Single|C|Curveball|17|0|0|0|8|75
+Jacob Nix|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|18|0|1|0|13|93
+Jacob Nix|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|19|0|2|0|11|92
+Jacob Nix|R|Eduardo Escobar|L|Single|D|Changeup|20|1|2|0|13|80
+Jacob Nix|R|Ketel Marte|L|Flyout|C|Four-Seam Fastball|21|0|0|0|8|91
+Jacob Nix|R|Ketel Marte|L|Flyout|X|Changeup|22|0|1|0|14|79
+Jacob Nix|R|Nick Ahmed|R|Walk|F|Four-Seam Fastball|23|0|0|1|5|92
+Jacob Nix|R|Nick Ahmed|R|Walk|B|Curveball|24|0|1|1|14|77
+Jacob Nix|R|Nick Ahmed|R|Walk|B|Four-Seam Fastball|25|1|1|1|11|92
+Jacob Nix|R|Nick Ahmed|R|Walk|C|Four-Seam Fastball|26|2|1|1|13|92
+Jacob Nix|R|Nick Ahmed|R|Walk|*B|Curveball|27|2|2|1|14|79
+Jacob Nix|R|Nick Ahmed|R|Walk|F|Four-Seam Fastball|28|3|2|1|12|93
+Jacob Nix|R|Nick Ahmed|R|Walk|B|Curveball|29|3|2|1|14|77
+Jacob Nix|R|Alex Avila|L|Single|F|Four-Seam Fastball|30|0|0|1|7|92
+Jacob Nix|R|Alex Avila|L|Single|B|Curveball|31|0|1|1|14|77
+Jacob Nix|R|Alex Avila|L|Single|B|Changeup|32|1|1|1|14|81
+Jacob Nix|R|Alex Avila|L|Single|C|Four-Seam Fastball|33|2|1|1|3|93
+Jacob Nix|R|Alex Avila|L|Single|E|Four-Seam Fastball|34|2|2|1|6|93
+Jacob Nix|R|Clay Buchholz|L|Strikeout|C|Four-Seam Fastball|35|0|0|1|8|92
+Jacob Nix|R|Clay Buchholz|L|Strikeout|C|Four-Seam Fastball|36|0|1|1|1|92
+Jacob Nix|R|Clay Buchholz|L|Strikeout|F|Four-Seam Fastball|37|0|2|1|11|93
+Jacob Nix|R|Clay Buchholz|L|Strikeout|S|Four-Seam Fastball|38|0|2|1|4|92
+Jacob Nix|R|Jon Jay|L|Hit By Pitch|*B|Four-Seam Fastball|39|0|0|2|14|92
+Jacob Nix|R|Jon Jay|L|Hit By Pitch|B|Changeup|40|1|0|2|11|81
+Jacob Nix|R|Jon Jay|L|Hit By Pitch|H|Four-Seam Fastball|41|2|0|2|12|93
+Jacob Nix|R|Charlie Blackmon|L|Single|C|Four-Seam Fastball|0|0|0|0|1|93
+Jacob Nix|R|Charlie Blackmon|L|Single|D|Four-Seam Fastball|1|0|1|0|11|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|C|Four-Seam Fastball|2|0|0|0|1|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|3|0|1|0|11|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|4|1|1|0|11|94
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|5|2|1|0|11|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|F|Four-Seam Fastball|6|3|1|0|11|94
+Jacob Nix|R|DJ LeMahieu|R|Groundout|F|Four-Seam Fastball|7|3|2|0|4|94
+Jacob Nix|R|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|8|3|2|0|6|94
+Jacob Nix|R|Carlos Gonzalez|L|Single|E|Four-Seam Fastball|9|0|0|1|3|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|10|0|0|1|11|94
+Jacob Nix|R|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|11|1|0|1|11|94
+Jacob Nix|R|Nolan Arenado|R|Groundout|*B|Curveball|12|2|0|1|14|78
+Jacob Nix|R|Nolan Arenado|R|Groundout|S|Four-Seam Fastball|13|3|0|1|3|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|14|3|1|1|8|94
+Jacob Nix|R|Trevor Story|R|Groundout|B|Four-Seam Fastball|15|0|0|2|14|94
+Jacob Nix|R|Trevor Story|R|Groundout|F|Four-Seam Fastball|16|1|0|2|3|94
+Jacob Nix|R|Trevor Story|R|Groundout|C|Slider|17|1|1|2|1|81
+Jacob Nix|R|Trevor Story|R|Groundout|F|Four-Seam Fastball|18|1|2|2|14|94
+Jacob Nix|R|Trevor Story|R|Groundout|*B|Changeup|19|1|2|2|14|79
+Jacob Nix|R|Trevor Story|R|Groundout|F|Changeup|20|2|2|2|7|79
+Jacob Nix|R|Trevor Story|R|Groundout|X|Four-Seam Fastball|21|2|2|2|11|94
+Jacob Nix|R|Gerardo Parra|L|Groundout|B|Curveball|22|0|0|0|14|76
+Jacob Nix|R|Gerardo Parra|L|Groundout|B|Four-Seam Fastball|23|1|0|0|11|93
+Jacob Nix|R|Gerardo Parra|L|Groundout|C|Four-Seam Fastball|24|2|0|0|11|93
+Jacob Nix|R|Gerardo Parra|L|Groundout|X|Changeup|25|2|1|0|8|80
+Jacob Nix|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|26|0|0|1|14|92
+Jacob Nix|R|Ian Desmond|R|Walk|C|Four-Seam Fastball|27|1|0|1|9|94
+Jacob Nix|R|Ian Desmond|R|Walk|C|Changeup|28|1|1|1|3|80
+Jacob Nix|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|29|1|2|1|12|93
+Jacob Nix|R|Ian Desmond|R|Walk|B|Slider|30|2|2|1|14|83
+Jacob Nix|R|Ian Desmond|R|Walk|*B|Changeup|31|3|2|1|14|80
+Jacob Nix|R|Tony Wolters|L|Triple|F|Four-Seam Fastball|32|0|0|1|5|94
+Jacob Nix|R|Tony Wolters|L|Triple|B|Four-Seam Fastball|33|0|1|1|11|93
+Jacob Nix|R|Tony Wolters|L|Triple|B|Four-Seam Fastball|34|1|1|1|11|93
+Jacob Nix|R|Tony Wolters|L|Triple|E|Four-Seam Fastball|35|2|1|1|6|94
+Jacob Nix|R|Jon Gray|R|Strikeout|B|Four-Seam Fastball|36|0|0|1|14|93
+Jacob Nix|R|Jon Gray|R|Strikeout|F|Four-Seam Fastball|37|1|0|1|14|93
+Jacob Nix|R|Jon Gray|R|Strikeout|C|Curveball|38|1|1|1|6|77
+Jacob Nix|R|Jon Gray|R|Strikeout|F|Curveball|39|1|2|1|5|75
+Jacob Nix|R|Jon Gray|R|Strikeout|S|Four-Seam Fastball|40|1|2|1|1|93
+Jacob Nix|R|Charlie Blackmon|L|Single|B|Changeup|41|0|0|2|14|81
+Jacob Nix|R|Charlie Blackmon|L|Single|D|Four-Seam Fastball|42|1|0|2|8|94
+Jacob Nix|R|DJ LeMahieu|R|Forceout|S|Slider|43|0|0|2|14|82
+Jacob Nix|R|DJ LeMahieu|R|Forceout|B|Four-Seam Fastball|44|0|1|2|11|94
+Jacob Nix|R|DJ LeMahieu|R|Forceout|B|Four-Seam Fastball|45|1|1|2|13|93
+Jacob Nix|R|DJ LeMahieu|R|Forceout|B|Slider|46|2|1|2|11|79
+Jacob Nix|R|DJ LeMahieu|R|Forceout|X|Four-Seam Fastball|47|3|1|2|5|94
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|48|0|0|0|14|92
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|C|Curveball|49|1|0|0|5|77
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|50|1|1|0|12|92
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|C|Curveball|51|2|1|0|5|76
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|B|Changeup|52|2|2|0|3|81
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|F|Curveball|53|3|2|0|3|76
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|X|Four-Seam Fastball|54|3|2|0|6|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|C|Four-Seam Fastball|55|0|0|1|8|92
+Jacob Nix|R|Nolan Arenado|R|Groundout|F|Changeup|56|0|1|1|13|80
+Jacob Nix|R|Nolan Arenado|R|Groundout|B|Slider|57|0|2|1|14|81
+Jacob Nix|R|Nolan Arenado|R|Groundout|F|Four-Seam Fastball|58|1|2|1|11|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|F|Four-Seam Fastball|59|1|2|1|2|94
+Jacob Nix|R|Nolan Arenado|R|Groundout|F|Changeup|60|1|2|1|13|80
+Jacob Nix|R|Nolan Arenado|R|Groundout|X|Changeup|61|1|2|1|5|81
+Jacob Nix|R|Trevor Story|R|Double|B|Four-Seam Fastball|62|0|0|2|14|94
+Jacob Nix|R|Trevor Story|R|Double|C|Slider|63|1|0|2|14|82
+Jacob Nix|R|Trevor Story|R|Double|D|Four-Seam Fastball|64|1|1|2|13|93
+Jacob Nix|R|Gerardo Parra|L|Flyout|*B|Changeup|65|0|0|2|14|80
+Jacob Nix|R|Gerardo Parra|L|Flyout|*B|Curveball|66|1|0|2|14|78
+Jacob Nix|R|Gerardo Parra|L|Flyout|X|Changeup|67|2|0|2|7|81
+Jacob Nix|R|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|68|0|0|0|3|91
+Jacob Nix|R|Ian Desmond|R|Strikeout|B|Four-Seam Fastball|69|1|0|0|12|90
+Jacob Nix|R|Ian Desmond|R|Strikeout|F|Four-Seam Fastball|70|2|0|0|12|93
+Jacob Nix|R|Ian Desmond|R|Strikeout|F|Four-Seam Fastball|71|2|1|0|1|92
+Jacob Nix|R|Ian Desmond|R|Strikeout|C|Four-Seam Fastball|72|2|2|0|14|93
+Jacob Nix|R|Tony Wolters|L|Lineout|B|Four-Seam Fastball|73|0|0|1|14|93
+Jacob Nix|R|Tony Wolters|L|Lineout|F|Four-Seam Fastball|74|1|0|1|1|92
+Jacob Nix|R|Tony Wolters|L|Lineout|C|Curveball|75|1|1|1|11|77
+Jacob Nix|R|Tony Wolters|L|Lineout|F|Four-Seam Fastball|76|1|2|1|1|94
+Jacob Nix|R|Tony Wolters|L|Lineout|B|Changeup|77|1|2|1|11|81
+Jacob Nix|R|Tony Wolters|L|Lineout|F|Changeup|78|2|2|1|4|81
+Jacob Nix|R|Tony Wolters|L|Lineout|X|Curveball|79|2|2|1|8|78
+Jacob Nix|R|Jon Gray|R|Flyout|B|Four-Seam Fastball|80|0|0|2|14|92
+Jacob Nix|R|Jon Gray|R|Flyout|B|Four-Seam Fastball|81|1|0|2|14|93
+Jacob Nix|R|Jon Gray|R|Flyout|C|Four-Seam Fastball|82|2|0|2|14|93
+Jacob Nix|R|Jon Gray|R|Flyout|X|Four-Seam Fastball|83|2|1|2|7|92
+Jacob Nix|R|Charlie Blackmon|L|Groundout|C|Curveball|84|0|0|0|1|75
+Jacob Nix|R|Charlie Blackmon|L|Groundout|F|Four-Seam Fastball|85|0|1|0|3|92
+Jacob Nix|R|Charlie Blackmon|L|Groundout|F|Slider|86|0|2|0|14|79
+Jacob Nix|R|Charlie Blackmon|L|Groundout|X|Changeup|87|0|2|0|13|80
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|88|0|0|1|14|92
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|89|1|0|1|13|92
+Jacob Nix|R|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|90|2|0|1|14|93
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|B|Curveball|91|0|0|2|11|76
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|S|Changeup|92|1|0|2|13|80
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|93|1|1|2|14|92
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|F|Curveball|94|2|1|2|14|77
+Jacob Nix|R|Carlos Gonzalez|L|Groundout|X|Changeup|95|2|2|2|1|81
+Jacob Nix|R|Mitch Haniger|R|Groundout|C|Four-Seam Fastball|0|0|0|0|11|92
+Jacob Nix|R|Mitch Haniger|R|Groundout|X|Four-Seam Fastball|1|0|1|0|5|93
+Jacob Nix|R|Robinson Cano|L|Groundout|C|Four-Seam Fastball|2|0|0|1|4|93
+Jacob Nix|R|Robinson Cano|L|Groundout|X|Changeup|3|0|1|1|11|81
+Jacob Nix|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|4|0|0|2|14|92
+Jacob Nix|R|Jean Segura|R|Groundout|C|Four-Seam Fastball|5|1|0|2|12|93
+Jacob Nix|R|Jean Segura|R|Groundout|X|Four-Seam Fastball|6|1|1|2|11|92
+Jacob Nix|R|Nelson Cruz|R|Flyout|B|Four-Seam Fastball|7|0|0|0|14|93
+Jacob Nix|R|Nelson Cruz|R|Flyout|X|Four-Seam Fastball|8|1|0|0|5|92
+Jacob Nix|R|Denard Span|L|Pop Out|C|Changeup|9|0|0|1|7|80
+Jacob Nix|R|Denard Span|L|Pop Out|X|Four-Seam Fastball|10|0|1|1|1|92
+Jacob Nix|R|Kyle Seager|L|Flyout|C|Four-Seam Fastball|11|0|0|2|4|93
+Jacob Nix|R|Kyle Seager|L|Flyout|C|Curveball|12|0|1|2|4|76
+Jacob Nix|R|Kyle Seager|L|Flyout|F|Four-Seam Fastball|13|0|2|2|7|93
+Jacob Nix|R|Kyle Seager|L|Flyout|X|Four-Seam Fastball|14|0|2|2|3|94
+Jacob Nix|R|Mike Zunino|R|Single|C|Four-Seam Fastball|15|0|0|0|2|91
+Jacob Nix|R|Mike Zunino|R|Single|D|Four-Seam Fastball|16|0|1|0|1|91
+Jacob Nix|R|Dee Gordon|L|Single|D|Four-Seam Fastball|17|0|0|0|2|91
+Jacob Nix|R|Felix Hernandez|R|Grounded Into DP|L|Four-Seam Fastball|18|0|0|0|12|93
+Jacob Nix|R|Felix Hernandez|R|Grounded Into DP|X|Four-Seam Fastball|19|0|1|0|11|92
+Jacob Nix|R|Mitch Haniger|R|Lineout|C|Curveball|20|0|0|2|6|77
+Jacob Nix|R|Mitch Haniger|R|Lineout|X|Four-Seam Fastball|21|0|1|2|1|93
+Jacob Nix|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|22|0|0|0|5|93
+Jacob Nix|R|Jean Segura|R|Single|C|Four-Seam Fastball|23|0|0|1|3|92
+Jacob Nix|R|Jean Segura|R|Single|B|Curveball|24|0|1|1|12|76
+Jacob Nix|R|Jean Segura|R|Single|B|Curveball|25|1|1|1|11|77
+Jacob Nix|R|Jean Segura|R|Single|D|Four-Seam Fastball|26|2|1|1|4|93
+Jacob Nix|R|Nelson Cruz|R|Flyout|B|Curveball|27|0|0|1|13|75
+Jacob Nix|R|Nelson Cruz|R|Flyout|X|Four-Seam Fastball|28|1|0|1|3|92
+Jacob Nix|R|Denard Span|L|Bunt Groundout|X|Four-Seam Fastball|29|0|0|2|11|90
+Jacob Nix|R|Kyle Seager|L|Groundout|C|Curveball|30|0|0|0|3|75
+Jacob Nix|R|Kyle Seager|L|Groundout|B|Curveball|31|0|1|0|14|75
+Jacob Nix|R|Kyle Seager|L|Groundout|C|Four-Seam Fastball|32|1|1|0|9|92
+Jacob Nix|R|Kyle Seager|L|Groundout|X|Four-Seam Fastball|33|1|2|0|13|92
+Jacob Nix|R|Mike Zunino|R|Single|B|Four-Seam Fastball|34|0|0|1|11|90
+Jacob Nix|R|Mike Zunino|R|Single|C|Four-Seam Fastball|35|1|0|1|9|92
+Jacob Nix|R|Mike Zunino|R|Single|C|Curveball|36|1|1|1|1|75
+Jacob Nix|R|Mike Zunino|R|Single|D|Slider|37|1|2|1|14|79
+Jacob Nix|R|Dee Gordon|L|Single|F|Curveball|38|0|0|1|13|77
+Jacob Nix|R|Dee Gordon|L|Single|B|Four-Seam Fastball|39|0|1|1|11|92
+Jacob Nix|R|Dee Gordon|L|Single|D|Four-Seam Fastball|40|1|1|1|7|92
+Jacob Nix|R|Felix Hernandez|R|Grounded Into DP|X|Four-Seam Fastball|41|0|0|1|3|91
+Jacob Nix|R|Mitch Haniger|R|Groundout|B|Curveball|42|0|0|0|3|75
+Jacob Nix|R|Mitch Haniger|R|Groundout|B|Curveball|43|1|0|0|12|76
+Jacob Nix|R|Mitch Haniger|R|Groundout|X|Four-Seam Fastball|44|2|0|0|9|91
+Jacob Nix|R|Robinson Cano|L|Groundout|B|Four-Seam Fastball|45|0|0|1|11|92
+Jacob Nix|R|Robinson Cano|L|Groundout|X|Four-Seam Fastball|46|1|0|1|14|92
+Jacob Nix|R|Jean Segura|R|Triple|B|Four-Seam Fastball|47|0|0|2|14|91
+Jacob Nix|R|Jean Segura|R|Triple|D|Four-Seam Fastball|48|1|0|2|6|92
+Jacob Nix|R|Nelson Cruz|R|Groundout|B|Curveball|49|0|0|2|11|75
+Jacob Nix|R|Nelson Cruz|R|Groundout|*B|Curveball|50|1|0|2|14|74
+Jacob Nix|R|Nelson Cruz|R|Groundout|S|Changeup|51|2|0|2|7|78
+Jacob Nix|R|Nelson Cruz|R|Groundout|B|Four-Seam Fastball|52|2|1|2|12|92
+Jacob Nix|R|Nelson Cruz|R|Groundout|C|Curveball|53|3|1|2|11|74
+Jacob Nix|R|Nelson Cruz|R|Groundout|X|Changeup|54|3|2|2|5|77
+Jacob Nix|R|Denard Span|L|Pop Out|C|Four-Seam Fastball|55|0|0|0|13|91
+Jacob Nix|R|Denard Span|L|Pop Out|F|Changeup|56|0|1|0|13|79
+Jacob Nix|R|Denard Span|L|Pop Out|X|Four-Seam Fastball|57|0|2|0|1|91
+Jacob Nix|R|Kyle Seager|L|Lineout|X|Four-Seam Fastball|58|0|0|1|13|91
+Jacob Nix|R|Mike Zunino|R|Flyout|B|Four-Seam Fastball|59|0|0|2|14|91
+Jacob Nix|R|Mike Zunino|R|Flyout|F|Four-Seam Fastball|60|1|0|2|2|92
+Jacob Nix|R|Mike Zunino|R|Flyout|X|Four-Seam Fastball|61|1|1|2|5|92
+Jacob Nix|R|Dee Gordon|L|Flyout|C|Curveball|62|0|0|0|4|75
+Jacob Nix|R|Dee Gordon|L|Flyout|B|Changeup|63|0|1|0|11|79
+Jacob Nix|R|Dee Gordon|L|Flyout|B|Curveball|64|1|1|0|11|75
+Jacob Nix|R|Dee Gordon|L|Flyout|X|Four-Seam Fastball|65|2|1|0|5|91
+Jacob Nix|R|Ben Gamel|L|Flyout|C|Four-Seam Fastball|66|0|0|1|3|92
+Jacob Nix|R|Ben Gamel|L|Flyout|C|Curveball|67|0|1|1|13|75
+Jacob Nix|R|Ben Gamel|L|Flyout|X|Curveball|68|0|2|1|4|75
+Jacob Nix|R|Mitch Haniger|R|Single|C|Curveball|69|0|0|2|6|76
+Jacob Nix|R|Mitch Haniger|R|Single|D|Four-Seam Fastball|70|0|1|2|3|92
+Jacob Nix|R|Robinson Cano|L|Flyout|B|Four-Seam Fastball|71|0|0|2|11|91
+Jacob Nix|R|Robinson Cano|L|Flyout|X|Changeup|72|1|0|2|7|79
+Jacob Nix|R|Jean Segura|R|Flyout|B|Four-Seam Fastball|73|0|0|0|14|91
+Jacob Nix|R|Jean Segura|R|Flyout|C|Four-Seam Fastball|74|1|0|0|12|90
+Jacob Nix|R|Jean Segura|R|Flyout|F|Four-Seam Fastball|75|1|1|0|13|89
+Jacob Nix|R|Jean Segura|R|Flyout|X|Four-Seam Fastball|76|1|2|0|5|91
+Jacob Nix|R|Nelson Cruz|R|Home Run|C|Curveball|77|0|0|1|8|75
+Jacob Nix|R|Nelson Cruz|R|Home Run|E|Four-Seam Fastball|78|0|1|1|1|91
+Jacob Nix|R|Charlie Blackmon|L|Double|D|Four-Seam Fastball|0|0|0|0|8|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|1|0|0|0|11|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|2|1|0|0|11|92
+Jacob Nix|R|DJ LeMahieu|R|Groundout|F|Four-Seam Fastball|3|2|0|0|4|92
+Jacob Nix|R|DJ LeMahieu|R|Groundout|F|Four-Seam Fastball|4|2|1|0|1|93
+Jacob Nix|R|DJ LeMahieu|R|Groundout|F|Four-Seam Fastball|5|2|2|0|11|94
+Jacob Nix|R|DJ LeMahieu|R|Groundout|X|Curveball|6|2|2|0|14|78
+Jacob Nix|R|Nolan Arenado|R|Sac Fly|C|Four-Seam Fastball|7|0|0|1|12|94
+Jacob Nix|R|Nolan Arenado|R|Sac Fly|B|Four-Seam Fastball|8|0|1|1|11|93
+Jacob Nix|R|Nolan Arenado|R|Sac Fly|E|Four-Seam Fastball|9|1|1|1|12|94
+Jacob Nix|R|Trevor Story|R|Flyout|X|Four-Seam Fastball|10|0|0|2|6|93
+Jacob Nix|R|David Dahl|L|Flyout|B|Curveball|11|0|0|0|14|78
+Jacob Nix|R|David Dahl|L|Flyout|C|Curveball|12|1|0|0|4|78
+Jacob Nix|R|David Dahl|L|Flyout|B|Four-Seam Fastball|13|1|1|0|13|93
+Jacob Nix|R|David Dahl|L|Flyout|B|Four-Seam Fastball|14|2|1|0|12|92
+Jacob Nix|R|David Dahl|L|Flyout|X|Four-Seam Fastball|15|3|1|0|11|92
+Jacob Nix|R|Ian Desmond|R|Flyout|X|Four-Seam Fastball|16|0|0|1|11|92
+Jacob Nix|R|Gerardo Parra|L|Lineout|B|Four-Seam Fastball|17|0|0|2|11|92
+Jacob Nix|R|Gerardo Parra|L|Lineout|F|Changeup|18|1|0|2|1|81
+Jacob Nix|R|Gerardo Parra|L|Lineout|X|Four-Seam Fastball|19|1|1|2|5|93
+Jacob Nix|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|20|0|0|0|12|94
+Jacob Nix|R|Chris Iannetta|R|Flyout|B|Slider|21|1|0|0|11|80
+Jacob Nix|R|Chris Iannetta|R|Flyout|X|Four-Seam Fastball|22|2|0|0|8|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|C|Four-Seam Fastball|23|0|0|1|6|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|C|Curveball|24|0|1|1|7|78
+Jacob Nix|R|Kyle Freeland|L|Strikeout|B|Four-Seam Fastball|25|0|2|1|11|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|F|Curveball|26|1|2|1|7|76
+Jacob Nix|R|Kyle Freeland|L|Strikeout|B|Four-Seam Fastball|27|1|2|1|12|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|C|Four-Seam Fastball|28|2|2|1|4|93
+Jacob Nix|R|Charlie Blackmon|L|Flyout|C|Four-Seam Fastball|29|0|0|2|4|93
+Jacob Nix|R|Charlie Blackmon|L|Flyout|F|Changeup|30|0|1|2|7|81
+Jacob Nix|R|Charlie Blackmon|L|Flyout|X|Four-Seam Fastball|31|0|2|2|12|94
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|C|Slider|32|0|0|0|6|80
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|33|0|1|0|14|92
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|B|Slider|34|1|1|0|14|81
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|B|Four-Seam Fastball|35|2|1|0|11|92
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|F|Four-Seam Fastball|36|3|1|0|5|93
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|F|Four-Seam Fastball|37|3|2|0|13|92
+Jacob Nix|R|DJ LeMahieu|R|Strikeout|C|Slider|38|3|2|0|1|82
+Jacob Nix|R|Nolan Arenado|R|Single|F|Curveball|39|0|0|1|7|78
+Jacob Nix|R|Nolan Arenado|R|Single|D|Slider|40|0|1|1|5|81
+Jacob Nix|R|Trevor Story|R|Double|B|Four-Seam Fastball|41|0|0|1|14|93
+Jacob Nix|R|Trevor Story|R|Double|D|Four-Seam Fastball|42|1|0|1|7|92
+Jacob Nix|R|David Dahl|L|Sac Fly|S|Changeup|43|0|0|1|13|82
+Jacob Nix|R|David Dahl|L|Sac Fly|E|Four-Seam Fastball|44|0|1|1|3|93
+Jacob Nix|R|Ian Desmond|R|Groundout|C|Four-Seam Fastball|45|0|0|2|3|92
+Jacob Nix|R|Ian Desmond|R|Groundout|X|Changeup|46|0|1|2|14|80
+Jacob Nix|R|Gerardo Parra|L|Flyout|B|Curveball|47|0|0|0|11|75
+Jacob Nix|R|Gerardo Parra|L|Flyout|C|Changeup|48|1|0|0|13|79
+Jacob Nix|R|Gerardo Parra|L|Flyout|X|Four-Seam Fastball|49|1|1|0|12|92
+Jacob Nix|R|Chris Iannetta|R|Flyout|B|Slider|50|0|0|1|14|83
+Jacob Nix|R|Chris Iannetta|R|Flyout|B|Slider|51|1|0|1|14|81
+Jacob Nix|R|Chris Iannetta|R|Flyout|B|Four-Seam Fastball|52|2|0|1|8|92
+Jacob Nix|R|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|53|3|0|1|5|93
+Jacob Nix|R|Chris Iannetta|R|Flyout|C|Four-Seam Fastball|54|3|1|1|2|93
+Jacob Nix|R|Chris Iannetta|R|Flyout|X|Four-Seam Fastball|55|3|2|1|2|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|S|Four-Seam Fastball|56|0|0|2|5|93
+Jacob Nix|R|Kyle Freeland|L|Strikeout|C|Curveball|57|0|1|2|4|77
+Jacob Nix|R|Kyle Freeland|L|Strikeout|S|Four-Seam Fastball|58|0|2|2|5|93
+Jacob Nix|R|Charlie Blackmon|L|Strikeout|C|Changeup|59|0|0|0|8|80
+Jacob Nix|R|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|60|0|1|0|14|92
+Jacob Nix|R|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|61|1|1|0|11|92
+Jacob Nix|R|Charlie Blackmon|L|Strikeout|T|Changeup|62|1|2|0|11|80
+Jacob Nix|R|DJ LeMahieu|R|Walk|B|Curveball|63|0|0|1|11|77
+Jacob Nix|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|64|1|0|1|14|93
+Jacob Nix|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|65|2|0|1|14|93
+Jacob Nix|R|DJ LeMahieu|R|Walk|C|Four-Seam Fastball|66|3|0|1|8|94
+Jacob Nix|R|DJ LeMahieu|R|Walk|B|Four-Seam Fastball|67|3|1|1|14|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|C|Four-Seam Fastball|68|0|0|1|9|93
+Jacob Nix|R|Nolan Arenado|R|Groundout|X|Four-Seam Fastball|69|0|1|1|13|93
+Jacob Nix|R|Trevor Story|R|Double|S|Four-Seam Fastball|70|0|0|2|11|92
+Jacob Nix|R|Trevor Story|R|Double|F|Changeup|71|0|1|2|8|79
+Jacob Nix|R|Trevor Story|R|Double|B|Changeup|72|0|2|2|14|80
+Jacob Nix|R|Trevor Story|R|Double|E|Four-Seam Fastball|73|1|2|2|14|93
+Jacob Nix|R|David Dahl|L|Pop Out|B|Curveball|74|0|0|2|11|76
+Jacob Nix|R|David Dahl|L|Pop Out|X|Four-Seam Fastball|75|1|0|2|3|92
+Jacob Nix|R|Ian Desmond|R|Single|B|Slider|76|0|0|0|14|80
+Jacob Nix|R|Ian Desmond|R|Single|B|Four-Seam Fastball|77|1|0|0|14|91
+Jacob Nix|R|Ian Desmond|R|Single|D|Four-Seam Fastball|78|2|0|0|9|92
+Jacob Nix|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|79|0|0|0|13|90
+Jacob Nix|R|Gerardo Parra|L|Walk|*B|Changeup|80|1|0|0|14|79
+Jacob Nix|R|Gerardo Parra|L|Walk|B|Four-Seam Fastball|81|2|0|0|13|91
+Jacob Nix|R|Gerardo Parra|L|Walk|C|Four-Seam Fastball|82|3|0|0|13|90
+Jacob Nix|R|Gerardo Parra|L|Walk|B|Changeup|83|3|1|0|13|78
+Jacob Nix|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|92
+Jacob Nix|R|Scott Schebler|L|Strikeout|S|Four-Seam Fastball|1|1|0|0|1|92
+Jacob Nix|R|Scott Schebler|L|Strikeout|B|Curveball|2|1|1|0|14|77
+Jacob Nix|R|Scott Schebler|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|1|92
+Jacob Nix|R|Scott Schebler|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|12|93
+Jacob Nix|R|Scott Schebler|L|Strikeout|C|Changeup|5|2|2|0|12|83
+Jacob Nix|R|Jose Peraza|R|Flyout|C|Four-Seam Fastball|6|0|0|1|6|93
+Jacob Nix|R|Jose Peraza|R|Flyout|B|Slider|7|0|1|1|12|83
+Jacob Nix|R|Jose Peraza|R|Flyout|X|Changeup|8|1|1|1|4|82
+Jacob Nix|R|Joey Votto|L|Walk|B|Four-Seam Fastball|9|0|0|2|14|94
+Jacob Nix|R|Joey Votto|L|Walk|B|Curveball|10|1|0|2|14|78
+Jacob Nix|R|Joey Votto|L|Walk|B|Curveball|11|2|0|2|14|77
+Jacob Nix|R|Joey Votto|L|Walk|B|Four-Seam Fastball|12|3|0|2|13|93
+Jacob Nix|R|Scooter Gennett|L|Strikeout|C|Four-Seam Fastball|13|0|0|2|4|92
+Jacob Nix|R|Scooter Gennett|L|Strikeout|F|Changeup|14|0|1|2|8|81
+Jacob Nix|R|Scooter Gennett|L|Strikeout|F|Changeup|15|0|2|2|13|81
+Jacob Nix|R|Scooter Gennett|L|Strikeout|W|Curveball|16|0|2|2|14|77
+Jacob Nix|R|Phillip Ervin|R|Hit By Pitch|C|Curveball|17|0|0|0|11|75
+Jacob Nix|R|Phillip Ervin|R|Hit By Pitch|F|Curveball|18|0|1|0|5|75
+Jacob Nix|R|Phillip Ervin|R|Hit By Pitch|B|Four-Seam Fastball|19|0|2|0|11|92
+Jacob Nix|R|Phillip Ervin|R|Hit By Pitch|H|Four-Seam Fastball|20|1|2|0|11|92
+Jacob Nix|R|Tucker Barnhart|L|Flyout|C|Four-Seam Fastball|21|0|0|0|6|92
+Jacob Nix|R|Tucker Barnhart|L|Flyout|X|Four-Seam Fastball|22|0|1|0|1|93
+Jacob Nix|R|Brandon Dixon|R|Grounded Into DP|B|Curveball|23|0|0|1|11|74
+Jacob Nix|R|Brandon Dixon|R|Grounded Into DP|S|Four-Seam Fastball|24|1|0|1|11|92
+Jacob Nix|R|Brandon Dixon|R|Grounded Into DP|F|Four-Seam Fastball|25|1|1|1|8|91
+Jacob Nix|R|Brandon Dixon|R|Grounded Into DP|X|Changeup|26|1|2|1|8|81
+Jacob Nix|R|Gabriel Guerrero|R|Strikeout|C|Curveball|27|0|0|0|1|72
+Jacob Nix|R|Gabriel Guerrero|R|Strikeout|B|Four-Seam Fastball|28|0|1|0|14|92
+Jacob Nix|R|Gabriel Guerrero|R|Strikeout|F|Four-Seam Fastball|29|1|1|0|9|91
+Jacob Nix|R|Gabriel Guerrero|R|Strikeout|B|Four-Seam Fastball|30|1|2|0|12|93
+Jacob Nix|R|Gabriel Guerrero|R|Strikeout|W|Curveball|31|2|2|0|14|76
+Jacob Nix|R|Billy Hamilton|L|Strikeout|C|Four-Seam Fastball|32|0|0|1|14|92
+Jacob Nix|R|Billy Hamilton|L|Strikeout|C|Curveball|33|0|1|1|9|76
+Jacob Nix|R|Billy Hamilton|L|Strikeout|B|Curveball|34|0|2|1|14|76
+Jacob Nix|R|Billy Hamilton|L|Strikeout|B|Four-Seam Fastball|35|1|2|1|12|93
+Jacob Nix|R|Billy Hamilton|L|Strikeout|B|Curveball|36|2|2|1|14|76
+Jacob Nix|R|Billy Hamilton|L|Strikeout|S|Changeup|37|3|2|1|7|81
+Jacob Nix|R|Scott Schebler|L|Strikeout|C|Curveball|38|0|0|2|12|75
+Jacob Nix|R|Scott Schebler|L|Strikeout|S|Four-Seam Fastball|39|0|1|2|11|93
+Jacob Nix|R|Scott Schebler|L|Strikeout|S|Four-Seam Fastball|40|0|2|2|12|94
+Jacob Nix|R|Jose Peraza|R|Single|D|Curveball|41|0|0|0|14|75
+Jacob Nix|R|Joey Votto|L|Groundout|X|Four-Seam Fastball|42|0|0|0|1|92
+Jacob Nix|R|Scooter Gennett|L|Flyout|B|Changeup|43|0|0|1|11|78
+Jacob Nix|R|Scooter Gennett|L|Flyout|X|Four-Seam Fastball|44|1|0|1|3|91
+Jacob Nix|R|Phillip Ervin|R|Walk|B|Curveball|45|0|0|2|12|75
+Jacob Nix|R|Phillip Ervin|R|Walk|B|Four-Seam Fastball|46|1|0|2|12|92
+Jacob Nix|R|Phillip Ervin|R|Walk|B|Curveball|47|2|0|2|14|75
+Jacob Nix|R|Phillip Ervin|R|Walk|C|Four-Seam Fastball|48|3|0|2|14|92
+Jacob Nix|R|Phillip Ervin|R|Walk|B|Four-Seam Fastball|49|3|1|2|14|92
+Jacob Nix|R|Tucker Barnhart|L|Single|*B|Changeup|50|0|0|2|13|80
+Jacob Nix|R|Tucker Barnhart|L|Single|E|Four-Seam Fastball|51|1|0|2|8|92
+Jacob Nix|R|Brandon Dixon|R|Lineout|B|Four-Seam Fastball|52|0|0|2|14|92
+Jacob Nix|R|Brandon Dixon|R|Lineout|B|Curveball|53|1|0|2|11|75
+Jacob Nix|R|Brandon Dixon|R|Lineout|X|Four-Seam Fastball|54|2|0|2|8|92
+Jacob Nix|R|Blake Trahan|R|Single|C|Four-Seam Fastball|55|0|0|0|3|91
+Jacob Nix|R|Blake Trahan|R|Single|B|Curveball|56|0|1|0|13|74
+Jacob Nix|R|Blake Trahan|R|Single|F|Four-Seam Fastball|57|1|1|0|6|90
+Jacob Nix|R|Blake Trahan|R|Single|F|Slider|58|1|2|0|14|82
+Jacob Nix|R|Blake Trahan|R|Single|B|Curveball|59|1|2|0|12|76
+Jacob Nix|R|Blake Trahan|R|Single|B|Four-Seam Fastball|60|2|2|0|14|92
+Jacob Nix|R|Blake Trahan|R|Single|D|Four-Seam Fastball|61|3|2|0|14|93
+Jacob Nix|R|Billy Hamilton|L|Single|C|Four-Seam Fastball|62|0|0|0|3|92
+Jacob Nix|R|Billy Hamilton|L|Single|B|Changeup|63|0|1|0|13|79
+Jacob Nix|R|Billy Hamilton|L|Single|D|Changeup|64|1|1|0|7|80
+Jacob Nix|R|Scott Schebler|L|Single|B|Four-Seam Fastball|65|0|0|0|14|92
+Jacob Nix|R|Scott Schebler|L|Single|B|Four-Seam Fastball|66|1|0|0|14|92
+Jacob Nix|R|Scott Schebler|L|Single|F|Four-Seam Fastball|67|2|0|0|3|93
+Jacob Nix|R|Scott Schebler|L|Single|B|Four-Seam Fastball|68|2|1|0|11|93
+Jacob Nix|R|Scott Schebler|L|Single|S|Four-Seam Fastball|69|3|1|0|1|93
+Jacob Nix|R|Scott Schebler|L|Single|D|Four-Seam Fastball|70|3|2|0|12|93
+Jacob Nix|R|Jose Peraza|R|Double|C|Curveball|71|0|0|0|2|76
+Jacob Nix|R|Jose Peraza|R|Double|E|Changeup|72|0|1|0|1|80
+Jacob Nix|R|Joey Votto|L|Home Run|C|Four-Seam Fastball|73|0|0|0|11|93
+Jacob Nix|R|Joey Votto|L|Home Run|B|Changeup|74|0|1|0|13|79
+Jacob Nix|R|Joey Votto|L|Home Run|B|Curveball|75|1|1|0|13|74
+Jacob Nix|R|Joey Votto|L|Home Run|*B|Curveball|76|2|1|0|14|77
+Jacob Nix|R|Joey Votto|L|Home Run|E|Four-Seam Fastball|77|3|1|0|1|93
+Jacob Nix|R|Rougned Odor|L|Single|F|Four-Seam Fastball|0|0|0|0|1|92
+Jacob Nix|R|Rougned Odor|L|Single|B|Four-Seam Fastball|1|0|1|0|11|92
+Jacob Nix|R|Rougned Odor|L|Single|F|Four-Seam Fastball|2|1|1|0|1|92
+Jacob Nix|R|Rougned Odor|L|Single|B|Curveball|3|1|2|0|14|78
+Jacob Nix|R|Rougned Odor|L|Single|D|Four-Seam Fastball|4|2|2|0|11|94
+Jacob Nix|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|5|0|0|0|11|92
+Jacob Nix|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|6|1|0|0|11|93
+Jacob Nix|R|Jurickson Profar|L|Walk|S|Four-Seam Fastball|7|2|0|0|3|92
+Jacob Nix|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|8|2|1|0|11|93
+Jacob Nix|R|Jurickson Profar|L|Walk|S|Four-Seam Fastball|9|3|1|0|1|92
+Jacob Nix|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|10|3|2|0|11|92
+Jacob Nix|R|Nomar Mazara|L|Groundout|C|Four-Seam Fastball|11|0|0|0|3|92
+Jacob Nix|R|Nomar Mazara|L|Groundout|X|Four-Seam Fastball|12|0|1|0|7|92
+Jacob Nix|R|Joey Gallo|L|Strikeout|S|Curveball|13|0|0|1|8|76
+Jacob Nix|R|Joey Gallo|L|Strikeout|C|Four-Seam Fastball|14|0|1|1|8|92
+Jacob Nix|R|Joey Gallo|L|Strikeout|F|Four-Seam Fastball|15|0|2|1|11|93
+Jacob Nix|R|Joey Gallo|L|Strikeout|C|Curveball|16|0|2|1|2|76
+Jacob Nix|R|Isiah Kiner-Falefa|R|Hit By Pitch|B|Four-Seam Fastball|17|0|0|2|12|92
+Jacob Nix|R|Isiah Kiner-Falefa|R|Hit By Pitch|C|Four-Seam Fastball|18|1|0|2|6|93
+Jacob Nix|R|Isiah Kiner-Falefa|R|Hit By Pitch|H|Four-Seam Fastball|19|1|1|2|11|92
+Jacob Nix|R|Ronald Guzman|L|Pop Out|S|Curveball|20|0|0|2|14|77
+Jacob Nix|R|Ronald Guzman|L|Pop Out|*B|Curveball|21|0|1|2|14|77
+Jacob Nix|R|Ronald Guzman|L|Pop Out|F|Four-Seam Fastball|22|1|1|2|2|93
+Jacob Nix|R|Ronald Guzman|L|Pop Out|*B|Curveball|23|1|2|2|14|77
+Jacob Nix|R|Ronald Guzman|L|Pop Out|X|Four-Seam Fastball|24|2|2|2|1|93
+Jacob Nix|R|Robinson Chirinos|R|Flyout|C|Four-Seam Fastball|25|0|0|0|4|90
+Jacob Nix|R|Robinson Chirinos|R|Flyout|X|Slider|26|0|1|0|4|77
+Jacob Nix|R|Willie Calhoun|L|Home Run|B|Changeup|27|0|0|1|11|79
+Jacob Nix|R|Willie Calhoun|L|Home Run|B|Changeup|28|1|0|1|14|80
+Jacob Nix|R|Willie Calhoun|L|Home Run|E|Four-Seam Fastball|29|2|0|1|3|93
+Jacob Nix|R|Mike Minor|R|Flyout|C|Four-Seam Fastball|30|0|0|1|5|91
+Jacob Nix|R|Mike Minor|R|Flyout|C|Curveball|31|0|1|1|6|76
+Jacob Nix|R|Mike Minor|R|Flyout|X|Four-Seam Fastball|32|0|2|1|1|92
+Jacob Nix|R|Rougned Odor|L|Strikeout|C|Curveball|33|0|0|2|9|78
+Jacob Nix|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|34|0|1|2|12|93
+Jacob Nix|R|Rougned Odor|L|Strikeout|F|Curveball|35|1|1|2|9|77
+Jacob Nix|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|36|1|2|2|14|92
+Jacob Nix|R|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|37|2|2|2|8|92
+Jacob Nix|R|Jurickson Profar|L|Home Run|B|Changeup|38|0|0|0|11|78
+Jacob Nix|R|Jurickson Profar|L|Home Run|F|Four-Seam Fastball|39|1|0|0|6|90
+Jacob Nix|R|Jurickson Profar|L|Home Run|E|Changeup|40|1|1|0|13|81
+Jacob Nix|R|Nomar Mazara|L|Flyout|C|Four-Seam Fastball|41|0|0|0|6|92
+Jacob Nix|R|Nomar Mazara|L|Flyout|X|Four-Seam Fastball|42|0|1|0|4|92
+Jacob Nix|R|Joey Gallo|L|Lineout|X|Four-Seam Fastball|43|0|0|1|3|92
+Jacob Nix|R|Isiah Kiner-Falefa|R|Groundout|C|Slider|44|0|0|2|12|81
+Jacob Nix|R|Isiah Kiner-Falefa|R|Groundout|F|Slider|45|0|1|2|5|80
+Jacob Nix|R|Isiah Kiner-Falefa|R|Groundout|X|Curveball|46|0|2|2|9|77
+Jacob Nix|R|Ronald Guzman|L|Flyout|X|Four-Seam Fastball|47|0|0|0|4|91
+Jacob Nix|R|Robinson Chirinos|R|Groundout|B|Four-Seam Fastball|48|0|0|1|12|91
+Jacob Nix|R|Robinson Chirinos|R|Groundout|F|Four-Seam Fastball|49|1|0|1|3|91
+Jacob Nix|R|Robinson Chirinos|R|Groundout|X|Four-Seam Fastball|50|1|1|1|9|91
+Jacob Nix|R|Willie Calhoun|L|Flyout|B|Curveball|51|0|0|2|14|77
+Jacob Nix|R|Willie Calhoun|L|Flyout|X|Four-Seam Fastball|52|1|0|2|3|92
+Jacob Nix|R|Mike Minor|R|Strikeout|C|Four-Seam Fastball|53|0|0|0|5|89
+Jacob Nix|R|Mike Minor|R|Strikeout|B|Four-Seam Fastball|54|0|1|0|12|91
+Jacob Nix|R|Mike Minor|R|Strikeout|C|Four-Seam Fastball|55|1|1|0|7|90
+Jacob Nix|R|Mike Minor|R|Strikeout|S|Curveball|56|1|2|0|13|76
+Jacob Nix|R|Rougned Odor|L|Flyout|C|Curveball|57|0|0|1|14|77
+Jacob Nix|R|Rougned Odor|L|Flyout|B|Four-Seam Fastball|58|0|1|1|13|92
+Jacob Nix|R|Rougned Odor|L|Flyout|B|Changeup|59|1|1|1|14|82
+Jacob Nix|R|Rougned Odor|L|Flyout|X|Four-Seam Fastball|60|2|1|1|3|92
+Jacob Nix|R|Jurickson Profar|L|Double|S|Curveball|61|0|0|2|9|77
+Jacob Nix|R|Jurickson Profar|L|Double|B|Four-Seam Fastball|62|0|1|2|11|92
+Jacob Nix|R|Jurickson Profar|L|Double|B|Curveball|63|1|1|2|11|75
+Jacob Nix|R|Jurickson Profar|L|Double|D|Four-Seam Fastball|64|2|1|2|2|92
+Jacob Nix|R|Nomar Mazara|L|Flyout|*B|Changeup|65|0|0|2|14|81
+Jacob Nix|R|Nomar Mazara|L|Flyout|X|Four-Seam Fastball|66|1|0|2|1|92
+Jacob Nix|R|Joey Gallo|L|Double|B|Curveball|67|0|0|0|11|74
+Jacob Nix|R|Joey Gallo|L|Double|D|Four-Seam Fastball|68|1|0|0|5|92
+Jacob Nix|R|Isiah Kiner-Falefa|R|Double Play|C|Four-Seam Fastball|69|0|0|0|9|91
+Jacob Nix|R|Isiah Kiner-Falefa|R|Double Play|B|Curveball|70|0|1|0|11|76
+Jacob Nix|R|Isiah Kiner-Falefa|R|Double Play|X|Four-Seam Fastball|71|1|1|0|12|92
+Jacob Nix|R|Ronald Guzman|L|Double|C|Curveball|72|0|0|2|7|75
+Jacob Nix|R|Ronald Guzman|L|Double|B|Changeup|73|0|1|2|13|79
+Jacob Nix|R|Ronald Guzman|L|Double|C|Four-Seam Fastball|74|1|1|2|13|92
+Jacob Nix|R|Ronald Guzman|L|Double|D|Four-Seam Fastball|75|1|2|2|11|91
+Jacob Nix|R|Robinson Chirinos|R|Single|S|Curveball|76|0|0|2|14|77
+Jacob Nix|R|Robinson Chirinos|R|Single|F|Curveball|77|0|1|2|4|77
+Jacob Nix|R|Robinson Chirinos|R|Single|B|Four-Seam Fastball|78|0|2|2|14|93
+Jacob Nix|R|Robinson Chirinos|R|Single|E|Slider|79|1|2|2|14|80
+Jacob Nix|R|Joc Pederson|L|Home Run|B|Four-Seam Fastball|0|0|0|0|13|91
+Jacob Nix|R|Joc Pederson|L|Home Run|E|Four-Seam Fastball|1|1|0|0|11|91
+Jacob Nix|R|Justin Turner|R|Flyout|F|Four-Seam Fastball|2|0|0|0|9|92
+Jacob Nix|R|Justin Turner|R|Flyout|C|Four-Seam Fastball|3|0|1|0|9|92
+Jacob Nix|R|Justin Turner|R|Flyout|F|Four-Seam Fastball|4|0|2|0|4|93
+Jacob Nix|R|Justin Turner|R|Flyout|X|Four-Seam Fastball|5|0|2|0|11|92
+Jacob Nix|R|Max Muncy|L|Strikeout|B|Four-Seam Fastball|6|0|0|1|12|93
+Jacob Nix|R|Max Muncy|L|Strikeout|B|Curveball|7|1|0|1|14|78
+Jacob Nix|R|Max Muncy|L|Strikeout|B|Curveball|8|2|0|1|14|77
+Jacob Nix|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|9|3|0|1|11|93
+Jacob Nix|R|Max Muncy|L|Strikeout|C|Four-Seam Fastball|10|3|1|1|11|93
+Jacob Nix|R|Max Muncy|L|Strikeout|S|Changeup|11|3|2|1|8|82
+Jacob Nix|R|Manny Machado|R|Groundout|B|Four-Seam Fastball|12|0|0|2|14|93
+Jacob Nix|R|Manny Machado|R|Groundout|X|Four-Seam Fastball|13|1|0|2|2|93
+Jacob Nix|R|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|14|0|0|0|13|93
+Jacob Nix|R|Cody Bellinger|L|Strikeout|F|Changeup|15|0|1|0|4|82
+Jacob Nix|R|Cody Bellinger|L|Strikeout|B|Curveball|16|0|2|0|11|76
+Jacob Nix|R|Cody Bellinger|L|Strikeout|S|Four-Seam Fastball|17|1|2|0|11|93
+Jacob Nix|R|Yasiel Puig|R|Groundout|B|Four-Seam Fastball|18|0|0|1|14|92
+Jacob Nix|R|Yasiel Puig|R|Groundout|X|Four-Seam Fastball|19|1|0|1|6|93
+Jacob Nix|R|Yasmani Grandal|L|Flyout|C|Four-Seam Fastball|20|0|0|2|4|93
+Jacob Nix|R|Yasmani Grandal|L|Flyout|F|Slider|21|0|1|2|9|79
+Jacob Nix|R|Yasmani Grandal|L|Flyout|X|Changeup|22|0|2|2|13|83
+Jacob Nix|R|Chris Taylor|R|Single|B|Four-Seam Fastball|23|0|0|0|12|92
+Jacob Nix|R|Chris Taylor|R|Single|F|Four-Seam Fastball|24|1|0|0|2|92
+Jacob Nix|R|Chris Taylor|R|Single|S|Curveball|25|1|1|0|7|76
+Jacob Nix|R|Chris Taylor|R|Single|D|Changeup|26|1|2|0|13|81
+Jacob Nix|R|Rich Hill|L|Bunt Pop Out|X|Four-Seam Fastball|27|0|0|0|5|93
+Jacob Nix|R|Joc Pederson|L|Double|*B|Curveball|28|0|0|1|14|77
+Jacob Nix|R|Joc Pederson|L|Double|C|Changeup|29|1|0|1|7|81
+Jacob Nix|R|Joc Pederson|L|Double|C|Four-Seam Fastball|30|1|1|1|13|93
+Jacob Nix|R|Joc Pederson|L|Double|F|Curveball|31|1|2|1|14|78
+Jacob Nix|R|Joc Pederson|L|Double|D|Four-Seam Fastball|32|1|2|1|13|94
+Jacob Nix|R|Justin Turner|R|Double|C|Four-Seam Fastball|33|0|0|1|14|93
+Jacob Nix|R|Justin Turner|R|Double|F|Four-Seam Fastball|34|0|1|1|2|93
+Jacob Nix|R|Justin Turner|R|Double|F|Four-Seam Fastball|35|0|2|1|11|94
+Jacob Nix|R|Justin Turner|R|Double|*B|Curveball|36|0|2|1|14|77
+Jacob Nix|R|Justin Turner|R|Double|E|Changeup|37|1|2|1|8|81
+Jacob Nix|R|Max Muncy|L|Hit By Pitch|*B|Curveball|38|0|0|1|14|78
+Jacob Nix|R|Max Muncy|L|Hit By Pitch|B|Four-Seam Fastball|39|1|0|1|12|92
+Jacob Nix|R|Max Muncy|L|Hit By Pitch|H|Four-Seam Fastball|40|2|0|1|12|94
+Jacob Nix|R|Manny Machado|R|Home Run|E|Four-Seam Fastball|41|0|0|1|3|93
+Jacob Nix|R|Cody Bellinger|L|Double|F|Four-Seam Fastball|42|0|0|1|8|93
+Jacob Nix|R|Cody Bellinger|L|Double|B|Four-Seam Fastball|43|0|1|1|14|93
+Jacob Nix|R|Cody Bellinger|L|Double|S|Four-Seam Fastball|44|1|1|1|3|93
+Jacob Nix|R|Cody Bellinger|L|Double|D|Four-Seam Fastball|45|1|2|1|5|94
+Jacob Nix|R|Jon Jay|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|93
+Jacob Nix|R|Jon Jay|L|Groundout|S|Changeup|1|1|0|0|5|79
+Jacob Nix|R|Jon Jay|L|Groundout|X|Four-Seam Fastball|2|1|1|0|13|93
+Jacob Nix|R|Eduardo Escobar|L|Pop Out|X|Four-Seam Fastball|3|0|0|1|2|93
+Jacob Nix|R|Ketel Marte|L|Groundout|B|Four-Seam Fastball|4|0|0|2|13|93
+Jacob Nix|R|Ketel Marte|L|Groundout|C|Curveball|5|1|0|2|11|78
+Jacob Nix|R|Ketel Marte|L|Groundout|X|Four-Seam Fastball|6|1|1|2|1|92
+Jacob Nix|R|David Peralta|L|Groundout|C|Four-Seam Fastball|7|0|0|0|8|92
+Jacob Nix|R|David Peralta|L|Groundout|C|Changeup|8|0|1|0|8|79
+Jacob Nix|R|David Peralta|L|Groundout|X|Changeup|9|0|2|0|7|78
+Jacob Nix|R|Daniel Descalso|L|Double|B|Curveball|10|0|0|1|14|77
+Jacob Nix|R|Daniel Descalso|L|Double|B|Curveball|11|1|0|1|14|77
+Jacob Nix|R|Daniel Descalso|L|Double|D|Four-Seam Fastball|12|2|0|1|7|93
+Jacob Nix|R|Socrates Brito|L|Walk|C|Four-Seam Fastball|13|0|0|1|4|92
+Jacob Nix|R|Socrates Brito|L|Walk|B|Changeup|14|0|1|1|14|78
+Jacob Nix|R|Socrates Brito|L|Walk|S|Four-Seam Fastball|15|1|1|1|12|92
+Jacob Nix|R|Socrates Brito|L|Walk|B|Four-Seam Fastball|16|1|2|1|13|93
+Jacob Nix|R|Socrates Brito|L|Walk|F|Changeup|17|2|2|1|9|79
+Jacob Nix|R|Socrates Brito|L|Walk|F|Changeup|18|2|2|1|13|79
+Jacob Nix|R|Socrates Brito|L|Walk|F|Four-Seam Fastball|19|2|2|1|13|94
+Jacob Nix|R|Socrates Brito|L|Walk|F|Curveball|20|2|2|1|14|77
+Jacob Nix|R|Socrates Brito|L|Walk|B|Four-Seam Fastball|21|2|2|1|11|93
+Jacob Nix|R|Socrates Brito|L|Walk|B|Four-Seam Fastball|22|3|2|1|11|93
+Jacob Nix|R|Ildemaro Vargas|L|Single|E|Four-Seam Fastball|23|0|0|1|7|93
+Jacob Nix|R|Alex Avila|L|Walk|B|Curveball|24|0|0|1|14|77
+Jacob Nix|R|Alex Avila|L|Walk|B|Four-Seam Fastball|25|1|0|1|13|93
+Jacob Nix|R|Alex Avila|L|Walk|*B|Changeup|26|2|0|1|13|80
+Jacob Nix|R|Alex Avila|L|Walk|B|Four-Seam Fastball|27|3|0|1|11|93
+Jacob Nix|R|Zack Godley|R|Forceout|X|Four-Seam Fastball|28|0|0|1|5|93
+Jacob Nix|R|Jon Jay|L|Lineout|C|Four-Seam Fastball|29|0|0|2|14|92
+Jacob Nix|R|Jon Jay|L|Lineout|B|Four-Seam Fastball|30|0|1|2|13|92
+Jacob Nix|R|Jon Jay|L|Lineout|B|Four-Seam Fastball|31|1|1|2|12|92
+Jacob Nix|R|Jon Jay|L|Lineout|X|Four-Seam Fastball|32|2|1|2|4|93
+Jacob Nix|R|Eduardo Escobar|L|Single|C|Curveball|33|0|0|0|9|76
+Jacob Nix|R|Eduardo Escobar|L|Single|B|Changeup|34|0|1|0|11|78
+Jacob Nix|R|Eduardo Escobar|L|Single|F|Changeup|35|1|1|0|9|80
+Jacob Nix|R|Eduardo Escobar|L|Single|B|Four-Seam Fastball|36|1|2|0|11|91
+Jacob Nix|R|Eduardo Escobar|L|Single|F|Four-Seam Fastball|37|2|2|0|7|92
+Jacob Nix|R|Eduardo Escobar|L|Single|D|Changeup|38|2|2|0|13|80
+Jacob Nix|R|Ketel Marte|L|Grounded Into DP|B|Four-Seam Fastball|39|0|0|0|12|91
+Jacob Nix|R|Ketel Marte|L|Grounded Into DP|X|Four-Seam Fastball|40|1|0|0|11|92
+Jacob Nix|R|David Peralta|L|Groundout|B|Curveball|41|0|0|2|11|77
+Jacob Nix|R|David Peralta|L|Groundout|C|Four-Seam Fastball|42|1|0|2|3|92
+Jacob Nix|R|David Peralta|L|Groundout|X|Curveball|43|1|1|2|3|77
+Jacob Nix|R|Daniel Descalso|L|Walk|B|Four-Seam Fastball|44|0|0|0|13|91
+Jacob Nix|R|Daniel Descalso|L|Walk|S|Changeup|45|1|0|0|7|81
+Jacob Nix|R|Daniel Descalso|L|Walk|B|Curveball|46|1|1|0|11|76
+Jacob Nix|R|Daniel Descalso|L|Walk|B|Four-Seam Fastball|47|2|1|0|13|91
+Jacob Nix|R|Daniel Descalso|L|Walk|B|Changeup|48|3|1|0|11|78
+Jacob Nix|R|Socrates Brito|L|Lineout|F|Four-Seam Fastball|49|0|0|0|3|91
+Jacob Nix|R|Socrates Brito|L|Lineout|C|Four-Seam Fastball|50|0|1|0|13|91
+Jacob Nix|R|Socrates Brito|L|Lineout|X|Four-Seam Fastball|51|0|2|0|11|92
+Jacob Nix|R|Ildemaro Vargas|L|Home Run|C|Four-Seam Fastball|52|0|0|1|2|92
+Jacob Nix|R|Ildemaro Vargas|L|Home Run|B|Changeup|53|0|1|1|13|79
+Jacob Nix|R|Ildemaro Vargas|L|Home Run|F|Four-Seam Fastball|54|1|1|1|2|92
+Jacob Nix|R|Ildemaro Vargas|L|Home Run|*B|Changeup|55|1|2|1|14|81
+Jacob Nix|R|Ildemaro Vargas|L|Home Run|E|Four-Seam Fastball|56|2|2|1|1|92
+Jacob Nix|R|Alex Avila|L|Single|B|Curveball|57|0|0|1|14|75
+Jacob Nix|R|Alex Avila|L|Single|C|Curveball|58|1|0|1|4|75
+Jacob Nix|R|Alex Avila|L|Single|D|Changeup|59|1|1|1|4|79
+Jacob Nix|R|Zack Godley|R|Bunt Pop Out|X|Four-Seam Fastball|60|0|0|1|3|92
+Jacob Nix|R|Jon Jay|L|Groundout|S|Four-Seam Fastball|61|0|0|2|14|92
+Jacob Nix|R|Jon Jay|L|Groundout|X|Changeup|62|0|1|2|13|78

@@ -1,0 +1,399 @@
+Tyler Matzek|L|Dexter Fowler|R|Groundout|C|Four-Seam Fastball|0|0|0|0|8|93
+Tyler Matzek|L|Dexter Fowler|R|Groundout|X|Four-Seam Fastball|1|0|1|0|5|92
+Tyler Matzek|L|Jorge Soler|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|3|93
+Tyler Matzek|L|Jorge Soler|R|Strikeout|S|Slider|3|1|0|1|8|84
+Tyler Matzek|L|Jorge Soler|R|Strikeout|F|Slider|4|1|1|1|4|83
+Tyler Matzek|L|Jorge Soler|R|Strikeout|B|Slider|5|1|2|1|13|86
+Tyler Matzek|L|Jorge Soler|R|Strikeout|F|Four-Seam Fastball|6|2|2|1|9|94
+Tyler Matzek|L|Jorge Soler|R|Strikeout|B|Slider|7|2|2|1|14|84
+Tyler Matzek|L|Jorge Soler|R|Strikeout|F|Slider|8|3|2|1|13|86
+Tyler Matzek|L|Jorge Soler|R|Strikeout|W|Slider|9|3|2|1|13|86
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|10|0|0|2|13|95
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|11|1|0|2|13|93
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|B|Slider|12|2|0|2|13|84
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|H|Four-Seam Fastball|13|3|0|2|12|94
+Tyler Matzek|L|Starlin Castro|R|Strikeout|B|Slider|14|0|0|2|13|80
+Tyler Matzek|L|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|15|1|0|2|2|94
+Tyler Matzek|L|Starlin Castro|R|Strikeout|C|Slider|16|1|1|2|4|85
+Tyler Matzek|L|Starlin Castro|R|Strikeout|T|Slider|17|1|2|2|13|85
+Tyler Matzek|L|Mike Olt|R|Single|B|Four-Seam Fastball|18|0|0|0|13|90
+Tyler Matzek|L|Mike Olt|R|Single|B|Slider|19|1|0|0|11|82
+Tyler Matzek|L|Mike Olt|R|Single|D|Four-Seam Fastball|20|2|0|0|14|90
+Tyler Matzek|L|Matt Szczur|R|Lineout|B|Four-Seam Fastball|21|0|0|0|13|91
+Tyler Matzek|L|Matt Szczur|R|Lineout|B|Curveball|22|1|0|0|14|78
+Tyler Matzek|L|Matt Szczur|R|Lineout|X|Slider|23|2|0|0|2|83
+Tyler Matzek|L|Welington Castillo|R|Walk|C|Slider|24|0|0|1|14|85
+Tyler Matzek|L|Welington Castillo|R|Walk|B|Changeup|25|0|1|1|13|90
+Tyler Matzek|L|Welington Castillo|R|Walk|B|Curveball|26|1|1|1|12|79
+Tyler Matzek|L|Welington Castillo|R|Walk|B|Slider|27|2|1|1|12|84
+Tyler Matzek|L|Welington Castillo|R|Walk|B|Four-Seam Fastball|28|3|1|1|12|92
+Tyler Matzek|L|Travis Wood|R|Flyout|B|Four-Seam Fastball|29|0|0|1|12|93
+Tyler Matzek|L|Travis Wood|R|Flyout|B|Changeup|30|1|0|1|12|89
+Tyler Matzek|L|Travis Wood|R|Flyout|S|Slider|31|2|0|1|5|85
+Tyler Matzek|L|Travis Wood|R|Flyout|S|Slider|32|2|1|1|13|83
+Tyler Matzek|L|Travis Wood|R|Flyout|B|Slider|33|2|2|1|12|82
+Tyler Matzek|L|Travis Wood|R|Flyout|F|Slider|34|3|2|1|9|82
+Tyler Matzek|L|Travis Wood|R|Flyout|X|Slider|35|3|2|1|9|83
+Tyler Matzek|L|Arismendy Alcantara|R|Walk|B|Curveball|36|0|0|2|14|79
+Tyler Matzek|L|Arismendy Alcantara|R|Walk|B|Changeup|37|1|0|2|12|90
+Tyler Matzek|L|Arismendy Alcantara|R|Walk|B|Changeup|38|2|0|2|12|90
+Tyler Matzek|L|Arismendy Alcantara|R|Walk|B|Four-Seam Fastball|39|3|0|2|12|93
+Tyler Matzek|L|Dexter Fowler|R|Forceout|C|Four-Seam Fastball|40|0|0|2|9|92
+Tyler Matzek|L|Dexter Fowler|R|Forceout|*B|Slider|41|0|1|2|14|84
+Tyler Matzek|L|Dexter Fowler|R|Forceout|X|Four-Seam Fastball|42|1|1|2|14|92
+Tyler Matzek|L|Jorge Soler|R|Single|D|Four-Seam Fastball|43|0|0|0|5|91
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|B|Curveball|44|0|0|0|13|78
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|C|Curveball|45|1|0|0|9|80
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|46|1|1|0|11|92
+Tyler Matzek|L|Anthony Rizzo|L|Hit By Pitch|H|Slider|47|2|1|0|12|81
+Tyler Matzek|L|Starlin Castro|R|Single|C|Four-Seam Fastball|48|0|0|0|6|93
+Tyler Matzek|L|Starlin Castro|R|Single|*B|Slider|49|0|1|0|13|84
+Tyler Matzek|L|Starlin Castro|R|Single|B|Four-Seam Fastball|50|1|1|0|14|92
+Tyler Matzek|L|Starlin Castro|R|Single|F|Slider|51|2|1|0|7|85
+Tyler Matzek|L|Starlin Castro|R|Single|D|Slider|52|2|2|0|8|85
+Tyler Matzek|L|Mike Olt|R|Forceout|C|Changeup|53|0|0|0|14|89
+Tyler Matzek|L|Mike Olt|R|Forceout|W|Slider|54|0|1|0|13|84
+Tyler Matzek|L|Mike Olt|R|Forceout|X|Slider|55|0|2|0|14|85
+Tyler Matzek|L|Matt Szczur|R|Sac Fly|B|Changeup|56|0|0|1|12|89
+Tyler Matzek|L|Matt Szczur|R|Sac Fly|B|Slider|57|1|0|1|14|84
+Tyler Matzek|L|Matt Szczur|R|Sac Fly|B|Four-Seam Fastball|58|2|0|1|13|93
+Tyler Matzek|L|Matt Szczur|R|Sac Fly|C|Four-Seam Fastball|59|3|0|1|4|94
+Tyler Matzek|L|Matt Szczur|R|Sac Fly|E|Slider|60|3|1|1|13|83
+Tyler Matzek|L|Welington Castillo|R|Flyout|X|Four-Seam Fastball|61|0|0|2|4|93
+Tyler Matzek|L|Travis Wood|R|Strikeout|B|Changeup|62|0|0|0|13|89
+Tyler Matzek|L|Travis Wood|R|Strikeout|B|Four-Seam Fastball|63|1|0|0|14|91
+Tyler Matzek|L|Travis Wood|R|Strikeout|C|Slider|64|2|0|0|2|82
+Tyler Matzek|L|Travis Wood|R|Strikeout|F|Slider|65|2|1|0|3|82
+Tyler Matzek|L|Travis Wood|R|Strikeout|S|Slider|66|2|2|0|6|83
+Tyler Matzek|L|Arismendy Alcantara|R|Strikeout|C|Curveball|67|0|0|1|14|79
+Tyler Matzek|L|Arismendy Alcantara|R|Strikeout|C|Four-Seam Fastball|68|0|1|1|12|92
+Tyler Matzek|L|Arismendy Alcantara|R|Strikeout|B|Slider|69|0|2|1|13|86
+Tyler Matzek|L|Arismendy Alcantara|R|Strikeout|S|Slider|70|1|2|1|13|85
+Tyler Matzek|L|Dexter Fowler|R|Groundout|B|Curveball|71|0|0|2|12|78
+Tyler Matzek|L|Dexter Fowler|R|Groundout|B|Four-Seam Fastball|72|1|0|2|14|91
+Tyler Matzek|L|Dexter Fowler|R|Groundout|X|Four-Seam Fastball|73|2|0|2|14|91
+Tyler Matzek|L|Jorge Soler|R|Walk|B|Curveball|74|0|0|0|12|78
+Tyler Matzek|L|Jorge Soler|R|Walk|B|Slider|75|1|0|0|14|82
+Tyler Matzek|L|Jorge Soler|R|Walk|B|Changeup|76|2|0|0|14|89
+Tyler Matzek|L|Jorge Soler|R|Walk|B|Four-Seam Fastball|77|3|0|0|14|91
+Tyler Matzek|L|Anthony Rizzo|L|Single|*B|Slider|78|0|0|0|13|83
+Tyler Matzek|L|Anthony Rizzo|L|Single|B|Slider|79|1|0|0|13|83
+Tyler Matzek|L|Anthony Rizzo|L|Single|C|Slider|80|2|0|0|13|84
+Tyler Matzek|L|Anthony Rizzo|L|Single|B|Four-Seam Fastball|81|2|1|0|13|91
+Tyler Matzek|L|Anthony Rizzo|L|Single|S|Slider|82|3|1|0|7|83
+Tyler Matzek|L|Anthony Rizzo|L|Single|D|Slider|83|3|2|0|13|83
+Tyler Matzek|L|Norichika Aoki|L|Hit By Pitch|C|Four-Seam Fastball|0|0|0|0|2|90
+Tyler Matzek|L|Norichika Aoki|L|Hit By Pitch|B|Changeup|1|0|1|0|11|88
+Tyler Matzek|L|Norichika Aoki|L|Hit By Pitch|B|Slider|2|1|1|0|3|83
+Tyler Matzek|L|Norichika Aoki|L|Hit By Pitch|H|Four-Seam Fastball|3|2|1|0|12|91
+Tyler Matzek|L|Matt Duffy|R|Strikeout|B|Four-Seam Fastball|4|0|0|0|13|89
+Tyler Matzek|L|Matt Duffy|R|Strikeout|W|Slider|5|1|0|0|13|83
+Tyler Matzek|L|Matt Duffy|R|Strikeout|B|Slider|6|1|1|0|12|83
+Tyler Matzek|L|Matt Duffy|R|Strikeout|F|Changeup|7|2|1|0|14|88
+Tyler Matzek|L|Matt Duffy|R|Strikeout|B|Four-Seam Fastball|8|2|2|0|12|92
+Tyler Matzek|L|Matt Duffy|R|Strikeout|T|Slider|9|3|2|0|9|85
+Tyler Matzek|L|Angel Pagan|R|Single|*B|Slider|10|0|0|1|14|85
+Tyler Matzek|L|Angel Pagan|R|Single|C|Changeup|11|1|0|1|6|89
+Tyler Matzek|L|Angel Pagan|R|Single|F|Changeup|12|1|1|1|12|89
+Tyler Matzek|L|Angel Pagan|R|Single|E|Curveball|13|1|2|1|5|80
+Tyler Matzek|L|Buster Posey|R|Pop Out|S|Slider|14|0|0|1|6|83
+Tyler Matzek|L|Buster Posey|R|Pop Out|B|Four-Seam Fastball|15|0|1|1|12|90
+Tyler Matzek|L|Buster Posey|R|Pop Out|F|Slider|16|1|1|1|14|83
+Tyler Matzek|L|Buster Posey|R|Pop Out|B|Four-Seam Fastball|17|1|2|1|14|92
+Tyler Matzek|L|Buster Posey|R|Pop Out|X|Slider|18|2|2|1|7|84
+Tyler Matzek|L|Justin Maxwell|R|Walk|F|Changeup|19|0|0|2|7|88
+Tyler Matzek|L|Justin Maxwell|R|Walk|C|Slider|20|0|1|2|3|84
+Tyler Matzek|L|Justin Maxwell|R|Walk|*B|Curveball|21|0|2|2|13|80
+Tyler Matzek|L|Justin Maxwell|R|Walk|B|Slider|22|1|2|2|14|84
+Tyler Matzek|L|Justin Maxwell|R|Walk|*B|Slider|23|2|2|2|13|84
+Tyler Matzek|L|Justin Maxwell|R|Walk|F|Slider|24|3|2|2|5|85
+Tyler Matzek|L|Justin Maxwell|R|Walk|*B|Curveball|25|3|2|2|13|80
+Tyler Matzek|L|Hector Sanchez|R|Flyout|X|Four-Seam Fastball|26|0|0|2|5|91
+Tyler Matzek|L|Joaquin Arias|R|Single|B|Four-Seam Fastball|27|0|0|0|12|88
+Tyler Matzek|L|Joaquin Arias|R|Single|B|Four-Seam Fastball|28|1|0|0|14|89
+Tyler Matzek|L|Joaquin Arias|R|Single|C|Slider|29|2|0|0|6|81
+Tyler Matzek|L|Joaquin Arias|R|Single|D|Slider|30|2|1|0|9|82
+Tyler Matzek|L|Joe Panik|L|Flyout|C|Four-Seam Fastball|31|0|0|0|5|89
+Tyler Matzek|L|Joe Panik|L|Flyout|*B|Slider|32|0|1|0|14|83
+Tyler Matzek|L|Joe Panik|L|Flyout|X|Four-Seam Fastball|33|1|1|0|6|89
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|C|Four-Seam Fastball|34|0|0|1|5|88
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|*B|Slider|35|0|1|1|13|81
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|B|Changeup|36|1|1|1|13|89
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|C|Slider|37|2|1|1|7|81
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|*B|Slider|38|2|2|1|13|83
+Tyler Matzek|L|Tim Lincecum|L|Strikeout|S|Four-Seam Fastball|39|3|2|1|12|89
+Tyler Matzek|L|Norichika Aoki|L|Groundout|C|Four-Seam Fastball|40|0|0|2|6|89
+Tyler Matzek|L|Norichika Aoki|L|Groundout|B|Four-Seam Fastball|41|0|1|2|13|89
+Tyler Matzek|L|Norichika Aoki|L|Groundout|B|Slider|42|1|1|2|13|82
+Tyler Matzek|L|Norichika Aoki|L|Groundout|X|Four-Seam Fastball|43|2|1|2|5|90
+Tyler Matzek|L|Matt Duffy|R|Flyout|S|Changeup|44|0|0|0|14|85
+Tyler Matzek|L|Matt Duffy|R|Flyout|X|Changeup|45|0|1|0|12|86
+Tyler Matzek|L|Angel Pagan|R|Groundout|C|Slider|46|0|0|1|8|83
+Tyler Matzek|L|Angel Pagan|R|Groundout|X|Changeup|47|0|1|1|14|88
+Tyler Matzek|L|Buster Posey|R|Flyout|B|Changeup|48|0|0|2|14|86
+Tyler Matzek|L|Buster Posey|R|Flyout|C|Changeup|49|1|0|2|8|86
+Tyler Matzek|L|Buster Posey|R|Flyout|B|Four-Seam Fastball|50|1|1|2|13|89
+Tyler Matzek|L|Buster Posey|R|Flyout|X|Slider|51|2|1|2|13|84
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|C|Slider|52|0|0|0|14|81
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|B|Changeup|53|0|1|0|13|86
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|B|Slider|54|1|1|0|14|82
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|B|Changeup|55|2|1|0|13|88
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|C|Changeup|56|3|1|0|2|87
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|F|Slider|57|3|2|0|14|84
+Tyler Matzek|L|Justin Maxwell|R|Strikeout|C|Slider|58|3|2|0|8|83
+Tyler Matzek|L|Hector Sanchez|R|Flyout|B|Four-Seam Fastball|59|0|0|1|12|90
+Tyler Matzek|L|Hector Sanchez|R|Flyout|B|Slider|60|1|0|1|13|82
+Tyler Matzek|L|Hector Sanchez|R|Flyout|X|Changeup|61|2|0|1|1|88
+Tyler Matzek|L|Joaquin Arias|R|Lineout|B|Changeup|62|0|0|2|13|88
+Tyler Matzek|L|Joaquin Arias|R|Lineout|X|Changeup|63|1|0|2|3|88
+Tyler Matzek|L|Joe Panik|L|Lineout|C|Slider|64|0|0|0|6|81
+Tyler Matzek|L|Joe Panik|L|Lineout|B|Curveball|65|0|1|0|14|76
+Tyler Matzek|L|Joe Panik|L|Lineout|X|Changeup|66|1|1|0|14|87
+Tyler Matzek|L|Gregor Blanco|L|Triple|B|Four-Seam Fastball|67|0|0|1|13|90
+Tyler Matzek|L|Gregor Blanco|L|Triple|S|Slider|68|1|0|1|13|82
+Tyler Matzek|L|Gregor Blanco|L|Triple|B|Slider|69|1|1|1|13|81
+Tyler Matzek|L|Gregor Blanco|L|Triple|D|Slider|70|2|1|1|8|81
+Tyler Matzek|L|Norichika Aoki|L|Groundout|*B|Four-Seam Fastball|71|0|0|1|13|90
+Tyler Matzek|L|Norichika Aoki|L|Groundout|C|Slider|72|1|0|1|5|83
+Tyler Matzek|L|Norichika Aoki|L|Groundout|F|Slider|73|1|1|1|4|83
+Tyler Matzek|L|Norichika Aoki|L|Groundout|*B|Slider|74|1|2|1|13|81
+Tyler Matzek|L|Norichika Aoki|L|Groundout|X|Slider|75|2|2|1|7|83
+Tyler Matzek|L|Matt Duffy|R|Groundout|X|Slider|76|0|0|2|14|85
+Tyler Matzek|L|Angel Pagan|R|Single|C|Changeup|77|0|0|0|7|86
+Tyler Matzek|L|Angel Pagan|R|Single|B|Curveball|78|0|1|0|13|80
+Tyler Matzek|L|Angel Pagan|R|Single|B|Curveball|79|1|1|0|14|80
+Tyler Matzek|L|Angel Pagan|R|Single|B|Changeup|80|2|1|0|13|87
+Tyler Matzek|L|Angel Pagan|R|Single|C|Slider|81|3|1|0|8|81
+Tyler Matzek|L|Angel Pagan|R|Single|D|Slider|82|3|2|0|9|82
+Tyler Matzek|L|Buster Posey|R|Grounded Into DP|F|Changeup|83|0|0|0|14|87
+Tyler Matzek|L|Buster Posey|R|Grounded Into DP|X|Changeup|84|0|1|0|9|87
+Tyler Matzek|L|Justin Maxwell|R|Single|B|Changeup|85|0|0|2|14|88
+Tyler Matzek|L|Justin Maxwell|R|Single|C|Changeup|86|1|0|2|13|87
+Tyler Matzek|L|Justin Maxwell|R|Single|B|Changeup|87|1|1|2|14|88
+Tyler Matzek|L|Justin Maxwell|R|Single|D|Slider|88|2|1|2|12|82
+Tyler Matzek|L|Hector Sanchez|R|Flyout|S|Slider|89|0|0|2|13|82
+Tyler Matzek|L|Hector Sanchez|R|Flyout|F|Slider|90|0|1|2|7|80
+Tyler Matzek|L|Hector Sanchez|R|Flyout|X|Curveball|91|0|2|2|7|79
+Tyler Matzek|L|Wil Myers|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|91
+Tyler Matzek|L|Wil Myers|R|Walk|B|Changeup|1|1|0|0|13|89
+Tyler Matzek|L|Wil Myers|R|Walk|C|Slider|2|2|0|0|5|82
+Tyler Matzek|L|Wil Myers|R|Walk|B|Slider|3|2|1|0|13|82
+Tyler Matzek|L|Wil Myers|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|91
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|B|Slider|5|0|0|0|13|84
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|B|Changeup|6|1|0|0|12|89
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|B|Slider|7|2|0|0|12|83
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|C|Four-Seam Fastball|8|3|0|0|11|92
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|S|Four-Seam Fastball|9|3|1|0|3|93
+Tyler Matzek|L|Derek Norris|R|Strikeout Double Play|C|Four-Seam Fastball|10|3|2|0|13|94
+Tyler Matzek|L|Matt Kemp|R|Flyout|B|Four-Seam Fastball|11|0|0|2|14|92
+Tyler Matzek|L|Matt Kemp|R|Flyout|X|Changeup|12|1|0|2|5|90
+Tyler Matzek|L|Justin Upton|R|Strikeout|B|Curveball|13|0|0|0|12|76
+Tyler Matzek|L|Justin Upton|R|Strikeout|C|Four-Seam Fastball|14|1|0|0|6|90
+Tyler Matzek|L|Justin Upton|R|Strikeout|F|Four-Seam Fastball|15|1|1|0|6|90
+Tyler Matzek|L|Justin Upton|R|Strikeout|S|Slider|16|1|2|0|13|83
+Tyler Matzek|L|Will Middlebrooks|R|Flyout|X|Changeup|17|0|0|1|6|89
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Four-Seam Fastball|18|0|0|2|14|91
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Slider|19|1|0|2|8|80
+Tyler Matzek|L|Jedd Gyorko|R|Walk|C|Changeup|20|2|0|2|8|89
+Tyler Matzek|L|Jedd Gyorko|R|Walk|F|Slider|21|2|1|2|7|85
+Tyler Matzek|L|Jedd Gyorko|R|Walk|F|Curveball|22|2|2|2|8|79
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Four-Seam Fastball|23|2|2|2|12|92
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Slider|24|3|2|2|12|83
+Tyler Matzek|L|Yonder Alonso|L|Forceout|S|Slider|25|0|0|2|13|82
+Tyler Matzek|L|Yonder Alonso|L|Forceout|F|Slider|26|0|1|2|12|82
+Tyler Matzek|L|Yonder Alonso|L|Forceout|X|Slider|27|0|2|2|4|84
+Tyler Matzek|L|Clint Barmes|R|Home Run|B|Four-Seam Fastball|28|0|0|0|12|91
+Tyler Matzek|L|Clint Barmes|R|Home Run|E|Four-Seam Fastball|29|1|0|0|5|90
+Tyler Matzek|L|Brandon Morrow|R|Strikeout|B|Four-Seam Fastball|30|0|0|0|11|89
+Tyler Matzek|L|Brandon Morrow|R|Strikeout|C|Four-Seam Fastball|31|1|0|0|6|91
+Tyler Matzek|L|Brandon Morrow|R|Strikeout|F|Slider|32|1|1|0|4|82
+Tyler Matzek|L|Brandon Morrow|R|Strikeout|W|Slider|33|1|2|0|14|81
+Tyler Matzek|L|Wil Myers|R|Groundout|X|Slider|34|0|0|1|8|84
+Tyler Matzek|L|Derek Norris|R|Double|C|Four-Seam Fastball|35|0|0|2|6|91
+Tyler Matzek|L|Derek Norris|R|Double|B|Four-Seam Fastball|36|0|1|2|13|92
+Tyler Matzek|L|Derek Norris|R|Double|B|Slider|37|1|1|2|14|81
+Tyler Matzek|L|Derek Norris|R|Double|B|Changeup|38|2|1|2|12|88
+Tyler Matzek|L|Derek Norris|R|Double|F|Slider|39|3|1|2|7|83
+Tyler Matzek|L|Derek Norris|R|Double|D|Slider|40|3|2|2|5|85
+Tyler Matzek|L|Matt Kemp|R|Single|C|Slider|41|0|0|2|8|84
+Tyler Matzek|L|Matt Kemp|R|Single|E|Slider|42|0|1|2|5|81
+Tyler Matzek|L|Justin Upton|R|Groundout|C|Curveball|43|0|0|0|2|79
+Tyler Matzek|L|Justin Upton|R|Groundout|F|Slider|44|0|1|0|9|83
+Tyler Matzek|L|Justin Upton|R|Groundout|B|Slider|45|0|2|0|14|83
+Tyler Matzek|L|Justin Upton|R|Groundout|B|Slider|46|1|2|0|13|81
+Tyler Matzek|L|Justin Upton|R|Groundout|X|Four-Seam Fastball|47|2|2|0|8|91
+Tyler Matzek|L|Will Middlebrooks|R|Walk|B|Changeup|48|0|0|1|12|87
+Tyler Matzek|L|Will Middlebrooks|R|Walk|B|Slider|49|1|0|1|14|84
+Tyler Matzek|L|Will Middlebrooks|R|Walk|B|Four-Seam Fastball|50|2|0|1|13|90
+Tyler Matzek|L|Will Middlebrooks|R|Walk|B|Four-Seam Fastball|51|3|0|1|12|91
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Changeup|52|0|0|1|12|88
+Tyler Matzek|L|Jedd Gyorko|R|Walk|C|Changeup|53|1|0|1|14|88
+Tyler Matzek|L|Jedd Gyorko|R|Walk|F|Changeup|54|1|1|1|2|88
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Changeup|55|1|2|1|12|88
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Slider|56|2|2|1|13|82
+Tyler Matzek|L|Jedd Gyorko|R|Walk|B|Changeup|57|3|2|1|12|88
+Tyler Matzek|L|Yonder Alonso|L|Grounded Into DP|B|Four-Seam Fastball|58|0|0|1|11|90
+Tyler Matzek|L|Yonder Alonso|L|Grounded Into DP|C|Slider|59|1|0|1|6|82
+Tyler Matzek|L|Yonder Alonso|L|Grounded Into DP|T|Slider|60|1|1|1|7|83
+Tyler Matzek|L|Yonder Alonso|L|Grounded Into DP|B|Slider|61|1|2|1|13|83
+Tyler Matzek|L|Yonder Alonso|L|Grounded Into DP|X|Four-Seam Fastball|62|2|2|1|8|91
+Tyler Matzek|L|Clint Barmes|R|Walk|B|Four-Seam Fastball|63|0|0|0|12|89
+Tyler Matzek|L|Clint Barmes|R|Walk|C|Four-Seam Fastball|64|1|0|0|12|89
+Tyler Matzek|L|Clint Barmes|R|Walk|B|Changeup|65|1|1|0|13|87
+Tyler Matzek|L|Clint Barmes|R|Walk|B|Slider|66|2|1|0|12|80
+Tyler Matzek|L|Clint Barmes|R|Walk|C|Four-Seam Fastball|67|3|1|0|14|89
+Tyler Matzek|L|Clint Barmes|R|Walk|B|Four-Seam Fastball|68|3|2|0|12|90
+Tyler Matzek|L|Brandon Morrow|R|Walk|B|Four-Seam Fastball|69|0|0|0|14|88
+Tyler Matzek|L|Brandon Morrow|R|Walk|*B|Slider|70|1|0|0|13|82
+Tyler Matzek|L|Brandon Morrow|R|Walk|B|Four-Seam Fastball|71|2|0|0|14|90
+Tyler Matzek|L|Brandon Morrow|R|Walk|C|Four-Seam Fastball|72|3|0|0|8|89
+Tyler Matzek|L|Brandon Morrow|R|Walk|B|Slider|73|3|1|0|13|83
+Tyler Matzek|L|Wil Myers|R|Single|B|Four-Seam Fastball|74|0|0|0|14|91
+Tyler Matzek|L|Wil Myers|R|Single|B|Changeup|75|1|0|0|14|88
+Tyler Matzek|L|Wil Myers|R|Single|S|Four-Seam Fastball|76|2|0|0|12|92
+Tyler Matzek|L|Wil Myers|R|Single|X|Slider|77|2|1|0|14|83
+Tyler Matzek|L|Derek Norris|R|Field Error|C|Changeup|78|0|0|1|14|89
+Tyler Matzek|L|Derek Norris|R|Field Error|F|Changeup|79|0|1|1|12|88
+Tyler Matzek|L|Derek Norris|R|Field Error|F|Curveball|80|0|2|1|14|80
+Tyler Matzek|L|Derek Norris|R|Field Error|D|Slider|81|0|2|1|9|83
+Tyler Matzek|L|Matt Kemp|R|Grounded Into DP|B|Four-Seam Fastball|82|0|0|1|14|91
+Tyler Matzek|L|Matt Kemp|R|Grounded Into DP|C|Slider|83|1|0|1|14|83
+Tyler Matzek|L|Matt Kemp|R|Grounded Into DP|X|Four-Seam Fastball|84|1|1|1|6|92
+Tyler Matzek|L|Ender Inciarte|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|90
+Tyler Matzek|L|Ender Inciarte|L|Groundout|F|Four-Seam Fastball|1|0|1|0|8|90
+Tyler Matzek|L|Ender Inciarte|L|Groundout|B|Four-Seam Fastball|2|0|2|0|13|92
+Tyler Matzek|L|Ender Inciarte|L|Groundout|X|Slider|3|1|2|0|13|82
+Tyler Matzek|L|A.J. Pollock|R|Flyout|C|Changeup|4|0|0|1|9|88
+Tyler Matzek|L|A.J. Pollock|R|Flyout|B|Four-Seam Fastball|5|0|1|1|13|91
+Tyler Matzek|L|A.J. Pollock|R|Flyout|C|Changeup|6|1|1|1|13|89
+Tyler Matzek|L|A.J. Pollock|R|Flyout|B|Slider|7|1|2|1|13|83
+Tyler Matzek|L|A.J. Pollock|R|Flyout|X|Changeup|8|2|2|1|7|90
+Tyler Matzek|L|Paul Goldschmidt|R|Single|C|Four-Seam Fastball|9|0|0|2|4|92
+Tyler Matzek|L|Paul Goldschmidt|R|Single|D|Changeup|10|0|1|2|4|89
+Tyler Matzek|L|Mark Trumbo|R|Walk|S|Slider|11|0|0|2|13|82
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Four-Seam Fastball|12|0|1|2|9|92
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Slider|13|1|1|2|13|82
+Tyler Matzek|L|Mark Trumbo|R|Walk|F|Slider|14|2|1|2|5|82
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Four-Seam Fastball|15|2|2|2|12|92
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Slider|16|3|2|2|13|81
+Tyler Matzek|L|Yasmany Tomas|R|Lineout|X|Slider|17|0|0|2|13|82
+Tyler Matzek|L|Chris Owings|R|Pop Out|C|Four-Seam Fastball|18|0|0|0|13|90
+Tyler Matzek|L|Chris Owings|R|Pop Out|B|Four-Seam Fastball|19|0|1|0|12|91
+Tyler Matzek|L|Chris Owings|R|Pop Out|X|Four-Seam Fastball|20|1|1|0|7|90
+Tyler Matzek|L|Tuffy Gosewisch|R|Strikeout|B|Four-Seam Fastball|21|0|0|1|13|91
+Tyler Matzek|L|Tuffy Gosewisch|R|Strikeout|B|Changeup|22|1|0|1|14|89
+Tyler Matzek|L|Tuffy Gosewisch|R|Strikeout|C|Changeup|23|2|0|1|13|89
+Tyler Matzek|L|Tuffy Gosewisch|R|Strikeout|C|Four-Seam Fastball|24|2|1|1|5|92
+Tyler Matzek|L|Tuffy Gosewisch|R|Strikeout|S|Four-Seam Fastball|25|2|2|1|14|93
+Tyler Matzek|L|Nick Ahmed|R|Strikeout|B|Four-Seam Fastball|26|0|0|2|12|92
+Tyler Matzek|L|Nick Ahmed|R|Strikeout|L|Slider|27|1|0|2|13|82
+Tyler Matzek|L|Nick Ahmed|R|Strikeout|B|Slider|28|1|1|2|12|82
+Tyler Matzek|L|Nick Ahmed|R|Strikeout|F|Changeup|29|2|1|2|12|89
+Tyler Matzek|L|Nick Ahmed|R|Strikeout|C|Four-Seam Fastball|30|2|2|2|4|93
+Tyler Matzek|L|Chase Anderson|R|Walk|B|Changeup|31|0|0|0|12|89
+Tyler Matzek|L|Chase Anderson|R|Walk|C|Changeup|32|1|0|0|7|88
+Tyler Matzek|L|Chase Anderson|R|Walk|B|Changeup|33|1|1|0|13|88
+Tyler Matzek|L|Chase Anderson|R|Walk|B|Changeup|34|2|1|0|14|88
+Tyler Matzek|L|Chase Anderson|R|Walk|B|Four-Seam Fastball|35|3|1|0|12|91
+Tyler Matzek|L|Ender Inciarte|L|Grounded Into DP|C|Slider|36|0|0|0|3|82
+Tyler Matzek|L|Ender Inciarte|L|Grounded Into DP|X|Slider|37|0|1|0|5|81
+Tyler Matzek|L|A.J. Pollock|R|Strikeout|B|Changeup|38|0|0|2|13|90
+Tyler Matzek|L|A.J. Pollock|R|Strikeout|C|Slider|39|1|0|2|9|83
+Tyler Matzek|L|A.J. Pollock|R|Strikeout|F|Changeup|40|1|1|2|13|89
+Tyler Matzek|L|A.J. Pollock|R|Strikeout|F|Slider|41|1|2|2|13|83
+Tyler Matzek|L|A.J. Pollock|R|Strikeout|S|Changeup|42|1|2|2|14|89
+Tyler Matzek|L|Paul Goldschmidt|R|Groundout|B|Slider|43|0|0|0|12|81
+Tyler Matzek|L|Paul Goldschmidt|R|Groundout|X|Slider|44|1|0|0|4|81
+Tyler Matzek|L|Mark Trumbo|R|Double|B|Four-Seam Fastball|45|0|0|1|13|90
+Tyler Matzek|L|Mark Trumbo|R|Double|B|Changeup|46|1|0|1|14|89
+Tyler Matzek|L|Mark Trumbo|R|Double|B|Slider|47|2|0|1|13|83
+Tyler Matzek|L|Mark Trumbo|R|Double|C|Four-Seam Fastball|48|3|0|1|8|91
+Tyler Matzek|L|Mark Trumbo|R|Double|D|Slider|49|3|1|1|4|83
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|B|Changeup|50|0|0|1|13|89
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|C|Slider|51|1|0|1|14|83
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|B|Slider|52|1|1|1|13|82
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|B|Changeup|53|2|1|1|13|90
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|C|Slider|54|3|1|1|5|83
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|F|Four-Seam Fastball|55|3|2|1|13|92
+Tyler Matzek|L|Yasmany Tomas|R|Groundout|X|Slider|56|3|2|1|13|83
+Tyler Matzek|L|Chris Owings|R|Flyout|X|Changeup|57|0|0|2|9|88
+Tyler Matzek|L|Tuffy Gosewisch|R|Walk|B|Slider|58|0|0|0|2|80
+Tyler Matzek|L|Tuffy Gosewisch|R|Walk|B|Changeup|59|1|0|0|13|87
+Tyler Matzek|L|Tuffy Gosewisch|R|Walk|B|Slider|60|2|0|0|13|83
+Tyler Matzek|L|Tuffy Gosewisch|R|Walk|C|Four-Seam Fastball|61|3|0|0|6|90
+Tyler Matzek|L|Tuffy Gosewisch|R|Walk|*B|Four-Seam Fastball|62|3|1|0|13|90
+Tyler Matzek|L|Nick Ahmed|R|Single|F|Four-Seam Fastball|63|0|0|0|2|89
+Tyler Matzek|L|Nick Ahmed|R|Single|C|Changeup|64|0|1|0|7|89
+Tyler Matzek|L|Nick Ahmed|R|Single|D|Slider|65|0|2|0|9|84
+Tyler Matzek|L|Chase Anderson|R|Sac Bunt|X|Changeup|66|0|0|0|13|86
+Tyler Matzek|L|Ender Inciarte|L|Groundout|*B|Slider|67|0|0|1|13|83
+Tyler Matzek|L|Ender Inciarte|L|Groundout|B|Slider|68|1|0|1|13|83
+Tyler Matzek|L|Ender Inciarte|L|Groundout|C|Slider|69|2|0|1|4|81
+Tyler Matzek|L|Ender Inciarte|L|Groundout|S|Slider|70|2|1|1|13|83
+Tyler Matzek|L|Ender Inciarte|L|Groundout|B|Slider|71|2|2|1|13|83
+Tyler Matzek|L|Ender Inciarte|L|Groundout|E|Slider|72|3|2|1|1|82
+Tyler Matzek|L|A.J. Pollock|R|Single|E|Changeup|73|0|0|2|9|89
+Tyler Matzek|L|Paul Goldschmidt|R|Single|S|Changeup|74|0|0|2|6|87
+Tyler Matzek|L|Paul Goldschmidt|R|Single|D|Changeup|75|0|1|2|5|88
+Tyler Matzek|L|Mark Trumbo|R|Lineout|W|Slider|76|0|0|2|14|81
+Tyler Matzek|L|Mark Trumbo|R|Lineout|C|Slider|77|0|1|2|9|82
+Tyler Matzek|L|Mark Trumbo|R|Lineout|X|Four-Seam Fastball|78|0|2|2|4|91
+Brooks Brown|R|Yasmany Tomas|R|Walk|B|Changeup|79|0|0|0|12|86
+Tyler Matzek|L|Ender Inciarte|L|Groundout|X|Four-Seam Fastball|0|0|0|0|6|91
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Four-Seam Fastball|1|0|0|1|13|93
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Changeup|2|1|0|1|14|89
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Four-Seam Fastball|3|2|0|1|13|93
+Tyler Matzek|L|Mark Trumbo|R|Walk|B|Four-Seam Fastball|4|3|0|1|12|93
+Tyler Matzek|L|Paul Goldschmidt|R|Walk|C|Slider|5|0|0|1|8|85
+Tyler Matzek|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|6|0|1|1|13|93
+Tyler Matzek|L|Paul Goldschmidt|R|Walk|*B|Slider|7|1|1|1|13|85
+Tyler Matzek|L|Paul Goldschmidt|R|Walk|B|Changeup|8|2|1|1|12|89
+Tyler Matzek|L|Paul Goldschmidt|R|Walk|B|Slider|9|3|1|1|13|86
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Four-Seam Fastball|10|0|0|1|13|93
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Four-Seam Fastball|11|1|0|1|14|93
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Slider|12|2|0|1|13|85
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Four-Seam Fastball|13|3|0|1|12|94
+Tyler Matzek|L|Yasmany Tomas|R|Strikeout|B|Changeup|14|0|0|1|14|90
+Tyler Matzek|L|Yasmany Tomas|R|Strikeout|C|Changeup|15|1|0|1|8|91
+Tyler Matzek|L|Yasmany Tomas|R|Strikeout|C|Four-Seam Fastball|16|1|1|1|5|93
+Tyler Matzek|L|Yasmany Tomas|R|Strikeout|C|Four-Seam Fastball|17|1|2|1|7|95
+Tyler Matzek|L|Aaron Hill|R|Lineout|B|Slider|18|0|0|2|12|85
+Tyler Matzek|L|Aaron Hill|R|Lineout|C|Slider|19|1|0|2|3|83
+Tyler Matzek|L|Aaron Hill|R|Lineout|X|Slider|20|1|1|2|9|86
+Tyler Matzek|L|Jordan Pacheco|R|Walk|B|Four-Seam Fastball|21|0|0|0|12|90
+Tyler Matzek|L|Jordan Pacheco|R|Walk|B|Four-Seam Fastball|22|1|0|0|12|90
+Tyler Matzek|L|Jordan Pacheco|R|Walk|C|Slider|23|2|0|0|5|82
+Tyler Matzek|L|Jordan Pacheco|R|Walk|B|Changeup|24|2|1|0|14|88
+Tyler Matzek|L|Jordan Pacheco|R|Walk|B|Slider|25|3|1|0|13|81
+Tyler Matzek|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|26|0|0|0|12|92
+Tyler Matzek|L|Nick Ahmed|R|Walk|B|Slider|27|1|0|0|13|83
+Tyler Matzek|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|28|2|0|0|14|93
+Tyler Matzek|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|29|3|0|0|11|92
+Tyler Matzek|L|Josh Collmenter|R|Grounded Into DP|L|Slider|30|0|0|0|7|84
+Tyler Matzek|L|Josh Collmenter|R|Grounded Into DP|B|Four-Seam Fastball|31|0|1|0|12|91
+Tyler Matzek|L|Josh Collmenter|R|Grounded Into DP|B|Slider|32|1|1|0|13|82
+Tyler Matzek|L|Josh Collmenter|R|Grounded Into DP|X|Slider|33|2|1|0|11|84
+Tyler Matzek|L|Ender Inciarte|L|Single|C|Four-Seam Fastball|34|0|0|2|11|93
+Tyler Matzek|L|Ender Inciarte|L|Single|B|Four-Seam Fastball|35|0|1|2|13|92
+Tyler Matzek|L|Ender Inciarte|L|Single|C|Slider|36|1|1|2|3|83
+Tyler Matzek|L|Ender Inciarte|L|Single|B|Slider|37|1|2|2|13|84
+Tyler Matzek|L|Ender Inciarte|L|Single|E|Slider|38|2|2|2|6|84
+Tyler Matzek|L|Mark Trumbo|R|Home Run|B|Four-Seam Fastball|39|0|0|2|14|91
+Tyler Matzek|L|Mark Trumbo|R|Home Run|C|Changeup|40|1|0|2|14|88
+Tyler Matzek|L|Mark Trumbo|R|Home Run|B|Four-Seam Fastball|41|1|1|2|12|91
+Tyler Matzek|L|Mark Trumbo|R|Home Run|E|Changeup|42|2|1|2|14|89
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|B|Curveball|43|0|0|2|11|80
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|B|Changeup|44|1|0|2|13|89
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|B|Four-Seam Fastball|45|2|0|2|13|91
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|C|Slider|46|3|0|2|6|82
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|F|Slider|47|3|1|2|5|84
+Tyler Matzek|L|Paul Goldschmidt|R|Strikeout|S|Slider|48|3|2|2|3|84
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Four-Seam Fastball|49|0|0|0|12|90
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Slider|50|1|0|0|12|82
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Four-Seam Fastball|51|2|0|0|12|89
+Tyler Matzek|L|A.J. Pollock|R|Walk|B|Slider|52|3|0|0|13|84
+Tyler Matzek|L|Yasmany Tomas|R|Single|B|Changeup|53|0|0|0|14|88
+Tyler Matzek|L|Yasmany Tomas|R|Single|B|Slider|54|1|0|0|14|82
+Tyler Matzek|L|Yasmany Tomas|R|Single|B|Slider|55|2|0|0|14|83
+Tyler Matzek|L|Yasmany Tomas|R|Single|C|Four-Seam Fastball|56|3|0|0|14|91
+Tyler Matzek|L|Yasmany Tomas|R|Single|E|Four-Seam Fastball|57|3|1|0|14|91

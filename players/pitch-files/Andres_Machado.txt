@@ -1,0 +1,95 @@
+Andres Machado|R|Eddie Rosario|L|Flyout|B|Four-Seam Fastball|0|0|0|1|11|95
+Andres Machado|R|Eddie Rosario|L|Flyout|B|Four-Seam Fastball|1|1|0|1|13|96
+Andres Machado|R|Eddie Rosario|L|Flyout|S|Changeup|2|2|0|1|13|90
+Andres Machado|R|Eddie Rosario|L|Flyout|F|Changeup|3|2|1|1|13|90
+Andres Machado|R|Eddie Rosario|L|Flyout|B|Four-Seam Fastball|4|2|2|1|13|97
+Andres Machado|R|Eddie Rosario|L|Flyout|F|Four-Seam Fastball|5|3|2|1|11|97
+Andres Machado|R|Eddie Rosario|L|Flyout|X|Four-Seam Fastball|6|3|2|1|11|97
+Andres Machado|R|Chris Gimenez|R|Flyout|B|Four-Seam Fastball|7|0|0|2|11|96
+Andres Machado|R|Chris Gimenez|R|Flyout|B|Slider|8|1|0|2|13|86
+Andres Machado|R|Chris Gimenez|R|Flyout|X|Four-Seam Fastball|9|2|0|2|12|96
+Andres Machado|R|Ehire Adrianza|L|Walk|F|Four-Seam Fastball|10|0|0|0|1|95
+Andres Machado|R|Ehire Adrianza|L|Walk|B|Four-Seam Fastball|11|0|1|0|11|95
+Andres Machado|R|Ehire Adrianza|L|Walk|B|Four-Seam Fastball|12|1|1|0|14|96
+Andres Machado|R|Ehire Adrianza|L|Walk|B|Changeup|13|2|1|0|11|90
+Andres Machado|R|Ehire Adrianza|L|Walk|B|Four-Seam Fastball|14|3|1|0|13|96
+Andres Machado|R|Brian Dozier|R|Walk|C|Four-Seam Fastball|15|0|0|0|2|95
+Andres Machado|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|16|0|1|0|14|96
+Andres Machado|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|17|1|1|0|14|96
+Andres Machado|R|Brian Dozier|R|Walk|S|Slider|18|2|1|0|14|86
+Andres Machado|R|Brian Dozier|R|Walk|B|Slider|19|2|2|0|11|86
+Andres Machado|R|Brian Dozier|R|Walk|B|Four-Seam Fastball|20|3|2|0|9|98
+Andres Machado|R|Joe Mauer|L|Single|C|Four-Seam Fastball|21|0|0|0|7|95
+Andres Machado|R|Joe Mauer|L|Single|B|Changeup|22|0|1|0|13|89
+Andres Machado|R|Joe Mauer|L|Single|*B|Four-Seam Fastball|23|1|1|0|13|96
+Andres Machado|R|Joe Mauer|L|Single|F|Four-Seam Fastball|24|2|1|0|6|97
+Andres Machado|R|Joe Mauer|L|Single|F|Slider|25|2|2|0|14|86
+Andres Machado|R|Joe Mauer|L|Single|F|Changeup|26|2|2|0|13|90
+Andres Machado|R|Joe Mauer|L|Single|E|Four-Seam Fastball|27|2|2|0|11|96
+Andres Machado|R|Byron Buxton|R|Single|S|Slider|28|0|0|0|7|87
+Andres Machado|R|Byron Buxton|R|Single|B|Two-Seam Fastball|29|0|1|0|13|96
+Andres Machado|R|Byron Buxton|R|Single|S|Four-Seam Fastball|30|1|1|0|7|96
+Andres Machado|R|Byron Buxton|R|Single|E|Slider|31|1|2|0|14|88
+Andres Machado|R|Jorge Polanco|L|Single|B|Four-Seam Fastball|32|0|0|0|11|96
+Andres Machado|R|Jorge Polanco|L|Single|C|Four-Seam Fastball|33|1|0|0|8|95
+Andres Machado|R|Jorge Polanco|L|Single|C|Four-Seam Fastball|34|1|1|0|13|96
+Andres Machado|R|Jorge Polanco|L|Single|F|Changeup|35|1|2|0|11|90
+Andres Machado|R|Jorge Polanco|L|Single|B|Changeup|36|1|2|0|13|90
+Andres Machado|R|Jorge Polanco|L|Single|E|Changeup|37|2|2|0|11|90
+Andres Machado|R|Eduardo Escobar|L|Triple|F|Four-Seam Fastball|38|0|0|0|5|97
+Andres Machado|R|Eduardo Escobar|L|Triple|F|Slider|39|0|1|0|2|86
+Andres Machado|R|Eduardo Escobar|L|Triple|E|Slider|40|0|2|0|14|89
+Andres Machado|R|Mitch Garver|R|Walk|B|Slider|41|0|0|0|13|86
+Andres Machado|R|Mitch Garver|R|Walk|C|Slider|42|1|0|0|5|85
+Andres Machado|R|Mitch Garver|R|Walk|B|Slider|43|1|1|0|12|85
+Andres Machado|R|Mitch Garver|R|Walk|B|Slider|44|2|1|0|14|85
+Andres Machado|R|Mitch Garver|R|Walk|F|Four-Seam Fastball|45|3|1|0|4|96
+Andres Machado|R|Mitch Garver|R|Walk|B|Four-Seam Fastball|46|3|2|0|14|97
+Andres Machado|R|Mikie Mahtook|R|Single|C|Four-Seam Fastball|0|0|0|0|9|95
+Andres Machado|R|Mikie Mahtook|R|Single|C|Four-Seam Fastball|1|0|1|0|14|96
+Andres Machado|R|Mikie Mahtook|R|Single|B|Slider|2|0|2|0|14|86
+Andres Machado|R|Mikie Mahtook|R|Single|D|Four-Seam Fastball|3|1|2|0|3|94
+Andres Machado|R|Nicholas Castellanos|R|Single|S|Slider|4|0|0|0|9|85
+Andres Machado|R|Nicholas Castellanos|R|Single|B|Slider|5|0|1|0|13|85
+Andres Machado|R|Nicholas Castellanos|R|Single|F|Four-Seam Fastball|6|1|1|0|5|96
+Andres Machado|R|Nicholas Castellanos|R|Single|F|Four-Seam Fastball|7|1|2|0|12|96
+Andres Machado|R|Nicholas Castellanos|R|Single|D|Slider|8|1|2|0|7|87
+Andres Machado|R|James McCann|R|Strikeout|F|Four-Seam Fastball|9|0|0|0|12|96
+Andres Machado|R|James McCann|R|Strikeout|S|Changeup|10|0|1|0|4|89
+Andres Machado|R|James McCann|R|Strikeout|S|Changeup|11|0|2|0|4|90
+Andres Machado|R|John Hicks|R|Single|B|Four-Seam Fastball|12|0|0|1|14|96
+Andres Machado|R|John Hicks|R|Single|B|Changeup|13|1|0|1|11|90
+Andres Machado|R|John Hicks|R|Single|F|Four-Seam Fastball|14|2|0|1|5|96
+Andres Machado|R|John Hicks|R|Single|E|Four-Seam Fastball|15|2|1|1|14|96
+Andres Machado|R|Jeimer Candelario|L|Pop Out|X|Four-Seam Fastball|16|0|0|1|6|94
+Andres Machado|R|Alex Presley|L|Groundout|B|Four-Seam Fastball|17|0|0|2|14|96
+Andres Machado|R|Alex Presley|L|Groundout|X|Changeup|18|1|0|2|1|90
+Andres Machado|R|JaCoby Jones|R|Home Run|B|Changeup|19|0|0|0|13|91
+Andres Machado|R|JaCoby Jones|R|Home Run|E|Four-Seam Fastball|20|1|0|0|1|93
+Andres Machado|R|Dixon Machado|R|Pop Out|X|Four-Seam Fastball|21|0|0|0|4|93
+Andres Machado|R|Andrew Romine|L|Groundout|F|Four-Seam Fastball|22|0|0|1|4|95
+Andres Machado|R|Andrew Romine|L|Groundout|B|Four-Seam Fastball|23|0|1|1|12|95
+Andres Machado|R|Andrew Romine|L|Groundout|B|Changeup|24|1|1|1|13|86
+Andres Machado|R|Andrew Romine|L|Groundout|B|Four-Seam Fastball|25|2|1|1|13|95
+Andres Machado|R|Andrew Romine|L|Groundout|X|Four-Seam Fastball|26|3|1|1|9|94
+Andres Machado|R|Mikie Mahtook|R|Single|F|Slider|27|0|0|2|5|86
+Andres Machado|R|Mikie Mahtook|R|Single|F|Slider|28|0|1|2|4|86
+Andres Machado|R|Mikie Mahtook|R|Single|F|Four-Seam Fastball|29|0|2|2|1|95
+Andres Machado|R|Mikie Mahtook|R|Single|F|Changeup|30|0|2|2|4|89
+Andres Machado|R|Mikie Mahtook|R|Single|F|Four-Seam Fastball|31|0|2|2|1|97
+Andres Machado|R|Mikie Mahtook|R|Single|F|Changeup|32|0|2|2|13|89
+Andres Machado|R|Mikie Mahtook|R|Single|F|Changeup|33|0|2|2|13|90
+Andres Machado|R|Mikie Mahtook|R|Single|B|Four-Seam Fastball|34|0|2|2|11|96
+Andres Machado|R|Mikie Mahtook|R|Single|D|Four-Seam Fastball|35|1|2|2|14|96
+Andres Machado|R|Nicholas Castellanos|R|Groundout|X|Slider|36|0|0|2|13|86
+Andres Machado|R|Bryan Holaday|R|Lineout|F|Four-Seam Fastball|37|0|0|0|14|94
+Andres Machado|R|Bryan Holaday|R|Lineout|B|Four-Seam Fastball|38|0|1|0|11|94
+Andres Machado|R|Bryan Holaday|R|Lineout|F|Changeup|39|1|1|0|7|88
+Andres Machado|R|Bryan Holaday|R|Lineout|B|Slider|40|1|2|0|14|87
+Andres Machado|R|Bryan Holaday|R|Lineout|X|Four-Seam Fastball|41|2|2|0|7|95
+Andres Machado|R|John Hicks|R|Home Run|S|Slider|42|0|0|1|14|87
+Andres Machado|R|John Hicks|R|Home Run|E|Slider|43|0|1|1|5|87
+Andres Machado|R|Jeimer Candelario|L|Groundout|X|Changeup|44|0|0|1|4|89
+Andres Machado|R|Alex Presley|L|Groundout|C|Four-Seam Fastball|45|0|0|2|7|95
+Andres Machado|R|Alex Presley|L|Groundout|B|Four-Seam Fastball|46|0|1|2|14|94
+Andres Machado|R|Alex Presley|L|Groundout|X|Four-Seam Fastball|47|1|1|2|9|94

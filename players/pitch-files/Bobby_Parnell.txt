@@ -1,0 +1,508 @@
+Bobby Parnell|R|Jonny Gomes|R|Single|C|Four-Seam Fastball|0|0|0|2|12|91
+Bobby Parnell|R|Jonny Gomes|R|Single|B|Four-Seam Fastball|1|0|1|2|12|92
+Bobby Parnell|R|Jonny Gomes|R|Single|D|Four-Seam Fastball|2|1|1|2|5|93
+Bobby Parnell|R|A.J. Pierzynski|L|Groundout|X|Four-Seam Fastball|3|0|0|2|11|91
+Bobby Parnell|R|Kelly Johnson|L|Walk|B|Four-Seam Fastball|0|0|0|2|11|89
+Bobby Parnell|R|Kelly Johnson|L|Walk|B|Two-Seam Fastball|1|1|0|2|11|90
+Bobby Parnell|R|Kelly Johnson|L|Walk|B|Four-Seam Fastball|2|2|0|2|13|90
+Bobby Parnell|R|Kelly Johnson|L|Walk|C|Four-Seam Fastball|3|3|0|2|9|91
+Bobby Parnell|R|Kelly Johnson|L|Walk|B|Four-Seam Fastball|4|3|1|2|13|91
+Bobby Parnell|R|Andrelton Simmons|R|Flyout|C|Four-Seam Fastball|5|0|0|2|1|92
+Bobby Parnell|R|Andrelton Simmons|R|Flyout|X|Knuckle Curve|6|0|1|2|1|81
+Bobby Parnell|R|Christian Bethancourt|R|Grounded Into DP|L|Four-Seam Fastball|7|0|0|0|5|92
+Bobby Parnell|R|Christian Bethancourt|R|Grounded Into DP|X|Four-Seam Fastball|8|0|1|0|13|93
+Bobby Parnell|R|Jose Bautista|R|Sac Fly|C|Four-Seam Fastball|0|0|0|1|6|90
+Bobby Parnell|R|Jose Bautista|R|Sac Fly|B|Four-Seam Fastball|1|0|1|1|12|91
+Bobby Parnell|R|Jose Bautista|R|Sac Fly|E|Four-Seam Fastball|2|1|1|1|7|92
+Bobby Parnell|R|Edwin Encarnacion|R|Single|B|Four-Seam Fastball|3|0|0|2|13|91
+Bobby Parnell|R|Edwin Encarnacion|R|Single|W|Knuckle Curve|4|1|0|2|14|82
+Bobby Parnell|R|Edwin Encarnacion|R|Single|E|Four-Seam Fastball|5|1|1|2|5|92
+Bobby Parnell|R|Chris Colabello|R|Strikeout|S|Knuckle Curve|6|0|0|2|14|83
+Bobby Parnell|R|Chris Colabello|R|Strikeout|F|Knuckle Curve|7|0|1|2|9|81
+Bobby Parnell|R|Chris Colabello|R|Strikeout|*B|Knuckle Curve|8|0|2|2|14|82
+Bobby Parnell|R|Chris Colabello|R|Strikeout|*B|Knuckle Curve|9|1|2|2|14|83
+Bobby Parnell|R|Chris Colabello|R|Strikeout|S|Knuckle Curve|10|2|2|2|14|83
+Bobby Parnell|R|Russell Martin|R|Groundout|B|Knuckle Curve|11|0|0|0|11|79
+Bobby Parnell|R|Russell Martin|R|Groundout|F|Four-Seam Fastball|12|1|0|0|4|91
+Bobby Parnell|R|Russell Martin|R|Groundout|C|Four-Seam Fastball|13|1|1|0|8|92
+Bobby Parnell|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|14|1|2|0|12|94
+Bobby Parnell|R|Russell Martin|R|Groundout|F|Four-Seam Fastball|15|2|2|0|5|93
+Bobby Parnell|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|16|2|2|0|9|94
+Bobby Parnell|R|Dioner Navarro|L|Strikeout|C|Knuckle Curve|17|0|0|1|13|80
+Bobby Parnell|R|Dioner Navarro|L|Strikeout|S|Knuckle Curve|18|0|1|1|13|81
+Bobby Parnell|R|Dioner Navarro|L|Strikeout|W|Knuckle Curve|19|0|2|1|13|83
+Bobby Parnell|R|Ryan Goins|L|Flyout|C|Four-Seam Fastball|20|0|0|2|1|91
+Bobby Parnell|R|Ryan Goins|L|Flyout|B|Four-Seam Fastball|21|0|1|2|13|93
+Bobby Parnell|R|Ryan Goins|L|Flyout|F|Four-Seam Fastball|22|1|1|2|7|92
+Bobby Parnell|R|Ryan Goins|L|Flyout|B|Two-Seam Fastball|23|1|2|2|11|95
+Bobby Parnell|R|Ryan Goins|L|Flyout|X|Four-Seam Fastball|24|2|2|2|1|93
+Bobby Parnell|R|Juan Uribe|R|Lineout|F|Knuckle Curve|0|0|0|0|11|81
+Bobby Parnell|R|Juan Uribe|R|Lineout|B|Knuckle Curve|1|0|1|0|14|82
+Bobby Parnell|R|Juan Uribe|R|Lineout|B|Knuckle Curve|2|1|1|0|14|81
+Bobby Parnell|R|Juan Uribe|R|Lineout|C|Knuckle Curve|3|2|1|0|14|82
+Bobby Parnell|R|Juan Uribe|R|Lineout|X|Four-Seam Fastball|4|2|2|0|5|93
+Bobby Parnell|R|Nick Markakis|L|Single|*B|Four-Seam Fastball|5|0|0|1|13|91
+Bobby Parnell|R|Nick Markakis|L|Single|C|Four-Seam Fastball|6|1|0|1|13|92
+Bobby Parnell|R|Nick Markakis|L|Single|D|Four-Seam Fastball|7|1|1|1|8|91
+Bobby Parnell|R|Shane Peterson|L|Strikeout|B|Knuckle Curve|0|0|0|2|7|79
+Bobby Parnell|R|Shane Peterson|L|Strikeout|F|Four-Seam Fastball|1|1|0|2|5|89
+Bobby Parnell|R|Shane Peterson|L|Strikeout|S|Four-Seam Fastball|2|1|1|2|7|92
+Bobby Parnell|R|Shane Peterson|L|Strikeout|F|Four-Seam Fastball|3|1|2|2|13|92
+Bobby Parnell|R|Shane Peterson|L|Strikeout|B|Four-Seam Fastball|4|1|2|2|11|91
+Bobby Parnell|R|Shane Peterson|L|Strikeout|C|Four-Seam Fastball|5|2|2|2|13|93
+Bobby Parnell|R|Jason Rogers|R|Flyout|B|Splitter|6|0|0|0|11|87
+Bobby Parnell|R|Jason Rogers|R|Flyout|B|Knuckle Curve|7|1|0|0|14|77
+Bobby Parnell|R|Jason Rogers|R|Flyout|C|Four-Seam Fastball|8|2|0|0|9|89
+Bobby Parnell|R|Jason Rogers|R|Flyout|C|Four-Seam Fastball|9|2|1|0|14|91
+Bobby Parnell|R|Jason Rogers|R|Flyout|B|Four-Seam Fastball|10|2|2|0|14|91
+Bobby Parnell|R|Jason Rogers|R|Flyout|X|Four-Seam Fastball|11|3|2|0|4|92
+Bobby Parnell|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|12|0|0|1|14|89
+Bobby Parnell|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|13|1|0|1|14|91
+Bobby Parnell|R|Jean Segura|R|Groundout|X|Four-Seam Fastball|14|2|0|1|8|90
+Bobby Parnell|R|Jonathan Lucroy|R|Strikeout|C|Four-Seam Fastball|15|0|0|2|6|88
+Bobby Parnell|R|Jonathan Lucroy|R|Strikeout|F|Knuckle Curve|16|0|1|2|13|80
+Bobby Parnell|R|Jonathan Lucroy|R|Strikeout|B|Four-Seam Fastball|17|0|2|2|11|90
+Bobby Parnell|R|Jonathan Lucroy|R|Strikeout|W|Knuckle Curve|18|1|2|2|14|81
+Bobby Parnell|R|Marlon Byrd|R|Strikeout|B|Knuckle Curve|0|0|0|0|14|79
+Bobby Parnell|R|Marlon Byrd|R|Strikeout|S|Four-Seam Fastball|1|1|0|0|14|92
+Bobby Parnell|R|Marlon Byrd|R|Strikeout|F|Knuckle Curve|2|1|1|0|4|80
+Bobby Parnell|R|Marlon Byrd|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|90
+Bobby Parnell|R|Marlon Byrd|R|Strikeout|W|Knuckle Curve|4|2|2|0|14|82
+Bobby Parnell|R|Skip Schumaker|L|Lineout|X|Four-Seam Fastball|5|0|0|1|7|90
+Bobby Parnell|R|Ivan De Jesus Jr.|R|Single|C|Four-Seam Fastball|6|0|0|2|6|91
+Bobby Parnell|R|Ivan De Jesus Jr.|R|Single|D|Four-Seam Fastball|7|0|1|2|12|91
+Bobby Parnell|R|Eugenio Suarez|R|Caught Stealing 2B|B|Four-Seam Fastball|8|0|0|2|14|92
+Bobby Parnell|R|Eugenio Suarez|R|Caught Stealing 2B|B|Four-Seam Fastball|9|1|0|2|14|90
+Bobby Parnell|R|Eugenio Suarez|R|Caught Stealing 2B|S|Four-Seam Fastball|10|2|0|2|5|93
+Bobby Parnell|R|Eugenio Suarez|R|Caught Stealing 2B|S|Four-Seam Fastball|11|2|1|2|6|93
+Bobby Parnell|R|Eugenio Suarez|R|Caught Stealing 2B|B|Four-Seam Fastball|12|2|2|2|12|92
+Bobby Parnell|R|Kris Bryant|R|Walk|F|Four-Seam Fastball|0|0|0|0|9|90
+Bobby Parnell|R|Kris Bryant|R|Walk|S|Knuckle Curve|1|0|1|0|14|80
+Bobby Parnell|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|2|0|2|0|12|90
+Bobby Parnell|R|Kris Bryant|R|Walk|F|Knuckle Curve|3|1|2|0|3|81
+Bobby Parnell|R|Kris Bryant|R|Walk|B|Four-Seam Fastball|4|1|2|0|12|92
+Bobby Parnell|R|Kris Bryant|R|Walk|B|Knuckle Curve|5|2|2|0|14|82
+Bobby Parnell|R|Kris Bryant|R|Walk|F|Four-Seam Fastball|6|3|2|0|8|93
+Bobby Parnell|R|Kris Bryant|R|Walk|B|Knuckle Curve|7|3|2|0|14|82
+Bobby Parnell|R|Starlin Castro|R|Grounded Into DP|B|Four-Seam Fastball|8|0|0|0|14|92
+Bobby Parnell|R|Starlin Castro|R|Grounded Into DP|X|Four-Seam Fastball|9|1|0|0|13|91
+Bobby Parnell|R|Chris Denorfia|R|Strikeout|B|Knuckle Curve|10|0|0|2|14|82
+Bobby Parnell|R|Chris Denorfia|R|Strikeout|C|Four-Seam Fastball|11|1|0|2|5|93
+Bobby Parnell|R|Chris Denorfia|R|Strikeout|C|Four-Seam Fastball|12|1|1|2|6|92
+Bobby Parnell|R|Chris Denorfia|R|Strikeout|W|Knuckle Curve|13|1|2|2|14|84
+Bobby Parnell|R|Chris Denorfia|R|Single|B|Four-Seam Fastball|0|0|0|0|13|89
+Bobby Parnell|R|Chris Denorfia|R|Single|F|Four-Seam Fastball|1|1|0|0|5|90
+Bobby Parnell|R|Chris Denorfia|R|Single|F|Four-Seam Fastball|2|1|1|0|5|90
+Bobby Parnell|R|Chris Denorfia|R|Single|B|Knuckle Curve|3|1|2|0|14|81
+Bobby Parnell|R|Chris Denorfia|R|Single|B|Knuckle Curve|4|2|2|0|14|82
+Bobby Parnell|R|Chris Denorfia|R|Single|D|Four-Seam Fastball|5|3|2|0|4|93
+Bobby Parnell|R|Jonathan Herrera|L|Double Play|C|Four-Seam Fastball|6|0|0|0|13|91
+Bobby Parnell|R|Jonathan Herrera|L|Double Play|X|Four-Seam Fastball|7|0|1|0|6|90
+Bobby Parnell|R|Dexter Fowler|L|Flyout|X|Four-Seam Fastball|8|0|0|2|8|90
+Bobby Parnell|R|Joe Panik|L|Single|B|Four-Seam Fastball|0|0|0|0|13|89
+Bobby Parnell|R|Joe Panik|L|Single|D|Four-Seam Fastball|1|1|0|0|4|89
+Bobby Parnell|R|Matt Duffy|R|Groundout|C|Four-Seam Fastball|2|0|0|0|8|93
+Bobby Parnell|R|Matt Duffy|R|Groundout|F|Four-Seam Fastball|3|0|1|0|5|92
+Bobby Parnell|R|Matt Duffy|R|Groundout|B|Four-Seam Fastball|4|0|2|0|14|91
+Bobby Parnell|R|Matt Duffy|R|Groundout|B|Knuckle Curve|5|1|2|0|14|82
+Bobby Parnell|R|Matt Duffy|R|Groundout|X|Four-Seam Fastball|6|2|2|0|3|91
+Bobby Parnell|R|Hunter Pence|R|Single|S|Four-Seam Fastball|7|0|0|1|1|91
+Bobby Parnell|R|Hunter Pence|R|Single|*B|Knuckle Curve|8|0|1|1|14|81
+Bobby Parnell|R|Hunter Pence|R|Single|B|Knuckle Curve|9|1|1|1|14|80
+Bobby Parnell|R|Hunter Pence|R|Single|E|Four-Seam Fastball|10|2|1|1|9|93
+Bobby Parnell|R|David Peralta|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|91
+Bobby Parnell|R|David Peralta|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|91
+Bobby Parnell|R|David Peralta|L|Walk|C|Four-Seam Fastball|2|2|0|0|11|91
+Bobby Parnell|R|David Peralta|L|Walk|B|Two-Seam Fastball|3|2|1|0|11|93
+Bobby Parnell|R|David Peralta|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Bobby Parnell|R|Paul Goldschmidt|R|Grounded Into DP|C|Four-Seam Fastball|5|0|0|0|13|92
+Bobby Parnell|R|Paul Goldschmidt|R|Grounded Into DP|B|Knuckle Curve|6|0|1|0|14|81
+Bobby Parnell|R|Paul Goldschmidt|R|Grounded Into DP|X|Four-Seam Fastball|7|1|1|0|7|92
+Bobby Parnell|R|Yasmany Tomas|R|Groundout|F|Knuckle Curve|8|0|0|2|5|80
+Bobby Parnell|R|Yasmany Tomas|R|Groundout|B|Four-Seam Fastball|9|0|1|2|14|93
+Bobby Parnell|R|Yasmany Tomas|R|Groundout|X|Four-Seam Fastball|10|1|1|2|6|94
+Bobby Parnell|R|Cliff Pennington|L|Groundout|B|Four-Seam Fastball|0|0|0|0|13|89
+Bobby Parnell|R|Cliff Pennington|L|Groundout|X|Four-Seam Fastball|1|1|0|0|6|89
+Bobby Parnell|R|Nick Ahmed|R|Lineout|B|Knuckle Curve|2|0|0|1|11|78
+Bobby Parnell|R|Nick Ahmed|R|Lineout|X|Four-Seam Fastball|3|1|0|1|7|91
+Bobby Parnell|R|A.J. Pollock|R|Walk|F|Four-Seam Fastball|4|0|0|2|12|91
+Bobby Parnell|R|A.J. Pollock|R|Walk|B|Knuckle Curve|5|0|1|2|14|81
+Bobby Parnell|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|6|1|1|2|12|92
+Bobby Parnell|R|A.J. Pollock|R|Walk|T|Four-Seam Fastball|7|2|1|2|8|92
+Bobby Parnell|R|A.J. Pollock|R|Walk|F|Four-Seam Fastball|8|2|2|2|11|94
+Bobby Parnell|R|A.J. Pollock|R|Walk|B|Knuckle Curve|9|2|2|2|14|83
+Bobby Parnell|R|A.J. Pollock|R|Walk|F|Four-Seam Fastball|10|3|2|2|13|95
+Bobby Parnell|R|A.J. Pollock|R|Walk|B|Four-Seam Fastball|11|3|2|2|14|94
+Bobby Parnell|R|Paul Goldschmidt|R|Pop Out|C|Four-Seam Fastball|12|0|0|2|8|94
+Bobby Parnell|R|Paul Goldschmidt|R|Pop Out|B|Four-Seam Fastball|13|0|1|2|14|93
+Bobby Parnell|R|Paul Goldschmidt|R|Pop Out|X|Four-Seam Fastball|14|1|1|2|13|94
+Bobby Parnell|R|Jhonny Peralta|R|Strikeout|*B|Four-Seam Fastball|0|0|0|2|13|92
+Bobby Parnell|R|Jhonny Peralta|R|Strikeout|C|Four-Seam Fastball|1|1|0|2|7|93
+Bobby Parnell|R|Jhonny Peralta|R|Strikeout|C|Four-Seam Fastball|2|1|1|2|14|92
+Bobby Parnell|R|Jhonny Peralta|R|Strikeout|W|Knuckle Curve|3|1|2|2|14|81
+Bobby Parnell|R|Mark Reynolds|R|Single|S|Knuckle Curve|4|0|0|0|14|80
+Bobby Parnell|R|Mark Reynolds|R|Single|B|Knuckle Curve|5|0|1|0|14|83
+Bobby Parnell|R|Mark Reynolds|R|Single|C|Four-Seam Fastball|6|1|1|0|13|94
+Bobby Parnell|R|Mark Reynolds|R|Single|B|Four-Seam Fastball|7|1|2|0|14|93
+Bobby Parnell|R|Mark Reynolds|R|Single|D|Four-Seam Fastball|8|2|2|0|4|93
+Bobby Parnell|R|Yadier Molina|R|Grounded Into DP|C|Four-Seam Fastball|9|0|0|0|6|92
+Bobby Parnell|R|Yadier Molina|R|Grounded Into DP|X|Four-Seam Fastball|10|0|1|0|13|92
+Bobby Parnell|R|Tommy Pham|R|Single|C|Knuckle Curve|11|0|0|2|9|80
+Bobby Parnell|R|Tommy Pham|R|Single|S|Knuckle Curve|12|0|1|2|13|82
+Bobby Parnell|R|Tommy Pham|R|Single|B|Four-Seam Fastball|13|0|2|2|12|92
+Bobby Parnell|R|Tommy Pham|R|Single|B|Knuckle Curve|14|1|2|2|14|83
+Bobby Parnell|R|Tommy Pham|R|Single|D|Knuckle Curve|15|2|2|2|8|83
+Bobby Parnell|R|Peter Bourjos|R|Forceout|C|Four-Seam Fastball|16|0|0|2|9|93
+Bobby Parnell|R|Peter Bourjos|R|Forceout|X|Four-Seam Fastball|17|0|1|2|14|93
+Bobby Parnell|R|Wilson Ramos|R|Groundout|C|Knuckle Curve|0|0|0|0|4|78
+Bobby Parnell|R|Wilson Ramos|R|Groundout|X|Four-Seam Fastball|1|0|1|0|4|91
+Bobby Parnell|R|Matthew den Dekker|L|Groundout|B|Knuckle Curve|2|0|0|1|14|81
+Bobby Parnell|R|Matthew den Dekker|L|Groundout|X|Four-Seam Fastball|3|1|0|1|13|91
+Bobby Parnell|R|Dan Uggla|R|Strikeout|B|Knuckle Curve|4|0|0|2|11|81
+Bobby Parnell|R|Dan Uggla|R|Strikeout|B|Four-Seam Fastball|5|1|0|2|12|92
+Bobby Parnell|R|Dan Uggla|R|Strikeout|C|Four-Seam Fastball|6|2|0|2|11|92
+Bobby Parnell|R|Dan Uggla|R|Strikeout|B|Four-Seam Fastball|7|2|1|2|12|94
+Bobby Parnell|R|Dan Uggla|R|Strikeout|F|Four-Seam Fastball|8|3|1|2|11|94
+Bobby Parnell|R|Dan Uggla|R|Strikeout|C|Four-Seam Fastball|9|3|2|2|9|96
+Bobby Parnell|R|Wilson Ramos|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|8|92
+Bobby Parnell|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|4|93
+Bobby Parnell|R|Wilson Ramos|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|92
+Bobby Parnell|R|Wilson Ramos|R|Strikeout|S|Knuckle Curve|3|1|2|0|14|81
+Bobby Parnell|R|Ian Desmond|R|Walk|B|Knuckle Curve|4|0|0|1|14|80
+Bobby Parnell|R|Ian Desmond|R|Walk|C|Four-Seam Fastball|5|1|0|1|8|92
+Bobby Parnell|R|Ian Desmond|R|Walk|B|Knuckle Curve|6|1|1|1|14|82
+Bobby Parnell|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|7|2|1|1|13|92
+Bobby Parnell|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|8|3|1|1|13|93
+Bobby Parnell|R|Matthew den Dekker|L|Single|D|Four-Seam Fastball|9|0|0|1|13|93
+Bobby Parnell|R|Tyler Moore|R|Lineout|C|Four-Seam Fastball|10|0|0|1|14|94
+Bobby Parnell|R|Tyler Moore|R|Lineout|*B|Knuckle Curve|11|0|1|1|14|82
+Bobby Parnell|R|Tyler Moore|R|Lineout|X|Four-Seam Fastball|12|1|1|1|1|94
+Bobby Parnell|R|Michael A. Taylor|R|Single|B|Four-Seam Fastball|13|0|0|2|12|94
+Bobby Parnell|R|Michael A. Taylor|R|Single|T|Four-Seam Fastball|14|1|0|2|4|94
+Bobby Parnell|R|Michael A. Taylor|R|Single|F|Four-Seam Fastball|15|1|1|2|5|96
+Bobby Parnell|R|Michael A. Taylor|R|Single|B|Four-Seam Fastball|16|1|2|2|14|97
+Bobby Parnell|R|Michael A. Taylor|R|Single|B|Knuckle Curve|17|2|2|2|14|82
+Bobby Parnell|R|Michael A. Taylor|R|Single|E|Four-Seam Fastball|18|3|2|2|5|95
+Bobby Parnell|R|Danny Espinosa|L|Double|B|Four-Seam Fastball|19|0|0|2|14|91
+Bobby Parnell|R|Danny Espinosa|L|Double|E|Four-Seam Fastball|20|1|0|2|8|93
+Bobby Parnell|R|Bryce Harper|L|Intent Walk|I|Intentional Ball|21|0|0|2|11|82
+Bobby Parnell|R|Bryce Harper|L|Intent Walk|I|Intentional Ball|22|0|1|2|11|81
+Bobby Parnell|R|Bryce Harper|L|Intent Walk|I|Intentional Ball|23|0|2|2|11|81
+Bobby Parnell|R|Bryce Harper|L|Intent Walk|I|Intentional Ball|24|0|2|2|11|81
+Bobby Parnell|R|Dan Uggla|R|Groundout|F|Four-Seam Fastball|25|0|0|2|5|90
+Bobby Parnell|R|Dan Uggla|R|Groundout|X|Knuckle Curve|26|0|1|2|8|80
+Bobby Parnell|R|Yangervis Solarte|L|Double|B|Four-Seam Fastball|0|0|0|0|11|91
+Bobby Parnell|R|Yangervis Solarte|L|Double|C|Four-Seam Fastball|1|1|0|0|5|91
+Bobby Parnell|R|Yangervis Solarte|L|Double|D|Knuckle Curve|2|1|1|0|1|81
+Bobby Parnell|R|Matt Kemp|R|Flyout|B|Two-Seam Fastball|3|0|0|0|11|91
+Bobby Parnell|R|Matt Kemp|R|Flyout|B|Four-Seam Fastball|4|1|0|0|12|92
+Bobby Parnell|R|Matt Kemp|R|Flyout|S|Knuckle Curve|5|2|0|0|4|81
+Bobby Parnell|R|Matt Kemp|R|Flyout|X|Four-Seam Fastball|6|2|1|0|11|92
+Bobby Parnell|R|Justin Upton|R|Single|S|Knuckle Curve|7|0|0|1|14|82
+Bobby Parnell|R|Justin Upton|R|Single|B|Knuckle Curve|8|0|1|1|14|82
+Bobby Parnell|R|Justin Upton|R|Single|B|Four-Seam Fastball|9|1|1|1|13|93
+Bobby Parnell|R|Justin Upton|R|Single|E|Four-Seam Fastball|10|2|1|1|8|94
+Bobby Parnell|R|Yonder Alonso|L|Grounded Into DP|F|Four-Seam Fastball|11|0|0|1|11|93
+Bobby Parnell|R|Yonder Alonso|L|Grounded Into DP|B|Four-Seam Fastball|12|0|1|1|12|92
+Bobby Parnell|R|Yonder Alonso|L|Grounded Into DP|B|Four-Seam Fastball|13|1|1|1|12|93
+Bobby Parnell|R|Yonder Alonso|L|Grounded Into DP|B|Knuckle Curve|14|2|1|1|13|80
+Bobby Parnell|R|Yonder Alonso|L|Grounded Into DP|X|Four-Seam Fastball|15|3|1|1|13|91
+Bobby Parnell|R|Yonder Alonso|L|Double|D|Four-Seam Fastball|0|0|0|0|11|90
+Bobby Parnell|R|Alexi Amarista|L|Lineout|B|Four-Seam Fastball|1|0|0|0|13|90
+Bobby Parnell|R|Alexi Amarista|L|Lineout|C|Four-Seam Fastball|2|1|0|0|5|91
+Bobby Parnell|R|Alexi Amarista|L|Lineout|X|Knuckle Curve|3|1|1|0|8|81
+Bobby Parnell|R|Brett Wallace|L|Walk|S|Four-Seam Fastball|4|0|0|1|13|91
+Bobby Parnell|R|Brett Wallace|L|Walk|S|Four-Seam Fastball|5|0|1|1|1|92
+Bobby Parnell|R|Brett Wallace|L|Walk|B|Four-Seam Fastball|6|0|2|1|13|92
+Bobby Parnell|R|Brett Wallace|L|Walk|B|Four-Seam Fastball|7|1|2|1|13|92
+Bobby Parnell|R|Brett Wallace|L|Walk|F|Four-Seam Fastball|8|2|2|1|13|92
+Bobby Parnell|R|Brett Wallace|L|Walk|B|Four-Seam Fastball|9|2|2|1|11|92
+Bobby Parnell|R|Brett Wallace|L|Walk|F|Four-Seam Fastball|10|3|2|1|11|93
+Bobby Parnell|R|Brett Wallace|L|Walk|B|Four-Seam Fastball|11|3|2|1|11|93
+Bobby Parnell|R|B.J. Upton|R|Single|D|Four-Seam Fastball|12|0|0|1|13|94
+Bobby Parnell|R|Michael A. Taylor|R|Bunt Groundout|S|Four-Seam Fastball|0|0|0|0|11|93
+Bobby Parnell|R|Michael A. Taylor|R|Bunt Groundout|X|Knuckle Curve|1|0|1|0|5|81
+Bobby Parnell|R|Joe Ross|R|Single|B|Four-Seam Fastball|2|0|0|1|13|93
+Bobby Parnell|R|Joe Ross|R|Single|B|Four-Seam Fastball|3|1|0|1|11|91
+Bobby Parnell|R|Joe Ross|R|Single|C|Four-Seam Fastball|4|2|0|1|11|91
+Bobby Parnell|R|Joe Ross|R|Single|D|Four-Seam Fastball|5|2|1|1|11|93
+Bobby Parnell|R|Anthony Rendon|R|Flyout|S|Four-Seam Fastball|6|0|0|1|3|94
+Bobby Parnell|R|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|7|0|1|1|11|95
+Bobby Parnell|R|Anthony Rendon|R|Flyout|X|Four-Seam Fastball|8|1|1|1|11|95
+Bobby Parnell|R|Yunel Escobar|R|Groundout|*B|Knuckle Curve|9|0|0|2|14|82
+Bobby Parnell|R|Yunel Escobar|R|Groundout|B|Four-Seam Fastball|10|1|0|2|12|96
+Bobby Parnell|R|Yunel Escobar|R|Groundout|F|Four-Seam Fastball|11|2|0|2|2|96
+Bobby Parnell|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|12|2|1|2|11|97
+Bobby Parnell|R|Ichiro Suzuki|L|Groundout|C|Four-Seam Fastball|0|0|0|0|13|91
+Bobby Parnell|R|Ichiro Suzuki|L|Groundout|F|Four-Seam Fastball|1|0|1|0|1|93
+Bobby Parnell|R|Ichiro Suzuki|L|Groundout|X|Knuckle Curve|2|0|2|0|8|81
+Bobby Parnell|R|Adeiny Hechavarria|R|Single|C|Four-Seam Fastball|3|0|0|1|5|93
+Bobby Parnell|R|Adeiny Hechavarria|R|Single|D|Knuckle Curve|4|0|1|1|14|82
+Bobby Parnell|R|Jeff Mathis|R|Walk|B|Four-Seam Fastball|5|0|0|1|14|92
+Bobby Parnell|R|Jeff Mathis|R|Walk|B|Four-Seam Fastball|6|1|0|1|14|93
+Bobby Parnell|R|Jeff Mathis|R|Walk|S|Four-Seam Fastball|7|2|0|1|12|94
+Bobby Parnell|R|Jeff Mathis|R|Walk|B|Four-Seam Fastball|8|2|1|1|12|94
+Bobby Parnell|R|Jeff Mathis|R|Walk|F|Four-Seam Fastball|9|3|1|1|4|94
+Bobby Parnell|R|Jeff Mathis|R|Walk|F|Four-Seam Fastball|10|3|2|1|13|95
+Bobby Parnell|R|Jeff Mathis|R|Walk|B|Four-Seam Fastball|11|3|2|1|12|96
+Bobby Parnell|R|Casey McGehee|R|Groundout|X|Four-Seam Fastball|12|0|0|1|13|94
+Bobby Parnell|R|Curt Casali|R|Walk|C|Knuckle Curve|0|0|0|2|7|81
+Bobby Parnell|R|Curt Casali|R|Walk|*B|Knuckle Curve|1|0|1|2|14|82
+Bobby Parnell|R|Curt Casali|R|Walk|*B|Knuckle Curve|2|1|1|2|14|82
+Bobby Parnell|R|Curt Casali|R|Walk|B|Four-Seam Fastball|3|2|1|2|14|95
+Bobby Parnell|R|Curt Casali|R|Walk|B|Four-Seam Fastball|4|3|1|2|11|95
+Bobby Parnell|R|John Jaso|L|Flyout|F|Four-Seam Fastball|5|0|0|2|1|95
+Bobby Parnell|R|John Jaso|L|Flyout|X|Four-Seam Fastball|6|0|1|2|11|95
+Bobby Parnell|R|Evan Longoria|R|Flyout|X|Four-Seam Fastball|0|0|0|0|4|89
+Bobby Parnell|R|James Loney|L|Lineout|B|Four-Seam Fastball|1|0|0|1|11|89
+Bobby Parnell|R|James Loney|L|Lineout|C|Four-Seam Fastball|2|1|0|1|7|91
+Bobby Parnell|R|James Loney|L|Lineout|B|Four-Seam Fastball|3|1|1|1|14|90
+Bobby Parnell|R|James Loney|L|Lineout|F|Four-Seam Fastball|4|2|1|1|13|92
+Bobby Parnell|R|James Loney|L|Lineout|X|Knuckle Curve|5|2|2|1|5|80
+Bobby Parnell|R|Logan Forsythe|R|Single|C|Four-Seam Fastball|6|0|0|2|3|90
+Bobby Parnell|R|Logan Forsythe|R|Single|B|Knuckle Curve|7|0|1|2|14|81
+Bobby Parnell|R|Logan Forsythe|R|Single|F|Knuckle Curve|8|1|1|2|14|81
+Bobby Parnell|R|Logan Forsythe|R|Single|B|Four-Seam Fastball|9|1|2|2|12|94
+Bobby Parnell|R|Logan Forsythe|R|Single|B|Knuckle Curve|10|2|2|2|12|82
+Bobby Parnell|R|Logan Forsythe|R|Single|F|Four-Seam Fastball|11|3|2|2|13|93
+Bobby Parnell|R|Logan Forsythe|R|Single|D|Four-Seam Fastball|12|3|2|2|6|94
+Bobby Parnell|R|Asdrubal Cabrera|L|Strikeout|S|Four-Seam Fastball|13|0|0|2|1|91
+Bobby Parnell|R|Asdrubal Cabrera|L|Strikeout|F|Four-Seam Fastball|14|0|1|2|2|91
+Bobby Parnell|R|Asdrubal Cabrera|L|Strikeout|S|Four-Seam Fastball|15|0|2|2|11|90
+Bobby Parnell|R|DJ LeMahieu|R|Groundout|B|Splitter|0|0|0|0|14|86
+Bobby Parnell|R|DJ LeMahieu|R|Groundout|C|Splitter|1|1|0|0|8|87
+Bobby Parnell|R|DJ LeMahieu|R|Groundout|B|Four-Seam Fastball|2|1|1|0|11|88
+Bobby Parnell|R|DJ LeMahieu|R|Groundout|X|Four-Seam Fastball|3|2|1|0|5|89
+Bobby Parnell|R|Ben Paulsen|L|Groundout|X|Four-Seam Fastball|4|0|0|1|13|88
+Bobby Parnell|R|Michael McKenry|R|Walk|B|Splitter|5|0|0|2|12|87
+Bobby Parnell|R|Michael McKenry|R|Walk|B|Four-Seam Fastball|6|1|0|2|11|89
+Bobby Parnell|R|Michael McKenry|R|Walk|F|Four-Seam Fastball|7|2|0|2|7|89
+Bobby Parnell|R|Michael McKenry|R|Walk|B|Splitter|8|2|1|2|13|88
+Bobby Parnell|R|Michael McKenry|R|Walk|B|Four-Seam Fastball|9|3|1|2|13|89
+Bobby Parnell|R|Matt McBride|R|Groundout|C|Four-Seam Fastball|10|0|0|2|5|88
+Bobby Parnell|R|Matt McBride|R|Groundout|F|Knuckle Curve|11|0|1|2|14|78
+Bobby Parnell|R|Matt McBride|R|Groundout|F|Four-Seam Fastball|12|0|2|2|5|91
+Bobby Parnell|R|Matt McBride|R|Groundout|X|Four-Seam Fastball|13|0|2|2|5|90
+Bobby Parnell|R|Chris Stewart|R|Single|C|Four-Seam Fastball|0|0|0|0|9|90
+Bobby Parnell|R|Chris Stewart|R|Single|B|Knuckle Curve|1|0|1|0|14|80
+Bobby Parnell|R|Chris Stewart|R|Single|D|Knuckle Curve|2|1|1|0|8|81
+Bobby Parnell|R|Francisco Cervelli|R|Single|B|Four-Seam Fastball|3|0|0|0|14|92
+Bobby Parnell|R|Francisco Cervelli|R|Single|B|Four-Seam Fastball|4|1|0|0|14|94
+Bobby Parnell|R|Francisco Cervelli|R|Single|B|Four-Seam Fastball|5|2|0|0|13|93
+Bobby Parnell|R|Francisco Cervelli|R|Single|C|Four-Seam Fastball|6|3|0|0|11|92
+Bobby Parnell|R|Francisco Cervelli|R|Single|F|Four-Seam Fastball|7|3|1|0|4|92
+Bobby Parnell|R|Francisco Cervelli|R|Single|D|Four-Seam Fastball|8|3|2|0|11|94
+Bobby Parnell|R|Gregory Polanco|L|Single|E|Four-Seam Fastball|9|0|0|0|1|90
+Bobby Parnell|R|Pedro Florimon|L|Walk|F|Four-Seam Fastball|0|0|0|0|7|93
+Bobby Parnell|R|Pedro Florimon|L|Walk|S|Knuckle Curve|1|0|1|0|13|83
+Bobby Parnell|R|Pedro Florimon|L|Walk|B|Four-Seam Fastball|2|0|2|0|13|94
+Bobby Parnell|R|Pedro Florimon|L|Walk|B|Knuckle Curve|3|1|2|0|11|83
+Bobby Parnell|R|Pedro Florimon|L|Walk|B|Four-Seam Fastball|4|2|2|0|13|95
+Bobby Parnell|R|Pedro Florimon|L|Walk|B|Four-Seam Fastball|5|3|2|0|13|94
+Bobby Parnell|R|Michael Morse|R|Field Error|B|Four-Seam Fastball|6|0|0|0|13|95
+Bobby Parnell|R|Michael Morse|R|Field Error|D|Four-Seam Fastball|7|1|0|0|4|95
+Bobby Parnell|R|Gregory Polanco|L|Single|E|Four-Seam Fastball|8|0|0|0|8|96
+Bobby Parnell|R|Starling Marte|R|Flyout|B|Four-Seam Fastball|9|0|0|0|13|96
+Bobby Parnell|R|Starling Marte|R|Flyout|X|Four-Seam Fastball|10|1|0|0|5|95
+Bobby Parnell|R|Neil Walker|L|Walk|C|Knuckle Curve|11|0|0|1|4|82
+Bobby Parnell|R|Neil Walker|L|Walk|F|Knuckle Curve|12|0|1|1|13|82
+Bobby Parnell|R|Neil Walker|L|Walk|B|Four-Seam Fastball|13|0|2|1|14|93
+Bobby Parnell|R|Neil Walker|L|Walk|F|Four-Seam Fastball|14|1|2|1|1|93
+Bobby Parnell|R|Neil Walker|L|Walk|F|Knuckle Curve|15|1|2|1|13|81
+Bobby Parnell|R|Neil Walker|L|Walk|B|Four-Seam Fastball|16|1|2|1|11|95
+Bobby Parnell|R|Neil Walker|L|Walk|B|Knuckle Curve|17|2|2|1|13|84
+Bobby Parnell|R|Neil Walker|L|Walk|F|Four-Seam Fastball|18|3|2|1|4|96
+Bobby Parnell|R|Neil Walker|L|Walk|B|Two-Seam Fastball|19|3|2|1|11|96
+Bobby Parnell|R|Aramis Ramirez|R|Single|B|Knuckle Curve|20|0|0|1|14|83
+Bobby Parnell|R|Aramis Ramirez|R|Single|E|Knuckle Curve|21|1|0|1|4|84
+Bobby Parnell|R|Andres Blanco|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|93
+Bobby Parnell|R|Andres Blanco|L|Walk|F|Four-Seam Fastball|1|1|0|0|5|94
+Bobby Parnell|R|Andres Blanco|L|Walk|B|Knuckle Curve|2|1|1|0|11|82
+Bobby Parnell|R|Andres Blanco|L|Walk|B|Two-Seam Fastball|3|2|1|0|11|94
+Bobby Parnell|R|Andres Blanco|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|94
+Bobby Parnell|R|Carlos Ruiz|R|Walk|C|Knuckle Curve|5|0|0|0|2|84
+Bobby Parnell|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|6|0|1|0|11|95
+Bobby Parnell|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|7|1|1|0|13|95
+Bobby Parnell|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|8|2|1|0|12|94
+Bobby Parnell|R|Carlos Ruiz|R|Walk|B|Four-Seam Fastball|9|3|1|0|11|94
+Bobby Parnell|R|Freddy Galvis|L|Sac Bunt|B|Four-Seam Fastball|10|0|0|0|14|91
+Bobby Parnell|R|Freddy Galvis|L|Sac Bunt|E|Four-Seam Fastball|11|1|0|0|7|93
+Bobby Parnell|R|Adonis Garcia|R|Single|B|Four-Seam Fastball|0|0|0|1|13|93
+Bobby Parnell|R|Adonis Garcia|R|Single|E|Four-Seam Fastball|1|1|0|1|11|93
+Bobby Parnell|R|Hector Olivera|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|11|93
+Bobby Parnell|R|Hector Olivera|R|Strikeout|F|Four-Seam Fastball|3|0|1|1|9|94
+Bobby Parnell|R|Hector Olivera|R|Strikeout|S|Knuckle Curve|4|0|2|1|14|82
+Bobby Parnell|R|Andrelton Simmons|R|Groundout|X|Four-Seam Fastball|5|0|0|2|7|91
+Bobby Parnell|R|Christian Bethancourt|R|Groundout|C|Four-Seam Fastball|6|0|0|0|4|92
+Bobby Parnell|R|Christian Bethancourt|R|Groundout|X|Knuckle Curve|7|0|1|0|14|81
+Bobby Parnell|R|Michael Bourn|L|Groundout|B|Four-Seam Fastball|8|0|0|1|11|92
+Bobby Parnell|R|Michael Bourn|L|Groundout|F|Four-Seam Fastball|9|1|0|1|5|92
+Bobby Parnell|R|Michael Bourn|L|Groundout|B|Four-Seam Fastball|10|1|1|1|11|92
+Bobby Parnell|R|Michael Bourn|L|Groundout|X|Four-Seam Fastball|11|2|1|1|13|93
+Bobby Parnell|R|Marcell Ozuna|R|Flyout|X|Knuckle Curve|0|0|0|2|13|81
+Bobby Parnell|R|Derek Dietrich|L|Walk|F|Four-Seam Fastball|1|0|0|0|4|93
+Bobby Parnell|R|Derek Dietrich|L|Walk|F|Knuckle Curve|2|0|1|0|14|81
+Bobby Parnell|R|Derek Dietrich|L|Walk|B|Two-Seam Fastball|3|0|2|0|11|94
+Bobby Parnell|R|Derek Dietrich|L|Walk|B|Knuckle Curve|4|1|2|0|14|82
+Bobby Parnell|R|Derek Dietrich|L|Walk|B|Four-Seam Fastball|5|2|2|0|11|96
+Bobby Parnell|R|Derek Dietrich|L|Walk|B|Four-Seam Fastball|6|3|2|0|11|94
+Bobby Parnell|R|J.T. Realmuto|R|Grounded Into DP|X|Four-Seam Fastball|7|0|0|0|1|95
+Bobby Parnell|R|Chase Headley|L|Walk|B|Knuckle Curve|0|0|0|0|14|80
+Bobby Parnell|R|Chase Headley|L|Walk|B|Knuckle Curve|1|1|0|0|14|82
+Bobby Parnell|R|Chase Headley|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|93
+Bobby Parnell|R|Chase Headley|L|Walk|C|Four-Seam Fastball|3|3|0|0|13|92
+Bobby Parnell|R|Chase Headley|L|Walk|F|Four-Seam Fastball|4|3|1|0|3|94
+Bobby Parnell|R|Chase Headley|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|94
+Bobby Parnell|R|Chris Young|R|Strikeout|B|Four-Seam Fastball|6|0|0|0|12|94
+Bobby Parnell|R|Chris Young|R|Strikeout|B|Four-Seam Fastball|7|1|0|0|11|94
+Bobby Parnell|R|Chris Young|R|Strikeout|F|Four-Seam Fastball|8|2|0|0|6|94
+Bobby Parnell|R|Chris Young|R|Strikeout|F|Four-Seam Fastball|9|2|1|0|3|94
+Bobby Parnell|R|Chris Young|R|Strikeout|F|Four-Seam Fastball|10|2|2|0|12|95
+Bobby Parnell|R|Chris Young|R|Strikeout|F|Four-Seam Fastball|11|2|2|0|8|95
+Bobby Parnell|R|Chris Young|R|Strikeout|B|Knuckle Curve|12|2|2|0|14|83
+Bobby Parnell|R|Chris Young|R|Strikeout|S|Knuckle Curve|13|3|2|0|14|83
+Bobby Parnell|R|Didi Gregorius|L|Flyout|B|Four-Seam Fastball|14|0|0|1|13|93
+Bobby Parnell|R|Didi Gregorius|L|Flyout|B|Four-Seam Fastball|15|1|0|1|13|93
+Bobby Parnell|R|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|16|2|0|1|4|95
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|B|Four-Seam Fastball|17|0|0|2|13|95
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|B|Four-Seam Fastball|18|1|0|2|14|95
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|C|Four-Seam Fastball|19|2|0|2|14|96
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|S|Four-Seam Fastball|20|2|1|2|6|96
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|*B|Knuckle Curve|21|2|2|2|14|84
+Bobby Parnell|R|Alex Rodriguez|R|Flyout|X|Four-Seam Fastball|22|3|2|2|2|97
+Bobby Parnell|R|Brandon Phillips|R|Single|D|Four-Seam Fastball|0|0|0|2|5|93
+Bobby Parnell|R|Ivan De Jesus Jr.|R|Single|B|Four-Seam Fastball|1|0|0|2|14|94
+Bobby Parnell|R|Ivan De Jesus Jr.|R|Single|E|Four-Seam Fastball|2|1|0|2|5|94
+Bobby Parnell|R|Skip Schumaker|L|Single|C|Four-Seam Fastball|3|0|0|2|11|93
+Bobby Parnell|R|Skip Schumaker|L|Single|*B|Four-Seam Fastball|4|0|1|2|13|94
+Bobby Parnell|R|Skip Schumaker|L|Single|D|Knuckle Curve|5|1|1|2|3|81
+Bobby Parnell|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|6|0|0|2|1|96
+Bobby Parnell|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|7|0|1|2|13|95
+Bobby Parnell|R|Eugenio Suarez|R|Strikeout|W|Knuckle Curve|8|1|1|2|14|82
+Bobby Parnell|R|Eugenio Suarez|R|Strikeout|B|Knuckle Curve|9|1|2|2|14|83
+Bobby Parnell|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|10|2|2|2|13|97
+Bobby Parnell|R|Jay Bruce|L|Groundout|X|Two-Seam Fastball|0|0|0|0|11|91
+Bobby Parnell|R|Todd Frazier|R|Double|B|Four-Seam Fastball|1|0|0|1|11|95
+Bobby Parnell|R|Todd Frazier|R|Double|F|Four-Seam Fastball|2|1|0|1|14|95
+Bobby Parnell|R|Todd Frazier|R|Double|D|Knuckle Curve|3|1|1|1|8|83
+Bobby Parnell|R|Eugenio Suarez|R|Field Error|B|Four-Seam Fastball|4|0|0|1|14|95
+Bobby Parnell|R|Eugenio Suarez|R|Field Error|B|Four-Seam Fastball|5|1|0|1|14|95
+Bobby Parnell|R|Eugenio Suarez|R|Field Error|B|Four-Seam Fastball|6|2|0|1|14|94
+Bobby Parnell|R|Eugenio Suarez|R|Field Error|C|Four-Seam Fastball|7|3|0|1|8|94
+Bobby Parnell|R|Eugenio Suarez|R|Field Error|D|Four-Seam Fastball|8|3|1|1|9|95
+Bobby Parnell|R|Brayan Pena|L|Grounded Into DP|C|Four-Seam Fastball|9|0|0|1|8|95
+Bobby Parnell|R|Brayan Pena|L|Grounded Into DP|B|Four-Seam Fastball|10|0|1|1|13|95
+Bobby Parnell|R|Brayan Pena|L|Grounded Into DP|F|Four-Seam Fastball|11|1|1|1|12|97
+Bobby Parnell|R|Brayan Pena|L|Grounded Into DP|X|Knuckle Curve|12|1|2|1|8|85
+Bobby Parnell|R|Cameron Rupp|R|Walk|B|Four-Seam Fastball|0|3|2|1|14|93
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|F|Four-Seam Fastball|1|0|0|1|13|92
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|C|Four-Seam Fastball|2|0|1|1|6|92
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|B|Four-Seam Fastball|3|0|2|1|12|93
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|B|Knuckle Curve|4|1|2|1|14|81
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|F|Knuckle Curve|5|2|2|1|6|84
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|B|Four-Seam Fastball|6|2|2|1|13|95
+Bobby Parnell|R|Chase d'Arnaud|R|Walk|B|Four-Seam Fastball|7|3|2|1|14|95
+Bobby Parnell|R|Freddy Galvis|L|Single|B|Four-Seam Fastball|8|0|0|1|14|93
+Bobby Parnell|R|Freddy Galvis|L|Single|F|Knuckle Curve|9|1|0|1|13|81
+Bobby Parnell|R|Freddy Galvis|L|Single|B|Four-Seam Fastball|10|1|1|1|12|94
+Bobby Parnell|R|Freddy Galvis|L|Single|E|Knuckle Curve|11|2|1|1|14|83
+Bobby Parnell|R|Aaron Hicks|L|Single|E|Four-Seam Fastball|0|0|0|1|5|94
+Bobby Parnell|R|Brett Lawrie|R|Flyout|X|Four-Seam Fastball|0|0|0|0|2|93
+Bobby Parnell|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|1|0|0|1|11|94
+Bobby Parnell|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|2|1|0|1|11|93
+Bobby Parnell|R|Jimmy Rollins|L|Walk|C|Four-Seam Fastball|3|2|0|1|11|93
+Bobby Parnell|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|4|2|1|1|11|94
+Bobby Parnell|R|Jimmy Rollins|L|Walk|F|Four-Seam Fastball|5|3|1|1|11|93
+Bobby Parnell|R|Jimmy Rollins|L|Walk|F|Four-Seam Fastball|6|3|2|1|1|94
+Bobby Parnell|R|Jimmy Rollins|L|Walk|B|Four-Seam Fastball|7|3|2|1|12|95
+Bobby Parnell|R|Avisail Garcia|R|Groundout|S|Four-Seam Fastball|8|0|0|1|11|94
+Bobby Parnell|R|Avisail Garcia|R|Groundout|X|Knuckle Curve|9|0|1|1|14|84
+Bobby Parnell|R|Jerry Sands|R|Single|B|Four-Seam Fastball|10|0|0|2|11|94
+Bobby Parnell|R|Jerry Sands|R|Single|C|Four-Seam Fastball|11|1|0|2|1|93
+Bobby Parnell|R|Jerry Sands|R|Single|E|Knuckle Curve|12|1|1|2|4|85
+Bobby Parnell|R|Adam Eaton|L|Groundout|C|Four-Seam Fastball|13|0|0|2|11|94
+Bobby Parnell|R|Adam Eaton|L|Groundout|B|Four-Seam Fastball|14|0|1|2|11|94
+Bobby Parnell|R|Adam Eaton|L|Groundout|F|Four-Seam Fastball|15|1|1|2|5|93
+Bobby Parnell|R|Adam Eaton|L|Groundout|X|Knuckle Curve|16|1|2|2|13|84
+Bobby Parnell|R|Devon Travis|R|Grounded Into DP|B|Four-Seam Fastball|0|0|0|0|14|93
+Bobby Parnell|R|Devon Travis|R|Grounded Into DP|F|Four-Seam Fastball|1|1|0|0|8|92
+Bobby Parnell|R|Devon Travis|R|Grounded Into DP|X|Knuckle Curve|2|1|1|0|9|83
+Bobby Parnell|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|3|0|0|2|14|90
+Bobby Parnell|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|4|1|0|2|14|91
+Bobby Parnell|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|5|2|0|2|11|91
+Bobby Parnell|R|Kevin Pillar|R|Walk|C|Four-Seam Fastball|6|3|0|2|14|92
+Bobby Parnell|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|7|3|1|2|12|92
+Bobby Parnell|R|Darwin Barney|R|Fielders Choice|C|Four-Seam Fastball|8|0|0|2|6|92
+Bobby Parnell|R|Darwin Barney|R|Fielders Choice|D|Four-Seam Fastball|9|0|1|2|1|92
+Bobby Parnell|R|Jose Bautista|R|Strikeout|B|Knuckle Curve|10|0|0|2|14|83
+Bobby Parnell|R|Jose Bautista|R|Strikeout|B|Four-Seam Fastball|11|1|0|2|14|93
+Bobby Parnell|R|Jose Bautista|R|Strikeout|C|Four-Seam Fastball|12|2|0|2|14|93
+Bobby Parnell|R|Jose Bautista|R|Strikeout|F|Four-Seam Fastball|13|2|1|2|5|95
+Bobby Parnell|R|Jose Bautista|R|Strikeout|B|Knuckle Curve|14|2|2|2|14|85
+Bobby Parnell|R|Jose Bautista|R|Strikeout|S|Knuckle Curve|15|3|2|2|14|84
+Bobby Parnell|R|Josh Donaldson|R|Intent Walk|I|Intentional Ball|16|0|0|0|12|82
+Bobby Parnell|R|Josh Donaldson|R|Intent Walk|I|Intentional Ball|17|0|1|0|12|82
+Bobby Parnell|R|Josh Donaldson|R|Intent Walk|I|Intentional Ball|18|0|2|0|12|84
+Bobby Parnell|R|Josh Donaldson|R|Intent Walk|I|Intentional Ball|19|0|2|0|12|84
+Bobby Parnell|R|Edwin Encarnacion|R|Strikeout|T|Four-Seam Fastball|20|0|0|0|2|94
+Bobby Parnell|R|Edwin Encarnacion|R|Strikeout|W|Knuckle Curve|21|0|1|0|14|83
+Bobby Parnell|R|Edwin Encarnacion|R|Strikeout|S|Knuckle Curve|22|0|2|0|13|84
+Bobby Parnell|R|Russell Martin|R|Flyout|C|Knuckle Curve|23|0|0|1|7|82
+Bobby Parnell|R|Russell Martin|R|Flyout|B|Four-Seam Fastball|24|0|1|1|14|94
+Bobby Parnell|R|Russell Martin|R|Flyout|C|Four-Seam Fastball|25|1|1|1|9|93
+Bobby Parnell|R|Russell Martin|R|Flyout|*B|Knuckle Curve|26|1|2|1|14|84
+Bobby Parnell|R|Russell Martin|R|Flyout|X|Knuckle Curve|27|2|2|1|5|84
+Bobby Parnell|R|Todd Frazier|R|Groundout|B|Four-Seam Fastball|0|0|0|1|14|93
+Bobby Parnell|R|Todd Frazier|R|Groundout|S|Four-Seam Fastball|1|1|0|1|5|94
+Bobby Parnell|R|Todd Frazier|R|Groundout|B|Knuckle Curve|2|1|1|1|11|84
+Bobby Parnell|R|Todd Frazier|R|Groundout|*B|Knuckle Curve|3|2|1|1|14|84
+Bobby Parnell|R|Todd Frazier|R|Groundout|S|Four-Seam Fastball|4|3|1|1|14|95
+Bobby Parnell|R|Todd Frazier|R|Groundout|F|Four-Seam Fastball|5|3|2|1|14|96
+Bobby Parnell|R|Todd Frazier|R|Groundout|E|Four-Seam Fastball|6|3|2|1|4|96
+Bobby Parnell|R|Brett Lawrie|R|Single|E|Knuckle Curve|7|0|0|2|6|82
+Bobby Parnell|R|Avisail Garcia|R|Lineout|F|Four-Seam Fastball|8|0|0|2|5|94
+Bobby Parnell|R|Avisail Garcia|R|Lineout|X|Four-Seam Fastball|9|0|1|2|5|95
+Bobby Parnell|R|Dioner Navarro|L|Walk|F|Four-Seam Fastball|10|0|0|0|2|92
+Bobby Parnell|R|Dioner Navarro|L|Walk|S|Knuckle Curve|11|0|1|0|9|82
+Bobby Parnell|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|12|0|2|0|11|92
+Bobby Parnell|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|13|1|2|0|11|94
+Bobby Parnell|R|Dioner Navarro|L|Walk|B|Knuckle Curve|14|2|2|0|14|83
+Bobby Parnell|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|15|3|2|0|11|94
+Bobby Parnell|R|JB Shuck|L|Strikeout|B|Four-Seam Fastball|16|0|0|0|11|95
+Bobby Parnell|R|JB Shuck|L|Strikeout|B|Four-Seam Fastball|17|1|0|0|13|94
+Bobby Parnell|R|JB Shuck|L|Strikeout|F|Four-Seam Fastball|18|2|0|0|11|94
+Bobby Parnell|R|JB Shuck|L|Strikeout|C|Four-Seam Fastball|19|2|1|0|7|95
+Bobby Parnell|R|JB Shuck|L|Strikeout|F|Knuckle Curve|20|2|2|0|5|84
+Bobby Parnell|R|JB Shuck|L|Strikeout|F|Four-Seam Fastball|21|2|2|0|5|95
+Bobby Parnell|R|JB Shuck|L|Strikeout|C|Four-Seam Fastball|22|2|2|0|7|94
+Bobby Parnell|R|Tim Anderson|R|Single|C|Knuckle Curve|23|0|0|1|3|83
+Bobby Parnell|R|Tim Anderson|R|Single|B|Knuckle Curve|24|0|1|1|14|83
+Bobby Parnell|R|Tim Anderson|R|Single|F|Knuckle Curve|25|1|1|1|8|83
+Bobby Parnell|R|Tim Anderson|R|Single|B|Four-Seam Fastball|26|1|2|1|12|95
+Bobby Parnell|R|Tim Anderson|R|Single|B|Four-Seam Fastball|27|2|2|1|12|96
+Bobby Parnell|R|Tim Anderson|R|Single|D|Four-Seam Fastball|28|3|2|1|8|95
+Bobby Parnell|R|Juan Uribe|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|8|90
+Bobby Parnell|R|Juan Uribe|R|Pop Out|C|Four-Seam Fastball|1|1|0|0|12|91
+Bobby Parnell|R|Juan Uribe|R|Pop Out|X|Knuckle Curve|2|1|1|0|4|83
+Bobby Parnell|R|Tyler Naquin|L|Walk|F|Four-Seam Fastball|3|0|0|1|6|91
+Bobby Parnell|R|Tyler Naquin|L|Walk|B|Four-Seam Fastball|4|0|1|1|11|93
+Bobby Parnell|R|Tyler Naquin|L|Walk|F|Four-Seam Fastball|5|1|1|1|5|92
+Bobby Parnell|R|Tyler Naquin|L|Walk|B|Four-Seam Fastball|6|1|2|1|11|92
+Bobby Parnell|R|Tyler Naquin|L|Walk|F|Four-Seam Fastball|7|2|2|1|13|93
+Bobby Parnell|R|Tyler Naquin|L|Walk|B|Four-Seam Fastball|8|2|2|1|12|93
+Bobby Parnell|R|Tyler Naquin|L|Walk|B|Four-Seam Fastball|9|3|2|1|13|93
+Bobby Parnell|R|Chris Gimenez|R|Grounded Into DP|X|Knuckle Curve|10|0|0|1|5|83
+Bobby Parnell|R|Josh Donaldson|R|Pop Out|C|Knuckle Curve|0|0|0|1|2|85
+Bobby Parnell|R|Josh Donaldson|R|Pop Out|X|Four-Seam Fastball|1|0|1|1|13|94
+Bobby Parnell|R|Edwin Encarnacion|R|Home Run|F|Knuckle Curve|2|0|0|2|4|85
+Bobby Parnell|R|Edwin Encarnacion|R|Home Run|E|Four-Seam Fastball|3|0|1|2|4|95
+Bobby Parnell|R|Michael Saunders|L|Single|D|Four-Seam Fastball|4|0|0|2|5|94
+Bobby Parnell|R|Russell Martin|R|Single|B|Four-Seam Fastball|5|0|0|2|14|95
+Bobby Parnell|R|Russell Martin|R|Single|C|Four-Seam Fastball|6|1|0|2|7|95
+Bobby Parnell|R|Russell Martin|R|Single|S|Knuckle Curve|7|1|1|2|2|85
+Bobby Parnell|R|Russell Martin|R|Single|F|Knuckle Curve|8|1|2|2|8|84
+Bobby Parnell|R|Russell Martin|R|Single|B|Four-Seam Fastball|9|1|2|2|14|94
+Bobby Parnell|R|Russell Martin|R|Single|D|Four-Seam Fastball|10|2|2|2|5|95
+Bobby Parnell|R|Troy Tulowitzki|R|Strikeout|C|Knuckle Curve|11|0|0|2|9|86
+Bobby Parnell|R|Troy Tulowitzki|R|Strikeout|S|Knuckle Curve|12|0|1|2|13|86
+Bobby Parnell|R|Troy Tulowitzki|R|Strikeout|W|Knuckle Curve|13|0|2|2|14|85

@@ -1,0 +1,1902 @@
+A.J. Minter|L|Andrew Knapp|R|Forceout|B|Cutter|0|0|0|1|12|89
+A.J. Minter|L|Andrew Knapp|R|Forceout|B|Four-Seam Fastball|1|1|0|1|12|95
+A.J. Minter|L|Andrew Knapp|R|Forceout|C|Four-Seam Fastball|2|2|0|1|13|95
+A.J. Minter|L|Andrew Knapp|R|Forceout|S|Four-Seam Fastball|3|2|1|1|12|95
+A.J. Minter|L|Andrew Knapp|R|Forceout|X|Four-Seam Fastball|4|2|2|1|5|96
+A.J. Minter|L|Maikel Franco|R|Flyout|*B|Cutter|5|0|0|2|13|91
+A.J. Minter|L|Maikel Franco|R|Flyout|F|Cutter|6|1|0|2|4|91
+A.J. Minter|L|Maikel Franco|R|Flyout|S|Four-Seam Fastball|7|1|1|2|11|95
+A.J. Minter|L|Maikel Franco|R|Flyout|F|Cutter|8|1|2|2|13|90
+A.J. Minter|L|Maikel Franco|R|Flyout|B|Four-Seam Fastball|9|1|2|2|14|96
+A.J. Minter|L|Maikel Franco|R|Flyout|*B|Cutter|10|2|2|2|13|91
+A.J. Minter|L|Maikel Franco|R|Flyout|X|Cutter|11|3|2|2|3|90
+A.J. Minter|L|Miguel Montero|L|Walk|C|Cutter|0|0|0|0|5|91
+A.J. Minter|L|Miguel Montero|L|Walk|B|Cutter|1|0|1|0|13|89
+A.J. Minter|L|Miguel Montero|L|Walk|S|Cutter|2|1|1|0|13|90
+A.J. Minter|L|Miguel Montero|L|Walk|F|Four-Seam Fastball|3|1|2|0|1|95
+A.J. Minter|L|Miguel Montero|L|Walk|B|Four-Seam Fastball|4|1|2|0|11|95
+A.J. Minter|L|Miguel Montero|L|Walk|B|Cutter|5|2|2|0|14|89
+A.J. Minter|L|Miguel Montero|L|Walk|B|Four-Seam Fastball|6|3|2|0|12|95
+A.J. Minter|L|Michael A. Taylor|R|Pop Out|F|Four-Seam Fastball|7|0|0|0|2|94
+A.J. Minter|L|Michael A. Taylor|R|Pop Out|T|Cutter|8|0|1|0|11|90
+A.J. Minter|L|Michael A. Taylor|R|Pop Out|B|Cutter|9|0|2|0|13|88
+A.J. Minter|L|Michael A. Taylor|R|Pop Out|X|Four-Seam Fastball|10|1|2|0|11|94
+A.J. Minter|L|Wilmer Difo|R|Forceout|S|Cutter|11|0|0|1|13|90
+A.J. Minter|L|Wilmer Difo|R|Forceout|F|Four-Seam Fastball|12|0|1|1|11|94
+A.J. Minter|L|Wilmer Difo|R|Forceout|X|Four-Seam Fastball|13|0|2|1|8|94
+A.J. Minter|L|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|14|0|0|2|13|94
+A.J. Minter|L|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|15|1|0|2|6|94
+A.J. Minter|L|Anthony Rendon|R|Flyout|X|Cutter|16|1|1|2|7|91
+A.J. Minter|L|Miguel Montero|L|Lineout|X|Four-Seam Fastball|0|0|0|0|5|94
+A.J. Minter|L|Adam Eaton|L|Groundout|B|Four-Seam Fastball|1|0|0|1|11|94
+A.J. Minter|L|Adam Eaton|L|Groundout|C|Four-Seam Fastball|2|1|0|1|4|94
+A.J. Minter|L|Adam Eaton|L|Groundout|B|Four-Seam Fastball|3|1|1|1|3|93
+A.J. Minter|L|Adam Eaton|L|Groundout|B|Cutter|4|2|1|1|11|89
+A.J. Minter|L|Adam Eaton|L|Groundout|X|Four-Seam Fastball|5|3|1|1|8|94
+A.J. Minter|L|Anthony Rendon|R|Pop Out|C|Cutter|6|0|0|2|6|90
+A.J. Minter|L|Anthony Rendon|R|Pop Out|B|Cutter|7|0|1|2|13|90
+A.J. Minter|L|Anthony Rendon|R|Pop Out|X|Cutter|8|1|1|2|11|91
+A.J. Minter|L|Bryce Harper|L|Walk|S|Four-Seam Fastball|9|0|0|0|1|92
+A.J. Minter|L|Bryce Harper|L|Walk|B|Four-Seam Fastball|10|0|1|0|12|93
+A.J. Minter|L|Bryce Harper|L|Walk|F|Cutter|11|1|1|0|1|88
+A.J. Minter|L|Bryce Harper|L|Walk|B|Cutter|12|1|2|0|13|88
+A.J. Minter|L|Bryce Harper|L|Walk|B|Cutter|13|2|2|0|13|89
+A.J. Minter|L|Bryce Harper|L|Walk|B|Cutter|14|3|2|0|11|90
+A.J. Minter|L|Matt Adams|L|Flyout|B|Cutter|15|0|0|0|11|92
+A.J. Minter|L|Matt Adams|L|Flyout|B|Cutter|16|1|0|0|12|92
+A.J. Minter|L|Matt Adams|L|Flyout|B|Cutter|17|2|0|0|12|92
+A.J. Minter|L|Matt Adams|L|Flyout|C|Cutter|18|3|0|0|7|92
+A.J. Minter|L|Matt Adams|L|Flyout|X|Cutter|19|3|1|0|1|91
+A.J. Minter|L|Tony Wolters|L|Single|B|Cutter|0|0|0|2|14|91
+A.J. Minter|L|Tony Wolters|L|Single|D|Cutter|1|1|0|2|12|91
+A.J. Minter|L|Chris Iannetta|R|Walk|B|Four-Seam Fastball|2|0|0|2|12|95
+A.J. Minter|L|Chris Iannetta|R|Walk|S|Cutter|3|1|0|2|4|91
+A.J. Minter|L|Chris Iannetta|R|Walk|B|Cutter|4|1|1|2|11|90
+A.J. Minter|L|Chris Iannetta|R|Walk|B|Four-Seam Fastball|5|2|1|2|12|95
+A.J. Minter|L|Chris Iannetta|R|Walk|C|Four-Seam Fastball|6|3|1|2|9|94
+A.J. Minter|L|Chris Iannetta|R|Walk|F|Cutter|7|3|2|2|8|90
+A.J. Minter|L|Chris Iannetta|R|Walk|B|Four-Seam Fastball|8|3|2|2|14|96
+A.J. Minter|L|Charlie Blackmon|L|Bunt Pop Out|L|Four-Seam Fastball|9|0|0|2|6|94
+A.J. Minter|L|Charlie Blackmon|L|Bunt Pop Out|X|Cutter|10|0|1|2|12|90
+A.J. Minter|L|DJ LeMahieu|R|Double Play|X|Cutter|11|0|0|0|2|90
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|B|Cutter|0|0|0|0|13|90
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|94
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|B|Four-Seam Fastball|2|2|0|0|12|94
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|3|3|0|0|6|93
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|F|Cutter|4|3|1|0|13|90
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|F|Cutter|5|3|2|0|4|90
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|S|Four-Seam Fastball|6|3|2|0|2|94
+A.J. Minter|L|Wilmer Difo|R|Double|B|Four-Seam Fastball|7|0|0|1|12|94
+A.J. Minter|L|Wilmer Difo|R|Double|B|Four-Seam Fastball|8|1|0|1|12|93
+A.J. Minter|L|Wilmer Difo|R|Double|F|Cutter|9|2|0|1|13|90
+A.J. Minter|L|Wilmer Difo|R|Double|D|Cutter|10|2|1|1|4|88
+A.J. Minter|L|Pedro Severino|R|Lineout|B|Four-Seam Fastball|11|0|0|1|12|93
+A.J. Minter|L|Pedro Severino|R|Lineout|C|Four-Seam Fastball|12|1|0|1|9|94
+A.J. Minter|L|Pedro Severino|R|Lineout|X|Cutter|13|1|1|1|5|90
+A.J. Minter|L|Moises Sierra|R|Strikeout|B|Cutter|0|0|0|0|13|91
+A.J. Minter|L|Moises Sierra|R|Strikeout|F|Cutter|1|1|0|0|5|92
+A.J. Minter|L|Moises Sierra|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|3|96
+A.J. Minter|L|Moises Sierra|R|Strikeout|B|Cutter|3|1|2|0|13|92
+A.J. Minter|L|Moises Sierra|R|Strikeout|S|Cutter|4|2|2|0|11|93
+A.J. Minter|L|Trea Turner|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|96
+A.J. Minter|L|Trea Turner|R|Strikeout|S|Cutter|6|1|0|1|13|92
+A.J. Minter|L|Trea Turner|R|Strikeout|C|Cutter|7|1|1|1|7|92
+A.J. Minter|L|Trea Turner|R|Strikeout|C|Four-Seam Fastball|8|1|2|1|4|95
+A.J. Minter|L|Bryce Harper|L|Strikeout|C|Cutter|9|0|0|2|13|92
+A.J. Minter|L|Bryce Harper|L|Strikeout|S|Cutter|10|0|1|2|1|90
+A.J. Minter|L|Bryce Harper|L|Strikeout|B|Cutter|11|0|2|2|13|92
+A.J. Minter|L|Bryce Harper|L|Strikeout|S|Cutter|12|1|2|2|13|91
+A.J. Minter|L|Jason Heyward|L|Pop Out|C|Cutter|0|0|0|0|5|92
+A.J. Minter|L|Jason Heyward|L|Pop Out|X|Cutter|1|0|1|0|4|92
+A.J. Minter|L|Ben Zobrist|R|Strikeout|C|Four-Seam Fastball|2|0|0|1|9|96
+A.J. Minter|L|Ben Zobrist|R|Strikeout|B|Four-Seam Fastball|3|0|1|1|14|96
+A.J. Minter|L|Ben Zobrist|R|Strikeout|S|Cutter|4|1|1|1|6|93
+A.J. Minter|L|Ben Zobrist|R|Strikeout|F|Cutter|5|1|2|1|13|92
+A.J. Minter|L|Ben Zobrist|R|Strikeout|S|Cutter|6|1|2|1|13|91
+A.J. Minter|L|Ian Happ|R|Double|S|Cutter|7|0|0|2|13|91
+A.J. Minter|L|Ian Happ|R|Double|D|Cutter|8|0|1|2|4|92
+A.J. Minter|L|Tommy La Stella|L|Strikeout|B|Four-Seam Fastball|9|0|0|2|13|96
+A.J. Minter|L|Tommy La Stella|L|Strikeout|S|Four-Seam Fastball|10|1|0|2|1|96
+A.J. Minter|L|Tommy La Stella|L|Strikeout|B|Cutter|11|1|1|2|13|92
+A.J. Minter|L|Tommy La Stella|L|Strikeout|C|Cutter|12|2|1|2|13|91
+A.J. Minter|L|Tommy La Stella|L|Strikeout|F|Four-Seam Fastball|13|2|2|2|3|97
+A.J. Minter|L|Tommy La Stella|L|Strikeout|F|Cutter|14|2|2|2|11|91
+A.J. Minter|L|Tommy La Stella|L|Strikeout|S|Four-Seam Fastball|15|2|2|2|12|96
+A.J. Minter|L|Javier Baez|R|Groundout|X|Four-Seam Fastball|0|0|0|1|4|97
+A.J. Minter|L|Victor Caratini|R|Single|B|Cutter|1|0|0|2|13|93
+A.J. Minter|L|Victor Caratini|R|Single|B|Four-Seam Fastball|2|1|0|2|13|98
+A.J. Minter|L|Victor Caratini|R|Single|D|Four-Seam Fastball|3|2|0|2|8|98
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Cutter|4|0|0|2|13|93
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Cutter|5|1|0|2|14|93
+A.J. Minter|L|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|6|2|0|2|9|97
+A.J. Minter|L|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|7|2|1|2|4|98
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|8|2|2|2|11|99
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|9|3|2|2|13|99
+A.J. Minter|L|Albert Almora Jr.|R|Single|D|Four-Seam Fastball|10|0|0|2|13|97
+A.J. Minter|L|David Bote|R|Strikeout|B|Cutter|11|0|0|2|3|94
+A.J. Minter|L|David Bote|R|Strikeout|S|Four-Seam Fastball|12|1|0|2|4|96
+A.J. Minter|L|David Bote|R|Strikeout|F|Four-Seam Fastball|13|1|1|2|11|98
+A.J. Minter|L|David Bote|R|Strikeout|F|Four-Seam Fastball|14|1|2|2|11|98
+A.J. Minter|L|David Bote|R|Strikeout|S|Cutter|15|1|2|2|13|93
+A.J. Minter|L|Ian Happ|R|Hit By Pitch|F|Four-Seam Fastball|16|0|0|0|4|97
+A.J. Minter|L|Ian Happ|R|Hit By Pitch|F|Four-Seam Fastball|17|0|1|0|4|98
+A.J. Minter|L|Ian Happ|R|Hit By Pitch|H|Four-Seam Fastball|18|0|2|0|11|98
+A.J. Minter|L|Kris Bryant|R|Lineout|S|Cutter|19|0|0|0|4|93
+A.J. Minter|L|Kris Bryant|R|Lineout|B|Cutter|20|0|1|0|13|92
+A.J. Minter|L|Kris Bryant|R|Lineout|F|Four-Seam Fastball|21|1|1|0|2|97
+A.J. Minter|L|Kris Bryant|R|Lineout|X|Cutter|22|1|2|0|4|93
+A.J. Minter|L|Carlos Santana|R|Lineout|T|N/A|0|0|0|2|0|0
+A.J. Minter|L|Carlos Santana|R|Lineout|X|N/A|1|0|1|2|0|0
+A.J. Minter|L|Odubel Herrera|L|Lineout|B|Four-Seam Fastball|2|0|0|0|11|96
+A.J. Minter|L|Odubel Herrera|L|Lineout|B|Four-Seam Fastball|3|1|0|0|13|96
+A.J. Minter|L|Odubel Herrera|L|Lineout|C|Cutter|4|2|0|0|7|91
+A.J. Minter|L|Odubel Herrera|L|Lineout|X|Cutter|5|2|1|0|8|92
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|6|0|0|1|14|96
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|7|1|0|1|12|96
+A.J. Minter|L|Rhys Hoskins|R|Walk|C|Cutter|8|2|0|1|8|93
+A.J. Minter|L|Rhys Hoskins|R|Walk|C|Four-Seam Fastball|9|2|1|1|5|97
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Cutter|10|2|2|1|13|93
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Cutter|11|3|2|1|12|92
+A.J. Minter|L|Aaron Altherr|R|Walk|B|Four-Seam Fastball|12|0|0|1|13|95
+A.J. Minter|L|Aaron Altherr|R|Walk|T|Four-Seam Fastball|13|1|0|1|14|96
+A.J. Minter|L|Aaron Altherr|R|Walk|*B|Cutter|14|1|1|1|13|93
+A.J. Minter|L|Aaron Altherr|R|Walk|B|Four-Seam Fastball|15|2|1|1|13|96
+A.J. Minter|L|Aaron Altherr|R|Walk|C|Cutter|16|3|1|1|3|92
+A.J. Minter|L|Aaron Altherr|R|Walk|F|Cutter|17|3|2|1|7|92
+A.J. Minter|L|Aaron Altherr|R|Walk|B|Cutter|18|3|2|1|3|91
+A.J. Minter|L|Pedro Florimon|R|Strikeout|C|Four-Seam Fastball|19|0|0|1|9|95
+A.J. Minter|L|Pedro Florimon|R|Strikeout|B|Four-Seam Fastball|20|0|1|1|11|97
+A.J. Minter|L|Pedro Florimon|R|Strikeout|F|Four-Seam Fastball|21|1|1|1|8|96
+A.J. Minter|L|Pedro Florimon|R|Strikeout|S|Cutter|22|1|2|1|13|90
+A.J. Minter|L|Maikel Franco|R|Forceout|X|Cutter|23|0|0|2|4|91
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|0|0|0|2|11|95
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Cutter|1|1|0|2|13|92
+A.J. Minter|L|Rhys Hoskins|R|Walk|C|Four-Seam Fastball|2|2|0|2|13|95
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|3|2|1|2|11|96
+A.J. Minter|L|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|4|3|1|2|14|96
+A.J. Minter|L|Aaron Altherr|R|Double|S|Four-Seam Fastball|5|0|0|2|6|95
+A.J. Minter|L|Aaron Altherr|R|Double|C|Four-Seam Fastball|6|0|1|2|13|95
+A.J. Minter|L|Aaron Altherr|R|Double|B|Cutter|7|0|2|2|13|92
+A.J. Minter|L|Aaron Altherr|R|Double|F|Four-Seam Fastball|8|1|2|2|14|96
+A.J. Minter|L|Aaron Altherr|R|Double|B|Cutter|9|1|2|2|13|91
+A.J. Minter|L|Aaron Altherr|R|Double|F|Four-Seam Fastball|10|2|2|2|13|96
+A.J. Minter|L|Aaron Altherr|R|Double|B|Four-Seam Fastball|11|2|2|2|12|96
+A.J. Minter|L|Aaron Altherr|R|Double|E|Four-Seam Fastball|12|3|2|2|13|95
+A.J. Minter|L|Maikel Franco|R|Groundout|B|Four-Seam Fastball|13|0|0|2|13|95
+A.J. Minter|L|Maikel Franco|R|Groundout|X|Cutter|14|1|0|2|8|93
+A.J. Minter|L|Andrew Knapp|R|Strikeout|C|Cutter|15|0|0|0|1|90
+A.J. Minter|L|Andrew Knapp|R|Strikeout|F|Cutter|16|0|1|0|7|89
+A.J. Minter|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|17|0|2|0|12|94
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|18|1|2|0|13|90
+A.J. Minter|L|Carlos Santana|R|Flyout|B|Four-Seam Fastball|19|0|0|1|12|94
+A.J. Minter|L|Carlos Santana|R|Flyout|B|Four-Seam Fastball|20|1|0|1|13|94
+A.J. Minter|L|Carlos Santana|R|Flyout|S|Cutter|21|2|0|1|2|90
+A.J. Minter|L|Carlos Santana|R|Flyout|B|Four-Seam Fastball|22|2|1|1|13|94
+A.J. Minter|L|Carlos Santana|R|Flyout|S|Cutter|23|3|1|1|5|90
+A.J. Minter|L|Carlos Santana|R|Flyout|X|Cutter|24|3|2|1|5|91
+A.J. Minter|L|Jay Bruce|L|Strikeout|B|Cutter|0|0|0|2|11|88
+A.J. Minter|L|Jay Bruce|L|Strikeout|S|Cutter|1|1|0|2|4|88
+A.J. Minter|L|Jay Bruce|L|Strikeout|F|Cutter|2|1|1|2|8|89
+A.J. Minter|L|Jay Bruce|L|Strikeout|B|Cutter|3|1|2|2|13|89
+A.J. Minter|L|Jay Bruce|L|Strikeout|S|Four-Seam Fastball|4|2|2|2|1|95
+A.J. Minter|L|Tomas Nido|R|Walk|S|Cutter|5|0|0|0|4|89
+A.J. Minter|L|Tomas Nido|R|Walk|B|Cutter|6|0|1|0|14|89
+A.J. Minter|L|Tomas Nido|R|Walk|S|Four-Seam Fastball|7|1|1|0|2|95
+A.J. Minter|L|Tomas Nido|R|Walk|F|Cutter|8|1|2|0|7|90
+A.J. Minter|L|Tomas Nido|R|Walk|B|Four-Seam Fastball|9|1|2|0|11|95
+A.J. Minter|L|Tomas Nido|R|Walk|F|Four-Seam Fastball|10|2|2|0|12|95
+A.J. Minter|L|Tomas Nido|R|Walk|B|Cutter|11|2|2|0|13|90
+A.J. Minter|L|Tomas Nido|R|Walk|B|Cutter|12|3|2|0|13|90
+A.J. Minter|L|Juan Lagares|R|Grounded Into DP|C|Four-Seam Fastball|13|0|0|0|8|96
+A.J. Minter|L|Juan Lagares|R|Grounded Into DP|X|Cutter|14|0|1|0|5|90
+A.J. Minter|L|Michael Conforto|L|Single|F|Cutter|0|0|0|0|4|92
+A.J. Minter|L|Michael Conforto|L|Single|D|Cutter|1|0|1|0|1|92
+A.J. Minter|L|Jay Bruce|L|Forceout|B|Four-Seam Fastball|2|0|0|0|13|96
+A.J. Minter|L|Jay Bruce|L|Forceout|F|Cutter|3|1|0|0|8|90
+A.J. Minter|L|Jay Bruce|L|Forceout|X|Cutter|4|1|1|0|8|92
+A.J. Minter|L|Adrian Gonzalez|L|Single|D|Cutter|5|0|0|1|12|91
+A.J. Minter|L|Kevin Plawecki|R|Single|C|Cutter|6|0|0|1|7|92
+A.J. Minter|L|Kevin Plawecki|R|Single|B|Four-Seam Fastball|7|0|1|1|13|97
+A.J. Minter|L|Kevin Plawecki|R|Single|B|Changeup|8|1|1|1|4|85
+A.J. Minter|L|Kevin Plawecki|R|Single|S|Cutter|9|2|1|1|14|92
+A.J. Minter|L|Kevin Plawecki|R|Single|D|Cutter|10|2|2|1|9|93
+A.J. Minter|L|Jose Reyes|R|Strikeout|F|Four-Seam Fastball|11|0|0|1|11|97
+A.J. Minter|L|Jose Reyes|R|Strikeout|F|Cutter|12|0|1|1|12|92
+A.J. Minter|L|Jose Reyes|R|Strikeout|F|Four-Seam Fastball|13|0|2|1|11|96
+A.J. Minter|L|Jose Reyes|R|Strikeout|C|Four-Seam Fastball|14|0|2|1|14|97
+A.J. Minter|L|Luis Guillorme|L|Single|S|Cutter|15|0|0|2|4|93
+A.J. Minter|L|Luis Guillorme|L|Single|B|Cutter|16|0|1|2|11|92
+A.J. Minter|L|Luis Guillorme|L|Single|E|Cutter|17|1|1|2|2|93
+A.J. Minter|L|Jesse Winker|L|Double|B|Cutter|0|0|0|0|13|90
+A.J. Minter|L|Jesse Winker|L|Double|D|Four-Seam Fastball|1|1|0|0|5|95
+A.J. Minter|L|Jose Peraza|R|Single|L|Four-Seam Fastball|2|0|0|0|12|95
+A.J. Minter|L|Jose Peraza|R|Single|L|Cutter|3|0|1|0|13|90
+A.J. Minter|L|Jose Peraza|R|Single|D|Cutter|4|0|2|0|14|90
+A.J. Minter|L|Joey Votto|L|Strikeout|C|Cutter|5|0|0|0|5|91
+A.J. Minter|L|Joey Votto|L|Strikeout|*B|Cutter|6|0|1|0|13|90
+A.J. Minter|L|Joey Votto|L|Strikeout|F|Cutter|7|1|1|0|7|90
+A.J. Minter|L|Joey Votto|L|Strikeout|B|Four-Seam Fastball|8|1|2|0|12|96
+A.J. Minter|L|Joey Votto|L|Strikeout|F|Four-Seam Fastball|9|2|2|0|5|96
+A.J. Minter|L|Joey Votto|L|Strikeout|F|Cutter|10|2|2|0|7|92
+A.J. Minter|L|Joey Votto|L|Strikeout|F|Cutter|11|2|2|0|8|91
+A.J. Minter|L|Joey Votto|L|Strikeout|S|Cutter|12|2|2|0|4|90
+A.J. Minter|L|Scooter Gennett|L|Sac Bunt|E|Cutter|13|0|0|1|6|90
+A.J. Minter|L|Adam Duvall|R|Intent Walk|V|N/A|14|0|0|2|0|0
+A.J. Minter|L|Adam Duvall|R|Intent Walk|V|N/A|15|0|1|2|0|0
+A.J. Minter|L|Adam Duvall|R|Intent Walk|V|N/A|16|0|2|2|0|0
+A.J. Minter|L|Adam Duvall|R|Intent Walk|V|N/A|17|0|2|2|0|0
+A.J. Minter|L|Tucker Barnhart|R|Single|F|Cutter|18|0|0|2|5|90
+A.J. Minter|L|Tucker Barnhart|R|Single|B|Cutter|19|0|1|2|12|89
+A.J. Minter|L|Tucker Barnhart|R|Single|B|Four-Seam Fastball|20|1|1|2|12|96
+A.J. Minter|L|Tucker Barnhart|R|Single|S|Cutter|21|2|1|2|13|91
+A.J. Minter|L|Tucker Barnhart|R|Single|E|Cutter|22|2|2|2|12|91
+A.J. Minter|L|Joey Votto|L|Flyout|X|Four-Seam Fastball|0|0|0|0|9|95
+A.J. Minter|L|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|1|0|0|1|13|96
+A.J. Minter|L|Scooter Gennett|L|Strikeout|B|Four-Seam Fastball|2|1|0|1|13|95
+A.J. Minter|L|Scooter Gennett|L|Strikeout|F|Four-Seam Fastball|3|2|0|1|9|94
+A.J. Minter|L|Scooter Gennett|L|Strikeout|S|Cutter|4|2|1|1|13|92
+A.J. Minter|L|Scooter Gennett|L|Strikeout|S|Four-Seam Fastball|5|2|2|1|4|96
+A.J. Minter|L|Adam Duvall|R|Flyout|S|Cutter|6|0|0|2|7|93
+A.J. Minter|L|Adam Duvall|R|Flyout|B|Four-Seam Fastball|7|0|1|2|12|95
+A.J. Minter|L|Adam Duvall|R|Flyout|F|Four-Seam Fastball|8|1|1|2|6|96
+A.J. Minter|L|Adam Duvall|R|Flyout|B|Cutter|9|1|2|2|13|92
+A.J. Minter|L|Adam Duvall|R|Flyout|X|Cutter|10|2|2|2|6|92
+A.J. Minter|L|Cesar Hernandez|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|95
+A.J. Minter|L|Cesar Hernandez|R|Walk|B|Four-Seam Fastball|1|1|0|0|13|96
+A.J. Minter|L|Cesar Hernandez|R|Walk|B|Four-Seam Fastball|2|2|0|0|13|96
+A.J. Minter|L|Cesar Hernandez|R|Walk|C|Four-Seam Fastball|3|3|0|0|1|95
+A.J. Minter|L|Cesar Hernandez|R|Walk|B|Four-Seam Fastball|4|3|1|0|13|95
+A.J. Minter|L|Carlos Santana|R|Walk|S|Cutter|5|0|0|0|13|91
+A.J. Minter|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|6|0|1|0|13|96
+A.J. Minter|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|7|1|1|0|14|96
+A.J. Minter|L|Carlos Santana|R|Walk|B|Cutter|8|2|1|0|13|91
+A.J. Minter|L|Carlos Santana|R|Walk|W|Cutter|9|3|1|0|13|90
+A.J. Minter|L|Carlos Santana|R|Walk|F|Four-Seam Fastball|10|3|2|0|5|96
+A.J. Minter|L|Carlos Santana|R|Walk|F|Four-Seam Fastball|11|3|2|0|7|96
+A.J. Minter|L|Carlos Santana|R|Walk|F|Cutter|12|3|2|0|13|92
+A.J. Minter|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|13|3|2|0|14|96
+A.J. Minter|L|Odubel Herrera|L|Lineout|S|Cutter|14|0|0|0|13|91
+A.J. Minter|L|Odubel Herrera|L|Lineout|F|Cutter|15|0|1|0|2|91
+A.J. Minter|L|Odubel Herrera|L|Lineout|X|Cutter|16|0|2|0|7|89
+A.J. Minter|L|Asdrubal Cabrera|R|Single|B|Cutter|0|0|0|2|13|91
+A.J. Minter|L|Asdrubal Cabrera|R|Single|F|Four-Seam Fastball|1|1|0|2|5|94
+A.J. Minter|L|Asdrubal Cabrera|R|Single|F|Four-Seam Fastball|2|1|1|2|13|96
+A.J. Minter|L|Asdrubal Cabrera|R|Single|D|Cutter|3|1|2|2|13|91
+A.J. Minter|L|Michael Conforto|L|Strikeout|C|Four-Seam Fastball|4|0|0|2|4|95
+A.J. Minter|L|Michael Conforto|L|Strikeout|F|Four-Seam Fastball|5|0|1|2|7|96
+A.J. Minter|L|Michael Conforto|L|Strikeout|*B|Cutter|6|0|2|2|13|92
+A.J. Minter|L|Michael Conforto|L|Strikeout|S|Cutter|7|1|2|2|13|92
+A.J. Minter|L|Yoenis Cespedes|R|Flyout|B|Four-Seam Fastball|8|0|0|0|13|97
+A.J. Minter|L|Yoenis Cespedes|R|Flyout|X|Cutter|9|1|0|0|4|92
+A.J. Minter|L|Jay Bruce|L|Flyout|S|Cutter|10|0|0|1|13|91
+A.J. Minter|L|Jay Bruce|L|Flyout|B|Cutter|11|0|1|1|13|91
+A.J. Minter|L|Jay Bruce|L|Flyout|*B|Cutter|12|1|1|1|13|91
+A.J. Minter|L|Jay Bruce|L|Flyout|X|Four-Seam Fastball|13|2|1|1|5|96
+A.J. Minter|L|Evan Longoria|R|Groundout|B|Cutter|0|0|0|0|12|91
+A.J. Minter|L|Evan Longoria|R|Groundout|B|Four-Seam Fastball|1|1|0|0|13|96
+A.J. Minter|L|Evan Longoria|R|Groundout|B|Four-Seam Fastball|2|2|0|0|14|95
+A.J. Minter|L|Evan Longoria|R|Groundout|C|Four-Seam Fastball|3|3|0|0|8|95
+A.J. Minter|L|Evan Longoria|R|Groundout|F|Four-Seam Fastball|4|3|1|0|9|95
+A.J. Minter|L|Evan Longoria|R|Groundout|F|Four-Seam Fastball|5|3|2|0|6|96
+A.J. Minter|L|Evan Longoria|R|Groundout|X|Four-Seam Fastball|6|3|2|0|8|95
+A.J. Minter|L|Brandon Crawford|L|Single|T|Four-Seam Fastball|7|0|0|1|6|96
+A.J. Minter|L|Brandon Crawford|L|Single|F|Four-Seam Fastball|8|0|1|1|8|96
+A.J. Minter|L|Brandon Crawford|L|Single|B|Four-Seam Fastball|9|0|2|1|11|97
+A.J. Minter|L|Brandon Crawford|L|Single|D|Cutter|10|1|2|1|8|92
+A.J. Minter|L|Alen Hanson|R|Flyout|B|Four-Seam Fastball|11|0|0|1|13|96
+A.J. Minter|L|Alen Hanson|R|Flyout|*B|Four-Seam Fastball|12|1|0|1|13|96
+A.J. Minter|L|Alen Hanson|R|Flyout|F|Four-Seam Fastball|13|2|0|1|1|95
+A.J. Minter|L|Alen Hanson|R|Flyout|F|Four-Seam Fastball|14|2|1|1|9|95
+A.J. Minter|L|Alen Hanson|R|Flyout|B|Cutter|15|2|2|1|13|90
+A.J. Minter|L|Alen Hanson|R|Flyout|X|Four-Seam Fastball|16|3|2|1|8|95
+A.J. Minter|L|Gorkys Hernandez|R|Single|S|Cutter|17|0|0|2|13|91
+A.J. Minter|L|Gorkys Hernandez|R|Single|S|Cutter|18|0|1|2|13|90
+A.J. Minter|L|Gorkys Hernandez|R|Single|B|Cutter|19|0|2|2|13|90
+A.J. Minter|L|Gorkys Hernandez|R|Single|B|Four-Seam Fastball|20|1|2|2|14|95
+A.J. Minter|L|Gorkys Hernandez|R|Single|B|Four-Seam Fastball|21|2|2|2|11|95
+A.J. Minter|L|Gorkys Hernandez|R|Single|D|Four-Seam Fastball|22|3|2|2|7|96
+A.J. Minter|L|Nick Hundley|R|Single|E|Cutter|23|0|0|2|5|90
+A.J. Minter|L|Joey Wendle|L|Lineout|S|Four-Seam Fastball|0|0|0|0|8|95
+A.J. Minter|L|Joey Wendle|L|Lineout|B|Four-Seam Fastball|1|0|1|0|11|96
+A.J. Minter|L|Joey Wendle|L|Lineout|F|Four-Seam Fastball|2|1|1|0|7|96
+A.J. Minter|L|Joey Wendle|L|Lineout|X|Cutter|3|1|2|0|5|91
+A.J. Minter|L|Johnny Field|R|Strikeout|B|Four-Seam Fastball|4|0|0|1|11|95
+A.J. Minter|L|Johnny Field|R|Strikeout|F|Four-Seam Fastball|5|1|0|1|4|95
+A.J. Minter|L|Johnny Field|R|Strikeout|F|Cutter|6|1|1|1|13|90
+A.J. Minter|L|Johnny Field|R|Strikeout|S|Four-Seam Fastball|7|1|2|1|3|96
+A.J. Minter|L|Carlos Gomez|R|Single|D|Four-Seam Fastball|8|0|0|2|14|96
+A.J. Minter|L|Brad Miller|L|Strikeout|S|Cutter|0|0|0|1|13|91
+A.J. Minter|L|Brad Miller|L|Strikeout|S|Cutter|1|0|1|1|13|91
+A.J. Minter|L|Brad Miller|L|Strikeout|B|Cutter|2|0|2|1|13|90
+A.J. Minter|L|Brad Miller|L|Strikeout|S|Cutter|3|1|2|1|13|92
+A.J. Minter|L|Wilson Ramos|R|Single|C|Cutter|4|0|0|2|13|91
+A.J. Minter|L|Wilson Ramos|R|Single|F|Four-Seam Fastball|5|0|1|2|11|96
+A.J. Minter|L|Wilson Ramos|R|Single|*B|Cutter|6|0|2|2|13|91
+A.J. Minter|L|Wilson Ramos|R|Single|E|Four-Seam Fastball|7|1|2|2|2|96
+A.J. Minter|L|Rob Refsnyder|R|Flyout|*B|Cutter|8|0|0|2|13|91
+A.J. Minter|L|Rob Refsnyder|R|Flyout|C|Cutter|9|1|0|2|7|91
+A.J. Minter|L|Rob Refsnyder|R|Flyout|*B|Cutter|10|1|1|2|13|91
+A.J. Minter|L|Rob Refsnyder|R|Flyout|X|Four-Seam Fastball|11|2|1|2|4|96
+A.J. Minter|L|Justin Bour|L|Walk|B|Cutter|0|0|0|2|14|92
+A.J. Minter|L|Justin Bour|L|Walk|B|Cutter|1|1|0|2|13|92
+A.J. Minter|L|Justin Bour|L|Walk|C|Cutter|2|2|0|2|13|90
+A.J. Minter|L|Justin Bour|L|Walk|B|Four-Seam Fastball|3|2|1|2|13|96
+A.J. Minter|L|Justin Bour|L|Walk|B|Cutter|4|3|1|2|13|91
+A.J. Minter|L|Brian Anderson|R|Groundout|B|Cutter|5|0|0|2|13|91
+A.J. Minter|L|Brian Anderson|R|Groundout|S|Cutter|6|1|0|2|13|91
+A.J. Minter|L|Brian Anderson|R|Groundout|F|Four-Seam Fastball|7|1|1|2|4|96
+A.J. Minter|L|Brian Anderson|R|Groundout|B|Four-Seam Fastball|8|1|2|2|13|97
+A.J. Minter|L|Brian Anderson|R|Groundout|*B|Four-Seam Fastball|9|2|2|2|13|97
+A.J. Minter|L|Brian Anderson|R|Groundout|X|Four-Seam Fastball|10|3|2|2|7|97
+A.J. Minter|L|Anthony Rizzo|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|12|97
+A.J. Minter|L|Anthony Rizzo|L|Pop Out|B|Cutter|1|1|0|0|11|91
+A.J. Minter|L|Anthony Rizzo|L|Pop Out|B|Cutter|2|2|0|0|13|92
+A.J. Minter|L|Anthony Rizzo|L|Pop Out|X|Four-Seam Fastball|3|3|0|0|8|97
+A.J. Minter|L|Willson Contreras|R|Single|C|Four-Seam Fastball|4|0|0|1|7|97
+A.J. Minter|L|Willson Contreras|R|Single|F|Four-Seam Fastball|5|0|1|1|2|98
+A.J. Minter|L|Willson Contreras|R|Single|D|Four-Seam Fastball|6|0|2|1|11|97
+A.J. Minter|L|Javier Baez|R|Strikeout|S|Cutter|7|0|0|1|13|93
+A.J. Minter|L|Javier Baez|R|Strikeout|S|Cutter|8|0|1|1|13|92
+A.J. Minter|L|Javier Baez|R|Strikeout|B|Cutter|9|0|2|1|13|92
+A.J. Minter|L|Javier Baez|R|Strikeout|T|Cutter|10|1|2|1|13|93
+A.J. Minter|L|Kyle Schwarber|L|Groundout|B|Four-Seam Fastball|11|0|0|2|13|97
+A.J. Minter|L|Kyle Schwarber|L|Groundout|S|Cutter|12|1|0|2|13|92
+A.J. Minter|L|Kyle Schwarber|L|Groundout|B|Four-Seam Fastball|13|1|1|2|11|98
+A.J. Minter|L|Kyle Schwarber|L|Groundout|X|Cutter|14|2|1|2|8|93
+A.J. Minter|L|Cameron Maybin|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|96
+A.J. Minter|L|Cameron Maybin|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|14|96
+A.J. Minter|L|Cameron Maybin|R|Strikeout|S|Four-Seam Fastball|2|1|1|0|14|97
+A.J. Minter|L|Cameron Maybin|R|Strikeout|S|Cutter|3|1|2|0|13|92
+A.J. Minter|L|Miguel Rojas|R|Home Run|E|Cutter|4|0|0|1|13|93
+A.J. Minter|L|Lewis Brinson|R|Single|C|Four-Seam Fastball|5|0|0|1|12|96
+A.J. Minter|L|Lewis Brinson|R|Single|B|Four-Seam Fastball|6|0|1|1|3|96
+A.J. Minter|L|Lewis Brinson|R|Single|B|Four-Seam Fastball|7|1|1|1|13|96
+A.J. Minter|L|Lewis Brinson|R|Single|F|Four-Seam Fastball|8|2|1|1|4|96
+A.J. Minter|L|Lewis Brinson|R|Single|D|Cutter|9|2|2|1|4|92
+A.J. Minter|L|JB Shuck|L|Strikeout|C|Four-Seam Fastball|10|0|0|1|7|96
+A.J. Minter|L|JB Shuck|L|Strikeout|S|Cutter|11|0|1|1|13|92
+A.J. Minter|L|JB Shuck|L|Strikeout|S|Cutter|12|0|2|1|11|91
+A.J. Minter|L|Martin Prado|R|Groundout|C|Cutter|13|0|0|2|5|91
+A.J. Minter|L|Martin Prado|R|Groundout|X|Cutter|14|0|1|2|2|90
+A.J. Minter|L|Cesar Hernandez|R|Lineout|L|Four-Seam Fastball|0|0|0|0|1|98
+A.J. Minter|L|Cesar Hernandez|R|Lineout|S|Cutter|1|0|1|0|1|92
+A.J. Minter|L|Cesar Hernandez|R|Lineout|F|Four-Seam Fastball|2|0|2|0|1|98
+A.J. Minter|L|Cesar Hernandez|R|Lineout|B|Cutter|3|0|2|0|12|91
+A.J. Minter|L|Cesar Hernandez|R|Lineout|X|Cutter|4|1|2|0|8|92
+A.J. Minter|L|Rhys Hoskins|R|Strikeout|B|Cutter|5|0|0|1|12|94
+A.J. Minter|L|Rhys Hoskins|R|Strikeout|F|Cutter|6|1|0|1|13|91
+A.J. Minter|L|Rhys Hoskins|R|Strikeout|S|Four-Seam Fastball|7|1|1|1|12|97
+A.J. Minter|L|Rhys Hoskins|R|Strikeout|B|Cutter|8|1|2|1|14|91
+A.J. Minter|L|Rhys Hoskins|R|Strikeout|S|Cutter|9|2|2|1|13|93
+A.J. Minter|L|Odubel Herrera|L|Double|F|Four-Seam Fastball|10|0|0|2|2|97
+A.J. Minter|L|Odubel Herrera|L|Double|B|Four-Seam Fastball|11|0|1|2|11|97
+A.J. Minter|L|Odubel Herrera|L|Double|B|Four-Seam Fastball|12|1|1|2|11|97
+A.J. Minter|L|Odubel Herrera|L|Double|B|Four-Seam Fastball|13|2|1|2|13|97
+A.J. Minter|L|Odubel Herrera|L|Double|S|Cutter|14|3|1|2|4|92
+A.J. Minter|L|Odubel Herrera|L|Double|D|Four-Seam Fastball|15|3|2|2|4|98
+A.J. Minter|L|Carlos Santana|R|Single|C|Four-Seam Fastball|16|0|0|2|9|97
+A.J. Minter|L|Carlos Santana|R|Single|F|Four-Seam Fastball|17|0|1|2|13|97
+A.J. Minter|L|Carlos Santana|R|Single|B|Four-Seam Fastball|18|0|2|2|12|97
+A.J. Minter|L|Carlos Santana|R|Single|D|Cutter|19|1|2|2|9|92
+A.J. Minter|L|Jorge Alfaro|R|Flyout|X|Cutter|20|0|0|2|2|93
+A.J. Minter|L|Jackie Bradley Jr.|L|Single|C|Cutter|0|0|0|0|4|90
+A.J. Minter|L|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|1|0|1|0|13|96
+A.J. Minter|L|Jackie Bradley Jr.|L|Single|D|Cutter|2|1|1|0|7|90
+A.J. Minter|L|Andrew Benintendi|L|Flyout|B|Cutter|3|0|0|0|13|91
+A.J. Minter|L|Andrew Benintendi|L|Flyout|X|Four-Seam Fastball|4|1|0|0|5|97
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|5|0|0|1|13|96
+A.J. Minter|L|Xander Bogaerts|R|Walk|*B|Four-Seam Fastball|6|1|0|1|13|96
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|7|2|0|1|12|95
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|8|3|0|1|12|95
+A.J. Minter|L|Mitch Moreland|L|Strikeout|F|Cutter|9|0|0|1|2|90
+A.J. Minter|L|Mitch Moreland|L|Strikeout|C|Cutter|10|0|1|1|6|91
+A.J. Minter|L|Mitch Moreland|L|Strikeout|B|Cutter|11|0|2|1|13|90
+A.J. Minter|L|Mitch Moreland|L|Strikeout|S|Cutter|12|1|2|1|13|91
+A.J. Minter|L|Dustin Pedroia|R|Strikeout|C|Cutter|13|0|0|2|3|90
+A.J. Minter|L|Dustin Pedroia|R|Strikeout|B|Four-Seam Fastball|14|0|1|2|12|95
+A.J. Minter|L|Dustin Pedroia|R|Strikeout|F|Cutter|15|1|1|2|6|91
+A.J. Minter|L|Dustin Pedroia|R|Strikeout|S|Cutter|16|1|2|2|13|90
+A.J. Minter|L|Anthony Rendon|R|Groundout|B|Cutter|0|0|0|0|14|92
+A.J. Minter|L|Anthony Rendon|R|Groundout|X|Four-Seam Fastball|1|1|0|0|13|98
+A.J. Minter|L|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|2|0|0|1|14|97
+A.J. Minter|L|Mark Reynolds|R|Groundout|B|Four-Seam Fastball|3|1|0|1|12|98
+A.J. Minter|L|Mark Reynolds|R|Groundout|X|Four-Seam Fastball|4|2|0|1|5|97
+A.J. Minter|L|Juan Soto|L|Pop Out|C|Cutter|5|0|0|2|8|94
+A.J. Minter|L|Juan Soto|L|Pop Out|S|Cutter|6|0|1|2|5|93
+A.J. Minter|L|Juan Soto|L|Pop Out|B|Cutter|7|0|2|2|13|91
+A.J. Minter|L|Juan Soto|L|Pop Out|X|Cutter|8|1|2|2|8|93
+A.J. Minter|L|Christian Villanueva|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|5|96
+A.J. Minter|L|Christian Villanueva|R|Strikeout|S|Cutter|1|0|1|0|13|92
+A.J. Minter|L|Christian Villanueva|R|Strikeout|C|Cutter|2|0|2|0|9|93
+A.J. Minter|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|3|0|0|1|1|96
+A.J. Minter|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|4|0|1|1|1|96
+A.J. Minter|L|Travis Jankowski|L|Strikeout|S|Cutter|5|0|2|1|11|92
+A.J. Minter|L|Eric Hosmer|L|Strikeout|F|Cutter|6|0|0|2|13|91
+A.J. Minter|L|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|7|0|1|2|1|96
+A.J. Minter|L|Eric Hosmer|L|Strikeout|F|Cutter|8|0|2|2|11|91
+A.J. Minter|L|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|9|0|2|2|14|97
+A.J. Minter|L|Eric Hosmer|L|Strikeout|B|Cutter|10|1|2|2|14|92
+A.J. Minter|L|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|11|2|2|2|2|98
+A.J. Minter|L|Cody Bellinger|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|7|96
+A.J. Minter|L|Cody Bellinger|L|Strikeout|B|Cutter|1|0|1|2|13|91
+A.J. Minter|L|Cody Bellinger|L|Strikeout|C|Cutter|2|1|1|2|9|91
+A.J. Minter|L|Cody Bellinger|L|Strikeout|B|Cutter|3|1|2|2|13|91
+A.J. Minter|L|Cody Bellinger|L|Strikeout|B|Four-Seam Fastball|4|2|2|2|13|96
+A.J. Minter|L|Cody Bellinger|L|Strikeout|S|Four-Seam Fastball|5|3|2|2|12|97
+A.J. Minter|L|Yasiel Puig|R|Double|B|Cutter|6|0|0|0|11|92
+A.J. Minter|L|Yasiel Puig|R|Double|B|Four-Seam Fastball|7|1|0|0|13|96
+A.J. Minter|L|Yasiel Puig|R|Double|C|Four-Seam Fastball|8|2|0|0|13|97
+A.J. Minter|L|Yasiel Puig|R|Double|D|Cutter|9|2|1|0|4|94
+A.J. Minter|L|Yasmani Grandal|R|Groundout|S|Cutter|10|0|0|0|1|92
+A.J. Minter|L|Yasmani Grandal|R|Groundout|C|Four-Seam Fastball|11|0|1|0|14|97
+A.J. Minter|L|Yasmani Grandal|R|Groundout|F|Four-Seam Fastball|12|0|2|0|4|97
+A.J. Minter|L|Yasmani Grandal|R|Groundout|F|Cutter|13|0|2|0|4|91
+A.J. Minter|L|Yasmani Grandal|R|Groundout|X|Cutter|14|0|2|0|7|92
+A.J. Minter|L|Enrique Hernandez|R|Groundout|B|Four-Seam Fastball|15|0|0|1|11|96
+A.J. Minter|L|Enrique Hernandez|R|Groundout|X|Cutter|16|1|0|1|8|92
+A.J. Minter|L|Logan Forsythe|R|Strikeout|C|Four-Seam Fastball|17|0|0|2|7|96
+A.J. Minter|L|Logan Forsythe|R|Strikeout|S|Cutter|18|0|1|2|4|92
+A.J. Minter|L|Logan Forsythe|R|Strikeout|B|Cutter|19|0|2|2|13|91
+A.J. Minter|L|Logan Forsythe|R|Strikeout|B|Four-Seam Fastball|20|1|2|2|12|96
+A.J. Minter|L|Logan Forsythe|R|Strikeout|S|Four-Seam Fastball|21|2|2|2|5|97
+A.J. Minter|L|Dominic Smith|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|96
+A.J. Minter|L|Dominic Smith|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|8|96
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Cutter|2|1|1|0|5|91
+A.J. Minter|L|Dominic Smith|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|7|97
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|97
+A.J. Minter|L|Dominic Smith|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|6|98
+A.J. Minter|L|Amed Rosario|R|Groundout|C|Cutter|6|0|0|1|8|93
+A.J. Minter|L|Amed Rosario|R|Groundout|X|Cutter|7|0|1|1|8|91
+A.J. Minter|L|Paul Sewald|R|Strikeout|F|Four-Seam Fastball|8|0|0|2|6|97
+A.J. Minter|L|Paul Sewald|R|Strikeout|B|Four-Seam Fastball|9|0|1|2|13|96
+A.J. Minter|L|Paul Sewald|R|Strikeout|C|Four-Seam Fastball|10|1|1|2|13|97
+A.J. Minter|L|Paul Sewald|R|Strikeout|S|Cutter|11|1|2|2|14|93
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|B|Four-Seam Fastball|0|0|0|1|13|96
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|C|Four-Seam Fastball|1|1|0|1|1|96
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|F|Four-Seam Fastball|2|1|1|1|2|97
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|T|Four-Seam Fastball|3|1|2|1|4|97
+A.J. Minter|L|Jay Bruce|L|Pop Out|B|Cutter|4|0|0|2|13|92
+A.J. Minter|L|Jay Bruce|L|Pop Out|B|Four-Seam Fastball|5|1|0|2|13|97
+A.J. Minter|L|Jay Bruce|L|Pop Out|F|Four-Seam Fastball|6|2|0|2|5|97
+A.J. Minter|L|Jay Bruce|L|Pop Out|S|Four-Seam Fastball|7|2|1|2|11|97
+A.J. Minter|L|Jay Bruce|L|Pop Out|B|Four-Seam Fastball|8|2|2|2|11|98
+A.J. Minter|L|Jay Bruce|L|Pop Out|X|Cutter|9|3|2|2|7|92
+A.J. Minter|L|A.J. Ellis|R|Strikeout|C|Cutter|0|0|0|0|11|90
+A.J. Minter|L|A.J. Ellis|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|6|96
+A.J. Minter|L|A.J. Ellis|R|Strikeout|B|Cutter|2|0|2|0|14|90
+A.J. Minter|L|A.J. Ellis|R|Strikeout|S|Cutter|3|1|2|0|13|91
+A.J. Minter|L|Travis Jankowski|L|Strikeout|B|Cutter|4|0|0|1|13|90
+A.J. Minter|L|Travis Jankowski|L|Strikeout|F|Four-Seam Fastball|5|1|0|1|5|96
+A.J. Minter|L|Travis Jankowski|L|Strikeout|S|Four-Seam Fastball|6|1|1|1|11|97
+A.J. Minter|L|Travis Jankowski|L|Strikeout|S|Four-Seam Fastball|7|1|2|1|11|97
+A.J. Minter|L|Jose Pirela|R|Flyout|X|Four-Seam Fastball|8|0|0|2|6|96
+A.J. Minter|L|Franmil Reyes|R|Single|C|Cutter|0|0|0|0|8|91
+A.J. Minter|L|Franmil Reyes|R|Single|D|Four-Seam Fastball|1|0|1|0|9|96
+A.J. Minter|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|2|0|0|0|1|96
+A.J. Minter|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|3|0|1|0|13|97
+A.J. Minter|L|Travis Jankowski|L|Strikeout|B|Cutter|4|0|2|0|13|90
+A.J. Minter|L|Travis Jankowski|L|Strikeout|F|Cutter|5|1|2|0|5|90
+A.J. Minter|L|Travis Jankowski|L|Strikeout|F|Four-Seam Fastball|6|1|2|0|12|97
+A.J. Minter|L|Travis Jankowski|L|Strikeout|F|Four-Seam Fastball|7|1|2|0|8|98
+A.J. Minter|L|Travis Jankowski|L|Strikeout|B|Cutter|8|1|2|0|13|91
+A.J. Minter|L|Travis Jankowski|L|Strikeout|B|Four-Seam Fastball|9|2|2|0|14|98
+A.J. Minter|L|Travis Jankowski|L|Strikeout|C|Four-Seam Fastball|10|3|2|0|7|99
+A.J. Minter|L|Eric Hosmer|L|Single|S|Cutter|11|0|0|1|7|92
+A.J. Minter|L|Eric Hosmer|L|Single|B|Cutter|12|0|1|1|13|91
+A.J. Minter|L|Eric Hosmer|L|Single|B|Four-Seam Fastball|13|1|1|1|13|99
+A.J. Minter|L|Eric Hosmer|L|Single|S|Four-Seam Fastball|14|2|1|1|2|99
+A.J. Minter|L|Eric Hosmer|L|Single|F|Four-Seam Fastball|15|2|2|1|6|99
+A.J. Minter|L|Eric Hosmer|L|Single|D|Cutter|16|2|2|1|2|92
+A.J. Minter|L|Jose Pirela|R|Sac Fly|B|Cutter|17|0|0|1|12|92
+A.J. Minter|L|Jose Pirela|R|Sac Fly|B|Four-Seam Fastball|18|1|0|1|12|98
+A.J. Minter|L|Jose Pirela|R|Sac Fly|B|Cutter|19|2|0|1|14|91
+A.J. Minter|L|Jose Pirela|R|Sac Fly|C|Four-Seam Fastball|20|3|0|1|12|97
+A.J. Minter|L|Jose Pirela|R|Sac Fly|E|Four-Seam Fastball|21|3|1|1|4|98
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|B|Four-Seam Fastball|22|0|0|2|12|97
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|C|Four-Seam Fastball|23|1|0|2|12|97
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|S|Four-Seam Fastball|24|1|1|2|1|97
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|B|Four-Seam Fastball|25|1|2|2|12|98
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|F|Cutter|26|2|2|2|5|92
+A.J. Minter|L|Hunter Renfroe|R|Strikeout|C|Four-Seam Fastball|27|2|2|2|8|98
+A.J. Minter|L|Yangervis Solarte|R|Single|B|Four-Seam Fastball|0|0|0|2|12|94
+A.J. Minter|L|Yangervis Solarte|R|Single|*B|Four-Seam Fastball|1|1|0|2|13|96
+A.J. Minter|L|Yangervis Solarte|R|Single|F|Cutter|2|2|0|2|11|90
+A.J. Minter|L|Yangervis Solarte|R|Single|C|Four-Seam Fastball|3|2|1|2|13|97
+A.J. Minter|L|Yangervis Solarte|R|Single|E|Four-Seam Fastball|4|2|2|2|14|97
+A.J. Minter|L|Kendrys Morales|R|Lineout|X|Four-Seam Fastball|5|0|0|2|8|96
+A.J. Minter|L|Caleb Joseph|R|Single|S|Cutter|0|0|0|2|13|90
+A.J. Minter|L|Caleb Joseph|R|Single|B|Cutter|1|0|1|2|13|90
+A.J. Minter|L|Caleb Joseph|R|Single|B|Four-Seam Fastball|2|1|1|2|13|96
+A.J. Minter|L|Caleb Joseph|R|Single|B|Four-Seam Fastball|3|2|1|2|14|96
+A.J. Minter|L|Caleb Joseph|R|Single|S|Four-Seam Fastball|4|3|1|2|14|97
+A.J. Minter|L|Caleb Joseph|R|Single|D|Four-Seam Fastball|5|3|2|2|14|96
+A.J. Minter|L|Trey Mancini|R|Strikeout|C|Four-Seam Fastball|6|0|0|2|8|96
+A.J. Minter|L|Trey Mancini|R|Strikeout|F|Four-Seam Fastball|7|0|1|2|2|96
+A.J. Minter|L|Trey Mancini|R|Strikeout|*B|Cutter|8|0|2|2|13|89
+A.J. Minter|L|Trey Mancini|R|Strikeout|F|Cutter|9|1|2|2|13|91
+A.J. Minter|L|Trey Mancini|R|Strikeout|S|Four-Seam Fastball|10|1|2|2|12|97
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|F|Four-Seam Fastball|11|0|0|0|11|97
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|B|Cutter|12|0|1|0|13|90
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|S|Cutter|13|1|1|0|13|90
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|F|Cutter|14|1|2|0|1|91
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|B|Cutter|15|1|2|0|13|89
+A.J. Minter|L|Craig Gentry|R|Grounded Into DP|X|Cutter|16|2|2|0|3|89
+A.J. Minter|L|Danny Valencia|R|Pop Out|F|Four-Seam Fastball|0|0|0|0|5|97
+A.J. Minter|L|Danny Valencia|R|Pop Out|B|Cutter|1|0|1|0|12|91
+A.J. Minter|L|Danny Valencia|R|Pop Out|S|Cutter|2|1|1|0|13|91
+A.J. Minter|L|Danny Valencia|R|Pop Out|F|Four-Seam Fastball|3|1|2|0|11|98
+A.J. Minter|L|Danny Valencia|R|Pop Out|X|Cutter|4|1|2|0|4|89
+A.J. Minter|L|Chris Davis|L|Groundout|B|Four-Seam Fastball|5|0|0|1|13|96
+A.J. Minter|L|Chris Davis|L|Groundout|T|Cutter|6|1|0|1|4|90
+A.J. Minter|L|Chris Davis|L|Groundout|X|Cutter|7|1|1|1|11|91
+A.J. Minter|L|Jonathan Schoop|R|Pop Out|B|Cutter|8|0|0|2|13|90
+A.J. Minter|L|Jonathan Schoop|R|Pop Out|F|Four-Seam Fastball|9|1|0|2|4|97
+A.J. Minter|L|Jonathan Schoop|R|Pop Out|F|Four-Seam Fastball|10|1|1|2|11|97
+A.J. Minter|L|Jonathan Schoop|R|Pop Out|F|Cutter|11|1|2|2|13|92
+A.J. Minter|L|Jonathan Schoop|R|Pop Out|X|Changeup|12|1|2|2|14|87
+A.J. Minter|L|Alex Blandino|R|Flyout|B|Four-Seam Fastball|0|0|0|0|13|97
+A.J. Minter|L|Alex Blandino|R|Flyout|X|Four-Seam Fastball|1|1|0|0|5|95
+A.J. Minter|L|Billy Hamilton|R|Pop Out|C|Cutter|2|0|0|1|9|92
+A.J. Minter|L|Billy Hamilton|R|Pop Out|B|Cutter|3|0|1|1|13|90
+A.J. Minter|L|Billy Hamilton|R|Pop Out|C|Four-Seam Fastball|4|1|1|1|7|96
+A.J. Minter|L|Billy Hamilton|R|Pop Out|X|Four-Seam Fastball|5|1|2|1|11|96
+A.J. Minter|L|Scott Schebler|L|Groundout|S|Four-Seam Fastball|6|0|0|2|4|96
+A.J. Minter|L|Scott Schebler|L|Groundout|B|Four-Seam Fastball|7|0|1|2|13|96
+A.J. Minter|L|Scott Schebler|L|Groundout|S|Four-Seam Fastball|8|1|1|2|11|97
+A.J. Minter|L|Scott Schebler|L|Groundout|X|Four-Seam Fastball|9|1|2|2|13|97
+A.J. Minter|L|Michael Lorenzen|R|Walk|B|Cutter|0|0|0|0|9|90
+A.J. Minter|L|Michael Lorenzen|R|Walk|B|Four-Seam Fastball|1|1|0|0|13|96
+A.J. Minter|L|Michael Lorenzen|R|Walk|F|Cutter|2|2|0|0|13|90
+A.J. Minter|L|Michael Lorenzen|R|Walk|B|Four-Seam Fastball|3|2|1|0|13|97
+A.J. Minter|L|Michael Lorenzen|R|Walk|C|Four-Seam Fastball|4|3|1|0|8|96
+A.J. Minter|L|Michael Lorenzen|R|Walk|F|Four-Seam Fastball|5|3|2|0|6|97
+A.J. Minter|L|Michael Lorenzen|R|Walk|B|Four-Seam Fastball|6|3|2|0|13|97
+A.J. Minter|L|Eugenio Suarez|R|Grounded Into DP|X|Four-Seam Fastball|7|0|0|0|8|96
+A.J. Minter|L|Scooter Gennett|L|Lineout|C|Cutter|8|0|0|2|4|91
+A.J. Minter|L|Scooter Gennett|L|Lineout|S|Cutter|9|0|1|2|13|90
+A.J. Minter|L|Scooter Gennett|L|Lineout|X|Cutter|10|0|2|2|1|90
+A.J. Minter|L|Jedd Gyorko|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|95
+A.J. Minter|L|Jedd Gyorko|R|Groundout|B|Cutter|1|1|0|0|11|89
+A.J. Minter|L|Jedd Gyorko|R|Groundout|B|Four-Seam Fastball|2|2|0|0|11|95
+A.J. Minter|L|Jedd Gyorko|R|Groundout|C|Four-Seam Fastball|3|3|0|0|14|95
+A.J. Minter|L|Jedd Gyorko|R|Groundout|X|Four-Seam Fastball|4|3|1|0|2|95
+A.J. Minter|L|Matt Carpenter|L|Strikeout|C|Four-Seam Fastball|5|0|0|1|13|95
+A.J. Minter|L|Matt Carpenter|L|Strikeout|B|Four-Seam Fastball|6|0|1|1|13|95
+A.J. Minter|L|Matt Carpenter|L|Strikeout|F|Four-Seam Fastball|7|1|1|1|13|95
+A.J. Minter|L|Matt Carpenter|L|Strikeout|S|Cutter|8|1|2|1|13|90
+A.J. Minter|L|Yairo Munoz|R|Flyout|C|Four-Seam Fastball|9|0|0|2|11|95
+A.J. Minter|L|Yairo Munoz|R|Flyout|B|Four-Seam Fastball|10|0|1|2|13|95
+A.J. Minter|L|Yairo Munoz|R|Flyout|S|Cutter|11|1|1|2|13|91
+A.J. Minter|L|Yairo Munoz|R|Flyout|X|Cutter|12|1|2|2|2|89
+A.J. Minter|L|Francisco Pena|R|Strikeout|S|Cutter|0|0|0|0|13|90
+A.J. Minter|L|Francisco Pena|R|Strikeout|F|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Francisco Pena|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|11|97
+A.J. Minter|L|Yadier Molina|R|Flyout|C|Four-Seam Fastball|3|0|0|1|9|97
+A.J. Minter|L|Yadier Molina|R|Flyout|C|Changeup|4|0|1|1|9|85
+A.J. Minter|L|Yadier Molina|R|Flyout|B|Cutter|5|0|2|1|13|91
+A.J. Minter|L|Yadier Molina|R|Flyout|X|Four-Seam Fastball|6|1|2|1|5|97
+A.J. Minter|L|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|7|0|0|2|13|97
+A.J. Minter|L|Matt Carpenter|L|Flyout|S|Four-Seam Fastball|8|1|0|2|11|97
+A.J. Minter|L|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|9|1|1|2|2|97
+A.J. Minter|L|Matt Carpenter|L|Flyout|S|Four-Seam Fastball|10|2|1|2|13|97
+A.J. Minter|L|Matt Carpenter|L|Flyout|B|Four-Seam Fastball|11|2|2|2|11|98
+A.J. Minter|L|Matt Carpenter|L|Flyout|F|Cutter|12|3|2|2|4|92
+A.J. Minter|L|Matt Carpenter|L|Flyout|F|Four-Seam Fastball|13|3|2|2|1|98
+A.J. Minter|L|Matt Carpenter|L|Flyout|X|Four-Seam Fastball|14|3|2|2|2|99
+A.J. Minter|L|Gleyber Torres|R|Pop Out|C|Cutter|0|0|0|0|7|91
+A.J. Minter|L|Gleyber Torres|R|Pop Out|F|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Gleyber Torres|R|Pop Out|B|Four-Seam Fastball|2|0|2|0|13|96
+A.J. Minter|L|Gleyber Torres|R|Pop Out|X|Four-Seam Fastball|3|1|2|0|11|97
+A.J. Minter|L|Brett Gardner|L|Strikeout|B|Cutter|4|0|0|1|12|90
+A.J. Minter|L|Brett Gardner|L|Strikeout|C|Cutter|5|1|0|1|2|90
+A.J. Minter|L|Brett Gardner|L|Strikeout|S|Cutter|6|1|1|1|7|91
+A.J. Minter|L|Brett Gardner|L|Strikeout|T|Cutter|7|1|2|1|7|90
+A.J. Minter|L|Aaron Judge|R|Walk|B|Cutter|8|0|0|2|13|90
+A.J. Minter|L|Aaron Judge|R|Walk|B|Four-Seam Fastball|9|1|0|2|13|96
+A.J. Minter|L|Aaron Judge|R|Walk|B|Cutter|10|2|0|2|13|91
+A.J. Minter|L|Aaron Judge|R|Walk|B|Four-Seam Fastball|11|3|0|2|13|97
+A.J. Minter|L|Didi Gregorius|L|Strikeout|F|Cutter|12|0|0|2|13|92
+A.J. Minter|L|Didi Gregorius|L|Strikeout|C|Cutter|13|0|1|2|5|92
+A.J. Minter|L|Didi Gregorius|L|Strikeout|F|Cutter|14|0|2|2|1|92
+A.J. Minter|L|Didi Gregorius|L|Strikeout|B|Cutter|15|0|2|2|13|91
+A.J. Minter|L|Didi Gregorius|L|Strikeout|S|Cutter|16|1|2|2|13|91
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|C|Cutter|0|0|0|0|2|91
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|B|Cutter|1|0|1|0|11|91
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|S|Cutter|2|1|1|0|13|91
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|F|Cutter|3|1|2|0|13|93
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|F|Four-Seam Fastball|4|1|2|0|5|97
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|F|Cutter|5|1|2|0|11|91
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|F|Changeup|6|1|2|0|8|86
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|F|Cutter|7|1|2|0|11|92
+A.J. Minter|L|Jesus Aguilar|R|Strikeout|T|Four-Seam Fastball|8|1|2|0|11|97
+A.J. Minter|L|Travis Shaw|L|Single|C|Four-Seam Fastball|9|0|0|1|4|97
+A.J. Minter|L|Travis Shaw|L|Single|B|Cutter|10|0|1|1|13|91
+A.J. Minter|L|Travis Shaw|L|Single|D|Four-Seam Fastball|11|1|1|1|12|97
+A.J. Minter|L|Hernan Perez|R|Strikeout|C|Four-Seam Fastball|12|0|0|1|9|96
+A.J. Minter|L|Hernan Perez|R|Strikeout|C|Four-Seam Fastball|13|0|1|1|9|96
+A.J. Minter|L|Hernan Perez|R|Strikeout|B|Four-Seam Fastball|14|0|2|1|12|96
+A.J. Minter|L|Hernan Perez|R|Strikeout|B|Four-Seam Fastball|15|1|2|1|11|96
+A.J. Minter|L|Hernan Perez|R|Strikeout|F|Cutter|16|2|2|1|12|92
+A.J. Minter|L|Hernan Perez|R|Strikeout|F|Cutter|17|2|2|1|13|92
+A.J. Minter|L|Hernan Perez|R|Strikeout|S|Four-Seam Fastball|18|2|2|1|1|96
+A.J. Minter|L|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|19|0|0|2|12|96
+A.J. Minter|L|Ryan Braun|R|Strikeout|S|Cutter|20|1|0|2|13|92
+A.J. Minter|L|Ryan Braun|R|Strikeout|B|Cutter|21|1|1|2|13|91
+A.J. Minter|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|22|2|1|2|8|96
+A.J. Minter|L|Ryan Braun|R|Strikeout|C|Cutter|23|2|2|2|2|91
+A.J. Minter|L|Yangervis Solarte|R|Field Error|B|Four-Seam Fastball|0|0|0|0|6|97
+A.J. Minter|L|Yangervis Solarte|R|Field Error|B|Four-Seam Fastball|1|1|0|0|13|97
+A.J. Minter|L|Yangervis Solarte|R|Field Error|C|Four-Seam Fastball|2|2|0|0|13|96
+A.J. Minter|L|Yangervis Solarte|R|Field Error|D|Four-Seam Fastball|3|2|1|0|13|97
+A.J. Minter|L|Justin Smoak|R|Pop Out|S|Cutter|4|0|0|0|7|93
+A.J. Minter|L|Justin Smoak|R|Pop Out|B|Cutter|5|0|1|0|13|91
+A.J. Minter|L|Justin Smoak|R|Pop Out|C|Four-Seam Fastball|6|1|1|0|13|97
+A.J. Minter|L|Justin Smoak|R|Pop Out|B|Cutter|7|1|2|0|13|91
+A.J. Minter|L|Justin Smoak|R|Pop Out|F|Four-Seam Fastball|8|2|2|0|2|97
+A.J. Minter|L|Justin Smoak|R|Pop Out|F|Cutter|9|2|2|0|13|92
+A.J. Minter|L|Justin Smoak|R|Pop Out|B|Four-Seam Fastball|10|2|2|0|13|98
+A.J. Minter|L|Justin Smoak|R|Pop Out|X|Four-Seam Fastball|11|3|2|0|8|97
+A.J. Minter|L|Randal Grichuk|R|Single|B|Cutter|12|0|0|1|11|93
+A.J. Minter|L|Randal Grichuk|R|Single|B|Cutter|13|1|0|1|13|91
+A.J. Minter|L|Randal Grichuk|R|Single|S|Four-Seam Fastball|14|2|0|1|11|96
+A.J. Minter|L|Randal Grichuk|R|Single|B|Four-Seam Fastball|15|2|1|1|12|96
+A.J. Minter|L|Randal Grichuk|R|Single|C|Cutter|16|3|1|1|12|92
+A.J. Minter|L|Randal Grichuk|R|Single|D|Four-Seam Fastball|17|3|2|1|2|97
+A.J. Minter|L|Russell Martin|R|Single|C|Cutter|18|0|0|1|3|92
+A.J. Minter|L|Russell Martin|R|Single|E|Cutter|19|0|1|1|3|92
+A.J. Minter|L|Kevin Pillar|R|Single|C|Four-Seam Fastball|20|0|0|1|3|97
+A.J. Minter|L|Kevin Pillar|R|Single|F|Cutter|21|0|1|1|3|91
+A.J. Minter|L|Kevin Pillar|R|Single|B|Four-Seam Fastball|22|0|2|1|12|96
+A.J. Minter|L|Kevin Pillar|R|Single|B|Four-Seam Fastball|23|1|2|1|13|96
+A.J. Minter|L|Kevin Pillar|R|Single|E|Cutter|24|2|2|1|3|91
+A.J. Minter|L|Chris Owings|R|Groundout|L|Cutter|0|0|0|0|7|92
+A.J. Minter|L|Chris Owings|R|Groundout|S|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Chris Owings|R|Groundout|F|Cutter|2|0|2|0|11|90
+A.J. Minter|L|Chris Owings|R|Groundout|B|Four-Seam Fastball|3|0|2|0|12|96
+A.J. Minter|L|Chris Owings|R|Groundout|X|Cutter|4|1|2|0|14|91
+A.J. Minter|L|Jeff Mathis|R|Single|S|Cutter|5|0|0|1|5|91
+A.J. Minter|L|Jeff Mathis|R|Single|S|Cutter|6|0|1|1|13|92
+A.J. Minter|L|Jeff Mathis|R|Single|B|Cutter|7|0|2|1|13|90
+A.J. Minter|L|Jeff Mathis|R|Single|B|Cutter|8|1|2|1|14|92
+A.J. Minter|L|Jeff Mathis|R|Single|F|Cutter|9|2|2|1|8|92
+A.J. Minter|L|Jeff Mathis|R|Single|D|Four-Seam Fastball|10|2|2|1|4|96
+A.J. Minter|L|John Ryan Murphy|R|Flyout|C|Four-Seam Fastball|11|0|0|1|9|96
+A.J. Minter|L|John Ryan Murphy|R|Flyout|B|Four-Seam Fastball|12|0|1|1|12|95
+A.J. Minter|L|John Ryan Murphy|R|Flyout|X|Four-Seam Fastball|13|1|1|1|12|96
+A.J. Minter|L|David Peralta|L|Strikeout|C|Cutter|14|0|0|2|5|92
+A.J. Minter|L|David Peralta|L|Strikeout|B|Four-Seam Fastball|15|0|1|2|13|96
+A.J. Minter|L|David Peralta|L|Strikeout|B|Four-Seam Fastball|16|1|1|2|13|96
+A.J. Minter|L|David Peralta|L|Strikeout|S|Cutter|17|2|1|2|5|91
+A.J. Minter|L|David Peralta|L|Strikeout|S|Cutter|18|2|2|2|4|91
+A.J. Minter|L|A.J. Pollock|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|95
+A.J. Minter|L|A.J. Pollock|R|Groundout|B|Four-Seam Fastball|1|1|0|0|13|95
+A.J. Minter|L|A.J. Pollock|R|Groundout|X|Four-Seam Fastball|2|2|0|0|3|96
+A.J. Minter|L|Jake Lamb|L|Flyout|B|N/A|3|0|0|1|0|0
+A.J. Minter|L|Jake Lamb|L|Flyout|S|Cutter|4|1|0|1|13|91
+A.J. Minter|L|Jake Lamb|L|Flyout|X|Four-Seam Fastball|5|1|1|1|6|96
+A.J. Minter|L|Ketel Marte|R|Lineout|F|Four-Seam Fastball|6|0|0|2|1|96
+A.J. Minter|L|Ketel Marte|R|Lineout|F|Cutter|7|0|1|2|13|91
+A.J. Minter|L|Ketel Marte|R|Lineout|B|Changeup|8|0|2|2|12|86
+A.J. Minter|L|Ketel Marte|R|Lineout|B|Changeup|9|1|2|2|12|87
+A.J. Minter|L|Ketel Marte|R|Lineout|B|Cutter|10|2|2|2|13|93
+A.J. Minter|L|Ketel Marte|R|Lineout|X|Four-Seam Fastball|11|3|2|2|13|97
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|1|96
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|7|97
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|96
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|F|Cutter|3|1|2|0|14|92
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|F|Four-Seam Fastball|4|1|2|0|4|97
+A.J. Minter|L|Michael A. Taylor|R|Strikeout|C|Four-Seam Fastball|5|1|2|0|7|97
+A.J. Minter|L|Adam Eaton|L|Lineout|X|Four-Seam Fastball|6|0|0|1|7|97
+A.J. Minter|L|Trea Turner|R|Pop Out|B|Cutter|7|0|0|2|13|93
+A.J. Minter|L|Trea Turner|R|Pop Out|B|Four-Seam Fastball|8|1|0|2|14|97
+A.J. Minter|L|Trea Turner|R|Pop Out|X|Four-Seam Fastball|9|2|0|2|8|97
+A.J. Minter|L|Manny Machado|R|Strikeout|S|Cutter|0|0|0|0|11|93
+A.J. Minter|L|Manny Machado|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|13|97
+A.J. Minter|L|Manny Machado|R|Strikeout|F|Cutter|2|0|2|0|13|93
+A.J. Minter|L|Manny Machado|R|Strikeout|S|Four-Seam Fastball|3|0|2|0|9|97
+A.J. Minter|L|Max Muncy|L|Strikeout|B|Four-Seam Fastball|4|0|0|1|11|97
+A.J. Minter|L|Max Muncy|L|Strikeout|S|Cutter|5|1|0|1|2|93
+A.J. Minter|L|Max Muncy|L|Strikeout|S|Cutter|6|1|1|1|13|93
+A.J. Minter|L|Max Muncy|L|Strikeout|B|Four-Seam Fastball|7|1|2|1|11|98
+A.J. Minter|L|Max Muncy|L|Strikeout|F|Cutter|8|2|2|1|13|92
+A.J. Minter|L|Max Muncy|L|Strikeout|S|Four-Seam Fastball|9|2|2|1|4|99
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|B|Cutter|10|0|0|2|13|93
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|F|Cutter|11|1|0|2|7|93
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|B|Four-Seam Fastball|12|1|1|2|11|97
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|B|Four-Seam Fastball|13|2|1|2|14|97
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|S|Cutter|14|3|1|2|13|93
+A.J. Minter|L|Yasmani Grandal|R|Strikeout|C|Cutter|15|3|2|2|3|93
+A.J. Minter|L|Cameron Maybin|R|Strikeout|C|Cutter|0|0|0|0|3|93
+A.J. Minter|L|Cameron Maybin|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|97
+A.J. Minter|L|Cameron Maybin|R|Strikeout|S|Cutter|2|1|1|0|1|92
+A.J. Minter|L|Cameron Maybin|R|Strikeout|B|Cutter|3|1|2|0|13|92
+A.J. Minter|L|Cameron Maybin|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|14|97
+A.J. Minter|L|Derek Dietrich|L|Single|F|Cutter|5|0|0|1|5|93
+A.J. Minter|L|Derek Dietrich|L|Single|B|Cutter|6|0|1|1|13|93
+A.J. Minter|L|Derek Dietrich|L|Single|D|Cutter|7|1|1|1|4|93
+A.J. Minter|L|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|8|0|0|1|9|97
+A.J. Minter|L|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|9|0|1|1|12|97
+A.J. Minter|L|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|10|1|1|1|1|97
+A.J. Minter|L|Brian Anderson|R|Strikeout|S|Cutter|11|1|2|1|13|93
+A.J. Minter|L|J.T. Realmuto|R|Groundout|B|Cutter|12|0|0|2|13|93
+A.J. Minter|L|J.T. Realmuto|R|Groundout|X|Four-Seam Fastball|13|1|0|2|5|97
+A.J. Minter|L|Wilmer Flores|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|97
+A.J. Minter|L|Wilmer Flores|R|Walk|B|Four-Seam Fastball|1|1|0|0|13|96
+A.J. Minter|L|Wilmer Flores|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|96
+A.J. Minter|L|Wilmer Flores|R|Walk|C|Four-Seam Fastball|3|3|0|0|6|96
+A.J. Minter|L|Wilmer Flores|R|Walk|B|Cutter|4|3|1|0|13|92
+A.J. Minter|L|Todd Frazier|R|Strikeout|C|Four-Seam Fastball|5|0|0|0|7|97
+A.J. Minter|L|Todd Frazier|R|Strikeout|F|Four-Seam Fastball|6|0|1|0|8|96
+A.J. Minter|L|Todd Frazier|R|Strikeout|F|Four-Seam Fastball|7|0|2|0|5|97
+A.J. Minter|L|Todd Frazier|R|Strikeout|B|Four-Seam Fastball|8|0|2|0|12|97
+A.J. Minter|L|Todd Frazier|R|Strikeout|B|Cutter|9|1|2|0|13|92
+A.J. Minter|L|Todd Frazier|R|Strikeout|F|Cutter|10|2|2|0|1|93
+A.J. Minter|L|Todd Frazier|R|Strikeout|F|Cutter|11|2|2|0|3|94
+A.J. Minter|L|Todd Frazier|R|Strikeout|S|Changeup|12|2|2|0|6|86
+A.J. Minter|L|Jeff McNeil|L|Lineout|B|Cutter|13|0|0|1|13|92
+A.J. Minter|L|Jeff McNeil|L|Lineout|F|Cutter|14|1|0|1|8|93
+A.J. Minter|L|Jeff McNeil|L|Lineout|X|Cutter|15|1|1|1|7|92
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|F|Cutter|16|0|0|2|4|93
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|F|Cutter|17|0|1|2|13|92
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|F|Four-Seam Fastball|18|0|2|2|3|97
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|B|Four-Seam Fastball|19|0|2|2|14|97
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|C|Cutter|20|1|2|2|12|92
+A.J. Minter|L|Jose Bautista|R|Pop Out|F|Cutter|0|0|0|0|11|92
+A.J. Minter|L|Jose Bautista|R|Pop Out|X|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Michael Conforto|L|Lineout|B|Cutter|2|0|0|1|13|91
+A.J. Minter|L|Michael Conforto|L|Lineout|S|Four-Seam Fastball|3|1|0|1|12|96
+A.J. Minter|L|Michael Conforto|L|Lineout|B|Four-Seam Fastball|4|1|1|1|11|96
+A.J. Minter|L|Michael Conforto|L|Lineout|X|Cutter|5|2|1|1|4|92
+A.J. Minter|L|Todd Frazier|R|Field Error|C|Cutter|6|0|0|2|3|92
+A.J. Minter|L|Todd Frazier|R|Field Error|B|Four-Seam Fastball|7|0|1|2|11|96
+A.J. Minter|L|Todd Frazier|R|Field Error|B|Four-Seam Fastball|8|1|1|2|13|96
+A.J. Minter|L|Todd Frazier|R|Field Error|D|Four-Seam Fastball|9|2|1|2|4|96
+A.J. Minter|L|Austin Jackson|R|Groundout|S|Cutter|10|0|0|2|13|92
+A.J. Minter|L|Austin Jackson|R|Groundout|X|Cutter|11|0|1|2|8|92
+A.J. Minter|L|Jose Reyes|R|Groundout|C|Cutter|0|0|0|2|3|92
+A.J. Minter|L|Jose Reyes|R|Groundout|X|Four-Seam Fastball|1|0|1|2|3|96
+A.J. Minter|L|Devin Mesoraco|R|Home Run|E|Four-Seam Fastball|2|0|0|0|4|97
+A.J. Minter|L|Brandon Nimmo|L|Single|B|Cutter|3|0|0|0|13|91
+A.J. Minter|L|Brandon Nimmo|L|Single|F|Cutter|4|1|0|0|13|92
+A.J. Minter|L|Brandon Nimmo|L|Single|C|Cutter|5|1|1|0|4|92
+A.J. Minter|L|Brandon Nimmo|L|Single|B|Four-Seam Fastball|6|1|2|0|12|96
+A.J. Minter|L|Brandon Nimmo|L|Single|D|Cutter|7|2|2|0|13|92
+A.J. Minter|L|Amed Rosario|R|Lineout|B|Cutter|8|0|0|0|12|90
+A.J. Minter|L|Amed Rosario|R|Lineout|B|Four-Seam Fastball|9|1|0|0|13|96
+A.J. Minter|L|Amed Rosario|R|Lineout|X|Four-Seam Fastball|10|2|0|0|8|96
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|F|Cutter|11|0|0|1|4|91
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|B|Cutter|12|0|1|1|13|93
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|S|Four-Seam Fastball|13|1|1|1|2|97
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|C|Cutter|14|1|2|1|9|92
+A.J. Minter|L|Ryan Zimmerman|R|Double|C|Four-Seam Fastball|0|0|0|0|5|95
+A.J. Minter|L|Ryan Zimmerman|R|Double|C|Four-Seam Fastball|1|0|1|0|14|95
+A.J. Minter|L|Ryan Zimmerman|R|Double|D|Cutter|2|0|2|0|13|92
+A.J. Minter|L|Daniel Murphy|L|Pop Out|B|Four-Seam Fastball|3|0|0|0|13|96
+A.J. Minter|L|Daniel Murphy|L|Pop Out|*B|Cutter|4|1|0|0|13|92
+A.J. Minter|L|Daniel Murphy|L|Pop Out|X|Four-Seam Fastball|5|2|0|0|5|96
+A.J. Minter|L|Michael A. Taylor|R|Hit By Pitch|H|Cutter|6|0|0|1|13|92
+A.J. Minter|L|Matt Wieters|R|Double Play|B|Four-Seam Fastball|7|0|0|1|12|94
+A.J. Minter|L|Matt Wieters|R|Double Play|S|Four-Seam Fastball|8|1|0|1|5|95
+A.J. Minter|L|Matt Wieters|R|Double Play|B|Four-Seam Fastball|9|1|1|1|13|96
+A.J. Minter|L|Matt Wieters|R|Double Play|X|Cutter|10|2|1|1|5|92
+A.J. Minter|L|Travis Shaw|L|Strikeout|S|Cutter|0|0|0|0|13|93
+A.J. Minter|L|Travis Shaw|L|Strikeout|F|Cutter|1|0|1|0|1|93
+A.J. Minter|L|Travis Shaw|L|Strikeout|B|Cutter|2|0|2|0|13|91
+A.J. Minter|L|Travis Shaw|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|98
+A.J. Minter|L|Travis Shaw|L|Strikeout|S|Cutter|4|2|2|0|13|91
+A.J. Minter|L|Erik Kratz|R|Single|D|Cutter|5|0|0|1|6|92
+A.J. Minter|L|Lorenzo Cain|R|Flyout|C|Four-Seam Fastball|6|0|0|1|9|98
+A.J. Minter|L|Lorenzo Cain|R|Flyout|C|Four-Seam Fastball|7|0|1|1|14|98
+A.J. Minter|L|Lorenzo Cain|R|Flyout|X|Changeup|8|0|2|1|12|84
+A.J. Minter|L|Christian Yelich|L|Strikeout|C|Four-Seam Fastball|9|0|0|2|7|98
+A.J. Minter|L|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|10|0|1|2|1|97
+A.J. Minter|L|Christian Yelich|L|Strikeout|B|Cutter|11|0|2|2|13|91
+A.J. Minter|L|Christian Yelich|L|Strikeout|B|Cutter|12|1|2|2|11|92
+A.J. Minter|L|Christian Yelich|L|Strikeout|S|Four-Seam Fastball|13|2|2|2|1|98
+A.J. Minter|L|Brian Anderson|R|Single|C|Four-Seam Fastball|0|0|0|0|8|96
+A.J. Minter|L|Brian Anderson|R|Single|B|Four-Seam Fastball|1|0|1|0|12|96
+A.J. Minter|L|Brian Anderson|R|Single|S|Cutter|2|1|1|0|13|92
+A.J. Minter|L|Brian Anderson|R|Single|D|Four-Seam Fastball|3|1|2|0|5|97
+A.J. Minter|L|Derek Dietrich|L|Strikeout|*B|Cutter|4|0|0|0|13|93
+A.J. Minter|L|Derek Dietrich|L|Strikeout|C|Cutter|5|1|0|0|5|93
+A.J. Minter|L|Derek Dietrich|L|Strikeout|F|Cutter|6|1|1|0|2|93
+A.J. Minter|L|Derek Dietrich|L|Strikeout|S|Cutter|7|1|2|0|13|94
+A.J. Minter|L|Starlin Castro|R|Forceout|F|Four-Seam Fastball|8|0|0|1|5|96
+A.J. Minter|L|Starlin Castro|R|Forceout|F|Cutter|9|0|1|1|9|93
+A.J. Minter|L|Starlin Castro|R|Forceout|B|Four-Seam Fastball|10|0|2|1|12|96
+A.J. Minter|L|Starlin Castro|R|Forceout|*B|Cutter|11|1|2|1|13|92
+A.J. Minter|L|Starlin Castro|R|Forceout|F|Four-Seam Fastball|12|2|2|1|9|96
+A.J. Minter|L|Starlin Castro|R|Forceout|*B|Four-Seam Fastball|13|2|2|1|13|97
+A.J. Minter|L|Starlin Castro|R|Forceout|X|Four-Seam Fastball|14|3|2|1|14|97
+A.J. Minter|L|JT Riddle|L|Flyout|B|Four-Seam Fastball|15|0|0|2|13|97
+A.J. Minter|L|JT Riddle|L|Flyout|*B|Four-Seam Fastball|16|1|0|2|13|94
+A.J. Minter|L|JT Riddle|L|Flyout|C|Cutter|17|2|0|2|1|92
+A.J. Minter|L|JT Riddle|L|Flyout|X|Cutter|18|2|1|2|5|93
+A.J. Minter|L|Brian Anderson|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|7|96
+A.J. Minter|L|Brian Anderson|R|Strikeout|C|Changeup|1|0|1|0|14|85
+A.J. Minter|L|Brian Anderson|R|Strikeout|S|Cutter|2|0|2|0|13|93
+A.J. Minter|L|Starlin Castro|R|Pop Out|C|Cutter|3|0|0|1|8|92
+A.J. Minter|L|Starlin Castro|R|Pop Out|B|Four-Seam Fastball|4|0|1|1|12|96
+A.J. Minter|L|Starlin Castro|R|Pop Out|B|Cutter|5|1|1|1|13|93
+A.J. Minter|L|Starlin Castro|R|Pop Out|F|Four-Seam Fastball|6|2|1|1|4|96
+A.J. Minter|L|Starlin Castro|R|Pop Out|X|Four-Seam Fastball|7|2|2|1|11|96
+A.J. Minter|L|Derek Dietrich|L|Strikeout|C|Four-Seam Fastball|8|0|0|2|2|96
+A.J. Minter|L|Derek Dietrich|L|Strikeout|F|Four-Seam Fastball|9|0|1|2|11|96
+A.J. Minter|L|Derek Dietrich|L|Strikeout|S|Cutter|10|0|2|2|7|92
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|0|0|0|0|1|97
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|F|Four-Seam Fastball|1|1|0|0|6|96
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|B|Four-Seam Fastball|2|1|1|0|12|96
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|B|Cutter|3|2|1|0|11|92
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|F|Four-Seam Fastball|4|3|1|0|13|96
+A.J. Minter|L|Carlos Gonzalez|L|Groundout|X|Four-Seam Fastball|5|3|2|0|7|97
+A.J. Minter|L|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|6|0|0|1|12|96
+A.J. Minter|L|Nolan Arenado|R|Groundout|F|Cutter|7|1|0|1|4|92
+A.J. Minter|L|Nolan Arenado|R|Groundout|X|Cutter|8|1|1|1|11|93
+A.J. Minter|L|Trevor Story|R|Double|B|Four-Seam Fastball|9|0|0|2|14|97
+A.J. Minter|L|Trevor Story|R|Double|D|Cutter|10|1|0|2|13|93
+A.J. Minter|L|David Dahl|L|Single|S|Four-Seam Fastball|11|0|0|2|8|96
+A.J. Minter|L|David Dahl|L|Single|D|Four-Seam Fastball|12|0|1|2|2|96
+A.J. Minter|L|Ian Desmond|R|Double|B|Four-Seam Fastball|13|0|0|2|14|96
+A.J. Minter|L|Ian Desmond|R|Double|F|Four-Seam Fastball|14|1|0|2|8|96
+A.J. Minter|L|Ian Desmond|R|Double|B|Cutter|15|1|1|2|13|92
+A.J. Minter|L|Ian Desmond|R|Double|S|Cutter|16|2|1|2|13|93
+A.J. Minter|L|Ian Desmond|R|Double|*B|Cutter|17|2|2|2|13|93
+A.J. Minter|L|Ian Desmond|R|Double|E|Four-Seam Fastball|18|3|2|2|13|95
+A.J. Minter|L|Gerardo Parra|L|Single|B|Cutter|19|0|0|2|13|91
+A.J. Minter|L|Gerardo Parra|L|Single|E|Cutter|20|1|0|2|13|91
+A.J. Minter|L|Rafael Ortega|L|Groundout|B|Four-Seam Fastball|0|0|0|0|12|96
+A.J. Minter|L|Rafael Ortega|L|Groundout|C|Four-Seam Fastball|1|1|0|0|5|96
+A.J. Minter|L|Rafael Ortega|L|Groundout|X|Cutter|2|1|1|0|7|92
+A.J. Minter|L|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|3|0|0|1|12|97
+A.J. Minter|L|Brian Anderson|R|Strikeout|C|Four-Seam Fastball|4|1|0|1|4|96
+A.J. Minter|L|Brian Anderson|R|Strikeout|S|Cutter|5|1|1|1|13|93
+A.J. Minter|L|Brian Anderson|R|Strikeout|C|Cutter|6|1|2|1|14|93
+A.J. Minter|L|Derek Dietrich|L|Single|C|Four-Seam Fastball|7|0|0|2|6|96
+A.J. Minter|L|Derek Dietrich|L|Single|S|Four-Seam Fastball|8|0|1|2|11|96
+A.J. Minter|L|Derek Dietrich|L|Single|B|Four-Seam Fastball|9|0|2|2|12|96
+A.J. Minter|L|Derek Dietrich|L|Single|D|Cutter|10|1|2|2|8|92
+A.J. Minter|L|Starlin Castro|R|Strikeout|F|Cutter|11|0|0|2|4|92
+A.J. Minter|L|Starlin Castro|R|Strikeout|B|Four-Seam Fastball|12|0|1|2|13|96
+A.J. Minter|L|Starlin Castro|R|Strikeout|S|Cutter|13|1|1|2|13|91
+A.J. Minter|L|Starlin Castro|R|Strikeout|B|Cutter|14|1|2|2|13|92
+A.J. Minter|L|Starlin Castro|R|Strikeout|F|Cutter|15|2|2|2|13|91
+A.J. Minter|L|Starlin Castro|R|Strikeout|B|Four-Seam Fastball|16|2|2|2|12|96
+A.J. Minter|L|Starlin Castro|R|Strikeout|S|Cutter|17|3|2|2|8|92
+A.J. Minter|L|Joey Wendle|L|Pop Out|S|Cutter|0|0|0|2|2|90
+A.J. Minter|L|Joey Wendle|L|Pop Out|F|Cutter|1|0|1|2|4|90
+A.J. Minter|L|Joey Wendle|L|Pop Out|X|Four-Seam Fastball|2|0|2|2|11|96
+A.J. Minter|L|Matt Duffy|R|Single|F|Four-Seam Fastball|3|0|0|0|2|96
+A.J. Minter|L|Matt Duffy|R|Single|B|Four-Seam Fastball|4|0|1|0|11|95
+A.J. Minter|L|Matt Duffy|R|Single|C|Cutter|5|1|1|0|9|92
+A.J. Minter|L|Matt Duffy|R|Single|D|Four-Seam Fastball|6|1|2|0|11|96
+A.J. Minter|L|Jake Bauers|L|Lineout|X|Cutter|7|0|0|0|5|90
+A.J. Minter|L|Tommy Pham|R|Walk|B|Cutter|8|0|0|1|13|90
+A.J. Minter|L|Tommy Pham|R|Walk|B|Four-Seam Fastball|9|1|0|1|11|95
+A.J. Minter|L|Tommy Pham|R|Walk|C|Four-Seam Fastball|10|2|0|1|2|96
+A.J. Minter|L|Tommy Pham|R|Walk|S|Four-Seam Fastball|11|2|1|1|6|96
+A.J. Minter|L|Tommy Pham|R|Walk|B|Cutter|12|2|2|1|13|92
+A.J. Minter|L|Tommy Pham|R|Walk|F|Cutter|13|3|2|1|13|92
+A.J. Minter|L|Tommy Pham|R|Walk|B|Four-Seam Fastball|14|3|2|1|12|96
+A.J. Minter|L|Kevin Kiermaier|L|Single|C|Cutter|15|0|0|1|12|89
+A.J. Minter|L|Kevin Kiermaier|L|Single|D|Four-Seam Fastball|16|0|1|1|7|95
+A.J. Minter|L|Willy Adames|R|Groundout|S|Cutter|17|0|0|1|13|91
+A.J. Minter|L|Willy Adames|R|Groundout|F|Cutter|18|0|1|1|2|91
+A.J. Minter|L|Willy Adames|R|Groundout|B|Cutter|19|0|2|1|13|90
+A.J. Minter|L|Willy Adames|R|Groundout|X|Four-Seam Fastball|20|1|2|1|1|96
+A.J. Minter|L|Francisco Cervelli|R|Strikeout|S|Cutter|0|0|0|2|7|93
+A.J. Minter|L|Francisco Cervelli|R|Strikeout|B|Changeup|1|0|1|2|14|85
+A.J. Minter|L|Francisco Cervelli|R|Strikeout|F|Four-Seam Fastball|2|1|1|2|13|97
+A.J. Minter|L|Francisco Cervelli|R|Strikeout|C|Cutter|3|1|2|2|6|93
+A.J. Minter|L|Corey Dickerson|L|Groundout|B|Cutter|4|0|0|0|12|91
+A.J. Minter|L|Corey Dickerson|L|Groundout|F|Cutter|5|1|0|0|4|91
+A.J. Minter|L|Corey Dickerson|L|Groundout|F|Four-Seam Fastball|6|1|1|0|6|97
+A.J. Minter|L|Corey Dickerson|L|Groundout|F|Four-Seam Fastball|7|1|2|0|2|96
+A.J. Minter|L|Corey Dickerson|L|Groundout|B|Cutter|8|1|2|0|13|91
+A.J. Minter|L|Corey Dickerson|L|Groundout|X|Cutter|9|2|2|0|13|92
+A.J. Minter|L|Josh Bell|R|Groundout|B|Cutter|10|0|0|1|14|91
+A.J. Minter|L|Josh Bell|R|Groundout|X|Four-Seam Fastball|11|1|0|1|5|98
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|96
+A.J. Minter|L|Xander Bogaerts|R|Walk|*B|Cutter|1|1|0|2|13|92
+A.J. Minter|L|Xander Bogaerts|R|Walk|C|Cutter|2|2|0|2|7|91
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|3|2|1|2|14|97
+A.J. Minter|L|Xander Bogaerts|R|Walk|B|Four-Seam Fastball|4|3|1|2|13|97
+A.J. Minter|L|Mookie Betts|R|Strikeout|B|Cutter|5|0|0|2|13|94
+A.J. Minter|L|Mookie Betts|R|Strikeout|B|Cutter|6|1|0|2|13|91
+A.J. Minter|L|Mookie Betts|R|Strikeout|C|Four-Seam Fastball|7|2|0|2|7|98
+A.J. Minter|L|Mookie Betts|R|Strikeout|C|Four-Seam Fastball|8|2|1|2|9|98
+A.J. Minter|L|Mookie Betts|R|Strikeout|F|Four-Seam Fastball|9|2|2|2|5|98
+A.J. Minter|L|Mookie Betts|R|Strikeout|F|Cutter|10|2|2|2|1|93
+A.J. Minter|L|Mookie Betts|R|Strikeout|C|Cutter|11|2|2|2|14|92
+A.J. Minter|L|Blake Swihart|R|Pop Out|B|Four-Seam Fastball|12|0|0|0|12|96
+A.J. Minter|L|Blake Swihart|R|Pop Out|F|Cutter|13|1|0|0|1|92
+A.J. Minter|L|Blake Swihart|R|Pop Out|B|Four-Seam Fastball|14|1|1|0|12|97
+A.J. Minter|L|Blake Swihart|R|Pop Out|S|Four-Seam Fastball|15|2|1|0|3|97
+A.J. Minter|L|Blake Swihart|R|Pop Out|F|Four-Seam Fastball|16|2|2|0|3|98
+A.J. Minter|L|Blake Swihart|R|Pop Out|X|Cutter|17|2|2|0|13|93
+A.J. Minter|L|Andrew Benintendi|L|Single|C|Cutter|18|0|0|1|2|92
+A.J. Minter|L|Andrew Benintendi|L|Single|F|Cutter|19|0|1|1|11|91
+A.J. Minter|L|Andrew Benintendi|L|Single|F|Cutter|20|0|2|1|13|90
+A.J. Minter|L|Andrew Benintendi|L|Single|D|Four-Seam Fastball|21|0|2|1|12|97
+A.J. Minter|L|Steve Pearce|R|Strikeout|B|Four-Seam Fastball|22|0|0|1|14|96
+A.J. Minter|L|Steve Pearce|R|Strikeout|C|Four-Seam Fastball|23|1|0|1|12|97
+A.J. Minter|L|Steve Pearce|R|Strikeout|B|Changeup|24|1|1|1|12|85
+A.J. Minter|L|Steve Pearce|R|Strikeout|F|Cutter|25|2|1|1|2|91
+A.J. Minter|L|Steve Pearce|R|Strikeout|C|Cutter|26|2|2|1|14|91
+A.J. Minter|L|Brandon Phillips|R|Home Run|E|Four-Seam Fastball|27|0|0|2|7|95
+A.J. Minter|L|Ian Kinsler|R|Strikeout|C|Cutter|28|0|0|2|14|91
+A.J. Minter|L|Ian Kinsler|R|Strikeout|C|Changeup|29|0|1|2|2|87
+A.J. Minter|L|Ian Kinsler|R|Strikeout|B|Cutter|30|0|2|2|13|91
+A.J. Minter|L|Ian Kinsler|R|Strikeout|F|Cutter|31|1|2|2|12|90
+A.J. Minter|L|Ian Kinsler|R|Strikeout|B|Cutter|32|1|2|2|12|89
+A.J. Minter|L|Ian Kinsler|R|Strikeout|F|Changeup|33|2|2|2|5|86
+A.J. Minter|L|Ian Kinsler|R|Strikeout|F|Four-Seam Fastball|34|2|2|2|14|95
+A.J. Minter|L|Ian Kinsler|R|Strikeout|S|Four-Seam Fastball|35|2|2|2|14|95
+A.J. Minter|L|Steven Souza Jr.|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|96
+A.J. Minter|L|Steven Souza Jr.|R|Walk|B|Four-Seam Fastball|1|1|0|0|13|96
+A.J. Minter|L|Steven Souza Jr.|R|Walk|F|Four-Seam Fastball|2|2|0|0|13|95
+A.J. Minter|L|Steven Souza Jr.|R|Walk|F|Four-Seam Fastball|3|2|1|0|4|97
+A.J. Minter|L|Steven Souza Jr.|R|Walk|B|Four-Seam Fastball|4|2|2|0|13|97
+A.J. Minter|L|Steven Souza Jr.|R|Walk|B|Four-Seam Fastball|5|3|2|0|11|96
+A.J. Minter|L|Ketel Marte|R|Flyout|B|Four-Seam Fastball|6|0|0|0|12|96
+A.J. Minter|L|Ketel Marte|R|Flyout|F|Cutter|7|1|0|0|13|91
+A.J. Minter|L|Ketel Marte|R|Flyout|X|Changeup|8|1|1|0|6|86
+A.J. Minter|L|Nick Ahmed|R|Single|D|Cutter|9|0|0|1|5|91
+A.J. Minter|L|Chris Owings|R|Groundout|S|Cutter|10|0|0|1|7|91
+A.J. Minter|L|Chris Owings|R|Groundout|S|Cutter|11|0|1|1|13|89
+A.J. Minter|L|Chris Owings|R|Groundout|X|Cutter|12|0|2|1|7|89
+A.J. Minter|L|A.J. Pollock|R|Single|E|Four-Seam Fastball|13|0|0|2|9|96
+A.J. Minter|L|Austin Slater|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|95
+A.J. Minter|L|Austin Slater|R|Strikeout|B|Changeup|1|0|1|0|12|86
+A.J. Minter|L|Austin Slater|R|Strikeout|F|Cutter|2|1|1|0|7|92
+A.J. Minter|L|Austin Slater|R|Strikeout|F|Cutter|3|1|2|0|9|92
+A.J. Minter|L|Austin Slater|R|Strikeout|F|Four-Seam Fastball|4|1|2|0|11|96
+A.J. Minter|L|Austin Slater|R|Strikeout|S|Cutter|5|1|2|0|13|90
+A.J. Minter|L|Brandon Belt|L|Strikeout|B|Cutter|6|0|0|1|11|90
+A.J. Minter|L|Brandon Belt|L|Strikeout|F|Cutter|7|1|0|1|13|91
+A.J. Minter|L|Brandon Belt|L|Strikeout|S|Cutter|8|1|1|1|13|91
+A.J. Minter|L|Brandon Belt|L|Strikeout|B|Cutter|9|1|2|1|13|91
+A.J. Minter|L|Brandon Belt|L|Strikeout|C|Changeup|10|2|2|1|1|86
+A.J. Minter|L|Evan Longoria|R|Flyout|B|Changeup|11|0|0|2|12|86
+A.J. Minter|L|Evan Longoria|R|Flyout|C|Four-Seam Fastball|12|1|0|2|14|95
+A.J. Minter|L|Evan Longoria|R|Flyout|X|Changeup|13|1|1|2|6|86
+A.J. Minter|L|Bryce Harper|L|Groundout|X|Cutter|0|0|0|0|2|91
+A.J. Minter|L|Anthony Rendon|R|Groundout|C|Four-Seam Fastball|1|0|0|1|8|96
+A.J. Minter|L|Anthony Rendon|R|Groundout|F|Cutter|2|0|1|1|7|91
+A.J. Minter|L|Anthony Rendon|R|Groundout|X|Changeup|3|0|2|1|14|86
+A.J. Minter|L|Juan Soto|L|Lineout|B|Cutter|4|0|0|2|13|92
+A.J. Minter|L|Juan Soto|L|Lineout|X|Cutter|5|1|0|2|2|92
+A.J. Minter|L|Patrick Wisdom|R|Single|D|Four-Seam Fastball|0|0|0|0|14|95
+A.J. Minter|L|Harrison Bader|R|Flyout|B|Cutter|1|0|0|0|11|90
+A.J. Minter|L|Harrison Bader|R|Flyout|B|Four-Seam Fastball|2|1|0|0|13|94
+A.J. Minter|L|Harrison Bader|R|Flyout|X|Four-Seam Fastball|3|2|0|0|8|94
+A.J. Minter|L|Matt Carpenter|L|Walk|B|Cutter|4|0|0|1|13|91
+A.J. Minter|L|Matt Carpenter|L|Walk|B|Cutter|5|1|0|1|13|90
+A.J. Minter|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|6|2|0|1|12|93
+A.J. Minter|L|Matt Carpenter|L|Walk|B|Four-Seam Fastball|7|3|0|1|13|93
+A.J. Minter|L|Kolten Wong|L|Walk|*B|Cutter|8|0|0|1|13|91
+A.J. Minter|L|Kolten Wong|L|Walk|B|Cutter|9|1|0|1|13|89
+A.J. Minter|L|Kolten Wong|L|Walk|B|Four-Seam Fastball|10|2|0|1|12|94
+A.J. Minter|L|Kolten Wong|L|Walk|C|Four-Seam Fastball|11|3|0|1|1|93
+A.J. Minter|L|Kolten Wong|L|Walk|T|Four-Seam Fastball|12|3|1|1|4|94
+A.J. Minter|L|Kolten Wong|L|Walk|B|Cutter|13|3|2|1|12|90
+A.J. Minter|L|Jose Martinez|R|Strikeout|S|Changeup|14|0|0|1|8|84
+A.J. Minter|L|Jose Martinez|R|Strikeout|S|Changeup|15|0|1|1|14|85
+A.J. Minter|L|Jose Martinez|R|Strikeout|F|Changeup|16|0|2|1|14|86
+A.J. Minter|L|Jose Martinez|R|Strikeout|S|Cutter|17|0|2|1|13|91
+A.J. Minter|L|Paul DeJong|R|Pop Out|S|Cutter|18|0|0|2|13|89
+A.J. Minter|L|Paul DeJong|R|Pop Out|B|Changeup|19|0|1|2|14|85
+A.J. Minter|L|Paul DeJong|R|Pop Out|C|Cutter|20|1|1|2|12|91
+A.J. Minter|L|Paul DeJong|R|Pop Out|X|Four-Seam Fastball|21|1|2|2|1|96
+A.J. Minter|L|Carlos Santana|R|Groundout|C|Cutter|0|0|0|2|8|90
+A.J. Minter|L|Carlos Santana|R|Groundout|F|Cutter|1|0|1|2|7|89
+A.J. Minter|L|Carlos Santana|R|Groundout|X|Cutter|2|0|2|2|14|90
+A.J. Minter|L|Jorge Alfaro|R|Triple|B|Four-Seam Fastball|3|0|0|0|12|96
+A.J. Minter|L|Jorge Alfaro|R|Triple|S|Four-Seam Fastball|4|1|0|0|3|97
+A.J. Minter|L|Jorge Alfaro|R|Triple|B|Four-Seam Fastball|5|1|1|0|11|96
+A.J. Minter|L|Jorge Alfaro|R|Triple|C|Cutter|6|2|1|0|6|90
+A.J. Minter|L|Jorge Alfaro|R|Triple|F|Cutter|7|2|2|0|11|90
+A.J. Minter|L|Jorge Alfaro|R|Triple|D|Four-Seam Fastball|8|2|2|0|13|96
+A.J. Minter|L|Maikel Franco|R|Single|B|Four-Seam Fastball|9|0|0|0|12|96
+A.J. Minter|L|Maikel Franco|R|Single|B|Four-Seam Fastball|10|1|0|0|12|96
+A.J. Minter|L|Maikel Franco|R|Single|F|Cutter|11|2|0|0|5|89
+A.J. Minter|L|Maikel Franco|R|Single|S|Changeup|12|2|1|0|6|86
+A.J. Minter|L|Maikel Franco|R|Single|F|Changeup|13|2|2|0|14|87
+A.J. Minter|L|Maikel Franco|R|Single|F|Cutter|14|2|2|0|13|90
+A.J. Minter|L|Maikel Franco|R|Single|F|Cutter|15|2|2|0|14|90
+A.J. Minter|L|Maikel Franco|R|Single|E|Changeup|16|2|2|0|14|86
+A.J. Minter|L|Jose Bautista|R|Flyout|S|Cutter|17|0|0|0|13|90
+A.J. Minter|L|Jose Bautista|R|Flyout|X|Cutter|18|0|1|0|4|90
+A.J. Minter|L|Roman Quinn|R|Strikeout|B|Cutter|19|0|0|1|14|89
+A.J. Minter|L|Roman Quinn|R|Strikeout|B|Four-Seam Fastball|20|1|0|1|13|96
+A.J. Minter|L|Roman Quinn|R|Strikeout|F|Cutter|21|2|0|1|8|89
+A.J. Minter|L|Roman Quinn|R|Strikeout|F|Changeup|22|2|1|1|8|85
+A.J. Minter|L|Roman Quinn|R|Strikeout|F|Cutter|23|2|2|1|13|90
+A.J. Minter|L|Roman Quinn|R|Strikeout|B|Changeup|24|2|2|1|14|86
+A.J. Minter|L|Roman Quinn|R|Strikeout|C|Cutter|25|3|2|1|14|88
+A.J. Minter|L|Jeff McNeil|L|Bunt Groundout|X|Four-Seam Fastball|0|0|0|0|5|95
+A.J. Minter|L|Michael Conforto|L|Single|B|Four-Seam Fastball|1|0|0|1|11|95
+A.J. Minter|L|Michael Conforto|L|Single|B|Four-Seam Fastball|2|1|0|1|13|95
+A.J. Minter|L|Michael Conforto|L|Single|D|Cutter|3|2|0|1|11|90
+A.J. Minter|L|Jay Bruce|L|Strikeout|B|Cutter|4|0|0|1|12|90
+A.J. Minter|L|Jay Bruce|L|Strikeout|B|Four-Seam Fastball|5|1|0|1|14|96
+A.J. Minter|L|Jay Bruce|L|Strikeout|B|Four-Seam Fastball|6|2|0|1|13|93
+A.J. Minter|L|Jay Bruce|L|Strikeout|C|Four-Seam Fastball|7|3|0|1|3|94
+A.J. Minter|L|Jay Bruce|L|Strikeout|C|Cutter|8|3|1|1|14|91
+A.J. Minter|L|Jay Bruce|L|Strikeout|S|Cutter|9|3|2|1|13|90
+A.J. Minter|L|Todd Frazier|R|Walk|C|Four-Seam Fastball|10|0|0|2|12|96
+A.J. Minter|L|Todd Frazier|R|Walk|B|Changeup|11|0|1|2|13|85
+A.J. Minter|L|Todd Frazier|R|Walk|C|Changeup|12|1|1|2|5|87
+A.J. Minter|L|Todd Frazier|R|Walk|B|Cutter|13|1|2|2|14|90
+A.J. Minter|L|Todd Frazier|R|Walk|*B|Four-Seam Fastball|14|2|2|2|13|95
+A.J. Minter|L|Todd Frazier|R|Walk|B|Cutter|15|3|2|2|12|90
+A.J. Minter|L|Brandon Nimmo|L|Forceout|C|Four-Seam Fastball|16|0|0|2|9|95
+A.J. Minter|L|Brandon Nimmo|L|Forceout|C|Cutter|17|0|1|2|2|90
+A.J. Minter|L|Brandon Nimmo|L|Forceout|*B|Cutter|18|0|2|2|13|89
+A.J. Minter|L|Brandon Nimmo|L|Forceout|B|Four-Seam Fastball|19|1|2|2|12|94
+A.J. Minter|L|Brandon Nimmo|L|Forceout|X|Four-Seam Fastball|20|2|2|2|8|95
+A.J. Minter|L|Rhys Hoskins|R|Flyout|B|Cutter|0|0|0|0|11|92
+A.J. Minter|L|Rhys Hoskins|R|Flyout|X|Four-Seam Fastball|1|1|0|0|9|95
+A.J. Minter|L|Carlos Santana|R|Single|C|Four-Seam Fastball|2|0|0|1|6|95
+A.J. Minter|L|Carlos Santana|R|Single|B|Cutter|3|0|1|1|13|92
+A.J. Minter|L|Carlos Santana|R|Single|D|Cutter|4|1|1|1|2|91
+A.J. Minter|L|Wilson Ramos|R|Field Error|D|Changeup|5|0|0|1|5|86
+A.J. Minter|L|Scott Kingery|R|Forceout|F|Changeup|6|0|0|1|7|85
+A.J. Minter|L|Scott Kingery|R|Forceout|X|Cutter|7|0|1|1|5|91
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|8|0|0|2|13|92
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|9|0|1|2|8|89
+A.J. Minter|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|10|0|2|2|12|96
+A.J. Minter|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|11|1|2|2|12|96
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|12|2|2|2|13|91
+A.J. Minter|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|95
+A.J. Minter|L|Nick Ahmed|R|Walk|F|Four-Seam Fastball|1|1|0|0|6|94
+A.J. Minter|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|2|1|1|0|11|95
+A.J. Minter|L|Nick Ahmed|R|Walk|B|Cutter|3|2|1|0|13|90
+A.J. Minter|L|Nick Ahmed|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|94
+A.J. Minter|L|Carson Kelly|R|Single|D|Four-Seam Fastball|5|0|0|0|6|94
+A.J. Minter|L|Ketel Marte|R|Single|E|Cutter|6|0|0|0|1|92
+A.J. Minter|L|Victor Caratini|R|Strikeout|B|Changeup|0|0|0|2|14|84
+A.J. Minter|L|Victor Caratini|R|Strikeout|B|Cutter|1|1|0|2|13|92
+A.J. Minter|L|Victor Caratini|R|Strikeout|C|Cutter|2|2|0|2|5|92
+A.J. Minter|L|Victor Caratini|R|Strikeout|C|Changeup|3|2|1|2|4|84
+A.J. Minter|L|Victor Caratini|R|Strikeout|S|Cutter|4|2|2|2|13|93
+A.J. Minter|L|Kyle Schwarber|L|Flyout|B|Four-Seam Fastball|5|0|0|0|13|96
+A.J. Minter|L|Kyle Schwarber|L|Flyout|B|Four-Seam Fastball|6|1|0|0|11|95
+A.J. Minter|L|Kyle Schwarber|L|Flyout|C|Four-Seam Fastball|7|2|0|0|11|95
+A.J. Minter|L|Kyle Schwarber|L|Flyout|X|Cutter|8|2|1|0|7|91
+A.J. Minter|L|Albert Almora Jr.|R|Groundout|B|Four-Seam Fastball|9|0|0|1|14|96
+A.J. Minter|L|Albert Almora Jr.|R|Groundout|B|Four-Seam Fastball|10|1|0|1|12|95
+A.J. Minter|L|Albert Almora Jr.|R|Groundout|S|Cutter|11|2|0|1|11|91
+A.J. Minter|L|Albert Almora Jr.|R|Groundout|X|Cutter|12|2|1|1|5|92
+A.J. Minter|L|Kris Bryant|R|Strikeout|B|Changeup|13|0|0|2|14|87
+A.J. Minter|L|Kris Bryant|R|Strikeout|C|Four-Seam Fastball|14|1|0|2|11|97
+A.J. Minter|L|Kris Bryant|R|Strikeout|B|Cutter|15|1|1|2|13|91
+A.J. Minter|L|Kris Bryant|R|Strikeout|S|Four-Seam Fastball|16|2|1|2|3|95
+A.J. Minter|L|Kris Bryant|R|Strikeout|S|Cutter|17|2|2|2|4|92
+A.J. Minter|L|Curt Casali|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|95
+A.J. Minter|L|Curt Casali|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|4|96
+A.J. Minter|L|Curt Casali|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|11|96
+A.J. Minter|L|Curt Casali|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|96
+A.J. Minter|L|Curt Casali|R|Strikeout|S|Cutter|4|1|2|0|13|93
+A.J. Minter|L|Phillip Ervin|R|Groundout|F|Four-Seam Fastball|5|0|0|1|2|96
+A.J. Minter|L|Phillip Ervin|R|Groundout|B|Cutter|6|0|1|1|13|92
+A.J. Minter|L|Phillip Ervin|R|Groundout|B|Cutter|7|1|1|1|11|92
+A.J. Minter|L|Phillip Ervin|R|Groundout|F|Four-Seam Fastball|8|2|1|1|1|96
+A.J. Minter|L|Phillip Ervin|R|Groundout|X|Cutter|9|2|2|1|11|92
+A.J. Minter|L|Jose Peraza|R|Lineout|C|Four-Seam Fastball|10|0|0|2|11|96
+A.J. Minter|L|Jose Peraza|R|Lineout|X|Four-Seam Fastball|11|0|1|2|4|96
+A.J. Minter|L|Jake Bauers|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|95
+A.J. Minter|L|Jake Bauers|L|Strikeout|C|Cutter|1|1|0|0|8|90
+A.J. Minter|L|Jake Bauers|L|Strikeout|B|Cutter|2|1|1|0|13|91
+A.J. Minter|L|Jake Bauers|L|Strikeout|F|Cutter|3|2|1|0|3|90
+A.J. Minter|L|Jake Bauers|L|Strikeout|B|Four-Seam Fastball|4|2|2|0|11|96
+A.J. Minter|L|Jake Bauers|L|Strikeout|C|Four-Seam Fastball|5|3|2|0|13|94
+A.J. Minter|L|Tyler Naquin|L|Strikeout|C|Four-Seam Fastball|6|0|0|1|1|96
+A.J. Minter|L|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|7|0|1|1|11|96
+A.J. Minter|L|Tyler Naquin|L|Strikeout|S|Four-Seam Fastball|8|1|1|1|4|96
+A.J. Minter|L|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|9|1|2|1|11|96
+A.J. Minter|L|Tyler Naquin|L|Strikeout|T|Cutter|10|2|2|1|12|90
+A.J. Minter|L|Roberto Perez|R|Strikeout|B|Changeup|11|0|0|2|14|83
+A.J. Minter|L|Roberto Perez|R|Strikeout|F|Four-Seam Fastball|12|1|0|2|6|96
+A.J. Minter|L|Roberto Perez|R|Strikeout|F|Four-Seam Fastball|13|1|1|2|1|95
+A.J. Minter|L|Roberto Perez|R|Strikeout|B|Changeup|14|1|2|2|13|82
+A.J. Minter|L|Roberto Perez|R|Strikeout|S|Cutter|15|2|2|2|13|91
+A.J. Minter|L|Pat Valaika|R|Flyout|C|Cutter|0|0|0|0|9|92
+A.J. Minter|L|Pat Valaika|R|Flyout|B|Four-Seam Fastball|1|0|1|0|14|95
+A.J. Minter|L|Pat Valaika|R|Flyout|X|Cutter|2|1|1|0|11|91
+A.J. Minter|L|Tony Wolters|L|Pop Out|B|Four-Seam Fastball|3|0|0|1|12|95
+A.J. Minter|L|Tony Wolters|L|Pop Out|X|Cutter|4|1|0|1|4|90
+A.J. Minter|L|Ian Desmond|R|Double|C|Cutter|5|0|0|2|1|90
+A.J. Minter|L|Ian Desmond|R|Double|D|Cutter|6|0|1|2|4|90
+A.J. Minter|L|Charlie Blackmon|L|Flyout|X|Cutter|7|0|0|2|4|90
+A.J. Minter|L|Chris Taylor|R|Walk|C|Four-Seam Fastball|0|0|0|0|13|95
+A.J. Minter|L|Chris Taylor|R|Walk|B|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Chris Taylor|R|Walk|B|Changeup|2|1|1|0|14|86
+A.J. Minter|L|Chris Taylor|R|Walk|B|Four-Seam Fastball|3|2|1|0|12|96
+A.J. Minter|L|Chris Taylor|R|Walk|S|Four-Seam Fastball|4|3|1|0|13|96
+A.J. Minter|L|Chris Taylor|R|Walk|B|Cutter|5|3|2|0|11|91
+A.J. Minter|L|Max Muncy|L|Single|B|Four-Seam Fastball|6|0|0|0|13|95
+A.J. Minter|L|Max Muncy|L|Single|S|Cutter|7|1|0|0|13|91
+A.J. Minter|L|Max Muncy|L|Single|S|Cutter|8|1|1|0|13|90
+A.J. Minter|L|Max Muncy|L|Single|F|Four-Seam Fastball|9|1|2|0|12|93
+A.J. Minter|L|Max Muncy|L|Single|B|Cutter|10|1|2|0|13|90
+A.J. Minter|L|Max Muncy|L|Single|D|Cutter|11|2|2|0|8|91
+A.J. Minter|L|Justin Turner|R|Groundout|B|Four-Seam Fastball|12|0|0|0|14|96
+A.J. Minter|L|Justin Turner|R|Groundout|C|Cutter|13|1|0|0|4|90
+A.J. Minter|L|Justin Turner|R|Groundout|*B|Four-Seam Fastball|14|1|1|0|13|94
+A.J. Minter|L|Justin Turner|R|Groundout|F|Cutter|15|2|1|0|13|91
+A.J. Minter|L|Justin Turner|R|Groundout|X|Changeup|16|2|2|0|14|85
+A.J. Minter|L|Cody Bellinger|L|Intent Walk|V|N/A|17|0|0|1|0|0
+A.J. Minter|L|Cody Bellinger|L|Intent Walk|V|N/A|18|0|1|1|0|0
+A.J. Minter|L|Cody Bellinger|L|Intent Walk|V|N/A|19|0|2|1|0|0
+A.J. Minter|L|Cody Bellinger|L|Intent Walk|V|N/A|20|0|2|1|0|0
+A.J. Minter|L|Corey Seager|L|Single|B|Cutter|21|0|0|1|13|91
+A.J. Minter|L|Corey Seager|L|Single|S|Four-Seam Fastball|22|1|0|1|13|94
+A.J. Minter|L|Corey Seager|L|Single|B|Four-Seam Fastball|23|1|1|1|13|94
+A.J. Minter|L|Corey Seager|L|Single|B|Four-Seam Fastball|24|2|1|1|13|94
+A.J. Minter|L|Corey Seager|L|Single|E|Cutter|25|3|1|1|5|90
+A.J. Minter|L|Alex Verdugo|L|Single|B|Four-Seam Fastball|26|0|0|1|11|95
+A.J. Minter|L|Alex Verdugo|L|Single|C|Cutter|27|1|0|1|3|90
+A.J. Minter|L|Alex Verdugo|L|Single|E|Four-Seam Fastball|28|1|1|1|8|95
+A.J. Minter|L|Anthony Rendon|R|Hit By Pitch|C|Changeup|0|0|0|0|12|84
+A.J. Minter|L|Anthony Rendon|R|Hit By Pitch|B|Changeup|1|0|1|0|13|86
+A.J. Minter|L|Anthony Rendon|R|Hit By Pitch|F|Changeup|2|1|1|0|12|84
+A.J. Minter|L|Anthony Rendon|R|Hit By Pitch|F|Four-Seam Fastball|3|1|2|0|4|96
+A.J. Minter|L|Anthony Rendon|R|Hit By Pitch|H|Cutter|4|1|2|0|13|92
+A.J. Minter|L|Juan Soto|L|Single|C|Four-Seam Fastball|5|0|0|0|9|95
+A.J. Minter|L|Juan Soto|L|Single|S|Changeup|6|0|1|0|7|84
+A.J. Minter|L|Juan Soto|L|Single|D|Cutter|7|0|2|0|11|92
+A.J. Minter|L|Matt Adams|L|Forceout|B|Four-Seam Fastball|8|0|0|0|14|95
+A.J. Minter|L|Matt Adams|L|Forceout|X|Four-Seam Fastball|9|1|0|0|13|95
+A.J. Minter|L|Kurt Suzuki|R|Strikeout|*B|Changeup|10|0|0|1|13|85
+A.J. Minter|L|Kurt Suzuki|R|Strikeout|S|Cutter|11|1|0|1|3|91
+A.J. Minter|L|Kurt Suzuki|R|Strikeout|S|Changeup|12|1|1|1|13|85
+A.J. Minter|L|Kurt Suzuki|R|Strikeout|S|Cutter|13|1|2|1|13|92
+A.J. Minter|L|Brian Dozier|R|Intent Walk|B|Changeup|14|0|0|2|14|86
+A.J. Minter|L|Brian Dozier|R|Intent Walk|B|Changeup|15|1|0|2|13|85
+A.J. Minter|L|Brian Dozier|R|Intent Walk|V|N/A|16|2|0|2|0|0
+A.J. Minter|L|Brian Dozier|R|Intent Walk|V|N/A|17|2|1|2|0|0
+A.J. Minter|L|Michael A. Taylor|R|Groundout|C|Four-Seam Fastball|18|0|0|2|6|95
+A.J. Minter|L|Michael A. Taylor|R|Groundout|X|Changeup|19|0|1|2|9|85
+A.J. Minter|L|Juan Soto|L|Pop Out|S|Cutter|0|0|0|0|13|93
+A.J. Minter|L|Juan Soto|L|Pop Out|B|Cutter|1|0|1|0|11|92
+A.J. Minter|L|Juan Soto|L|Pop Out|F|Changeup|2|1|1|0|14|85
+A.J. Minter|L|Juan Soto|L|Pop Out|X|Four-Seam Fastball|3|1|2|0|12|97
+A.J. Minter|L|Matt Adams|L|Groundout|C|Cutter|4|0|0|1|2|92
+A.J. Minter|L|Matt Adams|L|Groundout|B|Four-Seam Fastball|5|0|1|1|11|97
+A.J. Minter|L|Matt Adams|L|Groundout|X|Cutter|6|1|1|1|13|92
+A.J. Minter|L|Howie Kendrick|R|Walk|B|Changeup|7|0|0|2|14|87
+A.J. Minter|L|Howie Kendrick|R|Walk|B|Changeup|8|1|0|2|14|88
+A.J. Minter|L|Howie Kendrick|R|Walk|F|Four-Seam Fastball|9|2|0|2|6|97
+A.J. Minter|L|Howie Kendrick|R|Walk|B|Cutter|10|2|1|2|11|92
+A.J. Minter|L|Howie Kendrick|R|Walk|C|Cutter|11|3|1|2|3|92
+A.J. Minter|L|Howie Kendrick|R|Walk|F|Changeup|12|3|2|2|5|86
+A.J. Minter|L|Howie Kendrick|R|Walk|B|Cutter|13|3|2|2|11|93
+A.J. Minter|L|Gerardo Parra|L|Strikeout|F|Cutter|14|0|0|2|5|92
+A.J. Minter|L|Gerardo Parra|L|Strikeout|C|Cutter|15|0|1|2|13|91
+A.J. Minter|L|Gerardo Parra|L|Strikeout|B|Cutter|16|0|2|2|13|89
+A.J. Minter|L|Gerardo Parra|L|Strikeout|B|Four-Seam Fastball|17|1|2|2|13|97
+A.J. Minter|L|Gerardo Parra|L|Strikeout|T|Cutter|18|2|2|2|13|92
+A.J. Minter|L|Adrian Sanchez|R|Walk|B|Four-Seam Fastball|0|0|0|2|12|95
+A.J. Minter|L|Adrian Sanchez|R|Walk|F|Four-Seam Fastball|1|1|0|2|8|95
+A.J. Minter|L|Adrian Sanchez|R|Walk|B|Cutter|2|1|1|2|13|92
+A.J. Minter|L|Adrian Sanchez|R|Walk|F|Cutter|3|2|1|2|11|90
+A.J. Minter|L|Adrian Sanchez|R|Walk|F|Changeup|4|2|2|2|9|86
+A.J. Minter|L|Adrian Sanchez|R|Walk|B|Cutter|5|2|2|2|14|92
+A.J. Minter|L|Adrian Sanchez|R|Walk|F|Four-Seam Fastball|6|3|2|2|6|96
+A.J. Minter|L|Adrian Sanchez|R|Walk|F|Four-Seam Fastball|7|3|2|2|2|97
+A.J. Minter|L|Adrian Sanchez|R|Walk|B|Cutter|8|3|2|2|12|91
+A.J. Minter|L|Juan Soto|L|Lineout|C|Cutter|9|0|0|2|11|91
+A.J. Minter|L|Juan Soto|L|Lineout|X|Cutter|10|0|1|2|8|92
+A.J. Minter|L|Howie Kendrick|R|Groundout|B|Four-Seam Fastball|11|0|0|0|11|96
+A.J. Minter|L|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|12|1|0|0|2|96
+A.J. Minter|L|Howie Kendrick|R|Groundout|F|Four-Seam Fastball|13|1|1|0|12|96
+A.J. Minter|L|Howie Kendrick|R|Groundout|X|Cutter|14|1|2|0|4|92
+A.J. Minter|L|Brian Dozier|R|Walk|C|Four-Seam Fastball|15|0|0|1|14|96
+A.J. Minter|L|Brian Dozier|R|Walk|B|Changeup|16|0|1|1|12|86
+A.J. Minter|L|Brian Dozier|R|Walk|F|Cutter|17|1|1|1|2|92
+A.J. Minter|L|Brian Dozier|R|Walk|B|Changeup|18|1|2|1|12|85
+A.J. Minter|L|Brian Dozier|R|Walk|B|Cutter|19|2|2|1|12|91
+A.J. Minter|L|Brian Dozier|R|Walk|F|Cutter|20|3|2|1|1|90
+A.J. Minter|L|Brian Dozier|R|Walk|F|Four-Seam Fastball|21|3|2|1|9|96
+A.J. Minter|L|Brian Dozier|R|Walk|B|Cutter|22|3|2|1|12|91
+A.J. Minter|L|Robinson Cano|L|Single|B|Cutter|0|0|0|0|13|90
+A.J. Minter|L|Robinson Cano|L|Single|B|Four-Seam Fastball|1|1|0|0|13|95
+A.J. Minter|L|Robinson Cano|L|Single|D|Cutter|2|2|0|0|6|90
+A.J. Minter|L|Michael Conforto|L|Strikeout|C|Cutter|3|0|0|0|2|90
+A.J. Minter|L|Michael Conforto|L|Strikeout|S|Four-Seam Fastball|4|0|1|0|3|96
+A.J. Minter|L|Michael Conforto|L|Strikeout|B|Cutter|5|0|2|0|12|89
+A.J. Minter|L|Michael Conforto|L|Strikeout|S|Cutter|6|1|2|0|13|91
+A.J. Minter|L|Todd Frazier|R|Groundout|C|Changeup|7|0|0|1|9|86
+A.J. Minter|L|Todd Frazier|R|Groundout|B|Cutter|8|0|1|1|13|92
+A.J. Minter|L|Todd Frazier|R|Groundout|B|Cutter|9|1|1|1|12|90
+A.J. Minter|L|Todd Frazier|R|Groundout|S|Cutter|10|2|1|1|13|90
+A.J. Minter|L|Todd Frazier|R|Groundout|X|Changeup|11|2|2|1|6|86
+A.J. Minter|L|Dominic Smith|L|Strikeout|C|Four-Seam Fastball|12|0|0|2|8|94
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Cutter|13|0|1|2|11|91
+A.J. Minter|L|Dominic Smith|L|Strikeout|B|Cutter|14|0|2|2|13|91
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Changeup|15|1|2|2|9|86
+A.J. Minter|L|Dominic Smith|L|Strikeout|B|Cutter|16|1|2|2|11|91
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Cutter|17|2|2|2|2|90
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Four-Seam Fastball|18|2|2|2|12|96
+A.J. Minter|L|Dominic Smith|L|Strikeout|S|Cutter|19|2|2|2|5|89
+A.J. Minter|L|Michael Conforto|L|Walk|S|Four-Seam Fastball|0|0|0|2|4|96
+A.J. Minter|L|Michael Conforto|L|Walk|B|Four-Seam Fastball|1|0|1|2|11|97
+A.J. Minter|L|Michael Conforto|L|Walk|S|Four-Seam Fastball|2|1|1|2|12|97
+A.J. Minter|L|Michael Conforto|L|Walk|B|Four-Seam Fastball|3|1|2|2|11|97
+A.J. Minter|L|Michael Conforto|L|Walk|*B|Changeup|4|2|2|2|13|86
+A.J. Minter|L|Michael Conforto|L|Walk|B|Cutter|5|3|2|2|13|93
+A.J. Minter|L|Jeff McNeil|L|Single|E|Four-Seam Fastball|6|0|0|2|12|97
+A.J. Minter|L|Pete Alonso|R|Double|C|Four-Seam Fastball|7|0|0|2|7|96
+A.J. Minter|L|Pete Alonso|R|Double|S|Changeup|8|0|1|2|14|86
+A.J. Minter|L|Pete Alonso|R|Double|B|Four-Seam Fastball|9|0|2|2|12|96
+A.J. Minter|L|Pete Alonso|R|Double|E|Cutter|10|1|2|2|4|94
+A.J. Minter|L|Manuel Margot|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|96
+A.J. Minter|L|Manuel Margot|R|Walk|B|Changeup|1|1|0|0|14|86
+A.J. Minter|L|Manuel Margot|R|Walk|C|Four-Seam Fastball|2|2|0|0|4|94
+A.J. Minter|L|Manuel Margot|R|Walk|B|Four-Seam Fastball|3|2|1|0|11|96
+A.J. Minter|L|Manuel Margot|R|Walk|C|Four-Seam Fastball|4|3|1|0|4|95
+A.J. Minter|L|Manuel Margot|R|Walk|B|Four-Seam Fastball|5|3|2|0|13|96
+A.J. Minter|L|Greg Garcia|L|Sac Bunt|B|Four-Seam Fastball|6|0|0|0|11|96
+A.J. Minter|L|Greg Garcia|L|Sac Bunt|C|Cutter|7|1|0|0|13|91
+A.J. Minter|L|Greg Garcia|L|Sac Bunt|X|Cutter|8|1|1|0|5|90
+A.J. Minter|L|Wil Myers|R|Strikeout|C|Cutter|9|0|0|1|4|91
+A.J. Minter|L|Wil Myers|R|Strikeout|B|Changeup|10|0|1|1|13|85
+A.J. Minter|L|Wil Myers|R|Strikeout|B|Changeup|11|1|1|1|14|84
+A.J. Minter|L|Wil Myers|R|Strikeout|F|Cutter|12|2|1|1|4|92
+A.J. Minter|L|Wil Myers|R|Strikeout|C|Four-Seam Fastball|13|2|2|1|13|96
+A.J. Minter|L|Fernando Tatis Jr.|R|Intent Walk|V|N/A|14|0|0|2|0|0
+A.J. Minter|L|Fernando Tatis Jr.|R|Intent Walk|V|N/A|15|0|1|2|0|0
+A.J. Minter|L|Fernando Tatis Jr.|R|Intent Walk|V|N/A|16|0|2|2|0|0
+A.J. Minter|L|Fernando Tatis Jr.|R|Intent Walk|V|N/A|17|0|2|2|0|0
+A.J. Minter|L|Eric Hosmer|L|Lineout|S|Four-Seam Fastball|18|0|0|2|12|94
+A.J. Minter|L|Eric Hosmer|L|Lineout|X|Cutter|19|0|1|2|6|90
+A.J. Minter|L|Greg Garcia|L|Groundout|C|Four-Seam Fastball|0|0|0|0|12|96
+A.J. Minter|L|Greg Garcia|L|Groundout|X|Cutter|1|0|1|0|13|92
+A.J. Minter|L|Ian Kinsler|R|Groundout|C|Changeup|2|0|0|1|12|87
+A.J. Minter|L|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|3|0|1|1|11|97
+A.J. Minter|L|Ian Kinsler|R|Groundout|F|Cutter|4|1|1|1|8|91
+A.J. Minter|L|Ian Kinsler|R|Groundout|F|Four-Seam Fastball|5|1|2|1|14|97
+A.J. Minter|L|Ian Kinsler|R|Groundout|F|Cutter|6|1|2|1|11|93
+A.J. Minter|L|Ian Kinsler|R|Groundout|F|Cutter|7|1|2|1|12|91
+A.J. Minter|L|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|8|1|2|1|11|96
+A.J. Minter|L|Ian Kinsler|R|Groundout|F|Cutter|9|2|2|1|4|91
+A.J. Minter|L|Ian Kinsler|R|Groundout|X|Changeup|10|2|2|1|6|87
+A.J. Minter|L|Fernando Tatis Jr.|R|Single|B|Four-Seam Fastball|11|0|0|2|13|97
+A.J. Minter|L|Fernando Tatis Jr.|R|Single|C|Cutter|12|1|0|2|2|92
+A.J. Minter|L|Fernando Tatis Jr.|R|Single|D|Cutter|13|1|1|2|4|92
+A.J. Minter|L|Eric Hosmer|L|Flyout|B|Four-Seam Fastball|14|0|0|2|14|96
+A.J. Minter|L|Eric Hosmer|L|Flyout|S|Cutter|15|1|0|2|11|90
+A.J. Minter|L|Eric Hosmer|L|Flyout|S|Cutter|16|1|1|2|13|91
+A.J. Minter|L|Eric Hosmer|L|Flyout|X|Cutter|17|1|2|2|5|90
+A.J. Minter|L|Cesar Hernandez|R|Single|C|Four-Seam Fastball|0|0|0|0|3|96
+A.J. Minter|L|Cesar Hernandez|R|Single|D|Cutter|1|0|1|0|4|93
+A.J. Minter|L|Maikel Franco|R|Forceout|F|Four-Seam Fastball|2|0|0|0|11|96
+A.J. Minter|L|Maikel Franco|R|Forceout|B|Four-Seam Fastball|3|0|1|0|11|96
+A.J. Minter|L|Maikel Franco|R|Forceout|B|Four-Seam Fastball|4|1|1|0|11|96
+A.J. Minter|L|Maikel Franco|R|Forceout|S|Cutter|5|2|1|0|11|92
+A.J. Minter|L|Maikel Franco|R|Forceout|F|Four-Seam Fastball|6|2|2|0|12|96
+A.J. Minter|L|Maikel Franco|R|Forceout|F|Cutter|7|2|2|0|11|92
+A.J. Minter|L|Maikel Franco|R|Forceout|B|Four-Seam Fastball|8|2|2|0|13|97
+A.J. Minter|L|Maikel Franco|R|Forceout|X|Four-Seam Fastball|9|3|2|0|14|95
+A.J. Minter|L|Adam Haseley|L|Single|B|Cutter|10|0|0|1|11|91
+A.J. Minter|L|Adam Haseley|L|Single|S|Cutter|11|1|0|1|13|92
+A.J. Minter|L|Adam Haseley|L|Single|S|Cutter|12|1|1|1|4|91
+A.J. Minter|L|Adam Haseley|L|Single|D|Cutter|13|1|2|1|5|92
+A.J. Minter|L|Cole Irvin|L|Flyout|X|Cutter|14|0|0|1|4|91
+A.J. Minter|L|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|15|0|0|2|12|96
+A.J. Minter|L|Scott Kingery|R|Strikeout|T|Four-Seam Fastball|16|1|0|2|4|96
+A.J. Minter|L|Scott Kingery|R|Strikeout|F|Four-Seam Fastball|17|1|1|2|5|96
+A.J. Minter|L|Scott Kingery|R|Strikeout|F|Cutter|18|1|2|2|2|92
+A.J. Minter|L|Scott Kingery|R|Strikeout|F|Four-Seam Fastball|19|1|2|2|1|95
+A.J. Minter|L|Scott Kingery|R|Strikeout|F|Cutter|20|1|2|2|11|90
+A.J. Minter|L|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|21|1|2|2|12|95
+A.J. Minter|L|Scott Kingery|R|Strikeout|S|Changeup|22|2|2|2|11|85
+A.J. Minter|L|Corey Dickerson|L|Home Run|S|Cutter|0|0|0|1|13|92
+A.J. Minter|L|Corey Dickerson|L|Home Run|E|Four-Seam Fastball|1|0|1|1|6|93
+A.J. Minter|L|Cesar Hernandez|R|Groundout|C|Cutter|2|0|0|1|3|92
+A.J. Minter|L|Cesar Hernandez|R|Groundout|F|Cutter|3|0|1|1|4|89
+A.J. Minter|L|Cesar Hernandez|R|Groundout|X|Changeup|4|0|2|1|14|86
+A.J. Minter|L|Sean Rodriguez|R|Strikeout|S|Cutter|5|0|0|2|13|92
+A.J. Minter|L|Sean Rodriguez|R|Strikeout|S|Changeup|6|0|1|2|14|87
+A.J. Minter|L|Sean Rodriguez|R|Strikeout|B|Changeup|7|0|2|2|14|88
+A.J. Minter|L|Sean Rodriguez|R|Strikeout|W|Changeup|8|1|2|2|13|85
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|0|0|0|1|13|92
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|1|1|0|1|12|93
+A.J. Minter|L|Kyle Schwarber|L|Walk|C|Slider|2|2|0|1|7|86
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|3|2|1|1|13|93
+A.J. Minter|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|4|3|1|1|12|93
+A.J. Minter|L|Ben Zobrist|R|Walk|B|Four-Seam Fastball|5|0|0|1|12|94
+A.J. Minter|L|Ben Zobrist|R|Walk|B|Changeup|6|1|0|1|14|83
+A.J. Minter|L|Ben Zobrist|R|Walk|C|Four-Seam Fastball|7|2|0|1|5|93
+A.J. Minter|L|Ben Zobrist|R|Walk|B|Four-Seam Fastball|8|2|1|1|13|93
+A.J. Minter|L|Ben Zobrist|R|Walk|C|Four-Seam Fastball|9|3|1|1|9|93
+A.J. Minter|L|Ben Zobrist|R|Walk|B|Four-Seam Fastball|10|3|2|1|14|94
+A.J. Minter|L|Mark Zagunis|R|Forceout|C|Four-Seam Fastball|11|0|0|1|3|94
+A.J. Minter|L|Mark Zagunis|R|Forceout|C|Four-Seam Fastball|12|0|1|1|5|95
+A.J. Minter|L|Mark Zagunis|R|Forceout|E|Cutter|13|0|2|1|14|89
+A.J. Minter|L|Albert Almora Jr.|R|Strikeout|F|Four-Seam Fastball|14|0|0|2|2|95
+A.J. Minter|L|Albert Almora Jr.|R|Strikeout|F|Changeup|15|0|1|2|6|85
+A.J. Minter|L|Albert Almora Jr.|R|Strikeout|B|Four-Seam Fastball|16|0|2|2|12|94
+A.J. Minter|L|Albert Almora Jr.|R|Strikeout|F|Cutter|17|1|2|2|9|89
+A.J. Minter|L|Albert Almora Jr.|R|Strikeout|S|Cutter|18|1|2|2|7|89
+A.J. Minter|L|Starlin Castro|R|Single|B|Cutter|0|0|0|0|12|91
+A.J. Minter|L|Starlin Castro|R|Single|S|Cutter|1|1|0|0|7|90
+A.J. Minter|L|Starlin Castro|R|Single|F|Cutter|2|1|1|0|13|91
+A.J. Minter|L|Starlin Castro|R|Single|F|Cutter|3|1|2|0|11|91
+A.J. Minter|L|Starlin Castro|R|Single|B|Changeup|4|1|2|0|14|86
+A.J. Minter|L|Starlin Castro|R|Single|F|Cutter|5|2|2|0|5|92
+A.J. Minter|L|Starlin Castro|R|Single|B|Four-Seam Fastball|6|2|2|0|13|97
+A.J. Minter|L|Starlin Castro|R|Single|F|Cutter|7|3|2|0|13|91
+A.J. Minter|L|Starlin Castro|R|Single|F|Four-Seam Fastball|8|3|2|0|8|96
+A.J. Minter|L|Starlin Castro|R|Single|F|Four-Seam Fastball|9|3|2|0|1|97
+A.J. Minter|L|Starlin Castro|R|Single|D|Cutter|10|3|2|0|4|91
+A.J. Minter|L|Jorge Alfaro|R|Home Run|B|Four-Seam Fastball|11|0|0|0|12|94
+A.J. Minter|L|Jorge Alfaro|R|Home Run|B|Four-Seam Fastball|12|1|0|0|12|95
+A.J. Minter|L|Jorge Alfaro|R|Home Run|C|Cutter|13|2|0|0|3|90
+A.J. Minter|L|Jorge Alfaro|R|Home Run|T|Four-Seam Fastball|14|2|1|0|14|95
+A.J. Minter|L|Jorge Alfaro|R|Home Run|E|Four-Seam Fastball|15|2|2|0|6|96
+A.J. Minter|L|JT Riddle|L|Flyout|B|Cutter|16|0|0|0|12|90
+A.J. Minter|L|JT Riddle|L|Flyout|F|Four-Seam Fastball|17|1|0|0|7|95
+A.J. Minter|L|JT Riddle|L|Flyout|X|Four-Seam Fastball|18|1|1|0|2|95
+A.J. Minter|L|Robinson Cano|L|Strikeout|S|Cutter|0|0|0|0|4|92
+A.J. Minter|L|Robinson Cano|L|Strikeout|B|Cutter|1|0|1|0|13|91
+A.J. Minter|L|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|2|1|1|0|4|96
+A.J. Minter|L|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|3|1|2|0|4|97
+A.J. Minter|L|Michael Conforto|L|Lineout|B|Cutter|4|0|0|1|13|91
+A.J. Minter|L|Michael Conforto|L|Lineout|X|Cutter|5|1|0|1|13|92
+A.J. Minter|L|Wilson Ramos|R|Walk|F|Cutter|6|0|0|2|7|93
+A.J. Minter|L|Wilson Ramos|R|Walk|B|Cutter|7|0|1|2|13|91
+A.J. Minter|L|Wilson Ramos|R|Walk|B|Changeup|8|1|1|2|12|85
+A.J. Minter|L|Wilson Ramos|R|Walk|C|Changeup|9|2|1|2|3|85
+A.J. Minter|L|Wilson Ramos|R|Walk|B|Four-Seam Fastball|10|2|2|2|13|96
+A.J. Minter|L|Wilson Ramos|R|Walk|F|Cutter|11|3|2|2|6|91
+A.J. Minter|L|Wilson Ramos|R|Walk|B|Changeup|12|3|2|2|12|84
+A.J. Minter|L|Dominic Smith|L|Double|B|Cutter|13|0|0|2|13|90
+A.J. Minter|L|Dominic Smith|L|Double|F|Four-Seam Fastball|14|1|0|2|4|95
+A.J. Minter|L|Dominic Smith|L|Double|C|Four-Seam Fastball|15|1|1|2|4|95
+A.J. Minter|L|Dominic Smith|L|Double|F|Cutter|16|1|2|2|13|91
+A.J. Minter|L|Dominic Smith|L|Double|D|Four-Seam Fastball|17|1|2|2|2|95
+A.J. Minter|L|Keon Broxton|R|Strikeout|T|Cutter|18|0|0|2|11|91
+A.J. Minter|L|Keon Broxton|R|Strikeout|S|Cutter|19|0|1|2|13|90
+A.J. Minter|L|Keon Broxton|R|Strikeout|S|Cutter|20|0|2|2|13|90
+A.J. Minter|L|Pete Alonso|R|Strikeout|B|Cutter|0|0|0|0|13|93
+A.J. Minter|L|Pete Alonso|R|Strikeout|B|Cutter|1|1|0|0|13|91
+A.J. Minter|L|Pete Alonso|R|Strikeout|C|Four-Seam Fastball|2|2|0|0|8|94
+A.J. Minter|L|Pete Alonso|R|Strikeout|C|Cutter|3|2|1|0|5|91
+A.J. Minter|L|Pete Alonso|R|Strikeout|B|Cutter|4|2|2|0|13|90
+A.J. Minter|L|Pete Alonso|R|Strikeout|F|Four-Seam Fastball|5|3|2|0|6|95
+A.J. Minter|L|Pete Alonso|R|Strikeout|F|Cutter|6|3|2|0|11|91
+A.J. Minter|L|Pete Alonso|R|Strikeout|F|Cutter|7|3|2|0|4|90
+A.J. Minter|L|Pete Alonso|R|Strikeout|C|Four-Seam Fastball|8|3|2|0|13|95
+A.J. Minter|L|Robinson Cano|L|Lineout|F|Four-Seam Fastball|9|0|0|1|7|93
+A.J. Minter|L|Robinson Cano|L|Lineout|F|Cutter|10|0|1|1|11|91
+A.J. Minter|L|Robinson Cano|L|Lineout|X|Cutter|11|0|2|1|5|90
+A.J. Minter|L|Michael Conforto|L|Groundout|B|Four-Seam Fastball|12|0|0|2|13|94
+A.J. Minter|L|Michael Conforto|L|Groundout|C|Cutter|13|1|0|2|4|89
+A.J. Minter|L|Michael Conforto|L|Groundout|C|Cutter|14|1|1|2|3|90
+A.J. Minter|L|Michael Conforto|L|Groundout|X|Cutter|15|1|2|2|13|89
+A.J. Minter|L|Christian Walker|R|Home Run|B|Cutter|0|0|0|0|14|92
+A.J. Minter|L|Christian Walker|R|Home Run|E|Cutter|1|1|0|0|4|91
+A.J. Minter|L|Wilmer Flores|R|Lineout|X|Four-Seam Fastball|2|0|0|0|4|95
+A.J. Minter|L|Nick Ahmed|R|Strikeout|C|Four-Seam Fastball|3|0|0|1|12|95
+A.J. Minter|L|Nick Ahmed|R|Strikeout|S|Changeup|4|0|1|1|14|85
+A.J. Minter|L|Nick Ahmed|R|Strikeout|B|Changeup|5|0|2|1|14|85
+A.J. Minter|L|Nick Ahmed|R|Strikeout|S|Cutter|6|1|2|1|14|90
+A.J. Minter|L|Carson Kelly|R|Double|S|Cutter|7|0|0|2|13|90
+A.J. Minter|L|Carson Kelly|R|Double|B|Four-Seam Fastball|8|0|1|2|13|95
+A.J. Minter|L|Carson Kelly|R|Double|C|Four-Seam Fastball|9|1|1|2|9|95
+A.J. Minter|L|Carson Kelly|R|Double|B|Changeup|10|1|2|2|12|86
+A.J. Minter|L|Carson Kelly|R|Double|D|Cutter|11|2|2|2|4|91
+A.J. Minter|L|John Ryan Murphy|R|Walk|B|Cutter|12|0|0|2|13|90
+A.J. Minter|L|John Ryan Murphy|R|Walk|B|Four-Seam Fastball|13|1|0|2|13|95
+A.J. Minter|L|John Ryan Murphy|R|Walk|C|Changeup|14|2|0|2|12|85
+A.J. Minter|L|John Ryan Murphy|R|Walk|B|Four-Seam Fastball|15|2|1|2|12|95
+A.J. Minter|L|John Ryan Murphy|R|Walk|*B|Cutter|16|3|1|2|13|90
+A.J. Minter|L|David Peralta|L|Lineout|F|Four-Seam Fastball|0|0|0|0|5|93
+A.J. Minter|L|David Peralta|L|Lineout|F|Cutter|1|0|1|0|4|91
+A.J. Minter|L|David Peralta|L|Lineout|B|Cutter|2|0|2|0|13|90
+A.J. Minter|L|David Peralta|L|Lineout|B|Four-Seam Fastball|3|1|2|0|11|95
+A.J. Minter|L|David Peralta|L|Lineout|F|Cutter|4|2|2|0|4|90
+A.J. Minter|L|David Peralta|L|Lineout|X|Cutter|5|2|2|0|13|90
+A.J. Minter|L|Adam Jones|R|Groundout|S|Cutter|6|0|0|1|11|90
+A.J. Minter|L|Adam Jones|R|Groundout|S|Cutter|7|0|1|1|13|89
+A.J. Minter|L|Adam Jones|R|Groundout|B|Cutter|8|0|2|1|13|89
+A.J. Minter|L|Adam Jones|R|Groundout|X|Changeup|9|1|2|1|9|85
+A.J. Minter|L|Christian Walker|R|Single|D|Four-Seam Fastball|10|0|0|2|9|95
+A.J. Minter|L|Ketel Marte|R|Single|D|Four-Seam Fastball|11|0|0|2|5|95
+A.J. Minter|L|Nick Ahmed|R|Forceout|F|Changeup|12|0|0|2|9|84
+A.J. Minter|L|Nick Ahmed|R|Forceout|S|Cutter|13|0|1|2|13|90
+A.J. Minter|L|Nick Ahmed|R|Forceout|F|Cutter|14|0|2|2|13|90
+A.J. Minter|L|Nick Ahmed|R|Forceout|X|Four-Seam Fastball|15|0|2|2|12|95
+A.J. Minter|L|David Dahl|L|Double|S|Four-Seam Fastball|0|0|0|0|2|96
+A.J. Minter|L|David Dahl|L|Double|B|Cutter|1|0|1|0|13|92
+A.J. Minter|L|David Dahl|L|Double|C|Four-Seam Fastball|2|1|1|0|13|96
+A.J. Minter|L|David Dahl|L|Double|D|Four-Seam Fastball|3|1|2|0|1|96
+A.J. Minter|L|Ryan McMahon|L|Strikeout|L|Cutter|4|0|0|0|2|91
+A.J. Minter|L|Ryan McMahon|L|Strikeout|B|Cutter|5|0|1|0|11|90
+A.J. Minter|L|Ryan McMahon|L|Strikeout|S|Cutter|6|1|1|0|5|91
+A.J. Minter|L|Ryan McMahon|L|Strikeout|B|Cutter|7|1|2|0|13|90
+A.J. Minter|L|Ryan McMahon|L|Strikeout|C|Four-Seam Fastball|8|2|2|0|7|97
+A.J. Minter|L|Raimel Tapia|L|Strikeout|B|Cutter|9|0|0|1|13|91
+A.J. Minter|L|Raimel Tapia|L|Strikeout|B|Cutter|10|1|0|1|13|92
+A.J. Minter|L|Raimel Tapia|L|Strikeout|F|Cutter|11|2|0|1|11|91
+A.J. Minter|L|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|12|2|1|1|11|97
+A.J. Minter|L|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|13|2|2|1|12|97
+A.J. Minter|L|Raimel Tapia|L|Strikeout|F|Cutter|14|3|2|1|13|90
+A.J. Minter|L|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|15|3|2|1|13|97
+A.J. Minter|L|Ian Desmond|R|Walk|B|Four-Seam Fastball|16|0|0|2|11|96
+A.J. Minter|L|Ian Desmond|R|Walk|S|Four-Seam Fastball|17|1|0|2|9|96
+A.J. Minter|L|Ian Desmond|R|Walk|B|Four-Seam Fastball|18|1|1|2|11|97
+A.J. Minter|L|Ian Desmond|R|Walk|*B|Changeup|19|2|1|2|13|86
+A.J. Minter|L|Ian Desmond|R|Walk|C|Four-Seam Fastball|20|3|1|2|12|97
+A.J. Minter|L|Ian Desmond|R|Walk|B|Four-Seam Fastball|21|3|2|2|14|97
+A.J. Minter|L|Drew Butera|R|Walk|B|Four-Seam Fastball|22|0|0|2|13|95
+A.J. Minter|L|Drew Butera|R|Walk|B|Four-Seam Fastball|23|1|0|2|11|96
+A.J. Minter|L|Drew Butera|R|Walk|B|Four-Seam Fastball|24|2|0|2|11|97
+A.J. Minter|L|Drew Butera|R|Walk|B|Four-Seam Fastball|25|3|0|2|14|95
+A.J. Minter|L|Charlie Blackmon|L|Double|E|Four-Seam Fastball|26|0|0|2|8|95
+A.J. Minter|L|Charlie Blackmon|L|Single|F|Cutter|0|0|0|0|2|90
+A.J. Minter|L|Charlie Blackmon|L|Single|B|Cutter|1|0|1|0|13|89
+A.J. Minter|L|Charlie Blackmon|L|Single|F|Cutter|2|1|1|0|4|90
+A.J. Minter|L|Charlie Blackmon|L|Single|F|Four-Seam Fastball|3|1|2|0|11|95
+A.J. Minter|L|Charlie Blackmon|L|Single|F|Cutter|4|1|2|0|1|90
+A.J. Minter|L|Charlie Blackmon|L|Single|F|Cutter|5|1|2|0|11|91
+A.J. Minter|L|Charlie Blackmon|L|Single|B|Changeup|6|1|2|0|13|83
+A.J. Minter|L|Charlie Blackmon|L|Single|D|Changeup|7|2|2|0|5|83
+A.J. Minter|L|Trevor Story|R|Single|B|Four-Seam Fastball|8|0|0|0|14|94
+A.J. Minter|L|Trevor Story|R|Single|D|Two-Seam Fastball|9|1|0|0|9|94
+A.J. Minter|L|Daniel Murphy|L|Flyout|B|Cutter|10|0|0|0|13|90
+A.J. Minter|L|Daniel Murphy|L|Flyout|T|Cutter|11|1|0|0|13|90
+A.J. Minter|L|Daniel Murphy|L|Flyout|X|Cutter|12|1|1|0|4|90
+A.J. Minter|L|Eric Hosmer|L|Strikeout|C|Cutter|0|0|0|0|8|91
+A.J. Minter|L|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|1|0|1|0|14|95
+A.J. Minter|L|Eric Hosmer|L|Strikeout|F|Cutter|2|0|2|0|4|91
+A.J. Minter|L|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|3|0|2|0|12|95
+A.J. Minter|L|Eric Hosmer|L|Strikeout|B|Cutter|4|0|2|0|13|90
+A.J. Minter|L|Eric Hosmer|L|Strikeout|S|Cutter|5|1|2|0|13|91
+A.J. Minter|L|Ty France|R|Groundout|B|Cutter|6|0|0|1|13|90
+A.J. Minter|L|Ty France|R|Groundout|X|Four-Seam Fastball|7|1|0|1|7|96
+A.J. Minter|L|Francisco Mejia|R|Strikeout|C|Changeup|8|0|0|2|5|85
+A.J. Minter|L|Francisco Mejia|R|Strikeout|B|Four-Seam Fastball|9|0|1|2|11|95
+A.J. Minter|L|Francisco Mejia|R|Strikeout|F|Cutter|10|1|1|2|8|91
+A.J. Minter|L|Francisco Mejia|R|Strikeout|S|Cutter|11|1|2|2|13|91
+A.J. Minter|L|Josh Bell|R|Flyout|X|Changeup|0|0|0|2|12|85
+A.J. Minter|L|Jung Ho Kang|R|Single|D|Four-Seam Fastball|1|0|0|0|6|96
+A.J. Minter|L|Melky Cabrera|R|Forceout|B|Changeup|2|0|0|0|12|86
+A.J. Minter|L|Melky Cabrera|R|Forceout|B|Cutter|3|1|0|0|12|89
+A.J. Minter|L|Melky Cabrera|R|Forceout|B|Four-Seam Fastball|4|2|0|0|12|95
+A.J. Minter|L|Melky Cabrera|R|Forceout|C|Four-Seam Fastball|5|3|0|0|9|95
+A.J. Minter|L|Melky Cabrera|R|Forceout|C|Cutter|6|3|1|0|14|90
+A.J. Minter|L|Melky Cabrera|R|Forceout|X|Cutter|7|3|2|0|9|91
+A.J. Minter|L|Adam Frazier|L|Strikeout|C|Cutter|8|0|0|1|8|91
+A.J. Minter|L|Adam Frazier|L|Strikeout|F|Four-Seam Fastball|9|0|1|1|13|96
+A.J. Minter|L|Adam Frazier|L|Strikeout|B|Four-Seam Fastball|10|0|2|1|14|97
+A.J. Minter|L|Adam Frazier|L|Strikeout|S|Cutter|11|1|2|1|13|90
+A.J. Minter|L|Adam Frazier|L|Flyout|B|Cutter|0|0|0|0|13|91
+A.J. Minter|L|Adam Frazier|L|Flyout|S|Cutter|1|1|0|0|2|90
+A.J. Minter|L|Adam Frazier|L|Flyout|B|Four-Seam Fastball|2|1|1|0|13|95
+A.J. Minter|L|Adam Frazier|L|Flyout|F|Four-Seam Fastball|3|2|1|0|1|96
+A.J. Minter|L|Adam Frazier|L|Flyout|F|Cutter|4|2|2|0|3|91
+A.J. Minter|L|Adam Frazier|L|Flyout|X|Cutter|5|2|2|0|2|91
+A.J. Minter|L|Elias Diaz|R|Walk|B|Changeup|6|0|0|1|14|86
+A.J. Minter|L|Elias Diaz|R|Walk|S|Changeup|7|1|0|1|14|86
+A.J. Minter|L|Elias Diaz|R|Walk|B|Changeup|8|1|1|1|12|86
+A.J. Minter|L|Elias Diaz|R|Walk|F|Cutter|9|2|1|1|1|92
+A.J. Minter|L|Elias Diaz|R|Walk|B|Changeup|10|2|2|1|14|85
+A.J. Minter|L|Elias Diaz|R|Walk|B|Four-Seam Fastball|11|3|2|1|13|96
+A.J. Minter|L|Bryan Reynolds|R|Groundout|B|Changeup|12|0|0|1|14|85
+A.J. Minter|L|Bryan Reynolds|R|Groundout|T|Cutter|13|1|0|1|2|92
+A.J. Minter|L|Bryan Reynolds|R|Groundout|X|Changeup|14|1|1|1|9|86
+A.J. Minter|L|Kevin Newman|R|Intent Walk|V|N/A|15|0|0|2|0|0
+A.J. Minter|L|Kevin Newman|R|Intent Walk|V|N/A|16|0|1|2|0|0
+A.J. Minter|L|Kevin Newman|R|Intent Walk|V|N/A|17|0|2|2|0|0
+A.J. Minter|L|Kevin Newman|R|Intent Walk|V|N/A|18|0|2|2|0|0
+A.J. Minter|L|Corey Dickerson|L|Strikeout|F|Cutter|19|0|0|2|5|91
+A.J. Minter|L|Corey Dickerson|L|Strikeout|S|Cutter|20|0|1|2|11|90
+A.J. Minter|L|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|21|0|2|2|6|95
+A.J. Minter|L|Corey Dickerson|L|Strikeout|B|Cutter|22|0|2|2|13|90
+A.J. Minter|L|Corey Dickerson|L|Strikeout|S|Four-Seam Fastball|23|1|2|2|12|96
+A.J. Minter|L|Andrew Knapp|R|Strikeout|B|Changeup|0|0|0|0|12|86
+A.J. Minter|L|Andrew Knapp|R|Strikeout|F|Four-Seam Fastball|1|1|0|0|5|96
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|2|1|1|0|11|93
+A.J. Minter|L|Andrew Knapp|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|98
+A.J. Minter|L|Andrew Knapp|R|Strikeout|S|Cutter|4|2|2|0|13|92
+A.J. Minter|L|Jean Segura|R|Groundout|B|Four-Seam Fastball|5|0|0|1|14|97
+A.J. Minter|L|Jean Segura|R|Groundout|C|Cutter|6|1|0|1|7|91
+A.J. Minter|L|Jean Segura|R|Groundout|B|Changeup|7|1|1|1|12|86
+A.J. Minter|L|Jean Segura|R|Groundout|X|Changeup|8|2|1|1|2|86
+A.J. Minter|L|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|9|0|0|2|14|97
+A.J. Minter|L|Bryce Harper|L|Strikeout|F|Cutter|10|1|0|2|7|93
+A.J. Minter|L|Bryce Harper|L|Strikeout|F|Cutter|11|1|1|2|1|93
+A.J. Minter|L|Bryce Harper|L|Strikeout|F|Four-Seam Fastball|12|1|2|2|5|97
+A.J. Minter|L|Bryce Harper|L|Strikeout|B|Cutter|13|1|2|2|13|92
+A.J. Minter|L|Bryce Harper|L|Strikeout|S|Four-Seam Fastball|14|2|2|2|11|97
+A.J. Minter|L|Dominic Smith|L|Walk|B|Four-Seam Fastball|0|0|0|1|12|95
+A.J. Minter|L|Dominic Smith|L|Walk|B|Cutter|1|1|0|1|13|90
+A.J. Minter|L|Dominic Smith|L|Walk|B|Cutter|2|2|0|1|13|90
+A.J. Minter|L|Dominic Smith|L|Walk|B|Four-Seam Fastball|3|3|0|1|14|95
+A.J. Minter|L|Jeff McNeil|L|Groundout|F|Cutter|4|0|0|1|4|91
+A.J. Minter|L|Jeff McNeil|L|Groundout|X|Four-Seam Fastball|5|0|1|1|5|96
+A.J. Minter|L|Juan Lagares|R|Groundout|B|Changeup|0|0|0|0|12|84
+A.J. Minter|L|Juan Lagares|R|Groundout|F|Cutter|1|1|0|0|13|91
+A.J. Minter|L|Juan Lagares|R|Groundout|B|Changeup|2|1|1|0|13|83
+A.J. Minter|L|Juan Lagares|R|Groundout|B|Four-Seam Fastball|3|2|1|0|13|96
+A.J. Minter|L|Juan Lagares|R|Groundout|C|Four-Seam Fastball|4|3|1|0|8|95
+A.J. Minter|L|Juan Lagares|R|Groundout|X|Four-Seam Fastball|5|3|2|0|7|96
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|B|Changeup|6|0|0|1|14|86
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|C|Changeup|7|1|0|1|12|85
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|B|Cutter|8|1|1|1|13|93
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|9|2|1|1|7|96
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|F|Cutter|10|2|2|1|13|93
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|11|2|2|1|13|95
+A.J. Minter|L|Adeiny Hechavarria|R|Walk|B|Cutter|12|3|2|1|12|90
+A.J. Minter|L|Jeff McNeil|L|Flyout|F|Cutter|13|0|0|1|13|89
+A.J. Minter|L|Jeff McNeil|L|Flyout|X|Cutter|14|0|1|1|12|90
+A.J. Minter|L|Jay Bruce|L|Flyout|X|Cutter|0|0|0|0|5|93
+A.J. Minter|L|Cesar Hernandez|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|6|97
+A.J. Minter|L|Cesar Hernandez|R|Strikeout|S|Cutter|2|0|1|1|13|93
+A.J. Minter|L|Cesar Hernandez|R|Strikeout|B|Changeup|3|0|2|1|12|87
+A.J. Minter|L|Cesar Hernandez|R|Strikeout|C|Cutter|4|1|2|1|7|93
+A.J. Minter|L|Brad Miller|L|Flyout|B|Cutter|5|0|0|2|13|93
+A.J. Minter|L|Brad Miller|L|Flyout|X|Cutter|6|1|0|2|6|92
+A.J. Minter|L|Harold Ramirez|R|Strikeout|F|Cutter|0|0|0|0|13|93
+A.J. Minter|L|Harold Ramirez|R|Strikeout|S|Changeup|1|0|1|0|12|85
+A.J. Minter|L|Harold Ramirez|R|Strikeout|F|Changeup|2|0|2|0|14|85
+A.J. Minter|L|Harold Ramirez|R|Strikeout|F|Cutter|3|0|2|0|1|93
+A.J. Minter|L|Harold Ramirez|R|Strikeout|F|Four-Seam Fastball|4|0|2|0|11|97
+A.J. Minter|L|Harold Ramirez|R|Strikeout|F|Cutter|5|0|2|0|11|93
+A.J. Minter|L|Harold Ramirez|R|Strikeout|S|Four-Seam Fastball|6|0|2|0|12|97
+A.J. Minter|L|Garrett Cooper|R|Strikeout|S|Cutter|7|0|0|1|7|90
+A.J. Minter|L|Garrett Cooper|R|Strikeout|B|Changeup|8|0|1|1|14|86
+A.J. Minter|L|Garrett Cooper|R|Strikeout|S|Cutter|9|1|1|1|13|93
+A.J. Minter|L|Garrett Cooper|R|Strikeout|B|Cutter|10|1|2|1|13|94
+A.J. Minter|L|Garrett Cooper|R|Strikeout|C|Four-Seam Fastball|11|2|2|1|12|98
+A.J. Minter|L|Neil Walker|R|Single|C|Changeup|12|0|0|2|13|87
+A.J. Minter|L|Neil Walker|R|Single|B|Four-Seam Fastball|13|0|1|2|12|98
+A.J. Minter|L|Neil Walker|R|Single|D|Cutter|14|1|1|2|4|93
+A.J. Minter|L|Starlin Castro|R|Flyout|S|Cutter|15|0|0|2|7|91
+A.J. Minter|L|Starlin Castro|R|Flyout|S|Cutter|16|0|1|2|8|92
+A.J. Minter|L|Starlin Castro|R|Flyout|B|Changeup|17|0|2|2|12|86
+A.J. Minter|L|Starlin Castro|R|Flyout|F|Cutter|18|1|2|2|7|92
+A.J. Minter|L|Starlin Castro|R|Flyout|X|Cutter|19|1|2|2|1|91
+A.J. Minter|L|Anthony Rendon|R|Double|B|Four-Seam Fastball|0|0|0|0|14|95
+A.J. Minter|L|Anthony Rendon|R|Double|F|Cutter|1|1|0|0|11|91
+A.J. Minter|L|Anthony Rendon|R|Double|B|Four-Seam Fastball|2|1|1|0|13|95
+A.J. Minter|L|Anthony Rendon|R|Double|D|Four-Seam Fastball|3|2|1|0|9|95
+A.J. Minter|L|Juan Soto|L|Walk|F|Cutter|4|0|0|0|5|91
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|5|0|1|0|12|95
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|6|1|1|0|11|95
+A.J. Minter|L|Juan Soto|L|Walk|B|Cutter|7|2|1|0|13|90
+A.J. Minter|L|Juan Soto|L|Walk|B|Cutter|8|3|1|0|13|90
+A.J. Minter|L|Ryan Zimmerman|R|Double|F|Cutter|9|0|0|0|1|90
+A.J. Minter|L|Ryan Zimmerman|R|Double|B|Four-Seam Fastball|10|0|1|0|13|96
+A.J. Minter|L|Ryan Zimmerman|R|Double|C|Changeup|11|1|1|0|4|85
+A.J. Minter|L|Ryan Zimmerman|R|Double|E|Four-Seam Fastball|12|1|2|0|8|95
+A.J. Minter|L|Kurt Suzuki|R|Sac Fly|E|Changeup|13|0|0|0|9|85
+A.J. Minter|L|Brian Dozier|R|Single|F|Changeup|14|0|0|1|8|86
+A.J. Minter|L|Brian Dozier|R|Single|*B|Cutter|15|0|1|1|14|90
+A.J. Minter|L|Brian Dozier|R|Single|B|Four-Seam Fastball|16|1|1|1|13|96
+A.J. Minter|L|Brian Dozier|R|Single|E|Changeup|17|2|1|1|14|87
+A.J. Minter|L|Victor Robles|R|Lineout|B|Four-Seam Fastball|18|0|0|1|14|95
+A.J. Minter|L|Victor Robles|R|Lineout|S|Changeup|19|1|0|1|9|87
+A.J. Minter|L|Victor Robles|R|Lineout|F|Cutter|20|1|1|1|6|91
+A.J. Minter|L|Victor Robles|R|Lineout|X|Four-Seam Fastball|21|1|2|1|2|94
+A.J. Minter|L|Matt Adams|L|Strikeout|S|Cutter|22|0|0|2|6|91
+A.J. Minter|L|Matt Adams|L|Strikeout|B|Cutter|23|0|1|2|13|89
+A.J. Minter|L|Matt Adams|L|Strikeout|B|Cutter|24|1|1|2|12|89
+A.J. Minter|L|Matt Adams|L|Strikeout|F|Changeup|25|2|1|2|6|88
+A.J. Minter|L|Matt Adams|L|Strikeout|S|Changeup|26|2|2|2|14|84
+A.J. Minter|L|Howie Kendrick|R|Pop Out|F|Changeup|0|0|0|0|2|86
+A.J. Minter|L|Howie Kendrick|R|Pop Out|B|Four-Seam Fastball|1|0|1|0|13|95
+A.J. Minter|L|Howie Kendrick|R|Pop Out|S|Cutter|2|1|1|0|3|92
+A.J. Minter|L|Howie Kendrick|R|Pop Out|F|Cutter|3|1|2|0|13|93
+A.J. Minter|L|Howie Kendrick|R|Pop Out|F|Cutter|4|1|2|0|12|92
+A.J. Minter|L|Howie Kendrick|R|Pop Out|X|Four-Seam Fastball|5|1|2|0|4|96
+A.J. Minter|L|Trea Turner|R|Single|B|Four-Seam Fastball|6|0|0|1|13|96
+A.J. Minter|L|Trea Turner|R|Single|D|Changeup|7|1|0|1|6|87
+A.J. Minter|L|Adam Eaton|L|Single|F|Four-Seam Fastball|8|0|0|1|3|95
+A.J. Minter|L|Adam Eaton|L|Single|B|Four-Seam Fastball|9|0|1|1|12|96
+A.J. Minter|L|Adam Eaton|L|Single|E|Cutter|10|1|1|1|2|93
+A.J. Minter|L|Anthony Rendon|R|Intent Walk|B|Cutter|11|0|0|1|13|91
+A.J. Minter|L|Anthony Rendon|R|Intent Walk|V|N/A|12|1|0|1|0|0
+A.J. Minter|L|Anthony Rendon|R|Intent Walk|V|N/A|13|1|1|1|0|0
+A.J. Minter|L|Anthony Rendon|R|Intent Walk|V|N/A|14|1|2|1|0|0
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|15|0|0|1|12|95
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|16|1|0|1|12|95
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|17|2|0|1|13|94
+A.J. Minter|L|Juan Soto|L|Walk|F|Four-Seam Fastball|18|3|0|1|14|95
+A.J. Minter|L|Juan Soto|L|Walk|B|Four-Seam Fastball|19|3|1|1|12|94
+A.J. Minter|L|Cam Gallagher|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|11|95
+A.J. Minter|L|Cam Gallagher|R|Strikeout|F|Cutter|1|0|1|0|1|94
+A.J. Minter|L|Cam Gallagher|R|Strikeout|F|Four-Seam Fastball|2|0|2|0|11|96
+A.J. Minter|L|Cam Gallagher|R|Strikeout|S|Changeup|3|0|2|0|12|86
+A.J. Minter|L|Billy Hamilton|R|Flyout|S|Cutter|4|0|0|1|7|93
+A.J. Minter|L|Billy Hamilton|R|Flyout|X|Cutter|5|0|1|1|8|92
+A.J. Minter|L|Whit Merrifield|R|Groundout|B|Four-Seam Fastball|6|0|0|2|13|96
+A.J. Minter|L|Whit Merrifield|R|Groundout|S|Four-Seam Fastball|7|1|0|2|2|96
+A.J. Minter|L|Whit Merrifield|R|Groundout|B|Cutter|8|1|1|2|13|93
+A.J. Minter|L|Whit Merrifield|R|Groundout|S|Changeup|9|2|1|2|4|86
+A.J. Minter|L|Whit Merrifield|R|Groundout|X|Four-Seam Fastball|10|2|2|2|13|95
+A.J. Minter|L|Juan Soto|L|Lineout|C|Cutter|0|0|0|1|1|92
+A.J. Minter|L|Juan Soto|L|Lineout|X|Changeup|1|0|1|1|9|86
+A.J. Minter|L|Asdrubal Cabrera|R|Double|B|Four-Seam Fastball|2|0|0|2|12|96
+A.J. Minter|L|Asdrubal Cabrera|R|Double|C|Cutter|3|1|0|2|14|92
+A.J. Minter|L|Asdrubal Cabrera|R|Double|*B|Changeup|4|1|1|2|14|87
+A.J. Minter|L|Asdrubal Cabrera|R|Double|S|Changeup|5|2|1|2|14|86
+A.J. Minter|L|Asdrubal Cabrera|R|Double|E|Four-Seam Fastball|6|2|2|2|2|96
+A.J. Minter|L|Matt Adams|L|Strikeout|S|Four-Seam Fastball|7|0|0|2|12|96
+A.J. Minter|L|Matt Adams|L|Strikeout|C|Cutter|8|0|1|2|2|91
+A.J. Minter|L|Matt Adams|L|Strikeout|B|Changeup|9|0|2|2|14|87
+A.J. Minter|L|Matt Adams|L|Strikeout|S|Cutter|10|1|2|2|13|92
+A.J. Minter|L|Victor Robles|R|Single|D|Cutter|11|0|0|0|13|91
+A.J. Minter|L|Yan Gomes|R|Grounded Into DP|B|Cutter|12|0|0|0|11|91
+A.J. Minter|L|Yan Gomes|R|Grounded Into DP|X|Four-Seam Fastball|13|1|0|0|4|95
+A.J. Minter|L|Brian Dozier|R|Single|B|Cutter|14|0|0|2|13|92
+A.J. Minter|L|Brian Dozier|R|Single|C|Changeup|15|1|0|2|4|86
+A.J. Minter|L|Brian Dozier|R|Single|D|Cutter|16|1|1|2|7|91
+A.J. Minter|L|Wilmer Difo|R|Single|C|Cutter|17|0|0|2|5|91
+A.J. Minter|L|Wilmer Difo|R|Single|B|Four-Seam Fastball|18|0|1|2|12|95
+A.J. Minter|L|Wilmer Difo|R|Single|D|Changeup|19|1|1|2|7|88
+A.J. Minter|L|Peter O'Brien|R|Strikeout|B|Cutter|0|0|0|0|13|92
+A.J. Minter|L|Peter O'Brien|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|13|95
+A.J. Minter|L|Peter O'Brien|R|Strikeout|B|Cutter|2|1|1|0|13|91
+A.J. Minter|L|Peter O'Brien|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|6|95
+A.J. Minter|L|Peter O'Brien|R|Strikeout|S|Cutter|4|2|2|0|13|91
+A.J. Minter|L|Chad Wallach|R|Strikeout|C|Changeup|5|0|0|1|9|87
+A.J. Minter|L|Chad Wallach|R|Strikeout|B|Cutter|6|0|1|1|13|92
+A.J. Minter|L|Chad Wallach|R|Strikeout|S|Cutter|7|1|1|1|8|91
+A.J. Minter|L|Chad Wallach|R|Strikeout|B|Four-Seam Fastball|8|1|2|1|13|96
+A.J. Minter|L|Chad Wallach|R|Strikeout|S|Changeup|9|2|2|1|14|87
+A.J. Minter|L|Isaac Galloway|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|13|95
+A.J. Minter|L|Isaac Galloway|R|Strikeout|F|Cutter|11|1|0|2|7|91
+A.J. Minter|L|Isaac Galloway|R|Strikeout|B|Four-Seam Fastball|12|1|1|2|13|95
+A.J. Minter|L|Isaac Galloway|R|Strikeout|F|Cutter|13|2|1|2|8|90
+A.J. Minter|L|Isaac Galloway|R|Strikeout|S|Changeup|14|2|2|2|8|87
+A.J. Minter|L|Edwin Diaz|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|2|96
+A.J. Minter|L|Edwin Diaz|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|2|97
+A.J. Minter|L|Edwin Diaz|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|12|97
+A.J. Minter|L|Edwin Diaz|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|12|96
+A.J. Minter|L|Edwin Diaz|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|5|95
+A.J. Minter|L|Jean Segura|R|Strikeout|F|Cutter|5|0|0|1|4|90
+A.J. Minter|L|Jean Segura|R|Strikeout|F|Four-Seam Fastball|6|0|1|1|11|97
+A.J. Minter|L|Jean Segura|R|Strikeout|F|Cutter|7|0|2|1|5|89
+A.J. Minter|L|Jean Segura|R|Strikeout|B|Four-Seam Fastball|8|0|2|1|12|96
+A.J. Minter|L|Jean Segura|R|Strikeout|S|Cutter|9|1|2|1|12|91
+A.J. Minter|L|Yonder Alonso|L|Flyout|C|Cutter|10|0|0|2|7|91
+A.J. Minter|L|Yonder Alonso|L|Flyout|B|Four-Seam Fastball|11|0|1|2|11|96
+A.J. Minter|L|Yonder Alonso|L|Flyout|X|Cutter|12|1|1|2|4|90
+A.J. Minter|L|Gerardo Parra|L|Single|B|Four-Seam Fastball|0|0|0|0|13|95
+A.J. Minter|L|Gerardo Parra|L|Single|B|Four-Seam Fastball|1|1|0|0|13|95
+A.J. Minter|L|Gerardo Parra|L|Single|S|Four-Seam Fastball|2|2|0|0|1|96
+A.J. Minter|L|Gerardo Parra|L|Single|S|Four-Seam Fastball|3|2|1|0|1|96
+A.J. Minter|L|Gerardo Parra|L|Single|D|Four-Seam Fastball|4|2|2|0|6|97
+A.J. Minter|L|Mark Reynolds|R|Home Run|E|Four-Seam Fastball|5|0|0|0|5|96
+A.J. Minter|L|Carlos Gonzalez|L|Flyout|X|Cutter|6|0|0|0|5|91
+A.J. Minter|L|Trevor Story|R|Strikeout|C|Cutter|7|0|0|1|8|92
+A.J. Minter|L|Trevor Story|R|Strikeout|S|Cutter|8|0|1|1|13|90
+A.J. Minter|L|Trevor Story|R|Strikeout|W|Cutter|9|0|2|1|13|90
+A.J. Minter|L|Tony Wolters|L|Groundout|F|Cutter|10|0|0|2|5|90
+A.J. Minter|L|Tony Wolters|L|Groundout|F|Four-Seam Fastball|11|0|1|2|14|96
+A.J. Minter|L|Tony Wolters|L|Groundout|B|Cutter|12|0|2|2|13|90
+A.J. Minter|L|Tony Wolters|L|Groundout|X|Cutter|13|1|2|2|7|89
+A.J. Minter|L|Jon Gray|R|Flyout|B|Four-Seam Fastball|14|0|0|0|13|94
+A.J. Minter|L|Jon Gray|R|Flyout|C|Four-Seam Fastball|15|1|0|0|11|94
+A.J. Minter|L|Jon Gray|R|Flyout|C|Cutter|16|1|1|0|6|91
+A.J. Minter|L|Jon Gray|R|Flyout|B|Cutter|17|1|2|0|12|90
+A.J. Minter|L|Jon Gray|R|Flyout|F|Four-Seam Fastball|18|2|2|0|1|94
+A.J. Minter|L|Jon Gray|R|Flyout|F|Cutter|19|2|2|0|7|88
+A.J. Minter|L|Jon Gray|R|Flyout|B|Four-Seam Fastball|20|2|2|0|13|95
+A.J. Minter|L|Jon Gray|R|Flyout|X|Four-Seam Fastball|21|3|2|0|13|95
+A.J. Minter|L|Charlie Blackmon|L|Single|B|Four-Seam Fastball|22|0|0|1|11|96
+A.J. Minter|L|Charlie Blackmon|L|Single|B|Cutter|23|1|0|1|13|91
+A.J. Minter|L|Charlie Blackmon|L|Single|C|Four-Seam Fastball|24|2|0|1|4|96
+A.J. Minter|L|Charlie Blackmon|L|Single|D|Cutter|25|2|1|1|8|90
+A.J. Minter|L|Tommy Joseph|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|95
+A.J. Minter|L|Tommy Joseph|R|Flyout|B|Cutter|1|1|0|0|13|88
+A.J. Minter|L|Tommy Joseph|R|Flyout|F|Four-Seam Fastball|2|2|0|0|14|95
+A.J. Minter|L|Tommy Joseph|R|Flyout|S|Cutter|3|2|1|0|5|88
+A.J. Minter|L|Tommy Joseph|R|Flyout|X|Four-Seam Fastball|4|2|2|0|8|96
+A.J. Minter|L|Maikel Franco|R|Pop Out|F|Cutter|5|0|0|1|1|89
+A.J. Minter|L|Maikel Franco|R|Pop Out|X|Four-Seam Fastball|6|0|1|1|11|96
+A.J. Minter|L|Pedro Florimon|R|Pop Out|B|Cutter|7|0|0|2|13|89
+A.J. Minter|L|Pedro Florimon|R|Pop Out|B|Four-Seam Fastball|8|1|0|2|13|97
+A.J. Minter|L|Pedro Florimon|R|Pop Out|S|Four-Seam Fastball|9|2|0|2|11|97
+A.J. Minter|L|Pedro Florimon|R|Pop Out|B|Four-Seam Fastball|10|2|1|2|13|97
+A.J. Minter|L|Pedro Florimon|R|Pop Out|F|Four-Seam Fastball|11|3|1|2|2|96
+A.J. Minter|L|Pedro Florimon|R|Pop Out|X|Four-Seam Fastball|12|3|2|2|1|96
+A.J. Minter|L|Victor Caratini|R|Groundout|B|Four-Seam Fastball|0|0|0|1|12|95
+A.J. Minter|L|Victor Caratini|R|Groundout|F|Four-Seam Fastball|1|1|0|1|2|94
+A.J. Minter|L|Victor Caratini|R|Groundout|B|Cutter|2|1|1|1|1|87
+A.J. Minter|L|Victor Caratini|R|Groundout|X|Cutter|3|2|1|1|4|87
+A.J. Minter|L|Ben Zobrist|R|Flyout|C|Cutter|4|0|0|2|1|89
+A.J. Minter|L|Ben Zobrist|R|Flyout|F|Four-Seam Fastball|5|0|1|2|12|96
+A.J. Minter|L|Ben Zobrist|R|Flyout|X|Four-Seam Fastball|6|0|2|2|12|95
+A.J. Minter|L|Kris Bryant|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|95
+A.J. Minter|L|Kris Bryant|R|Flyout|F|Four-Seam Fastball|1|1|0|0|2|96
+A.J. Minter|L|Kris Bryant|R|Flyout|B|Four-Seam Fastball|2|1|1|0|11|96
+A.J. Minter|L|Kris Bryant|R|Flyout|C|Cutter|3|2|1|0|12|90
+A.J. Minter|L|Kris Bryant|R|Flyout|X|Cutter|4|2|2|0|1|89
+A.J. Minter|L|Anthony Rizzo|L|Strikeout|B|Cutter|5|0|0|1|12|89
+A.J. Minter|L|Anthony Rizzo|L|Strikeout|C|Four-Seam Fastball|6|1|0|1|8|96
+A.J. Minter|L|Anthony Rizzo|L|Strikeout|S|Four-Seam Fastball|7|1|1|1|4|96
+A.J. Minter|L|Anthony Rizzo|L|Strikeout|S|Four-Seam Fastball|8|1|2|1|11|97
+A.J. Minter|L|Mike Freeman|L|Strikeout|C|Cutter|9|0|0|2|2|90
+A.J. Minter|L|Mike Freeman|L|Strikeout|S|Cutter|10|0|1|2|7|89
+A.J. Minter|L|Mike Freeman|L|Strikeout|F|Cutter|11|0|2|2|13|87
+A.J. Minter|L|Mike Freeman|L|Strikeout|F|Cutter|12|0|2|2|4|89
+A.J. Minter|L|Mike Freeman|L|Strikeout|F|Four-Seam Fastball|13|0|2|2|12|96
+A.J. Minter|L|Mike Freeman|L|Strikeout|S|Four-Seam Fastball|14|0|2|2|11|96
+A.J. Minter|L|Will Middlebrooks|R|Triple|D|Four-Seam Fastball|0|0|0|0|12|96
+A.J. Minter|L|Cole Hamels|L|Groundout|B|Cutter|1|0|0|0|13|90
+A.J. Minter|L|Cole Hamels|L|Groundout|B|Four-Seam Fastball|2|1|0|0|11|96
+A.J. Minter|L|Cole Hamels|L|Groundout|S|Four-Seam Fastball|3|2|0|0|13|95
+A.J. Minter|L|Cole Hamels|L|Groundout|S|Four-Seam Fastball|4|2|1|0|12|96
+A.J. Minter|L|Cole Hamels|L|Groundout|B|Four-Seam Fastball|5|2|2|0|13|95
+A.J. Minter|L|Cole Hamels|L|Groundout|E|Four-Seam Fastball|6|3|2|0|5|96
+A.J. Minter|L|Delino DeShields|R|Strikeout|S|Cutter|7|0|0|1|13|92
+A.J. Minter|L|Delino DeShields|R|Strikeout|B|Cutter|8|0|1|1|13|90
+A.J. Minter|L|Delino DeShields|R|Strikeout|B|Cutter|9|1|1|1|12|90
+A.J. Minter|L|Delino DeShields|R|Strikeout|F|Four-Seam Fastball|10|2|1|1|3|96
+A.J. Minter|L|Delino DeShields|R|Strikeout|F|Cutter|11|2|2|1|1|91
+A.J. Minter|L|Delino DeShields|R|Strikeout|F|Cutter|12|2|2|1|11|90
+A.J. Minter|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|13|2|2|1|7|96
+A.J. Minter|L|Elvis Andrus|R|Strikeout|C|Cutter|14|0|0|2|5|92
+A.J. Minter|L|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|15|0|1|2|11|96
+A.J. Minter|L|Elvis Andrus|R|Strikeout|B|Cutter|16|0|2|2|13|89
+A.J. Minter|L|Elvis Andrus|R|Strikeout|B|Four-Seam Fastball|17|1|2|2|12|96
+A.J. Minter|L|Elvis Andrus|R|Strikeout|F|Cutter|18|2|2|2|6|91
+A.J. Minter|L|Elvis Andrus|R|Strikeout|W|Cutter|19|2|2|2|13|91
+A.J. Minter|L|Miguel Rojas|R|Flyout|X|Cutter|0|0|0|0|8|89
+A.J. Minter|L|Jose Urena|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|9|94
+A.J. Minter|L|Jose Urena|R|Strikeout|C|Four-Seam Fastball|2|0|1|1|13|95
+A.J. Minter|L|Jose Urena|R|Strikeout|C|Cutter|3|0|2|1|9|88
+A.J. Minter|L|Dee Gordon|L|Single|C|Four-Seam Fastball|4|0|0|2|4|95
+A.J. Minter|L|Dee Gordon|L|Single|C|Cutter|5|0|1|2|7|90
+A.J. Minter|L|Dee Gordon|L|Single|B|Cutter|6|0|2|2|13|88
+A.J. Minter|L|Dee Gordon|L|Single|F|Four-Seam Fastball|7|1|2|2|5|95
+A.J. Minter|L|Dee Gordon|L|Single|D|Four-Seam Fastball|8|1|2|2|9|95
+A.J. Minter|L|Derek Dietrich|L|Groundout|F|Cutter|9|0|0|2|9|88
+A.J. Minter|L|Derek Dietrich|L|Groundout|X|Cutter|10|0|1|2|8|88
+A.J. Minter|L|Christian Yelich|L|Single|D|Four-Seam Fastball|0|0|0|1|9|94
+A.J. Minter|L|Tyler Moore|R|Strikeout|B|Four-Seam Fastball|1|0|0|1|14|95
+A.J. Minter|L|Tyler Moore|R|Strikeout|S|Cutter|2|1|0|1|6|90
+A.J. Minter|L|Tyler Moore|R|Strikeout|F|Cutter|3|1|1|1|5|88
+A.J. Minter|L|Tyler Moore|R|Strikeout|S|Four-Seam Fastball|4|1|2|1|12|95
+A.J. Minter|L|Justin Bour|L|Flyout|B|Cutter|5|0|0|2|13|88
+A.J. Minter|L|Justin Bour|L|Flyout|C|Cutter|6|1|0|2|12|88
+A.J. Minter|L|Justin Bour|L|Flyout|X|Cutter|7|1|1|2|9|88
+A.J. Minter|L|Matt Wieters|R|Strikeout|S|Cutter|0|0|0|2|13|89
+A.J. Minter|L|Matt Wieters|R|Strikeout|B|Cutter|1|0|1|2|11|91
+A.J. Minter|L|Matt Wieters|R|Strikeout|F|Cutter|2|1|1|2|13|89
+A.J. Minter|L|Matt Wieters|R|Strikeout|B|Four-Seam Fastball|3|1|2|2|12|96
+A.J. Minter|L|Matt Wieters|R|Strikeout|S|Four-Seam Fastball|4|2|2|2|4|96
+A.J. Minter|L|Raudy Read|R|Strikeout|B|Cutter|5|0|0|0|12|90
+A.J. Minter|L|Raudy Read|R|Strikeout|S|Cutter|6|1|0|0|13|89
+A.J. Minter|L|Raudy Read|R|Strikeout|C|Four-Seam Fastball|7|1|1|0|13|96
+A.J. Minter|L|Raudy Read|R|Strikeout|W|Cutter|8|1|2|0|13|89
+A.J. Minter|L|Trea Turner|R|Single|B|Four-Seam Fastball|9|0|0|1|14|96
+A.J. Minter|L|Trea Turner|R|Single|D|Cutter|10|1|0|1|6|91
+A.J. Minter|L|Wilmer Difo|R|Strikeout|S|Cutter|11|0|0|1|13|88
+A.J. Minter|L|Wilmer Difo|R|Strikeout|W|Cutter|12|0|1|1|13|90
+A.J. Minter|L|Wilmer Difo|R|Strikeout|F|Cutter|13|0|2|1|13|89
+A.J. Minter|L|Wilmer Difo|R|Strikeout|F|Cutter|14|0|2|1|7|90
+A.J. Minter|L|Wilmer Difo|R|Strikeout|C|Four-Seam Fastball|15|0|2|1|7|96
+A.J. Minter|L|Jose Reyes|R|Lineout|X|Four-Seam Fastball|0|0|0|0|9|95
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|B|Four-Seam Fastball|1|0|0|1|13|95
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|C|Cutter|2|1|0|1|13|88
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|S|Four-Seam Fastball|3|1|1|1|3|96
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|F|Cutter|4|1|2|1|7|88
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|B|Four-Seam Fastball|5|1|2|1|14|96
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|F|Four-Seam Fastball|6|2|2|1|8|97
+A.J. Minter|L|Brandon Nimmo|L|Strikeout|C|Cutter|7|2|2|1|3|88
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|C|Cutter|8|0|0|2|12|88
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|B|Four-Seam Fastball|9|0|1|2|12|96
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|B|Four-Seam Fastball|10|1|1|2|13|95
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|S|Cutter|11|2|1|2|7|90
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|F|Four-Seam Fastball|12|2|2|2|8|96
+A.J. Minter|L|Kevin Plawecki|R|Strikeout|S|Cutter|13|2|2|2|13|90
+A.J. Minter|L|Dominic Smith|L|Strikeout|F|Cutter|14|0|0|0|9|89
+A.J. Minter|L|Dominic Smith|L|Strikeout|B|Cutter|15|0|1|0|13|87
+A.J. Minter|L|Dominic Smith|L|Strikeout|C|Cutter|16|1|1|0|7|89
+A.J. Minter|L|Dominic Smith|L|Strikeout|S|Four-Seam Fastball|17|1|2|0|12|96
+A.J. Minter|L|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|95
+A.J. Minter|L|Jayson Werth|R|Strikeout|B|Cutter|1|1|0|0|13|90
+A.J. Minter|L|Jayson Werth|R|Strikeout|C|Cutter|2|2|0|0|12|89
+A.J. Minter|L|Jayson Werth|R|Strikeout|C|Four-Seam Fastball|3|2|1|0|12|96
+A.J. Minter|L|Jayson Werth|R|Strikeout|F|Cutter|4|2|2|0|14|90
+A.J. Minter|L|Jayson Werth|R|Strikeout|F|Cutter|5|2|2|0|13|90
+A.J. Minter|L|Jayson Werth|R|Strikeout|S|Four-Seam Fastball|6|2|2|0|14|96
+A.J. Minter|L|Daniel Murphy|L|Strikeout|B|Cutter|7|0|0|1|13|89
+A.J. Minter|L|Daniel Murphy|L|Strikeout|F|Cutter|8|1|0|1|4|89
+A.J. Minter|L|Daniel Murphy|L|Strikeout|B|Four-Seam Fastball|9|1|1|1|13|95
+A.J. Minter|L|Daniel Murphy|L|Strikeout|S|Four-Seam Fastball|10|2|1|1|3|96
+A.J. Minter|L|Daniel Murphy|L|Strikeout|S|Four-Seam Fastball|11|2|2|1|4|96
+A.J. Minter|L|Ryan Zimmerman|R|Groundout|C|Cutter|12|0|0|2|9|91
+A.J. Minter|L|Ryan Zimmerman|R|Groundout|C|Four-Seam Fastball|13|0|1|2|14|96
+A.J. Minter|L|Ryan Zimmerman|R|Groundout|B|Cutter|14|0|2|2|14|89
+A.J. Minter|L|Ryan Zimmerman|R|Groundout|X|Four-Seam Fastball|15|1|2|2|14|95
+A.J. Minter|L|Odubel Herrera|L|Groundout|F|Cutter|0|0|0|0|11|90
+A.J. Minter|L|Odubel Herrera|L|Groundout|X|Cutter|1|0|1|0|11|89
+A.J. Minter|L|Jorge Alfaro|R|Double|C|Four-Seam Fastball|2|0|0|1|12|96
+A.J. Minter|L|Jorge Alfaro|R|Double|S|Cutter|3|0|1|1|13|91
+A.J. Minter|L|Jorge Alfaro|R|Double|B|Four-Seam Fastball|4|0|2|1|12|96
+A.J. Minter|L|Jorge Alfaro|R|Double|D|Cutter|5|1|2|1|4|90
+A.J. Minter|L|J.P. Crawford|L|Strikeout|F|Four-Seam Fastball|6|0|0|1|6|96
+A.J. Minter|L|J.P. Crawford|L|Strikeout|B|Cutter|7|0|1|1|13|89
+A.J. Minter|L|J.P. Crawford|L|Strikeout|F|Four-Seam Fastball|8|1|1|1|12|95
+A.J. Minter|L|J.P. Crawford|L|Strikeout|S|Cutter|9|1|2|1|7|91
+A.J. Minter|L|Maikel Franco|R|Groundout|F|Cutter|10|0|0|2|1|90
+A.J. Minter|L|Maikel Franco|R|Groundout|F|Four-Seam Fastball|11|0|1|2|1|96
+A.J. Minter|L|Maikel Franco|R|Groundout|B|Four-Seam Fastball|12|0|2|2|14|97
+A.J. Minter|L|Maikel Franco|R|Groundout|X|Cutter|13|1|2|2|14|90
+A.J. Minter|L|Jorge Alfaro|R|Single|D|Cutter|0|0|0|0|2|90
+A.J. Minter|L|Freddy Galvis|R|Strikeout|L|Four-Seam Fastball|1|0|0|0|5|95
+A.J. Minter|L|Freddy Galvis|R|Strikeout|S|Cutter|2|0|1|0|4|90
+A.J. Minter|L|Freddy Galvis|R|Strikeout|B|Four-Seam Fastball|3|0|2|0|14|95
+A.J. Minter|L|Freddy Galvis|R|Strikeout|B|Four-Seam Fastball|4|1|2|0|12|95
+A.J. Minter|L|Freddy Galvis|R|Strikeout|S|Cutter|5|2|2|0|5|88
+A.J. Minter|L|Cesar Hernandez|R|Forceout|B|Cutter|6|0|0|1|12|88
+A.J. Minter|L|Cesar Hernandez|R|Forceout|S|Cutter|7|1|0|1|13|89
+A.J. Minter|L|Cesar Hernandez|R|Forceout|B|Four-Seam Fastball|8|1|1|1|12|95
+A.J. Minter|L|Cesar Hernandez|R|Forceout|X|Cutter|9|2|1|1|7|88
+A.J. Minter|L|Aaron Altherr|R|Double|E|Cutter|10|0|0|2|13|88
+A.J. Minter|L|Nick Williams|L|Strikeout|S|Cutter|11|0|0|2|7|90
+A.J. Minter|L|Nick Williams|L|Strikeout|F|Four-Seam Fastball|12|0|1|2|12|94
+A.J. Minter|L|Nick Williams|L|Strikeout|*B|Cutter|13|0|2|2|13|89
+A.J. Minter|L|Nick Williams|L|Strikeout|S|Cutter|14|1|2|2|13|89
+A.J. Minter|L|Kevin Plawecki|R|Single|C|Cutter|0|0|0|0|6|91
+A.J. Minter|L|Kevin Plawecki|R|Single|S|Cutter|1|0|1|0|13|89
+A.J. Minter|L|Kevin Plawecki|R|Single|D|Four-Seam Fastball|2|0|2|0|8|95
+A.J. Minter|L|Dominic Smith|L|Walk|C|Four-Seam Fastball|3|0|0|0|11|95
+A.J. Minter|L|Dominic Smith|L|Walk|B|Four-Seam Fastball|4|0|1|0|13|96
+A.J. Minter|L|Dominic Smith|L|Walk|*B|Cutter|5|1|1|0|13|90
+A.J. Minter|L|Dominic Smith|L|Walk|B|Cutter|6|2|1|0|12|90
+A.J. Minter|L|Dominic Smith|L|Walk|F|Four-Seam Fastball|7|3|1|0|13|95
+A.J. Minter|L|Dominic Smith|L|Walk|B|Four-Seam Fastball|8|3|2|0|13|96
+A.J. Minter|L|Amed Rosario|R|Strikeout|*B|Cutter|9|0|0|0|14|89
+A.J. Minter|L|Amed Rosario|R|Strikeout|B|Four-Seam Fastball|10|1|0|0|14|96
+A.J. Minter|L|Amed Rosario|R|Strikeout|C|Four-Seam Fastball|11|2|0|0|9|95
+A.J. Minter|L|Amed Rosario|R|Strikeout|L|Cutter|12|2|1|0|11|90
+A.J. Minter|L|Amed Rosario|R|Strikeout|T|Cutter|13|2|2|0|9|88
+A.J. Minter|L|Travis Taijeron|R|Single|C|Four-Seam Fastball|14|0|0|1|9|95
+A.J. Minter|L|Travis Taijeron|R|Single|F|Cutter|15|0|1|1|13|90
+A.J. Minter|L|Travis Taijeron|R|Single|B|Four-Seam Fastball|16|0|2|1|11|96
+A.J. Minter|L|Travis Taijeron|R|Single|F|Four-Seam Fastball|17|1|2|1|5|96
+A.J. Minter|L|Travis Taijeron|R|Single|B|Four-Seam Fastball|18|1|2|1|12|96
+A.J. Minter|L|Travis Taijeron|R|Single|E|Cutter|19|2|2|1|7|91
+A.J. Minter|L|Tomas Telis|R|Single|B|Cutter|0|0|0|0|12|91
+A.J. Minter|L|Tomas Telis|R|Single|S|Cutter|1|1|0|0|13|90
+A.J. Minter|L|Tomas Telis|R|Single|B|Four-Seam Fastball|2|1|1|0|13|95
+A.J. Minter|L|Tomas Telis|R|Single|D|Four-Seam Fastball|3|2|1|0|1|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|4|0|0|0|8|93
+A.J. Minter|L|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|5|0|1|0|13|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|*B|Cutter|6|0|2|0|13|91
+A.J. Minter|L|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|7|1|2|0|12|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|8|2|2|0|1|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|F|Cutter|9|2|2|0|13|91
+A.J. Minter|L|Dee Gordon|L|Strikeout|S|Cutter|10|2|2|0|13|91
+A.J. Minter|L|Justin Bour|L|Strikeout|B|Cutter|0|0|0|2|13|90
+A.J. Minter|L|Justin Bour|L|Strikeout|F|Four-Seam Fastball|1|1|0|2|5|94
+A.J. Minter|L|Justin Bour|L|Strikeout|F|Four-Seam Fastball|2|1|1|2|5|95
+A.J. Minter|L|Justin Bour|L|Strikeout|S|Cutter|3|1|2|2|13|90
+A.J. Minter|L|Brian Anderson|R|Strikeout|S|Cutter|4|0|0|0|7|90
+A.J. Minter|L|Brian Anderson|R|Strikeout|B|Four-Seam Fastball|5|0|1|0|14|95
+A.J. Minter|L|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|6|1|1|0|4|95
+A.J. Minter|L|Brian Anderson|R|Strikeout|F|Cutter|7|1|2|0|13|90
+A.J. Minter|L|Brian Anderson|R|Strikeout|S|Cutter|8|1|2|0|13|89
+A.J. Minter|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|9|0|0|1|12|96
+A.J. Minter|L|Miguel Rojas|R|Walk|F|Four-Seam Fastball|10|1|0|1|7|95
+A.J. Minter|L|Miguel Rojas|R|Walk|B|Four-Seam Fastball|11|1|1|1|13|96
+A.J. Minter|L|Miguel Rojas|R|Walk|F|Cutter|12|2|1|1|13|92
+A.J. Minter|L|Miguel Rojas|R|Walk|B|Cutter|13|2|2|1|13|91
+A.J. Minter|L|Miguel Rojas|R|Walk|*B|Cutter|14|3|2|1|13|90
+A.J. Minter|L|Mike Aviles|R|Strikeout|B|Four-Seam Fastball|15|0|0|1|14|95
+A.J. Minter|L|Mike Aviles|R|Strikeout|B|Cutter|16|1|0|1|14|90
+A.J. Minter|L|Mike Aviles|R|Strikeout|T|Four-Seam Fastball|17|2|0|1|3|96
+A.J. Minter|L|Mike Aviles|R|Strikeout|C|Four-Seam Fastball|18|2|1|1|14|96
+A.J. Minter|L|Mike Aviles|R|Strikeout|C|Four-Seam Fastball|19|2|2|1|7|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|20|0|0|2|5|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|T|Four-Seam Fastball|21|0|1|2|2|95
+A.J. Minter|L|Dee Gordon|L|Strikeout|B|Four-Seam Fastball|22|0|2|2|11|97
+A.J. Minter|L|Dee Gordon|L|Strikeout|F|Four-Seam Fastball|23|1|2|2|11|96
+A.J. Minter|L|Dee Gordon|L|Strikeout|S|Four-Seam Fastball|24|1|2|2|11|95

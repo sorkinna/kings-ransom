@@ -1,0 +1,932 @@
+Mitch Keller|R|Kole Calhoun|L|Lineout|B|Four-Seam Fastball|0|0|0|0|13|94
+Mitch Keller|R|Kole Calhoun|L|Lineout|C|Four-Seam Fastball|1|1|0|0|8|95
+Mitch Keller|R|Kole Calhoun|L|Lineout|F|Four-Seam Fastball|2|1|1|0|9|96
+Mitch Keller|R|Kole Calhoun|L|Lineout|X|Four-Seam Fastball|3|1|2|0|2|95
+Mitch Keller|R|Mike Trout|R|Walk|C|Four-Seam Fastball|4|0|0|1|8|95
+Mitch Keller|R|Mike Trout|R|Walk|B|Four-Seam Fastball|5|0|1|1|13|95
+Mitch Keller|R|Mike Trout|R|Walk|B|Four-Seam Fastball|6|1|1|1|14|96
+Mitch Keller|R|Mike Trout|R|Walk|B|Slider|7|2|1|1|14|88
+Mitch Keller|R|Mike Trout|R|Walk|F|Four-Seam Fastball|8|3|1|1|2|96
+Mitch Keller|R|Mike Trout|R|Walk|F|Four-Seam Fastball|9|3|2|1|5|98
+Mitch Keller|R|Mike Trout|R|Walk|F|Four-Seam Fastball|10|3|2|1|6|96
+Mitch Keller|R|Mike Trout|R|Walk|B|Curveball|11|3|2|1|14|81
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|F|Four-Seam Fastball|12|0|0|1|3|95
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|F|Four-Seam Fastball|13|0|1|1|12|94
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|F|Four-Seam Fastball|14|0|2|1|1|93
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|B|Four-Seam Fastball|15|0|2|1|14|96
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|B|Curveball|16|1|2|1|14|82
+Mitch Keller|R|Shohei Ohtani|L|Strikeout|S|Four-Seam Fastball|17|2|2|1|9|97
+Mitch Keller|R|Justin Upton|R|Flyout|C|Four-Seam Fastball|18|0|0|2|9|94
+Mitch Keller|R|Justin Upton|R|Flyout|X|Curveball|19|0|1|2|5|82
+Mitch Keller|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|20|0|0|0|14|95
+Mitch Keller|R|Albert Pujols|R|Groundout|C|Four-Seam Fastball|21|0|1|0|13|94
+Mitch Keller|R|Albert Pujols|R|Groundout|B|Slider|22|0|2|0|14|89
+Mitch Keller|R|Albert Pujols|R|Groundout|F|Four-Seam Fastball|23|1|2|0|14|97
+Mitch Keller|R|Albert Pujols|R|Groundout|X|Slider|24|1|2|0|5|88
+Mitch Keller|R|Matt Thaiss|L|Strikeout|F|Four-Seam Fastball|25|0|0|1|4|96
+Mitch Keller|R|Matt Thaiss|L|Strikeout|F|Four-Seam Fastball|26|0|1|1|5|97
+Mitch Keller|R|Matt Thaiss|L|Strikeout|F|Curveball|27|0|2|1|8|82
+Mitch Keller|R|Matt Thaiss|L|Strikeout|B|Four-Seam Fastball|28|0|2|1|11|98
+Mitch Keller|R|Matt Thaiss|L|Strikeout|S|Four-Seam Fastball|29|1|2|1|2|96
+Mitch Keller|R|Luis Rengifo|L|Single|C|Four-Seam Fastball|30|0|0|2|9|96
+Mitch Keller|R|Luis Rengifo|L|Single|B|Changeup|31|0|1|2|13|92
+Mitch Keller|R|Luis Rengifo|L|Single|D|Four-Seam Fastball|32|1|1|2|11|97
+Mitch Keller|R|Max Stassi|R|Single|C|Slider|33|0|0|2|5|88
+Mitch Keller|R|Max Stassi|R|Single|B|Four-Seam Fastball|34|0|1|2|14|96
+Mitch Keller|R|Max Stassi|R|Single|D|Four-Seam Fastball|35|1|1|2|9|96
+Mitch Keller|R|Wilfredo Tovar|R|Lineout|X|Four-Seam Fastball|36|0|0|2|5|95
+Mitch Keller|R|Kole Calhoun|L|Strikeout|C|Curveball|37|0|0|0|1|80
+Mitch Keller|R|Kole Calhoun|L|Strikeout|S|Four-Seam Fastball|38|0|1|0|11|95
+Mitch Keller|R|Kole Calhoun|L|Strikeout|B|Four-Seam Fastball|39|0|2|0|11|95
+Mitch Keller|R|Kole Calhoun|L|Strikeout|F|Four-Seam Fastball|40|1|2|0|1|97
+Mitch Keller|R|Kole Calhoun|L|Strikeout|S|Curveball|41|1|2|0|13|82
+Mitch Keller|R|Mike Trout|R|Flyout|C|Four-Seam Fastball|42|0|0|1|13|96
+Mitch Keller|R|Mike Trout|R|Flyout|B|Slider|43|0|1|1|14|89
+Mitch Keller|R|Mike Trout|R|Flyout|F|Slider|44|1|1|1|14|89
+Mitch Keller|R|Mike Trout|R|Flyout|X|Four-Seam Fastball|45|1|2|1|1|96
+Mitch Keller|R|Shohei Ohtani|L|Groundout|B|Changeup|46|0|0|2|13|91
+Mitch Keller|R|Shohei Ohtani|L|Groundout|F|Four-Seam Fastball|47|1|0|2|4|96
+Mitch Keller|R|Shohei Ohtani|L|Groundout|B|Curveball|48|1|1|2|13|83
+Mitch Keller|R|Shohei Ohtani|L|Groundout|F|Four-Seam Fastball|49|2|1|2|6|97
+Mitch Keller|R|Shohei Ohtani|L|Groundout|F|Four-Seam Fastball|50|2|2|2|5|97
+Mitch Keller|R|Shohei Ohtani|L|Groundout|X|Changeup|51|2|2|2|5|93
+Mitch Keller|R|Justin Upton|R|Single|B|Four-Seam Fastball|52|0|0|0|14|95
+Mitch Keller|R|Justin Upton|R|Single|D|Four-Seam Fastball|53|1|0|0|4|95
+Mitch Keller|R|Albert Pujols|R|Strikeout|C|Slider|54|0|0|0|5|87
+Mitch Keller|R|Albert Pujols|R|Strikeout|B|Four-Seam Fastball|55|0|1|0|13|95
+Mitch Keller|R|Albert Pujols|R|Strikeout|C|Slider|56|1|1|0|5|87
+Mitch Keller|R|Albert Pujols|R|Strikeout|W|Slider|57|1|2|0|14|86
+Mitch Keller|R|Matt Thaiss|L|Single|*B|Curveball|58|0|0|1|14|81
+Mitch Keller|R|Matt Thaiss|L|Single|B|Changeup|59|1|0|1|13|90
+Mitch Keller|R|Matt Thaiss|L|Single|B|Four-Seam Fastball|60|2|0|1|13|96
+Mitch Keller|R|Matt Thaiss|L|Single|C|Four-Seam Fastball|61|3|0|1|6|96
+Mitch Keller|R|Matt Thaiss|L|Single|D|Four-Seam Fastball|62|3|1|1|6|95
+Mitch Keller|R|Luis Rengifo|L|Hit By Pitch|C|Curveball|63|0|0|1|7|80
+Mitch Keller|R|Luis Rengifo|L|Hit By Pitch|S|Curveball|64|0|1|1|7|81
+Mitch Keller|R|Luis Rengifo|L|Hit By Pitch|H|Curveball|65|0|2|1|14|81
+Mitch Keller|R|Max Stassi|R|Sac Fly|C|Slider|66|0|0|1|7|87
+Mitch Keller|R|Max Stassi|R|Sac Fly|S|Four-Seam Fastball|67|0|1|1|1|94
+Mitch Keller|R|Max Stassi|R|Sac Fly|B|Slider|68|0|2|1|14|88
+Mitch Keller|R|Max Stassi|R|Sac Fly|E|Four-Seam Fastball|69|1|2|1|12|95
+Mitch Keller|R|Wilfredo Tovar|R|Forceout|X|Curveball|70|0|0|2|4|81
+Mitch Keller|R|Kole Calhoun|L|Single|D|Four-Seam Fastball|71|0|0|0|4|95
+Mitch Keller|R|Mike Trout|R|Walk|*B|Curveball|72|0|0|0|14|81
+Mitch Keller|R|Mike Trout|R|Walk|*B|Slider|73|1|0|0|14|89
+Mitch Keller|R|Mike Trout|R|Walk|F|Four-Seam Fastball|74|2|0|0|8|96
+Mitch Keller|R|Mike Trout|R|Walk|F|Four-Seam Fastball|75|2|1|0|9|96
+Mitch Keller|R|Mike Trout|R|Walk|F|Curveball|76|2|2|0|9|82
+Mitch Keller|R|Mike Trout|R|Walk|*B|Four-Seam Fastball|77|2|2|0|14|97
+Mitch Keller|R|Mike Trout|R|Walk|B|Four-Seam Fastball|78|3|2|0|14|96
+Mitch Keller|R|Shohei Ohtani|L|Grounded Into DP|S|Curveball|79|0|0|0|14|81
+Mitch Keller|R|Shohei Ohtani|L|Grounded Into DP|F|Four-Seam Fastball|80|0|1|0|3|95
+Mitch Keller|R|Shohei Ohtani|L|Grounded Into DP|B|Four-Seam Fastball|81|0|2|0|11|96
+Mitch Keller|R|Shohei Ohtani|L|Grounded Into DP|X|Curveball|82|1|2|0|14|82
+Mitch Keller|R|Justin Upton|R|Field Error|B|Slider|83|0|0|2|14|89
+Mitch Keller|R|Justin Upton|R|Field Error|S|Slider|84|1|0|2|9|89
+Mitch Keller|R|Justin Upton|R|Field Error|B|Four-Seam Fastball|85|1|1|2|13|95
+Mitch Keller|R|Justin Upton|R|Field Error|F|Four-Seam Fastball|86|2|1|2|5|97
+Mitch Keller|R|Justin Upton|R|Field Error|*B|Curveball|87|2|2|2|13|83
+Mitch Keller|R|Justin Upton|R|Field Error|E|Slider|88|3|2|2|9|88
+Mitch Keller|R|Albert Pujols|R|Forceout|B|Four-Seam Fastball|89|0|0|2|13|94
+Mitch Keller|R|Albert Pujols|R|Forceout|F|Four-Seam Fastball|90|1|0|2|5|95
+Mitch Keller|R|Albert Pujols|R|Forceout|S|Slider|91|1|1|2|14|88
+Mitch Keller|R|Albert Pujols|R|Forceout|B|Slider|92|1|2|2|14|88
+Mitch Keller|R|Albert Pujols|R|Forceout|X|Slider|93|2|2|2|9|87
+Mitch Keller|R|Nick Senzel|R|Walk|C|N/A|0|0|0|0|0|0
+Mitch Keller|R|Nick Senzel|R|Walk|C|N/A|1|0|1|0|0|0
+Mitch Keller|R|Nick Senzel|R|Walk|B|N/A|2|0|2|0|0|0
+Mitch Keller|R|Nick Senzel|R|Walk|B|N/A|3|1|2|0|0|0
+Mitch Keller|R|Nick Senzel|R|Walk|B|N/A|4|2|2|0|0|0
+Mitch Keller|R|Nick Senzel|R|Walk|*B|N/A|5|3|2|0|0|0
+Mitch Keller|R|Jesse Winker|L|Single|B|N/A|6|0|0|0|0|0
+Mitch Keller|R|Jesse Winker|L|Single|F|N/A|7|1|0|0|0|0
+Mitch Keller|R|Jesse Winker|L|Single|C|N/A|8|1|1|0|0|0
+Mitch Keller|R|Jesse Winker|L|Single|D|N/A|9|1|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|F|N/A|10|0|0|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|F|N/A|11|0|1|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|B|N/A|12|0|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|B|N/A|13|1|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|B|N/A|14|2|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|F|N/A|15|3|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|F|N/A|16|3|2|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Walk|B|N/A|17|3|2|0|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|C|N/A|18|0|0|0|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|S|N/A|19|0|1|0|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|S|N/A|20|0|2|0|0|0
+Mitch Keller|R|Yasiel Puig|R|Single|E|N/A|21|0|0|1|0|0
+Mitch Keller|R|Jose Iglesias|R|Home Run|F|N/A|22|0|0|1|0|0
+Mitch Keller|R|Jose Iglesias|R|Home Run|B|N/A|23|0|1|1|0|0
+Mitch Keller|R|Jose Iglesias|R|Home Run|E|N/A|24|1|1|1|0|0
+Mitch Keller|R|Jose Peraza|R|Flyout|B|N/A|25|0|0|1|0|0
+Mitch Keller|R|Jose Peraza|R|Flyout|X|N/A|26|1|0|1|0|0
+Mitch Keller|R|Curt Casali|R|Fan Interference|B|N/A|27|0|0|2|0|0
+Mitch Keller|R|Curt Casali|R|Fan Interference|F|N/A|28|1|0|2|0|0
+Mitch Keller|R|Curt Casali|R|Fan Interference|F|N/A|29|1|1|2|0|0
+Mitch Keller|R|Curt Casali|R|Fan Interference|B|N/A|30|1|2|2|0|0
+Mitch Keller|R|Curt Casali|R|Fan Interference|D|N/A|31|2|2|2|0|0
+Mitch Keller|R|Sonny Gray|R|Single|B|N/A|32|0|0|2|0|0
+Mitch Keller|R|Sonny Gray|R|Single|D|N/A|33|1|0|2|0|0
+Mitch Keller|R|Nick Senzel|R|Single|E|N/A|34|0|0|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|C|N/A|35|0|0|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|F|N/A|36|0|1|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|B|N/A|37|0|2|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|F|N/A|38|1|2|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|F|N/A|39|1|2|2|0|0
+Mitch Keller|R|Jesse Winker|L|Strikeout|S|N/A|40|1|2|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Lineout|C|N/A|41|0|0|0|0|0
+Mitch Keller|R|Eugenio Suarez|R|Lineout|X|N/A|42|0|1|0|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|C|N/A|43|0|0|1|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|C|N/A|44|0|1|1|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|B|N/A|45|0|2|1|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|B|N/A|46|1|2|1|0|0
+Mitch Keller|R|Derek Dietrich|L|Strikeout|C|N/A|47|2|2|1|0|0
+Mitch Keller|R|Yasiel Puig|R|Strikeout|B|N/A|48|0|0|2|0|0
+Mitch Keller|R|Yasiel Puig|R|Strikeout|F|N/A|49|1|0|2|0|0
+Mitch Keller|R|Yasiel Puig|R|Strikeout|B|N/A|50|1|1|2|0|0
+Mitch Keller|R|Yasiel Puig|R|Strikeout|F|N/A|51|2|1|2|0|0
+Mitch Keller|R|Yasiel Puig|R|Strikeout|S|N/A|52|2|2|2|0|0
+Mitch Keller|R|Jose Iglesias|R|Groundout|C|N/A|53|0|0|0|0|0
+Mitch Keller|R|Jose Iglesias|R|Groundout|B|N/A|54|0|1|0|0|0
+Mitch Keller|R|Jose Iglesias|R|Groundout|C|N/A|55|1|1|0|0|0
+Mitch Keller|R|Jose Iglesias|R|Groundout|X|N/A|56|1|2|0|0|0
+Mitch Keller|R|Jose Peraza|R|Strikeout|B|N/A|57|0|0|1|0|0
+Mitch Keller|R|Jose Peraza|R|Strikeout|F|N/A|58|1|0|1|0|0
+Mitch Keller|R|Jose Peraza|R|Strikeout|S|N/A|59|1|1|1|0|0
+Mitch Keller|R|Jose Peraza|R|Strikeout|F|N/A|60|1|2|1|0|0
+Mitch Keller|R|Jose Peraza|R|Strikeout|S|N/A|61|1|2|1|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|F|N/A|62|0|0|2|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|S|N/A|63|0|1|2|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|B|N/A|64|0|2|2|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|F|N/A|65|1|2|2|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|F|N/A|66|1|2|2|0|0
+Mitch Keller|R|Curt Casali|R|Lineout|X|N/A|67|1|2|2|0|0
+Mitch Keller|R|Sonny Gray|R|Strikeout|B|N/A|68|0|0|0|0|0
+Mitch Keller|R|Sonny Gray|R|Strikeout|C|N/A|69|1|0|0|0|0
+Mitch Keller|R|Sonny Gray|R|Strikeout|F|N/A|70|1|1|0|0|0
+Mitch Keller|R|Sonny Gray|R|Strikeout|S|N/A|71|1|2|0|0|0
+Mitch Keller|R|Nick Senzel|R|Flyout|X|N/A|72|0|0|1|0|0
+Mitch Keller|R|Jesse Winker|L|Single|B|N/A|73|0|0|2|0|0
+Mitch Keller|R|Jesse Winker|L|Single|C|N/A|74|1|0|2|0|0
+Mitch Keller|R|Jesse Winker|L|Single|F|N/A|75|1|1|2|0|0
+Mitch Keller|R|Jesse Winker|L|Single|D|N/A|76|1|2|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|N/A|77|0|0|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|C|N/A|78|1|0|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|N/A|79|1|1|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|N/A|80|2|1|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|F|N/A|81|3|1|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|F|N/A|82|3|2|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|F|N/A|83|3|2|2|0|0
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|C|N/A|84|3|2|2|0|0
+Mitch Keller|R|Niko Goodrum|L|Flyout|B|Four-Seam Fastball|0|0|0|0|14|94
+Mitch Keller|R|Niko Goodrum|L|Flyout|X|Four-Seam Fastball|1|1|0|0|9|95
+Mitch Keller|R|Nick Castellanos|R|Walk|B|Four-Seam Fastball|2|0|0|1|14|96
+Mitch Keller|R|Nick Castellanos|R|Walk|S|Slider|3|1|0|1|14|89
+Mitch Keller|R|Nick Castellanos|R|Walk|B|Four-Seam Fastball|4|1|1|1|14|94
+Mitch Keller|R|Nick Castellanos|R|Walk|C|Four-Seam Fastball|5|2|1|1|9|96
+Mitch Keller|R|Nick Castellanos|R|Walk|B|Four-Seam Fastball|6|2|2|1|14|97
+Mitch Keller|R|Nick Castellanos|R|Walk|F|Four-Seam Fastball|7|3|2|1|9|95
+Mitch Keller|R|Nick Castellanos|R|Walk|F|Four-Seam Fastball|8|3|2|1|1|95
+Mitch Keller|R|Nick Castellanos|R|Walk|F|Four-Seam Fastball|9|3|2|1|2|96
+Mitch Keller|R|Nick Castellanos|R|Walk|B|Curveball|10|3|2|1|11|79
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|C|Four-Seam Fastball|11|0|0|1|1|94
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|C|Four-Seam Fastball|12|0|1|1|13|94
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|B|Four-Seam Fastball|13|0|2|1|13|95
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|F|Four-Seam Fastball|14|1|2|1|6|96
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|B|Four-Seam Fastball|15|1|2|1|11|95
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|*B|Slider|16|2|2|1|14|89
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|F|Four-Seam Fastball|17|3|2|1|8|96
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|F|Four-Seam Fastball|18|3|2|1|2|95
+Mitch Keller|R|Miguel Cabrera|R|Strikeout|S|Four-Seam Fastball|19|3|2|1|12|95
+Mitch Keller|R|Christin Stewart|L|Flyout|C|Four-Seam Fastball|20|0|0|2|8|96
+Mitch Keller|R|Christin Stewart|L|Flyout|S|Curveball|21|0|1|2|14|83
+Mitch Keller|R|Christin Stewart|L|Flyout|B|Curveball|22|0|2|2|14|83
+Mitch Keller|R|Christin Stewart|L|Flyout|B|Curveball|23|1|2|2|13|82
+Mitch Keller|R|Christin Stewart|L|Flyout|X|Four-Seam Fastball|24|2|2|2|6|95
+Mitch Keller|R|Brandon Dixon|R|Pop Out|S|Four-Seam Fastball|25|0|0|0|3|94
+Mitch Keller|R|Brandon Dixon|R|Pop Out|X|Four-Seam Fastball|26|0|1|0|11|94
+Mitch Keller|R|Harold Castro|L|Single|B|Four-Seam Fastball|27|0|0|1|11|95
+Mitch Keller|R|Harold Castro|L|Single|C|Changeup|28|1|0|1|1|90
+Mitch Keller|R|Harold Castro|L|Single|D|Four-Seam Fastball|29|1|1|1|6|96
+Mitch Keller|R|John Hicks|R|Strikeout|C|Four-Seam Fastball|30|0|0|1|3|94
+Mitch Keller|R|John Hicks|R|Strikeout|B|Slider|31|0|1|1|11|87
+Mitch Keller|R|John Hicks|R|Strikeout|F|Four-Seam Fastball|32|1|1|1|5|94
+Mitch Keller|R|John Hicks|R|Strikeout|F|Four-Seam Fastball|33|1|2|1|3|96
+Mitch Keller|R|John Hicks|R|Strikeout|*B|Slider|34|1|2|1|14|89
+Mitch Keller|R|John Hicks|R|Strikeout|S|Slider|35|2|2|1|14|89
+Mitch Keller|R|JaCoby Jones|R|Caught Stealing 2B|C|Slider|36|0|0|2|6|87
+Mitch Keller|R|JaCoby Jones|R|Caught Stealing 2B|B|Four-Seam Fastball|37|0|1|2|14|96
+Mitch Keller|R|JaCoby Jones|R|Caught Stealing 2B|B|Four-Seam Fastball|38|1|1|2|11|94
+Mitch Keller|R|JaCoby Jones|R|Strikeout|S|Four-Seam Fastball|39|0|0|0|3|94
+Mitch Keller|R|JaCoby Jones|R|Strikeout|F|Four-Seam Fastball|40|0|1|0|1|93
+Mitch Keller|R|JaCoby Jones|R|Strikeout|B|Curveball|41|0|2|0|13|81
+Mitch Keller|R|JaCoby Jones|R|Strikeout|S|Slider|42|1|2|0|9|87
+Mitch Keller|R|Daniel Norris|L|Strikeout|C|Four-Seam Fastball|43|0|0|1|6|94
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Four-Seam Fastball|44|0|1|1|14|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|S|Four-Seam Fastball|45|1|1|1|11|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|F|Four-Seam Fastball|46|1|2|1|1|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Curveball|47|1|2|1|11|80
+Mitch Keller|R|Daniel Norris|L|Strikeout|F|Four-Seam Fastball|48|2|2|1|4|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|F|Four-Seam Fastball|49|2|2|1|4|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Slider|50|2|2|1|14|88
+Mitch Keller|R|Daniel Norris|L|Strikeout|S|Four-Seam Fastball|51|3|2|1|2|95
+Mitch Keller|R|Niko Goodrum|L|Walk|B|Changeup|52|0|0|2|13|90
+Mitch Keller|R|Niko Goodrum|L|Walk|B|Changeup|53|1|0|2|14|91
+Mitch Keller|R|Niko Goodrum|L|Walk|B|Four-Seam Fastball|54|2|0|2|11|96
+Mitch Keller|R|Niko Goodrum|L|Walk|B|Four-Seam Fastball|55|3|0|2|11|95
+Mitch Keller|R|Nick Castellanos|R|Double|T|Four-Seam Fastball|56|0|0|2|4|96
+Mitch Keller|R|Nick Castellanos|R|Double|F|Four-Seam Fastball|57|0|1|2|11|96
+Mitch Keller|R|Nick Castellanos|R|Double|E|Four-Seam Fastball|58|0|2|2|4|97
+Mitch Keller|R|Miguel Cabrera|R|Single|B|Slider|59|0|0|2|14|87
+Mitch Keller|R|Miguel Cabrera|R|Single|E|Four-Seam Fastball|60|1|0|2|4|94
+Mitch Keller|R|Christin Stewart|L|Pop Out|B|Four-Seam Fastball|61|0|0|2|13|94
+Mitch Keller|R|Christin Stewart|L|Pop Out|X|Slider|62|1|0|2|7|87
+Mitch Keller|R|Brandon Dixon|R|Single|C|Four-Seam Fastball|63|0|0|0|6|95
+Mitch Keller|R|Brandon Dixon|R|Single|D|Curveball|64|0|1|0|9|81
+Mitch Keller|R|Harold Castro|L|Sac Bunt|D|Four-Seam Fastball|65|0|0|0|1|94
+Mitch Keller|R|John Hicks|R|Field Error|B|Slider|66|0|0|0|11|86
+Mitch Keller|R|John Hicks|R|Field Error|E|Slider|67|1|0|0|6|86
+Mitch Keller|R|JaCoby Jones|R|Pop Out|C|Four-Seam Fastball|68|0|0|1|12|95
+Mitch Keller|R|JaCoby Jones|R|Pop Out|B|Four-Seam Fastball|69|0|1|1|12|95
+Mitch Keller|R|JaCoby Jones|R|Pop Out|B|Slider|70|1|1|1|14|87
+Mitch Keller|R|JaCoby Jones|R|Pop Out|X|Four-Seam Fastball|71|2|1|1|11|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|C|Four-Seam Fastball|72|0|0|2|9|94
+Mitch Keller|R|Daniel Norris|L|Strikeout|F|Four-Seam Fastball|73|0|1|2|6|94
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Four-Seam Fastball|74|0|2|2|12|95
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Curveball|75|1|2|2|14|80
+Mitch Keller|R|Daniel Norris|L|Strikeout|F|Four-Seam Fastball|76|2|2|2|2|96
+Mitch Keller|R|Daniel Norris|L|Strikeout|B|Four-Seam Fastball|77|2|2|2|11|94
+Mitch Keller|R|Daniel Norris|L|Strikeout|S|Four-Seam Fastball|78|3|2|2|12|94
+Mitch Keller|R|Niko Goodrum|L|Strikeout|C|Four-Seam Fastball|79|0|0|0|8|93
+Mitch Keller|R|Niko Goodrum|L|Strikeout|S|Four-Seam Fastball|80|0|1|0|7|94
+Mitch Keller|R|Niko Goodrum|L|Strikeout|S|Four-Seam Fastball|81|0|2|0|4|95
+Mitch Keller|R|Nick Castellanos|R|Groundout|B|Curveball|82|0|0|1|13|80
+Mitch Keller|R|Nick Castellanos|R|Groundout|S|Slider|83|1|0|1|14|87
+Mitch Keller|R|Nick Castellanos|R|Groundout|S|Slider|84|1|1|1|14|88
+Mitch Keller|R|Nick Castellanos|R|Groundout|F|Slider|85|1|2|1|5|88
+Mitch Keller|R|Nick Castellanos|R|Groundout|F|Four-Seam Fastball|86|1|2|1|1|96
+Mitch Keller|R|Nick Castellanos|R|Groundout|X|Slider|87|1|2|1|14|88
+Mitch Keller|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|88|0|0|2|6|95
+Mitch Keller|R|Miguel Cabrera|R|Groundout|B|Four-Seam Fastball|89|0|1|2|11|96
+Mitch Keller|R|Miguel Cabrera|R|Groundout|B|Slider|90|1|1|2|14|87
+Mitch Keller|R|Miguel Cabrera|R|Groundout|F|Four-Seam Fastball|91|2|1|2|1|94
+Mitch Keller|R|Miguel Cabrera|R|Groundout|X|Curveball|92|2|2|2|4|81
+Mitch Keller|R|Jason Heyward|L|Strikeout|F|N/A|0|0|0|0|0|0
+Mitch Keller|R|Jason Heyward|L|Strikeout|C|N/A|1|0|1|0|0|0
+Mitch Keller|R|Jason Heyward|L|Strikeout|B|N/A|2|0|2|0|0|0
+Mitch Keller|R|Jason Heyward|L|Strikeout|S|N/A|3|1|2|0|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|B|N/A|4|0|0|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|B|N/A|5|1|0|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|C|N/A|6|2|0|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|F|N/A|7|2|1|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|F|N/A|8|2|2|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|F|N/A|9|2|2|1|0|0
+Mitch Keller|R|Nick Castellanos|R|Home Run|E|N/A|10|2|2|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|F|N/A|11|0|0|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|B|N/A|12|0|1|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|B|N/A|13|1|1|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|C|N/A|14|2|1|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|F|N/A|15|2|2|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|B|N/A|16|2|2|1|0|0
+Mitch Keller|R|Kris Bryant|R|Strikeout|S|N/A|17|3|2|1|0|0
+Mitch Keller|R|Anthony Rizzo|L|Groundout|F|N/A|18|0|0|2|0|0
+Mitch Keller|R|Anthony Rizzo|L|Groundout|X|N/A|19|0|1|2|0|0
+Mitch Keller|R|Javier Baez|R|Strikeout|B|N/A|20|0|0|0|0|0
+Mitch Keller|R|Javier Baez|R|Strikeout|S|N/A|21|1|0|0|0|0
+Mitch Keller|R|Javier Baez|R|Strikeout|F|N/A|22|1|1|0|0|0
+Mitch Keller|R|Javier Baez|R|Strikeout|S|N/A|23|1|2|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|F|N/A|24|0|0|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|S|N/A|25|0|1|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|B|N/A|26|0|2|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|B|N/A|27|1|2|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|B|N/A|28|2|2|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|F|N/A|29|3|2|1|0|0
+Mitch Keller|R|Kyle Schwarber|L|Groundout|X|N/A|30|3|2|1|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|B|N/A|31|0|0|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|B|N/A|32|1|0|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|F|N/A|33|2|0|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|F|N/A|34|2|1|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|F|N/A|35|2|2|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|B|N/A|36|2|2|2|0|0
+Mitch Keller|R|Victor Caratini|L|Groundout|X|N/A|37|3|2|2|0|0
+Mitch Keller|R|Tony Kemp|L|Flyout|B|N/A|38|0|0|0|0|0
+Mitch Keller|R|Tony Kemp|L|Flyout|B|N/A|39|1|0|0|0|0
+Mitch Keller|R|Tony Kemp|L|Flyout|B|N/A|40|2|0|0|0|0
+Mitch Keller|R|Tony Kemp|L|Flyout|C|N/A|41|3|0|0|0|0
+Mitch Keller|R|Tony Kemp|L|Flyout|X|N/A|42|3|1|0|0|0
+Mitch Keller|R|Jose Quintana|R|Strikeout|B|N/A|43|0|0|1|0|0
+Mitch Keller|R|Jose Quintana|R|Strikeout|S|N/A|44|1|0|1|0|0
+Mitch Keller|R|Jose Quintana|R|Strikeout|C|N/A|45|1|1|1|0|0
+Mitch Keller|R|Jose Quintana|R|Strikeout|C|N/A|46|1|2|1|0|0
+Mitch Keller|R|Jason Heyward|L|Home Run|B|N/A|47|0|0|2|0|0
+Mitch Keller|R|Jason Heyward|L|Home Run|E|N/A|48|1|0|2|0|0
+Mitch Keller|R|Nick Castellanos|R|Single|D|N/A|49|0|0|2|0|0
+Mitch Keller|R|Kris Bryant|R|Pop Out|B|N/A|50|0|0|2|0|0
+Mitch Keller|R|Kris Bryant|R|Pop Out|B|N/A|51|1|0|2|0|0
+Mitch Keller|R|Kris Bryant|R|Pop Out|F|N/A|52|2|0|2|0|0
+Mitch Keller|R|Kris Bryant|R|Pop Out|X|N/A|53|2|1|2|0|0
+Mitch Keller|R|Anthony Rizzo|L|Walk|C|N/A|54|0|0|0|0|0
+Mitch Keller|R|Anthony Rizzo|L|Walk|B|N/A|55|0|1|0|0|0
+Mitch Keller|R|Anthony Rizzo|L|Walk|B|N/A|56|1|1|0|0|0
+Mitch Keller|R|Anthony Rizzo|L|Walk|B|N/A|57|2|1|0|0|0
+Mitch Keller|R|Anthony Rizzo|L|Walk|B|N/A|58|3|1|0|0|0
+Mitch Keller|R|Javier Baez|R|Double|D|N/A|59|0|0|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|B|N/A|60|0|0|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|F|N/A|61|1|0|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|*B|N/A|62|1|1|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|B|N/A|63|2|1|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|F|N/A|64|3|1|0|0|0
+Mitch Keller|R|Kyle Schwarber|L|Single|E|N/A|65|3|2|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|B|N/A|66|0|0|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|S|N/A|67|1|0|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|F|N/A|68|1|1|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|B|N/A|69|1|2|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|B|N/A|70|2|2|0|0|0
+Mitch Keller|R|Victor Caratini|L|Walk|B|N/A|71|3|2|0|0|0
+Mitch Keller|R|Tony Kemp|L|Lineout|C|N/A|72|0|0|1|0|0
+Mitch Keller|R|Tony Kemp|L|Lineout|B|N/A|73|0|1|1|0|0
+Mitch Keller|R|Tony Kemp|L|Lineout|B|N/A|74|1|1|1|0|0
+Mitch Keller|R|Tony Kemp|L|Lineout|F|N/A|75|2|1|1|0|0
+Mitch Keller|R|Tony Kemp|L|Lineout|X|N/A|76|2|2|1|0|0
+Mitch Keller|R|Jose Quintana|R|Groundout|C|N/A|77|0|0|2|0|0
+Mitch Keller|R|Jose Quintana|R|Groundout|B|N/A|78|0|1|2|0|0
+Mitch Keller|R|Jose Quintana|R|Groundout|X|N/A|79|1|1|2|0|0
+Mitch Keller|R|Jason Heyward|L|Double|C|N/A|80|0|0|0|0|0
+Mitch Keller|R|Jason Heyward|L|Double|F|N/A|81|0|1|0|0|0
+Mitch Keller|R|Jason Heyward|L|Double|F|N/A|82|0|2|0|0|0
+Mitch Keller|R|Jason Heyward|L|Double|D|N/A|83|0|2|0|0|0
+Mitch Keller|R|Nick Castellanos|R|Strikeout|C|N/A|84|0|0|0|0|0
+Mitch Keller|R|Nick Castellanos|R|Strikeout|*B|N/A|85|0|1|0|0|0
+Mitch Keller|R|Nick Castellanos|R|Strikeout|W|N/A|86|1|1|0|0|0
+Mitch Keller|R|Nick Castellanos|R|Strikeout|C|N/A|87|1|2|0|0|0
+Mitch Keller|R|Kris Bryant|R|Double|B|N/A|88|0|0|1|0|0
+Mitch Keller|R|Kris Bryant|R|Double|F|N/A|89|1|0|1|0|0
+Mitch Keller|R|Kris Bryant|R|Double|B|N/A|90|1|1|1|0|0
+Mitch Keller|R|Kris Bryant|R|Double|F|N/A|91|2|1|1|0|0
+Mitch Keller|R|Kris Bryant|R|Double|E|N/A|92|2|2|1|0|0
+Mitch Keller|R|Josh VanMeter|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|94
+Mitch Keller|R|Josh VanMeter|L|Groundout|B|Curveball|1|0|1|0|14|80
+Mitch Keller|R|Josh VanMeter|L|Groundout|C|Four-Seam Fastball|2|1|1|0|7|95
+Mitch Keller|R|Josh VanMeter|L|Groundout|F|Four-Seam Fastball|3|1|2|0|12|95
+Mitch Keller|R|Josh VanMeter|L|Groundout|X|Curveball|4|1|2|0|8|81
+Mitch Keller|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|95
+Mitch Keller|R|Freddy Galvis|L|Strikeout|F|Four-Seam Fastball|6|1|0|1|8|95
+Mitch Keller|R|Freddy Galvis|L|Strikeout|S|Slider|7|1|1|1|12|87
+Mitch Keller|R|Freddy Galvis|L|Strikeout|S|Four-Seam Fastball|8|1|2|1|12|96
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|C|Slider|9|0|0|2|2|87
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|10|0|1|2|12|96
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|11|0|2|2|11|95
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|12|1|2|2|14|96
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|S|Slider|13|2|2|2|14|87
+Mitch Keller|R|Aristides Aquino|R|Home Run|B|Curveball|14|0|0|0|14|79
+Mitch Keller|R|Aristides Aquino|R|Home Run|E|Slider|15|1|0|0|8|84
+Mitch Keller|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|16|0|0|0|11|94
+Mitch Keller|R|Tucker Barnhart|L|Walk|F|Four-Seam Fastball|17|1|0|0|2|95
+Mitch Keller|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|18|1|1|0|11|95
+Mitch Keller|R|Tucker Barnhart|L|Walk|F|Slider|19|2|1|0|6|86
+Mitch Keller|R|Tucker Barnhart|L|Walk|B|Four-Seam Fastball|20|2|2|0|14|96
+Mitch Keller|R|Tucker Barnhart|L|Walk|B|Slider|21|3|2|0|14|87
+Mitch Keller|R|Jose Iglesias|R|Grounded Into DP|F|Four-Seam Fastball|22|0|0|0|11|94
+Mitch Keller|R|Jose Iglesias|R|Grounded Into DP|B|Four-Seam Fastball|23|0|1|0|14|95
+Mitch Keller|R|Jose Iglesias|R|Grounded Into DP|F|Four-Seam Fastball|24|1|1|0|5|95
+Mitch Keller|R|Jose Iglesias|R|Grounded Into DP|X|Slider|25|1|2|0|14|87
+Mitch Keller|R|Derek Dietrich|L|Flyout|C|Curveball|26|0|0|2|7|80
+Mitch Keller|R|Derek Dietrich|L|Flyout|X|Four-Seam Fastball|27|0|1|2|4|95
+Mitch Keller|R|Nick Senzel|R|Flyout|S|Slider|28|0|0|0|9|86
+Mitch Keller|R|Nick Senzel|R|Flyout|X|Slider|29|0|1|0|5|87
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|F|Four-Seam Fastball|30|0|0|1|4|93
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|F|Four-Seam Fastball|31|0|1|1|7|95
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|B|Four-Seam Fastball|32|0|2|1|11|94
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|W|Curveball|33|1|2|1|14|80
+Mitch Keller|R|Josh VanMeter|L|Single|C|Four-Seam Fastball|34|0|0|2|13|95
+Mitch Keller|R|Josh VanMeter|L|Single|B|Changeup|35|0|1|2|13|92
+Mitch Keller|R|Josh VanMeter|L|Single|B|Changeup|36|1|1|2|11|91
+Mitch Keller|R|Josh VanMeter|L|Single|F|Four-Seam Fastball|37|2|1|2|5|95
+Mitch Keller|R|Josh VanMeter|L|Single|D|Four-Seam Fastball|38|2|2|2|4|96
+Mitch Keller|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|39|0|0|2|14|94
+Mitch Keller|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|40|1|0|2|12|94
+Mitch Keller|R|Freddy Galvis|L|Strikeout|S|Four-Seam Fastball|41|2|0|2|5|95
+Mitch Keller|R|Freddy Galvis|L|Strikeout|S|Slider|42|2|1|2|14|88
+Mitch Keller|R|Freddy Galvis|L|Strikeout|F|Slider|43|2|2|2|5|87
+Mitch Keller|R|Freddy Galvis|L|Strikeout|S|Curveball|44|2|2|2|14|82
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|S|Four-Seam Fastball|45|0|0|0|3|94
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|46|0|1|0|1|93
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|T|Slider|47|0|2|0|6|87
+Mitch Keller|R|Aristides Aquino|R|Single|S|Four-Seam Fastball|48|0|0|1|1|93
+Mitch Keller|R|Aristides Aquino|R|Single|B|Four-Seam Fastball|49|0|1|1|11|93
+Mitch Keller|R|Aristides Aquino|R|Single|D|Curveball|50|1|1|1|6|81
+Mitch Keller|R|Tucker Barnhart|L|Groundout|C|Curveball|51|0|0|1|3|81
+Mitch Keller|R|Tucker Barnhart|L|Groundout|F|Four-Seam Fastball|52|0|1|1|4|95
+Mitch Keller|R|Tucker Barnhart|L|Groundout|X|Slider|53|0|2|1|14|88
+Mitch Keller|R|Jose Iglesias|R|Flyout|S|Slider|54|0|0|2|9|87
+Mitch Keller|R|Jose Iglesias|R|Flyout|X|Four-Seam Fastball|55|0|1|2|5|96
+Mitch Keller|R|Derek Dietrich|L|Flyout|S|Four-Seam Fastball|56|0|0|0|5|93
+Mitch Keller|R|Derek Dietrich|L|Flyout|X|Four-Seam Fastball|57|0|1|0|6|93
+Mitch Keller|R|Nick Senzel|R|Strikeout|C|Curveball|58|0|0|1|7|79
+Mitch Keller|R|Nick Senzel|R|Strikeout|C|Four-Seam Fastball|59|0|1|1|9|95
+Mitch Keller|R|Nick Senzel|R|Strikeout|S|Slider|60|0|2|1|14|88
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|C|Four-Seam Fastball|61|0|0|2|9|93
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|B|Curveball|62|0|1|2|11|78
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|F|Four-Seam Fastball|63|1|1|2|6|93
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|B|Slider|64|1|2|2|14|87
+Mitch Keller|R|Anthony DeSclafani|R|Strikeout|W|Slider|65|2|2|2|14|86
+Mitch Keller|R|Josh VanMeter|L|Strikeout|C|Curveball|66|0|0|0|13|79
+Mitch Keller|R|Josh VanMeter|L|Strikeout|F|Four-Seam Fastball|67|0|1|0|1|94
+Mitch Keller|R|Josh VanMeter|L|Strikeout|W|Curveball|68|0|2|0|14|80
+Mitch Keller|R|Freddy Galvis|L|Single|F|Four-Seam Fastball|69|0|0|1|1|93
+Mitch Keller|R|Freddy Galvis|L|Single|B|Slider|70|0|1|1|14|88
+Mitch Keller|R|Freddy Galvis|L|Single|B|Slider|71|1|1|1|12|86
+Mitch Keller|R|Freddy Galvis|L|Single|D|Four-Seam Fastball|72|2|1|1|11|93
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|F|Slider|73|0|0|1|9|88
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|S|Slider|74|0|1|1|14|87
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|75|0|2|1|12|93
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|B|Four-Seam Fastball|76|1|2|1|12|94
+Mitch Keller|R|Eugenio Suarez|R|Strikeout|S|Slider|77|2|2|1|14|88
+Mitch Keller|R|Aristides Aquino|R|Flyout|S|Slider|78|0|0|2|14|87
+Mitch Keller|R|Aristides Aquino|R|Flyout|B|Four-Seam Fastball|79|0|1|2|11|93
+Mitch Keller|R|Aristides Aquino|R|Flyout|F|Four-Seam Fastball|80|1|1|2|3|95
+Mitch Keller|R|Aristides Aquino|R|Flyout|*B|Slider|81|1|2|2|14|88
+Mitch Keller|R|Aristides Aquino|R|Flyout|F|Four-Seam Fastball|82|2|2|2|1|96
+Mitch Keller|R|Aristides Aquino|R|Flyout|X|Four-Seam Fastball|83|2|2|2|1|93
+Mitch Keller|R|Tucker Barnhart|L|Double|C|Slider|84|0|0|0|7|86
+Mitch Keller|R|Tucker Barnhart|L|Double|B|Curveball|85|0|1|0|14|80
+Mitch Keller|R|Tucker Barnhart|L|Double|F|N/A|86|1|1|0|0|0
+Mitch Keller|R|Tucker Barnhart|L|Double|B|Slider|87|1|2|0|14|87
+Mitch Keller|R|Tucker Barnhart|L|Double|D|Four-Seam Fastball|88|2|2|0|4|94
+Mitch Keller|R|Jose Iglesias|R|Single|C|Slider|89|0|0|0|5|86
+Mitch Keller|R|Jose Iglesias|R|Single|D|Slider|90|0|1|0|8|87
+Mitch Keller|R|Jon Berti|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|95
+Mitch Keller|R|Jon Berti|R|Strikeout|S|Slider|1|0|1|0|14|88
+Mitch Keller|R|Jon Berti|R|Strikeout|F|Four-Seam Fastball|2|0|2|0|11|94
+Mitch Keller|R|Jon Berti|R|Strikeout|W|Curveball|3|0|2|0|14|82
+Mitch Keller|R|Miguel Rojas|R|Groundout|C|Four-Seam Fastball|4|0|0|1|14|96
+Mitch Keller|R|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|5|0|1|1|12|96
+Mitch Keller|R|Miguel Rojas|R|Groundout|S|Slider|6|1|1|1|13|87
+Mitch Keller|R|Miguel Rojas|R|Groundout|X|Slider|7|1|2|1|6|89
+Mitch Keller|R|Starlin Castro|R|Strikeout|C|Curveball|8|0|0|2|9|82
+Mitch Keller|R|Starlin Castro|R|Strikeout|B|Curveball|9|0|1|2|14|82
+Mitch Keller|R|Starlin Castro|R|Strikeout|B|Four-Seam Fastball|10|1|1|2|14|96
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|11|2|1|2|5|96
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|12|2|2|2|4|95
+Mitch Keller|R|Starlin Castro|R|Strikeout|B|Curveball|13|2|2|2|14|83
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Slider|14|3|2|2|7|88
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Slider|15|3|2|2|8|88
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Four-Seam Fastball|16|3|2|2|12|97
+Mitch Keller|R|Starlin Castro|R|Strikeout|F|Curveball|17|3|2|2|9|81
+Mitch Keller|R|Starlin Castro|R|Strikeout|S|Four-Seam Fastball|18|3|2|2|11|96
+Mitch Keller|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|19|0|0|0|14|95
+Mitch Keller|R|Neil Walker|L|Strikeout|B|Curveball|20|1|0|0|14|80
+Mitch Keller|R|Neil Walker|L|Strikeout|B|Four-Seam Fastball|21|2|0|0|11|95
+Mitch Keller|R|Neil Walker|L|Strikeout|C|Four-Seam Fastball|22|3|0|0|6|94
+Mitch Keller|R|Neil Walker|L|Strikeout|F|Four-Seam Fastball|23|3|1|0|1|95
+Mitch Keller|R|Neil Walker|L|Strikeout|C|Four-Seam Fastball|24|3|2|0|7|96
+Mitch Keller|R|Garrett Cooper|R|Lineout|X|Slider|25|0|0|1|8|88
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|2|95
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|2|94
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|F|Four-Seam Fastball|2|0|2|0|3|97
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|W|Curveball|3|0|2|0|13|82
+Mitch Keller|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|4|0|0|1|11|95
+Mitch Keller|R|J.P. Crawford|L|Walk|C|Four-Seam Fastball|5|1|0|1|1|95
+Mitch Keller|R|J.P. Crawford|L|Walk|B|Changeup|6|1|1|1|14|91
+Mitch Keller|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|7|2|1|1|11|95
+Mitch Keller|R|J.P. Crawford|L|Walk|B|Four-Seam Fastball|8|3|1|1|11|95
+Mitch Keller|R|Kyle Seager|L|Grounded Into DP|L|Four-Seam Fastball|9|0|0|1|5|94
+Mitch Keller|R|Kyle Seager|L|Grounded Into DP|B|Curveball|10|0|1|1|13|80
+Mitch Keller|R|Kyle Seager|L|Grounded Into DP|B|Four-Seam Fastball|11|1|1|1|11|95
+Mitch Keller|R|Kyle Seager|L|Grounded Into DP|F|Four-Seam Fastball|12|2|1|1|1|94
+Mitch Keller|R|Kyle Seager|L|Grounded Into DP|X|Slider|13|2|2|1|14|88
+Mitch Keller|R|Kyle Lewis|R|Strikeout|B|Slider|14|0|0|0|13|88
+Mitch Keller|R|Kyle Lewis|R|Strikeout|C|Four-Seam Fastball|15|1|0|0|14|95
+Mitch Keller|R|Kyle Lewis|R|Strikeout|S|Four-Seam Fastball|16|1|1|0|5|93
+Mitch Keller|R|Kyle Lewis|R|Strikeout|B|Four-Seam Fastball|17|1|2|0|3|94
+Mitch Keller|R|Kyle Lewis|R|Strikeout|B|Four-Seam Fastball|18|2|2|0|14|96
+Mitch Keller|R|Kyle Lewis|R|Strikeout|F|Slider|19|3|2|0|14|88
+Mitch Keller|R|Kyle Lewis|R|Strikeout|S|Four-Seam Fastball|20|3|2|0|5|97
+Mitch Keller|R|Omar Narvaez|L|Single|D|Four-Seam Fastball|21|0|0|1|6|95
+Mitch Keller|R|Austin Nola|R|Double|B|Four-Seam Fastball|22|0|0|1|14|94
+Mitch Keller|R|Austin Nola|R|Double|*B|Slider|23|1|0|1|14|87
+Mitch Keller|R|Austin Nola|R|Double|D|Four-Seam Fastball|24|2|0|1|6|95
+Mitch Keller|R|Dee Gordon|L|Sac Fly|C|Four-Seam Fastball|25|0|0|1|13|95
+Mitch Keller|R|Dee Gordon|L|Sac Fly|F|Curveball|26|0|1|1|14|82
+Mitch Keller|R|Dee Gordon|L|Sac Fly|*B|Curveball|27|0|2|1|14|81
+Mitch Keller|R|Dee Gordon|L|Sac Fly|E|Curveball|28|1|2|1|13|82
+Mitch Keller|R|Mallex Smith|L|Groundout|F|Slider|29|0|0|2|8|87
+Mitch Keller|R|Mallex Smith|L|Groundout|B|Four-Seam Fastball|30|0|1|2|14|96
+Mitch Keller|R|Mallex Smith|L|Groundout|B|Four-Seam Fastball|31|1|1|2|11|94
+Mitch Keller|R|Mallex Smith|L|Groundout|X|Curveball|32|2|1|2|5|80
+Mitch Keller|R|Marco Gonzales|L|Strikeout|B|Four-Seam Fastball|33|0|0|0|12|93
+Mitch Keller|R|Marco Gonzales|L|Strikeout|F|Four-Seam Fastball|34|1|0|0|6|93
+Mitch Keller|R|Marco Gonzales|L|Strikeout|B|Four-Seam Fastball|35|1|1|0|11|92
+Mitch Keller|R|Marco Gonzales|L|Strikeout|B|Four-Seam Fastball|36|2|1|0|11|92
+Mitch Keller|R|Marco Gonzales|L|Strikeout|F|Four-Seam Fastball|37|3|1|0|3|94
+Mitch Keller|R|Marco Gonzales|L|Strikeout|C|Four-Seam Fastball|38|3|2|0|8|95
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|C|Curveball|39|0|0|1|5|80
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|B|Slider|40|0|1|1|14|86
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|F|Four-Seam Fastball|41|1|1|1|1|94
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|B|Four-Seam Fastball|42|1|2|1|11|95
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|F|Slider|43|2|2|1|2|86
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|B|Curveball|44|2|2|1|14|81
+Mitch Keller|R|Shed Long Jr.|L|Strikeout|C|Curveball|45|3|2|1|13|80
+Mitch Keller|R|J.P. Crawford|L|Single|C|Four-Seam Fastball|46|0|0|2|7|95
+Mitch Keller|R|J.P. Crawford|L|Single|B|Four-Seam Fastball|47|0|1|2|14|95
+Mitch Keller|R|J.P. Crawford|L|Single|D|Four-Seam Fastball|48|1|1|2|5|95
+Mitch Keller|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|49|0|0|2|11|94
+Mitch Keller|R|Kyle Seager|L|Walk|C|Four-Seam Fastball|50|1|0|2|13|93
+Mitch Keller|R|Kyle Seager|L|Walk|B|Changeup|51|1|1|2|13|90
+Mitch Keller|R|Kyle Seager|L|Walk|*B|Changeup|52|2|1|2|13|90
+Mitch Keller|R|Kyle Seager|L|Walk|B|Curveball|53|3|1|2|11|80
+Mitch Keller|R|Kyle Lewis|R|Groundout|B|Slider|54|0|0|2|14|87
+Mitch Keller|R|Kyle Lewis|R|Groundout|*B|Curveball|55|1|0|2|14|80
+Mitch Keller|R|Kyle Lewis|R|Groundout|F|Four-Seam Fastball|56|2|0|2|6|95
+Mitch Keller|R|Kyle Lewis|R|Groundout|F|Four-Seam Fastball|57|2|1|2|14|96
+Mitch Keller|R|Kyle Lewis|R|Groundout|X|Curveball|58|2|2|2|14|81
+Mitch Keller|R|Omar Narvaez|L|Bunt Groundout|X|Slider|59|0|0|0|5|85
+Mitch Keller|R|Austin Nola|R|Single|B|Slider|60|0|0|1|14|87
+Mitch Keller|R|Austin Nola|R|Single|C|Four-Seam Fastball|61|1|0|1|4|93
+Mitch Keller|R|Austin Nola|R|Single|B|Four-Seam Fastball|62|1|1|1|13|93
+Mitch Keller|R|Austin Nola|R|Single|C|Curveball|63|2|1|1|7|79
+Mitch Keller|R|Austin Nola|R|Single|F|Slider|64|2|2|1|14|87
+Mitch Keller|R|Austin Nola|R|Single|B|Curveball|65|2|2|1|11|80
+Mitch Keller|R|Austin Nola|R|Single|D|Slider|66|3|2|1|8|86
+Mitch Keller|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|67|0|0|1|9|94
+Mitch Keller|R|Dee Gordon|L|Strikeout|C|Four-Seam Fastball|68|0|1|1|9|95
+Mitch Keller|R|Dee Gordon|L|Strikeout|W|Slider|69|0|2|1|14|87
+Mitch Keller|R|Mallex Smith|L|Groundout|F|Four-Seam Fastball|70|0|0|2|1|94
+Mitch Keller|R|Mallex Smith|L|Groundout|F|Four-Seam Fastball|71|0|1|2|11|94
+Mitch Keller|R|Mallex Smith|L|Groundout|B|Four-Seam Fastball|72|0|2|2|12|95
+Mitch Keller|R|Mallex Smith|L|Groundout|F|Slider|73|1|2|2|4|87
+Mitch Keller|R|Mallex Smith|L|Groundout|F|Four-Seam Fastball|74|1|2|2|12|95
+Mitch Keller|R|Mallex Smith|L|Groundout|X|Curveball|75|1|2|2|4|81
+Mitch Keller|R|Marco Gonzales|L|Double|F|Four-Seam Fastball|76|0|0|0|8|92
+Mitch Keller|R|Marco Gonzales|L|Double|B|Four-Seam Fastball|77|0|1|0|14|93
+Mitch Keller|R|Marco Gonzales|L|Double|D|Four-Seam Fastball|78|1|1|0|9|94
+Mitch Keller|R|Shed Long Jr.|L|Single|F|Slider|79|0|0|0|9|85
+Mitch Keller|R|Shed Long Jr.|L|Single|B|Changeup|80|0|1|0|13|90
+Mitch Keller|R|Shed Long Jr.|L|Single|E|Four-Seam Fastball|81|1|1|0|2|93
+Mitch Keller|R|J.P. Crawford|L|Lineout|B|Changeup|82|0|0|0|13|89
+Mitch Keller|R|J.P. Crawford|L|Lineout|C|Four-Seam Fastball|83|1|0|0|13|94
+Mitch Keller|R|J.P. Crawford|L|Lineout|F|Slider|84|1|1|0|5|87
+Mitch Keller|R|J.P. Crawford|L|Lineout|X|Curveball|85|1|2|0|13|80
+Mitch Keller|R|Kyle Seager|L|Strikeout|F|Four-Seam Fastball|86|0|0|1|4|94
+Mitch Keller|R|Kyle Seager|L|Strikeout|*B|Changeup|87|0|1|1|14|90
+Mitch Keller|R|Kyle Seager|L|Strikeout|C|Four-Seam Fastball|88|1|1|1|14|94
+Mitch Keller|R|Kyle Seager|L|Strikeout|T|Curveball|89|1|2|1|14|80
+Mitch Keller|R|Kyle Lewis|R|Strikeout|*B|Four-Seam Fastball|90|0|0|2|14|93
+Mitch Keller|R|Kyle Lewis|R|Strikeout|B|Four-Seam Fastball|91|1|0|2|14|94
+Mitch Keller|R|Kyle Lewis|R|Strikeout|F|Slider|92|2|0|2|4|88
+Mitch Keller|R|Kyle Lewis|R|Strikeout|C|Curveball|93|2|1|2|1|78
+Mitch Keller|R|Kyle Lewis|R|Strikeout|S|Curveball|94|2|2|2|14|80
+Mitch Keller|R|Anthony Rizzo|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|95
+Mitch Keller|R|Anthony Rizzo|L|Pop Out|X|Four-Seam Fastball|1|1|0|0|3|94
+Mitch Keller|R|Nick Castellanos|R|Strikeout|S|Four-Seam Fastball|2|0|0|1|5|96
+Mitch Keller|R|Nick Castellanos|R|Strikeout|C|Four-Seam Fastball|3|0|1|1|14|97
+Mitch Keller|R|Nick Castellanos|R|Strikeout|B|Slider|4|0|2|1|14|91
+Mitch Keller|R|Nick Castellanos|R|Strikeout|W|Slider|5|1|2|1|14|88
+Mitch Keller|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|6|0|0|2|11|95
+Mitch Keller|R|Ben Zobrist|L|Single|F|Four-Seam Fastball|7|1|0|2|14|95
+Mitch Keller|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|8|1|1|2|12|96
+Mitch Keller|R|Kyle Schwarber|L|Double|C|Curveball|9|0|0|2|5|80
+Mitch Keller|R|Kyle Schwarber|L|Double|C|Changeup|10|0|1|2|13|91
+Mitch Keller|R|Kyle Schwarber|L|Double|B|Curveball|11|0|2|2|14|82
+Mitch Keller|R|Kyle Schwarber|L|Double|D|Four-Seam Fastball|12|1|2|2|12|96
+Mitch Keller|R|Willson Contreras|R|Walk|B|Four-Seam Fastball|13|0|0|2|12|95
+Mitch Keller|R|Willson Contreras|R|Walk|B|Four-Seam Fastball|14|1|0|2|14|96
+Mitch Keller|R|Willson Contreras|R|Walk|B|Four-Seam Fastball|15|2|0|2|12|95
+Mitch Keller|R|Willson Contreras|R|Walk|C|Slider|16|3|0|2|8|88
+Mitch Keller|R|Willson Contreras|R|Walk|*B|Four-Seam Fastball|17|3|1|2|14|96
+Mitch Keller|R|Ian Happ|L|Strikeout|F|Curveball|18|0|0|2|9|80
+Mitch Keller|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|19|0|1|2|12|95
+Mitch Keller|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|20|1|1|2|2|95
+Mitch Keller|R|Ian Happ|L|Strikeout|B|Four-Seam Fastball|21|1|2|2|12|95
+Mitch Keller|R|Ian Happ|L|Strikeout|S|Four-Seam Fastball|22|2|2|2|2|95
+Mitch Keller|R|Jason Heyward|L|Groundout|C|Four-Seam Fastball|23|0|0|0|12|94
+Mitch Keller|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|24|0|1|0|11|94
+Mitch Keller|R|Jason Heyward|L|Groundout|B|Slider|25|1|1|0|14|86
+Mitch Keller|R|Jason Heyward|L|Groundout|C|Slider|26|2|1|0|1|87
+Mitch Keller|R|Jason Heyward|L|Groundout|B|Four-Seam Fastball|27|2|2|0|11|95
+Mitch Keller|R|Jason Heyward|L|Groundout|X|Four-Seam Fastball|28|3|2|0|6|95
+Mitch Keller|R|Nico Hoerner|R|Lineout|X|Four-Seam Fastball|29|0|0|1|11|94
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|F|Four-Seam Fastball|30|0|0|2|9|94
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|S|Slider|31|0|1|2|6|87
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|C|Four-Seam Fastball|32|0|2|2|5|96
+Mitch Keller|R|Anthony Rizzo|L|Single|C|Curveball|33|0|0|0|9|80
+Mitch Keller|R|Anthony Rizzo|L|Single|D|Changeup|34|0|1|0|13|92
+Mitch Keller|R|Nick Castellanos|R|Lineout|S|Four-Seam Fastball|35|0|0|0|6|94
+Mitch Keller|R|Nick Castellanos|R|Lineout|X|Slider|36|0|1|0|6|87
+Mitch Keller|R|Ben Zobrist|L|Strikeout|B|Four-Seam Fastball|37|0|0|1|12|94
+Mitch Keller|R|Ben Zobrist|L|Strikeout|F|Four-Seam Fastball|38|1|0|1|9|94
+Mitch Keller|R|Ben Zobrist|L|Strikeout|*B|Slider|39|1|1|1|14|88
+Mitch Keller|R|Ben Zobrist|L|Strikeout|S|Slider|40|2|1|1|14|87
+Mitch Keller|R|Ben Zobrist|L|Strikeout|C|Four-Seam Fastball|41|2|2|1|14|95
+Mitch Keller|R|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|42|0|0|2|3|95
+Mitch Keller|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|43|0|1|2|14|95
+Mitch Keller|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|44|1|1|2|13|95
+Mitch Keller|R|Kyle Schwarber|L|Walk|S|Changeup|45|2|1|2|13|91
+Mitch Keller|R|Kyle Schwarber|L|Walk|*B|Curveball|46|2|2|2|14|82
+Mitch Keller|R|Kyle Schwarber|L|Walk|F|Curveball|47|3|2|2|14|81
+Mitch Keller|R|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|48|3|2|2|14|96
+Mitch Keller|R|Willson Contreras|R|Strikeout|B|Slider|49|0|0|2|14|88
+Mitch Keller|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|50|1|0|2|1|95
+Mitch Keller|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|51|1|1|2|12|96
+Mitch Keller|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|52|1|2|2|11|94
+Mitch Keller|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|53|2|2|2|6|96
+Mitch Keller|R|Ian Happ|L|Single|F|Changeup|54|0|0|0|7|91
+Mitch Keller|R|Ian Happ|L|Single|B|Four-Seam Fastball|55|0|1|0|11|94
+Mitch Keller|R|Ian Happ|L|Single|D|Changeup|56|1|1|0|4|91
+Mitch Keller|R|Jason Heyward|L|Forceout|C|Curveball|57|0|0|0|8|79
+Mitch Keller|R|Jason Heyward|L|Forceout|S|Four-Seam Fastball|58|0|1|0|12|94
+Mitch Keller|R|Jason Heyward|L|Forceout|F|Four-Seam Fastball|59|0|2|0|6|95
+Mitch Keller|R|Jason Heyward|L|Forceout|B|Four-Seam Fastball|60|0|2|0|11|94
+Mitch Keller|R|Jason Heyward|L|Forceout|F|Four-Seam Fastball|61|1|2|0|5|96
+Mitch Keller|R|Jason Heyward|L|Forceout|X|Four-Seam Fastball|62|1|2|0|14|94
+Mitch Keller|R|Nico Hoerner|R|Double|B|Slider|63|0|0|1|11|87
+Mitch Keller|R|Nico Hoerner|R|Double|B|Slider|64|1|0|1|14|86
+Mitch Keller|R|Nico Hoerner|R|Double|E|Four-Seam Fastball|65|2|0|1|5|94
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|S|Slider|66|0|0|1|14|87
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|C|Four-Seam Fastball|67|0|1|1|14|93
+Mitch Keller|R|Kyle Hendricks|R|Strikeout|S|Slider|68|0|2|1|14|87
+Mitch Keller|R|Anthony Rizzo|L|Groundout|B|Four-Seam Fastball|69|0|0|2|14|94
+Mitch Keller|R|Anthony Rizzo|L|Groundout|S|Four-Seam Fastball|70|1|0|2|14|94
+Mitch Keller|R|Anthony Rizzo|L|Groundout|X|Curveball|71|1|1|2|5|80
+Mitch Keller|R|Nick Castellanos|R|Lineout|B|Slider|72|0|0|0|14|86
+Mitch Keller|R|Nick Castellanos|R|Lineout|F|Four-Seam Fastball|73|1|0|0|6|94
+Mitch Keller|R|Nick Castellanos|R|Lineout|F|Four-Seam Fastball|74|1|1|0|6|93
+Mitch Keller|R|Nick Castellanos|R|Lineout|X|Slider|75|1|2|0|12|86
+Mitch Keller|R|Ben Zobrist|L|Single|C|Curveball|76|0|0|1|1|79
+Mitch Keller|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|77|0|1|1|14|94
+Mitch Keller|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|78|1|1|1|12|95
+Mitch Keller|R|Kyle Schwarber|L|Double|*B|Curveball|79|0|0|1|14|81
+Mitch Keller|R|Kyle Schwarber|L|Double|B|Four-Seam Fastball|80|1|0|1|11|93
+Mitch Keller|R|Kyle Schwarber|L|Double|C|Curveball|81|2|0|1|4|79
+Mitch Keller|R|Kyle Schwarber|L|Double|B|Changeup|82|2|1|1|13|91
+Mitch Keller|R|Kyle Schwarber|L|Double|D|Four-Seam Fastball|83|3|1|1|5|94
+Mitch Keller|R|Willson Contreras|R|Strikeout|B|Curveball|84|0|0|1|11|81
+Mitch Keller|R|Willson Contreras|R|Strikeout|S|Slider|85|1|0|1|14|87
+Mitch Keller|R|Willson Contreras|R|Strikeout|S|Slider|86|1|1|1|14|88
+Mitch Keller|R|Willson Contreras|R|Strikeout|S|Slider|87|1|2|1|14|87
+Mitch Keller|R|Ian Happ|L|Flyout|B|Four-Seam Fastball|88|0|0|2|14|95
+Mitch Keller|R|Ian Happ|L|Flyout|T|Four-Seam Fastball|89|1|0|2|3|94
+Mitch Keller|R|Ian Happ|L|Flyout|F|Four-Seam Fastball|90|1|1|2|9|95
+Mitch Keller|R|Ian Happ|L|Flyout|X|Four-Seam Fastball|91|1|2|2|5|96
+Mitch Keller|R|Mauricio Dubon|R|Single|C|Four-Seam Fastball|0|0|0|0|9|95
+Mitch Keller|R|Mauricio Dubon|R|Single|B|Four-Seam Fastball|1|0|1|0|13|95
+Mitch Keller|R|Mauricio Dubon|R|Single|D|Curveball|2|1|1|0|4|81
+Mitch Keller|R|Brandon Belt|L|Double|B|Four-Seam Fastball|3|0|0|0|11|96
+Mitch Keller|R|Brandon Belt|L|Double|D|Changeup|4|1|0|0|5|92
+Mitch Keller|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|5|0|0|0|14|97
+Mitch Keller|R|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|6|1|0|0|2|96
+Mitch Keller|R|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|7|1|1|0|14|97
+Mitch Keller|R|Evan Longoria|R|Strikeout|F|Curveball|8|2|1|0|14|82
+Mitch Keller|R|Evan Longoria|R|Strikeout|S|Slider|9|2|2|0|14|88
+Mitch Keller|R|Stephen Vogt|L|Single|F|Four-Seam Fastball|10|0|0|1|6|96
+Mitch Keller|R|Stephen Vogt|L|Single|S|Four-Seam Fastball|11|0|1|1|12|96
+Mitch Keller|R|Stephen Vogt|L|Single|F|Four-Seam Fastball|12|0|2|1|12|97
+Mitch Keller|R|Stephen Vogt|L|Single|E|Slider|13|0|2|1|14|88
+Mitch Keller|R|Kevin Pillar|R|Single|C|Slider|14|0|0|1|3|87
+Mitch Keller|R|Kevin Pillar|R|Single|F|Four-Seam Fastball|15|0|1|1|11|95
+Mitch Keller|R|Kevin Pillar|R|Single|D|Slider|16|0|2|1|8|90
+Mitch Keller|R|Brandon Crawford|L|Single|C|Four-Seam Fastball|17|0|0|1|9|97
+Mitch Keller|R|Brandon Crawford|L|Single|F|Four-Seam Fastball|18|0|1|1|8|96
+Mitch Keller|R|Brandon Crawford|L|Single|F|Four-Seam Fastball|19|0|2|1|2|98
+Mitch Keller|R|Brandon Crawford|L|Single|E|Four-Seam Fastball|20|0|2|1|8|97
+Mitch Keller|R|Jaylin Davis|R|Grounded Into DP|B|Slider|21|0|0|1|12|89
+Mitch Keller|R|Jaylin Davis|R|Grounded Into DP|S|Four-Seam Fastball|22|1|0|1|9|96
+Mitch Keller|R|Jaylin Davis|R|Grounded Into DP|F|Four-Seam Fastball|23|1|1|1|8|96
+Mitch Keller|R|Jaylin Davis|R|Grounded Into DP|F|Curveball|24|1|2|1|14|83
+Mitch Keller|R|Jaylin Davis|R|Grounded Into DP|X|Slider|25|1|2|1|13|89
+Mitch Keller|R|Austin Slater|R|Groundout|C|Four-Seam Fastball|26|0|0|0|12|94
+Mitch Keller|R|Austin Slater|R|Groundout|S|Four-Seam Fastball|27|0|1|0|2|95
+Mitch Keller|R|Austin Slater|R|Groundout|B|Four-Seam Fastball|28|0|2|0|11|95
+Mitch Keller|R|Austin Slater|R|Groundout|X|Curveball|29|1|2|0|14|82
+Mitch Keller|R|Johnny Cueto|R|Strikeout|B|Four-Seam Fastball|30|0|0|1|11|94
+Mitch Keller|R|Johnny Cueto|R|Strikeout|C|Four-Seam Fastball|31|1|0|1|2|95
+Mitch Keller|R|Johnny Cueto|R|Strikeout|C|Slider|32|1|1|1|3|88
+Mitch Keller|R|Johnny Cueto|R|Strikeout|F|Four-Seam Fastball|33|1|2|1|11|96
+Mitch Keller|R|Johnny Cueto|R|Strikeout|L|Curveball|34|1|2|1|8|81
+Mitch Keller|R|Mauricio Dubon|R|Double|C|Four-Seam Fastball|35|0|0|2|8|95
+Mitch Keller|R|Mauricio Dubon|R|Double|B|Four-Seam Fastball|36|0|1|2|11|96
+Mitch Keller|R|Mauricio Dubon|R|Double|F|Four-Seam Fastball|37|1|1|2|2|96
+Mitch Keller|R|Mauricio Dubon|R|Double|B|Four-Seam Fastball|38|1|2|2|14|98
+Mitch Keller|R|Mauricio Dubon|R|Double|D|Four-Seam Fastball|39|2|2|2|6|98
+Mitch Keller|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|40|0|0|2|11|95
+Mitch Keller|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|41|1|0|2|2|95
+Mitch Keller|R|Brandon Belt|L|Strikeout|C|Four-Seam Fastball|42|1|1|2|4|96
+Mitch Keller|R|Brandon Belt|L|Strikeout|T|Four-Seam Fastball|43|1|2|2|11|95
+Mitch Keller|R|Evan Longoria|R|Groundout|S|Curveball|44|0|0|0|14|81
+Mitch Keller|R|Evan Longoria|R|Groundout|B|Curveball|45|0|1|0|14|81
+Mitch Keller|R|Evan Longoria|R|Groundout|C|Four-Seam Fastball|46|1|1|0|14|95
+Mitch Keller|R|Evan Longoria|R|Groundout|X|Slider|47|1|2|0|8|87
+Mitch Keller|R|Stephen Vogt|L|Strikeout|B|Four-Seam Fastball|48|0|0|1|12|94
+Mitch Keller|R|Stephen Vogt|L|Strikeout|B|Curveball|49|1|0|1|14|80
+Mitch Keller|R|Stephen Vogt|L|Strikeout|F|Four-Seam Fastball|50|2|0|1|6|94
+Mitch Keller|R|Stephen Vogt|L|Strikeout|F|Four-Seam Fastball|51|2|1|1|12|95
+Mitch Keller|R|Stephen Vogt|L|Strikeout|S|Four-Seam Fastball|52|2|2|1|12|95
+Mitch Keller|R|Kevin Pillar|R|Single|F|Curveball|53|0|0|2|11|82
+Mitch Keller|R|Kevin Pillar|R|Single|D|Slider|54|0|1|2|1|88
+Mitch Keller|R|Brandon Crawford|L|Groundout|B|Four-Seam Fastball|55|0|0|2|11|95
+Mitch Keller|R|Brandon Crawford|L|Groundout|X|Four-Seam Fastball|56|1|0|2|9|94
+Mitch Keller|R|Jaylin Davis|R|Strikeout|S|Four-Seam Fastball|57|0|0|0|4|94
+Mitch Keller|R|Jaylin Davis|R|Strikeout|F|Four-Seam Fastball|58|0|1|0|2|94
+Mitch Keller|R|Jaylin Davis|R|Strikeout|W|Curveball|59|0|2|0|14|82
+Mitch Keller|R|Austin Slater|R|Groundout|B|Curveball|60|0|0|1|14|80
+Mitch Keller|R|Austin Slater|R|Groundout|C|Four-Seam Fastball|61|1|0|1|12|94
+Mitch Keller|R|Austin Slater|R|Groundout|F|Four-Seam Fastball|62|1|1|1|2|94
+Mitch Keller|R|Austin Slater|R|Groundout|F|Four-Seam Fastball|63|1|2|1|12|96
+Mitch Keller|R|Austin Slater|R|Groundout|B|Curveball|64|1|2|1|13|82
+Mitch Keller|R|Austin Slater|R|Groundout|X|Four-Seam Fastball|65|2|2|1|12|95
+Mitch Keller|R|Johnny Cueto|R|Strikeout|B|Four-Seam Fastball|66|0|0|2|12|94
+Mitch Keller|R|Johnny Cueto|R|Strikeout|L|Four-Seam Fastball|67|1|0|2|11|94
+Mitch Keller|R|Johnny Cueto|R|Strikeout|C|Four-Seam Fastball|68|1|1|2|2|93
+Mitch Keller|R|Johnny Cueto|R|Strikeout|B|Curveball|69|1|2|2|14|80
+Mitch Keller|R|Johnny Cueto|R|Strikeout|F|Four-Seam Fastball|70|2|2|2|12|93
+Mitch Keller|R|Johnny Cueto|R|Strikeout|C|Four-Seam Fastball|71|2|2|2|5|94
+Mitch Keller|R|Mauricio Dubon|R|Groundout|F|Curveball|72|0|0|0|8|79
+Mitch Keller|R|Mauricio Dubon|R|Groundout|F|Four-Seam Fastball|73|0|1|0|9|94
+Mitch Keller|R|Mauricio Dubon|R|Groundout|B|Changeup|74|0|2|0|13|91
+Mitch Keller|R|Mauricio Dubon|R|Groundout|X|Four-Seam Fastball|75|1|2|0|2|95
+Mitch Keller|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|76|0|0|1|11|94
+Mitch Keller|R|Brandon Belt|L|Strikeout|B|Four-Seam Fastball|77|1|0|1|11|94
+Mitch Keller|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|78|2|0|1|1|94
+Mitch Keller|R|Brandon Belt|L|Strikeout|F|Four-Seam Fastball|79|2|1|1|4|95
+Mitch Keller|R|Brandon Belt|L|Strikeout|T|Four-Seam Fastball|80|2|2|1|11|94
+Mitch Keller|R|Evan Longoria|R|Single|C|Four-Seam Fastball|81|0|0|2|9|96
+Mitch Keller|R|Evan Longoria|R|Single|B|Curveball|82|0|1|2|14|81
+Mitch Keller|R|Evan Longoria|R|Single|S|Curveball|83|1|1|2|13|80
+Mitch Keller|R|Evan Longoria|R|Single|F|Four-Seam Fastball|84|1|2|2|6|96
+Mitch Keller|R|Evan Longoria|R|Single|D|Curveball|85|1|2|2|14|83
+Mitch Keller|R|Stephen Vogt|L|Home Run|F|Four-Seam Fastball|86|0|0|2|2|94
+Mitch Keller|R|Stephen Vogt|L|Home Run|F|Four-Seam Fastball|87|0|1|2|13|95
+Mitch Keller|R|Stephen Vogt|L|Home Run|F|Four-Seam Fastball|88|0|2|2|3|94
+Mitch Keller|R|Stephen Vogt|L|Home Run|*B|Curveball|89|0|2|2|13|80
+Mitch Keller|R|Stephen Vogt|L|Home Run|E|Four-Seam Fastball|90|1|2|2|2|94
+Mitch Keller|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|91|0|0|2|9|94
+Mitch Keller|R|Kevin Pillar|R|Groundout|X|Four-Seam Fastball|92|0|1|2|11|93
+Mitch Keller|R|Corey Dickerson|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|93
+Mitch Keller|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|1|1|0|0|5|93
+Mitch Keller|R|Corey Dickerson|L|Pop Out|F|Four-Seam Fastball|2|1|1|0|9|95
+Mitch Keller|R|Corey Dickerson|L|Pop Out|F|Curveball|3|1|2|0|14|81
+Mitch Keller|R|Corey Dickerson|L|Pop Out|X|Four-Seam Fastball|4|1|2|0|14|96
+Mitch Keller|R|J.T. Realmuto|R|Lineout|B|Four-Seam Fastball|5|0|0|1|14|95
+Mitch Keller|R|J.T. Realmuto|R|Lineout|B|Slider|6|1|0|1|14|86
+Mitch Keller|R|J.T. Realmuto|R|Lineout|X|Four-Seam Fastball|7|2|0|1|6|96
+Mitch Keller|R|Bryce Harper|L|Strikeout|F|Four-Seam Fastball|8|0|0|2|9|94
+Mitch Keller|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|9|0|1|2|14|96
+Mitch Keller|R|Bryce Harper|L|Strikeout|B|Four-Seam Fastball|10|1|1|2|14|96
+Mitch Keller|R|Bryce Harper|L|Strikeout|F|Four-Seam Fastball|11|2|1|2|6|95
+Mitch Keller|R|Bryce Harper|L|Strikeout|W|Curveball|12|2|2|2|14|81
+Mitch Keller|R|Rhys Hoskins|R|Triple|C|Curveball|13|0|0|0|4|79
+Mitch Keller|R|Rhys Hoskins|R|Triple|B|Four-Seam Fastball|14|0|1|0|11|94
+Mitch Keller|R|Rhys Hoskins|R|Triple|B|Slider|15|1|1|0|14|87
+Mitch Keller|R|Rhys Hoskins|R|Triple|B|Four-Seam Fastball|16|2|1|0|12|95
+Mitch Keller|R|Rhys Hoskins|R|Triple|D|Four-Seam Fastball|17|3|1|0|14|95
+Mitch Keller|R|Jean Segura|R|Strikeout|C|Curveball|18|0|0|0|5|80
+Mitch Keller|R|Jean Segura|R|Strikeout|F|Four-Seam Fastball|19|0|1|0|5|93
+Mitch Keller|R|Jean Segura|R|Strikeout|F|Slider|20|0|2|0|14|89
+Mitch Keller|R|Jean Segura|R|Strikeout|*B|Curveball|21|0|2|0|14|81
+Mitch Keller|R|Jean Segura|R|Strikeout|F|Slider|22|1|2|0|14|88
+Mitch Keller|R|Jean Segura|R|Strikeout|F|Four-Seam Fastball|23|1|2|0|13|96
+Mitch Keller|R|Jean Segura|R|Strikeout|S|Curveball|24|1|2|0|14|82
+Mitch Keller|R|Cesar Hernandez|L|Single|B|Four-Seam Fastball|25|0|0|1|14|96
+Mitch Keller|R|Cesar Hernandez|L|Single|*B|Curveball|26|1|0|1|14|81
+Mitch Keller|R|Cesar Hernandez|L|Single|C|Four-Seam Fastball|27|2|0|1|6|96
+Mitch Keller|R|Cesar Hernandez|L|Single|F|Four-Seam Fastball|28|2|1|1|12|96
+Mitch Keller|R|Cesar Hernandez|L|Single|E|Four-Seam Fastball|29|2|2|1|1|96
+Mitch Keller|R|Scott Kingery|R|Single|D|Four-Seam Fastball|30|0|0|1|4|94
+Mitch Keller|R|Adam Haseley|L|Double|F|Curveball|31|0|0|1|14|80
+Mitch Keller|R|Adam Haseley|L|Double|B|Four-Seam Fastball|32|0|1|1|14|95
+Mitch Keller|R|Adam Haseley|L|Double|B|Curveball|33|1|1|1|11|80
+Mitch Keller|R|Adam Haseley|L|Double|E|Four-Seam Fastball|34|2|1|1|12|95
+Mitch Keller|R|Vince Velasquez|R|Strikeout|S|Slider|35|0|0|1|9|84
+Mitch Keller|R|Vince Velasquez|R|Strikeout|C|Slider|36|0|1|1|6|87
+Mitch Keller|R|Vince Velasquez|R|Strikeout|*B|Slider|37|0|2|1|14|88
+Mitch Keller|R|Vince Velasquez|R|Strikeout|S|Slider|38|1|2|1|14|87
+Mitch Keller|R|Corey Dickerson|L|Strikeout|T|Four-Seam Fastball|39|0|0|2|14|95
+Mitch Keller|R|Corey Dickerson|L|Strikeout|F|Four-Seam Fastball|40|0|1|2|12|94
+Mitch Keller|R|Corey Dickerson|L|Strikeout|W|Slider|41|0|2|2|14|87
+Mitch Keller|R|J.T. Realmuto|R|Strikeout|C|Slider|42|0|0|0|12|86
+Mitch Keller|R|J.T. Realmuto|R|Strikeout|F|Four-Seam Fastball|43|0|1|0|9|95
+Mitch Keller|R|J.T. Realmuto|R|Strikeout|S|Slider|44|0|2|0|9|88
+Mitch Keller|R|Bryce Harper|L|Single|B|Four-Seam Fastball|45|0|0|1|11|95
+Mitch Keller|R|Bryce Harper|L|Single|F|Curveball|46|1|0|1|1|79
+Mitch Keller|R|Bryce Harper|L|Single|F|Curveball|47|1|1|1|4|81
+Mitch Keller|R|Bryce Harper|L|Single|D|Four-Seam Fastball|48|1|2|1|12|96
+Mitch Keller|R|Rhys Hoskins|R|Double|C|Four-Seam Fastball|49|0|0|1|11|94
+Mitch Keller|R|Rhys Hoskins|R|Double|E|Slider|50|0|1|1|5|86
+Mitch Keller|R|Jean Segura|R|Groundout|*B|Slider|51|0|0|1|14|86
+Mitch Keller|R|Jean Segura|R|Groundout|C|Four-Seam Fastball|52|1|0|1|7|94
+Mitch Keller|R|Jean Segura|R|Groundout|X|Four-Seam Fastball|53|1|1|1|4|94
+Mitch Keller|R|Cesar Hernandez|L|Strikeout|C|Curveball|54|0|0|2|8|81
+Mitch Keller|R|Cesar Hernandez|L|Strikeout|C|Four-Seam Fastball|55|0|1|2|14|96
+Mitch Keller|R|Cesar Hernandez|L|Strikeout|*B|Curveball|56|0|2|2|14|81
+Mitch Keller|R|Cesar Hernandez|L|Strikeout|S|Slider|57|1|2|2|14|86
+Mitch Keller|R|Scott Kingery|R|Strikeout|C|Curveball|58|0|0|0|6|79
+Mitch Keller|R|Scott Kingery|R|Strikeout|B|Slider|59|0|1|0|14|85
+Mitch Keller|R|Scott Kingery|R|Strikeout|B|Four-Seam Fastball|60|1|1|0|14|94
+Mitch Keller|R|Scott Kingery|R|Strikeout|S|Slider|61|2|1|0|14|86
+Mitch Keller|R|Scott Kingery|R|Strikeout|C|Four-Seam Fastball|62|2|2|0|14|95
+Mitch Keller|R|Adam Haseley|L|Groundout|S|Four-Seam Fastball|63|0|0|1|2|94
+Mitch Keller|R|Adam Haseley|L|Groundout|F|Four-Seam Fastball|64|0|1|1|9|95
+Mitch Keller|R|Adam Haseley|L|Groundout|B|Slider|65|0|2|1|13|86
+Mitch Keller|R|Adam Haseley|L|Groundout|X|Curveball|66|1|2|1|14|81
+Mitch Keller|R|Vince Velasquez|R|Strikeout|B|Slider|67|0|0|2|14|85
+Mitch Keller|R|Vince Velasquez|R|Strikeout|F|Four-Seam Fastball|68|1|0|2|5|93
+Mitch Keller|R|Vince Velasquez|R|Strikeout|B|Four-Seam Fastball|69|1|1|2|11|95
+Mitch Keller|R|Vince Velasquez|R|Strikeout|C|Four-Seam Fastball|70|2|1|2|12|95
+Mitch Keller|R|Vince Velasquez|R|Strikeout|F|Slider|71|2|2|2|3|87
+Mitch Keller|R|Vince Velasquez|R|Strikeout|S|Slider|72|2|2|2|11|86
+Mitch Keller|R|Corey Dickerson|L|Home Run|C|Curveball|73|0|0|0|2|78
+Mitch Keller|R|Corey Dickerson|L|Home Run|F|Four-Seam Fastball|74|0|1|0|5|95
+Mitch Keller|R|Corey Dickerson|L|Home Run|B|Four-Seam Fastball|75|0|2|0|12|95
+Mitch Keller|R|Corey Dickerson|L|Home Run|F|Four-Seam Fastball|76|1|2|0|12|94
+Mitch Keller|R|Corey Dickerson|L|Home Run|B|Slider|77|1|2|0|14|85
+Mitch Keller|R|Corey Dickerson|L|Home Run|F|Slider|78|2|2|0|13|86
+Mitch Keller|R|Corey Dickerson|L|Home Run|E|Four-Seam Fastball|79|2|2|0|12|96
+Mitch Keller|R|J.T. Realmuto|R|Triple|C|Slider|80|0|0|0|4|86
+Mitch Keller|R|J.T. Realmuto|R|Triple|C|Curveball|81|0|1|0|1|80
+Mitch Keller|R|J.T. Realmuto|R|Triple|D|Four-Seam Fastball|82|0|2|0|12|93
+Mitch Keller|R|Bryce Harper|L|Single|S|Curveball|83|0|0|0|14|81
+Mitch Keller|R|Bryce Harper|L|Single|E|Four-Seam Fastball|84|0|1|0|12|95
+Mitch Keller|R|Rhys Hoskins|R|Walk|C|Four-Seam Fastball|85|0|0|0|11|93
+Mitch Keller|R|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|86|0|1|0|11|93
+Mitch Keller|R|Rhys Hoskins|R|Walk|C|Four-Seam Fastball|87|1|1|0|4|93
+Mitch Keller|R|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|88|1|2|0|11|94
+Mitch Keller|R|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|89|2|2|0|11|93
+Mitch Keller|R|Rhys Hoskins|R|Walk|F|Four-Seam Fastball|90|3|2|0|4|94
+Mitch Keller|R|Rhys Hoskins|R|Walk|B|Four-Seam Fastball|91|3|2|0|13|94
+Mitch Keller|R|Jean Segura|R|Single|B|Slider|92|0|0|0|14|86
+Mitch Keller|R|Jean Segura|R|Single|D|Slider|93|1|0|0|4|84
+Mitch Keller|R|Cesar Hernandez|L|Single|B|Curveball|94|0|0|0|14|79
+Mitch Keller|R|Cesar Hernandez|L|Single|F|Curveball|95|1|0|0|4|79
+Mitch Keller|R|Cesar Hernandez|L|Single|*B|Four-Seam Fastball|96|1|1|0|14|93
+Mitch Keller|R|Cesar Hernandez|L|Single|B|Four-Seam Fastball|97|2|1|0|14|94
+Mitch Keller|R|Cesar Hernandez|L|Single|E|Four-Seam Fastball|98|3|1|0|8|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|96
+Mitch Keller|R|Ronald Acuna Jr.|R|Groundout|X|Four-Seam Fastball|2|1|1|0|13|95
+Mitch Keller|R|Dansby Swanson|R|Single|B|Four-Seam Fastball|3|0|0|1|14|95
+Mitch Keller|R|Dansby Swanson|R|Single|B|Four-Seam Fastball|4|1|0|1|14|96
+Mitch Keller|R|Dansby Swanson|R|Single|F|Four-Seam Fastball|5|2|0|1|6|95
+Mitch Keller|R|Dansby Swanson|R|Single|F|Four-Seam Fastball|6|2|1|1|8|95
+Mitch Keller|R|Dansby Swanson|R|Single|B|Four-Seam Fastball|7|2|2|1|13|96
+Mitch Keller|R|Dansby Swanson|R|Single|F|Four-Seam Fastball|8|3|2|1|6|97
+Mitch Keller|R|Dansby Swanson|R|Single|D|Four-Seam Fastball|9|3|2|1|6|96
+Mitch Keller|R|Freddie Freeman|L|Single|F|Four-Seam Fastball|10|0|0|1|5|95
+Mitch Keller|R|Freddie Freeman|L|Single|F|Four-Seam Fastball|11|0|1|1|6|96
+Mitch Keller|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|12|0|2|1|12|95
+Mitch Keller|R|Freddie Freeman|L|Single|D|Slider|13|1|2|1|12|88
+Mitch Keller|R|Josh Donaldson|R|Strikeout|F|Slider|14|0|0|1|1|86
+Mitch Keller|R|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|15|0|1|1|7|95
+Mitch Keller|R|Josh Donaldson|R|Strikeout|T|Four-Seam Fastball|16|0|2|1|11|96
+Mitch Keller|R|Nick Markakis|L|Single|C|Four-Seam Fastball|17|0|0|2|14|96
+Mitch Keller|R|Nick Markakis|L|Single|S|Four-Seam Fastball|18|0|1|2|5|95
+Mitch Keller|R|Nick Markakis|L|Single|E|Four-Seam Fastball|19|0|2|2|12|96
+Mitch Keller|R|Austin Riley|R|Triple|B|Slider|20|0|0|2|14|88
+Mitch Keller|R|Austin Riley|R|Triple|S|Slider|21|1|0|2|14|88
+Mitch Keller|R|Austin Riley|R|Triple|*B|Four-Seam Fastball|22|1|1|2|13|94
+Mitch Keller|R|Austin Riley|R|Triple|S|Slider|23|2|1|2|3|88
+Mitch Keller|R|Austin Riley|R|Triple|E|Four-Seam Fastball|24|2|2|2|6|97
+Mitch Keller|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|25|0|0|2|11|95
+Mitch Keller|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|26|1|0|2|12|95
+Mitch Keller|R|Ozzie Albies|L|Walk|B|Changeup|27|2|0|2|11|90
+Mitch Keller|R|Ozzie Albies|L|Walk|B|Four-Seam Fastball|28|3|0|2|11|95
+Mitch Keller|R|Tyler Flowers|R|Walk|C|Four-Seam Fastball|29|0|0|2|14|95
+Mitch Keller|R|Tyler Flowers|R|Walk|*B|Curveball|30|0|1|2|14|80
+Mitch Keller|R|Tyler Flowers|R|Walk|B|Slider|31|1|1|2|14|88
+Mitch Keller|R|Tyler Flowers|R|Walk|C|Four-Seam Fastball|32|2|1|2|12|95
+Mitch Keller|R|Tyler Flowers|R|Walk|F|Four-Seam Fastball|33|2|2|2|6|97
+Mitch Keller|R|Tyler Flowers|R|Walk|*B|Curveball|34|2|2|2|14|81
+Mitch Keller|R|Tyler Flowers|R|Walk|B|Slider|35|3|2|2|14|89
+Mitch Keller|R|Mike Soroka|R|Groundout|F|Four-Seam Fastball|36|0|0|2|2|95
+Mitch Keller|R|Mike Soroka|R|Groundout|X|Four-Seam Fastball|37|0|1|2|8|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Single|F|Four-Seam Fastball|38|0|0|0|5|94
+Mitch Keller|R|Ronald Acuna Jr.|R|Single|D|Four-Seam Fastball|39|0|1|0|13|94
+Mitch Keller|R|Dansby Swanson|R|Double|B|Slider|40|0|0|0|14|88
+Mitch Keller|R|Dansby Swanson|R|Double|B|Changeup|41|1|0|0|13|90
+Mitch Keller|R|Dansby Swanson|R|Double|C|Slider|42|2|0|0|9|88
+Mitch Keller|R|Dansby Swanson|R|Double|D|Four-Seam Fastball|43|2|1|0|9|94
+Mitch Keller|R|Freddie Freeman|L|Single|E|Changeup|44|0|0|1|11|89
+Mitch Keller|R|Josh Donaldson|R|Double Play|B|Curveball|45|0|0|1|11|80
+Mitch Keller|R|Josh Donaldson|R|Double Play|S|Slider|46|1|0|1|14|87
+Mitch Keller|R|Josh Donaldson|R|Double Play|B|Slider|47|1|1|1|12|87
+Mitch Keller|R|Josh Donaldson|R|Double Play|S|Slider|48|2|1|1|14|86
+Mitch Keller|R|Josh Donaldson|R|Double Play|X|Four-Seam Fastball|49|2|2|1|12|97
+Mitch Keller|R|Nick Markakis|L|Lineout|C|Changeup|50|0|0|0|9|88
+Mitch Keller|R|Nick Markakis|L|Lineout|B|Changeup|51|0|1|0|13|88
+Mitch Keller|R|Nick Markakis|L|Lineout|B|Four-Seam Fastball|52|1|1|0|11|95
+Mitch Keller|R|Nick Markakis|L|Lineout|X|Curveball|53|2|1|0|5|79
+Mitch Keller|R|Austin Riley|R|Single|B|Four-Seam Fastball|54|0|0|1|13|94
+Mitch Keller|R|Austin Riley|R|Single|B|Slider|55|1|0|1|14|86
+Mitch Keller|R|Austin Riley|R|Single|B|Slider|56|2|0|1|14|85
+Mitch Keller|R|Austin Riley|R|Single|D|Four-Seam Fastball|57|3|0|1|7|95
+Mitch Keller|R|Ozzie Albies|L|Flyout|F|Four-Seam Fastball|58|0|0|1|14|95
+Mitch Keller|R|Ozzie Albies|L|Flyout|C|Curveball|59|0|1|1|11|80
+Mitch Keller|R|Ozzie Albies|L|Flyout|X|Slider|60|0|2|1|8|88
+Mitch Keller|R|Tyler Flowers|R|Double|T|Four-Seam Fastball|61|0|0|2|6|96
+Mitch Keller|R|Tyler Flowers|R|Double|D|Four-Seam Fastball|62|0|1|2|13|95
+Mitch Keller|R|Mike Soroka|R|Single|C|Slider|63|0|0|2|1|86
+Mitch Keller|R|Mike Soroka|R|Single|E|Four-Seam Fastball|64|0|1|2|6|93
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|65|0|0|2|13|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|66|1|0|2|4|93
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|67|1|1|2|12|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|S|Slider|68|2|1|2|14|86
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|69|2|2|2|11|95
+Mitch Keller|R|Ronald Acuna Jr.|R|Strikeout|S|Four-Seam Fastball|70|2|2|2|2|97

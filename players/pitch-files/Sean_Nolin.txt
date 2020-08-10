@@ -1,0 +1,499 @@
+Sean Nolin|L|Ketel Marte|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|86
+Sean Nolin|L|Ketel Marte|R|Flyout|S|Changeup|1|1|0|0|13|77
+Sean Nolin|L|Ketel Marte|R|Flyout|B|Four-Seam Fastball|2|1|1|0|12|88
+Sean Nolin|L|Ketel Marte|R|Flyout|X|Four-Seam Fastball|3|2|1|0|14|85
+Sean Nolin|L|Kyle Seager|L|Lineout|B|Four-Seam Fastball|4|0|0|1|13|89
+Sean Nolin|L|Kyle Seager|L|Lineout|C|Cutter|5|1|0|1|13|82
+Sean Nolin|L|Kyle Seager|L|Lineout|X|Four-Seam Fastball|6|1|1|1|3|88
+Sean Nolin|L|Stefen Romero|R|Groundout|C|Four-Seam Fastball|7|0|0|2|5|87
+Sean Nolin|L|Stefen Romero|R|Groundout|B|Curveball|8|0|1|2|12|74
+Sean Nolin|L|Stefen Romero|R|Groundout|B|Four-Seam Fastball|9|1|1|2|9|88
+Sean Nolin|L|Stefen Romero|R|Groundout|F|Changeup|10|2|1|2|11|76
+Sean Nolin|L|Stefen Romero|R|Groundout|F|Four-Seam Fastball|11|2|2|2|6|90
+Sean Nolin|L|Stefen Romero|R|Groundout|B|Curveball|12|2|2|2|13|77
+Sean Nolin|L|Stefen Romero|R|Groundout|X|Changeup|13|3|2|2|8|75
+Sean Nolin|L|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|14|0|0|0|4|87
+Sean Nolin|L|Robinson Cano|L|Strikeout|B|Curveball|15|0|1|0|13|75
+Sean Nolin|L|Robinson Cano|L|Strikeout|F|Curveball|16|1|1|0|9|71
+Sean Nolin|L|Robinson Cano|L|Strikeout|T|Four-Seam Fastball|17|1|2|0|6|91
+Sean Nolin|L|Mark Trumbo|R|Lineout|F|Four-Seam Fastball|18|0|0|1|4|90
+Sean Nolin|L|Mark Trumbo|R|Lineout|B|Changeup|19|0|1|1|13|74
+Sean Nolin|L|Mark Trumbo|R|Lineout|X|Changeup|20|1|1|1|6|78
+Sean Nolin|L|Logan Morrison|L|Flyout|B|Four-Seam Fastball|21|0|0|2|13|89
+Sean Nolin|L|Logan Morrison|L|Flyout|B|Cutter|22|1|0|2|11|81
+Sean Nolin|L|Logan Morrison|L|Flyout|X|Four-Seam Fastball|23|2|0|2|3|87
+Sean Nolin|L|Brad Miller|L|Single|C|Four-Seam Fastball|24|0|0|0|13|89
+Sean Nolin|L|Brad Miller|L|Single|B|Cutter|25|0|1|0|11|83
+Sean Nolin|L|Brad Miller|L|Single|D|Four-Seam Fastball|26|1|1|0|9|88
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|B|Four-Seam Fastball|27|0|0|0|12|86
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|B|Changeup|28|1|0|0|12|76
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|B|Four-Seam Fastball|29|2|0|0|13|85
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|C|Four-Seam Fastball|30|3|0|0|2|85
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|X|Four-Seam Fastball|31|3|1|0|1|86
+Sean Nolin|L|Shawn O'Malley|R|Single|B|Four-Seam Fastball|32|0|0|2|13|89
+Sean Nolin|L|Shawn O'Malley|R|Single|F|Four-Seam Fastball|33|1|0|2|4|87
+Sean Nolin|L|Shawn O'Malley|R|Single|D|Changeup|34|1|1|2|2|76
+Sean Nolin|L|Ketel Marte|R|Groundout|C|Changeup|35|0|0|2|4|73
+Sean Nolin|L|Ketel Marte|R|Groundout|X|Four-Seam Fastball|36|0|1|2|2|88
+Sean Nolin|L|Kyle Seager|L|Walk|B|Cutter|37|0|0|0|11|81
+Sean Nolin|L|Kyle Seager|L|Walk|F|Four-Seam Fastball|38|1|0|0|11|86
+Sean Nolin|L|Kyle Seager|L|Walk|C|Changeup|39|1|1|0|11|75
+Sean Nolin|L|Kyle Seager|L|Walk|B|Four-Seam Fastball|40|1|2|0|7|90
+Sean Nolin|L|Kyle Seager|L|Walk|B|Curveball|41|2|2|0|13|78
+Sean Nolin|L|Kyle Seager|L|Walk|B|Four-Seam Fastball|42|3|2|0|9|89
+Sean Nolin|L|Stefen Romero|R|Pop Out|X|Changeup|43|0|0|0|1|74
+Sean Nolin|L|Robinson Cano|L|Flyout|X|Four-Seam Fastball|44|0|0|1|13|88
+Sean Nolin|L|Mark Trumbo|R|Flyout|C|Four-Seam Fastball|45|0|0|2|7|89
+Sean Nolin|L|Mark Trumbo|R|Flyout|P|Pitchout|46|0|1|2|12|80
+Sean Nolin|L|Mark Trumbo|R|Flyout|T|Four-Seam Fastball|47|0|2|2|6|86
+Sean Nolin|L|Mark Trumbo|R|Flyout|X|Four-Seam Fastball|48|0|2|2|12|90
+Sean Nolin|L|Logan Morrison|L|Single|B|Four-Seam Fastball|49|0|0|0|13|88
+Sean Nolin|L|Logan Morrison|L|Single|D|Four-Seam Fastball|50|1|0|0|4|85
+Sean Nolin|L|Brad Miller|L|Single|F|Four-Seam Fastball|51|0|0|0|1|88
+Sean Nolin|L|Brad Miller|L|Single|X|Curveball|52|0|1|0|4|73
+Sean Nolin|L|Jesus Sucre|R|Walk|B|Four-Seam Fastball|53|0|0|1|12|85
+Sean Nolin|L|Jesus Sucre|R|Walk|*B|Four-Seam Fastball|54|1|0|1|13|86
+Sean Nolin|L|Jesus Sucre|R|Walk|F|Four-Seam Fastball|55|2|0|1|2|86
+Sean Nolin|L|Jesus Sucre|R|Walk|B|Changeup|56|2|1|1|12|74
+Sean Nolin|L|Jesus Sucre|R|Walk|F|Four-Seam Fastball|57|3|1|1|11|87
+Sean Nolin|L|Jesus Sucre|R|Walk|B|Four-Seam Fastball|58|3|2|1|13|89
+Sean Nolin|L|Shawn O'Malley|R|Walk|B|Four-Seam Fastball|59|0|0|1|12|86
+Sean Nolin|L|Shawn O'Malley|R|Walk|B|Curveball|60|1|0|1|12|72
+Sean Nolin|L|Shawn O'Malley|R|Walk|S|Four-Seam Fastball|61|2|0|1|5|88
+Sean Nolin|L|Shawn O'Malley|R|Walk|B|Four-Seam Fastball|62|2|1|1|13|89
+Sean Nolin|L|Shawn O'Malley|R|Walk|F|Four-Seam Fastball|63|3|1|1|11|87
+Sean Nolin|L|Shawn O'Malley|R|Walk|F|Four-Seam Fastball|64|3|2|1|6|89
+Sean Nolin|L|Shawn O'Malley|R|Walk|B|Four-Seam Fastball|65|3|2|1|13|90
+Sean Nolin|L|Ketel Marte|R|Single|F|Four-Seam Fastball|66|0|0|1|3|89
+Sean Nolin|L|Ketel Marte|R|Single|B|Curveball|67|0|1|1|11|74
+Sean Nolin|L|Ketel Marte|R|Single|E|Four-Seam Fastball|68|1|1|1|8|89
+Sean Nolin|L|Kyle Seager|L|Sac Fly|E|Four-Seam Fastball|69|0|0|1|4|88
+Sean Nolin|L|Stefen Romero|R|Lineout|C|Four-Seam Fastball|70|0|0|2|6|88
+Sean Nolin|L|Stefen Romero|R|Lineout|B|Curveball|71|0|1|2|13|69
+Sean Nolin|L|Stefen Romero|R|Lineout|B|Changeup|72|1|1|2|14|72
+Sean Nolin|L|Stefen Romero|R|Lineout|X|Four-Seam Fastball|73|2|1|2|11|89
+Sean Nolin|L|Robinson Cano|L|Groundout|X|Cutter|74|0|0|0|13|83
+Sean Nolin|L|Mark Trumbo|R|Pop Out|C|Changeup|75|0|0|1|3|69
+Sean Nolin|L|Mark Trumbo|R|Pop Out|B|Four-Seam Fastball|76|0|1|1|13|91
+Sean Nolin|L|Mark Trumbo|R|Pop Out|F|Four-Seam Fastball|77|1|1|1|2|89
+Sean Nolin|L|Mark Trumbo|R|Pop Out|F|Curveball|78|1|2|1|5|75
+Sean Nolin|L|Mark Trumbo|R|Pop Out|B|Four-Seam Fastball|79|1|2|1|11|90
+Sean Nolin|L|Mark Trumbo|R|Pop Out|X|Changeup|80|2|2|1|11|75
+Sean Nolin|L|Logan Morrison|L|Groundout|S|Four-Seam Fastball|81|0|0|2|14|89
+Sean Nolin|L|Logan Morrison|L|Groundout|S|Cutter|82|0|1|2|13|84
+Sean Nolin|L|Logan Morrison|L|Groundout|B|Four-Seam Fastball|83|0|2|2|11|91
+Sean Nolin|L|Logan Morrison|L|Groundout|X|Curveball|84|1|2|2|13|75
+Sean Nolin|L|Delino DeShields|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|84
+Sean Nolin|L|Delino DeShields|R|Groundout|M|Curveball|1|0|1|0|2|72
+Sean Nolin|L|Delino DeShields|R|Groundout|B|Four-Seam Fastball|2|0|2|0|11|87
+Sean Nolin|L|Delino DeShields|R|Groundout|F|Curveball|3|1|2|0|14|73
+Sean Nolin|L|Delino DeShields|R|Groundout|X|Four-Seam Fastball|4|1|2|0|8|87
+Sean Nolin|L|Shin-Soo Choo|L|Lineout|B|Four-Seam Fastball|5|0|0|1|13|86
+Sean Nolin|L|Shin-Soo Choo|L|Lineout|S|Cutter|6|1|0|1|7|84
+Sean Nolin|L|Shin-Soo Choo|L|Lineout|X|Cutter|7|1|1|1|8|83
+Sean Nolin|L|Adrian Beltre|R|Single|C|Four-Seam Fastball|8|0|0|2|5|85
+Sean Nolin|L|Adrian Beltre|R|Single|B|Four-Seam Fastball|9|0|1|2|12|86
+Sean Nolin|L|Adrian Beltre|R|Single|S|Curveball|10|1|1|2|13|70
+Sean Nolin|L|Adrian Beltre|R|Single|D|Four-Seam Fastball|11|1|2|2|3|89
+Sean Nolin|L|Prince Fielder|L|Groundout|C|Four-Seam Fastball|12|0|0|2|8|86
+Sean Nolin|L|Prince Fielder|L|Groundout|B|Cutter|13|0|1|2|13|83
+Sean Nolin|L|Prince Fielder|L|Groundout|X|Four-Seam Fastball|14|1|1|2|8|86
+Sean Nolin|L|Mike Napoli|R|Home Run|B|Four-Seam Fastball|15|0|0|0|13|86
+Sean Nolin|L|Mike Napoli|R|Home Run|B|Four-Seam Fastball|16|1|0|0|12|86
+Sean Nolin|L|Mike Napoli|R|Home Run|C|Changeup|17|2|0|0|1|79
+Sean Nolin|L|Mike Napoli|R|Home Run|E|Curveball|18|2|1|0|7|71
+Sean Nolin|L|Elvis Andrus|R|Flyout|S|Four-Seam Fastball|19|0|0|0|7|86
+Sean Nolin|L|Elvis Andrus|R|Flyout|C|Changeup|20|0|1|0|5|76
+Sean Nolin|L|Elvis Andrus|R|Flyout|F|Cutter|21|0|2|0|11|84
+Sean Nolin|L|Elvis Andrus|R|Flyout|B|Four-Seam Fastball|22|0|2|0|13|87
+Sean Nolin|L|Elvis Andrus|R|Flyout|B|Curveball|23|1|2|0|14|74
+Sean Nolin|L|Elvis Andrus|R|Flyout|B|Four-Seam Fastball|24|2|2|0|14|87
+Sean Nolin|L|Elvis Andrus|R|Flyout|F|Cutter|25|3|2|0|7|83
+Sean Nolin|L|Elvis Andrus|R|Flyout|X|Changeup|26|3|2|0|7|76
+Sean Nolin|L|Rougned Odor|L|Bunt Pop Out|X|Four-Seam Fastball|27|0|0|1|11|86
+Sean Nolin|L|Ryan Rua|R|Groundout|X|Four-Seam Fastball|28|0|0|2|8|85
+Sean Nolin|L|Bobby Wilson|R|Lineout|B|Four-Seam Fastball|29|0|0|0|13|84
+Sean Nolin|L|Bobby Wilson|R|Lineout|C|Changeup|30|1|0|0|2|74
+Sean Nolin|L|Bobby Wilson|R|Lineout|B|Four-Seam Fastball|31|1|1|0|12|87
+Sean Nolin|L|Bobby Wilson|R|Lineout|X|Four-Seam Fastball|32|2|1|0|6|82
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|33|0|0|1|11|85
+Sean Nolin|L|Delino DeShields|R|Walk|B|Changeup|34|1|0|1|13|76
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|35|2|0|1|11|86
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|36|3|0|1|12|85
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|C|Slider|37|0|0|1|11|79
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|F|Four-Seam Fastball|38|0|1|1|12|86
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|39|0|2|1|12|87
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|40|1|2|1|11|86
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|W|Curveball|41|2|2|1|13|69
+Sean Nolin|L|Adrian Beltre|R|Strikeout|C|Four-Seam Fastball|42|0|0|2|4|83
+Sean Nolin|L|Adrian Beltre|R|Strikeout|F|Cutter|43|0|1|2|13|82
+Sean Nolin|L|Adrian Beltre|R|Strikeout|F|Four-Seam Fastball|44|0|2|2|12|87
+Sean Nolin|L|Adrian Beltre|R|Strikeout|*B|Curveball|45|0|2|2|13|70
+Sean Nolin|L|Adrian Beltre|R|Strikeout|S|Cutter|46|1|2|2|13|82
+Sean Nolin|L|Prince Fielder|L|Groundout|B|Slider|47|0|0|0|12|78
+Sean Nolin|L|Prince Fielder|L|Groundout|C|Four-Seam Fastball|48|1|0|0|13|86
+Sean Nolin|L|Prince Fielder|L|Groundout|F|Four-Seam Fastball|49|1|1|0|4|85
+Sean Nolin|L|Prince Fielder|L|Groundout|B|Curveball|50|1|2|0|12|73
+Sean Nolin|L|Prince Fielder|L|Groundout|X|Curveball|51|2|2|0|4|72
+Sean Nolin|L|Mike Napoli|R|Strikeout|B|Four-Seam Fastball|52|0|0|1|7|88
+Sean Nolin|L|Mike Napoli|R|Strikeout|C|Four-Seam Fastball|53|1|0|1|9|87
+Sean Nolin|L|Mike Napoli|R|Strikeout|C|Four-Seam Fastball|54|1|1|1|8|89
+Sean Nolin|L|Mike Napoli|R|Strikeout|F|Four-Seam Fastball|55|1|2|1|1|88
+Sean Nolin|L|Mike Napoli|R|Strikeout|B|Four-Seam Fastball|56|1|2|1|11|89
+Sean Nolin|L|Mike Napoli|R|Strikeout|B|Cutter|57|2|2|1|7|84
+Sean Nolin|L|Mike Napoli|R|Strikeout|C|Four-Seam Fastball|58|3|2|1|8|88
+Sean Nolin|L|Elvis Andrus|R|Double|C|Four-Seam Fastball|59|0|0|2|11|86
+Sean Nolin|L|Elvis Andrus|R|Double|D|Changeup|60|0|1|2|8|68
+Sean Nolin|L|Rougned Odor|L|Walk|*B|Cutter|61|0|0|2|13|84
+Sean Nolin|L|Rougned Odor|L|Walk|B|Four-Seam Fastball|62|1|0|2|13|87
+Sean Nolin|L|Rougned Odor|L|Walk|B|Slider|63|2|0|2|11|78
+Sean Nolin|L|Rougned Odor|L|Walk|B|Cutter|64|3|0|2|13|82
+Sean Nolin|L|Ryan Rua|R|Pop Out|B|Four-Seam Fastball|65|0|0|2|12|86
+Sean Nolin|L|Ryan Rua|R|Pop Out|C|Curveball|66|1|0|2|1|70
+Sean Nolin|L|Ryan Rua|R|Pop Out|B|Changeup|67|1|1|2|13|75
+Sean Nolin|L|Ryan Rua|R|Pop Out|X|Four-Seam Fastball|68|2|1|2|13|85
+Sean Nolin|L|Bobby Wilson|R|Groundout|B|Four-Seam Fastball|69|0|0|0|12|83
+Sean Nolin|L|Bobby Wilson|R|Groundout|B|Curveball|70|1|0|0|13|69
+Sean Nolin|L|Bobby Wilson|R|Groundout|X|Cutter|71|2|0|0|4|83
+Sean Nolin|L|Delino DeShields|R|Strikeout|B|Four-Seam Fastball|72|0|0|1|12|85
+Sean Nolin|L|Delino DeShields|R|Strikeout|B|Changeup|73|1|0|1|2|75
+Sean Nolin|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|74|2|0|1|3|84
+Sean Nolin|L|Delino DeShields|R|Strikeout|C|Four-Seam Fastball|75|2|1|1|6|85
+Sean Nolin|L|Delino DeShields|R|Strikeout|C|Cutter|76|2|2|1|13|83
+Sean Nolin|L|Shin-Soo Choo|L|Double|D|Four-Seam Fastball|77|0|0|2|1|87
+Sean Nolin|L|Adrian Beltre|R|Flyout|B|Four-Seam Fastball|78|0|0|2|13|86
+Sean Nolin|L|Adrian Beltre|R|Flyout|X|Cutter|79|1|0|2|11|80
+Sean Nolin|L|Prince Fielder|L|Strikeout|B|Cutter|80|0|0|0|11|84
+Sean Nolin|L|Prince Fielder|L|Strikeout|B|Cutter|81|1|0|0|11|84
+Sean Nolin|L|Prince Fielder|L|Strikeout|C|Slider|82|2|0|0|1|78
+Sean Nolin|L|Prince Fielder|L|Strikeout|F|Slider|83|2|1|0|11|79
+Sean Nolin|L|Prince Fielder|L|Strikeout|F|Four-Seam Fastball|84|2|2|0|11|87
+Sean Nolin|L|Prince Fielder|L|Strikeout|B|Curveball|85|2|2|0|11|72
+Sean Nolin|L|Prince Fielder|L|Strikeout|S|Four-Seam Fastball|86|3|2|0|11|86
+Sean Nolin|L|Mike Napoli|R|Groundout|S|Four-Seam Fastball|87|0|0|1|1|87
+Sean Nolin|L|Mike Napoli|R|Groundout|C|Four-Seam Fastball|88|0|1|1|11|89
+Sean Nolin|L|Mike Napoli|R|Groundout|X|Four-Seam Fastball|89|0|2|1|12|89
+Sean Nolin|L|Elvis Andrus|R|Double|B|Four-Seam Fastball|90|0|0|2|11|86
+Sean Nolin|L|Elvis Andrus|R|Double|B|Cutter|91|1|0|2|11|82
+Sean Nolin|L|Elvis Andrus|R|Double|F|Changeup|92|2|0|2|4|79
+Sean Nolin|L|Elvis Andrus|R|Double|B|Four-Seam Fastball|93|2|1|2|13|87
+Sean Nolin|L|Elvis Andrus|R|Double|C|Cutter|94|3|1|2|8|85
+Sean Nolin|L|Elvis Andrus|R|Double|D|Cutter|95|3|2|2|4|81
+Sean Nolin|L|Micah Johnson|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|84
+Sean Nolin|L|Micah Johnson|L|Pop Out|S|Four-Seam Fastball|1|1|0|0|14|82
+Sean Nolin|L|Micah Johnson|L|Pop Out|F|Four-Seam Fastball|2|1|1|0|4|86
+Sean Nolin|L|Micah Johnson|L|Pop Out|F|Curveball|3|1|2|0|11|75
+Sean Nolin|L|Micah Johnson|L|Pop Out|X|Four-Seam Fastball|4|1|2|0|12|84
+Sean Nolin|L|Alexei Ramirez|R|Single|C|Four-Seam Fastball|5|0|0|1|6|83
+Sean Nolin|L|Alexei Ramirez|R|Single|B|Changeup|6|0|1|1|14|73
+Sean Nolin|L|Alexei Ramirez|R|Single|B|Changeup|7|1|1|1|12|78
+Sean Nolin|L|Alexei Ramirez|R|Single|D|Four-Seam Fastball|8|2|1|1|6|85
+Sean Nolin|L|Melky Cabrera|R|Walk|B|Four-Seam Fastball|9|0|0|1|13|83
+Sean Nolin|L|Melky Cabrera|R|Walk|B|Changeup|10|1|0|1|14|76
+Sean Nolin|L|Melky Cabrera|R|Walk|B|Four-Seam Fastball|11|2|0|1|11|86
+Sean Nolin|L|Melky Cabrera|R|Walk|*B|Four-Seam Fastball|12|3|0|1|13|87
+Sean Nolin|L|Avisail Garcia|R|Pop Out|C|Four-Seam Fastball|13|0|0|1|13|86
+Sean Nolin|L|Avisail Garcia|R|Pop Out|B|Changeup|14|0|1|1|13|76
+Sean Nolin|L|Avisail Garcia|R|Pop Out|X|Four-Seam Fastball|15|1|1|1|4|87
+Sean Nolin|L|Geovany Soto|R|Flyout|C|Changeup|16|0|0|2|9|81
+Sean Nolin|L|Geovany Soto|R|Flyout|X|Curveball|17|0|1|2|4|74
+Sean Nolin|L|Mike Olt|R|Groundout|C|Four-Seam Fastball|18|0|0|0|13|85
+Sean Nolin|L|Mike Olt|R|Groundout|B|Curveball|19|0|1|0|13|74
+Sean Nolin|L|Mike Olt|R|Groundout|B|Changeup|20|1|1|0|11|76
+Sean Nolin|L|Mike Olt|R|Groundout|F|Changeup|21|2|1|0|1|77
+Sean Nolin|L|Mike Olt|R|Groundout|X|Curveball|22|2|2|0|7|76
+Sean Nolin|L|JB Shuck|L|Groundout|B|Slider|23|0|0|1|11|77
+Sean Nolin|L|JB Shuck|L|Groundout|B|Four-Seam Fastball|24|1|0|1|11|86
+Sean Nolin|L|JB Shuck|L|Groundout|B|Four-Seam Fastball|25|2|0|1|11|87
+Sean Nolin|L|JB Shuck|L|Groundout|C|Four-Seam Fastball|26|3|0|1|7|86
+Sean Nolin|L|JB Shuck|L|Groundout|X|Four-Seam Fastball|27|3|1|1|4|86
+Sean Nolin|L|Tyler Flowers|R|Single|C|Four-Seam Fastball|28|0|0|2|12|84
+Sean Nolin|L|Tyler Flowers|R|Single|B|Curveball|29|0|1|2|13|77
+Sean Nolin|L|Tyler Flowers|R|Single|D|Four-Seam Fastball|30|1|1|2|4|85
+Sean Nolin|L|Tyler Saladino|R|Forceout|B|Four-Seam Fastball|31|0|0|2|13|89
+Sean Nolin|L|Tyler Saladino|R|Forceout|*B|Slider|32|1|0|2|14|78
+Sean Nolin|L|Tyler Saladino|R|Forceout|X|Changeup|33|2|0|2|9|80
+Sean Nolin|L|Micah Johnson|L|Strikeout|C|Four-Seam Fastball|34|0|0|0|13|86
+Sean Nolin|L|Micah Johnson|L|Strikeout|B|Cutter|35|0|1|0|11|84
+Sean Nolin|L|Micah Johnson|L|Strikeout|C|Cutter|36|1|1|0|11|82
+Sean Nolin|L|Micah Johnson|L|Strikeout|F|Four-Seam Fastball|37|1|2|0|12|89
+Sean Nolin|L|Micah Johnson|L|Strikeout|C|Curveball|38|1|2|0|1|75
+Sean Nolin|L|Alexei Ramirez|R|Groundout|B|Curveball|39|0|0|1|14|73
+Sean Nolin|L|Alexei Ramirez|R|Groundout|C|Changeup|40|1|0|1|11|79
+Sean Nolin|L|Alexei Ramirez|R|Groundout|B|Curveball|41|1|1|1|13|76
+Sean Nolin|L|Alexei Ramirez|R|Groundout|X|Four-Seam Fastball|42|2|1|1|4|88
+Sean Nolin|L|Melky Cabrera|R|Groundout|C|Curveball|43|0|0|2|8|73
+Sean Nolin|L|Melky Cabrera|R|Groundout|B|Changeup|44|0|1|2|13|70
+Sean Nolin|L|Melky Cabrera|R|Groundout|B|Four-Seam Fastball|45|1|1|2|14|87
+Sean Nolin|L|Melky Cabrera|R|Groundout|B|Curveball|46|2|1|2|11|73
+Sean Nolin|L|Melky Cabrera|R|Groundout|C|Four-Seam Fastball|47|3|1|2|8|87
+Sean Nolin|L|Melky Cabrera|R|Groundout|X|Cutter|48|3|2|2|2|82
+Sean Nolin|L|Avisail Garcia|R|Strikeout|F|Four-Seam Fastball|49|0|0|0|13|82
+Sean Nolin|L|Avisail Garcia|R|Strikeout|F|Cutter|50|0|1|0|13|81
+Sean Nolin|L|Avisail Garcia|R|Strikeout|B|Four-Seam Fastball|51|0|2|0|12|89
+Sean Nolin|L|Avisail Garcia|R|Strikeout|F|Four-Seam Fastball|52|1|2|0|14|83
+Sean Nolin|L|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|53|1|2|0|12|89
+Sean Nolin|L|Geovany Soto|R|Strikeout|C|Curveball|54|0|0|1|5|71
+Sean Nolin|L|Geovany Soto|R|Strikeout|F|Four-Seam Fastball|55|0|1|1|11|88
+Sean Nolin|L|Geovany Soto|R|Strikeout|B|Curveball|56|0|2|1|12|74
+Sean Nolin|L|Geovany Soto|R|Strikeout|C|Four-Seam Fastball|57|1|2|1|5|89
+Sean Nolin|L|Mike Olt|R|Home Run|B|Curveball|58|0|0|2|13|74
+Sean Nolin|L|Mike Olt|R|Home Run|F|Cutter|59|1|0|2|4|83
+Sean Nolin|L|Mike Olt|R|Home Run|B|Four-Seam Fastball|60|1|1|2|12|82
+Sean Nolin|L|Mike Olt|R|Home Run|F|Cutter|61|2|1|2|4|82
+Sean Nolin|L|Mike Olt|R|Home Run|E|Cutter|62|2|2|2|7|85
+Sean Nolin|L|JB Shuck|L|Single|C|Slider|63|0|0|2|2|80
+Sean Nolin|L|JB Shuck|L|Single|B|Four-Seam Fastball|64|0|1|2|11|87
+Sean Nolin|L|JB Shuck|L|Single|S|Cutter|65|1|1|2|11|83
+Sean Nolin|L|JB Shuck|L|Single|B|Changeup|66|1|2|2|13|75
+Sean Nolin|L|JB Shuck|L|Single|F|Four-Seam Fastball|67|2|2|2|1|88
+Sean Nolin|L|JB Shuck|L|Single|D|Cutter|68|2|2|2|13|83
+Sean Nolin|L|Tyler Flowers|R|Lineout|X|Four-Seam Fastball|69|0|0|2|9|83
+Sean Nolin|L|Tyler Saladino|R|Lineout|C|Four-Seam Fastball|70|0|0|0|7|82
+Sean Nolin|L|Tyler Saladino|R|Lineout|B|Changeup|71|0|1|0|11|77
+Sean Nolin|L|Tyler Saladino|R|Lineout|F|Cutter|72|1|1|0|13|82
+Sean Nolin|L|Tyler Saladino|R|Lineout|X|Four-Seam Fastball|73|1|2|0|6|85
+Sean Nolin|L|Micah Johnson|L|Walk|B|Four-Seam Fastball|74|0|0|1|11|86
+Sean Nolin|L|Micah Johnson|L|Walk|B|Changeup|75|1|0|1|13|76
+Sean Nolin|L|Micah Johnson|L|Walk|F|Four-Seam Fastball|76|2|0|1|6|86
+Sean Nolin|L|Micah Johnson|L|Walk|S|Four-Seam Fastball|77|2|1|1|4|82
+Sean Nolin|L|Micah Johnson|L|Walk|F|Cutter|78|2|2|1|1|85
+Sean Nolin|L|Micah Johnson|L|Walk|B|Curveball|79|2|2|1|13|76
+Sean Nolin|L|Micah Johnson|L|Walk|B|Four-Seam Fastball|80|3|2|1|14|89
+Sean Nolin|L|Alexei Ramirez|R|Walk|B|Curveball|81|0|0|1|3|71
+Sean Nolin|L|Alexei Ramirez|R|Walk|B|Changeup|82|1|0|1|13|80
+Sean Nolin|L|Alexei Ramirez|R|Walk|C|Four-Seam Fastball|83|2|0|1|9|86
+Sean Nolin|L|Alexei Ramirez|R|Walk|B|Four-Seam Fastball|84|2|1|1|11|86
+Sean Nolin|L|Alexei Ramirez|R|Walk|B|Changeup|85|3|1|1|11|77
+Sean Nolin|L|Melky Cabrera|R|Single|C|Cutter|86|0|0|1|7|81
+Sean Nolin|L|Melky Cabrera|R|Single|E|Changeup|87|0|1|1|5|76
+Sean Nolin|L|Avisail Garcia|R|Strikeout|S|Four-Seam Fastball|88|0|0|1|12|85
+Sean Nolin|L|Avisail Garcia|R|Strikeout|S|Curveball|89|0|1|1|13|75
+Sean Nolin|L|Avisail Garcia|R|Strikeout|T|Four-Seam Fastball|90|0|2|1|12|89
+Sean Nolin|L|Geovany Soto|R|Flyout|B|Changeup|91|0|0|2|14|76
+Sean Nolin|L|Geovany Soto|R|Flyout|C|Curveball|92|1|0|2|9|73
+Sean Nolin|L|Geovany Soto|R|Flyout|X|Cutter|93|1|1|2|5|85
+Sean Nolin|L|Delino DeShields|R|Walk|C|Four-Seam Fastball|0|0|0|0|7|85
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|1|0|1|0|12|84
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|2|1|1|0|14|84
+Sean Nolin|L|Delino DeShields|R|Walk|B|Changeup|3|2|1|0|12|81
+Sean Nolin|L|Delino DeShields|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|85
+Sean Nolin|L|Shin-Soo Choo|L|Sac Bunt|C|Four-Seam Fastball|5|0|0|0|7|87
+Sean Nolin|L|Shin-Soo Choo|L|Sac Bunt|X|Slider|6|0|1|0|5|79
+Sean Nolin|L|Adrian Beltre|R|Single|B|Four-Seam Fastball|7|0|0|1|12|85
+Sean Nolin|L|Adrian Beltre|R|Single|B|Changeup|8|1|0|1|14|75
+Sean Nolin|L|Adrian Beltre|R|Single|S|Cutter|9|2|0|1|13|84
+Sean Nolin|L|Adrian Beltre|R|Single|E|Cutter|10|2|1|1|7|85
+Sean Nolin|L|Prince Fielder|L|Lineout|*B|Curveball|11|0|0|1|13|74
+Sean Nolin|L|Prince Fielder|L|Lineout|B|Four-Seam Fastball|12|1|0|1|12|82
+Sean Nolin|L|Prince Fielder|L|Lineout|X|Cutter|13|2|0|1|5|82
+Sean Nolin|L|Mike Napoli|R|Groundout|C|Four-Seam Fastball|14|0|0|2|2|87
+Sean Nolin|L|Mike Napoli|R|Groundout|T|Four-Seam Fastball|15|0|1|2|5|88
+Sean Nolin|L|Mike Napoli|R|Groundout|F|Four-Seam Fastball|16|0|2|2|3|89
+Sean Nolin|L|Mike Napoli|R|Groundout|B|Changeup|17|0|2|2|12|73
+Sean Nolin|L|Mike Napoli|R|Groundout|B|Four-Seam Fastball|18|1|2|2|9|90
+Sean Nolin|L|Mike Napoli|R|Groundout|X|Cutter|19|2|2|2|8|86
+Sean Nolin|L|Mitch Moreland|L|Single|B|Cutter|20|0|0|0|1|81
+Sean Nolin|L|Mitch Moreland|L|Single|F|Four-Seam Fastball|21|1|0|0|4|85
+Sean Nolin|L|Mitch Moreland|L|Single|S|Four-Seam Fastball|22|1|1|0|2|84
+Sean Nolin|L|Mitch Moreland|L|Single|B|Four-Seam Fastball|23|1|2|0|13|89
+Sean Nolin|L|Mitch Moreland|L|Single|D|Four-Seam Fastball|24|2|2|0|4|85
+Sean Nolin|L|Elvis Andrus|R|Forceout|C|Four-Seam Fastball|25|0|0|0|14|83
+Sean Nolin|L|Elvis Andrus|R|Forceout|B|Changeup|26|0|1|0|12|77
+Sean Nolin|L|Elvis Andrus|R|Forceout|B|Changeup|27|1|1|0|13|76
+Sean Nolin|L|Elvis Andrus|R|Forceout|B|Four-Seam Fastball|28|2|1|0|12|82
+Sean Nolin|L|Elvis Andrus|R|Forceout|C|Four-Seam Fastball|29|3|1|0|5|85
+Sean Nolin|L|Elvis Andrus|R|Forceout|X|Four-Seam Fastball|30|3|2|0|2|88
+Sean Nolin|L|Rougned Odor|L|Flyout|C|Four-Seam Fastball|31|0|0|1|6|82
+Sean Nolin|L|Rougned Odor|L|Flyout|C|Four-Seam Fastball|32|0|1|1|13|88
+Sean Nolin|L|Rougned Odor|L|Flyout|B|Four-Seam Fastball|33|0|2|1|8|88
+Sean Nolin|L|Rougned Odor|L|Flyout|B|Curveball|34|1|2|1|12|73
+Sean Nolin|L|Rougned Odor|L|Flyout|X|Cutter|35|2|2|1|5|83
+Sean Nolin|L|Chris Gimenez|R|Strikeout|C|Four-Seam Fastball|36|0|0|2|9|82
+Sean Nolin|L|Chris Gimenez|R|Strikeout|B|Four-Seam Fastball|37|0|1|2|13|87
+Sean Nolin|L|Chris Gimenez|R|Strikeout|B|Changeup|38|1|1|2|12|74
+Sean Nolin|L|Chris Gimenez|R|Strikeout|B|Four-Seam Fastball|39|2|1|2|13|81
+Sean Nolin|L|Chris Gimenez|R|Strikeout|F|Four-Seam Fastball|40|3|1|2|4|87
+Sean Nolin|L|Chris Gimenez|R|Strikeout|S|Four-Seam Fastball|41|3|2|2|12|88
+Sean Nolin|L|Delino DeShields|R|Lineout|C|Four-Seam Fastball|42|0|0|0|7|85
+Sean Nolin|L|Delino DeShields|R|Lineout|B|Curveball|43|0|1|0|12|71
+Sean Nolin|L|Delino DeShields|R|Lineout|F|Changeup|44|1|1|0|14|77
+Sean Nolin|L|Delino DeShields|R|Lineout|B|Four-Seam Fastball|45|1|2|0|11|87
+Sean Nolin|L|Delino DeShields|R|Lineout|B|Four-Seam Fastball|46|2|2|0|11|87
+Sean Nolin|L|Delino DeShields|R|Lineout|F|Four-Seam Fastball|47|3|2|0|3|87
+Sean Nolin|L|Delino DeShields|R|Lineout|F|Four-Seam Fastball|48|3|2|0|3|87
+Sean Nolin|L|Delino DeShields|R|Lineout|X|Changeup|49|3|2|0|5|76
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|C|Curveball|50|0|0|1|11|73
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|B|Four-Seam Fastball|51|0|1|1|12|88
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|S|Cutter|52|1|1|1|3|83
+Sean Nolin|L|Shin-Soo Choo|L|Strikeout|S|Four-Seam Fastball|53|1|2|1|12|89
+Sean Nolin|L|Adrian Beltre|R|Flyout|X|Four-Seam Fastball|54|0|0|2|4|89
+Sean Nolin|L|Prince Fielder|L|Flyout|B|Four-Seam Fastball|55|0|0|0|11|87
+Sean Nolin|L|Prince Fielder|L|Flyout|C|Cutter|56|1|0|0|7|82
+Sean Nolin|L|Prince Fielder|L|Flyout|X|Four-Seam Fastball|57|1|1|0|4|82
+Sean Nolin|L|Mike Napoli|R|Double|F|Four-Seam Fastball|58|0|0|1|11|88
+Sean Nolin|L|Mike Napoli|R|Double|D|Changeup|59|0|1|1|4|76
+Sean Nolin|L|Mitch Moreland|L|Single|B|Curveball|60|0|0|1|3|72
+Sean Nolin|L|Mitch Moreland|L|Single|B|Four-Seam Fastball|61|1|0|1|13|88
+Sean Nolin|L|Mitch Moreland|L|Single|D|Cutter|62|2|0|1|13|82
+Sean Nolin|L|Elvis Andrus|R|Pop Out|C|Four-Seam Fastball|63|0|0|1|6|87
+Sean Nolin|L|Elvis Andrus|R|Pop Out|B|Four-Seam Fastball|64|0|1|1|12|90
+Sean Nolin|L|Elvis Andrus|R|Pop Out|B|Four-Seam Fastball|65|1|1|1|13|87
+Sean Nolin|L|Elvis Andrus|R|Pop Out|W|Changeup|66|2|1|1|14|77
+Sean Nolin|L|Elvis Andrus|R|Pop Out|F|Four-Seam Fastball|67|2|2|1|12|90
+Sean Nolin|L|Elvis Andrus|R|Pop Out|*B|Four-Seam Fastball|68|2|2|1|13|90
+Sean Nolin|L|Elvis Andrus|R|Pop Out|X|Changeup|69|3|2|1|11|76
+Sean Nolin|L|Rougned Odor|L|Flyout|C|Four-Seam Fastball|70|0|0|2|13|89
+Sean Nolin|L|Rougned Odor|L|Flyout|B|Four-Seam Fastball|71|0|1|2|11|90
+Sean Nolin|L|Rougned Odor|L|Flyout|B|Curveball|72|1|1|2|11|75
+Sean Nolin|L|Rougned Odor|L|Flyout|X|Four-Seam Fastball|73|2|1|2|4|87
+Sean Nolin|L|Chris Gimenez|R|Walk|B|Four-Seam Fastball|74|0|0|0|11|87
+Sean Nolin|L|Chris Gimenez|R|Walk|C|Changeup|75|1|0|0|4|75
+Sean Nolin|L|Chris Gimenez|R|Walk|B|Cutter|76|1|1|0|12|82
+Sean Nolin|L|Chris Gimenez|R|Walk|B|Four-Seam Fastball|77|2|1|0|13|83
+Sean Nolin|L|Chris Gimenez|R|Walk|B|Four-Seam Fastball|78|3|1|0|11|87
+Sean Nolin|L|Delino DeShields|R|Single|C|Four-Seam Fastball|79|0|0|0|3|86
+Sean Nolin|L|Delino DeShields|R|Single|B|Four-Seam Fastball|80|0|1|0|12|88
+Sean Nolin|L|Delino DeShields|R|Single|D|Cutter|81|1|1|0|4|81
+Sean Nolin|L|Shin-Soo Choo|L|Sac Fly|B|Cutter|82|0|0|0|13|85
+Sean Nolin|L|Shin-Soo Choo|L|Sac Fly|F|Four-Seam Fastball|83|1|0|0|11|88
+Sean Nolin|L|Shin-Soo Choo|L|Sac Fly|E|Curveball|84|1|1|0|2|75
+Sean Nolin|L|Adrian Beltre|R|Sac Fly|E|Four-Seam Fastball|85|0|0|1|7|89
+Sean Nolin|L|Prince Fielder|L|Groundout|B|Curveball|86|0|0|2|13|76
+Sean Nolin|L|Prince Fielder|L|Groundout|F|Four-Seam Fastball|87|1|0|2|4|89
+Sean Nolin|L|Prince Fielder|L|Groundout|F|Four-Seam Fastball|88|1|1|2|12|89
+Sean Nolin|L|Prince Fielder|L|Groundout|F|Cutter|89|1|2|2|11|87
+Sean Nolin|L|Prince Fielder|L|Groundout|F|Four-Seam Fastball|90|1|2|2|1|91
+Sean Nolin|L|Prince Fielder|L|Groundout|X|Curveball|91|1|2|2|7|76
+Sean Nolin|L|Mike Napoli|R|Single|C|Four-Seam Fastball|92|0|0|0|9|83
+Sean Nolin|L|Mike Napoli|R|Single|D|Four-Seam Fastball|93|0|1|0|11|87
+Sean Nolin|L|Mitch Moreland|L|Home Run|B|Cutter|94|0|0|0|13|81
+Sean Nolin|L|Mitch Moreland|L|Home Run|S|Four-Seam Fastball|95|1|0|0|11|85
+Sean Nolin|L|Mitch Moreland|L|Home Run|B|Changeup|96|1|1|0|14|79
+Sean Nolin|L|Mitch Moreland|L|Home Run|E|Four-Seam Fastball|97|2|1|0|1|86
+Sean Nolin|L|Angel Pagan|R|Strikeout|C|Changeup|0|0|0|0|9|80
+Sean Nolin|L|Angel Pagan|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|7|82
+Sean Nolin|L|Angel Pagan|R|Strikeout|B|Four-Seam Fastball|2|0|2|0|13|88
+Sean Nolin|L|Angel Pagan|R|Strikeout|S|Cutter|3|1|2|0|12|82
+Sean Nolin|L|Kelby Tomlinson|R|Single|C|Changeup|4|0|0|1|6|81
+Sean Nolin|L|Kelby Tomlinson|R|Single|B|Four-Seam Fastball|5|0|1|1|9|86
+Sean Nolin|L|Kelby Tomlinson|R|Single|D|Changeup|6|1|1|1|3|75
+Sean Nolin|L|Matt Duffy|R|Single|D|Changeup|7|0|0|1|6|80
+Sean Nolin|L|Buster Posey|R|Flyout|B|Cutter|8|0|0|1|7|81
+Sean Nolin|L|Buster Posey|R|Flyout|F|Four-Seam Fastball|9|1|0|1|6|82
+Sean Nolin|L|Buster Posey|R|Flyout|B|Changeup|10|1|1|1|12|76
+Sean Nolin|L|Buster Posey|R|Flyout|X|Changeup|11|2|1|1|14|76
+Sean Nolin|L|Marlon Byrd|R|Forceout|X|Changeup|12|0|0|2|6|75
+Sean Nolin|L|Brandon Crawford|L|Single|F|Changeup|13|0|0|0|12|79
+Sean Nolin|L|Brandon Crawford|L|Single|B|Four-Seam Fastball|14|0|1|0|13|84
+Sean Nolin|L|Brandon Crawford|L|Single|D|Changeup|15|1|1|0|7|74
+Sean Nolin|L|Jarrett Parker|L|Single|B|Cutter|16|0|0|0|13|83
+Sean Nolin|L|Jarrett Parker|L|Single|D|Changeup|17|1|0|0|5|75
+Sean Nolin|L|Mac Williamson|R|Single|F|Cutter|18|0|0|0|2|81
+Sean Nolin|L|Mac Williamson|R|Single|C|Four-Seam Fastball|19|0|1|0|14|82
+Sean Nolin|L|Mac Williamson|R|Single|D|Four-Seam Fastball|20|0|2|0|8|86
+Sean Nolin|L|Trevor Brown|R|Sac Fly|*B|Cutter|21|0|0|0|13|84
+Sean Nolin|L|Trevor Brown|R|Sac Fly|E|Four-Seam Fastball|22|1|0|0|3|84
+Sean Nolin|L|Angel Pagan|R|Sac Fly|E|Changeup|23|0|0|1|2|77
+Sean Nolin|L|Kelby Tomlinson|R|Single|C|Curveball|24|0|0|2|1|73
+Sean Nolin|L|Kelby Tomlinson|R|Single|E|Four-Seam Fastball|25|0|1|2|8|87
+Sean Nolin|L|Matt Duffy|R|Flyout|C|Four-Seam Fastball|26|0|0|2|12|86
+Sean Nolin|L|Matt Duffy|R|Flyout|B|Four-Seam Fastball|27|0|1|2|14|88
+Sean Nolin|L|Matt Duffy|R|Flyout|B|Cutter|28|1|1|2|12|83
+Sean Nolin|L|Matt Duffy|R|Flyout|X|Four-Seam Fastball|29|2|1|2|9|81
+Sean Nolin|L|Buster Posey|R|Single|B|Curveball|30|0|0|0|12|70
+Sean Nolin|L|Buster Posey|R|Single|C|Cutter|31|1|0|0|3|80
+Sean Nolin|L|Buster Posey|R|Single|B|Curveball|32|1|1|0|13|75
+Sean Nolin|L|Buster Posey|R|Single|D|Four-Seam Fastball|33|2|1|0|12|83
+Sean Nolin|L|Marlon Byrd|R|Groundout|S|Slider|34|0|0|0|3|80
+Sean Nolin|L|Marlon Byrd|R|Groundout|B|Changeup|35|0|1|0|12|76
+Sean Nolin|L|Marlon Byrd|R|Groundout|X|Four-Seam Fastball|36|1|1|0|13|87
+Sean Nolin|L|Brandon Crawford|L|Field Error|C|Cutter|37|0|0|1|11|81
+Sean Nolin|L|Brandon Crawford|L|Field Error|F|Four-Seam Fastball|38|0|1|1|12|83
+Sean Nolin|L|Brandon Crawford|L|Field Error|D|Curveball|39|0|2|1|11|75
+Sean Nolin|L|Jarrett Parker|L|Walk|B|Changeup|40|0|0|1|11|76
+Sean Nolin|L|Jarrett Parker|L|Walk|S|Cutter|41|1|0|1|8|83
+Sean Nolin|L|Jarrett Parker|L|Walk|B|Cutter|42|1|1|1|13|86
+Sean Nolin|L|Jarrett Parker|L|Walk|S|Cutter|43|2|1|1|4|83
+Sean Nolin|L|Jarrett Parker|L|Walk|*B|Curveball|44|2|2|1|13|76
+Sean Nolin|L|Jarrett Parker|L|Walk|B|Cutter|45|3|2|1|9|83
+Sean Nolin|L|Ketel Marte|R|Field Error|C|Cutter|0|0|0|0|2|84
+Sean Nolin|L|Ketel Marte|R|Field Error|B|Curveball|1|0|1|0|12|70
+Sean Nolin|L|Ketel Marte|R|Field Error|D|Cutter|2|1|1|0|14|80
+Sean Nolin|L|Kyle Seager|L|Forceout|C|Cutter|3|0|0|0|2|80
+Sean Nolin|L|Kyle Seager|L|Forceout|F|Cutter|4|0|1|0|4|85
+Sean Nolin|L|Kyle Seager|L|Forceout|B|Four-Seam Fastball|5|0|2|0|8|87
+Sean Nolin|L|Kyle Seager|L|Forceout|X|Changeup|6|1|2|0|11|74
+Sean Nolin|L|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|9|86
+Sean Nolin|L|Nelson Cruz|R|Strikeout|F|Changeup|8|0|1|1|8|76
+Sean Nolin|L|Nelson Cruz|R|Strikeout|S|Changeup|9|0|2|1|14|75
+Sean Nolin|L|Robinson Cano|L|Single|F|Cutter|10|0|0|2|11|81
+Sean Nolin|L|Robinson Cano|L|Single|F|Cutter|11|0|1|2|7|81
+Sean Nolin|L|Robinson Cano|L|Single|B|Four-Seam Fastball|12|0|2|2|11|88
+Sean Nolin|L|Robinson Cano|L|Single|F|Changeup|13|1|2|2|11|73
+Sean Nolin|L|Robinson Cano|L|Single|B|Four-Seam Fastball|14|1|2|2|13|89
+Sean Nolin|L|Robinson Cano|L|Single|B|Changeup|15|2|2|2|13|75
+Sean Nolin|L|Robinson Cano|L|Single|D|Four-Seam Fastball|16|3|2|2|13|89
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|C|Cutter|17|0|0|2|9|82
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|X|Four-Seam Fastball|18|0|1|2|1|87
+Sean Nolin|L|Mark Trumbo|R|Lineout|X|Four-Seam Fastball|19|0|0|0|12|86
+Sean Nolin|L|Jesus Montero|R|Pop Out|C|Cutter|20|0|0|1|14|84
+Sean Nolin|L|Jesus Montero|R|Pop Out|F|Four-Seam Fastball|21|0|1|1|6|87
+Sean Nolin|L|Jesus Montero|R|Pop Out|X|Changeup|22|0|2|1|9|75
+Sean Nolin|L|Brad Miller|L|Pop Out|C|Cutter|23|0|0|2|4|80
+Sean Nolin|L|Brad Miller|L|Pop Out|X|Curveball|24|0|1|2|4|73
+Sean Nolin|L|Jesus Sucre|R|Single|C|Cutter|25|0|0|0|2|84
+Sean Nolin|L|Jesus Sucre|R|Single|D|Four-Seam Fastball|26|0|1|0|5|87
+Sean Nolin|L|Ketel Marte|R|Pop Out|B|Changeup|27|0|0|0|14|77
+Sean Nolin|L|Ketel Marte|R|Pop Out|B|Four-Seam Fastball|28|1|0|0|12|85
+Sean Nolin|L|Ketel Marte|R|Pop Out|X|Slider|29|2|0|0|14|79
+Sean Nolin|L|Kyle Seager|L|Flyout|X|Changeup|30|0|0|1|4|75
+Sean Nolin|L|Nelson Cruz|R|Single|*B|Cutter|31|0|0|2|13|81
+Sean Nolin|L|Nelson Cruz|R|Single|B|Four-Seam Fastball|32|1|0|2|14|86
+Sean Nolin|L|Nelson Cruz|R|Single|B|Cutter|33|2|0|2|12|85
+Sean Nolin|L|Nelson Cruz|R|Single|C|Four-Seam Fastball|34|3|0|2|1|85
+Sean Nolin|L|Nelson Cruz|R|Single|F|Four-Seam Fastball|35|3|1|2|6|85
+Sean Nolin|L|Nelson Cruz|R|Single|F|Slider|36|3|2|2|12|73
+Sean Nolin|L|Nelson Cruz|R|Single|F|Four-Seam Fastball|37|3|2|2|12|90
+Sean Nolin|L|Nelson Cruz|R|Single|D|Four-Seam Fastball|38|3|2|2|9|90
+Sean Nolin|L|Robinson Cano|L|Home Run|B|Four-Seam Fastball|39|0|0|2|13|88
+Sean Nolin|L|Robinson Cano|L|Home Run|E|Changeup|40|1|0|2|9|75
+Sean Nolin|L|Franklin Gutierrez|R|Single|C|Changeup|41|0|0|2|3|75
+Sean Nolin|L|Franklin Gutierrez|R|Single|B|Curveball|42|0|1|2|13|74
+Sean Nolin|L|Franklin Gutierrez|R|Single|B|Four-Seam Fastball|43|1|1|2|13|87
+Sean Nolin|L|Franklin Gutierrez|R|Single|F|Changeup|44|2|1|2|4|77
+Sean Nolin|L|Franklin Gutierrez|R|Single|D|Four-Seam Fastball|45|2|2|2|5|90
+Sean Nolin|L|Mark Trumbo|R|Flyout|B|Cutter|46|0|0|2|13|84
+Sean Nolin|L|Mark Trumbo|R|Flyout|X|Changeup|47|1|0|2|14|75
+Sean Nolin|L|Jesus Montero|R|Flyout|X|Changeup|48|0|0|0|6|76
+Sean Nolin|L|Brad Miller|L|Single|B|Cutter|49|0|0|1|13|80
+Sean Nolin|L|Brad Miller|L|Single|D|Curveball|50|1|0|1|4|80
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|B|Changeup|51|0|0|1|14|76
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|F|Changeup|52|1|0|1|5|73
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|B|Cutter|53|1|1|1|11|86
+Sean Nolin|L|Jesus Sucre|R|Grounded Into DP|X|Changeup|54|2|1|1|14|73
+Sean Nolin|L|Ketel Marte|R|Field Error|B|Curveball|55|0|0|0|12|72
+Sean Nolin|L|Ketel Marte|R|Field Error|B|Changeup|56|1|0|0|14|73
+Sean Nolin|L|Ketel Marte|R|Field Error|C|Cutter|57|2|0|0|6|84
+Sean Nolin|L|Ketel Marte|R|Field Error|B|Four-Seam Fastball|58|2|1|0|13|87
+Sean Nolin|L|Ketel Marte|R|Field Error|C|Cutter|59|3|1|0|8|84
+Sean Nolin|L|Ketel Marte|R|Field Error|D|Four-Seam Fastball|60|3|2|0|13|88
+Sean Nolin|L|Kyle Seager|L|Pop Out|B|Cutter|61|0|0|0|11|84
+Sean Nolin|L|Kyle Seager|L|Pop Out|X|Cutter|62|1|0|0|1|84
+Sean Nolin|L|Nelson Cruz|R|Strikeout|C|Cutter|63|0|0|1|3|85
+Sean Nolin|L|Nelson Cruz|R|Strikeout|B|Changeup|64|0|1|1|14|76
+Sean Nolin|L|Nelson Cruz|R|Strikeout|S|Cutter|65|1|1|1|13|82
+Sean Nolin|L|Nelson Cruz|R|Strikeout|B|Changeup|66|1|2|1|12|72
+Sean Nolin|L|Nelson Cruz|R|Strikeout|C|Changeup|67|2|2|1|6|76
+Sean Nolin|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|68|0|0|2|11|86
+Sean Nolin|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|69|1|0|2|13|85
+Sean Nolin|L|Robinson Cano|L|Walk|B|Four-Seam Fastball|70|2|0|2|13|86
+Sean Nolin|L|Robinson Cano|L|Walk|B|Cutter|71|3|0|2|11|85
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|B|Changeup|72|0|0|2|12|77
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|B|Changeup|73|1|0|2|14|77
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|C|Changeup|74|2|0|2|1|76
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|F|Cutter|75|2|1|2|5|82
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|F|Changeup|76|2|2|2|3|79
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|B|Four-Seam Fastball|77|2|2|2|13|90
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|F|Changeup|78|3|2|2|13|76
+Sean Nolin|L|Franklin Gutierrez|R|Flyout|X|Cutter|79|3|2|2|6|83

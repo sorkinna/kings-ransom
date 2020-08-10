@@ -1,0 +1,536 @@
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|95
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|B|Changeup|1|0|1|0|11|85
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|1|94
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|F|Curveball|3|1|2|0|5|81
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|B|Changeup|4|1|2|0|14|84
+Jacob Webb|R|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|11|95
+Jacob Webb|R|Ketel Marte|L|Flyout|C|Four-Seam Fastball|6|0|0|1|7|95
+Jacob Webb|R|Ketel Marte|L|Flyout|B|Four-Seam Fastball|7|0|1|1|11|95
+Jacob Webb|R|Ketel Marte|L|Flyout|B|Curveball|8|1|1|1|14|81
+Jacob Webb|R|Ketel Marte|L|Flyout|X|Four-Seam Fastball|9|2|1|1|14|94
+Jacob Webb|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|10|0|0|2|11|95
+Jacob Webb|R|Eduardo Escobar|L|Walk|F|Four-Seam Fastball|11|1|0|2|4|95
+Jacob Webb|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|12|1|1|2|14|95
+Jacob Webb|R|Eduardo Escobar|L|Walk|F|Four-Seam Fastball|13|2|1|2|4|95
+Jacob Webb|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|14|2|2|2|11|95
+Jacob Webb|R|Eduardo Escobar|L|Walk|B|Four-Seam Fastball|15|3|2|2|12|95
+Jacob Webb|R|Nick Ahmed|R|Single|B|Four-Seam Fastball|0|0|0|0|11|93
+Jacob Webb|R|Nick Ahmed|R|Single|C|Four-Seam Fastball|1|1|0|0|13|93
+Jacob Webb|R|Nick Ahmed|R|Single|D|Four-Seam Fastball|2|1|1|0|7|93
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|B|Curveball|3|0|0|0|14|80
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|B|Four-Seam Fastball|4|1|0|0|14|94
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|B|Curveball|5|2|0|0|14|80
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|C|Four-Seam Fastball|6|3|0|0|6|93
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|C|Four-Seam Fastball|7|3|1|0|13|94
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|F|Four-Seam Fastball|8|3|2|0|13|94
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|F|Four-Seam Fastball|9|3|2|0|1|94
+Jacob Webb|R|Carson Kelly|R|Grounded Into DP|X|Curveball|10|3|2|0|12|80
+Jacob Webb|R|T.J. McFarland|L|Strikeout|C|Four-Seam Fastball|11|0|0|2|13|93
+Jacob Webb|R|T.J. McFarland|L|Strikeout|B|Curveball|12|0|1|2|14|80
+Jacob Webb|R|T.J. McFarland|L|Strikeout|S|Four-Seam Fastball|13|1|1|2|8|94
+Jacob Webb|R|T.J. McFarland|L|Strikeout|F|Four-Seam Fastball|14|1|2|2|11|94
+Jacob Webb|R|T.J. McFarland|L|Strikeout|B|Curveball|15|1|2|2|14|80
+Jacob Webb|R|T.J. McFarland|L|Strikeout|F|Four-Seam Fastball|16|2|2|2|11|92
+Jacob Webb|R|T.J. McFarland|L|Strikeout|B|Four-Seam Fastball|17|2|2|2|14|94
+Jacob Webb|R|T.J. McFarland|L|Strikeout|F|Four-Seam Fastball|18|3|2|2|2|94
+Jacob Webb|R|T.J. McFarland|L|Strikeout|C|Four-Seam Fastball|19|3|2|2|4|94
+Jacob Webb|R|David Bote|R|Forceout|X|Curveball|0|0|0|2|13|80
+Jacob Webb|R|Albert Almora Jr.|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|14|94
+Jacob Webb|R|Albert Almora Jr.|R|Pop Out|X|Changeup|1|0|1|0|1|84
+Jacob Webb|R|David Bote|R|Strikeout|B|Curveball|2|0|0|1|11|80
+Jacob Webb|R|David Bote|R|Strikeout|S|Curveball|3|1|0|1|14|81
+Jacob Webb|R|David Bote|R|Strikeout|S|Curveball|4|1|1|1|14|81
+Jacob Webb|R|David Bote|R|Strikeout|B|Curveball|5|1|2|1|14|83
+Jacob Webb|R|David Bote|R|Strikeout|W|Curveball|6|2|2|1|14|83
+Jacob Webb|R|Addison Russell|R|Flyout|F|Four-Seam Fastball|7|0|0|2|8|96
+Jacob Webb|R|Addison Russell|R|Flyout|B|Four-Seam Fastball|8|0|1|2|12|95
+Jacob Webb|R|Addison Russell|R|Flyout|X|Curveball|9|1|1|2|9|82
+Jacob Webb|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|94
+Jacob Webb|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|89
+Jacob Webb|R|Kevin Plawecki|R|Walk|F|Four-Seam Fastball|2|2|0|0|13|94
+Jacob Webb|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|93
+Jacob Webb|R|Kevin Plawecki|R|Walk|F|Four-Seam Fastball|4|3|1|0|6|93
+Jacob Webb|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|5|3|2|0|12|93
+Jacob Webb|R|Max Moroff|L|Strikeout|B|Four-Seam Fastball|6|0|0|0|13|93
+Jacob Webb|R|Max Moroff|L|Strikeout|B|Four-Seam Fastball|7|1|0|0|14|94
+Jacob Webb|R|Max Moroff|L|Strikeout|C|Four-Seam Fastball|8|2|0|0|13|94
+Jacob Webb|R|Max Moroff|L|Strikeout|F|Four-Seam Fastball|9|2|1|0|9|95
+Jacob Webb|R|Max Moroff|L|Strikeout|F|Four-Seam Fastball|10|2|2|0|14|94
+Jacob Webb|R|Max Moroff|L|Strikeout|W|Curveball|11|2|2|0|14|82
+Jacob Webb|R|Leonys Martin|L|Strikeout|S|Four-Seam Fastball|12|0|0|1|2|93
+Jacob Webb|R|Leonys Martin|L|Strikeout|B|Four-Seam Fastball|13|0|1|1|12|94
+Jacob Webb|R|Leonys Martin|L|Strikeout|F|Curveball|14|1|1|1|9|81
+Jacob Webb|R|Leonys Martin|L|Strikeout|B|Curveball|15|1|2|1|13|81
+Jacob Webb|R|Leonys Martin|L|Strikeout|*B|Curveball|16|2|2|1|14|82
+Jacob Webb|R|Leonys Martin|L|Strikeout|T|Four-Seam Fastball|17|3|2|1|4|94
+Jacob Webb|R|Jose Ramirez|L|Flyout|C|Curveball|18|0|0|2|11|81
+Jacob Webb|R|Jose Ramirez|L|Flyout|B|Four-Seam Fastball|19|0|1|2|11|91
+Jacob Webb|R|Jose Ramirez|L|Flyout|F|Changeup|20|1|1|2|13|85
+Jacob Webb|R|Jose Ramirez|L|Flyout|B|Curveball|21|1|2|2|14|81
+Jacob Webb|R|Jose Ramirez|L|Flyout|X|Four-Seam Fastball|22|2|2|2|9|94
+Jacob Webb|R|Austin Barnes|R|Flyout|X|Four-Seam Fastball|0|0|0|0|5|96
+Jacob Webb|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|1|0|0|1|9|96
+Jacob Webb|R|Enrique Hernandez|R|Single|C|Four-Seam Fastball|2|0|0|2|2|95
+Jacob Webb|R|Enrique Hernandez|R|Single|B|Four-Seam Fastball|3|0|1|2|13|95
+Jacob Webb|R|Enrique Hernandez|R|Single|S|Curveball|4|1|1|2|14|81
+Jacob Webb|R|Enrique Hernandez|R|Single|F|Curveball|5|1|2|2|7|82
+Jacob Webb|R|Enrique Hernandez|R|Single|D|Four-Seam Fastball|6|1|2|2|4|96
+Jacob Webb|R|Cody Bellinger|L|Flyout|B|Curveball|7|0|0|2|14|82
+Jacob Webb|R|Cody Bellinger|L|Flyout|C|Curveball|8|1|0|2|7|82
+Jacob Webb|R|Cody Bellinger|L|Flyout|X|Four-Seam Fastball|9|1|1|2|11|95
+Jacob Webb|R|Enrique Hernandez|R|Flyout|B|Curveball|0|0|0|1|14|81
+Jacob Webb|R|Enrique Hernandez|R|Flyout|S|Changeup|1|1|0|1|7|85
+Jacob Webb|R|Enrique Hernandez|R|Flyout|B|Changeup|2|1|1|1|11|86
+Jacob Webb|R|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|3|2|1|1|5|94
+Jacob Webb|R|Austin Barnes|R|Strikeout|B|Curveball|4|0|0|2|11|81
+Jacob Webb|R|Austin Barnes|R|Strikeout|B|Four-Seam Fastball|5|1|0|2|11|95
+Jacob Webb|R|Austin Barnes|R|Strikeout|B|Four-Seam Fastball|6|2|0|2|14|95
+Jacob Webb|R|Austin Barnes|R|Strikeout|C|Four-Seam Fastball|7|3|0|2|5|95
+Jacob Webb|R|Austin Barnes|R|Strikeout|F|Four-Seam Fastball|8|3|1|2|13|95
+Jacob Webb|R|Austin Barnes|R|Strikeout|F|Four-Seam Fastball|9|3|2|2|4|94
+Jacob Webb|R|Austin Barnes|R|Strikeout|S|Four-Seam Fastball|10|3|2|2|11|94
+Jacob Webb|R|David Freese|R|Walk|B|Curveball|11|0|0|0|14|80
+Jacob Webb|R|David Freese|R|Walk|C|Four-Seam Fastball|12|1|0|0|7|94
+Jacob Webb|R|David Freese|R|Walk|B|Changeup|13|1|1|0|14|85
+Jacob Webb|R|David Freese|R|Walk|B|Four-Seam Fastball|14|2|1|0|12|93
+Jacob Webb|R|David Freese|R|Walk|B|Four-Seam Fastball|15|3|1|0|11|94
+Jacob Webb|R|Chris Taylor|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|5|94
+Jacob Webb|R|Chris Taylor|R|Strikeout|C|Curveball|17|0|1|0|14|80
+Jacob Webb|R|Chris Taylor|R|Strikeout|B|Changeup|18|0|2|0|11|85
+Jacob Webb|R|Chris Taylor|R|Strikeout|C|Four-Seam Fastball|19|1|2|0|3|94
+Jacob Webb|R|Max Muncy|L|Strikeout|C|Changeup|20|0|0|1|11|85
+Jacob Webb|R|Max Muncy|L|Strikeout|B|Curveball|21|0|1|1|14|81
+Jacob Webb|R|Max Muncy|L|Strikeout|S|Curveball|22|1|1|1|4|80
+Jacob Webb|R|Max Muncy|L|Strikeout|F|Changeup|23|1|2|1|13|86
+Jacob Webb|R|Max Muncy|L|Strikeout|S|Curveball|24|1|2|1|9|81
+Jacob Webb|R|Justin Turner|R|Home Run|C|Four-Seam Fastball|25|0|0|2|9|94
+Jacob Webb|R|Justin Turner|R|Home Run|E|Changeup|26|0|1|2|6|86
+Jacob Webb|R|Cody Bellinger|L|Groundout|C|Four-Seam Fastball|27|0|0|2|8|94
+Jacob Webb|R|Cody Bellinger|L|Groundout|C|Four-Seam Fastball|28|0|1|2|14|94
+Jacob Webb|R|Cody Bellinger|L|Groundout|B|Curveball|29|0|2|2|14|81
+Jacob Webb|R|Cody Bellinger|L|Groundout|X|Curveball|30|1|2|2|7|82
+Jacob Webb|R|Brian Dozier|R|Pop Out|C|Curveball|0|0|0|0|14|80
+Jacob Webb|R|Brian Dozier|R|Pop Out|B|Curveball|1|0|1|0|14|81
+Jacob Webb|R|Brian Dozier|R|Pop Out|B|Four-Seam Fastball|2|1|1|0|12|95
+Jacob Webb|R|Brian Dozier|R|Pop Out|X|Four-Seam Fastball|3|2|1|0|3|94
+Jacob Webb|R|Victor Robles|R|Groundout|F|Curveball|4|0|0|1|9|80
+Jacob Webb|R|Victor Robles|R|Groundout|F|Four-Seam Fastball|5|0|1|1|1|95
+Jacob Webb|R|Victor Robles|R|Groundout|X|Changeup|6|0|2|1|6|84
+Jacob Webb|R|Michael A. Taylor|R|Lineout|B|Four-Seam Fastball|7|0|0|2|14|94
+Jacob Webb|R|Michael A. Taylor|R|Lineout|X|Four-Seam Fastball|8|1|0|2|13|95
+Jacob Webb|R|Yan Gomes|R|Flyout|B|Four-Seam Fastball|9|0|0|0|12|94
+Jacob Webb|R|Yan Gomes|R|Flyout|B|Four-Seam Fastball|10|1|0|0|14|94
+Jacob Webb|R|Yan Gomes|R|Flyout|X|Four-Seam Fastball|11|2|0|0|14|94
+Jacob Webb|R|Gerardo Parra|L|Strikeout|S|Curveball|12|0|0|1|13|80
+Jacob Webb|R|Gerardo Parra|L|Strikeout|S|Curveball|13|0|1|1|14|81
+Jacob Webb|R|Gerardo Parra|L|Strikeout|B|Four-Seam Fastball|14|0|2|1|11|94
+Jacob Webb|R|Gerardo Parra|L|Strikeout|B|Changeup|15|1|2|1|11|85
+Jacob Webb|R|Gerardo Parra|L|Strikeout|B|Four-Seam Fastball|16|2|2|1|11|95
+Jacob Webb|R|Gerardo Parra|L|Strikeout|F|Curveball|17|3|2|1|14|81
+Jacob Webb|R|Gerardo Parra|L|Strikeout|C|Four-Seam Fastball|18|3|2|1|13|95
+Jacob Webb|R|Trea Turner|R|Strikeout|F|Curveball|19|0|0|2|7|81
+Jacob Webb|R|Trea Turner|R|Strikeout|B|Curveball|20|0|1|2|14|81
+Jacob Webb|R|Trea Turner|R|Strikeout|B|Changeup|21|1|1|2|14|86
+Jacob Webb|R|Trea Turner|R|Strikeout|B|Four-Seam Fastball|22|2|1|2|11|94
+Jacob Webb|R|Trea Turner|R|Strikeout|S|Four-Seam Fastball|23|3|1|2|3|94
+Jacob Webb|R|Trea Turner|R|Strikeout|F|Four-Seam Fastball|24|3|2|2|11|95
+Jacob Webb|R|Trea Turner|R|Strikeout|S|Four-Seam Fastball|25|3|2|2|12|95
+Jacob Webb|R|Howie Kendrick|R|Single|D|Four-Seam Fastball|0|0|0|2|8|94
+Jacob Webb|R|Gerardo Parra|L|Single|F|Four-Seam Fastball|1|0|0|2|4|95
+Jacob Webb|R|Gerardo Parra|L|Single|E|Four-Seam Fastball|2|0|1|2|4|94
+Jacob Webb|R|Yan Gomes|R|Pop Out|B|Curveball|3|0|0|2|14|80
+Jacob Webb|R|Yan Gomes|R|Pop Out|X|Four-Seam Fastball|4|1|0|2|5|94
+Jacob Webb|R|Amed Rosario|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|94
+Jacob Webb|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|1|1|0|0|5|94
+Jacob Webb|R|Amed Rosario|R|Flyout|B|Four-Seam Fastball|2|1|1|0|11|94
+Jacob Webb|R|Amed Rosario|R|Flyout|X|Four-Seam Fastball|3|2|1|0|6|94
+Jacob Webb|R|Adeiny Hechavarria|R|Groundout|C|Curveball|4|0|0|1|4|80
+Jacob Webb|R|Adeiny Hechavarria|R|Groundout|X|Four-Seam Fastball|5|0|1|1|9|93
+Jacob Webb|R|Jeff McNeil|L|Strikeout|F|Changeup|6|0|0|2|13|85
+Jacob Webb|R|Jeff McNeil|L|Strikeout|F|Four-Seam Fastball|7|0|1|2|5|94
+Jacob Webb|R|Jeff McNeil|L|Strikeout|F|Four-Seam Fastball|8|0|2|2|1|94
+Jacob Webb|R|Jeff McNeil|L|Strikeout|B|Four-Seam Fastball|9|0|2|2|12|94
+Jacob Webb|R|Jeff McNeil|L|Strikeout|S|Changeup|10|1|2|2|11|85
+Jacob Webb|R|Kevin Newman|R|Flyout|F|Curveball|0|0|0|0|9|80
+Jacob Webb|R|Kevin Newman|R|Flyout|S|Curveball|1|0|1|0|14|80
+Jacob Webb|R|Kevin Newman|R|Flyout|B|Four-Seam Fastball|2|0|2|0|12|94
+Jacob Webb|R|Kevin Newman|R|Flyout|B|Four-Seam Fastball|3|1|2|0|11|94
+Jacob Webb|R|Kevin Newman|R|Flyout|*B|Curveball|4|2|2|0|14|82
+Jacob Webb|R|Kevin Newman|R|Flyout|X|Four-Seam Fastball|5|3|2|0|5|95
+Jacob Webb|R|Bryan Reynolds|L|Field Error|W|Curveball|6|0|0|1|13|81
+Jacob Webb|R|Bryan Reynolds|L|Field Error|B|Four-Seam Fastball|7|0|1|1|11|94
+Jacob Webb|R|Bryan Reynolds|L|Field Error|D|Curveball|8|1|1|1|4|82
+Jacob Webb|R|Starling Marte|R|Flyout|F|Four-Seam Fastball|9|0|0|1|4|94
+Jacob Webb|R|Starling Marte|R|Flyout|S|Four-Seam Fastball|10|0|1|1|5|95
+Jacob Webb|R|Starling Marte|R|Flyout|B|Four-Seam Fastball|11|0|2|1|12|95
+Jacob Webb|R|Starling Marte|R|Flyout|B|Four-Seam Fastball|12|1|2|1|12|95
+Jacob Webb|R|Starling Marte|R|Flyout|F|Four-Seam Fastball|13|2|2|1|11|95
+Jacob Webb|R|Starling Marte|R|Flyout|X|Four-Seam Fastball|14|2|2|1|4|95
+Jacob Webb|R|Josh Bell|L|Double|E|Four-Seam Fastball|15|0|0|2|8|95
+Jacob Webb|R|Elias Diaz|R|Double|S|Curveball|16|0|0|2|14|82
+Jacob Webb|R|Elias Diaz|R|Double|F|Curveball|17|0|1|2|14|81
+Jacob Webb|R|Elias Diaz|R|Double|B|Curveball|18|0|2|2|14|81
+Jacob Webb|R|Elias Diaz|R|Double|B|Four-Seam Fastball|19|1|2|2|11|94
+Jacob Webb|R|Elias Diaz|R|Double|*B|Curveball|20|2|2|2|14|82
+Jacob Webb|R|Elias Diaz|R|Double|E|Four-Seam Fastball|21|3|2|2|4|95
+Jacob Webb|R|Gregory Polanco|L|Strikeout|B|Four-Seam Fastball|22|0|0|2|11|95
+Jacob Webb|R|Gregory Polanco|L|Strikeout|B|Changeup|23|1|0|2|11|84
+Jacob Webb|R|Gregory Polanco|L|Strikeout|S|Curveball|24|2|0|2|14|82
+Jacob Webb|R|Gregory Polanco|L|Strikeout|S|Curveball|25|2|1|2|13|81
+Jacob Webb|R|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|26|2|2|2|1|95
+Jacob Webb|R|Gregory Polanco|L|Strikeout|F|Curveball|27|2|2|2|8|81
+Jacob Webb|R|Gregory Polanco|L|Strikeout|S|Curveball|28|2|2|2|11|80
+Jacob Webb|R|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|0|0|0|2|12|95
+Jacob Webb|R|Ian Kinsler|R|Groundout|F|Four-Seam Fastball|1|1|0|2|14|94
+Jacob Webb|R|Ian Kinsler|R|Groundout|B|Four-Seam Fastball|2|1|1|2|11|93
+Jacob Webb|R|Ian Kinsler|R|Groundout|F|Four-Seam Fastball|3|2|1|2|14|95
+Jacob Webb|R|Ian Kinsler|R|Groundout|X|Changeup|4|2|2|2|6|86
+Jacob Webb|R|Joe Panik|L|Lineout|C|Four-Seam Fastball|0|0|0|0|11|94
+Jacob Webb|R|Joe Panik|L|Lineout|B|Changeup|1|0|1|0|13|85
+Jacob Webb|R|Joe Panik|L|Lineout|F|Four-Seam Fastball|2|1|1|0|9|93
+Jacob Webb|R|Joe Panik|L|Lineout|F|Four-Seam Fastball|3|1|2|0|11|94
+Jacob Webb|R|Joe Panik|L|Lineout|B|Four-Seam Fastball|4|1|2|0|12|94
+Jacob Webb|R|Joe Panik|L|Lineout|F|Four-Seam Fastball|5|2|2|0|5|93
+Jacob Webb|R|Joe Panik|L|Lineout|X|Four-Seam Fastball|6|2|2|0|6|93
+Jacob Webb|R|Stephen Vogt|L|Pop Out|X|Four-Seam Fastball|7|0|0|1|3|93
+Jacob Webb|R|Buster Posey|R|Single|C|Curveball|8|0|0|2|7|80
+Jacob Webb|R|Buster Posey|R|Single|F|Curveball|9|0|1|2|9|81
+Jacob Webb|R|Buster Posey|R|Single|F|Four-Seam Fastball|10|0|2|2|1|94
+Jacob Webb|R|Buster Posey|R|Single|B|Four-Seam Fastball|11|0|2|2|11|93
+Jacob Webb|R|Buster Posey|R|Single|F|Changeup|12|1|2|2|5|84
+Jacob Webb|R|Buster Posey|R|Single|D|Four-Seam Fastball|13|1|2|2|7|93
+Jacob Webb|R|Brandon Belt|L|Flyout|F|Curveball|14|0|0|2|8|81
+Jacob Webb|R|Brandon Belt|L|Flyout|X|Four-Seam Fastball|15|0|1|2|5|94
+Jacob Webb|R|Evan Longoria|R|Walk|B|Curveball|0|0|0|1|14|80
+Jacob Webb|R|Evan Longoria|R|Walk|C|Curveball|1|1|0|1|1|81
+Jacob Webb|R|Evan Longoria|R|Walk|B|Changeup|2|1|1|1|14|85
+Jacob Webb|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|3|2|1|1|14|95
+Jacob Webb|R|Evan Longoria|R|Walk|B|Curveball|4|3|1|1|14|80
+Jacob Webb|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|5|0|0|1|2|94
+Jacob Webb|R|Kevin Pillar|R|Strikeout|B|Four-Seam Fastball|6|0|1|1|12|94
+Jacob Webb|R|Kevin Pillar|R|Strikeout|F|Four-Seam Fastball|7|1|1|1|2|94
+Jacob Webb|R|Kevin Pillar|R|Strikeout|S|Four-Seam Fastball|8|1|2|1|11|94
+Jacob Webb|R|Mac Williamson|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|9|94
+Jacob Webb|R|Mac Williamson|R|Strikeout|B|Curveball|10|0|1|2|14|82
+Jacob Webb|R|Mac Williamson|R|Strikeout|C|Curveball|11|1|1|2|5|82
+Jacob Webb|R|Mac Williamson|R|Strikeout|*B|Curveball|12|1|2|2|14|82
+Jacob Webb|R|Mac Williamson|R|Strikeout|B|Four-Seam Fastball|13|2|2|2|12|95
+Jacob Webb|R|Mac Williamson|R|Strikeout|F|Four-Seam Fastball|14|3|2|2|5|95
+Jacob Webb|R|Mac Williamson|R|Strikeout|F|Four-Seam Fastball|15|3|2|2|1|96
+Jacob Webb|R|Mac Williamson|R|Strikeout|F|Four-Seam Fastball|16|3|2|2|3|95
+Jacob Webb|R|Mac Williamson|R|Strikeout|F|Four-Seam Fastball|17|3|2|2|11|95
+Jacob Webb|R|Mac Williamson|R|Strikeout|F|Curveball|18|3|2|2|3|81
+Jacob Webb|R|Mac Williamson|R|Strikeout|C|Four-Seam Fastball|19|3|2|2|6|95
+Jacob Webb|R|Dexter Fowler|L|Flyout|X|Four-Seam Fastball|0|0|0|0|13|93
+Jacob Webb|R|Paul Goldschmidt|R|Groundout|C|Curveball|1|0|0|1|4|81
+Jacob Webb|R|Paul Goldschmidt|R|Groundout|X|Four-Seam Fastball|2|0|1|1|9|94
+Jacob Webb|R|Paul DeJong|R|Pop Out|C|Four-Seam Fastball|3|0|0|2|12|94
+Jacob Webb|R|Paul DeJong|R|Pop Out|C|Four-Seam Fastball|4|0|1|2|9|95
+Jacob Webb|R|Paul DeJong|R|Pop Out|B|Four-Seam Fastball|5|0|2|2|12|94
+Jacob Webb|R|Paul DeJong|R|Pop Out|X|Four-Seam Fastball|6|1|2|2|2|95
+Jacob Webb|R|Adam Jones|R|Double|S|Four-Seam Fastball|0|0|0|2|11|95
+Jacob Webb|R|Adam Jones|R|Double|E|Four-Seam Fastball|1|0|1|2|1|95
+Jacob Webb|R|Ketel Marte|L|Strikeout|C|Curveball|2|0|0|2|5|82
+Jacob Webb|R|Ketel Marte|L|Strikeout|B|Four-Seam Fastball|3|0|1|2|11|96
+Jacob Webb|R|Ketel Marte|L|Strikeout|S|Curveball|4|1|1|2|8|82
+Jacob Webb|R|Ketel Marte|L|Strikeout|F|Changeup|5|1|2|2|7|85
+Jacob Webb|R|Ketel Marte|L|Strikeout|B|Curveball|6|1|2|2|14|82
+Jacob Webb|R|Ketel Marte|L|Strikeout|S|Four-Seam Fastball|7|2|2|2|11|96
+Jacob Webb|R|Ildemaro Vargas|L|Lineout|C|Curveball|0|0|0|2|5|81
+Jacob Webb|R|Ildemaro Vargas|L|Lineout|F|Changeup|1|0|1|2|11|85
+Jacob Webb|R|Ildemaro Vargas|L|Lineout|X|Four-Seam Fastball|2|0|2|2|1|95
+Jacob Webb|R|Drew Butera|R|Sac Bunt|B|Curveball|0|0|0|0|12|81
+Jacob Webb|R|Drew Butera|R|Sac Bunt|B|Four-Seam Fastball|1|1|0|0|12|94
+Jacob Webb|R|Drew Butera|R|Sac Bunt|X|Four-Seam Fastball|2|2|0|0|14|95
+Jacob Webb|R|Mark Reynolds|R|Groundout|F|Curveball|3|0|0|1|5|81
+Jacob Webb|R|Mark Reynolds|R|Groundout|E|Curveball|4|0|1|1|13|82
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|B|Four-Seam Fastball|5|0|0|2|14|96
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|B|Changeup|6|1|0|2|13|86
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|B|Curveball|7|2|0|2|14|82
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|C|Four-Seam Fastball|8|3|0|2|9|95
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|S|Four-Seam Fastball|9|3|1|2|2|96
+Jacob Webb|R|Charlie Blackmon|L|Pop Out|X|Four-Seam Fastball|10|3|2|2|9|96
+Jacob Webb|R|Raimel Tapia|L|Strikeout|B|Curveball|0|0|0|2|14|82
+Jacob Webb|R|Raimel Tapia|L|Strikeout|W|Curveball|1|1|0|2|14|82
+Jacob Webb|R|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|2|1|1|2|11|95
+Jacob Webb|R|Raimel Tapia|L|Strikeout|B|Four-Seam Fastball|3|1|2|2|11|95
+Jacob Webb|R|Raimel Tapia|L|Strikeout|S|Curveball|4|2|2|2|14|82
+Jacob Webb|R|Hunter Renfroe|R|Groundout|C|Curveball|0|0|0|1|6|79
+Jacob Webb|R|Hunter Renfroe|R|Groundout|F|Curveball|1|0|1|1|14|81
+Jacob Webb|R|Hunter Renfroe|R|Groundout|X|Curveball|2|0|2|1|14|82
+Jacob Webb|R|Wil Myers|R|Strikeout|B|Curveball|3|0|0|2|14|82
+Jacob Webb|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|4|1|0|2|6|95
+Jacob Webb|R|Wil Myers|R|Strikeout|S|Curveball|5|1|1|2|14|81
+Jacob Webb|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|6|1|2|2|9|95
+Jacob Webb|R|Ian Kinsler|R|Single|C|Four-Seam Fastball|0|0|0|0|6|94
+Jacob Webb|R|Ian Kinsler|R|Single|D|Curveball|1|0|1|0|14|81
+Jacob Webb|R|Greg Garcia|L|Walk|C|Four-Seam Fastball|2|0|0|0|8|94
+Jacob Webb|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|3|0|1|0|14|95
+Jacob Webb|R|Greg Garcia|L|Walk|B|Curveball|4|1|1|0|14|82
+Jacob Webb|R|Greg Garcia|L|Walk|F|Four-Seam Fastball|5|2|1|0|7|94
+Jacob Webb|R|Greg Garcia|L|Walk|B|Changeup|6|2|2|0|11|85
+Jacob Webb|R|Greg Garcia|L|Walk|B|Four-Seam Fastball|7|3|2|0|11|95
+Jacob Webb|R|Wil Myers|R|Walk|B|Curveball|8|0|0|0|14|82
+Jacob Webb|R|Wil Myers|R|Walk|C|Four-Seam Fastball|9|1|0|0|13|95
+Jacob Webb|R|Wil Myers|R|Walk|B|Four-Seam Fastball|10|1|1|0|12|95
+Jacob Webb|R|Wil Myers|R|Walk|C|Four-Seam Fastball|11|2|1|0|7|95
+Jacob Webb|R|Wil Myers|R|Walk|F|Four-Seam Fastball|12|2|2|0|6|94
+Jacob Webb|R|Wil Myers|R|Walk|B|Curveball|13|2|2|0|14|82
+Jacob Webb|R|Wil Myers|R|Walk|B|Four-Seam Fastball|14|3|2|0|11|95
+Jacob Webb|R|Paul DeJong|R|Grounded Into DP|C|Four-Seam Fastball|0|0|0|0|14|96
+Jacob Webb|R|Paul DeJong|R|Grounded Into DP|X|Curveball|1|0|1|0|8|81
+Jacob Webb|R|Marcell Ozuna|R|Home Run|B|Curveball|2|0|0|2|14|82
+Jacob Webb|R|Marcell Ozuna|R|Home Run|S|Curveball|3|1|0|2|14|82
+Jacob Webb|R|Marcell Ozuna|R|Home Run|F|Four-Seam Fastball|4|1|1|2|12|95
+Jacob Webb|R|Marcell Ozuna|R|Home Run|B|Four-Seam Fastball|5|1|2|2|14|95
+Jacob Webb|R|Marcell Ozuna|R|Home Run|E|Curveball|6|2|2|2|12|82
+Jacob Webb|R|Jose Martinez|R|Lineout|B|Four-Seam Fastball|7|0|0|2|14|96
+Jacob Webb|R|Jose Martinez|R|Lineout|B|Four-Seam Fastball|8|1|0|2|14|95
+Jacob Webb|R|Jose Martinez|R|Lineout|X|Four-Seam Fastball|9|2|0|2|9|95
+Jacob Webb|R|Jesus Aguilar|R|Groundout|F|Four-Seam Fastball|0|0|0|0|6|95
+Jacob Webb|R|Jesus Aguilar|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|95
+Jacob Webb|R|Jesus Aguilar|R|Groundout|X|Curveball|2|1|1|0|1|80
+Jacob Webb|R|Yasmani Grandal|L|Strikeout|C|Curveball|3|0|0|1|6|81
+Jacob Webb|R|Yasmani Grandal|L|Strikeout|F|Changeup|4|0|1|1|8|85
+Jacob Webb|R|Yasmani Grandal|L|Strikeout|F|Four-Seam Fastball|5|0|2|1|4|96
+Jacob Webb|R|Yasmani Grandal|L|Strikeout|W|Curveball|6|0|2|1|14|82
+Jacob Webb|R|Keston Hiura|R|Flyout|C|Four-Seam Fastball|7|0|0|2|12|96
+Jacob Webb|R|Keston Hiura|R|Flyout|X|Four-Seam Fastball|8|0|1|2|5|95
+Jacob Webb|R|Mike Moustakas|L|Pop Out|C|Changeup|0|0|0|0|9|84
+Jacob Webb|R|Mike Moustakas|L|Pop Out|S|Curveball|1|0|1|0|14|81
+Jacob Webb|R|Mike Moustakas|L|Pop Out|X|Four-Seam Fastball|2|0|2|0|3|95
+Jacob Webb|R|Yasmani Grandal|L|Single|B|Curveball|3|0|0|1|11|81
+Jacob Webb|R|Yasmani Grandal|L|Single|S|Curveball|4|1|0|1|14|80
+Jacob Webb|R|Yasmani Grandal|L|Single|C|Curveball|5|1|1|1|4|80
+Jacob Webb|R|Yasmani Grandal|L|Single|F|Curveball|6|1|2|1|14|81
+Jacob Webb|R|Yasmani Grandal|L|Single|F|Four-Seam Fastball|7|1|2|1|7|95
+Jacob Webb|R|Yasmani Grandal|L|Single|F|Curveball|8|1|2|1|8|81
+Jacob Webb|R|Yasmani Grandal|L|Single|F|Changeup|9|1|2|1|13|85
+Jacob Webb|R|Yasmani Grandal|L|Single|D|Four-Seam Fastball|10|1|2|1|4|95
+Jacob Webb|R|Eric Thames|L|Single|C|Curveball|11|0|0|1|7|81
+Jacob Webb|R|Eric Thames|L|Single|B|Curveball|12|0|1|1|13|82
+Jacob Webb|R|Eric Thames|L|Single|D|Changeup|13|1|1|1|9|85
+Jacob Webb|R|Keston Hiura|R|Flyout|B|Curveball|14|0|0|1|1|80
+Jacob Webb|R|Keston Hiura|R|Flyout|F|Curveball|15|1|0|1|3|80
+Jacob Webb|R|Keston Hiura|R|Flyout|B|Four-Seam Fastball|16|1|1|1|14|95
+Jacob Webb|R|Keston Hiura|R|Flyout|F|Four-Seam Fastball|17|2|1|1|4|95
+Jacob Webb|R|Keston Hiura|R|Flyout|X|Curveball|18|2|2|1|9|80
+Jacob Webb|R|Ben Gamel|L|Runner Out|C|Changeup|19|0|0|2|8|85
+Jacob Webb|R|Ben Gamel|L|Runner Out|B|Four-Seam Fastball|20|0|1|2|14|96
+Jacob Webb|R|Ben Gamel|L|Runner Out|S|Four-Seam Fastball|21|1|1|2|14|96
+Jacob Webb|R|Ben Gamel|L|Runner Out|B|Four-Seam Fastball|22|1|2|2|12|96
+Jacob Webb|R|Ben Gamel|L|Runner Out|*B|Curveball|23|2|2|2|14|83
+Jacob Webb|R|Kurt Suzuki|R|Groundout|C|Four-Seam Fastball|0|0|0|0|5|94
+Jacob Webb|R|Kurt Suzuki|R|Groundout|F|Changeup|1|0|1|0|4|84
+Jacob Webb|R|Kurt Suzuki|R|Groundout|F|Curveball|2|0|2|0|1|81
+Jacob Webb|R|Kurt Suzuki|R|Groundout|X|Four-Seam Fastball|3|0|2|0|3|95
+Jacob Webb|R|Victor Robles|R|Strikeout|B|Curveball|4|0|0|1|14|81
+Jacob Webb|R|Victor Robles|R|Strikeout|F|Curveball|5|1|0|1|6|81
+Jacob Webb|R|Victor Robles|R|Strikeout|F|Changeup|6|1|1|1|13|84
+Jacob Webb|R|Victor Robles|R|Strikeout|S|Four-Seam Fastball|7|1|2|1|6|96
+Jacob Webb|R|Brian Dozier|R|Double|C|Four-Seam Fastball|8|0|0|2|9|96
+Jacob Webb|R|Brian Dozier|R|Double|F|Four-Seam Fastball|9|0|1|2|9|95
+Jacob Webb|R|Brian Dozier|R|Double|F|Changeup|10|0|2|2|4|86
+Jacob Webb|R|Brian Dozier|R|Double|B|Curveball|11|0|2|2|14|82
+Jacob Webb|R|Brian Dozier|R|Double|F|Curveball|12|1|2|2|6|82
+Jacob Webb|R|Brian Dozier|R|Double|B|Four-Seam Fastball|13|1|2|2|12|96
+Jacob Webb|R|Brian Dozier|R|Double|D|Four-Seam Fastball|14|2|2|2|3|96
+Jacob Webb|R|Trea Turner|R|Groundout|C|Curveball|15|0|0|2|14|81
+Jacob Webb|R|Trea Turner|R|Groundout|S|Curveball|16|0|1|2|14|81
+Jacob Webb|R|Trea Turner|R|Groundout|B|Curveball|17|0|2|2|14|81
+Jacob Webb|R|Trea Turner|R|Groundout|X|Changeup|18|1|2|2|13|85
+Jacob Webb|R|Nick Castellanos|R|Flyout|B|Curveball|0|0|0|2|14|81
+Jacob Webb|R|Nick Castellanos|R|Flyout|B|Four-Seam Fastball|1|1|0|2|12|95
+Jacob Webb|R|Nick Castellanos|R|Flyout|X|Curveball|2|2|0|2|7|80
+Jacob Webb|R|Brandon Dixon|R|Double|C|Curveball|3|0|0|0|14|81
+Jacob Webb|R|Brandon Dixon|R|Double|F|Curveball|4|0|1|0|4|81
+Jacob Webb|R|Brandon Dixon|R|Double|B|Four-Seam Fastball|5|0|2|0|12|95
+Jacob Webb|R|Brandon Dixon|R|Double|D|Curveball|6|1|2|0|9|82
+Jacob Webb|R|John Hicks|R|Double|C|Curveball|7|0|0|0|7|81
+Jacob Webb|R|John Hicks|R|Double|F|Four-Seam Fastball|8|0|1|0|8|95
+Jacob Webb|R|John Hicks|R|Double|*B|Curveball|9|0|2|0|14|82
+Jacob Webb|R|John Hicks|R|Double|F|Curveball|10|1|2|0|8|81
+Jacob Webb|R|John Hicks|R|Double|E|Four-Seam Fastball|11|1|2|0|12|95
+Jacob Webb|R|Brandon Dixon|R|Field Error|C|Four-Seam Fastball|0|0|0|0|9|95
+Jacob Webb|R|Brandon Dixon|R|Field Error|B|Four-Seam Fastball|1|0|1|0|12|95
+Jacob Webb|R|Brandon Dixon|R|Field Error|B|Four-Seam Fastball|2|1|1|0|14|95
+Jacob Webb|R|Brandon Dixon|R|Field Error|B|Curveball|3|2|1|0|14|80
+Jacob Webb|R|Brandon Dixon|R|Field Error|F|Four-Seam Fastball|4|3|1|0|6|96
+Jacob Webb|R|Brandon Dixon|R|Field Error|D|Four-Seam Fastball|5|3|2|0|6|96
+Jacob Webb|R|John Hicks|R|Pop Out|B|Four-Seam Fastball|6|0|0|0|14|95
+Jacob Webb|R|John Hicks|R|Pop Out|B|Four-Seam Fastball|7|1|0|0|12|94
+Jacob Webb|R|John Hicks|R|Pop Out|X|Four-Seam Fastball|8|2|0|0|8|95
+Jacob Webb|R|Ronny Rodriguez|R|Forceout|C|Four-Seam Fastball|9|0|0|1|14|95
+Jacob Webb|R|Ronny Rodriguez|R|Forceout|*B|Curveball|10|0|1|1|14|81
+Jacob Webb|R|Ronny Rodriguez|R|Forceout|X|Curveball|11|1|1|1|14|81
+Jacob Webb|R|Grayson Greiner|R|Home Run|E|Four-Seam Fastball|12|0|0|2|5|95
+Jacob Webb|R|JaCoby Jones|R|Home Run|F|Four-Seam Fastball|13|0|0|2|14|95
+Jacob Webb|R|JaCoby Jones|R|Home Run|S|Curveball|14|0|1|2|14|83
+Jacob Webb|R|JaCoby Jones|R|Home Run|E|Curveball|15|0|2|2|6|81
+Jacob Webb|R|Kevin Newman|R|Groundout|B|Four-Seam Fastball|0|0|0|2|14|95
+Jacob Webb|R|Kevin Newman|R|Groundout|C|Four-Seam Fastball|1|1|0|2|14|95
+Jacob Webb|R|Kevin Newman|R|Groundout|C|Curveball|2|1|1|2|3|81
+Jacob Webb|R|Kevin Newman|R|Groundout|F|Curveball|3|1|2|2|14|83
+Jacob Webb|R|Kevin Newman|R|Groundout|B|Four-Seam Fastball|4|1|2|2|12|95
+Jacob Webb|R|Kevin Newman|R|Groundout|X|Curveball|5|2|2|2|7|81
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|S|Changeup|6|0|0|0|13|85
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|B|Curveball|7|0|1|0|14|82
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|B|Curveball|8|1|1|0|14|81
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|S|Four-Seam Fastball|9|2|1|0|11|95
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|B|Changeup|10|2|2|0|13|86
+Jacob Webb|R|Bryan Reynolds|L|Strikeout|C|Four-Seam Fastball|11|3|2|0|12|95
+Jacob Webb|R|Starling Marte|R|Lineout|B|Curveball|12|0|0|1|13|82
+Jacob Webb|R|Starling Marte|R|Lineout|S|Changeup|13|1|0|1|5|86
+Jacob Webb|R|Starling Marte|R|Lineout|S|Four-Seam Fastball|14|1|1|1|3|96
+Jacob Webb|R|Starling Marte|R|Lineout|F|Four-Seam Fastball|15|1|2|1|2|96
+Jacob Webb|R|Starling Marte|R|Lineout|F|Four-Seam Fastball|16|1|2|1|12|96
+Jacob Webb|R|Starling Marte|R|Lineout|B|Four-Seam Fastball|17|1|2|1|12|96
+Jacob Webb|R|Starling Marte|R|Lineout|F|Changeup|18|2|2|1|7|86
+Jacob Webb|R|Starling Marte|R|Lineout|B|Four-Seam Fastball|19|2|2|1|14|96
+Jacob Webb|R|Starling Marte|R|Lineout|X|Four-Seam Fastball|20|3|2|1|12|96
+Jacob Webb|R|Josh Bell|L|Walk|B|Curveball|21|0|0|2|14|82
+Jacob Webb|R|Josh Bell|L|Walk|S|Changeup|22|1|0|2|13|86
+Jacob Webb|R|Josh Bell|L|Walk|B|Four-Seam Fastball|23|1|1|2|12|95
+Jacob Webb|R|Josh Bell|L|Walk|B|Curveball|24|2|1|2|14|82
+Jacob Webb|R|Josh Bell|L|Walk|F|Changeup|25|3|1|2|1|86
+Jacob Webb|R|Josh Bell|L|Walk|*B|Changeup|26|3|2|2|14|86
+Jacob Webb|R|Colin Moran|L|Lineout|X|Changeup|27|0|0|2|13|86
+Jacob Webb|R|Adam Frazier|L|Lineout|B|Four-Seam Fastball|0|0|0|0|14|94
+Jacob Webb|R|Adam Frazier|L|Lineout|F|Curveball|1|1|0|0|6|80
+Jacob Webb|R|Adam Frazier|L|Lineout|X|Curveball|2|1|1|0|4|80
+Jacob Webb|R|Elias Diaz|R|Walk|C|Curveball|3|0|0|1|1|79
+Jacob Webb|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|4|0|1|1|12|95
+Jacob Webb|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|5|1|1|1|14|95
+Jacob Webb|R|Elias Diaz|R|Walk|S|Four-Seam Fastball|6|2|1|1|12|95
+Jacob Webb|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|7|2|2|1|14|96
+Jacob Webb|R|Elias Diaz|R|Walk|F|Four-Seam Fastball|8|3|2|1|12|94
+Jacob Webb|R|Elias Diaz|R|Walk|B|Four-Seam Fastball|9|3|2|1|14|96
+Jacob Webb|R|Bryan Reynolds|L|Flyout|B|Four-Seam Fastball|10|0|0|1|11|95
+Jacob Webb|R|Bryan Reynolds|L|Flyout|B|Curveball|11|1|0|1|14|81
+Jacob Webb|R|Bryan Reynolds|L|Flyout|F|Four-Seam Fastball|12|2|0|1|4|95
+Jacob Webb|R|Bryan Reynolds|L|Flyout|C|Changeup|13|2|1|1|14|86
+Jacob Webb|R|Bryan Reynolds|L|Flyout|X|Four-Seam Fastball|14|2|2|1|7|95
+Jacob Webb|R|Kevin Newman|R|Forceout|B|Curveball|15|0|0|2|14|82
+Jacob Webb|R|Kevin Newman|R|Forceout|B|Four-Seam Fastball|16|1|0|2|14|95
+Jacob Webb|R|Kevin Newman|R|Forceout|F|Curveball|17|2|0|2|12|80
+Jacob Webb|R|Kevin Newman|R|Forceout|X|Curveball|18|2|1|2|8|82
+Jacob Webb|R|Jose Osuna|R|Strikeout|B|Curveball|19|0|0|0|14|80
+Jacob Webb|R|Jose Osuna|R|Strikeout|F|Four-Seam Fastball|20|1|0|0|3|94
+Jacob Webb|R|Jose Osuna|R|Strikeout|C|Four-Seam Fastball|21|1|1|0|14|95
+Jacob Webb|R|Jose Osuna|R|Strikeout|B|Curveball|22|1|2|0|14|82
+Jacob Webb|R|Jose Osuna|R|Strikeout|S|Changeup|23|2|2|0|13|86
+Jacob Webb|R|Starling Marte|R|Groundout|S|Four-Seam Fastball|24|0|0|1|11|96
+Jacob Webb|R|Starling Marte|R|Groundout|B|Four-Seam Fastball|25|0|1|1|12|95
+Jacob Webb|R|Starling Marte|R|Groundout|B|Four-Seam Fastball|26|1|1|1|14|96
+Jacob Webb|R|Starling Marte|R|Groundout|X|Four-Seam Fastball|27|2|1|1|7|95
+Jacob Webb|R|Josh Bell|L|Walk|B|Four-Seam Fastball|28|0|0|2|13|96
+Jacob Webb|R|Josh Bell|L|Walk|B|Changeup|29|1|0|2|14|86
+Jacob Webb|R|Josh Bell|L|Walk|F|Changeup|30|2|0|2|13|85
+Jacob Webb|R|Josh Bell|L|Walk|B|Four-Seam Fastball|31|2|1|2|14|94
+Jacob Webb|R|Josh Bell|L|Walk|F|Four-Seam Fastball|32|3|1|2|5|95
+Jacob Webb|R|Josh Bell|L|Walk|F|Curveball|33|3|2|2|14|82
+Jacob Webb|R|Josh Bell|L|Walk|F|Curveball|34|3|2|2|13|81
+Jacob Webb|R|Josh Bell|L|Walk|F|Four-Seam Fastball|35|3|2|2|9|95
+Jacob Webb|R|Josh Bell|L|Walk|B|Four-Seam Fastball|36|3|2|2|12|95
+Jacob Webb|R|Melky Cabrera|L|Flyout|X|Four-Seam Fastball|37|0|0|2|4|95
+Jacob Webb|R|Sean Rodriguez|R|Strikeout|C|Curveball|0|0|0|0|5|79
+Jacob Webb|R|Sean Rodriguez|R|Strikeout|W|Curveball|1|0|1|0|14|81
+Jacob Webb|R|Sean Rodriguez|R|Strikeout|S|Four-Seam Fastball|2|0|2|0|1|95
+Jacob Webb|R|Cesar Hernandez|L|Grounded Into DP|B|Four-Seam Fastball|3|0|0|1|13|95
+Jacob Webb|R|Cesar Hernandez|L|Grounded Into DP|S|Curveball|4|1|0|1|11|80
+Jacob Webb|R|Cesar Hernandez|L|Grounded Into DP|S|Changeup|5|1|1|1|11|84
+Jacob Webb|R|Cesar Hernandez|L|Grounded Into DP|X|Changeup|6|1|2|1|13|85
+Jacob Webb|R|Todd Frazier|R|Flyout|C|Curveball|0|0|0|2|5|79
+Jacob Webb|R|Todd Frazier|R|Flyout|F|Four-Seam Fastball|1|0|1|2|4|93
+Jacob Webb|R|Todd Frazier|R|Flyout|X|Four-Seam Fastball|2|0|2|2|1|94
+Jacob Webb|R|Amed Rosario|R|Flyout|F|Four-Seam Fastball|3|0|0|0|9|94
+Jacob Webb|R|Amed Rosario|R|Flyout|X|Four-Seam Fastball|4|0|1|0|6|94
+Jacob Webb|R|Juan Lagares|R|Walk|B|Curveball|5|0|0|1|14|80
+Jacob Webb|R|Juan Lagares|R|Walk|B|Curveball|6|1|0|1|11|79
+Jacob Webb|R|Juan Lagares|R|Walk|B|Four-Seam Fastball|7|2|0|1|12|94
+Jacob Webb|R|Juan Lagares|R|Walk|B|Four-Seam Fastball|8|3|0|1|14|94
+Jacob Webb|R|Bryce Harper|L|Walk|S|Curveball|0|0|0|0|8|81
+Jacob Webb|R|Bryce Harper|L|Walk|B|Changeup|1|0|1|0|13|86
+Jacob Webb|R|Bryce Harper|L|Walk|S|Changeup|2|1|1|0|14|86
+Jacob Webb|R|Bryce Harper|L|Walk|B|Changeup|3|1|2|0|14|86
+Jacob Webb|R|Bryce Harper|L|Walk|F|Four-Seam Fastball|4|2|2|0|12|95
+Jacob Webb|R|Bryce Harper|L|Walk|B|N/A|5|2|2|0|0|0
+Jacob Webb|R|Bryce Harper|L|Walk|B|Four-Seam Fastball|6|3|2|0|13|96
+Jacob Webb|R|Rhys Hoskins|R|Strikeout|C|Four-Seam Fastball|7|0|0|0|9|96
+Jacob Webb|R|Rhys Hoskins|R|Strikeout|F|Four-Seam Fastball|8|0|1|0|4|96
+Jacob Webb|R|Rhys Hoskins|R|Strikeout|S|Curveball|9|0|2|0|1|82
+Jacob Webb|R|J.T. Realmuto|R|Strikeout|C|Curveball|10|0|0|1|9|81
+Jacob Webb|R|J.T. Realmuto|R|Strikeout|S|Changeup|11|0|1|1|7|86
+Jacob Webb|R|J.T. Realmuto|R|Strikeout|S|Curveball|12|0|2|1|14|82
+Jacob Webb|R|Jay Bruce|L|Single|F|Four-Seam Fastball|13|0|0|2|4|96
+Jacob Webb|R|Jay Bruce|L|Single|S|Changeup|14|0|1|2|5|84
+Jacob Webb|R|Jay Bruce|L|Single|B|Curveball|15|0|2|2|14|83
+Jacob Webb|R|Jay Bruce|L|Single|B|Changeup|16|1|2|2|13|86
+Jacob Webb|R|Jay Bruce|L|Single|D|Four-Seam Fastball|17|2|2|2|13|96
+Jacob Webb|R|Cesar Hernandez|L|Flyout|S|Changeup|18|0|0|2|13|86
+Jacob Webb|R|Cesar Hernandez|L|Flyout|X|Changeup|19|0|1|2|4|86
+Jacob Webb|R|Scott Kingery|R|Flyout|X|Four-Seam Fastball|0|0|0|1|2|94
+Jacob Webb|R|Jean Segura|R|Single|B|Curveball|1|0|0|2|14|82
+Jacob Webb|R|Jean Segura|R|Single|S|Four-Seam Fastball|2|1|0|2|11|94
+Jacob Webb|R|Jean Segura|R|Single|D|Four-Seam Fastball|3|1|1|2|5|95
+Jacob Webb|R|Bryce Harper|L|Hit By Pitch|F|Four-Seam Fastball|4|0|0|2|11|95
+Jacob Webb|R|Bryce Harper|L|Hit By Pitch|F|Four-Seam Fastball|5|0|1|2|12|95
+Jacob Webb|R|Bryce Harper|L|Hit By Pitch|F|Four-Seam Fastball|6|0|2|2|2|95
+Jacob Webb|R|Bryce Harper|L|Hit By Pitch|B|Changeup|7|0|2|2|11|86
+Jacob Webb|R|Bryce Harper|L|Hit By Pitch|H|Curveball|8|1|2|2|14|83
+Jacob Webb|R|Rhys Hoskins|R|Double|C|N/A|9|0|0|2|0|0
+Jacob Webb|R|Rhys Hoskins|R|Double|F|Four-Seam Fastball|10|0|1|2|13|95
+Jacob Webb|R|Rhys Hoskins|R|Double|F|Four-Seam Fastball|11|0|2|2|6|95
+Jacob Webb|R|Rhys Hoskins|R|Double|B|Curveball|12|0|2|2|14|82
+Jacob Webb|R|Rhys Hoskins|R|Double|E|Curveball|13|1|2|2|14|82
+Jacob Webb|R|J.T. Realmuto|R|Groundout|X|Curveball|14|0|0|2|7|81
+Jacob Webb|R|Miguel Rojas|R|Groundout|S|Curveball|0|0|0|0|14|81
+Jacob Webb|R|Miguel Rojas|R|Groundout|B|Changeup|1|0|1|0|14|85
+Jacob Webb|R|Miguel Rojas|R|Groundout|S|Changeup|2|1|1|0|8|86
+Jacob Webb|R|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|3|1|2|0|14|96
+Jacob Webb|R|Miguel Rojas|R|Groundout|X|Curveball|4|2|2|0|9|82
+Jacob Webb|R|Cesar Puello|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|13|96
+Jacob Webb|R|Cesar Puello|R|Strikeout|S|Curveball|6|1|0|1|14|82
+Jacob Webb|R|Cesar Puello|R|Strikeout|S|Changeup|7|1|1|1|9|86
+Jacob Webb|R|Cesar Puello|R|Strikeout|F|Curveball|8|1|2|1|6|82
+Jacob Webb|R|Cesar Puello|R|Strikeout|B|Four-Seam Fastball|9|1|2|1|12|96
+Jacob Webb|R|Cesar Puello|R|Strikeout|S|Changeup|10|2|2|1|14|87
+Jacob Webb|R|JT Riddle|L|Single|D|Four-Seam Fastball|11|0|0|2|7|96
+Jacob Webb|R|Starlin Castro|R|Groundout|C|Four-Seam Fastball|12|0|0|2|9|96
+Jacob Webb|R|Starlin Castro|R|Groundout|X|Four-Seam Fastball|13|0|1|2|11|95
+Jacob Webb|R|Martin Prado|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|94
+Jacob Webb|R|Martin Prado|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|1|93
+Jacob Webb|R|Martin Prado|R|Strikeout|B|Curveball|2|0|2|0|14|81
+Jacob Webb|R|Martin Prado|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|11|94
+Jacob Webb|R|Martin Prado|R|Strikeout|C|Curveball|4|1|2|0|6|81
+Jacob Webb|R|Jorge Alfaro|R|Flyout|X|Curveball|5|0|0|1|8|81
+Jacob Webb|R|Jon Berti|R|Groundout|B|Four-Seam Fastball|6|0|0|2|14|95
+Jacob Webb|R|Jon Berti|R|Groundout|B|Four-Seam Fastball|7|1|0|2|13|94
+Jacob Webb|R|Jon Berti|R|Groundout|X|Four-Seam Fastball|8|2|0|2|8|94
+Jacob Webb|R|Rosell Herrera|L|Single|C|Four-Seam Fastball|9|0|0|0|4|94
+Jacob Webb|R|Rosell Herrera|L|Single|C|Curveball|10|0|1|0|8|80
+Jacob Webb|R|Rosell Herrera|L|Single|B|Curveball|11|0|2|0|14|80
+Jacob Webb|R|Rosell Herrera|L|Single|D|Four-Seam Fastball|12|1|2|0|9|94
+Jacob Webb|R|Isaac Galloway|R|Strikeout|B|Four-Seam Fastball|13|0|0|0|14|95
+Jacob Webb|R|Isaac Galloway|R|Strikeout|S|Four-Seam Fastball|14|1|0|0|5|95
+Jacob Webb|R|Isaac Galloway|R|Strikeout|C|Four-Seam Fastball|15|1|1|0|6|95
+Jacob Webb|R|Isaac Galloway|R|Strikeout|C|Four-Seam Fastball|16|1|2|0|8|95
+Jacob Webb|R|Curtis Granderson|L|Strikeout|C|Curveball|17|0|0|1|14|81
+Jacob Webb|R|Curtis Granderson|L|Strikeout|S|Changeup|18|0|1|1|13|85
+Jacob Webb|R|Curtis Granderson|L|Strikeout|B|Curveball|19|0|2|1|14|82
+Jacob Webb|R|Curtis Granderson|L|Strikeout|S|Four-Seam Fastball|20|1|2|1|4|95
+Jacob Webb|R|Miguel Rojas|R|Groundout|B|Four-Seam Fastball|21|0|0|2|14|95
+Jacob Webb|R|Miguel Rojas|R|Groundout|F|Four-Seam Fastball|22|1|0|2|2|94
+Jacob Webb|R|Miguel Rojas|R|Groundout|X|Curveball|23|1|1|2|9|80
+Jacob Webb|R|Martin Prado|R|Groundout|X|Four-Seam Fastball|0|0|0|0|14|93
+Jacob Webb|R|Miguel Rojas|R|Double|C|Changeup|1|0|0|1|7|84
+Jacob Webb|R|Miguel Rojas|R|Double|S|Changeup|2|0|1|1|14|85
+Jacob Webb|R|Miguel Rojas|R|Double|X|Four-Seam Fastball|3|0|2|1|6|95
+Jacob Webb|R|Bryan Holaday|R|Walk|C|Four-Seam Fastball|4|0|0|2|8|94
+Jacob Webb|R|Bryan Holaday|R|Walk|B|Curveball|5|0|1|2|14|80
+Jacob Webb|R|Bryan Holaday|R|Walk|B|Changeup|6|1|1|2|14|84
+Jacob Webb|R|Bryan Holaday|R|Walk|B|Four-Seam Fastball|7|2|1|2|14|94
+Jacob Webb|R|Bryan Holaday|R|Walk|F|Four-Seam Fastball|8|3|1|2|7|94
+Jacob Webb|R|Bryan Holaday|R|Walk|*B|Curveball|9|3|2|2|14|81
+Jacob Webb|R|Curtis Granderson|L|Groundout|C|Curveball|10|0|0|2|14|81
+Jacob Webb|R|Curtis Granderson|L|Groundout|X|Changeup|11|0|1|2|13|84

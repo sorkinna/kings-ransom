@@ -1,0 +1,438 @@
+Paolo Espino|R|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|88
+Paolo Espino|R|Kyle Schwarber|L|Strikeout|B|Slider|1|0|1|0|11|79
+Paolo Espino|R|Kyle Schwarber|L|Strikeout|C|Curveball|2|1|1|0|9|69
+Paolo Espino|R|Kyle Schwarber|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|11|88
+Paolo Espino|R|Kris Bryant|R|Groundout|C|Slider|4|0|0|1|6|79
+Paolo Espino|R|Kris Bryant|R|Groundout|X|Slider|5|0|1|1|14|81
+Paolo Espino|R|Anthony Rizzo|L|Flyout|B|Slider|6|0|0|2|14|80
+Paolo Espino|R|Anthony Rizzo|L|Flyout|X|Curveball|7|1|0|2|8|69
+Paolo Espino|R|Ian Happ|L|Lineout|C|Four-Seam Fastball|8|0|0|0|13|89
+Paolo Espino|R|Ian Happ|L|Lineout|B|Four-Seam Fastball|9|0|1|0|14|89
+Paolo Espino|R|Ian Happ|L|Lineout|B|Changeup|10|1|1|0|11|81
+Paolo Espino|R|Ian Happ|L|Lineout|B|Changeup|11|2|1|0|11|81
+Paolo Espino|R|Ian Happ|L|Lineout|X|Four-Seam Fastball|12|3|1|0|8|88
+Paolo Espino|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|13|0|0|1|11|88
+Paolo Espino|R|Ben Zobrist|L|Groundout|B|Four-Seam Fastball|14|1|0|1|11|88
+Paolo Espino|R|Ben Zobrist|L|Groundout|X|Two-Seam Fastball|15|2|0|1|11|87
+Paolo Espino|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|16|0|0|2|6|90
+Paolo Espino|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|17|0|1|2|14|89
+Paolo Espino|R|Willson Contreras|R|Strikeout|F|Four-Seam Fastball|18|1|1|2|5|88
+Paolo Espino|R|Willson Contreras|R|Strikeout|B|Curveball|19|1|2|2|14|73
+Paolo Espino|R|Willson Contreras|R|Strikeout|S|Curveball|20|2|2|2|14|72
+Paolo Espino|R|Javier Baez|R|Field Error|C|Slider|21|0|0|0|2|79
+Paolo Espino|R|Javier Baez|R|Field Error|B|Four-Seam Fastball|22|0|1|0|12|88
+Paolo Espino|R|Javier Baez|R|Field Error|B|Four-Seam Fastball|23|1|1|0|14|88
+Paolo Espino|R|Javier Baez|R|Field Error|F|Four-Seam Fastball|24|2|1|0|6|88
+Paolo Espino|R|Javier Baez|R|Field Error|B|Curveball|25|2|2|0|13|71
+Paolo Espino|R|Javier Baez|R|Field Error|F|Four-Seam Fastball|26|3|2|0|1|90
+Paolo Espino|R|Javier Baez|R|Field Error|F|Four-Seam Fastball|27|3|2|0|3|89
+Paolo Espino|R|Javier Baez|R|Field Error|F|Curveball|28|3|2|0|9|72
+Paolo Espino|R|Javier Baez|R|Field Error|D|Four-Seam Fastball|29|3|2|0|3|90
+Paolo Espino|R|Eddie Butler|R|Sac Bunt|X|Four-Seam Fastball|30|0|0|0|11|88
+Paolo Espino|R|Jon Jay|L|Double|C|Four-Seam Fastball|31|0|0|1|8|88
+Paolo Espino|R|Jon Jay|L|Double|B|Four-Seam Fastball|32|0|1|1|11|88
+Paolo Espino|R|Jon Jay|L|Double|B|Curveball|33|1|1|1|11|71
+Paolo Espino|R|Jon Jay|L|Double|B|Four-Seam Fastball|34|2|1|1|14|88
+Paolo Espino|R|Jon Jay|L|Double|E|Four-Seam Fastball|35|3|1|1|9|89
+Paolo Espino|R|Kyle Schwarber|L|Lineout|B|Four-Seam Fastball|36|0|0|1|14|89
+Paolo Espino|R|Kyle Schwarber|L|Lineout|F|Changeup|37|1|0|1|1|81
+Paolo Espino|R|Kyle Schwarber|L|Lineout|*B|Curveball|38|1|1|1|14|71
+Paolo Espino|R|Kyle Schwarber|L|Lineout|B|Changeup|39|2|1|1|13|81
+Paolo Espino|R|Kyle Schwarber|L|Lineout|X|Changeup|40|3|1|1|7|82
+Paolo Espino|R|Kris Bryant|R|Flyout|B|Two-Seam Fastball|41|0|0|2|13|87
+Paolo Espino|R|Kris Bryant|R|Flyout|F|Four-Seam Fastball|42|1|0|2|6|88
+Paolo Espino|R|Kris Bryant|R|Flyout|B|Four-Seam Fastball|43|1|1|2|14|89
+Paolo Espino|R|Kris Bryant|R|Flyout|X|Changeup|44|2|1|2|2|81
+Paolo Espino|R|Anthony Rizzo|L|Single|C|Two-Seam Fastball|45|0|0|0|14|87
+Paolo Espino|R|Anthony Rizzo|L|Single|B|Changeup|46|0|1|0|13|81
+Paolo Espino|R|Anthony Rizzo|L|Single|F|Four-Seam Fastball|47|1|1|0|7|87
+Paolo Espino|R|Anthony Rizzo|L|Single|D|Curveball|48|1|2|0|7|72
+Paolo Espino|R|Ian Happ|L|Single|B|Four-Seam Fastball|49|0|0|0|14|88
+Paolo Espino|R|Ian Happ|L|Single|F|Slider|50|1|0|0|14|81
+Paolo Espino|R|Ian Happ|L|Single|B|Four-Seam Fastball|51|1|1|0|14|88
+Paolo Espino|R|Ian Happ|L|Single|S|Slider|52|2|1|0|14|79
+Paolo Espino|R|Ian Happ|L|Single|B|Four-Seam Fastball|53|2|2|0|12|89
+Paolo Espino|R|Ian Happ|L|Single|D|Slider|54|3|2|0|5|79
+Paolo Espino|R|Ben Zobrist|L|Single|B|Changeup|55|0|0|0|11|80
+Paolo Espino|R|Ben Zobrist|L|Single|B|Slider|56|1|0|0|13|79
+Paolo Espino|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|57|2|0|0|7|87
+Paolo Espino|R|Ben Zobrist|L|Single|S|Four-Seam Fastball|58|2|1|0|11|87
+Paolo Espino|R|Ben Zobrist|L|Single|B|Four-Seam Fastball|59|2|2|0|13|89
+Paolo Espino|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|60|3|2|0|7|88
+Paolo Espino|R|Willson Contreras|R|Single|B|Curveball|61|0|0|0|14|69
+Paolo Espino|R|Willson Contreras|R|Single|E|Slider|62|1|0|0|14|79
+Paolo Espino|R|Javier Baez|R|Bunt Pop Out|B|Four-Seam Fastball|63|0|0|0|14|88
+Paolo Espino|R|Javier Baez|R|Bunt Pop Out|X|Slider|64|1|0|0|7|77
+Paolo Espino|R|Mike Montgomery|L|Strikeout|C|Four-Seam Fastball|65|0|0|1|14|88
+Paolo Espino|R|Mike Montgomery|L|Strikeout|C|Four-Seam Fastball|66|0|1|1|8|87
+Paolo Espino|R|Mike Montgomery|L|Strikeout|L|Curveball|67|0|2|1|13|70
+Paolo Espino|R|Jon Jay|L|Groundout|S|Curveball|68|0|0|2|14|70
+Paolo Espino|R|Jon Jay|L|Groundout|C|Slider|69|0|1|2|13|81
+Paolo Espino|R|Jon Jay|L|Groundout|X|Curveball|70|0|2|2|13|70
+Paolo Espino|R|Denard Span|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|88
+Paolo Espino|R|Denard Span|L|Groundout|S|Curveball|1|0|1|0|9|72
+Paolo Espino|R|Denard Span|L|Groundout|B|Curveball|2|0|2|0|14|73
+Paolo Espino|R|Denard Span|L|Groundout|X|Changeup|3|1|2|0|4|83
+Paolo Espino|R|Eduardo Nunez|R|Groundout|B|Two-Seam Fastball|4|0|0|1|13|88
+Paolo Espino|R|Eduardo Nunez|R|Groundout|S|Curveball|5|1|0|1|9|72
+Paolo Espino|R|Eduardo Nunez|R|Groundout|X|Changeup|6|1|1|1|9|83
+Paolo Espino|R|Joe Panik|L|Flyout|C|Two-Seam Fastball|7|0|0|2|7|88
+Paolo Espino|R|Joe Panik|L|Flyout|F|Curveball|8|0|1|2|14|73
+Paolo Espino|R|Joe Panik|L|Flyout|B|Four-Seam Fastball|9|0|2|2|12|89
+Paolo Espino|R|Joe Panik|L|Flyout|B|Changeup|10|1|2|2|13|84
+Paolo Espino|R|Joe Panik|L|Flyout|X|Slider|11|2|2|2|3|83
+Paolo Espino|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|12|0|0|0|11|87
+Paolo Espino|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|13|1|0|0|12|88
+Paolo Espino|R|Brandon Belt|L|Walk|C|Changeup|14|2|0|0|1|82
+Paolo Espino|R|Brandon Belt|L|Walk|B|Changeup|15|2|1|0|14|83
+Paolo Espino|R|Brandon Belt|L|Walk|C|Four-Seam Fastball|16|3|1|0|9|88
+Paolo Espino|R|Brandon Belt|L|Walk|F|Curveball|17|3|2|0|14|72
+Paolo Espino|R|Brandon Belt|L|Walk|F|Four-Seam Fastball|18|3|2|0|4|90
+Paolo Espino|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|19|3|2|0|12|89
+Paolo Espino|R|Brandon Crawford|L|Single|C|Curveball|20|0|0|0|7|72
+Paolo Espino|R|Brandon Crawford|L|Single|T|Four-Seam Fastball|21|0|1|0|3|89
+Paolo Espino|R|Brandon Crawford|L|Single|B|Four-Seam Fastball|22|0|2|0|11|88
+Paolo Espino|R|Brandon Crawford|L|Single|F|Four-Seam Fastball|23|1|2|0|12|89
+Paolo Espino|R|Brandon Crawford|L|Single|D|Curveball|24|1|2|0|4|72
+Paolo Espino|R|Nick Hundley|R|Forceout|S|Slider|25|0|0|0|14|82
+Paolo Espino|R|Nick Hundley|R|Forceout|B|Two-Seam Fastball|26|0|1|0|13|87
+Paolo Espino|R|Nick Hundley|R|Forceout|C|Two-Seam Fastball|27|1|1|0|13|87
+Paolo Espino|R|Nick Hundley|R|Forceout|E|Curveball|28|1|2|0|9|73
+Paolo Espino|R|Gorkys Hernandez|R|Single|B|Four-Seam Fastball|29|0|0|1|14|88
+Paolo Espino|R|Gorkys Hernandez|R|Single|D|Slider|30|1|0|1|3|82
+Paolo Espino|R|Austin Slater|R|Hit By Pitch|C|Curveball|31|0|0|1|14|73
+Paolo Espino|R|Austin Slater|R|Hit By Pitch|B|Two-Seam Fastball|32|0|1|1|13|88
+Paolo Espino|R|Austin Slater|R|Hit By Pitch|H|Two-Seam Fastball|33|1|1|1|13|87
+Paolo Espino|R|Johnny Cueto|R|Lineout|X|Slider|34|0|0|1|12|81
+Paolo Espino|R|Denard Span|L|Strikeout|B|Curveball|35|0|0|2|14|73
+Paolo Espino|R|Denard Span|L|Strikeout|B|Curveball|36|1|0|2|11|71
+Paolo Espino|R|Denard Span|L|Strikeout|C|Four-Seam Fastball|37|2|0|2|6|89
+Paolo Espino|R|Denard Span|L|Strikeout|B|Four-Seam Fastball|38|2|1|2|11|89
+Paolo Espino|R|Denard Span|L|Strikeout|F|Four-Seam Fastball|39|3|1|2|6|88
+Paolo Espino|R|Denard Span|L|Strikeout|F|Four-Seam Fastball|40|3|2|2|4|90
+Paolo Espino|R|Denard Span|L|Strikeout|F|Curveball|41|3|2|2|14|73
+Paolo Espino|R|Denard Span|L|Strikeout|F|Four-Seam Fastball|42|3|2|2|4|90
+Paolo Espino|R|Denard Span|L|Strikeout|F|Four-Seam Fastball|43|3|2|2|7|89
+Paolo Espino|R|Denard Span|L|Strikeout|C|Four-Seam Fastball|44|3|2|2|9|90
+Paolo Espino|R|Eduardo Nunez|R|Pop Out|X|Slider|45|0|0|0|9|82
+Paolo Espino|R|Joe Panik|L|Home Run|C|Four-Seam Fastball|46|0|0|1|1|88
+Paolo Espino|R|Joe Panik|L|Home Run|B|Four-Seam Fastball|47|0|1|1|11|89
+Paolo Espino|R|Joe Panik|L|Home Run|F|Four-Seam Fastball|48|1|1|1|6|88
+Paolo Espino|R|Joe Panik|L|Home Run|E|Four-Seam Fastball|49|1|2|1|14|89
+Paolo Espino|R|Brandon Belt|L|Groundout|X|Curveball|50|0|0|1|14|73
+Paolo Espino|R|Brandon Crawford|L|Walk|B|Changeup|51|0|0|2|11|82
+Paolo Espino|R|Brandon Crawford|L|Walk|B|Two-Seam Fastball|52|1|0|2|13|86
+Paolo Espino|R|Brandon Crawford|L|Walk|B|Curveball|53|2|0|2|11|71
+Paolo Espino|R|Brandon Crawford|L|Walk|C|Four-Seam Fastball|54|3|0|2|11|87
+Paolo Espino|R|Brandon Crawford|L|Walk|B|Slider|55|3|1|2|11|82
+Paolo Espino|R|Nick Hundley|R|Double|B|Two-Seam Fastball|56|0|0|2|13|86
+Paolo Espino|R|Nick Hundley|R|Double|D|Slider|57|1|0|2|5|82
+Paolo Espino|R|Gorkys Hernandez|R|Strikeout|S|Curveball|58|0|0|2|14|72
+Paolo Espino|R|Gorkys Hernandez|R|Strikeout|B|Four-Seam Fastball|59|0|1|2|14|89
+Paolo Espino|R|Gorkys Hernandez|R|Strikeout|S|Curveball|60|1|1|2|14|73
+Paolo Espino|R|Gorkys Hernandez|R|Strikeout|C|Two-Seam Fastball|61|1|2|2|7|88
+Paolo Espino|R|Austin Slater|R|Home Run|F|Four-Seam Fastball|62|0|0|0|3|88
+Paolo Espino|R|Austin Slater|R|Home Run|B|Curveball|63|0|1|0|14|71
+Paolo Espino|R|Austin Slater|R|Home Run|B|Curveball|64|1|1|0|11|70
+Paolo Espino|R|Austin Slater|R|Home Run|C|Slider|65|2|1|0|12|80
+Paolo Espino|R|Austin Slater|R|Home Run|F|Four-Seam Fastball|66|2|2|0|13|89
+Paolo Espino|R|Austin Slater|R|Home Run|B|Curveball|67|2|2|0|11|72
+Paolo Espino|R|Austin Slater|R|Home Run|E|Four-Seam Fastball|68|3|2|0|4|88
+Paolo Espino|R|Johnny Cueto|R|Strikeout|S|Four-Seam Fastball|69|0|0|0|2|88
+Paolo Espino|R|Johnny Cueto|R|Strikeout|L|Slider|70|0|1|0|6|81
+Paolo Espino|R|Johnny Cueto|R|Strikeout|T|Curveball|71|0|2|0|14|73
+Paolo Espino|R|Denard Span|L|Groundout|B|Curveball|72|0|0|1|13|70
+Paolo Espino|R|Denard Span|L|Groundout|F|Four-Seam Fastball|73|1|0|1|11|88
+Paolo Espino|R|Denard Span|L|Groundout|B|Four-Seam Fastball|74|1|1|1|12|88
+Paolo Espino|R|Denard Span|L|Groundout|C|Curveball|75|2|1|1|4|71
+Paolo Espino|R|Denard Span|L|Groundout|F|Curveball|76|2|2|1|1|72
+Paolo Espino|R|Denard Span|L|Groundout|B|Curveball|77|2|2|1|14|73
+Paolo Espino|R|Denard Span|L|Groundout|X|Changeup|78|3|2|1|13|82
+Paolo Espino|R|Eduardo Nunez|R|Groundout|C|Four-Seam Fastball|79|0|0|2|7|88
+Paolo Espino|R|Eduardo Nunez|R|Groundout|X|Changeup|80|0|1|2|8|83
+Paolo Espino|R|Francisco Cervelli|R|Grounded Into DP|B|Two-Seam Fastball|0|0|0|1|11|87
+Paolo Espino|R|Francisco Cervelli|R|Grounded Into DP|C|Two-Seam Fastball|1|1|0|1|7|87
+Paolo Espino|R|Francisco Cervelli|R|Grounded Into DP|B|Curveball|2|1|1|1|14|72
+Paolo Espino|R|Francisco Cervelli|R|Grounded Into DP|X|Four-Seam Fastball|3|2|1|1|5|88
+Paolo Espino|R|Jordy Mercer|R|Strikeout|F|Two-Seam Fastball|4|0|0|0|11|87
+Paolo Espino|R|Jordy Mercer|R|Strikeout|C|Curveball|5|0|1|0|1|72
+Paolo Espino|R|Jordy Mercer|R|Strikeout|B|Slider|6|0|2|0|14|84
+Paolo Espino|R|Jordy Mercer|R|Strikeout|T|Two-Seam Fastball|7|1|2|0|13|89
+Paolo Espino|R|Elias Diaz|R|Pop Out|B|Four-Seam Fastball|8|0|0|1|11|89
+Paolo Espino|R|Elias Diaz|R|Pop Out|X|Slider|9|1|0|1|9|83
+Paolo Espino|R|Adam Frazier|L|Lineout|C|Changeup|10|0|0|2|7|84
+Paolo Espino|R|Adam Frazier|L|Lineout|B|Slider|11|0|1|2|14|83
+Paolo Espino|R|Adam Frazier|L|Lineout|B|Changeup|12|1|1|2|13|82
+Paolo Espino|R|Adam Frazier|L|Lineout|B|Two-Seam Fastball|13|2|1|2|13|88
+Paolo Espino|R|Adam Frazier|L|Lineout|X|Four-Seam Fastball|14|3|1|2|6|90
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|F|N/A|15|0|0|0|0|0
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|F|N/A|16|0|1|0|0|0
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|F|N/A|17|0|2|0|0|0
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|B|N/A|18|0|2|0|0|0
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|F|N/A|19|1|2|0|0|0
+Paolo Espino|R|Josh Harrison|R|Hit By Pitch|H|Two-Seam Fastball|20|1|2|0|13|88
+Paolo Espino|R|Gregory Polanco|L|Forceout|X|Two-Seam Fastball|21|0|0|0|11|88
+Paolo Espino|R|David Freese|R|Field Error|C|Four-Seam Fastball|22|0|0|1|14|88
+Paolo Espino|R|David Freese|R|Field Error|B|Four-Seam Fastball|23|0|1|1|14|89
+Paolo Espino|R|David Freese|R|Field Error|D|Slider|24|1|1|1|14|82
+Paolo Espino|R|Josh Bell|L|Flyout|B|Curveball|25|0|0|1|13|72
+Paolo Espino|R|Josh Bell|L|Flyout|*B|Two-Seam Fastball|26|1|0|1|13|87
+Paolo Espino|R|Josh Bell|L|Flyout|C|Four-Seam Fastball|27|2|0|1|9|89
+Paolo Espino|R|Josh Bell|L|Flyout|C|Four-Seam Fastball|28|2|1|1|14|89
+Paolo Espino|R|Josh Bell|L|Flyout|*B|Changeup|29|2|2|1|13|82
+Paolo Espino|R|Josh Bell|L|Flyout|X|Four-Seam Fastball|30|3|2|1|7|89
+Paolo Espino|R|Andrew McCutchen|R|Lineout|B|Two-Seam Fastball|31|0|0|2|13|88
+Paolo Espino|R|Andrew McCutchen|R|Lineout|F|Two-Seam Fastball|32|1|0|2|7|88
+Paolo Espino|R|Andrew McCutchen|R|Lineout|F|Curveball|33|1|1|2|4|72
+Paolo Espino|R|Andrew McCutchen|R|Lineout|B|Four-Seam Fastball|34|1|2|2|11|88
+Paolo Espino|R|Andrew McCutchen|R|Lineout|X|Slider|35|2|2|2|8|83
+Paolo Espino|R|Johan Camargo|L|Walk|B|Four-Seam Fastball|0|0|0|0|13|88
+Paolo Espino|R|Johan Camargo|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|88
+Paolo Espino|R|Johan Camargo|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|88
+Paolo Espino|R|Johan Camargo|L|Walk|C|Four-Seam Fastball|3|3|0|0|1|88
+Paolo Espino|R|Johan Camargo|L|Walk|B|Two-Seam Fastball|4|3|1|0|13|87
+Paolo Espino|R|Jace Peterson|L|Strikeout|C|Two-Seam Fastball|5|0|0|0|12|87
+Paolo Espino|R|Jace Peterson|L|Strikeout|W|Curveball|6|0|1|0|14|71
+Paolo Espino|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|7|0|2|0|14|88
+Paolo Espino|R|Jace Peterson|L|Strikeout|F|Curveball|8|1|2|0|14|71
+Paolo Espino|R|Jace Peterson|L|Strikeout|B|Four-Seam Fastball|9|1|2|0|12|89
+Paolo Espino|R|Jace Peterson|L|Strikeout|C|Four-Seam Fastball|10|2|2|0|7|88
+Paolo Espino|R|Ender Inciarte|L|Single|F|Two-Seam Fastball|11|0|0|1|6|88
+Paolo Espino|R|Ender Inciarte|L|Single|D|Curveball|12|0|1|1|14|72
+Paolo Espino|R|Brandon Phillips|R|Flyout|B|Slider|13|0|0|1|14|82
+Paolo Espino|R|Brandon Phillips|R|Flyout|X|Two-Seam Fastball|14|1|0|1|9|86
+Paolo Espino|R|Nick Markakis|L|Groundout|B|Four-Seam Fastball|15|0|0|2|14|88
+Paolo Espino|R|Nick Markakis|L|Groundout|B|Two-Seam Fastball|16|1|0|2|12|87
+Paolo Espino|R|Nick Markakis|L|Groundout|C|Two-Seam Fastball|17|2|0|2|14|86
+Paolo Espino|R|Nick Markakis|L|Groundout|X|Curveball|18|2|1|2|13|71
+Paolo Espino|R|Lane Adams|R|Pop Out|B|Four-Seam Fastball|19|0|0|0|11|87
+Paolo Espino|R|Lane Adams|R|Pop Out|B|Four-Seam Fastball|20|1|0|0|1|87
+Paolo Espino|R|Lane Adams|R|Pop Out|C|Four-Seam Fastball|21|2|0|0|6|88
+Paolo Espino|R|Lane Adams|R|Pop Out|X|Four-Seam Fastball|22|2|1|0|3|88
+Paolo Espino|R|Matt Adams|L|Walk|F|Two-Seam Fastball|23|0|0|1|2|87
+Paolo Espino|R|Matt Adams|L|Walk|B|Four-Seam Fastball|24|0|1|1|11|88
+Paolo Espino|R|Matt Adams|L|Walk|B|Curveball|25|1|1|1|11|70
+Paolo Espino|R|Matt Adams|L|Walk|B|Four-Seam Fastball|26|2|1|1|12|88
+Paolo Espino|R|Matt Adams|L|Walk|B|Two-Seam Fastball|27|3|1|1|13|85
+Paolo Espino|R|Kurt Suzuki|R|Pop Out|C|Four-Seam Fastball|28|0|0|1|2|88
+Paolo Espino|R|Kurt Suzuki|R|Pop Out|B|Two-Seam Fastball|29|0|1|1|13|87
+Paolo Espino|R|Kurt Suzuki|R|Pop Out|C|Curveball|30|1|1|1|2|71
+Paolo Espino|R|Kurt Suzuki|R|Pop Out|X|Two-Seam Fastball|31|1|2|1|4|87
+Paolo Espino|R|Danny Santana|L|Groundout|C|Curveball|32|0|0|2|11|70
+Paolo Espino|R|Danny Santana|L|Groundout|F|Four-Seam Fastball|33|0|1|2|12|88
+Paolo Espino|R|Danny Santana|L|Groundout|F|Curveball|34|0|2|2|14|73
+Paolo Espino|R|Danny Santana|L|Groundout|X|Two-Seam Fastball|35|0|2|2|5|88
+Paolo Espino|R|Adam Duvall|R|Home Run|B|Four-Seam Fastball|0|0|0|0|14|85
+Paolo Espino|R|Adam Duvall|R|Home Run|C|Four-Seam Fastball|1|1|0|0|14|85
+Paolo Espino|R|Adam Duvall|R|Home Run|S|Slider|2|1|1|0|14|79
+Paolo Espino|R|Adam Duvall|R|Home Run|F|Slider|3|1|2|0|14|79
+Paolo Espino|R|Adam Duvall|R|Home Run|E|Four-Seam Fastball|4|1|2|0|8|86
+Paolo Espino|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|5|0|0|0|9|86
+Paolo Espino|R|Eugenio Suarez|R|Strikeout|S|Curveball|6|0|1|0|14|69
+Paolo Espino|R|Eugenio Suarez|R|Strikeout|C|Slider|7|0|2|0|12|79
+Paolo Espino|R|Scott Schebler|L|Groundout|C|Curveball|8|0|0|1|7|69
+Paolo Espino|R|Scott Schebler|L|Groundout|C|Changeup|9|0|1|1|7|80
+Paolo Espino|R|Scott Schebler|L|Groundout|B|Four-Seam Fastball|10|0|2|1|12|87
+Paolo Espino|R|Scott Schebler|L|Groundout|B|Curveball|11|1|2|1|14|71
+Paolo Espino|R|Scott Schebler|L|Groundout|B|Changeup|12|2|2|1|14|81
+Paolo Espino|R|Scott Schebler|L|Groundout|X|Two-Seam Fastball|13|3|2|1|4|87
+Paolo Espino|R|Jose Peraza|R|Flyout|X|Slider|14|0|0|2|9|78
+Paolo Espino|R|Tucker Barnhart|L|Groundout|C|Slider|15|0|0|0|4|80
+Paolo Espino|R|Tucker Barnhart|L|Groundout|B|Four-Seam Fastball|16|0|1|0|12|86
+Paolo Espino|R|Tucker Barnhart|L|Groundout|C|Curveball|17|1|1|0|11|70
+Paolo Espino|R|Tucker Barnhart|L|Groundout|B|Curveball|18|1|2|0|11|70
+Paolo Espino|R|Tucker Barnhart|L|Groundout|F|Four-Seam Fastball|19|2|2|0|11|88
+Paolo Espino|R|Tucker Barnhart|L|Groundout|B|Changeup|20|2|2|0|14|83
+Paolo Espino|R|Tucker Barnhart|L|Groundout|X|Four-Seam Fastball|21|3|2|0|4|88
+Paolo Espino|R|Luis Castillo|R|Flyout|F|Four-Seam Fastball|22|0|0|1|6|88
+Paolo Espino|R|Luis Castillo|R|Flyout|X|Four-Seam Fastball|23|0|1|1|12|88
+Paolo Espino|R|Billy Hamilton|L|Walk|B|Four-Seam Fastball|24|0|0|2|11|87
+Paolo Espino|R|Billy Hamilton|L|Walk|B|Four-Seam Fastball|25|1|0|2|13|88
+Paolo Espino|R|Billy Hamilton|L|Walk|F|Four-Seam Fastball|26|2|0|2|8|87
+Paolo Espino|R|Billy Hamilton|L|Walk|B|Four-Seam Fastball|27|2|1|2|11|87
+Paolo Espino|R|Billy Hamilton|L|Walk|B|Four-Seam Fastball|28|3|1|2|11|87
+Paolo Espino|R|Scooter Gennett|L|Home Run|L|Changeup|29|0|0|2|13|84
+Paolo Espino|R|Scooter Gennett|L|Home Run|E|Changeup|30|0|1|2|9|81
+Paolo Espino|R|Joey Votto|L|Walk|B|Slider|31|0|0|2|11|81
+Paolo Espino|R|Joey Votto|L|Walk|B|Four-Seam Fastball|32|1|0|2|13|87
+Paolo Espino|R|Joey Votto|L|Walk|B|Curveball|33|2|0|2|14|70
+Paolo Espino|R|Joey Votto|L|Walk|B|Four-Seam Fastball|34|3|0|2|11|88
+Paolo Espino|R|Adam Duvall|R|Forceout|B|Slider|35|0|0|2|14|80
+Paolo Espino|R|Adam Duvall|R|Forceout|B|Four-Seam Fastball|36|1|0|2|14|86
+Paolo Espino|R|Adam Duvall|R|Forceout|C|Four-Seam Fastball|37|2|0|2|12|88
+Paolo Espino|R|Adam Duvall|R|Forceout|X|Four-Seam Fastball|38|2|1|2|1|87
+Paolo Espino|R|Eugenio Suarez|R|Flyout|C|Curveball|39|0|0|0|2|68
+Paolo Espino|R|Eugenio Suarez|R|Flyout|S|Changeup|40|0|1|0|14|85
+Paolo Espino|R|Eugenio Suarez|R|Flyout|B|Curveball|41|0|2|0|14|70
+Paolo Espino|R|Eugenio Suarez|R|Flyout|X|Slider|42|1|2|0|14|80
+Paolo Espino|R|Scott Schebler|L|Strikeout|S|Curveball|43|0|0|1|14|69
+Paolo Espino|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|44|0|1|1|11|86
+Paolo Espino|R|Scott Schebler|L|Strikeout|B|Slider|45|1|1|1|11|80
+Paolo Espino|R|Scott Schebler|L|Strikeout|B|Four-Seam Fastball|46|2|1|1|14|85
+Paolo Espino|R|Scott Schebler|L|Strikeout|F|Four-Seam Fastball|47|3|1|1|2|86
+Paolo Espino|R|Scott Schebler|L|Strikeout|S|Curveball|48|3|2|1|14|72
+Paolo Espino|R|Jose Peraza|R|Groundout|B|Slider|49|0|0|2|14|80
+Paolo Espino|R|Jose Peraza|R|Groundout|B|Four-Seam Fastball|50|1|0|2|11|87
+Paolo Espino|R|Jose Peraza|R|Groundout|C|Slider|51|2|0|2|6|79
+Paolo Espino|R|Jose Peraza|R|Groundout|B|Curveball|52|2|1|2|14|70
+Paolo Espino|R|Jose Peraza|R|Groundout|C|Four-Seam Fastball|53|3|1|2|11|86
+Paolo Espino|R|Jose Peraza|R|Groundout|X|Slider|54|3|2|2|14|80
+Paolo Espino|R|Marcell Ozuna|R|Home Run|F|Curveball|0|0|0|0|14|72
+Paolo Espino|R|Marcell Ozuna|R|Home Run|F|Slider|1|0|1|0|6|82
+Paolo Espino|R|Marcell Ozuna|R|Home Run|B|Curveball|2|0|2|0|14|72
+Paolo Espino|R|Marcell Ozuna|R|Home Run|E|Curveball|3|1|2|0|5|72
+Paolo Espino|R|Justin Bour|L|Groundout|B|Two-Seam Fastball|4|0|0|0|11|88
+Paolo Espino|R|Justin Bour|L|Groundout|B|Two-Seam Fastball|5|1|0|0|13|87
+Paolo Espino|R|Justin Bour|L|Groundout|X|Two-Seam Fastball|6|2|0|0|4|88
+Paolo Espino|R|Martin Prado|R|Walk|C|Slider|7|0|0|1|12|82
+Paolo Espino|R|Martin Prado|R|Walk|B|Four-Seam Fastball|8|0|1|1|12|89
+Paolo Espino|R|Martin Prado|R|Walk|C|Slider|9|1|1|1|14|82
+Paolo Espino|R|Martin Prado|R|Walk|B|Four-Seam Fastball|10|1|2|1|12|89
+Paolo Espino|R|Martin Prado|R|Walk|B|Slider|11|2|2|1|14|84
+Paolo Espino|R|Martin Prado|R|Walk|B|Four-Seam Fastball|12|3|2|1|14|89
+Paolo Espino|R|Derek Dietrich|L|Hit By Pitch|B|Two-Seam Fastball|13|0|0|1|13|88
+Paolo Espino|R|Derek Dietrich|L|Hit By Pitch|S|Four-Seam Fastball|14|1|0|1|12|89
+Paolo Espino|R|Derek Dietrich|L|Hit By Pitch|S|Two-Seam Fastball|15|1|1|1|13|88
+Paolo Espino|R|Derek Dietrich|L|Hit By Pitch|H|Four-Seam Fastball|16|1|2|1|12|88
+Paolo Espino|R|JT Riddle|L|Walk|B|Two-Seam Fastball|17|0|0|1|11|87
+Paolo Espino|R|JT Riddle|L|Walk|B|Changeup|18|1|0|1|13|82
+Paolo Espino|R|JT Riddle|L|Walk|F|Two-Seam Fastball|19|2|0|1|5|87
+Paolo Espino|R|JT Riddle|L|Walk|B|Two-Seam Fastball|20|2|1|1|11|87
+Paolo Espino|R|JT Riddle|L|Walk|B|Four-Seam Fastball|21|3|1|1|12|87
+Paolo Espino|R|Tyler Moore|R|Strikeout|T|Four-Seam Fastball|22|0|0|1|11|88
+Paolo Espino|R|Tyler Moore|R|Strikeout|F|Four-Seam Fastball|23|0|1|1|12|89
+Paolo Espino|R|Tyler Moore|R|Strikeout|B|Curveball|24|0|2|1|14|73
+Paolo Espino|R|Tyler Moore|R|Strikeout|F|Four-Seam Fastball|25|1|2|1|12|89
+Paolo Espino|R|Tyler Moore|R|Strikeout|F|Slider|26|1|2|1|12|84
+Paolo Espino|R|Tyler Moore|R|Strikeout|F|Four-Seam Fastball|27|1|2|1|12|89
+Paolo Espino|R|Tyler Moore|R|Strikeout|S|Changeup|28|1|2|1|13|82
+Paolo Espino|R|J.T. Realmuto|R|Single|C|Slider|29|0|0|2|3|83
+Paolo Espino|R|J.T. Realmuto|R|Single|B|Two-Seam Fastball|30|0|1|2|13|88
+Paolo Espino|R|J.T. Realmuto|R|Single|B|Two-Seam Fastball|31|1|1|2|11|88
+Paolo Espino|R|J.T. Realmuto|R|Single|F|Four-Seam Fastball|32|2|1|2|2|87
+Paolo Espino|R|J.T. Realmuto|R|Single|F|Changeup|33|2|2|2|5|82
+Paolo Espino|R|J.T. Realmuto|R|Single|E|Two-Seam Fastball|34|2|2|2|14|89
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|S|Curveball|35|0|0|2|14|73
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|C|Curveball|36|0|1|2|5|71
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|37|0|2|2|14|88
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|B|Curveball|38|1|2|2|14|73
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|B|Two-Seam Fastball|39|2|2|2|13|88
+Paolo Espino|R|Giancarlo Stanton|R|Strikeout|S|Curveball|40|3|2|2|14|73
+Paolo Espino|R|Christian Yelich|L|Double|B|Four-Seam Fastball|41|0|0|0|11|86
+Paolo Espino|R|Christian Yelich|L|Double|D|Four-Seam Fastball|42|1|0|0|3|87
+Paolo Espino|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|43|0|0|0|14|87
+Paolo Espino|R|Marcell Ozuna|R|Strikeout|F|Slider|44|0|1|0|14|82
+Paolo Espino|R|Marcell Ozuna|R|Strikeout|B|Slider|45|0|2|0|14|82
+Paolo Espino|R|Marcell Ozuna|R|Strikeout|B|Four-Seam Fastball|46|1|2|0|12|88
+Paolo Espino|R|Marcell Ozuna|R|Strikeout|C|Four-Seam Fastball|47|2|2|0|14|89
+Paolo Espino|R|Justin Bour|L|Groundout|B|Changeup|48|0|0|1|13|84
+Paolo Espino|R|Justin Bour|L|Groundout|C|Two-Seam Fastball|49|1|0|1|14|87
+Paolo Espino|R|Justin Bour|L|Groundout|X|Two-Seam Fastball|50|1|1|1|13|87
+Paolo Espino|R|Martin Prado|R|Double|C|Four-Seam Fastball|51|0|0|2|12|87
+Paolo Espino|R|Martin Prado|R|Double|E|Four-Seam Fastball|52|0|1|2|12|87
+Paolo Espino|R|Derek Dietrich|L|Lineout|B|Two-Seam Fastball|53|0|0|2|13|86
+Paolo Espino|R|Derek Dietrich|L|Lineout|B|Curveball|54|1|0|2|14|70
+Paolo Espino|R|Derek Dietrich|L|Lineout|F|Four-Seam Fastball|55|2|0|2|4|87
+Paolo Espino|R|Derek Dietrich|L|Lineout|F|Four-Seam Fastball|56|2|1|2|4|87
+Paolo Espino|R|Derek Dietrich|L|Lineout|X|Curveball|57|2|2|2|14|72
+Paolo Espino|R|Andrelton Simmons|R|Flyout|C|Curveball|0|0|0|1|4|73
+Paolo Espino|R|Andrelton Simmons|R|Flyout|F|Two-Seam Fastball|1|0|1|1|4|89
+Paolo Espino|R|Andrelton Simmons|R|Flyout|B|Two-Seam Fastball|2|0|2|1|11|90
+Paolo Espino|R|Andrelton Simmons|R|Flyout|B|Curveball|3|1|2|1|11|73
+Paolo Espino|R|Andrelton Simmons|R|Flyout|X|Curveball|4|2|2|1|11|72
+Paolo Espino|R|Ben Gamel|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|90
+Paolo Espino|R|Ben Gamel|L|Strikeout|F|Two-Seam Fastball|1|0|1|0|1|88
+Paolo Espino|R|Ben Gamel|L|Strikeout|F|Curveball|2|0|2|0|8|72
+Paolo Espino|R|Ben Gamel|L|Strikeout|B|Curveball|3|0|2|0|14|72
+Paolo Espino|R|Ben Gamel|L|Strikeout|F|Changeup|4|1|2|0|4|83
+Paolo Espino|R|Ben Gamel|L|Strikeout|B|Two-Seam Fastball|5|1|2|0|11|90
+Paolo Espino|R|Ben Gamel|L|Strikeout|W|Curveball|6|2|2|0|14|73
+Paolo Espino|R|Guillermo Heredia|R|Groundout|B|Two-Seam Fastball|7|0|0|1|13|88
+Paolo Espino|R|Guillermo Heredia|R|Groundout|X|Four-Seam Fastball|8|1|0|1|5|90
+Paolo Espino|R|Taylor Motter|R|Strikeout|B|Slider|9|0|0|2|14|81
+Paolo Espino|R|Taylor Motter|R|Strikeout|S|Slider|10|1|0|2|9|81
+Paolo Espino|R|Taylor Motter|R|Strikeout|B|Two-Seam Fastball|11|1|1|2|13|89
+Paolo Espino|R|Taylor Motter|R|Strikeout|B|Four-Seam Fastball|12|2|1|2|14|91
+Paolo Espino|R|Taylor Motter|R|Strikeout|F|Four-Seam Fastball|13|3|1|2|2|90
+Paolo Espino|R|Taylor Motter|R|Strikeout|C|Four-Seam Fastball|14|3|2|2|5|91
+Paolo Espino|R|Gordon Beckham|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|90
+Paolo Espino|R|Gordon Beckham|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|13|87
+Paolo Espino|R|Gordon Beckham|R|Strikeout|S|Curveball|2|1|1|0|14|72
+Paolo Espino|R|Gordon Beckham|R|Strikeout|S|Curveball|3|1|2|0|14|72
+Paolo Espino|R|Daniel Vogelbach|L|Flyout|X|Four-Seam Fastball|4|0|0|1|1|89
+Paolo Espino|R|Kyle Seager|L|Walk|B|Changeup|5|0|0|2|14|83
+Paolo Espino|R|Kyle Seager|L|Walk|B|Changeup|6|1|0|2|11|82
+Paolo Espino|R|Kyle Seager|L|Walk|B|Two-Seam Fastball|7|2|0|2|11|88
+Paolo Espino|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|8|3|0|2|11|88
+Paolo Espino|R|Danny Valencia|R|Groundout|S|Slider|9|0|0|2|14|82
+Paolo Espino|R|Danny Valencia|R|Groundout|C|Curveball|10|0|1|2|4|72
+Paolo Espino|R|Danny Valencia|R|Groundout|B|Curveball|11|0|2|2|13|71
+Paolo Espino|R|Danny Valencia|R|Groundout|X|Four-Seam Fastball|12|1|2|2|6|89
+Paolo Espino|R|Ryon Healy|R|Strikeout|C|Curveball|0|0|0|2|4|70
+Paolo Espino|R|Ryon Healy|R|Strikeout|W|Curveball|1|0|1|2|14|72
+Paolo Espino|R|Ryon Healy|R|Strikeout|W|Curveball|2|0|2|2|14|72
+Paolo Espino|R|Evan Gattis|R|Double|B|Curveball|0|0|0|2|12|71
+Paolo Espino|R|Evan Gattis|R|Double|B|Slider|1|1|0|2|14|83
+Paolo Espino|R|Evan Gattis|R|Double|B|Four-Seam Fastball|2|2|0|2|14|90
+Paolo Espino|R|Evan Gattis|R|Double|C|Four-Seam Fastball|3|3|0|2|6|89
+Paolo Espino|R|Evan Gattis|R|Double|E|Slider|4|3|1|2|5|83
+Paolo Espino|R|Alex Bregman|R|Pop Out|F|Curveball|5|0|0|2|1|72
+Paolo Espino|R|Alex Bregman|R|Pop Out|S|Two-Seam Fastball|6|0|1|2|12|90
+Paolo Espino|R|Alex Bregman|R|Pop Out|X|Curveball|7|0|2|2|14|72
+Paolo Espino|R|Carlos Beltran|L|Pop Out|B|Two-Seam Fastball|8|0|0|0|14|89
+Paolo Espino|R|Carlos Beltran|L|Pop Out|C|Two-Seam Fastball|9|1|0|0|9|88
+Paolo Espino|R|Carlos Beltran|L|Pop Out|X|Two-Seam Fastball|10|1|1|0|8|89
+Paolo Espino|R|Tyler White|R|Pop Out|X|Four-Seam Fastball|11|0|0|1|3|90
+Paolo Espino|R|Derek Fisher|L|Walk|B|Four-Seam Fastball|12|0|0|2|11|90
+Paolo Espino|R|Derek Fisher|L|Walk|C|Two-Seam Fastball|13|1|0|2|5|89
+Paolo Espino|R|Derek Fisher|L|Walk|B|Changeup|14|1|1|2|11|84
+Paolo Espino|R|Derek Fisher|L|Walk|F|Two-Seam Fastball|15|2|1|2|8|86
+Paolo Espino|R|Derek Fisher|L|Walk|B|Two-Seam Fastball|16|2|2|2|3|89
+Paolo Espino|R|Derek Fisher|L|Walk|B|Two-Seam Fastball|17|3|2|2|12|89
+Paolo Espino|R|George Springer|R|Pop Out|F|Two-Seam Fastball|18|0|0|2|12|88
+Paolo Espino|R|George Springer|R|Pop Out|B|Curveball|19|0|1|2|12|74
+Paolo Espino|R|George Springer|R|Pop Out|C|Slider|20|1|1|2|11|82
+Paolo Espino|R|George Springer|R|Pop Out|B|Four-Seam Fastball|21|1|2|2|11|89
+Paolo Espino|R|George Springer|R|Pop Out|X|Curveball|22|2|2|2|2|72
+Paolo Espino|R|Jose Altuve|R|Groundout|F|Two-Seam Fastball|23|0|0|0|11|88
+Paolo Espino|R|Jose Altuve|R|Groundout|B|Two-Seam Fastball|24|0|1|0|11|87
+Paolo Espino|R|Jose Altuve|R|Groundout|X|Curveball|25|1|1|0|3|72
+Paolo Espino|R|Carlos Correa|R|Strikeout|B|Four-Seam Fastball|26|0|0|1|12|90
+Paolo Espino|R|Carlos Correa|R|Strikeout|F|Slider|27|1|0|1|2|81
+Paolo Espino|R|Carlos Correa|R|Strikeout|C|Curveball|28|1|1|1|4|72
+Paolo Espino|R|Carlos Correa|R|Strikeout|B|Curveball|29|1|2|1|14|72
+Paolo Espino|R|Carlos Correa|R|Strikeout|C|Curveball|30|2|2|1|1|73
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|C|Two-Seam Fastball|31|0|0|2|5|90
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|C|Two-Seam Fastball|32|0|1|2|3|88
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|B|Four-Seam Fastball|33|0|2|2|11|90
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|B|Four-Seam Fastball|34|1|2|2|12|90
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|F|Curveball|35|2|2|2|6|73
+Paolo Espino|R|Marwin Gonzalez|L|Home Run|E|Slider|36|2|2|2|5|82
+Paolo Espino|R|Evan Gattis|R|Flyout|B|Slider|37|0|0|2|12|83
+Paolo Espino|R|Evan Gattis|R|Flyout|X|Two-Seam Fastball|38|1|0|2|4|88
+Paolo Espino|R|Alex Bregman|R|Double|D|Slider|39|0|0|0|12|81
+Paolo Espino|R|Carlos Beltran|L|Flyout|X|Curveball|40|0|0|0|11|72
+Paolo Espino|R|Tyler White|R|Double|B|Four-Seam Fastball|41|0|0|1|12|90
+Paolo Espino|R|Tyler White|R|Double|E|Two-Seam Fastball|42|1|0|1|1|88
+Paolo Espino|R|Derek Fisher|L|Single|B|Two-Seam Fastball|43|0|0|1|12|88
+Paolo Espino|R|Derek Fisher|L|Single|S|Two-Seam Fastball|44|1|0|1|2|88
+Paolo Espino|R|Derek Fisher|L|Single|B|Two-Seam Fastball|45|1|1|1|12|88
+Paolo Espino|R|Derek Fisher|L|Single|E|Changeup|46|2|1|1|13|82
+Paolo Espino|R|Mark Canha|R|Groundout|C|Four-Seam Fastball|0|0|0|0|2|91
+Paolo Espino|R|Mark Canha|R|Groundout|F|Curveball|1|0|1|0|9|71
+Paolo Espino|R|Mark Canha|R|Groundout|X|Two-Seam Fastball|2|0|2|0|13|91
+Paolo Espino|R|Jake Smolinski|R|Strikeout|B|Two-Seam Fastball|3|0|0|1|13|89
+Paolo Espino|R|Jake Smolinski|R|Strikeout|B|Two-Seam Fastball|4|1|0|1|14|90
+Paolo Espino|R|Jake Smolinski|R|Strikeout|C|Two-Seam Fastball|5|2|0|1|8|88
+Paolo Espino|R|Jake Smolinski|R|Strikeout|C|Curveball|6|2|1|1|5|72
+Paolo Espino|R|Jake Smolinski|R|Strikeout|F|Two-Seam Fastball|7|2|2|1|13|90
+Paolo Espino|R|Jake Smolinski|R|Strikeout|B|Curveball|8|2|2|1|11|73
+Paolo Espino|R|Jake Smolinski|R|Strikeout|F|Four-Seam Fastball|9|3|2|1|4|91
+Paolo Espino|R|Jake Smolinski|R|Strikeout|C|Two-Seam Fastball|10|3|2|1|8|91
+Paolo Espino|R|Marcus Semien|R|Home Run|B|Two-Seam Fastball|11|0|0|2|14|91
+Paolo Espino|R|Marcus Semien|R|Home Run|E|Four-Seam Fastball|12|1|0|2|4|90
+Paolo Espino|R|Renato Nunez|R|Strikeout|B|Curveball|13|0|0|2|14|73
+Paolo Espino|R|Renato Nunez|R|Strikeout|B|Two-Seam Fastball|14|1|0|2|14|89
+Paolo Espino|R|Renato Nunez|R|Strikeout|F|Two-Seam Fastball|15|2|0|2|1|91
+Paolo Espino|R|Renato Nunez|R|Strikeout|F|Two-Seam Fastball|16|2|1|2|13|89
+Paolo Espino|R|Renato Nunez|R|Strikeout|S|Curveball|17|2|2|2|5|74

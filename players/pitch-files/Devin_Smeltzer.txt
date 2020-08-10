@@ -1,0 +1,732 @@
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|1|1|0|0|11|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|2|2|0|0|11|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|C|Four-Seam Fastball|3|3|0|0|11|87
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|88
+Devin Smeltzer|L|Oscar Mercado|R|Forceout|C|Curveball|5|0|0|0|7|77
+Devin Smeltzer|L|Oscar Mercado|R|Forceout|S|Curveball|6|0|1|0|7|77
+Devin Smeltzer|L|Oscar Mercado|R|Forceout|B|Four-Seam Fastball|7|0|2|0|11|89
+Devin Smeltzer|L|Oscar Mercado|R|Forceout|X|Curveball|8|1|2|0|14|77
+Devin Smeltzer|L|Carlos Santana|R|Single|C|Curveball|9|0|0|1|4|76
+Devin Smeltzer|L|Carlos Santana|R|Single|B|Four-Seam Fastball|10|0|1|1|1|88
+Devin Smeltzer|L|Carlos Santana|R|Single|B|Curveball|11|1|1|1|13|76
+Devin Smeltzer|L|Carlos Santana|R|Single|B|Changeup|12|2|1|1|13|82
+Devin Smeltzer|L|Carlos Santana|R|Single|D|Four-Seam Fastball|13|3|1|1|2|88
+Devin Smeltzer|L|Jordan Luplow|R|Pop Out|B|Four-Seam Fastball|14|0|0|1|13|88
+Devin Smeltzer|L|Jordan Luplow|R|Pop Out|B|Changeup|15|1|0|1|13|82
+Devin Smeltzer|L|Jordan Luplow|R|Pop Out|F|Four-Seam Fastball|16|2|0|1|1|88
+Devin Smeltzer|L|Jordan Luplow|R|Pop Out|X|Four-Seam Fastball|17|2|1|1|13|88
+Devin Smeltzer|L|Jose Ramirez|R|Lineout|B|Changeup|18|0|0|2|13|83
+Devin Smeltzer|L|Jose Ramirez|R|Lineout|B|Four-Seam Fastball|19|1|0|2|13|88
+Devin Smeltzer|L|Jose Ramirez|R|Lineout|S|Changeup|20|2|0|2|13|82
+Devin Smeltzer|L|Jose Ramirez|R|Lineout|X|Changeup|21|2|1|2|8|82
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|C|Four-Seam Fastball|22|0|0|0|4|88
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|L|Four-Seam Fastball|23|0|1|0|12|88
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|X|Four-Seam Fastball|24|0|2|0|5|88
+Devin Smeltzer|L|Roberto Perez|R|Groundout|C|Curveball|25|0|0|1|4|77
+Devin Smeltzer|L|Roberto Perez|R|Groundout|F|Four-Seam Fastball|26|0|1|1|6|89
+Devin Smeltzer|L|Roberto Perez|R|Groundout|X|Curveball|27|0|2|1|7|77
+Devin Smeltzer|L|Jake Bauers|L|Pop Out|B|Curveball|28|0|0|2|13|76
+Devin Smeltzer|L|Jake Bauers|L|Pop Out|X|Four-Seam Fastball|29|1|0|2|3|88
+Devin Smeltzer|L|Leonys Martin|L|Strikeout|C|Four-Seam Fastball|30|0|0|0|2|88
+Devin Smeltzer|L|Leonys Martin|L|Strikeout|S|Four-Seam Fastball|31|0|1|0|4|88
+Devin Smeltzer|L|Leonys Martin|L|Strikeout|B|Four-Seam Fastball|32|0|2|0|11|88
+Devin Smeltzer|L|Leonys Martin|L|Strikeout|C|Curveball|33|1|2|0|1|76
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|C|Curveball|34|0|0|1|9|75
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|F|Curveball|35|0|1|1|4|74
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|F|Curveball|36|0|2|1|14|74
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|E|Four-Seam Fastball|37|0|2|1|2|90
+Devin Smeltzer|L|Oscar Mercado|R|Groundout|B|Four-Seam Fastball|38|0|0|1|13|89
+Devin Smeltzer|L|Oscar Mercado|R|Groundout|X|Changeup|39|1|0|1|8|82
+Devin Smeltzer|L|Carlos Santana|R|Groundout|B|Curveball|40|0|0|2|13|76
+Devin Smeltzer|L|Carlos Santana|R|Groundout|B|Changeup|41|1|0|2|13|82
+Devin Smeltzer|L|Carlos Santana|R|Groundout|X|Changeup|42|2|0|2|5|81
+Devin Smeltzer|L|Jordan Luplow|R|Groundout|X|Changeup|43|0|0|0|5|82
+Devin Smeltzer|L|Jose Ramirez|R|Flyout|C|Four-Seam Fastball|44|0|0|1|9|87
+Devin Smeltzer|L|Jose Ramirez|R|Flyout|X|Changeup|45|0|1|1|5|81
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|B|Curveball|46|0|0|2|12|75
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|X|Four-Seam Fastball|47|1|0|2|5|88
+Devin Smeltzer|L|Roberto Perez|R|Flyout|C|Curveball|48|0|0|0|2|75
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Changeup|49|0|1|0|12|81
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Changeup|50|1|1|0|13|81
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Changeup|51|2|1|0|12|81
+Devin Smeltzer|L|Roberto Perez|R|Flyout|F|Four-Seam Fastball|52|3|1|0|8|88
+Devin Smeltzer|L|Roberto Perez|R|Flyout|X|Four-Seam Fastball|53|3|2|0|4|88
+Devin Smeltzer|L|Jake Bauers|L|Strikeout|C|Curveball|54|0|0|1|14|74
+Devin Smeltzer|L|Jake Bauers|L|Strikeout|F|Changeup|55|0|1|1|14|82
+Devin Smeltzer|L|Jake Bauers|L|Strikeout|B|Curveball|56|0|2|1|13|77
+Devin Smeltzer|L|Jake Bauers|L|Strikeout|S|Curveball|57|1|2|1|6|76
+Devin Smeltzer|L|Leonys Martin|L|Walk|B|Curveball|58|0|0|2|13|76
+Devin Smeltzer|L|Leonys Martin|L|Walk|C|Four-Seam Fastball|59|1|0|2|7|88
+Devin Smeltzer|L|Leonys Martin|L|Walk|F|Changeup|60|1|1|2|11|83
+Devin Smeltzer|L|Leonys Martin|L|Walk|B|Curveball|61|1|2|2|13|77
+Devin Smeltzer|L|Leonys Martin|L|Walk|B|Curveball|62|2|2|2|13|76
+Devin Smeltzer|L|Leonys Martin|L|Walk|F|Four-Seam Fastball|63|3|2|2|11|88
+Devin Smeltzer|L|Leonys Martin|L|Walk|B|Four-Seam Fastball|64|3|2|2|14|88
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|E|Changeup|65|0|0|2|4|82
+Devin Smeltzer|L|Oscar Mercado|R|Groundout|X|Curveball|66|0|0|2|5|76
+Devin Smeltzer|L|Carlos Santana|R|Flyout|X|Four-Seam Fastball|67|0|0|0|2|88
+Devin Smeltzer|L|Jordan Luplow|R|Walk|B|Four-Seam Fastball|68|0|0|1|11|89
+Devin Smeltzer|L|Jordan Luplow|R|Walk|B|Curveball|69|1|0|1|13|76
+Devin Smeltzer|L|Jordan Luplow|R|Walk|B|Four-Seam Fastball|70|2|0|1|13|88
+Devin Smeltzer|L|Jordan Luplow|R|Walk|B|Four-Seam Fastball|71|3|0|1|14|88
+Devin Smeltzer|L|Jose Ramirez|R|Grounded Into DP|C|Curveball|72|0|0|1|3|75
+Devin Smeltzer|L|Jose Ramirez|R|Grounded Into DP|X|Curveball|73|0|1|1|4|75
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|C|Four-Seam Fastball|74|0|0|0|8|87
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|B|Changeup|75|0|1|0|13|81
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|B|Curveball|76|1|1|0|13|76
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|B|Four-Seam Fastball|77|2|1|0|12|87
+Devin Smeltzer|L|Jason Kipnis|L|Flyout|X|Four-Seam Fastball|78|3|1|0|4|87
+Devin Smeltzer|L|Roberto Perez|R|Home Run|C|Curveball|79|0|0|1|4|75
+Devin Smeltzer|L|Roberto Perez|R|Home Run|E|Four-Seam Fastball|80|0|1|1|4|88
+Devin Smeltzer|L|Jake Bauers|L|Home Run|E|Curveball|81|0|0|1|2|76
+Devin Smeltzer|L|Francisco Lindor|R|Flyout|C|Four-Seam Fastball|0|0|0|0|1|88
+Devin Smeltzer|L|Francisco Lindor|R|Flyout|B|Slider|1|0|1|0|13|82
+Devin Smeltzer|L|Francisco Lindor|R|Flyout|B|Slider|2|1|1|0|13|84
+Devin Smeltzer|L|Francisco Lindor|R|Flyout|X|Four-Seam Fastball|3|2|1|0|4|88
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|X|Four-Seam Fastball|4|0|0|1|5|88
+Devin Smeltzer|L|Carlos Santana|R|Groundout|B|Curveball|5|0|0|2|13|77
+Devin Smeltzer|L|Carlos Santana|R|Groundout|S|Four-Seam Fastball|6|1|0|2|3|89
+Devin Smeltzer|L|Carlos Santana|R|Groundout|X|Slider|7|1|1|2|7|84
+Devin Smeltzer|L|Yasiel Puig|R|Pop Out|B|Changeup|8|0|0|0|14|83
+Devin Smeltzer|L|Yasiel Puig|R|Pop Out|C|Curveball|9|1|0|0|3|77
+Devin Smeltzer|L|Yasiel Puig|R|Pop Out|X|Four-Seam Fastball|10|1|1|0|12|87
+Devin Smeltzer|L|Jordan Luplow|R|Strikeout|C|Slider|11|0|0|1|6|83
+Devin Smeltzer|L|Jordan Luplow|R|Strikeout|B|Curveball|12|0|1|1|13|77
+Devin Smeltzer|L|Jordan Luplow|R|Strikeout|F|Slider|13|1|1|1|8|83
+Devin Smeltzer|L|Jordan Luplow|R|Strikeout|S|Changeup|14|1|2|1|9|84
+Devin Smeltzer|L|Franmil Reyes|R|Lineout|F|Slider|15|0|0|2|7|81
+Devin Smeltzer|L|Franmil Reyes|R|Lineout|B|Four-Seam Fastball|16|0|1|2|12|88
+Devin Smeltzer|L|Franmil Reyes|R|Lineout|F|Curveball|17|1|1|2|9|80
+Devin Smeltzer|L|Franmil Reyes|R|Lineout|X|Curveball|18|1|2|2|12|76
+Devin Smeltzer|L|Jason Kipnis|L|Hit By Pitch|B|Four-Seam Fastball|19|0|0|0|12|88
+Devin Smeltzer|L|Jason Kipnis|L|Hit By Pitch|B|Four-Seam Fastball|20|1|0|0|11|87
+Devin Smeltzer|L|Jason Kipnis|L|Hit By Pitch|C|Four-Seam Fastball|21|2|0|0|12|88
+Devin Smeltzer|L|Jason Kipnis|L|Hit By Pitch|S|Changeup|22|2|1|0|7|83
+Devin Smeltzer|L|Jason Kipnis|L|Hit By Pitch|H|Curveball|23|2|2|0|12|77
+Devin Smeltzer|L|Roberto Perez|R|Single|D|Changeup|24|0|0|0|9|82
+Devin Smeltzer|L|Yu Chang|R|Flyout|B|Slider|25|0|0|0|13|82
+Devin Smeltzer|L|Yu Chang|R|Flyout|F|Slider|26|1|0|0|4|82
+Devin Smeltzer|L|Yu Chang|R|Flyout|F|Slider|27|1|1|0|8|81
+Devin Smeltzer|L|Yu Chang|R|Flyout|*B|Curveball|28|1|2|0|13|77
+Devin Smeltzer|L|Yu Chang|R|Flyout|F|Changeup|29|2|2|0|14|82
+Devin Smeltzer|L|Yu Chang|R|Flyout|B|Four-Seam Fastball|30|2|2|0|13|89
+Devin Smeltzer|L|Yu Chang|R|Flyout|X|Changeup|31|3|2|0|5|83
+Devin Smeltzer|L|Francisco Lindor|R|Pop Out|B|Curveball|32|0|0|1|13|76
+Devin Smeltzer|L|Francisco Lindor|R|Pop Out|X|Slider|33|1|0|1|4|82
+Devin Smeltzer|L|Oscar Mercado|R|Walk|S|Curveball|34|0|0|2|14|75
+Devin Smeltzer|L|Oscar Mercado|R|Walk|C|Curveball|35|0|1|2|8|76
+Devin Smeltzer|L|Oscar Mercado|R|Walk|B|Slider|36|0|2|2|13|80
+Devin Smeltzer|L|Oscar Mercado|R|Walk|B|Changeup|37|1|2|2|12|83
+Devin Smeltzer|L|Oscar Mercado|R|Walk|F|Four-Seam Fastball|38|2|2|2|5|89
+Devin Smeltzer|L|Oscar Mercado|R|Walk|*B|Curveball|39|2|2|2|13|76
+Devin Smeltzer|L|Oscar Mercado|R|Walk|B|Changeup|40|3|2|2|13|82
+Devin Smeltzer|L|Carlos Santana|R|Lineout|C|Curveball|41|0|0|2|5|76
+Devin Smeltzer|L|Carlos Santana|R|Lineout|B|Changeup|42|0|1|2|14|83
+Devin Smeltzer|L|Carlos Santana|R|Lineout|C|Four-Seam Fastball|43|1|1|2|5|89
+Devin Smeltzer|L|Carlos Santana|R|Lineout|B|Four-Seam Fastball|44|1|2|2|12|89
+Devin Smeltzer|L|Carlos Santana|R|Lineout|F|Curveball|45|2|2|2|6|77
+Devin Smeltzer|L|Carlos Santana|R|Lineout|*B|Slider|46|2|2|2|13|83
+Devin Smeltzer|L|Carlos Santana|R|Lineout|F|Four-Seam Fastball|47|3|2|2|12|89
+Devin Smeltzer|L|Carlos Santana|R|Lineout|X|Changeup|48|3|2|2|6|83
+Devin Smeltzer|L|Victor Reyes|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|88
+Devin Smeltzer|L|Victor Reyes|R|Strikeout|S|Four-Seam Fastball|1|1|0|0|9|87
+Devin Smeltzer|L|Victor Reyes|R|Strikeout|F|Changeup|2|1|1|0|8|82
+Devin Smeltzer|L|Victor Reyes|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|6|90
+Devin Smeltzer|L|Brandon Dixon|R|Single|C|Four-Seam Fastball|4|0|0|1|7|89
+Devin Smeltzer|L|Brandon Dixon|R|Single|B|Changeup|5|0|1|1|12|82
+Devin Smeltzer|L|Brandon Dixon|R|Single|B|Changeup|6|1|1|1|12|82
+Devin Smeltzer|L|Brandon Dixon|R|Single|F|Four-Seam Fastball|7|2|1|1|6|89
+Devin Smeltzer|L|Brandon Dixon|R|Single|D|Four-Seam Fastball|8|2|2|1|12|90
+Devin Smeltzer|L|Miguel Cabrera|R|Strikeout|B|Four-Seam Fastball|9|0|0|1|12|89
+Devin Smeltzer|L|Miguel Cabrera|R|Strikeout|C|Four-Seam Fastball|10|1|0|1|12|88
+Devin Smeltzer|L|Miguel Cabrera|R|Strikeout|F|Curveball|11|1|1|1|13|78
+Devin Smeltzer|L|Miguel Cabrera|R|Strikeout|S|Curveball|12|1|2|1|13|77
+Devin Smeltzer|L|Ronny Rodriguez|R|Single|D|Curveball|13|0|0|2|7|78
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|B|Changeup|14|0|0|2|12|82
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|B|Changeup|15|1|0|2|12|82
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|S|Four-Seam Fastball|16|2|0|2|5|89
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|F|Four-Seam Fastball|17|2|1|2|1|88
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|F|Curveball|18|2|2|2|13|78
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|F|Four-Seam Fastball|19|2|2|2|6|90
+Devin Smeltzer|L|Dawel Lugo|R|Flyout|X|Curveball|20|2|2|2|13|78
+Devin Smeltzer|L|John Hicks|R|Flyout|C|Curveball|21|0|0|0|6|76
+Devin Smeltzer|L|John Hicks|R|Flyout|F|Curveball|22|0|1|0|5|77
+Devin Smeltzer|L|John Hicks|R|Flyout|X|Four-Seam Fastball|23|0|2|0|12|89
+Devin Smeltzer|L|Travis Demeritte|R|Single|B|Four-Seam Fastball|24|0|0|1|11|89
+Devin Smeltzer|L|Travis Demeritte|R|Single|S|Four-Seam Fastball|25|1|0|1|3|88
+Devin Smeltzer|L|Travis Demeritte|R|Single|B|Curveball|26|1|1|1|13|78
+Devin Smeltzer|L|Travis Demeritte|R|Single|F|Four-Seam Fastball|27|2|1|1|8|88
+Devin Smeltzer|L|Travis Demeritte|R|Single|D|Curveball|28|2|2|1|9|77
+Devin Smeltzer|L|Jake Rogers|R|Single|B|Four-Seam Fastball|29|0|0|1|13|90
+Devin Smeltzer|L|Jake Rogers|R|Single|D|Four-Seam Fastball|30|1|0|1|9|89
+Devin Smeltzer|L|Willi Castro|R|Strikeout|B|Four-Seam Fastball|31|0|0|1|14|89
+Devin Smeltzer|L|Willi Castro|R|Strikeout|B|Four-Seam Fastball|32|1|0|1|14|87
+Devin Smeltzer|L|Willi Castro|R|Strikeout|F|Four-Seam Fastball|33|2|0|1|7|89
+Devin Smeltzer|L|Willi Castro|R|Strikeout|F|Curveball|34|2|1|1|8|75
+Devin Smeltzer|L|Willi Castro|R|Strikeout|W|Curveball|35|2|2|1|14|76
+Devin Smeltzer|L|Victor Reyes|R|Lineout|*B|Changeup|36|0|0|2|14|83
+Devin Smeltzer|L|Victor Reyes|R|Lineout|F|Four-Seam Fastball|37|1|0|2|4|88
+Devin Smeltzer|L|Victor Reyes|R|Lineout|X|Changeup|38|1|1|2|12|82
+Devin Smeltzer|L|Brandon Dixon|R|Triple|D|Four-Seam Fastball|39|0|0|0|8|87
+Devin Smeltzer|L|Miguel Cabrera|R|Groundout|B|Curveball|40|0|0|0|13|78
+Devin Smeltzer|L|Miguel Cabrera|R|Groundout|B|Curveball|41|1|0|0|13|78
+Devin Smeltzer|L|Miguel Cabrera|R|Groundout|C|Curveball|42|2|0|0|13|77
+Devin Smeltzer|L|Miguel Cabrera|R|Groundout|E|Curveball|43|2|1|0|5|78
+Devin Smeltzer|L|Ronny Rodriguez|R|Lineout|C|Four-Seam Fastball|44|0|0|1|4|89
+Devin Smeltzer|L|Ronny Rodriguez|R|Lineout|F|Changeup|45|0|1|1|8|83
+Devin Smeltzer|L|Ronny Rodriguez|R|Lineout|X|Four-Seam Fastball|46|0|2|1|11|90
+Devin Smeltzer|L|Dawel Lugo|R|Groundout|X|Changeup|47|0|0|2|14|83
+Devin Smeltzer|L|John Hicks|R|Groundout|B|Curveball|48|0|0|0|11|76
+Devin Smeltzer|L|John Hicks|R|Groundout|F|Four-Seam Fastball|49|1|0|0|12|86
+Devin Smeltzer|L|John Hicks|R|Groundout|X|Changeup|50|1|1|0|14|81
+Devin Smeltzer|L|Travis Demeritte|R|Double|C|Four-Seam Fastball|51|0|0|1|14|88
+Devin Smeltzer|L|Travis Demeritte|R|Double|D|Curveball|52|0|1|1|7|77
+Devin Smeltzer|L|Jake Rogers|R|Pop Out|B|Changeup|53|0|0|1|12|81
+Devin Smeltzer|L|Jake Rogers|R|Pop Out|S|Changeup|54|1|0|1|6|81
+Devin Smeltzer|L|Jake Rogers|R|Pop Out|B|Four-Seam Fastball|55|1|1|1|14|88
+Devin Smeltzer|L|Jake Rogers|R|Pop Out|C|Changeup|56|2|1|1|2|81
+Devin Smeltzer|L|Jake Rogers|R|Pop Out|X|Four-Seam Fastball|57|2|2|1|2|88
+Devin Smeltzer|L|Willi Castro|R|Single|B|Four-Seam Fastball|58|0|0|2|12|88
+Devin Smeltzer|L|Willi Castro|R|Single|B|Four-Seam Fastball|59|1|0|2|13|87
+Devin Smeltzer|L|Willi Castro|R|Single|S|Curveball|60|2|0|2|13|75
+Devin Smeltzer|L|Willi Castro|R|Single|E|Four-Seam Fastball|61|2|1|2|7|88
+Devin Smeltzer|L|Victor Reyes|R|Single|F|Four-Seam Fastball|62|0|0|2|4|89
+Devin Smeltzer|L|Victor Reyes|R|Single|E|Changeup|63|0|1|2|8|83
+Devin Smeltzer|L|Brandon Dixon|R|Flyout|X|Changeup|64|0|0|2|5|82
+Devin Smeltzer|L|Miguel Cabrera|R|Single|B|Four-Seam Fastball|65|0|0|0|12|87
+Devin Smeltzer|L|Miguel Cabrera|R|Single|B|Four-Seam Fastball|66|1|0|0|14|87
+Devin Smeltzer|L|Miguel Cabrera|R|Single|C|Curveball|67|2|0|0|9|75
+Devin Smeltzer|L|Miguel Cabrera|R|Single|F|Four-Seam Fastball|68|2|1|0|2|88
+Devin Smeltzer|L|Miguel Cabrera|R|Single|D|Curveball|69|2|2|0|13|78
+Devin Smeltzer|L|Ronny Rodriguez|R|Flyout|B|Changeup|70|0|0|0|12|81
+Devin Smeltzer|L|Ronny Rodriguez|R|Flyout|B|Changeup|71|1|0|0|12|80
+Devin Smeltzer|L|Ronny Rodriguez|R|Flyout|X|Four-Seam Fastball|72|2|0|0|5|88
+Devin Smeltzer|L|Dawel Lugo|R|Single|D|Changeup|73|0|0|1|8|82
+Devin Smeltzer|L|John Hicks|R|Strikeout|S|Curveball|74|0|0|1|13|75
+Devin Smeltzer|L|John Hicks|R|Strikeout|W|Curveball|75|0|1|1|13|74
+Devin Smeltzer|L|John Hicks|R|Strikeout|S|Curveball|76|0|2|1|14|75
+Devin Smeltzer|L|Travis Demeritte|R|Flyout|B|Four-Seam Fastball|77|0|0|2|4|88
+Devin Smeltzer|L|Travis Demeritte|R|Flyout|C|Four-Seam Fastball|78|1|0|2|9|88
+Devin Smeltzer|L|Travis Demeritte|R|Flyout|F|Four-Seam Fastball|79|1|1|2|9|87
+Devin Smeltzer|L|Travis Demeritte|R|Flyout|X|Four-Seam Fastball|80|1|2|2|12|88
+Devin Smeltzer|L|Hunter Pence|R|Home Run|C|Curveball|0|0|0|0|5|77
+Devin Smeltzer|L|Hunter Pence|R|Home Run|S|Changeup|1|0|1|0|9|83
+Devin Smeltzer|L|Hunter Pence|R|Home Run|B|Four-Seam Fastball|2|0|2|0|13|91
+Devin Smeltzer|L|Hunter Pence|R|Home Run|F|Changeup|3|1|2|0|14|84
+Devin Smeltzer|L|Hunter Pence|R|Home Run|E|Four-Seam Fastball|4|1|2|0|8|91
+Devin Smeltzer|L|Willie Calhoun|L|Single|C|Four-Seam Fastball|5|0|0|0|4|90
+Devin Smeltzer|L|Willie Calhoun|L|Single|F|Changeup|6|0|1|0|3|84
+Devin Smeltzer|L|Willie Calhoun|L|Single|F|Four-Seam Fastball|7|0|2|0|11|91
+Devin Smeltzer|L|Willie Calhoun|L|Single|B|Changeup|8|0|2|0|13|84
+Devin Smeltzer|L|Willie Calhoun|L|Single|D|Changeup|9|1|2|0|7|83
+Devin Smeltzer|L|Rougned Odor|L|Double|B|Four-Seam Fastball|10|0|0|0|13|89
+Devin Smeltzer|L|Rougned Odor|L|Double|B|Changeup|11|1|0|0|3|82
+Devin Smeltzer|L|Rougned Odor|L|Double|*B|Four-Seam Fastball|12|2|0|0|13|88
+Devin Smeltzer|L|Rougned Odor|L|Double|C|Four-Seam Fastball|13|3|0|0|8|88
+Devin Smeltzer|L|Rougned Odor|L|Double|C|Four-Seam Fastball|14|3|1|0|7|88
+Devin Smeltzer|L|Rougned Odor|L|Double|X|Changeup|15|3|2|0|4|81
+Devin Smeltzer|L|Logan Forsythe|R|Fielders Choice Out|B|Four-Seam Fastball|16|0|0|1|12|90
+Devin Smeltzer|L|Logan Forsythe|R|Fielders Choice Out|C|Four-Seam Fastball|17|1|0|1|5|89
+Devin Smeltzer|L|Logan Forsythe|R|Fielders Choice Out|X|Curveball|18|1|1|1|7|77
+Devin Smeltzer|L|Jose Trevino|R|Single|C|Four-Seam Fastball|19|0|0|2|9|89
+Devin Smeltzer|L|Jose Trevino|R|Single|D|Changeup|20|0|1|2|3|83
+Devin Smeltzer|L|Delino DeShields|R|Double|B|Four-Seam Fastball|21|0|0|2|12|89
+Devin Smeltzer|L|Delino DeShields|R|Double|C|Four-Seam Fastball|22|1|0|2|9|89
+Devin Smeltzer|L|Delino DeShields|R|Double|B|Changeup|23|1|1|2|13|83
+Devin Smeltzer|L|Delino DeShields|R|Double|C|Four-Seam Fastball|24|2|1|2|8|89
+Devin Smeltzer|L|Delino DeShields|R|Double|F|Changeup|25|2|2|2|14|84
+Devin Smeltzer|L|Delino DeShields|R|Double|F|Four-Seam Fastball|26|2|2|2|9|90
+Devin Smeltzer|L|Delino DeShields|R|Double|F|Four-Seam Fastball|27|2|2|2|3|90
+Devin Smeltzer|L|Delino DeShields|R|Double|F|Curveball|28|2|2|2|7|77
+Devin Smeltzer|L|Delino DeShields|R|Double|B|Changeup|29|2|2|2|12|83
+Devin Smeltzer|L|Delino DeShields|R|Double|F|Four-Seam Fastball|30|3|2|2|8|90
+Devin Smeltzer|L|Delino DeShields|R|Double|E|Four-Seam Fastball|31|3|2|2|7|90
+Devin Smeltzer|L|Danny Santana|R|Strikeout|C|Four-Seam Fastball|32|0|0|0|1|88
+Devin Smeltzer|L|Danny Santana|R|Strikeout|T|Changeup|33|0|1|0|9|82
+Devin Smeltzer|L|Danny Santana|R|Strikeout|B|Slider|34|0|2|0|13|81
+Devin Smeltzer|L|Danny Santana|R|Strikeout|B|Four-Seam Fastball|35|1|2|0|11|89
+Devin Smeltzer|L|Danny Santana|R|Strikeout|S|Changeup|36|2|2|0|14|82
+Devin Smeltzer|L|Elvis Andrus|R|Groundout|X|Four-Seam Fastball|37|0|0|1|7|89
+Devin Smeltzer|L|Nomar Mazara|L|Flyout|C|Curveball|38|0|0|2|4|76
+Devin Smeltzer|L|Nomar Mazara|L|Flyout|C|Four-Seam Fastball|39|0|1|2|1|89
+Devin Smeltzer|L|Nomar Mazara|L|Flyout|F|Curveball|40|0|2|2|13|77
+Devin Smeltzer|L|Nomar Mazara|L|Flyout|F|Four-Seam Fastball|41|0|2|2|12|90
+Devin Smeltzer|L|Nomar Mazara|L|Flyout|X|Four-Seam Fastball|42|0|2|2|12|90
+Devin Smeltzer|L|Hunter Pence|R|Lineout|C|Changeup|43|0|0|0|8|82
+Devin Smeltzer|L|Hunter Pence|R|Lineout|B|Curveball|44|0|1|0|13|76
+Devin Smeltzer|L|Hunter Pence|R|Lineout|F|Changeup|45|1|1|0|14|81
+Devin Smeltzer|L|Hunter Pence|R|Lineout|X|Curveball|46|1|2|0|9|76
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|X|Curveball|47|0|0|1|4|74
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|48|0|0|2|13|88
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|B|Changeup|49|1|0|2|13|82
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|B|Curveball|50|2|0|2|13|75
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|51|3|0|2|3|88
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|52|3|1|2|12|88
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|F|Four-Seam Fastball|53|3|2|2|3|88
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|S|Curveball|54|3|2|2|13|77
+Devin Smeltzer|L|Logan Forsythe|R|Walk|C|Four-Seam Fastball|55|0|0|0|4|87
+Devin Smeltzer|L|Logan Forsythe|R|Walk|B|Four-Seam Fastball|56|0|1|0|12|87
+Devin Smeltzer|L|Logan Forsythe|R|Walk|C|Curveball|57|1|1|0|6|75
+Devin Smeltzer|L|Logan Forsythe|R|Walk|B|Curveball|58|1|2|0|13|77
+Devin Smeltzer|L|Logan Forsythe|R|Walk|B|Four-Seam Fastball|59|2|2|0|11|89
+Devin Smeltzer|L|Logan Forsythe|R|Walk|B|Four-Seam Fastball|60|3|2|0|14|88
+Devin Smeltzer|L|Jose Trevino|R|Grounded Into DP|C|Four-Seam Fastball|61|0|0|0|14|88
+Devin Smeltzer|L|Jose Trevino|R|Grounded Into DP|X|Changeup|62|0|1|0|12|81
+Devin Smeltzer|L|Delino DeShields|R|Triple|B|Four-Seam Fastball|63|0|0|2|14|90
+Devin Smeltzer|L|Delino DeShields|R|Triple|D|Changeup|64|1|0|2|5|81
+Devin Smeltzer|L|Danny Santana|R|Single|F|Four-Seam Fastball|65|0|0|2|12|88
+Devin Smeltzer|L|Danny Santana|R|Single|F|Changeup|66|0|1|2|13|82
+Devin Smeltzer|L|Danny Santana|R|Single|E|Four-Seam Fastball|67|0|2|2|1|88
+Devin Smeltzer|L|Elvis Andrus|R|Lineout|B|Curveball|68|0|0|2|13|77
+Devin Smeltzer|L|Elvis Andrus|R|Lineout|B|Four-Seam Fastball|69|1|0|2|13|87
+Devin Smeltzer|L|Elvis Andrus|R|Lineout|X|Four-Seam Fastball|70|2|0|2|5|87
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|0|0|0|0|6|89
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|F|Changeup|1|0|1|0|12|84
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|B|Changeup|2|0|2|0|13|85
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|S|Changeup|3|1|2|0|14|85
+Devin Smeltzer|L|Christian Yelich|L|Groundout|S|Four-Seam Fastball|4|0|0|1|13|90
+Devin Smeltzer|L|Christian Yelich|L|Groundout|S|Changeup|5|0|1|1|14|84
+Devin Smeltzer|L|Christian Yelich|L|Groundout|F|Four-Seam Fastball|6|0|2|1|11|90
+Devin Smeltzer|L|Christian Yelich|L|Groundout|B|Changeup|7|0|2|1|13|85
+Devin Smeltzer|L|Christian Yelich|L|Groundout|B|Four-Seam Fastball|8|1|2|1|11|91
+Devin Smeltzer|L|Christian Yelich|L|Groundout|X|Four-Seam Fastball|9|2|2|1|11|89
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|B|Changeup|10|0|0|2|14|84
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|B|Four-Seam Fastball|11|1|0|2|13|90
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|12|2|0|2|3|89
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|F|Changeup|13|2|1|2|14|83
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|14|2|2|2|12|90
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|F|Four-Seam Fastball|15|2|2|2|5|90
+Devin Smeltzer|L|Ryan Braun|R|Strikeout|C|Four-Seam Fastball|16|2|2|2|4|90
+Devin Smeltzer|L|Yasmani Grandal|R|Triple|C|Curveball|17|0|0|0|9|75
+Devin Smeltzer|L|Yasmani Grandal|R|Triple|D|Four-Seam Fastball|18|0|1|0|12|88
+Devin Smeltzer|L|Mike Moustakas|L|Strikeout|C|Four-Seam Fastball|19|0|0|0|7|87
+Devin Smeltzer|L|Mike Moustakas|L|Strikeout|B|Curveball|20|0|1|0|12|76
+Devin Smeltzer|L|Mike Moustakas|L|Strikeout|F|Curveball|21|1|1|0|7|77
+Devin Smeltzer|L|Mike Moustakas|L|Strikeout|T|Four-Seam Fastball|22|1|2|0|4|88
+Devin Smeltzer|L|Jesus Aguilar|R|Groundout|C|Four-Seam Fastball|23|0|0|1|13|89
+Devin Smeltzer|L|Jesus Aguilar|R|Groundout|B|Changeup|24|0|1|1|14|83
+Devin Smeltzer|L|Jesus Aguilar|R|Groundout|X|Changeup|25|1|1|1|8|83
+Devin Smeltzer|L|Hernan Perez|R|Flyout|S|Four-Seam Fastball|26|0|0|2|4|89
+Devin Smeltzer|L|Hernan Perez|R|Flyout|F|Curveball|27|0|1|2|7|77
+Devin Smeltzer|L|Hernan Perez|R|Flyout|F|Four-Seam Fastball|28|0|2|2|12|89
+Devin Smeltzer|L|Hernan Perez|R|Flyout|*B|Curveball|29|0|2|2|13|78
+Devin Smeltzer|L|Hernan Perez|R|Flyout|*B|Curveball|30|1|2|2|13|77
+Devin Smeltzer|L|Hernan Perez|R|Flyout|X|Four-Seam Fastball|31|2|2|2|5|89
+Devin Smeltzer|L|Keston Hiura|R|Groundout|C|Curveball|32|0|0|0|12|76
+Devin Smeltzer|L|Keston Hiura|R|Groundout|F|Four-Seam Fastball|33|0|1|0|12|89
+Devin Smeltzer|L|Keston Hiura|R|Groundout|B|Changeup|34|0|2|0|14|83
+Devin Smeltzer|L|Keston Hiura|R|Groundout|B|Four-Seam Fastball|35|1|2|0|11|88
+Devin Smeltzer|L|Keston Hiura|R|Groundout|X|Changeup|36|2|2|0|14|83
+Devin Smeltzer|L|Orlando Arcia|R|Single|C|Changeup|37|0|0|1|6|83
+Devin Smeltzer|L|Orlando Arcia|R|Single|D|Changeup|38|0|1|1|14|83
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|F|Changeup|39|0|0|1|13|82
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|S|Four-Seam Fastball|40|0|1|1|5|89
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|41|0|2|1|2|89
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|B|Changeup|42|0|2|1|12|82
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|S|Curveball|43|1|2|1|13|78
+Devin Smeltzer|L|Christian Yelich|L|Flyout|B|Changeup|44|0|0|2|12|82
+Devin Smeltzer|L|Christian Yelich|L|Flyout|C|Curveball|45|1|0|2|4|76
+Devin Smeltzer|L|Christian Yelich|L|Flyout|X|Four-Seam Fastball|46|1|1|2|1|88
+Devin Smeltzer|L|Ryan Braun|R|Double|D|Four-Seam Fastball|47|0|0|0|2|87
+Devin Smeltzer|L|Yasmani Grandal|R|Strikeout|F|Curveball|48|0|0|0|13|76
+Devin Smeltzer|L|Yasmani Grandal|R|Strikeout|F|Curveball|49|0|1|0|2|77
+Devin Smeltzer|L|Yasmani Grandal|R|Strikeout|C|Four-Seam Fastball|50|0|2|0|14|88
+Devin Smeltzer|L|Mike Moustakas|L|Double Play|X|Curveball|51|0|0|1|5|76
+Devin Smeltzer|L|Jesus Aguilar|R|Flyout|X|Four-Seam Fastball|52|0|0|0|4|87
+Devin Smeltzer|L|Hernan Perez|R|Lineout|C|Curveball|53|0|0|1|8|76
+Devin Smeltzer|L|Hernan Perez|R|Lineout|X|Curveball|54|0|1|1|13|75
+Devin Smeltzer|L|Keston Hiura|R|Groundout|C|Four-Seam Fastball|55|0|0|2|5|88
+Devin Smeltzer|L|Keston Hiura|R|Groundout|B|Four-Seam Fastball|56|0|1|2|11|88
+Devin Smeltzer|L|Keston Hiura|R|Groundout|X|Changeup|57|1|1|2|14|82
+Devin Smeltzer|L|Orlando Arcia|R|Groundout|B|Four-Seam Fastball|58|0|0|0|14|88
+Devin Smeltzer|L|Orlando Arcia|R|Groundout|B|Changeup|59|1|0|0|14|82
+Devin Smeltzer|L|Orlando Arcia|R|Groundout|C|Four-Seam Fastball|60|2|0|0|12|87
+Devin Smeltzer|L|Orlando Arcia|R|Groundout|S|Changeup|61|2|1|0|13|82
+Devin Smeltzer|L|Orlando Arcia|R|Groundout|X|Four-Seam Fastball|62|2|2|0|2|89
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|C|Four-Seam Fastball|63|0|0|1|14|88
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|F|Four-Seam Fastball|64|0|1|1|2|88
+Devin Smeltzer|L|Lorenzo Cain|R|Strikeout|S|Changeup|65|0|2|1|14|84
+Devin Smeltzer|L|Christian Yelich|L|Strikeout|C|Changeup|66|0|0|2|8|83
+Devin Smeltzer|L|Christian Yelich|L|Strikeout|S|Curveball|67|0|1|2|13|76
+Devin Smeltzer|L|Christian Yelich|L|Strikeout|W|Changeup|68|0|2|2|13|83
+Devin Smeltzer|L|Asdrubal Cabrera|R|Flyout|X|Four-Seam Fastball|0|0|0|0|9|88
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|1|0|0|1|7|90
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|C|Four-Seam Fastball|2|0|1|1|1|89
+Devin Smeltzer|L|Rougned Odor|L|Strikeout|S|Four-Seam Fastball|3|0|2|1|12|90
+Devin Smeltzer|L|Danny Santana|R|Single|B|Four-Seam Fastball|4|0|0|2|13|90
+Devin Smeltzer|L|Danny Santana|R|Single|F|Four-Seam Fastball|5|1|0|2|5|90
+Devin Smeltzer|L|Danny Santana|R|Single|B|Four-Seam Fastball|6|1|1|2|13|90
+Devin Smeltzer|L|Danny Santana|R|Single|F|Changeup|7|2|1|2|5|83
+Devin Smeltzer|L|Danny Santana|R|Single|D|Curveball|8|2|2|2|12|77
+Devin Smeltzer|L|Tim Federowicz|R|Lineout|B|Changeup|9|0|0|2|11|82
+Devin Smeltzer|L|Tim Federowicz|R|Lineout|S|Four-Seam Fastball|10|1|0|2|14|89
+Devin Smeltzer|L|Tim Federowicz|R|Lineout|X|Changeup|11|1|1|2|6|82
+Devin Smeltzer|L|Shin-Soo Choo|L|Single|B|Changeup|12|0|0|0|12|82
+Devin Smeltzer|L|Shin-Soo Choo|L|Single|B|Changeup|13|1|0|0|12|81
+Devin Smeltzer|L|Shin-Soo Choo|L|Single|D|Four-Seam Fastball|14|2|0|0|13|88
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|*B|Curveball|15|0|0|0|13|76
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|F|Four-Seam Fastball|16|1|0|0|14|88
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|B|Four-Seam Fastball|17|1|1|0|13|86
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|X|Four-Seam Fastball|18|2|1|0|7|89
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|C|Curveball|19|0|0|1|5|76
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|B|Curveball|20|0|1|1|12|74
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|S|Four-Seam Fastball|21|1|1|1|4|88
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|B|Four-Seam Fastball|22|1|2|1|13|90
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|F|Curveball|23|2|2|1|13|75
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|F|Changeup|24|2|2|1|6|82
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|F|Four-Seam Fastball|25|2|2|1|11|89
+Devin Smeltzer|L|Elvis Andrus|R|Strikeout|S|Four-Seam Fastball|26|2|2|1|8|89
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|C|Four-Seam Fastball|27|0|0|2|7|88
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|F|Four-Seam Fastball|28|0|1|2|1|88
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|B|Four-Seam Fastball|29|0|2|2|13|89
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|B|Curveball|30|1|2|2|13|77
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|B|Curveball|31|2|2|2|13|77
+Devin Smeltzer|L|Nomar Mazara|L|Strikeout|S|Changeup|32|3|2|2|14|82
+Devin Smeltzer|L|Joey Gallo|L|Double|B|Four-Seam Fastball|33|0|0|0|1|87
+Devin Smeltzer|L|Joey Gallo|L|Double|B|Four-Seam Fastball|34|1|0|0|11|88
+Devin Smeltzer|L|Joey Gallo|L|Double|C|Four-Seam Fastball|35|2|0|0|7|89
+Devin Smeltzer|L|Joey Gallo|L|Double|C|Changeup|36|2|1|0|13|83
+Devin Smeltzer|L|Joey Gallo|L|Double|D|Curveball|37|2|2|0|7|76
+Devin Smeltzer|L|Asdrubal Cabrera|R|Strikeout|C|Curveball|38|0|0|0|4|76
+Devin Smeltzer|L|Asdrubal Cabrera|R|Strikeout|F|Curveball|39|0|1|0|11|77
+Devin Smeltzer|L|Asdrubal Cabrera|R|Strikeout|T|Four-Seam Fastball|40|0|2|0|11|89
+Devin Smeltzer|L|Rougned Odor|L|Groundout|F|Curveball|41|0|0|1|11|75
+Devin Smeltzer|L|Rougned Odor|L|Groundout|B|Four-Seam Fastball|42|0|1|1|13|89
+Devin Smeltzer|L|Rougned Odor|L|Groundout|X|Four-Seam Fastball|43|1|1|1|2|87
+Devin Smeltzer|L|Danny Santana|R|Single|E|Four-Seam Fastball|44|0|0|2|13|88
+Devin Smeltzer|L|Tim Federowicz|R|Groundout|C|Curveball|45|0|0|0|3|75
+Devin Smeltzer|L|Tim Federowicz|R|Groundout|B|Four-Seam Fastball|46|0|1|0|12|88
+Devin Smeltzer|L|Tim Federowicz|R|Groundout|X|Slider|47|1|1|0|7|85
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|B|Curveball|48|0|0|1|13|75
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|B|Slider|49|1|0|1|13|85
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|C|Changeup|50|2|0|1|1|82
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|51|2|1|1|13|89
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|F|Four-Seam Fastball|52|3|1|1|2|88
+Devin Smeltzer|L|Shin-Soo Choo|L|Walk|B|Four-Seam Fastball|53|3|2|1|13|90
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|B|Four-Seam Fastball|54|0|0|1|13|88
+Devin Smeltzer|L|Willie Calhoun|L|Flyout|X|Curveball|55|1|0|1|5|76
+Devin Smeltzer|L|Elvis Andrus|R|Pop Out|F|Curveball|56|0|0|2|5|76
+Devin Smeltzer|L|Elvis Andrus|R|Pop Out|F|Slider|57|0|1|2|1|85
+Devin Smeltzer|L|Elvis Andrus|R|Pop Out|X|Four-Seam Fastball|58|0|2|2|11|89
+Devin Smeltzer|L|Nomar Mazara|L|Groundout|B|Curveball|59|0|0|0|12|74
+Devin Smeltzer|L|Nomar Mazara|L|Groundout|T|Four-Seam Fastball|60|1|0|0|12|88
+Devin Smeltzer|L|Nomar Mazara|L|Groundout|B|Four-Seam Fastball|61|1|1|0|11|87
+Devin Smeltzer|L|Nomar Mazara|L|Groundout|C|Changeup|62|2|1|0|1|81
+Devin Smeltzer|L|Nomar Mazara|L|Groundout|X|Changeup|63|2|2|0|13|83
+Devin Smeltzer|L|Joey Gallo|L|Single|D|Four-Seam Fastball|64|0|0|1|2|89
+Devin Smeltzer|L|Gio Urshela|R|Groundout|C|Changeup|0|0|0|0|8|82
+Devin Smeltzer|L|Gio Urshela|R|Groundout|B|Changeup|1|0|1|0|12|82
+Devin Smeltzer|L|Gio Urshela|R|Groundout|X|Curveball|2|1|1|0|6|74
+Devin Smeltzer|L|Mike Tauchman|L|Double|B|Slider|3|0|0|1|13|85
+Devin Smeltzer|L|Mike Tauchman|L|Double|D|Four-Seam Fastball|4|1|0|1|4|90
+Devin Smeltzer|L|Austin Romine|R|Groundout|F|Changeup|5|0|0|1|12|82
+Devin Smeltzer|L|Austin Romine|R|Groundout|X|Changeup|6|0|1|1|6|82
+Devin Smeltzer|L|DJ LeMahieu|R|Groundout|C|Four-Seam Fastball|7|0|0|2|4|90
+Devin Smeltzer|L|DJ LeMahieu|R|Groundout|X|Curveball|8|0|1|2|9|76
+Devin Smeltzer|L|Aaron Judge|R|Single|F|Curveball|9|0|0|0|6|76
+Devin Smeltzer|L|Aaron Judge|R|Single|B|Curveball|10|0|1|0|13|78
+Devin Smeltzer|L|Aaron Judge|R|Single|S|Changeup|11|1|1|0|14|83
+Devin Smeltzer|L|Aaron Judge|R|Single|D|Curveball|12|1|2|0|8|78
+Devin Smeltzer|L|Aaron Hicks|R|Flyout|C|Curveball|13|0|0|0|9|76
+Devin Smeltzer|L|Aaron Hicks|R|Flyout|B|Four-Seam Fastball|14|0|1|0|13|89
+Devin Smeltzer|L|Aaron Hicks|R|Flyout|X|Four-Seam Fastball|15|1|1|0|9|89
+Devin Smeltzer|L|Edwin Encarnacion|R|Flyout|C|Slider|16|0|0|1|4|84
+Devin Smeltzer|L|Edwin Encarnacion|R|Flyout|X|Four-Seam Fastball|17|0|1|1|7|89
+Devin Smeltzer|L|Didi Gregorius|L|Flyout|S|Curveball|18|0|0|2|13|77
+Devin Smeltzer|L|Didi Gregorius|L|Flyout|X|Four-Seam Fastball|19|0|1|2|8|88
+Devin Smeltzer|L|Gleyber Torres|R|Strikeout|S|Four-Seam Fastball|20|0|0|0|6|89
+Devin Smeltzer|L|Gleyber Torres|R|Strikeout|B|Changeup|21|0|1|0|13|82
+Devin Smeltzer|L|Gleyber Torres|R|Strikeout|B|Curveball|22|1|1|0|13|76
+Devin Smeltzer|L|Gleyber Torres|R|Strikeout|C|Changeup|23|2|1|0|4|83
+Devin Smeltzer|L|Gleyber Torres|R|Strikeout|T|Changeup|24|2|2|0|14|84
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|C|Four-Seam Fastball|25|0|0|1|6|91
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|F|Four-Seam Fastball|26|0|1|1|6|91
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|B|Four-Seam Fastball|27|0|2|1|11|91
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|F|Four-Seam Fastball|28|1|2|1|11|91
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|B|Four-Seam Fastball|29|1|2|1|13|91
+Devin Smeltzer|L|Gio Urshela|R|Strikeout|W|Changeup|30|2|2|1|14|85
+Devin Smeltzer|L|Mike Tauchman|L|Strikeout|C|Changeup|31|0|0|2|5|84
+Devin Smeltzer|L|Mike Tauchman|L|Strikeout|S|Curveball|32|0|1|2|13|77
+Devin Smeltzer|L|Mike Tauchman|L|Strikeout|F|Four-Seam Fastball|33|0|2|2|12|92
+Devin Smeltzer|L|Mike Tauchman|L|Strikeout|B|Changeup|34|0|2|2|13|84
+Devin Smeltzer|L|Mike Tauchman|L|Strikeout|S|Curveball|35|1|2|2|8|79
+Devin Smeltzer|L|Austin Romine|R|Strikeout|C|Curveball|36|0|0|0|2|77
+Devin Smeltzer|L|Austin Romine|R|Strikeout|F|Curveball|37|0|1|0|12|78
+Devin Smeltzer|L|Austin Romine|R|Strikeout|B|Four-Seam Fastball|38|0|2|0|13|90
+Devin Smeltzer|L|Austin Romine|R|Strikeout|F|Curveball|39|1|2|0|13|79
+Devin Smeltzer|L|Austin Romine|R|Strikeout|S|Changeup|40|1|2|0|14|84
+Devin Smeltzer|L|DJ LeMahieu|R|Single|C|Changeup|41|0|0|1|8|83
+Devin Smeltzer|L|DJ LeMahieu|R|Single|D|Changeup|42|0|1|1|14|83
+Devin Smeltzer|L|Aaron Judge|R|Flyout|C|Changeup|43|0|0|1|14|82
+Devin Smeltzer|L|Aaron Judge|R|Flyout|X|Slider|44|0|1|1|4|84
+Devin Smeltzer|L|Aaron Hicks|R|Forceout|X|Curveball|45|0|0|2|8|78
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|B|Slider|46|0|0|0|12|81
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|B|Slider|47|1|0|0|13|83
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|F|Changeup|48|2|0|0|7|82
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|S|Curveball|49|2|1|0|13|76
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|F|Curveball|50|2|2|0|14|78
+Devin Smeltzer|L|Edwin Encarnacion|R|Home Run|E|Changeup|51|2|2|0|8|83
+Devin Smeltzer|L|Didi Gregorius|L|Single|C|Four-Seam Fastball|52|0|0|0|4|90
+Devin Smeltzer|L|Didi Gregorius|L|Single|F|Four-Seam Fastball|53|0|1|0|4|90
+Devin Smeltzer|L|Didi Gregorius|L|Single|D|Four-Seam Fastball|54|0|2|0|11|90
+Devin Smeltzer|L|Gleyber Torres|R|Grounded Into DP|*B|Curveball|55|0|0|0|13|76
+Devin Smeltzer|L|Gleyber Torres|R|Grounded Into DP|X|Curveball|56|1|0|0|8|77
+Devin Smeltzer|L|Gio Urshela|R|Lineout|F|Four-Seam Fastball|57|0|0|2|7|90
+Devin Smeltzer|L|Gio Urshela|R|Lineout|B|Four-Seam Fastball|58|0|1|2|12|89
+Devin Smeltzer|L|Gio Urshela|R|Lineout|B|Changeup|59|1|1|2|14|82
+Devin Smeltzer|L|Gio Urshela|R|Lineout|F|Changeup|60|2|1|2|9|82
+Devin Smeltzer|L|Gio Urshela|R|Lineout|F|Curveball|61|2|2|2|13|78
+Devin Smeltzer|L|Gio Urshela|R|Lineout|X|Curveball|62|2|2|2|13|79
+Devin Smeltzer|L|Whit Merrifield|R|Lineout|B|Four-Seam Fastball|0|0|0|0|13|88
+Devin Smeltzer|L|Whit Merrifield|R|Lineout|C|Four-Seam Fastball|1|1|0|0|13|88
+Devin Smeltzer|L|Whit Merrifield|R|Lineout|B|Four-Seam Fastball|2|1|1|0|14|89
+Devin Smeltzer|L|Whit Merrifield|R|Lineout|B|Changeup|3|2|1|0|13|84
+Devin Smeltzer|L|Whit Merrifield|R|Lineout|X|Four-Seam Fastball|4|3|1|0|14|89
+Devin Smeltzer|L|Alex Gordon|L|Strikeout|C|Four-Seam Fastball|5|0|0|1|9|89
+Devin Smeltzer|L|Alex Gordon|L|Strikeout|B|Slider|6|0|1|1|13|83
+Devin Smeltzer|L|Alex Gordon|L|Strikeout|C|Changeup|7|1|1|1|8|83
+Devin Smeltzer|L|Alex Gordon|L|Strikeout|F|Four-Seam Fastball|8|1|2|1|12|90
+Devin Smeltzer|L|Alex Gordon|L|Strikeout|S|Four-Seam Fastball|9|1|2|1|12|90
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|B|Four-Seam Fastball|10|0|0|2|13|90
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|S|Changeup|11|1|0|2|13|82
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|F|Four-Seam Fastball|12|1|1|2|2|90
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|F|Changeup|13|1|2|2|9|84
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|F|Four-Seam Fastball|14|1|2|2|11|91
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|F|Slider|15|1|2|2|6|82
+Devin Smeltzer|L|Hunter Dozier|R|Strikeout|S|Changeup|16|1|2|2|14|84
+Devin Smeltzer|L|Jorge Soler|R|Groundout|C|Changeup|17|0|0|0|9|82
+Devin Smeltzer|L|Jorge Soler|R|Groundout|B|Four-Seam Fastball|18|0|1|0|14|89
+Devin Smeltzer|L|Jorge Soler|R|Groundout|C|Four-Seam Fastball|19|1|1|0|7|88
+Devin Smeltzer|L|Jorge Soler|R|Groundout|B|Slider|20|1|2|0|13|82
+Devin Smeltzer|L|Jorge Soler|R|Groundout|B|Changeup|21|2|2|0|14|83
+Devin Smeltzer|L|Jorge Soler|R|Groundout|X|Four-Seam Fastball|22|3|2|0|6|89
+Devin Smeltzer|L|Cheslor Cuthbert|R|Pop Out|C|Four-Seam Fastball|23|0|0|1|8|89
+Devin Smeltzer|L|Cheslor Cuthbert|R|Pop Out|B|Four-Seam Fastball|24|0|1|1|12|88
+Devin Smeltzer|L|Cheslor Cuthbert|R|Pop Out|B|Curveball|25|1|1|1|13|77
+Devin Smeltzer|L|Cheslor Cuthbert|R|Pop Out|F|Changeup|26|2|1|1|14|82
+Devin Smeltzer|L|Cheslor Cuthbert|R|Pop Out|X|Four-Seam Fastball|27|2|2|1|4|89
+Devin Smeltzer|L|Bubba Starling|R|Flyout|C|Four-Seam Fastball|28|0|0|2|8|89
+Devin Smeltzer|L|Bubba Starling|R|Flyout|X|Four-Seam Fastball|29|0|1|2|14|89
+Devin Smeltzer|L|Humberto Arteaga|R|Groundout|B|Four-Seam Fastball|30|0|0|0|12|88
+Devin Smeltzer|L|Humberto Arteaga|R|Groundout|F|Four-Seam Fastball|31|1|0|0|13|88
+Devin Smeltzer|L|Humberto Arteaga|R|Groundout|F|Changeup|32|1|1|0|12|82
+Devin Smeltzer|L|Humberto Arteaga|R|Groundout|X|Changeup|33|1|2|0|14|84
+Devin Smeltzer|L|Nicky Lopez|L|Single|C|Four-Seam Fastball|34|0|0|1|7|89
+Devin Smeltzer|L|Nicky Lopez|L|Single|D|Curveball|35|0|1|1|13|76
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|C|Curveball|36|0|0|1|2|76
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|F|Four-Seam Fastball|37|0|1|1|4|89
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|B|Curveball|38|0|2|1|13|77
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|F|Four-Seam Fastball|39|1|2|1|11|89
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|B|Changeup|40|1|2|1|14|84
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|B|Curveball|41|2|2|1|12|75
+Devin Smeltzer|L|Cam Gallagher|R|Strikeout|S|Curveball|42|3|2|1|13|76
+Devin Smeltzer|L|Whit Merrifield|R|Pop Out|B|Changeup|43|0|0|2|12|81
+Devin Smeltzer|L|Whit Merrifield|R|Pop Out|X|Changeup|44|1|0|2|7|81
+Devin Smeltzer|L|Alex Gordon|L|Single|C|Four-Seam Fastball|45|0|0|0|7|88
+Devin Smeltzer|L|Alex Gordon|L|Single|B|Changeup|46|0|1|0|13|82
+Devin Smeltzer|L|Alex Gordon|L|Single|D|Changeup|47|1|1|0|13|82
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|B|Curveball|48|0|0|0|13|76
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|C|Changeup|49|1|0|0|4|81
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|F|Four-Seam Fastball|50|1|1|0|11|88
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|B|Changeup|51|1|2|0|14|82
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|B|Four-Seam Fastball|52|2|2|0|14|89
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|F|Changeup|53|3|2|0|12|80
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|F|Four-Seam Fastball|54|3|2|0|6|88
+Devin Smeltzer|L|Hunter Dozier|R|Flyout|X|Curveball|55|3|2|0|4|75
+Devin Smeltzer|L|Jorge Soler|R|Groundout|F|Four-Seam Fastball|56|0|0|1|14|89
+Devin Smeltzer|L|Jorge Soler|R|Groundout|C|Four-Seam Fastball|57|0|1|1|5|89
+Devin Smeltzer|L|Jorge Soler|R|Groundout|X|Changeup|58|0|2|1|9|83
+Devin Smeltzer|L|Cheslor Cuthbert|R|Groundout|S|Four-Seam Fastball|59|0|0|2|9|87
+Devin Smeltzer|L|Cheslor Cuthbert|R|Groundout|C|Four-Seam Fastball|60|0|1|2|8|87
+Devin Smeltzer|L|Cheslor Cuthbert|R|Groundout|B|Curveball|61|0|2|2|13|76
+Devin Smeltzer|L|Cheslor Cuthbert|R|Groundout|X|Four-Seam Fastball|62|1|2|2|4|89
+Devin Smeltzer|L|Bubba Starling|R|Flyout|B|Four-Seam Fastball|63|0|0|0|13|89
+Devin Smeltzer|L|Bubba Starling|R|Flyout|B|Changeup|64|1|0|0|13|82
+Devin Smeltzer|L|Bubba Starling|R|Flyout|X|Four-Seam Fastball|65|2|0|0|5|89
+Devin Smeltzer|L|Humberto Arteaga|R|Flyout|X|Four-Seam Fastball|66|0|0|1|4|89
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|F|Curveball|67|0|0|2|4|75
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|C|Four-Seam Fastball|68|0|1|2|11|89
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|F|Curveball|69|0|2|2|11|78
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|F|Curveball|70|0|2|2|14|77
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|B|Four-Seam Fastball|71|0|2|2|13|90
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|B|Changeup|72|1|2|2|14|84
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|F|Four-Seam Fastball|73|2|2|2|5|89
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|B|Four-Seam Fastball|74|2|2|2|13|89
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|F|Curveball|75|3|2|2|8|76
+Devin Smeltzer|L|Nicky Lopez|L|Strikeout|T|Four-Seam Fastball|76|3|2|2|5|88
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Curveball|77|0|0|0|7|76
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Curveball|78|0|1|0|12|75
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Four-Seam Fastball|79|0|2|0|1|90
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Changeup|80|0|2|0|14|83
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Four-Seam Fastball|81|0|2|0|5|88
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|F|Four-Seam Fastball|82|0|2|0|1|88
+Devin Smeltzer|L|Cam Gallagher|R|Groundout|X|Changeup|83|0|2|0|14|83
+Devin Smeltzer|L|Whit Merrifield|R|Flyout|X|Four-Seam Fastball|84|0|0|1|4|89
+Devin Smeltzer|L|Alex Gordon|L|Walk|B|Four-Seam Fastball|85|0|0|2|12|87
+Devin Smeltzer|L|Alex Gordon|L|Walk|S|Four-Seam Fastball|86|1|0|2|9|87
+Devin Smeltzer|L|Alex Gordon|L|Walk|B|Four-Seam Fastball|87|1|1|2|12|89
+Devin Smeltzer|L|Alex Gordon|L|Walk|B|Changeup|88|2|1|2|12|81
+Devin Smeltzer|L|Alex Gordon|L|Walk|B|Four-Seam Fastball|89|3|1|2|11|87
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|B|Four-Seam Fastball|0|0|0|0|14|89
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|C|Four-Seam Fastball|1|1|0|0|6|89
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|B|Curveball|2|1|1|0|13|77
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|F|Changeup|3|2|1|0|2|83
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|B|Curveball|4|2|2|0|13|78
+Devin Smeltzer|L|Francisco Lindor|R|Lineout|X|Four-Seam Fastball|5|3|2|0|7|89
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|C|Four-Seam Fastball|6|0|0|1|13|89
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|S|Changeup|7|0|1|1|14|81
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|B|Four-Seam Fastball|8|0|2|1|11|90
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|F|Curveball|9|1|2|1|9|79
+Devin Smeltzer|L|Oscar Mercado|R|Flyout|X|Four-Seam Fastball|10|1|2|1|12|90
+Devin Smeltzer|L|Carlos Santana|R|Strikeout|B|Four-Seam Fastball|11|0|0|2|14|89
+Devin Smeltzer|L|Carlos Santana|R|Strikeout|B|Curveball|12|1|0|2|13|77
+Devin Smeltzer|L|Carlos Santana|R|Strikeout|C|Four-Seam Fastball|13|2|0|2|3|89
+Devin Smeltzer|L|Carlos Santana|R|Strikeout|F|Four-Seam Fastball|14|2|1|2|9|88
+Devin Smeltzer|L|Carlos Santana|R|Strikeout|C|Four-Seam Fastball|15|2|2|2|12|91
+Devin Smeltzer|L|Yasiel Puig|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|9|89
+Devin Smeltzer|L|Yasiel Puig|R|Strikeout|B|Changeup|17|0|1|0|12|82
+Devin Smeltzer|L|Yasiel Puig|R|Strikeout|F|Changeup|18|1|1|0|2|82
+Devin Smeltzer|L|Yasiel Puig|R|Strikeout|C|Four-Seam Fastball|19|1|2|0|14|90
+Devin Smeltzer|L|Jose Ramirez|R|Walk|B|Four-Seam Fastball|20|0|0|1|14|89
+Devin Smeltzer|L|Jose Ramirez|R|Walk|B|Curveball|21|1|0|1|13|77
+Devin Smeltzer|L|Jose Ramirez|R|Walk|B|Changeup|22|2|0|1|12|82
+Devin Smeltzer|L|Jose Ramirez|R|Walk|F|Four-Seam Fastball|23|3|0|1|7|88
+Devin Smeltzer|L|Jose Ramirez|R|Walk|F|Changeup|24|3|1|1|12|81
+Devin Smeltzer|L|Jose Ramirez|R|Walk|*B|Four-Seam Fastball|25|3|2|1|14|89
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|S|Four-Seam Fastball|26|0|0|1|12|88
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|B|Curveball|27|0|1|1|12|75
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|B|Changeup|28|1|1|1|12|82
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|S|Changeup|29|2|1|1|12|80
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|B|Four-Seam Fastball|30|2|2|1|14|89
+Devin Smeltzer|L|Roberto Perez|R|Strikeout|S|Changeup|31|3|2|1|9|80
+Devin Smeltzer|L|Jason Kipnis|L|Walk|C|Four-Seam Fastball|32|0|0|2|1|89
+Devin Smeltzer|L|Jason Kipnis|L|Walk|*B|Curveball|33|0|1|2|13|77
+Devin Smeltzer|L|Jason Kipnis|L|Walk|B|Four-Seam Fastball|34|1|1|2|13|88
+Devin Smeltzer|L|Jason Kipnis|L|Walk|B|Curveball|35|2|1|2|13|77
+Devin Smeltzer|L|Jason Kipnis|L|Walk|C|Curveball|36|3|1|2|1|77
+Devin Smeltzer|L|Jason Kipnis|L|Walk|F|Four-Seam Fastball|37|3|2|2|5|89
+Devin Smeltzer|L|Jason Kipnis|L|Walk|*B|Four-Seam Fastball|38|3|2|2|13|88
+Devin Smeltzer|L|Franmil Reyes|R|Double|C|Four-Seam Fastball|39|0|0|2|9|89
+Devin Smeltzer|L|Franmil Reyes|R|Double|T|Four-Seam Fastball|40|0|1|2|6|88
+Devin Smeltzer|L|Franmil Reyes|R|Double|E|Four-Seam Fastball|41|0|2|2|5|89
+Devin Smeltzer|L|Greg Allen|R|Lineout|F|Four-Seam Fastball|42|0|0|2|4|89
+Devin Smeltzer|L|Greg Allen|R|Lineout|X|Four-Seam Fastball|43|0|1|2|9|89
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|44|0|0|0|12|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Curveball|45|1|0|0|13|77
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Four-Seam Fastball|46|2|0|0|12|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|C|Four-Seam Fastball|47|3|0|0|3|88
+Devin Smeltzer|L|Francisco Lindor|R|Walk|B|Changeup|48|3|1|0|12|81
+Devin Smeltzer|L|Oscar Mercado|R|Bunt Pop Out|X|Four-Seam Fastball|49|0|0|0|11|88
+Devin Smeltzer|L|Carlos Santana|R|Forceout|C|Curveball|50|0|0|1|4|75
+Devin Smeltzer|L|Carlos Santana|R|Forceout|X|Curveball|51|0|1|1|5|76
+Devin Smeltzer|L|Yasiel Puig|R|Lineout|F|Four-Seam Fastball|52|0|0|2|3|88
+Devin Smeltzer|L|Yasiel Puig|R|Lineout|X|Changeup|53|0|1|2|9|81
+Devin Smeltzer|L|Jose Ramirez|R|Single|C|Four-Seam Fastball|54|0|0|0|6|88
+Devin Smeltzer|L|Jose Ramirez|R|Single|D|Changeup|55|0|1|0|3|81
+Devin Smeltzer|L|Roberto Perez|R|Flyout|F|Four-Seam Fastball|56|0|0|0|5|87
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Curveball|57|0|1|0|12|75
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Curveball|58|1|1|0|13|76
+Devin Smeltzer|L|Roberto Perez|R|Flyout|B|Changeup|59|2|1|0|13|82
+Devin Smeltzer|L|Roberto Perez|R|Flyout|X|Four-Seam Fastball|60|3|1|0|8|88
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|C|Four-Seam Fastball|61|0|0|1|3|88
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|F|Curveball|62|0|1|1|9|76
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|B|Four-Seam Fastball|63|0|2|1|14|90
+Devin Smeltzer|L|Jason Kipnis|L|Groundout|X|Changeup|64|1|2|1|12|81
+Devin Smeltzer|L|Franmil Reyes|R|Flyout|B|Curveball|65|0|0|2|13|77
+Devin Smeltzer|L|Franmil Reyes|R|Flyout|X|Four-Seam Fastball|66|1|0|2|1|88
+Devin Smeltzer|L|Greg Allen|R|Single|D|Four-Seam Fastball|67|0|0|0|8|88
+Devin Smeltzer|L|Francisco Lindor|R|Strikeout|F|Four-Seam Fastball|68|0|0|0|6|89
+Devin Smeltzer|L|Francisco Lindor|R|Strikeout|S|Curveball|69|0|1|0|13|76
+Devin Smeltzer|L|Francisco Lindor|R|Strikeout|B|Four-Seam Fastball|70|0|2|0|13|89
+Devin Smeltzer|L|Francisco Lindor|R|Strikeout|S|Curveball|71|1|2|0|13|78
+Devin Smeltzer|L|Oscar Mercado|R|Single|D|Changeup|72|0|0|1|9|81
+Devin Smeltzer|L|Carlos Santana|R|Single|E|Curveball|73|0|0|1|6|75
+Devin Smeltzer|L|Yasiel Puig|R|Single|C|Four-Seam Fastball|74|0|0|1|9|89
+Devin Smeltzer|L|Yasiel Puig|R|Single|B|Four-Seam Fastball|75|0|1|1|14|89
+Devin Smeltzer|L|Yasiel Puig|R|Single|B|Four-Seam Fastball|76|1|1|1|13|88
+Devin Smeltzer|L|Yasiel Puig|R|Single|E|Changeup|77|2|1|1|12|82
+Devin Smeltzer|L|Jose Ramirez|R|Double|B|Curveball|78|0|0|1|13|77
+Devin Smeltzer|L|Jose Ramirez|R|Double|B|Curveball|79|1|0|1|12|76
+Devin Smeltzer|L|Jose Ramirez|R|Double|E|Four-Seam Fastball|80|2|0|1|5|88
+Devin Smeltzer|L|Francisco Lindor|R|Groundout|C|Four-Seam Fastball|0|0|0|0|4|90
+Devin Smeltzer|L|Francisco Lindor|R|Groundout|C|Four-Seam Fastball|1|0|1|0|14|90
+Devin Smeltzer|L|Francisco Lindor|R|Groundout|X|Changeup|2|0|2|0|8|85
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|S|Four-Seam Fastball|3|0|0|1|12|90
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|B|Curveball|4|0|1|1|14|78
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|F|Four-Seam Fastball|5|1|1|1|14|90
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|S|Changeup|6|1|2|1|9|84
+Devin Smeltzer|L|Carlos Santana|R|Home Run|E|Four-Seam Fastball|7|0|0|2|4|91
+Devin Smeltzer|L|Yasiel Puig|R|Single|D|Changeup|8|0|0|2|6|84
+Devin Smeltzer|L|Jason Kipnis|L|Single|C|Four-Seam Fastball|9|0|0|2|4|89
+Devin Smeltzer|L|Jason Kipnis|L|Single|B|Four-Seam Fastball|10|0|1|2|12|89
+Devin Smeltzer|L|Jason Kipnis|L|Single|F|Changeup|11|1|1|2|6|83
+Devin Smeltzer|L|Jason Kipnis|L|Single|*B|Curveball|12|1|2|2|13|79
+Devin Smeltzer|L|Jason Kipnis|L|Single|D|Curveball|13|2|2|2|13|77
+Devin Smeltzer|L|Franmil Reyes|R|Groundout|B|Changeup|14|0|0|2|12|83
+Devin Smeltzer|L|Franmil Reyes|R|Groundout|X|Slider|15|1|0|2|7|82
+Devin Smeltzer|L|Greg Allen|R|Groundout|B|Four-Seam Fastball|16|0|0|0|12|88
+Devin Smeltzer|L|Greg Allen|R|Groundout|C|Changeup|17|1|0|0|3|82
+Devin Smeltzer|L|Greg Allen|R|Groundout|T|Four-Seam Fastball|18|1|1|0|11|88
+Devin Smeltzer|L|Greg Allen|R|Groundout|X|Changeup|19|1|2|0|9|83
+Devin Smeltzer|L|Kevin Plawecki|R|Pop Out|B|Changeup|20|0|0|1|14|83
+Devin Smeltzer|L|Kevin Plawecki|R|Pop Out|C|Four-Seam Fastball|21|1|0|1|9|89
+Devin Smeltzer|L|Kevin Plawecki|R|Pop Out|B|Changeup|22|1|1|1|13|83
+Devin Smeltzer|L|Kevin Plawecki|R|Pop Out|X|Four-Seam Fastball|23|2|1|1|4|89
+Devin Smeltzer|L|Yu Chang|R|Strikeout|B|Changeup|24|0|0|2|14|83
+Devin Smeltzer|L|Yu Chang|R|Strikeout|C|Four-Seam Fastball|25|1|0|2|14|89
+Devin Smeltzer|L|Yu Chang|R|Strikeout|S|Curveball|26|1|1|2|9|76
+Devin Smeltzer|L|Yu Chang|R|Strikeout|S|Changeup|27|1|2|2|14|83
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|B|Changeup|28|0|0|0|13|82
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|B|Four-Seam Fastball|29|1|0|0|12|88
+Devin Smeltzer|L|Francisco Lindor|R|Home Run|E|Four-Seam Fastball|30|2|0|0|12|88
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|C|Four-Seam Fastball|31|0|0|0|14|88
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|C|Slider|32|0|1|0|14|82
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|B|Slider|33|0|2|0|13|81
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|B|Curveball|34|1|2|0|13|77
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|B|Changeup|35|2|2|0|14|82
+Devin Smeltzer|L|Oscar Mercado|R|Strikeout|S|Changeup|36|3|2|0|14|82
+Devin Smeltzer|L|Carlos Santana|R|Walk|C|Changeup|37|0|0|1|9|83
+Devin Smeltzer|L|Carlos Santana|R|Walk|B|Slider|38|0|1|1|13|81
+Devin Smeltzer|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|39|1|1|1|13|88
+Devin Smeltzer|L|Carlos Santana|R|Walk|F|Changeup|40|2|1|1|14|81
+Devin Smeltzer|L|Carlos Santana|R|Walk|B|Changeup|41|2|2|1|13|83
+Devin Smeltzer|L|Carlos Santana|R|Walk|B|Four-Seam Fastball|42|3|2|1|13|89
+Devin Smeltzer|L|Yasiel Puig|R|Grounded Into DP|X|Changeup|43|0|0|1|7|83
+Devin Smeltzer|L|Jason Kipnis|L|Single|B|Slider|44|0|0|0|12|81
+Devin Smeltzer|L|Jason Kipnis|L|Single|F|Four-Seam Fastball|45|1|0|0|5|87
+Devin Smeltzer|L|Jason Kipnis|L|Single|C|Changeup|46|1|1|0|7|81
+Devin Smeltzer|L|Jason Kipnis|L|Single|F|Changeup|47|1|2|0|14|82
+Devin Smeltzer|L|Jason Kipnis|L|Single|B|Curveball|48|1|2|0|13|78
+Devin Smeltzer|L|Jason Kipnis|L|Single|F|Four-Seam Fastball|49|2|2|0|3|89
+Devin Smeltzer|L|Jason Kipnis|L|Single|B|Changeup|50|2|2|0|13|82
+Devin Smeltzer|L|Jason Kipnis|L|Single|D|Changeup|51|3|2|0|7|82
+Devin Smeltzer|L|Franmil Reyes|R|Strikeout|B|Four-Seam Fastball|52|0|0|0|13|89
+Devin Smeltzer|L|Franmil Reyes|R|Strikeout|F|Changeup|53|1|0|0|3|82
+Devin Smeltzer|L|Franmil Reyes|R|Strikeout|C|Curveball|54|1|1|0|6|76
+Devin Smeltzer|L|Franmil Reyes|R|Strikeout|C|Changeup|55|1|2|0|7|82
+Devin Smeltzer|L|Greg Allen|R|Strikeout|L|Four-Seam Fastball|56|0|0|1|11|88
+Devin Smeltzer|L|Greg Allen|R|Strikeout|F|Changeup|57|0|1|1|5|81
+Devin Smeltzer|L|Greg Allen|R|Strikeout|S|Four-Seam Fastball|58|0|2|1|11|88
+Devin Smeltzer|L|Kevin Plawecki|R|Lineout|*B|Curveball|59|0|0|2|13|76
+Devin Smeltzer|L|Kevin Plawecki|R|Lineout|B|Changeup|60|1|0|2|11|81
+Devin Smeltzer|L|Kevin Plawecki|R|Lineout|X|Changeup|61|2|0|2|6|82
+Devin Smeltzer|L|Nicky Lopez|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|89
+Devin Smeltzer|L|Nicky Lopez|L|Groundout|B|Four-Seam Fastball|1|1|0|0|12|88
+Devin Smeltzer|L|Nicky Lopez|L|Groundout|C|Four-Seam Fastball|2|2|0|0|1|88
+Devin Smeltzer|L|Nicky Lopez|L|Groundout|F|Four-Seam Fastball|3|2|1|0|5|88
+Devin Smeltzer|L|Nicky Lopez|L|Groundout|X|Four-Seam Fastball|4|2|2|0|8|89
+Devin Smeltzer|L|Nick Dini|R|Groundout|S|Four-Seam Fastball|5|0|0|1|13|90
+Devin Smeltzer|L|Nick Dini|R|Groundout|F|Curveball|6|0|1|1|3|77
+Devin Smeltzer|L|Nick Dini|R|Groundout|F|Curveball|7|0|2|1|13|79
+Devin Smeltzer|L|Nick Dini|R|Groundout|B|Four-Seam Fastball|8|0|2|1|12|89
+Devin Smeltzer|L|Nick Dini|R|Groundout|X|Changeup|9|1|2|1|14|83
+Devin Smeltzer|L|Whit Merrifield|R|Strikeout|C|Curveball|10|0|0|2|3|75
+Devin Smeltzer|L|Whit Merrifield|R|Strikeout|S|Curveball|11|0|1|2|13|75
+Devin Smeltzer|L|Whit Merrifield|R|Strikeout|S|Curveball|12|0|2|2|14|74
+Devin Smeltzer|L|Adalberto Mondesi|R|Field Error|D|Curveball|13|0|0|0|5|74
+Devin Smeltzer|L|Jorge Soler|R|Walk|C|Changeup|14|0|0|0|5|81
+Devin Smeltzer|L|Jorge Soler|R|Walk|B|Slider|15|0|1|0|13|79
+Devin Smeltzer|L|Jorge Soler|R|Walk|B|Curveball|16|1|1|0|13|75
+Devin Smeltzer|L|Jorge Soler|R|Walk|B|Changeup|17|2|1|0|13|82
+Devin Smeltzer|L|Jorge Soler|R|Walk|B|Changeup|18|3|1|0|13|82

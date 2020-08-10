@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "hand": "",
+    "age": "",
+    "team": "",
+    "against_right": [[{"total": 0}, {"total": 0}, {"total": 0}],[{"total": 0}, {"total": 0}, {"total": 0}],[{"total": 0}, {"total": 0}, {"total": 0}], [{"total": 0}, {"total": 0}, {"total": 0}]],
+    "against_left": [[{"total": 0}, {"total": 0}, {"total": 0}],[{"total": 0}, {"total": 0}, {"total": 0}],[{"total": 0}, {"total": 0}, {"total": 0}], [{"total": 0}, {"total": 0}, {"total": 0}]],
+    "pitch_types": {},
+    "total_pitches": 0
+
+}

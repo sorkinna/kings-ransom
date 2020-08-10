@@ -1,0 +1,331 @@
+James Marvel|R|Anthony Rizzo|L|Single|D|Sinker|0|0|0|0|13|89
+James Marvel|R|Nick Castellanos|R|Flyout|*B|Sinker|1|0|0|0|13|89
+James Marvel|R|Nick Castellanos|R|Flyout|F|Changeup|2|1|0|0|8|85
+James Marvel|R|Nick Castellanos|R|Flyout|B|Sinker|3|1|1|0|11|90
+James Marvel|R|Nick Castellanos|R|Flyout|X|Sinker|4|2|1|0|11|90
+James Marvel|R|Kris Bryant|R|Single|B|Sinker|5|0|0|1|13|90
+James Marvel|R|Kris Bryant|R|Single|F|Sinker|6|1|0|1|7|90
+James Marvel|R|Kris Bryant|R|Single|F|Four-Seam Fastball|7|1|1|1|4|91
+James Marvel|R|Kris Bryant|R|Single|B|Sinker|8|1|2|1|13|91
+James Marvel|R|Kris Bryant|R|Single|*B|Curveball|9|2|2|1|14|80
+James Marvel|R|Kris Bryant|R|Single|D|Sinker|10|3|2|1|1|91
+James Marvel|R|Kyle Schwarber|L|Lineout|B|Sinker|11|0|0|1|12|90
+James Marvel|R|Kyle Schwarber|L|Lineout|*B|Curveball|12|1|0|1|14|80
+James Marvel|R|Kyle Schwarber|L|Lineout|C|Changeup|13|2|0|1|5|85
+James Marvel|R|Kyle Schwarber|L|Lineout|S|Changeup|14|2|1|1|14|85
+James Marvel|R|Kyle Schwarber|L|Lineout|F|Changeup|15|2|2|1|7|84
+James Marvel|R|Kyle Schwarber|L|Lineout|B|Curveball|16|2|2|1|14|81
+James Marvel|R|Kyle Schwarber|L|Lineout|X|Changeup|17|3|2|1|4|84
+James Marvel|R|Willson Contreras|R|Forceout|B|Sinker|18|0|0|2|13|91
+James Marvel|R|Willson Contreras|R|Forceout|B|Curveball|19|1|0|2|14|79
+James Marvel|R|Willson Contreras|R|Forceout|C|Changeup|20|2|0|2|5|84
+James Marvel|R|Willson Contreras|R|Forceout|X|Sinker|21|2|1|2|11|91
+James Marvel|R|Ben Zobrist|L|Single|B|Sinker|22|0|0|0|11|89
+James Marvel|R|Ben Zobrist|L|Single|F|Changeup|23|1|0|0|1|83
+James Marvel|R|Ben Zobrist|L|Single|F|Four-Seam Fastball|24|1|1|0|6|90
+James Marvel|R|Ben Zobrist|L|Single|D|Curveball|25|1|2|0|6|79
+James Marvel|R|Jason Heyward|L|Forceout|B|Four-Seam Fastball|26|0|0|0|14|90
+James Marvel|R|Jason Heyward|L|Forceout|X|Four-Seam Fastball|27|1|0|0|9|90
+James Marvel|R|Nico Hoerner|R|Single|B|Curveball|28|0|0|1|11|77
+James Marvel|R|Nico Hoerner|R|Single|*B|Curveball|29|1|0|1|14|79
+James Marvel|R|Nico Hoerner|R|Single|D|Sinker|30|2|0|1|4|90
+James Marvel|R|Kyle Hendricks|R|Sac Bunt|X|Sinker|31|0|0|1|4|90
+James Marvel|R|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|32|0|0|2|12|91
+James Marvel|R|Anthony Rizzo|L|Hit By Pitch|B|Four-Seam Fastball|33|1|0|2|14|90
+James Marvel|R|Anthony Rizzo|L|Hit By Pitch|H|Curveball|34|2|0|2|14|80
+James Marvel|R|Nick Castellanos|R|Double|C|Curveball|35|0|0|2|1|79
+James Marvel|R|Nick Castellanos|R|Double|E|Changeup|36|0|1|2|7|84
+James Marvel|R|Kris Bryant|R|Single|C|Curveball|37|0|0|2|9|79
+James Marvel|R|Kris Bryant|R|Single|*B|Curveball|38|0|1|2|14|80
+James Marvel|R|Kris Bryant|R|Single|F|Four-Seam Fastball|39|1|1|2|11|90
+James Marvel|R|Kris Bryant|R|Single|F|Curveball|40|1|2|2|14|80
+James Marvel|R|Kris Bryant|R|Single|*B|Curveball|41|1|2|2|13|80
+James Marvel|R|Kris Bryant|R|Single|E|Sinker|42|2|2|2|1|91
+James Marvel|R|Kyle Schwarber|L|Groundout|C|Sinker|43|0|0|2|11|91
+James Marvel|R|Kyle Schwarber|L|Groundout|F|Sinker|44|0|1|2|2|91
+James Marvel|R|Kyle Schwarber|L|Groundout|B|Curveball|45|0|2|2|13|80
+James Marvel|R|Kyle Schwarber|L|Groundout|X|Sinker|46|1|2|2|1|91
+James Marvel|R|Willson Contreras|R|Strikeout|C|Curveball|47|0|0|0|11|76
+James Marvel|R|Willson Contreras|R|Strikeout|S|Four-Seam Fastball|48|0|1|0|11|89
+James Marvel|R|Willson Contreras|R|Strikeout|B|Four-Seam Fastball|49|0|2|0|11|89
+James Marvel|R|Willson Contreras|R|Strikeout|S|Curveball|50|1|2|0|14|79
+James Marvel|R|Ben Zobrist|L|Home Run|B|Sinker|51|0|0|1|13|89
+James Marvel|R|Ben Zobrist|L|Home Run|F|Sinker|52|1|0|1|5|90
+James Marvel|R|Ben Zobrist|L|Home Run|E|Sinker|53|1|1|1|6|90
+James Marvel|R|Jason Heyward|L|Pop Out|B|Four-Seam Fastball|54|0|0|1|12|89
+James Marvel|R|Jason Heyward|L|Pop Out|C|Sinker|55|1|0|1|7|89
+James Marvel|R|Jason Heyward|L|Pop Out|C|Curveball|56|1|1|1|11|79
+James Marvel|R|Jason Heyward|L|Pop Out|F|Curveball|57|1|2|1|14|79
+James Marvel|R|Jason Heyward|L|Pop Out|B|Sinker|58|1|2|1|12|90
+James Marvel|R|Jason Heyward|L|Pop Out|B|Changeup|59|2|2|1|14|84
+James Marvel|R|Jason Heyward|L|Pop Out|X|Curveball|60|3|2|1|8|79
+James Marvel|R|Nico Hoerner|R|Groundout|X|Four-Seam Fastball|61|0|0|2|14|89
+James Marvel|R|Kyle Hendricks|R|Groundout|S|Sinker|62|0|0|0|1|87
+James Marvel|R|Kyle Hendricks|R|Groundout|B|Sinker|63|0|1|0|11|89
+James Marvel|R|Kyle Hendricks|R|Groundout|X|Four-Seam Fastball|64|1|1|0|6|88
+James Marvel|R|Anthony Rizzo|L|Flyout|C|Changeup|65|0|0|1|13|83
+James Marvel|R|Anthony Rizzo|L|Flyout|B|Curveball|66|0|1|1|13|78
+James Marvel|R|Anthony Rizzo|L|Flyout|X|Changeup|67|1|1|1|8|83
+James Marvel|R|Nick Castellanos|R|Double|B|Four-Seam Fastball|68|0|0|2|14|89
+James Marvel|R|Nick Castellanos|R|Double|F|Four-Seam Fastball|69|1|0|2|6|89
+James Marvel|R|Nick Castellanos|R|Double|B|Sinker|70|1|1|2|11|90
+James Marvel|R|Nick Castellanos|R|Double|D|Curveball|71|2|1|2|14|78
+James Marvel|R|Kris Bryant|R|Home Run|C|Four-Seam Fastball|72|0|0|2|9|89
+James Marvel|R|Kris Bryant|R|Home Run|B|Curveball|73|0|1|2|13|79
+James Marvel|R|Kris Bryant|R|Home Run|E|Four-Seam Fastball|74|1|1|2|7|89
+James Marvel|R|Kyle Schwarber|L|Strikeout|F|Four-Seam Fastball|75|0|0|2|6|90
+James Marvel|R|Kyle Schwarber|L|Strikeout|C|Sinker|76|0|1|2|13|91
+James Marvel|R|Kyle Schwarber|L|Strikeout|B|Curveball|77|0|2|2|14|79
+James Marvel|R|Kyle Schwarber|L|Strikeout|S|Changeup|78|1|2|2|14|84
+James Marvel|R|Tommy Edman|L|Groundout|C|Sinker|0|0|0|0|7|91
+James Marvel|R|Tommy Edman|L|Groundout|B|Changeup|1|0|1|0|13|85
+James Marvel|R|Tommy Edman|L|Groundout|B|Changeup|2|1|1|0|11|83
+James Marvel|R|Tommy Edman|L|Groundout|S|Sinker|3|2|1|0|14|90
+James Marvel|R|Tommy Edman|L|Groundout|F|Curveball|4|2|2|0|14|80
+James Marvel|R|Tommy Edman|L|Groundout|B|Curveball|5|2|2|0|14|82
+James Marvel|R|Tommy Edman|L|Groundout|X|Sinker|6|3|2|0|5|91
+James Marvel|R|Kolten Wong|L|Groundout|C|Curveball|7|0|0|1|5|80
+James Marvel|R|Kolten Wong|L|Groundout|B|Sinker|8|0|1|1|13|92
+James Marvel|R|Kolten Wong|L|Groundout|F|Four-Seam Fastball|9|1|1|1|12|91
+James Marvel|R|Kolten Wong|L|Groundout|X|Changeup|10|1|2|1|7|85
+James Marvel|R|Paul Goldschmidt|R|Flyout|C|Sinker|11|0|0|2|6|91
+James Marvel|R|Paul Goldschmidt|R|Flyout|C|Sinker|12|0|1|2|13|91
+James Marvel|R|Paul Goldschmidt|R|Flyout|B|Curveball|13|0|2|2|14|81
+James Marvel|R|Paul Goldschmidt|R|Flyout|X|Changeup|14|1|2|2|13|84
+James Marvel|R|Marcell Ozuna|R|Groundout|C|Curveball|15|0|0|0|6|79
+James Marvel|R|Marcell Ozuna|R|Groundout|C|Sinker|16|0|1|0|13|90
+James Marvel|R|Marcell Ozuna|R|Groundout|X|Curveball|17|0|2|0|14|80
+James Marvel|R|Paul DeJong|R|Lineout|B|Four-Seam Fastball|18|0|0|1|13|90
+James Marvel|R|Paul DeJong|R|Lineout|F|Changeup|19|1|0|1|4|84
+James Marvel|R|Paul DeJong|R|Lineout|B|Sinker|20|1|1|1|13|90
+James Marvel|R|Paul DeJong|R|Lineout|X|Sinker|21|2|1|1|4|91
+James Marvel|R|Yadier Molina|R|Walk|F|Four-Seam Fastball|22|0|0|2|6|91
+James Marvel|R|Yadier Molina|R|Walk|S|Curveball|23|0|1|2|14|80
+James Marvel|R|Yadier Molina|R|Walk|F|Four-Seam Fastball|24|0|2|2|12|91
+James Marvel|R|Yadier Molina|R|Walk|B|Curveball|25|0|2|2|14|81
+James Marvel|R|Yadier Molina|R|Walk|F|Curveball|26|1|2|2|14|81
+James Marvel|R|Yadier Molina|R|Walk|B|Sinker|27|1|2|2|13|91
+James Marvel|R|Yadier Molina|R|Walk|F|Sinker|28|2|2|2|13|91
+James Marvel|R|Yadier Molina|R|Walk|F|Changeup|29|2|2|2|13|85
+James Marvel|R|Yadier Molina|R|Walk|F|Four-Seam Fastball|30|2|2|2|3|91
+James Marvel|R|Yadier Molina|R|Walk|B|Curveball|31|2|2|2|14|80
+James Marvel|R|Yadier Molina|R|Walk|F|Changeup|32|3|2|2|14|85
+James Marvel|R|Yadier Molina|R|Walk|B|Curveball|33|3|2|2|11|80
+James Marvel|R|Matt Carpenter|L|Forceout|C|Changeup|34|0|0|2|5|85
+James Marvel|R|Matt Carpenter|L|Forceout|S|Changeup|35|0|1|2|14|84
+James Marvel|R|Matt Carpenter|L|Forceout|X|Sinker|36|0|2|2|1|90
+James Marvel|R|Harrison Bader|R|Groundout|C|Four-Seam Fastball|37|0|0|0|1|90
+James Marvel|R|Harrison Bader|R|Groundout|B|Curveball|38|0|1|0|14|79
+James Marvel|R|Harrison Bader|R|Groundout|B|Curveball|39|1|1|0|11|78
+James Marvel|R|Harrison Bader|R|Groundout|B|Sinker|40|2|1|0|13|89
+James Marvel|R|Harrison Bader|R|Groundout|X|Four-Seam Fastball|41|3|1|0|8|89
+James Marvel|R|Jack Flaherty|R|Strikeout|C|Four-Seam Fastball|42|0|0|1|5|90
+James Marvel|R|Jack Flaherty|R|Strikeout|S|Curveball|43|0|1|1|14|79
+James Marvel|R|Jack Flaherty|R|Strikeout|S|Curveball|44|0|2|1|14|80
+James Marvel|R|Tommy Edman|L|Flyout|B|Curveball|45|0|0|2|13|79
+James Marvel|R|Tommy Edman|L|Flyout|X|Four-Seam Fastball|46|1|0|2|2|90
+James Marvel|R|Kolten Wong|L|Groundout|X|Sinker|47|0|0|0|9|88
+James Marvel|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|48|0|0|1|13|89
+James Marvel|R|Paul Goldschmidt|R|Groundout|C|Changeup|49|1|0|1|8|84
+James Marvel|R|Paul Goldschmidt|R|Groundout|B|Curveball|50|1|1|1|14|79
+James Marvel|R|Paul Goldschmidt|R|Groundout|S|Four-Seam Fastball|51|2|1|1|6|89
+James Marvel|R|Paul Goldschmidt|R|Groundout|B|Sinker|52|2|2|1|13|90
+James Marvel|R|Paul Goldschmidt|R|Groundout|X|Sinker|53|3|2|1|7|90
+James Marvel|R|Marcell Ozuna|R|Single|C|Sinker|54|0|0|2|13|91
+James Marvel|R|Marcell Ozuna|R|Single|D|Sinker|55|0|1|2|5|91
+James Marvel|R|Paul DeJong|R|Strikeout|S|Changeup|56|0|0|2|9|84
+James Marvel|R|Paul DeJong|R|Strikeout|F|Four-Seam Fastball|57|0|1|2|4|90
+James Marvel|R|Paul DeJong|R|Strikeout|S|Four-Seam Fastball|58|0|2|2|2|90
+James Marvel|R|Yadier Molina|R|Groundout|B|Curveball|59|0|0|0|14|78
+James Marvel|R|Yadier Molina|R|Groundout|X|Sinker|60|1|0|0|13|89
+James Marvel|R|Matt Carpenter|L|Double|B|Sinker|61|0|0|1|13|88
+James Marvel|R|Matt Carpenter|L|Double|C|Curveball|62|1|0|1|14|79
+James Marvel|R|Matt Carpenter|L|Double|B|Changeup|63|1|1|1|13|84
+James Marvel|R|Matt Carpenter|L|Double|D|Sinker|64|2|1|1|13|90
+James Marvel|R|Harrison Bader|R|Single|F|Curveball|65|0|0|1|7|79
+James Marvel|R|Harrison Bader|R|Single|C|Curveball|66|0|1|1|7|79
+James Marvel|R|Harrison Bader|R|Single|B|Sinker|67|0|2|1|11|89
+James Marvel|R|Harrison Bader|R|Single|B|Curveball|68|1|2|1|14|79
+James Marvel|R|Harrison Bader|R|Single|*B|Changeup|69|2|2|1|14|84
+James Marvel|R|Harrison Bader|R|Single|E|Changeup|70|3|2|1|14|85
+James Marvel|R|Jack Flaherty|R|Sac Bunt|X|Sinker|71|0|0|1|4|90
+James Marvel|R|Tommy Edman|L|Groundout|*B|Changeup|72|0|0|2|14|84
+James Marvel|R|Tommy Edman|L|Groundout|S|Changeup|73|1|0|2|14|85
+James Marvel|R|Tommy Edman|L|Groundout|X|Sinker|74|1|1|2|2|90
+James Marvel|R|Kolten Wong|L|Walk|B|Sinker|75|0|0|0|13|88
+James Marvel|R|Kolten Wong|L|Walk|B|Four-Seam Fastball|76|1|0|0|14|89
+James Marvel|R|Kolten Wong|L|Walk|B|Changeup|77|2|0|0|13|83
+James Marvel|R|Kolten Wong|L|Walk|B|Four-Seam Fastball|78|3|0|0|11|89
+James Marvel|R|Paul Goldschmidt|R|Double|B|Curveball|79|0|0|0|14|79
+James Marvel|R|Paul Goldschmidt|R|Double|S|Changeup|80|1|0|0|8|84
+James Marvel|R|Paul Goldschmidt|R|Double|B|Sinker|81|1|1|0|13|89
+James Marvel|R|Paul Goldschmidt|R|Double|F|Sinker|82|2|1|0|13|90
+James Marvel|R|Paul Goldschmidt|R|Double|*B|Changeup|83|2|2|0|14|85
+James Marvel|R|Paul Goldschmidt|R|Double|E|Changeup|84|3|2|0|14|85
+James Marvel|R|Jose Peraza|R|Pop Out|B|Sinker|0|0|0|0|11|89
+James Marvel|R|Jose Peraza|R|Pop Out|X|Sinker|1|1|0|0|11|90
+James Marvel|R|Joey Votto|L|Flyout|X|Sinker|2|0|0|1|5|90
+James Marvel|R|Eugenio Suarez|R|Double|B|Sinker|3|0|0|2|13|90
+James Marvel|R|Eugenio Suarez|R|Double|B|Changeup|4|1|0|2|14|84
+James Marvel|R|Eugenio Suarez|R|Double|D|Four-Seam Fastball|5|2|0|2|14|91
+James Marvel|R|Aristides Aquino|R|Strikeout|B|Sinker|6|0|0|2|13|90
+James Marvel|R|Aristides Aquino|R|Strikeout|B|Sinker|7|1|0|2|11|90
+James Marvel|R|Aristides Aquino|R|Strikeout|W|Curveball|8|2|0|2|14|80
+James Marvel|R|Aristides Aquino|R|Strikeout|B|Curveball|9|2|1|2|14|79
+James Marvel|R|Aristides Aquino|R|Strikeout|F|Sinker|10|3|1|2|13|91
+James Marvel|R|Aristides Aquino|R|Strikeout|S|Changeup|11|3|2|2|13|84
+James Marvel|R|Josh VanMeter|L|Lineout|B|Sinker|12|0|0|0|13|89
+James Marvel|R|Josh VanMeter|L|Lineout|X|Four-Seam Fastball|13|1|0|0|9|90
+James Marvel|R|Phillip Ervin|R|Groundout|C|Curveball|14|0|0|1|4|77
+James Marvel|R|Phillip Ervin|R|Groundout|B|Four-Seam Fastball|15|0|1|1|14|90
+James Marvel|R|Phillip Ervin|R|Groundout|B|Curveball|16|1|1|1|14|79
+James Marvel|R|Phillip Ervin|R|Groundout|F|Sinker|17|2|1|1|2|90
+James Marvel|R|Phillip Ervin|R|Groundout|B|Curveball|18|2|2|1|14|79
+James Marvel|R|Phillip Ervin|R|Groundout|F|Curveball|19|3|2|1|6|79
+James Marvel|R|Phillip Ervin|R|Groundout|X|Sinker|20|3|2|1|7|91
+James Marvel|R|Tucker Barnhart|L|Home Run|B|Curveball|21|0|0|2|14|80
+James Marvel|R|Tucker Barnhart|L|Home Run|F|Curveball|22|1|0|2|14|79
+James Marvel|R|Tucker Barnhart|L|Home Run|B|Four-Seam Fastball|23|1|1|2|12|91
+James Marvel|R|Tucker Barnhart|L|Home Run|B|Four-Seam Fastball|24|2|1|2|12|91
+James Marvel|R|Tucker Barnhart|L|Home Run|E|Sinker|25|3|1|2|2|90
+James Marvel|R|Jose Iglesias|R|Groundout|C|Sinker|26|0|0|2|5|91
+James Marvel|R|Jose Iglesias|R|Groundout|X|Sinker|27|0|1|2|13|91
+James Marvel|R|Brian O'Grady|L|Double|B|Curveball|28|0|0|0|14|78
+James Marvel|R|Brian O'Grady|L|Double|C|Four-Seam Fastball|29|1|0|0|3|89
+James Marvel|R|Brian O'Grady|L|Double|W|Curveball|30|1|1|0|14|79
+James Marvel|R|Brian O'Grady|L|Double|B|Four-Seam Fastball|31|1|2|0|12|89
+James Marvel|R|Brian O'Grady|L|Double|D|Four-Seam Fastball|32|2|2|0|6|91
+James Marvel|R|Jose Peraza|R|Walk|B|Curveball|33|0|0|0|11|77
+James Marvel|R|Jose Peraza|R|Walk|B|Sinker|34|1|0|0|14|90
+James Marvel|R|Jose Peraza|R|Walk|*B|Four-Seam Fastball|35|2|0|0|14|91
+James Marvel|R|Jose Peraza|R|Walk|C|Four-Seam Fastball|36|3|0|0|6|90
+James Marvel|R|Jose Peraza|R|Walk|T|Sinker|37|3|1|0|11|90
+James Marvel|R|Jose Peraza|R|Walk|B|Sinker|38|3|2|0|13|91
+James Marvel|R|Joey Votto|L|Flyout|X|Changeup|39|0|0|0|8|84
+James Marvel|R|Eugenio Suarez|R|Walk|F|Sinker|40|0|0|1|13|90
+James Marvel|R|Eugenio Suarez|R|Walk|*B|Changeup|41|0|1|1|13|84
+James Marvel|R|Eugenio Suarez|R|Walk|S|Changeup|42|1|1|1|13|84
+James Marvel|R|Eugenio Suarez|R|Walk|B|Four-Seam Fastball|43|1|2|1|12|91
+James Marvel|R|Eugenio Suarez|R|Walk|B|Sinker|44|2|2|1|13|91
+James Marvel|R|Eugenio Suarez|R|Walk|*B|Changeup|45|3|2|1|14|84
+James Marvel|R|Aristides Aquino|R|Forceout|B|Sinker|46|0|0|1|13|90
+James Marvel|R|Aristides Aquino|R|Forceout|*B|Curveball|47|1|0|1|14|79
+James Marvel|R|Aristides Aquino|R|Forceout|S|Sinker|48|2|0|1|13|91
+James Marvel|R|Aristides Aquino|R|Forceout|F|Changeup|49|2|1|1|4|84
+James Marvel|R|Aristides Aquino|R|Forceout|X|Sinker|50|2|2|1|8|91
+James Marvel|R|Josh VanMeter|L|Groundout|C|Sinker|51|0|0|2|13|90
+James Marvel|R|Josh VanMeter|L|Groundout|B|Changeup|52|0|1|2|13|84
+James Marvel|R|Josh VanMeter|L|Groundout|F|Changeup|53|1|1|2|9|84
+James Marvel|R|Josh VanMeter|L|Groundout|*B|Curveball|54|1|2|2|14|79
+James Marvel|R|Josh VanMeter|L|Groundout|X|Sinker|55|2|2|2|7|90
+James Marvel|R|Phillip Ervin|R|Double|B|Four-Seam Fastball|56|0|0|0|14|89
+James Marvel|R|Phillip Ervin|R|Double|S|Changeup|57|1|0|0|9|84
+James Marvel|R|Phillip Ervin|R|Double|B|Four-Seam Fastball|58|1|1|0|12|90
+James Marvel|R|Phillip Ervin|R|Double|C|Curveball|59|2|1|0|9|78
+James Marvel|R|Phillip Ervin|R|Double|F|Sinker|60|2|2|0|13|91
+James Marvel|R|Phillip Ervin|R|Double|D|Changeup|61|2|2|0|13|84
+James Marvel|R|Tucker Barnhart|L|Groundout|B|Curveball|62|0|0|0|11|77
+James Marvel|R|Tucker Barnhart|L|Groundout|C|Four-Seam Fastball|63|1|0|0|9|90
+James Marvel|R|Tucker Barnhart|L|Groundout|X|Four-Seam Fastball|64|1|1|0|12|90
+James Marvel|R|Jose Iglesias|R|Single|C|Curveball|65|0|0|1|11|77
+James Marvel|R|Jose Iglesias|R|Single|E|Curveball|66|0|1|1|6|78
+James Marvel|R|Brian O'Grady|L|Double Play|C|Curveball|67|0|0|1|13|78
+James Marvel|R|Brian O'Grady|L|Double Play|S|Changeup|68|0|1|1|13|82
+James Marvel|R|Brian O'Grady|L|Double Play|B|Four-Seam Fastball|69|0|2|1|12|89
+James Marvel|R|Brian O'Grady|L|Double Play|B|Changeup|70|1|2|1|13|82
+James Marvel|R|Brian O'Grady|L|Double Play|*B|Curveball|71|2|2|1|14|79
+James Marvel|R|Brian O'Grady|L|Double Play|F|Changeup|72|3|2|1|8|84
+James Marvel|R|Brian O'Grady|L|Double Play|X|Sinker|73|3|2|1|13|90
+James Marvel|R|Jose Peraza|R|Double|B|Four-Seam Fastball|74|0|0|0|14|88
+James Marvel|R|Jose Peraza|R|Double|F|Four-Seam Fastball|75|1|0|0|14|90
+James Marvel|R|Jose Peraza|R|Double|D|Sinker|76|1|1|0|7|89
+James Marvel|R|Joey Votto|L|Groundout|F|Four-Seam Fastball|77|0|0|0|5|90
+James Marvel|R|Joey Votto|L|Groundout|C|Changeup|78|0|1|0|13|83
+James Marvel|R|Joey Votto|L|Groundout|*B|Changeup|79|0|2|0|14|84
+James Marvel|R|Joey Votto|L|Groundout|B|Four-Seam Fastball|80|1|2|0|14|90
+James Marvel|R|Joey Votto|L|Groundout|X|Four-Seam Fastball|81|2|2|0|9|90
+James Marvel|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|82|0|0|1|1|90
+James Marvel|R|Eugenio Suarez|R|Strikeout|C|Curveball|83|0|1|1|14|78
+James Marvel|R|Eugenio Suarez|R|Strikeout|F|Four-Seam Fastball|84|0|2|1|12|90
+James Marvel|R|Eugenio Suarez|R|Strikeout|B|Sinker|85|0|2|1|13|91
+James Marvel|R|Eugenio Suarez|R|Strikeout|C|Four-Seam Fastball|86|1|2|1|1|90
+James Marvel|R|Aristides Aquino|R|Groundout|B|Curveball|87|0|0|2|14|79
+James Marvel|R|Aristides Aquino|R|Groundout|F|Sinker|88|1|0|2|13|91
+James Marvel|R|Aristides Aquino|R|Groundout|X|Curveball|89|1|1|2|14|79
+James Marvel|R|Trent Grisham|L|Groundout|C|Sinker|0|0|0|0|13|89
+James Marvel|R|Trent Grisham|L|Groundout|B|Changeup|1|0|1|0|14|84
+James Marvel|R|Trent Grisham|L|Groundout|X|Four-Seam Fastball|2|1|1|0|14|90
+James Marvel|R|Yasmani Grandal|L|Single|B|Changeup|3|0|0|1|14|85
+James Marvel|R|Yasmani Grandal|L|Single|D|Sinker|4|1|0|1|4|90
+James Marvel|R|Mike Moustakas|L|Lineout|B|Sinker|5|0|0|1|11|91
+James Marvel|R|Mike Moustakas|L|Lineout|F|Sinker|6|1|0|1|6|91
+James Marvel|R|Mike Moustakas|L|Lineout|B|Curveball|7|1|1|1|11|78
+James Marvel|R|Mike Moustakas|L|Lineout|B|Changeup|8|2|1|1|13|84
+James Marvel|R|Mike Moustakas|L|Lineout|S|Changeup|9|3|1|1|8|84
+James Marvel|R|Mike Moustakas|L|Lineout|X|Sinker|10|3|2|1|5|90
+James Marvel|R|Keston Hiura|R|Home Run|*B|Sinker|11|0|0|2|14|90
+James Marvel|R|Keston Hiura|R|Home Run|B|Curveball|12|1|0|2|14|79
+James Marvel|R|Keston Hiura|R|Home Run|F|Curveball|13|2|0|2|5|79
+James Marvel|R|Keston Hiura|R|Home Run|B|Sinker|14|2|1|2|11|91
+James Marvel|R|Keston Hiura|R|Home Run|F|Sinker|15|3|1|2|9|90
+James Marvel|R|Keston Hiura|R|Home Run|F|Four-Seam Fastball|16|3|2|2|6|91
+James Marvel|R|Keston Hiura|R|Home Run|F|Sinker|17|3|2|2|8|91
+James Marvel|R|Keston Hiura|R|Home Run|E|Sinker|18|3|2|2|4|91
+James Marvel|R|Ryan Braun|R|Groundout|B|Curveball|19|0|0|2|14|80
+James Marvel|R|Ryan Braun|R|Groundout|X|Changeup|20|1|0|2|12|84
+James Marvel|R|Eric Thames|L|Strikeout|C|Sinker|21|0|0|0|5|89
+James Marvel|R|Eric Thames|L|Strikeout|B|Four-Seam Fastball|22|0|1|0|13|90
+James Marvel|R|Eric Thames|L|Strikeout|B|Changeup|23|1|1|0|14|85
+James Marvel|R|Eric Thames|L|Strikeout|F|Changeup|24|2|1|0|6|83
+James Marvel|R|Eric Thames|L|Strikeout|F|Curveball|25|2|2|0|11|79
+James Marvel|R|Eric Thames|L|Strikeout|S|Curveball|26|2|2|0|2|78
+James Marvel|R|Lorenzo Cain|R|Double|C|Sinker|27|0|0|1|5|90
+James Marvel|R|Lorenzo Cain|R|Double|F|Sinker|28|0|1|1|14|91
+James Marvel|R|Lorenzo Cain|R|Double|D|Changeup|29|0|2|1|8|83
+James Marvel|R|Orlando Arcia|R|Groundout|B|Four-Seam Fastball|30|0|0|1|13|90
+James Marvel|R|Orlando Arcia|R|Groundout|X|Sinker|31|1|0|1|9|90
+James Marvel|R|Zach Davies|R|Groundout|S|Curveball|32|0|0|2|14|79
+James Marvel|R|Zach Davies|R|Groundout|B|Curveball|33|0|1|2|11|79
+James Marvel|R|Zach Davies|R|Groundout|C|Four-Seam Fastball|34|1|1|2|14|90
+James Marvel|R|Zach Davies|R|Groundout|*B|Curveball|35|1|2|2|14|78
+James Marvel|R|Zach Davies|R|Groundout|F|Curveball|36|2|2|2|7|79
+James Marvel|R|Zach Davies|R|Groundout|X|Sinker|37|2|2|2|7|90
+James Marvel|R|Trent Grisham|L|Single|C|Four-Seam Fastball|38|0|0|0|1|89
+James Marvel|R|Trent Grisham|L|Single|B|Curveball|39|0|1|0|14|78
+James Marvel|R|Trent Grisham|L|Single|B|Curveball|40|1|1|0|11|78
+James Marvel|R|Trent Grisham|L|Single|D|Sinker|41|2|1|0|5|89
+James Marvel|R|Yasmani Grandal|L|Pop Out|X|Four-Seam Fastball|42|0|0|0|12|89
+James Marvel|R|Mike Moustakas|L|Strikeout|S|Sinker|43|0|0|1|13|90
+James Marvel|R|Mike Moustakas|L|Strikeout|S|Changeup|44|0|1|1|13|84
+James Marvel|R|Mike Moustakas|L|Strikeout|S|Four-Seam Fastball|45|0|2|1|12|90
+James Marvel|R|Keston Hiura|R|Strikeout|B|Four-Seam Fastball|46|0|0|2|14|91
+James Marvel|R|Keston Hiura|R|Strikeout|C|Changeup|47|1|0|2|14|85
+James Marvel|R|Keston Hiura|R|Strikeout|B|Four-Seam Fastball|48|1|1|2|14|90
+James Marvel|R|Keston Hiura|R|Strikeout|W|Curveball|49|2|1|2|14|80
+James Marvel|R|Keston Hiura|R|Strikeout|F|Curveball|50|2|2|2|4|79
+James Marvel|R|Keston Hiura|R|Strikeout|F|Changeup|51|2|2|2|13|84
+James Marvel|R|Keston Hiura|R|Strikeout|S|Four-Seam Fastball|52|2|2|2|4|90
+James Marvel|R|Ryan Braun|R|Single|D|Sinker|53|0|0|0|5|89
+James Marvel|R|Eric Thames|L|Hit By Pitch|C|Four-Seam Fastball|54|0|0|0|12|90
+James Marvel|R|Eric Thames|L|Hit By Pitch|F|Changeup|55|0|1|0|8|83
+James Marvel|R|Eric Thames|L|Hit By Pitch|B|Sinker|56|0|2|0|12|91
+James Marvel|R|Eric Thames|L|Hit By Pitch|H|Sinker|57|1|2|0|12|91
+James Marvel|R|Lorenzo Cain|R|Single|B|Sinker|58|0|0|0|13|90
+James Marvel|R|Lorenzo Cain|R|Single|E|Sinker|59|1|0|0|4|90
+James Marvel|R|Orlando Arcia|R|Forceout|B|Sinker|60|0|0|0|13|90
+James Marvel|R|Orlando Arcia|R|Forceout|W|Changeup|61|1|0|0|14|84
+James Marvel|R|Orlando Arcia|R|Forceout|B|Sinker|62|1|1|0|11|90
+James Marvel|R|Orlando Arcia|R|Forceout|C|Curveball|63|2|1|0|14|80
+James Marvel|R|Orlando Arcia|R|Forceout|F|Changeup|64|2|2|0|11|83
+James Marvel|R|Orlando Arcia|R|Forceout|X|Sinker|65|2|2|0|14|90
+James Marvel|R|Travis Shaw|L|Walk|C|Changeup|66|0|0|1|4|84
+James Marvel|R|Travis Shaw|L|Walk|F|Four-Seam Fastball|67|0|1|1|14|90
+James Marvel|R|Travis Shaw|L|Walk|*B|Curveball|68|0|2|1|14|80
+James Marvel|R|Travis Shaw|L|Walk|*B|Curveball|69|1|2|1|13|80
+James Marvel|R|Travis Shaw|L|Walk|B|Sinker|70|2|2|1|12|91
+James Marvel|R|Travis Shaw|L|Walk|*B|Changeup|71|3|2|1|14|84
+James Marvel|R|Trent Grisham|L|Walk|B|Changeup|72|0|0|1|14|83
+James Marvel|R|Trent Grisham|L|Walk|*B|Curveball|73|1|0|1|14|80
+James Marvel|R|Trent Grisham|L|Walk|F|Sinker|74|2|0|1|6|91
+James Marvel|R|Trent Grisham|L|Walk|B|Changeup|75|2|1|1|14|84
+James Marvel|R|Trent Grisham|L|Walk|B|Curveball|76|3|1|1|14|80

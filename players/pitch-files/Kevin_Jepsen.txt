@@ -1,0 +1,2355 @@
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|0|0|0|2|3|93
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|1|0|1|2|12|92
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|B|Curveball|2|1|1|2|13|82
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|3|2|1|2|2|93
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|4|2|2|2|8|92
+Kevin Jepsen|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|5|2|2|2|14|94
+Kevin Jepsen|R|Brian McCann|L|Pop Out|C|Curveball|6|0|0|0|8|80
+Kevin Jepsen|R|Brian McCann|L|Pop Out|B|Curveball|7|0|1|0|14|81
+Kevin Jepsen|R|Brian McCann|L|Pop Out|C|Curveball|8|1|1|0|3|80
+Kevin Jepsen|R|Brian McCann|L|Pop Out|B|Four-Seam Fastball|9|1|2|0|12|92
+Kevin Jepsen|R|Brian McCann|L|Pop Out|X|Four-Seam Fastball|10|2|2|0|2|92
+Kevin Jepsen|R|George Springer|R|Groundout|B|Four-Seam Fastball|11|0|0|1|14|92
+Kevin Jepsen|R|George Springer|R|Groundout|T|Four-Seam Fastball|12|1|0|1|6|92
+Kevin Jepsen|R|George Springer|R|Groundout|X|Four-Seam Fastball|13|1|1|1|9|90
+Kevin Jepsen|R|Jose Altuve|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|90
+Kevin Jepsen|R|Jose Altuve|R|Groundout|X|Four-Seam Fastball|1|1|0|0|3|90
+Kevin Jepsen|R|Carlos Correa|R|Field Error|B|Four-Seam Fastball|2|0|0|1|11|92
+Kevin Jepsen|R|Carlos Correa|R|Field Error|D|Four-Seam Fastball|3|1|0|1|6|92
+Kevin Jepsen|R|Alex Bregman|R|Grounded Into DP|C|Curveball|4|0|0|1|9|82
+Kevin Jepsen|R|Alex Bregman|R|Grounded Into DP|C|Curveball|5|0|1|1|14|81
+Kevin Jepsen|R|Alex Bregman|R|Grounded Into DP|*B|Curveball|6|0|2|1|14|79
+Kevin Jepsen|R|Alex Bregman|R|Grounded Into DP|B|Four-Seam Fastball|7|1|2|1|12|92
+Kevin Jepsen|R|Alex Bregman|R|Grounded Into DP|X|Four-Seam Fastball|8|2|2|1|12|92
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|B|Four-Seam Fastball|0|0|0|1|11|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|C|Four-Seam Fastball|1|1|0|1|9|92
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|B|Curveball|2|1|1|1|11|81
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|C|Four-Seam Fastball|3|2|1|1|11|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|X|Four-Seam Fastball|4|2|2|1|2|92
+Kevin Jepsen|R|Evan Gattis|R|Single|C|Curveball|5|0|0|2|1|82
+Kevin Jepsen|R|Evan Gattis|R|Single|B|Four-Seam Fastball|6|0|1|2|14|93
+Kevin Jepsen|R|Evan Gattis|R|Single|F|Four-Seam Fastball|7|1|1|2|9|92
+Kevin Jepsen|R|Evan Gattis|R|Single|E|Four-Seam Fastball|8|1|2|2|12|94
+Kevin Jepsen|R|Jake Marisnick|R|Lineout|B|Four-Seam Fastball|9|0|0|2|14|90
+Kevin Jepsen|R|Jake Marisnick|R|Lineout|X|Four-Seam Fastball|10|1|0|2|6|91
+Kevin Jepsen|R|Matt Chapman|R|Strikeout|B|Curveball|0|0|0|0|14|80
+Kevin Jepsen|R|Matt Chapman|R|Strikeout|B|Four-Seam Fastball|1|1|0|0|12|91
+Kevin Jepsen|R|Matt Chapman|R|Strikeout|F|Four-Seam Fastball|2|2|0|0|5|91
+Kevin Jepsen|R|Matt Chapman|R|Strikeout|S|Four-Seam Fastball|3|2|1|0|3|93
+Kevin Jepsen|R|Matt Chapman|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|14|93
+Kevin Jepsen|R|Jonathan Lucroy|R|Double|B|Four-Seam Fastball|5|0|0|1|12|92
+Kevin Jepsen|R|Jonathan Lucroy|R|Double|D|Four-Seam Fastball|6|1|0|1|1|92
+Kevin Jepsen|R|Boog Powell|L|Groundout|X|Four-Seam Fastball|7|0|0|1|0|0
+Kevin Jepsen|R|Marcus Semien|R|Walk|B|Four-Seam Fastball|8|0|0|2|11|90
+Kevin Jepsen|R|Marcus Semien|R|Walk|B|Four-Seam Fastball|9|1|0|2|11|91
+Kevin Jepsen|R|Marcus Semien|R|Walk|B|Four-Seam Fastball|10|2|0|2|12|93
+Kevin Jepsen|R|Marcus Semien|R|Walk|F|Four-Seam Fastball|11|3|0|2|2|92
+Kevin Jepsen|R|Marcus Semien|R|Walk|B|Curveball|12|3|1|2|14|82
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|B|Four-Seam Fastball|0|0|0|2|11|91
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|F|Curveball|1|1|0|2|9|80
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|*B|Curveball|2|1|1|2|14|80
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|F|Four-Seam Fastball|3|2|1|2|1|91
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|F|Four-Seam Fastball|4|2|2|2|11|93
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|*B|Curveball|5|2|2|2|14|81
+Kevin Jepsen|R|Matt Joyce|L|Sac Fly|E|Four-Seam Fastball|6|3|2|2|11|93
+Kevin Jepsen|R|Marcus Semien|R|Flyout|*B|Curveball|7|0|0|0|14|82
+Kevin Jepsen|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|8|1|0|0|12|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|9|2|0|0|12|91
+Kevin Jepsen|R|Marcus Semien|R|Flyout|F|Four-Seam Fastball|10|3|0|0|4|90
+Kevin Jepsen|R|Marcus Semien|R|Flyout|S|Four-Seam Fastball|11|3|1|0|14|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|F|Four-Seam Fastball|12|3|2|0|14|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|X|Four-Seam Fastball|13|3|2|0|6|93
+Kevin Jepsen|R|Yangervis Solarte|L|Walk|C|Four-Seam Fastball|0|0|0|0|7|91
+Kevin Jepsen|R|Yangervis Solarte|L|Walk|B|Curveball|1|0|1|0|14|81
+Kevin Jepsen|R|Yangervis Solarte|L|Walk|B|Curveball|2|1|1|0|14|80
+Kevin Jepsen|R|Yangervis Solarte|L|Walk|B|Four-Seam Fastball|3|2|1|0|12|91
+Kevin Jepsen|R|Yangervis Solarte|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|93
+Kevin Jepsen|R|Russell Martin|R|Grounded Into DP|X|Four-Seam Fastball|5|0|0|0|5|91
+Kevin Jepsen|R|Kevin Pillar|R|Lineout|B|Four-Seam Fastball|6|0|0|2|13|91
+Kevin Jepsen|R|Kevin Pillar|R|Lineout|X|Four-Seam Fastball|7|1|0|2|5|90
+Kevin Jepsen|R|Aledmys Diaz|R|Pop Out|X|Four-Seam Fastball|8|0|0|0|4|88
+Kevin Jepsen|R|Randal Grichuk|R|Strikeout|C|Four-Seam Fastball|9|0|0|1|2|90
+Kevin Jepsen|R|Randal Grichuk|R|Strikeout|C|Curveball|10|0|1|1|5|80
+Kevin Jepsen|R|Randal Grichuk|R|Strikeout|B|Four-Seam Fastball|11|0|2|1|11|89
+Kevin Jepsen|R|Randal Grichuk|R|Strikeout|F|Four-Seam Fastball|12|1|2|1|4|92
+Kevin Jepsen|R|Randal Grichuk|R|Strikeout|S|Curveball|13|1|2|1|14|80
+Kevin Jepsen|R|Devon Travis|R|Groundout|C|Curveball|14|0|0|2|7|82
+Kevin Jepsen|R|Devon Travis|R|Groundout|C|Curveball|15|0|1|2|2|80
+Kevin Jepsen|R|Devon Travis|R|Groundout|X|Four-Seam Fastball|16|0|2|2|14|92
+Kevin Jepsen|R|Chris Young|R|Flyout|X|Four-Seam Fastball|0|0|0|0|2|92
+Kevin Jepsen|R|Zack Cozart|R|Single|C|Four-Seam Fastball|1|0|0|1|9|92
+Kevin Jepsen|R|Zack Cozart|R|Single|*B|Curveball|2|0|1|1|14|82
+Kevin Jepsen|R|Zack Cozart|R|Single|C|Curveball|3|1|1|1|9|81
+Kevin Jepsen|R|Zack Cozart|R|Single|F|Four-Seam Fastball|4|1|2|1|11|92
+Kevin Jepsen|R|Zack Cozart|R|Single|E|Four-Seam Fastball|5|1|2|1|8|91
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|6|0|0|1|13|91
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|7|1|0|1|11|91
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|8|2|0|1|11|91
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|9|3|0|1|11|91
+Kevin Jepsen|R|Justin Upton|R|Grounded Into DP|C|Curveball|10|0|0|1|9|81
+Kevin Jepsen|R|Justin Upton|R|Grounded Into DP|X|Curveball|11|0|1|1|8|81
+Kevin Jepsen|R|Albert Pujols|R|Single|D|Four-Seam Fastball|12|0|0|0|9|90
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|S|Changeup|13|0|0|0|6|83
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|*B|Curveball|14|0|1|0|14|81
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|B|Four-Seam Fastball|15|1|1|0|11|91
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|F|Four-Seam Fastball|16|2|1|0|1|91
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|B|Four-Seam Fastball|17|2|2|0|13|90
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|F|Four-Seam Fastball|18|3|2|0|8|90
+Kevin Jepsen|R|Kole Calhoun|L|Groundout|X|Four-Seam Fastball|19|3|2|0|5|91
+Kevin Jepsen|R|Andrelton Simmons|R|Groundout|B|Changeup|20|0|0|1|13|85
+Kevin Jepsen|R|Andrelton Simmons|R|Groundout|B|Four-Seam Fastball|21|1|0|1|14|91
+Kevin Jepsen|R|Andrelton Simmons|R|Groundout|X|Four-Seam Fastball|22|2|0|1|11|89
+Kevin Jepsen|R|Yuli Gurriel|R|Groundout|B|Four-Seam Fastball|0|0|0|0|11|91
+Kevin Jepsen|R|Yuli Gurriel|R|Groundout|B|Four-Seam Fastball|1|1|0|0|13|90
+Kevin Jepsen|R|Yuli Gurriel|R|Groundout|C|Four-Seam Fastball|2|2|0|0|14|91
+Kevin Jepsen|R|Yuli Gurriel|R|Groundout|X|Four-Seam Fastball|3|2|1|0|12|91
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Curveball|4|0|0|1|14|82
+Kevin Jepsen|R|Evan Gattis|R|Walk|C|Curveball|5|1|0|1|2|80
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Curveball|6|1|1|1|14|81
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|7|2|1|1|14|90
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|8|3|1|1|14|90
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|C|Four-Seam Fastball|9|0|0|1|7|89
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|10|0|1|1|11|89
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|S|Changeup|11|1|1|1|13|83
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|E|Four-Seam Fastball|12|1|2|1|2|92
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|12|93
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|C|Curveball|1|0|1|0|9|81
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|B|Curveball|2|0|2|0|14|79
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|91
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|3|91
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|8|93
+Kevin Jepsen|R|Daniel Robertson|R|Strikeout|C|Four-Seam Fastball|6|2|2|0|13|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Single|B|Curveball|7|0|0|1|14|80
+Kevin Jepsen|R|Adeiny Hechavarria|R|Single|T|Four-Seam Fastball|8|1|0|1|9|92
+Kevin Jepsen|R|Adeiny Hechavarria|R|Single|B|Four-Seam Fastball|9|1|1|1|11|90
+Kevin Jepsen|R|Adeiny Hechavarria|R|Single|S|Four-Seam Fastball|10|2|1|1|12|92
+Kevin Jepsen|R|Adeiny Hechavarria|R|Single|D|Four-Seam Fastball|11|2|2|1|12|92
+Kevin Jepsen|R|Carlos Gomez|R|Hit By Pitch|H|Four-Seam Fastball|12|0|0|1|11|91
+Kevin Jepsen|R|C.J. Cron|R|Grounded Into DP|X|Curveball|13|0|0|1|5|81
+Kevin Jepsen|R|Mitch Haniger|R|Flyout|B|Curveball|0|0|0|0|14|81
+Kevin Jepsen|R|Mitch Haniger|R|Flyout|B|Curveball|1|1|0|0|14|81
+Kevin Jepsen|R|Mitch Haniger|R|Flyout|F|Four-Seam Fastball|2|2|0|0|1|91
+Kevin Jepsen|R|Mitch Haniger|R|Flyout|X|Four-Seam Fastball|3|2|1|0|12|93
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|F|Curveball|4|0|0|1|13|81
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|C|Curveball|5|0|1|1|3|80
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|*B|Curveball|6|0|2|1|14|79
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|F|Curveball|7|1|2|1|14|80
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|*B|Curveball|8|1|2|1|14|80
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|F|Four-Seam Fastball|9|2|2|1|11|91
+Kevin Jepsen|R|Mike Zunino|R|Strikeout|S|Curveball|10|2|2|1|13|80
+Kevin Jepsen|R|Ben Gamel|L|Groundout|C|Curveball|0|0|0|0|1|80
+Kevin Jepsen|R|Ben Gamel|L|Groundout|S|Curveball|1|0|1|0|13|80
+Kevin Jepsen|R|Ben Gamel|L|Groundout|B|Curveball|2|0|2|0|14|78
+Kevin Jepsen|R|Ben Gamel|L|Groundout|B|Four-Seam Fastball|3|1|2|0|12|91
+Kevin Jepsen|R|Ben Gamel|L|Groundout|X|Four-Seam Fastball|4|2|2|0|4|92
+Kevin Jepsen|R|Jean Segura|R|Groundout|C|Four-Seam Fastball|5|0|0|1|5|90
+Kevin Jepsen|R|Jean Segura|R|Groundout|F|Curveball|6|0|1|1|11|81
+Kevin Jepsen|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|7|0|2|1|11|91
+Kevin Jepsen|R|Jean Segura|R|Groundout|B|Curveball|8|1|2|1|13|81
+Kevin Jepsen|R|Jean Segura|R|Groundout|B|Four-Seam Fastball|9|2|2|1|12|92
+Kevin Jepsen|R|Jean Segura|R|Groundout|F|Four-Seam Fastball|10|3|2|1|11|92
+Kevin Jepsen|R|Jean Segura|R|Groundout|X|Four-Seam Fastball|11|3|2|1|9|92
+Kevin Jepsen|R|Mitch Haniger|R|Strikeout|B|Curveball|12|0|0|2|14|81
+Kevin Jepsen|R|Mitch Haniger|R|Strikeout|B|Curveball|13|1|0|2|14|81
+Kevin Jepsen|R|Mitch Haniger|R|Strikeout|C|Four-Seam Fastball|14|2|0|2|14|92
+Kevin Jepsen|R|Mitch Haniger|R|Strikeout|F|Four-Seam Fastball|15|2|1|2|14|91
+Kevin Jepsen|R|Mitch Haniger|R|Strikeout|S|Curveball|16|2|2|2|13|80
+Kevin Jepsen|R|Jonathan Lucroy|R|Flyout|B|Curveball|0|0|0|0|11|81
+Kevin Jepsen|R|Jonathan Lucroy|R|Flyout|C|Curveball|1|1|0|0|5|81
+Kevin Jepsen|R|Jonathan Lucroy|R|Flyout|B|Four-Seam Fastball|2|1|1|0|14|93
+Kevin Jepsen|R|Jonathan Lucroy|R|Flyout|B|Four-Seam Fastball|3|2|1|0|14|93
+Kevin Jepsen|R|Jonathan Lucroy|R|Flyout|X|Four-Seam Fastball|4|3|1|0|2|92
+Kevin Jepsen|R|Marcus Semien|R|Home Run|E|Four-Seam Fastball|5|0|0|1|4|91
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|B|Four-Seam Fastball|6|0|0|1|11|91
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|F|Four-Seam Fastball|7|1|0|1|1|90
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|C|Curveball|8|1|1|1|7|81
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|B|Curveball|9|1|2|1|14|80
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|B|Curveball|10|2|2|1|14|82
+Kevin Jepsen|R|Stephen Piscotty|R|Strikeout|S|Four-Seam Fastball|11|3|2|1|12|91
+Kevin Jepsen|R|Jed Lowrie|L|Single|S|Changeup|12|0|0|2|13|83
+Kevin Jepsen|R|Jed Lowrie|L|Single|S|Curveball|13|0|1|2|13|81
+Kevin Jepsen|R|Jed Lowrie|L|Single|F|Curveball|14|0|2|2|4|80
+Kevin Jepsen|R|Jed Lowrie|L|Single|D|Four-Seam Fastball|15|0|2|2|7|93
+Kevin Jepsen|R|Khris Davis|R|Flyout|C|Curveball|16|0|0|2|3|80
+Kevin Jepsen|R|Khris Davis|R|Flyout|B|Curveball|17|0|1|2|14|79
+Kevin Jepsen|R|Khris Davis|R|Flyout|X|Four-Seam Fastball|18|1|1|2|5|89
+Kevin Jepsen|R|Matt Chapman|R|Triple|B|Four-Seam Fastball|19|0|0|0|14|90
+Kevin Jepsen|R|Matt Chapman|R|Triple|C|Curveball|20|1|0|0|1|80
+Kevin Jepsen|R|Matt Chapman|R|Triple|B|Four-Seam Fastball|21|1|1|0|14|93
+Kevin Jepsen|R|Matt Chapman|R|Triple|E|Four-Seam Fastball|22|2|1|0|5|91
+Kevin Jepsen|R|Matt Olson|L|Intent Walk|V|N/A|23|0|0|0|0|0
+Kevin Jepsen|R|Matt Olson|L|Intent Walk|V|N/A|24|0|1|0|0|0
+Kevin Jepsen|R|Matt Olson|L|Intent Walk|V|N/A|25|0|2|0|0|0
+Kevin Jepsen|R|Matt Olson|L|Intent Walk|V|N/A|26|0|2|0|0|0
+Kevin Jepsen|R|Aledmys Diaz|R|Flyout|B|Curveball|0|0|0|0|14|81
+Kevin Jepsen|R|Aledmys Diaz|R|Flyout|B|Curveball|1|1|0|0|14|81
+Kevin Jepsen|R|Aledmys Diaz|R|Flyout|F|Four-Seam Fastball|2|2|0|0|5|91
+Kevin Jepsen|R|Aledmys Diaz|R|Flyout|X|Four-Seam Fastball|3|2|1|0|14|92
+Kevin Jepsen|R|Steve Pearce|R|Lineout|C|Curveball|4|0|0|1|8|82
+Kevin Jepsen|R|Steve Pearce|R|Lineout|B|Curveball|5|0|1|1|14|80
+Kevin Jepsen|R|Steve Pearce|R|Lineout|B|Four-Seam Fastball|6|1|1|1|14|92
+Kevin Jepsen|R|Steve Pearce|R|Lineout|X|Four-Seam Fastball|7|2|1|1|5|92
+Kevin Jepsen|R|Teoscar Hernandez|R|Field Error|F|Curveball|8|0|0|2|8|80
+Kevin Jepsen|R|Teoscar Hernandez|R|Field Error|B|Curveball|9|0|1|2|14|81
+Kevin Jepsen|R|Teoscar Hernandez|R|Field Error|B|Curveball|10|1|1|2|14|80
+Kevin Jepsen|R|Teoscar Hernandez|R|Field Error|D|Four-Seam Fastball|11|2|1|2|6|91
+Kevin Jepsen|R|Yangervis Solarte|L|Groundout|F|Curveball|0|0|0|0|8|81
+Kevin Jepsen|R|Yangervis Solarte|L|Groundout|X|Curveball|1|0|1|0|14|81
+Kevin Jepsen|R|Kevin Pillar|R|Home Run|C|Curveball|2|0|0|1|14|81
+Kevin Jepsen|R|Kevin Pillar|R|Home Run|B|Changeup|3|0|1|1|14|84
+Kevin Jepsen|R|Kevin Pillar|R|Home Run|S|Changeup|4|1|1|1|13|83
+Kevin Jepsen|R|Kevin Pillar|R|Home Run|B|Curveball|5|1|2|1|14|81
+Kevin Jepsen|R|Kevin Pillar|R|Home Run|E|Four-Seam Fastball|6|2|2|1|9|93
+Kevin Jepsen|R|Lourdes Gurriel Jr.|R|Groundout|B|Curveball|7|0|0|1|14|81
+Kevin Jepsen|R|Lourdes Gurriel Jr.|R|Groundout|X|Four-Seam Fastball|8|1|0|1|5|90
+Kevin Jepsen|R|Kendrys Morales|L|Walk|B|Changeup|9|0|0|2|11|83
+Kevin Jepsen|R|Kendrys Morales|L|Walk|B|Changeup|10|1|0|2|14|84
+Kevin Jepsen|R|Kendrys Morales|L|Walk|C|Four-Seam Fastball|11|2|0|2|13|89
+Kevin Jepsen|R|Kendrys Morales|L|Walk|B|Four-Seam Fastball|12|2|1|2|13|89
+Kevin Jepsen|R|Kendrys Morales|L|Walk|B|Four-Seam Fastball|13|3|1|2|13|90
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|C|Curveball|0|0|0|0|5|82
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|*B|Curveball|1|0|1|0|14|82
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|B|Curveball|2|1|1|0|11|80
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|C|Changeup|3|2|1|0|9|84
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|F|Four-Seam Fastball|4|2|2|0|5|92
+Kevin Jepsen|R|Edwin Encarnacion|R|Grounded Into DP|X|Four-Seam Fastball|5|2|2|0|12|92
+Kevin Jepsen|R|Yan Gomes|R|Walk|*B|Curveball|6|0|0|2|14|83
+Kevin Jepsen|R|Yan Gomes|R|Walk|B|Four-Seam Fastball|7|1|0|2|11|92
+Kevin Jepsen|R|Yan Gomes|R|Walk|B|Four-Seam Fastball|8|2|0|2|12|91
+Kevin Jepsen|R|Yan Gomes|R|Walk|C|Four-Seam Fastball|9|3|0|2|12|92
+Kevin Jepsen|R|Yan Gomes|R|Walk|B|Curveball|10|3|1|2|11|80
+Kevin Jepsen|R|Michael Brantley|L|Groundout|B|Curveball|11|0|0|2|14|81
+Kevin Jepsen|R|Michael Brantley|L|Groundout|X|Four-Seam Fastball|12|1|0|2|3|91
+Kevin Jepsen|R|Christian Vazquez|R|Groundout|B|Four-Seam Fastball|0|0|0|2|3|92
+Kevin Jepsen|R|Christian Vazquez|R|Groundout|C|Four-Seam Fastball|1|1|0|2|9|92
+Kevin Jepsen|R|Christian Vazquez|R|Groundout|X|Curveball|2|1|1|2|9|83
+Kevin Jepsen|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|92
+Kevin Jepsen|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|93
+Kevin Jepsen|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|2|2|0|0|12|93
+Kevin Jepsen|R|Jose Iglesias|R|Walk|C|Four-Seam Fastball|3|3|0|0|1|92
+Kevin Jepsen|R|Jose Iglesias|R|Walk|F|Four-Seam Fastball|4|3|1|0|5|92
+Kevin Jepsen|R|Jose Iglesias|R|Walk|F|Four-Seam Fastball|5|3|2|0|2|94
+Kevin Jepsen|R|Jose Iglesias|R|Walk|B|Four-Seam Fastball|6|3|2|0|13|94
+Kevin Jepsen|R|Dixon Machado|R|Single|D|Four-Seam Fastball|7|0|0|0|1|92
+Kevin Jepsen|R|JaCoby Jones|R|Strikeout|W|Curveball|8|0|0|0|14|82
+Kevin Jepsen|R|JaCoby Jones|R|Strikeout|S|Curveball|9|0|1|0|13|81
+Kevin Jepsen|R|JaCoby Jones|R|Strikeout|B|Four-Seam Fastball|10|0|2|0|11|92
+Kevin Jepsen|R|JaCoby Jones|R|Strikeout|S|Four-Seam Fastball|11|1|2|0|12|92
+Kevin Jepsen|R|Jeimer Candelario|L|Walk|B|Curveball|12|0|0|1|14|82
+Kevin Jepsen|R|Jeimer Candelario|L|Walk|B|Four-Seam Fastball|13|1|0|1|14|93
+Kevin Jepsen|R|Jeimer Candelario|L|Walk|B|Curveball|14|2|0|1|14|81
+Kevin Jepsen|R|Jeimer Candelario|L|Walk|B|Four-Seam Fastball|15|3|0|1|11|91
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|F|Four-Seam Fastball|16|0|0|1|11|92
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|B|Curveball|17|0|1|1|14|81
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|B|Four-Seam Fastball|18|1|1|1|11|91
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|B|Four-Seam Fastball|19|2|1|1|11|91
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|F|Four-Seam Fastball|20|3|1|1|12|91
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|F|Four-Seam Fastball|21|3|2|1|6|92
+Kevin Jepsen|R|Nicholas Castellanos|R|Groundout|E|Four-Seam Fastball|22|3|2|1|14|92
+Kevin Jepsen|R|Victor Reyes|L|Groundout|F|Four-Seam Fastball|23|0|0|2|4|92
+Kevin Jepsen|R|Victor Reyes|L|Groundout|*B|Curveball|24|0|1|2|14|81
+Kevin Jepsen|R|Victor Reyes|L|Groundout|S|Curveball|25|1|1|2|14|80
+Kevin Jepsen|R|Victor Reyes|L|Groundout|F|Four-Seam Fastball|26|1|2|2|2|91
+Kevin Jepsen|R|Victor Reyes|L|Groundout|B|Four-Seam Fastball|27|1|2|2|12|91
+Kevin Jepsen|R|Victor Reyes|L|Groundout|X|Curveball|28|2|2|2|6|80
+Kevin Jepsen|R|James McCann|R|Walk|C|Curveball|0|0|0|0|5|81
+Kevin Jepsen|R|James McCann|R|Walk|B|Four-Seam Fastball|1|0|1|0|11|90
+Kevin Jepsen|R|James McCann|R|Walk|B|Four-Seam Fastball|2|1|1|0|12|89
+Kevin Jepsen|R|James McCann|R|Walk|B|Four-Seam Fastball|3|2|1|0|12|90
+Kevin Jepsen|R|James McCann|R|Walk|B|Four-Seam Fastball|4|3|1|0|14|90
+Kevin Jepsen|R|Grayson Greiner|R|Field Error|F|Four-Seam Fastball|5|0|0|0|3|90
+Kevin Jepsen|R|Grayson Greiner|R|Field Error|B|Four-Seam Fastball|6|0|1|0|11|90
+Kevin Jepsen|R|Grayson Greiner|R|Field Error|B|Four-Seam Fastball|7|1|1|0|14|91
+Kevin Jepsen|R|Grayson Greiner|R|Field Error|B|Curveball|8|2|1|0|9|80
+Kevin Jepsen|R|Grayson Greiner|R|Field Error|D|Four-Seam Fastball|9|3|1|0|9|90
+Kevin Jepsen|R|Jose Iglesias|R|Sac Bunt|B|Changeup|10|0|0|0|14|89
+Kevin Jepsen|R|Jose Iglesias|R|Sac Bunt|B|Changeup|11|1|0|0|13|87
+Kevin Jepsen|R|Jose Iglesias|R|Sac Bunt|X|Four-Seam Fastball|12|2|0|0|11|88
+Kevin Jepsen|R|Alex Bregman|R|Double|F|Four-Seam Fastball|0|0|0|0|12|93
+Kevin Jepsen|R|Alex Bregman|R|Double|F|Four-Seam Fastball|1|0|1|0|11|93
+Kevin Jepsen|R|Alex Bregman|R|Double|B|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Alex Bregman|R|Double|D|Curveball|3|1|2|0|8|82
+Kevin Jepsen|R|Carlos Correa|R|Home Run|C|Curveball|4|0|0|0|6|82
+Kevin Jepsen|R|Carlos Correa|R|Home Run|E|Four-Seam Fastball|5|0|1|0|1|93
+Kevin Jepsen|R|Yuli Gurriel|R|Field Error|F|Four-Seam Fastball|6|0|0|0|9|93
+Kevin Jepsen|R|Yuli Gurriel|R|Field Error|B|Four-Seam Fastball|7|0|1|0|14|93
+Kevin Jepsen|R|Yuli Gurriel|R|Field Error|D|Four-Seam Fastball|8|1|1|0|9|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|S|Curveball|9|0|0|0|8|82
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|B|Curveball|10|0|1|0|13|81
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|C|Curveball|11|1|1|0|13|81
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|*B|Curveball|12|1|2|0|14|82
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|F|Curveball|13|2|2|0|4|81
+Kevin Jepsen|R|Marwin Gonzalez|L|Lineout|X|Four-Seam Fastball|14|2|2|0|11|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Curveball|15|0|0|1|14|82
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Curveball|16|1|0|1|13|82
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|17|2|0|1|14|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|C|Four-Seam Fastball|18|3|0|1|8|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|F|Four-Seam Fastball|19|3|1|1|9|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|F|Curveball|20|3|2|1|1|82
+Kevin Jepsen|R|Evan Gattis|R|Walk|F|Four-Seam Fastball|21|3|2|1|12|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|22|3|2|1|14|93
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|B|Curveball|23|0|0|1|12|82
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|C|Curveball|24|1|0|1|5|81
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|B|Four-Seam Fastball|25|1|1|1|14|93
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|B|Curveball|26|2|1|1|14|81
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|C|Four-Seam Fastball|27|3|1|1|12|91
+Kevin Jepsen|R|Max Stassi|R|Fielders Choice|D|Four-Seam Fastball|28|3|2|1|9|92
+Kevin Jepsen|R|Welington Castillo|R|Single|F|Four-Seam Fastball|0|0|0|2|6|91
+Kevin Jepsen|R|Welington Castillo|R|Single|E|Four-Seam Fastball|1|0|1|2|2|92
+Kevin Jepsen|R|Leury Garcia|L|Flyout|S|Four-Seam Fastball|2|0|0|2|3|91
+Kevin Jepsen|R|Leury Garcia|L|Flyout|B|Four-Seam Fastball|3|0|1|2|12|92
+Kevin Jepsen|R|Leury Garcia|L|Flyout|*B|Curveball|4|1|1|2|14|82
+Kevin Jepsen|R|Leury Garcia|L|Flyout|X|Four-Seam Fastball|5|2|1|2|5|91
+Kevin Jepsen|R|Jose Abreu|R|Home Run|F|Four-Seam Fastball|0|0|0|1|6|91
+Kevin Jepsen|R|Jose Abreu|R|Home Run|F|Four-Seam Fastball|1|0|1|1|11|90
+Kevin Jepsen|R|Jose Abreu|R|Home Run|B|Curveball|2|0|2|1|14|81
+Kevin Jepsen|R|Jose Abreu|R|Home Run|B|Curveball|3|1|2|1|14|81
+Kevin Jepsen|R|Jose Abreu|R|Home Run|E|Four-Seam Fastball|4|2|2|1|2|92
+Kevin Jepsen|R|Matt Davidson|R|Groundout|B|Four-Seam Fastball|5|0|0|1|12|91
+Kevin Jepsen|R|Matt Davidson|R|Groundout|F|Four-Seam Fastball|6|1|0|1|5|90
+Kevin Jepsen|R|Matt Davidson|R|Groundout|B|Curveball|7|1|1|1|14|83
+Kevin Jepsen|R|Matt Davidson|R|Groundout|F|Four-Seam Fastball|8|2|1|1|12|91
+Kevin Jepsen|R|Matt Davidson|R|Groundout|F|Four-Seam Fastball|9|2|2|1|6|92
+Kevin Jepsen|R|Matt Davidson|R|Groundout|X|Changeup|10|2|2|1|2|84
+Kevin Jepsen|R|Chris Davis|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|95
+Kevin Jepsen|R|Chris Davis|L|Flyout|F|Four-Seam Fastball|1|1|0|0|3|94
+Kevin Jepsen|R|Chris Davis|L|Flyout|S|Four-Seam Fastball|2|1|1|0|4|94
+Kevin Jepsen|R|Chris Davis|L|Flyout|F|Curveball|3|1|2|0|7|82
+Kevin Jepsen|R|Chris Davis|L|Flyout|B|Four-Seam Fastball|4|1|2|0|11|94
+Kevin Jepsen|R|Chris Davis|L|Flyout|B|Four-Seam Fastball|5|2|2|0|11|94
+Kevin Jepsen|R|Chris Davis|L|Flyout|F|Four-Seam Fastball|6|3|2|0|12|94
+Kevin Jepsen|R|Chris Davis|L|Flyout|F|Four-Seam Fastball|7|3|2|0|1|95
+Kevin Jepsen|R|Chris Davis|L|Flyout|X|Four-Seam Fastball|8|3|2|0|3|94
+Kevin Jepsen|R|Manny Machado|R|Flyout|X|Four-Seam Fastball|9|0|0|1|1|95
+Kevin Jepsen|R|Ryan Flaherty|L|Groundout|S|Changeup|10|0|0|2|13|85
+Kevin Jepsen|R|Ryan Flaherty|L|Groundout|C|Curveball|11|0|1|2|13|82
+Kevin Jepsen|R|Ryan Flaherty|L|Groundout|B|Curveball|12|0|2|2|13|80
+Kevin Jepsen|R|Ryan Flaherty|L|Groundout|B|Curveball|13|1|2|2|14|82
+Kevin Jepsen|R|Ryan Flaherty|L|Groundout|X|Changeup|14|2|2|2|7|86
+Kevin Jepsen|R|Manny Machado|R|Strikeout|C|Curveball|0|0|0|0|8|80
+Kevin Jepsen|R|Manny Machado|R|Strikeout|S|Curveball|1|0|1|0|13|80
+Kevin Jepsen|R|Manny Machado|R|Strikeout|W|Curveball|2|0|2|0|14|81
+Kevin Jepsen|R|Ryan Flaherty|L|Strikeout|S|Changeup|3|0|0|1|13|86
+Kevin Jepsen|R|Ryan Flaherty|L|Strikeout|C|Changeup|4|0|1|1|13|85
+Kevin Jepsen|R|Ryan Flaherty|L|Strikeout|B|Four-Seam Fastball|5|0|2|1|9|93
+Kevin Jepsen|R|Ryan Flaherty|L|Strikeout|S|Four-Seam Fastball|6|1|2|1|11|94
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|F|Four-Seam Fastball|7|0|0|2|5|93
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|C|Curveball|8|0|1|2|14|81
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|B|Curveball|9|0|2|2|14|82
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|B|Curveball|10|1|2|2|13|81
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|B|Curveball|11|2|2|2|14|80
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|F|Four-Seam Fastball|12|3|2|2|5|94
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|F|Four-Seam Fastball|13|3|2|2|12|93
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|F|Four-Seam Fastball|14|3|2|2|5|94
+Kevin Jepsen|R|Ryan Lavarnway|R|Walk|*B|Curveball|15|3|2|2|14|81
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|C|Curveball|16|0|0|2|1|78
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|*B|Curveball|17|0|1|2|14|79
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Four-Seam Fastball|18|1|1|2|14|93
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Curveball|19|2|1|2|14|78
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|C|Four-Seam Fastball|20|3|1|2|14|91
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|21|3|2|2|9|92
+Kevin Jepsen|R|Martin Prado|R|Strikeout|C|Four-Seam Fastball|0|0|0|2|4|93
+Kevin Jepsen|R|Martin Prado|R|Strikeout|F|Curveball|1|0|1|2|2|80
+Kevin Jepsen|R|Martin Prado|R|Strikeout|W|Curveball|2|0|2|2|14|81
+Kevin Jepsen|R|Marcell Ozuna|R|Single|D|Curveball|3|0|0|0|13|81
+Kevin Jepsen|R|Jarrod Saltalamacchia|L|Strikeout|C|Four-Seam Fastball|4|0|0|0|13|92
+Kevin Jepsen|R|Jarrod Saltalamacchia|L|Strikeout|B|Four-Seam Fastball|5|0|1|0|13|93
+Kevin Jepsen|R|Jarrod Saltalamacchia|L|Strikeout|F|Four-Seam Fastball|6|1|1|0|8|93
+Kevin Jepsen|R|Jarrod Saltalamacchia|L|Strikeout|B|Four-Seam Fastball|7|1|2|0|3|94
+Kevin Jepsen|R|Jarrod Saltalamacchia|L|Strikeout|S|Four-Seam Fastball|8|2|2|0|13|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|B|Four-Seam Fastball|9|0|0|1|14|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|B|Four-Seam Fastball|10|1|0|1|14|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|B|Four-Seam Fastball|11|2|0|1|11|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|C|Four-Seam Fastball|12|3|0|1|3|92
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|F|Four-Seam Fastball|13|3|1|1|11|93
+Kevin Jepsen|R|Adeiny Hechavarria|R|Pop Out|X|Four-Seam Fastball|14|3|2|1|2|93
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|C|Four-Seam Fastball|0|0|0|0|4|94
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|C|Curveball|1|0|1|0|4|82
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|F|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|B|Curveball|3|0|2|0|14|83
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|B|Two-Seam Fastball|4|1|2|0|14|95
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|X|Curveball|5|2|2|0|14|84
+Kevin Jepsen|R|Devon Travis|R|Lineout|C|Four-Seam Fastball|6|0|0|1|5|94
+Kevin Jepsen|R|Devon Travis|R|Lineout|C|Curveball|7|0|1|1|13|83
+Kevin Jepsen|R|Devon Travis|R|Lineout|B|Curveball|8|0|2|1|14|83
+Kevin Jepsen|R|Devon Travis|R|Lineout|F|Curveball|9|1|2|1|7|82
+Kevin Jepsen|R|Devon Travis|R|Lineout|X|Four-Seam Fastball|10|1|2|1|4|93
+Kevin Jepsen|R|Jose Reyes|L|Groundout|C|Four-Seam Fastball|11|0|0|2|2|94
+Kevin Jepsen|R|Jose Reyes|L|Groundout|X|Four-Seam Fastball|12|0|1|2|8|94
+Kevin Jepsen|R|Jose Bautista|R|Flyout|C|Curveball|0|0|0|2|11|82
+Kevin Jepsen|R|Jose Bautista|R|Flyout|X|Four-Seam Fastball|1|0|1|2|11|95
+Kevin Jepsen|R|Edwin Encarnacion|R|Sac Fly|E|Four-Seam Fastball|2|0|0|0|11|95
+Kevin Jepsen|R|Dioner Navarro|L|Groundout|C|Four-Seam Fastball|3|0|0|1|13|95
+Kevin Jepsen|R|Dioner Navarro|L|Groundout|B|Four-Seam Fastball|4|0|1|1|13|94
+Kevin Jepsen|R|Dioner Navarro|L|Groundout|X|Four-Seam Fastball|5|1|1|1|13|95
+Kevin Jepsen|R|Carlos Beltran|L|Single|B|Curveball|0|0|0|0|14|81
+Kevin Jepsen|R|Carlos Beltran|L|Single|B|Curveball|1|1|0|0|14|80
+Kevin Jepsen|R|Carlos Beltran|L|Single|C|Four-Seam Fastball|2|2|0|0|13|93
+Kevin Jepsen|R|Carlos Beltran|L|Single|D|Four-Seam Fastball|3|2|1|0|1|93
+Kevin Jepsen|R|Mark Teixeira|L|Flyout|C|Four-Seam Fastball|4|0|0|0|13|93
+Kevin Jepsen|R|Mark Teixeira|L|Flyout|X|Four-Seam Fastball|5|0|1|0|5|92
+Kevin Jepsen|R|Brian McCann|L|Flyout|B|Four-Seam Fastball|6|0|0|1|13|90
+Kevin Jepsen|R|Brian McCann|L|Flyout|B|Four-Seam Fastball|7|1|0|1|13|92
+Kevin Jepsen|R|Brian McCann|L|Flyout|C|Four-Seam Fastball|8|2|0|1|13|93
+Kevin Jepsen|R|Brian McCann|L|Flyout|B|Four-Seam Fastball|9|2|1|1|13|91
+Kevin Jepsen|R|Brian McCann|L|Flyout|X|Four-Seam Fastball|10|3|1|1|7|92
+Kevin Jepsen|R|Alex Rodriguez|R|Single|F|Four-Seam Fastball|11|0|0|2|4|93
+Kevin Jepsen|R|Alex Rodriguez|R|Single|B|Curveball|12|0|1|2|14|81
+Kevin Jepsen|R|Alex Rodriguez|R|Single|F|Curveball|13|1|1|2|7|82
+Kevin Jepsen|R|Alex Rodriguez|R|Single|B|Curveball|14|1|2|2|13|81
+Kevin Jepsen|R|Alex Rodriguez|R|Single|B|Four-Seam Fastball|15|2|2|2|11|94
+Kevin Jepsen|R|Alex Rodriguez|R|Single|F|Four-Seam Fastball|16|3|2|2|5|94
+Kevin Jepsen|R|Alex Rodriguez|R|Single|E|Curveball|17|3|2|2|7|81
+Kevin Jepsen|R|Stephen Drew|L|Groundout|B|Four-Seam Fastball|18|0|0|2|11|91
+Kevin Jepsen|R|Stephen Drew|L|Groundout|F|Four-Seam Fastball|19|1|0|2|1|91
+Kevin Jepsen|R|Stephen Drew|L|Groundout|C|Four-Seam Fastball|20|1|1|2|13|91
+Kevin Jepsen|R|Stephen Drew|L|Groundout|F|Changeup|21|1|2|2|13|85
+Kevin Jepsen|R|Stephen Drew|L|Groundout|B|Four-Seam Fastball|22|1|2|2|13|91
+Kevin Jepsen|R|Stephen Drew|L|Groundout|X|Four-Seam Fastball|23|2|2|2|4|91
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|92
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|S|Four-Seam Fastball|1|1|0|0|4|92
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|S|Curveball|2|1|1|0|7|81
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|W|Curveball|3|1|2|0|13|81
+Kevin Jepsen|R|Allen Craig|R|Field Error|B|Four-Seam Fastball|4|0|0|1|13|92
+Kevin Jepsen|R|Allen Craig|R|Field Error|F|Four-Seam Fastball|5|1|0|1|5|92
+Kevin Jepsen|R|Allen Craig|R|Field Error|C|Four-Seam Fastball|6|1|1|1|14|94
+Kevin Jepsen|R|Allen Craig|R|Field Error|B|Curveball|7|1|2|1|14|83
+Kevin Jepsen|R|Allen Craig|R|Field Error|F|Four-Seam Fastball|8|2|2|1|8|94
+Kevin Jepsen|R|Allen Craig|R|Field Error|B|Four-Seam Fastball|9|2|2|1|14|94
+Kevin Jepsen|R|Allen Craig|R|Field Error|F|Four-Seam Fastball|10|3|2|1|6|94
+Kevin Jepsen|R|Allen Craig|R|Field Error|D|Four-Seam Fastball|11|3|2|1|4|94
+Kevin Jepsen|R|Xander Bogaerts|R|Strikeout|C|Four-Seam Fastball|12|0|0|1|6|92
+Kevin Jepsen|R|Xander Bogaerts|R|Strikeout|S|Curveball|13|0|1|1|14|81
+Kevin Jepsen|R|Xander Bogaerts|R|Strikeout|W|Curveball|14|0|2|1|14|82
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|B|Four-Seam Fastball|15|0|0|2|11|92
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|C|Four-Seam Fastball|16|1|0|2|6|92
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|*B|Curveball|17|1|1|2|14|82
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|F|Four-Seam Fastball|18|2|1|2|2|92
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|F|Four-Seam Fastball|19|2|2|2|3|93
+Kevin Jepsen|R|Ryan Hanigan|R|Groundout|X|Curveball|20|2|2|2|14|82
+Kevin Jepsen|R|Mookie Betts|R|Flyout|F|Four-Seam Fastball|0|0|0|0|1|91
+Kevin Jepsen|R|Mookie Betts|R|Flyout|B|Curveball|1|0|1|0|13|82
+Kevin Jepsen|R|Mookie Betts|R|Flyout|X|Four-Seam Fastball|2|1|1|0|2|92
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|C|Four-Seam Fastball|3|0|0|1|14|92
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|X|Four-Seam Fastball|4|0|1|1|6|92
+Kevin Jepsen|R|David Ortiz|L|Field Error|C|Curveball|5|0|0|2|13|82
+Kevin Jepsen|R|David Ortiz|L|Field Error|B|Curveball|6|0|1|2|14|82
+Kevin Jepsen|R|David Ortiz|L|Field Error|S|Curveball|7|1|1|2|14|82
+Kevin Jepsen|R|David Ortiz|L|Field Error|B|Curveball|8|1|2|2|14|82
+Kevin Jepsen|R|David Ortiz|L|Field Error|B|Curveball|9|2|2|2|13|81
+Kevin Jepsen|R|David Ortiz|L|Field Error|F|Curveball|10|3|2|2|7|82
+Kevin Jepsen|R|David Ortiz|L|Field Error|D|Four-Seam Fastball|11|3|2|2|11|93
+Kevin Jepsen|R|Pablo Sandoval|L|Groundout|X|Curveball|12|0|0|2|13|82
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Curveball|0|0|0|2|11|82
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|C|Four-Seam Fastball|1|1|0|2|4|94
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Curveball|2|1|1|2|13|82
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Four-Seam Fastball|3|2|1|2|11|94
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|S|Four-Seam Fastball|4|3|1|2|4|94
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|F|Four-Seam Fastball|5|3|2|2|13|95
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|X|Four-Seam Fastball|6|3|2|2|13|96
+Kevin Jepsen|R|Chris Young|R|Pop Out|C|Curveball|7|0|0|0|7|83
+Kevin Jepsen|R|Chris Young|R|Pop Out|B|Curveball|8|0|1|0|14|83
+Kevin Jepsen|R|Chris Young|R|Pop Out|X|Four-Seam Fastball|9|1|1|0|4|94
+Kevin Jepsen|R|Alex Rodriguez|R|Groundout|C|Curveball|10|0|0|1|13|83
+Kevin Jepsen|R|Alex Rodriguez|R|Groundout|X|Four-Seam Fastball|11|0|1|1|2|94
+Kevin Jepsen|R|Mark Teixeira|L|Groundout|X|Two-Seam Fastball|12|0|0|2|7|90
+Kevin Jepsen|R|Everth Cabrera|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|11|94
+Kevin Jepsen|R|Everth Cabrera|L|Strikeout|F|Four-Seam Fastball|1|0|1|2|11|94
+Kevin Jepsen|R|Everth Cabrera|L|Strikeout|S|Curveball|2|0|2|2|14|82
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|C|Four-Seam Fastball|3|0|0|0|5|94
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|B|Curveball|4|0|1|0|14|83
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|B|Curveball|5|1|1|0|14|82
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|F|Four-Seam Fastball|6|2|1|0|6|94
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|B|Four-Seam Fastball|7|2|2|0|3|94
+Kevin Jepsen|R|Caleb Joseph|R|Groundout|X|Four-Seam Fastball|8|3|2|0|2|94
+Kevin Jepsen|R|Alejandro De Aza|L|Strikeout|F|Four-Seam Fastball|9|0|0|1|8|93
+Kevin Jepsen|R|Alejandro De Aza|L|Strikeout|C|Four-Seam Fastball|10|0|1|1|13|94
+Kevin Jepsen|R|Alejandro De Aza|L|Strikeout|B|Curveball|11|0|2|1|13|82
+Kevin Jepsen|R|Alejandro De Aza|L|Strikeout|S|Curveball|12|1|2|1|14|82
+Kevin Jepsen|R|Jimmy Paredes|L|Double|E|Curveball|0|0|0|2|13|83
+Kevin Jepsen|R|Adam Jones|R|Single|B|Curveball|1|0|0|2|3|83
+Kevin Jepsen|R|Adam Jones|R|Single|S|Four-Seam Fastball|2|1|0|2|14|93
+Kevin Jepsen|R|Adam Jones|R|Single|S|Curveball|3|1|1|2|14|83
+Kevin Jepsen|R|Adam Jones|R|Single|*B|Curveball|4|1|2|2|14|83
+Kevin Jepsen|R|Adam Jones|R|Single|E|Curveball|5|2|2|2|8|82
+Kevin Jepsen|R|Chris Davis|L|Single|*B|Four-Seam Fastball|6|0|0|2|14|93
+Kevin Jepsen|R|Chris Davis|L|Single|D|Four-Seam Fastball|7|1|0|2|13|92
+Kevin Jepsen|R|Mookie Betts|R|Home Run|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Mookie Betts|R|Home Run|B|Four-Seam Fastball|1|1|0|0|12|94
+Kevin Jepsen|R|Mookie Betts|R|Home Run|E|Four-Seam Fastball|2|2|0|0|2|94
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|B|Four-Seam Fastball|3|0|0|0|12|94
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|X|Four-Seam Fastball|4|1|0|0|8|93
+Kevin Jepsen|R|David Ortiz|L|Walk|B|Curveball|5|0|0|1|14|82
+Kevin Jepsen|R|David Ortiz|L|Walk|B|Four-Seam Fastball|6|1|0|1|13|94
+Kevin Jepsen|R|David Ortiz|L|Walk|C|Four-Seam Fastball|7|2|0|1|13|94
+Kevin Jepsen|R|David Ortiz|L|Walk|S|Four-Seam Fastball|8|2|1|1|13|93
+Kevin Jepsen|R|David Ortiz|L|Walk|B|Curveball|9|2|2|1|13|84
+Kevin Jepsen|R|David Ortiz|L|Walk|B|Four-Seam Fastball|10|3|2|1|13|95
+Kevin Jepsen|R|Mike Napoli|R|Single|F|Four-Seam Fastball|11|0|0|1|9|94
+Kevin Jepsen|R|Mike Napoli|R|Single|C|Four-Seam Fastball|12|0|1|1|9|94
+Kevin Jepsen|R|Mike Napoli|R|Single|B|Curveball|13|0|2|1|7|82
+Kevin Jepsen|R|Mike Napoli|R|Single|B|Curveball|14|1|2|1|8|81
+Kevin Jepsen|R|Mike Napoli|R|Single|F|Four-Seam Fastball|15|2|2|1|12|93
+Kevin Jepsen|R|Mike Napoli|R|Single|B|Four-Seam Fastball|16|2|2|1|14|95
+Kevin Jepsen|R|Mike Napoli|R|Single|D|Four-Seam Fastball|17|3|2|1|3|94
+Kevin Jepsen|R|Pablo Sandoval|L|Walk|B|Four-Seam Fastball|18|0|0|1|13|92
+Kevin Jepsen|R|Pablo Sandoval|L|Walk|B|Four-Seam Fastball|19|1|0|1|13|92
+Kevin Jepsen|R|Pablo Sandoval|L|Walk|F|Four-Seam Fastball|20|2|0|1|11|93
+Kevin Jepsen|R|Pablo Sandoval|L|Walk|B|Four-Seam Fastball|21|2|1|1|13|92
+Kevin Jepsen|R|Pablo Sandoval|L|Walk|B|Four-Seam Fastball|22|3|1|1|13|92
+Kevin Jepsen|R|Daniel Nava|L|Forceout|B|Four-Seam Fastball|23|0|0|1|11|93
+Kevin Jepsen|R|Daniel Nava|L|Forceout|C|Curveball|24|1|0|1|11|82
+Kevin Jepsen|R|Daniel Nava|L|Forceout|X|Curveball|25|1|1|1|8|81
+Kevin Jepsen|R|Brock Holt|L|Groundout|B|Curveball|26|0|0|2|13|82
+Kevin Jepsen|R|Brock Holt|L|Groundout|C|Curveball|27|1|0|2|13|82
+Kevin Jepsen|R|Brock Holt|L|Groundout|X|Curveball|28|1|1|2|13|82
+Kevin Jepsen|R|Adrian Beltre|R|Sac Fly|F|Four-Seam Fastball|0|0|0|1|3|93
+Kevin Jepsen|R|Adrian Beltre|R|Sac Fly|E|Four-Seam Fastball|1|0|1|1|8|94
+Kevin Jepsen|R|Kyle Blanks|R|Walk|B|Four-Seam Fastball|2|0|0|2|14|94
+Kevin Jepsen|R|Kyle Blanks|R|Walk|F|Four-Seam Fastball|3|1|0|2|3|94
+Kevin Jepsen|R|Kyle Blanks|R|Walk|*B|Curveball|4|1|1|2|14|83
+Kevin Jepsen|R|Kyle Blanks|R|Walk|F|Four-Seam Fastball|5|2|1|2|12|94
+Kevin Jepsen|R|Kyle Blanks|R|Walk|B|Curveball|6|2|2|2|14|83
+Kevin Jepsen|R|Kyle Blanks|R|Walk|F|Curveball|7|3|2|2|8|83
+Kevin Jepsen|R|Kyle Blanks|R|Walk|B|Curveball|8|3|2|2|12|83
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|B|Four-Seam Fastball|9|0|0|2|1|94
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|F|Four-Seam Fastball|10|1|0|2|4|93
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|C|Four-Seam Fastball|11|1|1|2|13|94
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|F|Curveball|12|1|2|2|14|82
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|F|Four-Seam Fastball|13|1|2|2|13|93
+Kevin Jepsen|R|Carlos Peguero|L|Strikeout|S|Four-Seam Fastball|14|1|2|2|5|93
+Kevin Jepsen|R|Elvis Andrus|R|Walk|C|Curveball|0|0|0|0|1|82
+Kevin Jepsen|R|Elvis Andrus|R|Walk|C|Curveball|1|0|1|0|6|81
+Kevin Jepsen|R|Elvis Andrus|R|Walk|F|Curveball|2|0|2|0|4|82
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Curveball|3|0|2|0|14|82
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|4|1|2|0|12|94
+Kevin Jepsen|R|Elvis Andrus|R|Walk|F|Curveball|5|2|2|0|6|82
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|6|2|2|0|12|94
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|7|3|2|0|12|93
+Kevin Jepsen|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|8|0|0|0|13|92
+Kevin Jepsen|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|9|1|0|0|13|92
+Kevin Jepsen|R|Prince Fielder|L|Walk|C|Four-Seam Fastball|10|2|0|0|13|91
+Kevin Jepsen|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|11|2|1|0|13|91
+Kevin Jepsen|R|Prince Fielder|L|Walk|F|Four-Seam Fastball|12|3|1|0|13|91
+Kevin Jepsen|R|Prince Fielder|L|Walk|B|Four-Seam Fastball|13|3|2|0|13|92
+Kevin Jepsen|R|Adrian Beltre|R|Single|B|Curveball|14|0|0|0|13|80
+Kevin Jepsen|R|Adrian Beltre|R|Single|E|Curveball|15|1|0|0|5|80
+Kevin Jepsen|R|Kyle Blanks|R|Grounded Into DP|B|Four-Seam Fastball|16|0|0|0|13|90
+Kevin Jepsen|R|Kyle Blanks|R|Grounded Into DP|C|Four-Seam Fastball|17|1|0|0|11|90
+Kevin Jepsen|R|Kyle Blanks|R|Grounded Into DP|X|Curveball|18|1|1|0|7|80
+Kevin Jepsen|R|Carlos Peguero|L|Walk|B|Four-Seam Fastball|19|0|0|2|13|91
+Kevin Jepsen|R|Carlos Peguero|L|Walk|B|Four-Seam Fastball|20|1|0|2|13|91
+Kevin Jepsen|R|Carlos Peguero|L|Walk|B|Four-Seam Fastball|21|2|0|2|11|92
+Kevin Jepsen|R|Carlos Peguero|L|Walk|B|Four-Seam Fastball|22|3|0|2|11|91
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|X|Four-Seam Fastball|1|1|0|0|14|93
+Kevin Jepsen|R|Brett Gardner|L|Walk|C|Four-Seam Fastball|2|0|0|1|11|93
+Kevin Jepsen|R|Brett Gardner|L|Walk|B|Curveball|3|0|1|1|13|81
+Kevin Jepsen|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|4|1|1|1|14|94
+Kevin Jepsen|R|Brett Gardner|L|Walk|B|Changeup|5|2|1|1|11|85
+Kevin Jepsen|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|6|3|1|1|14|93
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|9|94
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|B|Four-Seam Fastball|8|0|1|1|14|95
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|9|1|1|1|14|94
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|F|Four-Seam Fastball|10|1|2|1|6|95
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|F|Four-Seam Fastball|11|1|2|1|2|94
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|12|1|2|1|14|94
+Kevin Jepsen|R|Brian McCann|L|Groundout|C|Curveball|13|0|0|2|1|79
+Kevin Jepsen|R|Brian McCann|L|Groundout|X|Changeup|14|0|1|2|4|84
+Kevin Jepsen|R|Carlos Beltran|L|Groundout|C|Four-Seam Fastball|0|0|0|2|9|93
+Kevin Jepsen|R|Carlos Beltran|L|Groundout|X|Changeup|1|0|1|2|11|86
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|B|Four-Seam Fastball|2|0|0|0|14|93
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|B|Changeup|3|1|0|0|11|85
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|F|Four-Seam Fastball|4|2|0|0|4|94
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|C|Four-Seam Fastball|5|2|1|0|7|94
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|F|Four-Seam Fastball|6|2|2|0|11|95
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|B|Curveball|7|2|2|0|11|80
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|F|Four-Seam Fastball|8|3|2|0|3|95
+Kevin Jepsen|R|Stephen Drew|L|Strikeout|S|Four-Seam Fastball|9|3|2|0|11|94
+Kevin Jepsen|R|Chase Headley|L|Single|C|Curveball|10|0|0|1|1|79
+Kevin Jepsen|R|Chase Headley|L|Single|S|Changeup|11|0|1|1|11|83
+Kevin Jepsen|R|Chase Headley|L|Single|D|Four-Seam Fastball|12|0|2|1|4|95
+Kevin Jepsen|R|Didi Gregorius|L|Groundout|C|Four-Seam Fastball|13|0|0|1|7|93
+Kevin Jepsen|R|Didi Gregorius|L|Groundout|S|Changeup|14|0|1|1|13|86
+Kevin Jepsen|R|Didi Gregorius|L|Groundout|X|Changeup|15|0|2|1|13|83
+Kevin Jepsen|R|Brian Dozier|R|Sac Fly|C|Four-Seam Fastball|0|0|0|0|14|94
+Kevin Jepsen|R|Brian Dozier|R|Sac Fly|E|Four-Seam Fastball|1|0|1|0|8|93
+Kevin Jepsen|R|Torii Hunter|R|Groundout|F|Curveball|2|0|0|1|5|81
+Kevin Jepsen|R|Torii Hunter|R|Groundout|X|Curveball|3|0|1|1|14|81
+Kevin Jepsen|R|Joe Mauer|L|Groundout|X|Four-Seam Fastball|4|0|0|2|4|93
+Kevin Jepsen|R|Brian Dozier|R|Lineout|C|Curveball|0|0|0|0|1|80
+Kevin Jepsen|R|Brian Dozier|R|Lineout|C|Curveball|1|0|1|0|6|81
+Kevin Jepsen|R|Brian Dozier|R|Lineout|B|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Brian Dozier|R|Lineout|X|Curveball|3|1|2|0|6|82
+Kevin Jepsen|R|Torii Hunter|R|Single|D|Four-Seam Fastball|4|0|0|1|2|93
+Kevin Jepsen|R|Joe Mauer|L|Walk|C|Four-Seam Fastball|5|0|0|1|8|93
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|6|0|1|1|13|93
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Changeup|7|1|1|1|13|86
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Changeup|8|2|1|1|13|85
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Two-Seam Fastball|9|3|1|1|13|94
+Kevin Jepsen|R|Trevor Plouffe|R|Field Error|C|Four-Seam Fastball|10|0|0|1|9|95
+Kevin Jepsen|R|Trevor Plouffe|R|Field Error|B|Four-Seam Fastball|11|0|1|1|14|94
+Kevin Jepsen|R|Trevor Plouffe|R|Field Error|C|Four-Seam Fastball|12|1|1|1|9|93
+Kevin Jepsen|R|Trevor Plouffe|R|Field Error|D|Four-Seam Fastball|13|1|2|1|14|96
+Kevin Jepsen|R|Kurt Suzuki|R|Sac Fly|E|Four-Seam Fastball|14|0|0|1|12|94
+Kevin Jepsen|R|Eduardo Escobar|L|Single|B|Changeup|15|0|0|2|13|85
+Kevin Jepsen|R|Eduardo Escobar|L|Single|C|Four-Seam Fastball|16|1|0|2|13|93
+Kevin Jepsen|R|Eduardo Escobar|L|Single|E|Changeup|17|1|1|2|8|86
+Kevin Jepsen|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|0|0|0|0|13|94
+Kevin Jepsen|R|Cameron Maybin|R|Walk|C|Two-Seam Fastball|1|1|0|0|8|93
+Kevin Jepsen|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|2|1|1|0|14|95
+Kevin Jepsen|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|94
+Kevin Jepsen|R|Cameron Maybin|R|Walk|C|Four-Seam Fastball|4|3|1|0|3|93
+Kevin Jepsen|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|95
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|C|Four-Seam Fastball|6|0|0|0|13|93
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|B|Changeup|7|0|1|0|14|88
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|B|Changeup|8|1|1|0|13|86
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|B|Two-Seam Fastball|9|2|1|0|14|95
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|C|Two-Seam Fastball|10|3|1|0|14|93
+Kevin Jepsen|R|Alberto Callaspo|L|Lineout|X|Four-Seam Fastball|11|3|2|0|7|94
+Kevin Jepsen|R|Jace Peterson|L|Flyout|C|Four-Seam Fastball|12|0|0|1|13|94
+Kevin Jepsen|R|Jace Peterson|L|Flyout|B|Two-Seam Fastball|13|0|1|1|13|93
+Kevin Jepsen|R|Jace Peterson|L|Flyout|B|Changeup|14|1|1|1|11|87
+Kevin Jepsen|R|Jace Peterson|L|Flyout|B|Four-Seam Fastball|15|2|1|1|11|93
+Kevin Jepsen|R|Jace Peterson|L|Flyout|X|Four-Seam Fastball|16|3|1|1|4|92
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|B|Four-Seam Fastball|17|0|0|2|2|94
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|S|Four-Seam Fastball|18|1|0|2|1|93
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|S|Four-Seam Fastball|19|1|1|2|6|94
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|F|Four-Seam Fastball|20|1|2|2|2|94
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|F|Four-Seam Fastball|21|1|2|2|11|94
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|F|Curveball|22|1|2|2|11|78
+Kevin Jepsen|R|Pedro Ciriaco|R|Strikeout|T|Four-Seam Fastball|23|1|2|2|3|93
+Kevin Jepsen|R|Max Muncy|L|Groundout|C|Four-Seam Fastball|0|0|0|0|7|93
+Kevin Jepsen|R|Max Muncy|L|Groundout|S|Changeup|1|0|1|0|4|85
+Kevin Jepsen|R|Max Muncy|L|Groundout|B|Curveball|2|0|2|0|14|81
+Kevin Jepsen|R|Max Muncy|L|Groundout|F|Four-Seam Fastball|3|1|2|0|2|95
+Kevin Jepsen|R|Max Muncy|L|Groundout|X|Changeup|4|1|2|0|11|83
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|C|Changeup|5|0|0|1|8|85
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|S|Four-Seam Fastball|6|0|1|1|3|95
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|T|Four-Seam Fastball|7|0|2|1|12|95
+Kevin Jepsen|R|Sam Fuld|L|Walk|B|Four-Seam Fastball|8|0|0|2|13|94
+Kevin Jepsen|R|Sam Fuld|L|Walk|B|Four-Seam Fastball|9|1|0|2|13|94
+Kevin Jepsen|R|Sam Fuld|L|Walk|B|Four-Seam Fastball|10|2|0|2|14|93
+Kevin Jepsen|R|Sam Fuld|L|Walk|B|Four-Seam Fastball|11|3|0|2|14|92
+Kevin Jepsen|R|Eric Sogard|L|Caught Stealing 2B|B|Four-Seam Fastball|12|0|0|2|13|94
+Kevin Jepsen|R|Eric Sogard|L|Caught Stealing 2B|B|Four-Seam Fastball|13|1|0|2|11|94
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|3|94
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|94
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|C|Four-Seam Fastball|2|1|1|0|6|93
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|S|Curveball|3|1|2|0|13|82
+Kevin Jepsen|R|Max Muncy|L|Flyout|B|Four-Seam Fastball|4|0|0|0|13|92
+Kevin Jepsen|R|Max Muncy|L|Flyout|X|Four-Seam Fastball|5|1|0|0|6|92
+Kevin Jepsen|R|Marcus Semien|R|Groundout|C|Four-Seam Fastball|6|0|0|1|8|93
+Kevin Jepsen|R|Marcus Semien|R|Groundout|B|Four-Seam Fastball|7|0|1|1|11|94
+Kevin Jepsen|R|Marcus Semien|R|Groundout|T|Four-Seam Fastball|8|1|1|1|1|94
+Kevin Jepsen|R|Marcus Semien|R|Groundout|B|Four-Seam Fastball|9|1|2|1|14|94
+Kevin Jepsen|R|Marcus Semien|R|Groundout|X|Four-Seam Fastball|10|2|2|1|9|94
+Kevin Jepsen|R|Sam Fuld|L|Groundout|B|Four-Seam Fastball|11|0|0|2|11|93
+Kevin Jepsen|R|Sam Fuld|L|Groundout|C|Four-Seam Fastball|12|1|0|2|8|93
+Kevin Jepsen|R|Sam Fuld|L|Groundout|X|Four-Seam Fastball|13|1|1|2|6|94
+Kevin Jepsen|R|Brad Miller|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Brad Miller|L|Pop Out|C|Four-Seam Fastball|1|1|0|0|11|93
+Kevin Jepsen|R|Brad Miller|L|Pop Out|X|Four-Seam Fastball|2|1|1|0|9|94
+Kevin Jepsen|R|Chris Taylor|R|Strikeout|C|Curveball|3|0|0|1|8|81
+Kevin Jepsen|R|Chris Taylor|R|Strikeout|C|Curveball|4|0|1|1|14|81
+Kevin Jepsen|R|Chris Taylor|R|Strikeout|B|Four-Seam Fastball|5|0|2|1|11|94
+Kevin Jepsen|R|Chris Taylor|R|Strikeout|B|Curveball|6|1|2|1|14|82
+Kevin Jepsen|R|Chris Taylor|R|Strikeout|S|Four-Seam Fastball|7|2|2|1|6|96
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|8|0|0|2|12|94
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|C|Four-Seam Fastball|9|1|0|2|5|93
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|F|Curveball|10|1|1|2|14|81
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|11|1|2|2|12|94
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|S|Four-Seam Fastball|12|2|2|2|6|94
+Kevin Jepsen|R|Adam Jones|R|Groundout|C|Curveball|0|0|0|0|4|82
+Kevin Jepsen|R|Adam Jones|R|Groundout|T|Four-Seam Fastball|1|0|1|0|5|94
+Kevin Jepsen|R|Adam Jones|R|Groundout|F|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Adam Jones|R|Groundout|B|Curveball|3|0|2|0|13|80
+Kevin Jepsen|R|Adam Jones|R|Groundout|X|Curveball|4|1|2|0|13|81
+Kevin Jepsen|R|Chris Davis|L|Home Run|B|Curveball|5|0|0|1|11|81
+Kevin Jepsen|R|Chris Davis|L|Home Run|E|Four-Seam Fastball|6|1|0|1|6|95
+Kevin Jepsen|R|J.J. Hardy|R|Lineout|B|Four-Seam Fastball|7|0|0|1|12|94
+Kevin Jepsen|R|J.J. Hardy|R|Lineout|B|Four-Seam Fastball|8|1|0|1|11|94
+Kevin Jepsen|R|J.J. Hardy|R|Lineout|B|Four-Seam Fastball|9|2|0|1|14|94
+Kevin Jepsen|R|J.J. Hardy|R|Lineout|C|Four-Seam Fastball|10|3|0|1|6|94
+Kevin Jepsen|R|J.J. Hardy|R|Lineout|X|Four-Seam Fastball|11|3|1|1|5|94
+Kevin Jepsen|R|David Lough|L|Single|B|Changeup|12|0|0|2|11|84
+Kevin Jepsen|R|David Lough|L|Single|D|Four-Seam Fastball|13|1|0|2|14|94
+Kevin Jepsen|R|Caleb Joseph|R|Caught Stealing 2B|B|Four-Seam Fastball|14|0|0|2|14|95
+Kevin Jepsen|R|Caleb Joseph|R|Caught Stealing 2B|C|Four-Seam Fastball|15|1|0|2|9|94
+Kevin Jepsen|R|Caleb Joseph|R|Caught Stealing 2B|B|Four-Seam Fastball|16|1|1|2|12|95
+Kevin Jepsen|R|Caleb Joseph|R|Caught Stealing 2B|B|Four-Seam Fastball|17|2|1|2|14|94
+Kevin Jepsen|R|Albert Pujols|R|Single|C|Curveball|0|0|0|0|5|82
+Kevin Jepsen|R|Albert Pujols|R|Single|F|Four-Seam Fastball|1|0|1|0|14|95
+Kevin Jepsen|R|Albert Pujols|R|Single|B|Curveball|2|0|2|0|14|81
+Kevin Jepsen|R|Albert Pujols|R|Single|D|Curveball|3|1|2|0|8|81
+Kevin Jepsen|R|Kole Calhoun|L|Single|F|Four-Seam Fastball|4|0|0|0|7|95
+Kevin Jepsen|R|Kole Calhoun|L|Single|B|Four-Seam Fastball|5|0|1|0|11|97
+Kevin Jepsen|R|Kole Calhoun|L|Single|B|Changeup|6|1|1|0|14|85
+Kevin Jepsen|R|Kole Calhoun|L|Single|X|Four-Seam Fastball|7|2|1|0|8|95
+Kevin Jepsen|R|David Freese|R|Strikeout|C|Four-Seam Fastball|8|0|0|1|8|95
+Kevin Jepsen|R|David Freese|R|Strikeout|F|Four-Seam Fastball|9|0|1|1|3|97
+Kevin Jepsen|R|David Freese|R|Strikeout|B|Four-Seam Fastball|10|0|2|1|12|96
+Kevin Jepsen|R|David Freese|R|Strikeout|C|Changeup|11|1|2|1|8|86
+Kevin Jepsen|R|Mike Zunino|R|Walk|C|Four-Seam Fastball|0|0|0|0|6|95
+Kevin Jepsen|R|Mike Zunino|R|Walk|B|Four-Seam Fastball|1|0|1|0|14|96
+Kevin Jepsen|R|Mike Zunino|R|Walk|B|Two-Seam Fastball|2|1|1|0|14|96
+Kevin Jepsen|R|Mike Zunino|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|96
+Kevin Jepsen|R|Mike Zunino|R|Walk|B|Four-Seam Fastball|4|3|1|0|11|96
+Kevin Jepsen|R|Dustin Ackley|L|Sac Bunt|L|Four-Seam Fastball|5|0|0|0|11|93
+Kevin Jepsen|R|Dustin Ackley|L|Sac Bunt|X|Two-Seam Fastball|6|0|1|0|1|94
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|7|0|0|1|11|95
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|C|Four-Seam Fastball|8|1|0|1|7|95
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|*B|Curveball|9|1|1|1|14|83
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|F|Four-Seam Fastball|10|2|1|1|8|94
+Kevin Jepsen|R|Austin Jackson|R|Strikeout|T|Four-Seam Fastball|11|2|2|1|5|96
+Kevin Jepsen|R|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|12|0|0|2|13|95
+Kevin Jepsen|R|Robinson Cano|L|Strikeout|B|Four-Seam Fastball|13|0|1|2|13|95
+Kevin Jepsen|R|Robinson Cano|L|Strikeout|C|Four-Seam Fastball|14|1|1|2|13|96
+Kevin Jepsen|R|Robinson Cano|L|Strikeout|S|Four-Seam Fastball|15|1|2|2|1|97
+Kevin Jepsen|R|Austin Jackson|R|Triple|C|Four-Seam Fastball|0|0|0|2|1|96
+Kevin Jepsen|R|Austin Jackson|R|Triple|F|Four-Seam Fastball|1|0|1|2|3|96
+Kevin Jepsen|R|Austin Jackson|R|Triple|B|Four-Seam Fastball|2|0|2|2|12|97
+Kevin Jepsen|R|Austin Jackson|R|Triple|D|Four-Seam Fastball|3|1|2|2|3|96
+Kevin Jepsen|R|Brad Miller|L|Strikeout|B|Four-Seam Fastball|4|0|0|2|11|97
+Kevin Jepsen|R|Brad Miller|L|Strikeout|C|Four-Seam Fastball|5|1|0|2|7|96
+Kevin Jepsen|R|Brad Miller|L|Strikeout|S|Four-Seam Fastball|6|1|1|2|1|96
+Kevin Jepsen|R|Brad Miller|L|Strikeout|T|Two-Seam Fastball|7|1|2|2|11|96
+Kevin Jepsen|R|Mike Zunino|R|Flyout|C|Four-Seam Fastball|8|0|0|0|12|96
+Kevin Jepsen|R|Mike Zunino|R|Flyout|*B|Curveball|9|0|1|0|14|84
+Kevin Jepsen|R|Mike Zunino|R|Flyout|B|Four-Seam Fastball|10|1|1|0|12|97
+Kevin Jepsen|R|Mike Zunino|R|Flyout|C|Two-Seam Fastball|11|2|1|0|12|97
+Kevin Jepsen|R|Mike Zunino|R|Flyout|F|Four-Seam Fastball|12|2|2|0|3|97
+Kevin Jepsen|R|Mike Zunino|R|Flyout|F|Four-Seam Fastball|13|2|2|0|3|97
+Kevin Jepsen|R|Mike Zunino|R|Flyout|*B|Curveball|14|2|2|0|14|82
+Kevin Jepsen|R|Mike Zunino|R|Flyout|F|Four-Seam Fastball|15|3|2|0|14|96
+Kevin Jepsen|R|Mike Zunino|R|Flyout|X|Four-Seam Fastball|16|3|2|0|12|96
+Kevin Jepsen|R|Dustin Ackley|L|Flyout|C|Four-Seam Fastball|17|0|0|1|11|95
+Kevin Jepsen|R|Dustin Ackley|L|Flyout|X|Four-Seam Fastball|18|0|1|1|5|96
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|95
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|C|Curveball|1|0|1|0|9|83
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|W|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Kyle Seager|L|Lineout|C|Four-Seam Fastball|3|0|0|1|6|95
+Kevin Jepsen|R|Kyle Seager|L|Lineout|B|Curveball|4|0|1|1|14|83
+Kevin Jepsen|R|Kyle Seager|L|Lineout|X|Four-Seam Fastball|5|1|1|1|11|96
+Kevin Jepsen|R|Mark Trumbo|R|Field Error|S|Four-Seam Fastball|6|0|0|2|3|95
+Kevin Jepsen|R|Mark Trumbo|R|Field Error|D|Curveball|7|0|1|2|13|82
+Kevin Jepsen|R|Logan Morrison|L|Single|F|Four-Seam Fastball|8|0|0|2|11|96
+Kevin Jepsen|R|Logan Morrison|L|Single|C|Four-Seam Fastball|9|0|1|2|4|95
+Kevin Jepsen|R|Logan Morrison|L|Single|*B|Curveball|10|0|2|2|14|80
+Kevin Jepsen|R|Logan Morrison|L|Single|*B|Curveball|11|1|2|2|13|82
+Kevin Jepsen|R|Logan Morrison|L|Single|D|Curveball|12|2|2|2|13|81
+Kevin Jepsen|R|Brad Miller|L|Flyout|C|Four-Seam Fastball|13|0|0|2|13|94
+Kevin Jepsen|R|Brad Miller|L|Flyout|*B|N/A|14|0|1|2|0|0
+Kevin Jepsen|R|Brad Miller|L|Flyout|S|Four-Seam Fastball|15|1|1|2|4|95
+Kevin Jepsen|R|Brad Miller|L|Flyout|X|Two-Seam Fastball|16|1|2|2|3|95
+Kevin Jepsen|R|Matt Joyce|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|1|1|0|0|11|92
+Kevin Jepsen|R|C.J. Cron|R|Groundout|C|Four-Seam Fastball|2|0|0|1|11|94
+Kevin Jepsen|R|C.J. Cron|R|Groundout|B|Curveball|3|0|1|1|13|81
+Kevin Jepsen|R|C.J. Cron|R|Groundout|F|Four-Seam Fastball|4|1|1|1|3|94
+Kevin Jepsen|R|C.J. Cron|R|Groundout|X|Four-Seam Fastball|5|1|2|1|7|95
+Kevin Jepsen|R|Kyle Kubitza|L|Single|S|Changeup|6|0|0|2|13|84
+Kevin Jepsen|R|Kyle Kubitza|L|Single|D|Changeup|7|0|1|2|8|82
+Kevin Jepsen|R|Johnny Giavotella|R|Walk|*B|Four-Seam Fastball|8|0|0|2|14|93
+Kevin Jepsen|R|Johnny Giavotella|R|Walk|C|Four-Seam Fastball|9|1|0|2|8|93
+Kevin Jepsen|R|Johnny Giavotella|R|Walk|B|Four-Seam Fastball|10|1|1|2|14|93
+Kevin Jepsen|R|Johnny Giavotella|R|Walk|B|Four-Seam Fastball|11|2|1|2|11|93
+Kevin Jepsen|R|Johnny Giavotella|R|Walk|B|Four-Seam Fastball|12|3|1|2|13|92
+Kevin Jepsen|R|Erick Aybar|L|Groundout|C|Four-Seam Fastball|13|0|0|2|4|94
+Kevin Jepsen|R|Erick Aybar|L|Groundout|F|Four-Seam Fastball|14|0|1|2|2|94
+Kevin Jepsen|R|Erick Aybar|L|Groundout|*B|Curveball|15|0|2|2|14|79
+Kevin Jepsen|R|Erick Aybar|L|Groundout|F|Changeup|16|1|2|2|13|80
+Kevin Jepsen|R|Erick Aybar|L|Groundout|B|Four-Seam Fastball|17|1|2|2|11|94
+Kevin Jepsen|R|Erick Aybar|L|Groundout|F|Four-Seam Fastball|18|2|2|2|1|95
+Kevin Jepsen|R|Erick Aybar|L|Groundout|X|Four-Seam Fastball|19|2|2|2|14|95
+Kevin Jepsen|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Matt Joyce|L|Walk|B|Changeup|1|1|0|0|11|83
+Kevin Jepsen|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|2|2|0|0|14|94
+Kevin Jepsen|R|Matt Joyce|L|Walk|C|Four-Seam Fastball|3|3|0|0|8|92
+Kevin Jepsen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|4|3|1|0|11|93
+Kevin Jepsen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|5|3|2|0|8|93
+Kevin Jepsen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|6|3|2|0|8|93
+Kevin Jepsen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|7|3|2|0|11|93
+Kevin Jepsen|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|8|3|2|0|11|94
+Kevin Jepsen|R|Matt Joyce|L|Walk|B|Four-Seam Fastball|9|3|2|0|13|94
+Kevin Jepsen|R|Efren Navarro|L|Single|C|Four-Seam Fastball|10|0|0|0|13|92
+Kevin Jepsen|R|Efren Navarro|L|Single|B|Four-Seam Fastball|11|0|1|0|11|92
+Kevin Jepsen|R|Efren Navarro|L|Single|B|Four-Seam Fastball|12|1|1|0|11|92
+Kevin Jepsen|R|Efren Navarro|L|Single|F|Four-Seam Fastball|13|2|1|0|11|92
+Kevin Jepsen|R|Efren Navarro|L|Single|D|Four-Seam Fastball|14|2|2|0|11|93
+Kevin Jepsen|R|Chris Iannetta|R|Strikeout|F|Four-Seam Fastball|15|0|0|0|2|92
+Kevin Jepsen|R|Chris Iannetta|R|Strikeout|B|Changeup|16|0|1|0|11|81
+Kevin Jepsen|R|Chris Iannetta|R|Strikeout|S|Changeup|17|1|1|0|13|83
+Kevin Jepsen|R|Chris Iannetta|R|Strikeout|C|Changeup|18|1|2|0|14|80
+Kevin Jepsen|R|Kyle Kubitza|L|Single|B|Four-Seam Fastball|19|0|0|1|11|94
+Kevin Jepsen|R|Kyle Kubitza|L|Single|S|Changeup|20|1|0|1|13|83
+Kevin Jepsen|R|Kyle Kubitza|L|Single|B|Four-Seam Fastball|21|1|1|1|11|94
+Kevin Jepsen|R|Kyle Kubitza|L|Single|B|Four-Seam Fastball|22|2|1|1|11|92
+Kevin Jepsen|R|Kyle Kubitza|L|Single|C|Four-Seam Fastball|23|3|1|1|5|93
+Kevin Jepsen|R|Kyle Kubitza|L|Single|F|Four-Seam Fastball|24|3|2|1|4|94
+Kevin Jepsen|R|Kyle Kubitza|L|Single|E|Four-Seam Fastball|25|3|2|1|13|94
+Kevin Jepsen|R|Avisail Garcia|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|95
+Kevin Jepsen|R|Avisail Garcia|R|Pop Out|X|Four-Seam Fastball|1|1|0|0|2|95
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|C|Four-Seam Fastball|2|0|0|1|4|94
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|X|Four-Seam Fastball|3|0|1|1|1|95
+Kevin Jepsen|R|Conor Gillaspie|L|Strikeout|C|Four-Seam Fastball|4|0|0|2|4|93
+Kevin Jepsen|R|Conor Gillaspie|L|Strikeout|S|Curveball|5|0|1|2|14|82
+Kevin Jepsen|R|Conor Gillaspie|L|Strikeout|W|Curveball|6|0|2|2|14|82
+Kevin Jepsen|R|Clint Robinson|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|95
+Kevin Jepsen|R|Clint Robinson|L|Flyout|F|Four-Seam Fastball|1|1|0|0|13|94
+Kevin Jepsen|R|Clint Robinson|L|Flyout|C|Four-Seam Fastball|2|1|1|0|13|95
+Kevin Jepsen|R|Clint Robinson|L|Flyout|B|Curveball|3|1|2|0|14|82
+Kevin Jepsen|R|Clint Robinson|L|Flyout|B|Curveball|4|2|2|0|11|83
+Kevin Jepsen|R|Clint Robinson|L|Flyout|F|Four-Seam Fastball|5|3|2|0|13|97
+Kevin Jepsen|R|Clint Robinson|L|Flyout|X|Four-Seam Fastball|6|3|2|0|11|95
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|B|Four-Seam Fastball|7|0|0|1|11|95
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|B|Four-Seam Fastball|8|1|0|1|11|95
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|F|Four-Seam Fastball|9|2|0|1|13|95
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|F|Four-Seam Fastball|10|2|1|1|13|95
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|B|Changeup|11|2|2|1|13|84
+Kevin Jepsen|R|Danny Espinosa|L|Pop Out|X|Four-Seam Fastball|12|3|2|1|1|95
+Kevin Jepsen|R|Ian Desmond|R|Groundout|X|Four-Seam Fastball|13|0|0|2|8|95
+Kevin Jepsen|R|Denard Span|L|Single|C|Changeup|0|0|0|2|14|85
+Kevin Jepsen|R|Denard Span|L|Single|D|Four-Seam Fastball|1|0|1|2|13|95
+Kevin Jepsen|R|Anthony Rendon|R|Grounded Into DP|B|Four-Seam Fastball|2|0|0|2|12|95
+Kevin Jepsen|R|Anthony Rendon|R|Grounded Into DP|B|Two-Seam Fastball|3|1|0|2|14|95
+Kevin Jepsen|R|Anthony Rendon|R|Grounded Into DP|C|Two-Seam Fastball|4|2|0|2|14|94
+Kevin Jepsen|R|Anthony Rendon|R|Grounded Into DP|B|Four-Seam Fastball|5|2|1|2|14|95
+Kevin Jepsen|R|Anthony Rendon|R|Grounded Into DP|X|Two-Seam Fastball|6|3|1|2|14|94
+Kevin Jepsen|R|Yunel Escobar|R|Single|B|Curveball|7|0|0|1|11|82
+Kevin Jepsen|R|Yunel Escobar|R|Single|D|Four-Seam Fastball|8|1|0|1|8|94
+Kevin Jepsen|R|Clint Robinson|L|Walk|B|Changeup|9|0|0|1|13|85
+Kevin Jepsen|R|Clint Robinson|L|Walk|B|Changeup|10|1|0|1|13|86
+Kevin Jepsen|R|Clint Robinson|L|Walk|S|Changeup|11|2|0|1|13|84
+Kevin Jepsen|R|Clint Robinson|L|Walk|B|Curveball|12|2|1|1|14|82
+Kevin Jepsen|R|Clint Robinson|L|Walk|B|Changeup|13|3|1|1|11|85
+Kevin Jepsen|R|Wilson Ramos|R|Groundout|B|Four-Seam Fastball|14|0|0|1|12|94
+Kevin Jepsen|R|Wilson Ramos|R|Groundout|T|Four-Seam Fastball|15|1|0|1|12|95
+Kevin Jepsen|R|Wilson Ramos|R|Groundout|X|Curveball|16|1|1|1|5|83
+Kevin Jepsen|R|Roberto Perez|R|Single|B|Four-Seam Fastball|0|0|0|0|12|93
+Kevin Jepsen|R|Roberto Perez|R|Single|D|Four-Seam Fastball|1|1|0|0|5|94
+Kevin Jepsen|R|Jason Kipnis|L|Single|B|Four-Seam Fastball|2|0|0|0|14|94
+Kevin Jepsen|R|Jason Kipnis|L|Single|D|Changeup|3|1|0|0|5|86
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|S|Curveball|4|0|0|0|9|82
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|B|Four-Seam Fastball|5|0|1|0|12|95
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|S|Curveball|6|1|1|0|14|83
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|*B|Curveball|7|1|2|0|14|82
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|X|Curveball|8|2|2|0|2|81
+Kevin Jepsen|R|Michael Brantley|L|Intent Walk|I|Intentional Ball|9|0|0|1|4|47
+Kevin Jepsen|R|Michael Brantley|L|Intent Walk|I|Intentional Ball|10|0|1|1|11|50
+Kevin Jepsen|R|Michael Brantley|L|Intent Walk|I|Intentional Ball|11|0|2|1|11|48
+Kevin Jepsen|R|Michael Brantley|L|Intent Walk|I|Intentional Ball|12|0|2|1|11|45
+Kevin Jepsen|R|David Murphy|L|Sac Fly|B|Four-Seam Fastball|13|0|0|1|11|93
+Kevin Jepsen|R|David Murphy|L|Sac Fly|B|Four-Seam Fastball|14|1|0|1|12|92
+Kevin Jepsen|R|David Murphy|L|Sac Fly|C|Four-Seam Fastball|15|2|0|1|4|92
+Kevin Jepsen|R|David Murphy|L|Sac Fly|B|Curveball|16|2|1|1|11|81
+Kevin Jepsen|R|David Murphy|L|Sac Fly|E|Four-Seam Fastball|17|3|1|1|4|92
+Kevin Jepsen|R|Russell Martin|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Russell Martin|R|Strikeout|*B|Curveball|1|1|0|0|14|81
+Kevin Jepsen|R|Russell Martin|R|Strikeout|F|Four-Seam Fastball|2|2|0|0|9|93
+Kevin Jepsen|R|Russell Martin|R|Strikeout|F|Four-Seam Fastball|3|2|1|0|11|95
+Kevin Jepsen|R|Russell Martin|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|8|94
+Kevin Jepsen|R|Chris Colabello|R|Strikeout|F|Four-Seam Fastball|5|0|0|1|11|94
+Kevin Jepsen|R|Chris Colabello|R|Strikeout|W|Curveball|6|0|1|1|14|82
+Kevin Jepsen|R|Chris Colabello|R|Strikeout|S|Four-Seam Fastball|7|0|2|1|1|93
+Kevin Jepsen|R|Kevin Pillar|R|Pop Out|C|Four-Seam Fastball|8|0|0|2|4|94
+Kevin Jepsen|R|Kevin Pillar|R|Pop Out|*B|Curveball|9|0|1|2|14|82
+Kevin Jepsen|R|Kevin Pillar|R|Pop Out|B|Four-Seam Fastball|10|1|1|2|14|95
+Kevin Jepsen|R|Kevin Pillar|R|Pop Out|X|Four-Seam Fastball|11|2|1|2|11|93
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Single|B|Four-Seam Fastball|0|0|0|2|11|94
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Single|C|Four-Seam Fastball|1|1|0|2|1|94
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Single|D|Changeup|2|1|1|2|4|87
+Kevin Jepsen|R|Mookie Betts|R|Forceout|B|Four-Seam Fastball|3|0|0|2|12|94
+Kevin Jepsen|R|Mookie Betts|R|Forceout|C|Four-Seam Fastball|4|1|0|2|8|93
+Kevin Jepsen|R|Mookie Betts|R|Forceout|C|Four-Seam Fastball|5|1|1|2|12|95
+Kevin Jepsen|R|Mookie Betts|R|Forceout|X|Four-Seam Fastball|6|1|2|2|14|95
+Kevin Jepsen|R|Brock Holt|L|Strikeout|B|Four-Seam Fastball|7|0|0|0|13|91
+Kevin Jepsen|R|Brock Holt|L|Strikeout|S|Four-Seam Fastball|8|1|0|0|13|93
+Kevin Jepsen|R|Brock Holt|L|Strikeout|F|Curveball|9|1|1|0|13|83
+Kevin Jepsen|R|Brock Holt|L|Strikeout|B|Curveball|10|1|2|0|14|80
+Kevin Jepsen|R|Brock Holt|L|Strikeout|B|Four-Seam Fastball|11|2|2|0|11|93
+Kevin Jepsen|R|Brock Holt|L|Strikeout|C|Four-Seam Fastball|12|3|2|0|13|93
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|4|92
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|S|Changeup|2|1|1|0|11|84
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|F|Curveball|3|1|2|0|13|80
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|B|Changeup|4|1|2|0|13|83
+Kevin Jepsen|R|Pablo Sandoval|L|Strikeout|S|Four-Seam Fastball|5|2|2|0|11|94
+Kevin Jepsen|R|Mike Napoli|R|Flyout|X|Four-Seam Fastball|6|0|0|1|12|94
+Kevin Jepsen|R|Alejandro De Aza|L|Home Run|E|Four-Seam Fastball|7|0|0|2|5|92
+Kevin Jepsen|R|Sandy Leon|L|Strikeout|F|Four-Seam Fastball|8|0|0|2|5|92
+Kevin Jepsen|R|Sandy Leon|L|Strikeout|B|Curveball|9|0|1|2|11|82
+Kevin Jepsen|R|Sandy Leon|L|Strikeout|F|Changeup|10|1|1|2|4|84
+Kevin Jepsen|R|Sandy Leon|L|Strikeout|C|Curveball|11|1|2|2|8|82
+Kevin Jepsen|R|Yan Gomes|R|Single|B|Four-Seam Fastball|0|0|0|0|14|94
+Kevin Jepsen|R|Yan Gomes|R|Single|F|Four-Seam Fastball|1|1|0|0|2|94
+Kevin Jepsen|R|Yan Gomes|R|Single|S|Four-Seam Fastball|2|1|1|0|11|95
+Kevin Jepsen|R|Yan Gomes|R|Single|B|Curveball|3|1|2|0|14|81
+Kevin Jepsen|R|Yan Gomes|R|Single|F|Four-Seam Fastball|4|2|2|0|12|95
+Kevin Jepsen|R|Yan Gomes|R|Single|F|Four-Seam Fastball|5|2|2|0|11|96
+Kevin Jepsen|R|Yan Gomes|R|Single|F|Four-Seam Fastball|6|2|2|0|11|95
+Kevin Jepsen|R|Yan Gomes|R|Single|F|Curveball|7|2|2|0|14|81
+Kevin Jepsen|R|Yan Gomes|R|Single|D|Four-Seam Fastball|8|2|2|0|12|96
+Kevin Jepsen|R|Brandon Moss|L|Flyout|S|Changeup|9|0|0|0|13|83
+Kevin Jepsen|R|Brandon Moss|L|Flyout|*B|Changeup|10|0|1|0|13|82
+Kevin Jepsen|R|Brandon Moss|L|Flyout|X|Four-Seam Fastball|11|1|1|0|13|94
+Kevin Jepsen|R|Gio Urshela|R|Double Play|C|Curveball|12|0|0|1|4|81
+Kevin Jepsen|R|Gio Urshela|R|Double Play|B|Four-Seam Fastball|13|0|1|1|12|94
+Kevin Jepsen|R|Gio Urshela|R|Double Play|X|Four-Seam Fastball|14|1|1|1|9|94
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|92
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|2|1|1|0|11|94
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|F|Four-Seam Fastball|3|1|2|0|12|95
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|B|Curveball|4|1|2|0|14|82
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|B|Four-Seam Fastball|5|2|2|0|11|95
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|6|3|2|0|8|95
+Kevin Jepsen|R|Chase Headley|L|Single|S|Changeup|7|0|0|1|13|86
+Kevin Jepsen|R|Chase Headley|L|Single|B|Four-Seam Fastball|8|0|1|1|11|95
+Kevin Jepsen|R|Chase Headley|L|Single|D|Four-Seam Fastball|9|1|1|1|8|95
+Kevin Jepsen|R|Alex Rodriguez|R|Single|T|Four-Seam Fastball|10|0|0|1|14|95
+Kevin Jepsen|R|Alex Rodriguez|R|Single|C|Four-Seam Fastball|11|0|1|1|14|95
+Kevin Jepsen|R|Alex Rodriguez|R|Single|D|Four-Seam Fastball|12|0|2|1|14|95
+Kevin Jepsen|R|Mark Teixeira|L|Home Run|*B|Four-Seam Fastball|13|0|0|1|13|94
+Kevin Jepsen|R|Mark Teixeira|L|Home Run|E|Changeup|14|1|0|1|4|84
+Kevin Jepsen|R|Brian McCann|L|Walk|B|Four-Seam Fastball|15|0|0|1|13|93
+Kevin Jepsen|R|Brian McCann|L|Walk|B|Four-Seam Fastball|16|1|0|1|11|92
+Kevin Jepsen|R|Brian McCann|L|Walk|B|Four-Seam Fastball|17|2|0|1|13|92
+Kevin Jepsen|R|Brian McCann|L|Walk|B|Four-Seam Fastball|18|3|0|1|13|92
+Kevin Jepsen|R|Garrett Jones|L|Walk|B|Four-Seam Fastball|19|0|0|1|11|92
+Kevin Jepsen|R|Garrett Jones|L|Walk|C|Curveball|20|1|0|1|5|82
+Kevin Jepsen|R|Garrett Jones|L|Walk|B|Four-Seam Fastball|21|1|1|1|11|92
+Kevin Jepsen|R|Garrett Jones|L|Walk|B|Curveball|22|2|1|1|11|80
+Kevin Jepsen|R|Garrett Jones|L|Walk|*B|Changeup|23|3|1|1|13|84
+Kevin Jepsen|R|Alex Rios|R|Forceout|X|Curveball|0|0|0|1|14|83
+Kevin Jepsen|R|Omar Infante|R|Single|B|Four-Seam Fastball|1|0|0|2|11|95
+Kevin Jepsen|R|Omar Infante|R|Single|C|Four-Seam Fastball|2|1|0|2|6|95
+Kevin Jepsen|R|Omar Infante|R|Single|E|Two-Seam Fastball|3|1|1|2|11|95
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|F|Four-Seam Fastball|4|0|0|2|7|95
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|W|Curveball|5|0|1|2|14|84
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|X|Curveball|6|0|2|2|4|82
+Kevin Jepsen|R|Hank Conger|L|Groundout|F|Four-Seam Fastball|0|0|0|0|5|95
+Kevin Jepsen|R|Hank Conger|L|Groundout|B|Curveball|1|0|1|0|13|83
+Kevin Jepsen|R|Hank Conger|L|Groundout|B|Four-Seam Fastball|2|1|1|0|11|96
+Kevin Jepsen|R|Hank Conger|L|Groundout|B|Four-Seam Fastball|3|2|1|0|11|94
+Kevin Jepsen|R|Hank Conger|L|Groundout|X|Four-Seam Fastball|4|3|1|0|8|94
+Kevin Jepsen|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|5|0|0|1|5|95
+Kevin Jepsen|R|Jose Altuve|R|Flyout|F|Curveball|6|0|1|1|8|83
+Kevin Jepsen|R|Jose Altuve|R|Flyout|B|Curveball|7|0|2|1|14|83
+Kevin Jepsen|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|8|1|2|1|12|95
+Kevin Jepsen|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|9|1|2|1|14|95
+Kevin Jepsen|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|10|2|2|1|12|95
+Kevin Jepsen|R|Preston Tucker|L|Lineout|X|Four-Seam Fastball|0|0|0|0|13|93
+Kevin Jepsen|R|Carlos Correa|R|Groundout|C|Four-Seam Fastball|1|0|0|1|14|94
+Kevin Jepsen|R|Carlos Correa|R|Groundout|X|Curveball|2|0|1|1|14|82
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|S|Curveball|3|0|0|2|14|80
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|B|Curveball|4|0|1|2|11|82
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|F|Changeup|5|1|1|2|13|83
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|B|Four-Seam Fastball|6|1|2|2|12|92
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|F|Changeup|7|2|2|2|7|81
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|B|Curveball|8|2|2|2|13|81
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|F|Four-Seam Fastball|9|3|2|2|7|95
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|F|Four-Seam Fastball|10|3|2|2|4|94
+Kevin Jepsen|R|Colby Rasmus|L|Groundout|X|Four-Seam Fastball|11|3|2|2|14|95
+Kevin Jepsen|R|Chris Carter|R|Lineout|X|Four-Seam Fastball|0|0|0|0|6|94
+Kevin Jepsen|R|L.J. Hoes|R|Strikeout|B|Four-Seam Fastball|1|0|0|1|2|94
+Kevin Jepsen|R|L.J. Hoes|R|Strikeout|B|Four-Seam Fastball|2|1|0|1|14|93
+Kevin Jepsen|R|L.J. Hoes|R|Strikeout|S|Four-Seam Fastball|3|2|0|1|5|94
+Kevin Jepsen|R|L.J. Hoes|R|Strikeout|C|Four-Seam Fastball|4|2|1|1|9|94
+Kevin Jepsen|R|L.J. Hoes|R|Strikeout|S|Four-Seam Fastball|5|2|2|1|12|96
+Kevin Jepsen|R|Preston Tucker|L|Groundout|F|Changeup|6|0|0|2|13|85
+Kevin Jepsen|R|Preston Tucker|L|Groundout|S|Curveball|7|0|1|2|14|82
+Kevin Jepsen|R|Preston Tucker|L|Groundout|B|Curveball|8|0|2|2|14|82
+Kevin Jepsen|R|Preston Tucker|L|Groundout|B|Four-Seam Fastball|9|1|2|2|12|94
+Kevin Jepsen|R|Preston Tucker|L|Groundout|X|Curveball|10|2|2|2|7|82
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|B|Curveball|0|0|0|2|11|80
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|1|1|0|2|5|95
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|B|Two-Seam Fastball|2|1|1|2|14|95
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|3|2|1|2|3|95
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|B|Four-Seam Fastball|4|2|2|2|14|96
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|5|3|2|2|8|95
+Kevin Jepsen|R|Ezequiel Carrera|L|Groundout|F|Changeup|6|0|0|0|6|86
+Kevin Jepsen|R|Ezequiel Carrera|L|Groundout|C|Curveball|7|0|1|0|6|82
+Kevin Jepsen|R|Ezequiel Carrera|L|Groundout|B|Curveball|8|0|2|0|14|82
+Kevin Jepsen|R|Ezequiel Carrera|L|Groundout|X|Four-Seam Fastball|9|1|2|0|8|95
+Kevin Jepsen|R|Devon Travis|R|Pop Out|B|Four-Seam Fastball|10|0|0|1|14|95
+Kevin Jepsen|R|Devon Travis|R|Pop Out|B|Two-Seam Fastball|11|1|0|1|14|95
+Kevin Jepsen|R|Devon Travis|R|Pop Out|X|Four-Seam Fastball|12|2|0|1|4|94
+Kevin Jepsen|R|Odubel Herrera|L|Strikeout|F|Four-Seam Fastball|0|0|0|0|2|96
+Kevin Jepsen|R|Odubel Herrera|L|Strikeout|C|Curveball|1|0|1|0|2|81
+Kevin Jepsen|R|Odubel Herrera|L|Strikeout|F|Curveball|2|0|2|0|14|80
+Kevin Jepsen|R|Odubel Herrera|L|Strikeout|W|Curveball|3|0|2|0|14|82
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|C|Four-Seam Fastball|4|0|0|1|6|97
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|B|Changeup|5|0|1|1|14|88
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|B|Curveball|6|1|1|1|11|83
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|B|Four-Seam Fastball|7|2|1|1|11|97
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|F|Four-Seam Fastball|8|3|1|1|7|95
+Kevin Jepsen|R|Freddy Galvis|L|Strikeout|W|Four-Seam Fastball|9|3|2|1|13|96
+Kevin Jepsen|R|Cesar Hernandez|L|Lineout|B|Curveball|10|0|0|2|11|82
+Kevin Jepsen|R|Cesar Hernandez|L|Lineout|S|Four-Seam Fastball|11|1|0|2|14|95
+Kevin Jepsen|R|Cesar Hernandez|L|Lineout|X|Four-Seam Fastball|12|1|1|2|8|95
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|B|Two-Seam Fastball|0|0|0|2|12|95
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|C|Two-Seam Fastball|1|1|0|2|14|95
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|B|Four-Seam Fastball|2|1|1|2|12|95
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|F|Four-Seam Fastball|3|2|1|2|12|95
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|B|Four-Seam Fastball|4|2|2|2|12|96
+Kevin Jepsen|R|Carlos Ruiz|R|Lineout|X|Four-Seam Fastball|5|3|2|2|6|95
+Kevin Jepsen|R|Cody Asche|L|Single|B|Curveball|6|0|0|0|12|81
+Kevin Jepsen|R|Cody Asche|L|Single|D|Curveball|7|1|0|0|6|82
+Kevin Jepsen|R|Maikel Franco|R|Walk|B|Curveball|8|0|0|0|12|82
+Kevin Jepsen|R|Maikel Franco|R|Walk|B|Four-Seam Fastball|9|1|0|0|12|95
+Kevin Jepsen|R|Maikel Franco|R|Walk|B|Four-Seam Fastball|10|2|0|0|12|95
+Kevin Jepsen|R|Maikel Franco|R|Walk|B|Two-Seam Fastball|11|3|0|0|13|94
+Kevin Jepsen|R|Ben Revere|L|Single|B|Two-Seam Fastball|12|0|0|0|11|96
+Kevin Jepsen|R|Ben Revere|L|Single|B|Four-Seam Fastball|13|1|0|0|11|94
+Kevin Jepsen|R|Ben Revere|L|Single|C|Two-Seam Fastball|14|2|0|0|8|94
+Kevin Jepsen|R|Ben Revere|L|Single|B|Four-Seam Fastball|15|2|1|0|11|95
+Kevin Jepsen|R|Ben Revere|L|Single|D|Four-Seam Fastball|16|3|1|0|1|94
+Kevin Jepsen|R|Freddy Galvis|L|Grounded Into DP|B|Curveball|17|0|0|0|11|81
+Kevin Jepsen|R|Freddy Galvis|L|Grounded Into DP|S|Four-Seam Fastball|18|1|0|0|11|96
+Kevin Jepsen|R|Freddy Galvis|L|Grounded Into DP|X|Four-Seam Fastball|19|1|1|0|3|96
+Kevin Jepsen|R|J.D. Martinez|R|Forceout|C|Four-Seam Fastball|0|0|0|0|9|95
+Kevin Jepsen|R|J.D. Martinez|R|Forceout|W|Curveball|1|0|1|0|14|82
+Kevin Jepsen|R|J.D. Martinez|R|Forceout|X|Curveball|2|0|2|0|13|82
+Kevin Jepsen|R|Nicholas Castellanos|R|Strikeout|S|Curveball|3|0|0|1|14|82
+Kevin Jepsen|R|Nicholas Castellanos|R|Strikeout|*B|Curveball|4|0|1|1|13|83
+Kevin Jepsen|R|Nicholas Castellanos|R|Strikeout|S|Curveball|5|1|1|1|14|82
+Kevin Jepsen|R|Nicholas Castellanos|R|Strikeout|B|Four-Seam Fastball|6|1|2|1|12|94
+Kevin Jepsen|R|Nicholas Castellanos|R|Strikeout|W|Curveball|7|2|2|1|14|82
+Kevin Jepsen|R|Alex Avila|L|Walk|*B|Changeup|8|0|0|2|13|85
+Kevin Jepsen|R|Alex Avila|L|Walk|B|Four-Seam Fastball|9|1|0|2|13|94
+Kevin Jepsen|R|Alex Avila|L|Walk|C|Four-Seam Fastball|10|2|0|2|11|94
+Kevin Jepsen|R|Alex Avila|L|Walk|B|Four-Seam Fastball|11|2|1|2|13|93
+Kevin Jepsen|R|Alex Avila|L|Walk|B|Four-Seam Fastball|12|3|1|2|13|93
+Kevin Jepsen|R|Jose Iglesias|R|Flyout|B|Curveball|13|0|0|2|11|82
+Kevin Jepsen|R|Jose Iglesias|R|Flyout|*B|Four-Seam Fastball|14|1|0|2|13|94
+Kevin Jepsen|R|Jose Iglesias|R|Flyout|B|Four-Seam Fastball|15|2|0|2|12|93
+Kevin Jepsen|R|Jose Iglesias|R|Flyout|C|Four-Seam Fastball|16|3|0|2|3|93
+Kevin Jepsen|R|Jose Iglesias|R|Flyout|X|Four-Seam Fastball|17|3|1|2|4|93
+Kevin Jepsen|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|1|1|0|0|13|94
+Kevin Jepsen|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|92
+Kevin Jepsen|R|Ketel Marte|L|Walk|C|Four-Seam Fastball|3|3|0|0|5|92
+Kevin Jepsen|R|Ketel Marte|L|Walk|C|Four-Seam Fastball|4|3|1|0|7|92
+Kevin Jepsen|R|Ketel Marte|L|Walk|B|Four-Seam Fastball|5|3|2|0|11|95
+Kevin Jepsen|R|Kyle Seager|L|Walk|C|Changeup|6|0|0|0|5|83
+Kevin Jepsen|R|Kyle Seager|L|Walk|B|Curveball|7|0|1|0|14|81
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Changeup|8|1|1|0|8|83
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Four-Seam Fastball|9|1|2|0|11|93
+Kevin Jepsen|R|Kyle Seager|L|Walk|*B|Curveball|10|1|2|0|14|80
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Changeup|11|2|2|0|11|80
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Four-Seam Fastball|12|2|2|0|8|94
+Kevin Jepsen|R|Kyle Seager|L|Walk|*B|Curveball|13|2|2|0|14|82
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Changeup|14|3|2|0|13|83
+Kevin Jepsen|R|Kyle Seager|L|Walk|F|Changeup|15|3|2|0|13|83
+Kevin Jepsen|R|Kyle Seager|L|Walk|B|Four-Seam Fastball|16|3|2|0|11|94
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|*B|Curveball|17|0|0|0|14|81
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|B|Four-Seam Fastball|18|1|0|0|14|93
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|19|2|0|0|9|93
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|F|Four-Seam Fastball|20|2|1|0|14|94
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|*B|Curveball|21|2|2|0|14|82
+Kevin Jepsen|R|Nelson Cruz|R|Strikeout|S|Four-Seam Fastball|22|3|2|0|9|94
+Kevin Jepsen|R|Russell Martin|R|Groundout|F|Four-Seam Fastball|0|0|0|0|6|93
+Kevin Jepsen|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|1|0|1|0|12|93
+Kevin Jepsen|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|2|1|1|0|6|94
+Kevin Jepsen|R|Dioner Navarro|L|Strikeout|F|Changeup|3|0|0|1|13|86
+Kevin Jepsen|R|Dioner Navarro|L|Strikeout|T|Four-Seam Fastball|4|0|1|1|11|94
+Kevin Jepsen|R|Dioner Navarro|L|Strikeout|F|Curveball|5|0|2|1|13|81
+Kevin Jepsen|R|Dioner Navarro|L|Strikeout|S|Curveball|6|0|2|1|13|80
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|F|Changeup|7|0|0|2|13|85
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|B|Changeup|8|0|1|2|13|86
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|B|Four-Seam Fastball|9|1|1|2|14|94
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|C|Four-Seam Fastball|10|2|1|2|7|93
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|B|Curveball|11|2|2|2|13|82
+Kevin Jepsen|R|Ryan Goins|L|Strikeout|S|Four-Seam Fastball|12|3|2|2|13|94
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|C|Four-Seam Fastball|0|0|0|2|13|93
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|B|Changeup|1|0|1|2|11|85
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|F|Changeup|2|1|1|2|13|85
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|S|Curveball|3|1|2|2|14|81
+Kevin Jepsen|R|Russell Martin|R|Groundout|C|Curveball|4|0|0|0|4|80
+Kevin Jepsen|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|5|0|1|0|14|93
+Kevin Jepsen|R|Russell Martin|R|Groundout|X|Four-Seam Fastball|6|1|1|0|12|94
+Kevin Jepsen|R|Ryan Goins|L|Walk|B|Four-Seam Fastball|7|0|0|1|13|92
+Kevin Jepsen|R|Ryan Goins|L|Walk|B|Four-Seam Fastball|8|1|0|1|13|92
+Kevin Jepsen|R|Ryan Goins|L|Walk|B|Four-Seam Fastball|9|2|0|1|13|93
+Kevin Jepsen|R|Ryan Goins|L|Walk|B|Four-Seam Fastball|10|3|0|1|12|93
+Kevin Jepsen|R|Kevin Pillar|R|Walk|C|Four-Seam Fastball|11|0|0|1|14|92
+Kevin Jepsen|R|Kevin Pillar|R|Walk|F|Four-Seam Fastball|12|0|1|1|2|92
+Kevin Jepsen|R|Kevin Pillar|R|Walk|*B|Curveball|13|0|2|1|14|80
+Kevin Jepsen|R|Kevin Pillar|R|Walk|B|Curveball|14|1|2|1|14|82
+Kevin Jepsen|R|Kevin Pillar|R|Walk|B|Changeup|15|2|2|1|14|81
+Kevin Jepsen|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|16|3|2|1|14|94
+Kevin Jepsen|R|Ben Revere|L|Lineout|B|Four-Seam Fastball|17|0|0|1|13|92
+Kevin Jepsen|R|Ben Revere|L|Lineout|X|Four-Seam Fastball|18|1|0|1|11|93
+Kevin Jepsen|R|Michael Brantley|L|Single|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Michael Brantley|L|Single|C|Four-Seam Fastball|1|1|0|0|11|92
+Kevin Jepsen|R|Michael Brantley|L|Single|F|Changeup|2|1|1|0|11|84
+Kevin Jepsen|R|Michael Brantley|L|Single|D|Curveball|3|1|2|0|13|81
+Kevin Jepsen|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|4|0|0|0|13|93
+Kevin Jepsen|R|Carlos Santana|L|Flyout|*B|Four-Seam Fastball|5|1|0|0|13|93
+Kevin Jepsen|R|Carlos Santana|L|Flyout|F|Four-Seam Fastball|6|2|0|0|8|91
+Kevin Jepsen|R|Carlos Santana|L|Flyout|F|Four-Seam Fastball|7|2|1|0|11|93
+Kevin Jepsen|R|Carlos Santana|L|Flyout|X|Four-Seam Fastball|8|2|2|0|11|94
+Kevin Jepsen|R|Yan Gomes|R|Lineout|S|Four-Seam Fastball|9|0|0|1|4|94
+Kevin Jepsen|R|Yan Gomes|R|Lineout|C|Four-Seam Fastball|10|0|1|1|14|94
+Kevin Jepsen|R|Yan Gomes|R|Lineout|*B|Curveball|11|0|2|1|14|81
+Kevin Jepsen|R|Yan Gomes|R|Lineout|B|Four-Seam Fastball|12|1|2|1|11|95
+Kevin Jepsen|R|Yan Gomes|R|Lineout|B|Four-Seam Fastball|13|2|2|1|12|94
+Kevin Jepsen|R|Yan Gomes|R|Lineout|F|Four-Seam Fastball|14|3|2|1|6|93
+Kevin Jepsen|R|Yan Gomes|R|Lineout|X|Four-Seam Fastball|15|3|2|1|9|93
+Kevin Jepsen|R|Jerry Sands|R|Forceout|B|Four-Seam Fastball|16|0|0|2|14|94
+Kevin Jepsen|R|Jerry Sands|R|Forceout|F|Four-Seam Fastball|17|1|0|2|1|93
+Kevin Jepsen|R|Jerry Sands|R|Forceout|B|Curveball|18|1|1|2|11|81
+Kevin Jepsen|R|Jerry Sands|R|Forceout|X|Four-Seam Fastball|19|2|1|2|6|93
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|B|Four-Seam Fastball|0|0|0|1|11|94
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|F|Four-Seam Fastball|1|1|0|1|1|93
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|B|Changeup|2|1|1|1|13|85
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|C|Changeup|3|2|1|1|9|85
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|F|Four-Seam Fastball|4|2|2|1|1|95
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|B|Curveball|5|2|2|1|14|84
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|F|Changeup|6|3|2|1|5|84
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|F|Four-Seam Fastball|7|3|2|1|3|96
+Kevin Jepsen|R|Adrian Beltre|R|Groundout|X|Four-Seam Fastball|8|3|2|1|6|96
+Kevin Jepsen|R|Mitch Moreland|L|Groundout|B|Changeup|9|0|0|2|13|86
+Kevin Jepsen|R|Mitch Moreland|L|Groundout|X|Four-Seam Fastball|10|1|0|2|8|95
+Kevin Jepsen|R|Ryan Strausborger|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|94
+Kevin Jepsen|R|Ryan Strausborger|R|Groundout|F|Four-Seam Fastball|1|0|1|0|4|93
+Kevin Jepsen|R|Ryan Strausborger|R|Groundout|X|Curveball|2|0|2|0|14|81
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|B|Four-Seam Fastball|3|0|0|1|14|95
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|B|Four-Seam Fastball|4|1|0|1|12|94
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|B|Four-Seam Fastball|5|2|0|1|12|92
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|C|Four-Seam Fastball|6|3|0|1|6|93
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|F|Four-Seam Fastball|7|3|1|1|11|93
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|F|Four-Seam Fastball|8|3|2|1|3|94
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|F|Four-Seam Fastball|9|3|2|1|3|95
+Kevin Jepsen|R|Delino DeShields|R|Pop Out|X|Four-Seam Fastball|10|3|2|1|1|94
+Kevin Jepsen|R|Mike Aviles|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|94
+Kevin Jepsen|R|Mike Aviles|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|94
+Kevin Jepsen|R|Mike Aviles|R|Groundout|X|Four-Seam Fastball|2|1|1|0|14|95
+Kevin Jepsen|R|Jose Ramirez|L|Groundout|C|Four-Seam Fastball|3|0|0|1|7|93
+Kevin Jepsen|R|Jose Ramirez|L|Groundout|B|Changeup|4|0|1|1|14|85
+Kevin Jepsen|R|Jose Ramirez|L|Groundout|B|Four-Seam Fastball|5|1|1|1|11|94
+Kevin Jepsen|R|Jose Ramirez|L|Groundout|X|Four-Seam Fastball|6|2|1|1|9|94
+Kevin Jepsen|R|Francisco Lindor|L|Single|B|Curveball|7|0|0|2|13|82
+Kevin Jepsen|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|8|1|0|2|11|95
+Kevin Jepsen|R|Francisco Lindor|L|Single|C|Four-Seam Fastball|9|2|0|2|13|93
+Kevin Jepsen|R|Francisco Lindor|L|Single|B|Four-Seam Fastball|10|2|1|2|13|93
+Kevin Jepsen|R|Francisco Lindor|L|Single|S|Four-Seam Fastball|11|3|1|2|2|94
+Kevin Jepsen|R|Francisco Lindor|L|Single|D|Four-Seam Fastball|12|3|2|2|8|95
+Kevin Jepsen|R|Yan Gomes|R|Groundout|B|Curveball|13|0|0|2|11|81
+Kevin Jepsen|R|Yan Gomes|R|Groundout|S|Four-Seam Fastball|14|1|0|2|3|94
+Kevin Jepsen|R|Yan Gomes|R|Groundout|X|Four-Seam Fastball|15|1|1|2|9|94
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|B|Four-Seam Fastball|0|0|0|0|13|92
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|X|Four-Seam Fastball|1|1|0|0|2|92
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|C|Four-Seam Fastball|2|0|0|1|11|94
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|X|Curveball|3|0|1|1|4|81
+Kevin Jepsen|R|Yan Gomes|R|Single|B|Curveball|4|0|0|2|11|82
+Kevin Jepsen|R|Yan Gomes|R|Single|B|Four-Seam Fastball|5|1|0|2|12|94
+Kevin Jepsen|R|Yan Gomes|R|Single|D|Four-Seam Fastball|6|2|0|2|4|94
+Kevin Jepsen|R|Carlos Santana|L|Single|B|Changeup|7|0|0|2|11|85
+Kevin Jepsen|R|Carlos Santana|L|Single|F|Four-Seam Fastball|8|1|0|2|1|93
+Kevin Jepsen|R|Carlos Santana|L|Single|B|Changeup|9|1|1|2|11|85
+Kevin Jepsen|R|Carlos Santana|L|Single|S|Changeup|10|2|1|2|13|86
+Kevin Jepsen|R|Carlos Santana|L|Single|F|Curveball|11|2|2|2|8|82
+Kevin Jepsen|R|Carlos Santana|L|Single|F|Four-Seam Fastball|12|2|2|2|3|95
+Kevin Jepsen|R|Carlos Santana|L|Single|D|Curveball|13|2|2|2|8|83
+Kevin Jepsen|R|Ryan Raburn|R|Strikeout|C|Curveball|14|0|0|2|2|81
+Kevin Jepsen|R|Ryan Raburn|R|Strikeout|B|Four-Seam Fastball|15|0|1|2|12|94
+Kevin Jepsen|R|Ryan Raburn|R|Strikeout|C|Four-Seam Fastball|16|1|1|2|12|95
+Kevin Jepsen|R|Ryan Raburn|R|Strikeout|F|Curveball|17|1|2|2|14|83
+Kevin Jepsen|R|Ryan Raburn|R|Strikeout|S|Four-Seam Fastball|18|1|2|2|3|96
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Four-Seam Fastball|0|0|0|1|11|92
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|C|Four-Seam Fastball|1|1|0|1|7|93
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|B|Changeup|2|1|1|1|14|88
+Kevin Jepsen|R|Jacoby Ellsbury|L|Groundout|X|Changeup|3|2|1|1|11|86
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|4|0|0|2|4|94
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|B|Curveball|5|0|1|2|14|83
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|B|Changeup|6|1|1|2|13|86
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|C|Four-Seam Fastball|7|2|1|2|13|94
+Kevin Jepsen|R|Brett Gardner|L|Strikeout|S|Four-Seam Fastball|8|2|2|2|8|95
+Kevin Jepsen|R|Alex Rodriguez|R|Groundout|C|Curveball|9|0|0|0|6|82
+Kevin Jepsen|R|Alex Rodriguez|R|Groundout|B|Four-Seam Fastball|10|0|1|0|14|95
+Kevin Jepsen|R|Alex Rodriguez|R|Groundout|X|Four-Seam Fastball|11|1|1|0|8|94
+Kevin Jepsen|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|93
+Kevin Jepsen|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|14|93
+Kevin Jepsen|R|Adam Jones|R|Strikeout|S|Curveball|2|1|1|0|14|82
+Kevin Jepsen|R|Adam Jones|R|Strikeout|F|Curveball|3|1|2|0|14|81
+Kevin Jepsen|R|Adam Jones|R|Strikeout|B|Curveball|4|1|2|0|14|82
+Kevin Jepsen|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|14|95
+Kevin Jepsen|R|Adam Jones|R|Strikeout|B|Four-Seam Fastball|6|2|2|0|12|94
+Kevin Jepsen|R|Adam Jones|R|Strikeout|F|Four-Seam Fastball|7|3|2|0|14|95
+Kevin Jepsen|R|Adam Jones|R|Strikeout|S|Four-Seam Fastball|8|3|2|0|9|94
+Kevin Jepsen|R|Chris Davis|L|Strikeout|S|Changeup|9|0|0|1|13|85
+Kevin Jepsen|R|Chris Davis|L|Strikeout|F|Four-Seam Fastball|10|0|1|1|4|95
+Kevin Jepsen|R|Chris Davis|L|Strikeout|B|Curveball|11|0|2|1|14|81
+Kevin Jepsen|R|Chris Davis|L|Strikeout|S|Curveball|12|1|2|1|14|81
+Kevin Jepsen|R|Matt Wieters|L|Strikeout|S|Changeup|13|0|0|2|13|85
+Kevin Jepsen|R|Matt Wieters|L|Strikeout|S|Changeup|14|0|1|2|13|86
+Kevin Jepsen|R|Matt Wieters|L|Strikeout|S|Curveball|15|0|2|2|14|82
+Kevin Jepsen|R|Henry Urrutia|L|Lineout|B|Four-Seam Fastball|0|0|0|0|14|92
+Kevin Jepsen|R|Henry Urrutia|L|Lineout|X|Four-Seam Fastball|1|1|0|0|5|92
+Kevin Jepsen|R|Manny Machado|R|Flyout|B|Curveball|2|0|0|1|14|83
+Kevin Jepsen|R|Manny Machado|R|Flyout|C|Four-Seam Fastball|3|1|0|1|6|94
+Kevin Jepsen|R|Manny Machado|R|Flyout|S|Four-Seam Fastball|4|1|1|1|12|94
+Kevin Jepsen|R|Manny Machado|R|Flyout|B|Curveball|5|1|2|1|14|83
+Kevin Jepsen|R|Manny Machado|R|Flyout|X|Four-Seam Fastball|6|2|2|1|12|94
+Kevin Jepsen|R|Gerardo Parra|L|Groundout|C|Curveball|7|0|0|2|13|81
+Kevin Jepsen|R|Gerardo Parra|L|Groundout|X|Curveball|8|0|1|2|6|81
+Kevin Jepsen|R|Steve Clevenger|L|Flyout|B|Four-Seam Fastball|0|0|0|0|13|91
+Kevin Jepsen|R|Steve Clevenger|L|Flyout|F|Four-Seam Fastball|1|1|0|0|6|91
+Kevin Jepsen|R|Steve Clevenger|L|Flyout|F|Changeup|2|1|1|0|4|84
+Kevin Jepsen|R|Steve Clevenger|L|Flyout|X|Curveball|3|1|2|0|8|81
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|4|0|0|1|14|92
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Four-Seam Fastball|5|0|1|1|14|93
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|6|1|1|1|6|93
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Four-Seam Fastball|7|1|2|1|12|94
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|6|94
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|9|2|2|1|3|93
+Kevin Jepsen|R|Henry Urrutia|L|Groundout|F|Changeup|10|0|0|2|4|85
+Kevin Jepsen|R|Henry Urrutia|L|Groundout|B|Changeup|11|0|1|2|13|86
+Kevin Jepsen|R|Henry Urrutia|L|Groundout|F|Four-Seam Fastball|12|1|1|2|5|94
+Kevin Jepsen|R|Henry Urrutia|L|Groundout|B|Curveball|13|1|2|2|14|81
+Kevin Jepsen|R|Henry Urrutia|L|Groundout|X|Curveball|14|2|2|2|14|81
+Kevin Jepsen|R|James Loney|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|93
+Kevin Jepsen|R|James Loney|L|Groundout|X|Four-Seam Fastball|1|1|0|0|11|93
+Kevin Jepsen|R|Kevin Kiermaier|L|Single|B|Four-Seam Fastball|2|0|0|1|13|93
+Kevin Jepsen|R|Kevin Kiermaier|L|Single|D|Four-Seam Fastball|3|1|0|1|1|94
+Kevin Jepsen|R|Rene Rivera|R|Flyout|F|Curveball|4|0|0|1|14|81
+Kevin Jepsen|R|Rene Rivera|R|Flyout|B|Four-Seam Fastball|5|0|1|1|14|93
+Kevin Jepsen|R|Rene Rivera|R|Flyout|B|Four-Seam Fastball|6|1|1|1|11|94
+Kevin Jepsen|R|Rene Rivera|R|Flyout|S|Four-Seam Fastball|7|2|1|1|12|93
+Kevin Jepsen|R|Rene Rivera|R|Flyout|F|Four-Seam Fastball|8|2|2|1|14|94
+Kevin Jepsen|R|Rene Rivera|R|Flyout|F|Four-Seam Fastball|9|2|2|1|12|94
+Kevin Jepsen|R|Rene Rivera|R|Flyout|X|Four-Seam Fastball|10|2|2|1|6|94
+Kevin Jepsen|R|Grady Sizemore|L|Lineout|*B|Changeup|11|0|0|2|14|85
+Kevin Jepsen|R|Grady Sizemore|L|Lineout|B|Changeup|12|1|0|2|13|85
+Kevin Jepsen|R|Grady Sizemore|L|Lineout|F|Four-Seam Fastball|13|2|0|2|6|93
+Kevin Jepsen|R|Grady Sizemore|L|Lineout|X|Four-Seam Fastball|14|2|1|2|4|94
+Kevin Jepsen|R|Daniel Nava|L|Groundout|T|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Daniel Nava|L|Groundout|F|Four-Seam Fastball|1|0|1|0|1|94
+Kevin Jepsen|R|Daniel Nava|L|Groundout|X|Curveball|2|0|2|0|6|82
+Kevin Jepsen|R|Brandon Guyer|R|Strikeout|F|Four-Seam Fastball|3|0|0|1|4|94
+Kevin Jepsen|R|Brandon Guyer|R|Strikeout|B|Four-Seam Fastball|4|0|1|1|11|94
+Kevin Jepsen|R|Brandon Guyer|R|Strikeout|S|Four-Seam Fastball|5|1|1|1|6|94
+Kevin Jepsen|R|Brandon Guyer|R|Strikeout|S|Four-Seam Fastball|6|1|2|1|1|95
+Kevin Jepsen|R|Evan Longoria|R|Flyout|C|Four-Seam Fastball|7|0|0|2|9|94
+Kevin Jepsen|R|Evan Longoria|R|Flyout|B|Curveball|8|0|1|2|14|83
+Kevin Jepsen|R|Evan Longoria|R|Flyout|X|Four-Seam Fastball|9|1|1|2|3|94
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|2|94
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|14|95
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|12|94
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|S|Four-Seam Fastball|3|2|1|0|9|94
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|14|95
+Kevin Jepsen|R|Carlos Gomez|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|5|95
+Kevin Jepsen|R|Luis Valbuena|L|Walk|C|Changeup|6|0|0|1|7|87
+Kevin Jepsen|R|Luis Valbuena|L|Walk|T|Four-Seam Fastball|7|0|1|1|12|96
+Kevin Jepsen|R|Luis Valbuena|L|Walk|B|Curveball|8|0|2|1|14|81
+Kevin Jepsen|R|Luis Valbuena|L|Walk|B|Curveball|9|1|2|1|13|81
+Kevin Jepsen|R|Luis Valbuena|L|Walk|F|Four-Seam Fastball|10|2|2|1|12|95
+Kevin Jepsen|R|Luis Valbuena|L|Walk|B|Four-Seam Fastball|11|2|2|1|14|95
+Kevin Jepsen|R|Luis Valbuena|L|Walk|B|Four-Seam Fastball|12|3|2|1|14|95
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|F|Four-Seam Fastball|13|0|0|1|11|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|B|Four-Seam Fastball|14|0|1|1|13|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|*B|Changeup|15|1|1|1|13|84
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|D|Four-Seam Fastball|16|2|1|1|1|93
+Kevin Jepsen|R|Hank Conger|L|Strikeout|B|Changeup|17|0|0|1|13|86
+Kevin Jepsen|R|Hank Conger|L|Strikeout|B|Changeup|18|1|0|1|13|86
+Kevin Jepsen|R|Hank Conger|L|Strikeout|B|Four-Seam Fastball|19|2|0|1|11|93
+Kevin Jepsen|R|Hank Conger|L|Strikeout|C|Four-Seam Fastball|20|3|0|1|11|93
+Kevin Jepsen|R|Hank Conger|L|Strikeout|S|Four-Seam Fastball|21|3|1|1|5|93
+Kevin Jepsen|R|Hank Conger|L|Strikeout|S|Four-Seam Fastball|22|3|2|1|4|94
+Kevin Jepsen|R|Chris Carter|R|Single|S|Changeup|23|0|0|2|14|87
+Kevin Jepsen|R|Chris Carter|R|Single|B|Four-Seam Fastball|24|0|1|2|14|94
+Kevin Jepsen|R|Chris Carter|R|Single|C|Four-Seam Fastball|25|1|1|2|6|94
+Kevin Jepsen|R|Chris Carter|R|Single|D|Curveball|26|1|2|2|14|82
+Kevin Jepsen|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|27|0|0|2|14|94
+Kevin Jepsen|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|28|0|1|2|14|94
+Kevin Jepsen|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|29|1|1|2|12|93
+Kevin Jepsen|R|Jose Altuve|R|Flyout|X|Curveball|30|1|2|2|8|81
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|93
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|X|Curveball|1|0|1|0|4|80
+Kevin Jepsen|R|Avisail Garcia|R|Pop Out|B|Four-Seam Fastball|2|0|0|1|14|93
+Kevin Jepsen|R|Avisail Garcia|R|Pop Out|X|Four-Seam Fastball|3|1|0|1|8|94
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|C|Changeup|4|0|0|2|13|85
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|B|Curveball|5|0|1|2|14|82
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|F|Four-Seam Fastball|6|1|1|2|6|94
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|X|Curveball|7|1|2|2|4|82
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|C|Four-Seam Fastball|0|0|0|0|1|94
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|X|Four-Seam Fastball|1|0|1|0|5|95
+Kevin Jepsen|R|Jose Abreu|R|Strikeout|F|Four-Seam Fastball|2|0|0|1|2|93
+Kevin Jepsen|R|Jose Abreu|R|Strikeout|S|Four-Seam Fastball|3|0|1|1|11|94
+Kevin Jepsen|R|Jose Abreu|R|Strikeout|F|Curveball|4|0|2|1|14|80
+Kevin Jepsen|R|Jose Abreu|R|Strikeout|W|Curveball|5|0|2|1|14|80
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|B|Four-Seam Fastball|6|0|0|2|12|94
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|S|Four-Seam Fastball|7|1|0|2|11|94
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|S|Four-Seam Fastball|8|1|1|2|12|95
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|F|Four-Seam Fastball|9|1|2|2|12|95
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|F|Curveball|10|1|2|2|14|81
+Kevin Jepsen|R|Avisail Garcia|R|Flyout|X|Curveball|11|1|2|2|14|80
+Kevin Jepsen|R|Jed Lowrie|L|Home Run|C|Four-Seam Fastball|0|0|0|0|1|93
+Kevin Jepsen|R|Jed Lowrie|L|Home Run|E|Curveball|1|0|1|0|7|82
+Kevin Jepsen|R|Carlos Gomez|R|Lineout|L|Four-Seam Fastball|2|0|0|0|12|93
+Kevin Jepsen|R|Carlos Gomez|R|Lineout|X|Four-Seam Fastball|3|0|1|0|8|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|C|Changeup|4|0|0|1|13|85
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|B|Changeup|5|0|1|1|13|84
+Kevin Jepsen|R|Marwin Gonzalez|L|Single|D|Four-Seam Fastball|6|1|1|1|13|94
+Kevin Jepsen|R|Colby Rasmus|L|Walk|B|Changeup|7|0|0|1|11|84
+Kevin Jepsen|R|Colby Rasmus|L|Walk|S|Changeup|8|1|0|1|9|85
+Kevin Jepsen|R|Colby Rasmus|L|Walk|F|Four-Seam Fastball|9|1|1|1|7|94
+Kevin Jepsen|R|Colby Rasmus|L|Walk|*B|Curveball|10|1|2|1|14|80
+Kevin Jepsen|R|Colby Rasmus|L|Walk|*B|Curveball|11|2|2|1|14|81
+Kevin Jepsen|R|Colby Rasmus|L|Walk|B|Four-Seam Fastball|12|3|2|1|1|94
+Kevin Jepsen|R|Hank Conger|L|Strikeout|S|Changeup|13|0|0|1|11|86
+Kevin Jepsen|R|Hank Conger|L|Strikeout|B|Changeup|14|0|1|1|13|84
+Kevin Jepsen|R|Hank Conger|L|Strikeout|B|Changeup|15|1|1|1|14|84
+Kevin Jepsen|R|Hank Conger|L|Strikeout|F|Four-Seam Fastball|16|2|1|1|5|93
+Kevin Jepsen|R|Hank Conger|L|Strikeout|S|Four-Seam Fastball|17|2|2|1|11|95
+Kevin Jepsen|R|George Springer|R|Walk|B|Four-Seam Fastball|18|0|0|2|12|94
+Kevin Jepsen|R|George Springer|R|Walk|F|Four-Seam Fastball|19|1|0|2|2|93
+Kevin Jepsen|R|George Springer|R|Walk|B|Four-Seam Fastball|20|1|1|2|14|94
+Kevin Jepsen|R|George Springer|R|Walk|F|Four-Seam Fastball|21|2|1|2|8|93
+Kevin Jepsen|R|George Springer|R|Walk|F|Four-Seam Fastball|22|2|2|2|6|95
+Kevin Jepsen|R|George Springer|R|Walk|B|Four-Seam Fastball|23|2|2|2|12|94
+Kevin Jepsen|R|George Springer|R|Walk|B|Four-Seam Fastball|24|3|2|2|12|94
+Kevin Jepsen|R|Jose Altuve|R|Lineout|X|Four-Seam Fastball|25|0|0|2|6|94
+Kevin Jepsen|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Alex Gordon|L|Strikeout|C|Four-Seam Fastball|1|1|0|0|9|93
+Kevin Jepsen|R|Alex Gordon|L|Strikeout|C|Curveball|2|1|1|0|9|81
+Kevin Jepsen|R|Alex Gordon|L|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|94
+Kevin Jepsen|R|Alex Gordon|L|Strikeout|C|Four-Seam Fastball|4|2|2|0|6|95
+Kevin Jepsen|R|Mike Moustakas|L|Strikeout|B|Four-Seam Fastball|5|0|0|1|11|93
+Kevin Jepsen|R|Mike Moustakas|L|Strikeout|S|Changeup|6|1|0|1|13|87
+Kevin Jepsen|R|Mike Moustakas|L|Strikeout|F|Four-Seam Fastball|7|1|1|1|9|95
+Kevin Jepsen|R|Mike Moustakas|L|Strikeout|W|Curveball|8|1|2|1|14|81
+Kevin Jepsen|R|Salvador Perez|R|Groundout|C|Four-Seam Fastball|9|0|0|2|8|94
+Kevin Jepsen|R|Salvador Perez|R|Groundout|B|Four-Seam Fastball|10|0|1|2|14|95
+Kevin Jepsen|R|Salvador Perez|R|Groundout|C|Four-Seam Fastball|11|1|1|2|8|94
+Kevin Jepsen|R|Salvador Perez|R|Groundout|X|Curveball|12|1|2|2|14|81
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|95
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|B|Two-Seam Fastball|1|0|1|0|12|96
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|F|Two-Seam Fastball|2|1|1|0|8|95
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|B|Curveball|3|1|2|0|14|81
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|97
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|5|96
+Kevin Jepsen|R|Paulo Orlando|R|Strikeout|T|Four-Seam Fastball|6|2|2|0|9|97
+Kevin Jepsen|R|Alcides Escobar|R|Flyout|C|Four-Seam Fastball|7|0|0|1|7|95
+Kevin Jepsen|R|Alcides Escobar|R|Flyout|S|Curveball|8|0|1|1|14|83
+Kevin Jepsen|R|Alcides Escobar|R|Flyout|B|Four-Seam Fastball|9|0|2|1|12|96
+Kevin Jepsen|R|Alcides Escobar|R|Flyout|B|Curveball|10|1|2|1|13|81
+Kevin Jepsen|R|Alcides Escobar|R|Flyout|X|Four-Seam Fastball|11|2|2|1|12|95
+Kevin Jepsen|R|Jarrod Dyson|L|Flyout|C|Four-Seam Fastball|12|0|0|2|4|95
+Kevin Jepsen|R|Jarrod Dyson|L|Flyout|B|Changeup|13|0|1|2|13|84
+Kevin Jepsen|R|Jarrod Dyson|L|Flyout|F|Four-Seam Fastball|14|1|1|2|9|95
+Kevin Jepsen|R|Jarrod Dyson|L|Flyout|B|Curveball|15|1|2|2|14|81
+Kevin Jepsen|R|Jarrod Dyson|L|Flyout|X|Two-Seam Fastball|16|2|2|2|11|96
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|F|Four-Seam Fastball|0|0|0|0|4|94
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|B|Changeup|1|0|1|0|14|85
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|B|Changeup|2|1|1|0|11|85
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|B|Four-Seam Fastball|3|2|1|0|11|95
+Kevin Jepsen|R|Adam LaRoche|L|Flyout|X|Four-Seam Fastball|4|3|1|0|2|94
+Kevin Jepsen|R|Alexei Ramirez|R|Groundout|B|Four-Seam Fastball|5|0|0|1|12|95
+Kevin Jepsen|R|Alexei Ramirez|R|Groundout|F|Four-Seam Fastball|6|1|0|1|5|95
+Kevin Jepsen|R|Alexei Ramirez|R|Groundout|C|Four-Seam Fastball|7|1|1|1|8|95
+Kevin Jepsen|R|Alexei Ramirez|R|Groundout|B|Curveball|8|1|2|1|14|81
+Kevin Jepsen|R|Alexei Ramirez|R|Groundout|X|Four-Seam Fastball|9|2|2|1|14|95
+Kevin Jepsen|R|Rob Brantly|L|Flyout|B|Two-Seam Fastball|10|0|0|2|13|94
+Kevin Jepsen|R|Rob Brantly|L|Flyout|F|Four-Seam Fastball|11|1|0|2|13|94
+Kevin Jepsen|R|Rob Brantly|L|Flyout|X|Four-Seam Fastball|12|1|1|2|6|95
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|S|Four-Seam Fastball|0|0|0|2|12|95
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|B|Four-Seam Fastball|1|0|1|2|14|94
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|S|Four-Seam Fastball|2|1|1|2|12|94
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|F|Four-Seam Fastball|3|1|2|2|14|96
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|F|Four-Seam Fastball|4|1|2|2|12|95
+Kevin Jepsen|R|Ian Kinsler|R|Pop Out|X|Four-Seam Fastball|5|1|2|2|1|97
+Kevin Jepsen|R|Victor Martinez|L|Single|B|Four-Seam Fastball|0|0|0|0|11|95
+Kevin Jepsen|R|Victor Martinez|L|Single|F|Four-Seam Fastball|1|1|0|0|12|95
+Kevin Jepsen|R|Victor Martinez|L|Single|B|Changeup|2|1|1|0|13|85
+Kevin Jepsen|R|Victor Martinez|L|Single|F|Four-Seam Fastball|3|2|1|0|1|96
+Kevin Jepsen|R|Victor Martinez|L|Single|D|Four-Seam Fastball|4|2|2|0|1|96
+Kevin Jepsen|R|Tyler Collins|L|Single|B|Four-Seam Fastball|5|0|0|0|13|94
+Kevin Jepsen|R|Tyler Collins|L|Single|F|Four-Seam Fastball|6|1|0|0|6|94
+Kevin Jepsen|R|Tyler Collins|L|Single|F|Four-Seam Fastball|7|1|1|0|12|94
+Kevin Jepsen|R|Tyler Collins|L|Single|*B|Curveball|8|1|2|0|14|81
+Kevin Jepsen|R|Tyler Collins|L|Single|D|Four-Seam Fastball|9|2|2|0|12|95
+Kevin Jepsen|R|Jefry Marte|R|Single|E|Curveball|10|0|0|0|8|82
+Kevin Jepsen|R|James McCann|R|Strikeout|F|Four-Seam Fastball|11|0|0|0|6|93
+Kevin Jepsen|R|James McCann|R|Strikeout|L|Curveball|12|0|1|0|7|80
+Kevin Jepsen|R|James McCann|R|Strikeout|S|Curveball|13|0|2|0|14|80
+Kevin Jepsen|R|Alex Avila|L|Single|B|Changeup|14|0|0|1|13|86
+Kevin Jepsen|R|Alex Avila|L|Single|S|Changeup|15|1|0|1|7|85
+Kevin Jepsen|R|Alex Avila|L|Single|B|Four-Seam Fastball|16|1|1|1|11|94
+Kevin Jepsen|R|Alex Avila|L|Single|D|Four-Seam Fastball|17|2|1|1|5|93
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|B|Four-Seam Fastball|18|0|0|1|14|94
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|F|Four-Seam Fastball|19|1|0|1|7|94
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|*B|Curveball|20|1|1|1|14|82
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|B|Four-Seam Fastball|21|2|1|1|11|94
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|C|Four-Seam Fastball|22|3|1|1|13|94
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|F|Four-Seam Fastball|23|3|2|1|4|93
+Kevin Jepsen|R|Andrew Romine|L|Grounded Into DP|X|Four-Seam Fastball|24|3|2|1|13|95
+Kevin Jepsen|R|Kaleb Cowart|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|9|95
+Kevin Jepsen|R|Kaleb Cowart|L|Strikeout|B|Four-Seam Fastball|1|0|1|0|11|96
+Kevin Jepsen|R|Kaleb Cowart|L|Strikeout|S|Four-Seam Fastball|2|1|1|0|4|96
+Kevin Jepsen|R|Kaleb Cowart|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|11|97
+Kevin Jepsen|R|Carlos Perez|R|Single|D|Four-Seam Fastball|4|0|0|1|5|96
+Kevin Jepsen|R|David DeJesus|L|Flyout|X|Two-Seam Fastball|5|0|0|1|6|94
+Kevin Jepsen|R|Matt Joyce|L|Flyout|C|Curveball|6|0|0|2|9|81
+Kevin Jepsen|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|7|0|1|2|2|95
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|S|Changeup|8|0|0|0|14|83
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|F|Curveball|9|0|1|0|13|81
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|B|Four-Seam Fastball|10|0|2|0|11|94
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|B|Four-Seam Fastball|11|1|2|0|11|95
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|B|Four-Seam Fastball|12|2|2|0|12|95
+Kevin Jepsen|R|Kole Calhoun|L|Lineout|X|Four-Seam Fastball|13|3|2|0|9|95
+Kevin Jepsen|R|Mike Trout|R|Flyout|B|Curveball|14|0|0|1|14|81
+Kevin Jepsen|R|Mike Trout|R|Flyout|C|Curveball|15|1|0|1|9|81
+Kevin Jepsen|R|Mike Trout|R|Flyout|X|Four-Seam Fastball|16|1|1|1|2|95
+Kevin Jepsen|R|Albert Pujols|R|Pop Out|B|Curveball|17|0|0|2|14|83
+Kevin Jepsen|R|Albert Pujols|R|Pop Out|B|Four-Seam Fastball|18|1|0|2|12|94
+Kevin Jepsen|R|Albert Pujols|R|Pop Out|X|Four-Seam Fastball|19|2|0|2|2|94
+Kevin Jepsen|R|Carlos Santana|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Carlos Santana|L|Groundout|B|Four-Seam Fastball|1|1|0|0|12|94
+Kevin Jepsen|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|2|2|0|0|5|92
+Kevin Jepsen|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|3|2|1|0|1|93
+Kevin Jepsen|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|4|2|2|0|1|95
+Kevin Jepsen|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|5|2|2|0|7|96
+Kevin Jepsen|R|Lonnie Chisenhall|L|Strikeout|S|Changeup|6|0|0|1|13|85
+Kevin Jepsen|R|Lonnie Chisenhall|L|Strikeout|B|Curveball|7|0|1|1|1|81
+Kevin Jepsen|R|Lonnie Chisenhall|L|Strikeout|F|Four-Seam Fastball|8|1|1|1|1|94
+Kevin Jepsen|R|Lonnie Chisenhall|L|Strikeout|B|Curveball|9|1|2|1|14|80
+Kevin Jepsen|R|Lonnie Chisenhall|L|Strikeout|S|Four-Seam Fastball|10|2|2|1|3|95
+Kevin Jepsen|R|Yan Gomes|R|Double|D|Four-Seam Fastball|11|0|0|2|7|95
+Kevin Jepsen|R|Abraham Almonte|L|Strikeout|B|Changeup|12|0|0|2|11|85
+Kevin Jepsen|R|Abraham Almonte|L|Strikeout|C|Changeup|13|1|0|2|1|83
+Kevin Jepsen|R|Abraham Almonte|L|Strikeout|S|Four-Seam Fastball|14|1|1|2|4|95
+Kevin Jepsen|R|Abraham Almonte|L|Strikeout|*B|Curveball|15|1|2|2|13|80
+Kevin Jepsen|R|Abraham Almonte|L|Strikeout|S|Four-Seam Fastball|16|2|2|2|1|95
+Kevin Jepsen|R|James McCann|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|96
+Kevin Jepsen|R|James McCann|R|Groundout|T|Four-Seam Fastball|1|1|0|0|12|95
+Kevin Jepsen|R|James McCann|R|Groundout|F|Four-Seam Fastball|2|1|1|0|12|96
+Kevin Jepsen|R|James McCann|R|Groundout|F|Curveball|3|1|2|0|14|81
+Kevin Jepsen|R|James McCann|R|Groundout|X|Curveball|4|1|2|0|6|80
+Kevin Jepsen|R|Tyler Collins|L|Flyout|X|Four-Seam Fastball|5|0|0|1|1|94
+Kevin Jepsen|R|Rajai Davis|R|Single|B|Four-Seam Fastball|6|0|0|2|14|95
+Kevin Jepsen|R|Rajai Davis|R|Single|D|Four-Seam Fastball|7|1|0|2|14|94
+Kevin Jepsen|R|Anthony Gose|L|Strikeout|F|Four-Seam Fastball|8|0|0|2|14|95
+Kevin Jepsen|R|Anthony Gose|L|Strikeout|C|Curveball|9|0|1|2|8|81
+Kevin Jepsen|R|Anthony Gose|L|Strikeout|S|Four-Seam Fastball|10|0|2|2|12|95
+Kevin Jepsen|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|0|0|0|2|11|93
+Kevin Jepsen|R|Carlos Santana|L|Flyout|F|Four-Seam Fastball|1|1|0|2|5|94
+Kevin Jepsen|R|Carlos Santana|L|Flyout|F|Four-Seam Fastball|2|1|1|2|6|94
+Kevin Jepsen|R|Carlos Santana|L|Flyout|X|Curveball|3|1|2|2|5|79
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|F|Four-Seam Fastball|4|0|0|0|14|93
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|S|Four-Seam Fastball|5|0|1|0|6|94
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|X|Four-Seam Fastball|6|0|2|0|3|93
+Kevin Jepsen|R|Yan Gomes|R|Flyout|C|Curveball|7|0|0|1|1|79
+Kevin Jepsen|R|Yan Gomes|R|Flyout|X|Curveball|8|0|1|1|7|79
+Kevin Jepsen|R|Carlos Santana|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|8|93
+Kevin Jepsen|R|Carlos Santana|L|Strikeout|F|Four-Seam Fastball|1|0|1|0|3|94
+Kevin Jepsen|R|Carlos Santana|L|Strikeout|B|Curveball|2|0|2|0|14|77
+Kevin Jepsen|R|Carlos Santana|L|Strikeout|T|Four-Seam Fastball|3|1|2|0|5|94
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|B|Changeup|4|0|0|1|13|85
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|B|Four-Seam Fastball|5|1|0|1|12|93
+Kevin Jepsen|R|Lonnie Chisenhall|L|Pop Out|X|Four-Seam Fastball|6|2|0|1|2|93
+Kevin Jepsen|R|Abraham Almonte|L|Single|S|Changeup|7|0|0|2|4|82
+Kevin Jepsen|R|Abraham Almonte|L|Single|D|Four-Seam Fastball|8|0|1|2|6|94
+Kevin Jepsen|R|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|3|94
+Kevin Jepsen|R|Roberto Perez|R|Strikeout|F|Four-Seam Fastball|10|0|1|2|2|94
+Kevin Jepsen|R|Roberto Perez|R|Strikeout|C|Four-Seam Fastball|11|0|2|2|14|94
+Kevin Jepsen|R|Jarrod Dyson|L|Field Error|C|Four-Seam Fastball|0|0|0|0|7|93
+Kevin Jepsen|R|Jarrod Dyson|L|Field Error|D|Four-Seam Fastball|1|0|1|0|6|94
+Kevin Jepsen|R|Alcides Escobar|R|Lineout|X|Four-Seam Fastball|2|0|0|0|2|92
+Kevin Jepsen|R|Ben Zobrist|L|Single|C|Four-Seam Fastball|3|0|0|1|13|93
+Kevin Jepsen|R|Ben Zobrist|L|Single|*B|Curveball|4|0|1|1|14|80
+Kevin Jepsen|R|Ben Zobrist|L|Single|F|Changeup|5|1|1|1|14|85
+Kevin Jepsen|R|Ben Zobrist|L|Single|F|Curveball|6|1|2|1|9|80
+Kevin Jepsen|R|Ben Zobrist|L|Single|D|Four-Seam Fastball|7|1|2|1|13|93
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|C|Four-Seam Fastball|8|0|0|1|14|93
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|C|Four-Seam Fastball|9|0|1|1|6|94
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|B|Four-Seam Fastball|10|0|2|1|12|94
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|*B|Curveball|11|1|2|1|14|80
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|F|Changeup|12|2|2|1|8|84
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|B|Four-Seam Fastball|13|2|2|1|12|93
+Kevin Jepsen|R|Eric Hosmer|L|Pop Out|X|Four-Seam Fastball|14|3|2|1|12|94
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|B|Changeup|15|0|0|2|14|85
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|B|Four-Seam Fastball|16|1|0|2|11|94
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|B|Four-Seam Fastball|17|2|0|2|11|93
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|C|Four-Seam Fastball|18|3|0|2|2|93
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|F|Four-Seam Fastball|19|3|1|2|2|93
+Kevin Jepsen|R|Mike Moustakas|L|Pop Out|X|Four-Seam Fastball|20|3|2|2|11|94
+Kevin Jepsen|R|Manny Machado|R|Pop Out|X|Four-Seam Fastball|0|0|0|0|1|93
+Kevin Jepsen|R|Adam Jones|R|Strikeout|C|Four-Seam Fastball|1|0|0|1|6|94
+Kevin Jepsen|R|Adam Jones|R|Strikeout|S|Four-Seam Fastball|2|0|1|1|11|93
+Kevin Jepsen|R|Adam Jones|R|Strikeout|B|Curveball|3|0|2|1|14|81
+Kevin Jepsen|R|Adam Jones|R|Strikeout|W|Curveball|4|1|2|1|14|80
+Kevin Jepsen|R|Chris Davis|L|Walk|B|Changeup|5|0|0|2|14|84
+Kevin Jepsen|R|Chris Davis|L|Walk|B|Four-Seam Fastball|6|1|0|2|13|93
+Kevin Jepsen|R|Chris Davis|L|Walk|C|Four-Seam Fastball|7|2|0|2|13|93
+Kevin Jepsen|R|Chris Davis|L|Walk|B|Four-Seam Fastball|8|2|1|2|13|93
+Kevin Jepsen|R|Chris Davis|L|Walk|B|Four-Seam Fastball|9|3|1|2|13|93
+Kevin Jepsen|R|Mark Trumbo|R|Single|F|Four-Seam Fastball|10|0|0|2|13|93
+Kevin Jepsen|R|Mark Trumbo|R|Single|D|Four-Seam Fastball|11|0|1|2|7|93
+Kevin Jepsen|R|Matt Wieters|L|Single|E|Four-Seam Fastball|12|0|0|2|1|94
+Kevin Jepsen|R|Alex Gordon|L|Single|B|Changeup|0|0|0|0|13|86
+Kevin Jepsen|R|Alex Gordon|L|Single|D|Four-Seam Fastball|1|1|0|0|1|93
+Kevin Jepsen|R|Salvador Perez|R|Triple|B|Four-Seam Fastball|2|0|0|0|12|94
+Kevin Jepsen|R|Salvador Perez|R|Triple|E|Two-Seam Fastball|3|1|0|0|11|95
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|*B|Curveball|4|0|0|0|14|80
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|F|Four-Seam Fastball|5|1|0|0|12|93
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|B|Curveball|6|1|1|0|14|82
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|S|Four-Seam Fastball|7|2|1|0|11|94
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|B|Four-Seam Fastball|8|2|2|0|11|94
+Kevin Jepsen|R|Omar Infante|R|Sac Fly|E|Four-Seam Fastball|9|3|2|0|4|94
+Kevin Jepsen|R|Rey Fuentes|L|Strikeout|B|Changeup|10|0|0|1|13|85
+Kevin Jepsen|R|Rey Fuentes|L|Strikeout|C|Four-Seam Fastball|11|1|0|1|11|94
+Kevin Jepsen|R|Rey Fuentes|L|Strikeout|B|Changeup|12|1|1|1|14|86
+Kevin Jepsen|R|Rey Fuentes|L|Strikeout|F|Four-Seam Fastball|13|2|1|1|5|94
+Kevin Jepsen|R|Rey Fuentes|L|Strikeout|W|Curveball|14|2|2|1|14|82
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|15|0|0|2|13|94
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|X|Curveball|16|0|1|2|9|82
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|5|93
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|F|Curveball|1|0|1|0|6|81
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|B|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|B|Curveball|3|1|2|0|14|82
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|F|Four-Seam Fastball|4|2|2|0|14|95
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|F|Four-Seam Fastball|5|2|2|0|3|95
+Kevin Jepsen|R|Salvador Perez|R|Strikeout|S|Four-Seam Fastball|6|2|2|0|12|96
+Kevin Jepsen|R|Christian Colon|R|Single|C|Four-Seam Fastball|7|0|0|1|9|94
+Kevin Jepsen|R|Christian Colon|R|Single|D|Four-Seam Fastball|8|0|1|1|11|96
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|B|Four-Seam Fastball|9|0|0|1|13|93
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|B|Four-Seam Fastball|10|1|0|1|14|94
+Kevin Jepsen|R|Paulo Orlando|R|Groundout|X|Four-Seam Fastball|11|2|0|1|9|94
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|*B|Curveball|12|0|0|2|14|81
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|X|Four-Seam Fastball|13|1|0|2|1|95
+Kevin Jepsen|R|Carlos Perez|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|93
+Kevin Jepsen|R|Carlos Perez|R|Walk|F|Four-Seam Fastball|1|1|0|0|12|94
+Kevin Jepsen|R|Carlos Perez|R|Walk|F|Four-Seam Fastball|2|1|1|0|12|93
+Kevin Jepsen|R|Carlos Perez|R|Walk|B|Curveball|3|1|2|0|14|80
+Kevin Jepsen|R|Carlos Perez|R|Walk|B|Curveball|4|2|2|0|14|82
+Kevin Jepsen|R|Carlos Perez|R|Walk|B|Four-Seam Fastball|5|3|2|0|11|94
+Kevin Jepsen|R|Cliff Pennington|L|Groundout|F|Four-Seam Fastball|6|0|0|0|1|93
+Kevin Jepsen|R|Cliff Pennington|L|Groundout|X|Four-Seam Fastball|7|0|1|0|11|93
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|B|Curveball|8|0|0|1|14|82
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|S|Four-Seam Fastball|9|1|0|1|11|94
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|F|Four-Seam Fastball|10|1|1|1|2|95
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|B|Four-Seam Fastball|11|1|2|1|11|95
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|12|2|2|1|6|94
+Kevin Jepsen|R|Daniel Nava|L|Strikeout|*B|Curveball|13|0|0|2|13|80
+Kevin Jepsen|R|Daniel Nava|L|Strikeout|S|Four-Seam Fastball|14|1|0|2|1|94
+Kevin Jepsen|R|Daniel Nava|L|Strikeout|S|Four-Seam Fastball|15|1|1|2|11|94
+Kevin Jepsen|R|Daniel Nava|L|Strikeout|S|Four-Seam Fastball|16|1|2|2|11|95
+Kevin Jepsen|R|Andrelton Simmons|R|Bunt Groundout|X|Four-Seam Fastball|0|0|0|2|1|93
+Kevin Jepsen|R|Geovany Soto|R|Walk|C|Four-Seam Fastball|1|0|0|0|9|94
+Kevin Jepsen|R|Geovany Soto|R|Walk|C|Curveball|2|0|1|0|6|82
+Kevin Jepsen|R|Geovany Soto|R|Walk|B|Curveball|3|0|2|0|14|81
+Kevin Jepsen|R|Geovany Soto|R|Walk|F|Curveball|4|1|2|0|9|81
+Kevin Jepsen|R|Geovany Soto|R|Walk|B|Curveball|5|1|2|0|14|81
+Kevin Jepsen|R|Geovany Soto|R|Walk|B|Four-Seam Fastball|6|2|2|0|14|94
+Kevin Jepsen|R|Geovany Soto|R|Walk|B|Four-Seam Fastball|7|3|2|0|12|94
+Kevin Jepsen|R|Cliff Pennington|L|Strikeout|B|Four-Seam Fastball|8|0|0|0|11|94
+Kevin Jepsen|R|Cliff Pennington|L|Strikeout|F|Four-Seam Fastball|9|1|0|0|4|94
+Kevin Jepsen|R|Cliff Pennington|L|Strikeout|S|Four-Seam Fastball|10|1|1|0|7|94
+Kevin Jepsen|R|Cliff Pennington|L|Strikeout|S|Four-Seam Fastball|11|1|2|0|11|95
+Kevin Jepsen|R|Yunel Escobar|R|Groundout|X|Four-Seam Fastball|12|0|0|1|7|94
+Kevin Jepsen|R|C.J. Cron|R|Groundout|B|Four-Seam Fastball|0|0|0|0|12|93
+Kevin Jepsen|R|C.J. Cron|R|Groundout|X|Four-Seam Fastball|1|1|0|0|5|93
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|14|93
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|B|Four-Seam Fastball|3|1|0|1|12|94
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|C|Four-Seam Fastball|4|2|0|1|14|93
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|C|Four-Seam Fastball|5|2|1|1|8|93
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|F|Four-Seam Fastball|6|2|2|1|5|94
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|F|Four-Seam Fastball|7|2|2|1|2|94
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|F|Four-Seam Fastball|8|2|2|1|3|94
+Kevin Jepsen|R|Andrelton Simmons|R|Strikeout|C|Four-Seam Fastball|9|2|2|1|14|94
+Kevin Jepsen|R|Carlos Perez|R|Flyout|X|Four-Seam Fastball|10|0|0|2|6|93
+Kevin Jepsen|R|Martin Maldonado|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|94
+Kevin Jepsen|R|Martin Maldonado|R|Flyout|B|Four-Seam Fastball|1|1|0|0|12|93
+Kevin Jepsen|R|Martin Maldonado|R|Flyout|F|Four-Seam Fastball|2|2|0|0|2|93
+Kevin Jepsen|R|Martin Maldonado|R|Flyout|X|Four-Seam Fastball|3|2|1|0|5|94
+Kevin Jepsen|R|Yadiel Rivera|R|Double|B|Four-Seam Fastball|4|0|0|1|14|93
+Kevin Jepsen|R|Yadiel Rivera|R|Double|D|Four-Seam Fastball|5|1|0|1|8|94
+Kevin Jepsen|R|Scooter Gennett|L|Single|*B|Curveball|6|0|0|1|13|81
+Kevin Jepsen|R|Scooter Gennett|L|Single|E|Curveball|7|1|0|1|5|81
+Kevin Jepsen|R|Ryan Braun|R|Grounded Into DP|B|Four-Seam Fastball|8|0|0|1|12|93
+Kevin Jepsen|R|Ryan Braun|R|Grounded Into DP|X|Four-Seam Fastball|9|1|0|1|6|93
+Kevin Jepsen|R|Bryce Harper|L|Home Run|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Bryce Harper|L|Home Run|B|Four-Seam Fastball|1|1|0|0|11|94
+Kevin Jepsen|R|Bryce Harper|L|Home Run|F|Four-Seam Fastball|2|2|0|0|4|94
+Kevin Jepsen|R|Bryce Harper|L|Home Run|F|Four-Seam Fastball|3|2|1|0|2|95
+Kevin Jepsen|R|Bryce Harper|L|Home Run|B|Four-Seam Fastball|4|2|2|0|11|95
+Kevin Jepsen|R|Bryce Harper|L|Home Run|F|Four-Seam Fastball|5|3|2|0|11|94
+Kevin Jepsen|R|Bryce Harper|L|Home Run|E|Four-Seam Fastball|6|3|2|0|13|95
+Kevin Jepsen|R|Daniel Murphy|L|Flyout|C|Curveball|7|0|0|0|13|82
+Kevin Jepsen|R|Daniel Murphy|L|Flyout|B|Curveball|8|0|1|0|13|82
+Kevin Jepsen|R|Daniel Murphy|L|Flyout|F|Four-Seam Fastball|9|1|1|0|2|94
+Kevin Jepsen|R|Daniel Murphy|L|Flyout|B|Curveball|10|1|2|0|14|82
+Kevin Jepsen|R|Daniel Murphy|L|Flyout|X|Four-Seam Fastball|11|2|2|0|11|93
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|12|0|0|1|12|93
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|C|Curveball|13|1|0|1|7|82
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|B|Four-Seam Fastball|14|1|1|1|11|92
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|T|Four-Seam Fastball|15|2|1|1|13|94
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|F|Four-Seam Fastball|16|2|2|1|5|95
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|F|Four-Seam Fastball|17|2|2|1|6|95
+Kevin Jepsen|R|Ryan Zimmerman|R|Strikeout|S|Curveball|18|2|2|1|14|81
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|C|Four-Seam Fastball|19|0|0|2|3|94
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|C|Curveball|20|0|1|2|7|81
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|B|Curveball|21|0|2|2|14|81
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|22|1|2|2|12|92
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|B|Four-Seam Fastball|23|2|2|2|12|94
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|F|Four-Seam Fastball|24|3|2|2|3|94
+Kevin Jepsen|R|Anthony Rendon|R|Flyout|X|Four-Seam Fastball|25|3|2|2|9|93
+Kevin Jepsen|R|Jason Kipnis|L|Pop Out|X|Four-Seam Fastball|0|0|0|0|9|91
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|C|Four-Seam Fastball|1|0|0|1|12|92
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|B|Curveball|2|0|1|1|11|82
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|C|Curveball|3|1|1|1|11|81
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|B|Four-Seam Fastball|4|1|2|1|12|92
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|F|Four-Seam Fastball|5|2|2|1|11|93
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|F|Four-Seam Fastball|6|2|2|1|5|93
+Kevin Jepsen|R|Francisco Lindor|L|Lineout|X|Four-Seam Fastball|7|2|2|1|11|93
+Kevin Jepsen|R|Mike Napoli|R|Flyout|S|Curveball|8|0|0|2|6|82
+Kevin Jepsen|R|Mike Napoli|R|Flyout|C|Four-Seam Fastball|9|0|1|2|12|93
+Kevin Jepsen|R|Mike Napoli|R|Flyout|B|Four-Seam Fastball|10|0|2|2|12|92
+Kevin Jepsen|R|Mike Napoli|R|Flyout|B|Four-Seam Fastball|11|1|2|2|11|93
+Kevin Jepsen|R|Mike Napoli|R|Flyout|X|Four-Seam Fastball|12|2|2|2|12|92
+Kevin Jepsen|R|Francisco Lindor|L|Flyout|C|Curveball|0|0|0|0|8|81
+Kevin Jepsen|R|Francisco Lindor|L|Flyout|B|Four-Seam Fastball|1|0|1|0|11|93
+Kevin Jepsen|R|Francisco Lindor|L|Flyout|C|Four-Seam Fastball|2|1|1|0|8|93
+Kevin Jepsen|R|Francisco Lindor|L|Flyout|X|Four-Seam Fastball|3|1|2|0|11|93
+Kevin Jepsen|R|Michael Brantley|L|Groundout|B|Four-Seam Fastball|4|0|0|1|13|93
+Kevin Jepsen|R|Michael Brantley|L|Groundout|F|Four-Seam Fastball|5|1|0|1|1|94
+Kevin Jepsen|R|Michael Brantley|L|Groundout|B|Four-Seam Fastball|6|1|1|1|11|93
+Kevin Jepsen|R|Michael Brantley|L|Groundout|X|Four-Seam Fastball|7|2|1|1|5|92
+Kevin Jepsen|R|Mike Napoli|R|Home Run|B|Curveball|8|0|0|2|14|82
+Kevin Jepsen|R|Mike Napoli|R|Home Run|E|Four-Seam Fastball|9|1|0|2|12|94
+Kevin Jepsen|R|Yan Gomes|R|Flyout|B|Curveball|10|0|0|2|13|82
+Kevin Jepsen|R|Yan Gomes|R|Flyout|C|Curveball|11|1|0|2|3|80
+Kevin Jepsen|R|Yan Gomes|R|Flyout|B|Four-Seam Fastball|12|1|1|2|11|91
+Kevin Jepsen|R|Yan Gomes|R|Flyout|B|Four-Seam Fastball|13|2|1|2|12|91
+Kevin Jepsen|R|Yan Gomes|R|Flyout|X|Four-Seam Fastball|14|3|1|2|3|92
+Kevin Jepsen|R|Jose Iglesias|R|Single|C|Four-Seam Fastball|0|0|0|0|9|93
+Kevin Jepsen|R|Jose Iglesias|R|Single|S|Four-Seam Fastball|1|0|1|0|9|93
+Kevin Jepsen|R|Jose Iglesias|R|Single|B|Four-Seam Fastball|2|0|2|0|12|92
+Kevin Jepsen|R|Jose Iglesias|R|Single|D|Four-Seam Fastball|3|1|2|0|11|94
+Kevin Jepsen|R|Ian Kinsler|R|Lineout|B|Four-Seam Fastball|4|0|0|0|14|92
+Kevin Jepsen|R|Ian Kinsler|R|Lineout|S|Four-Seam Fastball|5|1|0|0|14|93
+Kevin Jepsen|R|Ian Kinsler|R|Lineout|B|Curveball|6|1|1|0|14|83
+Kevin Jepsen|R|Ian Kinsler|R|Lineout|X|Four-Seam Fastball|7|2|1|0|3|95
+Kevin Jepsen|R|J.D. Martinez|R|Flyout|C|Curveball|8|0|0|1|6|82
+Kevin Jepsen|R|J.D. Martinez|R|Flyout|X|Four-Seam Fastball|9|0|1|1|1|93
+Kevin Jepsen|R|Miguel Cabrera|R|Groundout|X|Four-Seam Fastball|10|0|0|2|7|92
+Kevin Jepsen|R|Preston Tucker|L|Groundout|B|Four-Seam Fastball|0|0|0|0|11|94
+Kevin Jepsen|R|Preston Tucker|L|Groundout|S|Four-Seam Fastball|1|1|0|0|3|93
+Kevin Jepsen|R|Preston Tucker|L|Groundout|X|Four-Seam Fastball|2|1|1|0|11|94
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|B|Changeup|3|0|0|1|14|85
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|F|Four-Seam Fastball|4|1|0|1|4|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|F|Four-Seam Fastball|5|1|1|1|14|94
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|F|Curveball|6|1|2|1|8|83
+Kevin Jepsen|R|Marwin Gonzalez|L|Flyout|X|Four-Seam Fastball|7|1|2|1|2|93
+Kevin Jepsen|R|Tyler White|R|Walk|B|Four-Seam Fastball|8|0|0|2|14|94
+Kevin Jepsen|R|Tyler White|R|Walk|B|Four-Seam Fastball|9|1|0|2|14|94
+Kevin Jepsen|R|Tyler White|R|Walk|B|Four-Seam Fastball|10|2|0|2|14|93
+Kevin Jepsen|R|Tyler White|R|Walk|C|Four-Seam Fastball|11|3|0|2|12|93
+Kevin Jepsen|R|Tyler White|R|Walk|B|Four-Seam Fastball|12|3|1|2|12|93
+Kevin Jepsen|R|Jason Castro|L|Single|D|Four-Seam Fastball|13|0|0|2|7|92
+Kevin Jepsen|R|Jose Altuve|R|Groundout|C|Curveball|14|0|0|2|2|81
+Kevin Jepsen|R|Jose Altuve|R|Groundout|*B|Curveball|15|0|1|2|14|81
+Kevin Jepsen|R|Jose Altuve|R|Groundout|X|Four-Seam Fastball|16|1|1|2|8|93
+Kevin Jepsen|R|Austin Jackson|R|Double|F|Four-Seam Fastball|0|0|0|0|9|95
+Kevin Jepsen|R|Austin Jackson|R|Double|B|Four-Seam Fastball|1|0|1|0|12|95
+Kevin Jepsen|R|Austin Jackson|R|Double|F|Four-Seam Fastball|2|1|1|0|2|94
+Kevin Jepsen|R|Austin Jackson|R|Double|B|Curveball|3|1|2|0|14|84
+Kevin Jepsen|R|Austin Jackson|R|Double|B|Four-Seam Fastball|4|2|2|0|14|94
+Kevin Jepsen|R|Austin Jackson|R|Double|D|Four-Seam Fastball|5|3|2|0|5|93
+Kevin Jepsen|R|Jose Abreu|R|Single|C|Curveball|6|0|0|0|1|83
+Kevin Jepsen|R|Jose Abreu|R|Single|C|Four-Seam Fastball|7|0|1|0|13|94
+Kevin Jepsen|R|Jose Abreu|R|Single|F|Curveball|8|0|2|0|14|83
+Kevin Jepsen|R|Jose Abreu|R|Single|*B|Curveball|9|0|2|0|14|83
+Kevin Jepsen|R|Jose Abreu|R|Single|*B|Curveball|10|1|2|0|14|83
+Kevin Jepsen|R|Jose Abreu|R|Single|E|Four-Seam Fastball|11|2|2|0|1|94
+Kevin Jepsen|R|Todd Frazier|R|Pop Out|B|Curveball|12|0|0|0|11|82
+Kevin Jepsen|R|Todd Frazier|R|Pop Out|C|Four-Seam Fastball|13|1|0|0|9|93
+Kevin Jepsen|R|Todd Frazier|R|Pop Out|X|Four-Seam Fastball|14|1|1|0|4|94
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|*B|Changeup|15|0|0|1|13|88
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|F|Four-Seam Fastball|16|1|0|1|12|94
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|F|Four-Seam Fastball|17|1|1|1|12|95
+Kevin Jepsen|R|Melky Cabrera|L|Groundout|X|Curveball|18|1|2|1|7|85
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|0|0|0|0|3|94
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|F|Four-Seam Fastball|1|0|1|0|12|94
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Curveball|2|0|2|0|14|83
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|B|Curveball|3|1|2|0|14|82
+Kevin Jepsen|R|Jonathan Schoop|R|Strikeout|S|Four-Seam Fastball|4|2|2|0|12|94
+Kevin Jepsen|R|Ryan Flaherty|L|Pop Out|B|Changeup|5|0|0|1|11|84
+Kevin Jepsen|R|Ryan Flaherty|L|Pop Out|X|Four-Seam Fastball|6|1|0|1|12|94
+Kevin Jepsen|R|Joey Rickard|R|Double|C|Four-Seam Fastball|7|0|0|2|12|95
+Kevin Jepsen|R|Joey Rickard|R|Double|B|Four-Seam Fastball|8|0|1|2|12|95
+Kevin Jepsen|R|Joey Rickard|R|Double|F|Curveball|9|1|1|2|8|83
+Kevin Jepsen|R|Joey Rickard|R|Double|F|Four-Seam Fastball|10|1|2|2|12|94
+Kevin Jepsen|R|Joey Rickard|R|Double|F|Four-Seam Fastball|11|1|2|2|12|95
+Kevin Jepsen|R|Joey Rickard|R|Double|B|Curveball|12|1|2|2|14|83
+Kevin Jepsen|R|Joey Rickard|R|Double|B|Four-Seam Fastball|13|2|2|2|12|94
+Kevin Jepsen|R|Joey Rickard|R|Double|D|Four-Seam Fastball|14|3|2|2|1|94
+Kevin Jepsen|R|Manny Machado|R|Intent Walk|B|Four-Seam Fastball|15|0|0|2|12|94
+Kevin Jepsen|R|Manny Machado|R|Intent Walk|*B|Curveball|16|1|0|2|14|81
+Kevin Jepsen|R|Manny Machado|R|Intent Walk|I|Intentional Ball|17|2|0|2|12|57
+Kevin Jepsen|R|Manny Machado|R|Intent Walk|I|N/A|18|2|1|2|0|0
+Kevin Jepsen|R|Adam Jones|R|Single|B|Four-Seam Fastball|19|0|0|2|12|95
+Kevin Jepsen|R|Adam Jones|R|Single|F|Four-Seam Fastball|20|1|0|2|12|95
+Kevin Jepsen|R|Adam Jones|R|Single|F|Four-Seam Fastball|21|1|1|2|3|94
+Kevin Jepsen|R|Adam Jones|R|Single|B|Curveball|22|1|2|2|14|82
+Kevin Jepsen|R|Adam Jones|R|Single|F|Four-Seam Fastball|23|2|2|2|12|95
+Kevin Jepsen|R|Adam Jones|R|Single|E|Four-Seam Fastball|24|2|2|2|12|94
+Kevin Jepsen|R|Chris Davis|L|Double|B|Changeup|25|0|0|2|11|83
+Kevin Jepsen|R|Chris Davis|L|Double|D|Four-Seam Fastball|26|1|0|2|9|92
+Kevin Jepsen|R|Mark Trumbo|R|Lineout|F|Curveball|27|0|0|2|8|81
+Kevin Jepsen|R|Mark Trumbo|R|Lineout|B|Four-Seam Fastball|28|0|1|2|14|93
+Kevin Jepsen|R|Mark Trumbo|R|Lineout|X|Four-Seam Fastball|29|1|1|2|12|94
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|2|92
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|B|Four-Seam Fastball|1|0|1|0|11|92
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|F|Four-Seam Fastball|2|1|1|0|5|92
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|B|Curveball|3|1|2|0|14|81
+Kevin Jepsen|R|Jose Ramirez|L|Pop Out|X|Four-Seam Fastball|4|2|2|0|14|92
+Kevin Jepsen|R|Marlon Byrd|R|Lineout|T|Four-Seam Fastball|5|0|0|1|8|93
+Kevin Jepsen|R|Marlon Byrd|R|Lineout|X|Four-Seam Fastball|6|0|1|1|14|93
+Kevin Jepsen|R|Yan Gomes|R|Home Run|F|Four-Seam Fastball|7|0|0|2|3|94
+Kevin Jepsen|R|Yan Gomes|R|Home Run|F|Four-Seam Fastball|8|0|1|2|3|95
+Kevin Jepsen|R|Yan Gomes|R|Home Run|B|N/A|9|0|2|2|0|0
+Kevin Jepsen|R|Yan Gomes|R|Home Run|F|Curveball|10|1|2|2|9|81
+Kevin Jepsen|R|Yan Gomes|R|Home Run|E|Four-Seam Fastball|11|1|2|2|2|92
+Kevin Jepsen|R|Tyler Naquin|L|Lineout|B|Four-Seam Fastball|12|0|0|2|11|91
+Kevin Jepsen|R|Tyler Naquin|L|Lineout|F|Four-Seam Fastball|13|1|0|2|14|91
+Kevin Jepsen|R|Tyler Naquin|L|Lineout|F|Curveball|14|1|1|2|14|80
+Kevin Jepsen|R|Tyler Naquin|L|Lineout|B|Curveball|15|1|2|2|14|80
+Kevin Jepsen|R|Tyler Naquin|L|Lineout|X|Four-Seam Fastball|16|2|2|2|14|91
+Kevin Jepsen|R|Juan Uribe|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|93
+Kevin Jepsen|R|Juan Uribe|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|5|93
+Kevin Jepsen|R|Juan Uribe|R|Strikeout|F|Four-Seam Fastball|2|1|1|0|3|94
+Kevin Jepsen|R|Juan Uribe|R|Strikeout|F|Curveball|3|1|2|0|6|81
+Kevin Jepsen|R|Juan Uribe|R|Strikeout|S|Curveball|4|1|2|0|14|81
+Kevin Jepsen|R|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|5|0|0|1|13|93
+Kevin Jepsen|R|Tyler Naquin|L|Strikeout|B|Four-Seam Fastball|6|1|0|1|11|92
+Kevin Jepsen|R|Tyler Naquin|L|Strikeout|F|Four-Seam Fastball|7|2|0|1|9|92
+Kevin Jepsen|R|Tyler Naquin|L|Strikeout|T|Four-Seam Fastball|8|2|1|1|5|93
+Kevin Jepsen|R|Tyler Naquin|L|Strikeout|C|Four-Seam Fastball|9|2|2|1|7|93
+Kevin Jepsen|R|Chris Gimenez|R|Single|C|Four-Seam Fastball|10|0|0|2|13|93
+Kevin Jepsen|R|Chris Gimenez|R|Single|D|Four-Seam Fastball|11|0|1|2|5|93
+Kevin Jepsen|R|Michael Martinez|L|Single|F|Four-Seam Fastball|12|0|0|2|14|93
+Kevin Jepsen|R|Michael Martinez|L|Single|D|Changeup|13|0|1|2|7|83
+Kevin Jepsen|R|Carlos Santana|L|Flyout|B|Four-Seam Fastball|14|0|0|2|7|92
+Kevin Jepsen|R|Carlos Santana|L|Flyout|C|Changeup|15|1|0|2|13|83
+Kevin Jepsen|R|Carlos Santana|L|Flyout|*B|Curveball|16|1|1|2|14|82
+Kevin Jepsen|R|Carlos Santana|L|Flyout|X|Four-Seam Fastball|17|2|1|2|11|93
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|14|94
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|14|95
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|2|1|1|0|14|95
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|C|Four-Seam Fastball|3|2|1|0|14|93
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|12|96
+Kevin Jepsen|R|Edwin Encarnacion|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|12|95
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|C|Four-Seam Fastball|6|0|0|1|13|94
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|S|Changeup|7|0|1|1|14|88
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|B|Curveball|8|0|2|1|13|83
+Kevin Jepsen|R|Justin Smoak|L|Strikeout|W|Curveball|9|1|2|1|14|83
+Kevin Jepsen|R|Michael Saunders|L|Double|B|Changeup|10|0|0|2|11|86
+Kevin Jepsen|R|Michael Saunders|L|Double|T|Four-Seam Fastball|11|1|0|2|1|94
+Kevin Jepsen|R|Michael Saunders|L|Double|B|Changeup|12|1|1|2|14|87
+Kevin Jepsen|R|Michael Saunders|L|Double|C|Four-Seam Fastball|13|2|1|2|13|95
+Kevin Jepsen|R|Michael Saunders|L|Double|B|Four-Seam Fastball|14|2|2|2|11|95
+Kevin Jepsen|R|Michael Saunders|L|Double|D|Four-Seam Fastball|15|3|2|2|9|95
+Kevin Jepsen|R|Troy Tulowitzki|R|Flyout|B|Four-Seam Fastball|16|0|0|2|12|94
+Kevin Jepsen|R|Troy Tulowitzki|R|Flyout|B|Four-Seam Fastball|17|1|0|2|11|94
+Kevin Jepsen|R|Troy Tulowitzki|R|Flyout|C|Four-Seam Fastball|18|2|0|2|14|94
+Kevin Jepsen|R|Troy Tulowitzki|R|Flyout|B|Four-Seam Fastball|19|2|1|2|14|95
+Kevin Jepsen|R|Troy Tulowitzki|R|Flyout|X|Four-Seam Fastball|20|3|1|2|3|95
+Kevin Jepsen|R|Troy Tulowitzki|R|Groundout|C|Four-Seam Fastball|0|0|0|0|6|93
+Kevin Jepsen|R|Troy Tulowitzki|R|Groundout|B|Four-Seam Fastball|1|0|1|0|14|93
+Kevin Jepsen|R|Troy Tulowitzki|R|Groundout|X|Four-Seam Fastball|2|1|1|0|2|94
+Kevin Jepsen|R|Michael Saunders|L|Home Run|E|Four-Seam Fastball|3|0|0|1|5|91
+Kevin Jepsen|R|Russell Martin|R|Pop Out|C|Four-Seam Fastball|4|0|0|1|3|93
+Kevin Jepsen|R|Russell Martin|R|Pop Out|B|Curveball|5|0|1|1|14|81
+Kevin Jepsen|R|Russell Martin|R|Pop Out|X|Four-Seam Fastball|6|1|1|1|4|93
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|S|Curveball|7|0|0|2|14|82
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|C|Curveball|8|0|1|2|2|80
+Kevin Jepsen|R|Kevin Pillar|R|Groundout|X|Curveball|9|0|2|2|9|80
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|B|Changeup|0|0|0|0|13|83
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|13|92
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|C|Four-Seam Fastball|2|2|0|0|13|92
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|3|2|1|0|11|93
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|93
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|5|2|2|0|13|93
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|F|Four-Seam Fastball|6|2|2|0|4|93
+Kevin Jepsen|R|Eric Hosmer|L|Strikeout|S|Four-Seam Fastball|7|2|2|0|11|93
+Kevin Jepsen|R|Kendrys Morales|L|Lineout|B|Changeup|8|0|0|1|13|85
+Kevin Jepsen|R|Kendrys Morales|L|Lineout|B|Changeup|9|1|0|1|14|84
+Kevin Jepsen|R|Kendrys Morales|L|Lineout|X|Four-Seam Fastball|10|2|0|1|13|92
+Kevin Jepsen|R|Salvador Perez|R|Single|F|Four-Seam Fastball|11|0|0|2|14|93
+Kevin Jepsen|R|Salvador Perez|R|Single|D|Curveball|12|0|1|2|2|81
+Kevin Jepsen|R|Paulo Orlando|R|Single|B|Four-Seam Fastball|13|0|0|2|14|92
+Kevin Jepsen|R|Paulo Orlando|R|Single|S|Four-Seam Fastball|14|1|0|2|14|91
+Kevin Jepsen|R|Paulo Orlando|R|Single|B|Four-Seam Fastball|15|1|1|2|14|92
+Kevin Jepsen|R|Paulo Orlando|R|Single|S|Four-Seam Fastball|16|2|1|2|6|92
+Kevin Jepsen|R|Paulo Orlando|R|Single|F|Four-Seam Fastball|17|2|2|2|12|92
+Kevin Jepsen|R|Paulo Orlando|R|Single|*B|Four-Seam Fastball|18|2|2|2|14|92
+Kevin Jepsen|R|Paulo Orlando|R|Single|D|Four-Seam Fastball|19|3|2|2|14|92
+Kevin Jepsen|R|Omar Infante|R|Double|E|Four-Seam Fastball|20|0|0|2|11|92
+Kevin Jepsen|R|Jarrod Dyson|L|Pop Out|X|Four-Seam Fastball|21|0|0|2|11|92
+Kevin Jepsen|R|Omar Infante|R|Pop Out|C|Four-Seam Fastball|0|0|0|1|5|94
+Kevin Jepsen|R|Omar Infante|R|Pop Out|B|Curveball|1|0|1|1|14|84
+Kevin Jepsen|R|Omar Infante|R|Pop Out|B|Four-Seam Fastball|2|1|1|1|11|95
+Kevin Jepsen|R|Omar Infante|R|Pop Out|X|Four-Seam Fastball|3|2|1|1|3|95
+Kevin Jepsen|R|Jarrod Dyson|L|Double|D|Four-Seam Fastball|4|0|0|2|11|94
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|B|Curveball|5|0|0|2|1|83
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|F|Curveball|6|1|0|2|9|83
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|B|Four-Seam Fastball|7|1|1|2|12|95
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|F|Four-Seam Fastball|8|2|1|2|2|95
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|F|Curveball|9|2|2|2|6|83
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|F|Curveball|10|2|2|2|8|82
+Kevin Jepsen|R|Alcides Escobar|R|Groundout|X|Four-Seam Fastball|11|2|2|2|3|95
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|C|Curveball|12|0|0|0|5|83
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|*B|Curveball|13|0|1|0|14|83
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|F|Curveball|14|1|1|0|5|83
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|15|1|2|0|12|95
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|*B|Curveball|16|2|2|0|14|83
+Kevin Jepsen|R|Whit Merrifield|R|Strikeout|S|Four-Seam Fastball|17|3|2|0|12|94
+Kevin Jepsen|R|Nelson Cruz|R|Walk|C|Four-Seam Fastball|0|0|0|0|4|95
+Kevin Jepsen|R|Nelson Cruz|R|Walk|S|Two-Seam Fastball|1|0|1|0|3|95
+Kevin Jepsen|R|Nelson Cruz|R|Walk|B|Curveball|2|0|2|0|14|84
+Kevin Jepsen|R|Nelson Cruz|R|Walk|B|Curveball|3|1|2|0|14|83
+Kevin Jepsen|R|Nelson Cruz|R|Walk|F|Two-Seam Fastball|4|2|2|0|5|95
+Kevin Jepsen|R|Nelson Cruz|R|Walk|B|Two-Seam Fastball|5|2|2|0|14|95
+Kevin Jepsen|R|Nelson Cruz|R|Walk|B|Two-Seam Fastball|6|3|2|0|14|96
+Kevin Jepsen|R|Kyle Seager|L|Single|D|Four-Seam Fastball|7|0|0|0|13|94
+Kevin Jepsen|R|Dae-Ho Lee|R|Flyout|*B|Curveball|8|0|0|0|14|83
+Kevin Jepsen|R|Dae-Ho Lee|R|Flyout|B|Curveball|9|1|0|0|14|84
+Kevin Jepsen|R|Dae-Ho Lee|R|Flyout|C|Two-Seam Fastball|10|2|0|0|12|94
+Kevin Jepsen|R|Dae-Ho Lee|R|Flyout|C|Curveball|11|2|1|0|9|83
+Kevin Jepsen|R|Dae-Ho Lee|R|Flyout|X|Curveball|12|2|2|0|8|83
+Kevin Jepsen|R|Franklin Gutierrez|R|Runner Out|C|Curveball|13|0|0|1|6|82
+Kevin Jepsen|R|Franklin Gutierrez|R|Runner Out|S|Curveball|14|0|1|1|8|83
+Kevin Jepsen|R|Franklin Gutierrez|R|Runner Out|*B|Curveball|15|0|2|1|14|82
+Kevin Jepsen|R|Nelson Cruz|R|Single|D|Four-Seam Fastball|0|0|0|0|9|94
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|F|Two-Seam Fastball|1|0|0|0|13|93
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|*B|Curveball|2|0|1|0|14|82
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|S|Changeup|3|1|1|0|13|85
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|*B|Curveball|4|1|2|0|14|83
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|F|Four-Seam Fastball|5|2|2|0|11|94
+Kevin Jepsen|R|Kyle Seager|L|Grounded Into DP|X|Two-Seam Fastball|6|2|2|0|1|95
+Kevin Jepsen|R|Adam Lind|L|Single|B|Changeup|7|0|0|2|14|86
+Kevin Jepsen|R|Adam Lind|L|Single|B|Four-Seam Fastball|8|1|0|2|11|94
+Kevin Jepsen|R|Adam Lind|L|Single|F|Two-Seam Fastball|9|2|0|2|4|93
+Kevin Jepsen|R|Adam Lind|L|Single|D|Four-Seam Fastball|10|2|1|2|9|94
+Kevin Jepsen|R|Franklin Gutierrez|R|Home Run|B|Curveball|11|0|0|2|14|83
+Kevin Jepsen|R|Franklin Gutierrez|R|Home Run|B|Four-Seam Fastball|12|1|0|2|11|93
+Kevin Jepsen|R|Franklin Gutierrez|R|Home Run|F|Two-Seam Fastball|13|2|0|2|7|94
+Kevin Jepsen|R|Franklin Gutierrez|R|Home Run|E|Two-Seam Fastball|14|2|1|2|2|94
+Kevin Jepsen|R|Dae-Ho Lee|R|Strikeout|C|Curveball|15|0|0|2|1|82
+Kevin Jepsen|R|Dae-Ho Lee|R|Strikeout|S|Curveball|16|0|1|2|14|82
+Kevin Jepsen|R|Dae-Ho Lee|R|Strikeout|F|Curveball|17|0|2|2|9|81
+Kevin Jepsen|R|Dae-Ho Lee|R|Strikeout|F|Curveball|18|0|2|2|5|81
+Kevin Jepsen|R|Dae-Ho Lee|R|Strikeout|W|Curveball|19|0|2|2|14|82
+Kevin Jepsen|R|Mikie Mahtook|R|Flyout|X|Four-Seam Fastball|0|0|0|0|6|94
+Kevin Jepsen|R|Taylor Motter|R|Flyout|F|Four-Seam Fastball|1|0|0|1|11|95
+Kevin Jepsen|R|Taylor Motter|R|Flyout|F|Curveball|2|0|1|1|4|82
+Kevin Jepsen|R|Taylor Motter|R|Flyout|B|Curveball|3|0|2|1|14|82
+Kevin Jepsen|R|Taylor Motter|R|Flyout|B|Curveball|4|1|2|1|14|82
+Kevin Jepsen|R|Taylor Motter|R|Flyout|X|Four-Seam Fastball|5|2|2|1|12|95
+Kevin Jepsen|R|Steve Pearce|R|Single|D|Curveball|6|0|0|2|5|82
+Kevin Jepsen|R|Brandon Guyer|R|Groundout|B|Four-Seam Fastball|7|0|0|2|14|94
+Kevin Jepsen|R|Brandon Guyer|R|Groundout|X|Four-Seam Fastball|8|1|0|2|14|94
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|0|0|0|0|14|95
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|C|Four-Seam Fastball|1|1|0|0|14|95
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|T|Four-Seam Fastball|2|1|1|0|14|96
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|3|1|2|0|14|95
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|B|Four-Seam Fastball|4|2|2|0|12|95
+Kevin Jepsen|R|Steven Souza Jr.|R|Double|D|Four-Seam Fastball|5|3|2|0|14|94
+Kevin Jepsen|R|Curt Casali|R|Walk|W|Curveball|6|0|0|0|14|84
+Kevin Jepsen|R|Curt Casali|R|Walk|*B|Curveball|7|0|1|0|14|83
+Kevin Jepsen|R|Curt Casali|R|Walk|C|Four-Seam Fastball|8|1|1|0|12|95
+Kevin Jepsen|R|Curt Casali|R|Walk|*B|Curveball|9|1|2|0|14|82
+Kevin Jepsen|R|Curt Casali|R|Walk|B|Curveball|10|2|2|0|14|81
+Kevin Jepsen|R|Curt Casali|R|Walk|F|Curveball|11|3|2|0|9|83
+Kevin Jepsen|R|Curt Casali|R|Walk|B|Four-Seam Fastball|12|3|2|0|14|94
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|S|Four-Seam Fastball|13|0|0|0|14|94
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|C|Four-Seam Fastball|14|0|1|0|14|96
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|15|0|2|0|14|95
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|16|0|2|0|14|94
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|17|0|2|0|3|94
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|F|Curveball|18|0|2|0|9|82
+Kevin Jepsen|R|Tim Beckham|R|Strikeout|S|Four-Seam Fastball|19|0|2|0|11|94
+Kevin Jepsen|R|Nick Franklin|L|Walk|B|Four-Seam Fastball|20|0|0|1|11|94
+Kevin Jepsen|R|Nick Franklin|L|Walk|C|Four-Seam Fastball|21|1|0|1|11|93
+Kevin Jepsen|R|Nick Franklin|L|Walk|B|Curveball|22|1|1|1|11|82
+Kevin Jepsen|R|Nick Franklin|L|Walk|S|Four-Seam Fastball|23|2|1|1|4|93
+Kevin Jepsen|R|Nick Franklin|L|Walk|B|Four-Seam Fastball|24|2|2|1|11|95
+Kevin Jepsen|R|Nick Franklin|L|Walk|B|Four-Seam Fastball|25|3|2|1|11|95
+Kevin Jepsen|R|Brad Miller|L|Sac Fly|C|Four-Seam Fastball|26|0|0|1|11|93
+Kevin Jepsen|R|Brad Miller|L|Sac Fly|F|Curveball|27|0|1|1|13|82
+Kevin Jepsen|R|Brad Miller|L|Sac Fly|B|Four-Seam Fastball|28|0|2|1|11|95
+Kevin Jepsen|R|Brad Miller|L|Sac Fly|E|Four-Seam Fastball|29|1|2|1|11|92
+Kevin Jepsen|R|Evan Longoria|R|Single|B|Four-Seam Fastball|30|0|0|2|14|93
+Kevin Jepsen|R|Evan Longoria|R|Single|B|Four-Seam Fastball|31|1|0|2|14|94
+Kevin Jepsen|R|Evan Longoria|R|Single|B|Four-Seam Fastball|32|2|0|2|14|93
+Kevin Jepsen|R|Evan Longoria|R|Single|C|Four-Seam Fastball|33|3|0|2|5|93
+Kevin Jepsen|R|Evan Longoria|R|Single|S|Four-Seam Fastball|34|3|1|2|14|92
+Kevin Jepsen|R|Evan Longoria|R|Single|E|Curveball|35|3|2|2|4|81
+Kevin Jepsen|R|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|0|0|0|0|14|94
+Kevin Jepsen|R|J.T. Realmuto|R|Single|C|Curveball|1|0|0|1|14|82
+Kevin Jepsen|R|J.T. Realmuto|R|Single|B|Curveball|2|0|1|1|14|83
+Kevin Jepsen|R|J.T. Realmuto|R|Single|C|Curveball|3|1|1|1|14|82
+Kevin Jepsen|R|J.T. Realmuto|R|Single|F|Curveball|4|1|2|1|9|81
+Kevin Jepsen|R|J.T. Realmuto|R|Single|B|Four-Seam Fastball|5|1|2|1|12|93
+Kevin Jepsen|R|J.T. Realmuto|R|Single|D|Curveball|6|2|2|1|1|81
+Kevin Jepsen|R|Mookie Betts|R|Pop Out|C|Curveball|0|0|0|0|6|82
+Kevin Jepsen|R|Mookie Betts|R|Pop Out|B|Curveball|1|0|1|0|14|82
+Kevin Jepsen|R|Mookie Betts|R|Pop Out|X|Four-Seam Fastball|2|1|1|0|12|94
+Kevin Jepsen|R|Dustin Pedroia|R|Double|C|Curveball|3|0|0|1|9|82
+Kevin Jepsen|R|Dustin Pedroia|R|Double|E|Curveball|4|0|1|1|9|81
+Kevin Jepsen|R|Xander Bogaerts|R|Single|C|Four-Seam Fastball|5|0|0|1|14|94
+Kevin Jepsen|R|Xander Bogaerts|R|Single|*B|Curveball|6|0|1|1|14|82
+Kevin Jepsen|R|Xander Bogaerts|R|Single|E|Curveball|7|1|1|1|9|81
+Kevin Jepsen|R|David Ortiz|L|Flyout|C|Changeup|8|0|0|1|5|85
+Kevin Jepsen|R|David Ortiz|L|Flyout|X|Four-Seam Fastball|9|0|1|1|3|93
+Kevin Jepsen|R|Hanley Ramirez|R|Walk|B|Curveball|10|0|0|2|14|81
+Kevin Jepsen|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|11|1|0|2|12|93
+Kevin Jepsen|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|12|2|0|2|14|93
+Kevin Jepsen|R|Hanley Ramirez|R|Walk|B|Four-Seam Fastball|13|3|0|2|14|92
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|C|Four-Seam Fastball|14|0|0|2|4|93
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|15|0|1|2|6|93
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|F|Changeup|16|0|2|2|13|85
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|F|Curveball|17|0|2|2|14|81
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|F|Four-Seam Fastball|18|0|2|2|1|92
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|19|0|2|2|14|84
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Strikeout|W|Curveball|20|1|2|2|14|81
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|C|Changeup|21|0|0|0|4|84
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|C|Four-Seam Fastball|22|0|1|0|12|93
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|S|Four-Seam Fastball|23|0|2|0|11|93
+Kevin Jepsen|R|Chris Young|R|Pop Out|C|Four-Seam Fastball|24|0|0|1|6|93
+Kevin Jepsen|R|Chris Young|R|Pop Out|B|Curveball|25|0|1|1|14|81
+Kevin Jepsen|R|Chris Young|R|Pop Out|X|Curveball|26|1|1|1|2|81
+Kevin Jepsen|R|Chris Young|R|Pop Out|B|Curveball|0|0|0|1|12|80
+Kevin Jepsen|R|Chris Young|R|Pop Out|*B|Curveball|1|1|0|1|14|80
+Kevin Jepsen|R|Chris Young|R|Pop Out|C|Two-Seam Fastball|2|2|0|1|12|93
+Kevin Jepsen|R|Chris Young|R|Pop Out|X|Four-Seam Fastball|3|2|1|1|5|93
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|C|Four-Seam Fastball|4|0|0|2|11|93
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|F|Four-Seam Fastball|5|0|1|2|13|92
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|B|Curveball|6|0|2|2|13|80
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|*B|Changeup|7|1|2|2|13|82
+Kevin Jepsen|R|Travis Shaw|L|Strikeout|S|Two-Seam Fastball|8|2|2|2|11|93
+Kevin Jepsen|R|Gregorio Petit|R|Strikeout|C|Two-Seam Fastball|0|0|0|0|4|94
+Kevin Jepsen|R|Gregorio Petit|R|Strikeout|B|Curveball|1|0|1|0|14|82
+Kevin Jepsen|R|Gregorio Petit|R|Strikeout|C|Curveball|2|1|1|0|9|82
+Kevin Jepsen|R|Gregorio Petit|R|Strikeout|B|Four-Seam Fastball|3|1|2|0|11|93
+Kevin Jepsen|R|Gregorio Petit|R|Strikeout|C|Four-Seam Fastball|4|2|2|0|14|94
+Kevin Jepsen|R|Yunel Escobar|R|Single|B|Four-Seam Fastball|5|0|0|1|14|94
+Kevin Jepsen|R|Yunel Escobar|R|Single|D|Four-Seam Fastball|6|1|0|1|14|94
+Kevin Jepsen|R|Kole Calhoun|L|Walk|*B|Changeup|7|0|0|1|14|85
+Kevin Jepsen|R|Kole Calhoun|L|Walk|B|Two-Seam Fastball|8|1|0|1|12|93
+Kevin Jepsen|R|Kole Calhoun|L|Walk|B|Changeup|9|2|0|1|14|85
+Kevin Jepsen|R|Kole Calhoun|L|Walk|C|Four-Seam Fastball|10|3|0|1|7|93
+Kevin Jepsen|R|Kole Calhoun|L|Walk|C|Four-Seam Fastball|11|3|1|1|7|93
+Kevin Jepsen|R|Kole Calhoun|L|Walk|B|Four-Seam Fastball|12|3|2|1|13|93
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|13|0|0|1|11|93
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|14|1|0|1|14|93
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Changeup|15|2|0|1|13|83
+Kevin Jepsen|R|Mike Trout|R|Walk|C|Four-Seam Fastball|16|3|0|1|6|93
+Kevin Jepsen|R|Mike Trout|R|Walk|B|Four-Seam Fastball|17|3|1|1|11|93
+Kevin Jepsen|R|Albert Pujols|R|Forceout|C|Four-Seam Fastball|18|0|0|1|14|94
+Kevin Jepsen|R|Albert Pujols|R|Forceout|X|Curveball|19|0|1|1|9|82
+Kevin Jepsen|R|C.J. Cron|R|Forceout|W|Curveball|20|0|0|2|14|82
+Kevin Jepsen|R|C.J. Cron|R|Forceout|W|Curveball|21|0|1|2|14|82
+Kevin Jepsen|R|C.J. Cron|R|Forceout|X|Curveball|22|0|2|2|5|81
+Kevin Jepsen|R|Chase Headley|L|Single|F|Four-Seam Fastball|0|0|0|0|1|93
+Kevin Jepsen|R|Chase Headley|L|Single|B|Curveball|1|0|1|0|11|81
+Kevin Jepsen|R|Chase Headley|L|Single|C|Curveball|2|1|1|0|8|81
+Kevin Jepsen|R|Chase Headley|L|Single|D|Curveball|3|1|2|0|4|81
+Kevin Jepsen|R|Didi Gregorius|L|Lineout|X|Changeup|4|0|0|0|11|84
+Kevin Jepsen|R|Austin Romine|R|Grounded Into DP|B|Four-Seam Fastball|5|0|0|1|14|93
+Kevin Jepsen|R|Austin Romine|R|Grounded Into DP|F|Four-Seam Fastball|6|1|0|1|6|93
+Kevin Jepsen|R|Austin Romine|R|Grounded Into DP|B|Four-Seam Fastball|7|1|1|1|14|94
+Kevin Jepsen|R|Austin Romine|R|Grounded Into DP|F|Four-Seam Fastball|8|2|1|1|9|94
+Kevin Jepsen|R|Austin Romine|R|Grounded Into DP|X|Four-Seam Fastball|9|2|2|1|14|94
+Kevin Jepsen|R|Carlos Beltran|L|Home Run|C|Four-Seam Fastball|0|0|0|1|7|92
+Kevin Jepsen|R|Carlos Beltran|L|Home Run|B|Four-Seam Fastball|1|0|1|1|13|93
+Kevin Jepsen|R|Carlos Beltran|L|Home Run|S|Curveball|2|1|1|1|14|82
+Kevin Jepsen|R|Carlos Beltran|L|Home Run|F|Curveball|3|1|2|1|14|82
+Kevin Jepsen|R|Carlos Beltran|L|Home Run|E|Changeup|4|1|2|1|1|84
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|5|94
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|F|Curveball|6|0|1|1|14|82
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|B|Curveball|7|0|2|1|14|82
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|B|Four-Seam Fastball|8|1|2|1|11|93
+Kevin Jepsen|R|Alex Rodriguez|R|Strikeout|C|Four-Seam Fastball|9|2|2|1|6|94
+Kevin Jepsen|R|Ryan Howard|L|Groundout|X|Four-Seam Fastball|0|0|0|2|7|93
+Kevin Jepsen|R|Carlos Ruiz|R|Flyout|B|Four-Seam Fastball|1|0|0|0|11|92
+Kevin Jepsen|R|Carlos Ruiz|R|Flyout|F|Four-Seam Fastball|2|1|0|0|6|92
+Kevin Jepsen|R|Carlos Ruiz|R|Flyout|B|Four-Seam Fastball|3|1|1|0|14|93
+Kevin Jepsen|R|Carlos Ruiz|R|Flyout|X|Four-Seam Fastball|4|2|1|0|3|94
+Kevin Jepsen|R|Cody Asche|L|Single|B|Curveball|5|0|0|1|11|81
+Kevin Jepsen|R|Cody Asche|L|Single|D|Four-Seam Fastball|6|1|0|1|9|93
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|F|Four-Seam Fastball|7|0|0|1|5|93
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|8|0|1|1|11|93
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|F|Four-Seam Fastball|9|1|1|1|1|94
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|10|1|2|1|11|93
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|11|2|2|1|11|93
+Kevin Jepsen|R|Cesar Hernandez|L|Walk|B|Four-Seam Fastball|12|3|2|1|11|94
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|B|Curveball|13|0|0|1|11|80
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|F|Four-Seam Fastball|14|1|0|1|11|93
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|B|Four-Seam Fastball|15|1|1|1|12|93
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|F|Four-Seam Fastball|16|2|1|1|11|92
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|B|Four-Seam Fastball|17|2|2|1|13|93
+Kevin Jepsen|R|Freddy Galvis|L|Home Run|E|Four-Seam Fastball|18|3|2|1|6|93
+Kevin Jepsen|R|Todd Frazier|R|Double|D|Four-Seam Fastball|0|0|0|0|14|93
+Kevin Jepsen|R|Dioner Navarro|L|Single|B|Changeup|1|0|0|0|14|85
+Kevin Jepsen|R|Dioner Navarro|L|Single|C|Changeup|2|1|0|0|9|85
+Kevin Jepsen|R|Dioner Navarro|L|Single|B|Four-Seam Fastball|3|1|1|0|13|94
+Kevin Jepsen|R|Dioner Navarro|L|Single|F|Changeup|4|2|1|0|13|85
+Kevin Jepsen|R|Dioner Navarro|L|Single|F|Four-Seam Fastball|5|2|2|0|12|95
+Kevin Jepsen|R|Dioner Navarro|L|Single|*B|Curveball|6|2|2|0|14|83
+Kevin Jepsen|R|Dioner Navarro|L|Single|D|Four-Seam Fastball|7|3|2|0|5|94
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|F|Four-Seam Fastball|8|0|0|0|2|94
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|S|Curveball|9|0|1|0|14|84
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|*B|Curveball|10|0|2|0|14|83
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|B|Curveball|11|1|2|0|14|81
+Kevin Jepsen|R|Brett Lawrie|R|Strikeout|C|Four-Seam Fastball|12|2|2|0|2|94
+Kevin Jepsen|R|JB Shuck|L|Sac Fly|*B|Changeup|13|0|0|1|14|87
+Kevin Jepsen|R|JB Shuck|L|Sac Fly|E|Four-Seam Fastball|14|1|0|1|11|94
+Kevin Jepsen|R|Avisail Garcia|R|Lineout|F|Four-Seam Fastball|15|0|0|2|3|95
+Kevin Jepsen|R|Avisail Garcia|R|Lineout|*B|Curveball|16|0|1|2|14|83
+Kevin Jepsen|R|Avisail Garcia|R|Lineout|B|Curveball|17|1|1|2|14|84
+Kevin Jepsen|R|Avisail Garcia|R|Lineout|S|Four-Seam Fastball|18|2|1|2|12|95
+Kevin Jepsen|R|Avisail Garcia|R|Lineout|X|Four-Seam Fastball|19|2|2|2|6|94
+Kevin Jepsen|R|Elvis Andrus|R|Flyout|C|Four-Seam Fastball|0|0|0|0|3|94
+Kevin Jepsen|R|Elvis Andrus|R|Flyout|X|Curveball|1|0|1|0|1|82
+Kevin Jepsen|R|Robinson Chirinos|R|Lineout|C|Curveball|2|0|0|1|12|82
+Kevin Jepsen|R|Robinson Chirinos|R|Lineout|X|Curveball|3|0|1|1|14|82
+Kevin Jepsen|R|Shin-Soo Choo|L|Lineout|X|Four-Seam Fastball|4|0|0|2|4|94
+Kevin Jepsen|R|Matt Wieters|L|Pop Out|C|Four-Seam Fastball|0|0|0|0|8|93
+Kevin Jepsen|R|Matt Wieters|L|Pop Out|X|Four-Seam Fastball|1|0|1|0|3|93
+Kevin Jepsen|R|J.J. Hardy|R|Groundout|C|Four-Seam Fastball|2|0|0|1|2|94
+Kevin Jepsen|R|J.J. Hardy|R|Groundout|S|Curveball|3|0|1|1|14|84
+Kevin Jepsen|R|J.J. Hardy|R|Groundout|B|Curveball|4|0|2|1|14|83
+Kevin Jepsen|R|J.J. Hardy|R|Groundout|B|Curveball|5|1|2|1|14|83
+Kevin Jepsen|R|J.J. Hardy|R|Groundout|X|Four-Seam Fastball|6|2|2|1|6|93
+Kevin Jepsen|R|Pedro Alvarez|L|Pop Out|C|Curveball|7|0|0|2|7|83
+Kevin Jepsen|R|Pedro Alvarez|L|Pop Out|F|Four-Seam Fastball|8|0|1|2|11|93
+Kevin Jepsen|R|Pedro Alvarez|L|Pop Out|B|Curveball|9|0|2|2|14|82
+Kevin Jepsen|R|Pedro Alvarez|L|Pop Out|B|Four-Seam Fastball|10|1|2|2|12|93
+Kevin Jepsen|R|Pedro Alvarez|L|Pop Out|X|Changeup|11|2|2|2|13|81
+Kevin Jepsen|R|J.J. Hardy|R|Fielders Choice|C|Curveball|0|0|0|1|6|82
+Kevin Jepsen|R|J.J. Hardy|R|Fielders Choice|D|Curveball|1|0|1|1|7|82
+Kevin Jepsen|R|Nolan Reimold|R|Groundout|*B|Curveball|2|0|0|1|14|83
+Kevin Jepsen|R|Nolan Reimold|R|Groundout|F|Curveball|3|1|0|1|5|82
+Kevin Jepsen|R|Nolan Reimold|R|Groundout|*B|Curveball|4|1|1|1|14|83
+Kevin Jepsen|R|Nolan Reimold|R|Groundout|X|Four-Seam Fastball|5|2|1|1|5|93
+Kevin Jepsen|R|Cristhian Adames|L|Groundout|X|Four-Seam Fastball|0|0|0|0|4|92
+Kevin Jepsen|R|Carlos Gonzalez|L|Single|C|Four-Seam Fastball|1|0|0|1|5|94
+Kevin Jepsen|R|Carlos Gonzalez|L|Single|B|Curveball|2|0|1|1|14|83
+Kevin Jepsen|R|Carlos Gonzalez|L|Single|S|Four-Seam Fastball|3|1|1|1|1|92
+Kevin Jepsen|R|Carlos Gonzalez|L|Single|D|Curveball|4|1|2|1|11|81
+Kevin Jepsen|R|Trevor Story|R|Strikeout|B|Two-Seam Fastball|5|0|0|1|14|92
+Kevin Jepsen|R|Trevor Story|R|Strikeout|F|Two-Seam Fastball|6|1|0|1|6|92
+Kevin Jepsen|R|Trevor Story|R|Strikeout|F|Four-Seam Fastball|7|1|1|1|9|92
+Kevin Jepsen|R|Trevor Story|R|Strikeout|S|Curveball|8|1|2|1|13|81
+Kevin Jepsen|R|Daniel Descalso|L|Single|C|Curveball|9|0|0|2|4|80
+Kevin Jepsen|R|Daniel Descalso|L|Single|B|Four-Seam Fastball|10|0|1|2|11|92
+Kevin Jepsen|R|Daniel Descalso|L|Single|E|Curveball|11|1|1|2|4|80
+Kevin Jepsen|R|Mark Reynolds|R|Strikeout|F|Two-Seam Fastball|12|0|0|2|9|91
+Kevin Jepsen|R|Mark Reynolds|R|Strikeout|C|Two-Seam Fastball|13|0|1|2|12|92
+Kevin Jepsen|R|Mark Reynolds|R|Strikeout|*B|Curveball|14|0|2|2|14|80
+Kevin Jepsen|R|Mark Reynolds|R|Strikeout|B|Four-Seam Fastball|15|1|2|2|12|91
+Kevin Jepsen|R|Mark Reynolds|R|Strikeout|T|Four-Seam Fastball|16|2|2|2|12|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|B|Curveball|0|0|0|0|14|82
+Kevin Jepsen|R|Marcus Semien|R|Flyout|B|Two-Seam Fastball|1|1|0|0|14|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|C|Four-Seam Fastball|2|2|0|0|14|93
+Kevin Jepsen|R|Marcus Semien|R|Flyout|B|Four-Seam Fastball|3|2|1|0|12|93
+Kevin Jepsen|R|Marcus Semien|R|Flyout|F|Four-Seam Fastball|4|3|1|0|2|92
+Kevin Jepsen|R|Marcus Semien|R|Flyout|X|Four-Seam Fastball|5|3|2|0|9|93
+Kevin Jepsen|R|Jed Lowrie|L|Flyout|F|Four-Seam Fastball|6|0|0|1|2|92
+Kevin Jepsen|R|Jed Lowrie|L|Flyout|B|Four-Seam Fastball|7|0|1|1|11|93
+Kevin Jepsen|R|Jed Lowrie|L|Flyout|C|Four-Seam Fastball|8|1|1|1|13|93
+Kevin Jepsen|R|Jed Lowrie|L|Flyout|F|Curveball|9|1|2|1|13|81
+Kevin Jepsen|R|Jed Lowrie|L|Flyout|X|Curveball|10|1|2|1|14|80
+Kevin Jepsen|R|Khris Davis|R|Forceout|X|Curveball|0|0|0|2|8|82
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|B|Curveball|0|0|0|2|12|82
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|B|Four-Seam Fastball|1|1|0|2|12|93
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|B|Two-Seam Fastball|2|2|0|2|11|93
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|C|Two-Seam Fastball|3|3|0|2|2|93
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|F|Two-Seam Fastball|4|3|1|2|11|94
+Kevin Jepsen|R|Howie Kendrick|R|Pop Out|X|Two-Seam Fastball|5|3|2|2|3|94
+Kevin Jepsen|R|Rob Refsnyder|R|Flyout|B|Four-Seam Fastball|0|0|0|2|12|92
+Kevin Jepsen|R|Rob Refsnyder|R|Flyout|F|Four-Seam Fastball|1|1|0|2|13|92
+Kevin Jepsen|R|Rob Refsnyder|R|Flyout|X|Four-Seam Fastball|2|1|1|2|14|93
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|B|Four-Seam Fastball|0|0|0|1|12|91
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|F|Four-Seam Fastball|1|1|0|1|2|92
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|B|Four-Seam Fastball|2|1|1|1|11|93
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|F|Four-Seam Fastball|3|2|1|1|1|92
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|B|Curveball|4|2|2|1|14|83
+Kevin Jepsen|R|Cheslor Cuthbert|R|Single|D|Curveball|5|3|2|1|7|82
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|F|Four-Seam Fastball|6|0|0|1|3|92
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|F|Four-Seam Fastball|7|0|1|1|2|93
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|F|Four-Seam Fastball|8|0|2|1|1|93
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|F|Four-Seam Fastball|9|0|2|1|11|92
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|F|Four-Seam Fastball|10|0|2|1|6|92
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|*B|Curveball|11|0|2|1|14|81
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|B|Two-Seam Fastball|12|1|2|1|11|91
+Kevin Jepsen|R|Lorenzo Cain|R|Sac Fly|E|Four-Seam Fastball|13|2|2|1|5|93
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|B|Four-Seam Fastball|14|0|0|2|11|92
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|B|Four-Seam Fastball|15|1|0|2|11|91
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|B|Four-Seam Fastball|16|2|0|2|11|91
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|C|Four-Seam Fastball|17|3|0|2|11|90
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|C|Four-Seam Fastball|18|3|1|2|13|90
+Kevin Jepsen|R|Eric Hosmer|L|Lineout|X|Four-Seam Fastball|19|3|2|2|4|91
+Kevin Jepsen|R|Paulo Orlando|R|Double|D|Four-Seam Fastball|0|0|0|2|12|91
+Kevin Jepsen|R|Adalberto Mondesi|L|Strikeout|C|Curveball|1|0|0|2|13|81
+Kevin Jepsen|R|Adalberto Mondesi|L|Strikeout|S|Curveball|2|0|1|2|14|80
+Kevin Jepsen|R|Adalberto Mondesi|L|Strikeout|W|Curveball|3|0|2|2|14|80
+Kevin Jepsen|R|Danny Santana|L|Groundout|B|Four-Seam Fastball|0|0|0|2|11|92
+Kevin Jepsen|R|Danny Santana|L|Groundout|B|Four-Seam Fastball|1|1|0|2|13|92
+Kevin Jepsen|R|Danny Santana|L|Groundout|C|Four-Seam Fastball|2|2|0|2|11|92
+Kevin Jepsen|R|Danny Santana|L|Groundout|X|Four-Seam Fastball|3|2|1|2|11|92
+Kevin Jepsen|R|Brian Dozier|R|Flyout|B|Curveball|4|0|0|0|11|82
+Kevin Jepsen|R|Brian Dozier|R|Flyout|B|Curveball|5|1|0|0|11|80
+Kevin Jepsen|R|Brian Dozier|R|Flyout|C|Four-Seam Fastball|6|2|0|0|5|93
+Kevin Jepsen|R|Brian Dozier|R|Flyout|S|Four-Seam Fastball|7|2|1|0|11|93
+Kevin Jepsen|R|Brian Dozier|R|Flyout|F|Four-Seam Fastball|8|2|2|0|11|94
+Kevin Jepsen|R|Brian Dozier|R|Flyout|X|Four-Seam Fastball|9|2|2|0|2|93
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|10|0|0|1|11|92
+Kevin Jepsen|R|Joe Mauer|L|Walk|C|Four-Seam Fastball|11|1|0|1|1|93
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Changeup|12|1|1|1|14|83
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|13|2|1|1|13|92
+Kevin Jepsen|R|Joe Mauer|L|Walk|B|Four-Seam Fastball|14|3|1|1|11|93
+Kevin Jepsen|R|Max Kepler|L|Flyout|C|Four-Seam Fastball|15|0|0|1|7|91
+Kevin Jepsen|R|Max Kepler|L|Flyout|B|Changeup|16|0|1|1|13|83
+Kevin Jepsen|R|Max Kepler|L|Flyout|S|Changeup|17|1|1|1|4|83
+Kevin Jepsen|R|Max Kepler|L|Flyout|X|Changeup|18|1|2|1|13|82
+Kevin Jepsen|R|Danny Santana|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|13|92
+Kevin Jepsen|R|Danny Santana|L|Strikeout|S|Changeup|1|0|1|0|13|84
+Kevin Jepsen|R|Danny Santana|L|Strikeout|F|Four-Seam Fastball|2|0|2|0|11|93
+Kevin Jepsen|R|Danny Santana|L|Strikeout|B|Four-Seam Fastball|3|0|2|0|11|93
+Kevin Jepsen|R|Danny Santana|L|Strikeout|S|Curveball|4|1|2|0|1|82
+Kevin Jepsen|R|Brian Dozier|R|Single|B|Four-Seam Fastball|5|0|0|1|14|94
+Kevin Jepsen|R|Brian Dozier|R|Single|B|Four-Seam Fastball|6|1|0|1|12|92
+Kevin Jepsen|R|Brian Dozier|R|Single|F|Four-Seam Fastball|7|2|0|1|11|92
+Kevin Jepsen|R|Brian Dozier|R|Single|C|Four-Seam Fastball|8|2|1|1|14|92
+Kevin Jepsen|R|Brian Dozier|R|Single|D|Curveball|9|2|2|1|8|82
+Kevin Jepsen|R|Robbie Grossman|L|Field Error|B|Changeup|10|0|0|1|11|81
+Kevin Jepsen|R|Robbie Grossman|L|Field Error|B|Four-Seam Fastball|11|1|0|1|13|90
+Kevin Jepsen|R|Robbie Grossman|L|Field Error|F|Four-Seam Fastball|12|2|0|1|5|92
+Kevin Jepsen|R|Robbie Grossman|L|Field Error|D|Four-Seam Fastball|13|2|1|1|11|92
+Kevin Jepsen|R|Max Kepler|L|Sac Fly|B|Four-Seam Fastball|14|0|0|1|11|92
+Kevin Jepsen|R|Max Kepler|L|Sac Fly|E|Changeup|15|1|0|1|11|83
+Kevin Jepsen|R|Miguel Sano|R|Walk|C|Curveball|16|0|0|2|8|81
+Kevin Jepsen|R|Miguel Sano|R|Walk|B|Four-Seam Fastball|17|0|1|2|3|93
+Kevin Jepsen|R|Miguel Sano|R|Walk|B|Curveball|18|1|1|2|14|81
+Kevin Jepsen|R|Miguel Sano|R|Walk|B|Curveball|19|2|1|2|14|81
+Kevin Jepsen|R|Miguel Sano|R|Walk|B|Four-Seam Fastball|20|3|1|2|12|93
+Kevin Jepsen|R|Eddie Rosario|L|Flyout|S|Changeup|21|0|0|2|13|85
+Kevin Jepsen|R|Eddie Rosario|L|Flyout|F|Curveball|22|0|1|2|1|82
+Kevin Jepsen|R|Eddie Rosario|L|Flyout|X|Curveball|23|0|2|2|13|79
+Kevin Jepsen|R|Josh Donaldson|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|4|93
+Kevin Jepsen|R|Josh Donaldson|R|Strikeout|F|Two-Seam Fastball|1|0|1|0|8|93
+Kevin Jepsen|R|Josh Donaldson|R|Strikeout|B|Curveball|2|0|2|0|14|81
+Kevin Jepsen|R|Josh Donaldson|R|Strikeout|B|Two-Seam Fastball|3|1|2|0|11|92
+Kevin Jepsen|R|Josh Donaldson|R|Strikeout|S|Two-Seam Fastball|4|2|2|0|12|94
+Kevin Jepsen|R|Edwin Encarnacion|R|Pop Out|X|Two-Seam Fastball|5|0|0|1|2|94
+Kevin Jepsen|R|Russell Martin|R|Strikeout|F|Two-Seam Fastball|6|0|0|2|2|93
+Kevin Jepsen|R|Russell Martin|R|Strikeout|C|Changeup|7|0|1|2|11|81
+Kevin Jepsen|R|Russell Martin|R|Strikeout|B|Two-Seam Fastball|8|0|2|2|12|93
+Kevin Jepsen|R|Russell Martin|R|Strikeout|S|Two-Seam Fastball|9|1|2|2|2|93
+Kevin Jepsen|R|Wil Myers|R|Single|F|Four-Seam Fastball|0|0|0|0|8|93
+Kevin Jepsen|R|Wil Myers|R|Single|S|Curveball|1|0|1|0|14|83
+Kevin Jepsen|R|Wil Myers|R|Single|B|Curveball|2|0|2|0|14|82
+Kevin Jepsen|R|Wil Myers|R|Single|F|Four-Seam Fastball|3|1|2|0|12|93
+Kevin Jepsen|R|Wil Myers|R|Single|X|Curveball|4|1|2|0|14|83
+Kevin Jepsen|R|Yangervis Solarte|L|Home Run|B|Four-Seam Fastball|5|0|0|1|14|93
+Kevin Jepsen|R|Yangervis Solarte|L|Home Run|B|Four-Seam Fastball|6|1|0|1|11|91
+Kevin Jepsen|R|Yangervis Solarte|L|Home Run|E|Four-Seam Fastball|7|2|0|1|9|92
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|T|Changeup|8|0|0|1|7|85
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|B|Changeup|9|0|1|1|11|84
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|10|1|1|1|5|93
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|B|Four-Seam Fastball|11|1|2|1|11|92
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|F|Changeup|12|2|2|1|7|84
+Kevin Jepsen|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|13|2|2|1|8|93
+Kevin Jepsen|R|Christian Bethancourt|R|Lineout|C|Curveball|14|0|0|2|13|82
+Kevin Jepsen|R|Christian Bethancourt|R|Lineout|B|Curveball|15|0|1|2|14|81
+Kevin Jepsen|R|Christian Bethancourt|R|Lineout|F|Curveball|16|1|1|2|8|82
+Kevin Jepsen|R|Christian Bethancourt|R|Lineout|B|Four-Seam Fastball|17|1|2|2|12|93
+Kevin Jepsen|R|Christian Bethancourt|R|Lineout|X|Four-Seam Fastball|18|2|2|2|14|93
+Kevin Jepsen|R|Nomar Mazara|L|Home Run|B|Two-Seam Fastball|0|0|0|1|14|93
+Kevin Jepsen|R|Nomar Mazara|L|Home Run|C|Four-Seam Fastball|1|1|0|1|11|92
+Kevin Jepsen|R|Nomar Mazara|L|Home Run|B|Four-Seam Fastball|2|1|1|1|12|92
+Kevin Jepsen|R|Nomar Mazara|L|Home Run|E|Two-Seam Fastball|3|2|1|1|6|93
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Curveball|4|0|0|1|14|82
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|5|1|0|1|14|93
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|6|2|0|1|14|91
+Kevin Jepsen|R|Elvis Andrus|R|Walk|C|Four-Seam Fastball|7|3|0|1|6|91
+Kevin Jepsen|R|Elvis Andrus|R|Walk|B|Four-Seam Fastball|8|3|1|1|14|92
+Kevin Jepsen|R|Jurickson Profar|L|Groundout|C|Four-Seam Fastball|9|0|0|1|9|91
+Kevin Jepsen|R|Jurickson Profar|L|Groundout|F|Changeup|10|0|1|1|5|85
+Kevin Jepsen|R|Jurickson Profar|L|Groundout|*B|Curveball|11|0|2|1|14|83
+Kevin Jepsen|R|Jurickson Profar|L|Groundout|X|Four-Seam Fastball|12|1|2|1|11|90
+Kevin Jepsen|R|Aaron Hill|R|Pop Out|X|Four-Seam Fastball|0|0|0|2|1|93
+Kevin Jepsen|R|Andrew Benintendi|L|Pop Out|B|Four-Seam Fastball|1|0|0|0|11|93
+Kevin Jepsen|R|Andrew Benintendi|L|Pop Out|B|Four-Seam Fastball|2|1|0|0|14|92
+Kevin Jepsen|R|Andrew Benintendi|L|Pop Out|X|Four-Seam Fastball|3|2|0|0|5|92
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|C|Curveball|4|0|0|1|6|84
+Kevin Jepsen|R|Dustin Pedroia|R|Groundout|X|Curveball|5|0|1|1|8|83
+Kevin Jepsen|R|Xander Bogaerts|R|Single|D|Four-Seam Fastball|6|0|0|2|6|92
+Kevin Jepsen|R|David Ortiz|L|Single|B|Four-Seam Fastball|7|0|0|2|11|91
+Kevin Jepsen|R|David Ortiz|L|Single|C|Four-Seam Fastball|8|1|0|2|13|91
+Kevin Jepsen|R|David Ortiz|L|Single|D|Four-Seam Fastball|9|1|1|2|13|92
+Kevin Jepsen|R|Mookie Betts|R|Flyout|B|Curveball|10|0|0|2|13|82
+Kevin Jepsen|R|Mookie Betts|R|Flyout|F|Four-Seam Fastball|11|1|0|2|13|92
+Kevin Jepsen|R|Mookie Betts|R|Flyout|X|Changeup|12|1|1|2|9|83
+Kevin Jepsen|R|Hanley Ramirez|R|Sac Fly|B|Curveball|13|0|0|0|14|83
+Kevin Jepsen|R|Hanley Ramirez|R|Sac Fly|C|Four-Seam Fastball|14|1|0|0|8|93
+Kevin Jepsen|R|Hanley Ramirez|R|Sac Fly|E|Curveball|15|1|1|0|9|82
+Kevin Jepsen|R|Sandy Leon|L|Pop Out|B|Curveball|16|0|0|1|13|82
+Kevin Jepsen|R|Sandy Leon|L|Pop Out|B|Changeup|17|1|0|1|13|84
+Kevin Jepsen|R|Sandy Leon|L|Pop Out|B|Four-Seam Fastball|18|2|0|1|13|90
+Kevin Jepsen|R|Sandy Leon|L|Pop Out|C|Four-Seam Fastball|19|3|0|1|11|91
+Kevin Jepsen|R|Sandy Leon|L|Pop Out|X|Four-Seam Fastball|20|3|1|1|7|90
+Kevin Jepsen|R|Mookie Betts|R|Strikeout|C|Curveball|0|0|0|2|14|81
+Kevin Jepsen|R|Mookie Betts|R|Strikeout|B|Changeup|1|0|1|2|13|83
+Kevin Jepsen|R|Mookie Betts|R|Strikeout|B|Changeup|2|1|1|2|14|84
+Kevin Jepsen|R|Mookie Betts|R|Strikeout|S|Four-Seam Fastball|3|2|1|2|12|92
+Kevin Jepsen|R|Mookie Betts|R|Strikeout|S|Four-Seam Fastball|4|2|2|2|12|93
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|B|Four-Seam Fastball|5|0|0|0|14|93
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|B|Changeup|6|1|0|0|11|83
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|F|Four-Seam Fastball|7|2|0|0|6|92
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|S|Four-Seam Fastball|8|2|1|0|11|92
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|F|Four-Seam Fastball|9|2|2|0|12|94
+Kevin Jepsen|R|Hanley Ramirez|R|Strikeout|S|Four-Seam Fastball|10|2|2|0|3|93
+Kevin Jepsen|R|Yuli Gurriel|R|Single|B|Curveball|0|0|0|0|11|82
+Kevin Jepsen|R|Yuli Gurriel|R|Single|B|Curveball|1|1|0|0|11|82
+Kevin Jepsen|R|Yuli Gurriel|R|Single|D|Four-Seam Fastball|2|2|0|0|11|92
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|B|Four-Seam Fastball|3|0|0|0|14|91
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|C|Four-Seam Fastball|4|1|0|0|13|91
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|B|Four-Seam Fastball|5|1|1|0|13|91
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|C|Four-Seam Fastball|6|2|1|0|13|92
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|F|Two-Seam Fastball|7|2|2|0|6|93
+Kevin Jepsen|R|Marwin Gonzalez|L|Grounded Into DP|X|Four-Seam Fastball|8|2|2|0|13|91
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|B|Curveball|9|0|0|2|11|82
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|C|Four-Seam Fastball|10|1|0|2|14|92
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|F|Curveball|11|1|1|2|11|82
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|B|Four-Seam Fastball|12|1|2|2|12|91
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|B|Four-Seam Fastball|13|2|2|2|12|93
+Kevin Jepsen|R|Teoscar Hernandez|R|Groundout|X|Four-Seam Fastball|14|3|2|2|14|91
+Kevin Jepsen|R|Alex Bregman|R|Walk|F|Four-Seam Fastball|0|0|0|0|6|91
+Kevin Jepsen|R|Alex Bregman|R|Walk|B|Curveball|1|0|1|0|11|81
+Kevin Jepsen|R|Alex Bregman|R|Walk|B|Curveball|2|1|1|0|14|80
+Kevin Jepsen|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|3|2|1|0|12|92
+Kevin Jepsen|R|Alex Bregman|R|Walk|F|Four-Seam Fastball|4|3|1|0|3|92
+Kevin Jepsen|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|5|3|2|0|14|92
+Kevin Jepsen|R|Jose Altuve|R|Single|D|Four-Seam Fastball|6|0|0|0|6|91
+Kevin Jepsen|R|Carlos Correa|R|Grounded Into DP|B|Changeup|7|0|0|0|14|84
+Kevin Jepsen|R|Carlos Correa|R|Grounded Into DP|W|Changeup|8|1|0|0|13|84
+Kevin Jepsen|R|Carlos Correa|R|Grounded Into DP|X|Four-Seam Fastball|9|1|1|0|7|92
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Changeup|10|0|0|2|13|83
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Changeup|11|1|0|2|14|83
+Kevin Jepsen|R|Evan Gattis|R|Walk|C|Two-Seam Fastball|12|2|0|2|14|92
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|13|2|1|2|14|93
+Kevin Jepsen|R|Evan Gattis|R|Walk|B|Four-Seam Fastball|14|3|1|2|14|92
+Kevin Jepsen|R|Yuli Gurriel|R|Double|B|Four-Seam Fastball|15|0|0|2|14|93
+Kevin Jepsen|R|Yuli Gurriel|R|Double|E|Four-Seam Fastball|16|1|0|2|11|91
+Kevin Jepsen|R|Marwin Gonzalez|L|Intent Walk|*B|Changeup|17|0|0|2|14|84
+Kevin Jepsen|R|Marwin Gonzalez|L|Intent Walk|I|Changeup|18|1|0|2|11|52
+Kevin Jepsen|R|Marwin Gonzalez|L|Intent Walk|I|Intentional Ball|19|1|1|2|11|51
+Kevin Jepsen|R|Marwin Gonzalez|L|Intent Walk|I|N/A|20|1|2|2|0|0
+Kevin Jepsen|R|Teoscar Hernandez|R|Strikeout|C|Curveball|21|0|0|2|2|80
+Kevin Jepsen|R|Teoscar Hernandez|R|Strikeout|B|Four-Seam Fastball|22|0|1|2|11|91
+Kevin Jepsen|R|Teoscar Hernandez|R|Strikeout|C|Curveball|23|1|1|2|4|81
+Kevin Jepsen|R|Teoscar Hernandez|R|Strikeout|S|Four-Seam Fastball|24|1|2|2|12|92
+Kevin Jepsen|R|Chris Young|R|Strikeout|C|Curveball|0|0|0|2|1|81
+Kevin Jepsen|R|Chris Young|R|Strikeout|B|Curveball|1|0|1|2|11|83
+Kevin Jepsen|R|Chris Young|R|Strikeout|F|Two-Seam Fastball|2|1|1|2|3|92
+Kevin Jepsen|R|Chris Young|R|Strikeout|C|Curveball|3|1|2|2|14|82
+Kevin Jepsen|R|Aaron Hill|R|Lineout|C|Curveball|4|0|0|0|1|82
+Kevin Jepsen|R|Aaron Hill|R|Lineout|X|Two-Seam Fastball|5|0|1|0|2|92
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|B|Changeup|6|0|0|1|13|83
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|B|Changeup|7|1|0|1|14|83
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|B|Two-Seam Fastball|8|2|0|1|11|93
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|C|Four-Seam Fastball|9|3|0|1|11|93
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|S|Two-Seam Fastball|10|3|1|1|11|92
+Kevin Jepsen|R|Jackie Bradley Jr.|L|Home Run|E|Two-Seam Fastball|11|3|2|1|13|92
+Kevin Jepsen|R|Dustin Pedroia|R|Single|C|Curveball|12|0|0|1|8|82
+Kevin Jepsen|R|Dustin Pedroia|R|Single|B|Four-Seam Fastball|13|0|1|1|12|93
+Kevin Jepsen|R|Dustin Pedroia|R|Single|D|Curveball|14|1|1|1|5|82
+Kevin Jepsen|R|Xander Bogaerts|R|Caught Stealing 2B|B|Four-Seam Fastball|15|0|0|1|14|92
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|C|Two-Seam Fastball|0|0|0|0|2|91
+Kevin Jepsen|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|1|0|1|0|2|91
+Kevin Jepsen|R|Devon Travis|R|Strikeout|C|Curveball|2|0|0|1|2|82
+Kevin Jepsen|R|Devon Travis|R|Strikeout|S|Curveball|3|0|1|1|7|82
+Kevin Jepsen|R|Devon Travis|R|Strikeout|F|Two-Seam Fastball|4|0|2|1|12|92
+Kevin Jepsen|R|Devon Travis|R|Strikeout|B|Two-Seam Fastball|5|0|2|1|12|91
+Kevin Jepsen|R|Devon Travis|R|Strikeout|F|Curveball|6|1|2|1|6|82
+Kevin Jepsen|R|Devon Travis|R|Strikeout|W|Curveball|7|1|2|1|14|81
+Kevin Jepsen|R|Jose Bautista|R|Lineout|C|Curveball|8|0|0|2|9|82
+Kevin Jepsen|R|Jose Bautista|R|Lineout|B|Four-Seam Fastball|9|0|1|2|12|92
+Kevin Jepsen|R|Jose Bautista|R|Lineout|C|Four-Seam Fastball|10|1|1|2|6|92
+Kevin Jepsen|R|Jose Bautista|R|Lineout|F|Two-Seam Fastball|11|1|2|2|12|91
+Kevin Jepsen|R|Jose Bautista|R|Lineout|B|Curveball|12|1|2|2|14|82
+Kevin Jepsen|R|Jose Bautista|R|Lineout|X|Two-Seam Fastball|13|2|2|2|12|92
+Kevin Jepsen|R|Dioner Navarro|L|Walk|B|Curveball|0|0|0|0|11|81
+Kevin Jepsen|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|1|1|0|0|11|92
+Kevin Jepsen|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|2|2|0|0|11|92
+Kevin Jepsen|R|Dioner Navarro|L|Walk|C|Four-Seam Fastball|3|3|0|0|11|92
+Kevin Jepsen|R|Dioner Navarro|L|Walk|B|Four-Seam Fastball|4|3|1|0|11|91
+Kevin Jepsen|R|Russell Martin|R|Home Run|B|Four-Seam Fastball|5|0|0|0|14|91
+Kevin Jepsen|R|Russell Martin|R|Home Run|B|Four-Seam Fastball|6|1|0|0|12|92
+Kevin Jepsen|R|Russell Martin|R|Home Run|B|Four-Seam Fastball|7|2|0|0|14|91
+Kevin Jepsen|R|Russell Martin|R|Home Run|E|Four-Seam Fastball|8|3|0|0|5|92
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|B|Curveball|9|0|0|0|1|83
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|B|Four-Seam Fastball|10|1|0|0|12|91
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|C|Four-Seam Fastball|11|2|0|0|9|91
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|C|Four-Seam Fastball|12|2|1|0|5|91
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|F|Curveball|13|2|2|0|2|84
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|D|Two-Seam Fastball|14|2|2|0|2|92
+Kevin Jepsen|R|Adam Jones|R|Strikeout|C|Curveball|0|0|0|0|5|83
+Kevin Jepsen|R|Adam Jones|R|Strikeout|S|Curveball|1|0|1|0|13|81
+Kevin Jepsen|R|Adam Jones|R|Strikeout|T|Curveball|2|0|2|0|8|82
+Kevin Jepsen|R|Michael Bourn|L|Flyout|C|Curveball|3|0|0|1|3|83
+Kevin Jepsen|R|Michael Bourn|L|Flyout|S|Four-Seam Fastball|4|0|1|1|11|92
+Kevin Jepsen|R|Michael Bourn|L|Flyout|B|Curveball|5|0|2|1|14|83
+Kevin Jepsen|R|Michael Bourn|L|Flyout|B|Four-Seam Fastball|6|1|2|1|11|93
+Kevin Jepsen|R|Michael Bourn|L|Flyout|B|Four-Seam Fastball|7|2|2|1|11|93
+Kevin Jepsen|R|Michael Bourn|L|Flyout|X|Four-Seam Fastball|8|3|2|1|11|93
+Kevin Jepsen|R|Manny Machado|R|Groundout|C|Four-Seam Fastball|9|0|0|2|6|93
+Kevin Jepsen|R|Manny Machado|R|Groundout|B|Four-Seam Fastball|10|0|1|2|11|94
+Kevin Jepsen|R|Manny Machado|R|Groundout|X|Curveball|11|1|1|2|9|84
+Kevin Jepsen|R|Gary Sanchez|R|Single|F|Four-Seam Fastball|0|0|0|2|5|93
+Kevin Jepsen|R|Gary Sanchez|R|Single|B|Curveball|1|0|1|2|14|82
+Kevin Jepsen|R|Gary Sanchez|R|Single|C|Four-Seam Fastball|2|1|1|2|12|92
+Kevin Jepsen|R|Gary Sanchez|R|Single|F|Curveball|3|1|2|2|9|84
+Kevin Jepsen|R|Gary Sanchez|R|Single|D|Curveball|4|1|2|2|14|82
+Kevin Jepsen|R|Starlin Castro|R|Walk|B|Two-Seam Fastball|5|0|0|2|12|93
+Kevin Jepsen|R|Starlin Castro|R|Walk|B|Four-Seam Fastball|6|1|0|2|12|94
+Kevin Jepsen|R|Starlin Castro|R|Walk|C|Four-Seam Fastball|7|2|0|2|6|92
+Kevin Jepsen|R|Starlin Castro|R|Walk|B|Two-Seam Fastball|8|2|1|2|14|94
+Kevin Jepsen|R|Starlin Castro|R|Walk|B|Four-Seam Fastball|9|3|1|2|14|92
+Kevin Jepsen|R|Mark Teixeira|L|Home Run|C|Four-Seam Fastball|10|0|0|2|11|94
+Kevin Jepsen|R|Mark Teixeira|L|Home Run|*B|Changeup|11|0|1|2|14|84
+Kevin Jepsen|R|Mark Teixeira|L|Home Run|E|Four-Seam Fastball|12|1|1|2|11|94
+Kevin Jepsen|R|Didi Gregorius|L|Pop Out|C|Four-Seam Fastball|13|0|0|2|7|92
+Kevin Jepsen|R|Didi Gregorius|L|Pop Out|B|Curveball|14|0|1|2|11|82
+Kevin Jepsen|R|Didi Gregorius|L|Pop Out|B|Changeup|15|1|1|2|13|84
+Kevin Jepsen|R|Didi Gregorius|L|Pop Out|X|Four-Seam Fastball|16|2|1|2|1|92
+Kevin Jepsen|R|Russell Martin|R|Lineout|S|Two-Seam Fastball|0|0|0|0|13|91
+Kevin Jepsen|R|Russell Martin|R|Lineout|B|Four-Seam Fastball|1|0|1|0|11|93
+Kevin Jepsen|R|Russell Martin|R|Lineout|C|Two-Seam Fastball|2|1|1|0|13|91
+Kevin Jepsen|R|Russell Martin|R|Lineout|B|Curveball|3|1|2|0|14|83
+Kevin Jepsen|R|Russell Martin|R|Lineout|X|Four-Seam Fastball|4|2|2|0|3|93
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|B|Curveball|5|0|0|1|14|82
+Kevin Jepsen|R|Troy Tulowitzki|R|Single|D|Four-Seam Fastball|6|1|0|1|9|91
+Kevin Jepsen|R|B.J. Upton|R|Grounded Into DP|C|Four-Seam Fastball|7|0|0|1|6|92
+Kevin Jepsen|R|B.J. Upton|R|Grounded Into DP|B|Four-Seam Fastball|8|0|1|1|11|92
+Kevin Jepsen|R|B.J. Upton|R|Grounded Into DP|C|Four-Seam Fastball|9|1|1|1|9|92
+Kevin Jepsen|R|B.J. Upton|R|Grounded Into DP|X|Two-Seam Fastball|10|1|2|1|8|92
+Kevin Jepsen|R|Tim Anderson|R|Pop Out|S|Four-Seam Fastball|0|0|0|0|12|93
+Kevin Jepsen|R|Tim Anderson|R|Pop Out|B|Four-Seam Fastball|1|0|1|0|12|94
+Kevin Jepsen|R|Tim Anderson|R|Pop Out|B|Curveball|2|1|1|0|14|84
+Kevin Jepsen|R|Tim Anderson|R|Pop Out|B|Two-Seam Fastball|3|2|1|0|12|92
+Kevin Jepsen|R|Tim Anderson|R|Pop Out|X|Four-Seam Fastball|4|3|1|0|11|93
+Kevin Jepsen|R|Melky Cabrera|L|Flyout|X|Four-Seam Fastball|5|0|0|1|6|93
+Kevin Jepsen|R|Jose Abreu|R|Walk|C|Curveball|6|0|0|2|7|83
+Kevin Jepsen|R|Jose Abreu|R|Walk|B|Two-Seam Fastball|7|0|1|2|12|93
+Kevin Jepsen|R|Jose Abreu|R|Walk|F|Two-Seam Fastball|8|1|1|2|2|94
+Kevin Jepsen|R|Jose Abreu|R|Walk|F|Four-Seam Fastball|9|1|2|2|12|94
+Kevin Jepsen|R|Jose Abreu|R|Walk|B|Two-Seam Fastball|10|1|2|2|14|94
+Kevin Jepsen|R|Jose Abreu|R|Walk|B|Curveball|11|2|2|2|14|82
+Kevin Jepsen|R|Jose Abreu|R|Walk|B|Two-Seam Fastball|12|3|2|2|12|94

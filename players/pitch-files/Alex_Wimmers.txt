@@ -1,0 +1,462 @@
+Alex Wimmers|R|Darwin Barney|R|Groundout|C|Four-Seam Fastball|0|0|0|0|3|90
+Alex Wimmers|R|Darwin Barney|R|Groundout|B|Four-Seam Fastball|1|0|1|0|12|91
+Alex Wimmers|R|Darwin Barney|R|Groundout|X|Four-Seam Fastball|2|1|1|0|4|92
+Alex Wimmers|R|Justin Smoak|L|Strikeout|B|Four-Seam Fastball|3|0|0|1|12|91
+Alex Wimmers|R|Justin Smoak|L|Strikeout|B|Changeup|4|1|0|1|13|84
+Alex Wimmers|R|Justin Smoak|L|Strikeout|C|Four-Seam Fastball|5|2|0|1|13|92
+Alex Wimmers|R|Justin Smoak|L|Strikeout|B|Changeup|6|2|1|1|11|85
+Alex Wimmers|R|Justin Smoak|L|Strikeout|F|Four-Seam Fastball|7|3|1|1|13|91
+Alex Wimmers|R|Justin Smoak|L|Strikeout|C|Changeup|8|3|2|1|9|85
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|B|Four-Seam Fastball|9|0|0|2|14|90
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|F|Changeup|10|1|0|2|1|83
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|C|Curveball|11|1|1|2|2|72
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|B|Four-Seam Fastball|12|1|2|2|11|92
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|F|Changeup|13|2|2|2|7|84
+Alex Wimmers|R|Ezequiel Carrera|L|Strikeout|S|Cutter|14|2|2|2|13|88
+Alex Wimmers|R|Josh Thole|L|Groundout|C|Four-Seam Fastball|0|0|0|0|5|90
+Alex Wimmers|R|Josh Thole|L|Groundout|X|Four-Seam Fastball|1|0|1|0|5|91
+Alex Wimmers|R|Jose Bautista|R|Flyout|B|Four-Seam Fastball|2|0|0|1|12|92
+Alex Wimmers|R|Jose Bautista|R|Flyout|C|Changeup|3|1|0|1|8|85
+Alex Wimmers|R|Jose Bautista|R|Flyout|X|Changeup|4|1|1|1|5|85
+Alex Wimmers|R|Josh Donaldson|R|Home Run|C|Four-Seam Fastball|5|0|0|2|8|92
+Alex Wimmers|R|Josh Donaldson|R|Home Run|B|Changeup|6|0|1|2|14|87
+Alex Wimmers|R|Josh Donaldson|R|Home Run|B|Cutter|7|1|1|2|13|88
+Alex Wimmers|R|Josh Donaldson|R|Home Run|E|Changeup|8|2|1|2|7|86
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|S|Cutter|9|0|0|2|11|89
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|C|Four-Seam Fastball|10|0|1|2|13|91
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|B|Changeup|11|0|2|2|13|87
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|B|Changeup|12|1|2|2|14|86
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|F|Four-Seam Fastball|13|2|2|2|14|92
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|F|Changeup|14|2|2|2|11|86
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|B|Cutter|15|2|2|2|14|88
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|F|Cutter|16|3|2|2|9|88
+Alex Wimmers|R|Edwin Encarnacion|R|Flyout|X|Changeup|17|3|2|2|2|87
+Alex Wimmers|R|Jose Ramirez|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|12|90
+Alex Wimmers|R|Jose Ramirez|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|9|90
+Alex Wimmers|R|Jose Ramirez|L|Strikeout|C|Changeup|2|2|0|0|2|82
+Alex Wimmers|R|Jose Ramirez|L|Strikeout|F|Four-Seam Fastball|3|2|1|0|9|89
+Alex Wimmers|R|Jose Ramirez|L|Strikeout|S|Changeup|4|2|2|0|9|84
+Alex Wimmers|R|Brandon Guyer|R|Walk|B|Cutter|5|0|0|1|14|85
+Alex Wimmers|R|Brandon Guyer|R|Walk|S|Cutter|6|1|0|1|14|84
+Alex Wimmers|R|Brandon Guyer|R|Walk|S|Cutter|7|1|1|1|14|83
+Alex Wimmers|R|Brandon Guyer|R|Walk|*B|Cutter|8|1|2|1|14|85
+Alex Wimmers|R|Brandon Guyer|R|Walk|B|Cutter|9|2|2|1|14|85
+Alex Wimmers|R|Brandon Guyer|R|Walk|F|Cutter|10|3|2|1|14|86
+Alex Wimmers|R|Brandon Guyer|R|Walk|F|Four-Seam Fastball|11|3|2|1|8|92
+Alex Wimmers|R|Brandon Guyer|R|Walk|B|Cutter|12|3|2|1|14|86
+Alex Wimmers|R|Abraham Almonte|L|Grounded Into DP|B|Changeup|13|0|0|1|14|85
+Alex Wimmers|R|Abraham Almonte|L|Grounded Into DP|X|Four-Seam Fastball|14|1|0|1|4|91
+Alex Wimmers|R|Chris Gimenez|R|Walk|B|Curveball|15|0|0|0|11|73
+Alex Wimmers|R|Chris Gimenez|R|Walk|F|Four-Seam Fastball|16|1|0|0|2|91
+Alex Wimmers|R|Chris Gimenez|R|Walk|B|Four-Seam Fastball|17|1|1|0|14|92
+Alex Wimmers|R|Chris Gimenez|R|Walk|B|Cutter|18|2|1|0|13|87
+Alex Wimmers|R|Chris Gimenez|R|Walk|F|Four-Seam Fastball|19|3|1|0|5|90
+Alex Wimmers|R|Chris Gimenez|R|Walk|B|Changeup|20|3|2|0|11|85
+Alex Wimmers|R|Rajai Davis|R|Single|X|Cutter|21|0|0|0|5|86
+Alex Wimmers|R|Jason Kipnis|L|Walk|B|Four-Seam Fastball|22|0|0|1|13|91
+Alex Wimmers|R|Jason Kipnis|L|Walk|S|Changeup|23|1|0|1|11|83
+Alex Wimmers|R|Jason Kipnis|L|Walk|S|Changeup|24|1|1|1|7|83
+Alex Wimmers|R|Jason Kipnis|L|Walk|B|Changeup|25|1|2|1|13|82
+Alex Wimmers|R|Jason Kipnis|L|Walk|B|Four-Seam Fastball|26|2|2|1|14|91
+Alex Wimmers|R|Jason Kipnis|L|Walk|B|Changeup|27|3|2|1|14|84
+Alex Wimmers|R|Francisco Lindor|L|Double|B|Four-Seam Fastball|28|0|0|1|11|90
+Alex Wimmers|R|Francisco Lindor|L|Double|E|Changeup|29|1|0|1|5|85
+Alex Wimmers|R|Omar Narvaez|L|Single|B|Four-Seam Fastball|0|0|0|2|11|91
+Alex Wimmers|R|Omar Narvaez|L|Single|S|Changeup|1|1|0|2|7|83
+Alex Wimmers|R|Omar Narvaez|L|Single|C|Four-Seam Fastball|2|1|1|2|14|90
+Alex Wimmers|R|Omar Narvaez|L|Single|F|Changeup|3|1|2|2|7|84
+Alex Wimmers|R|Omar Narvaez|L|Single|F|Curveball|4|1|2|2|14|74
+Alex Wimmers|R|Omar Narvaez|L|Single|B|Four-Seam Fastball|5|1|2|2|14|92
+Alex Wimmers|R|Omar Narvaez|L|Single|D|Changeup|6|2|2|2|13|84
+Alex Wimmers|R|Yolmer Sanchez|L|Single|F|Four-Seam Fastball|7|0|0|2|1|92
+Alex Wimmers|R|Yolmer Sanchez|L|Single|D|Cutter|8|0|1|2|9|87
+Alex Wimmers|R|Adam Eaton|L|Intent Walk|I|Intentional Ball|9|0|0|2|11|82
+Alex Wimmers|R|Adam Eaton|L|Intent Walk|I|Intentional Ball|10|0|1|2|11|81
+Alex Wimmers|R|Adam Eaton|L|Intent Walk|I|Intentional Ball|11|0|2|2|11|81
+Alex Wimmers|R|Adam Eaton|L|Intent Walk|I|Intentional Ball|12|0|2|2|11|81
+Alex Wimmers|R|Tyler Saladino|R|Sac Fly|F|Cutter|13|0|0|2|6|86
+Alex Wimmers|R|Tyler Saladino|R|Sac Fly|B|Four-Seam Fastball|14|0|1|2|14|93
+Alex Wimmers|R|Tyler Saladino|R|Sac Fly|E|Changeup|15|1|1|2|4|85
+Alex Wimmers|R|Melky Cabrera|L|Groundout|*B|Four-Seam Fastball|16|0|0|0|14|93
+Alex Wimmers|R|Melky Cabrera|L|Groundout|S|Changeup|17|1|0|0|11|85
+Alex Wimmers|R|Melky Cabrera|L|Groundout|B|Cutter|18|1|1|0|14|88
+Alex Wimmers|R|Melky Cabrera|L|Groundout|F|Cutter|19|2|1|0|9|87
+Alex Wimmers|R|Melky Cabrera|L|Groundout|X|Changeup|20|2|2|0|13|83
+Alex Wimmers|R|Jose Abreu|R|Single|C|Four-Seam Fastball|21|0|0|1|3|92
+Alex Wimmers|R|Jose Abreu|R|Single|W|Curveball|22|0|1|1|14|75
+Alex Wimmers|R|Jose Abreu|R|Single|B|Cutter|23|0|2|1|12|91
+Alex Wimmers|R|Jose Abreu|R|Single|E|Curveball|24|1|2|1|13|76
+Alex Wimmers|R|Justin Morneau|L|Walk|B|Four-Seam Fastball|25|0|0|1|11|90
+Alex Wimmers|R|Justin Morneau|L|Walk|B|Changeup|26|1|0|1|13|84
+Alex Wimmers|R|Justin Morneau|L|Walk|B|Four-Seam Fastball|27|2|0|1|11|90
+Alex Wimmers|R|Justin Morneau|L|Walk|B|Four-Seam Fastball|28|3|0|1|11|90
+Alex Wimmers|R|Todd Frazier|R|Walk|B|Cutter|29|0|0|1|14|88
+Alex Wimmers|R|Todd Frazier|R|Walk|B|Cutter|30|1|0|1|14|86
+Alex Wimmers|R|Todd Frazier|R|Walk|S|Four-Seam Fastball|31|2|0|1|2|90
+Alex Wimmers|R|Todd Frazier|R|Walk|S|Changeup|32|2|1|1|14|84
+Alex Wimmers|R|Todd Frazier|R|Walk|*B|Changeup|33|2|2|1|13|85
+Alex Wimmers|R|Todd Frazier|R|Walk|F|Changeup|34|3|2|1|1|85
+Alex Wimmers|R|Todd Frazier|R|Walk|F|Cutter|35|3|2|1|12|91
+Alex Wimmers|R|Todd Frazier|R|Walk|F|Four-Seam Fastball|36|3|2|1|3|91
+Alex Wimmers|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|37|3|2|1|12|91
+Alex Wimmers|R|Alex Gordon|L|Double|B|Four-Seam Fastball|0|0|0|0|13|90
+Alex Wimmers|R|Alex Gordon|L|Double|D|Four-Seam Fastball|1|1|0|0|2|89
+Alex Wimmers|R|Cheslor Cuthbert|R|Flyout|C|Cutter|2|0|0|0|3|85
+Alex Wimmers|R|Cheslor Cuthbert|R|Flyout|F|Four-Seam Fastball|3|0|1|0|6|90
+Alex Wimmers|R|Cheslor Cuthbert|R|Flyout|F|Changeup|4|0|2|0|11|84
+Alex Wimmers|R|Cheslor Cuthbert|R|Flyout|X|Four-Seam Fastball|5|0|2|0|5|91
+Alex Wimmers|R|Alcides Escobar|R|Flyout|*B|Curveball|6|0|0|1|13|75
+Alex Wimmers|R|Alcides Escobar|R|Flyout|C|Cutter|7|1|0|1|6|88
+Alex Wimmers|R|Alcides Escobar|R|Flyout|S|Changeup|8|1|1|1|7|84
+Alex Wimmers|R|Alcides Escobar|R|Flyout|B|Four-Seam Fastball|9|1|2|1|12|92
+Alex Wimmers|R|Alcides Escobar|R|Flyout|X|Changeup|10|2|2|1|1|84
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|C|Curveball|11|0|0|2|6|76
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|S|Changeup|12|0|1|2|13|84
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|S|Four-Seam Fastball|13|0|2|2|2|92
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|B|Four-Seam Fastball|0|0|0|2|12|90
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|B|Cutter|1|1|0|2|14|86
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|C|Changeup|2|2|0|2|3|84
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|B|Changeup|3|2|1|2|11|82
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|F|Cutter|4|3|1|2|13|88
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|F|Changeup|5|3|2|2|5|84
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|F|Four-Seam Fastball|6|3|2|2|6|90
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|F|Changeup|7|3|2|2|13|84
+Alex Wimmers|R|Whit Merrifield|R|Strikeout|S|Four-Seam Fastball|8|3|2|2|12|91
+Alex Wimmers|R|Drew Butera|R|Strikeout|B|Four-Seam Fastball|9|0|0|0|13|90
+Alex Wimmers|R|Drew Butera|R|Strikeout|F|Four-Seam Fastball|10|1|0|0|6|91
+Alex Wimmers|R|Drew Butera|R|Strikeout|C|Four-Seam Fastball|11|1|1|0|9|92
+Alex Wimmers|R|Drew Butera|R|Strikeout|B|Cutter|12|1|2|0|12|87
+Alex Wimmers|R|Drew Butera|R|Strikeout|F|Four-Seam Fastball|13|2|2|0|5|92
+Alex Wimmers|R|Drew Butera|R|Strikeout|F|Changeup|14|2|2|0|7|84
+Alex Wimmers|R|Drew Butera|R|Strikeout|C|Curveball|15|2|2|0|12|75
+Alex Wimmers|R|Jarrod Dyson|L|Walk|C|Four-Seam Fastball|16|0|0|1|7|91
+Alex Wimmers|R|Jarrod Dyson|L|Walk|B|Cutter|17|0|1|1|12|86
+Alex Wimmers|R|Jarrod Dyson|L|Walk|B|Changeup|18|1|1|1|14|85
+Alex Wimmers|R|Jarrod Dyson|L|Walk|B|Changeup|19|2|1|1|13|83
+Alex Wimmers|R|Jarrod Dyson|L|Walk|F|Four-Seam Fastball|20|3|1|1|2|89
+Alex Wimmers|R|Jarrod Dyson|L|Walk|B|Changeup|21|3|2|1|11|86
+Alex Wimmers|R|Paulo Orlando|R|Bunt Pop Out|B|Curveball|22|0|0|1|12|74
+Alex Wimmers|R|Paulo Orlando|R|Bunt Pop Out|X|Four-Seam Fastball|23|1|0|1|4|89
+Alex Wimmers|R|Mike Napoli|R|Walk|B|Four-Seam Fastball|0|0|0|2|11|91
+Alex Wimmers|R|Mike Napoli|R|Walk|C|Four-Seam Fastball|1|1|0|2|12|91
+Alex Wimmers|R|Mike Napoli|R|Walk|B|Cutter|2|1|1|2|13|85
+Alex Wimmers|R|Mike Napoli|R|Walk|F|Changeup|3|2|1|2|4|85
+Alex Wimmers|R|Mike Napoli|R|Walk|B|Cutter|4|2|2|2|14|92
+Alex Wimmers|R|Mike Napoli|R|Walk|B|Cutter|5|3|2|2|13|88
+Alex Wimmers|R|Jose Ramirez|L|Groundout|C|Changeup|6|0|0|2|13|85
+Alex Wimmers|R|Jose Ramirez|L|Groundout|B|Changeup|7|0|1|2|13|83
+Alex Wimmers|R|Jose Ramirez|L|Groundout|X|Four-Seam Fastball|8|1|1|2|4|91
+Alex Wimmers|R|Mike Napoli|R|Single|B|Cutter|0|0|0|2|14|88
+Alex Wimmers|R|Mike Napoli|R|Single|F|Four-Seam Fastball|1|1|0|2|3|91
+Alex Wimmers|R|Mike Napoli|R|Single|D|Cutter|2|1|1|2|14|87
+Alex Wimmers|R|Carlos Santana|L|Groundout|C|Changeup|3|0|0|2|1|84
+Alex Wimmers|R|Carlos Santana|L|Groundout|X|Changeup|4|0|1|2|13|84
+Alex Wimmers|R|Jose Ramirez|L|Groundout|B|Changeup|5|0|0|0|13|82
+Alex Wimmers|R|Jose Ramirez|L|Groundout|F|Four-Seam Fastball|6|1|0|0|1|91
+Alex Wimmers|R|Jose Ramirez|L|Groundout|B|Cutter|7|1|1|0|14|87
+Alex Wimmers|R|Jose Ramirez|L|Groundout|X|Changeup|8|2|1|0|13|85
+Alex Wimmers|R|James McCann|R|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|91
+Alex Wimmers|R|James McCann|R|Strikeout|B|Four-Seam Fastball|1|0|1|0|12|92
+Alex Wimmers|R|James McCann|R|Strikeout|F|Cutter|2|1|1|0|14|86
+Alex Wimmers|R|James McCann|R|Strikeout|S|Changeup|3|1|2|0|13|85
+Alex Wimmers|R|Andrew Romine|L|Walk|S|Changeup|4|0|0|1|13|84
+Alex Wimmers|R|Andrew Romine|L|Walk|B|Curveball|5|0|1|1|12|74
+Alex Wimmers|R|Andrew Romine|L|Walk|C|Four-Seam Fastball|6|1|1|1|11|92
+Alex Wimmers|R|Andrew Romine|L|Walk|B|Changeup|7|1|2|1|14|85
+Alex Wimmers|R|Andrew Romine|L|Walk|B|Cutter|8|2|2|1|12|87
+Alex Wimmers|R|Andrew Romine|L|Walk|B|Changeup|9|3|2|1|14|85
+Alex Wimmers|R|Jose Iglesias|R|Double|B|Cutter|10|0|0|1|12|87
+Alex Wimmers|R|Jose Iglesias|R|Double|C|Cutter|11|1|0|1|6|87
+Alex Wimmers|R|Jose Iglesias|R|Double|F|Four-Seam Fastball|12|1|1|1|2|91
+Alex Wimmers|R|Jose Iglesias|R|Double|E|Changeup|13|1|2|1|8|84
+Alex Wimmers|R|Ian Kinsler|R|Sac Fly|C|Four-Seam Fastball|14|0|0|1|8|91
+Alex Wimmers|R|Ian Kinsler|R|Sac Fly|E|Curveball|15|0|1|1|8|75
+Alex Wimmers|R|Cameron Maybin|R|Groundout|X|Four-Seam Fastball|16|0|0|2|9|89
+Alex Wimmers|R|Ian Kinsler|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|92
+Alex Wimmers|R|Ian Kinsler|R|Flyout|B|Four-Seam Fastball|1|1|0|0|14|90
+Alex Wimmers|R|Ian Kinsler|R|Flyout|C|Four-Seam Fastball|2|2|0|0|5|91
+Alex Wimmers|R|Ian Kinsler|R|Flyout|X|Four-Seam Fastball|3|2|1|0|5|90
+Alex Wimmers|R|Jose Iglesias|R|Single|C|Cutter|4|0|0|1|1|87
+Alex Wimmers|R|Jose Iglesias|R|Single|C|Four-Seam Fastball|5|0|1|1|3|92
+Alex Wimmers|R|Jose Iglesias|R|Single|F|Four-Seam Fastball|6|0|2|1|3|92
+Alex Wimmers|R|Jose Iglesias|R|Single|D|Curveball|7|0|2|1|14|77
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|B|Four-Seam Fastball|8|0|0|1|11|90
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|B|Changeup|9|1|0|1|12|84
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|S|Changeup|10|2|0|1|13|85
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|S|Cutter|11|2|1|1|14|86
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|B|Changeup|12|2|2|1|11|83
+Alex Wimmers|R|Miguel Cabrera|R|Grounded Into DP|X|Four-Seam Fastball|13|3|2|1|14|92
+Alex Wimmers|R|Victor Martinez|L|Flyout|B|Four-Seam Fastball|14|0|0|0|11|89
+Alex Wimmers|R|Victor Martinez|L|Flyout|B|Changeup|15|1|0|0|14|83
+Alex Wimmers|R|Victor Martinez|L|Flyout|F|Changeup|16|2|0|0|4|84
+Alex Wimmers|R|Victor Martinez|L|Flyout|B|Cutter|17|2|1|0|12|86
+Alex Wimmers|R|Victor Martinez|L|Flyout|S|Four-Seam Fastball|18|3|1|0|12|90
+Alex Wimmers|R|Victor Martinez|L|Flyout|X|Four-Seam Fastball|19|3|2|0|1|92
+Alex Wimmers|R|J.D. Martinez|R|Groundout|C|Four-Seam Fastball|20|0|0|1|3|92
+Alex Wimmers|R|J.D. Martinez|R|Groundout|X|Four-Seam Fastball|21|0|1|1|1|91
+Alex Wimmers|R|Justin Upton|R|Groundout|C|Four-Seam Fastball|22|0|0|2|7|92
+Alex Wimmers|R|Justin Upton|R|Groundout|S|Changeup|23|0|1|2|14|86
+Alex Wimmers|R|Justin Upton|R|Groundout|X|Four-Seam Fastball|24|0|2|2|6|91
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|B|Four-Seam Fastball|0|0|0|0|11|92
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|4|90
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|B|Changeup|2|1|1|0|14|84
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|B|Four-Seam Fastball|3|2|1|0|11|91
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|C|Four-Seam Fastball|4|3|1|0|5|91
+Alex Wimmers|R|Matt Reynolds|R|Strikeout|S|Four-Seam Fastball|5|3|2|0|11|93
+Alex Wimmers|R|Jose Reyes|L|Strikeout|C|Changeup|6|0|0|1|2|84
+Alex Wimmers|R|Jose Reyes|L|Strikeout|F|Changeup|7|0|1|1|13|84
+Alex Wimmers|R|Jose Reyes|L|Strikeout|F|Four-Seam Fastball|8|0|2|1|11|92
+Alex Wimmers|R|Jose Reyes|L|Strikeout|S|Changeup|9|0|2|1|7|86
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|C|Four-Seam Fastball|10|0|0|2|5|94
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|B|Curveball|11|0|1|2|14|75
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|F|Cutter|12|1|1|2|6|88
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|B|Four-Seam Fastball|13|1|2|2|11|92
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|B|Cutter|14|2|2|2|14|86
+Alex Wimmers|R|Asdrubal Cabrera|L|Walk|B|Changeup|15|3|2|2|13|86
+Alex Wimmers|R|Yoenis Cespedes|R|Strikeout|F|Cutter|16|0|0|2|8|87
+Alex Wimmers|R|Yoenis Cespedes|R|Strikeout|B|Four-Seam Fastball|17|0|1|2|12|93
+Alex Wimmers|R|Yoenis Cespedes|R|Strikeout|F|Four-Seam Fastball|18|1|1|2|14|92
+Alex Wimmers|R|Yoenis Cespedes|R|Strikeout|F|Changeup|19|1|2|2|14|87
+Alex Wimmers|R|Yoenis Cespedes|R|Strikeout|W|Changeup|20|1|2|2|13|86
+Alex Wimmers|R|Andrew Romine|L|Pop Out|X|Four-Seam Fastball|0|0|0|2|11|90
+Alex Wimmers|R|Cameron Maybin|R|Groundout|C|Four-Seam Fastball|1|0|0|0|9|92
+Alex Wimmers|R|Cameron Maybin|R|Groundout|X|Four-Seam Fastball|2|0|1|0|6|92
+Alex Wimmers|R|Jose Iglesias|R|Single|C|Four-Seam Fastball|3|0|0|1|5|91
+Alex Wimmers|R|Jose Iglesias|R|Single|D|Cutter|4|0|1|1|6|86
+Alex Wimmers|R|Miguel Cabrera|R|Strikeout|S|Four-Seam Fastball|5|0|0|1|7|91
+Alex Wimmers|R|Miguel Cabrera|R|Strikeout|F|Cutter|6|0|1|1|12|85
+Alex Wimmers|R|Miguel Cabrera|R|Strikeout|S|Changeup|7|0|2|1|13|85
+Alex Wimmers|R|J.D. Martinez|R|Groundout|S|Cutter|8|0|0|2|14|87
+Alex Wimmers|R|J.D. Martinez|R|Groundout|B|Cutter|9|0|1|2|12|87
+Alex Wimmers|R|J.D. Martinez|R|Groundout|C|Cutter|10|1|1|2|14|86
+Alex Wimmers|R|J.D. Martinez|R|Groundout|B|Changeup|11|1|2|2|13|86
+Alex Wimmers|R|J.D. Martinez|R|Groundout|B|Four-Seam Fastball|12|2|2|2|11|91
+Alex Wimmers|R|J.D. Martinez|R|Groundout|X|Changeup|13|3|2|2|1|86
+Alex Wimmers|R|Justin Upton|R|Home Run|B|Four-Seam Fastball|14|0|0|0|11|90
+Alex Wimmers|R|Justin Upton|R|Home Run|B|Cutter|15|1|0|0|11|86
+Alex Wimmers|R|Justin Upton|R|Home Run|F|Four-Seam Fastball|16|2|0|0|4|91
+Alex Wimmers|R|Justin Upton|R|Home Run|B|Four-Seam Fastball|17|2|1|0|14|92
+Alex Wimmers|R|Justin Upton|R|Home Run|E|Four-Seam Fastball|18|3|1|0|4|91
+Alex Wimmers|R|James McCann|R|Groundout|X|Four-Seam Fastball|19|0|0|0|6|91
+Alex Wimmers|R|JaCoby Jones|R|Groundout|C|Curveball|20|0|0|1|9|75
+Alex Wimmers|R|JaCoby Jones|R|Groundout|S|Changeup|21|0|1|1|13|85
+Alex Wimmers|R|JaCoby Jones|R|Groundout|B|Changeup|22|0|2|1|13|86
+Alex Wimmers|R|JaCoby Jones|R|Groundout|B|Four-Seam Fastball|23|1|2|1|12|91
+Alex Wimmers|R|JaCoby Jones|R|Groundout|X|Changeup|24|2|2|1|13|85
+Alex Wimmers|R|Jesus Sucre|R|Groundout|B|Cutter|0|0|0|2|14|85
+Alex Wimmers|R|Jesus Sucre|R|Groundout|C|Cutter|1|1|0|2|14|87
+Alex Wimmers|R|Jesus Sucre|R|Groundout|*B|Changeup|2|1|1|2|14|84
+Alex Wimmers|R|Jesus Sucre|R|Groundout|S|Four-Seam Fastball|3|2|1|2|14|91
+Alex Wimmers|R|Jesus Sucre|R|Groundout|X|Changeup|4|2|2|2|7|85
+Alex Wimmers|R|Shawn O'Malley|L|Strikeout|B|Changeup|5|0|0|0|13|82
+Alex Wimmers|R|Shawn O'Malley|L|Strikeout|F|Four-Seam Fastball|6|1|0|0|2|90
+Alex Wimmers|R|Shawn O'Malley|L|Strikeout|C|Four-Seam Fastball|7|1|1|0|9|90
+Alex Wimmers|R|Shawn O'Malley|L|Strikeout|B|Changeup|8|1|2|0|14|85
+Alex Wimmers|R|Shawn O'Malley|L|Strikeout|S|Curveball|9|2|2|0|6|74
+Alex Wimmers|R|Guillermo Heredia|R|Single|C|Curveball|10|0|0|1|2|72
+Alex Wimmers|R|Guillermo Heredia|R|Single|B|Four-Seam Fastball|11|0|1|1|14|92
+Alex Wimmers|R|Guillermo Heredia|R|Single|B|Changeup|12|1|1|1|13|85
+Alex Wimmers|R|Guillermo Heredia|R|Single|D|Cutter|13|2|1|1|9|88
+Alex Wimmers|R|Franklin Gutierrez|R|Grounded Into DP|S|Cutter|14|0|0|1|14|87
+Alex Wimmers|R|Franklin Gutierrez|R|Grounded Into DP|B|Cutter|15|0|1|1|14|87
+Alex Wimmers|R|Franklin Gutierrez|R|Grounded Into DP|*B|Changeup|16|1|1|1|14|84
+Alex Wimmers|R|Franklin Gutierrez|R|Grounded Into DP|B|Changeup|17|2|1|1|12|83
+Alex Wimmers|R|Franklin Gutierrez|R|Grounded Into DP|X|Cutter|18|3|1|1|2|86
+Alex Wimmers|R|Robinson Cano|L|Pop Out|C|Four-Seam Fastball|19|0|0|0|9|90
+Alex Wimmers|R|Robinson Cano|L|Pop Out|X|Cutter|20|0|1|0|3|86
+Alex Wimmers|R|Seth Smith|L|Walk|B|Changeup|21|0|0|1|14|85
+Alex Wimmers|R|Seth Smith|L|Walk|B|Cutter|22|1|0|1|14|86
+Alex Wimmers|R|Seth Smith|L|Walk|B|Changeup|23|2|0|1|13|85
+Alex Wimmers|R|Seth Smith|L|Walk|B|Four-Seam Fastball|24|3|0|1|14|91
+Alex Wimmers|R|Kendrys Morales|L|Groundout|C|Changeup|0|0|0|1|8|84
+Alex Wimmers|R|Kendrys Morales|L|Groundout|B|Cutter|1|0|1|1|12|86
+Alex Wimmers|R|Kendrys Morales|L|Groundout|X|Four-Seam Fastball|2|1|1|1|7|91
+Alex Wimmers|R|Salvador Perez|R|Strikeout|C|Four-Seam Fastball|3|0|0|2|7|92
+Alex Wimmers|R|Salvador Perez|R|Strikeout|F|Changeup|4|0|1|2|8|86
+Alex Wimmers|R|Salvador Perez|R|Strikeout|B|Curveball|5|0|2|2|11|73
+Alex Wimmers|R|Salvador Perez|R|Strikeout|B|Cutter|6|1|2|2|14|88
+Alex Wimmers|R|Salvador Perez|R|Strikeout|W|Changeup|7|2|2|2|14|85
+Alex Wimmers|R|Paulo Orlando|R|Groundout|B|Curveball|0|0|0|1|14|76
+Alex Wimmers|R|Paulo Orlando|R|Groundout|B|Four-Seam Fastball|1|1|0|1|12|92
+Alex Wimmers|R|Paulo Orlando|R|Groundout|F|Cutter|2|2|0|1|8|86
+Alex Wimmers|R|Paulo Orlando|R|Groundout|B|Changeup|3|2|1|1|11|85
+Alex Wimmers|R|Paulo Orlando|R|Groundout|S|Four-Seam Fastball|4|3|1|1|3|92
+Alex Wimmers|R|Paulo Orlando|R|Groundout|X|Four-Seam Fastball|5|3|2|1|5|93
+Alex Wimmers|R|Alcides Escobar|R|Groundout|C|Four-Seam Fastball|6|0|0|2|7|91
+Alex Wimmers|R|Alcides Escobar|R|Groundout|L|Changeup|7|0|1|2|8|86
+Alex Wimmers|R|Alcides Escobar|R|Groundout|X|Changeup|8|0|2|2|9|86
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|F|Curveball|9|0|0|0|14|73
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|S|Changeup|10|0|1|0|5|85
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|B|Four-Seam Fastball|11|0|2|0|14|90
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|B|Cutter|12|1|2|0|14|88
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|F|Changeup|13|2|2|0|7|85
+Alex Wimmers|R|Cheslor Cuthbert|R|Pop Out|X|Changeup|14|2|2|0|4|85
+Alex Wimmers|R|Tim Anderson|R|Double|*B|Changeup|0|0|0|1|14|84
+Alex Wimmers|R|Tim Anderson|R|Double|B|Cutter|1|1|0|1|12|88
+Alex Wimmers|R|Tim Anderson|R|Double|B|Four-Seam Fastball|2|2|0|1|14|93
+Alex Wimmers|R|Tim Anderson|R|Double|C|Four-Seam Fastball|3|3|0|1|5|91
+Alex Wimmers|R|Tim Anderson|R|Double|F|Four-Seam Fastball|4|3|1|1|6|92
+Alex Wimmers|R|Tim Anderson|R|Double|D|Four-Seam Fastball|5|3|2|1|11|89
+Alex Wimmers|R|Melky Cabrera|L|Groundout|B|Cutter|6|0|0|1|12|89
+Alex Wimmers|R|Melky Cabrera|L|Groundout|B|Changeup|7|1|0|1|13|86
+Alex Wimmers|R|Melky Cabrera|L|Groundout|E|Cutter|8|2|0|1|12|88
+Alex Wimmers|R|Jose Abreu|R|Strikeout|C|Four-Seam Fastball|9|0|0|2|2|93
+Alex Wimmers|R|Jose Abreu|R|Strikeout|S|Changeup|10|0|1|2|7|87
+Alex Wimmers|R|Jose Abreu|R|Strikeout|B|Changeup|11|0|2|2|13|86
+Alex Wimmers|R|Jose Abreu|R|Strikeout|S|Cutter|12|1|2|2|14|87
+Alex Wimmers|R|Martin Maldonado|R|Lineout|C|Four-Seam Fastball|0|0|0|2|12|92
+Alex Wimmers|R|Martin Maldonado|R|Lineout|X|Changeup|1|0|1|2|14|86
+Alex Wimmers|R|Ben Revere|L|Lineout|B|Four-Seam Fastball|2|0|0|0|14|89
+Alex Wimmers|R|Ben Revere|L|Lineout|C|Four-Seam Fastball|3|1|0|0|12|89
+Alex Wimmers|R|Ben Revere|L|Lineout|X|Four-Seam Fastball|4|1|1|0|3|91
+Alex Wimmers|R|Danny Espinosa|L|Strikeout|C|Changeup|5|0|0|1|6|84
+Alex Wimmers|R|Danny Espinosa|L|Strikeout|S|Curveball|6|0|1|1|14|78
+Alex Wimmers|R|Danny Espinosa|L|Strikeout|F|Four-Seam Fastball|7|0|2|1|2|91
+Alex Wimmers|R|Danny Espinosa|L|Strikeout|B|Four-Seam Fastball|8|0|2|1|12|93
+Alex Wimmers|R|Danny Espinosa|L|Strikeout|C|Four-Seam Fastball|9|1|2|1|12|92
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|B|Curveball|10|0|0|2|12|74
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|C|Changeup|11|1|0|2|3|85
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|X|Changeup|12|1|1|2|8|85
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|B|Changeup|0|0|0|0|11|83
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|C|Changeup|1|1|0|0|11|82
+Alex Wimmers|R|Eric Young Jr.|L|Groundout|X|Curveball|2|1|1|0|6|72
+Alex Wimmers|R|Andrelton Simmons|R|Flyout|X|Four-Seam Fastball|3|0|0|1|6|92
+Alex Wimmers|R|Kole Calhoun|L|Single|B|Four-Seam Fastball|4|0|0|2|14|91
+Alex Wimmers|R|Kole Calhoun|L|Single|B|Changeup|5|1|0|2|11|83
+Alex Wimmers|R|Kole Calhoun|L|Single|C|Changeup|6|2|0|2|12|84
+Alex Wimmers|R|Kole Calhoun|L|Single|F|Four-Seam Fastball|7|2|1|2|2|91
+Alex Wimmers|R|Kole Calhoun|L|Single|D|Four-Seam Fastball|8|2|2|2|11|92
+Alex Wimmers|R|Albert Pujols|R|Flyout|X|Four-Seam Fastball|9|0|0|2|14|90
+Alex Wimmers|R|Nelson Cruz|R|Single|S|Changeup|0|0|0|0|9|85
+Alex Wimmers|R|Nelson Cruz|R|Single|C|Four-Seam Fastball|1|0|1|0|14|92
+Alex Wimmers|R|Nelson Cruz|R|Single|B|Four-Seam Fastball|2|0|2|0|14|91
+Alex Wimmers|R|Nelson Cruz|R|Single|E|Changeup|3|1|2|0|9|86
+Alex Wimmers|R|Kyle Seager|L|Home Run|*B|Four-Seam Fastball|4|0|0|0|13|92
+Alex Wimmers|R|Kyle Seager|L|Home Run|B|Changeup|5|1|0|0|13|85
+Alex Wimmers|R|Kyle Seager|L|Home Run|C|Four-Seam Fastball|6|2|0|0|6|92
+Alex Wimmers|R|Kyle Seager|L|Home Run|E|Changeup|7|2|1|0|9|85
+Alex Wimmers|R|Taylor Motter|R|Pop Out|X|Four-Seam Fastball|8|0|0|0|1|92
+Alex Wimmers|R|Ben Gamel|L|Strikeout|B|Curveball|9|0|0|1|14|76
+Alex Wimmers|R|Ben Gamel|L|Strikeout|S|Changeup|10|1|0|1|14|85
+Alex Wimmers|R|Ben Gamel|L|Strikeout|B|Four-Seam Fastball|11|1|1|1|12|92
+Alex Wimmers|R|Ben Gamel|L|Strikeout|F|Four-Seam Fastball|12|2|1|1|2|91
+Alex Wimmers|R|Ben Gamel|L|Strikeout|B|Four-Seam Fastball|13|2|2|1|14|92
+Alex Wimmers|R|Ben Gamel|L|Strikeout|S|Changeup|14|3|2|1|8|86
+Alex Wimmers|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|15|0|0|2|5|92
+Alex Wimmers|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|16|0|1|2|2|92
+Alex Wimmers|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|17|0|2|2|12|93
+Alex Wimmers|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|18|1|2|2|12|93
+Alex Wimmers|R|Mike Zunino|R|Strikeout|C|Changeup|19|2|2|2|14|86
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|20|0|0|0|13|90
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|21|1|0|0|14|89
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|22|2|0|0|5|90
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|B|Changeup|23|2|1|0|11|83
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|24|3|1|0|11|90
+Alex Wimmers|R|Jarrod Dyson|L|Strikeout|S|Changeup|25|3|2|0|6|84
+Alex Wimmers|R|Guillermo Heredia|R|Single|B|Curveball|26|0|0|1|11|76
+Alex Wimmers|R|Guillermo Heredia|R|Single|F|Changeup|27|1|0|1|5|85
+Alex Wimmers|R|Guillermo Heredia|R|Single|D|Cutter|28|1|1|1|3|86
+Alex Wimmers|R|Danny Valencia|R|Pop Out|B|Four-Seam Fastball|29|0|0|1|11|92
+Alex Wimmers|R|Danny Valencia|R|Pop Out|S|Changeup|30|1|0|1|13|85
+Alex Wimmers|R|Danny Valencia|R|Pop Out|B|Four-Seam Fastball|31|1|1|1|14|90
+Alex Wimmers|R|Danny Valencia|R|Pop Out|S|Four-Seam Fastball|32|2|1|1|2|91
+Alex Wimmers|R|Danny Valencia|R|Pop Out|F|Four-Seam Fastball|33|2|2|1|14|91
+Alex Wimmers|R|Danny Valencia|R|Pop Out|B|Changeup|34|2|2|1|14|85
+Alex Wimmers|R|Danny Valencia|R|Pop Out|X|Changeup|35|3|2|1|4|84
+Alex Wimmers|R|Robinson Cano|L|Walk|B|Four-Seam Fastball|36|0|0|2|12|91
+Alex Wimmers|R|Robinson Cano|L|Walk|F|Cutter|37|1|0|2|14|87
+Alex Wimmers|R|Robinson Cano|L|Walk|B|Changeup|38|1|1|2|14|85
+Alex Wimmers|R|Robinson Cano|L|Walk|*B|Changeup|39|2|1|2|14|84
+Alex Wimmers|R|Robinson Cano|L|Walk|F|Cutter|40|3|1|2|12|86
+Alex Wimmers|R|Robinson Cano|L|Walk|B|Four-Seam Fastball|41|3|2|2|14|90
+Alex Wimmers|R|Brandon Crawford|L|Walk|B|Changeup|0|0|0|2|12|84
+Alex Wimmers|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|1|1|0|2|14|89
+Alex Wimmers|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|2|2|0|2|13|91
+Alex Wimmers|R|Brandon Crawford|L|Walk|B|Four-Seam Fastball|3|3|0|2|14|91
+Alex Wimmers|R|Denard Span|L|Walk|B|Curveball|4|0|0|2|11|74
+Alex Wimmers|R|Denard Span|L|Walk|C|Four-Seam Fastball|5|1|0|2|8|92
+Alex Wimmers|R|Denard Span|L|Walk|B|Changeup|6|1|1|2|11|85
+Alex Wimmers|R|Denard Span|L|Walk|B|Changeup|7|2|1|2|11|84
+Alex Wimmers|R|Denard Span|L|Walk|F|Changeup|8|3|1|2|5|85
+Alex Wimmers|R|Denard Span|L|Walk|B|Four-Seam Fastball|9|3|2|2|13|92
+Alex Wimmers|R|Kelby Tomlinson|R|Forceout|X|Four-Seam Fastball|10|0|0|2|4|92
+Alex Wimmers|R|Danny Valencia|R|Single|B|Changeup|0|0|0|2|12|84
+Alex Wimmers|R|Danny Valencia|R|Single|B|Changeup|1|1|0|2|11|84
+Alex Wimmers|R|Danny Valencia|R|Single|C|Four-Seam Fastball|2|2|0|2|2|92
+Alex Wimmers|R|Danny Valencia|R|Single|B|Four-Seam Fastball|3|2|1|2|11|92
+Alex Wimmers|R|Danny Valencia|R|Single|C|Four-Seam Fastball|4|3|1|2|9|92
+Alex Wimmers|R|Danny Valencia|R|Single|E|Changeup|5|3|2|2|9|86
+Alex Wimmers|R|Mike Zunino|R|Single|E|Four-Seam Fastball|6|0|0|2|12|93
+Alex Wimmers|R|Guillermo Heredia|R|Pop Out|B|Four-Seam Fastball|7|0|0|2|14|92
+Alex Wimmers|R|Guillermo Heredia|R|Pop Out|*B|Changeup|8|1|0|2|14|86
+Alex Wimmers|R|Guillermo Heredia|R|Pop Out|X|Four-Seam Fastball|9|2|0|2|11|91
+Alex Wimmers|R|Tyler Smith|R|Strikeout|C|Four-Seam Fastball|10|0|0|0|14|91
+Alex Wimmers|R|Tyler Smith|R|Strikeout|S|Curveball|11|0|1|0|6|74
+Alex Wimmers|R|Tyler Smith|R|Strikeout|C|Four-Seam Fastball|12|0|2|0|12|93
+Alex Wimmers|R|Ben Gamel|L|Walk|B|Changeup|13|0|0|1|14|85
+Alex Wimmers|R|Ben Gamel|L|Walk|B|Curveball|14|1|0|1|11|73
+Alex Wimmers|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|15|2|0|1|14|91
+Alex Wimmers|R|Ben Gamel|L|Walk|B|Four-Seam Fastball|16|3|0|1|12|90
+Alex Wimmers|R|Mitch Haniger|R|Strikeout|B|Four-Seam Fastball|17|0|0|1|14|91
+Alex Wimmers|R|Mitch Haniger|R|Strikeout|C|Curveball|18|1|0|1|2|75
+Alex Wimmers|R|Mitch Haniger|R|Strikeout|C|Changeup|19|1|1|1|14|85
+Alex Wimmers|R|Mitch Haniger|R|Strikeout|C|Cutter|20|1|2|1|12|85
+Alex Wimmers|R|Robinson Cano|L|Flyout|C|Four-Seam Fastball|21|0|0|2|5|91
+Alex Wimmers|R|Robinson Cano|L|Flyout|F|Cutter|22|0|1|2|12|86
+Alex Wimmers|R|Robinson Cano|L|Flyout|F|Four-Seam Fastball|23|0|2|2|12|91
+Alex Wimmers|R|Robinson Cano|L|Flyout|F|Curveball|24|0|2|2|12|76
+Alex Wimmers|R|Robinson Cano|L|Flyout|F|Changeup|25|0|2|2|13|84
+Alex Wimmers|R|Robinson Cano|L|Flyout|X|Cutter|26|0|2|2|6|85
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Four-Seam Fastball|27|0|0|0|3|90
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Curveball|28|0|1|0|5|75
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Cutter|29|0|2|0|6|86
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Changeup|30|0|2|0|13|86
+Alex Wimmers|R|Nelson Cruz|R|Walk|B|Four-Seam Fastball|31|0|2|0|14|91
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Curveball|32|1|2|0|12|77
+Alex Wimmers|R|Nelson Cruz|R|Walk|B|Four-Seam Fastball|33|1|2|0|14|91
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Changeup|34|2|2|0|4|86
+Alex Wimmers|R|Nelson Cruz|R|Walk|B|Cutter|35|2|2|0|14|88
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Changeup|36|3|2|0|6|85
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Four-Seam Fastball|37|3|2|0|12|91
+Alex Wimmers|R|Nelson Cruz|R|Walk|F|Cutter|38|3|2|0|14|88
+Alex Wimmers|R|Nelson Cruz|R|Walk|B|Curveball|39|3|2|0|14|77
+Alex Wimmers|R|Kyle Seager|L|Single|F|Four-Seam Fastball|40|0|0|0|5|90
+Alex Wimmers|R|Kyle Seager|L|Single|S|Changeup|41|0|1|0|13|84
+Alex Wimmers|R|Kyle Seager|L|Single|D|Four-Seam Fastball|42|0|2|0|3|92
+Alex Wimmers|R|Edwin Encarnacion|R|Walk|B|Four-Seam Fastball|0|0|0|1|14|92
+Alex Wimmers|R|Edwin Encarnacion|R|Walk|B|Changeup|1|1|0|1|14|85
+Alex Wimmers|R|Edwin Encarnacion|R|Walk|B|Changeup|2|2|0|1|12|84
+Alex Wimmers|R|Edwin Encarnacion|R|Walk|B|Four-Seam Fastball|3|3|0|1|12|90
+Alex Wimmers|R|Carlos Santana|L|Groundout|B|Four-Seam Fastball|4|0|0|1|12|92
+Alex Wimmers|R|Carlos Santana|L|Groundout|B|Changeup|5|1|0|1|14|84
+Alex Wimmers|R|Carlos Santana|L|Groundout|F|Four-Seam Fastball|6|2|0|1|5|91
+Alex Wimmers|R|Carlos Santana|L|Groundout|S|Four-Seam Fastball|7|2|1|1|2|91
+Alex Wimmers|R|Carlos Santana|L|Groundout|X|Four-Seam Fastball|8|2|2|1|2|92
+Alex Wimmers|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|9|0|0|2|12|91
+Alex Wimmers|R|Austin Jackson|R|Strikeout|B|Cutter|10|1|0|2|11|85
+Alex Wimmers|R|Austin Jackson|R|Strikeout|S|Changeup|11|2|0|2|8|86
+Alex Wimmers|R|Austin Jackson|R|Strikeout|C|Changeup|12|2|1|2|11|85
+Alex Wimmers|R|Austin Jackson|R|Strikeout|S|Changeup|13|2|2|2|7|86
+Alex Wimmers|R|Bradley Zimmer|L|Walk|B|Curveball|14|0|0|0|11|71
+Alex Wimmers|R|Bradley Zimmer|L|Walk|B|Changeup|15|1|0|0|13|82
+Alex Wimmers|R|Bradley Zimmer|L|Walk|S|Changeup|16|2|0|0|4|84
+Alex Wimmers|R|Bradley Zimmer|L|Walk|F|Four-Seam Fastball|17|2|1|0|6|91
+Alex Wimmers|R|Bradley Zimmer|L|Walk|B|Four-Seam Fastball|18|2|2|0|11|92
+Alex Wimmers|R|Bradley Zimmer|L|Walk|F|Changeup|19|3|2|0|6|84
+Alex Wimmers|R|Bradley Zimmer|L|Walk|B|Changeup|20|3|2|0|11|85
+Alex Wimmers|R|Roberto Perez|R|Flyout|X|Changeup|21|0|0|0|5|85
+Alex Wimmers|R|Erik Gonzalez|R|Walk|P|Pitchout|22|0|0|1|12|89
+Alex Wimmers|R|Erik Gonzalez|R|Walk|*B|Four-Seam Fastball|23|0|1|1|14|90
+Alex Wimmers|R|Erik Gonzalez|R|Walk|B|Changeup|24|1|1|1|12|85
+Alex Wimmers|R|Erik Gonzalez|R|Walk|B|Four-Seam Fastball|25|2|1|1|12|91
+Alex Wimmers|R|Jason Kipnis|L|Lineout|B|Four-Seam Fastball|26|0|0|1|12|92
+Alex Wimmers|R|Jason Kipnis|L|Lineout|B|Changeup|27|1|0|1|12|85
+Alex Wimmers|R|Jason Kipnis|L|Lineout|S|Changeup|28|2|0|1|2|84
+Alex Wimmers|R|Jason Kipnis|L|Lineout|C|Four-Seam Fastball|29|2|1|1|9|91
+Alex Wimmers|R|Jason Kipnis|L|Lineout|X|Changeup|30|2|2|1|1|85
+Alex Wimmers|R|Daniel Robertson|R|Forceout|X|Changeup|31|0|0|2|5|85
+Alex Wimmers|R|Jose Ramirez|L|Home Run|B|Changeup|32|0|0|0|13|84
+Alex Wimmers|R|Jose Ramirez|L|Home Run|S|Changeup|33|1|0|0|6|83
+Alex Wimmers|R|Jose Ramirez|L|Home Run|B|Four-Seam Fastball|34|1|1|0|12|90
+Alex Wimmers|R|Jose Ramirez|L|Home Run|B|Four-Seam Fastball|35|2|1|0|14|90
+Alex Wimmers|R|Jose Ramirez|L|Home Run|E|Changeup|36|3|1|0|5|85

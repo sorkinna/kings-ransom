@@ -1,0 +1,599 @@
+Henderson Alvarez III|R|Eric Young Jr.|L|Groundout|C|Four-Seam Fastball|0|0|0|0|2|91
+Henderson Alvarez III|R|Eric Young Jr.|L|Groundout|X|Two-Seam Fastball|1|0|1|0|7|92
+Henderson Alvarez III|R|Jace Peterson|L|Single|C|Four-Seam Fastball|2|0|0|1|13|92
+Henderson Alvarez III|R|Jace Peterson|L|Single|D|Two-Seam Fastball|3|0|1|1|11|92
+Henderson Alvarez III|R|Nick Markakis|L|Single|B|Two-Seam Fastball|4|0|0|1|14|90
+Henderson Alvarez III|R|Nick Markakis|L|Single|C|Changeup|5|1|0|1|9|85
+Henderson Alvarez III|R|Nick Markakis|L|Single|E|Changeup|6|1|1|1|7|86
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|B|Two-Seam Fastball|7|0|0|1|11|91
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|F|Changeup|8|1|0|1|1|81
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|X|Two-Seam Fastball|9|1|1|1|11|91
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|F|Two-Seam Fastball|10|0|0|2|11|92
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|X|Slider|11|0|1|2|11|83
+Henderson Alvarez III|R|Kelly Johnson|L|Lineout|B|Four-Seam Fastball|12|0|0|0|13|89
+Henderson Alvarez III|R|Kelly Johnson|L|Lineout|X|Two-Seam Fastball|13|1|0|0|13|90
+Henderson Alvarez III|R|Alberto Callaspo|L|Flyout|B|Four-Seam Fastball|14|0|0|1|11|91
+Henderson Alvarez III|R|Alberto Callaspo|L|Flyout|X|Changeup|15|1|0|1|11|89
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|X|Two-Seam Fastball|16|0|0|2|8|92
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|C|Changeup|17|0|0|0|11|87
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|X|Changeup|18|0|1|0|2|88
+Henderson Alvarez III|R|Eric Young Jr.|L|Groundout|C|Two-Seam Fastball|19|0|0|1|7|90
+Henderson Alvarez III|R|Eric Young Jr.|L|Groundout|X|Changeup|20|0|1|1|7|87
+Henderson Alvarez III|R|Jace Peterson|L|Groundout|B|Four-Seam Fastball|21|0|0|2|14|90
+Henderson Alvarez III|R|Jace Peterson|L|Groundout|B|Changeup|22|1|0|2|14|87
+Henderson Alvarez III|R|Jace Peterson|L|Groundout|X|Changeup|23|2|0|2|1|86
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|C|Four-Seam Fastball|24|0|0|0|4|90
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|C|Eephus|25|0|1|0|1|52
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|X|Four-Seam Fastball|26|0|2|0|3|91
+Henderson Alvarez III|R|Freddie Freeman|L|Single|S|Changeup|27|0|0|1|14|85
+Henderson Alvarez III|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|28|0|1|1|11|92
+Henderson Alvarez III|R|Freddie Freeman|L|Single|B|Changeup|29|1|1|1|13|87
+Henderson Alvarez III|R|Freddie Freeman|L|Single|F|Changeup|30|2|1|1|3|86
+Henderson Alvarez III|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|31|2|2|1|11|93
+Henderson Alvarez III|R|Freddie Freeman|L|Single|D|Changeup|32|3|2|1|7|87
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|C|Slider|33|0|0|1|8|82
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|X|Four-Seam Fastball|34|0|1|1|3|91
+Henderson Alvarez III|R|Kelly Johnson|L|Groundout|B|Changeup|35|0|0|2|13|87
+Henderson Alvarez III|R|Kelly Johnson|L|Groundout|C|Two-Seam Fastball|36|1|0|2|11|91
+Henderson Alvarez III|R|Kelly Johnson|L|Groundout|X|Changeup|37|1|1|2|13|87
+Henderson Alvarez III|R|Alberto Callaspo|L|Flyout|B|Four-Seam Fastball|38|0|0|0|11|90
+Henderson Alvarez III|R|Alberto Callaspo|L|Flyout|B|Changeup|39|1|0|0|13|88
+Henderson Alvarez III|R|Alberto Callaspo|L|Flyout|X|Changeup|40|2|0|0|11|88
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|C|Four-Seam Fastball|41|0|0|1|9|91
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|F|Slider|42|0|1|1|3|81
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|F|Four-Seam Fastball|43|0|2|1|9|91
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|B|Changeup|44|0|2|1|13|88
+Henderson Alvarez III|R|Andrelton Simmons|R|Groundout|X|Two-Seam Fastball|45|1|2|1|13|90
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|B|Two-Seam Fastball|46|0|0|2|11|91
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|X|Changeup|47|1|0|2|5|85
+Henderson Alvarez III|R|Eric Young Jr.|L|Double|B|Four-Seam Fastball|48|0|0|0|0|0
+Henderson Alvarez III|R|Eric Young Jr.|L|Double|C|Changeup|49|1|0|0|6|88
+Henderson Alvarez III|R|Eric Young Jr.|L|Double|D|Changeup|50|1|1|0|8|88
+Henderson Alvarez III|R|Jace Peterson|L|Sac Bunt|X|N/A|51|0|0|0|0|0
+Henderson Alvarez III|R|Nick Markakis|L|Fielders Choice|B|Four-Seam Fastball|52|0|0|1|14|92
+Henderson Alvarez III|R|Nick Markakis|L|Fielders Choice|C|Two-Seam Fastball|53|1|0|1|3|92
+Henderson Alvarez III|R|Nick Markakis|L|Fielders Choice|B|Slider|54|1|1|1|13|84
+Henderson Alvarez III|R|Nick Markakis|L|Fielders Choice|E|Changeup|55|2|1|1|13|88
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|56|0|0|1|11|90
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|C|Changeup|57|1|0|1|8|89
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|C|Four-Seam Fastball|58|1|1|1|9|90
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|F|Changeup|59|1|2|1|11|86
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|B|Changeup|60|1|2|1|13|84
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|B|Two-Seam Fastball|61|2|2|1|13|91
+Henderson Alvarez III|R|Freddie Freeman|L|Strikeout|S|Changeup|62|3|2|1|11|86
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|B|Slider|63|0|0|2|12|82
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|S|Slider|64|1|0|2|7|83
+Henderson Alvarez III|R|Christian Bethancourt|R|Groundout|X|Four-Seam Fastball|65|1|1|2|13|92
+Henderson Alvarez III|R|Kelly Johnson|L|Lineout|B|Changeup|66|0|0|0|11|83
+Henderson Alvarez III|R|Kelly Johnson|L|Lineout|X|Changeup|67|1|0|0|1|88
+Henderson Alvarez III|R|Alberto Callaspo|L|Single|C|Changeup|68|0|0|1|4|85
+Henderson Alvarez III|R|Alberto Callaspo|L|Single|B|Slider|69|0|1|1|13|80
+Henderson Alvarez III|R|Alberto Callaspo|L|Single|C|Slider|70|1|1|1|12|83
+Henderson Alvarez III|R|Alberto Callaspo|L|Single|D|Changeup|71|1|2|1|11|88
+Henderson Alvarez III|R|Andrelton Simmons|R|Flyout|B|Changeup|72|0|0|1|13|88
+Henderson Alvarez III|R|Andrelton Simmons|R|Flyout|X|Two-Seam Fastball|73|1|0|1|4|90
+Henderson Alvarez III|R|Julio Teheran|R|Single|D|Four-Seam Fastball|74|0|0|2|1|89
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|C|Two-Seam Fastball|75|0|0|2|9|89
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|F|Changeup|76|0|1|2|14|85
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|F|Changeup|77|0|2|2|13|86
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|F|Two-Seam Fastball|78|0|2|2|12|90
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|B|Two-Seam Fastball|79|0|2|2|13|90
+Henderson Alvarez III|R|Eric Young Jr.|L|Strikeout|S|Changeup|80|1|2|2|14|87
+Henderson Alvarez III|R|Kevin Kiermaier|L|Groundout|F|Changeup|0|0|0|0|6|86
+Henderson Alvarez III|R|Kevin Kiermaier|L|Groundout|B|Changeup|1|0|1|0|11|88
+Henderson Alvarez III|R|Kevin Kiermaier|L|Groundout|B|Changeup|2|1|1|0|13|87
+Henderson Alvarez III|R|Kevin Kiermaier|L|Groundout|B|Changeup|3|2|1|0|13|87
+Henderson Alvarez III|R|Kevin Kiermaier|L|Groundout|X|N/A|4|3|1|0|0|0
+Henderson Alvarez III|R|David DeJesus|L|Single|C|N/A|5|0|0|1|0|0
+Henderson Alvarez III|R|David DeJesus|L|Single|T|N/A|6|0|1|1|0|0
+Henderson Alvarez III|R|David DeJesus|L|Single|F|N/A|7|0|2|1|0|0
+Henderson Alvarez III|R|David DeJesus|L|Single|B|N/A|8|0|2|1|0|0
+Henderson Alvarez III|R|David DeJesus|L|Single|D|N/A|9|1|2|1|0|0
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|C|N/A|10|0|0|1|0|0
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|*B|N/A|11|0|1|1|0|0
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|N/A|12|1|1|1|0|0
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|S|N/A|13|2|1|1|0|0
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|E|N/A|14|2|2|1|0|0
+Henderson Alvarez III|R|Evan Longoria|R|Double Play|B|N/A|15|0|0|1|0|0
+Henderson Alvarez III|R|Evan Longoria|R|Double Play|C|N/A|16|1|0|1|0|0
+Henderson Alvarez III|R|Evan Longoria|R|Double Play|X|N/A|17|1|1|1|0|0
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|C|N/A|18|0|0|0|0|0
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|B|N/A|19|0|1|0|0|0
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|B|N/A|20|1|1|0|0|0
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|X|N/A|21|2|1|0|0|0
+Henderson Alvarez III|R|Allan Dykstra|L|Strikeout|F|N/A|22|0|0|1|0|0
+Henderson Alvarez III|R|Allan Dykstra|L|Strikeout|F|N/A|23|0|1|1|0|0
+Henderson Alvarez III|R|Allan Dykstra|L|Strikeout|B|N/A|24|0|2|1|0|0
+Henderson Alvarez III|R|Allan Dykstra|L|Strikeout|B|N/A|25|1|2|1|0|0
+Henderson Alvarez III|R|Allan Dykstra|L|Strikeout|S|N/A|26|2|2|1|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|C|N/A|27|0|0|2|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|B|N/A|28|0|1|2|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|F|N/A|29|1|1|2|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|F|N/A|30|1|2|2|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|B|N/A|31|1|2|2|0|0
+Henderson Alvarez III|R|Logan Forsythe|R|Groundout|X|N/A|32|2|2|2|0|0
+Henderson Alvarez III|R|Rene Rivera|R|Groundout|C|Four-Seam Fastball|33|0|0|0|12|90
+Henderson Alvarez III|R|Rene Rivera|R|Groundout|B|Four-Seam Fastball|34|0|1|0|12|92
+Henderson Alvarez III|R|Rene Rivera|R|Groundout|X|Two-Seam Fastball|35|1|1|0|13|90
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|B|Four-Seam Fastball|36|0|0|1|1|91
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|C|Changeup|37|1|0|1|8|88
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|B|Four-Seam Fastball|38|1|1|1|13|90
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|F|Two-Seam Fastball|39|2|1|1|1|90
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|B|Four-Seam Fastball|40|2|2|1|12|91
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|F|Two-Seam Fastball|41|3|2|1|5|90
+Henderson Alvarez III|R|Nate Karns|R|Strikeout|S|Two-Seam Fastball|42|3|2|1|8|90
+Henderson Alvarez III|R|Kevin Kiermaier|L|Double|C|Changeup|43|0|0|2|4|85
+Henderson Alvarez III|R|Kevin Kiermaier|L|Double|B|Four-Seam Fastball|44|0|1|2|11|90
+Henderson Alvarez III|R|Kevin Kiermaier|L|Double|S|Two-Seam Fastball|45|1|1|2|11|90
+Henderson Alvarez III|R|Kevin Kiermaier|L|Double|D|Changeup|46|1|2|2|13|88
+Henderson Alvarez III|R|David DeJesus|L|Groundout|X|Two-Seam Fastball|47|0|0|2|7|91
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|C|Changeup|48|0|0|0|5|86
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|F|Changeup|49|0|1|0|8|86
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Changeup|50|0|2|0|14|89
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Two-Seam Fastball|51|1|2|0|11|89
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Two-Seam Fastball|52|2|2|0|14|89
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|D|Changeup|53|3|2|0|13|86
+Henderson Alvarez III|R|Evan Longoria|R|Double|D|Two-Seam Fastball|54|0|0|0|13|91
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|F|Two-Seam Fastball|55|0|0|0|1|91
+Henderson Alvarez III|R|Desmond Jennings|R|Groundout|X|Two-Seam Fastball|56|0|1|0|7|92
+Henderson Alvarez III|R|Allan Dykstra|L|Groundout|*B|Changeup|57|0|0|1|13|87
+Henderson Alvarez III|R|Allan Dykstra|L|Groundout|B|Two-Seam Fastball|58|1|0|1|11|91
+Henderson Alvarez III|R|Allan Dykstra|L|Groundout|X|Two-Seam Fastball|59|2|0|1|4|90
+Henderson Alvarez III|R|Logan Forsythe|R|Flyout|B|Two-Seam Fastball|60|0|0|2|13|93
+Henderson Alvarez III|R|Logan Forsythe|R|Flyout|X|Two-Seam Fastball|61|1|0|2|7|92
+Henderson Alvarez III|R|Rene Rivera|R|Single|D|Changeup|62|0|0|0|6|83
+Henderson Alvarez III|R|Nate Karns|R|Sac Bunt|B|Changeup|63|0|0|0|11|82
+Henderson Alvarez III|R|Nate Karns|R|Sac Bunt|B|Changeup|64|1|0|0|11|84
+Henderson Alvarez III|R|Nate Karns|R|Sac Bunt|X|Changeup|65|2|0|0|4|84
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|F|Changeup|66|0|0|1|7|86
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|B|Four-Seam Fastball|67|0|1|1|13|89
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|B|Two-Seam Fastball|68|1|1|1|13|90
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|B|Two-Seam Fastball|69|2|1|1|13|90
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|F|Two-Seam Fastball|70|3|1|1|11|91
+Henderson Alvarez III|R|Kevin Kiermaier|L|Walk|B|Two-Seam Fastball|71|3|2|1|12|91
+Henderson Alvarez III|R|David DeJesus|L|Home Run|C|Two-Seam Fastball|72|0|0|1|4|89
+Henderson Alvarez III|R|David DeJesus|L|Home Run|F|Two-Seam Fastball|73|0|1|1|11|90
+Henderson Alvarez III|R|David DeJesus|L|Home Run|E|Two-Seam Fastball|74|0|2|1|8|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Strikeout|C|Changeup|75|0|0|1|13|86
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Strikeout|C|Eephus|76|0|1|1|5|60
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Strikeout|B|Four-Seam Fastball|77|0|2|1|12|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Strikeout|B|Two-Seam Fastball|78|1|2|1|13|89
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Strikeout|S|Changeup|79|2|2|1|13|86
+Henderson Alvarez III|R|Evan Longoria|R|Groundout|B|Changeup|80|0|0|2|2|86
+Henderson Alvarez III|R|Evan Longoria|R|Groundout|B|Changeup|81|1|0|2|14|87
+Henderson Alvarez III|R|Evan Longoria|R|Groundout|X|Changeup|82|2|0|2|5|87
+Henderson Alvarez III|R|Jace Peterson|L|Lineout|C|Four-Seam Fastball|0|0|0|0|7|90
+Henderson Alvarez III|R|Jace Peterson|L|Lineout|S|Four-Seam Fastball|1|0|1|0|14|91
+Henderson Alvarez III|R|Jace Peterson|L|Lineout|X|Four-Seam Fastball|2|0|2|0|2|91
+Henderson Alvarez III|R|Phil Gosselin|R|Groundout|B|Four-Seam Fastball|3|0|0|1|13|91
+Henderson Alvarez III|R|Phil Gosselin|R|Groundout|X|Slider|4|1|0|1|13|83
+Henderson Alvarez III|R|Freddie Freeman|L|Flyout|B|Four-Seam Fastball|5|0|0|2|13|91
+Henderson Alvarez III|R|Freddie Freeman|L|Flyout|B|Changeup|6|1|0|2|14|87
+Henderson Alvarez III|R|Freddie Freeman|L|Flyout|S|Changeup|7|2|0|2|4|86
+Henderson Alvarez III|R|Freddie Freeman|L|Flyout|X|Four-Seam Fastball|8|2|1|2|5|91
+Henderson Alvarez III|R|Nick Markakis|L|Single|B|Changeup|9|0|0|0|11|88
+Henderson Alvarez III|R|Nick Markakis|L|Single|F|Two-Seam Fastball|10|1|0|0|1|89
+Henderson Alvarez III|R|Nick Markakis|L|Single|D|Four-Seam Fastball|11|1|1|0|3|91
+Henderson Alvarez III|R|Todd Cunningham|L|Single|C|Changeup|12|0|0|0|11|89
+Henderson Alvarez III|R|Todd Cunningham|L|Single|B|Changeup|13|0|1|0|11|86
+Henderson Alvarez III|R|Todd Cunningham|L|Single|F|Two-Seam Fastball|14|1|1|0|9|90
+Henderson Alvarez III|R|Todd Cunningham|L|Single|F|Two-Seam Fastball|15|1|2|0|1|91
+Henderson Alvarez III|R|Todd Cunningham|L|Single|F|Two-Seam Fastball|16|1|2|0|11|91
+Henderson Alvarez III|R|Todd Cunningham|L|Single|D|Two-Seam Fastball|17|1|2|0|4|92
+Henderson Alvarez III|R|A.J. Pierzynski|L|Double|F|Changeup|18|0|0|0|7|87
+Henderson Alvarez III|R|A.J. Pierzynski|L|Double|E|Two-Seam Fastball|19|0|1|0|13|92
+Henderson Alvarez III|R|Pedro Ciriaco|R|Sac Fly|B|Two-Seam Fastball|20|0|0|0|11|92
+Henderson Alvarez III|R|Pedro Ciriaco|R|Sac Fly|E|Slider|21|1|0|0|5|84
+Henderson Alvarez III|R|Cameron Maybin|R|Walk|B|Two-Seam Fastball|22|0|0|1|13|91
+Henderson Alvarez III|R|Cameron Maybin|R|Walk|B|Two-Seam Fastball|23|1|0|1|11|91
+Henderson Alvarez III|R|Cameron Maybin|R|Walk|B|Four-Seam Fastball|24|2|0|1|13|91
+Henderson Alvarez III|R|Cameron Maybin|R|Walk|F|Two-Seam Fastball|25|3|0|1|7|90
+Henderson Alvarez III|R|Cameron Maybin|R|Walk|B|Two-Seam Fastball|26|3|1|1|11|92
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|L|Two-Seam Fastball|27|0|0|1|13|90
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|C|Four-Seam Fastball|28|0|1|1|4|89
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|S|Slider|29|0|2|1|14|86
+Henderson Alvarez III|R|Jace Peterson|L|Single|B|Slider|30|0|0|2|11|85
+Henderson Alvarez III|R|Jace Peterson|L|Single|E|Changeup|31|1|0|2|7|88
+Henderson Alvarez III|R|Phil Gosselin|R|Single|C|Slider|32|0|0|2|2|85
+Henderson Alvarez III|R|Phil Gosselin|R|Single|D|Slider|33|0|1|2|5|83
+Henderson Alvarez III|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|34|0|0|2|13|91
+Henderson Alvarez III|R|Freddie Freeman|L|Single|S|Two-Seam Fastball|35|1|0|2|13|90
+Henderson Alvarez III|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|36|1|1|2|11|90
+Henderson Alvarez III|R|Freddie Freeman|L|Single|E|Changeup|37|2|1|2|13|87
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|C|Two-Seam Fastball|38|0|0|2|8|89
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|X|Four-Seam Fastball|39|0|1|2|6|91
+Henderson Alvarez III|R|Todd Cunningham|L|Pop Out|C|Slider|40|0|0|0|8|79
+Henderson Alvarez III|R|Todd Cunningham|L|Pop Out|B|Changeup|41|0|1|0|13|85
+Henderson Alvarez III|R|Todd Cunningham|L|Pop Out|X|Changeup|42|1|1|0|12|88
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|B|Slider|43|0|0|1|14|79
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|B|Changeup|44|1|0|1|13|86
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|X|Slider|45|2|0|1|5|80
+Henderson Alvarez III|R|Pedro Ciriaco|R|Lineout|C|Four-Seam Fastball|46|0|0|2|9|89
+Henderson Alvarez III|R|Pedro Ciriaco|R|Lineout|B|Eephus|47|0|1|2|13|58
+Henderson Alvarez III|R|Pedro Ciriaco|R|Lineout|X|Slider|48|1|1|2|6|80
+Henderson Alvarez III|R|Cameron Maybin|R|Groundout|F|Slider|49|0|0|0|8|81
+Henderson Alvarez III|R|Cameron Maybin|R|Groundout|B|Four-Seam Fastball|50|0|1|0|11|89
+Henderson Alvarez III|R|Cameron Maybin|R|Groundout|F|Slider|51|1|1|0|6|81
+Henderson Alvarez III|R|Cameron Maybin|R|Groundout|X|Slider|52|1|2|0|13|80
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|C|Curveball|53|0|0|1|2|75
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|F|Four-Seam Fastball|54|0|1|1|12|90
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|F|Slider|55|0|2|1|5|83
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|B|Curveball|56|0|2|1|13|73
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|B|Four-Seam Fastball|57|1|2|1|12|89
+Henderson Alvarez III|R|Shelby Miller|R|Strikeout|C|Four-Seam Fastball|58|2|2|1|3|91
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Changeup|59|0|0|2|13|86
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Four-Seam Fastball|60|1|0|2|11|90
+Henderson Alvarez III|R|Jace Peterson|L|Walk|C|Slider|61|2|0|2|11|82
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Slider|62|2|1|2|13|81
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Four-Seam Fastball|63|3|1|2|12|91
+Henderson Alvarez III|R|Andrelton Simmons|R|Flyout|C|Slider|64|0|0|2|7|80
+Henderson Alvarez III|R|Andrelton Simmons|R|Flyout|B|Four-Seam Fastball|65|0|1|2|11|90
+Henderson Alvarez III|R|Andrelton Simmons|R|Flyout|X|Slider|66|1|1|2|6|84
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|C|Four-Seam Fastball|67|0|0|0|13|89
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|C|Slider|68|0|1|0|14|82
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|B|Changeup|69|0|2|0|11|87
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|B|Curveball|70|1|2|0|13|78
+Henderson Alvarez III|R|Freddie Freeman|L|Groundout|X|Changeup|71|2|2|0|7|86
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|C|Four-Seam Fastball|72|0|0|1|5|90
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|B|Slider|73|0|1|1|14|84
+Henderson Alvarez III|R|Nick Markakis|L|Groundout|X|Slider|74|1|1|1|8|83
+Henderson Alvarez III|R|Todd Cunningham|L|Single|S|Slider|75|0|0|2|14|82
+Henderson Alvarez III|R|Todd Cunningham|L|Single|F|Four-Seam Fastball|76|0|1|2|2|91
+Henderson Alvarez III|R|Todd Cunningham|L|Single|D|Slider|77|0|2|2|13|79
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|F|Two-Seam Fastball|78|0|0|2|11|90
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|B|Slider|79|0|1|2|14|81
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|F|Changeup|80|1|1|2|13|87
+Henderson Alvarez III|R|A.J. Pierzynski|L|Groundout|X|Two-Seam Fastball|81|1|2|2|11|91
+Henderson Alvarez III|R|Pedro Ciriaco|R|Double|D|Slider|82|0|0|0|8|79
+Henderson Alvarez III|R|Cameron Maybin|R|Single|E|Changeup|83|0|0|0|13|88
+Henderson Alvarez III|R|Shelby Miller|R|Sac Bunt|X|Changeup|84|0|0|0|4|84
+Henderson Alvarez III|R|Manny Machado|R|Pop Out|C|Four-Seam Fastball|0|0|0|0|3|90
+Henderson Alvarez III|R|Manny Machado|R|Pop Out|X|Slider|1|0|1|0|4|82
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|B|Four-Seam Fastball|2|0|0|1|13|91
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|B|Four-Seam Fastball|3|1|0|1|13|92
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|S|Changeup|4|2|0|1|13|86
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|F|Two-Seam Fastball|5|2|1|1|7|92
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|B|Changeup|6|2|2|1|13|87
+Henderson Alvarez III|R|Jimmy Paredes|L|Single|D|Changeup|7|3|2|1|1|86
+Henderson Alvarez III|R|Adam Jones|R|Grounded Into DP|B|Two-Seam Fastball|8|0|0|1|13|92
+Henderson Alvarez III|R|Adam Jones|R|Grounded Into DP|X|Four-Seam Fastball|9|1|0|1|11|91
+Henderson Alvarez III|R|Chris Davis|L|Groundout|B|Four-Seam Fastball|10|0|0|0|13|90
+Henderson Alvarez III|R|Chris Davis|L|Groundout|C|Changeup|11|1|0|0|7|87
+Henderson Alvarez III|R|Chris Davis|L|Groundout|F|Slider|12|1|1|0|4|84
+Henderson Alvarez III|R|Chris Davis|L|Groundout|B|Slider|13|1|2|0|14|83
+Henderson Alvarez III|R|Chris Davis|L|Groundout|X|Slider|14|2|2|0|8|84
+Henderson Alvarez III|R|Travis Snider|L|Strikeout|C|Four-Seam Fastball|15|0|0|1|4|92
+Henderson Alvarez III|R|Travis Snider|L|Strikeout|C|Eephus|16|0|1|1|6|60
+Henderson Alvarez III|R|Travis Snider|L|Strikeout|B|Slider|17|0|2|1|13|84
+Henderson Alvarez III|R|Travis Snider|L|Strikeout|S|Two-Seam Fastball|18|1|2|1|13|89
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|B|Four-Seam Fastball|19|0|0|2|11|92
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|C|Four-Seam Fastball|20|1|0|2|1|92
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|C|Four-Seam Fastball|21|1|1|2|9|91
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|F|Slider|22|1|2|2|2|85
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|F|Four-Seam Fastball|23|1|2|2|3|93
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|F|Two-Seam Fastball|24|1|2|2|13|90
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|B|Two-Seam Fastball|25|1|2|2|13|92
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|B|Curveball|26|2|2|2|14|68
+Henderson Alvarez III|R|J.J. Hardy|R|Groundout|X|Four-Seam Fastball|27|3|2|2|13|93
+Henderson Alvarez III|R|Alejandro De Aza|L|Groundout|X|Changeup|28|0|0|0|8|88
+Henderson Alvarez III|R|Caleb Joseph|R|Groundout|C|Four-Seam Fastball|29|0|0|1|13|89
+Henderson Alvarez III|R|Caleb Joseph|R|Groundout|B|Four-Seam Fastball|30|0|1|1|13|89
+Henderson Alvarez III|R|Caleb Joseph|R|Groundout|X|Slider|31|1|1|1|5|83
+Henderson Alvarez III|R|Ubaldo Jimenez|R|Groundout|B|Four-Seam Fastball|32|0|0|2|13|90
+Henderson Alvarez III|R|Ubaldo Jimenez|R|Groundout|X|Four-Seam Fastball|33|1|0|2|5|89
+Henderson Alvarez III|R|Manny Machado|R|Single|C|Two-Seam Fastball|34|0|0|0|7|90
+Henderson Alvarez III|R|Manny Machado|R|Single|D|Four-Seam Fastball|35|0|1|0|8|91
+Henderson Alvarez III|R|Jimmy Paredes|L|Forceout|T|Two-Seam Fastball|36|0|0|0|13|89
+Henderson Alvarez III|R|Jimmy Paredes|L|Forceout|B|Two-Seam Fastball|37|0|1|0|13|91
+Henderson Alvarez III|R|Jimmy Paredes|L|Forceout|X|Two-Seam Fastball|38|1|1|0|13|90
+Henderson Alvarez III|R|Adam Jones|R|Single|D|Two-Seam Fastball|39|0|0|1|13|91
+Henderson Alvarez III|R|Chris Davis|L|Flyout|B|Changeup|40|0|0|1|13|86
+Henderson Alvarez III|R|Chris Davis|L|Flyout|B|Changeup|41|1|0|1|13|88
+Henderson Alvarez III|R|Chris Davis|L|Flyout|X|Four-Seam Fastball|42|2|0|1|4|91
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Slider|43|0|0|2|11|83
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Changeup|44|1|0|2|13|85
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Slider|45|2|0|2|13|85
+Henderson Alvarez III|R|Travis Snider|L|Walk|C|Slider|46|3|0|2|11|84
+Henderson Alvarez III|R|Travis Snider|L|Walk|F|Slider|47|3|1|2|7|82
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Slider|48|3|2|2|13|80
+Henderson Alvarez III|R|J.J. Hardy|R|Flyout|X|Slider|49|0|0|2|7|83
+Henderson Alvarez III|R|Alejandro De Aza|L|Single|B|Changeup|50|0|0|0|11|85
+Henderson Alvarez III|R|Alejandro De Aza|L|Single|F|Changeup|51|1|0|0|14|87
+Henderson Alvarez III|R|Alejandro De Aza|L|Single|D|Four-Seam Fastball|52|1|1|0|7|91
+Henderson Alvarez III|R|Caleb Joseph|R|Single|D|Two-Seam Fastball|53|0|0|0|13|92
+Henderson Alvarez III|R|Delmon Young|R|Double|B|Slider|54|0|0|0|13|83
+Henderson Alvarez III|R|Delmon Young|R|Double|B|Slider|55|1|0|0|14|83
+Henderson Alvarez III|R|Delmon Young|R|Double|S|Four-Seam Fastball|56|2|0|0|11|91
+Henderson Alvarez III|R|Delmon Young|R|Double|B|Four-Seam Fastball|57|2|1|0|13|92
+Henderson Alvarez III|R|Delmon Young|R|Double|E|Four-Seam Fastball|58|3|1|0|8|92
+Henderson Alvarez III|R|Manny Machado|R|Groundout|F|Slider|59|0|0|0|13|84
+Henderson Alvarez III|R|Manny Machado|R|Groundout|E|Two-Seam Fastball|60|0|1|0|13|93
+Henderson Alvarez III|R|Jimmy Paredes|L|Strikeout|C|Changeup|61|0|0|1|5|87
+Henderson Alvarez III|R|Jimmy Paredes|L|Strikeout|F|Slider|62|0|1|1|9|84
+Henderson Alvarez III|R|Jimmy Paredes|L|Strikeout|C|Four-Seam Fastball|63|0|2|1|9|92
+Henderson Alvarez III|R|Adam Jones|R|Lineout|X|Changeup|64|0|0|2|7|88
+Henderson Alvarez III|R|Chris Davis|L|Walk|B|Slider|65|0|0|0|13|80
+Henderson Alvarez III|R|Chris Davis|L|Walk|F|Two-Seam Fastball|66|1|0|0|14|91
+Henderson Alvarez III|R|Chris Davis|L|Walk|B|Two-Seam Fastball|67|1|1|0|13|90
+Henderson Alvarez III|R|Chris Davis|L|Walk|B|Changeup|68|2|1|0|13|88
+Henderson Alvarez III|R|Chris Davis|L|Walk|F|Slider|69|3|1|0|8|82
+Henderson Alvarez III|R|Chris Davis|L|Walk|*B|Changeup|70|3|2|0|13|87
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Two-Seam Fastball|71|0|0|0|13|91
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Two-Seam Fastball|72|1|0|0|13|92
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Four-Seam Fastball|73|2|0|0|13|92
+Henderson Alvarez III|R|Travis Snider|L|Walk|B|Two-Seam Fastball|74|3|0|0|11|92
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|B|Slider|75|0|0|0|14|81
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|B|Curveball|76|1|0|0|14|78
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|B|Two-Seam Fastball|77|2|0|0|13|90
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|C|Four-Seam Fastball|78|3|0|0|9|91
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|L|Four-Seam Fastball|79|3|1|0|13|91
+Henderson Alvarez III|R|J.J. Hardy|R|Sac Bunt|E|Two-Seam Fastball|80|3|2|0|13|91
+Henderson Alvarez III|R|Alejandro De Aza|L|Intent Walk|I|Intentional Ball|81|0|0|0|11|66
+Henderson Alvarez III|R|Alejandro De Aza|L|Intent Walk|I|Intentional Ball|82|0|1|0|11|77
+Henderson Alvarez III|R|Alejandro De Aza|L|Intent Walk|I|Intentional Ball|83|0|2|0|11|71
+Henderson Alvarez III|R|Alejandro De Aza|L|Intent Walk|I|Intentional Ball|84|0|2|0|11|72
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|F|Four-Seam Fastball|1|1|0|0|5|90
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|B|Four-Seam Fastball|2|1|1|0|13|91
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|X|Four-Seam Fastball|3|2|1|0|9|92
+Henderson Alvarez III|R|Matt Joyce|L|Flyout|C|Four-Seam Fastball|4|0|0|1|4|92
+Henderson Alvarez III|R|Matt Joyce|L|Flyout|F|Four-Seam Fastball|5|0|1|1|7|92
+Henderson Alvarez III|R|Matt Joyce|L|Flyout|X|Four-Seam Fastball|6|0|2|1|4|92
+Henderson Alvarez III|R|Chad Pinder|R|Strikeout|S|Four-Seam Fastball|7|0|0|2|9|93
+Henderson Alvarez III|R|Chad Pinder|R|Strikeout|C|Four-Seam Fastball|8|0|1|2|14|93
+Henderson Alvarez III|R|Chad Pinder|R|Strikeout|C|Four-Seam Fastball|9|0|2|2|9|92
+Henderson Alvarez III|R|Matt Olson|L|Groundout|C|Changeup|10|0|0|0|4|88
+Henderson Alvarez III|R|Matt Olson|L|Groundout|F|Four-Seam Fastball|11|0|1|0|7|90
+Henderson Alvarez III|R|Matt Olson|L|Groundout|B|Four-Seam Fastball|12|0|2|0|13|92
+Henderson Alvarez III|R|Matt Olson|L|Groundout|B|Changeup|13|1|2|0|13|88
+Henderson Alvarez III|R|Matt Olson|L|Groundout|F|Changeup|14|2|2|0|11|88
+Henderson Alvarez III|R|Matt Olson|L|Groundout|B|Four-Seam Fastball|15|2|2|0|14|93
+Henderson Alvarez III|R|Matt Olson|L|Groundout|X|Two-Seam Fastball|16|3|2|0|13|93
+Henderson Alvarez III|R|Matt Chapman|R|Groundout|B|Eephus|17|0|0|1|12|53
+Henderson Alvarez III|R|Matt Chapman|R|Groundout|C|Four-Seam Fastball|18|1|0|1|9|92
+Henderson Alvarez III|R|Matt Chapman|R|Groundout|C|Four-Seam Fastball|19|1|1|1|11|92
+Henderson Alvarez III|R|Matt Chapman|R|Groundout|F|Four-Seam Fastball|20|1|2|1|3|94
+Henderson Alvarez III|R|Matt Chapman|R|Groundout|X|Four-Seam Fastball|21|1|2|1|1|89
+Henderson Alvarez III|R|Mark Canha|R|Walk|B|Four-Seam Fastball|22|0|0|2|14|94
+Henderson Alvarez III|R|Mark Canha|R|Walk|B|Curveball|23|1|0|2|12|81
+Henderson Alvarez III|R|Mark Canha|R|Walk|T|Four-Seam Fastball|24|2|0|2|4|93
+Henderson Alvarez III|R|Mark Canha|R|Walk|B|Four-Seam Fastball|25|2|1|2|12|94
+Henderson Alvarez III|R|Mark Canha|R|Walk|B|Two-Seam Fastball|26|3|1|2|13|92
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|B|Four-Seam Fastball|27|0|0|2|13|92
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|S|Four-Seam Fastball|28|1|0|2|11|93
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|F|Two-Seam Fastball|29|1|1|2|5|93
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|X|Two-Seam Fastball|30|1|2|2|7|89
+Henderson Alvarez III|R|Josh Phegley|R|Flyout|B|Four-Seam Fastball|31|0|0|0|12|90
+Henderson Alvarez III|R|Josh Phegley|R|Flyout|C|Four-Seam Fastball|32|1|0|0|14|91
+Henderson Alvarez III|R|Josh Phegley|R|Flyout|X|Changeup|33|1|1|0|5|86
+Henderson Alvarez III|R|Sean Manaea|R|Strikeout|C|Four-Seam Fastball|34|0|0|1|5|89
+Henderson Alvarez III|R|Sean Manaea|R|Strikeout|B|Four-Seam Fastball|35|0|1|1|12|92
+Henderson Alvarez III|R|Sean Manaea|R|Strikeout|B|Four-Seam Fastball|36|1|1|1|12|91
+Henderson Alvarez III|R|Sean Manaea|R|Strikeout|F|Four-Seam Fastball|37|2|1|1|7|91
+Henderson Alvarez III|R|Sean Manaea|R|Strikeout|C|Curveball|38|2|2|1|4|77
+Henderson Alvarez III|R|Marcus Semien|R|Double|C|Four-Seam Fastball|39|0|0|2|6|93
+Henderson Alvarez III|R|Marcus Semien|R|Double|B|Changeup|40|0|1|2|13|87
+Henderson Alvarez III|R|Marcus Semien|R|Double|B|Slider|41|1|1|2|13|86
+Henderson Alvarez III|R|Marcus Semien|R|Double|B|Four-Seam Fastball|42|2|1|2|14|92
+Henderson Alvarez III|R|Marcus Semien|R|Double|D|Four-Seam Fastball|43|3|1|2|9|92
+Henderson Alvarez III|R|Matt Joyce|L|Strikeout|C|Changeup|44|0|0|2|11|87
+Henderson Alvarez III|R|Matt Joyce|L|Strikeout|F|Curveball|45|0|1|2|5|80
+Henderson Alvarez III|R|Matt Joyce|L|Strikeout|B|Changeup|46|0|2|2|13|88
+Henderson Alvarez III|R|Matt Joyce|L|Strikeout|W|Four-Seam Fastball|47|1|2|2|14|89
+Henderson Alvarez III|R|Chad Pinder|R|Home Run|E|Curveball|48|0|0|0|2|74
+Henderson Alvarez III|R|Matt Olson|L|Home Run|F|Four-Seam Fastball|49|0|0|0|11|90
+Henderson Alvarez III|R|Matt Olson|L|Home Run|B|Changeup|50|0|1|0|11|87
+Henderson Alvarez III|R|Matt Olson|L|Home Run|E|Four-Seam Fastball|51|1|1|0|5|90
+Henderson Alvarez III|R|Matt Chapman|R|Pop Out|B|Four-Seam Fastball|52|0|0|0|14|91
+Henderson Alvarez III|R|Matt Chapman|R|Pop Out|X|Four-Seam Fastball|53|1|0|0|5|91
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|C|Four-Seam Fastball|54|0|0|1|8|91
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|B|Four-Seam Fastball|55|0|1|1|12|91
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|S|Slider|56|1|1|1|14|85
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|B|Slider|57|1|2|1|14|85
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|B|Changeup|58|2|2|1|13|88
+Henderson Alvarez III|R|Mark Canha|R|Strikeout|S|Changeup|59|3|2|1|13|88
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|F|Four-Seam Fastball|60|0|0|2|2|91
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|F|Four-Seam Fastball|61|0|1|2|7|91
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|F|Slider|62|0|2|2|12|87
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|B|Changeup|63|0|2|2|13|88
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|F|Changeup|64|1|2|2|13|87
+Henderson Alvarez III|R|Joey Wendle|L|Groundout|X|Four-Seam Fastball|65|1|2|2|4|92
+Henderson Alvarez III|R|Josh Phegley|R|Groundout|F|Changeup|66|0|0|0|6|88
+Henderson Alvarez III|R|Josh Phegley|R|Groundout|X|Changeup|67|0|1|0|14|85
+Henderson Alvarez III|R|Sean Manaea|R|Groundout|C|Changeup|68|0|0|1|9|88
+Henderson Alvarez III|R|Sean Manaea|R|Groundout|F|Four-Seam Fastball|69|0|1|1|6|89
+Henderson Alvarez III|R|Sean Manaea|R|Groundout|F|Changeup|70|0|2|1|5|86
+Henderson Alvarez III|R|Sean Manaea|R|Groundout|B|Changeup|71|0|2|1|12|86
+Henderson Alvarez III|R|Sean Manaea|R|Groundout|X|Curveball|72|1|2|1|5|76
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|F|Four-Seam Fastball|73|0|0|2|5|91
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|B|Slider|74|0|1|2|13|85
+Henderson Alvarez III|R|Marcus Semien|R|Groundout|X|Four-Seam Fastball|75|1|1|2|7|91
+Henderson Alvarez III|R|Matt Joyce|L|Walk|B|Eephus|76|0|0|0|12|55
+Henderson Alvarez III|R|Matt Joyce|L|Walk|B|Changeup|77|1|0|0|13|87
+Henderson Alvarez III|R|Matt Joyce|L|Walk|B|Changeup|78|2|0|0|13|88
+Henderson Alvarez III|R|Matt Joyce|L|Walk|C|Four-Seam Fastball|79|3|0|0|8|90
+Henderson Alvarez III|R|Matt Joyce|L|Walk|F|Four-Seam Fastball|80|3|1|0|11|90
+Henderson Alvarez III|R|Matt Joyce|L|Walk|B|Changeup|81|3|2|0|13|86
+Henderson Alvarez III|R|Chad Pinder|R|Single|F|Four-Seam Fastball|82|0|0|0|2|90
+Henderson Alvarez III|R|Chad Pinder|R|Single|F|Four-Seam Fastball|83|0|1|0|11|91
+Henderson Alvarez III|R|Chad Pinder|R|Single|D|Changeup|84|0|2|0|14|87
+Henderson Alvarez III|R|Ender Inciarte|L|Groundout|C|Changeup|0|0|0|0|11|84
+Henderson Alvarez III|R|Ender Inciarte|L|Groundout|C|Four-Seam Fastball|1|0|1|0|13|89
+Henderson Alvarez III|R|Ender Inciarte|L|Groundout|X|Changeup|2|0|2|0|13|85
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|C|Two-Seam Fastball|3|0|0|1|13|89
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|S|Two-Seam Fastball|4|0|1|1|11|91
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|B|Two-Seam Fastball|5|0|2|1|11|91
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|F|Two-Seam Fastball|6|1|2|1|13|90
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|F|Four-Seam Fastball|7|1|2|1|7|90
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|F|Changeup|8|1|2|1|1|88
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|F|Changeup|9|1|2|1|7|86
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|X|Two-Seam Fastball|10|1|2|1|13|91
+Henderson Alvarez III|R|Nick Markakis|L|Single|B|Two-Seam Fastball|11|0|0|2|13|91
+Henderson Alvarez III|R|Nick Markakis|L|Single|C|Four-Seam Fastball|12|1|0|2|7|91
+Henderson Alvarez III|R|Nick Markakis|L|Single|D|Two-Seam Fastball|13|1|1|2|2|92
+Henderson Alvarez III|R|Tyler Flowers|R|Single|C|Two-Seam Fastball|14|0|0|2|9|90
+Henderson Alvarez III|R|Tyler Flowers|R|Single|F|Two-Seam Fastball|15|0|1|2|11|92
+Henderson Alvarez III|R|Tyler Flowers|R|Single|B|Changeup|16|0|2|2|14|86
+Henderson Alvarez III|R|Tyler Flowers|R|Single|D|Curveball|17|1|2|2|14|81
+Henderson Alvarez III|R|Matt Adams|L|Flyout|C|Changeup|18|0|0|2|4|86
+Henderson Alvarez III|R|Matt Adams|L|Flyout|B|Four-Seam Fastball|19|0|1|2|14|93
+Henderson Alvarez III|R|Matt Adams|L|Flyout|X|Two-Seam Fastball|20|1|1|2|9|92
+Henderson Alvarez III|R|Dansby Swanson|R|Groundout|B|Two-Seam Fastball|21|0|0|0|11|89
+Henderson Alvarez III|R|Dansby Swanson|R|Groundout|B|Four-Seam Fastball|22|1|0|0|14|90
+Henderson Alvarez III|R|Dansby Swanson|R|Groundout|X|Two-Seam Fastball|23|2|0|0|1|90
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|B|Two-Seam Fastball|24|0|0|1|13|89
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|C|Two-Seam Fastball|25|1|0|1|8|91
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|F|Changeup|26|1|1|1|4|87
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|B|Four-Seam Fastball|27|1|2|1|11|92
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|F|Changeup|28|2|2|1|8|88
+Henderson Alvarez III|R|Rio Ruiz|L|Strikeout|C|Changeup|29|2|2|1|4|78
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|30|0|0|2|7|92
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Four-Seam Fastball|31|1|0|2|11|91
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|32|2|0|2|13|91
+Henderson Alvarez III|R|Jace Peterson|L|Walk|C|Four-Seam Fastball|33|3|0|2|3|91
+Henderson Alvarez III|R|Jace Peterson|L|Walk|C|Two-Seam Fastball|34|3|1|2|12|91
+Henderson Alvarez III|R|Jace Peterson|L|Walk|F|Changeup|35|3|2|2|8|88
+Henderson Alvarez III|R|Jace Peterson|L|Walk|B|Changeup|36|3|2|2|14|88
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|X|Two-Seam Fastball|37|0|0|2|5|92
+Henderson Alvarez III|R|Ender Inciarte|L|Flyout|B|Two-Seam Fastball|38|0|0|0|14|91
+Henderson Alvarez III|R|Ender Inciarte|L|Flyout|B|Changeup|39|1|0|0|14|87
+Henderson Alvarez III|R|Ender Inciarte|L|Flyout|F|Two-Seam Fastball|40|2|0|0|3|91
+Henderson Alvarez III|R|Ender Inciarte|L|Flyout|B|Two-Seam Fastball|41|2|1|0|13|91
+Henderson Alvarez III|R|Ender Inciarte|L|Flyout|X|Two-Seam Fastball|42|3|1|0|1|90
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|C|Eephus|43|0|0|1|1|52
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|B|Four-Seam Fastball|44|0|1|1|12|92
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|L|Two-Seam Fastball|45|1|1|1|13|91
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|B|Two-Seam Fastball|46|1|2|1|14|92
+Henderson Alvarez III|R|Ozzie Albies|L|Flyout|X|Changeup|47|2|2|1|8|87
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|B|Slider|48|0|0|2|14|82
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|C|Changeup|49|1|0|2|4|87
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|B|Changeup|50|1|1|2|13|88
+Henderson Alvarez III|R|Nick Markakis|L|Flyout|X|Two-Seam Fastball|51|2|1|2|3|92
+Henderson Alvarez III|R|Tyler Flowers|R|Single|S|Four-Seam Fastball|52|0|0|0|12|89
+Henderson Alvarez III|R|Tyler Flowers|R|Single|D|Two-Seam Fastball|53|0|1|0|4|91
+Henderson Alvarez III|R|Matt Adams|L|Flyout|B|Two-Seam Fastball|54|0|0|0|13|91
+Henderson Alvarez III|R|Matt Adams|L|Flyout|X|Two-Seam Fastball|55|1|0|0|1|91
+Henderson Alvarez III|R|Dansby Swanson|R|Single|D|Changeup|56|0|0|1|8|84
+Henderson Alvarez III|R|Rio Ruiz|L|Fielders Choice Out|S|Two-Seam Fastball|57|0|0|1|12|91
+Henderson Alvarez III|R|Rio Ruiz|L|Fielders Choice Out|X|Two-Seam Fastball|58|0|1|1|7|92
+Henderson Alvarez III|R|Jace Peterson|L|Intent Walk|V|N/A|59|0|0|2|0|0
+Henderson Alvarez III|R|Jace Peterson|L|Intent Walk|V|N/A|60|0|1|2|0|0
+Henderson Alvarez III|R|Jace Peterson|L|Intent Walk|V|N/A|61|0|2|2|0|0
+Henderson Alvarez III|R|Jace Peterson|L|Intent Walk|V|N/A|62|0|2|2|0|0
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|C|Two-Seam Fastball|63|0|0|2|11|91
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|F|Curveball|64|0|1|2|14|81
+Henderson Alvarez III|R|Julio Teheran|R|Groundout|X|Two-Seam Fastball|65|0|2|2|7|92
+Henderson Alvarez III|R|Ender Inciarte|L|Fan Interference|B|Eephus|66|0|0|0|14|55
+Henderson Alvarez III|R|Ender Inciarte|L|Fan Interference|B|Changeup|67|1|0|0|13|84
+Henderson Alvarez III|R|Ender Inciarte|L|Fan Interference|B|Changeup|68|2|0|0|13|84
+Henderson Alvarez III|R|Ender Inciarte|L|Fan Interference|C|Two-Seam Fastball|69|3|0|0|12|89
+Henderson Alvarez III|R|Ender Inciarte|L|Fan Interference|D|Two-Seam Fastball|70|3|1|0|6|90
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|F|Two-Seam Fastball|71|0|0|0|5|90
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|F|Four-Seam Fastball|72|0|1|0|2|90
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|B|Changeup|73|0|2|0|13|88
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|F|Changeup|74|1|2|0|13|86
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|F|Two-Seam Fastball|75|1|2|0|5|91
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|B|Changeup|76|1|2|0|13|87
+Henderson Alvarez III|R|Ozzie Albies|L|Lineout|X|Changeup|77|2|2|0|8|88
+Henderson Alvarez III|R|Nick Markakis|L|Walk|B|Two-Seam Fastball|78|0|0|1|14|92
+Henderson Alvarez III|R|Nick Markakis|L|Walk|B|Slider|79|1|0|1|14|86
+Henderson Alvarez III|R|Nick Markakis|L|Walk|B|Changeup|80|2|0|1|11|87
+Henderson Alvarez III|R|Nick Markakis|L|Walk|C|Four-Seam Fastball|81|3|0|1|8|90
+Henderson Alvarez III|R|Nick Markakis|L|Walk|*B|Changeup|82|3|1|1|13|85
+Henderson Alvarez III|R|Tyler Flowers|R|Strikeout|C|Two-Seam Fastball|83|0|0|1|12|92
+Henderson Alvarez III|R|Tyler Flowers|R|Strikeout|B|Two-Seam Fastball|84|0|1|1|14|91
+Henderson Alvarez III|R|Tyler Flowers|R|Strikeout|F|Changeup|85|1|1|1|4|85
+Henderson Alvarez III|R|Tyler Flowers|R|Strikeout|C|Four-Seam Fastball|86|1|2|1|9|92
+Henderson Alvarez III|R|Matt Adams|L|Groundout|B|Changeup|87|0|0|2|11|87
+Henderson Alvarez III|R|Matt Adams|L|Groundout|S|Two-Seam Fastball|88|1|0|2|6|92
+Henderson Alvarez III|R|Matt Adams|L|Groundout|F|Changeup|89|1|1|2|8|87
+Henderson Alvarez III|R|Matt Adams|L|Groundout|*B|Changeup|90|1|2|2|13|88
+Henderson Alvarez III|R|Matt Adams|L|Groundout|B|Changeup|91|2|2|2|13|87
+Henderson Alvarez III|R|Matt Adams|L|Groundout|X|Changeup|92|3|2|2|13|87
+Henderson Alvarez III|R|Norichika Aoki|L|Flyout|B|Four-Seam Fastball|0|0|0|0|11|89
+Henderson Alvarez III|R|Norichika Aoki|L|Flyout|F|Four-Seam Fastball|1|1|0|0|4|90
+Henderson Alvarez III|R|Norichika Aoki|L|Flyout|X|Four-Seam Fastball|2|1|1|0|8|89
+Henderson Alvarez III|R|Jose Reyes|L|Lineout|B|Four-Seam Fastball|3|0|0|1|7|89
+Henderson Alvarez III|R|Jose Reyes|L|Lineout|C|Four-Seam Fastball|4|1|0|1|13|90
+Henderson Alvarez III|R|Jose Reyes|L|Lineout|X|Four-Seam Fastball|5|1|1|1|5|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Four-Seam Fastball|6|0|0|2|11|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|C|Two-Seam Fastball|7|1|0|2|4|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Four-Seam Fastball|8|1|1|2|14|91
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|D|Four-Seam Fastball|9|2|1|2|5|90
+Henderson Alvarez III|R|Brandon Nimmo|L|Flyout|B|Changeup|10|0|0|2|11|84
+Henderson Alvarez III|R|Brandon Nimmo|L|Flyout|X|Changeup|11|1|0|2|5|85
+Henderson Alvarez III|R|Kevin Plawecki|R|Single|C|Changeup|12|0|0|0|4|87
+Henderson Alvarez III|R|Kevin Plawecki|R|Single|B|Changeup|13|0|1|0|14|84
+Henderson Alvarez III|R|Kevin Plawecki|R|Single|D|Four-Seam Fastball|14|1|1|0|2|90
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Two-Seam Fastball|15|0|0|0|13|90
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|16|1|0|0|13|90
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|17|2|0|0|11|91
+Henderson Alvarez III|R|Dominic Smith|L|Walk|C|Four-Seam Fastball|18|3|0|0|11|90
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|19|3|1|0|11|92
+Henderson Alvarez III|R|Amed Rosario|R|Grounded Into DP|C|Two-Seam Fastball|20|0|0|0|3|91
+Henderson Alvarez III|R|Amed Rosario|R|Grounded Into DP|S|Changeup|21|0|1|0|2|86
+Henderson Alvarez III|R|Amed Rosario|R|Grounded Into DP|F|Four-Seam Fastball|22|0|2|0|7|91
+Henderson Alvarez III|R|Amed Rosario|R|Grounded Into DP|X|Four-Seam Fastball|23|0|2|0|8|93
+Henderson Alvarez III|R|Juan Lagares|R|Pop Out|C|Four-Seam Fastball|24|0|0|2|9|92
+Henderson Alvarez III|R|Juan Lagares|R|Pop Out|B|Eephus|25|0|1|2|14|57
+Henderson Alvarez III|R|Juan Lagares|R|Pop Out|B|Four-Seam Fastball|26|1|1|2|13|92
+Henderson Alvarez III|R|Juan Lagares|R|Pop Out|X|Slider|27|2|1|2|9|85
+Henderson Alvarez III|R|Seth Lugo|R|Groundout|C|Changeup|28|0|0|0|8|88
+Henderson Alvarez III|R|Seth Lugo|R|Groundout|B|Curveball|29|0|1|0|11|78
+Henderson Alvarez III|R|Seth Lugo|R|Groundout|X|Four-Seam Fastball|30|1|1|0|3|90
+Henderson Alvarez III|R|Norichika Aoki|L|Groundout|B|Four-Seam Fastball|31|0|0|1|13|91
+Henderson Alvarez III|R|Norichika Aoki|L|Groundout|X|Four-Seam Fastball|32|1|0|1|9|90
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|B|Eephus|33|0|0|2|12|57
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|C|Four-Seam Fastball|34|1|0|2|1|91
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|B|Changeup|35|1|1|2|14|88
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|F|Four-Seam Fastball|36|2|1|2|11|91
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|F|Four-Seam Fastball|37|2|2|2|7|88
+Henderson Alvarez III|R|Jose Reyes|L|Groundout|X|Two-Seam Fastball|38|2|2|2|9|92
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|C|Changeup|39|0|0|0|12|87
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|B|Changeup|40|0|1|0|13|84
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|C|Changeup|41|1|1|0|7|86
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|F|Four-Seam Fastball|42|1|2|0|4|92
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|F|Curveball|43|1|2|0|11|77
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|F|Four-Seam Fastball|44|1|2|0|4|91
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Single|D|Eephus|45|1|2|0|1|59
+Henderson Alvarez III|R|Brandon Nimmo|L|Grounded Into DP|B|Four-Seam Fastball|46|0|0|0|13|92
+Henderson Alvarez III|R|Brandon Nimmo|L|Grounded Into DP|C|Four-Seam Fastball|47|1|0|0|6|92
+Henderson Alvarez III|R|Brandon Nimmo|L|Grounded Into DP|T|Four-Seam Fastball|48|1|1|0|1|93
+Henderson Alvarez III|R|Brandon Nimmo|L|Grounded Into DP|B|Two-Seam Fastball|49|1|2|0|11|92
+Henderson Alvarez III|R|Brandon Nimmo|L|Grounded Into DP|X|Two-Seam Fastball|50|2|2|0|8|92
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Slider|51|0|0|2|14|87
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Slider|52|1|0|2|11|85
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|53|2|0|2|14|93
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Four-Seam Fastball|54|3|0|2|14|92
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|55|0|0|2|13|92
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|56|1|0|2|11|92
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Four-Seam Fastball|57|2|0|2|13|91
+Henderson Alvarez III|R|Dominic Smith|L|Walk|B|Changeup|58|3|0|2|11|87
+Henderson Alvarez III|R|Amed Rosario|R|Fan Interference|C|Curveball|59|0|0|2|7|84
+Henderson Alvarez III|R|Amed Rosario|R|Fan Interference|E|Changeup|60|0|1|2|13|87
+Henderson Alvarez III|R|Juan Lagares|R|Groundout|C|Slider|61|0|0|2|5|86
+Henderson Alvarez III|R|Juan Lagares|R|Groundout|X|Four-Seam Fastball|62|0|1|2|14|91
+Henderson Alvarez III|R|Gavin Cecchini|R|Flyout|C|Four-Seam Fastball|63|0|0|0|8|90
+Henderson Alvarez III|R|Gavin Cecchini|R|Flyout|B|Curveball|64|0|1|0|13|79
+Henderson Alvarez III|R|Gavin Cecchini|R|Flyout|S|Slider|65|1|1|0|12|83
+Henderson Alvarez III|R|Gavin Cecchini|R|Flyout|X|Four-Seam Fastball|66|1|2|0|4|90
+Henderson Alvarez III|R|Norichika Aoki|L|Walk|B|Changeup|67|0|0|1|11|90
+Henderson Alvarez III|R|Norichika Aoki|L|Walk|F|Two-Seam Fastball|68|1|0|1|4|90
+Henderson Alvarez III|R|Norichika Aoki|L|Walk|B|Changeup|69|1|1|1|11|86
+Henderson Alvarez III|R|Norichika Aoki|L|Walk|B|Four-Seam Fastball|70|2|1|1|11|90
+Henderson Alvarez III|R|Norichika Aoki|L|Walk|B|Two-Seam Fastball|71|3|1|1|11|91
+Henderson Alvarez III|R|Jose Reyes|L|Walk|B|Four-Seam Fastball|72|0|0|1|11|90
+Henderson Alvarez III|R|Jose Reyes|L|Walk|B|Two-Seam Fastball|73|1|0|1|13|91
+Henderson Alvarez III|R|Jose Reyes|L|Walk|B|Four-Seam Fastball|74|2|0|1|13|91
+Henderson Alvarez III|R|Jose Reyes|L|Walk|C|Four-Seam Fastball|75|3|0|1|5|90
+Henderson Alvarez III|R|Jose Reyes|L|Walk|B|Two-Seam Fastball|76|3|1|1|8|90
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Groundout|B|Four-Seam Fastball|77|0|0|1|14|91
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Groundout|B|Two-Seam Fastball|78|1|0|1|13|92
+Henderson Alvarez III|R|Asdrubal Cabrera|L|Groundout|X|Four-Seam Fastball|79|2|0|1|4|91
+Henderson Alvarez III|R|Brandon Nimmo|L|Triple|E|Four-Seam Fastball|80|0|0|2|8|91
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|S|Slider|81|0|0|2|8|85
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Slider|82|0|1|2|14|84
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|F|Four-Seam Fastball|83|1|1|2|2|89
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|B|Slider|84|1|2|2|14|83
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|*B|Changeup|85|2|2|2|14|87
+Henderson Alvarez III|R|Kevin Plawecki|R|Walk|*B|Slider|86|3|2|2|14|85

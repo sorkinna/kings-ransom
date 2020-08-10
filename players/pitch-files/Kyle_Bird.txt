@@ -1,0 +1,277 @@
+Kyle Bird|L|Albert Pujols|R|Groundout|B|Sinker|0|0|0|2|12|91
+Kyle Bird|L|Albert Pujols|R|Groundout|C|Sinker|1|1|0|2|9|92
+Kyle Bird|L|Albert Pujols|R|Groundout|B|Sinker|2|1|1|2|4|91
+Kyle Bird|L|Albert Pujols|R|Groundout|X|Sinker|3|2|1|2|14|92
+Kyle Bird|L|Brian Goodwin|L|Single|B|Slider|4|0|0|0|12|80
+Kyle Bird|L|Brian Goodwin|L|Single|C|Four-Seam Fastball|5|1|0|0|4|92
+Kyle Bird|L|Brian Goodwin|L|Single|C|Slider|6|1|1|0|14|80
+Kyle Bird|L|Brian Goodwin|L|Single|D|Slider|7|1|2|0|13|81
+Kyle Bird|L|Jonathan Lucroy|R|Groundout|C|Sinker|8|0|0|0|5|90
+Kyle Bird|L|Jonathan Lucroy|R|Groundout|X|Sinker|9|0|1|0|4|93
+Kyle Bird|L|Peter Bourjos|R|Strikeout|B|Sinker|10|0|0|1|12|91
+Kyle Bird|L|Peter Bourjos|R|Strikeout|B|Slider|11|1|0|1|12|79
+Kyle Bird|L|Peter Bourjos|R|Strikeout|S|Four-Seam Fastball|12|2|0|1|12|90
+Kyle Bird|L|Peter Bourjos|R|Strikeout|C|Slider|13|2|1|1|12|80
+Kyle Bird|L|Peter Bourjos|R|Strikeout|B|Slider|14|2|2|1|14|81
+Kyle Bird|L|Peter Bourjos|R|Strikeout|C|Slider|15|3|2|1|14|80
+Kyle Bird|L|David Fletcher|R|Flyout|C|Sinker|16|0|0|2|12|92
+Kyle Bird|L|David Fletcher|R|Flyout|B|Sinker|17|0|1|2|13|92
+Kyle Bird|L|David Fletcher|R|Flyout|B|Slider|18|1|1|2|12|80
+Kyle Bird|L|David Fletcher|R|Flyout|C|Sinker|19|2|1|2|14|91
+Kyle Bird|L|David Fletcher|R|Flyout|X|Slider|20|2|2|2|6|81
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|21|0|0|0|11|91
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Slider|22|1|0|0|13|81
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|23|2|0|0|13|91
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|24|3|0|0|13|91
+Kyle Bird|L|Mike Trout|R|Home Run|C|Sinker|25|0|0|0|12|91
+Kyle Bird|L|Mike Trout|R|Home Run|E|Sinker|26|0|1|0|5|92
+Kyle Bird|L|Justin Bour|L|Hit By Pitch|B|Four-Seam Fastball|27|0|0|0|11|92
+Kyle Bird|L|Justin Bour|L|Hit By Pitch|C|Four-Seam Fastball|28|1|0|0|7|91
+Kyle Bird|L|Justin Bour|L|Hit By Pitch|C|Slider|29|1|1|0|3|80
+Kyle Bird|L|Justin Bour|L|Hit By Pitch|H|Slider|30|1|2|0|12|80
+Kyle Bird|L|Andrelton Simmons|R|Flyout|B|Sinker|31|0|0|0|12|91
+Kyle Bird|L|Andrelton Simmons|R|Flyout|F|Slider|32|1|0|0|7|81
+Kyle Bird|L|Andrelton Simmons|R|Flyout|X|Slider|33|1|1|0|8|80
+Kyle Bird|L|Albert Pujols|R|Pop Out|B|Sinker|34|0|0|1|7|92
+Kyle Bird|L|Albert Pujols|R|Pop Out|C|Slider|35|1|0|1|14|79
+Kyle Bird|L|Albert Pujols|R|Pop Out|S|Sinker|36|1|1|1|6|91
+Kyle Bird|L|Albert Pujols|R|Pop Out|B|Slider|37|1|2|1|12|80
+Kyle Bird|L|Albert Pujols|R|Pop Out|X|Four-Seam Fastball|38|2|2|1|5|91
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|C|Sinker|0|0|0|1|7|91
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|W|Slider|1|0|1|1|13|80
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|B|Slider|2|0|2|1|12|82
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|*B|Slider|3|1|2|1|13|81
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|B|Sinker|4|2|2|1|12|91
+Kyle Bird|L|Eduardo Escobar|R|Strikeout|W|Slider|5|3|2|1|13|81
+Kyle Bird|L|David Peralta|L|Lineout|B|Slider|6|0|0|2|12|80
+Kyle Bird|L|David Peralta|L|Lineout|B|Slider|7|1|0|2|13|80
+Kyle Bird|L|David Peralta|L|Lineout|X|Sinker|8|2|0|2|6|90
+Kyle Bird|L|Josh Reddick|L|Single|C|Slider|0|0|0|0|13|78
+Kyle Bird|L|Josh Reddick|L|Single|D|Four-Seam Fastball|1|0|1|0|7|92
+Kyle Bird|L|Robinson Chirinos|R|Walk|B|Sinker|2|0|0|0|12|92
+Kyle Bird|L|Robinson Chirinos|R|Walk|*B|Slider|3|1|0|0|13|80
+Kyle Bird|L|Robinson Chirinos|R|Walk|S|Sinker|4|2|0|0|12|90
+Kyle Bird|L|Robinson Chirinos|R|Walk|S|Slider|5|2|1|0|8|78
+Kyle Bird|L|Robinson Chirinos|R|Walk|*B|Slider|6|2|2|0|13|80
+Kyle Bird|L|Robinson Chirinos|R|Walk|B|Sinker|7|3|2|0|13|90
+Kyle Bird|L|Tony Kemp|L|Flyout|*B|Slider|8|0|0|0|13|79
+Kyle Bird|L|Tony Kemp|L|Flyout|X|Sinker|9|1|0|0|6|89
+Kyle Bird|L|Jay Bruce|L|Walk|B|N/A|0|1|0|2|0|0
+Kyle Bird|L|Jay Bruce|L|Walk|B|N/A|1|2|0|2|0|0
+Kyle Bird|L|Jay Bruce|L|Walk|B|N/A|2|3|0|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|C|N/A|3|0|0|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|B|N/A|4|0|1|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|B|N/A|5|1|1|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|B|N/A|6|2|1|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|F|N/A|7|3|1|2|0|0
+Kyle Bird|L|J.P. Crawford|L|Groundout|X|N/A|8|3|2|2|0|0
+Kyle Bird|L|Shed Long Jr.|L|Strikeout|B|N/A|9|0|0|0|0|0
+Kyle Bird|L|Shed Long Jr.|L|Strikeout|C|N/A|10|1|0|0|0|0
+Kyle Bird|L|Shed Long Jr.|L|Strikeout|B|N/A|11|1|1|0|0|0
+Kyle Bird|L|Shed Long Jr.|L|Strikeout|F|N/A|12|2|1|0|0|0
+Kyle Bird|L|Shed Long Jr.|L|Strikeout|S|N/A|13|2|2|0|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|C|N/A|14|0|0|1|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|B|N/A|15|0|1|1|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|S|N/A|16|1|1|1|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|B|N/A|17|1|2|1|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|B|N/A|18|2|2|1|0|0
+Kyle Bird|L|Mallex Smith|L|Walk|B|N/A|19|3|2|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|C|N/A|20|0|0|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|B|N/A|21|0|1|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|S|N/A|22|1|1|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|B|N/A|23|1|2|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|B|N/A|24|2|2|1|0|0
+Kyle Bird|L|Mitch Haniger|R|Walk|B|N/A|25|3|2|1|0|0
+Kyle Bird|L|Kyle Seager|L|Strikeout|B|N/A|26|0|0|1|0|0
+Kyle Bird|L|Kyle Seager|L|Strikeout|F|N/A|27|1|0|1|0|0
+Kyle Bird|L|Kyle Seager|L|Strikeout|S|N/A|28|1|1|1|0|0
+Kyle Bird|L|Kyle Seager|L|Strikeout|T|N/A|29|1|2|1|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|*B|N/A|30|0|0|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|C|N/A|31|1|0|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|S|N/A|32|1|1|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|F|N/A|33|1|2|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|F|N/A|34|1|2|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|B|N/A|35|1|2|2|0|0
+Kyle Bird|L|Omar Narvaez|L|Flyout|X|N/A|36|2|2|2|0|0
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|B|Slider|0|0|0|1|12|78
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|B|Slider|1|1|0|1|11|79
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|S|Sinker|2|2|0|1|6|88
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|F|Sinker|3|2|1|1|5|88
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|B|Slider|4|2|2|1|12|78
+Kyle Bird|L|Mallex Smith|L|Grounded Into DP|X|Sinker|5|3|2|1|12|88
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|B|Four-Seam Fastball|0|0|0|0|13|91
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|C|Slider|1|1|0|0|2|79
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|B|Slider|2|1|1|0|13|80
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|B|Slider|3|2|1|0|13|79
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|F|Four-Seam Fastball|4|3|1|0|5|92
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|F|Four-Seam Fastball|5|3|2|0|6|91
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|F|Slider|6|3|2|0|8|79
+Kyle Bird|L|Daniel Vogelbach|L|Lineout|X|Slider|7|3|2|0|7|78
+Kyle Bird|L|Austin Nola|R|Groundout|B|Slider|8|0|0|1|13|80
+Kyle Bird|L|Austin Nola|R|Groundout|C|Sinker|9|1|0|1|2|90
+Kyle Bird|L|Austin Nola|R|Groundout|S|Sinker|10|1|1|1|7|86
+Kyle Bird|L|Austin Nola|R|Groundout|B|Slider|11|1|2|1|13|80
+Kyle Bird|L|Austin Nola|R|Groundout|X|Slider|12|2|2|1|3|78
+Kyle Bird|L|Kyle Seager|L|Groundout|X|Sinker|13|0|0|2|4|88
+Kyle Bird|L|Anthony Rizzo|L|Walk|B|Slider|0|0|0|2|13|81
+Kyle Bird|L|Anthony Rizzo|L|Walk|B|Slider|1|1|0|2|13|79
+Kyle Bird|L|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|2|2|0|2|14|92
+Kyle Bird|L|Anthony Rizzo|L|Walk|B|Four-Seam Fastball|3|3|0|2|1|91
+Kyle Bird|L|Kyle Schwarber|L|Walk|B|Slider|0|0|0|2|13|79
+Kyle Bird|L|Kyle Schwarber|L|Walk|C|Four-Seam Fastball|1|1|0|2|3|90
+Kyle Bird|L|Kyle Schwarber|L|Walk|B|Slider|2|1|1|2|13|80
+Kyle Bird|L|Kyle Schwarber|L|Walk|F|Four-Seam Fastball|3|2|1|2|5|91
+Kyle Bird|L|Kyle Schwarber|L|Walk|*B|Slider|4|2|2|2|13|80
+Kyle Bird|L|Kyle Schwarber|L|Walk|B|Four-Seam Fastball|5|3|2|2|13|91
+Kyle Bird|L|Daniel Descalso|L|Flyout|C|Four-Seam Fastball|6|0|0|2|13|90
+Kyle Bird|L|Daniel Descalso|L|Flyout|S|Four-Seam Fastball|7|0|1|2|11|92
+Kyle Bird|L|Daniel Descalso|L|Flyout|X|Four-Seam Fastball|8|0|2|2|7|93
+Kyle Bird|L|Jason Heyward|L|Strikeout|F|Four-Seam Fastball|9|0|0|0|2|90
+Kyle Bird|L|Jason Heyward|L|Strikeout|F|Sinker|10|0|1|0|3|91
+Kyle Bird|L|Jason Heyward|L|Strikeout|B|Four-Seam Fastball|11|0|2|0|11|91
+Kyle Bird|L|Jason Heyward|L|Strikeout|S|Slider|12|1|2|0|8|81
+Kyle Bird|L|Albert Almora Jr.|R|Groundout|X|Sinker|13|0|0|1|5|93
+Kyle Bird|L|Victor Caratini|R|Single|F|Sinker|14|0|0|2|2|92
+Kyle Bird|L|Victor Caratini|R|Single|S|Slider|15|0|1|2|13|81
+Kyle Bird|L|Victor Caratini|R|Single|B|Slider|16|0|2|2|13|81
+Kyle Bird|L|Victor Caratini|R|Single|F|Slider|17|1|2|2|4|80
+Kyle Bird|L|Victor Caratini|R|Single|B|Slider|18|1|2|2|13|81
+Kyle Bird|L|Victor Caratini|R|Single|B|Four-Seam Fastball|19|2|2|2|11|91
+Kyle Bird|L|Victor Caratini|R|Single|D|Four-Seam Fastball|20|3|2|2|5|91
+Kyle Bird|L|Ben Zobrist|R|Walk|B|Sinker|21|0|0|2|12|91
+Kyle Bird|L|Ben Zobrist|R|Walk|B|Sinker|22|1|0|2|14|89
+Kyle Bird|L|Ben Zobrist|R|Walk|C|Sinker|23|2|0|2|12|91
+Kyle Bird|L|Ben Zobrist|R|Walk|B|Sinker|24|2|1|2|12|91
+Kyle Bird|L|Ben Zobrist|R|Walk|B|Sinker|25|3|1|2|12|90
+Kyle Bird|L|Tommy La Stella|L|Groundout|X|Sinker|0|0|0|0|8|92
+Kyle Bird|L|Zack Cozart|R|Walk|B|Sinker|1|0|0|1|14|92
+Kyle Bird|L|Zack Cozart|R|Walk|C|Four-Seam Fastball|2|1|0|1|13|92
+Kyle Bird|L|Zack Cozart|R|Walk|C|Sinker|3|1|1|1|7|92
+Kyle Bird|L|Zack Cozart|R|Walk|B|Slider|4|1|2|1|13|82
+Kyle Bird|L|Zack Cozart|R|Walk|B|Sinker|5|2|2|1|13|93
+Kyle Bird|L|Zack Cozart|R|Walk|B|Sinker|6|3|2|1|12|92
+Kyle Bird|L|David Fletcher|R|Flyout|B|Sinker|7|0|0|1|11|90
+Kyle Bird|L|David Fletcher|R|Flyout|C|Sinker|8|1|0|1|8|92
+Kyle Bird|L|David Fletcher|R|Flyout|B|Sinker|9|1|1|1|12|92
+Kyle Bird|L|David Fletcher|R|Flyout|X|Sinker|10|2|1|1|2|91
+Kyle Bird|L|Kole Calhoun|L|Home Run|B|Sinker|11|0|0|2|12|91
+Kyle Bird|L|Kole Calhoun|L|Home Run|F|Sinker|12|1|0|2|5|91
+Kyle Bird|L|Kole Calhoun|L|Home Run|B|Four-Seam Fastball|13|1|1|2|13|91
+Kyle Bird|L|Kole Calhoun|L|Home Run|B|Four-Seam Fastball|14|2|1|2|13|92
+Kyle Bird|L|Kole Calhoun|L|Home Run|E|Four-Seam Fastball|15|3|1|2|8|92
+Kyle Bird|L|Mike Trout|R|Groundout|X|Sinker|16|0|0|2|5|94
+Kyle Bird|L|Andrelton Simmons|R|Flyout|C|Sinker|17|0|0|0|9|91
+Kyle Bird|L|Andrelton Simmons|R|Flyout|C|Slider|18|0|1|0|8|82
+Kyle Bird|L|Andrelton Simmons|R|Flyout|X|Slider|19|0|2|0|6|82
+Kyle Bird|L|Albert Pujols|R|Groundout|B|Sinker|20|0|0|1|13|92
+Kyle Bird|L|Albert Pujols|R|Groundout|B|Slider|21|1|0|1|14|79
+Kyle Bird|L|Albert Pujols|R|Groundout|F|Sinker|22|2|0|1|3|90
+Kyle Bird|L|Albert Pujols|R|Groundout|X|Sinker|23|2|1|1|9|90
+Kyle Bird|L|Brian Goodwin|L|Hit By Pitch|C|Four-Seam Fastball|24|0|0|2|2|91
+Kyle Bird|L|Brian Goodwin|L|Hit By Pitch|B|Slider|25|0|1|2|6|82
+Kyle Bird|L|Brian Goodwin|L|Hit By Pitch|H|Slider|26|1|1|2|12|80
+Kyle Bird|L|Kevan Smith|R|Walk|B|Sinker|27|0|0|2|13|91
+Kyle Bird|L|Kevan Smith|R|Walk|B|Sinker|28|1|0|2|14|90
+Kyle Bird|L|Kevan Smith|R|Walk|*B|Slider|29|2|0|2|13|80
+Kyle Bird|L|Kevan Smith|R|Walk|B|Four-Seam Fastball|30|3|0|2|13|91
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|31|0|0|2|13|89
+Kyle Bird|L|Tommy La Stella|L|Walk|C|Four-Seam Fastball|32|1|0|2|9|90
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Slider|33|1|1|2|12|80
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|34|2|1|2|13|90
+Kyle Bird|L|Tommy La Stella|L|Walk|C|Four-Seam Fastball|35|3|1|2|4|90
+Kyle Bird|L|Tommy La Stella|L|Walk|B|Four-Seam Fastball|36|3|2|2|7|90
+Kyle Bird|L|Jose Altuve|R|Home Run|F|Sinker|0|0|0|0|13|92
+Kyle Bird|L|Jose Altuve|R|Home Run|C|Slider|1|0|1|0|12|81
+Kyle Bird|L|Jose Altuve|R|Home Run|*B|Slider|2|0|2|0|13|82
+Kyle Bird|L|Jose Altuve|R|Home Run|B|Four-Seam Fastball|3|1|2|0|12|90
+Kyle Bird|L|Jose Altuve|R|Home Run|E|Sinker|4|2|2|0|11|91
+Kyle Bird|L|Alex Bregman|R|Walk|B|Sinker|5|0|0|0|12|92
+Kyle Bird|L|Alex Bregman|R|Walk|B|Slider|6|1|0|0|14|80
+Kyle Bird|L|Alex Bregman|R|Walk|B|Slider|7|2|0|0|13|80
+Kyle Bird|L|Alex Bregman|R|Walk|B|Four-Seam Fastball|8|3|0|0|12|90
+Kyle Bird|L|Michael Brantley|L|Flyout|F|Slider|9|0|0|0|13|80
+Kyle Bird|L|Michael Brantley|L|Flyout|S|Slider|10|0|1|0|2|78
+Kyle Bird|L|Michael Brantley|L|Flyout|B|Sinker|11|0|2|0|14|88
+Kyle Bird|L|Michael Brantley|L|Flyout|B|Slider|12|1|2|0|13|80
+Kyle Bird|L|Michael Brantley|L|Flyout|B|Slider|13|2|2|0|13|80
+Kyle Bird|L|Michael Brantley|L|Flyout|X|Slider|14|3|2|0|4|77
+Kyle Bird|L|Yordan Alvarez|L|Strikeout|C|Sinker|15|0|0|1|6|90
+Kyle Bird|L|Yordan Alvarez|L|Strikeout|F|Sinker|16|0|1|1|6|90
+Kyle Bird|L|Yordan Alvarez|L|Strikeout|S|Slider|17|0|2|1|13|79
+Kyle Bird|L|Yuli Gurriel|R|Home Run|E|Four-Seam Fastball|18|0|0|2|2|93
+Kyle Bird|L|Josh Reddick|L|Single|S|Slider|19|0|0|2|6|80
+Kyle Bird|L|Josh Reddick|L|Single|D|Sinker|20|0|1|2|4|90
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|F|Slider|21|0|0|2|7|80
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|F|Slider|22|0|1|2|12|78
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|B|Slider|23|0|2|2|13|80
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|B|Four-Seam Fastball|24|1|2|2|12|91
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|*B|Slider|25|2|2|2|13|78
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|F|Sinker|26|3|2|2|1|90
+Kyle Bird|L|Robinson Chirinos|R|Strikeout|S|Slider|27|3|2|2|8|78
+Kyle Bird|L|Jake Marisnick|R|Flyout|X|Four-Seam Fastball|28|0|0|0|2|90
+Kyle Bird|L|Myles Straw|R|Groundout|B|Sinker|29|0|0|1|12|90
+Kyle Bird|L|Myles Straw|R|Groundout|C|Slider|30|1|0|1|14|78
+Kyle Bird|L|Myles Straw|R|Groundout|C|Four-Seam Fastball|31|1|1|1|2|91
+Kyle Bird|L|Myles Straw|R|Groundout|X|Slider|32|1|2|1|9|78
+Kyle Bird|L|Tony Kemp|L|Lineout|B|Four-Seam Fastball|33|0|0|2|11|90
+Kyle Bird|L|Tony Kemp|L|Lineout|B|Four-Seam Fastball|34|1|0|2|11|90
+Kyle Bird|L|Tony Kemp|L|Lineout|C|Four-Seam Fastball|35|2|0|2|5|89
+Kyle Bird|L|Tony Kemp|L|Lineout|B|Slider|36|2|1|2|14|78
+Kyle Bird|L|Tony Kemp|L|Lineout|S|Four-Seam Fastball|37|3|1|2|8|90
+Kyle Bird|L|Tony Kemp|L|Lineout|X|Four-Seam Fastball|38|3|2|2|2|90
+Kyle Bird|L|Adam Jones|R|Strikeout|C|Sinker|0|0|0|0|6|92
+Kyle Bird|L|Adam Jones|R|Strikeout|C|Four-Seam Fastball|1|0|1|0|4|92
+Kyle Bird|L|Adam Jones|R|Strikeout|S|Slider|2|0|2|0|14|80
+Kyle Bird|L|Jake Lamb|L|Strikeout|B|Sinker|3|0|0|1|12|90
+Kyle Bird|L|Jake Lamb|L|Strikeout|B|Slider|4|1|0|1|13|78
+Kyle Bird|L|Jake Lamb|L|Strikeout|C|Slider|5|2|0|1|7|80
+Kyle Bird|L|Jake Lamb|L|Strikeout|S|Slider|6|2|1|1|13|79
+Kyle Bird|L|Jake Lamb|L|Strikeout|S|Slider|7|2|2|1|13|80
+Kyle Bird|L|Nick Ahmed|R|Groundout|B|Slider|8|0|0|2|14|79
+Kyle Bird|L|Nick Ahmed|R|Groundout|S|Four-Seam Fastball|9|1|0|2|3|93
+Kyle Bird|L|Nick Ahmed|R|Groundout|F|Slider|10|1|1|2|6|80
+Kyle Bird|L|Nick Ahmed|R|Groundout|X|Four-Seam Fastball|11|1|2|2|4|92
+Kyle Bird|L|Kevin Cron|R|Strikeout|B|Sinker|12|0|0|0|12|93
+Kyle Bird|L|Kevin Cron|R|Strikeout|C|Slider|13|1|0|0|9|79
+Kyle Bird|L|Kevin Cron|R|Strikeout|F|Four-Seam Fastball|14|1|1|0|11|91
+Kyle Bird|L|Kevin Cron|R|Strikeout|S|Slider|15|1|2|0|7|79
+Kyle Bird|L|Carson Kelly|R|Walk|B|Slider|16|0|0|1|14|79
+Kyle Bird|L|Carson Kelly|R|Walk|B|Slider|17|1|0|1|13|78
+Kyle Bird|L|Carson Kelly|R|Walk|F|Sinker|18|2|0|1|5|89
+Kyle Bird|L|Carson Kelly|R|Walk|B|Slider|19|2|1|1|14|78
+Kyle Bird|L|Carson Kelly|R|Walk|C|Four-Seam Fastball|20|3|1|1|13|90
+Kyle Bird|L|Carson Kelly|R|Walk|F|Slider|21|3|2|1|5|78
+Kyle Bird|L|Carson Kelly|R|Walk|B|Slider|22|3|2|1|13|79
+Kyle Bird|L|Jarrod Dyson|L|Single|*B|Slider|23|0|0|1|13|78
+Kyle Bird|L|Jarrod Dyson|L|Single|B|Four-Seam Fastball|24|1|0|1|11|88
+Kyle Bird|L|Jarrod Dyson|L|Single|C|Four-Seam Fastball|25|2|0|1|13|90
+Kyle Bird|L|Jarrod Dyson|L|Single|D|Slider|26|2|1|1|8|78
+Kyle Bird|L|Tim Locastro|R|Forceout|C|Slider|27|0|0|1|14|78
+Kyle Bird|L|Tim Locastro|R|Forceout|W|Slider|28|0|1|1|13|79
+Kyle Bird|L|Tim Locastro|R|Forceout|X|Slider|29|0|2|1|14|79
+Kyle Bird|L|Eduardo Escobar|R|Home Run|B|Four-Seam Fastball|30|0|0|2|11|90
+Kyle Bird|L|Eduardo Escobar|R|Home Run|W|Slider|31|1|0|2|13|79
+Kyle Bird|L|Eduardo Escobar|R|Home Run|F|Slider|32|1|1|2|13|79
+Kyle Bird|L|Eduardo Escobar|R|Home Run|*B|Slider|33|1|2|2|13|79
+Kyle Bird|L|Eduardo Escobar|R|Home Run|E|Four-Seam Fastball|34|2|2|2|1|91
+Kyle Bird|L|Christian Walker|R|Walk|B|Slider|35|0|0|2|14|78
+Kyle Bird|L|Christian Walker|R|Walk|B|Slider|36|1|0|2|14|78
+Kyle Bird|L|Christian Walker|R|Walk|F|Sinker|37|2|0|2|1|88
+Kyle Bird|L|Christian Walker|R|Walk|B|Slider|38|2|1|2|13|79
+Kyle Bird|L|Christian Walker|R|Walk|F|Sinker|39|3|1|2|5|88
+Kyle Bird|L|Christian Walker|R|Walk|*B|Slider|40|3|2|2|13|79
+Kyle Bird|L|Adam Jones|R|Single|B|Slider|41|0|0|2|14|77
+Kyle Bird|L|Adam Jones|R|Single|C|Sinker|42|1|0|2|1|90
+Kyle Bird|L|Adam Jones|R|Single|B|Four-Seam Fastball|43|1|1|2|11|91
+Kyle Bird|L|Adam Jones|R|Single|D|Slider|44|2|1|2|13|79
+Kyle Bird|L|Jake Lamb|L|Walk|B|Four-Seam Fastball|45|0|0|2|12|90
+Kyle Bird|L|Jake Lamb|L|Walk|F|Slider|46|1|0|2|7|78
+Kyle Bird|L|Jake Lamb|L|Walk|W|Slider|47|1|1|2|13|77
+Kyle Bird|L|Jake Lamb|L|Walk|*B|Slider|48|1|2|2|13|79
+Kyle Bird|L|Jake Lamb|L|Walk|B|Slider|49|2|2|2|13|78
+Kyle Bird|L|Jake Lamb|L|Walk|*B|Slider|50|3|2|2|13|80
+Kyle Bird|L|Mallex Smith|L|Flyout|B|Slider|0|0|0|2|13|82
+Kyle Bird|L|Mallex Smith|L|Flyout|B|Slider|1|1|0|2|13|79
+Kyle Bird|L|Mallex Smith|L|Flyout|F|Four-Seam Fastball|2|2|0|2|5|89
+Kyle Bird|L|Mallex Smith|L|Flyout|B|Slider|3|2|1|2|11|79
+Kyle Bird|L|Mallex Smith|L|Flyout|X|Four-Seam Fastball|4|3|1|2|3|91

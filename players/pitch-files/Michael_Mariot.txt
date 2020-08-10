@@ -1,0 +1,424 @@
+Michael Mariot|R|Kyle Seager|L|Lineout|B|Two-Seam Fastball|0|0|0|0|14|91
+Michael Mariot|R|Kyle Seager|L|Lineout|B|Changeup|1|1|0|0|13|86
+Michael Mariot|R|Kyle Seager|L|Lineout|C|Two-Seam Fastball|2|2|0|0|4|94
+Michael Mariot|R|Kyle Seager|L|Lineout|B|Two-Seam Fastball|3|2|1|0|13|92
+Michael Mariot|R|Kyle Seager|L|Lineout|F|Two-Seam Fastball|4|3|1|0|11|93
+Michael Mariot|R|Kyle Seager|L|Lineout|F|Four-Seam Fastball|5|3|2|0|1|94
+Michael Mariot|R|Kyle Seager|L|Lineout|X|Two-Seam Fastball|6|3|2|0|12|94
+Michael Mariot|R|Seth Smith|L|Walk|F|Four-Seam Fastball|7|0|0|1|11|93
+Michael Mariot|R|Seth Smith|L|Walk|C|Changeup|8|0|1|1|1|86
+Michael Mariot|R|Seth Smith|L|Walk|B|Slider|9|0|2|1|14|83
+Michael Mariot|R|Seth Smith|L|Walk|B|Slider|10|1|2|1|14|83
+Michael Mariot|R|Seth Smith|L|Walk|B|Changeup|11|2|2|1|13|86
+Michael Mariot|R|Seth Smith|L|Walk|B|Slider|12|3|2|1|7|82
+Michael Mariot|R|Dustin Ackley|L|Lineout|B|Two-Seam Fastball|13|0|0|1|11|92
+Michael Mariot|R|Dustin Ackley|L|Lineout|C|Slider|14|1|0|1|8|80
+Michael Mariot|R|Dustin Ackley|L|Lineout|X|Two-Seam Fastball|15|1|1|1|4|90
+Michael Mariot|R|Brad Miller|L|Flyout|X|Two-Seam Fastball|16|0|0|2|1|91
+Michael Mariot|R|Mike Zunino|R|Flyout|X|Four-Seam Fastball|17|0|0|0|1|91
+Michael Mariot|R|Logan Morrison|L|Home Run|B|Two-Seam Fastball|18|0|0|1|11|91
+Michael Mariot|R|Logan Morrison|L|Home Run|C|Two-Seam Fastball|19|1|0|1|1|90
+Michael Mariot|R|Logan Morrison|L|Home Run|F|Two-Seam Fastball|20|1|1|1|13|91
+Michael Mariot|R|Logan Morrison|L|Home Run|E|Slider|21|1|2|1|6|82
+Michael Mariot|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|22|0|0|1|13|93
+Michael Mariot|R|Austin Jackson|R|Strikeout|C|Slider|23|1|0|1|9|82
+Michael Mariot|R|Austin Jackson|R|Strikeout|S|Four-Seam Fastball|24|1|1|1|4|93
+Michael Mariot|R|Austin Jackson|R|Strikeout|B|Four-Seam Fastball|25|1|2|1|14|94
+Michael Mariot|R|Austin Jackson|R|Strikeout|S|Slider|26|2|2|1|14|82
+Michael Mariot|R|Robinson Cano|L|Groundout|B|Two-Seam Fastball|27|0|0|2|13|92
+Michael Mariot|R|Robinson Cano|L|Groundout|B|Two-Seam Fastball|28|1|0|2|13|93
+Michael Mariot|R|Robinson Cano|L|Groundout|F|Two-Seam Fastball|29|2|0|2|5|92
+Michael Mariot|R|Robinson Cano|L|Groundout|X|Two-Seam Fastball|30|2|1|2|4|92
+Michael Mariot|R|Jesus Sucre|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|93
+Michael Mariot|R|Jesus Sucre|R|Groundout|X|Four-Seam Fastball|1|1|0|0|5|94
+Michael Mariot|R|Ketel Marte|L|Single|C|Two-Seam Fastball|2|0|0|1|13|91
+Michael Mariot|R|Ketel Marte|L|Single|D|Slider|3|0|1|1|6|81
+Michael Mariot|R|Shawn O'Malley|L|Walk|B|Two-Seam Fastball|4|0|0|1|7|90
+Michael Mariot|R|Shawn O'Malley|L|Walk|B|Two-Seam Fastball|5|1|0|1|11|90
+Michael Mariot|R|Shawn O'Malley|L|Walk|*B|Four-Seam Fastball|6|2|0|1|13|93
+Michael Mariot|R|Shawn O'Malley|L|Walk|B|Two-Seam Fastball|7|3|0|1|11|93
+Michael Mariot|R|John Hicks|R|Double Play|B|Slider|8|0|0|1|12|82
+Michael Mariot|R|John Hicks|R|Double Play|F|Four-Seam Fastball|9|1|0|1|11|92
+Michael Mariot|R|John Hicks|R|Double Play|C|Four-Seam Fastball|10|1|1|1|14|94
+Michael Mariot|R|John Hicks|R|Double Play|B|Two-Seam Fastball|11|1|2|1|13|93
+Michael Mariot|R|John Hicks|R|Double Play|X|Slider|12|2|2|1|2|83
+Michael Mariot|R|Hunter Pence|R|Flyout|B|Four-Seam Fastball|0|0|0|0|12|91
+Michael Mariot|R|Hunter Pence|R|Flyout|F|Two-Seam Fastball|1|1|0|0|6|91
+Michael Mariot|R|Hunter Pence|R|Flyout|S|Slider|2|1|1|0|14|82
+Michael Mariot|R|Hunter Pence|R|Flyout|B|Slider|3|1|2|0|11|82
+Michael Mariot|R|Hunter Pence|R|Flyout|X|Slider|4|2|2|0|5|83
+Michael Mariot|R|Buster Posey|R|Flyout|X|Four-Seam Fastball|5|0|0|1|1|92
+Michael Mariot|R|Brandon Crawford|L|Groundout|B|Slider|6|0|0|2|11|80
+Michael Mariot|R|Brandon Crawford|L|Groundout|C|Two-Seam Fastball|7|1|0|2|13|92
+Michael Mariot|R|Brandon Crawford|L|Groundout|X|Two-Seam Fastball|8|1|1|2|4|92
+Michael Mariot|R|Joe Panik|L|Strikeout|C|Two-Seam Fastball|0|0|0|0|11|90
+Michael Mariot|R|Joe Panik|L|Strikeout|B|Two-Seam Fastball|1|0|1|0|12|90
+Michael Mariot|R|Joe Panik|L|Strikeout|C|Two-Seam Fastball|2|1|1|0|13|91
+Michael Mariot|R|Joe Panik|L|Strikeout|B|Slider|3|1|2|0|14|81
+Michael Mariot|R|Joe Panik|L|Strikeout|T|Slider|4|2|2|0|14|80
+Michael Mariot|R|Trevor Brown|R|Strikeout|B|Four-Seam Fastball|5|0|0|1|14|91
+Michael Mariot|R|Trevor Brown|R|Strikeout|B|Four-Seam Fastball|6|1|0|1|14|90
+Michael Mariot|R|Trevor Brown|R|Strikeout|F|Four-Seam Fastball|7|2|0|1|4|92
+Michael Mariot|R|Trevor Brown|R|Strikeout|S|Slider|8|2|1|1|8|82
+Michael Mariot|R|Trevor Brown|R|Strikeout|C|Slider|9|2|2|1|11|82
+Michael Mariot|R|Ehire Adrianza|L|Strikeout|B|Curveball|10|0|0|2|11|72
+Michael Mariot|R|Ehire Adrianza|L|Strikeout|F|Changeup|11|1|0|2|13|85
+Michael Mariot|R|Ehire Adrianza|L|Strikeout|C|Two-Seam Fastball|12|1|1|2|13|93
+Michael Mariot|R|Ehire Adrianza|L|Strikeout|W|Slider|13|1|2|2|14|84
+Michael Mariot|R|Chase Utley|L|Groundout|B|Curveball|0|0|0|0|14|74
+Michael Mariot|R|Chase Utley|L|Groundout|B|Two-Seam Fastball|1|1|0|0|14|92
+Michael Mariot|R|Chase Utley|L|Groundout|X|Two-Seam Fastball|2|2|0|0|9|93
+Michael Mariot|R|Corey Seager|L|Home Run|E|Curveball|3|0|0|1|8|74
+Michael Mariot|R|Justin Turner|R|Strikeout|F|Four-Seam Fastball|4|0|0|1|9|93
+Michael Mariot|R|Justin Turner|R|Strikeout|F|Slider|5|0|1|1|9|82
+Michael Mariot|R|Justin Turner|R|Strikeout|W|Slider|6|0|2|1|14|84
+Michael Mariot|R|Josh Reddick|L|Strikeout|C|Two-Seam Fastball|7|0|0|2|2|92
+Michael Mariot|R|Josh Reddick|L|Strikeout|F|Four-Seam Fastball|8|0|1|2|8|94
+Michael Mariot|R|Josh Reddick|L|Strikeout|S|Slider|9|0|2|2|2|84
+Michael Mariot|R|Carlos Gonzalez|L|Pop Out|B|Two-Seam Fastball|0|0|0|0|12|92
+Michael Mariot|R|Carlos Gonzalez|L|Pop Out|B|Slider|1|1|0|0|12|80
+Michael Mariot|R|Carlos Gonzalez|L|Pop Out|F|Two-Seam Fastball|2|2|0|0|3|93
+Michael Mariot|R|Carlos Gonzalez|L|Pop Out|B|Slider|3|2|1|0|11|81
+Michael Mariot|R|Carlos Gonzalez|L|Pop Out|X|Slider|4|3|1|0|8|81
+Michael Mariot|R|Nolan Arenado|R|Lineout|X|Curveball|5|0|0|1|9|73
+Michael Mariot|R|David Dahl|L|Strikeout|B|Two-Seam Fastball|6|0|0|2|14|94
+Michael Mariot|R|David Dahl|L|Strikeout|C|Changeup|7|1|0|2|11|85
+Michael Mariot|R|David Dahl|L|Strikeout|C|Two-Seam Fastball|8|1|1|2|5|93
+Michael Mariot|R|David Dahl|L|Strikeout|S|Two-Seam Fastball|9|1|2|2|3|94
+Michael Mariot|R|Howie Kendrick|R|Strikeout|B|Slider|0|0|0|1|11|81
+Michael Mariot|R|Howie Kendrick|R|Strikeout|C|Four-Seam Fastball|1|1|0|1|9|93
+Michael Mariot|R|Howie Kendrick|R|Strikeout|F|Two-Seam Fastball|2|1|1|1|2|93
+Michael Mariot|R|Howie Kendrick|R|Strikeout|B|Two-Seam Fastball|3|1|2|1|13|94
+Michael Mariot|R|Howie Kendrick|R|Strikeout|S|Slider|4|2|2|1|14|83
+Michael Mariot|R|Rob Segedin|R|Single|B|Slider|5|0|0|2|12|81
+Michael Mariot|R|Rob Segedin|R|Single|C|Slider|6|1|0|2|13|81
+Michael Mariot|R|Rob Segedin|R|Single|B|Two-Seam Fastball|7|1|1|2|12|92
+Michael Mariot|R|Rob Segedin|R|Single|E|Slider|8|2|1|2|5|80
+Michael Mariot|R|Chase Utley|L|Home Run|B|Two-Seam Fastball|9|0|0|2|11|93
+Michael Mariot|R|Chase Utley|L|Home Run|C|Slider|10|1|0|2|13|81
+Michael Mariot|R|Chase Utley|L|Home Run|E|Two-Seam Fastball|11|1|1|2|8|92
+Michael Mariot|R|Corey Seager|L|Strikeout|B|Curveball|12|0|0|2|13|74
+Michael Mariot|R|Corey Seager|L|Strikeout|C|Two-Seam Fastball|13|1|0|2|13|93
+Michael Mariot|R|Corey Seager|L|Strikeout|S|Two-Seam Fastball|14|1|1|2|13|93
+Michael Mariot|R|Corey Seager|L|Strikeout|S|Changeup|15|1|2|2|14|84
+Michael Mariot|R|Enrique Hernandez|R|Groundout|F|Slider|16|0|0|0|2|81
+Michael Mariot|R|Enrique Hernandez|R|Groundout|B|Two-Seam Fastball|17|0|1|0|12|93
+Michael Mariot|R|Enrique Hernandez|R|Groundout|X|Slider|18|1|1|0|13|82
+Michael Mariot|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|19|0|0|1|12|92
+Michael Mariot|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|20|1|0|1|12|92
+Michael Mariot|R|Josh Reddick|L|Walk|B|Two-Seam Fastball|21|2|0|1|13|91
+Michael Mariot|R|Josh Reddick|L|Walk|C|Two-Seam Fastball|22|3|0|1|8|93
+Michael Mariot|R|Josh Reddick|L|Walk|B|Slider|23|3|1|1|12|81
+Michael Mariot|R|Adrian Gonzalez|L|Flyout|C|Two-Seam Fastball|24|0|0|1|2|92
+Michael Mariot|R|Adrian Gonzalez|L|Flyout|B|Two-Seam Fastball|25|0|1|1|14|91
+Michael Mariot|R|Adrian Gonzalez|L|Flyout|T|Slider|26|1|1|1|4|82
+Michael Mariot|R|Adrian Gonzalez|L|Flyout|B|Two-Seam Fastball|27|1|2|1|11|93
+Michael Mariot|R|Adrian Gonzalez|L|Flyout|X|Two-Seam Fastball|28|2|2|1|5|94
+Michael Mariot|R|Yasmani Grandal|L|Flyout|B|Two-Seam Fastball|29|0|0|2|14|93
+Michael Mariot|R|Yasmani Grandal|L|Flyout|C|Slider|30|1|0|2|5|82
+Michael Mariot|R|Yasmani Grandal|L|Flyout|B|Slider|31|1|1|2|13|83
+Michael Mariot|R|Yasmani Grandal|L|Flyout|B|Two-Seam Fastball|32|2|1|2|14|93
+Michael Mariot|R|Yasmani Grandal|L|Flyout|C|Two-Seam Fastball|33|3|1|2|9|93
+Michael Mariot|R|Yasmani Grandal|L|Flyout|X|Slider|34|3|2|2|4|83
+Michael Mariot|R|Chase Utley|L|Groundout|C|Two-Seam Fastball|0|0|0|0|14|93
+Michael Mariot|R|Chase Utley|L|Groundout|B|Changeup|1|0|1|0|11|85
+Michael Mariot|R|Chase Utley|L|Groundout|B|Two-Seam Fastball|2|1|1|0|13|92
+Michael Mariot|R|Chase Utley|L|Groundout|X|Slider|3|2|1|0|8|81
+Michael Mariot|R|Corey Seager|L|Flyout|B|Slider|4|0|0|1|2|82
+Michael Mariot|R|Corey Seager|L|Flyout|B|Slider|5|1|0|1|14|83
+Michael Mariot|R|Corey Seager|L|Flyout|F|Two-Seam Fastball|6|2|0|1|13|92
+Michael Mariot|R|Corey Seager|L|Flyout|X|Slider|7|2|1|1|4|81
+Michael Mariot|R|Justin Turner|R|Pop Out|F|Four-Seam Fastball|8|0|0|2|5|94
+Michael Mariot|R|Justin Turner|R|Pop Out|X|Slider|9|0|1|2|5|83
+Michael Mariot|R|Brandon Moss|L|Flyout|C|Curveball|0|0|0|1|6|75
+Michael Mariot|R|Brandon Moss|L|Flyout|B|Two-Seam Fastball|1|0|1|1|12|93
+Michael Mariot|R|Brandon Moss|L|Flyout|S|Two-Seam Fastball|2|1|1|1|11|92
+Michael Mariot|R|Brandon Moss|L|Flyout|X|Two-Seam Fastball|3|1|2|1|11|94
+Michael Mariot|R|Greg Garcia|L|Flyout|X|Two-Seam Fastball|4|0|0|2|8|92
+Michael Mariot|R|Justin Morneau|L|Strikeout|F|Two-Seam Fastball|0|0|0|0|1|92
+Michael Mariot|R|Justin Morneau|L|Strikeout|F|Curveball|1|0|1|0|14|73
+Michael Mariot|R|Justin Morneau|L|Strikeout|S|Slider|2|0|2|0|14|83
+Michael Mariot|R|Todd Frazier|R|Flyout|B|Four-Seam Fastball|3|0|0|1|13|94
+Michael Mariot|R|Todd Frazier|R|Flyout|C|Four-Seam Fastball|4|1|0|1|14|92
+Michael Mariot|R|Todd Frazier|R|Flyout|T|Slider|5|1|1|1|11|81
+Michael Mariot|R|Todd Frazier|R|Flyout|X|Slider|6|1|2|1|14|83
+Michael Mariot|R|Omar Narvaez|L|Lineout|B|Two-Seam Fastball|7|0|0|2|13|93
+Michael Mariot|R|Omar Narvaez|L|Lineout|C|Two-Seam Fastball|8|1|0|2|13|92
+Michael Mariot|R|Omar Narvaez|L|Lineout|B|Slider|9|1|1|2|14|82
+Michael Mariot|R|Omar Narvaez|L|Lineout|X|Two-Seam Fastball|10|2|1|2|4|92
+Michael Mariot|R|Asdrubal Cabrera|L|Walk|F|Two-Seam Fastball|0|0|0|0|11|91
+Michael Mariot|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|1|0|1|0|11|92
+Michael Mariot|R|Asdrubal Cabrera|L|Walk|B|Slider|2|1|1|0|11|79
+Michael Mariot|R|Asdrubal Cabrera|L|Walk|B|Slider|3|2|1|0|11|81
+Michael Mariot|R|Asdrubal Cabrera|L|Walk|B|Two-Seam Fastball|4|3|1|0|11|90
+Michael Mariot|R|Yoenis Cespedes|R|Walk|B|Slider|5|0|0|0|11|79
+Michael Mariot|R|Yoenis Cespedes|R|Walk|B|Four-Seam Fastball|6|1|0|0|14|91
+Michael Mariot|R|Yoenis Cespedes|R|Walk|B|Four-Seam Fastball|7|2|0|0|12|92
+Michael Mariot|R|Yoenis Cespedes|R|Walk|B|Two-Seam Fastball|8|3|0|0|13|93
+Michael Mariot|R|Neil Walker|L|Single|C|Curveball|9|0|0|0|8|75
+Michael Mariot|R|Neil Walker|L|Single|B|Curveball|10|0|1|0|11|74
+Michael Mariot|R|Neil Walker|L|Single|B|Two-Seam Fastball|11|1|1|0|13|91
+Michael Mariot|R|Neil Walker|L|Single|D|Two-Seam Fastball|12|2|1|0|13|93
+Michael Mariot|R|James Loney|L|Strikeout|B|Two-Seam Fastball|13|0|0|0|13|94
+Michael Mariot|R|James Loney|L|Strikeout|F|Two-Seam Fastball|14|1|0|0|4|92
+Michael Mariot|R|James Loney|L|Strikeout|C|Two-Seam Fastball|15|1|1|0|6|93
+Michael Mariot|R|James Loney|L|Strikeout|F|Two-Seam Fastball|16|1|2|0|13|94
+Michael Mariot|R|James Loney|L|Strikeout|S|Two-Seam Fastball|17|1|2|0|11|93
+Michael Mariot|R|Alejandro De Aza|L|Double|B|Changeup|18|0|0|1|11|85
+Michael Mariot|R|Alejandro De Aza|L|Double|T|Two-Seam Fastball|19|1|0|1|11|92
+Michael Mariot|R|Alejandro De Aza|L|Double|B|Slider|20|1|1|1|14|82
+Michael Mariot|R|Alejandro De Aza|L|Double|E|Two-Seam Fastball|21|2|1|1|4|93
+Michael Mariot|R|Curtis Granderson|L|Intent Walk|I|Intentional Ball|22|0|0|1|11|79
+Michael Mariot|R|Curtis Granderson|L|Intent Walk|I|Intentional Ball|23|0|1|1|11|79
+Michael Mariot|R|Curtis Granderson|L|Intent Walk|I|Intentional Ball|24|0|2|1|11|80
+Michael Mariot|R|Curtis Granderson|L|Intent Walk|I|Intentional Ball|25|0|2|1|11|79
+Michael Mariot|R|Rene Rivera|R|Flyout|C|Slider|26|0|0|1|5|82
+Michael Mariot|R|Rene Rivera|R|Flyout|F|Slider|27|0|1|1|14|82
+Michael Mariot|R|Rene Rivera|R|Flyout|*B|Slider|28|0|2|1|14|84
+Michael Mariot|R|Rene Rivera|R|Flyout|F|Slider|29|1|2|1|1|83
+Michael Mariot|R|Rene Rivera|R|Flyout|B|Four-Seam Fastball|30|1|2|1|9|94
+Michael Mariot|R|Rene Rivera|R|Flyout|*B|Slider|31|2|2|1|14|83
+Michael Mariot|R|Rene Rivera|R|Flyout|F|Slider|32|3|2|1|5|83
+Michael Mariot|R|Rene Rivera|R|Flyout|F|Four-Seam Fastball|33|3|2|1|1|93
+Michael Mariot|R|Rene Rivera|R|Flyout|X|Slider|34|3|2|1|14|83
+Michael Mariot|R|Kelly Johnson|L|Home Run|B|Two-Seam Fastball|35|0|0|2|11|92
+Michael Mariot|R|Kelly Johnson|L|Home Run|E|Two-Seam Fastball|36|1|0|2|4|93
+Michael Mariot|R|Jose Reyes|L|Single|C|Two-Seam Fastball|37|0|0|2|4|92
+Michael Mariot|R|Jose Reyes|L|Single|D|Slider|38|0|1|2|1|81
+Michael Mariot|R|Jayson Werth|R|Strikeout|B|Two-Seam Fastball|0|0|0|0|1|92
+Michael Mariot|R|Jayson Werth|R|Strikeout|B|Slider|1|1|0|0|13|80
+Michael Mariot|R|Jayson Werth|R|Strikeout|C|Two-Seam Fastball|2|2|0|0|9|92
+Michael Mariot|R|Jayson Werth|R|Strikeout|C|Slider|3|2|1|0|9|81
+Michael Mariot|R|Jayson Werth|R|Strikeout|B|Four-Seam Fastball|4|2|2|0|14|93
+Michael Mariot|R|Jayson Werth|R|Strikeout|F|Four-Seam Fastball|5|3|2|0|11|93
+Michael Mariot|R|Jayson Werth|R|Strikeout|S|Slider|6|3|2|0|9|83
+Michael Mariot|R|Daniel Murphy|L|Pop Out|C|Two-Seam Fastball|7|0|0|1|8|92
+Michael Mariot|R|Daniel Murphy|L|Pop Out|X|Slider|8|0|1|1|9|82
+Michael Mariot|R|Bryce Harper|L|Groundout|F|Two-Seam Fastball|9|0|0|2|4|93
+Michael Mariot|R|Bryce Harper|L|Groundout|S|Slider|10|0|1|2|14|82
+Michael Mariot|R|Bryce Harper|L|Groundout|X|Slider|11|0|2|2|13|83
+Michael Mariot|R|Danny Espinosa|L|Strikeout|C|Curveball|0|0|0|2|8|73
+Michael Mariot|R|Danny Espinosa|L|Strikeout|F|Curveball|1|0|1|2|6|73
+Michael Mariot|R|Danny Espinosa|L|Strikeout|T|Four-Seam Fastball|2|0|2|2|2|93
+Michael Mariot|R|Max Scherzer|R|Groundout|C|Two-Seam Fastball|3|0|0|0|4|90
+Michael Mariot|R|Max Scherzer|R|Groundout|F|Curveball|4|0|1|0|6|73
+Michael Mariot|R|Max Scherzer|R|Groundout|X|Slider|5|0|2|0|2|80
+Michael Mariot|R|Trea Turner|R|Single|B|Curveball|6|0|0|1|11|74
+Michael Mariot|R|Trea Turner|R|Single|B|Four-Seam Fastball|7|1|0|1|14|92
+Michael Mariot|R|Trea Turner|R|Single|D|Four-Seam Fastball|8|2|0|1|9|92
+Michael Mariot|R|Jayson Werth|R|Pop Out|P|Pitchout|9|0|0|1|12|87
+Michael Mariot|R|Jayson Werth|R|Pop Out|X|Slider|10|0|1|1|6|81
+Michael Mariot|R|Nick Markakis|L|Single|B|Curveball|0|0|0|0|13|73
+Michael Mariot|R|Nick Markakis|L|Single|C|Two-Seam Fastball|1|1|0|0|8|91
+Michael Mariot|R|Nick Markakis|L|Single|F|Two-Seam Fastball|2|1|1|0|1|92
+Michael Mariot|R|Nick Markakis|L|Single|B|Four-Seam Fastball|3|1|2|0|11|94
+Michael Mariot|R|Nick Markakis|L|Single|F|Slider|4|2|2|0|14|83
+Michael Mariot|R|Nick Markakis|L|Single|D|Two-Seam Fastball|5|2|2|0|7|94
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|B|Two-Seam Fastball|6|0|0|0|14|92
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|*B|Curveball|7|1|0|0|14|74
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|T|Two-Seam Fastball|8|2|0|0|8|94
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|F|Two-Seam Fastball|9|2|1|0|13|94
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|B|Slider|10|2|2|0|14|83
+Michael Mariot|R|Tyler Flowers|R|Strikeout Double Play|C|Slider|11|3|2|0|1|82
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|12|0|0|2|13|94
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|13|1|0|2|1|92
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|14|2|0|2|11|91
+Michael Mariot|R|Jace Peterson|L|Walk|C|Two-Seam Fastball|15|3|0|2|4|92
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|16|3|1|2|11|92
+Michael Mariot|R|Gordon Beckham|R|Walk|F|Two-Seam Fastball|17|0|0|2|13|93
+Michael Mariot|R|Gordon Beckham|R|Walk|B|Four-Seam Fastball|18|0|1|2|14|94
+Michael Mariot|R|Gordon Beckham|R|Walk|B|Two-Seam Fastball|19|1|1|2|13|93
+Michael Mariot|R|Gordon Beckham|R|Walk|B|Four-Seam Fastball|20|2|1|2|14|93
+Michael Mariot|R|Gordon Beckham|R|Walk|C|Slider|21|3|1|2|13|82
+Michael Mariot|R|Gordon Beckham|R|Walk|B|Slider|22|3|2|2|14|84
+Michael Mariot|R|A.J. Pierzynski|L|Lineout|S|Two-Seam Fastball|23|0|0|2|13|92
+Michael Mariot|R|A.J. Pierzynski|L|Lineout|B|Four-Seam Fastball|24|0|1|2|11|93
+Michael Mariot|R|A.J. Pierzynski|L|Lineout|S|Slider|25|1|1|2|14|82
+Michael Mariot|R|A.J. Pierzynski|L|Lineout|*B|Slider|26|1|2|2|14|85
+Michael Mariot|R|A.J. Pierzynski|L|Lineout|X|Slider|27|2|2|2|8|83
+Michael Mariot|R|Freddie Freeman|L|Home Run|E|Two-Seam Fastball|0|0|0|0|4|91
+Michael Mariot|R|Matt Kemp|R|Single|C|Slider|1|0|0|0|14|81
+Michael Mariot|R|Matt Kemp|R|Single|S|Slider|2|0|1|0|14|81
+Michael Mariot|R|Matt Kemp|R|Single|B|Slider|3|0|2|0|14|82
+Michael Mariot|R|Matt Kemp|R|Single|B|Four-Seam Fastball|4|1|2|0|14|93
+Michael Mariot|R|Matt Kemp|R|Single|D|Four-Seam Fastball|5|2|2|0|9|92
+Michael Mariot|R|Nick Markakis|L|Forceout|F|Two-Seam Fastball|6|0|0|0|5|89
+Michael Mariot|R|Nick Markakis|L|Forceout|X|Two-Seam Fastball|7|0|1|0|11|90
+Michael Mariot|R|Tyler Flowers|R|Strikeout|C|Four-Seam Fastball|8|0|0|1|9|91
+Michael Mariot|R|Tyler Flowers|R|Strikeout|F|Slider|9|0|1|1|3|81
+Michael Mariot|R|Tyler Flowers|R|Strikeout|*B|Slider|10|0|2|1|14|82
+Michael Mariot|R|Tyler Flowers|R|Strikeout|B|Slider|11|1|2|1|11|80
+Michael Mariot|R|Tyler Flowers|R|Strikeout|F|Slider|12|2|2|1|9|80
+Michael Mariot|R|Tyler Flowers|R|Strikeout|C|Four-Seam Fastball|13|2|2|1|6|93
+Michael Mariot|R|Jace Peterson|L|Single|D|Two-Seam Fastball|14|0|0|2|11|90
+Michael Mariot|R|Dansby Swanson|R|Forceout|C|Slider|15|0|0|2|6|81
+Michael Mariot|R|Dansby Swanson|R|Forceout|X|Slider|16|0|1|2|6|81
+Michael Mariot|R|Wilson Ramos|R|Strikeout|B|Slider|0|0|0|0|11|80
+Michael Mariot|R|Wilson Ramos|R|Strikeout|C|Four-Seam Fastball|1|1|0|0|8|93
+Michael Mariot|R|Wilson Ramos|R|Strikeout|S|Slider|2|1|1|0|14|82
+Michael Mariot|R|Wilson Ramos|R|Strikeout|S|Slider|3|1|2|0|14|83
+Michael Mariot|R|Ryan Zimmerman|R|Pop Out|*B|Slider|4|0|0|1|14|81
+Michael Mariot|R|Ryan Zimmerman|R|Pop Out|B|Four-Seam Fastball|5|1|0|1|12|93
+Michael Mariot|R|Ryan Zimmerman|R|Pop Out|X|Four-Seam Fastball|6|2|0|1|1|93
+Michael Mariot|R|Anthony Rendon|R|Strikeout|C|Slider|0|0|0|1|8|82
+Michael Mariot|R|Anthony Rendon|R|Strikeout|F|Four-Seam Fastball|1|0|1|1|13|93
+Michael Mariot|R|Anthony Rendon|R|Strikeout|B|Slider|2|0|2|1|14|83
+Michael Mariot|R|Anthony Rendon|R|Strikeout|F|Slider|3|1|2|1|14|82
+Michael Mariot|R|Anthony Rendon|R|Strikeout|W|Slider|4|1|2|1|14|83
+Michael Mariot|R|Stephen Drew|L|Strikeout|C|Two-Seam Fastball|5|0|0|2|11|94
+Michael Mariot|R|Stephen Drew|L|Strikeout|S|Slider|6|0|1|2|14|82
+Michael Mariot|R|Stephen Drew|L|Strikeout|F|Slider|7|0|2|2|9|81
+Michael Mariot|R|Stephen Drew|L|Strikeout|W|Slider|8|0|2|2|13|83
+Michael Mariot|R|Francisco Cervelli|R|Walk|B|Two-Seam Fastball|0|0|0|1|11|92
+Michael Mariot|R|Francisco Cervelli|R|Walk|B|Slider|1|1|0|1|12|81
+Michael Mariot|R|Francisco Cervelli|R|Walk|F|Two-Seam Fastball|2|2|0|1|11|92
+Michael Mariot|R|Francisco Cervelli|R|Walk|B|Two-Seam Fastball|3|2|1|1|13|93
+Michael Mariot|R|Francisco Cervelli|R|Walk|B|Four-Seam Fastball|4|3|1|1|12|93
+Michael Mariot|R|Jordy Mercer|R|Flyout|C|Slider|5|0|0|1|9|83
+Michael Mariot|R|Jordy Mercer|R|Flyout|C|Slider|6|0|1|1|8|82
+Michael Mariot|R|Jordy Mercer|R|Flyout|B|Slider|7|0|2|1|14|84
+Michael Mariot|R|Jordy Mercer|R|Flyout|X|Slider|8|1|2|1|8|83
+Michael Mariot|R|Sean Rodriguez|R|Groundout|C|Four-Seam Fastball|0|0|0|2|9|91
+Michael Mariot|R|Sean Rodriguez|R|Groundout|B|Slider|1|0|1|2|14|81
+Michael Mariot|R|Sean Rodriguez|R|Groundout|X|Slider|2|1|1|2|14|80
+Michael Mariot|R|Jordy Mercer|R|Groundout|X|Four-Seam Fastball|3|0|0|0|9|92
+Michael Mariot|R|Eric Fryer|R|Walk|C|Four-Seam Fastball|4|0|0|1|9|92
+Michael Mariot|R|Eric Fryer|R|Walk|F|Four-Seam Fastball|5|0|1|1|2|91
+Michael Mariot|R|Eric Fryer|R|Walk|B|Two-Seam Fastball|6|0|2|1|12|93
+Michael Mariot|R|Eric Fryer|R|Walk|B|Slider|7|1|2|1|14|83
+Michael Mariot|R|Eric Fryer|R|Walk|B|Slider|8|2|2|1|14|82
+Michael Mariot|R|Eric Fryer|R|Walk|F|Two-Seam Fastball|9|3|2|1|8|92
+Michael Mariot|R|Eric Fryer|R|Walk|B|Four-Seam Fastball|10|3|2|1|3|93
+Michael Mariot|R|Christian Yelich|L|Strikeout|C|Slider|0|0|0|0|11|80
+Michael Mariot|R|Christian Yelich|L|Strikeout|S|Slider|1|0|1|0|14|82
+Michael Mariot|R|Christian Yelich|L|Strikeout|B|Slider|2|0|2|0|13|80
+Michael Mariot|R|Christian Yelich|L|Strikeout|B|Slider|3|1|2|0|14|83
+Michael Mariot|R|Christian Yelich|L|Strikeout|S|Two-Seam Fastball|4|2|2|0|11|92
+Michael Mariot|R|Marcell Ozuna|R|Pop Out|X|Slider|5|0|0|1|8|82
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|F|Two-Seam Fastball|6|0|0|2|13|92
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|B|Slider|7|0|1|2|14|83
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|C|Slider|8|1|1|2|5|82
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|F|Four-Seam Fastball|9|1|2|2|13|94
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|C|Four-Seam Fastball|10|1|2|2|9|95
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|C|Curveball|0|0|0|0|7|74
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|B|Slider|1|0|1|0|14|82
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|F|Two-Seam Fastball|2|1|1|0|13|92
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|F|Four-Seam Fastball|3|1|2|0|14|95
+Michael Mariot|R|J.T. Realmuto|R|Strikeout|W|Slider|4|1|2|0|14|83
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|S|Four-Seam Fastball|5|0|0|1|9|93
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|C|Slider|6|0|1|1|8|81
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|B|Slider|7|0|2|1|14|83
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|B|Slider|8|1|2|1|14|83
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|F|Four-Seam Fastball|9|2|2|1|1|93
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|B|Four-Seam Fastball|10|2|2|1|14|95
+Michael Mariot|R|Adeiny Hechavarria|R|Walk|B|Slider|11|3|2|1|14|84
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|C|Slider|12|0|0|1|8|82
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|*B|Slider|13|0|1|1|14|82
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|B|Four-Seam Fastball|14|1|1|1|12|94
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|F|Slider|15|2|1|1|8|83
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|B|Slider|16|2|2|1|14|83
+Michael Mariot|R|Giancarlo Stanton|R|Strikeout|S|Slider|17|3|2|1|14|83
+Michael Mariot|R|Tim Anderson|R|Groundout|C|Slider|0|0|0|1|6|80
+Michael Mariot|R|Tim Anderson|R|Groundout|C|Slider|1|0|1|1|12|82
+Michael Mariot|R|Tim Anderson|R|Groundout|F|Four-Seam Fastball|2|0|2|1|5|93
+Michael Mariot|R|Tim Anderson|R|Groundout|X|Slider|3|0|2|1|9|83
+Michael Mariot|R|Alejandro De Aza|L|Strikeout|B|Two-Seam Fastball|0|0|0|0|11|93
+Michael Mariot|R|Alejandro De Aza|L|Strikeout|C|Two-Seam Fastball|1|1|0|0|7|91
+Michael Mariot|R|Alejandro De Aza|L|Strikeout|F|Slider|2|1|1|0|4|81
+Michael Mariot|R|Alejandro De Aza|L|Strikeout|B|Slider|3|1|2|0|14|83
+Michael Mariot|R|Alejandro De Aza|L|Strikeout|W|Slider|4|2|2|0|14|83
+Michael Mariot|R|Kelly Johnson|L|Flyout|S|Slider|5|0|0|1|14|80
+Michael Mariot|R|Kelly Johnson|L|Flyout|B|Two-Seam Fastball|6|0|1|1|8|91
+Michael Mariot|R|Kelly Johnson|L|Flyout|X|Slider|7|1|1|1|14|81
+Michael Mariot|R|Jose Reyes|L|Walk|B|Two-Seam Fastball|8|0|0|2|13|93
+Michael Mariot|R|Jose Reyes|L|Walk|B|Slider|9|1|0|2|14|81
+Michael Mariot|R|Jose Reyes|L|Walk|B|Two-Seam Fastball|10|2|0|2|13|93
+Michael Mariot|R|Jose Reyes|L|Walk|B|Two-Seam Fastball|11|3|0|2|14|94
+Michael Mariot|R|Asdrubal Cabrera|L|Single|C|Two-Seam Fastball|12|0|0|2|11|91
+Michael Mariot|R|Asdrubal Cabrera|L|Single|P|Pitchout|13|0|1|2|11|87
+Michael Mariot|R|Asdrubal Cabrera|L|Single|D|Curveball|14|0|2|2|4|74
+Michael Mariot|R|Yoenis Cespedes|R|Double|E|Slider|15|0|0|2|5|81
+Michael Mariot|R|Ty Kelly|L|Flyout|X|Two-Seam Fastball|0|0|0|2|8|92
+Michael Mariot|R|Jay Bruce|L|Home Run|F|Two-Seam Fastball|1|0|0|0|13|92
+Michael Mariot|R|Jay Bruce|L|Home Run|E|Slider|2|0|1|0|8|80
+Michael Mariot|R|Eric Campbell|R|Walk|C|Slider|3|0|0|0|1|80
+Michael Mariot|R|Eric Campbell|R|Walk|S|Four-Seam Fastball|4|0|1|0|1|92
+Michael Mariot|R|Eric Campbell|R|Walk|B|Four-Seam Fastball|5|0|2|0|11|94
+Michael Mariot|R|Eric Campbell|R|Walk|B|Slider|6|1|2|0|14|83
+Michael Mariot|R|Eric Campbell|R|Walk|F|Slider|7|2|2|0|5|83
+Michael Mariot|R|Eric Campbell|R|Walk|F|Two-Seam Fastball|8|2|2|0|11|94
+Michael Mariot|R|Eric Campbell|R|Walk|F|Four-Seam Fastball|9|2|2|0|5|93
+Michael Mariot|R|Eric Campbell|R|Walk|B|Slider|10|2|2|0|14|83
+Michael Mariot|R|Eric Campbell|R|Walk|F|Four-Seam Fastball|11|3|2|0|13|94
+Michael Mariot|R|Eric Campbell|R|Walk|F|Four-Seam Fastball|12|3|2|0|6|95
+Michael Mariot|R|Eric Campbell|R|Walk|B|Two-Seam Fastball|13|3|2|0|11|94
+Michael Mariot|R|Michael Conforto|L|Walk|F|Four-Seam Fastball|14|0|0|0|3|92
+Michael Mariot|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|15|0|1|0|12|93
+Michael Mariot|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|16|1|1|0|14|92
+Michael Mariot|R|Michael Conforto|L|Walk|B|Two-Seam Fastball|17|2|1|0|12|92
+Michael Mariot|R|Michael Conforto|L|Walk|F|Two-Seam Fastball|18|3|1|0|7|93
+Michael Mariot|R|Michael Conforto|L|Walk|F|Four-Seam Fastball|19|3|2|0|2|94
+Michael Mariot|R|Michael Conforto|L|Walk|B|Four-Seam Fastball|20|3|2|0|11|92
+Michael Mariot|R|Lucas Duda|L|Pop Out|C|Slider|21|0|0|0|8|81
+Michael Mariot|R|Lucas Duda|L|Pop Out|X|Two-Seam Fastball|22|0|1|0|11|92
+Michael Mariot|R|Travis d'Arnaud|R|Groundout|B|Four-Seam Fastball|23|0|0|1|13|93
+Michael Mariot|R|Travis d'Arnaud|R|Groundout|S|Four-Seam Fastball|24|1|0|1|1|92
+Michael Mariot|R|Travis d'Arnaud|R|Groundout|C|Two-Seam Fastball|25|1|1|1|12|93
+Michael Mariot|R|Travis d'Arnaud|R|Groundout|X|Four-Seam Fastball|26|1|2|1|5|94
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|0|0|0|0|11|92
+Michael Mariot|R|Jace Peterson|L|Walk|C|Two-Seam Fastball|1|1|0|0|6|91
+Michael Mariot|R|Jace Peterson|L|Walk|B|Curveball|2|1|1|0|11|74
+Michael Mariot|R|Jace Peterson|L|Walk|F|Slider|3|2|1|0|8|80
+Michael Mariot|R|Jace Peterson|L|Walk|F|Two-Seam Fastball|4|2|2|0|13|93
+Michael Mariot|R|Jace Peterson|L|Walk|B|Slider|5|2|2|0|14|84
+Michael Mariot|R|Jace Peterson|L|Walk|B|Two-Seam Fastball|6|3|2|0|13|93
+Michael Mariot|R|Rio Ruiz|L|Double Play|B|Two-Seam Fastball|7|0|0|0|14|91
+Michael Mariot|R|Rio Ruiz|L|Double Play|B|Two-Seam Fastball|8|1|0|0|13|92
+Michael Mariot|R|Rio Ruiz|L|Double Play|C|Two-Seam Fastball|9|2|0|0|13|92
+Michael Mariot|R|Rio Ruiz|L|Double Play|X|Two-Seam Fastball|10|2|1|0|4|91
+Michael Mariot|R|Blake Lalli|L|Double|B|Slider|11|0|0|2|14|83
+Michael Mariot|R|Blake Lalli|L|Double|B|Two-Seam Fastball|12|1|0|2|11|92
+Michael Mariot|R|Blake Lalli|L|Double|F|Two-Seam Fastball|13|2|0|2|11|91
+Michael Mariot|R|Blake Lalli|L|Double|B|Two-Seam Fastball|14|2|1|2|11|92
+Michael Mariot|R|Blake Lalli|L|Double|F|Two-Seam Fastball|15|3|1|2|1|93
+Michael Mariot|R|Blake Lalli|L|Double|F|Two-Seam Fastball|16|3|2|2|5|93
+Michael Mariot|R|Blake Lalli|L|Double|D|Two-Seam Fastball|17|3|2|2|4|93
+Michael Mariot|R|T.J. Rivera|R|Strikeout|C|Slider|0|0|0|0|3|81
+Michael Mariot|R|T.J. Rivera|R|Strikeout|C|Slider|1|0|1|0|11|79
+Michael Mariot|R|T.J. Rivera|R|Strikeout|B|Slider|2|0|2|0|14|81
+Michael Mariot|R|T.J. Rivera|R|Strikeout|S|Four-Seam Fastball|3|1|2|0|12|94
+Michael Mariot|R|Lucas Duda|L|Flyout|B|Two-Seam Fastball|4|0|0|1|14|92
+Michael Mariot|R|Lucas Duda|L|Flyout|C|Slider|5|1|0|1|5|80
+Michael Mariot|R|Lucas Duda|L|Flyout|B|Four-Seam Fastball|6|1|1|1|12|93
+Michael Mariot|R|Lucas Duda|L|Flyout|B|Two-Seam Fastball|7|2|1|1|13|92
+Michael Mariot|R|Lucas Duda|L|Flyout|C|Slider|8|3|1|1|4|80
+Michael Mariot|R|Lucas Duda|L|Flyout|X|Slider|9|3|2|1|7|80
+Michael Mariot|R|Rene Rivera|R|Groundout|X|Two-Seam Fastball|10|0|0|2|6|93
+Michael Mariot|R|Alejandro De Aza|L|Single|B|Slider|11|0|0|0|14|79
+Michael Mariot|R|Alejandro De Aza|L|Single|B|Two-Seam Fastball|12|1|0|0|14|91
+Michael Mariot|R|Alejandro De Aza|L|Single|B|Two-Seam Fastball|13|2|0|0|13|92
+Michael Mariot|R|Alejandro De Aza|L|Single|C|Two-Seam Fastball|14|3|0|0|8|93
+Michael Mariot|R|Alejandro De Aza|L|Single|C|Two-Seam Fastball|15|3|1|0|11|92
+Michael Mariot|R|Alejandro De Aza|L|Single|D|Two-Seam Fastball|16|3|2|0|8|93
+Michael Mariot|R|Jose Reyes|L|Single|F|Two-Seam Fastball|17|0|0|0|4|90
+Michael Mariot|R|Jose Reyes|L|Single|D|Slider|18|0|1|0|3|78
+Michael Mariot|R|Asdrubal Cabrera|L|Pop Out|X|Two-Seam Fastball|19|0|0|0|4|91
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|B|Slider|20|0|0|1|11|82
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|S|Slider|21|1|0|1|14|80
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|F|Slider|22|1|1|1|4|82
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|F|Slider|23|1|2|1|14|81
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|B|Two-Seam Fastball|24|1|2|1|11|93
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|B|Four-Seam Fastball|25|2|2|1|12|93
+Michael Mariot|R|Yoenis Cespedes|R|Forceout|E|Slider|26|3|2|1|5|82
+Michael Mariot|R|Juan Lagares|R|Walk|B|Four-Seam Fastball|0|0|0|0|12|91
+Michael Mariot|R|Juan Lagares|R|Walk|B|Two-Seam Fastball|1|1|0|0|13|92
+Michael Mariot|R|Juan Lagares|R|Walk|F|Two-Seam Fastball|2|2|0|0|2|91
+Michael Mariot|R|Juan Lagares|R|Walk|S|Four-Seam Fastball|3|2|1|0|5|93
+Michael Mariot|R|Juan Lagares|R|Walk|B|Slider|4|2|2|0|11|81
+Michael Mariot|R|Juan Lagares|R|Walk|F|Four-Seam Fastball|5|3|2|0|2|93
+Michael Mariot|R|Juan Lagares|R|Walk|B|Slider|6|3|2|0|14|80
+Michael Mariot|R|Matt Reynolds|R|Flyout|B|Four-Seam Fastball|7|0|0|0|14|90
+Michael Mariot|R|Matt Reynolds|R|Flyout|B|Four-Seam Fastball|8|1|0|0|14|91
+Michael Mariot|R|Matt Reynolds|R|Flyout|C|Four-Seam Fastball|9|2|0|0|7|91
+Michael Mariot|R|Matt Reynolds|R|Flyout|B|Slider|10|2|1|0|14|80
+Michael Mariot|R|Matt Reynolds|R|Flyout|X|Two-Seam Fastball|11|3|1|0|14|91

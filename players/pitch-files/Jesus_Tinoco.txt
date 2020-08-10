@@ -1,0 +1,620 @@
+Jesus Tinoco|R|Eduardo Escobar|L|Sac Fly|F|Sinker|0|0|0|1|13|93
+Jesus Tinoco|R|Eduardo Escobar|L|Sac Fly|C|Sinker|1|0|1|1|14|93
+Jesus Tinoco|R|Eduardo Escobar|L|Sac Fly|F|Sinker|2|0|2|1|13|95
+Jesus Tinoco|R|Eduardo Escobar|L|Sac Fly|E|Slider|3|0|2|1|13|86
+Jesus Tinoco|R|Christian Walker|R|Home Run|E|Four-Seam Fastball|4|0|0|2|7|95
+Jesus Tinoco|R|Adam Jones|R|Single|B|Sinker|5|0|0|2|13|95
+Jesus Tinoco|R|Adam Jones|R|Single|D|Slider|6|1|0|2|13|87
+Jesus Tinoco|R|Jake Lamb|L|Walk|*B|Sinker|7|0|0|2|14|94
+Jesus Tinoco|R|Jake Lamb|L|Walk|C|Sinker|8|1|0|2|13|93
+Jesus Tinoco|R|Jake Lamb|L|Walk|*B|Slider|9|1|1|2|14|87
+Jesus Tinoco|R|Jake Lamb|L|Walk|B|Sinker|10|2|1|2|13|93
+Jesus Tinoco|R|Jake Lamb|L|Walk|*B|Sinker|11|3|1|2|13|94
+Jesus Tinoco|R|Nick Ahmed|R|Strikeout|C|Slider|12|0|0|2|14|87
+Jesus Tinoco|R|Nick Ahmed|R|Strikeout|F|Four-Seam Fastball|13|0|1|2|5|95
+Jesus Tinoco|R|Nick Ahmed|R|Strikeout|B|Sinker|14|0|2|2|13|96
+Jesus Tinoco|R|Nick Ahmed|R|Strikeout|C|Slider|15|1|2|2|14|87
+Jesus Tinoco|R|Alex Avila|L|Walk|B|Curveball|16|0|0|0|11|79
+Jesus Tinoco|R|Alex Avila|L|Walk|B|Sinker|17|1|0|0|14|93
+Jesus Tinoco|R|Alex Avila|L|Walk|B|Sinker|18|2|0|0|13|92
+Jesus Tinoco|R|Alex Avila|L|Walk|B|Four-Seam Fastball|19|3|0|0|14|94
+Jesus Tinoco|R|Zack Greinke|R|Flyout|F|Four-Seam Fastball|20|0|0|0|5|94
+Jesus Tinoco|R|Zack Greinke|R|Flyout|C|Sinker|21|0|1|0|8|94
+Jesus Tinoco|R|Zack Greinke|R|Flyout|X|Slider|22|0|2|0|9|85
+Jesus Tinoco|R|Jarrod Dyson|L|Forceout|B|Sinker|23|0|0|1|13|93
+Jesus Tinoco|R|Jarrod Dyson|L|Forceout|X|Slider|24|1|0|1|8|87
+Jesus Tinoco|R|Ketel Marte|L|Groundout|*B|Sinker|25|0|0|2|13|92
+Jesus Tinoco|R|Ketel Marte|L|Groundout|F|Four-Seam Fastball|26|1|0|2|5|95
+Jesus Tinoco|R|Ketel Marte|L|Groundout|X|Curveball|27|1|1|2|5|82
+Jesus Tinoco|R|Eduardo Escobar|L|Groundout|B|Slider|28|0|0|0|13|85
+Jesus Tinoco|R|Eduardo Escobar|L|Groundout|X|Sinker|29|1|0|0|13|93
+Jesus Tinoco|R|Christian Walker|R|Groundout|F|Four-Seam Fastball|30|0|0|1|4|93
+Jesus Tinoco|R|Christian Walker|R|Groundout|B|Curveball|31|0|1|1|14|81
+Jesus Tinoco|R|Christian Walker|R|Groundout|B|Slider|32|1|1|1|14|89
+Jesus Tinoco|R|Christian Walker|R|Groundout|X|Sinker|33|2|1|1|13|95
+Jesus Tinoco|R|Adam Jones|R|Groundout|B|Sinker|34|0|0|2|14|95
+Jesus Tinoco|R|Adam Jones|R|Groundout|S|Changeup|35|1|0|2|14|90
+Jesus Tinoco|R|Adam Jones|R|Groundout|B|Sinker|36|1|1|2|13|95
+Jesus Tinoco|R|Adam Jones|R|Groundout|X|Slider|37|2|1|2|7|87
+Jesus Tinoco|R|Christian Walker|R|Pop Out|S|Slider|0|0|0|0|14|85
+Jesus Tinoco|R|Christian Walker|R|Pop Out|B|Slider|1|0|1|0|14|86
+Jesus Tinoco|R|Christian Walker|R|Pop Out|B|Sinker|2|1|1|0|14|93
+Jesus Tinoco|R|Christian Walker|R|Pop Out|X|Slider|3|2|1|0|5|87
+Jesus Tinoco|R|Jake Lamb|L|Lineout|B|Slider|4|0|0|1|14|86
+Jesus Tinoco|R|Jake Lamb|L|Lineout|F|Slider|5|1|0|1|4|86
+Jesus Tinoco|R|Jake Lamb|L|Lineout|*B|Sinker|6|1|1|1|13|94
+Jesus Tinoco|R|Jake Lamb|L|Lineout|X|Sinker|7|2|1|1|14|93
+Jesus Tinoco|R|Nick Ahmed|R|Pop Out|B|Sinker|8|0|0|2|14|94
+Jesus Tinoco|R|Nick Ahmed|R|Pop Out|B|Sinker|9|1|0|2|14|94
+Jesus Tinoco|R|Nick Ahmed|R|Pop Out|F|Four-Seam Fastball|10|2|0|2|4|94
+Jesus Tinoco|R|Nick Ahmed|R|Pop Out|X|Slider|11|2|1|2|5|88
+Jesus Tinoco|R|Alex Avila|L|Home Run|B|Sinker|0|0|0|0|14|94
+Jesus Tinoco|R|Alex Avila|L|Home Run|B|Slider|1|1|0|0|14|87
+Jesus Tinoco|R|Alex Avila|L|Home Run|B|Sinker|2|2|0|0|14|93
+Jesus Tinoco|R|Alex Avila|L|Home Run|C|Sinker|3|3|0|0|5|93
+Jesus Tinoco|R|Alex Avila|L|Home Run|E|Sinker|4|3|1|0|4|93
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|C|Sinker|5|0|0|0|13|94
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|B|Slider|6|0|1|0|14|88
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|B|Slider|7|1|1|0|14|88
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|S|Sinker|8|2|1|0|7|93
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|F|Slider|9|2|2|0|13|83
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|B|Curveball|10|2|2|0|14|83
+Jesus Tinoco|R|Ildemaro Vargas|L|Single|D|Sinker|11|3|2|0|13|93
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|B|Sinker|12|0|0|0|13|93
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|B|Sinker|13|1|0|0|11|92
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|C|Sinker|14|2|0|0|13|93
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|B|Sinker|15|2|1|0|11|91
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|F|Sinker|16|3|1|0|4|92
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|X|Sinker|17|3|2|0|11|93
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Sinker|18|0|0|1|13|93
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Slider|19|1|0|1|13|88
+Jesus Tinoco|R|Ketel Marte|L|Walk|C|Sinker|20|2|0|1|7|94
+Jesus Tinoco|R|Ketel Marte|L|Walk|C|Sinker|21|2|1|1|13|93
+Jesus Tinoco|R|Ketel Marte|L|Walk|*B|Sinker|22|2|2|1|13|94
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Sinker|23|3|2|1|11|93
+Jesus Tinoco|R|Buster Posey|R|Home Run|S|Slider|0|0|0|2|7|86
+Jesus Tinoco|R|Buster Posey|R|Home Run|B|Curveball|1|0|1|2|14|81
+Jesus Tinoco|R|Buster Posey|R|Home Run|E|Slider|2|1|1|2|6|87
+Jesus Tinoco|R|Pablo Sandoval|L|Groundout|C|Curveball|3|0|0|2|5|80
+Jesus Tinoco|R|Pablo Sandoval|L|Groundout|B|Sinker|4|0|1|2|11|93
+Jesus Tinoco|R|Pablo Sandoval|L|Groundout|X|Sinker|5|1|1|2|7|93
+Jesus Tinoco|R|Alex Dickerson|L|Double|D|Sinker|6|0|0|0|5|92
+Jesus Tinoco|R|Brandon Crawford|L|Single|F|Slider|7|0|0|0|9|87
+Jesus Tinoco|R|Brandon Crawford|L|Single|E|Sinker|8|0|1|0|6|93
+Jesus Tinoco|R|Mike Yastrzemski|L|Grounded Into DP|B|Slider|9|0|0|0|11|86
+Jesus Tinoco|R|Mike Yastrzemski|L|Grounded Into DP|F|Four-Seam Fastball|10|1|0|0|9|93
+Jesus Tinoco|R|Mike Yastrzemski|L|Grounded Into DP|F|Slider|11|1|1|0|2|87
+Jesus Tinoco|R|Mike Yastrzemski|L|Grounded Into DP|X|Sinker|12|1|2|0|7|94
+Jesus Tinoco|R|Kevin Pillar|R|Groundout|B|Four-Seam Fastball|13|0|0|2|14|94
+Jesus Tinoco|R|Kevin Pillar|R|Groundout|F|Four-Seam Fastball|14|1|0|2|2|94
+Jesus Tinoco|R|Kevin Pillar|R|Groundout|S|Slider|15|1|1|2|9|87
+Jesus Tinoco|R|Kevin Pillar|R|Groundout|F|Slider|16|1|2|2|14|86
+Jesus Tinoco|R|Kevin Pillar|R|Groundout|X|Curveball|17|1|2|2|14|82
+Jesus Tinoco|R|Joe Panik|L|Flyout|B|Sinker|18|0|0|0|13|92
+Jesus Tinoco|R|Joe Panik|L|Flyout|X|Slider|19|1|0|0|5|86
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|20|0|0|1|14|95
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|21|1|0|1|14|94
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|B|Four-Seam Fastball|22|2|0|1|13|94
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|C|Four-Seam Fastball|23|3|0|1|14|92
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|S|Four-Seam Fastball|24|3|1|1|14|93
+Jesus Tinoco|R|Jeff Samardzija|R|Strikeout|C|Four-Seam Fastball|25|3|2|1|8|94
+Jesus Tinoco|R|Brandon Belt|L|Walk|B|Sinker|26|0|0|2|11|95
+Jesus Tinoco|R|Brandon Belt|L|Walk|B|Four-Seam Fastball|27|1|0|2|11|94
+Jesus Tinoco|R|Brandon Belt|L|Walk|C|Slider|28|2|0|2|13|88
+Jesus Tinoco|R|Brandon Belt|L|Walk|B|Sinker|29|2|1|2|11|95
+Jesus Tinoco|R|Brandon Belt|L|Walk|B|Slider|30|3|1|2|13|87
+Jesus Tinoco|R|Buster Posey|R|Lineout|C|Four-Seam Fastball|31|0|0|2|14|95
+Jesus Tinoco|R|Buster Posey|R|Lineout|X|Four-Seam Fastball|32|0|1|2|6|94
+Jesus Tinoco|R|Pablo Sandoval|L|Field Error|D|Sinker|33|0|0|0|14|92
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|B|Slider|34|0|0|0|14|86
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|F|Slider|35|1|0|0|8|87
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|F|Slider|36|1|1|0|8|86
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|B|Sinker|37|1|2|0|13|94
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|F|Sinker|38|2|2|0|8|93
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|B|Sinker|39|2|2|0|13|93
+Jesus Tinoco|R|Alex Dickerson|L|Groundout|X|Sinker|40|3|2|0|13|93
+Jesus Tinoco|R|Brandon Crawford|L|Home Run|*B|Slider|41|0|0|1|13|87
+Jesus Tinoco|R|Brandon Crawford|L|Home Run|E|Sinker|42|1|0|1|2|92
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|B|Curveball|43|0|0|1|14|80
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|B|Slider|44|1|0|1|14|88
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|S|Sinker|45|2|0|1|13|94
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|F|Slider|46|2|1|1|4|87
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|B|Sinker|47|2|2|1|13|95
+Jesus Tinoco|R|Mike Yastrzemski|L|Single|D|Sinker|48|3|2|1|8|94
+Jesus Tinoco|R|Kevin Pillar|R|Double|B|Four-Seam Fastball|49|0|0|1|14|95
+Jesus Tinoco|R|Kevin Pillar|R|Double|*B|Slider|50|1|0|1|14|89
+Jesus Tinoco|R|Kevin Pillar|R|Double|E|Four-Seam Fastball|51|2|0|1|13|93
+Jesus Tinoco|R|Vladimir Guerrero Jr.|R|Double|F|Slider|0|0|0|0|7|90
+Jesus Tinoco|R|Vladimir Guerrero Jr.|R|Double|B|Slider|1|0|1|0|14|89
+Jesus Tinoco|R|Vladimir Guerrero Jr.|R|Double|B|Sinker|2|1|1|0|14|95
+Jesus Tinoco|R|Vladimir Guerrero Jr.|R|Double|D|Sinker|3|2|1|0|7|94
+Jesus Tinoco|R|Brandon Drury|R|Strikeout|C|Slider|4|0|0|0|6|88
+Jesus Tinoco|R|Brandon Drury|R|Strikeout|F|Four-Seam Fastball|5|0|1|0|5|95
+Jesus Tinoco|R|Brandon Drury|R|Strikeout|B|Slider|6|0|2|0|14|89
+Jesus Tinoco|R|Brandon Drury|R|Strikeout|S|Slider|7|1|2|0|6|88
+Jesus Tinoco|R|Lourdes Gurriel Jr.|R|Strikeout|C|Sinker|8|0|0|1|14|97
+Jesus Tinoco|R|Lourdes Gurriel Jr.|R|Strikeout|C|Sinker|9|0|1|1|14|96
+Jesus Tinoco|R|Lourdes Gurriel Jr.|R|Strikeout|*B|Slider|10|0|2|1|14|88
+Jesus Tinoco|R|Lourdes Gurriel Jr.|R|Strikeout|S|Sinker|11|1|2|1|11|96
+Jesus Tinoco|R|Randal Grichuk|R|Groundout|B|Sinker|12|0|0|2|14|96
+Jesus Tinoco|R|Randal Grichuk|R|Groundout|B|Sinker|13|1|0|2|14|96
+Jesus Tinoco|R|Randal Grichuk|R|Groundout|C|Sinker|14|2|0|2|3|96
+Jesus Tinoco|R|Randal Grichuk|R|Groundout|B|Slider|15|2|1|2|14|88
+Jesus Tinoco|R|Randal Grichuk|R|Groundout|X|Sinker|16|3|1|2|9|96
+Jesus Tinoco|R|Fernando Tatis Jr.|R|Groundout|C|Sinker|0|0|0|0|9|95
+Jesus Tinoco|R|Fernando Tatis Jr.|R|Groundout|B|Slider|1|0|1|0|14|87
+Jesus Tinoco|R|Fernando Tatis Jr.|R|Groundout|X|Slider|2|1|1|0|9|88
+Jesus Tinoco|R|Eric Hosmer|L|Groundout|X|Sinker|3|0|0|1|13|96
+Jesus Tinoco|R|Manny Machado|R|Lineout|B|Sinker|4|0|0|2|14|96
+Jesus Tinoco|R|Manny Machado|R|Lineout|X|Slider|5|1|0|2|6|88
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|S|Slider|6|0|0|0|14|87
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|S|Slider|7|0|1|0|14|88
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|B|Slider|8|0|2|0|14|84
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|B|Sinker|9|1|2|0|11|96
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|B|Slider|10|2|2|0|14|87
+Jesus Tinoco|R|Hunter Renfroe|R|Flyout|X|Slider|11|3|2|0|6|87
+Jesus Tinoco|R|Wil Myers|R|Flyout|F|Sinker|12|0|0|1|8|96
+Jesus Tinoco|R|Wil Myers|R|Flyout|F|Slider|13|0|1|1|9|87
+Jesus Tinoco|R|Wil Myers|R|Flyout|B|Slider|14|0|2|1|14|86
+Jesus Tinoco|R|Wil Myers|R|Flyout|X|Sinker|15|1|2|1|1|96
+Jesus Tinoco|R|Greg Garcia|L|Groundout|C|Sinker|16|0|0|2|7|96
+Jesus Tinoco|R|Greg Garcia|L|Groundout|B|Slider|17|0|1|2|13|86
+Jesus Tinoco|R|Greg Garcia|L|Groundout|C|Slider|18|1|1|2|13|87
+Jesus Tinoco|R|Greg Garcia|L|Groundout|B|Curveball|19|1|2|2|8|82
+Jesus Tinoco|R|Greg Garcia|L|Groundout|F|Slider|20|2|2|2|8|86
+Jesus Tinoco|R|Greg Garcia|L|Groundout|X|Sinker|21|2|2|2|13|95
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|B|Slider|22|0|0|0|13|86
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|C|Slider|23|1|0|0|7|87
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|T|Sinker|24|1|1|0|13|95
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|F|Four-Seam Fastball|25|1|2|0|14|96
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|B|Slider|26|1|2|0|14|86
+Jesus Tinoco|R|Austin Hedges|R|Strikeout|S|Slider|27|2|2|0|9|86
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Sinker|28|0|0|1|14|95
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Slider|29|1|0|1|13|87
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Slider|30|2|0|1|13|87
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Sinker|31|3|0|1|13|94
+Jesus Tinoco|R|Manuel Margot|R|Grounded Into DP|B|Slider|32|0|0|1|14|87
+Jesus Tinoco|R|Manuel Margot|R|Grounded Into DP|*B|Sinker|33|1|0|1|14|95
+Jesus Tinoco|R|Manuel Margot|R|Grounded Into DP|C|Sinker|34|2|0|1|14|95
+Jesus Tinoco|R|Manuel Margot|R|Grounded Into DP|X|Four-Seam Fastball|35|2|1|1|8|94
+Jesus Tinoco|R|Cody Bellinger|L|Forceout|E|Sinker|0|0|0|1|8|95
+Jesus Tinoco|R|Max Muncy|L|Single|E|Sinker|1|0|0|2|6|94
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|B|Sinker|2|0|0|2|11|95
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|F|Sinker|3|1|0|2|14|96
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|B|Sinker|4|1|1|2|11|95
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|B|Slider|5|2|1|2|11|88
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|S|Sinker|6|3|1|2|4|95
+Jesus Tinoco|R|Edwin Rios|L|Strikeout|S|Sinker|7|3|2|2|13|94
+Jesus Tinoco|R|Enrique Hernandez|R|Flyout|B|Sinker|8|0|0|0|14|93
+Jesus Tinoco|R|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|9|1|0|0|9|94
+Jesus Tinoco|R|Russell Martin|R|Groundout|X|Sinker|10|0|0|1|5|95
+Jesus Tinoco|R|Julio Urias|L|Flyout|B|Sinker|11|0|0|2|1|95
+Jesus Tinoco|R|Julio Urias|L|Flyout|C|Four-Seam Fastball|12|1|0|2|4|94
+Jesus Tinoco|R|Julio Urias|L|Flyout|B|Sinker|13|1|1|2|11|94
+Jesus Tinoco|R|Julio Urias|L|Flyout|B|Four-Seam Fastball|14|2|1|2|14|94
+Jesus Tinoco|R|Julio Urias|L|Flyout|X|Four-Seam Fastball|15|3|1|2|4|93
+Jesus Tinoco|R|Joc Pederson|L|Groundout|C|Sinker|16|0|0|0|13|94
+Jesus Tinoco|R|Joc Pederson|L|Groundout|S|Slider|17|0|1|0|14|87
+Jesus Tinoco|R|Joc Pederson|L|Groundout|B|Four-Seam Fastball|18|0|2|0|11|95
+Jesus Tinoco|R|Joc Pederson|L|Groundout|B|Slider|19|1|2|0|13|87
+Jesus Tinoco|R|Joc Pederson|L|Groundout|F|Slider|20|2|2|0|7|87
+Jesus Tinoco|R|Joc Pederson|L|Groundout|F|Sinker|21|2|2|0|13|95
+Jesus Tinoco|R|Joc Pederson|L|Groundout|B|Sinker|22|2|2|0|11|95
+Jesus Tinoco|R|Joc Pederson|L|Groundout|X|Sinker|23|3|2|0|11|94
+Jesus Tinoco|R|Matt Beaty|L|Pop Out|B|Curveball|24|0|0|1|12|81
+Jesus Tinoco|R|Matt Beaty|L|Pop Out|S|Sinker|25|1|0|1|13|95
+Jesus Tinoco|R|Matt Beaty|L|Pop Out|B|Sinker|26|1|1|1|13|95
+Jesus Tinoco|R|Matt Beaty|L|Pop Out|F|Slider|27|2|1|1|9|87
+Jesus Tinoco|R|Matt Beaty|L|Pop Out|X|Sinker|28|2|2|1|8|95
+Jesus Tinoco|R|Chris Taylor|R|Double|B|Sinker|29|0|0|2|14|96
+Jesus Tinoco|R|Chris Taylor|R|Double|D|Sinker|30|1|0|2|8|95
+Jesus Tinoco|R|Cody Bellinger|L|Single|B|Four-Seam Fastball|31|0|0|2|14|94
+Jesus Tinoco|R|Cody Bellinger|L|Single|E|Sinker|32|1|0|2|13|94
+Jesus Tinoco|R|Max Muncy|L|Lineout|X|Sinker|33|0|0|2|9|94
+Jesus Tinoco|R|Jose Peraza|R|Home Run|E|Sinker|0|0|0|1|13|94
+Jesus Tinoco|R|Nick Senzel|R|Groundout|B|Curveball|1|0|0|1|14|80
+Jesus Tinoco|R|Nick Senzel|R|Groundout|C|Slider|2|1|0|1|4|87
+Jesus Tinoco|R|Nick Senzel|R|Groundout|X|Slider|3|1|1|1|14|88
+Jesus Tinoco|R|Sonny Gray|R|Strikeout|B|Slider|4|0|0|2|13|87
+Jesus Tinoco|R|Sonny Gray|R|Strikeout|S|Sinker|5|1|0|2|13|94
+Jesus Tinoco|R|Sonny Gray|R|Strikeout|B|Sinker|6|1|1|2|13|94
+Jesus Tinoco|R|Sonny Gray|R|Strikeout|S|Slider|7|2|1|2|13|87
+Jesus Tinoco|R|Sonny Gray|R|Strikeout|S|Slider|8|2|2|2|9|86
+Jesus Tinoco|R|Jake Lamb|L|Flyout|B|Sinker|0|0|0|0|14|93
+Jesus Tinoco|R|Jake Lamb|L|Flyout|C|Sinker|1|1|0|0|9|92
+Jesus Tinoco|R|Jake Lamb|L|Flyout|F|Four-Seam Fastball|2|1|1|0|14|92
+Jesus Tinoco|R|Jake Lamb|L|Flyout|X|Slider|3|1|2|0|1|86
+Jesus Tinoco|R|Josh Rojas|L|Strikeout|C|Curveball|4|0|0|1|2|80
+Jesus Tinoco|R|Josh Rojas|L|Strikeout|F|Sinker|5|0|1|1|13|93
+Jesus Tinoco|R|Josh Rojas|L|Strikeout|S|Curveball|6|0|2|1|7|81
+Jesus Tinoco|R|Nick Ahmed|R|Triple|C|Sinker|7|0|0|2|4|93
+Jesus Tinoco|R|Nick Ahmed|R|Triple|C|Slider|8|0|1|2|7|87
+Jesus Tinoco|R|Nick Ahmed|R|Triple|D|Curveball|9|0|2|2|9|81
+Jesus Tinoco|R|Alex Avila|L|Intent Walk|V|N/A|10|0|0|2|0|0
+Jesus Tinoco|R|Alex Avila|L|Intent Walk|V|N/A|11|0|1|2|0|0
+Jesus Tinoco|R|Alex Avila|L|Intent Walk|V|N/A|12|0|2|2|0|0
+Jesus Tinoco|R|Alex Avila|L|Intent Walk|V|N/A|13|0|2|2|0|0
+Jesus Tinoco|R|Zac Gallen|R|Groundout|X|Four-Seam Fastball|14|0|0|2|8|95
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|B|Slider|15|0|0|0|13|81
+Jesus Tinoco|R|Jarrod Dyson|L|Groundout|X|Sinker|16|1|0|0|8|92
+Jesus Tinoco|R|David Peralta|L|Strikeout|B|Sinker|17|0|0|1|13|92
+Jesus Tinoco|R|David Peralta|L|Strikeout|C|Sinker|18|1|0|1|9|92
+Jesus Tinoco|R|David Peralta|L|Strikeout|S|Curveball|19|1|1|1|8|82
+Jesus Tinoco|R|David Peralta|L|Strikeout|S|Sinker|20|1|2|1|13|94
+Jesus Tinoco|R|Ketel Marte|L|Walk|C|Slider|21|0|0|2|13|82
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Curveball|22|0|1|2|14|82
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Sinker|23|1|1|2|11|94
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Sinker|24|2|1|2|13|93
+Jesus Tinoco|R|Ketel Marte|L|Walk|B|Sinker|25|3|1|2|11|93
+Jesus Tinoco|R|Christian Walker|R|Flyout|B|Sinker|26|0|0|2|13|93
+Jesus Tinoco|R|Christian Walker|R|Flyout|C|Slider|27|1|0|2|3|88
+Jesus Tinoco|R|Christian Walker|R|Flyout|B|Sinker|28|1|1|2|11|93
+Jesus Tinoco|R|Christian Walker|R|Flyout|X|Four-Seam Fastball|29|2|1|2|5|95
+Jesus Tinoco|R|Jake Lamb|L|Flyout|C|Sinker|30|0|0|0|7|90
+Jesus Tinoco|R|Jake Lamb|L|Flyout|F|Slider|31|0|1|0|14|85
+Jesus Tinoco|R|Jake Lamb|L|Flyout|B|Curveball|32|0|2|0|14|82
+Jesus Tinoco|R|Jake Lamb|L|Flyout|B|Sinker|33|1|2|0|11|92
+Jesus Tinoco|R|Jake Lamb|L|Flyout|X|Slider|34|2|2|0|8|86
+Jesus Tinoco|R|Josh Rojas|L|Walk|B|Curveball|35|0|0|1|11|82
+Jesus Tinoco|R|Josh Rojas|L|Walk|B|Sinker|36|1|0|1|11|92
+Jesus Tinoco|R|Josh Rojas|L|Walk|F|Sinker|37|2|0|1|13|92
+Jesus Tinoco|R|Josh Rojas|L|Walk|C|Sinker|38|2|1|1|11|93
+Jesus Tinoco|R|Josh Rojas|L|Walk|B|Sinker|39|2|2|1|13|93
+Jesus Tinoco|R|Josh Rojas|L|Walk|B|Sinker|40|3|2|1|13|93
+Jesus Tinoco|R|Nick Ahmed|R|Groundout|B|Sinker|41|0|0|1|14|93
+Jesus Tinoco|R|Nick Ahmed|R|Groundout|B|Sinker|42|1|0|1|11|92
+Jesus Tinoco|R|Nick Ahmed|R|Groundout|X|Sinker|43|2|0|1|7|92
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|C|Sinker|0|0|0|0|6|92
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|S|Slider|1|0|1|0|14|87
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|B|Slider|2|0|2|0|14|87
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|F|Sinker|3|1|2|0|14|94
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|F|Slider|4|1|2|0|14|89
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|F|Slider|5|1|2|0|14|83
+Jesus Tinoco|R|Jorge Alfaro|R|Flyout|X|Sinker|6|1|2|0|2|94
+Jesus Tinoco|R|Lewis Brinson|R|Groundout|B|Sinker|7|0|0|1|13|95
+Jesus Tinoco|R|Lewis Brinson|R|Groundout|B|Sinker|8|1|0|1|11|95
+Jesus Tinoco|R|Lewis Brinson|R|Groundout|F|Sinker|9|2|0|1|6|94
+Jesus Tinoco|R|Lewis Brinson|R|Groundout|C|Sinker|10|2|1|1|14|95
+Jesus Tinoco|R|Lewis Brinson|R|Groundout|X|Slider|11|2|2|1|14|88
+Jesus Tinoco|R|Isan Diaz|L|Pop Out|C|Sinker|12|0|0|2|14|94
+Jesus Tinoco|R|Isan Diaz|L|Pop Out|B|Sinker|13|0|1|2|13|94
+Jesus Tinoco|R|Isan Diaz|L|Pop Out|X|Slider|14|1|1|2|4|88
+Jesus Tinoco|R|Jon Berti|R|Groundout|B|Slider|15|0|0|0|14|87
+Jesus Tinoco|R|Jon Berti|R|Groundout|C|Slider|16|1|0|0|1|86
+Jesus Tinoco|R|Jon Berti|R|Groundout|B|Slider|17|1|1|0|14|87
+Jesus Tinoco|R|Jon Berti|R|Groundout|F|Sinker|18|2|1|0|6|92
+Jesus Tinoco|R|Jon Berti|R|Groundout|X|Sinker|19|2|2|0|8|93
+Jesus Tinoco|R|Neil Walker|L|Walk|B|Curveball|20|0|0|1|14|82
+Jesus Tinoco|R|Neil Walker|L|Walk|B|Sinker|21|1|0|1|12|93
+Jesus Tinoco|R|Neil Walker|L|Walk|F|Sinker|22|2|0|1|13|93
+Jesus Tinoco|R|Neil Walker|L|Walk|B|Slider|23|2|1|1|13|88
+Jesus Tinoco|R|Neil Walker|L|Walk|F|Sinker|24|3|1|1|8|92
+Jesus Tinoco|R|Neil Walker|L|Walk|F|Sinker|25|3|2|1|9|92
+Jesus Tinoco|R|Neil Walker|L|Walk|B|Sinker|26|3|2|1|11|93
+Jesus Tinoco|R|Brian Anderson|R|Strikeout|B|Sinker|27|0|0|1|14|93
+Jesus Tinoco|R|Brian Anderson|R|Strikeout|F|Sinker|28|1|0|1|5|92
+Jesus Tinoco|R|Brian Anderson|R|Strikeout|B|Sinker|29|1|1|1|13|92
+Jesus Tinoco|R|Brian Anderson|R|Strikeout|S|Four-Seam Fastball|30|2|1|1|3|92
+Jesus Tinoco|R|Brian Anderson|R|Strikeout|T|Sinker|31|2|2|1|7|93
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|B|Sinker|32|0|0|2|14|94
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|C|Sinker|33|1|0|2|12|94
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|F|Slider|34|1|1|2|14|88
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|F|Four-Seam Fastball|35|1|2|2|12|94
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|*B|Slider|36|1|2|2|14|87
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|F|Slider|37|2|2|2|14|88
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|*B|Slider|38|2|2|2|14|83
+Jesus Tinoco|R|Garrett Cooper|R|Strikeout|S|Four-Seam Fastball|39|3|2|2|3|95
+Jesus Tinoco|R|Christian Vazquez|R|Single|S|Slider|0|0|0|2|12|90
+Jesus Tinoco|R|Christian Vazquez|R|Single|B|Slider|1|0|1|2|14|89
+Jesus Tinoco|R|Christian Vazquez|R|Single|B|Sinker|2|1|1|2|12|94
+Jesus Tinoco|R|Christian Vazquez|R|Single|F|Sinker|3|2|1|2|6|93
+Jesus Tinoco|R|Christian Vazquez|R|Single|F|Slider|4|2|2|2|7|82
+Jesus Tinoco|R|Christian Vazquez|R|Single|E|Sinker|5|2|2|2|9|94
+Jesus Tinoco|R|Jackie Bradley Jr.|L|Strikeout|F|Slider|6|0|0|2|8|88
+Jesus Tinoco|R|Jackie Bradley Jr.|L|Strikeout|W|Slider|7|0|1|2|14|89
+Jesus Tinoco|R|Jackie Bradley Jr.|L|Strikeout|W|Slider|8|0|2|2|14|83
+Jesus Tinoco|R|Marco Hernandez|L|Groundout|B|Slider|9|0|0|0|14|88
+Jesus Tinoco|R|Marco Hernandez|L|Groundout|F|Slider|10|1|0|0|2|87
+Jesus Tinoco|R|Marco Hernandez|L|Groundout|X|Sinker|11|1|1|0|13|93
+Jesus Tinoco|R|Mookie Betts|R|Pop Out|B|Sinker|12|0|0|1|14|93
+Jesus Tinoco|R|Mookie Betts|R|Pop Out|F|Sinker|13|1|0|1|2|93
+Jesus Tinoco|R|Mookie Betts|R|Pop Out|F|Sinker|14|1|1|1|9|95
+Jesus Tinoco|R|Mookie Betts|R|Pop Out|B|Slider|15|1|2|1|14|88
+Jesus Tinoco|R|Mookie Betts|R|Pop Out|X|Slider|16|2|2|1|14|87
+Jesus Tinoco|R|Rafael Devers|L|Groundout|X|Sinker|17|0|0|2|13|95
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|C|Sinker|0|0|0|0|12|92
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|F|Sinker|1|0|1|0|7|91
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|B|Slider|2|0|2|0|14|88
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|C|Sinker|3|1|2|0|14|93
+Jesus Tinoco|R|Kevin Newman|R|Home Run|B|Sinker|4|0|0|1|12|94
+Jesus Tinoco|R|Kevin Newman|R|Home Run|S|Slider|5|1|0|1|14|88
+Jesus Tinoco|R|Kevin Newman|R|Home Run|E|Slider|6|1|1|1|7|88
+Jesus Tinoco|R|Bryan Reynolds|L|Strikeout|F|Sinker|7|0|0|1|6|94
+Jesus Tinoco|R|Bryan Reynolds|L|Strikeout|B|Sinker|8|0|1|1|11|93
+Jesus Tinoco|R|Bryan Reynolds|L|Strikeout|F|Slider|9|1|1|1|6|88
+Jesus Tinoco|R|Bryan Reynolds|L|Strikeout|B|Curveball|10|1|2|1|12|82
+Jesus Tinoco|R|Bryan Reynolds|L|Strikeout|S|Slider|11|2|2|1|9|82
+Jesus Tinoco|R|Starling Marte|R|Hit By Pitch|S|Slider|12|0|0|2|14|89
+Jesus Tinoco|R|Starling Marte|R|Hit By Pitch|B|Sinker|13|0|1|2|11|93
+Jesus Tinoco|R|Starling Marte|R|Hit By Pitch|H|Sinker|14|1|1|2|11|93
+Jesus Tinoco|R|Josh Bell|L|Walk|B|Sinker|15|0|0|2|13|94
+Jesus Tinoco|R|Josh Bell|L|Walk|B|Sinker|16|1|0|2|3|92
+Jesus Tinoco|R|Josh Bell|L|Walk|B|Sinker|17|2|0|2|14|92
+Jesus Tinoco|R|Josh Bell|L|Walk|S|Sinker|18|3|0|2|8|93
+Jesus Tinoco|R|Josh Bell|L|Walk|B|Slider|19|3|1|2|13|87
+Jesus Tinoco|R|Colin Moran|L|Groundout|X|Sinker|20|0|0|2|9|92
+Jesus Tinoco|R|Jose Osuna|R|Flyout|B|Curveball|21|0|0|0|14|81
+Jesus Tinoco|R|Jose Osuna|R|Flyout|B|Slider|22|1|0|0|14|87
+Jesus Tinoco|R|Jose Osuna|R|Flyout|B|Sinker|23|2|0|0|14|92
+Jesus Tinoco|R|Jose Osuna|R|Flyout|C|Sinker|24|3|0|0|8|92
+Jesus Tinoco|R|Jose Osuna|R|Flyout|F|Sinker|25|3|1|0|4|91
+Jesus Tinoco|R|Jose Osuna|R|Flyout|X|Sinker|26|3|2|0|11|92
+Jesus Tinoco|R|Adam Frazier|L|Single|B|Sinker|27|0|0|1|11|93
+Jesus Tinoco|R|Adam Frazier|L|Single|F|Sinker|28|1|0|1|4|92
+Jesus Tinoco|R|Adam Frazier|L|Single|C|Sinker|29|1|1|1|7|94
+Jesus Tinoco|R|Adam Frazier|L|Single|D|Slider|30|1|2|1|13|84
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|C|Slider|31|0|0|1|14|88
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|*B|Slider|32|0|1|1|13|87
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|B|Sinker|33|1|1|1|13|93
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|S|Sinker|34|2|1|1|14|93
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|*B|Sinker|35|2|2|1|14|94
+Jesus Tinoco|R|Jacob Stallings|R|Groundout|X|Sinker|36|3|2|1|11|93
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|S|Four-Seam Fastball|37|0|0|2|7|93
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|S|Sinker|38|0|1|2|13|94
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|B|Sinker|39|0|2|2|14|93
+Jesus Tinoco|R|Trevor Williams|R|Strikeout|C|Four-Seam Fastball|40|1|2|2|14|93
+Jesus Tinoco|R|Jose Osuna|R|Groundout|X|Slider|0|0|0|0|4|86
+Jesus Tinoco|R|Elias Diaz|R|Strikeout|C|Slider|1|0|0|1|5|87
+Jesus Tinoco|R|Elias Diaz|R|Strikeout|B|Curveball|2|0|1|1|14|83
+Jesus Tinoco|R|Elias Diaz|R|Strikeout|C|Sinker|3|1|1|1|9|94
+Jesus Tinoco|R|Elias Diaz|R|Strikeout|C|Four-Seam Fastball|4|1|2|1|8|92
+Jesus Tinoco|R|Erik Gonzalez|R|Single|S|Sinker|5|0|0|2|7|94
+Jesus Tinoco|R|Erik Gonzalez|R|Single|B|Slider|6|0|1|2|11|87
+Jesus Tinoco|R|Erik Gonzalez|R|Single|X|Sinker|7|1|1|2|11|94
+Jesus Tinoco|R|Steven Brault|L|Home Run|F|Sinker|8|0|0|0|14|92
+Jesus Tinoco|R|Steven Brault|L|Home Run|F|Slider|9|0|1|0|14|88
+Jesus Tinoco|R|Steven Brault|L|Home Run|B|Slider|10|0|2|0|14|88
+Jesus Tinoco|R|Steven Brault|L|Home Run|B|Slider|11|1|2|0|13|83
+Jesus Tinoco|R|Steven Brault|L|Home Run|E|Four-Seam Fastball|12|2|2|0|6|95
+Jesus Tinoco|R|Adam Frazier|L|Single|D|Sinker|13|0|0|0|7|94
+Jesus Tinoco|R|Bryan Reynolds|L|Forceout|B|Sinker|14|0|0|0|13|93
+Jesus Tinoco|R|Bryan Reynolds|L|Forceout|X|Sinker|15|1|0|0|14|93
+Jesus Tinoco|R|Starling Marte|R|Walk|F|Sinker|16|0|0|1|13|94
+Jesus Tinoco|R|Starling Marte|R|Walk|B|Sinker|17|0|1|1|13|93
+Jesus Tinoco|R|Starling Marte|R|Walk|B|Sinker|18|1|1|1|11|93
+Jesus Tinoco|R|Starling Marte|R|Walk|B|Four-Seam Fastball|19|2|1|1|14|95
+Jesus Tinoco|R|Starling Marte|R|Walk|B|Sinker|20|3|1|1|14|93
+Jesus Tinoco|R|Josh Bell|L|Forceout|F|Sinker|21|0|0|1|14|93
+Jesus Tinoco|R|Josh Bell|L|Forceout|E|Sinker|22|0|1|1|8|94
+Jesus Tinoco|R|Harrison Bader|R|Home Run|C|Sinker|0|0|0|0|1|93
+Jesus Tinoco|R|Harrison Bader|R|Home Run|E|Sinker|1|0|1|0|2|91
+Jesus Tinoco|R|Miles Mikolas|R|Strikeout|C|Sinker|2|0|0|0|6|95
+Jesus Tinoco|R|Miles Mikolas|R|Strikeout|F|Sinker|3|0|1|0|3|94
+Jesus Tinoco|R|Miles Mikolas|R|Strikeout|B|Slider|4|0|2|0|14|89
+Jesus Tinoco|R|Miles Mikolas|R|Strikeout|F|Sinker|5|1|2|0|4|94
+Jesus Tinoco|R|Miles Mikolas|R|Strikeout|S|Slider|6|1|2|0|14|88
+Jesus Tinoco|R|Dexter Fowler|L|Walk|B|Slider|7|0|0|1|14|83
+Jesus Tinoco|R|Dexter Fowler|L|Walk|C|Sinker|8|1|0|1|3|93
+Jesus Tinoco|R|Dexter Fowler|L|Walk|B|Slider|9|1|1|1|14|88
+Jesus Tinoco|R|Dexter Fowler|L|Walk|B|Sinker|10|2|1|1|13|93
+Jesus Tinoco|R|Dexter Fowler|L|Walk|B|Sinker|11|3|1|1|14|94
+Jesus Tinoco|R|Kolten Wong|L|Double|D|Sinker|12|0|0|1|9|94
+Jesus Tinoco|R|Paul DeJong|R|Fielders Choice Out|S|Slider|13|0|0|1|14|88
+Jesus Tinoco|R|Paul DeJong|R|Fielders Choice Out|T|Slider|14|0|1|1|8|88
+Jesus Tinoco|R|Paul DeJong|R|Fielders Choice Out|*B|Four-Seam Fastball|15|0|2|1|14|96
+Jesus Tinoco|R|Paul DeJong|R|Fielders Choice Out|*B|Slider|16|1|2|1|14|87
+Jesus Tinoco|R|Paul DeJong|R|Fielders Choice Out|X|Slider|17|2|2|1|14|89
+Jesus Tinoco|R|Marcell Ozuna|R|Groundout|*B|Slider|18|0|0|2|14|88
+Jesus Tinoco|R|Marcell Ozuna|R|Groundout|*B|Slider|19|1|0|2|14|88
+Jesus Tinoco|R|Marcell Ozuna|R|Groundout|S|Sinker|20|2|0|2|14|94
+Jesus Tinoco|R|Marcell Ozuna|R|Groundout|B|Slider|21|2|1|2|14|88
+Jesus Tinoco|R|Marcell Ozuna|R|Groundout|X|Sinker|22|3|1|2|2|94
+Jesus Tinoco|R|Wil Myers|R|Caught Stealing 2B|C|Slider|0|0|0|2|5|87
+Jesus Tinoco|R|Wil Myers|R|Caught Stealing 2B|B|Four-Seam Fastball|1|0|1|2|14|94
+Jesus Tinoco|R|Wil Myers|R|Caught Stealing 2B|C|Slider|2|1|1|2|6|88
+Jesus Tinoco|R|Wil Myers|R|Strikeout|B|Sinker|3|0|0|0|14|93
+Jesus Tinoco|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|4|1|0|0|9|94
+Jesus Tinoco|R|Wil Myers|R|Strikeout|F|Four-Seam Fastball|5|1|1|0|13|91
+Jesus Tinoco|R|Wil Myers|R|Strikeout|B|Slider|6|1|2|0|14|88
+Jesus Tinoco|R|Wil Myers|R|Strikeout|S|Slider|7|2|2|0|7|85
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Slider|8|0|0|1|13|86
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Sinker|9|1|0|1|13|92
+Jesus Tinoco|R|Josh Naylor|L|Walk|C|Sinker|10|2|0|1|6|92
+Jesus Tinoco|R|Josh Naylor|L|Walk|F|Slider|11|2|1|1|2|86
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Slider|12|2|2|1|14|83
+Jesus Tinoco|R|Josh Naylor|L|Walk|B|Four-Seam Fastball|13|3|2|1|14|94
+Jesus Tinoco|R|Luis Urias|R|Grounded Into DP|F|Sinker|14|0|0|1|14|93
+Jesus Tinoco|R|Luis Urias|R|Grounded Into DP|B|Sinker|15|0|1|1|13|93
+Jesus Tinoco|R|Luis Urias|R|Grounded Into DP|X|Sinker|16|1|1|1|4|94
+Jesus Tinoco|R|Pete Alonso|R|Single|C|Slider|0|0|0|0|9|88
+Jesus Tinoco|R|Pete Alonso|R|Single|D|Sinker|1|0|1|0|8|92
+Jesus Tinoco|R|Robinson Cano|L|Groundout|C|Sinker|2|0|0|0|7|94
+Jesus Tinoco|R|Robinson Cano|L|Groundout|B|Sinker|3|0|1|0|13|94
+Jesus Tinoco|R|Robinson Cano|L|Groundout|B|Sinker|4|1|1|0|11|95
+Jesus Tinoco|R|Robinson Cano|L|Groundout|X|Sinker|5|2|1|0|4|93
+Jesus Tinoco|R|Todd Frazier|R|Walk|B|Slider|6|0|0|1|12|89
+Jesus Tinoco|R|Todd Frazier|R|Walk|*B|Slider|7|1|0|1|14|90
+Jesus Tinoco|R|Todd Frazier|R|Walk|C|Four-Seam Fastball|8|2|0|1|6|95
+Jesus Tinoco|R|Todd Frazier|R|Walk|*B|Slider|9|2|1|1|13|88
+Jesus Tinoco|R|Todd Frazier|R|Walk|B|Four-Seam Fastball|10|3|1|1|14|96
+Jesus Tinoco|R|Tyrone Taylor|R|Fan Interference|B|Sinker|0|0|0|0|14|93
+Jesus Tinoco|R|Tyrone Taylor|R|Fan Interference|C|Sinker|1|1|0|0|9|92
+Jesus Tinoco|R|Tyrone Taylor|R|Fan Interference|B|Slider|2|1|1|0|14|89
+Jesus Tinoco|R|Tyrone Taylor|R|Fan Interference|D|Slider|3|2|1|0|9|87
+Jesus Tinoco|R|Trent Grisham|L|Groundout|*B|Sinker|4|0|0|0|14|95
+Jesus Tinoco|R|Trent Grisham|L|Groundout|X|Sinker|5|1|0|0|5|93
+Jesus Tinoco|R|Manny Pina|R|Flyout|X|Sinker|6|0|0|1|6|94
+Jesus Tinoco|R|Hernan Perez|R|Lineout|B|Sinker|7|0|0|2|13|95
+Jesus Tinoco|R|Hernan Perez|R|Lineout|B|Sinker|8|1|0|2|14|94
+Jesus Tinoco|R|Hernan Perez|R|Lineout|C|Sinker|9|2|0|2|12|96
+Jesus Tinoco|R|Hernan Perez|R|Lineout|X|Sinker|10|2|1|2|5|95
+Jesus Tinoco|R|Alex Bregman|R|Walk|B|Sinker|0|0|0|0|14|94
+Jesus Tinoco|R|Alex Bregman|R|Walk|B|Four-Seam Fastball|1|1|0|0|12|93
+Jesus Tinoco|R|Alex Bregman|R|Walk|B|Sinker|2|2|0|0|14|93
+Jesus Tinoco|R|Alex Bregman|R|Walk|B|Sinker|3|3|0|0|11|93
+Jesus Tinoco|R|Yordan Alvarez|L|Strikeout|B|Sinker|4|0|0|0|9|94
+Jesus Tinoco|R|Yordan Alvarez|L|Strikeout|C|Sinker|5|1|0|0|5|93
+Jesus Tinoco|R|Yordan Alvarez|L|Strikeout|F|Slider|6|1|1|0|14|88
+Jesus Tinoco|R|Yordan Alvarez|L|Strikeout|S|Sinker|7|1|2|0|13|93
+Jesus Tinoco|R|Carlos Correa|R|Strikeout|C|Sinker|8|0|0|1|13|93
+Jesus Tinoco|R|Carlos Correa|R|Strikeout|F|Slider|9|0|1|1|4|87
+Jesus Tinoco|R|Carlos Correa|R|Strikeout|S|Sinker|10|0|2|1|13|93
+Jesus Tinoco|R|Yuli Gurriel|R|Double|B|Sinker|11|0|0|2|7|94
+Jesus Tinoco|R|Yuli Gurriel|R|Double|S|Sinker|12|1|0|2|13|93
+Jesus Tinoco|R|Yuli Gurriel|R|Double|E|Sinker|13|1|1|2|5|93
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|B|Slider|14|0|0|2|13|87
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|S|Slider|15|1|0|2|5|87
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|S|Sinker|16|1|1|2|13|93
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|B|Curveball|17|1|2|2|14|83
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|F|Sinker|18|2|2|2|4|93
+Jesus Tinoco|R|Aledmys Diaz|R|Strikeout|S|Slider|19|2|2|2|14|88
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|B|Sinker|20|0|0|0|13|92
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|C|Slider|21|1|0|0|14|86
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|C|Sinker|22|1|1|0|7|92
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|B|Sinker|23|1|2|0|14|94
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|B|Sinker|24|2|2|0|13|93
+Jesus Tinoco|R|Martin Maldonado|R|Strikeout|S|Sinker|25|3|2|0|13|93
+Jesus Tinoco|R|Jake Marisnick|R|Strikeout|C|Slider|26|0|0|1|7|88
+Jesus Tinoco|R|Jake Marisnick|R|Strikeout|B|Sinker|27|0|1|1|13|93
+Jesus Tinoco|R|Jake Marisnick|R|Strikeout|F|Slider|28|1|1|1|14|87
+Jesus Tinoco|R|Jake Marisnick|R|Strikeout|T|Sinker|29|1|2|1|5|95
+Jesus Tinoco|R|Jose Altuve|R|Strikeout|F|Slider|30|0|0|2|12|88
+Jesus Tinoco|R|Jose Altuve|R|Strikeout|F|Sinker|31|0|1|2|11|94
+Jesus Tinoco|R|Jose Altuve|R|Strikeout|S|Slider|32|0|2|2|14|84
+Jesus Tinoco|R|Michael Brantley|L|Walk|B|Sinker|33|0|0|0|14|91
+Jesus Tinoco|R|Michael Brantley|L|Walk|B|Sinker|34|1|0|0|13|91
+Jesus Tinoco|R|Michael Brantley|L|Walk|C|Sinker|35|2|0|0|9|92
+Jesus Tinoco|R|Michael Brantley|L|Walk|B|Sinker|36|2|1|0|14|92
+Jesus Tinoco|R|Michael Brantley|L|Walk|F|Sinker|37|3|1|0|14|92
+Jesus Tinoco|R|Michael Brantley|L|Walk|B|Sinker|38|3|2|0|11|93
+Jesus Tinoco|R|Alex Bregman|R|Lineout|S|Sinker|39|0|0|0|13|92
+Jesus Tinoco|R|Alex Bregman|R|Lineout|C|Sinker|40|0|1|0|14|92
+Jesus Tinoco|R|Alex Bregman|R|Lineout|X|Sinker|41|0|2|0|13|93
+Jesus Tinoco|R|Yordan Alvarez|L|Single|C|Sinker|42|0|0|1|13|93
+Jesus Tinoco|R|Yordan Alvarez|L|Single|F|Sinker|43|0|1|1|5|93
+Jesus Tinoco|R|Yordan Alvarez|L|Single|B|Slider|44|0|2|1|14|84
+Jesus Tinoco|R|Yordan Alvarez|L|Single|D|Slider|45|1|2|1|6|83
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Sinker|46|0|0|1|13|93
+Jesus Tinoco|R|Carlos Correa|R|Walk|B|Slider|47|0|1|1|14|88
+Jesus Tinoco|R|Carlos Correa|R|Walk|B|Sinker|48|1|1|1|12|94
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Sinker|49|2|1|1|4|93
+Jesus Tinoco|R|Carlos Correa|R|Walk|B|Slider|50|2|2|1|14|88
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Sinker|51|3|2|1|13|94
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Sinker|52|3|2|1|11|94
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Slider|53|3|2|1|14|88
+Jesus Tinoco|R|Carlos Correa|R|Walk|F|Sinker|54|3|2|1|13|93
+Jesus Tinoco|R|Carlos Correa|R|Walk|B|Slider|55|3|2|1|14|88
+Jesus Tinoco|R|Joc Pederson|L|Pop Out|B|Slider|0|0|0|2|13|85
+Jesus Tinoco|R|Joc Pederson|L|Pop Out|B|Sinker|1|1|0|2|13|95
+Jesus Tinoco|R|Joc Pederson|L|Pop Out|X|Sinker|2|2|0|2|7|94
+Jesus Tinoco|R|Alex Verdugo|L|Home Run|B|Sinker|3|0|0|0|13|93
+Jesus Tinoco|R|Alex Verdugo|L|Home Run|F|Sinker|4|1|0|0|4|93
+Jesus Tinoco|R|Alex Verdugo|L|Home Run|E|Sinker|5|1|1|0|2|94
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|B|Sinker|0|0|0|2|11|93
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|C|Slider|1|1|0|2|3|87
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|F|Slider|2|1|1|2|13|86
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|F|Sinker|3|1|2|2|5|93
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|*B|Slider|4|1|2|2|14|86
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|B|Sinker|5|2|2|2|14|93
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|F|Slider|6|3|2|2|14|88
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|F|Four-Seam Fastball|7|3|2|2|9|93
+Jesus Tinoco|R|Chris Taylor|R|Pop Out|X|Sinker|8|3|2|2|4|93
+Jesus Tinoco|R|Matt Beaty|L|Home Run|E|Sinker|9|0|0|0|8|91
+Jesus Tinoco|R|Will Smith|R|Walk|B|Slider|10|0|0|0|14|87
+Jesus Tinoco|R|Will Smith|R|Walk|F|Sinker|11|1|0|0|2|90
+Jesus Tinoco|R|Will Smith|R|Walk|B|Slider|12|1|1|0|14|86
+Jesus Tinoco|R|Will Smith|R|Walk|B|Sinker|13|2|1|0|14|91
+Jesus Tinoco|R|Will Smith|R|Walk|*B|Sinker|14|3|1|0|14|91
+Jesus Tinoco|R|Nick Martini|L|Groundout|C|Sinker|0|0|0|0|9|91
+Jesus Tinoco|R|Nick Martini|L|Groundout|B|Sinker|1|0|1|0|13|91
+Jesus Tinoco|R|Nick Martini|L|Groundout|X|Sinker|2|1|1|0|13|86
+Jesus Tinoco|R|Manny Machado|R|Walk|B|Sinker|3|0|0|1|14|94
+Jesus Tinoco|R|Manny Machado|R|Walk|B|Sinker|4|1|0|1|14|93
+Jesus Tinoco|R|Manny Machado|R|Walk|B|Sinker|5|2|0|1|14|94
+Jesus Tinoco|R|Manny Machado|R|Walk|B|Sinker|6|3|0|1|13|92
+Jesus Tinoco|R|Brandon Crawford|L|Flyout|X|Sinker|0|0|0|1|3|91
+Jesus Tinoco|R|Mauricio Dubon|R|Single|F|Curveball|1|0|0|2|6|80
+Jesus Tinoco|R|Mauricio Dubon|R|Single|F|Sinker|2|0|1|2|4|93
+Jesus Tinoco|R|Mauricio Dubon|R|Single|D|Curveball|3|0|2|2|13|81
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|B|Curveball|4|0|0|2|14|81
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|B|Four-Seam Fastball|5|1|0|2|14|92
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|C|Sinker|6|2|0|2|7|92
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|B|Sinker|7|2|1|2|13|91
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|S|Sinker|8|3|1|2|13|93
+Jesus Tinoco|R|Madison Bumgarner|R|Strikeout|S|Sinker|9|3|2|2|13|93
+Jesus Tinoco|R|Evan Longoria|R|Flyout|C|Sinker|0|0|0|0|14|93
+Jesus Tinoco|R|Evan Longoria|R|Flyout|B|Curveball|1|0|1|0|14|82
+Jesus Tinoco|R|Evan Longoria|R|Flyout|B|Slider|2|1|1|0|14|87
+Jesus Tinoco|R|Evan Longoria|R|Flyout|C|Sinker|3|2|1|0|9|94
+Jesus Tinoco|R|Evan Longoria|R|Flyout|B|Sinker|4|2|2|0|12|95
+Jesus Tinoco|R|Evan Longoria|R|Flyout|F|Four-Seam Fastball|5|3|2|0|6|94
+Jesus Tinoco|R|Evan Longoria|R|Flyout|F|Slider|6|3|2|0|14|87
+Jesus Tinoco|R|Evan Longoria|R|Flyout|F|Four-Seam Fastball|7|3|2|0|9|94
+Jesus Tinoco|R|Evan Longoria|R|Flyout|F|Sinker|8|3|2|0|5|94
+Jesus Tinoco|R|Evan Longoria|R|Flyout|X|Slider|9|3|2|0|9|87
+Jesus Tinoco|R|Mike Yastrzemski|L|Home Run|F|Sinker|10|0|0|1|13|94
+Jesus Tinoco|R|Mike Yastrzemski|L|Home Run|B|Slider|11|0|1|1|13|86
+Jesus Tinoco|R|Mike Yastrzemski|L|Home Run|B|Sinker|12|1|1|1|14|94
+Jesus Tinoco|R|Mike Yastrzemski|L|Home Run|E|Sinker|13|2|1|1|5|92
+Jesus Tinoco|R|Jaylin Davis|R|Flyout|X|Curveball|14|0|0|1|7|82
+Jesus Tinoco|R|Cristhian Adames|L|Groundout|B|Slider|15|0|0|2|13|83
+Jesus Tinoco|R|Cristhian Adames|L|Groundout|F|Sinker|16|1|0|2|13|94
+Jesus Tinoco|R|Cristhian Adames|L|Groundout|B|Slider|17|1|1|2|13|87
+Jesus Tinoco|R|Cristhian Adames|L|Groundout|B|Slider|18|2|1|2|13|88
+Jesus Tinoco|R|Cristhian Adames|L|Groundout|X|Slider|19|3|1|2|14|86
+Jesus Tinoco|R|Aramis Garcia|R|Strikeout|B|Sinker|20|0|0|0|14|92
+Jesus Tinoco|R|Aramis Garcia|R|Strikeout|S|Slider|21|1|0|0|14|86
+Jesus Tinoco|R|Aramis Garcia|R|Strikeout|C|Four-Seam Fastball|22|1|1|0|9|92
+Jesus Tinoco|R|Aramis Garcia|R|Strikeout|F|Slider|23|1|2|0|14|85
+Jesus Tinoco|R|Aramis Garcia|R|Strikeout|W|Curveball|24|1|2|0|14|82
+Jesus Tinoco|R|Alex Dickerson|L|Double|B|Curveball|25|0|0|1|11|80
+Jesus Tinoco|R|Alex Dickerson|L|Double|D|Sinker|26|1|0|1|13|92
+Jesus Tinoco|R|Mauricio Dubon|R|Single|F|Slider|27|0|0|1|13|86
+Jesus Tinoco|R|Mauricio Dubon|R|Single|C|Four-Seam Fastball|28|0|1|1|9|94
+Jesus Tinoco|R|Mauricio Dubon|R|Single|*B|Slider|29|0|2|1|14|87
+Jesus Tinoco|R|Mauricio Dubon|R|Single|B|Slider|30|1|2|1|14|86
+Jesus Tinoco|R|Mauricio Dubon|R|Single|E|Four-Seam Fastball|31|2|2|1|12|94
+Jesus Tinoco|R|Brandon Belt|L|Groundout|X|Sinker|32|0|0|1|9|94
+Jesus Tinoco|R|Kevin Pillar|R|Strikeout|F|Slider|33|0|0|2|13|88
+Jesus Tinoco|R|Kevin Pillar|R|Strikeout|F|Slider|34|0|1|2|14|84
+Jesus Tinoco|R|Kevin Pillar|R|Strikeout|W|Slider|35|0|2|2|14|83
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|C|Sinker|0|0|0|2|14|92
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|*B|Slider|1|0|1|2|14|85
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|B|Sinker|2|1|1|2|14|92
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|*B|Sinker|3|2|1|2|14|91
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|S|Sinker|4|3|1|2|9|93
+Jesus Tinoco|R|Marcell Ozuna|R|Walk|B|Sinker|5|3|2|2|13|94
+Jesus Tinoco|R|Paul DeJong|R|Single|B|Sinker|6|0|0|2|14|93
+Jesus Tinoco|R|Paul DeJong|R|Single|*B|Slider|7|1|0|2|14|89
+Jesus Tinoco|R|Paul DeJong|R|Single|C|Four-Seam Fastball|8|2|0|2|4|92
+Jesus Tinoco|R|Paul DeJong|R|Single|D|Sinker|9|2|1|2|14|93
+Jesus Tinoco|R|Yadier Molina|R|Flyout|F|Sinker|10|0|0|2|8|92
+Jesus Tinoco|R|Yadier Molina|R|Flyout|B|Sinker|11|0|1|2|11|92
+Jesus Tinoco|R|Yadier Molina|R|Flyout|X|Curveball|12|1|1|2|14|82
+Jesus Tinoco|R|Matt Carpenter|L|Home Run|B|Sinker|13|0|0|0|11|91
+Jesus Tinoco|R|Matt Carpenter|L|Home Run|F|Sinker|14|1|0|0|7|86
+Jesus Tinoco|R|Matt Carpenter|L|Home Run|E|Sinker|15|1|1|0|7|92
+Jesus Tinoco|R|Harrison Bader|R|Flyout|C|Slider|16|0|0|0|2|86
+Jesus Tinoco|R|Harrison Bader|R|Flyout|X|Curveball|17|0|1|0|8|80
+Jesus Tinoco|R|Michael Wacha|R|Lineout|B|Sinker|18|0|0|1|14|91
+Jesus Tinoco|R|Michael Wacha|R|Lineout|B|Sinker|19|1|0|1|13|91
+Jesus Tinoco|R|Michael Wacha|R|Lineout|C|Four-Seam Fastball|20|2|0|1|7|92
+Jesus Tinoco|R|Michael Wacha|R|Lineout|X|Four-Seam Fastball|21|2|1|1|5|91
+Jesus Tinoco|R|Dexter Fowler|L|Groundout|B|Sinker|22|0|0|2|13|94
+Jesus Tinoco|R|Dexter Fowler|L|Groundout|X|Sinker|23|1|0|2|7|92
+Jesus Tinoco|R|Tommy Edman|L|Walk|C|Slider|24|0|0|0|1|86
+Jesus Tinoco|R|Tommy Edman|L|Walk|B|Sinker|25|0|1|0|14|91
+Jesus Tinoco|R|Tommy Edman|L|Walk|B|Sinker|26|1|1|0|14|87
+Jesus Tinoco|R|Tommy Edman|L|Walk|B|Sinker|27|2|1|0|14|92
+Jesus Tinoco|R|Tommy Edman|L|Walk|B|Four-Seam Fastball|28|3|1|0|14|92
+Jesus Tinoco|R|Paul Goldschmidt|R|Lineout|X|Sinker|29|0|0|0|6|94
+Jesus Tinoco|R|Marcell Ozuna|R|Strikeout|S|Slider|30|0|0|1|6|89
+Jesus Tinoco|R|Marcell Ozuna|R|Strikeout|F|Slider|31|0|1|1|2|88
+Jesus Tinoco|R|Marcell Ozuna|R|Strikeout|*B|Slider|32|0|2|1|14|83
+Jesus Tinoco|R|Marcell Ozuna|R|Strikeout|S|Slider|33|1|2|1|14|88
+Jesus Tinoco|R|Paul DeJong|R|Walk|*B|Curveball|34|0|0|2|14|82
+Jesus Tinoco|R|Paul DeJong|R|Walk|B|Slider|35|1|0|2|11|88
+Jesus Tinoco|R|Paul DeJong|R|Walk|F|Four-Seam Fastball|36|2|0|2|6|95
+Jesus Tinoco|R|Paul DeJong|R|Walk|B|Four-Seam Fastball|37|2|1|2|12|95
+Jesus Tinoco|R|Paul DeJong|R|Walk|B|Sinker|38|3|1|2|12|94
+Jesus Tinoco|R|Yadier Molina|R|Caught Stealing 3B|B|Four-Seam Fastball|39|0|0|2|14|95

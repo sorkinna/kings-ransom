@@ -1,0 +1,960 @@
+Nick Margevicius|L|Alex Avila|L|Strikeout|F|Four-Seam Fastball|0|0|0|2|8|88
+Nick Margevicius|L|Alex Avila|L|Strikeout|B|Curveball|1|0|1|2|12|71
+Nick Margevicius|L|Alex Avila|L|Strikeout|T|Curveball|2|1|1|2|14|69
+Nick Margevicius|L|Alex Avila|L|Strikeout|F|Curveball|3|1|2|2|9|69
+Nick Margevicius|L|Alex Avila|L|Strikeout|B|Slider|4|1|2|2|13|80
+Nick Margevicius|L|Alex Avila|L|Strikeout|B|Slider|5|2|2|2|14|81
+Nick Margevicius|L|Alex Avila|L|Strikeout|F|Four-Seam Fastball|6|3|2|2|4|88
+Nick Margevicius|L|Alex Avila|L|Strikeout|S|Four-Seam Fastball|7|3|2|2|12|89
+Nick Margevicius|L|Caleb Joseph|R|Single|B|Four-Seam Fastball|8|0|0|0|12|87
+Nick Margevicius|L|Caleb Joseph|R|Single|D|Four-Seam Fastball|9|1|0|0|9|87
+Nick Margevicius|L|Jarrod Dyson|L|Strikeout|C|Four-Seam Fastball|10|0|0|0|6|88
+Nick Margevicius|L|Jarrod Dyson|L|Strikeout|B|Slider|11|0|1|0|13|80
+Nick Margevicius|L|Jarrod Dyson|L|Strikeout|B|Four-Seam Fastball|12|1|1|0|14|87
+Nick Margevicius|L|Jarrod Dyson|L|Strikeout|F|Four-Seam Fastball|13|2|1|0|3|87
+Nick Margevicius|L|Jarrod Dyson|L|Strikeout|S|Four-Seam Fastball|14|2|2|0|6|89
+Nick Margevicius|L|Josh Rojas|L|Single|B|Slider|15|0|0|1|13|80
+Nick Margevicius|L|Josh Rojas|L|Single|B|Four-Seam Fastball|16|1|0|1|11|87
+Nick Margevicius|L|Josh Rojas|L|Single|D|Four-Seam Fastball|17|2|0|1|5|89
+Nick Margevicius|L|Ketel Marte|R|Double|E|Curveball|18|0|0|1|8|73
+Nick Margevicius|L|Eduardo Escobar|R|Pop Out|B|Curveball|19|0|0|1|12|73
+Nick Margevicius|L|Eduardo Escobar|R|Pop Out|X|Four-Seam Fastball|20|1|0|1|4|88
+Nick Margevicius|L|Christian Walker|R|Groundout|C|Four-Seam Fastball|21|0|0|2|12|89
+Nick Margevicius|L|Christian Walker|R|Groundout|B|Curveball|22|0|1|2|14|73
+Nick Margevicius|L|Christian Walker|R|Groundout|X|Changeup|23|1|1|2|14|80
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|0|0|0|0|13|87
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|B|Four-Seam Fastball|1|1|0|0|12|86
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|2|2|0|0|14|85
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|C|Four-Seam Fastball|3|2|1|0|14|87
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|F|Four-Seam Fastball|4|2|2|0|6|88
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|F|Slider|5|2|2|0|3|82
+Nick Margevicius|L|Charlie Blackmon|L|Strikeout|S|Slider|6|2|2|0|8|80
+Nick Margevicius|L|Trevor Story|R|Pop Out|B|Four-Seam Fastball|7|0|0|1|12|88
+Nick Margevicius|L|Trevor Story|R|Pop Out|F|Four-Seam Fastball|8|1|0|1|6|88
+Nick Margevicius|L|Trevor Story|R|Pop Out|B|Slider|9|1|1|1|12|78
+Nick Margevicius|L|Trevor Story|R|Pop Out|X|Slider|10|2|1|1|5|77
+Nick Margevicius|L|David Dahl|L|Double|B|Four-Seam Fastball|11|0|0|2|12|88
+Nick Margevicius|L|David Dahl|L|Double|S|Slider|12|1|0|2|13|77
+Nick Margevicius|L|David Dahl|L|Double|S|Slider|13|1|1|2|13|81
+Nick Margevicius|L|David Dahl|L|Double|D|Slider|14|1|2|2|7|81
+Nick Margevicius|L|Nolan Arenado|R|Intent Walk|B|Four-Seam Fastball|15|0|0|2|14|89
+Nick Margevicius|L|Nolan Arenado|R|Intent Walk|B|Four-Seam Fastball|16|1|0|2|12|89
+Nick Margevicius|L|Nolan Arenado|R|Intent Walk|V|N/A|17|2|0|2|0|0
+Nick Margevicius|L|Nolan Arenado|R|Intent Walk|V|N/A|18|2|1|2|0|0
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|B|Slider|19|0|0|2|12|80
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|F|Slider|20|1|0|2|8|80
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|*B|Slider|21|1|1|2|13|82
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|C|Four-Seam Fastball|22|2|1|2|6|89
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|C|Four-Seam Fastball|23|2|2|2|9|89
+Nick Margevicius|L|Raimel Tapia|L|Double|B|Four-Seam Fastball|24|0|0|0|14|87
+Nick Margevicius|L|Raimel Tapia|L|Double|B|Four-Seam Fastball|25|1|0|0|14|86
+Nick Margevicius|L|Raimel Tapia|L|Double|D|Four-Seam Fastball|26|2|0|0|3|87
+Nick Margevicius|L|Ryan McMahon|L|Double|B|Slider|27|0|0|0|11|81
+Nick Margevicius|L|Ryan McMahon|L|Double|S|Four-Seam Fastball|28|1|0|0|4|87
+Nick Margevicius|L|Ryan McMahon|L|Double|S|Slider|29|1|1|0|5|81
+Nick Margevicius|L|Ryan McMahon|L|Double|E|Slider|30|1|2|0|4|81
+Nick Margevicius|L|Tony Wolters|L|Single|E|Four-Seam Fastball|31|0|0|0|1|89
+Nick Margevicius|L|Antonio Senzatela|R|Sac Bunt|L|Four-Seam Fastball|32|0|0|0|5|87
+Nick Margevicius|L|Antonio Senzatela|R|Sac Bunt|B|Four-Seam Fastball|33|0|1|0|14|87
+Nick Margevicius|L|Antonio Senzatela|R|Sac Bunt|X|Four-Seam Fastball|34|1|1|0|12|87
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|*B|Slider|35|0|0|1|13|81
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|E|Slider|36|1|0|1|5|81
+Nick Margevicius|L|Trevor Story|R|Flyout|B|Curveball|37|0|0|1|13|71
+Nick Margevicius|L|Trevor Story|R|Flyout|S|Curveball|38|1|0|1|13|73
+Nick Margevicius|L|Trevor Story|R|Flyout|B|Changeup|39|1|1|1|12|78
+Nick Margevicius|L|Trevor Story|R|Flyout|B|Four-Seam Fastball|40|2|1|1|12|87
+Nick Margevicius|L|Trevor Story|R|Flyout|F|Four-Seam Fastball|41|3|1|1|8|89
+Nick Margevicius|L|Trevor Story|R|Flyout|X|Four-Seam Fastball|42|3|2|1|2|89
+Nick Margevicius|L|David Dahl|L|Strikeout|S|Four-Seam Fastball|43|0|0|2|3|90
+Nick Margevicius|L|David Dahl|L|Strikeout|F|Four-Seam Fastball|44|0|1|2|4|90
+Nick Margevicius|L|David Dahl|L|Strikeout|B|Four-Seam Fastball|45|0|2|2|11|89
+Nick Margevicius|L|David Dahl|L|Strikeout|F|Curveball|46|1|2|2|14|72
+Nick Margevicius|L|David Dahl|L|Strikeout|B|Curveball|47|1|2|2|13|74
+Nick Margevicius|L|David Dahl|L|Strikeout|F|Four-Seam Fastball|48|2|2|2|11|89
+Nick Margevicius|L|David Dahl|L|Strikeout|C|Four-Seam Fastball|49|2|2|2|8|90
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|50|0|0|0|13|88
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|C|Curveball|51|0|1|0|5|70
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|F|Changeup|52|0|2|0|9|81
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|F|Four-Seam Fastball|53|0|2|0|11|90
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|B|Curveball|54|0|2|0|13|73
+Nick Margevicius|L|Nolan Arenado|R|Strikeout|S|Slider|55|1|2|0|12|82
+Nick Margevicius|L|Mark Reynolds|R|Flyout|X|Curveball|56|0|0|1|5|71
+Nick Margevicius|L|Raimel Tapia|L|Single|B|Curveball|57|0|0|2|14|71
+Nick Margevicius|L|Raimel Tapia|L|Single|C|Four-Seam Fastball|58|1|0|2|4|89
+Nick Margevicius|L|Raimel Tapia|L|Single|B|Curveball|59|1|1|2|12|70
+Nick Margevicius|L|Raimel Tapia|L|Single|D|Slider|60|2|1|2|8|80
+Nick Margevicius|L|Ryan McMahon|L|Flyout|X|Curveball|61|0|0|2|2|72
+Nick Margevicius|L|Tony Wolters|L|Lineout|C|Four-Seam Fastball|62|0|0|0|4|88
+Nick Margevicius|L|Tony Wolters|L|Lineout|S|Curveball|63|0|1|0|5|70
+Nick Margevicius|L|Tony Wolters|L|Lineout|B|Slider|64|0|2|0|13|81
+Nick Margevicius|L|Tony Wolters|L|Lineout|X|Curveball|65|1|2|0|7|72
+Nick Margevicius|L|Antonio Senzatela|R|Strikeout|F|Four-Seam Fastball|66|0|0|1|3|88
+Nick Margevicius|L|Antonio Senzatela|R|Strikeout|S|Curveball|67|0|1|1|13|72
+Nick Margevicius|L|Antonio Senzatela|R|Strikeout|B|Four-Seam Fastball|68|0|2|1|12|89
+Nick Margevicius|L|Antonio Senzatela|R|Strikeout|S|Curveball|69|1|2|1|6|73
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|C|Four-Seam Fastball|70|0|0|2|5|89
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|B|Curveball|71|0|1|2|12|72
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|B|Curveball|72|1|1|2|13|70
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|B|Four-Seam Fastball|73|2|1|2|14|89
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|E|Four-Seam Fastball|74|3|1|2|5|87
+Nick Margevicius|L|Trevor Story|R|Groundout|S|Changeup|75|0|0|2|4|78
+Nick Margevicius|L|Trevor Story|R|Groundout|B|Changeup|76|0|1|2|13|79
+Nick Margevicius|L|Trevor Story|R|Groundout|C|Four-Seam Fastball|77|1|1|2|8|90
+Nick Margevicius|L|Trevor Story|R|Groundout|X|Curveball|78|1|2|2|9|73
+Nick Margevicius|L|David Dahl|L|Single|C|Four-Seam Fastball|79|0|0|0|8|88
+Nick Margevicius|L|David Dahl|L|Single|B|Four-Seam Fastball|80|0|1|0|13|88
+Nick Margevicius|L|David Dahl|L|Single|B|Slider|81|1|1|0|13|81
+Nick Margevicius|L|David Dahl|L|Single|F|Curveball|82|2|1|0|13|70
+Nick Margevicius|L|David Dahl|L|Single|X|Four-Seam Fastball|83|2|2|0|12|88
+Nick Margevicius|L|Nolan Arenado|R|Lineout|S|Changeup|84|0|0|1|5|78
+Nick Margevicius|L|Nolan Arenado|R|Lineout|S|Changeup|85|0|1|1|12|79
+Nick Margevicius|L|Nolan Arenado|R|Lineout|F|Four-Seam Fastball|86|0|2|1|12|90
+Nick Margevicius|L|Nolan Arenado|R|Lineout|F|Curveball|87|0|2|1|12|73
+Nick Margevicius|L|Nolan Arenado|R|Lineout|X|Changeup|88|0|2|1|13|80
+Nick Margevicius|L|Mark Reynolds|R|Lineout|B|Four-Seam Fastball|89|0|0|2|14|88
+Nick Margevicius|L|Mark Reynolds|R|Lineout|F|Slider|90|1|0|2|5|81
+Nick Margevicius|L|Mark Reynolds|R|Lineout|B|Four-Seam Fastball|91|1|1|2|12|89
+Nick Margevicius|L|Mark Reynolds|R|Lineout|S|Slider|92|2|1|2|5|79
+Nick Margevicius|L|Mark Reynolds|R|Lineout|X|Four-Seam Fastball|93|2|2|2|4|89
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|B|Four-Seam Fastball|0|0|0|0|14|86
+Nick Margevicius|L|Charlie Blackmon|L|Home Run|E|Four-Seam Fastball|1|1|0|0|5|87
+Nick Margevicius|L|Trevor Story|R|Groundout|B|Four-Seam Fastball|2|0|0|0|12|88
+Nick Margevicius|L|Trevor Story|R|Groundout|S|Curveball|3|1|0|0|9|71
+Nick Margevicius|L|Trevor Story|R|Groundout|B|Changeup|4|1|1|0|12|78
+Nick Margevicius|L|Trevor Story|R|Groundout|X|Four-Seam Fastball|5|2|1|0|2|88
+Nick Margevicius|L|Nolan Arenado|R|Walk|B|Four-Seam Fastball|6|0|0|1|14|87
+Nick Margevicius|L|Nolan Arenado|R|Walk|B|Slider|7|1|0|1|13|80
+Nick Margevicius|L|Nolan Arenado|R|Walk|B|Four-Seam Fastball|8|2|0|1|12|87
+Nick Margevicius|L|Nolan Arenado|R|Walk|B|Four-Seam Fastball|9|3|0|1|14|87
+Nick Margevicius|L|Daniel Murphy|L|Single|C|Four-Seam Fastball|10|0|0|1|6|88
+Nick Margevicius|L|Daniel Murphy|L|Single|B|Four-Seam Fastball|11|0|1|1|14|88
+Nick Margevicius|L|Daniel Murphy|L|Single|B|Slider|12|1|1|1|12|74
+Nick Margevicius|L|Daniel Murphy|L|Single|D|Curveball|13|2|1|1|8|71
+Nick Margevicius|L|Ian Desmond|R|Double|E|Curveball|14|0|0|1|8|70
+Nick Margevicius|L|Ryan McMahon|L|Fielders Choice Out|*B|Four-Seam Fastball|15|0|0|1|13|89
+Nick Margevicius|L|Ryan McMahon|L|Fielders Choice Out|B|Four-Seam Fastball|16|1|0|1|13|89
+Nick Margevicius|L|Ryan McMahon|L|Fielders Choice Out|B|Slider|17|2|0|1|13|80
+Nick Margevicius|L|Ryan McMahon|L|Fielders Choice Out|E|Four-Seam Fastball|18|3|0|1|14|89
+Nick Margevicius|L|Raimel Tapia|L|Single|B|Four-Seam Fastball|19|0|0|2|13|89
+Nick Margevicius|L|Raimel Tapia|L|Single|C|Curveball|20|1|0|2|12|72
+Nick Margevicius|L|Raimel Tapia|L|Single|D|Curveball|21|1|1|2|13|70
+Nick Margevicius|L|Chris Iannetta|R|Single|C|Four-Seam Fastball|22|0|0|2|3|87
+Nick Margevicius|L|Chris Iannetta|R|Single|E|Four-Seam Fastball|23|0|1|2|4|88
+Nick Margevicius|L|Peter Lambert|R|Single|C|Four-Seam Fastball|24|0|0|2|14|88
+Nick Margevicius|L|Peter Lambert|R|Single|E|Curveball|25|0|1|2|7|72
+Nick Margevicius|L|Charlie Blackmon|L|Single|S|Slider|26|0|0|2|13|81
+Nick Margevicius|L|Charlie Blackmon|L|Single|F|Four-Seam Fastball|27|0|1|2|9|89
+Nick Margevicius|L|Charlie Blackmon|L|Single|F|Four-Seam Fastball|28|0|2|2|7|91
+Nick Margevicius|L|Charlie Blackmon|L|Single|E|Slider|29|0|2|2|2|82
+Nick Margevicius|L|Trevor Story|R|Strikeout|B|Four-Seam Fastball|30|0|0|2|12|89
+Nick Margevicius|L|Trevor Story|R|Strikeout|F|Four-Seam Fastball|31|1|0|2|11|88
+Nick Margevicius|L|Trevor Story|R|Strikeout|F|Curveball|32|1|1|2|9|71
+Nick Margevicius|L|Trevor Story|R|Strikeout|F|Four-Seam Fastball|33|1|2|2|2|90
+Nick Margevicius|L|Trevor Story|R|Strikeout|*B|Slider|34|1|2|2|13|82
+Nick Margevicius|L|Trevor Story|R|Strikeout|S|Curveball|35|2|2|2|5|70
+Nick Margevicius|L|Nolan Arenado|R|Lineout|C|Four-Seam Fastball|36|0|0|0|1|85
+Nick Margevicius|L|Nolan Arenado|R|Lineout|X|Four-Seam Fastball|37|0|1|0|9|87
+Nick Margevicius|L|Daniel Murphy|L|Single|C|Four-Seam Fastball|38|0|0|1|14|87
+Nick Margevicius|L|Daniel Murphy|L|Single|B|Changeup|39|0|1|1|12|77
+Nick Margevicius|L|Daniel Murphy|L|Single|F|Changeup|40|1|1|1|2|76
+Nick Margevicius|L|Daniel Murphy|L|Single|D|Four-Seam Fastball|41|1|2|1|9|88
+Nick Margevicius|L|Ian Desmond|R|Single|D|Four-Seam Fastball|42|0|0|1|5|88
+Nick Margevicius|L|Ryan McMahon|L|Single|E|Curveball|43|0|0|1|14|71
+Nick Margevicius|L|Raimel Tapia|L|Single|*B|Four-Seam Fastball|44|0|0|1|13|88
+Nick Margevicius|L|Raimel Tapia|L|Single|S|Four-Seam Fastball|45|1|0|1|3|88
+Nick Margevicius|L|Raimel Tapia|L|Single|S|Four-Seam Fastball|46|1|1|1|5|89
+Nick Margevicius|L|Raimel Tapia|L|Single|B|Four-Seam Fastball|47|1|2|1|12|88
+Nick Margevicius|L|Raimel Tapia|L|Single|F|Curveball|48|2|2|1|13|71
+Nick Margevicius|L|Raimel Tapia|L|Single|F|Four-Seam Fastball|49|2|2|1|7|89
+Nick Margevicius|L|Raimel Tapia|L|Single|E|Four-Seam Fastball|50|2|2|1|2|90
+Nick Margevicius|L|Steven Duggar|L|Hit By Pitch|C|Four-Seam Fastball|0|0|0|0|6|87
+Nick Margevicius|L|Steven Duggar|L|Hit By Pitch|F|Four-Seam Fastball|1|0|1|0|5|89
+Nick Margevicius|L|Steven Duggar|L|Hit By Pitch|B|Slider|2|0|2|0|13|81
+Nick Margevicius|L|Steven Duggar|L|Hit By Pitch|H|Four-Seam Fastball|3|1|2|0|12|90
+Nick Margevicius|L|Yangervis Solarte|R|Forceout|C|Four-Seam Fastball|4|0|0|0|7|88
+Nick Margevicius|L|Yangervis Solarte|R|Forceout|*B|Changeup|5|0|1|0|13|79
+Nick Margevicius|L|Yangervis Solarte|R|Forceout|X|Four-Seam Fastball|6|1|1|0|4|88
+Nick Margevicius|L|Evan Longoria|R|Flyout|B|Curveball|7|0|0|1|13|71
+Nick Margevicius|L|Evan Longoria|R|Flyout|C|Four-Seam Fastball|8|1|0|1|12|87
+Nick Margevicius|L|Evan Longoria|R|Flyout|F|Four-Seam Fastball|9|1|1|1|12|89
+Nick Margevicius|L|Evan Longoria|R|Flyout|*B|Slider|10|1|2|1|13|81
+Nick Margevicius|L|Evan Longoria|R|Flyout|X|Four-Seam Fastball|11|2|2|1|3|89
+Nick Margevicius|L|Buster Posey|R|Strikeout|C|Four-Seam Fastball|12|0|0|2|9|88
+Nick Margevicius|L|Buster Posey|R|Strikeout|*B|Changeup|13|0|1|2|14|80
+Nick Margevicius|L|Buster Posey|R|Strikeout|C|Four-Seam Fastball|14|1|1|2|3|89
+Nick Margevicius|L|Buster Posey|R|Strikeout|*B|Slider|15|1|2|2|13|83
+Nick Margevicius|L|Buster Posey|R|Strikeout|B|Four-Seam Fastball|16|2|2|2|12|89
+Nick Margevicius|L|Buster Posey|R|Strikeout|F|Four-Seam Fastball|17|3|2|2|12|89
+Nick Margevicius|L|Buster Posey|R|Strikeout|C|Four-Seam Fastball|18|3|2|2|13|89
+Nick Margevicius|L|Brandon Belt|L|Lineout|X|Four-Seam Fastball|19|0|0|0|6|87
+Nick Margevicius|L|Connor Joe|R|Strikeout|C|Four-Seam Fastball|20|0|0|1|4|88
+Nick Margevicius|L|Connor Joe|R|Strikeout|C|Changeup|21|0|1|1|14|79
+Nick Margevicius|L|Connor Joe|R|Strikeout|B|Four-Seam Fastball|22|0|2|1|12|89
+Nick Margevicius|L|Connor Joe|R|Strikeout|B|Slider|23|1|2|1|13|78
+Nick Margevicius|L|Connor Joe|R|Strikeout|F|Four-Seam Fastball|24|2|2|1|3|89
+Nick Margevicius|L|Connor Joe|R|Strikeout|C|Four-Seam Fastball|25|2|2|1|9|89
+Nick Margevicius|L|Gerardo Parra|L|Double|C|Four-Seam Fastball|26|0|0|2|6|89
+Nick Margevicius|L|Gerardo Parra|L|Double|B|Slider|27|0|1|2|13|79
+Nick Margevicius|L|Gerardo Parra|L|Double|B|Four-Seam Fastball|28|1|1|2|12|88
+Nick Margevicius|L|Gerardo Parra|L|Double|D|Four-Seam Fastball|29|2|1|2|9|88
+Nick Margevicius|L|Joe Panik|L|Pop Out|C|Four-Seam Fastball|30|0|0|2|3|87
+Nick Margevicius|L|Joe Panik|L|Pop Out|X|Slider|31|0|1|2|12|79
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|C|Four-Seam Fastball|32|0|0|0|5|85
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|B|Four-Seam Fastball|33|0|1|0|14|87
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|F|Four-Seam Fastball|34|1|1|0|12|86
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|S|Four-Seam Fastball|35|1|2|0|11|89
+Nick Margevicius|L|Steven Duggar|L|Single|C|Slider|36|0|0|1|8|79
+Nick Margevicius|L|Steven Duggar|L|Single|D|Four-Seam Fastball|37|0|1|1|3|88
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|B|Four-Seam Fastball|38|0|0|1|3|89
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|C|Four-Seam Fastball|39|1|0|1|13|87
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|B|Four-Seam Fastball|40|1|1|1|13|88
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|B|Changeup|41|2|1|1|12|78
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|F|Four-Seam Fastball|42|3|1|1|3|88
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|F|Slider|43|3|2|1|13|79
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|X|Four-Seam Fastball|44|3|2|1|1|89
+Nick Margevicius|L|Evan Longoria|R|Strikeout|B|Curveball|45|0|0|2|14|69
+Nick Margevicius|L|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|46|1|0|2|1|87
+Nick Margevicius|L|Evan Longoria|R|Strikeout|B|Four-Seam Fastball|47|1|1|2|12|88
+Nick Margevicius|L|Evan Longoria|R|Strikeout|F|Four-Seam Fastball|48|2|1|2|1|87
+Nick Margevicius|L|Evan Longoria|R|Strikeout|W|Slider|49|2|2|2|13|80
+Nick Margevicius|L|Buster Posey|R|Groundout|C|Curveball|50|0|0|0|8|69
+Nick Margevicius|L|Buster Posey|R|Groundout|B|Changeup|51|0|1|0|12|77
+Nick Margevicius|L|Buster Posey|R|Groundout|F|Four-Seam Fastball|52|1|1|0|12|86
+Nick Margevicius|L|Buster Posey|R|Groundout|F|Slider|53|1|2|0|14|78
+Nick Margevicius|L|Buster Posey|R|Groundout|X|Slider|54|1|2|0|6|77
+Nick Margevicius|L|Brandon Belt|L|Hit By Pitch|F|Slider|55|0|0|1|6|79
+Nick Margevicius|L|Brandon Belt|L|Hit By Pitch|B|Four-Seam Fastball|56|0|1|1|12|88
+Nick Margevicius|L|Brandon Belt|L|Hit By Pitch|F|Four-Seam Fastball|57|1|1|1|7|88
+Nick Margevicius|L|Brandon Belt|L|Hit By Pitch|B|Slider|58|1|2|1|13|79
+Nick Margevicius|L|Brandon Belt|L|Hit By Pitch|H|Four-Seam Fastball|59|2|2|1|12|88
+Nick Margevicius|L|Connor Joe|R|Grounded Into DP|X|Four-Seam Fastball|60|0|0|1|6|87
+Nick Margevicius|L|Gerardo Parra|L|Groundout|F|Slider|61|0|0|0|13|78
+Nick Margevicius|L|Gerardo Parra|L|Groundout|S|Four-Seam Fastball|62|0|1|0|4|87
+Nick Margevicius|L|Gerardo Parra|L|Groundout|B|Four-Seam Fastball|63|0|2|0|11|87
+Nick Margevicius|L|Gerardo Parra|L|Groundout|X|Slider|64|1|2|0|13|79
+Nick Margevicius|L|Joe Panik|L|Flyout|X|Four-Seam Fastball|65|0|0|1|5|86
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|F|Four-Seam Fastball|66|0|0|2|12|88
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|C|Curveball|67|0|1|2|9|71
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|B|Four-Seam Fastball|68|0|2|2|12|88
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|S|Slider|69|1|2|2|14|79
+Nick Margevicius|L|Steven Duggar|L|Single|S|Four-Seam Fastball|70|0|0|0|2|86
+Nick Margevicius|L|Steven Duggar|L|Single|D|Four-Seam Fastball|71|0|1|0|5|86
+Nick Margevicius|L|Charlie Blackmon|L|Flyout|C|Four-Seam Fastball|0|0|0|0|6|87
+Nick Margevicius|L|Charlie Blackmon|L|Flyout|S|Four-Seam Fastball|1|0|1|0|4|88
+Nick Margevicius|L|Charlie Blackmon|L|Flyout|B|Slider|2|0|2|0|13|80
+Nick Margevicius|L|Charlie Blackmon|L|Flyout|X|Four-Seam Fastball|3|1|2|0|5|89
+Nick Margevicius|L|Garrett Hampson|R|Single|B|Four-Seam Fastball|4|0|0|1|14|89
+Nick Margevicius|L|Garrett Hampson|R|Single|C|Four-Seam Fastball|5|1|0|1|8|88
+Nick Margevicius|L|Garrett Hampson|R|Single|B|Slider|6|1|1|1|13|79
+Nick Margevicius|L|Garrett Hampson|R|Single|D|Four-Seam Fastball|7|2|1|1|13|88
+Nick Margevicius|L|Nolan Arenado|R|Home Run|B|Four-Seam Fastball|8|0|0|1|12|87
+Nick Margevicius|L|Nolan Arenado|R|Home Run|E|Four-Seam Fastball|9|1|0|1|6|87
+Nick Margevicius|L|Trevor Story|R|Single|B|Four-Seam Fastball|10|0|0|1|12|88
+Nick Margevicius|L|Trevor Story|R|Single|C|Four-Seam Fastball|11|1|0|1|14|87
+Nick Margevicius|L|Trevor Story|R|Single|F|Slider|12|1|1|1|12|77
+Nick Margevicius|L|Trevor Story|R|Single|F|Slider|13|1|2|1|14|78
+Nick Margevicius|L|Trevor Story|R|Single|B|Four-Seam Fastball|14|1|2|1|12|89
+Nick Margevicius|L|Trevor Story|R|Single|D|Slider|15|2|2|1|8|78
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|C|Curveball|16|0|0|1|9|70
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|B|Four-Seam Fastball|17|0|1|1|12|88
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|F|Four-Seam Fastball|18|1|1|1|1|88
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|B|Slider|19|1|2|1|14|77
+Nick Margevicius|L|Mark Reynolds|R|Strikeout|S|Slider|20|2|2|1|9|79
+Nick Margevicius|L|Raimel Tapia|L|Strikeout|F|Slider|21|0|0|2|6|79
+Nick Margevicius|L|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|22|0|1|2|1|89
+Nick Margevicius|L|Raimel Tapia|L|Strikeout|F|Four-Seam Fastball|23|0|2|2|12|88
+Nick Margevicius|L|Raimel Tapia|L|Strikeout|*B|Curveball|24|0|2|2|14|71
+Nick Margevicius|L|Raimel Tapia|L|Strikeout|S|Four-Seam Fastball|25|1|2|2|11|89
+Nick Margevicius|L|Pat Valaika|R|Flyout|C|Four-Seam Fastball|26|0|0|0|14|85
+Nick Margevicius|L|Pat Valaika|R|Flyout|F|Curveball|27|0|1|0|14|68
+Nick Margevicius|L|Pat Valaika|R|Flyout|B|Four-Seam Fastball|28|0|2|0|12|87
+Nick Margevicius|L|Pat Valaika|R|Flyout|B|Slider|29|1|2|0|13|77
+Nick Margevicius|L|Pat Valaika|R|Flyout|X|Four-Seam Fastball|30|2|2|0|11|88
+Nick Margevicius|L|Tony Wolters|L|Double|C|Four-Seam Fastball|31|0|0|1|6|88
+Nick Margevicius|L|Tony Wolters|L|Double|B|Curveball|32|0|1|1|13|70
+Nick Margevicius|L|Tony Wolters|L|Double|D|Four-Seam Fastball|33|1|1|1|14|87
+Nick Margevicius|L|Jon Gray|R|Strikeout|C|Slider|34|0|0|1|9|77
+Nick Margevicius|L|Jon Gray|R|Strikeout|S|Curveball|35|0|1|1|14|71
+Nick Margevicius|L|Jon Gray|R|Strikeout|S|Slider|36|0|2|1|14|76
+Nick Margevicius|L|Charlie Blackmon|L|Double|B|Curveball|37|0|0|2|12|69
+Nick Margevicius|L|Charlie Blackmon|L|Double|C|Four-Seam Fastball|38|1|0|2|1|87
+Nick Margevicius|L|Charlie Blackmon|L|Double|B|Four-Seam Fastball|39|1|1|2|11|87
+Nick Margevicius|L|Charlie Blackmon|L|Double|F|Four-Seam Fastball|40|2|1|2|4|88
+Nick Margevicius|L|Charlie Blackmon|L|Double|F|Four-Seam Fastball|41|2|2|2|11|88
+Nick Margevicius|L|Charlie Blackmon|L|Double|F|Slider|42|2|2|2|14|79
+Nick Margevicius|L|Charlie Blackmon|L|Double|E|Four-Seam Fastball|43|2|2|2|4|88
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|C|Slider|44|0|0|2|3|78
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|C|Changeup|45|0|1|2|14|79
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|S|Four-Seam Fastball|46|0|2|2|12|88
+Nick Margevicius|L|Nolan Arenado|R|Groundout|C|Curveball|47|0|0|0|9|69
+Nick Margevicius|L|Nolan Arenado|R|Groundout|S|Four-Seam Fastball|48|0|1|0|11|87
+Nick Margevicius|L|Nolan Arenado|R|Groundout|B|Four-Seam Fastball|49|0|2|0|12|88
+Nick Margevicius|L|Nolan Arenado|R|Groundout|X|Changeup|50|1|2|0|14|79
+Nick Margevicius|L|Trevor Story|R|Single|D|Four-Seam Fastball|51|0|0|1|5|88
+Nick Margevicius|L|Mark Reynolds|R|Walk|*B|Changeup|52|0|0|1|13|77
+Nick Margevicius|L|Mark Reynolds|R|Walk|F|Four-Seam Fastball|53|1|0|1|4|87
+Nick Margevicius|L|Mark Reynolds|R|Walk|B|Slider|54|1|1|1|14|78
+Nick Margevicius|L|Mark Reynolds|R|Walk|C|Curveball|55|2|1|1|14|70
+Nick Margevicius|L|Mark Reynolds|R|Walk|*B|Slider|56|2|2|1|13|77
+Nick Margevicius|L|Mark Reynolds|R|Walk|*B|Slider|57|3|2|1|14|79
+Nick Margevicius|L|Raimel Tapia|L|Triple|C|Four-Seam Fastball|58|0|0|1|2|87
+Nick Margevicius|L|Raimel Tapia|L|Triple|B|Slider|59|0|1|1|13|80
+Nick Margevicius|L|Raimel Tapia|L|Triple|C|Four-Seam Fastball|60|1|1|1|7|88
+Nick Margevicius|L|Raimel Tapia|L|Triple|E|Slider|61|1|2|1|14|80
+Nick Margevicius|L|Pat Valaika|R|Strikeout|S|Four-Seam Fastball|62|0|0|1|11|89
+Nick Margevicius|L|Pat Valaika|R|Strikeout|F|Four-Seam Fastball|63|0|1|1|8|89
+Nick Margevicius|L|Pat Valaika|R|Strikeout|T|Slider|64|0|2|1|14|80
+Nick Margevicius|L|Tony Wolters|L|Groundout|B|Curveball|65|0|0|2|12|70
+Nick Margevicius|L|Tony Wolters|L|Groundout|F|Four-Seam Fastball|66|1|0|2|4|88
+Nick Margevicius|L|Tony Wolters|L|Groundout|B|Slider|67|1|1|2|13|78
+Nick Margevicius|L|Tony Wolters|L|Groundout|C|Slider|68|2|1|2|12|79
+Nick Margevicius|L|Tony Wolters|L|Groundout|X|Four-Seam Fastball|69|2|2|2|4|89
+Nick Margevicius|L|Jon Gray|R|Strikeout|B|Four-Seam Fastball|70|0|0|0|14|85
+Nick Margevicius|L|Jon Gray|R|Strikeout|B|Slider|71|1|0|0|14|78
+Nick Margevicius|L|Jon Gray|R|Strikeout|C|Four-Seam Fastball|72|2|0|0|14|85
+Nick Margevicius|L|Jon Gray|R|Strikeout|C|Four-Seam Fastball|73|2|1|0|13|86
+Nick Margevicius|L|Jon Gray|R|Strikeout|S|Four-Seam Fastball|74|2|2|0|6|87
+Nick Margevicius|L|Charlie Blackmon|L|Pop Out|B|Curveball|75|0|0|1|11|69
+Nick Margevicius|L|Charlie Blackmon|L|Pop Out|B|Four-Seam Fastball|76|1|0|1|14|87
+Nick Margevicius|L|Charlie Blackmon|L|Pop Out|X|Four-Seam Fastball|77|2|0|1|5|86
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|C|Four-Seam Fastball|78|0|0|2|14|86
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|S|Four-Seam Fastball|79|0|1|2|12|87
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|B|Slider|80|0|2|2|14|79
+Nick Margevicius|L|Garrett Hampson|R|Strikeout|S|Four-Seam Fastball|81|1|2|2|11|88
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Four-Seam Fastball|0|0|0|0|14|87
+Nick Margevicius|L|Mitch Haniger|R|Walk|C|Four-Seam Fastball|1|1|0|0|12|87
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Changeup|2|1|1|0|12|80
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Four-Seam Fastball|3|2|1|0|14|88
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Four-Seam Fastball|4|3|1|0|12|88
+Nick Margevicius|L|Domingo Santana|R|Grounded Into DP|F|Four-Seam Fastball|5|0|0|0|14|88
+Nick Margevicius|L|Domingo Santana|R|Grounded Into DP|S|Slider|6|0|1|0|14|80
+Nick Margevicius|L|Domingo Santana|R|Grounded Into DP|*B|Slider|7|0|2|0|13|80
+Nick Margevicius|L|Domingo Santana|R|Grounded Into DP|X|Changeup|8|1|2|0|14|80
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|B|Four-Seam Fastball|9|0|0|2|14|88
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|C|Curveball|10|1|0|2|6|70
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|B|Four-Seam Fastball|11|1|1|2|12|88
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|C|Slider|12|2|1|2|9|79
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|F|Four-Seam Fastball|13|2|2|2|3|88
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|B|Changeup|14|2|2|2|14|80
+Nick Margevicius|L|Edwin Encarnacion|R|Lineout|X|Slider|15|3|2|2|14|78
+Nick Margevicius|L|Tim Beckham|R|Strikeout|F|Four-Seam Fastball|16|0|0|0|13|88
+Nick Margevicius|L|Tim Beckham|R|Strikeout|C|Slider|17|0|1|0|13|77
+Nick Margevicius|L|Tim Beckham|R|Strikeout|B|Slider|18|0|2|0|14|81
+Nick Margevicius|L|Tim Beckham|R|Strikeout|B|Four-Seam Fastball|19|1|2|0|14|89
+Nick Margevicius|L|Tim Beckham|R|Strikeout|S|Slider|20|2|2|0|12|80
+Nick Margevicius|L|Ryon Healy|R|Flyout|C|Four-Seam Fastball|21|0|0|1|4|89
+Nick Margevicius|L|Ryon Healy|R|Flyout|B|Curveball|22|0|1|1|12|70
+Nick Margevicius|L|Ryon Healy|R|Flyout|X|Slider|23|1|1|1|9|80
+Nick Margevicius|L|Dee Gordon|L|Double|B|Four-Seam Fastball|24|0|0|2|12|88
+Nick Margevicius|L|Dee Gordon|L|Double|B|Four-Seam Fastball|25|1|0|2|14|87
+Nick Margevicius|L|Dee Gordon|L|Double|D|Four-Seam Fastball|26|2|0|2|8|87
+Nick Margevicius|L|Tom Murphy|R|Flyout|B|Four-Seam Fastball|27|0|0|2|12|89
+Nick Margevicius|L|Tom Murphy|R|Flyout|C|Slider|28|1|0|2|3|79
+Nick Margevicius|L|Tom Murphy|R|Flyout|S|Slider|29|1|1|2|12|79
+Nick Margevicius|L|Tom Murphy|R|Flyout|*B|Slider|30|1|2|2|14|82
+Nick Margevicius|L|Tom Murphy|R|Flyout|F|Four-Seam Fastball|31|2|2|2|3|90
+Nick Margevicius|L|Tom Murphy|R|Flyout|F|Slider|32|2|2|2|9|80
+Nick Margevicius|L|Tom Murphy|R|Flyout|F|Curveball|33|2|2|2|6|70
+Nick Margevicius|L|Tom Murphy|R|Flyout|X|Four-Seam Fastball|34|2|2|2|5|89
+Nick Margevicius|L|Mallex Smith|L|Groundout|B|Four-Seam Fastball|35|0|0|0|12|85
+Nick Margevicius|L|Mallex Smith|L|Groundout|C|Four-Seam Fastball|36|1|0|0|7|86
+Nick Margevicius|L|Mallex Smith|L|Groundout|X|Slider|37|1|1|0|3|80
+Nick Margevicius|L|Erik Swanson|R|Strikeout|C|Four-Seam Fastball|38|0|0|1|1|87
+Nick Margevicius|L|Erik Swanson|R|Strikeout|C|Slider|39|0|1|1|6|81
+Nick Margevicius|L|Erik Swanson|R|Strikeout|W|Slider|40|0|2|1|13|77
+Nick Margevicius|L|Mitch Haniger|R|Double|C|Four-Seam Fastball|41|0|0|2|12|87
+Nick Margevicius|L|Mitch Haniger|R|Double|C|Curveball|42|0|1|2|14|70
+Nick Margevicius|L|Mitch Haniger|R|Double|B|Slider|43|0|2|2|14|79
+Nick Margevicius|L|Mitch Haniger|R|Double|D|Slider|44|1|2|2|9|79
+Nick Margevicius|L|Domingo Santana|R|Walk|F|Curveball|45|0|0|2|14|68
+Nick Margevicius|L|Domingo Santana|R|Walk|B|Four-Seam Fastball|46|0|1|2|12|88
+Nick Margevicius|L|Domingo Santana|R|Walk|B|Slider|47|1|1|2|14|80
+Nick Margevicius|L|Domingo Santana|R|Walk|S|Curveball|48|2|1|2|7|70
+Nick Margevicius|L|Domingo Santana|R|Walk|B|Four-Seam Fastball|49|2|2|2|11|89
+Nick Margevicius|L|Domingo Santana|R|Walk|*B|Slider|50|3|2|2|13|80
+Nick Margevicius|L|Edwin Encarnacion|R|Forceout|C|Four-Seam Fastball|51|0|0|2|3|88
+Nick Margevicius|L|Edwin Encarnacion|R|Forceout|X|Curveball|52|0|1|2|14|70
+Nick Margevicius|L|Tim Beckham|R|Single|C|Curveball|53|0|0|0|9|69
+Nick Margevicius|L|Tim Beckham|R|Single|C|Four-Seam Fastball|54|0|1|0|14|85
+Nick Margevicius|L|Tim Beckham|R|Single|D|Four-Seam Fastball|55|0|2|0|1|87
+Nick Margevicius|L|Ryon Healy|R|Strikeout|B|Curveball|56|0|0|0|12|68
+Nick Margevicius|L|Ryon Healy|R|Strikeout|*B|Curveball|57|1|0|0|13|69
+Nick Margevicius|L|Ryon Healy|R|Strikeout|F|Slider|58|2|0|0|9|78
+Nick Margevicius|L|Ryon Healy|R|Strikeout|F|Curveball|59|2|1|0|8|68
+Nick Margevicius|L|Ryon Healy|R|Strikeout|B|Four-Seam Fastball|60|2|2|0|14|86
+Nick Margevicius|L|Ryon Healy|R|Strikeout|C|Four-Seam Fastball|61|3|2|0|4|88
+Nick Margevicius|L|Dee Gordon|L|Flyout|X|Slider|62|0|0|1|13|78
+Nick Margevicius|L|Tom Murphy|R|Strikeout|F|Four-Seam Fastball|63|0|0|2|14|88
+Nick Margevicius|L|Tom Murphy|R|Strikeout|B|Changeup|64|0|1|2|12|77
+Nick Margevicius|L|Tom Murphy|R|Strikeout|B|Changeup|65|1|1|2|12|77
+Nick Margevicius|L|Tom Murphy|R|Strikeout|F|Four-Seam Fastball|66|2|1|2|8|87
+Nick Margevicius|L|Tom Murphy|R|Strikeout|*B|Four-Seam Fastball|67|2|2|2|13|89
+Nick Margevicius|L|Tom Murphy|R|Strikeout|W|Curveball|68|3|2|2|14|71
+Nick Margevicius|L|Mallex Smith|L|Walk|B|Four-Seam Fastball|69|0|0|0|12|86
+Nick Margevicius|L|Mallex Smith|L|Walk|F|Slider|70|1|0|0|8|80
+Nick Margevicius|L|Mallex Smith|L|Walk|B|Four-Seam Fastball|71|1|1|0|12|87
+Nick Margevicius|L|Mallex Smith|L|Walk|C|Slider|72|2|1|0|3|79
+Nick Margevicius|L|Mallex Smith|L|Walk|B|Slider|73|2|2|0|13|80
+Nick Margevicius|L|Mallex Smith|L|Walk|F|Slider|74|3|2|0|3|79
+Nick Margevicius|L|Mallex Smith|L|Walk|B|Four-Seam Fastball|75|3|2|0|12|86
+Nick Margevicius|L|Erik Swanson|R|Bunt Groundout|B|Four-Seam Fastball|76|0|0|0|14|85
+Nick Margevicius|L|Erik Swanson|R|Bunt Groundout|C|Four-Seam Fastball|77|1|0|0|3|86
+Nick Margevicius|L|Erik Swanson|R|Bunt Groundout|L|Four-Seam Fastball|78|1|1|0|9|87
+Nick Margevicius|L|Erik Swanson|R|Bunt Groundout|B|Slider|79|1|2|0|12|81
+Nick Margevicius|L|Erik Swanson|R|Bunt Groundout|X|Four-Seam Fastball|80|2|2|0|9|86
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Slider|81|0|0|1|13|79
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Four-Seam Fastball|82|1|0|1|14|87
+Nick Margevicius|L|Mitch Haniger|R|Walk|*B|Changeup|83|2|0|1|14|79
+Nick Margevicius|L|Mitch Haniger|R|Walk|B|Four-Seam Fastball|84|3|0|1|12|87
+Nick Margevicius|L|Domingo Santana|R|Groundout|X|Slider|85|0|0|1|14|81
+Nick Margevicius|L|Edwin Encarnacion|R|Walk|B|Slider|86|0|0|2|12|78
+Nick Margevicius|L|Edwin Encarnacion|R|Walk|B|Four-Seam Fastball|87|1|0|2|12|86
+Nick Margevicius|L|Edwin Encarnacion|R|Walk|*B|Curveball|88|2|0|2|13|69
+Nick Margevicius|L|Edwin Encarnacion|R|Walk|B|Slider|89|3|0|2|13|80
+Nick Margevicius|L|Tim Beckham|R|Single|B|Slider|90|0|0|2|12|81
+Nick Margevicius|L|Tim Beckham|R|Single|C|Four-Seam Fastball|91|1|0|2|13|88
+Nick Margevicius|L|Tim Beckham|R|Single|*B|Curveball|92|1|1|2|13|70
+Nick Margevicius|L|Tim Beckham|R|Single|E|Four-Seam Fastball|93|2|1|2|4|86
+Nick Margevicius|L|Enrique Hernandez|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|87
+Nick Margevicius|L|Enrique Hernandez|R|Flyout|X|Four-Seam Fastball|1|1|0|0|8|88
+Nick Margevicius|L|Justin Turner|R|Flyout|B|Four-Seam Fastball|2|0|0|1|14|88
+Nick Margevicius|L|Justin Turner|R|Flyout|B|Four-Seam Fastball|3|1|0|1|13|89
+Nick Margevicius|L|Justin Turner|R|Flyout|B|Four-Seam Fastball|4|2|0|1|12|88
+Nick Margevicius|L|Justin Turner|R|Flyout|C|Four-Seam Fastball|5|3|0|1|6|88
+Nick Margevicius|L|Justin Turner|R|Flyout|X|Four-Seam Fastball|6|3|1|1|6|87
+Nick Margevicius|L|Corey Seager|L|Double|F|Four-Seam Fastball|7|0|0|2|7|87
+Nick Margevicius|L|Corey Seager|L|Double|D|Slider|8|0|1|2|13|81
+Nick Margevicius|L|David Freese|R|Walk|B|Four-Seam Fastball|9|0|0|2|13|88
+Nick Margevicius|L|David Freese|R|Walk|F|Slider|10|1|0|2|8|81
+Nick Margevicius|L|David Freese|R|Walk|B|Four-Seam Fastball|11|1|1|2|6|89
+Nick Margevicius|L|David Freese|R|Walk|S|Slider|12|2|1|2|6|80
+Nick Margevicius|L|David Freese|R|Walk|*B|Slider|13|2|2|2|13|81
+Nick Margevicius|L|David Freese|R|Walk|B|Four-Seam Fastball|14|3|2|2|13|88
+Nick Margevicius|L|Max Muncy|L|Groundout|B|Four-Seam Fastball|15|0|0|2|14|89
+Nick Margevicius|L|Max Muncy|L|Groundout|F|Four-Seam Fastball|16|1|0|2|3|88
+Nick Margevicius|L|Max Muncy|L|Groundout|X|Four-Seam Fastball|17|1|1|2|9|88
+Nick Margevicius|L|Chris Taylor|R|Single|B|Curveball|18|0|0|0|11|69
+Nick Margevicius|L|Chris Taylor|R|Single|B|Four-Seam Fastball|19|1|0|0|12|86
+Nick Margevicius|L|Chris Taylor|R|Single|D|Four-Seam Fastball|20|2|0|0|8|85
+Nick Margevicius|L|Alex Verdugo|L|Grounded Into DP|C|Four-Seam Fastball|21|0|0|0|8|87
+Nick Margevicius|L|Alex Verdugo|L|Grounded Into DP|B|Four-Seam Fastball|22|0|1|0|13|88
+Nick Margevicius|L|Alex Verdugo|L|Grounded Into DP|X|Slider|23|1|1|0|5|80
+Nick Margevicius|L|Austin Barnes|R|Groundout|C|Four-Seam Fastball|24|0|0|2|14|88
+Nick Margevicius|L|Austin Barnes|R|Groundout|X|Curveball|25|0|1|2|14|72
+Nick Margevicius|L|Kenta Maeda|R|Single|B|Four-Seam Fastball|26|0|0|0|12|85
+Nick Margevicius|L|Kenta Maeda|R|Single|C|Four-Seam Fastball|27|1|0|0|5|86
+Nick Margevicius|L|Kenta Maeda|R|Single|C|Four-Seam Fastball|28|1|1|0|12|86
+Nick Margevicius|L|Kenta Maeda|R|Single|D|Slider|29|1|2|0|13|79
+Nick Margevicius|L|Enrique Hernandez|R|Lineout|B|Curveball|30|0|0|0|12|69
+Nick Margevicius|L|Enrique Hernandez|R|Lineout|X|Four-Seam Fastball|31|1|0|0|9|87
+Nick Margevicius|L|Justin Turner|R|Lineout|B|Slider|32|0|0|1|14|80
+Nick Margevicius|L|Justin Turner|R|Lineout|X|Four-Seam Fastball|33|1|0|1|5|87
+Nick Margevicius|L|Corey Seager|L|Double|*B|Slider|34|0|0|2|13|80
+Nick Margevicius|L|Corey Seager|L|Double|D|Four-Seam Fastball|35|1|0|2|8|87
+Nick Margevicius|L|David Freese|R|Walk|C|Four-Seam Fastball|36|0|0|2|9|89
+Nick Margevicius|L|David Freese|R|Walk|B|Curveball|37|0|1|2|13|69
+Nick Margevicius|L|David Freese|R|Walk|F|Changeup|38|1|1|2|5|78
+Nick Margevicius|L|David Freese|R|Walk|*B|Slider|39|1|2|2|13|81
+Nick Margevicius|L|David Freese|R|Walk|B|Slider|40|2|2|2|13|78
+Nick Margevicius|L|David Freese|R|Walk|B|Slider|41|3|2|2|13|80
+Nick Margevicius|L|Max Muncy|L|Flyout|B|Four-Seam Fastball|42|0|0|2|13|88
+Nick Margevicius|L|Max Muncy|L|Flyout|B|Four-Seam Fastball|43|1|0|2|11|88
+Nick Margevicius|L|Max Muncy|L|Flyout|C|Four-Seam Fastball|44|2|0|2|7|87
+Nick Margevicius|L|Max Muncy|L|Flyout|S|Slider|45|2|1|2|5|81
+Nick Margevicius|L|Max Muncy|L|Flyout|F|Slider|46|2|2|2|9|81
+Nick Margevicius|L|Max Muncy|L|Flyout|X|Four-Seam Fastball|47|2|2|2|4|87
+Nick Margevicius|L|Chris Taylor|R|Double|C|Curveball|48|0|0|0|3|68
+Nick Margevicius|L|Chris Taylor|R|Double|B|Four-Seam Fastball|49|0|1|0|13|87
+Nick Margevicius|L|Chris Taylor|R|Double|S|Four-Seam Fastball|50|1|1|0|12|86
+Nick Margevicius|L|Chris Taylor|R|Double|B|Four-Seam Fastball|51|1|2|0|11|87
+Nick Margevicius|L|Chris Taylor|R|Double|D|Four-Seam Fastball|52|2|2|0|2|87
+Nick Margevicius|L|Alex Verdugo|L|Pop Out|C|Four-Seam Fastball|53|0|0|0|2|87
+Nick Margevicius|L|Alex Verdugo|L|Pop Out|B|Curveball|54|0|1|0|12|66
+Nick Margevicius|L|Alex Verdugo|L|Pop Out|F|Four-Seam Fastball|55|1|1|0|4|87
+Nick Margevicius|L|Alex Verdugo|L|Pop Out|X|Slider|56|1|2|0|13|79
+Nick Margevicius|L|Austin Barnes|R|Groundout|S|Curveball|57|0|0|1|13|69
+Nick Margevicius|L|Austin Barnes|R|Groundout|C|Four-Seam Fastball|58|0|1|1|8|88
+Nick Margevicius|L|Austin Barnes|R|Groundout|X|Changeup|59|0|2|1|14|78
+Nick Margevicius|L|Kenta Maeda|R|Groundout|X|Four-Seam Fastball|60|0|0|2|2|87
+Nick Margevicius|L|Enrique Hernandez|R|Lineout|B|Four-Seam Fastball|61|0|0|0|12|86
+Nick Margevicius|L|Enrique Hernandez|R|Lineout|C|Four-Seam Fastball|62|1|0|0|5|87
+Nick Margevicius|L|Enrique Hernandez|R|Lineout|X|Four-Seam Fastball|63|1|1|0|2|88
+Nick Margevicius|L|Justin Turner|R|Groundout|C|Four-Seam Fastball|64|0|0|1|2|88
+Nick Margevicius|L|Justin Turner|R|Groundout|B|Four-Seam Fastball|65|0|1|1|12|89
+Nick Margevicius|L|Justin Turner|R|Groundout|S|Slider|66|1|1|1|3|81
+Nick Margevicius|L|Justin Turner|R|Groundout|X|Four-Seam Fastball|67|1|2|1|5|89
+Nick Margevicius|L|Corey Seager|L|Walk|S|Slider|68|0|0|2|8|80
+Nick Margevicius|L|Corey Seager|L|Walk|S|Slider|69|0|1|2|13|80
+Nick Margevicius|L|Corey Seager|L|Walk|B|Slider|70|0|2|2|13|79
+Nick Margevicius|L|Corey Seager|L|Walk|B|Four-Seam Fastball|71|1|2|2|12|88
+Nick Margevicius|L|Corey Seager|L|Walk|B|Slider|72|2|2|2|12|79
+Nick Margevicius|L|Corey Seager|L|Walk|B|Four-Seam Fastball|73|3|2|2|12|87
+Nick Margevicius|L|David Freese|R|Single|B|Four-Seam Fastball|74|0|0|2|14|87
+Nick Margevicius|L|David Freese|R|Single|B|Four-Seam Fastball|75|1|0|2|12|87
+Nick Margevicius|L|David Freese|R|Single|D|Four-Seam Fastball|76|2|0|2|6|85
+Nick Margevicius|L|Max Muncy|L|Home Run|E|Four-Seam Fastball|77|0|0|2|2|88
+Nick Margevicius|L|Chris Taylor|R|Flyout|B|Slider|78|0|0|2|13|80
+Nick Margevicius|L|Chris Taylor|R|Flyout|C|Four-Seam Fastball|79|1|0|2|7|88
+Nick Margevicius|L|Chris Taylor|R|Flyout|S|Curveball|80|1|1|2|13|69
+Nick Margevicius|L|Chris Taylor|R|Flyout|X|Slider|81|1|2|2|4|79
+Nick Margevicius|L|Alex Verdugo|L|Lineout|X|Slider|82|0|0|0|8|79
+Nick Margevicius|L|Austin Barnes|R|Hit By Pitch|C|Slider|83|0|0|1|9|79
+Nick Margevicius|L|Austin Barnes|R|Hit By Pitch|S|Curveball|84|0|1|1|14|70
+Nick Margevicius|L|Austin Barnes|R|Hit By Pitch|H|Slider|85|0|2|1|13|79
+Nick Margevicius|L|Kenta Maeda|R|Sac Bunt|*B|Slider|86|0|0|1|14|81
+Nick Margevicius|L|Kenta Maeda|R|Sac Bunt|B|Four-Seam Fastball|87|1|0|1|12|85
+Nick Margevicius|L|Kenta Maeda|R|Sac Bunt|X|Four-Seam Fastball|88|2|0|1|5|85
+Nick Margevicius|L|Adam Frazier|L|Lineout|B|Four-Seam Fastball|0|0|0|0|12|86
+Nick Margevicius|L|Adam Frazier|L|Lineout|S|Slider|1|1|0|0|13|81
+Nick Margevicius|L|Adam Frazier|L|Lineout|B|Four-Seam Fastball|2|1|1|0|14|87
+Nick Margevicius|L|Adam Frazier|L|Lineout|F|Four-Seam Fastball|3|2|1|0|6|87
+Nick Margevicius|L|Adam Frazier|L|Lineout|B|Slider|4|2|2|0|13|83
+Nick Margevicius|L|Adam Frazier|L|Lineout|X|Four-Seam Fastball|5|3|2|0|12|87
+Nick Margevicius|L|Starling Marte|R|Strikeout|C|Four-Seam Fastball|6|0|0|1|12|87
+Nick Margevicius|L|Starling Marte|R|Strikeout|B|Four-Seam Fastball|7|0|1|1|12|88
+Nick Margevicius|L|Starling Marte|R|Strikeout|F|Slider|8|1|1|1|8|82
+Nick Margevicius|L|Starling Marte|R|Strikeout|S|Slider|9|1|2|1|5|80
+Nick Margevicius|L|Gregory Polanco|L|Strikeout|F|Four-Seam Fastball|10|0|0|2|5|87
+Nick Margevicius|L|Gregory Polanco|L|Strikeout|C|Four-Seam Fastball|11|0|1|2|14|88
+Nick Margevicius|L|Gregory Polanco|L|Strikeout|C|Slider|12|0|2|2|13|81
+Nick Margevicius|L|Josh Bell|R|Home Run|B|Changeup|13|0|0|0|12|77
+Nick Margevicius|L|Josh Bell|R|Home Run|B|Four-Seam Fastball|14|1|0|0|14|87
+Nick Margevicius|L|Josh Bell|R|Home Run|E|Slider|15|2|0|0|9|80
+Nick Margevicius|L|Bryan Reynolds|R|Home Run|B|Four-Seam Fastball|16|0|0|0|14|88
+Nick Margevicius|L|Bryan Reynolds|R|Home Run|B|Four-Seam Fastball|17|1|0|0|12|88
+Nick Margevicius|L|Bryan Reynolds|R|Home Run|E|Four-Seam Fastball|18|2|0|0|5|86
+Nick Margevicius|L|Elias Diaz|R|Single|B|Changeup|19|0|0|0|11|79
+Nick Margevicius|L|Elias Diaz|R|Single|B|Changeup|20|1|0|0|12|77
+Nick Margevicius|L|Elias Diaz|R|Single|C|Slider|21|2|0|0|3|80
+Nick Margevicius|L|Elias Diaz|R|Single|D|Four-Seam Fastball|22|2|1|0|12|88
+Nick Margevicius|L|Colin Moran|L|Grounded Into DP|X|Slider|23|0|0|0|8|81
+Nick Margevicius|L|Kevin Newman|R|Field Error|B|Four-Seam Fastball|24|0|0|2|14|88
+Nick Margevicius|L|Kevin Newman|R|Field Error|D|Slider|25|1|0|2|8|79
+Nick Margevicius|L|Montana DuRapau|R|Groundout|B|Four-Seam Fastball|26|0|0|2|14|88
+Nick Margevicius|L|Montana DuRapau|R|Groundout|X|Four-Seam Fastball|27|1|0|2|8|87
+Nick Margevicius|L|Adam Frazier|L|Single|C|Four-Seam Fastball|28|0|0|0|9|88
+Nick Margevicius|L|Adam Frazier|L|Single|D|Slider|29|0|1|0|14|79
+Nick Margevicius|L|Starling Marte|R|Double|B|Curveball|30|0|0|0|12|70
+Nick Margevicius|L|Starling Marte|R|Double|F|Slider|31|1|0|0|4|79
+Nick Margevicius|L|Starling Marte|R|Double|C|Four-Seam Fastball|32|1|1|0|4|88
+Nick Margevicius|L|Starling Marte|R|Double|D|Four-Seam Fastball|33|1|2|0|13|88
+Nick Margevicius|L|Gregory Polanco|L|Pop Out|T|Slider|34|0|0|0|5|79
+Nick Margevicius|L|Gregory Polanco|L|Pop Out|X|Four-Seam Fastball|35|0|1|0|6|89
+Nick Margevicius|L|Josh Bell|R|Home Run|B|Changeup|36|0|0|1|12|78
+Nick Margevicius|L|Josh Bell|R|Home Run|B|Four-Seam Fastball|37|1|0|1|14|88
+Nick Margevicius|L|Josh Bell|R|Home Run|B|Four-Seam Fastball|38|2|0|1|14|88
+Nick Margevicius|L|Josh Bell|R|Home Run|F|Changeup|39|3|0|1|14|79
+Nick Margevicius|L|Josh Bell|R|Home Run|F|Four-Seam Fastball|40|3|1|1|12|89
+Nick Margevicius|L|Josh Bell|R|Home Run|E|Slider|41|3|2|1|5|82
+Nick Margevicius|L|Bryan Reynolds|R|Walk|B|Curveball|42|0|0|1|12|69
+Nick Margevicius|L|Bryan Reynolds|R|Walk|B|Four-Seam Fastball|43|1|0|1|14|87
+Nick Margevicius|L|Bryan Reynolds|R|Walk|S|Changeup|44|2|0|1|9|78
+Nick Margevicius|L|Bryan Reynolds|R|Walk|B|Slider|45|2|1|1|12|80
+Nick Margevicius|L|Bryan Reynolds|R|Walk|B|Changeup|46|3|1|1|13|79
+Nick Margevicius|L|Elias Diaz|R|Single|C|Changeup|47|0|0|1|6|78
+Nick Margevicius|L|Elias Diaz|R|Single|B|Four-Seam Fastball|48|0|1|1|9|88
+Nick Margevicius|L|Elias Diaz|R|Single|B|Four-Seam Fastball|49|1|1|1|13|88
+Nick Margevicius|L|Elias Diaz|R|Single|D|Changeup|50|2|1|1|14|78
+Nick Margevicius|L|Colin Moran|L|Lineout|B|Four-Seam Fastball|51|0|0|1|12|88
+Nick Margevicius|L|Colin Moran|L|Lineout|S|Slider|52|1|0|1|12|79
+Nick Margevicius|L|Colin Moran|L|Lineout|B|Four-Seam Fastball|53|1|1|1|13|88
+Nick Margevicius|L|Colin Moran|L|Lineout|F|Slider|54|2|1|1|6|81
+Nick Margevicius|L|Colin Moran|L|Lineout|X|Slider|55|2|2|1|5|82
+Nick Margevicius|L|Kevin Newman|R|Flyout|B|Changeup|56|0|0|2|12|79
+Nick Margevicius|L|Kevin Newman|R|Flyout|C|Changeup|57|1|0|2|12|78
+Nick Margevicius|L|Kevin Newman|R|Flyout|S|Slider|58|1|1|2|3|80
+Nick Margevicius|L|Kevin Newman|R|Flyout|X|Four-Seam Fastball|59|1|2|2|2|88
+Nick Margevicius|L|Steven Brault|L|Groundout|B|Four-Seam Fastball|60|0|0|0|12|86
+Nick Margevicius|L|Steven Brault|L|Groundout|C|Four-Seam Fastball|61|1|0|0|14|83
+Nick Margevicius|L|Steven Brault|L|Groundout|X|Slider|62|1|1|0|13|79
+Nick Margevicius|L|Adam Frazier|L|Flyout|B|Four-Seam Fastball|63|0|0|1|14|87
+Nick Margevicius|L|Adam Frazier|L|Flyout|C|Changeup|64|1|0|1|2|76
+Nick Margevicius|L|Adam Frazier|L|Flyout|F|Four-Seam Fastball|65|1|1|1|12|85
+Nick Margevicius|L|Adam Frazier|L|Flyout|B|Curveball|66|1|2|1|12|70
+Nick Margevicius|L|Adam Frazier|L|Flyout|X|Changeup|67|2|2|1|2|76
+Nick Margevicius|L|Starling Marte|R|Groundout|C|Curveball|68|0|0|2|4|67
+Nick Margevicius|L|Starling Marte|R|Groundout|S|Slider|69|0|1|2|13|81
+Nick Margevicius|L|Starling Marte|R|Groundout|B|Slider|70|0|2|2|13|79
+Nick Margevicius|L|Starling Marte|R|Groundout|B|Four-Seam Fastball|71|1|2|2|14|88
+Nick Margevicius|L|Starling Marte|R|Groundout|X|Four-Seam Fastball|72|2|2|2|12|86
+Nick Margevicius|L|Gregory Polanco|L|Home Run|F|Four-Seam Fastball|73|0|0|0|14|85
+Nick Margevicius|L|Gregory Polanco|L|Home Run|B|Four-Seam Fastball|74|0|1|0|3|87
+Nick Margevicius|L|Gregory Polanco|L|Home Run|B|Changeup|75|1|1|0|13|78
+Nick Margevicius|L|Gregory Polanco|L|Home Run|E|Slider|76|2|1|0|5|80
+Nick Margevicius|L|Austin Dean|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|88
+Nick Margevicius|L|Austin Dean|R|Groundout|X|Curveball|1|0|1|0|13|72
+Nick Margevicius|L|Garrett Cooper|R|Groundout|B|Four-Seam Fastball|2|0|0|1|14|89
+Nick Margevicius|L|Garrett Cooper|R|Groundout|C|Four-Seam Fastball|3|1|0|1|9|88
+Nick Margevicius|L|Garrett Cooper|R|Groundout|B|Slider|4|1|1|1|12|78
+Nick Margevicius|L|Garrett Cooper|R|Groundout|X|Changeup|5|2|1|1|9|79
+Nick Margevicius|L|Brian Anderson|R|Strikeout|C|Four-Seam Fastball|6|0|0|2|9|89
+Nick Margevicius|L|Brian Anderson|R|Strikeout|B|Curveball|7|0|1|2|14|72
+Nick Margevicius|L|Brian Anderson|R|Strikeout|B|Curveball|8|1|1|2|12|70
+Nick Margevicius|L|Brian Anderson|R|Strikeout|F|Four-Seam Fastball|9|2|1|2|3|90
+Nick Margevicius|L|Brian Anderson|R|Strikeout|B|Slider|10|2|2|2|13|81
+Nick Margevicius|L|Brian Anderson|R|Strikeout|C|Slider|11|3|2|2|13|82
+Nick Margevicius|L|Starlin Castro|R|Flyout|B|Four-Seam Fastball|12|0|0|0|14|89
+Nick Margevicius|L|Starlin Castro|R|Flyout|X|Four-Seam Fastball|13|1|0|0|5|88
+Nick Margevicius|L|Harold Ramirez|R|Groundout|B|Four-Seam Fastball|14|0|0|1|12|88
+Nick Margevicius|L|Harold Ramirez|R|Groundout|B|Slider|15|1|0|1|12|81
+Nick Margevicius|L|Harold Ramirez|R|Groundout|X|Four-Seam Fastball|16|2|0|1|5|88
+Nick Margevicius|L|Martin Prado|R|Single|C|Four-Seam Fastball|17|0|0|2|12|88
+Nick Margevicius|L|Martin Prado|R|Single|B|Curveball|18|0|1|2|12|70
+Nick Margevicius|L|Martin Prado|R|Single|F|Four-Seam Fastball|19|1|1|2|12|88
+Nick Margevicius|L|Martin Prado|R|Single|D|Curveball|20|1|2|2|7|72
+Nick Margevicius|L|Miguel Rojas|R|Forceout|X|Changeup|21|0|0|2|14|79
+Nick Margevicius|L|Bryan Holaday|R|Groundout|C|Four-Seam Fastball|22|0|0|0|9|87
+Nick Margevicius|L|Bryan Holaday|R|Groundout|F|Four-Seam Fastball|23|0|1|0|12|88
+Nick Margevicius|L|Bryan Holaday|R|Groundout|B|Slider|24|0|2|0|14|81
+Nick Margevicius|L|Bryan Holaday|R|Groundout|X|Four-Seam Fastball|25|1|2|0|2|89
+Nick Margevicius|L|Jose Urena|R|Groundout|B|Four-Seam Fastball|26|0|0|1|12|87
+Nick Margevicius|L|Jose Urena|R|Groundout|S|Four-Seam Fastball|27|1|0|1|6|87
+Nick Margevicius|L|Jose Urena|R|Groundout|C|Four-Seam Fastball|28|1|1|1|6|88
+Nick Margevicius|L|Jose Urena|R|Groundout|F|Four-Seam Fastball|29|1|2|1|3|88
+Nick Margevicius|L|Jose Urena|R|Groundout|X|Slider|30|1|2|1|14|81
+Nick Margevicius|L|Austin Dean|R|Groundout|C|Four-Seam Fastball|31|0|0|2|6|89
+Nick Margevicius|L|Austin Dean|R|Groundout|B|Changeup|32|0|1|2|14|80
+Nick Margevicius|L|Austin Dean|R|Groundout|B|Curveball|33|1|1|2|13|72
+Nick Margevicius|L|Austin Dean|R|Groundout|X|Four-Seam Fastball|34|2|1|2|4|89
+Nick Margevicius|L|Garrett Cooper|R|Single|B|Changeup|35|0|0|0|14|79
+Nick Margevicius|L|Garrett Cooper|R|Single|S|Four-Seam Fastball|36|1|0|0|12|88
+Nick Margevicius|L|Garrett Cooper|R|Single|F|Curveball|37|1|1|0|13|72
+Nick Margevicius|L|Garrett Cooper|R|Single|D|Four-Seam Fastball|38|1|2|0|2|89
+Nick Margevicius|L|Brian Anderson|R|Double|D|Curveball|39|0|0|0|2|70
+Nick Margevicius|L|Starlin Castro|R|Walk|B|Four-Seam Fastball|40|0|0|0|12|89
+Nick Margevicius|L|Starlin Castro|R|Walk|B|Slider|41|1|0|0|14|81
+Nick Margevicius|L|Starlin Castro|R|Walk|B|Changeup|42|2|0|0|12|79
+Nick Margevicius|L|Starlin Castro|R|Walk|B|Four-Seam Fastball|43|3|0|0|14|88
+Nick Margevicius|L|Harold Ramirez|R|Double|B|Four-Seam Fastball|44|0|0|0|14|89
+Nick Margevicius|L|Harold Ramirez|R|Double|E|Four-Seam Fastball|45|1|0|0|13|88
+Nick Margevicius|L|Martin Prado|R|Single|C|Changeup|46|0|0|0|12|79
+Nick Margevicius|L|Martin Prado|R|Single|E|Four-Seam Fastball|47|0|1|0|5|90
+Nick Margevicius|L|Miguel Rojas|R|Single|*B|Curveball|48|0|0|0|13|72
+Nick Margevicius|L|Miguel Rojas|R|Single|B|Changeup|49|1|0|0|14|80
+Nick Margevicius|L|Miguel Rojas|R|Single|F|Four-Seam Fastball|50|2|0|0|1|90
+Nick Margevicius|L|Miguel Rojas|R|Single|F|Slider|51|2|1|0|8|80
+Nick Margevicius|L|Miguel Rojas|R|Single|E|Four-Seam Fastball|52|2|2|0|5|90
+Nick Margevicius|L|Trea Turner|R|Pop Out|B|Four-Seam Fastball|0|0|0|0|14|87
+Nick Margevicius|L|Trea Turner|R|Pop Out|C|Four-Seam Fastball|1|1|0|0|9|87
+Nick Margevicius|L|Trea Turner|R|Pop Out|B|Slider|2|1|1|0|14|80
+Nick Margevicius|L|Trea Turner|R|Pop Out|X|Slider|3|2|1|0|1|79
+Nick Margevicius|L|Adam Eaton|L|Lineout|C|Four-Seam Fastball|4|0|0|1|3|88
+Nick Margevicius|L|Adam Eaton|L|Lineout|B|Curveball|5|0|1|1|12|71
+Nick Margevicius|L|Adam Eaton|L|Lineout|F|Slider|6|1|1|1|12|80
+Nick Margevicius|L|Adam Eaton|L|Lineout|F|Four-Seam Fastball|7|1|2|1|12|89
+Nick Margevicius|L|Adam Eaton|L|Lineout|X|Four-Seam Fastball|8|1|2|1|4|89
+Nick Margevicius|L|Anthony Rendon|R|Single|C|Four-Seam Fastball|9|0|0|2|14|88
+Nick Margevicius|L|Anthony Rendon|R|Single|C|Four-Seam Fastball|10|0|1|2|14|89
+Nick Margevicius|L|Anthony Rendon|R|Single|B|Four-Seam Fastball|11|0|2|2|12|89
+Nick Margevicius|L|Anthony Rendon|R|Single|D|Four-Seam Fastball|12|1|2|2|4|88
+Nick Margevicius|L|Juan Soto|L|Flyout|X|Four-Seam Fastball|13|0|0|2|4|89
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|C|Curveball|14|0|0|0|2|69
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|S|Slider|15|0|1|0|8|79
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|B|Curveball|16|0|2|0|13|71
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|B|Four-Seam Fastball|17|1|2|0|12|87
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|F|Curveball|18|2|2|0|6|70
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|F|Slider|19|2|2|0|12|80
+Nick Margevicius|L|Howie Kendrick|R|Strikeout|W|Slider|20|2|2|0|13|80
+Nick Margevicius|L|Brian Dozier|R|Lineout|B|Four-Seam Fastball|21|0|0|1|12|88
+Nick Margevicius|L|Brian Dozier|R|Lineout|C|Curveball|22|1|0|1|12|70
+Nick Margevicius|L|Brian Dozier|R|Lineout|B|Four-Seam Fastball|23|1|1|1|14|88
+Nick Margevicius|L|Brian Dozier|R|Lineout|C|Four-Seam Fastball|24|2|1|1|14|87
+Nick Margevicius|L|Brian Dozier|R|Lineout|X|Four-Seam Fastball|25|2|2|1|12|88
+Nick Margevicius|L|Victor Robles|R|Strikeout|B|Four-Seam Fastball|26|0|0|2|14|88
+Nick Margevicius|L|Victor Robles|R|Strikeout|F|Slider|27|1|0|2|11|80
+Nick Margevicius|L|Victor Robles|R|Strikeout|C|Curveball|28|1|1|2|5|70
+Nick Margevicius|L|Victor Robles|R|Strikeout|F|Slider|29|1|2|2|14|79
+Nick Margevicius|L|Victor Robles|R|Strikeout|F|Four-Seam Fastball|30|1|2|2|11|89
+Nick Margevicius|L|Victor Robles|R|Strikeout|B|Slider|31|1|2|2|14|80
+Nick Margevicius|L|Victor Robles|R|Strikeout|B|Curveball|32|2|2|2|13|71
+Nick Margevicius|L|Victor Robles|R|Strikeout|S|Slider|33|3|2|2|13|80
+Nick Margevicius|L|Yan Gomes|R|Single|B|Curveball|34|0|0|0|12|68
+Nick Margevicius|L|Yan Gomes|R|Single|B|Four-Seam Fastball|35|1|0|0|14|86
+Nick Margevicius|L|Yan Gomes|R|Single|C|Four-Seam Fastball|36|2|0|0|8|86
+Nick Margevicius|L|Yan Gomes|R|Single|F|Slider|37|2|1|0|2|80
+Nick Margevicius|L|Yan Gomes|R|Single|D|Slider|38|2|2|0|5|80
+Nick Margevicius|L|Erick Fedde|R|Sac Bunt|L|Four-Seam Fastball|39|0|0|0|3|86
+Nick Margevicius|L|Erick Fedde|R|Sac Bunt|X|Four-Seam Fastball|40|0|1|0|3|88
+Nick Margevicius|L|Trea Turner|R|Pop Out|C|Slider|41|0|0|1|6|80
+Nick Margevicius|L|Trea Turner|R|Pop Out|B|Four-Seam Fastball|42|0|1|1|14|88
+Nick Margevicius|L|Trea Turner|R|Pop Out|X|Four-Seam Fastball|43|1|1|1|4|88
+Nick Margevicius|L|Adam Eaton|L|Groundout|C|Curveball|44|0|0|2|4|70
+Nick Margevicius|L|Adam Eaton|L|Groundout|X|Slider|45|0|1|2|8|82
+Nick Margevicius|L|Anthony Rendon|R|Strikeout|F|Curveball|46|0|0|0|13|69
+Nick Margevicius|L|Anthony Rendon|R|Strikeout|F|Slider|47|0|1|0|6|79
+Nick Margevicius|L|Anthony Rendon|R|Strikeout|T|Four-Seam Fastball|48|0|2|0|12|88
+Nick Margevicius|L|Juan Soto|L|Groundout|B|Four-Seam Fastball|49|0|0|1|14|88
+Nick Margevicius|L|Juan Soto|L|Groundout|F|Slider|50|1|0|1|7|81
+Nick Margevicius|L|Juan Soto|L|Groundout|X|Curveball|51|1|1|1|3|70
+Nick Margevicius|L|Howie Kendrick|R|Single|B|Four-Seam Fastball|52|0|0|2|14|87
+Nick Margevicius|L|Howie Kendrick|R|Single|D|Curveball|53|1|0|2|9|71
+Nick Margevicius|L|Matt Beaty|L|Groundout|F|Four-Seam Fastball|0|0|0|2|11|89
+Nick Margevicius|L|Matt Beaty|L|Groundout|B|Four-Seam Fastball|1|0|1|2|14|89
+Nick Margevicius|L|Matt Beaty|L|Groundout|X|Curveball|2|1|1|2|7|70
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|89
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|1|1|0|0|2|90
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|2|1|1|0|12|90
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|B|Curveball|3|2|1|0|14|71
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|F|Four-Seam Fastball|4|3|1|0|2|88
+Nick Margevicius|L|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|5|3|2|0|4|89
+Nick Margevicius|L|Victor Caratini|R|Strikeout|B|Changeup|6|0|0|1|12|79
+Nick Margevicius|L|Victor Caratini|R|Strikeout|C|Four-Seam Fastball|7|1|0|1|12|90
+Nick Margevicius|L|Victor Caratini|R|Strikeout|S|Four-Seam Fastball|8|1|1|1|5|89
+Nick Margevicius|L|Victor Caratini|R|Strikeout|C|Four-Seam Fastball|9|1|2|1|13|91
+Nick Margevicius|L|Nico Hoerner|R|Groundout|F|Four-Seam Fastball|10|0|0|2|3|91
+Nick Margevicius|L|Nico Hoerner|R|Groundout|S|Curveball|11|0|1|2|8|72
+Nick Margevicius|L|Nico Hoerner|R|Groundout|X|Four-Seam Fastball|12|0|2|2|11|91
+Nick Margevicius|L|Kyle Schwarber|L|Strikeout|C|Four-Seam Fastball|0|0|0|0|6|91
+Nick Margevicius|L|Kyle Schwarber|L|Strikeout|F|Curveball|1|0|1|0|9|71
+Nick Margevicius|L|Kyle Schwarber|L|Strikeout|B|Curveball|2|0|2|0|14|70
+Nick Margevicius|L|Kyle Schwarber|L|Strikeout|S|Four-Seam Fastball|3|1|2|0|7|90
+Nick Margevicius|L|Kris Bryant|R|Groundout|B|Four-Seam Fastball|4|0|0|1|14|90
+Nick Margevicius|L|Kris Bryant|R|Groundout|C|Four-Seam Fastball|5|1|0|1|12|90
+Nick Margevicius|L|Kris Bryant|R|Groundout|X|Curveball|6|1|1|1|9|71
+Nick Margevicius|L|Victor Caratini|R|Groundout|C|Four-Seam Fastball|7|0|0|2|5|90
+Nick Margevicius|L|Victor Caratini|R|Groundout|B|Curveball|8|0|1|2|14|70
+Nick Margevicius|L|Victor Caratini|R|Groundout|B|Four-Seam Fastball|9|1|1|2|11|90
+Nick Margevicius|L|Victor Caratini|R|Groundout|S|Four-Seam Fastball|10|2|1|2|12|89
+Nick Margevicius|L|Victor Caratini|R|Groundout|X|Four-Seam Fastball|11|2|2|2|7|90
+Nick Margevicius|L|Jason Heyward|L|Double|D|Four-Seam Fastball|12|0|0|0|3|88
+Nick Margevicius|L|Ian Happ|R|Single|B|Four-Seam Fastball|13|0|0|0|12|88
+Nick Margevicius|L|Ian Happ|R|Single|F|Four-Seam Fastball|14|1|0|0|6|87
+Nick Margevicius|L|Ian Happ|R|Single|D|Curveball|15|1|1|0|6|71
+Nick Margevicius|L|Josh Rojas|L|Double|E|Slider|0|0|0|2|8|80
+Nick Margevicius|L|Eduardo Escobar|R|Walk|B|Four-Seam Fastball|1|0|0|2|12|90
+Nick Margevicius|L|Eduardo Escobar|R|Walk|B|Four-Seam Fastball|2|1|0|2|12|90
+Nick Margevicius|L|Eduardo Escobar|R|Walk|B|Four-Seam Fastball|3|2|0|2|12|90
+Nick Margevicius|L|Eduardo Escobar|R|Walk|C|Four-Seam Fastball|4|3|0|2|12|89
+Nick Margevicius|L|Eduardo Escobar|R|Walk|F|Changeup|5|3|1|2|14|81
+Nick Margevicius|L|Eduardo Escobar|R|Walk|B|Four-Seam Fastball|6|3|2|2|14|89
+Nick Margevicius|L|Christian Walker|R|Walk|B|Four-Seam Fastball|7|0|0|2|13|91
+Nick Margevicius|L|Christian Walker|R|Walk|B|Changeup|8|1|0|2|14|81
+Nick Margevicius|L|Christian Walker|R|Walk|C|Four-Seam Fastball|9|2|0|2|14|90
+Nick Margevicius|L|Christian Walker|R|Walk|B|Four-Seam Fastball|10|2|1|2|12|89
+Nick Margevicius|L|Christian Walker|R|Walk|B|Four-Seam Fastball|11|3|1|2|12|91
+Nick Margevicius|L|Kevin Pillar|R|Flyout|C|Four-Seam Fastball|0|0|0|0|14|87
+Nick Margevicius|L|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|1|0|1|0|2|88
+Nick Margevicius|L|Steven Duggar|L|Flyout|B|Four-Seam Fastball|2|0|0|1|14|88
+Nick Margevicius|L|Steven Duggar|L|Flyout|X|Four-Seam Fastball|3|1|0|1|8|87
+Nick Margevicius|L|Tyler Austin|R|Strikeout|B|Four-Seam Fastball|4|0|0|2|14|88
+Nick Margevicius|L|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|5|1|0|2|6|87
+Nick Margevicius|L|Tyler Austin|R|Strikeout|B|Curveball|6|1|1|2|13|72
+Nick Margevicius|L|Tyler Austin|R|Strikeout|F|Four-Seam Fastball|7|2|1|2|3|88
+Nick Margevicius|L|Tyler Austin|R|Strikeout|B|Changeup|8|2|2|2|14|80
+Nick Margevicius|L|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|9|3|2|2|7|88
+Nick Margevicius|L|Buster Posey|R|Groundout|B|Four-Seam Fastball|10|0|0|0|12|86
+Nick Margevicius|L|Buster Posey|R|Groundout|C|Four-Seam Fastball|11|1|0|0|14|85
+Nick Margevicius|L|Buster Posey|R|Groundout|F|Four-Seam Fastball|12|1|1|0|12|87
+Nick Margevicius|L|Buster Posey|R|Groundout|X|Slider|13|1|2|0|8|80
+Nick Margevicius|L|Brandon Crawford|L|Groundout|C|Curveball|14|0|0|1|7|71
+Nick Margevicius|L|Brandon Crawford|L|Groundout|B|Changeup|15|0|1|1|12|79
+Nick Margevicius|L|Brandon Crawford|L|Groundout|B|Four-Seam Fastball|16|1|1|1|7|88
+Nick Margevicius|L|Brandon Crawford|L|Groundout|X|Four-Seam Fastball|17|2|1|1|9|87
+Nick Margevicius|L|Evan Longoria|R|Groundout|B|Four-Seam Fastball|18|0|0|2|14|87
+Nick Margevicius|L|Evan Longoria|R|Groundout|B|Four-Seam Fastball|19|1|0|2|12|87
+Nick Margevicius|L|Evan Longoria|R|Groundout|X|Four-Seam Fastball|20|2|0|2|2|87
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|C|Four-Seam Fastball|21|0|0|0|3|86
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|F|Curveball|22|0|1|0|9|70
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|X|Slider|23|0|2|0|14|78
+Nick Margevicius|L|Erik Kratz|R|Pop Out|F|Four-Seam Fastball|24|0|0|1|4|87
+Nick Margevicius|L|Erik Kratz|R|Pop Out|X|Four-Seam Fastball|25|0|1|1|2|89
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|F|Four-Seam Fastball|26|0|0|2|14|88
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|C|Curveball|27|0|1|2|14|71
+Nick Margevicius|L|Dereck Rodriguez|R|Strikeout|W|Slider|28|0|2|2|13|78
+Nick Margevicius|L|Kevin Pillar|R|Home Run|B|Slider|29|0|0|0|12|79
+Nick Margevicius|L|Kevin Pillar|R|Home Run|B|Four-Seam Fastball|30|1|0|0|14|86
+Nick Margevicius|L|Kevin Pillar|R|Home Run|E|Four-Seam Fastball|31|2|0|0|2|86
+Nick Margevicius|L|Steven Duggar|L|Groundout|C|Four-Seam Fastball|32|0|0|0|9|88
+Nick Margevicius|L|Steven Duggar|L|Groundout|F|Curveball|33|0|1|0|5|71
+Nick Margevicius|L|Steven Duggar|L|Groundout|B|Four-Seam Fastball|34|0|2|0|11|89
+Nick Margevicius|L|Steven Duggar|L|Groundout|X|Slider|35|1|2|0|8|79
+Nick Margevicius|L|Tyler Austin|R|Single|C|Four-Seam Fastball|36|0|0|1|14|87
+Nick Margevicius|L|Tyler Austin|R|Single|B|Changeup|37|0|1|1|14|79
+Nick Margevicius|L|Tyler Austin|R|Single|F|Four-Seam Fastball|38|1|1|1|1|88
+Nick Margevicius|L|Tyler Austin|R|Single|F|Slider|39|1|2|1|7|81
+Nick Margevicius|L|Tyler Austin|R|Single|B|Slider|40|1|2|1|14|80
+Nick Margevicius|L|Tyler Austin|R|Single|D|Four-Seam Fastball|41|2|2|1|12|89
+Nick Margevicius|L|Buster Posey|R|Pop Out|B|Changeup|42|0|0|1|13|79
+Nick Margevicius|L|Buster Posey|R|Pop Out|C|Four-Seam Fastball|43|1|0|1|14|88
+Nick Margevicius|L|Buster Posey|R|Pop Out|F|Changeup|44|1|1|1|13|79
+Nick Margevicius|L|Buster Posey|R|Pop Out|X|Four-Seam Fastball|45|1|2|1|1|88
+Nick Margevicius|L|Brandon Crawford|L|Single|*B|Slider|46|0|0|2|13|78
+Nick Margevicius|L|Brandon Crawford|L|Single|S|Four-Seam Fastball|47|1|0|2|12|87
+Nick Margevicius|L|Brandon Crawford|L|Single|D|Four-Seam Fastball|48|1|1|2|5|88
+Nick Margevicius|L|Evan Longoria|R|Forceout|C|Curveball|49|0|0|2|9|71
+Nick Margevicius|L|Evan Longoria|R|Forceout|X|Changeup|50|0|1|2|14|79
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|B|Changeup|51|0|0|0|12|76
+Nick Margevicius|L|Yangervis Solarte|R|Groundout|X|Slider|52|1|0|0|13|76
+Nick Margevicius|L|Erik Kratz|R|Double|B|Four-Seam Fastball|53|0|0|1|12|87
+Nick Margevicius|L|Erik Kratz|R|Double|C|Slider|54|1|0|1|3|76
+Nick Margevicius|L|Erik Kratz|R|Double|D|Four-Seam Fastball|55|1|1|1|12|87
+Nick Margevicius|L|Dereck Rodriguez|R|Single|F|Slider|56|0|0|1|13|78
+Nick Margevicius|L|Dereck Rodriguez|R|Single|S|Curveball|57|0|1|1|14|71
+Nick Margevicius|L|Dereck Rodriguez|R|Single|*B|Slider|58|0|2|1|14|79
+Nick Margevicius|L|Dereck Rodriguez|R|Single|D|Curveball|59|1|2|1|14|69
+Nick Margevicius|L|Kevin Pillar|R|Fielders Choice Out|X|Curveball|60|0|0|1|14|70
+Nick Margevicius|L|Steven Duggar|L|Strikeout|S|Slider|61|0|0|2|12|80
+Nick Margevicius|L|Steven Duggar|L|Strikeout|S|Four-Seam Fastball|62|0|1|2|6|88
+Nick Margevicius|L|Steven Duggar|L|Strikeout|*B|Slider|63|0|2|2|13|79
+Nick Margevicius|L|Steven Duggar|L|Strikeout|W|Slider|64|1|2|2|13|79
+Nick Margevicius|L|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|65|0|0|0|8|86
+Nick Margevicius|L|Tyler Austin|R|Strikeout|C|Curveball|66|0|1|0|14|70
+Nick Margevicius|L|Tyler Austin|R|Strikeout|B|Slider|67|0|2|0|14|78
+Nick Margevicius|L|Tyler Austin|R|Strikeout|S|Four-Seam Fastball|68|1|2|0|12|87
+Nick Margevicius|L|Buster Posey|R|Strikeout|B|Curveball|69|0|0|1|12|69
+Nick Margevicius|L|Buster Posey|R|Strikeout|C|Changeup|70|1|0|1|6|77
+Nick Margevicius|L|Buster Posey|R|Strikeout|F|Slider|71|1|1|1|7|78
+Nick Margevicius|L|Buster Posey|R|Strikeout|S|Slider|72|1|2|1|13|77
+Nick Margevicius|L|Brandon Crawford|L|Strikeout|F|Four-Seam Fastball|73|0|0|2|5|87
+Nick Margevicius|L|Brandon Crawford|L|Strikeout|S|Curveball|74|0|1|2|13|72
+Nick Margevicius|L|Brandon Crawford|L|Strikeout|B|Curveball|75|0|2|2|13|72
+Nick Margevicius|L|Brandon Crawford|L|Strikeout|S|Slider|76|1|2|2|14|79
+Nick Margevicius|L|Matt Carpenter|L|Groundout|B|Four-Seam Fastball|0|0|0|0|12|86
+Nick Margevicius|L|Matt Carpenter|L|Groundout|X|Four-Seam Fastball|1|1|0|0|8|87
+Nick Margevicius|L|Paul Goldschmidt|R|Walk|B|Curveball|2|0|0|1|14|70
+Nick Margevicius|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|3|1|0|1|14|87
+Nick Margevicius|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|4|2|0|1|12|87
+Nick Margevicius|L|Paul Goldschmidt|R|Walk|C|Four-Seam Fastball|5|3|0|1|8|87
+Nick Margevicius|L|Paul Goldschmidt|R|Walk|B|Four-Seam Fastball|6|3|1|1|13|88
+Nick Margevicius|L|Paul DeJong|R|Strikeout|C|Four-Seam Fastball|7|0|0|1|4|87
+Nick Margevicius|L|Paul DeJong|R|Strikeout|T|Slider|8|0|1|1|3|77
+Nick Margevicius|L|Paul DeJong|R|Strikeout|B|Slider|9|0|2|1|13|78
+Nick Margevicius|L|Paul DeJong|R|Strikeout|C|Four-Seam Fastball|10|1|2|1|8|89
+Nick Margevicius|L|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|11|0|0|2|14|88
+Nick Margevicius|L|Marcell Ozuna|R|Flyout|F|Four-Seam Fastball|12|1|0|2|4|88
+Nick Margevicius|L|Marcell Ozuna|R|Flyout|B|Four-Seam Fastball|13|1|1|2|12|88
+Nick Margevicius|L|Marcell Ozuna|R|Flyout|T|Four-Seam Fastball|14|2|1|2|5|87
+Nick Margevicius|L|Marcell Ozuna|R|Flyout|X|Four-Seam Fastball|15|2|2|2|3|89
+Nick Margevicius|L|Yadier Molina|R|Groundout|X|Four-Seam Fastball|16|0|0|0|3|86
+Nick Margevicius|L|Dexter Fowler|R|Groundout|B|Four-Seam Fastball|17|0|0|1|13|88
+Nick Margevicius|L|Dexter Fowler|R|Groundout|C|Slider|18|1|0|1|7|80
+Nick Margevicius|L|Dexter Fowler|R|Groundout|X|Four-Seam Fastball|19|1|1|1|5|87
+Nick Margevicius|L|Harrison Bader|R|Flyout|C|Curveball|20|0|0|2|4|70
+Nick Margevicius|L|Harrison Bader|R|Flyout|B|Slider|21|0|1|2|14|79
+Nick Margevicius|L|Harrison Bader|R|Flyout|X|Four-Seam Fastball|22|1|1|2|12|88
+Nick Margevicius|L|Kolten Wong|L|Groundout|C|Four-Seam Fastball|23|0|0|0|5|86
+Nick Margevicius|L|Kolten Wong|L|Groundout|B|Slider|24|0|1|0|13|78
+Nick Margevicius|L|Kolten Wong|L|Groundout|B|Slider|25|1|1|0|9|79
+Nick Margevicius|L|Kolten Wong|L|Groundout|B|Four-Seam Fastball|26|2|1|0|13|86
+Nick Margevicius|L|Kolten Wong|L|Groundout|X|Four-Seam Fastball|27|3|1|0|5|86
+Nick Margevicius|L|Jack Flaherty|R|Lineout|C|Four-Seam Fastball|28|0|0|1|3|86
+Nick Margevicius|L|Jack Flaherty|R|Lineout|B|Four-Seam Fastball|29|0|1|1|12|88
+Nick Margevicius|L|Jack Flaherty|R|Lineout|X|Four-Seam Fastball|30|1|1|1|8|88
+Nick Margevicius|L|Matt Carpenter|L|Lineout|B|Slider|31|0|0|2|13|80
+Nick Margevicius|L|Matt Carpenter|L|Lineout|T|Four-Seam Fastball|32|1|0|2|9|88
+Nick Margevicius|L|Matt Carpenter|L|Lineout|X|Four-Seam Fastball|33|1|1|2|5|88
+Nick Margevicius|L|Paul Goldschmidt|R|Groundout|C|Four-Seam Fastball|34|0|0|0|14|87
+Nick Margevicius|L|Paul Goldschmidt|R|Groundout|X|Curveball|35|0|1|0|9|71
+Nick Margevicius|L|Paul DeJong|R|Home Run|S|Slider|36|0|0|1|11|78
+Nick Margevicius|L|Paul DeJong|R|Home Run|E|Slider|37|0|1|1|7|80
+Nick Margevicius|L|Marcell Ozuna|R|Groundout|C|Curveball|38|0|0|1|5|71
+Nick Margevicius|L|Marcell Ozuna|R|Groundout|T|Four-Seam Fastball|39|0|1|1|3|88
+Nick Margevicius|L|Marcell Ozuna|R|Groundout|B|Four-Seam Fastball|40|0|2|1|12|88
+Nick Margevicius|L|Marcell Ozuna|R|Groundout|X|Slider|41|1|2|1|13|80
+Nick Margevicius|L|Yadier Molina|R|Flyout|B|Four-Seam Fastball|42|0|0|2|12|88
+Nick Margevicius|L|Yadier Molina|R|Flyout|C|Curveball|43|1|0|2|9|72
+Nick Margevicius|L|Yadier Molina|R|Flyout|B|Curveball|44|1|1|2|12|68
+Nick Margevicius|L|Yadier Molina|R|Flyout|X|Four-Seam Fastball|45|2|1|2|9|87
+Nick Margevicius|L|Dexter Fowler|R|Lineout|X|Four-Seam Fastball|46|0|0|0|1|86
+Nick Margevicius|L|Harrison Bader|R|Groundout|C|Curveball|47|0|0|1|3|69
+Nick Margevicius|L|Harrison Bader|R|Groundout|B|Changeup|48|0|1|1|14|79
+Nick Margevicius|L|Harrison Bader|R|Groundout|B|Changeup|49|1|1|1|12|79
+Nick Margevicius|L|Harrison Bader|R|Groundout|B|Four-Seam Fastball|50|2|1|1|12|87
+Nick Margevicius|L|Harrison Bader|R|Groundout|F|Four-Seam Fastball|51|3|1|1|13|87
+Nick Margevicius|L|Harrison Bader|R|Groundout|X|Slider|52|3|2|1|14|80
+Nick Margevicius|L|Kolten Wong|L|Flyout|X|Slider|53|0|0|2|4|80
+Nick Margevicius|L|Ozzie Albies|R|Groundout|B|Four-Seam Fastball|0|0|0|0|14|88
+Nick Margevicius|L|Ozzie Albies|R|Groundout|X|Four-Seam Fastball|1|1|0|0|9|88
+Nick Margevicius|L|Josh Donaldson|R|Strikeout|B|Four-Seam Fastball|2|0|0|1|14|88
+Nick Margevicius|L|Josh Donaldson|R|Strikeout|C|Changeup|3|1|0|1|14|80
+Nick Margevicius|L|Josh Donaldson|R|Strikeout|F|Four-Seam Fastball|4|1|1|1|5|90
+Nick Margevicius|L|Josh Donaldson|R|Strikeout|C|Slider|5|1|2|1|9|82
+Nick Margevicius|L|Freddie Freeman|L|Groundout|C|Four-Seam Fastball|6|0|0|2|9|90
+Nick Margevicius|L|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|7|0|1|2|14|89
+Nick Margevicius|L|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|8|1|1|2|12|90
+Nick Margevicius|L|Freddie Freeman|L|Groundout|C|Slider|9|2|1|2|14|83
+Nick Margevicius|L|Freddie Freeman|L|Groundout|F|Slider|10|2|2|2|13|81
+Nick Margevicius|L|Freddie Freeman|L|Groundout|X|Slider|11|2|2|2|14|80
+Nick Margevicius|L|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|12|0|0|0|12|88
+Nick Margevicius|L|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|13|1|0|0|6|87
+Nick Margevicius|L|Ronald Acuna Jr.|R|Strikeout|F|Four-Seam Fastball|14|1|1|0|9|88
+Nick Margevicius|L|Ronald Acuna Jr.|R|Strikeout|B|Four-Seam Fastball|15|1|2|0|12|89
+Nick Margevicius|L|Ronald Acuna Jr.|R|Strikeout|C|Slider|16|2|2|0|7|82
+Nick Margevicius|L|Nick Markakis|L|Groundout|B|Curveball|17|0|0|1|13|70
+Nick Margevicius|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|18|1|0|1|13|88
+Nick Margevicius|L|Nick Markakis|L|Groundout|C|Four-Seam Fastball|19|2|0|1|9|87
+Nick Margevicius|L|Nick Markakis|L|Groundout|S|Four-Seam Fastball|20|2|1|1|2|87
+Nick Margevicius|L|Nick Markakis|L|Groundout|F|Slider|21|2|2|1|3|79
+Nick Margevicius|L|Nick Markakis|L|Groundout|F|Slider|22|2|2|1|7|81
+Nick Margevicius|L|Nick Markakis|L|Groundout|X|Slider|23|2|2|1|13|82
+Nick Margevicius|L|Dansby Swanson|R|Groundout|B|Four-Seam Fastball|24|0|0|2|12|89
+Nick Margevicius|L|Dansby Swanson|R|Groundout|B|Four-Seam Fastball|25|1|0|2|14|87
+Nick Margevicius|L|Dansby Swanson|R|Groundout|F|Four-Seam Fastball|26|2|0|2|6|89
+Nick Margevicius|L|Dansby Swanson|R|Groundout|X|Slider|27|2|1|2|4|80
+Nick Margevicius|L|Tyler Flowers|R|Flyout|X|Four-Seam Fastball|28|0|0|0|5|87
+Nick Margevicius|L|Ender Inciarte|L|Single|C|Four-Seam Fastball|29|0|0|1|9|87
+Nick Margevicius|L|Ender Inciarte|L|Single|F|Four-Seam Fastball|30|0|1|1|14|88
+Nick Margevicius|L|Ender Inciarte|L|Single|F|Slider|31|0|2|1|14|82
+Nick Margevicius|L|Ender Inciarte|L|Single|D|Slider|32|0|2|1|7|81
+Nick Margevicius|L|Mike Soroka|R|Fielders Choice|L|Four-Seam Fastball|33|0|0|1|14|87
+Nick Margevicius|L|Mike Soroka|R|Fielders Choice|E|Four-Seam Fastball|34|0|1|1|5|88
+Nick Margevicius|L|Ozzie Albies|R|Single|B|Slider|35|0|0|1|12|82
+Nick Margevicius|L|Ozzie Albies|R|Single|S|Four-Seam Fastball|36|1|0|1|3|88
+Nick Margevicius|L|Ozzie Albies|R|Single|F|Slider|37|1|1|1|7|81
+Nick Margevicius|L|Ozzie Albies|R|Single|E|Four-Seam Fastball|38|1|2|1|2|88
+Nick Margevicius|L|Josh Donaldson|R|Flyout|X|Slider|39|0|0|1|9|79
+Nick Margevicius|L|Freddie Freeman|L|Groundout|B|Four-Seam Fastball|40|0|0|2|3|88
+Nick Margevicius|L|Freddie Freeman|L|Groundout|F|Four-Seam Fastball|41|1|0|2|8|88
+Nick Margevicius|L|Freddie Freeman|L|Groundout|X|Four-Seam Fastball|42|1|1|2|6|88
+Nick Margevicius|L|Ronald Acuna Jr.|R|Field Error|S|Four-Seam Fastball|43|0|0|0|6|87
+Nick Margevicius|L|Ronald Acuna Jr.|R|Field Error|F|Four-Seam Fastball|44|0|1|0|8|88
+Nick Margevicius|L|Ronald Acuna Jr.|R|Field Error|B|Slider|45|0|2|0|13|77
+Nick Margevicius|L|Ronald Acuna Jr.|R|Field Error|B|Slider|46|1|2|0|13|77
+Nick Margevicius|L|Ronald Acuna Jr.|R|Field Error|D|Slider|47|2|2|0|14|80
+Nick Margevicius|L|Nick Markakis|L|Groundout|C|Four-Seam Fastball|48|0|0|0|13|89
+Nick Margevicius|L|Nick Markakis|L|Groundout|B|Four-Seam Fastball|49|0|1|0|14|88
+Nick Margevicius|L|Nick Markakis|L|Groundout|X|Slider|50|1|1|0|14|82
+Nick Margevicius|L|Dansby Swanson|R|Groundout|C|Curveball|51|0|0|1|9|70
+Nick Margevicius|L|Dansby Swanson|R|Groundout|B|Slider|52|0|1|1|13|80
+Nick Margevicius|L|Dansby Swanson|R|Groundout|S|Slider|53|1|1|1|12|80
+Nick Margevicius|L|Dansby Swanson|R|Groundout|X|Slider|54|1|2|1|8|78
+Nick Margevicius|L|Tyler Flowers|R|Groundout|B|Slider|55|0|0|2|14|81
+Nick Margevicius|L|Tyler Flowers|R|Groundout|X|Slider|56|1|0|2|6|81
+Nick Margevicius|L|Johan Camargo|R|Groundout|S|Four-Seam Fastball|57|0|0|0|14|87
+Nick Margevicius|L|Johan Camargo|R|Groundout|F|Slider|58|0|1|0|14|80
+Nick Margevicius|L|Johan Camargo|R|Groundout|X|Slider|59|0|2|0|9|80
+Nick Margevicius|L|Mike Soroka|R|Pop Out|C|Four-Seam Fastball|60|0|0|1|14|87
+Nick Margevicius|L|Mike Soroka|R|Pop Out|B|Slider|61|0|1|1|12|80
+Nick Margevicius|L|Mike Soroka|R|Pop Out|X|Slider|62|1|1|1|2|79
+Nick Margevicius|L|Ozzie Albies|R|Home Run|S|Four-Seam Fastball|63|0|0|2|14|88
+Nick Margevicius|L|Ozzie Albies|R|Home Run|E|Slider|64|0|1|2|13|80
+Nick Margevicius|L|Josh Donaldson|R|Walk|B|Changeup|65|0|0|2|14|79
+Nick Margevicius|L|Josh Donaldson|R|Walk|S|Changeup|66|1|0|2|8|78
+Nick Margevicius|L|Josh Donaldson|R|Walk|B|Slider|67|1|1|2|14|82
+Nick Margevicius|L|Josh Donaldson|R|Walk|B|Changeup|68|2|1|2|14|80
+Nick Margevicius|L|Josh Donaldson|R|Walk|B|Slider|69|3|1|2|13|79
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|B|Slider|70|0|0|2|2|81
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|F|Four-Seam Fastball|71|1|0|2|14|87
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|S|Changeup|72|1|1|2|2|78
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|F|Slider|73|1|2|2|9|82
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|B|Four-Seam Fastball|74|1|2|2|12|88
+Nick Margevicius|L|Freddie Freeman|L|Strikeout|S|Slider|75|2|2|2|13|80
+Nick Margevicius|L|Ronald Acuna Jr.|R|Groundout|B|Changeup|76|0|0|0|14|78
+Nick Margevicius|L|Ronald Acuna Jr.|R|Groundout|X|Four-Seam Fastball|77|1|0|0|9|87
+Nick Margevicius|L|Nick Markakis|L|Groundout|B|Curveball|78|0|0|1|12|67
+Nick Margevicius|L|Nick Markakis|L|Groundout|S|Four-Seam Fastball|79|1|0|1|2|87
+Nick Margevicius|L|Nick Markakis|L|Groundout|C|Four-Seam Fastball|80|1|1|1|8|87
+Nick Margevicius|L|Nick Markakis|L|Groundout|X|Changeup|81|1|2|1|6|79
+Nick Margevicius|L|Dansby Swanson|R|Single|B|Curveball|82|0|0|2|12|69
+Nick Margevicius|L|Dansby Swanson|R|Single|S|Changeup|83|1|0|2|14|78
+Nick Margevicius|L|Dansby Swanson|R|Single|D|Slider|84|1|1|2|9|81
+Nick Margevicius|L|Tyler Flowers|R|Walk|B|Slider|85|0|0|2|14|79
+Nick Margevicius|L|Tyler Flowers|R|Walk|B|Slider|86|1|0|2|14|79
+Nick Margevicius|L|Tyler Flowers|R|Walk|B|Four-Seam Fastball|87|2|0|2|12|88
+Nick Margevicius|L|Tyler Flowers|R|Walk|B|Four-Seam Fastball|88|3|0|2|13|86
+Nick Margevicius|L|Johan Camargo|R|Walk|*B|Slider|89|0|0|2|13|81
+Nick Margevicius|L|Johan Camargo|R|Walk|F|Four-Seam Fastball|90|1|0|2|6|87
+Nick Margevicius|L|Johan Camargo|R|Walk|S|Four-Seam Fastball|91|1|1|2|12|87
+Nick Margevicius|L|Johan Camargo|R|Walk|B|Four-Seam Fastball|92|1|2|2|12|88
+Nick Margevicius|L|Johan Camargo|R|Walk|B|Four-Seam Fastball|93|2|2|2|12|89
+Nick Margevicius|L|Johan Camargo|R|Walk|*B|Slider|94|3|2|2|14|84

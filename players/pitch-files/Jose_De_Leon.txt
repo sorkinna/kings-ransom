@@ -1,0 +1,455 @@
+Jose De Leon|R|Yordan Alvarez|L|Groundout|B|Changeup|0|0|0|2|14|80
+Jose De Leon|R|Yordan Alvarez|L|Groundout|S|Changeup|1|1|0|2|14|80
+Jose De Leon|R|Yordan Alvarez|L|Groundout|X|Changeup|2|1|1|2|13|81
+Jose De Leon|R|Yuli Gurriel|R|Flyout|B|Changeup|3|0|0|0|14|80
+Jose De Leon|R|Yuli Gurriel|R|Flyout|X|Changeup|4|1|0|0|13|80
+Jose De Leon|R|Abraham Toro|L|Walk|B|Changeup|5|0|0|1|14|80
+Jose De Leon|R|Abraham Toro|L|Walk|F|Changeup|6|1|0|1|14|79
+Jose De Leon|R|Abraham Toro|L|Walk|B|Two-Seam Fastball|7|1|1|1|11|91
+Jose De Leon|R|Abraham Toro|L|Walk|B|Changeup|8|2|1|1|11|81
+Jose De Leon|R|Abraham Toro|L|Walk|S|Two-Seam Fastball|9|3|1|1|4|90
+Jose De Leon|R|Abraham Toro|L|Walk|B|Changeup|10|3|2|1|11|82
+Jose De Leon|R|Robinson Chirinos|R|Fielders Choice|B|Changeup|11|0|0|1|11|79
+Jose De Leon|R|Robinson Chirinos|R|Fielders Choice|B|Two-Seam Fastball|12|1|0|1|13|90
+Jose De Leon|R|Robinson Chirinos|R|Fielders Choice|D|Two-Seam Fastball|13|2|0|1|5|91
+Jose De Leon|R|Josh Reddick|L|Single|B|Changeup|14|0|0|1|13|81
+Jose De Leon|R|Josh Reddick|L|Single|S|Changeup|15|1|0|1|11|81
+Jose De Leon|R|Josh Reddick|L|Single|E|Changeup|16|1|1|1|8|82
+Jose De Leon|R|George Springer|R|Strikeout|C|Two-Seam Fastball|17|0|0|1|3|92
+Jose De Leon|R|George Springer|R|Strikeout|B|Two-Seam Fastball|18|0|1|1|11|93
+Jose De Leon|R|George Springer|R|Strikeout|S|Two-Seam Fastball|19|1|1|1|5|94
+Jose De Leon|R|George Springer|R|Strikeout|T|Two-Seam Fastball|20|1|2|1|13|93
+Jose De Leon|R|Greg Garcia|L|Flyout|B|Two-Seam Fastball|0|0|0|0|13|89
+Jose De Leon|R|Greg Garcia|L|Flyout|B|Two-Seam Fastball|1|1|0|0|13|89
+Jose De Leon|R|Greg Garcia|L|Flyout|C|Two-Seam Fastball|2|2|0|0|13|90
+Jose De Leon|R|Greg Garcia|L|Flyout|B|Two-Seam Fastball|3|2|1|0|11|89
+Jose De Leon|R|Greg Garcia|L|Flyout|X|Two-Seam Fastball|4|3|1|0|7|89
+Jose De Leon|R|Matt Strahm|R|Strikeout|S|Slider|5|0|0|1|8|79
+Jose De Leon|R|Matt Strahm|R|Strikeout|B|Two-Seam Fastball|6|0|1|1|11|91
+Jose De Leon|R|Matt Strahm|R|Strikeout|B|Two-Seam Fastball|7|1|1|1|14|91
+Jose De Leon|R|Matt Strahm|R|Strikeout|C|Two-Seam Fastball|8|2|1|1|13|90
+Jose De Leon|R|Matt Strahm|R|Strikeout|F|Two-Seam Fastball|9|2|2|1|7|91
+Jose De Leon|R|Matt Strahm|R|Strikeout|F|Two-Seam Fastball|10|2|2|1|2|92
+Jose De Leon|R|Matt Strahm|R|Strikeout|S|Changeup|11|2|2|1|13|84
+Jose De Leon|R|Manuel Margot|R|Lineout|C|Changeup|12|0|0|2|3|80
+Jose De Leon|R|Manuel Margot|R|Lineout|F|Two-Seam Fastball|13|0|1|2|4|92
+Jose De Leon|R|Manuel Margot|R|Lineout|X|Two-Seam Fastball|14|0|2|2|1|92
+Jose De Leon|R|Wil Myers|R|Walk|B|Changeup|15|0|0|0|14|82
+Jose De Leon|R|Wil Myers|R|Walk|B|Changeup|16|1|0|0|11|80
+Jose De Leon|R|Wil Myers|R|Walk|F|Two-Seam Fastball|17|2|0|0|11|90
+Jose De Leon|R|Wil Myers|R|Walk|B|Two-Seam Fastball|18|2|1|0|11|90
+Jose De Leon|R|Wil Myers|R|Walk|B|Changeup|19|3|1|0|11|83
+Jose De Leon|R|Manny Machado|R|Single|B|Slider|20|0|0|0|14|82
+Jose De Leon|R|Manny Machado|R|Single|C|Two-Seam Fastball|21|1|0|0|7|91
+Jose De Leon|R|Manny Machado|R|Single|D|Changeup|22|1|1|0|11|82
+Jose De Leon|R|Hunter Renfroe|R|Strikeout|B|Two-Seam Fastball|23|0|0|0|14|93
+Jose De Leon|R|Hunter Renfroe|R|Strikeout|B|Two-Seam Fastball|24|1|0|0|14|93
+Jose De Leon|R|Hunter Renfroe|R|Strikeout|C|Changeup|25|2|0|0|4|83
+Jose De Leon|R|Hunter Renfroe|R|Strikeout|S|Two-Seam Fastball|26|2|1|0|11|93
+Jose De Leon|R|Hunter Renfroe|R|Strikeout|T|Two-Seam Fastball|27|2|2|0|11|92
+Jose De Leon|R|Eric Hosmer|L|Intent Walk|V|N/A|28|0|0|1|0|0
+Jose De Leon|R|Eric Hosmer|L|Intent Walk|V|N/A|29|0|1|1|0|0
+Jose De Leon|R|Eric Hosmer|L|Intent Walk|V|N/A|30|0|2|1|0|0
+Jose De Leon|R|Eric Hosmer|L|Intent Walk|V|N/A|31|0|2|1|0|0
+Jose De Leon|R|Francisco Mejia|L|Strikeout|S|Two-Seam Fastball|32|0|0|1|6|93
+Jose De Leon|R|Francisco Mejia|L|Strikeout|F|Two-Seam Fastball|33|0|1|1|9|94
+Jose De Leon|R|Francisco Mejia|L|Strikeout|S|Two-Seam Fastball|34|0|2|1|2|94
+Jose De Leon|R|Luis Urias|R|Hit By Pitch|C|Changeup|35|0|0|2|5|83
+Jose De Leon|R|Luis Urias|R|Hit By Pitch|B|Two-Seam Fastball|36|0|1|2|11|94
+Jose De Leon|R|Luis Urias|R|Hit By Pitch|H|Changeup|37|1|1|2|11|83
+Jose De Leon|R|Greg Garcia|L|Forceout|F|Two-Seam Fastball|38|0|0|2|5|94
+Jose De Leon|R|Greg Garcia|L|Forceout|B|Two-Seam Fastball|39|0|1|2|12|93
+Jose De Leon|R|Greg Garcia|L|Forceout|S|Changeup|40|1|1|2|14|83
+Jose De Leon|R|Greg Garcia|L|Forceout|X|Two-Seam Fastball|41|1|2|2|5|93
+Jose De Leon|R|Jonathan Davis|R|Hit By Pitch|S|Two-Seam Fastball|0|0|0|0|11|92
+Jose De Leon|R|Jonathan Davis|R|Hit By Pitch|B|Changeup|1|0|1|0|11|80
+Jose De Leon|R|Jonathan Davis|R|Hit By Pitch|H|Two-Seam Fastball|2|1|1|0|11|91
+Jose De Leon|R|Luke Maile|R|Single|D|Two-Seam Fastball|3|0|0|0|4|92
+Jose De Leon|R|Derek Fisher|L|Strikeout|B|Changeup|4|0|0|0|11|79
+Jose De Leon|R|Derek Fisher|L|Strikeout|S|Two-Seam Fastball|5|1|0|0|9|92
+Jose De Leon|R|Derek Fisher|L|Strikeout|C|Changeup|6|1|1|0|9|81
+Jose De Leon|R|Derek Fisher|L|Strikeout|F|Changeup|7|1|2|0|2|80
+Jose De Leon|R|Derek Fisher|L|Strikeout|S|Two-Seam Fastball|8|1|2|0|4|92
+Jose De Leon|R|Cavan Biggio|L|Strikeout|F|Changeup|9|0|0|1|7|81
+Jose De Leon|R|Cavan Biggio|L|Strikeout|C|Two-Seam Fastball|10|0|1|1|9|92
+Jose De Leon|R|Cavan Biggio|L|Strikeout|F|Changeup|11|0|2|1|2|81
+Jose De Leon|R|Cavan Biggio|L|Strikeout|B|Two-Seam Fastball|12|0|2|1|14|93
+Jose De Leon|R|Cavan Biggio|L|Strikeout|F|Two-Seam Fastball|13|1|2|1|8|92
+Jose De Leon|R|Cavan Biggio|L|Strikeout|F|Changeup|14|1|2|1|9|82
+Jose De Leon|R|Cavan Biggio|L|Strikeout|F|Changeup|15|1|2|1|14|82
+Jose De Leon|R|Cavan Biggio|L|Strikeout|S|Two-Seam Fastball|16|1|2|1|2|93
+Jose De Leon|R|Anthony Alford|R|Strikeout|B|Two-Seam Fastball|17|0|0|2|14|92
+Jose De Leon|R|Anthony Alford|R|Strikeout|S|Two-Seam Fastball|18|1|0|2|5|92
+Jose De Leon|R|Anthony Alford|R|Strikeout|C|Two-Seam Fastball|19|1|1|2|6|92
+Jose De Leon|R|Anthony Alford|R|Strikeout|S|Changeup|20|1|2|2|6|81
+Jose De Leon|R|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|0|0|0|0|14|91
+Jose De Leon|R|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|1|1|0|0|11|91
+Jose De Leon|R|Travis Jankowski|L|Groundout|B|Four-Seam Fastball|2|2|0|0|14|91
+Jose De Leon|R|Travis Jankowski|L|Groundout|C|Four-Seam Fastball|3|3|0|0|4|90
+Jose De Leon|R|Travis Jankowski|L|Groundout|X|Four-Seam Fastball|4|3|1|0|6|92
+Jose De Leon|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|9|92
+Jose De Leon|R|Wil Myers|R|Strikeout|B|Changeup|6|0|1|1|14|81
+Jose De Leon|R|Wil Myers|R|Strikeout|C|Four-Seam Fastball|7|1|1|1|14|93
+Jose De Leon|R|Wil Myers|R|Strikeout|S|Four-Seam Fastball|8|1|2|1|12|94
+Jose De Leon|R|Yangervis Solarte|L|Single|C|Four-Seam Fastball|9|0|0|2|1|92
+Jose De Leon|R|Yangervis Solarte|L|Single|C|Four-Seam Fastball|10|0|1|2|9|92
+Jose De Leon|R|Yangervis Solarte|L|Single|D|Four-Seam Fastball|11|0|2|2|2|93
+Jose De Leon|R|Alex Dickerson|L|Hit By Pitch|C|Four-Seam Fastball|12|0|0|2|9|91
+Jose De Leon|R|Alex Dickerson|L|Hit By Pitch|T|Four-Seam Fastball|13|0|1|2|2|91
+Jose De Leon|R|Alex Dickerson|L|Hit By Pitch|B|Four-Seam Fastball|14|0|2|2|12|91
+Jose De Leon|R|Alex Dickerson|L|Hit By Pitch|B|Changeup|15|1|2|2|14|81
+Jose De Leon|R|Alex Dickerson|L|Hit By Pitch|H|Four-Seam Fastball|16|2|2|2|12|92
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|C|Changeup|17|0|0|2|2|80
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|18|0|1|2|2|92
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|19|0|2|2|4|92
+Jose De Leon|R|Hector Sanchez|L|Groundout|C|Curveball|20|0|0|0|6|73
+Jose De Leon|R|Hector Sanchez|L|Groundout|B|Four-Seam Fastball|21|0|1|0|11|90
+Jose De Leon|R|Hector Sanchez|L|Groundout|S|Four-Seam Fastball|22|1|1|0|13|90
+Jose De Leon|R|Hector Sanchez|L|Groundout|X|Changeup|23|1|2|0|13|79
+Jose De Leon|R|Oswaldo Arcia|L|Pop Out|B|Curveball|24|0|0|1|14|73
+Jose De Leon|R|Oswaldo Arcia|L|Pop Out|X|Four-Seam Fastball|25|1|0|1|7|89
+Jose De Leon|R|Alexi Amarista|L|Strikeout|S|Four-Seam Fastball|26|0|0|2|5|88
+Jose De Leon|R|Alexi Amarista|L|Strikeout|B|Four-Seam Fastball|27|0|1|2|11|90
+Jose De Leon|R|Alexi Amarista|L|Strikeout|F|Changeup|28|1|1|2|11|80
+Jose De Leon|R|Alexi Amarista|L|Strikeout|S|Four-Seam Fastball|29|1|2|2|3|91
+Jose De Leon|R|Christian Friedrich|R|Strikeout|C|Four-Seam Fastball|30|0|0|0|9|89
+Jose De Leon|R|Christian Friedrich|R|Strikeout|C|Four-Seam Fastball|31|0|1|0|9|89
+Jose De Leon|R|Christian Friedrich|R|Strikeout|B|Four-Seam Fastball|32|0|2|0|11|90
+Jose De Leon|R|Christian Friedrich|R|Strikeout|C|Four-Seam Fastball|33|1|2|0|5|90
+Jose De Leon|R|Travis Jankowski|L|Single|D|Four-Seam Fastball|34|0|0|1|4|89
+Jose De Leon|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|35|0|0|1|12|89
+Jose De Leon|R|Wil Myers|R|Groundout|F|Changeup|36|1|0|1|9|79
+Jose De Leon|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|37|1|1|1|14|90
+Jose De Leon|R|Wil Myers|R|Groundout|B|Four-Seam Fastball|38|2|1|1|14|91
+Jose De Leon|R|Wil Myers|R|Groundout|C|Four-Seam Fastball|39|3|1|1|14|91
+Jose De Leon|R|Wil Myers|R|Groundout|X|Changeup|40|3|2|1|14|80
+Jose De Leon|R|Yangervis Solarte|L|Home Run|E|Four-Seam Fastball|41|0|0|2|7|89
+Jose De Leon|R|Alex Dickerson|L|Pop Out|B|Changeup|42|0|0|2|14|82
+Jose De Leon|R|Alex Dickerson|L|Pop Out|X|Four-Seam Fastball|43|1|0|2|12|91
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|C|Curveball|44|0|0|0|4|74
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|F|Four-Seam Fastball|45|0|1|0|3|90
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|B|Four-Seam Fastball|46|0|2|0|11|91
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|47|1|2|0|9|93
+Jose De Leon|R|Hector Sanchez|L|Groundout|B|Four-Seam Fastball|48|0|0|1|11|91
+Jose De Leon|R|Hector Sanchez|L|Groundout|B|Four-Seam Fastball|49|1|0|1|11|91
+Jose De Leon|R|Hector Sanchez|L|Groundout|F|Four-Seam Fastball|50|2|0|1|13|91
+Jose De Leon|R|Hector Sanchez|L|Groundout|B|Four-Seam Fastball|51|2|1|1|13|90
+Jose De Leon|R|Hector Sanchez|L|Groundout|X|Four-Seam Fastball|52|3|1|1|7|91
+Jose De Leon|R|Oswaldo Arcia|L|Strikeout|C|Curveball|53|0|0|2|11|75
+Jose De Leon|R|Oswaldo Arcia|L|Strikeout|C|Four-Seam Fastball|54|0|1|2|13|90
+Jose De Leon|R|Oswaldo Arcia|L|Strikeout|B|Four-Seam Fastball|55|0|2|2|11|92
+Jose De Leon|R|Oswaldo Arcia|L|Strikeout|B|Changeup|56|1|2|2|13|80
+Jose De Leon|R|Oswaldo Arcia|L|Strikeout|S|Four-Seam Fastball|57|2|2|2|4|90
+Jose De Leon|R|Alexi Amarista|L|Single|C|Four-Seam Fastball|58|0|0|0|4|88
+Jose De Leon|R|Alexi Amarista|L|Single|B|Changeup|59|0|1|0|11|81
+Jose De Leon|R|Alexi Amarista|L|Single|B|Four-Seam Fastball|60|1|1|0|13|91
+Jose De Leon|R|Alexi Amarista|L|Single|F|Four-Seam Fastball|61|2|1|0|11|90
+Jose De Leon|R|Alexi Amarista|L|Single|D|Four-Seam Fastball|62|2|2|0|8|92
+Jose De Leon|R|Christian Friedrich|R|Sac Bunt|X|Four-Seam Fastball|63|0|0|0|4|88
+Jose De Leon|R|Travis Jankowski|L|Field Error|E|Changeup|64|0|0|1|4|80
+Jose De Leon|R|Wil Myers|R|Single|C|Four-Seam Fastball|65|0|0|1|7|91
+Jose De Leon|R|Wil Myers|R|Single|S|Changeup|66|0|1|1|14|81
+Jose De Leon|R|Wil Myers|R|Single|D|Four-Seam Fastball|67|0|2|1|12|92
+Jose De Leon|R|Yangervis Solarte|L|Sac Fly|W|Changeup|68|0|0|1|13|80
+Jose De Leon|R|Yangervis Solarte|L|Sac Fly|F|Changeup|69|0|1|1|4|79
+Jose De Leon|R|Yangervis Solarte|L|Sac Fly|B|Four-Seam Fastball|70|0|2|1|11|90
+Jose De Leon|R|Yangervis Solarte|L|Sac Fly|E|Changeup|71|1|2|1|5|80
+Jose De Leon|R|Alex Dickerson|L|Strikeout|B|Changeup|72|0|0|2|14|81
+Jose De Leon|R|Alex Dickerson|L|Strikeout|B|Changeup|73|1|0|2|11|79
+Jose De Leon|R|Alex Dickerson|L|Strikeout|F|Four-Seam Fastball|74|2|0|2|14|91
+Jose De Leon|R|Alex Dickerson|L|Strikeout|F|Changeup|75|2|1|2|6|81
+Jose De Leon|R|Alex Dickerson|L|Strikeout|F|Four-Seam Fastball|76|2|2|2|11|91
+Jose De Leon|R|Alex Dickerson|L|Strikeout|B|Four-Seam Fastball|77|2|2|2|11|93
+Jose De Leon|R|Alex Dickerson|L|Strikeout|S|Changeup|78|3|2|2|11|81
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|79|0|0|0|2|92
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|B|Changeup|80|0|1|0|11|83
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|S|Four-Seam Fastball|81|1|1|0|11|91
+Jose De Leon|R|Ryan Schimpf|L|Strikeout|C|Four-Seam Fastball|82|1|2|0|13|91
+Jose De Leon|R|Hector Sanchez|L|Strikeout|S|Changeup|83|0|0|1|4|80
+Jose De Leon|R|Hector Sanchez|L|Strikeout|S|Changeup|84|0|1|1|13|82
+Jose De Leon|R|Hector Sanchez|L|Strikeout|S|Changeup|85|0|2|1|13|82
+Jose De Leon|R|Brett Gardner|L|Flyout|C|Four-Seam Fastball|0|0|0|0|1|90
+Jose De Leon|R|Brett Gardner|L|Flyout|X|Four-Seam Fastball|1|0|1|0|12|91
+Jose De Leon|R|Jacoby Ellsbury|L|Pop Out|B|Four-Seam Fastball|2|0|0|1|14|91
+Jose De Leon|R|Jacoby Ellsbury|L|Pop Out|F|Four-Seam Fastball|3|1|0|1|3|91
+Jose De Leon|R|Jacoby Ellsbury|L|Pop Out|B|Four-Seam Fastball|4|1|1|1|11|91
+Jose De Leon|R|Jacoby Ellsbury|L|Pop Out|X|Four-Seam Fastball|5|2|1|1|6|92
+Jose De Leon|R|Gary Sanchez|R|Groundout|B|Four-Seam Fastball|6|0|0|2|11|92
+Jose De Leon|R|Gary Sanchez|R|Groundout|B|Four-Seam Fastball|7|1|0|2|11|92
+Jose De Leon|R|Gary Sanchez|R|Groundout|F|Changeup|8|2|0|2|4|83
+Jose De Leon|R|Gary Sanchez|R|Groundout|B|Four-Seam Fastball|9|2|1|2|11|92
+Jose De Leon|R|Gary Sanchez|R|Groundout|X|Changeup|10|3|1|2|2|83
+Jose De Leon|R|Starlin Castro|R|Home Run|B|Slider|11|0|0|0|12|80
+Jose De Leon|R|Starlin Castro|R|Home Run|B|Four-Seam Fastball|12|1|0|0|14|91
+Jose De Leon|R|Starlin Castro|R|Home Run|C|Four-Seam Fastball|13|2|0|0|2|90
+Jose De Leon|R|Starlin Castro|R|Home Run|F|Changeup|14|2|1|0|5|81
+Jose De Leon|R|Starlin Castro|R|Home Run|B|Four-Seam Fastball|15|2|2|0|11|92
+Jose De Leon|R|Starlin Castro|R|Home Run|F|Changeup|16|3|2|0|11|81
+Jose De Leon|R|Starlin Castro|R|Home Run|F|Four-Seam Fastball|17|3|2|0|1|91
+Jose De Leon|R|Starlin Castro|R|Home Run|E|Changeup|18|3|2|0|1|80
+Jose De Leon|R|Brian McCann|L|Walk|B|Four-Seam Fastball|19|0|0|0|13|91
+Jose De Leon|R|Brian McCann|L|Walk|B|Four-Seam Fastball|20|1|0|0|11|91
+Jose De Leon|R|Brian McCann|L|Walk|B|Four-Seam Fastball|21|2|0|0|12|91
+Jose De Leon|R|Brian McCann|L|Walk|C|Four-Seam Fastball|22|3|0|0|7|91
+Jose De Leon|R|Brian McCann|L|Walk|F|Four-Seam Fastball|23|3|1|0|4|92
+Jose De Leon|R|Brian McCann|L|Walk|B|Four-Seam Fastball|24|3|2|0|12|93
+Jose De Leon|R|Chase Headley|L|Forceout|C|Slider|25|0|0|0|3|82
+Jose De Leon|R|Chase Headley|L|Forceout|X|Changeup|26|0|1|0|7|80
+Jose De Leon|R|Tyler Austin|R|Strikeout|F|Four-Seam Fastball|27|0|0|1|2|90
+Jose De Leon|R|Tyler Austin|R|Strikeout|S|Slider|28|0|1|1|14|83
+Jose De Leon|R|Tyler Austin|R|Strikeout|B|Slider|29|0|2|1|14|82
+Jose De Leon|R|Tyler Austin|R|Strikeout|S|Four-Seam Fastball|30|1|2|1|12|91
+Jose De Leon|R|Aaron Judge|R|Groundout|B|Four-Seam Fastball|31|0|0|2|14|91
+Jose De Leon|R|Aaron Judge|R|Groundout|B|Four-Seam Fastball|32|1|0|2|14|91
+Jose De Leon|R|Aaron Judge|R|Groundout|B|Slider|33|2|0|2|14|82
+Jose De Leon|R|Aaron Judge|R|Groundout|C|Four-Seam Fastball|34|3|0|2|9|92
+Jose De Leon|R|Aaron Judge|R|Groundout|C|Four-Seam Fastball|35|3|1|2|13|91
+Jose De Leon|R|Aaron Judge|R|Groundout|X|Four-Seam Fastball|36|3|2|2|13|92
+Jose De Leon|R|Ronald Torreyes|R|Flyout|B|Four-Seam Fastball|37|0|0|0|11|88
+Jose De Leon|R|Ronald Torreyes|R|Flyout|C|Changeup|38|1|0|0|11|81
+Jose De Leon|R|Ronald Torreyes|R|Flyout|B|Four-Seam Fastball|39|1|1|0|11|90
+Jose De Leon|R|Ronald Torreyes|R|Flyout|X|Changeup|40|2|1|0|5|81
+Jose De Leon|R|Brett Gardner|L|Walk|B|Slider|41|0|0|1|14|82
+Jose De Leon|R|Brett Gardner|L|Walk|B|Changeup|42|1|0|1|8|81
+Jose De Leon|R|Brett Gardner|L|Walk|B|Changeup|43|2|0|1|14|80
+Jose De Leon|R|Brett Gardner|L|Walk|B|Four-Seam Fastball|44|3|0|1|11|89
+Jose De Leon|R|Jacoby Ellsbury|L|Lineout|C|Four-Seam Fastball|45|0|0|1|11|89
+Jose De Leon|R|Jacoby Ellsbury|L|Lineout|C|Four-Seam Fastball|46|0|1|1|7|88
+Jose De Leon|R|Jacoby Ellsbury|L|Lineout|B|Slider|47|0|2|1|12|83
+Jose De Leon|R|Jacoby Ellsbury|L|Lineout|X|Four-Seam Fastball|48|1|2|1|5|91
+Jose De Leon|R|Gary Sanchez|R|Hit By Pitch|B|Slider|49|0|0|2|12|82
+Jose De Leon|R|Gary Sanchez|R|Hit By Pitch|S|Changeup|50|1|0|2|8|80
+Jose De Leon|R|Gary Sanchez|R|Hit By Pitch|H|Four-Seam Fastball|51|1|1|2|11|89
+Jose De Leon|R|Starlin Castro|R|Groundout|C|Four-Seam Fastball|52|0|0|2|6|90
+Jose De Leon|R|Starlin Castro|R|Groundout|X|Slider|53|0|1|2|14|84
+Jose De Leon|R|Brian McCann|L|Groundout|B|Four-Seam Fastball|54|0|0|0|11|90
+Jose De Leon|R|Brian McCann|L|Groundout|C|Four-Seam Fastball|55|1|0|0|2|90
+Jose De Leon|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|56|1|1|0|2|91
+Jose De Leon|R|Brian McCann|L|Groundout|B|Changeup|57|1|2|0|11|82
+Jose De Leon|R|Brian McCann|L|Groundout|F|Four-Seam Fastball|58|2|2|0|11|91
+Jose De Leon|R|Brian McCann|L|Groundout|X|Four-Seam Fastball|59|2|2|0|3|92
+Jose De Leon|R|Chase Headley|L|Groundout|B|Four-Seam Fastball|60|0|0|1|11|92
+Jose De Leon|R|Chase Headley|L|Groundout|X|Changeup|61|1|0|1|13|82
+Jose De Leon|R|Tyler Austin|R|Strikeout|C|Four-Seam Fastball|62|0|0|2|5|90
+Jose De Leon|R|Tyler Austin|R|Strikeout|S|Slider|63|0|1|2|14|82
+Jose De Leon|R|Tyler Austin|R|Strikeout|B|Slider|64|0|2|2|14|80
+Jose De Leon|R|Tyler Austin|R|Strikeout|B|Four-Seam Fastball|65|1|2|2|11|92
+Jose De Leon|R|Tyler Austin|R|Strikeout|F|Four-Seam Fastball|66|2|2|2|1|92
+Jose De Leon|R|Tyler Austin|R|Strikeout|S|Slider|67|2|2|2|2|82
+Jose De Leon|R|Aaron Judge|R|Home Run|B|Four-Seam Fastball|68|0|0|0|11|89
+Jose De Leon|R|Aaron Judge|R|Home Run|B|Four-Seam Fastball|69|1|0|0|13|91
+Jose De Leon|R|Aaron Judge|R|Home Run|E|Four-Seam Fastball|70|2|0|0|4|91
+Jose De Leon|R|Ronald Torreyes|R|Lineout|X|Four-Seam Fastball|71|0|0|0|5|91
+Jose De Leon|R|Brett Gardner|L|Pop Out|B|Four-Seam Fastball|72|0|0|1|12|90
+Jose De Leon|R|Brett Gardner|L|Pop Out|B|Changeup|73|1|0|1|11|82
+Jose De Leon|R|Brett Gardner|L|Pop Out|C|Four-Seam Fastball|74|2|0|1|11|91
+Jose De Leon|R|Brett Gardner|L|Pop Out|X|Changeup|75|2|1|1|13|81
+Jose De Leon|R|Jacoby Ellsbury|L|Single|B|Slider|76|0|0|2|3|82
+Jose De Leon|R|Jacoby Ellsbury|L|Single|D|Four-Seam Fastball|77|1|0|2|8|90
+Jose De Leon|R|Gary Sanchez|R|Strikeout|B|Four-Seam Fastball|78|0|0|2|12|90
+Jose De Leon|R|Gary Sanchez|R|Strikeout|C|Four-Seam Fastball|79|1|0|2|12|89
+Jose De Leon|R|Gary Sanchez|R|Strikeout|F|Changeup|80|1|1|2|7|81
+Jose De Leon|R|Gary Sanchez|R|Strikeout|F|Four-Seam Fastball|81|1|2|2|3|91
+Jose De Leon|R|Gary Sanchez|R|Strikeout|S|Four-Seam Fastball|82|1|2|2|12|92
+Jose De Leon|R|Jean Segura|R|Double|B|Four-Seam Fastball|0|0|0|0|14|90
+Jose De Leon|R|Jean Segura|R|Double|B|Four-Seam Fastball|1|1|0|0|11|90
+Jose De Leon|R|Jean Segura|R|Double|B|Four-Seam Fastball|2|2|0|0|13|90
+Jose De Leon|R|Jean Segura|R|Double|C|Four-Seam Fastball|3|3|0|0|14|90
+Jose De Leon|R|Jean Segura|R|Double|D|Four-Seam Fastball|4|3|1|0|8|91
+Jose De Leon|R|Chris Owings|R|Groundout|X|Slider|5|0|0|0|14|81
+Jose De Leon|R|Paul Goldschmidt|R|Strikeout|C|Four-Seam Fastball|6|0|0|1|8|91
+Jose De Leon|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|7|0|1|1|4|92
+Jose De Leon|R|Paul Goldschmidt|R|Strikeout|F|Four-Seam Fastball|8|0|2|1|12|92
+Jose De Leon|R|Paul Goldschmidt|R|Strikeout|S|Four-Seam Fastball|9|0|2|1|14|92
+Jose De Leon|R|Jake Lamb|L|Groundout|X|Four-Seam Fastball|10|0|0|2|9|92
+Jose De Leon|R|Brandon Drury|R|Walk|C|Slider|11|0|0|0|12|81
+Jose De Leon|R|Brandon Drury|R|Walk|B|Four-Seam Fastball|12|0|1|0|12|90
+Jose De Leon|R|Brandon Drury|R|Walk|B|Changeup|13|1|1|0|14|82
+Jose De Leon|R|Brandon Drury|R|Walk|B|Four-Seam Fastball|14|2|1|0|14|90
+Jose De Leon|R|Brandon Drury|R|Walk|B|Four-Seam Fastball|15|3|1|0|11|92
+Jose De Leon|R|Mitch Haniger|R|Single|C|Four-Seam Fastball|16|0|0|0|14|90
+Jose De Leon|R|Mitch Haniger|R|Single|F|Four-Seam Fastball|17|0|1|0|2|91
+Jose De Leon|R|Mitch Haniger|R|Single|D|Four-Seam Fastball|18|0|2|0|4|92
+Jose De Leon|R|Socrates Brito|L|Field Error|C|Four-Seam Fastball|19|0|0|0|4|91
+Jose De Leon|R|Socrates Brito|L|Field Error|B|Four-Seam Fastball|20|0|1|0|12|91
+Jose De Leon|R|Socrates Brito|L|Field Error|F|Four-Seam Fastball|21|1|1|0|4|90
+Jose De Leon|R|Socrates Brito|L|Field Error|F|Changeup|22|1|2|0|14|81
+Jose De Leon|R|Socrates Brito|L|Field Error|F|Changeup|23|1|2|0|7|80
+Jose De Leon|R|Socrates Brito|L|Field Error|E|Four-Seam Fastball|24|1|2|0|13|90
+Jose De Leon|R|Tuffy Gosewisch|R|Flyout|B|Four-Seam Fastball|25|0|0|0|14|92
+Jose De Leon|R|Tuffy Gosewisch|R|Flyout|X|Slider|26|1|0|0|4|81
+Jose De Leon|R|Robbie Ray|L|Sac Bunt|F|Four-Seam Fastball|27|0|0|1|6|90
+Jose De Leon|R|Robbie Ray|L|Sac Bunt|X|Four-Seam Fastball|28|0|1|1|5|91
+Jose De Leon|R|Jean Segura|R|Single|C|Slider|29|0|0|2|9|81
+Jose De Leon|R|Jean Segura|R|Single|B|Four-Seam Fastball|30|0|1|2|12|91
+Jose De Leon|R|Jean Segura|R|Single|E|Changeup|31|1|1|2|8|81
+Jose De Leon|R|Chris Owings|R|Pop Out|X|Four-Seam Fastball|32|0|0|0|2|89
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|33|0|0|1|2|91
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|F|Four-Seam Fastball|34|1|0|1|11|92
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|35|1|1|1|14|93
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|C|Slider|36|2|1|1|14|83
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|B|Four-Seam Fastball|37|2|2|1|14|94
+Jose De Leon|R|Paul Goldschmidt|R|Groundout|X|Changeup|38|3|2|1|14|83
+Jose De Leon|R|Jake Lamb|L|Strikeout|C|Changeup|39|0|0|2|8|82
+Jose De Leon|R|Jake Lamb|L|Strikeout|F|Four-Seam Fastball|40|0|1|2|5|91
+Jose De Leon|R|Jake Lamb|L|Strikeout|S|Changeup|41|0|2|2|14|81
+Jose De Leon|R|Brandon Drury|R|Single|C|Four-Seam Fastball|42|0|0|0|7|89
+Jose De Leon|R|Brandon Drury|R|Single|B|Slider|43|0|1|0|14|81
+Jose De Leon|R|Brandon Drury|R|Single|B|Four-Seam Fastball|44|1|1|0|11|90
+Jose De Leon|R|Brandon Drury|R|Single|T|Four-Seam Fastball|45|2|1|0|5|91
+Jose De Leon|R|Brandon Drury|R|Single|B|Four-Seam Fastball|46|2|2|0|13|91
+Jose De Leon|R|Brandon Drury|R|Single|F|Changeup|47|3|2|0|13|82
+Jose De Leon|R|Brandon Drury|R|Single|D|Four-Seam Fastball|48|3|2|0|13|92
+Jose De Leon|R|Mitch Haniger|R|Home Run|B|Slider|49|0|0|0|14|82
+Jose De Leon|R|Mitch Haniger|R|Home Run|E|Four-Seam Fastball|50|1|0|0|4|89
+Jose De Leon|R|Socrates Brito|L|Flyout|X|Four-Seam Fastball|51|0|0|0|8|91
+Jose De Leon|R|Tuffy Gosewisch|R|Single|F|Four-Seam Fastball|52|0|0|1|4|90
+Jose De Leon|R|Tuffy Gosewisch|R|Single|C|Four-Seam Fastball|53|0|1|1|6|90
+Jose De Leon|R|Tuffy Gosewisch|R|Single|F|Four-Seam Fastball|54|0|2|1|2|91
+Jose De Leon|R|Tuffy Gosewisch|R|Single|B|Changeup|55|0|2|1|14|83
+Jose De Leon|R|Tuffy Gosewisch|R|Single|D|Four-Seam Fastball|56|1|2|1|6|92
+Jose De Leon|R|Robbie Ray|L|Sac Bunt|X|Four-Seam Fastball|57|0|0|1|14|88
+Jose De Leon|R|Jean Segura|R|Intent Walk|I|Intentional Ball|58|0|0|2|12|70
+Jose De Leon|R|Jean Segura|R|Intent Walk|I|Intentional Ball|59|0|1|2|12|69
+Jose De Leon|R|Jean Segura|R|Intent Walk|I|Intentional Ball|60|0|2|2|12|68
+Jose De Leon|R|Jean Segura|R|Intent Walk|I|Intentional Ball|61|0|2|2|12|68
+Jose De Leon|R|Chris Owings|R|Double|C|Four-Seam Fastball|62|0|0|2|6|89
+Jose De Leon|R|Chris Owings|R|Double|E|Slider|63|0|1|2|5|81
+Jose De Leon|R|Manuel Margot|R|Field Error|C|Four-Seam Fastball|0|0|0|0|4|90
+Jose De Leon|R|Manuel Margot|R|Field Error|F|Four-Seam Fastball|1|0|1|0|6|91
+Jose De Leon|R|Manuel Margot|R|Field Error|D|Changeup|2|0|2|0|14|81
+Jose De Leon|R|Wil Myers|R|Flyout|B|Four-Seam Fastball|3|0|0|0|14|92
+Jose De Leon|R|Wil Myers|R|Flyout|B|Changeup|4|1|0|0|1|81
+Jose De Leon|R|Wil Myers|R|Flyout|B|Changeup|5|2|0|0|14|81
+Jose De Leon|R|Wil Myers|R|Flyout|C|Four-Seam Fastball|6|3|0|0|1|91
+Jose De Leon|R|Wil Myers|R|Flyout|X|Changeup|7|3|1|0|11|81
+Jose De Leon|R|Yangervis Solarte|L|Single|C|Four-Seam Fastball|8|0|0|1|6|90
+Jose De Leon|R|Yangervis Solarte|L|Single|D|Four-Seam Fastball|9|0|1|1|8|91
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Four-Seam Fastball|10|0|0|1|13|91
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Changeup|11|1|0|1|11|81
+Jose De Leon|R|Alex Dickerson|L|Walk|*B|Changeup|12|2|0|1|14|81
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Changeup|13|3|0|1|11|81
+Jose De Leon|R|Hunter Renfroe|R|Single|C|Four-Seam Fastball|14|0|0|1|5|92
+Jose De Leon|R|Hunter Renfroe|R|Single|B|Four-Seam Fastball|15|0|1|1|13|93
+Jose De Leon|R|Hunter Renfroe|R|Single|F|Four-Seam Fastball|16|1|1|1|7|93
+Jose De Leon|R|Hunter Renfroe|R|Single|E|Four-Seam Fastball|17|1|2|1|1|92
+Jose De Leon|R|Ryan Schimpf|L|Double|B|Four-Seam Fastball|18|0|0|2|11|93
+Jose De Leon|R|Ryan Schimpf|L|Double|S|Four-Seam Fastball|19|1|0|2|5|92
+Jose De Leon|R|Ryan Schimpf|L|Double|F|Changeup|20|1|1|2|4|83
+Jose De Leon|R|Ryan Schimpf|L|Double|B|Changeup|21|1|2|2|11|82
+Jose De Leon|R|Ryan Schimpf|L|Double|E|Changeup|22|2|2|2|11|82
+Jose De Leon|R|Austin Hedges|R|Strikeout|C|Curveball|23|0|0|2|4|78
+Jose De Leon|R|Austin Hedges|R|Strikeout|S|Four-Seam Fastball|24|0|1|2|5|93
+Jose De Leon|R|Austin Hedges|R|Strikeout|T|Four-Seam Fastball|25|0|2|2|2|94
+Jose De Leon|R|Alexi Amarista|L|Pop Out|B|Four-Seam Fastball|26|0|0|0|11|92
+Jose De Leon|R|Alexi Amarista|L|Pop Out|C|Curveball|27|1|0|0|1|75
+Jose De Leon|R|Alexi Amarista|L|Pop Out|S|Four-Seam Fastball|28|1|1|0|11|92
+Jose De Leon|R|Alexi Amarista|L|Pop Out|B|Four-Seam Fastball|29|1|2|0|11|94
+Jose De Leon|R|Alexi Amarista|L|Pop Out|B|Changeup|30|2|2|0|11|84
+Jose De Leon|R|Alexi Amarista|L|Pop Out|X|Four-Seam Fastball|31|3|2|0|2|92
+Jose De Leon|R|Luis Perdomo|R|Hit By Pitch|H|Four-Seam Fastball|32|0|0|1|11|91
+Jose De Leon|R|Manuel Margot|R|Lineout|C|Curveball|33|0|0|1|4|76
+Jose De Leon|R|Manuel Margot|R|Lineout|X|Curveball|34|0|1|1|14|76
+Jose De Leon|R|Wil Myers|R|Lineout|B|Four-Seam Fastball|35|0|0|2|13|92
+Jose De Leon|R|Wil Myers|R|Lineout|C|Curveball|36|1|0|2|7|77
+Jose De Leon|R|Wil Myers|R|Lineout|B|Curveball|37|1|1|2|13|77
+Jose De Leon|R|Wil Myers|R|Lineout|F|Four-Seam Fastball|38|2|1|2|13|93
+Jose De Leon|R|Wil Myers|R|Lineout|F|Four-Seam Fastball|39|2|2|2|2|94
+Jose De Leon|R|Wil Myers|R|Lineout|F|Changeup|40|2|2|2|9|83
+Jose De Leon|R|Wil Myers|R|Lineout|F|Four-Seam Fastball|41|2|2|2|11|92
+Jose De Leon|R|Wil Myers|R|Lineout|B|Four-Seam Fastball|42|2|2|2|14|95
+Jose De Leon|R|Wil Myers|R|Lineout|X|Curveball|43|3|2|2|14|77
+Jose De Leon|R|Yangervis Solarte|L|Groundout|S|Changeup|44|0|0|0|8|82
+Jose De Leon|R|Yangervis Solarte|L|Groundout|S|Four-Seam Fastball|45|0|1|0|11|92
+Jose De Leon|R|Yangervis Solarte|L|Groundout|B|Four-Seam Fastball|46|0|2|0|11|92
+Jose De Leon|R|Yangervis Solarte|L|Groundout|F|Four-Seam Fastball|47|1|2|0|2|94
+Jose De Leon|R|Yangervis Solarte|L|Groundout|X|Changeup|48|1|2|0|8|83
+Jose De Leon|R|Alex Dickerson|L|Walk|S|Four-Seam Fastball|49|0|0|1|1|93
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Four-Seam Fastball|50|0|1|1|11|92
+Jose De Leon|R|Alex Dickerson|L|Walk|S|Four-Seam Fastball|51|1|1|1|3|92
+Jose De Leon|R|Alex Dickerson|L|Walk|F|Four-Seam Fastball|52|1|2|1|11|93
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Changeup|53|1|2|1|11|83
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Four-Seam Fastball|54|2|2|1|11|93
+Jose De Leon|R|Alex Dickerson|L|Walk|F|Four-Seam Fastball|55|3|2|1|11|93
+Jose De Leon|R|Alex Dickerson|L|Walk|B|Four-Seam Fastball|56|3|2|1|12|93
+Jose De Leon|R|Hunter Renfroe|R|Home Run|B|Curveball|57|0|0|1|14|77
+Jose De Leon|R|Hunter Renfroe|R|Home Run|E|Four-Seam Fastball|58|1|0|1|13|93
+Jose De Leon|R|Ryan Schimpf|L|Walk|S|Four-Seam Fastball|59|0|0|1|8|94
+Jose De Leon|R|Ryan Schimpf|L|Walk|C|Curveball|60|0|1|1|11|76
+Jose De Leon|R|Ryan Schimpf|L|Walk|B|Curveball|61|0|2|1|14|78
+Jose De Leon|R|Ryan Schimpf|L|Walk|F|Four-Seam Fastball|62|1|2|1|11|94
+Jose De Leon|R|Ryan Schimpf|L|Walk|F|Curveball|63|1|2|1|5|77
+Jose De Leon|R|Ryan Schimpf|L|Walk|B|Curveball|64|1|2|1|14|77
+Jose De Leon|R|Ryan Schimpf|L|Walk|F|Four-Seam Fastball|65|2|2|1|12|93
+Jose De Leon|R|Ryan Schimpf|L|Walk|B|Four-Seam Fastball|66|2|2|1|11|92
+Jose De Leon|R|Ryan Schimpf|L|Walk|F|Curveball|67|3|2|1|6|77
+Jose De Leon|R|Ryan Schimpf|L|Walk|B|Four-Seam Fastball|68|3|2|1|11|93
+Jose De Leon|R|Joey Gallo|L|Strikeout|B|Curveball|0|0|0|0|11|73
+Jose De Leon|R|Joey Gallo|L|Strikeout|F|Four-Seam Fastball|1|1|0|0|11|92
+Jose De Leon|R|Joey Gallo|L|Strikeout|B|Changeup|2|1|1|0|11|84
+Jose De Leon|R|Joey Gallo|L|Strikeout|S|Two-Seam Fastball|3|2|1|0|11|91
+Jose De Leon|R|Joey Gallo|L|Strikeout|S|Two-Seam Fastball|4|2|2|0|11|93
+Jose De Leon|R|Robinson Chirinos|R|Single|F|Two-Seam Fastball|5|0|0|1|1|93
+Jose De Leon|R|Robinson Chirinos|R|Single|D|Slider|6|0|1|1|6|84
+Jose De Leon|R|Jared Hoying|L|Walk|C|Two-Seam Fastball|7|0|0|1|11|90
+Jose De Leon|R|Jared Hoying|L|Walk|B|Changeup|8|0|1|1|13|85
+Jose De Leon|R|Jared Hoying|L|Walk|B|Four-Seam Fastball|9|1|1|1|14|92
+Jose De Leon|R|Jared Hoying|L|Walk|B|Changeup|10|2|1|1|13|83
+Jose De Leon|R|Jared Hoying|L|Walk|F|Four-Seam Fastball|11|3|1|1|4|92
+Jose De Leon|R|Jared Hoying|L|Walk|F|Four-Seam Fastball|12|3|2|1|2|92
+Jose De Leon|R|Jared Hoying|L|Walk|B|Four-Seam Fastball|13|3|2|1|14|93
+Jose De Leon|R|Shin-Soo Choo|L|Single|F|Changeup|14|0|0|1|4|85
+Jose De Leon|R|Shin-Soo Choo|L|Single|B|Two-Seam Fastball|15|0|1|1|12|92
+Jose De Leon|R|Shin-Soo Choo|L|Single|B|Changeup|16|1|1|1|11|85
+Jose De Leon|R|Shin-Soo Choo|L|Single|S|Four-Seam Fastball|17|2|1|1|1|92
+Jose De Leon|R|Shin-Soo Choo|L|Single|B|Two-Seam Fastball|18|2|2|1|14|92
+Jose De Leon|R|Shin-Soo Choo|L|Single|E|Two-Seam Fastball|19|3|2|1|13|93
+Jose De Leon|R|Elvis Andrus|R|Forceout|S|Slider|20|0|0|1|14|86
+Jose De Leon|R|Elvis Andrus|R|Forceout|C|Slider|21|0|1|1|6|85
+Jose De Leon|R|Elvis Andrus|R|Forceout|X|Two-Seam Fastball|22|0|2|1|11|92
+Jose De Leon|R|Nomar Mazara|L|Walk|P|Pitchout|23|0|0|2|11|80
+Jose De Leon|R|Nomar Mazara|L|Walk|B|Two-Seam Fastball|24|0|1|2|11|91
+Jose De Leon|R|Nomar Mazara|L|Walk|B|Four-Seam Fastball|25|1|1|2|11|91
+Jose De Leon|R|Nomar Mazara|L|Walk|B|Two-Seam Fastball|26|2|1|2|14|91
+Jose De Leon|R|Adrian Beltre|R|Lineout|C|Slider|27|0|0|2|14|86
+Jose De Leon|R|Adrian Beltre|R|Lineout|X|Slider|28|0|1|2|8|86
+Jose De Leon|R|Rougned Odor|L|Groundout|C|Curveball|29|0|0|0|9|75
+Jose De Leon|R|Rougned Odor|L|Groundout|X|Changeup|30|0|1|0|8|85
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|B|Four-Seam Fastball|31|0|0|1|11|89
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|C|Four-Seam Fastball|32|1|0|1|5|91
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|B|Slider|33|1|1|1|14|84
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|F|Two-Seam Fastball|34|2|1|1|2|91
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|F|Two-Seam Fastball|35|2|2|1|2|93
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|F|Four-Seam Fastball|36|2|2|1|5|91
+Jose De Leon|R|Jonathan Lucroy|R|Flyout|X|Slider|37|2|2|1|9|86
+Jose De Leon|R|Joey Gallo|L|Walk|B|Changeup|38|0|0|2|11|85
+Jose De Leon|R|Joey Gallo|L|Walk|C|Changeup|39|1|0|2|6|87
+Jose De Leon|R|Joey Gallo|L|Walk|F|Two-Seam Fastball|40|1|1|2|1|91
+Jose De Leon|R|Joey Gallo|L|Walk|F|Two-Seam Fastball|41|1|2|2|11|90
+Jose De Leon|R|Joey Gallo|L|Walk|B|Changeup|42|1|2|2|13|86
+Jose De Leon|R|Joey Gallo|L|Walk|B|Changeup|43|2|2|2|11|84
+Jose De Leon|R|Joey Gallo|L|Walk|F|Four-Seam Fastball|44|3|2|2|6|92
+Jose De Leon|R|Joey Gallo|L|Walk|F|Two-Seam Fastball|45|3|2|2|4|91
+Jose De Leon|R|Joey Gallo|L|Walk|F|Four-Seam Fastball|46|3|2|2|1|92
+Jose De Leon|R|Joey Gallo|L|Walk|F|Two-Seam Fastball|47|3|2|2|3|92
+Jose De Leon|R|Joey Gallo|L|Walk|B|Changeup|48|3|2|2|11|85
+Jose De Leon|R|Robinson Chirinos|R|Strikeout|B|Four-Seam Fastball|49|0|0|2|14|90
+Jose De Leon|R|Robinson Chirinos|R|Strikeout|C|Slider|50|1|0|2|4|82
+Jose De Leon|R|Robinson Chirinos|R|Strikeout|B|Two-Seam Fastball|51|1|1|2|7|91
+Jose De Leon|R|Robinson Chirinos|R|Strikeout|F|Four-Seam Fastball|52|2|1|2|3|89
+Jose De Leon|R|Robinson Chirinos|R|Strikeout|S|Two-Seam Fastball|53|2|2|2|1|89
+Jose De Leon|R|Jared Hoying|L|Groundout|C|Curveball|54|0|0|0|11|73
+Jose De Leon|R|Jared Hoying|L|Groundout|F|Four-Seam Fastball|55|0|1|0|11|90
+Jose De Leon|R|Jared Hoying|L|Groundout|X|Four-Seam Fastball|56|0|2|0|3|90
+Jose De Leon|R|Shin-Soo Choo|L|Home Run|B|Curveball|57|0|0|1|11|73
+Jose De Leon|R|Shin-Soo Choo|L|Home Run|B|Four-Seam Fastball|58|1|0|1|11|89
+Jose De Leon|R|Shin-Soo Choo|L|Home Run|E|Two-Seam Fastball|59|2|0|1|11|90
+Jose De Leon|R|Elvis Andrus|R|Groundout|C|Slider|60|0|0|1|8|82
+Jose De Leon|R|Elvis Andrus|R|Groundout|B|Slider|61|0|1|1|13|84
+Jose De Leon|R|Elvis Andrus|R|Groundout|B|Four-Seam Fastball|62|1|1|1|12|89
+Jose De Leon|R|Elvis Andrus|R|Groundout|C|Four-Seam Fastball|63|2|1|1|8|90
+Jose De Leon|R|Elvis Andrus|R|Groundout|F|Four-Seam Fastball|64|2|2|1|6|91
+Jose De Leon|R|Elvis Andrus|R|Groundout|X|Slider|65|2|2|1|14|86
+Jose De Leon|R|Nomar Mazara|L|Double|S|Curveball|66|0|0|2|8|75
+Jose De Leon|R|Nomar Mazara|L|Double|C|Four-Seam Fastball|67|0|1|2|5|90
+Jose De Leon|R|Nomar Mazara|L|Double|D|Two-Seam Fastball|68|0|2|2|11|91

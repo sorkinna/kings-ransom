@@ -1,0 +1,980 @@
+Daniel Wright|R|Chase Utley|L|Single|C|Four-Seam Fastball|0|0|0|0|7|91
+Daniel Wright|R|Chase Utley|L|Single|F|Two-Seam Fastball|1|0|1|0|8|91
+Daniel Wright|R|Chase Utley|L|Single|D|Curveball|2|0|2|0|8|76
+Daniel Wright|R|Corey Seager|L|Single|B|Four-Seam Fastball|3|0|0|0|14|90
+Daniel Wright|R|Corey Seager|L|Single|F|Two-Seam Fastball|4|1|0|0|4|90
+Daniel Wright|R|Corey Seager|L|Single|B|Four-Seam Fastball|5|1|1|0|14|91
+Daniel Wright|R|Corey Seager|L|Single|*B|Changeup|6|2|1|0|13|85
+Daniel Wright|R|Corey Seager|L|Single|D|Four-Seam Fastball|7|3|1|0|5|90
+Daniel Wright|R|Justin Turner|R|Single|L|Four-Seam Fastball|8|0|0|0|9|90
+Daniel Wright|R|Justin Turner|R|Single|B|Two-Seam Fastball|9|0|1|0|14|90
+Daniel Wright|R|Justin Turner|R|Single|F|Four-Seam Fastball|10|1|1|0|5|90
+Daniel Wright|R|Justin Turner|R|Single|B|Curveball|11|1|2|0|14|76
+Daniel Wright|R|Justin Turner|R|Single|E|Two-Seam Fastball|12|2|2|0|11|90
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|C|Four-Seam Fastball|13|0|0|0|8|90
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|B|Curveball|14|0|1|0|13|74
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|B|Changeup|15|1|1|0|13|84
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|S|Two-Seam Fastball|16|2|1|0|11|88
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|F|Four-Seam Fastball|17|2|2|0|12|89
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|F|Two-Seam Fastball|18|2|2|0|4|90
+Daniel Wright|R|Adrian Gonzalez|L|Strikeout|S|Changeup|19|2|2|0|13|83
+Daniel Wright|R|Trayce Thompson|R|Flyout|C|Two-Seam Fastball|20|0|0|1|2|89
+Daniel Wright|R|Trayce Thompson|R|Flyout|B|Four-Seam Fastball|21|0|1|1|14|90
+Daniel Wright|R|Trayce Thompson|R|Flyout|B|Two-Seam Fastball|22|1|1|1|12|89
+Daniel Wright|R|Trayce Thompson|R|Flyout|X|Four-Seam Fastball|23|2|1|1|5|89
+Daniel Wright|R|Joc Pederson|L|Lineout|S|Changeup|24|0|0|2|4|83
+Daniel Wright|R|Joc Pederson|L|Lineout|X|Changeup|25|0|1|2|7|83
+Daniel Wright|R|Yasiel Puig|R|Pop Out|X|Four-Seam Fastball|26|0|0|0|3|88
+Daniel Wright|R|Yasmani Grandal|L|Flyout|C|Four-Seam Fastball|27|0|0|1|12|89
+Daniel Wright|R|Yasmani Grandal|L|Flyout|B|Curveball|28|0|1|1|14|73
+Daniel Wright|R|Yasmani Grandal|L|Flyout|B|Four-Seam Fastball|29|1|1|1|14|87
+Daniel Wright|R|Yasmani Grandal|L|Flyout|B|Two-Seam Fastball|30|2|1|1|11|89
+Daniel Wright|R|Yasmani Grandal|L|Flyout|F|Two-Seam Fastball|31|3|1|1|1|88
+Daniel Wright|R|Yasmani Grandal|L|Flyout|X|Four-Seam Fastball|32|3|2|1|9|88
+Daniel Wright|R|Mike Bolsinger|R|Strikeout|C|Four-Seam Fastball|33|0|0|2|3|86
+Daniel Wright|R|Mike Bolsinger|R|Strikeout|B|Four-Seam Fastball|34|0|1|2|14|87
+Daniel Wright|R|Mike Bolsinger|R|Strikeout|F|Four-Seam Fastball|35|1|1|2|9|87
+Daniel Wright|R|Mike Bolsinger|R|Strikeout|C|Curveball|36|1|2|2|9|74
+Daniel Wright|R|Chase Utley|L|Single|B|Four-Seam Fastball|37|0|0|0|14|86
+Daniel Wright|R|Chase Utley|L|Single|C|Changeup|38|1|0|0|7|82
+Daniel Wright|R|Chase Utley|L|Single|D|Changeup|39|1|1|0|13|81
+Daniel Wright|R|Corey Seager|L|Pop Out|X|Changeup|40|0|0|0|13|82
+Daniel Wright|R|Justin Turner|R|Lineout|B|Curveball|41|0|0|1|11|71
+Daniel Wright|R|Justin Turner|R|Lineout|X|Four-Seam Fastball|42|1|0|1|8|87
+Daniel Wright|R|Adrian Gonzalez|L|Flyout|F|Two-Seam Fastball|43|0|0|2|8|88
+Daniel Wright|R|Adrian Gonzalez|L|Flyout|X|Four-Seam Fastball|44|0|1|2|7|88
+Daniel Wright|R|Trayce Thompson|R|Single|C|Four-Seam Fastball|45|0|0|0|3|88
+Daniel Wright|R|Trayce Thompson|R|Single|D|Slider|46|0|1|0|9|81
+Daniel Wright|R|Joc Pederson|L|Double|B|Two-Seam Fastball|47|0|0|0|6|88
+Daniel Wright|R|Joc Pederson|L|Double|B|Two-Seam Fastball|48|1|0|0|13|87
+Daniel Wright|R|Joc Pederson|L|Double|E|Two-Seam Fastball|49|2|0|0|7|87
+Daniel Wright|R|Yasiel Puig|R|Groundout|F|Curveball|50|0|0|0|8|73
+Daniel Wright|R|Yasiel Puig|R|Groundout|*B|Curveball|51|0|1|0|14|73
+Daniel Wright|R|Yasiel Puig|R|Groundout|X|Changeup|52|1|1|0|5|82
+Daniel Wright|R|Yasmani Grandal|L|Walk|C|Curveball|53|0|0|1|1|72
+Daniel Wright|R|Yasmani Grandal|L|Walk|C|Curveball|54|0|1|1|13|73
+Daniel Wright|R|Yasmani Grandal|L|Walk|*B|Four-Seam Fastball|55|0|2|1|14|87
+Daniel Wright|R|Yasmani Grandal|L|Walk|B|Curveball|56|1|2|1|14|75
+Daniel Wright|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|57|2|2|1|12|88
+Daniel Wright|R|Yasmani Grandal|L|Walk|F|Changeup|58|3|2|1|8|82
+Daniel Wright|R|Yasmani Grandal|L|Walk|B|Four-Seam Fastball|59|3|2|1|12|87
+Daniel Wright|R|Mike Bolsinger|R|Strikeout Double Play|L|Four-Seam Fastball|60|0|0|1|6|87
+Daniel Wright|R|Mike Bolsinger|R|Strikeout Double Play|B|Four-Seam Fastball|61|0|1|1|14|87
+Daniel Wright|R|Mike Bolsinger|R|Strikeout Double Play|T|Four-Seam Fastball|62|1|1|1|12|86
+Daniel Wright|R|Mike Bolsinger|R|Strikeout Double Play|C|Curveball|63|1|2|1|1|73
+Daniel Wright|R|Chase Utley|L|Lineout|C|Two-Seam Fastball|64|0|0|0|2|88
+Daniel Wright|R|Chase Utley|L|Lineout|X|Curveball|65|0|1|0|7|73
+Daniel Wright|R|Corey Seager|L|Groundout|B|Changeup|66|0|0|1|14|82
+Daniel Wright|R|Corey Seager|L|Groundout|B|Four-Seam Fastball|67|1|0|1|14|89
+Daniel Wright|R|Corey Seager|L|Groundout|X|Two-Seam Fastball|68|2|0|1|11|86
+Daniel Wright|R|Justin Turner|R|Strikeout|C|Slider|69|0|0|2|14|83
+Daniel Wright|R|Justin Turner|R|Strikeout|S|Curveball|70|0|1|2|4|74
+Daniel Wright|R|Justin Turner|R|Strikeout|B|Four-Seam Fastball|71|0|2|2|12|88
+Daniel Wright|R|Justin Turner|R|Strikeout|F|Changeup|72|1|2|2|8|80
+Daniel Wright|R|Justin Turner|R|Strikeout|B|Curveball|73|1|2|2|14|74
+Daniel Wright|R|Justin Turner|R|Strikeout|B|Changeup|74|2|2|2|11|78
+Daniel Wright|R|Justin Turner|R|Strikeout|F|Changeup|75|3|2|2|14|81
+Daniel Wright|R|Justin Turner|R|Strikeout|C|Four-Seam Fastball|76|3|2|2|14|89
+Daniel Wright|R|Adrian Gonzalez|L|Groundout|C|Changeup|77|0|0|0|8|80
+Daniel Wright|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|78|0|1|0|14|86
+Daniel Wright|R|Adrian Gonzalez|L|Groundout|B|Four-Seam Fastball|79|1|1|0|14|87
+Daniel Wright|R|Adrian Gonzalez|L|Groundout|X|Changeup|80|2|1|0|4|81
+Daniel Wright|R|Trayce Thompson|R|Double|S|Slider|81|0|0|1|8|83
+Daniel Wright|R|Trayce Thompson|R|Double|C|Slider|82|0|1|1|12|82
+Daniel Wright|R|Trayce Thompson|R|Double|B|Curveball|83|0|2|1|14|74
+Daniel Wright|R|Trayce Thompson|R|Double|B|Changeup|84|1|2|1|11|85
+Daniel Wright|R|Trayce Thompson|R|Double|B|Four-Seam Fastball|85|2|2|1|13|88
+Daniel Wright|R|Trayce Thompson|R|Double|D|Four-Seam Fastball|86|3|2|1|2|88
+Daniel Wright|R|Gerardo Parra|L|Home Run|B|Four-Seam Fastball|0|0|0|0|13|91
+Daniel Wright|R|Gerardo Parra|L|Home Run|B|Four-Seam Fastball|1|1|0|0|13|90
+Daniel Wright|R|Gerardo Parra|L|Home Run|E|Four-Seam Fastball|2|2|0|0|7|91
+Daniel Wright|R|Daniel Descalso|L|Groundout|B|Changeup|3|0|0|0|13|85
+Daniel Wright|R|Daniel Descalso|L|Groundout|B|Four-Seam Fastball|4|1|0|0|1|90
+Daniel Wright|R|Daniel Descalso|L|Groundout|F|Four-Seam Fastball|5|2|0|0|4|90
+Daniel Wright|R|Daniel Descalso|L|Groundout|X|Four-Seam Fastball|6|2|1|0|9|90
+Daniel Wright|R|Tony Wolters|L|Single|B|Changeup|7|0|0|1|11|83
+Daniel Wright|R|Tony Wolters|L|Single|F|Two-Seam Fastball|8|1|0|1|7|89
+Daniel Wright|R|Tony Wolters|L|Single|B|Four-Seam Fastball|9|1|1|1|12|90
+Daniel Wright|R|Tony Wolters|L|Single|D|Four-Seam Fastball|10|2|1|1|13|90
+Daniel Wright|R|Jon Gray|R|Sac Bunt|X|Four-Seam Fastball|11|0|0|1|4|89
+Daniel Wright|R|Charlie Blackmon|L|Strikeout|B|Changeup|12|0|0|2|11|83
+Daniel Wright|R|Charlie Blackmon|L|Strikeout|F|Two-Seam Fastball|13|1|0|2|13|90
+Daniel Wright|R|Charlie Blackmon|L|Strikeout|S|Four-Seam Fastball|14|1|1|2|1|89
+Daniel Wright|R|Charlie Blackmon|L|Strikeout|S|Changeup|15|1|2|2|13|83
+Daniel Wright|R|DJ LeMahieu|R|Single|B|Curveball|16|0|0|0|2|74
+Daniel Wright|R|DJ LeMahieu|R|Single|C|Four-Seam Fastball|17|1|0|0|7|90
+Daniel Wright|R|DJ LeMahieu|R|Single|B|Four-Seam Fastball|18|1|1|0|14|90
+Daniel Wright|R|DJ LeMahieu|R|Single|D|Four-Seam Fastball|19|2|1|0|13|89
+Daniel Wright|R|Nolan Arenado|R|Grounded Into DP|X|Four-Seam Fastball|20|0|0|0|14|90
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|B|Changeup|21|0|0|2|11|83
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|C|Curveball|22|1|0|2|13|74
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|F|Four-Seam Fastball|23|1|1|2|12|88
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|F|Changeup|24|1|2|2|13|84
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|B|Curveball|25|1|2|2|14|76
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|B|Changeup|26|2|2|2|11|83
+Daniel Wright|R|Carlos Gonzalez|L|Flyout|X|Changeup|27|3|2|2|5|82
+Daniel Wright|R|Trevor Story|R|Groundout|S|Four-Seam Fastball|28|0|0|0|3|89
+Daniel Wright|R|Trevor Story|R|Groundout|B|Curveball|29|0|1|0|14|75
+Daniel Wright|R|Trevor Story|R|Groundout|F|Four-Seam Fastball|30|1|1|0|7|88
+Daniel Wright|R|Trevor Story|R|Groundout|X|Curveball|31|1|2|0|8|75
+Daniel Wright|R|Gerardo Parra|L|Single|B|Changeup|32|0|0|1|11|83
+Daniel Wright|R|Gerardo Parra|L|Single|F|Four-Seam Fastball|33|1|0|1|14|89
+Daniel Wright|R|Gerardo Parra|L|Single|F|Curveball|34|1|1|1|13|74
+Daniel Wright|R|Gerardo Parra|L|Single|D|Curveball|35|1|2|1|6|76
+Daniel Wright|R|Daniel Descalso|L|Lineout|S|Four-Seam Fastball|36|0|0|1|1|88
+Daniel Wright|R|Daniel Descalso|L|Lineout|B|Changeup|37|0|1|1|11|82
+Daniel Wright|R|Daniel Descalso|L|Lineout|B|Changeup|38|1|1|1|13|82
+Daniel Wright|R|Daniel Descalso|L|Lineout|B|Four-Seam Fastball|39|2|1|1|14|89
+Daniel Wright|R|Daniel Descalso|L|Lineout|X|Two-Seam Fastball|40|3|1|1|7|87
+Daniel Wright|R|Tony Wolters|L|Strikeout|C|Changeup|41|0|0|2|4|82
+Daniel Wright|R|Tony Wolters|L|Strikeout|C|Curveball|42|0|1|2|13|73
+Daniel Wright|R|Tony Wolters|L|Strikeout|*B|Curveball|43|0|2|2|14|75
+Daniel Wright|R|Tony Wolters|L|Strikeout|B|Four-Seam Fastball|44|1|2|2|12|89
+Daniel Wright|R|Tony Wolters|L|Strikeout|S|Four-Seam Fastball|45|2|2|2|14|89
+Daniel Wright|R|Cristhian Adames|L|Double|B|Curveball|46|0|0|0|11|72
+Daniel Wright|R|Cristhian Adames|L|Double|F|Two-Seam Fastball|47|1|0|0|13|88
+Daniel Wright|R|Cristhian Adames|L|Double|D|Changeup|48|1|1|0|8|82
+Daniel Wright|R|Charlie Blackmon|L|Flyout|B|Changeup|49|0|0|0|11|82
+Daniel Wright|R|Charlie Blackmon|L|Flyout|F|Four-Seam Fastball|50|1|0|0|13|89
+Daniel Wright|R|Charlie Blackmon|L|Flyout|F|Four-Seam Fastball|51|1|1|0|11|89
+Daniel Wright|R|Charlie Blackmon|L|Flyout|X|Four-Seam Fastball|52|1|2|0|13|89
+Daniel Wright|R|DJ LeMahieu|R|Double|E|Curveball|53|0|0|1|11|74
+Daniel Wright|R|Nolan Arenado|R|Home Run|C|Four-Seam Fastball|54|0|0|1|5|88
+Daniel Wright|R|Nolan Arenado|R|Home Run|*B|Curveball|55|0|1|1|14|74
+Daniel Wright|R|Nolan Arenado|R|Home Run|E|Four-Seam Fastball|56|1|1|1|11|87
+Daniel Wright|R|Carlos Gonzalez|L|Single|B|Four-Seam Fastball|57|0|0|1|13|88
+Daniel Wright|R|Carlos Gonzalez|L|Single|D|Four-Seam Fastball|58|1|0|1|13|88
+Daniel Wright|R|Ben Revere|L|Single|B|Four-Seam Fastball|0|0|0|2|14|91
+Daniel Wright|R|Ben Revere|L|Single|B|Four-Seam Fastball|1|1|0|2|14|91
+Daniel Wright|R|Ben Revere|L|Single|F|Four-Seam Fastball|2|2|0|2|6|89
+Daniel Wright|R|Ben Revere|L|Single|*B|Four-Seam Fastball|3|2|1|2|14|91
+Daniel Wright|R|Ben Revere|L|Single|E|Four-Seam Fastball|4|3|1|2|8|91
+Daniel Wright|R|Michael A. Taylor|R|Flyout|X|Curveball|5|0|0|2|7|73
+Daniel Wright|R|Bryce Harper|L|Single|B|Four-Seam Fastball|6|0|0|0|1|90
+Daniel Wright|R|Bryce Harper|L|Single|S|Four-Seam Fastball|7|1|0|0|5|90
+Daniel Wright|R|Bryce Harper|L|Single|B|Changeup|8|1|1|0|13|84
+Daniel Wright|R|Bryce Harper|L|Single|C|Four-Seam Fastball|9|2|1|0|9|91
+Daniel Wright|R|Bryce Harper|L|Single|F|Four-Seam Fastball|10|2|2|0|5|90
+Daniel Wright|R|Bryce Harper|L|Single|D|Four-Seam Fastball|11|2|2|0|14|91
+Daniel Wright|R|Daniel Murphy|L|Single|D|Changeup|12|0|0|0|13|84
+Daniel Wright|R|Wilson Ramos|R|Single|C|Curveball|13|0|0|0|7|75
+Daniel Wright|R|Wilson Ramos|R|Single|B|Curveball|14|0|1|0|13|75
+Daniel Wright|R|Wilson Ramos|R|Single|B|Four-Seam Fastball|15|1|1|0|14|90
+Daniel Wright|R|Wilson Ramos|R|Single|D|Four-Seam Fastball|16|2|1|0|13|89
+Daniel Wright|R|Anthony Rendon|R|Field Error|F|Four-Seam Fastball|17|0|0|0|4|90
+Daniel Wright|R|Anthony Rendon|R|Field Error|F|Curveball|18|0|1|0|7|76
+Daniel Wright|R|Anthony Rendon|R|Field Error|E|Curveball|19|0|2|0|14|77
+Daniel Wright|R|Clint Robinson|L|Sac Fly|B|Four-Seam Fastball|20|0|0|0|14|90
+Daniel Wright|R|Clint Robinson|L|Sac Fly|S|Four-Seam Fastball|21|1|0|0|12|90
+Daniel Wright|R|Clint Robinson|L|Sac Fly|E|Curveball|22|1|1|0|13|76
+Daniel Wright|R|Danny Espinosa|L|Groundout|B|Four-Seam Fastball|23|0|0|1|12|90
+Daniel Wright|R|Danny Espinosa|L|Groundout|B|Four-Seam Fastball|24|1|0|1|12|88
+Daniel Wright|R|Danny Espinosa|L|Groundout|X|Two-Seam Fastball|25|2|0|1|7|90
+Daniel Wright|R|Sammy Solis|R|Groundout|X|Four-Seam Fastball|26|0|0|2|6|90
+Daniel Wright|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|0|0|0|0|13|91
+Daniel Wright|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|1|1|0|0|14|91
+Daniel Wright|R|Mallex Smith|L|Walk|C|Four-Seam Fastball|2|2|0|0|9|91
+Daniel Wright|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|3|2|1|0|13|91
+Daniel Wright|R|Mallex Smith|L|Walk|B|Two-Seam Fastball|4|3|1|0|13|90
+Daniel Wright|R|Ender Inciarte|L|Single|C|Two-Seam Fastball|5|0|0|0|4|91
+Daniel Wright|R|Ender Inciarte|L|Single|F|Four-Seam Fastball|6|0|1|0|14|91
+Daniel Wright|R|Ender Inciarte|L|Single|F|Curveball|7|0|2|0|13|76
+Daniel Wright|R|Ender Inciarte|L|Single|*B|Curveball|8|0|2|0|13|75
+Daniel Wright|R|Ender Inciarte|L|Single|B|Four-Seam Fastball|9|1|2|0|14|89
+Daniel Wright|R|Ender Inciarte|L|Single|D|Four-Seam Fastball|10|2|2|0|1|91
+Daniel Wright|R|Freddie Freeman|L|Single|B|Four-Seam Fastball|11|0|0|0|11|90
+Daniel Wright|R|Freddie Freeman|L|Single|S|Two-Seam Fastball|12|1|0|0|13|90
+Daniel Wright|R|Freddie Freeman|L|Single|B|Two-Seam Fastball|13|1|1|0|11|90
+Daniel Wright|R|Freddie Freeman|L|Single|S|Four-Seam Fastball|14|2|1|0|14|90
+Daniel Wright|R|Freddie Freeman|L|Single|B|Two-Seam Fastball|15|2|2|0|11|91
+Daniel Wright|R|Freddie Freeman|L|Single|F|Four-Seam Fastball|16|3|2|0|7|91
+Daniel Wright|R|Freddie Freeman|L|Single|E|Four-Seam Fastball|17|3|2|0|5|91
+Daniel Wright|R|Nick Markakis|L|Grounded Into DP|B|Curveball|18|0|0|0|11|75
+Daniel Wright|R|Nick Markakis|L|Grounded Into DP|E|Two-Seam Fastball|19|1|0|0|4|91
+Daniel Wright|R|Adonis Garcia|R|Groundout|B|Slider|20|0|0|2|14|84
+Daniel Wright|R|Adonis Garcia|R|Groundout|B|Two-Seam Fastball|21|1|0|2|11|90
+Daniel Wright|R|Adonis Garcia|R|Groundout|F|Four-Seam Fastball|22|2|0|2|6|91
+Daniel Wright|R|Adonis Garcia|R|Groundout|B|Slider|23|2|1|2|14|84
+Daniel Wright|R|Adonis Garcia|R|Groundout|S|Four-Seam Fastball|24|3|1|2|2|90
+Daniel Wright|R|Adonis Garcia|R|Groundout|X|Four-Seam Fastball|25|3|2|2|14|90
+Daniel Wright|R|A.J. Pierzynski|L|Flyout|C|Four-Seam Fastball|26|0|0|0|2|89
+Daniel Wright|R|A.J. Pierzynski|L|Flyout|X|Slider|27|0|1|0|8|84
+Daniel Wright|R|Jace Peterson|L|Single|B|Four-Seam Fastball|28|0|0|1|11|89
+Daniel Wright|R|Jace Peterson|L|Single|C|Changeup|29|1|0|1|1|84
+Daniel Wright|R|Jace Peterson|L|Single|D|Changeup|30|1|1|1|13|84
+Daniel Wright|R|Erick Aybar|L|Double|E|Four-Seam Fastball|31|0|0|1|5|89
+Daniel Wright|R|Aaron Blair|R|Groundout|C|Four-Seam Fastball|32|0|0|2|5|90
+Daniel Wright|R|Aaron Blair|R|Groundout|X|Four-Seam Fastball|33|0|1|2|6|90
+Daniel Wright|R|Mallex Smith|L|Groundout|L|Two-Seam Fastball|34|0|0|0|7|88
+Daniel Wright|R|Mallex Smith|L|Groundout|B|Curveball|35|0|1|0|13|76
+Daniel Wright|R|Mallex Smith|L|Groundout|B|Changeup|36|1|1|0|13|83
+Daniel Wright|R|Mallex Smith|L|Groundout|C|Two-Seam Fastball|37|2|1|0|13|90
+Daniel Wright|R|Mallex Smith|L|Groundout|X|Changeup|38|2|2|0|1|83
+Daniel Wright|R|Ender Inciarte|L|Lineout|B|Curveball|39|0|0|1|14|74
+Daniel Wright|R|Ender Inciarte|L|Lineout|B|Two-Seam Fastball|40|1|0|1|11|90
+Daniel Wright|R|Ender Inciarte|L|Lineout|B|Two-Seam Fastball|41|2|0|1|11|89
+Daniel Wright|R|Ender Inciarte|L|Lineout|C|Two-Seam Fastball|42|3|0|1|5|89
+Daniel Wright|R|Ender Inciarte|L|Lineout|X|Four-Seam Fastball|43|3|1|1|1|90
+Daniel Wright|R|Freddie Freeman|L|Double|S|Two-Seam Fastball|44|0|0|2|11|89
+Daniel Wright|R|Freddie Freeman|L|Double|B|Slider|45|0|1|2|14|83
+Daniel Wright|R|Freddie Freeman|L|Double|D|Four-Seam Fastball|46|1|1|2|9|89
+Daniel Wright|R|Nick Markakis|L|Field Error|B|Two-Seam Fastball|47|0|0|2|13|89
+Daniel Wright|R|Nick Markakis|L|Field Error|C|Two-Seam Fastball|48|1|0|2|13|89
+Daniel Wright|R|Nick Markakis|L|Field Error|F|Curveball|49|1|1|2|13|75
+Daniel Wright|R|Nick Markakis|L|Field Error|B|Curveball|50|1|2|2|11|75
+Daniel Wright|R|Nick Markakis|L|Field Error|B|Curveball|51|2|2|2|11|73
+Daniel Wright|R|Nick Markakis|L|Field Error|E|Two-Seam Fastball|52|3|2|2|5|89
+Daniel Wright|R|Adonis Garcia|R|Double|B|Slider|53|0|0|2|11|82
+Daniel Wright|R|Adonis Garcia|R|Double|E|Four-Seam Fastball|54|1|0|2|5|89
+Daniel Wright|R|A.J. Pierzynski|L|Lineout|B|Four-Seam Fastball|55|0|0|2|14|89
+Daniel Wright|R|A.J. Pierzynski|L|Lineout|X|Two-Seam Fastball|56|1|0|2|11|89
+Daniel Wright|R|Carlos Gomez|R|Home Run|E|Four-Seam Fastball|0|0|0|0|4|91
+Daniel Wright|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|1|0|0|0|14|92
+Daniel Wright|R|Ian Desmond|R|Walk|B|Slider|2|1|0|0|14|83
+Daniel Wright|R|Ian Desmond|R|Walk|C|Four-Seam Fastball|3|2|0|0|8|91
+Daniel Wright|R|Ian Desmond|R|Walk|B|Changeup|4|2|1|0|13|85
+Daniel Wright|R|Ian Desmond|R|Walk|C|Four-Seam Fastball|5|3|1|0|5|91
+Daniel Wright|R|Ian Desmond|R|Walk|B|Four-Seam Fastball|6|3|2|0|14|91
+Daniel Wright|R|Carlos Beltran|L|Single|C|Two-Seam Fastball|7|0|0|0|13|91
+Daniel Wright|R|Carlos Beltran|L|Single|B|Two-Seam Fastball|8|0|1|0|13|91
+Daniel Wright|R|Carlos Beltran|L|Single|D|Changeup|9|1|1|0|13|85
+Daniel Wright|R|Adrian Beltre|R|Strikeout|B|Slider|10|0|0|0|14|84
+Daniel Wright|R|Adrian Beltre|R|Strikeout|C|Changeup|11|1|0|0|14|85
+Daniel Wright|R|Adrian Beltre|R|Strikeout|C|Four-Seam Fastball|12|1|1|0|14|91
+Daniel Wright|R|Adrian Beltre|R|Strikeout|W|Curveball|13|1|2|0|14|75
+Daniel Wright|R|Mitch Moreland|L|Strikeout|B|Slider|14|0|0|1|14|82
+Daniel Wright|R|Mitch Moreland|L|Strikeout|F|Four-Seam Fastball|15|1|0|1|11|90
+Daniel Wright|R|Mitch Moreland|L|Strikeout|B|Changeup|16|1|1|1|13|84
+Daniel Wright|R|Mitch Moreland|L|Strikeout|F|Two-Seam Fastball|17|2|1|1|8|90
+Daniel Wright|R|Mitch Moreland|L|Strikeout|W|Curveball|18|2|2|1|14|76
+Daniel Wright|R|Jonathan Lucroy|R|Double|C|Slider|19|0|0|2|4|81
+Daniel Wright|R|Jonathan Lucroy|R|Double|E|Two-Seam Fastball|20|0|1|2|7|89
+Daniel Wright|R|Nomar Mazara|L|Groundout|X|Four-Seam Fastball|21|0|0|2|8|91
+Daniel Wright|R|Elvis Andrus|R|Flyout|C|Curveball|22|0|0|0|9|74
+Daniel Wright|R|Elvis Andrus|R|Flyout|B|Slider|23|0|1|0|14|83
+Daniel Wright|R|Elvis Andrus|R|Flyout|X|Slider|24|1|1|0|3|82
+Daniel Wright|R|Jurickson Profar|L|Single|B|Changeup|25|0|0|1|13|84
+Daniel Wright|R|Jurickson Profar|L|Single|D|Two-Seam Fastball|26|1|0|1|1|89
+Daniel Wright|R|Carlos Gomez|R|Flyout|C|Slider|27|0|0|1|12|83
+Daniel Wright|R|Carlos Gomez|R|Flyout|F|Changeup|28|0|1|1|13|83
+Daniel Wright|R|Carlos Gomez|R|Flyout|*B|Curveball|29|0|2|1|14|75
+Daniel Wright|R|Carlos Gomez|R|Flyout|X|Curveball|30|1|2|1|5|74
+Daniel Wright|R|Ian Desmond|R|Single|B|Slider|31|0|0|2|13|81
+Daniel Wright|R|Ian Desmond|R|Single|B|Two-Seam Fastball|32|1|0|2|2|89
+Daniel Wright|R|Ian Desmond|R|Single|C|Four-Seam Fastball|33|2|0|2|8|88
+Daniel Wright|R|Ian Desmond|R|Single|B|Changeup|34|2|1|2|14|84
+Daniel Wright|R|Ian Desmond|R|Single|C|Four-Seam Fastball|35|3|1|2|6|89
+Daniel Wright|R|Ian Desmond|R|Single|D|Four-Seam Fastball|36|3|2|2|5|89
+Daniel Wright|R|Carlos Beltran|L|Lineout|F|Changeup|37|0|0|2|13|82
+Daniel Wright|R|Carlos Beltran|L|Lineout|*B|Curveball|38|0|1|2|14|75
+Daniel Wright|R|Carlos Beltran|L|Lineout|F|Changeup|39|1|1|2|11|83
+Daniel Wright|R|Carlos Beltran|L|Lineout|X|Four-Seam Fastball|40|1|2|2|4|91
+Daniel Wright|R|Adrian Beltre|R|Pop Out|B|Slider|41|0|0|0|14|83
+Daniel Wright|R|Adrian Beltre|R|Pop Out|B|Curveball|42|1|0|0|11|74
+Daniel Wright|R|Adrian Beltre|R|Pop Out|X|Four-Seam Fastball|43|2|0|0|3|88
+Daniel Wright|R|Mitch Moreland|L|Groundout|B|Four-Seam Fastball|44|0|0|1|12|88
+Daniel Wright|R|Mitch Moreland|L|Groundout|X|Four-Seam Fastball|45|1|0|1|14|89
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|B|Four-Seam Fastball|46|0|0|2|11|87
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|B|Slider|47|1|0|2|13|82
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|C|Slider|48|2|0|2|12|81
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|C|Four-Seam Fastball|49|2|1|2|8|89
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|B|Curveball|50|2|2|2|14|76
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|F|Changeup|51|3|2|2|5|83
+Daniel Wright|R|Jonathan Lucroy|R|Groundout|X|Four-Seam Fastball|52|3|2|2|14|88
+Daniel Wright|R|Nomar Mazara|L|Flyout|C|Four-Seam Fastball|53|0|0|0|1|88
+Daniel Wright|R|Nomar Mazara|L|Flyout|X|Changeup|54|0|1|0|11|82
+Daniel Wright|R|Elvis Andrus|R|Hit By Pitch|C|Slider|55|0|0|1|3|81
+Daniel Wright|R|Elvis Andrus|R|Hit By Pitch|B|Two-Seam Fastball|56|0|1|1|13|88
+Daniel Wright|R|Elvis Andrus|R|Hit By Pitch|H|Two-Seam Fastball|57|1|1|1|11|87
+Daniel Wright|R|Jurickson Profar|L|Sac Bunt|B|Changeup|58|0|0|1|13|82
+Daniel Wright|R|Jurickson Profar|L|Sac Bunt|X|Changeup|59|1|0|1|5|82
+Daniel Wright|R|Carlos Gomez|R|Home Run|E|Changeup|60|0|0|2|9|82
+Daniel Wright|R|Ian Desmond|R|Groundout|C|Four-Seam Fastball|61|0|0|2|14|89
+Daniel Wright|R|Ian Desmond|R|Groundout|C|Two-Seam Fastball|62|0|1|2|5|88
+Daniel Wright|R|Ian Desmond|R|Groundout|B|Curveball|63|0|2|2|14|75
+Daniel Wright|R|Ian Desmond|R|Groundout|B|Four-Seam Fastball|64|1|2|2|11|89
+Daniel Wright|R|Ian Desmond|R|Groundout|F|Curveball|65|2|2|2|7|74
+Daniel Wright|R|Ian Desmond|R|Groundout|X|Slider|66|2|2|2|6|80
+Daniel Wright|R|Carlos Beltran|L|Groundout|C|Changeup|67|0|0|0|5|81
+Daniel Wright|R|Carlos Beltran|L|Groundout|B|Curveball|68|0|1|0|14|74
+Daniel Wright|R|Carlos Beltran|L|Groundout|B|Two-Seam Fastball|69|1|1|0|13|88
+Daniel Wright|R|Carlos Beltran|L|Groundout|F|Changeup|70|2|1|0|5|82
+Daniel Wright|R|Carlos Beltran|L|Groundout|B|Curveball|71|2|2|0|14|75
+Daniel Wright|R|Carlos Beltran|L|Groundout|F|Two-Seam Fastball|72|3|2|0|13|85
+Daniel Wright|R|Carlos Beltran|L|Groundout|X|Four-Seam Fastball|73|3|2|0|7|87
+Daniel Wright|R|Adrian Beltre|R|Pop Out|F|Four-Seam Fastball|74|0|0|1|14|89
+Daniel Wright|R|Adrian Beltre|R|Pop Out|B|Four-Seam Fastball|75|0|1|1|14|88
+Daniel Wright|R|Adrian Beltre|R|Pop Out|B|Four-Seam Fastball|76|1|1|1|14|89
+Daniel Wright|R|Adrian Beltre|R|Pop Out|X|Changeup|77|2|1|1|3|81
+Daniel Wright|R|Mitch Moreland|L|Hit By Pitch|S|Changeup|78|0|0|2|6|80
+Daniel Wright|R|Mitch Moreland|L|Hit By Pitch|B|Two-Seam Fastball|79|0|1|2|13|89
+Daniel Wright|R|Mitch Moreland|L|Hit By Pitch|F|Slider|80|1|1|2|14|79
+Daniel Wright|R|Mitch Moreland|L|Hit By Pitch|H|Curveball|81|1|2|2|14|76
+Daniel Wright|R|Jonathan Lucroy|R|Flyout|B|Slider|82|0|0|2|14|81
+Daniel Wright|R|Jonathan Lucroy|R|Flyout|B|Changeup|83|1|0|2|11|79
+Daniel Wright|R|Jonathan Lucroy|R|Flyout|X|Slider|84|2|0|2|6|80
+Daniel Wright|R|Devon Travis|R|Groundout|C|Four-Seam Fastball|0|0|0|0|9|90
+Daniel Wright|R|Devon Travis|R|Groundout|X|Four-Seam Fastball|1|0|1|0|14|91
+Daniel Wright|R|Josh Donaldson|R|Walk|C|Four-Seam Fastball|2|0|0|1|14|90
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Two-Seam Fastball|3|0|1|1|13|90
+Daniel Wright|R|Josh Donaldson|R|Walk|S|Slider|4|1|1|1|13|84
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Curveball|5|1|2|1|14|75
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Slider|6|2|2|1|14|84
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|7|3|2|1|14|91
+Daniel Wright|R|Edwin Encarnacion|R|Grounded Into DP|B|Four-Seam Fastball|8|0|0|1|12|91
+Daniel Wright|R|Edwin Encarnacion|R|Grounded Into DP|B|Four-Seam Fastball|9|1|0|1|14|89
+Daniel Wright|R|Edwin Encarnacion|R|Grounded Into DP|X|Slider|10|2|0|1|8|84
+Daniel Wright|R|Jose Bautista|R|Single|B|Four-Seam Fastball|11|0|0|0|14|90
+Daniel Wright|R|Jose Bautista|R|Single|B|Slider|12|1|0|0|14|82
+Daniel Wright|R|Jose Bautista|R|Single|F|Four-Seam Fastball|13|2|0|0|5|89
+Daniel Wright|R|Jose Bautista|R|Single|B|Four-Seam Fastball|14|2|1|0|14|91
+Daniel Wright|R|Jose Bautista|R|Single|C|Four-Seam Fastball|15|3|1|0|14|90
+Daniel Wright|R|Jose Bautista|R|Single|D|Four-Seam Fastball|16|3|2|0|6|90
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|C|Four-Seam Fastball|17|0|0|0|5|90
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|B|Curveball|18|0|1|0|4|75
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|B|Slider|19|1|1|0|8|82
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|C|Four-Seam Fastball|20|2|1|0|14|90
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|B|Four-Seam Fastball|21|2|2|0|11|89
+Daniel Wright|R|Russell Martin|R|Strikeout Double Play|S|Four-Seam Fastball|22|3|2|0|12|89
+Daniel Wright|R|Troy Tulowitzki|R|Groundout|B|Four-Seam Fastball|23|0|0|2|14|90
+Daniel Wright|R|Troy Tulowitzki|R|Groundout|X|Slider|24|1|0|2|14|83
+Daniel Wright|R|Michael Saunders|L|Strikeout|C|Changeup|25|0|0|0|8|82
+Daniel Wright|R|Michael Saunders|L|Strikeout|F|Four-Seam Fastball|26|0|1|0|3|88
+Daniel Wright|R|Michael Saunders|L|Strikeout|B|Curveball|27|0|2|0|14|76
+Daniel Wright|R|Michael Saunders|L|Strikeout|S|Curveball|28|1|2|0|14|74
+Daniel Wright|R|Kevin Pillar|R|Flyout|C|Slider|29|0|0|1|9|81
+Daniel Wright|R|Kevin Pillar|R|Flyout|F|Four-Seam Fastball|30|0|1|1|6|89
+Daniel Wright|R|Kevin Pillar|R|Flyout|F|Curveball|31|0|2|1|14|75
+Daniel Wright|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|32|0|2|1|2|89
+Daniel Wright|R|Darwin Barney|R|Walk|B|Slider|33|0|0|2|14|82
+Daniel Wright|R|Darwin Barney|R|Walk|S|Slider|34|1|0|2|14|82
+Daniel Wright|R|Darwin Barney|R|Walk|B|Slider|35|1|1|2|14|82
+Daniel Wright|R|Darwin Barney|R|Walk|B|Four-Seam Fastball|36|2|1|2|14|90
+Daniel Wright|R|Darwin Barney|R|Walk|F|Four-Seam Fastball|37|3|1|2|5|89
+Daniel Wright|R|Darwin Barney|R|Walk|B|Four-Seam Fastball|38|3|2|2|14|90
+Daniel Wright|R|Devon Travis|R|Strikeout|B|Four-Seam Fastball|39|0|0|2|12|88
+Daniel Wright|R|Devon Travis|R|Strikeout|C|Changeup|40|1|0|2|11|82
+Daniel Wright|R|Devon Travis|R|Strikeout|F|Four-Seam Fastball|41|1|1|2|12|89
+Daniel Wright|R|Devon Travis|R|Strikeout|B|Curveball|42|1|2|2|14|76
+Daniel Wright|R|Devon Travis|R|Strikeout|F|Changeup|43|2|2|2|11|83
+Daniel Wright|R|Devon Travis|R|Strikeout|S|Curveball|44|2|2|2|12|75
+Daniel Wright|R|Josh Donaldson|R|Double|C|Four-Seam Fastball|45|0|0|0|8|88
+Daniel Wright|R|Josh Donaldson|R|Double|B|Four-Seam Fastball|46|0|1|0|14|88
+Daniel Wright|R|Josh Donaldson|R|Double|D|Changeup|47|1|1|0|9|82
+Daniel Wright|R|Edwin Encarnacion|R|Single|D|Slider|48|0|0|0|9|82
+Daniel Wright|R|Jose Bautista|R|Single|C|Slider|49|0|0|0|6|82
+Daniel Wright|R|Jose Bautista|R|Single|F|Four-Seam Fastball|50|0|1|0|4|87
+Daniel Wright|R|Jose Bautista|R|Single|B|Two-Seam Fastball|51|0|2|0|11|88
+Daniel Wright|R|Jose Bautista|R|Single|F|Curveball|52|1|2|0|14|75
+Daniel Wright|R|Jose Bautista|R|Single|E|Four-Seam Fastball|53|1|2|0|12|89
+Daniel Wright|R|Russell Martin|R|Sac Fly|B|Two-Seam Fastball|54|0|0|0|11|88
+Daniel Wright|R|Russell Martin|R|Sac Fly|C|Four-Seam Fastball|55|1|0|0|4|88
+Daniel Wright|R|Russell Martin|R|Sac Fly|B|Four-Seam Fastball|56|1|1|0|12|89
+Daniel Wright|R|Russell Martin|R|Sac Fly|B|Changeup|57|2|1|0|11|80
+Daniel Wright|R|Russell Martin|R|Sac Fly|E|Four-Seam Fastball|58|3|1|0|5|88
+Daniel Wright|R|Troy Tulowitzki|R|Lineout|X|Four-Seam Fastball|59|0|0|1|6|90
+Daniel Wright|R|Michael Saunders|L|Groundout|S|Changeup|60|0|0|2|13|82
+Daniel Wright|R|Michael Saunders|L|Groundout|B|Slider|61|0|1|2|14|81
+Daniel Wright|R|Michael Saunders|L|Groundout|B|Changeup|62|1|1|2|11|81
+Daniel Wright|R|Michael Saunders|L|Groundout|X|Changeup|63|2|1|2|13|81
+Daniel Wright|R|Kevin Pillar|R|Flyout|C|Four-Seam Fastball|64|0|0|0|14|88
+Daniel Wright|R|Kevin Pillar|R|Flyout|X|Four-Seam Fastball|65|0|1|0|13|88
+Daniel Wright|R|Darwin Barney|R|Lineout|C|Four-Seam Fastball|66|0|0|1|14|87
+Daniel Wright|R|Darwin Barney|R|Lineout|F|Slider|67|0|1|1|14|81
+Daniel Wright|R|Darwin Barney|R|Lineout|X|Curveball|68|0|2|1|14|73
+Daniel Wright|R|Devon Travis|R|Flyout|B|Slider|69|0|0|2|14|80
+Daniel Wright|R|Devon Travis|R|Flyout|B|Slider|70|1|0|2|14|78
+Daniel Wright|R|Devon Travis|R|Flyout|C|Four-Seam Fastball|71|2|0|2|14|88
+Daniel Wright|R|Devon Travis|R|Flyout|X|Four-Seam Fastball|72|2|1|2|5|88
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|73|0|0|0|14|88
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|74|1|0|0|14|89
+Daniel Wright|R|Josh Donaldson|R|Walk|C|Changeup|75|2|0|0|5|81
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Slider|76|2|1|0|14|81
+Daniel Wright|R|Josh Donaldson|R|Walk|C|Four-Seam Fastball|77|3|1|0|14|88
+Daniel Wright|R|Josh Donaldson|R|Walk|B|Four-Seam Fastball|78|3|2|0|14|89
+Daniel Wright|R|Carlos Gomez|R|Single|B|Four-Seam Fastball|0|0|0|0|14|88
+Daniel Wright|R|Carlos Gomez|R|Single|F|Four-Seam Fastball|1|1|0|0|4|88
+Daniel Wright|R|Carlos Gomez|R|Single|B|Slider|2|1|1|0|14|81
+Daniel Wright|R|Carlos Gomez|R|Single|B|Four-Seam Fastball|3|2|1|0|9|88
+Daniel Wright|R|Carlos Gomez|R|Single|C|Four-Seam Fastball|4|3|1|0|9|89
+Daniel Wright|R|Carlos Gomez|R|Single|D|Two-Seam Fastball|5|3|2|0|7|88
+Daniel Wright|R|Ian Desmond|R|Single|B|Slider|6|0|0|0|14|82
+Daniel Wright|R|Ian Desmond|R|Single|B|Four-Seam Fastball|7|1|0|0|12|89
+Daniel Wright|R|Ian Desmond|R|Single|D|Four-Seam Fastball|8|2|0|0|1|89
+Daniel Wright|R|Carlos Beltran|L|Grounded Into DP|F|Changeup|9|0|0|0|5|82
+Daniel Wright|R|Carlos Beltran|L|Grounded Into DP|E|Curveball|10|0|1|0|13|74
+Daniel Wright|R|Adrian Beltre|R|Single|C|Curveball|11|0|0|2|13|73
+Daniel Wright|R|Adrian Beltre|R|Single|F|Slider|12|0|1|2|13|81
+Daniel Wright|R|Adrian Beltre|R|Single|B|Curveball|13|0|2|2|11|73
+Daniel Wright|R|Adrian Beltre|R|Single|D|Four-Seam Fastball|14|1|2|2|14|88
+Daniel Wright|R|Rougned Odor|L|Strikeout|B|Changeup|15|0|0|2|13|83
+Daniel Wright|R|Rougned Odor|L|Strikeout|C|Changeup|16|1|0|2|5|83
+Daniel Wright|R|Rougned Odor|L|Strikeout|B|Curveball|17|1|1|2|13|73
+Daniel Wright|R|Rougned Odor|L|Strikeout|T|Changeup|18|2|1|2|1|82
+Daniel Wright|R|Rougned Odor|L|Strikeout|B|Four-Seam Fastball|19|2|2|2|11|87
+Daniel Wright|R|Rougned Odor|L|Strikeout|F|Changeup|20|3|2|2|13|83
+Daniel Wright|R|Rougned Odor|L|Strikeout|S|Changeup|21|3|2|2|11|81
+Daniel Wright|R|Jonathan Lucroy|R|Pop Out|S|Four-Seam Fastball|22|0|0|0|1|88
+Daniel Wright|R|Jonathan Lucroy|R|Pop Out|X|Changeup|23|0|1|0|11|87
+Daniel Wright|R|Mitch Moreland|L|Pop Out|B|Two-Seam Fastball|24|0|0|1|13|88
+Daniel Wright|R|Mitch Moreland|L|Pop Out|S|Changeup|25|1|0|1|7|81
+Daniel Wright|R|Mitch Moreland|L|Pop Out|B|Four-Seam Fastball|26|1|1|1|12|88
+Daniel Wright|R|Mitch Moreland|L|Pop Out|X|Changeup|27|2|1|1|11|81
+Daniel Wright|R|Nomar Mazara|L|Single|B|Changeup|28|0|0|2|11|81
+Daniel Wright|R|Nomar Mazara|L|Single|C|Changeup|29|1|0|2|5|80
+Daniel Wright|R|Nomar Mazara|L|Single|D|Changeup|30|1|1|2|13|82
+Daniel Wright|R|Elvis Andrus|R|Groundout|F|Four-Seam Fastball|31|0|0|2|5|88
+Daniel Wright|R|Elvis Andrus|R|Groundout|F|Curveball|32|0|1|2|2|73
+Daniel Wright|R|Elvis Andrus|R|Groundout|B|Four-Seam Fastball|33|0|2|2|13|88
+Daniel Wright|R|Elvis Andrus|R|Groundout|X|Curveball|34|1|2|2|5|74
+Daniel Wright|R|Carlos Gomez|R|Double|C|Four-Seam Fastball|35|0|0|0|6|88
+Daniel Wright|R|Carlos Gomez|R|Double|F|Four-Seam Fastball|36|0|1|0|11|87
+Daniel Wright|R|Carlos Gomez|R|Double|B|Curveball|37|0|2|0|14|74
+Daniel Wright|R|Carlos Gomez|R|Double|D|Curveball|38|1|2|0|8|74
+Daniel Wright|R|Ian Desmond|R|Lineout|B|Slider|39|0|0|0|14|81
+Daniel Wright|R|Ian Desmond|R|Lineout|B|Four-Seam Fastball|40|1|0|0|11|87
+Daniel Wright|R|Ian Desmond|R|Lineout|X|Curveball|41|2|0|0|5|72
+Daniel Wright|R|Carlos Beltran|L|Single|E|Curveball|42|0|0|1|13|72
+Daniel Wright|R|Adrian Beltre|R|Lineout|X|Four-Seam Fastball|43|0|0|1|9|89
+Daniel Wright|R|Rougned Odor|L|Flyout|F|Four-Seam Fastball|44|0|0|2|2|87
+Daniel Wright|R|Rougned Odor|L|Flyout|F|Four-Seam Fastball|45|0|1|2|11|88
+Daniel Wright|R|Rougned Odor|L|Flyout|B|Curveball|46|0|2|2|11|73
+Daniel Wright|R|Rougned Odor|L|Flyout|F|Changeup|47|1|2|2|11|81
+Daniel Wright|R|Rougned Odor|L|Flyout|*B|Curveball|48|1|2|2|13|74
+Daniel Wright|R|Rougned Odor|L|Flyout|X|Changeup|49|2|2|2|11|81
+Daniel Wright|R|Jonathan Lucroy|R|Double|C|Four-Seam Fastball|50|0|0|0|5|87
+Daniel Wright|R|Jonathan Lucroy|R|Double|B|Slider|51|0|1|0|9|80
+Daniel Wright|R|Jonathan Lucroy|R|Double|B|Changeup|52|1|1|0|11|86
+Daniel Wright|R|Jonathan Lucroy|R|Double|C|Curveball|53|2|1|0|1|71
+Daniel Wright|R|Jonathan Lucroy|R|Double|F|Slider|54|2|2|0|9|80
+Daniel Wright|R|Jonathan Lucroy|R|Double|D|Curveball|55|2|2|0|13|73
+Daniel Wright|R|Mitch Moreland|L|Flyout|B|Four-Seam Fastball|56|0|0|0|12|87
+Daniel Wright|R|Mitch Moreland|L|Flyout|X|Changeup|57|1|0|0|13|82
+Daniel Wright|R|Nomar Mazara|L|Home Run|E|Changeup|58|0|0|1|11|81
+Daniel Wright|R|Elvis Andrus|R|Single|C|Curveball|59|0|0|1|1|72
+Daniel Wright|R|Elvis Andrus|R|Single|C|Four-Seam Fastball|60|0|1|1|11|87
+Daniel Wright|R|Elvis Andrus|R|Single|D|Four-Seam Fastball|61|0|2|1|13|88
+Daniel Wright|R|Carlos Gomez|R|Groundout|C|Slider|62|0|0|1|13|80
+Daniel Wright|R|Carlos Gomez|R|Groundout|C|Slider|63|0|1|1|6|78
+Daniel Wright|R|Carlos Gomez|R|Groundout|B|Four-Seam Fastball|64|0|2|1|12|88
+Daniel Wright|R|Carlos Gomez|R|Groundout|B|Slider|65|1|2|1|13|77
+Daniel Wright|R|Carlos Gomez|R|Groundout|X|Curveball|66|2|2|1|14|73
+Daniel Wright|R|Ian Desmond|R|Groundout|X|Slider|67|0|0|2|14|79
+Daniel Wright|R|Carlos Beltran|L|Lineout|F|Four-Seam Fastball|68|0|0|0|5|85
+Daniel Wright|R|Carlos Beltran|L|Lineout|F|Changeup|69|0|1|0|11|85
+Daniel Wright|R|Carlos Beltran|L|Lineout|B|Changeup|70|0|2|0|14|85
+Daniel Wright|R|Carlos Beltran|L|Lineout|B|Four-Seam Fastball|71|1|2|0|13|88
+Daniel Wright|R|Carlos Beltran|L|Lineout|B|Changeup|72|2|2|0|13|82
+Daniel Wright|R|Carlos Beltran|L|Lineout|X|Changeup|73|3|2|0|1|85
+Daniel Wright|R|Adrian Beltre|R|Hit By Pitch|B|Four-Seam Fastball|74|0|0|1|13|87
+Daniel Wright|R|Adrian Beltre|R|Hit By Pitch|F|Slider|75|1|0|1|8|81
+Daniel Wright|R|Adrian Beltre|R|Hit By Pitch|F|Slider|76|1|1|1|5|81
+Daniel Wright|R|Adrian Beltre|R|Hit By Pitch|H|Changeup|77|1|2|1|11|86
+Daniel Wright|R|Rougned Odor|L|Pop Out|T|Two-Seam Fastball|78|0|0|1|11|88
+Daniel Wright|R|Rougned Odor|L|Pop Out|B|Changeup|79|0|1|1|11|87
+Daniel Wright|R|Rougned Odor|L|Pop Out|F|Four-Seam Fastball|80|1|1|1|6|86
+Daniel Wright|R|Rougned Odor|L|Pop Out|X|Curveball|81|1|2|1|13|72
+Daniel Wright|R|Jonathan Lucroy|R|Hit By Pitch|*B|Slider|82|0|0|2|14|81
+Daniel Wright|R|Jonathan Lucroy|R|Hit By Pitch|B|Slider|83|1|0|2|11|79
+Daniel Wright|R|Jonathan Lucroy|R|Hit By Pitch|B|Four-Seam Fastball|84|2|0|2|14|87
+Daniel Wright|R|Jonathan Lucroy|R|Hit By Pitch|F|Changeup|85|3|0|2|11|85
+Daniel Wright|R|Jonathan Lucroy|R|Hit By Pitch|H|Changeup|86|3|1|2|11|78
+Daniel Wright|R|George Springer|R|Single|F|Four-Seam Fastball|0|0|0|0|7|88
+Daniel Wright|R|George Springer|R|Single|B|Four-Seam Fastball|1|0|1|0|12|89
+Daniel Wright|R|George Springer|R|Single|S|Four-Seam Fastball|2|1|1|0|6|88
+Daniel Wright|R|George Springer|R|Single|B|Curveball|3|1|2|0|14|74
+Daniel Wright|R|George Springer|R|Single|F|Four-Seam Fastball|4|2|2|0|6|89
+Daniel Wright|R|George Springer|R|Single|F|Four-Seam Fastball|5|2|2|0|14|90
+Daniel Wright|R|George Springer|R|Single|B|Changeup|6|2|2|0|14|83
+Daniel Wright|R|George Springer|R|Single|F|Changeup|7|3|2|0|11|84
+Daniel Wright|R|George Springer|R|Single|D|Four-Seam Fastball|8|3|2|0|4|90
+Daniel Wright|R|Yuli Gurriel|R|Grounded Into DP|C|Slider|9|0|0|0|8|83
+Daniel Wright|R|Yuli Gurriel|R|Grounded Into DP|X|Four-Seam Fastball|10|0|1|0|12|87
+Daniel Wright|R|Jose Altuve|R|Single|B|Four-Seam Fastball|11|0|0|2|14|89
+Daniel Wright|R|Jose Altuve|R|Single|F|Slider|12|1|0|2|14|82
+Daniel Wright|R|Jose Altuve|R|Single|L|Four-Seam Fastball|13|1|1|2|12|88
+Daniel Wright|R|Jose Altuve|R|Single|D|Four-Seam Fastball|14|1|2|2|5|89
+Daniel Wright|R|Carlos Correa|R|Single|C|Four-Seam Fastball|15|0|0|2|12|89
+Daniel Wright|R|Carlos Correa|R|Single|S|Four-Seam Fastball|16|0|1|2|6|89
+Daniel Wright|R|Carlos Correa|R|Single|B|Curveball|17|0|2|2|14|74
+Daniel Wright|R|Carlos Correa|R|Single|B|Slider|18|1|2|2|14|81
+Daniel Wright|R|Carlos Correa|R|Single|B|Curveball|19|2|2|2|11|73
+Daniel Wright|R|Carlos Correa|R|Single|E|Slider|20|3|2|2|8|81
+Daniel Wright|R|Evan Gattis|R|Home Run|E|Four-Seam Fastball|21|0|0|0|12|87
+Daniel Wright|R|Marwin Gonzalez|L|Strikeout|C|Four-Seam Fastball|22|0|0|0|7|88
+Daniel Wright|R|Marwin Gonzalez|L|Strikeout|B|Changeup|23|0|1|0|13|83
+Daniel Wright|R|Marwin Gonzalez|L|Strikeout|F|Changeup|24|1|1|0|4|82
+Daniel Wright|R|Marwin Gonzalez|L|Strikeout|B|Changeup|25|1|2|0|13|84
+Daniel Wright|R|Marwin Gonzalez|L|Strikeout|W|Curveball|26|2|2|0|13|76
+Daniel Wright|R|Tyler White|R|Strikeout|C|Slider|27|0|0|1|12|80
+Daniel Wright|R|Tyler White|R|Strikeout|B|Curveball|28|0|1|1|14|73
+Daniel Wright|R|Tyler White|R|Strikeout|C|Slider|29|1|1|1|6|80
+Daniel Wright|R|Tyler White|R|Strikeout|S|Changeup|30|1|2|1|12|82
+Daniel Wright|R|Tony Kemp|L|Single|D|Two-Seam Fastball|31|0|0|2|5|87
+Daniel Wright|R|Jake Marisnick|R|Strikeout|C|Four-Seam Fastball|32|0|0|2|12|88
+Daniel Wright|R|Jake Marisnick|R|Strikeout|S|Slider|33|0|1|2|5|82
+Daniel Wright|R|Jake Marisnick|R|Strikeout|B|Changeup|34|0|2|2|14|83
+Daniel Wright|R|Jake Marisnick|R|Strikeout|C|Changeup|35|1|2|2|14|83
+Daniel Wright|R|George Springer|R|Walk|B|Slider|36|0|0|0|14|82
+Daniel Wright|R|George Springer|R|Walk|B|Changeup|37|1|0|0|11|81
+Daniel Wright|R|George Springer|R|Walk|S|Changeup|38|2|0|0|1|82
+Daniel Wright|R|George Springer|R|Walk|B|Four-Seam Fastball|39|2|1|0|12|87
+Daniel Wright|R|George Springer|R|Walk|F|Four-Seam Fastball|40|3|1|0|5|88
+Daniel Wright|R|George Springer|R|Walk|F|Four-Seam Fastball|41|3|2|0|12|89
+Daniel Wright|R|George Springer|R|Walk|B|Changeup|42|3|2|0|14|83
+Daniel Wright|R|Yuli Gurriel|R|Double Play|L|Changeup|43|0|0|0|4|82
+Daniel Wright|R|Yuli Gurriel|R|Double Play|F|Slider|44|0|1|0|5|82
+Daniel Wright|R|Yuli Gurriel|R|Double Play|B|Changeup|45|0|2|0|14|82
+Daniel Wright|R|Yuli Gurriel|R|Double Play|F|Four-Seam Fastball|46|1|2|0|5|89
+Daniel Wright|R|Yuli Gurriel|R|Double Play|X|Curveball|47|1|2|0|14|72
+Daniel Wright|R|Jose Altuve|R|Flyout|B|Curveball|48|0|0|2|12|72
+Daniel Wright|R|Jose Altuve|R|Flyout|C|Slider|49|1|0|2|6|80
+Daniel Wright|R|Jose Altuve|R|Flyout|B|Changeup|50|1|1|2|14|83
+Daniel Wright|R|Jose Altuve|R|Flyout|X|Slider|51|2|1|2|12|79
+Daniel Wright|R|Carlos Correa|R|Groundout|L|Slider|52|0|0|0|8|80
+Daniel Wright|R|Carlos Correa|R|Groundout|C|Curveball|53|0|1|0|9|73
+Daniel Wright|R|Carlos Correa|R|Groundout|X|Four-Seam Fastball|54|0|2|0|12|88
+Daniel Wright|R|Evan Gattis|R|Lineout|B|Changeup|55|0|0|1|14|83
+Daniel Wright|R|Evan Gattis|R|Lineout|C|Slider|56|1|0|1|2|80
+Daniel Wright|R|Evan Gattis|R|Lineout|B|Curveball|57|1|1|1|14|73
+Daniel Wright|R|Evan Gattis|R|Lineout|X|Slider|58|2|1|1|9|81
+Daniel Wright|R|Marwin Gonzalez|L|Walk|B|Two-Seam Fastball|59|0|0|2|11|87
+Daniel Wright|R|Marwin Gonzalez|L|Walk|B|Changeup|60|1|0|2|13|82
+Daniel Wright|R|Marwin Gonzalez|L|Walk|B|Two-Seam Fastball|61|2|0|2|13|88
+Daniel Wright|R|Marwin Gonzalez|L|Walk|B|Four-Seam Fastball|62|3|0|2|14|87
+Daniel Wright|R|Tyler White|R|Flyout|C|Slider|63|0|0|2|14|81
+Daniel Wright|R|Tyler White|R|Flyout|S|Changeup|64|0|1|2|5|82
+Daniel Wright|R|Tyler White|R|Flyout|X|Curveball|65|0|2|2|8|74
+Daniel Wright|R|Tony Kemp|L|Home Run|B|Changeup|66|0|0|0|14|81
+Daniel Wright|R|Tony Kemp|L|Home Run|E|Changeup|67|1|0|0|2|81
+Daniel Wright|R|Jake Marisnick|R|Flyout|F|Slider|68|0|0|0|3|82
+Daniel Wright|R|Jake Marisnick|R|Flyout|B|Curveball|69|0|1|0|14|73
+Daniel Wright|R|Jake Marisnick|R|Flyout|B|Four-Seam Fastball|70|1|1|0|12|88
+Daniel Wright|R|Jake Marisnick|R|Flyout|X|Slider|71|2|1|0|6|80
+Daniel Wright|R|George Springer|R|Single|D|Curveball|72|0|0|1|14|72
+Daniel Wright|R|Yuli Gurriel|R|Double Play|B|Four-Seam Fastball|73|0|0|1|14|88
+Daniel Wright|R|Yuli Gurriel|R|Double Play|X|Four-Seam Fastball|74|1|0|1|14|87
+Daniel Wright|R|Jose Altuve|R|Groundout|B|Slider|75|0|0|0|14|81
+Daniel Wright|R|Jose Altuve|R|Groundout|F|Two-Seam Fastball|76|1|0|0|5|87
+Daniel Wright|R|Jose Altuve|R|Groundout|F|Curveball|77|1|1|0|14|73
+Daniel Wright|R|Jose Altuve|R|Groundout|F|Slider|78|1|2|0|14|82
+Daniel Wright|R|Jose Altuve|R|Groundout|X|Slider|79|1|2|0|3|79
+Daniel Wright|R|Carlos Correa|R|Groundout|B|Four-Seam Fastball|80|0|0|1|14|88
+Daniel Wright|R|Carlos Correa|R|Groundout|C|Four-Seam Fastball|81|1|0|1|12|88
+Daniel Wright|R|Carlos Correa|R|Groundout|F|Two-Seam Fastball|82|1|1|1|4|87
+Daniel Wright|R|Carlos Correa|R|Groundout|B|Slider|83|1|2|1|14|80
+Daniel Wright|R|Carlos Correa|R|Groundout|B|Four-Seam Fastball|84|2|2|1|14|89
+Daniel Wright|R|Carlos Correa|R|Groundout|X|Four-Seam Fastball|85|3|2|1|4|89
+Daniel Wright|R|Evan Gattis|R|Strikeout|F|Slider|86|0|0|2|14|81
+Daniel Wright|R|Evan Gattis|R|Strikeout|C|Curveball|87|0|1|2|7|73
+Daniel Wright|R|Evan Gattis|R|Strikeout|F|Curveball|88|0|2|2|8|74
+Daniel Wright|R|Evan Gattis|R|Strikeout|S|Slider|89|0|2|2|14|80
+Daniel Wright|R|George Springer|R|Flyout|B|Four-Seam Fastball|0|0|0|0|14|89
+Daniel Wright|R|George Springer|R|Flyout|B|Four-Seam Fastball|1|1|0|0|14|89
+Daniel Wright|R|George Springer|R|Flyout|S|Four-Seam Fastball|2|2|0|0|6|90
+Daniel Wright|R|George Springer|R|Flyout|B|Four-Seam Fastball|3|2|1|0|14|90
+Daniel Wright|R|George Springer|R|Flyout|X|Four-Seam Fastball|4|3|1|0|4|90
+Daniel Wright|R|Marwin Gonzalez|L|Pop Out|F|Two-Seam Fastball|5|0|0|1|7|91
+Daniel Wright|R|Marwin Gonzalez|L|Pop Out|F|Four-Seam Fastball|6|0|1|1|5|90
+Daniel Wright|R|Marwin Gonzalez|L|Pop Out|X|Four-Seam Fastball|7|0|2|1|3|91
+Daniel Wright|R|Jose Altuve|R|Flyout|B|Four-Seam Fastball|8|0|0|2|11|90
+Daniel Wright|R|Jose Altuve|R|Flyout|X|Four-Seam Fastball|9|1|0|2|2|90
+Daniel Wright|R|Carlos Correa|R|Single|S|Slider|10|0|0|0|14|80
+Daniel Wright|R|Carlos Correa|R|Single|S|Four-Seam Fastball|11|0|1|0|3|89
+Daniel Wright|R|Carlos Correa|R|Single|B|Four-Seam Fastball|12|0|2|0|12|91
+Daniel Wright|R|Carlos Correa|R|Single|B|Four-Seam Fastball|13|1|2|0|14|89
+Daniel Wright|R|Carlos Correa|R|Single|B|Curveball|14|2|2|0|12|74
+Daniel Wright|R|Carlos Correa|R|Single|D|Four-Seam Fastball|15|3|2|0|12|90
+Daniel Wright|R|Yuli Gurriel|R|Groundout|B|Slider|16|0|0|0|14|81
+Daniel Wright|R|Yuli Gurriel|R|Groundout|F|Changeup|17|1|0|0|14|83
+Daniel Wright|R|Yuli Gurriel|R|Groundout|C|Slider|18|1|1|0|14|82
+Daniel Wright|R|Yuli Gurriel|R|Groundout|*B|Curveball|19|1|2|0|14|74
+Daniel Wright|R|Yuli Gurriel|R|Groundout|X|Four-Seam Fastball|20|2|2|0|14|89
+Daniel Wright|R|AJ Reed|L|Groundout|F|Four-Seam Fastball|21|0|0|1|6|89
+Daniel Wright|R|AJ Reed|L|Groundout|C|Two-Seam Fastball|22|0|1|1|4|90
+Daniel Wright|R|AJ Reed|L|Groundout|B|Curveball|23|0|2|1|13|75
+Daniel Wright|R|AJ Reed|L|Groundout|X|Changeup|24|1|2|1|2|82
+Daniel Wright|R|Teoscar Hernandez|R|Double|*B|Slider|25|0|0|2|14|83
+Daniel Wright|R|Teoscar Hernandez|R|Double|F|Changeup|26|1|0|2|9|82
+Daniel Wright|R|Teoscar Hernandez|R|Double|S|Four-Seam Fastball|27|1|1|2|12|90
+Daniel Wright|R|Teoscar Hernandez|R|Double|B|Curveball|28|1|2|2|14|74
+Daniel Wright|R|Teoscar Hernandez|R|Double|B|Slider|29|2|2|2|12|81
+Daniel Wright|R|Teoscar Hernandez|R|Double|E|Changeup|30|3|2|2|5|82
+Daniel Wright|R|Jason Castro|L|Groundout|F|Four-Seam Fastball|31|0|0|2|14|89
+Daniel Wright|R|Jason Castro|L|Groundout|X|Four-Seam Fastball|32|0|1|2|13|89
+Daniel Wright|R|Jake Marisnick|R|Lineout|C|Four-Seam Fastball|33|0|0|0|6|88
+Daniel Wright|R|Jake Marisnick|R|Lineout|X|Two-Seam Fastball|34|0|1|0|11|87
+Daniel Wright|R|George Springer|R|Groundout|B|Slider|35|0|0|1|14|81
+Daniel Wright|R|George Springer|R|Groundout|C|Changeup|36|1|0|1|1|83
+Daniel Wright|R|George Springer|R|Groundout|S|Four-Seam Fastball|37|1|1|1|3|88
+Daniel Wright|R|George Springer|R|Groundout|B|Curveball|38|1|2|1|14|74
+Daniel Wright|R|George Springer|R|Groundout|X|Slider|39|2|2|1|8|80
+Daniel Wright|R|Marwin Gonzalez|L|Single|C|Four-Seam Fastball|40|0|0|2|3|90
+Daniel Wright|R|Marwin Gonzalez|L|Single|B|Slider|41|0|1|2|14|81
+Daniel Wright|R|Marwin Gonzalez|L|Single|D|Changeup|42|1|1|2|13|82
+Daniel Wright|R|Jose Altuve|R|Single|*B|Four-Seam Fastball|43|0|0|2|14|89
+Daniel Wright|R|Jose Altuve|R|Single|D|Slider|44|1|0|2|5|82
+Daniel Wright|R|Carlos Correa|R|Strikeout|B|Four-Seam Fastball|45|0|0|2|14|90
+Daniel Wright|R|Carlos Correa|R|Strikeout|C|Four-Seam Fastball|46|1|0|2|11|89
+Daniel Wright|R|Carlos Correa|R|Strikeout|C|Four-Seam Fastball|47|1|1|2|12|89
+Daniel Wright|R|Carlos Correa|R|Strikeout|F|Four-Seam Fastball|48|1|2|2|14|89
+Daniel Wright|R|Carlos Correa|R|Strikeout|B|Two-Seam Fastball|49|1|2|2|12|90
+Daniel Wright|R|Carlos Correa|R|Strikeout|B|Four-Seam Fastball|50|2|2|2|14|90
+Daniel Wright|R|Carlos Correa|R|Strikeout|F|Changeup|51|3|2|2|14|83
+Daniel Wright|R|Carlos Correa|R|Strikeout|C|Four-Seam Fastball|52|3|2|2|9|90
+Daniel Wright|R|Yuli Gurriel|R|Hit By Pitch|S|Changeup|53|0|0|0|9|83
+Daniel Wright|R|Yuli Gurriel|R|Hit By Pitch|H|Two-Seam Fastball|54|0|1|0|11|87
+Daniel Wright|R|AJ Reed|L|Strikeout|C|Two-Seam Fastball|55|0|0|0|8|89
+Daniel Wright|R|AJ Reed|L|Strikeout|F|Changeup|56|0|1|0|11|82
+Daniel Wright|R|AJ Reed|L|Strikeout|F|Curveball|57|0|2|0|7|74
+Daniel Wright|R|AJ Reed|L|Strikeout|B|Four-Seam Fastball|58|0|2|0|11|89
+Daniel Wright|R|AJ Reed|L|Strikeout|S|Changeup|59|1|2|0|7|82
+Daniel Wright|R|Teoscar Hernandez|R|Grounded Into DP|F|Slider|60|0|0|1|5|82
+Daniel Wright|R|Teoscar Hernandez|R|Grounded Into DP|B|Two-Seam Fastball|61|0|1|1|11|89
+Daniel Wright|R|Teoscar Hernandez|R|Grounded Into DP|B|Four-Seam Fastball|62|1|1|1|14|90
+Daniel Wright|R|Teoscar Hernandez|R|Grounded Into DP|X|Four-Seam Fastball|63|2|1|1|3|88
+Daniel Wright|R|Jason Castro|L|Single|B|Curveball|64|0|0|0|14|73
+Daniel Wright|R|Jason Castro|L|Single|B|Changeup|65|1|0|0|14|83
+Daniel Wright|R|Jason Castro|L|Single|D|Two-Seam Fastball|66|2|0|0|5|88
+Daniel Wright|R|Jake Marisnick|R|Strikeout|B|Slider|67|0|0|0|14|82
+Daniel Wright|R|Jake Marisnick|R|Strikeout|B|Four-Seam Fastball|68|1|0|0|14|88
+Daniel Wright|R|Jake Marisnick|R|Strikeout|F|Four-Seam Fastball|69|2|0|0|1|87
+Daniel Wright|R|Jake Marisnick|R|Strikeout|F|Changeup|70|2|1|0|5|83
+Daniel Wright|R|Jake Marisnick|R|Strikeout|S|Four-Seam Fastball|71|2|2|0|12|88
+Daniel Wright|R|George Springer|R|Strikeout|C|Two-Seam Fastball|72|0|0|1|14|87
+Daniel Wright|R|George Springer|R|Strikeout|C|Four-Seam Fastball|73|0|1|1|12|87
+Daniel Wright|R|George Springer|R|Strikeout|B|Two-Seam Fastball|74|0|2|1|12|88
+Daniel Wright|R|George Springer|R|Strikeout|S|Slider|75|1|2|1|14|81
+Daniel Wright|R|Marwin Gonzalez|L|Groundout|B|Curveball|76|0|0|2|14|73
+Daniel Wright|R|Marwin Gonzalez|L|Groundout|*B|Changeup|77|1|0|2|14|82
+Daniel Wright|R|Marwin Gonzalez|L|Groundout|X|Four-Seam Fastball|78|2|0|2|7|88
+Daniel Wright|R|Jose Altuve|R|Flyout|C|Four-Seam Fastball|79|0|0|0|12|86
+Daniel Wright|R|Jose Altuve|R|Flyout|B|Two-Seam Fastball|80|0|1|0|14|87
+Daniel Wright|R|Jose Altuve|R|Flyout|F|Four-Seam Fastball|81|1|1|0|9|87
+Daniel Wright|R|Jose Altuve|R|Flyout|B|Two-Seam Fastball|82|1|2|0|12|87
+Daniel Wright|R|Jose Altuve|R|Flyout|X|Slider|83|2|2|0|12|79
+Daniel Wright|R|Carlos Correa|R|Groundout|C|Changeup|84|0|0|1|12|80
+Daniel Wright|R|Carlos Correa|R|Groundout|X|Curveball|85|0|1|1|14|72
+Daniel Wright|R|Yuli Gurriel|R|Single|B|Four-Seam Fastball|86|0|0|2|14|88
+Daniel Wright|R|Yuli Gurriel|R|Single|B|Changeup|87|1|0|2|14|82
+Daniel Wright|R|Yuli Gurriel|R|Single|C|Four-Seam Fastball|88|2|0|2|8|87
+Daniel Wright|R|Yuli Gurriel|R|Single|D|Changeup|89|2|1|2|4|85
+Daniel Wright|R|AJ Reed|L|Strikeout|S|Changeup|90|0|0|2|8|80
+Daniel Wright|R|AJ Reed|L|Strikeout|B|Two-Seam Fastball|91|0|1|2|13|86
+Daniel Wright|R|AJ Reed|L|Strikeout|S|Changeup|92|1|1|2|13|80
+Daniel Wright|R|AJ Reed|L|Strikeout|B|Changeup|93|1|2|2|14|80
+Daniel Wright|R|AJ Reed|L|Strikeout|S|Changeup|94|2|2|2|8|79
+Daniel Wright|R|Elvis Andrus|R|Double|C|Slider|0|0|0|0|1|81
+Daniel Wright|R|Elvis Andrus|R|Double|B|Slider|1|0|1|0|14|81
+Daniel Wright|R|Elvis Andrus|R|Double|F|Sinker|2|1|1|0|13|90
+Daniel Wright|R|Elvis Andrus|R|Double|D|Curveball|3|1|2|0|13|75
+Daniel Wright|R|Joey Gallo|L|Walk|B|Changeup|4|0|0|0|14|86
+Daniel Wright|R|Joey Gallo|L|Walk|W|Curveball|5|1|0|0|14|75
+Daniel Wright|R|Joey Gallo|L|Walk|B|Sinker|6|1|1|0|13|92
+Daniel Wright|R|Joey Gallo|L|Walk|B|Changeup|7|2|1|0|13|85
+Daniel Wright|R|Joey Gallo|L|Walk|T|Sinker|8|3|1|0|8|92
+Daniel Wright|R|Joey Gallo|L|Walk|B|Sinker|9|3|2|0|11|92
+Daniel Wright|R|Robinson Chirinos|R|Single|F|Four-Seam Fastball|10|0|0|0|6|90
+Daniel Wright|R|Robinson Chirinos|R|Single|C|Four-Seam Fastball|11|0|1|0|12|91
+Daniel Wright|R|Robinson Chirinos|R|Single|F|Curveball|12|0|2|0|5|76
+Daniel Wright|R|Robinson Chirinos|R|Single|B|Curveball|13|0|2|0|14|76
+Daniel Wright|R|Robinson Chirinos|R|Single|*B|Slider|14|1|2|0|14|82
+Daniel Wright|R|Robinson Chirinos|R|Single|E|Four-Seam Fastball|15|2|2|0|6|92
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Changeup|16|0|0|0|13|84
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Sinker|17|1|0|0|11|91
+Daniel Wright|R|Jurickson Profar|L|Walk|S|Changeup|18|2|0|0|5|85
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Four-Seam Fastball|19|2|1|0|11|91
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Changeup|20|3|1|0|11|84
+Daniel Wright|R|Carlos Gomez|R|Flyout|B|Four-Seam Fastball|21|0|0|0|12|91
+Daniel Wright|R|Carlos Gomez|R|Flyout|X|Four-Seam Fastball|22|1|0|0|3|90
+Daniel Wright|R|Shin-Soo Choo|L|Single|C|Sinker|23|0|0|1|13|90
+Daniel Wright|R|Shin-Soo Choo|L|Single|B|Sinker|24|0|1|1|11|91
+Daniel Wright|R|Shin-Soo Choo|L|Single|E|Changeup|25|1|1|1|13|84
+Daniel Wright|R|Nomar Mazara|L|Pop Out|X|Four-Seam Fastball|26|0|0|1|12|90
+Daniel Wright|R|Mike Napoli|R|Groundout|C|Four-Seam Fastball|27|0|0|2|3|91
+Daniel Wright|R|Mike Napoli|R|Groundout|C|Changeup|28|0|1|2|14|85
+Daniel Wright|R|Mike Napoli|R|Groundout|X|Four-Seam Fastball|29|0|2|2|6|91
+Daniel Wright|R|Rougned Odor|L|Flyout|X|Changeup|30|0|0|0|4|82
+Daniel Wright|R|Elvis Andrus|R|Flyout|X|Four-Seam Fastball|31|0|0|1|6|89
+Daniel Wright|R|Joey Gallo|L|Flyout|C|Sinker|32|0|0|2|1|89
+Daniel Wright|R|Joey Gallo|L|Flyout|B|Sinker|33|0|1|2|13|90
+Daniel Wright|R|Joey Gallo|L|Flyout|T|Changeup|34|1|1|2|13|83
+Daniel Wright|R|Joey Gallo|L|Flyout|X|Sinker|35|1|2|2|9|89
+Daniel Wright|R|Robinson Chirinos|R|Field Error|B|Four-Seam Fastball|36|0|0|0|12|89
+Daniel Wright|R|Robinson Chirinos|R|Field Error|C|Sinker|37|1|0|0|12|88
+Daniel Wright|R|Robinson Chirinos|R|Field Error|S|Changeup|38|1|1|0|9|83
+Daniel Wright|R|Robinson Chirinos|R|Field Error|D|Sinker|39|1|2|0|6|90
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Changeup|40|0|0|0|11|83
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Sinker|41|1|0|0|13|89
+Daniel Wright|R|Jurickson Profar|L|Walk|C|Sinker|42|2|0|0|5|88
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Changeup|43|2|1|0|13|83
+Daniel Wright|R|Jurickson Profar|L|Walk|B|Changeup|44|3|1|0|11|83
+Daniel Wright|R|Carlos Gomez|R|Flyout|X|Four-Seam Fastball|45|0|0|0|6|90
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|C|Changeup|46|0|0|1|11|83
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|B|Four-Seam Fastball|47|0|1|1|14|89
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|B|Sinker|48|1|1|1|11|90
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|B|Sinker|49|2|1|1|14|88
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|C|Four-Seam Fastball|50|3|1|1|11|90
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|F|Changeup|51|3|2|1|4|83
+Daniel Wright|R|Shin-Soo Choo|L|Grounded Into DP|X|Four-Seam Fastball|52|3|2|1|6|90
+Daniel Wright|R|Nomar Mazara|L|Flyout|B|Curveball|53|0|0|0|14|73
+Daniel Wright|R|Nomar Mazara|L|Flyout|B|Changeup|54|1|0|0|13|83
+Daniel Wright|R|Nomar Mazara|L|Flyout|S|Changeup|55|2|0|0|13|82
+Daniel Wright|R|Nomar Mazara|L|Flyout|S|Four-Seam Fastball|56|2|1|0|1|90
+Daniel Wright|R|Nomar Mazara|L|Flyout|F|Curveball|57|2|2|0|8|75
+Daniel Wright|R|Nomar Mazara|L|Flyout|B|Slider|58|2|2|0|14|82
+Daniel Wright|R|Nomar Mazara|L|Flyout|F|Four-Seam Fastball|59|3|2|0|9|90
+Daniel Wright|R|Nomar Mazara|L|Flyout|X|Changeup|60|3|2|0|8|83
+Daniel Wright|R|Mike Napoli|R|Flyout|X|Slider|61|0|0|1|9|80
+Daniel Wright|R|Rougned Odor|L|Groundout|C|Sinker|62|0|0|2|7|90
+Daniel Wright|R|Rougned Odor|L|Groundout|B|Four-Seam Fastball|63|0|1|2|11|90
+Daniel Wright|R|Rougned Odor|L|Groundout|X|Four-Seam Fastball|64|1|1|2|5|89
+Daniel Wright|R|Kevin Pillar|R|Pop Out|B|Slider|0|0|0|0|14|81
+Daniel Wright|R|Kevin Pillar|R|Pop Out|F|Sinker|1|1|0|0|5|90
+Daniel Wright|R|Kevin Pillar|R|Pop Out|X|Sinker|2|1|1|0|4|91
+Daniel Wright|R|Ezequiel Carrera|L|Single|B|Four-Seam Fastball|3|0|0|1|14|91
+Daniel Wright|R|Ezequiel Carrera|L|Single|S|Sinker|4|1|0|1|11|90
+Daniel Wright|R|Ezequiel Carrera|L|Single|M|Changeup|5|1|1|1|4|84
+Daniel Wright|R|Ezequiel Carrera|L|Single|B|Changeup|6|1|2|1|13|84
+Daniel Wright|R|Ezequiel Carrera|L|Single|D|Sinker|7|2|2|1|13|92
+Daniel Wright|R|Jose Bautista|R|Single|B|Four-Seam Fastball|8|0|0|1|12|91
+Daniel Wright|R|Jose Bautista|R|Single|C|Sinker|9|1|0|1|13|91
+Daniel Wright|R|Jose Bautista|R|Single|X|Slider|10|1|1|1|14|82
+Daniel Wright|R|Kendrys Morales|L|Strikeout|S|Curveball|11|0|0|2|8|74
+Daniel Wright|R|Kendrys Morales|L|Strikeout|B|Sinker|12|0|1|2|13|91
+Daniel Wright|R|Kendrys Morales|L|Strikeout|C|Changeup|13|1|1|2|9|84
+Daniel Wright|R|Kendrys Morales|L|Strikeout|*B|Curveball|14|1|2|2|14|76
+Daniel Wright|R|Kendrys Morales|L|Strikeout|S|Curveball|15|2|2|2|8|75
+Daniel Wright|R|Justin Smoak|L|Flyout|C|Sinker|16|0|0|0|9|88
+Daniel Wright|R|Justin Smoak|L|Flyout|B|Curveball|17|0|1|0|13|74
+Daniel Wright|R|Justin Smoak|L|Flyout|B|Curveball|18|1|1|0|14|74
+Daniel Wright|R|Justin Smoak|L|Flyout|F|Changeup|19|2|1|0|13|82
+Daniel Wright|R|Justin Smoak|L|Flyout|X|Changeup|20|2|2|0|11|82
+Daniel Wright|R|Russell Martin|R|Groundout|B|Four-Seam Fastball|21|0|0|1|12|90
+Daniel Wright|R|Russell Martin|R|Groundout|C|Slider|22|1|0|1|14|80
+Daniel Wright|R|Russell Martin|R|Groundout|C|Slider|23|1|1|1|5|80
+Daniel Wright|R|Russell Martin|R|Groundout|F|Four-Seam Fastball|24|1|2|1|3|90
+Daniel Wright|R|Russell Martin|R|Groundout|B|Curveball|25|1|2|1|13|74
+Daniel Wright|R|Russell Martin|R|Groundout|X|Changeup|26|2|2|1|3|84
+Daniel Wright|R|Chris Coghlan|L|Strikeout|B|Sinker|27|0|0|2|14|90
+Daniel Wright|R|Chris Coghlan|L|Strikeout|B|Sinker|28|1|0|2|11|88
+Daniel Wright|R|Chris Coghlan|L|Strikeout|S|Changeup|29|2|0|2|13|83
+Daniel Wright|R|Chris Coghlan|L|Strikeout|C|Four-Seam Fastball|30|2|1|2|14|89
+Daniel Wright|R|Chris Coghlan|L|Strikeout|S|Changeup|31|2|2|2|11|84
+Daniel Wright|R|Devon Travis|R|Flyout|C|Slider|32|0|0|0|6|81
+Daniel Wright|R|Devon Travis|R|Flyout|B|Four-Seam Fastball|33|0|1|0|14|89
+Daniel Wright|R|Devon Travis|R|Flyout|X|Sinker|34|1|1|0|4|89
+Daniel Wright|R|Ryan Goins|L|Groundout|B|Sinker|35|0|0|1|11|89
+Daniel Wright|R|Ryan Goins|L|Groundout|B|Changeup|36|1|0|1|11|83
+Daniel Wright|R|Ryan Goins|L|Groundout|C|Sinker|37|2|0|1|7|88
+Daniel Wright|R|Ryan Goins|L|Groundout|B|Sinker|38|2|1|1|11|89
+Daniel Wright|R|Ryan Goins|L|Groundout|X|Sinker|39|3|1|1|13|87
+Daniel Wright|R|Kevin Pillar|R|Walk|B|Four-Seam Fastball|40|0|0|2|12|88
+Daniel Wright|R|Kevin Pillar|R|Walk|B|Slider|41|1|0|2|11|79
+Daniel Wright|R|Kevin Pillar|R|Walk|B|Sinker|42|2|0|2|14|89
+Daniel Wright|R|Kevin Pillar|R|Walk|B|Sinker|43|3|0|2|11|88
+Daniel Wright|R|Ezequiel Carrera|L|Pickoff Caught Stealing 2B|B|Sinker|44|0|0|2|13|88
+Daniel Wright|R|Ezequiel Carrera|L|Pickoff Caught Stealing 2B|B|Changeup|45|1|0|2|13|83
+Daniel Wright|R|Ezequiel Carrera|L|Pickoff Caught Stealing 2B|B|Sinker|46|2|0|2|11|87
+Daniel Wright|R|Ezequiel Carrera|L|Pickoff Caught Stealing 2B|C|Four-Seam Fastball|47|3|0|2|8|88
+Daniel Wright|R|Ezequiel Carrera|L|Walk|C|Four-Seam Fastball|48|0|0|0|5|89
+Daniel Wright|R|Ezequiel Carrera|L|Walk|B|Curveball|49|0|1|0|14|71
+Daniel Wright|R|Ezequiel Carrera|L|Walk|B|Changeup|50|1|1|0|11|82
+Daniel Wright|R|Ezequiel Carrera|L|Walk|B|Sinker|51|2|1|0|14|89
+Daniel Wright|R|Ezequiel Carrera|L|Walk|C|Sinker|52|3|1|0|8|88
+Daniel Wright|R|Ezequiel Carrera|L|Walk|B|Changeup|53|3|2|0|13|82
+Daniel Wright|R|Jose Bautista|R|Groundout|S|Slider|54|0|0|0|8|80
+Daniel Wright|R|Jose Bautista|R|Groundout|X|Four-Seam Fastball|55|0|1|0|2|90
+Daniel Wright|R|Kendrys Morales|L|Groundout|C|Curveball|56|0|0|1|4|74
+Daniel Wright|R|Kendrys Morales|L|Groundout|B|Changeup|57|0|1|1|13|83
+Daniel Wright|R|Kendrys Morales|L|Groundout|X|Changeup|58|1|1|1|4|83
+Daniel Wright|R|Justin Smoak|L|Single|C|Curveball|59|0|0|2|7|74
+Daniel Wright|R|Justin Smoak|L|Single|B|Curveball|60|0|1|2|14|73
+Daniel Wright|R|Justin Smoak|L|Single|B|Changeup|61|1|1|2|13|82
+Daniel Wright|R|Justin Smoak|L|Single|D|Sinker|62|2|1|2|13|89
+Daniel Wright|R|Russell Martin|R|Strikeout|S|Slider|63|0|0|2|1|79
+Daniel Wright|R|Russell Martin|R|Strikeout|*B|Slider|64|0|1|2|14|79
+Daniel Wright|R|Russell Martin|R|Strikeout|F|Sinker|65|1|1|2|5|89
+Daniel Wright|R|Russell Martin|R|Strikeout|S|Curveball|66|1|2|2|8|75
+Daniel Wright|R|Chris Coghlan|L|Groundout|C|Four-Seam Fastball|67|0|0|0|13|89
+Daniel Wright|R|Chris Coghlan|L|Groundout|S|Curveball|68|0|1|0|13|74
+Daniel Wright|R|Chris Coghlan|L|Groundout|*B|Curveball|69|0|2|0|13|74
+Daniel Wright|R|Chris Coghlan|L|Groundout|F|Changeup|70|1|2|0|4|82
+Daniel Wright|R|Chris Coghlan|L|Groundout|F|Changeup|71|1|2|0|11|82
+Daniel Wright|R|Chris Coghlan|L|Groundout|B|Four-Seam Fastball|72|1|2|0|11|89
+Daniel Wright|R|Chris Coghlan|L|Groundout|*B|Curveball|73|2|2|0|13|74
+Daniel Wright|R|Chris Coghlan|L|Groundout|X|Changeup|74|3|2|0|13|83
+Daniel Wright|R|Devon Travis|R|Groundout|B|Slider|75|0|0|1|14|79
+Daniel Wright|R|Devon Travis|R|Groundout|*B|Slider|76|1|0|1|14|79
+Daniel Wright|R|Devon Travis|R|Groundout|B|Four-Seam Fastball|77|2|0|1|11|89
+Daniel Wright|R|Devon Travis|R|Groundout|C|Sinker|78|3|0|1|4|88
+Daniel Wright|R|Devon Travis|R|Groundout|X|Slider|79|3|1|1|11|79
+Daniel Wright|R|Danny Valencia|R|Single|B|Four-Seam Fastball|0|0|0|0|14|92
+Daniel Wright|R|Danny Valencia|R|Single|D|Four-Seam Fastball|1|1|0|0|1|92
+Daniel Wright|R|Guillermo Heredia|R|Strikeout|C|Slider|2|0|0|0|9|83
+Daniel Wright|R|Guillermo Heredia|R|Strikeout|F|Sinker|3|0|1|0|8|91
+Daniel Wright|R|Guillermo Heredia|R|Strikeout|S|Slider|4|0|2|0|14|82
+Daniel Wright|R|Mike Zunino|R|Strikeout|C|Four-Seam Fastball|5|0|0|1|6|92
+Daniel Wright|R|Mike Zunino|R|Strikeout|B|Four-Seam Fastball|6|0|1|1|14|92
+Daniel Wright|R|Mike Zunino|R|Strikeout|F|Sinker|7|1|1|1|4|92
+Daniel Wright|R|Mike Zunino|R|Strikeout|B|Slider|8|1|2|1|14|83
+Daniel Wright|R|Mike Zunino|R|Strikeout|S|Four-Seam Fastball|9|2|2|1|2|93
+Daniel Wright|R|Jarrod Dyson|L|Groundout|B|Curveball|10|0|0|2|11|75
+Daniel Wright|R|Jarrod Dyson|L|Groundout|X|Four-Seam Fastball|11|1|0|2|11|92
+Daniel Wright|R|Jean Segura|R|Single|F|Slider|12|0|0|0|14|81
+Daniel Wright|R|Jean Segura|R|Single|F|Sinker|13|0|1|0|6|90
+Daniel Wright|R|Jean Segura|R|Single|D|Slider|14|0|2|0|14|82
+Daniel Wright|R|Ben Gamel|L|Single|D|Four-Seam Fastball|15|0|0|0|2|91
+Daniel Wright|R|Robinson Cano|L|Grounded Into DP|E|Changeup|16|0|0|0|11|84
+Daniel Wright|R|Nelson Cruz|R|Strikeout|B|Slider|17|0|0|2|11|83
+Daniel Wright|R|Nelson Cruz|R|Strikeout|B|Slider|18|1|0|2|14|81
+Daniel Wright|R|Nelson Cruz|R|Strikeout|S|Slider|19|2|0|2|14|83
+Daniel Wright|R|Nelson Cruz|R|Strikeout|C|Slider|20|2|1|2|3|82
+Daniel Wright|R|Nelson Cruz|R|Strikeout|C|Four-Seam Fastball|21|2|2|2|14|91
+Daniel Wright|R|Kyle Seager|L|Flyout|B|Changeup|22|0|0|0|13|84
+Daniel Wright|R|Kyle Seager|L|Flyout|X|Changeup|23|1|0|0|7|84
+Daniel Wright|R|Danny Valencia|R|Home Run|C|Four-Seam Fastball|24|0|0|1|3|90
+Daniel Wright|R|Danny Valencia|R|Home Run|B|Changeup|25|0|1|1|14|85
+Daniel Wright|R|Danny Valencia|R|Home Run|E|Slider|26|1|1|1|7|82
+Daniel Wright|R|Guillermo Heredia|R|Single|B|Four-Seam Fastball|27|0|0|1|12|90
+Daniel Wright|R|Guillermo Heredia|R|Single|F|Slider|28|1|0|1|12|82
+Daniel Wright|R|Guillermo Heredia|R|Single|B|Sinker|29|1|1|1|11|89
+Daniel Wright|R|Guillermo Heredia|R|Single|D|Slider|30|2|1|1|1|82
+Daniel Wright|R|Mike Zunino|R|Grounded Into DP|F|Four-Seam Fastball|31|0|0|1|3|90
+Daniel Wright|R|Mike Zunino|R|Grounded Into DP|X|Curveball|32|0|1|1|9|74
+Daniel Wright|R|Jarrod Dyson|L|Hit By Pitch|B|Curveball|33|0|0|0|11|72
+Daniel Wright|R|Jarrod Dyson|L|Hit By Pitch|S|Changeup|34|1|0|0|8|82
+Daniel Wright|R|Jarrod Dyson|L|Hit By Pitch|B|Changeup|35|1|1|0|13|83
+Daniel Wright|R|Jarrod Dyson|L|Hit By Pitch|H|Four-Seam Fastball|36|2|1|0|14|87
+Daniel Wright|R|Jean Segura|R|Walk|B|Sinker|37|0|0|0|11|89
+Daniel Wright|R|Jean Segura|R|Walk|F|Curveball|38|1|0|0|1|73
+Daniel Wright|R|Jean Segura|R|Walk|B|Changeup|39|1|1|0|14|82
+Daniel Wright|R|Jean Segura|R|Walk|B|Four-Seam Fastball|40|2|1|0|11|89
+Daniel Wright|R|Jean Segura|R|Walk|B|Four-Seam Fastball|41|3|1|0|11|88
+Daniel Wright|R|Ben Gamel|L|Single|B|Four-Seam Fastball|42|0|0|0|11|88
+Daniel Wright|R|Ben Gamel|L|Single|B|Changeup|43|1|0|0|13|83
+Daniel Wright|R|Ben Gamel|L|Single|E|Changeup|44|2|0|0|6|84
+Daniel Wright|R|Robinson Cano|L|Strikeout|B|Changeup|45|0|0|0|11|83
+Daniel Wright|R|Robinson Cano|L|Strikeout|C|Curveball|46|1|0|0|9|74
+Daniel Wright|R|Robinson Cano|L|Strikeout|F|Curveball|47|1|1|0|14|74
+Daniel Wright|R|Robinson Cano|L|Strikeout|B|Curveball|48|1|2|0|11|75
+Daniel Wright|R|Robinson Cano|L|Strikeout|F|Four-Seam Fastball|49|2|2|0|3|88
+Daniel Wright|R|Robinson Cano|L|Strikeout|F|Four-Seam Fastball|50|2|2|0|1|88
+Daniel Wright|R|Robinson Cano|L|Strikeout|S|Changeup|51|2|2|0|13|83
+Daniel Wright|R|Nelson Cruz|R|Lineout|B|Curveball|52|0|0|1|11|73
+Daniel Wright|R|Nelson Cruz|R|Lineout|B|Four-Seam Fastball|53|1|0|1|12|90
+Daniel Wright|R|Nelson Cruz|R|Lineout|X|Slider|54|2|0|1|9|79
+Daniel Wright|R|Kyle Seager|L|Single|C|Changeup|55|0|0|2|13|83
+Daniel Wright|R|Kyle Seager|L|Single|B|Changeup|56|0|1|2|13|84
+Daniel Wright|R|Kyle Seager|L|Single|*B|Changeup|57|1|1|2|13|83
+Daniel Wright|R|Kyle Seager|L|Single|E|Four-Seam Fastball|58|2|1|2|3|88
+Daniel Wright|R|Danny Valencia|R|Single|B|Sinker|59|0|0|2|12|88
+Daniel Wright|R|Danny Valencia|R|Single|C|Curveball|60|1|0|2|14|74
+Daniel Wright|R|Danny Valencia|R|Single|E|Sinker|61|1|1|2|11|87
+Daniel Wright|R|Guillermo Heredia|R|Flyout|C|Curveball|62|0|0|2|4|72
+Daniel Wright|R|Guillermo Heredia|R|Flyout|X|Curveball|63|0|1|2|7|73
+Daniel Wright|R|Corey Dickerson|L|Field Error|B|Sinker|0|0|0|0|11|90
+Daniel Wright|R|Corey Dickerson|L|Field Error|T|Sinker|1|1|0|0|7|90
+Daniel Wright|R|Corey Dickerson|L|Field Error|B|Changeup|2|1|1|0|11|84
+Daniel Wright|R|Corey Dickerson|L|Field Error|D|Sinker|3|2|1|0|13|91
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|S|Sinker|4|0|0|0|11|91
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|B|Sinker|5|0|1|0|11|91
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|C|Sinker|6|1|1|0|8|91
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|F|Curveball|7|1|2|0|14|76
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|B|Sinker|8|1|2|0|11|90
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|F|Curveball|9|2|2|0|14|76
+Daniel Wright|R|Kevin Kiermaier|L|Strikeout|S|Changeup|10|2|2|0|13|84
+Daniel Wright|R|Evan Longoria|R|Single|B|Sinker|11|0|0|1|11|91
+Daniel Wright|R|Evan Longoria|R|Single|B|Slider|12|1|0|1|14|87
+Daniel Wright|R|Evan Longoria|R|Single|D|Four-Seam Fastball|13|2|0|1|9|90
+Daniel Wright|R|Logan Morrison|L|Strikeout|C|Sinker|14|0|0|1|13|90
+Daniel Wright|R|Logan Morrison|L|Strikeout|B|Sinker|15|0|1|1|11|90
+Daniel Wright|R|Logan Morrison|L|Strikeout|B|Changeup|16|1|1|1|13|84
+Daniel Wright|R|Logan Morrison|L|Strikeout|F|Sinker|17|2|1|1|13|90
+Daniel Wright|R|Logan Morrison|L|Strikeout|B|Curveball|18|2|2|1|14|76
+Daniel Wright|R|Logan Morrison|L|Strikeout|S|Sinker|19|3|2|1|13|88
+Daniel Wright|R|Steven Souza Jr.|R|Hit By Pitch|T|Slider|20|0|0|2|6|86
+Daniel Wright|R|Steven Souza Jr.|R|Hit By Pitch|H|Four-Seam Fastball|21|0|1|2|11|89
+Daniel Wright|R|Colby Rasmus|L|Single|B|Sinker|22|0|0|2|11|90
+Daniel Wright|R|Colby Rasmus|L|Single|B|Sinker|23|1|0|2|11|88
+Daniel Wright|R|Colby Rasmus|L|Single|E|Sinker|24|2|0|2|13|89
+Daniel Wright|R|Daniel Robertson|R|Strikeout|C|Sinker|25|0|0|2|6|90
+Daniel Wright|R|Daniel Robertson|R|Strikeout|C|Curveball|26|0|1|2|5|74
+Daniel Wright|R|Daniel Robertson|R|Strikeout|B|Curveball|27|0|2|2|11|74
+Daniel Wright|R|Daniel Robertson|R|Strikeout|C|Slider|28|1|2|2|9|84
+Daniel Wright|R|Michael Martinez|L|Strikeout|C|Sinker|29|0|0|0|6|89
+Daniel Wright|R|Michael Martinez|L|Strikeout|F|Curveball|30|0|1|0|14|74
+Daniel Wright|R|Michael Martinez|L|Strikeout|W|Curveball|31|0|2|0|13|74
+Daniel Wright|R|Jesus Sucre|R|Lineout|C|Sinker|32|0|0|1|9|89
+Daniel Wright|R|Jesus Sucre|R|Lineout|C|Slider|33|0|1|1|14|84
+Daniel Wright|R|Jesus Sucre|R|Lineout|B|Curveball|34|0|2|1|13|73
+Daniel Wright|R|Jesus Sucre|R|Lineout|X|Curveball|35|1|2|1|14|75
+Daniel Wright|R|Corey Dickerson|L|Lineout|X|Curveball|36|0|0|2|7|73
+Daniel Wright|R|Kevin Kiermaier|L|Single|C|Sinker|37|0|0|0|11|89
+Daniel Wright|R|Kevin Kiermaier|L|Single|B|Curveball|38|0|1|0|14|74
+Daniel Wright|R|Kevin Kiermaier|L|Single|B|Changeup|39|1|1|0|14|83
+Daniel Wright|R|Kevin Kiermaier|L|Single|D|Sinker|40|2|1|0|14|89
+Daniel Wright|R|Evan Longoria|R|Pop Out|C|Four-Seam Fastball|41|0|0|0|6|88
+Daniel Wright|R|Evan Longoria|R|Pop Out|S|Slider|42|0|1|0|11|83
+Daniel Wright|R|Evan Longoria|R|Pop Out|F|Sinker|43|0|2|0|1|90
+Daniel Wright|R|Evan Longoria|R|Pop Out|X|Slider|44|0|2|0|4|82
+Daniel Wright|R|Logan Morrison|L|Flyout|X|Sinker|45|0|0|1|7|89
+Daniel Wright|R|Steven Souza Jr.|R|Caught Stealing 2B|P|Pitchout|46|0|0|2|12|83
+Daniel Wright|R|Steven Souza Jr.|R|Single|D|Curveball|47|0|0|0|9|72
+Daniel Wright|R|Colby Rasmus|L|Flyout|C|Four-Seam Fastball|48|0|0|0|7|88
+Daniel Wright|R|Colby Rasmus|L|Flyout|B|Curveball|49|0|1|0|11|73
+Daniel Wright|R|Colby Rasmus|L|Flyout|B|Changeup|50|1|1|0|14|83
+Daniel Wright|R|Colby Rasmus|L|Flyout|B|Sinker|51|2|1|0|11|89
+Daniel Wright|R|Colby Rasmus|L|Flyout|X|Sinker|52|3|1|0|5|87
+Daniel Wright|R|Daniel Robertson|R|Single|D|Slider|53|0|0|1|14|83
+Daniel Wright|R|Michael Martinez|L|Lineout|B|Changeup|54|0|0|1|11|82
+Daniel Wright|R|Michael Martinez|L|Lineout|S|Curveball|55|1|0|1|13|73
+Daniel Wright|R|Michael Martinez|L|Lineout|B|Curveball|56|1|1|1|13|73
+Daniel Wright|R|Michael Martinez|L|Lineout|X|Sinker|57|2|1|1|4|89
+Daniel Wright|R|Jesus Sucre|R|Pop Out|B|Sinker|58|0|0|2|11|90
+Daniel Wright|R|Jesus Sucre|R|Pop Out|B|Sinker|59|1|0|2|14|88
+Daniel Wright|R|Jesus Sucre|R|Pop Out|X|Slider|60|2|0|2|9|82
+Daniel Wright|R|Corey Dickerson|L|Double|B|Sinker|61|0|0|0|13|89
+Daniel Wright|R|Corey Dickerson|L|Double|B|Changeup|62|1|0|0|13|82
+Daniel Wright|R|Corey Dickerson|L|Double|B|Four-Seam Fastball|63|2|0|0|11|90
+Daniel Wright|R|Corey Dickerson|L|Double|C|Sinker|64|3|0|0|1|86
+Daniel Wright|R|Corey Dickerson|L|Double|D|Sinker|65|3|1|0|6|87
+Daniel Wright|R|Kevin Kiermaier|L|Sac Bunt|L|Sinker|66|0|0|0|11|86
+Daniel Wright|R|Kevin Kiermaier|L|Sac Bunt|X|Sinker|67|0|1|0|8|88
+Daniel Wright|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|68|0|0|1|11|88
+Daniel Wright|R|Evan Longoria|R|Walk|F|Curveball|69|1|0|1|13|74
+Daniel Wright|R|Evan Longoria|R|Walk|B|Four-Seam Fastball|70|1|1|1|11|88
+Daniel Wright|R|Evan Longoria|R|Walk|B|Sinker|71|2|1|1|14|89
+Daniel Wright|R|Evan Longoria|R|Walk|*B|Slider|72|3|1|1|14|83
+Daniel Wright|R|Whit Merrifield|R|Groundout|B|Slider|0|0|0|2|14|84
+Daniel Wright|R|Whit Merrifield|R|Groundout|X|Slider|1|1|0|2|12|85
+Daniel Wright|R|Jorge Bonifacio|R|Lineout|X|Four-Seam Fastball|2|0|0|0|8|89
+Daniel Wright|R|Lorenzo Cain|R|Lineout|F|Four-Seam Fastball|3|0|0|1|9|90
+Daniel Wright|R|Lorenzo Cain|R|Lineout|X|Slider|4|0|1|1|3|84
+Daniel Wright|R|Eric Hosmer|L|Walk|B|Sinker|5|0|0|2|11|90
+Daniel Wright|R|Eric Hosmer|L|Walk|B|Curveball|6|1|0|2|14|74
+Daniel Wright|R|Eric Hosmer|L|Walk|C|Changeup|7|2|0|2|8|83
+Daniel Wright|R|Eric Hosmer|L|Walk|B|Changeup|8|2|1|2|13|85
+Daniel Wright|R|Eric Hosmer|L|Walk|F|Sinker|9|3|1|2|1|89
+Daniel Wright|R|Eric Hosmer|L|Walk|*B|Changeup|10|3|2|2|13|84
+Daniel Wright|R|Salvador Perez|R|Flyout|C|Slider|11|0|0|2|2|84
+Daniel Wright|R|Salvador Perez|R|Flyout|B|Slider|12|0|1|2|14|83
+Daniel Wright|R|Salvador Perez|R|Flyout|B|Four-Seam Fastball|13|1|1|2|14|89
+Daniel Wright|R|Salvador Perez|R|Flyout|F|Changeup|14|2|1|2|5|84
+Daniel Wright|R|Salvador Perez|R|Flyout|F|Sinker|15|2|2|2|6|90
+Daniel Wright|R|Salvador Perez|R|Flyout|F|Curveball|16|2|2|2|14|75
+Daniel Wright|R|Salvador Perez|R|Flyout|X|Four-Seam Fastball|17|2|2|2|14|90
+Daniel Wright|R|Mike Moustakas|L|Single|B|Curveball|18|0|0|0|14|74
+Daniel Wright|R|Mike Moustakas|L|Single|F|Changeup|19|1|0|0|14|84
+Daniel Wright|R|Mike Moustakas|L|Single|D|Four-Seam Fastball|20|1|1|0|3|90
+Daniel Wright|R|Alcides Escobar|R|Pop Out|B|Slider|21|0|0|0|12|84
+Daniel Wright|R|Alcides Escobar|R|Pop Out|X|Slider|22|1|0|0|7|84
+Daniel Wright|R|Brandon Moss|L|Lineout|B|Curveball|23|0|0|1|14|74
+Daniel Wright|R|Brandon Moss|L|Lineout|B|Changeup|24|1|0|1|11|83
+Daniel Wright|R|Brandon Moss|L|Lineout|C|Sinker|25|2|0|1|13|89
+Daniel Wright|R|Brandon Moss|L|Lineout|X|Changeup|26|2|1|1|8|83
+Daniel Wright|R|Alex Gordon|L|Lineout|F|Sinker|27|0|0|2|12|89
+Daniel Wright|R|Alex Gordon|L|Lineout|S|Curveball|28|0|1|2|11|75
+Daniel Wright|R|Alex Gordon|L|Lineout|*B|Curveball|29|0|2|2|13|74
+Daniel Wright|R|Alex Gordon|L|Lineout|B|Four-Seam Fastball|30|1|2|2|14|89
+Daniel Wright|R|Alex Gordon|L|Lineout|X|Curveball|31|2|2|2|13|75

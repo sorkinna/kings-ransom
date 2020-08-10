@@ -1,0 +1,2484 @@
+Adrian Sampson|R|Ramon Laureano|R|Home Run|C|Sinker|0|0|0|0|9|91
+Adrian Sampson|R|Ramon Laureano|R|Home Run|E|Sinker|1|0|1|0|12|91
+Adrian Sampson|R|Matt Chapman|R|Strikeout|F|Sinker|2|0|0|0|5|91
+Adrian Sampson|R|Matt Chapman|R|Strikeout|B|Sinker|3|0|1|0|13|91
+Adrian Sampson|R|Matt Chapman|R|Strikeout|F|Slider|4|1|1|0|6|88
+Adrian Sampson|R|Matt Chapman|R|Strikeout|B|Sinker|5|1|2|0|13|91
+Adrian Sampson|R|Matt Chapman|R|Strikeout|F|Curveball|6|2|2|0|7|83
+Adrian Sampson|R|Matt Chapman|R|Strikeout|W|Slider|7|2|2|0|14|86
+Adrian Sampson|R|Jed Lowrie|L|Field Error|B|Sinker|8|0|0|1|13|91
+Adrian Sampson|R|Jed Lowrie|L|Field Error|D|Changeup|9|1|0|1|14|86
+Adrian Sampson|R|Khris Davis|R|Single|F|Sinker|10|0|0|1|4|90
+Adrian Sampson|R|Khris Davis|R|Single|S|Slider|11|0|1|1|5|85
+Adrian Sampson|R|Khris Davis|R|Single|F|Sinker|12|0|2|1|11|92
+Adrian Sampson|R|Khris Davis|R|Single|D|Curveball|13|0|2|1|6|83
+Adrian Sampson|R|Matt Olson|L|Single|B|Sinker|14|0|0|1|11|92
+Adrian Sampson|R|Matt Olson|L|Single|S|Slider|15|1|0|1|14|84
+Adrian Sampson|R|Matt Olson|L|Single|E|Slider|16|1|1|1|14|87
+Adrian Sampson|R|Stephen Piscotty|R|Single|B|Slider|17|0|0|1|14|87
+Adrian Sampson|R|Stephen Piscotty|R|Single|*B|Slider|18|1|0|1|14|89
+Adrian Sampson|R|Stephen Piscotty|R|Single|C|Sinker|19|2|0|1|5|92
+Adrian Sampson|R|Stephen Piscotty|R|Single|E|Sinker|20|2|1|1|8|92
+Adrian Sampson|R|Kole Calhoun|L|Lineout|B|Sinker|0|0|0|0|13|90
+Adrian Sampson|R|Kole Calhoun|L|Lineout|B|Sinker|1|1|0|0|14|91
+Adrian Sampson|R|Kole Calhoun|L|Lineout|X|Sinker|2|2|0|0|4|91
+Adrian Sampson|R|David Fletcher|R|Groundout|C|Sinker|3|0|0|1|5|91
+Adrian Sampson|R|David Fletcher|R|Groundout|C|Sinker|4|0|1|1|9|90
+Adrian Sampson|R|David Fletcher|R|Groundout|B|Slider|5|0|2|1|14|88
+Adrian Sampson|R|David Fletcher|R|Groundout|B|Slider|6|1|2|1|14|89
+Adrian Sampson|R|David Fletcher|R|Groundout|B|Sinker|7|2|2|1|13|92
+Adrian Sampson|R|David Fletcher|R|Groundout|X|Sinker|8|3|2|1|5|91
+Adrian Sampson|R|Mike Trout|R|Single|F|Sinker|9|0|0|2|1|92
+Adrian Sampson|R|Mike Trout|R|Single|F|Sinker|10|0|1|2|11|91
+Adrian Sampson|R|Mike Trout|R|Single|B|Changeup|11|0|2|2|14|86
+Adrian Sampson|R|Mike Trout|R|Single|B|Curveball|12|1|2|2|14|82
+Adrian Sampson|R|Mike Trout|R|Single|B|Sinker|13|2|2|2|11|92
+Adrian Sampson|R|Mike Trout|R|Single|D|Sinker|14|3|2|2|9|92
+Adrian Sampson|R|Shohei Ohtani|L|Groundout|F|Sinker|15|0|0|2|14|91
+Adrian Sampson|R|Shohei Ohtani|L|Groundout|X|Sinker|16|0|1|2|14|92
+Adrian Sampson|R|Justin Upton|R|Walk|B|Sinker|17|0|0|0|11|90
+Adrian Sampson|R|Justin Upton|R|Walk|B|Sinker|18|1|0|0|14|90
+Adrian Sampson|R|Justin Upton|R|Walk|S|Sinker|19|2|0|0|3|91
+Adrian Sampson|R|Justin Upton|R|Walk|B|Sinker|20|2|1|0|11|91
+Adrian Sampson|R|Justin Upton|R|Walk|F|Sinker|21|3|1|0|4|91
+Adrian Sampson|R|Justin Upton|R|Walk|B|Slider|22|3|2|0|11|84
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|C|Slider|23|0|0|0|2|86
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|B|Slider|24|0|1|0|14|87
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|X|Sinker|25|1|1|0|5|92
+Adrian Sampson|R|Jose Miguel Fernandez|L|Home Run|B|Sinker|26|0|0|1|14|92
+Adrian Sampson|R|Jose Miguel Fernandez|L|Home Run|E|Sinker|27|1|0|1|8|91
+Adrian Sampson|R|Kaleb Cowart|L|Lineout|B|Sinker|28|0|0|1|14|91
+Adrian Sampson|R|Kaleb Cowart|L|Lineout|B|Changeup|29|1|0|1|14|85
+Adrian Sampson|R|Kaleb Cowart|L|Lineout|C|Sinker|30|2|0|1|8|92
+Adrian Sampson|R|Kaleb Cowart|L|Lineout|X|Changeup|31|2|1|1|8|86
+Adrian Sampson|R|Joe Hudson|R|Flyout|C|Sinker|32|0|0|2|6|90
+Adrian Sampson|R|Joe Hudson|R|Flyout|F|Sinker|33|0|1|2|7|91
+Adrian Sampson|R|Joe Hudson|R|Flyout|B|Curveball|34|0|2|2|11|82
+Adrian Sampson|R|Joe Hudson|R|Flyout|F|Changeup|35|1|2|2|8|85
+Adrian Sampson|R|Joe Hudson|R|Flyout|B|Sinker|36|1|2|2|11|92
+Adrian Sampson|R|Joe Hudson|R|Flyout|X|Slider|37|2|2|2|14|86
+Adrian Sampson|R|Kole Calhoun|L|Flyout|B|Curveball|38|0|0|0|11|83
+Adrian Sampson|R|Kole Calhoun|L|Flyout|S|Changeup|39|1|0|0|8|86
+Adrian Sampson|R|Kole Calhoun|L|Flyout|B|Slider|40|1|1|0|14|90
+Adrian Sampson|R|Kole Calhoun|L|Flyout|B|Changeup|41|2|1|0|11|86
+Adrian Sampson|R|Kole Calhoun|L|Flyout|F|Sinker|42|3|1|0|1|92
+Adrian Sampson|R|Kole Calhoun|L|Flyout|X|Sinker|43|3|2|0|11|92
+Adrian Sampson|R|David Fletcher|R|Groundout|C|Sinker|44|0|0|1|11|91
+Adrian Sampson|R|David Fletcher|R|Groundout|X|Slider|45|0|1|1|14|87
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|B|Sinker|46|0|0|2|3|90
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|F|Sinker|47|1|0|2|13|89
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|B|Slider|48|1|1|2|14|87
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|B|Sinker|49|2|1|2|11|90
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|F|Sinker|50|3|1|2|6|90
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|F|Sinker|51|3|2|2|14|91
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|F|Sinker|52|3|2|2|4|92
+Adrian Sampson|R|Mike Trout|R|Hit By Pitch|H|Sinker|53|3|2|2|11|92
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|C|Sinker|54|0|0|2|13|91
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|B|Changeup|55|0|1|2|14|86
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|F|Changeup|56|1|1|2|1|86
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|F|Slider|57|1|2|2|12|87
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|F|Changeup|58|1|2|2|11|87
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|F|Sinker|59|1|2|2|12|92
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|F|Changeup|60|1|2|2|11|86
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|B|Sinker|61|1|2|2|14|92
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|*B|Slider|62|2|2|2|14|88
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|S|Changeup|63|3|2|2|7|86
+Adrian Sampson|R|Justin Upton|R|Groundout|B|Slider|64|0|0|0|14|87
+Adrian Sampson|R|Justin Upton|R|Groundout|F|Sinker|65|1|0|0|3|91
+Adrian Sampson|R|Justin Upton|R|Groundout|X|Sinker|66|1|1|0|7|92
+Adrian Sampson|R|Andrelton Simmons|R|Flyout|B|Slider|67|0|0|1|12|86
+Adrian Sampson|R|Andrelton Simmons|R|Flyout|X|Sinker|68|1|0|1|5|91
+Adrian Sampson|R|Jose Miguel Fernandez|L|Strikeout|B|Curveball|69|0|0|2|11|81
+Adrian Sampson|R|Jose Miguel Fernandez|L|Strikeout|F|Changeup|70|1|0|2|11|85
+Adrian Sampson|R|Jose Miguel Fernandez|L|Strikeout|F|Sinker|71|1|1|2|11|90
+Adrian Sampson|R|Jose Miguel Fernandez|L|Strikeout|B|Slider|72|1|2|2|11|84
+Adrian Sampson|R|Jose Miguel Fernandez|L|Strikeout|S|Changeup|73|2|2|2|4|85
+Adrian Sampson|R|Kaleb Cowart|L|Flyout|B|Sinker|74|0|0|0|11|92
+Adrian Sampson|R|Kaleb Cowart|L|Flyout|X|Changeup|75|1|0|0|4|85
+Adrian Sampson|R|Joe Hudson|R|Groundout|B|Sinker|76|0|0|1|11|90
+Adrian Sampson|R|Joe Hudson|R|Groundout|X|Sinker|77|1|0|1|5|91
+Adrian Sampson|R|Mallex Smith|L|Single|B|Sinker|0|0|0|0|11|91
+Adrian Sampson|R|Mallex Smith|L|Single|D|Sinker|1|1|0|0|7|90
+Adrian Sampson|R|Tommy Pham|R|Single|C|Sinker|2|0|0|0|1|91
+Adrian Sampson|R|Tommy Pham|R|Single|B|Slider|3|0|1|0|12|86
+Adrian Sampson|R|Tommy Pham|R|Single|F|Slider|4|1|1|0|9|89
+Adrian Sampson|R|Tommy Pham|R|Single|B|Sinker|5|1|2|0|11|92
+Adrian Sampson|R|Tommy Pham|R|Single|D|Changeup|6|2|2|0|11|86
+Adrian Sampson|R|Ji-Man Choi|L|Single|*B|Slider|7|0|0|0|14|84
+Adrian Sampson|R|Ji-Man Choi|L|Single|B|Changeup|8|1|0|0|11|84
+Adrian Sampson|R|Ji-Man Choi|L|Single|E|Sinker|9|2|0|0|11|91
+Adrian Sampson|R|Joey Wendle|L|Forceout|S|Slider|10|0|0|0|14|84
+Adrian Sampson|R|Joey Wendle|L|Forceout|X|Slider|11|0|1|0|7|85
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|B|Slider|12|0|0|1|11|83
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|S|Slider|13|1|0|1|9|85
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|B|Sinker|14|1|1|1|14|91
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|B|Changeup|15|2|1|1|13|87
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|S|Changeup|16|3|1|1|7|86
+Adrian Sampson|R|Brandon Lowe|L|Grounded Into DP|X|Sinker|17|3|2|1|4|92
+Adrian Sampson|R|Willy Adames|R|Lineout|B|Sinker|18|0|0|0|14|90
+Adrian Sampson|R|Willy Adames|R|Lineout|C|Sinker|19|1|0|0|14|90
+Adrian Sampson|R|Willy Adames|R|Lineout|X|Sinker|20|1|1|0|11|91
+Adrian Sampson|R|Kevin Kiermaier|L|Groundout|C|Sinker|21|0|0|1|8|91
+Adrian Sampson|R|Kevin Kiermaier|L|Groundout|X|Changeup|22|0|1|1|13|86
+Adrian Sampson|R|Jake Bauers|L|Strikeout|S|Curveball|23|0|0|2|8|82
+Adrian Sampson|R|Jake Bauers|L|Strikeout|B|Slider|24|0|1|2|13|84
+Adrian Sampson|R|Jake Bauers|L|Strikeout|B|Sinker|25|1|1|2|14|91
+Adrian Sampson|R|Jake Bauers|L|Strikeout|B|Changeup|26|2|1|2|13|85
+Adrian Sampson|R|Jake Bauers|L|Strikeout|F|Sinker|27|3|1|2|7|90
+Adrian Sampson|R|Jake Bauers|L|Strikeout|S|Changeup|28|3|2|2|5|84
+Adrian Sampson|R|Nick Ciuffo|L|Flyout|B|Slider|29|0|0|0|13|83
+Adrian Sampson|R|Nick Ciuffo|L|Flyout|B|Sinker|30|1|0|0|11|89
+Adrian Sampson|R|Nick Ciuffo|L|Flyout|X|Sinker|31|2|0|0|1|90
+Adrian Sampson|R|Mallex Smith|L|Single|B|Sinker|32|0|0|1|11|92
+Adrian Sampson|R|Mallex Smith|L|Single|F|Sinker|33|1|0|1|11|90
+Adrian Sampson|R|Mallex Smith|L|Single|B|Slider|34|1|1|1|11|84
+Adrian Sampson|R|Mallex Smith|L|Single|C|Changeup|35|2|1|1|3|86
+Adrian Sampson|R|Mallex Smith|L|Single|D|Changeup|36|2|2|1|7|86
+Adrian Sampson|R|Tommy Pham|R|Grounded Into DP|B|Sinker|37|0|0|1|14|90
+Adrian Sampson|R|Tommy Pham|R|Grounded Into DP|X|Slider|38|1|0|1|5|87
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|B|Curveball|39|0|0|0|13|80
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|F|Sinker|40|1|0|0|2|90
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|F|Sinker|41|1|1|0|4|91
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|F|Slider|42|1|2|0|8|86
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|B|Curveball|43|1|2|0|14|81
+Adrian Sampson|R|Ji-Man Choi|L|Flyout|X|Sinker|44|2|2|0|2|90
+Adrian Sampson|R|Joey Wendle|L|Double|B|Sinker|45|0|0|1|11|91
+Adrian Sampson|R|Joey Wendle|L|Double|D|Changeup|46|1|0|1|8|87
+Adrian Sampson|R|Brandon Lowe|L|Flyout|X|Sinker|47|0|0|1|1|91
+Adrian Sampson|R|Willy Adames|R|Lineout|X|Slider|48|0|0|2|6|87
+Adrian Sampson|R|Kevin Kiermaier|L|Groundout|B|Sinker|49|0|0|0|3|90
+Adrian Sampson|R|Kevin Kiermaier|L|Groundout|F|Changeup|50|1|0|0|9|86
+Adrian Sampson|R|Kevin Kiermaier|L|Groundout|X|Changeup|51|1|1|0|13|87
+Adrian Sampson|R|Jake Bauers|L|Lineout|B|Sinker|52|0|0|1|11|92
+Adrian Sampson|R|Jake Bauers|L|Lineout|F|Sinker|53|1|0|1|2|90
+Adrian Sampson|R|Jake Bauers|L|Lineout|B|Changeup|54|1|1|1|13|86
+Adrian Sampson|R|Jake Bauers|L|Lineout|B|Changeup|55|2|1|1|11|86
+Adrian Sampson|R|Jake Bauers|L|Lineout|X|Sinker|56|3|1|1|1|91
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|B|Curveball|57|0|0|2|13|81
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|F|Sinker|58|1|0|2|1|91
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|B|Slider|59|1|1|2|13|86
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|F|Changeup|60|2|1|2|11|86
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|F|Sinker|61|2|2|2|1|92
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|B|Slider|62|2|2|2|14|89
+Adrian Sampson|R|Nick Ciuffo|L|Groundout|X|Sinker|63|3|2|2|11|91
+Adrian Sampson|R|Mallex Smith|L|Walk|F|Sinker|64|0|0|0|4|90
+Adrian Sampson|R|Mallex Smith|L|Walk|B|Sinker|65|0|1|0|11|90
+Adrian Sampson|R|Mallex Smith|L|Walk|F|Sinker|66|1|1|0|11|91
+Adrian Sampson|R|Mallex Smith|L|Walk|B|Sinker|67|1|2|0|12|90
+Adrian Sampson|R|Mallex Smith|L|Walk|B|Sinker|68|2|2|0|11|91
+Adrian Sampson|R|Mallex Smith|L|Walk|F|Sinker|69|3|2|0|2|91
+Adrian Sampson|R|Mallex Smith|L|Walk|F|Changeup|70|3|2|0|13|87
+Adrian Sampson|R|Mallex Smith|L|Walk|B|Sinker|71|3|2|0|11|91
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|72|0|0|0|12|89
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Slider|73|1|0|0|14|89
+Adrian Sampson|R|Tommy Pham|R|Strikeout|F|Sinker|74|2|0|0|4|91
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|75|2|1|0|13|90
+Adrian Sampson|R|Tommy Pham|R|Strikeout|F|Sinker|76|3|1|0|11|91
+Adrian Sampson|R|Tommy Pham|R|Strikeout|T|Sinker|77|3|2|0|13|92
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|F|Sinker|78|0|0|1|8|92
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|B|Slider|79|0|1|1|11|84
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|B|Sinker|80|1|1|1|11|91
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|S|Changeup|81|2|1|1|11|86
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|B|Sinker|82|2|2|1|11|91
+Adrian Sampson|R|Ji-Man Choi|L|Home Run|E|Sinker|83|3|2|1|5|90
+Adrian Sampson|R|Kole Calhoun|L|Flyout|X|Sinker|0|0|0|0|13|90
+Adrian Sampson|R|Mike Trout|R|Strikeout|C|Sinker|1|0|0|1|5|90
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Sinker|2|0|1|1|11|90
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Sinker|3|1|1|1|11|90
+Adrian Sampson|R|Mike Trout|R|Strikeout|S|Slider|4|2|1|1|13|83
+Adrian Sampson|R|Mike Trout|R|Strikeout|C|Sinker|5|2|2|1|11|90
+Adrian Sampson|R|Shohei Ohtani|L|Home Run|E|Sinker|6|0|0|2|3|90
+Adrian Sampson|R|Jose Miguel Fernandez|L|Flyout|B|Sinker|7|0|0|2|14|92
+Adrian Sampson|R|Jose Miguel Fernandez|L|Flyout|X|Changeup|8|1|0|2|1|85
+Adrian Sampson|R|Jefry Marte|R|Walk|F|Sinker|9|0|0|0|4|90
+Adrian Sampson|R|Jefry Marte|R|Walk|B|Slider|10|0|1|0|14|86
+Adrian Sampson|R|Jefry Marte|R|Walk|B|Sinker|11|1|1|0|14|90
+Adrian Sampson|R|Jefry Marte|R|Walk|B|Sinker|12|2|1|0|13|91
+Adrian Sampson|R|Jefry Marte|R|Walk|F|Sinker|13|3|1|0|1|91
+Adrian Sampson|R|Jefry Marte|R|Walk|B|Slider|14|3|2|0|14|89
+Adrian Sampson|R|Francisco Arcia|L|Pop Out|X|Slider|15|0|0|0|4|83
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|C|Slider|16|0|0|1|6|86
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|S|Slider|17|0|1|1|8|86
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|F|Sinker|18|0|2|1|13|90
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|B|Sinker|19|0|2|1|11|91
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|F|Changeup|20|1|2|1|13|85
+Adrian Sampson|R|Michael Hermosillo|R|Strikeout|S|Slider|21|1|2|1|12|87
+Adrian Sampson|R|Kaleb Cowart|L|Strikeout|B|Sinker|22|0|0|2|11|91
+Adrian Sampson|R|Kaleb Cowart|L|Strikeout|B|Changeup|23|1|0|2|13|85
+Adrian Sampson|R|Kaleb Cowart|L|Strikeout|F|Sinker|24|2|0|2|4|91
+Adrian Sampson|R|Kaleb Cowart|L|Strikeout|F|Changeup|25|2|1|2|7|86
+Adrian Sampson|R|Kaleb Cowart|L|Strikeout|S|Changeup|26|2|2|2|4|86
+Adrian Sampson|R|Taylor Ward|R|Single|B|Sinker|27|0|0|0|13|88
+Adrian Sampson|R|Taylor Ward|R|Single|F|Sinker|28|1|0|0|5|90
+Adrian Sampson|R|Taylor Ward|R|Single|F|Sinker|29|1|1|0|11|90
+Adrian Sampson|R|Taylor Ward|R|Single|B|Slider|30|1|2|0|14|87
+Adrian Sampson|R|Taylor Ward|R|Single|B|Sinker|31|2|2|0|11|90
+Adrian Sampson|R|Taylor Ward|R|Single|F|Sinker|32|3|2|0|11|90
+Adrian Sampson|R|Taylor Ward|R|Single|D|Sinker|33|3|2|0|5|90
+Adrian Sampson|R|Kole Calhoun|L|Walk|B|Changeup|34|0|0|0|11|85
+Adrian Sampson|R|Kole Calhoun|L|Walk|F|Changeup|35|1|0|0|8|85
+Adrian Sampson|R|Kole Calhoun|L|Walk|B|Changeup|36|1|1|0|14|85
+Adrian Sampson|R|Kole Calhoun|L|Walk|B|Sinker|37|2|1|0|11|91
+Adrian Sampson|R|Kole Calhoun|L|Walk|C|Changeup|38|3|1|0|11|86
+Adrian Sampson|R|Kole Calhoun|L|Walk|F|Changeup|39|3|2|0|2|87
+Adrian Sampson|R|Kole Calhoun|L|Walk|B|Sinker|40|3|2|0|12|92
+Adrian Sampson|R|Mike Trout|R|Strikeout|F|Sinker|41|0|0|0|4|91
+Adrian Sampson|R|Mike Trout|R|Strikeout|C|Slider|42|0|1|0|14|88
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Slider|43|0|2|0|14|87
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Sinker|44|1|2|0|12|92
+Adrian Sampson|R|Mike Trout|R|Strikeout|S|Curveball|45|2|2|0|14|81
+Adrian Sampson|R|Shohei Ohtani|L|Double Play|B|Changeup|46|0|0|1|13|85
+Adrian Sampson|R|Shohei Ohtani|L|Double Play|X|Changeup|47|1|0|1|13|86
+Adrian Sampson|R|Jose Miguel Fernandez|L|Pop Out|X|Sinker|48|0|0|0|6|89
+Adrian Sampson|R|Jefry Marte|R|Home Run|B|Sinker|49|0|0|1|14|88
+Adrian Sampson|R|Jefry Marte|R|Home Run|C|Slider|50|1|0|1|14|86
+Adrian Sampson|R|Jefry Marte|R|Home Run|E|Slider|51|1|1|1|8|82
+Adrian Sampson|R|Francisco Arcia|L|Groundout|B|Sinker|52|0|0|1|13|88
+Adrian Sampson|R|Francisco Arcia|L|Groundout|F|Changeup|53|1|0|1|4|84
+Adrian Sampson|R|Francisco Arcia|L|Groundout|B|Sinker|54|1|1|1|14|90
+Adrian Sampson|R|Francisco Arcia|L|Groundout|X|Changeup|55|2|1|1|13|83
+Adrian Sampson|R|Michael Hermosillo|R|Home Run|B|Sinker|56|0|0|2|11|90
+Adrian Sampson|R|Michael Hermosillo|R|Home Run|C|Slider|57|1|0|2|1|86
+Adrian Sampson|R|Michael Hermosillo|R|Home Run|E|Slider|58|1|1|2|2|88
+Adrian Sampson|R|Kaleb Cowart|L|Single|D|Changeup|59|0|0|2|4|85
+Adrian Sampson|R|Taylor Ward|R|Field Error|B|Sinker|60|0|0|2|11|90
+Adrian Sampson|R|Taylor Ward|R|Field Error|F|Sinker|61|1|0|2|5|90
+Adrian Sampson|R|Taylor Ward|R|Field Error|D|Sinker|62|1|1|2|8|91
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|F|Changeup|63|0|0|2|7|85
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|F|Sinker|64|0|1|2|12|90
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|B|Sinker|65|0|2|2|11|90
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|W|Changeup|66|1|2|2|13|83
+Adrian Sampson|R|Mike Trout|R|Pop Out|X|Sinker|67|0|0|0|1|89
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|C|Changeup|68|0|0|1|1|85
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|S|Sinker|69|0|1|1|6|90
+Adrian Sampson|R|Shohei Ohtani|L|Strikeout|S|Slider|70|0|2|1|3|86
+Adrian Sampson|R|Jose Miguel Fernandez|L|Pop Out|B|Sinker|71|0|0|2|12|92
+Adrian Sampson|R|Jose Miguel Fernandez|L|Pop Out|X|Sinker|72|1|0|2|2|91
+Adrian Sampson|R|Jefry Marte|R|Hit By Pitch|F|Sinker|73|0|0|0|1|90
+Adrian Sampson|R|Jefry Marte|R|Hit By Pitch|B|Sinker|74|0|1|0|11|90
+Adrian Sampson|R|Jefry Marte|R|Hit By Pitch|C|Changeup|75|1|1|0|14|84
+Adrian Sampson|R|Jefry Marte|R|Hit By Pitch|F|Sinker|76|1|2|0|11|90
+Adrian Sampson|R|Jefry Marte|R|Hit By Pitch|H|Changeup|77|1|2|0|11|85
+Adrian Sampson|R|Francisco Arcia|L|Groundout|B|Changeup|78|0|0|0|14|85
+Adrian Sampson|R|Francisco Arcia|L|Groundout|B|Changeup|79|1|0|0|11|86
+Adrian Sampson|R|Francisco Arcia|L|Groundout|F|Sinker|80|2|0|0|4|90
+Adrian Sampson|R|Francisco Arcia|L|Groundout|X|Sinker|81|2|1|0|11|90
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|C|Sinker|0|0|0|0|8|89
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|F|Sinker|1|0|1|0|11|90
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|B|Slider|2|0|2|0|14|84
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|F|Sinker|3|1|2|0|12|90
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|S|Changeup|4|1|2|0|9|86
+Adrian Sampson|R|Jean Segura|R|Single|D|Sinker|5|0|0|1|7|91
+Adrian Sampson|R|Robinson Cano|L|Strikeout|C|Sinker|6|0|0|1|13|91
+Adrian Sampson|R|Robinson Cano|L|Strikeout|F|Changeup|7|0|1|1|13|87
+Adrian Sampson|R|Robinson Cano|L|Strikeout|S|Sinker|8|0|2|1|11|90
+Adrian Sampson|R|Nelson Cruz|R|Flyout|X|Sinker|9|0|0|2|3|90
+Adrian Sampson|R|Denard Span|L|Bunt Groundout|X|Sinker|10|0|0|0|13|88
+Adrian Sampson|R|Kyle Seager|L|Strikeout|B|Sinker|11|0|0|1|11|90
+Adrian Sampson|R|Kyle Seager|L|Strikeout|C|Sinker|12|1|0|1|11|90
+Adrian Sampson|R|Kyle Seager|L|Strikeout|F|Changeup|13|1|1|1|4|85
+Adrian Sampson|R|Kyle Seager|L|Strikeout|C|Sinker|14|1|2|1|11|90
+Adrian Sampson|R|Daniel Vogelbach|L|Lineout|X|Sinker|15|0|0|2|13|91
+Adrian Sampson|R|Mike Zunino|R|Single|S|Sinker|16|0|0|0|11|90
+Adrian Sampson|R|Mike Zunino|R|Single|B|Sinker|17|0|1|0|11|90
+Adrian Sampson|R|Mike Zunino|R|Single|F|Sinker|18|1|1|0|8|90
+Adrian Sampson|R|Mike Zunino|R|Single|B|Sinker|19|1|2|0|12|89
+Adrian Sampson|R|Mike Zunino|R|Single|D|Sinker|20|2|2|0|11|91
+Adrian Sampson|R|Dee Gordon|L|Flyout|B|Sinker|21|0|0|0|14|90
+Adrian Sampson|R|Dee Gordon|L|Flyout|X|Sinker|22|1|0|0|14|89
+Adrian Sampson|R|Mitch Haniger|R|Single|B|Slider|23|0|0|1|14|88
+Adrian Sampson|R|Mitch Haniger|R|Single|D|Sinker|24|1|0|1|1|91
+Adrian Sampson|R|Jean Segura|R|Single|F|Sinker|25|0|0|1|13|91
+Adrian Sampson|R|Jean Segura|R|Single|D|Curveball|26|0|1|1|14|82
+Adrian Sampson|R|Robinson Cano|L|Grounded Into DP|B|Changeup|27|0|0|1|11|85
+Adrian Sampson|R|Robinson Cano|L|Grounded Into DP|X|Changeup|28|1|0|1|13|87
+Adrian Sampson|R|Nelson Cruz|R|Groundout|B|Sinker|29|0|0|0|13|90
+Adrian Sampson|R|Nelson Cruz|R|Groundout|X|Sinker|30|1|0|0|13|88
+Adrian Sampson|R|Denard Span|L|Strikeout|B|Sinker|31|0|0|1|11|91
+Adrian Sampson|R|Denard Span|L|Strikeout|C|Changeup|32|1|0|1|11|85
+Adrian Sampson|R|Denard Span|L|Strikeout|F|Changeup|33|1|1|1|11|85
+Adrian Sampson|R|Denard Span|L|Strikeout|F|Sinker|34|1|2|1|12|90
+Adrian Sampson|R|Denard Span|L|Strikeout|S|Slider|35|1|2|1|1|86
+Adrian Sampson|R|Kyle Seager|L|Pop Out|F|Changeup|36|0|0|2|13|85
+Adrian Sampson|R|Kyle Seager|L|Pop Out|S|Changeup|37|0|1|2|13|86
+Adrian Sampson|R|Kyle Seager|L|Pop Out|F|Changeup|38|0|2|2|13|87
+Adrian Sampson|R|Kyle Seager|L|Pop Out|X|Sinker|39|0|2|2|11|91
+Adrian Sampson|R|Daniel Vogelbach|L|Single|D|Sinker|40|0|0|0|11|90
+Adrian Sampson|R|Mike Zunino|R|Flyout|X|Sinker|41|0|0|0|11|88
+Adrian Sampson|R|Dee Gordon|L|Field Error|C|Sinker|42|0|0|1|13|90
+Adrian Sampson|R|Dee Gordon|L|Field Error|D|Sinker|43|0|1|1|3|90
+Adrian Sampson|R|Mitch Haniger|R|Sac Fly|E|Sinker|44|0|0|1|11|91
+Adrian Sampson|R|Jean Segura|R|Flyout|X|Sinker|45|0|0|2|11|91
+Adrian Sampson|R|Robinson Cano|L|Lineout|B|Sinker|46|0|0|0|11|89
+Adrian Sampson|R|Robinson Cano|L|Lineout|C|Changeup|47|1|0|0|11|85
+Adrian Sampson|R|Robinson Cano|L|Lineout|B|Changeup|48|1|1|0|11|85
+Adrian Sampson|R|Robinson Cano|L|Lineout|F|Sinker|49|2|1|0|12|91
+Adrian Sampson|R|Robinson Cano|L|Lineout|X|Sinker|50|2|2|0|2|91
+Adrian Sampson|R|Nelson Cruz|R|Flyout|X|Sinker|51|0|0|1|5|91
+Adrian Sampson|R|Denard Span|L|Lineout|C|Changeup|52|0|0|2|13|87
+Adrian Sampson|R|Denard Span|L|Lineout|B|Changeup|53|0|1|2|13|86
+Adrian Sampson|R|Denard Span|L|Lineout|X|Changeup|54|1|1|2|13|86
+Adrian Sampson|R|Kyle Seager|L|Double|B|Sinker|55|0|0|0|11|91
+Adrian Sampson|R|Kyle Seager|L|Double|B|Sinker|56|1|0|0|12|90
+Adrian Sampson|R|Kyle Seager|L|Double|C|Changeup|57|2|0|0|11|85
+Adrian Sampson|R|Kyle Seager|L|Double|B|Changeup|58|2|1|0|11|85
+Adrian Sampson|R|Kyle Seager|L|Double|F|Sinker|59|3|1|0|4|91
+Adrian Sampson|R|Kyle Seager|L|Double|D|Changeup|60|3|2|0|11|86
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|B|Changeup|61|0|0|0|11|85
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|X|Changeup|62|1|0|0|4|85
+Adrian Sampson|R|Mike Zunino|R|Flyout|B|Sinker|63|0|0|1|11|90
+Adrian Sampson|R|Mike Zunino|R|Flyout|F|Sinker|64|1|0|1|7|90
+Adrian Sampson|R|Mike Zunino|R|Flyout|S|Sinker|65|1|1|1|3|91
+Adrian Sampson|R|Mike Zunino|R|Flyout|B|Sinker|66|1|2|1|11|91
+Adrian Sampson|R|Mike Zunino|R|Flyout|F|Slider|67|2|2|1|9|84
+Adrian Sampson|R|Mike Zunino|R|Flyout|B|Sinker|68|2|2|1|12|92
+Adrian Sampson|R|Mike Zunino|R|Flyout|X|Changeup|69|3|2|1|4|87
+Adrian Sampson|R|Dee Gordon|L|Triple|F|Sinker|70|0|0|2|6|91
+Adrian Sampson|R|Dee Gordon|L|Triple|F|Sinker|71|0|1|2|11|91
+Adrian Sampson|R|Dee Gordon|L|Triple|F|Sinker|72|0|2|2|11|92
+Adrian Sampson|R|Dee Gordon|L|Triple|E|Sinker|73|0|2|2|12|91
+Adrian Sampson|R|Jonathan Lucroy|R|Groundout|B|Sinker|0|0|0|0|1|93
+Adrian Sampson|R|Jonathan Lucroy|R|Groundout|B|Sinker|1|1|0|0|14|94
+Adrian Sampson|R|Jonathan Lucroy|R|Groundout|C|Sinker|2|2|0|0|9|94
+Adrian Sampson|R|Jonathan Lucroy|R|Groundout|X|Sinker|3|2|1|0|8|94
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|S|Sinker|4|0|0|1|11|93
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|B|Sinker|5|0|1|1|12|94
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|B|Changeup|6|1|1|1|11|87
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|F|Sinker|7|2|1|1|11|93
+Adrian Sampson|R|Kole Calhoun|L|Strikeout|S|Slider|8|2|2|1|13|88
+Adrian Sampson|R|Kevan Smith|R|Groundout|S|Slider|9|0|0|2|14|86
+Adrian Sampson|R|Kevan Smith|R|Groundout|B|Slider|10|0|1|2|14|86
+Adrian Sampson|R|Kevan Smith|R|Groundout|B|Sinker|11|1|1|2|13|94
+Adrian Sampson|R|Kevan Smith|R|Groundout|B|Sinker|12|2|1|2|14|94
+Adrian Sampson|R|Kevan Smith|R|Groundout|X|Sinker|13|3|1|2|5|94
+Adrian Sampson|R|Peter Bourjos|R|Flyout|F|Sinker|14|0|0|0|2|93
+Adrian Sampson|R|Peter Bourjos|R|Flyout|B|Sinker|15|0|1|0|11|92
+Adrian Sampson|R|Peter Bourjos|R|Flyout|B|Slider|16|1|1|0|11|82
+Adrian Sampson|R|Peter Bourjos|R|Flyout|X|Sinker|17|2|1|0|4|93
+Adrian Sampson|R|Tommy La Stella|L|Flyout|C|Sinker|18|0|0|1|7|93
+Adrian Sampson|R|Tommy La Stella|L|Flyout|B|Sinker|19|0|1|1|1|93
+Adrian Sampson|R|Tommy La Stella|L|Flyout|C|Sinker|20|1|1|1|4|93
+Adrian Sampson|R|Tommy La Stella|L|Flyout|F|Slider|21|1|2|1|13|83
+Adrian Sampson|R|Tommy La Stella|L|Flyout|F|Sinker|22|1|2|1|12|93
+Adrian Sampson|R|Tommy La Stella|L|Flyout|F|Changeup|23|1|2|1|13|88
+Adrian Sampson|R|Tommy La Stella|L|Flyout|F|Sinker|24|1|2|1|3|94
+Adrian Sampson|R|Tommy La Stella|L|Flyout|X|Slider|25|1|2|1|8|85
+Adrian Sampson|R|David Fletcher|R|Double|C|Sinker|26|0|0|2|5|94
+Adrian Sampson|R|David Fletcher|R|Double|B|Slider|27|0|1|2|14|87
+Adrian Sampson|R|David Fletcher|R|Double|B|Slider|28|1|1|2|14|81
+Adrian Sampson|R|David Fletcher|R|Double|D|Sinker|29|2|1|2|2|93
+Adrian Sampson|R|Mike Trout|R|Intent Walk|V|N/A|30|0|0|2|0|0
+Adrian Sampson|R|Mike Trout|R|Intent Walk|V|N/A|31|0|1|2|0|0
+Adrian Sampson|R|Mike Trout|R|Intent Walk|V|N/A|32|0|2|2|0|0
+Adrian Sampson|R|Mike Trout|R|Intent Walk|V|N/A|33|0|2|2|0|0
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|B|Sinker|34|0|0|2|11|93
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|C|Sinker|35|1|0|2|12|93
+Adrian Sampson|R|Andrelton Simmons|R|Lineout|X|Sinker|36|1|1|2|2|93
+Adrian Sampson|R|Albert Pujols|R|Home Run|E|Sinker|37|0|0|0|4|91
+Adrian Sampson|R|Jonathan Lucroy|R|Flyout|C|Slider|38|0|0|0|5|82
+Adrian Sampson|R|Jonathan Lucroy|R|Flyout|X|Slider|39|0|1|0|8|83
+Adrian Sampson|R|Brian Goodwin|L|Double|B|Sinker|40|0|0|1|13|93
+Adrian Sampson|R|Brian Goodwin|L|Double|B|Changeup|41|1|0|1|13|85
+Adrian Sampson|R|Brian Goodwin|L|Double|F|Sinker|42|2|0|1|13|92
+Adrian Sampson|R|Brian Goodwin|L|Double|C|Sinker|43|2|1|1|6|92
+Adrian Sampson|R|Brian Goodwin|L|Double|F|Slider|44|2|2|1|9|84
+Adrian Sampson|R|Brian Goodwin|L|Double|F|Sinker|45|2|2|1|2|93
+Adrian Sampson|R|Brian Goodwin|L|Double|D|Changeup|46|2|2|1|13|87
+Adrian Sampson|R|Kevan Smith|R|Hit By Pitch|H|Slider|47|0|0|1|11|82
+Adrian Sampson|R|Peter Bourjos|R|Walk|F|Sinker|48|0|0|1|1|92
+Adrian Sampson|R|Peter Bourjos|R|Walk|*B|Slider|49|0|1|1|14|86
+Adrian Sampson|R|Peter Bourjos|R|Walk|B|Slider|50|1|1|1|14|86
+Adrian Sampson|R|Peter Bourjos|R|Walk|C|Sinker|51|2|1|1|9|92
+Adrian Sampson|R|Peter Bourjos|R|Walk|B|Slider|52|2|2|1|14|84
+Adrian Sampson|R|Peter Bourjos|R|Walk|B|Sinker|53|3|2|1|14|93
+Adrian Sampson|R|Tommy La Stella|L|Groundout|C|Sinker|54|0|0|2|5|93
+Adrian Sampson|R|Tommy La Stella|L|Groundout|B|Sinker|55|0|1|2|14|92
+Adrian Sampson|R|Tommy La Stella|L|Groundout|B|Slider|56|1|1|2|14|84
+Adrian Sampson|R|Tommy La Stella|L|Groundout|X|Sinker|57|2|1|2|4|92
+Adrian Sampson|R|David Fletcher|R|Single|B|Slider|58|0|0|0|14|81
+Adrian Sampson|R|David Fletcher|R|Single|C|Slider|59|1|0|0|8|82
+Adrian Sampson|R|David Fletcher|R|Single|D|Sinker|60|1|1|0|4|91
+Adrian Sampson|R|Mike Trout|R|Strikeout|C|Slider|61|0|0|0|9|85
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Slider|62|0|1|0|14|86
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Sinker|63|1|1|0|11|92
+Adrian Sampson|R|Mike Trout|R|Strikeout|F|Slider|64|2|1|0|8|86
+Adrian Sampson|R|Mike Trout|R|Strikeout|B|Sinker|65|2|2|0|12|93
+Adrian Sampson|R|Mike Trout|R|Strikeout|S|Slider|66|3|2|0|14|84
+Adrian Sampson|R|Andrelton Simmons|R|Groundout|B|Slider|67|0|0|1|11|83
+Adrian Sampson|R|Andrelton Simmons|R|Groundout|*B|Slider|68|1|0|1|14|85
+Adrian Sampson|R|Andrelton Simmons|R|Groundout|X|Sinker|69|2|0|1|8|92
+Adrian Sampson|R|Trey Mancini|R|Strikeout|F|Sinker|0|0|0|0|5|92
+Adrian Sampson|R|Trey Mancini|R|Strikeout|F|Slider|1|0|1|0|1|85
+Adrian Sampson|R|Trey Mancini|R|Strikeout|S|Sinker|2|0|2|0|5|93
+Adrian Sampson|R|Anthony Santander|L|Groundout|S|Sinker|3|0|0|1|1|93
+Adrian Sampson|R|Anthony Santander|L|Groundout|X|Slider|4|0|1|1|9|87
+Adrian Sampson|R|Dwight Smith Jr|L|Single|L|Changeup|5|0|0|2|4|88
+Adrian Sampson|R|Dwight Smith Jr|L|Single|D|Changeup|6|0|1|2|7|89
+Adrian Sampson|R|Hanser Alberto|R|Forceout|X|Slider|7|0|0|2|9|86
+Adrian Sampson|R|Mookie Betts|R|Flyout|C|Sinker|0|0|0|0|1|90
+Adrian Sampson|R|Mookie Betts|R|Flyout|X|Sinker|1|0|1|0|6|90
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|B|Sinker|2|0|0|1|11|91
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|X|Changeup|3|1|0|1|7|86
+Adrian Sampson|R|J.D. Martinez|R|Home Run|C|Slider|4|0|0|2|4|83
+Adrian Sampson|R|J.D. Martinez|R|Home Run|B|Slider|5|0|1|2|14|85
+Adrian Sampson|R|J.D. Martinez|R|Home Run|B|Sinker|6|1|1|2|13|92
+Adrian Sampson|R|J.D. Martinez|R|Home Run|F|Sinker|7|2|1|2|5|92
+Adrian Sampson|R|J.D. Martinez|R|Home Run|F|Sinker|8|2|2|2|13|92
+Adrian Sampson|R|J.D. Martinez|R|Home Run|B|Slider|9|2|2|2|14|81
+Adrian Sampson|R|J.D. Martinez|R|Home Run|F|Sinker|10|3|2|2|8|92
+Adrian Sampson|R|J.D. Martinez|R|Home Run|F|Sinker|11|3|2|2|4|93
+Adrian Sampson|R|J.D. Martinez|R|Home Run|E|Sinker|12|3|2|2|5|92
+Adrian Sampson|R|Rafael Devers|L|Groundout|F|Slider|13|0|0|2|8|83
+Adrian Sampson|R|Rafael Devers|L|Groundout|S|Slider|14|0|1|2|14|83
+Adrian Sampson|R|Rafael Devers|L|Groundout|X|Sinker|15|0|2|2|11|91
+Adrian Sampson|R|Xander Bogaerts|R|Single|B|Sinker|16|0|0|0|11|91
+Adrian Sampson|R|Xander Bogaerts|R|Single|C|Sinker|17|1|0|0|5|91
+Adrian Sampson|R|Xander Bogaerts|R|Single|D|Sinker|18|1|1|0|8|91
+Adrian Sampson|R|Christian Vazquez|R|Single|B|Slider|19|0|0|0|11|81
+Adrian Sampson|R|Christian Vazquez|R|Single|F|Sinker|20|1|0|0|2|92
+Adrian Sampson|R|Christian Vazquez|R|Single|F|Slider|21|1|1|0|9|83
+Adrian Sampson|R|Christian Vazquez|R|Single|*B|Slider|22|1|2|0|14|83
+Adrian Sampson|R|Christian Vazquez|R|Single|D|Sinker|23|2|2|0|11|92
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|B|Slider|24|0|0|0|13|80
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|C|Changeup|25|1|0|0|5|87
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|S|Sinker|26|1|1|0|6|91
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|*B|Slider|27|1|2|0|14|82
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|F|Slider|28|2|2|0|14|83
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|F|Slider|29|2|2|0|13|83
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|E|Sinker|30|2|2|0|4|91
+Adrian Sampson|R|Michael Chavis|R|Flyout|B|Sinker|31|0|0|0|14|91
+Adrian Sampson|R|Michael Chavis|R|Flyout|C|Sinker|32|1|0|0|14|91
+Adrian Sampson|R|Michael Chavis|R|Flyout|X|Sinker|33|1|1|0|7|91
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|C|Sinker|34|0|0|1|7|92
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|B|Changeup|35|0|1|1|14|87
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|S|Changeup|36|1|1|1|4|87
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|F|Sinker|37|1|2|1|11|92
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|F|Changeup|38|1|2|1|11|86
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|S|Slider|39|1|2|1|14|83
+Adrian Sampson|R|Mookie Betts|R|Single|C|Slider|40|0|0|2|1|83
+Adrian Sampson|R|Mookie Betts|R|Single|D|Changeup|41|0|1|2|8|87
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|X|Changeup|42|0|0|2|7|87
+Adrian Sampson|R|J.D. Martinez|R|Pop Out|B|Sinker|43|0|0|0|11|91
+Adrian Sampson|R|J.D. Martinez|R|Pop Out|X|Changeup|44|1|0|0|1|86
+Adrian Sampson|R|Rafael Devers|L|Field Error|C|Sinker|45|0|0|1|8|92
+Adrian Sampson|R|Rafael Devers|L|Field Error|B|Sinker|46|0|1|1|14|91
+Adrian Sampson|R|Rafael Devers|L|Field Error|C|Changeup|47|1|1|1|14|87
+Adrian Sampson|R|Rafael Devers|L|Field Error|D|Slider|48|1|2|1|6|82
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|C|Slider|49|0|0|1|14|84
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|F|Sinker|50|0|1|1|4|93
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|S|Changeup|51|0|2|1|11|87
+Adrian Sampson|R|Christian Vazquez|R|Lineout|F|Sinker|52|0|0|2|5|92
+Adrian Sampson|R|Christian Vazquez|R|Lineout|F|Sinker|53|0|1|2|2|92
+Adrian Sampson|R|Christian Vazquez|R|Lineout|*B|Slider|54|0|2|2|14|83
+Adrian Sampson|R|Christian Vazquez|R|Lineout|B|Slider|55|1|2|2|11|82
+Adrian Sampson|R|Christian Vazquez|R|Lineout|X|Slider|56|2|2|2|14|83
+Adrian Sampson|R|Jackie Bradley Jr.|L|Strikeout|B|Changeup|57|0|0|0|13|85
+Adrian Sampson|R|Jackie Bradley Jr.|L|Strikeout|C|Changeup|58|1|0|0|14|86
+Adrian Sampson|R|Jackie Bradley Jr.|L|Strikeout|S|Slider|59|1|1|0|14|81
+Adrian Sampson|R|Jackie Bradley Jr.|L|Strikeout|S|Slider|60|1|2|0|14|84
+Adrian Sampson|R|Michael Chavis|R|Home Run|C|Sinker|61|0|0|1|12|91
+Adrian Sampson|R|Michael Chavis|R|Home Run|B|Slider|62|0|1|1|14|83
+Adrian Sampson|R|Michael Chavis|R|Home Run|F|Sinker|63|1|1|1|4|93
+Adrian Sampson|R|Michael Chavis|R|Home Run|E|Slider|64|1|2|1|8|81
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|L|Changeup|65|0|0|1|11|87
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|S|Slider|66|0|1|1|1|84
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|B|Slider|67|0|2|1|14|81
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|F|Changeup|68|1|2|1|13|87
+Adrian Sampson|R|Marco Hernandez|L|Strikeout|S|Sinker|69|1|2|1|1|91
+Adrian Sampson|R|Mookie Betts|R|Lineout|B|Slider|70|0|0|2|11|82
+Adrian Sampson|R|Mookie Betts|R|Lineout|B|Sinker|71|1|0|2|12|91
+Adrian Sampson|R|Mookie Betts|R|Lineout|F|Sinker|72|2|0|2|1|93
+Adrian Sampson|R|Mookie Betts|R|Lineout|X|Sinker|73|2|1|2|7|92
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|B|Changeup|74|0|0|0|14|88
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|F|Changeup|75|1|0|0|14|86
+Adrian Sampson|R|Andrew Benintendi|L|Flyout|X|Sinker|76|1|1|0|8|91
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|B|Sinker|77|0|0|1|11|92
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|F|Sinker|78|1|0|1|11|91
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|B|Slider|79|1|1|1|14|82
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|S|Slider|80|2|1|1|14|83
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|B|Slider|81|2|2|1|14|84
+Adrian Sampson|R|J.D. Martinez|R|Strikeout|S|Slider|82|3|2|1|14|84
+Adrian Sampson|R|Rafael Devers|L|Home Run|F|Slider|83|0|0|2|7|83
+Adrian Sampson|R|Rafael Devers|L|Home Run|F|Slider|84|0|1|2|5|83
+Adrian Sampson|R|Rafael Devers|L|Home Run|E|Slider|85|0|2|2|5|81
+Adrian Sampson|R|Xander Bogaerts|R|Walk|B|Sinker|86|0|0|2|12|93
+Adrian Sampson|R|Xander Bogaerts|R|Walk|B|Slider|87|1|0|2|14|84
+Adrian Sampson|R|Xander Bogaerts|R|Walk|B|Slider|88|2|0|2|14|86
+Adrian Sampson|R|Xander Bogaerts|R|Walk|B|Sinker|89|3|0|2|14|93
+Adrian Sampson|R|Christian Vazquez|R|Forceout|B|Slider|90|0|0|2|14|83
+Adrian Sampson|R|Christian Vazquez|R|Forceout|B|Sinker|91|1|0|2|14|93
+Adrian Sampson|R|Christian Vazquez|R|Forceout|X|Sinker|92|2|0|2|8|92
+Adrian Sampson|R|George Springer|R|Home Run|F|Sinker|0|0|0|0|6|91
+Adrian Sampson|R|George Springer|R|Home Run|E|Sinker|1|0|1|0|7|91
+Adrian Sampson|R|Alex Bregman|R|Single|C|Slider|2|0|0|0|4|83
+Adrian Sampson|R|Alex Bregman|R|Single|F|Sinker|3|0|1|0|11|91
+Adrian Sampson|R|Alex Bregman|R|Single|D|Changeup|4|0|2|0|7|87
+Adrian Sampson|R|Michael Brantley|L|Flyout|B|Sinker|5|0|0|0|12|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|C|Sinker|6|1|0|0|1|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|B|Changeup|7|1|1|0|13|86
+Adrian Sampson|R|Michael Brantley|L|Flyout|B|Changeup|8|2|1|0|14|87
+Adrian Sampson|R|Michael Brantley|L|Flyout|S|Sinker|9|3|1|0|4|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|F|Sinker|10|3|2|0|7|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|X|Changeup|11|3|2|0|13|86
+Adrian Sampson|R|Carlos Correa|R|Walk|B|Slider|12|0|0|1|14|84
+Adrian Sampson|R|Carlos Correa|R|Walk|S|Slider|13|1|0|1|9|82
+Adrian Sampson|R|Carlos Correa|R|Walk|B|Sinker|14|1|1|1|14|91
+Adrian Sampson|R|Carlos Correa|R|Walk|B|Sinker|15|2|1|1|14|91
+Adrian Sampson|R|Carlos Correa|R|Walk|B|Sinker|16|3|1|1|14|92
+Adrian Sampson|R|Josh Reddick|L|Forceout|B|Sinker|17|0|0|1|14|93
+Adrian Sampson|R|Josh Reddick|L|Forceout|F|Sinker|18|1|0|1|1|92
+Adrian Sampson|R|Josh Reddick|L|Forceout|B|Sinker|19|1|1|1|12|92
+Adrian Sampson|R|Josh Reddick|L|Forceout|B|Changeup|20|2|1|1|14|87
+Adrian Sampson|R|Josh Reddick|L|Forceout|F|Sinker|21|3|1|1|1|92
+Adrian Sampson|R|Josh Reddick|L|Forceout|X|Sinker|22|3|2|1|8|93
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|F|Sinker|23|0|0|2|2|92
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|B|Slider|24|0|1|2|12|84
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|X|Sinker|25|1|1|2|2|92
+Adrian Sampson|R|Aledmys Diaz|R|Groundout|B|Sinker|26|0|0|0|14|91
+Adrian Sampson|R|Aledmys Diaz|R|Groundout|C|Slider|27|1|0|0|9|83
+Adrian Sampson|R|Aledmys Diaz|R|Groundout|F|Sinker|28|1|1|0|12|92
+Adrian Sampson|R|Aledmys Diaz|R|Groundout|X|Slider|29|1|2|0|14|82
+Adrian Sampson|R|Max Stassi|R|Groundout|S|Slider|30|0|0|1|14|82
+Adrian Sampson|R|Max Stassi|R|Groundout|B|Slider|31|0|1|1|14|84
+Adrian Sampson|R|Max Stassi|R|Groundout|F|Sinker|32|1|1|1|5|92
+Adrian Sampson|R|Max Stassi|R|Groundout|F|Slider|33|1|2|1|11|82
+Adrian Sampson|R|Max Stassi|R|Groundout|B|Sinker|34|1|2|1|11|91
+Adrian Sampson|R|Max Stassi|R|Groundout|F|Sinker|35|2|2|1|1|92
+Adrian Sampson|R|Max Stassi|R|Groundout|F|Sinker|36|2|2|1|6|92
+Adrian Sampson|R|Max Stassi|R|Groundout|B|Slider|37|2|2|1|14|83
+Adrian Sampson|R|Max Stassi|R|Groundout|X|Sinker|38|3|2|1|4|92
+Adrian Sampson|R|Tony Kemp|L|Triple|B|Sinker|39|0|0|2|14|92
+Adrian Sampson|R|Tony Kemp|L|Triple|D|Sinker|40|1|0|2|9|92
+Adrian Sampson|R|George Springer|R|Single|B|Slider|41|0|0|2|14|83
+Adrian Sampson|R|George Springer|R|Single|S|Slider|42|1|0|2|2|83
+Adrian Sampson|R|George Springer|R|Single|B|Sinker|43|1|1|2|14|91
+Adrian Sampson|R|George Springer|R|Single|C|Slider|44|2|1|2|9|83
+Adrian Sampson|R|George Springer|R|Single|B|Sinker|45|2|2|2|12|91
+Adrian Sampson|R|George Springer|R|Single|F|Slider|46|3|2|2|6|83
+Adrian Sampson|R|George Springer|R|Single|E|Slider|47|3|2|2|9|83
+Adrian Sampson|R|Alex Bregman|R|Home Run|C|Sinker|48|0|0|2|7|91
+Adrian Sampson|R|Alex Bregman|R|Home Run|*B|Slider|49|0|1|2|14|82
+Adrian Sampson|R|Alex Bregman|R|Home Run|B|Slider|50|1|1|2|14|82
+Adrian Sampson|R|Alex Bregman|R|Home Run|F|Sinker|51|2|1|2|4|91
+Adrian Sampson|R|Alex Bregman|R|Home Run|E|Slider|52|2|2|2|3|84
+Adrian Sampson|R|Michael Brantley|L|Flyout|C|Sinker|53|0|0|2|11|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|X|Changeup|54|0|1|2|1|87
+Adrian Sampson|R|Carlos Correa|R|Single|B|Sinker|55|0|0|0|9|91
+Adrian Sampson|R|Carlos Correa|R|Single|C|Sinker|56|1|0|0|14|92
+Adrian Sampson|R|Carlos Correa|R|Single|F|Slider|57|1|1|0|5|81
+Adrian Sampson|R|Carlos Correa|R|Single|B|Changeup|58|1|2|0|14|87
+Adrian Sampson|R|Carlos Correa|R|Single|D|Sinker|59|2|2|0|6|92
+Adrian Sampson|R|Josh Reddick|L|Strikeout|F|Sinker|60|0|0|0|1|91
+Adrian Sampson|R|Josh Reddick|L|Strikeout|B|Changeup|61|0|1|0|14|89
+Adrian Sampson|R|Josh Reddick|L|Strikeout|C|Sinker|62|1|1|0|11|91
+Adrian Sampson|R|Josh Reddick|L|Strikeout|S|Slider|63|1|2|0|11|85
+Adrian Sampson|R|Yuli Gurriel|R|Single|D|Sinker|64|0|0|1|8|90
+Adrian Sampson|R|Aledmys Diaz|R|Lineout|X|Slider|65|0|0|1|6|84
+Adrian Sampson|R|Max Stassi|R|Flyout|X|Sinker|66|0|0|2|4|91
+Adrian Sampson|R|Tony Kemp|L|Single|C|Sinker|67|0|0|0|5|91
+Adrian Sampson|R|Tony Kemp|L|Single|F|Changeup|68|0|1|0|8|86
+Adrian Sampson|R|Tony Kemp|L|Single|B|Slider|69|0|2|0|14|81
+Adrian Sampson|R|Tony Kemp|L|Single|F|Sinker|70|1|2|0|12|91
+Adrian Sampson|R|Tony Kemp|L|Single|D|Sinker|71|1|2|0|12|93
+Adrian Sampson|R|George Springer|R|Single|F|Sinker|72|0|0|0|8|91
+Adrian Sampson|R|George Springer|R|Single|D|Slider|73|0|1|0|9|82
+Adrian Sampson|R|Alex Bregman|R|Strikeout|C|Sinker|74|0|0|0|12|92
+Adrian Sampson|R|Alex Bregman|R|Strikeout|B|Sinker|75|0|1|0|14|90
+Adrian Sampson|R|Alex Bregman|R|Strikeout|S|Sinker|76|1|1|0|3|92
+Adrian Sampson|R|Alex Bregman|R|Strikeout|F|Sinker|77|1|2|0|6|92
+Adrian Sampson|R|Alex Bregman|R|Strikeout|*B|Slider|78|1|2|0|14|87
+Adrian Sampson|R|Alex Bregman|R|Strikeout|S|Sinker|79|2|2|0|12|92
+Adrian Sampson|R|Marcus Semien|R|Lineout|B|Slider|0|0|0|0|11|84
+Adrian Sampson|R|Marcus Semien|R|Lineout|F|Sinker|1|1|0|0|5|92
+Adrian Sampson|R|Marcus Semien|R|Lineout|F|Slider|2|1|1|0|7|83
+Adrian Sampson|R|Marcus Semien|R|Lineout|X|Slider|3|1|2|0|8|84
+Adrian Sampson|R|Matt Chapman|R|Pop Out|B|Sinker|4|0|0|1|11|93
+Adrian Sampson|R|Matt Chapman|R|Pop Out|C|Changeup|5|1|0|1|3|87
+Adrian Sampson|R|Matt Chapman|R|Pop Out|F|Sinker|6|1|1|1|5|92
+Adrian Sampson|R|Matt Chapman|R|Pop Out|B|Slider|7|1|2|1|14|83
+Adrian Sampson|R|Matt Chapman|R|Pop Out|F|Changeup|8|2|2|1|5|88
+Adrian Sampson|R|Matt Chapman|R|Pop Out|X|Slider|9|2|2|1|9|84
+Adrian Sampson|R|Stephen Piscotty|R|Flyout|B|Slider|10|0|0|2|14|85
+Adrian Sampson|R|Stephen Piscotty|R|Flyout|F|Slider|11|1|0|2|8|84
+Adrian Sampson|R|Stephen Piscotty|R|Flyout|B|Sinker|12|1|1|2|14|93
+Adrian Sampson|R|Stephen Piscotty|R|Flyout|X|Sinker|13|2|1|2|1|93
+Adrian Sampson|R|Khris Davis|R|Flyout|B|Slider|14|0|0|0|11|83
+Adrian Sampson|R|Khris Davis|R|Flyout|S|Slider|15|1|0|0|6|83
+Adrian Sampson|R|Khris Davis|R|Flyout|F|Sinker|16|1|1|0|11|92
+Adrian Sampson|R|Khris Davis|R|Flyout|B|Sinker|17|1|2|0|11|92
+Adrian Sampson|R|Khris Davis|R|Flyout|X|Changeup|18|2|2|0|5|88
+Adrian Sampson|R|Chad Pinder|R|Strikeout|F|Sinker|19|0|0|1|5|94
+Adrian Sampson|R|Chad Pinder|R|Strikeout|B|Changeup|20|0|1|1|13|87
+Adrian Sampson|R|Chad Pinder|R|Strikeout|F|Sinker|21|1|1|1|11|92
+Adrian Sampson|R|Chad Pinder|R|Strikeout|S|Slider|22|1|2|1|14|86
+Adrian Sampson|R|Mark Canha|R|Pop Out|S|Sinker|23|0|0|2|2|93
+Adrian Sampson|R|Mark Canha|R|Pop Out|B|Sinker|24|0|1|2|12|93
+Adrian Sampson|R|Mark Canha|R|Pop Out|F|Slider|25|1|1|2|2|85
+Adrian Sampson|R|Mark Canha|R|Pop Out|B|Sinker|26|1|2|2|14|94
+Adrian Sampson|R|Mark Canha|R|Pop Out|F|Slider|27|2|2|2|14|86
+Adrian Sampson|R|Mark Canha|R|Pop Out|X|Changeup|28|2|2|2|7|87
+Adrian Sampson|R|Jurickson Profar|L|Lineout|C|Slider|29|0|0|0|6|84
+Adrian Sampson|R|Jurickson Profar|L|Lineout|F|Slider|30|0|1|0|2|85
+Adrian Sampson|R|Jurickson Profar|L|Lineout|X|Sinker|31|0|2|0|6|91
+Adrian Sampson|R|Ramon Laureano|R|Double|C|Slider|32|0|0|1|1|84
+Adrian Sampson|R|Ramon Laureano|R|Double|D|Slider|33|0|1|1|6|86
+Adrian Sampson|R|Kendrys Morales|L|Walk|B|Changeup|34|0|0|1|11|86
+Adrian Sampson|R|Kendrys Morales|L|Walk|B|Changeup|35|1|0|1|11|86
+Adrian Sampson|R|Kendrys Morales|L|Walk|*B|Slider|36|2|0|1|13|84
+Adrian Sampson|R|Kendrys Morales|L|Walk|B|Sinker|37|3|0|1|11|92
+Adrian Sampson|R|Marcus Semien|R|Double Play|C|Slider|38|0|0|1|8|83
+Adrian Sampson|R|Marcus Semien|R|Double Play|B|Sinker|39|0|1|1|14|90
+Adrian Sampson|R|Marcus Semien|R|Double Play|X|Slider|40|1|1|1|14|83
+Adrian Sampson|R|Marcus Semien|R|Groundout|C|Sinker|0|0|0|0|9|90
+Adrian Sampson|R|Marcus Semien|R|Groundout|B|Slider|1|0|1|0|14|82
+Adrian Sampson|R|Marcus Semien|R|Groundout|X|Slider|2|1|1|0|6|82
+Adrian Sampson|R|Matt Chapman|R|Strikeout|B|Slider|3|0|0|1|14|83
+Adrian Sampson|R|Matt Chapman|R|Strikeout|C|Slider|4|1|0|1|14|82
+Adrian Sampson|R|Matt Chapman|R|Strikeout|C|Sinker|5|1|1|1|9|92
+Adrian Sampson|R|Matt Chapman|R|Strikeout|C|Sinker|6|1|2|1|3|92
+Adrian Sampson|R|Matt Olson|L|Strikeout|T|Sinker|7|0|0|2|4|91
+Adrian Sampson|R|Matt Olson|L|Strikeout|B|Sinker|8|0|1|2|14|92
+Adrian Sampson|R|Matt Olson|L|Strikeout|C|Sinker|9|1|1|2|3|91
+Adrian Sampson|R|Matt Olson|L|Strikeout|F|Slider|10|1|2|2|14|82
+Adrian Sampson|R|Matt Olson|L|Strikeout|S|Sinker|11|1|2|2|12|91
+Adrian Sampson|R|Mark Canha|R|Home Run|C|Slider|12|0|0|0|6|82
+Adrian Sampson|R|Mark Canha|R|Home Run|B|Sinker|13|0|1|0|14|90
+Adrian Sampson|R|Mark Canha|R|Home Run|B|Sinker|14|1|1|0|14|91
+Adrian Sampson|R|Mark Canha|R|Home Run|E|Slider|15|2|1|0|14|82
+Adrian Sampson|R|Ramon Laureano|R|Groundout|C|Sinker|16|0|0|0|13|91
+Adrian Sampson|R|Ramon Laureano|R|Groundout|B|Sinker|17|0|1|0|13|92
+Adrian Sampson|R|Ramon Laureano|R|Groundout|X|Slider|18|1|1|0|5|83
+Adrian Sampson|R|Chris Herrmann|L|Groundout|C|Sinker|19|0|0|1|7|91
+Adrian Sampson|R|Chris Herrmann|L|Groundout|B|Sinker|20|0|1|1|13|91
+Adrian Sampson|R|Chris Herrmann|L|Groundout|S|Changeup|21|1|1|1|8|87
+Adrian Sampson|R|Chris Herrmann|L|Groundout|F|Sinker|22|1|2|1|9|91
+Adrian Sampson|R|Chris Herrmann|L|Groundout|B|Sinker|23|1|2|1|11|91
+Adrian Sampson|R|Chris Herrmann|L|Groundout|X|Changeup|24|2|2|1|7|85
+Adrian Sampson|R|Chad Pinder|R|Groundout|F|Sinker|25|0|0|2|13|91
+Adrian Sampson|R|Chad Pinder|R|Groundout|X|Slider|26|0|1|2|4|82
+Adrian Sampson|R|Robbie Grossman|L|Groundout|B|Sinker|27|0|0|0|14|90
+Adrian Sampson|R|Robbie Grossman|L|Groundout|F|Sinker|28|1|0|0|6|91
+Adrian Sampson|R|Robbie Grossman|L|Groundout|S|Slider|29|1|1|0|14|81
+Adrian Sampson|R|Robbie Grossman|L|Groundout|B|Sinker|30|1|2|0|12|90
+Adrian Sampson|R|Robbie Grossman|L|Groundout|X|Sinker|31|2|2|0|9|90
+Adrian Sampson|R|Franklin Barreto|R|Groundout|B|Slider|32|0|0|1|14|82
+Adrian Sampson|R|Franklin Barreto|R|Groundout|C|Slider|33|1|0|1|6|82
+Adrian Sampson|R|Franklin Barreto|R|Groundout|C|Sinker|34|1|1|1|13|91
+Adrian Sampson|R|Franklin Barreto|R|Groundout|X|Slider|35|1|2|1|8|82
+Adrian Sampson|R|Marcus Semien|R|Home Run|B|Slider|36|0|0|2|11|82
+Adrian Sampson|R|Marcus Semien|R|Home Run|B|Changeup|37|1|0|2|14|86
+Adrian Sampson|R|Marcus Semien|R|Home Run|E|Slider|38|2|0|2|8|81
+Adrian Sampson|R|Matt Chapman|R|Pop Out|C|Sinker|39|0|0|2|8|92
+Adrian Sampson|R|Matt Chapman|R|Pop Out|B|Sinker|40|0|1|2|12|92
+Adrian Sampson|R|Matt Chapman|R|Pop Out|C|Sinker|41|1|1|2|14|92
+Adrian Sampson|R|Matt Chapman|R|Pop Out|B|Sinker|42|1|2|2|3|92
+Adrian Sampson|R|Matt Chapman|R|Pop Out|B|Slider|43|2|2|2|14|84
+Adrian Sampson|R|Matt Chapman|R|Pop Out|X|Sinker|44|3|2|2|4|92
+Adrian Sampson|R|Matt Olson|L|Pop Out|B|Sinker|45|0|0|0|1|90
+Adrian Sampson|R|Matt Olson|L|Pop Out|F|Changeup|46|1|0|0|4|85
+Adrian Sampson|R|Matt Olson|L|Pop Out|X|Slider|47|1|1|0|9|82
+Adrian Sampson|R|Mark Canha|R|Hit By Pitch|C|Slider|48|0|0|1|5|83
+Adrian Sampson|R|Mark Canha|R|Hit By Pitch|B|Sinker|49|0|1|1|14|92
+Adrian Sampson|R|Mark Canha|R|Hit By Pitch|F|Sinker|50|1|1|1|8|92
+Adrian Sampson|R|Mark Canha|R|Hit By Pitch|H|Sinker|51|1|2|1|11|93
+Adrian Sampson|R|Ramon Laureano|R|Double|D|Slider|52|0|0|1|9|83
+Adrian Sampson|R|Chris Herrmann|L|Fielders Choice Out|X|Sinker|53|0|0|1|8|92
+Adrian Sampson|R|Chad Pinder|R|Groundout|B|Sinker|54|0|0|2|13|91
+Adrian Sampson|R|Chad Pinder|R|Groundout|F|Sinker|55|1|0|2|1|92
+Adrian Sampson|R|Chad Pinder|R|Groundout|X|Sinker|56|1|1|2|13|92
+Adrian Sampson|R|Robbie Grossman|L|Flyout|C|Sinker|57|0|0|0|9|90
+Adrian Sampson|R|Robbie Grossman|L|Flyout|X|Sinker|58|0|1|0|6|91
+Adrian Sampson|R|Franklin Barreto|R|Groundout|B|Sinker|59|0|0|1|11|91
+Adrian Sampson|R|Franklin Barreto|R|Groundout|B|Sinker|60|1|0|1|14|90
+Adrian Sampson|R|Franklin Barreto|R|Groundout|X|Sinker|61|2|0|1|7|91
+Adrian Sampson|R|Marcus Semien|R|Single|B|Slider|62|0|0|2|14|83
+Adrian Sampson|R|Marcus Semien|R|Single|S|Sinker|63|1|0|2|13|91
+Adrian Sampson|R|Marcus Semien|R|Single|D|Changeup|64|1|1|2|9|87
+Adrian Sampson|R|Matt Chapman|R|Home Run|B|Sinker|65|0|0|2|14|91
+Adrian Sampson|R|Matt Chapman|R|Home Run|B|Slider|66|1|0|2|14|84
+Adrian Sampson|R|Matt Chapman|R|Home Run|E|Sinker|67|2|0|2|9|91
+Adrian Sampson|R|Matt Olson|L|Groundout|B|Sinker|68|0|0|2|4|92
+Adrian Sampson|R|Matt Olson|L|Groundout|X|Sinker|69|1|0|2|9|91
+Adrian Sampson|R|Mark Canha|R|Groundout|C|Slider|70|0|0|0|13|83
+Adrian Sampson|R|Mark Canha|R|Groundout|B|Slider|71|0|1|0|14|84
+Adrian Sampson|R|Mark Canha|R|Groundout|F|Slider|72|1|1|0|8|84
+Adrian Sampson|R|Mark Canha|R|Groundout|X|Sinker|73|1|2|0|6|92
+Adrian Sampson|R|Ramon Laureano|R|Home Run|F|Slider|74|0|0|1|9|85
+Adrian Sampson|R|Ramon Laureano|R|Home Run|S|Slider|75|0|1|1|9|83
+Adrian Sampson|R|Ramon Laureano|R|Home Run|B|Sinker|76|0|2|1|11|92
+Adrian Sampson|R|Ramon Laureano|R|Home Run|B|Sinker|77|1|2|1|13|92
+Adrian Sampson|R|Ramon Laureano|R|Home Run|E|Changeup|78|2|2|1|4|88
+Adrian Sampson|R|Chris Herrmann|L|Groundout|C|Changeup|79|0|0|1|13|88
+Adrian Sampson|R|Chris Herrmann|L|Groundout|B|Sinker|80|0|1|1|12|92
+Adrian Sampson|R|Chris Herrmann|L|Groundout|X|Changeup|81|1|1|1|13|88
+Adrian Sampson|R|Chad Pinder|R|Lineout|S|Slider|82|0|0|2|1|83
+Adrian Sampson|R|Chad Pinder|R|Lineout|B|Slider|83|0|1|2|14|85
+Adrian Sampson|R|Chad Pinder|R|Lineout|F|Sinker|84|1|1|2|13|92
+Adrian Sampson|R|Chad Pinder|R|Lineout|F|Sinker|85|1|2|2|13|92
+Adrian Sampson|R|Chad Pinder|R|Lineout|X|Slider|86|1|2|2|4|84
+Adrian Sampson|R|Matt Chapman|R|Strikeout|F|Slider|0|0|0|2|3|83
+Adrian Sampson|R|Matt Chapman|R|Strikeout|S|Slider|1|0|1|2|14|84
+Adrian Sampson|R|Matt Chapman|R|Strikeout|*B|Slider|2|0|2|2|14|82
+Adrian Sampson|R|Matt Chapman|R|Strikeout|B|Sinker|3|1|2|2|13|93
+Adrian Sampson|R|Matt Chapman|R|Strikeout|*B|Slider|4|2|2|2|14|85
+Adrian Sampson|R|Matt Chapman|R|Strikeout|F|Sinker|5|3|2|2|8|93
+Adrian Sampson|R|Matt Chapman|R|Strikeout|T|Slider|6|3|2|2|14|84
+Adrian Sampson|R|Matt Olson|L|Groundout|X|Changeup|7|0|0|0|13|87
+Adrian Sampson|R|Mark Canha|R|Lineout|F|Slider|8|0|0|1|8|83
+Adrian Sampson|R|Mark Canha|R|Lineout|B|Slider|9|0|1|1|11|84
+Adrian Sampson|R|Mark Canha|R|Lineout|B|Sinker|10|1|1|1|14|93
+Adrian Sampson|R|Mark Canha|R|Lineout|C|Slider|11|2|1|1|1|83
+Adrian Sampson|R|Mark Canha|R|Lineout|X|Sinker|12|2|2|1|14|93
+Adrian Sampson|R|Ramon Laureano|R|Flyout|C|Sinker|13|0|0|2|2|93
+Adrian Sampson|R|Ramon Laureano|R|Flyout|S|Slider|14|0|1|2|9|83
+Adrian Sampson|R|Ramon Laureano|R|Flyout|X|Sinker|15|0|2|2|2|93
+Adrian Sampson|R|Khris Davis|R|Strikeout|B|Slider|16|0|0|0|14|83
+Adrian Sampson|R|Khris Davis|R|Strikeout|C|Slider|17|1|0|0|14|82
+Adrian Sampson|R|Khris Davis|R|Strikeout|F|Sinker|18|1|1|0|13|91
+Adrian Sampson|R|Khris Davis|R|Strikeout|B|Sinker|19|1|2|0|11|91
+Adrian Sampson|R|Khris Davis|R|Strikeout|T|Slider|20|2|2|0|5|84
+Adrian Sampson|R|Chad Pinder|R|Flyout|B|Slider|21|0|0|1|14|84
+Adrian Sampson|R|Chad Pinder|R|Flyout|F|Slider|22|1|0|1|1|83
+Adrian Sampson|R|Chad Pinder|R|Flyout|B|Changeup|23|1|1|1|14|88
+Adrian Sampson|R|Chad Pinder|R|Flyout|C|Sinker|24|2|1|1|9|92
+Adrian Sampson|R|Chad Pinder|R|Flyout|X|Slider|25|2|2|1|4|85
+Adrian Sampson|R|Sheldon Neuse|R|Single|B|Slider|26|0|0|2|14|83
+Adrian Sampson|R|Sheldon Neuse|R|Single|D|Sinker|27|1|0|2|11|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|C|Sinker|28|0|0|2|5|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|S|Slider|29|0|1|2|14|83
+Adrian Sampson|R|Josh Phegley|R|Strikeout|F|Slider|30|0|2|2|9|83
+Adrian Sampson|R|Josh Phegley|R|Strikeout|B|Sinker|31|0|2|2|11|94
+Adrian Sampson|R|Josh Phegley|R|Strikeout|S|Slider|32|1|2|2|14|85
+Adrian Sampson|R|Adam Frazier|L|Lineout|C|Changeup|0|0|0|0|13|88
+Adrian Sampson|R|Adam Frazier|L|Lineout|X|Sinker|1|0|1|0|13|90
+Adrian Sampson|R|Starling Marte|R|Single|B|Sinker|2|0|0|1|3|92
+Adrian Sampson|R|Starling Marte|R|Single|F|Slider|3|1|0|1|9|82
+Adrian Sampson|R|Starling Marte|R|Single|S|Slider|4|1|1|1|14|84
+Adrian Sampson|R|Starling Marte|R|Single|X|Slider|5|1|2|1|9|84
+Adrian Sampson|R|Gregory Polanco|L|Single|B|Sinker|6|0|0|2|13|93
+Adrian Sampson|R|Gregory Polanco|L|Single|B|Changeup|7|1|0|2|13|87
+Adrian Sampson|R|Gregory Polanco|L|Single|D|Sinker|8|2|0|2|7|92
+Adrian Sampson|R|Josh Bell|L|Caught Stealing 2B|C|Sinker|9|0|0|2|6|92
+Adrian Sampson|R|Josh Bell|L|Double|B|Slider|10|0|0|0|13|80
+Adrian Sampson|R|Josh Bell|L|Double|D|Sinker|11|1|0|0|11|91
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|C|Sinker|12|0|0|0|11|92
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|S|Changeup|13|0|1|0|1|87
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|B|Sinker|14|0|2|0|12|92
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|F|Slider|15|1|2|0|5|81
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|B|Sinker|16|1|2|0|11|91
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|F|Slider|17|2|2|0|14|82
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|F|Changeup|18|2|2|0|13|87
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|B|Sinker|19|2|2|0|12|93
+Adrian Sampson|R|Bryan Reynolds|L|Groundout|X|Changeup|20|3|2|0|7|87
+Adrian Sampson|R|Colin Moran|L|Pop Out|F|Sinker|21|0|0|1|13|93
+Adrian Sampson|R|Colin Moran|L|Pop Out|X|Sinker|22|0|1|1|3|93
+Adrian Sampson|R|Francisco Cervelli|R|Lineout|F|Sinker|23|0|0|2|2|92
+Adrian Sampson|R|Francisco Cervelli|R|Lineout|X|Sinker|24|0|1|2|9|93
+Adrian Sampson|R|Kevin Newman|R|Lineout|X|Sinker|25|0|0|0|2|91
+Adrian Sampson|R|Steven Brault|L|Groundout|C|Sinker|26|0|0|1|5|92
+Adrian Sampson|R|Steven Brault|L|Groundout|F|Sinker|27|0|1|1|5|91
+Adrian Sampson|R|Steven Brault|L|Groundout|X|Sinker|28|0|2|1|4|92
+Adrian Sampson|R|Adam Frazier|L|Triple|C|Changeup|29|0|0|2|1|87
+Adrian Sampson|R|Adam Frazier|L|Triple|C|Sinker|30|0|1|2|6|92
+Adrian Sampson|R|Adam Frazier|L|Triple|B|Slider|31|0|2|2|11|83
+Adrian Sampson|R|Adam Frazier|L|Triple|D|Slider|32|1|2|2|5|83
+Adrian Sampson|R|Starling Marte|R|Single|*B|Slider|33|0|0|2|14|84
+Adrian Sampson|R|Starling Marte|R|Single|F|Slider|34|1|0|2|8|82
+Adrian Sampson|R|Starling Marte|R|Single|F|Sinker|35|1|1|2|5|93
+Adrian Sampson|R|Starling Marte|R|Single|E|Slider|36|1|2|2|7|82
+Adrian Sampson|R|Gregory Polanco|L|Lineout|X|Changeup|37|0|0|2|13|87
+Adrian Sampson|R|Josh Bell|L|Walk|S|Sinker|38|0|0|0|11|90
+Adrian Sampson|R|Josh Bell|L|Walk|F|Sinker|39|0|1|0|6|91
+Adrian Sampson|R|Josh Bell|L|Walk|B|Changeup|40|0|2|0|11|87
+Adrian Sampson|R|Josh Bell|L|Walk|B|Changeup|41|1|2|0|13|87
+Adrian Sampson|R|Josh Bell|L|Walk|B|Slider|42|2|2|0|14|84
+Adrian Sampson|R|Josh Bell|L|Walk|B|Sinker|43|3|2|0|11|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|X|Sinker|44|0|0|0|3|93
+Adrian Sampson|R|Colin Moran|L|Strikeout|C|Changeup|45|0|0|1|7|87
+Adrian Sampson|R|Colin Moran|L|Strikeout|F|Changeup|46|0|1|1|13|87
+Adrian Sampson|R|Colin Moran|L|Strikeout|F|Sinker|47|0|2|1|3|92
+Adrian Sampson|R|Colin Moran|L|Strikeout|W|Slider|48|0|2|1|14|83
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|C|Slider|49|0|0|2|7|82
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|B|Slider|50|0|1|2|13|83
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|H|Sinker|51|1|1|2|11|92
+Adrian Sampson|R|Kevin Newman|R|Walk|B|Slider|52|0|0|2|14|82
+Adrian Sampson|R|Kevin Newman|R|Walk|B|Sinker|53|1|0|2|14|92
+Adrian Sampson|R|Kevin Newman|R|Walk|B|Slider|54|2|0|2|14|84
+Adrian Sampson|R|Kevin Newman|R|Walk|B|Sinker|55|3|0|2|12|93
+Adrian Sampson|R|Melky Cabrera|L|Double|B|Changeup|56|0|0|2|13|88
+Adrian Sampson|R|Melky Cabrera|L|Double|E|Sinker|57|1|0|2|14|92
+Adrian Sampson|R|Adam Frazier|L|Groundout|X|Sinker|58|0|0|2|8|93
+Adrian Sampson|R|Starling Marte|R|Hit By Pitch|B|Sinker|59|0|0|0|11|92
+Adrian Sampson|R|Starling Marte|R|Hit By Pitch|H|Slider|60|1|0|0|11|81
+Adrian Sampson|R|Gregory Polanco|L|Home Run|B|Sinker|61|0|0|0|14|92
+Adrian Sampson|R|Gregory Polanco|L|Home Run|E|Sinker|62|1|0|0|4|91
+Adrian Sampson|R|Josh Bell|L|Lineout|X|Slider|63|0|0|0|4|83
+Adrian Sampson|R|Bryan Reynolds|L|Pop Out|B|Slider|64|0|0|1|11|83
+Adrian Sampson|R|Bryan Reynolds|L|Pop Out|B|Changeup|65|1|0|1|13|85
+Adrian Sampson|R|Bryan Reynolds|L|Pop Out|C|Changeup|66|2|0|1|11|87
+Adrian Sampson|R|Bryan Reynolds|L|Pop Out|X|Sinker|67|2|1|1|12|91
+Adrian Sampson|R|Colin Moran|L|Strikeout|C|Slider|68|0|0|2|13|83
+Adrian Sampson|R|Colin Moran|L|Strikeout|F|Changeup|69|0|1|2|14|87
+Adrian Sampson|R|Colin Moran|L|Strikeout|B|Sinker|70|0|2|2|14|92
+Adrian Sampson|R|Colin Moran|L|Strikeout|B|Slider|71|1|2|2|14|85
+Adrian Sampson|R|Colin Moran|L|Strikeout|B|Sinker|72|2|2|2|3|93
+Adrian Sampson|R|Colin Moran|L|Strikeout|S|Sinker|73|3|2|2|7|93
+Adrian Sampson|R|Jay Bruce|L|Strikeout|C|Sinker|0|0|0|2|6|92
+Adrian Sampson|R|Jay Bruce|L|Strikeout|S|Slider|1|0|1|2|6|84
+Adrian Sampson|R|Jay Bruce|L|Strikeout|F|Slider|2|0|2|2|9|84
+Adrian Sampson|R|Jay Bruce|L|Strikeout|F|Sinker|3|0|2|2|12|93
+Adrian Sampson|R|Jay Bruce|L|Strikeout|W|Slider|4|0|2|2|14|83
+Adrian Sampson|R|Tim Beckham|R|Groundout|C|Sinker|5|0|0|0|6|93
+Adrian Sampson|R|Tim Beckham|R|Groundout|X|Sinker|6|0|1|0|8|93
+Adrian Sampson|R|Omar Narvaez|L|Flyout|B|Slider|7|0|0|1|11|83
+Adrian Sampson|R|Omar Narvaez|L|Flyout|B|Changeup|8|1|0|1|14|87
+Adrian Sampson|R|Omar Narvaez|L|Flyout|X|Sinker|9|2|0|1|4|93
+Adrian Sampson|R|Domingo Santana|R|Single|B|Sinker|0|0|0|0|14|92
+Adrian Sampson|R|Domingo Santana|R|Single|F|Sinker|1|1|0|0|7|91
+Adrian Sampson|R|Domingo Santana|R|Single|B|Slider|2|1|1|0|14|83
+Adrian Sampson|R|Domingo Santana|R|Single|S|Slider|3|2|1|0|13|84
+Adrian Sampson|R|Domingo Santana|R|Single|D|Sinker|4|2|2|0|6|93
+Adrian Sampson|R|Omar Narvaez|L|Walk|B|Changeup|5|0|0|0|11|87
+Adrian Sampson|R|Omar Narvaez|L|Walk|B|Changeup|6|1|0|0|11|87
+Adrian Sampson|R|Omar Narvaez|L|Walk|B|Sinker|7|2|0|0|11|92
+Adrian Sampson|R|Omar Narvaez|L|Walk|C|Sinker|8|3|0|0|11|92
+Adrian Sampson|R|Omar Narvaez|L|Walk|F|Changeup|9|3|1|0|11|87
+Adrian Sampson|R|Omar Narvaez|L|Walk|F|Sinker|10|3|2|0|11|93
+Adrian Sampson|R|Omar Narvaez|L|Walk|F|Changeup|11|3|2|0|5|88
+Adrian Sampson|R|Omar Narvaez|L|Walk|F|Sinker|12|3|2|0|1|93
+Adrian Sampson|R|Omar Narvaez|L|Walk|F|Slider|13|3|2|0|8|83
+Adrian Sampson|R|Omar Narvaez|L|Walk|B|Sinker|14|3|2|0|11|93
+Adrian Sampson|R|Jay Bruce|L|Flyout|B|Sinker|15|0|0|0|11|93
+Adrian Sampson|R|Jay Bruce|L|Flyout|B|Changeup|16|1|0|0|11|88
+Adrian Sampson|R|Jay Bruce|L|Flyout|F|Sinker|17|2|0|0|5|93
+Adrian Sampson|R|Jay Bruce|L|Flyout|F|Sinker|18|2|1|0|2|93
+Adrian Sampson|R|Jay Bruce|L|Flyout|F|Slider|19|2|2|0|7|84
+Adrian Sampson|R|Jay Bruce|L|Flyout|X|Changeup|20|2|2|0|13|88
+Adrian Sampson|R|J.P. Crawford|L|Lineout|X|Sinker|21|0|0|1|13|92
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|C|Sinker|22|0|0|2|8|92
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|*B|Changeup|23|0|1|2|14|87
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|B|Sinker|24|1|1|2|11|92
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|S|Changeup|25|2|1|2|5|87
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|F|Changeup|26|2|2|2|7|89
+Adrian Sampson|R|Shed Long Jr.|L|Strikeout|C|Sinker|27|2|2|2|12|93
+Adrian Sampson|R|Mallex Smith|L|Pop Out|B|Sinker|28|0|0|0|14|92
+Adrian Sampson|R|Mallex Smith|L|Pop Out|X|Sinker|29|1|0|0|9|92
+Adrian Sampson|R|Kyle Seager|L|Flyout|X|Sinker|30|0|0|1|4|92
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|C|Slider|31|0|0|2|3|81
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|X|Slider|32|0|1|2|5|83
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|B|Sinker|33|0|0|0|3|90
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|B|Slider|34|1|0|0|11|81
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|S|Sinker|35|2|0|0|1|91
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|S|Sinker|36|2|1|0|11|92
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|B|Changeup|37|2|2|0|13|88
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|S|Sinker|38|3|2|0|14|92
+Adrian Sampson|R|Domingo Santana|R|Flyout|B|Sinker|39|0|0|1|14|92
+Adrian Sampson|R|Domingo Santana|R|Flyout|B|Slider|40|1|0|1|14|84
+Adrian Sampson|R|Domingo Santana|R|Flyout|C|Sinker|41|2|0|1|12|92
+Adrian Sampson|R|Domingo Santana|R|Flyout|X|Sinker|42|2|1|1|4|92
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|B|Sinker|43|0|0|2|12|93
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|C|Sinker|44|1|0|2|11|92
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|B|Sinker|45|1|1|2|11|93
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|S|Slider|46|2|1|2|14|83
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|S|Slider|47|2|2|2|14|83
+Adrian Sampson|R|Jay Bruce|L|Single|B|Sinker|48|0|0|0|11|90
+Adrian Sampson|R|Jay Bruce|L|Single|F|Sinker|49|1|0|0|11|90
+Adrian Sampson|R|Jay Bruce|L|Single|B|Slider|50|1|1|0|13|81
+Adrian Sampson|R|Jay Bruce|L|Single|F|Changeup|51|2|1|0|11|85
+Adrian Sampson|R|Jay Bruce|L|Single|B|Sinker|52|2|2|0|14|90
+Adrian Sampson|R|Jay Bruce|L|Single|D|Sinker|53|3|2|0|6|91
+Adrian Sampson|R|J.P. Crawford|L|Double|B|Sinker|54|0|0|0|11|91
+Adrian Sampson|R|J.P. Crawford|L|Double|B|Sinker|55|1|0|0|11|92
+Adrian Sampson|R|J.P. Crawford|L|Double|D|Sinker|56|2|0|0|9|91
+Adrian Sampson|R|Shed Long Jr.|L|Pop Out|B|Changeup|57|0|0|0|14|87
+Adrian Sampson|R|Shed Long Jr.|L|Pop Out|B|Sinker|58|1|0|0|14|92
+Adrian Sampson|R|Shed Long Jr.|L|Pop Out|F|Sinker|59|2|0|0|8|93
+Adrian Sampson|R|Shed Long Jr.|L|Pop Out|X|Sinker|60|2|1|0|5|93
+Adrian Sampson|R|Mallex Smith|L|Double|B|Slider|61|0|0|1|14|83
+Adrian Sampson|R|Mallex Smith|L|Double|E|Sinker|62|1|0|1|8|92
+Adrian Sampson|R|Kyle Seager|L|Flyout|F|Changeup|63|0|0|1|7|85
+Adrian Sampson|R|Kyle Seager|L|Flyout|X|Changeup|64|0|1|1|8|88
+Adrian Sampson|R|Edwin Encarnacion|R|Strikeout|S|Sinker|65|0|0|2|2|93
+Adrian Sampson|R|Edwin Encarnacion|R|Strikeout|F|Sinker|66|0|1|2|11|93
+Adrian Sampson|R|Edwin Encarnacion|R|Strikeout|F|Sinker|67|0|2|2|9|93
+Adrian Sampson|R|Edwin Encarnacion|R|Strikeout|W|Slider|68|0|2|2|14|84
+Adrian Sampson|R|Daniel Vogelbach|L|Single|F|Sinker|69|0|0|0|1|90
+Adrian Sampson|R|Daniel Vogelbach|L|Single|B|Sinker|70|0|1|0|12|91
+Adrian Sampson|R|Daniel Vogelbach|L|Single|D|Changeup|71|1|1|0|13|85
+Adrian Sampson|R|Domingo Santana|R|Strikeout|F|Sinker|72|0|0|0|13|91
+Adrian Sampson|R|Domingo Santana|R|Strikeout|C|Slider|73|0|1|0|2|81
+Adrian Sampson|R|Domingo Santana|R|Strikeout|B|Sinker|74|0|2|0|12|92
+Adrian Sampson|R|Domingo Santana|R|Strikeout|S|Slider|75|1|2|0|14|83
+Adrian Sampson|R|Omar Narvaez|L|Single|C|Slider|76|0|0|1|7|82
+Adrian Sampson|R|Omar Narvaez|L|Single|B|Slider|77|0|1|1|13|82
+Adrian Sampson|R|Omar Narvaez|L|Single|D|Sinker|78|1|1|1|2|92
+Adrian Sampson|R|Jay Bruce|L|Strikeout|F|Changeup|79|0|0|1|4|87
+Adrian Sampson|R|Jay Bruce|L|Strikeout|B|Sinker|80|0|1|1|3|92
+Adrian Sampson|R|Jay Bruce|L|Strikeout|S|Slider|81|1|1|1|14|83
+Adrian Sampson|R|Jay Bruce|L|Strikeout|*B|Slider|82|1|2|1|14|82
+Adrian Sampson|R|Jay Bruce|L|Strikeout|S|Slider|83|2|2|1|13|81
+Adrian Sampson|R|J.P. Crawford|L|Single|B|Sinker|84|0|0|2|14|91
+Adrian Sampson|R|J.P. Crawford|L|Single|C|Slider|85|1|0|2|7|81
+Adrian Sampson|R|J.P. Crawford|L|Single|E|Slider|86|1|1|2|8|82
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|C|Sinker|87|0|0|2|9|91
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|*B|Changeup|88|0|1|2|14|86
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|F|Sinker|89|1|1|2|5|92
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|X|Slider|90|1|2|2|5|82
+Adrian Sampson|R|Mallex Smith|L|Single|B|Sinker|91|0|0|0|12|91
+Adrian Sampson|R|Mallex Smith|L|Single|B|Sinker|92|1|0|0|14|92
+Adrian Sampson|R|Mallex Smith|L|Single|B|Sinker|93|2|0|0|12|92
+Adrian Sampson|R|Mallex Smith|L|Single|C|Sinker|94|3|0|0|8|92
+Adrian Sampson|R|Mallex Smith|L|Single|C|Sinker|95|3|1|0|7|92
+Adrian Sampson|R|Mallex Smith|L|Single|D|Sinker|96|3|2|0|9|93
+Adrian Sampson|R|Mallex Smith|L|Strikeout|B|Sinker|0|0|0|0|11|91
+Adrian Sampson|R|Mallex Smith|L|Strikeout|F|Sinker|1|1|0|0|11|91
+Adrian Sampson|R|Mallex Smith|L|Strikeout|C|Sinker|2|1|1|0|6|92
+Adrian Sampson|R|Mallex Smith|L|Strikeout|B|Changeup|3|1|2|0|14|88
+Adrian Sampson|R|Mallex Smith|L|Strikeout|S|Slider|4|2|2|0|14|84
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|B|Slider|5|0|0|1|14|83
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|B|Sinker|6|1|0|1|12|93
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|B|Sinker|7|2|0|1|13|92
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|C|Sinker|8|3|0|1|12|91
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|F|Sinker|9|3|1|1|5|93
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|F|Sinker|10|3|2|1|11|94
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|F|Slider|11|3|2|1|6|84
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|X|Sinker|12|3|2|1|5|94
+Adrian Sampson|R|Domingo Santana|R|Groundout|B|Slider|13|0|0|2|14|84
+Adrian Sampson|R|Domingo Santana|R|Groundout|B|Slider|14|1|0|2|14|84
+Adrian Sampson|R|Domingo Santana|R|Groundout|F|Sinker|15|2|0|2|5|93
+Adrian Sampson|R|Domingo Santana|R|Groundout|B|Sinker|16|2|1|2|13|93
+Adrian Sampson|R|Domingo Santana|R|Groundout|C|Sinker|17|3|1|2|9|93
+Adrian Sampson|R|Domingo Santana|R|Groundout|X|Slider|18|3|2|2|14|84
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|B|Sinker|19|0|0|0|11|91
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|B|Sinker|20|1|0|0|11|91
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|S|Sinker|21|2|0|0|11|91
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|F|Changeup|22|2|1|0|7|86
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|F|Sinker|23|2|2|0|7|92
+Adrian Sampson|R|Daniel Vogelbach|L|Strikeout|S|Slider|24|2|2|0|13|84
+Adrian Sampson|R|Omar Narvaez|L|Single|C|Slider|25|0|0|1|13|83
+Adrian Sampson|R|Omar Narvaez|L|Single|D|Changeup|26|0|1|1|11|87
+Adrian Sampson|R|Tim Beckham|R|Walk|S|Slider|27|0|0|1|14|84
+Adrian Sampson|R|Tim Beckham|R|Walk|B|Sinker|28|0|1|1|11|92
+Adrian Sampson|R|Tim Beckham|R|Walk|*B|Slider|29|1|1|1|14|84
+Adrian Sampson|R|Tim Beckham|R|Walk|*B|Slider|30|2|1|1|14|84
+Adrian Sampson|R|Tim Beckham|R|Walk|C|Sinker|31|3|1|1|8|92
+Adrian Sampson|R|Tim Beckham|R|Walk|F|Sinker|32|3|2|1|13|92
+Adrian Sampson|R|Tim Beckham|R|Walk|*B|Slider|33|3|2|1|14|82
+Adrian Sampson|R|Kyle Seager|L|Flyout|B|Sinker|34|0|0|1|13|92
+Adrian Sampson|R|Kyle Seager|L|Flyout|X|Sinker|35|1|0|1|7|92
+Adrian Sampson|R|Austin Nola|R|Home Run|E|Slider|36|0|0|2|5|83
+Adrian Sampson|R|Dee Gordon|L|Single|F|Sinker|37|0|0|2|5|92
+Adrian Sampson|R|Dee Gordon|L|Single|D|Sinker|38|0|1|2|4|93
+Adrian Sampson|R|Mallex Smith|L|Lineout|*B|Changeup|39|0|0|2|13|87
+Adrian Sampson|R|Mallex Smith|L|Lineout|*B|Sinker|40|1|0|2|14|92
+Adrian Sampson|R|Mallex Smith|L|Lineout|X|Sinker|41|2|0|2|13|93
+Adrian Sampson|R|J.P. Crawford|L|Double|B|Sinker|42|0|0|0|14|92
+Adrian Sampson|R|J.P. Crawford|L|Double|B|Sinker|43|1|0|0|11|93
+Adrian Sampson|R|J.P. Crawford|L|Double|F|Sinker|44|2|0|0|14|91
+Adrian Sampson|R|J.P. Crawford|L|Double|D|Slider|45|2|1|0|8|83
+Adrian Sampson|R|Domingo Santana|R|Strikeout|B|Sinker|46|0|0|0|11|92
+Adrian Sampson|R|Domingo Santana|R|Strikeout|F|Slider|47|1|0|0|6|84
+Adrian Sampson|R|Domingo Santana|R|Strikeout|F|Sinker|48|1|1|0|4|93
+Adrian Sampson|R|Domingo Santana|R|Strikeout|T|Sinker|49|1|2|0|13|92
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|B|Sinker|50|0|0|1|11|93
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|B|Slider|51|1|0|1|13|84
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|B|Changeup|52|2|0|1|11|87
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|F|Sinker|53|3|0|1|4|92
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|C|Changeup|54|3|1|1|7|88
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|X|Changeup|55|3|2|1|11|89
+Adrian Sampson|R|Omar Narvaez|L|Pop Out|X|Changeup|56|0|0|2|4|88
+Adrian Sampson|R|Tim Beckham|R|Double|C|Sinker|57|0|0|0|13|91
+Adrian Sampson|R|Tim Beckham|R|Double|D|Sinker|58|0|1|0|7|92
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Slider|59|0|0|0|11|83
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Changeup|60|1|0|0|11|87
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|61|2|0|0|11|91
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|62|3|0|0|11|92
+Adrian Sampson|R|Austin Nola|R|Pop Out|X|Sinker|63|0|0|0|11|92
+Adrian Sampson|R|Dylan Moore|R|Single|B|Sinker|64|0|0|1|11|92
+Adrian Sampson|R|Dylan Moore|R|Single|D|Slider|65|1|0|1|9|84
+Adrian Sampson|R|Mallex Smith|L|Single|B|Changeup|66|0|0|1|11|88
+Adrian Sampson|R|Mallex Smith|L|Single|C|Sinker|67|1|0|1|8|92
+Adrian Sampson|R|Mallex Smith|L|Single|F|Changeup|68|1|1|1|7|87
+Adrian Sampson|R|Mallex Smith|L|Single|*B|Slider|69|1|2|1|14|84
+Adrian Sampson|R|Mallex Smith|L|Single|E|Changeup|70|2|2|1|6|88
+Adrian Sampson|R|J.P. Crawford|L|Pop Out|X|Slider|71|0|0|1|5|83
+Adrian Sampson|R|Domingo Santana|R|Forceout|B|Sinker|72|0|0|2|13|93
+Adrian Sampson|R|Domingo Santana|R|Forceout|X|Slider|73|1|0|2|8|83
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|B|Slider|74|0|0|0|11|82
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|F|Sinker|75|1|0|0|11|91
+Adrian Sampson|R|Daniel Vogelbach|L|Groundout|X|Changeup|76|1|1|0|13|84
+Adrian Sampson|R|Omar Narvaez|L|Flyout|C|Slider|77|0|0|1|7|83
+Adrian Sampson|R|Omar Narvaez|L|Flyout|X|Sinker|78|0|1|1|2|92
+Adrian Sampson|R|Tim Beckham|R|Strikeout|S|Slider|79|0|0|2|14|83
+Adrian Sampson|R|Tim Beckham|R|Strikeout|C|Sinker|80|0|1|2|1|93
+Adrian Sampson|R|Tim Beckham|R|Strikeout|B|Slider|81|0|2|2|14|82
+Adrian Sampson|R|Tim Beckham|R|Strikeout|C|Sinker|82|1|2|2|2|93
+Adrian Sampson|R|Kyle Seager|L|Groundout|F|Sinker|83|0|0|0|2|91
+Adrian Sampson|R|Kyle Seager|L|Groundout|B|Slider|84|0|1|0|14|85
+Adrian Sampson|R|Kyle Seager|L|Groundout|X|Slider|85|1|1|0|5|84
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|B|Sinker|86|0|0|1|13|92
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|C|Sinker|87|1|0|1|14|92
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|C|Slider|88|1|1|1|9|84
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|B|Sinker|89|1|2|1|12|92
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|B|Sinker|90|2|2|1|13|92
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|F|Sinker|91|3|2|1|6|92
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|F|Sinker|92|3|2|1|6|93
+Adrian Sampson|R|Austin Nola|R|Hit By Pitch|H|Slider|93|3|2|1|11|87
+Adrian Sampson|R|Dylan Moore|R|Single|D|Sinker|94|0|0|1|4|92
+Adrian Sampson|R|Austin Meadows|L|Strikeout|B|Sinker|0|0|0|0|11|90
+Adrian Sampson|R|Austin Meadows|L|Strikeout|B|Sinker|1|1|0|0|13|90
+Adrian Sampson|R|Austin Meadows|L|Strikeout|F|Sinker|2|2|0|0|1|90
+Adrian Sampson|R|Austin Meadows|L|Strikeout|B|Slider|3|2|1|0|11|81
+Adrian Sampson|R|Austin Meadows|L|Strikeout|F|Sinker|4|3|1|0|11|92
+Adrian Sampson|R|Austin Meadows|L|Strikeout|W|Slider|5|3|2|0|14|84
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|F|Slider|6|0|0|1|13|83
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|B|Sinker|7|0|1|1|14|91
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|F|Sinker|8|1|1|1|5|92
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|B|Sinker|9|1|2|1|12|93
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|B|Slider|10|2|2|1|14|84
+Adrian Sampson|R|Kevin Kiermaier|L|Walk|B|Sinker|11|3|2|1|11|92
+Adrian Sampson|R|Tommy Pham|R|Lineout|X|Sinker|12|0|0|1|4|91
+Adrian Sampson|R|Ji-Man Choi|L|Strikeout|F|Sinker|13|0|0|2|11|91
+Adrian Sampson|R|Ji-Man Choi|L|Strikeout|S|Changeup|14|0|1|2|13|87
+Adrian Sampson|R|Ji-Man Choi|L|Strikeout|F|Sinker|15|0|2|2|4|92
+Adrian Sampson|R|Ji-Man Choi|L|Strikeout|S|Slider|16|0|2|2|14|82
+Adrian Sampson|R|Yandy Diaz|R|Double|D|Sinker|17|0|0|0|5|89
+Adrian Sampson|R|Joey Wendle|L|Double|C|Sinker|18|0|0|0|14|90
+Adrian Sampson|R|Joey Wendle|L|Double|B|Sinker|19|0|1|0|12|91
+Adrian Sampson|R|Joey Wendle|L|Double|T|Slider|20|1|1|0|14|82
+Adrian Sampson|R|Joey Wendle|L|Double|B|Sinker|21|1|2|0|14|92
+Adrian Sampson|R|Joey Wendle|L|Double|*B|Slider|22|2|2|0|14|82
+Adrian Sampson|R|Joey Wendle|L|Double|E|Slider|23|3|2|0|9|83
+Adrian Sampson|R|Avisail Garcia|R|Home Run|B|Sinker|24|0|0|0|14|91
+Adrian Sampson|R|Avisail Garcia|R|Home Run|B|Sinker|25|1|0|0|13|91
+Adrian Sampson|R|Avisail Garcia|R|Home Run|F|Sinker|26|2|0|0|6|92
+Adrian Sampson|R|Avisail Garcia|R|Home Run|B|Slider|27|2|1|0|14|82
+Adrian Sampson|R|Avisail Garcia|R|Home Run|E|Slider|28|3|1|0|3|83
+Adrian Sampson|R|Willy Adames|R|Groundout|F|Sinker|29|0|0|0|6|92
+Adrian Sampson|R|Willy Adames|R|Groundout|F|Sinker|30|0|1|0|8|92
+Adrian Sampson|R|Willy Adames|R|Groundout|X|Slider|31|0|2|0|5|81
+Adrian Sampson|R|Travis d'Arnaud|R|Single|D|Sinker|32|0|0|1|3|91
+Adrian Sampson|R|Austin Meadows|L|Flyout|X|Sinker|33|0|0|1|5|91
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|F|Changeup|34|0|0|2|5|86
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|B|Sinker|35|0|1|2|12|91
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|F|Sinker|36|1|1|2|6|91
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|F|Slider|37|1|2|2|14|82
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|F|Slider|38|1|2|2|2|83
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|S|Sinker|39|1|2|2|12|93
+Adrian Sampson|R|Tommy Pham|R|Strikeout|C|Sinker|40|0|0|0|3|90
+Adrian Sampson|R|Tommy Pham|R|Strikeout|C|Slider|41|0|1|0|7|81
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|42|0|2|0|12|90
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|43|1|2|0|11|91
+Adrian Sampson|R|Tommy Pham|R|Strikeout|F|Slider|44|2|2|0|5|82
+Adrian Sampson|R|Tommy Pham|R|Strikeout|F|Slider|45|2|2|0|9|82
+Adrian Sampson|R|Tommy Pham|R|Strikeout|S|Slider|46|2|2|0|14|83
+Adrian Sampson|R|Ji-Man Choi|L|Groundout|B|Slider|47|0|0|1|14|83
+Adrian Sampson|R|Ji-Man Choi|L|Groundout|X|Sinker|48|1|0|1|6|92
+Adrian Sampson|R|Yandy Diaz|R|Single|C|Sinker|49|0|0|2|8|93
+Adrian Sampson|R|Yandy Diaz|R|Single|B|Sinker|50|0|1|2|13|93
+Adrian Sampson|R|Yandy Diaz|R|Single|B|Sinker|51|1|1|2|13|91
+Adrian Sampson|R|Yandy Diaz|R|Single|B|Slider|52|2|1|2|14|82
+Adrian Sampson|R|Yandy Diaz|R|Single|C|Sinker|53|3|1|2|3|92
+Adrian Sampson|R|Yandy Diaz|R|Single|D|Slider|54|3|2|2|6|83
+Adrian Sampson|R|Joey Wendle|L|Groundout|C|Sinker|55|0|0|2|11|91
+Adrian Sampson|R|Joey Wendle|L|Groundout|F|Slider|56|0|1|2|8|81
+Adrian Sampson|R|Joey Wendle|L|Groundout|X|Sinker|57|0|2|2|4|91
+Adrian Sampson|R|Avisail Garcia|R|Flyout|X|Slider|58|0|0|0|14|82
+Adrian Sampson|R|Willy Adames|R|Flyout|C|Slider|59|0|0|1|14|83
+Adrian Sampson|R|Willy Adames|R|Flyout|B|Sinker|60|0|1|1|14|90
+Adrian Sampson|R|Willy Adames|R|Flyout|B|Slider|61|1|1|1|14|82
+Adrian Sampson|R|Willy Adames|R|Flyout|X|Sinker|62|2|1|1|2|91
+Adrian Sampson|R|Travis d'Arnaud|R|Strikeout|F|Sinker|63|0|0|2|2|92
+Adrian Sampson|R|Travis d'Arnaud|R|Strikeout|B|Slider|64|0|1|2|14|83
+Adrian Sampson|R|Travis d'Arnaud|R|Strikeout|F|Slider|65|1|1|2|8|84
+Adrian Sampson|R|Travis d'Arnaud|R|Strikeout|B|Sinker|66|1|2|2|11|91
+Adrian Sampson|R|Travis d'Arnaud|R|Strikeout|T|Sinker|67|2|2|2|3|91
+Adrian Sampson|R|Austin Meadows|L|Flyout|C|Changeup|68|0|0|0|13|84
+Adrian Sampson|R|Austin Meadows|L|Flyout|X|Sinker|69|0|1|0|13|90
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|B|Slider|70|0|0|1|14|80
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|S|Changeup|71|1|0|1|13|84
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|S|Sinker|72|1|1|1|12|91
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|F|Slider|73|1|2|1|14|80
+Adrian Sampson|R|Kevin Kiermaier|L|Strikeout|S|Changeup|74|1|2|1|13|86
+Adrian Sampson|R|Tommy Pham|R|Strikeout|C|Slider|75|0|0|2|4|80
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|76|0|1|2|12|90
+Adrian Sampson|R|Tommy Pham|R|Strikeout|S|Slider|77|1|1|2|14|81
+Adrian Sampson|R|Tommy Pham|R|Strikeout|B|Sinker|78|1|2|2|13|91
+Adrian Sampson|R|Tommy Pham|R|Strikeout|C|Slider|79|2|2|2|9|81
+Adrian Sampson|R|Ji-Man Choi|L|Walk|F|Changeup|80|0|0|0|7|83
+Adrian Sampson|R|Ji-Man Choi|L|Walk|B|Slider|81|0|1|0|14|80
+Adrian Sampson|R|Ji-Man Choi|L|Walk|S|Slider|82|1|1|0|11|81
+Adrian Sampson|R|Ji-Man Choi|L|Walk|B|Changeup|83|1|2|0|13|85
+Adrian Sampson|R|Ji-Man Choi|L|Walk|B|Changeup|84|2|2|0|11|87
+Adrian Sampson|R|Ji-Man Choi|L|Walk|B|Changeup|85|3|2|0|14|85
+Adrian Sampson|R|Yandy Diaz|R|Groundout|B|Slider|86|0|0|0|11|80
+Adrian Sampson|R|Yandy Diaz|R|Groundout|F|Slider|87|1|0|0|2|82
+Adrian Sampson|R|Yandy Diaz|R|Groundout|B|Sinker|88|1|1|0|13|91
+Adrian Sampson|R|Yandy Diaz|R|Groundout|B|Changeup|89|2|1|0|11|86
+Adrian Sampson|R|Yandy Diaz|R|Groundout|C|Sinker|90|3|1|0|7|92
+Adrian Sampson|R|Yandy Diaz|R|Groundout|X|Slider|91|3|2|0|14|83
+Adrian Sampson|R|Joey Wendle|L|Groundout|B|Sinker|92|0|0|1|14|91
+Adrian Sampson|R|Joey Wendle|L|Groundout|C|Sinker|93|1|0|1|8|91
+Adrian Sampson|R|Joey Wendle|L|Groundout|S|Slider|94|1|1|1|14|82
+Adrian Sampson|R|Joey Wendle|L|Groundout|F|Sinker|95|1|2|1|12|92
+Adrian Sampson|R|Joey Wendle|L|Groundout|X|Sinker|96|1|2|1|1|92
+Adrian Sampson|R|Avisail Garcia|R|Groundout|C|Sinker|97|0|0|2|13|92
+Adrian Sampson|R|Avisail Garcia|R|Groundout|X|Sinker|98|0|1|2|11|91
+Adrian Sampson|R|Robinson Chirinos|R|Flyout|C|Sinker|0|0|0|0|13|93
+Adrian Sampson|R|Robinson Chirinos|R|Flyout|B|Sinker|1|0|1|0|12|94
+Adrian Sampson|R|Robinson Chirinos|R|Flyout|S|Slider|2|1|1|0|14|86
+Adrian Sampson|R|Robinson Chirinos|R|Flyout|B|Slider|3|1|2|0|14|87
+Adrian Sampson|R|Robinson Chirinos|R|Flyout|X|Sinker|4|2|2|0|9|93
+Adrian Sampson|R|Tyler White|R|Groundout|C|Sinker|5|0|0|1|6|93
+Adrian Sampson|R|Tyler White|R|Groundout|F|Sinker|6|0|1|1|6|94
+Adrian Sampson|R|Tyler White|R|Groundout|B|Sinker|7|0|2|1|11|93
+Adrian Sampson|R|Tyler White|R|Groundout|X|Slider|8|1|2|1|4|84
+Adrian Sampson|R|Jake Marisnick|R|Groundout|F|Sinker|9|0|0|2|5|94
+Adrian Sampson|R|Jake Marisnick|R|Groundout|B|Sinker|10|0|1|2|13|94
+Adrian Sampson|R|Jake Marisnick|R|Groundout|X|Slider|11|1|1|2|8|87
+Adrian Sampson|R|George Springer|R|Lineout|C|Sinker|12|0|0|0|7|91
+Adrian Sampson|R|George Springer|R|Lineout|B|Sinker|13|0|1|0|11|91
+Adrian Sampson|R|George Springer|R|Lineout|C|Slider|14|1|1|0|13|83
+Adrian Sampson|R|George Springer|R|Lineout|X|Slider|15|1|2|0|2|85
+Adrian Sampson|R|Jose Altuve|R|Strikeout|F|Sinker|16|0|0|1|13|93
+Adrian Sampson|R|Jose Altuve|R|Strikeout|B|Sinker|17|0|1|1|12|94
+Adrian Sampson|R|Jose Altuve|R|Strikeout|S|Slider|18|1|1|1|14|86
+Adrian Sampson|R|Jose Altuve|R|Strikeout|B|Slider|19|1|2|1|14|83
+Adrian Sampson|R|Jose Altuve|R|Strikeout|S|Slider|20|2|2|1|14|85
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Slider|21|0|0|2|14|84
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Sinker|22|1|0|2|14|92
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Slider|23|2|0|2|14|84
+Adrian Sampson|R|Alex Bregman|R|Walk|C|Sinker|24|3|0|2|4|93
+Adrian Sampson|R|Alex Bregman|R|Walk|*B|Sinker|25|3|1|2|14|91
+Adrian Sampson|R|Michael Brantley|L|Flyout|X|Sinker|26|0|0|2|4|92
+Adrian Sampson|R|Carlos Correa|R|Double|B|Sinker|27|0|0|0|11|92
+Adrian Sampson|R|Carlos Correa|R|Double|D|Sinker|28|1|0|0|5|91
+Adrian Sampson|R|Yuli Gurriel|R|Groundout|C|Sinker|29|0|0|0|2|92
+Adrian Sampson|R|Yuli Gurriel|R|Groundout|X|Slider|30|0|1|0|6|83
+Adrian Sampson|R|Robinson Chirinos|R|Double|*B|Slider|31|0|0|1|13|82
+Adrian Sampson|R|Robinson Chirinos|R|Double|E|Sinker|32|1|0|1|13|92
+Adrian Sampson|R|Tyler White|R|Strikeout|C|Sinker|33|0|0|1|9|92
+Adrian Sampson|R|Tyler White|R|Strikeout|F|Sinker|34|0|1|1|8|91
+Adrian Sampson|R|Tyler White|R|Strikeout|C|Sinker|35|0|2|1|13|93
+Adrian Sampson|R|Jake Marisnick|R|Groundout|B|Sinker|36|0|0|2|14|92
+Adrian Sampson|R|Jake Marisnick|R|Groundout|W|Slider|37|1|0|2|14|83
+Adrian Sampson|R|Jake Marisnick|R|Groundout|S|Slider|38|1|1|2|13|84
+Adrian Sampson|R|Jake Marisnick|R|Groundout|*B|Slider|39|1|2|2|14|83
+Adrian Sampson|R|Jake Marisnick|R|Groundout|X|Slider|40|2|2|2|14|85
+Adrian Sampson|R|George Springer|R|Pop Out|C|Sinker|41|0|0|0|11|92
+Adrian Sampson|R|George Springer|R|Pop Out|B|Sinker|42|0|1|0|14|91
+Adrian Sampson|R|George Springer|R|Pop Out|X|Slider|43|1|1|0|7|83
+Adrian Sampson|R|Jose Altuve|R|Groundout|X|Sinker|44|0|0|1|13|92
+Adrian Sampson|R|Alex Bregman|R|Walk|C|Sinker|45|0|0|2|1|92
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Sinker|46|0|1|2|13|92
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Slider|47|1|1|2|11|84
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Slider|48|2|1|2|14|86
+Adrian Sampson|R|Alex Bregman|R|Walk|C|Sinker|49|3|1|2|11|92
+Adrian Sampson|R|Alex Bregman|R|Walk|*B|Sinker|50|3|2|2|13|92
+Adrian Sampson|R|Michael Brantley|L|Pickoff 1B|B|Sinker|51|0|0|2|11|92
+Adrian Sampson|R|Michael Brantley|L|Groundout|B|Sinker|52|0|0|2|11|90
+Adrian Sampson|R|Michael Brantley|L|Groundout|F|Slider|53|1|0|2|8|80
+Adrian Sampson|R|Michael Brantley|L|Groundout|B|Changeup|54|1|1|2|11|86
+Adrian Sampson|R|Michael Brantley|L|Groundout|X|Changeup|55|2|1|2|13|84
+Adrian Sampson|R|Carlos Correa|R|Single|D|Slider|56|0|0|0|9|81
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|X|Slider|57|0|0|0|6|84
+Adrian Sampson|R|Robinson Chirinos|R|Groundout|*B|Slider|58|0|0|1|14|83
+Adrian Sampson|R|Robinson Chirinos|R|Groundout|S|Sinker|59|1|0|1|6|92
+Adrian Sampson|R|Robinson Chirinos|R|Groundout|X|Slider|60|1|1|1|5|83
+Adrian Sampson|R|Tony Kemp|L|Groundout|C|Sinker|61|0|0|2|9|90
+Adrian Sampson|R|Tony Kemp|L|Groundout|X|Sinker|62|0|1|2|11|90
+Adrian Sampson|R|Jake Marisnick|R|Single|B|Slider|63|0|0|0|14|82
+Adrian Sampson|R|Jake Marisnick|R|Single|S|Sinker|64|1|0|0|13|91
+Adrian Sampson|R|Jake Marisnick|R|Single|B|Slider|65|1|1|0|14|85
+Adrian Sampson|R|Jake Marisnick|R|Single|D|Sinker|66|2|1|0|4|91
+Adrian Sampson|R|George Springer|R|Strikeout|C|Sinker|67|0|0|0|8|91
+Adrian Sampson|R|George Springer|R|Strikeout|S|Sinker|68|0|1|0|11|91
+Adrian Sampson|R|George Springer|R|Strikeout|S|Sinker|69|0|2|0|14|93
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|C|Sinker|0|0|0|0|12|92
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|C|Sinker|1|0|1|0|12|92
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|F|Sinker|2|0|2|0|3|92
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|B|Sinker|3|0|2|0|12|92
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|S|Slider|4|1|2|0|14|82
+Adrian Sampson|R|Marcus Semien|R|Single|C|Slider|5|0|0|1|8|83
+Adrian Sampson|R|Marcus Semien|R|Single|B|Sinker|6|0|1|1|11|91
+Adrian Sampson|R|Marcus Semien|R|Single|D|Slider|7|1|1|1|8|83
+Adrian Sampson|R|Matt Chapman|R|Flyout|C|Sinker|8|0|0|1|11|92
+Adrian Sampson|R|Matt Chapman|R|Flyout|*B|Slider|9|0|1|1|14|84
+Adrian Sampson|R|Matt Chapman|R|Flyout|B|Sinker|10|1|1|1|11|92
+Adrian Sampson|R|Matt Chapman|R|Flyout|F|Sinker|11|2|1|1|1|92
+Adrian Sampson|R|Matt Chapman|R|Flyout|X|Sinker|12|2|2|1|13|92
+Adrian Sampson|R|Khris Davis|R|Double|B|Sinker|13|0|0|2|11|92
+Adrian Sampson|R|Khris Davis|R|Double|S|Slider|14|1|0|2|7|83
+Adrian Sampson|R|Khris Davis|R|Double|E|Sinker|15|1|1|2|3|92
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|B|Changeup|16|0|0|2|11|86
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|B|Slider|17|1|0|2|11|82
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|F|Sinker|18|2|0|2|11|93
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|B|Sinker|19|2|1|2|2|93
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|S|Changeup|20|3|1|2|13|87
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|F|Slider|21|3|2|2|9|84
+Adrian Sampson|R|Kendrys Morales|L|Pop Out|X|Sinker|22|3|2|2|2|93
+Adrian Sampson|R|Stephen Piscotty|R|Home Run|C|Sinker|23|0|0|0|3|92
+Adrian Sampson|R|Stephen Piscotty|R|Home Run|B|Sinker|24|0|1|0|14|93
+Adrian Sampson|R|Stephen Piscotty|R|Home Run|E|Slider|25|1|1|0|7|83
+Adrian Sampson|R|Jurickson Profar|L|Pop Out|X|Sinker|26|0|0|0|12|93
+Adrian Sampson|R|Ramon Laureano|R|Strikeout|B|Slider|27|0|0|1|14|84
+Adrian Sampson|R|Ramon Laureano|R|Strikeout|C|Sinker|28|1|0|1|8|93
+Adrian Sampson|R|Ramon Laureano|R|Strikeout|B|Sinker|29|1|1|1|13|92
+Adrian Sampson|R|Ramon Laureano|R|Strikeout|S|Slider|30|2|1|1|14|86
+Adrian Sampson|R|Ramon Laureano|R|Strikeout|S|Slider|31|2|2|1|14|85
+Adrian Sampson|R|Josh Phegley|R|Strikeout|C|Sinker|32|0|0|2|12|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|F|Sinker|33|0|1|2|1|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|B|Sinker|34|0|2|2|11|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|B|Sinker|35|1|2|2|11|93
+Adrian Sampson|R|Josh Phegley|R|Strikeout|S|Slider|36|2|2|2|9|86
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|37|0|0|0|14|93
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|38|1|0|0|12|92
+Adrian Sampson|R|Robbie Grossman|L|Walk|C|Sinker|39|2|0|0|8|93
+Adrian Sampson|R|Robbie Grossman|L|Walk|F|Changeup|40|2|1|0|13|88
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|41|2|2|0|12|93
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|42|3|2|0|11|94
+Adrian Sampson|R|Marcus Semien|R|Grounded Into DP|F|Sinker|43|0|0|0|4|93
+Adrian Sampson|R|Marcus Semien|R|Grounded Into DP|B|Sinker|44|0|1|0|11|93
+Adrian Sampson|R|Marcus Semien|R|Grounded Into DP|C|Slider|45|1|1|0|14|83
+Adrian Sampson|R|Marcus Semien|R|Grounded Into DP|X|Slider|46|1|2|0|14|84
+Adrian Sampson|R|Matt Chapman|R|Home Run|E|Sinker|47|0|0|2|1|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|C|Sinker|48|0|0|2|12|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|S|Sinker|49|0|1|2|11|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|B|Sinker|50|0|2|2|14|90
+Adrian Sampson|R|Khris Davis|R|Strikeout|S|Sinker|51|1|2|2|11|94
+Adrian Sampson|R|Kendrys Morales|L|Lineout|B|Changeup|52|0|0|0|13|88
+Adrian Sampson|R|Kendrys Morales|L|Lineout|B|Changeup|53|1|0|0|11|87
+Adrian Sampson|R|Kendrys Morales|L|Lineout|B|Sinker|54|2|0|0|11|93
+Adrian Sampson|R|Kendrys Morales|L|Lineout|C|Sinker|55|3|0|0|1|93
+Adrian Sampson|R|Kendrys Morales|L|Lineout|F|Sinker|56|3|1|0|2|93
+Adrian Sampson|R|Kendrys Morales|L|Lineout|F|Sinker|57|3|2|0|13|93
+Adrian Sampson|R|Kendrys Morales|L|Lineout|F|Changeup|58|3|2|0|13|89
+Adrian Sampson|R|Kendrys Morales|L|Lineout|X|Sinker|59|3|2|0|11|94
+Adrian Sampson|R|Stephen Piscotty|R|Groundout|X|Slider|60|0|0|1|5|85
+Adrian Sampson|R|Jurickson Profar|L|Walk|B|Sinker|61|0|0|2|12|94
+Adrian Sampson|R|Jurickson Profar|L|Walk|B|Slider|62|1|0|2|14|84
+Adrian Sampson|R|Jurickson Profar|L|Walk|B|Sinker|63|2|0|2|11|93
+Adrian Sampson|R|Jurickson Profar|L|Walk|B|Sinker|64|3|0|2|11|93
+Adrian Sampson|R|Ramon Laureano|R|Single|B|Sinker|65|0|0|2|11|93
+Adrian Sampson|R|Ramon Laureano|R|Single|B|Sinker|66|1|0|2|11|93
+Adrian Sampson|R|Ramon Laureano|R|Single|D|Sinker|67|2|0|2|2|93
+Adrian Sampson|R|Josh Phegley|R|Single|F|Slider|68|0|0|2|8|83
+Adrian Sampson|R|Josh Phegley|R|Single|E|Sinker|69|0|1|2|1|93
+Adrian Sampson|R|Robbie Grossman|L|Single|E|Sinker|70|0|0|2|9|93
+Adrian Sampson|R|Marcus Semien|R|Double|S|Slider|71|0|0|2|14|85
+Adrian Sampson|R|Marcus Semien|R|Double|E|Slider|72|0|1|2|8|86
+Adrian Sampson|R|Matt Chapman|R|Groundout|C|Sinker|73|0|0|2|14|93
+Adrian Sampson|R|Matt Chapman|R|Groundout|F|Slider|74|0|1|2|5|86
+Adrian Sampson|R|Matt Chapman|R|Groundout|*B|Slider|75|0|2|2|14|87
+Adrian Sampson|R|Matt Chapman|R|Groundout|B|Sinker|76|1|2|2|12|93
+Adrian Sampson|R|Matt Chapman|R|Groundout|X|Slider|77|2|2|2|9|86
+Adrian Sampson|R|George Springer|R|Groundout|B|Sinker|0|0|0|0|1|92
+Adrian Sampson|R|George Springer|R|Groundout|X|Sinker|1|1|0|0|4|92
+Adrian Sampson|R|Jose Altuve|R|Flyout|X|Sinker|2|0|0|1|7|93
+Adrian Sampson|R|Alex Bregman|R|Double|C|Sinker|3|0|0|2|8|92
+Adrian Sampson|R|Alex Bregman|R|Double|B|Slider|4|0|1|2|13|84
+Adrian Sampson|R|Alex Bregman|R|Double|C|Sinker|5|1|1|2|13|93
+Adrian Sampson|R|Alex Bregman|R|Double|B|Slider|6|1|2|2|14|84
+Adrian Sampson|R|Alex Bregman|R|Double|B|Slider|7|2|2|2|14|84
+Adrian Sampson|R|Alex Bregman|R|Double|D|Sinker|8|3|2|2|9|94
+Adrian Sampson|R|Michael Brantley|L|Groundout|C|Sinker|9|0|0|2|7|94
+Adrian Sampson|R|Michael Brantley|L|Groundout|B|Sinker|10|0|1|2|14|93
+Adrian Sampson|R|Michael Brantley|L|Groundout|X|Changeup|11|1|1|2|11|88
+Adrian Sampson|R|Carlos Correa|R|Double|C|Sinker|12|0|0|0|9|92
+Adrian Sampson|R|Carlos Correa|R|Double|D|Slider|13|0|1|0|7|82
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|C|Sinker|14|0|0|0|6|93
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|B|Sinker|15|0|1|0|14|93
+Adrian Sampson|R|Yuli Gurriel|R|Flyout|X|Sinker|16|1|1|0|7|93
+Adrian Sampson|R|Josh Reddick|L|Strikeout|B|Sinker|17|0|0|1|11|93
+Adrian Sampson|R|Josh Reddick|L|Strikeout|B|Sinker|18|1|0|1|11|92
+Adrian Sampson|R|Josh Reddick|L|Strikeout|T|Sinker|19|2|0|1|4|93
+Adrian Sampson|R|Josh Reddick|L|Strikeout|F|Sinker|20|2|1|1|6|93
+Adrian Sampson|R|Josh Reddick|L|Strikeout|S|Slider|21|2|2|1|13|83
+Adrian Sampson|R|Max Stassi|R|Groundout|X|Sinker|22|0|0|2|7|93
+Adrian Sampson|R|Jake Marisnick|R|Strikeout|C|Sinker|23|0|0|0|6|92
+Adrian Sampson|R|Jake Marisnick|R|Strikeout|C|Sinker|24|0|1|0|9|91
+Adrian Sampson|R|Jake Marisnick|R|Strikeout|T|Sinker|25|0|2|0|3|92
+Adrian Sampson|R|George Springer|R|Groundout|C|Sinker|26|0|0|1|13|93
+Adrian Sampson|R|George Springer|R|Groundout|S|Sinker|27|0|1|1|8|91
+Adrian Sampson|R|George Springer|R|Groundout|X|Changeup|28|0|2|1|8|88
+Adrian Sampson|R|Jose Altuve|R|Flyout|B|Sinker|29|0|0|2|12|93
+Adrian Sampson|R|Jose Altuve|R|Flyout|B|Slider|30|1|0|2|1|84
+Adrian Sampson|R|Jose Altuve|R|Flyout|S|Sinker|31|2|0|2|9|93
+Adrian Sampson|R|Jose Altuve|R|Flyout|B|Changeup|32|2|1|2|14|88
+Adrian Sampson|R|Jose Altuve|R|Flyout|F|Sinker|33|3|1|2|4|93
+Adrian Sampson|R|Jose Altuve|R|Flyout|F|Sinker|34|3|2|2|5|94
+Adrian Sampson|R|Jose Altuve|R|Flyout|X|Sinker|35|3|2|2|8|94
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Sinker|36|0|0|0|11|91
+Adrian Sampson|R|Alex Bregman|R|Walk|C|Sinker|37|1|0|0|8|92
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Sinker|38|1|1|0|13|93
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Slider|39|2|1|0|14|85
+Adrian Sampson|R|Alex Bregman|R|Walk|B|Changeup|40|3|1|0|14|87
+Adrian Sampson|R|Michael Brantley|L|Single|B|Sinker|41|0|0|0|14|93
+Adrian Sampson|R|Michael Brantley|L|Single|C|Sinker|42|1|0|0|4|93
+Adrian Sampson|R|Michael Brantley|L|Single|D|Slider|43|1|1|0|13|84
+Adrian Sampson|R|Carlos Correa|R|Grounded Into DP|B|Sinker|44|0|0|0|13|93
+Adrian Sampson|R|Carlos Correa|R|Grounded Into DP|X|Sinker|45|1|0|0|7|93
+Adrian Sampson|R|Yuli Gurriel|R|Strikeout|B|Sinker|46|0|0|2|14|94
+Adrian Sampson|R|Yuli Gurriel|R|Strikeout|B|Sinker|47|1|0|2|13|92
+Adrian Sampson|R|Yuli Gurriel|R|Strikeout|C|Slider|48|2|0|2|4|85
+Adrian Sampson|R|Yuli Gurriel|R|Strikeout|F|Slider|49|2|1|2|13|86
+Adrian Sampson|R|Yuli Gurriel|R|Strikeout|C|Sinker|50|2|2|2|9|93
+Adrian Sampson|R|Josh Reddick|L|Single|B|Sinker|51|0|0|0|13|91
+Adrian Sampson|R|Josh Reddick|L|Single|F|Sinker|52|1|0|0|7|91
+Adrian Sampson|R|Josh Reddick|L|Single|D|Sinker|53|1|1|0|7|92
+Adrian Sampson|R|Max Stassi|R|Home Run|B|Sinker|54|0|0|0|11|92
+Adrian Sampson|R|Max Stassi|R|Home Run|S|Sinker|55|1|0|0|11|92
+Adrian Sampson|R|Max Stassi|R|Home Run|B|Sinker|56|1|1|0|14|90
+Adrian Sampson|R|Max Stassi|R|Home Run|E|Sinker|57|2|1|0|8|93
+Adrian Sampson|R|Jake Marisnick|R|Single|D|Sinker|58|0|0|0|4|93
+Adrian Sampson|R|George Springer|R|Single|B|Sinker|59|0|0|0|14|92
+Adrian Sampson|R|George Springer|R|Single|D|Slider|60|1|0|0|8|86
+Adrian Sampson|R|Jose Altuve|R|Forceout|B|Slider|61|0|0|0|14|86
+Adrian Sampson|R|Jose Altuve|R|Forceout|T|Slider|62|1|0|0|8|87
+Adrian Sampson|R|Jose Altuve|R|Forceout|X|Slider|63|1|1|0|3|85
+Adrian Sampson|R|Adam Frazier|L|Single|B|Sinker|0|0|0|0|11|92
+Adrian Sampson|R|Adam Frazier|L|Single|D|Sinker|1|1|0|0|8|92
+Adrian Sampson|R|Starling Marte|R|Lineout|S|Sinker|2|0|0|0|8|92
+Adrian Sampson|R|Starling Marte|R|Lineout|X|Slider|3|0|1|0|14|84
+Adrian Sampson|R|Gregory Polanco|L|Single|F|Sinker|4|0|0|1|13|93
+Adrian Sampson|R|Gregory Polanco|L|Single|F|Sinker|5|0|1|1|11|93
+Adrian Sampson|R|Gregory Polanco|L|Single|B|Sinker|6|0|2|1|13|94
+Adrian Sampson|R|Gregory Polanco|L|Single|D|Changeup|7|1|2|1|13|87
+Adrian Sampson|R|Josh Bell|L|Lineout|B|Sinker|8|0|0|1|11|93
+Adrian Sampson|R|Josh Bell|L|Lineout|C|Changeup|9|1|0|1|13|87
+Adrian Sampson|R|Josh Bell|L|Lineout|B|Changeup|10|1|1|1|13|88
+Adrian Sampson|R|Josh Bell|L|Lineout|C|Changeup|11|2|1|1|13|88
+Adrian Sampson|R|Josh Bell|L|Lineout|X|Sinker|12|2|2|1|12|93
+Adrian Sampson|R|Melky Cabrera|L|Pop Out|F|Sinker|13|0|0|2|13|93
+Adrian Sampson|R|Melky Cabrera|L|Pop Out|F|Changeup|14|0|1|2|11|89
+Adrian Sampson|R|Melky Cabrera|L|Pop Out|X|Slider|15|0|2|2|5|82
+Adrian Sampson|R|Colin Moran|L|Single|C|Sinker|16|0|0|0|13|92
+Adrian Sampson|R|Colin Moran|L|Single|B|Sinker|17|0|1|0|14|92
+Adrian Sampson|R|Colin Moran|L|Single|S|Sinker|18|1|1|0|13|93
+Adrian Sampson|R|Colin Moran|L|Single|B|Slider|19|1|2|0|13|84
+Adrian Sampson|R|Colin Moran|L|Single|D|Changeup|20|2|2|0|13|88
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|C|Slider|21|0|0|0|8|83
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|*B|Slider|22|0|1|0|14|83
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|B|Sinker|23|1|1|0|11|92
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|F|Sinker|24|2|1|0|6|93
+Adrian Sampson|R|Francisco Cervelli|R|Hit By Pitch|H|Sinker|25|2|2|0|11|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|C|Sinker|26|0|0|0|13|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|F|Sinker|27|0|1|0|5|93
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|F|Slider|28|0|2|0|14|83
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|F|Sinker|29|0|2|0|12|93
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|F|Sinker|30|0|2|0|1|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|X|Slider|31|0|2|0|11|82
+Adrian Sampson|R|Cole Tucker|L|Forceout|C|Sinker|32|0|0|1|7|91
+Adrian Sampson|R|Cole Tucker|L|Forceout|X|Sinker|33|0|1|1|4|92
+Adrian Sampson|R|Adam Frazier|L|Strikeout|C|Sinker|34|0|0|2|4|92
+Adrian Sampson|R|Adam Frazier|L|Strikeout|F|Sinker|35|0|1|2|1|92
+Adrian Sampson|R|Adam Frazier|L|Strikeout|S|Slider|36|0|2|2|14|84
+Adrian Sampson|R|Starling Marte|R|Lineout|M|Slider|37|0|0|0|14|82
+Adrian Sampson|R|Starling Marte|R|Lineout|X|Slider|38|0|1|0|8|81
+Adrian Sampson|R|Gregory Polanco|L|Pop Out|X|Sinker|39|0|0|1|9|92
+Adrian Sampson|R|Josh Bell|L|Strikeout|C|Sinker|40|0|0|2|1|92
+Adrian Sampson|R|Josh Bell|L|Strikeout|C|Changeup|41|0|1|2|13|88
+Adrian Sampson|R|Josh Bell|L|Strikeout|B|Slider|42|0|2|2|14|83
+Adrian Sampson|R|Josh Bell|L|Strikeout|S|Changeup|43|1|2|2|13|87
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|C|Sinker|44|0|0|0|1|91
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|B|Changeup|45|0|1|0|13|85
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|B|Changeup|46|1|1|0|11|86
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|F|Sinker|47|2|1|0|7|91
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|B|Changeup|48|2|2|0|13|87
+Adrian Sampson|R|Melky Cabrera|L|Strikeout|C|Sinker|49|3|2|0|13|91
+Adrian Sampson|R|Colin Moran|L|Flyout|B|Slider|50|0|0|1|11|82
+Adrian Sampson|R|Colin Moran|L|Flyout|B|Slider|51|1|0|1|13|82
+Adrian Sampson|R|Colin Moran|L|Flyout|S|Sinker|52|2|0|1|11|92
+Adrian Sampson|R|Colin Moran|L|Flyout|F|Sinker|53|2|1|1|11|93
+Adrian Sampson|R|Colin Moran|L|Flyout|X|Slider|54|2|2|1|9|84
+Adrian Sampson|R|Elias Diaz|R|Double|S|Slider|55|0|0|2|14|83
+Adrian Sampson|R|Elias Diaz|R|Double|B|Sinker|56|0|1|2|1|92
+Adrian Sampson|R|Elias Diaz|R|Double|B|Slider|57|1|1|2|14|84
+Adrian Sampson|R|Elias Diaz|R|Double|B|Sinker|58|2|1|2|14|92
+Adrian Sampson|R|Elias Diaz|R|Double|D|Sinker|59|3|1|2|8|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|C|Sinker|60|0|0|2|4|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|B|Sinker|61|0|1|2|11|92
+Adrian Sampson|R|Bryan Reynolds|L|Flyout|X|Changeup|62|1|1|2|7|86
+Adrian Sampson|R|Cole Tucker|L|Groundout|X|Sinker|63|0|0|0|7|89
+Adrian Sampson|R|Adam Frazier|L|Strikeout|C|Sinker|64|0|0|1|2|90
+Adrian Sampson|R|Adam Frazier|L|Strikeout|F|Slider|65|0|1|1|7|82
+Adrian Sampson|R|Adam Frazier|L|Strikeout|F|Slider|66|0|2|1|4|83
+Adrian Sampson|R|Adam Frazier|L|Strikeout|B|Sinker|67|0|2|1|14|90
+Adrian Sampson|R|Adam Frazier|L|Strikeout|S|Changeup|68|1|2|1|13|88
+Adrian Sampson|R|Starling Marte|R|Strikeout|B|Sinker|69|0|0|2|13|92
+Adrian Sampson|R|Starling Marte|R|Strikeout|C|Sinker|70|1|0|2|13|93
+Adrian Sampson|R|Starling Marte|R|Strikeout|S|Slider|71|1|1|2|14|84
+Adrian Sampson|R|Starling Marte|R|Strikeout|B|Slider|72|1|2|2|14|82
+Adrian Sampson|R|Starling Marte|R|Strikeout|S|Changeup|73|2|2|2|13|88
+Adrian Sampson|R|Gregory Polanco|L|Flyout|C|Changeup|74|0|0|0|13|86
+Adrian Sampson|R|Gregory Polanco|L|Flyout|B|Changeup|75|0|1|0|11|86
+Adrian Sampson|R|Gregory Polanco|L|Flyout|B|Sinker|76|1|1|0|13|91
+Adrian Sampson|R|Gregory Polanco|L|Flyout|X|Changeup|77|2|1|0|7|87
+Adrian Sampson|R|Josh Bell|L|Single|D|Sinker|78|0|0|1|12|92
+Adrian Sampson|R|Melky Cabrera|L|Forceout|C|Sinker|79|0|0|1|8|91
+Adrian Sampson|R|Melky Cabrera|L|Forceout|F|Slider|80|0|1|1|9|82
+Adrian Sampson|R|Melky Cabrera|L|Forceout|X|Changeup|81|0|2|1|13|86
+Adrian Sampson|R|Marcell Ozuna|R|Flyout|S|Slider|0|0|0|0|13|84
+Adrian Sampson|R|Marcell Ozuna|R|Flyout|B|Slider|1|0|1|0|14|86
+Adrian Sampson|R|Marcell Ozuna|R|Flyout|X|Sinker|2|1|1|0|1|93
+Adrian Sampson|R|Jose Martinez|R|Double|C|Sinker|3|0|0|1|9|93
+Adrian Sampson|R|Jose Martinez|R|Double|C|Sinker|4|0|1|1|14|93
+Adrian Sampson|R|Jose Martinez|R|Double|B|Slider|5|0|2|1|13|86
+Adrian Sampson|R|Jose Martinez|R|Double|F|Slider|6|1|2|1|5|86
+Adrian Sampson|R|Jose Martinez|R|Double|D|Sinker|7|1|2|1|9|92
+Adrian Sampson|R|Yadier Molina|R|Lineout|F|Sinker|8|0|0|1|11|92
+Adrian Sampson|R|Yadier Molina|R|Lineout|B|Sinker|9|0|1|1|12|93
+Adrian Sampson|R|Yadier Molina|R|Lineout|X|Sinker|10|1|1|1|2|93
+Adrian Sampson|R|Dexter Fowler|L|Walk|C|Slider|11|0|0|2|9|83
+Adrian Sampson|R|Dexter Fowler|L|Walk|S|Slider|12|0|1|2|14|85
+Adrian Sampson|R|Dexter Fowler|L|Walk|B|Slider|13|0|2|2|14|86
+Adrian Sampson|R|Dexter Fowler|L|Walk|*B|Slider|14|1|2|2|14|85
+Adrian Sampson|R|Dexter Fowler|L|Walk|B|Slider|15|2|2|2|14|87
+Adrian Sampson|R|Dexter Fowler|L|Walk|B|Sinker|16|3|2|2|13|93
+Adrian Sampson|R|Kolten Wong|L|Flyout|B|Sinker|17|0|0|2|11|93
+Adrian Sampson|R|Kolten Wong|L|Flyout|X|Slider|18|1|0|2|7|87
+Adrian Sampson|R|Harrison Bader|R|Single|F|Sinker|19|0|0|0|1|91
+Adrian Sampson|R|Harrison Bader|R|Single|C|Changeup|20|0|1|0|8|86
+Adrian Sampson|R|Harrison Bader|R|Single|B|Sinker|21|0|2|0|12|92
+Adrian Sampson|R|Harrison Bader|R|Single|F|Sinker|22|1|2|0|13|92
+Adrian Sampson|R|Harrison Bader|R|Single|F|Slider|23|1|2|0|1|85
+Adrian Sampson|R|Harrison Bader|R|Single|D|Slider|24|1|2|0|7|83
+Adrian Sampson|R|Matt Carpenter|L|Single|C|Slider|25|0|0|0|13|81
+Adrian Sampson|R|Matt Carpenter|L|Single|S|Changeup|26|0|1|0|13|87
+Adrian Sampson|R|Matt Carpenter|L|Single|B|Changeup|27|0|2|0|13|88
+Adrian Sampson|R|Matt Carpenter|L|Single|D|Sinker|28|1|2|0|6|92
+Adrian Sampson|R|Paul Goldschmidt|R|Fielders Choice|B|Sinker|29|0|0|0|14|93
+Adrian Sampson|R|Paul Goldschmidt|R|Fielders Choice|C|Sinker|30|1|0|0|6|92
+Adrian Sampson|R|Paul Goldschmidt|R|Fielders Choice|C|Sinker|31|1|1|0|14|94
+Adrian Sampson|R|Paul Goldschmidt|R|Fielders Choice|E|Sinker|32|1|2|0|7|91
+Adrian Sampson|R|Paul DeJong|R|Lineout|S|Sinker|33|0|0|0|3|92
+Adrian Sampson|R|Paul DeJong|R|Lineout|S|Sinker|34|0|1|0|12|92
+Adrian Sampson|R|Paul DeJong|R|Lineout|X|Slider|35|0|2|0|6|87
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|C|Slider|36|0|0|1|8|84
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|C|Sinker|37|0|1|1|14|93
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|B|Sinker|38|0|2|1|12|93
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|E|Sinker|39|1|2|1|14|93
+Adrian Sampson|R|Jose Martinez|R|Single|S|Slider|40|0|0|2|14|85
+Adrian Sampson|R|Jose Martinez|R|Single|C|Sinker|41|0|1|2|14|93
+Adrian Sampson|R|Jose Martinez|R|Single|*B|Slider|42|0|2|2|14|84
+Adrian Sampson|R|Jose Martinez|R|Single|F|Sinker|43|1|2|2|6|94
+Adrian Sampson|R|Jose Martinez|R|Single|D|Slider|44|1|2|2|4|84
+Adrian Sampson|R|Yadier Molina|R|Flyout|B|Sinker|45|0|0|2|14|94
+Adrian Sampson|R|Yadier Molina|R|Flyout|B|Sinker|46|1|0|2|14|92
+Adrian Sampson|R|Yadier Molina|R|Flyout|T|Sinker|47|2|0|2|6|93
+Adrian Sampson|R|Yadier Molina|R|Flyout|B|Changeup|48|2|1|2|14|88
+Adrian Sampson|R|Yadier Molina|R|Flyout|F|Sinker|49|3|1|2|14|92
+Adrian Sampson|R|Yadier Molina|R|Flyout|X|Sinker|50|3|2|2|3|92
+Adrian Sampson|R|Dexter Fowler|L|Groundout|B|Sinker|51|0|0|0|11|91
+Adrian Sampson|R|Dexter Fowler|L|Groundout|C|Sinker|52|1|0|0|14|91
+Adrian Sampson|R|Dexter Fowler|L|Groundout|F|Changeup|53|1|1|0|8|88
+Adrian Sampson|R|Dexter Fowler|L|Groundout|B|Changeup|54|1|2|0|11|87
+Adrian Sampson|R|Dexter Fowler|L|Groundout|X|Slider|55|2|2|0|2|85
+Adrian Sampson|R|Kolten Wong|L|Groundout|B|Slider|56|0|0|1|14|84
+Adrian Sampson|R|Kolten Wong|L|Groundout|F|Sinker|57|1|0|1|3|93
+Adrian Sampson|R|Kolten Wong|L|Groundout|X|Sinker|58|1|1|1|7|93
+Adrian Sampson|R|Harrison Bader|R|Groundout|B|Sinker|59|0|0|2|11|94
+Adrian Sampson|R|Harrison Bader|R|Groundout|F|Slider|60|1|0|2|5|87
+Adrian Sampson|R|Harrison Bader|R|Groundout|F|Sinker|61|1|1|2|5|94
+Adrian Sampson|R|Harrison Bader|R|Groundout|F|Sinker|62|1|2|2|2|93
+Adrian Sampson|R|Harrison Bader|R|Groundout|X|Changeup|63|1|2|2|14|88
+Adrian Sampson|R|Matt Carpenter|L|Groundout|B|Slider|64|0|0|0|11|84
+Adrian Sampson|R|Matt Carpenter|L|Groundout|C|Sinker|65|1|0|0|11|92
+Adrian Sampson|R|Matt Carpenter|L|Groundout|F|Changeup|66|1|1|0|13|87
+Adrian Sampson|R|Matt Carpenter|L|Groundout|B|Sinker|67|1|2|0|11|92
+Adrian Sampson|R|Matt Carpenter|L|Groundout|X|Changeup|68|2|2|0|7|87
+Adrian Sampson|R|Paul Goldschmidt|R|Strikeout|C|Sinker|69|0|0|1|9|93
+Adrian Sampson|R|Paul Goldschmidt|R|Strikeout|C|Sinker|70|0|1|1|9|94
+Adrian Sampson|R|Paul Goldschmidt|R|Strikeout|B|Slider|71|0|2|1|14|84
+Adrian Sampson|R|Paul Goldschmidt|R|Strikeout|B|Sinker|72|1|2|1|14|94
+Adrian Sampson|R|Paul Goldschmidt|R|Strikeout|S|Sinker|73|2|2|1|8|94
+Adrian Sampson|R|Paul DeJong|R|Single|C|Sinker|74|0|0|2|2|94
+Adrian Sampson|R|Paul DeJong|R|Single|F|Sinker|75|0|1|2|9|94
+Adrian Sampson|R|Paul DeJong|R|Single|D|Sinker|76|0|2|2|11|92
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|F|Sinker|77|0|0|2|13|92
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|F|Sinker|78|0|1|2|3|93
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|*B|Slider|79|0|2|2|14|87
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|F|Slider|80|1|2|2|1|81
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|*B|Sinker|81|1|2|2|14|93
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|F|Sinker|82|2|2|2|13|93
+Adrian Sampson|R|Marcell Ozuna|R|Forceout|X|Changeup|83|2|2|2|14|87
+Adrian Sampson|R|Jose Martinez|R|Flyout|X|Sinker|84|0|0|0|1|91
+Adrian Sampson|R|Yadier Molina|R|Groundout|B|Changeup|85|0|0|1|13|84
+Adrian Sampson|R|Yadier Molina|R|Groundout|C|Slider|86|1|0|1|4|86
+Adrian Sampson|R|Yadier Molina|R|Groundout|X|Sinker|87|1|1|1|14|91
+Adrian Sampson|R|Dexter Fowler|L|Groundout|X|Sinker|88|0|0|2|8|93
+Adrian Sampson|R|Kolten Wong|L|Single|C|Slider|89|0|0|0|11|82
+Adrian Sampson|R|Kolten Wong|L|Single|D|Sinker|90|0|1|0|2|91
+Adrian Sampson|R|Harrison Bader|R|Single|B|Sinker|91|0|0|0|14|91
+Adrian Sampson|R|Harrison Bader|R|Single|C|Sinker|92|1|0|0|14|92
+Adrian Sampson|R|Harrison Bader|R|Single|F|Sinker|93|1|1|0|9|91
+Adrian Sampson|R|Harrison Bader|R|Single|F|Sinker|94|1|2|0|11|91
+Adrian Sampson|R|Harrison Bader|R|Single|F|Changeup|95|1|2|0|6|86
+Adrian Sampson|R|Harrison Bader|R|Single|X|Changeup|96|1|2|0|14|87
+Adrian Sampson|R|Dylan Moore|R|Strikeout|C|Sinker|0|0|0|2|3|92
+Adrian Sampson|R|Dylan Moore|R|Strikeout|B|Slider|1|0|1|2|14|85
+Adrian Sampson|R|Dylan Moore|R|Strikeout|B|Slider|2|1|1|2|14|86
+Adrian Sampson|R|Dylan Moore|R|Strikeout|F|Sinker|3|2|1|2|5|93
+Adrian Sampson|R|Dylan Moore|R|Strikeout|F|Sinker|4|2|2|2|4|93
+Adrian Sampson|R|Dylan Moore|R|Strikeout|B|Slider|5|2|2|2|14|87
+Adrian Sampson|R|Dylan Moore|R|Strikeout|C|Sinker|6|3|2|2|14|94
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|B|Sinker|7|0|0|0|11|91
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|C|Sinker|8|1|0|0|2|91
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|B|Sinker|9|1|1|0|12|92
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|F|Changeup|10|2|1|0|4|85
+Adrian Sampson|R|Shed Long Jr.|L|Groundout|X|Changeup|11|2|2|0|1|87
+Adrian Sampson|R|Mallex Smith|L|Strikeout|L|Sinker|12|0|0|1|11|92
+Adrian Sampson|R|Mallex Smith|L|Strikeout|S|Changeup|13|0|1|1|11|88
+Adrian Sampson|R|Mallex Smith|L|Strikeout|F|Sinker|14|0|2|1|11|92
+Adrian Sampson|R|Mallex Smith|L|Strikeout|S|Slider|15|0|2|1|11|86
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|B|Slider|16|0|0|2|11|83
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|C|Sinker|17|1|0|2|6|93
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|F|Sinker|18|1|1|2|6|92
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|B|Slider|19|1|2|2|11|82
+Adrian Sampson|R|Mitch Haniger|R|Strikeout|S|Slider|20|2|2|2|5|83
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|F|Sinker|21|0|0|0|7|91
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|B|Sinker|22|0|1|0|14|91
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|C|Sinker|23|1|1|0|3|92
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|X|Slider|24|1|2|0|9|81
+Adrian Sampson|R|Edwin Encarnacion|R|Groundout|X|Slider|25|0|0|1|8|84
+Adrian Sampson|R|Tom Murphy|R|Single|B|Sinker|26|0|0|2|13|92
+Adrian Sampson|R|Tom Murphy|R|Single|F|Sinker|27|1|0|2|11|92
+Adrian Sampson|R|Tom Murphy|R|Single|S|Sinker|28|1|1|2|5|93
+Adrian Sampson|R|Tom Murphy|R|Single|B|Sinker|29|1|2|2|14|93
+Adrian Sampson|R|Tom Murphy|R|Single|D|Slider|30|2|2|2|14|86
+Adrian Sampson|R|Jay Bruce|L|Groundout|*B|Sinker|31|0|0|2|13|91
+Adrian Sampson|R|Jay Bruce|L|Groundout|X|Changeup|32|1|0|2|8|86
+Adrian Sampson|R|J.P. Crawford|L|Groundout|X|Sinker|33|0|0|0|2|91
+Adrian Sampson|R|Dylan Moore|R|Strikeout|C|Sinker|34|0|0|1|4|92
+Adrian Sampson|R|Dylan Moore|R|Strikeout|C|Sinker|35|0|1|1|13|94
+Adrian Sampson|R|Dylan Moore|R|Strikeout|B|Slider|36|0|2|1|14|84
+Adrian Sampson|R|Dylan Moore|R|Strikeout|S|Slider|37|1|2|1|14|85
+Adrian Sampson|R|Shed Long Jr.|L|Double|D|Changeup|38|0|0|2|4|86
+Adrian Sampson|R|Mallex Smith|L|Groundout|S|Sinker|39|0|0|2|7|92
+Adrian Sampson|R|Mallex Smith|L|Groundout|B|Sinker|40|0|1|2|12|93
+Adrian Sampson|R|Mallex Smith|L|Groundout|F|Changeup|41|1|1|2|14|88
+Adrian Sampson|R|Mallex Smith|L|Groundout|X|Sinker|42|1|2|2|6|93
+Adrian Sampson|R|Mitch Haniger|R|Groundout|C|Slider|43|0|0|0|7|82
+Adrian Sampson|R|Mitch Haniger|R|Groundout|B|Slider|44|0|1|0|14|84
+Adrian Sampson|R|Mitch Haniger|R|Groundout|C|Sinker|45|1|1|0|14|93
+Adrian Sampson|R|Mitch Haniger|R|Groundout|B|Sinker|46|1|2|0|12|92
+Adrian Sampson|R|Mitch Haniger|R|Groundout|B|Changeup|47|2|2|0|14|87
+Adrian Sampson|R|Mitch Haniger|R|Groundout|F|Sinker|48|3|2|0|11|92
+Adrian Sampson|R|Mitch Haniger|R|Groundout|X|Sinker|49|3|2|0|4|94
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|C|Slider|50|0|0|1|4|86
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|B|Changeup|51|0|1|1|13|87
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|C|Sinker|52|1|1|1|3|94
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|B|Changeup|53|1|2|1|11|88
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|F|Changeup|54|2|2|1|13|89
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|F|Sinker|55|2|2|1|6|93
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|B|Slider|56|2|2|1|14|86
+Adrian Sampson|R|Daniel Vogelbach|L|Flyout|X|Changeup|57|3|2|1|13|88
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|C|Sinker|58|0|0|2|11|94
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|B|Slider|59|0|1|2|14|84
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|B|Sinker|60|1|1|2|12|93
+Adrian Sampson|R|Edwin Encarnacion|R|Flyout|X|Slider|61|2|1|2|13|83
+Adrian Sampson|R|Tom Murphy|R|Strikeout|F|Sinker|62|0|0|0|11|92
+Adrian Sampson|R|Tom Murphy|R|Strikeout|F|Sinker|63|0|1|0|4|92
+Adrian Sampson|R|Tom Murphy|R|Strikeout|S|Sinker|64|0|2|0|1|93
+Adrian Sampson|R|Jay Bruce|L|Double|B|Slider|65|0|0|1|11|84
+Adrian Sampson|R|Jay Bruce|L|Double|C|Sinker|66|1|0|1|9|92
+Adrian Sampson|R|Jay Bruce|L|Double|B|Changeup|67|1|1|1|13|88
+Adrian Sampson|R|Jay Bruce|L|Double|D|Sinker|68|2|1|1|8|93
+Adrian Sampson|R|J.P. Crawford|L|Single|E|Changeup|69|0|0|1|13|85
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|B|Slider|70|0|0|1|14|82
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|F|Sinker|71|1|0|1|11|91
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|B|Sinker|72|1|1|1|11|91
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|C|Sinker|73|2|1|1|9|92
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|F|Slider|74|2|2|1|6|84
+Adrian Sampson|R|Dylan Moore|R|Grounded Into DP|X|Sinker|75|2|2|1|9|92
+Adrian Sampson|R|Whit Merrifield|R|Lineout|B|Sinker|0|0|0|0|14|89
+Adrian Sampson|R|Whit Merrifield|R|Lineout|X|Sinker|1|1|0|0|6|90
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|B|Sinker|2|0|0|1|14|89
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|C|Changeup|3|1|0|1|13|83
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|B|Sinker|4|1|1|1|12|89
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|S|Changeup|5|2|1|1|11|85
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|W|Slider|6|2|2|1|14|82
+Adrian Sampson|R|Alex Gordon|L|Flyout|B|Sinker|7|0|0|2|11|90
+Adrian Sampson|R|Alex Gordon|L|Flyout|F|Sinker|8|1|0|2|11|89
+Adrian Sampson|R|Alex Gordon|L|Flyout|X|Sinker|9|1|1|2|12|90
+Adrian Sampson|R|Jorge Soler|R|Strikeout|W|Curveball|10|0|0|0|14|79
+Adrian Sampson|R|Jorge Soler|R|Strikeout|C|Curveball|11|0|1|0|4|79
+Adrian Sampson|R|Jorge Soler|R|Strikeout|S|Slider|12|0|2|0|14|81
+Adrian Sampson|R|Ryan O'Hearn|L|Single|D|Sinker|13|0|0|1|3|89
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|C|Slider|14|0|0|1|2|80
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|B|Slider|15|0|1|1|14|81
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|D|Sinker|16|1|1|1|4|91
+Adrian Sampson|R|Cam Gallagher|R|Flyout|F|Sinker|17|0|0|1|9|91
+Adrian Sampson|R|Cam Gallagher|R|Flyout|X|Sinker|18|0|1|1|6|91
+Adrian Sampson|R|Terrance Gore|R|Pop Out|B|Sinker|19|0|0|2|14|91
+Adrian Sampson|R|Terrance Gore|R|Pop Out|B|Sinker|20|1|0|2|11|91
+Adrian Sampson|R|Terrance Gore|R|Pop Out|F|Sinker|21|2|0|2|2|91
+Adrian Sampson|R|Terrance Gore|R|Pop Out|B|Sinker|22|2|1|2|14|92
+Adrian Sampson|R|Terrance Gore|R|Pop Out|X|Sinker|23|3|1|2|8|92
+Adrian Sampson|R|Billy Hamilton|L|Groundout|B|Changeup|24|0|0|0|14|88
+Adrian Sampson|R|Billy Hamilton|L|Groundout|F|Sinker|25|1|0|0|14|89
+Adrian Sampson|R|Billy Hamilton|L|Groundout|C|Sinker|26|1|1|0|12|90
+Adrian Sampson|R|Billy Hamilton|L|Groundout|X|Sinker|27|1|2|0|14|90
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|C|Sinker|28|0|0|1|14|89
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|S|Slider|29|0|1|1|14|82
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|S|Slider|30|0|2|1|5|82
+Adrian Sampson|R|Adalberto Mondesi|L|Triple|B|Changeup|31|0|0|2|13|85
+Adrian Sampson|R|Adalberto Mondesi|L|Triple|B|Changeup|32|1|0|2|13|86
+Adrian Sampson|R|Adalberto Mondesi|L|Triple|B|Sinker|33|2|0|2|14|91
+Adrian Sampson|R|Adalberto Mondesi|L|Triple|F|Sinker|34|3|0|2|14|91
+Adrian Sampson|R|Adalberto Mondesi|L|Triple|D|Sinker|35|3|1|2|9|91
+Adrian Sampson|R|Alex Gordon|L|Flyout|B|Sinker|36|0|0|2|13|91
+Adrian Sampson|R|Alex Gordon|L|Flyout|X|Sinker|37|1|0|2|4|91
+Adrian Sampson|R|Jorge Soler|R|Strikeout|B|Slider|38|0|0|0|14|80
+Adrian Sampson|R|Jorge Soler|R|Strikeout|C|Sinker|39|1|0|0|5|90
+Adrian Sampson|R|Jorge Soler|R|Strikeout|W|Slider|40|1|1|0|14|81
+Adrian Sampson|R|Jorge Soler|R|Strikeout|S|Slider|41|1|2|0|14|83
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|B|Changeup|42|0|0|1|13|85
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|F|Sinker|43|1|0|1|8|91
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|F|Sinker|44|1|1|1|9|90
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|F|Sinker|45|1|2|1|6|92
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|B|Changeup|46|1|2|1|13|88
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|W|Slider|47|2|2|1|14|82
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|B|Sinker|48|0|0|2|14|91
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|S|Slider|49|1|0|2|14|82
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|F|Slider|50|1|1|2|9|83
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|B|Sinker|51|1|2|2|11|91
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|B|Slider|52|2|2|2|14|82
+Adrian Sampson|R|Cheslor Cuthbert|R|Strikeout|S|Slider|53|3|2|2|14|84
+Adrian Sampson|R|Cam Gallagher|R|Single|C|Sinker|54|0|0|0|9|89
+Adrian Sampson|R|Cam Gallagher|R|Single|B|Sinker|55|0|1|0|13|91
+Adrian Sampson|R|Cam Gallagher|R|Single|B|Slider|56|1|1|0|14|83
+Adrian Sampson|R|Cam Gallagher|R|Single|D|Sinker|57|2|1|0|2|92
+Adrian Sampson|R|Terrance Gore|R|Single|L|Sinker|58|0|0|0|5|89
+Adrian Sampson|R|Terrance Gore|R|Single|D|Sinker|59|0|1|0|11|92
+Adrian Sampson|R|Billy Hamilton|L|Single|B|Sinker|60|0|0|0|12|92
+Adrian Sampson|R|Billy Hamilton|L|Single|C|Sinker|61|1|0|0|1|91
+Adrian Sampson|R|Billy Hamilton|L|Single|B|Slider|62|1|1|0|14|83
+Adrian Sampson|R|Billy Hamilton|L|Single|D|Sinker|63|2|1|0|2|92
+Adrian Sampson|R|Whit Merrifield|R|Lineout|*B|Slider|64|0|0|0|14|84
+Adrian Sampson|R|Whit Merrifield|R|Lineout|W|Slider|65|1|0|0|14|83
+Adrian Sampson|R|Whit Merrifield|R|Lineout|B|Sinker|66|1|1|0|11|92
+Adrian Sampson|R|Whit Merrifield|R|Lineout|S|Sinker|67|2|1|0|3|94
+Adrian Sampson|R|Whit Merrifield|R|Lineout|F|Slider|68|2|2|0|5|84
+Adrian Sampson|R|Whit Merrifield|R|Lineout|F|Slider|69|2|2|0|13|83
+Adrian Sampson|R|Whit Merrifield|R|Lineout|X|Sinker|70|2|2|0|11|93
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|F|Changeup|71|0|0|1|7|88
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|S|Changeup|72|0|1|1|13|87
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|B|Changeup|73|0|2|1|13|88
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|*B|Slider|74|1|2|1|14|83
+Adrian Sampson|R|Adalberto Mondesi|L|Strikeout|S|Changeup|75|2|2|1|11|87
+Adrian Sampson|R|Alex Gordon|L|Strikeout|F|Sinker|76|0|0|2|2|94
+Adrian Sampson|R|Alex Gordon|L|Strikeout|F|Sinker|77|0|1|2|1|93
+Adrian Sampson|R|Alex Gordon|L|Strikeout|C|Slider|78|0|2|2|9|84
+Adrian Sampson|R|Jorge Soler|R|Home Run|E|Sinker|79|0|0|0|2|91
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|F|Sinker|80|0|0|0|6|90
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|F|Slider|81|0|1|0|6|82
+Adrian Sampson|R|Ryan O'Hearn|L|Strikeout|C|Sinker|82|0|2|0|14|92
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|C|Slider|83|0|0|1|8|83
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|B|Slider|84|0|1|1|14|84
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|B|Sinker|85|1|1|1|13|92
+Adrian Sampson|R|Cheslor Cuthbert|R|Single|D|Slider|86|2|1|1|4|83
+Adrian Sampson|R|Cam Gallagher|R|Grounded Into DP|X|Sinker|87|0|0|1|9|91
+Adrian Sampson|R|Terrance Gore|R|Strikeout|C|Sinker|88|0|0|0|12|91
+Adrian Sampson|R|Terrance Gore|R|Strikeout|F|Sinker|89|0|1|0|14|91
+Adrian Sampson|R|Terrance Gore|R|Strikeout|S|Slider|90|0|2|0|14|83
+Adrian Sampson|R|Billy Hamilton|L|Groundout|B|Sinker|91|0|0|1|12|91
+Adrian Sampson|R|Billy Hamilton|L|Groundout|C|Sinker|92|1|0|1|9|92
+Adrian Sampson|R|Billy Hamilton|L|Groundout|X|Sinker|93|1|1|1|5|92
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|F|Slider|94|0|0|2|9|84
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|F|Slider|95|0|1|2|14|84
+Adrian Sampson|R|Whit Merrifield|R|Strikeout|T|Slider|96|0|2|2|13|82
+Adrian Sampson|R|Marcus Semien|R|Strikeout|C|Sinker|0|0|0|0|9|90
+Adrian Sampson|R|Marcus Semien|R|Strikeout|B|Slider|1|0|1|0|14|83
+Adrian Sampson|R|Marcus Semien|R|Strikeout|F|Sinker|2|1|1|0|4|91
+Adrian Sampson|R|Marcus Semien|R|Strikeout|B|Sinker|3|1|2|0|11|90
+Adrian Sampson|R|Marcus Semien|R|Strikeout|C|Slider|4|2|2|0|14|83
+Adrian Sampson|R|Robbie Grossman|L|Walk|F|Sinker|5|0|0|1|5|91
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Changeup|6|0|1|1|13|87
+Adrian Sampson|R|Robbie Grossman|L|Walk|C|Changeup|7|1|1|1|11|86
+Adrian Sampson|R|Robbie Grossman|L|Walk|F|Slider|8|1|2|1|8|83
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Changeup|9|1|2|1|11|88
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|10|2|2|1|12|92
+Adrian Sampson|R|Robbie Grossman|L|Walk|F|Sinker|11|3|2|1|4|92
+Adrian Sampson|R|Robbie Grossman|L|Walk|B|Sinker|12|3|2|1|13|92
+Adrian Sampson|R|Matt Olson|L|Strikeout|C|Sinker|13|0|0|1|5|92
+Adrian Sampson|R|Matt Olson|L|Strikeout|S|Sinker|14|0|1|1|13|91
+Adrian Sampson|R|Matt Olson|L|Strikeout|B|Sinker|15|0|2|1|11|92
+Adrian Sampson|R|Matt Olson|L|Strikeout|S|Sinker|16|1|2|1|4|92
+Adrian Sampson|R|Khris Davis|R|Flyout|S|Slider|17|0|0|2|14|85
+Adrian Sampson|R|Khris Davis|R|Flyout|F|Sinker|18|0|1|2|4|93
+Adrian Sampson|R|Khris Davis|R|Flyout|X|Slider|19|0|2|2|9|82
+Adrian Sampson|R|Mark Canha|R|Pop Out|X|Slider|20|0|0|0|9|81
+Adrian Sampson|R|Jurickson Profar|L|Groundout|B|Sinker|21|0|0|1|11|92
+Adrian Sampson|R|Jurickson Profar|L|Groundout|C|Sinker|22|1|0|1|3|92
+Adrian Sampson|R|Jurickson Profar|L|Groundout|B|Sinker|23|1|1|1|12|92
+Adrian Sampson|R|Jurickson Profar|L|Groundout|S|Changeup|24|2|1|1|4|86
+Adrian Sampson|R|Jurickson Profar|L|Groundout|X|Sinker|25|2|2|1|6|93
+Adrian Sampson|R|Ramon Laureano|R|Single|B|Slider|26|0|0|2|14|84
+Adrian Sampson|R|Ramon Laureano|R|Single|C|Slider|27|1|0|2|14|83
+Adrian Sampson|R|Ramon Laureano|R|Single|F|Sinker|28|1|1|2|5|93
+Adrian Sampson|R|Ramon Laureano|R|Single|D|Slider|29|1|2|2|14|85
+Adrian Sampson|R|Chad Pinder|R|Field Error|C|Slider|30|0|0|2|5|83
+Adrian Sampson|R|Chad Pinder|R|Field Error|B|Sinker|31|0|1|2|11|92
+Adrian Sampson|R|Chad Pinder|R|Field Error|D|Sinker|32|1|1|2|3|93
+Adrian Sampson|R|Josh Phegley|R|Flyout|B|Slider|33|0|0|2|14|82
+Adrian Sampson|R|Josh Phegley|R|Flyout|B|Sinker|34|1|0|2|14|93
+Adrian Sampson|R|Josh Phegley|R|Flyout|B|Slider|35|2|0|2|14|83
+Adrian Sampson|R|Josh Phegley|R|Flyout|C|Sinker|36|3|0|2|6|92
+Adrian Sampson|R|Josh Phegley|R|Flyout|X|Sinker|37|3|1|2|5|92
+Adrian Sampson|R|Marcus Semien|R|Single|F|Slider|38|0|0|0|13|82
+Adrian Sampson|R|Marcus Semien|R|Single|B|Sinker|39|0|1|0|13|90
+Adrian Sampson|R|Marcus Semien|R|Single|D|Sinker|40|1|1|0|13|92
+Adrian Sampson|R|Robbie Grossman|L|Grounded Into DP|X|Sinker|41|0|0|0|13|92
+Adrian Sampson|R|Matt Olson|L|Groundout|C|Slider|42|0|0|2|13|83
+Adrian Sampson|R|Matt Olson|L|Groundout|X|Sinker|43|0|1|2|9|92
+Adrian Sampson|R|Khris Davis|R|Pop Out|X|Slider|44|0|0|0|4|82
+Adrian Sampson|R|Mark Canha|R|Home Run|C|Sinker|45|0|0|1|8|91
+Adrian Sampson|R|Mark Canha|R|Home Run|E|Sinker|46|0|1|1|4|92
+Adrian Sampson|R|Jurickson Profar|L|Groundout|B|Slider|47|0|0|1|11|82
+Adrian Sampson|R|Jurickson Profar|L|Groundout|C|Sinker|48|1|0|1|1|92
+Adrian Sampson|R|Jurickson Profar|L|Groundout|X|Changeup|49|1|1|1|4|88
+Adrian Sampson|R|Ramon Laureano|R|Flyout|C|Slider|50|0|0|2|4|83
+Adrian Sampson|R|Ramon Laureano|R|Flyout|F|Sinker|51|0|1|2|13|92
+Adrian Sampson|R|Ramon Laureano|R|Flyout|X|Slider|52|0|2|2|14|83
+Adrian Sampson|R|Chad Pinder|R|Strikeout|W|Slider|53|0|0|0|14|83
+Adrian Sampson|R|Chad Pinder|R|Strikeout|F|Slider|54|0|1|0|4|83
+Adrian Sampson|R|Chad Pinder|R|Strikeout|B|Slider|55|0|2|0|14|80
+Adrian Sampson|R|Chad Pinder|R|Strikeout|S|Sinker|56|1|2|0|11|91
+Adrian Sampson|R|Josh Phegley|R|Lineout|X|Sinker|57|0|0|1|1|91
+Adrian Sampson|R|Marcus Semien|R|Flyout|C|Changeup|58|0|0|2|2|86
+Adrian Sampson|R|Marcus Semien|R|Flyout|X|Changeup|59|0|1|2|7|86
+Adrian Sampson|R|Robbie Grossman|L|Single|C|Sinker|60|0|0|0|7|90
+Adrian Sampson|R|Robbie Grossman|L|Single|B|Sinker|61|0|1|0|12|91
+Adrian Sampson|R|Robbie Grossman|L|Single|B|Changeup|62|1|1|0|13|86
+Adrian Sampson|R|Robbie Grossman|L|Single|C|Changeup|63|2|1|0|11|86
+Adrian Sampson|R|Robbie Grossman|L|Single|B|Sinker|64|2|2|0|14|92
+Adrian Sampson|R|Robbie Grossman|L|Single|D|Sinker|65|3|2|0|5|92
+Adrian Sampson|R|Matt Olson|L|Forceout|X|Changeup|66|0|0|0|11|87
+Adrian Sampson|R|Khris Davis|R|Lineout|B|Slider|67|0|0|1|14|83
+Adrian Sampson|R|Khris Davis|R|Lineout|F|Slider|68|1|0|1|4|83
+Adrian Sampson|R|Khris Davis|R|Lineout|X|Sinker|69|1|1|1|11|93
+Adrian Sampson|R|Mark Canha|R|Strikeout|B|Sinker|70|0|0|2|14|93
+Adrian Sampson|R|Mark Canha|R|Strikeout|C|Slider|71|1|0|2|14|83
+Adrian Sampson|R|Mark Canha|R|Strikeout|F|Sinker|72|1|1|2|4|93
+Adrian Sampson|R|Mark Canha|R|Strikeout|S|Slider|73|1|2|2|4|82
+Adrian Sampson|R|Jurickson Profar|L|Strikeout|C|Sinker|74|0|0|0|6|90
+Adrian Sampson|R|Jurickson Profar|L|Strikeout|S|Slider|75|0|1|0|14|82
+Adrian Sampson|R|Jurickson Profar|L|Strikeout|B|Sinker|76|0|2|0|11|92
+Adrian Sampson|R|Jurickson Profar|L|Strikeout|S|Slider|77|1|2|0|13|82
+Adrian Sampson|R|Ramon Laureano|R|Pop Out|B|Sinker|78|0|0|1|14|91
+Adrian Sampson|R|Ramon Laureano|R|Pop Out|B|Slider|79|1|0|1|14|84
+Adrian Sampson|R|Ramon Laureano|R|Pop Out|X|Sinker|80|2|0|1|1|93
+Adrian Sampson|R|Chad Pinder|R|Groundout|X|Slider|81|0|0|2|14|83
+Adrian Sampson|R|Josh Phegley|R|Lineout|B|Slider|82|0|0|0|14|83
+Adrian Sampson|R|Josh Phegley|R|Lineout|S|Changeup|83|1|0|0|13|85
+Adrian Sampson|R|Josh Phegley|R|Lineout|S|Slider|84|1|1|0|13|83
+Adrian Sampson|R|Josh Phegley|R|Lineout|B|Sinker|85|1|2|0|11|92
+Adrian Sampson|R|Josh Phegley|R|Lineout|F|Changeup|86|2|2|0|1|87
+Adrian Sampson|R|Josh Phegley|R|Lineout|X|Slider|87|2|2|0|9|83
+Adrian Sampson|R|Marcus Semien|R|Groundout|B|Changeup|88|0|0|1|14|87
+Adrian Sampson|R|Marcus Semien|R|Groundout|F|Slider|89|1|0|1|4|83
+Adrian Sampson|R|Marcus Semien|R|Groundout|X|Sinker|90|1|1|1|8|93
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|F|Slider|91|0|0|2|9|84
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|C|Sinker|92|0|1|2|12|93
+Adrian Sampson|R|Robbie Grossman|L|Strikeout|W|Slider|93|0|2|2|14|81
+Adrian Sampson|R|Matt Olson|L|Strikeout|B|Changeup|94|0|0|0|13|86
+Adrian Sampson|R|Matt Olson|L|Strikeout|C|Sinker|95|1|0|0|13|91
+Adrian Sampson|R|Matt Olson|L|Strikeout|F|Changeup|96|1|1|0|13|84
+Adrian Sampson|R|Matt Olson|L|Strikeout|F|Sinker|97|1|2|0|1|91
+Adrian Sampson|R|Matt Olson|L|Strikeout|B|Changeup|98|1|2|0|13|86
+Adrian Sampson|R|Matt Olson|L|Strikeout|F|Slider|99|2|2|0|5|82
+Adrian Sampson|R|Matt Olson|L|Strikeout|C|Sinker|100|2|2|0|6|93
+Adrian Sampson|R|Khris Davis|R|Flyout|F|Sinker|101|0|0|1|12|92
+Adrian Sampson|R|Khris Davis|R|Flyout|B|Sinker|102|0|1|1|13|93
+Adrian Sampson|R|Khris Davis|R|Flyout|B|Slider|103|1|1|1|14|84
+Adrian Sampson|R|Khris Davis|R|Flyout|S|Changeup|104|2|1|1|14|88
+Adrian Sampson|R|Khris Davis|R|Flyout|F|Slider|105|2|2|1|14|82
+Adrian Sampson|R|Khris Davis|R|Flyout|X|Changeup|106|2|2|1|1|88
+Adrian Sampson|R|Mark Canha|R|Flyout|B|Slider|107|0|0|2|14|83
+Adrian Sampson|R|Mark Canha|R|Flyout|X|Sinker|108|1|0|2|2|92
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|B|Sinker|0|0|0|0|11|91
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|S|Changeup|1|1|0|0|5|86
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|B|Sinker|2|1|1|0|11|91
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|B|Sinker|3|2|1|0|11|92
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Sinker|4|3|1|0|4|93
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Changeup|5|3|2|0|13|87
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Sinker|6|3|2|0|11|93
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Slider|7|3|2|0|4|84
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|T|Slider|8|3|2|0|12|85
+Adrian Sampson|R|Oscar Mercado|R|Triple|D|Sinker|9|0|0|1|4|93
+Adrian Sampson|R|Carlos Santana|L|Walk|*B|Slider|10|0|0|1|14|84
+Adrian Sampson|R|Carlos Santana|L|Walk|B|Sinker|11|1|0|1|11|92
+Adrian Sampson|R|Carlos Santana|L|Walk|F|Sinker|12|2|0|1|5|91
+Adrian Sampson|R|Carlos Santana|L|Walk|*B|Changeup|13|2|1|1|14|87
+Adrian Sampson|R|Carlos Santana|L|Walk|B|Changeup|14|3|1|1|11|88
+Adrian Sampson|R|Jason Kipnis|L|Single|B|Sinker|15|0|0|1|11|93
+Adrian Sampson|R|Jason Kipnis|L|Single|F|Changeup|16|1|0|1|1|87
+Adrian Sampson|R|Jason Kipnis|L|Single|E|Sinker|17|1|1|1|12|93
+Adrian Sampson|R|Jose Ramirez|L|Flyout|C|Sinker|18|0|0|1|6|91
+Adrian Sampson|R|Jose Ramirez|L|Flyout|X|Sinker|19|0|1|1|2|92
+Adrian Sampson|R|Jake Bauers|L|Groundout|F|Sinker|20|0|0|2|1|93
+Adrian Sampson|R|Jake Bauers|L|Groundout|*B|Slider|21|0|1|2|14|83
+Adrian Sampson|R|Jake Bauers|L|Groundout|X|Slider|22|1|1|2|4|83
+Adrian Sampson|R|Roberto Perez|R|Groundout|C|Slider|23|0|0|0|5|82
+Adrian Sampson|R|Roberto Perez|R|Groundout|B|Sinker|24|0|1|0|14|91
+Adrian Sampson|R|Roberto Perez|R|Groundout|B|Sinker|25|1|1|0|14|91
+Adrian Sampson|R|Roberto Perez|R|Groundout|X|Slider|26|2|1|0|4|82
+Adrian Sampson|R|Tyler Naquin|L|Groundout|B|Sinker|27|0|0|1|14|92
+Adrian Sampson|R|Tyler Naquin|L|Groundout|F|Sinker|28|1|0|1|7|92
+Adrian Sampson|R|Tyler Naquin|L|Groundout|X|Sinker|29|1|1|1|9|92
+Adrian Sampson|R|Mike Freeman|L|Double|C|Sinker|30|0|0|2|8|91
+Adrian Sampson|R|Mike Freeman|L|Double|B|Slider|31|0|1|2|14|82
+Adrian Sampson|R|Mike Freeman|L|Double|B|Changeup|32|1|1|2|11|87
+Adrian Sampson|R|Mike Freeman|L|Double|B|Sinker|33|2|1|2|11|92
+Adrian Sampson|R|Mike Freeman|L|Double|D|Sinker|34|3|1|2|6|92
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|B|Changeup|35|0|0|2|13|88
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|T|Sinker|36|1|0|2|1|89
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Sinker|37|1|1|2|6|92
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|F|Slider|38|1|2|2|5|83
+Adrian Sampson|R|Francisco Lindor|L|Strikeout|T|Sinker|39|1|2|2|11|91
+Adrian Sampson|R|Oscar Mercado|R|Field Error|B|Slider|40|0|0|0|11|83
+Adrian Sampson|R|Oscar Mercado|R|Field Error|F|Slider|41|1|0|0|6|81
+Adrian Sampson|R|Oscar Mercado|R|Field Error|C|Sinker|42|1|1|0|9|91
+Adrian Sampson|R|Oscar Mercado|R|Field Error|D|Sinker|43|1|2|0|3|92
+Adrian Sampson|R|Carlos Santana|L|Groundout|X|Sinker|44|0|0|0|5|92
+Adrian Sampson|R|Jason Kipnis|L|Walk|B|Changeup|45|0|0|1|11|87
+Adrian Sampson|R|Jason Kipnis|L|Walk|B|Sinker|46|1|0|1|11|91
+Adrian Sampson|R|Jason Kipnis|L|Walk|B|Changeup|47|2|0|1|11|88
+Adrian Sampson|R|Jason Kipnis|L|Walk|B|Sinker|48|3|0|1|11|92
+Adrian Sampson|R|Jose Ramirez|L|Home Run|C|Sinker|49|0|0|1|4|93
+Adrian Sampson|R|Jose Ramirez|L|Home Run|E|Sinker|50|0|1|1|1|92
+Adrian Sampson|R|Jake Bauers|L|Double|B|Changeup|51|0|0|1|13|86
+Adrian Sampson|R|Jake Bauers|L|Double|B|Sinker|52|1|0|1|14|93
+Adrian Sampson|R|Jake Bauers|L|Double|B|Sinker|53|2|0|1|14|93
+Adrian Sampson|R|Jake Bauers|L|Double|F|Sinker|54|3|0|1|4|93
+Adrian Sampson|R|Jake Bauers|L|Double|D|Sinker|55|3|1|1|5|93
+Adrian Sampson|R|Roberto Perez|R|Strikeout|C|Sinker|56|0|0|1|14|93
+Adrian Sampson|R|Roberto Perez|R|Strikeout|B|Sinker|57|0|1|1|14|93
+Adrian Sampson|R|Roberto Perez|R|Strikeout|F|Changeup|58|1|1|1|4|88
+Adrian Sampson|R|Roberto Perez|R|Strikeout|C|Sinker|59|1|2|1|6|92
+Adrian Sampson|R|Tyler Naquin|L|Single|E|Sinker|60|0|0|2|14|92
+Adrian Sampson|R|Mike Freeman|L|Strikeout|C|Sinker|61|0|0|2|9|93
+Adrian Sampson|R|Mike Freeman|L|Strikeout|F|Slider|62|0|1|2|5|83
+Adrian Sampson|R|Mike Freeman|L|Strikeout|B|Slider|63|0|2|2|13|83
+Adrian Sampson|R|Mike Freeman|L|Strikeout|S|Slider|64|1|2|2|14|85
+Adrian Sampson|R|Leury Garcia|L|Single|C|Sinker|0|0|0|0|14|91
+Adrian Sampson|R|Leury Garcia|L|Single|D|Sinker|1|0|1|0|1|92
+Adrian Sampson|R|Yoan Moncada|L|Flyout|F|Sinker|2|0|0|0|14|91
+Adrian Sampson|R|Yoan Moncada|L|Flyout|X|Slider|3|0|1|0|13|82
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|B|Slider|4|0|0|1|11|83
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|B|Sinker|5|1|0|1|13|92
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|F|Sinker|6|2|0|1|3|91
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|X|Sinker|7|2|1|1|7|92
+Adrian Sampson|R|James McCann|R|Single|C|Sinker|8|0|0|0|2|90
+Adrian Sampson|R|James McCann|R|Single|D|Sinker|9|0|1|0|7|91
+Adrian Sampson|R|Eloy Jimenez|R|Walk|B|Sinker|10|0|0|0|14|90
+Adrian Sampson|R|Eloy Jimenez|R|Walk|B|Sinker|11|1|0|0|11|91
+Adrian Sampson|R|Eloy Jimenez|R|Walk|*B|Slider|12|2|0|0|14|84
+Adrian Sampson|R|Eloy Jimenez|R|Walk|C|Sinker|13|3|0|0|5|91
+Adrian Sampson|R|Eloy Jimenez|R|Walk|F|Sinker|14|3|1|0|13|91
+Adrian Sampson|R|Eloy Jimenez|R|Walk|F|Slider|15|3|2|0|5|83
+Adrian Sampson|R|Eloy Jimenez|R|Walk|B|Slider|16|3|2|0|14|84
+Adrian Sampson|R|Yonder Alonso|L|Grounded Into DP|X|Sinker|17|0|0|0|11|93
+Adrian Sampson|R|Tim Anderson|R|Flyout|B|Sinker|18|0|0|2|13|93
+Adrian Sampson|R|Tim Anderson|R|Flyout|B|Sinker|19|1|0|2|11|93
+Adrian Sampson|R|Tim Anderson|R|Flyout|X|Sinker|20|2|0|2|11|93
+Adrian Sampson|R|Yolmer Sanchez|L|Pop Out|B|Sinker|21|0|0|0|14|90
+Adrian Sampson|R|Yolmer Sanchez|L|Pop Out|B|Sinker|22|1|0|0|14|90
+Adrian Sampson|R|Yolmer Sanchez|L|Pop Out|C|Sinker|23|2|0|0|4|91
+Adrian Sampson|R|Yolmer Sanchez|L|Pop Out|L|Sinker|24|2|1|0|8|92
+Adrian Sampson|R|Yolmer Sanchez|L|Pop Out|X|Sinker|25|2|2|0|6|93
+Adrian Sampson|R|Ryan Cordell|R|Flyout|C|Sinker|26|0|0|1|1|92
+Adrian Sampson|R|Ryan Cordell|R|Flyout|B|Sinker|27|0|1|1|11|92
+Adrian Sampson|R|Ryan Cordell|R|Flyout|B|Sinker|28|1|1|1|13|92
+Adrian Sampson|R|Ryan Cordell|R|Flyout|X|Sinker|29|2|1|1|1|92
+Adrian Sampson|R|Leury Garcia|L|Groundout|B|Changeup|30|0|0|2|11|88
+Adrian Sampson|R|Leury Garcia|L|Groundout|C|Slider|31|1|0|2|1|84
+Adrian Sampson|R|Leury Garcia|L|Groundout|B|Sinker|32|1|1|2|12|92
+Adrian Sampson|R|Leury Garcia|L|Groundout|F|Sinker|33|2|1|2|2|92
+Adrian Sampson|R|Leury Garcia|L|Groundout|X|Changeup|34|2|2|2|11|88
+Adrian Sampson|R|Yoan Moncada|L|Single|B|Sinker|35|0|0|0|13|91
+Adrian Sampson|R|Yoan Moncada|L|Single|C|Sinker|36|1|0|0|14|89
+Adrian Sampson|R|Yoan Moncada|L|Single|D|Sinker|37|1|1|0|11|91
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|*B|Sinker|38|0|0|0|14|91
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|B|Slider|39|1|0|0|2|82
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|B|Sinker|40|2|0|0|11|92
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|C|Sinker|41|3|0|0|11|91
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|F|Sinker|42|3|1|0|11|91
+Adrian Sampson|R|Jose Abreu|R|Grounded Into DP|X|Slider|43|3|2|0|11|83
+Adrian Sampson|R|James McCann|R|Strikeout|F|Sinker|44|0|0|2|4|92
+Adrian Sampson|R|James McCann|R|Strikeout|B|Slider|45|0|1|2|14|83
+Adrian Sampson|R|James McCann|R|Strikeout|S|Slider|46|1|1|2|14|83
+Adrian Sampson|R|James McCann|R|Strikeout|C|Sinker|47|1|2|2|12|92
+Adrian Sampson|R|Eloy Jimenez|R|Single|D|Sinker|48|0|0|0|5|91
+Adrian Sampson|R|Yonder Alonso|L|Single|B|Slider|49|0|0|0|13|82
+Adrian Sampson|R|Yonder Alonso|L|Single|D|Sinker|50|1|0|0|11|92
+Adrian Sampson|R|Tim Anderson|R|Single|C|Sinker|51|0|0|0|9|91
+Adrian Sampson|R|Tim Anderson|R|Single|B|Sinker|52|0|1|0|11|92
+Adrian Sampson|R|Tim Anderson|R|Single|B|Slider|53|1|1|0|14|84
+Adrian Sampson|R|Tim Anderson|R|Single|E|Sinker|54|2|1|0|5|92
+Adrian Sampson|R|Yolmer Sanchez|L|Strikeout|B|Changeup|55|0|0|0|14|86
+Adrian Sampson|R|Yolmer Sanchez|L|Strikeout|F|Sinker|56|1|0|0|8|92
+Adrian Sampson|R|Yolmer Sanchez|L|Strikeout|F|Sinker|57|1|1|0|14|92
+Adrian Sampson|R|Yolmer Sanchez|L|Strikeout|S|Slider|58|1|2|0|8|84
+Adrian Sampson|R|Ryan Cordell|R|Pop Out|X|Sinker|59|0|0|1|13|92
+Adrian Sampson|R|Leury Garcia|L|Lineout|C|Changeup|60|0|0|2|8|87
+Adrian Sampson|R|Leury Garcia|L|Lineout|S|Slider|61|0|1|2|14|84
+Adrian Sampson|R|Leury Garcia|L|Lineout|F|Sinker|62|0|2|2|5|93
+Adrian Sampson|R|Leury Garcia|L|Lineout|F|Slider|63|0|2|2|14|84
+Adrian Sampson|R|Leury Garcia|L|Lineout|X|Sinker|64|0|2|2|2|92
+Adrian Sampson|R|Yoan Moncada|L|Strikeout|S|Slider|65|0|0|0|14|83
+Adrian Sampson|R|Yoan Moncada|L|Strikeout|B|Sinker|66|0|1|0|14|92
+Adrian Sampson|R|Yoan Moncada|L|Strikeout|B|Changeup|67|1|1|0|14|86
+Adrian Sampson|R|Yoan Moncada|L|Strikeout|S|Slider|68|2|1|0|13|83
+Adrian Sampson|R|Yoan Moncada|L|Strikeout|S|Slider|69|2|2|0|13|83
+Adrian Sampson|R|Jose Abreu|R|Groundout|F|Slider|70|0|0|1|8|84
+Adrian Sampson|R|Jose Abreu|R|Groundout|X|Sinker|71|0|1|1|13|92
+Adrian Sampson|R|James McCann|R|Single|B|Slider|72|0|0|2|13|84
+Adrian Sampson|R|James McCann|R|Single|D|Sinker|73|1|0|2|7|91
+Adrian Sampson|R|Eloy Jimenez|R|Forceout|*B|Slider|74|0|0|2|14|85
+Adrian Sampson|R|Eloy Jimenez|R|Forceout|B|Slider|75|1|0|2|14|83
+Adrian Sampson|R|Eloy Jimenez|R|Forceout|C|Sinker|76|2|0|2|14|92
+Adrian Sampson|R|Eloy Jimenez|R|Forceout|X|Slider|77|2|1|2|13|84
+Adrian Sampson|R|Yonder Alonso|L|Strikeout|C|Slider|78|0|0|0|11|81
+Adrian Sampson|R|Yonder Alonso|L|Strikeout|S|Changeup|79|0|1|0|14|87
+Adrian Sampson|R|Yonder Alonso|L|Strikeout|T|Slider|80|0|2|0|9|84
+Adrian Sampson|R|Tim Anderson|R|Groundout|B|Sinker|81|0|0|1|11|92
+Adrian Sampson|R|Tim Anderson|R|Groundout|C|Sinker|82|1|0|1|3|93
+Adrian Sampson|R|Tim Anderson|R|Groundout|F|Sinker|83|1|1|1|11|92
+Adrian Sampson|R|Tim Anderson|R|Groundout|X|Sinker|84|1|2|1|8|93
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|C|Slider|85|0|0|2|7|85
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|S|Slider|86|0|1|2|14|83
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|B|Changeup|87|0|2|2|13|88
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|F|Sinker|88|1|2|2|1|93
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|F|Slider|89|1|2|2|5|83
+Adrian Sampson|R|Yolmer Sanchez|L|Flyout|X|Slider|90|1|2|2|5|82
+Adrian Sampson|R|Tyler White|R|Single|B|Sinker|0|0|0|1|12|92
+Adrian Sampson|R|Tyler White|R|Single|F|Sinker|1|1|0|1|1|92
+Adrian Sampson|R|Tyler White|R|Single|S|Slider|2|1|1|1|11|84
+Adrian Sampson|R|Tyler White|R|Single|F|Slider|3|1|2|1|14|84
+Adrian Sampson|R|Tyler White|R|Single|E|Sinker|4|1|2|1|11|94
+Adrian Sampson|R|Myles Straw|R|Forceout|C|Slider|5|0|0|1|4|83
+Adrian Sampson|R|Myles Straw|R|Forceout|B|Slider|6|0|1|1|14|83
+Adrian Sampson|R|Myles Straw|R|Forceout|F|Sinker|7|1|1|1|5|93
+Adrian Sampson|R|Myles Straw|R|Forceout|*B|Slider|8|1|2|1|14|83
+Adrian Sampson|R|Myles Straw|R|Forceout|X|Sinker|9|2|2|1|13|94
+Adrian Sampson|R|George Springer|R|Walk|C|Sinker|10|0|0|2|12|93
+Adrian Sampson|R|George Springer|R|Walk|B|Sinker|11|0|1|2|12|93
+Adrian Sampson|R|George Springer|R|Walk|B|Slider|12|1|1|2|14|84
+Adrian Sampson|R|George Springer|R|Walk|B|Sinker|13|2|1|2|11|93
+Adrian Sampson|R|George Springer|R|Walk|*B|Slider|14|3|1|2|14|85
+Adrian Sampson|R|Jose Altuve|R|Pop Out|C|Slider|15|0|0|0|1|83
+Adrian Sampson|R|Jose Altuve|R|Pop Out|F|Sinker|16|0|1|0|4|93
+Adrian Sampson|R|Jose Altuve|R|Pop Out|X|Slider|17|0|2|0|13|84
+Adrian Sampson|R|George Springer|R|Fielders Choice|F|Slider|0|0|0|0|3|84
+Adrian Sampson|R|George Springer|R|Fielders Choice|B|Slider|1|0|1|0|11|83
+Adrian Sampson|R|George Springer|R|Fielders Choice|F|Slider|2|1|1|0|2|83
+Adrian Sampson|R|George Springer|R|Fielders Choice|E|Sinker|3|1|2|0|4|93
+Adrian Sampson|R|Jose Altuve|R|Strikeout|C|Slider|4|0|0|0|5|83
+Adrian Sampson|R|Jose Altuve|R|Strikeout|*B|Slider|5|0|1|0|14|85
+Adrian Sampson|R|Jose Altuve|R|Strikeout|S|Slider|6|1|1|0|8|84
+Adrian Sampson|R|Jose Altuve|R|Strikeout|*B|Slider|7|1|2|0|14|83
+Adrian Sampson|R|Jose Altuve|R|Strikeout|S|Sinker|8|2|2|0|12|94
+Adrian Sampson|R|Alex Bregman|R|Strikeout|C|Sinker|9|0|0|1|7|94
+Adrian Sampson|R|Alex Bregman|R|Strikeout|F|Sinker|10|0|1|1|13|93
+Adrian Sampson|R|Alex Bregman|R|Strikeout|B|Slider|11|0|2|1|14|84
+Adrian Sampson|R|Alex Bregman|R|Strikeout|F|Sinker|12|1|2|1|11|93
+Adrian Sampson|R|Alex Bregman|R|Strikeout|T|Sinker|13|1|2|1|3|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|C|Sinker|14|0|0|2|3|92
+Adrian Sampson|R|Michael Brantley|L|Flyout|B|Sinker|15|0|1|2|11|93
+Adrian Sampson|R|Michael Brantley|L|Flyout|F|Changeup|16|1|1|2|1|87
+Adrian Sampson|R|Michael Brantley|L|Flyout|X|Sinker|17|1|2|2|11|93
+Adrian Sampson|R|Yordan Alvarez|L|Groundout|B|Sinker|18|0|0|0|12|92
+Adrian Sampson|R|Yordan Alvarez|L|Groundout|C|Sinker|19|1|0|0|3|93
+Adrian Sampson|R|Yordan Alvarez|L|Groundout|F|Sinker|20|1|1|0|11|92
+Adrian Sampson|R|Yordan Alvarez|L|Groundout|X|Sinker|21|1|2|0|12|92
+Adrian Sampson|R|Yuli Gurriel|R|Pop Out|S|Slider|22|0|0|1|14|84
+Adrian Sampson|R|Yuli Gurriel|R|Pop Out|X|Slider|23|0|1|1|7|82
+Adrian Sampson|R|Tyler White|R|Groundout|F|Sinker|24|0|0|2|12|92
+Adrian Sampson|R|Tyler White|R|Groundout|B|Sinker|25|0|1|2|12|91
+Adrian Sampson|R|Tyler White|R|Groundout|C|Sinker|26|1|1|2|14|91
+Adrian Sampson|R|Tyler White|R|Groundout|X|Slider|27|1|2|2|14|81
+Adrian Sampson|R|Max Stassi|R|Lineout|B|Slider|28|0|0|0|14|82
+Adrian Sampson|R|Max Stassi|R|Lineout|F|Slider|29|1|0|0|13|81
+Adrian Sampson|R|Max Stassi|R|Lineout|F|Sinker|30|1|1|0|11|92
+Adrian Sampson|R|Max Stassi|R|Lineout|X|Slider|31|1|2|0|4|83
+Adrian Sampson|R|Jake Marisnick|R|Triple|B|Sinker|32|0|0|1|14|92
+Adrian Sampson|R|Jake Marisnick|R|Triple|D|Sinker|33|1|0|1|9|92
+Adrian Sampson|R|George Springer|R|Flyout|B|Sinker|34|0|0|1|13|93
+Adrian Sampson|R|George Springer|R|Flyout|*B|Slider|35|1|0|1|14|84
+Adrian Sampson|R|George Springer|R|Flyout|C|Sinker|36|2|0|1|11|92
+Adrian Sampson|R|George Springer|R|Flyout|C|Sinker|37|2|1|1|13|92
+Adrian Sampson|R|George Springer|R|Flyout|B|Sinker|38|2|2|1|12|93
+Adrian Sampson|R|George Springer|R|Flyout|F|Sinker|39|3|2|1|11|95
+Adrian Sampson|R|George Springer|R|Flyout|F|Sinker|40|3|2|1|8|93
+Adrian Sampson|R|George Springer|R|Flyout|F|Sinker|41|3|2|1|5|93
+Adrian Sampson|R|George Springer|R|Flyout|X|Sinker|42|3|2|1|11|94
+Adrian Sampson|R|Jarrod Dyson|L|Single|C|Sinker|0|0|0|2|11|90
+Adrian Sampson|R|Jarrod Dyson|L|Single|B|Slider|1|0|1|2|13|82
+Adrian Sampson|R|Jarrod Dyson|L|Single|F|Slider|2|1|1|2|9|81
+Adrian Sampson|R|Jarrod Dyson|L|Single|*B|Slider|3|1|2|2|14|85
+Adrian Sampson|R|Jarrod Dyson|L|Single|*B|Changeup|4|2|2|2|14|87
+Adrian Sampson|R|Jarrod Dyson|L|Single|D|Sinker|5|3|2|2|13|92
+Adrian Sampson|R|Ketel Marte|L|Double|E|Slider|6|0|0|2|13|84
+Adrian Sampson|R|Eduardo Escobar|L|Flyout|B|Sinker|7|0|0|2|11|91
+Adrian Sampson|R|Eduardo Escobar|L|Flyout|F|Changeup|8|1|0|2|4|86
+Adrian Sampson|R|Eduardo Escobar|L|Flyout|C|Slider|9|1|1|2|1|82
+Adrian Sampson|R|Eduardo Escobar|L|Flyout|X|Sinker|10|1|2|2|11|91
+Adrian Sampson|R|Christian Walker|R|Hit By Pitch|F|Sinker|11|0|0|0|11|90
+Adrian Sampson|R|Christian Walker|R|Hit By Pitch|H|Sinker|12|0|1|0|11|91
+Adrian Sampson|R|Adam Jones|R|Double|D|Slider|13|0|0|0|5|85
+Adrian Sampson|R|Jake Lamb|L|Walk|B|Sinker|14|0|0|0|11|91
+Adrian Sampson|R|Jake Lamb|L|Walk|*B|Slider|15|1|0|0|14|83
+Adrian Sampson|R|Jake Lamb|L|Walk|B|Sinker|16|2|0|0|12|91
+Adrian Sampson|R|Jake Lamb|L|Walk|B|Sinker|17|3|0|0|12|92
+Adrian Sampson|R|Nick Ahmed|R|Sac Fly|S|Slider|18|0|0|0|13|84
+Adrian Sampson|R|Nick Ahmed|R|Sac Fly|B|Sinker|19|0|1|0|13|91
+Adrian Sampson|R|Nick Ahmed|R|Sac Fly|F|Slider|20|1|1|0|1|82
+Adrian Sampson|R|Nick Ahmed|R|Sac Fly|F|Slider|21|1|2|0|9|81
+Adrian Sampson|R|Nick Ahmed|R|Sac Fly|E|Sinker|22|1|2|0|13|93
+Adrian Sampson|R|Kevin Cron|R|Home Run|E|Sinker|23|0|0|1|2|92
+Adrian Sampson|R|Carson Kelly|R|Flyout|B|Sinker|24|0|0|1|7|91
+Adrian Sampson|R|Carson Kelly|R|Flyout|B|Sinker|25|1|0|1|14|92
+Adrian Sampson|R|Carson Kelly|R|Flyout|B|Sinker|26|2|0|1|14|91
+Adrian Sampson|R|Carson Kelly|R|Flyout|C|Sinker|27|3|0|1|7|91
+Adrian Sampson|R|Carson Kelly|R|Flyout|X|Sinker|28|3|1|1|4|91
+Adrian Sampson|R|Jarrod Dyson|L|Home Run|E|Changeup|29|0|0|2|11|86
+Adrian Sampson|R|Ketel Marte|L|Groundout|F|Sinker|30|0|0|2|12|92
+Adrian Sampson|R|Ketel Marte|L|Groundout|F|Sinker|31|0|1|2|12|92
+Adrian Sampson|R|Ketel Marte|L|Groundout|B|Slider|32|0|2|2|14|85
+Adrian Sampson|R|Ketel Marte|L|Groundout|X|Sinker|33|1|2|2|11|92
+Adrian Sampson|R|JaCoby Jones|R|Double|B|Sinker|0|0|0|0|13|91
+Adrian Sampson|R|JaCoby Jones|R|Double|C|Sinker|1|1|0|0|14|91
+Adrian Sampson|R|JaCoby Jones|R|Double|B|Slider|2|1|1|0|14|86
+Adrian Sampson|R|JaCoby Jones|R|Double|D|Sinker|3|2|1|0|4|92
+Adrian Sampson|R|Niko Goodrum|L|Lineout|B|Sinker|4|0|0|0|13|91
+Adrian Sampson|R|Niko Goodrum|L|Lineout|B|Sinker|5|1|0|0|11|91
+Adrian Sampson|R|Niko Goodrum|L|Lineout|F|Changeup|6|2|0|0|4|87
+Adrian Sampson|R|Niko Goodrum|L|Lineout|F|Sinker|7|2|1|0|11|92
+Adrian Sampson|R|Niko Goodrum|L|Lineout|X|Slider|8|2|2|0|13|87
+Adrian Sampson|R|Miguel Cabrera|R|Home Run|C|Slider|9|0|0|1|14|85
+Adrian Sampson|R|Miguel Cabrera|R|Home Run|E|Sinker|10|0|1|1|7|91
+Adrian Sampson|R|Brandon Dixon|R|Triple|B|Sinker|11|0|0|1|13|92
+Adrian Sampson|R|Brandon Dixon|R|Triple|D|Sinker|12|1|0|1|13|92
+Adrian Sampson|R|Harold Castro|L|Groundout|B|Sinker|13|0|0|1|13|92
+Adrian Sampson|R|Harold Castro|L|Groundout|F|Sinker|14|1|0|1|13|92
+Adrian Sampson|R|Harold Castro|L|Groundout|X|Changeup|15|1|1|1|13|87
+Adrian Sampson|R|Jeimer Candelario|L|Walk|*B|Slider|16|0|0|2|14|86
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Sinker|17|1|0|2|11|92
+Adrian Sampson|R|Jeimer Candelario|L|Walk|C|Sinker|18|2|0|2|8|92
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Changeup|19|2|1|2|11|88
+Adrian Sampson|R|Jeimer Candelario|L|Walk|F|Sinker|20|3|1|2|7|92
+Adrian Sampson|R|Jeimer Candelario|L|Walk|F|Sinker|21|3|2|2|13|92
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Changeup|22|3|2|2|11|88
+Adrian Sampson|R|Travis Demeritte|R|Walk|F|Sinker|23|0|0|2|13|92
+Adrian Sampson|R|Travis Demeritte|R|Walk|F|Slider|24|0|1|2|4|84
+Adrian Sampson|R|Travis Demeritte|R|Walk|B|Sinker|25|0|2|2|11|92
+Adrian Sampson|R|Travis Demeritte|R|Walk|B|Slider|26|1|2|2|14|84
+Adrian Sampson|R|Travis Demeritte|R|Walk|F|Sinker|27|2|2|2|13|93
+Adrian Sampson|R|Travis Demeritte|R|Walk|B|Slider|28|2|2|2|13|83
+Adrian Sampson|R|Travis Demeritte|R|Walk|B|Slider|29|3|2|2|14|84
+Adrian Sampson|R|Jake Rogers|R|Flyout|X|Sinker|30|0|0|2|4|93
+Adrian Sampson|R|Jordy Mercer|R|Single|B|Sinker|31|0|0|0|14|90
+Adrian Sampson|R|Jordy Mercer|R|Single|B|Sinker|32|1|0|0|14|89
+Adrian Sampson|R|Jordy Mercer|R|Single|D|Sinker|33|2|0|0|6|91
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|F|Sinker|34|0|0|0|11|91
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|X|Slider|35|0|1|0|5|83
+Adrian Sampson|R|Niko Goodrum|L|Walk|B|Sinker|36|0|0|1|14|92
+Adrian Sampson|R|Niko Goodrum|L|Walk|B|Sinker|37|1|0|1|13|92
+Adrian Sampson|R|Niko Goodrum|L|Walk|B|Sinker|38|2|0|1|13|92
+Adrian Sampson|R|Niko Goodrum|L|Walk|B|Sinker|39|3|0|1|11|91
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|*B|Slider|40|0|0|1|14|85
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|C|Slider|41|1|0|1|4|85
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|C|Sinker|42|1|1|1|11|92
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|B|Slider|43|1|2|1|14|85
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|B|Slider|44|2|2|1|14|83
+Adrian Sampson|R|Miguel Cabrera|R|Grounded Into DP|X|Slider|45|3|2|1|8|83
+Adrian Sampson|R|Brandon Dixon|R|Hit By Pitch|B|Sinker|46|0|0|0|14|91
+Adrian Sampson|R|Brandon Dixon|R|Hit By Pitch|F|Sinker|47|1|0|0|4|91
+Adrian Sampson|R|Brandon Dixon|R|Hit By Pitch|S|Sinker|48|1|1|0|11|92
+Adrian Sampson|R|Brandon Dixon|R|Hit By Pitch|B|Sinker|49|1|2|0|11|91
+Adrian Sampson|R|Brandon Dixon|R|Hit By Pitch|H|Sinker|50|2|2|0|11|93
+Adrian Sampson|R|Harold Castro|L|Grounded Into DP|B|Sinker|51|0|0|0|11|91
+Adrian Sampson|R|Harold Castro|L|Grounded Into DP|X|Changeup|52|1|0|0|13|87
+Adrian Sampson|R|Jeimer Candelario|L|Flyout|C|Changeup|53|0|0|2|1|88
+Adrian Sampson|R|Jeimer Candelario|L|Flyout|X|Changeup|54|0|1|2|13|88
+Adrian Sampson|R|Travis Demeritte|R|Strikeout|C|Sinker|55|0|0|0|7|90
+Adrian Sampson|R|Travis Demeritte|R|Strikeout|B|Slider|56|0|1|0|14|83
+Adrian Sampson|R|Travis Demeritte|R|Strikeout|F|Slider|57|1|1|0|14|82
+Adrian Sampson|R|Travis Demeritte|R|Strikeout|F|Sinker|58|1|2|0|7|91
+Adrian Sampson|R|Travis Demeritte|R|Strikeout|S|Sinker|59|1|2|0|11|92
+Adrian Sampson|R|Jake Rogers|R|Strikeout|C|Slider|60|0|0|1|12|82
+Adrian Sampson|R|Jake Rogers|R|Strikeout|C|Sinker|61|0|1|1|7|92
+Adrian Sampson|R|Jake Rogers|R|Strikeout|S|Slider|62|0|2|1|14|83
+Adrian Sampson|R|Jordy Mercer|R|Lineout|C|Sinker|63|0|0|2|9|92
+Adrian Sampson|R|Jordy Mercer|R|Lineout|C|Slider|64|0|1|2|3|84
+Adrian Sampson|R|Jordy Mercer|R|Lineout|B|Slider|65|0|2|2|14|84
+Adrian Sampson|R|Jordy Mercer|R|Lineout|B|Slider|66|1|2|2|14|83
+Adrian Sampson|R|Jordy Mercer|R|Lineout|X|Sinker|67|2|2|2|6|92
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|C|Slider|68|0|0|0|9|83
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|C|Sinker|69|0|1|0|14|91
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|B|Sinker|70|0|2|0|12|91
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|F|Sinker|71|1|2|0|2|91
+Adrian Sampson|R|JaCoby Jones|R|Pop Out|X|Slider|72|1|2|0|5|83
+Adrian Sampson|R|Niko Goodrum|L|Groundout|F|Sinker|73|0|0|1|5|92
+Adrian Sampson|R|Niko Goodrum|L|Groundout|B|Changeup|74|0|1|1|14|88
+Adrian Sampson|R|Niko Goodrum|L|Groundout|B|Changeup|75|1|1|1|11|87
+Adrian Sampson|R|Niko Goodrum|L|Groundout|X|Sinker|76|2|1|1|13|92
+Adrian Sampson|R|Miguel Cabrera|R|Single|B|Slider|77|0|0|2|1|85
+Adrian Sampson|R|Miguel Cabrera|R|Single|D|Sinker|78|1|0|2|5|92
+Adrian Sampson|R|Brandon Dixon|R|Double|B|Sinker|79|0|0|2|13|91
+Adrian Sampson|R|Brandon Dixon|R|Double|F|Sinker|80|1|0|2|8|91
+Adrian Sampson|R|Brandon Dixon|R|Double|B|Sinker|81|1|1|2|11|92
+Adrian Sampson|R|Brandon Dixon|R|Double|D|Sinker|82|2|1|2|4|91
+Adrian Sampson|R|Harold Castro|L|Single|C|Sinker|83|0|0|2|13|92
+Adrian Sampson|R|Harold Castro|L|Single|B|Sinker|84|0|1|2|13|92
+Adrian Sampson|R|Harold Castro|L|Single|E|Sinker|85|1|1|2|13|92
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Changeup|86|0|0|2|13|87
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Changeup|87|1|0|2|11|87
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Sinker|88|2|0|2|13|91
+Adrian Sampson|R|Jeimer Candelario|L|Walk|B|Sinker|89|3|0|2|11|91
+Adrian Sampson|R|C.J. Cron|R|Groundout|F|Slider|0|0|0|0|2|83
+Adrian Sampson|R|C.J. Cron|R|Groundout|B|Sinker|1|0|1|0|14|94
+Adrian Sampson|R|C.J. Cron|R|Groundout|X|Sinker|2|1|1|0|9|94
+Adrian Sampson|R|Jake Cave|L|Single|B|Changeup|3|0|0|1|14|87
+Adrian Sampson|R|Jake Cave|L|Single|D|Changeup|4|1|0|1|13|88
+Adrian Sampson|R|Max Kepler|L|Pop Out|F|Slider|5|0|0|1|7|85
+Adrian Sampson|R|Max Kepler|L|Pop Out|B|Sinker|6|0|1|1|14|93
+Adrian Sampson|R|Max Kepler|L|Pop Out|X|Changeup|7|1|1|1|7|87
+Adrian Sampson|R|Miguel Sano|R|Home Run|E|Sinker|8|0|0|2|8|93
+Adrian Sampson|R|Jorge Polanco|L|Walk|C|Changeup|9|0|0|2|13|87
+Adrian Sampson|R|Jorge Polanco|L|Walk|F|Sinker|10|0|1|2|5|93
+Adrian Sampson|R|Jorge Polanco|L|Walk|B|Slider|11|0|2|2|14|87
+Adrian Sampson|R|Jorge Polanco|L|Walk|B|Sinker|12|1|2|2|11|89
+Adrian Sampson|R|Jorge Polanco|L|Walk|B|Sinker|13|2|2|2|13|90
+Adrian Sampson|R|Jorge Polanco|L|Walk|F|Slider|14|3|2|2|7|84
+Adrian Sampson|R|Jorge Polanco|L|Walk|B|Sinker|15|3|2|2|13|94
+Adrian Sampson|R|Eddie Rosario|L|Pop Out|F|Changeup|16|0|0|2|11|88
+Adrian Sampson|R|Eddie Rosario|L|Pop Out|*B|Slider|17|0|1|2|14|86
+Adrian Sampson|R|Eddie Rosario|L|Pop Out|B|Sinker|18|1|1|2|13|89
+Adrian Sampson|R|Eddie Rosario|L|Pop Out|X|Sinker|19|2|1|2|14|93
+Adrian Sampson|R|Braden Bishop|R|Groundout|B|Slider|0|0|0|0|14|85
+Adrian Sampson|R|Braden Bishop|R|Groundout|X|Sinker|1|1|0|0|2|94
+Adrian Sampson|R|Mallex Smith|L|Single|D|Slider|2|0|0|1|8|85
+Adrian Sampson|R|Tim Lopes|R|Double|*B|Slider|3|0|0|1|14|86
+Adrian Sampson|R|Tim Lopes|R|Double|E|Slider|4|1|0|1|5|86
+Adrian Sampson|R|Kyle Seager|L|Walk|C|Changeup|5|0|0|1|3|88
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|6|0|1|1|11|93
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|7|1|1|1|11|94
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|8|2|1|1|11|93
+Adrian Sampson|R|Kyle Seager|L|Walk|C|Changeup|9|3|1|1|11|88
+Adrian Sampson|R|Kyle Seager|L|Walk|B|Sinker|10|3|2|1|11|90
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|F|Slider|11|0|0|1|13|86
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|F|Slider|12|0|1|1|9|86
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|F|Slider|13|0|2|1|13|85
+Adrian Sampson|R|Omar Narvaez|L|Strikeout|S|Sinker|14|0|2|1|11|94
+Adrian Sampson|R|Tom Murphy|R|Groundout|F|Slider|15|0|0|2|6|86
+Adrian Sampson|R|Tom Murphy|R|Groundout|B|Sinker|16|0|1|2|14|94
+Adrian Sampson|R|Tom Murphy|R|Groundout|S|Slider|17|1|1|2|14|85
+Adrian Sampson|R|Tom Murphy|R|Groundout|F|Slider|18|1|2|2|6|86
+Adrian Sampson|R|Tom Murphy|R|Groundout|B|Slider|19|1|2|2|14|85
+Adrian Sampson|R|Tom Murphy|R|Groundout|X|Slider|20|2|2|2|14|87
+Adrian Sampson|R|Sean Murphy|R|Walk|B|Slider|0|0|0|0|14|85
+Adrian Sampson|R|Sean Murphy|R|Walk|C|Slider|1|1|0|0|9|84
+Adrian Sampson|R|Sean Murphy|R|Walk|B|Slider|2|1|1|0|14|84
+Adrian Sampson|R|Sean Murphy|R|Walk|B|Sinker|3|2|1|0|14|94
+Adrian Sampson|R|Sean Murphy|R|Walk|B|Slider|4|3|1|0|14|85
+Adrian Sampson|R|Sheldon Neuse|R|Single|B|Slider|5|0|0|0|14|84
+Adrian Sampson|R|Sheldon Neuse|R|Single|D|Sinker|6|1|0|0|1|93
+Adrian Sampson|R|Marcus Semien|R|Flyout|X|Sinker|7|0|0|0|7|94
+Adrian Sampson|R|Ramon Laureano|R|Sac Fly|C|Slider|8|0|0|1|4|84
+Adrian Sampson|R|Ramon Laureano|R|Sac Fly|S|Slider|9|0|1|1|14|86
+Adrian Sampson|R|Ramon Laureano|R|Sac Fly|F|Sinker|10|0|2|1|7|94
+Adrian Sampson|R|Ramon Laureano|R|Sac Fly|E|Sinker|11|0|2|1|5|94
+Adrian Sampson|R|Matt Olson|L|Lineout|F|Sinker|12|0|0|2|13|88
+Adrian Sampson|R|Matt Olson|L|Lineout|B|Changeup|13|0|1|2|13|88
+Adrian Sampson|R|Matt Olson|L|Lineout|C|Sinker|14|1|1|2|7|95
+Adrian Sampson|R|Matt Olson|L|Lineout|X|Slider|15|1|2|2|14|84
+Adrian Sampson|R|Mark Canha|R|Flyout|C|Sinker|16|0|0|0|11|93
+Adrian Sampson|R|Mark Canha|R|Flyout|C|Sinker|17|0|1|0|6|94
+Adrian Sampson|R|Mark Canha|R|Flyout|B|Sinker|18|0|2|0|12|94
+Adrian Sampson|R|Mark Canha|R|Flyout|B|Slider|19|1|2|0|14|85
+Adrian Sampson|R|Mark Canha|R|Flyout|B|Slider|20|2|2|0|14|85
+Adrian Sampson|R|Mark Canha|R|Flyout|F|Sinker|21|3|2|0|6|95
+Adrian Sampson|R|Mark Canha|R|Flyout|X|Sinker|22|3|2|0|1|94
+Adrian Sampson|R|Chad Pinder|R|Strikeout|S|Slider|23|0|0|1|1|84
+Adrian Sampson|R|Chad Pinder|R|Strikeout|F|Slider|24|0|1|1|8|82
+Adrian Sampson|R|Chad Pinder|R|Strikeout|S|Sinker|25|0|2|1|12|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|C|Sinker|26|0|0|2|13|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|F|Sinker|27|0|1|2|4|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|F|Sinker|28|0|2|2|5|94
+Adrian Sampson|R|Khris Davis|R|Strikeout|F|Slider|29|0|2|2|4|82
+Adrian Sampson|R|Khris Davis|R|Strikeout|S|Sinker|30|0|2|2|11|94
+Adrian Sampson|R|Khris Davis|R|Groundout|C|Slider|0|0|0|0|8|84
+Adrian Sampson|R|Khris Davis|R|Groundout|C|Slider|1|0|1|0|14|84
+Adrian Sampson|R|Khris Davis|R|Groundout|B|Slider|2|0|2|0|14|85
+Adrian Sampson|R|Khris Davis|R|Groundout|B|Slider|3|1|2|0|14|86
+Adrian Sampson|R|Khris Davis|R|Groundout|X|Sinker|4|2|2|0|7|93
+Adrian Sampson|R|Jurickson Profar|L|Groundout|S|Slider|5|0|0|1|13|85
+Adrian Sampson|R|Jurickson Profar|L|Groundout|B|Sinker|6|0|1|1|14|93
+Adrian Sampson|R|Jurickson Profar|L|Groundout|X|Slider|7|1|1|1|13|84
+Adrian Sampson|R|Sean Murphy|R|Double|B|Sinker|8|0|0|2|14|94
+Adrian Sampson|R|Sean Murphy|R|Double|B|Slider|9|1|0|2|14|84
+Adrian Sampson|R|Sean Murphy|R|Double|D|Slider|10|2|0|2|11|84
+Adrian Sampson|R|Chad Pinder|R|Pop Out|*B|Slider|11|0|0|2|14|84
+Adrian Sampson|R|Chad Pinder|R|Pop Out|F|Slider|12|1|0|2|14|84
+Adrian Sampson|R|Chad Pinder|R|Pop Out|B|Slider|13|1|1|2|14|85
+Adrian Sampson|R|Chad Pinder|R|Pop Out|X|Slider|14|2|1|2|4|84
+Adrian Sampson|R|Gio Urshela|R|Single|F|Slider|0|0|0|0|14|85
+Adrian Sampson|R|Gio Urshela|R|Single|F|Sinker|1|0|1|0|6|92
+Adrian Sampson|R|Gio Urshela|R|Single|D|Slider|2|0|2|0|14|85
+Adrian Sampson|R|Cameron Maybin|R|Forceout|X|Sinker|3|0|0|0|2|93
+Adrian Sampson|R|Mike Ford|L|Forceout|C|Changeup|4|0|0|1|1|87
+Adrian Sampson|R|Mike Ford|L|Forceout|B|Changeup|5|0|1|1|13|88
+Adrian Sampson|R|Mike Ford|L|Forceout|S|Slider|6|1|1|1|14|86
+Adrian Sampson|R|Mike Ford|L|Forceout|*B|Slider|7|1|2|1|13|86
+Adrian Sampson|R|Mike Ford|L|Forceout|X|Slider|8|2|2|1|8|86
+Adrian Sampson|R|DJ LeMahieu|R|Double|C|Sinker|9|0|0|2|1|92
+Adrian Sampson|R|DJ LeMahieu|R|Double|D|Sinker|10|0|1|2|5|93
+Adrian Sampson|R|Giancarlo Stanton|R|Single|B|Slider|11|0|0|2|14|85
+Adrian Sampson|R|Giancarlo Stanton|R|Single|E|Slider|12|1|0|2|11|86
+Adrian Sampson|R|Gleyber Torres|R|Pop Out|X|Sinker|13|0|0|2|4|92
+Adrian Sampson|R|Luke Voit|R|Field Error|B|Sinker|14|0|0|0|11|92
+Adrian Sampson|R|Luke Voit|R|Field Error|D|Slider|15|1|0|0|4|85
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|B|Sinker|16|0|0|0|13|91
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|S|Slider|17|1|0|0|8|86
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|B|Sinker|18|1|1|0|14|93
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|B|Slider|19|2|1|0|7|86
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|C|Slider|20|3|1|0|11|84
+Adrian Sampson|R|Gary Sanchez|R|Strikeout|S|Slider|21|3|2|0|14|86
+Adrian Sampson|R|Brett Gardner|L|Grounded Into DP|B|Changeup|22|0|0|1|11|87
+Adrian Sampson|R|Brett Gardner|L|Grounded Into DP|B|Changeup|23|1|0|1|13|87
+Adrian Sampson|R|Brett Gardner|L|Grounded Into DP|X|Changeup|24|2|0|1|11|88
+Adrian Sampson|R|Gio Urshela|R|Home Run|E|Sinker|25|0|0|0|13|91
+Adrian Sampson|R|Cameron Maybin|R|Walk|B|Slider|26|0|0|0|12|85
+Adrian Sampson|R|Cameron Maybin|R|Walk|B|Slider|27|1|0|0|14|84
+Adrian Sampson|R|Cameron Maybin|R|Walk|F|Slider|28|2|0|0|8|85
+Adrian Sampson|R|Cameron Maybin|R|Walk|B|Slider|29|2|1|0|11|84
+Adrian Sampson|R|Cameron Maybin|R|Walk|B|Sinker|30|3|1|0|14|93
+Adrian Sampson|R|Mike Ford|L|Home Run|B|Changeup|31|0|0|0|11|87
+Adrian Sampson|R|Mike Ford|L|Home Run|C|Slider|32|1|0|0|6|84
+Adrian Sampson|R|Mike Ford|L|Home Run|B|Changeup|33|1|1|0|13|87
+Adrian Sampson|R|Mike Ford|L|Home Run|B|Changeup|34|2|1|0|13|88
+Adrian Sampson|R|Mike Ford|L|Home Run|E|Changeup|35|3|1|0|8|88
+Adrian Sampson|R|Justin Smoak|L|Double|W|Slider|0|0|0|1|14|85
+Adrian Sampson|R|Justin Smoak|L|Double|B|Sinker|1|0|1|1|12|92
+Adrian Sampson|R|Justin Smoak|L|Double|*B|Slider|2|1|1|1|14|84
+Adrian Sampson|R|Justin Smoak|L|Double|F|Changeup|3|2|1|1|8|88
+Adrian Sampson|R|Justin Smoak|L|Double|F|Sinker|4|2|2|1|2|93
+Adrian Sampson|R|Justin Smoak|L|Double|F|Slider|5|2|2|1|13|83
+Adrian Sampson|R|Justin Smoak|L|Double|*B|Slider|6|2|2|1|14|84
+Adrian Sampson|R|Justin Smoak|L|Double|E|Changeup|7|3|2|1|13|88
+Adrian Sampson|R|Randal Grichuk|R|Double|E|Sinker|8|0|0|1|4|92
+Adrian Sampson|R|Teoscar Hernandez|R|Walk|W|Slider|9|0|0|1|14|85
+Adrian Sampson|R|Teoscar Hernandez|R|Walk|B|Sinker|10|0|1|1|13|93
+Adrian Sampson|R|Teoscar Hernandez|R|Walk|B|Slider|11|1|1|1|14|84
+Adrian Sampson|R|Teoscar Hernandez|R|Walk|B|Sinker|12|2|1|1|11|92
+Adrian Sampson|R|Teoscar Hernandez|R|Walk|B|Sinker|13|3|1|1|13|92
+Adrian Sampson|R|Derek Fisher|L|Walk|C|Sinker|14|0|0|1|2|92
+Adrian Sampson|R|Derek Fisher|L|Walk|S|Changeup|15|0|1|1|4|88
+Adrian Sampson|R|Derek Fisher|L|Walk|*B|Slider|16|0|2|1|14|85
+Adrian Sampson|R|Derek Fisher|L|Walk|B|Sinker|17|1|2|1|11|92
+Adrian Sampson|R|Derek Fisher|L|Walk|B|Slider|18|2|2|1|14|85
+Adrian Sampson|R|Derek Fisher|L|Walk|*B|Changeup|19|3|2|1|13|88
+Adrian Sampson|R|Brandon Drury|R|Home Run|T|Slider|20|0|0|1|14|85
+Adrian Sampson|R|Brandon Drury|R|Home Run|E|Sinker|21|0|1|1|1|93
+Adrian Sampson|R|Danny Jansen|R|Strikeout|C|Slider|22|0|0|1|14|86
+Adrian Sampson|R|Danny Jansen|R|Strikeout|F|Slider|23|0|1|1|14|86
+Adrian Sampson|R|Danny Jansen|R|Strikeout|F|Slider|24|0|2|1|14|84
+Adrian Sampson|R|Danny Jansen|R|Strikeout|S|Slider|25|0|2|1|14|84
+Adrian Sampson|R|Max Kepler|L|Groundout|B|Sinker|0|0|0|0|14|90
+Adrian Sampson|R|Max Kepler|L|Groundout|B|Sinker|1|1|0|0|13|90
+Adrian Sampson|R|Max Kepler|L|Groundout|X|Sinker|2|2|0|0|7|90
+Adrian Sampson|R|Jorge Polanco|L|Strikeout|C|Sinker|3|0|0|1|5|91
+Adrian Sampson|R|Jorge Polanco|L|Strikeout|C|Sinker|4|0|1|1|12|91
+Adrian Sampson|R|Jorge Polanco|L|Strikeout|B|Slider|5|0|2|1|14|82
+Adrian Sampson|R|Jorge Polanco|L|Strikeout|T|Changeup|6|1|2|1|13|85
+Adrian Sampson|R|Nelson Cruz|R|Strikeout|F|Sinker|7|0|0|2|8|92
+Adrian Sampson|R|Nelson Cruz|R|Strikeout|B|Sinker|8|0|1|2|13|91
+Adrian Sampson|R|Nelson Cruz|R|Strikeout|S|Slider|9|1|1|2|14|81
+Adrian Sampson|R|Nelson Cruz|R|Strikeout|S|Slider|10|1|2|2|14|82
+Adrian Sampson|R|Mitch Garver|R|Double|B|Sinker|11|0|0|0|14|90
+Adrian Sampson|R|Mitch Garver|R|Double|B|Slider|12|1|0|0|14|82
+Adrian Sampson|R|Mitch Garver|R|Double|D|Sinker|13|2|0|0|8|91
+Adrian Sampson|R|Marwin Gonzalez|L|Single|F|Sinker|14|0|0|0|6|91
+Adrian Sampson|R|Marwin Gonzalez|L|Single|F|Slider|15|0|1|0|7|81
+Adrian Sampson|R|Marwin Gonzalez|L|Single|E|Changeup|16|0|2|0|13|86
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|B|Sinker|17|0|0|0|13|90
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|S|Slider|18|1|0|0|14|82
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|B|Sinker|19|1|1|0|11|91
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|B|Sinker|20|2|1|0|13|91
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|F|Sinker|21|3|1|0|11|90
+Adrian Sampson|R|C.J. Cron|R|Grounded Into DP|X|Slider|22|3|2|0|5|82
+Adrian Sampson|R|Luis Arraez|L|Home Run|B|Sinker|23|0|0|2|12|92
+Adrian Sampson|R|Luis Arraez|L|Home Run|B|Changeup|24|1|0|2|13|86
+Adrian Sampson|R|Luis Arraez|L|Home Run|C|Sinker|25|2|0|2|2|91
+Adrian Sampson|R|Luis Arraez|L|Home Run|B|Sinker|26|2|1|2|11|91
+Adrian Sampson|R|Luis Arraez|L|Home Run|E|Sinker|27|3|1|2|5|92
+Adrian Sampson|R|Jonathan Schoop|R|Double|B|Sinker|28|0|0|2|14|92
+Adrian Sampson|R|Jonathan Schoop|R|Double|F|Slider|29|1|0|2|5|84
+Adrian Sampson|R|Jonathan Schoop|R|Double|D|Sinker|30|1|1|2|5|92
+Adrian Sampson|R|Byron Buxton|R|Double|E|Sinker|31|0|0|2|9|91
+Adrian Sampson|R|Max Kepler|L|Single|W|Slider|32|0|0|2|14|83
+Adrian Sampson|R|Max Kepler|L|Single|E|Changeup|33|0|1|2|13|87
+Adrian Sampson|R|Jorge Polanco|L|Home Run|C|Slider|34|0|0|2|7|81
+Adrian Sampson|R|Jorge Polanco|L|Home Run|E|Sinker|35|0|1|2|2|90
+Adrian Sampson|R|Nelson Cruz|R|Double|B|Slider|36|0|0|2|14|82
+Adrian Sampson|R|Nelson Cruz|R|Double|S|Slider|37|1|0|2|3|83
+Adrian Sampson|R|Nelson Cruz|R|Double|B|Sinker|38|1|1|2|11|92
+Adrian Sampson|R|Nelson Cruz|R|Double|F|Slider|39|2|1|2|8|83
+Adrian Sampson|R|Nelson Cruz|R|Double|D|Slider|40|2|2|2|13|82
+Adrian Sampson|R|Mitch Garver|R|Strikeout|C|Slider|41|0|0|2|9|84
+Adrian Sampson|R|Mitch Garver|R|Strikeout|B|Changeup|42|0|1|2|13|87
+Adrian Sampson|R|Mitch Garver|R|Strikeout|F|Sinker|43|1|1|2|13|91
+Adrian Sampson|R|Mitch Garver|R|Strikeout|W|Slider|44|1|2|2|14|82
+Adrian Sampson|R|Marwin Gonzalez|L|Strikeout|B|Sinker|45|0|0|0|14|91
+Adrian Sampson|R|Marwin Gonzalez|L|Strikeout|S|Changeup|46|1|0|0|13|85
+Adrian Sampson|R|Marwin Gonzalez|L|Strikeout|B|Sinker|47|1|1|0|14|92
+Adrian Sampson|R|Marwin Gonzalez|L|Strikeout|S|Slider|48|2|1|0|13|83
+Adrian Sampson|R|Marwin Gonzalez|L|Strikeout|T|Slider|49|2|2|0|6|82
+Adrian Sampson|R|C.J. Cron|R|Groundout|X|Sinker|50|0|0|1|13|91
+Adrian Sampson|R|Luis Arraez|L|Flyout|B|Sinker|51|0|0|2|12|93
+Adrian Sampson|R|Luis Arraez|L|Flyout|C|Slider|52|1|0|2|8|83
+Adrian Sampson|R|Luis Arraez|L|Flyout|X|Changeup|53|1|1|2|2|87
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|B|Sinker|54|0|0|0|14|89
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|S|Slider|55|1|0|0|2|81
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|F|Slider|56|1|1|0|11|80
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|F|Slider|57|1|2|0|14|81
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|B|Sinker|58|1|2|0|12|91
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|F|Slider|59|2|2|0|8|82
+Adrian Sampson|R|Jonathan Schoop|R|Strikeout|S|Sinker|60|2|2|0|12|93
+Adrian Sampson|R|Byron Buxton|R|Double|C|Slider|61|0|0|1|9|82
+Adrian Sampson|R|Byron Buxton|R|Double|D|Sinker|62|0|1|1|4|92
+Adrian Sampson|R|Max Kepler|L|Single|C|Sinker|63|0|0|1|12|91
+Adrian Sampson|R|Max Kepler|L|Single|E|Sinker|64|0|1|1|2|92
+Adrian Sampson|R|Jorge Polanco|L|Single|S|Changeup|65|0|0|1|13|86
+Adrian Sampson|R|Jorge Polanco|L|Single|B|Sinker|66|0|1|1|13|91
+Adrian Sampson|R|Jorge Polanco|L|Single|C|Slider|67|1|1|1|13|81
+Adrian Sampson|R|Jorge Polanco|L|Single|F|Sinker|68|1|2|1|11|92
+Adrian Sampson|R|Jorge Polanco|L|Single|*B|Slider|69|1|2|1|14|81
+Adrian Sampson|R|Jorge Polanco|L|Single|D|Changeup|70|2|2|1|7|86
+Adrian Sampson|R|Keston Hiura|R|Walk|*B|Slider|0|0|0|1|14|86
+Adrian Sampson|R|Keston Hiura|R|Walk|*B|Slider|1|1|0|1|14|83
+Adrian Sampson|R|Keston Hiura|R|Walk|B|Sinker|2|2|0|1|14|93
+Adrian Sampson|R|Keston Hiura|R|Walk|C|Sinker|3|3|0|1|12|93
+Adrian Sampson|R|Keston Hiura|R|Walk|B|Sinker|4|3|1|1|14|93
+Adrian Sampson|R|Mike Moustakas|L|Strikeout|S|Changeup|5|0|0|1|7|88
+Adrian Sampson|R|Mike Moustakas|L|Strikeout|S|Sinker|6|0|1|1|12|94
+Adrian Sampson|R|Mike Moustakas|L|Strikeout|T|Sinker|7|0|2|1|11|93
+Adrian Sampson|R|Ryan Braun|R|Strikeout|C|Sinker|8|0|0|2|4|94
+Adrian Sampson|R|Ryan Braun|R|Strikeout|C|Sinker|9|0|1|2|6|94
+Adrian Sampson|R|Ryan Braun|R|Strikeout|F|Sinker|10|0|2|2|2|94
+Adrian Sampson|R|Ryan Braun|R|Strikeout|B|Sinker|11|0|2|2|12|93
+Adrian Sampson|R|Ryan Braun|R|Strikeout|W|Slider|12|1|2|2|14|84
+Adrian Sampson|R|Eric Thames|L|Groundout|C|Changeup|0|0|0|0|7|87
+Adrian Sampson|R|Eric Thames|L|Groundout|S|Sinker|1|0|1|0|11|92
+Adrian Sampson|R|Eric Thames|L|Groundout|F|Sinker|2|0|2|0|1|92
+Adrian Sampson|R|Eric Thames|L|Groundout|F|Slider|3|0|2|0|9|85
+Adrian Sampson|R|Eric Thames|L|Groundout|B|Sinker|4|0|2|0|11|93
+Adrian Sampson|R|Eric Thames|L|Groundout|X|Changeup|5|1|2|0|13|88
+Adrian Sampson|R|Lorenzo Cain|R|Hit By Pitch|B|Slider|6|0|0|1|11|83
+Adrian Sampson|R|Lorenzo Cain|R|Hit By Pitch|C|Slider|7|1|0|1|11|85
+Adrian Sampson|R|Lorenzo Cain|R|Hit By Pitch|H|Sinker|8|1|1|1|11|93
+Adrian Sampson|R|Orlando Arcia|R|Walk|*B|Slider|9|0|0|1|14|85
+Adrian Sampson|R|Orlando Arcia|R|Walk|F|Sinker|10|1|0|1|11|92
+Adrian Sampson|R|Orlando Arcia|R|Walk|B|Slider|11|1|1|1|14|85
+Adrian Sampson|R|Orlando Arcia|R|Walk|B|Sinker|12|2|1|1|11|93
+Adrian Sampson|R|Orlando Arcia|R|Walk|B|Sinker|13|3|1|1|11|93
+Adrian Sampson|R|Ben Gamel|L|Strikeout|C|Changeup|14|0|0|1|7|87
+Adrian Sampson|R|Ben Gamel|L|Strikeout|B|Sinker|15|0|1|1|13|93
+Adrian Sampson|R|Ben Gamel|L|Strikeout|S|Changeup|16|1|1|1|8|88
+Adrian Sampson|R|Ben Gamel|L|Strikeout|S|Changeup|17|1|2|1|13|88
+Adrian Sampson|R|Manny Pina|R|Strikeout|*B|Slider|18|0|0|2|14|86
+Adrian Sampson|R|Manny Pina|R|Strikeout|S|Sinker|19|1|0|2|3|94
+Adrian Sampson|R|Manny Pina|R|Strikeout|C|Sinker|20|1|1|2|3|94
+Adrian Sampson|R|Manny Pina|R|Strikeout|*B|Slider|21|1|2|2|14|85
+Adrian Sampson|R|Manny Pina|R|Strikeout|F|Slider|22|2|2|2|11|84
+Adrian Sampson|R|Manny Pina|R|Strikeout|B|Sinker|23|2|2|2|12|94
+Adrian Sampson|R|Manny Pina|R|Strikeout|F|Sinker|24|3|2|2|4|94
+Adrian Sampson|R|Manny Pina|R|Strikeout|S|Slider|25|3|2|2|14|86
+Adrian Sampson|R|Mookie Betts|R|Single|B|Four-Seam Fastball|0|0|0|0|11|92
+Adrian Sampson|R|Mookie Betts|R|Single|C|Four-Seam Fastball|1|1|0|0|6|91
+Adrian Sampson|R|Mookie Betts|R|Single|B|Slider|2|1|1|0|11|83
+Adrian Sampson|R|Mookie Betts|R|Single|D|Four-Seam Fastball|3|2|1|0|5|92
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|C|Four-Seam Fastball|4|0|0|0|5|92
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|F|Four-Seam Fastball|5|0|1|0|11|91
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|X|Slider|6|0|2|0|6|87
+Adrian Sampson|R|Xander Bogaerts|R|Single|C|Four-Seam Fastball|7|0|0|2|8|93
+Adrian Sampson|R|Xander Bogaerts|R|Single|B|Four-Seam Fastball|8|0|1|2|11|92
+Adrian Sampson|R|Xander Bogaerts|R|Single|F|Four-Seam Fastball|9|1|1|2|13|93
+Adrian Sampson|R|Xander Bogaerts|R|Single|B|Four-Seam Fastball|10|1|2|2|14|93
+Adrian Sampson|R|Xander Bogaerts|R|Single|F|Slider|11|2|2|2|4|86
+Adrian Sampson|R|Xander Bogaerts|R|Single|D|Four-Seam Fastball|12|2|2|2|1|93
+Adrian Sampson|R|David Ortiz|L|Single|B|Four-Seam Fastball|13|0|0|2|12|93
+Adrian Sampson|R|David Ortiz|L|Single|F|Four-Seam Fastball|14|1|0|2|11|93
+Adrian Sampson|R|David Ortiz|L|Single|B|Four-Seam Fastball|15|1|1|2|12|93
+Adrian Sampson|R|David Ortiz|L|Single|F|Slider|16|2|1|2|6|85
+Adrian Sampson|R|David Ortiz|L|Single|*B|Slider|17|2|2|2|14|86
+Adrian Sampson|R|David Ortiz|L|Single|D|Four-Seam Fastball|18|3|2|2|13|94
+Adrian Sampson|R|Hanley Ramirez|R|Pop Out|*B|Slider|19|0|0|2|14|86
+Adrian Sampson|R|Hanley Ramirez|R|Pop Out|X|Four-Seam Fastball|20|1|0|2|11|93
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|21|0|0|0|11|91
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|B|Changeup|22|1|0|0|11|86
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|23|2|0|0|11|90
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|C|Four-Seam Fastball|24|3|0|0|11|90
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|F|Four-Seam Fastball|25|3|1|0|5|91
+Adrian Sampson|R|Jackie Bradley Jr.|L|Walk|B|Four-Seam Fastball|26|3|2|0|6|93
+Adrian Sampson|R|Travis Shaw|L|Strikeout|F|Four-Seam Fastball|27|0|0|0|5|92
+Adrian Sampson|R|Travis Shaw|L|Strikeout|B|Four-Seam Fastball|28|0|1|0|14|92
+Adrian Sampson|R|Travis Shaw|L|Strikeout|B|Four-Seam Fastball|29|1|1|0|11|92
+Adrian Sampson|R|Travis Shaw|L|Strikeout|C|Slider|30|2|1|0|5|85
+Adrian Sampson|R|Travis Shaw|L|Strikeout|W|Slider|31|2|2|0|14|87
+Adrian Sampson|R|Chris Young|R|Forceout|B|Four-Seam Fastball|32|0|0|1|14|92
+Adrian Sampson|R|Chris Young|R|Forceout|F|Slider|33|1|0|1|7|87
+Adrian Sampson|R|Chris Young|R|Forceout|B|Four-Seam Fastball|34|1|1|1|11|91
+Adrian Sampson|R|Chris Young|R|Forceout|X|Four-Seam Fastball|35|2|1|1|2|91
+Adrian Sampson|R|Christian Vazquez|R|Groundout|B|Four-Seam Fastball|36|0|0|2|13|91
+Adrian Sampson|R|Christian Vazquez|R|Groundout|C|Four-Seam Fastball|37|1|0|2|2|91
+Adrian Sampson|R|Christian Vazquez|R|Groundout|F|Slider|38|1|1|2|5|86
+Adrian Sampson|R|Christian Vazquez|R|Groundout|B|Slider|39|1|2|2|14|88
+Adrian Sampson|R|Christian Vazquez|R|Groundout|F|Four-Seam Fastball|40|2|2|2|6|93
+Adrian Sampson|R|Christian Vazquez|R|Groundout|F|Slider|41|2|2|2|9|86
+Adrian Sampson|R|Christian Vazquez|R|Groundout|B|Four-Seam Fastball|42|2|2|2|14|92
+Adrian Sampson|R|Christian Vazquez|R|Groundout|X|Four-Seam Fastball|43|3|2|2|7|92
+Adrian Sampson|R|Mookie Betts|R|Lineout|B|Slider|44|0|0|0|1|87
+Adrian Sampson|R|Mookie Betts|R|Lineout|C|Slider|45|1|0|0|3|87
+Adrian Sampson|R|Mookie Betts|R|Lineout|F|Four-Seam Fastball|46|1|1|0|5|89
+Adrian Sampson|R|Mookie Betts|R|Lineout|B|Four-Seam Fastball|47|1|2|0|9|89
+Adrian Sampson|R|Mookie Betts|R|Lineout|F|Four-Seam Fastball|48|2|2|0|11|89
+Adrian Sampson|R|Mookie Betts|R|Lineout|X|Slider|49|2|2|0|9|85
+Adrian Sampson|R|Dustin Pedroia|R|Lineout|B|Slider|50|0|0|1|11|84
+Adrian Sampson|R|Dustin Pedroia|R|Lineout|X|Four-Seam Fastball|51|1|0|1|5|89
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|C|Four-Seam Fastball|52|0|0|2|5|89
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|53|0|1|2|12|89
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|S|Slider|54|1|1|2|14|85
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|B|Four-Seam Fastball|55|1|2|2|14|90
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|F|Four-Seam Fastball|56|2|2|2|4|90
+Adrian Sampson|R|Xander Bogaerts|R|Strikeout|C|Changeup|57|2|2|2|14|85
+Adrian Sampson|R|David Ortiz|L|Flyout|B|Slider|58|0|0|0|13|83
+Adrian Sampson|R|David Ortiz|L|Flyout|B|Four-Seam Fastball|59|1|0|0|14|88
+Adrian Sampson|R|David Ortiz|L|Flyout|B|Four-Seam Fastball|60|2|0|0|3|89
+Adrian Sampson|R|David Ortiz|L|Flyout|X|Four-Seam Fastball|61|3|0|0|13|88
+Adrian Sampson|R|Hanley Ramirez|R|Groundout|B|Four-Seam Fastball|62|0|0|1|14|88
+Adrian Sampson|R|Hanley Ramirez|R|Groundout|F|Four-Seam Fastball|63|1|0|1|5|89
+Adrian Sampson|R|Hanley Ramirez|R|Groundout|S|Slider|64|1|1|1|14|86
+Adrian Sampson|R|Hanley Ramirez|R|Groundout|F|Slider|65|1|2|1|9|85
+Adrian Sampson|R|Hanley Ramirez|R|Groundout|X|Four-Seam Fastball|66|1|2|1|11|90
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|F|Changeup|67|0|0|2|7|84
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|B|Four-Seam Fastball|68|0|1|2|12|88
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|B|Four-Seam Fastball|69|1|1|2|14|89
+Adrian Sampson|R|Jackie Bradley Jr.|L|Home Run|E|Four-Seam Fastball|70|2|1|2|5|90
+Adrian Sampson|R|Travis Shaw|L|Flyout|C|Slider|71|0|0|2|2|85
+Adrian Sampson|R|Travis Shaw|L|Flyout|X|Slider|72|0|1|2|6|86
+Adrian Sampson|R|Chris Young|R|Single|B|Changeup|73|0|0|0|11|86
+Adrian Sampson|R|Chris Young|R|Single|C|Four-Seam Fastball|74|1|0|0|13|89
+Adrian Sampson|R|Chris Young|R|Single|B|Changeup|75|1|1|0|14|84
+Adrian Sampson|R|Chris Young|R|Single|D|Four-Seam Fastball|76|2|1|0|4|89
+Adrian Sampson|R|Christian Vazquez|R|Single|D|Four-Seam Fastball|77|0|0|0|4|88
+Adrian Sampson|R|Mookie Betts|R|Single|E|Changeup|78|0|0|0|5|85
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|C|Four-Seam Fastball|79|0|0|0|14|91
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|F|Four-Seam Fastball|80|0|1|0|6|90
+Adrian Sampson|R|Dustin Pedroia|R|Grounded Into DP|E|Slider|81|0|2|0|14|86
+Adrian Sampson|R|Xander Bogaerts|R|Home Run|F|Four-Seam Fastball|82|0|0|2|14|89
+Adrian Sampson|R|Xander Bogaerts|R|Home Run|F|Four-Seam Fastball|83|0|1|2|13|89
+Adrian Sampson|R|Xander Bogaerts|R|Home Run|E|Four-Seam Fastball|84|0|2|2|13|89
