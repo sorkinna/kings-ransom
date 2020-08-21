@@ -7,7 +7,7 @@ Rockies at Rangers: 16, 12.3: Rangers
 Twins at White Sox: 14.5, 14.2: Twins
 Pirates at Cardinals: 14.2, 13.5: Cardinals
 Mariners at Astros: 14.7, 15.3: Astros
-Diamondbacks at Padres: 12.6, 14.2: Padres
+D-backs at Padres: 12.6, 14.2: Padres
 Angels at Athletics: 14.8, 15.1: Athletics
 Giants at Dodgers: 15.2, 15.1: Dodgers
 
@@ -26,7 +26,7 @@ Giants at Dodgers: 16.3, 16.4: Giants
 Royals at Indians: N/A: Royals
 Tigers at Reds: 13.6, 16.5: Tigers
 Yankees at Nationals: 16.3, 13.1: Nationals
-Diamondbacks at Padres: 14.6, 13.4: Padres
+D-backs at Padres: 14.6, 13.4: Padres
 
 Day 4
 Yankees at Nationals: 15.5, 13.8: Yankees
@@ -41,7 +41,7 @@ Pirates at Cardinals: 13.8, 13.3: Pirates
 Brewers at Cubs: 16.4, 13.5: Cubs
 Rockies at Rangers: 14.4, 14.5: Rockies
 Angels at Athletics: 14.5, 13.3: Athletics
-Diamondbacks at Padres: 13.9, 14: Diamondbacks
+D-backs at Padres: 13.9, 14: D-backs
 Braves at Mets: 14.1, 16: Braves
 Giants at Dodgers: 13.8, 15.5: Giants
 
@@ -219,3 +219,172 @@ D-backs at Padres: 14.582, 14.282: Padres
 Rockies at Mariners: 14.07, 12.436: Mariners
 Giants at Dodgers: 13.899, 13.943: Dodgers
 Orioles at Nationals: 12.564, 13.545: Orioles
+
+2020-08-10
+Rays at Red Sox: 14.386, 12.903: Rays
+Twins at Brewers: 14.626, 13.674: Twins
+D-backs at Rockies: 13.353, 14.777: D-backs
+Mariners at Rangers: 20.283, 16.317: Mariners
+Giants at Astros: N/A: Astros
+Padres at Dodgers: 15.862, 18.029: Padres
+Athletics at Angels: 15.601, 13.992: Angels
+Braves at Phillies: 15.584, 14.577: Phillies
+Nationals at Mets: 16.681, 16.215: Nationals
+White Sox at Tigers: 13.188, 14.515: Tigers
+
+2020-08-11
+Marlins at Blue Jays: N/A: Blue Jays
+Royals at Reds: N/A: Reds
+Orioles at Phillies: 12.606, 14.686: Orioles
+Braves at Yankees: 15.159, 18.719: Yankees
+Cubs at Indians: 14.93, 16.271: Cubs
+Nationals at Mets: 14.35, 13.779: Nationals
+White Sox at Tigers: 12.554, 13.889: White Sox
+Rays at Red Sox: 15.974, 14.903: Rays
+Twins at Brewers: 16.394, 14.485: Brewers
+D-backs at Rockies: 14.268, 15.783: Rockies
+Mariners at Rangers: 14.119, 14.26: Rangers
+Giants at Astros: N/A: Giants
+Athletics at Angels: 13.463, 15.058: Angels
+Padres at Dodgers: 13.231, 15.161: Padres
+
+2020-08-12
+Cubs at Indians: 14.92, 14.884: (13.667),(15.47): Cubs
+Marlins at Blue Jays: N/A: Marlins
+Royals at Reds: 14.876, 15.401: (13.203),(14.93): Royals
+Orioles at Phillies: 12.398, 15.105: (12.636),(15.26): Orioles
+Braves at Yankees: 13.066, 17.492: (14.285),(16.122): Yankees
+Nationals at Mets: 15.566, 14.571: (14.714),(15.486): Mets
+Giants at Astros: 12.881, 13.058: (14.519),(14.934): Astros
+Twins at Brewers: 13.898, 15.581: (15.225),(15.006): Twins
+Rays at Red Sox: 13.708, 14.024: (14.74),(14.224): Rays
+Mariners at Rangers: 15.799, 14.069: (14.107),(13.822): Rangers
+Padres at Dodgers: 15.491, 16.485: (14.503),(15.691): Dodgers
+White Sox at Tigers: 12.584, 12.874: (13.809),(13.488): White Sox
+D-backs at Rockies: 13.967, 15.06: (14.056),(14.824): D-backs
+Athletics at Angels: 15.314, 14.536: (14.351),(15.103): Athletics
+
+2020-08-13
+Padres at Dodgers: 14.702, 14.803: (14.561),(15.744): Dodgers
+Nationals at Mets: N/A: Mets
+Orioles at Phillies: N/A: Orioles
+Rays at Red Sox: N/A: Rays
+Pirates at Reds: 13.664, 14.337: (14.45),(14.966): Pirates
+Brewers at Cubs: 14.766, 13.917: (15.047),(13.764): Cubs
+
+2020-08-14
+Orioles at Nationals: 12.033, 13.513: (12.614),(14.799): Nationals
+Rays at Blue Jays: 15.104, 15.067: (14.672),(14.57): Blue Jays
+Mets at Phillies: N/A: Phillies
+Red Sox at Yankees: 13.643, 15.756: (14.211),(16.236): Yankees
+Indians at Tigers: 15.522, 14.251: (15.428),(13.437): Indians
+Pirates at Reds: 14.878, 12.803: (14.397),(14.921): Reds
+Braves at Marlins: 15.235, 15.884: (14.204),(13.848): Marlins
+Royals at Twins: 12.889, 15.001: (13.355),(15.142): Twins
+Brewers at Cubs: 16.802, 12.767: (15.028),(13.775): Brewers
+Rangers at Rockies: N/A: Rangers
+Padres at D-backs: 15.236, 14.274: (14.569),(14.05): D-backs
+Mariners at Astros: 18.007, 14.223: (14.213),(14.726): Astros
+Dodgers at Angels: 16.105, 15.04: (15.685),(15.068): Dodgers
+Athletics at Giants: 15.107, 15.718: (14.415),(14.41): Athletics
+Nationals at Orioles: 14.223, 12.77: (14.682),(12.566): Nationals
+
+2020-08-15
+Brewers at Cubs: 15.293, 15.72: (15.139),(13.708): Brewers
+Cardinals at White Sox: N/A: Cardinals
+Royals at Twins: N/A: Royals
+Mets at Phillies: 13.174, 14.957: (15.416),(15.245): Phillies
+Indians at Tigers: 14.796, 11.908: (15.434),(13.5): Indians
+Braves at Marlins: N/A: Braves
+Rays at Blue Jays: 15.061, 14.621: (14.699),(14.632): Rays
+Athletics at Giants: 12.96, 13.224: (14.458),(14.492): Athletics
+Red Sox at Yankees: 13.625, 15.747: (14.178),(16.2): Yankees
+Mariners at Astros: N/A: Astros
+Nationals at Orioles: 11.741, 12.652: (14.644),(12.581): Orioles
+Padres at D-backs: 16.713, 15.17: (14.604),(14.064): D-backs
+Rangers at Rockies: 12.319, 15.385: (13.839),(14.84): Rangers
+Cardinals at White Sox: 14.842, 12.044: (13.416),(13.722): Cardinals
+Royals at Twins: 12.857, 14.3: (13.316),(15.134): Twins
+Dodgers at Angels: 15.691, 15.065: (15.71),(15.066): Dodgers
+
+2020-08-16
+Nationals at Orioles: 15.782, 10.923: (14.421),(12.586): Nationals
+Mets at Phillies: 14.229, 13.533: (15.256),(15.219): Phillies
+Indians at Tigers: 14.698, 12.633: (15.394),(13.386): Indians
+Braves at Marlins: 13.441, 14.117: (14.268),(14.188): Braves
+Cardinals at White Sox: 15.445, 13.089: (13.653),(13.61): White Sox
+Mariners at Astros: N/A: Astros
+Royals at Twins: N/A: Twins
+Brewers at Cubs: 15.157, 15.611: (15.148),(13.833): Brewers
+Rangers at Rockies: 13.366, 14.111: (13.744),(14.874): Rockies
+Rays at Blue Jays: 15.211, 14.416: (14.72),(14.631): Rays
+Athletics at Giants: 15.924, 12.288: (14.37),(14.417): Athletics
+Dodgers at Angels: 15.878, 14.801: (15.709),(15.066): Dodgers
+Padres at D-backs: 13.951, 13.593: (14.709),(14.129): D-backs
+Rays at Blue Jays: 14.667, 15.177: (14.747),(14.609): Blue Jays
+Red Sox at Yankees: N/A: Yankees
+
+2020-08-17
+Cardinals at Cubs: N/A: Cardinals
+Red Sox at Yankees: 14.542, 15.355: (14.147),(16.167): Yankees
+Nationals at Braves: 14.476, 14.0: (14.518),(14.22): Braves
+Mets at Marlins: 15.854, 13.746: (15.187),(14.177): Mets
+Royals at Twins: N/A: Twins
+Blue Jays at Orioles: N/A: Blue Jays
+Tigers at White Sox: 14.663, 12.942: (13.336),(13.577): White Sox
+Padres at Rangers: 14.211, 17.4: (14.673),(13.722): Padres
+Athletics at D-backs: 14.991, 14.478: (14.457),(14.099): D-backs
+Giants at Angels: 14.403, 13.15: (14.299),(15.052): Angels
+Rockies at Astros: N/A: Astros
+Mariners at Dodgers: 15.29, 18.671: (14.436),(15.717): Dodgers
+Cubs at Cardinals: N/A: Cubs
+
+2020-08-18
+Rockies at Astros: 14.815, 14.465: (14.829),(14.675)
+Giants at Angels: 12.341, 14.326: (14.305),(14.957)
+Padres at Rangers: 12.475, 13.373: (14.652),(13.926)
+Athletics at D-backs: 14.008, 14.161: (14.485),(14.119)
+Rays at Yankees: 15.628, 14.942: (14.743),(16.113)
+Nationals at Braves: 12.739, 14.933: (14.515),(14.208)
+Phillies at Red Sox: 14.511, 14.316: (15.078),(14.168)
+Blue Jays at Orioles: N/A
+Brewers at Twins: 15.649, 14.026: (15.149),(15.087)
+Indians at Pirates: N/A
+Mariners at Dodgers: 16.15, 15.615: (14.484),(15.865)
+Mets at Marlins: N/A
+Tigers at White Sox: N/A
+Cardinals at Cubs: 13.169, 14.504: (13.909),(13.938)
+
+2020-08-19
+Reds at Royals: 16.326, 12.636: (14.78),(13.281)
+Cubs at Cardinals: N/A
+Rays at Yankees: 13.597, 13.06: (14.787),(16.04)
+Indians at Pirates: 15.098, 13.618: (15.353),(14.427)
+Mets at Marlins: 15.332, 12.939: (15.229),(14.123)
+Nationals at Braves: 14.196, 15.282: (14.404),(14.246)
+Tigers at White Sox: N/A
+Astros at Rockies: N/A
+Dodgers at Mariners: 15.563, 14.457: (15.853),(14.571)
+D-backs at Athletics: 12.44, 14.627: (14.121),(14.461)
+Blue Jays at Orioles: 13.936, 13.871: (14.661),(12.476)
+Phillies at Red Sox: N/A
+Cardinals at Cubs: 16.33, 13.138: (13.817),(13.969)
+Brewers at Twins: 12.818, 14.434: (15.175),(15.031)
+Rangers at Padres: 13.402, 16.561: (13.897),(14.558)
+Angels at Giants: 15.566, 14.572: (14.927),(14.206)
+Reds at Royals: 14.103, 13.781: (14.877),(13.235)
+
+2020-08-20
+Indians at Pirates: 14.576, 14.841: (15.339),(14.38)
+Brewers at Twins: 14.766, 14.378: (15.057),(15.002)
+Dodgers at Mariners: 14.966, 12.14: (15.84),(14.566)
+Red Sox at Orioles: 13.692, 10.631: (14.175),(12.563)
+Rangers at Padres: 14.203, 16.698: (13.872),(14.641)
+Reds at Cardinals: 13.906, 15.112: (14.831),(14.096)
+D-backs at Athletics: 13.395, 14.953: (14.041),(14.469)
+Angels at Giants: 15.455, 14.127: (14.956),(14.224)
+Rays at Yankees: 12.433, 13.433: (14.731),(15.865)
+Phillies at Blue Jays: N/A
+Phillies at Blue Jays: 15.095, 12.613: (15.035),(14.601)
+Tigers at White Sox: 12.932, 12.734: (13.419),(13.54)
+Astros at Rockies: N/A

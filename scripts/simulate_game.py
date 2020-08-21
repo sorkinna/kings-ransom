@@ -5,6 +5,7 @@ from random import randrange
 from numpy.random import choice
 import numpy as np
 import time
+from calculate_avg_hits import get_avg_hits
 
 def get_pitch(pitcher, balls, strikes, batter):
     if 'L' in batter['hand']:
@@ -115,14 +116,14 @@ def simulate(home_pitch, away_pitch, home_lineup, away_lineup):
     for x in range(0,18):
         #print("Inning: " + str(int(x/2)+1))
         if top_inning:
-            pitch_file = "players/jsons/" + home_pitch.replace(' ', '_') + ".json"
+            pitch_file = "../players/jsons/" + home_pitch.replace(' ', '_') + ".json"
             if not path.exists(pitch_file):
                 return -1, -1
             pitcher_json = json.loads(open(pitch_file).read())
             bat_lineup = away_lineup
             at_bat = away_at_bat
         else:
-            pitch_file = "players/jsons/" + away_pitch.replace(' ', '_') + ".json"
+            pitch_file = "../players/jsons/" + away_pitch.replace(' ', '_') + ".json"
             if not path.exists(pitch_file):
                 return -1, -1
             pitcher_json = json.loads(open(pitch_file).read())
@@ -134,7 +135,7 @@ def simulate(home_pitch, away_pitch, home_lineup, away_lineup):
         new_batter = False
         while outs < 3:
             batter = bat_lineup[at_bat]
-            batter_file = "players/batter-jsons/" + batter.replace(' ', '_') + ".json"
+            batter_file = "../players/batter-jsons/" + batter.replace(' ', '_') + ".json"
             if path.exists(batter_file):
                 batter_json = json.loads(open(batter_file).read())
                 pitch_thrown, pitch_zone = get_pitch(pitcher_json, balls, strikes, batter_json)
@@ -193,7 +194,7 @@ def simulate_games(away_pitcher, home_pitcher, away_name, home_name, away_lineup
     for x in range(0, 1000):
         home, away = simulate(home_pitcher, away_pitcher, home_lineup, away_lineup)
         if home == -1 and away == -1:
-            with open("history.txt", "a") as myfile:
+            with open("../logs/history.txt", "a") as myfile:
                 myfile.write(away_name + " at " + home_name + ": N/A\n")
             break
         else:
@@ -206,8 +207,8 @@ def simulate_games(away_pitcher, home_pitcher, away_name, home_name, away_lineup
         home_expected = str(sum(home_array)/len(home_array))
         game_dict['home_hits'] = home_expected
         game_dict['away_hits'] = away_expected
-        with open("history.txt", "a") as myfile:
-            myfile.write(away_name + " at " + home_name + ": " + away_expected + ", " + home_expected + "\n")
+        with open("../logs/history.txt", "a") as myfile:
+            myfile.write(away_name + " at " + home_name + ": " + away_expected + ", " + home_expected + ": (" + str(get_avg_hits(away_name)) + "),(" + str(get_avg_hits(home_name)) + ")\n")
         print("Average home team hits = " + str(sum(home_array)/len(home_array)) + " with standard deviation: " + str(np.std(np_home)))
         print("Average away team hits = " + str(sum(away_array)/len(away_array)) + " with standard deviation: " + str(np.std(np_away)))
 

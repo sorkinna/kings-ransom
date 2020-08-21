@@ -1,0 +1,216 @@
+{
+    "631351": {
+        "status": "processed",
+        "id": "631351",
+        "home_team": "Dodgers",
+        "away_team": "Padres",
+        "date": "9:40 PM",
+        "home_pitcher": "Julio Urias",
+        "away_pitcher": "Chris Paddack",
+        "home_lineup": [
+            "Mookie Betts",
+            "Corey Seager",
+            "Justin Turner",
+            "Cody Bellinger",
+            "AJ Pollock",
+            "Max Muncy",
+            "Joc Pederson",
+            "Chris Taylor",
+            "Austin Barnes"
+        ],
+        "away_lineup": [
+            "Fernando Tatis Jr.",
+            "Manny Machado",
+            "Tommy Pham",
+            "Eric Hosmer",
+            "Wil Myers",
+            "Jurickson Profar",
+            "Edward Olivares",
+            "Austin Hedges",
+            "Jorge Mateo"
+        ],
+        "home_hits": "14.803",
+        "away_hits": "14.702"
+    },
+    "631231": {
+        "status": "processed",
+        "id": "631231",
+        "home_team": "Mets",
+        "away_team": "Nationals",
+        "date": "final",
+        "home_pitcher": "David Peterson",
+        "away_pitcher": "Austin Voth",
+        "home_lineup": [
+            "Brandon Nimmo",
+            "J.D. Davis",
+            "Jeff McNeil",
+            "Michael Conforto",
+            "Pete Alonso",
+            "Dominic Smith",
+            "Andres Gimenez",
+            "Tomas Nido",
+            "Luis Guillorme"
+        ],
+        "away_lineup": [
+            "Trea Turner",
+            "Adam Eaton",
+            "Starlin Castro",
+            "Juan Soto",
+            "Howie Kendrick",
+            "Asdrubal Cabrera",
+            "Carter Kieboom",
+            "Yan Gomes",
+            "Michael A. Taylor"
+        ]
+    },
+    "631142": {
+        "status": "processed",
+        "id": "631142",
+        "home_team": "Phillies",
+        "away_team": "Orioles",
+        "date": "final",
+        "home_pitcher": "Jake Arrieta",
+        "away_pitcher": "Thomas Eshelman",
+        "home_lineup": [
+            "Andrew McCutchen",
+            "Jean Segura",
+            "Bryce Harper",
+            "J.T. Realmuto",
+            "Didi Gregorius",
+            "Alec Bohm",
+            "Jay Bruce",
+            "Neil Walker",
+            "Roman Quinn"
+        ],
+        "away_lineup": [
+            "Hanser Alberto",
+            "Anthony Santander",
+            "Jose Iglesias",
+            "Rio Ruiz",
+            "Renato Nunez",
+            "Dwight Smith",
+            "Pedro Severino",
+            "Austin Hays",
+            "Pat Valaika"
+        ]
+    },
+    "631650": {
+        "status": "processed",
+        "id": "631650",
+        "home_team": "Red Sox",
+        "away_team": "Rays",
+        "date": "final",
+        "home_pitcher": "Kyle Hart",
+        "away_pitcher": "Tyler Glasnow",
+        "home_lineup": [
+            "Alex Verdugo",
+            "Rafael Devers",
+            "J.D. Martinez",
+            "Mitch Moreland",
+            "Kevin Pillar",
+            "Kevin Plawecki",
+            "Jonathan Arauz",
+            "Jackie Bradley Jr.",
+            "Jose Peraza"
+        ],
+        "away_lineup": [
+            "Mike Brosseau",
+            "Jose Martinez",
+            "Yandy Diaz",
+            "Hunter Renfroe",
+            "Brandon Lowe",
+            "Willy Adames",
+            "Manuel Margot",
+            "Yoshi Tsutsugo",
+            "Mike Zunino"
+        ]
+    },
+    "631600": {
+        "status": "processed",
+        "id": "631600",
+        "home_team": "Reds",
+        "away_team": "Pirates",
+        "date": "final",
+        "home_pitcher": "Anthony DeSclafani",
+        "away_pitcher": "Trevor Williams",
+        "home_lineup": [
+            "Shogo Akiyama",
+            "Nick Castellanos",
+            "Joey Votto",
+            "Eugenio Suarez",
+            "Jesse Winker",
+            "Nick Senzel",
+            "Josh VanMeter",
+            "Freddy Galvis",
+            "Tucker Barnhart"
+        ],
+        "away_lineup": [
+            "Adam Frazier",
+            "Kevin Newman",
+            "Josh Bell",
+            "Colin Moran",
+            "Bryan Reynolds",
+            "Gregory Polanco",
+            "Erik Gonzalez",
+            "Jarrod Dyson",
+            "Jacob Stallings"
+        ],
+        "home_hits": "14.337",
+        "away_hits": "13.664"
+    },
+    "631609": {
+        "status": "processed",
+        "id": "631609",
+        "home_team": "Cubs",
+        "away_team": "Brewers",
+        "date": "final",
+        "home_pitcher": "Yu Darvish",
+        "away_pitcher": "Brett Anderson",
+        "home_lineup": [
+            "Nico Hoerner",
+            "Anthony Rizzo",
+            "Javier Baez",
+            "Willson Contreras",
+            "Kyle Schwarber",
+            "Ian Happ",
+            "David Bote",
+            "Steven Souza Jr.",
+            "Victor Caratini"
+        ],
+        "away_lineup": [
+            "Eric Sogard",
+            "Keston Hiura",
+            "Christian Yelich",
+            "Avisail Garcia",
+            "Justin Smoak",
+            "Omar Narvaez",
+            "Ben Gamel",
+            "Orlando Arcia",
+            "Brock Holt"
+        ],
+        "home_hits": "13.917",
+        "away_hits": "14.766"
+    },
+    "631472": {
+        "status": "processed",
+        "id": "631472",
+        "home_team": "Tigers",
+        "away_team": "Cardinals",
+        "date": "PPD",
+        "home_pitcher": "TBD",
+        "away_pitcher": "TBD",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    "631471": {
+        "status": "processed",
+        "id": "631471",
+        "home_team": "Tigers",
+        "away_team": "Cardinals",
+        "date": "PPD",
+        "home_pitcher": "TBD",
+        "away_pitcher": "TBD",
+        "home_lineup": [],
+        "away_lineup": []
+    }
+}

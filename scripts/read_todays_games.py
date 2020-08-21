@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from simulate_game import simulate_games
 import time
 from datetime import date, datetime, timedelta
+import json
 
 def read_games(game_day_dict):
     URL = 'https://www.mlb.com/starting-lineups'
@@ -81,7 +82,7 @@ if __name__ == "__main__":
     today = date.today()
     game_day_dict = {}
     still_running = True
-    with open("history.txt", "a") as myfile:
+    with open("../logs/history.txt", "a") as myfile:
         myfile.write("\n" + str(today) + "\n")
     while still_running:
         game_day_dict = read_games(game_day_dict)
@@ -98,7 +99,7 @@ if __name__ == "__main__":
             time.sleep(1800)
             print("done sleeping")
         #time.sleep(60.0 - ((time.time() - starttime) % 60.0))
-    outfile_path = "DateFiles/" + str(today) + ".json"
-    with open(outfile_path, 'w') as outfile:
-        json.dump(game_day_dict, outfile, indent=4, sort_keys=True)
+    outfile_path = "../DateFiles/" + str(today) + ".json"
+    with open(outfile_path, 'w', encoding='utf-8') as f:
+        json.dump(game_day_dict, f, ensure_ascii=False, indent=4)
     print("************FINISHED************")
