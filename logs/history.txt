@@ -340,51 +340,83 @@ Mariners at Dodgers: 15.29, 18.671: (14.436),(15.717): Dodgers
 Cubs at Cardinals: N/A: Cubs
 
 2020-08-18
-Rockies at Astros: 14.815, 14.465: (14.829),(14.675)
-Giants at Angels: 12.341, 14.326: (14.305),(14.957)
-Padres at Rangers: 12.475, 13.373: (14.652),(13.926)
-Athletics at D-backs: 14.008, 14.161: (14.485),(14.119)
-Rays at Yankees: 15.628, 14.942: (14.743),(16.113)
-Nationals at Braves: 12.739, 14.933: (14.515),(14.208)
-Phillies at Red Sox: 14.511, 14.316: (15.078),(14.168)
-Blue Jays at Orioles: N/A
-Brewers at Twins: 15.649, 14.026: (15.149),(15.087)
-Indians at Pirates: N/A
-Mariners at Dodgers: 16.15, 15.615: (14.484),(15.865)
-Mets at Marlins: N/A
-Tigers at White Sox: N/A
-Cardinals at Cubs: 13.169, 14.504: (13.909),(13.938)
+Rockies at Astros: 14.815, 14.465: (14.829),(14.675): Astros
+Giants at Angels: 12.341, 14.326: (14.305),(14.957): Giants
+Padres at Rangers: 12.475, 13.373: (14.652),(13.926): Padres
+Athletics at D-backs: 14.008, 14.161: (14.485),(14.119): D-backs
+Rays at Yankees: 15.628, 14.942: (14.743),(16.113): Rays
+Nationals at Braves: 12.739, 14.933: (14.515),(14.208): Nationals
+Phillies at Red Sox: 14.511, 14.316: (15.078),(14.168): Phillies
+Blue Jays at Orioles: N/A: Blue Jays
+Brewers at Twins: 15.649, 14.026: (15.149),(15.087): Twins
+Indians at Pirates: N/A: Indians
+Mariners at Dodgers: 16.15, 15.615: (14.484),(15.865): Dodgers
+Mets at Marlins: N/A: Mets
+Tigers at White Sox: N/A: White Sox
+Cardinals at Cubs: 13.169, 14.504: (13.909),(13.938): Cubs
 
 2020-08-19
-Reds at Royals: 16.326, 12.636: (14.78),(13.281)
-Cubs at Cardinals: N/A
-Rays at Yankees: 13.597, 13.06: (14.787),(16.04)
-Indians at Pirates: 15.098, 13.618: (15.353),(14.427)
-Mets at Marlins: 15.332, 12.939: (15.229),(14.123)
-Nationals at Braves: 14.196, 15.282: (14.404),(14.246)
-Tigers at White Sox: N/A
-Astros at Rockies: N/A
-Dodgers at Mariners: 15.563, 14.457: (15.853),(14.571)
-D-backs at Athletics: 12.44, 14.627: (14.121),(14.461)
-Blue Jays at Orioles: 13.936, 13.871: (14.661),(12.476)
-Phillies at Red Sox: N/A
-Cardinals at Cubs: 16.33, 13.138: (13.817),(13.969)
-Brewers at Twins: 12.818, 14.434: (15.175),(15.031)
-Rangers at Padres: 13.402, 16.561: (13.897),(14.558)
-Angels at Giants: 15.566, 14.572: (14.927),(14.206)
-Reds at Royals: 14.103, 13.781: (14.877),(13.235)
+Reds at Royals: 16.326, 12.636: (14.78),(13.281): Royals
+Cubs at Cardinals: N/A: Cubs
+Rays at Yankees: 13.597, 13.06: (14.787),(16.04): Rays
+Indians at Pirates: 15.098, 13.618: (15.353),(14.427): Indians
+Mets at Marlins: 15.332, 12.939: (15.229),(14.123): Mets
+Nationals at Braves: 14.196, 15.282: (14.404),(14.246): N/A
+Tigers at White Sox: N/A: White Sox
+Astros at Rockies: N/A: Astros
+Dodgers at Mariners: 15.563, 14.457: (15.853),(14.571): Mariners
+D-backs at Athletics: 12.44, 14.627: (14.121),(14.461): Athletics
+Blue Jays at Orioles: 13.936, 13.871: (14.661),(12.476): Blue Jays
+Phillies at Red Sox: N/A: Red Sox
+Cardinals at Cubs: 16.33, 13.138: (13.817),(13.969): Cardinals
+Brewers at Twins: 12.818, 14.434: (15.175),(15.031): Brewers
+Rangers at Padres: 13.402, 16.561: (13.897),(14.558): Padres
+Angels at Giants: 15.566, 14.572: (14.927),(14.206): Giants
+Reds at Royals: 14.103, 13.781: (14.877),(13.235): Reds
 
 2020-08-20
-Indians at Pirates: 14.576, 14.841: (15.339),(14.38)
-Brewers at Twins: 14.766, 14.378: (15.057),(15.002)
-Dodgers at Mariners: 14.966, 12.14: (15.84),(14.566)
-Red Sox at Orioles: 13.692, 10.631: (14.175),(12.563)
-Rangers at Padres: 14.203, 16.698: (13.872),(14.641)
-Reds at Cardinals: 13.906, 15.112: (14.831),(14.096)
-D-backs at Athletics: 13.395, 14.953: (14.041),(14.469)
-Angels at Giants: 15.455, 14.127: (14.956),(14.224)
-Rays at Yankees: 12.433, 13.433: (14.731),(15.865)
-Phillies at Blue Jays: N/A
-Phillies at Blue Jays: 15.095, 12.613: (15.035),(14.601)
-Tigers at White Sox: 12.932, 12.734: (13.419),(13.54)
-Astros at Rockies: N/A
+Indians at Pirates: 14.576, 14.841: (15.339),(14.38): Indians
+Brewers at Twins: 14.766, 14.378: (15.057),(15.002): Twins
+Dodgers at Mariners: 14.966, 12.14: (15.84),(14.566): Dodgers
+Red Sox at Orioles: 13.692, 10.631: (14.175),(12.563): Red Sox
+Rangers at Padres: 14.203, 16.698: (13.872),(14.641): Padres
+Reds at Cardinals: 13.906, 15.112: (14.831),(14.096): Cardinals
+D-backs at Athletics: 13.395, 14.953: (14.041),(14.469): Athletics
+Angels at Giants: 15.455, 14.127: (14.956),(14.224): Giants
+Rays at Yankees: 12.433, 13.433: (14.731),(15.865): Rays
+Phillies at Blue Jays: N/A: N/A
+Phillies at Blue Jays: 15.095, 12.613: (15.035),(14.601): Blue Jays
+Tigers at White Sox: 12.932, 12.734: (13.419),(13.54): White Sox
+Astros at Rockies: N/A: Astros
+
+2020-08-21
+Marlins at Nationals: N/A: Marlins
+Blue Jays at Rays: 13.191, 14.88: (14.448),(14.626): Blue Jays
+Brewers at Pirates: 15.322, 15.106: (15.043),(14.405): Pirates
+Tigers at Indians: 12.713, 14.79: (13.39),(15.299): Tigers
+Phillies at Braves: 14.544, 15.227: (15.039),(14.298): Braves
+Red Sox at Orioles: 13.941, 9.932: (14.152),(12.449): Red Sox
+Twins at Royals: 13.702, 12.871: (14.972),(13.271): Royals
+Reds at Cardinals: 14.258, 13.761: (14.78),(14.198): Reds
+White Sox at Cubs: 11.74, 17.291: (13.495),(13.926): White Sox
+D-backs at Giants: 14.33, 16.599: (14.012),(14.219): Giants
+Astros at Padres: N/A: Padres
+Rangers at Mariners: 13.026, 18.0: (13.888),(14.45): Mariners
+Rockies at Dodgers: 13.915, 15.56: (14.829),(15.802): Dodgers
+Angels at Athletics: 13.588, 14.862: (14.978),(14.491): Athletics
+
+2020-09-02
+Giants at Rockies: 15.055, 13.619: (14.323),(14.78)
+Mets at Orioles: 15.371, 9.87: (15.235),(12.309)
+Blue Jays at Marlins: N/A
+Nationals at Phillies: 12.62, 13.419: (14.392),(15.006)
+Rays at Yankees: 17.078, 15.181: (14.637),(15.729)
+Braves at Red Sox: N/A
+Rangers at Astros: N/A
+Cubs at Pirates: 12.777, 18.112: (14.094),(14.442)
+Cardinals at Reds: N/A
+Tigers at Brewers: 13.972, 15.217: (13.352),(15.056)
+Indians at Royals: N/A
+White Sox at Twins: 14.268, 14.293: (13.403),(14.914)
+D-backs at Dodgers: 14.22, 15.935: (14.026),(15.792)
+Padres at Angels: 15.076, 14.249: (14.723),(14.92)
